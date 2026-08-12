@@ -6,970 +6,742 @@ constituteproject.org
 
 # Sierra Leone's Constitution of 1991, Reinstated in 1996, with Amendments through 2008
 
-This  complete  constitution  has  been  generated  from  excerpts  of  texts  from  the  repository  of  the Comparative Constitutions Project, and distributed on constituteproject.org .
+This complete constitution has been generated from excerpts of texts from the repository of the Comparative Constitutions Project, and distributed on constituteproject.org.
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-## Table of contents
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 2
-
+## Table of contents
+CHAPTER I: THE REPUBLIC OF SIERRA LEONE . . . 9
+1. Declaration of Republic . . . 9
+2. Public Seal . . . 9
+3. The National Flag and National Anthem . . . 9
+CHAPTER II: FUNDAMENTAL PRINCIPLES OF STATE POLICY . . . 9
+4. Fundamental obligations of Government . . . 9
+5. Government and the people . . . 9
+6. Political objectives . . . 9
+7. Economic objectives . . . 10
+8. Social objectives . . . 10
+9. Educational objectives . . . 11
+10. Foreign policy objectives . . . 12
+11. Obligations of the mass media . . . 12
+12. Enhancement of national culture . . . 12
+13. Duties of the citizen . . . 12
+14. Fundamental principles not justiciable . . . 13
+CHAPTER III: THE RECOGNITION AND PROTECTION OF FUNDAMENTAL HUMAN RIGHTS AND FREEDOMS OF THE INDIVIDUAL . . . 13
+15. Fundamental Human Rights and Freedoms of the Individual . . . 13
+16. Protection of right to life . . . 14
+17. Protection from arbitrary arrest or detention . . . 14
+18. Protection of freedom of movement . . . 16
+19. Protection from slavery and forced labour . . . 17
+20. Protection from inhuman treatment . . . 17
+21. Protection from deprivation of property . . . 18
+22. Protection for privacy of home and other property . . . 19
+23. Provision to secure protection of law . . . 20
+24. Protection of freedom of conscience . . . 22
+25. Protection of freedom of expression and the press . . . 22
+26. Protection of freedom of assembly and association . . . 23
+27. Protection from discrimination . . . 23
+28. Enforcement of protective provisions . . . 25
+29. Public Emergency . . . 26
+30. Interpretation of Chapter III . . . 29
+CHAPTER IV: THE REPRESENTATION OF THE PEOPLE . . . 30
+31. Registration of voters . . . 30
+32. Electoral Commission . . . 30
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 3
-
+33. Functions of the Electoral Commission . . . 31
+34. Political Parties Registration Commission . . . 32
+35. Registration and conduct of political parties . . . 32
+36. Secret ballot . . . 33
+37. Referendum . . . 33
+38. Constituencies and elections . . . 33
+38A. Election by district block representation system . . . 34
+39. Filling of vacancies . . . 35
+CHAPTER V: THE EXECUTIVE . . . 35
+PART I: THE PRESIDENT . . . 35
+40. Office of President . . . 35
+41. Qualifications for Office of President . . . 36
+42. Election of President . . . 36
+43. Period during which Presidential election shall take place . . . 37
+44. Parliament to make laws for election of President . . . 38
+45. Presidential Returning Officer . . . 38
+46. Tenure of office of President, etc . . . 38
+47. President in Parliament . . . 38
+48. Incidents of office, etc . . . 38
+49. Vacancy in office of President . . . 39
+50. Mental or physical incapacity . . . 39
+51. Misconduct by President . . . 40
+52. Temporary filling of vacancy . . . 41
+PART II: EXECUTIVE POWERS . . . 41
+53. Exercise of executive authority in Sierra Leone . . . 41
+54. Vice-President . . . 42
+55. Vacancy in the office of Vice-President . . . 43
+56. Ministers and Deputy Ministers of Government . . . 43
+57. Oaths to be taken by Ministers, etc . . . 43
+58. Ministerial vacancies . . . 44
+59. Establishment of Cabinet . . . 44
+60. Collective responsibility . . . 44
+61. Constitution of offices . . . 45
+62. Administration of ministries . . . 45
+63. Prerogative of Mercy . . . 45
+64. Establishment of office of Attorney-General and Minister of Justice . . . 45
+65. Solicitor-General . . . 46
+66. Director of Public Prosecutions . . . 47
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 4
-
+67. Secretary to the President . . . 48
+68. Secretary to the Cabinet . . . 49
+69. Secretary to the Vice-President . . . 49
+70. Power of appointment vested in the President . . . 49
+71. Other statutory appointments . . . 50
+72. Office of Paramount Chief . . . 50
+CHAPTER VI: THE LEGISLATURE . . . 51
+PART I: COMPOSITION OF PARLIAMENT . . . 51
+73. Establishment of Parliament . . . 51
+74. Members of Parliament . . . 51
+75. Qualifications for membership of Parliament . . . 51
+76. Disqualifications for membership of Parliament . . . 52
+77. Tenure of seats of Members of Parliament . . . 53
+78. Determination of question as to membership of Parliament . . . 54
+79. The Speaker . . . 55
+80. Deputy Speaker . . . 55
+81. Election of Speaker and Deputy Speaker . . . 56
+82. Clerk of Parliament . . . 56
+83. Oath to be taken by Members of Parliament . . . 56
+PART II: SUMMONING, PROROGATION AND DISSOLUTION . . . 56
+84. Sessions of Parliament . . . 56
+85. Life of Parliament . . . 56
+86. Sittings of Parliament . . . 57
+87. General Election . . . 57
+PART III: PROCEDURE OF PARLIAMENT . . . 58
+88. Presiding in Parliament . . . 58
+89. Quorum in Parliament . . . 58
+90. Use of English in Parliament . . . 58
+91. Voting in Parliament . . . 58
+92. Unqualified persons sitting or voting . . . 59
+93. Committees of Parliament . . . 59
+94. Regulation of procedure in Parliament . . . 60
+95. Contempt of Parliament . . . 60
+96. Criminal Proceedings . . . 60
+PART IV: RESPONSIBILITIES, PRIVILEGES AND IMMUNITIES . . . 61
+97. Responsibilities of Members of Parliament . . . 61
+98. Freedom of Speech and debate . . . 61
+99. Parliamentary privilege . . . 61
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 5
-
+100. Immunity from service of process and arrest . . . 62
+101. Immunity from witness summons . . . 62
+102. Immunity from serving as juryman . . . 62
+103. Immunity for publication of proceedings . . . 62
+104. Privileges of witness . . . 62
+PART V: LEGISLATION AND PROCEDURE IN PARLIAMENT . . . 63
+105. Power to make laws . . . 63
+106. Mode of exercising legislative power . . . 63
+107. Minister may introduce Bill and be summoned to Parliament . . . 63
+108. Alteration of this Constitution . . . 64
+109. Residual authority of Parliament . . . 65
+PART VI: FINANCE . . . 65
+110. Authority for imposition of taxation . . . 65
+111. Consolidated Fund . . . 66
+112. Authorisation of expenditure from Consolidated Fund . . . 67
+113. Authorisation of expenditure in advance of appropriation . . . 68
+114. Withdrawal of moneys from general revenues . . . 68
+115. Remuneration of the President and certain other officers . . . 69
+116. Contingencies Fund . . . 69
+117. Public debt . . . 69
+118. Loans . . . 69
+119. Establishment of office and functions of Auditor-General . . . 70
+CHAPTER VII: THE JUDICIARY . . . 71
+PART I: THE SUPERIOR COURT OF JUDICATURE . . . 71
+120. Establishment of the Judiciary . . . 71
+PART II: THE SUPREME COURT . . . 73
+121. Composition of the Supreme Court . . . 73
+122. Jurisdiction of the Supreme Court . . . 73
+123. Appeals to the Supreme Court . . . 73
+124. Interpretation of the Constitution . . . 74
+125. Supervisory Jurisdiction . . . 74
+126. Power of Justices of the Supreme Court in interlocutory matters . . . 74
+127. Enforcement of the Constitution . . . 75
+PART III: COURT OF APPEAL . . . 75
+128. Composition of the Court of Appeal . . . 75
+129. Jurisdiction of the Court of Appeal . . . 76
+130. Power of single Justice of Appeal . . . 76
+PART IV: THE HIGH COURT OF JUSTICE . . . 76
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 6
-
+131. Composition of the High Court . . . 76
+132. Jurisdiction of the High Court . . . 77
+133. Claims against the Government . . . 77
+134. Supervisory Jurisdiction of the High Court . . . 77
+PART V: APPOINTMENT OF JUDGES, ETC . . . 77
+135. Appointment of Judges, etc . . . 77
+136. Judicial vacancies . . . 78
+137. Tenure of Office of Judges, etc . . . 79
+138. Remuneration of Judges, etc . . . 80
+139. Oath of Office of Judges . . . 81
+140. Judicial and Legal Service Commission . . . 81
+141. Appointment of Judicial and Legal Officers, etc . . . 82
+142. Appointment of Court officers . . . 82
+143. Fees of Court, etc . . . 83
+144. Official document . . . 83
+145. Rules of Court Committee . . . 83
+CHAPTER VIII: THE OMBUDSMAN . . . 84
+146. Parliament to establish office of Ombudsman . . . 84
+CHAPTER IX: COMMISSIONS OF INQUIRY . . . 84
+147. Appointment of Commissions of Inquiry . . . 84
+148. Powers, rights and privileges of Commissions of Inquiry . . . 85
+149. Publication of report of Commission of Inquiry and right of appeal . . . 85
+150. Rules regulating Commissions of Inquiry . . . 86
+CHAPTER X: THE PUBLIC SERVICE . . . 86
+PART I: THE PUBLIC SERVICE COMMISSION . . . 86
+151. Establishment of Public Service Commission . . . 86
+152. Appointments, etc. of public officers . . . 87
+153. Appointment of the Principal representatives of Sierra Leone abroad, Armed Forces Commanders and Inspector-General of Police . . . 88
+154. Appointment of Permanent Secretaries and certain other officers . . . 88
+PART II: THE POLICE FORCE . . . 89
+155. Establishment of the Sierra Leone Police Force . . . 89
+156. Establishment of Police Council . . . 89
+157. Appointments in the Police Force . . . 90
+158. Functions of Police Council . . . 90
+PART III: RESIGNATIONS, RE-APPOINTMENTS AND PROTECTION OF PENSION RIGHTS OF PUBLIC OFFICERS HOLDING ESTABLISHED OFFICES . . . 91
+159. Resignation and effect of new appointment of a person holding an established office . . . 91
+160. Re-appointment, etc . . . 91
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 7
-
+161. Protection of pension rights . . . 91
+PART IV: POWER AND PROCEDURE OF COMMISSIONS AND COUNCILS, AND LEGAL PROCEEDINGS . . . 92
+162. Power of Commissions in relation to the grant of pensions . . . 92
+163. Power and procedure of Commissions . . . 93
+164. Protection of Commissions from legal proceedings . . . 93
+CHAPTER XI: THE ARMED FORCES . . . 93
+165. Establishment of the Armed Forces . . . 93
+166. Prohibition of private armed forces . . . 94
+167. Establishment of Defence Council . . . 94
+168. Appointments in the Armed Forces . . . 94
+169. Functions of the Defence Council . . . 95
+CHAPTER XII: THE LAWS OF SIERRA LEONE . . . 95
+170. The Laws of Sierra Leone . . . 95
+CHAPTER XIII: MISCELLANEOUS . . . 96
+171. Interpretation . . . 96
+172. Legislation . . . 100
+173. Consequential provisions . . . 100
+CHAPTER XIV: TRANSITIONAL PROVISIONS . . . 101
+174. Existing Constitution . . . 101
+175. Effect of Transitional provisions . . . 101
+176. Existing Law . . . 101
+177. Application of Existing Law . . . 101
+178. Preservation of existing offices . . . 102
+179. Existing Parliament . . . 103
+180. Delegated Powers and inquiries . . . 104
+181. Continuation of matters . . . 105
+182. Legal proceedings . . . 105
+183. Appeals . . . 105
+184. Jurisdiction of Courts . . . 105
+185. Finance . . . 105
+186. Financial Authorization . . . 106
+187. Official Seals, etc . . . 106
+188. Continuation of Police Forces . . . 106
+189. Continuation of the Military Forces . . . 106
+190. Repeal of Act No. 12 of 1978 and Savings . . . 106
+191. Reprint . . . 106
+192. Commencement of Act No. 6 of 1991 . . . 106
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
-
-constituteproject.org PDF generated: 27 Jul 2018, 21:10
-
-.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 107 FIRST SCHEDULE: TERRITORY OF SIERRA LEONE .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 107 SECOND SCHEDULE: PRESIDENT'S OATH THIRD SCHEDULE  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 107 FOURTH SCHEDULE: DECLARATION OF COMPLIANCE  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 108
-
-Page 8 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
+constituteproject.org
+PDF generated: 27 Jul 2018, 21:10
+Sierra Leone 1991 (reinst. 1996, rev. 2008)
+Page 8
+FIRST SCHEDULE: TERRITORY OF SIERRA LEONE . . . 107
+SECOND SCHEDULE: PRESIDENT’S OATH . . . 107
+THIRD SCHEDULE . . . 107
+FOURTH SCHEDULE: DECLARATION OF COMPLIANCE . . . 108
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-· National flag
-
-National anthem
-
-- Duty to obey the constitution
-
-- Type of government envisioned
-
-· National motto
-
-## CHAPTER I: THE REPUBLIC OF SIERRA LEONE
-
-#### 1. Declaration of Republic
-
-Sierra Leone is a Sovereign Republic, the boundaries of which are delimited in the First Schedule hereto.
-
-#### 2. Public Seal
-
-The Public Seal of the Republic shall be such a device as Parliament shall prescribe.
-
-#### 3. The National Flag and National Anthem
-
-- a. The  Flag  of  which  the  design  is  described  in  paragraph  (b)  hereof  is  hereby declared to be the National Flag of Sierra Leone.
-
-- The design of the Flag shall be from the top of the Flag to the bottom thereof, three horizontal stripes of green, white and blue.
-
-- The normal size of the Flag for official use shall be in the proportion of nine units across to six units down.
-
-- The National Anthem of the Republic shall be such as Parliament shall prescribe.
-
-## CHAPTER II: FUNDAMENTAL PRINCIPLES OF STATE POLICY
-
-#### 4. Fundamental obligations of Government
-
-All  organs  of  Government  and  all  authorities  and  persons  exercising  legislative, executive or judicial powers shall conform to, observe and apply the provisions of this Chapter.
-
-#### 5. Government and the people
-
-- The Republic of Sierra Leone shall be a State based on the principles of Freedom, Democracy and Justice.
-
-- It is accordingly declared that-
-
-- sovereignty belongs to the people of Sierra Leone from whom Government through this Constitution derives all its powers, authority and legitimacy;
-
-- the security, peace and welfare of the people of Sierra Leone shall be the primary purpose and responsibility of Government, and to this end it shall be the duty of the Armed Forces, the Police, Public Officers and all security agents to protect and safeguard the people of Sierra Leone; and
-
-- the  participation  of  the  people  in  the  governance  of  the  State  shall  be ensured in accordance with the provisions of this Constitution.
-
-#### 6. Political objectives
-
-- The motto of the Republic of Sierra Leone shall be Unity, Freedom and Justice.
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 9
-
+## CHAPTER I: THE REPUBLIC OF SIERRA LEONE
+#### 1. Declaration of Republic
+Sierra Leone is a Sovereign Republic, the boundaries of which are delimited in the First Schedule hereto.
+#### 2. Public Seal
+The Public Seal of the Republic shall be such a device as Parliament shall prescribe.
+#### 3. The National Flag and National Anthem
+1. a. The Flag of which the design is described in paragraph (b) hereof is hereby declared to be the National Flag of Sierra Leone.
+• National flag
+b. The design of the Flag shall be from the top of the Flag to the bottom thereof, three horizontal stripes of green, white and blue.
+c. The normal size of the Flag for official use shall be in the proportion of nine units across to six units down.
+2. The National Anthem of the Republic shall be such as Parliament shall prescribe.
+• National anthem
+## CHAPTER II: FUNDAMENTAL PRINCIPLES OF STATE POLICY
+• Duty to obey the constitution
+#### 4. Fundamental obligations of Government
+All organs of Government and all authorities and persons exercising legislative, executive or judicial powers shall conform to, observe and apply the provisions of this Chapter.
+• Type of government envisioned
+#### 5. Government and the people
+1. The Republic of Sierra Leone shall be a State based on the principles of Freedom, Democracy and Justice.
+2. It is accordingly declared that—
+a. sovereignty belongs to the people of Sierra Leone from whom Government through this Constitution derives all its powers, authority and legitimacy;
+b. the security, peace and welfare of the people of Sierra Leone shall be the primary purpose and responsibility of Government, and to this end it shall be the duty of the Armed Forces, the Police, Public Officers and all security agents to protect and safeguard the people of Sierra Leone; and
+c. the participation of the people in the governance of the State shall be ensured in accordance with the provisions of this Constitution.
+#### 6. Political objectives
+1. The motto of the Republic of Sierra Leone shall be Unity, Freedom and Justice.
+• National motto
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-· Integration of ethnic communities
-
-· Freedom of movement
-
-· Right to establish a business
-
-· Right to choose occupation
-
-· General guarantee of equality
-
-· Human dignity
-
-- Accordingly, the State shall promote  national integration and unity  and discourage  discrimination  on  the  grounds  of  place  of  origin,  circumstance  of birth, sex, religion, status, ethnic or linguistic association or ties.
-
-- For the purposes of promoting national integration and unity, the State shall-
-
-- provide adequate facilities for and encourage free mobility of people, goods and services throughout Sierra Leone; and
-
-- secure full rights of residence for every citizen in all parts of the State.
-
-- The State shall protect and defend the liberty of the individual, enforce the rule of law and ensure the efficient functioning of Government services.
-
-- The State shall take all steps to eradicate all corrupt practices and the abuse of power.
-
-#### 7. Economic objectives
-
-- The  State  shall  within  the  context  of  the  ideals  and  objectives  for  which provisions are made in this Constitution-
-
-- harness  all  the  natural  resources  of  the  nation  to  promote  national prosperity and an efficient, dynamic and self-reliant economy;
-
-- manage and control the national economy in such a manner as to secure the maximum welfare and freedom of every citizen on the basis of social justice and equality of opportunity;
-
-- protect the right of any citizen to engage in any economic activity without prejudice  to  the  rights  of  any  other  person  to  participate  in  areas  of  the economy;
-
-- place proper and adequate emphasis on agriculture in all its aspects so as to ensure self-sufficiency in food production; and
-
-- ensure that Government shall always give priority and encouragement to Sierra Leoneans to participate in all spheres of the economy in furtherance of these objectives.
-
-#### 8. Social objectives
-
-- The Social Order of the State shall be founded on the ideals of Freedom, Equality and Justice.
-
-- In furtherance of the Social Order-
-
-- every  citizen  shall  have  equality  of  rights,  obligations,  and  opportunities before the law, and the State shall ensure that every citizen has an equal right and access to all opportunities and benefits based on merit;
-
-- the State shall recognise, maintain and enhance the sanctity of the human person and human dignity; and
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 10
-
+2. Accordingly, the State shall promote national integration and unity and discourage discrimination on the grounds of place of origin, circumstance of birth, sex, religion, status, ethnic or linguistic association or ties.
+• Integration of ethnic communities
+3. For the purposes of promoting national integration and unity, the State shall—
+a. provide adequate facilities for and encourage free mobility of people, goods and services throughout Sierra Leone; and
+• Freedom of movement
+b. secure full rights of residence for every citizen in all parts of the State.
+4. The State shall protect and defend the liberty of the individual, enforce the rule of law and ensure the efficient functioning of Government services.
+5. The State shall take all steps to eradicate all corrupt practices and the abuse of power.
+#### 7. Economic objectives
+1. The State shall within the context of the ideals and objectives for which provisions are made in this Constitution—
+a. harness all the natural resources of the nation to promote national prosperity and an efficient, dynamic and self-reliant economy;
+b. manage and control the national economy in such a manner as to secure the maximum welfare and freedom of every citizen on the basis of social justice and equality of opportunity;
+c. protect the right of any citizen to engage in any economic activity without prejudice to the rights of any other person to participate in areas of the economy;
+• Right to establish a business
+• Right to choose occupation
+d. place proper and adequate emphasis on agriculture in all its aspects so as to ensure self-sufficiency in food production; and
+e. ensure that Government shall always give priority and encouragement to Sierra Leoneans to participate in all spheres of the economy in furtherance of these objectives.
+#### 8. Social objectives
+1. The Social Order of the State shall be founded on the ideals of Freedom, Equality and Justice.
+2. In furtherance of the Social Order—
+a. every citizen shall have equality of rights, obligations, and opportunities before the law, and the State shall ensure that every citizen has an equal right and access to all opportunities and benefits based on merit;
+• General guarantee of equality
+b. the State shall recognise, maintain and enhance the sanctity of the human person and human dignity; and
+• Human dignity
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-- Right to work
-
-- Right to rest and leisure
-
-- Right to safe work environment
-
-- Right to health care
-
-- Right to equal pay for work
-
-- State support for the elderly
-
-- State support for the disabled
-
-- State support for children
-
-- Access to higher education
-
-- Free education
-
-- Compulsory education
-
-- the Government shall secure and maintain the independence, impartiality and integrity of courts of law and unfettered access thereto, and to this end shall ensure that the operation of the legal system promotes justice on the basis of equal opportunity, and that opportunities for securing justice are not denied any citizen by reason of economic or other disability.
-
-- The State shall direct its policy towards ensuring that-
-
-- every  citizen,  without  discrimination  on  any  grounds  whatsoever,  shall have the opportunity for securing adequate means of livelihood as well as adequate opportunities to secure suitable employment;
-
-- conditions of service and work are fair, just and humane and that there are adequate facilities for leisure and for social, religious and cultural life;
-
-- the health, safety and welfare of all persons in employment are safeguarded and not endangered or abused, and in particular that special provisions be made for working women with children, having due regard to the resources of the State;
-
-- there are adequate medical and health facilities for all persons, having due regard to the resources of the State;
-
-- there is equal pay for equal work without discrimination on account of sex, and that adequate and satisfactory remuneration is paid to all persons in employment; and
-
-- the  care  and  welfare  of  the  aged,  young  and  disabled  shall  be  actively promoted and safeguarded.
-
-#### 9. Educational objectives
-
-- The  Government  shall  direct  its  policy  towards  ensuring  that  there  are  equal rights and adequate educational opportunities for all citizens at all levels by-
-
-- ensuring that every citizen is given the opportunity to be educated to the best of his  ability,  aptitude  and  inclination  by  providing  educational facilities at all levels and aspects of education such as primary, secondary, vocational, technical, college and university;
-
-- safeguarding the rights of vulnerable groups, such as children, women and the disabled in securing educational facilities; and
-
-- providing  the  necessary  structures,  finance  and  supportive  facilities  for education as and when practicable.
-
-- The Government shall strive to eradicate illiteracy, and to this end shall direct its educational policy towards achieving-
-
-- free adult literacy programmes;
-
-- free  compulsory  basic  education  at  primary  and  junior  secondary  school levels; and
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 11
-
+c. the Government shall secure and maintain the independence, impartiality and integrity of courts of law and unfettered access thereto, and to this end shall ensure that the operation of the legal system promotes justice on the basis of equal opportunity, and that opportunities for securing justice are not denied any citizen by reason of economic or other disability.
+3. The State shall direct its policy towards ensuring that—
+a. every citizen, without discrimination on any grounds whatsoever, shall have the opportunity for securing adequate means of livelihood as well as adequate opportunities to secure suitable employment;
+• Right to work
+b. conditions of service and work are fair, just and humane and that there are adequate facilities for leisure and for social, religious and cultural life;
+• Right to rest and leisure
+• Right to safe work environment
+c. the health, safety and welfare of all persons in employment are safeguarded and not endangered or abused, and in particular that special provisions be made for working women with children, having due regard to the resources of the State;
+d. there are adequate medical and health facilities for all persons, having due regard to the resources of the State;
+• Right to health care
+e. there is equal pay for equal work without discrimination on account of sex, and that adequate and satisfactory remuneration is paid to all persons in employment; and
+• Right to equal pay for work
+f. the care and welfare of the aged, young and disabled shall be actively promoted and safeguarded.
+• State support for the elderly
+• State support for the disabled
+• State support for children
+#### 9. Educational objectives
+1. The Government shall direct its policy towards ensuring that there are equal rights and adequate educational opportunities for all citizens at all levels by—
+a. ensuring that every citizen is given the opportunity to be educated to the best of his ability, aptitude and inclination by providing educational facilities at all levels and aspects of education such as primary, secondary, vocational, technical, college and university;
+• Access to higher education
+b. safeguarding the rights of vulnerable groups, such as children, women and the disabled in securing educational facilities; and
+c. providing the necessary structures, finance and supportive facilities for education as and when practicable.
+2. The Government shall strive to eradicate illiteracy, and to this end shall direct its educational policy towards achieving—
+• Free education
+a. free adult literacy programmes;
+b. free compulsory basic education at primary and junior secondary school levels; and
+• Compulsory education
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-- Official or national languages
-
-- Protection of language use
-
-- Reference to science
-
-· Regional group(s)
-
-· International law
-
-·
-
-Radio
-
-·
-
-Television
-
-· Right to culture
-
-· Reference to art
-
-· Binding effect of const rights
-
-- free senior secondary education as and when practicable.
-
-- The  Government  shall  promote  the  learning  of  indigenous  languages  and  the study and application of modern  science, foreign languages, technology, commerce and business.
-
-#### 10. Foreign policy objectives
-
-The Foreign Policy Objectives of the State shall be-
-
-- the promotion and protection of the National interest;
-
-- the promotion of sub-regional, regional and inter-African co-operation and unity;
-
-- the  promotion  of  international  co-operation  for  the  consolidation  of international peace and security and mutual respect among all nations, and respect for their territorial integrity and independence; and
-
-- respect for international law and treaty obligations, as well as the seeking of settlement of international disputes by negotiation, conciliation, arbitration or adjudication.
-
-#### 11. Obligations of the mass media
-
-The press, radio and television and other agencies of the mass media shall at all times be  free  to  uphold  the  fundamental  objectives  contained  in  this  Constitution  and highlight the responsibility and accountability of the Government to the people.
-
-#### 12. Enhancement of national culture
-
-The Government shall-
-
-- promote  Sierra Leonean  culture such as music, art, dance, science, philosophy,  education  and  traditional  medicine  which  is  compatible  with national development;
-
-- recognize traditional Sierra Leonean institutions compatible with national development;
-
-- protect and enhance the cultures of Sierra Leone; and
-
-- facilitate  the  provision  of  funds  for  the  development  of  culture  in  Sierra Leone.
-
-#### 13. Duties of the citizen
-
-Every citizen shall-
-
-- abide  by  this  Constitution,  respect  its  ideals  and  its  institutions,  the National Flag, the National Anthem and authorities and offices established
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 12
-
+c. free senior secondary education as and when practicable.
+3. The Government shall promote the learning of indigenous languages and the study and application of modern science, foreign languages, technology, commerce and business.
+• Official or national languages
+• Protection of language use
+• Reference to science
+#### 10. Foreign policy objectives
+The Foreign Policy Objectives of the State shall be—
+a. the promotion and protection of the National interest;
+b. the promotion of sub-regional, regional and inter-African co-operation and unity;
+• Regional group(s)
+c. the promotion of international co-operation for the consolidation of international peace and security and mutual respect among all nations, and respect for their territorial integrity and independence; and
+d. respect for international law and treaty obligations, as well as the seeking of settlement of international disputes by negotiation, conciliation, arbitration or adjudication.
+• International law
+• Radio
+• Television
+#### 11. Obligations of the mass media
+The press, radio and television and other agencies of the mass media shall at all times be free to uphold the fundamental objectives contained in this Constitution and highlight the responsibility and accountability of the Government to the people.
+• Right to culture
+#### 12. Enhancement of national culture
+The Government shall—
+a. promote Sierra Leonean culture such as music, art, dance, science, philosophy, education and traditional medicine which is compatible with national development;
+• Reference to art
+b. recognize traditional Sierra Leonean institutions compatible with national development;
+c. protect and enhance the cultures of Sierra Leone; and
+d. facilitate the provision of funds for the development of culture in Sierra Leone.
+• Binding effect of const rights
+#### 13. Duties of the citizen
+Every citizen shall—
+a. abide by this Constitution, respect its ideals and its institutions, the National Flag, the National Anthem and authorities and offices established
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-· Duty to obey the constitution
-
-· Duty to serve in the military
-
-·
-
-> Right to choose occupation
-
-· Duty to work
-
-or constituted under this Constitution or any other law;
-
-- cultivate a sense of nationalism and patriotism so that loyalty to the State shall override sectional, ethnic, tribal or other loyalties;
-
-- protect and preserve public property and prevent the misappropriation and squandering  of  funds  belonging  to  the  Government,  local  authorities  or public corporations;
-
-- help enhance the power, prestige and good name of the State and to defend the State and render national service as may be required;
-
-- respect  the  dignity  and  religion  of  other  individuals,  and  the  rights  and interests of others;
-
-- make positive and useful contributions to the advancement, progress, and well-being of the community, wherever he resides;
-
-- work conscientiously in a lawful and chosen occupation and abstain from any activity detrimental to the general welfare of others;
-
-- ensure the proper control and upbringing of his children and wards;
-
-- participate in and defend all democratic processes and practices; and
-
-- render assistance to appropriate and lawful agencies in the maintenance of law and order.
-
-#### 14. Fundamental principles not justiciable
-
-Notwithstanding the provisions of section 4, the provisions contained in this Chapter shall not confer legal rights and shall not be enforceable in any court of law, but the principles contained therein shall nevertheless be fundamental in the governance of the State, and it shall be the duty of Parliament to apply these principles in making laws.
-
-## CHAPTER III: THE RECOGNITION AND PROTECTION OF FUNDAMENTAL HUMAN RIGHTS AND FREEDOMS OF THE INDIVIDUAL
-
-#### 15. Fundamental Human Rights and Freedoms of the Individual
-
-Whereas every person in Sierra Leone is entitled to the fundamental human rights and freedoms of the individual, that is to say, has the right, whatever his race, tribe, place of origin, political opinion, colour, creed or sex, but subject to respect for the rights  and  freedoms  of  others  and  for  the  public  interest,  to  each  and  all  of  the following-
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 13
-
+or constituted under this Constitution or any other law;
+• Duty to obey the constitution
+b. cultivate a sense of nationalism and patriotism so that loyalty to the State shall override sectional, ethnic, tribal or other loyalties;
+c. protect and preserve public property and prevent the misappropriation and squandering of funds belonging to the Government, local authorities or public corporations;
+d. help enhance the power, prestige and good name of the State and to defend the State and render national service as may be required;
+• Duty to serve in the military
+e. respect the dignity and religion of other individuals, and the rights and interests of others;
+f. make positive and useful contributions to the advancement, progress, and well-being of the community, wherever he resides;
+g. work conscientiously in a lawful and chosen occupation and abstain from any activity detrimental to the general welfare of others;
+• Right to choose occupation
+• Duty to work
+h. ensure the proper control and upbringing of his children and wards;
+i. participate in and defend all democratic processes and practices; and
+j. render assistance to appropriate and lawful agencies in the maintenance of law and order.
+#### 14. Fundamental principles not justiciable
+Notwithstanding the provisions of section 4, the provisions contained in this Chapter shall not confer legal rights and shall not be enforceable in any court of law, but the principles contained therein shall nevertheless be fundamental in the governance of the State, and it shall be the duty of Parliament to apply these principles in making laws.
+## CHAPTER III: THE RECOGNITION AND PROTECTION OF FUNDAMENTAL HUMAN RIGHTS AND FREEDOMS OF THE INDIVIDUAL
+#### 15. Fundamental Human Rights and Freedoms of the Individual
+Whereas every person in Sierra Leone is entitled to the fundamental human rights and freedoms of the individual, that is to say, has the right, whatever his race, tribe, place of origin, political opinion, colour, creed or sex, but subject to respect for the rights and freedoms of others and for the public interest, to each and all of the following—
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-Right to own property
-
-Freedom of assembly
-
-Freedom of association
-
-· Right to life
-
-· Protection from unjustified restraint
-
-- life, liberty,  security  of  person,  the  enjoyment  of  property,  and  the protection of law;
-
-- freedom of conscience, of expression and of assembly and association;
-
-- respect for private and family life; and
-
-- protection from deprivation of property without compensation;
-
-the  subsequent  provisions  of  this  Chapter  shall  have  effect  for  the  purpose  of affording protection to the aforesaid rights and freedoms, subject to such limitations of that protection as are contained in those provisions, being limitations designed to ensure that the enjoyment of the said rights and freedoms by any individual does not prejudice the rights and freedoms of others, or the public interest.
-
-#### 16. Protection of right to life
-
-- No person shall be deprived of his life intentionally except in execution of the sentence  of  a  court  in  respect  of  a  criminal  offence  under  the  laws  of  Sierra Leone, of which he has been convicted.
-
-- Without  prejudice  to  any  liability  for  a  contravention  of  any  other  law  with respect to the use of force in such cases as are hereinafter mentioned, a person shall not be regarded as having been deprived of his life in contravention of this section if he dies as a result of the use of force to such extent as is reasonably justifiable in the circumstances of the case, that is to say-
-
-- for the defence of any person from unlawful violence or for the defence of property; or
-
-- in  order  to  effect  a  lawful  arrest  or  to  prevent  the  escape  of  a  person lawfully detained; or
-
-- for the purpose of suppressing a riot, insurrection or mutiny; or
-
-- in order to prevent the commission by that person of a criminal offence; or
-
-- if he dies as a result of a lawful act of war.
-
-#### 17. Protection from arbitrary arrest or detention
-
-- No person shall be deprived of his personal liberty except as may be authorised by law in any of the following cases, that is to say-
-
-- in consequence of his unfitness to plead to a criminal charge; or
-
-- in the execution of a sentence or order of a Court whether in Sierra Leone or  elsewhere  in  respect  of  a  criminal  offence  of  which  he  has  been convicted; or
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 14
-
+a. life, liberty, security of person, the enjoyment of property, and the protection of law;
+• Right to own property
+b. freedom of conscience, of expression and of assembly and association;
+• Freedom of assembly
+• Freedom of association
+c. respect for private and family life; and
+d. protection from deprivation of property without compensation;
+the subsequent provisions of this Chapter shall have effect for the purpose of affording protection to the aforesaid rights and freedoms, subject to such limitations of that protection as are contained in those provisions, being limitations designed to ensure that the enjoyment of the said rights and freedoms by any individual does not prejudice the rights and freedoms of others, or the public interest.
+#### 16. Protection of right to life
+1. No person shall be deprived of his life intentionally except in execution of the sentence of a court in respect of a criminal offence under the laws of Sierra Leone, of which he has been convicted.
+• Right to life
+2. Without prejudice to any liability for a contravention of any other law with respect to the use of force in such cases as are hereinafter mentioned, a person shall not be regarded as having been deprived of his life in contravention of this section if he dies as a result of the use of force to such extent as is reasonably justifiable in the circumstances of the case, that is to say—
+a. for the defence of any person from unlawful violence or for the defence of property; or
+b. in order to effect a lawful arrest or to prevent the escape of a person lawfully detained; or
+c. for the purpose of suppressing a riot, insurrection or mutiny; or
+d. in order to prevent the commission by that person of a criminal offence; or
+e. if he dies as a result of a lawful act of war.
+#### 17. Protection from arbitrary arrest or detention
+1. No person shall be deprived of his personal liberty except as may be authorised by law in any of the following cases, that is to say—
+• Protection from unjustified restraint
+a. in consequence of his unfitness to plead to a criminal charge; or
+b. in the execution of a sentence or order of a Court whether in Sierra Leone or elsewhere in respect of a criminal offence of which he has been convicted; or
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-· Extradition procedure
-
-· Right to counsel
-
-- in the execution of an order of the High Court or the Court of Appeal or the Supreme Court or such other court as may be prescribed by Parliament on the  grounds  of  his  contempt  of  any  such  court  or  of  another  court  or tribunal or commission of inquiry as the case may be; or
-
-- in  the  execution  of  an  Order  of  a  court  made  in  order  to  secure  the fulfilment of any obligation imposed on him by law; or
-
-- for the purpose of bringing him before a court or tribunal, as the case may be, in execution of the order of a court; or
-
-- upon  reasonable  suspicion  of  his  having  committed  or  of  being  about  to commit a criminal offence; or
-
-- in the case of a person who has not attained the age of twenty-one years, for the purpose of his education or welfare; or
-
-- for  the  purpose  of  preventing  the  spread  of  an  infectious  or  contagious disease; or
-
-- in the case of a person who is, or is reasonably suspected to be, of unsound mind, addicted to drugs or alcohol, or a vagrant, for the purpose of his care or treatment or the protection of the community; or
-
-- for the purpose of preventing the unlawful entry of that person into Sierra Leone, or for  the  purpose  of  effecting  the  expulsion,  extradition  or  other lawful removal  of that person from Sierra Leone  or the taking of proceedings thereto.
-
-- Any person who-
-
-- is arrested or detained shall be informed in writing or in a language that he understands  at  the  time  of  his  arrest,  and  in  any  event  not  later  than twenty-four hours, of the facts and grounds for his arrest or detention;
-
-- is  arrested  or  detained  shall  be  informed  immediately  at  the  time  of  his arrest  of  his  right  of  access  to  a  legal  practitioner  or  any  person  of  his choice, and shall be permitted at his own expense to instruct without delay a  legal  practitioner  of  his  own  choice  and  to  communicate  with  him confidentially.
-
-- Any  person  who  is  arrested  or  detained  in  such  a  case  as  is  mentioned  in paragraph (e) or (f) of subsection (1) and who is not released shall be brought before a court of law-
-
-- within ten days from the date of arrest in cases of capital offences, offences carrying life imprisonment and economic and environmental offences; and
-
-- within seventy-two hours of his arrest in case of other offences;
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 15
-
+c. in the execution of an order of the High Court or the Court of Appeal or the Supreme Court or such other court as may be prescribed by Parliament on the grounds of his contempt of any such court or of another court or tribunal or commission of inquiry as the case may be; or
+d. in the execution of an Order of a court made in order to secure the fulfilment of any obligation imposed on him by law; or
+e. for the purpose of bringing him before a court or tribunal, as the case may be, in execution of the order of a court; or
+f. upon reasonable suspicion of his having committed or of being about to commit a criminal offence; or
+g. in the case of a person who has not attained the age of twenty-one years, for the purpose of his education or welfare; or
+h. for the purpose of preventing the spread of an infectious or contagious disease; or
+i. in the case of a person who is, or is reasonably suspected to be, of unsound mind, addicted to drugs or alcohol, or a vagrant, for the purpose of his care or treatment or the protection of the community; or
+j. for the purpose of preventing the unlawful entry of that person into Sierra Leone, or for the purpose of effecting the expulsion, extradition or other lawful removal of that person from Sierra Leone or the taking of proceedings thereto.
+• Extradition procedure
+2. Any person who—
+a. is arrested or detained shall be informed in writing or in a language that he understands at the time of his arrest, and in any event not later than twenty-four hours, of the facts and grounds for his arrest or detention;
+b. is arrested or detained shall be informed immediately at the time of his arrest of his right of access to a legal practitioner or any person of his choice, and shall be permitted at his own expense to instruct without delay a legal practitioner of his own choice and to communicate with him confidentially.
+• Right to counsel
+3. Any person who is arrested or detained in such a case as is mentioned in paragraph (e) or (f) of subsection (1) and who is not released shall be brought before a court of law—
+a. within ten days from the date of arrest in cases of capital offences, offences carrying life imprisonment and economic and environmental offences; and
+b. within seventy-two hours of his arrest in case of other offences;
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-· Protection from false imprisonment
-
-· Freedom of movement
-
-· Protection of environment and if any person arrested or detained in such a case as is mentioned in the said paragraph (f) is not tried within the periods specified in paragraph (a) or (b) of this  section,  as  the  case  may  be,  then  without  prejudice  to  any  further proceedings  which  may  be  brought  against  him  he  shall  be  released  either unconditionally  or  upon  reasonable  conditions,  including  in  particular,  such conditions as are reasonably necessary to ensure that he appears at a later date for trial or proceedings preliminary to trial.
-
-- Any person who is unlawfully arrested or detained by any other person shall be entitled to compensation therefor from that other person.
-
-#### 18. Protection of freedom of movement
-
-- No person shall be deprived of his freedom of movement, and for the purpose of this section the said freedom means the right to move freely throughout Sierra Leone, the right to reside in any part of Sierra Leone, the right to enter or leave Sierra Leone, and immunity from expulsion from Sierra Leone.
-
-- Any  restriction  on  a  person's  freedom  of  movement  which  is  involved  in  his lawful detention shall not be held to be inconsistent with or in contravention of this section.
-
-- Nothing  contained  in  or  done  under  authority  of  any  law  shall  be  held  to  be inconsistent with or in contravention of this section to the extent that the law in question makes provision-
-
-- which  is  reasonably  required  in  the  interests  of  defence,  public  safety, public  order,  public  morality,  public  health  or  the  conservation  of  the natural  resources,  such  as  mineral,  marine,  forest  and  other  resources  of Sierra Leone, except in so far as that provision or, as the case may be, the thing  done  under  the  authority  thereof  is  shown  not  to  be  reasonably justifiable in a democratic society; or
-
-- for  the  imposition  of  restrictions  on  the  movement  or  residence  within Sierra Leone of any person who is not a citizen thereof or the exclusion or expulsion from Sierra Leone of any such persons; or
-
-- for the imposition of restrictions on the acquisition or use by any person of land or other property in Sierra Leone; or
-
-- for the imposition of restrictions upon the movement or residence within Sierra Leone of public officers or members of a defence force; or
-
-- for  the  removal  of  a  person  from  Sierra  Leone  to  be  tried  outside  Sierra Leone for a criminal offence recognised as such by the laws of Sierra Leone, or to serve a term of imprisonment outside Sierra Leone in the execution of the sentence of a court in respect of a criminal offence of which he has been convicted; or
-
-- for  preventing  the  departure  from  Sierra  Leone  of  a  person  who  is reasonably suspected of having committed a crime or seeking to evade the fulfilment of an obligation imposed on him under the civil law or to evade military service:
-
-Provided  that  no  court  or  other  authority  shall  prohibit  any  such  person from entering into or residing in any place to which he is indigenous; or
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 16
-
+and if any person arrested or detained in such a case as is mentioned in the said paragraph (f) is not tried within the periods specified in paragraph (a) or (b) of this section, as the case may be, then without prejudice to any further proceedings which may be brought against him he shall be released either unconditionally or upon reasonable conditions, including in particular, such conditions as are reasonably necessary to ensure that he appears at a later date for trial or proceedings preliminary to trial.
+4. Any person who is unlawfully arrested or detained by any other person shall be entitled to compensation therefor from that other person.
+• Protection from false imprisonment
+#### 18. Protection of freedom of movement
+1. No person shall be deprived of his freedom of movement, and for the purpose of this section the said freedom means the right to move freely throughout Sierra Leone, the right to reside in any part of Sierra Leone, the right to enter or leave Sierra Leone, and immunity from expulsion from Sierra Leone.
+• Freedom of movement
+2. Any restriction on a person’s freedom of movement which is involved in his lawful detention shall not be held to be inconsistent with or in contravention of this section.
+3. Nothing contained in or done under authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision—
+a. which is reasonably required in the interests of defence, public safety, public order, public morality, public health or the conservation of the natural resources, such as mineral, marine, forest and other resources of Sierra Leone, except in so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society; or
+• Protection of environment
+b. for the imposition of restrictions on the movement or residence within Sierra Leone of any person who is not a citizen thereof or the exclusion or expulsion from Sierra Leone of any such persons; or
+c. for the imposition of restrictions on the acquisition or use by any person of land or other property in Sierra Leone; or
+d. for the imposition of restrictions upon the movement or residence within Sierra Leone of public officers or members of a defence force; or
+e. for the removal of a person from Sierra Leone to be tried outside Sierra Leone for a criminal offence recognised as such by the laws of Sierra Leone, or to serve a term of imprisonment outside Sierra Leone in the execution of the sentence of a court in respect of a criminal offence of which he has been convicted; or
+f. for preventing the departure from Sierra Leone of a person who is reasonably suspected of having committed a crime or seeking to evade the fulfilment of an obligation imposed on him under the civil law or to evade military service:
+Provided that no court or other authority shall prohibit any such person from entering into or residing in any place to which he is indigenous; or
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-· Prohibition of slavery
-
-· Right to conscientious objection
-
-· Prohibition of cruel treatment
-
-· Prohibition of torture
-
-- for restricting vagrancy.
-
-- If-
-
-- any person whose freedom of movement has been restricted by virtue only of  such  a  provision  as  is  referred  to  in  paragraph  (a)  of  subsection  (3)  so requests at any time during the period of that restriction not earlier than thirty  days  after  he  last  made  such  a  request  during  that  period,  his  case shall be reviewed by an independent and impartial tribunal, established by law, comprising not more than three persons from amongst persons of not less than fifteen years' standing entitled to practice in Sierra Leone as legal practitioners;
-
-- any  tribunal  has  been  set  up  under  paragraph  (a),  the  Chairman  of  that tribunal shall be appointed by the Chief Justice, and the two other members of the tribunal shall be nominated by the Sierra Leone Bar Association.
-
-- On any review by a tribunal in pursuance of subsection (4) of the case of any person whose freedom of movement has been restricted, the tribunal may make recommendations  concerning  the  necessity  of  expediency  of  continuing  that restriction to the authority by whom it was ordered, but unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with such recommendations.
-
-#### 19. Protection from slavery and forced labour
-
-- No person shall be held in slavery or servitude or be required to perform forced labour or traffic or deal in human beings.
-
-- For  the  purposes  of  this  section  the  expression  'forced  labour'  does  not include-
-
-- any labour required in consequence of a sentence or order of a court; or
-
-- labour required of any person while he is lawfully detained, which though not  required  in  consequence  of  the  sentence  or  order  of  a  court,  is reasonably necessary in the interest of hygiene or for the maintenance of the place in which he is detained; or
-
-- any  labour  required  of  a  member  of  a  defence  force  in  pursuance  of  his duties as such or, in the case of a person who has conscientious objections to service as such a member, any labour which that person is required by law to perform in place of such service; or
-
-- any labour required during a period of public emergency or calamity which threatens the life or well-being of the community; or
-
-- communal labour or labour which forms part of other civic obligation.
-
-#### 20. Protection from inhuman treatment
-
-- No person shall be subject to any form of torture or any punishment or other treatment which is inhuman or degrading.
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 17
-
+g. for restricting vagrancy.
+4. If—
+a. any person whose freedom of movement has been restricted by virtue only of such a provision as is referred to in paragraph (a) of subsection (3) so requests at any time during the period of that restriction not earlier than thirty days after he last made such a request during that period, his case shall be reviewed by an independent and impartial tribunal, established by law, comprising not more than three persons from amongst persons of not less than fifteen years’ standing entitled to practice in Sierra Leone as legal practitioners;
+b. any tribunal has been set up under paragraph (a), the Chairman of that tribunal shall be appointed by the Chief Justice, and the two other members of the tribunal shall be nominated by the Sierra Leone Bar Association.
+5. On any review by a tribunal in pursuance of subsection (4) of the case of any person whose freedom of movement has been restricted, the tribunal may make recommendations concerning the necessity of expediency of continuing that restriction to the authority by whom it was ordered, but unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with such recommendations.
+• Prohibition of slavery
+#### 19. Protection from slavery and forced labour
+1. No person shall be held in slavery or servitude or be required to perform forced labour or traffic or deal in human beings.
+2. For the purposes of this section the expression “forced labour” does not include—
+a. any labour required in consequence of a sentence or order of a court; or
+b. labour required of any person while he is lawfully detained, which though not required in consequence of the sentence or order of a court, is reasonably necessary in the interest of hygiene or for the maintenance of the place in which he is detained; or
+c. any labour required of a member of a defence force in pursuance of his duties as such or, in the case of a person who has conscientious objections to service as such a member, any labour which that person is required by law to perform in place of such service; or
+• Right to conscientious objection
+d. any labour required during a period of public emergency or calamity which threatens the life or well-being of the community; or
+e. communal labour or labour which forms part of other civic obligation.
+#### 20. Protection from inhuman treatment
+1. No person shall be subject to any form of torture or any punishment or other treatment which is inhuman or degrading.
+• Prohibition of cruel treatment
+• Prohibition of torture
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-Right to own property
-
-Protection from expropriation
-
-- Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question authorises the infliction of  any  kind  of  punishment  which  was  lawful immediately before the entry into force of this Constitution.
-
-#### 21. Protection from deprivation of property
-
-- No property of any description shall be compulsorily taken possession of, and no interest  in  or  right  over  property  of  any  description  shall  be  compulsorily acquired, except where the following conditions are satisfied, that is to say-
-
-- the  taking  of  possession  or  acquisition  is  necessary  in  the  interests  of defence, public safety, public order, public morality, public health, town and country planning, the development or utilization of any property in such a manner as to promote the public benefit or the public welfare of citizens of Sierra Leone; and
-
-- the necessity therefor is such as to afford reasonable justification for the causing of any hardship that may result to any person having any interest in or right over the property; and
-
-- provision  is  made  by  law  applicable  to  that  taking  of  possession  or acquisition-
-
-- for the prompt payment of adequate compensation; and
-
-- securing to any person having an interest in or right over the property, a  right  of  access  to  a  court  or  other  impartial  and  independent authority for the determination of his interest or right, the legality of the  taking  of  possession  or  acquisition  of  the  property,  interest  or right, and the amount of any compensation to which he is entitled and for the purpose of obtaining prompt payment of that compensation.
-
-- Nothing in this section shall be construed as affecting the making or operation of any  law  in  so  far  as  it  provides  for  the  taking  of  possession  or  acquisition  of property-
-
-- in satisfaction of any tax, rate or due;
-
-- by way of penalty for breach of the law whether under civil process or after conviction of a criminal offence;
-
-- as  an  incident  of  a  lease,  tenancy,  mortgage  charge,  bill  of  sale,  pledge  or contract;
-
-- by way of the vesting or administration of trust property, enemy property; bona  vacantia,  property  of  prohibited  aliens,  or  the  property  of  persons adjudged or otherwise declared bankrupt or insolvent, persons of unsound mind, deceased persons, or bodies corporate or incorporate in the course of being wound up;
-
-- in the execution of judgements or orders of courts;
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 18
-
+2. Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question authorises the infliction of any kind of punishment which was lawful immediately before the entry into force of this Constitution.
+• Right to own property
+#### 21. Protection from deprivation of property
+1. No property of any description shall be compulsorily taken possession of, and no interest in or right over property of any description shall be compulsorily acquired, except where the following conditions are satisfied, that is to say—
+• Protection from expropriation
+a. the taking of possession or acquisition is necessary in the interests of defence, public safety, public order, public morality, public health, town and country planning, the development or utilization of any property in such a manner as to promote the public benefit or the public welfare of citizens of Sierra Leone; and
+b. the necessity therefor is such as to afford reasonable justification for the causing of any hardship that may result to any person having any interest in or right over the property; and
+c. provision is made by law applicable to that taking of possession or acquisition—
+i. for the prompt payment of adequate compensation; and
+ii. securing to any person having an interest in or right over the property, a right of access to a court or other impartial and independent authority for the determination of his interest or right, the legality of the taking of possession or acquisition of the property, interest or right, and the amount of any compensation to which he is entitled and for the purpose of obtaining prompt payment of that compensation.
+2. Nothing in this section shall be construed as affecting the making or operation of any law in so far as it provides for the taking of possession or acquisition of property—
+a. in satisfaction of any tax, rate or due;
+b. by way of penalty for breach of the law whether under civil process or after conviction of a criminal offence;
+c. as an incident of a lease, tenancy, mortgage charge, bill of sale, pledge or contract;
+d. by way of the vesting or administration of trust property, enemy property; bona vacantia, property of prohibited aliens, or the property of persons adjudged or otherwise declared bankrupt or insolvent, persons of unsound mind, deceased persons, or bodies corporate or incorporate in the course of being wound up;
+e. in the execution of judgements or orders of courts;
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-· Right to privacy
-
-- by  reason  of  such  property  being  in  a  dangerous  state  or  liable  to  cause injuries to the health of human beings, animals or plants;
-
-- in consequence of any law with respect to the limitation of actions;
-
-- for  so  long  only  as  such  taking  of  possession  may  be  necessary  for  the purposes of any examination, investigation, trial, or inquiry, or, in the case of land, the carrying out thereon-
-
-- of  work  of  soil  conservation  or  the  conservation  of  other  natural resources; or
-
-- of  agricultural  development  or  improvement  which  the  owner  or occupier of the land has been required, and has without reasonable or lawful excuse refused or failed to carry out.
-
-- Nothing in this section shall be construed as affecting the making or operation of any  law  for  the  compulsory  taking  of  possession  in  the  public  interest  of  any property  or  the  compulsory  acquisition  in  the  public  interest  in  or  right  over property,  where  that  property,  interest  or  right  is  held  by  a  body  corporate which  is  established  directly  by  any  law  and  in  which  no  moneys  have  been invested other than moneys provided by Parliament or by the Legislature of the former Colony and Protectorate of Sierra Leone.
-
-- Any  such  property  of  whatever  description  compulsorily  taken  possession  of, and  any  interest  in,  or  right  over,  property  of  any  description  compulsorily acquired in the public interest or for public purposes, shall be used only in the public interest or for the public purposes for which it is taken or acquired.
-
-- Where any such property as is referred to in subsection (4) is not used in the public interest or for the public purposes for which it was taken or acquired, the person  who  was  the  owner  immediately  before  the  compulsory  taking  or acquisition, as the case may be, shall be given the first option of acquiring that property, in which event he shall be required to refund the whole or such part of the compensation as may be agreed upon between the parties thereto; and in the absence of any such agreement such amount as shall be determined by the High Court.
-
-#### 22. Protection for privacy of home and other property
-
-- Except with his own consent, no person shall be subjected to the search of his person or his property or the entry by others on his premises, or interference with his correspondence, telephone conversations and telegraphic and electronic communications.
-
-- Nothing  contained  in  or  done  under  authority  of  any  law  shall  be  held  to  be inconsistent with or in contravention of this section to the extent that the law in question makes provision that is reasonably required-
-
-- in the interest of defence, public safety, public order, public morality, public health, town and country planning, or the development or utilization of any property in such a manner as to promote the public benefit; or
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 19
-
+f. by reason of such property being in a dangerous state or liable to cause injuries to the health of human beings, animals or plants;
+g. in consequence of any law with respect to the limitation of actions;
+h. for so long only as such taking of possession may be necessary for the purposes of any examination, investigation, trial, or inquiry, or, in the case of land, the carrying out thereon—
+i. of work of soil conservation or the conservation of other natural resources; or
+ii. of agricultural development or improvement which the owner or occupier of the land has been required, and has without reasonable or lawful excuse refused or failed to carry out.
+3. Nothing in this section shall be construed as affecting the making or operation of any law for the compulsory taking of possession in the public interest of any property or the compulsory acquisition in the public interest in or right over property, where that property, interest or right is held by a body corporate which is established directly by any law and in which no moneys have been invested other than moneys provided by Parliament or by the Legislature of the former Colony and Protectorate of Sierra Leone.
+4. Any such property of whatever description compulsorily taken possession of, and any interest in, or right over, property of any description compulsorily acquired in the public interest or for public purposes, shall be used only in the public interest or for the public purposes for which it is taken or acquired.
+5. Where any such property as is referred to in subsection (4) is not used in the public interest or for the public purposes for which it was taken or acquired, the person who was the owner immediately before the compulsory taking or acquisition, as the case may be, shall be given the first option of acquiring that property, in which event he shall be required to refund the whole or such part of the compensation as may be agreed upon between the parties thereto; and in the absence of any such agreement such amount as shall be determined by the High Court.
+#### 22. Protection for privacy of home and other property
+1. Except with his own consent, no person shall be subjected to the search of his person or his property or the entry by others on his premises, or interference with his correspondence, telephone conversations and telegraphic and electronic communications.
+• Right to privacy
+2. Nothing contained in or done under authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision that is reasonably required—
+a. in the interest of defence, public safety, public order, public morality, public health, town and country planning, or the development or utilization of any property in such a manner as to promote the public benefit; or
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-· Regulation of evidence collection
-
-· Right to fair trial · Right to speedy trial
-
-· Right to public trial
-
-· Presumption of innocence in trials
-
-· Trial in native language of accused
-
-- to  enable  anybody  corporate  established  directly  by  any  law  or  any department  of  the  Government  or  any  local  authority  to  enter  on  the premises of any person in order to carry out work in connection with any property  or  installation  which  is  lawfully  on  such  premises  and  which belongs to that body corporate or to the Government or to that authority, as the case may be; or
-
-- for the purpose of protecting the rights and freedoms of other persons; or
-
-- for the purpose of executing any judgement or order of a court; or
-
-- for  the  purpose  of  affording  such  special  care  and  assistance  as  are necessary  for  the  health,  safety,  development  and  well-being  of  women, children and young persons, the aged and the handicapped;
-
-and  except  in  so  far  as  that  provision  or,  as  the  case  may  be,  the  thing  done under authority thereof is shown not to be reasonably justifiable in a democratic society.
-
-#### 23. Provision to secure protection of law
-
-- Whenever  any  person  is  charged  with  a  criminal  offence  he  shall  unless  the charge is withdrawn, be afforded a fair hearing within a reasonable time by an independent and impartial court established by law.
-
-- Any  court  or  other  authority  prescribed  by  law  for  the  determination  of  the existence  or  extent  of  civil  rights  or  obligations  shall  be  independent  and impartial;  and  where  proceedings  for  such  determination  are  instituted  by  or against  any  person  or  authority  or  the  Government  before  such  court  or authority, the case shall be given fair hearing within a reasonable time.
-
-- All proceedings of every court and proceedings relating to the determination of the existence or the extent of civil rights or obligations before any court or other authority,  including  the  announcement  of  the  decision  of  the  court  or  other authority, shall be held in public:
-
-Provided  that  the  court  or  other  authority  may,  to  such  an  extent  as  it  may consider  necessary  or  expedient  in  circumstances  where  publicity  would prejudice  the  interest  of  justice  or  interlocutory  civil  proceedings  or  to  such extent as it  may  be  empowered or required by law so to do in the interest of defence,  public  safety,  public  order,  public  morality,  the  welfare  of  persons under  the  age  of  twenty-one  years  or  the  protection  of  the  private  lives  of persons  concerned  in  the  proceedings,  exclude  from  its  proceedings,  persons other than the parties thereto and their legal representatives.
-
-- Every person who is charged with a criminal offence, shall be presumed to be innocent until he is proved, or has pleaded guilty:
-
-Provided that nothing contained in or done under the authority of any law shall be  held  to  be  inconsistent  with  or  in  contravention  of  this  subsection,  to  the extent that the law in question imposes on any person charged as aforesaid the burden of proving particular facts.
-
-- Every person who is charged with a criminal offence-
-
-- shall  be  informed  at  the  time  he  is  charged  in  the  language  which  he understands and in detail, of the nature of the offence charged;
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 20
-
+b. to enable anybody corporate established directly by any law or any department of the Government or any local authority to enter on the premises of any person in order to carry out work in connection with any property or installation which is lawfully on such premises and which belongs to that body corporate or to the Government or to that authority, as the case may be; or
+c. for the purpose of protecting the rights and freedoms of other persons; or
+d. for the purpose of executing any judgement or order of a court; or
+• Regulation of evidence collection
+e. for the purpose of affording such special care and assistance as are necessary for the health, safety, development and well-being of women, children and young persons, the aged and the handicapped;
+and except in so far as that provision or, as the case may be, the thing done under authority thereof is shown not to be reasonably justifiable in a democratic society.
+• Right to fair trial
+• Right to speedy trial
+#### 23. Provision to secure protection of law
+1. Whenever any person is charged with a criminal offence he shall unless the charge is withdrawn, be afforded a fair hearing within a reasonable time by an independent and impartial court established by law.
+2. Any court or other authority prescribed by law for the determination of the existence or extent of civil rights or obligations shall be independent and impartial; and where proceedings for such determination are instituted by or against any person or authority or the Government before such court or authority, the case shall be given fair hearing within a reasonable time.
+3. All proceedings of every court and proceedings relating to the determination of the existence or the extent of civil rights or obligations before any court or other authority, including the announcement of the decision of the court or other authority, shall be held in public:
+• Right to public trial
+Provided that the court or other authority may, to such an extent as it may consider necessary or expedient in circumstances where publicity would prejudice the interest of justice or interlocutory civil proceedings or to such extent as it may be empowered or required by law so to do in the interest of defence, public safety, public order, public morality, the welfare of persons under the age of twenty-one years or the protection of the private lives of persons concerned in the proceedings, exclude from its proceedings, persons other than the parties thereto and their legal representatives.
+4. Every person who is charged with a criminal offence, shall be presumed to be innocent until he is proved, or has pleaded guilty:
+• Presumption of innocence in trials
+Provided that nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this subsection, to the extent that the law in question imposes on any person charged as aforesaid the burden of proving particular facts.
+5. Every person who is charged with a criminal offence—
+a. shall be informed at the time he is charged in the language which he understands and in detail, of the nature of the offence charged;
+• Trial in native language of accused
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-· Right to examine evidence/ witnesses
-
-· Protection from ex post facto laws · Principle of no punishment without law
-
-· Prohibition of double jeopardy
-
-- shall  be  given  adequate  time  and  facilities  for  the  preparation  of  his defence;
-
-- shall be permitted to defend himself in person or by a legal practitioner of his own choice;
-
-- shall be afforded facilities to examine in person or by his legal practitioner the witnesses called by the prosecution before any court and to obtain the attendance  and  carry  out  the  examination  of  witnesses  to  testify  on  his behalf  before  the  court  on  the  same  conditions  as  those  applying  to witnesses called by the prosecution; and
-
-- shall be permitted to have without payment the assistance of an interpreter if he cannot understand the language used at the trial of the charge:
-
-Provided that nothing contained in or done under the authority of any law shall be  held  to  be  inconsistent  with  or  in  contravention  of  this  subsection  to  the extent that the law in question prohibits legal representation in a Local Court.
-
-- When  a  person  is  tried  for  any  criminal  offence,  the  accused  person  or  any person authorised by him in that behalf shall if he so requires, and subject to the payment of such reasonable fee as may be prescribed by law, be given within a reasonable time, and in any event not more than three months after trial, a copy for the use of the accused person of any record of the proceedings made by or on behalf of the court.
-
-- No person shall be held to be guilty of a criminal offence on account of any act or omission which did not, at the time it took place, constitute such an offence.
-
-- No penalty shall be imposed for any criminal offence which is severer in degree or  description than the maximum penalty which might have been imposed for that offence at the time when it was committed.
-
-- No  person  who  shows  that  he  has  been  tried  by  any  competent  court  for  a criminal offence and either convicted or acquitted shall again be tried for that offence or for any other offence of which he could have been convicted at the trial for that offence save upon the order of a superior court made in the course of appeal proceedings relating to the conviction or acquittal; and no person shall be tried for a criminal offence if he shows that he has been pardoned for that offence:
-
-Provided  that  nothing  in  any  law  shall  be  held  to  be  inconsistent  with  or  in contravention of this subsection by reason only that it authorises any court to try a member of a defence force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under service law; but any court so trying  such  a  member  and  convicting  him  shall  in  sentencing  him  to  any punishment take into account any punishment awarded him under service law.
-
-- Nothing contained in or done under the authority of any law shall be held to be inconsistent  with  or  in  contravention  of  any  provisions  of  this  section,  other than subsections (7) and (8), to the extent that the law in question authorises the taking  during  a  period  of  public  emergency  of  measures  that  are  reasonably justifiable  for  the  purpose  of  dealing  with  the  situation  that  exists  before  or during that period of public emergency.
-
-- In  paragraphs  (c)  and  (d)  of  subsection  (5),  the  expression  'legal  practitioner' means a person entitled to practise as a Barrister and Solicitor of the High Court.
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 21
-
+b. shall be given adequate time and facilities for the preparation of his defence;
+c. shall be permitted to defend himself in person or by a legal practitioner of his own choice;
+d. shall be afforded facilities to examine in person or by his legal practitioner the witnesses called by the prosecution before any court and to obtain the attendance and carry out the examination of witnesses to testify on his behalf before the court on the same conditions as those applying to witnesses called by the prosecution; and
+• Right to examine evidence/ witnesses
+e. shall be permitted to have without payment the assistance of an interpreter if he cannot understand the language used at the trial of the charge:
+Provided that nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this subsection to the extent that the law in question prohibits legal representation in a Local Court.
+6. When a person is tried for any criminal offence, the accused person or any person authorised by him in that behalf shall if he so requires, and subject to the payment of such reasonable fee as may be prescribed by law, be given within a reasonable time, and in any event not more than three months after trial, a copy for the use of the accused person of any record of the proceedings made by or on behalf of the court.
+7. No person shall be held to be guilty of a criminal offence on account of any act or omission which did not, at the time it took place, constitute such an offence.
+• Protection from ex post facto laws
+• Principle of no punishment without law
+8. No penalty shall be imposed for any criminal offence which is severer in degree or description than the maximum penalty which might have been imposed for that offence at the time when it was committed.
+9. No person who shows that he has been tried by any competent court for a criminal offence and either convicted or acquitted shall again be tried for that offence or for any other offence of which he could have been convicted at the trial for that offence save upon the order of a superior court made in the course of appeal proceedings relating to the conviction or acquittal; and no person shall be tried for a criminal offence if he shows that he has been pardoned for that offence:
+• Prohibition of double jeopardy
+Provided that nothing in any law shall be held to be inconsistent with or in contravention of this subsection by reason only that it authorises any court to try a member of a defence force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under service law; but any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under service law.
+10. Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of any provisions of this section, other than subsections (7) and (8), to the extent that the law in question authorises the taking during a period of public emergency of measures that are reasonably justifiable for the purpose of dealing with the situation that exists before or during that period of public emergency.
+11. In paragraphs (c) and (d) of subsection (5), the expression “legal practitioner” means a person entitled to practise as a Barrister and Solicitor of the High Court.
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-· Freedom of religion
-
-· Freedom of opinion/thought/conscience
-
-· Freedom of expression
-
-#### 24. Protection of freedom of conscience
-
-- Except with his own consent, no person shall be hindered in the enjoyment of his freedom  of  conscience  and  for  the  purpose  of  this  section  the  said  freedom includes freedom of thought and of religion, freedom to change his religion or belief, and freedom either alone or in community with others and both in public and  in  private  to  manifest  and  propagate  his  religion  or  belief  in  worship, teaching, practice and observance.
-
-- Except  with  his  own  consent  (or  if  he  is  a  miner  the  consent  of  his  parent  or guardian)  no  person  attending  any  place  of  education  shall  be  required  to receive  religious  instruction  or  to  take  part  in  or  to  attend  any  religious ceremony or observance if that instruction, ceremony or observance relates to a religion other than his own.
-
-- No  religious  community  or  denomination  shall  be  prevented  from  providing religious  instruction  for  persons  of  that  community  or  denomination  in  the course of any education provided by that community or denomination.
-
-- No person shall be compelled to take any oath which is contrary to his religion or belief or to take any oath in a manner which is contrary to his religion or belief.
-
-- Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes a provision which is reasonably required-
-
-- in  the  interest  of  defence,  public  safety,  public  order,  public  morality  or public health; or
-
-- for  the  purpose  of  protecting  the  rights  and  freedoms  of  other  persons including  the  right  to  observe  and  practise  any  religion  without  the unsolicited intervention of the members of any other religion;
-
-and  except  in  so  far  as  that  provision  or,  as  the  case  may  be,  the  thing  done under  the  authority  thereof,  is  shown  not  to  be  reasonably  justifiable  in  a democratic society.
-
-#### 25. Protection of freedom of expression and the press
-
-- Except with his own consent, no person shall be hindered in the enjoyment of his freedom  of  expression,  and  for  the  purpose  of  this  section  the  said  freedom includes  the  freedom  to  hold  opinions  and  to  receive  and  impart  ideas  and information without interference, freedom from interference with his correspondence,  freedom  to  own,  establish  and  operate  any  medium  for  the dissemination  of  information,  ideas  and  opinions,  and  academic  freedom  in institutions of learning:
-
-Provided  that  no  person  other  than  the  Government  or  any  person  or  body authorised  by  the  President  shall  own,  establish  or  operate  a  television  or wireless broadcasting station for any purpose whatsoever.
-
-- Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision-
-
-- which is reasonably required-
-
-- in the interests of defence, public safety, public order, public morality or public health; or
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 22
-
+#### 24. Protection of freedom of conscience
+1. Except with his own consent, no person shall be hindered in the enjoyment of his freedom of conscience and for the purpose of this section the said freedom includes freedom of thought and of religion, freedom to change his religion or belief, and freedom either alone or in community with others and both in public and in private to manifest and propagate his religion or belief in worship, teaching, practice and observance.
+• Freedom of religion
+• Freedom of opinion/thought/conscience
+2. Except with his own consent (or if he is a miner the consent of his parent or guardian) no person attending any place of education shall be required to receive religious instruction or to take part in or to attend any religious ceremony or observance if that instruction, ceremony or observance relates to a religion other than his own.
+3. No religious community or denomination shall be prevented from providing religious instruction for persons of that community or denomination in the course of any education provided by that community or denomination.
+4. No person shall be compelled to take any oath which is contrary to his religion or belief or to take any oath in a manner which is contrary to his religion or belief.
+5. Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes a provision which is reasonably required—
+a. in the interest of defence, public safety, public order, public morality or public health; or
+b. for the purpose of protecting the rights and freedoms of other persons including the right to observe and practise any religion without the unsolicited intervention of the members of any other religion;
+and except in so far as that provision or, as the case may be, the thing done under the authority thereof, is shown not to be reasonably justifiable in a democratic society.
+• Freedom of expression
+#### 25. Protection of freedom of expression and the press
+1. Except with his own consent, no person shall be hindered in the enjoyment of his freedom of expression, and for the purpose of this section the said freedom includes the freedom to hold opinions and to receive and impart ideas and information without interference, freedom from interference with his correspondence, freedom to own, establish and operate any medium for the dissemination of information, ideas and opinions, and academic freedom in institutions of learning:
+Provided that no person other than the Government or any person or body authorised by the President shall own, establish or operate a television or wireless broadcasting station for any purpose whatsoever.
+2. Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision—
+a. which is reasonably required—
+i. in the interests of defence, public safety, public order, public morality or public health; or
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-Radio
-
-Telecommunications
-
-Television
-
-Freedom of assembly
-
-Freedom of association
-
-Right to join trade unions
-
-· General guarantee of equality
-
-- for the purpose of protecting the reputations, rights and freedoms of other  persons,  preventing  the  disclosure  of  information  received  in confidence, maintaining the authority and independence of the courts, or  regulating  the  telephony,  telegraphy,  telecommunications,  posts, wireless broadcasting, television, public exhibitions or public entertainment; or
-
-- which  imposes  restrictions  on  public  officers  or  members  of  a  defence force;
-
-and  except  in  so  far  as  that  provision  or,  as  the  case  may  be,  the  thing  done under  the  authority  thereof,  is  shown  not  to  be  reasonably  justifiable  in  a democratic society.
-
-#### 26. Protection of freedom of assembly and association
-
-- Except with his own consent, no person shall be hindered in the enjoyment of his freedom of assembly and association, that is to say, his right to assemble freely and  associate  with  other  persons  and  in  particular  to  form  or  belong  to  any political party, trade unions or other economic, social or professional associations, national or international, for the protection of his interests.
-
-- Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision-
-
-- which is reasonably required-
-
-- in the interests of defence, public safety, public order, public morality, public health, or provision for the maintenance of supplies and services essential to the life of the community; or
-
-- for the purpose of protecting the rights and freedoms of other persons; or
-
-- which  imposes  restrictions  upon  public  officers  or  upon  members  of  a defence force; or
-
-- which  imposes  restrictions  on  the  establishment  of  political  parties,  or regulates the organisation, registration, and functioning or political parties and the conduct of its members;
-
-and  except  in  so  far  as  that  provision,  or  as  the  case  may  be,  the  thing  done under  the  authority  thereof  is  shown  not  to  be  reasonably  justifiable  in  a democratic society.
-
-#### 27. Protection from discrimination
-
-- Subject  to  the  provisions  of  subsection  (4),  (5)  and  (7),  no  law  shall  make  any provision which is discriminatory either of itself or in its effect.
-
-- Subject  to  the  provisions  of  subsections  (6),  (7)  and  (8),  no  person  shall  be treated in a discriminatory manner by any person acting by virtue of any law or in the performance of the functions of any public office or any public authority.
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 23
-
+ii. for the purpose of protecting the reputations, rights and freedoms of other persons, preventing the disclosure of information received in confidence, maintaining the authority and independence of the courts, or regulating the telephony, telegraphy, telecommunications, posts, wireless broadcasting, television, public exhibitions or public entertainment; or
+• Radio
+• Telecommunications
+• Television
+b. which imposes restrictions on public officers or members of a defence force;
+and except in so far as that provision or, as the case may be, the thing done under the authority thereof, is shown not to be reasonably justifiable in a democratic society.
+• Freedom of assembly
+• Freedom of association
+#### 26. Protection of freedom of assembly and association
+1. Except with his own consent, no person shall be hindered in the enjoyment of his freedom of assembly and association, that is to say, his right to assemble freely and associate with other persons and in particular to form or belong to any political party, trade unions or other economic, social or professional associations, national or international, for the protection of his interests.
+• Right to join trade unions
+2. Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision—
+a. which is reasonably required—
+i. in the interests of defence, public safety, public order, public morality, public health, or provision for the maintenance of supplies and services essential to the life of the community; or
+ii. for the purpose of protecting the rights and freedoms of other persons; or
+b. which imposes restrictions upon public officers or upon members of a defence force; or
+c. which imposes restrictions on the establishment of political parties, or regulates the organisation, registration, and functioning or political parties and the conduct of its members;
+and except in so far as that provision, or as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
+• General guarantee of equality
+#### 27. Protection from discrimination
+1. Subject to the provisions of subsection (4), (5) and (7), no law shall make any provision which is discriminatory either of itself or in its effect.
+2. Subject to the provisions of subsections (6), (7) and (8), no person shall be treated in a discriminatory manner by any person acting by virtue of any law or in the performance of the functions of any public office or any public authority.
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-Equality regardless of gender
-
-Equality regardless of skin color
-
-Equality regardless of creed or belief
-
-Equality regardless of tribe or clan
-
-Equality regardless of origin
-
-Equality regardless of race
-
-- In this section the expression 'discriminatory' means  affording  different treatment to different persons attributable wholly or mainly to their respective descriptions by race, tribe, sex, place of origin, political opinions, colour or creed whereby  persons  of  one  such  description  are  subjected  to  disabilities  or restrictions to which persons of another such description are not made subject, or are accorded privileges or advantages which are not accorded to persons of another such description.
-
-- Subsection (1) shall not apply to any law so far as that law makes provision-
-
-- for the appropriation of revenues or other funds of Sierra Leone or for the imposition  of  taxation  (including  the  levying  of  fees  for  the  grant  of licences); or
-
-- with respect to persons who are not citizens of Sierra Leone; or
-
-- with  respect  to  persons  who  acquire  citizenship  of  Sierra  Leone  by registration or by naturalization, or by resolution of Parliament; or
-
-- with respect to adoption, marriage, divorce, burial, devolution of property on death or other interests of personal law; or
-
-- for the application in the case of members of a particular race or tribe or customary law with respect to any matter to the exclusion of any law with respect to that matter which is applicable in the case of other persons; or
-
-- for authorising the taking during a period of public emergency of measures that are reasonably justifiable for the purpose of dealing with the situation that exists during that period of public emergency; or
-
-- whereby  persons  of  any  such  description  as  mentioned  in  subsection  (3) may be subjected to any disability or restriction or may be accorded any privilege  or  advantage  which,  having  regard  to  its  nature  and  to  special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable in a democratic society; or
-
-- for the limitation of citizenship or relating to national registration or to the collection of demographic statistics.
-
-- Nothing  contained  in  any  law  shall  be  held  to  be  inconsistent  with  or  in contravention  of  subsection  (1)  to  the  extent  that  it  makes  provision  with respect  to  qualifications  for  service  as  a  public  officer  or  as  a  member  of  a defence  force  or  for  the  service  of  a  local  government  authority  or  a  body corporate established directly by any law or of membership of Parliament.
-
-- Subsection  (2)  shall  not  apply  to  anything  which  is  expressly  or  by  necessary implication authorised to be done by any such provisions of law as is referred to in subsection (4) or (5).
-
-- Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question  makes  provision  whereby  persons  of  any  such  description  as  is mentioned in subsection (3) may be subjected to any restriction of the rights and freedoms guaranteed by sections 18, 22, 24, 25 and 26 being such a restriction as  is  authorised  by  subsection  (3)  of  section  18,  subsection  (2)  of  section  22, subsection  (5)  of  section  24,  subsection  (2)  of  section  25  or  subsection  (2)  of section 26, as the case may be.
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 24
-
+3. In this section the expression “discriminatory” means affording different treatment to different persons attributable wholly or mainly to their respective descriptions by race, tribe, sex, place of origin, political opinions, colour or creed whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject, or are accorded privileges or advantages which are not accorded to persons of another such description.
+• Equality regardless of gender
+• Equality regardless of skin color
+• Equality regardless of creed or belief
+• Equality regardless of tribe or clan
+• Equality regardless of origin
+• Equality regardless of race
+4. Subsection (1) shall not apply to any law so far as that law makes provision—
+a. for the appropriation of revenues or other funds of Sierra Leone or for the imposition of taxation (including the levying of fees for the grant of licences); or
+b. with respect to persons who are not citizens of Sierra Leone; or
+c. with respect to persons who acquire citizenship of Sierra Leone by registration or by naturalization, or by resolution of Parliament; or
+d. with respect to adoption, marriage, divorce, burial, devolution of property on death or other interests of personal law; or
+e. for the application in the case of members of a particular race or tribe or customary law with respect to any matter to the exclusion of any law with respect to that matter which is applicable in the case of other persons; or
+f. for authorising the taking during a period of public emergency of measures that are reasonably justifiable for the purpose of dealing with the situation that exists during that period of public emergency; or
+g. whereby persons of any such description as mentioned in subsection (3) may be subjected to any disability or restriction or may be accorded any privilege or advantage which, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description, is reasonably justifiable in a democratic society; or
+h. for the limitation of citizenship or relating to national registration or to the collection of demographic statistics.
+5. Nothing contained in any law shall be held to be inconsistent with or in contravention of subsection (1) to the extent that it makes provision with respect to qualifications for service as a public officer or as a member of a defence force or for the service of a local government authority or a body corporate established directly by any law or of membership of Parliament.
+6. Subsection (2) shall not apply to anything which is expressly or by necessary implication authorised to be done by any such provisions of law as is referred to in subsection (4) or (5).
+7. Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision whereby persons of any such description as is mentioned in subsection (3) may be subjected to any restriction of the rights and freedoms guaranteed by sections 18, 22, 24, 25 and 26 being such a restriction as is authorised by subsection (3) of section 18, subsection (2) of section 22, subsection (5) of section 24, subsection (2) of section 25 or subsection (2) of section 26, as the case may be.
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
-
 constituteproject.org
-
 PDF generated: 27 Jul 2018, 21:10
-
-- The exercise of any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person under or by this Constitution or any other law shall not be enquired into by any Court on the grounds that it contravenes the provision of subsection (2).
-
-#### 28. Enforcement of protective provisions
-
-- Subject to the provisions of subsection (4), if any person alleges that any of the provisions  of  sections  16  to  27  (inclusive)  has  been,  is  being  or  is  likely  to  be contravened in relation to him by any person (or, in the case of a person who is detained,  if  any  other  person  alleges  such  a  contravention  in  relation  to  the detained person), then, without prejudice to any other action with respect to the same matter which is lawfully available, that person, (or that other person), may apply by motion to the Supreme Court for redress.
-
-- The Supreme Court shall have original jurisdiction-
-
-- to hear and determine any application made by any person in pursuance of subsection (1); and
-
-- to  determine  any  question  arising  in  the  case  of  any  person  which  is referred to in pursuance of subsection (3), and may make such order, issue such writs, and give such directions as it may consider appropriate for the purpose of enforcing, or securing the enforcement of any of the provisions of  the  said  sections  16  to  27  (inclusive)  to  the  protection  of  which  the person concerned is entitled:
-
-Provided  that  the  Supreme  Court  shall  not  exercise  its  powers  under  this subsection if it is satisfied that adequate means of redress for the contravention alleged are or have been available to the person concerned under any other law.
-
-- If  in  any proceedings in any court other than the Supreme Court, any question arises  as  to  the  contravention  of  any  of  the  provisions  of  sections  16  to  27 inclusive, that court may, and shall if any party to the proceedings so requests, refer the question to the Supreme Court.
-
-- a. The Rules of Court Committee may make rules with respect to the practice and procedure of the Supreme Court for the purposes of this section;
-
-- Parliament  may  confer  upon  the  Supreme  Court  such  powers  in  addition  to those conferred by this section as may appear to Parliament to be necessary or desirable for the purpose of enabling the court more effectively to exercise the jurisdiction conferred upon it by this section.
-
-- Parliament shall make provision-
-
-- for  the  rendering  of  financial  assistance  to  any  indigent  citizen  of  Sierra Leone where his right under this Chapter has been infringed, or with a view to enabling him to engage the services of a legal practitioner to prosecute his claim; and
-
-- for ensuring that allegations of infringements of such rights are substantial and the requirement or need for financial or legal aid is real.
-
-- The Supreme Court-
-
-- consisting of not less than five Justices of the Supreme Court shall consider every question referred to it under this Chapter for a decision, and, having heard arguments by or on behalf of the parties by Counsel, shall pronounce its  decision  on  such  question  in  open  court  as  soon  as  may  be  and  in  any case not later than thirty days after the date of such reference;
-
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
-
 Page 25
-
+8. The exercise of any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person under or by this Constitution or any other law shall not be enquired into by any Court on the grounds that it contravenes the provision of subsection (2).
+#### 28. Enforcement of protective provisions
+1. Subject to the provisions of subsection (4), if any person alleges that any of the provisions of sections 16 to 27 (inclusive) has been, is being or is likely to be contravened in relation to him by any person (or, in the case of a person who is detained, if any other person alleges such a contravention in relation to the detained person), then, without prejudice to any other action with respect to the same matter which is lawfully available, that person, (or that other person), may apply by motion to the Supreme Court for redress.
+2. The Supreme Court shall have original jurisdiction—
+a. to hear and determine any application made by any person in pursuance of subsection (1); and
+b. to determine any question arising in the case of any person which is referred to in pursuance of subsection (3), and may make such order, issue such writs, and give such directions as it may consider appropriate for the purpose of enforcing, or securing the enforcement of any of the provisions of the said sections 16 to 27 (inclusive) to the protection of which the person concerned is entitled:
+Provided that the Supreme Court shall not exercise its powers under this subsection if it is satisfied that adequate means of redress for the contravention alleged are or have been available to the person concerned under any other law.
+3. If in any proceedings in any court other than the Supreme Court, any question arises as to the contravention of any of the provisions of sections 16 to 27 inclusive, that court may, and shall if any party to the proceedings so requests, refer the question to the Supreme Court.
+4. a. The Rules of Court Committee may make rules with respect to the practice and procedure of the Supreme Court for the purposes of this section;
+b. Parliament may confer upon the Supreme Court such powers in addition to those conferred by this section as may appear to Parliament to be necessary or desirable for the purpose of enabling the court more effectively to exercise the jurisdiction conferred upon it by this section.
+5. Parliament shall make provision—
+a. for the rendering of financial assistance to any indigent citizen of Sierra Leone where his right under this Chapter has been infringed, or with a view to enabling him to engage the services of a legal practitioner to prosecute his claim; and
+b. for ensuring that allegations of infringements of such rights are substantial and the requirement or need for financial or legal aid is real.
+6. The Supreme Court—
+a. consisting of not less than five Justices of the Supreme Court shall consider every question referred to it under this Chapter for a decision, and, having heard arguments by or on behalf of the parties by Counsel, shall pronounce its decision on such question in open court as soon as may be and in any case not later than thirty days after the date of such reference;
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
@@ -978,39 +750,39 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Emergency provisions
+b. shall for the purposes of this Chapter, give its decision by a majority of the Justices of that Court and such decision shall be pronounced by the Chief Justice or any other of the Justices as the Court shall direct.
 
-- shall for the purposes of this Chapter, give its decision by a majority of the Justices of that Court and such decision shall be pronounced by the Chief Justice or any other of the Justices as the Court shall direct.
+• Emergency provisions
 
 #### 29. Public Emergency
 
-- Whenever  in  the  opinion  of  the  President  a  state  of  public  emergency  is imminent or has commenced, the President may, at any time, by Proclamation which shall be published in the Gazette, declare that-
+1. Whenever in the opinion of the President a state of public emergency is imminent or has commenced, the President may, at any time, by Proclamation which shall be published in the Gazette, declare that—
 
-- a  state  of  public  emergency  exists  either  in  any  part,  or  in  the  whole  of Sierra Leone; or
+a. a state of public emergency exists either in any part, or in the whole of Sierra Leone; or
 
-- a situation exists which, if it is allowed to continue, may lead to a state of public emergency in any part of or the whole of Sierra Leone.
+b. a situation exists which, if it is allowed to continue, may lead to a state of public emergency in any part of or the whole of Sierra Leone.
 
-- The  President  may  issue  a  Proclamation  of  a  state  of  public  emergency  only when-
+2. The President may issue a Proclamation of a state of public emergency only when—
 
-- Sierra Leone is at war;
+a. Sierra Leone is at war;
 
-- Sierra Leone is in imminent danger of invasion or involvement in a state of war; or
+b. Sierra Leone is in imminent danger of invasion or involvement in a state of war; or
 
-- there is actual breakdown of public order and public safety in the whole of Sierra Leone  or any part thereof to such an extent as to  require extraordinary measures to restore peace and security; or
+c. there is actual breakdown of public order and public safety in the whole of Sierra Leone or any part thereof to such an extent as to require extraordinary measures to restore peace and security; or
 
-- there is a clear and present danger of an actual breakdown of public order and public safety in the whole of Sierra Leone or any part thereof requiring extraordinary measures to avert the same; or
+d. there is a clear and present danger of an actual breakdown of public order and public safety in the whole of Sierra Leone or any part thereof requiring extraordinary measures to avert the same; or
 
-- there  is  an  occurrence  of  imminent  danger,  or  the  occurrence  of  any disaster  or  natural  calamity  affecting  the  community  or  a  section  of  the community in Sierra Leone; or
+e. there is an occurrence of imminent danger, or the occurrence of any disaster or natural calamity affecting the community or a section of the community in Sierra Leone; or
 
-- there is  any  other  public  danger  which  clearly  constitutes  a  threat  to  the existence of Sierra Leone.
+f. there is any other public danger which clearly constitutes a threat to the existence of Sierra Leone.
 
-- Every declaration made under subsection (1) shall lapse-
+3. Every declaration made under subsection (1) shall lapse—
 
-- in  the  case  of  a  declaration  made  when  Parliament  is  sitting  at  the expiration of a period of seven days beginning with the date of publication of the declaration; and
+a. in the case of a declaration made when Parliament is sitting at the expiration of a period of seven days beginning with the date of publication of the declaration; and
 
-- in  any  other  case,  at  the  expiration  of  a  period  of  twenty-one  days beginning with the date of the declaration,
+b. in any other case, at the expiration of a period of twenty-one days beginning with the date of the declaration,
 
-unless it has in the meantime been approved by or superseded by a Resolution of  Parliament  supported  by  the  votes  of  two-thirds  of  the  Members  of Parliament.
+unless it has in the meantime been approved by or superseded by a Resolution of Parliament supported by the votes of two-thirds of the Members of Parliament.
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1024,39 +796,39 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Power to deport citizens
+4. A declaration made under subsection (1) may at any time before being superseded by a Resolution of Parliament be revoked by the President by Proclamation which shall be published in the Gazette, and all measures taken thereunder shall be deemed valid and lawful and shall not be enquired into by any court or tribunal.
 
-- A  declaration  made  under  subsection  (1)  may  at  any  time  before  being superseded  by  a  Resolution  of  Parliament  be  revoked  by  the  President  by Proclamation which shall be published in the Gazette, and all measures taken thereunder shall be deemed valid and lawful and shall not be enquired into by any court or tribunal.
+5. During a period of public emergency, the President may make such regulations and take such measures as appear to him to be necessary or expedient for the purpose of maintaining and securing peace, order and good government in Sierra Leone or any part thereof.
 
-- During a period of public emergency, the President may make such regulations and take such measures as appear to him to be necessary or expedient for the purpose  of  maintaining  and  securing  peace,  order  and  good  government  in Sierra Leone or any part thereof.
+6. Without derogating from the generality of the powers conferred by subsection (5) and notwithstanding the provisions of this Chapter, the regulations or measures may, so far as appears to the President to be necessary or expedient for any of the purposes mentioned in that subsection—
 
-- Without derogating from the generality of the powers conferred by subsection (5)  and  notwithstanding  the  provisions  of  this  Chapter,  the  regulations  or measures may, so far as appears to the President to be necessary or expedient for any of the purposes mentioned in that subsection-
+a. make provision for the detention of persons, the restriction of the movement of persons within defined localities, and the deportation and exclusion of persons other than citizens of Sierra Leone from Sierra Leone or any part thereof;
 
-- make  provision  for  the detention  of persons, the restriction of  the movement  of  persons  within  defined  localities,  and  the  deportation  and exclusion of persons other than citizens of Sierra Leone from Sierra Leone or any part thereof;
+• Power to deport citizens
 
-- authorise-
+b. authorise—
 
-- the taking of possession or control on behalf of the Government of any property or undertaking;
+i. the taking of possession or control on behalf of the Government of any property or undertaking;
 
-- the  acquisition  on  behalf  of  the  Government  of  any  property  other than land;
+ii. the acquisition on behalf of the Government of any property other than land;
 
-- authorise the entering and search of any premises;
+c. authorise the entering and search of any premises;
 
-- amend any law, suspend the operation of any law, and apply any law with or without modification:
+d. amend any law, suspend the operation of any law, and apply any law with or without modification:
 
 Provided that such amendment, suspension or modification shall not apply to this Constitution;
 
-- provide for charging, in respect of the grant or issue of any licence, permit, certificate or other document for the purpose of the regulations, such fees as may be prescribed by or under the regulations;
+e. provide for charging, in respect of the grant or issue of any licence, permit, certificate or other document for the purpose of the regulations, such fees as may be prescribed by or under the regulations;
 
-- provide  for  payment  of  compensation  and  remuneration  to  persons affected by the regulations;
+f. provide for payment of compensation and remuneration to persons affected by the regulations;
 
-- provide  for  the  apprehension,  trial  and  punishment  of  persons  offending against the regulations;
+g. provide for the apprehension, trial and punishment of persons offending against the regulations;
 
-- provide for maintaining such supplies and services as are, in the opinion of the President, essential to the life and well-being of the community:
+h. provide for maintaining such supplies and services as are, in the opinion of the President, essential to the life and well-being of the community:
 
 Provided that nothing in this subsection shall authorise the making of regulations during a period of public emergency for the trial of persons who are not members of defence forces by military courts.
 
-- The payment of any compensation or remuneration under the provisions of such regulations shall be a charge upon the Consolidated Fund.
+7. The payment of any compensation or remuneration under the provisions of such regulations shall be a charge upon the Consolidated Fund.
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1070,27 +842,27 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-- Regulations made under this section shall apply to the whole of Sierra Leone or to such parts thereof as may be specified in the regulations.
+8. Regulations made under this section shall apply to the whole of Sierra Leone or to such parts thereof as may be specified in the regulations.
 
-- Regulations made  under  this  section  may  provide  for  empowering  such authorities or persons as may be specified in the regulations to make Orders and Rules for any of the purposes for which the regulations are authorised by this Constitution to be necessary or expedient for the purposes of the regulations.
+9. Regulations made under this section may provide for empowering such authorities or persons as may be specified in the regulations to make Orders and Rules for any of the purposes for which the regulations are authorised by this Constitution to be necessary or expedient for the purposes of the regulations.
 
-- a. Every regulation or measure taken under this section and every order or rule made in pursuance of such a regulation shall, without prejudice to the validity of anything  lawfully  done  thereunder,  cease  to  have  effect  ninety  days  from  the date  upon  which  it  comes  into  operation  unless  before  the  expiration  of  the period, it has been approved by resolution passed by Parliament.
+10. a. Every regulation or measure taken under this section and every order or rule made in pursuance of such a regulation shall, without prejudice to the validity of anything lawfully done thereunder, cease to have effect ninety days from the date upon which it comes into operation unless before the expiration of the period, it has been approved by resolution passed by Parliament.
 
-- Any  such  regulation,  order  or  rule  may,  without  prejudice  to  the  validity  of anything lawfully done thereunder at any time be amended or revoked by the President.
+b. Any such regulation, order or rule may, without prejudice to the validity of anything lawfully done thereunder at any time be amended or revoked by the President.
 
-- Subject  to  the  provisions  of  subsections  (7)  and  (8)  of  section  23,  every regulation made under this section and every order or rule made in pursuance of such  a  regulation  shall  have  effect  notwithstanding  anything  inconsistent therewith contained in any law; and any provision of a law which is inconsistent with any such regulation, order or rule shall, whether that provision has or has not been amended, modified or suspended in its operation under any Act, cease to have effect to the extent that such regulation, order or rule remains in force.
+11. Subject to the provisions of subsections (7) and (8) of section 23, every regulation made under this section and every order or rule made in pursuance of such a regulation shall have effect notwithstanding anything inconsistent therewith contained in any law; and any provision of a law which is inconsistent with any such regulation, order or rule shall, whether that provision has or has not been amended, modified or suspended in its operation under any Act, cease to have effect to the extent that such regulation, order or rule remains in force.
 
-- A  declaration  made  under  subsection  (1)  that  has  been  approved  by  or superseded by a resolution of Parliament in pursuance of subsection (2) shall, subject  to  the  provisions  of  subsection  (3),  remain  in  force  as  long  as  that resolution remains in force.
+12. A declaration made under subsection (1) that has been approved by or superseded by a resolution of Parliament in pursuance of subsection (2) shall, subject to the provisions of subsection (3), remain in force as long as that resolution remains in force.
 
-- A resolution of Parliament passed for the purpose of this section shall remain in force for a period of twelve months or such shorter period as may be specified therein:
+13. A resolution of Parliament passed for the purpose of this section shall remain in force for a period of twelve months or such shorter period as may be specified therein:
 
-Provided  that  any  such  resolution  may  be  extended  from  time  to  time  by  a further  such  resolution,  supported  by  the  votes  of  two-thirds  of  Members  of Parliament, each extension not exceeding twelve months from the date of the resolution effecting the extension; and any such resolution may be revoked at any time by a resolution supported by the votes of a simple majority of all the Members of Parliament.
+Provided that any such resolution may be extended from time to time by a further such resolution, supported by the votes of two-thirds of Members of Parliament, each extension not exceeding twelve months from the date of the resolution effecting the extension; and any such resolution may be revoked at any time by a resolution supported by the votes of a simple majority of all the Members of Parliament.
 
-- Any provision of this Section that a declaration made under subsection (1) shall lapse or cease to be in force at any particular time is without prejudice to the making of a further such declaration whether before or after that time.
+14. Any provision of this Section that a declaration made under subsection (1) shall lapse or cease to be in force at any particular time is without prejudice to the making of a further such declaration whether before or after that time.
 
-- Every  document  purporting  to  be  an  instrument  made  or  issued  by  the President  or  other  authority  or  person  in  pursuance  of  this  section,  or  of  any regulation made thereunder and to be signed by or on behalf of the President or such other authority or person, shall be received in evidence, and shall, until the contrary  be  proved,  be  deemed  to  be  an  instrument  made  or  issued  by  the President or that authority or person.
+15. Every document purporting to be an instrument made or issued by the President or other authority or person in pursuance of this section, or of any regulation made thereunder and to be signed by or on behalf of the President or such other authority or person, shall be received in evidence, and shall, until the contrary be proved, be deemed to be an instrument made or issued by the President or that authority or person.
 
-- The President may summon Parliament to meet for the purpose of subsection (2) notwithstanding that Parliament then stands dissolved, and the persons who were  Members  of  Parliament  immediately  before  the  dissolution  shall  be deemed, for those purposes, still to be Members of Parliament but subject to the provisions of section 79 of this Constitution (which relates to the election of the Speaker of Parliament), without prejudice to the provisions of section 85 of this Constitution (which relates to the prolongation of the life of Parliament during a period of public emergency), Parliament shall not when summoned by virtue of this  subsection  transact  any  business  other  than  debating  and  voting  upon  a resolution for the purpose of subsection (2).
+16. The President may summon Parliament to meet for the purpose of subsection (2) notwithstanding that Parliament then stands dissolved, and the persons who were Members of Parliament immediately before the dissolution shall be deemed, for those purposes, still to be Members of Parliament but subject to the provisions of section 79 of this Constitution (which relates to the election of the Speaker of Parliament), without prejudice to the provisions of section 85 of this Constitution (which relates to the prolongation of the life of Parliament during a period of public emergency), Parliament shall not when summoned by virtue of this subsection transact any business other than debating and voting upon a resolution for the purpose of subsection (2).
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1104,29 +876,29 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-- During a period of detention-
+17. During a period of detention—
 
-- if any person who is detained in such a case as is mentioned in paragraph (a) of subsection (6) and who is not released so requests at any time not earlier than thirty days after he last made such a request during that period, his case shall be reviewed by an independent and impartial tribunal established by law, comprising not more than three persons from amongst persons of not less than fifteen year's standing entitled to practise in Sierra Leone as legal practitioners;
+a. if any person who is detained in such a case as is mentioned in paragraph (a) of subsection (6) and who is not released so requests at any time not earlier than thirty days after he last made such a request during that period, his case shall be reviewed by an independent and impartial tribunal established by law, comprising not more than three persons from amongst persons of not less than fifteen year’s standing entitled to practise in Sierra Leone as legal practitioners;
 
-- the Chairman of the tribunal, set up under paragraph (a) shall be appointed by the Chief Justice, and the two other members shall be nominated by the Sierra Leone Bar Association;
+b. the Chairman of the tribunal, set up under paragraph (a) shall be appointed by the Chief Justice, and the two other members shall be nominated by the Sierra Leone Bar Association;
 
-- on any review by a tribunal in pursuance of paragraph (a) of the case of any detained person, the tribunal may make recommendations concerning the necessity  or  expediency  of  continuing  his  detention  to  the  authority  by whom  it  was  ordered,  but  unless  it  is  otherwise  provided  by  law,  that authority shall not be obliged to act in  accordance  with  any  such recommendations.
+c. on any review by a tribunal in pursuance of paragraph (a) of the case of any detained person, the tribunal may make recommendations concerning the necessity or expediency of continuing his detention to the authority by whom it was ordered, but unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
 
-- Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question authorises the taking during a period of a state of public emergency of measures  that  are  reasonably  justifiable  for  the  purpose  of  dealing  with  the situation  that  exists  immediately  before  and  during  that  period  of  a  state  of public emergency.
+18. Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question authorises the taking during a period of a state of public emergency of measures that are reasonably justifiable for the purpose of dealing with the situation that exists immediately before and during that period of a state of public emergency.
 
 #### 30. Interpretation of Chapter III
 
-- In this Chapter, unless the context otherwise requires, the following expressions have the following meanings respectively, that is to say-
+1. In this Chapter, unless the context otherwise requires, the following expressions have the following meanings respectively, that is to say—
 
-'contravention' in relation to any requirement includes a failure to comply with that requirement, and cognate expressions shall be  construed accordingly;
+• “contravention” in relation to any requirement includes a failure to comply with that requirement, and cognate expressions shall be construed accordingly;
 
-'court' means any court of law in Sierra Leone other than a local court or a court constituted by or under service law and-
+• “court” means any court of law in Sierra Leone other than a local court or a court constituted by or under service law and—
 
-- in section 16, section 17, section 18, section 19, subsections (3), (5), (6), (9) (but not the proviso thereto) and (11) of Section 23, subsection (2) of section 25, subsection 8 of section 27, subsection (3) of section 28 and  subsection  (4)  of  section  29  includes,  in  relation  to  an  offence against service law, a court so constituted; and
+a. in section 16, section 17, section 18, section 19, subsections (3), (5), (6), (9) (but not the proviso thereto) and (11) of Section 23, subsection (2) of section 25, subsection 8 of section 27, subsection (3) of section 28 and subsection (4) of section 29 includes, in relation to an offence against service law, a court so constituted; and
 
-- in  sections  17  and  19,  and  subsection  (8)  of  section  27,  includes,  in relation to an offence against service law, an officer of a defence force or of the Sierra Leone Police Force;
+b. in sections 17 and 19, and subsection (8) of section 27, includes, in relation to an offence against service law, an officer of a defence force or of the Sierra Leone Police Force;
 
-'defence force' means any naval, military or airforce of the Government of the Republic of Sierra Leone;
+• “defence force” means any naval, military or airforce of the Government of the Republic of Sierra Leone;
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1140,43 +912,43 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Restrictions on voting
+• “member” in relation to a defence force or other disciplined force, includes any person who, under the law regulating the discipline of that force, is subject to that discipline;
 
-· Electoral commission
+• “owner” includes any person or his successor in title deprived of any right or interest pursuant to section 21; and
 
-'member' in relation to a defence force or other disciplined force, includes any  person  who,  under  the  law  regulating  the  discipline  of  that  force,  is subject to that discipline;
+• “service law” means the law regarding the discipline of a defence force or of the Sierra Leone Police Force or the Prisons Service or any disciplined volunteer force.
 
-'owner' includes any person or his successor in title deprived of any right or interest pursuant to section 21; and
+2. References in sections 16, 17, 18 and 21 to a “criminal offence” shall be construed as including references to an offence against service law and such references in subsections (4) to (9) of section 23 shall, in relation to proceedings before a court constituted by or under service law, be similarly construed.
 
-'service law' means the law regarding the discipline of a defence force or of the  Sierra  Leone  Police  Force  or  the  Prisons  Service  or  any  disciplined volunteer force.
+3. Nothing done by or under the authority of the law of any country other than Sierra Leone to a member of an armed force raised under that law and lawfully present in Sierra Leone shall be held to be in contravention of the provisions of this Chapter.
 
-- References  in  sections  16,  17,  18  and  21  to  a  'criminal  offence'  shall  be construed  as  including  references  to  an  offence  against  service  law  and  such references in subsections (4) to (9) of section 23 shall, in relation to proceedings before a court constituted by or under service law, be similarly construed.
+4. In relation to any person who is a member of a disciplined force raised under an Act of Parliament, nothing contained in or done under the authority of the disciplinary law of that force shall be held to be inconsistent with or in contravention of any of the provisions of this Chapter.
 
-- Nothing done by or under the authority of the law of any country other than Sierra Leone to a member of an armed force raised under that law and lawfully present in Sierra Leone shall be held to be in contravention of the provisions of this Chapter.
+5. In relation to any person who is a member of a disciplined force raised otherwise than as aforesaid and lawfully present in Sierra Leone, nothing contained in or done under the authority of the disciplinary law of that force shall be held to be inconsistent with or in contravention of any of the provisions of this Chapter.
 
-- In relation to any person who is a member of a disciplined force raised under an Act  of  Parliament,  nothing  contained  in  or  done  under  the  authority  of  the disciplinary  law  of  that  force  shall  be  held  to  be  inconsistent  with  or  in contravention of any of the provisions of this Chapter.
-
-- In relation to any person who is a member of a disciplined force raised otherwise than as aforesaid and lawfully present in Sierra Leone, nothing contained in or done under the authority of the disciplinary law of that force shall be held to be inconsistent with or in contravention of any of the provisions of this Chapter.
-
-- In determining the appropriate 'majority of all Members of Parliament' account shall  only  be  taken  of  the  persons  actually  and  validly  existing  as  Members  of Parliament at the relevant time.
+6. In determining the appropriate “majority of all Members of Parliament” account shall only be taken of the persons actually and validly existing as Members of Parliament at the relevant time.
 
 ## CHAPTER IV: THE REPRESENTATION OF THE PEOPLE
+
+• Restrictions on voting
 
 #### 31. Registration of voters
 
 Every citizen of Sierra Leone being eighteen years of age and above and of sound mind shall have the right to vote, and accordingly shall be entitled to be registered as a voter for the purposes of public elections and referenda.
 
+• Electoral commission
+
 #### 32. Electoral Commission
 
-- There shall be an Electoral Commission for Sierra Leone.
+1. There shall be an Electoral Commission for Sierra Leone.
 
-- The members of the Electoral Commission shall be a Chief Electoral Commissioner,  who  shall  be  Chairman,  and  four  other  members  who  shall  be known as Electoral Commissioners.
+2. The members of the Electoral Commission shall be a Chief Electoral Commissioner, who shall be Chairman, and four other members who shall be known as Electoral Commissioners.
 
-- The members of the Electoral Commission shall be appointed by the President after consultation with the leaders of all registered political parties and subject to the approval of Parliament.
+3. The members of the Electoral Commission shall be appointed by the President after consultation with the leaders of all registered political parties and subject to the approval of Parliament.
 
-- A person shall not be qualified-
+4. A person shall not be qualified—
 
-- for  appointment  as  a  member  of  the  Electoral  Commission  if  he  is  not qualified to be elected as a Member of Parliament, or
+a. for appointment as a member of the Electoral Commission if he is not qualified to be elected as a Member of Parliament, or
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1190,35 +962,35 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Electoral commission
+b. to hold office as a member of the Electoral Commission if he is a Minister, a Deputy Minister, a Member of Parliament, or a public officer, or if he has attained the age of sixty-five years.
 
-- to hold office as a member of the Electoral Commission if he is a Minister, a Deputy Minister, a Member of Parliament, or a public officer, or if he has attained the age of sixty-five years.
+5. The terms and conditions of service of members of the Electoral Commission shall be such as Parliament shall prescribe.
 
-- The terms and conditions of service  of  members  of  the  Electoral  Commission shall be such as Parliament shall prescribe.
+6. A member of the Electoral Commission shall before assuming the functions of his office, take and subscribe before the President the Oath as set out in the Third Schedule to this Constitution.
 
-- A member of the Electoral Commission shall before assuming the functions of his  office,  take  and  subscribe  before  the  President  the  Oath  as  set  out  in  the Third Schedule to this Constitution.
+7. Subject to the provisions of this section, a member of the Electoral Commission shall vacate his office—
 
-- Subject to the provisions of this section, a member of the Electoral Commission shall vacate his office-
+a. at the expiration of five years from the date of his appointment; or
 
-- at the expiration of five years from the date of his appointment; or
+b. on attaining the age of sixty-five years; or
 
-- on attaining the age of sixty-five years; or
+c. if any circumstances arise which, if he were not a member of the Commission, would cause him to be disqualified for appointment as such.
 
-- if  any  circumstances  arise  which,  if  he  were  not  a  member  of  the Commission, would cause him to be disqualified for appointment as such.
+8. A member of the Electoral Commission may be removed from office by the President for inability to discharge the functions of his office (whether arising from infirmity of mind or body or any other cause) or for misbehaviour.
 
-- A  member  of  the  Electoral  Commission  may  be  removed  from  office  by  the President for inability to discharge the functions of his office (whether arising from infirmity of mind or body or any other cause) or for misbehaviour.
+9. A member of the Electoral Commission shall not be removed from office except in accordance with the provisions of this section.
 
-- A member of the Electoral Commission shall not be removed from office except in accordance with the provisions of this section.
+10. Whenever a member of the Electoral Commission dies, resigns, is removed from office, or is absent from Sierra Leone, or is by reason of illness or any other cause unable to perform the functions of his office, the President may appoint a person who is qualified to be appointed Electoral Commissioner and any person so appointed shall, subject to the provisions of subsections (6) and (7), continue to perform those functions until his appointment is revoked by the President, or until the Electoral Commissioner is able to perform those functions, or until the appointment of a new Electoral Commissioner.
 
-- Whenever a member of the Electoral Commission dies, resigns, is removed from office, or is absent from Sierra Leone, or is by reason of illness or any other cause unable to perform the functions of his office, the President may appoint a person who  is  qualified  to  be  appointed  Electoral  Commissioner  and  any  person  so appointed shall, subject to the provisions of subsections (6) and (7), continue to perform those functions until his appointment is revoked by the President, or until the Electoral Commissioner is able to perform those functions, or until the appointment of a new Electoral Commissioner.
+11. In the exercise of any functions vested in it by this Constitution, the Electoral Commission shall not be subject to the direction or control of any person or authority.
 
-- In  the  exercise of any functions vested in it by this Constitution, the Electoral Commission  shall  not  be  subject  to  the  direction  or  control  of  any  person  or authority.
+12. The Chief Electoral Commissioner shall submit a report on the programme and work of the Electoral Commission at least once a year to the President and a copy of such report shall be laid before Parliament.
 
-- The Chief Electoral Commissioner shall submit a report on the programme and work of the Electoral Commission at least once a year to the President and a copy of such report shall be laid before Parliament.
+• Electoral commission
 
 #### 33. Functions of the Electoral Commission
 
-Subject  to  the  provisions  of  this  Constitution,  the  Electoral  Commission  shall  be responsible for the conduct and supervision of the registration of voters for, and of, all  public  elections  and  referenda;  and  for  that  purpose  shall  have  power  to  make regulations  by  statutory  instrument  for  the  registration  of  voters,  the  conduct  of Presidential, Parliamentary or Local Government elections and referenda, and other matters connected therewith, including regulations for voting by proxy.
+Subject to the provisions of this Constitution, the Electoral Commission shall be responsible for the conduct and supervision of the registration of voters for, and of, all public elections and referenda; and for that purpose shall have power to make regulations by statutory instrument for the registration of voters, the conduct of Presidential, Parliamentary or Local Government elections and referenda, and other matters connected therewith, including regulations for voting by proxy.
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1232,53 +1004,55 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-Regulation of political parties
-
-Secret ballot
-
-Right to form political parties
-
-· Prohibited political parties
-
-· Restrictions on political parties
-
-· Regulation of political parties
+• Regulation of political parties
 
 #### 34. Political Parties Registration Commission
 
-- There shall be a Political Parties Registration Commission which shall consist of four members appointed by the President, namely-
+1. There shall be a Political Parties Registration Commission which shall consist of four members appointed by the President, namely—
 
-- the  Chairman  of  the  Commission,  who  shall  be  a  person  who  has  held Judicial office or is qualified to be appointed a Judge of the Superior Court of Judicature nominated by the Judicial and Legal Service Commission;
+a. the Chairman of the Commission, who shall be a person who has held Judicial office or is qualified to be appointed a Judge of the Superior Court of Judicature nominated by the Judicial and Legal Service Commission;
 
-- the Chief Electoral Commissioner;
+b. the Chief Electoral Commissioner;
 
-- a legal practitioner nominated by the Sierra Leone Bar Association; and
+c. a legal practitioner nominated by the Sierra Leone Bar Association; and
 
-- a member nominated by the Sierra Leone Labour Congress.
+d. a member nominated by the Sierra Leone Labour Congress.
 
-- The members of the Commission, other than the Chief Electoral Commissioner, shall be appointed by the President, subject to the approval of Parliament.
+2. The members of the Commission, other than the Chief Electoral Commissioner, shall be appointed by the President, subject to the approval of Parliament.
 
-- The Administrator and Registrar-General shall be Secretary to the Commission.
+3. The Administrator and Registrar-General shall be Secretary to the Commission.
 
-- The Commission shall be responsible for the registration of all political parties and for  that  purpose  may  make  such  regulations  as  may  be  necessary  for  the discharge of its responsibilities under this Constitution: Provided that the first registration of political parties after the coming into force of this Constitution shall be undertaken by the Electoral Commission.
+4. The Commission shall be responsible for the registration of all political parties and for that purpose may make such regulations as may be necessary for the discharge of its responsibilities under this Constitution:
 
-- In the exercise of any functions vested in it by this Constitution, the Commission shall not be subject to the direction or control of any person or authority, save only as regards the right to appeal contained in section 35.
+Provided that the first registration of political parties after the coming into force of this Constitution shall be undertaken by the Electoral Commission.
+
+5. In the exercise of any functions vested in it by this Constitution, the Commission shall not be subject to the direction or control of any person or authority, save only as regards the right to appeal contained in section 35.
+
+• Secret ballot
 
 #### 35. Registration and conduct of political parties
 
-- Subject to the provisions of this section, political parties may be established to participate in shaping the political will of the people, to disseminate information on political ideas, and social and economic programmes of a national character, and to sponsor candidates for Presidential, Parliamentary or Local Government elections.
+1. Subject to the provisions of this section, political parties may be established to participate in shaping the political will of the people, to disseminate information on political ideas, and social and economic programmes of a national character, and to sponsor candidates for Presidential, Parliamentary or Local Government elections.
 
-- The  internal  organisation  of  a  political  party  shall  conform  to  democratic principles, and its aims, objectives, purposes and programmes  shall  not contravene, or be inconsistent with, any provisions of this Constitution.
+• Right to form political parties
 
-- A  statement  of  the  sources  of  income  and  the  audited  accounts  of  a  political party, together with a statement of its assets and liabilities, shall be submitted annually to the Political Parties Registration Commission, but no such account shall be audited by a member of the political party whose account is submitted.
+2. The internal organisation of a political party shall conform to democratic principles, and its aims, objectives, purposes and programmes shall not contravene, or be inconsistent with, any provisions of this Constitution.
 
-- No  political  party  shall  have  as  a  leader  a  person  who  is  not  qualified  to  be elected as a Member of Parliament.
+3. A statement of the sources of income and the audited accounts of a political party, together with a statement of its assets and liabilities, shall be submitted annually to the Political Parties Registration Commission, but no such account shall be audited by a member of the political party whose account is submitted.
 
-- No association, by whatever name called, shall be registered or be allowed to operate  or  to  function  as  a  political  party  if  the  Political  Parties  Registration Commission is satisfied that-
+4. No political party shall have as a leader a person who is not qualified to be elected as a Member of Parliament.
 
-- membership  or  leadership  of  the  party  is  restricted  to  members  of  any particular tribal or ethnic group or religious faith; or
+5. No association, by whatever name called, shall be registered or be allowed to operate or to function as a political party if the Political Parties Registration Commission is satisfied that—
 
-- the name, symbol, colour or motto of the party has exclusive or particular significance  or  connotation  to  members  of  any  particular  tribal  or  ethnic group or religious faith; or
+• Prohibited political parties
+
+• Restrictions on political parties
+
+• Regulation of political parties
+
+a. membership or leadership of the party is restricted to members of any particular tribal or ethnic group or religious faith; or
+
+b. the name, symbol, colour or motto of the party has exclusive or particular significance or connotation to members of any particular tribal or ethnic group or religious faith; or
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1292,41 +1066,41 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Referenda
+c. the party is formed for the sole purpose of securing or advancing the interests and welfare of a particular tribal or ethnic group, community, geographical area or religious faith; or
 
-- First chamber selection
+d. the party does not have a registered office in each of the Provincial Headquarter towns and the Western Area.
 
-- Electoral districts
+6. Subject to the provisions of this Constitution, and in furtherance of the provisions of this section, Parliament may make laws regulating the registration, functions and operation of political parties.
 
-- the  party  is  formed  for  the  sole  purpose  of  securing  or  advancing  the interests  and  welfare  of  a  particular  tribal  or  ethnic  group,  community, geographical area or religious faith; or
+7. Any association aggrieved by a decision of the Political Parties Registration Commission under this section may appeal to the Supreme Court and the decision of the Court shall be final.
 
-- the  party  does  not  have  a  registered  office  in  each  of  the  Provincial Headquarter towns and the Western Area.
+8. For the purposes of this section the expression—
 
-- Subject  to  the  provisions  of  this  Constitution,  and  in  furtherance  of  the provisions of this section, Parliament may make laws regulating the registration, functions and operation of political parties.
+• “association” includes anybody of persons, corporate or incorporate, who agree to act together for any common purpose, or an association formed for any ethnic, social, cultural, occupational or religious purpose; and
 
-- Any  association  aggrieved  by  a  decision  of  the  Political  Parties  Registration Commission  under  this  section  may  appeal  to  the  Supreme  Court  and  the decision of the Court shall be final.
-
-- For the purposes of this section the expression-
-
-'association' includes anybody of persons, corporate or incorporate, who agree to act together for any common purpose, or an association formed for any ethnic, social, cultural, occupational or religious purpose; and
-
-'political  party'  means  any  association  registered  as  a  political  party  as prescribed by subsection (5).
+• “political party” means any association registered as a political party as prescribed by subsection (5).
 
 #### 36. Secret ballot
 
 At any public elections or referenda voting shall be by secret ballot.
 
+• Referenda
+
 #### 37. Referendum
 
-- In any referendum held pursuant to an Act of Parliament, every person who is entitled to vote in elections of Members of Parliament shall be entitled to vote at  such  referendum  and  no  other  person  may  so  vote;  and  the  issue  in  the referendum shall not be regarded as having been approved at that referendum unless  it  was  so  approved  by  the  votes  of  not  less  than  one-half  of  all  such persons or by not less than two-thirds of all the valid votes cast.
+1. In any referendum held pursuant to an Act of Parliament, every person who is entitled to vote in elections of Members of Parliament shall be entitled to vote at such referendum and no other person may so vote; and the issue in the referendum shall not be regarded as having been approved at that referendum unless it was so approved by the votes of not less than one-half of all such persons or by not less than two-thirds of all the valid votes cast.
 
-- The conduct of any referendum for the purposes of subsection (1) shall be under the  general  supervision  of  the  Electoral  Commission  and  the  provisions  of Section  38  of  this  Constitution  shall  apply  in  relation  to  the  exercise  by  the Electoral Commission of its functions with respect to a referendum as they apply in relation to the exercise of its functions with respect to elections of Members of Parliament.
+2. The conduct of any referendum for the purposes of subsection (1) shall be under the general supervision of the Electoral Commission and the provisions of Section 38 of this Constitution shall apply in relation to the exercise by the Electoral Commission of its functions with respect to a referendum as they apply in relation to the exercise of its functions with respect to elections of Members of Parliament.
 
-- A Bill for an Act of Parliament under this Section shall not be submitted to the President for his assent unless it is accompanied by a certificate under the hand of  the  Speaker  (or  if  the  Speaker  is  for  any  reason  unable  to  exercise  the functions of his office, the Deputy Speaker) that the provisions of subsections (1),  (2)  and  (3)  of  section  106  and,  where  appropriate,  the  provisions  of subsections (1) and (2) have been complied with.
+3. A Bill for an Act of Parliament under this Section shall not be submitted to the President for his assent unless it is accompanied by a certificate under the hand of the Speaker (or if the Speaker is for any reason unable to exercise the functions of his office, the Deputy Speaker) that the provisions of subsections (1), (2) and (3) of section 106 and, where appropriate, the provisions of subsections (1) and (2) have been complied with.
+
+• First chamber selection
 
 #### 38. Constituencies and elections
 
-- Sierra Leone shall be divided into such constituencies for the purpose of electing the  Members  of  Parliament  referred  to  in  paragraph  (b)  of  subsection  (1)  of section  74  of  this  Constitution  as  the  Electoral  Commission,  acting  with  the approval of Parliament signified by resolution of Parliament, may prescribe.
+1. Sierra Leone shall be divided into such constituencies for the purpose of electing the Members of Parliament referred to in paragraph (b) of subsection (1) of section 74 of this Constitution as the Electoral Commission, acting with the approval of Parliament signified by resolution of Parliament, may prescribe.
+
+• Electoral districts
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1340,33 +1114,33 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Census
+2. Every constituency established under this section shall return one Member of Parliament.
 
-- Every constituency established under this section shall return one Member of Parliament.
+3. The boundaries of each constituency shall be such that the number of inhabitants thereof is as nearly equal to the population quota as is reasonably practicable:
 
-- The  boundaries  of  each  constituency  shall  be  such  that  the  number  of inhabitants thereof is as nearly equal to the population quota as is reasonably practicable:
+Provided that the number of inhabitants of such a constituency may be greater or less than the population quota in order to take account of means of communications, geographical features, density of population, the distribution of different communities, the areas and boundaries of the Chiefdoms and other administrative or traditional areas.
 
-Provided that the number of inhabitants of such a constituency may be greater or  less  than  the  population  quota  in  order  to  take  account  of  means  of communications, geographical features, density of population, the distribution of different communities, the areas and boundaries of the Chiefdoms and other administrative or traditional areas.
+4. The Electoral Commission shall review the division of Sierra Leone into constituencies at intervals of not less than five and not more than seven years, and may alter the constituencies in accordance with the provisions of this section to such extent as it may consider desirable in the light of the review:
 
-- The  Electoral  Commission  shall  review  the  division  of  Sierra  Leone  into constituencies at intervals of not less than five and not more than seven years, and  may  alter  the  constituencies  in  accordance  with  the  provisions  of  this section to such extent as it may consider desirable in the light of the review:
+Provided that the Commission may at any time carry out such a review and alter the constituencies in accordance with the provisions of this section to such extent as it considers necessary in consequence of any alteration in the number of Members of Parliament referred to in paragraph (b) of subsection (1) of section 74 by reason of the holding of a census of the population of Sierra Leone in pursuance of an Act of Parliament.
 
-Provided that the Commission may at any time carry out such a review and alter the  constituencies  in  accordance  with  the  provisions  of  this  section  to  such extent as it considers necessary in consequence of any alteration in the number of  Members  of  Parliament  referred  to  in  paragraph  (b)  of  subsection  (1)  of section 74 by reason of the holding of a census of the population of Sierra Leone in pursuance of an Act of Parliament.
+• Census
 
-- Where the boundaries of any constituency are altered in accordance with the provisions of this  section,  that  alteration  shall  come  into  effect  upon  the  next dissolution of Parliament after the alteration has been approved by Parliament.
+5. Where the boundaries of any constituency are altered in accordance with the provisions of this section, that alteration shall come into effect upon the next dissolution of Parliament after the alteration has been approved by Parliament.
 
-- In  this  section  'population  quota'  means  the  number obtained by dividing the number  of  inhabitants  of  Sierra  Leone  by  the  number  of  constituencies  into which Sierra Leone is divided under this section.
+6. In this section “population quota” means the number obtained by dividing the number of inhabitants of Sierra Leone by the number of constituencies into which Sierra Leone is divided under this section.
 
-- For the purposes of this section the number of inhabitants of Sierra Leone shall be  ascertained  by  reference  to  the  latest  census  of  the  population  of  Sierra Leone held in pursuance of an Act of Parliament or if no census has been so held, by reference to any available information, which in the opinion of the Electoral Commission best indicates the number of those inhabitants.
+7. For the purposes of this section the number of inhabitants of Sierra Leone shall be ascertained by reference to the latest census of the population of Sierra Leone held in pursuance of an Act of Parliament or if no census has been so held, by reference to any available information, which in the opinion of the Electoral Commission best indicates the number of those inhabitants.
 
-- The  registration  of  voters  and  the  conduct  of  elections  in  every  constituency shall  be  subject  to  the  direction  and  supervision  of  the  Electoral  Commission, and it shall cause the register of voters to be revised and reviewed at least once in every three years.
+8. The registration of voters and the conduct of elections in every constituency shall be subject to the direction and supervision of the Electoral Commission, and it shall cause the register of voters to be revised and reviewed at least once in every three years.
 
 #### 38A. Election by district block representation system
 
-- Where, under any law for the time being in force, a date for a general election of Members of Parliament has been appointed but constituencies have not been established in accordance with subsection (3) of section 38 for the purposes of such election, the President may, after consultation with the Electoral Commission,  direct  that  such  election  shall  be  conducted  on  the  basis  of  the existing districts in a manner to be known as the district block representation system instead of constituencies.
+1. Where, under any law for the time being in force, a date for a general election of Members of Parliament has been appointed but constituencies have not been established in accordance with subsection (3) of section 38 for the purposes of such election, the President may, after consultation with the Electoral Commission, direct that such election shall be conducted on the basis of the existing districts in a manner to be known as the district block representation system instead of constituencies.
 
-- In  the  district  block  representation  system,  the  election  shall  be  contested  in each  specified  district  by  political  parties  for  the  block  or  number  of  seats  in Parliament  allocated  to  the  district  by  or  under  an  Act  of  Parliament  and  the political parties shall be allocated seats in Parliament by the Electoral Commission on the basis of their proportional share of the total district vote.
+2. In the district block representation system, the election shall be contested in each specified district by political parties for the block or number of seats in Parliament allocated to the district by or under an Act of Parliament and the political parties shall be allocated seats in Parliament by the Electoral Commission on the basis of their proportional share of the total district vote.
 
-- Members of Parliament for the seats won by a political party in a district shall be determined by the Electoral  Commission  from  a  list  of  the  candidates  of  that political party for the district submitted to the Electoral Commission before the date of the election and showing the order of preference of the candidates.
+3. Members of Parliament for the seats won by a political party in a district shall be determined by the Electoral Commission from a list of the candidates of that political party for the district submitted to the Electoral Commission before the date of the election and showing the order of preference of the candidates.
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1380,63 +1154,63 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-- Replacement of legislators
+4. The number of candidates on the list referred to in subsection (3) shall be not less than double the block or number of seats allocated to the district so as to enable vacancies in Parliament to be filled by the Electoral Commission from that list as and when such vacancies occur.
 
-- Name/structure of executive(s)
-
-- Designation of commander in chief
-
-- International law
-
-- Head of state powers
-
-- Foreign affairs representative
-
-- Foreign affairs representative
-
-- Treaty ratification
-
-- Power to pardon
-
-· Power to declare/approve war
-
-- The number of candidates on the list referred to in subsection (3) shall be not less than double the block or number of seats allocated to the district so as to enable  vacancies  in  Parliament  to  be  filled  by  the  Electoral  Commission  from that list as and when such vacancies occur.
+• Replacement of legislators
 
 #### 39. Filling of vacancies
 
-- When the seat of any member of Parliament becomes vacant, the vacancy shall be  filled  by  election,  not  later  than  six  months  after  the  vacancy  occurs,  in accordance with the provisions of law relating to such election:
+1. When the seat of any member of Parliament becomes vacant, the vacancy shall be filled by election, not later than six months after the vacancy occurs, in accordance with the provisions of law relating to such election:
 
-- Provided that if Parliament is dissolved before such election is due to be held, the vacancy shall be filled at the general election.
+Provided that if Parliament is dissolved before such election is due to be held, the vacancy shall be filled at the general election.
 
-- The  Proclamation  appointing  a  date  for  the  holding  of  an  election  to  fill  a vacancy shall be published in the Gazette not less than twenty-one days before the date appointed for holding the election.
+2. The Proclamation appointing a date for the holding of an election to fill a vacancy shall be published in the Gazette not less than twenty-one days before the date appointed for holding the election.
 
 ## CHAPTER V: THE EXECUTIVE
 
 ### PART I: THE PRESIDENT
 
+• Name/structure of executive(s)
+
 #### 40. Office of President
 
-- There shall be a President of the Republic of Sierra Leone who shall be Head of State, the supreme executive authority of the Republic and Commander-in-Chief of the Armed Forces.
+1. There shall be a President of the Republic of Sierra Leone who shall be Head of State, the supreme executive authority of the Republic and Commander-in-Chief of the Armed Forces.
 
-- The President shall be the Fountain of Honour and Justice and the symbol of national unity and sovereignty.
+• Designation of commander in chief
 
-- The  President  shall  be  the  guardian  of  the  Constitution  and  the  guarantor  of national  independence  and  territorial  integrity,  and  shall  ensure  respect  for treaties and international agreements.
+2. The President shall be the Fountain of Honour and Justice and the symbol of national unity and sovereignty.
 
-- Notwithstanding  any  provisions  of  this  Constitution  or  any  other  law  to  the contrary, the President shall, without prejudice to any such law as may for the time being be adopted by Parliament, be responsible, in addition to the functions conferred upon him in the Constitution, for-
+3. The President shall be the guardian of the Constitution and the guarantor of national independence and territorial integrity, and shall ensure respect for treaties and international agreements.
 
-- all constitutional matters concerning legislation;
+• International law
 
-- relations with Foreign States;
+4. Notwithstanding any provisions of this Constitution or any other law to the contrary, the President shall, without prejudice to any such law as may for the time being be adopted by Parliament, be responsible, in addition to the functions conferred upon him in the Constitution, for—
 
-- the reception of envoys accreditted to Sierra Leone and the appointment of principal representatives of Sierra Leone abroad;
+• Head of state powers
 
-- the execution of treaties, agreements or conventions in the name of Sierra Leone;
+a. all constitutional matters concerning legislation;
 
-- the exercise of the Prerogative of Mercy;
+b. relations with Foreign States;
 
-- the grant of Honours and Awards;
+• Foreign affairs representative
 
-- the declaration of war; and
+c. the reception of envoys accreditted to Sierra Leone and the appointment of principal representatives of Sierra Leone abroad;
+
+• Foreign affairs representative
+
+d. the execution of treaties, agreements or conventions in the name of Sierra Leone;
+
+• Treaty ratification
+
+e. the exercise of the Prerogative of Mercy;
+
+• Power to pardon
+
+f. the grant of Honours and Awards;
+
+g. the declaration of war; and
+
+• Power to declare/approve war
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1450,49 +1224,49 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-- Eligibility for head of state
-
-- Minimum age of head of state
-
-- Head of state selection
-
-- Scheduling of elections
-
 h. such other matters as may be referred to the President by Parliament:
 
-Provided that any Treaty, Agreement or Convention executed by or under the authority  of  the  President  which  relates  to  any  matter  within  the  legislative competence of Parliament, or which in any way alters the law of Sierra Leone or imposes any charge on, or authorises any expenditure out of, the Consolidated Fund or any other fund of Sierra Leone, and any declaration of war made by the President shall be subject to ratification by Parliament-
+Provided that any Treaty, Agreement or Convention executed by or under the authority of the President which relates to any matter within the legislative competence of Parliament, or which in any way alters the law of Sierra Leone or imposes any charge on, or authorises any expenditure out of, the Consolidated Fund or any other fund of Sierra Leone, and any declaration of war made by the President shall be subject to ratification by Parliament—
 
-- by an enactment of Parliament; or
+i. by an enactment of Parliament; or
 
-- by  a  resolution  supported  by  the  votes  of  not  less  than  one-half  of  the Members of Parliament.
+ii. by a resolution supported by the votes of not less than one-half of the Members of Parliament.
+
+• Eligibility for head of state
 
 #### 41. Qualifications for Office of President
 
-No person shall be qualified for election as President unless he-
+No person shall be qualified for election as President unless he—
 
-- is a citizen of Sierra Leone;
+a. is a citizen of Sierra Leone;
 
-- is a member of a political party;
+b. is a member of a political party;
 
-- has attained the age of forty years; and
+c. has attained the age of forty years; and
 
-- is otherwise qualified to be elected as a Member of Parliament.
+• Minimum age of head of state
+
+d. is otherwise qualified to be elected as a Member of Parliament.
+
+• Head of state selection
 
 #### 42. Election of President
 
-- A Presidential candidate shall be nominated by a political party.
+1. A Presidential candidate shall be nominated by a political party.
 
-- The following provisions shall apply to an election to the office of President-
+2. The following provisions shall apply to an election to the office of President—
 
-- all persons registered in Sierra Leone as voters for the purposes of election to Parliament shall be entitled to vote in the election;
+a. all persons registered in Sierra Leone as voters for the purposes of election to Parliament shall be entitled to vote in the election;
 
-- the poll shall be taken by a secret ballot on such day or days, at such time, and in such manner as may be prescribed by or under an Act of Parliament;
+b. the poll shall be taken by a secret ballot on such day or days, at such time, and in such manner as may be prescribed by or under an Act of Parliament;
 
-- a  candidate  for  an  election  to  the  office  of  President  shall  be  deemed  to have  been  duly  elected  to  such  office  where  he  is  the  only  candidate nominated for the election after the close of nomination;
+• Scheduling of elections
 
-- where in an election to the office of President a candidate nominated for the election dies, is incapacitated or disqualified, the party which nominated  him  shall  within  seven  days  of  such  death,  incapacitation  or disqualification, nominate another candidate;
+c. a candidate for an election to the office of President shall be deemed to have been duly elected to such office where he is the only candidate nominated for the election after the close of nomination;
 
-- no  person  shall  be  elected  as  President  of  Sierra  Leone  unless  at  the Presidential  election  he  has  polled  not  less  than  fifty-five  per  cent  of  the valid votes in his favour; and
+d. where in an election to the office of President a candidate nominated for the election dies, is incapacitated or disqualified, the party which nominated him shall within seven days of such death, incapacitation or disqualification, nominate another candidate;
+
+e. no person shall be elected as President of Sierra Leone unless at the Presidential election he has polled not less than fifty-five per cent of the valid votes in his favour; and
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1506,25 +1280,25 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-- in  default  of  a  candidate  being  duly  elected  under  paragraph  (e),  the  two candidates with the highest number or numbers of votes shall go forward to  a  second  election  which  shall  be  held  within  fourteen  days  of  the announcement  of  the  result  of  the  previous  election,  and  the  candidate polling  the  higher  number  of  votes  cast  in  his  favour  shall  be  declared President.
+f. in default of a candidate being duly elected under paragraph (e), the two candidates with the highest number or numbers of votes shall go forward to a second election which shall be held within fourteen days of the announcement of the result of the previous election, and the candidate polling the higher number of votes cast in his favour shall be declared President.
 
-- A person elected to the office of President under this section shall assume that office on the day upon which he is declared elected by the Returning Officer, or upon  the  date  that  his  predecessor's  term  of  office  expires,  whichever  is  the latter.
+3. A person elected to the office of President under this section shall assume that office on the day upon which he is declared elected by the Returning Officer, or upon the date that his predecessor’s term of office expires, whichever is the latter.
 
 #### 43. Period during which Presidential election shall take place
 
-A Presidential election shall take place-
+A Presidential election shall take place—
 
-- where the office of President is to become vacant by effluxion of time and the President continues in office after the beginning of the period of four months  ending  with  the  date  when  his  term  of  office  would  expire  by effluxion of time, during the first three months of that period;
+a. where the office of President is to become vacant by effluxion of time and the President continues in office after the beginning of the period of four months ending with the date when his term of office would expire by effluxion of time, during the first three months of that period;
 
-- in  any  other  case,  during  the  period  of  three  months  beginning  with  the date when the office of President becomes vacant:
+b. in any other case, during the period of three months beginning with the date when the office of President becomes vacant:
 
-Provided that-
+Provided that—
 
-- where  any  proceedings  have  been  lawfully  commenced  or  taken  for  the purposes of the election and assumption of office of a President, it shall not be recommended or retaken whether or not a President has thereby been duly  elected,  by  reason  only  that  a  vacancy  has  occurred  in  the  office  of President  otherwise  than  by  effluxion  of  time;  and  the  said  proceedings shall,  subject  to  the  provisions  of  this  Constitution,  be  continued  and completed in accordance with this Constitution and any other law for the time  being  in  force  relating  thereto,  with  such  modification  as  may  be necessary;
+a. where any proceedings have been lawfully commenced or taken for the purposes of the election and assumption of office of a President, it shall not be recommended or retaken whether or not a President has thereby been duly elected, by reason only that a vacancy has occurred in the office of President otherwise than by effluxion of time; and the said proceedings shall, subject to the provisions of this Constitution, be continued and completed in accordance with this Constitution and any other law for the time being in force relating thereto, with such modification as may be necessary;
 
-- where  the  office  of  President  becomes  vacant  during  a  period  when Parliament is dissolved, the Presidential election shall be held  and completed before the election of Members of Parliament; and
+b. where the office of President becomes vacant during a period when Parliament is dissolved, the Presidential election shall be held and completed before the election of Members of Parliament; and
 
-- Where any proceedings  have  been  lawfully  commenced  or  taken  for  the purposes of the election and assumption of office of a President, if in such proceedings,  due  to  any  exceptional  circumstances,  a  date  has  been appointed  independently  of  paragraphs  (a)  and  (b)  of  section  43  for  the holding  of  the  elections,  such  date  shall  be  taken  to  be  included  in  any period required  to enable  the President  to continue  in office as if Parliament  has  granted  an  extension  of  the  presidential  term  of  office under section 49(2) for a period of four months commencing from any date on  which  the  presidential  term  would  have  otherwise  expired,  but  the foregoing shall be without prejudice to subsection (3) of section 42.
+c. Where any proceedings have been lawfully commenced or taken for the purposes of the election and assumption of office of a President, if in such proceedings, due to any exceptional circumstances, a date has been appointed independently of paragraphs (a) and (b) of section 43 for the holding of the elections, such date shall be taken to be included in any period required to enable the President to continue in office as if Parliament has granted an extension of the presidential term of office under section 49(2) for a period of four months commencing from any date on which the presidential term would have otherwise expired, but the foregoing shall be without prejudice to subsection (3) of section 42.
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1538,39 +1312,39 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-- Oaths to abide by constitution
-
-Head of state term length
-
-Head of state term limits
-
 #### 44. Parliament to make laws for election of President
 
-Parliament  shall  make  laws  for  the  purpose  of  regulating  the  election  of  the President and other matters connected therewith.
+Parliament shall make laws for the purpose of regulating the election of the President and other matters connected therewith.
 
 #### 45. Presidential Returning Officer
 
-- The Chief Electoral Commissioner shall be the Returning Officer for the election of a President.
+1. The Chief Electoral Commissioner shall be the Returning Officer for the election of a President.
 
-- Any question which may arise as to whether-
+2. Any question which may arise as to whether—
 
-- any provision of this Constitution or any law relating to the election of a President under sections 42 and 43 of this Constitution has been complied with; or
+a. any provision of this Constitution or any law relating to the election of a President under sections 42 and 43 of this Constitution has been complied with; or
 
-- any person has been validly elected as President under section 42 of this Constitution or any other law,
+b. any person has been validly elected as President under section 42 of this Constitution or any other law,
 
 shall be referred to and determined by the Supreme Court.
 
+• Oaths to abide by constitution
+
 #### 46. Tenure of office of President, etc
 
-- No person shall hold office as President for more than two terms of five years each whether or not the terms are consecutive.
+1. No person shall hold office as President for more than two terms of five years each whether or not the terms are consecutive.
 
-- Any person who is elected President while he is, or has been elected a Member of  Parliament  shall,  on  assuming  office  as  President,  cease  to  be  an  elected Member of Parliament and his seat shall be declared vacant.
+• Head of state term length
 
-- The President shall not, while he continues in office as President, hold any other office of profit or emolument in the service of Sierra Leone or occupy any other position carrying the right to remuneration for rendering services.
+• Head of state term limits
 
-- Upon his assumption of office, the President shall take and subscribe the oath for  the  due  execution  of  his  office  as  set  out  in  the  Second  Schedule  to  this Constitution. [FN: Second Schedule.]
+2. Any person who is elected President while he is, or has been elected a Member of Parliament shall, on assuming office as President, cease to be an elected Member of Parliament and his seat shall be declared vacant.
 
-- The oath aforesaid shall be administered by the Chief Justice of Sierra Leone or the person for the time being appointed to exercise the functions of the Chief Justice.
+3. The President shall not, while he continues in office as President, hold any other office of profit or emolument in the service of Sierra Leone or occupy any other position carrying the right to remuneration for rendering services.
+
+4. Upon his assumption of office, the President shall take and subscribe the oath for the due execution of his office as set out in the Second Schedule to this Constitution. [FN: Second Schedule.]
+
+5. The oath aforesaid shall be administered by the Chief Justice of Sierra Leone or the person for the time being appointed to exercise the functions of the Chief Justice.
 
 #### 47. President in Parliament
 
@@ -1578,13 +1352,13 @@ The President shall be entitled to address Parliament in person or to send a mes
 
 #### 48. Incidents of office, etc
 
-- The President shall receive such salary and allowances as may be prescribed by Parliament and such salary and allowances payable to the President are hereby charged on the Consolidated Fund.
+1. The President shall receive such salary and allowances as may be prescribed by Parliament and such salary and allowances payable to the President are hereby charged on the Consolidated Fund.
 
-- The  salary and  allowances  of the President  shall not be altered to his disadvantage during his tenure of office.
+2. The salary and allowances of the President shall not be altered to his disadvantage during his tenure of office.
 
-- The President shall be exempted from personal taxation.
+3. The President shall be exempted from personal taxation.
 
-- While any person holds or performs the functions of the office of President, no civil  or  criminal  proceedings  shall  be  instituted  or  continued  against  him  in respect of anything done or omitted to be done by him either in his official or private capacity
+4. While any person holds or performs the functions of the office of President, no civil or criminal proceedings shall be instituted or continued against him in respect of anything done or omitted to be done by him either in his official or private capacity
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1598,37 +1372,37 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Head of state replacement
-
-· Head of state removal
-
-- The President shall be entitled to such pension and retiring benefits as shall be prescribed by Parliament.
+5. The President shall be entitled to such pension and retiring benefits as shall be prescribed by Parliament.
 
 #### 49. Vacancy in office of President
 
-- The office of President shall become vacant-
+1. The office of President shall become vacant—
 
-- on the expiration of any of the terms prescribed in subsection (1) of section 46 of this Constitution; or
+a. on the expiration of any of the terms prescribed in subsection (1) of section 46 of this Constitution; or
 
-- where the incumbent dies or resigns or retires from that office; or
+b. where the incumbent dies or resigns or retires from that office; or
 
-- where the incumbent ceases to hold that office in pursuance of section 50 or 51 of this Constitution:
+c. where the incumbent ceases to hold that office in pursuance of section 50 or 51 of this Constitution:
 
-Provided that the President shall not resign or retire from this office even at the due  expiration  of  his  term  of  office  while  a  general  election  of  Members  of Parliament  is  pending  within  the  ensuing  three  months,  or  where  a  state  of public emergency has been declared.
+Provided that the President shall not resign or retire from this office even at the due expiration of his term of office while a general election of Members of Parliament is pending within the ensuing three months, or where a state of public emergency has been declared.
 
-- If Sierra Leone is at war in which the national territory is physically involved, and the  President  considers  that  it  is  not  practicable  to  hold  elections,  Parliament may by resolution extend the period of five years mentioned in sub-section (1) of section 46, but no such extension shall exceed a period of six months at any one time.
+2. If Sierra Leone is at war in which the national territory is physically involved, and the President considers that it is not practicable to hold elections, Parliament may by resolution extend the period of five years mentioned in sub-section (1) of section 46, but no such extension shall exceed a period of six months at any one time.
 
-- Any resignation or retirement by a person from the office of President shall be in writing addressed to the Chief Justice and a copy thereof shall be sent to the Speaker and the Chief Electoral Commissioner.
+3. Any resignation or retirement by a person from the office of President shall be in writing addressed to the Chief Justice and a copy thereof shall be sent to the Speaker and the Chief Electoral Commissioner.
 
-- Whenever  the  President  dies,  resigns,  retires  or  is  removed  from  office  as  a result of paragraphs (b) and (c) of subsection (1), the Vice-President shall assume office as President for the unexpired term of the President with effect from the date  of  the  death,  resignation,  retirement  or  removal  of  the  President,  as  the case may be.
+4. Whenever the President dies, resigns, retires or is removed from office as a result of paragraphs (b) and (c) of subsection (1), the Vice-President shall assume office as President for the unexpired term of the President with effect from the date of the death, resignation, retirement or removal of the President, as the case may be.
 
-- The Vice-President shall, before assuming office as President in accordance with subsection (4), take and subscribe the oath for the due execution of his office as set out in the Second Schedule to this Constitution.
+• Head of state replacement
+
+5. The Vice-President shall, before assuming office as President in accordance with subsection (4), take and subscribe the oath for the due execution of his office as set out in the Second Schedule to this Constitution.
+
+• Head of state removal
 
 #### 50. Mental or physical incapacity
 
-- Where  the  Cabinet  has  resolved  that  the  question  of  the  mental  or  physical capacity  of  the  President  to  discharge  the  functions  conferred  on  him  by  this Constitution ought to be investigated and has informed the Speaker accordingly, the Speaker shall, in consultation with the Head of the Medical Service of Sierra Leone, appoint a Board consisting of not less than five persons selected by him from among persons registered as medical practitioners under the laws of Sierra Leone.
+1. Where the Cabinet has resolved that the question of the mental or physical capacity of the President to discharge the functions conferred on him by this Constitution ought to be investigated and has informed the Speaker accordingly, the Speaker shall, in consultation with the Head of the Medical Service of Sierra Leone, appoint a Board consisting of not less than five persons selected by him from among persons registered as medical practitioners under the laws of Sierra Leone.
 
-- The  Board  appointed  under  subsection  (1)  shall  enquire  into  the  matter  and make a report to the Speaker stating the opinion of the Board whether or not the  President  is,  by  reason  of  any  infirmity  of  mind  or  body,  incapable  of discharging the functions conferred on the President by this Constitution.
+2. The Board appointed under subsection (1) shall enquire into the matter and make a report to the Speaker stating the opinion of the Board whether or not the President is, by reason of any infirmity of mind or body, incapable of discharging the functions conferred on the President by this Constitution.
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1642,31 +1416,31 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Head of state removal
+3. Where the Cabinet has resolved that the question of the mental or physical capacity of the President to discharge the functions conferred on him by this Constitution ought to be investigated in accordance with the provisions of subsection (1), the President shall, as soon as another person assumes the office of President, cease to perform those functions and until the Board submits its report, those functions shall be exercised in accordance with subsection (1) of section 52 of this Constitution.
 
-- Where  the  Cabinet  has  resolved  that  the  question  of  the  mental  or  physical capacity  of  the  President  to  discharge  the  functions  conferred  on  him  by  this Constitution  ought  to  be  investigated  in  accordance  with  the  provisions  of subsection (1), the President shall, as soon as another person assumes the office of President, cease to perform those functions and until the Board submits its report, those functions shall be exercised in accordance with subsection (1) of section 52 of this Constitution.
+4. Where the Board reports that the President is incapable of discharging the functions conferred on him by this Constitution by reason of infirmity of mind or body, the Speaker shall certify in writing accordingly, and thereupon, the President shall cease to hold office and a vacancy shall be deemed to have occurred in the office of President and subsection (4) of section 49 of this Constitution shall apply.
 
-- Where  the  Board  reports  that  the  President  is  incapable  of  discharging  the functions conferred on him by this Constitution by reason of infirmity of mind or body,  the  Speaker  shall  certify  in  writing  accordingly,  and  thereupon,  the President  shall  cease  to  hold  office  and  a  vacancy  shall  be  deemed  to  have occurred  in  the  office  of  President  and  subsection  (4)  of  section  49  of  this Constitution shall apply.
+5. Upon receipt of the report of the Board referred to in subsection (4), the Speaker shall—
 
-- Upon  receipt  of  the  report  of  the  Board  referred  to  in  subsection  (4),  the Speaker shall-
+a. if Parliament is then sitting or has been summoned to meet, within five days communicate the report to Parliament;
 
-- if Parliament is then sitting or has been summoned to meet, within five days communicate the report to Parliament;
+b. if Parliament is not then sitting, (and notwithstanding that it may be prorogued), summon Parliament to meet within twenty-one days after the receipt by the Speaker of the report of the Board and communicate the report of the Board to Parliament.
 
-- if  Parliament  is  not  then  sitting,  (and  notwithstanding  that  it  may  be prorogued), summon Parliament to meet within twenty-one days after the receipt  by  the  Speaker  of  the  report  of  the  Board  and  communicate  the report of the Board to Parliament.
+6. For the purposes of this section—
 
-- For the purposes of this section-
+a. the Cabinet may act notwithstanding any vacancy in its membership or the absence of any member;
 
-- the Cabinet may act notwithstanding any vacancy in its membership or the absence of any member;
+b. a Certificate by the Speaker that the President is by reason of mental or physical infirmity unable to discharge the functions of the office of President conferred on him by this Constitution shall, in respect of any period for which it is in force, be conclusive and shall not be entertained or enquired into in any court.
 
-- a  Certificate  by  the  Speaker  that  the  President  is  by  reason  of  mental  or physical  infirmity  unable  to  discharge  the  functions  of  the  office  of President  conferred  on  him  by  this  Constitution  shall,  in  respect  of  any period for which it is in force, be conclusive and shall not be entertained or enquired into in any court.
+• Head of state removal
 
 #### 51. Misconduct by President
 
-- If notice in writing is given to the Speaker signed by not less than one-half of all the  Members  of  Parliament  of  a  motion  alleging  that  the  President  has committed  any  violation  of  the  Constitution  or  any  gross  misconduct  in  the performance of the functions of his office and specifying the particulars of the allegations  and  proposing  that  a  tribunal  be  appointed  under  this  section  to investigate those allegations, the Speaker shall-
+1. If notice in writing is given to the Speaker signed by not less than one-half of all the Members of Parliament of a motion alleging that the President has committed any violation of the Constitution or any gross misconduct in the performance of the functions of his office and specifying the particulars of the allegations and proposing that a tribunal be appointed under this section to investigate those allegations, the Speaker shall—
 
-- if Parliament is then sitting or has been summoned to meet within five days, cause the motion to be considered by Parliament within seven days of the receipt of the notice; or
+a. if Parliament is then sitting or has been summoned to meet within five days, cause the motion to be considered by Parliament within seven days of the receipt of the notice; or
 
-- if  Parliament  is  not  then  sitting,  (and  notwithstanding  that  it  may  be prorogued),  summon  Parliament  to  meet  within  twenty-one  days  of  the receipt of the notice, and cause the motion to be considered by Parliament.
+b. if Parliament is not then sitting, (and notwithstanding that it may be prorogued), summon Parliament to meet within twenty-one days of the receipt of the notice, and cause the motion to be considered by Parliament.
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1680,33 +1454,33 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Head of state replacement
+2. Where a motion under this section is proposed for consideration by Parliament, it shall meet in secret session and shall not debate the motion, but the Speaker or the person presiding in Parliament shall forthwith cause a vote to be taken on the motion and, if the motion is supported by the votes of not less than two-thirds of all Members of Parliament, shall declare the motion to be passed.
 
-- Where a motion under this section is proposed for consideration by Parliament, it shall meet in secret session and shall not debate the motion, but the Speaker or the person presiding in Parliament shall forthwith cause a vote to be taken on the  motion  and,  if  the  motion  is  supported  by  the  votes  of  not  less  than two-thirds of all Members of Parliament, shall declare the motion to be passed.
+3. If a motion is declared to be passed under subsection (2)—
 
-- If a motion is declared to be passed under subsection (2)-
+a. the Speaker shall immediately notify the Chief Justice who shall appoint a tribunal which shall consist of a Chairman who shall be a Justice of the Supreme Court and not less than four others selected by the Chief Justice, at least two of whom shall hold or shall have held high judicial office;
 
-- the Speaker shall immediately notify the Chief Justice who shall appoint a tribunal  which  shall  consist  of  a  Chairman  who  shall  be  a  Justice  of  the Supreme Court and not less than four others selected by the Chief Justice, at least two of whom shall hold or shall have held high judicial office;
+b. the Tribunal shall investigate the matter and shall within the period of three months from the date on which the motion was passed report to Parliament through the Speaker whether or not it finds the particulars of the allegation specified in the motion to have been sustained;
 
-- the Tribunal shall investigate the matter and shall within the period of three months from the date on which the motion was passed report to Parliament through the Speaker whether or not it finds the particulars of the allegation specified in the motion to have been sustained;
+c. the President shall have the right to appear and be represented before the Tribunal during its investigation of the allegations against him.
 
-- the President shall have the right to appear and be represented before the Tribunal during its investigation of the allegations against him.
+4. If the Tribunal reports to Parliament that it finds that the particulars of any allegations against the President specified in the motion have not been substantiated, no further proceedings shall be taken under this Section in respect of that allegation.
 
-- If  the  Tribunal  reports  to  Parliament  that  it  finds  that  the  particulars  of  any allegations  against  the  President  specified  in  the  motion  have  not  been substantiated,  no  further  proceedings  shall  be  taken  under  this  Section  in respect of that allegation.
+5. Where the Tribunal reports to Parliament that it finds that the particulars of any allegation specified in the motion have been substantiated, Parliament may, in secret session, on a motion supported by the votes of not less than two-thirds of all the Members of Parliament, resolve that the President has been guilty of such violation of the Constitution or, as the case may, such gross misconduct as is incompatible with his continuance in office as President; and where Parliament so resolves, the President shall thereupon cease to hold office and a vacancy shall then be deemed to have occurred in the office of President and subsection (4) of Section 49 of this Constitution shall apply accordingly.
 
-- Where the Tribunal reports to Parliament that it finds that the particulars of any allegation specified in the motion have been substantiated, Parliament may, in secret session, on a motion supported by the votes of not less than two-thirds of all the Members of Parliament, resolve that the President has been guilty of such violation  of  the  Constitution  or,  as  the  case  may,  such  gross  misconduct  as  is incompatible with his continuance in office as President; and where Parliament so  resolves,  the  President  shall  thereupon  cease  to  hold  office  and  a  vacancy shall then be deemed to have occurred in the office of President and subsection (4) of Section 49 of this Constitution shall apply accordingly.
+• Head of state replacement
 
 #### 52. Temporary filling of vacancy
 
-- Whenever the President is absent from Sierra Leone or is by reason of illness or any  other  cause  unable  to  perform  the  functions  conferred  upon  him  by  this Constitution, those functions shall be performed by the Vice-President.
+1. Whenever the President is absent from Sierra Leone or is by reason of illness or any other cause unable to perform the functions conferred upon him by this Constitution, those functions shall be performed by the Vice-President.
 
-- Upon  assumption  of  office  under  subsection  (1),  the  Vice-President  shall  not take and subscribe the oath of office of President.
+2. Upon assumption of office under subsection (1), the Vice-President shall not take and subscribe the oath of office of President.
 
 ### PART II: EXECUTIVE POWERS
 
 #### 53. Exercise of executive authority in Sierra Leone
 
-- Subject  to  the  provisions  of  this  Constitution,  the  executive  power  in  Sierra Leone  shall  vest  in  the  President  and  may  be  exercised  by  him  directly  or through members of the Cabinet, Ministers, Deputy Ministers or public officers subordinate to him.
+1. Subject to the provisions of this Constitution, the executive power in Sierra Leone shall vest in the President and may be exercised by him directly or through members of the Cabinet, Ministers, Deputy Ministers or public officers subordinate to him.
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1720,39 +1494,39 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Deputy executive
+2. In the exercise of his functions, the President may act in accordance with the advice of the Cabinet or a Minister acting under the general authority of the Cabinet except in cases where, by this Constitution or any other law, he is required to act with the approval of Parliament or in accordance with the advice of any person or authority other than the Cabinet:
 
-- In  the  exercise  of  his  functions,  the  President  may  act  in  accordance  with  the advice  of  the  Cabinet  or  a  Minister  acting  under  the  general  authority  of  the Cabinet  except  in  cases  where,  by  this  Constitution  or  any  other  law,  he  is required to act with the approval of Parliament or in accordance with the advice of any person or authority other than the Cabinet:
+Provided that the President shall always act in accordance with his deliberate judgement in signifying his approval for the purpose of an appointment to an office on his personal staff.
 
-Provided that the President shall always act in accordance with his deliberate judgement in  signifying  his  approval  for  the  purpose  of  an  appointment  to  an office on his personal staff.
+3. Where by this Constitution or under any other law the President is required to act in accordance with the advice of any person or authority, the question whether he has in any case received or acted in accordance with such advice shall not be inquired into in any court.
 
-- Where by this Constitution or under any other law the President is required to act  in  accordance  with  the  advice  of  any  person  or  authority,  the  question whether he has in any case received or acted in accordance with such advice shall not be inquired into in any court.
+4. The reference in subsection (1) to the functions of the President shall be construed as reference to his powers and duties in the exercise of the executive authority of Sierra Leone and to any other powers and duties conferred or imposed on him as President by or under this Constitution or any other law.
 
-- The  reference  in  subsection  (1)  to  the  functions  of  the  President  shall  be construed as reference to his powers and duties in the exercise of the executive authority  of  Sierra  Leone  and  to  any  other  powers  and  duties  conferred  or imposed on him as President by or under this Constitution or any other law.
+5. Nothing in this section shall prevent Parliament from conferring functions on persons or authorities other than the President.
 
-- Nothing  in  this  section  shall  prevent  Parliament  from  conferring  functions  on persons or authorities other than the President.
+• Deputy executive
 
 #### 54. Vice-President
 
-- There shall be a Vice-President of the Republic of Sierra Leone who shall be the Principal Assistant to the President in the discharge of his executive functions.
+1. There shall be a Vice-President of the Republic of Sierra Leone who shall be the Principal Assistant to the President in the discharge of his executive functions.
 
-- A person-
+2. A person—
 
-- shall  be  designated  a  candidate  for  the  office  of  Vice-President  by  a Presidential candidate before a Presidential election;
+a. shall be designated a candidate for the office of Vice-President by a Presidential candidate before a Presidential election;
 
-- shall  not  be  qualified  to  be  a  candidate  for  the  office  of  Vice-President unless he has the qualifications specified in section 41.
+b. shall not be qualified to be a candidate for the office of Vice-President unless he has the qualifications specified in section 41.
 
-- A  candidate  shall  be  deemed  to  be  duly  elected  as  Vice-President  if  the candidate  who  designated  him  as  candidate  for  election  to  the  office  of Vice-President  has  been  duly  elected  as  President  in  accordance  with  the provisions of section 42.
+3. A candidate shall be deemed to be duly elected as Vice-President if the candidate who designated him as candidate for election to the office of Vice-President has been duly elected as President in accordance with the provisions of section 42.
 
-- The Vice-President shall, before entering upon the duties of his office, take and subscribe  the  oath  of  Vice-President  as  set  out  in  the  Third  Schedule  of  this Constitution.
+4. The Vice-President shall, before entering upon the duties of his office, take and subscribe the oath of Vice-President as set out in the Third Schedule of this Constitution.
 
-- Whenever the office of the Vice-President is vacant, or the Vice-President dies, resigns, retires or is removed from office, the President shall appoint a person qualified to be elected as a Member of Parliament to the office of Vice-President with  effect  from  the  date  of  such  vacancy,  death,  resignation,  retirement  or removal.
+5. Whenever the office of the Vice-President is vacant, or the Vice-President dies, resigns, retires or is removed from office, the President shall appoint a person qualified to be elected as a Member of Parliament to the office of Vice-President with effect from the date of such vacancy, death, resignation, retirement or removal.
 
-- Whenever the President and Vice-President are both for any reason unable to perform the functions of the President, the Speaker of Parliament shall perform those functions until the President or Vice-President is able to perform those functions, and shall take and subscribe the oath of office as set out in the Second Schedule before commencing to perform those functions.
+6. Whenever the President and Vice-President are both for any reason unable to perform the functions of the President, the Speaker of Parliament shall perform those functions until the President or Vice-President is able to perform those functions, and shall take and subscribe the oath of office as set out in the Second Schedule before commencing to perform those functions.
 
-- Where the Speaker of Parliament assumes the office of President as a result of the death, resignation or removal from office of the President and Vice-President, there shall be a Presidential election within ninety days of that assumption of office.
+7. Where the Speaker of Parliament assumes the office of President as a result of the death, resignation or removal from office of the President and Vice-President, there shall be a Presidential election within ninety days of that assumption of office.
 
-- The provisions of sections 50 and 51 of this Constitution, relating to the removal from  office  of  the  President,  shall  apply  to  the  removal  from  office  of  the Vice-President.
+8. The provisions of sections 50 and 51 of this Constitution, relating to the removal from office of the President, shall apply to the removal from office of the Vice-President.
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1766,43 +1540,47 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-Establishment of cabinet/ministers · Cabinet selection
-
-Eligibility for cabinet
-
 #### 55. Vacancy in the office of Vice-President
 
-The office of the Vice-President shall become vacant-
+The office of the Vice-President shall become vacant—
 
-- on the expiration of the term of office of the President; or
+a. on the expiration of the term of office of the President; or
 
-- if the Vice-President resigns or retires from office or dies; or
+b. if the Vice-President resigns or retires from office or dies; or
 
-- if  the  Vice-President  is  removed  from  office  in  accordance  with  the provisions of section 50 or 51 of this Constitution; or
+c. if the Vice-President is removed from office in accordance with the provisions of section 50 or 51 of this Constitution; or
 
-- upon the assumption by the Vice-President to the office of President under subsection (4) of section 49.
+d. upon the assumption by the Vice-President to the office of President under subsection (4) of section 49.
+
+• Establishment of cabinet/ministers
 
 #### 56. Ministers and Deputy Ministers of Government
 
-- There shall be, in addition to the office of Vice-President, such other offices of Ministers and Deputy Ministers as may be established by the President: Provided that no Member of Parliament shall be appointed a Minister or Deputy Minister.
+• Cabinet selection
 
-- A person shall not be appointed a Minister or Deputy Minister unless-
+1. There shall be, in addition to the office of Vice-President, such other offices of Ministers and Deputy Ministers as may be established by the President:
 
-- he is qualified to be elected as a Member of Parliament; and
+Provided that no Member of Parliament shall be appointed a Minister or Deputy Minister.
 
-- he  has  not  contested  and  lost  as  a  candidate  in  the  general  election immediately preceding his nomination for appointment; and
+• Eligibility for cabinet
 
-- his nomination is approved by Parliament.
+2. A person shall not be appointed a Minister or Deputy Minister unless—
 
-- A Minister or a Deputy Minister shall not, while he continues in office, hold any other office of profit or emolument whether by way of allowances or otherwise, whether private or public, and either directly or indirectly:
+a. he is qualified to be elected as a Member of Parliament; and
 
-- Provided that the Vice-President, the Ministers and the Deputy Ministers shall be  entitled  to  such  remuneration  allowances,  gratuities,  pensions,  and  other incidents of office as may be prescribed by Parliament.
+b. he has not contested and lost as a candidate in the general election immediately preceding his nomination for appointment; and
 
-- Subject to the provisions of section 53 of this Constitution, the Ministers and Deputy Ministers shall hold office at the President's discretion.
+c. his nomination is approved by Parliament.
 
-- Subject  to  the  provisions  of  subsection  (6),  the  Vice-President  and  the  other Ministers  under  the  direction  of  the  President  shall  be  responsible  for  such departments of State or other business of the Government as the President may assign to them.
+3. A Minister or a Deputy Minister shall not, while he continues in office, hold any other office of profit or emolument whether by way of allowances or otherwise, whether private or public, and either directly or indirectly:
 
-- Notwithstanding  the  provisions  of  subsection  (5), the President  shall  be responsible for such departments of State, including the Commissions established under this Constitution, as he may determine.
+Provided that the Vice-President, the Ministers and the Deputy Ministers shall be entitled to such remuneration allowances, gratuities, pensions, and other incidents of office as may be prescribed by Parliament.
+
+4. Subject to the provisions of section 53 of this Constitution, the Ministers and Deputy Ministers shall hold office at the President’s discretion.
+
+5. Subject to the provisions of subsection (6), the Vice-President and the other Ministers under the direction of the President shall be responsible for such departments of State or other business of the Government as the President may assign to them.
+
+6. Notwithstanding the provisions of subsection (5), the President shall be responsible for such departments of State, including the Commissions established under this Constitution, as he may determine.
 
 #### 57. Oaths to be taken by Ministers, etc
 
@@ -1820,49 +1598,49 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Cabinet removal
-
-· Establishment of cabinet/ministers
-
-· Cabinet removal
+• Cabinet removal
 
 #### 58. Ministerial vacancies
 
-- The office of a Minister or a Deputy Minister shall become vacant-
+1. The office of a Minister or a Deputy Minister shall become vacant—
 
-- on the expiration of the term of office of the President; or
+a. on the expiration of the term of office of the President; or
 
-- if his appointment is revoked by the President; or
+b. if his appointment is revoked by the President; or
 
-- if he resigns or retires from office or dies; or
+c. if he resigns or retires from office or dies; or
 
-- if he is elected as Speaker or Deputy Speaker of Parliament; or
+d. if he is elected as Speaker or Deputy Speaker of Parliament; or
 
-- upon the assumption of any other person to the office of President.
+e. upon the assumption of any other person to the office of President.
 
-- Notwithstanding  the  provisions  of  paragraphs  (a)  and  (e)  of  subsection  (1), Ministers and Deputy Ministers shall not vacate office as such by reason of the expiration  of  the  term  of  office  of  the  President  or  the  assumption  by  the Speaker to the office of President pursuant to subsections (7) and (8) of section 54 and shall accordingly continue to perform the functions of their respective offices until the election of the new President and the Vice-President.
+2. Notwithstanding the provisions of paragraphs (a) and (e) of subsection (1), Ministers and Deputy Ministers shall not vacate office as such by reason of the expiration of the term of office of the President or the assumption by the Speaker to the office of President pursuant to subsections (7) and (8) of section 54 and shall accordingly continue to perform the functions of their respective offices until the election of the new President and the Vice-President.
+
+• Establishment of cabinet/ministers
 
 #### 59. Establishment of Cabinet
 
-- There shall be a Cabinet whose functions shall be to advise the President in the government  of  Sierra  Leone  and  which  shall  consist  of  the  President,  the Vice-President  and  such  Ministers  as  the  President  may  from  time  to  time appoint.
+1. There shall be a Cabinet whose functions shall be to advise the President in the government of Sierra Leone and which shall consist of the President, the Vice-President and such Ministers as the President may from time to time appoint.
 
-- A person appointed as a Member of Cabinet shall vacate his seat in the Cabinet if he ceases to be a Minister or if the President so directs.
+2. A person appointed as a Member of Cabinet shall vacate his seat in the Cabinet if he ceases to be a Minister or if the President so directs.
 
-- The Cabinet shall determine the general policy of the Government.
+3. The Cabinet shall determine the general policy of the Government.
 
-- The  President  shall  hold  regular  meetings  of  the  Cabinet  at  which  he  shall preside, and in his absence the Vice-President shall preside.
+4. The President shall hold regular meetings of the Cabinet at which he shall preside, and in his absence the Vice-President shall preside.
+
+• Cabinet removal
 
 #### 60. Collective responsibility
 
-- The Cabinet shall be collectively responsible to Parliament for any advice given to  the  President  by  or  under  the  general  authority  of  the  Cabinet  and  for  all things  done  by  or  under  the  authority  of  any  Minister  in  the  execution  of  his office.
+1. The Cabinet shall be collectively responsible to Parliament for any advice given to the President by or under the general authority of the Cabinet and for all things done by or under the authority of any Minister in the execution of his office.
 
-- The provisions of this section shall not apply in relation to-
+2. The provisions of this section shall not apply in relation to—
 
-- the appointment  and  removal  from  office of  Ministers  and  Deputy Ministers, or the assignment of responsibility to any Minister; or
+a. the appointment and removal from office of Ministers and Deputy Ministers, or the assignment of responsibility to any Minister; or
 
-- the exercise of the prerogative of mercy; or
+b. the exercise of the prerogative of mercy; or
 
-- the  exercise  by  the  Attorney-General  and  Minister  of  Justice  or  the Director of Public Prosecutions of the powers conferred upon them under section 66.
+c. the exercise by the Attorney-General and Minister of Justice or the Director of Public Prosecutions of the powers conferred upon them under section 66.
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1876,41 +1654,41 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Power to pardon
-
-· Attorney general
-
 #### 61. Constitution of offices
 
-Subject  to  the  provisions  of  this  Constitution  and  of  any  Act  of  Parliament,  the President may constitute offices for Sierra Leone, make appointments to any such office and terminate any such appointment.
+Subject to the provisions of this Constitution and of any Act of Parliament, the President may constitute offices for Sierra Leone, make appointments to any such office and terminate any such appointment.
 
 #### 62. Administration of ministries
 
-Where  any  Minister  has  been  charged  with  responsibility  for  any  department  of Government, he shall exercise general direction and control over that department and,  subject  to  such  direction  and  control,  the  department  shall  be  under  the supervision of a Permanent Secretary, whose office shall be a public office:
+Where any Minister has been charged with responsibility for any department of Government, he shall exercise general direction and control over that department and, subject to such direction and control, the department shall be under the supervision of a Permanent Secretary, whose office shall be a public office:
 
 Provided that two or more Departments of Government may be placed under the supervision of one Permanent Secretary.
 
 #### 63. Prerogative of Mercy
 
-- The  President  may,  acting  in  accordance  with  the  advice  of  a  Committee appointed by the Cabinet over which the Vice-President shall preside-
+1. The President may, acting in accordance with the advice of a Committee appointed by the Cabinet over which the Vice-President shall preside—
 
-- grant any person convicted of any offence against the laws of Sierra Leone a pardon, either free or subject to lawful conditions;
+a. grant any person convicted of any offence against the laws of Sierra Leone a pardon, either free or subject to lawful conditions;
 
-- grant to any person a respite, either indefinite or for a specified period of the  execution  of  any  punishment  imposed  on  that  person  for  such  an offence;
+b. grant to any person a respite, either indefinite or for a specified period of the execution of any punishment imposed on that person for such an offence;
 
-- substitute a less severe form of punishment for any punishment imposed on any person for such an offence;
+• Power to pardon
 
-- remit the whole or any part of any punishment imposed upon any person for  such  an  offence  or  any  penalty  or  forfeiture  otherwise  due  to  the Government on account of such an offence.
+c. substitute a less severe form of punishment for any punishment imposed on any person for such an offence;
 
-- Where any person has been sentenced to death by any Court for any offence, the Committee appointed under subsection (1) shall cause a written report of the case from the trial judge together with such other information, including a medical  report  on  the  prisoner,  derived  from  the  record  of  the  case  or elsewhere,  as  the  Committee  may  require,  to  be  submitted  to  it  as  soon  as possible.
+d. remit the whole or any part of any punishment imposed upon any person for such an offence or any penalty or forfeiture otherwise due to the Government on account of such an offence.
+
+2. Where any person has been sentenced to death by any Court for any offence, the Committee appointed under subsection (1) shall cause a written report of the case from the trial judge together with such other information, including a medical report on the prisoner, derived from the record of the case or elsewhere, as the Committee may require, to be submitted to it as soon as possible.
+
+• Attorney general
 
 #### 64. Establishment of office of Attorney-General and Minister of Justice
 
-- There  shall  be  an  Attorney-General  and  Minister  of  Justice  who  shall  be  the principal legal adviser to the Government and a Minister.
+1. There shall be an Attorney-General and Minister of Justice who shall be the principal legal adviser to the Government and a Minister.
 
-- The  Attorney-General  and  Minister  of  Justice  shall  be  appointed  by  the President  from  among  persons  qualified  to  hold  office  as  a  Justice  of  the Supreme Court and shall have a seat in the Cabinet.
+2. The Attorney-General and Minister of Justice shall be appointed by the President from among persons qualified to hold office as a Justice of the Supreme Court and shall have a seat in the Cabinet.
 
-- All  offences  prosecuted  in  the  name  of  the  Republic  of  Sierra  Leone  except offences involving corruption under the Anti-Corruption Act, 2000, shall be at the suit of the Attorney-General and Minister of Justice or some other person authorized by him in accordance with any law governing the same.
+3. All offences prosecuted in the name of the Republic of Sierra Leone except offences involving corruption under the Anti-Corruption Act, 2000, shall be at the suit of the Attorney-General and Minister of Justice or some other person authorized by him in accordance with any law governing the same.
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1924,37 +1702,37 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Attorney general
+4. The Attorney-General and Minister of Justice shall have audience in all Courts in Sierra Leone except local courts.
 
-- The Attorney-General and Minister of Justice shall have audience in all Courts in Sierra Leone except local courts.
+• Attorney general
 
 #### 65. Solicitor-General
 
-- There shall be a Solicitor-General, whose office shall be a public office.
+1. There shall be a Solicitor-General, whose office shall be a public office.
 
-- The Solicitor-General shall be appointed by the President on the advice of the Judicial  and  Legal  Service  Commission  and  he  shall,  before  assuming  the functions  of  his  office,  take  and  subscribe  to  the  oath  as  set  out  in  the  Third Schedule to this Constitution.
+2. The Solicitor-General shall be appointed by the President on the advice of the Judicial and Legal Service Commission and he shall, before assuming the functions of his office, take and subscribe to the oath as set out in the Third Schedule to this Constitution.
 
-- A person shall not be qualified to hold or act in the office of Solicitor-General unless he is qualified for appointment as a Justice of the Court of Appeal.
+3. A person shall not be qualified to hold or act in the office of Solicitor-General unless he is qualified for appointment as a Justice of the Court of Appeal.
 
-- The  Solicitor-General  shall  be  the  principal  assistant  to  the  Attorney-General and Minister of Justice.
+4. The Solicitor-General shall be the principal assistant to the Attorney-General and Minister of Justice.
 
-- The  Solicitor-General  shall  have  audience  in  all  courts  in  Sierra  Leone  except local courts.
+5. The Solicitor-General shall have audience in all courts in Sierra Leone except local courts.
 
-- The  Solicitor-General  shall  in  all  matters  or  any  other  law  be  subject  to  the general or special direction of the Attorney-General and Minister of Justice.
+6. The Solicitor-General shall in all matters or any other law be subject to the general or special direction of the Attorney-General and Minister of Justice.
 
-- Subject  to  the  provisions  of  this  section,  a  person  holding  the  office  of Solicitor-General  shall  vacate  his  office  when  he  attains  the  age  of  sixty-five years.
+7. Subject to the provisions of this section, a person holding the office of Solicitor-General shall vacate his office when he attains the age of sixty-five years.
 
-- If the office of Solicitor-General is vacant or the holder of that office is for any reason unable to perform the functions thereof, a person qualified for appointment to that office may be appointed to act therein, and any person so appointed shall, subject to the provisions of subsection (7) and subsections (9) to (12)  inclusive,  continue  to  act  until  a  person  has  been  appointed  to  and  has assumed  the  functions  of  the  office  of  Solicitor-General  or  until  the  person holding that office has resumed those functions.
+8. If the office of Solicitor-General is vacant or the holder of that office is for any reason unable to perform the functions thereof, a person qualified for appointment to that office may be appointed to act therein, and any person so appointed shall, subject to the provisions of subsection (7) and subsections (9) to (12) inclusive, continue to act until a person has been appointed to and has assumed the functions of the office of Solicitor-General or until the person holding that office has resumed those functions.
 
-- The Solicitor-General may be removed from office only for inability to discharge the functions of his office, (whether arising from infirmity of mind or body or any other  cause),  or  for  misbehaviour  and  shall  not  be  so  removed  except  in accordance with the provisions of this section.
+9. The Solicitor-General may be removed from office only for inability to discharge the functions of his office, (whether arising from infirmity of mind or body or any other cause), or for misbehaviour and shall not be so removed except in accordance with the provisions of this section.
 
-- If  the  Judicial  and  Legal  Service  Commission  represents  to  the  President  that the question of removing the Solicitor-General from office under subsection (9) ought to be investigated then-
+10. If the Judicial and Legal Service Commission represents to the President that the question of removing the Solicitor-General from office under subsection (9) ought to be investigated then—
 
-- the  President,  acting  in  consultation  with  the  Judicial  and  Legal  Service Commission, shall appoint a tribunal which shall consist of a Chairman and two other members, all of whom shall be persons who hold, have held or are qualified to hold office as a Justice of the Supreme Court; and
+a. the President, acting in consultation with the Judicial and Legal Service Commission, shall appoint a tribunal which shall consist of a Chairman and two other members, all of whom shall be persons who hold, have held or are qualified to hold office as a Justice of the Supreme Court; and
 
-- the tribunal shall enquire into the matter and report on the facts thereof and  the  findings  thereon,  and  recommend  to  the  President  whether  the Solicitor-General ought to be removed from office under subsection (12).
+b. the tribunal shall enquire into the matter and report on the facts thereof and the findings thereon, and recommend to the President whether the Solicitor-General ought to be removed from office under subsection (12).
 
-- Where  the  question  of  removing  the  Solicitor-General  from  office  has  been referred  to  a  tribunal  under  subsection  (10),  the  President  may  suspend  the Solicitor-General  from  performing  the  functions  of  his  office,  and  any  such suspension may at any time be revoked by the President, and shall in any case cease  to  have  effect  if  the  tribunal  recommends  to  the  President  that  the Solicitor-General shall not be removed from office.
+11. Where the question of removing the Solicitor-General from office has been referred to a tribunal under subsection (10), the President may suspend the Solicitor-General from performing the functions of his office, and any such suspension may at any time be revoked by the President, and shall in any case cease to have effect if the tribunal recommends to the President that the Solicitor-General shall not be removed from office.
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -1968,37 +1746,37 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-- The  Solicitor-General  shall  be  removed  from  office  by  the  President  if  the question of his  removal  from  office  has  been  referred  to  a  tribunal  appointed under subsection (10) and the tribunal has recommended to the President that he ought to be removed from office for inability to discharge the functions of his office as stated in subsection (9) or for misbehaviour.
+12. The Solicitor-General shall be removed from office by the President if the question of his removal from office has been referred to a tribunal appointed under subsection (10) and the tribunal has recommended to the President that he ought to be removed from office for inability to discharge the functions of his office as stated in subsection (9) or for misbehaviour.
 
 #### 66. Director of Public Prosecutions
 
-- There shall be a Director of Public Prosecutions, whose office shall be a public office.
+1. There shall be a Director of Public Prosecutions, whose office shall be a public office.
 
-- The Director of Public Prosecutions shall be appointed by the President on the advice of the Judicial and Legal Service Commission and subject to the approval of  Parliament,  and  shall,  before  assuming  the  functions  of  his  office,  take  and subscribe to the oath as set out in the Third Schedule to this Constitution.
+2. The Director of Public Prosecutions shall be appointed by the President on the advice of the Judicial and Legal Service Commission and subject to the approval of Parliament, and shall, before assuming the functions of his office, take and subscribe to the oath as set out in the Third Schedule to this Constitution.
 
-- A person shall not be qualified to hold or act in the office of Director of Public Prosecutions unless he is qualified for appointment as a Justice of the Court of Appeal.
+3. A person shall not be qualified to hold or act in the office of Director of Public Prosecutions unless he is qualified for appointment as a Justice of the Court of Appeal.
 
-- Subject to subsection (3) of section 64, the Director of Public Prosecutions shall have power in any case in which he considers it desirable so to do-
+4. Subject to subsection (3) of section 64, the Director of Public Prosecutions shall have power in any case in which he considers it desirable so to do—
 
-- to institute and undertake criminal proceedings against any person before any court in respect of any offence against the laws of Sierra Leone except any offence involving corruption under the Anti-Corruption Act, 2000.
+a. to institute and undertake criminal proceedings against any person before any court in respect of any offence against the laws of Sierra Leone except any offence involving corruption under the Anti-Corruption Act, 2000.
 
-- to  take  over  and  continue  any  such  criminal  proceedings  that  may  have been instituted by any other person or authority; and
+b. to take over and continue any such criminal proceedings that may have been instituted by any other person or authority; and
 
-- to discontinue at any stage before judgement is delivered any such criminal proceedings  instituted  or  undertaken  by  himself  or  any  other  person  or authority.
+c. to discontinue at any stage before judgement is delivered any such criminal proceedings instituted or undertaken by himself or any other person or authority.
 
-- The powers of the Director of Public Prosecutions under subsection (4) may be exercised  by  him  in  person  or  through  other  persons  acting  under  and  in accordance with his general or special instructions.
+5. The powers of the Director of Public Prosecutions under subsection (4) may be exercised by him in person or through other persons acting under and in accordance with his general or special instructions.
 
-- The  Director  of  Public  Prosecutions  shall  in  all  matters  including  his  powers under  this  Constitution  or  any  other  law  be  subject  to  the  general  or  special direction of the Attorney-General and Minister of Justice.
+6. The Director of Public Prosecutions shall in all matters including his powers under this Constitution or any other law be subject to the general or special direction of the Attorney-General and Minister of Justice.
 
-- The  powers  conferred  upon  the  Attorney-General  and  Minister  of  Justice  by this  section  shall  be  vested  in  him  to  the  exclusion  of  any  other  person  or authority:
+7. The powers conferred upon the Attorney-General and Minister of Justice by this section shall be vested in him to the exclusion of any other person or authority:
 
-Provided  that  where  any  other  person  or  authority  has  instituted  criminal proceedings,  nothing  in  this  section  shall  prevent  the  withdrawal  of  those proceedings by or at the instance of that person or authority at any stage before the  person  against  whom  the  proceedings  have  been  instituted  has  been charged before the court.
+Provided that where any other person or authority has instituted criminal proceedings, nothing in this section shall prevent the withdrawal of those proceedings by or at the instance of that person or authority at any stage before the person against whom the proceedings have been instituted has been charged before the court.
 
-- In the exercise of the  powers  conferred  upon  him  by  this  section,  the Attorney-General and Minister of Justice shall not be subject to the direction or control of any other person or authority.
+8. In the exercise of the powers conferred upon him by this section, the Attorney-General and Minister of Justice shall not be subject to the direction or control of any other person or authority.
 
-- For  the  purposes  of  this  section,  any  appeal  from  any  determination  in  any criminal  proceedings  before  any  court,  or  any  case  stated  or  question  of  law reserved for the purposes of any such proceedings, to any other court shall be deemed to be part of those proceedings.
+9. For the purposes of this section, any appeal from any determination in any criminal proceedings before any court, or any case stated or question of law reserved for the purposes of any such proceedings, to any other court shall be deemed to be part of those proceedings.
 
-- Subject to the provisions of this section, a person holding the office of Director of  Public  Prosecutions  shall  vacate  his  office  when  he  attains  the  age  of sixty-five years.
+10. Subject to the provisions of this section, a person holding the office of Director of Public Prosecutions shall vacate his office when he attains the age of sixty-five years.
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -2012,33 +1790,33 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-- If  the  office  of  Director  of  Public  Prosecutions  is  vacant  or  the  holder  of  that office  is  for  any  reason  unable  to  perform  the  functions  thereof,  a  person qualified for appointment to that office may be appointed to act therein, and any person  so  appointed  shall,  subject  to  the  provisions  of  subsection  (10)  and subsections  (12)  to  (15)  inclusive,  continue  to  act  until  a  person  has  been appointed to and has assumed the functions of the office of Director of Public Prosecutions  or until the person  holding  that  office  has  resumed  those functions.
+11. If the office of Director of Public Prosecutions is vacant or the holder of that office is for any reason unable to perform the functions thereof, a person qualified for appointment to that office may be appointed to act therein, and any person so appointed shall, subject to the provisions of subsection (10) and subsections (12) to (15) inclusive, continue to act until a person has been appointed to and has assumed the functions of the office of Director of Public Prosecutions or until the person holding that office has resumed those functions.
 
-- The  Director  of  Public  Prosecutions  may  be  removed  from  office  only  for inability to discharge the functions of his office (whether arising from infirmity of  mind  or  body  or  any  other  cause)  or  for  misbehaviour  and  shall  not  be  so removed except in accordance with the provisions of this section.
+12. The Director of Public Prosecutions may be removed from office only for inability to discharge the functions of his office (whether arising from infirmity of mind or body or any other cause) or for misbehaviour and shall not be so removed except in accordance with the provisions of this section.
 
-- If  the  Judicial  and  Legal  Service  Commission  represents  to  the  President  that the question of removing the Director of Public Prosecutions from office under subsection (12) ought to be investigated then-
+13. If the Judicial and Legal Service Commission represents to the President that the question of removing the Director of Public Prosecutions from office under subsection (12) ought to be investigated then—
 
-- the  President,  acting  in  consultation  with  the  Judicial  and  Legal  Service Commission, shall appoint a tribunal which shall consist of a Chairman and two other members, all of whom shall be persons who hold, have held, or are qualified to hold office as a Justice of the Supreme Court; and
+a. the President, acting in consultation with the Judicial and Legal Service Commission, shall appoint a tribunal which shall consist of a Chairman and two other members, all of whom shall be persons who hold, have held, or are qualified to hold office as a Justice of the Supreme Court; and
 
-- the tribunal shall enquire into the matter and report on the facts thereof and the findings thereon to the President and recommend to the President whether the Director of Public Prosecutions ought be removed from office under subsection (15).
+b. the tribunal shall enquire into the matter and report on the facts thereof and the findings thereon to the President and recommend to the President whether the Director of Public Prosecutions ought be removed from office under subsection (15).
 
-- Where the question of removing the Director of Public Prosecutions from office has  been  referred  to  a  tribunal  under  subsection  (10),  the  President  may suspend the Director of Public Prosecutions from performing the functions of his office, and any such suspension may at any time be revoked by the President, and  shall  in  any  case  cease  to  have  effect  if  the  tribunal  recommends  to  the President that the Director of Public Prosecutions shall not be removed from office.
+14. Where the question of removing the Director of Public Prosecutions from office has been referred to a tribunal under subsection (10), the President may suspend the Director of Public Prosecutions from performing the functions of his office, and any such suspension may at any time be revoked by the President, and shall in any case cease to have effect if the tribunal recommends to the President that the Director of Public Prosecutions shall not be removed from office.
 
-- The  Director  of  Public  Prosecutions  shall  be  removed  from  office  by  the President  if  the  question  of  his  removal  from  office  has  been  referred  to  a tribunal appointed under subsection (13) and the tribunal has recommended to the President that he ought to be removed from office for inability as aforesaid or for misbehaviour.
+15. The Director of Public Prosecutions shall be removed from office by the President if the question of his removal from office has been referred to a tribunal appointed under subsection (13) and the tribunal has recommended to the President that he ought to be removed from office for inability as aforesaid or for misbehaviour.
 
 #### 67. Secretary to the President
 
-- There  shall  be  a  Secretary  to  the  President  who  shall  be  appointed  by  the President at his sole discretion.
+1. There shall be a Secretary to the President who shall be appointed by the President at his sole discretion.
 
-- The functions of the Secretary to the President shall include-
+2. The functions of the Secretary to the President shall include—
 
-- acting as the principal adviser to the President on Public Service matters;
+a. acting as the principal adviser to the President on Public Service matters;
 
-- the administration and management of the Office of the President, of which he shall also be Vote Controller;
+b. the administration and management of the Office of the President, of which he shall also be Vote Controller;
 
-- the performance of all other functions assigned to him from time to time by the President.
+c. the performance of all other functions assigned to him from time to time by the President.
 
-- The office of Secretary to the President and the offices of members of his staff shall be public offices.
+3. The office of Secretary to the President and the offices of members of his staff shall be public offices.
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -2052,43 +1830,43 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-- Before assuming the functions of his office, the Secretary to the President shall take  and  subscribe  to  the  oath  as  set  out  in  the  Third  Schedule  to  this Constitution.
+4. Before assuming the functions of his office, the Secretary to the President shall take and subscribe to the oath as set out in the Third Schedule to this Constitution.
 
 #### 68. Secretary to the Cabinet
 
-- There  shall  be  a  Secretary  to  the  Cabinet  who  shall  be  the  Head  of  the  Civil Service and whose office shall be a public office.
+1. There shall be a Secretary to the Cabinet who shall be the Head of the Civil Service and whose office shall be a public office.
 
-- The Secretary to the Cabinet shall be appointed by the President in consultation with the Public Service Commission.
+2. The Secretary to the Cabinet shall be appointed by the President in consultation with the Public Service Commission.
 
-- The functions of the Secretary to the Cabinet shall include-
+3. The functions of the Secretary to the Cabinet shall include—
 
-- having charge of the Cabinet Secretariat;
+a. having charge of the Cabinet Secretariat;
 
-- responsibility  for  arranging  the  business  for,  and  keeping  the  minutes  of, the  Cabinet,  and  for  conveying  the  decisions  of  the  Cabinet  to  the appropriate  person  or  authority,  in  accordance  with  such  instructions  as may be given to him by the President;
+b. responsibility for arranging the business for, and keeping the minutes of, the Cabinet, and for conveying the decisions of the Cabinet to the appropriate person or authority, in accordance with such instructions as may be given to him by the President;
 
-- co-ordinating  and  supervising  the  work  of  all  administrative  heads  of ministries and departments in the Public Service;
+c. co-ordinating and supervising the work of all administrative heads of ministries and departments in the Public Service;
 
-- such other functions as the President may from time to time determine.
+d. such other functions as the President may from time to time determine.
 
-- The Secretary to the Cabinet shall not assume the duties of his office unless he has  taken  and  subscribed  to  the  oath  as  set  out  in  the  Third  Schedule  to  this Constitution.
+4. The Secretary to the Cabinet shall not assume the duties of his office unless he has taken and subscribed to the oath as set out in the Third Schedule to this Constitution.
 
 #### 69. Secretary to the Vice-President
 
-- There shall be a Secretary to the Vice-President whose office shall be a public office.
+1. There shall be a Secretary to the Vice-President whose office shall be a public office.
 
-- The  Secretary  to  the  Vice-President  shall  be  appointed  by  the  President  in consultation with the Public Service Commission and shall, before assuming the functions  of  his  office,  take  and  subscribe  to  the  oath  as  set  out  in  the  Third Schedule to this Constitution.
+2. The Secretary to the Vice-President shall be appointed by the President in consultation with the Public Service Commission and shall, before assuming the functions of his office, take and subscribe to the oath as set out in the Third Schedule to this Constitution.
 
 #### 70. Power of appointment vested in the President
 
-The President may appoint, in accordance with the provisions of this Constitution or any other law the following persons-
+The President may appoint, in accordance with the provisions of this Constitution or any other law the following persons—
 
-- the Chief Justice;
+a. the Chief Justice;
 
-- any Justice of the Supreme Court, Court of Appeal, or Judge of the High Court.
+b. any Justice of the Supreme Court, Court of Appeal, or Judge of the High Court.
 
-- the Auditor-General;
+c. the Auditor-General;
 
-- the  sole  Commissioner  or  the  Chairman  and  other  Members  of  any Commission established by this Constitution;
+d. the sole Commissioner or the Chairman and other Members of any Commission established by this Constitution;
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -2102,29 +1880,29 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-- the Chairman and other Members of the governing body of any corporation established by an Act of Parliament, a statutory instrument, or out of public funds, subject to the approval of Parliament.
+e. the Chairman and other Members of the governing body of any corporation established by an Act of Parliament, a statutory instrument, or out of public funds, subject to the approval of Parliament.
 
 #### 71. Other statutory appointments
 
-Notwithstanding  the  provisions  of  section  152  of  this  Constitution  and  save  as otherwise provided in this Constitution, the President shall, in accordance with the provisions of this Constitution or any other law, appoint-
+Notwithstanding the provisions of section 152 of this Constitution and save as otherwise provided in this Constitution, the President shall, in accordance with the provisions of this Constitution or any other law, appoint—
 
-- to any office to which section 141 (which relates to the offices within the jurisdiction of the Judicial and Legal Service Commission) applies;
+a. to any office to which section 141 (which relates to the offices within the jurisdiction of the Judicial and Legal Service Commission) applies;
 
-- to any office to which sections 153 and 154, which relate to certain offices abroad and the offices of Permanent Secretaries respectively, apply;
+b. to any office to which sections 153 and 154, which relate to certain offices abroad and the offices of Permanent Secretaries respectively, apply;
 
-- the Governor and the other members of the governing body of any State Bank, Banking or Financial Institutions.
+c. the Governor and the other members of the governing body of any State Bank, Banking or Financial Institutions.
 
 #### 72. Office of Paramount Chief
 
-- The institution of Chieftaincy as established by customary law and usage and its non- abolition by legislation is hereby guaranteed and preserved.
+1. The institution of Chieftaincy as established by customary law and usage and its non- abolition by legislation is hereby guaranteed and preserved.
 
-- Without derogating from the generality of the provisions of subsection (1), no provision  of  law  in  so  far  as  it  provides  for  the  abolition  of  the  office  of Paramount Chief as  existing  by  customary  law  and  usage  immediately  before the entry into force of this Constitution, shall have effect unless it is included in an Act of Parliament and the provisions of Section 108 shall apply in relation to the  Bill  for  such  an  Act  as  they  apply  in  relation  to  the  Bill  for  an  Act  of Parliament  that  alters  any  of  the  provisions  of  this  Constitution  that  are referred to in subsection (3) of that section.
+2. Without derogating from the generality of the provisions of subsection (1), no provision of law in so far as it provides for the abolition of the office of Paramount Chief as existing by customary law and usage immediately before the entry into force of this Constitution, shall have effect unless it is included in an Act of Parliament and the provisions of Section 108 shall apply in relation to the Bill for such an Act as they apply in relation to the Bill for an Act of Parliament that alters any of the provisions of this Constitution that are referred to in subsection (3) of that section.
 
-- Nothing contained in or done under the authority of any law shall be held to be inconsistent with, or in contravention of, the provisions of subsection (1) to the extent  that  the  law  in  question  makes  provision  for  the  determination,  in accordance  with  appropriate  customary  law  and  usage,  of  the  validity  of  the nomination, election, unseating or replacement of any Paramount Chief, or the question of restraining in any way the exercise of any rights, duties, privileges or functions  conferred  upon,  or  enjoyed  by  him,  by  virtue  of  his  office  or  the installation or deposition of a person as a Paramount Chief.
+3. Nothing contained in or done under the authority of any law shall be held to be inconsistent with, or in contravention of, the provisions of subsection (1) to the extent that the law in question makes provision for the determination, in accordance with appropriate customary law and usage, of the validity of the nomination, election, unseating or replacement of any Paramount Chief, or the question of restraining in any way the exercise of any rights, duties, privileges or functions conferred upon, or enjoyed by him, by virtue of his office or the installation or deposition of a person as a Paramount Chief.
 
-- A Paramount Chief may be removed from office by the President for any gross misconduct  in  the  performance  of  the  functions  of  his  office  if  after  a  public inquiry  conducted  under  the  Chairmanship  of  a  Judge  of  the  High  Court  or  a Justice of Appeal or a Justice of the Supreme Court, the Commission of Inquiry makes an adverse finding against the Paramount Chief, and the President is of the opinion that it is in the public interest that the Paramount Chief should be removed.
+4. A Paramount Chief may be removed from office by the President for any gross misconduct in the performance of the functions of his office if after a public inquiry conducted under the Chairmanship of a Judge of the High Court or a Justice of Appeal or a Justice of the Supreme Court, the Commission of Inquiry makes an adverse finding against the Paramount Chief, and the President is of the opinion that it is in the public interest that the Paramount Chief should be removed.
 
-- Subject  to  the  provisions  of  this  Constitution  and  in  furtherance  of  the provisions  of  this  section,  Parliament  shall  make  laws  for  the  qualifications, election, powers, functions, removal and other matters connected with Chieftaincy.
+5. Subject to the provisions of this Constitution and in furtherance of the provisions of this section, Parliament shall make laws for the qualifications, election, powers, functions, removal and other matters connected with Chieftaincy.
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -3314,9 +3092,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Structure of the courts
-
-· Jury trials required
 
 #### 129. Jurisdiction of the Court of Appeal
 
@@ -3336,6 +3111,8 @@ A single Justice of the Court of Appeal may exercise any power vested in the Cou
 
 ### PART IV: THE HIGH COURT OF JUSTICE
 
+· Structure of the courts
+
 #### 131. Composition of the High Court
 
 - The High Court of Justice shall consist of-
@@ -3349,6 +3126,8 @@ A single Justice of the Court of Appeal may exercise any power vested in the Cou
 - The High Court of Justice shall be duly constituted as the case may be-
 
 - by any one Judge thereof; or
+
+· Jury trials required
 
 - by any one Judge thereof and a jury.
 
@@ -3364,9 +3143,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Supreme court selection
-
-· Ordinary court selection
 
 - There shall be in the said High Court such Divisions consisting of such number of Judges respectively as may be assigned thereto by the Chief Justice; and sitting in such places in Sierra Leone as the Chief Justice may determine.
 
@@ -3394,6 +3170,10 @@ The  High  Court  of  Justice  shall  have  supervisory  jurisdiction  over  all
 
 ### PART V: APPOINTMENT OF JUDGES, ETC
 
+· Supreme court selection
+
+· Ordinary court selection
+
 #### 135. Appointment of Judges, etc
 
 - The  President  shall,  acting  on  the  advice  of  the  Judicial  and  Legal  Service Commission and subject to the approval of Parliament, appoint the Chief Justice by warrant under his hand from among persons qualified to hold office as Justice of the Supreme Court.
@@ -3412,9 +3192,9 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-Eligibility for supreme court judges
+· Eligibility for supreme court judges
 
-Eligibility for ordinary court judges
+· Eligibility for ordinary court judges
 
 - A person shall not be qualified for appointment as a Judge of the Superior Court of  Judicature,  unless  he  is  entitled  to  practise  as  Counsel  in  a  Court  having unlimited jurisdiction in civil and criminal matters in Sierra Leone or any other country having a system of law analogous to that of Sierra Leone and approved by  the  Judicial  and  Legal  Service  Commission,  and  has  been  entitled  as  such Counsel in the case of appointment to-
 
@@ -3454,11 +3234,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Supreme court term length
-
-· Supreme/ordinary court judge removal
-
-- Mandatory retirement age for judges
 
 - Where the office of a Justice of the Supreme Court or of the Court of Appeal is vacant or for any reason a Justice thereof is unable to perform the functions of his office or if the Chief Justice advises the President that the state of business in the Supreme Court or in the Court of Appeal, as the case may be, so requires the President may, acting in accordance with the advice of the Judicial and Legal Service  Commission,  appoint  a  person  who  has  held  office  as  or  a  person qualified for appointment as a Judge of the Superior Court of Judicature to act as a Justice of the Supreme Court or of the Court of Appeal, as the case may be, notwithstanding the fact that he has already attained the retiring age prescribed by section 137.
 
@@ -3466,9 +3241,15 @@ PDF generated: 27 Jul 2018, 21:10
 
 - Notwithstanding  the  expiration  of  the  period  of  his  appointment,  or  the revocation of his appointment, a Judge appointed pursuant to the provisions of subsection (2) or (4) of this section, may thereafter continue to act, for a period not exceeding three months, to enable him to deliver judgement or do any other thing  in  relation  to  proceedings  that  were  commenced  before  him  previously thereto.
 
+· Supreme court term length
+
+· Supreme/ordinary court judge removal
+
 #### 137. Tenure of Office of Judges, etc
 
 - Subject  to  the  provisions  of  this  section,  a  Judge  of  the  Superior  Court  of Judicature shall hold office during good behaviour.
+
+· Mandatory retirement age for judges
 
 - A person holding office as a Judge of the Superior Court of Judicature-
 
@@ -3496,7 +3277,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Protection of judges' salaries
 
 - the  tribunal  appointed  under  paragraph  (a)  shall  enquire  into  the  matter and report on the facts thereof and the findings thereon to the President and recommend to the President whether the Judge ought to be removed from office under subsection (7).
 
@@ -3526,6 +3306,8 @@ PDF generated: 27 Jul 2018, 21:10
 
 - if his removal has been approved by a two-thirds majority in Parliament.
 
+· Protection of judges' salaries
+
 #### 138. Remuneration of Judges, etc
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
@@ -3540,7 +3322,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Establishment of judicial council
 
 - The salaries, allowances, gratuities and pensions of Judges of the Superior Court of Judicature shall be a charge upon the Consolidated Fund.
 
@@ -3557,6 +3338,8 @@ A Judge of the Superior Court of Judicature shall, before assuming the functions
 - the President, in the case of the Chief Justice and Justices of the Supreme Court; and
 
 - the Chief Justice, in the case of any other Judge, the Judicial Oath as set out in the Third Schedule to this Constitution.
+
+· Establishment of judicial council
 
 #### 140. Judicial and Legal Service Commission
 
@@ -3672,7 +3455,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Ombudsman
 
 - a nominee of the Attorney-General and Minister of Justice;
 
@@ -3681,6 +3463,8 @@ PDF generated: 27 Jul 2018, 21:10
 - Subject to the provisions of this Constitution the Rules of Court Committee may make Rules of Court for regulating the practice and procedure of all Courts in Sierra Leone, which shall include rules relating to the prevention of frivolous and vexatious proceedings.
 
 ## CHAPTER VIII: THE OMBUDSMAN
+
+· Ombudsman
 
 #### 146. Parliament to establish office of Ombudsman
 
@@ -3854,7 +3638,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Selection of active-duty commanders
 
 - any office the remuneration of which is calculated on a daily rate:
 
@@ -3873,6 +3656,8 @@ Provided  that  the  power  of  transfer  vested  in  the  Public  Service  Comm
 - The Public Service Commission may, with the prior approval of the President, make  regulations  by  constitutional  instrument  for  the  effective  and  efficient performance of its functions under this Constitution or any other law, and may, with  such  prior  approval  and  subject  to  such  conditions  as  it  may  think  fit, delegate any of its powers under this section by directions in writing to any of its members or to any public officer.
 
 - Save as is otherwise provided in this Constitution, the Public Service Commission shall not be subject to the control or direction of any other person or authority in the performance of its functions under this Constitution or any other law.
+
+· Selection of active-duty commanders
 
 #### 153. Appointment of the Principal representatives of Sierra Leone abroad, Armed Forces Commanders and Inspector-General of Police
 
@@ -4108,11 +3893,12 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Restrictions on the armed forces
 
 - The  principal  function  of  the  Armed  Forces  shall  be  to  guard  and  secure  the Republic of Sierra Leone and preserve the safety and territorial integrity of the State, to participate in its development, to safeguard the people's achievements and to protect this Constitution.
 
 - No member of the Armed Force shall hold office as President, Vice-President, Minister  or  Deputy  Minister,  or  be  qualified  for  election  as  a  Member  of Parliament whilst he remains a member of the Armed Forces.
+
+· Restrictions on the armed forces
 
 #### 166. Prohibition of private armed forces
 
@@ -4368,9 +4154,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-· Designation of commander in chief
-
-· Supermajority required for legislation
 
 - is given to any person or authority to do or enforce the doing of any act or thing, all such powers shall be deemed to be also given as are necessary to enable  that  person  or  authority  to  do  or  enforce  the  doing  of  the  act  or thing.
 
@@ -4381,6 +4164,8 @@ PDF generated: 27 Jul 2018, 21:10
 - Where,  under  any  provision  of  this  Constitution,  any  person  or  authority  is authorised  or  required  to  exercise  any  function  after  consultation  with  some other person or authority, the person or authority shall not be required to act in accordance with the advice of that other person or authority, and the question whether such consultation was made shall not be inquired into in any court.
 
 - This Constitution shall be the supreme law of Sierra Leone and any other law found  to  be  inconsistent  with  any  provision  of  this  Constitution  shall,  to  the extent of the inconsistency, be void and of no effect.
+
+· Designation of commander in chief
 
 #### 172. Legislation
 
@@ -4395,6 +4180,8 @@ PDF generated: 27 Jul 2018, 21:10
 - any reference in this Constitution to the functions of the President includes reference to his functions as Commander-in-Chief of the Armed Forces of the Republic;
 
 - the  functions  of  the  Commander-in-Chief  of  the  Armed  Forces  of  the Republic shall be such as may be prescribed by Parliament.
+
+· Supermajority required for legislation
 
 #### 173. Consequential provisions
 
@@ -4416,7 +4203,7 @@ PDF generated: 27 Jul 2018, 21:10
 
 #### 174. Existing Constitution
 
-In this Chapter 'The existing Constitution' refers to the Constitution of Sierra Leone, 1978. [FN: Act No. 12 of 1978.]
+In this Chapter “The existing Constitution” refers to the Constitution of Sierra Leone, 1978. [FN: Act No. 12 of 1978.]
 
 #### 175. Effect of Transitional provisions
 
@@ -4424,7 +4211,7 @@ The  transitional  provisions  of  this  Constitution  shall  have  effect  notw
 
 #### 176. Existing Law
 
-In this Chapter, the expression 'existing law' means any Act, rule, regulation, order or other such instrument made in pursuance of, or continuing in operation under, the existing Constitution and having effect as part of the laws of Sierra Leone or of any part thereof immediately before the commencement of this Constitution or any Act of  the  Parliament  of  the  United  Kingdom  or  Order  of  Her  Majesty  in  Council  so having effect and may be construed with such modifications, adaptations qualifications and exceptions as may be necessary to bring it into conformity with this Constitution as if it had been under this Constitution.
+In this Chapter, the expression “existing law” means any Act, rule, regulation, order or other such instrument made in pursuance of, or continuing in operation under, the existing Constitution and having effect as part of the laws of Sierra Leone or of any part thereof immediately before the commencement of this Constitution or any Act of  the  Parliament  of  the  United  Kingdom  or  Order  of  Her  Majesty  in  Council  so having effect and may be construed with such modifications, adaptations qualifications and exceptions as may be necessary to bring it into conformity with this Constitution as if it had been under this Constitution.
 
 #### 177. Application of Existing Law
 
@@ -4452,7 +4239,7 @@ PDF generated: 27 Jul 2018, 21:10
 
 - Where any office has been established by or under the existing Constitution or any existing law, and this Constitution establishes or provides for the establishment  of  a  similar  or  an  equivalent  office  including  the  office  of President, Vice-President, Minister, Member of the Cabinet, Attorney-General and Minister of Justice, Deputy Minister or any person who, immediately before the commencement of this Constitution, holds or is acting in the former office shall, so far as is consistent with the provisions of this Constitution, be deemed as from the commencement of this Constitution to have been appointed, elected or otherwise selected to hold or act in the latter office in accordance with the provisions of this Constitution:
 
-Provided that-
+Provided that—
 
 - any person who under the existing Constitution or any existing law would have been required to vacate his office at the expiration of any period or on the  attainment of any age shall vacate his office at the expiration of that period or on the attainment of that age;
 
@@ -4490,7 +4277,7 @@ PDF generated: 27 Jul 2018, 21:10
 
 - A person who is a member of the Public Service Commission established by the existing Constitution may, notwithstanding that by reason of his having held or been nominated for election to any office before the coming into effect of this Constitution,  he  is  disqualified  to  be  appointed  as  a  member  of  the  Public Service  Commission established  by  this  Constitution,  continue  in  office  under this section as a member of that Commission and be re-appointed thereto upon the expiration of his term of office.
 
-- In  this  Chapter,  'pensions  benefits'  means  any  pensions,  compensations, gratuity, or other like allowances for the holder of that office in respect of his service  as  a  public  officer  or  for  the  widow,  children,  dependants  or  personal representative of such holder in respect of such service, whether or not accruing from a contributory basis.
+- In  this  Chapter,  “pensions  benefits”  means  any  pensions,  compensations, gratuity, or other like allowances for the holder of that office in respect of his service  as  a  public  officer  or  for  the  widow,  children,  dependants  or  personal representative of such holder in respect of such service, whether or not accruing from a contributory basis.
 
 - Reference in this Chapter to the law with respect to pensions benefits includes, without  prejudice  to  their  generality,  references  to  the  law  regulating  the circumstances in which such benefits may be granted or in which the grant of such benefits may be refused, the law regulating the circumstances in which any such benefits that have been granted may be withheld, reduced in amount or suspended, and the law regulating the amount of any such benefits.
 
@@ -4498,7 +4285,7 @@ PDF generated: 27 Jul 2018, 21:10
 
 #### 179. Existing Parliament
 
-- The Parliament constituted by the existing Constitution (hereinafter referred to as  'the  existing  Parliament')  shall  be  deemed  to  be  the  Parliament  at  the commencement of this Constitution and the existing Members shall be deemed Members thereof and the said Parliament shall stand dissolved not later than twelve months after the commencement of this Constitution.
+- The Parliament constituted by the existing Constitution (hereinafter referred to as  “the  existing  Parliament”)  shall  be  deemed  to  be  the  Parliament  at  the commencement of this Constitution and the existing Members shall be deemed Members thereof and the said Parliament shall stand dissolved not later than twelve months after the commencement of this Constitution.
 
 - The Constituencies into which Sierra Leone was divided immediately before the commencement of this  Constitution  and  until  other  provision  is  made  in  that behalf in accordance  with  this Constitution shall  be  deemed  to  be  the Constituencies into which Sierra Leone is divided in pursuance of section 38 of this Constitution; and the persons who immediately before the commencement of  this  Constitution,  are  the  elected  Members  of  the  existing  Parliament representing these constituencies shall be deemed as from the commencement of  this  Constitution  to  have  been  elected  to  Parliament  in  accordance  with provisions  of  this  Constitution  as  the  elected  Members  representing  the respective constituencies corresponding to those constituencies and shall hold their seats in accordance with the provisions of subsection (1).
 
@@ -4624,35 +4411,35 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-- God or other deities
-
-- Oaths to abide by constitution
-
-- God or other deities
-
-- Oaths to abide by constitution
-
 ## FIRST SCHEDULE: TERRITORY OF SIERRA LEONE
 
-The area in West Africa lying between the sixth and tenth degrees of north latitude and the tenth and fourteenth degrees of west longitude and bounded on the north by the  boundary line delimited under the provisions of the Anglo-French Convention dated the twenty-eight day of June, 1882, the Anglo-French Agreement dated the twenty-first day of January, 1895, and the notes exchanged between His Britannic Majesty's Principal Secretary of State for Foreign Affairs and the Ambassador of the French  Republic,  and  dated  the  sixth  day  of  July,  1911,  and  on  the  South  by  the Anglo-Liberian boundary line delimited under the provisions of the Anglo-Liberian Conventions dated the eleventh day of November, 1885 and the twenty-first day of January, 1911.
+The area in West Africa lying between the sixth and tenth degrees of north latitude and the tenth and fourteenth degrees of west longitude and bounded on the north by the  boundary line delimited under the provisions of the Anglo-French Convention dated the twenty-eight day of June, 1882, the Anglo-French Agreement dated the twenty-first day of January, 1895, and the notes exchanged between His Britannic Majesty’s Principal Secretary of State for Foreign Affairs and the Ambassador of the French  Republic,  and  dated  the  sixth  day  of  July,  1911,  and  on  the  South  by  the Anglo-Liberian boundary line delimited under the provisions of the Anglo-Liberian Conventions dated the eleventh day of November, 1885 and the twenty-first day of January, 1911.
 
-## SECOND SCHEDULE: PRESIDENT'S OATH
+- God or other deities
 
-'I do hereby (in the name of God swear) (solemnly affirm) that I will at all times well and truly discharge the duties of the office of the President of the Republic of Sierra Leone according to law, that I will preserve, support, uphold, maintain and defend the Constitution of the Republic of Sierra Leone as by law established, and that I will do right to all manner of people according to law, without fear or favour, affection or ill-will. (So help me God.)
+- Oaths to abide by constitution
+
+## SECOND SCHEDULE: PRESIDENT’S OATH
+
+“I do hereby (in the name of God swear) (solemnly affirm) that I will at all times well and truly discharge the duties of the office of the President of the Republic of Sierra Leone according to law, that I will preserve, support, uphold, maintain and defend the Constitution of the Republic of Sierra Leone as by law established, and that I will do right to all manner of people according to law, without fear or favour, affection or ill-will. (So help me God.)
+
+- God or other deities
+
+- Oaths to abide by constitution
 
 ## THIRD SCHEDULE
 
 ### Oath of the Vice-President, Ministers and Deputy Ministers, Attorney-General and Minister of Justice, Secretary to the President, Secretary to the Cabinet, Solicitor-General, Director of Public Prosecutions, Members  of  the  Electoral Commission, the Speaker, Members of Parliament, Auditor-General, Members of the Public Service Commission, The Chief Justice and Judges of the Superior Court of Judicature, Members of the Judicial and Legal Service Commission, Members of the Police Council, Members of the Defence Council.
 
-'I  do  hereby  (in  the  name  of  God  swear)  (solemnly  affirm)  that  I  will  faithfully  and truly discharge the duties of the office of of the Republic of Sierra Leone, and that I will  support,  uphold  and  maintain  the  Constitution  of  Sierra  Leone  as  by  law established. (So help me God.)
+“I  do  hereby  (in  the  name  of  God  swear)  (solemnly  affirm)  that  I  will  faithfully  and truly discharge the duties of the office of of the Republic of Sierra Leone, and that I will  support,  uphold  and  maintain  the  Constitution  of  Sierra  Leone  as  by  law established. (So help me God.)
 
 ### OATH OF THE SPEAKER
 
-'I do hereby (in the name of God swear) (solemnly affirm) that I will bear true faith and  allegiance  to  the  Republic  of  Sierra  Leone  as  by  law  established;  that  I  will faithfully and conscientiously discharge my duties as Speaker of Parliament, and that I  will do right to all manner of people in accordance with the Constitution of Sierra Leone  and  uphold  the  Laws  and  customs  of  Parliament  without  fear  or  favour, affection or ill- will. (So help me God.)
+“I do hereby (in the name of God swear) (solemnly affirm) that I will bear true faith and  allegiance  to  the  Republic  of  Sierra  Leone  as  by  law  established;  that  I  will faithfully and conscientiously discharge my duties as Speaker of Parliament, and that I  will do right to all manner of people in accordance with the Constitution of Sierra Leone  and  uphold  the  Laws  and  customs  of  Parliament  without  fear  or  favour, affection or ill- will. (So help me God.)
 
 ### OATH OF MEMBER OF PARLIAMENT
 
-'I having been elected a Member of Parliament do hereby (in the name of God swear) (solemnly affirm) that I will bear true faith and allegiance to the Republic of Sierra Leone as by law established, that I will uphold and defend the Constitution of Sierra Leone, and that I will faithfully and conscientiously discharge the duties of a Member of Parliament. (So help me God.)
+“I having been elected a Member of Parliament do hereby (in the name of God swear) (solemnly affirm) that I will bear true faith and allegiance to the Republic of Sierra Leone as by law established, that I will uphold and defend the Constitution of Sierra Leone, and that I will faithfully and conscientiously discharge the duties of a Member of Parliament. (So help me God.)
 
 ### THE JUDICIAL OATH
 
@@ -4668,15 +4455,15 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
-'I  do  hereby  (in  the  name  of  God  swear)  (solemnly  affirm)  that  I  will  faithfully  and truly  discharge  the  duties  of  the  office  of  and  that  I  will  support  and  uphold  the Constitution  of  Sierra  Leone  as  by  Law  established,  and  that  I  will  do  right  to  all manner of people after the laws and usages of Sierra Leone without fear or favour affection or ill-will. (So help me God.)
+“I  do  hereby  (in  the  name  of  God  swear)  (solemnly  affirm)  that  I  will  faithfully  and truly  discharge  the  duties  of  the  office  of  and  that  I  will  support  and  uphold  the Constitution  of  Sierra  Leone  as  by  Law  established,  and  that  I  will  do  right  to  all manner of people after the laws and usages of Sierra Leone without fear or favour affection or ill-will. (So help me God.)
 
 ## FOURTH SCHEDULE: DECLARATION OF COMPLIANCE
 
-I  WILLIAM  NIAKA  STEPHEN  CONTEH,  Officer  of  the  Order  of  the  Republic  of Sierra Leone, Speaker of the Parliament of Sierra Leone, do hereby certify that a Bill entitled  'THE  CONSTITUTION OF SIERRA LEONE, 1991' was first introduced by the Honourable ABDULAI OSMAN CONTEH, Officer of the Order of the Republic of Sierra Leone, Attorney-General and Minister of Justice of Sierra Leone in the Fifth Session of the Third Parliament of Sierra Leone on the 4th day of June, 1991, then passed the First Reading, the Second Reading and the Committee Stage (with certain amendments  made  thereto)  and  that  on  the  1st  day  of  July,  1991  the  said Honourable  ABDULAI OSMAN CONTEH, Officer of the Order of the Republic of Sierra Leone, Attorney-General and Minister of Justice of Sierra Leone, reported to the  House  that  the  Bill  entitled  'THE  CONSTITUTION  OF  SIERRA  LEONE,  1991' passed the House with certain amendments.
+I  WILLIAM  NIAKA  STEPHEN  CONTEH,  Officer  of  the  Order  of  the  Republic  of Sierra Leone, Speaker of the Parliament of Sierra Leone, do hereby certify that a Bill entitled  “THE  CONSTITUTION OF SIERRA LEONE, 1991” was first introduced by the Honourable ABDULAI OSMAN CONTEH, Officer of the Order of the Republic of Sierra Leone, Attorney-General and Minister of Justice of Sierra Leone in the Fifth Session of the Third Parliament of Sierra Leone on the 4th day of June, 1991, then passed the First Reading, the Second Reading and the Committee Stage (with certain amendments  made  thereto)  and  that  on  the  1st  day  of  July,  1991  the  said Honourable  ABDULAI OSMAN CONTEH, Officer of the Order of the Republic of Sierra Leone, Attorney-General and Minister of Justice of Sierra Leone, reported to the  House  that  the  Bill  entitled  “THE  CONSTITUTION  OF  SIERRA  LEONE,  1991” passed the House with certain amendments.
 
-I  further  certify  that  on  the  3rd  day  of  August,  1991,  the  said  Bill  entitled  'THE CONSTITUTION OF SIERRA LEONE, 1991'  in  accordance  with  the  provisions  of subsection (3) of Section 55 of the Constitution of Sierra Leone, 1978 (Act No. 12 of 1978), has been submitted to and been approved at a Referendum conducted on the 23rd, 26th, 28th and 30th days of August, 1991 and been approved with the majority required  under  sub-section  (4)  of  Section  55  of  the  Constitution  of  Sierra  Leone, 1978.
+I  further  certify  that  on  the  3rd  day  of  August,  1991,  the  said  Bill  entitled  “THE CONSTITUTION OF SIERRA LEONE, 1991”  in  accordance  with  the  provisions  of subsection (3) of Section 55 of the Constitution of Sierra Leone, 1978 (Act No. 12 of 1978), has been submitted to and been approved at a Referendum conducted on the 23rd, 26th, 28th and 30th days of August, 1991 and been approved with the majority required  under  sub-section  (4)  of  Section  55  of  the  Constitution  of  Sierra  Leone, 1978.
 
-I further certify that all the appropriate provisions of Section 55 of the Constitution of Sierra Leone, 1978 have been complied with and that the said Bill entitled 'THE CONSTITUTION  OF  SIERRA  LEONE,  1991'  may  therefore  be  submitted  to  His Excellency the President for his assent and signature.
+I further certify that all the appropriate provisions of Section 55 of the Constitution of Sierra Leone, 1978 have been complied with and that the said Bill entitled “THE CONSTITUTION  OF  SIERRA  LEONE,  1991”  may  therefore  be  submitted  to  His Excellency the President for his assent and signature.
 
 GIVEN under my hand this 3rd day of September, 1991. W. N. S. CONTEH, Speaker.
 
@@ -4696,6 +4483,54 @@ PDF generated: 27 Jul 2018, 21:10
 
 ## Topic index
 
+### A
+
+Access to higher education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Approval of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+Attendance by legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+Attorney general . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45, 46
+
+### B
+
+Binding effect of const rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+### C
+
+Cabinet removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+Cabinet selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Census . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Compulsory education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Constitution amendment procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+Constitutional interpretation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+
+### D
+
+Deputy executive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+Designation of commander in chief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35, 95, 100
+Duty to obey the constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 13
+Duty to serve in the military . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Duty to work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+### E
+
+Electoral commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30, 31
+Electoral districts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Eligibility for cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43, 51
+Eligibility for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51, 52
+Eligibility for head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Eligibility for ordinary court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+Eligibility for supreme court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+Emergency provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26, 57
+Equality regardless of creed or belief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Equality regardless of gender . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Equality regardless of origin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Equality regardless of race . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Equality regardless of skin color . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Equality regardless of tribe or clan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Establishment of cabinet/ministers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43, 44
+Establishment of judicial council . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+Extradition procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
 Page 109
@@ -4707,6 +4542,59 @@ Page 109
 constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
+
+Extraordinary legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+
+### F
+
+First chamber selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33, 51
+Foreign affairs representative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Free education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Freedom of assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 23
+Freedom of association . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 23
+Freedom of expression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Freedom of movement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 16
+Freedom of opinion/thought/conscience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Freedom of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+
+### G
+
+General guarantee of equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 23
+God or other deities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107
+
+### H
+
+Head of state powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Head of state removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39, 40
+Head of state replacement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39, 41
+Head of state selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Head of state term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Head of state term limits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Human dignity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+### I
+
+Immunity of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61, 62
+Initiation of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+Integration of ethnic communities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+International law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 35
+
+### J
+
+Judicial independence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+Judicial precedence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+Jury trials required . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62, 76
+
+### L
+
+Leader of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+Legislative committees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+Legislative oversight of the executive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+Length of legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+
+### M
+
+Mandatory retirement age for judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
@@ -4720,6 +4608,57 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
+Minimum age for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+Minimum age of head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+
+### N
+
+Name/structure of executive(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+National anthem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+National flag . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+National motto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
+### O
+
+Oaths to abide by constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38, 107
+Official or national languages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 58
+Ombudsman . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+Ordinary court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+Outside professions of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+
+### P
+
+Power to declare/approve war . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Power to deport citizens . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Power to pardon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35, 45
+Presumption of innocence in trials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Principle of no punishment without law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Prohibited political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Prohibition of cruel treatment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Prohibition of double jeopardy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Prohibition of slavery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Prohibition of torture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Protection from ex post facto laws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Protection from expropriation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Protection from false imprisonment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Protection from unjustified restraint . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Protection of environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Protection of judges' salaries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+Protection of language use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+### Q
+
+Quorum for legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+
+### R
+
+Radio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 23
+Reference to art . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Reference to science . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Referenda . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Regional group(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Regulation of evidence collection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
 Page 111
@@ -4732,7 +4671,49 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
+Regulation of political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Removal of individual legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52, 53
+Replacement of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Restrictions on political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Restrictions on the armed forces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 94
+Restrictions on voting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Right to appeal judicial decisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+Right to choose occupation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 13
+Right to conscientious objection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Right to counsel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Right to culture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Right to equal pay for work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Right to establish a business . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Right to examine evidence/ witnesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Right to fair trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Right to form political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Right to health care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Right to join trade unions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Right to life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Right to own property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 18
+Right to privacy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Right to public trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Right to rest and leisure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Right to safe work environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Right to speedy trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Right to work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
 ### S
+
+Scheduling of elections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Secret ballot . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Selection of active-duty commanders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+Size of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+State support for children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+State support for the disabled . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+State support for the elderly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Structure of legislative chamber(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+Structure of the courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71, 73, 75, 76
+Supermajority required for legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+Supreme court powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73, 74
+Supreme court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+Supreme court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+Supreme/ordinary court judge removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
 
 ### T
 
@@ -4748,33 +4729,17 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:10
 
+Tax bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63, 65
+Telecommunications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Television . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 23
+Term length for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+Treaty ratification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Trial in native language of accused . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Type of government envisioned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
 ### V
 
-Tax bills .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 63, 65
-
-Telecommunications
-
-Television
-
-.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 23
-
-.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 12, 23
-
-Term length for first chamber  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 56
-
-Treaty ratification  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 35
-
-Trial in native language of accused
-
-Type of government envisioned
-
-.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20
-
-.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
-
-Veto override procedure
-
-.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 63
+Veto override procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
 
 Sierra Leone 1991 (reinst. 1996, rev. 2008)
 
