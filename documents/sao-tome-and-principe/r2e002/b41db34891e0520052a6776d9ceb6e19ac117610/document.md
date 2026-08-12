@@ -1,6 +1,10 @@
 [[START OF PAGE 1]]
 
-REPUBLIQUE DEMOCRATIQUE DE SÃO TOMÉ ET PRÍNCIPE (UNITÉ - DISCIPLINE - TRAVAIL) MINISTÈRE DE L'EDUCATION ET DE LA CULTURE
+REPUBLIQUE DEMOCRATIQUE DE SÃO TOMÉ ET PRÍNCIPE
+(UNITÉ – DISCIPLINE – TRAVAIL)
+MINISTÈRE DE L’EDUCATION ET DE LA CULTURE
+Education for All
+Educação para Todos
 
 EDUCATION POUR TOUS - EPT
 
@@ -14,12 +18,65 @@ EDUCATION POUR TOUS - EPT
 
 [[START OF PAGE 2]]
 
+INTRODUCTION.....................................................................................................................5
+PREMIERE PARTIE : CONTEXTE ET METHODOLOGIE DE L’ELABORATION DU PLAN NATIONAL D’ACTION................. 6
+I. PRÉSENTATION DE SAO TOMÉ ET PRINCIPE..........................................................6
+Aspects physiques et géographiques ................................................................................................... 6
+Organisation politique et administrative.............................................................................................. 6
+Aspect démographique ........................................................................................................................ 6
+Aspects économiques .......................................................................................................................... 7
+Aspects sociaux-culturels.................................................................................................................... 7
+Statistiques et indicateurs de l’Education ............................................................................................ 9
+A – Enseignement Primaire (1ere - 4ame): ..........................................................................9
+B- Enseignement Secondaire : ...........................................................................................9
+II. DESCRIPTION DU SYSTEME EDUCATIF DE SAO TOMÉ ET PRINCIPE..........12
+Education formelle ............................................................................................................................ 12
+Sous système de l’éducation générale ............................................................................................... 12
+Education préscolaire ........................................................................................................12
+L’enseignement primaire...................................................................................................12
+L’enseignement secondaire...............................................................................................13
+Enseignement spécial et professionnel..............................................................................13
+Sous système de l’éducation technique et professionnelle ................................................................ 13
+Sous système de formation et perfectionnement de cadres enseignants............................................ 14
+Sous système de l’éducation des adultes........................................................................................... 14
+Enseignement supérieur..................................................................................................................... 14
+EDUCATION NON FORMELLE ....................................................................................................15
+III. CONTEXE DE LA POLITIQUE EDUCATIVE............................................................16
+IV. METHODOLOGIE DE L’ELABORATION D’UN PLAN NATIONL EPT...............19
+DEUXIEME PARTIE : DIAGNOSTIC DE L’EDUCATION ........ 20
+I . DIAGNOSTIC DES SOUS SECTEURS...........................................................................20
+EDUCATION PRESCOLAIRE ET DEVELOPPEMENT DE LA PREMIERE ENFANCE ...........20
+EDUCATION PRIMAIRE................................................................................................................ 21
+EDUCATION SECONDAIRE.......................................................................................................... 23
+Enseignement technique professionnel.............................................................................................. 24
+Enseignement supérieur..................................................................................................................... 26
+Education des adultes ........................................................................................................................ 27
+Formation des professeurs................................................................................................................. 28
+II. FINANCEMENT DE L’EDUCATION ............................................................................29
 2
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
+TROISIEME PARTIE : PLAN D’ACTION..................................... 31
+I. PRINCIPES DIRECTEURS DU PLAN D’ACTION.......................................................31
+Participation de la société civile et diversification de l’offre éducative ............................................ 31
+Décentralisation/déconcentration du système éducatif...................................................................... 31
+Exigences et responsabilisation ......................................................................................................... 31
+Solidarité responsable........................................................................................................................ 32
+II – COORDINATION, EXECUTION ET EVALUATION DU PLAN NATIONAL DES ACTIONS EPT........................................................................................................................32
+A – FORUM NATIONAL EPT ........................................................................................................ 32
+B – COMITÉ NATIONAL DE GESTION ET EVALUATION ( CONGEA) ................................. 33
+II. PLAN D’ACTION : CADRE LOGIQUE.........................................................................35
+COORDINATION, GESTION ET EVALUATION DE L’EPT....................................................... 36
+OBJECTIF 1 : Développer et améliorer sur tous leurs aspects la protection et l’éducation de la petite enfance, et notamment des enfants les plus vulnérables et défavorisés. ............. 37
+Objectif 2: Faire en sorte que d’ici 2015 tous les enfants notamment les filles, les enfants en difficultés et ceux appartiennent a des minorités ethniques aient la possibilité d’accéder a un enseignement primaire obligatoire et gratuit de qualité et de le suivre jusqu’à son terme. ............................................................................................................................ 45
+Objectif 3: Répondre aux besoins éducatifs de tous les jeunes et de tous les adultes en assurant un accès équitable à des programmes adéquats ayant pour objet l’acquisition des connaissances ainsi que de compétences nécessaires dans la vie courante................... 53
+Objectif 4: Améliorer de 50 % le niveau d’alphabétisation des adultes, et notamment des femmes d’ici à 2015 et assurer à tous les adultes un accès équitable aux programmes d’éducation de base et de l’éducation permanente........................................................ 64
+Objectif 5: Eliminer les disparités entre les sexes dans l’enseignement primaire et secondaire d’ici 2005 et instaurer l’égalité dans ce domaine en 2015, en veillant notamment à assurer aux filles un accès équitable et sans restriction à une éducation de base de qualité avec les mêmes chances de réussite. ..................................................................................... 70
+OBJECTIF 6 : Améliorer sur tous ses aspects la qualité de l’éducation dans un soucis d’excellence de façon à obtenir pour tous, des résultats d’apprentissage reconnus et quantifiables, notamment en ce qui concerne la lecture, l’écriture et le calcul et les compétences indispensables dans la vie courante .............................................................................. 77
+ANNEXES : BUDGET............................................................................................................87
 3
 
 [[END OF PAGE 3]]
@@ -28,6 +85,25 @@ EDUCATION POUR TOUS - EPT
 
 ## LISTE DES SIGLES ET ABREVIATIONS
 
+CNP : Commission Nationale de la Première Enfance
+CPD : Centre Pédagogique Didactique
+CPLP : Conférence des pays de langue portugaise
+EFSQD : Ecole de Formation et de Perfectionnement des cadres Enseignants
+FNUAP : Fond des Nations Unies pour les activités de la Population
+GVC : Groupe des Volontaires Civiles
+ISP/STP : Institut Supérieur Polytechnique de Sao-Tomé et Principe
+IUCAI : Institut Universitaire de Comptabilité, Administration et Informatique
+LSBE : Loi de Base du Système Educatif
+MEC : Ministère de l’Education et de la Culture
+NTIC : Nouvelles Technologies de l’Information
+ONG : Organisations Non Gouvernementales
+PAE : Programme d’Ajustement Structurel
+PDE : Plan de Développement Educatif
+PIB : Produit Intérieur Brut
+PNA-PT : Plan National d’Action de l’Education Pour Tous
+PNUD : Programme des Nations Unies pour le Développement
+STP : Sao-Tomé et Principe
+UNICEF : Programme des Nations Unies pour l’Enfance
 4
 
 [[END OF PAGE 4]]
@@ -152,15 +228,7 @@ Les principaux indicateurs se présentent de la manière suivante:
 
 Nbre d'Ecoles Primaires: 72
 
-Effectif des élèves  1
-
-ere
-
-- 4
-
-eme
-
-: 22 319
+Effectif des élèves 1ere - 4eme : 22 319
 
 Garçons : 11 724 (52,5%);
 
@@ -250,13 +318,13 @@ MF | MF | MF | MF
 
 ##### Année 2002 3 :
 
-###### 6. Taux net de scolarisation  de la 1 ere à la 6 eme classe:  77,6%
+###### 6. Taux net de scolarisation de la 1ère à la 6ème classe: 77,6%
 
-###### 7.  Taux net de scolarisation de la 5 eme à la 6 eme classe :  37,4%
+###### 7. Taux net de scolarisation de la 5ème à la 6ème classe : 37,4%
 
-###### 8. Taux de redoublement  dans l'Enseignement Primaire:
+###### 8. Taux de redoublement dans l’Enseignement Primaire:
 
-1 a classe | 2 a classe | 3 a classe | 4 a classe
+1ª classe | 2ª classe | 3ª classe | 4ª classe
 --- | --- | --- | --- | ---
 1990 / 91 | 34,2% | 30,9% | 28,8% | 20,5%
 1997 / 98 | 32% | 32,8% | 32,4% | 29,4%
@@ -288,13 +356,13 @@ INE , 2002 - Síntese dos Resultados Definitivos do III RGPH )
 
 #### Education formelle
 
-Le système éducatif de Sao Tomé et  Principe, régi actuellement par la loi de base ( LSBEdécret -loi  n° 53/88) a souffert pendant longtemps de multiples changements. Ce système se structure en quatre sous systèmes suivant :
+Le système éducatif de Sao Tomé et Principe, régi actuellement par la loi de base (LSBE-décret-loi n° 53/88) a souffert pendant longtemps de multiples changements. Ce système se structure en quatre sous systèmes suivant :
 
 - Sous système de l'éducation générale
 
-- Sous système de formation et de perfectionnement des cadres de l'enseignement
-
 - Sous système de l'éducation professionnelle et technique
+
+- Sous système de formation et de perfectionnement des cadres de l'enseignement
 
 - Sous système de l'éducation des adultes
 
@@ -444,17 +512,17 @@ Les délégués adoptèrent le cadre d'action de Dakar intitulé « éducation p
 
 Le  forum  mondial  de  Dakar  fut  adopté  par  cinq  parrains  importants :  la  banque  mondiale, l'UNICEF, le FNUAP, l'UNESCO et le PNUD. Le forum de Dakar a conçu le cadre d'action comme  un  engagement  collectif  pour  l'action  et  a  établi  les  mécanismes  au  niveau  national, régional et international pour coordonner les synergies en faveur de l'EPT. Les participants au forum de Dakar se sont engagés collectivement par rapport aux six objectifs suivants :
 
-- Développer  et  améliorer  sur  tous  les  aspects  la  protection  et  l'éducation  de  la  première enfance, notamment des enfants les plus vulnérables et les plus défavorisés ;
+1. Développer et améliorer sur tous les aspects la protection et l'éducation de la première enfance, notamment des enfants les plus vulnérables et les plus défavorisés ;
 
-- Faire des efforts pour que jusqu'en l'an 2015, tous les enfants(surtout les filles), les enfants ayant des difficultés et ceux qui appartiennent aux minorités ethniques aient la possibilité d'accéder  à  l'enseignement  primaire  obligatoire  et  gratuit  de  qualité  et  de  le  continuer jusqu'à terme ;
+2. Faire des efforts pour que jusqu'en l'an 2015, tous les enfants(surtout les filles), les enfants ayant des difficultés et ceux qui appartiennent aux minorités ethniques aient la possibilité d'accéder à l'enseignement primaire obligatoire et gratuit de qualité et de le continuer jusqu'à terme ;
 
-- Répondre aux nécessités  éducatives  de  tous  les  jeunes  et  les  adultes  en  leur  assurant  un accès équitable aux programmes ayant comme objectifs l'acquisition des connaissances et des compétences nécessaires à la vie courante ;
+3. Répondre aux nécessités éducatives de tous les jeunes et les adultes en leur assurant un accès équitable aux programmes ayant comme objectifs l'acquisition des connaissances et des compétences nécessaires à la vie courante ;
 
-- Améliorer  de  50  %    le  niveau  d'alphabétisation  des  adultes,  notamment  des  femmes jusqu'à 2005 et assurer à tous adultes un accès équitable aux programmes d'éducation de base et de l'éducation permanente ;
+4. Améliorer de 50 % le niveau d'alphabétisation des adultes, notamment des femmes jusqu'à 2005 et assurer à tous adultes un accès équitable aux programmes d'éducation de base et de l'éducation permanente ;
 
-- Eliminer les disparités entre les sexes dans l'enseignement primaire et secondaire jusqu'à 2005 et instaurer l'égalité dans ce secteur jusqu'en 2015, en veillant notamment à assurer aux filles un accès équitable et sans restriction à une éducation de base de qualité avec les mêmes chances de succès ;
+5. Eliminer les disparités entre les sexes dans l'enseignement primaire et secondaire jusqu'à 2005 et instaurer l'égalité dans ce secteur jusqu'en 2015, en veillant notamment à assurer aux filles un accès équitable et sans restriction à une éducation de base de qualité avec les mêmes chances de succès ;
 
-- Améliorer sur tous les aspects la qualité de l'éducation dans une optique d'excellence de manière  à  obtenir  pour  tous,  les  résultats  d'apprentissage  reconnus  et  quantifiables, principalement en ce qui concerne la lecture, l'écrit et le calcul et les autres compétences indispensables à la vie courante
+6. Améliorer sur tous les aspects la qualité de l'éducation dans une optique d'excellence de manière à obtenir pour tous, les résultats d'apprentissage reconnus et quantifiables, principalement en ce qui concerne la lecture, l'écrit et le calcul et les autres compétences indispensables à la vie courante
 
 > 4 Le  sommet  mondial  sur  l'enfance  (1990),  le  conférence  des  nations  unies  sur  l'environnement  (1992),  la conférence  mondiale  sur  les  droits  de  l'homme  (1993),  la  conférence  mondiale  sur  les  nécessités  éducatives spéciales :  accès  et  qualité  (1994),  la  conférence  internationale  sur  le  développement  social  (1995),  la  4 ème conférence mondiale sur les femmes (1995), la 5 ème conférence internationale sur l'éducation des adultes (1997) et la conférence internationale sur le travail infantile (1997).
 
@@ -468,27 +536,27 @@ Le  forum  mondial  de  Dakar  fut  adopté  par  cinq  parrains  importants :  
 
 Pour  atteindre  ces  six  objectifs,  les  délégués  se  sont  engagés  à  collaborer  sur  les  grandes stratégies suivantes :
 
-- Susciter  au  niveau  national  et  international  un  engagement  politique  en  faveur  de l'éducation pour tous, définir les plans d'actions nationaux et augmenter l'investissement dans l'éducation de base ;
+i. Susciter au niveau national et international un engagement politique en faveur de l'éducation pour tous, définir les plans d'actions nationaux et augmenter l'investissement dans l'éducation de base ;
 
-- Promouvoir les politiques de l'éducation pour tous dans le cadre d'une action sectoriel durable  et  bien  intégrée,  clairement  articulée  avec  les  stratégies  d'élimination  de  la pauvreté et de développement ;
+ii. Promouvoir les politiques de l'éducation pour tous dans le cadre d'une action sectoriel durable et bien intégrée, clairement articulée avec les stratégies d'élimination de la pauvreté et de développement ;
 
-- Faire en sorte que la société civile participe activement à l'expérimentation et au suivi des stratégies de développement de l'éducation.
+iii. Faire en sorte que la société civile participe activement à l'expérimentation et au suivi des stratégies de développement de l'éducation.
 
-- Développer  le  système  de  gestion  et  de  gouvernance  éducative  qui  soit  réactif, participatif et évaluatif ;
+iv. Développer le système de gestion et de gouvernance éducative qui soit réactif, participatif et évaluatif ;
 
-- Répondre  aux  nécessités  du  système  éducatif  dans  un  environnement  de  conflits  et catastrophes  naturelles  et  de  la  situation  d'instabilité,  et  conduire  les  programmes d'éducation selon des méthodes  qui  soient capables de promouvoir  la paix, la compréhension mutuelle et  la tolérance et prévenir la violence et les conflits ;
+v. Répondre aux nécessités du système éducatif dans un environnement de conflits et catastrophes naturelles et de la situation d'instabilité, et conduire les programmes d'éducation selon des méthodes qui soient capables de promouvoir la paix, la compréhension mutuelle et la tolérance et prévenir la violence et les conflits ;
 
-- Développer les stratégies intégrées pour l'égalité des sexes dans l'éducation qui tiennent compte de la nécessité d'une évolution des attitudes, des valeurs et des pratiques ;
+vi. Développer les stratégies intégrées pour l'égalité des sexes dans l'éducation qui tiennent compte de la nécessité d'une évolution des attitudes, des valeurs et des pratiques ;
 
-- Créer un environnement  éducatif sain et sûr doté de ressources qui favorisent l'excellence  de  l'apprentissage  et  conduisent  à  des  niveaux  d'acquisition  clairement définis pour tous ;
+vii. Créer un environnement éducatif sain et sûr doté de ressources qui favorisent l'excellence de l'apprentissage et conduisent à des niveaux d'acquisition clairement définis pour tous ;
 
-- Expérimenter avec urgence les activités de ce programme d'éducation pour lutter contre la pandémie du SIDA ;
+viii. Expérimenter avec urgence les activités de ce programme d'éducation pour lutter contre la pandémie du SIDA ;
 
-- Améliorer les conditions et la motivation et le professionnalisme des professeurs ;
+ix. Améliorer les conditions et la motivation et le professionnalisme des professeurs ;
 
-- Mettre les nouvelles technologie de recherche et de la communication au service de la réalisation des objectifs de l'EPT ;
+x. Mettre les nouvelles technologie de recherche et de la communication au service de la réalisation des objectifs de l'EPT ;
 
-- Renforcer les mécanismes existants pour faire progresser plus rapidement l'EPT
+xi. Renforcer les mécanismes existants pour faire progresser plus rapidement l'EPT
 
 18
 
@@ -633,9 +701,9 @@ Face à ces données  le phénomène d'admission des enfants et des jeunes en de
 
 - Indice élevé de l'occupation des écoles et des salles avec des effectifs pléthoriques ;
 
-- Augmentation du taux de redoublement (32% en1999 )* ∗ ce qui entraîne un accroissement des coûts de scolarisation des élèves.
-
 - Dégradation des infrastructures scolaires et/ou inexistence rareté des moyens didactiques ;
+
+- Augmentation du taux de redoublement (32% en1999 )* ∗ ce qui entraîne un accroissement des coûts de scolarisation des élèves.
 
 De manière générale, les limitations de l'offre dans les écoles secondaires constituent  un des plus  graves  entraves  à  la  scolarisation  des  enfants  de  la  tranche  d'âge  correspondant  à  ce niveau d'enseignement.
 
@@ -671,25 +739,25 @@ Même si la formation professionnelle est ouverte aux individus des deux sexes, 
 
 Les principaux problèmes existant à ce niveau sont les suivants :
 
-- o Peu de diversité dans le domaine de formation ;
+- Peu de diversité dans le domaine de formation ;
 
-- o Capacité d'accueil réduite des installations de l'unique centre polytechnique, qui possède quatre ateliers et quatre salles de classes
+- Capacité d'accueil réduite des installations de l'unique centre polytechnique, qui possède quatre ateliers et quatre salles de classes
 
-- o Centralisation des institutions de formation professionnelles au niveau des districts d'Agua Grande et de Mé Zochi ;
+- Centralisation des institutions de formation professionnelles au niveau des districts d'Agua Grande et de Mé Zochi ;
 
-- o Faible demande de formation due à l'inadéquation entre la formation proposée et les aspirations des jeunes ;
+- Faible demande de formation due à l'inadéquation entre la formation proposée et les aspirations des jeunes ;
 
-- o Débouché réduit à la fin de la formation
+- Débouché réduit à la fin de la formation
 
 ###### Diagnostic de la qualité
 
-- o Corps enseignant du centre polytechnique formé, dans sa majorité, par les nationaux ayant une formation moyenne ou pratique ;
+- Corps enseignant du centre polytechnique formé, dans sa majorité, par les nationaux ayant une formation moyenne ou pratique ;
 
-- o Formation dispensée de niveau moyen et pratique et pas toujours en adéquation avec les demandes des services du pays ;
+- Formation dispensée de niveau moyen et pratique et pas toujours en adéquation avec les demandes des services du pays ;
 
-- o Grande mobilité du corps enseignant, ce qui n'offre pas toujours les garanties de qualité au niveau de la formation ;
+- Grande mobilité du corps enseignant, ce qui n'offre pas toujours les garanties de qualité au niveau de la formation ;
 
-- o Besoin de rééquipement du centre.
+- Besoin de rééquipement du centre.
 
 24
 
@@ -699,11 +767,11 @@ Les principaux problèmes existant à ce niveau sont les suivants :
 
 ###### Diagnostic de la gestion
 
-- o La gestion de la formation professionnelle publique n'est pas faite seulement par le ministère de l'éducation, mais aussi par les autres institution de l'état, comme le ministère du travail et le ministère de l'agriculture. Il n'existe pas toujours une bonne coordination dans la gestion des offres de la formation professionnelle ;
+- La gestion de la formation professionnelle publique n'est pas faite seulement par le ministère de l'éducation, mais aussi par les autres institution de l'état, comme le ministère du travail et le ministère de l'agriculture. Il n'existe pas toujours une bonne coordination dans la gestion des offres de la formation professionnelle ;
 
-- o D'autre part, la politique de formation professionnelle ne s'est pas toujours en accord avec les objectifs de développement du pays, particulièrement dans le domaine de développement stratégique comme les pêches, le tourisme et l'artisanat ;
+- D'autre part, la politique de formation professionnelle ne s'est pas toujours en accord avec les objectifs de développement du pays, particulièrement dans le domaine de développement stratégique comme les pêches, le tourisme et l'artisanat ;
 
-- o La gestion des bourses d'étude de formation professionnelle à l'étranger est faite de manière très déficiente
+- La gestion des bourses d'étude de formation professionnelle à l'étranger est faite de manière très déficiente
 
 ##### 1.2. Secteur privé
 
@@ -719,11 +787,11 @@ Comme pour le secteur public, les institutions de formation professionnelle se c
 
 N'ayant pas une véritable politique d'appui et de contrôle des formations dispensées par les institutions  privées,  la  qualité  de  la  formation  technique  professionnelle  souffre,  d'une manière générale, des maux suivants :
 
-- o Toutes les formations professionnelles ne sont pas dûment reconnues par les institutions officielles de l'état ;
+- Toutes les formations professionnelles ne sont pas dûment reconnues par les institutions officielles de l'état ;
 
-- o Les formations dispensées sont très variées mais leur niveau est faible ;
+- Les formations dispensées sont très variées mais leur niveau est faible ;
 
-- o La grande partie des enseignants n'ont pas un niveau de formation académique crédible ;
+- La grande partie des enseignants n'ont pas un niveau de formation académique crédible ;
 
 ###### Diagnostic de la gestion
 
@@ -861,11 +929,10 @@ La  majorité  des  professeurs  ayant  une  formation  aussi  bien  dans  le  p
 
 Malgré le contexte  national  difficile  dû    à  l'application  des  mesures  du  plan  d'ajustement structurel ( PAE ) que le pays connaît, les dépenses publiques courantes pour l'Education ont augmenté ces 5 dernières années, passant de 10 à 15% des dépenses publiques de l'Etat et de 1,2 à 2,2% du PIB ( Mingat, A& al, 2000 : 24 ) comme l'indique le tableau ci-après !
 
-97 | 98 | 99 | 00
+ | 97 | 98 | 99 | 00
 --- | --- | --- | --- | ---
-Dépenses courantes de l'Education
-(Millions de Dobras) | 3016 | 5458 | 7487 | 8319
-l'Etat | 11,0 | 12,4 | 15,5 | 15,3
+Dépenses courantes de l'Education (Millions de Dobras) | 3016 | 5458 | 7487 | 8319
+En % du budget de l'Etat | 11,0 | 12,4 | 15,5 | 15,3
 En % du PIB | 1,5 | 1,9 | 2,2 | 2,2
 
 Toute fois, ces dépenses se situent encore à des niveaux très bas en comparaison avec les pays de la région ( environ 4%  du PIB pour les pays HIPC africains.)
@@ -890,9 +957,9 @@ L'analyse  détaillée  du  financement  de  l'Education  au  niveau  national  
 
 D'autre  part,  le  coût  unitaire  par  élève  est  en  général  beaucoup  plus    bas  à  STP  en comparaison avec les autres pays de la région, même s'il s'agit de l'enseignement primaire ou de l'enseignement secondaire comme on peut l'observer dans le tableau ci-dessous :
 
-Primaire | Secondaire
+ | Primaire |  | Secondaire | 
 --- | --- | --- | --- | ---
-N° de classes | Coût unitaire (PIB par tête) | N° de classes | Coût unitaire (par tête)
+ | N° de classes | Coût unitaire (PIB par tête) | N° de classes | Coût unitaire (par tête)
 Sao Tomé et Principe | 4 | 0,008 | 7 | 0,10
 Mozambique(1998) | 4 | 0,07 | 5 | 0,40
 Mauritanie(1998) | 6 | 0,12 | 6 | 0,49
@@ -905,9 +972,7 @@ Source : Mingat, A& al. (2001 : 15)
 
 Les  dépenses  privées  des  familles  pour  l'éducation  des  enfants,  notamment  les  coûts concernant    le  matériel  scolaires,  le  transport,  l'uniforme,  etc.  ne  sont  pas    négligeables même au niveau de l'Education de base dans la mesure où ils peuvent atteindre un montant de 10 dollars annuels par famille
 
-> Ces chiffres sont relativement bas en terme de comparaison internationale. En effet, le coût moyen d'un professeur du primaire est estimé à 3,6 fois le PIB par tête en moyenne
-
-> 5 dans les pays anglophones d'Afrique et 2,4 fois du PIB par tête dans les pays africains du Sahel
+> 5 Ces chiffres sont relativement bas en terme de comparaison internationale. En effet, le coût moyen d'un professeur du primaire est estimé à 3,6 fois le PIB par tête en moyenne dans les pays anglophones d'Afrique et 2,4 fois du PIB par tête dans les pays africains du Sahel
 
 30
 
@@ -1115,9 +1180,7 @@ Pour permettre le bon fonctionnement des Comités (au niveau national et au nive
 
 ACTIONS | OBJECTIFS | STRATEGIES | ACTIVITES | PERIODE | COUT (USD)
 --- | --- | --- | --- | --- | ---
-Action 1 : Création du Forum National de l'EPT Création du Comité National de Gestion et Evaluation PNA - EPT (CONGEA) | Contrôler régulièrement les actions et les résultats du PNA -EPT Assurer une gestion transparente et efficace du PNA - EPT Garantir la mise en place des objectifs et des stratégies du PNA - EPT Promouvoir et développer les partenariats. Mobiliser les ressources nécessaires au développement du PNA - EPT | Prestation des comptes ; Suivi du PNA - EPT; Promotion des actions et divulgation des informations; Mobilisation sociale et politique | Approbation du Décret-loi; Mobilisation des ressources externes Création d'un secrétariat permanent; Mise en place et équipement d'une Unité d'Exécution des projets EPT Allocation des fonds de fonctionnement Publication des comptes; | 2003 2002 - 2003 2003 - 2015 2003 2003 - 2015
-
-USD$  642 000
+Action 1 : Création du Forum National de l'EPT Création du Comité National de Gestion et Evaluation PNA - EPT (CONGEA) | Garantir la mise en place des objectifs et des stratégies du PNA - EPT Contrôler régulièrement les actions et les résultats du PNA - EPT Promouvoir et développer les partenariats. Assurer une gestion transparente et efficace du PNA - EPT Mobiliser les ressources nécessaires au développement du PNA - EPT | Prestation des comptes ; Suivi du PNA - EPT; Promotion des actions et divulgation des informations; Mobilisation sociale et politique | Approbation du Décret-loi; Mobilisation des ressources externes Création d'un secrétariat permanent; Mise en place et équipement d'une Unité d'Exécution des projets EPT Allocation des fonds de fonctionnement Publication des comptes; | 2003 2002 - 2003 2003 - 2015 2003 2003 - 2015 | USD$ 642 000
 
 [[END OF PAGE 36]]
 
@@ -1135,12 +1198,12 @@ Action 1 : Mobilisation Sociale dans la défense de l'enfant | Promouvoir une in
 
 [[START OF PAGE 38]]
 
+OBJECTIF 1 : Développer et améliorer sur tous leurs aspects la protection et l'éducation de la petite enfance, et notamment des enfants les plus vulnérables et défavorisés
+
 infantiles dispensés à tous les enfants du pays. Tous les enfants de 0-6 ans enregistrés au Registre Civile ( à la mairie)
 --- | --- | --- | --- | --- | --- | ---
 ACTIONS | OBJECTIFS | STRATEGIES | RESULTATS | ACTIVITES | PERIODE | COÜTS (USD)
 Action 2 : Expansion du réseau des structures d'accueil de protection de la première enfance | Identifier les besoins en services et en infrastructures Augmenter la capacité d'offre pour l'accueil et la protection des enfants en vue d'améliorer la capacité d'accueil des enfants; Ré encadrement des infrastructures | Développement de modèles communautaires de constructions et de réhabilitations Promotion de la micro-planification et du suivi de la carte éducative Engagements des communautés et promotion des | Jardins d'Enfant dans tous les des districts du pays; Crèches sur tout le pays; Centre Maternel- Infantile sur tout le pays 100% de recouvrement vaccinal pour les enfants de 0-6 ans Crèches et Jardins construits avec l'implication et la | Mobilisation des ressources financières internes et externes; Construction de jardins dans les Districts; Réhabilitation des crèches rurales Utilisation des procédés de la micro-planification et de la planification décentralisée | Phase préliminaire et préparatoire: 2003 Construction et réhabilitation: 2003 - 2008 Entretien: 2008 - 2015 | ________ 40 600.00
-
-OBJECTIF 1 : Développer et améliorer sur tous leurs aspects la protection et l'éducation de la petite enfance, et notamment des enfants les plus vulnérables et défavorisés
 
 38
 
@@ -1148,10 +1211,10 @@ OBJECTIF 1 : Développer et améliorer sur tous leurs aspects la protection et l
 
 [[START OF PAGE 39]]
 
+OBJECTIF 1 : Développer et améliorer sur tous leurs aspects la protection et l'éducation de la petite enfance, et notamment des enfants les plus vulnérables et défavorisés
+
 de prestation de service à la première enfance Stimuler la recherche de l'Education et la protection de la première enfance dans les zones plus difficiles et défavorisées | initiatives privées dans la construction des jardins, crèches et des structures de santé infantile | participation des communautés | Réhabilitation de 6 jardins, 44 crèches; Construction de 7 jardins et 7 maternelles et Conservation des infrastructures | 6 507 517.00
 --- | --- | --- | --- | ---
-
-OBJECTIF 1 : Développer et améliorer sur tous leurs aspects la protection et l'éducation de la petite enfance, et notamment des enfants les plus vulnérables et défavorisés
 
 39
 
@@ -1174,13 +1237,13 @@ Action 2 : Formation et spécialisation des cadres | Améliorer la capacité d'i
 
 [[START OF PAGE 41]]
 
-de la première enfance | Bourses d'études et Visites d'études | 2008 - 2015 | 98 000.00
+OBJECTIF 1 : Développer et améliorer sur tous leurs aspects la protection et l'éducation de la petite enfance, et notamment des enfants les plus vulnérables et défavorisés
+
+ | de la première enfance |  |  | Bourses d'études et Visites d'études | 2008 - 2015 | 98 000.00
 --- | --- | --- | --- | --- | --- | ---
 ACTIONS | OBJECTIFS | STRATEGIES | RESULTATS | ACTIVITES | PERIODE | COÜTS (USD)
-Action 3 : Mise à disposition des Equipements, des matériels didactiques et ludiques dans les établissements et les services d'appui à la première enfance | Favoriser le développement en harmonieux des enfants; Stimuler les capacités cognitives, psychomotrices et affectives des enfants de 0 à 6 ans | 158 200.00 339 000.00
+Action 3 : Mise à disposition des Equipements, des matériels didactiques et ludiques dans les établissements et les services d'appui à la première enfance | Favoriser le développement en harmonieux des enfants; Stimuler les capacités cognitives, psychomotrices et affectives des enfants de 0 à 6 ans |  |  |  |  | 158 200.00 339 000.00
 Action 4 : Formation et recrutement du | Garantir les conditions techniques | Canalisation des interventions des ONGs dans les | Existence de personnel formé en quantité suffisante | Recrutement de personnel qualifié; | 2005 - 2010 | 600 000.00
-
-OBJECTIF 1 : Développer et améliorer sur tous leurs aspects la protection et l'éducation de la petite enfance, et notamment des enfants les plus vulnérables et défavorisés
 
 41
 
@@ -1188,11 +1251,11 @@ OBJECTIF 1 : Développer et améliorer sur tous leurs aspects la protection et l
 
 [[START OF PAGE 42]]
 
+OBJECTIF 1 : Développer et améliorer sur tous leurs aspects la protection et l'éducation de la petite enfance, et notamment des enfants les plus vulnérables et défavorisés
+
 personnel qualifié | minimums de fonctionnement des institutions de la Première Enfance | actions de formation du personnel pour les jardins et centres ruraux; | dans tous les Jardins et Crèches; Existence et fonctionnement régulier de Cours de Formation pour la Première Enfance. | Formation des éducateurs, des techniciens de la santé, des animateurs, des assistantes sociales et des autres techniciens dans les domaines de la Première Enfance | 2003 - 2015 | 40 000.00
 --- | --- | --- | --- | --- | --- | ---
-Action 5 : Développement de l'Education Spéciale et de la protection des enfants handicapés | Identifier et étudier les besoins spéciaux d'offres éducatives et de protection des enfants de 0 à 6 ans Institutionnaliser et promouvoir l'Education Spéciale | Spécialisation en Education Spéciale dans les Centres spécialisés à l'extérieur des cadres nationaux; Accueil et existence des Centres de l'Education Spéciale dans tous les districts; | Existence d'au moins 5 spécialistes en Education dans le pays; Existence de 7 nouveaux Centres de l'Education Spéciale dans le pays | 2005 - 2010 2010 - 2015 | 150 000.00 86 000.00 108 000.00
-
-OBJECTIF 1 : Développer et améliorer sur tous leurs aspects la protection et l'éducation de la petite enfance, et notamment des enfants les plus vulnérables et défavorisés
+Action 5 : Développement de l'Education Spéciale et de la protection des enfants handicapés | Identifier et étudier les besoins spéciaux d'offres éducatives et de protection des enfants de 0 à 6 ans Institutionnaliser et promouvoir l'Education Spéciale | Spécialisation en Education Spéciale dans les Centres spécialisés à l'extérieur des cadres nationaux; Accueil et existence des Centres de l'Education Spéciale dans tous les districts; | Existence d'au moins 5 spécialistes en Education dans le pays; Existence de 7 nouveaux Centres de l'Education Spéciale dans le pays |  | 2005 - 2010 2010 - 2015 | 150 000.00 86 000.00 108 000.00
 
 42
 
@@ -1214,13 +1277,13 @@ Action 1 : Création d'un cadre législatif en faveur de la Première Enfance | 
 
 [[START OF PAGE 44]]
 
-Le suivi des activités programmées par les communautés. Les initiatives privées | 2003 - 2015
+OBJECTIF 1 : Développer et améliorer sur tous leurs aspects la protection et l'éducation de la petite enfance, et notamment des enfants les plus vulnérables et défavorisés
+
+ |  |  |  | Le suivi des activités programmées par les communautés. Les initiatives privées | 2003 - 2015 |
 --- | --- | --- | --- | --- | --- | ---
 ACTIONS | OBJECTIFS | STRATEGIES | RESULTATS | ACTIVITES | PERIODE | COÜTS (USD)
 Action 2 : Promotion de la participation des communautés et des familles dans la mise en place des programmes de la première enfance | Stimuler les attitudes responsables des adultes, des parents, des familles et de la Société sur l a Première Enfance; | Etablissement des relations de coopération entre les institutions et les communautés | Prestation de services à la Première enfance par les ONG et les communautés organisées | Incitation aux réseaux de solidarité et d'appui | 2003 - 2015 | 39 000.00
 Action 3: Renforcement des partenariats multiples | Articuler plusieurs interventions en faveur de la Première Enfance | Etablissement des protocoles de coopération; Etablissement des partenariats bilatéraux, multilatéraux et inter-sectoriels | Existence de protocoles de coopération bilatérales et multilatérales dans le domaine de la Première Enfance bénéficiant tous les Districts du pays. | La signature des protocoles; | 2003 - 2015 | ________
-
-OBJECTIF 1 : Développer et améliorer sur tous leurs aspects la protection et l'éducation de la petite enfance, et notamment des enfants les plus vulnérables et défavorisés
 
 USD$ 9 146 367.00
 
@@ -1236,19 +1299,19 @@ USD$ 9 146 367.00
 
 ACTIONS | OBJECTIFS | STRATEGIES | RESULTATS | ACTIVITES | PERIODE | COÜTS (USD)
 --- | --- | --- | --- | --- | --- | ---
-Action 1 : Const ructio n de 320 nouv elles salles de classe s et réhab ilitati on de 100 salles | Elargir l'offre éducative dans l'enseignement primaire; Diminuer les difficultés d'accès à l'enseignement primaire; Garantir l'universalisation d'accès à scolarité basique jusqu'en 6ème | Affectation des ressources budgétaire et mobilisation des ressources externes -Ré encadrement et redéfinition du réseau scolaire - Gratuité des matériels et des moyens d'enseignement | Réseau scolaire avec des écoles réhabilitées et avec des salles suffisantes en tenant compte des normes; Disponibilités des matériels scolaires pour tous les élèves de l'enseignement basique | - Institutionnalisation de la micro planification et de la carte scolaire; - Etude de viabilité pour la mise en place de la scolarité basique jusqu'en 6ème classe Construção de 320 salas de aulas Reabilitação de 100 salas de aulas | 2003 - 2005 2003 2003 - 2015 2003 - 2015 | 194 000.00 5 400.00 8 000 000.00 1 700 000.00
-Action 2 : Formation régulière des professeurs | classe. Garantir le fonctionnement des écoles avec le personnel qualifié. | - Diversification des modalités de formation; - - Formation en masse du corps enseignant. | Existence d'un système de formation des professeurs diversifiés (initiale, continue et en | - Réalisation de cours de formation initiale et continue - Renforcement de la capacité institutionnelle en | 2003 - 2015 2003 - 2008 | 169 000.00 30 000.00
+Action 1 : Construction de 320 nouvelles salles de classes et réhabilitation de 100 salles | Elargir l'offre éducative dans l'enseignement primaire; Diminuer les difficultés d'accès à l'enseignement primaire; Garantir l'universalisation d'accès à scolarité basique jusqu'en 6ème classe. | Affectation des ressources budgétaire et mobilisation des ressources externes -Ré encadrement et redéfinition du réseau scolaire - Gratuité des matériels et des moyens d'enseignement | Réseau scolaire avec des écoles réhabilitées et avec des salles suffisantes en tenant compte des normes; Disponibilités des matériels scolaires pour tous les élèves de l'enseignement basique | - Institutionnalisation de la micro planification et de la carte scolaire; - Etude de viabilité pour la mise en place de la scolarité basique jusqu'en 6ème classe Construção de 320 salas de aulas Reabilitação de 100 salas de aulas | 2003 - 2005 2003 2003 - 2015 2003 - 2015 | 194 000.00 5 400.00 8 000 000.00 1 700 000.00
+Action 2 : Formation régulière des professeurs | Garantir le fonctionnement des écoles avec le personnel qualifié. | - Diversification des modalités de formation; - - Formation en masse du corps enseignant. | Existence d'un système de formation des professeurs diversifiés (initiale, continue et en | - Réalisation de cours de formation initiale et continue - Renforcement de la capacité institutionnelle en | 2003 - 2015 2003 - 2008 | 169 000.00 30 000.00
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
 
-exercice); | formation des professeurs; - Appui aux initiatives complémentaires privées de formation | 2003 - 2015 | 60 000.00
+Objectif 2: Faire en sorte que d'ici 2015 tous les enfants notamment les filles, les enfants en difficultés et ceux appartiennent a des minorités ethniques aient la possibilité d'accéder a un enseignement primaire obligatoire et gratuit de qualité et de le suivre jusqu'à son terme
+
+ |  |  | exercice); | formation des professeurs; - Appui aux initiatives complémentaires privées de formation | 2003 - 2015 | 60 000.00
 --- | --- | --- | --- | --- | --- | ---
 Action 3 : Réduction et élimination des disparités | Promouvoir l'équité et l'égalité des opportunités | Réhabilitions et la construction des écoles dans les endroits les plus reculés et d'accès difficile. | Ecoles des localités les plus et d'accès difficile en bon état | - Création de conditions locales de fonctionnement de petites écoles; - Institutionnalisation de l'enseignement spécial; - Institutionnalisation de l'appui social scolaire. | 2003- 2015 2003 2003 | 39 000.00 ______ ______
-Action 4 : Incitation aux écoles communauta ires et privées | Promouvoir et appuyer l'enseignement privé Stimuler les initiatives privées et communautaires | Encouragement des interventions favorables au renforcement de l'Enseignement Primaire | Appui donné aux initiatives d'enseignement privé; Complément d'apprentissages des élèves de l'enseignement basique avec des initiatives privées; | - Re dynamisation de la Loi de l'Enseignement Particulier; - Mise à disposition des ressources financières | 2003 - 2005 2003 - 2015 | 15 000.00
-
-Objectif 2: Faire en sorte que d'ici 2015 tous les enfants notamment les filles, les enfants en difficultés et ceux appartiennent a des minorités ethniques aient la possibilité d'accéder a un enseignement primaire obligatoire et gratuit de qualité et de le suivre jusqu'à son terme
+Action 4 : Incitation aux écoles communautaires et privées | Promouvoir et appuyer l'enseignement privé Stimuler les initiatives privées et communautaires | Encouragement des interventions favorables au renforcement de l'Enseignement Primaire | Appui donné aux initiatives d'enseignement privé; Complément d'apprentissages des élèves de l'enseignement basique avec des initiatives privées; | - Re dynamisation de la Loi de l'Enseignement Particulier; - Mise à disposition des ressources financières | 2003 - 2005 2003 - 2015 | 15 000.00
 
 46
 
@@ -1256,10 +1319,10 @@ Objectif 2: Faire en sorte que d'ici 2015 tous les enfants notamment les filles,
 
 [[START OF PAGE 47]]
 
+Objectif 2: Faire en sorte que d'ici 2015 tous les enfants notamment les filles, les enfants en difficultés et ceux appartiennent a des minorités ethniques aient la possibilité d'accéder a un enseignement primaire obligatoire et gratuit de qualité et de le suivre jusqu'à son terme
+
 Action 5 : Action sociale scolaire | Stimuler l 'accès et réduire les disparités géographiques et sociales | Introduction de mesures de discrimination positive | Existence d'un système d'action sociale scolaire; Progression et admission des enfants dans l'enseignement par le moyen de mesures de discrimination positive | Mise en place d'un réseau de transport scolaire; Institutionnalisation de Bourses Ecole aux plus défavorisés Programme pour les enfants de la rue | 2003 - 2006 2003 - 2015 2004 | 374 000.00 13 650 000.00 9 400.00
 --- | --- | --- | --- | --- | --- | ---
-
-Objectif 2: Faire en sorte que d'ici 2015 tous les enfants notamment les filles, les enfants en difficultés et ceux appartiennent a des minorités ethniques aient la possibilité d'accéder a un enseignement primaire obligatoire et gratuit de qualité et de le suivre jusqu'à son terme
 
 ##### COMPOSANTE : QUALITE
 
@@ -1273,11 +1336,11 @@ Action 1 : Réduction des redoublements et des l'abandon scolaire | Promouvoir l
 
 [[START OF PAGE 48]]
 
-- Introduction de nouvelles approches méthodologiques | 2004 - 2015 | 432 000.00
+Objectif 2: Faire en sorte que d'ici 2015 tous les enfants notamment les filles, les enfants en difficultés et ceux appartiennent a des minorités ethniques aient la possibilité d'accéder a un enseignement primaire obligatoire et gratuit de qualité et de le suivre jusqu'à son terme
+
+ |  |  |  | - Introduction de nouvelles approches méthodologiques | 2004 - 2015 | 432 000.00
 --- | --- | --- | --- | --- | --- | ---
 Action 2 : Re-formulation du cursus pour l'enseignement Mise à disposition des manuels scolaires | Améliorer la qualité de l'enseignement | - Etude et identification des changements du cursus - Renforcement des secteurs/domaines éducatifs plus carencés - Articulation du cursus de l'Enseignement Basique et la formation des professeurs. | Tous les manuels de l'enseignement basique reformulés en accord avec de nouveaux cursus | - Définition du but et des objectifs de l'enseignement; Approbation des curricula - Définition des compétences basiques du cursus et - Evaluation de l'impact du cursus dans l'apprentissage des élèves | 2004 2003 - 2006 | 324 000.00 324 000.00
-
-Objectif 2: Faire en sorte que d'ici 2015 tous les enfants notamment les filles, les enfants en difficultés et ceux appartiennent a des minorités ethniques aient la possibilité d'accéder a un enseignement primaire obligatoire et gratuit de qualité et de le suivre jusqu'à son terme
 
 48
 
@@ -1285,11 +1348,11 @@ Objectif 2: Faire en sorte que d'ici 2015 tous les enfants notamment les filles,
 
 [[START OF PAGE 49]]
 
-Action 3: Education spécialisée pour les jeunes en nécessité | Etude d'identification des domaines d'Education Spéciale Séminaire de formation des enseignants pour l'Education Spéciale Mise en place d'une réglementation adéquate | 2003 - 2006 2003 - 2006 2003 - 2006 | 80 000.00 4 000.00 7 000.00
+Objectif 2: Faire en sorte que d'ici 2015 tous les enfants notamment les filles, les enfants en difficultés et ceux appartiennent a des minorités ethniques aient la possibilité d'accéder a un enseignement primaire obligatoire et gratuit de qualité et de le suivre jusqu'à son terme
+
+Action 3: Education spécialisée pour les jeunes en nécessité |  |  |  | Etude d'identification des domaines d'Education Spéciale Séminaire de formation des enseignants pour l'Education Spéciale Mise en place d'une réglementation adéquate | 2003 - 2006 2003 - 2006 2003 - 2006 | 80 000.00 4 000.00 7 000.00
 --- | --- | --- | --- | --- | --- | ---
 Action 3 : Introduction de la Santé Scolaire dans le système éducatif | Intégrer l'Education, la Santé et la Nutrition des enfants en âge scolaire; Assurer la permanence et le bien- être des enfants | Promotion de l'articulation et collaboration institutionnelle dans les domaines de la Santé et de l'Education Etablissement des partenaires divers | Existence d'un secteur de Santé Scolaire avec des projets et des activités régulières pendant l'année scolaire | Vaccination des enfants Control nutritionnel; Responsabilisation et administration des suppléments, des vitamines et des minéraux aux enfants; Désinfection régulière du milieu scolaire | 2003 - 2015 2008 - 2015 2005 - 2015 | 1 191 000.00 576 000.00 99 000.00
-
-Objectif 2: Faire en sorte que d'ici 2015 tous les enfants notamment les filles, les enfants en difficultés et ceux appartiennent a des minorités ethniques aient la possibilité d'accéder a un enseignement primaire obligatoire et gratuit de qualité et de le suivre jusqu'à son terme
 
 49
 
@@ -1303,7 +1366,7 @@ Objectif 2: Faire en sorte que d'ici 2015 tous les enfants notamment les filles,
 
 ACTIONS | OBJECTIFS | STRATEGIES | RESULTATS | ACTIVITES | PERIODE | COÜTS (USD)
 --- | --- | --- | --- | --- | --- | ---
-Action 1 : Amélioration de la gestion institutionnelle de l'Enseignement de Base | Promouvoir l'efficience et l'efficacité dans la gestion et l'administration des établissements scolaires | Dotation des capacités et des compétences de gestion; Promotion de la planification systématisée et d'appui diversifié aux écoles | Gestion administrative des écoles d'Enseignement Basique selon les principes et les modèles plus modernes de la gestion | Formation des Directeurs et des Administrateurs scolaires; Formation de planificateurs de l'Education; Introduction de | Formation de 5 Directeurs: 2003 - 2005 Formation de 20 Directeurs : 2005 - 2007 Formation de 30 Directeurs: 2007 - 2009: Formation de 50 Directeurs: 2010 - 2015 Formation de 6 Planificateurs: 2003 - 2005 Formation de 15 planificateurs: 2006 - 2009: Formation de 20 planificateurs: 2010 - 2015 2003 - 2005 | 100 000.00 150 000.00 150 000.00 300 000.00 360 000.00 240 000.00 360 000.00 977 000.00
+Action 1 : Amélioration de la gestion institutionnelle de l'Enseignement de Base | Promouvoir l'efficience et l'efficacité dans la gestion et l'administration des établissements scolaires | Dotation des capacités et des compétences de gestion; Promotion de la planification systématisée et d'appui diversifié aux écoles | Gestion administrative des écoles d'Enseignement Basique selon les principes et les modèles plus modernes de la gestion | Formation des Directeurs et des Administrateurs scolaires; Formation de planificateurs de l'Education; Introduction de systèmes | Formation de 5 Directeurs: 2003 - 2005 Formation de 20 Directeurs : 2005 - 2007 Formation de 30 Directeurs: 2007 - 2009: Formation de 50 Directeurs: 2010 - 2015 Formation de 6 Planificateurs: 2003 - 2005 Formation de 15 planificateurs: 2006 - 2009: Formation de 20 planificateurs: 2010 - 2015 2003 - 2005 | 100 000.00 150 000.00 150 000.00 300 000.00 360 000.00 240 000.00 360 000.00 977 000.00
 
 50
 
@@ -1311,13 +1374,13 @@ Action 1 : Amélioration de la gestion institutionnelle de l'Enseignement de Bas
 
 [[START OF PAGE 51]]
 
+Objectif 2: Faire en sorte que d'ici 2015 tous les enfants notamment les filles, les enfants en difficultés et ceux appartiennent a des minorités ethniques aient la possibilité d'accéder a un enseignement primaire obligatoire et gratuit de qualité et de le suivre jusqu'à son terme
+
 d'information pour la gestion scolaire; Evaluation du travail dans les écoles. | 2005 - 2015 | ______
 --- | --- | --- | --- | --- | --- | ---
 ACTIONS | OBJECTIFS | STRATEGIES | RESULTATS | ACTIVITES | PERIODE | COÜTS (USD)
 Action 2 : Décentralisation du réseau scolaire | Améliorer la capacité de gestion pédagogique dans les écoles | Etude et mise en place des modèles organisationnels plus adaptés | Réseau scolaire organisé par Régions, Districts et groupements; Existante et prévalence des pratiques de décentralisation et de déconcentration dans la gestion des écoles de l'enseignement basique | Redéfinition du modèle organisationnel des écoles Affectation des ressources et des budgets Création des conditions et des incitations | 2003 2004 - 2005 2004 - 2005 | 3 500.00 ________ _______
-Action 3 : Implication des parents, des familles et des communautés dans | Promouvoir des relations entre l'Education et les communautés et établir des relations | Création et dynamisation des contrats sociaux de partenariat dans l'Education | Les parents et les familles participent régulièrement à vie de l'école | Appui aux réseaux des familles Journées ' Portes Ouvertes'; | 2003 - 2015 2003 - 2005 | 65 000.00
-
-Objectif 2: Faire en sorte que d'ici 2015 tous les enfants notamment les filles, les enfants en difficultés et ceux appartiennent a des minorités ethniques aient la possibilité d'accéder a un enseignement primaire obligatoire et gratuit de qualité et de le suivre jusqu'à son terme
+Action 3 : Implication des parents, des familles et des communautés dans | Promouvoir des relations entre l'Education et les communautés et établir des relations | Création et dynamisation des contrats sociaux de partenariat dans l'Education | Les parents et les familles participent régulièrement à vie de l'école | Appui aux réseaux des familles Journées “ Portes Ouvertes”; | 2003 - 2015 2003 - 2005 | 65 000.00
 
 51
 
@@ -1325,10 +1388,10 @@ Objectif 2: Faire en sorte que d'ici 2015 tous les enfants notamment les filles,
 
 [[START OF PAGE 52]]
 
+Objectif 2: Faire en sorte que d'ici 2015 tous les enfants notamment les filles, les enfants en difficultés et ceux appartiennent a des minorités ethniques aient la possibilité d'accéder a un enseignement primaire obligatoire et gratuit de qualité et de le suivre jusqu'à son terme
+
 la vie scolaire | de partenariat | Les parents et les responsables de l'éducation présents dans les organes de gestion des écoles | Création de Associations des parents Conseils de l'Ecole
 --- | --- | --- | ---
-
-Objectif 2: Faire en sorte que d'ici 2015 tous les enfants notamment les filles, les enfants en difficultés et ceux appartiennent a des minorités ethniques aient la possibilité d'accéder a un enseignement primaire obligatoire et gratuit de qualité et de le suivre jusqu'à son terme
 
 USD $ 32 058 300.00
 
@@ -1345,7 +1408,7 @@ USD $ 32 058 300.00
 ACTIONS | OBJECTIFS | STRATEGIES | RESULTATS | ACTIVITES | PERIODE | COÜTS (USD)
 --- | --- | --- | --- | --- | --- | ---
 Action 1: Restructuration de L'Enseignement Secondaire | Préparer les jeunes à la vie active; Diversifier les offres éducatives | Reforme Educative insistant sur un profil de sortie dans l'Enseignement Secondaire | Existence d'un cadre juridique légal s'articulant entre l'Enseignement Secondaire et l'Enseignement Professionnel; Renforcement et élargissement à toutes les capitales du district des Cours du Soir ; Cursus de l'Enseignement Secondaire diversifié et flexible | Reforme du cursus et des programmes de l'Enseignement Secondaire ; Restructuration du réseau des écoles; Recrutement des enseignants Articulation avec des écoles professionnelles; Institutionnalisation des Cours du Soir | 2006 - 2008 2008 - 2015 2008 - 2015 | 162 000.00 ______ 216 000.00 _____ ______
-Action 2 : Création des Ecoles Professionnelles | Elargir le système de formation pour les jeunes; Orienter les jeunes vers un domaine professionnel | Intervention dans domaines économiques émergents | Des Ecoles professionnelles de plusieurs niveaux en fonctionnement dans au moins trois districts et trois domaines professionnels (pratique, général et | Renforcement et re- dynamisation du cadre normatif; Construction des Ecoles Professionnelles de plusieurs niveaux; | Renforcement: 2006 Construction: 2008 - 2012 | 54 000.00 18 000 00.00
+Action 2 : Création des Ecoles Professionnelles | Elargir le système de formation pour les jeunes; Orienter les jeunes vers un domaine professionnel | Intervention dans domaines économiques émergents | Des Ecoles professionnelles de plusieurs niveaux en fonctionnement dans au moins trois districts et trois domaines professionnels (pratique, général et | Renforcement et re-dynamisation du cadre normatif; Construction des Ecoles Professionnelles de plusieurs niveaux; | Renforcement: 2006 Construction: 2008 - 2012 | 54 000.00 18 000 000.00
 
 [[END OF PAGE 53]]
 
@@ -1370,7 +1433,7 @@ Objectif 3 : Répondre aux besoins éducatifs de tous les jeunes et de tous les 
 
 ACTIONS | OBJECTIFS | STRATEGIES | RESULTATS | ACTIVITES | PERIODE | COÜTS (USD)
 --- | --- | --- | --- | --- | --- | ---
-Action 3 : Re-dynamisation des Centres Polytechniques, CATAP, CENFOPA et CEFP | Réactiver les Centres de formation professionnelle adaptés aux besoins réels et contextuels du développement du pays | Introduction de mécanismes de l'autonomie de gestion; Etablissement de partenariats avec le secteur privé dans la gestion et l'entretien de ces Centres | Augmentation de possibilités de formations professionnelles pour les jeunes; Création de nouvelles formations | Renforcement et re- dynamisation du cadre normatif; Diversification des pôles de formation; Mobilisation de financements; Formation de formateurs; Préparation de protocoles; Equipement des Centres; Reforme du cursus des cours professionnels; Etudes du marché de l'emploi | 2003 - 2005 2008 - 2015 2003 - 2005 2004 - 2007 2003 e 2006 2006 2006 2006 | 32 400.00 300 800.00 ______ 600 000.00 _______ _______ 21 600.00 80 000.00
+Action 3 : Re-dynamisation des Centres Polytechniques, CATAP, CENFOPA et CEFP | Réactiver les Centres de formation professionnelle adaptés aux besoins réels et contextuels du développement du pays | Introduction de mécanismes de l'autonomie de gestion; Etablissement de partenariats avec le secteur privé dans la gestion et l'entretien de ces Centres | Augmentation de possibilités de formations professionnelles pour les jeunes; Création de nouvelles formations | Renforcement et re-dynamisation du cadre normatif; Diversification des pôles de formation; Mobilisation de financements; Formation de formateurs; Préparation de protocoles; Equipement des Centres; Reforme du cursus des cours professionnels; Etudes du marché de l'emploi | 2003 - 2005 2008 - 2015 2003 - 2005 2004 - 2007 2003 e 2006 2006 2006 2006 | 32 400.00 300 800.00 ______ 600 000.00 _______ _______ 21 600.00 80 000.00
 
 55
 
@@ -1397,8 +1460,8 @@ Objectif 3 : Répondre aux besoins éducatifs de tous les jeunes et de tous les 
 
 .
 
-Action 6: Stimulation à l'auto-emploi | Promouvoir l'auto- emploi et la reconversion professionnelle des jeunes et des adultes | Appui à la création des micro-entreprises juvéniles comme réponse à l'encadrement dans le marché de travail. | Nombre de micro- entreprises créées par les jeunes et adultes intégrés dans les programmes spécifiques | Cours pour le perfectionnement et la gestion des micro- entreprises; Conception des projets; Mobilisation de financements; Lignes de crédit d'appui aux jeunes. | 2005 -2007 2004 - 2015 2004 - 2005 3 phases: 1 e phase: expérimentale: 2006 - 2007 2 e phase: élargissement: 2007 - 2010 3 e phase: Généralisation et consolidation: 2010 - 2015
---- | --- | --- | --- | --- | ---
+Action 6: Stimulation à l'auto-emploi | Promouvoir l'auto-emploi et la reconversion professionnelle des jeunes et des adultes | Appui à la création des micro-entreprises juvéniles comme réponse à l'encadrement dans le marché de travail. | Nombre de micro-entreprises créées par les jeunes et adultes intégrés dans les programmes spécifiques | Cours pour le perfectionnement et la gestion des micro-entreprises; Conception des projets; Mobilisation de financements; Lignes de crédit d'appui aux jeunes. | 2005 -2007 2004 - 2015 2004 - 2005 3 phases: 1e phase: expérimentale: 2006 - 2007 2e phase: élargissement: 2007 - 2010 3e phase: Généralisation et consolidation: 2010 - 2015 | 630 000.00 110 000.00 50 000 150 000 250 000
+--- | --- | --- | --- | --- | --- | ---
 
 57
 
@@ -1415,7 +1478,7 @@ Objectif 3 : Répondre aux besoins éducatifs de tous les jeunes et de tous les 
 ACTIONS | OBJECTIFS | STRATÉGIES | RESULTATS | ACTIVITES | PERÍODE | COÛT (USD)
 --- | --- | --- | --- | --- | --- | ---
 Action 1 : Formation et développement professionnelle des professeurs | Améliorer la qualité de l'enseignement secondaire et le niveau de prestation de corps enseignement | Renforcement du Système National de Formation des Enseignants pour l'Enseignement Secondaire; Diversification des modalités de formation des professeurs. | 80% de professeurs formés de l'Enseignement Secondaire ; Système de formation continue mise en place régulièrement; Existence des projets de formation des professeurs de l'Enseignement Secondaire | Formation annuelle des professeurs pour l'Enseignement Secondaire Stages pour les formateurs; Formation continue pour les professeurs de l'Enseignement Secondaire ; Institutionnalisation d'un Système d' Appui Technique aux Professeurs de l' Enseignement Secondaire. | 2005 - 2010 2004 - 2005 2007 - 2015 2006 - 2007 | 165 000.00 700 000.00 24 000.00 96 000.00
-Action 2 : Re-dynamisation d'appui pedagogique- didactique dans l'Enseignement | Améliorer les compétences technique- pedagogiques des professeurs de l'Enseignement | Dynamisation et création des Centres de Ressources pour l'Appui Pédagogique; Mise en place de la | 7 Centres de Ressources créés, équipés et fonctionnels; Effectivité de l'appui pédagogique à travers | Fourniture et l'équipement aux écoles secondaires de bibliothèques scientifiques; | 2006 | 350 000.00
+Action 2 : Re-dynamisation d'appui pedagogique-didactique dans l'Enseignement | Améliorer les compétences technique-pedagogiques des professeurs de l'Enseignement | Dynamisation et création des Centres de Ressources pour l'Appui Pédagogique; Mise en place de la | 7 Centres de Ressources créés, équipés et fonctionnels; Effectivité de l'appui pédagogique à travers | Fourniture et l'équipement aux écoles secondaires de bibliothèques scientifiques; | 2006 | 350 000.00
 
 58
 
@@ -1430,7 +1493,7 @@ Objectif 3 : Répondre aux besoins éducatifs de tous les jeunes et de tous les 
 Secondaire | Secondaire | modalité d'enseignement à distance avec des ressources audiovisuelles et NTIC | l'articulation ISP - Ecoles Secondaires et Centres de Ressources | Equipement des laboratoires ; Décentralisation de l'appui pédagogique pour l'Enseignement Secondaire | 2007 - 2008 2003 - 2005 | 1 000 000.00 210 000.00
 --- | --- | --- | --- | --- | --- | ---
 ACTIONS | OBJECTIFS | STRATÉGIES | RESULTATS | ACTIVITES | PERÍODE | COÛT (USD)
-Action 3 : Incitation à la création des écoles privées de l'enseignement secondaire et technique- professionnel | Diversifier les chances de formation des jeunes ; Promouvoir la participation du secteur privé dans l'enseignement et la formation des jeunes | Etablissement des partenariats et la coopération entre l'Etat et la Société Civile; Canalisation d'investissements pour le secteur de formation des jeunes. | Existence des écoles secondaires privées avec la capacité totale d'absorption de 20% de la population qui peut fréquenter ; Programmes d'investissement d'appui aux initiatives privées de formation des jeunes. | Crédits et dons aux initiatives privées; Stimulation à l'associativité juvénile; Approbation de législation et élaboration de normatives; Mise en place des mécanismes de coordination et d'appui aux initiatives des jeunes Fiscalisation et contrôle; Mobilisation des ressources financières; | 2008 - 2015 2004 - 2015 2004 - 2006 2004 - 2015 2004 - 2015 2003 - 2005 | 300 000.00 252 000.00 16 200.00 ______ ______ _____
+Action 3 : Incitation à la création des écoles privées de l'enseignement secondaire et technique-professionnel | Diversifier les chances de formation des jeunes ; Promouvoir la participation du secteur privé dans l'enseignement et la formation des jeunes | Etablissement des partenariats et la coopération entre l'Etat et la Société Civile; Canalisation d'investissements pour le secteur de formation des jeunes. | Existence des écoles secondaires privées avec la capacité totale d'absorption de 20% de la population qui peut fréquenter ; Programmes d'investissement d'appui aux initiatives privées de formation des jeunes. | Crédits et dons aux initiatives privées; Stimulation à l'associativité juvénile; Approbation de législation et élaboration de normatives; Mise en place des mécanismes de coordination et d'appui aux initiatives des jeunes Fiscalisation et contrôle; Mobilisation des ressources financières; | 2008 - 2015 2004 - 2015 2004 - 2006 2004 - 2015 2004 - 2015 2003 - 2005 | 300 000.00 252 000.00 16 200.00 ______ ______ _____
 
 59
 
@@ -1475,7 +1538,7 @@ Réglementation des cadres législatifs de la Gestion Participative; | 2006 | 5 
 --- | --- | --- | --- | --- | --- | ---
 ACTIONS | OBJECTIFS | STRATÉGIES | RESULTATS | ACTIVITES | PERÍODE | COÛT (USD)
 Action 2 : Articulation institutionnelle des interventions sectorielles en faveur de la jeunesse | Coordonner et rentabiliser les actions de promotion des besoins des jeunes | Centralisation de l'articulation des politiques et des interventions. | Création d'une instance nationale de coordination avec les représentions régionales et sectorielles | Recensements des interventions en faveur de la Jeunesse; Formulation des priorités dans l'exécution des actions en faveur de la jeunesse; Organisation et coordination du cadre de fonctionnement | 2004 2004 2004 | 5 400.00 4 000.00 ______
-Action 3 : Création du cadre institutionnel de fonctionnement des centres d'intérêts des jeunes et des adultes | Amélioration du niveau d'organisation et de performance des institutions; Perfectionner le modèle de gestion institutionnelle des | Implication de la Société civile et des communautés dans le soutien des centres; Création des synergies entre la Culture, l'Education, le sport et la jeunesse pour la | Création de 3 espaces multifonctions (type AGORA ) pour les jeunes, gérés efficacement. | Approbation du cadre légal; Affectation et mobilisation des ressources; Mobilisation sociale. | 2004 - 2005 2003 - 2004 2003 | 5 400.00 ____ 40 000.00
+Action 3 : Création du cadre institutionnel de fonctionnement des centres d'intérêts des jeunes et des adultes | Amélioration du niveau d'organisation et de performance des institutions; Perfectionner le modèle de gestion institutionnelle des | Implication de la Société civile et des communautés dans le soutien des centres; Création des synergies entre la Culture, l'Education, le sport et la jeunesse pour la | Création de 3 espaces multifonctions (type AGORA) pour les jeunes, gérés efficacement. | Approbation du cadre légal; Affectation et mobilisation des ressources; Mobilisation sociale. | 2004 - 2005 2003 - 2004 2003 | 5 400.00 ____ 40 000.00
 
 62
 
@@ -1512,13 +1575,13 @@ Action 2 : Développement de l'éducation non formelle | Augmenter le niveau de 
 
 [[START OF PAGE 65]]
 
+Objectif4 : Améliorer de 50 %  le niveau d'alphabétisation des adultes, et notamment des femmes d'ici à 2015 et assurer à tous les adultes un accès équitable aux programmes d'éducation de base et de l'éducation permanente.
+
 jeunes et adultes porteurs de déficience;
 --- | --- | --- | --- | --- | --- | ---
 ACTION | OBJECTIFS | STRATÉGIES | RESULTATS | ACTIVITES | PERÍODE | COUT (USD)
 Action 3 : Formation des animateurs pour l'alphabétisation des adultes | Créer un nombre suffisant d'animateurs qualifiés pour l'expérimentation de l'alphabétisation; Promouvoir la participation de tous en faveur des activités de l'alphabétisation | Recrutement de jeunes et implication des associations, des ONG et des églises; Décentralisation des actions de formation | Formation régulière des animateurs de l'alphabétisation Existence de projets d'alphabétisation réalisés par les ONG et les églises; Contacts institutionnels réguliers avec la société civile sur l'alphabétisme. | Organisation et constitution des cellules régionales et locales de formation des animateurs Elaboration des programmes de formation | 2004 2004 | ______ 27 000.00
 Action 4 : Réduction de l'alphabétisme | Réduire de 27% à 10% l'analphabétisme de la population des adultes | Intensification des actions chez les femmes; Etablissement de partenariats avec les ONG, pour la dynamisation de l'alphabétisation dans les groupes vulnérables | Taux d'analphabétisme inférieur à 10% Accélération de l'augmentation du taux d'alphabétisation des filles et des femmes ; Projets d'alphabétisation fonctionnelle dans les groupes plus vulnérables Projets | Identification de partenaires potentiels; Application de protocoles de coopération et collaboration avec les ONG et la société civile Formation/Elaboration de projets d'alphabétisation fonctionnelle | 2003 - 2004 2003 - 2015 2004 - 2010 | _____ ______ 70 000.00
-
-Objectif4 : Améliorer de 50 %  le niveau d'alphabétisation des adultes, et notamment des femmes d'ici à 2015 et assurer à tous les adultes un accès équitable aux programmes d'éducation de base et de l'éducation permanente.
 
 65
 
@@ -1526,11 +1589,11 @@ Objectif4 : Améliorer de 50 %  le niveau d'alphabétisation des adultes, et not
 
 [[START OF PAGE 66]]
 
+Objectif4 : Améliorer de 50 %  le niveau d'alphabétisation des adultes, et notamment des femmes d'ici à 2015 et assurer à tous les adultes un accès équitable aux programmes d'éducation de base et de l'éducation permanente.
+
 d'alphabétisation fonctionnelle dans les groupes les plus vulnérables (femmes, marchandes, pêcheurs, minorités ethniques)
 --- | --- | --- | --- | --- | --- | ---
 Action 5 : Développement des Campagnes d'Alphabétisation | Revitaliser augmenter successivement la participation dans l'alphabétisation des adultes | Utilisation des moyens de communication sociale; Utilisation des associations, des communautés, des institutions politiques, religieuses, et culturelles, des ONG etc. en vue d'une participation dans les campagnes | Alphabétisation des adultes à intervalles réguliers dans les Médias (Radio et TV); Au moins 3 Campagnes d'Alphabétisation jusqu'à 2015 | Réalisation de cycles annuels de campagnes; Création d'un Comité National d'Alphabétisation Organisation des campagnes. | 2004 - 2015 2003 | 240 000.00 78 000.00
-
-Objectif4 : Améliorer de 50 %  le niveau d'alphabétisation des adultes, et notamment des femmes d'ici à 2015 et assurer à tous les adultes un accès équitable aux programmes d'éducation de base et de l'éducation permanente.
 
 66
 
@@ -1553,10 +1616,10 @@ Action 2 : Elaboration du cursus et programme d'alphabétisation des adultes | A
 
 [[START OF PAGE 68]]
 
+Objectif4 : Améliorer de 50 %  le niveau d'alphabétisation des adultes, et notamment des femmes d'ici à 2015 et assurer à tous les adultes un accès équitable aux programmes d'éducation de base et de l'éducation permanente.
+
 éducatives; Existence d'un matériel adapté aux réalités socioculturelles du pays;
 ---
-
-Objectif4 : Améliorer de 50 %  le niveau d'alphabétisation des adultes, et notamment des femmes d'ici à 2015 et assurer à tous les adultes un accès équitable aux programmes d'éducation de base et de l'éducation permanente.
 
 ##### COMPOSANTE : GESTION
 
@@ -1573,7 +1636,7 @@ Action 2 : Renforcement institutionnel du secteur de l'Education Non | Améliore
 
 Objectif4 : Améliorer de 50 %  le niveau d'alphabétisation des adultes, et notamment des femmes d'ici à 2015 et assurer à tous les adultes un accès équitable aux programmes d'éducation de base et de l'éducation permanente.
 
-Formelle | l'Education Non Formelle | l'Education Non Formelle; Projets de recherche- action dans le domaine de l'Education Permanente
+Formelle | l'Education Non Formelle | l'Education Non Formelle; Projets de recherche-action dans le domaine de l'Education Permanente
 --- | --- | ---
 
 USD$ 5 153 200.00
@@ -1597,12 +1660,12 @@ Action 2 : Identification, caractérisation et localisation des disparités des 
 
 [[START OF PAGE 71]]
 
-ACTION | PERÍODE | COUT
---- | --- | --- | --- | --- | --- | ---
-Action 3 : Elaboration et expérimentation d'un plan d'action spécifique pour les zones de grandes disparités | Réduire les disparités et promouvoir l'équité Augmenter l'accès et la rétention des filles à l'école | Dynamisation et intensification des actions localisées avec l l'intervention de multiples acteurs sociaux | Intervention intense pour les grandes disparités; Inexistence de disparités dans l'accès et rétention dans l'Education. | Mobilisation sociale; Préparation et organisation des interventions par les entités ; Coordination/ Auscultation et la validité du plan; Adoption des mesures de compensation pour les filles défavorisées | 2004 2004 - 2005 2005 2006 - 2015 | (USD) ____ ______ ______ ______
-Action 4 : Introduction et mise en place d'un système de bourses d'études pour les filles | Augmenter l'accès et la permanence des filles dans le système éducatif | Le recueil et l'étude de l'impact Abordage de discrimination positive | Bourses d'études régulières pour un nombre des filles de région défavorisées en égalité avec les garçons ; | Enquêtes; Etudes; Elaboration des propositions; | 2004, 2009 et 2012 2004 - 2012 2004 | (Voir Obj3 PNA)
-
 Objectif  5 : Eliminer les disparités entre les sexes dans l'enseignement primaire et secondaire jusqu'à  2015 et y  instaurer l'égalité  en veillant notamment à assurer aux filles un accès équitable et sans restriction à une éducation de base de qualité avec les mêmes chances de réussite
+
+ACTION | OBJECTIFS | STRATÉGIES | RESULTATS | ACTIVITES | PERÍODE | COUT (USD)
+--- | --- | --- | --- | --- | --- | ---
+Action 3 : Elaboration et expérimentation d'un plan d'action spécifique pour les zones de grandes disparités | Réduire les disparités et promouvoir l'équité Augmenter l'accès et la rétention des filles à l'école | Dynamisation et intensification des actions localisées avec l l'intervention de multiples acteurs sociaux | Intervention intense pour les grandes disparités; Inexistence de disparités dans l'accès et rétention dans l'Education. | Mobilisation sociale; Préparation et organisation des interventions par les entités ; Coordination/ Auscultation et la validité du plan; Adoption des mesures de compensation pour les filles défavorisées | 2004 2004 - 2005 2005 2006 - 2015 | ____ ______ ______ ______
+Action 4 : Introduction et mise en place d'un système de bourses d'études pour les filles | Augmenter l'accès et la permanence des filles dans le système éducatif | Le recueil et l'étude de l'impact Abordage de discrimination positive | Bourses d'études régulières pour un nombre des filles de région défavorisées en égalité avec les garçons ; | Enquêtes; Etudes; Elaboration des propositions; | 2004, 2009 et 2012 2004 - 2012 2004 | (Voir Obj3 PNA)
 
 71
 
@@ -1610,10 +1673,10 @@ Objectif  5 : Eliminer les disparités entre les sexes dans l'enseignement prima
 
 [[START OF PAGE 72]]
 
+Objectif  5 : Eliminer les disparités entre les sexes dans l'enseignement primaire et secondaire jusqu'à  2015 et y  instaurer l'égalité  en veillant notamment à assurer aux filles un accès équitable et sans restriction à une éducation de base de qualité avec les mêmes chances de réussite
+
 Mobilisation de financement/ressources ; Organisation et mise en place du processus de bourses | 2004 2005 - 2015
 --- | ---
-
-Objectif  5 : Eliminer les disparités entre les sexes dans l'enseignement primaire et secondaire jusqu'à  2015 et y  instaurer l'égalité  en veillant notamment à assurer aux filles un accès équitable et sans restriction à une éducation de base de qualité avec les mêmes chances de réussite
 
 72
 
@@ -1642,7 +1705,7 @@ Objectif  5 : Eliminer les disparités entre les sexes dans l'enseignement prima
 
 ACTION | OBJECTIFS | STRATÉGIES | RESULTATS | ACTIVITES | PERÍODE | COUT (USD)
 --- | --- | --- | --- | --- | --- | ---
-Action 1 : Création d'un Observatoire du Genre | Proposer des mesures sur les questions du genre Accompagner l'évolution des indicateurs Garantir la coordination et l'articulation des interventions des plusieurs secteurs | Concertations verticale et horizontale des secteurs, des organismes et des domaines qui interviennent dans les politiques du genre Rencontres sectorielles périodiques de suivie et d'évaluation Intégration des structures clés du système éducatif dans l'Observatoire du Genre | Observatoire du Genre institutionnalisé et en fonctionnement; Indicateurs sur les genres actualisés et divulgués régulièrement; Création d'une Base de Données | Expertise Désignation des responsables ; Définition et préparation du cadre législatif ; Organisation et préparation des conditions de fonctionnement de l' Observatoire du Genre Définition et élaboration d'un plan d'action spécifique de l'Observatoire; Evaluation et le suivie de la | 2004 2004 2004 2004 2005 - 2015 | 32 400.00 _______ ________ ______ ______
+Action 1 : Création d'un Observatoire du Genre | Proposer des mesures sur les questions du genre Accompagner l'évolution des indicateurs Garantir la coordination et l'articulation des interventions des plusieurs secteurs | Concertations verticale et horizontale des secteurs, des organismes et des domaines qui interviennent dans les politiques du genre Rencontres sectorielles périodiques de suivie et d'évaluation Intégration des structures clés du système éducatif dans l'Observatoire du Genre | Observatoire du Genre institutionnalisé et en fonctionnement; Indicateurs sur les genres actualisés et divulgués régulièrement; Création d'une Base de Données | Expertise Désignation des responsables ; Définition et préparation du cadre législatif ; Organisation et préparation des conditions de fonctionnement de l'Observatoire du Genre Définition et élaboration d'un plan d'action spécifique de l'Observatoire; Evaluation et le suivie de la | 2004 2004 2004 2004 2005 - 2015 | 32 400.00 _______ ________ ______ ______
 
 74
 
@@ -1650,13 +1713,13 @@ Action 1 : Création d'un Observatoire du Genre | Proposer des mesures sur les q
 
 [[START OF PAGE 75]]
 
+Objectif  5 : Eliminer les disparités entre les sexes dans l'enseignement primaire et secondaire jusqu'à  2015 et y  instaurer l'égalité  en veillant notamment à assurer aux filles un accès équitable et sans restriction à une éducation de base de qualité avec les mêmes chances de réussite
+
 situation
 --- | --- | --- | --- | --- | --- | ---
 Action 2 : Renforcement de partenariats (nationaux et internationaux ) | Consolider les gains de l'équité et l'égalité des genres | Concertation et coopération dans les interventions sur la problématique du genre entre l'Education et les partenaires nationaux et internationaux | Nombre de protocoles de partenariats et actions développés conjointement avec des organisations /partenaires | Expertise juridiques Protocoles; Législation; Planification des actions conjointes | 2004 2004 - 2005 2005 | 5 400.00 ____ ______
 ACTION | OBJECTIFS | STRATÉGIES | RESULTATS | ACTIVITES | PERÍODE | COUT (USD)
-Action 3 : Elimination des obstacles sociaux et institutionnels qui empêchent la scolarisation des filles | Produire des transformations culturelles dans l'Ecole introduire de nouvelles valeurs dans l'Education ; Diminuer le taux d'abandon scolaire chez les filles | Systématisation des normes et des pratiques institutionnelles en faveur de la scolarisation des filles | Taux élevés de rétention des filles à tous les niveaux d'enseignement ; Nombres de filles 'expulsées' du système scolaire pour des raisons non - académiques réduit graduellement à zéro | Révision des préceptes légaux; Inventaire des contraintes et des obstacles; Approbation des textes juridiques et normatifs; Discussion des thèmes et des documents; Production des matériels de | 2003 - 2004 2003 2005 - 2006 2003 - 2010 2005 - 2006 | 10 800.00 _____ ______ 4 000.00 _____
-
-Objectif  5 : Eliminer les disparités entre les sexes dans l'enseignement primaire et secondaire jusqu'à  2015 et y  instaurer l'égalité  en veillant notamment à assurer aux filles un accès équitable et sans restriction à une éducation de base de qualité avec les mêmes chances de réussite
+Action 3 : Elimination des obstacles sociaux et institutionnels qui empêchent la scolarisation des filles | Produire des transformations culturelles dans l'Ecole introduire de nouvelles valeurs dans l'Education ; Diminuer le taux d'abandon scolaire chez les filles | Systématisation des normes et des pratiques institutionnelles en faveur de la scolarisation des filles | Taux élevés de rétention des filles à tous les niveaux d'enseignement ; Nombres de filles “expulsées” du système scolaire pour des raisons non – académiques réduit graduellement à zéro | Révision des préceptes légaux; Inventaire des contraintes et des obstacles; Approbation des textes juridiques et normatifs; Discussion des thèmes et des documents; Production des matériels de | 2003 - 2004 2003 2005 - 2006 2003 - 2010 2005 - 2006 | 10 800.00 _____ ______ 4 000.00 _____
 
 75
 
@@ -1688,25 +1751,23 @@ Action 1 : Amélioration de la planification du système éducatif | Permettre u
 [[END OF PAGE 77]]
 
 [[START OF PAGE 78]]
+OBJECTIF 6 : Améliorer sur tous ses aspects la qualité de l'éducation dans un soucis d'excellence de façon à obtenir pour tous, des résultats d'apprentissage reconnus et quantifiables, notamment en ce qui concerne la lecture, l'écriture et le calcul et les compétences indispensables dans la vie courante
 
 Réseau scolaire équilibré et redimensionné Existences de plans prospectifs du réseau scolaire au niveau des districts et au niveau national; | 2010 - 2015 2008
 --- | --- | --- | --- | --- | --- | ---
 ACTION | OBJECTIFS | STRATÉGIES | RESULTATS | ACTIVITES | PERÍODE | COUT (USD)
 Action 2 : Institutionnalisation et développement de l'action sociale scolaire | Stimuler l'accès aux enfants les plus défavorisés; Réduire les abandons scolaires | Création et perfectionnement du domaine appui social scolaire dans le contexte institutionnel du MEC à tous les niveaux ( national, régional et au niveau du district ); Resserrement des relations et collaboration avec la société civile | Enfants défavorisés aidés par les programmes multiples de l'action scolaire; Augmentation progressive des taux d'admission, de retentions et de fin de cycles Augmentation des taux de pré | Identification et recensement des familles défavorisées; Préparation et exécution du programme Bourse Scolaire; Mise en place et attribution du système de micro- crédits aux | 2006 2003 - 2004 Graduellement inférieurs jusqu'à l'annulation : 2004 - 2006 | 54 000.00 ______ _______
 
-OBJECTIF 6 : Améliorer sur tous ses aspects la qualité de l'éducation dans un soucis d'excellence de façon à obtenir pour tous, des résultats d'apprentissage reconnus et quantifiables, notamment en ce qui concerne la lecture, l'écriture et le calcul et les compétences indispensables dans la vie courante
-
 78
 
 [[END OF PAGE 78]]
 
 [[START OF PAGE 79]]
+OBJECTIF 6 : Améliorer sur tous ses aspects la qualité de l'éducation dans un soucis d'excellence de façon à obtenir pour tous, des résultats d'apprentissage reconnus et quantifiables, notamment en ce qui concerne la lecture, l'écriture et le calcul et les compétences indispensables dans la vie courante
 
 pour l'identification,, la discussion et le contrôle de l'appui scolaire | scolarisation et de scolarisation dans les localités périphériques | familles qui utilisent les enfants comme force de travail; Fournissement de Kits de matériels gratuits; | 2004 - 2015 | 107 099
 --- | --- | --- | --- | --- | --- | ---
 Action 3: Mobilisation de professeurs qualifiés pour exercer dans les zones les plus défavorisées | Garantir un corps enseignant qualifié et professionnel dans toutes les régions du pays | Stimuler le recrutement local des candidats à un poste d'enseignant | Etablissement et accomplissement des quotas minimum de 80% de professeurs qualifiés et formés dans toutes les écoles du pays | Création de primes salariales, d'autres stimulants et indemnités; Promotion dans la carrière enseignante; Construction de logements pour les professeurs dans les localités les plus nécessiteuses | 2004 - 2015 2004 - 2015 2005 - 2007 | 2 016 000.00 _____ 1 200 000.00
-
-OBJECTIF 6 : Améliorer sur tous ses aspects la qualité de l'éducation dans un soucis d'excellence de façon à obtenir pour tous, des résultats d'apprentissage reconnus et quantifiables, notamment en ce qui concerne la lecture, l'écriture et le calcul et les compétences indispensables dans la vie courante
 
 79
 
@@ -1721,13 +1782,14 @@ OBJECTIF 6 : Améliorer sur tous ses aspects la qualité de l'éducation dans un
 ACTION | OBJECTIFS | STRATÉGIES | RESULTATS | ACTIVITES | PERÍODE | COUT (USD)
 --- | --- | --- | --- | --- | --- | ---
 Action 1 : Préparation et mise en place de la Réforme Educative | Adapter le système éducatif aux nouveaux défis de développement du pays | Coordination et articulation de la stratégie Nationale de l'Education, EPT, Plans et Programmes de développement national ; Mise en place du régime selon une approche participative impliquant les forces vives de la nation | Nouvelle Loi de Base du Système Educatif officialisée ; Structure et organisation du système éducatif reformulé et adapté aux nouvelles finalités de l'éducation; Mécanisme de l'évaluation des résultats et le suivi de l'accomplissement du travail institutionnalisé et introduit régulièrement dans le système | Séminaire Auscultation nationale de plusieurs secteurs impliqués ( sociaux, politiques et économiques) Conclusion du Plan d'Action EPT; Elaboration de la stratégie Nationale de l'Education; Définition des grandes finalités de l'Education; Identification des priorités de développement national; | 2002 - 2003 2002 - 2003 2003 2003 | 150 000.00 _____ _______ ______
-Action 2 : Institutionnalisatio n d'un système | Reformuler et réorienter l'apprentissage des | Création et mise en place d'un réseau d'information | Existence d'un organe central d'accompagnement et | Introduction de procédés administratifs; Définition des organes de | 2003 | ______
+Action 2 : Institutionnalisation d'un système | Reformuler et réorienter l'apprentissage des | Création et mise en place d'un réseau d'information | Existence d'un organe central d'accompagnement et | Introduction de procédés administratifs; Définition des organes de | 2003 | ______
 
 80
 
 [[END OF PAGE 80]]
 
 [[START OF PAGE 81]]
+OBJECTIF 6 : Améliorer sur tous ses aspects la qualité de l'éducation dans un soucis d'excellence de façon à obtenir pour tous, des résultats d'apprentissage reconnus et quantifiables, notamment en ce qui concerne la lecture, l'écriture et le calcul et les compétences indispensables dans la vie courante
 
 d'information sur le cursus et les programmes | élèves Renforcer la gestion institutionnelle et pédagogique du système éducatif | pédagogique et méthodologique à partir de l'école; Renfort et diversification du secteur d'appui méthodologique du système | d'évaluation du cursus et des programmes; Programmes modifiés de 7 à 7 ans; Etudes réalisées sur les programmes et les cursus | gestion et de coordination Etude et conception de modèle Acquisition des équipements pour la constitution de Bases de Données ; Conception et création de Bases de Données | 2003 2003 2003 - 2004 2004 | _________ ________ 30 000.00 _____
 --- | --- | --- | --- | --- | --- | ---
@@ -1735,46 +1797,41 @@ ACTIONS | OBJECTIFS | STRATÉGIES | RESULTATS | ACTIVITES | PERÍODE | COUT (USD
 Action 3 : Formation de professeurs adaptés au cycle complet de l'enseignement de base | Rendre effective, la scolarité basique jusqu'en 6ème classe | Articulation des programmes de l'Ecole de Formation de la Reforme Educative | Cours de formation des professeurs pour l'enseignement de Base en fonctionnement à l'école de formation de professeurs ;; 80% de professeurs de l'Enseignement Basique ayant une formation adaptée au profil | Séminaire Elaboration d'un cursus et des programmes de formation; Recrutement des formateurs | 2003 2003 | 54 000.00 ______
 Action 4 : | Promouvoir une | Promouvoir le | Etudes sur l'acquisition | Conception des tests | 2005 et 2008 | 36 000.00
 
-OBJECTIF 6 : Améliorer sur tous ses aspects la qualité de l'éducation dans un soucis d'excellence de façon à obtenir pour tous, des résultats d'apprentissage reconnus et quantifiables, notamment en ce qui concerne la lecture, l'écriture et le calcul et les compétences indispensables dans la vie courante
-
 81
 
 [[END OF PAGE 81]]
 
 [[START OF PAGE 82]]
+OBJECTIF 6 : Améliorer sur tous ses aspects la qualité de l'éducation dans un soucis d'excellence de façon à obtenir pour tous, des résultats d'apprentissage reconnus et quantifiables, notamment en ce qui concerne la lecture, l'écriture et le calcul et les compétences indispensables dans la vie courante
 
 Evaluation et accompagnement des apprentissages des élèves et des acquisitions scolaires | culture de suivi et d'évaluation des compétences des élèves et des écoles | dialogue entre plusieurs acteurs sociaux, politiques et économiques sur la valeur de l'école et l'exercice de la citoyenneté | des compétences des élèves réalisées régulièrement par le MEC | Identification des compétences; Réalisation des enquêtes; Mise en place de l'étude Divulgation des résultats | 2005 2004 - 2008 2004 2005 et 2008 | _____ 81 000.00 ____ 20 000.00
 --- | --- | --- | --- | --- | --- | ---
 ACTIONS | OBJECTIFS | STRATÉGIES | RESULTATS | ACTIVITES | PERÍODE | COUT (USD)
 Action 5 : Mise à disposition de manuels didactiques et livres scolaires pour l'Enseignement Basique | Améliorer la qualité de l'enseignement apprentissage | Adaptation au cursus et aux nouvelles finalités de l'Education Pour Tous | Existence de tous les manuels de l'enseignement secondaire basique en quantité suffisante pour les élèves et professeurs; Système de distribution de réimpression de | Conception, élaboration et production de manuel dans tous les domaines de l'enseignement de base; Production des manuels Constitution des équipes disciplinaires; | 2004 - 2006 2004 - 2006 | 64 800.00 1 050 000.00
 
-OBJECTIF 6 : Améliorer sur tous ses aspects la qualité de l'éducation dans un soucis d'excellence de façon à obtenir pour tous, des résultats d'apprentissage reconnus et quantifiables, notamment en ce qui concerne la lecture, l'écriture et le calcul et les compétences indispensables dans la vie courante
-
 82
 
 [[END OF PAGE 82]]
 
 [[START OF PAGE 83]]
+OBJECTIF 6 : Améliorer sur tous ses aspects la qualité de l'éducation dans un soucis d'excellence de façon à obtenir pour tous, des résultats d'apprentissage reconnus et quantifiables, notamment en ce qui concerne la lecture, l'écriture et le calcul et les compétences indispensables dans la vie courante
 
 manuels mise en place de manière efficace au MEC | Contractualisation de spécialistes; Mobilisation des ressources financières | 2003 2003 - 2004 | _______ ______
 --- | --- | --- | --- | --- | --- | ---
 Action 6: Promotion des langues nationales | Introduire les langues nationales dans l'enseignement; Consolider l'identité nationale et promouvoir la dynamisation culturelle | Création d'une discipline de langue nationale dans le cursus de l'enseignement de base; Utilisation des langues nationales dans les activités culturelles et récréatives dans les écoles | Langues nationales introduites dans les cursus Langues nationales utilisées dans l'alphabétisation Langues nationales plus développées et plus utilisées dans les écoles | Programmes radiophoniques Recrutement et formation des animateurs culturels pour les langues nationales Réalisation des enquêtes sur l'utilisation des langues nationales | 2003 - 2015 2005 - 2015 2004 - 2015 | 260 000.00 231 000.00 320 000.00
 Action 7 : Vulgarisation des bibliothèques, médiathèques et ludothèques dans les écoles de | Promouvoir le renforcement des apprentissages scolaires | Adoption d'un système de bibliothèques et de ludothèques mobiles ; Création des | Bibliothèques, médiathèques et ludothèques créées dans les écoles de grandes dimensions ; Ecoles de petites | Acquisition d'une bibliothèque mobile; Création de centre dans les districts | 2003 2003 | 40 000.00 105 000.00
 
-OBJECTIF 6 : Améliorer sur tous ses aspects la qualité de l'éducation dans un soucis d'excellence de façon à obtenir pour tous, des résultats d'apprentissage reconnus et quantifiables, notamment en ce qui concerne la lecture, l'écriture et le calcul et les compétences indispensables dans la vie courante
-
 83
 
 [[END OF PAGE 83]]
 
 [[START OF PAGE 84]]
+OBJECTIF 6 : Améliorer sur tous ses aspects la qualité de l'éducation dans un soucis d'excellence de façon à obtenir pour tous, des résultats d'apprentissage reconnus et quantifiables, notamment en ce qui concerne la lecture, l'écriture et le calcul et les compétences indispensables dans la vie courante
 
 l'Enseignement Basique | espaces de loisirs et de recréation dans les Ecoles | dimensions équipées de bibliothèques mobiles, au moins une fois par mois ; Création de parcs de récréation avec un minimum d'équipements de loisirs | Acquisition de véhicules; Formation spécifique du personnel | 2003 - 2015 2004 - 2006 | 100 000.00 20 000.00
 --- | --- | --- | --- | --- | --- | ---
 ACTION | OBJECTIFS | STRATÉGIES | RESULTATS | ACTIVITES | PERÍODE | COUT (USD)
 Action 7: Amélioration de l'efficacité de l'Education | Rentabiliser les inputs du Système Educatif en vue de l'obtention de meilleures performances | Amélioration du fonctionnement de l'Ecole et tous les élements-clés qui contribuent à l'efficacité du système éducatif; | Taux moyen actuel de redoublement dans l'Enseignement Primaire réduit de 27% à moins de 10%; Taux de passage de l'Enseignement Basique à l'Enseignement Secondaire en augmentation de 40%; Ecoles gérées avec efficacité; | Etudes sur l'efficacité du Système Educatif; Accompagnement des indicateurs de l'efficacité ; Formation du personnel à la gestion du budget | 2004 2005 - 2015 2004 - 2006 | 20 000 100 000.00
-
-OBJECTIF 6 : Améliorer sur tous ses aspects la qualité de l'éducation dans un soucis d'excellence de façon à obtenir pour tous, des résultats d'apprentissage reconnus et quantifiables, notamment en ce qui concerne la lecture, l'écriture et le calcul et les compétences indispensables dans la vie courante
 
 84
 
@@ -1825,21 +1882,21 @@ PLAN NATIONAL EDUCATION POUR TOUS 2002-2015
 
 COUT ESTIME
 
-OBJECTIF 1 9.146.367,00 Developper et ameliorer la petite enfance
+OBJECTIF 1 | Developper et ameliorer la petite enfance | 9.146.367,00
 
-OBJECTIF 2 00 32.058.300, Developper et ameliorer l'acces a l'ecole primaire
+OBJECTIF 2 | Developper et ameliorer l'acces a l'ecole primaire | 32.058.300,00
 
-OBJECTIF 3 00 43.898.200, Education des jeunes et des adultes
+OBJECTIF 3 | Education des jeunes et des adultes | 43.898.200,00
 
-OBJECTIF 4 00 5.153.200, Alphabetisation des jeunes et des adultes
+OBJECTIF 4 | Alphabetisation des jeunes et des adultes | 5.153.200,00
 
-OBJECTIF 5 00 357.600, Eliminer les disparites sexuelles
+OBJECTIF 5 | Eliminer les disparites sexuelles | 357.600,00
 
-OBJECTIF 6 00 6.374.200, Ameliorer tout aspect lie a la qualite de l'education
+OBJECTIF 6 | Ameliorer tout aspect lie a la qualite de l'education | 6.374.200,00
 
-Coordination Nation 00 ale EPT 642.000,
+Coordination Nationale EPT | 642.000,00
 
-TOTAL 00 97.629.867,
+TOTAL | 97.629.867,00
 
 [[END OF PAGE 88]]
 
@@ -1849,7 +1906,7 @@ TOTAL 00 97.629.867,
 
 PERIODE Budget USD Reference
 
-2003-2015 | 642.000,00COEPT | 2 vehicules estimes a 30000USDpar vehicule | $60.000,00
+2003-2015 | 642.000,00 | COEPT | 2 vehicules estimes a 30000USDpar vehicule | $60.000,00
 --- | --- | --- | ---
 equipements (12000USD renouvele 3 fois) | $36.000,00
 fonctionnement 12000USD sur 13 ans | $156.000,00
@@ -1921,7 +1978,8 @@ SOUS TOTAL OBJECTIF 1 | 9.146.367,00
 
 ##### REFERENCES
 
-O1A1A | 1.250,00
+O1A1A
+Recrutement d'un consultant national sur une periode de 15 jours | $ | 1.250,00
 --- | --- | ---
 Forfait frais de fonctionnement de la commision nationale (1000USD*24 mois) | $ | 24.000,00
 Sous-total O1A1A | $ | 25.250,00
@@ -1965,8 +2023,10 @@ Expert evaluateur des curricula de l'Ecole de formation des cadres (1800 pour 2 
 Renforcement materiels didactiques | $3.000,00
 Sous-total O1A4A | $6.600,00
 O1A4B
-Recrutement de nouveaux formateurs (5 agents*10 mois de travail*5 ans*500USD de salaire) O1A4C | $125.000,00
-1 atelier de rencontre des formateurs par an sur les 5 ans (cout de l'atelier 5000USD*5) O1A4D | $25.000,00
+Recrutement de nouveaux formateurs (5 agents*10 mois de travail*5 ans*500USD de salaire) | $125.000,00
+O1A4C
+1 atelier de rencontre des formateurs par an sur les 5 ans (cout de l'atelier 5000USD*5) | $25.000,00
+O1A4D
 Bourses d'etude (5 personnes pendant 3 ans pour un cout estime a 20000USD par personne) | $300.000,00
 Bourses d'etude (3 personnes pendant 4 ans pour un cout estime a 20000USD par personne) | $240.000,00
 Sous-total O1A4D | $540.000,00
@@ -1985,6 +2045,22 @@ Recrutement de 200 enseignants (50USD de prime mensuel sur 12 mois pendant 6 ans
 
 [[START OF PAGE 94]]
 
+O1A6B
+Formation des educateurs de sante scolaire (200 agents*200USD cout de la formation) | $40.000,00
+O1A7A
+Formation a l'exterieur pour la specialisation (5 specialistes pendant trois ans au cout annuel=30000) | $150.000,00
+O1A7B
+Achat et equipements 2000USD par centre | $14.000,00
+Recrutement 5 specialistes supplementaires (200USD cout*5*12 mois*6ans) | $72.000,00
+Sous-total O1A7B | $86.000,00
+O1A7C
+Appui aux techniciens de sante (kine, medecins…)(500USD cout*3 techn*12 mois*6ans) | $108.000,00
+O1A8A
+Recrutement d'un expert juriste pour la redaction d'un projet de loi | $5.000,00
+O1A8B
+Campagne speciale de sensibilisation autour de la nouvelle loi (logistique forfait: 12000USD) | $12.000,00
+O1A9A
+Appui aux reseaux de solidarite sociale, ONG (forfait 3000USD par an sur 13 ans) | $39.000,00
 94
 
 [[END OF PAGE 94]]
@@ -2236,8 +2312,9 @@ Appui pedagogique pour le secondaire | 2003-2005 | 210.000,00 | O3A8C
 
 [[START OF PAGE 103]]
 
-Action 9 : Incitation a la creation des etablissements prives secondaires | O3A9A
+Action 9 : Incitation a la creation des etablissements prives secondaires
 --- | --- | --- | ---
+Appui incitatif | 2008-2015 | 300.000,00 | O3A9A
 Appui aux associations des jeunes | 2004-2015 | 252.000,00 | O3A9B
 Elaboration d'un cadre legislatif approprie | 2004-2006 | 16.200,00 | O3A9C
 Action 10 : Developpement des activites sportives et recreatives aupres des jeunes
@@ -2305,8 +2382,8 @@ O3A6C | Forfait pour la periode | 50.000,00
 O3A6D | Forfait pour la periode | 150.000,00
 O3A6D | Forfait pour la periode | 250.000,00
 O3A7A | Forfait de 15000USD par an sur 11 ans | $165.000,00
-O3A7B
-Environ 70 stagiaires par an pendant 3 mois pour un cout de 10000USD par stagia | $700.000,00
+O3A7B | Environ 70 stagiaires par an pendant 3 mois pour un cout de 10000USD par stagia | $700.000,00
+O3A7C | Cout du stage estime a 3000USD pour les 8 districts (y compris capitale) | $24.000,00
 O3A7D | 3 vehicules de liaison*20000 | $60.000,00
 logistique : 6000USD par an pendant 3 ans | $18.000,00
 fonctionnement : 6000USD par an pendant 3 ans | $18.000,00
@@ -2349,23 +2426,23 @@ PERIODE | Budget USD | Reference
 --- | --- | --- | ---
 ##### COMPOSANTE : ACCES
 ACTION 1: Appreciation du phenomene d'alphabetisation
-Recrutement d'un consultant | 2003 | 5.400,00O4A1A
-Identification des problemes lies a l'analphabetisme | 2003 | 15.000,00O4A1B
+Recrutement d'un consultant | 2003 | 5.400,00 | O4A1A
+Identification des problemes lies a l'analphabetisme | 2003 | 15.000,00 | O4A1B
 ACTION 2 : Developpement de l'education non formelle
-Recensement des zones d'installation des centres | 2004 | 5.400,00O4A2A
-Creation de centres | 2004 | 336.000,00O4A2B
-Inventaire des projets et programmes d'education non formelle | 2005 | 5.400,00O4A2C
-Adaptation du cadre legislatif | 2003-2005 | 16.200,00O4A2D
+Recensement des zones d'installation des centres | 2004 | 5.400,00 | O4A2A
+Creation de centres | 2004 | 336.000,00 | O4A2B
+Inventaire des projets et programmes d'education non formelle | 2005 | 5.400,00 | O4A2C
+Adaptation du cadre legislatif | 2003-2005 | 16.200,00 | O4A2D
 ACTION 3 : Formation des animateurs
-Elaboration des programmes de formation | 2004 | 27.000,00O4A3A
+Elaboration des programmes de formation | 2004 | 27.000,00 | O4A3A
 ACTION 4 : Reduction de l'analphabetisme
-Formation et elaboration des projets d'alphabetisation fonctionnelle | 2004-2010 | 70.000,00O4A4A
+Formation et elaboration des projets d'alphabetisation fonctionnelle | 2004-2010 | 70.000,00 | O4A4A
 ACTION 5 : Developpement des campagnes d'alphabetisation
-Campagne de sensibilisation radio-televise | 2004-2015 | 240.000,00O4A5A
-Creation d'un comite national pour l'alphabetisation | 2003 | 78.000,00O4A5B
+Campagne de sensibilisation radio-televise | 2004-2015 | 240.000,00 | O4A5A
+Creation d'un comite national pour l'alphabetisation | 2003 | 78.000,00 | O4A5B
 ##### COMPOSANTE :QUALITE
 Action 6 : Coordination des programmes d'alphabetisation
-Elaboration des programmes | 2004-2006 | 45.000,00O4A6A
+Elaboration des programmes | 2004-2006 | 45.000,00 | O4A6A
 
 107
 
@@ -2373,13 +2450,13 @@ Elaboration des programmes | 2004-2006 | 45.000,00O4A6A
 
 [[START OF PAGE 108]]
 
-Production de materiels pedagogiques | 2004-2015 | 4.200.000,00O4A6B
---- | --- | ---
+Production de materiels pedagogiques | 2004-2015 | 4.200.000,00 | O4A6B
+--- | --- | --- | ---
 Action 7 : Elaboration des curricula et programmes d'alphabetisation
-Recrutement de personnel et choix des materiels | 2003-2004 | 99.000,00O4A7A
+Recrutement de personnel et choix des materiels | 2003-2004 | 99.000,00 | O4A7A
 ##### COMPOSANTE GESTION
 Action 8 : Creation de programmes d'education permanentes post-alphabetisation
-Identification des besoins, elaborations des projets et priorite | 2008 | 10.800,00O4A8A
+Identification des besoins, elaborations des projets et priorite | 2008 | 10.800,00 | O4A8A
 Action 9 : Renforcement institutionnel du secteur educatif non formel
 SOUS TOTAL OBJECTIF 4 | 5.153.200,00
 
@@ -2391,21 +2468,19 @@ SOUS TOTAL OBJECTIF 4 | 5.153.200,00
 
 ##### Reference
 --- | --- | ---
-O4A1A | durant 3 mois (1800*3) | $5.400,00
-O4A1B | Expertise Seminaire d'analyse estime a 15000USD | $15.000,00
+O4A1A | Expertise durant 3 mois (1800*3) | $5.400,00
+O4A1B | Seminaire d'analyse estime a 15000USD | $15.000,00
 O4A2A | Expertise (3*1800USD) | $5.400,00
-O4A2B O4A2C | Equipement : 12000USD*7 + fonctionnement 3000USD*7*12 Etude (1800USD*3 mois) | $336.000,00
-$5.400,00
+O4A2B | Equipement : 12000USD*7 + fonctionnement 3000USD*7*12 | $336.000,00
+O4A2C | Etude (1800USD*3 mois) | $5.400,00
 O4A2D | Expertise pour une loi fiscale incitative (1800*3 mois*3 pers.) | $16.200,00
 O4A3A | Expertise equipe…(5 pers*3 mois*1800USD) | $27.000,00
 O4A4A | Dotation annuelle : 10000USD pendant 7ans | $70.000,00
 O4A5A | Cout estime d'une campagne radio-televise = 40000USD*6ans | $240.000,00
-O4A5B | Cout estime du fonctionnement = 13000USD par an pendant 6 | $78.000,00
-ans
+O4A5B | Cout estime du fonctionnement = 13000USD par an pendant 6 ans | $78.000,00
 O4A6A | Forfait de 15000USD par an sur 3 ans | $45.000,00
-O4A6B | annuelle de 50000USD par district pendant 12 | $4.200.000,00
-Dotation ans | #REF!
-Sous-total O3A7D
+O4A6B | Dotation annuelle de 50000USD par district pendant 12 ans | $4.200.000,00
+Sous-total O3A7D | #REF!
 
 109
 
@@ -2433,9 +2508,11 @@ Production et distribution de materiels | 2003-2005 | 187.200,00 | O5A1B
 ACTION 2 : Identification, et localisation des disparites
 Expertise internationale | 2004 | 25.000,00 | O5A2A
 ACTION 3 : Elaboration et Implantation des plans d'action specifique
+ACTION 4 : Introduction et implantation d'un systeme de bourses pour les plus defavorises
 Mise en place des bourses d'etudes : voir plan nationale OBJECTIF 3 | 2004-2012
 ##### COMPOSANTE :QUALITE
-Action 5 : Formation des professionnels de l'education et des membres des communautes Seminaires de formation | 2004 | 10.000,00 | O5A5A
+Action 5 : Formation des professionnels de l'education et des membres des communautes
+Seminaires de formation | 2004 | 10.000,00 | O5A5A
 Elaboration, production et distribution de materiels de formation | 2004-2005 | 8.000,00 | O5A5B
 Action 6 : Integration de l'approche genre dans les curricula et dans les manuels scolaires
 Mise en place d'une equipe specialisee pour conception, analyse et revision des programmes | 2004 | 64.800,00 | O5A6A
@@ -2541,7 +2618,7 @@ Action 13: Institutionalisation et developpement de la gestion participative en 
 Formation des gestionnaires d'etablissements | 2003-2007 | 30.000,00 | O6A13A
 Mise en place d'un cadre plus democratique de gestion | 2003-2004 | 32.400,00 | O6A13B
 Conception des projets | 2004-2015 | 360.000,00 | O6A13C
-Mise en place d'un systeme d'evaluation des etablissements scolaires | 2008 | O6A13D
+Mise en place d'un systeme d'evaluation des etablissements scolaires | 2008 |  | O6A13D
 
 116
 
@@ -2553,15 +2630,15 @@ SOUS TOTAL OBJECTIF 6 | 6.374.200,00
 --- | ---
 
 ##### Reference Reference
---- | --- | ---
-O6A2A | O6A2AExpertise par une equipe (5*6*1800USD) | $54.000,00
-O6A2B | O6A2BDeja pris en compte dans l'objectif 2 | $18.000.000,00
-O6A3A | O6A3AEnviron 140 enseignants seront concernes soit: 100USD*12*140*12ans | $2.016.000,00
-O6A3B | O6A3BEnviron 150 logements sont a construire pour un cout de 8000USD par logement | $1.200.000,00
-O6A4A | O6A4A10 seminaires sont estimes a raison de 15000USD par seminaires | $150.000,00
-O6A5A | O6A5AExpertise locale pour la conception des bases de donnes estimee a 30000USD | $30.000,00
-O6A6A | O6A6AExpertise prealable 5pers.*6mois*1800 | $54.000,00
-O6A7A | O6A7AExpertise (equipe de 5 personnes pendant 2ans*1800USD) | $36.000,00
+--- | --- | --- | ---
+O6A2A | O6A2A | Expertise par une equipe (5*6*1800USD) | $54.000,00
+O6A2B | O6A2B | Deja pris en compte dans l'objectif 2 | $18.000.000,00
+O6A3A | O6A3A | Environ 140 enseignants seront concernes soit: 100USD*12*140*12ans | $2.016.000,00
+O6A3B | O6A3B | Environ 150 logements sont a construire pour un cout de 8000USD par logement | $1.200.000,00
+O6A4A | O6A4A | 10 seminaires sont estimes a raison de 15000USD par seminaires | $150.000,00
+O6A5A | O6A5A | Expertise locale pour la conception des bases de donnes estimee a 30000USD | $30.000,00
+O6A6A | O6A6A | Expertise prealable 5pers.*6mois*1800 | $54.000,00
+O6A7A | O6A7A | Expertise (equipe de 5 personnes pendant 2ans*1800USD) | $36.000,00
 
 117
 
@@ -2569,23 +2646,23 @@ O6A7A | O6A7AExpertise (equipe de 5 personnes pendant 2ans*1800USD) | $36.000,00
 
 [[START OF PAGE 118]]
 
-O6A7B | O6A7BExpertise (equipe de 5 personnes pendant 3mois*1800USD*2ans)+logistique=27000 | $81.000,00
---- | --- | ---
-O6A7C | O6A7CCout estime du seminaire 10000USD pour 2 seminaires | $20.000,00
-O6A8A | O6A8AEquipe de 6 personnes pendant 6 mois | $64.800,00
-O6A8B | O6A8BCout estime:10USD par manuel pour 3 manuels de base pour 35000 eleves | $1.050.000,00
-O6A9A | O6A9ACout estime d'un programme:20000USD pour 13 campagnes | $260.000,00
-O6A9B | O6A9BEnviron 5pers.par district paye a 200USD sur 3mois pendant 11 ans | $231.000,00
-O6A9C | O6A9CCout estime a | $320.000,00
-O6A10A | O6A10ACout estime | $40.000,00
-O6A10B | O6A10BCout estime du centre 15000USD | $105.000,00
-O6A10C | O6A10CCout estime 20000USD*5 | $100.000,00
-O6A10D | O6A10DCout estime : 5000USD par pers. Pour 4 personnes | $20.000,00
-O6A11A | O6A11ACout estime a 20000USD | $20.000,00
-O6A11B | O6A11BCout estime a 10000USD par personne pour 10 personnes | $100.000,00
-O6A13A | O6A13ACout estime de la formation 200USD pour 30 ecoles sur 5 ans | $30.000,00
-O6A13B | O6A13BExpertise sur le type d'organe a proposer (3 pers.pendant 6 mois) | $32.400,00
-O6A13C | O6A13CAppui a la conception (300USD pour 100 projets environ pendant 12 ans) | $360.000,00
+O6A7B | O6A7B | Expertise (equipe de 5 personnes pendant 3mois*1800USD*2ans)+logistique=27000 | $81.000,00
+--- | --- | --- | ---
+O6A7C | O6A7C | Cout estime du seminaire 10000USD pour 2 seminaires | $20.000,00
+O6A8A | O6A8A | Equipe de 6 personnes pendant 6 mois | $64.800,00
+O6A8B | O6A8B | Cout estime:10USD par manuel pour 3 manuels de base pour 35000 eleves | $1.050.000,00
+O6A9A | O6A9A | Cout estime d'un programme:20000USD pour 13 campagnes | $260.000,00
+O6A9B | O6A9B | Environ 5pers.par district paye a 200USD sur 3mois pendant 11 ans | $231.000,00
+O6A9C | O6A9C | Cout estime a | $320.000,00
+O6A10A | O6A10A | Cout estime | $40.000,00
+O6A10B | O6A10B | Cout estime du centre 15000USD | $105.000,00
+O6A10C | O6A10C | Cout estime 20000USD*5 | $100.000,00
+O6A10D | O6A10D | Cout estime : 5000USD par pers. Pour 4 personnes | $20.000,00
+O6A11A | O6A11A | Cout estime a 20000USD | $20.000,00
+O6A11B | O6A11B | Cout estime a 10000USD par personne pour 10 personnes | $100.000,00
+O6A13A | O6A13A | Cout estime de la formation 200USD pour 30 ecoles sur 5 ans | $30.000,00
+O6A13B | O6A13B | Expertise sur le type d'organe a proposer (3 pers.pendant 6 mois) | $32.400,00
+O6A13C | O6A13C | Appui a la conception (300USD pour 100 projets environ pendant 12 ans) | $360.000,00
 
 118
 
@@ -2593,8 +2670,8 @@ O6A13C | O6A13CAppui a la conception (300USD pour 100 projets environ pendant 12
 
 [[START OF PAGE 119]]
 
-O6A13D | O6A13DEtude les methodes d'evaluation : expertise internationales
---- | ---
+O6A13D | O6A13D | Etude les methodes d'evaluation : expertise internationales
+--- | --- | --- | ---
 
 119
 
