@@ -24,7 +24,7 @@ An Act to consolidate certain enactments relating to education in Scotland with 
 
 ##### 1 Duty of education authorities to secure provision of education.
 
-- Subject  to [ F1 subsections [ F2 (1A) ] and  (2A) ] below,  it  shall  be  the  duty  of  every education authority to secure that there is made for their area adequate and efficient provision of school education and further education.
+- (1) Subject  to [ F1 subsections [ F2 (1A) ] and  (2A) ] below,  it  shall  be  the  duty  of  every education authority to secure that there is made for their area adequate and efficient provision of school education and further education.
 
 [ F3 (1A) The duty imposed on education authorities by subsection (1) above shall, in relation to children who are under school age, be exercisable only [ F4 to the extent required by section 47(1) of the Children and Young People (Scotland) Act 2014 ] .
 
@@ -60,7 +60,7 @@ F6 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2D) An order made under subsection (2C) above is subject to the negative procedure. ]
 
-- Every education authority [ F9 shall for the purposes of their duty under subsection (1) above-
+- (3) Every education authority [ F9 shall for the purposes of their duty under subsection (1) above-
 
 (a) ] have power to secure for their area, and
 
@@ -68,7 +68,7 @@ F6 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 the provision of adequate facilities for social, cultural and recreative activities and for physical education and training.
 
-- The facilities for further education that may be provided by an education authority shall include facilities for vocational and industrial training.
+- (4) The facilities for further education that may be provided by an education authority shall include facilities for vocational and industrial training.
 
 F11
 
@@ -192,9 +192,9 @@ F21 Words inserted by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SI
 
 ##### [ F22 2ZA Learning hours
 
-- An education authority and the managers of a grant-aided school must secure that no fewer than the prescribed number of learning hours (the 'prescribed hours') are made available during each school year to each pupil for whose school education the authority is, or the managers are, responsible (but subject to subsection (3)).
+- (1) An education authority and the managers of a grant-aided school must secure that no fewer than the prescribed number of learning hours (the 'prescribed hours') are made available during each school year to each pupil for whose school education the authority is, or the managers are, responsible (but subject to subsection (3)).
 
-- For the purposes of subsection (1)-
+- (2) For the purposes of subsection (1)-
 
 (a) an education authority is 'responsible' for the school education of a pupil if the pupil belongs to the authority's area and the pupil is, or is about to be, provided with school education-
 
@@ -202,11 +202,11 @@ F21 Words inserted by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SI
 
 (ii) by virtue of arrangements made or entered into by the authority,
 
-(b) the  managers  of  a  grant-aided  school  are  'responsible'  for  the  school education of a pupil if the pupil is provided with school education in a grantaided school which is under the management of the managers of the school (except where the education is provided for the pupil in the school by virtue of arrangements as mentioned in paragraph (a)(ii)).
+(b) the  managers  of  a  grant-aided  school  are  'responsible'  for  the  school education of a pupil if the pupil is provided with school education in a grant-aided school which is under the management of the managers of the school (except where the education is provided for the pupil in the school by virtue of arrangements as mentioned in paragraph (a)(ii)).
 
-- Where  any  of  the  circumstances  mentioned  in  subsection  (4)  (the  'relevant circumstances')  apply  to  a  pupil  during  a  school  year  (the  'relevant  year'),  an education authority may secure that fewer than the prescribed hours are made available to the pupil during the relevant year.
+- (3) Where  any  of  the  circumstances  mentioned  in  subsection  (4)  (the  'relevant circumstances')  apply  to  a  pupil  during  a  school  year  (the  'relevant  year'),  an education authority may secure that fewer than the prescribed hours are made available to the pupil during the relevant year.
 
-- The relevant circumstances are-
+- (4) The relevant circumstances are-
 
 (a) that the authority is satisfied that the pupil's wellbeing would be adversely affected if the prescribed hours were to be made available to the pupil during the relevant year,
 
@@ -214,9 +214,9 @@ F21 Words inserted by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SI
 
 (c) that other prescribed circumstances apply.
 
-- Where  an  education  authority  exercises  the  power  conferred  by  subsection  (3)  in relation to a pupil, the authority must secure that no fewer than the reduced hours are made available to the pupil during the relevant year.
+- (5) Where  an  education  authority  exercises  the  power  conferred  by  subsection  (3)  in relation to a pupil, the authority must secure that no fewer than the reduced hours are made available to the pupil during the relevant year.
 
-- In subsection (5), 'reduced hours', in relation to a pupil, means the prescribed hours less the number of learning hours that were not, by virtue of the application of the
+- (6) In subsection (5), 'reduced hours', in relation to a pupil, means the prescribed hours less the number of learning hours that were not, by virtue of the application of the
 
 [[END OF PAGE 4]]
 
@@ -234,15 +234,15 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 relevant circumstances in relation to the pupil, made available during the relevant year to the pupil.
 
-- For the purposes of subsection (4)(a), the education authority is to determine whether it is satisfied that a pupil's wellbeing would be adversely affected by reference to the extent to which the pupil is or would be-
+- (7) For the purposes of subsection (4)(a), the education authority is to determine whether it is satisfied that a pupil's wellbeing would be adversely affected by reference to the extent to which the pupil is or would be-
 
 safe, healthy, achieving, nurtured, active, respected, responsible, and
 
 included.
 
-- Subsections (3) to (7) apply in relation to the managers of a grant-aided school as they apply in relation to an education authority.
+- (8) Subsections (3) to (7) apply in relation to the managers of a grant-aided school as they apply in relation to an education authority.
 
-- Regulations under subsection (1) or (4)(c), or under the definition of 'learning hours' in subsection (12), may-
+- (9) Regulations under subsection (1) or (4)(c), or under the definition of 'learning hours' in subsection (12), may-
 
 (a) include transitional or transitory provision,
 
@@ -250,11 +250,11 @@ included.
 
 (c) make different provision for different types of pupil.
 
-- The Scottish Ministers may by regulations modify the list in subsection (7) so as to amend, remove or add to the matters for the time being mentioned in the list.
+- (10) The Scottish Ministers may by regulations modify the list in subsection (7) so as to amend, remove or add to the matters for the time being mentioned in the list.
 
-- Before  making  any  regulations  under  subsection  (1),  (4)(c)  or  (10)  or  under  the definition of 'learning hours' in subsection (12), the Scottish Ministers must consult such persons as they consider appropriate.
+- (11) Before  making  any  regulations  under  subsection  (1),  (4)(c)  or  (10)  or  under  the definition of 'learning hours' in subsection (12), the Scottish Ministers must consult such persons as they consider appropriate.
 
-- In this section-
+- (12) In this section-
 
 'learning hours' means hours of school education of such type as may be prescribed,
 
@@ -270,9 +270,9 @@ F22 S. 2ZA inserted (1.8.2016 for specified purposes) by Education (Scotland) Ac
 
 ##### [2A F23 Assessment of secondary school pupils.
 
-- The  Secretary  of  State  may  by  regulations  make  provision  for  the  testing  and assessment of pupils undertaking the first or second year of secondary education in public F24 ... schools.
+- (1) The  Secretary  of  State  may  by  regulations  make  provision  for  the  testing  and assessment of pupils undertaking the first or second year of secondary education in public F24 ... schools.
 
-- It shall be the duty of an education authority F25 ... to comply with the provisions of regulations made in pursuance of subsection (1) above.
+- (2) It shall be the duty of an education authority F25 ... to comply with the provisions of regulations made in pursuance of subsection (1) above.
 
 [[END OF PAGE 5]]
 
@@ -295,19 +295,19 @@ F23 S. 2A inserted (18.9.1996) by 1996 c. 43, s. 32 ; S.I. 1996/2250, art. 2 . F
 
 ##### 3 Fees not to be charged in public schools, etc: exceptions.
 
-- Subject  to  the  provisions  of  subsections  (2)  to  (5)  below,  school  education F26 .  .  . provided by an education authority shall be provided without payment of fees.
+- (1) Subject  to  the  provisions  of  subsections  (2)  to  (5)  below,  school  education F26 .  .  . provided by an education authority shall be provided without payment of fees.
 
-- An education authority shall have power to charge fees for school education in some or all of the classes in a limited number of schools under their management.
+- (2) An education authority shall have power to charge fees for school education in some or all of the classes in a limited number of schools under their management.
 
-- An education authority may award to any pupil in a class in which fees are charged by virtue of subsection (2) above a scholarship, by way of remission in whole or in part of the fee, in any case where, having regard to the pupil's ability and aptitude, it appears to the authority proper to do so; but such a pupil shall not be regarded for the purposes of section 11(1)(a) of this Act (provision of free books, etc.) as receiving free education.
+- (3) An education authority may award to any pupil in a class in which fees are charged by virtue of subsection (2) above a scholarship, by way of remission in whole or in part of the fee, in any case where, having regard to the pupil's ability and aptitude, it appears to the authority proper to do so; but such a pupil shall not be regarded for the purposes of section 11(1)(a) of this Act (provision of free books, etc.) as receiving free education.
 
-- An education authority shall not exercise the power conferred by subsection (2) above except where it may be exercised without prejudice to the adequate provision of free school education for their area whether-
+- (4) An education authority shall not exercise the power conferred by subsection (2) above except where it may be exercised without prejudice to the adequate provision of free school education for their area whether-
 
 (a) at schools under their management, or
 
 (b) at other schools by virtue of arrangements made by them with the managers of those schools or, in the case of schools under the management of another education authority, with that authority.
 
-- Where an education authority are providing school education for an outwith-area pupil in a school under their management-
+- (5) Where an education authority are providing school education for an outwith-area pupil in a school under their management-
 
 (a) in classes in which fees are charged under the provisions of subsection (2) above, the education authority may charge in respect of that pupil, in addition to the fee charged by virtue of that subsection, such extra fee as they think proper,
 
@@ -315,7 +315,7 @@ F23 S. 2A inserted (18.9.1996) by 1996 c. 43, s. 32 ; S.I. 1996/2250, art. 2 . F
 
 In this subsection 'outwith-area pupil' means, in relation to any education authority, a pupil who is not deemed to belong for the purposes of section 23 of this Act to the area of that authority.
 
-- An education authority shall have power to make charges in respect of the use of some or all of-
+- (6) An education authority shall have power to make charges in respect of the use of some or all of-
 
 (a) any facilities for F27 . . . further education provided by them,
 
@@ -342,7 +342,7 @@ F26 Words in s. 3(1) repealed (16.5.1992) by Further and Higher Education Act 19
 
 ##### 4 Duty of education authorities to provide child guidance service.
 
-It shall be the duty of every education authority to provide for their area [ F29 [ F30 . . .] psychological service ] F31 ..., and the functions of that service shall includeF32
+It shall be the duty of every education authority to provide for their area [ F29 [ F30 . . .] psychological service ] F31 ..., and the functions of that service shall include— F32
 
 (a) the study of children [ F33 having additional support needs ] ;]
 
@@ -371,9 +371,9 @@ Part I - Provision of Education by Education Authorities
 
 Document Generated: 2020-08-02
 
-##### F40 5
-
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+##### F40 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -383,7 +383,7 @@ F40 Ss. 5, 28(2), 59, 66(2), 111(4)(5), 129(5)(6), 132(1), Sch. 2 paras. 1, 3 re
 
 ##### 6 Social activities, physical education, etc.
 
-- For  the  purpose  of  securing [ F41 ,  under  section  1(3)  of  this  Act, ] the  provision  of facilities  for  social,  cultural  and  recreative  activities  and  physical  education  and training, an education authority may-
+- (1) For  the  purpose  of  securing [ F41 ,  under  section  1(3)  of  this  Act, ] the  provision  of facilities  for  social,  cultural  and  recreative  activities  and  physical  education  and training, an education authority may-
 
 (a) establish, maintain and manage-
 
@@ -399,17 +399,15 @@ and other places at which any such facilities as aforesaid are available;
 
 (b) organise holiday classes, games, expeditions and other activities.
 
-- In the exercise of their powers under subsection (1) above an education authority-
+- (2) In the exercise of their powers under subsection (1) above an education authority-
 
-- F42 (0) may assist any body whose objects include;
+- F42 (a) may assist any body whose objects include;
 
 - F43 (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 the provision or promotion of social, cultural and recreative activities and physical education and training or the facilities for such activities, education and training.
 
-F44
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F44 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ###### Textual Amendments
 
@@ -429,7 +427,7 @@ F44
 
 - F45 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- In  considering  and  determining  for  the  purposes  of [ F46 their  functions  under  the foregoing provisions of this Act in relation to ] the provision of school education what amount of public school accommodation or additional public school accommodation
+- (4) In  considering  and  determining  for  the  purposes  of [ F46 their  functions  under  the foregoing provisions of this Act in relation to ] the provision of school education what amount of public school accommodation or additional public school accommodation
 
 [[END OF PAGE 8]]
 
@@ -447,9 +445,9 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 is required for their area, an education authority shall have regard to and take into account every school, whether public or not, and whether situated in the area or not, which, in their opinion, gives, or will when completed give, efficient school education, and is, or will when completed be, suitable and available for the education of the pupils in their area.
 
-- An education authority shall for the purposes of subsection (4) above have power to call upon all head teachers and managers of schools other than public schools for such information and for access to and delivery of all such documents as shall to the education authority appear to be necessary to enable them to discharge their duties under this Act, and an education authority may from time to time appoint fit and proper persons to procure such information and to inspect such documents.
+- (5) An education authority shall for the purposes of subsection (4) above have power to call upon all head teachers and managers of schools other than public schools for such information and for access to and delivery of all such documents as shall to the education authority appear to be necessary to enable them to discharge their duties under this Act, and an education authority may from time to time appoint fit and proper persons to procure such information and to inspect such documents.
 
-[ F47 In  the  performance  of  their  functions  under  the  foregoing  provisions  of  this Act in relation to ] the  provision  of  school  education, an education authority shall, in  particular,  have  regard  to  the  expediency  of  securing  the  provision  of  boarding accommodation,  either  in  boarding  schools  or  in  hostels,  for  pupils  for  whom education  as  boarders  is  considered  by  their  parents  and  by  the  authority  to  be desirable.
+- (6) [ F47 In  the  performance  of  their  functions  under  the  foregoing  provisions  of  this Act in relation to ] the  provision  of  school  education, an education authority shall, in  particular,  have  regard  to  the  expediency  of  securing  the  provision  of  boarding accommodation,  either  in  boarding  schools  or  in  hostels,  for  pupils  for  whom education  as  boarders  is  considered  by  their  parents  and  by  the  authority  to  be desirable.
 
 F48
 
@@ -464,11 +462,11 @@ F45 S. 7(1)-(3) repealed (16.5.1992) by Further and Higher Education (Scotland) 
 
 ##### 8 Religious instruction.
 
-- Whereas  it  has  been  the  custom  in  the  public  schools  of  Scotland  for  religious observance to be practised and for instruction in religion to be given to pupils whose parents did not object to such observance or instruction, but with liberty to parents, without forfeiting any of the other advantages of the schools, to elect that their children should not take part in such observance or receive such instruction, be it enacted that education authorities F49 ... shall be at liberty to continue the said custom, subject to the provisions of section 9 of this Act.
+- (1) Whereas  it  has  been  the  custom  in  the  public  schools  of  Scotland  for  religious observance to be practised and for instruction in religion to be given to pupils whose parents did not object to such observance or instruction, but with liberty to parents, without forfeiting any of the other advantages of the schools, to elect that their children should not take part in such observance or receive such instruction, be it enacted that education authorities F49 ... shall be at liberty to continue the said custom, subject to the provisions of section 9 of this Act.
 
-- It  shall  not  be  lawful  for  an  education  authority F49 ...  to  discontinue  religious observance  or  the  provision  of  instruction  in  religion  in  terms  of  subsection  (1) above, unless and until a resolution in favour of such discontinuance duly passed by the authority has been submitted to a poll of the local government electors for the education area taken for the purpose, and has been approved by a majority of electors voting thereat.
+- (2) It  shall  not  be  lawful  for  an  education  authority F49 ...  to  discontinue  religious observance  or  the  provision  of  instruction  in  religion  in  terms  of  subsection  (1) above, unless and until a resolution in favour of such discontinuance duly passed by the authority has been submitted to a poll of the local government electors for the education area taken for the purpose, and has been approved by a majority of electors voting thereat.
 
-- A poll under subsection (2) above shall be by ballot and shall be taken in accordance with rules  to  be  made  by  the  Secretary  of  State,  which  rules  may  apply  with  any necessary modifications any enactments relating to parliamentary or local government elections.
+- (3) A poll under subsection (2) above shall be by ballot and shall be taken in accordance with rules  to  be  made  by  the  Secretary  of  State,  which  rules  may  apply  with  any necessary modifications any enactments relating to parliamentary or local government elections.
 
 [[END OF PAGE 9]]
 
@@ -517,7 +515,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 ##### 11 Provision of books, materials and special clothing free of charge.
 
-- An education authority shall provide free of charge for all pupils belonging to their area who are given free education-
+- (1) An education authority shall provide free of charge for all pupils belonging to their area who are given free education-
 
 (a) at schools. . . F56 under their management, or
 
@@ -525,7 +523,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 books, writing materials, stationery, mathematical instruments, practice material and other articles which are necessary to enable the pupils to take full advantage of the education provided; and the authority may make similar provision, with or without charge,  for  other  pupils  resident  in  their  area  and  attending  any  school  or  other educational establishment.
 
-- An education authority may provide-
+- (2) An education authority may provide-
 
 (a) for pupils in attendance at any school,. . . F56 or other educational establishment under their management, articles of clothing suitable for physical exercise or for other activities of the school,. . . F57 or  establishment for which special clothing is desirable, and
 
@@ -535,13 +533,13 @@ books, writing materials, stationery, mathematical instruments, practice materia
 
 F56 Words repealed by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s. 82(2), Sch. 11
 
-F57 Word repealed by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s. 82(2),
+F57 Word repealed by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s. 82(2), Sch. 11
 
 ##### 12 Library service.
 
-- An education authority may, as an ancillary means of promoting education, provide, by purchase or otherwise, such books and other printed matter, pictures, gramophone records, tape recordings, films and other materials as they may think desirable, for pupils attending schools,. . . F58 or other educational establishments in their area.
+- (1) An education authority may, as an ancillary means of promoting education, provide, by purchase or otherwise, such books and other printed matter, pictures, gramophone records, tape recordings, films and other materials as they may think desirable, for pupils attending schools,. . . F58 or other educational establishments in their area.
 
-- For the purposes of this section, an education authority may-
+- (2) For the purposes of this section, an education authority may-
 
 (a) make  such  arrangements  as  they  consider  necessary  for  the  management of  a  library  service  provided  by  them  including  the  accommodation  and distribution of books and other materials, and
 
@@ -549,15 +547,11 @@ F57 Word repealed by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF
 
 ###### Textual Amendments
 
-F58 Words repealed by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s. 82(2),
+F58 Words repealed by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s. 82(2), Sch. 11
 
-##### 13 Provision of hotels.
+##### 13 Provision of hostels.
 
 An  education  authority  may  provide  and  maintain  hostels  for  pupils  attending educational establishments in their area.
-
-Sch. 11
-
-Sch. 11
 
 [[END OF PAGE 11]]
 
@@ -575,7 +569,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 ##### [ F59 14 Education for children unable to attend school etc.
 
-- If an education authority are satisfied that, by reason of-
+- (1) If an education authority are satisfied that, by reason of-
 
 (a) any  extraordinary  circumstances  (not  being  circumstances  mentioned  in paragraph (b), or subsection (2) or (3), below)-
 
@@ -595,9 +589,9 @@ to attend such an establishment for that purpose, they shall, without undue dela
 
 - educational establishment.
 
-- If  an  education  authority  have,  under  section  34(1)  of  this  Act,  granted  a  pupil exemption from the obligation to attend school, the exemption being to enable the pupil to give assistance at home in circumstances arising out of the illness or infirmity of a member of the pupil's family, they shall in so far as is practicable and without undue delay make such special arrangements as are mentioned in subsection (1) above.
+- (2) If  an  education  authority  have,  under  section  34(1)  of  this  Act,  granted  a  pupil exemption from the obligation to attend school, the exemption being to enable the pupil to give assistance at home in circumstances arising out of the illness or infirmity of a member of the pupil's family, they shall in so far as is practicable and without undue delay make such special arrangements as are mentioned in subsection (1) above.
 
-- If  a  pupil  withdraws,  excluded  by  the  education  authority  (or  with  the  consent  of the  authority  in  circumstances  where  he  would  have  been  so  excluded  but  for  his withdrawal), from a public school in their area they shall, without undue delay-
+- (3) If  a  pupil  withdraws,  excluded  by  the  education  authority  (or  with  the  consent  of the  authority  in  circumstances  where  he  would  have  been  so  excluded  but  for  his withdrawal), from a public school in their area they shall, without undue delay-
 
 (a) provide school education for him in a school managed by them;
 
@@ -635,7 +629,7 @@ F60 Words in s. 14(1)(b) inserted (5.10.2005) by Mental Health (Care and Treatme
 ###### Modifications etc. (not altering text)
 C6 S. 14 amended (13.10.2000) by 2000 asp 6, ss. 3(2)(3) , 5(1); S.S.I. 2000/361, art. 3(1)(2), Sch. Pt. I C7 S. 14 restricted (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 16 para. 9(1)(a) (with ss. 89, 90)
 
-##### [ F62 14ZAMeaning of pupil in sections 12 to 14.
+##### [ F62 14ZA Meaning of pupil in sections 12 to 14.
 
 In sections 12 to 14 of this Act and in section 52 of this Act as it relates to the said section 13, any reference to a pupil shall include a reference to a student attending a college of further education within the meaning of section 36(1) of the Further and Higher Education (Scotland) Act 1992. ]
 
@@ -644,17 +638,17 @@ F62 S. 14ZA inserted (1.4.1993) by Further and Higher Education (Scotland) Act 1
 
 ##### [ F63 14A Education in social work establishments.
 
-- An  education  authority  may,  in  accordance  with  this  section,  provide  for  their area  school  education  in  any  establishment  provided  by  a  local  authority  under section  59(1)  or  (2)  of  the M2 Social  Work  (Scotland)  Act  1968  which  is  provided wholly or mainly for children under school age (other than any establishment whose provision is secured by them under paragraph (c) of the said section 59(2)).
+- (1) An  education  authority  may,  in  accordance  with  this  section,  provide  for  their area  school  education  in  any  establishment  provided  by  a  local  authority  under section  59(1)  or  (2)  of  the M2 Social  Work  (Scotland)  Act  1968  which  is  provided wholly or mainly for children under school age (other than any establishment whose provision is secured by them under paragraph (c) of the said section 59(2)).
 
-- The provision of school education referred to in subsection (1) above shall consist of the making available by the education authority, in accordance with arrangements made by them in that behalf with the local authority providing the establishment, of the services of any teacher who is employed by them.
+- (2) The provision of school education referred to in subsection (1) above shall consist of the making available by the education authority, in accordance with arrangements made by them in that behalf with the local authority providing the establishment, of the services of any teacher who is employed by them.
 
-- Arrangements under subsection (2) above may make provision for-
+- (3) Arrangements under subsection (2) above may make provision for-
 
 (a) the supply of equipment for use in connection with the provision of school education made available under the arrangements;
 
 (b) any supplementary or incidental matters connected with the arrangements.
 
-- A teacher whose services are made available by an education authority in pursuance of arrangements under subsection (2) above shall, during the period in which his services are made available, be deemed to be in a post in a primary department of a school under the management of the education authority. ]
+- (4) A teacher whose services are made available by an education authority in pursuance of arrangements under subsection (2) above shall, during the period in which his services are made available, be deemed to be in a post in a primary department of a school under the management of the education authority. ]
 
 ###### Textual Amendments
 F63 S. 14A inserted by Education (Scotland) Act 1981 (c. 58), s. 12
@@ -681,17 +675,17 @@ M2 1968 c. 49.
 
 ##### 15 Transference of endowed schools to education authorities.
 
-- The  governing  body  of  any  school  providing  a  course  of  secondary  education administered under a scheme approved in terms of the Act of 1882, or under any Act or any provisional order confirmed by Act of Parliament, may, with a view to the maintenance of such school as a school providing a course of secondary education resolve to transfer the management thereof, together with the school buildings, and the revenue of the school from endowments in whole or in part, or, where the endowments are held solely for the purpose of such school, together with the endowments, to the education authority of the education area in which the school is situated. The education authority shall  have  power to receive the same, to manage the school as a school providing a course of secondary education and to make good any deficiency in the income of the school as managed by them.
+- (1) The  governing  body  of  any  school  providing  a  course  of  secondary  education administered under a scheme approved in terms of the Act of 1882, or under any Act or any provisional order confirmed by Act of Parliament, may, with a view to the maintenance of such school as a school providing a course of secondary education resolve to transfer the management thereof, together with the school buildings, and the revenue of the school from endowments in whole or in part, or, where the endowments are held solely for the purpose of such school, together with the endowments, to the education authority of the education area in which the school is situated. The education authority shall  have  power to receive the same, to manage the school as a school providing a course of secondary education and to make good any deficiency in the income of the school as managed by them.
 
-- The Secretary of State may by order make provision for all matters which appear to  him  necessary  or  proper  for  giving  full  effect  to  any  transfer  under  this section, including provision for the determination of any existing trust whose whole endowments are so transferred.
+- (2) The Secretary of State may by order make provision for all matters which appear to  him  necessary  or  proper  for  giving  full  effect  to  any  transfer  under  this section, including provision for the determination of any existing trust whose whole endowments are so transferred.
 
-- A resolution by a governing body under this section shall not take effect unless it is confirmed by a subsequent meeting called for that special purpose with not less than three weeks notice by circular sent to each member of the governing body and held not sooner than one month nor later than two months after the date of the first meeting, and at such second meeting the requisite majority to secure confirmation shall be not less than the absolute majority of the governing body.
+- (3) A resolution by a governing body under this section shall not take effect unless it is confirmed by a subsequent meeting called for that special purpose with not less than three weeks notice by circular sent to each member of the governing body and held not sooner than one month nor later than two months after the date of the first meeting, and at such second meeting the requisite majority to secure confirmation shall be not less than the absolute majority of the governing body.
 
 ##### 16 Transference of denominational schools to education authorities.
 
-- It  shall  be  lawful  for  the  person  or  persons  vested  with  the  title  of  any  school established after 21st November 1918, to which section 18 of the Act of 1918 would have applied had the school been in existence at that date, with the consent of the trustees of any trust upon which the school is held and of the Secretary of State, to transfer the school together with the site thereof and any land or buildings and furniture held and used in connection therewith, by sale, lease or otherwise, to the education authority, who shall be bound to accept such transfer, upon such terms as to price, rent, or other consideration as may be agreed, or as may be determined, failing agreement, by an arbiter appointed by the Secretary of State upon the application of either party.
+- (1) It  shall  be  lawful  for  the  person  or  persons  vested  with  the  title  of  any  school established after 21st November 1918, to which section 18 of the Act of 1918 would have applied had the school been in existence at that date, with the consent of the trustees of any trust upon which the school is held and of the Secretary of State, to transfer the school together with the site thereof and any land or buildings and furniture held and used in connection therewith, by sale, lease or otherwise, to the education authority, who shall be bound to accept such transfer, upon such terms as to price, rent, or other consideration as may be agreed, or as may be determined, failing agreement, by an arbiter appointed by the Secretary of State upon the application of either party.
 
-- The consent of trustees to the transference of a school to an education authority under this section may be given by a majority of not less than two thirds of the trustees present at a meeting duly summoned for that purpose. The transference may be effected [ F64 by registration in the Land Register of Scotland of an ordinary disposition or other deed of conveyance by the persons vested with the title ] and no stamp or other duty shall be exigible on such disposition or other deed; and the persons whose consent is hereby required need not be parties to the conveyance, and the validity of the transference and the title of the education authority shall not be subject to challenge on the ground that
+- (2) The consent of trustees to the transference of a school to an education authority under this section may be given by a majority of not less than two thirds of the trustees present at a meeting duly summoned for that purpose. The transference may be effected [ F64 by registration in the Land Register of Scotland of an ordinary disposition or other deed of conveyance by the persons vested with the title ] and no stamp or other duty shall be exigible on such disposition or other deed; and the persons whose consent is hereby required need not be parties to the conveyance, and the validity of the transference and the title of the education authority shall not be subject to challenge on the ground that
 
 [[END OF PAGE 14]]
 
@@ -709,7 +703,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 the requisite consents were not duly given, unless such challenge shall be judicially made within six months after [ F65 such ][ F66 registration ] .
 
-- The existing staff of teachers in a school transferred under this section shall be taken over by the education authority and shall as from the date of transfer be placed upon the same scale of salaries as teachers of corresponding qualifications appointed to corresponding positions in other schools of the same authority; and any question which may arise as to the due fulfilment or observance of any provision or requirement of this subsection shall be determined by the Secretary of State.
+- (3) The existing staff of teachers in a school transferred under this section shall be taken over by the education authority and shall as from the date of transfer be placed upon the same scale of salaries as teachers of corresponding qualifications appointed to corresponding positions in other schools of the same authority; and any question which may arise as to the due fulfilment or observance of any provision or requirement of this subsection shall be determined by the Secretary of State.
 
 ###### Textual Amendments
 
@@ -719,15 +713,15 @@ F64 Words in s. 16(2) substituted for s. 16(2)(a)(b) (8.12.2014) by Land Registr
 
 ##### 17 Provision, maintenance and equipment of schools and other buildings.
 
-[ F67 Subject to subsection (6) below, ] [i]t shall be the duty of an education authority [ F68 , in the performance of their functions under sections 1 to 6 of this Act, ] to provide for their area,. . . F69 sufficient accommodation in public schools (whether day schools or boarding schools),. . . F70 and other educational establishments under their management to enable them to [ F71 perform their said functions ] .
+(1) [ F67 Subject to subsection (6) below, ] [i]t shall be the duty of an education authority [ F68 , in the performance of their functions under sections 1 to 6 of this Act, ] to provide for their area,. . . F69 sufficient accommodation in public schools (whether day schools or boarding schools),. . . F70 and other educational establishments under their management to enable them to [ F71 perform their said functions ] .
 
 [ F72 (2) In any case where an education authority are satisfied, whether upon representations made to them by any church or denominational body acting on behalf of the parents of children belonging to such church or body or otherwise, that a new school is required for the accommodation of children whose parents are resident within the area of the authority, regard being had to the religious belief of such parents, it shall be lawful for the education authority to provide a new school. ]
 
-[ F73 Subject to subsection (6) below, ] [a]n education authority shall maintain and keep efficient every public school,. . . F70 and other educational establishment under their management, and shall from time to time provide such additional accommodation as may be necessary to [ F74 enable them to perform their functions under sections 1 to 6 of this Act. ] .
+(3) [ F73 Subject to subsection (6) below, ] [a]n education authority shall maintain and keep efficient every public school,. . . F70 and other educational establishment under their management, and shall from time to time provide such additional accommodation as may be necessary to [ F74 enable them to perform their functions under sections 1 to 6 of this Act. ] .
 
-- An education authority may, for the purposes of their duty under this section, provide, alter,  improve,  enlarge,  equip  and  maintain  schools,.  .  . F70 and  other  educational establishments outwith as well as within their area.
+- (4) An education authority may, for the purposes of their duty under this section, provide, alter,  improve,  enlarge,  equip  and  maintain  schools,.  .  . F70 and  other  educational establishments outwith as well as within their area.
 
-- An  education  authority  may  provide,  alter,  improve,  enlarge,  equip,  maintain  and furnish houses and hostels, with such outbuildings and gardens as they think expedient, for teachers and other officers employed by them (whether or not employed in or about an educational establishment).
+- (5) An  education  authority  may  provide,  alter,  improve,  enlarge,  equip,  maintain  and furnish houses and hostels, with such outbuildings and gardens as they think expedient, for teachers and other officers employed by them (whether or not employed in or about an educational establishment).
 
 [ F75 (6) Subsections (1) and (3) above shall have effect as regards further education only to the extent that the education authority is under a duty to do anything under the said sections 1 to 6. ]
 
@@ -750,15 +744,15 @@ F67 Words in s. 17(1) inserted (1.4.1993) by Further and Higher Education (Scotl
 
 ##### 18 Improvements as to premises of educational establishments for the safety of pupils.
 
-- Subject to the provisions of this section, an education authority may for the purpose of reducing the risk of accident to pupils going to or returning from schools or other educational establishments in their area and under their management, or while actually present at such schools or establishments, do work to improve the safety of any private road which is used by these pupils or which is in the vicinity of such a school or establishment, and provide or arrange for the provision of safety barriers at or near the entrances to such schools and establishments.
+- (1) Subject to the provisions of this section, an education authority may for the purpose of reducing the risk of accident to pupils going to or returning from schools or other educational establishments in their area and under their management, or while actually present at such schools or establishments, do work to improve the safety of any private road which is used by these pupils or which is in the vicinity of such a school or establishment, and provide or arrange for the provision of safety barriers at or near the entrances to such schools and establishments.
 
-- Any work for the purpose of subsection (1) above may be undertaken by the education authority in co-operation with any other person.
+- (2) Any work for the purpose of subsection (1) above may be undertaken by the education authority in co-operation with any other person.
 
-- For the purpose of subsection (1) above an education authority may enter on and carry out work on any land:
+- (3) For the purpose of subsection (1) above an education authority may enter on and carry out work on any land:
 
 Provided that where an education authority propose to carry out any such work on land which is in possession of another person, the authority shall obtain the consent of the owner and of the occupier of such land, unless the owner or the occupier cannot be found.
 
-- Where an education authority propose to provide or arrange for the provision of safety barriers for the purpose of subsection (1) above on any road, the authority shall-
+- (4) Where an education authority propose to provide or arrange for the provision of safety barriers for the purpose of subsection (1) above on any road, the authority shall-
 
 (a) if it is a public road, obtain the consent of the authority responsible for the maintenance of such road;
 
@@ -785,9 +779,9 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 ##### 19 Power of Secretary of State to prescribe standards for premises, etc., of educational establishments.
 
-- The  Secretary  of  State  may  make  regulations  prescribing  standards  and F77 . . . requirements  which  are  to  apply  to  the  premises  and  equipment  of  educational establishments under the management of education authorities F78 ..., and regulations under this subsection may prescribe different standards or requirements in respect of such different classes (however defined) of educational establishment as may be specified in the regulations.
+- (1) The  Secretary  of  State  may  make  regulations  prescribing  standards  and F77 . . . requirements  which  are  to  apply  to  the  premises  and  equipment  of  educational establishments under the management of education authorities F78 ..., and regulations under this subsection may prescribe different standards or requirements in respect of such different classes (however defined) of educational establishment as may be specified in the regulations.
 
-- It shall be the duty
+- (2) It shall be the duty
 
 [ F79 (a) of an education authority to secure that the premises and equipment of any educational establishment under their management conform to the standards and requirements applicable to that establishment ][ F80 ;
 
@@ -795,7 +789,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 and,  in  particular,  that  the  premises  and  equipment  of  all  educational establishments  under  their  management F81 ...  are  maintained  in  such  a condition as to conduce to the good health and safety of all persons occupying or frequenting the premises or using the equipment.
 
-- Where  the  premises  or  equipment  of  any  educational  establishment  under  the management  of  an  education  authority F82 ...,  do  not  conform  to  the  standards  or requirements applicable to that establishment F82 ... or are not maintained as mentioned in  subsection  (2)  above,  the  Secretary  of  State  may,  after  consultation  with  the authority F82 ..., direct that the premises or equipment be brought into conformity with the said standards or requirements or into the state of maintenance mentioned in that subsection (as the case may be) within a period to be specified in the direction; and it shall thereupon be the duty of [ F83 that authority F82 ... ] to comply with the direction.
+- (3) Where  the  premises  or  equipment  of  any  educational  establishment  under  the management  of  an  education  authority F82 ...,  do  not  conform  to  the  standards  or requirements applicable to that establishment F82 ... or are not maintained as mentioned in  subsection  (2)  above,  the  Secretary  of  State  may,  after  consultation  with  the authority F82 ..., direct that the premises or equipment be brought into conformity with the said standards or requirements or into the state of maintenance mentioned in that subsection (as the case may be) within a period to be specified in the direction; and it shall thereupon be the duty of [ F83 that authority F82 ... ] to comply with the direction.
 
 ###### Textual Amendments
 
@@ -829,16 +823,16 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 ##### [ F84 19A Secretary of State's power to control use of dangerous materials or apparatus in educational establishments.
 
-- The Secretary of State may by regulations make provision for requiring his approval to be obtained for the use in such educational establishments as may be specified in the regulations of such materials or apparatus as may be so specified, being materials or apparatus which could or might involve a serious risk to health.
+- (1) The Secretary of State may by regulations make provision for requiring his approval to be obtained for the use in such educational establishments as may be specified in the regulations of such materials or apparatus as may be so specified, being materials or apparatus which could or might involve a serious risk to health.
 
-- The  power  referred  to  in  subsection  (1)  above  includes  power  to  make  different provision in respect of different educational establishments. ]
+- (2) The  power  referred  to  in  subsection  (1)  above  includes  power  to  make  different provision in respect of different educational establishments. ]
 
 ###### Textual Amendments
 F84 S. 19A inserted by Education (Amendment) (Scotland) Act 1984 (c. 6, SIF 41:2), s. 1
 
 ##### 20 Acquisition of land and execution of works.
 
-- In order to enable them to execute any of their functions, an education authority may F85 . . . from time to time-
+- (1) In order to enable them to execute any of their functions, an education authority may F85 . . . from time to time-
 
 (a) acquire, whether by way of purchase, F86 ... lease, excambion or donation, any land whether situated within or outwith the area of the authority;
 
@@ -850,11 +844,11 @@ Provided always that paragraphs (b) and (c) above shall not of themselves author
 
 F87 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F87 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- For the purpose of the acquisition of land by an education authority under this Act, the Land Clauses Acts, except in so far as they relate to the purchase and taking of land otherwise than by agreement, shall be incorporated with this Act.
+- (4) For the purpose of the acquisition of land by an education authority under this Act, the Land Clauses Acts, except in so far as they relate to the purchase and taking of land otherwise than by agreement, shall be incorporated with this Act.
 
-- An  education  authority  may  be  authorised  by  the  Secretary  of  State  to  purchase land  compulsorily  for  the  purposes  of  this  Act,  and  the M3 Acquisition  of  Land (Authorisation Procedure) (Scotland) Act 1947 shall apply in relation to any such compulsory  purchase  as  if  this  Act  had  been  in  force  immediately  before  the commencement of that Act.
+- (5) An  education  authority  may  be  authorised  by  the  Secretary  of  State  to  purchase land  compulsorily  for  the  purposes  of  this  Act,  and  the M3 Acquisition  of  Land (Authorisation Procedure) (Scotland) Act 1947 shall apply in relation to any such compulsory  purchase  as  if  this  Act  had  been  in  force  immediately  before  the commencement of that Act.
 
-- In this section, and in the Lands Clauses Acts as hereby incorporated, 'land' includes water and any right or servitude in or over land or water.
+- (6) In this section, and in the Lands Clauses Acts as hereby incorporated, 'land' includes water and any right or servitude in or over land or water.
 
 ###### Textual Amendments
 F85 Words in s. 20(1) repealed (18.9.1996) by 1996 c. 43, s. 36, Sch. 6 ; S.I. 1996/2250, art. 2 . F86 Word in s. 20(1)(a) repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), sch. 12 para. 41(3), sch. 13 pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2 F87 S. 20(2)(3) repealed (18.9.1996) by 1996 c. 43, s. 36, Sch. 6 ; S.I. 1996/2250, art. 2 .
@@ -881,9 +875,9 @@ M3 1947 c. 42.
 
 ##### 21 Management of denominational schools.
 
-- Any school transferred to an education authority under section 16(1) of this Act shall be held, maintained and managed by the education authority as a public school.
+- (1) Any school transferred to an education authority under section 16(1) of this Act shall be held, maintained and managed by the education authority as a public school.
 
-[ F88 Subject to subsections (2A) and (2C) below, ] in  any  such  school the education authority shall have the sole power of regulating the curriculum and of appointing teachers:
+(2) [ F88 Subject to subsections (2A) and (2C) below, ] in  any  such  school the education authority shall have the sole power of regulating the curriculum and of appointing teachers:
 
 [ F89 (2A) A teacher appointed to any post on ] the  staff  of  any  such  school by the education authority shall. . . F90 satisfy the Secretary of State as to qualification, and [ F91 shall be  required  to  be ] approved  as  regards [ F92 his ] religious  belief  and  character  by representatives of the church or denominational body in whose interest the school has been conducted;
 
@@ -891,15 +885,15 @@ M3 1947 c. 42.
 
 (2C) ] subject  to  the  provisions  of  section  9  of  this  Act,  the  time  set  apart  for  religious instruction or observance in any such school shall not be less than that so set apart according to the use and wont of the former management of the school.
 
-- For each such school the education authority shall appoint as supervisor of religious instruction, without remuneration, a person approved as regards religious belief and character as aforesaid, and the supervisor so appointed shall report to the education authority as to the efficiency of the religious instruction given in such school, and shall be entitled to enter the school at all times set apart for religious instruction or observance.
+- (3) For each such school the education authority shall appoint as supervisor of religious instruction, without remuneration, a person approved as regards religious belief and character as aforesaid, and the supervisor so appointed shall report to the education authority as to the efficiency of the religious instruction given in such school, and shall be entitled to enter the school at all times set apart for religious instruction or observance.
 
-- In every such school the education authority shall give facilities for the holding of religious examinations.
+- (4) In every such school the education authority shall give facilities for the holding of religious examinations.
 
-- Subsections (1) to (4) above, so far as applicable, shall have effect in relation to any school provided by an education authority under section 17(2) of this Act as they have effect in relation to schools transferred to an education authority as mentioned in subsection (1) above, subject to the modification that the time set apart for religious instruction in any school so provided shall be not less than that so set apart in schools in the same education area which have been transferred as mentioned in subsection (1) above.
+- (5) Subsections (1) to (4) above, so far as applicable, shall have effect in relation to any school provided by an education authority under section 17(2) of this Act as they have effect in relation to schools transferred to an education authority as mentioned in subsection (1) above, subject to the modification that the time set apart for religious instruction in any school so provided shall be not less than that so set apart in schools in the same education area which have been transferred as mentioned in subsection (1) above.
 
-- Any question which may arise as to the due fulfilment or observance of any provision or requirement of the foregoing provisions of this section shall be determined by the Secretary of State.
+- (6) Any question which may arise as to the due fulfilment or observance of any provision or requirement of the foregoing provisions of this section shall be determined by the Secretary of State.
 
-- In  this  section,  the  reference  to  section  16(1)  or  17(2)  of  this  Act  shall  include  a reference to the corresponding provision of the Act of 1918, the Act of 1946 and the Act of 1962.
+- (7) In  this  section,  the  reference  to  section  16(1)  or  17(2)  of  this  Act  shall  include  a reference to the corresponding provision of the Act of 1918, the Act of 1946 and the Act of 1962.
 
 [[END OF PAGE 19]]
 
@@ -933,17 +927,17 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 - C8 Ss. 21(2)-(4)(6) applied (with modifications) by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s. 12
 
-#### Discontinuance and moves of educationalestablishments
+#### Discontinuance and moves of educational establishments
 
 ##### 22 Discontinuance and moves of educational establishments.
 
-- Subject to any special conditions attaching thereto. . . F94 , an education authority may-
+- (1) Subject to any special conditions attaching thereto. . . F94 , an education authority may-
 
 (a) sell, F95 ..., excamb or let any land vested in them; and
 
 (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F94
 
-- Where an education authority propose to discontinue any educational establishment under  their  management,  or  to  discontinue  the  use,  in  connection  with  such  an educational establishment, of any part of that establishment, or of any building or part of a building ancillary to the establishment, and land forming the site, or part of the site, of that establishment or of that part of the establishment or of that building or part of a building, as the case may be, is subject to-
+- (2) Where an education authority propose to discontinue any educational establishment under  their  management,  or  to  discontinue  the  use,  in  connection  with  such  an educational establishment, of any part of that establishment, or of any building or part of a building ancillary to the establishment, and land forming the site, or part of the site, of that establishment or of that part of the establishment or of that building or part of a building, as the case may be, is subject to-
 
 (a) the third proviso to section 2 of the M4 School Sites Act 1841 (which provides that,  if  any  land  granted  in  accordance  with  the  provisions  of  that  section ceases to be used for the purposes mentioned in that Act, that land shall revert to the grantor), or
 
@@ -969,9 +963,9 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-- A direction given by the Secretary of State under subsection (2) above in relation to any land may make provision for the payment out of the proceeds of any sale of that land of any sum which is payable to any person in consideration of the relinquishment of his rights in relation to the land under the said proviso or condition.
+- (3) A direction given by the Secretary of State under subsection (2) above in relation to any land may make provision for the payment out of the proceeds of any sale of that land of any sum which is payable to any person in consideration of the relinquishment of his rights in relation to the land under the said proviso or condition.
 
-- If at any time after the expiry of ten years from the transfer of a school under section 16 of this Act, or from the provision of a new school under section 17(2) of this Act, the education authority by whom the school is maintained are of opinion that the school is no longer required, or that, having regard to the religious belief of the parents of the children attending the school, the conditions prescribed in subsections (1) to (4) of section 21 of this Act or in the said subsections so far as applicable and having effect by virtue of subsection (5) of that section, as the case may be, ought no longer to apply thereto,. . . F94 it shall [ F96 subject to [ F97 sections 22C and 22D of this Act and the Schools (Consultation) (Scotland) Act 2010 (asp 2) ]] be lawful for the education authority thereafter to discontinue the school, or, as the case may be, to hold, maintain and manage the same in all respects as a public school not subject to those conditions:
+- (4) If at any time after the expiry of ten years from the transfer of a school under section 16 of this Act, or from the provision of a new school under section 17(2) of this Act, the education authority by whom the school is maintained are of opinion that the school is no longer required, or that, having regard to the religious belief of the parents of the children attending the school, the conditions prescribed in subsections (1) to (4) of section 21 of this Act or in the said subsections so far as applicable and having effect by virtue of subsection (5) of that section, as the case may be, ought no longer to apply thereto,. . . F94 it shall [ F96 subject to [ F97 sections 22C and 22D of this Act and the Schools (Consultation) (Scotland) Act 2010 (asp 2) ]] be lawful for the education authority thereafter to discontinue the school, or, as the case may be, to hold, maintain and manage the same in all respects as a public school not subject to those conditions:
 
 Provided that-
 
@@ -979,7 +973,7 @@ Provided that-
 
 (ii) if  before  the  expiry  of  ten  years  from  the  transfer  of  any  such  school,  the education  authority  are  of  opinion  as  aforesaid  and  so  represent,  and  the trustees by whom the school was transferred, or their successors in office or representatives,  formally  intimate  to  the [ F98 authority ] that  they  concur  with the  authority  in  their  opinion  as  represented,  then  in  such  case,.  .  . F94 ,  it shall [ F99 subject  to [ F100 sections  22C  and  22D  of  this  Act  and  the  Schools (Consultation) (Scotland) Act 2010 (asp 2) ]] be lawful for the education authority forthwith to discontinue or to hold, maintain or manage the school as aforesaid, subject to the like provision with respect to compensation.
 
-- In subsection (4) above, the reference to section 16 or 17(2) of this Act shall include a reference to the corresponding provision of the Act of 1918, the Act of 1946 and the Act of 1962.
+- (5) In subsection (4) above, the reference to section 16 or 17(2) of this Act shall include a reference to the corresponding provision of the Act of 1918, the Act of 1946 and the Act of 1962.
 
 ###### Textual Amendments
 F94 Words repealed by Education (Scotland) Act 1981 (c. 58), Sch. 9 F95 Word in s. 22(1)(a) repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), sch. 12 para. 41(3), sch. 13 pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2 F96 Words inserted by Education (Scotland) Act 1981 (c. 58), s. 7(2)(a)(ii) F97 Words in s. 22(4) substituted (5.4.2010) by Schools (Consultation) (Scotland) Act 2010 (asp 2), s. 22(2), sch. 3 para. 1(1)(a) ; S.S.I. 2010/70, art. 2 F98 Word substituted by Education (Scotland) Act 1981 (c. 58), s. 7(2)(b)(i), Sch. 8 F99 Words inserted by Education (Scotland) Act 1981 (c. 58), s. 7(2)(b)(iii) F100 Words in s. 22(4) substituted (5.4.2010) by Schools (Consultation) (Scotland) Act 2010 (asp 2), s. 22(2), sch. 3 para. 1(1)(b) ; S.S.I. 2010/70, art. 2
@@ -1020,17 +1014,17 @@ F102 S. 22B repealed (5.4.2010) by Schools (Consultation) (Scotland) Act 2010 (a
 
 ##### 22C Consent for certain changes affecting denominational schools.
 
-- An  education  authority  shall  submit  to  the  Secretary  of  State  for  his  consent  any proposal of theirs to which this section applies and shall not implement such a proposal without his consent.
+- (1) An  education  authority  shall  submit  to  the  Secretary  of  State  for  his  consent  any proposal of theirs to which this section applies and shall not implement such a proposal without his consent.
 
-- A proposal to which this section applies is one which-
+- (2) A proposal to which this section applies is one which-
 
 (a) relates to a school transferred to an education authority under section 16(1) or provided by them under section 17(2) of this Act; and
 
 (b) will, if implemented, have the effect that all or some of the pupils who attend the school will no longer receive school education in a school of the kind referred to in paragraph (a) above or that all or some of the children who would, but for the implementation of the proposal, have been likely to attend it will not be likely to receive such education in a school of that kind.
 
-- The Secretary of State shall not grant consent under this section unless he is satisfied that adequate arrangements have been made for the religious instruction of pupils and children who would, as a result of implementation of the proposal, no longer receive or be likely to receive school education in a school of the kind referred to in paragraph (a) of subsection (2) above.
+- (3) The Secretary of State shall not grant consent under this section unless he is satisfied that adequate arrangements have been made for the religious instruction of pupils and children who would, as a result of implementation of the proposal, no longer receive or be likely to receive school education in a school of the kind referred to in paragraph (a) of subsection (2) above.
 
-- In  granting  consent  under  this  section  the  Secretary  of  State  may  impose  such conditions as he thinks fit with regard to the religious instruction of the pupils and children referred to in paragraph (b) of subsection (2) above and to related matters and conditions imposed by the Secretary of State under this section may be revoked or amended by him at any time.
+- (4) In  granting  consent  under  this  section  the  Secretary  of  State  may  impose  such conditions as he thinks fit with regard to the religious instruction of the pupils and children referred to in paragraph (b) of subsection (2) above and to related matters and conditions imposed by the Secretary of State under this section may be revoked or amended by him at any time.
 
 [[END OF PAGE 22]]
 
@@ -1056,13 +1050,13 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 shall be determined by the Secretary of State and the education authority shall perform their duties under this Act in accordance with any such determination.
 
-- In  this  section,  the  reference  to  section  16(1)  or  17(2)  of  this  Act  shall  include  a reference to the corresponding provision of the Act of 1918, the Act of 1946 and the Act of 1962.
+- (6) In  this  section,  the  reference  to  section  16(1)  or  17(2)  of  this  Act  shall  include  a reference to the corresponding provision of the Act of 1918, the Act of 1946 and the Act of 1962.
 
 ##### 22D Further provisions relating to denominational schools.
 
-- An  education  authority  shall  submit  to  the  Secretary  of  State  for  his  consent  any proposal of theirs to which this section applies and shall not implement such a proposal without his consent.
+- (1) An  education  authority  shall  submit  to  the  Secretary  of  State  for  his  consent  any proposal of theirs to which this section applies and shall not implement such a proposal without his consent.
 
-- A proposal to which this section applies is one-
+- (2) A proposal to which this section applies is one-
 
 (a) which  relates  to  a  school  transferred  to [ F103 an ] education  authority  under section 16(1) or provided by them under section 17(2) of this Act;
 
@@ -1108,11 +1102,11 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 in the provision, distribution or availability of school education in schools of the kind referred to in subsection (2)(a) above compared with such provision, distribution or availability in other public schools. ]
 
-- The Secretary of State shall not grant consent under this section in relation to a school unless he is satisfied that adequate arrangements have been made for the religious instruction of the children who will no longer receive or be likely to receive school education in a school of the kind referred to in subsection (2)(a) above.
+- (5) The Secretary of State shall not grant consent under this section in relation to a school unless he is satisfied that adequate arrangements have been made for the religious instruction of the children who will no longer receive or be likely to receive school education in a school of the kind referred to in subsection (2)(a) above.
 
-- In granting consent under this section in relation to a school the Secretary of State may impose such conditions as he thinks fit with regard to the religious instruction of the children who will no longer receive or be likely to receive school education in a school of the kind referred to in subsection (2)(a) above and to related matters and, in doing so, he shall have regard to the duties imposed by section 21 of this Act on education authorities in relation to schools of that kind, and conditions imposed by the Secretary of State under this section may be revoked or amended by him at any time.
+- (6) In granting consent under this section in relation to a school the Secretary of State may impose such conditions as he thinks fit with regard to the religious instruction of the children who will no longer receive or be likely to receive school education in a school of the kind referred to in subsection (2)(a) above and to related matters and, in doing so, he shall have regard to the duties imposed by section 21 of this Act on education authorities in relation to schools of that kind, and conditions imposed by the Secretary of State under this section may be revoked or amended by him at any time.
 
-- Any question which may arise-
+- (7) Any question which may arise-
 
 (a) whether a proposal is one to which this section applies;
 
@@ -1122,7 +1116,7 @@ in the provision, distribution or availability of school education in schools of
 
 shall be determined by the Secretary of State and the education authority shall perform their duties under this Act in accordance with any such determination.
 
-- In  this  section  the  reference  to  section  16(1)  or  17(2)  of  this  Act  shall  include  a reference to the corresponding provision of the Act of 1918, the Act of 1946 and the Act of 1962.
+- (8) In  this  section  the  reference  to  section  16(1)  or  17(2)  of  this  Act  shall  include  a reference to the corresponding provision of the Act of 1918, the Act of 1946 and the Act of 1962.
 
 ###### Textual Amendments
 F103 Word in s. 22D(2)(a) substituted (1.4.1996) by 1994 c. 39, s. 144(a) ; S.I. 1996/323, art. 4(1)(a), Sch. 1 . F104 Words in s. 22D(2)(c) substituted (1.4.1996) by 1994 c. 39, s. 144(b)(i) ; S.I. 1996/323, art. 4(1)(a), Sch. 1 . F105 Words in s. 22D(2)(c)(i) substituted (1.4.1996) by 1994 c. 39, s. 144(b)(ii) ; S.I. 1996/323, art. 4(1)(a), Sch. 1 . F106 Words in s. 22D(2)(c)(ii) inserted (1.4.1996) by 1994 c. 39, s. 144(b)(iii) ; S.I. 1996/323, art. 4(1)(a), Sch. 1 . F107 S. 22D(3) substituted for s. 22D(3)(4) (1.4.1996) by 1994 c. 39, s. 144(c) ; S.I. 1996/323, art. 4(1)(a), Sch. 1 .
@@ -1145,7 +1139,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 ##### 23 Provision by education authority for education of pupils belonging to areas of other authorities.
 
-- An education authority shall have power to provide in or in connection with any public school, . . . F108 or other educational establishment under their management, school education  or  further  education  and  other  services  under  this  Act [ F109 or  additional support  within  the  meaning  of  the  Education  (Additional  Support  for  Learning) (Scotland) Act 2004 (asp 4) (referred to in this section as 'the 2004 Act') ] for any pupil belonging to the area of some other education authority [ F110 or of a [ F111 local authority (as defined in section 579(1) of the Education Act 1996) ] in England and Wales ] .
+- (1) An education authority shall have power to provide in or in connection with any public school, . . . F108 or other educational establishment under their management, school education  or  further  education  and  other  services  under  this  Act [ F109 or  additional support  within  the  meaning  of  the  Education  (Additional  Support  for  Learning) (Scotland) Act 2004 (asp 4) (referred to in this section as 'the 2004 Act') ] for any pupil belonging to the area of some other education authority [ F110 or of a [ F111 local authority (as defined in section 579(1) of the Education Act 1996) ] in England and Wales ] .
 
 - F112 [ (1A) Without prejudice to any other provision of this Act [ F113 or any provision of the 2004 Act [ F114 or their functions under sections 4 and 5 of the 2004 Act ]] , for the purposes of their duty under section 1 of this Act an education authority shall have power to make arrangements with another education authority (in this subsection referred to as a 'provider authority') for the provision of school education or further education [ F115 or additional support within the meaning of the 2004 Act ] for any pupils belonging to the area of the authority in a school or educational establishment under the management of the provider authority.
 
@@ -1153,7 +1147,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 (1C) Where the arrangements for the placing of children in schools subsisting before the establishment of new local government areas under Part I of the Local Government etc. (Scotland) Act 1994 lead, as a consequence of such establishment, to school education for pupils belonging to the area of one education authority being provided at schools or educational establishments under the management of another education authority, nothing in this Act shall prevent such arrangements from continuing until they are changed by an education authority in accordance with this Act. ]
 
-- Where an education authority . . . F117 have provided school education with or without other  services  for  any  pupil  belonging  to  the  area  of  some  other  authority [ F118 or have provided additional support within the meaning of the 2004 Act for any such pupil, ] , the education authority . . . F117 , may, if a claim therefor is made within the prescribed period, recover from that other authority such contributions in respect of such provision as may be agreed by the authorities concerned . . . F117 or, in default of such agreement, as may be determined by the Secretary of State, who shall have regard to the estimated cost of such provision:
+- (2) Where an education authority . . . F117 have provided school education with or without other  services  for  any  pupil  belonging  to  the  area  of  some  other  authority [ F118 or have provided additional support within the meaning of the 2004 Act for any such pupil, ] , the education authority . . . F117 , may, if a claim therefor is made within the prescribed period, recover from that other authority such contributions in respect of such provision as may be agreed by the authorities concerned . . . F117 or, in default of such agreement, as may be determined by the Secretary of State, who shall have regard to the estimated cost of such provision:
 
 . . .
 
@@ -1165,7 +1159,7 @@ F119
 
 (b) services provided by the authority forming part of any procedure provided for in regulations under section 16(1) of that Act (dispute resolution). ]
 
-- The Secretary of State may make regulations prescribing the areas to which particular classes  of  pupils  receiving  school  education  are  to  be  deemed  to  belong  for  the purposes of this section [ F121 and sections F122 ...,  50, [ F123 and 51 ] of this Act ][ F124 and
+- (3) The Secretary of State may make regulations prescribing the areas to which particular classes  of  pupils  receiving  school  education  are  to  be  deemed  to  belong  for  the purposes of this section [ F121 and sections F122 ...,  50, [ F123 and 51 ] of this Act ][ F124 and
 
 [[END OF PAGE 25]]
 
@@ -1187,23 +1181,24 @@ Provided that any pupil who becomes ordinarily resident in any area wholly or ma
 
 F125 [ (3A) Where an education authority's arrangements for the placing of children in schools under their management give any priority to siblings of pupils attending such schools, those  arrangements  shall  not  discriminate  between  siblings  belonging  to  the  area of that education authority and siblings belonging to the area of another education authority. ]
 
-- Where on 1st January 1947 or at any subsequent date it was or is the practice of an education authority or of the managers of a school situated in the area of that authority to  provide  school  education  for  pupils  belonging  to  the  area  of  another  education authority, then whether contributions have been recovered under section 24(2) of the Act of 1946, section 24(2) of the Act of 1962 or this section or not, they shall not be entitled to discontinue such practice except after giving such notice as the Secretary of State may, in the event of a dispute, consider reasonable.
+- (4) Where on 1st January 1947 or at any subsequent date it was or is the practice of an education authority or of the managers of a school situated in the area of that authority to provide school education for pupils belonging to the area of another education authority, then whether contributions have been recovered under section 24(2) of the Act of 1946, section 24(2) of the Act of 1962 or this section or not, they shall not be entitled to discontinue such practice except after giving such notice as the Secretary of State may, in the event of a dispute, consider reasonable.
+
+- (5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F126
 
 ###### Textual Amendments
-F108 Words repealed by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s. 82(2), Sch. 11 F109 Words in s. 23(1) inserted (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 3 para. 3(4)(a) ; S.S.I. 2005/564, art. 2 F110 Words inserted by Education (Scotland) Act 1981 (c. 58), Sch. 7 para. 5 F111 Words in s. 23(1) substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 31(2) F112 S. 23(1A)-(1C) inserted (1.4.1996) by 1994 c. 39, s. 32(2) (with s. 7(2)); S.I. 1996/323, art. 4(1)(a), Sch. 1 . F113 Words in s. 23(1A) inserted (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 3 para. 3(4)(b)(i) ; S.S.I. 2005/564, art. 2 F114 Words in s. 23(1A) inserted (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 3 para. 3(4)(b)(ii) ; S.S.I. 2005/564, art. 2 F115 Words in s. 23(1A) inserted (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 3 para. 3(4)(b)(iii) ; S.S.I. 2005/564, art. 2 Words in s. 23(1B) inserted (14.11.2005) by Education (Additional Support for Learning) (Scotland)
-
-- F116 Act 2004 (asp 4), s. 35(1), sch. 3 para. 3(4)(c) ; S.S.I. 2005/564, art. 2
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F126
-
+F108 Words repealed by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s. 82(2), Sch. 11
+F109 Words in s. 23(1) inserted (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 3 para. 3(4)(a); S.S.I. 2005/564, art. 2
+F110 Words inserted by Education (Scotland) Act 1981 (c. 58), Sch. 7 para. 5
+F111 Words in s. 23(1) substituted (5.5.2010) by The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), art. 1, Sch. 2 para. 31(2)
+F112 S. 23(1A)-(1C) inserted (1.4.1996) by 1994 c. 39, s. 32(2) (with s. 7(2)); S.I. 1996/323, art. 4(1)(a), Sch. 1.
+F113 Words in s. 23(1A) inserted (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 3 para. 3(4)(b)(i); S.S.I. 2005/564, art. 2
+F114 Words in s. 23(1A) inserted (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 3 para. 3(4)(b)(ii); S.S.I. 2005/564, art. 2
+F115 Words in s. 23(1A) inserted (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 3 para. 3(4)(b)(iii); S.S.I. 2005/564, art. 2
+F116 Words in s. 23(1B) inserted (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 3 para. 3(4)(c); S.S.I. 2005/564, art. 2
 F117 Words repealed by Education (Scotland) Act 1981 (c. 58), Sch. 9
-
-- F118 Words in s. 23(2) inserted (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 3 para. 3(4)(d) ; S.S.I. 2005/564, art. 2
-
-- F119 Proviso repealed by Education (Scotland) Act 1981 (c. 58), Sch. 9
-
-- F120 S. 23(2A) inserted (14.11.2010) by Education (Additional Support for Learning) (Scotland) Act 2009 (asp 7), ss. 4 , 26(3); S.S.I. 2010/277, art. 2
-
+F118 Words in s. 23(2) inserted (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 3 para. 3(4)(d); S.S.I. 2005/564, art. 2
+F119 Proviso repealed by Education (Scotland) Act 1981 (c. 58), Sch. 9
+F120 S. 23(2A) inserted (14.11.2010) by Education (Additional Support for Learning) (Scotland) Act 2009 (asp 7), ss. 4, 26(3); S.S.I. 2010/277, art. 2
 F121 Words inserted by Education (Scotland) Act 1981 (c. 58), Sch. 7 para. 6
 
 [[END OF PAGE 26]]
@@ -1226,7 +1221,7 @@ C9 S. 23 amended by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 
 
 ##### 24 Power of education authorities to make payments to persons providing education, etc.
 
-- An education authority may, for the purpose of promoting education generally, or of improving the facilities for education available, or the education provided, for their area in particular, make payments-
+- (1) An education authority may, for the purpose of promoting education generally, or of improving the facilities for education available, or the education provided, for their area in particular, make payments-
 
 (a) to another education authority,
 
@@ -1242,7 +1237,7 @@ C9 S. 23 amended by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 
 
 and  any  such  payment  may  be  made  either  unconditionally  or  subject  to  such conditions as may be agreed between the parties.
 
-- Where-
+- (2) Where-
 
 (a) it  is  agreed  between  an  education  authority  and  the  managers  of  any educational establishment, as a condition of the making of payments under subsection (1) above, that the authority shall have representation or additional representation on the governing body of that establishment, but
 
@@ -1276,7 +1271,7 @@ An education authority may arrange or organise, or participate in the arrangemen
 
 ##### 27 Provision of museums by education authorities.
 
-- An education authority may provide and maintain museums within their area, and shall have power-
+- (1) An education authority may provide and maintain museums within their area, and shall have power-
 
 (a) to acquire any objects which, in their opinion, it is desirable to include in a collection contained in a museum maintained by them under this section;
 
@@ -1290,9 +1285,9 @@ An education authority may arrange or organise, or participate in the arrangemen
 
 (f) generally to do all such things as they may consider necessary or expedient for or in connection with the provision and maintenance of museums under this section.
 
-- An  education  authority  may,  if  they  think  fit,  make  such  charge  as  they  consider reasonable for admission to a museum maintained by them under this section, and in  determining  whether,  and  in  what  manner,  to  exercise  their  powers  under  this subsection in relation to any museum, an authority shall take into account the need to secure that the museum plays its full part in the promotion of education in their area, and shall have particular regard to the interests of children and students.
+- (2) An education authority may, if they think fit, make such charge as they consider reasonable for admission to a museum maintained by them under this section, and in determining whether, and in what manner, to exercise their powers under this subsection in relation to any museum, an authority shall take into account the need to secure that the museum plays its full part in the promotion of education in their area, and shall have particular regard to the interests of children and students.
 
-- Where an object has become vested in an education authority subject to any trust or condition-
+- (3) Where an object has become vested in an education authority subject to any trust or condition-
 
 (a) that object shall, on being transferred under subsection (1)(c) above, be subject to the like trust or condition in the hands of the transferee;
 
@@ -1320,25 +1315,21 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 ##### 28 Pupils to be educated in accordance with the wishes of their parents.
 
-- In the exercise and performance of their powers and duties under this Act, the Secretary of State and education authorities shall have regard to the general principle that, so far as is compatible with the provision of suitable instruction and training and the avoidance of unreasonable public expenditure, pupils are to be educated in accordance with the wishes of their parents.
+- (1) In the exercise and performance of their powers and duties under this Act, the Secretary of State and education authorities shall have regard to the general principle that, so far as is compatible with the provision of suitable instruction and training and the avoidance of unreasonable public expenditure, pupils are to be educated in accordance with the wishes of their parents.
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F127
+- (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F127
 
 ###### Textual Amendments
 
 F127 Ss. 5, 28(2), 59, 66(2), 111(4)(5), 129(5)(6), 132(1), Sch. 2 paras. 1, 3 repealed by Education (Scotland) Act 1981 (c. 58), Sch. 9
 
-##### [ F128 Duty to comply with parents' requests as to schools.
+##### [ F128 28A Duty to comply with parents' requests as to schools.
 
-28A
-
-- Where the parent of a [ F129 qualifying child ] makes a written request to an education authority  to  place  his  child  in  the  school  specified  in  the  request,  being  a  school [ F130 (other  than  a  nursery  school  or  a  nursery  class  in  a  school) ] under  their management, it shall be the duty of the authority, subject to subsections (2) [ F131 , (3) [ F132 , (3A) and (3F) ]] below, to place the child accordingly.
+- (1) Where the parent of a [ F129 qualifying child ] makes a written request to an education authority to place his child in the school specified in the request, being a school [ F130 (other than a nursery school or a nursery class in a school) ] under their management, it shall be the duty of the authority, subject to subsections (2) [ F131 , (3) [ F132 , (3A) and (3F) ]] below, to place the child accordingly.
 
 Such a request so made is referred to in this Act as a 'placing request' and the school specified in it is referred to in this Act as the 'specified school'.
 
-[ The education authorities shall-
-
-F133 (1A)
+[ F133 (1A) The education authorities shall-
 
 (a) in carrying out the duty imposed on them by subsection (1) above; and
 
@@ -1346,9 +1337,9 @@ F133 (1A)
 
 have regard to such guidance as the Scottish Ministers may give in that respect. ]
 
-- Where a placing request relates to two or more schools under the management of the education authority to whom it was made, the duty imposed by subsection (1) above shall apply in relation to the first mentioned such school, which shall be treated for the purposes of this Act as the specified school.
+- (2) Where a placing request relates to two or more schools under the management of the education authority to whom it was made, the duty imposed by subsection (1) above shall apply in relation to the first mentioned such school, which shall be treated for the purposes of this Act as the specified school.
 
-- The duty imposed by subsection (1) above does not apply-
+- (3) The duty imposed by subsection (1) above does not apply-
 
 (a) if placing the child in the specified school would-
 
@@ -1394,11 +1385,13 @@ but an education authority may place a child in the specified school notwithstan
 
 - F139 [ F140 (3A) F141 . . .the duty imposed by subsection (1) above does not apply where the acceptance of a placing request in respect of a child who is resident outwith the catchment area of the specified school would prevent the education authority from retaining reserved places at the specified school or in relation to any particular stage of education at the school; but nothing in this subsection shall prevent an education authority from placing a child in the specified school.
 
-(3C) In  subsection  (3A)  above,  'reserved  places'  means  such  number  of  places  (not exceeding such number or, as the case may be, such percentage of places at the school or relating to the particular stage of education as may be prescribed by regulations) as are in the opinion of the education authority reasonably required to accommodate pupils likely to become resident in the catchment area of the school in the period from the time of consideration of the placing request up to and during the year from 1 August to which the placing request relates; and different numbers or, as the case may be, percentages may be prescribed under this subsection for the purpose of different
+F142 (3B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3D) In subsections (3A) and (3C) above, 'catchment area' means the area from which pupils resident therein will be admitted to the school in terms of any priority based on  residence  in  accordance  with  the  guidelines  formulated  by  the  authority  under section 28B(1)(c) of this Act.
+(3C) In subsection (3A) above, 'reserved places' means such number of places (not exceeding such number or, as the case may be, such percentage of places at the school or relating to the particular stage of education as may be prescribed by regulations) as are in the opinion of the education authority reasonably required to accommodate pupils likely to become resident in the catchment area of the school in the period from the time of consideration of the placing request up to and during the year from 1 August to which the placing request relates; and different numbers or, as the case may be, percentages may be prescribed under this subsection for the purpose of different cases or circumstances.
 
-F142 (3B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . cases or circumstances. F142 (3E) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ]
+(3D) In subsections (3A) and (3C) above, 'catchment area' means the area from which pupils resident therein will be admitted to the school in terms of any priority based on residence in accordance with the guidelines formulated by the authority under section 28B(1)(c) of this Act.
+
+F142 (3E) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ]
 
 [[END OF PAGE 30]]
 
@@ -1414,23 +1407,19 @@ Document Generated: 2020-08-02
 
 31
 
-F143
-
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-[ F140 (3F) Where  an  education  authority  are  carrying  out  the  duty  imposed  on  them  by subsection (1) above in respect of a child such as is mentioned in subsection (6)(c) below, they shall place the child in the specified school-
+[ F140 (3F) Where an education authority are carrying out the duty imposed on them by subsection (1) above in respect of a child such as is mentioned in subsection (6)(c) below, they shall place the child in the specified school-
 
 (a) on the date (being the date fixed for that school under section 32(1) and (2) of this Act) next following the making of the placing request; or
 
 (b) where that date has passed, as soon after that date as is reasonably practicable. ]
 
-- An education authority shall inform a parent in writing of their decision on his placing request and, where they decide to refuse it, shall give him written reasons for their decision and inform him of his right to refer it under section 28C of this Act to an appeal committee.
+- (4) An education authority shall inform a parent in writing of their decision on his placing request and, where they decide to refuse it, shall give him written reasons for their decision and inform him of his right to refer it under section 28C of this Act to an appeal committee.
 
-- The Secretary of State may, by regulations, make provision for deeming an education authority to have refused a placing request in the event of their not having informed the parent in writing of their decision on it in accordance with subsection (4) above within such period or before such date as may be prescribed in the regulations and different periods or dates may be so prescribed for different purposes.
+- (5) The Secretary of State may, by regulations, make provision for deeming an education authority to have refused a placing request in the event of their not having informed the parent in writing of their decision on it in accordance with subsection (4) above within such period or before such date as may be prescribed in the regulations and different periods or dates may be so prescribed for different purposes.
 
-[
-
-(6)
+[ F143 (6)
 
 In this section-
 
@@ -1442,9 +1431,17 @@ In this section-
 
 (c) a child who is not of school age and who, on the date (being the date fixed under subsections (1) and (2) of section 32 of this Act for the purposes of subsection (6) of that section) next following the making of the request under subsection (1) above, will be eligible under this Act to commence attendance at a primary school. ]]
 
-- Textual Amendments F128 Ss. 28A-28G inserted by Education (Scotland) Act 1981 (c. 58), s. 1(1) (the insertion being in force on or before 1.1.1983 except as regards s. 28G which came into force for some purposes prior to that date and for all remaining purposes on 9.3.1983) F129 Words in s. 28A(1) substituted (26.2.2002) by School Education (Amendment) (Scotland) Act 2002 (asp 2), s. 1(1)(a)(i)(2) ; S.S.I. 2002/74, art. 2 F130 Words in s. 28A(1) inserted (13.10.2000) by 2000 asp 6, s. 43(2)(4) ; S.S.I. 2000/361, art. 3(1)(2), Sch. Pt. I F131 Words in s. 28A(1) substituted (18.9.1996) by 1996 c. 43, s. 33(2) ; S.I. 1996/2250, art. 2 . F132 Words in s. 28A(1) substituted (26.2.2002) by School Education (Amendment) (Scotland) Act 2002 (asp 2), s. 1(1)(a)(ii)(2) ; S.S.I. 2002/74, art. 2 F133 S. 28A(1A) inserted (13.10.2000) by 2000 asp 6, s. 44(3) ; S.S.I. 2000/361, art. 3(1)(2), Sch. Pt. I F134 S. 28A(3)(a)(iv)(v) and the word preceding it substituted (18.9.1996) for s. 28A(3)(a)(iv) by 1996 c. 43, s. 33(3) ; S.I. 1996/2250, art. 2 . F135 Word in s. 28A(3)(a)(iv) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b) F136 S. 28A(3)(a)(vi) added (13.10.2000) by 2000 asp 6, s. 44(4) ; S.S.I. 2000/361, art. 3(1)(2), Sch. Pt. I
-
-- F137 S. 28A(3)(a)(vii) and word added (31.12.2004 in so far as not already in force) by Standards in Scotland's Schools etc. Act 2000 (asp 6), ss. 44(4) , 61(2); S.S.I. 2004/528, art. 2(a)
+###### Textual Amendments
+F128 Ss. 28A-28G inserted by Education (Scotland) Act 1981 (c. 58), s. 1(1) (the insertion being in force on or before 1.1.1983 except as regards s. 28G which came into force for some purposes prior to that date and for all remaining purposes on 9.3.1983)
+F129 Words in s. 28A(1) substituted (26.2.2002) by School Education (Amendment) (Scotland) Act 2002 (asp 2), s. 1(1)(a)(i)(2); S.S.I. 2002/74, art. 2
+F130 Words in s. 28A(1) inserted (13.10.2000) by 2000 asp 6, s. 43(2)(4); S.S.I. 2000/361, art. 3(1)(2), Sch. Pt. I
+F131 Words in s. 28A(1) substituted (18.9.1996) by 1996 c. 43, s. 33(2); S.I. 1996/2250, art. 2.
+F132 Words in s. 28A(1) substituted (26.2.2002) by School Education (Amendment) (Scotland) Act 2002 (asp 2), s. 1(1)(a)(ii)(2); S.S.I. 2002/74, art. 2
+F133 S. 28A(1A) inserted (13.10.2000) by 2000 asp 6, s. 44(3); S.S.I. 2000/361, art. 3(1)(2), Sch. Pt. I
+F134 S. 28A(3)(a)(iv)(v) and the word preceding it substituted (18.9.1996) for s. 28A(3)(a)(iv) by 1996 c. 43, s. 33(3); S.I. 1996/2250, art. 2.
+F135 Word in s. 28A(3)(a)(iv) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3; S.S.I. 2004/528, art. 2(b)
+F136 S. 28A(3)(a)(vi) added (13.10.2000) by 2000 asp 6, s. 44(4); S.S.I. 2000/361, art. 3(1)(2), Sch. Pt. I
+F137 S. 28A(3)(a)(vii) and word added (31.12.2004 in so far as not already in force) by Standards in Scotland's Schools etc. Act 2000 (asp 6), ss. 44(4), 61(2); S.S.I. 2004/528, art. 2(a)
 
 [[END OF PAGE 31]]
 
@@ -1470,7 +1467,7 @@ M5 1975 c. 65.
 
 ##### 28B Information as to placing in schools and other matters.
 
-- Every education authority shall-
+- (1) Every education authority shall-
 
 (a) publish or otherwise make available information as to-
 
@@ -1514,9 +1511,9 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 (b) ' placing request ' means a placing request within the meaning of that Act. ]
 
-- An  education  authority  shall,  in  performing  the  duties  imposed  on  them  by subsection (1) above, comply with any regulations made under subsection (3) below.
+- (2) An education authority shall, in performing the duties imposed on them by subsection (1) above, comply with any regulations made under subsection (3) below.
 
-- The  Secretary  of  State  may  by  regulations  prescribe  or  make  provision  for  the determining of-
+- (3) The Secretary of State may by regulations prescribe or make provision for the determining of-
 
 (a) the procedure in accordance with which education authorities are to perform the duties imposed on them by subsection (1) above and when they are to do so;
 
@@ -1524,7 +1521,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 (c) the kind of information which is to be so published or which is to comprise the information so made available or supplied to parents.
 
-- The duty imposed by subsection (1)(b)(ii) above arises only when the existence of the child and the fact that he falls to be placed in a school under their management are known to the education authority.
+- (4) The duty imposed by subsection (1)(b)(ii) above arises only when the existence of the child and the fact that he falls to be placed in a school under their management are known to the education authority.
 
 ###### Textual Amendments
 
@@ -1532,13 +1529,13 @@ F144 S. 28B(1A) inserted (14.11.2005) by Education (Additional Support for Learn
 
 ##### 28C Reference to appeal committee of refusal of placing request.
 
-- Subject to subsections (2) and (3) below, a parent who has made a placing request may refer a decision of the education authority refusing his request to an appeal committee set up under section 28D of this Act.
+- (1) Subject to subsections (2) and (3) below, a parent who has made a placing request may refer a decision of the education authority refusing his request to an appeal committee set up under section 28D of this Act.
 
 - F145 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- Where a reference under this section has been made in respect of a child, no further such  reference  in  respect  of  the  child  shall  be  competent  during  the  period  of  12 months beginning with the day on which the immediately preceding such reference was lodged.
+- (3) Where a reference under this section has been made in respect of a child, no further such reference in respect of the child shall be competent during the period of 12 months beginning with the day on which the immediately preceding such reference was lodged.
 
-- A reference under this section shall be lodged with the appeal committee within 28 days of the receipt by the parent of the decision of the education authority (which, if posted, shall, unless the contrary is proved, be presumed to have been received on the day after the date on which it was posted except that a decision posted on a Friday or Saturday shall, unless the contrary is proved, be presumed to have been received on the Monday next following), but the committee shall, on good cause being shown, have power to hear such a reference notwithstanding that it was not lodged within that time.
+- (4) A reference under this section shall be lodged with the appeal committee within 28 days of the receipt by the parent of the decision of the education authority (which, if posted, shall, unless the contrary is proved, be presumed to have been received on the day after the date on which it was posted except that a decision posted on a Friday or Saturday shall, unless the contrary is proved, be presumed to have been received on the Monday next following), but the committee shall, on good cause being shown, have power to hear such a reference notwithstanding that it was not lodged within that time.
 
 ###### Textual Amendments
 F145 S. 28C(2) repealed (13.10.2000) by 2000 asp 6, s. 43(3) ; S.S.I. 2000/361, art. 3(1)(2), Sch. Pt. I
@@ -1560,13 +1557,12 @@ Document Generated: 2020-08-02
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
 ###### Modifications etc. (not altering text)
-S. 28C excluded (during period of 3 years beginning with 1.1.1983) by Education (Scotland) Act 1981
-
-C11 (c. 58), Sch. 8 para. 4(d) C12 S. 28C excluded (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 2 para. 1 ; S.S.I. 2005/564, art. 2
+C11 S. 28C excluded (during period of 3 years beginning with 1.1.1983) by Education (Scotland) Act 1981 (c. 58), Sch. 8 para. 4(d)
+C12 S. 28C excluded (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 2 para. 1; S.S.I. 2005/564, art. 2
 
 ##### 28D Appeal committees.
 
-- Every education authority shall-
+- (1) Every education authority shall-
 
 (a) set up and maintain such number of appeal committees; and
 
@@ -1574,9 +1570,9 @@ C11 (c. 58), Sch. 8 para. 4(d) C12 S. 28C excluded (14.11.2005) by Education (Ad
 
 as are necessary to enable references to be made under sections 28C, 28E(6), 28F(7), 28H and 63 of this Act [ F146 and paragraph 5 of schedule 2 to the Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4) ] and heard by the committees.
 
-- An  appeal  committee  set  up  under  subsection  (1)  above  shall  be  constituted  in accordance with Schedule A1 to this Act.
+- (2) An appeal committee set up under subsection (1) above shall be constituted in accordance with Schedule A1 to this Act.
 
-- The Secretary of State may by regulations make provision for procedure in relation to references under section 28C of this Act and regulations made under this subsection may include provision-
+- (3) The Secretary of State may by regulations make provision for procedure in relation to references under section 28C of this Act and regulations made under this subsection may include provision-
 
 (a) requiring  the  education  authority  to  make  information  relevant  to  their decision available to the committee and to the parent referring that decision to the committee;
 
@@ -1589,7 +1585,7 @@ F146 Words in s. 28D(1) inserted (14.11.2005) by Education (Additional Support f
 
 ##### 28E Appeal committees: supplementary provisions.
 
-- An appeal committee may, on a reference under section 28C of this Act, confirm the education authority's decision if they are satisfied-
+- (1) An appeal committee may, on a reference under section 28C of this Act, confirm the education authority's decision if they are satisfied-
 
 (a) that one or more of the grounds of refusal specified in section 28A(3) of this Act exists or exist; and
 
@@ -1613,13 +1609,13 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-- An appeal committee shall notify their decision under this section and the reasons for it in writing to the parent who made the reference and to the education authority and, where they confirm the authority's decision, they shall inform the parent of his right of appeal to the sheriff under section 28F of this Act.
+- (3) An appeal committee shall notify their decision under this section and the reasons for it in writing to the parent who made the reference and to the education authority and, where they confirm the authority's decision, they shall inform the parent of his right of appeal to the sheriff under section 28F of this Act.
 
-- Where, on a reference under section 28C of this Act, an appeal committee refuse to confirm an education authority's decision, the authority shall give effect to the placing request to which the reference relates.
+- (4) Where, on a reference under section 28C of this Act, an appeal committee refuse to confirm an education authority's decision, the authority shall give effect to the placing request to which the reference relates.
 
-- Where a decision of an appeal committee under this section is inconsistent with any decision of the education authority refusing a placing request to place another child at the same time and at the same stage of education and in the same school as that at and in which the child to whom the appeal committee's decision relates is to be placed, the education authority shall review their decision so to refuse and shall inform the parent of the other child in writing of their decision upon that review and the reasons for it.
+- (5) Where a decision of an appeal committee under this section is inconsistent with any decision of the education authority refusing a placing request to place another child at the same time and at the same stage of education and in the same school as that at and in which the child to whom the appeal committee's decision relates is to be placed, the education authority shall review their decision so to refuse and shall inform the parent of the other child in writing of their decision upon that review and the reasons for it.
 
-- The decision of an education authority upon a review under subsection (5) above not to reverse their decision to refuse the placing request in respect of the other child may be referred to an appeal committee by the parent of the other child as if the decision upon the review were a decision refusing his placing request and the provisions of this Act relating to references of decisions upon placing requests and appeals therefrom (including those relating to appeal committees) shall apply accordingly.
+- (6) The decision of an education authority upon a review under subsection (5) above not to reverse their decision to refuse the placing request in respect of the other child may be referred to an appeal committee by the parent of the other child as if the decision upon the review were a decision refusing his placing request and the provisions of this Act relating to references of decisions upon placing requests and appeals therefrom (including those relating to appeal committees) shall apply accordingly.
 
 F148
 
@@ -1665,9 +1661,9 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-- The education authority may, but the appeal committee shall not, be a party to an appeal under this section.
+- (2) The education authority may, but the appeal committee shall not, be a party to an appeal under this section.
 
-- An appeal under this section-
+- (3) An appeal under this section-
 
 (a) shall be made by way of summary application;
 
@@ -1675,9 +1671,9 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 (c) shall be heard in chambers.
 
-- On  good  cause  being  shown,  the  sheriff  may  hear  an  appeal  under  this  section notwithstanding that it was not lodged within the time mentioned in subsection (3) above.
+- (4) On good cause being shown, the sheriff may hear an appeal under this section notwithstanding that it was not lodged within the time mentioned in subsection (3) above.
 
-- The sheriff may on an appeal under this section confirm the education authority's decision if he is satisfied-
+- (5) The sheriff may on an appeal under this section confirm the education authority's decision if he is satisfied-
 
 (a) that one or more of the grounds of refusal specified in section 28A(3) of this Act exists or exist; and
 
@@ -1685,20 +1681,17 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 but shall otherwise refuse to confirm their decision and shall, where he so refuses, require the authority to give effect to the placing request to which the appeal relates.
 
-- Where the judgment of the sheriff on an appeal under this section is inconsistent with any decision of the education authority (whether confirmed by the appeal committee or not) refusing a placing request to place another child at the same time and at the same stage of education and in the same school as that at and in which the child to whom the judgment relates is to be placed, the education authority shall review their decision so to refuse and shall inform the parent of the other child of their decision upon that review and the reasons for it.
+- (6) Where the judgment of the sheriff on an appeal under this section is inconsistent with any decision of the education authority (whether confirmed by the appeal committee or not) refusing a placing request to place another child at the same time and at the same stage of education and in the same school as that at and in which the child to whom the judgment relates is to be placed, the education authority shall review their decision so to refuse and shall inform the parent of the other child of their decision upon that review and the reasons for it.
 
-- The decision of an education authority upon a review under subsection (6) above not to reverse their decision to refuse the placing request in respect of the other child may be referred to an appeal committee by the parent of the other child as if the decision upon the review were a decision refusing his placing request and the provisions of this Act relating to references of decisions upon placing requests and appeals thereform (including those relating to appeal committees) shall apply accordingly.
+- (7) The decision of an education authority upon a review under subsection (6) above not to reverse their decision to refuse the placing request in respect of the other child may be referred to an appeal committee by the parent of the other child as if the decision upon the review were a decision refusing his placing request and the provisions of this Act relating to references of decisions upon placing requests and appeals thereform (including those relating to appeal committees) shall apply accordingly.
 
-- The sheriff may make such order as to the expenses of an appeal under this section as he thinks proper.
+- (8) The sheriff may make such order as to the expenses of an appeal under this section as he thinks proper.
 
-- The judgment of the sheriff on an appeal under this section shall be final.
-
-- C15 (c. 58), Sch. 8 para. 4(d)
-
-- C16 S. 28F excluded (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 2 para. 1 ; S.S.I. 2005/564, art. 2
+- (9) The judgment of the sheriff on an appeal under this section shall be final.
 
 ###### Modifications etc. (not altering text)
-S. 28F excluded (during period of 3 years beginning with 1.1.1983) by Education (Scotland) Act 1981
+C15 S. 28F excluded (during period of 3 years beginning with 1.1.1983) by Education (Scotland) Act 1981 (c. 58), Sch. 8 para. 4(d)
+C16 S. 28F excluded (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 2 para. 1; S.S.I. 2005/564, art. 2
 
 [[END OF PAGE 36]]
 
@@ -1727,21 +1720,21 @@ C17 S. 28G excluded (14.11.2005) by Education (Additional Support for Learning) 
 
 ##### [ F150 28H Reference to appeal committee, and appeal therefrom of decision to exclude pupil.
 
-- Where an education authority decide to exclude a pupil from a school under their management  which  he  attends,  the  parent  of  the  pupil  or,  where  the  pupil  is  a young person, the pupil may refer the decision to an appeal committee set up under section 28D of this Act.
+- (1) Where an education authority decide to exclude a pupil from a school under their management which he attends, the parent of the pupil or, where the pupil is a young person, the pupil may refer the decision to an appeal committee set up under section 28D of this Act.
 
-- An appeal committee may, on a reference under this section, confirm or annul the decision of the education authority excluding the pupil and, in confirming a decision of the authority to exclude a pupil until certain conditions stipulated by them are complied with, the committee may modify the conditions.
+- (2) An appeal committee may, on a reference under this section, confirm or annul the decision of the education authority excluding the pupil and, in confirming a decision of the authority to exclude a pupil until certain conditions stipulated by them are complied with, the committee may modify the conditions.
 
-- The decision of an appeal committee on a reference under this section and the reasons for it shall be notified by the committee in writing to the parent or, as the case may be, the pupil making the reference and to the education authority.
+- (3) The decision of an appeal committee on a reference under this section and the reasons for it shall be notified by the committee in writing to the parent or, as the case may be, the pupil making the reference and to the education authority.
 
-- A  decision  of  an  appeal  committee  on  a  reference  under  this  section  annulling  a decision of an education authority or modifying the conditions subject to which an education authority have excluded a pupil from a school shall be complied with by the authority.
+- (4) A decision of an appeal committee on a reference under this section annulling a decision of an education authority or modifying the conditions subject to which an education authority have excluded a pupil from a school shall be complied with by the authority.
 
-- The Secretary of State may by regulations make provision for procedure in relation to references under this section and regulations made under this subsection may include provision-
+- (5) The Secretary of State may by regulations make provision for procedure in relation to references under this section and regulations made under this subsection may include provision-
 
 (a) requiring  the  education  authority  to  make  information  relevant  to  their decision available to the appeal committee and to the parent or, as the case may be, pupil referring that decision to the committee;
 
 (b) deeming, for the purposes of this Act, an appeal committee to have confirmed the  education  authority's  decision  to  exclude  a  pupil  from  a  school  under their management which he attends in the event of the appeal committee's not having complied with subsection (3) above within such period as may be prescribed in the regulations and different periods may be so prescribed for different purposes.
 
-- The decision of an appeal committee confirming an education authority's decision to exclude a pupil or modifying conditions under subsection (2) above may be appealed
+- (6) The decision of an appeal committee confirming an education authority's decision to exclude a pupil or modifying conditions under subsection (2) above may be appealed
 
 [[END OF PAGE 37]]
 
@@ -1761,20 +1754,19 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 against by the parent of the pupil or, where the pupil is a young person, the pupil to the sheriff having jurisdiction where the school from which the pupil has been excluded is situated, and subsections (2), (3), (4), (8) and (9) of section 28F of this Act shall apply to an appeal under this subsection.
 
-- The  sheriff  may,  on  an  appeal  under  subsection  (6)  above,  confirm  or  annul  the decision of the education authority excluding the pupil and, in confirming a decision excluding the pupil until certain conditions stipulated by them are complied with, he may modify the conditions. ]
-
-F150 S. 28H inserted (5.4.1983) by Education (Scotland) Act 1981 (c. 58), s. 1(1)
+- (7) The sheriff may, on an appeal under subsection (6) above, confirm or annul the decision of the education authority excluding the pupil and, in confirming a decision excluding the pupil until certain conditions stipulated by them are complied with, he may modify the conditions. ]
 
 ###### Textual Amendments
-###### Modifications etc. (not altering text)
+F150 S. 28H inserted (5.4.1983) by Education (Scotland) Act 1981 (c. 58), s. 1(1)
 
-C18 S. 28H extended (13.10.2000) by 2000 asp 6, s. 41 ; S.S.I. 2000/361, art. 3 ((1)(2), Sch. Pt. I
+###### Modifications etc. (not altering text)
+C18 S. 28H extended (13.10.2000) by 2000 asp 6, s. 41; S.S.I. 2000/361, art. 3((1)(2), Sch. Pt. I
 
 #### Information as to schools and pupils
 
 ##### [ F151 28I Information as to schools.
 
-- The Secretary of State may by regulations make provision requiring-
+- (1) The Secretary of State may by regulations make provision requiring-
 
 (a) in respect of every school for the management of which an education authority is responsible, the education authority; and
 
@@ -1786,9 +1778,9 @@ C18 S. 28H extended (13.10.2000) by 2000 asp 6, s. 41 ; S.S.I. 2000/361, art. 3 
 
 to provide to him and to such persons (including education authorities) as may be prescribed such information as regards the school and pupils attending the school as may be prescribed.
 
-- For the purposes of this section information about the continuing education of pupils leaving a school, or the employment or training taken up by such pupils on leaving, is to be treated as information about the school.
+- (2) For the purposes of this section information about the continuing education of pupils leaving a school, or the employment or training taken up by such pupils on leaving, is to be treated as information about the school.
 
-- Where the Secretary of State exercises his power to make regulations under this section he shall do so with a view to making available information which is likely to-
+- (3) Where the Secretary of State exercises his power to make regulations under this section he shall do so with a view to making available information which is likely to-
 
 (a) assist parents in choosing schools for their children;
 
@@ -1796,7 +1788,7 @@ to provide to him and to such persons (including education authorities) as may b
 
 (c) assist in assessing the degree of efficiency with which the financial resources of those schools are managed.
 
-- Information which is required by virtue of regulations made under this section shall be provided-
+- (4) Information which is required by virtue of regulations made under this section shall be provided-
 
 (a) in such form and manner; and
 
@@ -1820,9 +1812,9 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-- No information provided in accordance with regulations made under this section shall name any pupil to whom it relates.
+- (5) No information provided in accordance with regulations made under this section shall name any pupil to whom it relates.
 
-- The Secretary of State may-
+- (6) The Secretary of State may-
 
 (a) publish information provided in accordance with regulations made under this section in such form and manner as he considers appropriate;
 
@@ -1830,22 +1822,22 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 (c) make arrangements for such information to be published in such form and manner,  and  by  such  persons,  as  he  may  specify  for  the  purposes  of  this section.
 
-- The powers given to the Secretary of State by this section and section 28J of this Act may be exercised so as to make different provision in relation to different areas.
+- (7) The powers given to the Secretary of State by this section and section 28J of this Act may be exercised so as to make different provision in relation to different areas.
 
-- This section and sections 28J and 28K of this Act are not to be taken as restricting, or otherwise affecting, any other powers that the Secretary of State may have to make regulations with respect to, or otherwise require, the provision of information by any person.
+- (8) This section and sections 28J and 28K of this Act are not to be taken as restricting, or otherwise affecting, any other powers that the Secretary of State may have to make regulations with respect to, or otherwise require, the provision of information by any person.
 
-- Regulations made under this section and sections 28J and 28K of this Act may make different provision for different cases or classes of case.
+- (9) Regulations made under this section and sections 28J and 28K of this Act may make different provision for different cases or classes of case.
 
-- This section does not apply to nursery schools. ]
+- (10) This section does not apply to nursery schools. ]
 
 ###### Textual Amendments
 F151 Ss. 28I-28K inserted (1.5.1993) by Education (Schools) Act 1992 (c. 38), s.17 ; S.I. 1993/1190, art.3 (with art. 4)
 
 ##### 28J F152 Requirement to provide information as to school education.
 
-- The Secretary of State may make regulations requiring education authorities, boards of management and managers of grant-aided schools to provide to prescribed persons such information or documents or categories of information or documents relating to school education as may be prescribed.
+- (1) The Secretary of State may make regulations requiring education authorities, boards of management and managers of grant-aided schools to provide to prescribed persons such information or documents or categories of information or documents relating to school education as may be prescribed.
 
-- Information  or  documents  provided  in  pursuance  of  regulations  made  under subsection (1) above shall be provided-
+- (2) Information or documents provided in pursuance of regulations made under subsection (1) above shall be provided-
 
 (a) in such form and manner; and
 
@@ -1874,11 +1866,11 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 ##### 28K F153 Information as to pupils.
 
-- The  Secretary  of  State  may  by  regulations  make  provision  requiring  that  such information and reports as may be prescribed as regards pupils attending schools to which this section applies shall be supplied to the parents of such pupils at such times and in such form and manner as may be determined by or in accordance with the regulations.
+- (1) The Secretary of State may by regulations make provision requiring that such information and reports as may be prescribed as regards pupils attending schools to which this section applies shall be supplied to the parents of such pupils at such times and in such form and manner as may be determined by or in accordance with the regulations.
 
-- This section applies to any school which is not a grant-aided school, an independent school or a nursery school.
+- (2) This section applies to any school which is not a grant-aided school, an independent school or a nursery school.
 
-- Regulations made under this section may contain provision as to-
+- (3) Regulations made under this section may contain provision as to-
 
 (a) the means of involvement of parents in consideration of such reports; and
 
@@ -1889,7 +1881,7 @@ F153 Ss. 28I-28K inserted (1.5.1993) by Education (Schools) Act 1992 (c. 38), s.
 
 ##### [ F154 28L Use of electronic communications
 
-- This section applies for the purposes of doing anything in writing under-
+- (1) This section applies for the purposes of doing anything in writing under-
 
 (a) section 28A(1) or (4);
 
@@ -1901,7 +1893,7 @@ F153 Ss. 28I-28K inserted (1.5.1993) by Education (Schools) Act 1992 (c. 38), s.
 
 of this Act.
 
-- Subject to subsection (3) below, any request, information, notification or other thing which must be in writing may be done by means of a document-
+- (2) Subject to subsection (3) below, any request, information, notification or other thing which must be in writing may be done by means of a document-
 
 (i) transmitted by electronic means;
 
@@ -1909,7 +1901,7 @@ of this Act.
 
 (iii) capable of being used for subsequent reference.
 
-- An  education  authority  shall  be  bound  to  accept  receipt  of  a  request  made  under section 28A(1) of this Act by way of electronic communication only if that authority-
+- (3) An education authority shall be bound to accept receipt of a request made under section 28A(1) of this Act by way of electronic communication only if that authority-
 
 (a) has passed a resolution to accept receipt of requests so transmitted; and
 
@@ -1918,9 +1910,7 @@ of this Act.
 ###### Textual Amendments
 F154 S. 28L inserted (23.6.2006) by Electronic Communications (Scotland) Order 2006 (S.S.I. 2006/367), arts. 1(1), 4
 
-F155
-
-##### 29
+##### F155 29
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1963,7 +1953,7 @@ C20 S. 31 applied (1.11.1996) by 1995 c. 36, s. 93(1) ; S.I. 1996/2203, art. 3(3
 
 ##### 32 Dates for commencement of school attendance.
 
-- Subject to subsection (7) below, an education authority shall fix a date or dates (any such fixed date being hereinafter referred to as a 'school commencement date') for the commencement of attendance at primary schools in their area; and any such date
+- (1) Subject to subsection (7) below, an education authority shall fix a date or dates (any such fixed date being hereinafter referred to as a 'school commencement date') for the commencement of attendance at primary schools in their area; and any such date
 
 [[END OF PAGE 41]]
 
@@ -1983,33 +1973,33 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 may be either a calendar date or fixed by reference to the occurrence of a particular annual event.
 
-- Subject to subsection (7) below, an education authority may, under subsection (1) above-
+- (2) Subject to subsection (7) below, an education authority may, under subsection (1) above-
 
 (a) fix different school commencement dates for different primary schools in their area;
 
 (b) at any time fix a different school commencement date in substitution for any date previously fixed by them under the said subsection (1).
 
-- A child who does not attain the age of five years on a school commencement date shall, for the purposes of section 31 of this Act, be deemed not to have attained that age until the school commencement date next following the fifth anniversary of his birth.
+- (3) A child who does not attain the age of five years on a school commencement date shall, for the purposes of section 31 of this Act, be deemed not to have attained that age until the school commencement date next following the fifth anniversary of his birth.
 
-- Subject to subsection (7) below, an education authority shall, in respect of each school commencement date  fixed  by  them  under  subsection  (1)  above  and  applicable  to a  public  primary  school,  fix  the  latest  following  date  (any  such  fixed  date  being hereinafter referred to as an 'appropriate latest date') on or before which a child must attain the age of five years in order to come within the category of children whom the authority consider of sufficient age to commence attendance at a public primary school at that school commencement date.
+- (4) Subject to subsection (7) below, an education authority shall, in respect of each school commencement date fixed by them under subsection (1) above and applicable to a public primary school, fix the latest following date (any such fixed date being hereinafter referred to as an 'appropriate latest date') on or before which a child must attain the age of five years in order to come within the category of children whom the authority consider of sufficient age to commence attendance at a public primary school at that school commencement date.
 
-- Subject to subsection (7) below, an education authority may, under subsection (4) above-
+- (5) Subject to subsection (7) below, an education authority may, under subsection (4) above-
 
 (a) where a school commencement date is applicable to more than one public primary school in their area, fix in respect of that school commencement date different appropriate latest dates for those different schools;
 
 (b) at any time fix a different appropriate latest date in substitution for any date previously fixed by them under the said subsection (4).
 
-- The education authority shall carry out their duty under section 1 of this Act as if a child who is under school age on a school commencement date, but who will attain the age of five years on or before the next following appropriate latest date fixed in respect of the school commencement date, has attained the age of five years on the school commencement date; but nothing in this subsection or in subsection (4) above shall, in respect of a child under school age,-
+- (6) The education authority shall carry out their duty under section 1 of this Act as if a child who is under school age on a school commencement date, but who will attain the age of five years on or before the next following appropriate latest date fixed in respect of the school commencement date, has attained the age of five years on the school commencement date; but nothing in this subsection or in subsection (4) above shall, in respect of a child under school age,-
 
 (a) impose any duty on his parent; or
 
 (b) require an education authority to take any action under section 36 or 37 of this Act.
 
-- The period between an appropriate latest date applicable to a school and the next following school commencement date applicable to that school (whether or not the school commencement date is that in respect of which the appropriate latest date is fixed) shall not, except with the approval of the Secretary of State on an application to him by the education authority, exceed six months by more than seven days:
+- (7) The period between an appropriate latest date applicable to a school and the next following school commencement date applicable to that school (whether or not the school commencement date is that in respect of which the appropriate latest date is fixed) shall not, except with the approval of the Secretary of State on an application to him by the education authority, exceed six months by more than seven days:
 
 Provided that no such application shall be made, nor approval given, in respect of any such period which commences after 31st December 1979.
 
-- In relation to any child, 'school commencement date'-
+- (8) In relation to any child, 'school commencement date'-
 
 (a) in subsection (3) above-
 
@@ -2035,13 +2025,13 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 (b) in subsection (6) above means a school commencement date of the public primary school to which a child of his religious denomination and from his place of residence would normally be admitted.
 
-- In this section, 'primary school' does not include a nursery school or a nursery class.
+- (9) In this section, 'primary school' does not include a nursery school or a nursery class.
 
 ##### 33 School leaving dates.
 
-- The last day of May (hereinafter referred to as the 'summer leaving date') and the appropriate day in December (hereinafter referred to as the 'winter leaving date') shall be the school leaving dates in each year.
+- (1) The last day of May (hereinafter referred to as the 'summer leaving date') and the appropriate day in December (hereinafter referred to as the 'winter leaving date') shall be the school leaving dates in each year.
 
-- Subject to subsection (4) below, for the purposes of section 31 of this Act a person shall, if the date of his attaining the age of sixteen years is-
+- (2) Subject to subsection (4) below, for the purposes of section 31 of this Act a person shall, if the date of his attaining the age of sixteen years is-
 
 (a) on or after 1st March but before the next summer leaving date, be deemed not to have attained that age until the summer leaving date;
 
@@ -2051,7 +2041,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 (d) after the winter leaving date but before 1st March next following that date, be deemed to have attained that age on the winter leaving date.
 
-- In subsection (1) above, 'the appropriate day in December' means-
+- (3) In subsection (1) above, 'the appropriate day in December' means-
 
 (a) in the case of a person who is a pupil in attendance at a school, the first day of the Christmas holiday period;
 
@@ -2059,7 +2049,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 and in paragraph (a) of this subsection, 'Christmas holiday period' means a period of consecutive days which includes 25th December and in which the school does not meet for the purpose of providing school education.
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F158
+- (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F158
 
 ###### Textual Amendments
 
@@ -2071,7 +2061,7 @@ C23 S. 33 applied (1.11.1998) by 1998 c. 39, s. 55(4) (with s. 36); S.I. 1998/25
 
 ##### 34 Exemption from school attendance.
 
-- Where after due inquiry an education authority are satisfied that by reason of any circumstances existing at his home it would cause exceptional hardship to require a child over fourteen years of age to attend school, they may grant exemption from the obligation to attend school to enable the said child to give assistance at home upon such conditions, if any, as to the amount and manner of further attendance at school until the child reaches the upper limit of the school age as the authority think fit.
+- (1) Where after due inquiry an education authority are satisfied that by reason of any circumstances existing at his home it would cause exceptional hardship to require a child over fourteen years of age to attend school, they may grant exemption from the obligation to attend school to enable the said child to give assistance at home upon such conditions, if any, as to the amount and manner of further attendance at school until the child reaches the upper limit of the school age as the authority think fit.
 
 [[END OF PAGE 43]]
 
@@ -2089,28 +2079,28 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-- No exemption granted under subsection (1) above shall extend beyond the date for commencing school attendance next following the date upon which the exemption was granted:
+- (2) No exemption granted under subsection (1) above shall extend beyond the date for commencing school attendance next following the date upon which the exemption was granted:
 
 Provided that the authority may if they think fit renew an exemption, so however that the provisions of this section shall apply to such renewal in like manner as they apply to the original grant.
 
-- An exemption granted under this section shall exempt the parent of the child concerned from any prosecution or other proceeding under this Act for neglecting to provide for the education of the said child.
+- (3) An exemption granted under this section shall exempt the parent of the child concerned from any prosecution or other proceeding under this Act for neglecting to provide for the education of the said child.
 
-- The education authority shall keep a register of exemptions granted under this section wherein shall be entered the name of each child so exempted and a statement of the circumstances in which and the conditions upon which such exemption was granted.
+- (4) The education authority shall keep a register of exemptions granted under this section wherein shall be entered the name of each child so exempted and a statement of the circumstances in which and the conditions upon which such exemption was granted.
 
 #### Failure of parents to provide education for their children
 
 ##### 35 Failure by parent to secure regular attendance by his child at a public school.
 
-- Where a child of school age who has attended a public school on one or more occasions fails without reasonable excuse to attend regularly at the said school, then, unless the education authority have consented to the withdrawal of the child from the school (which consent shall not be unreasonably withheld), his parent shall be guilty of an offence against this section.
+- (1) Where a child of school age who has attended a public school on one or more occasions fails without reasonable excuse to attend regularly at the said school, then, unless the education authority have consented to the withdrawal of the child from the school (which consent shall not be unreasonably withheld), his parent shall be guilty of an offence against this section.
 
-- For the purposes of this section, a child who has been required to discontinue for any period his attendance at a school on account of his parent's refusal or failure to comply with the rules, regulations or disciplinary requirements of the school, shall, unless the court otherwise determines, be deemed to have failed without reasonable excuse to attend regularly at the school.
+- (2) For the purposes of this section, a child who has been required to discontinue for any period his attendance at a school on account of his parent's refusal or failure to comply with the rules, regulations or disciplinary requirements of the school, shall, unless the court otherwise determines, be deemed to have failed without reasonable excuse to attend regularly at the school.
 
 ###### Modifications etc. (not altering text)
 C24 S. 35 restricted (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 16 para. 9(1)(c) (with ss. 89, 90)
 
 ##### 36 Power of education authority in relation to irregular attendance of child at a public school.
 
-- It  shall  be  the  duty  of  the  education  authority  if  they  consider  that  a  parent  has committed an offence against section 35 of this Act in respect of a child resident in their area, to serve a notice on the parent requiring him, within such time as may be specified in the notice (not being less than forty-eight hours or more than seven days from the service thereof) to appear (with or without the child) before the authority and explain the reason for the absence of the child from school. If the parent fails to satisfy the authority that he had a reasonable excuse, the authority may
+- (1) It shall be the duty of the education authority if they consider that a parent has committed an offence against section 35 of this Act in respect of a child resident in their area, to serve a notice on the parent requiring him, within such time as may be specified in the notice (not being less than forty-eight hours or more than seven days from the service thereof) to appear (with or without the child) before the authority and explain the reason for the absence of the child from school. If the parent fails to satisfy the authority that he had a reasonable excuse, the authority may
 
 [ F159 (a) ] instruct that he be prosecuted forthwith under section 43 of this Act, [ F160 in the court of summary jurisdiction in which proceedings may be taken for the offence F161 ...; or
 
@@ -2132,16 +2122,16 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 (b) report  the  circumstances  to  the  procurator  fiscal  or ] warn  the  parent  and postpone for a period not exceeding six weeks a decision as to whether [ F162 so to report ] .
 
-- Where an education authority in the exercise of the powers conferred upon them by subsection (1) above postpone a decision as to whether to prosecute a parent, they may, if the child is still of school age, make an attendance order in respect of the child in accordance with the provisions of section 38 of this Act requiring the parent to cause the child to attend the public school which he has been attending, or, if the child has changed his residence, a school attended by children residing in the same neighbourhood as the child.
+- (2) Where an education authority in the exercise of the powers conferred upon them by subsection (1) above postpone a decision as to whether to prosecute a parent, they may, if the child is still of school age, make an attendance order in respect of the child in accordance with the provisions of section 38 of this Act requiring the parent to cause the child to attend the public school which he has been attending, or, if the child has changed his residence, a school attended by children residing in the same neighbourhood as the child.
 
-- Without prejudice to the institution of proceedings for an offence against section 35 of this Act or the exercise of the power conferred by section 44(1) of this Act, where a  child  of  school  age  has  failed  to  attend  a  public  school  regularly,  the  education authority [ F163 ,  where no requirement arises under section [ F164 60 of the Children's Hearings  (Scotland)  Act  2011  (asp  1) ] to  give  information  about  the  child  to  the Principal Reporter, may under this subsection provide the Principal Reporter with such information. ]
+- (3) Without prejudice to the institution of proceedings for an offence against section 35 of this Act or the exercise of the power conferred by section 44(1) of this Act, where a child of school age has failed to attend a public school regularly, the education authority [ F163 , where no requirement arises under section [ F164 60 of the Children's Hearings (Scotland) Act 2011 (asp 1) ] to give information about the child to the Principal Reporter, may under this subsection provide the Principal Reporter with such information. ]
 
 ###### Textual Amendments
 F159 S. 36(1): '(a)' inserted (9.8.2000) by 2000 asp 9, s. 12, Sch. para. 3(1)(a)(i) F160 Words and paragraph (b) substituted for words in s. 36(1) (9.8.2000) by 2000 asp 9, s. 12, Sch. para. 3(1)(a)(ii) F161 Words in s. 36(1)(a) repealed (10.3.2008 for specified purposes, 2.6.2008 for specified purposes, 8.12.2008 for specified purposes, 23.2.2009 for specified purposes, 14.12.2009 for specified purposes, 22.2.2010 in so far as not already in force) by Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6), s. 84(1), sch. para. 4(a) ; S.S.I. 2008/42, art. 3, sch.; S.S.I. 2008/192, art. 3, sch.; S.S.I. 2008/329, art. 3, sch.; S.S.I. 2008/362, art. 3, sch.; S.S.I 2009/432, art. 3, schs. 1, 2 F162 Words in s. 36(1) substituted (9.8.2000) by 2000 asp 9, s. 12, Sch. para. 3(1)(b) F163 Words in s. 36(3) substituted (1.4.1997) by 1995 c. 36, s. 105(4), Sch. 4 para. 28(2) ; S.I. 1996/3201, art. 3(7) . F164 Words in s. 36(3) substituted (24.6.2013) by The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, sch. 1 para. 4(2)
 
 ##### 37 Power of education authority where not satisfied that parent is providing efficient education for his child.
 
-- Where a child of school age has not attended a public school in the area in which his parent is residing, or has attended such a school and has been withdrawn therefrom with the consent of, or excluded by, the education authority, then, if the authority are not satisfied that the parent is providing efficient education for him suitable to his age, ability and aptitude, it shall be the duty of the authority to serve a notice on the parent requiring him within such time as may be specified in the notice (not being less than seven or more than fourteen days from the service thereof) either-
+- (1) Where a child of school age has not attended a public school in the area in which his parent is residing, or has attended such a school and has been withdrawn therefrom with the consent of, or excluded by, the education authority, then, if the authority are not satisfied that the parent is providing efficient education for him suitable to his age, ability and aptitude, it shall be the duty of the authority to serve a notice on the parent requiring him within such time as may be specified in the notice (not being less than seven or more than fourteen days from the service thereof) either-
 
 (a) to  appear  (with  or  without  the  child)  before  the  authority  and  give  such information as the authority may require regarding the means, if any, he has adopted for providing education, or
 
@@ -2163,25 +2153,25 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-- If a parent on whom a notice has been served in pursuance of subsection (1) above fails to satisfy the authority that he is providing efficient education for the child suitable to his age, ability and aptitude or that there is reasonable excuse for his failure to do so, the authority shall make an attendance order in respect of the child in accordance with the provisions of section 38 of this Act.
+- (2) If a parent on whom a notice has been served in pursuance of subsection (1) above fails to satisfy the authority that he is providing efficient education for the child suitable to his age, ability and aptitude or that there is reasonable excuse for his failure to do so, the authority shall make an attendance order in respect of the child in accordance with the provisions of section 38 of this Act.
 
 #### Attendance orders
 
 ##### 38 Making of attendance orders.
 
-- References in sections 36 and 37 of this Act, and in the following provisions of this Act, to an attendance order in respect of a child are references to an order in writing requiring the parent of the child to cause the child to attend a school named in the order, being either a public school, or a school (other than a public school) the managers of which are willing to receive the child.
+- (1) References in sections 36 and 37 of this Act, and in the following provisions of this Act, to an attendance order in respect of a child are references to an order in writing requiring the parent of the child to cause the child to attend a school named in the order, being either a public school, or a school (other than a public school) the managers of which are willing to receive the child.
 
-- In an attendance order in respect of a child-
+- (2) In an attendance order in respect of a child-
 
 (a) a school at which the parent will be required to pay fees shall not be named except at the request of the parent; and
 
 [ F165 (b) a special school shall not be named unless the child [ F166 has additional support needs requiring the education or special facilities normally provided at the school ] . ]
 
-- Before making an attendance order under section 36 or 37 of this Act, the education authority shall consider any views expressed by the parent as to the school which he desires his child to attend.
+- (3) Before making an attendance order under section 36 or 37 of this Act, the education authority shall consider any views expressed by the parent as to the school which he desires his child to attend.
 
-- The  authority  shall  cause  a  copy  of  any  attendance  order  made  by  them  under section 36 or 37 of this Act to be served upon the parent, and it shall thereupon be the duty of the parent, subject to an appeal to the sheriff under subsection (5) below, to cause the child to attend regularly at the school named in the order.
+- (4) The authority shall cause a copy of any attendance order made by them under section 36 or 37 of this Act to be served upon the parent, and it shall thereupon be the duty of the parent, subject to an appeal to the sheriff under subsection (5) below, to cause the child to attend regularly at the school named in the order.
 
-- A parent aggrieved by the making of an attendance order by an education authority may within fourteen days after the date upon which a copy of the order was served upon him under subsection (4) above appeal against it to the sheriff, who may confirm, vary or annul the order and whose decision shall be final.
+- (5) A parent aggrieved by the making of an attendance order by an education authority may within fourteen days after the date upon which a copy of the order was served upon him under subsection (4) above appeal against it to the sheriff, who may confirm, vary or annul the order and whose decision shall be final.
 
 ###### Textual Amendments
 
@@ -2189,9 +2179,9 @@ F165 S. 38(2)(b) substituted by Education (Scotland) Act 1981 (c. 58), Sch. 2 Pt
 
 ##### 39 Amendment and revocation of attendance orders.
 
-- An education authority who have made an attendance order in respect of any child may at any time while the order is in force serve upon the parent of the said child a notice of their intention to amend the order by substituting the name of another school for that named in the order.
+- (1) An education authority who have made an attendance order in respect of any child may at any time while the order is in force serve upon the parent of the said child a notice of their intention to amend the order by substituting the name of another school for that named in the order.
 
-- Where a child in respect of whom an attendance order is in force moves his residence, the education authority of the area to which the child has moved may serve upon the
+- (2) Where a child in respect of whom an attendance order is in force moves his residence, the education authority of the area to which the child has moved may serve upon the
 
 [[END OF PAGE 46]]
 
@@ -2211,9 +2201,9 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 parent of the said child a notice of their intention to amend that order by substituting for the name of the school appearing in the order the name of a school attended by children residing in the same neighbourhood as the child.
 
-- The parent may within fourteen days of the service of a notice under subsection (1) or  (2)  above  intimate  in  writing  to  the  authority  any  objections  he  may  have  to the proposed amendment. After the expiry of the said period of fourteen days and after considering any objections made by the parent, the authority may amend the attendance order, and subsections (2), (4) and (5) of section 38 of this Act shall apply in the case of the amended attendance order as they apply in the case of an attendance order.
+- (3) The parent may within fourteen days of the service of a notice under subsection (1) or (2) above intimate in writing to the authority any objections he may have to the proposed amendment. After the expiry of the said period of fourteen days and after considering any objections made by the parent, the authority may amend the attendance order, and subsections (2), (4) and (5) of section 38 of this Act shall apply in the case of the amended attendance order as they apply in the case of an attendance order.
 
-- If  at  any  time  while  an  attendance  order  is  in  force  with  respect  to  any  child  the parent of the child makes application to the authority by whom the order was made or amended requesting-
+- (4) If at any time while an attendance order is in force with respect to any child the parent of the child makes application to the authority by whom the order was made or amended requesting-
 
 (a) that another school be substituted for that named in the order, or
 
@@ -2257,7 +2247,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 ##### 42 Reasonable excuses.
 
-- For the purposes of sections 35, 36, 37, 41 and 44 of this Act, there shall [ F168 , subject to subsection (1A) below, ] be deemed to be a reasonable excuse if-
+- (1) For the purposes of sections 35, 36, 37, 41 and 44 of this Act, there shall [ F168 , subject to subsection (1A) below, ] be deemed to be a reasonable excuse if-
 
 (a) there is within walking distance of the child's home measured by the nearest available route no public or other school the managers of which are willing to receive the child and to provide him with free education, and either-
 
@@ -2281,9 +2271,9 @@ and in such a case, for the purposes of sections 35, 36, 37, 41 and 44 of this A
 
 (ii) there are other circumstances which in the opinion of the education authority or the court afford a reasonable excuse. ]
 
-- The fact that an application to an education authority, or an appeal to the sheriff, has been made under section 39(4) of this Act in relation to an attendance order in respect of a child shall not be deemed to be a reasonable excuse for failure to cause the child to attend regularly at the school named in the order.
+- (2) The fact that an application to an education authority, or an appeal to the sheriff, has been made under section 39(4) of this Act in relation to an attendance order in respect of a child shall not be deemed to be a reasonable excuse for failure to cause the child to attend regularly at the school named in the order.
 
-- Where a parent alleges that his child has been prevented by sickness from attending school  or  receiving  education  as  the  case  may  be,  the  parent  shall,  if  required  by the education authority, permit a medical officer of the appropriate Health Board to examine the child, and any parent who fails to do so shall be guilty of an offence against this section.
+- (3) Where a parent alleges that his child has been prevented by sickness from attending school or receiving education as the case may be, the parent shall, if required by the education authority, permit a medical officer of the appropriate Health Board to examine the child, and any parent who fails to do so shall be guilty of an offence against this section.
 
 (4) In this section-
 
@@ -2313,15 +2303,15 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 ###### Textual Amendments
 
-F168 Words inserted by Education (Scotland) Act 1981 (c. 58), s. 2(1)(a) F169 S. 42(1A) inserted by Education (Scotland) Act 1981 (c. 58),
+F168 Words inserted by Education (Scotland) Act 1981 (c. 58), s. 2(1)(a) F169 S. 42(1A) inserted by Education (Scotland) Act 1981 (c. 58), s. 2(1)(b)
 
 #### Prosecutions
 
 ##### 43 Prosecutions and penalties.
 
-- Any person guilty of an offence against section 35, 41 or 42 of this Act shall be liable, on conviction by a court of summary jurisdiction, [ F170 to a fine not exceeding level 3 on the standard scale ] or to imprisonment for a term not exceeding one month or to both such fine and such imprisonment.
+- (1) Any person guilty of an offence against section 35, 41 or 42 of this Act shall be liable, on conviction by a court of summary jurisdiction, [ F170 to a fine not exceeding level 3 on the standard scale ] or to imprisonment for a term not exceeding one month or to both such fine and such imprisonment.
 
-- Proceedings  under  this  section F171 ...  may  be  taken  at  the  instance  either  of  the public prosecutor of the court of summary jurisdiction in which the proceedings are to  be  taken  or  of  another  person  authorised  by  the  education  authority  to  institute proceedings on their behalf.
+- (2) Proceedings under this section F171 ... may be taken at the instance either of the public prosecutor of the court of summary jurisdiction in which the proceedings are to be taken or of another person authorised by the education authority to institute proceedings on their behalf.
 
 ###### Textual Amendments
 F170 Words in s. 43(1) substituted (1.4.1996) by 1995 c. 40, ss. 3, 7(2), Sch. 1 para. 10, Sch. 2 Pt. III .
@@ -2334,9 +2324,7 @@ F172
 
 (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- If the court before which a prosecution is brought for an offence against section 35 of this Act is satisfied that a child has failed without reasonable excuse to attend regularly at school, but does not, in the exercise of the powers conferred upon it by [ F173 section [ F174 62(1) of the Children's Hearings (Scotland) Act 2011 (asp 1) ] ,  refer the matter to the Principal Reporter ] , the court may, if the child is still of school age, make an attendance order in respect of the child requiring the parent to cause the child to attend the public school which he has been attending or, if the child has changed his residence, a school attended by children residing in the same neighbourhood as the child; and subsections (2) and (3) of section 38 and sections 39 to 41 of this Act shall apply with any necessary modifications to an attendance order made by a court under this section as they apply to an attendance order made by an education authority.
-
-s. 2(1)(b)
+- (2) If the court before which a prosecution is brought for an offence against section 35 of this Act is satisfied that a child has failed without reasonable excuse to attend regularly at school, but does not, in the exercise of the powers conferred upon it by [ F173 section [ F174 62(1) of the Children's Hearings (Scotland) Act 2011 (asp 1) ] , refer the matter to the Principal Reporter ] , the court may, if the child is still of school age, make an attendance order in respect of the child requiring the parent to cause the child to attend the public school which he has been attending or, if the child has changed his residence, a school attended by children residing in the same neighbourhood as the child; and subsections (2) and (3) of section 38 and sections 39 to 41 of this Act shall apply with any necessary modifications to an attendance order made by a court under this section as they apply to an attendance order made by an education authority.
 
 [[END OF PAGE 49]]
 
@@ -2357,7 +2345,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 ###### Textual Amendments
 F172 S. 44(1) repealed (1.4.1997) by 1995 c. 36, s. 105(4)(5), Sch. 4 para. 28(3)(a), Sch. 5 ; S.I. 1996/3201, art. 3(7) . F173 Words in s. 44(2) substituted (1.4.1997) by 1995 c. 36, s. 105(4), Sch. 4 para. 28(3)(b) ; S.I. 1996/3201, art. 3(7) . F174 Words in s. 44(2) substituted (24.6.2013) by The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211), art. 1, sch. 1 para. 4(3)
 
-##### 4548.
+##### 45—48.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F175
 
 ###### Textual Amendments
@@ -2378,9 +2366,9 @@ F177 S. 48A repealed (13.10.2000) by 2000 asp 6, s. 16(6) ; S.S.I. 2000/361, art
 
 ##### 49 Power of education authorities to assist persons to take advantage of educational facilities.
 
-- Subject to the following provisions of this section, an education authority shall have power  to  grant,  on  such  conditions  as  may  be  prescribed,  and  make  payments  in pursuance of, bursaries, scholarships or other allowances to persons over school age attending courses of full-time or part-time education (whether held in Scotland or elsewhere) which are not courses of school education or (in the case of courses held outside  Scotland)  are  not  courses  of  education  comparable  to  school  education  in Scotland.
+- (1) Subject to the following provisions of this section, an education authority shall have power to grant, on such conditions as may be prescribed, and make payments in pursuance of, bursaries, scholarships or other allowances to persons over school age attending courses of full-time or part-time education (whether held in Scotland or elsewhere) which are not courses of school education or (in the case of courses held outside Scotland) are not courses of education comparable to school education in Scotland.
 
-- Subject to the following provisions of this section, an education authority shall have power, for the purpose of enabling persons to take advantage without hardship to themselves or their parents of the facilities for school education available to them, to
+- (2) Subject to the following provisions of this section, an education authority shall have power, for the purpose of enabling persons to take advantage without hardship to themselves or their parents of the facilities for school education available to them, to
 
 [[END OF PAGE 50]]
 
@@ -2410,7 +2398,7 @@ grant, on such conditions as may be prescribed, and make payments in pursuance o
 
 [ F179 (2A) In subsection (2) above, references to attending school are to so attending not only where the  school  is  in  Scotland,  but  also  where  it  is  in  England  and  Wales  or  in Northern Ireland ('school education' being construed accordingly). ]
 
-- The Secretary of State may make regulations providing that the powers conferred on an education authority by subsections (1) and (2) above-
+(3) The Secretary of State may make regulations providing that the powers conferred on an education authority by subsections (1) and (2) above-
 
 (a) shall be exercised in accordance with such provisions as may be prescribed by or under the regulations; and
 
@@ -2425,7 +2413,7 @@ C25 S. 49(1) modified (1.8.1995) by S.I. 1995/1739, reg. 3(1)(a) . S. 49(1) rest
 
 ##### 50 Education of pupils in exceptional circumstances.
 
-- Where in the opinion of an education authority-
+(1) Where in the opinion of an education authority-
 
 (a) any pupil is, owing to the remoteness of his home or the conditions under which he is living or other exceptional circumstances, unable to receive the full benefit of school education unless special arrangements are made for him, or
 
@@ -2449,7 +2437,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 (c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- F182
+F182
 
 the authority [ F183 , in a case where subsection (3) applies, may and, in any other case, subject to subsection (4) below, ] shall, after consultation with the parent F184 , make such arrangements of either a temporary or a permanent character as they think best suited to the purpose of enabling that pupil to attend [ F185 , in any case falling under-
 
@@ -2461,7 +2449,7 @@ the authority [ F183 , in a case where subsection (3) applies, may and, in any o
 
 [ F187 (1A) In subsection (1) above, references to an appropriate school and to a particular school are references not only to schools in Scotland but also to schools in England and Wales or in Northern Ireland ('school education' being construed accordingly). ]
 
-- The arrangements made under subsection (1) above may include-
+(2) The arrangements made under subsection (1) above may include-
 
 (a) the  provision  of  travelling  facilities  or  the  payment  of  travelling  expenses under [ F188 subsection (1) of section 51 of this Act (for the purposes of this paragraph,  any  reference  in  that  section  to  a  school  being  construed  as  a reference not only to a school in Scotland but also to a school in England and Wales or in Northern Ireland) ] ; or
 
@@ -2481,7 +2469,7 @@ the authority [ F183 , in a case where subsection (3) applies, may and, in any o
 
 (b) in consequence of a placing request, the pupil has been placed by them [ F192 or another education authority ] in  a  school  other  than  a  school  referred  to  in paragraph (a) above.
 
-- The duty imposed by subsection (1)(a) or (b) above does not apply where the pupil belongs  (in  accordance  with  section  23(3)  of  this  Act)  to  the  area  of  some  other education authority or of a [ F193 local authority (as defined in section 579(1) of the Education Act 1996) ] in England and Wales. ]
+(4) The duty imposed by subsection (1)(a) or (b) above does not apply where the pupil belongs  (in  accordance  with  section  23(3)  of  this  Act)  to  the  area  of  some  other education authority or of a [ F193 local authority (as defined in section 579(1) of the Education Act 1996) ] in England and Wales. ]
 
 [[END OF PAGE 52]]
 
@@ -2521,7 +2509,7 @@ F194 S. 50A inserted (4.8.2008) by Schools (Health Promotion and Nutrition) (Sco
 
 ##### 51 Provision of transport and other facilities.
 
-- An education authority [ F195 , in a case to which subsection (2A) [ F196 or (2AB)] below applies, may and, in any other case, subject to subsection (2B) below ] shall make such arrangements as they consider necessary for the provision of any of the following facilities in respect of pupils attending schools or other educational establishments-
+(1) An education authority [ F195 , in a case to which subsection (2A) [ F196 or (2AB)] below applies, may and, in any other case, subject to subsection (2B) below ] shall make such arrangements as they consider necessary for the provision of any of the following facilities in respect of pupils attending schools or other educational establishments-
 
 [[END OF PAGE 53]]
 
@@ -2547,7 +2535,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 and any such arrangement may in respect of any pupil make provision for more than one of the facilities specified in the foregoing paragraphs of this subsection.
 
-- Where the requirements of pupils, for the conveyance of whom arrangements have been made by an education authority under subsection (1)(a) above, have been met, it shall be the duty of that authority, where there are any vacant places in any vehicle used for such conveyance, to allow such vacant places to be used F197 ... by other pupils to be selected by the authority.
+(2) Where the requirements of pupils, for the conveyance of whom arrangements have been made by an education authority under subsection (1)(a) above, have been met, it shall be the duty of that authority, where there are any vacant places in any vehicle used for such conveyance, to allow such vacant places to be used F197 ... by other pupils to be selected by the authority.
 
 [ F198 (2AA) An education authority may-
 
@@ -2589,7 +2577,20 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-[ F203 (2AB) This subsection applies(a) where the pupil is in attendance at a self-governing school but lives outwith an area for the time being specified in relation to that school by the Secretary of State by order under this subsection; or (b) where the pupil lives within that area and either(i) his  parent  has  not  applied  to  the  board  of  management,  under paragraph  2(1)  of  Schedule  2  to  the  Self-Governing  Schools  etc. (Scotland) Act 1989, for the pupil's admission to the school; or (ii) his parent has so applied and they are prepared to admit the pupil, but the pupil is not in such attendance; and paragraph 8 of the said Schedule 2 shall apply in relation to references in this subsection as that paragraph applies to references in paragraphs 2 to 7 of that Schedule. (2AC) An order under subsection (2AB) above may be revoked, and a new area specified in relation to the school, by a further order under that subsection; but before making any  such  order,  or  further  order,  the  Secretary  of  State  shall  consult  the  board  of management of the school and the education authority within whose area the school is situated. ] F204 [ ( 2AD ) Without prejudice to the generality of subsection (1) above, the duty imposed by that subsection applies in cases where a pupil attends a school or educational establishment under the management of another education authority(a) in accordance with any arrangements made by them under section 23(1A) of this Act; (b) in  accordance  with  the  arrangements  subsisting  before  the  establishment of  new local government areas under Part I of the Local Government etc. (Scotland) Act 1994 and continuing by virtue of section 23(1C) of this Act; or (c) if  at  the  time  when  the  pupil  was  placed  in  that  school  or  educational establishment it was under the management of the education authority for the area to which the pupil belonged, and is under the management of another education authority as a consequence of the establishment of such new local government areas. ] (2B) The duty imposed by subsection (1) above does not apply where the pupil belongs (in accordance with section 23(3) of this Act) to the area of some other education authority or of a [ F205 local authority (as defined in section 579(1) of the Education Act 1996) ] in England and Wales. ] F206 [ ( 2C ) In  considering  whether  to  make  any  arrangements  under  subsection  (1)  above  in respect of pupils attending schools, an education authority shall have regard to the safety of such pupils. ] (3) Where as a condition of admission to any educational institution a person is required to attend for examination or interview at a particular place, the education authority may pay the whole or part of the expenses necessarily incurred by that person in respect of such attendance.
+[ F203 (2AB) This subsection applies—
+(a) where the pupil is in attendance at a self-governing school but lives outwith an area for the time being specified in relation to that school by the Secretary of State by order under this subsection; or
+(b) where the pupil lives within that area and either—
+(i) his parent has not applied to the board of management, under paragraph 2(1) of Schedule 2 to the Self-Governing Schools etc. (Scotland) Act 1989, for the pupil's admission to the school; or
+(ii) his parent has so applied and they are prepared to admit the pupil, but the pupil is not in such attendance;
+and paragraph 8 of the said Schedule 2 shall apply in relation to references in this subsection as that paragraph applies to references in paragraphs 2 to 7 of that Schedule.
+(2AC) An order under subsection (2AB) above may be revoked, and a new area specified in relation to the school, by a further order under that subsection; but before making any such order, or further order, the Secretary of State shall consult the board of management of the school and the education authority within whose area the school is situated. ]
+F204 [ (2AD) Without prejudice to the generality of subsection (1) above, the duty imposed by that subsection applies in cases where a pupil attends a school or educational establishment under the management of another education authority—
+(a) in accordance with any arrangements made by them under section 23(1A) of this Act;
+(b) in accordance with the arrangements subsisting before the establishment of new local government areas under Part I of the Local Government etc. (Scotland) Act 1994 and continuing by virtue of section 23(1C) of this Act; or
+(c) if at the time when the pupil was placed in that school or educational establishment it was under the management of the education authority for the area to which the pupil belonged, and is under the management of another education authority as a consequence of the establishment of such new local government areas. ]
+(2B) The duty imposed by subsection (1) above does not apply where the pupil belongs (in accordance with section 23(3) of this Act) to the area of some other education authority or of a [ F205 local authority (as defined in section 579(1) of the Education Act 1996) ] in England and Wales. ]
+F206 [ (2C) In considering whether to make any arrangements under subsection (1) above in respect of pupils attending schools, an education authority shall have regard to the safety of such pupils. ]
+(3) Where as a condition of admission to any educational institution a person is required to attend for examination or interview at a particular place, the education authority may pay the whole or part of the expenses necessarily incurred by that person in respect of such attendance.
 
 [ F207 (4) In this section ' school ' does not include a nursery school or a nursery class in a school. ]
 
@@ -2614,7 +2615,7 @@ F195 Words inserted by Education (Scotland) Act 1981 (c. 58), s. 2(3)(a) F196 Wo
 
 ##### 52 Recovery of cost of board and lodging.
 
--Where  an  education  authority  have  provided  a  pupil  with  board  and  lodging, whether at a school, F208 hostel or elsewhere, the authority may, in their discretion, require the parent to pay to them in respect thereof such sums if any not exceeding the cost of such board and lodging as in the opinion of the authority he is able without financial hardship to pay:
+—Where  an  education  authority  have  provided  a  pupil  with  board  and  lodging, whether at a school, F208 hostel or elsewhere, the authority may, in their discretion, require the parent to pay to them in respect thereof such sums if any not exceeding the cost of such board and lodging as in the opinion of the authority he is able without financial hardship to pay:
 
 Provided that-
 
@@ -2643,35 +2644,35 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 ##### [ F210 53 Provision of school meals
 
-- This section applies to-
+(1) This section applies to-
 
 (a) pupils in attendance at public schools and other educational establishments under the management of an education authority, and
 
 (b) pupils who receive school education under arrangements entered into by an education authority under section 35 of the Standards in Scotland's Schools etc. Act 2000 (provision of school education by persons other than education authorities).
 
-- The authority must provide or secure the provision of a school lunch, free of charge, to pupils falling within subsection (7).
+(2) The authority must provide or secure the provision of a school lunch, free of charge, to pupils falling within subsection (7).
 
-- The authority may provide or secure the provision of-
+(3) The authority may provide or secure the provision of-
 
 (a) other food or drink to pupils falling within subsection (7),
 
 (b) food or drink to other pupils.
 
-- Where  the  authority  provides  or  secures  the  provision  of  food  or  drink  under subsection (3)(a) or (b) to pupils, it may-
+(4) Where  the  authority  provides  or  secures  the  provision  of  food  or  drink  under subsection (3)(a) or (b) to pupils, it may-
 
 (a) do so free of charge, or
 
 (b) charge the pupils.
 
-- The authority may exercise the power under subsection (4) to provide or secure the provision of food or drink free of charge-
+(5) The authority may exercise the power under subsection (4) to provide or secure the provision of food or drink free of charge-
 
 (a) in relation to pupils who satisfy such conditions as the authority thinks fit,
 
 (b) at such times of the day as the authority thinks fit.
 
-- Any charge under subsection (4) must be the same for the same quantity of the food or drink provided.
+(6) Any charge under subsection (4) must be the same for the same quantity of the food or drink provided.
 
-- A pupil falls within this subsection if-
+(7) A pupil falls within this subsection if-
 
 (a) the pupil is, or the parents of the pupil are, in receipt of-
 
@@ -2713,9 +2714,9 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 (b) adding such other description of pupil as may be prescribed in the regulations.
 
-- An  education  authority  must  provide  such  facilities  as  the  authority  considers appropriate for the consumption of food or drink brought by pupils to schools or other educational establishments as mentioned in subsection (1)(a) under the management of the authority.
+(9) An  education  authority  must  provide  such  facilities  as  the  authority  considers appropriate for the consumption of food or drink brought by pupils to schools or other educational establishments as mentioned in subsection (1)(a) under the management of the authority.
 
-- An education authority may provide or secure the provision of food or drink (including a school lunch) under this section-
+(10) An education authority may provide or secure the provision of food or drink (including a school lunch) under this section-
 
 (a) on  the  premises  of  the  schools  or  other  establishments  as  mentioned  in subsection (1)(a) where education is provided,
 
@@ -2723,9 +2724,9 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 (c) at any other place.
 
-- For the purposes of this section, a pupil for whom an education authority has made special  arrangements  under  section  14  may,  at  the  discretion  of  the  authority,  be deemed to be in attendance at a public school.
+(11) For the purposes of this section, a pupil for whom an education authority has made special  arrangements  under  section  14  may,  at  the  discretion  of  the  authority,  be deemed to be in attendance at a public school.
 
-- In this section and sections 53A and 53B, 'school lunch' means anything provided, or the provision of which is secured, by an education authority under subsection (2) in the middle of the day which the education authority considers is appropriate for consumption as a meal at that time of the day. ]
+(12) In this section and sections 53A and 53B, 'school lunch' means anything provided, or the provision of which is secured, by an education authority under subsection (2) in the middle of the day which the education authority considers is appropriate for consumption as a meal at that time of the day. ]
 
 ###### Textual Amendments
 F210 S. 53 substituted (1.4.2018) by Education (Scotland) Act 2016 (asp 8), ss. 22(2) , 33(2); S.S.I. 2018/36, reg. 2 (with reg. 3) F211 S. 53(7)(aa) inserted (1.8.2019) by The Education (Scotland) Act 1980 (Modification) Regulations 2019 (S.S.I. 2019/179), regs. 1, 2(2)
@@ -2734,13 +2735,13 @@ C27 S. 53(2) restricted (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 8
 
 ##### [ F212 53A Promotion of school lunches
 
-- An education authority must-
+(1) An education authority must-
 
 (a) promote  the  availability  of  school  lunches  in  public  schools  and  other educational establishments under the authority's management, and
 
 (b) encourage  pupils  in  attendance  at  those  schools  and  other  educational establishments to consume school lunches.
 
-- In particular, an education authority must take reasonable steps to ensure that every pupil who is entitled, by virtue of section [ F213 53 ] , to receive school lunches free of charge, receives those lunches. ]
+(2) In particular, an education authority must take reasonable steps to ensure that every pupil who is entitled, by virtue of section [ F213 53 ] , to receive school lunches free of charge, receives those lunches. ]
 
 ###### Textual Amendments
 F212 S. 53A inserted (4.8.2008) by Schools (Health Promotion and Nutrition) (Scotland) Act 2007 (asp 15), ss. 7 , 11(2); S.S.I. 2008/171, art. 2(2)
@@ -2759,23 +2760,21 @@ Document Generated: 2020-08-02
 
 59
 
-F213
-
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-Word in s. 53A(2) substituted (5.1.2015) by Children and Young People (Scotland) Act 2014 (asp 8), s. 102(3), sch. 5 para. 2(3) ; S.S.I. 2014/314, art. 2, sch.
+F213 Word in s. 53A(2) substituted (5.1.2015) by Children and Young People (Scotland) Act 2014 (asp 8), s. 102(3), sch. 5 para. 2(3) ; S.S.I. 2014/314, art. 2, sch.
 
 ##### [ F214 53B Protection of identity of pupils receiving free school lunches
 
-- This section applies [ F215 , subject to subsection (1A), ] where a school lunch is provided for a pupil free of charge by virtue of section [ F216 53 ] .
+(1) This section applies [ F215 , subject to subsection (1A), ] where a school lunch is provided for a pupil free of charge by virtue of section [ F216 53 ] .
 
 [ F217 (1A) This section does not apply in such circumstances as the Scottish Ministers may by regulations prescribe. ]
 
-- An education authority must take reasonable steps to ensure that the pupil cannot be identified by any person other than an authorised person as a pupil who receives a school lunch free of charge.
+(2) An education authority must take reasonable steps to ensure that the pupil cannot be identified by any person other than an authorised person as a pupil who receives a school lunch free of charge.
 
-- An education authority must take reasonable steps to ensure that none of the persons mentioned in subsection (4) discloses to any person other than an authorised person the fact that the pupil receives school lunches free of charge.
+(3) An education authority must take reasonable steps to ensure that none of the persons mentioned in subsection (4) discloses to any person other than an authorised person the fact that the pupil receives school lunches free of charge.
 
-- Those persons are-
+(4) Those persons are-
 
 (a) a teacher in the school,
 
@@ -2787,7 +2786,7 @@ Word in s. 53A(2) substituted (5.1.2015) by Children and Young People (Scotland)
 
 (c) any other person employed by the education authority.
 
-- In subsections (2) and (3), 'authorised person' means-
+(5) In subsections (2) and (3), 'authorised person' means-
 
 (a) a parent of the pupil,
 
@@ -2798,7 +2797,7 @@ F214 S. 53B inserted (4.8.2008) by Schools (Health Promotion and Nutrition) (Sco
 
 ##### 54 Provision of clothing for pupils at public schools.
 
-- When  it  is  brought  to  the  notice  of  an  education  authority  that  a  pupil  attending a  school  under  their  management F219 ...  is  unable  by  reason  of  the  inadequacy  or unsuitability  of  his  clothing  to  take  full  advantage  of  the  education  provided,  the
+(1) When  it  is  brought  to  the  notice  of  an  education  authority  that  a  pupil  attending a  school  under  their  management F219 ...  is  unable  by  reason  of  the  inadequacy  or unsuitability  of  his  clothing  to  take  full  advantage  of  the  education  provided,  the
 
 [[END OF PAGE 59]]
 
@@ -2818,15 +2817,15 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 education authority shall make such provision for the pupil for the purpose of ensuring that he is sufficiently and suitably clad as they may deem necessary during such period while the pupil is attending school (including days when the school does not meet) as they may determine.
 
-- Where an education authority make provision for a pupil in pursuance of this section, they  shall  be  entitled  to  recover  from  the  parent  of  the  pupil  the  expense  thereby incurred or, if the authority are satisfied that the parent is unable without financial hardship to pay the whole of that expense, such part thereof, if any, as he is, in the opinion of the authority, able without financial hardship to pay.
+(2) Where an education authority make provision for a pupil in pursuance of this section, they  shall  be  entitled  to  recover  from  the  parent  of  the  pupil  the  expense  thereby incurred or, if the authority are satisfied that the parent is unable without financial hardship to pay the whole of that expense, such part thereof, if any, as he is, in the opinion of the authority, able without financial hardship to pay.
 
-- Without  prejudice  to  any  powers  conferred  upon  them  by  subsections  (1)  and  (2) above, an education authority may provide clothing free of charge-
+(3) Without  prejudice  to  any  powers  conferred  upon  them  by  subsections  (1)  and  (2) above, an education authority may provide clothing free of charge-
 
 (i) for any pupil who is a boarder at a school, or
 
 (ii) for any pupil in attendance at a nursery school or a nursery class, under the management of the authority F220 ....
 
-- For the purposes of this section-
+(4) For the purposes of this section-
 
 (a) a pupil on attaining the age of five years shall, pending his admission to school, be deemed to be attending a school under the management of the education authority in whose area he is ordinarily resident; and
 
@@ -2839,11 +2838,9 @@ education authority shall make such provision for the pupil for the purpose of e
 shall  be  deemed  to  be  attending  a  school  under  the  management  of  that authority. ]
 
 ###### Textual Amendments
-F219 Words in s. 54(1) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b) Words in s. 54(3) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s.
-
-- F220 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b)
-
-- F221 S. 54(4)(b) substituted (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 3 para. 3(11) ; S.S.I. 2005/564, art. 2
+F219 Words in s. 54(1) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b)
+F220 Words in s. 54(3) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b)
+F221 S. 54(4)(b) substituted (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 3 para. 3(11) ; S.S.I. 2005/564, art. 2
 
 ##### 55 Provision of food and clothing for pupils at schools other than public schools.
 
@@ -2885,9 +2882,9 @@ F223 Ss. 56A-56D and cross-heading inserted (12.5.2008 for specified purposes, 4
 
 ##### 56A Food and drink: nutritional requirements
 
-- Where  subsection  (2)  applies  in  relation  to  food  or  drink  provided  for  pupils  in attendance at public schools, an education authority must ensure that the food or, as the case may be, drink complies with nutritional requirements specified by the Scottish Ministers by regulations.
+(1) Where  subsection  (2)  applies  in  relation  to  food  or  drink  provided  for  pupils  in attendance at public schools, an education authority must ensure that the food or, as the case may be, drink complies with nutritional requirements specified by the Scottish Ministers by regulations.
 
-- This subsection applies where-
+(2) This subsection applies where-
 
 (a) food or drink is provided under section [ F224 53(2) or (3) ] , or
 
@@ -2897,13 +2894,13 @@ F223 Ss. 56A-56D and cross-heading inserted (12.5.2008 for specified purposes, 4
 
 (ii) does not fall within subsection (3).
 
-- Food or drink falls within this subsection if it is-
+(3) Food or drink falls within this subsection if it is-
 
 (a) brought onto the premises of the school or hostel by a pupil, or
 
 (b) provided as part of a social, cultural or recreative activity (whether or not the activity is organised by an education authority).
 
-- It is immaterial for the purposes of subsection (1) whether food or drink is provided by-
+(4) It is immaterial for the purposes of subsection (1) whether food or drink is provided by-
 
 (a) the education authority, or
 
@@ -2930,7 +2927,7 @@ F224 Words in s. 56A(2)(a) substituted (1.4.2018) by Education (Scotland) Act 20
 
 ##### 56B Regulations under section 56A: further provision
 
-- Regulations  such  as  are  mentioned  in  section  56A(1)  may,  in  particular,  include provision for or in connection with-
+(1) Regulations  such  as  are  mentioned  in  section  56A(1)  may,  in  particular,  include provision for or in connection with-
 
 (a) specifying particular foods or drinks which satisfy, or fail to satisfy, nutritional requirements specified in the regulations,
 
@@ -2942,7 +2939,7 @@ F224 Words in s. 56A(2)(a) substituted (1.4.2018) by Education (Scotland) Act 20
 
 (ii) a hostel provided and maintained by an education authority for pupils.
 
-- Regulations under section 56A(1) may make different provision for different purposes and for different descriptions of pupil.
+(2) Regulations under section 56A(1) may make different provision for different purposes and for different descriptions of pupil.
 
 ##### 56C Guidance
 
@@ -2950,11 +2947,11 @@ An  education  authority  must,  in  carrying  out  the  duty  imposed  on  them
 
 ##### 56D Application of sections 56A to 56C to grant-aided schools
 
-- Sections 56A to 56C apply in relation to the managers of a grant-aided school as they apply in relation to an education authority.
+(1) Sections 56A to 56C apply in relation to the managers of a grant-aided school as they apply in relation to an education authority.
 
-- For the purposes of that application, those sections are to be read as if the modifications mentioned in subsections (3) to (5) had been made.
+(2) For the purposes of that application, those sections are to be read as if the modifications mentioned in subsections (3) to (5) had been made.
 
-- For subsections (1) and (2) of section 56A substitute-
+(3) For subsections (1) and (2) of section 56A substitute-
 
 '(1) The  managers  of  a  grant-aided  school  must  ensure  that  food  and  drink provided for pupils in attendance at the school which-
 
@@ -2964,9 +2961,9 @@ An  education  authority  must,  in  carrying  out  the  duty  imposed  on  them
 
 complies with nutritional requirements specified by the Scottish Ministers by regulations.'.
 
-- In sections 56A(3)(a) and 56B(1)(c) the references to a hostel are omitted.
+(4) In sections 56A(3)(a) and 56B(1)(c) the references to a hostel are omitted.
 
-- In section 56B(1)(c) the reference to a public school is to be read as a reference to a grant-aided school. ]
+(5) In section 56B(1)(c) the reference to a public school is to be read as a reference to a grant-aided school. ]
 
 [[END OF PAGE 62]]
 
@@ -2989,7 +2986,7 @@ F226 S. 56E and cross-heading inserted (4.8.2008) by Schools (Health Promotion a
 
 ##### 56E Food and drink: guidance about sustainable development
 
-- Subsection (2) applies where an education authority-
+(1) Subsection (2) applies where an education authority-
 
 (a) provide food or drink under section [ F227 subsection (2) or (3) of section 53 to pupils mentioned in subsection (1)(a) of that section ] ,
 
@@ -3001,9 +2998,9 @@ F226 S. 56E and cross-heading inserted (4.8.2008) by Schools (Health Promotion a
 
 (ii) services relating to the provision of the food or drink.
 
-- The authority must have regard to any guidance issued by the Scottish Ministers about the application of the principles of sustainable development.
+(2) The authority must have regard to any guidance issued by the Scottish Ministers about the application of the principles of sustainable development.
 
-- Subsection (4) applies where the managers of a grant-aided school-
+(3) Subsection (4) applies where the managers of a grant-aided school-
 
 (a) provide-
 
@@ -3017,9 +3014,9 @@ F226 S. 56E and cross-heading inserted (4.8.2008) by Schools (Health Promotion a
 
 (ii) services relating to the provision of such food or drink.
 
-- The managers must have regard to any guidance issued by the Scottish Ministers about the application of the principles of sustainable development.
+(4) The managers must have regard to any guidance issued by the Scottish Ministers about the application of the principles of sustainable development.
 
-- Guidance issued under subsection (2) or (4) may, in particular, include guidance about the extent to which the application of the principles of sustainable development may be affected by considerations relating to-
+(5) Guidance issued under subsection (2) or (4) may, in particular, include guidance about the extent to which the application of the principles of sustainable development may be affected by considerations relating to-
 
 (a) fair and ethical trading,
 
@@ -3048,13 +3045,13 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 ##### 57 Medical and dental examination and inspection.
 
-- The Secretary of State may make regulations as to the conduct of medical and dental examinations and medical and dental inspections for the purposes of the performance of his duties under section 39 of the M6 National Health Service (Scotland) Act 1978.
+(1) The Secretary of State may make regulations as to the conduct of medical and dental examinations and medical and dental inspections for the purposes of the performance of his duties under section 39 of the M6 National Health Service (Scotland) Act 1978.
 
 [ F230 (2) For the purpose of securing the proper medical or dental inspection of the pupils and young persons for whom there is a duty under the said section 39 to provide such inspection, an education authority may require the parent of any pupil in attendance at any school under their management to submit the pupil for medical or dental inspection in accordance with arrangements made by the appropriate Health Board in agreement with the authority; and the authority may require any young person in attendance at any educational establishment under their management to submit for such medical or dental inspection. ]
 
-- If any [ F231 parent ] fails without reasonable excuse to comply with a requirement made by an education authority F232 ... under subsection (2) above, he shall be guilty of an offence and shall be liable on conviction by a court of summary jurisdiction to a fine not exceeding [ F233 £10 ][ F233 level 1 on the standard scale ] .
+(3) If any [ F231 parent ] fails without reasonable excuse to comply with a requirement made by an education authority F232 ... under subsection (2) above, he shall be guilty of an offence and shall be liable on conviction by a court of summary jurisdiction to a fine not exceeding [ F233 £10 ][ F233 level 1 on the standard scale ] .
 
-- In this section 'the appropriate Health Board', in relation to any pupil or young person, means the Health Board in whose area is situated the school, F234 or other educational establishment at which the pupil or young person is in attendance.
+(4) In this section 'the appropriate Health Board', in relation to any pupil or young person, means the Health Board in whose area is situated the school, F234 or other educational establishment at which the pupil or young person is in attendance.
 
 ###### Textual Amendments
 F230 S. 57(2) substituted (13.10.2000) by 2000 asp 6, s. 60(1), Sch. 2 para. 3(6)(a) ; S.S.I. 2000/361, art. 3(1)(2), Sch. Pt. I F231 Words in s. 57(3) substituted (13.10.2000) by 2000 asp 6, s. 60(1), Sch. 2 para. 3(6)(b) ; S.S.I. 2000/361, art. 3(1)(2), Sch. Pt. I F232 Words in s. 57(3) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b) F233 Words from 'level 1' to 'scale' substituted (11.4.1983) for word '£10' by virtue of Criminal Procedure (Scotland) Act 1975 (c. 21), ss. 289F , 289G (as inserted by Criminal Justice Act 1982 (c. 48), s. 54 ) F234 Words repealed by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s. 82(2), Sch. 11
@@ -3063,7 +3060,7 @@ M6 1978 c. 29.
 
 ##### 58 Power to ensure cleanliness.
 
-- An education authority may, by directions in writing issued with respect to all schools, F235 and other educational establishments under their management or with respect to any of such schools, F236 or establishments named in the directions F237 ... authorise a medical officer of the appropriate Health Board to cause examinations to be made of the bodies and clothing of all or any of the pupils in attendance at such schools F237 ... and young persons in attendance at such F235 establishments whenever in his opinion such examinations are necessary in the interests of cleanliness.
+(1) An education authority may, by directions in writing issued with respect to all schools, F235 and other educational establishments under their management or with respect to any of such schools, F236 or establishments named in the directions F237 ... authorise a medical officer of the appropriate Health Board to cause examinations to be made of the bodies and clothing of all or any of the pupils in attendance at such schools F237 ... and young persons in attendance at such F235 establishments whenever in his opinion such examinations are necessary in the interests of cleanliness.
 
 [[END OF PAGE 64]]
 
@@ -3079,15 +3076,15 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-- Any such examination as aforesaid shall be made by such medical officer or by a person authorised in writing by him to make such examinations (in this section referred to as an 'authorised person'), and, if the body or clothing of any pupil or young person is found upon such an examination to be infested with vermin or in a foul condition, the authority F238 ... may serve upon the parent of such pupil or upon the young person a notice requiring the parent to cause the body and clothing of the pupil to be cleansed or the young person to cause himself and his clothing to be cleansed as the case may be.
+(2) Any such examination as aforesaid shall be made by such medical officer or by a person authorised in writing by him to make such examinations (in this section referred to as an 'authorised person'), and, if the body or clothing of any pupil or young person is found upon such an examination to be infested with vermin or in a foul condition, the authority F238 ... may serve upon the parent of such pupil or upon the young person a notice requiring the parent to cause the body and clothing of the pupil to be cleansed or the young person to cause himself and his clothing to be cleansed as the case may be.
 
-- A notice served under subsection (2) above shall inform the person upon whom it is served that, unless within the period limited by the notice, not being more than twentyfour hours after the service thereof, the body and clothing of the pupil or young person to whom the notice relates are cleansed to the satisfaction of the medical officer or an authorised person as may be specified in the notice, the cleansing thereof will be carried out under arrangements made by the education authority F239 ...; and, if at the expiration of that period the medical officer or an authorised person is not satisfied that the body and clothing of the pupil or young person have been properly cleansed, the medical officer or an authorised person may issue an order directing that the body and clothing of the pupil or young person be cleansed under such arrangements. The order shall be sufficient to authorise any officer of the authority F239 ... to cause the body and clothing of the pupil or young person named in the order to be cleansed in accordance with such arrangements, and for that purpose to convey him to the premises where the cleansing is to be carried out and to detain him there until such time as the cleansing has been completed.
+(3) A notice served under subsection (2) above shall inform the person upon whom it is served that, unless within the period limited by the notice, not being more than twenty-four hours after the service thereof, the body and clothing of the pupil or young person to whom the notice relates are cleansed to the satisfaction of the medical officer or an authorised person as may be specified in the notice, the cleansing thereof will be carried out under arrangements made by the education authority F239 ...; and, if at the expiration of that period the medical officer or an authorised person is not satisfied that the body and clothing of the pupil or young person have been properly cleansed, the medical officer or an authorised person may issue an order directing that the body and clothing of the pupil or young person be cleansed under such arrangements. The order shall be sufficient to authorise any officer of the authority F239 ... to cause the body and clothing of the pupil or young person named in the order to be cleansed in accordance with such arrangements, and for that purpose to convey him to the premises where the cleansing is to be carried out and to detain him there until such time as the cleansing has been completed.
 
-- It shall be the duty of the education authority F240 ... to make arrangements for securing that any cleansing under this section, whether at the request of a parent or young person or in pursuance of an order issued under this section, may be carried out in suitable premises by suitable persons and with suitable appliances.
+(4) It shall be the duty of the education authority F240 ... to make arrangements for securing that any cleansing under this section, whether at the request of a parent or young person or in pursuance of an order issued under this section, may be carried out in suitable premises by suitable persons and with suitable appliances.
 
-- If after the cleansing of the body or clothing of any pupil or young person has been carried out under this section his body or clothing is again found to be infested with vermin or in a foul condition at any time while he is in attendance at such school, F235 or other educational establishment, and it is proved that the condition of his body or clothing is due to neglect on the part of his parent, or, in the case of a young person in attendance at [ F241 an ] educational establishment, to his own neglect, the parent or the young person, as the case may be, shall be liable on conviction by a court of summary jurisdiction in the case of a first conviction to a fine not exceeding £1, in the case of a second conviction to a fine not exceeding £5, and in the case of a third or subsequent conviction to a fine not exceeding £10 or to a term of imprisonment not exceeding one month or to both such fine and such imprisonment.
+(5) If after the cleansing of the body or clothing of any pupil or young person has been carried out under this section his body or clothing is again found to be infested with vermin or in a foul condition at any time while he is in attendance at such school, F235 or other educational establishment, and it is proved that the condition of his body or clothing is due to neglect on the part of his parent, or, in the case of a young person in attendance at [ F241 an ] educational establishment, to his own neglect, the parent or the young person, as the case may be, shall be liable on conviction by a court of summary jurisdiction in the case of a first conviction to a fine not exceeding £1, in the case of a second conviction to a fine not exceeding £5, and in the case of a third or subsequent conviction to a fine not exceeding £10 or to a term of imprisonment not exceeding one month or to both such fine and such imprisonment.
 
-- Where such a medical officer or authorised person has reason to believe that the body or clothing of any pupil or young person in attendance at such school, F235 or other educational establishment is infested with vermin or in a foul condition, but action for the examination or cleansing thereof cannot immediately be taken, he shall so advise the authority F242 ..., who may, if they consider it necessary so to do in the interests either of the pupil or young person or of other children or young persons in attendance at the school, F236 or other educational establishment, direct that the pupil or young person be excluded from the school, F236 or other educational establishment until such action has been taken; and such a direction shall be a defence to any proceedings under this Act in respect of the failure of the pupil or young person to attend school or to comply with the requirements of an attendance notice, as the case may be, on any day on which
+(6) Where such a medical officer or authorised person has reason to believe that the body or clothing of any pupil or young person in attendance at such school, F235 or other educational establishment is infested with vermin or in a foul condition, but action for the examination or cleansing thereof cannot immediately be taken, he shall so advise the authority F242 ..., who may, if they consider it necessary so to do in the interests either of the pupil or young person or of other children or young persons in attendance at the school, F236 or other educational establishment, direct that the pupil or young person be excluded from the school, F236 or other educational establishment until such action has been taken; and such a direction shall be a defence to any proceedings under this Act in respect of the failure of the pupil or young person to attend school or to comply with the requirements of an attendance notice, as the case may be, on any day on which
 
 [[END OF PAGE 65]]
 
@@ -3107,28 +3104,31 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 he is excluded in pursuance of the direction, unless it is proved that the issue of the direction was necessitated by the wilful default of the parent or of the young person.
 
-- No female shall be examined or cleansed under the powers conferred by this section except by a registered medical practitioner or by a woman authorised ?for that purpose by a medical officer of a Health Board.
+(7) No female shall be examined or cleansed under the powers conferred by this section except by a registered medical practitioner or by a woman authorised for that purpose by a medical officer of a Health Board.
 
-- In this section 'the appropriate Health Board' has the same meaning as in section 57 of this Act.
+(8) In this section 'the appropriate Health Board' has the same meaning as in section 57 of this Act.
 
 ###### Textual Amendments
-F235 Words repealed by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s. 82(2), Sch. 11 F236 Word repealed by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s. 82(2), Sch. 11 F237 Words in s. 58(1) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b) F238 Words in s. 58(2) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b) F239 Words in s. 58(3) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b) F240 Words in s. 58(4) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b) F241 Word substituted by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s. 82(1), Sch. 10 para. 8(13) Words in s. 58(6) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s.
-
-- F242 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b)
+F235 Words repealed by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s. 82(2), Sch. 11
+F236 Word repealed by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s. 82(2), Sch. 11
+F237 Words in s. 58(1) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b)
+F238 Words in s. 58(2) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b)
+F239 Words in s. 58(3) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b)
+F240 Words in s. 58(4) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b)
+F241 Word substituted by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s. 82(1), Sch. 10 para. 8(13)
+F242 Words in s. 58(6) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b)
 
 ###### Modifications etc. (not altering text)
 
-- C28 S. 58(5): Criminal Procedure (Scotland) Act 1975 (c. 21), s. 289E (in relation to liability on first and subsequent convictions) (as inserted by Criminal Justice Act 1982 (c. 48), s. 54 ) applies (11.4.1983)
+C28 S. 58(5): Criminal Procedure (Scotland) Act 1975 (c. 21), s. 289E (in relation to liability on first and subsequent convictions) (as inserted by Criminal Justice Act 1982 (c. 48), s. 54 ) applies (11.4.1983)
 
 #### Children requiring special education
 
 ##### 59
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F243
 
-F243 Ss. 5, 28(2), 59, 66(2), 111(4)(5), 129(5)(6), 132(1), Sch. 2 paras. 1, 3 repealed by Education Sch. 9
-
 ###### Textual Amendments
-(Scotland) Act 1981 (c. 58),
+F243 Ss. 5, 28(2), 59, 66(2), 111(4)(5), 129(5)(6), 132(1), Sch. 2 paras. 1, 3 repealed by Education (Scotland) Act 1981 (c. 58), Sch. 9
 
 ##### F244 60 Functions of education authority in relation to children and young persons with certain special educational needs.
 
@@ -3285,7 +3285,7 @@ F244 Ss. 60-65G repealed (14.11.2005) by Education (Additional Support for Learn
 
 ##### 66 Inspection of educational establishments.
 
-- The  Secretary  of  State  shall  have  power  to  cause  inspection  to  be  made  of  every [ F245 school ] at such intervals as appear to him to be appropriate, and to cause a special inspection of any [ F246 school ] to be made whenever he considers such an inspection to be desirable, and he may from time to time cause inspection to be made of any other educational establishment [ F247 (other than a designated institution within the meaning of  Part  II  of  the  Further  and  Higher  Education  (Scotland)  Act  1992) ] ,  and  such inspections shall be made by Her Majesty's Inspectors or [ F248 any person appointed by the Scottish Ministers for the purposes of this section (or Her Majesty's Inspectors and any such person) ] .
+(1) The  Secretary  of  State  shall  have  power  to  cause  inspection  to  be  made  of  every [ F245 school ] at such intervals as appear to him to be appropriate, and to cause a special inspection of any [ F246 school ] to be made whenever he considers such an inspection to be desirable, and he may from time to time cause inspection to be made of any other educational establishment [ F247 (other than a designated institution within the meaning of  Part  II  of  the  Further  and  Higher  Education  (Scotland)  Act  1992) ] ,  and  such inspections shall be made by Her Majesty's Inspectors or [ F248 any person appointed by the Scottish Ministers for the purposes of this section (or Her Majesty's Inspectors and any such person) ] .
 
 [ F249 (1AA) If requested to do so by the Scottish Ministers-
 
@@ -3307,11 +3307,11 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-- F251 [ (1B) Notwithstanding subsection (1) above, the Secretary of State shall have power to cause inspection to be made of the education and training, wherever it is carried out, provided by institutions within the higher education sector (within the meaning of the M7 Further and Higher Education (Scotland) Act 1992) wholly or mainly for persons preparing to be, or persons who are, teachers in schools, and such inspections shall be made by Her Majesty's Inspectors or other persons appointed by the Secretary of State for the purpose. ]
+F251 [ (1B) Notwithstanding subsection (1) above, the Secretary of State shall have power to cause inspection to be made of the education and training, wherever it is carried out, provided by institutions within the higher education sector (within the meaning of the M7 Further and Higher Education (Scotland) Act 1992) wholly or mainly for persons preparing to be, or persons who are, teachers in schools, and such inspections shall be made by Her Majesty's Inspectors or other persons appointed by the Secretary of State for the purpose. ]
 
-- If any person [ F253 wilfully ] obstructs any person authorised to make an inspection in pursuance of this section in the execution of his duty, he shall be liable on summary conviction to a fine not exceeding [ F254 level 4 on the standard scale ] or to imprisonment for a term not exceeding three months or to both such fine and such imprisonment.
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F252
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F252
+(3) If any person [ F253 wilfully ] obstructs any person authorised to make an inspection in pursuance of this section in the execution of his duty, he shall be liable on summary conviction to a fine not exceeding [ F254 level 4 on the standard scale ] or to imprisonment for a term not exceeding three months or to both such fine and such imprisonment.
 
 ###### Textual Amendments
 F245 Word substituted by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s. 82(1), Sch. 10 para. 8(14)(a) F246 Word substituted by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s. 82(1), Sch. 10 para. 8(14)(b) F247 Words in s. 66(1) inserted (1.4.1993) by Further and Higher Education (Scotland) Act 1992 (c. 37), s. 62(2), Sch. 9 para. 7(5) ; S.I. 1992/817, art. 3(2), Sch. 4 F248 Words in s. 66(1) substituted (13.10.2000) by 2000 asp 6, s. 11(a) ; S.S.I. 2000/361, art. 3(1)(2), Sch. Pt. I F249 S. 66(1AA) inserted (13.10.2000) by 2000 asp 6, s. 11(b) ; S.S.I. 2000/361, art. 3(1)(2), Sch. Pt. I F250 S. 66(1A) substituted (4.3.2002) by 2000 asp 6, s. 36; S.S.I. 2002/72, art. 2(1)(e) F251 S. 66(1B) inserted (1.10.1998) by 1998 c. 30, s. 21 (with s. 42(8)); S.I. 1998/2215, art. 2 . F252 Ss. 5, 28(2), 59, 66(2), 111(4)(5), 129(5)(6), 132(1), Sch. 2 paras. 1, 3 repealed by Education (Scotland) Act 1981 (c. 58), Sch. 9 F253 Word in s. 66(3) inserted (13.10.2000) by 2000 asp 6, s. 60(1), Sch. 2 para. 3(7) ; S.S.I. 2000/361, art. 3(1)(2), Sch. Pt. I F254 Words in s. 66(3) substituted (1.4.1996) by 1995 c. 40, ss. 3, 7(2), Sch. 1 para. 10, Sch. 2 Pt. III .
@@ -3320,7 +3320,7 @@ M7 1992 c. 37.
 
 ##### [ F255 66A Code of practice as regards inspections under section 66
 
-- Subject to subsection (2) below, the Scottish Ministers may, for the purposes of-
+(1) Subject to subsection (2) below, the Scottish Ministers may, for the purposes of-
 
 (a) giving practical guidance on matters relating to inspections under section 66 of this Act (including, without prejudice to that generality, such matters as the making and publishing of reports on those inspections); and
 
@@ -3328,7 +3328,7 @@ M7 1992 c. 37.
 
 from time to time prepare, approve and issue such codes of practice as in their opinion are suitable for those purposes.
 
-- Subsection  (1)  above  does  not  apply  in  relation  to  inspections  of  educational establishments  which  are  institutions  for  the  provision  of  any  form  of  further education. ]
+(2) Subsection  (1)  above  does  not  apply  in  relation  to  inspections  of  educational establishments  which  are  institutions  for  the  provision  of  any  form  of  further education. ]
 
 [[END OF PAGE 70]]
 
@@ -3408,7 +3408,7 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-- A preliminary notice is a notice which-
+(2) A preliminary notice is a notice which-
 
 (a) informs the relevant person of the apparent failure mentioned in subsection (1) (a) above; and
 
@@ -3424,7 +3424,7 @@ F256 Ss. 66B-66D inserted (31.1.2005) by School Education (Ministerial Powers an
 
 ##### 66D Enforcement direction
 
-- Where, following service under section 66C(1) of this Act of a preliminary notice and the expiry of the time specified in it, it still appears to the Scottish Ministers that-
+(1) Where, following service under section 66C(1) of this Act of a preliminary notice and the expiry of the time specified in it, it still appears to the Scottish Ministers that-
 
 (a) the relevant person is failing or has failed to take satisfactory action to secure improvement in the matter mentioned in section 66B(2)(a) of this Act; and
 
@@ -3432,23 +3432,23 @@ F256 Ss. 66B-66D inserted (31.1.2005) by School Education (Ministerial Powers an
 
 they may give the relevant person an enforcement direction.
 
-- An enforcement direction is a direction in writing by the Scottish Ministers requiring the relevant person to whom it is given to take, within such time as is specified in the direction, such action as is so specified, being action calculated to remedy or prevent the recurrence of the failure mentioned in subsection (1)(a) above.
+(2) An enforcement direction is a direction in writing by the Scottish Ministers requiring the relevant person to whom it is given to take, within such time as is specified in the direction, such action as is so specified, being action calculated to remedy or prevent the recurrence of the failure mentioned in subsection (1)(a) above.
 
-- Where two or more courses of action are specified in an enforcement direction, the Scottish Ministers may specify for each a different time within which it is to be taken.
+(3) Where two or more courses of action are specified in an enforcement direction, the Scottish Ministers may specify for each a different time within which it is to be taken.
 
-- An enforcement direction may place such conditions as the Scottish Ministers may specify in it upon the carrying out of such functions of the relevant person in relation to the school and the school education provided in it as are so specified.
+(4) An enforcement direction may place such conditions as the Scottish Ministers may specify in it upon the carrying out of such functions of the relevant person in relation to the school and the school education provided in it as are so specified.
 
-- The Scottish Ministers may vary an enforcement direction by giving a further such direction.
+(5) The Scottish Ministers may vary an enforcement direction by giving a further such direction.
 
-- A further such direction need not proceed upon a further preliminary notice under section 66C(1) of this Act.
+(6) A further such direction need not proceed upon a further preliminary notice under section 66C(1) of this Act.
 
-- An enforcement direction may be revoked by the Scottish Ministers.
+(7) An enforcement direction may be revoked by the Scottish Ministers.
 
-- Before giving, varying or revoking an enforcement direction, the Scottish Ministers shall consult Her Majesty's Inspectors.
+(8) Before giving, varying or revoking an enforcement direction, the Scottish Ministers shall consult Her Majesty's Inspectors.
 
-- A relevant person to whom an enforcement direction is given shall comply with it.
+(9) A relevant person to whom an enforcement direction is given shall comply with it.
 
-- The Scottish Ministers may, instead of or as well as giving an enforcement direction, make such recommendations to the relevant person as they think appropriate.
+(10) The Scottish Ministers may, instead of or as well as giving an enforcement direction, make such recommendations to the relevant person as they think appropriate.
 
 [[END OF PAGE 72]]
 
@@ -3464,7 +3464,7 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-- If the Scottish Ministers exercise their power to give, vary or revoke an enforcement direction they shall-
+(11) If the Scottish Ministers exercise their power to give, vary or revoke an enforcement direction they shall-
 
 (a) prepare a report on their exercise of that power; and
 
@@ -3489,7 +3489,7 @@ F258 Words in s. 68 inserted (1.4.1993) by Further and Higher Education (Scotlan
 
 ##### 69 Approval and carrying out of schemes.
 
-- The Secretary of State may, after considering any representations made to him on the subject and the report of any local inquiry which may have been held under section 67
+(1) The Secretary of State may, after considering any representations made to him on the subject and the report of any local inquiry which may have been held under section 67
 
 [[END OF PAGE 73]]
 
@@ -3505,9 +3505,9 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 of this Act, approve, either as submitted or with such modifications and amendments as he thinks proper, any scheme or revised scheme or modification of an existing scheme (in this section referred to as 'the scheme') submitted to him under this Act by an education authority; and thereupon it shall be the duty of the education authority to carry the scheme into effect as so approved.
 
-- If  an  education  authority  inform  the  Secretary  of  State  that  they  are  aggrieved  by his approval with modifications or amendments of the scheme, the Secretary of State shall cause the scheme as so approved to be laid before Parliament as soon as may be thereafter together with the report of any local inquiry which may have been held under section 67 of this Act. If either House of Parliament within the period of forty days beginning with the day on which the scheme is laid before it resolves that the approval of the scheme be annulled, the scheme as so approved shall cease to have effect, but without prejudice to anything previously done thereunder or to the submission and approval with or without modifications and amendments of any new scheme, revised scheme or modification of an existing scheme.
+(2) If  an  education  authority  inform  the  Secretary  of  State  that  they  are  aggrieved  by his approval with modifications or amendments of the scheme, the Secretary of State shall cause the scheme as so approved to be laid before Parliament as soon as may be thereafter together with the report of any local inquiry which may have been held under section 67 of this Act. If either House of Parliament within the period of forty days beginning with the day on which the scheme is laid before it resolves that the approval of the scheme be annulled, the scheme as so approved shall cease to have effect, but without prejudice to anything previously done thereunder or to the submission and approval with or without modifications and amendments of any new scheme, revised scheme or modification of an existing scheme.
 
-- In reckoning any such period of forty days, no account shall be taken of any time during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+(3) In reckoning any such period of forty days, no account shall be taken of any time during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
 
 ##### 70 Powers to enforce duty of education authorities and other persons.
 
@@ -3525,7 +3525,7 @@ of this Act, approve, either as submitted or with such modifications and amendme
 
 [ F264 (3) Despite subsection (2), no order under subsection (1) may be made in respect of a failure by an education authority that is of a type mentioned in subsection (4).
 
-- The types of failure are-
+(4) The types of failure are-
 
 [[END OF PAGE 74]]
 
@@ -3549,34 +3549,34 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 (d) where a failure mentioned in paragraph (a), (b) or (c) also constitutes a failure to discharge the duty imposed by section 4 of the 2004 Act, a failure under that section that is so constituted.
 
-- The Scottish Ministers may by regulations make provision for or in connection with the procedure to be followed in relation to-
+(5) The Scottish Ministers may by regulations make provision for or in connection with the procedure to be followed in relation to-
 
 (a) the investigation of an alleged failure by an education authority, the managers of a school or educational establishment or other person to discharge a duty mentioned in subsection (1),
 
 (b) the determination of whether to make an order under that subsection.
 
-- Regulations under subsection (5) may-
+(6) Regulations under subsection (5) may-
 
 (a) include transitional, transitory or saving provision,
 
 (b) make different provision for different purposes.
 
-- Before  making  any  regulations  under  subsection  (5),  the  Scottish  Ministers  must consult such persons as they consider appropriate. ]
+(7) Before  making  any  regulations  under  subsection  (5),  the  Scottish  Ministers  must consult such persons as they consider appropriate. ]
 
 ###### Textual Amendments
 F261 S. 70 renumbered as s. 70(1) (13.10.2000) by 2000 asp 6, s. 60(1), Sch. 2 para. 3(8) ; S.S.I. 2000/361, art. 3(1)(2), Sch. Pt. I F262 Words in s. 70(1) repealed (1.8.2007) by Scottish Schools (Parental Involvement) Act 2006 (asp 8), s. 24(2), sch. ; S.S.I. 2007/31, art. 2(b), sch. 2 F263 S. 70(2) added (13.10.2000) by 2000 asp 6, s. 60(1), Sch. 2 para. 3(8) ; S.S.I. 2000/361, art. 3(1)(2), Sch. Pt. I F264 S. 70(3)-(7) inserted (1.1.2017 for specified purposes, 10.1.2018 in so far as not already in force) by Education (Scotland) Act 2016 (asp 8), ss. 24 , 33(2); S.S.I. 2016/386, reg. 2, sch.; S.S.I. 2017/164, reg. 2, sch. (as amended by S.S.I. 2017/352, reg. 2)
 ###### Modifications etc. (not altering text)
 C29 S. 70 applied by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2), s.7(8) C30 S. 70: functions transferred ( temp. 20.5.1999 to 1.7.1999) by S.I. 1999/901, art. 5, Sch. ; S.I. 1998/3178, art. 3
 
-- 70: functions transferred (1.7.1999) by S.I. 1999/1750, arts. 1(1), 2, Sch. 1 ; S.I. 1998/3178, art. 3
+s. 70: functions transferred (1.7.1999) by S.I. 1999/1750, arts. 1(1), 2, Sch. 1 ; S.I. 1998/3178, art. 3
 
-- C31 S. 70 excluded by 2010 c. 15, s. 87(2) (as amended) (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), arts. 1(2), 3(b)
+C31 S. 70 excluded by 2010 c. 15, s. 87(2) (as amended) (1.10.2010) by The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279), arts. 1(2), 3(b)
 
 #### Advisory councils
 
 ##### 71 Advisory councils.
 
-- It  shall  be  lawful  for  Her  Majesty  by  Order  in  Council  to  establish  an  advisory council consisting, as to not less than two-thirds of the members, of persons qualified
+(1) It  shall  be  lawful  for  Her  Majesty  by  Order  in  Council  to  establish  an  advisory council consisting, as to not less than two-thirds of the members, of persons qualified
 
 [[END OF PAGE 75]]
 
@@ -3592,9 +3592,9 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 to represent the views of various bodies interested in education, for the purpose of advising the Secretary of State on educational matters, and the Secretary of State shall take into consideration any advice or representation submitted to him by the advisory council.
 
-- Provisions may be made in the said order for the appointment by the advisory council of special committees to deal with remits on particular subjects made to the council by the Secretary of State, for such special committees to be composed of persons nominated by the Secretary of State of whom some shall be members of the council and the remainder shall be persons having special knowledge or experience of the subjects of the respective remits, and for the reports of special committees to be submitted to the Secretary of State by the advisory council, who shall be entitled in submitting the reports to make such comments thereon as they think fit.
+(2) Provisions may be made in the said order for the appointment by the advisory council of special committees to deal with remits on particular subjects made to the council by the Secretary of State, for such special committees to be composed of persons nominated by the Secretary of State of whom some shall be members of the council and the remainder shall be persons having special knowledge or experience of the subjects of the respective remits, and for the reports of special committees to be submitted to the Secretary of State by the advisory council, who shall be entitled in submitting the reports to make such comments thereon as they think fit.
 
-- The Secretary of State may, after consultation with education authorities and other persons interested, by order establish a regional advisory council for any branch of education, to advise the education authorities and other managers of schools, F265 and other educational establishments in the region as to the development of the branch of education for which the council is appointed.
+(3) The Secretary of State may, after consultation with education authorities and other persons interested, by order establish a regional advisory council for any branch of education, to advise the education authorities and other managers of schools, F265 and other educational establishments in the region as to the development of the branch of education for which the council is appointed.
 
 ###### Textual Amendments
 
@@ -3604,13 +3604,13 @@ F265 Words repealed by Self-Governing Schools etc. (Scotland) Act 1989 (c. 39, S
 
 ##### 72 Expenses of Secretary of State.
 
-- The expenses incurred by the Secretary of State in the exercise of his functions under this Act shall, in so far as they are not met under section 1(2) of the M8 Reorganisation of Offices (Scotland) Act 1939 [ F266 or recovered by virtue of subsection (3) ] , be defrayed out of money provided by Parliament.
+(1) The expenses incurred by the Secretary of State in the exercise of his functions under this Act shall, in so far as they are not met under section 1(2) of the M8 Reorganisation of Offices (Scotland) Act 1939 [ F266 or recovered by virtue of subsection (3) ] , be defrayed out of money provided by Parliament.
 
-- Any sum by which any grants under this Act are increased by reason of the powers and duties conferred and imposed by the provisions of section 48 of this Act on education authorities shall be defrayed out of money provided by Parliament.
+(2) Any sum by which any grants under this Act are increased by reason of the powers and duties conferred and imposed by the provisions of section 48 of this Act on education authorities shall be defrayed out of money provided by Parliament.
 
 [ F267 (3) The Scottish Ministers may recover from an educational establishment mentioned in subsection (4) the expenses incurred in respect of an inspection of the establishment caused  by  the  Scottish  Ministers  under  section  66(1)  following  a  request  by  the establishment.
 
-- An educational establishment referred to in subsection (3) is an establishment which-
+(4) An educational establishment referred to in subsection (3) is an establishment which-
 
 (a) wholly or mainly, provides 'fundable further education' within the meaning of section 5 of the Further and Higher Education (Scotland) Act 2005, and
 
@@ -3691,7 +3691,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 ##### [ F275 73ZA Administration of certain sums
 
-- The Scottish Ministers may direct-
+(1) The Scottish Ministers may direct-
 
 (a) the Scottish Further and Higher Education Funding Council; or
 
@@ -3699,7 +3699,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 to administer any sums applied by the Scottish Ministers for a purpose referred to in paragraph (a), (c) or (f) of section 73 of this Act.
 
-- A  body  or  person  to  whom  a  direction  is  given  under  subsection  (1)  above  shall administer those sums-
+(2) A  body  or  person  to  whom  a  direction  is  given  under  subsection  (1)  above  shall administer those sums-
 
 (a) in such manner and to such extent; and
 
@@ -3707,7 +3707,7 @@ to administer any sums applied by the Scottish Ministers for a purpose referred 
 
 as the Scottish Ministers may in the direction specify.
 
-- The reference in subsection (1) above to a purpose referred to in paragraph (a), (c) or (f) of section 73 of this Act is a reference to that purpose only in so far as relating to support for persons-
+(3) The reference in subsection (1) above to a purpose referred to in paragraph (a), (c) or (f) of section 73 of this Act is a reference to that purpose only in so far as relating to support for persons-
 
 (a) undertaking; or
 
@@ -3715,22 +3715,22 @@ as the Scottish Ministers may in the direction specify.
 
 courses of education provided by [ F276 post-16 education ] bodies.
 
-- In  subsection  (3)  above,  ' [ F277 post-16  education ] bodies'  shall  be  construed  in accordance with the Further and Higher Education (Scotland) Act 2005 (asp 6). ]
+(4) In  subsection  (3)  above,  ' [ F277 post-16  education ] bodies'  shall  be  construed  in accordance with the Further and Higher Education (Scotland) Act 2005 (asp 6). ]
 
 ###### Textual Amendments
 F275 S. 73ZA inserted (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), ss. 19(1) , 36(2); S.S.I. 2005/419, art. 2(1) F276 Words in s. 73ZA(3) substituted (3.3.2014) by Post-16 Education (Scotland) Act 2013 (asp 12), s. 23(2), sch. para. 1(2)(a) ; S.S.I. 2014/21, art. 2, sch. 1 F277 Words in s. 73ZA(4) substituted (3.3.2014) by Post-16 Education (Scotland) Act 2013 (asp 12), s. 23(2), sch. para. 1(2)(b) ; S.S.I. 2014/21, art. 2, sch. 1
 
 ##### [ F278 73A Transfer or delegation of functions relating to student support.
 
-- If the Secretary of State so determines, any function exercisable by him by virtue of regulations made under section 73(f) of this Act shall, to such extent as is specified in his determination, be exercisable instead by such body or person as is so specified.
+(1) If the Secretary of State so determines, any function exercisable by him by virtue of regulations made under section 73(f) of this Act shall, to such extent as is specified in his determination, be exercisable instead by such body or person as is so specified.
 
-- A person or body by whom any function is for the time being exercisable by virtue of subsection (1) above shall comply with any direction given by the Secretary of State as to the exercise of that function.
+(2) A person or body by whom any function is for the time being exercisable by virtue of subsection (1) above shall comply with any direction given by the Secretary of State as to the exercise of that function.
 
-- The Secretary of State may make arrangements for any person or body specified in the arrangements to exercise on his behalf, to such extent as is so specified, any function exercisable by him by virtue of regulations under section [ F279 73(a), (c) or (f) ] of this Act (including any such functions as to appeals).
+(3) The Secretary of State may make arrangements for any person or body specified in the arrangements to exercise on his behalf, to such extent as is so specified, any function exercisable by him by virtue of regulations under section [ F279 73(a), (c) or (f) ] of this Act (including any such functions as to appeals).
 
-- Any arrangements made under subsection (3) above shall not prevent the Secretary of State from exercising the function in question himself.
+(4) Any arrangements made under subsection (3) above shall not prevent the Secretary of State from exercising the function in question himself.
 
-- The Secretary of State may make provision for enabling appeals-
+(5) The Secretary of State may make provision for enabling appeals-
 
 [[END OF PAGE 78]]
 
@@ -3750,7 +3750,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 (b) to be so made to a person or body appointed by him for that purpose.
 
-- The  Secretary  of  State  may  pay  to  any  person  or  body  by  whom  any  function  is exercisable by virtue of subsection (1) or (3) above-
+(6) The  Secretary  of  State  may  pay  to  any  person  or  body  by  whom  any  function  is exercisable by virtue of subsection (1) or (3) above-
 
 (a) such  amounts  as  he  considers  appropriate  for  the  purpose  of  meeting expenditure incurred or to be incurred by that person or body-
 
@@ -3762,11 +3762,11 @@ in, or in connection with, the exercise of that function;
 
 (b) in the case of any such person, or of any body with which the Secretary of State has made arrangements under subsection (3) above, such remuneration as he may determine.
 
-- Any  payment  under  subsection  (6)(a)  above  may  be  made  subject  to  such  terms and conditions (including conditions as to repayment) as the Secretary of State may determine.
+(7) Any  payment  under  subsection  (6)(a)  above  may  be  made  subject  to  such  terms and conditions (including conditions as to repayment) as the Secretary of State may determine.
 
-- The  Secretary  of  State  may  pay  to  any  person  or  body  appointed  by  him  under subsection  (5)  such  remuneration  or  administrative  expenses  (or  both)  as  he  may determine.
+(8) The  Secretary  of  State  may  pay  to  any  person  or  body  appointed  by  him  under subsection  (5)  such  remuneration  or  administrative  expenses  (or  both)  as  he  may determine.
 
-- In relation to any function which, by virtue of subsection (1) or (3) above is exercisable to a specified extent, references in any other provision of this section to the exercise of that function are accordingly to its exercise to that extent.
+(9) In relation to any function which, by virtue of subsection (1) or (3) above is exercisable to a specified extent, references in any other provision of this section to the exercise of that function are accordingly to its exercise to that extent.
 
 [ F282 (10) The references in subsections (3) and (6)(a)(i) above to regulations under section 73(a) or (c) of this Act are references to those regulations only in so far as relating to support
 
@@ -3778,12 +3778,10 @@ for persons-
 
 courses of education provided by [ F283 post-16 education ] bodies.
 
-- In  subsection  (10)  above,  ' [ F284 post-16  education ] bodies'  shall  be  construed  in accordance with the Further and Higher Education (Scotland) Act 2005 (asp 6). ]]
-
-- F283 Words in s. 73A(10) substituted (3.3.2014) by Post-16 Education (Scotland) Act 2013 (asp 12), s. 23(2), sch. para. 1(3)(a) ; S.S.I. 2014/21, art. 2, sch. 1
+(11) In  subsection  (10)  above,  ' [ F284 post-16  education ] bodies'  shall  be  construed  in accordance with the Further and Higher Education (Scotland) Act 2005 (asp 6). ]]
 
 ###### Textual Amendments
-F278 Ss. 73A-73D inserted (16.7.1998) by 1998 c. 30, ss. 29(2) , 46(3) (with s. 42(8)) F279 Words in s. 73A(3) substituted (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), ss. 19(2)(a), 36(2); S.S.I. 2005/419, art. 2(1) F280 Word in s. 73A(6)(a)(i) inserted (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), ss. 19(2)(b)(i), 36(2); S.S.I. 2005/419, art. 2(1) F281 Words in s. 73A(6)(a)(i) substituted (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), ss. 19(2)(b)(ii), 36(2); S.S.I. 2005/419, art. 2(1) F282 S. 73A(10)(11) added (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), ss. 19(2)(c) , 36(2); S.S.I. 2005/419, art. 2(1)
+F278 Ss. 73A-73D inserted (16.7.1998) by 1998 c. 30, ss. 29(2) , 46(3) (with s. 42(8)) F279 Words in s. 73A(3) substituted (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), ss. 19(2)(a), 36(2); S.S.I. 2005/419, art. 2(1) F280 Word in s. 73A(6)(a)(i) inserted (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), ss. 19(2)(b)(i), 36(2); S.S.I. 2005/419, art. 2(1) F281 Words in s. 73A(6)(a)(i) substituted (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), ss. 19(2)(b)(ii), 36(2); S.S.I. 2005/419, art. 2(1) F282 S. 73A(10)(11) added (3.10.2005) by Further and Higher Education (Scotland) Act 2005 (asp 6), ss. 19(2)(c) , 36(2); S.S.I. 2005/419, art. 2(1) F283 Words in s. 73A(10) substituted (3.3.2014) by Post-16 Education (Scotland) Act 2013 (asp 12), s. 23(2), sch. para. 1(3)(a) ; S.S.I. 2014/21, art. 2, sch. 1
 
 [[END OF PAGE 79]]
 
@@ -3795,19 +3793,17 @@ Education (Scotland) Act 1980 (c. 44) Part III - Administration and Finance
 
 Document Generated: 2020-08-02
 
-F284
-
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-Words in s. 73A(11) substituted (3.3.2014) by Post-16 Education (Scotland) Act 2013 (asp 12), s. 23(2), sch. para. 1(3)(b) ; S.S.I. 2014/21, art. 2, sch. 1
+F284 Words in s. 73A(11) substituted (3.3.2014) by Post-16 Education (Scotland) Act 2013 (asp 12), s. 23(2), sch. para. 1(3)(b) ; S.S.I. 2014/21, art. 2, sch. 1
 
 ##### F285 73B Regulations relating to student loans.
 
-- This section applies in relation to regulations under paragraph (f) of section 73 of this Act made with respect to loans.
+(1) This section applies in relation to regulations under paragraph (f) of section 73 of this Act made with respect to loans.
 
-- Regulations to which this section applies may make provision requiring such amounts as may be prescribed, payable under loans granted by virtue of such regulations, to be paid directly to institutions providing courses of education who have previously made payments of any prescribed description to persons [ F286 undertaking ] such courses to whom such loans may be granted.
+(2) Regulations to which this section applies may make provision requiring such amounts as may be prescribed, payable under loans granted by virtue of such regulations, to be paid directly to institutions providing courses of education who have previously made payments of any prescribed description to persons [ F286 undertaking ] such courses to whom such loans may be granted.
 
-- Regulations to which this section applies may make such provision as the Secretary of State considers necessary or expedient in connection with the recovery of amounts due from borrowers under loans granted by virtue of such regulations, including provision for-
+(3) Regulations to which this section applies may make such provision as the Secretary of State considers necessary or expedient in connection with the recovery of amounts due from borrowers under loans granted by virtue of such regulations, including provision for-
 
 (a) imposing on employers, or (as the case may be) such other persons or bodies as may be prescribed, requirements with respect to-
 
@@ -3861,23 +3857,23 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 (i) modifying any enactment or instrument (whenever passed or made) so as to provide for the treatment, in connection with any calculation with respect to income (however defined), of amounts due from or payable to such persons under loans granted by virtue of regulations to which this section applies.
 
-- In subsection (3) above-
+(4) In subsection (3) above-
 
 (a) 'employers' means persons who make payments of, or on account of, income assessable to income tax under Schedule E, and
 
 (b) 'the Taxes Acts' has the same meaning as in the M9 Taxes Management Act 1970.
 
-- Regulations to which this section applies may make provision for the payment, in respect of amounts overpaid by borrowers, of interest at such rate, and calculated in such manner, as may be determined by the Secretary of State from time to time.
+(5) Regulations to which this section applies may make provision for the payment, in respect of amounts overpaid by borrowers, of interest at such rate, and calculated in such manner, as may be determined by the Secretary of State from time to time.
 
-- A rate of interest, prescribed by regulations to which this section applies, to be borne by loans shall at no time exceed the rate for the time being specified for the purposes of any exemption conferred by virtue of section 16(5)(b) of the M10 Consumer Credit Act 1974 (exemption of certain consumer credit agreements by reference to the rate of the total charge for credit).
+(6) A rate of interest, prescribed by regulations to which this section applies, to be borne by loans shall at no time exceed the rate for the time being specified for the purposes of any exemption conferred by virtue of section 16(5)(b) of the M10 Consumer Credit Act 1974 (exemption of certain consumer credit agreements by reference to the rate of the total charge for credit).
 
-- Subject to subsection (6) above, regulations to which this section applies shall not prescribe a rate of interest to be borne by loans higher than that which the Secretary of State, having regard to such retail prices index as appears to him to be appropriate, is satisfied is required to maintain the value in real terms of the outstanding amounts of such loans.
+(7) Subject to subsection (6) above, regulations to which this section applies shall not prescribe a rate of interest to be borne by loans higher than that which the Secretary of State, having regard to such retail prices index as appears to him to be appropriate, is satisfied is required to maintain the value in real terms of the outstanding amounts of such loans.
 
-- Regulations to which this section applies may make provision, for the purpose of calculating the interest to be borne by loans, for repayments by borrowers to be treated as having been made or received on such date or dates as may be prescribed.
+(8) Regulations to which this section applies may make provision, for the purpose of calculating the interest to be borne by loans, for repayments by borrowers to be treated as having been made or received on such date or dates as may be prescribed.
 
-- Regulations  to  which  this  section  applies  may  prescribe  requirements  or  other provisions  which  add  to  or  otherwise  modify,  during  the  currency  of  a  loan, requirements or other provisions (whether as to repayment or otherwise) which apply in relation to loans granted by virtue of such regulations.
+(9) Regulations  to  which  this  section  applies  may  prescribe  requirements  or  other provisions  which  add  to  or  otherwise  modify,  during  the  currency  of  a  loan, requirements or other provisions (whether as to repayment or otherwise) which apply in relation to loans granted by virtue of such regulations.
 
-- Regulations to which this section applies may make provision for a borrower not to be liable to make any repayment in respect of a loan-
+(10) Regulations to which this section applies may make provision for a borrower not to be liable to make any repayment in respect of a loan-
 
 (a) during such periods as may be prescribed from time to time, or
 
@@ -3885,7 +3881,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 including provision for the cancellation of any further such liability of the borrower in any such circumstances.
 
-- Regulations to which this section applies may make provision for appeals with respect to  matters  arising  under  such  regulations  (including  provision  for  determining,  or enabling the determination of, the procedure to be followed in connection with such appeals).
+(11) Regulations to which this section applies may make provision for appeals with respect to  matters  arising  under  such  regulations  (including  provision  for  determining,  or enabling the determination of, the procedure to be followed in connection with such appeals).
 
 [[END OF PAGE 81]]
 
@@ -3899,9 +3895,9 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-- Regulations to which this section applies may, in relation to a borrower's discharge under or by virtue of section [ F288 137, 138 or 140 of the Bankruptcy (Scotland) Act 2016 ] , make provision for the treatment of any debt or liability to which a borrower is, or may become, subject in respect of sums received, or which he is entitled to receive, [ F289 before, on or ] after the date of his sequestration.
+(12) Regulations to which this section applies may, in relation to a borrower's discharge under or by virtue of section [ F288 137, 138 or 140 of the Bankruptcy (Scotland) Act 2016 ] , make provision for the treatment of any debt or liability to which a borrower is, or may become, subject in respect of sums received, or which he is entitled to receive, [ F289 before, on or ] after the date of his sequestration.
 
-- Nothing in this section prejudices the generality of section 73(f) of this Act.
+(13) Nothing in this section prejudices the generality of section 73(f) of this Act.
 
 ###### Textual Amendments
 F285 Ss. 73A-73D inserted (16.7.1998) by 1998 c. 30, ss. 29(2) , 46(3) (with s. 42(8)) F286 Word in s. 73B(2) substituted (3.5.2001) by 2001 asp 6, ss. 3(3) , 5(2) F287 Words in s. 73B(3)(g) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by Income Tax (Earnings and Pensions) Act 2003 (c. 1), s. 723, Sch. 6 para. 149(a) (with Sch. 7) F288 Words in s. 73B(12) substituted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 8 (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2 F289 Words in s. 73B(12) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 34(1) , 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(a) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
@@ -3910,7 +3906,7 @@ M9 1970 c. 9. M10 1974 c. 39.
 
 ##### F290 73C Transitional provisions and savings on repeal of Education (Student Loans) Act 1990.
 
-- The  Secretary  of  State  may  by  regulations  make  such  transitional  provision  and savings  in  connection  with  the  repeal  by  the  Teaching  and  Higher  Education  Act 1998 of the M11 Education (Student Loans) Act 1990 ('the 1990 Act') as he considers necessary or expedient including-
+(1) The  Secretary  of  State  may  by  regulations  make  such  transitional  provision  and savings  in  connection  with  the  repeal  by  the  Teaching  and  Higher  Education  Act 1998 of the M11 Education (Student Loans) Act 1990 ('the 1990 Act') as he considers necessary or expedient including-
 
 (a) provision for any function which has been conferred under or by virtue of the 1990 Act to transfer to, or otherwise become exercisable by-
 
@@ -3922,7 +3918,7 @@ to such extent as may be prescribed; and
 
 (b) provision for the transfer to the Secretary of State or any such other person or body of rights or liabilities arising under or by virtue of the 1990 Act.
 
-- Regulations made by virtue of paragraphs (a) and (b) of subsection (1) above may, in particular, provide for-
+(2) Regulations made by virtue of paragraphs (a) and (b) of subsection (1) above may, in particular, provide for-
 
 (a) any such function to be exercisable in pursuance of such regulations in such modified form as may be prescribed;
 
@@ -3950,19 +3946,19 @@ M11 1990 c. 6.
 
 ##### F291 73D Provision as to maximum amounts of certain allowances.
 
-- This section applies to allowances payable by virtue of section 73(f) of this Act in respect of the fees charged in connection with F292 . . ..
+(1) This section applies to allowances payable by virtue of section 73(f) of this Act in respect of the fees charged in connection with F292 . . ..
 
-- The  Secretary  of  State  may  by  order  made  by  statutory  instrument  determine  the maximum amount payable in any academic year of allowances to which this section applies in respect of such courses or classes of courses of higher education as may be so determined and, subject to subsection (3) below, a statutory instrument containing an order under this subsection shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+(2) The  Secretary  of  State  may  by  order  made  by  statutory  instrument  determine  the maximum amount payable in any academic year of allowances to which this section applies in respect of such courses or classes of courses of higher education as may be so determined and, subject to subsection (3) below, a statutory instrument containing an order under this subsection shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-- Where the Secretary of State has determined a maximum amount under subsection (2) above, he shall not make a further determination increasing that maximum amount under that subsection unless-
+(3) Where the Secretary of State has determined a maximum amount under subsection (2) above, he shall not make a further determination increasing that maximum amount under that subsection unless-
 
 (a) he is satisfied that the increase is no greater than is required to maintain the allowance's value in real terms; or
 
 (b) a draft of the order containing the further determination has been laid before, and approved by a resolution of, each House of Parliament.
 
-- For the purposes of subsection (3)(a) above the Secretary of State shall have regard to such retail prices index as appears to him to be appropriate.
+(4) For the purposes of subsection (3)(a) above the Secretary of State shall have regard to such retail prices index as appears to him to be appropriate.
 
-- In  subsection  (2)  above,  'courses  of  higher  education'  means  courses  of  higher education falling within section 38 of the M12 Further and Higher Education (Scotland) Act 1992.
+(5) In  subsection  (2)  above,  'courses  of  higher  education'  means  courses  of  higher education falling within section 38 of the M12 Further and Higher Education (Scotland) Act 1992.
 
 ###### Textual Amendments
 F291 Ss. 73A-73D inserted (16.7.1998) by 1998 c. 30, ss. 29(2) , 46(3) (with s. 42(8)) F292 Words in s. 73D(1) repealed (3.5.2001) by 2001 asp 6, ss. 3(4) , 5(2)
@@ -3971,13 +3967,13 @@ M12 1992 c. 37.
 
 ##### [ F293 73E Supply of information in connection with student loans.
 
-- This section applies to any information which is held-
+(1) This section applies to any information which is held-
 
 (a) by the Commissioners of Inland Revenue, or
 
 (b) by a person providing services to those Commissioners and in connection with the provision of those services.
 
-- Information to which this section applies may be supplied to-
+(2) Information to which this section applies may be supplied to-
 
 (a) the Secretary of State or the Department of Education for Northern Ireland,
 
@@ -3999,17 +3995,17 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 for  the  purpose  of  enabling  or  assisting  the  recipient  to  exercise  any  function  in connection with the operation of the student loans scheme.
 
-- Information supplied under subsection (2) above shall not be supplied by the recipient to any other person or body unless it is supplied-
+(3) Information supplied under subsection (2) above shall not be supplied by the recipient to any other person or body unless it is supplied-
 
 (a) to a person or body to whom it could have been supplied under that subsection, or
 
 (b) for the purposes of any civil or criminal proceedings arising out of the student loans scheme.
 
-- Subsections (2) and (3) above extend only to the supply of information by or under the authority of the Commissioners of Inland Revenue.
+(4) Subsections (2) and (3) above extend only to the supply of information by or under the authority of the Commissioners of Inland Revenue.
 
-- This section does not limit the circumstances in which information may be supplied apart from this section.
+(5) This section does not limit the circumstances in which information may be supplied apart from this section.
 
-- In this section-
+(6) In this section-
 
 (a) ' the delegation of functions provisions ' means section 73A(3) of this Act or section 23(4) of the Teaching and Higher Education Act 1998;
 
@@ -4029,9 +4025,9 @@ F293 S. 73E inserted (16.7.1998) by 1998 c. 30, ss. 30 , 46(3)(with s. 42(8))
 
 ##### 74 Payment of grants to be subject to conditions.
 
-- The Secretary of State may by regulations make provision that any payment which he is required or authorised to make by or under this Act, except section 76 of this Act, shall be subject to such conditions as may be prescribed in [ F294 or determined by him under ] the regulations, and that education authorities and other persons to whom such payments have been made shall comply with such requirements as may be specified in [ F295 or determined by him under ] the regulations.
+(1) The Secretary of State may by regulations make provision that any payment which he is required or authorised to make by or under this Act, except section 76 of this Act, shall be subject to such conditions as may be prescribed in [ F294 or determined by him under ] the regulations, and that education authorities and other persons to whom such payments have been made shall comply with such requirements as may be specified in [ F295 or determined by him under ] the regulations.
 
-- Where the Secretary of State is satisfied that the persons to whom any grant is payable under this Act are, by reason of the provisions of any trust deed or other instrument, unable to fulfil any condition or comply with any requirement imposed under this section, he may, after consultation with them, by order make such modifications of the said provisions as may be necessary for the purpose of enabling the said persons to fulfil that condition or comply with that requirement; and any such trust deed or other instrument shall, during such period as may be specified in the order, have effect subject to any modifications so made.
+(2) Where the Secretary of State is satisfied that the persons to whom any grant is payable under this Act are, by reason of the provisions of any trust deed or other instrument, unable to fulfil any condition or comply with any requirement imposed under this section, he may, after consultation with them, by order make such modifications of the said provisions as may be necessary for the purpose of enabling the said persons to fulfil that condition or comply with that requirement; and any such trust deed or other instrument shall, during such period as may be specified in the order, have effect subject to any modifications so made.
 
 [[END OF PAGE 84]]
 
@@ -4059,7 +4055,7 @@ C32 S. 75 excluded (29.4.1993) by S.I. 1993/974, reg. 4(7)
 
 ##### [ F296 75A Assisted places at grant-aided and independent schools.
 
-[ F297 The Secretary of State shall, subject to subsections (1A) and (1B) below, ] operate a scheme whereby-
+(1) [ F297 The Secretary of State shall, subject to subsections (1A) and (1B) below, ] operate a scheme whereby-
 
 (a) participating schools remit fees that would otherwise be chargeable in respect of pupils admitted to assisted places under the scheme; and
 
@@ -4095,13 +4091,13 @@ F299
 
 [ (2) In this section references to a participating school are references to any grant-aided or independent school providing secondary education which the Secretary of State has determined, prior to the coming into force of this subsection, to be a participating school for the purposes of the scheme. ]
 
-- A determination under subsection (2) above-
+(3) A determination under subsection (2) above-
 
 (a) shall state the maximum annual amount allocated by the Secretary of State to the school under the scheme including the maximum annual amount so allocated for the purposes of section 75B of this Act; and
 
 (b) may contain such conditions as the Secretary of State thinks fit in addition to those prescribed under subsection (9) below.
 
-F300 [ The Secretary of State may alter-
+F300 [ (4) The Secretary of State may alter-
 
 (a) the maximum annual amount referred to in subsection (3)(a) above; or
 
@@ -4109,13 +4105,13 @@ F300 [ The Secretary of State may alter-
 
 by written notification to the school concerned. ]
 
-- A participating school shall comply with any conditions contained in a determination under subsection (2) above and with any condition or obligation prescribed under subsection (9) below.
+(5) A participating school shall comply with any conditions contained in a determination under subsection (2) above and with any condition or obligation prescribed under subsection (9) below.
 
 F301
 
 (6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- The fees in relation to which the scheme is to have effect shall be-
+(7) The fees in relation to which the scheme is to have effect shall be-
 
 (a) tuition and other fees the payment of which is a condition of attendance at a participating school but excluding-
 
@@ -4125,9 +4121,9 @@ F301
 
 (b) entrance fees for public examinations paid by a participating school in respect of candidates from the school.
 
-- If the Secretary of State is of the opinion that any fee which falls to be remitted in whole or in part under a scheme established and operated under this section is excessive, he may substitute for such fee such other amount as he considers appropriate.
+(8) If the Secretary of State is of the opinion that any fee which falls to be remitted in whole or in part under a scheme established and operated under this section is excessive, he may substitute for such fee such other amount as he considers appropriate.
 
-- The Secretary of State shall by regulations prescribe-
+(9) The Secretary of State shall by regulations prescribe-
 
 F302
 
@@ -4149,9 +4145,7 @@ F302
 
 (f) such other matters as appear to him to be requisite for the purposes of the scheme.
 
-F304 [ Regulations under this section may-
-
-(9A)
+F304 [ (9A) Regulations under this section may-
 
 (a) provide for the discharge of any future liabilities of the Secretary of State to make reimbursements of fees by way of lump sum payments; F305 . . .
 
@@ -4185,17 +4179,17 @@ to  authorise the new school or, as the case may be, any other participating sch
 
 (9C) Regulations made under this section or section 75B of this Act may make different provision for different cases, circumstances or areas and may contain such incidental, supplemental, saving or transitional provisions as the Secretary of State thinks fit.
 
-- Regulations under subsection (9) above may authorise the Secretary of State to make provision for any purpose specified in the regulations.
+(10) Regulations under subsection (9) above may authorise the Secretary of State to make provision for any purpose specified in the regulations.
 
-- Before making regulations under subsection (9) above the Secretary of State shall consult such bodies as appear to him to be appropriate and to be representative of participating schools.
+(11) Before making regulations under subsection (9) above the Secretary of State shall consult such bodies as appear to him to be appropriate and to be representative of participating schools.
 
-- Regulations made under subsection (9)(c) above shall be reviewed by the Secretary of State in consultation with such bodies as appear to him to be appropriate and to be representative of participating schools-
+(12) Regulations made under subsection (9)(c) above shall be reviewed by the Secretary of State in consultation with such bodies as appear to him to be appropriate and to be representative of participating schools-
 
 (a) not later than two years after the date on which the first such regulations are made; and
 
 (b) thereafter at intervals not exceeding two years.
 
-- Except where the context otherwise requires, references in this section and section 75B of this Act to a school include references to the proprietors and managers of the school; and references in this section to an independent school are references to an independent school which is-
+(13) Except where the context otherwise requires, references in this section and section 75B of this Act to a school include references to the proprietors and managers of the school; and references in this section to an independent school are references to an independent school which is-
 
 (a) a registered school; and
 
@@ -4220,15 +4214,15 @@ F297 Words in s. 75A(1) substituted (31.7.1997) by 1997 c. 59, s. 5(1)(a) (with 
 
 ##### 75B Incidental expenses of and provision for pupils holding assisted places.
 
-- The Secretary of State may by regulations require or enable or make provision for requiring or enabling any school participating in the scheme referred to in section 75A of  this  Act  to  make  grants  in  respect  of  such  expenses,  including  such  travelling expenses, and to remit such charges, as may be specified in the regulations and to make such provision of meals or other refreshment or of facilities for the consumption of meals or other refreshment and such provision of clothing as the school making the provision considers appropriate, being expenses, charges or provision in respect of matters incidental to or arising out of the attendance at the school of pupils holding assisted places under the scheme.
+(1) The Secretary of State may by regulations require or enable or make provision for requiring or enabling any school participating in the scheme referred to in section 75A of  this  Act  to  make  grants  in  respect  of  such  expenses,  including  such  travelling expenses, and to remit such charges, as may be specified in the regulations and to make such provision of meals or other refreshment or of facilities for the consumption of meals or other refreshment and such provision of clothing as the school making the provision considers appropriate, being expenses, charges or provision in respect of matters incidental to or arising out of the attendance at the school of pupils holding assisted places under the scheme.
 
-- Regulations  made  under  this  section  may  require  or  enable  or  make  provision for  requiring  or  enabling  any  school  providing  meals  or  other  refreshment  under subsection (1) above to make such charges as it thinks fit for any such meal or other refreshment except where it is provided by virtue of subsection (4) below.
+(2) Regulations  made  under  this  section  may  require  or  enable  or  make  provision for  requiring  or  enabling  any  school  providing  meals  or  other  refreshment  under subsection (1) above to make such charges as it thinks fit for any such meal or other refreshment except where it is provided by virtue of subsection (4) below.
 
-- Regulations under this section shall provide that, within the maximum amount stated under section 75A(3) of this Act, any amounts granted or remitted by a school and expenditure incurred by them by or under the regulations shall be reimbursed to the school by the Secretary of State.
+(3) Regulations under this section shall provide that, within the maximum amount stated under section 75A(3) of this Act, any amounts granted or remitted by a school and expenditure incurred by them by or under the regulations shall be reimbursed to the school by the Secretary of State.
 
-- The  Secretary  of  State  shall  exercise  his  power  to  make  regulations  under  this section so as to ensure that, in relation to any pupil whose parents are in receipt of supplementary benefit or family income supplement, such provision is made for that pupil in the middle of the day as appears to the school to be requisite.
+(4) The  Secretary  of  State  shall  exercise  his  power  to  make  regulations  under  this section so as to ensure that, in relation to any pupil whose parents are in receipt of supplementary benefit or family income supplement, such provision is made for that pupil in the middle of the day as appears to the school to be requisite.
 
-- Regulations under this section may in particular prescribe-
+(5) Regulations under this section may in particular prescribe-
 
 (a) the conditions subject to which, the extent to which, and the arrangements in accordance with which, grants and remissions are to be made and meals, other refreshment, facilities for the consumption thereof and clothing are to be provided;
 
@@ -4248,19 +4242,17 @@ Document Generated: 2020-08-02
 
 89
 
-##### F307 77
-
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-- Regulations under this section may authorise the Secretary of State to make provision for any purpose specified in the regulations.
+(6) Regulations under this section may authorise the Secretary of State to make provision for any purpose specified in the regulations.
 
 ##### 76 Industrial scholarships.
 
-- The Secretary of State may award industrial scholarships or make payments to any other person in respect of the award of such scholarships by that person.
+(1) The Secretary of State may award industrial scholarships or make payments to any other person in respect of the award of such scholarships by that person.
 
-- In  this  section  'industrial  scholarships'  means  scholarships  (however  described) tenable by persons undertaking full-time courses of higher education provided by a university, college or other institution in the United Kingdom, being courses which appears to the Secretary of State or,  as  the  case  may  be,  the  person  awarding  the scholarships to be relevant to a career in industry.
+(2) In  this  section  'industrial  scholarships'  means  scholarships  (however  described) tenable by persons undertaking full-time courses of higher education provided by a university, college or other institution in the United Kingdom, being courses which appears to the Secretary of State or,  as  the  case  may  be,  the  person  awarding  the scholarships to be relevant to a career in industry.
 
-- In subsection (2) above the reference to a full-time course includes a reference to a course consisting of alternate periods of-
+(3) In subsection (2) above the reference to a full-time course includes a reference to a course consisting of alternate periods of-
 
 (a) full-time study in the university, college or institution in question; and
 
@@ -4269,6 +4261,8 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 and the reference in that subsection to a course provided by a university, college or institution in the United Kingdom includes a reference to a course provided by such a university, college or institution in conjunction with a university, college or other institution in another country.
 
 #### Grant-aided colleges
+
+##### F307 77
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -4304,9 +4298,9 @@ Every education authority shall be at liberty to accept any bequest or gift of p
 
 ##### 80 Funds for behalf of public schools etc., to be transferred to education authorities.
 
-- Where property or money has been or shall be vested in any persons as trustees for behoof of a public school or other educational establishment under the management of an education authority, or for the promotion of any branch of education in such school or educational establishment, or to increase the income of any teacher therein, the free income of such property or money shall be accounted for and paid to the education authority, and shall be applied and administered by the education authority according to the trusts attaching thereto.
+(1) Where property or money has been or shall be vested in any persons as trustees for behoof of a public school or other educational establishment under the management of an education authority, or for the promotion of any branch of education in such school or educational establishment, or to increase the income of any teacher therein, the free income of such property or money shall be accounted for and paid to the education authority, and shall be applied and administered by the education authority according to the trusts attaching thereto.
 
-- It shall be lawful for the education authority, with the approval of the Secretary of State, to vary or depart from the said trusts, with a view to increasing the efficiency of the school or educational establishment by raising the standard of education therein or by other means.
+(2) It shall be lawful for the education authority, with the approval of the Secretary of State, to vary or depart from the said trusts, with a view to increasing the efficiency of the school or educational establishment by raising the standard of education therein or by other means.
 
 ##### 81 Trust funds to be kept separate.
 
@@ -4322,7 +4316,7 @@ Every registrar of births, deaths, and marriages shall make to an education auth
 
 ##### 84 Certificates of birth.
 
-- Where the age of any person is required to be ascertained or proved for the purposes of this Act or of any enactment relating to the employment of children or young persons, the registrar of births, deaths and marriages having the custody of the register of births containing the entry relating to the birth of that person shall, upon being presented by any person with a written requisition in such form and containing such particulars as
+(1) Where the age of any person is required to be ascertained or proved for the purposes of this Act or of any enactment relating to the employment of children or young persons, the registrar of births, deaths and marriages having the custody of the register of births containing the entry relating to the birth of that person shall, upon being presented by any person with a written requisition in such form and containing such particulars as
 
 [[END OF PAGE 90]]
 
@@ -4340,7 +4334,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 may be prescribed and upon payment of a fee of [ F309 £9.00 ] , supply that person with a copy of the entry certified under his hand.
 
-- Every registrar shall, upon being requested so to do, supply free of charge a form of requisition for the purposes of this section.
+(2) Every registrar shall, upon being requested so to do, supply free of charge a form of requisition for the purposes of this section.
 
 ###### Textual Amendments
 
@@ -4426,9 +4420,9 @@ F315 S. 87A repealed (5.2.2007 for specified purposes, 1.8.2007 in so far as not
 
 F316 S. 87B repealed (5.2.2007 for specified purposes, 1.8.2007 in so far as not already in force) by Scottish Schools (Parental Involvement) Act 2006 (asp 8), s. 24(2), sch. ; S.S.I. 2007/31, art. 2(a)(b), schs. 1, 2
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
 ##### 88
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 F317
 
@@ -4458,13 +4452,13 @@ F318 S. 89 repealed (1.10.2006) by Employment Equality (Age) Regulations 2006 (S
 
 ##### 90 Employment of teachers.
 
-- The Secretary of State may in regulations under section 2 or 74(1) of this Act prescribe that only registered teachers shall be employed or continue to be employed as teachers by education authorities [ F319 , or managers of grant-aided schools, ] in the educational establishments to which the regulations apply, subject to such exceptions as may from time to time be so prescribed.
+(1) The Secretary of State may in regulations under section 2 or 74(1) of this Act prescribe that only registered teachers shall be employed or continue to be employed as teachers by education authorities [ F319 , or managers of grant-aided schools, ] in the educational establishments to which the regulations apply, subject to such exceptions as may from time to time be so prescribed.
 
-- It  is  hereby  declared  that  the  power  of  the  Secretary  of  State  to  make  regulations under section 1(2) of the M13 Education (Scotland) Act 1962, as originally enacted, and  as  re-enacted  as  section  2  by  the M14 Education  (Scotland)  Act  1969  shall  be deemed always to have included power on and after 1st November 1965 to prescribe in such regulations that only registered teachers shall be employed or continue to be employed as teachers by education authorities in the educational establishments to which the regulations apply, subject to such exceptions as may from time to time be so prescribed.
+(2) It  is  hereby  declared  that  the  power  of  the  Secretary  of  State  to  make  regulations under section 1(2) of the M13 Education (Scotland) Act 1962, as originally enacted, and  as  re-enacted  as  section  2  by  the M14 Education  (Scotland)  Act  1969  shall  be deemed always to have included power on and after 1st November 1965 to prescribe in such regulations that only registered teachers shall be employed or continue to be employed as teachers by education authorities in the educational establishments to which the regulations apply, subject to such exceptions as may from time to time be so prescribed.
 
-- For  the  avoidance  of  doubt,  it  is  hereby  declared  that  the  power  of  the  Secretary of  State  to  make  regulations  under  section  76(1)  of  the  said  Act  of  1962  shall  be deemed always to have included power on and after 1st November 1965 to prescribe in such regulations that only registered teachers shall be employed or continue to be employed as teachers by managers of educational establishments in the educational establishments to which the regulations apply, subject to such exceptions as may from time to time be so prescribed.
+(3) For  the  avoidance  of  doubt,  it  is  hereby  declared  that  the  power  of  the  Secretary of  State  to  make  regulations  under  section  76(1)  of  the  said  Act  of  1962  shall  be deemed always to have included power on and after 1st November 1965 to prescribe in such regulations that only registered teachers shall be employed or continue to be employed as teachers by managers of educational establishments in the educational establishments to which the regulations apply, subject to such exceptions as may from time to time be so prescribed.
 
-- For  the  avoidance  of  doubt,  it  is  hereby  declared  that  in  the  Schools  (Scotland) Code  1956,  as  amended  by  the  Teachers  (Education,  Training  and  Registration) (Scotland)  Regulations  1967,  regulation  4(2)  shall  be  construed  as  having  always applied to teachers in employment on 1st April 1968, as well as to teachers taken into employment after that date.
+(4) For  the  avoidance  of  doubt,  it  is  hereby  declared  that  in  the  Schools  (Scotland) Code  1956,  as  amended  by  the  Teachers  (Education,  Training  and  Registration) (Scotland)  Regulations  1967,  regulation  4(2)  shall  be  construed  as  having  always applied to teachers in employment on 1st April 1968, as well as to teachers taken into employment after that date.
 
 ###### Textual Amendments
 F319 Words in s. 90(1) inserted (1.1.2017) by Education (Scotland) Act 2016 (asp 8), ss. 27 , 33(2); S.S.I. 2016/386, reg. 2, sch.
@@ -4489,11 +4483,11 @@ M13 1962 c. 47. M14 1969 c. 49.
 
 ##### [ F320 90A Head teachers: education and training standards
 
-- The Scottish Ministers may by regulations under section 2 or 74(1) prescribe that only persons falling within subsection (2) may be appointed by education authorities or managers of grant-aided schools as head teachers of schools.
+(1) The Scottish Ministers may by regulations under section 2 or 74(1) prescribe that only persons falling within subsection (2) may be appointed by education authorities or managers of grant-aided schools as head teachers of schools.
 
-- A person falls within this subsection if the person has achieved such standards of education and training as may be specified in regulations mentioned in subsection (1).
+(2) A person falls within this subsection if the person has achieved such standards of education and training as may be specified in regulations mentioned in subsection (1).
 
-- Regulations made by virtue of subsections (1) and (2) may-
+(3) Regulations made by virtue of subsections (1) and (2) may-
 
 (a) provide for exemptions or exceptions,
 
@@ -4543,7 +4537,7 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-##### 94- 96. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F324
+##### 94—96. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F324
 
 ###### Textual Amendments
 
@@ -4609,7 +4603,7 @@ F329 Ss. 91-97D repealed (23.3.2001) by 2000 asp 6, s. 55(1) ; S.S.I. 2001/102, 
 
 ##### 98 Registration of independent schools.
 
-- The  Secretary  of  State  shall  appoint  one  of  his  officers  to  be  the  Registrar  of Independent Schools in Scotland (hereinafter in this Part of this Act referred to as 'the Registrar'), and it shall be the duty of the Registrar to keep a register of independent schools, which shall be open to public inspection at all reasonable times, F330 ...
+(1) The  Secretary  of  State  shall  appoint  one  of  his  officers  to  be  the  Registrar  of Independent Schools in Scotland (hereinafter in this Part of this Act referred to as 'the Registrar'), and it shall be the duty of the Registrar to keep a register of independent schools, which shall be open to public inspection at all reasonable times, F330 ...
 
 F330
 
@@ -4673,11 +4667,11 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 - F333 S. 98(3)(c) repealed (31.12.2005) by School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004 (asp 12), s. 9(2), sch. 2 ; S.S.I. 2005/10, art. 3(d) (with art. 3(2))
 
-##### [ F334 98AApplication for registration of independent school
+##### [ F334 98A Application for registration of independent school
 
-- Any person proposing to carry on an independent school shall apply to the Scottish Ministers for registration of that school.
+(1) Any person proposing to carry on an independent school shall apply to the Scottish Ministers for registration of that school.
 
-- An application for registration shall-
+(2) An application for registration shall-
 
 (a) be in such form; and
 
@@ -4685,7 +4679,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 as the Scottish Ministers may, by regulations, prescribe.
 
-- The Scottish Ministers may, subject to subsection (4) below, grant an application for registration if they are satisfied that-
+(3) The Scottish Ministers may, subject to subsection (4) below, grant an application for registration if they are satisfied that-
 
 (a) efficient and suitable instruction will be provided at the school, having regard to the ages and sex of the pupils who shall be attending the school;
 
@@ -4701,9 +4695,9 @@ as the Scottish Ministers may, by regulations, prescribe.
 
 (e) subject to subsection (5)(c) below, the accommodation to be provided at the school premises is adequate and suitable, having regard to the number, ages and sex of the pupils who shall be attending the school.
 
-- The Scottish Ministers may, on granting an application for registration, impose such conditions on the carrying on of the registered school as they think fit.
+(4) The Scottish Ministers may, on granting an application for registration, impose such conditions on the carrying on of the registered school as they think fit.
 
-- The Scottish Ministers shall not be satisfied that-
+(5) The Scottish Ministers shall not be satisfied that-
 
 (a) the proprietor of an independent school is a proper person to be the proprietor of such a school or, as the case may be, that a proposed teacher in such a school is a proper person to be a teacher in any school if that proprietor or, as the case may be, proposed teacher-
 
@@ -4735,7 +4729,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 for which it is proposed it be used.
 
-- In this Part of this Act-
+(6) In this Part of this Act-
 
 [ F336 'barred  from  regulated  work  with  children'  shall  be  construed  in accordance with the Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14); ]
 
@@ -4761,7 +4755,7 @@ for which it is proposed it be used.
 
 ##### 98B Refusal of application for registration: disqualifications
 
-- This section applies where the Scottish Ministers refuse an application for registration on the ground that they are not satisfied that-
+(1) This section applies where the Scottish Ministers refuse an application for registration on the ground that they are not satisfied that-
 
 (a) the proposed school premises are suitable for use as a school;
 
@@ -4783,17 +4777,21 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-(d) a proposed teacher in the school is a proper person to be a teacher in any
+(d) a proposed teacher in the school is a proper person to be a teacher in any school.
 
-- Where  the  Scottish  Ministers  refuse  an  application  for  registration  on  the  ground mentioned  in  subsection  (1)(a)  above  they  may  make  an  order  disqualifying  the proposed school premises or any part of them from being used as a school.
+(2) Where  the  Scottish  Ministers  refuse  an  application  for  registration  on  the  ground mentioned  in  subsection  (1)(a)  above  they  may  make  an  order  disqualifying  the proposed school premises or any part of them from being used as a school.
 
-- Where  the  Scottish  Ministers  refuse  an  application  for  registration  on  the  ground mentioned  in  subsection  (1)(b)  above  they  may  make  an  order  disqualifying  the accommodation from being used as such or from being used as such for pupils-
+(3) Where  the  Scottish  Ministers  refuse  an  application  for  registration  on  the  ground mentioned  in  subsection  (1)(b)  above  they  may  make  an  order  disqualifying  the accommodation from being used as such or from being used as such for pupils-
 
-- school. (a) exceeding such number; or (b) of such age or sex, as they may specify.
+(a) exceeding such number; or
 
-- Where  the  Scottish  Ministers  refuse  an  application  for  registration  on  the  ground mentioned  in  subsection  (1)(c)  above  they  may  make  an  order  disqualifying  the proprietor from being the proprietor of an independent school.
+(b) of such age or sex,
 
-- Where  the  Scottish  Ministers  refuse  an  application  for  registration  on  the  ground mentioned  in  subsection  (1)(d)  above  they  may  make  an  order  disqualifying  the proposed teacher from being a teacher in any school.
+as they may specify.
+
+(4) Where  the  Scottish  Ministers  refuse  an  application  for  registration  on  the  ground mentioned  in  subsection  (1)(c)  above  they  may  make  an  order  disqualifying  the proprietor from being the proprietor of an independent school.
+
+(5) Where  the  Scottish  Ministers  refuse  an  application  for  registration  on  the  ground mentioned  in  subsection  (1)(d)  above  they  may  make  an  order  disqualifying  the proposed teacher from being a teacher in any school.
 
 ###### Textual Amendments
 
@@ -4801,9 +4799,9 @@ F334 Ss. 98A-98D substituted (31.12.2005) for s. 98A by School Education (Minist
 
 ##### 98C Registration: notification and appeals
 
-- The Scottish Ministers shall give notice to the persons mentioned in subsection (2) below of their decision on an application for registration of an independent school.
+(1) The Scottish Ministers shall give notice to the persons mentioned in subsection (2) below of their decision on an application for registration of an independent school.
 
-- The persons referred to in subsection (1) above are-
+(2) The persons referred to in subsection (1) above are-
 
 (a) the proprietor;
 
@@ -4813,9 +4811,9 @@ F334 Ss. 98A-98D substituted (31.12.2005) for s. 98A by School Education (Minist
 
 (d) any other person or body the Scottish Ministers think fit.
 
-- Where, under section 98A(3) of this Act, the Scottish Ministers grant an application for registration of an independent school, they shall direct the Registrar to register that school.
+(3) Where, under section 98A(3) of this Act, the Scottish Ministers grant an application for registration of an independent school, they shall direct the Registrar to register that school.
 
-- Where an order is made under section 98B(2), (3) or (4) of this Act, the Scottish Ministers shall, as soon as reasonably practicable after making the order, give notice to-
+(4) Where an order is made under section 98B(2), (3) or (4) of this Act, the Scottish Ministers shall, as soon as reasonably practicable after making the order, give notice to-
 
 (a) the proprietor;
 
@@ -4837,21 +4835,25 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-- Where an order is made under section 98B(5) of this Act, the Scottish Ministers shall, as soon as reasonably practicable after making the order, give notice to-
+(5) Where an order is made under section 98B(5) of this Act, the Scottish Ministers shall, as soon as reasonably practicable after making the order, give notice to-
 
 (a) the proposed teacher to whom the order relates;
 
-- The proprietor of an independent school may, before the expiry of the period of 28 days beginning with the day on which that proprietor is given notice under subsection (1) above, appeal to the sheriff principal-
+(b) the Registrar; and
 
-(a) where the application for registration of the school is, under subsection (3) of
+(c) any other person or body the Scottish Ministers think fit,
 
-(b) the Registrar; and (c) any other person or body the Scottish Ministers think fit, of the order. section 98A of this Act, refused, against that refusal; or
+of the order.
+
+(6) The proprietor of an independent school may, before the expiry of the period of 28 days beginning with the day on which that proprietor is given notice under subsection (1) above, appeal to the sheriff principal-
+
+(a) where the application for registration of the school is, under subsection (3) of section 98A of this Act, refused, against that refusal; or
 
 (b) where such application is, under that subsection, granted and conditions are, under subsection (4) of that section, imposed on the carrying on of the school, against the imposition of any such condition.
 
-- Where an order is made under section 98B(2), (3) or (4) of this Act, the proprietor may, before the expiry of the period of 28 days beginning with the day on which that proprietor is given notice under subsection (4)(a) above, appeal to the sheriff principal against the order.
+(7) Where an order is made under section 98B(2), (3) or (4) of this Act, the proprietor may, before the expiry of the period of 28 days beginning with the day on which that proprietor is given notice under subsection (4)(a) above, appeal to the sheriff principal against the order.
 
-- Where an order is made under section 98B(5) of this Act, the proposed teacher may, before  the  expiry  of  the  period  of  28  days  beginning  with  the  day  on  which  that proposed teacher is given notice under subsection (5)(a) above, appeal to the sheriff principal against the order.
+(8) Where an order is made under section 98B(5) of this Act, the proposed teacher may, before  the  expiry  of  the  period  of  28  days  beginning  with  the  day  on  which  that proposed teacher is given notice under subsection (5)(a) above, appeal to the sheriff principal against the order.
 
 ###### Textual Amendments
 
@@ -4859,17 +4861,21 @@ F334 Ss. 98A-98D substituted (31.12.2005) for s. 98A by School Education (Minist
 
 ##### 98D Removal from register where school no longer being carried on
 
-- Where the Scottish Ministers are satisfied that a registered school is no longer being carried on as such, they may make an order directing the Registrar to remove the school from the register.
+(1) Where the Scottish Ministers are satisfied that a registered school is no longer being carried on as such, they may make an order directing the Registrar to remove the school from the register.
 
-- Where an order is made under subsection (1) above, the Scottish Ministers shall, as soon as reasonably practicable after so doing, give notice to-
+(2) Where an order is made under subsection (1) above, the Scottish Ministers shall, as soon as reasonably practicable after so doing, give notice to-
+
+(a) the proprietor;
+
+(b) the Registrar; and
 
 (c) any other person or body the Scottish Ministers think fit,
 
-- The Registrar may, on the application of the proprietor of a registered school, remove
+of the order.
 
-- Where, under subsection (3) above, the Registrar removes a school from the register,
+(3) The Registrar may, on the application of the proprietor of a registered school, remove that school from the register.
 
-(a) the proprietor; (b) the Registrar; and of the order. that school from the register. the Registrar shall give notice to-
+(4) Where, under subsection (3) above, the Registrar removes a school from the register, the Registrar shall give notice to-
 
 (a) the proprietor; and
 
@@ -4895,21 +4901,21 @@ F334 Ss. 98A-98D substituted (31.12.2005) for s. 98A by School Education (Minist
 
 ##### [ F337 98E Imposition, variation and revocation of conditions
 
-- The  Scottish  Ministers  may,  if  they  are  satisfied  that  it  is  necessary  to  prevent  a registered school from becoming objectionable upon any of the grounds mentioned in section 99(1A) of this Act-
+(1) The Scottish Ministers may, if they are satisfied that it is necessary to prevent a registered school from becoming objectionable upon any of the grounds mentioned in section 99(1A) of this Act—
 
 (a) impose any condition on the carrying on of that registered school; or
 
 (b) vary or revoke any such condition imposed by virtue of this Part of this Act, as they think fit.
 
-- The Scottish Ministers may, on the application of the proprietor of a registered school, vary or revoke any condition imposed by virtue of this Part of this Act on the carrying on of that school.
+(2) The Scottish Ministers may, on the application of the proprietor of a registered school, vary or revoke any condition imposed by virtue of this Part of this Act on the carrying on of that school.
 
-- An application such as is mentioned in subsection (2) above shall-
+(3) An application such as is mentioned in subsection (2) above shall—
 
 (a) be in writing; and
 
 (b) specify  the  variation  or  revocation  sought  together  with  the  reasons  for seeking it.
 
-- Where, under this section, the Scottish Ministers impose, vary, revoke or refuse to vary or revoke a condition on the carrying on of a registered school, they shall, as soon as reasonably practicable after so doing, give notice to-
+(4) Where, under this section, the Scottish Ministers impose, vary, revoke or refuse to vary or revoke a condition on the carrying on of a registered school, they shall, as soon as reasonably practicable after so doing, give notice to—
 
 (a) the proprietor;
 
@@ -4919,7 +4925,7 @@ F334 Ss. 98A-98D substituted (31.12.2005) for s. 98A by School Education (Minist
 
 of that imposition, variation, revocation or, as the case may be, refusal.
 
-- The proprietor of a registered school may, before the expiry of the period of 28 days beginning with the day on which that proprietor is given notice under subsection (4) (a) above, appeal to the sheriff principal against the imposition, variation or, as the case may be, refusal to vary or revoke. ]
+(5) The proprietor of a registered school may, before the expiry of the period of 28 days beginning with the day on which that proprietor is given notice under subsection (4)(a) above, appeal to the sheriff principal against the imposition, variation or, as the case may be, refusal to vary or revoke.]
 
 ###### Textual Amendments
 
@@ -4927,7 +4933,7 @@ F337 S. 98E inserted (31.12.2005) by School Education (Ministerial Powers and In
 
 ##### 99 Complaints.
 
-- If at any time the Secretary of State is satisfied that any registered F338 ...  school is objectionable upon all or any of the [ F339 grounds mentioned in subsection (1A) below,
+(1) If at any time the Secretary of State is satisfied that any registered F338... school is objectionable upon all or any of the [ F339 grounds mentioned in subsection (1A) below,
 
 [[END OF PAGE 101]]
 
@@ -4943,9 +4949,35 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-the Scottish Ministers shall, subject to subsection (1B) below, serve on the proprietor of the school a notice of complaint.(1A) The grounds referred to in subsection (1) above are ] (a) that  efficient  and  suitable  instruction  is  not  being  provided  at  the  school, having regard to the ages and sex of the pupils attending thereat; [ F340 (aa) that the welfare of a pupil attending the school is not adequately safeguarded and promoted there; ] (b) that the school premises or any parts thereof are unsuitable for a school; (c) that  the  accommodation  provided  at  the  school  premises  is  inadequate  or unsuitable, having regard to the number, ages and sex of the pupils attending the school; [ F341 (d) that a condition imposed by virtue of this Part of this Act on the carrying on of the school is not being or has not been complied with; (e) that  any  part  of  the  school  premises  is,  by  virtue  of  this  Part  of  this  Act, disqualified from being used as a school; (f) that any accommodation provided at the school premises is, by virtue of this Part of this Act, disqualified from being used as such or is being used as such for pupils of(i) such number; or (ii) such age or sex, from which use it is so disqualified; (g) that the proprietor of the school is(i) by virtue of this Part of this Act, disqualified from being the proprietor of an independent school; (ii) [ F342 barred from regulated work with children ] ; (iii) a prescribed person; or (iv) otherwise not a proper person to be the proprietor of an independent school; (h) that a teacher in the school is(i) by virtue of this Part of this Act, disqualified from being a teacher in any school; (ii) [ F343 barred from regulated work with children ] ; (iii) a prescribed person; or (iv) otherwise not a proper person to be a teacher in any school; or (j) that the proprietor of the school has not, in relation to particulars prescribed under paragraph (a) of section 98(3) of this Act(i) furnished information required by virtue of that paragraph; or (ii) notified, by virtue of paragraph (b) of that subsection, a change in such particulars, to the Registrar. (1B) The  Scottish  Ministers  need  not  serve  a  notice  of  complaint  under  subsection  (1) above  where  they  are  satisfied  that  they  urgently  require  to  make  an  order  under section 100(2) of this Act. (1C) A notice of complaint is a notice(a) stating the ground of the complaint together with the full particulars of the
-
-- matter complained of; and
+the Scottish Ministers shall, subject to subsection (1B) below, serve on the proprietor of the school a notice of complaint.—
+(1A) The grounds referred to in subsection (1) above are]
+(a) that efficient and suitable instruction is not being provided at the school, having regard to the ages and sex of the pupils attending thereat;
+[ F340 (aa) that the welfare of a pupil attending the school is not adequately safeguarded and promoted there;]
+(b) that the school premises or any parts thereof are unsuitable for a school;
+(c) that the accommodation provided at the school premises is inadequate or unsuitable, having regard to the number, ages and sex of the pupils attending the school;
+[ F341 (d) that a condition imposed by virtue of this Part of this Act on the carrying on of the school is not being or has not been complied with;
+(e) that any part of the school premises is, by virtue of this Part of this Act, disqualified from being used as a school;
+(f) that any accommodation provided at the school premises is, by virtue of this Part of this Act, disqualified from being used as such or is being used as such for pupils of—
+(i) such number; or
+(ii) such age or sex,
+from which use it is so disqualified;
+(g) that the proprietor of the school is—
+(i) by virtue of this Part of this Act, disqualified from being the proprietor of an independent school;
+(ii) [ F342 barred from regulated work with children];
+(iii) a prescribed person; or
+(iv) otherwise not a proper person to be the proprietor of an independent school;
+(h) that a teacher in the school is—
+(i) by virtue of this Part of this Act, disqualified from being a teacher in any school;
+(ii) [ F343 barred from regulated work with children];
+(iii) a prescribed person; or
+(iv) otherwise not a proper person to be a teacher in any school; or
+(j) that the proprietor of the school has not, in relation to particulars prescribed under paragraph (a) of section 98(3) of this Act—
+(i) furnished information required by virtue of that paragraph; or
+(ii) notified, by virtue of paragraph (b) of that subsection, a change in such particulars,
+to the Registrar.
+(1B) The Scottish Ministers need not serve a notice of complaint under subsection (1) above where they are satisfied that they urgently require to make an order under section 100(2) of this Act.
+(1C) A notice of complaint is a notice—
+(a) stating the ground of the complaint together with the full particulars of the matter complained of; and
 
 [[END OF PAGE 102]]
 
@@ -4967,7 +4999,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 (ii) the  period,  beginning  with  the  day  on  which  the  notice  is  served, before the expiry of which such measures require to be taken. ]
 
-- If it is alleged by any notice of complaint served under this section that any [ F344 teacher in the school is-
+(2) If it is alleged by any notice of complaint served under this section that any [ F344 teacher in the school is—
 
 (a) disqualified as mentioned in sub-paragraph (i) or (ii) of subsection (1A)(h) above;
 
@@ -4979,7 +5011,7 @@ that [ F345 teacher ] shall be named in the notice and the particulars contained
 
 [ F346 (3) The proprietor of a registered school may, before the expiry of the period mentioned in subsection (4) below, appeal to the sheriff principal against a notice of complaint.
 
-- The period referred to in subsection (3) above is-
+(4) The period referred to in subsection (3) above is—
 
 (a) the period of 28 days beginning with the day on which the notice of complaint is served; or
 
@@ -5021,7 +5053,36 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 ##### 100 Determination of complaints.
 
-[ F347 (1) This section applies(a) in a case where(i) a notice of complaint has been served under section 99(1) of this Act; (ii) no appeal under section 99(3) of this Act has been made or such an appeal has been made and refused; (iii) the period specified in the notice has expired; and (iv) the Scottish Ministers are not satisfied that the proprietor of the school on whom the notice is served has taken satisfactory action to remedy the matter complained of; (b) in a case where(i) such a notice has been served; (ii) such an appeal has been made but not determined; and (iii) pending such determination, the Scottish Ministers are satisfied that there is a serious risk of harm to a pupil attending the school; or (c) where, by virtue of section 99(1B) of this Act, no such notice has been served. (2) The Scottish Ministers may(a) make an order directing the Registrar to remove the school from the register; (b) if satisfied that the school premises are or any part of them is unsuitable for use as a school, make an order disqualifying those premises or any part of them from being so used; (c) if  satisfied  that  any  accommodation  provided  at  the  school  premises  is inadequate or unsuitable, having regard to the number, ages and sex of the pupils attending the school, make an order disqualifying that accommodation from being used as such or from being used as such for pupils(i) exceeding such number; or (ii) of such age or sex, as the Scottish Ministers may specify; (d) make an order(i) imposing such conditions on the carrying on of the school; or (ii) varying any such conditions imposed by virtue of this Part of this Act, as the Scottish Ministers think fit; or (e) if satisfied that(i) the  proprietor  is  not  a  proper  person  to  be  the  proprietor  of  an independent school; or (ii) a teacher in the school is not a proper person to be a teacher in any school, make an order disqualifying that proprietor from being the proprietor of an independent school or, as the case may be, that teacher from being a teacher in any school. (3) Where the Scottish Ministers make an order under subsection (2) above, they shall, as soon as reasonably practicable after so doing, give notice to(a) the proprietor; (b) where, under paragraph (e) of that subsection, an order is made disqualifying a teacher, that teacher; (c) the Registrar; and Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+[ F347 (1) This section applies—
+(a) in a case where—
+(i) a notice of complaint has been served under section 99(1) of this Act;
+(ii) no appeal under section 99(3) of this Act has been made or such an appeal has been made and refused;
+(iii) the period specified in the notice has expired; and
+(iv) the Scottish Ministers are not satisfied that the proprietor of the school on whom the notice is served has taken satisfactory action to remedy the matter complained of;
+(b) in a case where—
+(i) such a notice has been served;
+(ii) such an appeal has been made but not determined; and
+(iii) pending such determination, the Scottish Ministers are satisfied that there is a serious risk of harm to a pupil attending the school; or
+(c) where, by virtue of section 99(1B) of this Act, no such notice has been served.
+(2) The Scottish Ministers may—
+(a) make an order directing the Registrar to remove the school from the register;
+(b) if satisfied that the school premises are or any part of them is unsuitable for use as a school, make an order disqualifying those premises or any part of them from being so used;
+(c) if satisfied that any accommodation provided at the school premises is inadequate or unsuitable, having regard to the number, ages and sex of the pupils attending the school, make an order disqualifying that accommodation from being used as such or from being used as such for pupils—
+(i) exceeding such number; or
+(ii) of such age or sex,
+as the Scottish Ministers may specify;
+(d) make an order—
+(i) imposing such conditions on the carrying on of the school; or
+(ii) varying any such conditions imposed by virtue of this Part of this Act,
+as the Scottish Ministers think fit; or
+(e) if satisfied that—
+(i) the proprietor is not a proper person to be the proprietor of an independent school; or
+(ii) a teacher in the school is not a proper person to be a teacher in any school,
+make an order disqualifying that proprietor from being the proprietor of an independent school or, as the case may be, that teacher from being a teacher in any school.
+(3) Where the Scottish Ministers make an order under subsection (2) above, they shall, as soon as reasonably practicable after so doing, give notice to—
+(a) the proprietor;
+(b) where, under paragraph (e) of that subsection, an order is made disqualifying a teacher, that teacher;
+(c) the Registrar; and
 
 [[END OF PAGE 104]]
 
@@ -5043,7 +5104,7 @@ Document Generated: 2020-08-02
 
 (3C) The  proprietor  of  an  independent  school  may  not  appeal  against  an  order  under subsection (2)(e) above disqualifying a teacher from being a teacher in any school. ]
 
-- Where  by  virtue  of  an  order  made [ F348 under  this  Part  of  this  Act ] any  person  is disqualified either from being the proprietor of an independent school or from being a teacher in any school, then, unless the order otherwise directs, that person shall, by virtue of the order, be disqualified both from being the proprietor of an independent school and from being a teacher in any school.
+(4) Where by virtue of an order made [ F348 under this Part of this Act] any person is disqualified either from being the proprietor of an independent school or from being a teacher in any school, then, unless the order otherwise directs, that person shall, by virtue of the order, be disqualified both from being the proprietor of an independent school and from being a teacher in any school.
 
 ###### Textual Amendments
 
@@ -5055,7 +5116,7 @@ Document Generated: 2020-08-02
 
 [ F349 (1) Any person who carries on an independent school which is not registered shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale or to imprisonment for a term not exceeding three months or to both such fine and such imprisonment. ]
 
-- If any person uses
+(2) If any person uses
 
 [ F350 (a) school premises which are or any part of such premises which is; or
 
@@ -5065,7 +5126,7 @@ Document Generated: 2020-08-02
 
 disqualified by virtue of any order made under this Part of this Act, that person shall be liable on summary conviction to a fine not exceeding [ F351 level 4 on the standard scale ] , or to imprisonment for a term not exceeding three months or to both such fine and such imprisonment.
 
-- If  any  person  acts  as  the  proprietor  of  an  independent  school, F352 ...,  while  he  is disqualified from so acting F352 ... by any such order as aforesaid, he shall be liable on summary conviction to a fine not exceeding [ F351 level 4 on the standard scale ] , or to imprisonment for a term not exceeding three months or to both such fine and such imprisonment.
+(3) If any person acts as the proprietor of an independent school, F352..., while he is disqualified from so acting F352... by any such order as aforesaid, he shall be liable on summary conviction to a fine not exceeding [ F351 level 4 on the standard scale], or to imprisonment for a term not exceeding three months or to both such fine and such imprisonment.
 
 [ F353 (3A) If any person who is, by virtue of this Part of this Act, disqualified from being a teacher in any school-
 
@@ -5113,7 +5174,7 @@ F353 S. 101(3A) inserted (31.12.2005) by School Education (Ministerial Powers an
 
 ##### 102 Removal of disqualifications.
 
-- If  on  the  application  of  any  person  the  Secretary  of  State  is  satisfied  that  any disqualification imposed by an order made under F356 ...  this  Part  of  this  Act  is,  by reason of any change of circumstances, no longer necessary, the Secretary of State shall by order remove the disqualification.
+(1) If on the application of any person the Secretary of State is satisfied that any disqualification imposed by an order made under F356... this Part of this Act is, by reason of any change of circumstances, no longer necessary, the Secretary of State shall by order remove the disqualification.
 
 [ F357 (1A) The Scottish Ministers shall, as soon as reasonably practicable after making a decision under subsection (1) above, give notice to-
 
@@ -5211,9 +5272,9 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-- Where, under section 98D(3) of this Act, the Registrar removes a registered school from  the  register,  that  removal  shall  have  effect  from  the  beginning  of  the  day following the day on which notice under section 98D(4) of this Act is given.
+(3) Where, under section 98D(3) of this Act, the Registrar removes a registered school from the register, that removal shall have effect from the beginning of the day following the day on which notice under section 98D(4) of this Act is given.
 
-- Where, under section 98D(1) or 100(2)(a) of this Act, the Scottish Ministers make an order directing the Registrar to remove an independent school from the register that removal shall, unless the Scottish Ministers otherwise direct, have effect from the beginning of the day following the day on which the order is made. ]
+(4) Where, under section 98D(1) or 100(2)(a) of this Act, the Scottish Ministers make an order directing the Registrar to remove an independent school from the register that removal shall, unless the Scottish Ministers otherwise direct, have effect from the beginning of the day following the day on which the order is made.]
 
 ###### Textual Amendments
 
@@ -5225,22 +5286,22 @@ F360 Ss. 103A-103B inserted (31.12.2005) by School Education (Ministerial Powers
 
 ##### 104 Register of educational endowments.
 
-[ F361 It shall be the duty of the Secretary of State ] to keep a register of all educational endowments, which shall contain such information as may be prescribed, and shall be open to public inspection at all reasonable times.
+(1) [ F361 It shall be the duty of the Secretary of State] to keep a register of all educational endowments, which shall contain such information as may be prescribed, and shall be open to public inspection at all reasonable times.
 
-- Except  as  hereinafter  provided,  it  shall  be  the  duty  of  the  governing  body  of every educational endowment F362 ,  to  furnish  the [ F363 Secretary of State ] with such information about the endowment as may be prescribed by regulations made by the Secretary of State [ F364 in such manner as may be so prescribed ] .
+(2) Except as hereinafter provided, it shall be the duty of the governing body of every educational endowment F362, to furnish the [ F363 Secretary of State] with such information about the endowment as may be prescribed by regulations made by the Secretary of State [ F364 in such manner as may be so prescribed].
 
-- This section shall not apply to a university endowment, to a theological endowment, or to the Carnegie Trust, and regulations made under this section may exempt any endowment or class of endowments from any of the provisions of this section.
+(3) This section shall not apply to a university endowment, to a theological endowment, or to the Carnegie Trust, and regulations made under this section may exempt any endowment or class of endowments from any of the provisions of this section.
 
 ###### Textual Amendments
 F361 Words substituted by Education (Scotland) Act 1981 (c. 58), Sch. 6 para. 3(a), Sch. 8 F362 Words repealed by Education (Scotland) Act 1981 (c. 58), Sch. 9 F363 Words substituted by Education (Scotland) Act 1981 (c. 58), Sch. 6 para. 3(b)(ii), Sch. 8 F364 Words inserted by Education (Scotland) Act 1981 (c. 58), Sch. 6 para. 3(b)(iii)
 
 ##### 105 Schemes for reorganisation of educational endowments.
 
-- Subject to the provisions of this section, [ F365 an education authority, whether upon an application made to them or not, may, if they think fit, ] prepare draft schemes for the future government and management of educational endowments, which schemes may provide-
+(1) Subject to the provisions of this section, [ F365 an education authority, whether upon an application made to them or not, may, if they think fit,] prepare draft schemes for the future government and management of educational endowments, which schemes may provide—
 
 (a) for altering the purposes to which such endowments are applied or applicable and the conditions and provisions regarding such application;
 
-(b) for  the  application  of  the  capital  or  income  of  such  endowments  to such  educational  purposes,  mental  oor  physical,  moral  or  social,  as  the
+(b) for the application of the capital or income of such endowments to such educational purposes, mental or physical, moral or social, as the
 
 [[END OF PAGE 110]]
 
@@ -5266,7 +5327,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 [ F367 Provided that in considering whether to exercise, in relation to any endowment, the power conferred upon them by this subsection an education authority may have regard to whether the exercise of the power would prejudice the proper discharge by them of their functions under this Act apart from this section or their functions as local authority under any enactment. ]
 
-- It shall be the duty of the [ F368 education authority ] in reorganising any endowment in pursuance of the powers conferred by this Part of this Act to have special regard-
+(2) It shall be the duty of the [ F368 education authority] in reorganising any endowment in pursuance of the powers conferred by this Part of this Act to have special regard—
 
 (a) to the spirit of the intention of the founders as embodied either-
 
@@ -5280,11 +5341,11 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 (d) to  the  need  for  continuing  the  provision  from  endowments  of  competitive bursaries at universities, central institutions, colleges of education or other educational institutions of a similar character.
 
-- In every scheme which abolishes or modifies any privileges or educational advantages to which a particular class of persons is entitled, whether as inhabitants of a particular area  or  as  belonging  to  a  particular  class  in  life  or  otherwise,  the [ F368 education authority ] shall have regard to the educational interests of such class of persons:
+(3) In every scheme which abolishes or modifies any privileges or educational advantages to which a particular class of persons is entitled, whether as inhabitants of a particular area or as belonging to a particular class in life or otherwise, the [ F368 education authority] shall have regard to the educational interests of such class of persons:
 
 Provided always that, where the governing instrument of any educational endowment has expressly provided for the education of children belonging to the poorer classes, either  generally  or  within  a  particular  area,  or  otherwise  for  their  benefit,  such endowment for such education or otherwise for their benefit shall continue, so far as requisite, to be applied for the benefit of such children.
 
-- The powers of the [ F368 education authority ] under this section shall not extend-
+(4) The powers of the [ F368 education authority] under this section shall not extend—
 
 (a) to a university endowment, or
 
@@ -5308,11 +5369,22 @@ Part VI - Reorganisation of Endowments
 
 Document Generated: 2020-08-02
 
-[
-
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-this paragraph, be empowered under this section to exercise in relation to that endowment the functions conferred by this section, or (f) to  an  educational  endowment having no limitation either as to the area in which any educational establishment to which it relates is situated or as to the area in which any of its beneficiaries are required under its governing instrument to reside or with which they are so required to have some other connection. ] [ F370 Provided  that  tis  subsection  shall  not  apply  to  an  endowment  which  falls within  paragraph  (e)  above  solely  by  reason  of  the  inclusion  among  its  purposes of the award of prizes, bursaries or similar benefits to persons who attend or have attended educational establishments or other institutions not managed by an education authority. ] F371 (4A) The Court of Session shall have power, on the petition of(a) the governing body of any endowment to which subsection (4) above applies or, in the case of the Carnegie Trust, the Trustees; (b) in relation to an endowment to which paragraph (e) of that subsection applies and which relates only in part to an educational establishment not managed by the education authority referred to in that paragraph, the education authority, in respect of the part of the endowment in relation to which they would, but for the said paragraph (e), be empowered under this section to exercise the functions conferred by this section, to  give  effect  to  draft  schemes  for  the  future  government  and  management  of  the endowment or, as the case may be, the Trust, which schemes may provide for any of the purposes set out in paragraphs (a) to (e) of subsection (1) above and, in exercising the power conferred on it under this subsection, the Court shall have special regard to the matters specified in paragraphs (a) to (d) of subsection (2) above. (4B) Where a  petition  under  subsection  (4A)  above  relates  to  an  endowment  to  which paragraph (e) of subsection (4) above applies and which relates only in part to an educational  establishment  not  managed  by  the  education  authority  referred  to  in that  paragraph  the  Court  of  Session  shall,  before  making  an  order  under  the  said subsection (4A)(a) where the petition was presented by any body referred to in paragraph (a) of the said subsection (4A), cause the petition to be served on the education authority; (b) where the petition was presented by an education authority under paragraph (b) of the said subsection (4A), cause the petition to be served on the governing body of the endowment to which the petition relates. (4C) The governing body of an endowment in relation to which an education authority are empowered under this section to exercise the functions conferred by this section may, if the authority refuse to exercise their power under subsection (1) above in relation to the endowment on the ground that such exercise would prejudice the proper discharge by them of their functions under this Act apart from this section or their functions as local authority under any enactment, present a petition to the Court of Session, and subsections (4A), (4B) and (4D) of this section shall apply to such a petition. F372 (4D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F373
+this paragraph, be empowered under this section to exercise in relation to that endowment the functions conferred by this section, or
+(f) to an educational endowment having no limitation either as to the area in which any educational establishment to which it relates is situated or as to the area in which any of its beneficiaries are required under its governing instrument to reside or with which they are so required to have some other connection.]
+[ F370 Provided that this subsection shall not apply to an endowment which falls within paragraph (e) above solely by reason of the inclusion among its purposes of the award of prizes, bursaries or similar benefits to persons who attend or have attended educational establishments or other institutions not managed by an education authority.]
+[ F371 (4A) The Court of Session shall have power, on the petition of—
+(a) the governing body of any endowment to which subsection (4) above applies or, in the case of the Carnegie Trust, the Trustees;
+(b) in relation to an endowment to which paragraph (e) of that subsection applies and which relates only in part to an educational establishment not managed by the education authority referred to in that paragraph, the education authority, in respect of the part of the endowment in relation to which they would, but for the said paragraph (e), be empowered under this section to exercise the functions conferred by this section,
+to give effect to draft schemes for the future government and management of the endowment or, as the case may be, the Trust, which schemes may provide for any of the purposes set out in paragraphs (a) to (e) of subsection (1) above and, in exercising the power conferred on it under this subsection, the Court shall have special regard to the matters specified in paragraphs (a) to (d) of subsection (2) above.
+(4B) Where a petition under subsection (4A) above relates to an endowment to which paragraph (e) of subsection (4) above applies and which relates only in part to an educational establishment not managed by the education authority referred to in that paragraph the Court of Session shall, before making an order under the said subsection (4A)—
+(a) where the petition was presented by any body referred to in paragraph (a) of the said subsection (4A), cause the petition to be served on the education authority;
+(b) where the petition was presented by an education authority under paragraph (b) of the said subsection (4A), cause the petition to be served on the governing body of the endowment to which the petition relates.
+(4C) The governing body of an endowment in relation to which an education authority are empowered under this section to exercise the functions conferred by this section may, if the authority refuse to exercise their power under subsection (1) above in relation to the endowment on the ground that such exercise would prejudice the proper discharge by them of their functions under this Act apart from this section or their functions as local authority under any enactment, present a petition to the Court of Session, and subsections (4A), (4B) and (4D) of this section shall apply to such a petition.
+F372 (4D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F373
 
 [[END OF PAGE 112]]
 
@@ -5328,7 +5400,7 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-- After 30th June 1976 any reference in a scheme made or approved under Part VI of the Act of 1946 or under Part VI of the Act of 1962 (reorganisation of educational endowments)-
+(6) After 30th June 1976 any reference in a scheme made or approved under Part VI of the Act of 1946 or under Part VI of the Act of 1962 (reorganisation of educational endowments)—
 
 (a) to  a  certificated  teacher  shall  be  construed  as  a  reference  to  a  teacher registered under the [ F374 Public Services Reform (General Teaching Council for Scotland) Order 2011 ] ;
 
@@ -5345,7 +5417,7 @@ M15 1968 c. 49.
 
 ##### 106 Sale of land belonging to educational endowments.
 
-- Where it appears to the [ F376 Court of Session ] to be desirable that a scheme under this Part of this Act should make provision for the sale of any land forming an endowment or part thereof and for the application of the proceeds of sale in accordance with the provisions of the scheme, but that such provision cannot be made by reason of the third proviso to section 2 of the M16 School Sites Act 1841 (which provides that if any land granted in accordance with the provisions of that section ceases to be used for the
+(1) Where it appears to the [ F376 Court of Session] to be desirable that a scheme under this Part of this Act should make provision for the sale of any land forming an endowment or part thereof and for the application of the proceeds of sale in accordance with the provisions of the scheme, but that such provision cannot be made by reason of the third proviso to section 2 of the M16 School Sites Act 1841 (which provides that if any land granted in accordance with the provisions of that section ceases to be used for the
 
 [[END OF PAGE 113]]
 
@@ -5369,9 +5441,9 @@ Provided that  no  such [ F377 order  shall  be  made ] in  relation  to  any  l
 
 (b) that, if that person can be found, he has consented to relinquish his rights in relation to the land under the said proviso or condition, and that, if he has consented so to do in consideration of the payment of a sum of money to him, adequate provision can be made for the payment to him of that sum out of the proceeds of the sale of the land.
 
-- A scheme under this Part of this Act relating to any endowment which includes land in respect of which an order has been made under subsection (1) above may make provision for the payment out of the proceeds of the sale of the land of any sum which is payable to any person in consideration of the relinquishment of his rights in relation to the land under the said proviso or condition.
+(2) A scheme under this Part of this Act relating to any endowment which includes land in respect of which an order has been made under subsection (1) above may make provision for the payment out of the proceeds of the sale of the land of any sum which is payable to any person in consideration of the relinquishment of his rights in relation to the land under the said proviso or condition.
 
-- For the purposes of this section, any land conveyed under section 2 of the M17 School Sites Act 1841, or held under a condition of the nature referred to in subsection (1) above,  other  than  land  forming  the  site  or  part  of  the  site  of  an  educational establishment under the management of an education authority or of any building ancillary to such an educational establishment, shall be deemed to be an educational endowment or part thereof notwithstanding anything in the third proviso to that section or in the said condition.
+(3) For the purposes of this section, any land conveyed under section 2 of the M17 School Sites Act 1841, or held under a condition of the nature referred to in subsection (1) above, other than land forming the site or part of the site of an educational establishment under the management of an education authority or of any building ancillary to such an educational establishment, shall be deemed to be an educational endowment or part thereof notwithstanding anything in the third proviso to that section or in the said condition.
 
 ###### Textual Amendments
 F376 Words substituted with savings by Education (Scotland) Act 1981 (c. 58), Sch. 6 para. 5(a), Sch. 8 and S.I. 1981/1557, art. 4 F377 Words substituted with savings by Education (Scotland) Act 1981 (c. 58), Sch. 6 para. 5(b)(i), Sch. 8 and S.I. 1981/1557, art. 4 F378 Word substituted with savings by Education (Scotland) Act 1981 (c. 58), Sch. 6 para. 5(b)(ii), Sch. 8 and S.I. 1981/1557, art. 4
@@ -5380,9 +5452,9 @@ M16 1841 c. 38. M17 1841 c. 38.
 
 ##### 107 Educational endowments applicable in part to non-educational purposes.
 
-- Where an endowment is an educational endowment [ F379 to which the powers conferred by  section  105  of  this  Act  extend ] ,  and  part  of  it  is  applicable  or  applied  to other charitable purposes, the scheme shall be in conformity with the provisions of subsections (2) to (6) below (except so far as the governing body of such endowment assent to the scheme departing therefrom).
+(1) Where an endowment is an educational endowment [ F379 to which the powers conferred by section 105 of this Act extend], and part of it is applicable or applied to other charitable purposes, the scheme shall be in conformity with the provisions of subsections (2) to (6) below (except so far as the governing body of such endowment assent to the scheme departing therefrom).
 
-- The  proportion  of  the  endowment  or  annual  income  for  the  time  being  derived therefrom which is applicable to such other charitable purposes shall not be diverted by the scheme from such purposes unless in the opinion of the [ F380 education authority
+(2) The proportion of the endowment or annual income for the time being derived therefrom which is applicable to such other charitable purposes shall not be diverted by the scheme from such purposes unless in the opinion of the [ F380 education authority
 
 [[END OF PAGE 114]]
 
@@ -5404,15 +5476,15 @@ having power to exercise, in relation to that endowment, the functions conferred
 
 [ F381 (ii) the purposes of such part of the endowment have become obsolete or useless. ]
 
-- The proportion of the endowment or annual income for the time being so applicable to  such  other  charitable  purposes  shall  be  deemed  to  be  the  proportion  which,  in the opinion of the [ F382 education authority ] , is the proportion which has according to the average of [ F383 the five most recent years for which accounts are available ] been appropriated as regards capital or applied as regards income to such purposes, or if that proportion differs from the proportion which ought to have been so appropriated or  applied  according  to  the  express  directions  of  the  instrument  of  foundation  or the  decree  of  any  competent  court  or  the  statutes  or  regulations  governing  such endowment, the proportion applicable to such other charitable purposes shall be the proportion which ought, according to the express directions of such instrument, or such decree or such statutes or regulations, to have been appropriate or applied to such other charitable purposes.
+(3) The proportion of the endowment or annual income for the time being so applicable to such other charitable purposes shall be deemed to be the proportion which, in the opinion of the [ F382 education authority], is the proportion which has according to the average of [ F383 the five most recent years for which accounts are available] been appropriated as regards capital or applied as regards income to such purposes, or if that proportion differs from the proportion which ought to have been so appropriated or applied according to the express directions of the instrument of foundation or the decree of any competent court or the statutes or regulations governing such endowment, the proportion applicable to such other charitable purposes shall be the proportion which ought, according to the express directions of such instrument, or such decree or such statutes or regulations, to have been appropriated or applied to such other charitable purposes.
 
-- If the proportion applicable to other charitable purposes amounts to or exceeds one half of the whole of the endowment, the governing body of such endowment existing at the date of the scheme shall, so far as regards its non-educational purposes, remain unaltered by the scheme.
+(4) If the proportion applicable to other charitable purposes amounts to or exceeds one half of the whole of the endowment, the governing body of such endowment existing at the date of the scheme shall, so far as regards its non-educational purposes, remain unaltered by the scheme.
 
-- Where the governing body remains so unaltered, that body shall pay or apply for educational purposes such proportion as under the former provisions of this section is applicable to those purposes, or such less sum as may be fixed by the [ F384 education authority ] .
+(5) Where the governing body remains so unaltered, that body shall pay or apply for educational purposes such proportion as under the former provisions of this section is applicable to those purposes, or such less sum as may be fixed by the [ F384 education authority].
 
-- When  any  portion  of  the  endowment  or  the  annual  income  of  such  portion  has been accumulated and not applied to any purpose, the [ F384 education authority ] shall determine whether, and in what proportion, such portion or income is to be considered for the purposes of this section as having been appropriated or applied for educational purposes or for other charitable purposes.
+(6) When any portion of the endowment or the annual income of such portion has been accumulated and not applied to any purpose, the [ F384 education authority] shall determine whether, and in what proportion, such portion or income is to be considered for the purposes of this section as having been appropriated or applied for educational purposes or for other charitable purposes.
 
-- Subject to the foregoing provisions of this section, the [ F384 education authority ] shall have power by any scheme to deal with any such endowment, and with the governing body thereof, in the same manner in all respects as if it were an endowment applied wholly to educational purposes.
+(7) Subject to the foregoing provisions of this section, the [ F384 education authority] shall have power by any scheme to deal with any such endowment, and with the governing body thereof, in the same manner in all respects as if it were an endowment applied wholly to educational purposes.
 
 ###### Textual Amendments
 F379 Words substituted with savings by Education (Scotland) Act 1981 (c. 58), Sch. 6 para. 6(a), Sch. 8 and S.I. 1981/1557, art. 4 F380 Words substituted with savings by Education (Scotland) Act 1981 (c. 58), Sch. 6 para. 6(b)(i), Sch. 8 and S.I. 1981/1557, art. 4 F381 S. 107(2)(ii) substituted for s. 107(2)(ii)-(iv) with savings by Education (Scotland) Act 1981 (c. 58), Sch. 6 para. 6(b)(ii), Sch. 8 and S.I. 1981/1557, art. 4 F382 Words substituted with savings by Education (Scotland) Act 1981 (c. 58), Sch. 6 para. 6(c)(i), Sch. 8 and S.I. 1981/1557, art. 4 F383 Words substituted with savings by Education (Scotland) Act 1981 (c. 58), Sch. 6 para. 6(c)(ii), Sch. 8 and S.I. 1981/1557, art. 4
@@ -5433,7 +5505,7 @@ F384 Words substituted with savings by Education (Scotland) Act 1981 (c. 58), Sc
 
 ##### 108 Non-educational endowments.
 
-- Where the governing body of any endowment (not being an educational endowment) are of opinion that it is expedient that the endowment should be [ F385 reorganised ] on any of the following grounds, that is to say:-
+(1) Where the governing body of any endowment (not being an educational endowment) are of opinion that it is expedient that the endowment should be [ F385 reorganised] on any of the following grounds, that is to say:—
 
 (a) that there are no persons entitled to benefit out of the endowment; or
 
@@ -5471,9 +5543,9 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 ##### 109 Provisions regarding interests of individuals.
 
-- Where  at  3rd  August  1928,  any  individual  held  a  vested  interest  in  any  office, place, employment, pension, compensation allowance, bursary or emolument under or arising out of an endowment being dealt with in a scheme, [ F391 made under this Part of this Act, the education authority or, as the case may be, the Court ] shall in such scheme save or make due compensation for the said vested interest.
+(1) Where at 3rd August 1928, any individual held a vested interest in any office, place, employment, pension, compensation allowance, bursary or emolument under or arising out of an endowment being dealt with in a scheme, [ F391 made under this Part of this Act, the education authority or, as the case may be, the Court] shall in such scheme save or make due compensation for the said vested interest.
 
-- Every interest, right, privilege or preference which any person may acquire or may have  acquired  since  3rd  August  1928,  in  or  relative  to  any  endowment,  or  in  the governing body thereof, or as member of any such governing body, or in or relative to  any  office,  place,  employment,  pension,  compensation  allowance,  bursary  or emolument in the gift of any such governing body, shall be subject to the provisions of any scheme made under this Part of this Act.
+(2) Every interest, right, privilege or preference which any person may acquire or may have acquired since 3rd August 1928, in or relative to any endowment, or in the governing body thereof, or as member of any such governing body, or in or relative to any office, place, employment, pension, compensation allowance, bursary or emolument in the gift of any such governing body, shall be subject to the provisions of any scheme made under this Part of this Act.
 
 ###### Textual Amendments
 
@@ -5481,17 +5553,17 @@ F391 Words substituted with savings by Education (Scotland) Act 1981 (c. 58), Sc
 
 ##### 110 Provisions as to beneficiaries and teachers.
 
-- In [ F392 preparing  a  draft ] scheme  for  any  endowment,  the [ F393 education authority ] shall-
+(1) In [ F392 preparing a draft] scheme for any endowment, the [ F393 education authority] shall—
 
 (a) provide  that  in  making  a  selection  from  amongst  those  eligible  for  the benefits of the endowment, due regard shall be paid to [ F394 educational need ] , diligence,  attainment  and  promise  as  ascertained  in  such  manner  as  the [ F393 education authority ] shall determine, and
 
 (b) [ F395 unless in any particular case they consider it inexpedient to do so, ] provide for extending to both sexes the benefit of the endowment.
 
-[ F396 Every  scheme  for  an  educational  endowment ] shall  make  provision  for  the application in the case of the dismissal of a registered teacher of the provisions of section 88 of this Act, with the substitution of the governing body for the education authority, and with any other necessary modifications.
+(2) [ F396 Every scheme for an educational endowment] shall make provision for the application in the case of the dismissal of a registered teacher of the provisions of section 88 of this Act, with the substitution of the governing body for the education authority, and with any other necessary modifications.
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F397
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F397
 
-- Any such scheme-
+(4) Any such scheme—
 
 [ F398 (a) given effect to by the Court of Session; or
 
@@ -5516,17 +5588,12 @@ F395 Words substituted with savings by Education (Scotland) Act 1981 (c. 58), Sc
 
 ##### 111 Accounts and audit of educational endowments.
 
-- It  shall  be  the  duty  of  the  governing  body  of  every  educational  endowment administered under a scheme made by the Court of Session which provides for the audit of the accounts of that endowment F399 , or administered under a provisional order made under the Act of 1878, or under a scheme made under the Act of 1882, the Acts of 1928 to 1935, Part VI of the Act of 1946, Part VI of the Act of 1962 or under this Part of this Act, other than any such endowment to which section 106(1) of the M18 Local Government (Scotland) Act 1973, applies, to comply with the following provisions of this section.
-
-- The governing body of every endowment to which this section applies shall keep proper accounts and other records in relation to the functioning of that body, and shall prepare in respect of each financial year a statement of account F399
-
-- The accounts of every endowment to which this section applies shall be audited each year by an auditor appointed by the governing body F399 ; [ F400 and no person shall be appointed auditor as aforesaid unless he is eligible for appointment as a [ F401 statutory auditor under Part 42 of the Companies Act 2006 ] . ]
-
-[ F403 The  governing  body  of  each  endowment  to  which  this  section  applies  shall make the audited accounts of that endowment ] available for public inspection at all reasonable times.
-
-- Any  provision  in  a  governing  instrument  referred  to  in  subsection  (1)  above prescribing the financial year of an endowment  shall remain in operation notwithstanding the repeal by the Act of 1962 of section 11(2) of the M19 Education (Scotland) Act 1956.
-
+(1) It shall be the duty of the governing body of every educational endowment administered under a scheme made by the Court of Session which provides for the audit of the accounts of that endowment F399, or administered under a provisional order made under the Act of 1878, or under a scheme made under the Act of 1882, the Acts of 1928 to 1935, Part VI of the Act of 1946, Part VI of the Act of 1962 or under this Part of this Act, other than any such endowment to which section 106(1) of the M18 Local Government (Scotland) Act 1973, applies, to comply with the following provisions of this section.
+(2) The governing body of every endowment to which this section applies shall keep proper accounts and other records in relation to the functioning of that body, and shall prepare in respect of each financial year a statement of account F399
+(3) The accounts of every endowment to which this section applies shall be audited each year by an auditor appointed by the governing body F399; [ F400 and no person shall be appointed auditor as aforesaid unless he is eligible for appointment as a [ F401 statutory auditor under Part 42 of the Companies Act 2006].]
 (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F402
+(6) [ F403 The governing body of each endowment to which this section applies shall make the audited accounts of that endowment] available for public inspection at all reasonable times.
+(7) Any provision in a governing instrument referred to in subsection (1) above prescribing the financial year of an endowment shall remain in operation notwithstanding the repeal by the Act of 1962 of section 11(2) of the M19 Education (Scotland) Act 1956.
 
 ###### Textual Amendments
 F399 Words repealed by Education (Scotland) Act 1981 (c. 58), Sch. 9 F400 S. 111(3): by S.I. 1991/1997, reg. 2, Sch. para.36 (with reg. 4) it is provided that words shall be substituted (01.10.1991) for the words from 'and no person shall be eligible' to the end F401 Words in s. 111(3) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), art. 2(2), Sch. 1 para. 1(u) (with arts. 6, 11, 12) F402 S. 111(4)(5) repealed by Education (Scotland) Act 1981 (c. 58), Sch. 9 F403 Words substituted by Education (Scotland) Act 1981 (c. 58), Sch. 6 para. 10(b), Sch. 8
@@ -5549,7 +5616,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 ##### 112 Procedure in preparation of reorganisation schemes.
 
-- Before making a scheme for the reorganisation of any educational endowment [ F404 an education authority ] shall prepare a draft scheme and shall-
+(1) Before making a scheme for the reorganisation of any educational endowment [ F404 an education authority] shall prepare a draft scheme and shall—
 
 (a) send copies of the draft scheme to the governing body of the endowment to which it relates;
 
@@ -5569,9 +5636,9 @@ and the governing body of that endowment or any other person interested in the s
 
 (1B) The  requirement  under  subsection  (1A)  above  to  give  notice  of  the  draft  scheme by  way  of  newspaper  advertisement  shall  not  apply  in  relation  to  an  educational endowment of less annual value than £500 if, by giving notice in another manner, the education authority incur less expense. ]
 
-- If within the period referred to in subsection (1) above no objection and no proposed amendment to the draft scheme is received by [ F409 them, the education authority may, by resolution of the authority authorising their proper officer to sign the scheme on their behalf, ] make the scheme in the terms of the draft scheme [ F410 of which notice has been given ] under subsection (1) above [ F411 and on doing so shall notify the date of commencement of the scheme to the governing body of the endowment. ]
+(2) If within the period referred to in subsection (1) above no objection and no proposed amendment to the draft scheme is received by [ F409 them, the education authority may, by resolution of the authority authorising their proper officer to sign the scheme on their behalf,] make the scheme in the terms of the draft scheme [ F410 of which notice has been given] under subsection (1) above [ F411 and on doing so shall notify the date of commencement of the scheme to the governing body of the endowment.]
 
-- If within the said period objections or proposed amendments to the draft scheme are received by [ F412 them, the education authority ] shall  consider  those  objections  and proposed amendments [ F413 ,  shall,  if  any  of  them  were  sent  by  any  of  the  persons mentioned in subsection (7) below, hold a public local inquiry into such of them as are not withdrawn ] and may thereafter, if [ F414 they think ] fit, [ F415 by resolution of the authority authorising their proper officer to sign the scheme on their behalf, make the ] scheme in such form as [ F414 they think ] expedient.
+(3) If within the said period objections or proposed amendments to the draft scheme are received by [ F412 them, the education authority] shall consider those objections and proposed amendments [ F413, shall, if any of them were sent by any of the persons mentioned in subsection (7) below, hold a public local inquiry into such of them as are not withdrawn] and may thereafter, if [ F414 they think] fit, [ F415 by resolution of the authority authorising their proper officer to sign the scheme on their behalf, make the] scheme in such form as [ F414 they think] expedient.
 
 [ F416 (3A) [ F417 Section 56 of ] the M20 Local Government (Scotland) Act 1973 shall not apply to the making of a scheme by an education authority under subsection (2) or (3) above.
 
@@ -5609,7 +5676,7 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-- If within the said period an appeal is presented to the Court of Session by-
+(8) If within the said period an appeal is presented to the Court of Session by—
 
 (a) the governing body of the endowment to which the scheme refers, or any other person directly affected by the scheme, on the ground that the scheme is not within the scope of, or is not made in conformity with, this Part of this Act, or
 
@@ -5617,7 +5684,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 and  the  Court  of  Session  decides  that  the  scheme  is  contrary  to  law  on  any  of the grounds mentioned in paragraphs (a) and (b) above, the [ F425 education authority shall  rescind  their  decision  to  make  the  scheme  but  may,  if  they  think  fit,  make an  amended scheme in such form as they think ] expedient,  and  the  provisions  of subsections  (4)  to  (7)  above,  and  of  this  subsection,  shall  apply  in  relation  to  an amended scheme [ F426 made ] under this subsection as they apply to a scheme [ F426 made ] under subsection (3) above.
 
-- Where [ F427 an  education  authority  cause ] a  draft  scheme  or  a  scheme  to  be [ F428 publicised ] under this section, [ F429 they ] shall cause to be prefixed to that draft scheme or scheme a memorandum setting out-
+(9) Where [ F427 an education authority cause] a draft scheme or a scheme to be [ F428 publicised] under this section, [ F429 they] shall cause to be prefixed to that draft scheme or scheme a memorandum setting out—
 
 (a) the reasons why, in [ F429 their ] view, the reorganisation of the endowment to which the draft scheme or scheme relates is necessary;
 
@@ -5659,7 +5726,7 @@ F430 Ss. 105(5), 110(3), 112(6), 113, 115, 116, repealed with savings by Educati
 
 ##### 114 Effect of schemes.
 
-- Any scheme made or [ F431 given effect to ] under the foregoing provisions of this Part of this Act shall F432 have effect in the same manner as if it had been enacted in this Act, and accordingly, from the [ F433 date of commencement of the scheme ] , any enactment,
+(1) Any scheme made or [ F431 given effect to] under the foregoing provisions of this Part of this Act shall F432 have effect in the same manner as if it had been enacted in this Act, and accordingly, from the [ F433 date of commencement of the scheme], any enactment,
 
 [[END OF PAGE 122]]
 
@@ -5677,7 +5744,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 letters patent, deed, instrument, trust or direction relating to the subject-matter of the scheme, so far as inconsistent with the provisions thereof, shall cease to have effect.
 
-[ F434 An instrument containing or giving effect to ] a scheme, under this Part of this Act shall [ F435 , from the date of commencement of the scheme, ] be conclusive evidence that that scheme is within the scope of, and was made in conformity with, this Act, and the validity of the scheme shall not [ F436 , from the said date, ] be questioned in any legal proceedings whatever.
+(2) [ F434 An instrument containing or giving effect to] a scheme, under this Part of this Act shall [ F435, from the date of commencement of the scheme,] be conclusive evidence that that scheme is within the scope of, and was made in conformity with, this Act, and the validity of the scheme shall not [ F436, from the said date,] be questioned in any legal proceedings whatever.
 
 [ F437 (3) Each of the powers to make schemes conferred by this Part of this Act implies power exercisable in the same manner and subject to the same conditions or limitations to revoke, amend or re-enact any scheme made under that power. ]
 
@@ -5719,7 +5786,7 @@ F441 S. 118 substituted with savings by Education (Scotland) Act 1981 (c. 58), S
 
 ##### [ F442 118A Income plans under schemes.
 
-- Any  provision  of  a  scheme  referred  to  in  subsection  (2)  below  which  (however expressed) empowers or requires the governing body of the endowment to which the scheme relates-
+(1) Any provision of a scheme referred to in subsection (2) below which (however expressed) empowers or requires the governing body of the endowment to which the scheme relates—
 
 (a) to  prepare  and  submit  for  the  approval  of  the  Secretary  of  State  a  plan,  a revised plan or an amendment of a plan for the exercise by the governing body of their functions in relation  to  the  application  of  the  income  of  the endowment; or
 
@@ -5727,7 +5794,7 @@ F441 S. 118 substituted with savings by Education (Scotland) Act 1981 (c. 58), S
 
 shall be of no effect.
 
-- This section applies to any scheme made or approved under the Acts of 1928 to 1935, Part VI of the Act of 1946, Part VI of the Act of 1962, or this Part of this Act. ]
+(2) This section applies to any scheme made or approved under the Acts of 1928 to 1935, Part VI of the Act of 1946, Part VI of the Act of 1962, or this Part of this Act.]
 
 ###### Textual Amendments
 F442 S. 118A inserted by Education (Scotland) Act 1981 (c. 58), Sch. 6 para. 17
@@ -5740,7 +5807,7 @@ Provided that this power shall be in addition to and not in restraint of any pow
 
 ##### 120 Provision for default of governing body.
 
-[ F443 (1) ] If the governing body of any educational endowment [ F444 to which section 105 of this Act does not extend ] fail to give effect to the provisions of any provisional order or of any scheme made or approved under the Act of 1882, the Acts of 1928 to 1935, Part VI of the Act of 1946, Part VI of the Act of 1962 or this Part of this Act [ F445 prior to the commencement of section 15 of the M21 Education (Scotland) Act 1981 ] , it shall be lawful for the Secretary of State, after such inquiry as he shall think proper, to send a requisition to such governing body, requiring them to give effect to the provisions of the provisional order or scheme, and the governing body shall comply with the said Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes requisition within such time as may be specified in the requisition, and, if they fail, may be summarily compelled to do so by the Court of Session, on the application of the Lord Advocate.
+[ F443 (1)] If the governing body of any educational endowment [ F444 to which section 105 of this Act does not extend] fail to give effect to the provisions of any provisional order or of any scheme made or approved under the Act of 1882, the Acts of 1928 to 1935, Part VI of the Act of 1946, Part VI of the Act of 1962 or this Part of this Act [ F445 prior to the commencement of section 15 of the M21 Education (Scotland) Act 1981], it shall be lawful for the Secretary of State, after such inquiry as he shall think proper, to send a requisition to such governing body, requiring them to give effect to the provisions of the provisional order or scheme, and the governing body shall comply with the said
 
 [[END OF PAGE 124]]
 
@@ -5753,6 +5820,10 @@ Part VI - Reorganisation of Endowments
 Document Generated: 2020-08-02
 
 125
+
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+requisition within such time as may be specified in the requisition, and, if they fail, may be summarily compelled to do so by the Court of Session, on the application of the Lord Advocate.
 
 [ F446 (2) In relation to any educational endowment to which section 105 of this Act extends, subsection (1) above shall apply-
 
@@ -5778,7 +5849,7 @@ F447 Words inserted with savings by Education (Scotland) Act 1981 (c. 58), Sch. 
 
 ##### 122 Interpretation of Part VI.
 
-- In this Part of this Act, unless the context otherwise requires-
+(1) In this Part of this Act, unless the context otherwise requires—
 
 'the Act of 1878' means the Endowed Institutions (Scotland) Act 1878;
 
@@ -5822,9 +5893,9 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 'university endowment' means an endowment vested in, or administered by, or in the gift of any of the universities of Scotland or any of the colleges of such universities.
 
-- An educational endowment shall be deemed to be a 'new endowment' until the expiry of  twenty  years  from  the  date  when  the  deed  creating  the  endowment  comes  into operation, so, however, that where part of an endowment has been given at one time and another part has been given at a later time and the two portions cannot in the opinion of the [ F452 Court of Session ] be conveniently separated from each other, the date of the older part of the endowment shall be held to be the date of the endowment.
+(2) An educational endowment shall be deemed to be a 'new endowment' until the expiry of twenty years from the date when the deed creating the endowment comes into operation, so, however, that where part of an endowment has been given at one time and another part has been given at a later time and the two portions cannot in the opinion of the [ F452 Court of Session ] be conveniently separated from each other, the date of the older part of the endowment shall be held to be the date of the endowment.
 
-- Any reference in this Act to the endowment to which a scheme under this Part of this Act relates shall, in the case of a scheme relating to more than one endowment, be construed as a reference to every endowment, or (as the context may require) to any endowment, to which the scheme relates.
+(3) Any reference in this Act to the endowment to which a scheme under this Part of this Act relates shall, in the case of a scheme relating to more than one endowment, be construed as a reference to every endowment, or (as the context may require) to any endowment, to which the scheme relates.
 
 [[END OF PAGE 126]]
 
@@ -5842,12 +5913,11 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 [ F453 (4) This Part, apart from section 104, does not apply in relation to any endowment the governing body of which is a charity within the meaning of section 106 of the Charities and Trustee Investment (Scotland) Act 2005 (asp 10). ]
 
-- F452 Words substituted by Education (Scotland) Act 1981 (c. 58), Sch. 6 para. 20, Sch. 8
-
-- F453 S. 122(4) inserted (1.4.2006) by Charities and Trustee Investment (Scotland) Act 2005 (asp 10), ss. 43 , 107(2); S.S.I. 2006/189, art. 2(1), sch. Pt. 1
-
 ###### Textual Amendments
-F450 Words in s. 122(1) substituted (1.4.2006) by Charities and Trustee Investment (Scotland) Act 2005 (asp 10), s. 107(2), sch. 4 para. 4 ; S.S.I. 2006/189, art. 2(1), sch. Pt. 1 F451 Words in s. 122 inserted (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 118(7) ; S.I. 1996/323, art. 4(1)(c) .
+F450 Words in s. 122(1) substituted (1.4.2006) by Charities and Trustee Investment (Scotland) Act 2005 (asp 10), s. 107(2), sch. 4 para. 4; S.S.I. 2006/189, art. 2(1), sch. Pt. 1
+F451 Words in s. 122 inserted (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 118(7); S.I. 1996/323, art. 4(1)(c).
+F452 Words substituted by Education (Scotland) Act 1981 (c. 58), Sch. 6 para. 20, Sch. 8
+F453 S. 122(4) inserted (1.4.2006) by Charities and Trustee Investment (Scotland) Act 2005 (asp 10), ss. 43, 107(2); S.S.I. 2006/189, art. 2(1), sch. Pt. 1
 
 ## PART VII
 
@@ -5857,15 +5927,15 @@ F450 Words in s. 122(1) substituted (1.4.2006) by Charities and Trustee Investme
 
 ##### 123 Work experience in last year of compulsory schooling.
 
-- Subject to subsection (2) below, the enactments relating to the prohibition or regulation of the employment of children shall not apply to the employment of a child [ F454 to whom this subsection applies ] where the employment is in pursuance of arrangements made or approved by the education authority F455 ... with a view to providing him with work experience as part of his education.
+(1) Subject to subsection (2) below, the enactments relating to the prohibition or regulation of the employment of children shall not apply to the employment of a child [ F454 to whom this subsection applies ] where the employment is in pursuance of arrangements made or approved by the education authority F455 ... with a view to providing him with work experience as part of his education.
 
-- Subsection (1) above shall not be taken to permit the employment of any person in any way contrary to-
+(2) Subsection (1) above shall not be taken to permit the employment of any person in any way contrary to—
 
 (a) an enactment which in terms applies to persons of less than, or not over, a specified age expressed as a number of years; or
 
 (b) section 1(2) of the M23 Employment of Women, Young Persons and Children Act  1920  or [ F456 section  55(1)  of  the  Merchant  Shipping  Act  1995 ] (prohibition of employment of children in ships).
 
-- No arrangements shall be made under subsection (1) above for a child to be employed in any way which would be contrary to an enactment prohibiting or regulating the employment of young persons if he were a young person (within the meaning of that  enactment)  and  not  a  child;  and  where  a  child  is  employed  in  pursuance  of arrangements so made, then so much of any enactment as regulates the employment of  young  persons  (whether  by  excluding  them  from  any  description  of  work,  or prescribing the conditions under which they may be permitted to do it, or otherwise howsoever) and would apply in relation to him if he were of an age to be treated as a young person for the purposes of that enactment shall apply in relation to him, in and in respect of the employment arranged for him, in all respects as if he were of an age to be so treated.
+(3) No arrangements shall be made under subsection (1) above for a child to be employed in any way which would be contrary to an enactment prohibiting or regulating the employment of young persons if he were a young person (within the meaning of that enactment) and not a child; and where a child is employed in pursuance of arrangements so made, then so much of any enactment as regulates the employment of young persons (whether by excluding them from any description of work, or prescribing the conditions under which they may be permitted to do it, or otherwise howsoever) and would apply in relation to him if he were of an age to be treated as a young person for the purposes of that enactment shall apply in relation to him, in and in respect of the employment arranged for him, in all respects as if he were of an age to be so treated.
 
 [[END OF PAGE 127]]
 
@@ -5922,27 +5992,25 @@ Document Generated: 2020-08-02
 
 129
 
-##### F463 126
-
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
 (b) by any other person in pursuance of arrangements made by any such authority F462 ... or managers,
 
-the  authority F462 ...  or  managers  in  question  shall  have  the  duty  to  safeguard  and promote the welfare of the child or young person while he is so accommodated; and the powers of inspection exercisable by virtue of section 66(1) of this Act shall include the power to inspect the place to determine whether his welfare is adequately safeguarded and promoted there.
+the authority F462 ... or managers in question shall have the duty to safeguard and promote the welfare of the child or young person while he is so accommodated; and the powers of inspection exercisable by virtue of section 66(1) of this Act shall include the power to inspect the place to determine whether his welfare is adequately safeguarded and promoted there.
 
 ###### Textual Amendments
-F460 S. 125A inserted (1.11.1995) by 1995 c. 36, s. 35 (with ss. 90, 103(1)); S.I. 1995/2787, art. 3, Sch. F461 Words in s. 125A(a) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b) F462 Words in s. 125A(b) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3 ; S.S.I. 2004/528, art. 2(b)
+F460 S. 125A inserted (1.11.1995) by 1995 c. 36, s. 35 (with ss. 90, 103(1)); S.I. 1995/2787, art. 3, Sch.
+F461 Words in s. 125A(a) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3; S.S.I. 2004/528, art. 2(b)
+F462 Words in s. 125A(b) repealed (31.12.2004) by Standards in Scotland's Schools etc. Act 2000 (asp 6), s. 61(2), sch. 3; S.S.I. 2004/528, art. 2(b)
 
 #### Careers services of education authorities
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+##### F463 126 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ###### Textual Amendments
-F463 Ss. 126-128 repealed (1.4.1994) by 1993 c. 19, s. 51, Sch.10 ; S.I. 1993/2503, art. 2(3), Sch.3
+F463 Ss. 126-128 repealed (1.4.1994) by 1993 c. 19, s. 51, Sch.10; S.I. 1993/2503, art. 2(3), Sch.3
 
-F464
-
-##### 127 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+##### F464 127 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ###### Textual Amendments
 F464 Ss. 126-128 repealed (1.4.1994) by 1993 c. 19, s. 51, Sch.10 ; S.I. 1993/2503, art. 2(3), Sch.3
@@ -5981,11 +6049,11 @@ No power or duty conferred or imposed by this Act on the Secretary of State, on 
 
 ##### 131 Saving as to persons suffering from mental disorder and persons detained by order.
 
-- Unless the context otherwise requires, no power or duty conferred or imposed by this Act on the Secretary of State, on education authorities or on parents or young persons shall be construed as relating to any person to whom this section applies:
+(1) Unless the context otherwise requires, no power or duty conferred or imposed by this Act on the Secretary of State, on education authorities or on parents or young persons shall be construed as relating to any person to whom this section applies:
 
 Provided  that  nothing  in  this  section  shall  prevent  an  education  authority  from providing or securing the provision of education for any such person if he is in their opinion capable of deriving benefit therefrom.
 
-- The persons to whom this section applies are-
+(2) The persons to whom this section applies are—
 
 (a) any  person  who  is  detained  in  pursuance  of  an  order  made  by  any court [ F467 (other  than  an  order  so  made  under  the  Mental  Health  (Care  and Treatment) (Scotland) Act 2003 (asp 13)) ] or of an order of recall made by the Secretary of State;
 
@@ -6016,9 +6084,9 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 ##### [ F470 131A Consent of child to medical procedures
 
-- Nothing  in  this  Act  shall  prejudice  any  capacity  of  a  child  enjoyed  by  virtue  of section 2(4) of the Age of Legal Capacity (Scotland) Act 1991 (c.50) (capacity of child with sufficient understanding to consent to surgical, medical or dental procedure or treatment); and without prejudice to that generality, where under or by virtue of this Act a child is required to submit, or to be submitted, to any medical or dental examination, inspection or treatment but the child has the capacity mentioned in the said section 2(4), the examination, inspection or treatment shall only be carried out if the child consents.
+(1) Nothing in this Act shall prejudice any capacity of a child enjoyed by virtue of section 2(4) of the Age of Legal Capacity (Scotland) Act 1991 (c.50) (capacity of child with sufficient understanding to consent to surgical, medical or dental procedure or treatment); and without prejudice to that generality, where under or by virtue of this Act a child is required to submit, or to be submitted, to any medical or dental examination, inspection or treatment but the child has the capacity mentioned in the said section 2(4), the examination, inspection or treatment shall only be carried out if the child consents.
 
-- In  subsection  (1)  above,  without  prejudice  to  the  generality  of  the  expression  in question, 'medical examination' includes an examination under section 58 of this Act and 'medical treatment' includes cleansing under that section. ]
+(2) In subsection (1) above, without prejudice to the generality of the expression in question, 'medical examination' includes an examination under section 58 of this Act and 'medical treatment' includes cleansing under that section. ]
 
 ###### Textual Amendments
 F470 S. 131A inserted (13.10.2000) by 2000 asp 6, s. 57 ; S.S.I. 2000/361, art. 3(1)(2), Sch. Pt. I
@@ -6027,18 +6095,18 @@ F470 S. 131A inserted (13.10.2000) by 2000 asp 6, s. 57 ; S.S.I. 2000/361, art. 
 
 ##### 132 Amendment of enactments.
 
-- F471 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1) F471 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- Any reference in an enactment passed before 2nd July 1945 to a school in receipt of a parliamentary grant shall, unless the context otherwise requires, be construed as a reference to a school other than an independent school.
+(2) Any reference in an enactment passed before 2nd July 1945 to a school in receipt of a parliamentary grant shall, unless the context otherwise requires, be construed as a reference to a school other than an independent school.
 
 ###### Textual Amendments
 F471 Ss. 5, 28(2), 59, 66(2), 111(4)(5), 129(5)(6), 132(1), Sch. 2 paras. 1, 3 repealed by Education (Scotland) Act 1981 (c. 58), Sch. 9
 
 ##### 133 Regulations, etc.
 
-- Any power conferred by this Act on the Secretary of State to make regulations shall be exercisable by statutory instrument.
+(1) Any power conferred by this Act on the Secretary of State to make regulations shall be exercisable by statutory instrument.
 
-[ F472 Subject to subsections [ F473 (2YA) ][ F474 to (2C) ] below, ] any statutory instrument containing regulations made by the Secretary of State under this Act shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+(2) [ F472 Subject to subsections [ F473 (2YA) ][ F474 to (2C) ] below, ] any statutory instrument containing regulations made by the Secretary of State under this Act shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
 [ F475 (2YA) Subsection (2) above shall not apply to any regulations under [ F476 subsection (8) of section 53 that modify subsection (7) of that section as mentioned in subsection (8)(a) (iii) or (b) of that section, nor to any regulations under section 53ZA(1) or 54A(1) ] ; and such regulations shall be subject to the affirmative procedure. ]
 
@@ -6058,11 +6126,45 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-F478 [ (2A) Subsection  (2)  above  shall  not  apply  to  the  first  regulations  to  be  made  under section 73(f) of this Act with respect to loans; and no such regulations shall be made (whether alone or with other regulations) unless a draft of the statutory instrument containing the regulations has been laid before, and approved by a resolution of, each
+F478 [ (2A) Subsection (2) above shall not apply to the first regulations to be made under section 73(f) of this Act with respect to loans; and no such regulations shall be made (whether alone or with other regulations) unless a draft of the statutory instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.
 
-- House of Parliament. (2B) Subsection (2) above shall not apply to any regulations under section 73(f) of this Act with respect to loans, other than the regulations mentioned in subsection (2A) above, where a draft of the statutory instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament. ] [ F479 (2BA) Subsection (2) above shall not apply to any regulations under(a) section 2 or 74(1) that make provision such as is mentioned in section 90A, or (b) section 98DA(1); and such regulations shall be subject to the affirmative procedure. ] [ F480 (2C) Subsection (2) above shall not apply to any regulations under section 98A(6) of this Act defining 'prescribed person'; and no such regulations shall be made unless(a) the Scottish Ministers have consulted such persons as they think fit on a draft of the statutory instrument containing the regulations; and (b) such a draft has been laid before, and approved by resolution of, the Scottish Parliament. ] [ F481 (2D) Regulations under section 98A(6) of this Act defining 'prescribed person' may(a) make different provision for different purposes, (b) make  supplementary,  incidental,  consequential,  transitional,  transitory  or saving provision, (c) modify any enactment. (2E) In  subsection  (2D),  'enactment'  includes  an  enactment  comprised  in,  or  in  an instrument made under, an Act of the Scottish Parliament. ] (3) Any direction given by the Secretary of State or an education authority under the provisions of this Act may be varied or revoked by a further direction given by the Secretary of State or that authority, as the case may be: Provided that where the power to give any such direction is exercisable only upon the application or with the consent of any person, or after consultation with or intimation to  any  person  or  is  otherwise  subject  to  any  conditions,  no  direction  given  under such power shall be varied or revoked except upon the like application, with the like consent, after the like consultation or intimation or subject to the like conditions, as the case may be. (4) If it appears to the Secretary of State, on an application in that behalf made to him(a) in relation to regulations made under section 2 or section 19(1) of this Act, by an education authority; (b) in  relation  to  regulations  made  under  section  74(1)  of  this  Act,  by  any education authority or other person to whom any grant is payable under this Act;
+(2B) Subsection (2) above shall not apply to any regulations under section 73(f) of this Act with respect to loans, other than the regulations mentioned in subsection (2A) above, where a draft of the statutory instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament. ]
 
-that it is unreasonable that any provision of those regulations should apply in relation to that authority or person or to such educational establishment under the management of that authority or person as may be specified in the application, or should so apply without modification, he may, subject to subsection (5) below, direct that the said Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes provision shall not apply in relation to that authority or person or that educational establishment or, as the case may be, shall so apply subject to such modification as may be specified in the direction.
+[ F479 (2BA) Subsection (2) above shall not apply to any regulations under—
+
+(a) section 2 or 74(1) that make provision such as is mentioned in section 90A, or
+
+(b) section 98DA(1);
+
+and such regulations shall be subject to the affirmative procedure. ]
+
+[ F480 (2C) Subsection (2) above shall not apply to any regulations under section 98A(6) of this Act defining 'prescribed person'; and no such regulations shall be made unless—
+
+(a) the Scottish Ministers have consulted such persons as they think fit on a draft of the statutory instrument containing the regulations; and
+
+(b) such a draft has been laid before, and approved by resolution of, the Scottish Parliament. ]
+
+[ F481 (2D) Regulations under section 98A(6) of this Act defining 'prescribed person' may—
+
+(a) make different provision for different purposes,
+
+(b) make supplementary, incidental, consequential, transitional, transitory or saving provision,
+
+(c) modify any enactment.
+
+(2E) In subsection (2D), 'enactment' includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament. ]
+
+(3) Any direction given by the Secretary of State or an education authority under the provisions of this Act may be varied or revoked by a further direction given by the Secretary of State or that authority, as the case may be:
+
+Provided that where the power to give any such direction is exercisable only upon the application or with the consent of any person, or after consultation with or intimation to any person or is otherwise subject to any conditions, no direction given under such power shall be varied or revoked except upon the like application, with the like consent, after the like consultation or intimation or subject to the like conditions, as the case may be.
+
+(4) If it appears to the Secretary of State, on an application in that behalf made to him—
+
+(a) in relation to regulations made under section 2 or section 19(1) of this Act, by an education authority;
+
+(b) in relation to regulations made under section 74(1) of this Act, by any education authority or other person to whom any grant is payable under this Act;
+
+that it is unreasonable that any provision of those regulations should apply in relation to that authority or person or to such educational establishment under the management of that authority or person as may be specified in the application, or should so apply without modification, he may, subject to subsection (5) below, direct that the said
 
 [[END OF PAGE 132]]
 
@@ -6074,7 +6176,11 @@ Document Generated: 2020-08-02
 
 133
 
-- A direction under subsection (4) above-
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+provision shall not apply in relation to that authority or person or that educational establishment or, as the case may be, shall so apply subject to such modification as may be specified in the direction.
+
+(5) A direction under subsection (4) above—
 
 (a) may be given either unconditionally or subject to such conditions as may be specified in the direction;
 
@@ -6087,9 +6193,9 @@ F472 Words in s. 133(2) inserted (18.7.1998) by 1998 c. 30, s. 44(1), Sch. 3 par
 
 ##### 134 Notices.
 
-- Subject to the provisions of this section, any notice required or authorised by this Act to be served or given to any person may be served or given by delivering it to him, or by leaving it at his proper address, or by sending it to him by post.
+(1) Subject to the provisions of this section, any notice required or authorised by this Act to be served or given to any person may be served or given by delivering it to him, or by leaving it at his proper address, or by sending it to him by post.
 
-- For the purposes of this section and of section 7 of the M24 Interpretation Act 1978 (service by post) in its application to this section, the proper address of a person on or to whom any such notice as aforesaid is to be served or given shall, in the case of an education authority, be the address of any office of that authority and, in any other case, be the last known address of the person on or to whom the notice is to be served or given.
+(2) For the purposes of this section and of section 7 of the M24 Interpretation Act 1978 (service by post) in its application to this section, the proper address of a person on or to whom any such notice as aforesaid is to be served or given shall, in the case of an education authority, be the address of any office of that authority and, in any other case, be the last known address of the person on or to whom the notice is to be served or given.
 
 [[END OF PAGE 133]]
 
@@ -6103,14 +6209,14 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-- Any notice which, in accordance with the provisions of subsection (1) above, is left for a person at his proper address shall, unless the contrary is proved, be presumed to have been received by him on the day on which it was left there.
+(3) Any notice which, in accordance with the provisions of subsection (1) above, is left for a person at his proper address shall, unless the contrary is proved, be presumed to have been received by him on the day on which it was left there.
 
 ###### Marginal Citations
 M24 1978 c. 30.
 
 ##### 135 Interpretation.
 
-- In this Act, unless the context otherwise requires,-
+(1) In this Act, unless the context otherwise requires,—
 
 [ F482 'additional support needs' and references to any child or young person having such needs shall be construed in accordance with section 1(1) of the Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4); ]
 
@@ -6126,7 +6232,9 @@ M24 1978 c. 30.
 
 'the M29 Act of 1962' means the Education (Scotland) Act 1962;
 
-'attendance order' has the meaning assigned to it by section 38 of this Act; ' [ F483 barred from regulated work with children' has the meaning given by section 98A(6) of this Act; ]
+'attendance order' has the meaning assigned to it by section 38 of this Act;
+
+[ F483 'barred from regulated work with children' has the meaning given by section 98A(6) of this Act; ]
 
 F484
 
@@ -6222,9 +6330,9 @@ F500 'managers',  in  relation  to  an  educational  establishment,  means  the 
 
 [ F503 'placing request' has the meaning assigned to it by section 28A(1) of this Act; ]
 
-F504
+[ F504 'preliminary notice' means a notice under section 66C(1) of this Act; ]
 
-[ 'preliminary notice' means a notice under section 66C(1) of this Act; ] 'premises'  in  relation  to  any  educational  establishment  includes  the site  of  such  establishment,  any  building  in  which  pupils  attending  such establishments  are  boarded  whether  managed  by  the  managers  of  such establishment or by any other person by arrangement with such managers, and any playing fields used in connection with such establishment whether contiguous to or detached therefrom;
+'premises' in relation to any educational establishment includes the site of such establishment, any building in which pupils attending such establishments are boarded whether managed by the managers of such establishment or by any other person by arrangement with such managers, and any playing fields used in connection with such establishment whether contiguous to or detached therefrom;
 
 'prescribed' means prescribed by the Secretary of State;
 
@@ -6240,7 +6348,7 @@ F506
 
 'public school' means any school under the management of an education authority;
 
-'pupil', where used without qualification, means a person of any age for whom education is or is required to be provided under this Act; and a pupil shall be deemed to be attending or in attendance at a school if he is shown by the register of admission and withdrawal kept at the school in accordance with regulations made under this Act, or by any other register approved by the Secretary of State and kept for a similar purpose, to have been admitted to, Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes but not to have been withdrawn from, or to have been readmitted to, and not thereafter to have been withdrawn from, the school; and similar expressions, whether relating to schools or to other educational establishments, shall be similarly interpreted;
+'pupil', where used without qualification, means a person of any age for whom education is or is required to be provided under this Act; and a pupil shall be deemed to be attending or in attendance at a school if he is shown by the register of admission and withdrawal kept at the school in accordance with regulations made under this Act, or by any other register approved by the Secretary of State and kept for a similar purpose, to have been admitted to,
 
 [[END OF PAGE 136]]
 
@@ -6252,7 +6360,13 @@ Document Generated: 2020-08-02
 
 137
 
-F506 ...
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+
+but not to have been withdrawn from, or to have been readmitted to, and not thereafter to have been withdrawn from, the school; and similar expressions, whether relating to schools or to other educational establishments, shall be similarly interpreted;
+
+F506
+
+...
 
 'registered school' means an independent school [ F507 which is registered ] in the register of independent schools F505 ...;
 
@@ -6286,7 +6400,7 @@ F510
 
 'young person' means a person over school age who has not attained the age of eighteen years.
 
-- Any reference in any enactment or other instrument (including this Act and, unless the contrary intention appears, any enactment or other instrument passed or made after the commencement of this Act) to-
+(2) Any reference in any enactment or other instrument (including this Act and, unless the contrary intention appears, any enactment or other instrument passed or made after the commencement of this Act) to—
 
 (a) primary education shall be construed as a reference to school education of a kind [ F516 (i) ] which is appropriate in the ordinary case to the requirements of pupils who have not attained the age of twelve years; [ F517 ; and (ii) which is, in the case of a pupil [ F518 having additional support needs ] , within the provision made for the purpose of meeting [ F519 those needs ] until he is transferred to the stage of secondary education; ]
 
@@ -6329,7 +6443,7 @@ M25 1882 c. 59. M26 1918 c. 48. M27 1937 (1 Edw. 8 & 1 Geo. 6 c. 37). M28 1946 c
 
 ##### 136 Transitional and savings provisions, amendments and repeals.
 
-- The transitional and savings provisions set out in Schedule 3 to this Act shall have effect.
+(1) The transitional and savings provisions set out in Schedule 3 to this Act shall have effect.
 
 - X2 (2) The enactments specified in Schedule 4 to this Act shall have effect subject to the amendments  specified  in  that  Schedule,  being  amendments  consequential  on  the consolidation under this Act.
 
@@ -6353,17 +6467,17 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 ##### 137 Short title, commencement and extent.
 
-- This Act may be cited as the Education (Scotland) Act 1980.
+(1) This Act may be cited as the Education (Scotland) Act 1980.
 
-- Subject to subsections (3) and (4) below, this Act shall come into force on the expiry of the period of one month beginning with the date on which it is passed.
+(2) Subject to subsections (3) and (4) below, this Act shall come into force on the expiry of the period of one month beginning with the date on which it is passed.
 
-- The provisions of this Act set out in Schedule 6 shall, to the extent there specified, come into force on such day as the Secretary of State may by order made by statutory instrument appoint.
+(3) The provisions of this Act set out in Schedule 6 shall, to the extent there specified, come into force on such day as the Secretary of State may by order made by statutory instrument appoint.
 
-- Subsections (5) to (7) of section 23 of this Act shall come into force on such date as the Secretary of State may by order appoint.
+(4) Subsections (5) to (7) of section 23 of this Act shall come into force on such date as the Secretary of State may by order appoint.
 
-- Any order under subsection (4) above may make such transitional provision as appears to the Secretary of State to be necessary or expedient in connection with the provisions thereby brought into force, including such adaptations of those provisions, or of any other provision mentioned in that subsection then in force, as appear to him to be necessary or expedient for the purpose or in consequence of the operation of any such provision before the coming into force of any other such provision.
+(5) Any order under subsection (4) above may make such transitional provision as appears to the Secretary of State to be necessary or expedient in connection with the provisions thereby brought into force, including such adaptations of those provisions, or of any other provision mentioned in that subsection then in force, as appear to him to be necessary or expedient for the purpose or in consequence of the operation of any such provision before the coming into force of any other such provision.
 
-- This Act extends to Scotland only.
+(5) This Act extends to Scotland only.
 
 ###### Subordinate Legislation Made
 
@@ -6430,9 +6544,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 ###### Textual Amendments
 F528 Words in Sch. A1 para. 4 substituted (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 118(10)(b) ; S.I. 1996/323, art. 4(1)(c) .
 
-- 5 F529
-
-A person who is a member of [ any committee such as is mentioned in paragraph 3 above ] shall not be chairman of an appeal committee.
+- 5 A person who is a member of [ F529 any committee such as is mentioned in paragraph 3 above ] shall not be chairman of an appeal committee.
 
 ###### Textual Amendments
 F529 Words in Sch. A1 para. 5 substituted (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 118(10)(c) ; S.I. 1996/323, art. 4(1)(c) .
@@ -6443,13 +6555,13 @@ F529 Words in Sch. A1 para. 5 substituted (1.4.1996) by 1994 c. 39, s. 180(1), S
 
 (a) a teacher at a relevant school (within the meaning of paragraph 8 below);
 
-(b) a pupil at such a spepchool;
+(b) a pupil at such a school;
 
 (c) a parent of a pupil at such a school; or
 
 (d) a member of a [ F530 Parent Council or Combined Parent Council ] having functions in relation to such a school
 
-shall  not  be  a  member  of  an  appeal  committee  for  consideration  of  a  reference involving  a  question  whether  a  child  is  to  be  placed  in  the  specifiec  school  or excluded from the relevant school.
+shall not be a member of an appeal committee for consideration of a reference involving a question whether a child is to be placed in the specified school or excluded from the relevant school.
 
 ###### Textual Amendments
 F530 Words in Sch. A1 para. 7 substituted (1.8.2007) by Scottish Schools (Parental Involvement) Act 2006 (asp 8), ss. 18(4) , 24(2); S.S.I. 2007/31, art. 2(b), sch. 2
@@ -6495,7 +6607,7 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 F531 Sch. A2 repealed (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), sch. 3 para. 3(14) ; S.S.I. 2005/564, art. 2
 
-### SCHEDULE 1
+### SCHEDULE 1 Section 67.
 
 #### LOCAL INQUIRIES
 
@@ -6520,8 +6632,6 @@ Provided that-
 - 5 The inquiry shall unless the Secretary of State otherwise directs be held in public.
 
 - 6 Any person who refuses or wilfully neglects to attend in obedience to a notice issued under paragraph 3 above, or who wilfully alters, suppresses, conceals, destroys or refuses to produce any book or document which he may be required to produce by any such notice, or who refuses or wilfully neglects to comply with any requirement of the person appointed to hold the inquiry under paragraph 3 above, shall be liable on summary conviction to a fine not exceeding £20 or to imprisonment for a period not exceeding three months.
-
-Section 67.
 
 [[END OF PAGE 143]]
 
@@ -6559,15 +6669,13 @@ F533 Sch. 1A repealed (1.12.1997) by 1997 c. 59, ss. 5(2)(b), 6(3), Sch. Pt. II 
 
 F534 Sch. 1B repealed (23.3.2001) by 2000 asp 6, s. 55 ; S.S.I. 2001/102, art. 2
 
-### F535 SCHEDULE 2
+### F535 SCHEDULE 2 Section 100(1).
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ###### Textual Amendments
 
-F535 Sch.  2  repealed  (31.12.2005)  by  School  Education  (Ministerial  Powers  and  Independent  Schools) (Scotland) Act 2004 (asp 12), s. 9(2), sch. 2 ; S.S.I. 2005/10, art. 3(d) (with art. 3(2))
-
-Section 100(1).
+F535 Sch. 2 repealed (31.12.2005) by School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004 (asp 12), s. 9(2), sch. 2; S.S.I. 2005/10, art. 3(d) (with art. 3(2))
 
 [[END OF PAGE 144]]
 
@@ -6583,7 +6691,7 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-### SCHEDULE 3
+### SCHEDULE 3 Section 136(1).
 
 #### TRANSITIONAL AND SAVINGS PROVISIONS
 
@@ -6597,9 +6705,9 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 
 - 3 Any reference in any enactment or other instrument passed or made before the commencement of the M34 Education (Scotland) Act 1969 to special educational treatment shall be construed as a reference to [ F536 provision for recorded children ] .
 
+###### Textual Amendments
 F536 Words substituted by Education (Scotland) Act 1981 (c. 58), Sch. 2 Pt. II para. 9, Sch. 8
 
-###### Textual Amendments
 ###### Marginal Citations
 M34 1969 c. 49.
 
@@ -6616,8 +6724,6 @@ Words substituted by Education (Scotland) Act 1981 (c. 58), Sch. 2 Pt. II para. 
 
 - 6 The repeal by the said Act of 1969 of section 94 of the Act of 1962 shall not affect the application of that section to any part of the annual revenue of any scheme, being a part to which that section applied immediately before the commencement of the said Act of 1969.
 
-Section 136(1).
-
 [[END OF PAGE 145]]
 
 [[START OF PAGE 146]]
@@ -6630,7 +6736,7 @@ Document Generated: 2020-08-02
 
 Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk editorial team to Education (Scotland) Act 1980. Any changes that have already been made by the team appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-### X3 SCHEDULE 4
+### X3 SCHEDULE 4 Section 136(2).
 
 #### AMENDMENT OF ENACTMENTS
 
@@ -6676,11 +6782,9 @@ F539 Sch. 4 para. 2 repealed by Mental Health (Scotland) Act 1984 (c. 36, SIF 85
 
 - 7 In section 23(2) (other discrimination by education authorities), for the words 'Acts 1939 to 1980' there shall be substituted the words 'Act 1980'.
 
-- 8 In section 25 (general duty in public sector of education)-
+- 8 In section 25 (general duty in public sector of education)—
 
 (a) in subsection (3) for the words '71 of the Education (Scotland) Act 1962' and 'said section 71' there shall be substituted respectively the words '70 of the Education (Scotland) Act 1980' and 'said section 70';
-
-Section 136(2).
 
 [[END OF PAGE 146]]
 
@@ -6746,11 +6850,9 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 --- | ---
 19 | In paragraph 10( b ) of Schedule 15 (saving of amendments), for '154' there shall be substituted '155'.
 
-### X4 SCHEDULE 5
+### X4 SCHEDULE 5 Section 136(3).
 
 #### ENACTMENTS REPEALED
-
-Section 136(3).
 
 ###### Editorial Information
 
@@ -6767,9 +6869,7 @@ Chapter | Short title | Extent of repeal
 1968 c. 49. | The Social Work (Scotland) Act 1968. | Schedule 8 so far as relating to the Education (Scotland) Act 1962.
 1969 c. 49. | The Education (Scotland) Act 1969. | The whole Act.
 1970 c. 44. | The Chronically Sick and Disabled Persons Act 1970. | Sections 25 to 27.
-1971 c. 42. | The Education (Scotland) Act | The whole Act.
-
-1971.
+1971 c. 42. | The Education (Scotland) Act 1971. | The whole Act.
 
 [[END OF PAGE 148]]
 
@@ -6790,27 +6890,20 @@ Changes to legislation: There are outstanding changes not yet made by the legisl
 1973 c. 23. | The Education (Work Experience) Act 1973. | The whole Act.
 1973 c. 50. | The Employment and Training Act 1973. | Sections 8, 9 and 10.
 1973 c. 59. | The Education (Scotland) Act 1973. | The whole Act.
-1973 c. 65. | The Local Government (Scotland) Act 1973. | Section 129.
-Schedule 11.
+1973 c. 65. | The Local Government (Scotland) Act 1973. | Section 129. Schedule 11.
 1975 c. 65. | The Sex Discrimination Act 1975. | Section 79(6).
 1975 c. 71. | The Employment Protection Act 1975. | In Schedule 16, in Part IV, paragraphs 9 and 12.
 1976 c. 20. | The Education (Scotland) Act 1976. | The whole Act.
 1976 c. 65. | The Retirement of Teachers (Scotland) Act 1976. | The whole Act.
 1977 c. 45. | The Criminal Law Act 1977. | Schedule 6 so far as relating to the Education (Scotland) Act 1962.
-1978 c. 29. | The National Health Service (Scotland) Act 1978. | In Schedule 15, in paragraph 10( b ) the words '126, 127'.
-In Schedule 16, paragraphs 15 to 18.
-1980 c. 20. | The Education Act 1980. | Section 20.
-Section 23.
-Section 25.
-Section 31(5)-(6).
-Section 33(2).
-Sections 35, 37 and 38.
+1978 c. 29. | The National Health Service (Scotland) Act 1978. | In Schedule 15, in paragraph 10(b) the words '126, 127'. In Schedule 16, paragraphs 15 to 18.
+1980 c. 20. | The Education Act 1980. | Section 20. Section 23. Section 25. Section 31(5)-(6). Section 33(2). Sections 35, 37 and 38.
 
-### SCHEDULE 6
+### SCHEDULE 6 Section 137(3).
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### POSTPONEMENT OF THE COMMENCEMENT OF CERTAIN PROVISIONS
 
-Section 137(3).
+1—15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F541
 
 [[END OF PAGE 149]]
 
