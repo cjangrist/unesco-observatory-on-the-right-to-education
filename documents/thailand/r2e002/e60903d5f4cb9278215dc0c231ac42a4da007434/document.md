@@ -20,6 +20,40 @@ PDF generated: 29 Jan 2019, 23:15
 
 ## Table of contents
 
+Preamble . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+CHAPTER I: GENERAL PROVISIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+CHAPTER II: THE KING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+CHAPTER III: RIGHTS AND LIBERTIES OF THE THAI PEOPLE . . . . . . . . . . . . . 9
+CHAPTER IV: DUTIES OF THE THAI PEOPLE . . . . . . . . . . . . . . . . . . . . . . . . 15
+CHAPTER V: DUTIES OF THE STATE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+CHAPTER VI: DIRECTIVE PRINCIPLES OF STATE POLICIES . . . . . . . . . . . . . 19
+CHAPTER VII: THE NATIONAL ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Part 1: General Provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Part 2: The House of Representatives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Part 3: The Senate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Part 4: Provisions Applicable to Both Houses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Part 5: Joint Sittings of the National Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+CHAPTER VIII: THE COUNCIL OF MINISTERS . . . . . . . . . . . . . . . . . . . . . . . 53
+CHAPTER IX: CONFLICT OF INTEREST . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+CHAPTER X: THE COURTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+Part 1: General Provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+Part 2: Courts of Justice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+Part 3: Administrative Courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+Part 4: Military Courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+CHAPTER XI: CONSTITUTIONAL COURT . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+CHAPTER XII: INDEPENDENT ORGANS . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+Part 1: General Provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+Part 2: Election Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+Part 3: Ombudsmen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+Part 4: National Anti-Corruption Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+Part 5: State Audit Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+Part 6: National Human Rights Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+CHAPTER XIII: STATE ATTORNEY ORGAN . . . . . . . . . . . . . . . . . . . . . . . . . 84
+CHAPTER XIV: LOCAL ADMINISTRATION . . . . . . . . . . . . . . . . . . . . . . . . . 85
+CHAPTER XV: AMENDMENT TO THE CONSTITUTION . . . . . . . . . . . . . . . . 87
+CHAPTER XVI: NATIONAL REFORM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 89
+TRANSITORY PROVISIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 94
+
 Thailand 2017
 
 Page 2
@@ -56,15 +90,15 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Referenda human  rights and good  governance. This will in turn drive the country to progressively  develop  to  become  stable,  prosperous  and  sustainable,  politically, economically and socially, under the democratic regime of government with the King as Head of State.
+human rights and good governance. This will in turn drive the country to progressively develop to become stable, prosperous and sustainable, politically, economically and socially, under the democratic regime of government with the King as Head of State.
 
-· Name/structure of executive(s)
+- Reference to fraternity/solidarity
 
-· Type of government envisioned
+Pursuant to the foregoing undertakings, the Constitution Drafting Committee has periodically imparted knowledge and understanding to the people of the principles and rationale of provisions of the Draft Constitution, has provided the people opportunities to widely access to the Draft Constitution and its meaning through different media, and has involved the people in the development of the essence of the Draft Constitution through receiving recommendations on possible revisions. Once the preparation of the Draft Constitution was complete, copies of the Draft Constitution and a brief primer were disseminated in a way which allowed the people to easily and generally understand the main provisions of the Draft Constitution, and a referendum was arranged to approve the entire Draft Constitution. In this regard, the National Legislative Assembly also passed a resolution introducing one additional issue to be put to vote in referendum on the same occasion. The outcome of the referendum was such that people having the right to vote, by a majority of votes of the people voting in the referendum, approved such Draft Constitution and additional issue. The Constitution Drafting Committee accordingly revised the relevant parts of the Draft Constitution to be in accordance with the outcome pertaining to the additional issue of the referendum, and referred the revision to the Constitutional Court for consideration as to whether it is in conformity with the outcome of the referendum. The Constitutional Court thereafter rendered a decision for the Constitution Drafting Committee to partially revise the texts. The Constitution Drafting Committee has made a revision according to the decision of the Constitutional Court. Accordingly, the Prime Minister respectfully presented the Draft Constitution to the King. Thereafter, the Constitution of the Kingdom of Thailand (Interim), B.E. 2557 Amendment (No. 4), B.E. 2560 (2017) provides that the Prime Minister may respectfully ask for the return of that Draft Constitution from the King to make an amendment thereto on certain issues. After the amendment is complete, the Prime Minister thereby respectfully presented the Draft Constitution to the King for signature and subsequent promulgation as the Constitution of the Kingdom of Thailand, and the King deemed it expedient to grant His Royal assent.
 
-Pursuant to the foregoing undertakings, the Constitution Drafting Committee has periodically imparted knowledge and understanding to the people of the principles and  rationale  of  provisions  of  the  Draft  Constitution,  has  provided  the  people opportunities  to  widely  access  to  the  Draft  Constitution  and  its  meaning  through different media, and has involved the people in the development of the essence of the  Draft  Constitution  through  receiving  recommendations  on  possible  revisions. Once the preparation of the Draft Constitution was complete, copies of the Draft Constitution  and  a  brief  primer  were  disseminated  in  a  way  which  allowed  the people  to  easily  and  generally  understand  the  main  provisions  of  the  Draft Constitution, and a referendum was arranged to approve the entire Draft Constitution.  In  this  regard,  the  National  Legislative  Assembly  also  passed  a resolution introducing one additional issue to be put to vote in referendum on the same  occasion.  The  outcome  of  the  referendum  was  such  that  people  having  the right to vote, by a majority of votes of the people voting in the referendum, approved such Draft Constitution and additional issue. The Constitution Drafting Committee accordingly revised the relevant parts of the Draft Constitution to be in accordance with the outcome pertaining to the additional issue of the referendum, and referred the  revision  to  the  Constitutional  Court  for  consideration  as  to  whether  it  is  in conformity with the outcome of the referendum. The Constitutional  Court thereafter rendered a decision for the Constitution Drafting Committee to partially revise the texts. The Constitution Drafting Committee has made a revision according to  the  decision  of  the  Constitutional  Court.  Accordingly,  the  Prime  Minister respectfully presented the Draft Constitution to the King. Thereafter, the Constitution  of  the  Kingdom  of  Thailand  (Interim),  B.E.  2557  Amendment  (No.  4), B.E.  2560  (2017)  provides  that  the  Prime  Minister  may  respectfully  ask  for  the return of that Draft Constitution from the King to make an amendment thereto on certain  issues.  After  the  amendment  is  complete,  the  Prime  Minister  thereby respectfully presented  the  Draft  Constitution  to the King  for  signature  and subsequent promulgation as the Constitution of the Kingdom of Thailand, and the King deemed it expedient to grant His Royal assent.
+- Referenda
 
-Be it,  therefore,  commanded  by  the  King  that  the  Constitution  of  the  Kingdom  of Thailand  be  promulgated  to  replace,  as  from  the  date  of  its  promulgation,  the Constitution of the Kingdom of Thailand (Interim), B.E. 2557 (2014) promulgated on the 22nd July B.E. 2557.
+Be it, therefore, commanded by the King that the Constitution of the Kingdom of Thailand be promulgated to replace, as from the date of its promulgation, the Constitution of the Kingdom of Thailand (Interim), B.E. 2557 (2014) promulgated on the 22nd July B.E. 2557.
 
 May all Thai people unite in observing, protecting and upholding the Constitution of the Kingdom of Thailand in order to maintain the democratic regime of government and the sovereign power derived from the Thai people, and to bring about happiness, prosperity and dignity to His Majesty's subjects throughout the Kingdom according to the will of His Majesty in every respect.
 
@@ -74,7 +108,11 @@ May all Thai people unite in observing, protecting and upholding the Constitutio
 
 Thailand is one and indivisible Kingdom.
 
+- Name/structure of executive(s)
+
 #### Section 2
+
+- Type of government envisioned
 
 Thailand adopts a democratic regime of government with the King as Head of State.
 
@@ -188,7 +226,7 @@ A Privy Councillor shall not be a Member of the House of Representatives, a Sena
 
 Before taking office, a Privy Councillor shall make a solemn declaration before the King in the following words:
 
-'I, (name of the declarer), do solemnly declare that I will be loyal to His Majesty the King and will faithfully perform my duties in the interests of the country and of the people. I will also uphold and observe the Constitution of the Kingdom of Thailand in every respect.'
+“I, (name of the declarer), do solemnly declare that I will be loyal to His Majesty the King and will faithfully perform my duties in the interests of the country and of the people. I will also uphold and observe the Constitution of the Kingdom of Thailand in every respect.”
 
 #### Section 14
 
@@ -236,7 +274,7 @@ While being Regent under paragraph one or acting as Regent under paragraph two, 
 
 Before taking office, the Regent appointed under section 16 or section 17 shall make a solemn declaration before the National Assembly in the following words:
 
-'I, (name of the declarer), do solemnly declare that I will be loyal to His Majesty the King (name of the King) and will faithfully perform my duties in the interests of the State and the people. I will also uphold and observe the Constitution of the Kingdom of Thailand in every respect.'
+“I, (name of the declarer), do solemnly declare that I will be loyal to His Majesty the King (name of the King) and will faithfully perform my duties in the interests of the State and the people. I will also uphold and observe the Constitution of the Kingdom of Thailand in every respect.”
 
 A Regent who has previously been appointed and made the solemn declaration need not make the solemn declaration again.
 
@@ -256,7 +294,9 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Head of state replacement The Amendment to the Palace Law on Succession, B.E. 2467 (1924) shall specifically be the Royal Prerogative of the King. At the initiative of the King, the Privy Council shall prepare the draft Palace Law Amendment to the existing Palace Law and shall present it to the King for His consideration. When the King has already approved the draft Palace Law Amendment and bestowed His signature thereon, the President of the  Privy  Council  shall  notify  the  President  of  the  National  Assembly  who  shall inform  the  National  Assembly.  The  President  of  the  National  Assembly  shall countersign the Royal Command. The Palace Law Amendment shall have force of law upon its publication in the Government Gazette.
+The Amendment to the Palace Law on Succession, B.E. 2467 (1924) shall specifically be the Royal Prerogative of the King. At the initiative of the King, the Privy Council shall prepare the draft Palace Law Amendment to the existing Palace Law and shall present it to the King for His consideration. When the King has already approved the draft Palace Law Amendment and bestowed His signature thereon, the President of the Privy Council shall notify the President of the National Assembly who shall inform the National Assembly. The President of the National Assembly shall countersign the Royal Command. The Palace Law Amendment shall have force of law upon its publication in the Government Gazette.
+
+- Head of state replacement
 
 #### Section 21
 
@@ -498,8 +538,6 @@ PDF generated: 29 Jan 2019, 23:15
 
 - Protection from expropriation
 
-·
-
 - Right to own property
 
 - Right to transfer property
@@ -508,7 +546,7 @@ PDF generated: 29 Jan 2019, 23:15
 
 - Ownership of natural resources
 
-· Freedom of movement A  State  official  who  performs  mass  media  duties  shall  enjoy  the  liberties  under paragraph one, provided that the purposes and missions of the agency to which he or she is attached shall also be taken into consideration.
+A State official who performs mass media duties shall enjoy the liberties under paragraph one, provided that the purposes and missions of the agency to which he or she is attached shall also be taken into consideration.
 
 #### Section 36
 
@@ -531,6 +569,8 @@ An immovable  property expropriation law shall specify the purpose of the exprop
 The  time  period  for  requesting  return  of  expropriated  immovable  property  which has not been used, or of the remaining immovable property, to the original owner or his or her heir, as well as the return thereof and the reclaiming of the compensation paid, shall be as provided by law.
 
 The enactment of an immovable property expropriation law which specifically set out immovable  properties  or owners  of immovable  property  subject  to  the expropriation as necessary, shall not be deemed contrary to section 26 paragraph two.
+
+- Freedom of movement
 
 #### Section 38
 
@@ -802,13 +842,15 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Right to health care international  standards  as  provided  by  law  on  national  education  which  shall,  at least, contain provisions relating to national education plan, and implementation and inspection to ensure the compliance with the national education plan.
+international standards as provided by law on national education which shall, at least, contain provisions relating to national education plan, and implementation and inspection to ensure the compliance with the national education plan.
 
 All  education  shall  aim  to  develop  learners  to  be  good,  disciplined,  proud  in  the Nation, skillful in their own aptitudes and responsible for family, community, society and the country.
 
 In  undertaking  to  provide  young  children  to  receive  care  and  development  under paragraph two or to provide people the education under paragraph three, the State shall undertake to provide persons with insufficient means with financial support for educational expenses in accordance with their aptitudes.
 
 A  fund  shall  be  established  for  the  purpose  of  assisting  persons  with  insufficient means, reducing the educational disparity and promoting and improving the quality and efficiency of teachers for which the State shall allocate budget to such fund or use taxation measures or mechanisms, including providing a tax reduction to persons who donate properties into the fund, as provided by the law; such law shall, at least, prescribe that the management of the fund shall be independent and the fund shall be disbursed to implement such purpose.
+
+- Right to health care
 
 #### Section 55
 
@@ -902,7 +944,9 @@ PDF generated: 29 Jan 2019, 23:15
 
 · Protection of consumers
 
-· Protection of consumers The  State  shall  establish  a  State  organisation  which  is  independent  in  performing duties to be responsible and supervise the undertakings in relation to transmission frequencies under paragraph two. In this regard, such organisation shall ensure that there are measures to prevent against unfair consumer exploitation or imposition of unnecessary  burden  on  consumers,  to  prevent  the  interference  of  transmission frequencies, as well as to prevent an act which results in obstructing the liberty of the people to know or preventing the people from knowing true and accurate data or information,  and  to  prevent  any  person  or  any  group  of  person  from  utilising  the transmission frequencies without considering the rights of general public. This shall include  the  prescription  of  a  minimum  proportion  to  be  undertaken,  for  public interest, by a person utilising the transmission frequencies as provided by law.
+The State shall establish a State organisation which is independent in performing duties to be responsible and supervise the undertakings in relation to transmission frequencies under paragraph two. In this regard, such organisation shall ensure that there are measures to prevent against unfair consumer exploitation or imposition of unnecessary burden on consumers, to prevent the interference of transmission frequencies, as well as to prevent an act which results in obstructing the liberty of the people to know or preventing the people from knowing true and accurate data or information, and to prevent any person or any group of person from utilising the transmission frequencies without considering the rights of general public. This shall include the prescription of a minimum proportion to be undertaken, for public interest, by a person utilising the transmission frequencies as provided by law.
+
+- Protection of consumers
 
 #### Section 61
 
@@ -1060,7 +1104,7 @@ Right to reasonable standard of living
 
 Right to establish a business
 
-· Civil service recruitment land for making a living through land reform or any other means.
+land for making a living through land reform or any other means.
 
 #### Section 74
 
@@ -1082,7 +1126,9 @@ In developing the country, the State should have due regard to the balance betwe
 
 The  State  should  develop  a  system  of  administration  of  State  affairs  of  central, regional and local administrations, as well as other State affairs in accordance with the  principles  of  good  public  governance,  provided  that  State  agencies  shall cooperate with and assist each other in performing duties, with a view to maximising, for  the  benefit  of  the  people,  the  efficiency  of  the  administration  of  State  affairs, provision of public services and expenditure of budget.
 
-The State should also develop State officials to have integrity and to have an attitude of serving the public in an expedient, expeditious and non-discriminatory manner as well  as  performing  duties  efficiently.  The  State  should  undertake  to  enact  a  law relating  to  personnel  management  of  State  agencies  in  accordance  with  the  merit system, provided that such law must at least contain measures to prevent any person from  exercising  powers  or  acting  wrongfully  to  intervene  or  interfere  with  the performance  of  duties  or  the  procedure  for  appointment  or  consideration  of  the merits of State officials.
+- Civil service recruitment
+
+The State should also develop State officials to have integrity and to have an attitude of serving the public in an expedient, expeditious and non-discriminatory manner as well as performing duties efficiently. The State should undertake to enact a law relating to personnel management of State agencies in accordance with the merit system, provided that such law must at least contain measures to prevent any person from exercising powers or acting wrongfully to intervene or interfere with the performance of duties or the procedure for appointment or consideration of the merits of State officials.
 
 The State should formulate ethical standards for State agencies to use as the basis for  prescribing  a  code  of  ethics  for  State  officials  in  that  particular  agency,  which must not be lower than such ethical standards.
 
@@ -1146,11 +1192,9 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Organic laws Assembly in his or her place.
+Assembly in his or her place.
 
-· Constitutional court powers · Removal of individual legislators
-
-In  the  period where the President of the Senate has to act as the President of the National Assembly under paragraph two but there is no President of the Senate, and where  such  a  case  occurs  when  there  is  no  House  of  Representatives,  the Vice-President of the Senate shall act as the President of the National Assembly. If there is no Vice-President of the Senate, the Senator who is the oldest at the time shall act as the President of the National Assembly, and the President of the Senate shall expeditiously be elected.
+In the period where the President of the Senate has to act as the President of the National Assembly under paragraph two but there is no President of the Senate, and where such a case occurs when there is no House of Representatives, the Vice-President of the Senate shall act as the President of the National Assembly. If there is no Vice-President of the Senate, the Senator who is the oldest at the time shall act as the President of the National Assembly, and the President of the Senate shall expeditiously be elected.
 
 The  President  of  the  National  Assembly  shall  have  the  duties  and  powers  in accordance with the Constitution and shall conduct the proceedings of the National Assembly at joint sittings in accordance with the rules of procedure.
 
@@ -1158,11 +1202,15 @@ The President of the National Assembly and the person who acts as President of t
 
 The  Vice-President  of  the  National  Assembly  shall  have  the  duties  and  powers  in accordance with the Constitution and as entrusted by the President of the National Assembly.
 
+- Organic laws
+
 #### Section 81
 
 An organic law bill and a bill may be enacted as law only by and with the advice and consent of the National Assembly.
 
 Subject to section 145, after an organic law bill and a bill have been approved by the National Assembly, the Prime Minister shall present it to the King for signature, and it shall come into force upon publication in the Government Gazette.
+
+- Constitutional court powers · Removal of individual legislators
 
 #### Section 82
 
@@ -1232,15 +1280,17 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· First chamber selection
+The  Election Commission  shall  announce  the  results  of  the  election  after  a preliminary examination has been made and there are reasonable grounds to believe that  the  result  of  the  election  is  honest  and  just,  and  amounts  to  not  less  than ninety-five  percent  of  all  constituencies.  The  Election  Commission  shall  make  a preliminary examination and shall announce the result of the election expeditiously; the announcement shall be not later than sixty days from the date of election. Such announcement of the result shall not prejudice the duties and powers of the Election Commission  to  investigate,  deliberate  or  decide  on  a  case  where  there  are reasonable grounds to believe that wrongdoing has been committed in the election, or  that  the  election  was  not  honestly  and  justly  conducted,  whether  or  not  the results of the election have been announced.
 
-· Census The  Election Commission  shall  announce  the  results  of  the  election  after  a preliminary examination has been made and there are reasonable grounds to believe that  the  result  of  the  election  is  honest  and  just,  and  amounts  to  not  less  than ninety-five  percent  of  all  constituencies.  The  Election  Commission  shall  make  a preliminary examination and shall announce the result of the election expeditiously; the announcement shall be not later than sixty days from the date of election. Such announcement of the result shall not prejudice the duties and powers of the Election Commission  to  investigate,  deliberate  or  decide  on  a  case  where  there  are reasonable grounds to believe that wrongdoing has been committed in the election, or  that  the  election  was  not  honestly  and  justly  conducted,  whether  or  not  the results of the election have been announced.
+· First chamber selection
 
 #### Section 86
 
 The prescription of the number of Members of the House of Representatives which each Changwat shall have, and the division of constituency shall be in accordance with the following procedure:
 
 - the total number of inhabitants throughout the country as evidenced in the census last announced in the year prior to the year of election, averaged by the number  of  three hundred  and  fifty  Members  of  the  House  of Representatives  shall  be  deemed  the  number  of  inhabitants  per  one member;
+
+· Census
 
 - any Changwat with inhabitants below the number of inhabitants per one member under (1) shall have one Member of the House of Representatives, and the area of that Changwat shall be regarded as the constituency;
 
@@ -1338,10 +1388,6 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-- Restrictions on voting
-
-- Requirements for naturalization
-
 #### Section 92
 
 In a constituency which does not have any candidate for election who has received more  votes  than  the  number  of  votes  cast  in  favour  of  no  candidate  in  that constituency, a new election shall be held, and the votes which each candidate for election  has  received  shall  not  be  used  in  the  calculation  under  section  91.  In  this case, the Election Commission shall proceed to accept applications for candidacy for the  new  election,  and  all  former  candidates  for  election  shall  not  have  a  right  to reapply for candidacy in the new election which will be held.
@@ -1358,11 +1404,15 @@ Within one year after the date of the election that is a general election, if th
 
 The election of a Member of the House of Representatives to fill the vacancy for any reason after one year has lapsed as from the date of the general election shall not prejudice the calculation of the number  of the  Members  of  the  House  of Representatives distributed to each political party under section 91.
 
+- Restrictions on voting
+
 #### Section 95
 
 A person having the following qualifications has the right to vote at an election:
 
 - being  of  Thai  nationality,  provided  that  a  person  who  has  acquired  Thai nationality by naturalisation must hold the Thai nationality for not less than five years;
+
+- Requirements for naturalization
 
 - being not less than eighteen years of age on the election day;
 
@@ -1382,17 +1432,13 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-Compulsory voting
-
-- Restrictions on voting
-
-- Eligibility for first chamber
-
-Minimum age for first chamber
-
 constituency at the place, and according to the date, time, procedures and conditions prescribed  by  the  Organic  Act  on  the  Election  of  the  Members  of  the  House  of Representatives.
 
 A  voter  who  fails  to  vote  without  notification  of  a  reasonable  cause  under  the Organic Act on the Election of Members of the House of Representatives may be subject to a restriction of certain rights as provided by law.
+
+Compulsory voting
+
+- Restrictions on voting
 
 #### Section 96
 
@@ -1406,6 +1452,8 @@ A  person  under  any  of  the  following  prohibitions  on  the  election  day 
 
 - being of unsound mind or of mental infirmity.
 
+- Eligibility for first chamber
+
 #### Section 97
 
 A person having the following qualifications has the right to stand for an election of Members of the House of Representatives:
@@ -1413,6 +1461,8 @@ A person having the following qualifications has the right to stand for an elect
 - being of Thai nationality by birth;
 
 - being not less than twenty-five years of age up to the date of the election;
+
+Minimum age for first chamber
 
 - being a member of any and only one political party for a consecutive period of not less than ninety days up to the date of the election; however, in the case where the general election is conducted due to the dissolution of the House  of  Representatives,  the  period  of  ninety  days  shall  be  reduced  to thirty days;
 
@@ -1436,11 +1486,11 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
+- having  served  in  the  official  service  or  performed  duties  in  a  State agency, or having had his or her name appear in the household register in the Changwat where he or she stands for election, as the case may be, for a consecutive period of not less than five years.
+
 - Eligibility for const court judges
 
 - Eligibility for first chamber
-
-- having  served  in  the  official  service  or  performed  duties  in  a  State agency, or having had his or her name appear in the household register in the Changwat where he or she stands for election, as the case may be, for a consecutive period of not less than five years.
 
 #### Section 98
 
@@ -1476,35 +1526,29 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-Outside professions of legislators
-
-Outside professions of legislators
-
-Outside professions of legislators
-
-Outside professions of legislators
-
-Outside professions of legislators
-
-Term length for first chamber
-
-Restrictions on political parties
-
-- Removal of individual legislators
-
 - having been convicted by a final judgement for committing: a malfeasance in public office or in judicial office; an offence under the law  on wrongdoings  of  officials  in  a  State  organisation  or  agency;  an  offence against property committed in bad faith under the Penal Code; an offence under  the  law  on  the  borrowing  of  money  amounting  to  public  fraud;  an offence of being a producer, importer, exporter or seller under the law on narcotics;  an  offence  of  being  a  banker  or  a  proprietor  under  the  law  on gambling; an offence under the law on the prevention and suppression of human  trafficking;  or  an  offence  of  money  laundering  the  law  on  the prevention and suppression of money laundering;
 
 - having been sentenced by a final judgement for committing a dishonest act in an election;
 
 - being  a  government  official  holding  a  permanent  position  or  receiving permanent salary except a political official;
 
+Outside professions of legislators
+
 - being a member of a local assembly or a local administrator;
+
+Outside professions of legislators
 
 - being a Senator  or  having  been  a  Senator  whose  membership  has terminated for less than two years;
 
+Outside professions of legislators
+
 - being an official or an employee of a government agency, State agency, or State enterprise or other State official;
 
+Outside professions of legislators
+
 - being  a  judge  of  the  Constitutional  Court,  or  holding  a  position  in  an Independent Organ;
+
+Outside professions of legislators
 
 - being currently under the prohibition from holding a political position;
 
@@ -1514,11 +1558,17 @@ Restrictions on political parties
 
 The term of the House of Representatives is four years from the election day.
 
+Term length for first chamber
+
 During  the  term  of  the  House  of  Representatives,  there  shall  be  no  mergers  of political parties having members as Members of the House of Representatives.
+
+Restrictions on political parties
 
 #### Section 100
 
 Membership of the House of Representatives commences on the election day.
+
+- Removal of individual legislators
 
 #### Section 101
 
@@ -1540,10 +1590,6 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Attendance by legislators
-
-· Scheduling of elections
-
 - resignation;
 
 - vacation of office under section 93;
@@ -1564,7 +1610,11 @@ PDF generated: 29 Jan 2019, 23:15
 
 - having been absent for more than one-fourth of the number of days in a session  lasting  not  less  than  one  hundred  and  twenty  days  without permission of the President of the House of Representatives;
 
+· Attendance by legislators
+
 - being sentenced by a final judgement to imprisonment notwithstanding the suspension of sentence, except for an offence committed through negligence, a petty offence or a defamation offence.
+
+· Scheduling of elections
 
 #### Section 102
 
@@ -1586,8 +1636,6 @@ PDF generated: 29 Jan 2019, 23:15
 
 · Dismissal of the legislature
 
-· Replacement of legislators
-
 #### Section 103
 
 The King has the Royal Prerogative to dissolve the House of Representatives for a new general election of Members of the House of Representatives.
@@ -1599,6 +1647,8 @@ Within five days from the date the Royal Decree under paragraph one comes into f
 #### Section 104
 
 In  the  case  where  there  is  an  unavoidable  necessity  constituting  a  cause  for  an inability to hold an election from taking place on the date specified by notification by the Election Commission under section 102 or section 103, the Election Commission may specify a new date for election, provided that the election must be held within thirty  days as from the date such necessity ends. However, for the purpose of the calculation  of  the  term  under  section  95  (2)  and  section  97  (2),  the  date  shall  be counted up to the election date prescribed by section 102 or section 103, as the case may be.
+
+· Replacement of legislators
 
 #### Section 105
 
@@ -1624,14 +1674,6 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-- Eligibility for second chamber
-
-- Second chamber selection
-
-Size of second chamber
-
-Replacement of legislators
-
 #### Section 106
 
 After the Council of Ministers has assumed the administration of State affairs, the King will appoint as the Leader of the Opposition in the House of Representatives the Member of the House of Representatives who is the leader of a political party in the House of Representatives with the largest number of members with no members holding  the  office  of  Minister,  President  of  the  House  of  Representatives,  or  the Vice-President of the House of Representatives.
@@ -1644,11 +1686,19 @@ The  Leader  of  the  Opposition  in  the  House  of  Representatives  shall  va
 
 ### Part 3: The Senate
 
+- Eligibility for second chamber
+
+- Second chamber selection
+
 #### Section 107
 
 The  Senate  consists  of  two  hundred  members  installed  from  a  selection  by  and among persons having the knowledge, expertise, experience, profession, or characteristics or common interests or working or having worked in varied areas of the society.
 
+Size of second chamber
+
 The division of groups shall be made in a way which enables every person having the right  to  apply  for  selection  to  belong  to  any  one  group.  The  division  of  groups, number of groups, and qualifications of a person in each group, the application and acceptance of application, the rules and procedures for selection among themselves, the acceptance of the selection, the number of Senators selected from each group, the listing of reserve candidates, the elevation of persons from the reserve list to fill the  vacancy,  and  any  other  measures  necessary  to  enable  the  selection  among themselves to proceed honestly and justly, shall be in accordance with the Organic Act on Installation of Senators. For the purpose of enabling such selection to proceed honestly and justly, it may be prescribed that a candidate from each group shall be prohibited from selecting another candidate from the same group, or that candidates for  selection  are  screened  by  any  other  mean  in  which  the  candidates  may participate.
+
+Replacement of legislators
 
 The  undertakings  under  paragraph  two  shall  be  carried  out  from  the  level  of  an Amphoe, and the level of a Changwat, to the national level, so that a Senator is a representative of the Thai people at the national level.
 
@@ -1666,21 +1716,9 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Eligibility for second chamber
-
-· Minimum age for second chamber
-
-- Outside professions of legislators
-
-- Outside professions of legislators
-
-- Outside professions of legislators
-
-- Eligibility for cabinet
-
-- Outside professions of legislators
-
 The selection of Senators shall be made in the form of a Royal Decree, and within five days from the date the Royal Decree comes into force, the Election Commission shall prescribe the date of commencement of the selection which shall be no later than thirty days as from the date such Royal Decree comes into force. Such prescription shall  be  published  in  the  Government  Gazette,  and  the  provisions  of  section  104 shall apply mutatis mutandis.
+
+· Eligibility for second chamber
 
 #### Section 108
 
@@ -1692,6 +1730,8 @@ A Senator shall have the qualifications and not be under any of the prohibitions
 
 - being  not  less  than  forty  years  of  age  on  the  date  of  application  for selection;
 
+· Minimum age for second chamber
+
 - having knowledge, expertise and experience, or having worked for not less than ten years in the field for which he or she applies, or having the qualifications under the rules and conditions prescribed in the Organic Act on Installation of Senators;
 
 - being  born,  having  his  or  her  name  listed  in  the  household  register, having worked or having a connection to the area in which he or she applies  for  selection  in  accordance  with  the  rules  and  conditions prescribed in the Organic Act on Installation of Senators;
@@ -1702,13 +1742,23 @@ A Senator shall have the qualifications and not be under any of the prohibitions
 
 - being a government official;
 
+- Outside professions of legislators
+
 - being  or  having  been  a  Member  of  the  House  of  Representatives, except for a person who has vacated office as a Member of the House of  Representatives  for  a  period  of  not  less  than  five  years  up  to  the date of application for selection;
+
+- Outside professions of legislators
 
 - being a member of a political party;
 
 - being or having been a person holding any position in a political party, except for a person who has vacated the position in a political party for a  period  of  not  less  than  five  years  up  to  the  date  of  application  for selection;
 
+- Outside professions of legislators
+
 - being or having been a Minister, except for a person who has vacated office  for  a  period  of  not  less  than  five  years  up  to  the  date  of application for selection;
+
+- Eligibility for cabinet
+
+- Outside professions of legislators
 
 Thailand 2017
 
@@ -1722,15 +1772,9 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Outside professions of legislators
-
-- Term length of second chamber
-
-· Removal of individual legislators
-
-- Attendance by legislators
-
 - being  or  having  been  a  member  of  a  local  assembly  or  a  local administrator, except for a person who has vacated office as a member of a local assembly or a local administrator for a period of not less than five years up to the date of application for selection;
+
+· Outside professions of legislators
 
 - being  an  ascendant,  spouse  or  child  of  a  Member  of  the  House  of Representatives,  a  Senator,  a  political  official,  a  member  of  a  local assembly or a local administrator, a candidate for selection to become a  Senator  for  the  same  session,  or  a  person  holding  office  in  the Constitutional Court or in an Independent Organ;
 
@@ -1740,6 +1784,8 @@ PDF generated: 29 Jan 2019, 23:15
 
 The  term  of  the  Senate  is  five  years  from  the  date  the  result  of  the  selection  is announced.
 
+- Term length of second chamber
+
 Membership  of  the Senate commences  on  the  date on which the Election Commission announces the result of the selection.
 
 Upon  expiration  of  the  term  of  the  Senate,  the  Senators  shall  remain  in  office  to perform duties until there are new Senators.
@@ -1747,6 +1793,8 @@ Upon  expiration  of  the  term  of  the  Senate,  the  Senators  shall  remain 
 #### Section 110
 
 Upon expiration of the term of the Senate, there shall be a selection of new Senators under section 107 paragraph five.
+
+· Removal of individual legislators
 
 #### Section 111
 
@@ -1761,6 +1809,8 @@ Membership of the Senate terminates upon:
 - being disqualified or being under any of the prohibitions under section 108;
 
 - having been absent for more than one-fourth of the number of days in a session the length of which is not less than one hundred and twenty days without permission of the President of the Senate;
+
+- Attendance by legislators
 
 - being sentenced by a final judgment to imprisonment, notwithstanding the suspension  of  the  sentence,  except  for  an  offence  committed  through negligence, a petty offence or a defamation offence;
 
@@ -1778,12 +1828,6 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-- Oaths to abide by constitution
-
-- Leader of first chamber
-
-- Leader of second chamber
-
 - vacating office on the grounds under section 144 or section 235 paragraph three.
 
 #### Section 112
@@ -1800,11 +1844,16 @@ A Senator shall not align with or yield to the mandate of any political party.
 
 Members of the House of Representatives and Senators are representatives of the Thai people and free from any mandate, commitment, or control. They shall perform duties  honestly  for  the  common  interest  of  the  Nation  and  the  happiness  of  Thai people as a whole, without conflict of interest.
 
+- Oaths to abide by constitution
+
 #### Section 115
 
 Before taking office, a Member of the House of Representatives and a Senator shall make a solemn declaration at a sitting of the House of which he or she is a member in the following words:
 
-'I,  (name  of  the  declarer),  do  solemnly  declare  that  I  will  perform  my  duties  in accordance with the honest dictates of my conscience for the common interest of the Thai people. I will also uphold and observe the Constitution of the Kingdom of Thailand in every respect.'
+“I,  (name  of  the  declarer),  do  solemnly  declare  that  I  will  perform  my  duties  in accordance with the honest dictates of my conscience for the common interest of the Thai people. I will also uphold and observe the Constitution of the Kingdom of Thailand in every respect.”
+- Leader of first chamber
+
+- Leader of second chamber
 
 #### Section 116
 
@@ -1830,12 +1879,6 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Quorum for legislative sessions
-
-· Publication of deliberations
-
-· Length of legislative sessions
-
 #### Section 118
 
 The  President  and  the  Vice-Presidents  of  the  House  of  Representatives  and  the President and the Vice-Presidents of the Senate vacate office before the expiration of the term of office under section 117 upon:
@@ -1860,13 +1903,19 @@ When  the  President  and  Vice-Presidents  of  the  House  of  Representatives 
 
 At a sitting of the House of Representatives or the Senate, the presence of not less than one-half of the total number of existing members of each House is required to constitute  a  quorum,  except  in  cases  of  considering  the  agenda  on  interpellation, where  the  House  of  Representatives  or  the  Senate  may  otherwise  prescribe  a quorum in the rules of procedure.
 
+· Quorum for legislative sessions
+
 A resolution on any consultation issue shall be made by a majority of votes, unless it is otherwise provided in this Constitution.
 
 In  casting  a  vote,  each  member  has  one  vote.  In  case  of  an  equality  of  votes,  the presiding member shall have an additional vote as a casting vote.
 
 The minutes of sittings and records of each member's voting shall be disclosed to the general public, except for the case of a sitting in camera or voting by secret ballot.
 
+· Publication of deliberations
+
 The casting of votes to elect or give approval to a person for holding office shall be made by secret ballot, unless it is otherwise provided in this Constitution.
+
+· Length of legislative sessions
 
 #### Section 121
 
@@ -1884,24 +1933,6 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-Extraordinary legislative sessions
-
-Extraordinary legislative sessions
-
-- Extraordinary legislative sessions
-
-- Head of government immunity
-
-·
-
-- Immunity of legislators
-
-Radio
-
-Telecommunications
-
-Television
-
 Assembly shall be convoked for the first sitting of its members.
 
 Each year, there shall  be  two  ordinary  sessions  of  the  National  Assembly.  Each  of them  shall  last  one  hundred  and  twenty  days  but  the  King  may  prolong  this  time period.
@@ -1918,7 +1949,13 @@ The King may be present to perform the opening State ceremony of the first annua
 
 When  it  is  necessary  for  the  interests  of  the  State,  the  King  may  convoke  an extraordinary session of the National Assembly.
 
+Extraordinary legislative sessions
+
 Subject to section 123 and section 126, the convocation, the prolongation and the prorogation  of  the  session  of  the  National  Assembly  shall  be  made  by  a  Royal Decree.
+
+Extraordinary legislative sessions
+
+- Extraordinary legislative sessions
 
 #### Section 123
 
@@ -1926,11 +1963,21 @@ Members of both Houses or Members of the House of Representatives comprising not
 
 The President of the National Assembly shall report to the King and countersign the Royal Command.
 
+- Head of government immunity
+
+- Immunity of legislators
+
 #### Section 124
 
 At a sitting of the House of Representatives or the Senate or at a joint sitting of the National Assembly, words expressed in giving statements of fact or opinions or in casting the votes by any member are absolutely privileged. No charge or action in any manner whatsoever shall be brought against such member.
 
 The  privilege  under  paragraph  one  does  not  extend  to  a  member  who  expresses words at a sitting which is broadcast through radio or television or any other mean if such words appear out of the precinct of the National Assembly and the expression of  such  words  constitutes  a  criminal  offence  or  a  wrongful  act  against  any  other person who is not a Minister or member of that House.
+
+Radio
+
+Telecommunications
+
+Television
 
 In the case of paragraph two, if the words expressed by the member cause damage to another person who is not a Minister or member of that House, the President of that House  shall  cause  explanations  to  be  published  as  requested  by  that  person  in accordance with procedures and within such period of time prescribed in the rules of procedure of that House, without prejudice to the right of such person to bring the
 
@@ -1946,11 +1993,11 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Immunity of legislators
-
-· Extraordinary legislative sessions case before the Court.
+case before the Court.
 
 The  privilege  provided  in  this  section  extends  to  printers  and  publishers  of  the minutes  of  sittings  in  accordance  with  the  rules  of  procedure  of  the  House  of Representatives, the Senate or the National Assembly, as the case may be, and to persons permitted by the presiding member to give statements of fact or opinions at such  sitting  as  well  as  to  persons  who  broadcasts  the  sitting  through  radio  or television or any other mean with the permission of the President of the such House mutatis mutandis.
+
+· Immunity of legislators
 
 #### Section 125
 
@@ -1961,6 +2008,8 @@ In the case where a Member of the House of Representatives or a Senator has been
 If a Member of the House of Representatives or a Senator is detained during inquiry or trial before the beginning of a session, when the session begins, the inquiry officer or  the  Court,  as  the  case  may  be,  must  order  his  or  her  release  as  soon  as  the President  of  the  House  of  which  he  or  she  is  a  member  has  so  requested.  In  this regard, the Court may order their release on bail or on bail and bond.
 
 In  the  case  where  a  criminal  charge  is  brought  against  a  Member  of  the  House  or Representatives or a Senator, whether the House is in session or not, the Court may try the case during the session, provided that the trial shall not hinder such member from attending the sitting of the House.
+
+· Extraordinary legislative sessions
 
 #### Section 126
 
@@ -1988,19 +2037,19 @@ PDF generated: 29 Jan 2019, 23:15
 
 · Public or private sessions
 
-· Legislative committees
-
-· Legislative committees
-
 #### Section 127
 
 A sitting of the House of Representatives and of the Senate and a joint sitting of the National Assembly shall be public as prescribed by the rules of procedure of each House. However, the Council of Ministers or members comprising not less than one fourth of the total number of existing members of each House or of both houses, as the case may be, may request for a meeting in camera.
+
+· Legislative committees
 
 #### Section 128
 
 The  House  of  Representatives  and  the  Senate  have  the  power  to  enact  rules  of procedure  governing  the  election  and  performance  of  duties  of  the  President, Vice-Presidents, matters or activities which are within the duties and powers of each standing  committee,  performance  and  quorum  of  committees,  sittings,  submission and consideration of organic law bills and bills, submission of motions, consultation, debate,  passing  of  a  resolution,  recording  and  disclosure  of  the  passing  of  a resolution,  interpellation,  general  debate,  observation  of  the  rules  and  orders  and other relevant matters, as well as the power to enact rules of procedure regarding the code of ethics of members and committee members and other matters for the implementation of the Constitution.
 
 The rules of procedure under paragraph one in the part concerning the appointment of  an  ad  hoc  committee  for  the  consideration  of  bills  the  substance  of  which  is decided by the President of the House of Representatives to concern with children, youths, women, the elderly, the disabled or handicapped, shall stipulate that such ad hoc committee consists of the said types of persons or representatives from private organisations  concerned  directly  with  the  respective  types  of  persons,  of  at  least one-third of the total number of the ad hoc committee members.
+
+· Legislative committees
 
 #### Section 129
 
@@ -2025,12 +2074,6 @@ Page 42
 constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
-
-- Organic laws
-
-· Constitutional court powers
-
-· Supreme court powers
 
 provide facts, submit documents or give opinions as summoned by the committee.
 
@@ -2066,11 +2109,17 @@ There shall be the following organic acts:
 
 - Organic Act on Human Rights Commission.
 
+- Organic laws
+
 #### Section 131
 
 An organic law bill may be introduced only by:
 
 - the Council of Ministers upon the recommendation of the Supreme Court, the Constitutional Court or a relevant Independent Organ;
+
+· Constitutional court powers
+
+· Supreme court powers
 
 - Members  of  the  House  of  Representatives  comprising  not  less  than  one tenth of the total number of existing Members  of the House of Representatives.
 
@@ -2092,16 +2141,6 @@ PDF generated: 29 Jan 2019, 23:15
 
 - Organic laws
 
-- Division of labor between chambers · Initiation of general legislation
-
-- Legislative initiatives by citizens
-
-- Finance bills
-
-· Spending bills
-
-- Tax bills
-
 #### Section 132
 
 Unless stipulated as follows, an organic law bill shall be enacted in the same manner as an Act:
@@ -2111,6 +2150,8 @@ Unless stipulated as follows, an organic law bill shall be enacted in the same m
 - Within fifteen days as from the date of its approval of the organic law bill, the  National  Assembly  shall  refer  such  organic  law  bill  to  the  Supreme Court, the Constitutional  Court,  or  relevant  Independent  Organ  for opinions. In the case where the Supreme Court, the Constitutional Court, or the relevant Independent Organ has no objection within ten days as from the  date  of  receipt  of  such  bill,  the  National  Assembly  shall  take  further proceedings;
 
 - In  the  case  where  the  Supreme  Court,  the  Constitutional  Court  or  the relevant Independent Organ is of the opinion that provisions of the organic law bill approved by the National Assembly are contrary to or inconsistent with  the  Constitution  or  result  in  an  inability  to  duly  comply  with  the provisions  of  the  Constitution,  such  opinion  shall  be  referred  to  the National Assembly, and a joint sitting of the National Assembly shall be held for  consideration  of  such  opinion,  which  shall  be  completed  within  thirty days as from the date of receipt of such opinion. In this regard, the National Assembly shall have the power to amend the said organic law bill according to the recommendation of the Supreme Court, the Constitutional Court or the relevant Independent Organ as it deems appropriate. Upon completion, the National Assembly shall take further proceedings.
+
+- Division of labor between chambers · Initiation of general legislation
 
 #### Section 133
 
@@ -2122,7 +2163,15 @@ A bill shall be first submitted to the House of Representatives and may be intro
 
 - persons having the right to vote of not less than ten thousand in number who  submit  a  petition  to  introduce  a  bill  under  Chapter  III  Rights  and Liberties  of  the  Thai  People  or  Chapter  V  Duties  of  the  State  and  in accordance with the law on the public submission of a bill.
 
+- Legislative initiatives by citizens
+
 If  a  bill  introduced by persons under (2) or (3) is a money bill, it may be introduced only with the endorsement of the Prime Minister.
+
+- Finance bills
+
+· Spending bills
+
+- Tax bills
 
 Thailand 2017
 
@@ -2136,35 +2185,27 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-Tax bills
-
-Spending bills
-
-Finance bills
-
-Legislative committees
-
-· Division of labor between chambers
-
-· Finance bills
-
-· Spending bills
-
-· Tax bills
-
 #### Section 134
 
 A money bill means a bill with provisions dealing with any of the following matters:
 
 - the  imposition,  repeal,  reduction,  alteration,  modification,  remission,  or regulation of taxes or duties;
 
+Tax bills
+
 - the  allocation,  receipt,  custody,  or  payment  of  State  funds,  or  transfer  of expenditure estimates of the State;
 
+Spending bills
+
 - the  raising  of  loans,  guarantee,  redemption  of  loans,  or  any  act  binding State properties;
+
+Finance bills
 
 - currency.
 
 In case of doubt as to whether a bill is a money bill, it shall be the power of a joint sitting  of  the  President  of  the  House  of  Representatives  and  Presidents  of  all  its standing committees to make a decision thereon.
+
+Legislative committees
 
 The President of the House of Representatives shall hold a joint sitting to consider the case under paragraph two within fifteen days as from the date such case occurs.
 
@@ -2175,6 +2216,14 @@ The resolution of the joint sitting under paragraph two shall be decided by a ma
 For  any  bill  introduced  by  Members  of  the  House  of  Representatives  or  persons having the right to vote which, at the stage of the adoption of its principle, was not a money  bill  but  was  then  amended  by  the  House  of  Representatives  and,  in  the opinion  of  the  President  of  the  House  or  at  the  objection  of  the  Members  of  the House of Representatives made to him or her, such amendment has rendered it to exhibit the characteristic of a money  bill, the President of the House of Representatives shall order the suspension of its consideration for further proceedings under section 134 paragraph two, paragraph three and paragraph four.
 
 If the joint sitting under paragraph one decides that the amendment resulted in such bill  exhibiting  the  characteristic  of  a  money  bill,  the  President  of  the  House  of Representatives  shall  refer  it  to  the  Prime  Minister  for  endorsement.  In  the  case where the Prime Minister does not endorse it, the House of Representatives shall amend it so as to prevent it from being a money bill.
+
+· Division of labor between chambers
+
+· Finance bills
+
+· Spending bills
+
+· Tax bills
 
 #### Section 136
 
@@ -2194,9 +2243,11 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Division of labor between chambers If  the  Senate has not completed its consideration of the bill within the time period referred to in paragraph one, it shall be deemed that the Senate has approved it.
+If  the  Senate has not completed its consideration of the bill within the time period referred to in paragraph one, it shall be deemed that the Senate has approved it.
 
 In the case where the House of Representatives submits a money bill to the Senate, the President of the House of Representatives shall also advise the Senate that the bill  so  submitted  is  a  money  bill.  The  advice  of  the  President  of  the  House  of Representatives shall be deemed final. In the case where the President of the House of Representatives does not advise the Senate that the bill is a money bill, such bill shall not be deemed a money bill.
+
+· Division of labor between chambers
 
 #### Section 137
 
@@ -2234,11 +2285,7 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Budget bills
-
-· Budget bills
-
-· Budget bills been approved by the National Assembly and further proceedings under section 81 shall be taken.
+been approved by the National Assembly and further proceedings under section 81 shall be taken.
 
 Subject to section 143 paragraph four, if the bill withheld is a money bill, the period of one hundred and eighty days under paragraph one shall be decreased to ten days.
 
@@ -2256,11 +2303,17 @@ The  payment  of  State  funds  shall  be  made  only  by  the  authority  of  t
 
 The expenditure estimates of the State shall be made in the form of an Act. If the Annual Appropriations Act for the following fiscal year is not enacted in time, the law on annual appropriations for the preceding fiscal year shall apply for the time being.
 
+· Budget bills
+
 The State shall allocate adequate budgets for the independent performance of duties of  the  National  Assembly,  the  Courts,  the  Independent  Organs  and  the  State Attorney Organ in accordance with the rules prescribed by the law on financial and fiscal discipline of the State. In the case where the National Assembly, the Court, the Independent Organ or the State Attorney Organ is of the opinion that the allocated budgets  may  not  be  adequate  for  the  performance  of  its  duties,  it  may  directly submit a motion to the committee.
+
+· Budget bills
 
 #### Section 142
 
 The introduction of an annual appropriations bill must show the sources of revenues and estimated revenues, expected outcome or output from payments,  and conformity with the National Strategy and development plans, in accordance with rules prescribed in the law on financial and fiscal discipline of the State.
+
+· Budget bills
 
 #### Section 143
 
@@ -2278,19 +2331,7 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Budget bills Representatives.
-
-· Legislative committees
-
-· Removal of individual legislators
-
-· Cabinet removal
-
-· Constitutional court powers
-
-· Head of government removal
-
-· Removal of individual legislators
+Representatives.
 
 If  the  House  of  Representatives  does  not  complete  the  consideration  of  the  bill within the time period referred to in paragraph one, such bill shall be deemed to have been  approved  by  the  House  of  Representatives  and  shall  be  submitted  to  the Senate for consideration.
 
@@ -2299,6 +2340,8 @@ In the consideration by the Senate, the Senate must approve or disapprove it wit
 If the Senate disapproves the bill, the provisions of section 138 paragraph two shall apply mutatis mutandis. In this regard, the House of Representatives shall forthwith reconsider the bill.
 
 The time period referred to in paragraph one and paragraph three shall not include the  time  period  for  consideration  by  the  Constitutional  Court  under  section  144 paragraph three.
+
+· Budget bills
 
 #### Section 144
 
@@ -2312,7 +2355,19 @@ In the consideration of an annual appropriations bill, supplementary appropriati
 
 In  consideration by the House of Representatives, the Senate or a committee, any proposal, submission of a motion or commission of any act, which results in direct or indirect  involvement  by  Members  of  the  House  of  Representatives,  Senators  or members of a committee in the use of the appropriations, shall not be permitted.
 
+· Legislative committees
+
+· Removal of individual legislators
+
 In the case where Members of the House of Representatives or Senators comprising not less than one-tenth of the total number of existing members of each House are of the  opinion  that  a  violation  of  the  provisions  of  paragraph  two  has  occurred,  they shall refer the opinion to the Constitutional Court for decision, and the Constitutional Court shall complete the decision within fifteen days as from the date of receipt of such opinion. In the case where the Constitutional Court decides that a violation of the provisions of paragraph two has occurred, such proposal, submission of motion, or commission of the act shall be ineffective. If the person who commits such violation is a Member of the House of Representatives or a Senator, his or her membership shall be terminated as from the date the Constitutional Court renders the decision. The right of such person to stand for election shall also be revoked. In the  case  where  the  Council  of  Ministers  commits  or  approves  the  commission  of such action, or is aware of the action but fails to order its cessation, the Council of Ministers  shall  vacate  office  en  masse  as  from  the  date  the  Constitutional  Court renders  the  decision,  and  the  right  to  stand  for  election  of  the  ministers  whose offices are vacated shall also be revoked unless he or she can prove that he or she was not present in the meeting at the time of passing the resolution. The person who commits the violation shall be liable for restitution with interest.
+
+· Cabinet removal
+
+· Constitutional court powers
+
+· Head of government removal
+
+· Removal of individual legislators
 
 Thailand 2017
 
@@ -2326,19 +2381,19 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-- Approval of general legislation
-
-- Veto override procedure
-
 In  regard  to  any  State  official  who  operates  a  project  or  authorises  or  allocates budget with the knowledge that a violation  of  the  provisions  of  paragraph  one  or paragraph two is committed, if he or she has recorded his or her objection in writing or has informed the National Anti-Corruption Commission in writing, he or she shall be exempted from any liability.
 
 A  claim  for  restitution  under  paragraph  three  and  paragraph  four  may  be  made within twenty years as from the date the budget is allocated.
 
 In the case where the National Anti-Corruption Commission is informed according to  paragraph  four,  it  shall  forthwith  conduct  a  secret  investigation.  If  it  is  of  the opinion  that  there  is  a  prima  facie  case,  an  opinion  shall  be  submitted  to  the Constitutional  Court  for  further  proceedings  under  paragraph  three.  In  any  case whatsoever, the National Anti-Corruption Commission, the Constitutional Court or any other person shall not disclose information about the informant.
 
+- Approval of general legislation
+
 #### Section 145
 
 The Prime Minister shall hold a bill already approved by the National Assembly for five days as from the date of its receipt from the National Assembly. If there is no need for proceedings under section 148, the Prime Minister shall present the bill to the King within twenty days as from the date such period lapses.
+
+- Veto override procedure
 
 #### Section 146
 
@@ -2366,8 +2421,6 @@ PDF generated: 29 Jan 2019, 23:15
 
 - Constitutionality of legislation
 
-· Legislative oversight of the executive
-
 #### Section 148
 
 Before the Prime Minister presents any bill to the King for signature under section 81,
@@ -2385,6 +2438,8 @@ If the Constitutional Court decides that the provisions of such bill are contrar
 #### Section 149
 
 The  provisions  of  section  148  shall  apply  mutatis  mutandis  to  draft  rules  of procedure of the House of Representatives, draft rules of procedure of the Senate and  draft  rules  of  procedure  of  the  National  Assembly  which  have  already  been approved by the House of Representatives, the Senate or the National Assembly, as the case may be, before their publication in the Government Gazette.
+
+· Legislative oversight of the executive
 
 #### Section 150
 
@@ -2446,15 +2501,13 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-- Joint meetings of legislative chambers
-
-· Power to declare/approve war
-
 #### Section 155
 
-In the case where there is an important issue concerned with the security, safety or economy  of  the  country  in  regards  to  which  there  should  be  a  joint  consultation between  the  National  Assembly  and  the  Council  of  Ministers,  the  Leader  of  the Opposition in the House of Representatives may give a notice to the President of the National  Assembly  requesting  that  a  general  debate  be  held  at  a  sitting  of  the National Assembly. In such case, the President of the National Assembly must hold the  sitting  within  fifteen  days  as  from  the  date  the  notice  is  received  but  no resolution shall be passed by the National Assembly on the issue put in the debate.
+In the case where there is an important issue concerned with the security, safety or economy of the country in regards to which there should be a joint consultation between the National Assembly and the Council of Ministers, the Leader of the Opposition in the House of Representatives may give a notice to the President of the National Assembly requesting that a general debate be held at a sitting of the National Assembly. In such case, the President of the National Assembly must hold the sitting within fifteen days as from the date the notice is received but no resolution shall be passed by the National Assembly on the issue put in the debate.
 
-The sitting  under  paragraph one shall be in camera and it shall be the duty of the Council of Ministers to attend such sitting.
+The sitting under paragraph one shall be in camera and it shall be the duty of the Council of Ministers to attend such sitting.
+
+- Joint meetings of legislative chambers
 
 ### Part 5: Joint Sittings of the National Assembly
 
@@ -2464,7 +2517,7 @@ The National Assembly shall hold a joint sitting in the following cases:
 
 - the approval of the appointment of the Regent under section 17;
 
-- the  making  of  a  solemn  declaration  by  the  Regent  before  the  National Assembly under section 19;
+- the making of a solemn declaration by the Regent before the National Assembly under section 19;
 
 - the acknowledgement of an amendment to the Palace Law on Succession, B.E. 2467 (1924) under section 20;
 
@@ -2482,11 +2535,13 @@ The National Assembly shall hold a joint sitting in the following cases:
 
 - the holding of a general debate under section 155 and section 165;
 
-- the  making  of  the  rules  of  procedure  of  the  National  Assembly  under section 157;
+- the making of the rules of procedure of the National Assembly under section 157;
 
 - the announcement of policies under section 162;
 
 - the approval of the declaration of war under section 177;
+
+· Power to declare/approve war
 
 Thailand 2017
 
@@ -2500,13 +2555,31 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
+- the hearing and approval of a treaty under section 178;
+
 - International law
 
 - Treaty ratification
 
+- the amendment to the Constitution under section 256;
+
 - Constitution amendment procedure
 
+- other cases as provided in the Constitution.
+
+#### Section 157
+
+At a joint sitting of the National Assembly, the rules of procedure of the National Assembly shall apply. While the rules of procedure of the National Assembly have not yet been issued, the rules of procedure of the House of Representatives shall apply mutatis mutandis for the time being.
+
+The provisions applicable to both Houses shall apply mutatis mutandis to the joint sitting of the National Assembly, except that, for the appointment of a committee, the number of committee members appointed from the members of each House must be in proportion to or in close proportion to the number of members of each House.
+
+## CHAPTER VIII: THE COUNCIL OF MINISTERS
+
 - Establishment of cabinet/ministers
+
+#### Section 158
+
+The King appoints the Prime Minister and not more than thirty five other Ministers to constitute the Council of Ministers having the duties to carry out the administration of the State affairs in accordance with the principle of collective responsibility.
 
 - Cabinet selection
 
@@ -2514,7 +2587,13 @@ PDF generated: 29 Jan 2019, 23:15
 
 - Head of government selection
 
+The Prime Minister must be appointed from a person who is approved by the House of Representatives under section 159.
+
 - Head of government selection
+
+The President of the House of Representatives shall countersign the Royal Command appointing the Prime Minister.
+
+The Prime Minister shall not hold office for more than eight years in total, whether or not holding consecutive term. However, it shall not include the period during which the Prime Minister carries out duties after vacating office.
 
 - Head of government term length
 
@@ -2522,37 +2601,13 @@ PDF generated: 29 Jan 2019, 23:15
 
 - Head of government selection
 
-- Eligibility for head of government
-
-- the hearing and approval of a treaty under section 178;
-
-- the amendment to the Constitution under section 256;
-
-- other cases as provided in the Constitution.
-
-#### Section 157
-
-At  a  joint  sitting  of  the  National  Assembly,  the  rules  of  procedure  of  the  National Assembly shall apply. While the rules of procedure of the National Assembly have not  yet  been  issued,  the  rules  of  procedure  of  the  House  of  Representatives  shall apply mutatis mutandis for the time being.
-
-The provisions applicable to both Houses shall apply mutatis mutandis to the joint sitting of the National Assembly, except that, for the appointment of a committee, the  number  of  committee  members  appointed  from  the  members  of  each  House must be in proportion to or in close proportion to the number of members of each House.
-
-## CHAPTER VIII: THE COUNCIL OF MINISTERS
-
-#### Section 158
-
-The King appoints the Prime Minister and not more than thirty five other Ministers to constitute the Council of Ministers having the duties to carry out the administration  of  the  State  affairs  in  accordance  with  the  principle  of  collective responsibility.
-
-The Prime Minister must be appointed from a person who is approved by the House of Representatives under section 159.
-
-The  President of the House  of  Representatives  shall countersign  the  Royal Command appointing the Prime Minister.
-
-The Prime Minister shall not hold office for more than eight years in total, whether or  not  holding  consecutive  term.  However,  it  shall  not  include  the  period  during which the Prime Minister carries out duties after vacating office.
-
 #### Section 159
 
-The House of Representatives shall complete its consideration for approval of the person  suitable  to  be  appointed  as  Prime  Minister  from  a  person  who  has  the qualifications  and  is  not  under  any  of  the  prohibitions  under  section  160,  and  is  a person listed  by  a  political  party  under  section  88,  only  with  respect  to  the  list  of names  of  political  parties  whose  members  have  been  elected  as  Members  of  the House of Representatives constituting not less than five per cent of the total number of existing Members of the House of Representatives.
+The House of Representatives shall complete its consideration for approval of the person suitable to be appointed as Prime Minister from a person who has the qualifications and is not under any of the prohibitions under section 160, and is a person listed by a political party under section 88, only with respect to the list of names of political parties whose members have been elected as Members of the House of Representatives constituting not less than five per cent of the total number of existing Members of the House of Representatives.
 
-The nomination under paragraph one shall be endorsed by members comprising not less  than  one-tenth  of  the  total  number  of  the  existing  Members  of  the  House  of Representatives.
+- Eligibility for head of government
+
+The nomination under paragraph one shall be endorsed by members comprising not less than one-tenth of the total number of the existing Members of the House of Representatives.
 
 Thailand 2017
 
@@ -2566,13 +2621,11 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
+The resolution of the House of Representatives approving the appointment of a person as Prime Minister shall be passed by open votes and by the votes of more than one half of the total number of the existing Members of the House of Representatives.
+
 - Eligibility for cabinet
 
 - Eligibility for head of government
-
-- Minimum age of head of government
-
-· Oaths to abide by constitution The  resolution  of  the  House  of  Representatives  approving  the  appointment  of  a person as Prime Minister shall be passed by open votes and by the votes of more than  one  half  of  the  total  number  of  the  existing  Members  of  the  House  of Representatives.
 
 #### Section 160
 
@@ -2582,6 +2635,8 @@ A Minister must:
 
 - be not less than thirty-five years of age;
 
+- Minimum age of head of government
+
 - have graduated with not lower than a Bachelor's degree or its equivalent;
 
 - be of evident integrity;
@@ -2590,15 +2645,17 @@ A Minister must:
 
 - not be under any of the prohibitions under section 98;
 
-- not be a person sentenced by a judgment to imprisonment, irrespective of the  finality  of  the  case  or  a  suspension  of  the  punishment,  except  for  an offence  committed  through  negligence,  a  petty  offence  or  a  defamation offence;
+- not be a person sentenced by a judgment to imprisonment, irrespective of the finality of the case or a suspension of the punishment, except for an offence committed through negligence, a petty offence or a defamation offence;
 
-- not  be  a  person  whose  office  has  been  vacated  on  the  grounds  of committing  any  prohibited  act  under  section  186  or  section  187,  for  a period of less than two years up to the date of appointment.
+- not be a person whose office has been vacated on the grounds of committing any prohibited act under section 186 or section 187, for a period of less than two years up to the date of appointment.
+
+· Oaths to abide by constitution
 
 #### Section 161
 
 Before taking office, a Minister must make a solemn declaration before the King in the following words:
 
-'I, (name of the declarer), do solemnly declare that I will be loyal to the King and will faithfully perform my duties in the interests of the country and of the people. I will also  uphold  and  observe  the  Constitution  of  the  Kingdom  of  Thailand  in  every respect.'
+“I, (name of the declarer), do solemnly declare that I will be loyal to the King and will faithfully perform my duties in the interests of the country and of the people. I will also uphold and observe the Constitution of the Kingdom of Thailand in every respect.”
 
 In  the  case  where  the  King  has  commanded  the  Council  of  Ministers  to  perform duties before making a solemn declaration, such Council of Ministers may proceed in accordance with section 162 paragraph two. In this case, the Council of Ministers under section 168 (1) shall be discharged from the performance of duties from the date of such command.
 
@@ -2616,43 +2673,43 @@ PDF generated: 29 Jan 2019, 23:15
 
 · Establishment of cabinet/ministers
 
-· Head of government immunity
-
-- Duty to obey the constitution
-
-Reference to fraternity/solidarity
-
-Cabinet removal
-
-- Joint meetings of legislative chambers
-
 #### Section 162
 
-The Council of Ministers which will assume the administration of the State affairs must,  within  fifteen  days  as  from  the  date  it  takes  office,  states  its  policies  to  the National Assembly, which must be consistent with the duties of the State, directive principles  of  State  policies  and  National  Strategy,  and  declares  the  sources  of incomes which will be expended in the implementation of the policies, with respect to which no vote of confidence shall be passed.
+The Council of Ministers which will assume the administration of the State affairs must, within fifteen days as from the date it takes office, states its policies to the National Assembly, which must be consistent with the duties of the State, directive principles of State policies and National Strategy, and declares the sources of incomes which will be expended in the implementation of the policies, with respect to which no vote of confidence shall be passed.
 
-Before  stating  policies  to  the  National  Assembly  under  paragraph  one,  if  there occurs a case of importance and necessary urgency which, if left delayed, will affect vital interests of the State, the Council of Ministers which has taken office may, for the time being, perform such acts in so far as it is necessary.
+Before stating policies to the National Assembly under paragraph one, if there occurs a case of importance and necessary urgency which, if left delayed, will affect vital interests of the State, the Council of Ministers which has taken office may, for the time being, perform such acts in so far as it is necessary.
+
+· Head of government immunity
 
 #### Section 163
 
-A Minister has the right to attend and give statements of fact or opinions at a sitting of the House but has no right to vote, except in the case of voting in the House of Representatives where such Minister is also a Member  of the House of Representatives. The privileges provided in section 124 shall apply mutatis mutandis.
+A Minister has the right to attend and give statements of fact or opinions at a sitting of the House but has no right to vote, except in the case of voting in the House of Representatives where such Minister is also a Member of the House of Representatives. The privileges provided in section 124 shall apply mutatis mutandis.
+
+- Duty to obey the constitution
 
 #### Section 164
 
-The  Council  of  Ministers  shall  administer  State  affairs  in  accordance  with  the provisions of the Constitution, laws and the policies stated to the National Assembly, and shall also act in accordance with the following rules:
+The Council of Ministers shall administer State affairs in accordance with the provisions of the Constitution, laws and the policies stated to the National Assembly, and shall also act in accordance with the following rules:
 
-- to  perform  duties  and  exercise  powers  with  honesty,  in  good  faith,  with dedication,  openness  and  thoroughness  and  cautiousness  in  carrying  out various  acts  for  the  greatest  benefit  of  the  country  and  the  public  in common;
+- to perform duties and exercise powers with honesty, in good faith, with dedication, openness and thoroughness and cautiousness in carrying out various acts for the greatest benefit of the country and the public in common;
 
-- to  strictly  observe  disciplines  of  the  activities  pertaining  to  State  funds under the law on financial and fiscal disciplines of the State;
+- to strictly observe disciplines of the activities pertaining to State funds under the law on financial and fiscal disciplines of the State;
 
 - to uphold and comply with good public governance principles;
 
 - to encourage all sectors of society to co-exist with fairness, happiness, unity and solidarity;
 
-Ministers  shall  be  individually  responsible  to  the  House  of  Representatives  for matters under their duties and powers, and shall also be collectively responsible to the  National  Assembly  for  the  determination  of  policies  and  implementation  of policies of the Council of Ministers
+Reference to fraternity/solidarity
+
+Ministers shall be individually responsible to the House of Representatives for matters under their duties and powers, and shall also be collectively responsible to the National Assembly for the determination of policies and implementation of policies of the Council of Ministers
+
+Cabinet removal
+
+- Joint meetings of legislative chambers
 
 #### Section 165
 
-In the case where there is an important problem in the administration of the State affairs  in  regard  to  which  the  Council  of  Ministers  deems  it  advisable  to  take  the opinions  of  Members  of  the  House  of  Representatives  and  Senators,  the  Prime Minister may submit a notice to the President of the National Assembly requesting that a general debate be held at a joint sitting of the National Assembly. In such case, no  resolution  shall  be  passed  by  the  National  Assembly  on  the  issue  put  in  the debate.
+In the case where there is an important problem in the administration of the State affairs in regard to which the Council of Ministers deems it advisable to take the opinions of Members of the House of Representatives and Senators, the Prime Minister may submit a notice to the President of the National Assembly requesting that a general debate be held at a joint sitting of the National Assembly. In such case, no resolution shall be passed by the National Assembly on the issue put in the debate.
 
 Thailand 2017
 
@@ -2668,15 +2725,13 @@ PDF generated: 29 Jan 2019, 23:15
 
 · Referenda
 
+#### Section 166
+
+In the case where there are reasonable grounds, the Council of Ministers may call for a referendum on any matter which is not an issue contrary to or inconsistent with the Constitution or an issue relating to any individual or group of persons as provided by law.
+
 - Cabinet removal
 
 - Head of government removal
-
-· Head of government replacement
-
-#### Section 166
-
-In the case where there are reasonable grounds, the Council of Ministers may call for a  referendum on any matter which is not an issue contrary to or inconsistent with the  Constitution  or  an  issue  relating  to  any  individual  or  group  of  persons  as provided by law.
 
 #### Section 167
 
@@ -2691,6 +2746,8 @@ Ministers vacate office en masse upon:
 - the vacation of office on the grounds of section 144
 
 When Ministers vacate office en masse under (1), (3) or (4), proceedings for a new Council of Ministers under section 158 and section 159 shall be taken.
+
+· Head of government replacement
 
 #### Section 168
 
@@ -2714,23 +2771,23 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
+#### Section 169
+
+The outgoing Council of Ministers under section 167 (2) having to continue to perform duties under section 168 shall perform duties subject to the following conditions:
+
+- refraining from acts which result in giving approval to works or projects or which creates an obligation on the subsequent Council of Ministers, except as already determined in the annual appropriation;
+
+- refraining from the appointment or transfer of government officials holding permanent positions or receiving permanent salaries, or officials of State agency, State enterprise, or undertaking in which the State is a major shareholder, or discharging such person from the performance of duties or removal of such person from office, or instructing another person to perform duties in lieu of such person, except by prior approval of the Election Commission;
+
+- refraining from acts which result in giving approval to the expenditure of budget reserved for an emergency or exigency, except by prior approval of the Election Commission;
+
+- refraining from the utilisation of State resources or State personnel for performing acts which may have an effect on an election, and refraining from the violation of any prohibitions under the rules prescribed by the Election Commission.
+
 · Cabinet removal
 
 · Constitutional court powers
 
 · Head of government removal
-
-#### Section 169
-
-The  outgoing  Council  of  Ministers  under  section  167  (2)  having  to  continue  to perform  duties  under  section  168  shall  perform  duties  subject  to  the  following conditions:
-
-- refraining from acts which result in giving approval to works or projects or which creates an obligation on the subsequent Council of Ministers, except as already determined in the annual appropriation;
-
-- refraining from the appointment or transfer of government officials holding permanent positions or receiving permanent salaries, or officials  of  State agency,  State  enterprise,  or  undertaking  in  which  the  State  is  a  major shareholder, or discharging such person from the performance of duties or removal  of  such  person  from  office,  or  instructing  another  person  to perform  duties  in  lieu  of  such  person,  except  by  prior  approval  of  the Election Commission;
-
-- refraining from acts which result in giving approval to the expenditure of budget reserved for an emergency or exigency, except by prior approval of the Election Commission;
-
-- refraining  from  the  utilisation  of  State  resources  or  State  personnel  for performing  acts  which  may  have  an  effect  on  an  election,  and  refraining from  the  violation  of  any  prohibitions  under  the  rules  prescribed  by  the Election Commission.
 
 #### Section 170
 
@@ -2766,11 +2823,31 @@ PDF generated: 29 Jan 2019, 23:15
 
 · Cabinet removal
 
+#### Section 171
+
+The King has the Royal Prerogative to remove a Minister from his or her office upon the advice of the Prime Minister.
+
 - Emergency provisions
 
 - Head of state decree power
 
+#### Section 172
+
+For the purpose of maintaining national or public safety or national economic security, or averting public calamity, the King may issue an Emergency Decree which shall have force as an Act.
+
+The issuance of an Emergency Decree under paragraph one shall be made only when the Council of Ministers is of the opinion that it is an emergency of necessity and urgency which is unavoidable.
+
+In the subsequent sitting of the National Assembly, the Council of Ministers shall submit the Emergency Decree to the National Assembly for its consideration without delay. If it is out of session and it would be a delay to wait for the opening of an ordinary session, the Council of Ministers must proceed to convoke an extraordinary session of the National Assembly in order to expeditiously consider whether to approve or disapprove the Emergency Decree. If the House of Representatives disapproves it or approves it but the Senate disapproves it and the House of Representatives reaffirms its approval by the votes of not more than one-half of the total number of the existing Members of the House of Representatives, the Emergency Decree shall lapse, prescribed that it shall not affect any act done during the enforcement of such Emergency Decree.
+
 - Extraordinary legislative sessions
+
+If the Emergency Decree under paragraph one has the effect of amending or repealing any provisions of any law and such Emergency Decree has lapsed in accordance with paragraph three, the provisions of the law in force before the amendment or repeal shall continue to be in force as from the day the disapproval of such Emergency Decree is effective.
+
+If the House of Representatives and the Senate approve the Emergency Decree, or if the Senate disapproves it but the House of Representatives reaffirms its approval by the votes of more than one-half of the total number of the existing Members of the House of Representatives, such Emergency Decree shall continue to have the force of an Act.
+
+The Prime Minister shall cause the approval or disapproval of the Emergency Decree to be published in the Government Gazette. In case of disapproval, it shall be effective as from the day following the date of its publication in the Government Gazette.
+
+The consideration of an Emergency Decree by the House of Representatives and the Senate and reaffirmation of an approval of an Emergency Decree must take place at the first opportunity in the sittings of the respective Houses.
 
 · Constitutional court powers
 
@@ -2780,29 +2857,9 @@ PDF generated: 29 Jan 2019, 23:15
 
 - Constitutional interpretation
 
-#### Section 171
-
-The King has the Royal Prerogative to remove a Minister from his or her office upon the advice of the Prime Minister.
-
-#### Section 172
-
-For  the  purpose  of  maintaining  national  or  public  safety  or  national  economic security, or averting public calamity, the King may issue an Emergency Decree which shall have force as an Act.
-
-The issuance of an Emergency Decree under paragraph one shall be made only when the  Council  of  Ministers  is  of  the  opinion  that  it  is  an  emergency  of  necessity  and urgency which is unavoidable.
-
-In  the  subsequent  sitting  of  the  National  Assembly,  the  Council  of  Ministers  shall submit  the  Emergency  Decree  to  the  National  Assembly  for  its  consideration without delay. If it is out of session and it would be a delay to wait for the opening of an ordinary session, the Council of Ministers  must  proceed  to  convoke  an extraordinary session of the National Assembly in order to expeditiously consider whether  to  approve  or  disapprove  the  Emergency  Decree.  If  the  House  of Representatives disapproves it or approves it but the Senate disapproves it and the House  of  Representatives  reaffirms  its  approval  by  the  votes  of  not  more  than one-half of the total number of the existing Members of the House of Representatives, the Emergency Decree shall lapse, prescribed that it shall not affect any act done during the enforcement of such Emergency Decree.
-
-If  the  Emergency  Decree  under  paragraph  one  has  the  effect  of  amending  or repealing  any  provisions  of  any  law  and  such  Emergency  Decree  has  lapsed  in accordance  with  paragraph  three,  the  provisions  of  the  law  in  force  before  the amendment or repeal shall continue to be in force as from the day the disapproval of such Emergency Decree is effective.
-
-If the House of Representatives and the Senate approve the Emergency Decree, or if the Senate disapproves it but the House of Representatives reaffirms its approval by the votes of more than one-half of the total number of the existing Members of the House of Representatives, such Emergency Decree shall continue to have the force of an Act.
-
-The Prime Minister shall cause the approval or disapproval of the Emergency Decree to  be  published  in  the  Government  Gazette.  In  case  of  disapproval,  it  shall  be effective  as  from  the  day  following  the  date  of  its  publication  in  the  Government Gazette.
-
-The consideration of an Emergency Decree by the House of Representatives and the Senate and reaffirmation of an approval of an Emergency Decree must take place at the first opportunity in the sittings of the respective Houses.
-
 #### Section 173
 
-Before  the  House  of  Representatives  or  the  Senate  approves  any  Emergency Decree, Members of the House of Representatives or Senators comprising not less than one-fifth of the total number of the existing members of each House have the right to submit an opinion to the President of the House of which they are members that the Emergency Decree is not in accordance with section 172 paragraph one, and the President of such House shall, within three days as from the date of receipt of such opinion, refer it to the Constitutional Court for decision. The consideration of such  Emergency  Decree  shall  be  deferred  until  the  decision  of  the  Constitutional Court has been notified.
+Before the House of Representatives or the Senate approves any Emergency Decree, Members of the House of Representatives or Senators comprising not less than one-fifth of the total number of the existing members of each House have the right to submit an opinion to the President of the House of which they are members that the Emergency Decree is not in accordance with section 172 paragraph one, and the President of such House shall, within three days as from the date of receipt of such opinion, refer it to the Constitutional Court for decision. The consideration of such Emergency Decree shall be deferred until the decision of the Constitutional Court has been notified.
 
 Thailand 2017
 
@@ -2816,13 +2873,41 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
+The Constitutional Court shall have the decision within sixty days as from the date of receipt of such matter, and the Constitutional Court shall notify such decision to the President of the House referring such opinion.
+
+In the case where the Constitutional Court decides that any Emergency Decree is not in accordance with section 172 paragraph one, such Emergency Decree shall not have the force of law ab initio.
+
+The decision of the Constitutional Court that any Emergency Decree is not in accordance with section 172 paragraph one, must be made by the votes of not less than two thirds of the total number of the existing members of judges of the Constitutional Court.
+
 · Head of state decree power
+
+#### Section 174
+
+In the case where it is necessary to have a law on taxes, duties or currency, which, in the interests of the State, requires urgent and confidential consideration, the King may issue an Emergency Decree which shall have force as an Act.
+
+The provisions of section 172 paragraph three, paragraph four, paragraph five, paragraph six and paragraph seven shall apply mutatis mutandis to an Emergency Decree issued in accordance with the provisions of paragraph one. However, if the Emergency Decree is issued during a session, it shall be submitted to the House of Representatives within three days as from the day following the date of its publication in the Government Gazette.
 
 - Head of state decree power
 
+#### Section 175
+
+The King has the Royal Prerogative to issue a Royal Decree which is not contrary to the law.
+
 - Emergency provisions
 
+#### Section 176
+
+The King has the Royal Prerogative to declare and lift martial law.
+
+In the case where it is necessary to declare martial law in a certain locality as a matter of urgency, the military authority may do so under the law on martial law.
+
 - Power to declare/approve war
+
+#### Section 177
+
+The King has the Royal Prerogative to declare war with the approval of the National Assembly.
+
+The resolution of approval by the National Assembly must be passed by the votes of not less than two-thirds of the total number of the existing members of both Houses.
 
 - Constitutional court powers
 
@@ -2832,39 +2917,11 @@ PDF generated: 29 Jan 2019, 23:15
 
 - Treaty ratification
 
-The Constitutional Court shall have the decision within sixty days as from the date of receipt of such matter, and the Constitutional Court shall notify such decision to the President of the House referring such opinion.
-
-In  the  case  where  the  Constitutional  Court  decides  that  any  Emergency Decree is not in accordance with section 172 paragraph one, such Emergency Decree shall not have the force of law ab initio.
-
-The  decision  of  the  Constitutional  Court  that  any  Emergency  Decree  is  not  in accordance with section 172 paragraph one, must be made by the votes of not less than  two  thirds  of  the  total  number  of  the  existing  members  of  judges  of  the Constitutional Court.
-
-#### Section 174
-
-In the case where it is necessary to have a law on taxes, duties or currency, which, in the interests of the State, requires urgent and confidential consideration, the King may issue an Emergency Decree which shall have force as an Act.
-
-The  provisions  of  section  172  paragraph  three,  paragraph  four,  paragraph  five, paragraph six and paragraph seven shall apply mutatis mutandis to an Emergency Decree issued in accordance with the provisions of paragraph one. However, if the Emergency Decree is issued during a session, it shall be submitted to the House of Representatives  within  three  days  as  from  the  day  following  the  date  of  its publication in the Government Gazette.
-
-#### Section 175
-
-The King has the Royal Prerogative to issue a Royal Decree which is not contrary to the law.
-
-#### Section 176
-
-The King has the Royal Prerogative to declare and lift martial law.
-
-In  the  case  where  it  is  necessary  to  declare  martial  law  in  a  certain  locality  as  a matter of urgency, the military authority may do so under the law on martial law.
-
-#### Section 177
-
-The King has the Royal Prerogative to declare war with the approval of the National Assembly.
-
-The resolution of approval by the National Assembly must be passed by the votes of not less than two-thirds of the total number of the existing members of both Houses.
-
 #### Section 178
 
 The King has the Royal Prerogative to conclude a peace treaty, armistice, and other treaties with other countries or international organisations.
 
-Any treaty which provides for a change in Thai territories or external territories over which Thailand has sovereign right or jurisdiction under a treaty or international law, or  which  requires  the  enactment  of  an  Act  for  implementation,  and  other  treaties which may have wide scale effects on the security of economy, society, or trade or investment  of  the  country  must  be  approved  by  the  National  Assembly.  In  this regard, the National Assembly shall complete its consideration within sixty days as from the date of receipt of such matter. If the National Assembly does not complete the  consideration within such period of time, it shall be deemed that the National
+Any treaty which provides for a change in Thai territories or external territories over which Thailand has sovereign right or jurisdiction under a treaty or international law, or which requires the enactment of an Act for implementation, and other treaties which may have wide scale effects on the security of economy, society, or trade or investment of the country must be approved by the National Assembly. In this regard, the National Assembly shall complete its consideration within sixty days as from the date of receipt of such matter. If the National Assembly does not complete the consideration within such period of time, it shall be deemed that the National
 
 Thailand 2017
 
@@ -2878,33 +2935,37 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
+Assembly has given approval.
+
+- Accession of territory
+
+- Colonies
+
+Other treaties which may have wide scale effects on the security of economy, society, or trade or investment of the country under paragraph two are treaties pertaining to free trade, common customs union, or the authorization of natural resources utilisation, or which cause the country to lose rights over natural resources, in whole or in part, or on any other treaties provided by law.
+
 · Ownership of natural resources
 
+There shall also be a law prescribing procedures for the public to participate in the expression of opinions and to obtain necessary remedy from the effects of conclusion of a treaty under paragraph three.
+
+Where a question arises as to whether any treaty constitutes a case under paragraph two or paragraph three, the Council of Ministers may request the Constitutional Court to render a decision thereon. The Constitutional Court shall complete its decision within thirty days as from the date of receipt of such request.
+
 - Power to pardon
-
-· Selection of active-duty commanders
-
-- Powers of cabinet
-
-· Compensation of legislators Assembly has given approval.
-
-Other  treaties  which  may  have  wide  scale  effects  on  the  security  of  economy, society,  or  trade  or  investment  of  the  country  under  paragraph  two  are  treaties pertaining  to  free  trade,  common  customs  union,  or  the  authorization  of  natural resources  utilisation,  or  which  cause  the  country  to  lose  rights  over  natural resources, in whole or in part, or on any other treaties provided by law.
-
-There shall also be a law prescribing procedures for the public to participate in the expression  of  opinions  and  to  obtain  necessary  remedy  from  the  effects  of conclusion of a treaty under paragraph three.
-
-Where a question arises as to whether any treaty constitutes a case under paragraph two  or  paragraph  three,  the  Council  of  Ministers  may  request  the  Constitutional Court  to  render  a  decision  thereon.  The  Constitutional  Court  shall  complete  its decision within thirty days as from the date of receipt of such request.
 
 #### Section 179
 
 The King has the Royal Prerogative to grant a pardon.
 
+· Selection of active-duty commanders
+
 #### Section 180
 
-The King appoints and removes officials in the military service and civil service who hold the positions of Permanent Secretary, Director-General and their equivalents, except  in  the  case  of  vacation  of  office  upon  death,  retirement  or  removal  from government service due to a punishment.
+The King appoints and removes officials in the military service and civil service who hold the positions of Permanent Secretary, Director-General and their equivalents, except in the case of vacation of office upon death, retirement or removal from government service due to a punishment.
 
 #### Section 181
 
 A government official and a State official holding a permanent position or receiving a permanent salary and not being a political official shall not be a political official or hold other political positions.
+
+- Powers of cabinet
 
 #### Section 182
 
@@ -2914,7 +2975,9 @@ All laws, Royal Rescripts and Royal Commands relating to the State affairs must 
 
 Emoluments and other remuneration of Privy Councillors, President and Vice-Presidents of the House of Representatives, President and Vice-Presidents of the Senate, Leader of the Opposition in the House of Representatives, Members of the House of Representatives and Senators shall be prescribed by Royal Decree.
 
-Gratuities,  pensions  or  other  remuneration  of  Privy  Councillors  who  vacate  their office shall be prescribed by Royal Decree.
+· Compensation of legislators
+
+Gratuities, pensions or other remuneration of Privy Councillors who vacate their office shall be prescribed by Royal Decree.
 
 Thailand 2017
 
@@ -2928,33 +2991,33 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Outside professions of legislators
-
-· Legislative committees
-
 ## CHAPTER IX: CONFLICT OF INTEREST
+
+· Outside professions of legislators
 
 #### Section 184
 
 A Member of the House of Representatives and Senator shall not:
 
-- hold any position or have any duty in a government agency, State agency or State  enterprise,  or  hold  a  position  of  a  member  of  a  local  assembly  or  a local administrator;
+- hold any position or have any duty in a government agency, State agency or State enterprise, or hold a position of a member of a local assembly or a local administrator;
 
-- receive or interfere or intervene in the acquisition of any concession from the  State,  a  government  agency,  State  agency  or  State  enterprise,  or become a party to a contract of the nature of monopoly or exclusivity with the  State,  a  government  agency,  State  agency  or  State  enterprise,  or become  a  partner  or  shareholder  in  a  partnership  or  company  receiving such concession or becoming a party to a contract of such nature, whether directly or indirectly;
+- receive or interfere or intervene in the acquisition of any concession from the State, a government agency, State agency or State enterprise, or become a party to a contract of the nature of monopoly or exclusivity with the State, a government agency, State agency or State enterprise, or become a partner or shareholder in a partnership or company receiving such concession or becoming a party to a contract of such nature, whether directly or indirectly;
 
-- receive  any  special  money  or  benefit  from  a  government  agency,  State agency  or  State  enterprise  apart  from  that  given  by  the  government agency, State agency or State enterprise to other persons in the ordinary course of business;
+- receive any special money or benefit from a government agency, State agency or State enterprise apart from that given by the government agency, State agency or State enterprise to other persons in the ordinary course of business;
 
-- directly  or  indirectly  perform  any  act  which  amounts  to  a  wrongful obstruction  of  or  interference  with  the  exercise  of  rights  or  liberties  of newspapers or mass media.
+- directly or indirectly perform any act which amounts to a wrongful obstruction of or interference with the exercise of rights or liberties of newspapers or mass media.
 
-This  section  shall  not  apply  in  the  case  where  a  Member  of  the  House  of Representatives  or  a Senator  receives military pensions, gratuities,  pensions, annuities for royalty or any other form of payment of the same nature, and shall not apply  in  the  case  where  a  Member  of  the  House  of  Representatives  or  a  Senator accepts or holds a position of a committee Member of the National Assembly, the House of Representatives or the Senate, or a committee member appointed in the course  of  the  administration  of  State  affairs  related  to  parliamentary  affairs,  or  a committee member specifically provided by law.
+This section shall not apply in the case where a Member of the House of Representatives or a Senator receives military pensions, gratuities, pensions, annuities for royalty or any other form of payment of the same nature, and shall not apply in the case where a Member of the House of Representatives or a Senator accepts or holds a position of a committee Member of the National Assembly, the House of Representatives or the Senate, or a committee member appointed in the course of the administration of State affairs related to parliamentary affairs, or a committee member specifically provided by law.
 
-The provisions in (2) and (3) shall apply to spouses and children of Members of the House of Representatives or Senators and also to persons other than spouses and children of such members of the House of Representatives or Senators who act as agents  or  partners  of,  or  who  are  entrusted  by  Members  of  the  House  of Representatives or Senators to act under this section.
+· Legislative committees
+
+The provisions in (2) and (3) shall apply to spouses and children of Members of the House of Representatives or Senators and also to persons other than spouses and children of such members of the House of Representatives or Senators who act as agents or partners of, or who are entrusted by Members of the House of Representatives or Senators to act under this section.
 
 #### Section 185
 
-A  Member  of  the  House  of  Representatives  and  a  Senator  shall  not,  through  the status or position of Member of the House of Representatives or Senator, carry out any  act  which,  by  nature,  amounts  to  an  intervention  of  or  interference  with  the following  matters,  whether  directly  or  indirectly,  for  his  or  her  own  benefit,  the benefit of another person or of a political party:
+A Member of the House of Representatives and a Senator shall not, through the status or position of Member of the House of Representatives or Senator, carry out any act which, by nature, amounts to an intervention of or interference with the following matters, whether directly or indirectly, for his or her own benefit, the benefit of another person or of a political party:
 
-- the  performance  of  official  functions  or  carrying  out  of  work  within  the usual duties of a government official, official or employee of a government agency, State agency, State enterprise, an enterprise in which the State is a
+- the performance of official functions or carrying out of work within the usual duties of a government official, official or employee of a government agency, State agency, State enterprise, an enterprise in which the State is a
 
 Thailand 2017
 
@@ -3006,11 +3069,27 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
+## CHAPTER X: THE COURTS
+
+### Part 1: General Provisions
+
+#### Section 188
+
+The trial and adjudication of cases are the powers of the Courts which must be carried out in accordance with the laws and in the name of the King.
+
+Judges and justices are independent in trial and adjudication of cases, in accordance with the Constitution and laws in the swift and fair manner, and without any partiality.
+
 - Right to fair trial
 
 - Judicial independence
 
 - Right to speedy trial
+
+#### Section 189
+
+All Courts may be established only by Acts.
+
+Any establishment of a new Court or prescription of a procedure for the trial and adjudication of any particular case, or a case of any particular charge in place of a Court existing under the law for trying such case shall not be done.
 
 - Administrative court selection
 
@@ -3022,39 +3101,23 @@ PDF generated: 29 Jan 2019, 23:15
 
 - Ordinary court selection
 
-- Oaths to abide by constitution
-
-## CHAPTER X: THE COURTS
-
-### Part 1: General Provisions
-
-#### Section 188
-
-The  trial  and  adjudication  of  cases  are  the  powers  of  the  Courts  which  must  be carried out in accordance with the laws and in the name of the King.
-
-Judges and justices are independent in trial and adjudication of cases, in accordance with  the  Constitution  and  laws  in  the  swift  and  fair  manner,  and  without  any partiality.
-
-#### Section 189
-
-All Courts may be established only by Acts.
-
-Any establishment of a new Court or prescription of a procedure for the trial and adjudication of any particular case, or a case of any particular charge in place of a Court existing under the law for trying such case shall not be done.
-
 #### Section 190
 
 The King appoints and removes judges and justices. In the case where an office is vacated due to death, retirement, expiration of term, or being removed from office, the matter shall be reported to the King for information.
+
+- Oaths to abide by constitution
 
 #### Section 191
 
 Before taking office, a judge and justice shall make a solemn declaration before the King in the following words:
 
-'I, (name of the declarer) do solemnly declare that I will be loyal to His Majesty the King  and  will  faithfully  perform  my  duties  in  the  name  of  the  King  without  any partiality  in  the  interest  of  justice,  of  the  people  and  of  the  public  order  of  the Kingdom. I will also uphold and observe the democratic regime of government with the King as Head of the State, the Constitution of the Kingdom of Thailand and the law in every respect.'
+“I, (name of the declarer) do solemnly declare that I will be loyal to His Majesty the King and will faithfully perform my duties in the name of the King without any partiality in the interest of justice, of the people and of the public order of the Kingdom. I will also uphold and observe the democratic regime of government with the King as Head of the State, the Constitution of the Kingdom of Thailand and the law in every respect.”
 
 #### Section 192
 
-In the case of a dispute on the competent jurisdictions between the Court of Justice, the  Administrative  Court,  or  the  Military  Court,  a  ruling  shall  be  made  by  a committee  consisting  of  the  President  of  the  Supreme  Court  as  Chairperson,  the President of the Supreme Administrative Court, the Chief of Military Judicial Office and not more than four qualified persons as provided by law as members.
+In the case of a dispute on the competent jurisdictions between the Court of Justice, the Administrative Court, or the Military Court, a ruling shall be made by a committee consisting of the President of the Supreme Court as Chairperson, the President of the Supreme Administrative Court, the Chief of Military Judicial Office and not more than four qualified persons as provided by law as members.
 
-The  rules  and  procedures  for  ruling  on  a  dispute  on  the  competent  jurisdictions between the Courts under paragraph one shall be as provided by law.
+The rules and procedures for ruling on a dispute on the competent jurisdictions between the Courts under paragraph one shall be as provided by law.
 
 Thailand 2017
 
@@ -3068,21 +3131,17 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Protection of judges' salaries
-
-- Structure of the courts
-
-- Structure of the courts
-
-- Supreme court powers
-
 #### Section 193
 
-Each Court shall, except the Military Court, have a secretariat which is independent in personnel administration, budget and other activities, with the Head of the Office as  the  superior  official  directly  responsible  to  the  President  of  each  Court,  as provided by law.
+Each Court shall, except the Military Court, have a secretariat which is independent in personnel administration, budget and other activities, with the Head of the Office as the superior official directly responsible to the President of each Court, as provided by law.
 
-The  Court  of  Justice  and  the  Administrative  Court  shall  have  its  particular  and appropriate salaries and remuneration system as provided by law.
+The Court of Justice and the Administrative Court shall have its particular and appropriate salaries and remuneration system as provided by law.
+
+· Protection of judges' salaries
 
 ### Part 2: Courts of Justice
+
+- Structure of the courts
 
 #### Section 194
 
@@ -3090,21 +3149,25 @@ The Courts of Justice have the powers to try and adjudicate all cases except tho
 
 The establishment, procedures, and operations of the Courts of Justice shall be in accordance with the law thereon.
 
+- Structure of the courts
+
+- Supreme court powers
+
 #### Section 195
 
-There  shall  be  a  Criminal  Division  for  Persons  Holding  Political  Positions  in  the Supreme Court, the panel of which shall consist of at least five but not more than nine judges in the Supreme Court holding a position not lower than Justice of the Supreme Court or senior judges having held a position not lower than Justice of the Supreme Court who are elected, on a case-by-case basis, at a plenary meeting of the Supreme  Court,  in  accordance  with  the  Organic  Act  on  Criminal  Procedure  for Persons Holding Political Positions.
+There shall be a Criminal Division for Persons Holding Political Positions in the Supreme Court, the panel of which shall consist of at least five but not more than nine judges in the Supreme Court holding a position not lower than Justice of the Supreme Court or senior judges having held a position not lower than Justice of the Supreme Court who are elected, on a case-by-case basis, at a plenary meeting of the Supreme Court, in accordance with the Organic Act on Criminal Procedure for Persons Holding Political Positions.
 
 The Supreme Court's Criminal Division for Persons Holding Political Positions has the powers to try and adjudicates all cases as provided by the Constitution.
 
 The criminal procedure for persons holding political positions shall be in accordance with the Organic Act on Criminal Procedure for Persons Holding Political Positions.
 
-An appeal against a judgment of the Supreme Court's Criminal Division for Persons Holding Political Positions may be submitted to the plenary meeting of the Supreme Court  within  thirty  days  as  from  the  date  of  judgment  of  the  Supreme  Court's Criminal Division for Persons Holding Political Positions.
+An appeal against a judgment of the Supreme Court's Criminal Division for Persons Holding Political Positions may be submitted to the plenary meeting of the Supreme Court within thirty days as from the date of judgment of the Supreme Court's Criminal Division for Persons Holding Political Positions.
 
-The  consideration  of  an  appeal  of  the  plenary  meeting  of  Supreme  Court  under paragraph  four,  shall  be  undertaken  by  a  panel  of  judges  of  the  Supreme  Court consisting of nine judges of the Supreme Court holding a position not lower than the Presiding Justice of the Supreme Court or senior judges having held a position not lower than the Presiding Justice of the Supreme Court who have never considered the case, and have been selected at the plenary meeting of the Supreme Court on a case-by-case basis, and when such panel of judges has made a decision, this decision shall be deemed as appellate decision of the plenary meeting of the Supreme Court.
+The consideration of an appeal of the plenary meeting of Supreme Court under paragraph four, shall be undertaken by a panel of judges of the Supreme Court consisting of nine judges of the Supreme Court holding a position not lower than the Presiding Justice of the Supreme Court or senior judges having held a position not lower than the Presiding Justice of the Supreme Court who have never considered the case, and have been selected at the plenary meeting of the Supreme Court on a case-by-case basis, and when such panel of judges has made a decision, this decision shall be deemed as appellate decision of the plenary meeting of the Supreme Court.
 
-In  the  case  where  the  Supreme  Court's  Criminal  Division  for  Persons  Holding Political  Positions  has  delivered  a  judgment  to  remove  any  person  from  office  or such  judgment  has  the  effect  of  removing  any  person  from  office,  regardless  of whether or not there is  an  appeal  under  paragraph  four,  such  person  shall  vacate office  as  from  the  date  of  the  judgment  of  Supreme  Court's  Criminal  Division  for Persons Holding Political Positions.
+In the case where the Supreme Court's Criminal Division for Persons Holding Political Positions has delivered a judgment to remove any person from office or such judgment has the effect of removing any person from office, regardless of whether or not there is an appeal under paragraph four, such person shall vacate office as from the date of the judgment of Supreme Court's Criminal Division for Persons Holding Political Positions.
 
-Rules and procedures on appeal under paragraph four, and consideration of appeal under  paragraph  five,  shall  be  in  accordance  with  the  Organic  Act  on  Criminal Procedure for Persons Holding Political Positions.
+Rules and procedures on appeal under paragraph four, and consideration of appeal under paragraph five, shall be in accordance with the Organic Act on Criminal Procedure for Persons Holding Political Positions.
 
 Thailand 2017
 
@@ -3120,21 +3183,17 @@ PDF generated: 29 Jan 2019, 23:15
 
 · Establishment of judicial council
 
-· Establishment of administrative courts
-
-· Establishment of judicial council
-
-· Establishment of military courts
-
 #### Section 196
 
-Personnel  administration  relating  to  judges  of  the  Courts  of  Justice  shall  be independent, and shall be undertaken by the Judicial Commission of the Courts of Justice  consisting  of  the  President  of  the  Supreme  Court  as  Chairperson,  and qualified members who are judicial officers of each level of the Court, and not more than two qualified persons who are not or have never been a judicial officer selected by judicial officer, as provided by law.
+Personnel administration relating to judges of the Courts of Justice shall be independent, and shall be undertaken by the Judicial Commission of the Courts of Justice consisting of the President of the Supreme Court as Chairperson, and qualified members who are judicial officers of each level of the Court, and not more than two qualified persons who are not or have never been a judicial officer selected by judicial officer, as provided by law.
+
+· Establishment of administrative courts
 
 ### Part 3: Administrative Courts
 
 #### Section 197
 
-Administrative Courts have the powers to try and adjudicate administrative cases arising  from  the  exercise  of  administrative  power  provided  by  law  or  from  the carrying out of an administrative act, as provided by law.
+Administrative Courts have the powers to try and adjudicate administrative cases arising from the exercise of administrative power provided by law or from the carrying out of an administrative act, as provided by law.
 
 There shall be a Supreme Administrative Court and Administrative Courts of First Instance.
 
@@ -3142,9 +3201,13 @@ The jurisdiction of the Administrative Courts under paragraph one does not inclu
 
 The establishment, procedures, and operations of the Administrative Courts shall be in accordance with the law thereon.
 
+· Establishment of judicial council
+
 #### Section 198
 
-Personnel  administration  relating  to  judges  of  Administrative  Courts  shall  be independent, and shall be undertaken by the Judicial Commission of the Administrative  Courts  consisting  of  the  President  of  the  Supreme  Administrative Court as Chairperson, and qualified members, who are judges of the Administrative Courts, and not more than two qualified persons who are not or have never been judges  of  Administrative  Courts  elected  by  judicial  officers  of  the  Administrative Courts, as provided by law.
+Personnel administration relating to judges of Administrative Courts shall be independent, and shall be undertaken by the Judicial Commission of the Administrative Courts consisting of the President of the Supreme Administrative Court as Chairperson, and qualified members, who are judges of the Administrative Courts, and not more than two qualified persons who are not or have never been judges of Administrative Courts elected by judicial officers of the Administrative Courts, as provided by law.
+
+· Establishment of military courts
 
 ### Part 4: Military Courts
 
@@ -3166,35 +3229,33 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
+## CHAPTER XI: CONSTITUTIONAL COURT
+
 - Establishment of constitutional court
 
 - Eligibility for const court judges
 
 - Constitutional court selection
 
-- Eligibility for const court judges
-
-- Min age of const court judges
-
-## CHAPTER XI: CONSTITUTIONAL COURT
-
 #### Section 200
 
-The  Constitutional  Court  consists  of  nine  judges  of  the  Constitutional  Court appointed by the King from the following persons:
+The Constitutional Court consists of nine judges of the Constitutional Court appointed by the King from the following persons:
 
-- three  judges  in  the  Supreme  Court  holding  a  position  not  lower  than Presiding Justice of the Supreme Court for not less than three years elected by a plenary meeting of the Supreme Court;
+- three judges in the Supreme Court holding a position not lower than Presiding Justice of the Supreme Court for not less than three years elected by a plenary meeting of the Supreme Court;
 
-- two  judges  of  the  Supreme  Administrative  Court  holding  a  position  not lower than judge of the Supreme Administrative Court for not less than five years elected by a plenary meeting of the Supreme Administrative Court;
+- two judges of the Supreme Administrative Court holding a position not lower than judge of the Supreme Administrative Court for not less than five years elected by a plenary meeting of the Supreme Administrative Court;
 
 - one qualified person in law obtained by selection from persons holding or having held a position of Professor of a university in Thailand for not less than five years, and currently having renowned academic work;
 
-- one qualified person in political science or public administration obtained by selection from persons holding or having held a position of Professor of a university  in  Thailand  for  not  less  than  five  years,  and  currently  having renowned academic work;
+- one qualified person in political science or public administration obtained by selection from persons holding or having held a position of Professor of a university in Thailand for not less than five years, and currently having renowned academic work;
 
-- two qualified persons obtained by selection from persons holding or having held a position not lower than Director-General or a position equivalent to a  head  of  government  agency,  or  a  position  not  lower  than  Deputy Attorney-General, for not less than five years.
+- two qualified persons obtained by selection from persons holding or having held a position not lower than Director-General or a position equivalent to a head of government agency, or a position not lower than Deputy Attorney-General, for not less than five years.
 
-In  the  case  where  the  Presiding  Justice  of  the  Supreme  Court  cannot  be  selected under (1), the plenary meeting of the Supreme Court may select a person from those who have held a position not lower than Judge in the Supreme Court for not less than three years.
+In the case where the Presiding Justice of the Supreme Court cannot be selected under (1), the plenary meeting of the Supreme Court may select a person from those who have held a position not lower than Judge in the Supreme Court for not less than three years.
 
-The period under paragraph one shall be counted to the date of election or the date of application for selection, as the case may be. In a case of unavoidable necessity, the  Selection  Committee  may  announce  a  decrease  of  the  period  of  time  under paragraph one or paragraph two, but the decrease shall not result in a period of less than two years.
+The period under paragraph one shall be counted to the date of election or the date of application for selection, as the case may be. In a case of unavoidable necessity, the Selection Committee may announce a decrease of the period of time under paragraph one or paragraph two, but the decrease shall not result in a period of less than two years.
+
+- Eligibility for const court judges
 
 #### Section 201
 
@@ -3202,7 +3263,9 @@ A judge of the Constitutional Court shall also possess the qualifications as fol
 
 - being of Thai nationality by birth;
 
-- being  not  less  than  forty-five  years  and  not  reaching  sixty-eight  years  of age as from the date of election or the date of application for selection;
+- being not less than forty-five years and not reaching sixty-eight years of age as from the date of election or the date of application for selection;
+
+- Min age of const court judges
 
 - having graduated with not lower than a Bachelor's degree or its equivalent;
 
@@ -3218,19 +3281,17 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Eligibility for const court judges
-
-· Constitutional court selection
-
 - being of evident integrity;
 
 - being sufficiently in good health to perform duties efficiently.
 
+· Eligibility for const court judges
+
 #### Section 202
 
-A  judge  of  the  Constitutional  Court  shall  not  be  under  any  of  the  prohibitions  as follows:
+A judge of the Constitutional Court shall not be under any of the prohibitions as follows:
 
-- being  or  having  been  a  judge  of  the  Constitutional  Court  or  holding  a position in any Independent Organ;
+- being or having been a judge of the Constitutional Court or holding a position in any Independent Organ;
 
 - any of the prohibitions under section 98 (1), (2), (3), (4), (5), (6), (7), (8), (9), (10), (11), (17) or (18);
 
@@ -3238,17 +3299,19 @@ A  judge  of  the  Constitutional  Court  shall  not  be  under  any  of  the  p
 
 - being or having been a Member of the House of Representatives, a Senator, a political official, or a member of a local assembly or local administrator at any time during the period of ten years before election or application for selection;
 
-- being  or  having  been  a  member  or  holder  of  other  position  in  a  political party  at  any  time  during  the  period  of  ten  years  before  election  or application for selection;
+- being or having been a member or holder of other position in a political party at any time during the period of ten years before election or application for selection;
 
-- being  a  government  official  holding  a  permanent  position  or  receiving salary;
+- being a government official holding a permanent position or receiving salary;
 
-- being  an  official  or  employee  of  a  State  agency,  State  enterprise  or  local government organisation or a director or adviser of a State agency or State enterprise;
+- being an official or employee of a State agency, State enterprise or local government organisation or a director or adviser of a State agency or State enterprise;
 
 - holding any position in a partnership, a company or an organisation carrying out business with a view to making and sharing profit or income, or being an employee of any person;
 
 - engaging in an independent profession;
 
-- being  involved  in  circumstances  which  constitute  a  serious  violation  or failure to comply with ethical standards.
+- being involved in circumstances which constitute a serious violation or failure to comply with ethical standards.
+
+· Constitutional court selection
 
 #### Section 203
 
@@ -3268,23 +3331,23 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Constitutional court selection
-
 - President of the House of Representatives and Leader of the Opposition in the House of Representatives as members;
 
 - President of the Supreme Administrative Court as member;
 
-- persons appointed by the Independent Organs, from persons who have the qualifications  under  section  201,  are  not  under  any  of  the  prohibitions under section 202, and have never performed any duty in the Constitutional  Court  or  Independent  organs  comprising  one  person  from each organ, as members.
+- persons appointed by the Independent Organs, from persons who have the qualifications under section 201, are not under any of the prohibitions under section 202, and have never performed any duty in the Constitutional Court or Independent organs comprising one person from each organ, as members.
 
-In  the  case  where  there  is  no  person  holding  a  position  of  member  of  selection committee under (2) or the number of members under (4) is incomplete by any cause, the selection committee shall consist of its remaining members.
+In the case where there is no person holding a position of member of selection committee under (2) or the number of members under (4) is incomplete by any cause, the selection committee shall consist of its remaining members.
 
 The Secretariat of the Senate shall perform duties as the administrative unit of the selection committee.
 
 The Selection Committee shall carry out the selection of persons who are suitable for appointment as judges of the Constitutional Court according to rules, procedures and conditions prescribed in the Organic Act on the Procedures of the Constitutional Court.
 
-In case where there is a question pertaining to the qualifications of an applicant, a person  who  has  been  elected  or  selected,  it  shall  be  the  duty  and  power  of  the Selection Committee to consider the matter, and its decision shall be final.
+In case where there is a question pertaining to the qualifications of an applicant, a person who has been elected or selected, it shall be the duty and power of the Selection Committee to consider the matter, and its decision shall be final.
 
-In  the  selection  process,  the  Selection  Committee  shall  deliberate  with  a  view  to selecting  a  person  having  high  responsibility,  courage  in  performing  duties,  and ethical  behaviour  that  can  be  a  good  role  model  of  the  society.  In  addition  to  the process of announcement for application for the position, the Selection Committee may  select  persons  who  are  generally  suitable,  provided  that  consent  from  such person must be obtained.
+In the selection process, the Selection Committee shall deliberate with a view to selecting a person having high responsibility, courage in performing duties, and ethical behaviour that can be a good role model of the society. In addition to the process of announcement for application for the position, the Selection Committee may select persons who are generally suitable, provided that consent from such person must be obtained.
+
+· Constitutional court selection
 
 #### Section 204
 
@@ -3308,27 +3371,27 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Constitutional court term limits
-
-- Constitutional court term length
-
-- Constitutional court removal
-
 #### Section 205
 
-A person approved by the Senate to be a judge of the Constitutional Court who has not  yet  vacated  office  under  section  202  (6),  (7)  or  (8)  or  is  still  engaged  in  a profession  under  (9),  shall  present  evidence  of  resignation  or  termination  from engaging in such profession under section 202 (6), (7), (8) or (9) to the President of the Senate within the period as provided by the President of the Senate, which shall be the period before the President of the Senate reports to the King under section 204 paragraph four. In case of failure to present evidence within such period, it shall be deemed that such person has waived his or her rights and a new person shall be selected or elected.
+A person approved by the Senate to be a judge of the Constitutional Court who has not yet vacated office under section 202 (6), (7) or (8) or is still engaged in a profession under (9), shall present evidence of resignation or termination from engaging in such profession under section 202 (6), (7), (8) or (9) to the President of the Senate within the period as provided by the President of the Senate, which shall be the period before the President of the Senate reports to the King under section 204 paragraph four. In case of failure to present evidence within such period, it shall be deemed that such person has waived his or her rights and a new person shall be selected or elected.
 
 #### Section 206
 
-In considering an approval under section 204, if the number of persons approved by the  Senate  is  not  fewer  than  seven  persons,  the  approved  persons  shall  elect  one amongst themselves to be the President of the Constitutional Court and inform the President of the Senate of the result without awaiting the complete number of nine approved persons, and upon receiving Royal appointments, the Constitutional Court shall  perform  its  duty  and  power  for  the  time  being.  During  that  period,  the Constitutional Court shall be deemed to consist of number of the existing judges of the Constitutional Court.
+In considering an approval under section 204, if the number of persons approved by the Senate is not fewer than seven persons, the approved persons shall elect one amongst themselves to be the President of the Constitutional Court and inform the President of the Senate of the result without awaiting the complete number of nine approved persons, and upon receiving Royal appointments, the Constitutional Court shall perform its duty and power for the time being. During that period, the Constitutional Court shall be deemed to consist of number of the existing judges of the Constitutional Court.
+
+· Constitutional court term limits
+
+- Constitutional court term length
 
 #### Section 207
 
 A judge of the Constitutional Court shall hold office for a term of seven years as from the date of appointment by the King and shall hold office for only one term.
 
+- Constitutional court removal
+
 #### Section 208
 
-In  addition  to  the  vacation  of  office  upon  the  expiration  of  term,  a  judge  of  the Constitutional Court vacates office upon:
+In addition to the vacation of office upon the expiration of term, a judge of the Constitutional Court vacates office upon:
 
 - being disqualified under section 201 or being under any of the prohibitions under section 202;
 
@@ -3338,7 +3401,7 @@ In  addition  to  the  vacation  of  office  upon  the  expiration  of  term,  a
 
 - being seventy-five years of age;
 
-- a  resolution  of  the  Constitutional  Court  by  the  votes  of  not  less  than three-fourths of the total number of the existing judges of the Constitutional Court to remove such person from office on the ground of violation or failure to comply with ethical standards of the Constitutional Court;
+- a resolution of the Constitutional Court by the votes of not less than three-fourths of the total number of the existing judges of the Constitutional Court to remove such person from office on the ground of violation or failure to comply with ethical standards of the Constitutional Court;
 
 - removal from office due to a cause under section 235 paragraph three.
 
@@ -3356,23 +3419,21 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Constitutional court powers
+In the case where a judge of the Constitutional Court vacates office at the expiration of term, such judge of the Constitutional Court who vacates office shall remain in office to perform duties until a newly appointed judge of the Constitutional Court takes office.
 
-- Constitutional interpretation
+In case where there is a question as to whether a judge of the Constitutional Court has vacated office under (1) or (3), it shall be duty and power of the Selection Committee under section 203 to make a decision. A decision of the Selection Committee shall be final.
 
-· Constitutionality of legislation
-
-· Oaths to abide by constitution In the case where a judge of the Constitutional Court vacates office at the expiration of  term,  such  judge  of  the  Constitutional  Court  who  vacates  office  shall  remain  in office  to  perform duties until a newly appointed judge of the Constitutional Court takes office.
-
-In case where there is a question as to whether a judge of the Constitutional Court has  vacated  office  under  (1)  or  (3),  it  shall  be  duty  and  power  of  the  Selection Committee  under  section  203  to  make  a  decision.  A  decision  of  the  Selection Committee shall be final.
-
-A petition, petitioner, consideration, and decision under paragraph four shall be in accordance  with  rules  and  procedures  prescribed  in  the  Organic  Act  on  the Procedures of the Constitutional Court.
+A petition, petitioner, consideration, and decision under paragraph four shall be in accordance with rules and procedures prescribed in the Organic Act on the Procedures of the Constitutional Court.
 
 #### Section 209
 
-In  the  period  during  which  a  judge  of  the  Constitutional  Court  has  vacated  office before the expiration of the term, and a judge of the Constitutional Court has not yet been appointed to fill the vacancy, the remaining judges of the Constitutional Court may continue to perform duties.
+In the period during which a judge of the Constitutional Court has vacated office before the expiration of the term, and a judge of the Constitutional Court has not yet been appointed to fill the vacancy, the remaining judges of the Constitutional Court may continue to perform duties.
 
 The provisions under paragraph one shall not apply when the remaining number of judges of the Constitutional Court is fewer than seven persons.
+
+· Constitutional court powers
+
+- Constitutional interpretation
 
 #### Section 210
 
@@ -3380,13 +3441,17 @@ The Constitutional Court has duties and powers as follows:
 
 - to consider and adjudicate on the constitutionality of a law or bill;
 
-- to  consider  and  adjudicate  on  a  question  regarding  duties  and  powers  of the  House  of  Representative,  the  Senate,  the  National  Assembly,  the Council of Ministers or Independent Organs;
+- to consider and adjudicate on a question regarding duties and powers of the House of Representative, the Senate, the National Assembly, the Council of Ministers or Independent Organs;
 
 - others duties and powers prescribed in the Constitution.
 
-The  submission  of  a  petition  and  the  conditions  for  submitting  a  petition,  the consideration and adjudication, the rendering of a decision, and the operation of the Court,  except  as  prescribed  by  the  Constitution,  shall  be  in  accordance  with  the Organic Act on the Procedures of the Constitutional Court.
+The submission of a petition and the conditions for submitting a petition, the consideration and adjudication, the rendering of a decision, and the operation of the Court, except as prescribed by the Constitution, shall be in accordance with the Organic Act on the Procedures of the Constitutional Court.
+
+· Constitutionality of legislation
 
 The provisions of section 188, section 190, section 191, and section 193 shall also apply to the Constitutional Court mutatis mutandis.
+
+· Oaths to abide by constitution
 
 #### Section 211
 
@@ -3410,15 +3475,15 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Constitutional interpretation
-
 #### Section 212
 
-In the application of a provision of law to any case, if a court by itself is of the opinion that, or a party to the case raises an objection with reasons that, such provision of law falls within the provisions of section 5 and there has not yet been a decision of the  Constitutional  Court  pertaining  to  such  provision,  the  court  shall  submit  its opinion to the Constitutional Court for decision. During that time, the Court shall proceed with the trial, but shall temporarily stay its decision until a decision is made by the Constitutional Court.
+In the application of a provision of law to any case, if a court by itself is of the opinion that, or a party to the case raises an objection with reasons that, such provision of law falls within the provisions of section 5 and there has not yet been a decision of the Constitutional Court pertaining to such provision, the court shall submit its opinion to the Constitutional Court for decision. During that time, the Court shall proceed with the trial, but shall temporarily stay its decision until a decision is made by the Constitutional Court.
 
 In the case where the Constitutional Court is of the opinion that the objection of a party under paragraph one does not concern a matter which calls for a decision, the Constitutional Court may refuse to accept the case for consideration.
 
 The decision of the Constitutional Court shall apply to all cases, but shall not affect final judgments of the Court, except in a criminal case where it shall be deemed that a person who has been convicted of a crime under a provision of law decided by the Constitutional Court as being unconstitutional under section 5 has never committed such offence, or where such person is still serving the sentence, he or she shall be released. However, this does not entitle such a person to claim for any compensation or damages.
+
+· Constitutional interpretation
 
 #### Section 213
 
@@ -3450,12 +3515,6 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Counter corruption commission
-
-· Electoral commission
-
-· Ombudsman
-
 #### Section 216
 
 In addition to the qualifications and the prohibitions specifically provided in the Part on each Independent Organ, a person holding a position in an Independent Organ shall have the general qualifications and not be under any of the general prohibitions as follows:
@@ -3466,9 +3525,15 @@ In addition to the qualifications and the prohibitions specifically provided in 
 
 - not being under any of the prohibitions under section 202.
 
+· Counter corruption commission
+
+· Electoral commission
+
+· Ombudsman
+
 #### Section 217
 
-In the case whereas suitable person is to be selected for appointment to a position in an Independent Organ, with the exception of the National Human  Rights Commission,  it  shall  be  the  duties  and  powers  of  the  selection  committee  under section  203  to  undertake  the  selection;  however,  the  members  of  the  Selection Committee  under  section  203  (4)  shall  consist  of  persons  appointed  by  the Constitutional  Court  and  Independent  Organs  not  being  an  Independent  Organ requiring selection.
+In the case where a suitable person is to be selected for appointment to a position in an Independent Organ, with the exception of the National Human Rights Commission, it shall be the duties and powers of the selection committee under section 203 to undertake the selection; however, the members of the Selection Committee under section 203 (4) shall consist of persons appointed by the Constitutional Court and Independent Organs not being an Independent Organ requiring selection.
 
 The provisions of section 203, section 204, section 205 and section 206 shall apply mutatis mutandis to the selection under paragraph one.
 
@@ -3498,21 +3563,21 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Electoral commission
-
 #### Section 219
 
-The  Constitutional  Court  and  Independent  Organs  shall  jointly  prescribe  ethical standards applicable to the judges of the Constitutional Court and persons holding positions in the Independent Organs, including the Auditor-General and heads of the secretariat of the Constitutional Court and the Independent Organs, and the ethical standards shall come into force upon their publication in the Government Gazette. Such  ethical  standards  shall  include  the  upholding  of  honour  and  interests  of  the Nation,  and  shall  also  explicitly  specify  the  type  of  violation  or  non-compliance  of ethical standards which is of a serious nature.
+The Constitutional Court and Independent Organs shall jointly prescribe ethical standards applicable to the judges of the Constitutional Court and persons holding positions in the Independent Organs, including the Auditor-General and heads of the secretariat of the Constitutional Court and the Independent Organs, and the ethical standards shall come into force upon their publication in the Government Gazette. Such ethical standards shall include the upholding of honour and interests of the Nation, and shall also explicitly specify the type of violation or non-compliance of ethical standards which is of a serious nature.
 
-In  preparing  the  ethical  standards  under  paragraph  one,  opinions  of  the  House  of Representatives,  the  Senate,  and  the  Council  of  Ministers  shall  also  be  taken  into consideration. Upon their promulgation, they shall apply to Members of the House of Representatives,  Senators  and  the  Council  of  Ministers.  However,  this  does  not preclude the House of Representatives, the Senate or the Council of Ministers from prescribing additional ethics suitable to its performance of duties and not contrary to  or  inconsistent  with  the  ethical  standards  under  paragraph  one,  and  shall  be published in the Government Gazette.
+In preparing the ethical standards under paragraph one, opinions of the House of Representatives, the Senate, and the Council of Ministers shall also be taken into consideration. Upon their promulgation, they shall apply to Members of the House of Representatives, Senators and the Council of Ministers. However, this does not preclude the House of Representatives, the Senate or the Council of Ministers from prescribing additional ethics suitable to its performance of duties and not contrary to or inconsistent with the ethical standards under paragraph one, and shall be published in the Government Gazette.
 
 #### Section 220
 
-Each Independent Organ, except the State Audit Commission, shall have an agency in charge of its administrative work, operational work and facilitating work, in order for the Independent Organ to accomplish the missions and duties prescribed in the Constitution and laws and in accordance with the resolution or direction stipulated by  the  Independent  Organ.  There  shall  be  one  head  of  agency  appointed  by  the approval of the respective Independent Organ who is in charge of the administration of  work  of  such  agency  and  is  directly  accountable  to  the  Independent  Organ,  as prescribed by law.
+Each Independent Organ, except the State Audit Commission, shall have an agency in charge of its administrative work, operational work and facilitating work, in order for the Independent Organ to accomplish the missions and duties prescribed in the Constitution and laws and in accordance with the resolution or direction stipulated by the Independent Organ. There shall be one head of agency appointed by the approval of the respective Independent Organ who is in charge of the administration of work of such agency and is directly accountable to the Independent Organ, as prescribed by law.
 
 #### Section 221
 
 In performing duties, the Independent Organs shall extend mutual cooperation and assistance with a view to achieving the goals in performance of the duties of each respective organ. If any Independent Organ is of the opinion that there is a person who commits an unlawful act which falls in the scope of duties and powers of another Independent Organ, the former Independent Organ shall notify the latter Independent Organ to take further action in accordance with its duties and powers.
+
+· Electoral commission
 
 ### Part 2: Election Commission
 
@@ -3534,15 +3599,9 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
+- two persons selected by the plenary meeting of the Supreme Court from persons who have knowledge, expertise and experience in the field of law, are of evident integrity, and had held a position not lower than Chief Justice or a position not lower than Director-General of a State Attorney Department for a period of not less than five years.
+
 · Supreme court powers
-
-· Referenda
-
-Referenda
-
-· Referenda
-
-- two persons selected by the plenary meeting of the Supreme Court from persons who have knowledge, expertise and experience in the field of law, are of evident integrity, and had held a position not lower than Chief Justice or a position not lower than Director-General  of a  State  Attorney Department for a period of not less than five years.
 
 The person who will be selected as an Election Commissioner under (1) shall have qualifications under section 232 (2), (3), (4), (5), (6) or (7) or shall be a person who works or had worked in the civil society sector for a period of not less than twenty years, as prescribed by notification of the selection committee.
 
@@ -3550,7 +3609,7 @@ The person who will be selected as an Election Commissioner under (1) shall have
 
 The Election Commissioners shall hold office for a term of seven years as from the date of appointment by the King, and shall serve for only one term.
 
-During  the  period  in  which  an  Election  Commissioner  vacates  office  prior  to  the expiration of the term and an Election Commissioner has not yet been appointed to fill the vacancy, the remaining Election Commission may continue to perform duties. However,  if  there  are  fewer  than  four  Election  Commissioners  remaining,  the Election Commission may carry out only an act which is necessary and unavoidable.
+During the period in which an Election Commissioner vacates office prior to the expiration of the term and an Election Commissioner has not yet been appointed to fill the vacancy, the remaining Election Commission may continue to perform duties. However, if there are fewer than four Election Commissioners remaining, the Election Commission may carry out only an act which is necessary and unavoidable.
 
 #### Section 224
 
@@ -3558,9 +3617,15 @@ The Election Commission shall have the duties and powers as follows:
 
 - to hold or arrange for the holding of an election of Members of the House of Representatives, a selection of Senators, an election of members of the local assembly and local administrators and a referendum;
 
-- to control and supervise elections and selections under (1) to proceed in an honest  and  just  manner,  and  control  and  supervise  the  holding  of  a referendum to proceed in a lawful manner; for this purpose, it shall have the power to conduct an investigation or inquiry as necessary or as deemed appropriate;
+· Referenda
 
-- where the result of an investigation or inquiry under (2) indicates, or an act is found with reasonable grounds for suspicion that an election or selection under (1) has not proceeded in an honest or just manner, or a referendum has proceeded in an unlawful manner, it shall have the power to suspend, withhold, rectify or cancel the election or selection or referendum, and to order  the  holding  of  a  new  election,  selection  or  referendum  in  certain polling stations or every polling station;
+- to control and supervise elections and selections under (1) to proceed in an honest and just manner, and control and supervise the holding of a referendum to proceed in a lawful manner; for this purpose, it shall have the power to conduct an investigation or inquiry as necessary or as deemed appropriate;
+
+· Referenda
+
+- where the result of an investigation or inquiry under (2) indicates, or an act is found with reasonable grounds for suspicion that an election or selection under (1) has not proceeded in an honest or just manner, or a referendum has proceeded in an unlawful manner, it shall have the power to suspend, withhold, rectify or cancel the election or selection or referendum, and to order the holding of a new election, selection or referendum in certain polling stations or every polling station;
+
+· Referenda
 
 - to temporarily suspend the right to stand for election of a candidate for an election or selection under (1) for a period of not more than one year where there is evidence to reasonably believe that such person has committed or has connived at the act committed by other persons which is dishonest or which causes the election or selection to not proceed in an honest or just manner;
 
@@ -3578,21 +3643,21 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Removal of individual legislators
-
-· Supreme court powers
-
 - other duties and powers under the Constitution or laws.
 
-In  conducting  an  investigation  or  inquiry  under  (2),  the  Election  Commission  may entrust an individual Election Commissioner with the execution thereof or entrust a group  of  persons  with  the  execution  thereof  under  the  supervision  of  an  Election Commissioner in accordance with the rules, procedures and conditions prescribed by the Election Commission.
+In conducting an investigation or inquiry under (2), the Election Commission may entrust an individual Election Commissioner with the execution thereof or entrust a group of persons with the execution thereof under the supervision of an Election Commissioner in accordance with the rules, procedures and conditions prescribed by the Election Commission.
 
-Each Election Commissioner who witnesses a commission of an offence shall have the  power to exercise the power under (3) in respect of the polling station or the constituency in which the commission of the offence is witnessed, in accordance with the rules, procedures and conditions prescribed by the Election Commission.
+Each Election Commissioner who witnesses a commission of an offence shall have the power to exercise the power under (3) in respect of the polling station or the constituency in which the commission of the offence is witnessed, in accordance with the rules, procedures and conditions prescribed by the Election Commission.
 
 #### Section 225
 
-Prior  to  the  announcement  of  the  result  of  an  election  or  a  selection,  if  there  is evidence to reasonably believe that such election or selection has not proceeded in an honest or just manner, the Election Commission shall have the power to order a new election  or  selection  to  be  held  in  such  polling  station  or  constituency.  If  the person who committed such act is a candidate for the election or selection, as the case  may  be,  or  such  person  connives  at  the  act  of  other  persons,  the  Election Commission  shall  temporarily  suspend  the  right  of  such  person  to  stand  for  an election in accordance with the section 224 (4).
+Prior to the announcement of the result of an election or a selection, if there is evidence to reasonably believe that such election or selection has not proceeded in an honest or just manner, the Election Commission shall have the power to order a new election or selection to be held in such polling station or constituency. If the person who committed such act is a candidate for the election or selection, as the case may be, or such person connives at the act of other persons, the Election Commission shall temporarily suspend the right of such person to stand for an election in accordance with the section 224 (4).
 
 The order under paragraph one shall be final.
+
+· Removal of individual legislators
+
+· Supreme court powers
 
 #### Section 226
 
@@ -3618,11 +3683,11 @@ Page 75
 
 constituteproject.org
 
-· Structure of the courts
-
 PDF generated: 29 Jan 2019, 23:15
 
-· Ombudsman vest in the Court of Appeal, and the order or judgment of the Court of Appeal shall be final.
+vest in the Court of Appeal, and the order or judgment of the Court of Appeal shall be final.
+
+· Structure of the courts
 
 The trial and adjudication of the Supreme Court or the Court of Appeal under this section shall be in accordance with the rules of the plenary meeting of the Supreme Court, which shall adopt the inquisitorial system, and shall be done in an expeditious manner.
 
@@ -3631,6 +3696,8 @@ The trial and adjudication of the Supreme Court or the Court of Appeal under thi
 During  the  period  in  which  a  Royal  Decree  calling  an  election  of  Members  of  the House of Representatives or a selection of Senators or a Notification calling for a referendum  is  in  force,  no  Election  Commissioner  shall  be  arrested,  detained  or summoned  by  a  warrant  for  inquiry,  except  where  permission  of  the  Election Commission is obtained or where the arrest is made in flagrante delicto.
 
 In the case where an Election Commissioner is arrested in flagrante delicto, or where an  Election  Commissioner is  arrested  or  detained  in  other  cases,  a  report  shall  be submitted  forthwith  to  the  Chairperson  of  the  Election  Commission,  and  the Chairperson shall have the power to order the release of the person so arrested, but if the Chairperson of the Election Commission is arrested or detained, the remaining Election Commission shall have the power to order a release.
+
+· Ombudsman
 
 ### Part 3: Ombudsmen
 
@@ -3662,13 +3729,11 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
+- to conduct fact-finding when it is found that there is a person affected by grievance or unfairness arisen from non-compliance with the law or ultra vires acts of a State agency or State officials in order to recommend the relevant State agencies to eliminate or deter such grievance or unfairness;
+
 · Ultra-vires administrative actions
 
-· Counter corruption commission
-
-- to conduct fact-finding when it is found that there is a person affected by grievance or unfairness arisen from non-compliance with the law or ultra vires  acts  of  a  State  agency  or  State  officials  in  order  to  recommend  the relevant State agencies to eliminate or deter such grievance or unfairness;
-
-- to  submit  to  the  Council  of  Ministers  for  acknowledgement  that  a  State agency  has  not  yet  correctly  and  completely  complied  with  Chapter  V Duties of the State.
+- to submit to the Council of Ministers for acknowledgement that a State agency has not yet correctly and completely complied with Chapter V Duties of the State.
 
 In the case where a relevant State agency has not implemented the recommendation of an Ombudsman under (1) or (2) without reasonable justification, the Ombudsman shall notify the Council of the Ministers to further consider the issuance of an order as deemed appropriate.
 
@@ -3681,6 +3746,8 @@ In the performance of duties under section 230, an Ombudsman may refer a matter 
 - where any provision of law begs the question of the constitutionality, the matter  shall  be  referred  together  with  an  opinion  to  the  Constitutional Court;  the  Constitutional  Court  shall  consider  and  render  a  decision without  delay  in  accordance  with  the  Organic  Act  on  Procedures  of  the Constitutional Court;
 
 - where a rule, order or any other act of a State agency or a State official begs the question of the constitutionality or legality, the matter shall be referred to  the  Administrative  Court;  the  Administrative  Court  shall  consider  and render a decision without delay in accordance with the law on establishment of Administrative Court and Administrative Court procedures.
+
+· Counter corruption commission
 
 ### Part 4: National Anti-Corruption Commission
 
@@ -3742,15 +3809,17 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Constitutional court removal · Supreme court powers
-
 - to conduct an inquiry and decide whether a government official is unusually wealthy, has committed an offence of corruption, or malfeasance in public office or malfeasance in judicial office, for further proceeding in accordance with the Organic Act on Anti-Corruption;
 
-- to require persons holding political positions, judges of the Constitutional Court, persons holding positions in the Independent Organs, the Auditor-General and State officials to submit an account showing particulars of assets and liabilities of themselves, spouse and children who have not yet become sui juris, and to inspect and disclose the results of the inspection  of  such  accounts,  in  accordance  with  the  Organic  Act  on  Anti Corruption;
+- to require persons holding political positions, judges of the Constitutional Court, persons holding positions in the Independent Organs, the Auditor-General and State officials to submit an account showing particulars of assets and liabilities of themselves, spouse and children who have not yet become sui juris, and to inspect and disclose the results of the inspection of such accounts, in accordance with the Organic Act on Anti Corruption;
 
 - other duties and powers provided by the Constitution or the laws.
 
-In the performance of duties under (1), (2) and (3), it shall be the duty of the National Anti-Corruption  Commission  to  provide  a  measure  or  guideline  that  will  enable efficient,  prompt,  honest  and  just  performance  of  duties.  In  case  of  necessity,  the National Anti-Corruption Commission may entrust the State agency whose duties and powers are related to the prevention and suppression of corruption to act on its behalf for the matter other than that of a serious offence or an act of a government official  in  certain  level,  or  require  competent  officials  of  the  secretariat  of  the National  Anti-Corruption  Commission  to  conduct  preliminary  investigation  or inquiry  in  accordance  with  the  rules,  procedures  and  conditions  prescribed  in  the Organic Act on Anti-Corruption.
+In the performance of duties under (1), (2) and (3), it shall be the duty of the National Anti-Corruption Commission to provide a measure or guideline that will enable efficient, prompt, honest and just performance of duties. In case of necessity, the National Anti-Corruption Commission may entrust the State agency whose duties and powers are related to the prevention and suppression of corruption to act on its behalf for the matter other than that of a serious offence or an act of a government official in certain level, or require competent officials of the secretariat of the National Anti-Corruption Commission to conduct preliminary investigation or inquiry in accordance with the rules, procedures and conditions prescribed in the Organic Act on Anti-Corruption.
+
+· Constitutional court removal
+
+· Supreme court powers
 
 #### Section 235
 
@@ -3776,7 +3845,7 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Supreme court powers otherwise. In the case where the Supreme Court or the Supreme Court's Criminal Division  for  Persons  Holding  the  Political  Positions  has  rendered  a  judgment deciding  that  the  accused  is  involved  in  the  circumstances  or  has  committed  the offence as accused, as the case may be, the convicted person shall vacate office from the date the person ceases performing duties, and the Court shall revoke the right to apply for candidacy in an election of such person and may or may not revoke his or her right to vote for a period of not more than ten years.
+otherwise. In the case where the Supreme Court or the Supreme Court's Criminal Division for Persons Holding the Political Positions has rendered a judgment deciding that the accused is involved in the circumstances or has committed the offence as accused, as the case may be, the convicted person shall vacate office from the date the person ceases performing duties, and the Court shall revoke the right to apply for candidacy in an election of such person and may or may not revoke his or her right to vote for a period of not more than ten years.
 
 Any person whose right to apply for candidacy in an election has been revoked in any case  shall  permanently  have  no  right  to  apply  for  candidacy  in  an  election  or selection of Members of the House of Representatives, Senators, members of a local assembly  or  a  local  administrator,  and  shall  have  no  right  to  hold  any  political position.
 
@@ -3791,6 +3860,8 @@ This section shall apply mutatis mutandis to the persons under section 234 (3) w
 Members of the House of Representatives, Senators, or members of both Houses of Representatives and Senate comprising not less than one-fifth of the total number of the existing members of both Houses or person shaving the right to vote comprising not  fewer  than  twenty  thousand  persons  shall  have  the  rights  to  lodge  with  the President of the National Assembly a petition with reasonable evidence that any of the  National  Anti  Corruption  Commissioners  has  committed  an  act  under  section 234 (1). In case the President of the National Assembly is of the opinion that there are  reasonable  grounds  to  suspect  that  there  has  been  an  act  as  accused,  the President  of  the  National  Assembly  shall  refer  the  matter  to  the  President  of  the Supreme  Court  to  appoint  a  panel  of  independent  inquisitors  from  persons  with political impartiality and evident integrity for conducting a fact-finding inquiry.
 
 The qualifications, prohibitions, duties and powers, procedure of the inquiry, period of time for the inquiry and other necessary proceeding of the panel of independent inquisitors shall be as provided by law.
+
+· Supreme court powers
 
 #### Section 237
 
@@ -3896,8 +3967,6 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Human rights commission
-
 #### Section 244
 
 In the case where there is evidence to reasonably believe that the spending of State funds involves circumstances of corruption, or intentional performance of duties or exercise of powers which is contrary to the Constitution or laws, or may cause the election  to  not  proceed  in  honest  or  just  manner,  and  it  is  the  case  where  the Auditor-General does not have the power to carry out any act, the Auditor-General shall  notify  the  National Anti-Corruption Commission, the Election Commission or other relevant agencies, as the case may be, for information and to further proceed in accordance with its duties and powers.
@@ -3908,7 +3977,9 @@ In  the  proceedings  of  the  National  Anti-Corruption  Commission,  the  Elec
 
 For  the  purpose  of  ceasing  or  preventing  the  damage  which  may  occur  to  State finance, the Auditor-General shall submit to the to the State Audit Commission to consider the result of the inspection of the act that is not in accordance with the law on financial and fiscal discipline of the State and may cause serious damage to State finance.
 
-In  the  case  where  the  State  Audit  Commission  agrees  with  the  result  of  the inspection, it shall consult with the Election Commission  and the National Anti-Corruption  Commission.  If  the  joint  meeting  agrees  with  the  result  of  the inspection, they shall jointly serve a notice in writing to the House of Representatives,  the  Senate  and  the  Council  of  Ministers  without  delay,  and  the result of such inspection shall be disclosed to the public.
+In the case where the State Audit Commission agrees with the result of the inspection, it shall consult with the Election Commission and the National Anti-Corruption Commission. If the joint meeting agrees with the result of the inspection, they shall jointly serve a notice in writing to the House of Representatives, the Senate and the Council of Ministers without delay, and the result of such inspection shall be disclosed to the public.
+
+· Human rights commission
 
 ### Part 6: National Human Rights Commission
 
@@ -3934,8 +4005,6 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Attorney general
-
 #### Section 247
 
 The National Human Rights Commission shall have the duties and powers as follows:
@@ -3958,6 +4027,8 @@ In the performance of duties, the National Human Rights Commission shall also ta
 
 ## CHAPTER XIII: STATE ATTORNEY ORGAN
 
+· Attorney general
+
 #### Section 248
 
 The State Attorney Organ has the duties and powers as provided in the Constitution and laws.
@@ -3978,11 +4049,13 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Municipal government attorneys; at  least  two  of  such  qualified  members  shall  not  be  or  have  been  State attorneys, as provided by law.
+attorneys; at least two of such qualified members shall not be or have been State attorneys, as provided by law.
 
 The law under paragraph three shall contain measures to prevent State attorneys from carrying  out  any  act  or  holding  any  position  which  may  cause  the  making  of orders in cases or the performance of duties to be not in accordance with paragraph two,  or  may  cause  conflict  of  interest.  In  this  regard,  such  measures  shall  be prescribed explicitly and be of general application without any delegation of power to consider the matters on case-by-case basis.
 
 ## CHAPTER XIV: LOCAL ADMINISTRATION
+
+· Municipal government
 
 #### Section 249
 
@@ -4046,15 +4119,15 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Unamendable provisions
-
-· Constitution amendment procedure
-
 ## CHAPTER XV: AMENDMENT TO THE CONSTITUTION
+
+· Unamendable provisions
 
 #### Section 255
 
-An  amendment  to  the  Constitution  which  amounts  to  changing  the  democratic regime of government with the King as Head of State or changing the form of the State shall be prohibited.
+An amendment to the Constitution which amounts to changing the democratic regime of government with the King as Head of State or changing the form of the State shall be prohibited.
+
+· Constitution amendment procedure
 
 #### Section 256
 
@@ -4082,15 +4155,15 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
+- voting in the third and final reading shall be by roll call and open voting, and promulgation of the Constitution must be approved by the votes of more than one-half of the total number of the existing members of both Houses, provided that in this number, Members of the House of Representatives from political parties whose members do not hold the positions of Minister, President or Vice-President of the House of Representatives must vote for approval in the number of not less than twenty per cent of the total number of members of all such political parties combined, and Senators comprising not less than one-third of the total number of existing members of the Senate must vote for approval;
+
+- after resolution of approval has been passed under (6), there shall be an interval of fifteen days after which the draft Constitution Amendment shall be presented to the King, and the provisions of section 81 shall apply mutatis mutandis;
+
+- in the case where the draft Constitution Amendment is an amendment to Chapter I General Provisions, Chapter II The King or Chapter XV Amendment to the Constitution, or a matter relating to qualifications and prohibitions of persons holding the positions under this Constitution, or a matter relating to duties or powers of the Court or an Independent Organ, or a matter which renders the Court or an Independent Organ unable to act in accordance with its duties or powers, before proceeding in accordance with (7), a referendum shall be held in accordance with the law on referendum, and if the referendum result is to approve the draft Constitution Amendment, further proceedings shall then be taken in accordance with (7);
+
 · Referenda
 
-- voting in the third and final reading shall be by roll call and open voting, and promulgation of the Constitution must be approved by the votes of more than one-half of the total number of the existing members of both Houses, provided  that  in  this  number,  Members  of  the  House  of  Representatives from political parties whose members do not hold the positions of Minister, President or Vice-President of the House of Representatives must vote for approval in the number of not less than twenty per cent of the total number of members of all such political parties combined, and Senators comprising not  less  than  one-third  of  the  total  number  of  existing  members  of  the Senate must vote for approval;
-
-- after  resolution  of  approval  has  been  passed  under  (6),  there  shall  be  an interval of fifteen days after which the draft Constitution Amendment shall be  presented  to  the  King,  and  the  provisions  of  section  81  shall  apply mutatis mutandis;
-
-- in the case where the draft Constitution Amendment is an amendment to Chapter I General Provisions, Chapter II The King or  Chapter  XV Amendment to the Constitution, or a matter relating to qualifications and prohibitions of persons holding the positions under this Constitution, or a matter relating to duties or powers of the Court or an Independent Organ, or a matter which renders the Court or an Independent Organ unable to act in  accordance with its duties or powers, before proceeding in accordance with  (7),  a  referendum  shall  be  held  in  accordance  with  the  law  on referendum, and if the referendum result is to approve the draft Constitution  Amendment,  further  proceedings  shall  then  be  taken  in accordance with (7);
-
-- before the Prime Minister reports to the King for signature pursuant to (7), Members of the House of Representatives, Senators or members of both Houses comprising not less than one-tenth of the total number of existing members of each House or of both Houses, as the case may be, have the right  to  sign  a  joint  petition  submitting  their  opinions  to  the  President  of the  House  in  which  they  are  members  or  the  President  of  the  National Assembly,  as  the  case  may  be,  that  the  draft  Constitution  Amendment under (7) is contrary to section 255 or is of the characteristic under (8). The President of the House who receives such petition shall submit the opinions to  the  Constitutional  Court.  The  Constitutional  Court  shall  render  a decision within thirty days from the date the petition is received. While the petition is under consideration for decision by the Constitutional Court, the Prime Minister may not present such a draft Constitution Amendment to the King for signature.
+- before the Prime Minister reports to the King for signature pursuant to (7), Members of the House of Representatives, Senators or members of both Houses comprising not less than one-tenth of the total number of existing members of each House or of both Houses, as the case may be, have the right to sign a joint petition submitting their opinions to the President of the House in which they are members or the President of the National Assembly, as the case may be, that the draft Constitution Amendment under (7) is contrary to section 255 or is of the characteristic under (8). The President of the House who receives such petition shall submit the opinions to the Constitutional Court. The Constitutional Court shall render a decision within thirty days from the date the petition is received. While the petition is under consideration for decision by the Constitutional Court, the Prime Minister may not present such a draft Constitution Amendment to the King for signature.
 
 Thailand 2017
 
@@ -4104,17 +4177,15 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Reference to fraternity/solidarity
-
-· Referenda
-
 ## CHAPTER XVI: NATIONAL REFORM
 
 #### Section 257
 
 National  reform  under  this  Chapter  must  be  carried  out  to  achieve  the  following objectives:
 
-- the nation enjoys  peace  and  order,  unity and  solidarity,  sustainable development  in  accordance  with  the  philosophy  of  sufficiency  economy, and a balance between material and spiritual development;
+- the nation enjoys peace and order, unity and solidarity, sustainable development in accordance with the philosophy of sufficiency economy, and a balance between material and spiritual development;
+
+· Reference to fraternity/solidarity
 
 - the society is peaceful and fair, and provides comparable opportunities to eliminate disparity;
 
@@ -4126,7 +4197,9 @@ National reform in various areas shall be carried out to at least achieve the fo
 
 - Politics:
 
-- ensuring  that  people  have  correct  knowledge  and  understanding  on the democratic regime of government with the King as Head of State, that people participate in the organisation of political activities as well as  the  scrutiny  of  exercise  of  State  powers,  that  they  are  able  to tolerate  different  bona  fide  political  views,  and  that  the  people exercise the right to vote in an election  and  in  a  referendum independently and free from influence by any mean;
+- ensuring that people have correct knowledge and understanding on the democratic regime of government with the King as Head of State, that people participate in the organisation of political activities as well as the scrutiny of exercise of State powers, that they are able to tolerate different bona fide political views, and that the people exercise the right to vote in an election and in a referendum independently and free from influence by any mean;
+
+· Referenda
 
 - ensuring that activities of political parties are organised in an open and transparent manner to enable political parties to develop into political institutions of the people who share a common political ideology, and have  clear  and  concrete  processes  to  ensure  that  members  of  the political  party  truly  participate  and  are  accountable  for  political activities  and  the  selection  of  persons  with  knowledge,  competence, integrity and good morality and ethics to be persons holding political positions;
 
@@ -4178,11 +4251,7 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Reference to science
-
-· State support for children
-
-- developing  a  legal  database  system  of  the  State  by  using  various technologies with a view to enabling the public to conveniently access legal information and to easily understand the substances of the laws;
+- developing a legal database system of the State by using various technologies with a view to enabling the public to conveniently access legal information and to easily understand the substances of the laws;
 
 - establishing  a  mechanism  to  give  assistance  to  the  people  in  the preparation and proposal of draft laws;
 
@@ -4190,7 +4259,9 @@ PDF generated: 29 Jan 2019, 23:15
 
 - ensuring that time limits for justice process at every stage are clearly specified so that justice is delivered to the people without delay, and that  there  is  a  mechanism  to  aid  persons  with  insufficient  means  in having  access  to  justice  process,  as  well  as  the  establishment  of  a mechanism  for  strict  enforcement  of  law  with  a  view  to  reducing disparity and injustice in society;
 
-- improving the system of criminal inquiry by providing a proper check and balance between inquiry officials and State attorneys, by clearly specifying  time  limits  for  the  performance  of  duties  of  all  relevant officials so as to avoid the preclusion of action by prescription and to promote public trust in the performance of duties of inquiry officials and  State  attorneys  in  the  course  of  criminal  inquiry,  as  well  as  by requiring  the  use  of  forensic  science  in  an  inquiry  and  providing forensic  science  service  through  more  than  one  agency  which  are independent of each other to ensure that the public has alternatives to such services for the proving of facts;
+- improving the system of criminal inquiry by providing a proper check and balance between inquiry officials and State attorneys, by clearly specifying time limits for the performance of duties of all relevant officials so as to avoid the preclusion of action by prescription and to promote public trust in the performance of duties of inquiry officials and State attorneys in the course of criminal inquiry, as well as by requiring the use of forensic science in an inquiry and providing forensic science service through more than one agency which are independent of each other to ensure that the public has alternatives to such services for the proving of facts;
+
+· Reference to science
 
 - promoting  and  developing  the  organisational  culture  of  relevant organisations in the justice process with a view to facilitating convenient and expeditious justice for the people;
 
@@ -4198,7 +4269,9 @@ PDF generated: 29 Jan 2019, 23:15
 
 - Education:
 
-- ensuring  the  commencement  of  care  and  development  of  young children  prior  to  education  under  section  54  paragraph  two  with  a view  to  developing  their  physical  body,  mind,  discipline,  emotion, society and intelligence in accordance with their age free of charge;
+- ensuring the commencement of care and development of young children prior to education under section 54 paragraph two with a view to developing their physical body, mind, discipline, emotion, society and intelligence in accordance with their age free of charge;
+
+· State support for children
 
 Thailand 2017
 
@@ -4212,9 +4285,7 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Protection of environment
-
-- completing  the  enactment  of  a  law  for  the  establishment  of  a  fund under section 54 paragraph six within one year from the date of the promulgation of this Constitution;
+- completing the enactment of a law for the establishment of a fund under section 54 paragraph six within one year from the date of the promulgation of this Constitution;
 
 - having  a  mechanism  and  a  system  for  producing,  screening  and developing  teaching  professionals  and  instructors  to  engender  a spiritual mindset of being a teacher, to possess genuine knowledge and competence,  and to receive remunerations appropriate to their teaching competence and efficiency, as well as having a mechanism to promote  a  merit  system  in  the  personnel  management  of  teaching professionals;
 
@@ -4232,7 +4303,9 @@ PDF generated: 29 Jan 2019, 23:15
 
 - Other Areas:
 
-- having  a  water  resource  management  system  which  is  efficient,  fair and  sustainable,  with  due  regard  given  to  every  dimension  of  water demand in combination with environmental and climate change;
+- having a water resource management system which is efficient, fair and sustainable, with due regard given to every dimension of water demand in combination with environmental and climate change;
+
+· Protection of environment
 
 - ensuring a fair distribution of land holding, as well as an examination of ownership and holding of land throughout the country with a view to systemically  solving  the  problems  of  land  ownership  and  possessory rights;
 
@@ -4248,9 +4321,9 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Protection of environment
+- establishing a system for managing and disposing solid waste in an efficient and environment-friendly manner, and for recovering such waste for use for other purposes;
 
-- establishing  a  system  for  managing  and  disposing  solid  waste  in  an efficient  and  environment-friendly  manner,  and  for  recovering  such waste for use for other purposes;
+· Protection of environment
 
 - adjusting  the  health  security  system  in  order  that  the  people  are granted comparable rights and benefits from the management thereof and from access to quality and convenient service;
 
@@ -4488,21 +4561,21 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
-· Joint meetings of legislative chambers
-
-· Joint meetings of legislative chambers
-
 #### Section 270
 
 Apart from the duties and powers provided in the Constitution, the Senate under section 269 shall have the duty and power to monitor, recommend and accelerate national  reform  in  order  to  achieve  the  objectives  under  Chapter  XVI  National Reform,  and  the  preparation  and  implementation  of  the  National  Strategy.  In  this regard,  the  Council  of  Ministers  shall  report  the  progress  of  implementing  the national reform plan to the National Assembly every three months.
 
 The bill to be enacted for the implementation of Chapter XVI National Reform shall be submitted to and considered by the joint sitting of the National Assembly.
 
+· Joint meetings of legislative chambers
+
 When  the  Council  of  Ministers  deems  any  bill  as  a  bill  to  be  enacted  for  the implementation of Chapter XVI National Reform, it shall notify the President of the National  Assembly  and  submit  such  bill  thereto.  In  the  case  where  the  Council  of Ministers  does  not  notify  that  the  bill  is  to  be  enacted  for  the  implementation  of Chapter  XVI  National  Reform,  if  Members  of  the  House  of  Representatives  or Senators deem that such bill is a bill to be enacted for the implementation of Chapter XVI  National  Reform,  the  Members  of  the  House  of  Representatives  or  Senators comprising not less than one-fifth of the members of each House may sign a joint petition  to  request  the  President  of  the  National  Assembly  to  make  a  decision thereon. Such petition must be submitted prior to the completion of consideration of that bill by the House of Representatives or the Senate, as the case may be.
 
 Upon  receiving  the  request  under  paragraph  three,  the  President  of  the  National Assembly shall present the matter to a joint committee consisting of the President of the Senate, as the Chairperson, and one Vice-President of the House of Representatives, the Leader of the Opposition in the House of Representatives, one representative  from  the  Council  of  Ministers  and  one  Chairperson  of  a  standing committee  elected  by  and  from  Chairpersons  of  all  standing  committees  of  the Senate, as members, to make a ruling thereon.
 
 The ruling of the joint committee under paragraph four shall be made by a majority of votes, and shall be final. The President of the National Assembly shall proceed in accordance therewith.
+
+· Joint meetings of legislative chambers
 
 #### Section 271
 
@@ -4528,12 +4601,6 @@ PDF generated: 29 Jan 2019, 23:15
 
 · Joint meetings of legislative chambers
 
-- Radio
-
-- Telecommunications
-
-- Television
-
 #### Section 272
 
 In the period of five years from the date of installation of the first National Assembly under  this  Constitution,  an  approval  of  a  person  suitable  to  be  appointed  as  the Prime  Minister  shall  be  done  in  accordance  with  section  159,  except  for  the consideration and approval under section 159 paragraph one, which shall be done by a joint sitting of the National Assembly, and the resolution approving the appointment of any person as the Prime Minister under section 159 paragraph three must  be  made  by  votes  of  more  than  one-half  of  the  total  number  of  existing members of both Houses.
@@ -4547,6 +4614,12 @@ The judges of the Constitutional Court, the persons holding positions in Indepen
 The acts of the Constitutional Court or Independent Organs and the Auditor General shall  be  in  accordance  with  the  laws  in  force  on  the  day  prior  to  the  date  of promulgation of this Constitution, insofar as they are not contrary to or inconsistent with the provisions of this Constitution.
 
 Pending the Organic Act on the Procedures of the Constitutional Court, the hearings and rendering of decisions of the Constitution Court shall be in accordance with the Rules  of  the  Constitutional  Court  in  force  on  the  day  prior  to  the  date  of promulgation of this Constitution, insofar as they are not contrary to or inconsistent with the provisions of this Constitution.
+
+- Radio
+
+- Telecommunications
+
+- Television
 
 #### Section 274
 
@@ -4622,6 +4695,54 @@ PDF generated: 29 Jan 2019, 23:15
 
 ## Topic index
 
+A
+
+Accession of territory . . . 60
+Administrative court selection . . . 63
+Advisory bodies to the head of state . . . 6
+Approval of general legislation . . . 49
+Attendance by legislators . . . 33, 37
+Attorney general . . . 15, 84
+
+B
+
+Binding effect of const rights . . . 15
+Budget bills . . . 47, 48
+
+C
+
+Cabinet removal . . . 48, 51, 55, 56, 57, 58
+Cabinet selection . . . 53
+Census . . . 26
+Civil service recruitment . . . 22
+Colonies . . . 60
+Compensation of legislators . . . 60
+Compulsory education . . . 15, 16
+Compulsory voting . . . 16, 30
+Conditions for revoking citizenship . . . 13
+Constitution amendment procedure . . . 53, 87
+Constitutional court powers . . . 15, 24, 43, 48, 57, 58, 59, 70
+Constitutional court removal . . . 63, 69, 79
+Constitutional court selection . . . 66, 67, 68
+Constitutional court term length . . . 69
+Constitutional court term limits . . . 69
+Constitutional interpretation . . . 44, 50, 58, 70, 71
+Constitutionality of legislation . . . 5, 50, 70
+Counter corruption commission . . . 72, 77
+
+D
+
+Designation of commander in chief . . . 5
+Dismissal of the legislature . . . 34
+Division of labor between chambers . . . 44, 45, 46
+Duty to obey the constitution . . . 5, 15, 55
+Duty to pay taxes . . . 16
+Duty to serve in the military . . . 15
+
+E
+
+Electoral commission . . . 72, 73
+
 Thailand 2017
 
 Page 104
@@ -4633,6 +4754,54 @@ Page 104
 constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
+
+Eligibility for cabinet . . . 36, 54
+Eligibility for const court judges . . . 31, 66, 67
+Eligibility for first chamber . . . 30, 31
+Eligibility for head of government . . . 53, 54
+Eligibility for head of state . . . 5
+Eligibility for second chamber . . . 35, 36
+Emergency provisions . . . 10, 58, 59
+Equality for persons with disabilities . . . 10
+Equality regardless of age . . . 10
+Equality regardless of financial status . . . 10
+Equality regardless of gender . . . 9, 10
+Equality regardless of language . . . 10
+Equality regardless of origin . . . 10
+Equality regardless of political party . . . 10
+Equality regardless of race . . . 10
+Equality regardless of religion . . . 10
+Equality regardless of social status . . . 10
+Establishment of administrative courts . . . 65
+Establishment of cabinet/ministers . . . 53, 55
+Establishment of constitutional court . . . 66
+Establishment of judicial council . . . 65
+Establishment of military courts . . . 65
+Extraordinary legislative sessions . . . 40, 41, 58
+
+F
+
+Finance bills . . . 44, 45
+First chamber selection . . . 25, 26, 27, 28
+Free education . . . 16
+Freedom of assembly . . . 14
+Freedom of association . . . 13
+Freedom of expression . . . 11
+Freedom of movement . . . 12
+Freedom of press . . . 11
+Freedom of religion . . . 11
+
+G
+
+General guarantee of equality . . . 5, 9
+
+H
+
+Head of government immunity . . . 40, 55
+Head of government removal . . . 48, 51, 56, 57
+Head of government replacement . . . 56
+Head of government selection . . . 53
+Head of government term length . . . 53
 
 Thailand 2017
 
@@ -4646,6 +4815,58 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
+Head of government term limits . . . 53
+Head of state decree power . . . 58, 59
+Head of state immunity . . . 5
+Head of state powers . . . 5, 6
+Head of state replacement . . . 8
+Head of state selection . . . 7
+Human dignity . . . 5, 9, 11
+Human rights commission . . . 83
+
+I
+
+Immunity of legislators . . . 40, 41
+Initiation of general legislation . . . 44
+Integration of ethnic communities . . . 21
+International law . . . 53, 59
+International organizations . . . 20, 59
+
+J
+
+Joint meetings of legislative chambers . . . 44, 52, 55, 100, 101
+Judicial independence . . . 63
+
+L
+
+Leader of first chamber . . . 23, 38
+Leader of second chamber . . . 23, 38
+Legislative committees . . . 42, 45, 48, 61
+Legislative initiatives by citizens . . . 44
+Legislative oversight of the executive . . . 50
+Length of legislative sessions . . . 39
+
+M
+
+Media commission . . . 18
+Min age of const court judges . . . 66
+Minimum age for first chamber . . . 30
+Minimum age for second chamber . . . 36
+Minimum age of head of government . . . 54
+Motives for writing constitution . . . 3
+Municipal government . . . 85
+
+N
+
+Name/structure of executive(s) . . . 4, 53
+
+O
+
+Oaths to abide by constitution . . . 6, 7, 38, 54, 63, 70
+Official religion . . . 20
+Ombudsman . . . 72, 76
+Ordinary court selection . . . 63
+
 Thailand 2017
 
 Page 106
@@ -4657,6 +4878,54 @@ Page 106
 constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
+
+Organic laws . . . 24, 43, 44
+Outside professions of legislators . . . 32, 36, 37, 61
+Ownership of natural resources . . . 12, 13, 18, 21, 60
+
+P
+
+Power to declare/approve war . . . 52, 59
+Power to pardon . . . 60
+Powers of cabinet . . . 60
+Presumption of innocence in trials . . . 10
+Principle of no punishment without law . . . 9, 10
+Prohibition of cruel treatment . . . 10
+Prohibition of slavery . . . 10
+Prohibition of torture . . . 10
+Protection from ex post facto laws . . . 10
+Protection from expropriation . . . 12
+Protection from self-incrimination . . . 10
+Protection from unjustified restraint . . . 10
+Protection of consumers . . . 13, 14, 19
+Protection of environment . . . 13, 16, 18, 21, 92, 93
+Protection of judges' salaries . . . 64
+Protection of victim's rights . . . 9
+Provisions for wealth redistribution . . . 21
+Public or private sessions . . . 42
+Publication of deliberations . . . 39
+
+Q
+
+Quorum for legislative sessions . . . 39
+
+R
+
+Radio . . . 18, 40, 101
+Reference to art . . . 13, 18, 20
+Reference to country's history . . . 3
+Reference to fraternity/solidarity . . . 4, 55, 89
+Reference to science . . . 20, 91
+Referenda . . . 4, 16, 56, 74, 88, 89
+Regulation of evidence collection . . . 10, 11
+Removal of individual legislators . . . 24, 32, 37, 48, 75
+Replacement of legislators . . . 34, 35
+Requirements for naturalization . . . 29
+Restrictions on political parties . . . 14, 32
+Restrictions on the armed forces . . . 10
+Restrictions on voting . . . 29, 30
+Right of petition . . . 13
+Right to academic freedom . . . 11
 
 Thailand 2017
 
@@ -4670,6 +4939,53 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
+Right to choose occupation . . . 13
+Right to competitive marketplace . . . 13, 22
+Right to counsel . . . 20
+Right to culture . . . 13, 18, 21
+Right to establish a business . . . 22
+Right to fair trial . . . 63
+Right to form political parties . . . 14
+Right to health care . . . 14, 17
+Right to information . . . 13, 18
+Right to join trade unions . . . 13
+Right to life . . . 10
+Right to own property . . . 12
+Right to pre-trial release . . . 10
+Right to privacy . . . 11, 12
+Right to protect one's reputation . . . 11
+Right to reasonable standard of living . . . 22
+Right to safe work environment . . . 22
+Right to speedy trial . . . 63
+Right to transfer property . . . 12
+Right to work . . . 22
+Rights of children . . . 16, 21
+
+S
+
+Scheduling of elections . . . 33
+Second chamber selection . . . 35
+Secret ballot . . . 25
+Selection of active-duty commanders . . . 60
+Size of first chamber . . . 25
+Size of second chamber . . . 35
+Source of constitutional authority . . . 3
+Spending bills . . . 44, 45
+State operation of the media . . . 18
+State support for children . . . 16, 21, 91
+State support for the disabled . . . 21
+State support for the elderly . . . 15, 21
+Structure of legislative chamber(s) . . . 23
+Structure of the courts . . . 64, 76
+Supreme court powers . . . 43, 64, 74, 75, 79, 80
+Supreme court selection . . . 63
+Supreme/ordinary court judge removal . . . 63
+
+T
+
+Tax bills . . . 44, 45
+Telecommunications . . . 18, 40, 101
+
 Thailand 2017
 
 Page 108
@@ -4681,6 +4997,21 @@ Page 108
 constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
+
+Television . . . 18, 40, 101
+Term length for first chamber . . . 32
+Term length of second chamber . . . 37
+Treaty ratification . . . 53, 59
+Type of government envisioned . . . 4
+
+U
+
+Ultra-vires administrative actions . . . 13, 77
+Unamendable provisions . . . 87
+
+V
+
+Veto override procedure . . . 49
 
 Thailand 2017
 
