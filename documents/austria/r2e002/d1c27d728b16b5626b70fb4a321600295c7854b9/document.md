@@ -1,8 +1,8 @@
 [[START OF PAGE 1]]
-
+REPUBLIK ÖSTERREICH
 # Work programme of the Austrian Federal Government
 
-2013  -  2018
+2013–2018
 
 Austria.
 
@@ -12,7 +12,7 @@ A story of success.
 
 [[START OF PAGE 2]]
 
-# Work programme of the Austrian Federal Government 2013  -  2018
+# Work programme of the Austrian Federal Government 2013–2018
 
 Austria. A story of success.
 
@@ -33,7 +33,16 @@ Design: BKA | ARGE Grafik Printing: BM.I Digitalprintcenter Vienna, December 201
 [[START OF PAGE 4]]
 
 ## Table of Contents
-
+Preamble 4
+Cooperation of the two governing parties 5
+01 Growth and employment for Austria 8
+02 Making Austria fit for the future 24
+03 Education, science, art and culture, women 40
+04 Living and working longer in good health 52
+05 Austria in Europe and the world 70
+06 Security and state governed by the rule of law 78
+07 State reform and democracy 88
+08 Finances 98
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
@@ -98,8 +107,9 @@ In this case and in the event that one party votes down the bills, resolutions o
 
 [[START OF PAGE 8]]
 
-## Growth and employment for Austria 01
+## Growth and employment for Austria
 
+01
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
@@ -108,7 +118,7 @@ In this case and in the event that one party votes down the bills, resolutions o
 
 ### Growth
 
-Objective: A massive increase in employment with the goal of full employment through aboveaverage economic growth compared with the euro zone.
+Objective: A massive increase in employment with the goal of full employment through above-average economic growth compared with the euro zone.
 
 Challenges: Stronger economic growth is the decisive factor in safeguarding and increasing employment and prosperity in Austria for the long term. In the last few years, European economic policy has been geared towards rapid consolidation, among other things. Given the continuing difficult international environment, it is also necessary to create room for growth and employment. This requires measures on both the supply and demand side that need implementing not just nationally but also - due to considerable international interconnection - at the European level. Austria must ensure that it remains one of the world's leading locations for the industrial and service sectors by investing in the future.
 
@@ -213,7 +223,7 @@ Challenges: Each year about 10,000 young people do not participate in any furthe
 
 · Provide sufficient low-threshold training opportunities not least in connection with dual vocational training.
 
-Objective: Upgrade apprenticeships. Good skilled workers are the backbone of the Austrian economy. Although internationally recognized, our apprentice training has image problems. Further steps need to be taken if this training is to remain attractive and successful in the next few decades. The two sides of industry have already submitted a comprehensive package of measures with their paper 'Educational Foundations - Goals and Measures for ForwardLooking Educational Reform'.
+Objective: Upgrade apprenticeships. Good skilled workers are the backbone of the Austrian economy. Although internationally recognized, our apprentice training has image problems. Further steps need to be taken if this training is to remain attractive and successful in the next few decades. The two sides of industry have already submitted a comprehensive package of measures with their paper 'Educational Foundations - Goals and Measures for Forward-Looking Educational Reform'.
 
 · Implement systematic quality management in companies that take on trainees and in extra-company vocational training;
 
@@ -265,13 +275,13 @@ Challenges: The rate of employment for women is lower than that for men, and the
 
 · 50  % of Public Employment Service (AMS) funding for women (e.g. develop career counselling and options that lead to the completion of vocational training, and strengthen training in non-traditional vocations and in 'the vocations of the future');
 
-· Improve support for people returning to work already during their time-off from work/ parental leave.
+· Improve support for people returning to work already during their time-off from work/parental leave.
 
 Objective: Increase employment of older people. The unemployment rate for the over-50s is above average. Older people who lose their job find it hard to get back into the labour market. Pension reforms require increased cooperation among the relevant institutions.
 
 · Increase support for integrating older people (50+ and already out of work for 6 months) into  the  labour  market  through  activating  passive  Public  Employment  Service  (AMS)
 
-1 1
+11
 
 [[END OF PAGE 12]]
 
@@ -321,7 +331,7 @@ Challenges: Employers and employees both want secure and flexible parameters in 
 
 · Enable 10 hours' work through passive travel times in the Austrian Children and Youth Employment Act (KJBG) from 16 years of age upwards;
 
-· Evaluate existing models and examine the introduction of voluntary (life-long) workingtime credit accounts from 2014 onwards;
+· Evaluate existing models and examine the introduction of voluntary (life-long) working-time credit accounts from 2014 onwards;
 
 · Right of information for part-time employees when a position is advertised with a higher number of working hours;
 
@@ -339,13 +349,13 @@ Challenges: Employers and employees both want secure and flexible parameters in 
 
 · Tax-favourable  employee  profit-sharing  (or  possibly  favourable  bonus  for  employers who can show no profit): max. 10  % of net earnings for the year, max. € 1,000 per employee per year, taxed flat-rate at 25  %, limited to 3 years.
 
-#### Measures for new rules and instruments that ensure more mutual fairness in the employeremployee relationship:
+#### Measures for new rules and instruments that ensure more mutual fairness in the employer-employee relationship:
 
 · Transparency with all-in contracts: basic wage shown in figures, otherwise the current basic wage shall apply appropriate to a worker's personal level of activity (i.e. including any standard additional collective agreement payments specific to the industry or locality);
 
 · Enable works agreements to stipulate working hours and to standardize remuneration directly connected with these hours (non-enforceable works agreements);
 
-· The statutory additional payment for excess hours should be reduced only through once they have been introduced - provisions drawn up by collective agreement;
+· The statutory additional payment for excess hours should be reduced only through – once they have been introduced – provisions drawn up by collective agreement;
 
 · Make legal provision for activity-related doctor's certificates ('sick notes');
 
@@ -415,7 +425,7 @@ Challenges: The availability of efficient financing possibilities for companies 
 
 · Create a platform for small and medium-sized enterprises (SMEs) to strengthen their equity capital;
 
-· Raise finance and participations via finance companies to strengthen equity capital and/ or for SME growth projects;
+· Raise finance and participations via finance companies to strengthen equity capital and/or for SME growth projects;
 
 · Create  the  conditions  in  the  Austrian  Alternative  Investment  Fund  Managers  Act (AIFMG) under which private investors can sell shares to finance companies;
 
@@ -467,7 +477,7 @@ Challenges: Red tape involves especially businesses in an enormous amount of adm
 
 · Make widespread use of administrative data for statistical purposes (e.g. transport statistics data from the Austrian Motorway and Expressway Financing Company PLC, working hours data from the Central Association of Social Insurance Providers);
 
-· Measures to simplify tax law - some can be implemented immediately: raise the value limits for the duty to disclose as required by Section 109a of the Austrian Income Tax Act (EstG), delete the need for a purchase journal, greatly simplify the tax return in connection with a simplification of tax law, raise the value limit for invoices for small amounts to at least € 400;
+· Measures to simplify tax law - some can be implemented immediately: raise the value limits for the duty to disclose as required by Section 109a of the Austrian Income Tax Act (EStG), delete the need for a purchase journal, greatly simplify the tax return in connection with a simplification of tax law, raise the value limit for invoices for small amounts to at least € 400;
 
 · Authorized representatives in companies: the list of authorized representatives will be revised in 2014 with the aim of cutting three positions;
 
@@ -504,7 +514,7 @@ Challenges: Red tape involves especially businesses in an enormous amount of adm
 #### Simplify payroll accounting:
 wages accounting has become so complicated that the amount of effort required to administer it can no longer be justified by either companies or the authorities. Often employees have no way of checking their pay slips. Accordingly, payroll accounting needs simplifying with the following key elements:
 
-· Extensively harmonize the assessment bases in the Austrian General Social Security Act (ASVG) and in the Austrian Income Tax Act (EstG). First step: set up a group of experts immediately;
+· Extensively harmonize the assessment bases in the Austrian General Social Security Act (ASVG) and in the Austrian Income Tax Act (EStG). First step: set up a group of experts immediately;
 
 · Consolidate the contribution groups. First step: set up a group of experts immediately. Priority measures: consolidate the groups with only slightly differing contribution rates and apprentices' contribution groups;
 
@@ -575,7 +585,7 @@ Unemployment insurance law is confusing and basically dates back to the post-War
 
 · Implement the Common Agricultural Policy (CAP) reform: more growth and employment.
 
-· Implement a uniform regional model across Austria with no production-related tieins for arable, permanently cultivated, or grassland areas (including meadow land mown once a year). A differentiated area payment and an animal-related payment for driving cattle up into alpine pastures is planned for common pastures;
+· Implement a uniform regional model across Austria with no production-related tie-ins for arable, permanently cultivated, or grassland areas (including meadow land mown once a year). A differentiated area payment and an animal-related payment for driving cattle up into alpine pastures is planned for common pastures;
 
 · Interim arrangement: ensure the competitiveness of agricultural businesses through gradually phasing in the regional model by 2019 (5 x 20  % steps from 2015 onwards);
 
@@ -587,7 +597,7 @@ Unemployment insurance law is confusing and basically dates back to the post-War
 
 · Agricultural-environmental programme: in view of climate change, develop this programme with the goal of creating a productive nationwide agricultural sector, bearing in mind efficiency, sustainable protection of resources, biodiversity, the protection of nature and animals, soil as the basis of production, and the strengthening of organic farming;
 
-· Mountain farmer programme: increase the additional compensation allowance in categories 3 & 4 of the mountain farm cadastre (BHK); safeguard the defined regionaldevelopment category of mountainous and disadvantaged areas;
+· Mountain farmer programme: increase the additional compensation allowance in categories 3 & 4 of the mountain farm cadastre (BHK); safeguard the defined regional-development category of mountainous and disadvantaged areas;
 
 · The  European  Social  Fund  (ESF),  the  European  Fund  for  Regional  Development (EFRE), and the European Agricultural Fund for Rural Development (EAFRD) all contribute to the development of rural areas. The national partnership agreement stipulates that altogether 20  % of EAFRD funds should be used for pursuing the objectives of strengthening research, technological development and innovation (Goal 1), boosting the competitiveness of SMEs (Goal 3), and promoting social integration as well as combating poverty (Goal 9), whereby Goal 9 is to be funded by EAFRD with up to 7  % (of which up to 7  % for social services).
 
@@ -635,7 +645,7 @@ Unemployment insurance law is confusing and basically dates back to the post-War
 
 · Professionalize and improve entrepreneurial competence as the general thrust of content in the educational and consultancy area;
 
-· Launch a research and innovation campaign for the agriculture, forestry and foodproduction sector regarding climate change, promote the sustainable use of resources, and support the bioeconomy research initiative.
+· Launch a research and innovation campaign for the agriculture, forestry and food-production sector regarding climate change, promote the sustainable use of resources, and support the bioeconomy research initiative.
 
 ### The future of the rural areas
 
@@ -731,9 +741,9 @@ To make comprehensive use of European and national funding possibilities, interd
 
 [[START OF PAGE 24]]
 
-02
-
 ## Making Austria fit for the future
+
+02
 
 [[END OF PAGE 24]]
 
@@ -853,7 +863,7 @@ Objective: Youth policy is a cross-sectional topic. The skills and needs of youn
 
 · Continue, safeguard and - if necessary - develop media formats, such as the 'Advice Hotline' ('Rat auf Draht'), to counsel and assist children and young people so that they can meet special contingencies in life.
 
-##### Improve support for young people in finding the right education and professional career preparation for their further educational and professional career.
+##### Improve support for young people in finding the right education and professional career - preparation for their further educational and professional career.
 
 · Establish Political Education as a compulsory module from the 6th school grade as part of the subject History and Social Studies/Political Education. Schools shall also be free to teach a subject of their own autonomous choosing;
 
@@ -933,7 +943,7 @@ Deficits in our living together should be systematically avoided or removed so t
 
 [[START OF PAGE 30]]
 
-Austrian labour market and of Austria as an economic location. The RWR (red-whitered) card should also be further modernized and freed from red tape;
+Austrian labour market and of Austria as an economic location. The RWR (red-white-red) card should also be further modernized and freed from red tape;
 
 · The possibility of making tuition fees tax-deductible after graduation shall be examined to encourage more highly qualified foreign graduates to stay in Austria.
 
@@ -971,7 +981,7 @@ Challenges: Ensure adequate public research funding for excellent basic research
 
 [[START OF PAGE 31]]
 
-- ogy (MINT) (e.g. each year 2,000 Children's University research placements, 'Jugend Innovativ' or 'Young People Innovate' campaign). Step up measures to stem the 'brain drain' and to encourage the migration to Austria of highly qualified researchers; training and further training initiatives for R&D staff. Promote the dialogue between science and society. Raise the proportion of women in research;
+ogy (MINT) (e.g. each year 2,000 Children's University research placements, 'Jugend Innovativ' or 'Young People Innovate' campaign). Step up measures to stem the 'brain drain' and to encourage the migration to Austria of highly qualified researchers; training and further training initiatives for R&D staff. Promote the dialogue between science and society. Raise the proportion of women in research;
 
 · Innovative entrepreneurship: increase the number of enterprises actively involved in innovation through measures aimed at start-up companies; champion start-ups through appropriate support, funding and consultancy, etc. (e.g. venture capital); promote the relocation to Austria of R&D-intensive companies and the R&D HQs of international corporations; increase support for production and key technologies; increase the networking of universities and institutes of applied science with a view to attracting research enterprises to relocate to them;
 
@@ -979,7 +989,7 @@ Challenges: Ensure adequate public research funding for excellent basic research
 
 · Research infrastructure: renew and develop research infrastructure in a coordinated and needs-driven way for joint use by science and the economy as well as by international research bodies such as the European Strategy Forum on Research Infrastructures (ESFRI); utilize EU funds for co-financing;
 
-· Boost top-flight  research  in  the  basic  and  applied  field,  and  comprehensively  support the  innovation  chain:  comprehensively  support  the  innovation  chain  from  excellenceoriented basic research (raise its profile in the Austrian Academy of Sciences and universities) via applied RTI through to translation into marketable products and services. Increase cooperation between science and business (e.g. Comet, Bridge, Proof of Concept programme, Christian Doppler Research Association, Ludwig Boltzmann Society, knowledge-transfer centres, Austrian Cooperative Research; set up ten endowed professorships in important technology areas (Austrian Research Promotion Agency/FFG), and help SMEs and start-up companies develop new markets;
+· Boost top-flight  research  in  the  basic  and  applied  field,  and  comprehensively  support the  innovation  chain:  comprehensively  support  the  innovation  chain  from  excellence-oriented basic research (raise its profile in the Austrian Academy of Sciences and universities) via applied RTI through to translation into marketable products and services. Increase cooperation between science and business (e.g. Comet, Bridge, Proof of Concept programme, Christian Doppler Research Association, Ludwig Boltzmann Society, knowledge-transfer centres, Austrian Cooperative Research; set up ten endowed professorships in important technology areas (Austrian Research Promotion Agency/FFG), and help SMEs and start-up companies develop new markets;
 
 · Overall strategy for intellectual property: exploit the full potential of intellectual property by developing and implementing a national strategy for intellectual property involving all stakeholders and taking into account the entire bandwidth of intellectual property;
 
@@ -999,7 +1009,7 @@ Challenges: Ensure adequate public research funding for excellent basic research
 
 [[START OF PAGE 32]]
 
-- ment, through the integrated planning and utilization of European funds (e.g. European Fund for Regional Development/EFRE, European Investment Bank/EIB), and through providing incentives for private R&D investment;
+ment, through the integrated planning and utilization of European funds (e.g. European Fund for Regional Development/EFRE, European Investment Bank/EIB), and through providing incentives for private R&D investment;
 
 · Greatly simplify access to research funding - especially for SMEs; modernize research funding law (in particular the Austrian Research Organization Act/FOG, the Research and Technology Funding Act/FTFG, General Framework Directives/ARR); cut red tape regarding the processing of funding; establish a generally applicable regulation for funding overheads; make it easier to utilize the resources of the European Fund for Regional Development (EFRE) while ensuring legal certainty; avoid multiple audits; implement measures to optimize coordination between the EU, the Government, and the Länder regarding research funding and research institutes in Austria as a research base.
 
@@ -1131,7 +1141,7 @@ Objectives: The Austrian Federal Government is committed to a long-term environm
 
 · 'EU 2020 targets': implement Austrian self-commitment (renewable energy 34  %; greenhouse gas emissions -16  %, energy efficiency +20  %);
 
-· EU emissions trading must create clear incentives for reducing emissions and for longterm planning certainty for investors;
+· EU emissions trading must create clear incentives for reducing emissions and for long-term planning certainty for investors;
 
 · Reduce dependency on fossil energy sources in everyday life by lowering CO2 in transport (e.g. e-mobility, developing public transport, and innovative mobility concepts), thermal rehabilitation of buildings (3  % target), and connecting up to district heating networks;
 
@@ -1205,7 +1215,7 @@ Objectives: The Austrian Federal Government is committed to a long-term environm
 
 · Reduce the amount of food thrown away by at least 20 %, lower environmental pollution by decreasing emission pollutants, close material cycles, boost recycling, high-quality recycling (End of Waste Ordinance - Soil, Recycling Building Material Ordinance) and the recovery of critical raw materials;
 
-· 'ALSAG New' (Austrian Contaminated Sites Remediation Act/ALSAG) based on location- and usage-related clean-up targets and assured funding in line with the polluterpays principle;
+· 'ALSAG New' (Austrian Contaminated Sites Remediation Act/ALSAG) based on location- and usage-related clean-up targets and assured funding in line with the polluter-pays principle;
 
 · Initiative in the area of strategic regional planning across Austria in consultation with the Länder, for example to prevent progressive soil sealing, urban sprawl, etc.;
 
@@ -1219,10 +1229,10 @@ Objectives: The Austrian Federal Government is committed to a long-term environm
 
 Objective: Strengthen the country's overall transport plan and develop a strategy across all means of transport: The Austrian Federal Government's aim is to secure for the future the mobility requirements of the country's citizens and its economy through an efficient, sustainable and intermodal organization of the transport system with free choice for the people of their means of transport.
 
-Challenge: Taking the overall transport plan for Austria as a working basis and building on it, a joint Federal Government strategy across all modes of transport shall be formulated consulting widely with stakeholders and experts - covering the key challenges of transport policy in specific project fields (modern infrastructure, basic provision of public transport nationwide, freight transport and logistics, regional development and transport, and raising people's eco-awareness).
+Challenge: Taking the overall transport plan for Austria as a working basis and building on it, a joint Federal Government strategy across all modes of transport shall be formulated - consulting widely with stakeholders and experts - covering the key challenges of transport policy in specific project fields (modern infrastructure, basic provision of public transport nationwide, freight transport and logistics, regional development and transport, and raising people's eco-awareness).
 
 #### Measures: Develop and renew our transport infrastructure in a targeted way and in line with transport requirements:
-An efficient economy such as Austria's requires functioning, needsdriven, public infrastructures. Here developing our infrastructure means, generally speaking, improving the interfaces between the different means of transport, in particular upgrading goods terminals, railway stations, and park-and-ride facilities.
+An efficient economy such as Austria's requires functioning, needs-driven, public infrastructures. Here developing our infrastructure means, generally speaking, improving the interfaces between the different means of transport, in particular upgrading goods terminals, railway stations, and park-and-ride facilities.
 
 · High-grade road network: The medium-term investment programme of Austrian Motorway and Expressway Financing Company plc (ASFINAG) for a high-grade road network was defined in Evaluation 2010 and is being implemented and continued with corresponding 6-year outline plans. Regardless of this, the investment programme shall be re-evaluated;
 
@@ -1332,9 +1342,9 @@ Post: review continuation of the universal service.
 
 [[START OF PAGE 40]]
 
-03
-
 ## Education, science, art and culture, women
+
+03
 
 [[END OF PAGE 40]]
 
@@ -1348,7 +1358,7 @@ Objective: High-quality childcare and elementary education.
 
 Challenge: Reach the Barcelona target (33  % care ratio) in all federal provinces (Länder).
 
-Measure: The Federal Government shall provide start-up funding totalling € 350 million in the years up to 2017. In doing so, it will give priority to four areas: expanding care for under3-year-olds; creating a nationwide quality framework by 2016; expanding and upgrading the quality of childminder care and language support; and promoting institutional facilities, childminders, operational solutions, and projects cutting across local authorities.
+Measure: The Federal Government shall provide start-up funding totalling € 350 million in the years up to 2017. In doing so, it will give priority to four areas: expanding care for under-3-year-olds; creating a nationwide quality framework by 2016; expanding and upgrading the quality of childminder care and language support; and promoting institutional facilities, childminders, operational solutions, and projects cutting across local authorities.
 
 Objective: Strengthen elementary education.
 
@@ -1372,13 +1382,15 @@ Objective: School entry phase, and strengthen primary schools.
 
 Challenge: Organize transitions well, and strengthen basic competences.
 
-Measure: The last (compulsory) nursery school year and the first two primary school years shall be understood as a joint school-entry phase. In the area of the school-entry phase as well as in the whole elementary stage I and II, teaching across age groups with flexible internal differentiation shall be possible in every school. For children needing language support, compulsory intensive language courses shall be set up so that the children can successfully complete the school-entry phase. Alternative specifications of services can be defined autonomously for each school up to and including the 3rd school grade. Syllabuses shall be further developed so that they are more oriented to competence, with a clear focus on greater teaching of basic competences (cognitive, affective, psychomotor) and especially on the cultural skills of reading, writing and arithmetics. Additional quotas of hours shall be made available to primary schools autonomously for each school - on the basis of a transparent controlling system uniform throughout Austria and appropriate quality-assurance measures - in order to take action in all areas regarding support, advancement, talent and gifted pupils, but particularly in the area of language development. A framework model shall be worked out for this which will take into account regional differences, the size of locations, and specific socio-economic parameters of the schools.
+Measure: The last (compulsory) nursery school year and the first two primary school years
 
 40
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
+
+shall be understood as a joint school-entry phase. In the area of the school-entry phase as well as in the whole elementary stage I and II, teaching across age groups with flexible internal differentiation shall be possible in every school. For children needing language support, compulsory intensive language courses shall be set up so that the children can successfully complete the school-entry phase. Alternative specifications of services can be defined autonomously for each school up to and including the 3rd school grade. Syllabuses shall be further developed so that they are more oriented to competence, with a clear focus on greater teaching of basic competences (cognitive, affective, psychomotor) and especially on the cultural skills of reading, writing and arithmetics. Additional quotas of hours shall be made available to primary schools autonomously for each school - on the basis of a transparent controlling system uniform throughout Austria and appropriate quality-assurance measures - in order to take action in all areas regarding support, advancement, talent and gifted pupils, but particularly in the area of language development. A framework model shall be worked out for this which will take into account regional differences, the size of locations, and specific socio-economic parameters of the schools.
 
 Objective: Educational and professional career guidance with analysis of personal strengths.
 
@@ -1396,7 +1408,7 @@ Objective: Develop all-day types of school both qualitatively and quantitatively
 
 Challenge: Subject to appropriate quality criteria, ensure the provision of all-day types of school (in alternating/non-alternating form) at a reasonable distance from one another.
 
-Measure: To improve freedom of choice, and in consultation with the school providers (class by class), at least one class for each school grade shall be held all day in alternating form alongside a class with non-alternating form - at each school location with more than one age-group class or at a reasonable distance from the next location if there is a need as stipulated by the current legal position (12 or 15 pupils). Areas of jurisdiction shall be established (agreement should be reached between the school providers about the allocation of costs; in the case of smaller schools attention should be paid to the maintenance of the school locations). Cooperations with non-school institutions shall be promoted; the requirements of the current agreement pursuant to Article 15a of the Federal Constitution of the Republic of Austria (BVG) shall remain unaffected by this.
+Measure: To improve freedom of choice, and in consultation with the school providers (class by class), at least one class for each school grade shall be held all day in alternating form - alongside a class with non-alternating form - at each school location with more than one age-group class or at a reasonable distance from the next location if there is a need as stipulated by the current legal position (12 or 15 pupils). Areas of jurisdiction shall be established (agreement should be reached between the school providers about the allocation of costs; in the case of smaller schools attention should be paid to the maintenance of the school locations). Cooperations with non-school institutions shall be promoted; the requirements of the current agreement pursuant to Article 15a of the Federal Constitution of the Republic of Austria (B-VG) shall remain unaffected by this.
 
 41
 
@@ -1432,13 +1444,15 @@ Objective: Develop integration classes and further improve inclusive education.
 
 Challenge: Common educational opportunities for all pupils.
 
-Measure: Further develop school educational experiments at secondary level II (Sekundarstufe II; ~ UK sixth form level); evaluate and try out integrative vocational training models in federal secondary schools; formulate a regional model for optimally assisting all the pupils of this region with scientific support in line with their needs; further develop the Special Educational Centres; revise the criteria for special educational needs across the entire educational bandwidth. The extent of special educational needs provision should reflect the actual requirement. Anchor inclusive education in education, further education and continuing education, particularly within the context of integrative vocational training.
+Measure: Further develop school educational experiments at secondary level II (Sekundarstufe II; ~ UK sixth form level); evaluate and try out integrative vocational training models in federal secondary schools; formulate a regional model for optimally assisting all the pupils of this region with scientific support in line with their needs; further develop the Special Educational Centres; revise the criteria for special educational needs across the entire educational band-
 
 42
 
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
+
+width. The extent of special educational needs provision should reflect the actual requirement. Anchor inclusive education in education, further education and continuing education, particularly within the context of integrative vocational training.
 
 Objective: Improve permeability between school and apprenticeship.
 
@@ -1531,7 +1545,7 @@ To achieve these goals, three projects have been developed for Austria.
 
 · As part of a future plan for developing and funding Austria's institutes of applied science, the number of places at these institutes shall be increased to 50,000, while their funding rates shall also be increased;
 
-· The range of opportunities and courses for young people graduating from the dual system and from the vocational school system shall be further developed, with the aim among other things - of counting subject-related skills and qualifications more towards these courses.
+· The range of opportunities and courses for young people graduating from the dual system and from the vocational school system shall be further developed, with the aim - among other things - of counting subject-related skills and qualifications more towards these courses.
 
 #### Package of opportunities, measures and services for students and young researchers in Austria.
 
@@ -1543,7 +1557,7 @@ To achieve these goals, three projects have been developed for Austria.
 
 [[START OF PAGE 47]]
 
-- the whole higher educational sector. Performance, responsibility and increased opportunities for highly qualified scientific staff to participate must be important parameters in the successful development of the tertiary sector;
+the whole higher educational sector. Performance, responsibility and increased opportunities for highly qualified scientific staff to participate must be important parameters in the successful development of the tertiary sector;
 
 · To strengthen the idea of Europe, the involvement of Austrian students and teachers in European mobility programmes (e.g. Erasmus) should be further stepped up;
 
@@ -1581,7 +1595,7 @@ Challenge: Reduce differences in income, advance women in the labour market so t
 
 [[START OF PAGE 48]]
 
-- research, business, administration, and self-administering bodies. A model for this should be the regulation of March 2011 relating to the self-commitment of state-related companies;
+research, business, administration, and self-administering bodies. A model for this should be the regulation of March 2011 relating to the self-commitment of state-related companies;
 
 · More women in atypical professions: create an information platform 'Women/Girls into Engineering and Technology', continue targeted projects for atypical professions, and evaluate the effectiveness of promoting apprenticeship places for training girls in atypical professions;
 
@@ -1589,13 +1603,13 @@ Challenge: Reduce differences in income, advance women in the labour market so t
 
 Objective: Increase the security and safety of women.
 
-Challenge: Enable women to enjoy a self-determined, financially independent, and violencefree life.
+Challenge: Enable women to enjoy a self-determined, financially independent, and violence-free life.
 
 Measures: Social security and protection against violence.
 
 · Information campaign on the topic of women and pensions (pension splitting, part-time, parental leave, etc.) through - among other things - handing out precise information when the childcare allowance is being applied for;
 
-· Further develop the Austrian Advance Payment of Maintenance Act (UVG), make an upto-date 'analysis of child costs', and, building on this, evaluate the maximum maintenance limits;
+· Further develop the Austrian Advance Payment of Maintenance Act (UVG), make an up-to-date 'analysis of child costs', and, building on this, evaluate the maximum maintenance limits;
 
 · Continue the interministerial work group dealing with the national action plan 'Against Violence to Women';
 
@@ -1671,7 +1685,7 @@ Challenge: Enable all people to access art and culture regardless of their socia
 
 · Work out an 'Austrian library plan' for developing a modern nationwide library network, taking into account e-media, and push ahead with digitalization activities;
 
-· Promote  educational  activities  on  the  occasion  of  the  year  of  remembrance  2018  'House of History Austria' project, and commit to restitution as well as an active culture of remembrance.
+· Promote  educational  activities  on  the  occasion  of  the  year  of  remembrance  2018  - 'House of History Austria' project, and commit to restitution as well as an active culture of remembrance.
 
 Objective: Fair pay for creative work.
 
@@ -1713,7 +1727,7 @@ Objective: Access to knowledge and information through an innovative media polic
 
 · The Federal Government is committed to ensuring competition in a dual broadcasting system and to developing both the content as well as technical side of dual broadcasting in Austria. Measures should be taken to counteract the economic changes in the media sector caused by the digital substitution as well as by the financial and economic crisis together with the significant drop in advertising revenue associated with the latter. Accordingly, support for private commercial and non-commercial broadcasting companies should be continued;
 
-· Public-service broadcasting plays a central democratic and socio-political role. The Austrian Broadcasting Corporation (ORF) should focus on public-service programme content so that in this way it can fulfil its public service mandate. Against this background, the ORF should in particular play an important role in producing and broadcasting highquality Austrian programme content. To enable it to do so, it is necessary to bring its public service mandate into line with European guidelines, to enshrine new public-service content in law, and to evaluate online restrictions. ORF employees should also in future find working conditions which guarantee that the Corporation can carry out its journalistic activity to a high standard.
+· Public-service broadcasting plays a central democratic and socio-political role. The Austrian Broadcasting Corporation (ORF) should focus on public-service programme content so that in this way it can fulfil its public service mandate. Against this background, the ORF should in particular play an important role in producing and broadcasting high-quality Austrian programme content. To enable it to do so, it is necessary to bring its public service mandate into line with European guidelines, to enshrine new public-service content in law, and to evaluate online restrictions. ORF employees should also in future find working conditions which guarantee that the Corporation can carry out its journalistic activity to a high standard.
 
 50
 
@@ -1945,7 +1959,7 @@ Study possible ways of increasing the efficiency of the social insurance provide
 
 Objective: Patient-focused care. Ensure the best possible nationwide provision of health services close to people's homes, regardless of age, income, gender, origin, or state of health, and continue the reform of the health care system beyond 2016.
 
-The Austrian Federal Government is committed to Health Care System Reform 2013 (pursuant to the agreements and objective management agreements under Article 15a of the Federal Constitution of the Republic of Austria (B-VG) as the principal reforms proposed for the Austrian health care system. The key when accessing medical services is a nationwide system of public health services close to people's homes, which guarantee high-quality roundthe-clock care of the population. To ensure this, the following priority measures should be implemented:
+The Austrian Federal Government is committed to Health Care System Reform 2013 (pursuant to the agreements and objective management agreements under Article 15a of the Federal Constitution of the Republic of Austria (B-VG) as the principal reforms proposed for the Austrian health care system. The key when accessing medical services is a nationwide system of public health services close to people's homes, which guarantee high-quality round-the-clock care of the population. To ensure this, the following priority measures should be implemented:
 
 · All the necessary changes to the legal parameters shall be made by the end of 2014, notably in general contract law, in hospital law, and in the occupational laws;
 
@@ -2097,7 +2111,7 @@ Objective: Create new and affordable living space, and rehabilitate.
 
 · Create incentives to rehabilitate in particular by:
 
-· Expanding the rehabilitation  cheque  through  adding  the  category  'senior  citizenfriendly/barrier-free housing'; enabling separate funding possibilities for thermal rehabilitation and rehabilitation related to a building's age; focusing in particular on multi-storey housing; devising a practical solution in connection with the unanimity requirement of tenants;
+· Expanding the rehabilitation  cheque  through  adding  the  category  'senior  citizen-friendly/barrier-free housing'; enabling separate funding possibilities for thermal rehabilitation and rehabilitation related to a building's age; focusing in particular on multi-storey housing; devising a practical solution in connection with the unanimity requirement of tenants;
 
 · Establishing  a  public-authority  tax-incentive  model  to  drive  forwards  thermal rehabilitation.
 
@@ -2181,7 +2195,7 @@ The Government's aim is that federal funding of the public pension systems shoul
 
 Its priority is to raise the effective age at which people reach retirement. If there is any significant divergence from the defined differentiated target values, agreement shall be reached to take measures to get back on track.
 
-Objective: All measures should lead to the long-term protection of the statutory contributionbased pension system, to long-term security, and to safeguarding the value of pensions for those entitled to claim them.
+Objective: All measures should lead to the long-term protection of the statutory contribution-based pension system, to long-term security, and to safeguarding the value of pensions for those entitled to claim them.
 
 62
 
@@ -2237,7 +2251,7 @@ The rise in the employment ratios results from measures (affecting these age gro
 
 [[START OF PAGE 65]]
 
-- contribution shall be collected from employment income. The overall effect of this will thus be that the bonus increases to approximately 10  % for each year of deferment.
+contribution shall be collected from employment income. The overall effect of this will thus be that the bonus increases to approximately 10  % for each year of deferment.
 
 · Increase efforts to reintegrate older jobless people into the employment process for as long as possible:
 
@@ -2269,7 +2283,7 @@ The rise in the employment ratios results from measures (affecting these age gro
 
 · Ensure that account advices are laid out in a uniform and informative way (first account credit entry) and in particular that notification of pension entitlement already acquired and of the anticipated amount of pension can be easily understood (when people claim their retirement pension at the earliest possible time or when they only claim their retirement pension at the normal retirement age).
 
-Objective: Half-yearly monitoring from July 2014 onwards (key date 30.6.2014) of the measures of recent years especially with regard to their contribution to raising the effective retirement age and employment ratio of older people. If the goal of raising the effective retirement age and employment ratio has not been significantly achieved by the end of 2015, further binding - measures should be taken without delay.
+Objective: Half-yearly monitoring from July 2014 onwards (key date 30.6.2014) of the measures of recent years especially with regard to their contribution to raising the effective retirement age and employment ratio of older people. If the goal of raising the effective retirement age and employment ratio has not been significantly achieved by the end of 2015, further - binding - measures should be taken without delay.
 
 #### Measures:
 
@@ -2281,7 +2295,7 @@ Objective: Half-yearly monitoring from July 2014 onwards (key date 30.6.2014) of
 
 [[START OF PAGE 66]]
 
-- tive pension age, employment ratio) as well as monitoring measures to determine what contribution the measures taken have made to meeting the targets;
+tive pension age, employment ratio) as well as monitoring measures to determine what contribution the measures taken have made to meeting the targets;
 
 · To ensure that early retirement is being monitored in a genuinely transparent way, it should among other things be viewed separately in terms of gender, age group (up to 50, 50-54, 55-59, 60-64) and type of pension. Those receiving rehab benefits should also be considered separately;
 
@@ -2405,9 +2419,7 @@ Objective: Improve the structures of sport, and better embed them in society.
 
 Fair play in sport: The integrity of sport is threatened by doping, betting fraud, and violence.
 
-Further develop institutions and legal parameters.
-
-Objective:
+Objective: Further develop institutions and legal parameters.
 
 #### Measures:
 
@@ -2569,7 +2581,7 @@ Challenge: The euro zone and stability of the euro are of crucial importance for
 
 · Realignment and strengthening of the dispute resolution mechanism SOLVIT to ensure rapid, unbureaucratic and effective remedying of non-compliance with internal market laws for businesses and citizens;
 
-· Advocating a European-wide administrative enforcement agreement for effective crossborder law enforcement in the internal market, notably in the sector of service provision;
+· Advocating a European-wide administrative enforcement agreement for effective cross-border law enforcement in the internal market, notably in the sector of service provision;
 
 · Promotion of a European-wide social minimum standard with no lowering of the national level;
 
@@ -2675,15 +2687,17 @@ Challenge: A central responsibility of Austrian foreign policy lies in its oblig
 
 [[START OF PAGE 77]]
 
-(this page came through the extractor with no text)
+76
 
 [[END OF PAGE 77]]
 
 [[START OF PAGE 78]]
 
-state governed 06
+## Security and state governed by the rule of law
 
-## Security and by the rule of law
+06
+
+77
 
 [[END OF PAGE 78]]
 
@@ -3101,9 +3115,9 @@ Timetable: Legislative period; Partnership under civil law 2014, Copyright 2014.
 
 [[START OF PAGE 88]]
 
-07
-
 ## State reform and democracy
+
+07
 
 87
 
@@ -3289,7 +3303,7 @@ Implementation: Submission of a bill draft in 2014.
 
 Modernising employment law.
 
-Objective: M odern, independent and uniform employment law at federal level with occupation-specific characteristics should be prepared. It should take into account the requirements of focusing on the common good within the meaning of ideal service provision for citizens and for companies with a basic public-law objective. The new employment law must be suitable for ensuring the rule of law in a broad sense. Modern salary developments are intended to protect the competitiveness of the employer federation in the labour market in the future.
+Objective: Modern, independent and uniform employment law at federal level with occupation-specific characteristics should be prepared. It should take into account the requirements of focusing on the common good within the meaning of ideal service provision for citizens and for companies with a basic public-law objective. The new employment law must be suitable for ensuring the rule of law in a broad sense. Modern salary developments are intended to protect the competitiveness of the employer federation in the labour market in the future.
 
 #### Measures:
 
@@ -3505,7 +3519,7 @@ This means that a project of this kind can only be implemented if cover is given
 
 ### Expanding transparency and co-operation in international tax matters
 
-Objective: Improving international transparency in tax matters and better international cooperation.
+Objective: Improving international transparency in tax matters and better international co-operation.
 
 Challenges: International authorities have to co-operate more closely to combat international tax fraud and aggressive international tax avoidance strategies in global competition.
 
@@ -3523,7 +3537,7 @@ Challenges: International authorities have to co-operate more closely to combat 
 
 Budget 2013: Despite subdued growth, the budget implementation plan for 2013 is on track.
 
-Budget forecast 2014 to 2018: In October 2013, the Federal Ministry of Finance submitted an extensive projection of payments in and payments out concerning the Federal Government financial framework for 2014-2018, which was based on the current budget development, the assumptions made by the BMF, the Austrian Institute of Economic Research (WIFO) mediumterm forecast (and the resulting tax revenue forecast by the Ministry of Finance), the opinion of the 'Pension Commission' and the bank financing estimate of the National Bank of Austria (OeNB). These figures were debated on the basis of assumptions made by experts from WIFO, IHS, Statistics Austria and the OeNB.
+Budget forecast 2014 to 2018: In October 2013, the Federal Ministry of Finance submitted an extensive projection of payments in and payments out concerning the Federal Government financial framework for 2014-2018, which was based on the current budget development, the assumptions made by the BMF, the Austrian Institute of Economic Research (WIFO) medium-term forecast (and the resulting tax revenue forecast by the Ministry of Finance), the opinion of the 'Pension Commission' and the bank financing estimate of the National Bank of Austria (OeNB). These figures were debated on the basis of assumptions made by experts from WIFO, IHS, Statistics Austria and the OeNB.
 
 100 100
 
@@ -3537,15 +3551,14 @@ Through consistent budgetary discipline and the already successfully adopted con
 
 The budget plan to 2018 was prepared on the basis of an early medium-term forecast by WIFO. Key factors for development are lower revenue, the rising cost of pensions and other support strategies in the (partially) nationalised banks, which make additional budgetary discipline necessary. In order to continuously improve weak growth, the following offensive measures will be implemented in terms of the previous framework:
 
-• • Flood protection strategies: | 460 million EUR
---- | ---
-• • Expansion of school-based day care: | 400 million EUR
-• • Expansion of childcare facilities: | 350 million EUR
-• • Research Funding: | 300 million EUR
-• • Housing: | 276 million EUR
-• • Preparation Parliament renovation: | 32 million EUR
-• • Care allowance and 24-hour care: | 310 million EUR
-• • Care fund extension in 2017 and 2018: | 700 million EUR
+· Flood protection strategies: 460 million EUR
+· Expansion of school-based day care: 400 million EUR
+· Expansion of childcare facilities: 350 million EUR
+· Research Funding: 300 million EUR
+· Housing: 276 million EUR
+· Preparation Parliament renovation: 32 million EUR
+· Care allowance and 24-hour care: 310 million EUR
+· Care fund extension in 2017 and 2018: 700 million EUR
 
 Offensive measures for growth and employment: In the years 2014 and 2015, a total of 100 million EUR each will be provided for offensive measures to strengthen growth and employment in Austria.
 
@@ -3761,7 +3774,7 @@ Challenges: According to estimates by the European Commission, EU Member States 
 
 · Joint training for joint examination of all wage-dependent taxes in terms of social security and financial administration will be implemented by 2016;
 
-· Uniform testing standards will be established for the joint examination of all wagedependent taxes by 2016.
+· Uniform testing standards will be established for the joint examination of all wage-dependent taxes by 2016.
 
 ### Federal Government Holdings
 
@@ -3881,7 +3894,7 @@ Challenge: The funding system of local authorities is currently poorly coordinat
 
 · The aim of the partners involved in the Act on redistribution of income between the Federal State, the federal provinces and the municipalities of Austria (FAG) is to define the measures and the yield. Achievement of the goals must be evaluated annually.
 
-1 10 1 10
+110 110
 
 [[END OF PAGE 111]]
 
@@ -3911,7 +3924,7 @@ The following key points must anyway be considered:
 
 · Utilisation of a working party consisting of representatives of the financial compensation partners: It must produce reform proposals for a new FAG by 31.12.2015.
 
-1 1 1
+111
 
 [[END OF PAGE 112]]
 
