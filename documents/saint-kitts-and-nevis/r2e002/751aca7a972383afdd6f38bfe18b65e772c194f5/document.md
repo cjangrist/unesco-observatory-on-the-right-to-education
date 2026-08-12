@@ -6,65 +6,61 @@ Education Act, 2005.
 
 Saint Christopher and Nevis.
 
+# ARRANGEMENT OF SECTIONS
+
 Section
 
-# ARRANGEMENT  OF  SECTIONS
+# PART 1 – PRELIMINARY
 
-# PART  1 - PRELIMINARY
+- 1. Short title and commencement.
 
-- Short  title  and  commencement.
+- 2. Interpretation.
 
-- Interpretation.
-
-# PART 2 - ADMINISTRATION  OF  THE  EDUCATION  SYSTEM
+# PART 2 – ADMINISTRATION OF THE EDUCATION SYSTEM
 
 ## DIVISION 1 Goals, objectives and powers of the Minister
 
-- Goals and objectives.
+- 3. Goals and objectives.
 
-- Responsibilities of the Minister.
+- 4. Responsibilities of the Minister.
 
-- Powers of Minister.
+- 5. Powers of Minister.
 
-- Annual Report.
+- 6. Annual Report.
 
-## DIVISION 2 Responsibilities  of  the  Chief  Education  Officer
+## DIVISION 2 Responsibilities of the Chief Education Officer
 
-- Duties of Chief Education Officer.
+- 7. Duties of Chief Education Officer.
 
-- 8.
-
-- Delegation of authority by the Minister.
+- 8. Delegation of authority by the Minister.
 
 ## DIVISION 3 Establishment and functions of the Education Advisory Board
 
-- Establishment of Education Advisory Board.
+- 9. Establishment of Education Advisory Board.
 
-- 10.
+- 10. Functions of Advisory Board.
 
-- Functions of Advisory Board.
+- 11. Powers of the Board to hold public hearing.
 
-- Powers of the Board to hold public hearing.
+- 12. Minister not bound by advice of Board.
 
-- Minister not bound by advice of Board.
+- 13. Special Committees.
 
-- Special  Committees.
+# PART 3 – RIGHTS AND RESPONSIBILITIES OF STUDENTS AND PARENTS
 
-# PART 3 - RIGHTS  AND  RESPONSIBILITIES  OF STUDENTS  AND  PARENTS
+## DIVISION 1 Students’ rights and responsibilities
 
-## DIVISION 1 Students' rights  and  responsibilities
+- 14. Right to education.
 
-- Right to education.
+- 15. Responsibility to students.
 
-- Responsibility to students.
+- 16. Free tuition.
 
-- Free tuition.
+- 17. Student responsibilities.
 
-- Student responsibilities.
+- 18. Students accountable to teacher, principal, and Ministry.
 
-- Students accountable to teacher, principal, and Ministry.
-
-- Exercise of rights.
+- 19. Exercise of rights.
 
 [[END OF PAGE 1]]
 
@@ -72,81 +68,81 @@ Section
 
 (ii)
 
-## DIVISION 2 Parents' rights and responsibilities
+## DIVISION 2 Parents’ rights and responsibilities
 
-- Rights and responsibilities of parents.
+- 20. Rights and responsibilities of parents.
 
-- Choice of education.
+- 21. Choice of education.
 
-- Student records and reports.
+- 22. Student records and reports.
 
-- Damage to school property.
+- 23. Damage to school property.
 
-- Parent Teacher Associations.
+- 24. Parent Teacher Associations.
 
-- Wishes of parents to be considered in education of students.
+- 25. Wishes of parents to be considered in education of students.
 
 ## DIVISION 3 Admission and attendance of students
 
-- Compulsory school attendance.
+- 26. Compulsory school attendance.
 
-- Mode of admission.
+- 27. Mode of admission.
 
-- Prohibition of discrimination.
+- 28. Prohibition of discrimination.
 
-- Age limit for secondary schools.
+- 29. Age limit for secondary schools.
 
-- Student's Register.
+- 30. Student’s Register.
 
-- Transfer of students.
+- 31. Transfer of students.
 
-- Effect of contagious diseases.
+- 32. Effect of contagious diseases.
 
-- Readmission of student on production of medical certificate.
+- 33. Readmission of student on production of medical certificate.
 
-- Temporary or permanent closing of schools.
+- 34. Temporary or permanent closing of schools.
 
-- Zoning of schools.
+- 35. Zoning of schools.
 
 ## DIVISION 4 Enforcement of compulsory school attendance
 
-- Duty of parent to enforce attendance.
+- 36. Duty of parent to enforce attendance.
 
-- Valid excuses from attendance.
+- 37. Valid excuses from attendance.
 
-- School attendance counsellors.
+- 38. School attendance counsellors.
 
-- Responsibility of school attendance counsellor.
+- 39. Responsibility of school attendance counsellor.
 
-- Power to enter premises and question children.
+- 40. Power to enter premises and question children.
 
-- Offences against school attendance counsellors.
+- 41. Offences against school attendance counsellors.
 
-- Power to deliver absent student.
+- 42. Power to deliver absent student.
 
-- Duties of school attendance counsellor.
+- 43. Duties of school attendance counsellor.
 
-- Reports by principals.
+- 44. Reports by principals.
 
-- Liability of parent.
+- 45. Liability of parent.
 
-- Compulsory school age and offences.
+- 46. Compulsory school age and offences.
 
-- Legal proceedings.
+- 47. Legal proceedings.
 
 ## DIVISION 5 Discipline, suspension and expulsion of students
 
-- School rules to govern discipline.
+- 48. School rules to govern discipline.
 
-- Corporal punishment.
+- 49. Corporal punishment.
 
-- Abolition of corporal punishment.
+- 50. Abolition of corporal punishment.
 
-- Suspension for minor offences.
+- 51. Suspension for minor offences.
 
-- Suspension for major offences.
+- 52. Suspension for major offences.
 
-- Action by Chief Education Officer.
+- 53. Action by Chief Education Officer.
 
 [[END OF PAGE 2]]
 
@@ -154,67 +150,67 @@ Section
 
 (iii)
 
-# PART 4 - ADMINISTRATION  OF  EDUCATIONAL  INSTITUTIONS
+# PART 4 – ADMINISTRATION OF EDUCATIONAL INSTITUTIONS
 
 ## DIVISION 1 Management of public primary schools
 
-- Establishment and maintenance of primary schools.
+- 54. Establishment and maintenance of primary schools.
 
-- Management of public primary schools.
+- 55. Management of public primary schools.
 
-- Boards of Management.
+- 56. Boards of Management.
 
-- Members of a Board of Management.
+- 57. Members of a Board of Management.
 
-- Functions of a Board of Management for a primary school.
+- 58. Functions of a Board of Management for a primary school.
 
-- Submission of reports,  statements  and  estimates.
+- 59. Submission of reports, statements and estimates.
 
-- Special or general directions.
+- 60. Special or general directions.
 
 ## DIVISION 2 Management of public secondary schools
 
-- Application of Division.
+- 61. Application of Division.
 
-- Management of public secondary schools.
+- 62. Management of public secondary schools.
 
-- Establishment of Board of Management.
+- 63. Establishment of Board of Management.
 
-- Functions of Board of Management for secondary schools.
+- 64. Functions of Board of Management for secondary schools.
 
-- Funds and resources of a Board of Management.
+- 65. Funds and resources of a Board of Management.
 
-- Accounts and audit.
+- 66. Accounts and audit.
 
-- Annual report,  statement  of  accounts  of  estimates.
+- 67. Annual report, statement of accounts of estimates.
 
-- Minutes of board receivable in evidence.
+- 68. Minutes of board receivable in evidence.
 
 ## DIVISION 3 Management of assisted private schools
 
-- Management of private assisted primary schools.
+- 69. Management of private assisted primary schools.
 
-- Management of private assisted  secondary  schools.
+- 70. Management of private assisted secondary schools.
 
-- Denomination or proprietor may add duties.
+- 71. Denomination or proprietor may add duties.
 
-- Appointment of joint Board of Management.
+- 72. Appointment of joint Board of Management.
 
 ## DIVISION 4 Management of tertiary institutions
 
-- Establishment and management of tertiary institutions.
+- 73. Establishment and management of tertiary institutions.
 
-# PART 5 - CATEGORIES  OF  SCHOOLS  AND  THE  STAGES  OF  EDUCATION
+# PART 5 – CATEGORIES OF SCHOOLS AND THE STAGES OF EDUCATION
 
 ## DIVISION 1 Forms and stages of education
 
-- Stages  of  public  education.
+- 74. Stages of public education.
 
 ## DIVISION 2 Early childhood education services
 
-- Establishment of early  childhood  education  services.
+- 75. Establishment of early childhood education services.
 
-- Programmes and policies.
+- 76. Programmes and policies.
 
 [[END OF PAGE 3]]
 
@@ -222,69 +218,69 @@ Section
 
 (iv)
 
-- Insurance.
+Early childhood education services – Cont’d
 
-- Council on early childhood education services.
+- 77. Insurance.
 
-- Regulations.
+- 78. Council on early childhood education services.
 
-Early childhood education services - Cont'd
-
-- Special education.
-
-- Determination of special educational needs.
-
-- Special needs appeals.
-
-- Council on special education.
-
-# PART 6 - CATEGORIES  OF  EDUCATIONAL  INSTITUTIONS
-
-- Organization of schools.
-
-- Status of public schools.
-
-## DIVISION 2 Private educational institutions
-
-- Interpretation.
-
-- Body without legal personality.
-
-- Applicability.
-
-- References and objects.
-
-- Permit.
-
-- Presumption.
-
-- Existing private educational institutions.
-
-- Private educational institutions register.
-
-- Application for registration.
-
-- Eligibility for registration.
-
-- Refusal.
-
-- Limitation on instruction.
-
-- Number of students.
-
-- Content of permit.
-
-- Vocational education.
+- 79. Regulations.
 
 ## DIVISION 3 Home education
 
-- Home education.
+- 80. Home education.
 
-- Termination of programme.
+- 81. Termination of programme.
 
 ## DIVISION 4 Special education
 
+- 82. Special education.
+
+- 83. Determination of special educational needs.
+
+- 84. Special needs appeals.
+
+- 85. Council on special education.
+
+# PART 6 – CATEGORIES OF EDUCATIONAL INSTITUTIONS
+
+- 86. Organization of schools.
+
 ## DIVISION 1 Public schools
+
+- 87. Status of public schools.
+
+## DIVISION 2 Private educational institutions
+
+- 88. Interpretation.
+
+- 89. Body without legal personality.
+
+- 90. Applicability.
+
+- 91. References and objects.
+
+- 92. Permit.
+
+- 93. Presumption.
+
+- 94. Existing private educational institutions.
+
+- 95. Private educational institutions register.
+
+- 96. Application for registration.
+
+- 97. Eligibility for registration.
+
+- 98. Refusal.
+
+- 99. Limitation on instruction.
+
+- 100. Number of students.
+
+- 101. Content of permit.
+
+- 102. Vocational education.
 
 [[END OF PAGE 4]]
 
@@ -292,77 +288,77 @@ Early childhood education services - Cont'd
 
 (v)
 
-Private educational institutions - Cont'd
+Private educational institutions – Cont’d
 
-- Duration and renewal of permits.
+- 103. Duration and renewal of permits.
 
-- Modification.
+- 104. Modification.
 
-- Transfer.
+- 105. Transfer.
 
-- Information.
+- 106. Information.
 
-- Visits to private educational institutions.
+- 107. Visits to private educational institutions.
 
-- Notice to comply.
+- 108. Notice to comply.
 
-- Cancellation of registration.
+- 109. Cancellation of registration.
 
-- Appeal.
+- 110. Appeal.
 
-- Registration  and  closure.
+- 111. Registration and closure.
 
-- Returns.
+- 112. Returns.
 
-- Health and sanitation.
+- 113. Health and sanitation.
 
-- Disqualification  of  teachers.
+- 114. Disqualification of teachers.
 
-- Prohibition of discrimination.
+- 115. Prohibition of discrimination.
 
-## DIVISION 3 Assisted  private  schools
+## DIVISION 3 Assisted private schools
 
-- Creation of assisted private schools.
+- 116. Creation of assisted private schools.
 
-- Agreement to establish assisted private schools.
+- 117. Agreement to establish assisted private schools.
 
-- Publication of list of assisted private schools.
+- 118. Publication of list of assisted private schools.
 
-- Religious education in assisted private schools.
+- 119. Religious education in assisted private schools.
 
-- Loans to assisted private schools.
+- 120. Loans to assisted private schools.
 
 ## DIVISION 4 Denominational schools
 
-- Status  of  denominational  schools.
+- 121. Status of denominational schools.
 
-- Regulations for denominational schools.
+- 122. Regulations for denominational schools.
 
-# PART 7 - TECHNICAL  AND  VOCATIONAL  EDUCATION  AND TRAINING
+# PART 7 – TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING
 
-- Establishment of Technical and Vocational Education Council.
+- 123. Establishment of Technical and Vocational Education Council.
 
-- Functions of Council.
+- 124. Functions of Council.
 
-- Directions.
+- 125. Directions.
 
-- Appointment of committees and functions thereof.
+- 126. Appointment of committees and functions thereof.
 
-- Additional functions of a committee.
+- 127. Additional functions of a committee.
 
-- Training  schemes.
+- 128. Training schemes.
 
-- System for monitoring.
+- 129. System for monitoring.
 
-- Regulations by Council.
+- 130. Regulations by Council.
 
-- Annual report.
+- 131. Annual report.
 
-- National policy.
+- 132. National policy.
 
-- Plans for technical and vocational education.
+- 133. Plans for technical and vocational education.
 
-- Regulations by Minister.
+- 134. Regulations by Minister.
 
 [[END OF PAGE 5]]
 
@@ -370,85 +366,71 @@ Private educational institutions - Cont'd
 
 (vi)
 
-# PART 8 - PROFESSIONAL  DUTIES  AND  RESPONSIBILITIES  OF TEACHERS  AND  PRINCIPALS
+# PART 8 – PROFESSIONAL DUTIES AND RESPONSIBILITIES OF TEACHERS AND PRINCIPALS
 
-- Qualifications  of  teachers.
+- 135. Qualifications of teachers.
 
-- Rights of teachers.
+- 136. Rights of teachers.
 
-- Exercise of general professional duties.
+- 137. Exercise of general professional duties.
 
-- Duties of teachers.
+- 138. Duties of teachers.
 
-- Duties of Deputy Principal.
+- 139. Duties of Deputy Principal.
 
-- 140.
+- 140. General responsibilities of principals.
 
-- General responsibilities of principals.
+# PART 9 – CURRICULUM AND ASSESSMENT OF STUDENTS
 
-# PART 9 - CURRICULUM  AND  ASSESSMENT  OF  STUDENTS
+- 141. National curriculum.
 
-- National curriculum.
+- 142. Core and foundation subjects.
 
-- 142.
+- 143. Key stages of assessment.
 
-- Core and foundation subjects.
+- 144. Determination of attainment targets.
 
-- Key stages of assessment.
+- 145. Subjects panels.
 
-- Determination of attainment targets.
+- 146. Collective worship and religious education.
 
-- 145.
+- 147. Religious education in public schools.
 
-- Subjects  panels.
+# PART 10 – ISLAND SCHOLARSHIPS AND GRANTS
 
-- Collective worship and religious education.
+- 148. Island scholarships.
 
-- 147.
+- 149. Value of scholarships.
 
-- Religious education in public schools.
+- 150. Qualifications for scholarship.
 
-# PART 10 - ISLAND  SCHOLARSHIPS  AND  GRANTS
+- 151. Examination for scholarship.
 
-- Island  scholarships.
+- 152. Entry at proposed institution.
 
-- Value of scholarships.
+- 153. Forfeiture of scholarship.
 
-- Qualifications  for  scholarship.
+- 154. Scholar to sign undertaking.
 
-- Examination for scholarship.
+- 155. Travel grant.
 
-- Entry at proposed institution.
+- 156. Award of grants and bursaries.
 
-- Forfeiture  of  scholarship.
+# PART 11 – INSPECTION AND REVIEW OF THE EDUCATION SYSTEM
 
-- 154.
+## DIVISION 1 Inspection of educational institutions
 
-- Scholar to sign undertaking.
+- 157. Inspection of educational institutions.
 
-- Travel  grant.
+- 158. Educational institutions to be open for inspections and visits.
 
-- 156.
-
-- Award of grants and bursaries.
-
-# PART 11 - INSPECTION  AND  REVIEW  OF THE  EDUCATION  SYSTEM
-
-## DIVISION 1 Inspection  of  educational  institutions
-
-- Inspection of educational institutions.
-
-- 157.
-
-- Educational institutions to be open for inspections and visits.
-
-- Offences.
+- 159. Offences.
 
 ## DIVISION 2 Review of the education system
 
-- Appointment of Education Review Committee.
+- 160. Appointment of Education Review Committee.
 
-- Review and report of Education Review Committee.
+- 161. Review and report of Education Review Committee.
 
 [[END OF PAGE 6]]
 
@@ -456,33 +438,33 @@ Private educational institutions - Cont'd
 
 (vii)
 
-# PART 12 - APPEALS
+# PART 12 – APPEALS
 
-- Establishment of Education Appeal Tribunal.
+- 162. Establishment of Education Appeal Tribunal.
 
-- Functions of Tribunal.
+- 163. Functions of Tribunal.
 
-- Mediation.
+- 164. Mediation.
 
-- Procedure of Tribunal.
+- 165. Procedure of Tribunal.
 
-- Powers of the Tribunal.
+- 166. Powers of the Tribunal.
 
-- Matters to be considered.
+- 167. Matters to be considered.
 
-- Enforcement of order.
+- 168. Enforcement of order.
 
-# PART 13 - MISCELLANEOUS  PROVISIONS
+# PART 13 – MISCELLANEOUS PROVISIONS
 
-- Vendors on school premises.
+- 169. Vendors on school premises.
 
-- Prohibition of sale of alcoholic beverages and tobacco.
+- 170. Prohibition of sale of alcoholic beverages and tobacco.
 
-- Loitering etc on school premises.
+- 171. Loitering etc on school premises.
 
-- Regulations.
+- 172. Regulations.
 
-- Repeal.
+- 173. Repeal.
 
 # SCHEDULES
 
@@ -506,7 +488,9 @@ Fourth Schedule
 
 No. 9 of 2005
 
-Education Act, 2005 - 9. Education Act, 2005.
+Education Act, 2005 – 9. Education Act, 2005.
+
+Saint Christopher and Nevis.
 
 LS
 
@@ -514,42 +498,43 @@ LS
 
 I assent,
 
-CUTHBERT  M  SEBASTIAN
+CUTHBERT M SEBASTIAN
 
 Governor-General.
 
-26 th  May 2005.
+26th May 2005.
 
-SAINT  CHRISTOPHER  AND  NEVIS No. 9 of 2005
+SAINT CHRISTOPHER AND NEVIS
 
-- AN  ACT to provide for a regulatory system for the delivery of educational services in Saint Christopher and Nevis.
+No. 9 of 2005
 
-BE  IT  ENACTED by the Queen's Most Excellent Majesty, by  and  with  the  advice  and  consent  of  the  National  Assembly  of Saint Christopher and Nevis, and by the authority of the same as follows:
+AN ACT to provide for a regulatory system for the delivery of educational services in Saint Christopher and Nevis.
 
-# PART  I - PRELIMINARY
+BE IT ENACTED by the Queen’s Most Excellent Majesty, by and with the advice and consent of the National Assembly of Saint Christopher and Nevis, and by the authority of the same as follows:
 
-## 1.
-This Act may be cited as the Education Act, 2005 and shall  come  into  force  on  such  a  date  as  the  Minister  may,  by  Order, appoint, except that specified Parts or sections of the Act may be brought into force on different dates.
-
-- In this Act, unless the context otherwise requires,
-
-'adult education' means
-
-(a) continuing education; and
-
-(b) training  activities  organized  on  a  part-time basis suitable to the requirements of person over compulsory school age and designed to enhance  knowledge,  skills,  attitudes  or cultural  awareness,  but  does  not  include tertiary education;
-
-'Board'  means  the  Education  Advisory  Board established by section 9 of this Act;
-
-'Chief Education Officer' means a person appointed in  accordance  with  the  provisions  of  the Constitution to discharge the functions of Chief Education Officer;
-
-'class',  in  relation  to  a  particular  student  and  a particular  subject,  means  the  teaching  group  in
-
-Saint Christopher and Nevis.
+# PART I – PRELIMINARY
 
 Short title and commencement.
 
+## 1.
+This Act may be cited as the Education Act, 2005 and shall come into force on such a date as the Minister may, by Order, appoint, except that specified Parts or sections of the Act may be brought into force on different dates.
+
 Interpretation.
+
+## 2.
+In this Act, unless the context otherwise requires,
+
+“adult education” means
+
+(a) continuing education; and
+
+(b) training activities organized on a part-time basis suitable to the requirements of person over compulsory school age and designed to enhance knowledge, skills, attitudes or cultural awareness, but does not include tertiary education;
+
+“Board” means the Education Advisory Board established by section 9 of this Act;
+
+“Chief Education Officer” means a person appointed in accordance with the provisions of the Constitution to discharge the functions of Chief Education Officer;
+
+“class”, in relation to a particular student and a particular subject, means the teaching group in
 
 [[END OF PAGE 9]]
 
@@ -561,27 +546,27 @@ Education Act, 2005 - 9.
 
 which a student is regularly taught that subject or, where there are two or more groups, such one of them as may be designated by the principal of the school;
 
-'compulsory school age' means the ages prescribed by the Minister during which students are obliged to attend school under section 26.(1) of this Act;
+“compulsory school age” means the ages prescribed by the Minister during which students are obliged to attend school under section 26.(1) of this Act;
 
-'early childhood education' means education provided either within a primary school or in an institution specially designed for that purpose and suitable to the needs of children three years of age or older but under five years of age;
+“early childhood education” means education provided either within a primary school or in an institution specially designed for that purpose and suitable to the needs of children three years of age or older but under five years of age;
 
-'denominational  school'  means  an  educational institution established, managed and maintained by a religious community at its own expense;
+“denominational school” means an educational institution established, managed and maintained by a religious community at its own expense;
 
-'distance education' means an educational process in which a significant proportion of the teaching is conducted through one medium or a combination of  media  by  persons  removed  in  space  or  time from the learners;
+“distance education” means an educational process in which a significant proportion of the teaching is conducted through one medium or a combination of media by persons removed in space or time from the learners;
 
-'educational institution' means any school, training centre,  or  college  or  such  other  institution  of higher education as may be prescribed;
+“educational institution” means any school, training centre, or college or such other institution of higher education as may be prescribed;
 
-'educational programme' means a course of study whether conducted in an educational institution or otherwise that is designed to meet the specified learning needs of an individual or group of persons;
+“educational programme” means a course of study whether conducted in an educational institution or otherwise that is designed to meet the specified learning needs of an individual or group of persons;
 
-'Minister' means the Minister of Education;
+“Minister” means the Minister of Education;
 
-'Ministry' means the Ministry of Education;
+“Ministry” means the Ministry of Education;
 
-'parent', in relation to any child, includes a guardian and every person who is liable to maintain or has the  custody  of  any  child  and  a  person  living  as husband with the mother of a child whether or not he is the father and a person living as wife with the father of a child whether or not she is the mother;
+“parent”, in relation to any child, includes a guardian and every person who is liable to maintain or has the custody of any child and a person living as husband with the mother of a child whether or not he is the father and a person living as wife with the father of a child whether or not she is the mother;
 
-'primary education' means full-time education suited to the requirements of students of primary school age;
+“primary education” means full-time education suited to the requirements of students of primary school age;
 
-'primary  student'  means  a  student  who  at  the beginning of the school year has attained the age prescribed  under  section  26  or  will  attain  that
+“primary student” means a student who at the beginning of the school year has attained the age prescribed under section 26 or will attain that
 
 [[END OF PAGE 10]]
 
@@ -593,29 +578,29 @@ Education Act, 2005 - 9.
 
 age on December 31 of that same year but has not attained the age of sixteen years;
 
-'Principal'  means  the  head  of  an  educational institution under this Act;
+“Principal” means the head of an educational institution under this Act;
 
-'private educational institutions' mean schools other than public schools and assisted private schools and which are owned, managed, and financed by trusts, individuals, bodies or any incorporated or unincorporated bodies and include
+“private educational institutions” mean schools other than public schools and assisted private schools and which are owned, managed, and financed by trusts, individuals, bodies or any incorporated or unincorporated bodies and include
 
 (a) a school; or
 
 (b) a class; or
 
-(c) an educational institution attended by twelve or more students continuously for more than eight  hours  per  week  and  which  is  in possession of a permit issued by the Minister;
+(c) an educational institution attended by twelve or more students continuously for more than eight hours per week and which is in possession of a permit issued by the Minister;
 
-'public schools' means schools which are wholly or mainly maintained at the public expense and to which the general public has access without any conditions  other  than  those  authorized  by  or under this Act;
+“public schools” means schools which are wholly or mainly maintained at the public expense and to which the general public has access without any conditions other than those authorized by or under this Act;
 
-'secondary  education'  means  full-time  education suited to the requirements of students of secondary school age;
+“secondary education” means full-time education suited to the requirements of students of secondary school age;
 
-'student'  means  a  person  of  any  age  for  whom education is provided under this Act;
+“student” means a person of any age for whom education is provided under this Act;
 
-'Teachers College' means an educational institution established  for  the  purpose  of  training  teachers for service in educational institutions;
+“Teachers College” means an educational institution established for the purpose of training teachers for service in educational institutions;
 
-'Technical College' means a school or other institution that provides for studies, training or research in technology, science, commerce or art;
+“Technical College” means a school or other institution that provides for studies, training or research in technology, science, commerce or art;
 
-'tertiary education' means
+“tertiary education” means
 
-(a) education  suitable  to  the  requirements  of persons over compulsory school age who are not enrolled for secondary education in any school or, if enrolled in secondary education, have  completed  a  course  of  secondary education; and
+(a) education suitable to the requirements of persons over compulsory school age who are not enrolled for secondary education in any school or, if enrolled in secondary education, have completed a course of secondary education; and
 
 (b) university education and instruction normally available at institutions for teacher training, vocational training and technical training.
 
@@ -627,11 +612,11 @@ age on December 31 of that same year but has not attained the age of sixteen yea
 
 Education Act, 2005 - 9.
 
-Goals and objectives.
-
-# PART 2 - ADMINISTRATION  OF  THE  EDUCATION SYSTEM
+# PART 2 – ADMINISTRATION OF THE EDUCATION SYSTEM
 
 ## DIVISION 1 Goals, objectives and powers of the Minister
+
+Goals and objectives.
 
 ### 3.
 (1) The Minister shall,  subject  to  available  resources, establish and pursue for the education system general and specific goals and objectives as provided in subsections (2) and (3).
@@ -694,14 +679,14 @@ Education Act, 2005 - 9.
 
 (4) The Minister shall  promote  the  goals  specified  in subsection (3) above through appropriate basic education and continuing education strategies.
 
+Responsibilities of the Minister.
+
 ### 4.
-(1) The Minister  shall  be  responsible  for  the  overall administration of this Act and, in the exercise of the powers conferred upon the Minister, the Minister may do all things necessary or convenient for the purpose of carrying out the Minister's responsibilities.
+(1) The Minister shall be responsible for the overall administration of this Act and, in the exercise of the powers conferred upon the Minister, the Minister may do all things necessary or convenient for the purpose of carrying out the Minister’s responsibilities.
 
 (2) In addition to the duties referred to in subsection (1), the Minister shall be responsible for
 
-(a) devising a system education designed as far as possible  to  ensure  that  the  intellectual  and vocational  abilities,  aptitudes  and  interests  of
-
-Responsibilities of the Minister.
+(a) devising a system education designed as far as possible to ensure that the intellectual and vocational abilities, aptitudes and interests of
 
 [[END OF PAGE 13]]
 
@@ -749,24 +734,24 @@ taking  such  steps  as  may  be  necessary  for  the carrying out of Government
 
 (3) The Permanent Secretary of the Ministry of Education shall assist the Minister in the exercise of his or her duties under this Act and shall advise the Minister on matters pertaining to education policy.
 
+Powers of Minister.
+
 ### 5.
 (1) For the purposes of the performance of the functions under this Act, the Minister shall have power to
 
-(a) require  attendance  of  persons  of  compulsory school age at schools established and conducted under this Act;
+(a) require attendance of persons of compulsory school age at schools established and conducted under this Act;
 
-(b) regulate the operation of public schools, assisted private  schools,  and  private  educational institutions;
+(b) regulate the operation of public schools, assisted private schools, and private educational institutions;
 
-(c) make provision for the professional training of teachers for the entire system of education, and lay down standards which are applicable to the recruitment of teachers, their training, professional  development  and  conditions  of service;
+(c) make provision for the professional training of teachers for the entire system of education, and lay down standards which are applicable to the recruitment of teachers, their training, professional development and conditions of service;
 
-(d) designate  the  grades  or  classes  and  special programmes to be offered in public schools and assisted private schools;
+(d) designate the grades or classes and special programmes to be offered in public schools and assisted private schools;
 
-(e) prescribe  forms  and  notices  as  required  for  the administration of this Act;
+(e) prescribe forms and notices as required for the administration of this Act;
 
-(f) constitute  committees  or  other  bodies  to  offer advice  from  time  to  time  on  educational  and related matters;
+(f) constitute committees or other bodies to offer advice from time to time on educational and related matters;
 
-(g) prescribe  lists  of  textbooks  and  practices  in  all public schools and assisted private schools so as to ensure conformity with national standards of education provided that in the case of assisted private schools textbooks for religious education shall  be  determined  by  the  denomination establishing the school;
-
-Powers of Minister.
+(g) prescribe lists of textbooks and practices in all public schools and assisted private schools so as to ensure conformity with national standards of education provided that in the case of assisted private schools textbooks for religious education shall be determined by the denomination establishing the school;
 
 [[END OF PAGE 15]]
 
@@ -776,26 +761,29 @@ Powers of Minister.
 
 Education Act, 2005 - 9.
 
-Annual Report.
-
 (h) determine the level of assistance to assisted private schools and regulate such assistance;
 
-(i) establish or disestablish public schools including schools  for  technical  education  and  inaugurate classes  or  discontinue  classes  in  those  schools when necessary;
+(i) establish or disestablish public schools including schools for technical education and inaugurate classes or discontinue classes in those schools when necessary;
 
-(j) prescribe, in accordance with this Act, curriculum for  public  schools  and  assisted  private  schools; and
+(j) prescribe, in accordance with this Act, curriculum for public schools and assisted private schools; and
 
-(k) provide for any other matter or do all such things as  may  be  expedient  from  time  to  time  for  the carrying out of the Minister's responsibilities for education and training.
+(k) provide for any other matter or do all such things as may be expedient from time to time for the carrying out of the Minister’s responsibilities for education and training.
 
-(2) In  the  exercise  of  the  powers  conferred  by subsection (1)(c),  (g)  and  (j)  above,  the  Minister  shall  consult  such organizations  representing  the  teaching  profession  as the Minister considers appropriate.
+(2) In the exercise of the powers conferred by subsection (1)(c), (g) and (j) above, the Minister shall consult such organizations representing the teaching profession as the Minister considers appropriate.
 
-- The Minister shall table in Parliament an annual report on the state of education within twelve months of the end of the school year for which the report is made.
+Annual Report.
+
+### 6.
+The Minister shall table in Parliament an annual report on the state of education within twelve months of the end of the school year for which the report is made.
 
 ## DIVISION 2 Responsibilities of the Chief Education Officer
 
-### 7.
-(1) The Chief Education Officer  shall,  subject  to  the directions of the Minister, be responsible for the general administration of this Act. Duties of Chief Education Officer.
+Duties of Chief Education Officer.
 
-- The Chief Education Officer shall
+### 7.
+(1) The Chief Education Officer shall, subject to the directions of the Minister, be responsible for the general administration of this Act.
+
+(2) The Chief Education Officer shall
 
 (a) ensure  that  schools  and  other  educational institutions  are  administered  in  a  proper  and efficient manner;
 
@@ -831,12 +819,14 @@ Education Act, 2005 - 9.
 
 (5) Official communication with regional and international agencies relating to schools in Nevis shall be done through the Chief Education Officer.
 
+Delegation of authority by the Minister.
+
 ### 8.
-(1) The  Minister  may  delegate  in  writing  to  the Chief Education Officer any function, duty or responsibility conferred on the  Minister  by  this  Act  or  any  regulation  made  under  this  Act, except  that  such  delegation  shall  not  preclude  the  Minister  from exercising any or all of the functions so delegated where the Minister considers it expedient.
+(1) The Minister may delegate in writing to the Chief Education Officer any function, duty or responsibility conferred on the Minister by this Act or any regulation made under this Act, except that such delegation shall not preclude the Minister from exercising any or all of the functions so delegated where the Minister considers it expedient.
 
-(2) In cases of emergency, and after consultation with the Permanent Secretary and the Chief Education Officer, the Minister may give general or special directions, in writing, to any public officer in the Ministry respecting the Minister's functions under this Act and the public officer shall carry out the Minister's directions.
+(2) In cases of emergency, and after consultation with the Permanent Secretary and the Chief Education Officer, the Minister may give general or special directions, in writing, to any public officer in the Ministry respecting the Minister’s functions under this Act and the public officer shall carry out the Minister’s directions.
 
-(3) Where by this Act or regulations made under this Act the  Chief  Education Officer is required, or permitted to perform any function,  the  Chief  Education  Officer  may,  after  consulting  the Delegation of authority by the Minister.
+(3) Where by this Act or regulations made under this Act the Chief Education Officer is required, or permitted to perform any function, the Chief Education Officer may, after consulting the
 
 [[END OF PAGE 17]]
 
@@ -846,16 +836,14 @@ Education Act, 2005 - 9.
 
 Education Act, 2005 - 9.
 
-Advisory Board.
-
 Permanent Secretary, authorize a public officer who is accountable to him or her to perform the function.
 
 ## DIVISION 3 Establishment and functions of the Education Advisory Board
 
-### 9.
-(1) There  is  established  a  Board  to  be  known  as  the
+Establishment of Education Advisory Board.
 
-Education Advisory Board. Establishment of Education
+### 9.
+(1) There is established a Board to be known as the Education Advisory Board.
 
 (2) The Board shall consist of the following members:
 
@@ -901,19 +889,23 @@ Education Act, 2005 - 9.
 
 (6) The provisions of the First Schedule shall apply to the Board in respect of the matters specified in that Schedule.
 
+Functions of Advisory Board.
+
 ### 10.
 (1) The Board shall advise the Minister on matters
 
 (a) connected with education as it thinks fit;
 
-(b) respecting  the  performance  of  any  of  the Minister's  responsibilities  or  the  exercise  of the  Minister's  powers  under  this Act  as  the Minister refers to it; and
+(b) respecting the performance of any of the Minister’s responsibilities or the exercise of the Minister’s powers under this Act as the Minister refers to it; and
 
-(c) relating  to  the  promotion  of  education  as  the Minister refers to it.
+(c) relating to the promotion of education as the Minister refers to it.
 
 (2) Any advice given to the Minister, whether accepted by the Minister or not, shall be deemed confidential and so held to be by each member of the Board.
 
+Powers of the Board to hold public hearing.
+
 ### 11.
-(1) Prior  to  advising  the  Minister  on  any  matter concerning the promotion of education, the Board may, where it thinks advisable and with the approval of the Minister,
+(1) Prior to advising the Minister on any matter concerning the promotion of education, the Board may, where it thinks advisable and with the approval of the Minister,
 
 (a) hold a public hearing into the matter;
 
@@ -921,12 +913,16 @@ Education Act, 2005 - 9.
 
 (c) solicit written memoranda from the public on the matter.
 
-(2) The Minister may require the Board to hold a public hearing respecting any matter affecting the promotion of education and when so required,  the  Board  may  adopt  the  procedure  outlined  in subsection (1) which it considers most appropriate.
+(2) The Minister may require the Board to hold a public hearing respecting any matter affecting the promotion of education and when so required, the Board may adopt the procedure outlined in subsection (1) which it considers most appropriate.
+
+Minister not bound by advice of Board.
 
 ### 12.
 (1) The Minister shall not be bound to accept the advice of the Board, and where the Minister considers it advisable the Minister may refer a matter back to the Board for reconsideration.
 
-(2) Where,  after reconsideration, pursuant  to subsection (1) the Board adheres to the advice it had previously given, the Minister may reject the advice or adopt it either wholly or with such modification, additions or adaptations as the Minister thinks fit.
+(2) Where, after reconsideration, pursuant to subsection (1) the Board adheres to the advice it had previously given, the Minister may reject the advice or adopt it either wholly or with such modification, additions or adaptations as the Minister thinks fit.
+
+Special Committees.
 
 ### 13.
 (1) Notwithstanding section 9, the Minister may appoint such special committees as the Minister considers necessary to advise the Minister with respect to any specific matter which may arise from time to time.
@@ -934,14 +930,6 @@ Education Act, 2005 - 9.
 (2) A special committee shall
 
 (a) comprise such members as the Minister appoints; and
-
-Functions of Advisory Board.
-
-Powers of the Board to hold public hearing.
-
-Minister not bound by advice of Board.
-
-Special Committees.
 
 [[END OF PAGE 19]]
 
@@ -951,42 +939,42 @@ Special Committees.
 
 Education Act, 2005 - 9.
 
-Right to education.
-
-Responsibility to students.
-
-Free tuition.
-
-Student responsibilities.
-
 (b) have such duties as the Minister specifies.
 
-# PART 3 - RIGHTS  AND  RESPONSIBILITIES  OF STUDENTS  AND  PARENTS
+# PART 3 – RIGHTS AND RESPONSIBILITIES OF STUDENTS AND PARENTS
 
-## DIVISION 1 Students' rights and responsibilities
+## DIVISION 1 Students’ rights and responsibilities
+
+Right to education.
 
 ### 14.
-Subject to available resources, all persons are entitled to receive  an  educational  programme  appropriate  to  their  needs  in accordance with the provisions of this Act.
+Subject to available resources, all persons are entitled to receive an educational programme appropriate to their needs in accordance with the provisions of this Act.
+
+Responsibility to students.
 
 ### 15.
 (1) The Chief Education Officer shall provide to every compulsory school-age person who resides in the island an educational programme consistent with the requirements of this Act and regulations made under the Act.
 
-(2) For  the  purposes  of  providing  the  educational programme to the student, the Chief Education Officer shall
+(2) For the purposes of providing the educational programme to the student, the Chief Education Officer shall
 
 (a) enroll the student in an educational programme, offered by the Ministry of Education; or
 
-(b) direct  the  student  to  attend  an  educational programme  offered  by  another  educational institution where it is reasonable to do so.
+(b) direct the student to attend an educational programme offered by another educational institution where it is reasonable to do so.
 
-(3) Except in the case of a student who is transferred under section 53.(1)(d), where a student is directed to attend an educational programme pursuant to paragraph (2)(b) above, the Government shall be responsible for such fees and costs, if any, consequent to the student's attendance at the educational programme.
+(3) Except in the case of a student who is transferred under section 53.(1)(d), where a student is directed to attend an educational programme pursuant to paragraph (2)(b) above, the Government shall be responsible for such fees and costs, if any, consequent to the student’s attendance at the educational programme.
+
+Free tuition.
 
 ### 16.
-(1) No tuition fees consequent to the student's attendance in an educational programme at a public school under section 26 shall be charged to the student or the parents of the student.
+(1) No tuition fees consequent to the student’s attendance in an educational programme at a public school under section 26 shall be charged to the student or the parents of the student.
 
-- Notwithstanding subsection (1),
+(2) Notwithstanding subsection (1),
 
 (a) tuition fees may be payable in such amounts, for such purposes and by such persons or classes of persons who are not citizens of any Member State or Associated Member State of the Organizations of the Eastern Caribbean States as the Minister may, by Order, prescribe;
 
 (b) other charges may be imposed at a public school or assisted private school with the approval of the Minister.
+
+Student responsibilities.
 
 ### 17.
 Every student enrolled in a public school or assisted private school has the following responsibilities:
@@ -999,7 +987,7 @@ Every student enrolled in a public school or assisted private school has the fol
 
 Education Act, 2005 - 9.
 
-(a) to  observe  the  code  of  conduct  and  other  rules  and policies of the Ministry and of the school;
+(a) to observe the code of conduct and other rules and policies of the Ministry and of the school;
 
 (b) to attend classes regularly and punctually;
 
@@ -1007,7 +995,7 @@ Education Act, 2005 - 9.
 
 (d) to be diligent in pursuing the prescribed curriculum; and
 
-(e) to observe standards approved by the Chief Education Officer  or  the  principal,  as  the  case  may  be,  with respect to:
+(e) to observe standards approved by the Chief Education Officer or the principal, as the case may be, with respect to:
 
 (i) cleanliness and tidiness of the person;
 
@@ -1019,26 +1007,27 @@ Education Act, 2005 - 9.
 
 (v) respect of the rights of other persons.
 
+Students accountable to teacher, principal, and Ministry.
+
+### 18.
 (1) Every student shall be accountable
 
-(a) to the teacher for his or her conduct on the school premises during school hours and during such hours as the teacher is in charge of the student in class  or  while  engaged  in  authorized  school activities conducted during out-of-school hours; and
+(a) to the teacher for his or her conduct on the school premises during school hours and during such hours as the teacher is in charge of the student in class or while engaged in authorized school activities conducted during out-of-school hours; and
 
 (b) to the principal for his or her general deportment at any time that he or she is under the supervision of the school and members of the teaching staff, including the time spent in travelling between the school and his or her other place of residence.
 
 (2) Every student shall be under the general direction and control of
 
-(a) the  driver  of  a  school  bus,  if  the  driver  is  an employee of the Ministry of Education; and
+(a) the driver of a school bus, if the driver is an employee of the Ministry of Education; and
 
 (b) any person under whose supervision students are placed on the authority of the Chief Education Officer,
 
-in respect of the student's general behaviour and deportment on a school bus, or while under supervision as the case may be.
+in respect of the student’s general behaviour and deportment on a school bus, or while under supervision as the case may be.
+
+Exercise of rights.
 
 ### 19.
 (1) A student may express any religious, political, moral, or other belief or opinion so long as the expression does not adversely affect the rights or education of other students, or the rights of other persons in the school.
-
-Students accountable to teacher, principal, and Ministry.
-
-Exercise of rights.
 
 [[END OF PAGE 21]]
 
@@ -1048,39 +1037,39 @@ Exercise of rights.
 
 Education Act, 2005 - 9.
 
+(2) Students who have attained the age of 18 are entitled to exercise all the rights and powers, to assume all the obligations, and to receive all the benefits under this Act with respect to them that their parents are otherwise entitled to exercise, assume, or receive on their behalf.
+
+## DIVISION 2 Parents’ rights and responsibilities
+
 Rights and responsibilities of parents.
 
-Choice of education.
-
-Student records and reports.
-
-(2) Students who have attained the age of 18 are entitled to  exercise  all  the  rights  and  powers,  to  assume  all  the  obligations, and to receive all the benefits under this Act with respect to them that their  parents  are  otherwise  entitled  to  exercise,  assume,  or  receive on their behalf.
-
-## DIVISION 2 Parents' rights and responsibilities
-
 ### 20.
-(1) Subject  to  sections  19  and  22,  parents  of  students attending public schools and assisted private schools are entitled
+(1) Subject to sections 19 and 22, parents of students attending public schools and assisted private schools are entitled
 
-(a) to  be  informed  of  the  progress,  behaviour  and attendance of their children;
+(a) to be informed of the progress, behaviour and attendance of their children;
 
-(b) upon  reasonable  notice  to  the  principal  and teacher, to observe the instruction of their children if  the  parental  visitation  does  not  impede  the instruction of other children;
+(b) upon reasonable notice to the principal and teacher, to observe the instruction of their children if the parental visitation does not impede the instruction of other children;
 
 (c) to appeal against decisions that significantly affect the education, health or safety of their children; and
 
-(d) to be consulted in the development of any special education  programmes  prepared  for  their children.
+(d) to be consulted in the development of any special education programmes prepared for their children.
 
-(2) A parent of a student attending a school may, and at the request of a teacher or principal shall, consult with the teacher or principal with respect to the student's educational programme.
+(2) A parent of a student attending a school may, and at the request of a teacher or principal shall, consult with the teacher or principal with respect to the student’s educational programme.
 
 (3) Every parent shall inform the principal in writing of any medical or other condition peculiar to their child,
 
 (a) on admission of the child; or
 
-(b) as  soon  as  the  parent  becomes  aware  of  such medical or other condition.
+(b) as soon as the parent becomes aware of such medical or other condition.
 
-(4) The information provided under subsection (3) shall constitute part of the student's record pursuant to section 22 of this Act.
+(4) The information provided under subsection (3) shall constitute part of the student’s record pursuant to section 22 of this Act.
+
+Choice of education.
 
 ### 21.
 Subject to the provisions of this Act, parents may choose home schooling in accordance with section 80 of this Act, private schooling or public schooling for their children.
+
+Student records and reports.
 
 ### 22.
 (1) Every principal shall establish and maintain a student record for each student enrolled in the school managed by the principal in accordance with the guidelines established by the Chief Education Officer.
@@ -1129,27 +1118,27 @@ Education Act, 2005 - 9.
 
 Education Act, 2005 - 9.
 
+(11) Any person who discloses information from a student’s record in contravention of subsection (6), commits an offence and is liable, on summary conviction, to a fine of not more than one thousand dollars.
+
 Damage to school property.
 
-Parent Teacher Associations.
-
-(11) Any  person  who  discloses  information  from  a student's record in contravention of subsection (6), commits an offence and  is  liable,  on  summary  conviction,  to  a  fine  of  not  more  than one thousand dollars.
-
 ### 23.
-(1) Every student in a public school and assisted private school shall take good care of any public property placed at the student's disposal and where such property is to be returned, the property shall be returned in good condition at the end of the school activities on a day and time determined by the principal.
+(1) Every student in a public school and assisted private school shall take good care of any public property placed at the student’s disposal and where such property is to be returned, the property shall be returned in good condition at the end of the school activities on a day and time determined by the principal.
 
 (2) If the property of a public school or assisted private school is destroyed, damaged, lost, or converted by the intentional or negligent act
 
-(a) of a student who is a minor, the student and the student's parents are liable in respect of the act of the student; or
+(a) of a student who is a minor, the student and the student’s parents are liable in respect of the act of the student; or
 
 (b) of two or more students who are minors acting together, the students and their parents are jointly and severally liable in respect of the act of the students.
 
 (3) A parent shall be held jointly responsible with the child or children for any damage caused by his or her child or children while attending school.
 
-### 24.
-(1) Parents  and  teachers  may,  in  accordance  with regulations made under this Act form associations, to be known as Parent Teacher Associations.
+Parent Teacher Associations.
 
-(2) The  Minister  shall  encourage  and  assist  in  the formation of:
+### 24.
+(1) Parents and teachers may, in accordance with regulations made under this Act form associations, to be known as Parent Teacher Associations.
+
+(2) The Minister shall encourage and assist in the formation of:
 
 (a) Parent Teacher Associations; and
 
@@ -1173,32 +1162,32 @@ Education Act, 2005 - 9.
 
 Chief Education Officer and subsequently after every election of a new executive.
 
+Wishes of parents to be considered in education of students.
+
 ### 25.
 The Minister shall, in the exercise of the functions conferred under this Act, have regard to the general principle that, so far as is compatible with the provision of efficient instruction and training and the avoidance of unreasonable public expenditure, the wishes of parents formally conveyed to the Minister are to be considered in the education of students.
 
 ## DIVISION 3 Admission and attendance of students
 
-### 26.
-(1) Every child shall attend school from the beginning of the school calendar in the school year following that in which the child attains  the  age  prescribed  by  the  Minister,  by  Order,  until  the  last  of the  school  calendar  in  the  school  year  in  which  the  child  attains sixteen years of age or at the end of which the child obtains a certificate or diploma awarded by the Minister, whichever occurs first.
+Compulsory school attendance.
 
-(2) Notwithstanding subsection  (1),  if  the  Minister  is satisfied that it has become necessary or expedient to raise or lower the compulsory school age, the Minister may, by Order, subject to affirmative resolution of the National Assembly, within sixty days of the making of the Order, direct that subsection (1) have effect as if for references therein  there  were  substituted  a  reference  to  any  age  prescribed in the Order.
+### 26.
+(1) Every child shall attend school from the beginning of the school calendar in the school year following that in which the child attains the age prescribed by the Minister, by Order, until the last of the school calendar in the school year in which the child attains sixteen years of age or at the end of which the child obtains a certificate or diploma awarded by the Minister, whichever occurs first.
+
+(2) Notwithstanding subsection (1), if the Minister is satisfied that it has become necessary or expedient to raise or lower the compulsory school age, the Minister may, by Order, subject to affirmative resolution of the National Assembly, within sixty days of the making of the Order, direct that subsection (1) have effect as if for references therein there were substituted a reference to any age prescribed in the Order.
+
+Mode of admission.
 
 ### 27.
 (1) No child shall be admitted to a primary school unless at the time of admission
 
-(a) the  child  is  accompanied  by  a  parent  or  a responsible person over the age of eighteen years who has been authorized by a parent to represent him or her;
+(a) the child is accompanied by a parent or a responsible person over the age of eighteen years who has been authorized by a parent to represent him or her;
 
-(b) the person accompanying the child brings a birth or  baptism  certificate  giving  the  information required for the Student's Register;
+(b) the person accompanying the child brings a birth or baptism certificate giving the information required for the Student’s Register;
 
-(c) the  child  shall  have  attained  the  age  prescribed under  section  26  or  will  attain  that  age  by December 31 st of that same year; and
+(c) the child shall have attained the age prescribed under section 26 or will attain that age by December 31st of that same year; and
 
-(d) a  certificate  issued  by  a  registered  medical practitioner  or  the  Public  Health  authorities  is produced  indicating  that  the  child  has  been immunized as may be prescribed by regulations made under this Act.
-
-Wishes of parents to be considered in education of students.
-
-Compulsory school attendance.
-
-Mode of admission.
+(d) a certificate issued by a registered medical practitioner or the Public Health authorities is produced indicating that the child has been immunized as may be prescribed by regulations made under this Act.
 
 [[END OF PAGE 25]]
 
@@ -1337,7 +1326,7 @@ attendance at any public school or assisted private school has fallen to such ex
 
 Education Act, 2005 - 9.
 
-(5) Notwithstanding subsections (1) and (3), the principal of a school may, in an emergency and where it is impractical to obtain the prior approval of the Minister or Chief Education Officer, close a school temporarily and inform the Minister or Chief Education Officer as soonas practicable after the closure of the school.
+(5) Notwithstanding subsections (1) and (3), the principal of a school may, in an emergency and where it is impractical to obtain the prior approval of the Minister or Chief Education Officer, close a school temporarily and inform the Minister or Chief Education Officer as soon as practicable after the closure of the school.
 
 ### 35.
 (1) The Minister may, by regulations, introduce a scheme of zoning for the admission and transfer of students to public schools and assisted private schools, whether primary or secondary.
@@ -1366,7 +1355,7 @@ A student shall be excused from school attendance if
 
 (f) the  student  is  a  participant  in  observances, celebrations,  or  activities  recognised  by  a  religious denomination;
 
-(g) the  student  has  been  suspended  by  a  school inaccordance with the provisions of this Act and has not been given permission to enroll in another school;
+(g) the student has been suspended by a school in accordance with the provisions of this Act and has not been given permission to enroll in another school;
 
 Zoning of schools.
 
@@ -1401,7 +1390,7 @@ The Minister may, by Order, designate school attendance counsellors  to  assist 
 A school attendance counsellor shall be responsible for the  enforcement  of  compulsory  school  attendance  in  respect  of  all children of compulsory age within the district or area to which he or she is appointed.
 
 ### 40.
-For  the  purposes  of  section  39  a  school  attendance counsellor,  who  has  reasonable  cause  to  believe  that  a  person  is incontravention  of  this  Act  and  upon  presentation  of  his  or  her credentials, may, at any time,
+For the purposes of section 39 a school attendance counsellor, who has reasonable cause to believe that a person is in contravention of this Act and upon presentation of his or her credentials, may, at any time,
 
 (a) enter  premises  and  make  such  inquiries  as  are necessary to determine whether section 39 is being complied with or whether anyone is in contravention of section 42 in relation to a child of compulsory age whom the school attendance counsellor has reasonable cause to believe to be frequenting, visiting, residing or employed on the premises;
 
@@ -1417,7 +1406,8 @@ For  the  purposes  of  section  39  a  school  attendance counsellor,  who  has
 
 (v) any  other  matter  relevant  to  the  inquiries referred to in paragraph (a).
 
-(1) A person conimits an offence if that person
+### 41.
+(1) A person commits an offence if that person
 
 (a)    assaults, obstructs, or uses insulting, threatening obscene, abusive or indecent language to
 
@@ -1435,7 +1425,7 @@ Education Act, 2005 - 9.
 
 (b) being a parent, fails,  without  reasonable  cause, having been requested by a school attendance counsellor to give any information concerning
 
-(i) the name, age, residence, parent,enrollment of the attendance of any child at school;
+(i) the name, age, residence, parent, enrollment or the attendance of any child at school;
 
 (ii) any other matter, relevant to the attendance of any child at school; or
 
@@ -1443,12 +1433,17 @@ Education Act, 2005 - 9.
 
 (2) Subsection (1) above applies, notwithstanding that the child in relation to whom the offence is committed is not of compulsory school age.
 
-(3) A  person  who  is  convicted  of  an  offence  under subsection (1)  shall  be  liable,  on  sununary  conviction,  to  a  fine  not exceeding one thousand five hundred dollars or six months imprisonment or both.
+(3) A person who is convicted of an offence under subsection (1) shall be liable, on summary conviction, to a fine not exceeding one thousand five hundred dollars or six months imprisonment or both.
+
+Power to deliver absent student.
 
 ### 42.
 A school attendance counsellor may, at the request of the parent,  apprehend and deliver to the school from which he or she is absent or to his or her parent, any student found absent from school without having been excused under section 37.
 
-- A school attendance counsellor shall
+Duties of school attendance counsellor.
+
+### 43.
+A school attendance counsellor shall
 
 (a) report monthly to the Chief Education Officer;
 
@@ -1462,9 +1457,7 @@ A school attendance counsellor may, at the request of the parent,  apprehend and
 
 (ii) written notice to the parent to cause the child to attend school forthwith.
 
-Power to deliver absent student.
 
-Duties of school attendance counsellor.
 
 [[END OF PAGE 31]]
 
@@ -1483,7 +1476,7 @@ Education Act, 2005 - 9.
 ### 44.
 Every principal of a school shall
 
-(a) report, in accordance with such regulations as maybe prescribed,  to  the  school  attendance  counsellor,  the names, ages and residences of all pupils of compulsory age who have not attended school as required;
+(a) report, in accordance with such regulations as may be prescribed, to the school attendance counsellor, the names, ages and residences of all pupils of compulsory age who have not attended school as required;
 
 (b) furnish the Chief Education Officer with such other information as the Chief Education Officer requires for the enforcement of compulsory education; and
 
@@ -1521,8 +1514,10 @@ Education Act, 2005 - 9.
 
 (7) Any person or body corporate as the case may be who contravenes any of the provisions of subsections (4) or (5), commits an offence and is liable, on summary conviction, to a fine of two thousand dollars or to imprisonment for 6 months, or both.
 
+Legal proceedings.
+
 ### 47.
-(1) Prosecutions  under  sections  45  and  46  may  be institutedby the Chief Education Officer.
+(1) Prosecutions under sections 45 and 46 may be instituted by the Chief Education Officer.
 
 (2) In prosecutions under sections 45 and 46 a statement as to the attendance or non-attendance at school of any child, signed or purporting to be signed by the principal of the school, shall be prima facie evidence of the facts stated therein.
 
@@ -1534,12 +1529,12 @@ Education Act, 2005 - 9.
 
 ## DIVISION 5 Discipline, suspension and expulsion of students
 
+School rules to govern discipline.
+
 ### 48.
 (1) A public school and an assisted private school may, after consultation with its Board of Management, where such a Board exists, introduce rules to govern the attire, conduct and discipline of students.
 
-(2) Rules established pursuant to subsection (1) shall Legal proceedings.
-
-School rules to govern discipline.
+(2) Rules established pursuant to subsection (1) shall
 
 [[END OF PAGE 33]]
 
@@ -1590,13 +1585,15 @@ Suspension for minor offences.
 
 Education Act, 2005 - 9.
 
-- When a student has been suspended, the principal shall
+(2) When a student has been suspended, the principal shall
 
 (a) make every effort possible to inform the student's parents of the suspension and the reason for it; and
 
 (b) meet as soon as possible with the student and the parents of the student to review the circumstances surrounding  the  suspension  and  to  determine appropriate corrective action which may include counseling for the student and the parents.
 
 (3) If there is no resolution within two school days, the principal  shall  decide  either  to  reinstate  or  to  suspend  the  student  in accordance with section 52.
+
+Suspension for major offences.
 
 ### 52.
 (1) The principal of any public school or assisted private school may suspend a student for a period of more than two days but not exceeding ten school days for
@@ -1619,7 +1616,7 @@ Education Act, 2005 - 9.
 
 (2) A student who is suspended under subsection (1)(d) shall only be re-admitted on the production of a medical certificate signed by a medical practitioner or nurse.
 
-Suspension for major offences.
+
 
 [[END OF PAGE 35]]
 
@@ -1656,7 +1653,7 @@ Establishment and maintenance of primary schools.
 
 (5) The Chief Education Officer shall inform the student and the parents of the student of the right of appeal under subsection (4) at the time of notifying them of his or her decision under subsection (3).
 
-# PART 4 - ADMINISTRATION  OF  EDUCATIONAL INSTITUTIONS
+# PART 4 – ADMINISTRATION OF EDUCATIONAL INSTITUTIONS
 
 ## DIVISION 1 Management of public primary schools
 
@@ -1765,6 +1762,8 @@ Functions of a Board of Management for a primary school.
 
 Education Act, 2005 - 9.
 
+Submission of reports, statements and estimates.
+
 ### 59.
 Every Board of Management shall, after consultation with the principal, submit to the Chief Education Officer
 
@@ -1786,29 +1785,31 @@ Every Board of Management shall, after consultation with the principal, submit t
 
 (c) on or  before  July  31 st in  each  year,  its  estimate  of expenditure for the school under its control in respect of  the  next  financial  year  for  the  approval  of  the Minister.
 
+Special or general directions.
+
 ### 60.
 Subject  to  this Act  and  regulations  made  thereunder,  a Board of Management shall act in accordance with any special or general directions of the Minister concerning the exercise and performance of its functions under this Act.
 
 ## DIVISION 2 Management of public secondary schools
 
+Application of Division.
+
 ### 61.
 This Division shall apply to any public secondary school established under this Act.
+
+Management of public secondary schools.
 
 ### 62.
 Subject to this Act public secondary schools shall be under the management and control of the Minister.
 
+Establishment of Board of Management.
+
 ### 63.
 (1) The Minister may, by notice, if the Minister deems it necessary, appoint a Board of Management for each public secondary school established under this Act where it appears to the Minister to be desirable  to  do  so  in  the  interest  of  economy,  efficiency,  and  for  the participation of the community in the management of education.
 
-(2) Notwithstanding subsection  (1),  the  Minister  may appoint  one  Board  of  Management  to  administer  more  than  one secondary school if the Minister is satisfied that the general interest of Submission of reports, statements and estimates.
+(2) Notwithstanding subsection (1), the Minister may appoint one Board of Management to administer more than one secondary school if the Minister is satisfied that the general interest of
 
-Special or general directions.
 
-Application of Division.
-
-Management of public secondary schools.
-
-Establishment of Board of Management.
 
 [[END OF PAGE 39]]
 
@@ -1893,11 +1894,14 @@ Education Act, 2005 - 9.
 
 (3) For  the  purpose  of  performing  its  function  under subsection (1)(b) the Board of Management shall appoint a Bursar who shall be paid from the funds voted by Parliament.
 
-- The funds and resources of a Board of Management are:
+Funds and resources of a Board of Management.
+
+### 65.
+The funds and resources of a Board of Management are:
 
 (a) moneys voted  for  the  purposes  of  the  Board  of Management by Parliament;
 
-Funds and resources of a Board of Management.
+
 
 [[END OF PAGE 41]]
 
@@ -2065,7 +2069,7 @@ Education Act, 2005 - 9.
 
 (ii) conduct  and  discipline  of  students  and trainees.
 
-# PART 5 - CATEGORIES  OF  SCHOOLS  AND THE  STAGES  OF  EDUCATION
+# PART 5 – CATEGORIES OF SCHOOLS AND THE STAGES OF EDUCATION
 
 ## DIVISION 1 Forms and stages of education
 
@@ -2135,6 +2139,8 @@ A private educational institution offering early childhood education services sh
 
 Education Act, 2005 - 9.
 
+Council on early childhood education services.
+
 ### 78.
 (1) The Minister may, when he or she deems it desirable, establish a Council on Early Childhood Education to advise him or her on policies to guide the implementation of this Division.
 
@@ -2145,6 +2151,8 @@ Education Act, 2005 - 9.
 (b) procedures for the conduct of its business; and
 
 (c) powers and functions.
+
+Regulations.
 
 ### 79.
 (1) The Minister may make regulations generally for the proper carrying out of the purposes of this Division.
@@ -2167,14 +2175,12 @@ Education Act, 2005 - 9.
 
 ## DIVISION 3 Home education
 
+Home education.
+
 ### 80.
 (1) A parent of a student may provide, at home, a home education programme for the student if the parent complies with this section and if the programme meets the goals and objectives outlined in section 3.(3) of this Act.
 
-(2) The parent shall, prior to the commencement of a home education programme for the student and on an annual basis thereafter Council on early childhood education services.
-
-Regulations.
-
-Home education.
+(2) The parent shall, prior to the commencement of a home education programme for the student and on an annual basis thereafter
 
 [[END OF PAGE 47]]
 
@@ -2263,7 +2269,7 @@ Determination of special educational needs.
 
 (c) prior written informed consent by a parent for the administration to the student of the psychological and other specialized tests that are not routinely used by teachers shall be obtained;
 
-(d) where possible, the assessment shall be multidisciplinary;
+(d) where possible, the assessment shall be multi-disciplinary;
 
 (e) the  results  of  the  assessment  reports  shall  be provided and explained to the parent;
 
@@ -2271,7 +2277,7 @@ Determination of special educational needs.
 
 (g) the  parents  shall  be  provided  with  information concerning the right of appeal to the Education Appeal Tribunal.
 
-(2) Subject to subsection (1), the principal, in consultation with professional staff and parents or, where a child is not in attendance at  a  school,  the  Chief  Education  Officer  and  professional  staff  and educational  needs,  and,  if  so,  what  special  education  programme  is appropriate to meet the needs of that student.
+(2) Subject to subsection (1), the principal, in consultation with professional staff and parents or, where a child is not in attendance at a school, the Chief Education Officer and professional staff and parents shall determine whether the student has special educational needs, and, if so, what special education programme is appropriate to meet the needs of that student.
 
 (3) Parents shall have the right to request for their children a determination in accordance with this section.
 
@@ -2287,7 +2293,7 @@ Determination of special educational needs.
 
 43
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 ### 84.
 (1) If  a  disagreement  arises  respecting  a  decision concerning
@@ -2321,7 +2327,7 @@ the parent, student, or Board of Management may, within fourteen (14) days of th
 
 (c) its powers and functions.
 
-# PART 6 - CATEGORIES  OF  EDUCATIONAL INSTITUTIONS
+# PART 6 – CATEGORIES OF EDUCATIONAL INSTITUTIONS
 
 ### 86.
 For the purposes of this Act, the school system shall be organized in the following categories:
@@ -2340,7 +2346,7 @@ Organization of schools.
 
 Status of public schools.
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (a) public schools;
 
@@ -2357,15 +2363,22 @@ All public schools existing at the commencement of this Act shall  be  deemed  t
 
 ## DIVISION 2 Private educational institutions
 
-Interpretation. |
+Interpretation.
+
 ### 88.
-The word 'institution' or 'school' where used in this Division to refer to the subject of rights or obligations, mean the person operating the institution or school to which the provision concerned applies.
---- | ---
-Body without legal personality. |
+The word “institution” or “school” where used in this Division to refer to the subject of rights or obligations, mean the person operating the institution or school to which the provision concerned applies.
+
+Body without legal personality.
+
 ### 89.
-(1) In the case of a body not endowed with legal personality, the provisions of this Act shall apply as if the body were endowed with legal personality. (2) The obligations to comply with the provisions of this Act lies with the persons responsible for the administration of the body.
+(1) In the case of a body not endowed with legal personality, the provisions of this Act shall apply as if the body were endowed with legal personality.
+
+(2) The obligations to comply with the provisions of this Act lies with the persons responsible for the administration of the body.
+
 (3) In the case of an institution established by partnership, the obligation lies with both the partnership and the partners.
-Applicability. |
+
+Applicability.
+
 ### 90.
 This Act applies to every private educational institution dispensing all or some of the educational services belonging to one or more of the following categories:
 (a) early childhood educational services;
@@ -2382,16 +2395,16 @@ This Act applies to every private educational institution dispensing all or some
 
 45
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (h) instructional  services  in  general  education  at  the tertiary level; and
 
 (i) instructional  services  in  general  education  at  the tertiary level.
 
 ### 91.
-(1) Paragraphs (a) to (f)  and  (h)  of  section  90  refer  to education or instruction intended mainly to develop students' abilities in  subjects  preparing  them  for  studies  at  the  elementary,  secondary, post-secondary, tertiary or university level, as the case may be.
+(1) Paragraphs (a) to (f)  and  (h)  of  section  90  refer  to education or instruction intended mainly to develop students’ abilities in  subjects  preparing  them  for  studies  at  the  elementary,  secondary, post-secondary, tertiary or university level, as the case may be.
 
-(2) Paragraphs (g) and (i) of section 90 refer to vocational education or vocational training which is entitled mainly to develop students' abilities so as to prepare them for an occupation, a trade or a profession.
+(2) Paragraphs (g) and (i) of section 90 refer to vocational education or vocational training which is entitled mainly to develop students’ abilities so as to prepare them for an occupation, a trade or a profession.
 
 ### 92.
 No person shall operate a private educational institution to which this Act applies unless he or she holds a permit issued by the Minister, for the institution and the educational services or categories of educational services mentioned in section 90.
@@ -2427,13 +2440,13 @@ Private educational institutions register.
 
 46
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 Application for registration.
 
 Eligibility for registration.
 
-(4) The  Chief  Education  Officer  shall  certify  any amendment to the Register and the amendment shall be published in the Gazette .
+(4) The  Chief  Education  Officer  shall  certify  any amendment to the Register and the amendment shall be published in the Gazette.
 
 ### 96.
 (1) An application  for  a  permit  to  establish  a  private educational institution shall be made in the prescribed form by or on behalf of the proprietor of the private educational institution and shall contain the prescribed information.
@@ -2465,7 +2478,7 @@ Where a private  educational  institution  in  respect  of which an application 
 
 47
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 ### 98.
 (1) The Minister may refuse to issue a permit if, during the three years preceding the application, a permit held by the applicant was revoked.
@@ -2524,7 +2537,7 @@ Vocational education.
 
 48
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 Modification.
 
@@ -2537,7 +2550,9 @@ Visits to private educational institutions.
 (c) general or vocational education at the tertiary level, the  programmes that the institution is authorized to dispense.
 
 ### 103.
-(1) On first  issuance,  a  permit  is  valid  for  a  period  of three years. Duration and renewal of permits.
+(1) On first  issuance,  a  permit  is  valid  for  a  period  of three years.
+
+Duration and renewal of permits.
 
 (2) The  Minister  shall  renew  for  five  years,  and subsequently for the same period, a permit held by a person who
 
@@ -2575,7 +2590,7 @@ No permit may be transferred except with the written authorization of the Minist
 
 49
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (a) carry  out  inspections  and  discharge  such  other duties as are imposed on him or her by this Act;
 
@@ -2585,7 +2600,7 @@ Education Act, 2005 - 9.
 
 (3) A person who, in respect of any person specified under subsection (1),
 
-(a) obstructs that person in the performance of that person's duties;
+(a) obstructs that person in the performance of that person’s duties;
 
 (b) makes a false representation to that person; or
 
@@ -2605,10 +2620,12 @@ Where a proprietor who is served with a notice under section 108 fails, within t
 
 (i) that  the  permit  has  been  revoked  and  the registration  has  been  cancelled  and  of the reasons for revocation and cancellation; and
 
-(ii) of  the  proprietor's  right  to  appeal  under section 110.
+(ii) of  the  proprietor’s  right  to  appeal  under section 110.
 
 ### 110.
-(1) The proprietor  of  a  private  educational  institution which is refused a permit and registration pursuant to sections 97 and 98 or whose registration is cancelled under section 109(a) may, within Notice to comply.
+(1) The proprietor  of  a  private  educational  institution which is refused a permit and registration pursuant to sections 97 and 98 or whose registration is cancelled under section 109(a) may, within
+
+Notice to comply.
 
 Cancellation of registration.
 
@@ -2620,7 +2637,7 @@ Appeal.
 
 50
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 Registration and closure.
 
@@ -2659,7 +2676,7 @@ thirty days of being notified of the refusal or cancellation, appeal to the Educ
 
 51
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 educational institution may, if the proprietor has complied with the notice served on him or her under section 108, apply to the Minister for the re-registration of the school.
 
@@ -2703,7 +2720,7 @@ Prohibition of discrimination.
 
 52
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 Creation of assisted private schools.
 
@@ -2713,7 +2730,8 @@ Publication of list of assisted private schools.
 
 ## DIVISION 3 Assisted private schools
 
-- Subject to section 117, an assisted private school is either
+### 116.
+Subject to section 117, an assisted private school is either
 
 (a) an  educational  institution  whose  property  is  owned by a private proprietor, denominational body, a trust, an individual or any incorporated or unincorporated body and which has agreed to receive public funds for one or more of the following purposes:
 
@@ -2738,7 +2756,7 @@ Publication of list of assisted private schools.
 ### 117.
 (1) An assisted private school comes into existence by mutual agreement between the Minister and the proprietor of the school.
 
-- An agreement under subsection (1) shall
+(2) An agreement under subsection (1) shall
 
 (a) be in writing;
 
@@ -2751,7 +2769,7 @@ Publication of list of assisted private schools.
 (3) Any  party  to  the  agreement  may  terminate  the agreement by giving the other at least thirty-six calendar months notice.
 
 ### 118.
-(1) The Minister shall, by July 31 st of each year, publish in the Gazette a list of all assisted private schools and shall cause the list to be circulated to all public and assisted private schools.
+(1) The Minister shall, by July 31st of each year, publish in the Gazette a list of all assisted private schools and shall cause the list to be circulated to all public and assisted private schools.
 
 [[END OF PAGE 60]]
 
@@ -2759,7 +2777,7 @@ Publication of list of assisted private schools.
 
 53
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (2) Where the Minister and the proprietor of a private educational institution agree, a list published by virtue of subsection (1) shall detail the respective rights, responsibilities and obligations of the Government and the assisted private school.
 
@@ -2778,7 +2796,8 @@ Education Act, 2005 - 9.
 ### 121.
 Except where a denominational school agrees to become an assisted private school, it shall not lose its status whether or not it is in receipt of a Government grant or subsidy or other form of financial assistance  designed  to  meet  in  whole  or  in  part  the  cost  of  the management and maintenance of the school.
 
-- The Minister may make regulations relating to
+### 122.
+The Minister may make regulations relating to
 
 (a) the registration of denominational schools;
 
@@ -2802,7 +2821,7 @@ Establishment of Technical and Vocational Education Council.
 
 Functions of Council.
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (c) the educational services or categories of educational services the denominational body dispenses;
 
@@ -2814,7 +2833,7 @@ Education Act, 2005 - 9.
 
 (g) the  buildings,  premises,  equipment  and  furnishings to be used by the denominational body.
 
-# PART 7 - TECHNICAL  AND  VOCATIONAL  EDUCATION AND  TRAINING
+# PART 7 – TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING
 
 ### 123.
 (1) The Minister may establish a Technical and Vocational Education Council whose membership shall be as follows:
@@ -2848,7 +2867,7 @@ The functions of the Technical and Vocational Education Council are:
 
 55
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (a) to advise the Minister on policy relating to technical and vocational education;
 
@@ -2899,7 +2918,7 @@ Additional functions of a committee.
 
 Training schemes.
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (b) to advise the Technical and Vocational Education and Training Council on specified aspects of technical and vocational education;
 
@@ -2934,7 +2953,7 @@ Education Act, 2005 - 9.
 
 57
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (f) the days on which, the hours in any day before or after  which,  and  the  intervals  during  which,  no trainee can be required or permitted to work;
 
@@ -2974,7 +2993,7 @@ Regulations by Council.
 
 58
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 Annual report.
 
@@ -2993,7 +3012,7 @@ proficiency to any person who enters for, and passes, any such test, notwithstan
 
 (b) a statement of the accounts of the Technical and Vocational Education Council for that financial year  audited  in  accordance  with  regulations enacted for that purpose.
 
-(2) A copy of the report of the Technical and Vocational Education Council referred to in subsection (1) shall be printed and laid before Parliament and published in the Official Gazette .
+(2) A copy of the report of the Technical and Vocational Education Council referred to in subsection (1) shall be printed and laid before Parliament and published in the Official Gazette.
 
 ### 132.
 The Technical and Vocational Education Council shall prepare a national policy for technical and vocational education and training to meet the needs of society and the economy.
@@ -3005,7 +3024,8 @@ The Technical and Vocational Education Council shall prepare a national policy f
 
 (3) The strategy and plan shall only be implemented in public and assisted private schools on the written direction of the Minister to the Chief Education Officer.
 
-- The Minister may make regulations
+### 134.
+The Minister may make regulations
 
 (a) enabling  the  Technical  and  Vocational  Education Council to appoint an Executive Director and other members of staff to manage its affairs;
 
@@ -3019,7 +3039,7 @@ The Technical and Vocational Education Council shall prepare a national policy f
 
 59
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (d) respecting  the  criteria  and  eligibility  for  receiving grants or loans;
 
@@ -3031,12 +3051,13 @@ Education Act, 2005 - 9.
 
 (h) respecting the supervision of trainees by employers.
 
-# PART 8 - PROFESSIONAL  DUTIES  AND RESPONSIBILITIES  OF  TEACHERS  AND  PRINCIPALS
+# PART 8 – PROFESSIONAL DUTIES AND RESPONSIBILITIES OF TEACHERS AND PRINCIPALS
 
 ### 135.
 No person shall be employed as a teacher, principal or deputy principal in a public or assisted private school unless that person holds a valid qualification as established in regulations made by the Minister.
 
-- Every teacher has the right to
+### 136.
+Every teacher has the right to
 
 (a) be treated in a fair and reasonable manner;
 
@@ -3068,7 +3089,7 @@ Exercise of general professional duties.
 
 Duties of teachers.
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (i) be  provided  with  adequate  clothing,  tools  and equipment when engaged in hazardous activities;
 
@@ -3104,7 +3125,7 @@ A teacher shall carry out his or her professional duties under the reasonable di
 
 61
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (i) report  promptly  to  the  principal  an  apparent outbreak of contagious or infectious diseases in the school, any unsanitary condition of the school building or surroundings and any other conditions or circumstances that may reasonably threaten the health or safety of students or other employees of the school;
 
@@ -3134,7 +3155,7 @@ Education Act, 2005 - 9.
 
 62
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 Duties of Deputy Principal.
 
@@ -3169,7 +3190,7 @@ Duties of Deputy Principal.
 
 63
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 ### 140.
 (1) Subject to the provisions of this Act, the principal of each school shall
@@ -3204,11 +3225,11 @@ General responsibilities of principals.
 
 64
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (l) report to the Chief Education Officer and to the proper government officials responsible for student welfare  that  a  student  is  in  need  of  protection when there are  reasonable  grounds  to  believe that  the  student  is  in  need  of  protection  as defined  pursuant  to  any  legislation  enacted by Parliament;
 
-(m) prepare the school's operations and maintenance budget for review and approval by the Board of Management, where such a body exists;
+(m) prepare the school’s operations and maintenance budget for review and approval by the Board of Management, where such a body exists;
 
 (n) be responsible for the preparation  and implementation of the school plan;
 
@@ -3238,7 +3259,7 @@ Education Act, 2005 - 9.
 
 65
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (iii) his  or  her  duties  under  this  Act  and regulations made under it;
 
@@ -3252,7 +3273,7 @@ Education Act, 2005 - 9.
 
 (2) A principal who fails to perform any or a combination of  the  professional  duties  specified  in  subsection  (1)  is  liable  to disciplinary  action  by  the  Public  Service  Commission  in  accordance with the regulations made for that purpose by the Commission.
 
-# PART 9 - CURRICULUM  AND  ASSESSMENT OF  STUDENTS
+# PART 9 – CURRICULUM AND ASSESSMENT OF STUDENTS
 
 ### 141.
 (1) The Minister shall establish a national curriculum for public schools and assisted private schools.
@@ -3282,7 +3303,7 @@ Core and foundation subjects.
 
 Key stages of assessment.
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 different abilities and maturities are expected to have by the end of each key stage;
 
@@ -3313,14 +3334,14 @@ different abilities and maturities are expected to have by the end of each key s
 
 67
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (4) The Minister shall  determine  the  frequency  of  the assessments.
 
 (5) The  Minister  may  publish  the  results  of  the assessments together with a commentary on the results by the Chief Education Officer.
 
 ### 144.
-(1) The Minister shall, by notice published in the Official Gazette ,  establish
+(1) The Minister shall, by notice published in the Official Gazette, establish
 
 (a) the core subjects and other foundation subjects;
 
@@ -3332,7 +3353,7 @@ Education Act, 2005 - 9.
 
 that the Minister considers appropriate.
 
-- A notice issued under subsection (1) may not require
+(2) A notice issued under subsection (1) may not require
 
 that
 
@@ -3365,11 +3386,7 @@ Subjects panels.
 
 68
 
-Education Act, 2005 - 9.
-
-Collective worship and religious education.
-
-Religious education in public schools.
+Education Act, 2005 – 9.
 
 ### 146.
 (1) Subject to subsections (2) and (5), the school day in every public or assisted private school shall begin with collective worship by all students in attendance at the school, and the arrangements made shall provide for a single act of worship attended by all students unless the school premises are so constructed as to make it impracticable to assemble for that purpose.
@@ -3380,20 +3397,24 @@ Religious education in public schools.
 
 (4) It shall not be a condition of admission or attendance of any student in a public or assisted private school that a student
 
-(a) participates  in  religious  education  or  attends  or abstains  from  attending  any  place  of  religious instruction or worship;
+(a) participates in religious education or attends or abstains from attending any place of religious instruction or worship;
 
 (b) if his or her parent objects, attends any religious observances or receives any education in religious subjects at an institution or elsewhere; or
 
 (c) attends an institution or an activity in any place on any day specially set apart for religious worship by the religious body to which he or she belongs:
 
-provided that students shall be required to attend school assembly, but shall  not  be  compelled  to  participate  in  the  religious  activities  at  the assembly.
+provided that students shall be required to attend school assembly, but shall not be compelled to participate in the religious activities at the assembly.
 
-(5) Where the parent of any student attending a public school or an assisted private school requests that the student be excused from education or instruction in religious subjects at the institution or elsewhere, then, until  the  request  is  withdrawn,  the  student  shall  be excused.
+(5) Where the parent of any student attending a public school or an assisted private school requests that the student be excused from education or instruction in religious subjects at the institution or elsewhere, then, until the request is withdrawn, the student shall be excused.
 
 ### 147.
-(1) The  religious  education  given  to  any  student  in attendance at a public school pursuant to section 146.(3) shall be given in accordance with an agreed syllabus adopted for the school and shall not  include  any  catechism  or  formulary  which  is  distinctive  of  any particular  religious  denomination.
+(1) The religious education given to any student in attendance at a public school pursuant to section 146.(3) shall be given in accordance with an agreed syllabus adopted for the school and shall not include any catechism or formulary which is distinctive of any particular religious denomination.
 
-(2) In  respect  of  public  schools,  the  Minister  may constitute a standing advisory council on religious matters connected with the religious instruction to be given in accordance with an agreed syllabus  and,  in  particular,  as  to  methods  of  teaching,  the  choice  of books, and the provision of lecturers or teachers.
+(2) In respect of public schools, the Minister may constitute a standing advisory council on religious matters connected with the religious instruction to be given in accordance with an agreed syllabus and, in particular, as to methods of teaching, the choice of books, and the provision of lecturers or teachers.
+
+Collective worship and religious education.
+
+Religious education in public schools.
 
 [[END OF PAGE 76]]
 
@@ -3401,9 +3422,9 @@ provided that students shall be required to attend school assembly, but shall  n
 
 69
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
-# PART 10 - ISLAND  SCHOLARSHIPS  AND  GRANTS
+# PART 10 – ISLAND SCHOLARSHIPS AND GRANTS
 
 ### 148.
 (1) There shall be established scholarships to be called the Saint Christopher and Nevis Scholarships.
@@ -3447,35 +3468,35 @@ Examination for scholarship.
 
 70
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
-Entry at proposed institution.
-
-Forfeiture of scholarship.
-
-(2) In  the  event  of  the  examiners  reporting  that  any competitors are  equal,  the  Cabinet  may  award  scholarships  to  such students as it may deem fit.
+(2) In the event of the examiners reporting that any competitors are equal, the Cabinet may award scholarships to such students as it may deem fit.
 
 ### 152.
-(1) A  scholarship  holder  shall  enter  the  approved university,  college  or  institution  within  a  reasonable  period  after  the award of the scholarship and shall keep the prescribed term continuously until the scholarship expires.
+(1) A scholarship holder shall enter the approved university, college or institution within a reasonable period after the award of the scholarship and shall keep the prescribed term continuously until the scholarship expires.
 
 (2) No change shall be made by a scholarship holder in either the university or college or institution attended or the approved course of study except with the approval of the Cabinet.
 
 ### 153.
-(1) Subject  to  subsection  (2),  a  scholarship  shall  be forfeited
+(1) Subject to subsection (2), a scholarship shall be forfeited
 
 (a) by expulsion of the scholarship holder from the university, college or institution;
 
-(b) by failure of the scholarship holder to pass any examination within the period from time to time fixed by the competent authorities of the university, college  or  institution  unless  the  Cabinet  is satisfied on the recommendation of the authorities of the university, or college or institution that the scholarship holder has been prevented from passing the examination in circumstances which would not in their judgment justify forfeiture;
+(b) by failure of the scholarship holder to pass any examination within the period from time to time fixed by the competent authorities of the university, college or institution unless the Cabinet is satisfied on the recommendation of the authorities of the university, or college or institution that the scholarship holder has been prevented from passing the examination in circumstances which would not in their judgment justify forfeiture;
 
 (c) if the scholarship holder enters on any course of study or accepts any appointment which is not approved by the Cabinet;
 
-(d) if the scholarship holder fails to comply with the requirements of this Part or of any regulations made  under  this  Part  without  furnishing satisfactory evidence that the cause of such failure was beyond his or her control;
+(d) if the scholarship holder fails to comply with the requirements of this Part or of any regulations made under this Part without furnishing satisfactory evidence that the cause of such failure was beyond his or her control;
 
-(e) by reason of any event either before or after the scholarship holder has entered on any course of study which in the opinion of the Cabinet is likely to  be  prejudicial  to  the  object  for  which  the scholarship was granted; or
+(e) by reason of any event either before or after the scholarship holder has entered on any course of study which in the opinion of the Cabinet is likely to be prejudicial to the object for which the scholarship was granted; or
 
 (f) on proof to the satisfaction of Cabinet of grave misconduct by the scholarship holder at any time after the award.
 
-(2) Cabinet may, either before or after  the  scholarship holder has commenced studies, in lieu of declaring the scholarship to be forfeited, forfeit the whole or a portion of the scholarship accruing or payable in respect of any specified period if in the opinion of Cabinet the circumstances of the case would be sufficiently met by the adoption of such a course.
+(2) Cabinet may, either before or after the scholarship holder has commenced studies, in lieu of declaring the scholarship to
+
+Entry at proposed institution.
+
+Forfeiture of scholarship.
 
 [[END OF PAGE 78]]
 
@@ -3483,7 +3504,9 @@ Forfeiture of scholarship.
 
 71
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
+
+be forfeited, forfeit the whole or a portion of the scholarship accruing or payable in respect of any specified period if in the opinion of Cabinet the circumstances of the case would be sufficiently met by the adoption of such a course.
 
 ### 154.
 Every student to whom a scholarship is awarded under this Act shall sign a bond in such sum and in such manner as may be prescribed to return, on his or her obtaining his or her qualifications, to Saint Christopher and Nevis and to serve therein for a period of not less than  three  years  provided  that  the  person  is  offered  an  appointment appropriate to his or her qualifications at such initial remuneration as is paid to holders of like offices.
@@ -3502,7 +3525,7 @@ Cabinet  may,  on  such  terms  and  conditions  as  may be  prescribed  by  reg
 
 as it thinks advisable.
 
-# PART 11 - INSPECTION  AND  REVIEW  OF  THE EDUCATION  SYSTEM
+# PART 11 – INSPECTION AND REVIEW OF THE EDUCATION SYSTEM
 
 ## DIVISION 1 Inspection of educational institutions
 
@@ -3527,13 +3550,7 @@ Inspection of educational institutions.
 
 72
 
-Education Act, 2005 - 9.
-
-Educational institutions to be open for inspections and visits.
-
-Offences.
-
-Appointment of Education Review Committee.
+Education Act, 2005 – 9.
 
 (b) advise the principal of the institution on matters relating to its welfare and development; and
 
@@ -3550,18 +3567,19 @@ Appointment of Education Review Committee.
 
 (2) Any person who, pursuant to subsection (1), inspects an educational institution may, at the request of the Chief Education Officer, examine the students in the subjects of institution taught at the institution.
 
-- A person who
+### 159.
+A person who
 
 (a) prevents a person referred to in section 157.(1) from visiting or inspecting public schools, assisted private schools or private educational institutions; or
 
-(b) assaults or obstructs a person empowered or authorized under this Act to visit or inspect a public school, an assisted private  school  or  a  private  educational  institution during a visit or inspection of such institutions,
+(b) assaults or obstructs a person empowered or authorized under this Act to visit or inspect a public school, an assisted private school or a private educational institution during a visit or inspection of such institutions,
 
 commits an offence and is liable, on summary conviction, to a fine not exceeding one thousand dollars, and in the case of a second or subsequent conviction to a term of imprisonment not exceeding six months.
 
 ## DIVISION 2 Review of the education system
 
 ### 160.
-(1) Every five years or as soon as practicable thereafter, Cabinet  on  the  recommendation  of  the  Minister,  shall  appoint  an Education Review Committee to review and report on the education system of Saint Christopher and Nevis in accordance with section 161.
+(1) Every five years or as soon as practicable thereafter, Cabinet on the recommendation of the Minister, shall appoint an Education Review Committee to review and report on the education system of Saint Christopher and Nevis in accordance with section 161.
 
 (2) The Education Review Committee shall comprise of
 
@@ -3569,13 +3587,19 @@ commits an offence and is liable, on summary conviction, to a fine not exceeding
 
 (b) one member from either
 
+Educational institutions to be open for inspections and visits.
+
+Offences.
+
+Appointment of Education Review Committee.
+
 [[END OF PAGE 80]]
 
 [[START OF PAGE 81]]
 
 73
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (i) a Parent Teacher Association; or
 
@@ -3628,20 +3652,16 @@ Review and report of Education Review Committee.
 
 74
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
-Establishment of Education Appeal Tribunal.
-
-Functions of Tribunal.
-
-# PART 12 - APPEALS
+# PART 12 – APPEALS
 
 ### 162.
 (1) For the purposes of determining appeals under this Act, there is established a Tribunal to be known as the Education Appeal Tribunal.
 
 (2) The Tribunal shall consist of
 
-(a) a  chairperson,  who  shall  be  a  legal  practitioner of not less than five years standing;
+(a) a chairperson, who shall be a legal practitioner of not less than five years standing;
 
 (b) five other persons, at least two of whom shall have wide knowledge and experience in education; and
 
@@ -3649,7 +3669,7 @@ Functions of Tribunal.
 
 (3) The Minister may solicit and consider nominations for the membership of the Tribunal from groups interested in education.
 
-(4) The chairperson and members of the Tribunal shall be appointed by the Minister, after consulting the Attorney General, for such period not exceeding three years as is specified in the member's instrument  of  appointment,  except  that  the  member  is  eligible  for re-appointment.
+(4) The chairperson and members of the Tribunal shall be appointed by the Minister, after consulting the Attorney General, for such period not exceeding three years as is specified in the member's instrument of appointment, except that the member is eligible for re-appointment.
 
 (5) The Chairperson and members of the Tribunal shall swear an oath of non-disclosure in the form prescribed by the Minister for information gained during the determination of Appeals under this Act.
 
@@ -3662,11 +3682,15 @@ Functions of Tribunal.
 (c) physical or mental incapacity.
 
 ### 163.
-(1) The Tribunal  shall  hear  and  determine  appeals submitted to the Tribunal by virtue of the provisions of this Act, and to do so in accordance with the provisions of this Act.
+(1) The Tribunal shall hear and determine appeals submitted to the Tribunal by virtue of the provisions of this Act, and to do so in accordance with the provisions of this Act.
 
-(2) The Tribunal  shall  have  regard  to  any  direction concerning the education policies of the Government given to it by the Minister in writing, except that the Minister shall not give a direction to the Tribunal in respect of a particular application or proceeding before a Tribunal,  or  a  direction  that  would  derogate  from  the  duty  of  the Tribunal to act judicially.
+(2) The Tribunal shall have regard to any direction concerning the education policies of the Government given to it by the Minister in writing, except that the Minister shall not give a direction to the Tribunal in respect of a particular application or proceeding before a Tribunal, or a direction that would derogate from the duty of the Tribunal to act judicially.
 
-(3) The  chairperson  may  call  upon  such  experts  or consultants as are considered necessary to assist the Tribunal in any of its  proceedings, and experts or consultants may sit with the Tribunal but shall not be members of the Tribunal.
+(3) The chairperson may call upon such experts or consultants as are considered necessary to assist the Tribunal in any of its proceedings, and experts or consultants may sit with the Tribunal but shall not be members of the Tribunal.
+
+Establishment of Education Appeal Tribunal.
+
+Functions of Tribunal.
 
 [[END OF PAGE 82]]
 
@@ -3674,7 +3698,7 @@ Functions of Tribunal.
 
 75
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (4) The Tribunal may, on its  own  initiative  or  on  the application of a party, refer a question of law arising in a proceeding before it for determination by the High Court.
 
@@ -3692,7 +3716,7 @@ Prior to the hearing and determination of an appeal by the Tribunal,  the  Tribu
 
 (3) No decision shall be made by the Tribunal without giving the parties to the appeal an opportunity to make representations either orally or in writing or both.
 
-- Parties to an appeal shall pay their own costs.
+(4) Parties to an appeal shall pay their own costs.
 
 (5) Except if the Tribunal decides otherwise, appeals shall be held in camera and may be heard in any place or community.
 
@@ -3726,11 +3750,7 @@ Matters to be considered.
 
 76
 
-Enforcement of order.
-
-Vendors on school premises.
-
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (b) the impact of a decision on the total school or class population; and
 
@@ -3743,16 +3763,16 @@ Education Act, 2005 - 9.
 
 (3) A copy of the decision of the Tribunal shall be sent to the Minister and the parties to the appeal.
 
-# PART 13 - MISCELLANEOUS  PROVISIONS
+# PART 13 – MISCELLANEOUS PROVISIONS
 
 ### 169.
-(1) No person shall sell or  offer  for  sale  any  services, goods, food, beverages or any other item on school premises without the written permission of the Chief Education Officer.
+(1) No person shall sell or offer for sale any services, goods, food, beverages or any other item on school premises without the written permission of the Chief Education Officer.
 
-(2) A person who wishes to sell or offer for sale services, goods, food, beverages or any other item on the premises of a public school or assisted  private  school  shall  apply  in  writing  to  the  Chief Education Officer through the principal of the particular school, for permission to do so.
+(2) A person who wishes to sell or offer for sale services, goods, food, beverages or any other item on the premises of a public school or assisted private school shall apply in writing to the Chief Education Officer through the principal of the particular school, for permission to do so.
 
-(3) Where an application is made under subsection (2), the  applicant  shall  submit  together  with  this  application  a  medical certificate from a medical practitioner to the effect that the applicant is free from diseases and is unlikely to be a source of infection to a person at the school.
+(3) Where an application is made under subsection (2), the applicant shall submit together with this application a medical certificate from a medical practitioner to the effect that the applicant is free from diseases and is unlikely to be a source of infection to a person at the school.
 
-(4) Where an application is made under subsection (2), the Chief Education Officer may after interviewing the applicant and consulting the principal  and  having  considered  the  suitability  of  the proposed services, goods, food, beverages or any other item to be sold, grant permission to the applicant, on such terms and conditions as the Chief Education Officer deems fit.
+(4) Where an application is made under subsection (2), the Chief Education Officer may after interviewing the applicant and consulting the principal and having considered the suitability of the proposed services, goods, food, beverages or any other item to be sold, grant permission to the applicant, on such terms and conditions as the Chief Education Officer deems fit.
 
 (5) Every person who sells or offers for sale food or drinks on school premises shall ensure that the area used by him or her is in a clean state and that all wrapping or other kinds of litter are collected for disposal.
 
@@ -3760,13 +3780,17 @@ Education Act, 2005 - 9.
 
 (7) The Chief Education Officer may revoke the written permission given to any vendor who contravenes any of the conditions stated in the permit.
 
+Enforcement of order.
+
+Vendors on school premises.
+
 [[END OF PAGE 84]]
 
 [[START OF PAGE 85]]
 
 77
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (8) A person who sells or offers for sale food, drinks or any other item on the school premises or within the entrance or exit of a public school or assisted private school during school hours without the  written  consent  of  the  Chief  Education  Officer  commits  an offence and is liable, on summary conviction, to a fine not exceeding one thousand dollars or to imprisonment for a term of one year.
 
@@ -3806,13 +3830,11 @@ Loitering etc on school premises.
 
 78
 
-Education Act, 2005 - 9.
-
-Regulations.
+Education Act, 2005 – 9.
 
 (3) A person who commits an offence under subsection (1), may be arrested by any member of the Police Force, with or without a warrant.
 
-(4) A prosecution for an offence under this section  in relation to a public school or an assisted private school may be brought in the name of the Chief Education Officer.
+(4) A prosecution for an offence under this section in relation to a public school or an assisted private school may be brought in the name of the Chief Education Officer.
 
 ### 172.
 (1) Subject to the provisions of this Act, the Minister may make regulations generally for the proper carrying out of the goals and objectives of this Act.
@@ -3821,9 +3843,9 @@ Regulations.
 
 (a) concerning the management and conduct of public schools and assisted private schools;
 
-(b) concerning  the  control  and  management  and conduct and registration of private educational institutions and, in particular, in respect of
+(b) concerning the control and management and conduct and registration of private educational institutions and, in particular, in respect of
 
-(i) the  size  of  the  classrooms  and  their equipment, the number of students that may occupy each classroom and the necessary sanitary facilities to be provided;
+(i) the size of the classrooms and their equipment, the number of students that may occupy each classroom and the necessary sanitary facilities to be provided;
 
 (ii) the registers and other records to be kept by proprietors of private schools and the particulars to be furnished to the Ministry by the proprietors;
 
@@ -3837,7 +3859,9 @@ Regulations.
 
 (d) concerning the purposes for which the premises of a public school may be used;
 
-(e) prescribing the financial or other assistance and the conditions subject to which such assistance is given to any educational institution, or class of educational  institutions  specified  in  such regulations;
+(e) prescribing the financial or other assistance and the conditions subject to which such assistance is given to any educational institution, or class of educational institutions specified in such regulations;
+
+Regulations.
 
 [[END OF PAGE 86]]
 
@@ -3845,7 +3869,7 @@ Regulations.
 
 79
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (f) concerning  the  admission  of  students  to public schools and assisted private schools, the discipline  of  such  students,  the  keeping  by public schools and assisted private schools of a school  record  of  each  student,  the  particulars to  be  included  in  the  record  and  the  disposal of the record;
 
@@ -3881,43 +3905,43 @@ Education Act, 2005 - 9.
 
 80
 
-Repeal.
+Education Act, 2005 – 9.
 
-Temporary appointment.
-
-Resignation of members.
-
-Education Act, 2005 - 9.
-
-(o) concerning the  award  of  bursaries,  grants  and other  financial  assistance  for  tertiary  education and  specifying  the  value  and  other  conditions subject to which grants, and bursaries may be held or other financial assistance given;
+(o) concerning the award of bursaries, grants and other financial assistance for tertiary education and specifying the value and other conditions subject to which grants, and bursaries may be held or other financial assistance given;
 
 (p) prescribing the academic year, hours of school, terms and vacations of public schools and assisted private schools;
 
 (q) prescribing the cases in which, and the matters for which, fees may be charged in public schools;
 
-(r) concerning  the  inspection  of  public  schools, assisted private schools and private educational institutions;
+(r) concerning the inspection of public schools, assisted private schools and private educational institutions;
 
-(s) concerning the constitution, rights,  powers  and responsibilities  of  Student  Councils  and  of  the National Students Council;
+(s) concerning the constitution, rights, powers and responsibilities of Student Councils and of the National Students Council;
 
-(t) embodying any collective agreement arrived at between the Ministry of Education and the Union of Teachers concerning the conditions of service of teachers represented by that union, or between the  Ministry  and  any  other  body  representing members of the teaching profession in respect of such members;
+(t) embodying any collective agreement arrived at between the Ministry of Education and the Union of Teachers concerning the conditions of service of teachers represented by that union, or between the Ministry and any other body representing members of the teaching profession in respect of such members;
 
 (u) prescribing anything which by this Act is to be prescribed.
 
 ### 173.
 The Education Act, No. 18 of 1975 is hereby repealed.
 
-# FIRST  SCHEDULE
+# FIRST SCHEDULE
 (Section 9.(6))
 
-## EDUCATION  ADVISORY  BOARD
+## EDUCATION ADVISORY BOARD
 
 ### 1.
-In  the  absence  or  in  the  case  of  the  inability  to  act  of a  member, the Minister may appoint any person from the group that member  represents to act temporarily in place of that member.
+In the absence or in the case of the inability to act of a member, the Minister may appoint any person from the group that member represents to act temporarily in place of that member.
 
 ### 2.
-(1) A member of the Board, other than the chairperson, may at any time resign from the Board by instrument in writing addressed to the Minister and transmitted through the chairperson, and the member shall,  from  the  date  of  the  receipt  of  the  instrument  by  the  Minister, cease to be a member of the Board.
+(1) A member of the Board, other than the chairperson, may at any time resign from the Board by instrument in writing addressed to the Minister and transmitted through the chairperson, and the member shall, from the date of the receipt of the instrument by the Minister, cease to be a member of the Board.
 
 (2) The chairperson may, at any time, resign his or her office as a member of the Board by instrument in writing addressed to
+
+Repeal.
+
+Temporary appointment.
+
+Resignation of members.
 
 [[END OF PAGE 88]]
 
@@ -3925,27 +3949,41 @@ In  the  absence  or  in  the  case  of  the  inability  to  act  of a  member, 
 
 81
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
-the  Minister,  and  such  resignation  shall  take  effect  from  the  date  of the receipt of the instrument by the Minister.
+the Minister, and such resignation shall take effect from the date of the receipt of the instrument by the Minister.
 
-- A  member  of  the  Board  who  fails  to  attend  three consecutive meetings of the Board without reasonable excuse shall cease to be a member of the Board henceforth.
+### 3.
+A member of the Board who fails to attend three consecutive meetings of the Board without reasonable excuse shall cease to be a member of the Board henceforth.
 
-- If any vacancy occurs in the membership of the Board such vacancy shall be filled by the appointment of another member who may, subject to this Schedule, hold office for the remainder of the period for which the previous member was appointed, but such appointment shall be made in the same manner and from the same category of persons, if any, as the appointment of the previous member.
+### 4.
+If any vacancy occurs in the membership of the Board such vacancy shall be filled by the appointment of another member who may, subject to this Schedule, hold office for the remainder of the period for which the previous member was appointed, but such appointment shall be made in the same manner and from the same category of persons, if any, as the appointment of the previous member.
 
-- The names of all members of the Board as first constituted, and every change in the membership shall be published in the Official Gazette .
+### 5.
+The names of all members of the Board as first constituted, and every change in the membership shall be published in the Official Gazette.
 
-- The Board shall be deemed to be properly constituted for the purpose of this Schedule notwithstanding any vacancy among its members or any defect in their appointments.
+### 6.
+The Board shall be deemed to be properly constituted for the purpose of this Schedule notwithstanding any vacancy among its members or any defect in their appointments.
 
+### 7.
 (1) The Board shall meet at least three times a year, and at such other times as may be convenient or expedient for the transaction of business, and at such places as the chairperson may determine.
 
-- Subject to this Schedule, the Board may regulate its own procedure.
+(2) Subject to this Schedule, the Board may regulate its own procedure.
 
-- The chairperson may at any time call a special meeting of the Board and shall call a special meeting within fourteen days of a  requisition  for  that  purpose  addressed  to  him  or  her  by  any five members.
+### 8.
+The chairperson may at any time call a special meeting of the Board and shall call a special meeting within fourteen days of a requisition for that purpose addressed to him or her by any five members.
 
-- The chairperson or, in his absence, the deputy chairperson shall preside at the meetings of the Board, and in the case of the absence of both the chairperson and deputy chairperson, the members present and constituting  a  quorum  shall  elect  a  temporary  chairperson  from among the members present.
+### 9.
+The chairperson or, in his absence, the deputy chairperson shall preside at the meetings of the Board, and in the case of the absence of both the chairperson and deputy chairperson, the members present and constituting a quorum shall elect a temporary chairperson from among the members present.
 
-- The decisions of the Board shall be by a majority of votes of  the  members  present  and,  in  addition  to  an  original  vote,  the chairperson or any other person presiding at the meeting shall have a casting vote on any case in which the voting is equal.
+### 10.
+The decisions of the Board shall be by a majority of votes of the members present and, in addition to an original vote, the chairperson or any other person presiding at the meeting shall have a casting vote on any case in which the voting is equal.
+
+### 11.
+The quorum of the Board at any meeting shall be six.
+
+### 12.
+Minutes of the proceeding of the Board shall be kept in proper form.
 
 Loss of membership.
 
@@ -3963,11 +4001,9 @@ Person to preside at meetings.
 
 Voting.
 
-- The quorum of the Board at any meeting shall be six.
-
 Quorum.
 
-- Minutes of the proceeding of the Board shall be kept in proper form. Minutes.
+Minutes.
 
 [[END OF PAGE 89]]
 
@@ -3975,33 +4011,48 @@ Quorum.
 
 82
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
-# SECOND  SCHEDULE
+# SECOND SCHEDULE
 
 (Sections 56, 63, 69 and 70)
 
-## CONSTITUTION,  PROCEDURE,  AND  FUNCTIONS  OF BOARDS  OF  MANAGEMENT
+## CONSTITUTION, PROCEDURE, AND FUNCTIONS OF BOARDS OF MANAGEMENT
 
-Interpretation. |
 ### 1.
-In this Schedule 'Board' means a Board of Management appointed under sections 56, 63, 69 and 70 of the Education Act.
---- | ---
-Chairperson and Deputy Chairperson. |
+In this Schedule “Board” means a Board of Management appointed under sections 56, 63, 69 and 70 of the Education Act.
+
 ### 2.
 (1) Except in cases of Boards established under sections 69 and 70 of this Act, a Board shall elect a chairperson and a deputy chairperson from among its members.
-(2) The membership of a Board as first constituted and any changes therein shall be notified in the Gazette .
-Filling of vacancies. |
+
+(2) The membership of a Board as first constituted and any changes therein shall be notified in the Gazette.
+
 ### 3.
 If any vacancy occurs in the membership of a Board such vacancy shall be filled by the appointment of another member in the manner indicated in sections 56, 63, 69 and 70, and such person shall hold office for the remainder of the period for which the previous member was appointed, provided that such appointment shall be made in the same manner and from the same category of persons, if any, as the appointment of the previous member.
-Employment of member. |
+
 ### 4.
-(1) No member of a Board may be appointed to any office or employment under the Board of which he or she is a member or any other Board. (2) No person is eligible for appointment to any office or employment under a Board within one year from the date on which the person last held office or acted as a member of that Board.
-Duration of membership. |
+(1) No member of a Board may be appointed to any office or employment under the Board of which he or she is a member or any other Board.
+
+(2) No person is eligible for appointment to any office or employment under a Board within one year from the date on which the person last held office or acted as a member of that Board.
+
 ### 5.
 (1) A member of a Board shall hold office for a term of three years unless, before the end of the term the member dies, resigns, is removed from office for any cause by the Minister or the appointing authority under sections 69 and 70 of this Act or ceases to be a member in accordance with sub-paragraph (4).
-(2) A member of the Board is eligible for reappointment. (3) A member of the Board who fails, without reasonable cause, to attend three consecutive meetings of the Board shall cease to be a member of the Board. (4) A member of the Board may at any time resign
-his office by instrument addressed to the Minister and transmitted through the chairperson, in cases of Boards established in public schools, and through the denomination or proprietor, in cases of Boards established for private assisted schools, and the resignation shall be effective from the date of receipt by the Minister of the instrument.
+
+(2) A member of the Board is eligible for reappointment.
+
+(3) A member of the Board who fails, without reasonable cause, to attend three consecutive meetings of the Board shall cease to be a member of the Board.
+
+(4) A member of the Board may at any time resign his office by instrument addressed to the Minister and transmitted through the chairperson, in cases of Boards established in public schools, and through the denomination or proprietor, in cases of Boards established for private assisted schools, and the resignation shall be effective from the date of receipt by the Minister of the instrument.
+
+Interpretation.
+
+Chairperson and Deputy Chairperson.
+
+Filling of vacancies.
+
+Employment of member.
+
+Duration of membership.
 
 [[END OF PAGE 90]]
 
@@ -4009,24 +4060,24 @@ his office by instrument addressed to the Minister and transmitted through the c
 
 83
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 (5) The chairperson may, at any time, resign office by instrument addressed to
 
-(a) the  Minister,  in  cases  of  Boards  established  in public schools; and
+(a) the Minister, in cases of Boards established in public schools; and
 
 (b) the denomination or proprietor, in cases of Boards established in private assisted schools;
 
 and the resignation shall be effective from the date of receipt by the Minister of the instrument.
 
 ### 6.
-(1) A Board shall meet at least once in every school term and  at  such  other  times  as  may  be  necessary  or  expedient  for  the transaction of its business and such meetings shall be held on such days and at such places and time as the chairperson may determine.
+(1) A Board shall meet at least once in every school term and at such other times as may be necessary or expedient for the transaction of its business and such meetings shall be held on such days and at such places and time as the chairperson may determine.
 
-- The chairperson
+(2) The chairperson
 
 (a) may at any time summon a meeting of a Board; and
 
-(b) shall  summon  a  meeting  of  the  Board  within seven days
+(b) shall summon a meeting of the Board within seven days
 
 (i) upon a request for that purpose addressed to the chairperson by any three members of the Board; or
 
@@ -4034,16 +4085,18 @@ and the resignation shall be effective from the date of receipt by the Minister 
 
 (3) The chairperson, or in his or her absence the deputy chairperson, shall preside at any meeting of the Board.
 
-(4) Where the Chairperson and the Deputy Chairperson are  absent  from  any  meeting  of  a  Board,  or  are  incapacitated  to  act, the members of the Board present at the meeting shall elect one of their members to preside at that meeting.
+(4) Where the Chairperson and the Deputy Chairperson are absent from any meeting of a Board, or are incapacitated to act, the members of the Board present at the meeting shall elect one of their members to preside at that meeting.
 
 ### 7.
-At  any  meeting  of  a  Board  the  quorum  shall  be  the minimum number constituting a majority of the total  members  of the Board.
+At any meeting of a Board the quorum shall be the minimum number constituting a majority of the total members of the Board.
 
 ### 8.
 The decisions of a Board shall be by a majority of the votes of the members present and constituting a quorum, but in any case in which the voting is equal the chairperson, deputy chairperson or other member presiding at the meeting shall, in addition to an original vote, have a casting vote.
 
 ### 9.
-(1) Minutes, in proper form, of each meeting of a Board shall be kept by the secretary or such person as the Board may appoint for the purpose and shall be confirmed by the Board at its next meeting Meetings.
+(1) Minutes, in proper form, of each meeting of a Board shall be kept by the secretary or such person as the Board may appoint for the purpose and shall be confirmed by the Board at its next meeting
+
+Meetings.
 
 Quorum.
 
@@ -4057,38 +4110,38 @@ Minutes.
 
 84
 
-Attendance of Chief Education Officer.
+Education Act, 2005 – 9.
 
-Appointment of committees.
-
-Power to delegate.
-
-Education Act, 2005 - 9.
-
-and  signed  by  the  chairperson  or  other  person  presiding  at  that meeting, and the secretary of the Board.
+and signed by the chairperson or other person presiding at that meeting, and the secretary of the Board.
 
 (2) A copy of the Minutes of each meeting as recorded by the secretary or such person as is referred to in sub-paragraph (1) shall be submitted to the Minister within one month of the confirmation of the Minutes.
 
 ### 10.
 (1) The Chief Education Officer may attend any meeting of a Board or a committee or sub-committee of the Board or may be represented at the meeting by a public officer authorised by him or her in that behalf.
 
-(2) The  Chief  Education  Officer  or  his  or  her representative may take part in the proceedings of the meeting but shall not be entitled to vote or otherwise take part in the decision-making process of the meeting.
+(2) The Chief Education Officer or his or her representative may take part in the proceedings of the meeting but shall not be entitled to vote or otherwise take part in the decision-making process of the meeting.
 
 ### 11.
 (1) A Board may appoint a committee for any of the purposes of the Board which in its opinion would be better regulated or managed by means of a committee, with or without restrictions or conditions, as it thinks fit.
 
-(2) The number of members of a committee appointed under this  paragraph  and  their  terms  of  office  shall  be  fixed  by  the Board.
+(2) The number of members of a committee appointed under this paragraph and their terms of office shall be fixed by the Board.
 
-(3) A committee appointed under this paragraph may include persons who are not members of the Board but the chairperson and at  least  two-thirds  of  the  members  of  every  committee  shall  be members of the Board.
+(3) A committee appointed under this paragraph may include persons who are not members of the Board but the chairperson and at least two-thirds of the members of every committee shall be members of the Board.
 
-(4) Any committee  apointed  by  a  Board  under  this paragraph may, subject to any restrictions imposed by the Board, appoint a sub-committee of its members as it may determine.
+(4) Any committee apointed by a Board under this paragraph may, subject to any restrictions imposed by the Board, appoint a sub-committee of its members as it may determine.
 
-(5) Any sub-committee appointed under this paragraph shall be constituted in such manner as, subject to any restrictions imposed by the Board, may be determined by the appointing committee, but the  chairperson  and  at  least  two-thirds  of  the  members  of  every sub-committee shall be members of the Board.
+(5) Any sub-committee appointed under this paragraph shall be constituted in such manner as, subject to any restrictions imposed by the Board, may be determined by the appointing committee, but the chairperson and at least two-thirds of the members of every sub-committee shall be members of the Board.
 
-(6) Subject to any restrictions imposed by the Board, where a committee appointed by the Board appoints a sub-committee in the exercise  of  the  powers  conferred  on  it  by  sub-paragraph  (4),  it  may delegate to the sub-committee, with or without restrictions or conditions as it thinks fit, any of its functions.
+(6) Subject to any restrictions imposed by the Board, where a committee appointed by the Board appoints a sub-committee in the exercise of the powers conferred on it by sub-paragraph (4), it may delegate to the sub-committee, with or without restrictions or conditions as it thinks fit, any of its functions.
 
 ### 12.
-Without  prejudice  to  paragraph  11,  a  Board,  after consultation with the Minister, may delegate to any committee such of
+Without prejudice to paragraph 11, a Board, after consultation with the Minister, may delegate to any committee such of
+
+Attendance of Chief Education Officer.
+
+Appointment of committees.
+
+Power to delegate.
 
 [[END OF PAGE 92]]
 
@@ -4096,35 +4149,43 @@ Without  prejudice  to  paragraph  11,  a  Board,  after consultation with the M
 
 85
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
 its functions as it considers appropriate subject to such restrictions or conditions as it thinks fit.
 
-# THIRD  SCHEDULE
+# THIRD SCHEDULE
 
 (Section 123)
 
-## PROCEDURE  OF  TECHNICAL  AND  VOCATIONAL EDUCATION  COUNCIL
+## PROCEDURE OF TECHNICAL AND VOCATIONAL EDUCATION COUNCIL
 
-- In  the  Schedule,  'Council'  means  the  Technical and Vocational  Education  Council  appointed  under  section  123  of this Act.
+### 1.
+In the Schedule, “Council” means the Technical and Vocational Education Council appointed under section 123 of this Act.
 
-- A member of the Council shall hold office for a term of 3  years  unless  he  or  she  dies,  resigns  or  has  his  or  her  appointment revoked before the end of that term, but
+### 2.
+A member of the Council shall hold office for a term of 3 years unless he or she dies, resigns or has his or her appointment revoked before the end of that term, but
 
-(a) a person who is appointed to fill a vacancy created by the  death,  registration  or  removal  from  office  of  a member shall hold office only for the unexpired portion of the term of the former member; and
+(a) a person who is appointed to fill a vacancy created by the death, registration or removal from office of a member shall hold office only for the unexpired portion of the term of the former member; and
 
 (b) every member is, on the expiration of the term of his or her appointment, eligible for re-appointment.
 
-- The Minister may grant leave of absence to a member of the Council and may appoint a person to act temporarily in the place of that member.
+### 3.
+The Minister may grant leave of absence to a member of the Council and may appoint a person to act temporarily in the place of that member.
 
-- A member of the Council, other than the chairperson, may resign office by instrument addressed to the Minister transmitted through the  chairperson  and,  from  the  date  of  the  receipt  of  the  instrument by the Minister, if no date is specified in that instrument, the member shall cease to be a member of the Council.
+### 4.
+A member of the Council, other than the chairperson, may resign office by instrument addressed to the Minister transmitted through the chairperson and, from the date of the receipt of the instrument by the Minister, if no date is specified in that instrument, the member shall cease to be a member of the Council.
 
-- The chairperson may, at any time, resign his office by instrument addressed to the Minister and, from the date of the receipt of  the  instrument  by  the  Minister,  if  no  date  is  specified  in  that instrument, he or she shall cease to be chairperson and to be a member of the Council.
+### 5.
+The chairperson may, at any time, resign his office by instrument addressed to the Minister and, from the date of the receipt of the instrument by the Minister, if no date is specified in that instrument, he or she shall cease to be chairperson and to be a member of the Council.
 
-- Four members of the Council shall form a quorum.
+### 6.
+Four members of the Council shall form a quorum.
 
-- Decisions of the Council shall be made by a majority of the members present and voting, and where the voting is equal the chairperson, in addition to his or her original vote, shall have a casting vote.
+### 7.
+Decisions of the Council shall be made by a majority of the members present and voting, and where the voting is equal the chairperson, in addition to his or her original vote, shall have a casting vote.
 
-- The Council shall meet at such times as may be expedient for the transaction of its business and such meetings shall be held at such places and times and on such days as the Council may determine.
+### 8.
+The Council shall meet at such times as may be expedient for the transaction of its business and such meetings shall be held at such places and times and on such days as the Council may determine.
 
 Definition.
 
@@ -4148,48 +4209,59 @@ Frequency of meetings.
 
 86
 
+Education Act, 2005 – 9.
+
+### 9.
+The chairperson or, in the event of his or her being absent from the Federation or for any reason is unable to act, the deputy chairperson, shall call a special meeting within seven days after receiving a requisition to do so by any four members of the Council.
+
+### 10.
+Minutes of each meeting shall be kept by the Secretary or another person appointed by the Council for the purpose, and shall be confirmed by the Council at its next meeting and signed by the chairperson or other person presiding at that meeting and the Secretary.
+
+### 11.
+The Council may co-opt persons to attend any of its meetings for the purpose of assisting or advising it on any matter with which the Council is dealing, except that a co-opted member shall not vote at any meeting of the Council.
+
+### 12.
+Subject to this Schedule, the Council may regulate its own procedure.
+
+### 13.
+All documents made by, and all decisions of, the Council are to be signified under the hand of the chairperson or any member authorised to act in that behalf, or by the Secretary.
+
+# FOURTH SCHEDULE
+
+(Section 126)
+
+## CONSTITUTION OF COMMITTEES APPOINTED BY THE TECHNICAL AND VOCATIONAL EDUCATION COUNCIL
+
+### 1.
+In this Schedule
+
+(a) “Council” means the Technical and Vocational Education Council appointed under section 123 of this Act; and
+
+(b) “committee” means a committee appointed by the Council under section 126 of this Act.
+
+### 2.
+A committee shall comprise of not more than 5 persons, and the Council shall, in respect of the committee, appoint one member of that committee to be chairperson.
+
+### 3.
+(1) A member of a committee may, with the permission of the chairperson of that committee, appoint a person to act for him or her in case of his or her absence from a particular meeting.
+
+(2) No person appointed to act as a member of a committee in pursuance of sub-paragraph (1) may appoint a person to act for himself or herself nor may be appointed to act for more than one member; otherwise he or she may perform all the functions of a member of that committee.
+
+Special meeting.
+
+Minutes.
+
+Co-opting of other persons.
+
+Procedure.
+
+Documents.
+
 Definition.
 
 Composition.
 
 Acting member.
-
-Education Act, 2005 - 9.
-
-Special meeting. |
-### 9.
-The chairperson or, in the event of his or her being absent from the Federation or for any reason is unable to act, the deputy
---- | ---
-Minutes. |
-### 10.
-Minutes of each meeting shall be kept by the Secretary or another person appointed by the Council for the purpose, and shall be confirmed by the Council at its next meeting and signed by the chairperson or other person presiding at that meeting and the Secretary.
-Co-opting of other persons. |
-### 11.
-The Council may co-opt persons to attend any of its meetings for the purpose of assisting or advising it on any matter with which the Council is dealing, except that a co-opted member shall not vote at any meeting of the Council.
-Procedure. |
-### 12.
-Subject to this Schedule, the Council may regulate its own procedure.
-Documents. |
-### 13.
-All documents made by, and all decisions of, the Council are to be signified under the hand of the chairperson or any member authorised to act in that behalf, or by the Secretary.
-
-# FOURTH  SCHEDULE
-
-(Section 126)
-
-## CONSTITUTION  OF  COMMITTEES  APPOINTED BY  THE  TECHNICAL  AND  VOCATIONAL EDUCATION  COUNCIL
-
-- In this Schedule
-
-(a) 'Council'  means  the  Technical  and  Vocational Education Council appointed under section 123 of this Act; and
-
-(b) 'committee' means a committee appointed by the Council under section 126 of this Act.
-
-- A committee shall comprise of not more than 5 persons, and the Council shall, in respect of the committee, appoint one member of that committee to be chairperson.
-
-(1) A member of a committee may, with the permission of the chairperson of that committee, appoint a person to act for him or her in case of his or her absence from a particular meeting.
-
-- No person appointed to act as a member of a committee in pursuance of sub-paragraph (1) may appoint a person to act for himself or herself nor may be appointed to act for more than one member; otherwise he or she may perform all the functions of a member of that committee.
 
 [[END OF PAGE 94]]
 
@@ -4197,43 +4269,54 @@ All documents made by, and all decisions of, the Council are to be signified und
 
 87
 
-Education Act, 2005 - 9.
+Education Act, 2005 – 9.
 
-- A member of a committee shall hold office for a period not exceeding three years, but is eligible for re-appointment.
+### 4.
+A member of a committee shall hold office for a period not exceeding three years, but is eligible for re-appointment.
 
-- Where a vacancy occurs in respect of a committee, the Council may appoint a person to fill  that  vacancy  for  the  unexpired  portion  of  the period in respect of which the vacancy occurs.
+### 5.
+Where a vacancy occurs in respect of a committee, the Council may appoint a person to fill that vacancy for the unexpired portion of the period in respect of which the vacancy occurs.
 
-- The Council may revoke the appointment of a member of a committee who
+### 6.
+The Council may revoke the appointment of a member of a committee who
 
 (a) is absent from three consecutive meetings of the committee without leave of the Council;
 
-(b) is  absent  from  the  Federation  for  three  months  or  more without notifying the  Council;
+(b) is absent from the Federation for three months or more without notifying the Council;
 
 (c) is unable to perform his or her duties as a member of the committee; or
 
 (d) fails to comply with a direction given by the Council.
 
-- The  Council  may  assign  a  person  to  be  the  secretary  of  a committee.
+### 7.
+The Council may assign a person to be the secretary of a committee.
 
-- A committee shall meet as often as the chairperson decides, but at intervals not exceeding three months.
+### 8.
+A committee shall meet as often as the chairperson decides, but at intervals not exceeding three months.
 
-- A quorum of a committee shall consist of three members one of whom shall be the chairperson.
+### 9.
+A quorum of a committee shall consist of three members one of whom shall be the chairperson.
 
-- Decisions of a committee shall be by majority of votes, and where voting is equal, the chairperson shall, in addition to his or her original vote, have a casting vote.
+### 10.
+Decisions of a committee shall be by majority of votes, and where voting is equal, the chairperson shall, in addition to his or her original vote, have a casting vote.
 
-- A committee may co-opt persons to attend any of its meetings for the purpose of assisting or advising it with respect to any matter with which it is dealing, except that a co-opted person shall not vote at any meeting of the committee, and shall not be counted for the purpose of constituting a quorum.
+### 11.
+A committee may co-opt persons to attend any of its meetings for the purpose of assisting or advising it with respect to any matter with which it is dealing, except that a co-opted person shall not vote at any meeting of the committee, and shall not be counted for the purpose of constituting a quorum.
 
-- A committee  may  establish  a  sub-committee  to  assist  the committee in the performance of its functions and may co-opt any person, whose assistance and advice the committee considers necessary for the purpose for  which the sub-committee is established, to the sub-committee.
+### 12.
+A committee may establish a sub-committee to assist the committee in the performance of its functions and may co-opt any person, whose assistance and advice the committee considers necessary for the purpose for which the sub-committee is established, to the sub-committee.
 
-MARCELLA  A  LIBURD
+MARCELLA A LIBURD
 
 Speaker
 
-Passed by the National Assembly this 31 st   day of March 2005.
+Passed by the National Assembly this 31st day of March 2005.
 
-JOSÉ  LLOYD
+JOSÉ LLOYD
 
-Clerk of  the  National  Assembly Duration of membership.
+Clerk of the National Assembly
+
+Duration of membership.
 
 Vacancy.
 
@@ -4251,6 +4334,7 @@ Co-opting.
 
 Establishment of Sub-committees.
 
-GOVERNMENT  PRINTERY ST KITTS  W I
+GOVERNMENT PRINTERY
+ST KITTS W I
 
 [[END OF PAGE 95]]
