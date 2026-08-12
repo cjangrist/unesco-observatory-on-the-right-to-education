@@ -20,9 +20,42 @@ ComLaw Authoritative Act C2013A00067
 
 [[START OF PAGE 3]]
 
+i       Australian Education Act 2013       No. 67, 2013
+
 ## Contents
 
-i       Australian Education Act 2013       No. 67, 2013
+Part 1—Preliminary 3
+Division 1—Preliminary 3
+1 Short title 3
+2 Commencement 3
+3 Objects of this Act 3
+4 Guide to this Act 6
+5 Binding the Crown 7
+Division 2—Interpretation 8
+6 Definitions 8
+7 Definition of census day 16
+8 Definition of majority Aboriginal and Torres Strait Islander school 18
+9 Definition of overpayment 18
+10 Definition of receives 20
+11 Definition of recoverable payment 22
+12 Definition of total entitlement 22
+13 Definitions of kinds of schools based on location 22
+14 Minister to determine participating States and Territories 23
+15 Levels of education 24
+16 Working out the number of students at a school for a year 24
+17 Part-time students 25
+18 Minister to make determinations in relation to locations of schools 25
+19 Non-government schools providing only distance education 25
+Part 2—Grants of financial assistance to States and Territories 26
+20 Guide to this Part 26
+21 Financial assistance for schools 26
+22 Conditions of financial assistance—implementing national policy initiatives relating to school education 27
+23 Conditions of financial assistance—conditions relating to payments to States and Territories for non-government schools 28
+24 Condition of financial assistance—recovering amounts 29
+25 Minister to determine timing and amounts of recurrent funding 29
+26 Entitlement to recurrent funding 30
+27 Pro-rating of recurrent funding 31
+28 Minister to determine timing and amounts of capital funding 32
 
 ComLaw Authoritative Act C2013A00067
 
@@ -32,6 +65,42 @@ ComLaw Authoritative Act C2013A00067
 
 Australian Education Act 2013       No. 67, 2013       ii
 
+29 Minister to determine timing and amounts of special circumstances funding 32
+30 Minister to determine timing and amounts of funding for non-government representative body 33
+Part 3—Recurrent funding for participating schools 34
+Division 1—Guide to this Part 34
+31 Guide to this Part 34
+Division 2—The funding formula for participating schools 36
+32 The amount payable for a participating school 36
+33 Base amount for schools 36
+34 SRS funding amounts 37
+35 School’s total loading 38
+Division 3—Working out loadings 40
+Subdivision A—Loadings (except location and size loadings) 40
+36 Student with disability loading 40
+37 Aboriginal and Torres Strait Islander loading 40
+38 Low socioeconomic status student loading 41
+39 Low English proficiency loading 42
+Subdivision B—Location loading 43
+40 Location loading 43
+41 Location percentage for certain schools 44
+Subdivision C—Size loading 45
+42 Size loading 45
+43 Definitions—kinds of schools based on size 46
+44 Definition—maximum size loading 48
+45 Definitions—primary percentage and secondary percentage 49
+46 Very small schools—size loading 49
+47 Very small schools—schools covered by item 3 of the table in section 46 50
+48 Very small schools—major city schools 51
+49 Very small schools—starting amount 51
+50 Very small schools—ARIA student number 52
+51 Medium-sized schools—size loading 52
+Division 4—Miscellaneous 54
+Subdivision A—Capacity to contribute percentage 54
+52 Determining SES scores 54
+53 Determinations may be on application or on Minister’s own initiative 55
+54 Capacity to contribute percentage 56
+
 ComLaw Authoritative Act C2013A00067
 
 [[END OF PAGE 4]]
@@ -39,6 +108,34 @@ ComLaw Authoritative Act C2013A00067
 [[START OF PAGE 5]]
 
 iii       Australian Education Act 2013       No. 67, 2013
+
+Subdivision B—Miscellaneous 58
+55 Locations of a school 58
+56 Rounding amounts 58
+Division 5—Transitional recurrent funding for participating schools 59
+57 Application of this Division 59
+58 New and old per student amounts 59
+59 Old per student amount for 2014 less than new per student amount for 2014 60
+60 Limits on amount that may be determined for the purposes of section 59 61
+61 Old per student amount for 2013, increased by 3%, more than new per student amount for 2014 62
+62 Transitional recurrent funding for special schools and special assistance schools for 2014 63
+63 Funding for all other participating schools 64
+Part 4—Recurrent funding for non-participating schools through a national specific purpose payment 65
+64 Guide to this Part 65
+65 National specific purpose payments for schools in non-participating States and Territories 65
+Part 5—Capital funding, special circumstances funding and funding for non-government representative bodies 68
+Division 1—Guide to this Part 68
+66 Guide to this Part 68
+Division 2—Capital funding 69
+67 Capital funding 69
+68 Limit on total amount available for capital funding for block grant authorities 69
+Division 3—Special circumstances funding 71
+69 Special circumstances funding 71
+Division 4—Funding for non-government representative bodies 72
+70 Funding for non-government representative bodies 72
+Part 6—Approving authorities and bodies 73
+Division 1—Guide to this Part 73
+71 Guide to this Part 73
 
 ComLaw Authoritative Act C2013A00067
 
@@ -48,13 +145,78 @@ ComLaw Authoritative Act C2013A00067
 
 Australian Education Act 2013       No. 67, 2013       iv
 
+Division 2—Approving approved authorities 74
+72 Application for person to be approved as an approved authority 74
+73 Approval of person 74
+74 Approval or refusal of approval on public interest grounds 75
+75 Basic requirements for approval 76
+76 Approved authorities for government schools taken to satisfy basic requirements 77
+77 Ongoing policy requirements for approved authorities 78
+78 Ongoing funding requirements for approved authorities 79
+79 Limitation on approval 80
+80 Variation or revocation of approval on application 80
+81 Variation or revocation of approval on Minister’s own initiative 80
+Division 3—Approving block grant authorities 83
+82 Application for person to be approved as a block grant authority 83
+83 Approval of person 83
+84 Basic requirements for approval 84
+85 Ongoing requirements for approval 85
+86 Limitation on approval 85
+87 Variation or revocation of approval on application 86
+88 Variation or revocation of approval on Minister’s own initiative 86
+Division 4—Approving non-government representative bodies 88
+89 Minister may invite a person to apply to be a non-government representative body 88
+90 Application for person to be approved as a non-government representative body 88
+91 Approval of person 88
+92 Basic requirements for approval 89
+93 Ongoing requirements for approval 90
+94 Limitation on approval 90
+95 Variation or revocation of approval on application 91
+96 Variation or revocation of approval on Minister’s own initiative 91
+Part 7—Implementation plans 93
+97 Guide to this Part 93
+98 Application of this Part to approved authorities for more than one participating school 93
+99 Approved authority must have an implementation plan 93
+
 ComLaw Authoritative Act C2013A00067
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-> v       Australian Education Act 2013       No. 67, 2013
+v       Australian Education Act 2013       No. 67, 2013
+
+100 Approved authority must be able to implement implementation plan properly 94
+101 Period of implementation plan 94
+102 Review of implementation plan 95
+103 Keeping implementation plans up to date 95
+104 Publication of implementation plan 95
+105 Minister may give a direction in relation to an implementation plan 96
+106 Requirement to consider relevant arrangements before making regulations 97
+Part 8—Actions Minister may take for failure to comply with this Act, and to require amounts to be repaid 98
+Division 1—Guide to this Part 98
+107 Guide to this Part 98
+Division 2—Actions Minister may take for failure to comply with this Act, and to require amounts to be repaid 99
+108 Application of Division for failure to comply with this Act 99
+109 Application of Division when amounts are required to be repaid 99
+110 Actions the Minister may take 101
+111 Effect of determination under paragraph 110(1)(a) or (b) 102
+Division 3—Recoverable payments 104
+112 Recoverable payments 104
+113 Reports about recoverable payments 104
+Part 9—Miscellaneous 106
+Division 1—Guide to this Part 106
+114 Guide to this Part 106
+Division 2—Rules relating to applications 107
+115 Approved form for applications 107
+116 Request for further information 107
+117 Withdrawal of application 107
+Division 3—Review of decisions 108
+118 Reviewable decisions 108
+119 Notice of decision 113
+120 Internal review of reviewable decisions 114
+121 Secretary or internal reviewer may require further information from applicants 115
+122 Review by the Administrative Appeals Tribunal 116
 
 ComLaw Authoritative Act C2013A00067
 
@@ -63,6 +225,16 @@ ComLaw Authoritative Act C2013A00067
 [[START OF PAGE 8]]
 
 Australian Education Act 2013       No. 67, 2013       vi
+
+Division 4—Miscellaneous 117
+123 False or misleading information 117
+124 Secretary may arrange for use of computer programs to make decisions 117
+125 Making records of, using, disclosing or publishing protected information 117
+126 Appropriation 118
+127 Annual report by Minister 118
+128 Review of, or for the purposes of, the National Education Reform Agreement 119
+129 Delegation 119
+130 Regulations 120
 
 ComLaw Authoritative Act C2013A00067
 
@@ -76,7 +248,7 @@ No. 67, 2013
 
 ## An Act in relation to school education and reforms relating to school education, and for related purposes
 
-[ Assented to 27 June 2013 ]
+[Assented to 27 June 2013]
 
 ## Preamble
 
@@ -126,13 +298,13 @@ As Australia's schools are diverse, the Australian Government will recognise the
 
 The Parliament of Australia enacts:
 
-## Part 1-Preliminary
+## Part 1—Preliminary
 
-### Division 1-Preliminary
+### Division 1—Preliminary
 
 #### 1  Short title
 
-This Act may be cited as the Australian Education Act 2013 .
+This Act may be cited as the Australian Education Act 2013.
 
 #### 2  Commencement
 
@@ -140,7 +312,7 @@ This Act commences on 1 January 2014.
 
 #### 3  Objects of this Act
 
-- The objects of this Act are the following:
+(1)  The objects of this Act are the following:
 
 (a)  to ensure that the Australian schooling system provides a high quality and highly equitable education for all students by having regard to the following national targets:
 
@@ -158,19 +330,35 @@ ComLaw Authoritative Act C2013A00067
 
 [[START OF PAGE 12]]
 
-Part 1 Preliminary Division 1
+Part 1 Preliminary
 
-Preliminary
+Division 1 Preliminary
 
 Section 3
 
-(iv)  lift the Year 12 (or equivalent) or Certificate III attainment rate to 90% by 2020; (v)  at least halve the gap between Aboriginal and Torres Strait Islander students, and other students, in Year 12 or equivalent attainment rates by 2020 from the baseline in 2006; (vi)  halve the gap between Aboriginal and Torres Strait Islander students, and other students, in reading, writing and numeracy by 2018 from the baseline in 2008; (b)  to acknowledge the matters referred to in the Preamble; (c)  to provide a needs-based funding model for schools applied consistently across all schools which includes: (i)  a base amount of funding for every student; and (ii)  additional loadings for students and schools who need extra support; (d)  to implement the National Plan for School Improvement. (2)  The Commonwealth will work with the governments of the States and Territories, and non-government education authorities, to implement the National Plan for School Improvement set out in the National Education Reform Agreement to meet the objects of this Act by addressing the reform directions set out in subsections (3) to (8). The governments of the States and Territories, and non-government education authorities, that agree to implement the National Plan for Agreement will be provided with financial assistance in accordance
+(iv)  lift the Year 12 (or equivalent) or Certificate III attainment rate to 90% by 2020;
 
-Note: School Improvement set out in the National Education Reform with Part 3.
+(v)  at least halve the gap between Aboriginal and Torres Strait Islander students, and other students, in Year 12 or equivalent attainment rates by 2020 from the baseline in 2006;
+
+(vi)  halve the gap between Aboriginal and Torres Strait Islander students, and other students, in reading, writing and numeracy by 2018 from the baseline in 2008;
+
+(b)  to acknowledge the matters referred to in the Preamble;
+
+(c)  to provide a needs-based funding model for schools applied consistently across all schools which includes:
+
+(i)  a base amount of funding for every student; and
+
+(ii)  additional loadings for students and schools who need extra support;
+
+(d)  to implement the National Plan for School Improvement.
+
+(2)  The Commonwealth will work with the governments of the States and Territories, and non-government education authorities, to implement the National Plan for School Improvement set out in the National Education Reform Agreement to meet the objects of this Act by addressing the reform directions set out in subsections (3) to (8).
+
+Note: The governments of the States and Territories, and non-government education authorities, that agree to implement the National Plan for School Improvement set out in the National Education Reform Agreement will be provided with financial assistance in accordance with Part 3.
 
 ##### Quality teaching
 
-- All teachers will have the skills, and support they require, to improve their performance over time and to deliver teaching of a high quality to all of their school students. The work of teachers will:
+(3)  All teachers will have the skills, and support they require, to improve their performance over time and to deliver teaching of a high quality to all of their school students. The work of teachers will:
 
 (a)  reflect rigorous professional standards and best practice; and
 
@@ -190,15 +378,15 @@ Section 3
 
 ##### Quality learning
 
-- Australian schooling will provide a high quality educational experience with an environment and curriculum that supports all school students to reach their full potential.
+(4)  Australian schooling will provide a high quality educational experience with an environment and curriculum that supports all school students to reach their full potential.
 
 ##### Empowered school leadership
 
-- Leaders in schools will have the resources, the skills, and greater power, to make decisions and implement strategies at the local level to obtain the best outcomes for their schools and school students.
+(5)  Leaders in schools will have the resources, the skills, and greater power, to make decisions and implement strategies at the local level to obtain the best outcomes for their schools and school students.
 
 ##### Transparency and accountability
 
-- Support will be provided to schools to find ways to improve continuously by:
+(6)  Support will be provided to schools to find ways to improve continuously by:
 
 (a)  analysing and applying data on the educational outcomes of school students (including outcomes relating to the academic performance, attendance, behaviour and wellbeing of school students); and
 
@@ -218,13 +406,13 @@ than data currently collected on schools and school students.
 
 ##### Meeting student need
 
-- Australian schooling will place the highest priority on:
+(8)  Australian schooling will place the highest priority on:
 
 (a)  identifying and addressing the needs of school students, including barriers to learning and wellbeing; and
 
 (b)  providing additional support to school students who require it.
 
-> Australian Education Act 2013       No. 67, 2013            5
+Australian Education Act 2013       No. 67, 2013            5
 
 ComLaw Authoritative Act C2013A00067
 
@@ -252,7 +440,7 @@ Financial assistance is provided directly to a State or Territory for its govern
 
 The amount of recurrent funding that a school attracts for a year depends on whether the school is a participating school or a non-participating school. A participating school is a non-government school, or a government school of a participating State or Territory. (A participating State or Territory is a State or Territory that is a party to the National Education Reform Agreement and has a bilateral agreement with the Commonwealth in relation to implementing that Agreement.) An approved authority for more than one participating school must develop an implementation plan that explains how the authority intends to implement those reforms.
 
-Financial assistance for participating schools is worked out using the formula in Division 2 of Part 3. The financial assistance consists of a base amount for all schools, plus loadings for schools with students with greater needs. The base amount and most of the loadings are worked out by reference to an amount per student called the SRS funding amount. (SRS is short for schooling resource standard.)
+Financial assistance for participating schools is worked out using the formula in Division 2 of Part 3. The financial assistance consists of a base amount for all schools, plus loadings for schools with students with greater needs. The base amount and most of the loadings are worked out by reference to an amount per student
 
 6            Australian Education Act 2013       No. 67, 2013
 
@@ -266,21 +454,21 @@ Preliminary Part 1 Preliminary Division 1
 
 Section 5
 
+called the SRS funding amount. (SRS is short for schooling resource standard.)
+
 Not all participating schools will attract the amount worked out using the formula immediately. Some schools will move to that amount over a period of time. A special transitional rule also applies for special schools and special assistance schools for 2014.
 
-Financial assistance for non-participating schools located in a State or Territory is worked out by reference to the amount the non-participating States and Territories received for 2013 through the national specific purpose payment for schools under the Federal Financial Relations Act 2009 .
+Financial assistance for non-participating schools located in a State or Territory is worked out by reference to the amount the non-participating States and Territories received for 2013 through the national specific purpose payment for schools under the Federal Financial Relations Act 2009.
 
-The Minister can determine other kinds of funding for any school under Part 5. The Minister can determine capital funding, which is ultimately provided to capital grants authorities and block grant authorities. The Minister can also determine funding for schools in special circumstances, and funding for non-government representative bodies for non-government schools. Non-government representative bodies are bodies that represent approved authorities for non-government schools. A block grant authority or non-government representative body is approved by
-
-the Minister.
+The Minister can determine other kinds of funding for any school under Part 5. The Minister can determine capital funding, which is ultimately provided to capital grants authorities and block grant authorities. The Minister can also determine funding for schools in special circumstances, and funding for non-government representative bodies for non-government schools. Non-government representative bodies are bodies that represent approved authorities for non-government schools. A block grant authority or non-government representative body is approved by the Minister.
 
 The Minister may require an amount to be repaid, reduce an amount that would otherwise be payable, or delay making a payment, if an amount is owed to the Commonwealth under this Act (or other similar Acts) or there is a failure to comply with a requirement of this Act.
 
 #### 5  Binding the Crown
 
-- This Act binds the Crown in each of its capacities.
+(1)  This Act binds the Crown in each of its capacities.
 
-- This Act does not make the Crown liable to be prosecuted for an offence.
+(2)  This Act does not make the Crown liable to be prosecuted for an offence.
 
 Australian Education Act 2013       No. 67, 2013            7
 
@@ -296,13 +484,13 @@ Interpretation
 
 Section 6
 
-### Division 2-Interpretation
+### Division 2—Interpretation
 
 #### 6  Definitions
 
 In this Act: Aboriginal and Torres Strait Islander loading has the meaning given by subsection 37(1). Aboriginal and Torres Strait Islander student has the meaning given by the regulations. amount includes a nil amount. approved authority for a school means the person that is approved as the approved authority for the school under section 73. ARIA index value has the meaning given by the regulations. Note: The Minister may determine the location of a school with more than one location for the purposes of working out the school's ARIA index value (see section 18). ARIA student number has the meaning given by section 50. ATSI percentage has the meaning given by subsection 37(2). base amount has the meaning given by subsections 33(1), (2) and (3). block grant authority for a school means the person that is approved as the block grant authority for the school under section 83. capacity to contribute percentage has the meaning given by subsections 54(1), (2) and (3). capital expenditure includes expenditure relating to any of the following: (a)  investigating the need for: (i)  schools in particular areas; or (ii)  schools of particular kinds in particular areas; or
 
-> 8            Australian Education Act 2013       No. 67, 2013
+8            Australian Education Act 2013       No. 67, 2013
 
 ComLaw Authoritative Act C2013A00067
 
@@ -316,7 +504,7 @@ Section 6
 
 (iii)  buildings or other facilities (or parts of buildings or other facilities) or equipment; (b)  purchasing land, with or without buildings (or parts of buildings); (c)  planning for the erection, alteration, extension, demolition or refurbishment of a building or other facility (or part of a building or other facility); (d)  developing or preparing land for building or other purposes; (e)  erecting, altering, extending, demolishing or refurbishing a building or other facility (or part of a building or other facility); (f)  installing or upgrading water, electricity or any other services; (g)  providing equipment, including information technology equipment; (h)  providing furniture; (i)  providing library materials or obtaining services and goods for cataloguing a library (or part of a library); (j)  the administrative expenses of a capital grants authority in relation to administering other capital expenditure; (k)  any other expenditure prescribed by the regulations for the purposes of this definition. capital grants authority for a school means: (a)  the approved authority for the school; and (b)  if a block grant authority is also approved for the school-the block grant authority; and (c)  if the school is a non-government school located in a State or Territory-the approved authority for government schools located in that State or Territory. census day has the meaning given by subsection 7(1). combined school means a school that provides both primary education and secondary education. Commonwealth share : a Commonwealth share for a school is the percentage for the school prescribed by, or worked out in accordance with, the regulations.
 
-> Australian Education Act 2013       No. 67, 2013            9
+Australian Education Act 2013       No. 67, 2013            9
 
 ComLaw Authoritative Act C2013A00067
 
@@ -330,11 +518,35 @@ Interpretation
 
 Section 6
 
-departmental official means an official (within the meaning of the Financial Management and Accountability Act 1997 ):
+departmental official means an official (within the meaning of the Financial Management and Accountability Act 1997):
 
-(a)  who is in, or part of, the Department; and (b)  whose duties consist of, or include, dealing with matters relating to payments of financial assistance to a State or Territory under this Act. distance education : a student receives distance education at a school if the student receives primary education or secondary education by distance education at the school in accordance with subsection 10(5). government school means a school that is conducted by or on behalf of the government of a State or Territory. highly equitable : the Australian schooling system is highly equitable if there is a limited relationship between a student's socioeconomic status and his or her educational performance, as measured by the Programme for International Student Assessment. implementation plan means a plan developed for the purposes of Part 7. inner regional school has the meaning given by subsection 13(1). internal reviewer has the meaning given by subsection 120(3). large school has the meaning given by subsection 43(1). level of education : see section 15. location loading has the meaning given by subsection 40(1). location percentage has the meaning given by subsection 40(2). low English proficiency loading has the meaning given by subsection 39(1). has the meaning given
+(a)  who is in, or part of, the Department; and
 
-low socioeconomic status student loading by subsection 38(1).
+(b)  whose duties consist of, or include, dealing with matters relating to payments of financial assistance to a State or Territory under this Act.
+
+distance education: a student receives distance education at a school if the student receives primary education or secondary education by distance education at the school in accordance with subsection 10(5).
+
+government school means a school that is conducted by or on behalf of the government of a State or Territory.
+
+highly equitable: the Australian schooling system is highly equitable if there is a limited relationship between a student’s socioeconomic status and his or her educational performance, as measured by the Programme for International Student Assessment.
+
+implementation plan means a plan developed for the purposes of Part 7.
+
+inner regional school has the meaning given by subsection 13(1).
+
+internal reviewer has the meaning given by subsection 120(3).
+
+large school has the meaning given by subsection 43(1).
+
+level of education: see section 15.
+
+location loading has the meaning given by subsection 40(1).
+
+location percentage has the meaning given by subsection 40(2).
+
+low English proficiency loading has the meaning given by subsection 39(1).
+
+low socioeconomic status student loading has the meaning given by subsection 38(1).
 
 major city school has the meaning given by subsection 13(1).
 
@@ -352,7 +564,37 @@ Interpretation Division 2
 
 Section 6
 
-majority Aboriginal and Torres Strait Islander school has the meaning given by subsections 8(1) and (2). maximum lower limit has the meaning given by subsection 43(2). maximum size loading has the meaning given by subsections 44(1) and (4). maximum upper limit has the meaning given by subsection 43(3). medium-sized school has the meaning given by subsection 43(1). Ministerial Council means the Council of Commonwealth, State and Territory Ministers, as it exists from time to time, with responsibility for school education. National Education Reform Agreement means the National Education Reform Agreement made between the Commonwealth and New South Wales on 23 April 2013 (and any other State or Territory that becomes a party to the agreement after that day), as in force from time to time. new per student amount has the meaning given by subsection 58(3). non-government representative body for a non-government school means the person that is approved as the non-government representative body for the school under section 91. non-government school means a school that is not a government school. non-participating school : a school is a non-participating school if: (a)  there is an approved authority for the school; and (b)  the approved authority is approved in relation to: (i)  one or more locations of the school; and (ii)  a level of education provided by the school at any of those locations; and (c)  the school is a government school located in a State or Territory in relation to which no determination is in force under section 14 (Minister to determine participating States and Territories). non-participating States and Territories means the States and Territories in relation to which no determination is in force under section 14 (Minister to determine participating States and Territories). old Commonwealth per student amount : an approved authority's old Commonwealth per student amount is: (a)  for 2014-the amount determined by the Minister under paragraph 58(1)(b) for the authority for the year; and (b)  for any other year-the authority's old Commonwealth per student amount for the year, as indexed under subsection 60(2). old per student amount : an approved authority's old per student amount is: (a)  for 2013 or 2014-the amount determined by the Minister under paragraph 58(1)(a) for the authority for the year; and (b)  for any other year-the authority's old per student amount for the year, as indexed under subsection 61(3). outer regional school has the meaning given by subsection 13(1). overpayment has the meaning given by subsections 9(1) to (7). overseas student : an overseas student is a person: (a)  to whom one or more of the following subparagraphs apply: (i)  the person holds a visa in force under the Migration Act 1958 that permits the person to travel to Australia for the purpose of undertaking a course provided by a body; (ii)  the person is included in such a visa in force under that Act; (iii)  the person is prescribed as an overseas student by regulations made for the purposes of this subparagraph; and (b)  who is not excluded from being an overseas student by regulations made for the purposes of this paragraph.
+majority Aboriginal and Torres Strait Islander school has the meaning given by subsections 8(1) and (2).
+
+maximum lower limit has the meaning given by subsection 43(2).
+
+maximum size loading has the meaning given by subsections 44(1) and (4).
+
+maximum upper limit has the meaning given by subsection 43(3).
+
+medium-sized school has the meaning given by subsection 43(1).
+
+Ministerial Council means the Council of Commonwealth, State and Territory Ministers, as it exists from time to time, with responsibility for school education.
+
+National Education Reform Agreement means the National Education Reform Agreement made between the Commonwealth and New South Wales on 23 April 2013 (and any other State or Territory that becomes a party to the agreement after that day), as in force from time to time.
+
+new per student amount has the meaning given by subsection 58(3).
+
+non-government representative body for a non-government school means the person that is approved as the non-government representative body for the school under section 91.
+
+non-government school means a school that is not a government school.
+
+non-participating school: a school is a non-participating school if:
+
+(a)  there is an approved authority for the school; and
+
+(b)  the approved authority is approved in relation to:
+
+(i)  one or more locations of the school; and
+
+(ii)  a level of education provided by the school at any of those locations; and
+
+(c)  the school is a government school located in a State or Territory in relation to which no determination is in force under section 14 (Minister to determine participating States and Territories).
 
 Australian Education Act 2013       No. 67, 2013            11
 
@@ -367,6 +609,36 @@ Part 1 Preliminary
 Division 2 Interpretation
 
 Section 6
+
+non-participating States and Territories means the States and Territories in relation to which no determination is in force under section 14 (Minister to determine participating States and Territories).
+
+old Commonwealth per student amount: an approved authority’s old Commonwealth per student amount is:
+
+(a)  for 2014—the amount determined by the Minister under paragraph 58(1)(b) for the authority for the year; and
+
+(b)  for any other year—the authority’s old Commonwealth per student amount for the year, as indexed under subsection 60(2).
+
+old per student amount: an approved authority’s old per student amount is:
+
+(a)  for 2013 or 2014—the amount determined by the Minister under paragraph 58(1)(a) for the authority for the year; and
+
+(b)  for any other year—the authority’s old per student amount for the year, as indexed under subsection 61(3).
+
+outer regional school has the meaning given by subsection 13(1).
+
+overpayment has the meaning given by subsections 9(1) to (7).
+
+overseas student: an overseas student is a person:
+
+(a)  to whom one or more of the following subparagraphs apply:
+
+(i)  the person holds a visa in force under the Migration Act 1958 that permits the person to travel to Australia for the purpose of undertaking a course provided by a body;
+
+(ii)  the person is included in such a visa in force under that Act;
+
+(iii)  the person is prescribed as an overseas student by regulations made for the purposes of this subparagraph; and
+
+(b)  who is not excluded from being an overseas student by regulations made for the purposes of this paragraph.
 
 12            Australian Education Act 2013       No. 67, 2013
 
@@ -440,13 +712,11 @@ relevant arrangement of an approved authority for a school means a written arran
 
 Note: For an approved authority for participating government schools, the National Education Reform Agreement is a relevant arrangement. For an approved authority for non-participating government schools, the Intergovernmental Agreement (within the meaning of section 4 of the Federal Financial Relations Act 2009 ) is a relevant arrangement.
 
-relevant person
+relevant person for a reviewable decision means:
 
-for a reviewable decision means:
+(a)  for a reviewable decision referred to in column 1 of the table in subsection 118(1)—the person referred to in column 3 of that table in relation to that decision; and
 
-(a)  for a reviewable decision referred to in column 1 of the table in subsection 118(1)-the person referred to in column 3 of that table in relation to that decision; and the purposes of subsection 118(2)-the person specified by
-
-(b)  for a reviewable decision prescribed by regulations made for the regulations as the relevant person for that decision.
+(b)  for a reviewable decision prescribed by regulations made for the purposes of subsection 118(2)—the person specified by the regulations as the relevant person for that decision.
 
 remote school has the meaning given by subsection 13(1).
 
@@ -496,7 +766,7 @@ sole provider school : a school is a sole provider school if:
 
 (b)  the distance between the school and any other school that provides the same level of education is more than 25 km.
 
-Note: This distance is measured in a straight line (see section 35 of the Acts Interpretation Act 1901 ) .
+Note: This distance is measured in a straight line (see section 35 of the Acts Interpretation Act 1901).
 
 special assistance school means a school that:
 
@@ -512,7 +782,7 @@ special school means a school that:
 
 SRS funding amount has the meaning given by subsections 34(1), (2) and (4).
 
-> Australian Education Act 2013       No. 67, 2013            15
+Australian Education Act 2013       No. 67, 2013            15
 
 ComLaw Authoritative Act C2013A00067
 
@@ -556,9 +826,7 @@ Section 7
 ##### When a student receives education on a census day
 (6)  A student receives primary education or secondary education at a school on the school's census day for a year if: (a)  the student is enrolled at the school on that day; and (b)  either: (i)  the student attends the school on a daily basis in the 4-week period that ends on that day (excluding school holidays); or (ii)  the Minister determines under subsection 10(2) that the student is a person who receives primary education or secondary education at the school.
 ##### Determination not legislative instrument
-(7)  A determination under subsection (2) is not a legislative
-
-- instrument.
+(7)  A determination under subsection (2) is not a legislative instrument.
 
 Australian Education Act 2013       No. 67, 2013            17
 
@@ -654,7 +922,7 @@ Interpretation Division 2
 
 Section 10
 
-(iii)  the level of education provided by the school at that location is specified in that approval; or (b)  the Minister determines under subsection (2) that the person receives primary education or secondary education at the school. (2)  The Minister may determine that a person receives primary education or secondary education (as the case requires) at a specified school if the Minister is satisfied that special circumstances justify the determination. Note 1: Decisions under this section are reviewable decisions (see Division 3 of Part 9). Note 2: The regulations may prescribe matters that the Minister may or must have regard to in making a decision under this subsection (see paragraph 130(2)(b)). (3)  A determination under subsection (2) may be made: (a)  on the Minister's own initiative; or (b)  on application by the approved authority for the school. Note: For rules relating to applications, see Division 2 of Part 9. (4)  An application by an approved authority for a school for a determination under subsection (2) that relates to a year must be made within: (a)  14 days of the school's census day for the year; or (b)  if the Minister allows a longer period (whether before or after the period referred to in paragraph (a))-that longer period.
+(iii)  the level of education provided by the school at that location is specified in that approval; or (b)  the Minister determines under subsection (2) that the person receives primary education or secondary education at the school. (2)  The Minister may determine that a person receives primary education or secondary education (as the case requires) at a specified school if the Minister is satisfied that special circumstances justify the determination. Note 1: Decisions under this section are reviewable decisions (see Division 3 of Part 9). Note 2: The regulations may prescribe matters that the Minister may or must have regard to in making a decision under this subsection (see paragraph 130(2)(b)). (3)  A determination under subsection (2) may be made: (a)  on the Minister's own initiative; or (b)  on application by the approved authority for the school. Note: For rules relating to applications, see Division 2 of Part 9. (4)  An application by an approved authority for a school for a determination under subsection (2) that relates to a year must be made within: (a)  14 days of the school's census day for the year; or (b)  if the Minister allows a longer period (whether before or after the period referred to in paragraph (a))—that longer period.
 ##### Receiving primary or secondary education by distance education
 (5)  A person receives primary education or secondary education by distance education at a school located in a State or Territory only if: (a)  the person resides in the State or Territory; and (b)  the State or Territory provides funding for the school (other than financial assistance provided to the State or Territory for the school in accordance with this Act), for primary education or secondary education (as the case requires), for students enrolled at the school who receive distance education (however described) from the school; and
 
@@ -686,17 +954,15 @@ A payment is a recoverable payment if:
 
 #### 12  Definition of total entitlement
 
-- A participating school's total entitlement payable to a State or Territory under Division 2 of Part 3 for the school for the year.
+(1)  A participating school's total entitlement for a year is the amount payable to a State or Territory under Division 2 of Part 3 for the school for the year.
 
-- An approved authority's total entitlement payable to a State or Territory under Division 5 of Part 3 for the authority for the year.
+(2)  An approved authority's total entitlement for a year is the amount payable to a State or Territory under Division 5 of Part 3 for the authority for the year.
 
-for a year is the amount for a year is the amount
-
-- The total entitlement for a year for non-participating schools located in a State or Territory is the amount payable under Part 4 to the State or Territory for those non-participating schools for the year.
+(3)  The total entitlement for a year for non-participating schools located in a State or Territory is the amount payable under Part 4 to the State or Territory for those non-participating schools for the year.
 
 #### 13  Definitions of kinds of schools based on location
 
-- The following table sets out definitions of kinds of schools based on location.
+(1)  The following table sets out definitions of kinds of schools based on location.
 
 Definitions of kinds of schools based on location
 --- | --- | ---
@@ -725,7 +991,7 @@ Item | Column 1 A school is this kind of school … | Column 2 if the school has
 4 | a remote school | at least 6, and less than 10.
 5 | a very remote school | at least 10, and less than or equal to 15.
 
-- The regulations may replace a number (the original number ) in column 2 of the table with a new number. If the regulations do so, a reference to the original number in:
+(2)  The regulations may replace a number (the original number) in column 2 of the table with a new number. If the regulations do so, a reference to the original number in:
 
 (a)  the table; and
 
@@ -737,15 +1003,13 @@ is taken to be a reference to the new number.
 
 #### 14  Minister to determine participating States and Territories
 
-- The Minister may determine, in writing, that a State or Territory is a participating State or Territory if the Minister is satisfied that the State or Territory is a participating State or Territory.
+(1)  The Minister may determine, in writing, that a State or Territory is a participating State or Territory if the Minister is satisfied that the State or Territory is a participating State or Territory.
 
-Note:
+Note: A participating State or Territory is a party to the National Education Reform Agreement and has a bilateral agreement with the Commonwealth (see the definition of participating State or Territory in section 6).
 
-A participating State or Territory is a party to the National Education Reform Agreement and has a bilateral agreement with the Commonwealth (see the definition of participating State or Territory in section 6).
+(2)  The determination comes into force on 1 January of the year specified in the determination.
 
-- The determination comes into force on 1 January of the year specified in the determination.
-
-- A determination under subsection (1) is a legislative instrument, but section 42 (disallowance) of the Legislative Instruments Act 2003 does not apply to the determination.
+(3)  A determination under subsection (1) is a legislative instrument, but section 42 (disallowance) of the Legislative Instruments Act 2003 does not apply to the determination.
 
 Australian Education Act 2013       No. 67, 2013            23
 
@@ -827,7 +1091,7 @@ Part 2 Grants of financial assistance to States and Territories
 
 Section 20
 
-## Part 2-Grants of financial assistance to States and Territories
+## Part 2—Grants of financial assistance to States and Territories
 
 #### 20  Guide to this Part
 
@@ -841,7 +1105,7 @@ payments of financial assistance.
 
 Financial assistance is payable to a State or Territory for a year under the following provisions: (a)  Division 2 of Part 3 (recurrent funding) for a participating school located in the State or Territory; (b)  Division 5 of Part 3 (transitional recurrent funding for participating schools) for an approved authority; (c)  Part 4 (recurrent funding) for non-participating schools located in the State or Territory; (d)  Division 2 of Part 5 (capital funding) for a capital grants authority or block grant authority for a school if the Minister determines that financial assistance is payable for the authority; (e)  Division 3 of Part 5 (special circumstances funding) for a school if the Minister determines that financial assistance is
 
-- payable for the school for the year;
+payable for the school for the year;
 
 26            Australian Education Act 2013       No. 67, 2013
 
@@ -857,7 +1121,7 @@ Section 22
 
 (f)  Division 4 of Part 5 (funding for non-government representative bodies) for a non-government representative body for a non-government school if the Minister determines that financial assistance is payable for the body for the year.
 
-#### 22  Conditions of financial assistance-implementing national policy initiatives relating to school education
+#### 22  Conditions of financial assistance—implementing national policy initiatives relating to school education
 
 (1)  A payment of financial assistance under this Act to a State or Territory is subject to the condition that the State or Territory implement national policy initiatives for school education in accordance with the regulations. Note: The national policy initiatives are those agreed policy initiatives that States and Territories have responsibility for implementing for the school education system generally. They include: (a) overseeing the school education system in the State or Territory (including through consistent regulation of the provision of school education, and working cooperatively with other governments and non-government education authorities to provide a high quality and highly equitable education system); and (b) supporting the work of national education institutions (including the Australian Curriculum, Assessment and Reporting Authority, the Australian Institute for Teaching and School Leadership Ltd, and Education Services Australia Ltd); and (c) improving the quality of teachers (including through nationally consistent registration processes using national professional standards, and through accrediting initial teacher education courses); and (d) addressing Aboriginal and Torres Strait Islander educational disadvantage (including through implementing the Aboriginal and Torres Strait Islander Education Plan agreed to by the States and Territories). (2)  Before the Governor-General makes regulations for the purposes of this section, the Minister must have regard to: (a)  any decisions of the Ministerial Council relating to national policy initiatives for school education; and (b)  any relevant arrangement of a State or Territory (in its capacity as an approved authority for government schools).
 
@@ -873,7 +1137,7 @@ Part 2 Grants of financial assistance to States and Territories
 
 Section 23
 
-#### 23  Conditions of financial assistance-conditions relating to payments to States and Territories for non-government schools
+#### 23  Conditions of financial assistance—conditions relating to payments to States and Territories for non-government schools
 
 (1)  The following payments of financial assistance are subject to the conditions in this section: (a)  a payment under Division 2 of Part 3 (recurrent funding for participating schools) to a State or Territory for a non-government school; (b)  a payment under Division 5 of Part 3 (transitional recurrent funding for participating schools) to a State or Territory for an approved authority for a non-government school; (c)  a payment under Division 2 of Part 5 (capital funding) to a State or Territory for a capital grants authority for a non-government school, or a block grant authority; (d)  a payment under Division 3 of Part 5 (special circumstances funding) to a State or Territory for a non-government school; (e)  a payment under Division 4 of Part 5 (funding for non-government representative body) to a State or Territory for a non-government representative body for a non-government school. Note: For the consequences of failing to comply with this section, see Division 2 of Part 8.
 
@@ -899,7 +1163,7 @@ Section 24
 
 referred to in paragraph (a)).
 
-#### 24  Condition of financial assistance-recovering amounts
+#### 24  Condition of financial assistance—recovering amounts
 
 A payment of financial assistance under this Act to a State or Territory is subject to the condition that the State or Territory comply with any requirements prescribed by the regulations in relation to recovering amounts, as a result of a determination made under paragraph 110(1)(a) or (b) in relation to a State or Territory, from: (a)  the State or Territory; or (b)  an approved authority, a capital grants authority, a block grant authority or a non-government representative body.
 
@@ -931,7 +1195,7 @@ participating schools) to a State or Territory for a year for an approved author
 
 #### 26  Entitlement to recurrent funding
 
-(1)  The total amount of payments made under paragraph 25(1)(a) to a State or Territory for a participating school for a year must equal the amount determined under subsection (4) as the school's total entitlement for the year. Note 1: Total entitlement is defined in section 12. Note 2: The total entitlement may be reduced under section 110 (action Minister may take for failure to comply with this Act, and to require amounts to be repaid). (2)  The total amount of payments made under paragraph 25(1)(b) to a State or Territory for an approved authority for a year must equal the amount determined under subsection (4) as the authority's total entitlement for the year. (3)  The total amount of payments made under paragraph 25(1)(c) to a State or Territory for non-participating schools for a year must equal the amount determined under subsection (4) as the total entitlement for those non-participating schools for the year. (4)  For the purposes of subsections (1) to (3), the Minister may determine an amount that the Minister is satisfied is the relevant total entitlement. Note: A decision under this subsection is a reviewable decision if the total entitlement relates to an amount that is payable under Division 2 or 5 of Part 3 (see Division 3 of Part 9). (Total entitlements relating to amounts determined under Part 4 are not reviewable.)
+(1)  The total amount of payments made under paragraph 25(1)(a) to a State or Territory for a participating school for a year must equal the amount determined under subsection (4) as the school's total entitlement for the year. Note 1: Total entitlement is defined in section 12. Note 2: The total entitlement may be reduced under section 110 (action Minister may take for failure to comply with this Act, and to require amounts to be repaid). (2)  The total amount of payments made under paragraph 25(1)(b) to a State or Territory for an approved authority for a year must equal
 
 30            Australian Education Act 2013       No. 67, 2013
 
@@ -944,6 +1208,14 @@ ComLaw Authoritative Act C2013A00067
 Grants of financial assistance to States and Territories Part 2
 
 Section 27
+
+the amount determined under subsection (4) as the authority's total entitlement for the year.
+
+(3)  The total amount of payments made under paragraph 25(1)(c) to a State or Territory for non-participating schools for a year must equal the amount determined under subsection (4) as the total entitlement for those non-participating schools for the year.
+
+(4)  For the purposes of subsections (1) to (3), the Minister may determine an amount that the Minister is satisfied is the relevant total entitlement.
+
+Note: A decision under this subsection is a reviewable decision if the total entitlement relates to an amount that is payable under Division 2 or 5 of Part 3 (see Division 3 of Part 9). (Total entitlements relating to amounts determined under Part 4 are not reviewable.)
 
 ##### Determination not legislative instrument
 
@@ -1017,9 +1289,9 @@ Part 3 Recurrent funding for participating schools Division 1 Guide to this Part
 
 Section 31
 
-## Part 3-Recurrent funding for participating schools
+## Part 3—Recurrent funding for participating schools
 
-### Division 1-Guide to this Part
+### Division 1—Guide to this Part
 
 #### 31  Guide to this Part
 
@@ -1081,11 +1353,13 @@ Part 3 Recurrent funding for participating schools Division 2 The funding formul
 
 Section 32
 
-### Division 2-The funding formula for participating schools
+### Division 2—The funding formula for participating schools
 
 #### 32  The amount payable for a participating school
 
 The amount of financial assistance that is payable under this Division to a State or Territory for a year for a participating school is worked out using the following formula:
+
+(The school's base amount for the year + The school's total loading for the year) × The Commonwealth share for the school
 
 Note 1:
 
@@ -1097,19 +1371,21 @@ This amount may be rounded up or down (see section 56).
 
 #### 33  Base amount for schools
 
-- A primary school or secondary school's base amount for a year is worked out using the following formula:
+(1)  A primary school or secondary school's base amount for a year is worked out using the following formula:
+
+The number of students at the school for the year × The SRS funding amount for the year for a student at the school × (1 − The school's capacity to contribute percentage)
 
 Note:
 
 To work out the number of students at a school for a year, see sections 16 and 17.
 
-- To work out the base amount for a year for a combined school, add up the following amounts:
+(2)  To work out the base amount for a year for a combined school, add up the following amounts:
 
 (a)  the amount that would be the school's base amount for the year if the school were a primary school consisting only of those students at the school who are primary students;
 
 (b)  the amount that would be the school's base amount for the year if the school were a secondary school consisting only of those students at the school who are secondary students.
 
-- To work out the base amount for a year for a school that is not covered by subsection 54(1) (capacity to contribute percentage) at
+(3)  To work out the base amount for a year for a school that is not covered by subsection 54(1) (capacity to contribute percentage) at
 
 36            Australian Education Act 2013       No. 67, 2013
 
@@ -1123,13 +1399,13 @@ Recurrent funding for participating schools Part 3 The funding formula for parti
 
 Section 34
 
-which students receive distance education, add up the following amounts: (a)  the amount that would be the school's base amount under subsection (1) or (2) for the year excluding students receiving distance education at the school; (b)  the amount that would be the school's base amount under subsection (1) or (2) for the year if: (i)  the school were a school consisting only of those students receiving distance education at the school; and (ii)  the SRS funding amount for a student at the school were the percentage of that amount set out in subsection (4); and (iii)  the school's capacity to contribute percentage were 0%. (4)  For the purposes of subparagraph (3)(b)(ii), the percentage is: (a)  35%; or (b)  if the regulations prescribe another percentage for the purposes of this paragraph-that other percentage. Note 1: The percentage set out in this subsection maintains support for a school, while recognising the recurrent cost structure and operating profile of the school. Note 2: A school attracts 100% of the loadings for students who receive distance education at the school.
+which students receive distance education, add up the following amounts: (a)  the amount that would be the school's base amount under subsection (1) or (2) for the year excluding students receiving distance education at the school; (b)  the amount that would be the school's base amount under subsection (1) or (2) for the year if: (i)  the school were a school consisting only of those students receiving distance education at the school; and (ii)  the SRS funding amount for a student at the school were the percentage of that amount set out in subsection (4); and (iii)  the school's capacity to contribute percentage were 0%. (4)  For the purposes of subparagraph (3)(b)(ii), the percentage is: (a)  35%; or (b)  if the regulations prescribe another percentage for the purposes of this paragraph—that other percentage. Note 1: The percentage set out in this subsection maintains support for a school, while recognising the recurrent cost structure and operating profile of the school. Note 2: A school attracts 100% of the loadings for students who receive distance education at the school.
 
 #### 34  SRS funding amounts
 
 ##### SRS funding amount for a primary student
 
-(1)  The SRS funding amount for a year for a primary student is: (a)  for 2014-$9,271; or (b)  if the regulations prescribe another amount for a primary student for the year-that other amount; or (c)  otherwise-the SRS funding amount for a primary student for the year, as indexed under subsection (3). Note: For students receiving distance education, see subsection 33(3).
+(1)  The SRS funding amount for a year for a primary student is: (a)  for 2014—$9,271; or (b)  if the regulations prescribe another amount for a primary student for the year—that other amount; or (c)  otherwise—the SRS funding amount for a primary student for the year, as indexed under subsection (3). Note: For students receiving distance education, see subsection 33(3).
 
 ##### SRS funding amount for a secondary student
 
@@ -1151,107 +1427,23 @@ Division 2 The funding formula for participating schools
 
 Section 35
 
-(a)  for 2014-$12,193; or
+(a)  for 2014—$12,193; or
 
-(b)  if the regulations prescribe another amount for a secondary student for the year-that other amount; or
+(b)  if the regulations prescribe another amount for a secondary student for the year—that other amount; or
 
-(c)  otherwise-the SRS funding amount for a secondary student for the year, as indexed under subsection (3).
+(c)  otherwise—the SRS funding amount for a secondary student for the year, as indexed under subsection (3).
 
 ##### Indexation of SRS funding amounts
 
-- An SRS funding amount for a primary student or a secondary student for a year is indexed as follows:
+(3)  An SRS funding amount for a primary student or a secondary student for a year is indexed as follows:
 
-The SRS funding amount for 103.6% such a student for the previous year 
+The SRS funding amount for such a student for the previous year × 103.6%
 
 ##### SRS funding amount for a student at a combined school
 
-- For the purposes of Division 3 (loadings), the SRS funding amount for a year for a student at a combined school is worked out in accordance with the following formula:
+(4)  For the purposes of Division 3 (loadings), the SRS funding amount for a year for a student at a combined school is worked out in accordance with the following formula:
 
-SRS funding amount for the year for a primary student
-
-SRS funding amount for the year for a secondary student
-
-The number of primary students at the school for the year
-
-The number of secondary students at the school for the year 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The number of students at the school for the year
+(The SRS funding amount for the year for a primary student × The number of primary students at the school for the year + The SRS funding amount for the year for a secondary student × The number of secondary students at the school for the year) / The number of students at the school for the year
 
 Note:
 
@@ -1285,7 +1477,7 @@ Section 35
 
 (f)  the school's size loading for the year.
 
-> Australian Education Act 2013       No. 67, 2013            39
+Australian Education Act 2013       No. 67, 2013            39
 
 ComLaw Authoritative Act C2013A00067
 
@@ -1297,27 +1489,23 @@ Part 3 Recurrent funding for participating schools Division 3 Working out loadin
 
 Section 36
 
-### Division 3-Working out loadings
+### Division 3—Working out loadings
 
-#### Subdivision A-Loadings (except location and size loadings)
+#### Subdivision A—Loadings (except location and size loadings)
 
 #### 36  Student with disability loading
 
-- A school's student with disability loading for a year is the amount worked out using the following formula:
+(1)  A school's student with disability loading for a year is the amount worked out using the following formula:
 
-The SRS funding amount for the year for a student at the school
-
-The number of students with disability at the school for the year 
-
-The disability loading percentage for the school 
+The disability loading percentage for the school × The SRS funding amount for the year for a student at the school × The number of students with disability at the school for the year
 
 Note:
 
 This amount may be rounded up or down (see section 56).
 
-- The disability loading percentage is the percentage prescribed for the school by the regulations.
+(2)  The disability loading percentage is the percentage prescribed for the school by the regulations.
 
-- The number of students with disability at a school for a year is the number of such students receiving primary education or secondary education at the school on the school's census day for the year.
+(3)  The number of students with disability at a school for a year is the number of such students receiving primary education or secondary education at the school on the school's census day for the year.
 
 Note 1:
 
@@ -1327,21 +1515,15 @@ Note 2: For part-time students, see section 17.
 
 #### 37  Aboriginal and Torres Strait Islander loading
 
-- A school's Aboriginal and Torres Strait Islander loading for a year is the amount worked out using the following formula:
+(1)  A school's Aboriginal and Torres Strait Islander loading for a year is the amount worked out using the following formula:
 
-The number of Aboriginal and Torres Strait Islander students at the school for the year
-
-The SRS funding amount for the year for a student at the school
-
-The school's ATSI percentage for the year 
-
-
+The number of Aboriginal and Torres Strait Islander students at the school for the year × The SRS funding amount for the year for a student at the school × The school's ATSI percentage for the year
 
 Note:
 
 This amount may be rounded up or down (see section 56).
 
-- A school's ATSI percentage for a year is the following (expressed as a percentage):
+(2)  A school's ATSI percentage for a year is the following (expressed as a percentage):
 
 40            Australian Education Act 2013       No. 67, 2013
 
@@ -1355,13 +1537,9 @@ Recurrent funding for participating schools Part 3 Working out loadings Division
 
 Section 38
 
-1
+1/5 + (The number of Aboriginal and Torres Strait Islander students at the school for the year / The number of students at the school for the year)
 
-The number of Aboriginal and Torres Strait Islander students at the school for the year
-
-- The number of students at the school 5 for the year 
-
-- The number of Aboriginal and Torres Strait Islander students at a school for a year is the number of such students receiving primary education or secondary education at the school on the school's census day for the year.
+(3)  The number of Aboriginal and Torres Strait Islander students at a school for a year is the number of such students receiving primary education or secondary education at the school on the school's census day for the year.
 
 Note 1:
 
@@ -1373,9 +1551,9 @@ For part-time students, see section 17.
 
 #### 38  Low socioeconomic status student loading
 
-- A school's low socioeconomic status student loading for a year is the amount worked out using the following formula:
+(1)  A school's low socioeconomic status student loading for a year is the amount worked out using the following formula:
 
-The school's The school's quartile 1 amount quartile 2 amount for the year for the year 
+The school's quartile 1 amount for the year + The school's quartile 2 amount for the year
 
 Note:
 
@@ -1383,13 +1561,11 @@ This amount may be rounded up or down (see section 56).
 
 ##### A school's quartile 1 amount
 
-- A school's quartile 1 amount for a year is the amount worked out using the following formula:
+(2)  A school's quartile 1 amount for a year is the amount worked out using the following formula:
 
-The school's quartile 1 percentage for the year The number of students at the school for the year who are in quartile 1
+The school's quartile 1 percentage for the year × The number of students at the school for the year who are in quartile 1 × The SRS funding amount for the year for a student at the school
 
-The SRS funding amount for the year for a student at the school  
-
-- A school's quartile 1 percentage for a year is the lower of 50%, and the amount worked out using the following formula (expressed as a percentage):
+(3)  A school's quartile 1 percentage for a year is the lower of 50%, and the amount worked out using the following formula (expressed as a percentage):
 
 Australian Education Act 2013       No. 67, 2013            41
 
@@ -1403,29 +1579,28 @@ Part 3 Recurrent funding for participating schools Division 3 Working out loadin
 
 Section 39
 
+3/20 + 7/15 × (The number of students at the school for the year who are in quartile 1 / The number of students at the school for the year)
 Note:
 
 To work out the number of students at a school for a year, see sections 16 and 17.
 
-- The number of students at a school for a year who are in quartile 1 is the number prescribed by the regulations.
+(4)  The number of students at a school for a year who are in quartile 1 is the number prescribed by the regulations.
 
 ##### A school's quartile 2 amount
 
-- A school's quartile 2 amount for a year is the amount worked out using the following formula:
+(5)  A school's quartile 2 amount for a year is the amount worked out using the following formula:
 
-The school's quartile 2 percentage for the year 
+The SRS funding amount for the year for a student at the school × The number of students at the school for the year who are in quartile 2 × The school's quartile 2 percentage for the year
 
-The SRS funding amount for the year for a student at the school The number of students at the school for the year who are in quartile 2
+(6)  A school's quartile 2 percentage for a year is the lower of 37.5%, and the amount worked out using the following formula (expressed as a percentage):
 
-
+3/40 + 2/5 × (The number of students at the school for the year who are in quartile 2 / The number of students at the school for the year)
 
-- A school's quartile 2 percentage for a year is the lower of 37.5%, and the amount worked out using the following formula (expressed as a percentage):
-
-- The number of students at a school for a year who are in quartile 2 is the number prescribed by the regulations.
+(7)  The number of students at a school for a year who are in quartile 2 is the number prescribed by the regulations.
 
 #### 39  Low English proficiency loading
 
-- A school's low English proficiency loading for a year is the amount worked out using the following formula:
+(1)  A school's low English proficiency loading for a year is the amount worked out using the following formula:
 
 42            Australian Education Act 2013       No. 67, 2013
 
@@ -1439,25 +1614,25 @@ Recurrent funding for participating schools Part 3 Working out loadings Division
 
 Section 40
 
-The SRS funding for a student 
-
-The number of students at the school for the year who have low English proficiency
+The SRS funding amount for the year for a student at the school × The number of students at the school for the year who have low English proficiency × 10%
 
 Note:
 
 This amount may be rounded up or down (see section 56).
 
-- The number of students at a school for a year who have low English proficiency is the number prescribed by the regulations.
+(2)  The number of students at a school for a year who have low English proficiency is the number prescribed by the regulations.
 
 Note:
 
 For part-time students, see section 17.
 
-#### Subdivision B-Location loading
+#### Subdivision B—Location loading
 
 #### 40  Location loading
 
-- A school's location loading for a year is the amount worked out using the following formula:
+(1)  A school's location loading for a year is the amount worked out using the following formula:
+
+(The SRS funding amount for the year for a student at the school × The number of students at the school for the year + The school's size loading for the year) × The school's location percentage
 
 Note 1:
 
@@ -1469,7 +1644,7 @@ This amount may be rounded up or down (see section 56).
 
 Note 3: For the locations of a school that are covered by this Part, see section 55.
 
-- A school's location percentage is set out in the following table.
+(2)  A school's location percentage is set out in the following table.
 
 Location percentage
 --- | --- | ---
@@ -1492,7 +1667,8 @@ Section 41
 
 Location percentage
 --- | --- | ---
-Item | For this kind of school ... | the school's location percentage is ... under subsection 41(2).
+Item | For this kind of school ... | the school's location percentage is ...
+under subsection 41(2).
 4 | a remote school | the percentage worked out under subsection 41(3).
 5 | a very remote school | the percentage worked out under subsection 41(4).
 
@@ -1500,7 +1676,9 @@ Item | For this kind of school ... | the school's location percentage is ... und
 
 ##### Inner regional schools
 
-- The location percentage for an inner regional school is the number worked out using the following formula divided by 100 (expressed as a percentage):
+(1)  The location percentage for an inner regional school is the number worked out using the following formula divided by 100 (expressed as a percentage):
+
+(The school's ARIA index value − 1) / (2.4 − 1) × 10
 
 Note:
 
@@ -1508,7 +1686,9 @@ The numbers referred to in a fraction in a formula in this section may be change
 
 ##### Outer regional schools
 
-- The location percentage for an outer regional school is the number worked out using the following formula divided by 100 (expressed as a percentage):
+(2)  The location percentage for an outer regional school is the number worked out using the following formula divided by 100 (expressed as a percentage):
+
+10 + (The school's ARIA index value − 2.4) / (6 − 2.4) × 20
 
 44            Australian Education Act 2013       No. 67, 2013
 
@@ -1524,19 +1704,21 @@ Section 42
 
 ##### Remote schools
 
-- The location percentage for a remote school is the number worked out using the following formula divided by 100 (expressed as a percentage):
+(3)  The location percentage for a remote school is the number worked out using the following formula divided by 100 (expressed as a percentage):
+
+30 + (The school's ARIA index value − 6) / (10 − 6) × 40
 
 ##### Very remote schools
 
-- The location percentage for a very remote school is the number worked out using the following formula divided by 100 (expressed as a percentage):
+(4)  The location percentage for a very remote school is the number worked out using the following formula divided by 100 (expressed as a percentage):
 
-#### Subdivision C-Size loading
+70 + (The school's ARIA index value − 10) / (15 − 10) × 10
+
+#### Subdivision C—Size loading
 
 #### 42  Size loading
 
-- The size loading for a school that is a small school for a year is the school's maximum size loading for the year.
-
-- The size loading for a school that is a very small school for a year is the amount worked out in accordance with section 46.
+(1)  The size loading for a school that is a small school for a year is the school's maximum size loading for the year.
 
 Note 1:
 
@@ -1545,6 +1727,8 @@ A school's maximum size loading for a year is worked out under section 44.
 Note 2:
 
 The kinds of school referred to in this section are defined in section 43.
+
+(2)  The size loading for a school that is a very small school for a year is the amount worked out in accordance with section 46.
 
 Note:
 
@@ -1562,15 +1746,15 @@ Part 3 Recurrent funding for participating schools Division 3 Working out loadin
 
 Section 43
 
-- The size loading for a school that is a medium-sized school for a year is the amount worked out in accordance with section 51.
+(3)  The size loading for a school that is a medium-sized school for a year is the amount worked out in accordance with section 51.
 
 Note: A medium-sized school is entitled to a proportion of the maximum size loading, depending on its size.
 
-- The size loading for a school that is a large school for a year is zero.
+(4)  The size loading for a school that is a large school for a year is zero.
 
-#### 43  Definitions-kinds of schools based on size
+#### 43  Definitions—kinds of schools based on size
 
-- The following table sets out definitions of kinds of schools based on size.
+(1)  The following table sets out definitions of kinds of schools based on size.
 
 Definitions of kinds of schools based on size
 --- | --- | ---
@@ -1584,13 +1768,13 @@ Note:
 
 The maximum upper and lower limits are the numbers of students required for a school to be entitled to the maximum size loading. The zero lower limit is the number of students at or above which a school is not entitled to any size loading.
 
-- A school's maximum lower limit is:
+(2)  A school's maximum lower limit is:
 
 (a)  for a primary school:
 
 (i)  15; or
 
-(ii)  if the regulations prescribe another number as the maximum lower limit for a primary school-that number; and
+(ii)  if the regulations prescribe another number as the maximum lower limit for a primary school—that number; and
 
 46            Australian Education Act 2013       No. 67, 2013
 
@@ -1608,37 +1792,37 @@ Section 43
 
 (i)  100; or
 
-(ii)  if the regulations prescribe another number as the maximum lower limit for a secondary school-that number; and
+(ii)  if the regulations prescribe another number as the maximum lower limit for a secondary school—that number; and
 
-(c)  for a combined school for a year-the amount worked out using the following formula:
+(c)  for a combined school for a year—the amount worked out using the following formula:
 
-- A school's maximum upper limit is:
-
-(a)  for a primary school:
-
-(i)  200; or
-
-(ii)  if the regulations prescribe another number as the maximum upper limit for a primary school-that number; and
-
-(b)  for a secondary school:
-
-(i)  500; or
-
-(ii)  if the regulations prescribe another number as the maximum upper limit for a secondary school-that number; and
-
-(c)  for a combined school for a year-the amount worked out using the following formula:
-
-- A school's zero lower limit is:
-
-(a)  for a primary school:
-
-The The The The maximum maximum school's school's lower lower primary secondary limit for a limit for a percentage percentage primary secondary for the year for the year school school                                   
+(The maximum lower limit for a primary school × The school's primary percentage for the year) + (The maximum lower limit for a secondary school × The school's secondary percentage for the year)
 
 Note:
 
 The primary percentage and secondary percentage are defined in section 45.
 
-The The The The maximum maximum school's school's upper upper primary secondary limit for a limit for a percentage percentage primary secondary for the year for the year school school                                   
+(3)  A school's maximum upper limit is:
+
+(a)  for a primary school:
+
+(i)  200; or
+
+(ii)  if the regulations prescribe another number as the maximum upper limit for a primary school—that number; and
+
+(b)  for a secondary school:
+
+(i)  500; or
+
+(ii)  if the regulations prescribe another number as the maximum upper limit for a secondary school—that number; and
+
+(c)  for a combined school for a year—the amount worked out using the following formula:
+
+(The maximum upper limit for a primary school × The school's primary percentage for the year) + (The maximum upper limit for a secondary school × The school's secondary percentage for the year)
+
+(4)  A school's zero lower limit is:
+
+(a)  for a primary school:
 
 Australian Education Act 2013       No. 67, 2013            47
 
@@ -1658,39 +1842,39 @@ Section 44
 
 (i)  300; or
 
-(ii)  if the regulations prescribe another number as the zero lower limit for a primary school-that number; and
+(ii)  if the regulations prescribe another number as the zero lower limit for a primary school—that number; and
 
 (b)  for a secondary school:
 
 (i)  700; or
 
-(ii)  if the regulations prescribe another number as the zero lower limit for a secondary school-that number; and
+(ii)  if the regulations prescribe another number as the zero lower limit for a secondary school—that number; and
 
-(c)  for a combined school for a year-the amount worked out using the following formula:
+(c)  for a combined school for a year—the amount worked out using the following formula:
 
-The zero The zero The school's The school's lower limit lower limit primary secondary for a for a percentage percentage primary secondary for the year for the year school school                               
+(The zero lower limit for a primary school × The school's primary percentage for the year) + (The zero lower limit for a secondary school × The school's secondary percentage for the year)
 
-#### 44  Definitionmaximum size loading
+#### 44  Definition—maximum size loading
 
 ##### Primary schools and secondary schools
 
-- A primary school or secondary school's maximum size loading for a year is:
+(1)  A primary school or secondary school's maximum size loading for a year is:
 
-(a)  for a primary school for 2014-$150,000; and
+(a)  for a primary school for 2014—$150,000; and
 
-(b)  for a secondary school for 2014-$240,000; and
+(b)  for a secondary school for 2014—$240,000; and
 
 (c)  for any other year:
 
 (i)  the school's maximum size loading for the year, as indexed under subsection (2); or
 
-(ii)  if the regulations prescribe another amount as the maximum size loading for the school (whether generally or by reference to a class of schools) for the year-that other amount.
+(ii)  if the regulations prescribe another amount as the maximum size loading for the school (whether generally or by reference to a class of schools) for the year—that other amount.
 
-- A primary school or secondary school's maximum size loading for a year after 2014 is indexed as follows:
+(2)  A primary school or secondary school's maximum size loading for a year after 2014 is indexed as follows:
 
-The school's maximum size loading The indexation percentage for the previous year 
+The school's maximum size loading for the previous year × The indexation percentage
 
-- The indexation percentage is:
+(3)  The indexation percentage is:
 
 48            Australian Education Act 2013       No. 67, 2013
 
@@ -1710,137 +1894,21 @@ Section 45
 
 (a)  103.6%; or
 
-(b)  if the regulations prescribe another percentage for the purposes of this paragraph-that percentage.
+(b)  if the regulations prescribe another percentage for the purposes of this paragraph—that percentage.
 
 ##### Combined schools
 
-- A combined school's maximum size loading for a year is the amount worked out using the following formula:
+(4)  A combined school's maximum size loading for a year is the amount worked out using the following formula:
 
-The
+(The maximum size loading for a primary school for the year × The school's primary percentage for the year) + (The maximum size loading for a secondary school for the year × The school's secondary percentage for the year)
 
-The
+#### 45  Definitions—primary percentage and secondary percentage
 
-maximum
+(1)  A combined school's primary percentage for a year is the percentage of students at the school receiving primary education on the school's census day for the year.
 
-maximum
+(2)  A combined school's secondary percentage for a year is the percentage of students at the school receiving secondary education on the school's census day for the year.
 
-The school's
-
-The school's
-
-size loading
-
-size loading
-
-primary
-
-secondary
-
-for a
-
-for a primary
-
-percentage
-
-percentag
-
-secondary
-
-school
-
-for the year
-
-school
-
-for the year
-
-for the year
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-e
-
-for the year
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### 45  Definitionsprimary percentage and secondary percentage
-
-- A combined school's primary percentage for a year is the percentage of students at the school receiving primary education on the school's census day for the year.
-
-- A combined school's secondary percentage for a year is the percentage of students at the school receiving secondary education on the school's census day for the year.
-
-#### 46  Very small schools-size loading
+#### 46  Very small schools—size loading
 
 The size loading for a school that is a very small school for a year is specified in column 2 of the item that applies to the school.
 
@@ -1848,7 +1916,7 @@ Size loading for very small schools
 --- | --- | ---
 Item | Column 1 For this kind of school … | Column 2 the size loading is …
 1 | a very remote school | the school's maximum size loading for the year.
-2 | a school that: (a) is not a very remote school or | the school's maximum size loading for the year.
+2 | a school that: (a) is not a very remote school or a | the school's maximum size loading for the year.
 
 Australian Education Act 2013       No. 67, 2013            49
 
@@ -1869,6 +1937,8 @@ Section 47
 Size loading for very small schools
 --- | --- | ---
 Item | Column 1 For this kind of school … | Column 2 the size loading is …
+major city school; and
+(b)  has more students at the school for the year than the school's ARIA student number
 3 | a school that is not covered by item 1, 2 or 4 | the amount worked out under section 47.
 4 | a major city school | the amount worked out under section 48.
 
@@ -1876,11 +1946,11 @@ Note:
 
 The school's ARIA student number is a number of students worked out for the school under section 50 by reference to the school's ARIA index value.
 
-#### 47  Very small schools-schools covered by item 3 of the table in section 46
+#### 47  Very small schools—schools covered by item 3 of the table in section 46
 
-- The size loading for a year for a school covered by item 3 of the table in section 46 is worked out using the following formula:
+(1)  The size loading for a year for a school covered by item 3 of the table in section 46 is worked out using the following formula:
 
-The number of students The The The at the school school's school's school's for the ye increased increased maximum starting starting size loading amount amount for the year for the year for the year                    1 ar The school's ARIA student 1 number                        
+The school's increased starting amount for the year + (The school's maximum size loading for the year − The school's increased starting amount for the year) × ((The number of students at the school for the year − 1) / (The school's ARIA student number − 1))
 
 Note 1: The number referred to in the denominator of the fraction in the formula in this subsection may be changed if regulations are made for the purposes of subsection 13(2).
 
@@ -1888,7 +1958,7 @@ Note 2:
 
 To work out the number of students at a school for a year, see sections 16 and 17.
 
-- A school's increased starting amount for a year is worked out using the following formula:
+(2)  A school's increased starting amount for a year is worked out using the following formula:
 
 50            Australian Education Act 2013       No. 67, 2013
 
@@ -1906,6 +1976,8 @@ Part 3 Division 3
 
 Section 48
 
+The school's starting amount for the year + (The school's maximum size loading for the year − The school's starting amount for the year) × ((The school's ARIA index value − 1) / (10 − 1))
+
 Note 1:
 
 The starting amount is defined in section 49.
@@ -1914,23 +1986,25 @@ Note 2:
 
 The numbers referred to in the fraction in the formula in this subsection may be changed if regulations are made for the purposes of subsection 13(2).
 
-#### 48  Very small schools-major city schools
+#### 48  Very small schools—major city schools
 
 The size loading for a year for a school covered by item 4 of the table in section 46 is worked out using the following formula:
+
+The school's starting amount for the year + (The school's maximum size loading for the year − The school's starting amount for the year) × ((The number of students at the school for the year − 1) / (The school's maximum lower limit − 1))
 
 Note:
 
 To work out the number of students at a school for a year, see sections 16 and 17.
 
-#### 49  Very small schools-starting amount
+#### 49  Very small schools—starting amount
 
 ##### Primary and secondary schools
 
-- A primary school or secondary school's starting amount for a year is:
+(1)  A primary school or secondary school's starting amount for a year is:
 
-(a)  for a primary school for 2014-$10,000; and
+(a)  for a primary school for 2014—$10,000; and
 
-(b)  for a secondary school for 2014-$20,000; and
+(b)  for a secondary school for 2014—$20,000; and
 
 (c)  for any other year:
 
@@ -1948,27 +2022,31 @@ Part 3 Recurrent funding for participating schools Division 3 Working out loadin
 
 Section 50
 
-(ii)  if the regulations prescribe another amount as the starting amount for the school (whether generally or by reference to a class of schools) for the year-that other amount.
+(ii)  if the regulations prescribe another amount as the starting amount for the school (whether generally or by reference to a class of schools) for the year—that other amount.
 
-- A primary school or secondary school's starting amount for a year is indexed as follows:
+(2)  A primary school or secondary school's starting amount for a year is indexed as follows:
 
-The school's starting amount The indexation percentage for the previous year 
+The school's starting amount for the previous year × The indexation percentage
 
-- The indexation percentage is:
+(3)  The indexation percentage is:
 
 (a)  103.6%; or
 
-(b)  if the regulations prescribe another percentage for the purposes of this paragraph-that percentage.
+(b)  if the regulations prescribe another percentage for the purposes of this paragraph—that percentage.
 
 ##### Combined schools
 
-- A combined school's starting amount for a year is worked out using the following formula:
+(4)  A combined school's starting amount for a year is worked out using the following formula:
 
-#### 50  Very small schools-ARIA student number
+(The starting amount for a primary school for the year × The school's primary percentage for the year) + (The starting amount for a secondary school for the year × The school's secondary percentage for the year)
+
+#### 50  Very small schools—ARIA student number
 
 A school's ARIA student number is worked out using the following formula:
 
-#### 51  Medium-sized schools-size loading
+The school's maximum lower limit − (The school's maximum lower limit − 1) × ((The school's ARIA index value − 1) / (10 − 1))
+
+#### 51  Medium-sized schools—size loading
 
 The size loading for a medium-sized school for a year is:
 
@@ -1984,13 +2062,9 @@ Recurrent funding for participating schools Part 3 Working out loadings Division
 
 Section 51
 
-The school's zero lower limit  | The number of students at the school for the year | The school's maximum 
---- | --- | ---
-The school's zero lower limit  | The school's maximum upper limit | size loading for the ye ar
+((The school's zero lower limit − The number of students at the school for the year) / (The school's zero lower limit − The school's maximum upper limit)) × The school's maximum size loading for the year
 
-Note: sections 16 and 17.
-
-To work out the number of students at a school for a year, see
+Note: To work out the number of students at a school for a year, see sections 16 and 17.
 
 Australian Education Act 2013       No. 67, 2013            53
 
@@ -2004,17 +2078,37 @@ Part 3 Recurrent funding for participating schools Division 4 Miscellaneous
 
 Section 52
 
-### Division 4-Miscellaneous
+### Division 4—Miscellaneous
 
-#### Subdivision A-Capacity to contribute percentage
+#### Subdivision A—Capacity to contribute percentage
 
 #### 52  Determining SES scores
 
-(1)  The Minister must (subject to subsection (6)) determine, in writing, each participating school's SES score .
+(1)  The Minister must (subject to subsection (6)) determine, in writing, each participating school's SES score.
+
 ##### Determination by legislative instrument
+
 (2)  The Minister may, by legislative instrument, determine the SES score for one or more schools.
+
 ##### Determination by administrative decision
-(3)  If the Minister does not determine a school's SES score under subsection (2), the Minister must determine the SES score for a school under this subsection. Note: Decisions under this subsection are reviewable decisions (see Division 3 of Part 9). (4)  A determination under subsection (3) for a school must be in accordance with the regulations unless the Minister is satisfied doing so would result in an SES score that does not accurately reflect the general socioeconomic circumstances of the persons responsible for students at the school. Note: The regulations may prescribe matters that the Minister may or must have regard to in making a decision under this subsection (see paragraph 130(2)(b)). (5)  A determination of a school's SES score that applies to a year must not be made under subsection (3) after the year has ended unless: (a)  both of the following apply: (i)  the determination (the new determination ) replaces a previous determination that is in force for the school; (ii)  the SES score in the new determination is no higher than the SES score in the previous determination; or (b)  the approved authority for the school agrees in writing to the determination being made retrospectively; or
+
+(3)  If the Minister does not determine a school's SES score under subsection (2), the Minister must determine the SES score for a school under this subsection.
+
+Note: Decisions under this subsection are reviewable decisions (see Division 3 of Part 9).
+
+(4)  A determination under subsection (3) for a school must be in accordance with the regulations unless the Minister is satisfied doing so would result in an SES score that does not accurately reflect the general socioeconomic circumstances of the persons responsible for students at the school.
+
+Note: The regulations may prescribe matters that the Minister may or must have regard to in making a decision under this subsection (see paragraph 130(2)(b)).
+
+(5)  A determination of a school's SES score that applies to a year must not be made under subsection (3) after the year has ended unless:
+
+(a)  both of the following apply:
+
+(i)  the determination (the new determination) replaces a previous determination that is in force for the school;
+
+(ii)  the SES score in the new determination is no higher than the SES score in the previous determination; or
+
+(b)  the approved authority for the school agrees in writing to the determination being made retrospectively; or
 
 54            Australian Education Act 2013       No. 67, 2013
 
@@ -2032,11 +2126,39 @@ Miscellaneous Division 4
 
 Section 53
 
-(c)  the Minister is satisfied that special circumstances justify the determination; or (d)  the determination is made by, or as a result of a decision by, an internal reviewer, the Administrative Appeals Tribunal or a court after reviewing a previous determination that applied to the year. (6)  This section does not apply in relation to the following schools: (a)  a government school; (b)  a special school; (c)  a special assistance school; (d)  a school that is a majority Aboriginal and Torres Strait Islander school for a year; (e)  a sole provider school.
+(c)  the Minister is satisfied that special circumstances justify the determination; or
+
+(d)  the determination is made by, or as a result of a decision by, an internal reviewer, the Administrative Appeals Tribunal or a court after reviewing a previous determination that applied to the year.
+
+(6)  This section does not apply in relation to the following schools:
+
+(a)  a government school;
+
+(b)  a special school;
+
+(c)  a special assistance school;
+
+(d)  a school that is a majority Aboriginal and Torres Strait Islander school for a year;
+
+(e)  a sole provider school.
 
 #### 53  Determinations may be on application or on Minister's own initiative
 
-(1)  A determination of a school's SES score may be made under subsection 52(2) or (3) on the Minister's own initiative. (2)  A determination of a school's SES score may be made under subsection 52(3) on application by the approved authority for the school (or a person who is applying to be the approved authority for the school). Note: For rules relating to applications, see Division 2 of Part 9. (3)  An application made by a person must specify the following: (a)  the school to which the application relates; (b)  the year to which the application relates; (c)  if a determination under section 52 is already in force for the school-the reasons why the person is applying for a new determination. (4)  A person may not apply for a determination of a school's SES score under subsection 52(3) if the school's score has been determined under subsection 52(2).
+(1)  A determination of a school's SES score may be made under subsection 52(2) or (3) on the Minister's own initiative.
+
+(2)  A determination of a school's SES score may be made under subsection 52(3) on application by the approved authority for the school (or a person who is applying to be the approved authority for the school).
+
+Note: For rules relating to applications, see Division 2 of Part 9.
+
+(3)  An application made by a person must specify the following:
+
+(a)  the school to which the application relates;
+
+(b)  the year to which the application relates;
+
+(c)  if a determination under section 52 is already in force for the school—the reasons why the person is applying for a new determination.
+
+(4)  A person may not apply for a determination of a school's SES score under subsection 52(3) if the school's score has been determined under subsection 52(2).
 
 Australian Education Act 2013       No. 67, 2013            55
 
@@ -2052,7 +2174,7 @@ Section 54
 
 #### 54  Capacity to contribute percentage
 
-- The capacity to contribute percentage for any of the following schools is 0%:
+(1)  The capacity to contribute percentage for any of the following schools is 0%:
 
 (a)  a government school;
 
@@ -2064,13 +2186,13 @@ Section 54
 
 (e)  a sole provider school.
 
-- The capacity to contribute percentage for a primary school (except one referred to in subsection (1)) is the percentage in column 2 of the item in the table in subsection (3) that contains the school's SES score.
+(2)  The capacity to contribute percentage for a primary school (except one referred to in subsection (1)) is the percentage in column 2 of the item in the table in subsection (3) that contains the school's SES score.
 
 Note:
 
 A school that has students who receive distance education at the school has a 0% capacity to contribute percentage in relation to those students (see subsection 33(3)).
 
-- The capacity to contribute percentage for a secondary school (except one referred to in subsection (1)) is the percentage in column 3 of the item in the table in this subsection that contains the school's SES score.
+(3)  The capacity to contribute percentage for a secondary school (except one referred to in subsection (1)) is the percentage in column 3 of the item in the table in this subsection that contains the school's SES score.
 
 Note:
 
@@ -2131,7 +2253,7 @@ Item | Column 1 SES score | Column 2 Primary school | Column 3 Secondary school
 32 | 124 | 74.60 | 77.81
 33 | 125 or higher | 80.00 | 80.00
 
-> Australian Education Act 2013       No. 67, 2013            57
+Australian Education Act 2013       No. 67, 2013            57
 
 ComLaw Authoritative Act C2013A00067
 
@@ -2143,23 +2265,23 @@ Part 3 Recurrent funding for participating schools Division 4 Miscellaneous
 
 Section 55
 
-#### Subdivision B-Miscellaneous
+#### Subdivision B—Miscellaneous
 
 #### 55  Locations of a school
 
-For the purposes of this Part, and any other provision of this Act to the extent that it relates to this Part, a reference to a school includes
+For the purposes of this Part, and any other provision of this Act to the extent that it relates to this Part, a reference to a school includes a location of the school only if:
 
-a location of the school only if: (a)  the location is specified in the approval of the approved authority for the school; and (b)  the level of education provided by the school at that location
+(a)  the location is specified in the approval of the approved authority for the school; and
 
-- is specified in that approval.
+(b)  the level of education provided by the school at that location is specified in that approval.
 
 #### 56  Rounding amounts
 
-If any of the following amounts is not a whole dollar, the amount is
+If any of the following amounts is not a whole dollar, the amount is to be rounded to the nearest dollar, rounding up an amount of 50 cents:
 
-to be rounded to the nearest dollar, rounding up an amount of 50 cents: (a)  an amount of financial assistance that is payable to a State or Territory for a year for a participating school, as worked out under section 32; (b)  an amount of a school's loading for a year as referred to in
+(a)  an amount of financial assistance that is payable to a State or Territory for a year for a participating school, as worked out under section 32;
 
-- any of paragraphs 35(a) to (f).
+(b)  an amount of a school's loading for a year as referred to in any of paragraphs 35(a) to (f).
 
 58            Australian Education Act 2013       No. 67, 2013
 
@@ -2177,33 +2299,31 @@ Transitional recurrent funding for participating schools Division 5
 
 Section 57
 
-### Division 5-Transitional recurrent funding for participating schools
+### Division 5—Transitional recurrent funding for participating schools
 
 #### 57  Application of this Division
 
 (1)  This Division applies in relation to an approved authority for one or more participating schools.
 
-- In the situations set out in sections 59, 61 and 62, the amount of financial assistance that is payable under this Division to a State or Territory for a year is payable for an approved authority instead of a school.
+(2)  In the situations set out in sections 59, 61 and 62, the amount of financial assistance that is payable under this Division to a State or Territory for a year is payable for an approved authority instead of a school.
 
 #### 58  New and old per student amounts
 
-- The Minister must determine, in writing, for each approved authority that is an approved authority on 1 January 2014:
+(1)  The Minister must determine, in writing, for each approved authority that is an approved authority on 1 January 2014:
 
 (a)  an old per student amount for 2013 and 2014; and
 
-(b)  if section 59 applies in relation to the approved authority-an old Commonwealth per student amount for 2014.
+(b)  if section 59 applies in relation to the approved authority—an old Commonwealth per student amount for 2014.
 
-- An amount determined under subsection (1) for an approved authority must not be inconsistent with any relevant arrangement of the approved authority.
+(2)  An amount determined under subsection (1) for an approved authority must not be inconsistent with any relevant arrangement of the approved authority.
 
-- The new per student amount , for a year, for an approved authority that is an approved authority on 1 January 2014 is worked out using the following formula:
+(3)  The new per student amount, for a year, for an approved authority that is an approved authority on 1 January 2014 is worked out using the following formula:
 
-The approved authority's total public funding amount for the year for which the approved authority
-
-The total number of students for the year at all schools is approved in that year
+The approved authority's total public funding amount for the year / The total number of students for the year at all schools for which the approved authority is approved in that year
 
 Note: To work out the number of students at a school for a year, see sections 16 and 17.
 
-- The approved authority's total public funding amount for a year is the total amount worked out (subject to subsection (5)) for the year
+(4)  The approved authority's total public funding amount for a year is the total amount worked out (subject to subsection (5)) for the year
 
 Australian Education Act 2013       No. 67, 2013            59
 
@@ -2249,37 +2369,33 @@ Transitional recurrent funding for participating schools Division 5
 
 Section 60
 
-(i)  for an approved authority for government schools located in a State or Territory-the day the determination that the State or Territory is a participating State or Territory comes into force under section 14; and
+(i)  for an approved authority for government schools located in a State or Territory—the day the determination that the State or Territory is a participating State or Territory comes into force under section 14; and
 
-(ii)  for an approved authority for non-government schools-1 January 2014; and
+(ii)  for an approved authority for non-government schools—1 January 2014; and
 
 (b)  ends on the day determined by the Minister as the last day of the authority's transition period.
 
-- The Minister may determine a day as the last day of the authority's transition period.
+(7)  The Minister may determine a day as the last day of the authority's transition period.
 
 ##### Determination not to be inconsistent with relevant arrangement
 
-- A determination made under subsection (3) or (7) for the approved authority must not be inconsistent with any relevant arrangement of the approved authority.
+(8)  A determination made under subsection (3) or (7) for the approved authority must not be inconsistent with any relevant arrangement of the approved authority.
 
 ##### Determination not legislative instrument
 
-- A determination under subsection (3) or (7) is not a legislative instrument.
+(9)  A determination under subsection (3) or (7) is not a legislative instrument.
 
 #### 60  Limits on amount that may be determined for the purposes of section 59
 
-- The amount determined by the Minister under subsection 59(3) must not (subject to subsection (4)) be less than the amount worked out using the following formula:
+(1)  The amount determined by the Minister under subsection 59(3) must not (subject to subsection (4)) be less than the amount worked out using the following formula:
 
-The old Commonwealth per student amount for the approved authority for the year
+The old Commonwealth per student amount for the approved authority for the year × The total number of students for the year at all schools for which the approved authority is approved in that year
 
 Note:
 
-The total number of students for the year at all schools for which the approved authority is approved in that year
-
-
-
 To work out the number of students at a school for a year, see sections 16 and 17.
 
-- The old Commonwealth per student amount for a year after 2014 is indexed as follows:
+(2)  The old Commonwealth per student amount for a year after 2014 is indexed as follows:
 
 Australian Education Act 2013       No. 67, 2013            61
 
@@ -2297,11 +2413,11 @@ Recurrent funding for participating schools Transitional recurrent funding for p
 
 Section 61
 
-The old Commonwealth per student amount 104.7% for the approved authority for the previous year 
+The old Commonwealth per student amount for the approved authority for the previous year × 104.7%
 
-(3)  The amount determined by the Minister under subsection 59(3) must not be more than the total amount that would be payable to the State or Territory under section 32 for the year for all schools for which the approved authority is approved in that year. (4)  If the amount worked out under subsection (1) is more than the total amount referred to in subsection (3), the Minister must
+(3)  The amount determined by the Minister under subsection 59(3) must not be more than the total amount that would be payable to the State or Territory under section 32 for the year for all schools for which the approved authority is approved in that year.
 
-- determine the total amount referred to in subsection (3).
+(4)  If the amount worked out under subsection (1) is more than the total amount referred to in subsection (3), the Minister must determine the total amount referred to in subsection (3).
 
 #### 61  Old per student amount for 2013, increased by 3%, more than new per student amount for 2014
 
@@ -2313,17 +2429,13 @@ The old Commonwealth per student amount 104.7% for the approved authority for th
 
 ##### Old per student amount payable
 
-- The amount payable under this Division to a State or Territory for the approved authority for a year (subject to subsection (4)) is worked out using the following formula:
+(2)  The amount payable under this Division to a State or Territory for the approved authority for a year (subject to subsection (4)) is worked out using the following formula:
 
-The approved authority's old per student amount for the year The total number of students for the year at all schools for which the approved authority is approved in that year
+The approved authority's old per student amount for the year × The total number of students for the year at all schools for which the approved authority is approved in that year
 
-
+Note: To work out the number of students at a school for a year, see sections 16 and 17.
 
-Note: To work out the number of students at a school for a year, see
-
-sections 16 and 17.
-
-- The old per student amount for a year after 2014 is indexed as follows:
+(3)  The old per student amount for a year after 2014 is indexed as follows:
 
 62            Australian Education Act 2013       No. 67, 2013
 
@@ -2341,19 +2453,19 @@ Transitional recurrent funding for participating schools Division 5
 
 Section 62
 
-The approved authority's old 103% per student amount for the previous year 
+The approved authority's old per student amount for the previous year × 103%
 
-- Subsection (2) ceases to apply to the approved authority for a year once the approved authority's new per student amount for the year is equal to or more than the approved authority's old per student amount for that year.
+(4)  Subsection (2) ceases to apply to the approved authority for a year once the approved authority's new per student amount for the year is equal to or more than the approved authority's old per student amount for that year.
 
 ##### When amounts are worked out under section 32
 
-- The amount of financial assistance that is payable under this Part to a State or Territory is worked out under section 32 for each of the approved authority's schools for the year referred to in subsection (4) and each later year.
+(5)  The amount of financial assistance that is payable under this Part to a State or Territory is worked out under section 32 for each of the approved authority's schools for the year referred to in subsection (4) and each later year.
 
-- To avoid doubt, subsection (5) applies in relation to a school even if the approved authority does not become approved for the school or a location of the school until after 1 January 2014.
+(6)  To avoid doubt, subsection (5) applies in relation to a school even if the approved authority does not become approved for the school or a location of the school until after 1 January 2014.
 
 #### 62  Transitional recurrent funding for special schools and special assistance schools for 2014
 
-- This section applies if:
+(1)  This section applies if:
 
 (a)  on 1 January 2014, an approved authority is approved only in relation to one or more special schools or special assistance schools; and
 
@@ -2361,13 +2473,9 @@ The approved authority's old 103% per student amount for the previous year 
 
 ##### Old per student amount payable
 
-- The amount payable under this Division to a State or Territory for the approved authority for 2014 is worked out using the following formula:
+(2)  The amount payable under this Division to a State or Territory for the approved authority for 2014 is worked out using the following formula:
 
-The approved authority's old per student amount for 2014
-
-
-
-The total number of students for 2014 at all schools for which the approved authority is approved in that year
+The approved authority's old per student amount for 2014 × The total number of students for 2014 at all schools for which the approved authority is approved in that year
 
 Australian Education Act 2013       No. 67, 2013            63
 
@@ -2402,7 +2510,7 @@ Recurrent funding for non-participating schools through a national specific purp
 
 Section 64
 
-## Part 4-Recurrent funding for non-participating schools through a national specific purpose payment
+## Part 4—Recurrent funding for non-participating schools through a national specific purpose payment
 
 #### 64  Guide to this Part
 
@@ -2414,13 +2522,13 @@ That amount is indexed each year.
 
 #### 65  National specific purpose payments for schools in non-participating States and Territories
 
-- The amount of financial assistance that is payable under this Part to a State or Territory for a year for non-participating schools located in the State or Territory is the amount worked out in accordance with this section.
+(1)  The amount of financial assistance that is payable under this Part to a State or Territory for a year for non-participating schools located in the State or Territory is the amount worked out in accordance with this section.
 
 ##### Working out the total amount payable for all non-participating States and Territories
 
-- The total amount of financial assistance that is payable to all non-participating States and Territories for a year for non-participating schools located in those States or Territories is:
+(2)  The total amount of financial assistance that is payable to all non-participating States and Territories for a year for non-participating schools located in those States or Territories is:
 
-(a)  for 2014-the FFR amount for 2013 for those States and Territories, indexed in accordance with subsection (3); and
+(a)  for 2014—the FFR amount for 2013 for those States and Territories, indexed in accordance with subsection (3); and
 
 Australian Education Act 2013       No. 67, 2013            65
 
@@ -2434,23 +2542,23 @@ Part 4 Recurrent funding for non-participating schools through a national specif
 
 Section 65
 
-(b)  for any other year-the total amount payable for the previous year under this Part for those States and Territories, indexed in accordance with subsection (3).
+(b)  for any other year—the total amount payable for the previous year under this Part for those States and Territories, indexed in accordance with subsection (3).
 
-- The Minister may, by legislative instrument, determine the manner in which the total amount under subsection (2) is to be indexed for a particular year. The determination must include a statement of the total amount for that year.
+(3)  The Minister may, by legislative instrument, determine the manner in which the total amount under subsection (2) is to be indexed for a particular year. The determination must include a statement of the total amount for that year.
 
 ##### FFR amount for 2013 for non-participating States and Territories
 
-- The FFR amount for 2013 for non-participating States and Territories is worked out using the following formula:
+(4)  The FFR amount for 2013 for non-participating States and Territories is worked out using the following formula:
 
-- The 2012/13 FFR amount for non-participating States and Territories is the total amount payable under subsection 11(1) of the Federal Financial Relations Act 2009 for the financial year starting on 1 July 2012 for those States and Territories (worked out in accordance with paragraph 11(2)(c) and subsection 11(5) of that Act).
+1/2 × (The 2012/13 FFR amount for those States and Territories + The 2013/14 FFR amount for those States and Territories)
 
-- The 2013/14 FFR amount for non-participating States and Territories is the total amount payable under subsection 11(1) of the Federal Financial Relations Act 2009 for the financial year starting on 1 July 2013 for those States and Territories (worked out in accordance with paragraph 11(2)(c) and subsection 11(5) of that Act).
+(5)  The 2012/13 FFR amount for non-participating States and Territories is the total amount payable under subsection 11(1) of the Federal Financial Relations Act 2009 for the financial year starting on 1 July 2012 for those States and Territories (worked out in accordance with paragraph 11(2)(c) and subsection 11(5) of that Act).
 
-1 2012/13 FFR amount 2013/14 FFR amount for those States and Territories for those States and Territories 2          
+(6)  The 2013/14 FFR amount for non-participating States and Territories is the total amount payable under subsection 11(1) of the Federal Financial Relations Act 2009 for the financial year starting on 1 July 2013 for those States and Territories (worked out in accordance with paragraph 11(2)(c) and subsection 11(5) of that Act).
 
 ##### Working out the amount payable for a particular non-participating State or Territory
 
-- The Minister may, by legislative instrument, determine, for each year in which there are at least 2 non-participating States and Territories, the manner in which the total amount under subsection (2) is to be divided between those non-participating States and Territories.
+(7)  The Minister may, by legislative instrument, determine, for each year in which there are at least 2 non-participating States and Territories, the manner in which the total amount under subsection (2) is to be divided between those non-participating States and Territories.
 
 66            Australian Education Act 2013       No. 67, 2013
 
@@ -2466,11 +2574,11 @@ Section 65
 
 ##### Minister to have regard to relevant arrangement
 
-- In making a determination under subsection (3) or (7), the Minister must have regard to any relevant arrangement of the non-participating States and Territories (in their capacity as approved authorities for government schools).
+(8)  In making a determination under subsection (3) or (7), the Minister must have regard to any relevant arrangement of the non-participating States and Territories (in their capacity as approved authorities for government schools).
 
-Note: The Intergovernmental Agreement (within the meaning of section 4 of the Federal Financial Relations Act 2009 ) is a relevant arrangement for non-participating States and Territories.
+Note: The Intergovernmental Agreement (within the meaning of section 4 of the Federal Financial Relations Act 2009) is a relevant arrangement for non-participating States and Territories.
 
-> Australian Education Act 2013       No. 67, 2013            67
+Australian Education Act 2013       No. 67, 2013            67
 
 ComLaw Authoritative Act C2013A00067
 
@@ -2484,9 +2592,9 @@ Division 1 Guide to this Part
 
 Section 66
 
-## Part 5-Capital funding, special circumstances funding and funding for non-government representative bodies
+## Part 5—Capital funding, special circumstances funding and funding for non-government representative bodies
 
-### Division 1-Guide to this Part
+### Division 1—Guide to this Part
 
 #### 66  Guide to this Part
 
@@ -2514,7 +2622,7 @@ Capital funding, special circumstances funding and funding for non-government re
 
 Section 67
 
-### Division 2-Capital funding
+### Division 2—Capital funding
 
 #### 67  Capital funding
 
@@ -2538,7 +2646,7 @@ Note 2: Financial assistance provided for a block grant authority is appropriate
 
 (1)  The total of the amounts that the Minister determines under subsection 67(2) for a year for block grant authorities must not exceed:
 
-(a)  for 2014-the base assistance amount worked out under subsection 84(2) of the Schools Assistance Act 2008 , if that subsection had applied for the year; and
+(a)  for 2014—the base assistance amount worked out under subsection 84(2) of the Schools Assistance Act 2008, if that subsection had applied for the year; and
 
 Australian Education Act 2013       No. 67, 2013            69
 
@@ -2554,9 +2662,27 @@ Section 68
 
 (b)  for any other year: (i)  the base assistance amount, as indexed under subsection (2) of this section; or
 
-(ii)  if the regulations prescribe another amount as the base assistance amount for the year for the purposes of this section-that other amount.
+(ii)  if the regulations prescribe another amount as the base assistance amount for the year for the purposes of this section—that other amount.
+
 ##### Indexing the base assistance amount
-(2)  The base assistance amount is indexed as follows: The base assistance amount The indexation percentage for the previous year  (3)  The indexation percentage is: (a)  100%; or (b)  if the regulations prescribe another percentage (whether more or less than 100%) for the purposes of this paragraph-that percentage. (4)  Before the Governor-General makes regulations for the purposes of subsection (3), the Minister must consider changes in the following indexes: (a)  an index of building prices prescribed by the regulations; (b)  an index of wage costs prescribed by the regulations. (5)  If the base assistance amount worked out under subsection (2) for a year is not a multiple of $1,000, the amount is to be rounded to the nearest $1,000 (rounding $500 upwards).
+
+(2)  The base assistance amount is indexed as follows:
+
+The base assistance amount × The indexation percentage for the previous year
+
+(3)  The indexation percentage is:
+
+(a)  100%; or
+
+(b)  if the regulations prescribe another percentage (whether more or less than 100%) for the purposes of this paragraph—that percentage.
+
+(4)  Before the Governor-General makes regulations for the purposes of subsection (3), the Minister must consider changes in the following indexes:
+
+(a)  an index of building prices prescribed by the regulations;
+
+(b)  an index of wage costs prescribed by the regulations.
+
+(5)  If the base assistance amount worked out under subsection (2) for a year is not a multiple of $1,000, the amount is to be rounded to the nearest $1,000 (rounding $500 upwards).
 ##### Failure to comply with subsection (1)
 (6)  A failure to comply with subsection (1) does not affect the validity of a payment made as a result of a determination made under paragraph 28(1)(b) (Minister to determine timing and amounts of capital funding).
 
@@ -2574,19 +2700,19 @@ representative bodies Part 5
 
 Special circumstances funding Division 3
 
-### Division 3-Special circumstances funding
+Section 69
+
+### Division 3—Special circumstances funding
 
 #### 69  Special circumstances funding
 
-- The Minister may, in writing, determine an amount of financial assistance that is payable under this Division to a State or Territory for a school for a year if the Minister is satisfied that special circumstances justify the determination.
+(1)  The Minister may, in writing, determine an amount of financial assistance that is payable under this Division to a State or Territory for a school for a year if the Minister is satisfied that special circumstances justify the determination.
 
 Note 1: The regulations may prescribe matters that the Minister may or must have regard to in making a decision under this subsection (see paragraph 130(2)(b)).
 
 Note 2: Decisions under this section are not reviewable decisions.
 
-- A determination under subsection (1) is not a legislative instrument.
-
-Section 69
+(2)  A determination under subsection (1) is not a legislative instrument.
 
 Australian Education Act 2013       No. 67, 2013            71
 
@@ -2602,17 +2728,17 @@ Division 4 Funding for non-government representative bodies
 
 Section 70
 
-### Division 4-Funding for non-government representative bodies
+### Division 4—Funding for non-government representative bodies
 
 #### 70  Funding for non-government representative bodies
 
-- The Minister may, in writing, determine an amount of financial assistance that is payable under this Division to a State or Territory for a year for a non-government representative body for a non-government school.
+(1)  The Minister may, in writing, determine an amount of financial assistance that is payable under this Division to a State or Territory for a year for a non-government representative body for a non-government school.
 
 Note 1: The regulations may prescribe matters that the Minister may or must have regard to in making a decision under this subsection (see paragraph 130(2)(b)).
 
 Note 2: Decisions under this section are not reviewable decisions.
 
-- A determination under subsection (1) is not a legislative instrument.
+(2)  A determination under subsection (1) is not a legislative instrument.
 
 72            Australian Education Act 2013       No. 67, 2013
 
@@ -2626,9 +2752,9 @@ Approving authorities and bodies Part 6 Guide to this Part Division 1
 
 Section 71
 
-## Part 6-Approving authorities and bodies
+## Part 6—Approving authorities and bodies
 
-### Division 1-Guide to this Part
+### Division 1—Guide to this Part
 
 #### 71  Guide to this Part
 
@@ -2654,11 +2780,21 @@ Part 6 Approving authorities and bodies Division 2 Approving approved authoritie
 
 Section 72
 
-### Division 2-Approving approved authorities
+### Division 2—Approving approved authorities
 
 #### 72  Application for person to be approved as an approved authority
 
-(1)  A person may apply to the Minister to be approved as an approved authority for one or more schools. Note: For rules relating to applications, see Division 2 of Part 9. (2)  The application must specify the following: (a)  each school for which the application is made; (b)  each location of each school; (c)  for each location of each school-the level of education provided at the location.
+(1)  A person may apply to the Minister to be approved as an approved authority for one or more schools.
+
+Note: For rules relating to applications, see Division 2 of Part 9.
+
+(2)  The application must specify the following:
+
+(a)  each school for which the application is made;
+
+(b)  each location of each school;
+
+(c)  for each location of each school—the level of education provided at the location.
 
 #### 73  Approval of person
 
@@ -2698,9 +2834,9 @@ Section 75
 
 #### 75  Basic requirements for approval
 
-(1)  This section sets out requirements for a person for the purposes of subparagraph 73(1)(b)(i) and paragraph 81(1)(a). Approved authorities for government schools may be taken to satisfy
+(1)  This section sets out requirements for a person for the purposes of subparagraph 73(1)(b)(i) and paragraph 81(1)(a).
 
-Note: the requirements in this section (see section 76).
+Note: Approved authorities for government schools may be taken to satisfy the requirements in this section (see section 76).
 
 ##### Body corporate or body politic
 
@@ -2732,17 +2868,27 @@ Section 76
 
 ##### Matters to have regard to
 
-(6)  For the purposes of determining whether a person satisfies the requirement in subsection (3), (4) or (5), the Minister may have regard to: (a)  for the purposes of subsection (3)-whether the State or Territory Minister for a school in relation to which the person is applying considers that the person conducts the school for profit; and (b)  for the purposes of subsection (4)-the amount of financial assistance the person receives, or is likely to receive, from the Commonwealth, a State or a Territory; and (c)  for the purposes of subsection (5)-whether the person has complied, or is complying, with laws of the Commonwealth, a State or a Territory relating to the provision of school education; and (d)  any other matters the Minister considers relevant. Note: The regulations may prescribe other matters that the Minister may or must have regard to in making a decision under this section (see paragraph 130(2)(b)).
+(6)  For the purposes of determining whether a person satisfies the requirement in subsection (3), (4) or (5), the Minister may have regard to:
+
+(a)  for the purposes of subsection (3)—whether the State or Territory Minister for a school in relation to which the person is applying considers that the person conducts the school for profit; and
+
+(b)  for the purposes of subsection (4)—the amount of financial assistance the person receives, or is likely to receive, from the Commonwealth, a State or a Territory; and
+
+(c)  for the purposes of subsection (5)—whether the person has complied, or is complying, with laws of the Commonwealth, a State or a Territory relating to the provision of school education; and
+
+(d)  any other matters the Minister considers relevant.
+
+Note: The regulations may prescribe other matters that the Minister may or must have regard to in making a decision under this section (see paragraph 130(2)(b)).
 
 ##### Permission under law of relevant State or Territory
 
-- For each level and location specified in the approval, the person is permitted under a law of the relevant State or Territory to provide that level of education at that location.
+(7)  For each level and location specified in the approval, the person is permitted under a law of the relevant State or Territory to provide that level of education at that location.
 
 #### 76  Approved authorities for government schools taken to satisfy basic requirements
 
-- An approved authority for government schools located in a State or Territory is taken to satisfy the requirements in section 75.
+(1)  An approved authority for government schools located in a State or Territory is taken to satisfy the requirements in section 75.
 
-- The Minister may, in writing, determine that subsection (1) does not apply in relation to an approved authority for government schools located in a State or Territory.
+(2)  The Minister may, in writing, determine that subsection (1) does not apply in relation to an approved authority for government schools located in a State or Territory.
 
 Note 1: The regulations may prescribe matters that the Minister may or must have regard to in making a decision under this subsection (see paragraph 130(2)(b)).
 
@@ -2820,7 +2966,29 @@ Approving authorities and bodies Part 6 Approving approved authorities Division 
 
 Section 81
 
-(a)  the Minister is satisfied that the approved authority does not comply, is not complying, or has not complied, with section 75, 77 or 78; or (b)  the Minister is satisfied that the approved authority is not complying or has not complied with a condition to which the approval is subject; or (c)  the Minister is satisfied that varying or revoking the approval is in the public interest; or (d)  for an approved authority for government schools located in a State or Territory-the Minister is satisfied that the State or Territory has not complied with a condition under section 22 or 24, any of paragraphs 23(2)(a) to (d), or subsection 23(3). Note 1: Decisions under paragraphs (1)(a), (b) and (d) are reviewable decisions (see Division 3 of Part 9). Note 2: A report must be laid before each House of the Parliament if the Minister makes a decision under paragraph (1)(c) (see section 127). (2)  Without limiting subsection (1), the Minister may vary an approved authority's approval by making the approval subject to one or more conditions, and the approved authority must comply with those conditions. (3)  The Minister may do either of the following if the Minister is satisfied that a school has ceased to provide primary education or secondary education: (a)  if the approved authority for the school is approved only for that school-revoke the authority's approval; (b)  if the approved authority for the school is approved for other schools as well-vary the authority's approval by removing the school from the approval. (4)  The Minister may vary an approved authority's approval for one or more schools only if the Minister is satisfied that the requirements referred to in paragraph 73(1)(b) are, and will continue to be, satisfied in relation to the varied approval. Note: This subsection is subject to paragraph 74(4)(b) (approval or refusal on public interest grounds).
+(a)  the Minister is satisfied that the approved authority does not comply, is not complying, or has not complied, with section 75, 77 or 78; or
+
+(b)  the Minister is satisfied that the approved authority is not complying or has not complied with a condition to which the approval is subject; or
+
+(c)  the Minister is satisfied that varying or revoking the approval is in the public interest; or
+
+(d)  for an approved authority for government schools located in a State or Territory—the Minister is satisfied that the State or Territory has not complied with a condition under section 22 or 24, any of paragraphs 23(2)(a) to (d), or subsection 23(3).
+
+Note 1: Decisions under paragraphs (1)(a), (b) and (d) are reviewable decisions (see Division 3 of Part 9).
+
+Note 2: A report must be laid before each House of the Parliament if the Minister makes a decision under paragraph (1)(c) (see section 127).
+
+(2)  Without limiting subsection (1), the Minister may vary an approved authority's approval by making the approval subject to one or more conditions, and the approved authority must comply with those conditions.
+
+(3)  The Minister may do either of the following if the Minister is satisfied that a school has ceased to provide primary education or secondary education:
+
+(a)  if the approved authority for the school is approved only for that school—revoke the authority's approval;
+
+(b)  if the approved authority for the school is approved for other schools as well—vary the authority's approval by removing the school from the approval.
+
+(4)  The Minister may vary an approved authority's approval for one or more schools only if the Minister is satisfied that the requirements referred to in paragraph 73(1)(b) are, and will continue to be, satisfied in relation to the varied approval.
+
+Note: This subsection is subject to paragraph 74(4)(b) (approval or refusal on public interest grounds).
 
 Australian Education Act 2013       No. 67, 2013            81
 
@@ -2848,7 +3016,7 @@ Approving authorities and bodies Part 6 Approving block grant authorities Divisi
 
 Section 82
 
-### Division 3-Approving block grant authorities
+### Division 3—Approving block grant authorities
 
 #### 82  Application for person to be approved as a block grant authority
 
@@ -2902,7 +3070,7 @@ Note: The regulations may prescribe other matters that the Minister may or must 
 
 ##### Permission from approved authority
 
-(7)  For each school specified (whether expressly or by reference to an approved authority) in an approval of a block grant authority, the block grant authority has the written permission of the approved authority for the school to receive financial assistance that is payable under Division 2 of Part 5.
+(7)  For each school specified (whether expressly or by reference to an approved authority) in an approval of a block grant authority, the
 
 84            Australian Education Act 2013       No. 67, 2013
 
@@ -2916,13 +3084,17 @@ Approving authorities and bodies Part 6 Approving block grant authorities Divisi
 
 Section 85
 
+block grant authority has the written permission of the approved authority for the school to receive financial assistance that is payable under Division 2 of Part 5.
+
 #### 85  Ongoing requirements for approval
 
 (1)  This section sets out the ongoing requirements for the purposes of subparagraph 83(1)(b)(ii) and paragraph 88(1)(a). (2)  The ongoing requirements for an approval of a block grant authority are the following: (a)  the block grant authority deals, in accordance with the regulations, with financial assistance that is payable under Division 2 of Part 5 to the authority; (b)  the block grant authority complies with requirements prescribed by the regulations in relation to monitoring the authority's compliance with this Act; (c)  the block grant authority provides information in accordance with the regulations. (3)  Without limiting paragraph (2)(a), the regulations may: (a)  specify how financial assistance that is payable to a State or Territory under Division 2 of Part 5 for a block grant authority is to be allocated in relation to schools; and (b)  provide for requirements for review of decisions of the block grant authority on how to allocate that financial assistance. (4)  Without limiting paragraph (2)(c), the regulations may require the block grant authority to provide: (a)  information relating to the administration and operation of a school; and (b)  information to the public about a school.
 
 #### 86  Limitation on approval
 
-A block grant authority is approved only for: (a)  schools specified in the approval; or Part 6 Approving authorities and bodies
+A block grant authority is approved only for:
+
+(a)  schools specified in the approval; or
 
 Australian Education Act 2013       No. 67, 2013            85
 
@@ -2932,11 +3104,13 @@ ComLaw Authoritative Act C2013A00067
 
 [[START OF PAGE 94]]
 
+Part 6 Approving authorities and bodies
+
 Division 3 Approving block grant authorities
 
 Section 87
 
-(b)  if the approval instead specifies an approved authority (see subsection 82(2))-the schools for which the approved authority is, from time to time, approved.
+(b)  if the approval instead specifies an approved authority (see subsection 82(2))—the schools for which the approved authority is, from time to time, approved.
 
 #### 87  Variation or revocation of approval on application
 
@@ -2958,9 +3132,17 @@ Approving authorities and bodies Part 6 Approving block grant authorities Divisi
 
 Section 88
 
-(3)  The Minister may do either of the following if the Minister is satisfied that a school has ceased to provide primary education or secondary education: (a)  if a block grant authority for the school is approved only for that school-revoke the approval of the authority; (b)  if a block grant authority for the school is approved for other schools as well-vary the approval of the authority by removing the school from the approval. (4)  The Minister may vary an approval of a block grant authority for one or more schools only if the Minister is satisfied that the requirements referred to in paragraph 83(1)(b) are, and will continue to be, satisfied in relation to the varied approval. (5)  A variation or revocation must specify the day on which the variation or revocation takes effect, which may be earlier than the day the Minister varies or revokes the approval.
+(3)  The Minister may do either of the following if the Minister is satisfied that a school has ceased to provide primary education or secondary education:
 
-> Australian Education Act 2013       No. 67, 2013            87
+(a)  if a block grant authority for the school is approved only for that school—revoke the approval of the authority;
+
+(b)  if a block grant authority for the school is approved for other schools as well—vary the approval of the authority by removing the school from the approval.
+
+(4)  The Minister may vary an approval of a block grant authority for one or more schools only if the Minister is satisfied that the requirements referred to in paragraph 83(1)(b) are, and will continue to be, satisfied in relation to the varied approval.
+
+(5)  A variation or revocation must specify the day on which the variation or revocation takes effect, which may be earlier than the day the Minister varies or revokes the approval.
+
+Australian Education Act 2013       No. 67, 2013            87
 
 ComLaw Authoritative Act C2013A00067
 
@@ -2968,13 +3150,13 @@ ComLaw Authoritative Act C2013A00067
 
 [[START OF PAGE 96]]
 
-Division 4 Approving non-government representative bodies
-
 Part 6 Approving authorities and bodies
+
+Division 4 Approving non-government representative bodies
 
 Section 89
 
-### Division 4-Approving non-government representative bodies
+### Division 4—Approving non-government representative bodies
 
 #### 89  Minister may invite a person to apply to be a non-government representative body
 
@@ -3004,21 +3186,21 @@ Section 92
 
 #### 92  Basic requirements for approval
 
-- This section sets out requirements for a person for the purposes of subparagraph 91(1)(b)(i) and paragraph 96(1)(a).
+(1)  This section sets out requirements for a person for the purposes of subparagraph 91(1)(b)(i) and paragraph 96(1)(a).
 
 ##### Body corporate
 
-- The person is a body corporate.
+(2)  The person is a body corporate.
 
 ##### Not-for-profit
 
-- The person is a not-for-profit organisation.
+(3)  The person is a not-for-profit organisation.
 
 ##### Financial viability
 
-- The person is financially viable.
+(4)  The person is financially viable.
 
-> Australian Education Act 2013       No. 67, 2013            89
+Australian Education Act 2013       No. 67, 2013            89
 
 ComLaw Authoritative Act C2013A00067
 
@@ -3034,9 +3216,9 @@ Section 93
 
 ##### Fit and proper person
 
-(5)  The person is fit and proper to be a non-government representative body for a non-government school. have regard to in making a decision under this section (see paragraph
+(5)  The person is fit and proper to be a non-government representative body for a non-government school.
 
-Note: The regulations may prescribe matters that the Minister may or must 130(2)(b)).
+Note: The regulations may prescribe matters that the Minister may or must have regard to in making a decision under this section (see paragraph 130(2)(b)).
 
 ##### Matters to have regard to
 
@@ -3064,7 +3246,9 @@ Approving non-government representative bodies Division 4
 
 Section 95
 
-(a)  schools specified in the approval; or (b)  if the approval instead specifies an approved authority (see subsection 90(2))-the schools for which the authority is, from time to time, approved.
+(a)  schools specified in the approval; or
+
+(b)  if the approval instead specifies an approved authority (see subsection 90(2))—the schools for which the authority is, from time to time, approved.
 
 #### 95  Variation or revocation of approval on application
 
@@ -3100,7 +3284,7 @@ Implementation plans Part 7
 
 Section 97
 
-## Part 7-Implementation plans
+## Part 7—Implementation plans
 
 #### 97  Guide to this Part
 
@@ -3126,11 +3310,9 @@ ComLaw Authoritative Act C2013A00067
 
 [[START OF PAGE 102]]
 
+Part 7 Implementation plans
+
 Section 100
-
-Part 7
-
-Implementation plans
 
 (i)  achieving the objects of this Act, including the 5 reform directions of quality teaching, quality learning, empowered school leadership, transparency and accountability, and meeting student need; (ii)  achieving outcomes for school education, agreed by the Ministerial Council, and prescribed by the regulations; (b)  set out how the activities, programs and initiatives will contribute to achieving those objects, directions and outcomes; (c)  set out milestones and timelines for implementing the activities, programs and initiatives; (d)  set out performance indicators to measure the authority's progress against the milestones and timelines; (e)  set out the mechanisms for obtaining and evaluating feedback on that progress; (f)  set out the day the implementation plan is to start; (g)  comply with any other requirements prescribed by the regulations. (3)  The implementation plan must relate to the period of at least 6 years starting on the day specified under paragraph (2)(f). (4)  In dealing with matters for the purposes of subsection (2), the implementation plan must take into account any relevant arrangement of the approved authority.
 
@@ -3212,9 +3394,9 @@ Part 8 Actions Minister may take for failure to comply with this Act, and to req
 
 Section 107
 
-## Part 8-Actions Minister may take for failure to comply with this Act, and to require amounts to be repaid
+## Part 8—Actions Minister may take for failure to comply with this Act, and to require amounts to be repaid
 
-### Division 1-Guide to this Part
+### Division 1—Guide to this Part
 
 #### 107  Guide to this Part
 
@@ -3234,7 +3416,7 @@ Actions Minister may take for failure to comply with this Act, and to require am
 
 Section 108
 
-### Division 2-Actions Minister may take for failure to comply with this Act, and to require amounts to be repaid
+### Division 2—Actions Minister may take for failure to comply with this Act, and to require amounts to be repaid
 
 #### 108  Application of Division for failure to comply with this Act
 
@@ -3266,11 +3448,11 @@ Section 109
 
 ##### Unpaid amounts under other Acts
 
-(3)  This Division applies to a State or Territory if: (a)  any of the following applies: (i)  the State or Territory has been paid an amount under section 11 of the Federal Financial Relations Act 2009 in excess of the amount that it was entitled to receive under that section; (ii)  an approved authority or block grant authority for one or more schools located in the State or Territory, or the State or Territory, has been paid an amount under the Schools Assistance Act 2008 in excess of the amount that it was entitled to receive under that Act; (iii)  an approved authority or block grant authority for one or more schools located in the State or Territory, or the State or Territory, has been paid an amount under the Schools Assistance (Learning Together-Achievement Through Choice and Opportunity) Act 2004 in excess of the amount that it was entitled to receive under that Act; (iv)  an approved authority for one or more schools located in the State or Territory, or the State or Territory, has been paid an amount under the States Grants (Primary and Secondary Education Assistance) Act 2000 in excess of the amount that it was entitled to receive under that Act; and (b)  the whole or a part of the amount has not been repaid.
+(3)  This Division applies to a State or Territory if: (a)  any of the following applies: (i)  the State or Territory has been paid an amount under section 11 of the Federal Financial Relations Act 2009 in excess of the amount that it was entitled to receive under that section; (ii)  an approved authority or block grant authority for one or more schools located in the State or Territory, or the State or Territory, has been paid an amount under the Schools Assistance Act 2008 in excess of the amount that it was entitled to receive under that Act; (iii)  an approved authority or block grant authority for one or more schools located in the State or Territory, or the State or Territory, has been paid an amount under the Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Act 2004 in excess of the amount that it was entitled to receive under that Act; (iv)  an approved authority for one or more schools located in the State or Territory, or the State or Territory, has been paid an amount under the States Grants (Primary and Secondary Education Assistance) Act 2000 in excess of the amount that it was entitled to receive under that Act; and (b)  the whole or a part of the amount has not been repaid.
 
 ##### Recovering capital funding
 
-(4)  This Division applies to a State or Territory if: (a)  an amount of financial assistance is paid to the State or Territory under Division 2 of Part 5 (capital funding) for a Actions Minister may take for failure to comply with this Act, and to require amounts to be repaid Part 8 Actions Minister may take for failure to comply with this Act, and to require amounts to be repaid Division 2
+(4)  This Division applies to a State or Territory if: (a)  an amount of financial assistance is paid to the State or Territory under Division 2 of Part 5 (capital funding) for a
 
 100            Australian Education Act 2013       No. 67, 2013
 
@@ -3280,13 +3462,15 @@ ComLaw Authoritative Act C2013A00067
 
 [[START OF PAGE 109]]
 
+Actions Minister may take for failure to comply with this Act, and to require amounts to be repaid Part 8
+Actions Minister may take for failure to comply with this Act, and to require amounts to be repaid Division 2
 Section 110
 
 block grant authority or capital grants authority for a school; and (b)  the amount is spent as capital expenditure in relation to the school; and (c)  the school ceases to provide primary education or secondary education; and (d)  the regulations prescribe that the amount is recoverable.
 
 #### 110  Actions the Minister may take
 
-(1)  The Minister may take any one or more of the following actions in relation to a State or Territory to which this Division applies: (a)  determine, in writing, that the State or Territory pay to the Commonwealth a specified amount; (b)  determine, in writing, that the amount of financial assistance that is payable to the State or Territory under this Act is reduced by a specified amount; (c)  delay making any further payment (or a part of a further payment) to the State or Territory under this Act for a year until: (i)  if this Division applies because of section 108-the non-compliance, breach or failure is rectified; and (ii)  if this Division applies because of section 109-the overpayment, the amount of the recoverable payment, or the unpaid amount referred to in paragraph 109(3)(b), is repaid. Note 1: For the effect of a determination made under paragraph (1)(a) or (b), see sections 24 and 111. Note 2: Decisions under this section are reviewable decisions (see Division 3 of Part 9). Note 3: Under subsection 33(3) of the Acts Interpretation Act 1901 , the Minister could revoke a determination that reduces the amount of financial assistance that is payable to a State or Territory. This would require the amount of the reduction to be paid by the Commonwealth to the State or Territory. (2)  An amount may be reduced or a payment delayed under paragraph (1)(b) or (c):
+(1)  The Minister may take any one or more of the following actions in relation to a State or Territory to which this Division applies: (a)  determine, in writing, that the State or Territory pay to the Commonwealth a specified amount; (b)  determine, in writing, that the amount of financial assistance that is payable to the State or Territory under this Act is reduced by a specified amount; (c)  delay making any further payment (or a part of a further payment) to the State or Territory under this Act for a year until: (i)  if this Division applies because of section 108—the non-compliance, breach or failure is rectified; and (ii)  if this Division applies because of section 109—the overpayment, the amount of the recoverable payment, or the unpaid amount referred to in paragraph 109(3)(b), is repaid. Note 1: For the effect of a determination made under paragraph (1)(a) or (b), see sections 24 and 111. Note 2: Decisions under this section are reviewable decisions (see Division 3 of Part 9). Note 3: Under subsection 33(3) of the Acts Interpretation Act 1901, the Minister could revoke a determination that reduces the amount of financial assistance that is payable to a State or Territory. This would require the amount of the reduction to be paid by the Commonwealth to the State or Territory. (2)  An amount may be reduced or a payment delayed under paragraph (1)(b) or (c):
 
 Australian Education Act 2013       No. 67, 2013            101
 
@@ -3296,11 +3480,9 @@ ComLaw Authoritative Act C2013A00067
 
 [[START OF PAGE 110]]
 
-Part 8 amounts to be repaid
+Part 8 Actions Minister may take for failure to comply with this Act, and to require amounts to be repaid
 
-Division 2 amounts to be repaid
-
-Actions Minister may take for failure to comply with this Act, and to require Actions Minister may take for failure to comply with this Act, and to require
+Division 2 Actions Minister may take for failure to comply with this Act, and to require amounts to be repaid
 
 Section 111
 
@@ -3326,7 +3508,7 @@ Section 111
 
 ##### Effect of determination under paragraph 110(1)(b)
 
-(2)  Subsection (3) applies if the Minister determines under paragraph 110(1)(b) that the amount of financial assistance that is payable to Actions Minister may take for failure to comply with this Act, and to require amounts to be repaid Part 8 Actions Minister may take for failure to comply with this Act, and to require amounts to be repaid Division 2
+(2)  Subsection (3) applies if the Minister determines under paragraph 110(1)(b) that the amount of financial assistance that is payable to
 
 102            Australian Education Act 2013       No. 67, 2013
 
@@ -3336,11 +3518,13 @@ ComLaw Authoritative Act C2013A00067
 
 [[START OF PAGE 111]]
 
+Actions Minister may take for failure to comply with this Act, and to require amounts to be repaid Part 8
+Actions Minister may take for failure to comply with this Act, and to require amounts to be repaid Division 2
 Section 111
 
 a State or Territory under this Act is reduced by a specified amount: (a)  for one or more schools for one or more years; or (b)  for an approved authority for a year; or (c)  for a capital grants authority or block grant authority for a school for a year; or (d)  for a non-government representative body for a non-government school for a year. (3)  For the purposes of this Act, the amount that is payable to the State or Territory for the schools, authority or body for the year under the following provision (as the case requires) is reduced by the amount specified: (a)  Division 2 of Part 3 (recurrent funding for participating schools); (b)  Division 5 of Part 3 (transitional recurrent funding for participating schools); (c)  Part 4 (recurrent funding for non-participating schools); (d)  subsection 67(1) (capital funding for capital grants authorities); (e)  subsection 67(2) (capital funding for block grant authorities); (f)  Division 3 of Part 5 (special circumstances funding); (g)  Division 4 of Part 5 (funding for non-government representative bodies). Note: This affects the amounts of the payments of financial assistance that are determined under section 25, 28, 29 or 30.
 
-> Australian Education Act 2013       No. 67, 2013            103
+Australian Education Act 2013       No. 67, 2013            103
 
 ComLaw Authoritative Act C2013A00067
 
@@ -3352,7 +3536,7 @@ Part 8 Actions Minister may take for failure to comply with this Act, and to req
 
 Section 112
 
-### Division 3-Recoverable payments
+### Division 3—Recoverable payments
 
 #### 112  Recoverable payments
 
@@ -3364,7 +3548,7 @@ Section 112
 
 #### 113  Reports about recoverable payments
 
-(1)  The Secretary must cause the following information to be included in the Department's annual report for a financial year: (a)  the number of recoverable payments that departmental officials are aware of that were paid during that financial year; (b)  the total amount of recoverable payments referred to in paragraph (a); (c)  the number of recoverable payments that departmental officials became aware of during that financial year that were paid during an earlier financial year; (d)  the total amount of recoverable payments referred to in paragraph (c); (e)  for each recoverable payment referred to in paragraph (c)the financial year in which the payment was made.
+(1)  The Secretary must cause the following information to be included in the Department's annual report for a financial year: (a)  the number of recoverable payments that departmental officials are aware of that were paid during that financial year; (b)  the total amount of recoverable payments referred to in paragraph (a); (c)  the number of recoverable payments that departmental officials became aware of during that financial year that were paid during an earlier financial year; (d)  the total amount of recoverable payments referred to in paragraph (c); (e)  for each recoverable payment referred to in paragraph (c)—the financial year in which the payment was made.
 
 104            Australian Education Act 2013       No. 67, 2013
 
@@ -3378,7 +3562,7 @@ Actions Minister may take for failure to comply with this Act, and to require am
 
 Section 113
 
-- Information is not required in the Department's annual report if no departmental officials are aware of any recoverable payments referred to in paragraph (1)(a) or (c).
+(2)  Information is not required in the Department's annual report if no departmental officials are aware of any recoverable payments referred to in paragraph (1)(a) or (c).
 
 Australian Education Act 2013       No. 67, 2013            105
 
@@ -3392,9 +3576,9 @@ Part 9 Miscellaneous Division 1 Guide to this Part
 
 Section 114
 
-## Part 9-Miscellaneous
+## Part 9—Miscellaneous
 
-### Division 1-Guide to this Part
+### Division 1—Guide to this Part
 
 #### 114  Guide to this Part
 
@@ -3418,7 +3602,7 @@ Rules relating to applications Division 2
 
 Section 115
 
-### Division 2-Rules relating to applications
+### Division 2—Rules relating to applications
 
 #### 115  Approved form for applications
 
@@ -3444,11 +3628,11 @@ Part 9 Miscellaneous Division 3 Review of decisions
 
 Section 118
 
-### Division 3-Review of decisions
+### Division 3—Review of decisions
 
 #### 118  Reviewable decisions
 
-- Each of the decisions referred to in column 1 of the following table is a reviewable decision .
+(1)  Each of the decisions referred to in column 1 of the following table is a reviewable decision.
 
 Reviewable decisions
 --- | --- | --- | ---
@@ -3564,11 +3748,12 @@ Section 119
 Reviewable decisions
 --- | --- | --- | ---
 Item | Column 1 Reviewable decision | Column 2 Provision under which the reviewable decision is made | Column 3 Relevant person for the reviewable decision
-27 | for a school To reduce the amount payable to a State or Territory for a year for a capital grants authority, a block grant authority or a | Section 110 | The authority or body
+for a school or an approved authority for a school
+27 | To reduce the amount payable to a State or Territory for a year for a capital grants authority, a block grant authority or a non-government representative body | Section 110 | The authority or body
 
 (2)  The regulations may also:
 
-(a)  prescribe a decision made under a specified provision of the regulations as a reviewable decision ; and
+(a)  prescribe a decision made under a specified provision of the regulations as a reviewable decision; and
 
 (b)  specify the relevant person for the reviewable decision.
 
@@ -3600,11 +3785,11 @@ Section 120
 
 ##### Application for review
 
-(1)  A relevant person for a reviewable decision may apply to the Secretary for review of the decision, unless the decision was made by the Minister or Secretary personally. Note: For review of a decision made personally, see section 122. (2)  An application for review must: (a)  be in writing; and (b)  set out the reasons for the application; and (c)  be made within: (i)  30 days after the decision was made; or (ii)  if the Secretary allows a longer period (whether before or after the end of the period referred to in subparagraph (i))-that longer period. Note: Under section 121, further information may be required in relation to an application.
+(1)  A relevant person for a reviewable decision may apply to the Secretary for review of the decision, unless the decision was made by the Minister or Secretary personally. Note: For review of a decision made personally, see section 122. (2)  An application for review must: (a)  be in writing; and (b)  set out the reasons for the application; and (c)  be made within: (i)  30 days after the decision was made; or (ii)  if the Secretary allows a longer period (whether before or after the end of the period referred to in subparagraph (i))—that longer period. Note: Under section 121, further information may be required in relation to an application.
 
 ##### Review of decision
 
-(3)  On receiving an application, the Secretary must either: (a)  review the reviewable decision personally; or (b)  cause the reviewable decision to be reviewed by a person (the internal reviewer ) who: (i)  is a person to whom the power to make the decision has been delegated; and (ii)  was not involved in making the decision; and (iii)  if the decision was made by an individual-occupies a position that is at least the same level as the individual who actually made the decision. Note: Decisions may be made by computer programs (see section 124). (4)  In reviewing a decision, the Secretary or internal reviewer may exercise all powers and discretions that are conferred on the person who made the decision. (5)  The Secretary or the internal reviewer may:
+(3)  On receiving an application, the Secretary must either: (a)  review the reviewable decision personally; or (b)  cause the reviewable decision to be reviewed by a person (the internal reviewer) who: (i)  is a person to whom the power to make the decision has been delegated; and (ii)  was not involved in making the decision; and (iii)  if the decision was made by an individual—occupies a position that is at least the same level as the individual who actually made the decision. Note: Decisions may be made by computer programs (see section 124). (4)  In reviewing a decision, the Secretary or internal reviewer may exercise all powers and discretions that are conferred on the person who made the decision. (5)  The Secretary or the internal reviewer may:
 
 114            Australian Education Act 2013       No. 67, 2013
 
@@ -3620,7 +3805,7 @@ Review of decisions Division 3
 
 Section 121
 
-(a)  affirm, vary or set aside the reviewable decision; and (b)  if he or she sets aside the reviewable decision-make such other decision as he or she thinks appropriate. (6)  The decision (the decision on review ) of the Secretary or internal reviewer is taken (other than for the purposes of section 118) to have been made under the provision under which the original decision was made. (7)  The decision on review takes effect: (a)  on the day specified in the decision on review; or (b)  if a day is not specified-on the day the decision on review was made.
+(a)  affirm, vary or set aside the reviewable decision; and (b)  if he or she sets aside the reviewable decision—make such other decision as he or she thinks appropriate. (6)  The decision (the decision on review) of the Secretary or internal reviewer is taken (other than for the purposes of section 118) to have been made under the provision under which the original decision was made. (7)  The decision on review takes effect: (a)  on the day specified in the decision on review; or (b)  if a day is not specified—on the day the decision on review was made.
 ##### Notice of decision
 (8)  After the decision on review is made, the person who made the decision must give the applicant a written notice containing: (a)  the terms of the decision; and (b)  the reasons for the decision; and (c)  notice of any right of the applicant to have the decision reviewed by the Administrative Appeals Tribunal. However, a failure to comply with this subsection does not affect the validity of the decision.
 
@@ -3644,7 +3829,7 @@ Section 122
 
 #### 122  Review by the Administrative Appeals Tribunal
 
-(1)  An application may be made to the Administrative Appeals Tribunal for review of: (a)  a reviewable decision made by the Minister or Secretary personally; or (b)  a decision of the Secretary or an internal reviewer made in accordance with section 120 that relates to a reviewable decision. (2)  However, an application may not be made to the Administrative Appeals Tribunal for review of a decision to determine a total entitlement for an approved authority for a year if the amount of financial assistance to which the determination relates is payable under Division 5 of Part 3 (transitional recurrent funding for participating schools). (3)  An application under subsection (1) may be made only by, or on behalf of, the relevant person for the reviewable decision referred to in paragraph (1)(a) or (b). (4)  Subsection (3) has effect despite subsection 27(1) of the Administrative Appeals Tribunal Act 1975 .
+(1)  An application may be made to the Administrative Appeals Tribunal for review of: (a)  a reviewable decision made by the Minister or Secretary personally; or (b)  a decision of the Secretary or an internal reviewer made in accordance with section 120 that relates to a reviewable decision. (2)  However, an application may not be made to the Administrative Appeals Tribunal for review of a decision to determine a total entitlement for an approved authority for a year if the amount of financial assistance to which the determination relates is payable under Division 5 of Part 3 (transitional recurrent funding for participating schools). (3)  An application under subsection (1) may be made only by, or on behalf of, the relevant person for the reviewable decision referred to in paragraph (1)(a) or (b). (4)  Subsection (3) has effect despite subsection 27(1) of the Administrative Appeals Tribunal Act 1975.
 
 116            Australian Education Act 2013       No. 67, 2013
 
@@ -3658,7 +3843,7 @@ Miscellaneous Part 9 Miscellaneous Division 4
 
 Section 123
 
-### Division 4-Miscellaneous
+### Division 4—Miscellaneous
 
 #### 123  False or misleading information
 
@@ -3686,7 +3871,7 @@ Division 4 Miscellaneous
 
 Section 126
 
-Note: This section constitutes an authorisation for the purposes of other laws, such as the Privacy Act 1988 . (2)  The Minister may publish, in any manner he or she thinks fit, protected information (except personal information). (3)  Without limiting subsection (1), the regulations may prescribe the following: (a)  a person or body to whom protected information may be disclosed; (b)  the purposes for which protected information may be recorded, used or disclosed (whether by the Minister or any other person); (c)  conditions (other than conditions determined by the Minister) on any record, use or disclosure of protected information. Note: The regulations may prescribe offences in relation to making records of, using or disclosing protected information (see paragraph 130(2)(a)).
+Note: This section constitutes an authorisation for the purposes of other laws, such as the Privacy Act 1988. (2)  The Minister may publish, in any manner he or she thinks fit, protected information (except personal information). (3)  Without limiting subsection (1), the regulations may prescribe the following: (a)  a person or body to whom protected information may be disclosed; (b)  the purposes for which protected information may be recorded, used or disclosed (whether by the Minister or any other person); (c)  conditions (other than conditions determined by the Minister) on any record, use or disclosure of protected information. Note: The regulations may prescribe offences in relation to making records of, using or disclosing protected information (see paragraph 130(2)(a)).
 
 #### 126  Appropriation
 
@@ -3743,7 +3928,7 @@ Section 130
 
 ##### Content of the regulations
 
-(2)  Without limiting subsection (1), the regulations may prescribe the following: (a)  penalties, not exceeding 50 penalty units, for offences in the regulations relating to: (i)  the requirement to provide information relating to a school's census; or (ii)  making records of, using or disclosing protected information; (b)  if a provision of this Act (including the regulations) permits or requires a decision to be made-matters that the decision-maker may or must (as prescribed by the regulations) have regard to in making the decision. Example: A provision of this Act permits or requires a decision to be made if the provision permits or requires the Minister to make a determination of an administrative character. (3)  The regulations may allow the Minister to determine matters in relation to anything in relation to which regulations may be made. (4)  Despite subsection 14(2) of the Legislative Instruments Act 2003 , the regulations may provide in relation to a matter by applying, adopting or incorporating, with or without modification, any matter contained in any other instrument or other writing as in force or existing from time to time.
+(2)  Without limiting subsection (1), the regulations may prescribe the following: (a)  penalties, not exceeding 50 penalty units, for offences in the regulations relating to: (i)  the requirement to provide information relating to a school's census; or (ii)  making records of, using or disclosing protected information; (b)  if a provision of this Act (including the regulations) permits or requires a decision to be made—matters that the decision-maker may or must (as prescribed by the regulations) have regard to in making the decision. Example: A provision of this Act permits or requires a decision to be made if the provision permits or requires the Minister to make a determination of an administrative character. (3)  The regulations may allow the Minister to determine matters in relation to anything in relation to which regulations may be made. (4)  Despite subsection 14(2) of the Legislative Instruments Act 2003, the regulations may provide in relation to a matter by applying, adopting or incorporating, with or without modification, any matter contained in any other instrument or other writing as in force or existing from time to time.
 
 120            Australian Education Act 2013       No. 67, 2013
 
@@ -3759,9 +3944,11 @@ Section 130
 
 ##### Requirement to consult Ministerial Council
 
-- Before the Governor-General makes regulations for the purposes of this Act, the Minister must consult the Ministerial Council.
+(5)  Before the Governor-General makes regulations for the purposes of this Act, the Minister must consult the Ministerial Council.
 
-[ Minister's second reading speech made inHouse of Representatives on 28 November 2012 Senate on 17 June 2013 ]
+[Minister's second reading speech made in—
+House of Representatives on 28 November 2012
+Senate on 17 June 2013]
 
 (229/12)
 
