@@ -50,7 +50,7 @@ Con el apoyo de
 
 [[START OF PAGE 5]]
 
-## 'PROYECTO EDUCATIVO NACIONAL AL 2021: LA EDUCACIÓN QUE QUEREMOS PARA EL PERÚ'
+## “PROYECTO EDUCATIVO NACIONAL AL 2021: LA EDUCACIÓN QUE QUEREMOS PARA EL PERÚ”
 
 ### RESOLUCIÓN SUPREMA N° 001-2007-ED
 
@@ -70,13 +70,13 @@ De conformidad con lo dispuesto en el Decreto Legislativo N° 560, el Decreto Le
 
 #### SE RESUELVE:
 
-##### Artículo 1°.
+##### Artículo 1°.-
 Aprobar el "Proyecto Educativo Nacional al 2021: La Educación que queremos para el Perú", elaborado por el Consejo Nacional de Educación, expresado en los objetivos estratégicos del mismo y que forma parte integrante de la presente Resolución.
 
-##### Artículo 2°.
+##### Artículo 2°.-
 El Ministerio de Educación dictará las normas y disposiciones complementarias específicas, en lo que le corresponda y que resulten necesarias para la mejor aplicación y evaluación del Proyecto Educativo Nacional, aprobado precedentemente.
 
-##### Artículo 3°.
+##### Artículo 3°.-
 La presente Resolución Suprema será refrendada por el Ministro de Educación.
 
 Regístrese, comuníquese y publíquese.
@@ -97,7 +97,7 @@ Seis  son  los  objetivos  estratégicos  planteados  por  el Proyecto Educativo
 
 Este Proyecto surge como mandato de la Ley General de  Educación  y  que  como  señala  el  artículo  7
 
-'el Proyecto Educativo Nacional es el conjunto de políticas que dan el marco estratégico a las decisiones que conducen al desarrollo de la educación. Se construye y desarrolla en el  actuar  conjunto  del  Estado  y  la  sociedad  a  través  del diálogo nacional, del consenso y la concertación política, a efectos de garantizar su vigencia. Su formulación responde a  la  diversidad  del  país'. Me  permito  agregar  que  su vigencia debe sustentarse en la legitimidad social y en una viabilidad técnica, financiera y política. Su aplicación  debe  hacerse  con  la  participación  de  todos  en  la gestión gubernamental y social, para así lograr una educación  de  calidad  y  equidad, que  atienda  prioritariamente a los excluidos.
+“el Proyecto Educativo Nacional es el conjunto de políticas que dan el marco estratégico a las decisiones que conducen al desarrollo de la educación. Se construye y desarrolla en el actuar conjunto del Estado y la sociedad a través del diálogo nacional, del consenso y la concertación política, a efectos de garantizar su vigencia. Su formulación responde a la diversidad del país”. Me permito agregar que su vigencia debe sustentarse en la legitimidad social y en una viabilidad técnica, financiera y política. Su aplicación debe hacerse con la participación de todos en la gestión gubernamental y social, para así lograr una educación de calidad y equidad, que atienda prioritariamente a los excluidos.
 
 El  Proyecto  Educativo  Nacional  es  un  producto, que trasciende los conceptos de planificación, elaborado en la  mesa  de  conocidos  expertos, cuyo  trabajo  merece nuestro reconocimiento. Es expresión y a la vez resultado de una experiencia de diálogo y concertación social, donde han participado numerosos actores de todas las regiones, que representan a la comunidad educativa y a diversos sectores del Estado y la sociedad civil.
 
@@ -111,7 +111,7 @@ Lima, 5 de enero de 2007.
 
 [[START OF PAGE 7]]
 
-'No podemos, por cierto, curar con un solo trazo deficiencias arraigadas, satisfacer totalmente necesidades angustiosas o recuperar, en uno o dos años, o en unos cuantos años, el tiempo perdido o malgastado, o no integralmente empleado por generaciones anteriores, cuyos esfuerzos constructivos, por otra parte, no debemos ni podemos desconocer sino, por el contrario, necesitamos reconocer y honrar. Urge que podamos educar no sólo a niños, adolescentes y analfabetos adultos, sino también a nuestra opinión pública y a nuestras clases o sectores dirigentes y a estos últimos para que comprendan y se resignen a que los problemas educativos sean estudiados, confrontados y abordados técnicamente y en forma adecuada y a largo plazo'.
+“No podemos, por cierto, curar con un solo trazo deficiencias arraigadas, satisfacer totalmente necesidades angustiosas o recuperar, en uno o dos años, o en unos cuantos años, el tiempo perdido o malgastado, o no integralmente empleado por generaciones anteriores, cuyos esfuerzos constructivos, por otra parte, no debemos ni podemos desconocer sino, por el contrario, necesitamos reconocer y honrar. Urge que podamos educar no sólo a niños, adolescentes y analfabetos adultos, sino también a nuestra opinión pública y a nuestras clases o sectores dirigentes y a estos últimos para que comprendan y se resignen a que los problemas educativos sean estudiados, confrontados y abordados técnicamente y en forma adecuada y a largo plazo”.
 
 Jorge Basadre Materiales para otra morada, 1960
 
@@ -137,11 +137,103 @@ A todos ellos nuestro más afectuoso reconocimiento.
 
 ## ÍNDICE
 
+PRESENTACIÓN 9
+
+UNA MIRADA INTEGRAL AL PROYECTO 11
+
+Objetivos, resultados y políticas 12
+
+PRIMERA PARTE
+
+La urgencia de un nuevo horizonte
+
+1 Una visión del país vinculada a la educación que queremos 21
+
+Un horizonte general: el desarrollo humano 22
+
+a. Desarrollo económico y competitividad 23
+
+b. Equidad y bienestar 25
+
+c. Democracia 25
+
+d. Reforma del Estado e integración 26
+
+Una educación renovada que genera cambios 27
+
+2 ¿De qué realidad educativa partimos? Viejos problemas y nuevas promesas 30
+
+Educación hoy: un futuro por recuperar 30
+
+Recursos y avances educativos: un camino por ensanchar 32
+
+a. Recursos sociales 32
+
+b. Recursos propiamente educativos 33
+
+c. Recursos políticos y normativos 34
+
+d. Recursos financieros 35
+
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
 SEGUNDA PARTE
+
+Una respuesta integral, el Proyecto Educativo Nacional
+
+Objetivos Estratégicos 39
+
+OBJETIVO ESTRATÉGICO 1
+
+Oportunidades y resultados educativos de igual calidad para todos 47
+
+Diagnóstico 49
+
+Resultados y políticas 52
+
+OBJETIVO ESTRATÉGICO 2
+
+Estudiantes e instituciones educativas que logran aprendizajes pertinentes y de calidad 63
+
+Diagnóstico 65
+
+Resultados y políticas 68
+
+OBJETIVO ESTRATÉGICO 3
+
+Maestros bien preparados ejercen profesionalmente la docencia 81
+
+Diagnóstico 83
+
+Resultados y políticas 86
+
+OBJETIVO ESTRATÉGICO 4
+
+Una gestión descentralizada, democrática, que logra resultados y es financiada con equidad 93
+
+Diagnóstico 95
+
+Resultados y políticas 99
+
+OBJETIVO ESTRATÉGICO 5
+
+Educación superior de calidad se convierte en factor favorable para el desarrollo y la competitividad nacional 109
+
+Diagnóstico 111
+
+Resultados y políticas 114
+
+OBJETIVO ESTRATÉGICO 6
+
+Una sociedad que educa a sus ciudadanos y los compromete con su comunidad 127
+
+Diagnóstico 129
+
+Resultados y políticas 132
+
+CONSEJO NACIONAL DE EDUCACIÓN 145
 
 [[END OF PAGE 10]]
 
@@ -153,15 +245,15 @@ La educación que queremos para el Perú
 
 El Perú debe tener un Proyecto Educativo Nacional. Este es un mandato de la Ley General de Educación (artículo 7), un  compromiso  asumido  por  el  Foro  del  Acuerdo Nacional (Pacto Social de Compromisos Recíprocos por la Educación, disposición final) y una necesidad sentida por cuantos entienden y desean confrontar los desafíos del desarrollo del país y de sus ciudadanos.
 
-En el marco de la Ley, y en respuesta a las miles de personas y cientos de instituciones que han participado en el proceso de su elaboración a lo largo y ancho del país durante los últimos tres años, el Consejo Nacional de Educación (CNE) cumple con presentar a la nación y a sus  autoridades  la  propuesta  de  'Proyecto  Educativo Nacional al 2021'. Corresponde ahora al Gobierno y al Foro del Acuerdo Nacional determinar la ruta concreta que permitirá su puesta en marcha.
+En el marco de la Ley, y en respuesta a las miles de personas y cientos de instituciones que han participado en el proceso de su elaboración a lo largo y ancho del país durante los últimos tres años, el Consejo Nacional de Educación (CNE) cumple con presentar a la nación y a sus autoridades la propuesta de “Proyecto Educativo Nacional al 2021”. Corresponde ahora al Gobierno y al Foro del Acuerdo Nacional determinar la ruta concreta que permitirá su puesta en marcha.
 
-Esta propuesta es resultado de los diálogos y aportes recibidos después de la difusión del documento titulado 'Hacia un Proyecto Educativo Nacional' en setiembre del año 2005. Ha sido debatida en las 26 regiones del  país, en articulación  con  los  procesos  de  elaboración de sus Proyectos Educativos Regionales. Han participado  en  su  formulación  maestros, autoridades regionales, educativas  y  de  otros  sectores, así  como empresarios  y  productores, profesionales  de  diversas especialidades, líderes  de  opinión, jóvenes, dirigentes de organizaciones sociales y del mundo de la cultura.
+Esta propuesta es resultado de los diálogos y aportes recibidos después de la difusión del documento titulado “Hacia un Proyecto Educativo Nacional” en setiembre del año 2005. Ha sido debatida en las 26 regiones del país, en articulación con los procesos de elaboración de sus Proyectos Educativos Regionales. Han participado en su formulación maestros, autoridades regionales, educativas y de otros sectores, así como empresarios y productores, profesionales de diversas especialidades, líderes de opinión, jóvenes, dirigentes de organizaciones sociales y del mundo de la cultura.
 
 Han revisado, criticado y aportado al texto numerosas organizaciones sociales de base y asociaciones civiles, así  como  medios  de  comunicación. La  propuesta  se ha  nutrido  también  de  las  opiniones  informadas  de instituciones y expertos nacionales e internacionales, habiéndose tomado en cuenta propuestas educativas formuladas en otros espacios institucionales y gremiales, como el proyecto educativo del SUTEP o los planes de gobierno de los diferentes partidos políticos.
 
 Esta propuesta de Proyecto Educativo Nacional representa, en buena cuenta, un mayor desarrollo de la 12.ª Política de Estado del Acuerdo Nacional, especificando un conjunto consistente de políticas y medidas que permitirían concretarla.
 
-Una preocupación especial al momento de su construcción ha sido la de procurar articularla con otros esfuerzos, como el Foro Nacional de Educación para Todos, con  el  cual  comparte  la  preocupación  central  por  la equidad y la calidad educativas. En el mismo sentido se ha tomado en cuenta los diversos planes con vinculaciones con la educación: el Plan Nacional de Acción por la Infancia, Plan Nacional de Ciencia, Tecnología e Innovación Tecnológica, Plan Nacional de Competitividad, el Plan Nacional de Reparaciones en Educación, las  Medidas  de  Urgencia  de  la  Mesa  de Concertación para la lucha contra la pobreza, el Plan Nacional de Derechos Humanos, el Plan Nacional de Descentralización, los Lineamientos de Política Nacional de Juventudes, entre otras iniciativas.
+Una preocupación especial al momento de su construcción ha sido la de procurar articularla con otros esfuerzos, como el Foro Nacional de Educación para Todos, con el cual comparte la preocupación central por la equidad y la calidad educativas. En el mismo sentido se ha tomado en cuenta los diversos planes con vinculaciones con la educación: el Plan Nacional de Acción por la Infancia, Plan Nacional de Ciencia, Tecnología e Innovación Tecnológica, Plan Nacional de Competitividad, el Plan Nacional de Reparaciones en Educación, las Medidas de Urgencia de la Mesa de Concertación para la lucha contra la pobreza, el Plan Nacional de Derechos Humanos, el Plan Nacional de
 
 11
 
@@ -171,7 +263,9 @@ Una preocupación especial al momento de su construcción ha sido la de procurar
 
 Proyecto Educativo Nacional al 2021
 
-Para el CNE el Proyecto Educativo Nacional es un instrumento tanto para la formulación y ejecución de políticas  públicas, como para la movilización ciudadana. Así lo ha demostrado el proceso de su formulación.
+Descentralización, los Lineamientos de Política Nacional de Juventudes, entre otras iniciativas.
+
+Para el CNE el Proyecto Educativo Nacional es un instrumento tanto para la formulación y ejecución de políticas públicas, como para la movilización ciudadana. Así lo ha demostrado el proceso de su formulación.
 
 Ahora, corresponde dar paso a una nueva etapa, en la que las propuestas de políticas se conviertan en planes operativos y presupuestos, los consensos sobre el sentido de  la  educación  en  concertaciones  para  la  acción, las experiencias  innovadoras  en  propuestas  de  cambio, el reclamo y la reivindicación en un movimiento ciudadano por la educación.
 
@@ -185,87 +279,63 @@ Confiamos en que este documento una vez aprobado como dispone la ley, servirá e
 
 La educación que queremos para el Perú
 
-1
-
-Gobiernos locales democráticos y familias promueven ciudadanía.
-
-3
-
-Centros universitarios y técnicos forman profesionales éticos, competentes y productivos.
-
-OBJETIVO 5
-
-2
-
-Se produce conocimientos relevantes para el desarrollo.
-
-Educación superior de calidad se convierte en factor favorable para el desarrollo y la competitividad nacional.
-
-1
-
-Renovado sistema de educación superior articulado al desarrollo.
-
-2
-
-Educación financiada y administrada con equidad y eficiencia.
-
 ## UNA MIRADA INTEGRAL AL PROYECTO
-
-2
-
-Empresas, organizaciones y líderes comprometidos con la educación.
-
-3
-
-Medios de comunicación asumen con iniciativa su rol educador.
-
-OBJETIVO 6
-
-Una sociedad que educa a sus ciudadanos y los compromete con su comunidad.
-
-1 La primera infancia es prioridad nacional.
-
-OBJETIVO 1
-
-Oportunidades y resultados educativos de igual calidad para todos.
 
 VISIÓN
 
 Todos desarrollan su potencial desde la primera infancia, acceden al mundo letrado, resuelven problemas, practican valores, saben seguir aprendiendo, se asumen ciudadanos con derechos y responsabilidades, y contribuyen al desarrollo de sus comunidades y del país combinando su capital cultural y natural con los avances mundiales.
 
-OBJETIVO 4
+OBJETIVO 1
 
-Una gestión descentralizada, democrática, que logra resultados y es financiada con equidad.
+Oportunidades y resultados educativos de igual calidad para todos.
 
-1
+1 La primera infancia es prioridad nacional.
 
-Gestión educativa eficaz, ética, descentralizada y con participación de la ciudadanía.
-
-OBJETIVO 3
-
-Maestros bien preparados que ejercen profesionalmente la docencia.
-
-2 Carrera Pública Magisterial renovada.
-
-Trece años de buena educación sin exclusiones.
+2 Trece años de buena educación sin exclusiones.
 
 OBJETIVO 2
 
 Estudiantes e instituciones que logran aprendizajes pertinentes y de calidad.
 
-1
+1 Todos logran competencias para su desarrollo personal y el progreso e integración nacional.
 
-2
+2 Instituciones acogedoras e integradoras, enseñan bien y lo hacen con éxito.
 
-Sistema integral de formación docente.
+OBJETIVO 3
 
-1
+Maestros bien preparados que ejercen profesionalmente la docencia.
 
-Todos logran competencias para su desarrollo personal y el progreso e integración nacional.
+1 Sistema integral de formación docente.
 
-2
+2 Carrera Pública Magisterial renovada.
 
-Instituciones acogedoras e integradoras, enseñan bien y lo hacen con éxito.
+OBJETIVO 4
+
+Una gestión descentralizada, democrática, que logra resultados y es financiada con equidad.
+
+1 Gestión educativa eficaz, ética, descentralizada y con participación de la ciudadanía.
+
+2 Educación financiada y administrada con equidad y eficiencia.
+
+OBJETIVO 5
+
+Educación superior de calidad se convierte en factor favorable para el desarrollo y la competitividad nacional.
+
+1 Renovado sistema de educación superior articulado al desarrollo.
+
+2 Se produce conocimientos relevantes para el desarrollo.
+
+3 Centros universitarios y técnicos forman profesionales éticos, competentes y productivos.
+
+OBJETIVO 6
+
+Una sociedad que educa a sus ciudadanos y los compromete con su comunidad.
+
+1 Gobiernos locales democráticos y familias promueven ciudadanía.
+
+2 Empresas, organizaciones y líderes comprometidos con la educación.
+
+3 Medios de comunicación asumen con iniciativa su rol educador.
 
 13
 
@@ -287,7 +357,7 @@ Los derechos a la vida y a la educación desde el nacimiento están plenamente g
 
 ###### POLÍTICAS AL 2021
 
-- Asegurar el desarrollo óptimo de la infancia a través de la acción intersectorial concertada del Estado en cada región.
+- 1. Asegurar el desarrollo óptimo de la infancia a través de la acción intersectorial concertada del Estado en cada región.
 
 - 1.1. Satisfacer las necesidades básicas de niños y niñas de 0 a 3 años.
 
@@ -303,7 +373,7 @@ La educación básica está universalizada y garantiza igualdad de oportunidades
 
 ###### POLÍTICAS AL 2021
 
-- Ampliar el acceso a la educación básica a los grupos hoy desatendidos.
+- 2. Ampliar el acceso a la educación básica a los grupos hoy desatendidos.
 
 - 2.1. Universalizar el acceso a la educación inicial formal de niños y niñas de 4 y 5 años de edad.
 
@@ -311,7 +381,7 @@ La educación básica está universalizada y garantiza igualdad de oportunidades
 
 - 2.3. Alfabetizar y desarrollar capacidades fundamentales y tecnológicas de los jóvenes y adultos excluidos de la Educación Básica Regular.
 
-- Asegurar condiciones esenciales para el aprendizaje en los centros educativos que atienden las provincias más pobres de la población nacional.
+- 3. Asegurar condiciones esenciales para el aprendizaje en los centros educativos que atienden las provincias más pobres de la población nacional.
 
 - 3.1. Dotar de insumos y servicios básicos a todos los centros educativos públicos que atienden a los más pobres.
 
@@ -319,7 +389,7 @@ La educación básica está universalizada y garantiza igualdad de oportunidades
 
 - 3.3. Articular las políticas de equidad educativa a programas de desarrollo productivo y de lucha contra la pobreza.
 
-- Prevenir el fracaso escolar en los grupos sociales más vulnerables.
+- 4. Prevenir el fracaso escolar en los grupos sociales más vulnerables.
 
 - 4.1. Asegurar aprendizajes fundamentales en los primeros grados de primaria.
 
@@ -347,13 +417,13 @@ En todas las instituciones de educación básica, todos los estudiantes aprenden
 
 ###### POLÍTICAS AL 2021
 
-- Establecer un marco curricular nacional compartido, intercultural, inclusivo e integrador, que permita tener currículos regionales.
+- 5. Establecer un marco curricular nacional compartido, intercultural, inclusivo e integrador, que permita tener currículos regionales.
 
 - 5.1. Establecer un marco curricular nacional orientado a objetivos nacionales compartidos, unificadores y cuyos ejes principales incluyan la interculturalidad y la formación de ciudadanos, en la perspectiva de una formación en ciencia, tecnología e innovación.
 
 - 5.2. Diseñar currículos regionales que garanticen aprendizajes nacionales y que complementen el currículo con conocimientos pertinentes y relevantes para su medio.
 
-- Definir estándares nacionales de aprendizajes prioritarios y evaluarlos regularmente.
+- 6. Definir estándares nacionales de aprendizajes prioritarios y evaluarlos regularmente.
 
 - 6.1. Establecer de manera concertada estándares nacionales de aprendizaje.
 
@@ -365,7 +435,7 @@ Instituciones autónomas y organizadas que gestionan y aplican prácticas pedag�
 
 ###### POLÍTICAS AL 2021
 
-- Transformar las prácticas pedagógicas en la educación básica.
+- 7. Transformar las prácticas pedagógicas en la educación básica.
 
 - 7.1. Asegurar prácticas pedagógicas basadas en criterios de calidad y de respeto a los derechos de los niños
 
@@ -375,7 +445,7 @@ Instituciones autónomas y organizadas que gestionan y aplican prácticas pedag�
 
 - 7.4. Uso eficaz, creativo y culturalmente pertinente de las nuevas tecnologías de información y comunicación en todos los niveles educativos.
 
-- Impulsar de manera sostenida los procesos de cambio institucional.
+- 8. Impulsar de manera sostenida los procesos de cambio institucional.
 
 - 8.1. Fomentar y apoyar la constitución de redes escolares territoriales responsables del desarrollo educativo local.
 
@@ -383,7 +453,7 @@ Instituciones autónomas y organizadas que gestionan y aplican prácticas pedag�
 
 - 8.3. Incrementar progresivamente la jornada escolar y el tiempo efectivo de aprendizaje.
 
-- Articular la educación básica con la educación superior técnica o universitaria.
+- 9. Articular la educación básica con la educación superior técnica o universitaria.
 
 15 Una mirada integral al proyecto
 
@@ -415,7 +485,7 @@ Carrera Pública Magisterial renovada contribuye de manera eficiente al logro es
 
 ###### POLÍTICAS AL 2021
 
-- Implementar una nueva Carrera Pública Magisterial.
+- 11. Implementar una nueva Carrera Pública Magisterial.
 
 - 11.1. Evaluar a los docentes para el ingreso y permanencia en la Carrera Pública Magisterial, y su asignación laboral.
 
@@ -441,15 +511,15 @@ Una gestión eficiente y descentralizada, altamente profesional y desarrollada c
 
 ###### POLÍTICAS AL 2021
 
-- Cambiar el actual modelo de gestión pública de la educación basándola en procedimientos democráticos y en el planeamiento, promoción, monitoreo y evaluación de políticas estratégicas nacionales.
+- 12. Cambiar el actual modelo de gestión pública de la educación basándola en procedimientos democráticos y en el planeamiento, promoción, monitoreo y evaluación de políticas estratégicas nacionales.
 
-- Reformar la gestión educativa regional y articularla con los ejes de desarrollo nacional y regional con criterios de coordinación intersectorial.
+- 13. Reformar la gestión educativa regional y articularla con los ejes de desarrollo nacional y regional con criterios de coordinación intersectorial.
 
-- Fortalecer las capacidades de las instituciones y redes educativas para asumir responsabilidades de gestión de mayor grado y orientadas a conseguir más y mejores resultados.
+- 14. Fortalecer las capacidades de las instituciones y redes educativas para asumir responsabilidades de gestión de mayor grado y orientadas a conseguir más y mejores resultados.
 
-- Fortalecer una participación social responsable y de calidad en la formulación, gestión y vigilancia de las políticas y proyectos educativos.
+- 15. Fortalecer una participación social responsable y de calidad en la formulación, gestión y vigilancia de las políticas y proyectos educativos.
 
-- Moralizar la gestión en todas las instancias del sistema educativo
+- 16. Moralizar la gestión en todas las instancias del sistema educativo
 
 ##### RESULTADO 2: EDUCACIÓN FINANCIADA Y ADMINISTRADA CON EQUIDAD Y EFICIENCIA
 
@@ -457,9 +527,9 @@ Financiamiento prioritario, suficiente, bien distribuido, sostenido y oportuno d
 
 ###### POLÍTICAS AL 2021
 
-- Incrementar sostenidamente el presupuesto asegurando calidad educativa para todos, asignando recursos con criterios de equidad, calidad y eficiencia.
+- 17. Incrementar sostenidamente el presupuesto asegurando calidad educativa para todos, asignando recursos con criterios de equidad, calidad y eficiencia.
 
-18. Estimular y procurar el aumento de la contribución social al financiamiento de la educación.
+- 18. Estimular y procurar el aumento de la contribución social al financiamiento de la educación.
 
 17 Una mirada integral al proyecto
 
@@ -479,13 +549,13 @@ Sistema de educación superior universitaria y técnico-profesional que responde
 
 ###### POLÍTICAS AL 2021
 
-- Renovar la estructura del sistema de la educación superior, tanto universitaria cuanto técnico-profesional.
+- 19. Renovar la estructura del sistema de la educación superior, tanto universitaria cuanto técnico-profesional.
 
-- 20.Consolidar y dar funcionamiento efectivo al Sistema Nacional de Acreditación y Certificación de la Calidad de la Educación Superior .
+- 20. Consolidar y dar funcionamiento efectivo al Sistema Nacional de Acreditación y Certificación de la Calidad de la Educación Superior.
 
-- Incrementar el financiamiento del sistema nacional de educación superior y enfocar los recursos en las prioridades de dicho sistema.
+- 21. Incrementar el financiamiento del sistema nacional de educación superior y enfocar los recursos en las prioridades de dicho sistema.
 
-- Renovar la carrera docente en educación superior sobre la base de méritos académicos.
+- 22. Renovar la carrera docente en educación superior sobre la base de méritos académicos.
 
 ##### RESULTADO 2: SE PRODUCE CONOCIMIENTOS RELEVANTES PARA EL DESARROLLO Y LA LUCHA CONTRA LA POBREZA
 
@@ -493,19 +563,19 @@ Producción permanente y acumulativa de conocimiento relevante para el desarroll
 
 ###### POLÍTICAS AL 2021
 
-- Articulación de la educación superior con la realidad económica y cultural.
-
-- 23.2 Vincular las instituciones de educación superior al desarrollo regional.
+- 23. Articulación de la educación superior con la realidad económica y cultural.
 
 - 23.1. Fomentar la investigación para la innovación y el desarrollo tecnológico en actividades competitivas.
 
+- 23.2 Vincular las instituciones de educación superior al desarrollo regional.
+
 - 23.3. Desarrollar el potencial artístico, cultural, deportivo y natural del país.
 
-- Educación superior ligada a la investigación y a la planificación.
-
-- 24.2. Fomentar la planificación y prospectiva sobre el desarrollo nacional.
+- 24. Educación superior ligada a la investigación y a la planificación.
 
 - 24.1. Hacer de los estudios de postgrado un sistema orientado a la investigación y producción de conocimiento.
+
+- 24.2. Fomentar la planificación y prospectiva sobre el desarrollo nacional.
 
 ##### RESULTADO 3: CENTROS UNIVERSITARIOS Y TÉCNICOS FORMAN PROFESIONALES ÉTICOS, COMPETENTES Y PRODUCTIVOS
 
@@ -513,11 +583,11 @@ Profesionales desarrollan principios éticos, talentos y vocación personal; son
 
 ###### POLÍTICAS AL 2021
 
-- Transformación de la calidad de la formación profesional.
-
-- 25.2. Fortalecer la educación técnico-productiva articulada con áreas claves del desarrollo.
+- 25. Transformación de la calidad de la formación profesional.
 
 - 25.1. Mejorar la formación de las instituciones de educación superior, universitaria y técnico-profesional.
+
+- 25.2. Fortalecer la educación técnico-productiva articulada con áreas claves del desarrollo.
 
 - 25.3. Asegurar oportunidades continuas de actualización profesional de calidad.
 
@@ -539,13 +609,13 @@ Municipios asumen rol educador y formador de ciudadanía gobernando democrática
 
 ###### POLÍTICAS AL 2021
 
-- Municipios fomentan la identidad local y la cohesión social.
+- 26. Municipios fomentan la identidad local y la cohesión social.
 
 - 26.1. Fomentar la identificación de los vecinos con su comunidad
 
 - 26.2. Generar espacios y oportunidades permanentes de integración social
 
-- Participación y movilización social en torno a desafíos centrales
+- 27. Participación y movilización social en torno a desafíos centrales
 
 - 27.1. Fomentar la participación de la ciudadanía en el gobierno de la comunidad.
 
@@ -557,7 +627,7 @@ Municipios asumen rol educador y formador de ciudadanía gobernando democrática
 
 - 27.5. Realizar acciones permanentes de educación ambiental en las comunidades.
 
-- Familias asumen rol educador y colaboran con los aprendizajes y con prácticas de vida en comunidad.
+- 28. Familias asumen rol educador y colaboran con los aprendizajes y con prácticas de vida en comunidad.
 
 ##### RESULTADO 2: EMPRESAS, ORGANIZACIONES Y LÍDERES COMPROMETIDOS CON LA EDUCACIÓN
 
@@ -565,9 +635,9 @@ Empresas, organizaciones sociales, organizaciones políticas y asociaciones civi
 
 ###### POLÍTICAS AL 2021
 
-- Fomento de la responsabilidad social de las empresas locales a favor de la educación.
+- 29. Fomento de la responsabilidad social de las empresas locales a favor de la educación.
 
-- Fomento de compromisos de líderes e instituciones con la educación.
+- 30. Fomento de compromisos de líderes e instituciones con la educación.
 
 - 30.1. Promover el compromiso con la educación de instituciones con liderazgo.
 
@@ -579,11 +649,11 @@ Los medios de comunicación masiva asumen su rol educador facilitando campañas 
 
 ###### POLÍTICAS AL 2021
 
-- Promoción de la función educativa, informativa y cultural de los medios de comunicación.
+- 31. Promoción de la función educativa, informativa y cultural de los medios de comunicación.
 
-- Autorregulación de la prensa a favor de los derechos ciudadanos.
+- 32. Autorregulación de la prensa a favor de los derechos ciudadanos.
 
-- Observatorio ciudadano para mejorar la responsabilidad cívica de los medios.
+- 33. Observatorio ciudadano para mejorar la responsabilidad cívica de los medios.
 
 19 Una mirada integral al proyecto
 
@@ -621,7 +691,7 @@ La educación que queremos para el Perú
 
 #### UNA VISIÓN DEL PAÍS VINCULADA A LA EDUCACIÓN QUE QUEREMOS
 
-Los peruanos constituimos un pueblo con un prometedor horizonte, con un futuro de bienestar, prosperidad, paz y democracia que debemos decidirnos a realizar. Contamos para  este  objetivo  con  enormes  recursos  no siempre apreciados en su justo valor: reconocida riqueza natural, así como una generosa biodiversidad que todavía espera ser conocida y explorada en medida suficiente. Se suma la viva creatividad de la población peruana -joven en una considerable proporción- así como su capacidad de iniciativa y su acuciosidad en el mundo productivo. Talento que se muestra en el vigoroso florecimiento de empresas  pequeñas  y  medianas  -las  denominadas pymes-  en  las  últimas  décadas, fruto  de  conductas emprendedoras e innovadoras que día tras día transforman el desempleo en nuevas formas de productividad y construyen  seguridad  económica  ahí  donde  sólo  había precariedad y exclusión. Hay que contar también, en una mirada panorámica de nuestras fortalezas, la impresionante  diversidad  cultural  del  país  y  los  conocimientos locales y tradicionales que se sostienen en dicha variedad. La creciente fama internacional de la gastronomía peruana es sólo una pequeña muestra del cúmulo de posibilidades que nos reservan nuestras particularidades culturales. La promesa de una industria turística organizada y profesional que permita atender una afluencia masiva de visitantes  atraídos  ya  sea  por  nuestro  rico  patrimonio monumental, por  las  manifestaciones  contemporáneas de nuestras culturas o por una naturaleza diversa y generosa es otro punto a nuestro favor.
+Los peruanos constituimos un pueblo con un prometedor horizonte, con un futuro de bienestar, prosperidad, paz y democracia que debemos decidirnos a realizar. Contamos para este objetivo con enormes recursos no siempre apreciados en su justo valor: reconocida riqueza natural, así como una generosa biodiversidad que todavía espera ser conocida y explorada en medida suficiente. Se suma la viva creatividad de la población peruana —joven en una considerable proporción— así como su capacidad de iniciativa y su acuciosidad en el mundo productivo. Talento que se muestra en el vigoroso florecimiento de empresas pequeñas y medianas —las denominadas pymes— en las últimas décadas, fruto de conductas emprendedoras e innovadoras que día tras día transforman el desempleo en nuevas formas de productividad y construyen seguridad económica ahí donde sólo había precariedad y exclusión. Hay que contar también, en una mirada panorámica de nuestras fortalezas, la impresionante diversidad cultural del país y los conocimientos locales y tradicionales que se sostienen en dicha variedad. La creciente fama internacional de la gastronomía peruana es sólo una pequeña muestra del cúmulo de posibilidades que nos reservan nuestras particularidades culturales. La promesa de una industria turística organizada y profesional que permita atender una afluencia masiva de visitantes atraídos ya sea por nuestro rico patrimonio monumental, por las manifestaciones contemporáneas de nuestras culturas o por una naturaleza diversa y generosa es otro punto a nuestro favor.
 
 El Perú es escenario de considerables cambios demográficos que  han  dado  lugar  a  nuevas  formas  de  asentarnos  en nuestro territorio. El paso de un país principalmente rural a uno mayormente urbano fue lo dominante en la segunda mitad del siglo XX. En las últimas décadas, se ha dado paso a otro fenómeno: el desarrollo de un distinto urbanismo que convive, en amalgamas sorprendentes, con nuevas formas de ruralidad. Culturas convergentes, nuevas aspiraciones, formas variadas de imaginarnos el futuro y de ir hacia él: todo ello configura un Perú inédito que hace falta reconocer para detectar en él promesas de dinamismo, de creatividad, todavía no muy bien advertidas.
 
@@ -643,7 +713,7 @@ La transformación nacional que vislumbramos contiene elementos muy numerosos y 
 
 El desarrollo humano constituye, en rigor, el gran horizonte del país que deseamos construir; abarca y da sentido a las demás transformaciones necesarias. Su contenido es ético y está dirigido a hacer del Perú una sociedad en  la  cual  nos  podamos  realizar  como  personas  en  un sentido integral. En esta noción están contemplados los ideales de justicia y equidad que resultan, a fin de cuentas, los principios que dan legitimidad a una comunidad.
 
-Entendemos el desarrollo humano como un «proceso de expansión de las capacidades y derechos de las personas, dentro de un marco de igualdad de oportunidades, en el cual todos pueden progresar en libertad» y en el  cual  cada  uno  debe  avanzar  al  mismo  tiempo  que progresan todos 1 .
+Entendemos el desarrollo humano como un «proceso de expansión de las capacidades y derechos de las personas, dentro de un marco de igualdad de oportunidades, en el cual todos pueden progresar en libertad» y en el cual cada uno debe avanzar al mismo tiempo que progresan todos¹.
 
 En primer lugar, esta concepción de desarrollo implica una comprensión de las personas como portadoras de necesidades y de potencialidades, metas y derechos que deben ser atendidos; no sólo en lo referido a la subsistencia y a la protección, sino  conteniendo  también  las  necesidades  y capacidades  de  libertad, creatividad, afecto, identidad, trascendencia y sentido. Al mismo tiempo, cada peruano y cada peruana poseen facultades creativas e inventivas, aptitudes para el diálogo y la interacción con los demás.
 
@@ -659,15 +729,15 @@ En segundo  lugar , el  desarrollo  implica  construir  un espacio para la igual
 
 La educación que queremos para el Perú
 
-El desarrollo será sostenible también por la capacidad para mantener los logros de bienestar que vayamos conquistando. Por ello, es preciso dotar a las personas de recursos y capacidades, de oportunidades de participación y de facultades para decidir. En suma, habilitarlas para gobernar sus existencias individuales y colectivas sin que ello atenúe el compromiso del Estado con el bienestar de todos, sin exclusiones.
-
-En tercer lugar , el desarrollo debe ser un proceso sostenible. La  satisfacción  de  las  necesidades  de  hoy  no debe poner en riesgo poder cubrir las demandas de las próximas generaciones. Esa sostenibilidad exige el uso racional y respetuoso de los recursos naturales. El desarrollo reclama  superar  en  el  Perú  la  mentalidad  social depredadora, que no conoce límites cuando se trata de satisfacer el deseo de rentabilidad o las simples necesidades  de  supervivencia. El  desarrollo  será  sostenible también por la capacidad para mantener los logros de bienestar que los peruanos vayamos conquistando. Por ello, es preciso dotar a las personas de recursos y capacidades, de oportunidades de participación y de facultades para decidir. En suma, habilitarlas para gobernar sus  existencias  individuales  y  colectivas  sin  que  ello atenúe el compromiso del Estado con el bienestar de todos, sin exclusiones.
+En tercer lugar, el desarrollo debe ser un proceso sostenible. La satisfacción de las necesidades de hoy no debe poner en riesgo poder cubrir las demandas de las próximas generaciones. Esa sostenibilidad exige el uso racional y respetuoso de los recursos naturales. El desarrollo reclama superar en el Perú la mentalidad social depredadora, que no conoce límites cuando se trata de satisfacer el deseo de rentabilidad o las simples necesidades de supervivencia. El desarrollo será sostenible también por la capacidad para mantener los logros de bienestar que los peruanos vayamos conquistando. Por ello, es preciso dotar a las personas de recursos y capacidades, de oportunidades de participación y de facultades para decidir. En suma, habilitarlas para gobernar sus existencias individuales y colectivas sin que ello atenúe el compromiso del Estado con el bienestar de todos, sin exclusiones.
 
 ###### a. Desarrollo económico y competitividad
 
-El  Perú  puede  ser  en  un  futuro  cercano  un  país  con desarrollo económico  sostenido  sobre  la  base  de  los recursos  físicos, humanos  y  sociales  existentes, por medio  de  una  creativa  y  competitiva  inserción  en  la economía regional y mundial. Para lograr este fin se debe  superar  ciertas  barreras  históricas. Algunas  de ellas están asociadas a la forma en que nuestro país se vincula a la economía mundial en un contexto de gran apertura a la competencia internacional, que no toma en cuenta las viejas desigualdades entre regiones y países. Otras barreras son las derivadas de una estructura centralizada del sector productivo y del mercado interno. En  su  lugar  han  de  existir  economías  regionales consolidadas con ciclos propios de producción, de circulación y de consumo y, al mismo tiempo, en correspondencia creativa con el resto del país.
+El Perú puede ser en un futuro cercano un país con desarrollo económico sostenido sobre la base de los recursos físicos, humanos y sociales existentes, por medio de una creativa y competitiva inserción en la economía regional y mundial. Para lograr este fin se debe superar ciertas barreras históricas. Algunas de ellas están asociadas a la forma en que nuestro país se vincula a la economía mundial en un contexto de gran apertura a la competencia internacional, que no toma en cuenta las viejas desigualdades entre regiones y países. Otras barreras son las derivadas de una estructura centralizada del sector productivo y del mercado interno. En su lugar han de existir economías regionales consolidadas con ciclos propios de producción, de circulación y de consumo y, al mismo tiempo, en correspondencia creativa con el resto del país.
 
-El florecimiento de cadenas productivas autosostenidas servirá  para  mantener ese crecimiento diversificado y para generar nuevos campos de generación y aplicación de conocimientos y de innovación. Ello debe ayudar, a su vez, a expandir y diversificar la oferta exportable, cuya limitación  es  hoy  en  día  uno  de  los  grandes  frenos  de nuestra economía, dependiente del comercio de productos con escaso valor agregado y avaros en la generación de empleos. Esto requiere de políticas amplias de articulación, integración y fortalecimiento del mercado nacional y de los mercados regionales, y así propiciar espacios Ser competitivo en nuestro país es considerar las potencialidades de nuestra diversidad cultural, así como de nuestros recursos naturales para su preservación a partir de una gestión eficiente [...] no es sólo un término con acepciones de índole económica, incluye tomar en cuenta el valor de las culturas que conforman el país.
+El florecimiento de cadenas productivas autosostenidas servirá para mantener ese crecimiento diversificado y para generar nuevos campos de generación y aplicación de conocimientos y de innovación. Ello debe ayudar, a su vez, a expandir y diversificar la oferta exportable, cuya limitación es hoy en día uno de los grandes frenos de nuestra economía, dependiente del comercio de productos con escaso valor agregado y avaros en la generación de empleos. Esto requiere de políticas amplias de articulación, integración y fortalecimiento del mercado nacional y de los mercados regionales, y así propiciar espacios
+
+El desarrollo será sostenible también por la capacidad para mantener los logros de bienestar que vayamos conquistando. Por ello, es preciso dotar a las personas de recursos y capacidades, de oportunidades de participación y de facultades para decidir. En suma, habilitarlas para gobernar sus existencias individuales y colectivas sin que ello atenúe el compromiso del Estado con el bienestar de todos, sin exclusiones.
 
 25 La urgencia de un nuevo horizonte
 
@@ -681,11 +751,13 @@ adecuados para la realización de las capacidades de la población, que es joven
 
 Esta integración, que no suprime la diversidad sino que crece sobre ella, supone también fortalecer la infraestructura que posibilite el comercio y mejore la rentabilidad de las más diversas actividades productivas y de servicios y la puesta en valor de los variados recursos físicos y conocimientos locales por medio de una capacitación técnica y administrativa que propicie su proyección a escala nacional e internacional.
 
-La competitividad y el crecimiento económico sostenido demandan una inversión  mayor  y  mejor  focalizada  en políticas sectoriales y redistributivas vigorosas. También se precisa, desde luego, mayor reinversión y, consiguientemente, mayor acumulación de capital, así como se hace necesario dar un salto en nuestro paradigma productivo -tecnológico, administrativo, de gestión- que sólo es posible con más y mejor capital humano que, a su vez, incremente la competitividad internacional del Perú.
+La competitividad y el crecimiento económico sostenido demandan una inversión mayor y mejor focalizada en políticas sectoriales y redistributivas vigorosas. También se precisa, desde luego, mayor reinversión y, consiguientemente, mayor acumulación de capital, así como se hace necesario dar un salto en nuestro paradigma productivo —tecnológico, administrativo, de gestión— que sólo es posible con más y mejor capital humano que, a su vez, incremente la competitividad internacional del Perú.
 
 Asimismo, el país precisa un marco normativo e institucional que haga posible que las distintas y creativas iniciativas de la población encuentren cauces de legalidad  y, por  consiguiente, de  seguridad, y  acceso  a medios de financiamiento que permitan su sostenibilidad y expansión en el mediano plazo. Esto ha de estar combinado con políticas laborales que aseguren que el crecimiento económico se traduzca en incremento de la oferta de empleo y, al mismo tiempo, que éste sea de calidad  en  lo  relativo  a  la  productividad, al  cumplimiento de derechos y a los niveles remunerativos.
 
-Ser competitivo en nuestro país es considerar las potencialidades de nuestra diversidad cultural, así como de nuestros recursos naturales para su preservación a partir de una gestión eficiente. Pero ser competitivo no es sólo un término con acepciones de índole económica, incluye  tomar  en  cuenta  el  valor  de  las  culturas  que conforman el país. En primer lugar, se trata de cambiar la mirada etnocentrista de la competitividad encasillada sólo en tecnologías occidentales. Hace falta incorporar  la  mirada  intercultural, donde  la  competitividad parte del reconocimiento y valoración de las tecnologías, saberes, expresiones, fortalezas  e  historias  propias  y enriquecerlas con tecnologías modernas. Este diálogo debiera provenir de ambos sectores, pues el enriquecimiento es mutuo, pero requiere además del reconocimiento al valor de los «productos», de los «productores», de los  creadores  de  una  y  otra  vertiente. En segundo lugar, implica también que los peruanos, herederos de tecnologías  ancestrales, fortalezcan  su  identidad  y  su autopercepción como sujetos, dejando atrás el estigma del atraso y la inferioridad para dar paso a culturas afirmadas y de verdad competitivas.
+Ser competitivo en nuestro país es considerar las potencialidades de nuestra diversidad cultural, así como de nuestros recursos naturales para su preservación a partir de una gestión eficiente. Pero ser competitivo no es sólo un término con acepciones de índole económica, incluye tomar en cuenta el valor de las culturas que conforman el país. En primer lugar, se trata de cambiar la mirada etnocentrista de la competitividad encasillada sólo en tecnologías occidentales. Hace falta incorporar la mirada intercultural, donde la competitividad parte del reconocimiento y valoración de las tecnologías, saberes, expresiones, fortalezas e historias propias y enriquecerlas con tecnologías modernas. Este diálogo debiera provenir de ambos sectores, pues el enriquecimiento es mutuo, pero requiere además del reconocimiento al valor de los «productos», de los «productores», de los creadores de una y otra vertiente. En segundo lugar, implica también que los peruanos, herederos de tecnologías ancestrales, fortalezcan su identidad y su autopercepción como sujetos, dejando atrás el estigma del atraso y la inferioridad para dar paso a culturas afirmadas y de verdad competitivas.
+
+Ser competitivo en nuestro país es considerar las potencialidades de nuestra diversidad cultural, así como de nuestros recursos naturales para su preservación a partir de una gestión eficiente [...] no es sólo un término con acepciones de índole económica, incluye tomar en cuenta el valor de las culturas que conforman el país.
 
 26 PRIMERA PARTE
 
@@ -703,7 +775,7 @@ Construir  una  sociedad  equitativa  es, ciertamente, una meta  ambiciosa; pero
 
 ###### c. Democracia
 
-Los  peruanos  debemos  y  podemos  consolidar  una democracia genuina e integral en sus aspectos legales e institucionales y en su condición de forma de convivencia humana . A través de un Estado de Derecho concebido para el máximo respeto de las personas y el atajo de todo  posible  abuso  de  poder: una  Constitución  que garantice los derechos de los ciudadanos y un conjunto de  poderes  públicos  en  equilibrio  y  respetuosos  de  la ley, requisitos básicos para hablar de una democracia. Junto  con  ello, y  con  similar  importancia, nuestro ordenamiento político debe asegurar que toda persona -independientemente de su condición socioeconómica, étnica, de género o cualquiera otra- ejerza sus derechos  políticos, civiles  y  sociales, vea  respetados  irrestrictamente  sus  derechos  humanos, y  disfrute  de  la riqueza  existente  en  una  sociedad  que  garantice  un nivel  aceptable  de  bienestar. El  cumplimiento  de  los derechos  se  ha  de  complementar, además, con  una clara percepción de nuestros deberes y responsabilidades como miembros de una colectividad.
+Los peruanos debemos y podemos consolidar una democracia genuina e integral en sus aspectos legales e institucionales y en su condición de forma de convivencia humana. A través de un Estado de Derecho concebido para el máximo respeto de las personas y el atajo de todo posible abuso de poder: una Constitución que garantice los derechos de los ciudadanos y un conjunto de poderes públicos en equilibrio y respetuosos de la ley, requisitos básicos para hablar de una democracia. Junto con ello, y con similar importancia, nuestro ordenamiento político debe asegurar que toda persona —independientemente de su condición socioeconómica, étnica, de género o cualquiera otra— ejerza sus derechos políticos, civiles y sociales, vea respetados irrestrictamente sus derechos humanos, y disfrute de la riqueza existente en una sociedad que garantice un nivel aceptable de bienestar. El cumplimiento de los derechos se ha de complementar, además, con una clara percepción de nuestros deberes y responsabilidades como miembros de una colectividad.
 
 El rostro más visible de la necesaria equidad puede ser el acceso a servicios básicos [...] Al mismo tiempo, sólo es factible hablar de equidad ahí donde la población tiene también acceso a un empleo digno y productivo, a un ambiente saludable y a disfrutar de esparcimiento y de bienes culturales.
 
@@ -761,7 +833,7 @@ Hacer  realidad  dicha  visión  demanda  transformar nuestra educación. Es cie
 
 Proyecto Educativo Nacional al 2021
 
-Una educación renovada ayudará a construir una sociedad integrada -fundada en el diálogo, el sentido de pertenencia y la solidaridad- y un Estado moderno, democrático y eficiente. Dotará al país de ciudadanos participativos, fiscalizadores, propositivos, con capacidad de liderazgo e innovación dando así vida sostenida a la descentralización.
+Una educación renovada ayudará a construir una sociedad integrada —fundada en el diálogo, el sentido de pertenencia y la solidaridad— y un Estado moderno, democrático y eficiente. Dotará al país de ciudadanos participativos, fiscalizadores, propositivos, con capacidad de liderazgo e innovación dando así vida sostenida a la descentralización.
 
 En cuanto fuente de la realización de las personas, la educación es  en  sí  misma  un  fin  en  todo  proceso  de desarrollo humano y no puede ser sacrificada o postergada por otros fines. Pero en cuanto generadora de ciudadanos capaces y eficientes, imbuidos de una conciencia cívica, prestos al aprendizaje permanente y dotados de  iniciativa  y  espíritu  emprendedor, la  educación  es, también, un medio para el desarrollo.
 
@@ -771,7 +843,7 @@ Esta educación debe ayudar también a construir un país más equitativo. Una e
 
 De otro lado, una educación universal de calidad favorecerá el mejor rendimiento económico de nuestra sociedad al  promover la  adquisición  de  saberes  nuevos  y  la recuperación y revaloración del saber propio, la innovación, el manejo eficiente de los recursos y la capacidad de adaptación  a  entornos  cambiantes. Ningún  país  puede aspirar al éxito en la sociedad mundial de hoy con la escasa inversión en educación y en promoción de la investigación y la innovación que mantiene el Perú. Sin embargo, al señalar esto es imposible omitir que, junto con la investigación, la educación peruana tiene otras tareas básicas pendientes de cumplimiento como asegurar un dominio adecuado de las destrezas fundamentales y fomentar actitudes creativas hacia la vida productiva tales como autonomía, capacidad de iniciativa y de liderazgo, aptitudes para el trabajo en equipo, disciplina, entre otras.
 
-Finalmente, una  educación  renovada  ayudará  a  construir una sociedad integrada -fundada en el diálogo, el sentido  de  pertenencia  y  la  solidaridad-  y  un  Estado moderno, democrático y eficiente. Dotará al país de ciudadanos participativos, fiscalizadores, propositivos, con capacidad  de  liderazgo  e  innovación  dando  así  vida sostenida a la descentralización. Cambiar nuestra vida pública, reformar el Estado para una mejor convivencia entre  peruanos, es  una  meta  que  también  necesita  de mejores escuelas, mejores docentes y, en suma, de una mejor concepción de la educación que precisamos -esto es, de  la  imagen  de  nosotros  mismos  que  queremos construir y con la que deseamos vivir.
+Finalmente, una educación renovada ayudará a construir una sociedad integrada —fundada en el diálogo, el sentido de pertenencia y la solidaridad— y un Estado moderno, democrático y eficiente. Dotará al país de ciudadanos participativos, fiscalizadores, propositivos, con capacidad de liderazgo e innovación dando así vida
 
 30 PRIMERA PARTE
 
@@ -781,9 +853,11 @@ Finalmente, una  educación  renovada  ayudará  a  construir una sociedad integ
 
 La educación que queremos para el Perú
 
-##### EDUCACIÓN Y REFORMA INSTITUCIONAL
+sostenida a la descentralización. Cambiar nuestra vida pública, reformar el Estado para una mejor convivencia entre peruanos, es una meta que también necesita de mejores escuelas, mejores docentes y, en suma, de una mejor concepción de la educación que precisamos —esto es, de la imagen de nosotros mismos que queremos construir y con la que deseamos vivir.
 
-Ahora bien, ¿cómo debe ser esa educación llamada a producir  tales  efectos  y  a  entrelazarse  creativamente con los demás cambios institucionales necesarios en el Perú? Esta propuesta de Proyecto Educativo Nacional explica, más adelante con detalle, la naturaleza y características de tal educación bajo la forma de seis objetivos estratégicos.
+Ahora bien, ¿cómo debe ser esa educación llamada a producir tales efectos y a entrelazarse creativamente con los demás cambios institucionales necesarios en el Perú? Esta propuesta de Proyecto Educativo Nacional explica, más adelante con detalle, la naturaleza y características de tal educación bajo la forma de seis objetivos estratégicos.
+
+##### EDUCACIÓN Y REFORMA INSTITUCIONAL
 
 ###### LA TRANSFORMACIÓN EDUCATIVA REQUIERE Y PROPICIA GRANDES CAMBIOS INSTITUCIONALES
 
@@ -823,7 +897,7 @@ Esta propuesta de Proyecto Educativo Nacional se sustenta en la firme convicció
 
 ##### EDUCACIÓN HOY: UN FUTURO POR RECUPERAR
 
-Es imposible desconocer que el sistema educativo vigente desde hace décadas guarda una estrecha correspondencia con nuestra realidad social. La defraudación de la promesa de 'educación de calidad para todos' ha permitido que se haga más evidente la desigualdad entre los peruanos, haciendo  que  se  vea  -en  un  sentido  general-  más sombrío el futuro de nuestro país. Las numerosas y viejas fallas y distorsiones de la educación peruana, nos llevan a poner más énfasis en la necesidad de un cambio integral y estructural, así como en la urgencia de empezarlo cuanto antes. A manera de ilustración de ese futuro cancelado que necesitamos reabrir, cabe señalar, por el momento, las áreas básicas de esos fracasos:
+Es imposible desconocer que el sistema educativo vigente desde hace décadas guarda una estrecha correspondencia con nuestra realidad social. La defraudación de la promesa de “educación de calidad para todos” ha permitido que se haga más evidente la desigualdad entre los peruanos, haciendo que se vea —en un sentido general— más sombrío el futuro de nuestro país. Las numerosas y viejas fallas y distorsiones de la educación peruana, nos llevan a poner más énfasis en la necesidad de un cambio integral y estructural, así como en la urgencia de empezarlo cuanto antes. A manera de ilustración de ese futuro cancelado que necesitamos reabrir, cabe señalar, por el momento, las áreas básicas de esos fracasos:
 
 - La expansión de la educación en el Perú no ha cumplido su promesa de universalidad y calidad. Todavía son muchos  los  excluidos, principalmente  los  niños  más pequeños y los jóvenes de las zonas rurales más pobres
 
@@ -855,7 +929,7 @@ ni recursos. El desarrollo del Perú ha perdido así, el que debería ser uno de
 
 - En contraste con todas estas situaciones, tenemos en el  país  instituciones  educativas  de  primer  nivel  que ofrecen una educación básica o superior de gran calidad, en estupendas condiciones materiales y tecnológicas, con maestros preparados y continuamente asistidos técnicamente, que garantizan óptimos resultados de aprendizaje, pero que atienden sólo a un sector de peruanos, aquellos  cuyas  familias  tienen  el  nivel  de ingresos que les permiten pagar sus costosos servicios.
 
-Estos hechos revelan que estamos ante un sistema educativo que reproduce las desigualdades e injusticias históricas de la sociedad, desgajado de las necesidades de desarrollo del Perú y de los peruanos. En toda la historia republicana no hemos contado con políticas educativas  de  largo  plazo, presididas  por  visiones  de  futuro esperanzadoras, levantadas por estadistas, organizaciones  políticas  o  sectores  de  poder, dirigidas  a  transformarlo. La sólida continuidad de este orden de cosas nos lleva  a  inferir, más bien, la  existencia  de  un  proyecto educativo 'oculto' o 'implícito' que se ha vuelto sentido común, que se ha mantenido por años, y que no ha sido modificado por las iniciativas de modernización o por los avances en áreas específicas.
+Estos hechos revelan que estamos ante un sistema educativo que reproduce las desigualdades e injusticias históricas de la sociedad, desgajado de las necesidades de desarrollo del Perú y de los peruanos. En toda la historia republicana no hemos contado con políticas educativas de largo plazo, presididas por visiones de futuro esperanzadoras, levantadas por estadistas, organizaciones políticas o sectores de poder, dirigidas a transformarlo. La sólida continuidad de este orden de cosas nos lleva a inferir, más bien, la existencia de un proyecto educativo “oculto” o “implícito” que se ha vuelto sentido común, que se ha mantenido por años, y que no ha sido modificado por las iniciativas de modernización o por los avances en áreas específicas.
 
 33 La urgencia de un nuevo horizonte
 
@@ -919,11 +993,11 @@ También es un recurso valioso la apertura a la cooperación entre instituciones
 
 ###### c. Recursos políticos y normativos
 
-El  Estado  ha  venido  haciendo  eco  de  diversos  movimientos  y  discursos  por  el  cambio  de  la  educación, como lo demuestran decisiones, normas o leyes innovadoras cuya importancia no debe pasarse por alto. Un precedente relevante es la Consulta Nacional 'Puertas Abiertas' del año 2000, donde buena parte de la sociedad  peruana  expresó  su  opinión  y  sus  expectativas sobre lo que debe ser la educación.
+El Estado ha venido haciendo eco de diversos movimientos y discursos por el cambio de la educación, como lo demuestran decisiones, normas o leyes innovadoras cuya importancia no debe pasarse por alto. Un precedente relevante es la Consulta Nacional “Puertas Abiertas” del año 2000, donde buena parte de la sociedad peruana expresó su opinión y sus expectativas sobre lo que debe ser la educación.
 
 También hay que contar los nuevos consensos entre sectores políticos y sociales que se han expresado en el último  lustro  en  el  Acuerdo  Nacional  y  en  el  Pacto  de Compromisos Recíprocos por la Educación suscrito en el marco de dicho acuerdo. Estos documentos son invalorables en la medida que traducen un reconocimiento del  problema  y  de  la  importancia  de  tomar  acciones decisivas y prontas. De aquí debieran surgir decisiones y responsabilidades al más alto nivel que apuesten por el cambio en la educación. Del mismo modo, la urgencia  y  el  sentido  de  una  transformación  estructural  del sistema educativo han sido enfatizados por la Comisión de la Verdad y Reconciliación como parte de las recomendaciones  de  reforma  institucional  que  efectuó  al final de su investigación sobre la violencia en el Perú.
 
-El Plan de Educación para Todos, elaborado en articulación a la propuesta del Consejo Nacional de Educación por  un  Foro  Nacional  con  significativa  participación del Estado y la sociedad civil, representa una muestra de cómo pueden confluir procesos de formulación de políticas  para  impulsar  algunas  de  las  propuestas  del Proyecto Educativo Nacional, en este caso aquellas que proponen equidad. Finalmente, y como elemento más importante y prometedor obtenido hasta el momento, hay  que  mencionar  a  la  nueva  Ley  General  de Educación, una norma que -no es exagerado decirloofrece un sólido sustento jurídico para el cambio sustancial y abarcador que se postula en la presente propuesta de Proyecto Educativo Nacional.
+El Plan de Educación para Todos, elaborado en articulación a la propuesta del Consejo Nacional de Educación por un Foro Nacional con significativa participación del Estado y la sociedad civil, representa una muestra de cómo pueden confluir procesos de formulación de políticas para impulsar algunas de las propuestas del Proyecto Educativo Nacional, en este caso aquellas que proponen equidad. Finalmente, y como elemento más
 
 36 PRIMERA PARTE
 
@@ -933,13 +1007,15 @@ El Plan de Educación para Todos, elaborado en articulación a la propuesta del 
 
 La educación que queremos para el Perú
 
+importante y prometedor obtenido hasta el momento, hay que mencionar a la nueva Ley General de Educación, una norma que —no es exagerado decirlo— ofrece un sólido sustento jurídico para el cambio sustancial y abarcador que se postula en la presente propuesta de Proyecto Educativo Nacional.
+
 ###### d. Recursos financieros
 
-Hoy  en  día  el  Estado  peruano  cuenta  con  recursos financieros que no tenía antes; vivimos un periodo económico  favorable, dado  entre  otros  factores  por  los altos precios de los productos primarios, principalmente mineros, que el Perú exporta. Tenemos la responsabilidad  de  aprovechar  este  momento  para  iniciar  un ciclo de desarrollo autosostenido más amplio e integrador; al mismo tiempo, existe la obligación de aprovechar  los  nuevos  recursos  disponibles  para  aplicar  las medidas cruciales que requiere la educación peruana. De lo contrario, el momento actual podría sumarse al elenco  de  las  'oportunidades  perdidas' que  hemos venido deplorando desde hace décadas. Que no se haya elevado la inversión pública en educación a un equivalente del 6% del PBI en el pasado quinquenio es un llamado de alerta que debe servir para tomar, ahora sí, las decisiones correctas y justas.
+Hoy en día el Estado peruano cuenta con recursos financieros que no tenía antes; vivimos un periodo económico favorable, dado entre otros factores por los altos precios de los productos primarios, principalmente mineros, que el Perú exporta. Tenemos la responsabilidad de aprovechar este momento para iniciar un ciclo de desarrollo autosostenido más amplio e integrador; al mismo tiempo, existe la obligación de aprovechar los nuevos recursos disponibles para aplicar las medidas cruciales que requiere la educación peruana. De lo contrario, el momento actual podría sumarse al elenco de las “oportunidades perdidas” que hemos venido deplorando desde hace décadas. Que no se haya elevado la inversión pública en educación a un equivalente del 6% del PBI en el pasado quinquenio es un llamado de alerta que debe servir para tomar, ahora sí, las decisiones correctas y justas.
 
 Por otro lado, los recursos que el Estado posee en la actualidad  no  son  solamente  económicos. Además, existe una mejora en la calidad de los servidores públicos, una cultura administrativa parcialmente renovada, una cierta descentralización del proceso educativo, ya mencionada, que debe confluir creativamente con las necesidades de un nuevo sistema educativo eficiente y concebido para desarrollar de manera plena el inmenso potencial humano en todos los peruanos.
 
-El momento actual podría sumarse al elenco de las 'oportunidades perdidas' que hemos venido deplorando desde hace décadas. Que no se haya elevado la inversión pública en educación a un equivalente del 6% del PBI en el pasado quinquenio es un llamado de alerta que debe servir para tomar, ahora sí, las decisiones correctas y justas.
+El momento actual podría sumarse al elenco de las “oportunidades perdidas” que hemos venido deplorando desde hace décadas. Que no se haya elevado la inversión pública en educación a un equivalente del 6% del PBI en el pasado quinquenio es un llamado de alerta que debe servir para tomar, ahora sí, las decisiones correctas y justas.
 
 37 La urgencia de un nuevo horizonte
 
@@ -973,7 +1049,7 @@ La educación que queremos para el Perú
 
 OBJETIVOS ESTRATÉGICOS
 
-Como se ha advertido, el problema educativo descrito y las  grandes  metas  nacionales que enfrentamos demandan una solución integral -no parcial ni transitoriaque  debe  cobrar  la  forma  de  un  Proyecto  Educativo Nacional, entendido como un amplio acuerdo en que se expresan  las  principales  aspiraciones  de  la  sociedad peruana respecto al sentido y la función que deberá tener la educación a largo plazo en el desarrollo del país.
+Como se ha advertido, el problema educativo descrito y las grandes metas nacionales que enfrentamos demandan una solución integral —no parcial ni transitoria— que debe cobrar la forma de un Proyecto Educativo Nacional, entendido como un amplio acuerdo en que se expresan las principales aspiraciones de la sociedad peruana respecto al sentido y la función que deberá tener la educación a largo plazo en el desarrollo del país.
 
 La visión, las prioridades, las opciones y las decisiones que este Proyecto quiere reflejar constituyen una política de Estado y se concretan en una matriz de políticas educativas con plazos, logros y resultados verificables que  deben  comprometer  a  todas  las  instancias  del poder político y movilizar a la sociedad entera.
 
@@ -1035,7 +1111,7 @@ Transformar  las  instituciones  de  educación  básica  en organizaciones  efe
 
 Las  políticas  anteriores  ofrecen  un  sólido  marco  de acción que permitirá que cada escuela se convierta en un foco de innovación sustentado en el aprendizaje colaborativo e intercultural, y que hará posible la creación de un clima institucional amigable, integrador y estimulante.
 
-La  acción  del  Estado  debe  fortalecer  y  estimular  esa innovación y promover redes de intercambio entre centros  educativos  de  manera  tal  que  unos  aprendan  de otros. Asimismo, debe apoyar de manera directa a aquellos que no estén en condiciones de crecer por sí mismos. Para ello el Estado reconoce al centro educativo autonomía en sus decisiones en tres temas clave: recursos (definidos a partir de sus necesidades y no a partir de demandas predeterminadas en un escritorio), selección de docentes (dentro de una carrera pública magisterial) y formación de sus equipos docentes; teniendo participación en la evaluación docente de acuerdo a marcos evaluativos legislados.
+La acción del Estado debe fortalecer y estimular esa innovación y promover redes de intercambio entre centros educativos de manera tal que unos aprendan de otros. Asimismo, debe apoyar de manera directa a aquellos que no estén en condiciones de crecer por sí mismos. Para ello el Estado reconoce al centro educativo autonomía en sus decisiones en tres temas clave: recursos (definidos a partir de sus necesidades y no a partir de demandas predeterminadas en un escritorio), selección de docentes (dentro de una carrera pública magisterial) y formación de
 
 43 Una respuesta integral, el Proyecto Educativo Nacional
 
@@ -1045,7 +1121,9 @@ La  acción  del  Estado  debe  fortalecer  y  estimular  esa innovación y prom
 
 Proyecto Educativo Nacional al 2021
 
-Esta política se complementa con una definición de las metas de aprendizaje elaboradas participativamente a partir de lineamientos nacionales, y que los estudiantes y sus familias tienen el derecho de exigir. Esta propuesta se  traduce  en  un  marco  curricular  básico, cuyos  lineamientos  generales  deben  garantizar  la  cohesión  de  la sociedad peruana y sirvan de base para diseñar currículos  regionales, los  mismos  que  deben  posibilitar  una mayor pertinencia de los aprendizajes tanto con la cultura y la lengua de cada población como con las diversas  realidades  sociales, económicas y geográficas que tenemos en el país. Todo ello debe asegurar el  pleno desarrollo personal, social, productivo de los ciudadanos. Estas  metas  son  evaluadas  periódicamente  para identificar los factores que permiten que algunas escuelas avancen y otras no, retroalimentando a las mismas instituciones y políticas educativas.
+sus equipos docentes; teniendo participación en la evaluación docente de acuerdo a marcos evaluativos legislados.
+
+Esta política se complementa con una definición de las metas de aprendizaje elaboradas participativamente a partir de lineamientos nacionales, y que los estudiantes y sus familias tienen el derecho de exigir. Esta propuesta se traduce en un marco curricular básico, cuyos lineamientos generales deben garantizar la cohesión de la sociedad peruana y sirvan de base para diseñar currículos regionales, los mismos que deben posibilitar una mayor pertinencia de los aprendizajes tanto con la cultura y la lengua de cada población como con las diversas realidades sociales, económicas y geográficas que tenemos en el país. Todo ello debe asegurar el pleno desarrollo personal, social, productivo de los ciudadanos. Estas metas son evaluadas periódicamente para identificar los factores que permiten que algunas escuelas avancen y otras no, retroalimentando a las mismas instituciones y políticas educativas.
 
 #### TERCER OBJETIVO ESTRATÉGICO: MAESTROS BIEN PREPARADOS QUE EJERCEN PROFESIONALMENTE LA DOCENCIA
 
@@ -1077,7 +1155,7 @@ Asimismo, es  indispensable  contar  con  maestros  formados en una perspectiva 
 
 Asegurar  una  gestión  y  financiamiento  de  la  educación nacional con ética pública, equidad, calidad y eficiencia.
 
-La educación peruana ha abundado en buenas intenciones y ha sido escasa en resultados. Poco o nada ha cambiado en las últimas décadas porque la transformación de la gestión educativa no se ha enfrentado con seriedad. Urge, por  ello, tomar  la  determinación  clara  de romper el círculo vicioso de la ineficiencia transformando  el  triángulo  «centro  educativo-instancia  intermediasede central»: una escuela con poder para hacer los cambios que necesita y que reciba el soporte técnico que solicita; en cada región una entidad que articula la educación con las políticas sociales; la educación superior con la básica; al sector productivo con el Estado y la sociedad En el nivel regional se definen las políticas regionales, se provee el servicio educativo y se realiza la articulación intersectorial. En el nivel local, las UGEL se concentran en las cuestiones administrativas y se crea un sistema de asistencia técnica a los centros educativos articulado a municipios, ISP, o a terceros.
+La educación peruana ha abundado en buenas intenciones y ha sido escasa en resultados. Poco o nada ha cambiado en las últimas décadas porque la transformación de la gestión educativa no se ha enfrentado con seriedad. Urge, por ello, tomar la determinación clara de romper el círculo vicioso de la ineficiencia transformando el triángulo «centro educativo-instancia intermedia-sede central»: una escuela con poder para hacer los cambios que necesita y que reciba el soporte técnico que solicita; en cada región una entidad que articula la educación con las políticas sociales; la educación superior con la básica; al sector productivo con el Estado y la sociedad
 
 45 Una respuesta integral, el Proyecto Educativo Nacional
 
@@ -1089,11 +1167,13 @@ Proyecto Educativo Nacional al 2021
 
 civil para que la educación sea relevante, útil para el despegue de la región. Un nivel central que asume un rol de liderazgo, y no de simple administrador, es responsable por los aprendizajes de los estudiantes, funciona para el logro efectivo de objetivos de política educativa, garantiza su unidad y continuidad, la compensación de diferencias, el financiamiento suficiente.
 
-Se hace así visible un nuevo 'organigrama' del sistema educativo. En el nivel nacional (que no debe ser tomado como central) el MED no administra escuelas sino que gestiona políticas nacionales en corresponsabilidad con las regiones. Por su parte, el Sistema Nacional de Evaluación  Acreditación  y  Certificación  Educativa hace una evaluación externa de los aprendizajes e instituciones  y  el  Consejo  Nacional  de  Educación  se ocupa de las políticas de Estado. En el nivel regional se definen  las  políticas  regionales, se  provee  el  servicio educativo y se realiza la articulación intersectorial. En el  nivel  local, las  Unidades  de  Gestión  Educativa Locales (UGEL) se concentran en las cuestiones administrativas y se crea un sistema de asistencia técnica a los centros educativos articulado a municipios, ISP , o a terceros. En  el  nivel  de  las  instituciones  educativas, estas funcionan con poderes de decisión en cuanto a la conducción pedagógica, la selección de personal y el manejo  del  presupuesto. Las  IE  tienden  a  constituir redes  para  compartir  aprendizajes  y  recursos  que  no podrían tener todas individualmente.
+Se hace así visible un nuevo “organigrama” del sistema educativo. En el nivel nacional (que no debe ser tomado como central) el MED no administra escuelas sino que gestiona políticas nacionales en corresponsabilidad con las regiones. Por su parte, el Sistema Nacional de Evaluación Acreditación y Certificación Educativa hace una evaluación externa de los aprendizajes e instituciones y el Consejo Nacional de Educación se ocupa de las políticas de Estado. En el nivel regional se definen las políticas regionales, se provee el servicio educativo y se realiza la articulación intersectorial. En el nivel local, las Unidades de Gestión Educativa Locales (UGEL) se concentran en las cuestiones administrativas y se crea un sistema de asistencia técnica a los centros educativos articulado a municipios, ISP, o a terceros. En el nivel de las instituciones educativas, estas funcionan con poderes de decisión en cuanto a la conducción pedagógica, la selección de personal y el manejo del presupuesto. Las IE tienden a constituir redes para compartir aprendizajes y recursos que no podrían tener todas individualmente.
 
 No es realista pensar en una reestructuración endógena: ella no se hará solamente desde dentro de la administración educativa, sino que reclama la participación informada de la ciudadanía, ya que todo centro educativo  tendrá  la  obligación  de  comunicar  los  resultados logrados por sus estudiantes así como de las razones que facilitan o impiden el aprendizaje. Lo mismo hará la  autoridad  regional  y  nacional. Esta  participación implica  también  mayores  cuotas  de  decisión  para  los padres  de  familia  y  los  centros  educativos, así  como una mayor presencia del Estado en las zonas excluidas del país para que la población renueve sus expectativas en  la  educación  y  constate  que  sus  derechos  no  son letra muerta sino realidades tangibles.
 
-El financiamiento de la educación tiene que ser entendido como el costo de todo un proyecto, es decir, de objetivos, resultados y políticas. Ello demanda un incremento sostenible  y  un  mejor  gasto  de  los  recursos  del  Estado bajo criterios de equidad; implica también que se destine más recursos a las regiones o poblaciones más excluidas o con mayores desventajas, así como un adecuado mecanismo de control (evaluación y monitoreo) de la ejecución orientado a los resultados priorizados.
+El financiamiento de la educación tiene que ser entendido como el costo de todo un proyecto, es decir, de objetivos, resultados y políticas. Ello demanda un incremento sostenible y un mejor gasto de los recursos del Estado bajo criterios de equidad; implica también que se destine más recursos a las regiones o poblaciones más excluidas o con mayores desventajas, así como un adecuado mecanismo de control (evaluación y monitoreo) de la ejecución orientado a los resultados priorizados.
+
+En el nivel regional se definen las políticas regionales, se provee el servicio educativo y se realiza la articulación intersectorial. En el nivel local, las UGEL se concentran en las cuestiones administrativas y se crea un sistema de asistencia técnica a los centros educativos articulado a municipios, ISP, o a terceros.
 
 46 SEGUNDA PARTE
 
@@ -1113,11 +1193,11 @@ La inversión en investigación e innovación debe ser la locomotora de una refo
 
 Son cuatro las políticas que se deben emprender:
 
-- En primer lugar , sentar las bases para que las universidades e institutos generen ciencia e innovación tecnológica con recursos especialmente dedicados a eso. Actualmente  el  Perú  invierte  menos  que  Bolivia  y Ecuador en estas tareas. En una sociedad globalizada, lo que hará distintiva a una universidad o instituto peruano respecto de uno extranjero será la ciencia y la innovación tecnológica propias que logren imprimir en aquellas actividades en las que el país es competitivo internacionalmente así como en conocimiento y en prospectiva para el desarrollo.
+- En primer lugar, sentar las bases para que las universidades e institutos generen ciencia e innovación tecnológica con recursos especialmente dedicados a eso. Actualmente el Perú invierte menos que Bolivia y Ecuador en estas tareas. En una sociedad globalizada, lo que hará distintiva a una universidad o instituto peruano respecto de uno extranjero será la ciencia y la innovación tecnológica propias que logren imprimir en aquellas actividades en las que el país es competitivo internacionalmente así como en conocimiento y en prospectiva para el desarrollo.
 
-- En segundo  lugar , transformar  la  formación  profesional en una perspectiva de educación permanente que  atienda  tanto  a  quienes  necesiten  una  formación técnica específica como a aquellos que requieren formaciones especializadas más allá incluso de los grados de maestría y doctorado.
+- En segundo lugar, transformar la formación profesional en una perspectiva de educación permanente que atienda tanto a quienes necesiten una formación técnica específica como a aquellos que requieren formaciones especializadas más allá incluso de los grados de maestría y doctorado.
 
-- En tercer  lugar , la  acreditación  debe  ser  la  palanca para  que  cada  institución  emprenda  un  camino  de mejora de la calidad.
+- En tercer lugar, la acreditación debe ser la palanca para que cada institución emprenda un camino de mejora de la calidad.
 
 En una sociedad globalizada, lo que hará distintiva a una universidad o instituto peruano respecto de uno extranjero será la ciencia y la innovación tecnológica propias que logren imprimir en aquellas actividades en las que el país es competitivo internacionalmente [...]
 
@@ -1129,7 +1209,7 @@ En una sociedad globalizada, lo que hará distintiva a una universidad o institu
 
 Proyecto Educativo Nacional al 2021
 
-- Finalmente, en cuarto lugar , es necesario plantearse la  necesidad  de  un  sistema  de  educación  superior que, respetando las particularidades, articule y potencie  a  la  universidad  y  a  los  institutos  de  formación profesional y los vincule creativamente con las necesidades de desarrollo local, regional y nacional.
+- Finalmente, en cuarto lugar, es necesario plantearse la necesidad de un sistema de educación superior que, respetando las particularidades, articule y potencie a la universidad y a los institutos de formación profesional y los vincule creativamente con las necesidades de desarrollo local, regional y nacional.
 
 #### SEXTO OBJETIVO ESTRATÉGICO: UNA SOCIEDAD QUE EDUCA A SUS CIUDADANOS Y LOS COMPROMETE CON SU COMUNIDAD
 
@@ -1137,7 +1217,7 @@ Fomentar en todo el país una sociedad dispuesta a formar ciudadanos informados,
 
 Los  aprendizajes  que  propone  el  Proyecto  Educativo Nacional no se logran sólo dentro de las instituciones sino que requieren, además, convertir el espacio público en un lugar de aprendizaje convergente a los mismos propósitos.
 
-Un  factor  de  impacto  significativo  para  el  desarrollo económico y social es la generación de un nuevo capital  social, lo  que  comprende  aspectos  como  valores compartidos, normas, cultura, la capacidad de concertar, construir redes, sinergias, clima de confianza, inteligencia  de  las  instituciones  u  orientación  al  trabajo voluntario. Por eso, programas y actividades en campos como la movilización de la cultura popular, la promoción del asociacionismo, la apertura de canales concretos para la acción sin fines de lucro son parte esencial de las políticas educativas. Lo es también el fortalecimiento de capacidades de las redes sociales y comunitarias  ya  existentes, la  generación  de  nuevos  arreglos institucionales  o  pactos  familia-escuela, sociedadmedios de comunicación.
+Un factor de impacto significativo para el desarrollo económico y social es la generación de un nuevo capital social, lo que comprende aspectos como valores compartidos, normas, cultura, la capacidad de concertar, construir redes, sinergias, clima de confianza, inteligencia de las instituciones u orientación al trabajo voluntario. Por eso, programas y actividades en campos como la movilización de la cultura popular, la promoción del asociacionismo, la apertura de canales concretos para la acción sin fines de lucro son parte esencial de las políticas educativas. Lo es también el fortalecimiento de capacidades de las redes sociales y comunitarias ya existentes, la generación de nuevos arreglos institucionales o pactos familia-escuela, sociedad-medios de comunicación.
 
 El Consejo Nacional de Educación destaca el papel del gobierno local no sólo como un administrador del servicio  educativo  sino, fundamentalmente, como  constructor de una ciudad educadora, que forma en ciudadanía y en convivencia social; o como el catalizador del desarrollo en las áreas rurales. El Proyecto Educativo Nacional llama también a los líderes de organizaciones sociales, partidos políticos y empresas, a jugarse por la educación; mostrando  un  estilo  de  liderazgo  que  sea pedagógico, pero también promoviendo el compromiso de sus instituciones con la educación de sus miembros y  su  comunidad. Finalmente, el  Proyecto  Educativo Nacional llama a los medios de comunicación a ejercer bien el papel que tienen en la formación ciudadana a través de la información.
 
@@ -1173,45 +1253,45 @@ Nos proponemos lograr una educación básica que asegure igualdad de oportunidad
 
 Los derechos a la vida y a la educación desde el nacimiento están plenamente garantizados para toda la infancia, a través de oportunidades diversas y de calidad para su óptimo desarrollo.
 
-- Asegurar el desarrollo óptimo de la infancia a través de la acción intersectorial concertada del Estado en cada región.
+1. Asegurar el desarrollo óptimo de la infancia a través de la acción intersectorial concertada del Estado en cada región.
 
-- 1.1. Satisfacer las necesidades básicas de niños y niñas de 0 a 3 años.
+1.1. Satisfacer las necesidades básicas de niños y niñas de 0 a 3 años.
 
-- 1.2. Apoyar a la familia para una crianza sana, estimulante y respetuosa de niños y niñas.
+1.2. Apoyar a la familia para una crianza sana, estimulante y respetuosa de niños y niñas.
 
-- 1.3. Promover entornos comunitarios saludables, amables y estimulantes para niños y niñas.
+1.3. Promover entornos comunitarios saludables, amables y estimulantes para niños y niñas.
 
-- 1.4. Promover un óptimo desarrollo educativo del potencial humano desde la primera infancia.
+1.4. Promover un óptimo desarrollo educativo del potencial humano desde la primera infancia.
 
 ##### RESULTADO 2: TRECE AÑOS DE BUENA EDUCACIÓN SIN EXCLUSIONES
 
 Educación básica universalizada que garantiza igualdad de oportunidades y resultados educativos a infantes, niños, niñas y jóvenes.
 
-- Ampliar el acceso a la educación básica a los grupos hoy desatendidos.
+2. Ampliar el acceso a la educación básica a los grupos hoy desatendidos.
 
-- 2.1. Universalizar el acceso a la educación inicial formal de niños y niñas de 4 y 5 años de edad.
+2.1. Universalizar el acceso a la educación inicial formal de niños y niñas de 4 y 5 años de edad.
 
-- 2.2. Universalizar el acceso a una educación secundaria de calidad.
+2.2. Universalizar el acceso a una educación secundaria de calidad.
 
-- 2.3. Alfabetizar y desarrollar capacidades esenciales y tecnológicas de los jóvenes y adultos excluidos de la EBR.
+2.3. Alfabetizar y desarrollar capacidades esenciales y tecnológicas de los jóvenes y adultos excluidos de la EBR.
 
-- Asegurar condiciones esenciales para el aprendizaje en los centros educativos que atienden las provincias más pobres de la población nacional.
+3. Asegurar condiciones esenciales para el aprendizaje en los centros educativos que atienden las provincias más pobres de la población nacional.
 
-- 3.1. Dotar de insumos y servicios básicos a todos los centros educativos públicos que atienden a los más pobres.
+3.1. Dotar de insumos y servicios básicos a todos los centros educativos públicos que atienden a los más pobres.
 
-- 3.2. Asegurar buena infraestructura, servicios y condiciones adecuadas de salubridad a todos los centros educativos que atienden a los más pobres.
+3.2. Asegurar buena infraestructura, servicios y condiciones adecuadas de salubridad a todos los centros educativos que atienden a los más pobres.
 
-- 3.3. Articular las políticas de equidad educativa a programas de desarrollo productivo y de lucha contra la pobreza.
+3.3. Articular las políticas de equidad educativa a programas de desarrollo productivo y de lucha contra la pobreza.
 
-- Prevenir el fracaso escolar en los grupos sociales más vulnerables.
+4. Prevenir el fracaso escolar en los grupos sociales más vulnerables.
 
-- 4.1. Asegurar aprendizajes fundamentales en los primeros grados de primaria.
+4.1. Asegurar aprendizajes fundamentales en los primeros grados de primaria.
 
-- 4.2. Prevenir la deserción y la repetición en la educación primaria.
+4.2. Prevenir la deserción y la repetición en la educación primaria.
 
-- 4.3. Superar discriminaciones por género en el sistema educativo
+4.3. Superar discriminaciones por género en el sistema educativo
 
-- 4.4. Superar discriminaciones por discapacidad en el sistema educativo.
+4.4. Superar discriminaciones por discapacidad en el sistema educativo.
 
 50
 
@@ -1251,33 +1331,25 @@ DE QUÉ SITUACIÓN PARTIMOS
 
 AED
 
-En zonas de la sierra la desnutrición crónica infantil está sobre el 50%, superando a los  países  más  pobres  de  Asia  y  África. Esta cifra no ha disminuido pese a la inver-
-
-sión  en  diversos  programas  alimentarios. Las  regiones con  mayor  mortalidad  infantil  -Cusco, Huancavelica  y Apurímac- superan los 70 por mil nacidos vivos, mientras en Lima, Ica y Tacna esta tasa no llega a 25 por mil 1 .
-
-###### ATENCIÓN A LA PRIMERA INFANCIA
-
-Jaime Montes
-
-Cada año nacen en el Perú 600 mil niños, de los  cuales  menos  del  3%  es  atendido  en algunos  marcos  institucionales  como  los Wawa Wasi, cunas o programas de estimu-
+En zonas de la sierra la desnutrición crónica infantil está sobre el 50%, superando a los países más pobres de Asia y África. Esta cifra no ha disminuido pese a la inversión en diversos programas alimentarios. Las regiones con mayor mortalidad infantil –Cusco, Huancavelica y Apurímac– superan los 70 por mil nacidos vivos, mientras en Lima, Ica y Tacna esta tasa no llega a 25 por mil¹.
 
 ###### COBERTURA DE LA EDUCACIÓN INICIAL
 
 Quilla
 
-En  el  año  2003 3 , el  66%  de  los  niños  y niñas peruanos de cuatro y cinco años fue atendido por la educación inicial (55% en el sector público y 11% en el privado). Es
+En el año 2003³, el 66% de los niños y niñas peruanos de cuatro y cinco años fue atendido por la educación inicial (55% en el sector público y 11% en el privado). Es decir, estaba excluido de este servicio el 34% del total de la población en estas edades, que correspondía a 413 110 niños y niñas.
 
-decir, estaba excluido de este servicio el 34% del total de la población en estas edades, que correspondía a 413 110 niños y niñas.
+###### ATENCIÓN A LA PRIMERA INFANCIA
+
+Jaime Montes
+
+Cada año nacen en el Perú 600 mil niños, de los cuales menos del 3% es atendido en algunos marcos institucionales como los Wawa Wasi, cunas o programas de estimulación temprana. La gran mayoría no va a recibir ningún tipo de atención hasta los 5 ó 6 años, tiempo en que el 95% de este grupo de edad es matriculado en una escuela².
 
 ###### INFRAESTRUCTURA Y SANEAMIENTO DE LAS INSTITUCIONES
 
 Foro Educativo
 
-El 23% de las instituciones educativas no tiene agua saludable, alrededor del 35,5% del total se encuentra en regular estado y 13,3% del total está en mal estado, lo que
-
-lación temprana. La gran mayoría no va a recibir ningún tipo de atención hasta los 5 ó 6 años, tiempo en que el 95% de este grupo de edad es matriculado en una escuela 2 .
-
-implica  que  650  mil  niños  se  encuentran  en  riesgo  por esta situación 4 .
+El 23% de las instituciones educativas no tiene agua saludable, alrededor del 35,5% del total se encuentra en regular estado y 13,3% del total está en mal estado, lo que implica que 650 mil niños se encuentran en riesgo por esta situación⁴.
 
 > 1 UNICEF INEI. El estado de la niñez en el Perú. Fondo de las Naciones Unidas para la Infancia. Lima 2004.
 
@@ -1297,9 +1369,9 @@ La educación que queremos para el Perú
 
 OBJETIVO ESTRATÉGICO 1 Diagnóstico
 
-34,5% de la población en el rango de 12-16 años no estaba
+34,5%
 
-matriculado en este nivel.
+de la población en el rango de 12-16 años no estaba matriculado en este nivel.
 
 28,6%
 
@@ -1309,37 +1381,29 @@ del grupo entre 6 y 17 años de edad trabaja.
 
 de estudiantes que cursan la primaria se encuentra en situación de extraedad.
 
-AED
-
-Jaime Montes
-
 ###### LA MATRÍCULA EN SECUNDARIA DE ADOLESCENTES
 
-Al  2004  el  34,5%  de  la  población  en  el rango de 12-16 años (edad normativa para secundaria)  no  estaba  matriculado  en  este nivel 5 . La  situación  es  peor  en  jóvenes  de
+AED
 
-áreas rurales o de familias pobres, que suelen estar excluidos o siguen matriculados en primaria; un 16% de los que terminan  la  secundaria  lo  logra  con  un  atraso  de  3  a  5 años 6 . Ocurre que al 2000, el 25% de los centros poblados ubicados en zonas rurales carecía de colegios secundarios, a pesar de contar con población en edad para este nivel 7 .
-
-###### ANALFABETISMO AFECTA A ZONA RURAL
-
-Las  estadísticas  sobre  analfabetismo  son muy variadas. Según el censo de población 2005, el 8,1% de peruanos tiene tal condición: 1 465 320 personas. Según la ENAHO
+Al 2004 el 34,5% de la población en el rango de 12-16 años (edad normativa para secundaria) no estaba matriculado en este nivel⁵. La situación es peor en jóvenes de áreas rurales o de familias pobres, que suelen estar excluidos o siguen matriculados en primaria; un 16% de los que terminan la secundaria lo logra con un atraso de 3 a 5 años⁶. Ocurre que al 2000, el 25% de los centros poblados ubicados en zonas rurales carecía de colegios secundarios, a pesar de contar con población en edad para este nivel⁷.
 
 ###### INVISIBILIDAD DE LA NIÑEZ TRABAJADORA
 
-El sistema educativo peruano no ha logrado  reconocer  en  toda  su  dimensión  a  un sector altamente vulnerable como el de la niñez trabajadora. El 28,6% del grupo entre
+Foro Educativo
 
-6 y 17 años de edad trabaja, es decir, 1987 165 niños y adolescentes, número que tiende a acrecentarse y que es mayor en zonas rurales, con riesgo de bajo rendimiento, de abandono escolar o de falta de acceso 9 .
+El sistema educativo peruano no ha logrado reconocer en toda su dimensión a un sector altamente vulnerable como el de la niñez trabajadora. El 28,6% del grupo entre 6 y 17 años de edad trabaja, es decir, 1 987 165 niños y adolescentes, número que tiende a acrecentarse y que es mayor en zonas rurales, con riesgo de bajo rendimiento, de abandono escolar o de falta de acceso⁹.
+
+###### ANALFABETISMO AFECTA A ZONA RURAL
+
+Jaime Montes
+
+Las estadísticas sobre analfabetismo son muy variadas. Según el censo de población 2005, el 8,1% de peruanos tiene tal condición: 1 465 320 personas. Según la ENAHO 2002 la cifra era 12,3% de la población, 2 211 193 personas. El analfabetismo afecta en mayor medida a la población rural, los más pobres, las mujeres y los peruanos de más edad⁸.
 
 ###### LA EXTRAEDAD
 
-A consecuencia del ingreso tardío y la repetición, el 38,6% de estudiantes que cursan  la  primaria  se  encuentra  en  situación de  extraedad  respecto  de  su  grado; el
-
 Foro Educativo
 
-Foro Educativo
-
-2002 la cifra era 12,3% de la población, 2 211 193 personas. El analfabetismo afecta en mayor medida a la población rural, los más pobres, las mujeres y los peruanos de más edad 8 .
-
-19,8% tiene atraso en un año, el 9,2% en dos años y el 9,6% en tres años. Los porcentajes se elevan cuando se refieren a zonas rurales (54,2%) y a los estudiantes pobres extremos (60,6%) 10 .
+A consecuencia del ingreso tardío y la repetición, el 38,6% de estudiantes que cursan la primaria se encuentra en situación de extraedad respecto de su grado; el 19,8% tiene atraso en un año, el 9,2% en dos años y el 9,6% en tres años. Los porcentajes se elevan cuando se refieren a zonas rurales (54,2%) y a los estudiantes pobres extremos (60,6%)¹⁰.
 
 > 5 Elaboración propia a partir de datos de población del INEI y de matrícula del MED.
 
@@ -1373,7 +1437,7 @@ LOS  DERECHOS  A  LA  VIDA  Y  A  LA  EDUCACIÓN  DESDE  EL  NACIMIENTO  ESTÁN 
 
 Esta política se dirige a resolver los problemas de salud, nutrición y protección que ponen en riesgo la vida de un millón de niños menores de tres años de edad afectados por la pobreza, mediante una acción intersectorial sostenida, basada en metas e indicadores de impacto distrital y regional, y en estrecha alianza con las comunidades. Busca además promover el desarrollo de las diversas capacidades infantiles desde el nacimiento en los ámbitos cognitivo, social, emocional, físico y motriz. Comprende las siguientes políticas específicas:
 
-###### Satisfacer las necesidades básicas de niños y niñas de 0 a 3 años POLÍTICA 1.1.
+###### POLÍTICA 1.1. Satisfacer las necesidades básicas de niños y niñas de 0 a 3 años
 
 Aunque hay asistencia alimentaria y de salud en zonas de pobreza extrema, la lucha contra la desnutrición crónica infantil se ha estancado y sigue afectando a dos de cada tres niños en las regiones más pobres del país. Esto significa que la sobrevivencia de los niños en sus primeros años no está asegurada en el Perú. Esta política busca contribuir desde la educación a asegurar nutrición adecuada para todos los niños, madres informadas y apoyo efectivo del Estado a las familias en el cuidado de sus hijos pequeños y la atención a sus necesidades básicas.
 
@@ -1395,9 +1459,9 @@ La educación que queremos para el Perú
 
 OBJETIVO ESTRATÉGICO 1 Resultados y políticas
 
-###### Apoyar a la familia para una crianza sana, estimulante y respetuosa de niños y niñas POLÍTICA 1.2.
+###### POLÍTICA 1.2. Apoyar a la familia para una crianza sana, estimulante y respetuosa de niños y niñas
 
-Muchos niños conviven -con espeluznante normalidad- con la violencia, el maltrato constante, la indiferencia o el abandono en su propia familia. Muchos padres dan a sus hijos lo mejor de sí mismos sin poder diferenciar los aciertos de los errores, las decisiones sabias de las opciones perjudiciales, las buenas costumbres de los malos hábitos, y sin recibir orientación ni apoyo especializado para cumplir mejor sus responsabilidades. Esta política busca que el Estado ofrezca a los padres, madres o tutores, en especial los que viven en condiciones de pobreza, oportunidades continuas para reforzar sus capacidades de crianza y desarrollo familiar, a partir de sus saberes más valiosos y sus mejores prácticas.
+Muchos niños conviven —con espeluznante normalidad— con la violencia, el maltrato constante, la indiferencia o el abandono en su propia familia. Muchos padres dan a sus hijos lo mejor de sí mismos sin poder diferenciar los aciertos de los errores, las decisiones sabias de las opciones perjudiciales, las buenas costumbres de los malos hábitos, y sin recibir orientación ni apoyo especializado para cumplir mejor sus responsabilidades. Esta política busca que el Estado ofrezca a los padres, madres o tutores, en especial los que viven en condiciones de pobreza, oportunidades continuas para reforzar sus capacidades de crianza y desarrollo familiar, a partir de sus saberes más valiosos y sus mejores prácticas.
 
 ###### PRINCIPALES MEDIDAS
 
@@ -1407,7 +1471,7 @@ b. Programa intersectorial de promoción de ambientes familiares saludables que 
 
 c. Programa intersectorial contra la violencia familiar y el abuso físico y psicológico a niños y niñas, promotor de estrategias correctivas basadas en el respeto a sus derechos.
 
-###### Promover entornos comunitarios saludables, amables y estimulantes para niños y niñas POLÍTICA 1.3.
+###### POLÍTICA 1.3. Promover entornos comunitarios saludables, amables y estimulantes para niños y niñas
 
 Contaminación, escasez de áreas verdes, crecimiento demográfico son caracterísitcas que afectan el diseño ordenado de las ciudades y dan lugar a conglomerados sin criterio de preservación del ambiente o prevención de riesgos para la salud pública. Frente a eso, se busca promover desde la educación, la salud ambiental, el respeto a los derechos del niño y oportunidades públicas de calidad para el desarrollo infantil, empezando por las comunidades más pobres y mediante alianzas entre las Direcciones Regionales de Educación (DRE), gobiernos locales y otros sectores del Estado.
 
@@ -1597,7 +1661,7 @@ c. Mantenimiento permanente de la infraestructura, equipos e instalaciones de lo
 
 d. Reconstrucción de las instituciones educativas que se destruyeron en la época de la violencia o a raíz de los desastres naturales.
 
-###### Articular las políticas de equidad educativa a programas de desarrollo y lucha contra la pobreza POLÍTICA 3.3.
+###### POLÍTICA 3.3. Articular las políticas de equidad educativa a programas de desarrollo y lucha contra la pobreza
 
 Miles de jóvenes fracasan en el colegio o abandonan las aulas cuando la lucha por la sobrevivencia familiar se hace más crítica o los padres, en razón de su pobreza, no están en condiciones de ofrecerles el apoyo mínimo necesario a sus estudios. Esta política busca, por ello, asociar las políticas de equidad educativa a los programas de desarrollo productivo o de lucha contra la pobreza impulsados por otros sectores del Estado en cada región, a fin de provocar sinergias que ayuden a acortar o cerrar las brechas de desigualdad.
 
@@ -1653,7 +1717,7 @@ OBJETIVO ESTRATÉGICO 1 Resultados y políticas
 
 ###### POLÍTICA 4.2. Prevenir la deserción y la repetición en la educación primaria
 
-La repetición de grado agrava la extraedad -superación de la edad normada para el grado- desalentando a los niños e incrementando el riesgo de fracaso o abandono. Pero la promoción de grado con bajo rendimiento acumula el déficit y habitúa a la mediocridad. Las escuelas no tienen mecanismos que prevengan estas situaciones o que las corrijan con rapidez, dejando a cada niño librado a su suerte. Esta política busca disminuir y suprimir los índices de abandono y repetición escolar, en especial en zonas urbanas y rurales con mayor riesgo de fracaso, mediante la creación de sistemas de apoyo y acompañamiento educativo.
+La repetición de grado agrava la extraedad —superación de la edad normada para el grado— desalentando a los niños e incrementando el riesgo de fracaso o abandono. Pero la promoción de grado con bajo rendimiento acumula el déficit y habitúa a la mediocridad. Las escuelas no tienen mecanismos que prevengan estas situaciones o que las corrijan con rapidez, dejando a cada niño librado a su suerte. Esta política busca disminuir y suprimir los índices de abandono y repetición escolar, en especial en zonas urbanas y rurales con mayor riesgo de fracaso, mediante la creación de sistemas de apoyo y acompañamiento educativo.
 
 ###### PRINCIPALES MEDIDAS
 
@@ -1743,7 +1807,7 @@ En todas las instituciones de educación básica, todos los estudiantes aprenden
 
 - 5.2. Diseñar currículos regionales que garanticen aprendizajes nacionales y que complementen el currículo con conocimientos pertinentes y relevantes para su medio.
 
-- Definir estándares nacionales de aprendizajes prioritarios y evaluarlos regularmente.
+- 6. Definir estándares nacionales de aprendizajes prioritarios y evaluarlos regularmente.
 
 - 6.1. Establecer de manera concertada estándares nacionales de aprendizaje.
 
@@ -1753,7 +1817,7 @@ En todas las instituciones de educación básica, todos los estudiantes aprenden
 
 Instituciones  autónomas  y  organizadas  que  gestionan  y  aplican  prácticas  pedagógicas  donde  todos  aprenden  con  éxito, de manera crítica, creativa y orientada a propiciar una convivencia grata, libre de discriminación e imposición cultural.
 
-- Transformar las prácticas pedagógicas en la educación básica.
+- 7. Transformar las prácticas pedagógicas en la educación básica.
 
 - 7.1. Asegurar prácticas pedagógicas basadas en criterios de calidad y de respeto a los derechos de los niños
 
@@ -1763,7 +1827,7 @@ Instituciones  autónomas  y  organizadas  que  gestionan  y  aplican  práctica
 
 - 7.4. Uso eficaz, creativo y culturalmente pertinente de las nuevas tecnologías de información y comunicación en todos los niveles educativos.
 
-- Impulsar de manera sostenida los procesos de cambio institucional.
+- 8. Impulsar de manera sostenida los procesos de cambio institucional.
 
 - 8.1. Fomentar y apoyar la constitución de redes escolares territoriales responsables del desarrollo educativo local.
 
@@ -1771,7 +1835,7 @@ Instituciones  autónomas  y  organizadas  que  gestionan  y  aplican  práctica
 
 - 8.3. Incrementar progresivamente la jornada escolar y el tiempo efectivo de aprendizaje.
 
-- Articular la educación básica con la educación superior técnica o universitaria.
+- 9. Articular la educación básica con la educación superior técnica o universitaria.
 
 66 SEGUNDA PARTE
 
@@ -1793,7 +1857,7 @@ Más allá de los pasos positivos que se han dado en materia de evaluación del 
 
 De otro lado, para mejorar la calidad de la educación básica y sus resultados tampoco basta aplicar pruebas y darle coherencia al currículo, sino también y sobre todo elevar el nivel de las prácticas pedagógicas, superando el paradigma del copiado y la repetición, así como la deficiente formación profesional docente.
 
-Según la Evaluación Nacional del 2004, los profesores de los alumnos evaluados muestran dificultades en el dominio de algunas habilidades lectoras y matemáticas. La mayoría de ellos tiene capacidad de resolver sólo las tareas más sencillas. Hay que considerar, además, que el Perú tuvo durante los años 90 la jornada escolar de menor duración en América Latina (400 horas en sector urbano y 200 en sector rural), pese a lo cual el Estado fue reduciendo la jornada docente hasta en 24 horas semanales, la más baja del continente. Por lo demás, en un país culturalmente diverso como el nuestro, la educación sigue mostrándose básicamente etnocéntrica. Un 73% de la población cuyo idioma materno no es el castellano no participa de programas bilingües o no está dentro del sistema educativo, siendo su tasa de conclusión de la primaria de 55%.
+Según la Evaluación Nacional del 2004, los profesores de los alumnos evaluados muestran dificultades en el dominio de algunas habilidades lectoras y matemáticas. La mayoría de ellos tiene capacidad de resolver sólo las tareas más sencillas. Hay que considerar, además, que el Perú tuvo durante los años 90 la jornada escolar de menor
 
 67 Una respuesta integral, el Proyecto Educativo Nacional
 
@@ -1803,29 +1867,29 @@ Según la Evaluación Nacional del 2004, los profesores de los alumnos evaluados
 
 Proyecto Educativo Nacional al 2021
 
+duración en América Latina (400 horas en sector urbano y 200 en sector rural), pese a lo cual el Estado fue reduciendo la jornada docente hasta en 24 horas semanales, la más baja del continente. Por lo demás, en un país culturalmente diverso como el nuestro, la educación sigue mostrándose básicamente etnocéntrica. Un 73% de la población cuyo idioma materno no es el castellano no participa de programas bilingües o no está dentro del sistema educativo, siendo su tasa de conclusión de la primaria de 55%.
+
 La deserción en esta población es significativamente más alta en el primer grado (3,5%) y en el sexto grado de primaria (3,9%), siendo el rendimiento de la escuela rural en general el más deficiente de todo el sistema público. Los estudiantes de segundo grado de estas escuelas que ya entienden lo que leen llegan al 2,5% versus el 14,5% de las escuelas urbanas. Un 50% de docentes de primaria declaró recientemente que la mayoría de sus alumnos tiene poca capacidad para aprender.
 
 Los esfuerzos que se han hecho por modernizar la educación básica han adolecido de graves problemas de enfoque e implementación. Suman 3 775 los centros educativos que cuentan con computadoras personales, pero sólo 257 cuentan con conexión a Internet, ofreciendo un máximo de una hora quincenal de tiempo de acceso por alumno. En general, el 83% de las personas que utilizan el Internet indican que acceden a través de cabinas públicas, las que se estiman conservadoramente en más de 5 mil a nivel nacional.
 
 ###### ALGUNOS RESULTADOS DE LA EVALUACIÓN NACIONAL
 
-EVALUACIÓN NACIONAL DEL RENDIMIENTO ESTUDIANTIL 2004 11
+EVALUACIÓN NACIONAL DEL RENDIMIENTO ESTUDIANTIL 2004¹¹
 
-Más de 90% de estudiantes de 2.º y 6.º grado de prima-
+Más de 90%
 
-ria no ha logrado un desarrollo óptimo de las  capacidades  matemáticas  más  elementales, demandadas por el currículo.
+de estudiantes de 2.º y 6.º grado de primaria no ha logrado un desarrollo óptimo de las capacidades matemáticas más elementales, demandadas por el currículo.
 
-85%y 88% de los  estudiantes  de  2.º  y  6.º  grado  de
+85% y 88%
 
-primaria  respectivamente,  no  han  desarrollado las habilidades básicas para leer de  manera  comprensiva  ni  cuentan  con las  herramientas  necesarias  para  continuar su proceso de alfabetización.
+de los estudiantes de 2.º y 6.º grado de primaria respectivamente, no han desarrollado las habilidades básicas para leer de manera comprensiva ni cuentan con las herramientas necesarias para continuar su proceso de alfabetización.
+
+94% y 97,1%
+
+de los estudiantes de 3º y 5º de secundaria respectivamente, muestran limitaciones para reflexionar, realizar inferencias y para comprender y resolver las situaciones de contenido matemático elemental que se les presentan.
 
 11 IV Evaluación Nacional 2004, Unidad de Medición de la Calidad - MED
-
-94%y 97 ,1%
-
-de los estudiantes de 3º y 5º de secunda-
-
-ria respectivamente, muestran limitaciones para reflexionar, realizar inferencias y para comprender y resolver las situaciones de contenido matemático elemental que se les presentan.
 
 68 SEGUNDA PARTE
 
@@ -1843,9 +1907,7 @@ DE QUÉ SITUACIÓN PARTIMOS
 
 AED
 
-No está probada la factibilidad de que un estudiante  promedio  de  la  costa  urbana, los  más  próximos  al  código  cultural  del currículo, alcancen el máximo logro posi-
-
-ble  en  todos  los  aprendizajes  esperados  en  cada  área curricular  y  en  los  tiempos  realmente  disponibles  para aprender. Dado que el perfil del estudiante urbano costeño no es prototípico, por  la  enorme  diversidad  cultural existente, sumado al volumen de horas de clase perdidas cada año y a la baja calidad de la enseñanza, acceder al 100% de logros en todos los ámbitos se vuelve una utopía. En este contexto, las demandas curriculares aparecen excesivas, e  inducen  a  atenderse  de  manera  rápida  y superficial, sin  verificar  logros, simulando  en  verdad  el cumplimiento del programa.
+No está probada la factibilidad de que un estudiante promedio de la costa urbana, los más próximos al código cultural del currículo, alcancen el máximo logro posible en todos los aprendizajes esperados en cada área curricular y en los tiempos realmente disponibles para aprender. Dado que el perfil del estudiante urbano costeño no es prototípico, por la enorme diversidad cultural existente, sumado al volumen de horas de clase perdidas cada año y a la baja calidad de la enseñanza, acceder al 100% de logros en todos los ámbitos se vuelve una utopía. En este contexto, las demandas curriculares aparecen excesivas, e inducen a atenderse de manera rápida y superficial, sin verificar logros, simulando en verdad el cumplimiento del programa.
 
 ###### Tendencia a la aplicación parcial del currículo
 
@@ -1873,8 +1935,6 @@ Proyecto Educativo Nacional al 2021
 
 RESULTADO 1
 
-POLÍTICA 5.1.
-
 ##### TODOS LOGRAN COMPETENCIAS FUNDAMENTALES PARA SU DESARROLLO PERSONAL Y PARA EL PROGRESO E INTEGRACIÓN NACIONAL
 
 EN TODAS LAS INSTITUCIONES DE EDUCACIÓN BÁSICA, TODOS LOS ESTUDIANTES APRENDEN DE MANERA EFECTIVA Y ALCANZAN LAS COMPETENCIAS QUE REQUIEREN PARA DESARROLLARSE COMO PERSONAS, APORTAR AL DESARROLLO HUMANO Y PRODUCTIVO DEL PAÍS Y CONTRIBUIR A LA COHESIÓN SOCIAL, SUPERANDO EXCLUSIONES Y DISCRIMINACIONES.
@@ -1883,7 +1943,7 @@ EN TODAS LAS INSTITUCIONES DE EDUCACIÓN BÁSICA, TODOS LOS ESTUDIANTES APRENDEN
 
 Esta política busca promover una ciudadanía inclusiva e informada que conozca, respete y valore las diferencias socioculturales y ambientales y que aporte al desarrollo y la cohesión social. Para esto propone un marco curricular nacional y la elaboración de currículos regionales pertinentes a cada realidad particular y en diálogo con el contexto global. Comprende las siguientes políticas específicas:
 
-###### Establecer un marco curricular nacional orientado a objetivos nacionales compartidos, unificadores y cuyos ejes incluyan la interculturalidad y la formación de ciudadanos, la formación en ciencia, tecnología e innovación, así como en medio ambiente
+###### POLÍTICA 5.1. Establecer un marco curricular nacional orientado a objetivos nacionales compartidos, unificadores y cuyos ejes incluyan la interculturalidad y la formación de ciudadanos, la formación en ciencia, tecnología e innovación, así como en medio ambiente
 
 Con esta política se busca otorgar perspectiva intercultural a la enseñanza en todos los niveles educativos a fin de posibilitar una ciudadanía inclusiva e intercultural que conozca, respete y valore las diferencias socioculturales y ambientales, y rechace toda forma de racismo y discriminación. Esto debe facilitar la generación de redes de intercambio, solidaridad y complementariedad, así como la consolidación de las identidades individuales y de los diversos grupos sociales.
 
@@ -1915,7 +1975,7 @@ b. Enfoque de equidad en la política pedagógica nacional, dirigida a evitar la
 
 c. Diseño y ejecución de una política de materiales educativos coherentes con el currículo, que responda a la diversidad sociocultural de cada región y asegure aprendizajes culturalmente pertinentes, incluyendo programas informáticos (software), bibliotecas, ludotecas, videotecas y otros medios.
 
-###### Diseñar currículos regionales que garanticen aprendizajes nacionales y complementen el currículo con conocimientos pertinentes y relevantes para su medio POLÍTICA 5.2.
+###### POLÍTICA 5.2. Diseñar currículos regionales que garanticen aprendizajes nacionales y complementen el currículo con conocimientos pertinentes y relevantes para su medio
 
 Esta política busca promover en todo el país currículos regionales interculturales en los distintos niveles y modalidades de la educación básica, los cuales atiendan a las diversas realidades y necesidades socioculturales y productivas de su región, cumpliendo al mismo tiempo con los lineamientos comunes del marco curricular nacional.
 
@@ -1945,7 +2005,7 @@ f. Autonomía del centro educativo para que incorpore el currículo regional en 
 
 Asegurar a todos los peruanos el acceso con calidad a un conjunto de aprendizajes fundamentales que faciliten el acceso a nuevos y mayores aprendizajes, que sean mensurables y comparables internacionalmente. Las políticas específicas que comprende esta política general son las siguientes:
 
-###### Establecer de manera concertada estándares nacionales de aprendizaje POLÍTICA 6.1.
+###### POLÍTICA 6.1. Establecer de manera concertada estándares nacionales de aprendizaje
 
 Esta política busca hacer posible una medición rigurosa del logro educativo con estándares indispensables de aprendizaje que resulten aceptados, asumidos y aplicados en los ámbitos nacional, regional y local y respeten a la vez las particularidades socioculturales y el derecho de los estudiantes a un aprendizaje pertinente y de calidad.
 
@@ -1965,13 +2025,13 @@ La educación que queremos para el Perú
 
 OBJETIVO ESTRATÉGICO 2 Resultados y políticas
 
-- La comunicación -incluyendo la lectura comprensiva y la expresión escrita con diversos tipos de textos y en diversas situaciones.
+- La comunicación —incluyendo la lectura comprensiva y la expresión escrita con diversos tipos de textos y en diversas situaciones.
 
-- Las matemáticas -incluyendo el razonamiento lógico- y las ciencias -incluyendo la relación con el ambiente.
+- Las matemáticas —incluyendo el razonamiento lógico— y las ciencias —incluyendo la relación con el ambiente.
 
-- La ciudadanía -incluyendo el sentimiento de pertenencia, el conocimiento y la valoración de normas; y prácticas de convivencia, integración y respeto por las diferencias.
+- La ciudadanía —incluyendo el sentimiento de pertenencia, el conocimiento y la valoración de normas; y prácticas de convivencia, integración y respeto por las diferencias.
 
-- El desarrollo personal -en dimensiones vinculadas con la autonomía, la autoestima, la comprensión de sí mismo, la expresión estética, el cuidado y desarrollo del cuerpo, la psicomotricidad y la conducta moral.
+- El desarrollo personal —en dimensiones vinculadas con la autonomía, la autoestima, la comprensión de sí mismo, la expresión estética, el cuidado y desarrollo del cuerpo, la psicomotricidad y la conducta moral.
 
 - En el caso de los niños de 4 y 5 años, priorizar sus competencias sociales, cognitivas y comunicacionales, y sus capacidades de movimiento y dominio corporal.
 
@@ -1997,8 +2057,6 @@ Proyecto Educativo Nacional al 2021
 
 RESULTADO 2
 
-POLÍTICA 7.1.
-
 ##### INSTITUCIONES ACOGEDORAS E INTEGRADORAS ENSEÑAN BIEN Y LO HACEN CON ÉXITO
 
 INSTITUCIONES AUTÓNOMAS Y ORGANIZADAS QUE GESTIONAN Y APLICAN PRÁCTICAS PEDAGÓGICAS QUE PERMITEN A TODOS APRENDER CON ÉXITO, DE MANERA CRÍTICA, CREATIVA Y ORIENTADA A PROPICIAR UNA CONVIVENCIA GRATA, LIBRE DE DISCRIMINACIÓN E IMPOSICIÓN CULTURAL.
@@ -2007,13 +2065,13 @@ INSTITUCIONES AUTÓNOMAS Y ORGANIZADAS QUE GESTIONAN Y APLICAN PRÁCTICAS PEDAG�
 
 Estas políticas se dirigen a facilitar el proceso de cambio de las prácticas pedagógicas en las instituciones que ofrece la educación básica. Específicamente, buscan introducir nuevos criterios y prácticas de la buena enseñanza, incentivar la responsabilidad profesional del docente, fomentar un clima institucional amigable en los centros educativos y promover el uso de las tecnologías de información y comunicación (TIC) para optimizar los aprendizajes.
 
-###### Asegurar prácticas pedagógicas basadas en criterios de calidad y de respeto a los derechos de los niños
+###### POLÍTICA 7.1. Asegurar prácticas pedagógicas basadas en criterios de calidad y de respeto a los derechos de los niños
 
 Esta política pedagógica busca elevar la calidad de las prácticas pedagógicas en la educación básica de manera que los docentes puedan vincular los aprendizajes demandados por los currículos con la vida de los estudiantes y de las comunidades en sus distintas facetas y en una perspectiva intercultural, asegurar que los estudiantes ejerzan su rol como protagonistas activos de su propio aprendizaje y propiciar eficazmente el acceso a los logros fundamentales y las metas de aprendizaje establecidas para el país o la región.
 
 ###### PRINCIPALES MEDIDAS
 
-- Difusión y promoción de enfoques pedagógicos innovadores aplicados con pertinencia cultural, que enfaticen:
+a. Difusión y promoción de enfoques pedagógicos innovadores aplicados con pertinencia cultural, que enfaticen:
 
 - El diseño de planes de clases basados en el aprovechamiento de los conocimientos previos, las aptitudes, los estilos de aprendizaje y los intereses de los estudiantes.
 
@@ -2033,11 +2091,7 @@ OBJETIVO ESTRATÉGICO 2 Resultados y políticas
 
 - Una selección de estrategias y metodologías coherentes con el tipo de logros que se quiere promover y con las características de los estudiantes, que eviten la uniformidad forzosa y las rutinas memorísticas.
 
-·
-
-El trabajo permanente en equipo, el aprendizaje por indagación, el diálogo, la controversia y el debate cons-
-
-tante entre estudiantes y con el docente.
+- El trabajo permanente en equipo, el aprendizaje por indagación, el diálogo, la controversia y el debate constante entre estudiantes y con el docente.
 
 - El uso activo, interactivo, reflexivo y crítico de materiales educativos para el logro de aprendizajes específicos.
 
@@ -2109,9 +2163,9 @@ c. Detección de prejuicios, exclusiones y diversas formas de violencia existent
 
 d. Establecimiento de criterios e indicadores sobre formas de enseñar y aprender basadas en los derechos de los niños y adolescentes y orientadas a la personalización, la comunicación y la confianza.
 
-- Programa de formación de líderes dirigido a directores, docentes y estudiantes que promuevan cohesión.
+e. Programa de formación de líderes dirigido a directores, docentes y estudiantes que promuevan cohesión.
 
-- Promoción de la participación protagónica de los estudiantes a través de mecanismos que les permitan ser parte de la toma de decisiones.
+f. Promoción de la participación protagónica de los estudiantes a través de mecanismos que les permitan ser parte de la toma de decisiones.
 
 g. Destierro de prácticas discriminadoras y excluyentes en todas las instituciones de educación básica.
 
@@ -2139,13 +2193,11 @@ e. Clubes literarios y de amistad de carácter virtual que enlacen a las institu
 
 Proyecto Educativo Nacional al 2021
 
-POLÍTICA 8.1.
-
 ###### 8. IMPULSAR DE MANERA SOSTENIDA LOS PROCESOS DE CAMBIO INSTITUCIONAL
 
 Esta política busca crear un conjunto de apoyos y condiciones en los centros educativos para que rompan su aislamiento y propicien de una manera sostenible procesos de cambio institucional, tanto en el plano pedagógico como en el de la gestión. Tiene tres expresiones: la constitución de redes escolares territoriales; la creación de programas itinerantes de apoyo y asistencia técnica permanente, en alianza con los gobiernos locales e institutos superiores pedagógicos y universidades acreditadas; y la ampliación del tiempo efectivo de aprendizaje.
 
-###### Fomentar y apoyar la constitución de redes escolares territoriales responsables del desarrollo educativo local
+###### POLÍTICA 8.1. Fomentar y apoyar la constitución de redes escolares territoriales responsables del desarrollo educativo local
 
 Esta política se propone constituir comunidades distritales de aprendizaje mediante la integración de todas las instituciones  educativas  de  ese  ámbito, en  alianza  con  la  sociedad  civil  local. Su  propósito  sería  apoyarse mutuamente para aumentar la efectividad de su labor pedagógica, fomentar la investigación, el trabajo en colaboración y la educación intercultural, así como en la implementación eficaz de las políticas educativas regionales y nacionales. Trabajarían en cooperación y complementariedad desde las propias identidades institucionales y aspiraciones.
 
@@ -2167,9 +2219,7 @@ La educación que queremos para el Perú
 
 OBJETIVO ESTRATÉGICO 2 Resultados y políticas
 
-POLÍTICA 8.2.
-
-###### Establecer Programas de Apoyo y Acompañamiento Pedagógico con funciones permanentes de servicio a las Redes Escolares
+###### POLÍTICA 8.2. Establecer Programas de Apoyo y Acompañamiento Pedagógico con funciones permanentes de servicio a las Redes Escolares
 
 Esta política busca ofrecer de manera continua a docentes y directores de las Redes Escolares Distritales el acompañamiento y asesoramiento técnico especializado que requieren en los aspectos pedagógicos y de gestión escolar dentro de una estrategia global de gestión pedagógica orientada a poner en práctica las políticas de calidad y equidad de carácter regional y nacional, dirigidas a la institución educativa.
 
@@ -2181,7 +2231,7 @@ a. Creación  de  Programas  de  Apoyo  y  Acompañamiento  Pedagógico  itinera
 
 - Los Programas deben tener planes operativos concertados con autoridades locales, estar dotados de recursos que les permitan cumplir su papel y estar vinculados con los municipios distritales por medio de convenios.
 
-- Canalización a través de estos Programas de otros servicios y oportunidades tales como:
+b. Canalización a través de estos Programas de otros servicios y oportunidades tales como:
 
 - Préstamo de materiales educativos o equipos y recursos diversos a todas las instituciones de la red, incluido un sistema de referencia de recursos disponibles en la comunidad.
 
@@ -2209,7 +2259,7 @@ e. Estímulos a las instituciones educativas privadas que aporten en la mejora d
 
 f. Fomento de vínculos entre las instituciones educativas de cada distrito y las entidades productivas y aquellas que desarrollen ciencia y tecnología en sus respectivos entornos.
 
-###### Incrementar progresivamente la jornada escolar y el tiempo efectivo de aprendizaje POLÍTICA 8.3.
+###### POLÍTICA 8.3. Incrementar progresivamente la jornada escolar y el tiempo efectivo de aprendizaje
 
 Esta política busca aumentar el tiempo efectivo dedicado al aprendizaje en las instituciones públicas de educación básica, comenzando por las de zonas rurales, hasta lograr el promedio nacional de horas que el Estado debe garantizar a los estudiantes.
 
@@ -2283,23 +2333,23 @@ Nos proponemos asegurar el desarrollo profesional docente, revalorando su papel 
 
 Sistema integral de formación docente inicial y continua acorde a los avances pedagógicos y científicos, a las prioridades educativas y a la realidad diversa y pluricultural del país; propicia equipos docentes que se desempeñan de manera ética y competente y son valorados por ella y sus estudiantes.
 
-- Mejorar y reestructurar los sistemas de formación inicial y continua de los profesionales de la educación.
+10. Mejorar y reestructurar los sistemas de formación inicial y continua de los profesionales de la educación.
 
-- 10.1. Generar estándares claros sobre la buena docencia y acreditar instancias de formación y desarrollo profesional docente, condicionando a su acreditación la capacidad de certificar a los docentes..
+10.1. Generar estándares claros sobre la buena docencia y acreditar instancias de formación y desarrollo profesional docente, condicionando a su acreditación la capacidad de certificar a los docentes..
 
-- 10.2. Reestructurar y fortalecer la formación docente en servicio, articulada con la formación docente inicial.
+10.2. Reestructurar y fortalecer la formación docente en servicio, articulada con la formación docente inicial.
 
 ##### RESULTADO 2: CARRERA PÚBLICA MAGISTERIAL RENOVADA
 
 Carrera pública magisterial renovada, contribuye de manera eficiente al logro esperado en los resultados de aprendizaje de los estudiantes y en el desempeño profesional docente.
 
-- Implementar una nueva Carrera Pública Magisterial.
+11. Implementar una nueva Carrera Pública Magisterial.
 
-- 11.1. Evaluar a los docentes para su ingreso y permanencia en la Carrera Pública Magisterial, y su asignación laboral.
+11.1. Evaluar a los docentes para su ingreso y permanencia en la Carrera Pública Magisterial, y su asignación laboral.
 
-- 11.2. Vincular los ascensos y remuneraciones al desempeño profesional y a las condiciones de trabajo.
+11.2. Vincular los ascensos y remuneraciones al desempeño profesional y a las condiciones de trabajo.
 
-- 11.3. Promover la revaloración social de la profesión docente, en base al reconocimiento de sus buenas prácticas.
+11.3. Promover la revaloración social de la profesión docente, en base al reconocimiento de sus buenas prácticas.
 
 84 SEGUNDA PARTE
 
@@ -2333,25 +2383,27 @@ DE QUÉ SITUACIÓN PARTIMOS
 
 ###### INSTITUCIONES FORMADORAS DEFICIENTES
 
-Al evaluarse a 213 institutos superiores pedagógicos privados, 47 de ellos (22,1%) llegaron al mismo nivel de logro óptimo-satisfactorio. En general, según un estudio del propio Ministerio de Educación, la mayoría de nuestras instituciones de formación magisterial (no universitaria) manifestaban procesos formativos intermedios o bajos en cuanto  a  logro 14 . Hay que tener en cuenta que cada instituto superior pedagógico público atiende a un promedio de 507 alumnos, mientras que los privados a 251 15 .
+Al evaluarse a 213 institutos superiores pedagógicos privados, 47 de ellos (22,1%) llegaron al mismo nivel de logro óptimo-satisfactorio. En general, según un estudio del propio Ministerio de Educación, la mayoría de nuestras instituciones de formación magisterial (no universitaria) manifestaban procesos formativos intermedios o bajos en cuanto a logro¹⁴. Hay que tener en cuenta que cada instituto superior pedagógico público atiende a un promedio de 507 alumnos, mientras que los privados a 251¹⁵.
 
 AED
 
-251 alumnos es el promedio que atiende cada instituto superior pedagógico privado.
+507
+alumnos es el promedio que atiende cada instituto superior pedagógico público.
+
+251
+alumnos es el promedio que atiende cada instituto superior pedagógico privado.
+
+AED
 
 ###### NÚMERO DE DOCENTES
 
 Foro Educativo
 
-Al 2005, el 30% de los maestros laboran en la Costa, el 21,29% en la Sierra y el 13% en la  Selva, y  el  29%  en  Lima. El  39%  del magisterio nacional son varones y el 61%
+Al 2005, el 30% de los maestros laboran en la Costa, el 21,29% en la Sierra y el 13% en la Selva, y el 29% en Lima. El 39% del magisterio nacional son varones y el 61% son mujeres. El 89% de docentes estudió en la escuela pública y un 11% en escuela privada¹⁶.
 
-son  mujeres. El  89%  de  docentes  estudió  en  la  escuela pública y un 11% en escuela privada 16 .
+La población magisterial aumentó con mayor celeridad que los educandos¹⁷. El crecimiento acumulado del número de docentes entre 1968 y el 2000 fue 19% mayor al de la matrícula estatal. Del 2001 al 2003, este número creció 125,6 veces más; mientras que el número de estudiantes solamente subió 49,3 veces más.
 
-La población magisterial aumentó con mayor celeridad que  los  educandos 17 . El  crecimiento  acumulado  del número de docentes entre 1968 y el 2000 fue 19% mayor al de la matrícula estatal. Del 2001 al 2003, este número creció 125,6 veces más; mientras que el número de estudiantes solamente subió 49,3 veces más.
-
-De otro lado, al 2002, el 74 y 69 % de los docentes de educación primaria y secundaria, respectivamente, cumplían con  la  certificación  académica  requerida  actualmente para el nivel educativo en que se desempeñan. Es decir, un tercio en promedio enseñaba en un campo para el que no estaba preparado.
-
-507 alumnos es el promedio que atiende cada instituto superior pedagógico público.
+De otro lado, al 2002, el 74 y 69 % de los docentes de educación primaria y secundaria, respectivamente, cumplían con la certificación académica requerida actualmente para el nivel educativo en que se desempeñan. Es decir, un tercio en promedio enseñaba en un campo para el que no estaba preparado.
 
 > 14 SÁNCHEZ MORENO, Guillermo y otros. Construyendo una política de Formación Magisterial (1997-2006). Lima, MED-GTZ, 2006. Pág. 31.
 
@@ -2360,8 +2412,6 @@ De otro lado, al 2002, el 74 y 69 % de los docentes de educación primaria y sec
 > 16 MECEP, 2004.
 
 > 17 CHIROQUE, SIGFREDO. Cuántos maestros son sutepistas, texto publicado en web Educared.
-
-AED
 
 86 SEGUNDA PARTE
 
@@ -2427,8 +2477,6 @@ Proyecto Educativo Nacional al 2021
 
 RESULTADO 1
 
-POLÍTICA 10.1.
-
 ##### SISTEMA INTEGRAL DE FORMACIÓN DOCENTE
 
 SISTEMA INTEGRAL DE FORMACIÓN DOCENTE ACORDE A LOS AVANCES PEDAGÓGICOS Y CIENTÍFICOS, LAS PRIORIDADES EDUCATIVAS Y LA REALIDAD DEL PAÍS; PROPICIA EQUIPOS DOCENTES ÉTICOS Y COMPETENTES QUE SON VALORADOS POR LA SOCIEDAD Y SUS ESTUDIANTES.
@@ -2437,7 +2485,7 @@ SISTEMA INTEGRAL DE FORMACIÓN DOCENTE ACORDE A LOS AVANCES PEDAGÓGICOS Y CIENT
 
 Estas políticas se dirigen a promover cambios sustantivos en los sistemas de formación docente inicial y en servicio, así como de los diversos profesionales que ejercen labores en el sector, generando estándares claros para la calificación de la buena docencia y la acreditación de centros de formación magisterial e instancias de formación en servicio.
 
-###### Generar estándares claros sobre la buena docencia y acreditar instancias de formación y desarrollo profesional docente, condicionando a su acreditación la capacidad de certificar a los docentes
+###### POLÍTICA 10.1. Generar estándares claros sobre la buena docencia y acreditar instancias de formación y desarrollo profesional docente, condicionando a su acreditación la capacidad de certificar a los docentes
 
 Esta política busca acreditar la calidad de la formación ofrecida a los profesores en sus diversas etapas y modalidades, evaluando y racionalizando los centros de formación docente, públicos y privados, universitarios y no universitarios, en base a criterios claros y técnicamente sustentados de calidad, y fomentando una cultura de evaluación y autoevaluación de la gestión orientada a la acreditación. Se busca contrarrestar así las limitaciones de la formación inicial que ofrecen muchas instituciones de dudosa calidad a jóvenes que aspiran a ser maestros, deficiencias que reproducen un modelo de docencia caracterizado por el facilismo y la repetición de hechos o datos.
 
@@ -2525,9 +2573,9 @@ Desde que egresan de sus centros de formación inicial, los docentes no son eval
 
 ###### PRINCIPALES MEDIDAS
 
-- Ingreso a la carrera pública sólo para docentes que provienen de instituciones acreditadas. El proceso de ingreso incluye una etapa inicial de inserción.
+a. Ingreso a la carrera pública sólo para docentes que provienen de instituciones acreditadas. El proceso de ingreso incluye una etapa inicial de inserción.
 
-- Programa nacional de evaluación y certificación profesional docente en todo el país, pues las evaluaciones serán requisito para permanecer en la nueva carrera pública y -en algunos casos- para acceder a aumentos de remuneraciones o bonificaciones.
+b. Programa nacional de evaluación y certificación profesional docente en todo el país, pues las evaluaciones serán requisito para permanecer en la nueva carrera pública y —en algunos casos— para acceder a aumentos de remuneraciones o bonificaciones.
 
 91 Una respuesta integral, el Proyecto Educativo Nacional
 
@@ -2621,23 +2669,23 @@ Nos proponemos asegurar una gestión y financiamiento de la educación nacional 
 
 Una gestión eficiente y descentralizada, altamente profesional y desarrollada con criterios de ética pública, coordinación intersectorial y participación. Asimismo, una gestión informada, transparente en sus actos y desarrollada tecnológicamente en todas sus instancias.
 
-- Cambiar el actual modelo de gestión pública de la educación basándola en procedimientos democráticos y en el planeamiento, promoción, monitoreo y evaluación de políticas estratégicas nacionales.
+12. Cambiar el actual modelo de gestión pública de la educación basándola en procedimientos democráticos y en el planeamiento, promoción, monitoreo y evaluación de políticas estratégicas nacionales.
 
-- Reformar la gestión educativa regional y articularla con los ejes de desarrollo nacional y regional con criterios de coordinación intersectorial.
+13. Reformar la gestión educativa regional y articularla con los ejes de desarrollo nacional y regional con criterios de coordinación intersectorial.
 
-- Fortalecer las capacidades de las instituciones y redes educativas para asumir responsabilidades de gestión de mayor grado y orientadas a conseguir más y mejores resultados.
+14. Fortalecer las capacidades de las instituciones y redes educativas para asumir responsabilidades de gestión de mayor grado y orientadas a conseguir más y mejores resultados.
 
-- Fortalecer una participación social responsable y de calidad en la formulación, gestión y vigilancia de las políticas y proyectos educativos.
+15. Fortalecer una participación social responsable y de calidad en la formulación, gestión y vigilancia de las políticas y proyectos educativos.
 
-- Moralizar la gestión en todas las instancias del sistema educativo.
+16. Moralizar la gestión en todas las instancias del sistema educativo.
 
 ##### RESULTADO 2: EDUCACIÓN FINANCIADA Y ADMINISTRADA CON EQUIDAD Y EFICIENCIA
 
 Financiamiento prioritario, suficiente, bien distribuido, sostenido y oportuno de la educación nacional con un presupuesto utilizado eficaz y eficientemente.
 
-- Incrementar sostenidamente el presupuesto asegurando calidad educativa para todos, asignando recursos con criterios de equidad, calidad y eficiencia.
+17. Incrementar sostenidamente el presupuesto asegurando calidad educativa para todos, asignando recursos con criterios de equidad, calidad y eficiencia.
 
-- Estimular y procurar el aumento de la contribución social al financiamiento de la educación.
+18. Estimular y procurar el aumento de la contribución social al financiamiento de la educación.
 
 96 SEGUNDA PARTE
 
@@ -2681,27 +2729,25 @@ Año | Inversión en millones de soles | PBI del año
 
 La cifra del 2005, respecto del Presupuesto Nacional, representa aproximadamente el 18%.
 
-> 20 Ver noticia en: http://archivo.larepublica.com.pe/index.php?option=com_content&task=view&id=99704&Itemid=484&fecha_edicion=2006-01-10
-
-> 21 Indicadores de la Educación Perú 2004. Ministerio de Educación - Unidad de Estadística Educativa, pp. 136.
-
-> 22 IV Evaluación Nacional del Rendimiento Estudiantil 2004. Lima. Ministerio De Educación - Unidad de Medición de la Calidad.
-
-> 23 ALCÁZAR, LORENA. Mecanismos de transferencia de recursos en el marco de la descentralización educativa. Lima, 2005, Consejo Nacional de Educación, pp. 6.
-
 ###### DISTRIBUCIÓN DEL PRESUPUESTO POR REGIONES
 
 Tarea
 
-Las regiones de mayor necesidad son las que están en zonas rurales y atienden población bilingüe. La educación bilingüe intercultural en la primaria tiene sólo el 11% de cobertu-
+Las regiones de mayor necesidad son las que están en zonas rurales y atienden población bilingüe. La educación bilingüe intercultural en la primaria tiene sólo el 11% de cobertura a nivel nacional²¹. Los departamentos que reflejan menor rendimiento en las áreas de Comunicación y Matemática son justamente los que tienen una mayor población rural: Apurímac, Loreto, Ucayali, Puno, Cusco, Ayacucho, Huánuco y Cajamarca²².
 
-ra  a  nivel  nacional 21 . Los  departamentos  que  reflejan menor  rendimiento  en  las  áreas  de  Comunicación  y Matemática  son  justamente  los  que  tienen  una  mayor población rural: Apurímac, Loreto, Ucayali, Puno, Cusco, Ayacucho, Huánuco y Cajamarca 22 .
-
-No hay equidad en la distribución presupuestal por regiones. El presupuesto por alumno, por ejemplo, de la región Moquegua (el más alto) es 2,3 veces mayor que el correspondiente a la  región  Cusco  (el  más  bajo). No  obstante, Cusco tiene nueve veces mayor matrícula que Moquegua 23 .
+No hay equidad en la distribución presupuestal por regiones. El presupuesto por alumno, por ejemplo, de la región Moquegua (el más alto) es 2,3 veces mayor que el correspondiente a la región Cusco (el más bajo). No obstante, Cusco tiene nueve veces mayor matrícula que Moquegua²³.
 
 CNE
 
 Diario El Peruano
+
+> 20 Ver noticia en: http://archivo.larepublica.com.pe/index.php?option=com_content&task=view&id=99704&Itemid=484&fecha_edicion=2006-01-10
+
+> 21 Indicadores de la Educación Perú 2004. Ministerio de Educación – Unidad de Estadística Educativa, pp. 136.
+
+> 22 IV Evaluación Nacional del Rendimiento Estudiantil 2004. Lima. Ministerio De Educación – Unidad de Medición de la Calidad.
+
+> 23 ALCÁZAR, LORENA. Mecanismos de transferencia de recursos en el marco de la descentralización educativa. Lima, 2005, Consejo Nacional de Educación, pp. 6.
 
 98 SEGUNDA PARTE
 
@@ -2715,15 +2761,23 @@ OBJETIVO ESTRATÉGICO4
 
 Diagnóstico
 
-19 regiones hasta el 2005, al menos, ya habían iniciado la formulación de su Proyecto Educativo Regional.
+19
+regiones hasta el 2005,
+al menos, ya habían iniciado
+la formulación de su
+Proyecto Educativo
+Regional.
 
-196 se debían conformar se han constituido a julio
-
-de los 206 COPALE que del año 2006.
+196
+de los 206 COPALE que
+se debían conformar se
+han constituido a julio
+del año 2006.
 
 26
-
-eran las regiones donde se habían constituido COPARE, al 2005.
+eran las regiones donde
+se habían constituido
+COPARE, al 2005.
 
 ###### ASPECTOS DE LA DESCENTRALIZACIÓN EDUCATIVA
 
@@ -2737,7 +2791,9 @@ Hasta el 2005, al menos 19 regiones ya habían iniciado la formulación de su Pr
 
 ###### Consejos de Participación Local constituidos (COPALE)
 
-A julio del año 2006 se han constituido 196 de los 206 COPALE que se debían conformar 25 . Las 10 provincias Tarea donde falta constituir este consejo están distribuidas en las siguientes regiones: Amazonas (1 provincia), Cajamarca (1  provincia), Huánuco  (1  provincia), Ica  (1  provincia), Lambayeque  (3  provincias), Loreto  (1  provincia), La Libertad (2 provincias).
+A julio del año 2006 se han constituido 196 de los 206 COPALE que se debían conformar²⁵. Las 10 provincias donde falta constituir este consejo están distribuidas en las siguientes regiones: Amazonas (1 provincia), Cajamarca (1 provincia), Huánuco (1 provincia), Ica (1 provincia), Lambayeque (3 provincias), Loreto (1 provincia), La Libertad (2 provincias).
+
+Tarea
 
 ###### CONEI
 
@@ -2783,13 +2839,11 @@ denuncias en el sector educación recibió la Defensoría del Pueblo entre los a
 
 casos de delitos contra la administración pública lleva la Procuradoría del MED, entre el 2001 y el 2004.
 
-> 27 HELFER Gloria y otros. Educación Libre de Corrupción , datos del 6.º, 7.º y 8.º informe anual de la Defensoría del Pueblo, 2004.
+> 27 HELFER Gloria y otros. Educación Libre de Corrupción, datos del 6.º, 7.º y 8.º informe anual de la Defensoría del Pueblo, 2004.
 
 > 28 Fuente: Ministerio de Educación - Oficina de Apoyo a la Administración de la Educación (OAAE) - Oficina de Organización y Métodos (OYM). Julio del 2006.
 
-> 29
-
-> Ídem.
+> 29 Ídem.
 
 100
 
@@ -2801,8 +2855,6 @@ SEGUNDA PARTE
 
 La educación que queremos para el Perú
 
-TRANSFORMACIÓN DEL SISTEMA
-
 OBJETIVO ESTRATÉGICO 4 Resultados y políticas
 
 RESULTADO 1
@@ -2810,6 +2862,8 @@ RESULTADO 1
 ##### GESTIÓN EDUCATIVA EFICAZ, ÉTICA, DESCENTRALIZADA Y CON PARTICIPACIÓN DE LA CIUDADANÍA
 
 UNA GESTIÓN EFICIENTE Y DESCENTRALIZADA, ALTAMENTE PROFESIONAL Y DESARROLLADA CON CRITERIOS  DE  ÉTICA  PÚBLICA,  ENFOQUE  INTERSECTORIAL  Y  PARTICIPACIÓN.  UNA  GESTIÓN INFORMADA, TRANSPARENTE EN SUS ACTOS Y DESARROLLADA TECNOLÓGICAMENTE EN TODAS SUS INSTANCIAS.
+
+TRANSFORMACIÓN DEL SISTEMA
 
 ###### NUEVO SISTEMA DE GESTIÓN
 
@@ -2823,7 +2877,7 @@ En la exposición de sus objetivos, el Proyecto Educativo Nacional traza un nuev
 
 - En el nivel de las instituciones educativas, las escuelas funcionan con poderes de decisión en cuanto a la conducción pedagógica, la selección de personal y el manejo del presupuesto. Las instituciones educativas tienden a constituir redes para compartir aprendizajes y recursos que no podrían tener todas individualmente.
 
-101 Una respuesta integral, el Proyecto Educativo Nacional
+Una respuesta integral, el Proyecto Educativo Nacional 101
 
 [[END OF PAGE 101]]
 
@@ -2841,7 +2895,7 @@ a. Una redefinición del rol del Ministerio de Educación, que lo haga ir más a
 
 b. Transferencia  a  las  regiones  de  competencias  educativas, recursos  y  autonomía  de  gestión  presupuestal. Transferencia a las instituciones y redes educativas de competencias básicas de gestión, previa constatación de que han desarrollado las capacidades y criterios técnicos necesarios para asumir nuevas responsabilidades.
 
-c. Rendición pública de cuentas al final de cada año por parte del ministro del sector y de los gobiernos regionales. Se debe rendir cuentas sobre los resultados efectivos de las políticas educativas -principalmente en equidad y calidad- y sobre la eficiencia del manejo de los recursos.
+c. Rendición pública de cuentas al final de cada año por parte del ministro del sector y de los gobiernos regionales. Se debe rendir cuentas sobre los resultados efectivos de las políticas educativas —principalmente en equidad y calidad— y sobre la eficiencia del manejo de los recursos.
 
 d. Gestión con alto desarrollo tecnológico que garantice la viabilidad de las políticas así como la racionalidad y pertinencia de la producción normativa, y que también asegure procedimientos transparentes, simplificados y flexibles que dinamicen procesos, faciliten la resolución de conflictos y aseguren la eficacia de las políticas.
 
@@ -2881,7 +2935,7 @@ a. Integración de la Direcciones Regionales de Educación (DRE) y las Unidades 
 
 b. Políticas educativas regionales articuladas a los objetivos y planes de desarrollo local y regional en el marco del Proyecto Educativo Regional, respetando los ciclos productivos y climáticos a través de un calendario escolar diferenciado.
 
-103 Una respuesta integral, el Proyecto Educativo Nacional
+Una respuesta integral, el Proyecto Educativo Nacional 103
 
 [[END OF PAGE 103]]
 
@@ -2947,7 +3001,7 @@ c. Institucionalización de los Consejos Participativos Regionales (COPARE) y Co
 
 - Oportunidades para el desarrollo de capacidades técnicas de sus integrantes en planeamiento, concertación y comunicación.
 
-105 Una respuesta integral, el Proyecto Educativo Nacional
+Una respuesta integral, el Proyecto Educativo Nacional 105
 
 [[END OF PAGE 105]]
 
@@ -2983,17 +3037,17 @@ d. Utilización de instancias arbitrales especializadas en mediación y resoluci
 
 La educación que queremos para el Perú
 
-HACIA LA CALIDAD
-
 OBJETIVO ESTRATÉGICO 4 Resultados y políticas
 
-- Defensorías del Niño y el Adolescente capacitadas en la defensa del derecho a la educación.
+e. Defensorías del Niño y el Adolescente capacitadas en la defensa del derecho a la educación.
 
 f. Tipificación de «delitos educativos» y código claro de sanciones. Creación de fiscalías especializadas.
 
 g. Sanción administrativa o penal efectiva, ejemplar, oportuna, con agilidad en la atención y resolución de los procesos, tanto para los «delitos educativos» como para faltas contra la moral e integridad de los educadores y administrativos.
 
 h. Fortalecer la vigilancia ciudadana a través de convenios con entidades especializadas de sociedad civil para que aporten informes periódicos acerca de la corrupción en el sector.
+
+HACIA LA CALIDAD
 
 ###### CRITERIOS DE UNA BUENA GESTIÓN EDUCATIVA
 
@@ -3035,7 +3089,7 @@ Proponemos la adopción, en todas las instancias de gestión del sistema educati
 
 - Fomenta una cultura de la calidad y de medición de la calidad.
 
-107 Una respuesta integral, el Proyecto Educativo Nacional
+Una respuesta integral, el Proyecto Educativo Nacional 107
 
 [[END OF PAGE 107]]
 
@@ -3083,7 +3137,7 @@ f. Reestructuración del presupuesto sectorial destinando más recursos a:
 
 - Gastos de inversión como infraestructura, laboratorios, aulas, servicios higiénicos o instalaciones deportivas.
 
-- Gastos corrientes en bienes y servicios -tales como textos, bibliotecas, fondos por escuela para agua, luz, teléfono, mantenimiento- que ayuden al logro de los aprendizajes o al funcionamiento de las instituciones educativas.
+- Gastos corrientes en bienes y servicios —tales como textos, bibliotecas, fondos por escuela para agua, luz, teléfono, mantenimiento— que ayuden al logro de los aprendizajes o al funcionamiento de las instituciones educativas.
 
 - Recursos para programas de innovación, la constitución de redes y centros de recursos y servicios educativos.
 
@@ -3097,7 +3151,7 @@ j. Planificación concertada intersectorial y regional de los programas estraté
 
 k. Gestión y uso de recursos de endeudamiento, operaciones de canje de deuda por educación y cooperación técnica  y  financiera, que  se  sustentan  en  un  plan  previo  de  necesidades  basado  en  las  prioridades  del  Proyecto Educativo Nacional y los Proyectos Educativos Regionales.
 
-109 Una respuesta integral, el Proyecto Educativo Nacional
+Una respuesta integral, el Proyecto Educativo Nacional 109
 
 [[END OF PAGE 109]]
 
@@ -3155,43 +3209,43 @@ Nos proponemos asegurar una educación superior de calidad que brinde aportes ef
 
 Sistema de educación superior universitaria y técnico-profesional que responde a los retos del desarrollo y a las necesidades de las políticas de desarrollo y que hace posible la articulación de sus diversos componentes, un mayor financiamiento público y privado, y la renovación y superior calificación de la carrera docente.
 
-- Renovar la estructura del sistema de la educación superior, tanto universitaria cuanto técnico-profesional.
+19. Renovar la estructura del sistema de la educación superior, tanto universitaria cuanto técnico-profesional.
 
-- Consolidar y dar funcionamiento efectivo al Sistema Nacional de Acreditación y Certificación de la Calidad de la Educación Superior .
+20. Consolidar y dar funcionamiento efectivo al Sistema Nacional de Acreditación y Certificación de la Calidad de la Educación Superior.
 
-- Incrementar el financiamiento del sistema nacional de educación superior y enfocar los recursos en las prioridades de dicho sistema.
+21. Incrementar el financiamiento del sistema nacional de educación superior y enfocar los recursos en las prioridades de dicho sistema.
 
-- Renovar la carrera docente en educación superior sobre la base de méritos académicos.
+22. Renovar la carrera docente en educación superior sobre la base de méritos académicos.
 
 ##### RESULTADO 2: SE PRODUCE CONOCIMIENTOS RELEVANTES PARA EL DESARROLLO Y LA LUCHA CONTRA LA POBREZA
 
 Producción permanente y acumulativa de conocimiento relevante para el desarrollo humano, socioeconómico y cultural que permita igualar el nivel de investigación, innovación y avance tecnológico de los países vecinos.
 
-- Articulación de la educación superior con la realidad económica y cultural.
+23. Articulación de la educación superior con la realidad económica y cultural.
 
-- 23.2 Vincular las instituciones de educación superior al desarrollo regional.
+23.1. Fomentar la investigación para la innovación y el desarrollo tecnológico en actividades competitivas.
 
-- 23.1. Fomentar la investigación para la innovación y el desarrollo tecnológico en actividades competitivas.
+23.2 Vincular las instituciones de educación superior al desarrollo regional.
 
-- 23.3. Desarrollar el potencial artístico, cultural, deportivo y natural del país.
+23.3. Desarrollar el potencial artístico, cultural, deportivo y natural del país.
 
-- Educación superior ligada a la investigación y a la planificación.
+24. Educación superior ligada a la investigación y a la planificación.
 
-- 24.2. Fomentar la planificación y prospectiva sobre el desarrollo nacional.
+24.1. Hacer de los estudios de postgrado un sistema orientado a la investigación y producción de conocimiento.
 
-- 24.1. Hacer de los estudios de postgrado un sistema orientado a la investigación y producción de conocimiento.
+24.2. Fomentar la planificación y prospectiva sobre el desarrollo nacional.
 
 ##### RESULTADO 3: CENTROS UNIVERSITARIOS Y TÉCNICOS FORMAN PROFESIONALES ÉTICOS, COMPETENTES Y PRODUCTIVOS
 
 Profesionales desarrollan principios éticos, talentos y vocación personal; son altamente competentes frente a demandas del entorno económico productivo y laboral nacional e internacional, y aprovechan y generan nuevos conocimientos en el marco de un proyecto de desarrollo nacional y regional.
 
-- Transformación de la calidad de la formación profesional.
+25. Transformación de la calidad de la formación profesional.
 
-- 25.2. Fortalecer la educación técnico-productiva articulada a áreas claves del desarrollo.
+25.1. Mejorar la formación de las instituciones de educación superior, universitaria y técnico-profesional.
 
-- 25.1. Mejorar la formación de las instituciones de educación superior, universitaria y técnico-profesional.
+25.2. Fortalecer la educación técnico-productiva articulada a áreas claves del desarrollo.
 
-- 25.3. Asegurar oportunidades continuas de actualización profesional de calidad.
+25.3. Asegurar oportunidades continuas de actualización profesional de calidad.
 
 112
 
@@ -3219,7 +3273,7 @@ Y el desempleo o subempleo de miles de profesionales producto de la desconexión
 
 La escasa y poco pensada oferta de educación técnica la vuelve poco atractiva a miles de estudiantes que siguen insistiendo en postular en la universidad año tras año, en la búsqueda de mejorar la vida de las personas y con pocas opciones de articularse con las necesidades de perfiles necesarios para el aparato productivo actual y el proyectado.
 
-113 Una respuesta integral, el Proyecto Educativo Nacional
+Una respuesta integral, el Proyecto Educativo Nacional 113
 
 [[END OF PAGE 113]]
 
@@ -3229,21 +3283,21 @@ Proyecto Educativo Nacional al 2021
 
 DE QUÉ SITUACIÓN PARTIMOS
 
-SENCICO
-
 ###### EXCESO DE OFERTA FORMATIVA
 
-Al  2003, la  educación  superior  no  universitaria  era impartida en 673 institutos superiores tecnológicos (IST), 354 institutos superiores pedagógicos (ISP) y 39 institutos y escuelas superiores de formación artística. Desde octubre del 2003 y todo el 2004 la Dirección Nacional de  Formación y Capacitación Docente (DINFOCAD) realizó  un  proceso  de  autoevaluación  institucional, con su  correspondiente  verificación  externa, que  ha  dado como  resultado  que  se  cierren  44  institutos  superiores pedagógicos, uno se encuentre en receso y a 78 no se les autorice la matrícula para alumnos nuevos en marzo del 2006. Asimismo, se  ha  suspendido  hasta  diciembre  de este año la creación de ISP , se ha limitado la matrícula de alumnos nuevos y se ha suspendido el funcionamiento de carreras saturadas.
+Al 2003, la educación superior no universitaria era impartida en 673 institutos superiores tecnológicos (IST), 354 institutos superiores pedagógicos (ISP) y 39 institutos y escuelas superiores de formación artística. Desde octubre del 2003 y todo el 2004 la Dirección Nacional de Formación y Capacitación Docente (DINFOCAD) realizó un proceso de autoevaluación institucional, con su correspondiente verificación externa, que ha dado como resultado que se cierren 44 institutos superiores pedagógicos, uno se encuentre en receso y a 78 no se les autorice la matrícula para alumnos nuevos en marzo del 2006. Asimismo, se ha suspendido hasta diciembre de este año la creación de ISP, se ha limitado la matrícula de alumnos nuevos y se ha suspendido el funcionamiento de carreras saturadas.
 
-40000 alumnos en Educación, una de las carreras universitarias con más alumnos en el 2002.
+SENCICO
 
 673 institutos superiores tecnológicos en total existen en nuestro país.
+
+40 000 alumnos en Educación, una de las carreras universitarias con más alumnos en el 2002.
 
 Diario El Peruano
 
 ###### MULTIPLICACIÓN DE UNIVERSIDADES
 
-En 1968 existían unas 30 universidades, de las cuales un tercio eran privadas. De 1968 a 1980 (dictadura militar), se crearon cinco universidades públicas más. Entre 1981 y 1990, se añadieron otras 17 universidades (tres públicas). De 1990 al 2000 se crearon 24 universidades privadas y una pública (seis de las cuales fueron suprimidas después). Luego de ese periodo, se sumaron 10 universidades más (cuatro  públicas  y  una  por  reconversión  de  la  Escuela Superior de Administración de Negocios ESAN). Sesenta universidades  cuentan  con  rector  y  veinte  están  aún  en proceso de institucionalización (con Comisión Organizadora), de las cuales 5 son universidades públicas. Una de éstas -la Universidad Nacional Tecnológica del Cono Sur de Lima- todavía no funciona.
+En 1968 existían unas 30 universidades, de las cuales un tercio eran privadas. De 1968 a 1980 (dictadura militar), se crearon cinco universidades públicas más. Entre 1981 y 1990, se añadieron otras 17 universidades (tres públicas). De 1990 al 2000 se crearon 24 universidades privadas y una pública (seis de las cuales fueron suprimidas después). Luego de ese periodo, se sumaron 10 universidades más (cuatro públicas y una por reconversión de la Escuela Superior de Administración de Negocios ESAN). Sesenta universidades cuentan con rector y veinte están aún en proceso de institucionalización (con Comisión Organizadora), de las cuales 5 son universidades públicas. Una de éstas —la Universidad Nacional Tecnológica del Cono Sur de Lima— todavía no funciona.
 
 ###### CARRERAS PRIORIZADAS VERSUS CARRERAS MÁS ELEGIDAS
 
@@ -3257,13 +3311,13 @@ Las carreras universitarias con más alumnos, en el 2002, fueron las de Derecho,
 
 La educación que queremos para el Perú
 
-DE QUÉ SITUACIÓN PARTIMOS
-
 OBJETIVO ESTRATÉGICO 5 Diagnóstico
 
 De otro lado, el gobierno y administración universitarios se encuentran en una situación de entrampamiento que favorece la lógica de aislarse de los retos del desarrollo, que impide generar situaciones propicias para la articulación de las empresas, que no permite generar sistemas para monitorear la calidad de sus productos, estimular a sus docentes, estudiantes y la investigación y generar espacios de desarrollo del talento (carrera docente superior, representación).
 
 La cuestión principal es, en esencia, la inexistencia de un sistema de educación superior y la inexistencia de políticas para este sector, lo que genera un crecimiento explosivo y desordenado, que no se condice con las funciones esperadas: generar conocimiento, tecnología y capacidades para el desarrollo del país o las regiones. El crecimiento en la oferta ha generado una ilusión de mayor acceso a la educación superior, pues está fuertemente privatizada y muy lejos de garantizar empleos. No ayuda, entonces, a mejorar ni al país ni la vida de las personas.
+
+DE QUÉ SITUACIÓN PARTIMOS
 
 ###### LA JUVENTUD Y EL EMPLEO
 
@@ -3279,13 +3333,11 @@ es el puesto que ocupa nuestro país en la medición internacional del índice t
 
 ###### CIENCIA, TECNOLOGÍA E INNOVACIÓN EN EL PERÚ
 
-Al  2005, el  Perú  ocupa  la  posición  75  en  la  medición internacional del índice tecnológico, descendiendo cuatro posiciones respecto al año 2004, lo que evidencia su retraso en la incorporación de los aportes de la ciencia, tecnología e innovación (CTI) a la economía. El país invierte el 0,08% de su PBI en la investigación, ciencia y tecnología. Las universidades estatales tienen restricciones fiscales y deben  desarrollar  actividades  generadoras  de  ingresos para cubrir más del 30% del total de sus gastos, pero sólo un 6% de su presupuesto se dedica a la investigación científica y el desarrollo experimental. Tampoco hay alterna-
+Al 2005, el Perú ocupa la posición 75 en la medición internacional del índice tecnológico, descendiendo cuatro posiciones respecto al año 2004, lo que evidencia su retraso en la incorporación de los aportes de la ciencia, tecnología e innovación (CTI) a la economía. El país invierte el 0,08% de su PBI en la investigación, ciencia y tecnología. Las universidades estatales tienen restricciones fiscales y deben desarrollar actividades generadoras de ingresos para cubrir más del 30% del total de sus gastos, pero sólo un 6% de su presupuesto se dedica a la investigación científica y el desarrollo experimental. Tampoco hay alternativas efectivas de formación continua en el campo de la investigación y las tecnologías de información y comunicación (TIC).
 
 Diario El Peruano
 
-tivas efectivas de formación continua en el campo de la investigación y las tecnologías de información y comunicación (TIC).
-
-115 Una respuesta integral, el Proyecto Educativo Nacional
+Una respuesta integral, el Proyecto Educativo Nacional 115
 
 [[END OF PAGE 115]]
 
@@ -3303,7 +3355,7 @@ SISTEMA DE EDUCACIÓN SUPERIOR UNIVERSITARIA Y TÉCNICO-PROFESIONAL RESPONDE A R
 
 El sistema de educación superior necesita una articulación más clara, ordenada y racional entre sus distintos componentes. Esta política busca atender esa necesidad mediante un nuevo sistema nacional de educación superior en el que se garantice el ejercicio de la autonomía combinada con un claro sentido de responsabilidad social y en el que se fortalezca la formación técnico profesional.
 
-Este sistema debe atender además a la necesaria articulación de los dos componentes -universitario y técnicoprofesional- de la educación superior en el país.
+Este sistema debe atender además a la necesaria articulación de los dos componentes —universitario y técnico-profesional— de la educación superior en el país.
 
 ###### PRINCIPALES MEDIDAS
 
@@ -3343,7 +3395,7 @@ d. Programa de incentivos para las instituciones que están acreditadas (proyect
 
 e. Promoción de equivalencia entre los títulos y créditos de las instituciones públicas y privadas de la educación superior, tanto nacional como internacional.
 
-117 Una respuesta integral, el Proyecto Educativo Nacional
+Una respuesta integral, el Proyecto Educativo Nacional 117
 
 [[END OF PAGE 117]]
 
@@ -3373,7 +3425,7 @@ g. Sistema de becas integrales a estudiantes de escasos recursos con rendimiento
 
 h. Incentivos tributarios y otros mecanismos que permitan a los profesionales egresados de universidades públicas contribuir al financiamiento de la universidad donde estudiaron.
 
-i. Programa de fomento e incentivos a fundaciones empresariales que canalicen donaciones para el desarrollo de proyectos educativos innovadores y de investigación, becas de pregrado y demás medidas que eleven la calidad de la educación superior pública, sobre todo técnico-productiva.
+i. Programa de fomento e incentivos a fundaciones empresariales que canalicen donaciones para el desarrollo de
 
 > 31 Según el CONCYTEC, son los siguientes sectores: agropecuario e industrial; pesca y acuicultura marina y continental; minería y metalurgia; forestal; energía; telecomunicaciones y software; turismo; salud y nutrición; ambiente; educación especializada; vivienda y saneamiento.
 
@@ -3387,7 +3439,9 @@ La educación que queremos para el Perú
 
 OBJETIVO ESTRATÉGICO 5 Resultados y políticas
 
-- Línea especial de financiamiento no menor al promedio latinoamericano (0,5% del PBI) para la innovación, investigación científica y desarrollo tecnológico en temas prioritarios de una agenda nacional de investigación, diferenciada del financiamiento para la formación profesional.
+proyectos educativos innovadores y de investigación, becas de pregrado y demás medidas que eleven la calidad de la educación superior pública, sobre todo técnico-productiva.
+
+j. Línea especial de financiamiento no menor al promedio latinoamericano (0,5% del PBI) para la innovación, investigación científica y desarrollo tecnológico en temas prioritarios de una agenda nacional de investigación, diferenciada del financiamiento para la formación profesional.
 
 ###### 22. RENOVAR LA CARRERA DOCENTE EN EDUCACIÓN SUPERIOR SOBRE LA BASE DE MÉRITOS ACADÉMICOS
 
@@ -3397,21 +3451,21 @@ Esta política busca elevar el nivel de los docentes de instituciones formadoras
 
 ###### Las medidas principales en las universidades son:
 
-- Conformación de mecanismos técnicos y autónomos para evaluar el nivel de desempeño profesional de los catedráticos y su conducta ética en el ejercicio de su rol educador.
+a. Conformación de mecanismos técnicos y autónomos para evaluar el nivel de desempeño profesional de los catedráticos y su conducta ética en el ejercicio de su rol educador.
 
-- Reformulación de los escalones de la carrera docente estableciendo distinciones de acuerdo al desempeño académico: actualidad en el diseño de cátedra, desarrollo de investigación asociada a su cátedra, producción de textos y publicaciones, reconocimiento en la comunidad académica y en su región, vinculación con procesos de desarrollo desde su área, integración de estudiantes en sus proyectos.
+b. Reformulación de los escalones de la carrera docente estableciendo distinciones de acuerdo al desempeño académico: actualidad en el diseño de cátedra, desarrollo de investigación asociada a su cátedra, producción de textos y publicaciones, reconocimiento en la comunidad académica y en su región, vinculación con procesos de desarrollo desde su área, integración de estudiantes en sus proyectos.
 
-- Programa de becas y pasantías para fomentar la investigación, la innovación y la obtención de estudios de postgrado, como eje de la carrera docente en educación superior.
+c. Programa de becas y pasantías para fomentar la investigación, la innovación y la obtención de estudios de postgrado, como eje de la carrera docente en educación superior.
 
-- Reestructuración del enfoque de la enseñanza de la educación superior asegurando su efectividad en la formación de competencias profesionales en los estudiantes, su enfoque intercultural y el uso óptimo de las TIC.
+d. Reestructuración del enfoque de la enseñanza de la educación superior asegurando su efectividad en la formación de competencias profesionales en los estudiantes, su enfoque intercultural y el uso óptimo de las TIC.
 
 ###### Las medidas en los institutos y escuelas de formación superior son:
 
-- Establecimiento y desarrollo de un plan nacional de actualización y capacitación continua para los agentes vinculados a la formación profesional de las instituciones públicas. El plan cubrirá las áreas pedagógica, científica, tecnológica, de gestión y de desarrollo personal y social.
+a. Establecimiento y desarrollo de un plan nacional de actualización y capacitación continua para los agentes vinculados a la formación profesional de las instituciones públicas. El plan cubrirá las áreas pedagógica, científica, tecnológica, de gestión y de desarrollo personal y social.
 
-- Programa de incentivos tanto a la innovación y a la especialización como al desempeño académico de los docentes.
+b. Programa de incentivos tanto a la innovación y a la especialización como al desempeño académico de los docentes.
 
-119 Una respuesta integral, el Proyecto Educativo Nacional
+Una respuesta integral, el Proyecto Educativo Nacional 119
 
 [[END OF PAGE 119]]
 
@@ -3421,8 +3475,6 @@ Proyecto Educativo Nacional al 2021
 
 RESULTADO 2
 
-POLÍTICA 23.1.
-
 ##### SE PRODUCE CONOCIMIENTOS RELEVANTES PARA EL DESARROLLO Y LA LUCHA CONTRA LA POBREZA
 
 PRODUCCIÓN PERMANENTE Y ACUMULATIVA DE CONOCIMIENTO RELEVANTE PARA EL DESARROLLO ECONÓMICO Y CULTURAL QUE PERMITA IGUALAR EL NIVEL DE INVESTIGACIÓN, INNOVACIÓN Y AVANCE TECNOLÓGICO DE LOS PAÍSES VECINOS.
@@ -3430,6 +3482,8 @@ PRODUCCIÓN PERMANENTE Y ACUMULATIVA DE CONOCIMIENTO RELEVANTE PARA EL DESARROLL
 ###### 23. ARTICULACIÓN DE LA EDUCACIÓN SUPERIOR CON LA REALIDAD ECONÓMICA Y CULTURAL
 
 Este conjunto de políticas se propone generar una correspondencia creativa entre el desarrollo de la educación superior y las necesidades y oportunidades que han sido generados por los actuales procesos socioeconómicos y culturales en los ámbitos regional, nacional y mundial. Las políticas se centran, por un lado, en fomentar actividades competitivas en diferentes espacios de la economía y de la producción artístico-cultural en vinculación con consorcios para el desarrollo local y regional, y por otro lado, en fortalecer la producción de conocimiento para el desarrollo personal, una mejor comprensión de la realidad y la protección y mejora del medio ambiente.
+
+POLÍTICA 23.1.
 
 ###### Fomentar la investigación para la innovación y el desarrollo tecnológico en actividades competitivas
 
@@ -3472,7 +3526,7 @@ POLÍTICA 23.2.
 
 El objetivo de esta política es promover que las instituciones de educación superior trabajen en vinculación con consorcios o redes para el desarrollo local y regional para que hagan aportes al desarrollo científico, tecnológico y cultural de acuerdo con lo propuesto en planes locales y regionales de desarrollo y en consonancia con los amplios objetivos de la descentralización.
 
-121 Una respuesta integral, el Proyecto Educativo Nacional
+Una respuesta integral, el Proyecto Educativo Nacional 121
 
 [[END OF PAGE 121]]
 
@@ -3517,11 +3571,11 @@ La educación que queremos para el Perú
 
 OBJETIVO ESTRATÉGICO 5 Resultados y políticas
 
-- Capacitación de funcionarios de gobiernos regionales y locales en gestión cultural y deportiva.
+c. Capacitación de funcionarios de gobiernos regionales y locales en gestión cultural y deportiva.
 
-- Currículos de educación superior promueven la protección, valoración y fortalecimiento del patrimonio cultural.
+d. Currículos de educación superior promueven la protección, valoración y fortalecimiento del patrimonio cultural.
 
-- Fortalecimiento de las escuelas superiores de deporte, arte, música y teatro existentes en el país.
+e. Fortalecimiento de las escuelas superiores de deporte, arte, música y teatro existentes en el país.
 
 ###### 24. EDUCACIÓN SUPERIOR LIGADA A LA INVESTIGACIÓN Y A LA PLANIFICACIÓN
 
@@ -3534,17 +3588,17 @@ Esta política busca de manera específica reorientar los estudios de postgrado 
 
 ###### PRINCIPALES MEDIDAS
 
-- Acreditación de la calidad de los programas de postgrado ofrecidos por las instituciones de educación superior y desarrollo de incentivos a los programas dedicados a temas y áreas prioritarios y centrados en agendas de investigación concertadas a mediano y largo plazo a través de convenios con diversas entidades públicas y privadas, nacionales e internacionales.
+a. Acreditación de la calidad de los programas de postgrado ofrecidos por las instituciones de educación superior y desarrollo de incentivos a los programas dedicados a temas y áreas prioritarios y centrados en agendas de investigación concertadas a mediano y largo plazo a través de convenios con diversas entidades públicas y privadas, nacionales e internacionales.
 
-- Programas de postgrado que desarrollen enfoques interdisciplinarios para abordar problemas complejos del desarrollo humano.
+b. Programas de postgrado que desarrollen enfoques interdisciplinarios para abordar problemas complejos del desarrollo humano.
 
-- Portal electrónico que integre a todas las entidades de educación superior para brindar información sobre estudios de postgrado de calidad en el país a través de un campo virtual.
+c. Portal electrónico que integre a todas las entidades de educación superior para brindar información sobre estudios de postgrado de calidad en el país a través de un campo virtual.
 
-- Promoción y fortalecimiento de redes de investigación para el desarrollo en temas prioritarios de la política social.
+d. Promoción y fortalecimiento de redes de investigación para el desarrollo en temas prioritarios de la política social.
 
-- Estudios periódicos de seguimiento de egresados para estimar en qué medida la formación ofrecida incide en la capacidad de acceder a empleos y en el aporte profesional al desarrollo.
+e. Estudios periódicos de seguimiento de egresados para estimar en qué medida la formación ofrecida incide en la capacidad de acceder a empleos y en el aporte profesional al desarrollo.
 
-123 Una respuesta integral, el Proyecto Educativo Nacional
+Una respuesta integral, el Proyecto Educativo Nacional 123
 
 [[END OF PAGE 123]]
 
@@ -3582,8 +3636,6 @@ OBJETIVO ESTRATÉGICO 5 Resultados y políticas
 
 RESULTADO 3
 
-POLÍTICA 25.1.
-
 ##### CENTROS UNIVERSITARIOS Y TÉCNICOS FORMAN PROFESIONALES ÉTICOS, COMPETENTES Y PRODUCTIVOS
 
 PROFESIONALES  DESARROLLAN  PRINCIPIOS  ÉTICOS,  TALENTOS  Y  VOCACIÓN  PERSONAL;  SON ALTAMENTE  COMPETENTES  FRENTE  A  DEMANDAS  DEL  ENTORNO  ECONÓMICO  PRODUCTIVO  Y LABORAL NACIONAL E INTERNACIONAL, Y APROVECHAN Y GENERAN NUEVOS CONOCIMIENTOS EN EL MARCO DE UN PROYECTO DE DESARROLLO NACIONAL Y REGIONAL.
@@ -3591,6 +3643,8 @@ PROFESIONALES  DESARROLLAN  PRINCIPIOS  ÉTICOS,  TALENTOS  Y  VOCACIÓN  PERSON
 ###### 25. TRANSFORMACIÓN DE LA CALIDAD DE LA FORMACIÓN PROFESIONAL
 
 Estas políticas buscan elevar de manera sustancial la calidad de la formación profesional en las instituciones de educación superior mediante la ampliación, la mejora y el fortalecimiento de las oportunidades existentes.
+
+POLÍTICA 25.1.
 
 ###### Mejorar la calidad de la formación en las instituciones de educación superior universitaria y técnico-profesional
 
@@ -3600,7 +3654,7 @@ Mediante esta política se procura una elevación sustancial de la calidad de la
 
 a. Reforma de los diseños curriculares de las carreras priorizadas, así como de los planes institucionales o proyectos educativos de las entidades de educación superior, adecuándolos a las necesidades de desarrollo regional y nacional, y a la diversidad cultural y enfatizando la formación de líderes éticos y con un sentido de responsabilidad social.
 
-125 Una respuesta integral, el Proyecto Educativo Nacional
+Una respuesta integral, el Proyecto Educativo Nacional 125
 
 [[END OF PAGE 125]]
 
@@ -3647,7 +3701,7 @@ OBJETIVO ESTRATÉGICO 5 Resultados y políticas
 
 c. Plan de acreditación de los Centros de Educación Técnico Productivos (CETPRO, anteriormente llamados CEO) con estándares de calidad y en vinculación con programas de fortalecimiento en infraestructura, equipamiento, presupuesto y calificación de su personal.
 
-d. Convenios de CETPRO con institutos superiores tecnológicos acreditados para completar programas de formación profesional, previa compatibilizacón de programas.
+d. Convenios de CETPRO con institutos superiores tecnológicos acreditados para completar programas de formación profesional, previa compatibilización de programas.
 
 e. Captación de personas de la comunidad poseedoras de saberes destacados en diversos ámbitos para elevar la calidad de la formación ofrecida por los Centros de Educación Técnico Productivos. Promoción de convenios entre CETPRO acreditados y empresas para brindar cuadros técnicos en oficios prioritarios para el desarrollo y demandas de la región; y brindar capacitación laboral a los trabajadores de las pymes.
 
@@ -3682,9 +3736,9 @@ c. Compromiso de las asociaciones de egresados de la educación superior con el 
 
 UNA SOCIEDAD QUE EDUCA A SUS CIUDADANOS Y LOS COMPROMETE CON SU COMUNIDAD
 
-Tarea
-
 Nos proponemos fomentar en todo el país una sociedad capaz de formar ciudadanos informados, propositivos y comprometidos con el desarrollo y el bienestar de la comunidad.
+
+Tarea
 
 [[END OF PAGE 129]]
 
@@ -3702,47 +3756,47 @@ Nos proponemos fomentar en todo el país una sociedad capaz de formar ciudadanos
 
 Municipios  asumen  rol  educador  y  formador  de  ciudadanía  gobernando  democráticamente, cumpliendo  sus  obligaciones, garantizando los derechos de todos y fomentando los deberes cívicos.
 
-- Municipios fomentan la identidad local y la cohesión social.
+26. Municipios fomentan la identidad local y la cohesión social.
 
-- 26.1. Fomentar la identificación de los vecinos con su comunidad
+26.1. Fomentar la identificación de los vecinos con su comunidad
 
-- 26.2. Generar espacios y oportunidades permanentes de integración social
+26.2. Generar espacios y oportunidades permanentes de integración social
 
-- Participación y movilización social en torno a desafíos centrales
+27. Participación y movilización social en torno a desafíos centrales
 
-- 27.1. Fomentar la participación de la ciudadanía en el gobierno de la comunidad.
+27.1. Fomentar la participación de la ciudadanía en el gobierno de la comunidad.
 
-- 27.2. Promover la lectoescritura y el acceso a información en la comunidad.
+27.2. Promover la lectoescritura y el acceso a información en la comunidad.
 
-- 27.3. Promover actividades artísticas y deportivas para toda la comunidad.
+27.3. Promover actividades artísticas y deportivas para toda la comunidad.
 
-- 27.4. Proteger a niños y jóvenes de factores nocivos para su salud física y mental que existen en el medio.
+27.4. Proteger a niños y jóvenes de factores nocivos para su salud física y mental que existen en el medio.
 
-- 27.5. Realizar acciones permanentes de educación ambiental en las comunidades.
+27.5. Realizar acciones permanentes de educación ambiental en las comunidades.
 
-- Familias asumen rol educador y colaboran con los aprendizajes y con prácticas de vida en comunidad.
+28. Familias asumen rol educador y colaboran con los aprendizajes y con prácticas de vida en comunidad.
 
 ##### RESULTADO 2: EMPRESAS, ORGANIZACIONES Y LÍDERES COMPROMETIDOS CON LA EDUCACIÓN
 
 Empresas, organizaciones sociales, organizaciones políticas y asociaciones civiles comprometidas con la educación y con la formación ciudadana en la comunidad.
 
-- Fomento de la responsabilidad social de las empresas locales a favor de la educación.
+29. Fomento de la responsabilidad social de las empresas locales a favor de la educación.
 
-- Fomento de compromisos de líderes e instituciones con la educación.
+30. Fomento de compromisos de líderes e instituciones con la educación.
 
-- 30.1. Promover el compromiso con la educación de instituciones con liderazgo.
+30.1. Promover el compromiso con la educación de instituciones con liderazgo.
 
-- 30.2. Promover el compromiso educativo de líderes locales.
+30.2. Promover el compromiso educativo de líderes locales.
 
 ##### RESULTADO 3: MEDIOS DE COMUNICACIÓN ASUMEN CON INICIATIVA SU ROL EDUCADOR
 
 Los medios de comunicación masiva asumen su rol educador facilitando campañas educativas y se hacen corresponsables en la transmisión de valores y la formación de ciudadanía.
 
-- Promoción de la función educativa, informativa y cultural de los medios de comunicación.
+31. Promoción de la función educativa, informativa y cultural de los medios de comunicación.
 
-- Autorregulación de la prensa a favor de los derechos ciudadanos.
+32. Autorregulación de la prensa a favor de los derechos ciudadanos.
 
-- Observatorio ciudadano para mejorar la responsabilidad cívica de los medios.
+33. Observatorio ciudadano para mejorar la responsabilidad cívica de los medios.
 
 130 SEGUNDA PARTE
 
@@ -3820,29 +3874,25 @@ OBJETIVO ESTRATÉGICO 6 Diagnóstico
 
 Tarea
 
-Durante el año 2005 se registró un aumento en el número de espacios institucionalizados  y  permanentes  de  concertación  en relación al año 2004 (de 49 a 80), lo que
-
-muestra la permanencia y multiplicación de estos espacios participativos. Las únicas regiones que no registran ningún  espacio  de  este  tipo  son  Ancash  y  Puno. Los temas más abordados en estos espacios, al igual que en el 2004, fueron: la inclusión (30); el desarrollo económico (29), agro  y  ganadería  (11), así  como  el  impulso  a  las exportaciones (6); el cuidado ambiental y la contaminación (5) y otros temas diversos como salud, seguridad alimentaria, turismo, emergencias, etc. En el tema de inclu-
+Durante el año 2005 se registró un aumento en el número de espacios institucionalizados y permanentes de concertación en relación al año 2004 (de 49 a 80), lo que muestra la permanencia y multiplicación de estos espacios participativos. Las únicas regiones que no registran ningún espacio de este tipo son Ancash y Puno. Los temas más abordados en estos espacios, al igual que en el 2004, fueron: la inclusión (30); el desarrollo económico (29), agro y ganadería (11), así como el impulso a las exportaciones (6); el cuidado ambiental y la contaminación (5) y otros temas diversos como salud, seguridad alimentaria, turismo, emergencias, etc. En el tema de inclusión cabe señalar que la creación de estos espacios estuvo acompañada por una producción de ordenanzas que en conjunto representaron el 6,4 % del total (26)36.
 
 Diario El Peruano
 
-sión cabe señalar que la creación de estos espacios estuvo acompañada por una producción  de  ordenanzas  que  en  conjunto representaron el 6,4 % del total (26) 36 .
-
 > 36 Ídem, página 76.
-
-> 37 La Biblioteca Nacional del Perú y las bibliotecas públicas municipales: avances y perspectivas. Castro Aliaga, César Augusto. En: http://sisbib.unmsm.edu.pe/BibVirtual/tesis/Human/Castro_A_C/conclusiones.htm
 
 ###### La promoción de lectura
 
-Mil bibliotecas tenía registrada la Dirección de Bibliotecas Públicas de la Biblioteca Nacional en 1986; al 31 de diciembre del 2000 se número llega a 2 058, de las cuales 1 576 son bibliotecas públicas municipales 37 . Las visitas de alcaldes y dirigentes comunales a la Biblioteca Nacional  del  Perú  y  a  sus  bibliotecas  públicas  modelo han resultado en la práctica mecanismos efectivos para sensibilizarlos respecto al papel de los servicios bibliotecarios y generar acciones a favor de las bibliotecas.
+Mil bibliotecas tenía registrada la Dirección de Bibliotecas Públicas de la Biblioteca Nacional en 1986; al 31 de diciembre del 2000 se número llega a 2 058, de las cuales 1 576 son bibliotecas públicas municipales37. Las visitas de alcaldes y dirigentes comunales a la Biblioteca Nacional del Perú y a sus bibliotecas públicas modelo han resultado en la práctica mecanismos efectivos para sensibilizarlos respecto al papel de los servicios bibliotecarios y generar acciones a favor de las bibliotecas.
 
 Foro Educativo
 
-2058 bibliotecas públicas en total registró la Biblioteca Nacional al año 2000.
-
 1 576 bibliotecas públicas municipales están registradas al año 2000.
 
+2058 bibliotecas públicas en total registró la Biblioteca Nacional al año 2000.
+
 CNE
+
+> 37 La Biblioteca Nacional del Perú y las bibliotecas públicas municipales: avances y perspectivas. Castro Aliaga, César Augusto. En: http://sisbib.unmsm.edu.pe/BibVirtual/tesis/Human/Castro_A_C/conclusiones.htm
 
 Una respuesta integral, el Proyecto Educativo Nacional
 
@@ -3856,8 +3906,6 @@ Proyecto Educativo Nacional al 2021
 
 RESULTADO 1
 
-POLÍTICA 26.1.
-
 ##### GOBIERNOS LOCALES DEMOCRÁTICOS Y FAMILIAS PROMUEVEN CIUDADANÍA
 
 LOS  MUNICIPIOS  ASUMEN  UN  ROL  EDUCADOR  Y  FORMADOR  DE  CIUDADANÍA  GOBERNANDO DEMOCRÁTICAMENTE  Y  CUMPLIENDO  SUS  OBLIGACIONES,  CON  RESPETO,  PROTECCIÓN  Y PROMOCIÓN DE LOS DERECHOS DE TODOS Y FOMENTO DE SUS DEBERES CÍVICOS, APOYADOS EN FAMILIAS NÚCLEO DE LA SOCIEDAD EDUCADORA QUE APOYAN EL APRENDIZAJE Y LA INSERCIÓN EN LA COMUNIDAD.
@@ -3866,17 +3914,19 @@ LOS  MUNICIPIOS  ASUMEN  UN  ROL  EDUCADOR  Y  FORMADOR  DE  CIUDADANÍA  GOBERN
 
 Estas políticas se proponen intervenciones permanentes de los gobiernos locales para fomentar la identificación de los ciudadanos con su comunidad local y posibilitar su integración y la cooperación mutua entre vecinos.
 
+POLÍTICA 26.1.
+
 ###### Fomentar la identificación de los vecinos con su comunidad
 
 Esta política tiene como finalidad el propiciar y fortalecer la construcción de identidades locales destacando y fortaleciendo los valores cívicos e identidades existentes y propiciando que surjan desde los municipios nuevas simbologías ciudadanas, así como también sinergias y convergencias a favor del desarrollo humano de la localidad.
 
 ###### PRINCIPALES MEDIDAS
 
-- Realización de censos y diagnósticos periódicos por parte de los gobiernos locales, que revelen la situación y necesidades de los habitantes y propicien su identificación con la localidad.
+a. Realización de censos y diagnósticos periódicos por parte de los gobiernos locales, que revelen la situación y necesidades de los habitantes y propicien su identificación con la localidad.
 
-- Programa de promoción de la responsabilidad ciudadana que fomente y estimule prácticas cívicas que beneficien la calidad de vida familiar y vecinal, incluyendo el cuidado del ambiente y de los bienes públicos, la preservación del orden y la limpieza, la protección a los niños y otras prácticas del mismo signo.
+b. Programa de promoción de la responsabilidad ciudadana que fomente y estimule prácticas cívicas que beneficien la calidad de vida familiar y vecinal, incluyendo el cuidado del ambiente y de los bienes públicos, la preservación del orden y la limpieza, la protección a los niños y otras prácticas del mismo signo.
 
-- Programa de difusión y promoción de los valores más destacados de las culturas locales que fomente, con fondos públicos y privados y en convenio con medios de comunicación locales, el intercambio con culturas de otras localidades de la región, acogiendo y vinculando más a los vecinos inmigrantes en la comunidad.
+c. Programa de difusión y promoción de los valores más destacados de las culturas locales que fomente, con fondos públicos y privados y en convenio con medios de comunicación locales, el intercambio con culturas de otras localidades de la región, acogiendo y vinculando más a los vecinos inmigrantes en la comunidad.
 
 134 SEGUNDA PARTE
 
@@ -3888,9 +3938,9 @@ La educación que queremos para el Perú
 
 OBJETIVO ESTRATÉGICO 6 Resultados y políticas
 
-- Aplicación de medidas punitivas municipales contra instituciones y personas que practiquen la segregación basada en raza, sexo, religión, género o cualquier otra característica.
+d. Aplicación de medidas punitivas municipales contra instituciones y personas que practiquen la segregación basada en raza, sexo, religión, género o cualquier otra característica.
 
-- Programas dirigidos a aumentar el conocimiento de los ciudadanos sobre su comunidad a través de rutas turísticas, museos de sitio, casas de cultura, certámenes de gastronomía local y otros, fomentados en las diversas instituciones locales, con participación de voluntarios formados como guías de la ciudad.
+e. Programas dirigidos a aumentar el conocimiento de los ciudadanos sobre su comunidad a través de rutas turísticas, museos de sitio, casas de cultura, certámenes de gastronomía local y otros, fomentados en las diversas instituciones locales, con participación de voluntarios formados como guías de la ciudad.
 
 f. Promoción de la participación de las organizaciones estudiantiles de la localidad en la evaluación de sus respectivos centros educativos y, en general, en la vida ciudadana.
 
@@ -3901,17 +3951,17 @@ Esta política se propone fortalecer la integración social en las comunidades c
 
 ###### PRINCIPALES MEDIDAS
 
-- Programas de recuperación de la historia local en cada distrito con participación de los adultos mayores de la comunidad y de jóvenes voluntarios en el diseño y ejecución de sus diversas estrategias.
+a. Programas de recuperación de la historia local en cada distrito con participación de los adultos mayores de la comunidad y de jóvenes voluntarios en el diseño y ejecución de sus diversas estrategias.
 
-- Formación de brigadas de jóvenes y adolescentes para el cuidado del patrimonio cultural y natural, así como para ofrecer buen trato al visitante y contribuir a la seguridad ciudadana en alianza con instituciones locales.
+b. Formación de brigadas de jóvenes y adolescentes para el cuidado del patrimonio cultural y natural, así como para ofrecer buen trato al visitante y contribuir a la seguridad ciudadana en alianza con instituciones locales.
 
-- Promoción de una buena atención al usuario de parte del funcionario público en las diversas dependencias estatales y comunitarias presentes en la comunidad.
+c. Promoción de una buena atención al usuario de parte del funcionario público en las diversas dependencias estatales y comunitarias presentes en la comunidad.
 
-- Mecanismos institucionalizados de consulta a los niños y niñas de la comunidad, destinados a recoger periódicamente sus demandas sobre la gestión local y la vida de la comunidad en general.
+d. Mecanismos institucionalizados de consulta a los niños y niñas de la comunidad, destinados a recoger periódicamente sus demandas sobre la gestión local y la vida de la comunidad en general.
 
-- Programa municipal de educación ciudadana dirigido a eliminar toda forma de discriminación en la comunidad. Promoción de espacios de integración en la misma comunidad tales como cine clubes, ferias, festivales de danza y canto, exposiciones de arte, concursos gastronómicos.
+e. Programa municipal de educación ciudadana dirigido a eliminar toda forma de discriminación en la comunidad. Promoción de espacios de integración en la misma comunidad tales como cine clubes, ferias, festivales de danza y canto, exposiciones de arte, concursos gastronómicos.
 
-- Diseño urbano de la comunidad que privilegia espacios físicos que posibiliten la integración e interacción entre vecinos, el desplazamiento seguro de peatones y ciclistas, sobre todo de los niños, de los adultos mayores y de personas con discapacidad. Esto incluye una señalización en las lenguas de los habitantes.
+f. Diseño urbano de la comunidad que privilegia espacios físicos que posibiliten la integración e interacción entre vecinos, el desplazamiento seguro de peatones y ciclistas, sobre todo de los niños, de los adultos mayores y de personas con discapacidad. Esto incluye una señalización en las lenguas de los habitantes.
 
 135 Una respuesta integral, el Proyecto Educativo Nacional
 
@@ -3921,15 +3971,13 @@ Esta política se propone fortalecer la integración social en las comunidades c
 
 Proyecto Educativo Nacional al 2021
 
-POLÍTICA 27.1.
-
-POLÍTICA 27.2.
-
-- Diseño, ejecución y gestión participativa de programas y proyectos de desarrollo local que incluyan la acogida a iniciativas ciudadanas y la integración de la población inmigrante.
+g. Diseño, ejecución y gestión participativa de programas y proyectos de desarrollo local que incluyan la acogida a iniciativas ciudadanas y la integración de la población inmigrante.
 
 ###### 27. PARTICIPACIÓN Y MOVILIZACIÓN SOCIAL EN TORNO A DESAFÍOS CENTRALES
 
 Estas políticas se dirigen a favorecer la participación y movilización ciudadana alrededor de tres desafíos fundamentales: el gobierno de la comunidad local, el incremento de los niveles de lectura de sus habitantes y la protección de la infancia y la adolescencia.
+
+POLÍTICA 27.1.
 
 ###### Fomentar la participación de la ciudadanía en el gobierno de la comunidad
 
@@ -3937,11 +3985,13 @@ El objetivo de esta política es hacer posible y estimular la participación de 
 
 ###### PRINCIPALES MEDIDAS
 
-- Fomento de la participación ciudadana, plural, activa e informada en la formulación de los presupuestos participativos y los planes concertados de desarrollo de cada distrito y provincia.
+a. Fomento de la participación ciudadana, plural, activa e informada en la formulación de los presupuestos participativos y los planes concertados de desarrollo de cada distrito y provincia.
 
-- Mecanismos de rendición de cuentas respecto de la gestión y resultados de los diversos proyectos y programas municipales basados en indicadores que resulten claros y fácilmente manejables para los vecinos.
+b. Mecanismos de rendición de cuentas respecto de la gestión y resultados de los diversos proyectos y programas municipales basados en indicadores que resulten claros y fácilmente manejables para los vecinos.
 
-- Vigilancia ciudadana, desde los Consejos de Concertación Local, de las inversiones y proyectos de desarrollo económico en áreas prioritarias de la comunidad, para que reviertan en su bienestar e integración.
+c. Vigilancia ciudadana, desde los Consejos de Concertación Local, de las inversiones y proyectos de desarrollo económico en áreas prioritarias de la comunidad, para que reviertan en su bienestar e integración.
+
+POLÍTICA 27.2.
 
 ###### Promover la lectoescritura y el acceso a información en la comunidad
 
@@ -3961,17 +4011,17 @@ OBJETIVO ESTRATÉGICO 6 Resultados y políticas
 
 ###### PRINCIPALES MEDIDAS
 
-- Creación o fortalecimiento permanente de bibliotecas municipales incluyendo medios de lectura virtual y videoteca, haciéndolas accesibles a todos los ciudadanos y en particular a los niños y adolescentes.
+a. Creación o fortalecimiento permanente de bibliotecas municipales incluyendo medios de lectura virtual y videoteca, haciéndolas accesibles a todos los ciudadanos y en particular a los niños y adolescentes.
 
-- Programa municipal de promoción de lectura en alianza con empresas e instituciones locales que difundan los servicios existentes y pongan los libros a disposición de las familias y vecinos, en especial en los espacios de mayor concentración de personas, incluyendo estrategias promocionales para las personas con movilidad física restringida para la lectura.
+b. Programa municipal de promoción de lectura en alianza con empresas e instituciones locales que difundan los servicios existentes y pongan los libros a disposición de las familias y vecinos, en especial en los espacios de mayor concentración de personas, incluyendo estrategias promocionales para las personas con movilidad física restringida para la lectura.
 
-- Promoción de lectura en las instituciones educativas públicas de educación básica de la localidad, fomentando y apoyando a las bibliotecas escolares desde el municipio.
+c. Promoción de lectura en las instituciones educativas públicas de educación básica de la localidad, fomentando y apoyando a las bibliotecas escolares desde el municipio.
 
-- Impulso al compromiso y voluntariado de los jóvenes en la promoción de lectura entre los niños de la comunidad a través de estrategias diversas.
+d. Impulso al compromiso y voluntariado de los jóvenes en la promoción de lectura entre los niños de la comunidad a través de estrategias diversas.
 
-- Producción editorial que recoja y difunda masivamente las historias locales más relevantes en distintos ámbitos de la vida comunitaria incluyendo ediciones bilingües en poblaciones cuya lengua materna sea distinta al castellano, con apoyo de empresas e instituciones locales o regionales.
+e. Producción editorial que recoja y difunda masivamente las historias locales más relevantes en distintos ámbitos de la vida comunitaria incluyendo ediciones bilingües en poblaciones cuya lengua materna sea distinta al castellano, con apoyo de empresas e instituciones locales o regionales.
 
-- Incentivo de uso de cabinas públicas de Internet con fines educativos y de información.
+f. Incentivo de uso de cabinas públicas de Internet con fines educativos y de información.
 
 POLÍTICA 27.3.
 ###### Promover actividades artísticas y deportivas para toda la comunidad
@@ -3980,11 +4030,11 @@ Esta política persigue el objetivo de fortalecer la integración en la comunida
 
 ###### PRINCIPALES MEDIDAS
 
-- Fomento de campeonatos nacionales y regionales de todo tipo de deportes (con participación de centros educativos públicos y privados) además de juegos colectivos y entretenimientos en los que participen los miembros de toda la comunidad y de todos los grupos de edad.
+a. Fomento de campeonatos nacionales y regionales de todo tipo de deportes (con participación de centros educativos públicos y privados) además de juegos colectivos y entretenimientos en los que participen los miembros de toda la comunidad y de todos los grupos de edad.
 
-- Diseño de parques y jardines en la comunidad especialmente dirigido a fomentar el encuentro, la socialización e integración entre los vecinos.
+b. Diseño de parques y jardines en la comunidad especialmente dirigido a fomentar el encuentro, la socialización e integración entre los vecinos.
 
-- Creación de ludotecas públicas.
+c. Creación de ludotecas públicas.
 
 137 Una respuesta integral, el Proyecto Educativo Nacional
 
@@ -4050,7 +4100,7 @@ OBJETIVO ESTRATÉGICO 6 Resultados y políticas
 
 - Disfrutar alimentos sanos y saber con qué recursos se elaboraron.
 
-- Participación de las juntas vecinales en las instancias locales y procesos de evaluación del impacto medio ambiental en la salud y el desarrollo de los niños y jóvenes de la comunidad.
+c. Participación de las juntas vecinales en las instancias locales y procesos de evaluación del impacto medio ambiental en la salud y el desarrollo de los niños y jóvenes de la comunidad.
 
 ###### 28. FAMILIAS ASUMEN ROL EDUCADOR Y COLABORAN CON LOS APRENDIZAJES Y CON PRÁCTICAS DE VIDA EN COMUNIDAD
 
@@ -4084,19 +4134,19 @@ Esta política se dirige específicamente a lograr el compromiso de las empresas
 
 ###### PRINCIPALES MEDIDAS
 
-- Apertura de la empresa para que los estudiantes de la localidad aprendan de su proceso técnico-productivo y de comercialización (visitas guiadas, prácticas de campo o actividades formativas).
+a. Apertura de la empresa para que los estudiantes de la localidad aprendan de su proceso técnico-productivo y de comercialización (visitas guiadas, prácticas de campo o actividades formativas).
 
-- Programas de voluntariado donde profesionales calificados de las empresas contribuyan a elevar la calidad de la enseñanza y aprendizaje de las instituciones educativas de la comunidad.
+b. Programas de voluntariado donde profesionales calificados de las empresas contribuyan a elevar la calidad de la enseñanza y aprendizaje de las instituciones educativas de la comunidad.
 
-- Modelación, mediante prácticas empresariales ejemplares, de una conducta ética y educadora de valores, manifiesta particularmente en el cumplimiento de sus responsabilidades tributarias y en el respeto al medio ambiente.
+c. Modelación, mediante prácticas empresariales ejemplares, de una conducta ética y educadora de valores, manifiesta particularmente en el cumplimiento de sus responsabilidades tributarias y en el respeto al medio ambiente.
 
-- Oportunidades laborales ofrecidas por las empresas para los estudiantes de la localidad que hayan finalizado la educación superior pública con el mejor rendimiento.
+d. Oportunidades laborales ofrecidas por las empresas para los estudiantes de la localidad que hayan finalizado la educación superior pública con el mejor rendimiento.
 
-- Fomento de la generación de fondos empresariales para contribuir con investigaciones diagnósticas y elaboración de propuestas de mejora del nivel educativo de la localidad.
+e. Fomento de la generación de fondos empresariales para contribuir con investigaciones diagnósticas y elaboración de propuestas de mejora del nivel educativo de la localidad.
 
-- Participación activa de las empresas en los Consejos Participativos Regionales (COPARE) y Consejos Participativos Locales (COPALE) para aportar a la formulación y evaluación de los Proyectos Educativos Regionales y Locales.
+f. Participación activa de las empresas en los Consejos Participativos Regionales (COPARE) y Consejos Participativos Locales (COPALE) para aportar a la formulación y evaluación de los Proyectos Educativos Regionales y Locales.
 
-- Programas de formación permanente a trabajadores de la empresa en relación con los saberes requeridos, formas de comportamiento, observación de normas y expectativas de vida.
+g. Programas de formación permanente a trabajadores de la empresa en relación con los saberes requeridos, formas de comportamiento, observación de normas y expectativas de vida.
 
 140 SEGUNDA PARTE
 
@@ -4121,15 +4171,15 @@ Esta política busca que los gobiernos locales y regionales alienten a las insti
 
 ###### PRINCIPALES MEDIDAS
 
-- Movilización de las instituciones públicas y privadas de la comunidad para que expresen su compromiso con la equidad y calidad de los centros educativos allí existentes a través del apoyo a los centros de recursos del distrito.
+a. Movilización de las instituciones públicas y privadas de la comunidad para que expresen su compromiso con la equidad y calidad de los centros educativos allí existentes a través del apoyo a los centros de recursos del distrito.
 
-- Promoción del compromiso de las instituciones con objetivos y acciones específicas del proyecto educativo de su región y localidad (Proyectos Educativos Regionales-PER, Proyectos Educativos Locales-PEL).
+b. Promoción del compromiso de las instituciones con objetivos y acciones específicas del proyecto educativo de su región y localidad (Proyectos Educativos Regionales-PER, Proyectos Educativos Locales-PEL).
 
-- Promoción de la responsabilidad de los partidos, movimientos y organizaciones políticas, sindicatos, colegios profesionales y gremios empresariales en la formación de ciudadanía y para el cumplimiento de acuerdos y pactos educativos.
+c. Promoción de la responsabilidad de los partidos, movimientos y organizaciones políticas, sindicatos, colegios profesionales y gremios empresariales en la formación de ciudadanía y para el cumplimiento de acuerdos y pactos educativos.
 
-- Promoción de espacios educativos y mayores vínculos con la sociedad civil en el seno de las instituciones de las fuerzas armadas y policiales.
+d. Promoción de espacios educativos y mayores vínculos con la sociedad civil en el seno de las instituciones de las fuerzas armadas y policiales.
 
-- Inclusión preferencial de los problemas y desafíos de la educación en la agenda de los partidos, movimientos y organizaciones políticas, sindicatos, colegios profesionales y gremios empresariales desde el ámbito local hasta el ámbito nacional.
+e. Inclusión preferencial de los problemas y desafíos de la educación en la agenda de los partidos, movimientos y organizaciones políticas, sindicatos, colegios profesionales y gremios empresariales desde el ámbito local hasta el ámbito nacional.
 
 141 Una respuesta integral, el Proyecto Educativo Nacional
 
@@ -4173,11 +4223,11 @@ Esta política busca desarrollar un conjunto de acciones de promoción dirigidas
 
 ###### PRINCIPALES MEDIDAS
 
-- Hacer cumplir las normas vigentes respecto a:
+a. Hacer cumplir las normas vigentes respecto a:
 
 - La convocatoria a audiencias públicas para la atención a consultas y recepción de propuestas para mejorar las actividades de radiodifusión.
 
-- La regulación, vigilancia y mejoramiento de mensajes y programas transmitidos a partir de acuerdo entre el Estado, el Consejo Consultivo de Radio y TV , las organizaciones sociales.
+- La regulación, vigilancia y mejoramiento de mensajes y programas transmitidos a partir de acuerdo entre el Estado, el Consejo Consultivo de Radio y TV, las organizaciones sociales.
 
 - La fijación de una franja horaria establecida por los propios radiodifusores dedicada a la programación de contenidos educativos, culturales y formadores de ciudadanía.
 
@@ -4199,7 +4249,7 @@ c. Establecimiento de convenios con universidades para el desarrollo de programa
 
 d. Programa permanente de difusión, en el marco de la responsabilidad social de las empresas de comunicación, sobre crianza saludable y respetuosa de los derechos del niño y del adolescente, que incluya campañas específicas para la prevención de enfermedades de alto riesgo.
 
-- Promoción en la televisión pública y privada de iniciativas y convenios para la creación, en horario pertinente, de cursos masivos de formación laboral, que sean certificados por la vía correspondiente.
+e. Promoción en la televisión pública y privada de iniciativas y convenios para la creación, en horario pertinente, de cursos masivos de formación laboral, que sean certificados por la vía correspondiente.
 
 ###### 32. AUTORREGULACIÓN DE LA PRENSA A FAVOR DE LOS DERECHOS CIUDADANOS
 
@@ -4215,7 +4265,7 @@ c. Promoción, desde las universidades, de una independencia periodística orien
 
 ###### 33. OBSERVATORIO CIUDADANO PARA MEJORAR LA RESPONSABILIDAD CÍVICA DE LOS MEDIOS
 
-Esta política promueve la constitución y puesta en marcha de un espacio permanente de vigilancia ciudadana a los medios de comunicación respecto de la relación entre su función informativa y su impacto en la educación, la cultura y el comportamiento ciudadano. Esta vigilancia ciudadana se realizará en el marco del Acuerdo Nacional y de instancias representativas de los medios de comunicación y de los periodistas.
+Esta política promueve la constitución y puesta en marcha de un espacio permanente de vigilancia ciudadana a los medios de comunicación respecto de la relación entre su función informativa y su impacto en la educación, la
 
 144 SEGUNDA PARTE
 
@@ -4226,6 +4276,8 @@ Esta política promueve la constitución y puesta en marcha de un espacio perman
 La educación que queremos para el Perú
 
 OBJETIVO ESTRATÉGICO 6 Resultados y políticas
+
+cultura y el comportamiento ciudadano. Esta vigilancia ciudadana se realizará en el marco del Acuerdo Nacional y de instancias representativas de los medios de comunicación y de los periodistas.
 
 ###### PRINCIPALES MEDIDAS
 
@@ -4247,27 +4299,66 @@ c. Implementación de programas de formación en comunicación social dirigidos 
 
 [[START OF PAGE 147]]
 
+La educación que queremos para el Perú
+
 ##### CONSEJO NACIONAL DE EDUCACIÓN
-
-Patricia Salas O'Brien (PRESIDENTA)
-
-Jesús Herrero Gómez (VICEPRESIDENTE) Manuel Bello Domínguez (VOCAL) Sigfredo Chiroque Chunga (VOCAL) Grover Pango Vildoso (VOCAL)
 
 ###### COMITÉ DIRECTIVO (2005-2007)
 
-José Barletti Pascuale César Barrera Bazán Antonio Brack Egg Heriberto Bustos Aparicio Constantino Carvallo Rey Henry Day Sprinckmoller
-###### MIEMBROS DEL CONSEJO
-Hugo Díaz Díaz Elsa Fung Sánchez Aurora Marrou Roldán Patricia Mc Lauchlan de Arregui Nelson Manrique Gálvez Ricardo Morales Basadre Edmundo Murrugarra Florián Luisa Pinto Cueto Luis Piscoya Hermoza José Rivero Herrera Susana Stiglich Watson León Trahtemberg Siederer Fernando Villarán de la Puente
+Patricia Salas O'Brien (PRESIDENTA)
+Jesús Herrero Gómez (VICEPRESIDENTE)
+Manuel Bello Domínguez (VOCAL)
+Sigfredo Chiroque Chunga (VOCAL)
+Grover Pango Vildoso (VOCAL)
 
-Martín Vegas Torres
+###### MIEMBROS DEL CONSEJO
+
+José Barletti Pascuale
+César Barrera Bazán
+Antonio Brack Egg
+Heriberto Bustos Aparicio
+Constantino Carvallo Rey
+Henry Day Sprinckmoller
+Hugo Díaz Díaz
+Elsa Fung Sánchez
+Aurora Marrou Roldán
+Patricia Mc Lauchlan de Arregui
+Nelson Manrique Gálvez
+Ricardo Morales Basadre
+Edmundo Murrugarra Florián
+Luisa Pinto Cueto
+Luis Piscoya Hermoza
+José Rivero Herrera
+Susana Stiglich Watson
+León Trahtemberg Siederer
+Fernando Villarán de la Puente
+
 ###### SECRETARIO EJECUTIVO
 
-Patricia Correa Arangoitia Mónica Delgado Chumpitazi Patricia Fernández Castillo Dania Franco Vaisman Luis Guerrero Ortiz Soledad Hamann Mazure Anita Montenegro Rodríguez Jorge Oroza Manrique
+Martín Vegas Torres
+
 ###### EQUIPO QUE TRABAJÓ EN LA FORMULACIÓN DE ESTE PROYECTO
-Félix Reátegui Carrillo Karín Rivas Valdivia Karina Vásquez Olano Emma Yep Calderón
+
+Patricia Correa Arangoitia
+Mónica Delgado Chumpitazi
+Patricia Fernández Castillo
+Dania Franco Vaisman
+Luis Guerrero Ortiz
+Soledad Hamann Mazure
+Anita Montenegro Rodríguez
+Jorge Oroza Manrique
+Félix Reátegui Carrillo
+Karín Rivas Valdivia
+Karina Vásquez Olano
+Emma Yep Calderón
 
 ###### EQUIPO DE INCIDENCIA
-Emilio Aguirre Portilla Paola Baltazar Zúñiga Máximo Gallo Quintana Ismael López Alguiar Jaime Montes García La educación que queremos para el Perú
+
+Emilio Aguirre Portilla
+Paola Baltazar Zúñiga
+Máximo Gallo Quintana
+Ismael López Alguiar
+Jaime Montes García
 
 147
 
@@ -4281,11 +4372,18 @@ Emilio Aguirre Portilla Paola Baltazar Zúñiga Máximo Gallo Quintana Ismael L�
 
 [[START OF PAGE 149]]
 
-(this page came through the extractor with no text)
+La
+educación
+que queremos
+para el
+Perú
 
 [[END OF PAGE 149]]
 
 [[START OF PAGE 150]]
+
+MINISTERIO DE EDUCACIÓN
+Consejo Nacional de Educación
 
 El Consejo Nacional de Educación es un organismo plural autónomo, consultivo y especializado. Tiene como finalidad promover la cooperación y concertación entre la sociedad civil y el Estado en la formulación, seguimiento y evaluación del Proyecto Educativo Nacional, las políticas y planes educativos de mediano y largo plazo, y las políticas intersectoriales que contribuyen al desarrollo de la educación peruana. Así, promueve acuerdos y compromisos a favor del desarrollo educativo del país y opina de oficio en asuntos concernientes al conjunto de la educación.
 
