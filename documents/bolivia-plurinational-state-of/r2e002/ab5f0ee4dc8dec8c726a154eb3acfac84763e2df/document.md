@@ -28,7 +28,7 @@ Este nuevo instrumento legal se basa en once principios: interés superior, prio
 
 El  Código  es  la  suma  del  trabajo  conjunto  de  la Asamblea  Legislativa  junto  a  instituciones del  Estado  responsables  de  promover  y  hacer  cumplir  los  derechos  de  las  niñas,  niños  y adolescentes desde el nivel central, pasando por el departamental,  hasta municipal, el Órgano Judicial, el Tribunal Supremo Electoral, los movimientos sociales, las organizaciones sociales, la cooperación internacional, los organismos no gubernamentales y la participación activa de niñas, niños y adolescentes.
 
-El Código se enmarca en los instrumentos internacionales que fueron ratifi  cados por el Estado boliviano, pero también se basa en un análisis de la situación real y los desafíos del día a día de la infancia, niñez y adolescencia boliviana, en el marco de nuestra cultura y valores ancestrales.
+El Código se enmarca en los instrumentos internacionales que fueron ratificados por el Estado boliviano, pero también se basa en un análisis de la situación real y los desafíos del día a día de la infancia, niñez y adolescencia boliviana, en el marco de nuestra cultura y valores ancestrales.
 
 Ahora corresponde a todas las instituciones del Estado, organizaciones sociales, instituciones públicas y privadas, cooperación internacional, organismos no gubernamentales y las familias hacer que este Código se plasme en realidad para contribuir al Vivir Bien de todas las niñas, niños y adolescentes bolivianos.
 
@@ -50,21 +50,154 @@ Arte y Diagramación: SPC Impresores S.A.
 
 [[START OF PAGE 5]]
 
+Código Niña, Niño y Adolescente
+
+3
+
+# CÓDIGO NIÑA, NIÑO Y ADOLESCENTE
+
 # Índice por artículos
 
 Artículos
 
-# CÓDIGO NIÑA, NIÑO Y ADOLESCENTE
+Disposiciones generales ............................................................................................... 1 a 15
 
-3
+Libro I
+
+Derechos, garantías, deberes y protección
+
+Título I
+
+Derechos y deberes ................................................................................................. 16 a 158
+
+Capítulo I
+
+Derecho a la vida, a la salud y al medio ambiente ..................................................... 16 a 34
+
+Derecho a la vida ........................................................................................................ 16 a 17
+
+Derecho a la salud .................................................................................................... 18 a 21
+
+Derecho a la salud sexual y reproductiva .................................................................. 22 a 28
+
+Derechos de las niñas, niños y adolescentes en situación de discapacidad ............. 29 a 32
+
+Derecho al medio ambiente ...................................................................................... 33 a 34
+
+Capítulo II
+
+Derecho a la familia ................................................................................................ 35 a 107
+
+Sección I - Disposiciones generales ....................................................................... 35 a 50
+
+Sección II - Familia sustituta ................................................................................. 51 a 52
+
+Sección III - Acogimiento circunstancial .................................................................. 53 a 56
+
+Sección IV - La guarda ........................................................................................... 57 a 65
+
+Sección V - La tutela ............................................................................................. 66 a 79
+
+Sección VI - Adopción ........................................................................................ 80 a 105
+
+Subsección I - Disposiciones generales ................................................................ 80 a 96
+
+Subsección II - Adopción nacional e internacional .............................................. 97 a 105
+
+Sección VII - Derechos y garantías de la niña, niño y adolescente
+con madre o padre privados de libertad ................................................................ 106 a 107
+
+Capítulo III
+
+Derecho a la nacionalidad, identidad y filiación .................................................... 108 a 114
+
+Capítulo IV
+
+Derecho a la educación, información, cultura y recreación ..................................... 115 a 121
+
+Capítulo V
+
+Derecho a opinar, participar y pedir ...................................................................... 122 a 125
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
+4
+
 Capítulo VI
 
-4
+Derecho a la protección de la niña, niño y adolescente en relación al trabajo
+
+Sección I - Protección especial ........................................................................... 126 a 129
+
+Sección II - Protección en la actividad laboral y el trabajo ................................. 130 a 139
+
+Sección III - Infracciones al derecho de protección en relación al trabajo ........... 140 a 140
+
+Capítulo VII
+
+Derecho a la libertad, dignidad e imagen .............................................................. 141 a 144
+
+Capítulo VIII
+
+Derecho a la integridad personal y protección contra la violencia .......................... 145 a 157
+
+Capítulo IX
+
+Deberes de la niña, niño y adolescente ................................................................. 158 a 158
+
+Título II
+
+Sistema plurinacional de protección integral de la niña, niño y adolescente .......... 159 a 192
+
+Capítulo I
+
+Disposiciones generales ........................................................................................ 159 a 162
+
+Capítulo II
+
+Políticas, programas, medidas, entidades de atención y sanciones ......................... 163 a 177
+
+Sección I - Políticas ........................................................................................... 163 a 165
+
+Sección II - Programas de protección ................................................................ 166 a 167
+
+Sección III - Medidas de protección .................................................................. 168 a 170
+
+Sección IV - Entidades de atención del sistema de protección ........................... 171 a 175
+
+Sección V - Sanciones ...................................................................................... 176 a 176
+
+Sección VI - Acciones de defensa aplicadas frente a
+vulneración de derechos de niñas, niños y adolescentes ....................................... 177 a 177
+
+Capítulo III
+
+Distribución de responsabilidades para la gestión del
+Sistema de protección de la niña, niño y adolescente ........................................... 178 a 192
+
+Sección I - Nivel central ..................................................................................... 178 a 181
+
+Sección II - Nivel departamental ......................................................................... 182 a 183
+
+Sección III - Nivel municipal .............................................................................. 184 a 188
+
+Sección IV - Nivel indígena originario campesino ............................................... 189 a 189
+
+Sección VI - Comités de niñas, niños y adolescentes ......................................... 190 a 192
+
+Libro II
+
+Protección jurisdiccional ........................................................................................ 193 a 258
+
+Título I
+
+Protección jurídica ................................................................................................. 193 a 233
+
+Capítulo I
+
+Disposiciones generales ........................................................................................ 193 a 197
 
 [[END OF PAGE 6]]
 
@@ -74,13 +207,161 @@ Código Niña, Niño y Adolescente
 
 5
 
+Sección I - Jurisdicción y competencia ............................................................... 198 a 199
+
+Sección II - Juzgados públicos de la niñez y adolescencia ................................. 200 a 206
+
+Capítulo II
+
+Competencia de juzgados públicos en materia de niñez y adolescencia ................ 207 a 208
+
+Capítulo III
+
+Procedimiento común .......................................................................................... 209 a 233
+
+Título II
+
+Procedimientos especiales ..................................................................................... 234 a 258
+
+Capítulo I
+
+Filiación judicial .................................................................................................... 234 a 238
+
+Capítulo II
+
+Conversión de guarda en adopción ....................................................................... 239 a 240
+
+Capítulo III
+
+Tutela ordinaria ...................................................................................................... 241 a 249
+
+Capítulo IV
+
+Adopción .............................................................................................................. 250 a 255
+
+Capítulo V
+
+Disposiciones administrativas y judiciales para la adopción internacional .............. 256 a 258
+
+Libro III
+
+Sistema penal para adolescentes ........................................................................ 259 a 348
+
+Título I
+
+Disposiciones generales ........................................................................................ 259 a 269
+
+Capítulo I
+
+Sistema penal, responsabilidad y garantías ............................................................ 259 a 266
+
+Capítulo II
+
+Ámbito de aplicación ............................................................................................ 267 a 269
+
+Título II
+
+Competencias, atribuciones y funciones de los integrantes del
+sistema penal para adolescentes ........................................................................... 270 a 282
+
+Capítulo I
+
+Obligaciones generales ......................................................................................... 270 a 271
+
+Capítulo II
+
+Ministerio de Justicia ............................................................................................ 272 a 272
+
+Capítulo III
+
+Jurisdicción y competencia ................................................................................... 273 a 274
+
+Capítulo IV
+
+Ministerio Público y Policía Boliviana ...................................................................... 275 a 276
+
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
+6
+
 Capítulo V
 
-6
+Gobiernos autónomos departamentales y atribuciones de la instancia técnica departamental
+de política social sobre responsabilidad penal para adolescentes ......................... 277 a 278
+
+Capítulo VI
+
+Entidades de atención y programas del sistema penal
+
+Sección I - Entidades de atención del sistema penal ......................................... 279 a 281
+
+Sección II - Programas del sistema penal .......................................................... 282 a 282
+
+Título III
+
+Proceso penal del adolescente ............................................................................. 283 a 315
+
+Capítulo I
+
+Acción penal y participación ................................................................................. 283 a 286
+
+Capítulo II
+
+Aprehensión, medidas cautelares y peligros procesales .......................................... 287 a 291
+
+Capítulo III
+
+Investigación ......................................................................................................... 292 a 295
+
+Capítulo IV
+
+Finalización de la investigación .............................................................................. 296 a 308
+
+Sección I - Requerimiento y resolución judicial .................................................. 296 a 297
+
+Sección II - Remisión ....................................................................................... 298 a 300
+
+Sección III - Salidas alternativas ....................................................................... 301 a 303
+
+Sección IV - Otros requerimientos conclusivos ................................................... 304 a 308
+
+Capítulo V
+
+Juicio .................................................................................................................... 309 a 312
+
+Capítulo VI
+
+Recursos ............................................................................................................... 313 a 315
+
+Título IV
+
+Mecanismos de justicia restaurativa ...................................................................... 316 a 348
+
+Capítulo único
+
+Disposiciones generales ........................................................................................ 316 a 321
+
+Sección I - Medidas socio-educativas ................................................................ 322 a 325
+
+Sección II - Definición de las medidas ............................................................... 326 a 331
+
+Sección III - Centros especializados .................................................................. 332 a 339
+
+Sección IV - Ejecución de las medidas socio-educativas .................................... 340 a 345
+
+Sección V - Control de las medidas ................................................................... 346 a 347
+
+Sección VI - Calificación y reparación de daños ................................................ 348 a 348
+
+Disposiciones adicionales ................................................................................... (1ra a 4ta)
+
+Disposiciones transitorias .................................................................................... (1ra a 13va)
+
+Disposiciones abrogatoria y derogatoria ................................................................ (1ra a 2da)
+
+Disposiciones finales ........................................................................................... (1ra a 2da)
 
 [[END OF PAGE 8]]
 
@@ -124,10 +405,10 @@ D E C R E T A :
 El  presente  Código  tiene  por  objeto  reconocer,  desarrollar  y regular  el  ejercicio  de  los  derechos  de  la  niña,  niño  y  adolescente,  implementando  un  Sistema Plurinacional Integral de la Niña, Niño y Adolescente, para la garantía de esos derechos mediante la corresponsabilidad del Estado en todos sus niveles, la familia y la sociedad.
 
 ###### ARTÍCULO 2. (FINALIDAD).
-La  fi  nalidad  del  presente  Código  es  garantizar  a  la  niña,  niño  y adolescente,  el  ejercicio  pleno  y  efectivo  de  sus  derechos,  para  su  desarrollo  integral  y  exigir  el cumplimiento de sus deberes.
+La finalidad del presente Código es garantizar a la niña, niño y adolescente, el ejercicio pleno y efectivo de sus derechos, para su desarrollo integral y exigir el cumplimiento de sus deberes.
 
 ###### ARTÍCULO 3. (MARCO COMPETENCIAL).
-En aplicación del Parágrafo II del Artículo 297 de la Constitución Política del Estado, se asigna la competencia privativa de codifi  cación sustantiva y adjetiva en materia de niña, niño y adolescente, al nivel central del Estado.
+En aplicación del Parágrafo II del Artículo 297 de la Constitución Política del Estado, se asigna la competencia privativa de codificación sustantiva y adjetiva en materia de niña, niño y adolescente, al nivel central del Estado.
 
 ###### ARTÍCULO 4. (ÁMBITO DE APLICACIÓN).
 
@@ -154,7 +435,7 @@ Son sujetos de derechos del presente Código, los seres humanos hasta los diecio
 Se  considera  primera infancia a las niñas y niños comprendidos desde su nacimiento hasta los cinco (5) años, e infancia escolar a las niñas y niños comprendidos entre las edades de seis (6) a doce (12) años.
 
 ###### ARTÍCULO 7. (PRESUNCIÓN DE MINORÍA DE EDAD).
-A  los  fi  nes  de  protección  de  la niña, niño o adolescente, se presumirá que es menor de dieciocho (18) años, en tanto no se pruebe lo contrario, mediante documento de identifi  cación o por otros medios reconocidos por el Estado Plurinacional.
+A los fines de protección de la niña, niño o adolescente, se presumirá que es menor de dieciocho (18) años, en tanto no se pruebe lo contrario, mediante documento de identificación o por otros medios reconocidos por el Estado Plurinacional.
 
 ###### ARTÍCULO 8. (GARANTÍAS).
 
@@ -213,7 +494,7 @@ Código Niña, Niño y Adolescente
 
 ###### ARTÍCULO  13.  (SISTEMA  PLURINACIONAL  INTEGRAL  DE  LA  NIÑA,  NIÑO  Y ADOLESCENTE).
 
-- Está compuesto por el Sistema Plurinacional de Protección Integral de la Niña, Niño y Adolescente, y el Sistema Penal para Adolescentes; es el conjunto articulado de órganos, instancias, instituciones, organizaciones, entidades y servicios que tienen como objetivo primordial garantizar el pleno goce de los derechos de las niñas, niños y adolescentes. Para el cumplimiento de los fi  nes del Sistema Plurinacional Integral, el presente Código establece los lineamientos del Plan Plurinacional, Planes Departamentales y Municipales de las niñas, niños y adolescentes, y sus respectivos Programas, en el marco de la Política Pública, sin perjuicio de que se creen otros programas por las instancias competentes.
+- Está compuesto por el Sistema Plurinacional de Protección Integral de la Niña, Niño y Adolescente, y el Sistema Penal para Adolescentes; es el conjunto articulado de órganos, instancias, instituciones, organizaciones, entidades y servicios que tienen como objetivo primordial garantizar el pleno goce de los derechos de las niñas, niños y adolescentes. Para el cumplimiento de los fines del Sistema Plurinacional Integral, el presente Código establece los lineamientos del Plan Plurinacional, Planes Departamentales y Municipales de las niñas, niños y adolescentes, y sus respectivos Programas, en el marco de la Política Pública, sin perjuicio de que se creen otros programas por las instancias competentes.
 
 - El Sistema funciona en todos los niveles del Estado, a través de acciones  intersectoriales de interés público, desarrolladas por entes del sector público y del sector privado.
 
@@ -222,7 +503,7 @@ La  entidad  pública  cabeza  de  sector,  es  el  Ministerio  de Justicia.
 
 ###### ARTÍCULO 15. (ASIGNACIÓN DE RECURSOS).
 
-- El  Estado  en  su  nivel  central  formulará  el  Plan  Plurinacional  de  la  Niña,  Niño  y Adolescente, desarrollando el Programa de Prevención y Protección Social para Niñas, Niños y Adolescentes menores de catorce (14) años en actividad laboral, el Programa Integral de Lucha Contra la Violencia Sexual a Niñas, Niños y Adolescentes, y otros, para lo cual asignará los recursos que sean sufi  cientes de acuerdo a la disponibilidad del Tesoro General de la Nación.
+- El Estado en su nivel central formulará el Plan Plurinacional de la Niña, Niño y Adolescente, desarrollando el Programa de Prevención y Protección Social para Niñas, Niños y Adolescentes menores de catorce (14) años en actividad laboral, el Programa Integral de Lucha Contra la Violencia Sexual a Niñas, Niños y Adolescentes, y otros, para lo cual asignará los recursos que sean suficientes de acuerdo a la disponibilidad del Tesoro General de la Nación.
 
 - Las  Entidades  Territoriales  Autónomas  Departamentales  y  Municipales  ejecutarán  el Programa Departamental de la Niña, Niño y  Adolescente que incluya el funcionamiento de Instancias Técnicas Departamentales de Política Social y sus actividades programáticas; y el  Programa Municipal de la Niña, Niño y  Adolescente que incluye el funcionamiento de la
 
@@ -232,9 +513,9 @@ La  entidad  pública  cabeza  de  sector,  es  el  Ministerio  de Justicia.
 
 [[START OF PAGE 15]]
 
-Defensoría de la Niñez y Adolescencia y sus actividades programáticas respectivamente; mismos que deben ser enmarcados en el Plan Plurinacional, al efecto en el marco de sus competencias deberán disponer de los recursos económicos y humanos sufi  cientes con carácter obligatorio.
+Defensoría de la Niñez y Adolescencia y sus actividades programáticas respectivamente; mismos que deben ser enmarcados en el Plan Plurinacional, al efecto en el marco de sus competencias deberán disponer de los recursos económicos y humanos suficientes con carácter obligatorio.
 
-- Las empresas privadas deberán cumplir con los programas de responsabilidad social que  ejecutan,  benefi  ciando  prioritariamente  a  la  niña,  niño  y  adolescente,  para  el cumplimiento de las políticas, programas y proyectos de atención, prevención y protección de esta población.
+- Las empresas privadas deberán cumplir con los programas de responsabilidad social que ejecutan, beneficiando prioritariamente a la niña, niño y adolescente, para el cumplimiento de las políticas, programas y proyectos de atención, prevención y protección de esta población.
 
 # LIBRO I DERECHOS, GARANTÍAS, DEBERES Y PROTECCIÓN DE LAS  NIÑAS, NIÑOS Y ADOLESCENTES
 
@@ -301,9 +582,9 @@ reproductiva, en forma prioritaria por su padre y por su madre, guardadora o gua
 
 - El  Ministerio  de  Salud,  en  coordinación  con  las  Entidades  Territoriales  Autónomas, implementará  acciones  en  base  a  lineamientos  de  la  Política  de  Salud  Familiar Comunitaria e Intercultural.
 
-- El Ministerio de Salud fi  jará cada cinco (5) años, un índice de embarazo adolescente aplicable a todo el territorio nacional, mismo que será monitoreado anualmente.
+- El Ministerio de Salud fijará cada cinco (5) años, un índice de embarazo adolescente aplicable a todo el territorio nacional, mismo que será monitoreado anualmente.
 
-- Las Entidades  Territoriales  Autónomas que tengan un índice de embarazo en adolescentes por encima del fi  jado por el Ministerio de Salud, deberán realizar acciones diferenciadas y podrán realizar las reasignaciones presupuestarias necesarias para la disminución de este índice.
+- Las Entidades Territoriales Autónomas que tengan un índice de embarazo en adolescentes por encima del fijado por el Ministerio de Salud, deberán realizar acciones diferenciadas y podrán realizar las reasignaciones presupuestarias necesarias para la disminución de este índice.
 
 ###### ARTÍCULO 24. (PROTECCIÓN A LA MATERNIDAD).
 Corresponde al Estado en todos sus niveles, proteger la maternidad garantizando el acceso a:
@@ -318,7 +599,7 @@ Corresponde al Estado en todos sus niveles, proteger la maternidad garantizando 
 
 - La promoción, acceso gratuito y consejería de pruebas voluntarias y confidenciales  de  VIH/SIDA  a  las  mujeres  embarazadas,  con  la  información necesaria,  garantizando  su  realización  sin  costo  alguno  y  post-consejería;  así como la atención integral multidisciplinaria, incluyendo consejería psicológica, cesárea programada y tratamiento antirretroviral para mujeres embarazadas con VIH/SIDA.
 
-###### ARTÍCULO 25. (OBLIGACIÓN DE LOS ESTABLECIMIENTOS DE SALUD) .
+###### ARTÍCULO 25. (OBLIGACIÓN DE LOS ESTABLECIMIENTOS DE SALUD).
 Los hospitales y establecimientos públicos y privados de atención a la salud de las gestantes, están obligados a:
 
 Código Niña, Niño y Adolescente
@@ -337,7 +618,7 @@ Código Niña, Niño y Adolescente
 
 - Garantizar la permanencia de la o el recién nacido junto a su madre, cuando ello no implique un riesgo para la salud y vida de la o el recién nacido;
 
-- e ) Brindar consejería eficaz a las adolescentes para promover toma de decisiones informada;
+- e) Brindar consejería eficaz a las adolescentes para promover toma de decisiones informada;
 
 - Brindar  un  servicio  respetuoso,  no  revictimizador  a  las  madres  adolescentes víctimas de violencia sexual; y
 
@@ -366,7 +647,7 @@ En los casos de atención e internación de la niña, niño o adolescente, los e
 
 ###### ARTÍCULO  29.  (DERECHOS  DE  LAS  NIÑAS,  NIÑOS  Y  ADOLESCENTES  EN SITUACIÓN DE DISCAPACIDAD).
 
-- Las  niñas,  niños  y  adolescentes  en  situación  de  discapacidad  física,  cognitiva, psíquica o sensorial, además de los derechos reconocidos con carácter universal, gozan de los derechos y garantías  consagrados  en  este  Código,  además  de  los inherentes  a  su  condición  específi  ca.  El  Estado  en  todos  sus  niveles,  deberá garantizar medios y recursos para la detección temprana en los primeros años de vida y el correspondiente apoyo de estimulación y cuidado de la salud.
+- Las niñas, niños y adolescentes en situación de discapacidad física, cognitiva, psíquica o sensorial, además de los derechos reconocidos con carácter universal, gozan de los derechos y garantías consagrados en este Código, además de los inherentes a su condición específica. El Estado en todos sus niveles, deberá garantizar medios y recursos para la detección temprana en los primeros años de vida y el correspondiente apoyo de estimulación y cuidado de la salud.
 
 - La familia, el Estado en todos sus niveles y la sociedad, deben asegurarles el acceso a servicios integrales de detección temprana, atención y rehabilitación, oportunas y adecuadas, así como el pleno desarrollo de su personalidad, hasta el máximo de sus potencialidades. Los corresponsables garantizan a la niña, niño o adolescente en situación de discapacidad, los siguientes derechos:
 
@@ -399,7 +680,7 @@ Código Niña, Niño y Adolescente
 Las personas que conozcan de la existencia de la niña, niño o adolescente en situación de discapacidad, que no se hallen en tratamiento o reciban atención inadecuada, tienen la obligación de denunciar a las entidades correspondientes.
 
 ###### ARTÍCULO  32.  (EVALUACIONES).
-Las entidades estatales de salud e instituciones especializadas evaluarán el grado de discapacidad de las niñas, niños y adolescentes, a fi  n de que puedan ingresar preferentemente al sistema educativo regular o en su caso, a centros de educación especial.  La  niña,  niño  o  adolescente  internado  en  un  establecimiento  para  fi  nes  de  atención, protección y tratamiento de salud física o mental, tiene derecho a evaluaciones periódicas, como mínimo una vez cada seis meses. Igual derecho tienen las niñas, niños o adolescentes en situación de discapacidad que estén sometidos a tratamiento externo.
+Las entidades estatales de salud e instituciones especializadas evaluarán el grado de discapacidad de las niñas, niños y adolescentes, a fin de que puedan ingresar preferentemente al sistema educativo regular o en su caso, a centros de educación especial. La niña, niño o adolescente internado en un establecimiento para fines de atención, protección y tratamiento de salud física o mental, tiene derecho a evaluaciones periódicas, como mínimo una vez cada seis meses. Igual derecho tienen las niñas, niños o adolescentes en situación de discapacidad que estén sometidos a tratamiento externo.
 
 ###### ARTÍCULO 33. (DERECHO AL MEDIO AMBIENTE).
 Las niñas, niños y adolescentes tienen derecho a un ambiente sano y ecológicamente equilibrado y preservado.
@@ -408,7 +689,7 @@ Las niñas, niños y adolescentes tienen derecho a un ambiente sano y ecológica
 
 - Las  niñas,  niños  y  adolescentes  tienen  el  derecho  de  tener  acceso  al  agua  potable, saneamiento e higiene con calidad, para el pleno disfrute de la vida y el cuidado de su salud.
 
-- El Estado en todos sus niveles, garantizará el acceso, disponibilidad y asequibilidad al agua potable y saneamiento con calidad, sufi  ciencia y salubridad, aceptable para uso personal y doméstico en todo momento, y promoverá su uso sostenible.
+- El Estado en todos sus niveles, garantizará el acceso, disponibilidad y asequibilidad al agua potable y saneamiento con calidad, suficiencia y salubridad, aceptable para uso personal y doméstico en todo momento, y promoverá su uso sostenible.
 
 ### CAPÍTULO II DERECHO A LA FAMILIA
 
@@ -418,7 +699,7 @@ Las niñas, niños y adolescentes tienen derecho a un ambiente sano y ecológica
 
 - Las niñas, niños y adolescentes tienen derecho a vivir, desarrollarse y educarse en un ambiente de afecto y seguridad en su familia de origen o excepcionalmente, cuando ello no sea posible o contrario a su interés superior, en una familia sustituta que le asegure la convivencia familiar y comunitaria.
 
-- La  niña,  niño  o  adolescente  no  será  separado  de  su  familia,  salvo  circunstancias excepcionales defi  nidas por este Código y determinadas por la Jueza o Juez Público en materia de Niñez y Adolescencia, previo proceso y con la fi  nalidad de protegerlo.
+- La niña, niño o adolescente no será separado de su familia, salvo circunstancias excepcionales definidas por este Código y determinadas por la Jueza o Juez Público en materia de Niñez y Adolescencia, previo proceso y con la finalidad de protegerlo.
 
 18
 
@@ -435,7 +716,7 @@ Es  la  constituida  por  la  madre  y  el  padre  o  por cualquiera de los prog
 
 - La  falta  o  carencia  de  recursos  materiales  y  económicos,  no  podrá  interpretarse como violencia, ni constituye por sí sola motivo para iniciar las acciones de extinción, suspensión de la autoridad de la madre, padre o de ambos.
 
-- El Estado a través de todos sus niveles, en coordinación con la sociedad civil, formulará políticas públicas y programas integrales e interdisciplinarios destinados a fomentar la cultura de paz y resolución de confl  ictos dentro de la familia, previniendo el abandono de la niña, niño o adolescente.
+- El Estado a través de todos sus niveles, en coordinación con la sociedad civil, formulará políticas públicas y programas integrales e interdisciplinarios destinados a fomentar la cultura de paz y resolución de conflictos dentro de la familia, previniendo el abandono de la niña, niño o adolescente.
 
 ###### ARTÍCULO 38. (DERECHO A CONOCER A SU MADRE Y PADRE).
 Las niñas, niños y adolescentes tienen derecho a conocer a su madre y padre de origen.
@@ -463,7 +744,7 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 22]]
 
-- a ) Parcial, por la cual se limita el ejercicio de la autoridad materna o paterna para ciertos actos, sin la necesidad de la separación de sus hijas e hijos; y
+- a) Parcial, por la cual se limita el ejercicio de la autoridad materna o paterna para ciertos actos, sin la necesidad de la separación de sus hijas e hijos; y
 
 - Total, por la cual se suspende totalmente el ejercicio de la autoridad materna o paterna.
 
@@ -492,7 +773,7 @@ La suspensión total procede en los siguientes casos:
 - Ser condenados como autores intelectuales de delitos cometidos por sus hijas o hijos, excepto de los delitos que sean causales para la extinción de la autoridad.
 
 ###### ARTÍCULO 45. (FACULTAD JUDICIAL).
-La Jueza o Juez que decida sobre la suspensión total de la autoridad, podrá extenderla a las otras hijas e hijos, de acuerdo a valoración del caso concreto, fi  jando la asistencia familiar según las necesidades de la niña, niño o adolescente, y la capacidad económica de la madre o padre.
+La Jueza o Juez que decida sobre la suspensión total de la autoridad, podrá extenderla a las otras hijas e hijos, de acuerdo a valoración del caso concreto, fijando la asistencia familiar según las necesidades de la niña, niño o adolescente, y la capacidad económica de la madre o padre.
 
 ###### ARTÍCULO  46.  (RESTITUCIÓN).
 El  ejercicio  de  la  autoridad  podrá  ser  restituido  cuando hayan desaparecido las causales de la suspensión parcial o cuando la madre, el padre, o ambos, demuestren condiciones y aptitud para ejercerla, ante la misma autoridad judicial que la hubiere suspendido.
@@ -532,7 +813,7 @@ La extinción de la autoridad se aplica por las siguientes causales:
 
 - El consentimiento de la madre, del padre o ambos deberá ser otorgado después del  nacimiento  de  la  niña  o  niño.  Es  nulo  el  consentimiento  dado  antes  del nacimiento.
 
-- El consentimiento de la madre, padre o ambos, es irrevocable y causa estado a partir de la resolución judicial ejecutoriada que defi  ne la situación de la niña, niño o adolescente.
+- El consentimiento de la madre, padre o ambos, es irrevocable y causa estado a partir de la resolución judicial ejecutoriada que define la situación de la niña, niño o adolescente.
 
 Código Niña, Niño y Adolescente
 
@@ -622,7 +903,7 @@ Cualquier forma de lucro derivada de la integración en familias sustitutas o en
 
 - La guarda es una institución jurídica que tiene por objeto el cuidado, protección, atención y asistencia integral a la niña, niño o adolescente con carácter provisional. Es otorgada mediante Resolución Judicial a la madre o al padre, en casos de divorcio o separación de las uniones conyugales libres, o a terceras personas, sin afectar la autoridad materna o paterna.
 
-- La guarda confi  ere a la guardadora o guardador el deber de precautelar los intereses de la niña, niño o adolescente frente a terceras personas, inclusive a la madre, al padre o ambos; así como también a tramitar la asistencia familiar.
+- La guarda confiere a la guardadora o guardador el deber de precautelar los intereses de la niña, niño o adolescente frente a terceras personas, inclusive a la madre, al padre o ambos; así como también a tramitar la asistencia familiar.
 
 ###### ARTÍCULO 58. (CLASES DE GUARDA).
 Se establecen las siguientes clases de guarda:
@@ -655,7 +936,7 @@ Se establecen las siguientes clases de guarda:
 
 ###### ARTÍCULO 60. (VIGENCIA, SEGUIMIENTO Y HABILITACIÓN).
 
-- La guarda, estará vigente en tanto se defi  na la suspensión o extinción de la autoridad y las medidas impuestas a la madre, al padre o ambos. Cuando la niña, niño y adolescente, no tenga ni madre ni padre identifi  cados, o exista confl  icto de fi  liación, la guarda será otorgada a terceras personas.
+- La guarda, estará vigente en tanto se defina la suspensión o extinción de la autoridad y las medidas impuestas a la madre, al padre o ambos. Cuando la niña, niño y adolescente, no tenga ni madre ni padre identificados, o exista conflicto de filiación, la guarda será otorgada a terceras personas.
 
 - La Jueza o Juez, en resolución ordenará a la Defensoría de la Niñez y Adolescencia, realizar  el  seguimiento  de  la  guarda  y  establecer  el  lugar  del  ejercicio  de  la  misma, dentro del territorio nacional.
 
@@ -665,13 +946,13 @@ Se establecen las siguientes clases de guarda:
 Los  responsables de la guarda bajo ninguna circunstancia pueden transferir a terceros a la niña, niño o adolescente, cuya guarda le fue conferida.
 
 ###### ARTÍCULO 62. (REVOCACIÓN).
-La guarda podrá ser revocada mediante Resolución Judicial, de ofi  cio o a petición de parte, considerando los informes ordenados y después de haber oído a la niña, niño o adolescente.
+La guarda podrá ser revocada mediante Resolución Judicial, de oficio o a petición de parte, considerando los informes ordenados y después de haber oído a la niña, niño o adolescente.
 
 ###### ARTÍCULO 63. (TRÁMITE Y EJERCICIO).
 La guarda será tramitada por los familiares, terceras personas o por la Defensoría de la Niñez y Adolescencia, ante la Jueza o Juez Público en materia de Niñez y Adolescencia, en cuya jurisdicción se encuentra la niña, niño o adolescente, y será ejercida en el lugar de residencia de la guardadora o guardador designado, dentro del territorio boliviano. En caso de cambio de residencia, la guardadora o guardador deberá comunicar a la Jueza o Juez previo al cambio de domicilio.
 
 ###### ARTÍCULO 64. (MADRE O PADRE MIGRANTE).
-En casos de migración de la madre, del padre que tenga la guarda, o ambos, deberán comunicar a la Defensoría de la Niñez y Adolescencia, para su correspondiente tramitación ante la Jueza o Juez de la Niñez y Adolescencia, para no ser suspendidos de su autoridad, señalando o identifi  cando las personas que se quedarán a cargo y habilitando a esta instancia, para realizar el seguimiento a la situación de las hijas y los hijos.
+En casos de migración de la madre, del padre que tenga la guarda, o ambos, deberán comunicar a la Defensoría de la Niñez y Adolescencia, para su correspondiente tramitación ante la Jueza o Juez de la Niñez y Adolescencia, para no ser suspendidos de su autoridad, señalando o identificando las personas que se quedarán a cargo y habilitando a esta instancia, para realizar el seguimiento a la situación de las hijas y los hijos.
 
 ###### ARTÍCULO 65. (PROMOCIÓN DE PROGRAMAS PARA GUARDA).
 El  Estado en todos sus niveles, por medio de los organismos correspondientes, promoverá programas que estimulen el acogimiento bajo la modalidad de guarda de niñas, niños o adolescentes carentes de familia o de la autoridad de la madre y del padre.
@@ -687,7 +968,7 @@ Código Niña, Niño y Adolescente
 #### SECCIÓN V LA TUTELA
 
 ###### ARTÍCULO 66. (TUTELA).
-La tutela es un instituto jurídico que por mandato legal, es otorgada por la Jueza o Juez Público en materia de Niñez y Adolescencia, a una persona mayor de edad. Tiene la fi  nalidad de garantizar a niñas, niños o adolescentes sus derechos, prestarles atención integral, representarlos en los actos civiles y administrar sus bienes.
+La tutela es un instituto jurídico que por mandato legal, es otorgada por la Jueza o Juez Público en materia de Niñez y Adolescencia, a una persona mayor de edad. Tiene la finalidad de garantizar a niñas, niños o adolescentes sus derechos, prestarles atención integral, representarlos en los actos civiles y administrar sus bienes.
 
 ###### ARTÍCULO 67. (PROCEDENCIA).
 La tutela procede por:
@@ -725,7 +1006,7 @@ Son requisitos para acceder a la tutela ordinaria los siguientes:
 [[START OF PAGE 29]]
 
 ###### ARTÍCULO 70. (EXENCIÓN DE FIANZA).
-Están exentos de dar fi  anza:
+Están exentos de dar fianza:
 
 - Las abuelas, abuelos, hermanas y hermanos;
 
@@ -752,7 +1033,7 @@ No podrán ser tutoras o tutores y, si han sido nombrados, cesarán en el cargo:
 Se aplican a la tutela las disposiciones que regulan a la autoridad de madre y padre.
 
 ###### ARTÍCULO 73. (REMUNERACIÓN) .
-La tutora o tutor tendrá una retribución fi  jada por la Jueza o Juez, que no será inferior al cinco por ciento (5%), ni excederá el diez por ciento (10%), de las rentas producidas por los bienes sujetos a su administración. Esta disposición no se aplica a la tutela ejercida por los ascendientes o hermanos.
+La tutora o tutor tendrá una retribución fijada por la Jueza o Juez, que no será inferior al cinco por ciento (5%), ni excederá el diez por ciento (10%), de las rentas producidas por los bienes sujetos a su administración. Esta disposición no se aplica a la tutela ejercida por los ascendientes o hermanos.
 
 ###### ARTÍCULO 74. (REMOCIÓN).
 La tutora o tutor es removida o removido de la tutela por:
@@ -801,7 +1082,7 @@ Los herederos de la tutora o tutor, son responsables únicamente por los actos d
 - La Instancia Técnica Departamental de Política Social, podrá delegar la guarda de la niña, niño o adolescente sujeto a su tutela, mediante la suscripción de convenios con instituciones públicas o privadas, sin fines de lucro.
 
 ###### ARTÍCULO 79. (TRÁMITE DE BENEFICIOS DE LA TUTELA EXTRAORDINARIA).
-La Instancia Técnica Departamental de Política Social deberá tramitar los benefi  cios que las leyes le reconozcan a la niña, niño o adolescente y la asistencia familiar cuando corresponda. Los montos asignados serán depositados a nombre de la niña, niño o adolescente, en una cuenta bancaria que garantice su mantenimiento de valor, comprobándose mediante libreta de ahorro o certifi  cados de depósitos, ante la Jueza o el Juez que conozca la causa.
+La Instancia Técnica Departamental de Política Social deberá tramitar los beneficios que las leyes le reconozcan a la niña, niño o adolescente y la asistencia familiar cuando corresponda. Los montos asignados serán depositados a nombre de la niña, niño o adolescente, en una cuenta bancaria que garantice su mantenimiento de valor, comprobándose mediante libreta de ahorro o certificados de depósitos, ante la Jueza o el Juez que conozca la causa.
 
 28
 
@@ -815,7 +1096,7 @@ La Instancia Técnica Departamental de Política Social deberá tramitar los ben
 
 ###### ARTÍCULO 80. (DEFINICIÓN).
 
-- La adopción, es una institución jurídica, mediante la cual la niña, niño o adolescente, en situación de adoptabilidad, adquiere la calidad de hija o hijo de la o el adoptante, en forma estable, permanente y defi  nitiva. Podrá ser nacional o internacional.
+- La adopción, es una institución jurídica, mediante la cual la niña, niño o adolescente, en situación de adoptabilidad, adquiere la calidad de hija o hijo de la o el adoptante, en forma estable, permanente y definitiva. Podrá ser nacional o internacional.
 
 - Esta institución se establece en función del interés superior de la adoptada o adoptado.
 
@@ -826,7 +1107,7 @@ Velando por el interés superior  de  la  niña,  niño  o  adolescente,  en  lo
 La adopción, concede a la niña, niño o adolescente, igual condición que la de hija o hijo nacido de la madre y padre adoptante, con los mismos derechos y deberes establecidos en la Constitución Política del Estado y las leyes, con responsabilidad y reciprocidad familiar, sin distinción de roles.
 
 ###### ARTÍCULO  83.  (IDENTIFICACIÓN  Y  SELECCIÓN).
-Es  obligación  de  las  Instancias Departamentales de Política Social, identifi  car y seleccionar a las y los solicitantes de adopción. Este proceso se realizará conforme a procedimiento.
+Es  obligación  de  las  Instancias Departamentales de Política Social, identificar y seleccionar a las y los solicitantes de adopción. Este proceso se realizará conforme a procedimiento.
 
 ###### ARTÍCULO 84. (REQUISITOS PARA LA O EL SOLICITANTE DE ADOPCIÓN).
 
@@ -862,7 +1143,7 @@ Código Niña, Niño y Adolescente
 
 - Informe post adoptivo favorable para nuevos trámites de adopción.
 
-- Los requisitos señalados en los incisos a) y b) se acreditarán mediante certifi  cado de nacimiento.
+- Los requisitos señalados en los incisos a) y b) se acreditarán mediante certificado de nacimiento.
 
 - Las personas solteras podrán ser solicitantes para adopciones nacionales o internacionales,  cumpliendo  los  requisitos  establecidos  en  el  Parágrafo  I  en  lo  que corresponda.
 
@@ -906,7 +1187,7 @@ de las y/o los solicitantes de la adopción y la opinión, cuando corresponda, d
 
 ###### ARTÍCULO 87. (CONVIVENCIA TEMPORAL PRE-ADOPTIVA).
 
-- La  convivencia  pre-adoptiva  es  el  acercamiento  temporal  entre  las  o  los  solicitantes adoptantes y la niña, niño o adolescente a ser adoptado con la fi  nalidad de establecer la compatibilidad afectiva y aptitudes psico-sociales de crianza de la y el solicitante.
+- La  convivencia  pre-adoptiva  es  el  acercamiento  temporal  entre  las  o  los  solicitantes adoptantes y la niña, niño o adolescente a ser adoptado con la finalidad de establecer la compatibilidad afectiva y aptitudes psico-sociales de crianza de la y el solicitante.
 
 - En caso de adopción nacional o internacional, la etapa de convivencia debe ser cumplida en el territorio nacional por un tiempo no mayor a dos (2) meses.
 
@@ -960,7 +1241,7 @@ Si durante el trámite de adopción surge demanda de separación, divorcio o des
 
 ###### ARTÍCULO 93. (RESERVA EN EL TRÁMITE).
 
-- El trámite de la adopción es absolutamente reservado. En ningún momento puede ser exhibido el expediente a persona extraña ni otorgarse testimonio o certifi  cado de las piezas insertas en el mismo o brindar información verbal o escrita.
+- El trámite de la adopción es absolutamente reservado. En ningún momento puede ser exhibido el expediente a persona extraña ni otorgarse testimonio o certificado de las piezas insertas en el mismo o brindar información verbal o escrita.
 
 - La  reserva  señalada  en  el  Parágrafo  anterior,  podrá  levantarse  excepcionalmente  a solicitud  fundamentada  de  la  Defensoría  de  la  Niñez  y  Adolescencia,  la  Instancia Técnica Departamental de Política Social, el Ministerio Público o el Ministerio de Justicia, mediante orden judicial.
 
@@ -973,7 +1254,7 @@ Si durante el trámite de adopción surge demanda de separación, divorcio o des
 [[START OF PAGE 35]]
 
 ###### ARTÍCULO 94. (PROHIBICIÓN DE LUCRO).
-La  existencia  de  fi  nes  de  lucro  o  benefi  cios materiales,  dádivas,  donaciones  u  obsequios  a  servidoras  o  servidores  públicos  y  autoridades de centros de acogimiento, organismos intermediarios de adopciones e instituciones públicas en general, que conozcan estos procesos, serán denunciados al Ministerio Público, instancia que deberá seguir el proceso de ofi  cio.
+La  existencia  de  fines  de  lucro  o  beneficios materiales,  dádivas,  donaciones  u  obsequios  a  servidoras  o  servidores  públicos  y  autoridades de centros de acogimiento, organismos intermediarios de adopciones e instituciones públicas en general, que conozcan estos procesos, serán denunciados al Ministerio Público, instancia que deberá seguir el proceso de oficio.
 
 ###### ARTÍCULO 95. (DERECHO DE LA PERSONA ADOPTADA).
 
@@ -1008,7 +1289,7 @@ Código Niña, Niño y Adolescente
 
 ###### ARTÍCULO 100. (APLICACIÓN DE INSTRUMENTOS INTERNACIONALES).
 
-- Para que proceda la adopción internacional es indispensable que el país de residencia del solicitante adoptante, sea parte de la Convención de la Haya Relativa a la Protección del Niño y a la Cooperación en Materia de Adopción Internacional, y existan convenios sobre adopción entre el Estado Plurinacional de Bolivia y el Estado de residencia de los solicitantes adoptantes, ratifi  cados por el Órgano Legislativo.
+- Para que proceda la adopción internacional es indispensable que el país de residencia del solicitante adoptante, sea parte de la Convención de la Haya Relativa a la Protección del Niño y a la Cooperación en Materia de Adopción Internacional, y existan convenios sobre adopción entre el Estado Plurinacional de Bolivia y el Estado de residencia de los solicitantes adoptantes, ratificados por el Órgano Legislativo.
 
 - En dichos convenios o en adenda posterior, cada Estado establecerá su Autoridad Central a  objeto  de  tramitar  las  adopciones  internacionales  y  para  efectos  del  seguimiento correspondiente. La Autoridad Central en materia de adopciones internacionales es la instancia competente del Órgano Ejecutivo.
 
@@ -1018,7 +1299,7 @@ Código Niña, Niño y Adolescente
 
 - Las personas extranjeras y  bolivianas,  radicadas  en  el  exterior  que  deseen  adoptar,  lo  harán a través de representantes de los organismos intermediarios acreditados, presentando ante  la Autoridad  Central  del  Estado  Plurinacional  de  Bolivia  la  documentación  que acredite la idoneidad, otorgada por el país donde residen.
 
-- Una  vez  aprobada  la  idoneidad  por  la  Autoridad  Central  del  Estado  Plurinacional de Bolivia,  se  remitirá  una  copia  del  certifi  cado  de  idoneidad  a  la  Instancia Técnica Departamental de Política Social que corresponda, para que sea incluida en un trámite de adopción internacional.
+- Una  vez  aprobada  la  idoneidad  por  la  Autoridad  Central  del  Estado  Plurinacional de Bolivia,  se  remitirá  una  copia  del  certificado  de  idoneidad  a  la  Instancia Técnica Departamental de Política Social que corresponda, para que sea incluida en un trámite de adopción internacional.
 
 ###### ARTÍCULO 102. (REQUISITOS PARA SOLICITANTE DE ADOPCIÓN INTERNACIONAL).
 
@@ -1044,7 +1325,7 @@ Código Niña, Niño y Adolescente
 La Autoridad Central del país de recepción tiene la obligación del seguimiento post-adoptivo remitiendo cada seis (6) meses y durante dos (2) años, los informes respectivos que deberán estar traducidos al castellano y legalizados en forma gratuita en la representación diplomática boliviana acreditada ante el país de residencia. Sin perjuicio, la Autoridad Central del Estado Plurinacional de Bolivia, tiene la facultad de realizar las acciones de control y seguimiento que considere necesario.
 
 ###### ARTÍCULO  104.  (PRESENCIA  DE  LAS  O  LOS  SOLICITANTES  DE  ADOPCIÓN INTERNACIONAL).
-En los procesos de adopción internacional, es obligatoria la presencia física de la y el solicitante adoptante, desde la audiencia para el periodo pre-adoptivo y hasta la fecha de la ejecutoría de la sentencia y emisión del Certifi  cado de conformidad por la Autoridad Central del Estado Plurinacional de Bolivia.
+En los procesos de adopción internacional, es obligatoria la presencia física de la y el solicitante adoptante, desde la audiencia para el periodo pre-adoptivo y hasta la fecha de la ejecutoría de la sentencia y emisión del Certificado de conformidad por la Autoridad Central del Estado Plurinacional de Bolivia.
 
 ###### ARTÍCULO 105. (NACIONALIDAD).
 La niña, niño o adolescente boliviana o boliviano, que sea adoptada o adoptado por extranjera y/o extranjero, mantiene la nacionalidad boliviana, sin perjuicio de que adquiera la de la o el adoptante.
@@ -1087,13 +1368,13 @@ La  niña,  niño  o  adolescente  adquiere  la  nacionalidad boliviana desde el
 
 - La  niña,  niño  o  adolescente  tiene  derecho  a  nombre  propio  e  individual,  llevar  dos apellidos, paterno y materno, o un solo apellido sea de la madre o del padre y otro convencional para completar los dos apellidos; o, en su defecto, tener dos apellidos convencionales.
 
-- El Servicio de Registro Cívico desarrollará procedimientos breves y gratuitos que permitan el ejercicio del derecho a la identidad y fi  liación para la niña, niño o adolescente.
+- El Servicio de Registro Cívico desarrollará procedimientos breves y gratuitos que permitan el ejercicio del derecho a la identidad y filiación para la niña, niño o adolescente.
 
 ###### ARTÍCULO 110. (FILIACIÓN).
 
-- La fi  liación constituye un vínculo jurídico entre la madre, padre o ambos, con la hija o hijo, que implica responsabilidades y derechos recíprocos.
+- La filiación constituye un vínculo jurídico entre la madre, padre o ambos, con la hija o hijo, que implica responsabilidades y derechos recíprocos.
 
-- La madre y el padre tienen la obligación de registrar la fi  liación de su hija o hijo al momento del nacimiento y hasta treinta  (30)  días  después.  Podrá  ser  fi  liado  por  la simple indicación de cualquiera de ellos y, según el caso, podrá establecer un apellido convencional.
+- La madre y el padre tienen la obligación de registrar la filiación de su hija o hijo al momento del nacimiento y hasta treinta  (30)  días  después.  Podrá  ser  filiado  por  la simple indicación de cualquiera de ellos y, según el caso, podrá establecer un apellido convencional.
 
 - La madre, padre o ambos, asumen igual responsabilidad en la atención afectiva y material de la hija o hijo, aun llevando la niña, niño o adolescente el apellido convencional y materno sin el testimonio del progenitor.
 
@@ -1109,24 +1390,24 @@ La  niña,  niño  o  adolescente  adquiere  la  nacionalidad boliviana desde el
 
 ###### ARTÍCULO 111. (FILIACIÓN JUDICIAL).
 
-- Cuando no exista o se desconozca la identidad de la madre y del padre de la niña, niño o adolescente, y la Defensoría de la Niñez y Adolescencia haya agotado todos los medios para identifi  carlos, esta entidad demandará la fi  liación ante la autoridad judicial, para que determine los nombres y apellidos convencionales.
+- Cuando no exista o se desconozca la identidad de la madre y del padre de la niña, niño o adolescente, y la Defensoría de la Niñez y Adolescencia haya agotado todos los medios para identificarlos, esta entidad demandará la filiación ante la autoridad judicial, para que determine los nombres y apellidos convencionales.
 
 - La circunstancia de nombres y apellidos convencionales quedará únicamente registrada en las notas marginales de los libros de la partida de nacimiento correspondiente. No podrán ser exhibidos a terceras personas, sin orden judicial.
 
 ###### ARTÍCULO 112. (PROHIBICIONES).
-Se prohíbe la fi  liación de la niña, niño o adolescente nacida o nacido como producto de delitos de violación o estupro, con el autor de tales delitos, pudiendo agregar un apellido convencional.
+Se prohíbe la filiación de la niña, niño o adolescente nacida o nacido como producto de delitos de violación o estupro, con el autor de tales delitos, pudiendo agregar un apellido convencional.
 
 ###### ARTÍCULO 113. (OBLIGACIÓN EN EL REGISTRO).
 
-- La o el Ofi  cial de Registro Civil, al momento de la inscripción, podrá orientar a la madre, padre, guardadora o guardador, tutora o tutor, para asignar nombres que no sean motivo de discriminación.
+- La o el Oficial de Registro Civil, al momento de la inscripción, podrá orientar a la madre, padre, guardadora o guardador, tutora o tutor, para asignar nombres que no sean motivo de discriminación.
 
-- Es  obligación  de  la  o  el  Ofi  cial  de  Registro  Civil,  respetar  los  nombres  y  apellidos originarios asignados por la madre, padre o autoridad de una nación o pueblo indígena originario campesino.
+- Es  obligación  de  la  o  el  Oficial  de  Registro  Civil,  respetar  los  nombres  y  apellidos originarios asignados por la madre, padre o autoridad de una nación o pueblo indígena originario campesino.
 
 ###### ARTÍCULO 114. (INSCRIPCIÓN GRATUITA).
 
-- La niña o niño, debe ser inscrito en el Registro Civil y recibir el primer Certifi  cado de Nacimiento, en forma gratuita.
+- La niña o niño, debe ser inscrito en el Registro Civil y recibir el primer Certificado de Nacimiento, en forma gratuita.
 
-- En  el  caso  que  se  encuentre  bajo  tutela  extraordinaria,  en  situación  de  calle  o  sea adolescente trabajador o en caso de situación de emergencia o desastre natural, se le otorgará el Certifi  cado de Nacimiento duplicado de manera gratuita.
+- En  el  caso  que  se  encuentre  bajo  tutela  extraordinaria,  en  situación  de  calle  o  sea adolescente trabajador o en caso de situación de emergencia o desastre natural, se le otorgará el Certificado de Nacimiento duplicado de manera gratuita.
 
 Código Niña, Niño y Adolescente
 
@@ -1142,7 +1423,7 @@ Código Niña, Niño y Adolescente
 
 - Las niñas, niños y adolescentes tienen derecho a la educación gratuita, integral y de calidad, dirigida al pleno desarrollo de su personalidad, aptitudes, capacidades físicas y mentales.
 
-- Las niñas, niños y adolescentes tienen derecho a una educación de calidad y calidez, intracultural, intercultural y plurilingüe, que les permita su desarrollo integral diferenciado, les prepare para el ejercicio de sus derechos y ciudadanía, les inculque el respeto por los derechos humanos, los valores interculturales, el cuidado del medio ambiente y les cualifi  que para el trabajo.
+- Las niñas, niños y adolescentes tienen derecho a una educación de calidad y calidez, intracultural, intercultural y plurilingüe, que les permita su desarrollo integral diferenciado, les prepare para el ejercicio de sus derechos y ciudadanía, les inculque el respeto por los derechos humanos, los valores interculturales, el cuidado del medio ambiente y les cualifique para el trabajo.
 
 ###### ARTÍCULO 116. (GARANTÍAS).
 
@@ -1175,7 +1456,7 @@ Código Niña, Niño y Adolescente
 - La implementación del modelo educativo tiene como núcleo los derechos de la niña, niño y adolescente, su desarrollo integral y la calidad de la educación.
 
 ###### ARTÍCULO 117. (DISCIPLINA ESCOLAR).
-Las normas de conducta y la convivencia pacífi  ca y armónica, deben estar administradas respetando los derechos y garantías de las niñas, niños y adolescentes, considerando sus deberes, los cuales deben sujetarse a las siguientes previsiones:
+Las normas de conducta y la convivencia pacífica y armónica, deben estar administradas respetando los derechos y garantías de las niñas, niños y adolescentes, considerando sus deberes, los cuales deben sujetarse a las siguientes previsiones:
 
 - Todas las niñas, niños y adolescentes deben tener acceso e información oportuna al  contenido  de  los  reglamentos  internos  de  convivencia  pacífica  y  armónica correspondientes;
 
@@ -1217,7 +1498,7 @@ La niña, niño y adolescente tiene derecho a:
 
 - El ejercicio de estos derechos debe estar dirigido a garantizar el desarrollo integral de la niña, niño y adolescente, y a fortalecer los valores de solidaridad, tolerancia, identidad cultural y conservación del ambiente.
 
-- El Estado en todos sus niveles, promoverá políticas públicas con presupuesto sufi  ciente dirigidas a la creación de programas de recreación, esparcimiento y juegos deportivos dirigidos a todas las niñas, niños y adolescentes, especialmente a quienes se encuentran en situación de discapacidad.
+- El Estado en todos sus niveles, promoverá políticas públicas con presupuesto suficiente dirigidas a la creación de programas de recreación, esparcimiento y juegos deportivos dirigidos a todas las niñas, niños y adolescentes, especialmente a quienes se encuentran en situación de discapacidad.
 
 - Las instancias responsables de la construcción de infraestructuras educativas, deportivas, recreativas y de esparcimiento, deberán aplicar parámetros técnicos mínimos de accesibilidad para que las niñas, niños y adolescentes en situación de discapacidad, puedan ejercer y gozar plenamente y en igualdad de condiciones de todos sus derechos reconocidos en el presente Código.
 
@@ -1275,19 +1556,19 @@ Código Niña, Niño y Adolescente
 
 ###### ARTÍCULO 128. (ACTIVIDADES COMUNITARIAS FAMILIARES).
 
-- Es  la  actividad  de  la  niña,  niño  o  adolescente,  desarrollada  conjuntamente  con sus familias en comunidades  indígena  originarias campesinas,  afrobolivianas e interculturales.  Estas  actividades  son  culturalmente  valoradas  y  aceptadas,  y  tienen como fi  nalidad el desarrollo de destrezas fundamentales para su vida y fortalecimiento de la convivencia comunitaria dentro del marco del Vivir Bien; construido sobre la base de saberes ancestrales que incluyen actividades de siembra, cosecha, cuidado de bienes de la naturaleza como bosques, agua y animales con constantes componentes lúdicos, recreativos, artísticos y religiosos.
+- Es  la  actividad  de  la  niña,  niño  o  adolescente,  desarrollada  conjuntamente  con sus familias en comunidades  indígena  originarias campesinas,  afrobolivianas e interculturales.  Estas  actividades  son  culturalmente  valoradas  y  aceptadas,  y  tienen como finalidad el desarrollo de destrezas fundamentales para su vida y fortalecimiento de la convivencia comunitaria dentro del marco del Vivir Bien; construido sobre la base de saberes ancestrales que incluyen actividades de siembra, cosecha, cuidado de bienes de la naturaleza como bosques, agua y animales con constantes componentes lúdicos, recreativos, artísticos y religiosos.
 
 - Este  tipo  de  actividades  se  desarrollan  de  acuerdo  a  normas  y  procedimientos propios, dentro del marco de la jurisdicción indígena originaria campesina, cuando no constituyan explotación laboral ni amenacen o vulneren los derechos de las niñas, niños y adolescentes.
 
 ###### ARTÍCULO 129. (EDAD MÍNIMA PARA TRABAJAR).
 
-- Se fi  ja como edad mínima para trabajar, los catorce (14) años de edad.
+- Se fija como edad mínima para trabajar, los catorce (14) años de edad.
 
 - Excepcionalmente,  las  Defensorías  de  la  Niñez  y  Adolescencia,  podrán  autorizar  la actividad laboral por cuenta propia realizada por niñas, niños o adolescentes de diez (10)  a  catorce  (14)  años,  y  la  actividad  laboral  por  cuenta  ajena  de  adolescentes de doce (12) a catorce (14) años, siempre que ésta no menoscabe su derecho a la educación, no sea peligrosa, insalubre, atentatoria a su dignidad y desarrollo integral, o se encuentre expresamente prohibido por la Ley.
 
 - La solicitud deberá tener respuesta en el plazo de setenta y dos (72) horas computables a partir de su recepción, previa valoración socio-económica, y surtirá efectos de registro en el Sistema de Información de Niñas, Niños y Adolescentes-SINNA.
 
-- El registro de la autorización para un rubro determinado podrá ser modifi  cado a solicitud verbal de la o el interesado, sin necesidad de iniciar un nuevo trámite de autorización. Las  Defensorías  de  la  Niñez  y Adolescencia,  si  fuere  necesario,  podrán  solicitar  una nueva valoración médica y psicológica.
+- El registro de la autorización para un rubro determinado podrá ser modificado a solicitud verbal de la o el interesado, sin necesidad de iniciar un nuevo trámite de autorización. Las  Defensorías  de  la  Niñez  y Adolescencia,  si  fuere  necesario,  podrán  solicitar  una nueva valoración médica y psicológica.
 
 42
 
@@ -1337,7 +1618,7 @@ Código Niña, Niño y Adolescente
 
 - En relación de dependencia laboral.
 
-- Para garantizar la justa remuneración de la o el adolescente mayor de catorce (14) años, ésta no podrá ser menor a la de un adulto que realice el mismo trabajo, no podrá ser inferior al salario mínimo nacional, ni reducido al margen de la Ley. El salario de la o el adolescente trabajador siempre debe ir en su benefi  cio y en procura de una mejor calidad de vida.
+- Para garantizar la justa remuneración de la o el adolescente mayor de catorce (14) años, ésta no podrá ser menor a la de un adulto que realice el mismo trabajo, no podrá ser inferior al salario mínimo nacional, ni reducido al margen de la Ley. El salario de la o el adolescente trabajador siempre debe ir en su beneficio y en procura de una mejor calidad de vida.
 
 - La empleadora o el empleador debe garantizar las condiciones necesarias de seguridad para que la o el adolescente mayor de catorce (14) años desarrolle su trabajo.
 
@@ -1369,7 +1650,7 @@ Código Niña, Niño y Adolescente
 
 - Consiste  en  las  labores  asalariadas,  propias  del  hogar  efectuadas  por  adolescentes mayores de catorce (14) años; consistente en trabajos de cocina, limpieza, lavandería, aseo, cuidado de niñas o niños o adolescentes y asistencia.
 
-- La contratación de adolescentes asalariados del hogar, deberá ser propia de labores específi  cas  o  para  una  de  las  actividades  concretas  señaladas  en  el  Parágrafo precedente; prohibiéndose la contratación para trabajos múltiples o la imposición de labores para las que no hayan sido contratadas o contratados.
+- La contratación de adolescentes asalariados del hogar, deberá ser propia de labores específicas  o  para  una  de  las  actividades  concretas  señaladas  en  el  Parágrafo precedente; prohibiéndose la contratación para trabajos múltiples o la imposición de labores para las que no hayan sido contratadas o contratados.
 
 - En caso de la contratación de una persona adulta para trabajo asalariado del hogar que viva con uno o más de sus hijas o hijos en el domicilio de la o el empleador, queda prohibido el trabajo de éstas o éstos últimos.
 
@@ -1458,7 +1739,7 @@ III. Según su condición, se prohíbe:
 
 - Cuidador de autos fuera del horario establecido.
 
-- Otras prohibiciones que puedan especifi  carse mediante norma expresa.
+- Otras prohibiciones que puedan especificarse mediante norma expresa.
 
 - El Ministerio de Trabajo, Empleo y Previsión Social, deberá adecuar la lista de actividades laborales y trabajos peligrosos, insalubres o atentatorios a la dignidad e integridad de niñas,  niños  y  adolescentes,  periódicamente,  al  menos  cada  cinco  (5)  años,  con  la participación social de los actores involucrados.
 
@@ -1466,9 +1747,9 @@ III. Según su condición, se prohíbe:
 
 ###### ARTÍCULO 137. (SEGURIDAD SOCIAL PARA LAS Y LOS  ADOLESCENTES TRABAJADORES).
 
-- La  o  el  adolescente  trabajador  tiene  derecho  a  ser  inscrito  obligatoriamente  en  el Sistema de Seguridad Social y gozará de todos los benefi  cios, prestaciones económicas y  servicios  de  salud,  que  brinda  este  Sistema,  en  las  mismas  condiciones  previstas para los mayores de dieciocho (18) años, de acuerdo con la legislación especial de la materia. A tal efecto, la empleadora o el empleador deberá inscribir a la o el adolescente trabajador en el Sistema de Seguridad Social inmediatamente después de su ingreso en el empleo.
+- La  o  el  adolescente  trabajador  tiene  derecho  a  ser  inscrito  obligatoriamente  en  el Sistema de Seguridad Social y gozará de todos los beneficios, prestaciones económicas y  servicios  de  salud,  que  brinda  este  Sistema,  en  las  mismas  condiciones  previstas para los mayores de dieciocho (18) años, de acuerdo con la legislación especial de la materia. A tal efecto, la empleadora o el empleador deberá inscribir a la o el adolescente trabajador en el Sistema de Seguridad Social inmediatamente después de su ingreso en el empleo.
 
-- Las y los adolescentes que trabajan por cuenta propia, podrán afi  liarse voluntariamente al  Sistema  de  Seguridad  Social.  El  aporte  que  corresponde  a  la  o  el  adolescente trabajador será fi  jado considerando su capacidad de pago, para lo cual se tomará en cuenta necesariamente su particular situación económica.
+- Las y los adolescentes que trabajan por cuenta propia, podrán afiliarse voluntariamente al  Sistema  de  Seguridad  Social.  El  aporte  que  corresponde  a  la  o  el  adolescente trabajador será fijado considerando su capacidad de pago, para lo cual se tomará en cuenta necesariamente su particular situación económica.
 
 - Los Gobiernos Autónomos Departamentales y los Gobiernos Autónomos Municipales, son responsables de promover el diseño de planes destinados a orientar a las y los adolescentes  trabajadores  para  que  efectúen  las  aportaciones  correspondientes  al Sistema de Seguridad Social.
 
@@ -1490,11 +1771,11 @@ Código Niña, Niño y Adolescente
 
 - El Ministerio de  Trabajo, Empleo y Previsión Social, los Gobiernos  Autónomos Municipales, y las Defensorías de la Niñez y Adolescencia, garantizarán la gratuidad de todo el proceso de registro.
 
-- Los datos del registro serán remitidos mensualmente por las Defensorías de la Niñez y Adolescencia, y el Ministerio de Trabajo, Empleo y Previsión Social, al Ministerio de Justicia  e  incorporados  al  Sistema  de  Información  de  Niñas,  Niños  y  AdolescentesSINNA.
+- Los datos del registro serán remitidos mensualmente por las Defensorías de la Niñez y Adolescencia, y el Ministerio de Trabajo, Empleo y Previsión Social, al Ministerio de Justicia  e  incorporados  al  Sistema  de  Información  de  Niñas,  Niños  y  Adolescentes-SINNA.
 
 ###### ARTÍCULO 139. (INSPECCIÓN Y SUPERVISIÓN).
 
-- El Ministerio del Trabajo, Empleo y Previsión Social, a través de la Inspectoría del Trabajo, mediante personal especializado, efectuará inspecciones y supervisiones permanentes en los lugares de trabajo de las y los adolescentes, en áreas urbanas y rurales, para verifi  car que no exista vulneración de derechos laborales, en el marco de la normativa vigente.
+- El Ministerio del Trabajo, Empleo y Previsión Social, a través de la Inspectoría del Trabajo, mediante personal especializado, efectuará inspecciones y supervisiones permanentes en los lugares de trabajo de las y los adolescentes, en áreas urbanas y rurales, para verificar que no exista vulneración de derechos laborales, en el marco de la normativa vigente.
 
 - Si en la inspección se evidencia la vulneración de derechos humanos, se deberá poner en  conocimiento  de  las  Defensorías  de  la  Niñez  y Adolescencia,  para  su  restitución mediante proceso legal.
 
@@ -1572,7 +1853,7 @@ Código Niña, Niño y Adolescente
 
 - Las autoridades judiciales, servidoras y servidores públicos, y el personal de instituciones privadas tienen la obligación de mantener reserva y resguardar la identidad de la niña, niño y adolescente, que se vea involucrado en cualquier tipo de proceso y de restringir el acceso a la documentación sobre los mismos, salvo autorización expresa de la autoridad competente.
 
-- Cuando se difundan o se transmitan noticias que involucren a niñas, niños o adolescentes, los medios de comunicación están obligados a preservar su identifi  cación, así como la de su entorno familiar, en los casos que afectare su imagen o integridad.
+- Cuando se difundan o se transmitan noticias que involucren a niñas, niños o adolescentes, los medios de comunicación están obligados a preservar su identificación, así como la de su entorno familiar, en los casos que afectare su imagen o integridad.
 
 - Las  instancias  competentes  podrán  establecer  formatos  especiales  de  difusión,  de acuerdo a reglamento.
 
@@ -1600,11 +1881,11 @@ Código Niña, Niño y Adolescente
 
 ###### ARTÍCULO 147. (VIOLENCIA).
 
-- Constituye violencia, la acción u omisión, por cualquier medio, que ocasione privaciones, lesiones,  daños,  sufrimientos,  perjuicios  en  la  salud  física,  mental,  afectiva,  sexual, desarrollo defi  ciente e incluso la muerte de la niña, niño o adolescente.
+- Constituye violencia, la acción u omisión, por cualquier medio, que ocasione privaciones, lesiones,  daños,  sufrimientos,  perjuicios  en  la  salud  física,  mental,  afectiva,  sexual, desarrollo deficiente e incluso la muerte de la niña, niño o adolescente.
 
-- La violencia será sancionada por la Jueza o el Juez Penal cuando esté tipifi  cada como delito por la Ley Penal.
+- La violencia será sancionada por la Jueza o el Juez Penal cuando esté tipificada como delito por la Ley Penal.
 
-- Las formas de violencia que no estén tipifi  cadas como delito en la Ley Penal, constituyen infracciones y serán sancionadas por la Jueza o Juez Público de la Niñez y Adolescencia, conforme lo  establecido  en  el  presente  Código,  tomando  en  cuenta  la  gravedad  del hecho y la sana crítica del juzgador.
+- Las formas de violencia que no estén tipificadas como delito en la Ley Penal, constituyen infracciones y serán sancionadas por la Jueza o Juez Público de la Niñez y Adolescencia, conforme lo  establecido  en  el  presente  Código,  tomando  en  cuenta  la  gravedad  del hecho y la sana crítica del juzgador.
 
 ###### ARTÍCULO  148.  (DERECHO  A  SER  PROTEGIDAS  Y  PROTEGIDOS  CONTRA  LA VIOLENCIA SEXUAL).
 
@@ -1634,7 +1915,7 @@ explotación  o  sexualización  precoz  de  la  niñez  y  adolescencia;  así 
 
 ###### ARTÍCULO  149.  (MEDIDAS  PREVENTIVAS  Y  DE  PROTECCIÓN  CONTRA  LA VIOLENCIA SEXUAL).
 
-- Sin perjuicio de lo previsto en el Parágrafo I del Artículo precedente, se adoptarán las siguientes medidas específi  cas de lucha contra la violencia sexual de niñas, niños y adolescentes:
+- Sin perjuicio de lo previsto en el Parágrafo I del Artículo precedente, se adoptarán las siguientes medidas específicas de lucha contra la violencia sexual de niñas, niños y adolescentes:
 
 - Control y seguimiento de personas con sentencia condenatoria ejecutoriada por delitos contra la libertad sexual cometidos contra niñas, niños o adolescentes;
 
@@ -1656,7 +1937,7 @@ explotación  o  sexualización  precoz  de  la  niñez  y  adolescencia;  así 
 
 ###### ARTÍCULO 150. (PROTECCIÓN CONTRA LA VIOLENCIA EN EL SISTEMA EDUCATIVO).
 
-La  protección  a  la  vida  y  a  la  integridad  física  y  psicológica  de  los  miembros  de  la  comunidad educativa, implica la prevención, atención y sanción de la violencia ejercida en el Sistema Educativo del Estado Plurinacional de Bolivia, con la fi  nalidad de consolidar la convivencia pacífi  ca y armónica, la cultura de paz, tolerancia y justicia, en el marco del Vivir Bien, el buen trato, la solidaridad, el respeto, la intraculturalidad, la interculturalidad y la no discriminación entre sus miembros.
+La  protección  a  la  vida  y  a  la  integridad  física  y  psicológica  de  los  miembros  de  la  comunidad educativa, implica la prevención, atención y sanción de la violencia ejercida en el Sistema Educativo del Estado Plurinacional de Bolivia, con la finalidad de consolidar la convivencia pacífica y armónica, la cultura de paz, tolerancia y justicia, en el marco del Vivir Bien, el buen trato, la solidaridad, el respeto, la intraculturalidad, la interculturalidad y la no discriminación entre sus miembros.
 
 ###### ARTÍCULO 151. (TIPOS DE VIOLENCIA EN EL SISTEMA EDUCATIVO).
 
@@ -1688,7 +1969,7 @@ Código Niña, Niño y Adolescente
 
 ###### ARTÍCULO  152.  (MEDIDAS  PREVENTIVAS  Y  DE  PROTECCIÓN  EN  EL  SISTEMA EDUCATIVO).
 
-- A fi  n  de  prevenir, detener y eliminar la violencia, agresión y/o acoso en las unidades educativas  y/o  centros,  se  establecen  las  siguientes  acciones  colectivas  que  la comunidad educativa adoptará:
+- A fin  de  prevenir, detener y eliminar la violencia, agresión y/o acoso en las unidades educativas  y/o  centros,  se  establecen  las  siguientes  acciones  colectivas  que  la comunidad educativa adoptará:
 
 - Elaborar  y  desarrollar  medidas  de  no  violencia  para  resolver  las  tensiones  y conflictos emergentes;
 
@@ -1708,9 +1989,9 @@ Código Niña, Niño y Adolescente
 
 f) Denunciar los casos que se consideren graves y las denuncias falsas.
 
-- El Plan de Convivencia pacífi  ca y armónica tendrá carácter obligatorio para cada una de las unidades educativas y/o centros, y deberá ser elaborado por las autoridades superiores, en un proceso abierto participativo y plural, que convoque obligatoriamente a todas las y los miembros de la comunidad educativa, en el marco de la Constitución Política del Estado, los tratados y convenios internacionales sobre derechos y garantías de las niñas, niños y adolescentes, de acuerdo a reglamento.
+- El Plan de Convivencia pacífica y armónica tendrá carácter obligatorio para cada una de las unidades educativas y/o centros, y deberá ser elaborado por las autoridades superiores, en un proceso abierto participativo y plural, que convoque obligatoriamente a todas las y los miembros de la comunidad educativa, en el marco de la Constitución Política del Estado, los tratados y convenios internacionales sobre derechos y garantías de las niñas, niños y adolescentes, de acuerdo a reglamento.
 
-- El Plan de Convivencia pacífi  ca y armónica deberá contener las siguientes directrices:
+- El Plan de Convivencia pacífica y armónica deberá contener las siguientes directrices:
 
 - Los derechos y deberes de las y los miembros de la comunidad educativa  y/o centros;
 
@@ -1730,7 +2011,7 @@ f) Denunciar los casos que se consideren graves y las denuncias falsas.
 
 - La programación de actividades, con el fin exclusivo de fomentar un clima de convivencia pacífica y armónica dentro de las unidades educativas y/o centros.
 
-- El Plan de Convivencia pacífi  ca y armónica deberá estar inserto dentro de la planifi  cación anual de las unidades educativas y/o centros, y ser evaluado anualmente.
+- El Plan de Convivencia pacífica y armónica deberá estar inserto dentro de la planificación anual de las unidades educativas y/o centros, y ser evaluado anualmente.
 
 Código Niña, Niño y Adolescente
 
@@ -1850,13 +2131,13 @@ La niña, niño y adolescente tiene los siguientes deberes:
 
 [[START OF PAGE 61]]
 
-cuyos objetivos específi  cos, estrategias y programas, tienen como objetivo primordial, garantizar el pleno goce de los derechos de las niñas, niños y adolescentes.
+cuyos objetivos específicos, estrategias y programas, tienen como objetivo primordial, garantizar el pleno goce de los derechos de las niñas, niños y adolescentes.
 
 - El Sistema funciona en todos los niveles del Estado, a través de acciones  intersectoriales de interés público, desarrolladas por entes del sector público y del sector privado.
 
 ###### ARTÍCULO 160. (PRINCIPIOS).
 
-- El  Sistema  Plurinacional  de  Protección  Integral  de  la  Niña,  Niño  y  AdolescenteSIPPROINA,  se  organizará  y  se  regirá  bajo  los  principios  de  legalidad,  integralidad, participación democrática, equidad de género, efi  ciencia y efi  cacia, descentralización e interculturalidad.
+- El  Sistema  Plurinacional  de  Protección  Integral  de  la  Niña,  Niño  y  Adolescente-SIPPROINA,  se  organizará  y  se  regirá  bajo  los  principios  de  legalidad,  integralidad, participación democrática, equidad de género, eficiencia y eficacia, descentralización e interculturalidad.
 
 - La  actuación  de  los  integrantes  del  Sistema,  además  de  regirse  por  los  principios señalados en el Parágrafo anterior del presente Artículo, se sujetará a los principios de articulación, cooperación, transparencia, buena fe y gratuidad.
 
@@ -1929,7 +2210,7 @@ Código Niña, Niño y Adolescente
 
 ###### ARTÍCULO 163. (ALCANCE, RESPONSABLES E IMPLEMENTACIÓN).
 
-- Las  Políticas  de  Protección  Integral  de  la  Niña,  Niño  y  Adolescente,  constituyen  el conjunto sistemático de orientaciones y directrices de naturaleza pública, cuya fi  nalidad es garantizar el pleno goce de los derechos de niñas, niños y adolescentes.
+- Las  Políticas  de  Protección  Integral  de  la  Niña,  Niño  y  Adolescente,  constituyen  el conjunto sistemático de orientaciones y directrices de naturaleza pública, cuya finalidad es garantizar el pleno goce de los derechos de niñas, niños y adolescentes.
 
 - En  la  elaboración,  aprobación  y  vigilancia  de  las  políticas,  son  responsables  la familia, el Estado y la sociedad, de conformidad con las disposiciones de este Código.
 
@@ -1968,7 +2249,7 @@ Código Niña, Niño y Adolescente
 [[START OF PAGE 64]]
 
 ###### ARTÍCULO 165. (FINES DE LAS POLÍTICAS DE PROTECCIÓN).
-Los fi  nes prioritarios que persiguen las Políticas de Protección Integral de la Niña, Niño y Adolescente, son:
+Los fines prioritarios que persiguen las Políticas de Protección Integral de la Niña, Niño y Adolescente, son:
 
 - Fortalecimiento del papel fundamental de la familia;
 
@@ -1990,7 +2271,7 @@ Los fi  nes prioritarios que persiguen las Políticas de Protección Integral de
 
 ###### ARTÍCULO 166. (FINALIDAD Y PRIORIDAD).
 
-- Los programas de protección integral de las niñas, niños y adolescentes, tienen fi  nes de asistencia, prevención, atención, cuidado integral, capacitación, inserción familiar y social, promoción cultural, fortalecimiento de relaciones afectivas, comunicación, promoción y defensa de derechos, y otros valores, a favor de las niñas, niños y adolescentes. También realizarán  programas  para  el  cumplimiento  específi  co  de  las  medidas  de  protección dictadas por la autoridad competente.
+- Los programas de protección integral de las niñas, niños y adolescentes, tienen fines de asistencia, prevención, atención, cuidado integral, capacitación, inserción familiar y social, promoción cultural, fortalecimiento de relaciones afectivas, comunicación, promoción y defensa de derechos, y otros valores, a favor de las niñas, niños y adolescentes. También realizarán  programas  para  el  cumplimiento  específico  de  las  medidas  de  protección dictadas por la autoridad competente.
 
 - El contenido de los programas y las acciones desarrolladas por las entidades ejecutoras públicas y privadas, deberán respetar la condición de sujetos de derechos de las niñas, niños y adolescentes, garantizando su interés superior, brindándoles cuidado y atención requeridas de acuerdo a su proceso evolutivo, poniendo especial cuidado en medidas destinadas a los primeros años de vida sujetándose a la Constitución Política del Estado, disposiciones del presente Código y tratados y convenios internacionales en materia de Niñez y Adolescencia.
 
@@ -2014,7 +2295,7 @@ Los fi  nes prioritarios que persiguen las Políticas de Protección Integral de
 
 - Los programas deberán ser acreditados y supervisados por la autoridad competente del nivel del Estado donde se ejecuten.
 
-- El contenido técnico, metodología de ejecución y los recursos humanos y materiales de los programas serán fi  jados dentro de los límites de este Código mediante reglamento.
+- El contenido técnico, metodología de ejecución y los recursos humanos y materiales de los programas serán fijados dentro de los límites de este Código mediante reglamento.
 
 #### SECCIÓN III MEDIDAS DE PROTECCIÓN
 
@@ -2022,7 +2303,7 @@ Los fi  nes prioritarios que persiguen las Políticas de Protección Integral de
 
 - Las medidas de protección son órdenes de cumplimiento obligatorio, emanadas de la Jueza o Juez Público en materia de Niñez y Adolescencia, es la autoridad competente, frente a una amenaza o vulneración de los derechos de niñas, niños o adolescentes.
 
-- La amenaza o vulneración a la que se refi  ere el Parágrafo anterior del presente Artículo, puede darse por acción u omisión del Estado, por medio de sus servidoras o servidores públicos; de miembros de la sociedad, de su madre, padre, guardadora o guardador, tutora o tutor, o del propio niño, niña o adolescente.
+- La amenaza o vulneración a la que se refiere el Parágrafo anterior del presente Artículo, puede darse por acción u omisión del Estado, por medio de sus servidoras o servidores públicos; de miembros de la sociedad, de su madre, padre, guardadora o guardador, tutora o tutor, o del propio niño, niña o adolescente.
 
 Código Niña, Niño y Adolescente
 
@@ -2213,14 +2494,14 @@ Código Niña, Niño y Adolescente
 
 - Suspensión temporal del cargo, función, profesión u oficio.
 
-- Las multas impuestas serán depositadas en una cuenta específi  ca del Tesoro General de la Nación-TGN, para la efectivización del Sistema de Protección Integral de la Niña, Niño y Adolescente-SIPPROINA. Su administración será establecida mediante reglamento.
+- Las multas impuestas serán depositadas en una cuenta específica del Tesoro General de la Nación-TGN, para la efectivización del Sistema de Protección Integral de la Niña, Niño y Adolescente-SIPPROINA. Su administración será establecida mediante reglamento.
 
 - Las sanciones serán impuestas de acuerdo a la gravedad y duración de la infracción, daño causado, la capacidad económica del infractor, la reincidencia, sin perjuicio de la responsabilidad penal y administrativa que pudiera derivarse del caso.
 
 #### SECCIÓN VI ACCIONES DE DEFENSA APLICADAS FRENTE A VULNERACIÓN DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### ARTÍCULO 177. (ACCIONES DE DEFENSA).
-En caso de amenaza o vulneración de derechos individuales, colectivos o difusos de niñas, niños o adolescentes, sea por acción u omisión, cometida por particulares, instituciones públicas o privadas, se podrá acudir ante la autoridad competente, interponiendo las acciones de defensa correspondientes, con la fi  nalidad de hacer cesar la amenaza o restituir el derecho, de acuerdo a lo previsto por la Constitución Política del Estado y el Código Procesal Constitucional.
+En caso de amenaza o vulneración de derechos individuales, colectivos o difusos de niñas, niños o adolescentes, sea por acción u omisión, cometida por particulares, instituciones públicas o privadas, se podrá acudir ante la autoridad competente, interponiendo las acciones de defensa correspondientes, con la finalidad de hacer cesar la amenaza o restituir el derecho, de acuerdo a lo previsto por la Constitución Política del Estado y el Código Procesal Constitucional.
 
 68
 
@@ -2244,7 +2525,7 @@ Son responsabilidades del nivel central del Estado, a través de los ministerios
 - Registrar a las instituciones privadas de atención a la niña, niño y adolescente.
 
 ###### ARTÍCULO 179. (MINISTERIO DE JUSTICIA).
-Son atribuciones del Ministerio de Justicia como ente rector del Sistema Plurinacional de Protección Integral de la Niña, Niño y AdolescenteSIPPROINA:
+Son atribuciones del Ministerio de Justicia como ente rector del Sistema Plurinacional de Protección Integral de la Niña, Niño y Adolescente-SIPPROINA:
 
 - Elaborar la propuesta base de políticas para las niñas, niños y adolescentes, y el Plan Plurinacional para la Niña, Niño y Adolescente;
 
@@ -2306,13 +2587,13 @@ Código Niña, Niño y Adolescente
 
 - Promover  acuerdos  para  el  desarrollo  e  implementación  de  políticas,  planes, programas, estrategias, proyectos y normativa para las niñas, niños y adolescentes.
 
-- El funcionamiento e integrantes, se sujetará a reglamento específi  co que será aprobado por el Ministerio de Justicia.
+- El funcionamiento e integrantes, se sujetará a reglamento específico que será aprobado por el Ministerio de Justicia.
 
 ###### ARTÍCULO 181. (CONGRESO QUINQUENAL DE DERECHOS DE LA NIÑA, NIÑO Y ADOLESCENTE).
 
 - El Congreso Quinquenal de Derechos de la Niña, Niño y Adolescente es una instancia deliberativa y contralora, integrada mediante la más amplia convocatoria a nivel nacional. Será  convocado  por  el  Ministerio  de  Justicia  y  participarán  en  el  Congreso,  representaciones de las instituciones del nivel central del Estado Plurinacional; representaciones de los Gobiernos Autónomos Departamentales y Municipales; autoridades de la Naciones y Pueblos Indígena Originario Campesinas; representantes de los Comités de Derechos de las Niñas, Niños y Adolescentes y representantes de la sociedad civil relacionados con la labor de atención, prevención y protección de la niña, niño y adolescente, y con la garantía de sus derechos.
 
-- El Congreso de Derechos se reunirá una vez cada cinco (5) años, a fi  n de aprobar el Plan Plurinacional de la Niña, Niño y Adolescente, y evaluar el cumplimiento del Plan del periodo anterior. Sus decisiones serán de carácter vinculante.
+- El Congreso de Derechos se reunirá una vez cada cinco (5) años, a fin de aprobar el Plan Plurinacional de la Niña, Niño y Adolescente, y evaluar el cumplimiento del Plan del periodo anterior. Sus decisiones serán de carácter vinculante.
 
 Código Niña, Niño y Adolescente
 
@@ -2447,7 +2728,7 @@ La Defensoría de la Niñez y Adolescencia es la instancia dependiente de los go
 La Defensoría de la Niñez y Adolescencia está conformada por  equipos  interdisciplinarios  de  abogadas  o  abogados,  trabajadoras  sociales  o  trabajadores sociales,  psicólogas  o  psicólogos;  y  otros  profesionales  relacionados  con  la  temática,  sujetos  a proceso de selección en el marco de la normativa vigente.
 
 ###### ARTÍCULO  187.  (FUNCIONAMIENTO).
-La  Defensoría  de  la  Niñez  y  Adolescencia  deberá organizarse y establecer su funcionamiento como servicio único e indivisible de acuerdo con las características  del  municipio,  tomando  en  cuenta  al  menos  densidad  demográfi  ca,  demandas, necesidades y capacidades. Los Gobiernos Autónomos Municipales deberán garantizar el servicio de la Defensoría de la Niñez y Adolescencia, en su jurisdicción.
+La Defensoría de la Niñez y Adolescencia deberá organizarse y establecer su funcionamiento como servicio único e indivisible de acuerdo con las características del municipio, tomando en cuenta al menos densidad demográfica, demandas, necesidades y capacidades. Los Gobiernos Autónomos Municipales deberán garantizar el servicio de la Defensoría de la Niñez y Adolescencia, en su jurisdicción.
 
 ###### ARTÍCULO  188.  (ATRIBUCIONES).
 Son  atribuciones  de  la  Defensoría  de  la  Niñez  y Adolescencia, las siguientes:
@@ -2516,7 +2797,7 @@ Código Niña, Niño y Adolescente
 
 - Acoger  circunstancialmente  a  niñas,  niños  y  adolescentes,  de  acuerdo  a  lo previsto en el presente Código;
 
-- Generar  y  remitir  a  la  Instancia  Técnica  Departamental  de  Política  Social,  la información necesaria para5 el sistema nacional de información;
+- Generar y remitir a la Instancia Técnica Departamental de Política Social, la información necesaria para el sistema nacional de información;
 
 - aa) Realizar la inventariación de bienes muebles e inmuebles pertenecientes a la niña, niño o adolescente, en los casos que corresponda;
 
@@ -2615,7 +2896,7 @@ Código Niña, Niño y Adolescente
 
 - Cuando sus intereses se contrapongan a los de su madre, padre, guardadora o guardador, tutora  o  tutor,  o  cuando  carezca  de  representante  legal,  así  sea  momentáneamente, la  Jueza  o  el  Juez  Público  en  materia  de  Niñez  y  Adolescencia,  designará  un  tutor extraordinario, que deberá ser personero de la Defensoría de la Niñez y Adolescencia.
 
-- La negligencia del tutor extraordinario en el ejercicio de la representación o abandono de la misma sin causa justifi  cada, ameritará la imposición de una sanción económica no menor a tres (3) salarios mínimos nacionales, a ser determinada por la Jueza o el Juez de la causa.
+- La negligencia del tutor extraordinario en el ejercicio de la representación o abandono de la misma sin causa justificada, ameritará la imposición de una sanción económica no menor a tres (3) salarios mínimos nacionales, a ser determinada por la Jueza o el Juez de la causa.
 
 ###### ARTÍCULO 195. (ACTUACIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES).
 La niña, niño o adolescente tiene la garantía de participar en todo proceso en el que sea parte y será oído por la autoridad judicial, quien siempre tomará en cuenta su edad y las características de su etapa de desarrollo.
@@ -2668,7 +2949,7 @@ Para ser Jueza o Juez Público de la Niñez y Adolescencia, además de los requi
 - Tener experiencia y/o formación en justicia penal especializada para adolescentes.
 
 ###### ARTÍCULO 201. (SERVIDORES DE APOYO JUDICIAL).
-Los Juzgados Públicos en materia de Niñez y Adolescencia, cuentan con una Secretaria o Secretario, una o un auxiliar, una o un ofi  cial de diligencias y un equipo profesional interdisciplinario de apoyo y asesoramiento.
+Los Juzgados Públicos en materia de Niñez y Adolescencia, cuentan con una Secretaria o Secretario, una o un auxiliar, una o un oficial de diligencias y un equipo profesional interdisciplinario de apoyo y asesoramiento.
 
 ###### ARTÍCULO 202. (OBLIGACIONES DE LA SECRETARIA O SECRETARIO).
 Además de lo previsto en el Artículo 94 de la Ley del Órgano Judicial, son obligaciones de la Secretaria o Secretario, las siguientes:
@@ -2740,7 +3021,7 @@ El  desistimiento  en  los  procesos  contra  adolescentes, dará lugar a consid
 
 ### CAPÍTULO II COMPETENCIA DE JUZGADOS PÚBLICOS EN MATERIA DE NIÑEZ Y ADOLESCENCIA
 
-###### ARTÍCULO 207. (COMPETENCIA) .
+###### ARTÍCULO 207. (COMPETENCIA).
 Además de lo establecido por la Ley del Órgano Judicial, los Juzgados Públicos en materia de Niñez y Adolescencia tienen las siguientes competencias:
 
 - Aplicar medidas cautelares, condicionales, de protección y sanciones;
@@ -2768,7 +3049,7 @@ Código Niña, Niño y Adolescente
 [[START OF PAGE 86]]
 
 ###### ARTÍCULO 208. (ABANDONO DE PROCESO).
-El abandono del proceso que afecte a la niña, niño o adolescente, no dará lugar a su archivo, debiendo proseguir hasta su conclusión, a impulso de ofi  cio de la Jueza o Juez Público en materia de Niñez y Adolescencia o de la Defensoría de la Niñez y Adolescencia.
+El abandono del proceso que afecte a la niña, niño o adolescente, no dará lugar a su archivo, debiendo proseguir hasta su conclusión, a impulso de oficio de la Jueza o Juez Público en materia de Niñez y Adolescencia o de la Defensoría de la Niñez y Adolescencia.
 
 ### CAPÍTULO III PROCEDIMIENTO COMÚN
 
@@ -2792,9 +3073,9 @@ El abandono del proceso que afecte a la niña, niño o adolescente, no dará lug
 
 - Cuando  el  demandante  sea  la  Defensoría  de  la  Niñez  y  Adolescencia,  no  necesita acreditar mandato expreso, tampoco la madre, padre, guardadora o guardador, tutora o tutor.
 
-- Si la parte demandada es una persona colectiva, se deberá identifi  car a su representante legal e indicar el nombre de la entidad y su dirección.
+- Si la parte demandada es una persona colectiva, se deberá identificar a su representante legal e indicar el nombre de la entidad y su dirección.
 
-- La demanda no necesitará la fi  rma de abogado y en este caso se tendrá como domicilio procesal la Secretaría del Juzgado.
+- La demanda no necesitará la firma de abogado y en este caso se tendrá como domicilio procesal la Secretaría del Juzgado.
 
 ###### ARTÍCULO 210. (ADMISIÓN).
 
@@ -2810,22 +3091,22 @@ El abandono del proceso que afecte a la niña, niño o adolescente, no dará lug
 
 ###### ARTÍCULO 211. (CITACIÓN CON LA DEMANDA).
 
-- La citación con la demanda se la practicará en forma personal en el domicilio de la o el demandado. Si la persona demandada no pudiera ser encontrada, la o el ofi  cial de diligencias dejará el cedulón a cualquiera de los familiares o dependientes mayores de dieciocho (18) años y fi  rmará la diligencia. En caso de negativa deberá fi  rmar un testigo de actuación debidamente identifi  cado.
+- La citación con la demanda se la practicará en forma personal en el domicilio de la o el demandado. Si la persona demandada no pudiera ser encontrada, la o el oficial de diligencias dejará el cedulón a cualquiera de los familiares o dependientes mayores de dieciocho (18) años y firmará la diligencia. En caso de negativa deberá firmar un testigo de actuación debidamente identificado.
 
-- Si no fueren encontradas ninguna de las personas citadas en Parágrafo anterior, la o el ofi  cial de diligencias, fi  jará el cedulón de citación en la puerta del domicilio con la intervención de un testigo que será debidamente identifi  cado y fi  rmará también en la diligencia.
+- Si no fueren encontradas ninguna de las personas citadas en Parágrafo anterior, la o el oficial de diligencias, fijará el cedulón de citación en la puerta del domicilio con la intervención de un testigo que será debidamente identificado y firmará también en la diligencia.
 
 ###### ARTÍCULO 212. (CITACIÓN POR EDICTO).
 
 - En caso de desconocerse el domicilio de la o el demandado o tratándose de personas desconocidas o indeterminadas, la parte solicitará la citación mediante edictos, previo juramento de desconocimiento. Diferida la solicitud, el edicto se publicará por dos veces con intervalo no menor a cinco (5) días, en un periódico de circulación nacional, o a falta de éste, se difundirá en una radiodifusora o medio televisivo, nacional o local, en la misma forma y plazo previstos, manteniendo la reserva y resguardando la identidad de la niña, niño y adolescente involucrado, preservando que los datos contenidos no afecten a su imagen y la dignidad. En caso de que la Defensoría de la Niñez y Adolescencia sea la demandante, ésta asumirá el costo del edicto.
 
-- Después de la admisión de la demanda, las notifi  caciones serán realizadas en secretaría o en audiencia, según corresponda.
+- Después de la admisión de la demanda, las notificaciones serán realizadas en secretaría o en audiencia, según corresponda.
 
 ###### ARTÍCULO 213. (MODIFICACIÓN Y AMPLIACIÓN DE LA DEMANDA).
-La  demanda podrá ser modifi  cada o ampliada, únicamente hasta antes de la contestación.
+La demanda podrá ser modificada o ampliada, únicamente hasta antes de la contestación.
 
 ###### ARTÍCULO 214. (CONTESTACIÓN).
 
-- La parte demandada deberá contestar la demanda dentro de los cinco (5) días siguientes a su citación y se ampliará a razón de un día por cada doscientos (200) kilómetros de distancia del asiento del Juzgado. En caso de haberse modifi  cado o ampliado la demanda, el plazo se computará desde la citación con ésta.
+- La parte demandada deberá contestar la demanda dentro de los cinco (5) días siguientes a su citación y se ampliará a razón de un día por cada doscientos (200) kilómetros de distancia del asiento del Juzgado. En caso de haberse modificado o ampliado la demanda, el plazo se computará desde la citación con ésta.
 
 - La contestación deberá contener los hechos que alegue como fundamento de su defensa con claridad y precisión, acompañar u ofrecer la prueba que considere necesaria.
 
@@ -2875,7 +3156,7 @@ Código Niña, Niño y Adolescente
 
 ###### ARTÍCULO 216. (MEDIDAS CAUTELARES).
 
-- La Jueza o el Juez Público en materia de Niñez y Adolescencia, en cualquier estado del proceso hasta antes de la sentencia, velando por la protección, interés o seguridad de la niña, niño o adolescente, podrá determinar de ofi  cio o a pedido de parte, las siguientes medidas cautelares:
+- La Jueza o el Juez Público en materia de Niñez y Adolescencia, en cualquier estado del proceso hasta antes de la sentencia, velando por la protección, interés o seguridad de la niña, niño o adolescente, podrá determinar de oficio o a pedido de parte, las siguientes medidas cautelares:
 
 - Anotación Preventiva;
 
@@ -2901,9 +3182,9 @@ Código Niña, Niño y Adolescente
 
 ###### ARTÍCULO 217. (MEDIOS DE PRUEBA).
 
-- Son válidos todos los medios de prueba obtenidos lícitamente, como ser las declaraciones de las partes y de testigos, dictámenes de expertos, informes especializados, documentos, inspección  judicial,  medios  científi  cos  y  cualquier  elemento  racional  que  sirva  para formar la convicción de la Jueza o el Juez.
+- Son válidos todos los medios de prueba obtenidos lícitamente, como ser las declaraciones de las partes y de testigos, dictámenes de expertos, informes especializados, documentos, inspección judicial, medios científicos y cualquier elemento racional que sirva para formar la convicción de la Jueza o el Juez.
 
-- También se considerarán medios legales de prueba los documentos y fi  rmas digitales y los documentos generados mediante correo electrónico, en las condiciones previstas en la Ley.
+- También se considerarán medios legales de prueba los documentos y firmas digitales y los documentos generados mediante correo electrónico, en las condiciones previstas en la Ley.
 
 - La prueba deberá adecuarse a los hechos alegados en la demanda.
 
@@ -2916,7 +3197,7 @@ Código Niña, Niño y Adolescente
 [[START OF PAGE 90]]
 
 ###### ARTÍCULO 218. (OBTENCIÓN DE LA PRUEBA).
-Si  el  demandado  o  el  demandante  no tuvieran a su disposición la prueba ofrecida, la individualizarán indicando el contenido, lugar, archivo y ofi  cina pública o persona en poder de quien se encuentre, debiendo la Jueza o el Juez ordenar su obtención hasta un (1) día antes de la audiencia del juicio.
+Si el demandado o el demandante no tuvieran a su disposición la prueba ofrecida, la individualizarán indicando el contenido, lugar, archivo y oficina pública o persona en poder de quien se encuentre, debiendo la Jueza o el Juez ordenar su obtención hasta un (1) día antes de la audiencia del juicio.
 
 ###### ARTÍCULO 219. (VALORACIÓN DE LA PRUEBA).
 
@@ -2926,12 +3207,12 @@ Si  el  demandado  o  el  demandante  no tuvieran a su disposición la prueba of
 
 ###### ARTÍCULO 220. (TESTIGOS).
 
-- Se podrán habilitar como testigos a todas las personas que conocieran de forma directa los  hechos,  incluyendo  a  los  parientes  consanguíneos,  dependientes,  afi  nes  u  otras personas que sean mayores de dieciséis (16) años.
+- Se podrán habilitar como testigos a todas las personas que conocieran de forma directa los hechos, incluyendo a los parientes consanguíneos, dependientes, afines u otras personas que sean mayores de dieciséis (16) años.
 
-- Podrá testifi  car la niña, niño o adolescente víctima del hecho, y su testimonio será tomado en  privado  con  el  auxilio  de  familiares  y  del  equipo  profesional  interdisciplinario  del Juzgado. Se prohíbe la reiteración de sus testifi  caciones o que testifi  que en la audiencia.
+- Podrá testificar la niña, niño o adolescente víctima del hecho, y su testimonio será tomado en privado con el auxilio de familiares y del equipo profesional interdisciplinario del Juzgado. Se prohíbe la reiteración de sus testificaciones o que testifique en la audiencia.
 
 ###### ARTÍCULO 221. (CERTIFICADO MÉDICO).
-El certifi  cado médico deberá ser expedido por profesional que trabaje en instituciones públicas o particulares de salud, así como los certifi  cados médico-forenses emitidos por profesional autorizado.
+El certificado médico deberá ser expedido por profesional que trabaje en instituciones públicas o particulares de salud, así como los certificados médico-forenses emitidos por profesional autorizado.
 
 ###### ARTÍCULO 222. (INFORME PSICOLÓGICO).
 El informe psicológico deberá ser expedido por profesional especializado de instituciones públicas o por profesionales particulares especializados.
@@ -2940,10 +3221,10 @@ El informe psicológico deberá ser expedido por profesional especializado de in
 El informe social deberá ser expedido por profesional especializado de instituciones públicas o por profesionales particulares especializados.
 
 ###### ARTÍCULO  224.  (PRESENCIA  DEL  PROFESIONAL).
-La  o  el  profesional  que  realizó  el informe  o  emitió  un  certifi  cado,  sólo  si  a  juicio  de  la  autoridad  judicial  es  necesario,  podrá  ser notifi  cado para ratifi  carse en la audiencia, no pudiendo excusarse en este caso.
+La o el profesional que realizó el informe o emitió un certificado, sólo si a juicio de la autoridad judicial es necesario, podrá ser notificado para ratificarse en la audiencia, no pudiendo excusarse en este caso.
 
 ###### ARTÍCULO 225. (PRUEBA DE OFICIO).
-La Jueza o el Juez, de ofi  cio podrá disponer cualquier prueba que considere necesaria para formar mejor convicción de los hechos y contra esta decisión no cabe recurso alguno. Esta prueba será sufragada por el Estado.
+La Jueza o el Juez, de oficio podrá disponer cualquier prueba que considere necesaria para formar mejor convicción de los hechos y contra esta decisión no cabe recurso alguno. Esta prueba será sufragada por el Estado.
 
 88
 
@@ -2955,21 +3236,21 @@ La Jueza o el Juez, de ofi  cio podrá disponer cualquier prueba que considere n
 
 - Vencido el plazo para la contestación, dentro los tres (3) días siguientes se señalará día  y  hora  de  audiencia  a  celebrarse  en  un  plazo  no  mayor  a  veinticinco  (25)  días posteriores.
 
-- En  el  decreto  de  señalamiento  de  audiencia,  también  deberá  fi  jar  con  precisión  los puntos  a  probar  y  declarará  la  rebeldía  del  demandado  que  no  haya  contestado  la demanda.
+- En el decreto de señalamiento de audiencia, también deberá fijar con precisión los puntos a probar y declarará la rebeldía del demandado que no haya contestado la demanda.
 
 ###### ARTÍCULO 227. (ACTOS PREPARATORIOS).
 
 - Entre la fecha del señalamiento de audiencia y el día de la audiencia, la Jueza o el Juez, dispondrá que la niña, niño o adolescente sea escuchado con apoyo del personal especializado.  Asimismo,  podrá  ordenar  la  elaboración  de  informes  a  su  equipo profesional interdisciplinario y otros actos que estime necesario, en el mismo periodo. Para el efecto el Tribunal Supremo de Justicia deberá aprobar un protocolo apropiado.
 
-- Designará un defensor de ofi  cio, que será notifi  cado para asistir a la audiencia y asumir la defensa legal de la parte ausente o declarada rebelde y se notifi  cará al declarado rebelde.
+- Designará un defensor de oficio, que será notificado para asistir a la audiencia y asumir la defensa legal de la parte ausente o declarada rebelde y se notificará al declarado rebelde.
 
-- Se deberá notifi  car a la Defensoría de la Niñez y Adolescencia para la defensa legal de la niña, niño o adolescente.
+- Se deberá notificar a la Defensoría de la Niñez y Adolescencia para la defensa legal de la niña, niño o adolescente.
 
 ###### ARTÍCULO 228. (INSTALACIÓN DE LA AUDIENCIA).
 
-- La niña,  niño  o  adolescente  comparecerá  a  través  de  su  representante  legal,  la  otra parte asistirá en forma personal salvo justifi  cación debidamente acreditada, por medio de un apoderado. Por ningún motivo se suspenderá la audiencia y en caso de ausencia de las partes, asumirá su defensa el defensor de ofi  cio o la Defensoría de la Niñez y Adolescencia, según el caso.
+- La niña, niño o adolescente comparecerá a través de su representante legal, la otra parte asistirá en forma personal salvo justificación debidamente acreditada, por medio de un apoderado. Por ningún motivo se suspenderá la audiencia y en caso de ausencia de las partes, asumirá su defensa el defensor de oficio o la Defensoría de la Niñez y Adolescencia, según el caso.
 
-- En caso de impedimento justifi  cado de la Jueza o Juez para asistir a la audiencia, deberá fi  jar un nuevo día y hora dentro los próximos cinco (5) días.
+- En caso de impedimento justificado de la Jueza o Juez para asistir a la audiencia, deberá fijar un nuevo día y hora dentro los próximos cinco (5) días.
 
 ###### ARTÍCULO 229. (DESARROLLO DE LA AUDIENCIA).
 
@@ -2999,14 +3280,14 @@ Código Niña, Niño y Adolescente
 
 - La audiencia no deberá suspenderse excepto cuando la Jueza o el Juez, fundamentando el motivo y por razones de fuerza mayor, decida prorrogarla.
 
-- Todo lo actuado se registrará en acta resumida y fi  rmada por las partes, la Defensoría de la Niñez y Adolescencia, la Jueza o el Juez y la Secretaria o Secretario de juzgado.
+- Todo lo actuado se registrará en acta resumida y firmada por las partes, la Defensoría de la Niñez y Adolescencia, la Jueza o el Juez y la Secretaria o Secretario de juzgado.
 
 ###### ARTÍCULO 230. (AUDIENCIA COMPLEMENTARIA).
-Si la prueba no hubiera sido totalmente recibida durante la jornada laboral, se señalará un receso para la continuación de la audiencia para el día siguiente hábil, o se habilitará días extraordinarios hasta su fi  nalización.
+Si la prueba no hubiera sido totalmente recibida durante la jornada laboral, se señalará un receso para la continuación de la audiencia para el día siguiente hábil, o se habilitará días extraordinarios hasta su finalización.
 
 ###### ARTÍCULO 231. (SENTENCIA).
 
-- Inmediatamente después de agotada la producción de la prueba, con o sin alegatos, la Jueza o el Juez pronunciará sentencia en la misma audiencia, dándose por notifi  cadas las partes. Por la complejidad del caso, excepcionalmente podrá decretar un receso para el pronunciamiento de la sentencia que no excederá los siguientes tres (3) días hábiles.
+- Inmediatamente después de agotada la producción de la prueba, con o sin alegatos, la Jueza o el Juez pronunciará sentencia en la misma audiencia, dándose por notificadas las partes. Por la complejidad del caso, excepcionalmente podrá decretar un receso para el pronunciamiento de la sentencia que no excederá los siguientes tres (3) días hábiles.
 
 - En la misma audiencia, las partes podrán solicitar las complementaciones y aclaraciones que consideren convenientes, mismas que deberán ser resueltas en forma inmediata.
 
@@ -3035,7 +3316,7 @@ El contenido de la sentencia será el siguiente:
 
 - Las  partes  deben  manifestar  en  audiencia  su  decisión  de  hacer  uso  del  recurso  de apelación.
 
-- Si  las  partes  no  manifi  estan  su  decisión  de  hacer  uso  del  recurso  de  apelación  en audiencia o no fundamentan su apelación después de los tres (3) días de notifi  cadas con  la  sentencia,  se  tendrá  por  ejecutoriada  la  misma  y  adquirirá  calidad  de  cosa juzgada.
+- Si las partes no manifiestan su decisión de hacer uso del recurso de apelación en audiencia o no fundamentan su apelación después de los tres (3) días de notificadas con la sentencia, se tendrá por ejecutoriada la misma y adquirirá calidad de cosa juzgada.
 
 - Las sentencias dictadas podrán ser apeladas. La Jueza o Juez que resolvió la causa, las remitirá al Tribunal Departamental de Justicia correspondiente en el plazo de dos (2) días. El Tribunal deberá resolver en el plazo de cinco (5) días.
 
@@ -3046,13 +3327,13 @@ El contenido de la sentencia será el siguiente:
 ### CAPÍTULO I FILIACIÓN JUDICIAL
 
 ###### ARTÍCULO 234. (LEGITIMACIÓN ACTIVA).
-La Defensoría de la Niñez y Adolescencia tiene legitimación activa para interponer la demanda de fi  liación judicial ante la Jueza o el Juez Público en materia de la niñez y adolescencia, cuando no exista o se desconozca la identidad de la madre o del padre, y dicha instancia haya agotado los medios para identifi  carlos.
+La Defensoría de la Niñez y Adolescencia tiene legitimación activa para interponer la demanda de filiación judicial ante la Jueza o el Juez Público en materia de la niñez y adolescencia, cuando no exista o se desconozca la identidad de la madre o del padre, y dicha instancia haya agotado los medios para identificarlos.
 
 ###### ARTÍCULO 235. (DEMANDA).
 La demanda deberá ser presentada cumpliendo en lo que sea pertinente, los requisitos que señala este Código y acompañando los informes sociales, acreditando que se efectuaron todos los esfuerzos necesarios para ubicar a los progenitores, los antecedentes pormenorizados del ingreso de la niña, niño o adolescente a la guarda transitoria, informes médicos y psicológicos y fotografías correspondientes al momento de su ingreso a la instancia de atención, y tres (3) fotografías actualizadas.
 
 ###### ARTÍCULO 236. (SEÑALAMIENTO DE AUDIENCIA).
-Presentada la demanda, la autoridad judicial señalará audiencia de determinación de fi  liación.
+Presentada la demanda, la autoridad judicial señalará audiencia de determinación de filiación.
 
 ###### ARTÍCULO 237. (CONSTATACIÓN EN JUICIO).
 En caso de existir reclamo de padre, madre o parientes, deberá remitirse antecedentes a la autoridad jurisdiccional en materia familiar, debiendo proseguirse de acuerdo al Código de las Familias.
@@ -3069,20 +3350,20 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 94]]
 
-- De  demostrarse  la  fi  liación,  la  Jueza  o  el  Juez  pronunciará  sentencia  declarando improbada la  demanda e impondrá las medidas de protección para la niña,  niño  o adolescente, y las sanciones que correspondan.
+- De demostrarse la filiación, la Jueza o el Juez pronunciará sentencia declarando improbada la demanda e impondrá las medidas de protección para la niña, niño o adolescente, y las sanciones que correspondan.
 
-- En caso de no demostrarse la fi  liación, la Jueza o Juez determinará la fi  liación judicial y ratifi  cará la guarda, disponiendo la inscripción de la niña, niño o adolescente ante el Servicio  de  Registro  Cívico,  con  nombres  y  apellidos  convencionales.  Ejecutoriada  la sentencia, se realizará la inscripción y entrega de certifi  cado respectivo, que no excederá de un (1) día.
+- En caso de no demostrarse la filiación, la Jueza o Juez determinará la filiación judicial y ratificará la guarda, disponiendo la inscripción de la niña, niño o adolescente ante el Servicio de Registro Cívico, con nombres y apellidos convencionales. Ejecutoriada la sentencia, se realizará la inscripción y entrega de certificado respectivo, que no excederá de un (1) día.
 
 ### CAPÍTULO II CONVERSIÓN DE GUARDA EN ADOPCIÓN
 
 ###### ARTÍCULO 239. (CONVERSIÓN).
 
-- Para la admisión de la conversión, la Defensoría de la Niñez y Adolescencia presentará con la Instancia Técnica Departamental de Política Social a la autoridad judicial, los informes evaluativos de la guarda, para que en aplicación del protocolo correspondiente, el  equipo  profesional  interdisciplinario  del  Juzgado  ratifi  que  en  veinte  (20)  días,  las condiciones de adoptabilidad e idoneidad.
+- Para la admisión de la conversión, la Defensoría de la Niñez y Adolescencia presentará con la Instancia Técnica Departamental de Política Social a la autoridad judicial, los informes evaluativos de la guarda, para que en aplicación del protocolo correspondiente, el equipo profesional interdisciplinario del Juzgado ratifique en veinte (20) días, las condiciones de adoptabilidad e idoneidad.
 
 - Si el informe es favorable para la adopción, el tiempo de la guarda será considerado como periodo pre-adoptivo de convivencia para la aplicación excepcional de conversión de guarda en adopción.
 
 ###### ARTÍCULO 240. (AUDIENCIA).
-La Jueza o el Juez fi  jará audiencia en el plazo de dos (2) días. En audiencia oirá a la o el solicitante, necesariamente al adolescente, y a la niña o niño dependiendo de su edad y grado de madurez, a la Defensoría de la Niñez y Adolescencia, a la Instancia Técnica Departamental de Política Social y al equipo profesional interdisciplinario del Juzgado, para establecer la pertinencia de la conversión de la guarda en adopción.
+La Jueza o el Juez fijará audiencia en el plazo de dos (2) días. En audiencia oirá a la o el solicitante, necesariamente al adolescente, y a la niña o niño dependiendo de su edad y grado de madurez, a la Defensoría de la Niñez y Adolescencia, a la Instancia Técnica Departamental de Política Social y al equipo profesional interdisciplinario del Juzgado, para establecer la pertinencia de la conversión de la guarda en adopción.
 
 ### CAPÍTULO III TUTELA ORDINARIA
 
@@ -3100,18 +3381,18 @@ La Jueza o el Juez fi  jará audiencia en el plazo de dos (2) días. En audienci
 
 ###### ARTÍCULO 242. (ADMISIÓN DE LA DEMANDA).
 
-- Admitida la demanda, la Jueza o el Juez dispondrá, en todos los casos, la notifi  cación a la Defensoría de la Niñez y Adolescencia.
+- Admitida la demanda, la Jueza o el Juez dispondrá, en todos los casos, la notificación a la Defensoría de la Niñez y Adolescencia.
 
 - La  Jueza  o  el  Juez  Público  de  la  Niñez  y  Adolescencia  dispondrá  la  aplicación  del protocolo correspondiente que no podrá durar en su ejecución más de veinte (20) días, a cargo del equipo profesional interdisciplinario. En caso que los antecedentes para la Defensoría de la Niñez y Adolescencia sean óptimos, no será necesaria su aplicación.
 
-- Cuando corresponda, la Jueza o el Juez dispondrá que por Secretaría del Juzgado, se elabore el inventario de activos y pasivos, y toda otra gestión para asegurar el patrimonio de la niña, niño o adolescente, así como el establecimiento de la fi  anza por parte de la tutora o tutor.
+- Cuando corresponda, la Jueza o el Juez dispondrá que por Secretaría del Juzgado, se elabore el inventario de activos y pasivos, y toda otra gestión para asegurar el patrimonio de la niña, niño o adolescente, así como el establecimiento de la fianza por parte de la tutora o tutor.
 
 ###### ARTÍCULO 243. (NOMBRAMIENTO DE TUTORA O TUTOR INTERINO).
 Conforme a los antecedentes, la Jueza o el Juez nombrará una tutora o un tutor interino, quien deberá limitarse a los actos de mera protección de la niña, niño o adolescente y a la conservación de sus bienes.
 
 ###### ARTÍCULO 244. (SEÑALAMIENTO DE AUDIENCIA).
 
-- Cumplido el plazo y analizados los antecedentes e informes producidos y estableciendo la viabilidad de la tutela propuesta, la Jueza o el Juez fi  jará día y hora de audiencia para los próximos diez (10) días.
+- Cumplido el plazo y analizados los antecedentes e informes producidos y estableciendo la viabilidad de la tutela propuesta, la Jueza o el Juez fijará día y hora de audiencia para los próximos diez (10) días.
 
 - En caso de demostrarse la inviabilidad de la tutela propuesta, dará por concluido el procedimiento, decisión que podrá ser apelada.
 
@@ -3127,7 +3408,7 @@ En la  audiencia  se  cumplirán  las siguientes actividades procesales:
 - Se escuchará la opinión de la Defensoría de la Niñez y Adolescencia.
 
 ###### ARTÍCULO 246. (SENTENCIA).
-En la misma audiencia se dictará sentencia, disponiendo que la tutora o el tutor presente informes anuales de su gestión y se fi  jará una retribución no menor al cinco por ciento (5%) ni mayor a diez por ciento (10%) de las rentas producidas por los bienes sujetos a su administración.
+En la misma audiencia se dictará sentencia, disponiendo que la tutora o el tutor presente informes anuales de su gestión y se fijará una retribución no menor al cinco por ciento (5%) ni mayor a diez por ciento (10%) de las rentas producidas por los bienes sujetos a su administración.
 
 Código Niña, Niño y Adolescente
 
@@ -3141,7 +3422,7 @@ Código Niña, Niño y Adolescente
 
 - La Jueza o el Juez ministrará posesión del cargo de tutora o tutor tomando el juramento correspondiente en presencia de la Defensoría de la Niñez y Adolescencia. La Jueza o el Juez, reclamará a la tutora o tutor, el cumplimiento de sus deberes y le hará notar la trascendencia social de la función que se le encomienda.
 
-- Se levantará acta que fi  rmará la Jueza o el Juez, la tutora o el tutor, la Defensoría de la Niñez y Adolescencia, y la Secretaria o Secretario. Se le dará una copia al posesionado para que le sirva de credencial.
+- Se levantará acta que firmará la Jueza o el Juez, la tutora o el tutor, la Defensoría de la Niñez y Adolescencia, y la Secretaria o Secretario. Se le dará una copia al posesionado para que le sirva de credencial.
 
 ###### ARTÍCULO 248. (ACTOS POSTERIORES A LA DESIGNACIÓN DE LA TUTELA).
 Con posterioridad a la designación de la tutela, la Jueza o el Juez podrá:
@@ -3153,7 +3434,7 @@ Con posterioridad a la designación de la tutela, la Jueza o el Juez podrá:
 - En  caso  de  aumentar  o  disminuir  los  bienes  de  la  niña,  niño  o  adolescente, ordenará  el  aumento  o  disminución  proporcional  de  la  fianza,  pero  no  la cancelará en su totalidad hasta que haya aprobado la cuenta de la tutela y se hayan extinguido las obligaciones que correspondan al tutor por su gestión. De igual modo procederá en caso de pérdida o desmejora de la fianza.
 
 ###### ARTÍCULO 249. (ACCIÓN DE REMOCIÓN DE LA TUTORA O EL TUTOR).
-La acción de remoción de la tutora o el tutor será iniciada por la Defensoría de la Niñez y Adolescencia o por un tercero, por causas justifi  cadas que den lugar a su remoción, y se interpondrá ante la misma autoridad que la o lo designó.
+La acción de remoción de la tutora o el tutor será iniciada por la Defensoría de la Niñez y Adolescencia o por un tercero, por causas justificadas que den lugar a su remoción, y se interpondrá ante la misma autoridad que la o lo designó.
 
 ### CAPÍTULO IV ADOPCIÓN
 
@@ -3171,13 +3452,13 @@ La acción de remoción de la tutora o el tutor será iniciada por la Defensorí
 
 - La  Defensoría  de  la  Niñez  y  Adolescencia,  en  el  caso  de  las  Adopciones Internacionales.
 
-- En ambos casos, se adjuntará a la demanda el certifi  cado de idoneidad, acreditación de la adoptabilidad y otros documentos pertinentes. Se deberán observar los requisitos del procedimiento común, en lo aplicable.
+- En ambos casos, se adjuntará a la demanda el certificado de idoneidad, acreditación de la adoptabilidad y otros documentos pertinentes. Se deberán observar los requisitos del procedimiento común, en lo aplicable.
 
-- El trámite para obtener la adopción nacional o internacional, no podrá exceder de cuatro (4)  meses, computables desde la admisión de la demanda por la autoridad judicial hasta la sentencia, bajo responsabilidad de las instancias o autoridades involucradas en el proceso de adopción, en caso de dilación injustifi  cada.
+- El trámite para obtener la adopción nacional o internacional, no podrá exceder de cuatro (4) meses, computables desde la admisión de la demanda por la autoridad judicial hasta la sentencia, bajo responsabilidad de las instancias o autoridades involucradas en el proceso de adopción, en caso de dilación injustificada.
 
 ###### ARTÍCULO 251. (ADMISIÓN DE LA DEMANDA).
 
-- Admitida la demanda, la Jueza o el Juez dispondrá la notifi  cación a la Instancia Técnica Departamental de Política Social, y a las o los solicitantes de adopción. En el caso de adopciones internacionales, además se notifi  cará a la Autoridad Central a efectos de tramitación del certifi  cado de prosecución del trámite.
+- Admitida la demanda, la Jueza o el Juez dispondrá la notificación a la Instancia Técnica Departamental de Política Social, y a las o los solicitantes de adopción. En el caso de adopciones internacionales, además se notificará a la Autoridad Central a efectos de tramitación del certificado de prosecución del trámite.
 
 - En el mismo proveído la autoridad judicial pre-asignará e instruirá a la Instancia Técnica Departamental de Política Social, la realización de visitas al centro de acogimiento o al domicilio de la guardadora o el guardador por el lapso de siete (7) días.
 
@@ -3185,13 +3466,13 @@ La acción de remoción de la tutora o el tutor será iniciada por la Defensorí
 
 - La Instancia Técnica Departamental elevará el informe respectivo dentro de los cinco (5) días siguientes a la conclusión del plazo determinado en el Parágrafo II del Artículo 251 del presente Código.
 
-- Si el informe es favorable para la adopción, se señalará audiencia para el periodo preadoptivo, que deberá llevarse a cabo dentro de los cinco (5) días siguientes. En caso de ser desfavorable dará por concluido el proceso respecto de la o el solicitante o ambos, decisión que podrá ser apelable.
+- Si el informe es favorable para la adopción, se señalará audiencia para el periodo pre-adoptivo, que deberá llevarse a cabo dentro de los cinco (5) días siguientes. En caso de ser desfavorable dará por concluido el proceso respecto de la o el solicitante o ambos, decisión que podrá ser apelable.
 
 ###### ARTÍCULO 253. (AUDIENCIA DE PERIODO PRE-ADOPTIVO).
 
 - Durante esta audiencia la Jueza o el Juez conferirá la guarda provisional durante el periodo pre-adoptivo considerando la edad de la niña, niño o adolescente y las circunstancias de la adopción, este periodo no será mayor a dos (2) meses.
 
-- En caso de guarda con fi  nes de adopción referida en los Artículos 239 y 240 del presente Código, no se requiere efectuar el periodo pre-adoptivo.
+- En caso de guarda con fines de adopción referida en los Artículos 239 y 240 del presente Código, no se requiere efectuar el periodo pre-adoptivo.
 
 Código Niña, Niño y Adolescente
 
@@ -3203,7 +3484,7 @@ Código Niña, Niño y Adolescente
 
 - En la audiencia, la autoridad judicial ordenará al equipo interdisciplinario del juzgado, proceda al  seguimiento  de  esta  etapa  y  emita  informe  dentro  de  los  cinco  (5)  días siguientes de concluido el periodo pre-adoptivo.
 
-- La  Jueza  o  el  Juez  para  concluir  la  audiencia  señalará  día  y  hora  de  audiencia  de ratifi  cación y sentencia en plazo no mayor a diez (10) días de concluido el periodo preadoptivo.
+- La Jueza o el Juez para concluir la audiencia señalará día y hora de audiencia de ratificación y sentencia en plazo no mayor a diez (10) días de concluido el periodo pre-adoptivo.
 
 ###### ARTÍCULO 254. (AUDIENCIA DE RATIFICACIÓN Y SENTENCIA).
 En la  audiencia  se cumplirán las siguientes actividades procesales:
@@ -3235,17 +3516,17 @@ La sentencia que otorgue la adopción dispondrá:
 
 [[START OF PAGE 99]]
 
-- La  Autoridad Central Boliviana revisará, a través de su equipo profesional interdisciplinario, la  documentación  presentada  y  emitirá  el  correspondiente  Certifi  cado  de  Idoneidad derivando a la Instancia Técnica Departamental de Política Social para la inclusión de la postulación en las demandas de adopción en un plazo improrrogable de tres (3) días a partir de recibida la documentación.
+- La Autoridad Central Boliviana revisará, a través de su equipo profesional interdisciplinario, la documentación presentada y emitirá el correspondiente Certificado de Idoneidad derivando a la Instancia Técnica Departamental de Política Social para la inclusión de la postulación en las demandas de adopción en un plazo improrrogable de tres (3) días a partir de recibida la documentación.
 
 - La  Instancia  Técnica  Departamental  de  Política  Social  remitirá  información  general sobre las niñas, niños o adolescentes adoptables a la Autoridad Central Boliviana, para el  cumplimiento  del Artículo  16  del  Convenio  Relativo  a  la  Protección  del  Niño  y  la Cooperación en Materia de Adopción Internacional. Se deberá acreditar la situación de adaptabilidad.
 
 - La  Autoridad  Central  Boliviana  realizará,  en  un  plazo  no  mayor  a  tres  (3)  días,  el análisis correspondiente, valorando la adaptabilidad. Si existieran observaciones a la situación  de  la  adaptabilidad,  la  Instancia Técnica  Departamental  de  Política  Social complementará las explicaciones, enmiendas y respaldos pertinentes dentro los cinco (5) días subsiguientes.
 
-- Una  vez  comprobada  la  adaptabilidad,  la  Autoridad  Central  Boliviana  emitirá  el correspondiente certifi  cado, adjuntado los informes respaldatorios en el plazo de tres (3) días, debiendo ser enviados a la Autoridad Central del Estado de recepción o a través del organismo intermediario acreditado, para su pronunciamiento.
+- Una vez comprobada la adaptabilidad, la Autoridad Central Boliviana emitirá el correspondiente certificado, adjuntado los informes respaldatorios en el plazo de tres (3) días, debiendo ser enviados a la Autoridad Central del Estado de recepción o a través del organismo intermediario acreditado, para su pronunciamiento.
 
-- En cumplimiento del Artículo 17 del Convenio Relativo a la Protección del Niño y la Cooperación en Materia de Adopción Internacional, mediante comunicación ofi  cial, el Estado de recepción comunicará la intención de proseguir con el proceso de la adopción a su similar boliviana.
+- En cumplimiento del Artículo 17 del Convenio Relativo a la Protección del Niño y la Cooperación en Materia de Adopción Internacional, mediante comunicación oficial, el Estado de recepción comunicará la intención de proseguir con el proceso de la adopción a su similar boliviana.
 
-- Una vez recibido el comunicado, la Autoridad Central Boliviana tendrá un plazo de tres (3) días para emitir el Certifi  cado de Prosecución, que deberá ser remitido a la autoridad judicial.
+- Una vez recibido el comunicado, la Autoridad Central Boliviana tendrá un plazo de tres (3) días para emitir el Certificado de Prosecución, que deberá ser remitido a la autoridad judicial.
 
 ###### ARTÍCULO 257. (APERSONAMIENTO DE LOS POSTULANTES EXTRANJEROS).
 Una vez cumplidos los requisitos señalados anteriormente, se aplicarán las disposiciones establecidas para la adopción nacional.
@@ -3273,7 +3554,7 @@ Código Niña, Niño y Adolescente
 ###### ARTÍCULO  259.  (SISTEMA  PENAL).
 El  Sistema  Penal  para  adolescentes  es  el  conjunto de  instituciones,  instancias,  entidades  y  servicios  que  se  encargan  del  establecimiento  de  la responsabilidad de la persona adolescente por conductas punibles en las que incurra, así como de la aplicación y control de las medidas socio-educativas correspondientes. Este Sistema ejecutará el Plan Plurinacional de la Niña, Niño y Adolescente en lo pertinente.
 
-###### ARTÍCULO 260. (INTEGRANTES) .
+###### ARTÍCULO 260. (INTEGRANTES).
 El Sistema Penal para adolescentes estará integrado por:
 
 - Ministerio de Justicia;
@@ -3294,7 +3575,7 @@ El Sistema Penal para adolescentes estará integrado por:
 
 ###### ARTÍCULO 261. (RESPONSABILIDAD DE LA Y EL ADOLESCENTE).
 
-- La o el adolescente que incurra en la comisión de conductas punibles tipifi  cados como delitos  en  el  Código  Penal  y  en  leyes  especiales,  responderá  por  el  hecho  de  forma diferenciada del adulto. La diferencia consiste en la Jurisdicción Especializada y en la medida socio-educativa que se le imponga.
+- La o el adolescente que incurra en la comisión de conductas punibles tipificados como delitos en el Código Penal y en leyes especiales, responderá por el hecho de forma diferenciada del adulto. La diferencia consiste en la Jurisdicción Especializada y en la medida socio-educativa que se le imponga.
 
 - Los derechos y garantías de la y el adolescente en el Sistema Penal serán asegurados por todos los integrantes del Sistema, de acuerdo a sus atribuciones y competencias.
 
@@ -3306,29 +3587,29 @@ El Sistema Penal para adolescentes estará integrado por:
 
 ###### ARTÍCULO 262. (DERECHOS Y GARANTÍAS).
 
-- La o el adolescente en el Sistema Penal, desde el inicio del proceso, así como durante la ejecución de la medida socio-educativa, tienen los siguientes derechos y garantías:
+- I. La o el adolescente en el Sistema Penal, desde el inicio del proceso, así como durante la ejecución de la medida socio-educativa, tienen los siguientes derechos y garantías:
 
-- a ) Especialidad. La impartición de justicia se tramitará a través de un sistema penal diferenciado, mediante proceso y asistencia integral de personal especializado, en observancia de su condición como personas en proceso de desarrollo físico, mental, emocional, espiritual, moral y social;
+- a) Especialidad. La impartición de justicia se tramitará a través de un sistema penal diferenciado, mediante proceso y asistencia integral de personal especializado, en observancia de su condición como personas en proceso de desarrollo físico, mental, emocional, espiritual, moral y social;
 
-- A la Presunción de Inocencia. Se presume la inocencia de la persona adolescente durante el proceso, hasta tanto una sentencia firme no determine la existencia del hecho y la participación de la imputada o imputado, imponiendo una medida socio-educativa;
+- b) A la Presunción de Inocencia. Se presume la inocencia de la persona adolescente durante el proceso, hasta tanto una sentencia firme no determine la existencia del hecho y la participación de la imputada o imputado, imponiendo una medida socio-educativa;
 
-- A  Ser  Oída  u  Oído. A  ser  escuchada  o  escuchado  e  intervenir  en  su  defensa material sin que esto pueda ser utilizado en su contra;
+- c) A Ser Oída u Oído. A ser escuchada o escuchado e intervenir en su defensa material sin que esto pueda ser utilizado en su contra;
 
-- A  Guardar  Silencio.  A  no  declarar  en  su  contra  ni  en  la  de  sus  parientes consanguíneos hasta el cuarto grado o sus afines hasta el segundo, y su silencio no será utilizado en su perjuicio;
+- d) A Guardar Silencio. A no declarar en su contra ni en la de sus parientes consanguíneos hasta el cuarto grado o sus afines hasta el segundo, y su silencio no será utilizado en su perjuicio;
 
-- A  Ser  Informada  o  Informado. A  ser  informada  o  informado  de  acuerdo  a  su edad y desarrollo de los motivos de la investigación, actuaciones procesales, sus derechos, así como de cada acto que pueda favorecer, afectar o restringir sus derechos;
+- e) A Ser Informada o Informado. A ser informada o informado de acuerdo a su edad y desarrollo de los motivos de la investigación, actuaciones procesales, sus derechos, así como de cada acto que pueda favorecer, afectar o restringir sus derechos;
 
-- A un Traductor o Intérprete.  A contar con la asistencia gratuita de una traductora o  un  traductor,  una  o  un  intérprete  si  no  comprende  o  no  habla  el  idioma  o lenguaje utilizado o se trate de adolescente en situación de discapacidad, en los casos que sea necesario;
+- f) A un Traductor o Intérprete. A contar con la asistencia gratuita de una traductora o un traductor, una o un intérprete si no comprende o no habla el idioma o lenguaje utilizado o se trate de adolescente en situación de discapacidad, en los casos que sea necesario;
 
-- Al Debido Proceso. El proceso penal de adolescentes es oral, reservado, rápido y contradictorio;
+- g) Al Debido Proceso. El proceso penal de adolescentes es oral, reservado, rápido y contradictorio;
 
-- A  la  Defensa  Especializada.  A  la  defensa  especializada  gratuita,  la  cual  es irrenunciable, no siendo válida ninguna actuación sin presencia de su defensora o  defensor.  La  defensa  es  inviolable  desde  el  inicio  de  la  investigación  hasta finalizar el cumplimiento de la medida socio-educativa impuesta;
+- h) A la Defensa Especializada. A la defensa especializada gratuita, la cual es irrenunciable, no siendo válida ninguna actuación sin presencia de su defensora o defensor. La defensa es inviolable desde el inicio de la investigación hasta finalizar el cumplimiento de la medida socio-educativa impuesta;
 
-- A la Asistencia Integral. A recibir asistencia bio-psico-socio-jurídica gratuita;
+- i) A la Asistencia Integral. A recibir asistencia bio-psico-socio-jurídica gratuita;
 
-- A Permanecer en Centros Especializados. A ser privadas o privados de libertad, en centros exclusivos para adolescentes y con condiciones adecuadas;
+- j) A Permanecer en Centros Especializados. A ser privadas o privados de libertad, en centros exclusivos para adolescentes y con condiciones adecuadas;
 
-- A la Comunicación. A la comunicación permanente con sus familiares y con su defensora o defensor;
+- k) A la Comunicación. A la comunicación permanente con sus familiares y con su defensora o defensor;
 
 Código Niña, Niño y Adolescente
 
@@ -3338,29 +3619,29 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 102]]
 
-- A la Privacidad. A que se respete su privacidad y la de su grupo familiar;
+- l) A la Privacidad. A que se respete su privacidad y la de su grupo familiar;
 
-- Confidencialidad. Se prohíbe la publicación de datos de la investigación o del juicio, que directa o indirectamente posibiliten identificar a la o el adolescente, exceptuando las informaciones estadísticas;
+- m) Confidencialidad. Se prohíbe la publicación de datos de la investigación o del juicio, que directa o indirectamente posibiliten identificar a la o el adolescente, exceptuando las informaciones estadísticas;
 
-- A  la  Intervención  de  sus  Responsables  Legales.  A  la  intervención  directa  de sus responsables legales, salvo que resultare conflicto o fuera contraria a sus intereses;
+- n) A la Intervención de sus Responsables Legales. A la intervención directa de sus responsables legales, salvo que resultare conflicto o fuera contraria a sus intereses;
 
-- Proporcionalidad.  Las  sanciones  y  las  medidas  socio-educativas  deben  ser racionales, en proporción al hecho punible y sus consecuencias;
+- o) Proporcionalidad. Las sanciones y las medidas socio-educativas deben ser racionales, en proporción al hecho punible y sus consecuencias;
 
-- Única Persecución. La remisión, el sobreseimiento y la absolución impiden nueva investigación o juzgamiento de la o el adolescente por el mismo hecho, aunque se modifique la calificación legal o se conozcan nuevas circunstancias; y
+- p) Única Persecución. La remisión, el sobreseimiento y la absolución impiden nueva investigación o juzgamiento de la o el adolescente por el mismo hecho, aunque se modifique la calificación legal o se conozcan nuevas circunstancias; y
 
-- A la Excepcionalidad de la Privación de Libertad. Salvo la detención en flagrancia, la privación de libertad sólo procede por orden judicial, en los casos, bajo las condiciones y por los lapsos previstos en este Código. La prisión preventiva es revisable en cualquier tiempo a solicitud de la o el adolescente.
+- q) A la Excepcionalidad de la Privación de Libertad. Salvo la detención en flagrancia, la privación de libertad sólo procede por orden judicial, en los casos, bajo las condiciones y por los lapsos previstos en este Código. La prisión preventiva es revisable en cualquier tiempo a solicitud de la o el adolescente.
 
-- Ningún adolescente puede ser procesada o procesado ni sancionada o sancionado por el acto u omisión que, al tiempo de su ocurrencia, no esté previamente defi  nido en la Ley Penal como delito. Tampoco puede ser objeto de sanción si su conducta está justifi  cada o no lesiona o pone en peligro un bien jurídico tutelado.
+- II. Ningún adolescente puede ser procesada o procesado ni sancionada o sancionado por el acto u omisión que, al tiempo de su ocurrencia, no esté previamente definido en la Ley Penal como delito. Tampoco puede ser objeto de sanción si su conducta está justificada o no lesiona o pone en peligro un bien jurídico tutelado.
 
-- El juicio de la o el adolescente debe responder al principio de la economía procesal, por el cual se podrán concentrar varias actuaciones en un solo acto.
+- III. El juicio de la o el adolescente debe responder al principio de la economía procesal, por el cual se podrán concentrar varias actuaciones en un solo acto.
 
-- La o el adolescente declarada o declarado responsable de un hecho punible sólo puede ser sancionada o sancionado con las medidas previstas en este Código.
+- IV. La o el adolescente declarada o declarado responsable de un hecho punible sólo puede ser sancionada o sancionado con las medidas previstas en este Código.
 
-- Para determinar la responsabilidad de una o un adolescente por un hecho punible y aplicar  la  sanción  correspondiente,  se  debe  seguir  el  procedimiento  previsto  en  éste Código.
+- V. Para determinar la responsabilidad de una o un adolescente por un hecho punible y aplicar la sanción correspondiente, se debe seguir el procedimiento previsto en éste Código.
 
-- El Estado garantizará la justicia restaurativa, así como la oportuna salida o la liberación del confl  icto.
+- VI. El Estado garantizará la justicia restaurativa, así como la oportuna salida o la liberación del conflicto.
 
-- En los procesos en los que las y los adolescentes se vean involucrados, deberán ser tratados con respeto y consideración, debiendo prevalecer en todas las actuaciones, investigaciones técnicas y pericias.
+- VII. En los procesos en los que las y los adolescentes se vean involucrados, deberán ser tratados con respeto y consideración, debiendo prevalecer en todas las actuaciones, investigaciones técnicas y pericias.
 
 100
 
@@ -3370,11 +3651,11 @@ Código Niña, Niño y Adolescente
 
 ###### ARTÍCULO 263. (RESERVA DE ACTUACIONES).
 
-- Está  prohibida  la  obtención  o  difusión  de  imágenes,  así  como  la  divulgación  de  su identidad o de las personas relacionadas con las actuaciones procesales, policiales o administrativas.
+- I. Está prohibida la obtención o difusión de imágenes, así como la divulgación de su identidad o de las personas relacionadas con las actuaciones procesales, policiales o administrativas.
 
-- El registro de antecedentes penales y policiales, será reservado y sólo podrá certifi  carse mediante auto motivado, emitido por la Jueza o el Juez Público en materia de Niñez y Adolescencia.
+- II. El registro de antecedentes penales y policiales, será reservado y sólo podrá certificarse mediante auto motivado, emitido por la Jueza o el Juez Público en materia de Niñez y Adolescencia.
 
-- En el caso de la persona adolescente declarada rebelde, se publicarán únicamente los datos indispensables para su aprehensión.
+- III. En el caso de la persona adolescente declarada rebelde, se publicarán únicamente los datos indispensables para su aprehensión.
 
 ###### ARTÍCULO  264.  (PLAZO  DEL  PROCESO).
 La  duración  del  proceso  jurisdiccional  desde la denuncia hasta la sentencia ejecutoriada dictada por la Jueza o el Juez Público en materia de Niñez y Adolescencia, no deberá exceder de ocho meses. No se computará el tiempo de retardación o  dilación  del  proceso  cuando  ésta  sea  atribuible  a  la  persona  adolescente.  La  demora  judicial generará responsabilidad a la autoridad judicial.
@@ -3388,13 +3669,13 @@ La  duración  del  proceso  jurisdiccional  desde la denuncia hasta la sentenci
 - Si existieren dudas sobre si una persona es menor de catorce (14) años se le presume tal edad hasta que se pruebe lo contrario, estando en tanto exenta de responsabilidad.
 
 ###### ARTÍCULO 266. (SEPARACIÓN DE CAUSAS).
-Cuando en la investigación de la comisión de un mismo hecho delictivo, se identifi  caran elementos sufi  cientes sobre la intervención de una o más personas adolescentes con una o más personas adultas, el proceso deberá tramitarse por separado en la jurisdicción ordinaria y en la de justicia para adolescentes en el Sistema Penal.
+Cuando en la investigación de la comisión de un mismo hecho delictivo, se identificaran elementos suficientes sobre la intervención de una o más personas adolescentes con una o más personas adultas, el proceso deberá tramitarse por separado en la jurisdicción ordinaria y en la de justicia para adolescentes en el Sistema Penal.
 
 ### CAPÍTULO II ÁMBITO DE APLICACIÓN
 
 ###### ARTÍCULO 267. (SUJETOS).
 
-- Las disposiciones de este Libro se aplican a adolescentes a partir de catorce (14) años de edad y menores de dieciocho (18) años de edad, sindicados por la comisión de hechos tipifi  cados como delitos.
+- I. Las disposiciones de este Libro se aplican a adolescentes a partir de catorce (14) años de edad y menores de dieciocho (18) años de edad, sindicados por la comisión de hechos tipificados como delitos.
 
 Código Niña, Niño y Adolescente
 
@@ -3404,25 +3685,25 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 104]]
 
-- Se establece la edad máxima de veinticuatro (24) años para el cumplimiento de la sanción en privación de libertad.
+- II. Se establece la edad máxima de veinticuatro (24) años para el cumplimiento de la sanción en privación de libertad.
 
 ###### ARTÍCULO 268. (RESPONSABILIDAD PENAL ATENUADA).
 
-- La responsabilidad penal de la o el adolescente será atenuada en cuatro quintas partes respecto del máximo penal correspondiente al delito establecido en la norma penal.
+- I. La responsabilidad penal de la o el adolescente será atenuada en cuatro quintas partes respecto del máximo penal correspondiente al delito establecido en la norma penal.
 
-- Para delitos cuyo máximo penal esté entre quince (15) y treinta (30) años en la Ley Penal, la sanción deberá cumplirse en un centro especializado en privación de libertad.
+- II. Para delitos cuyo máximo penal esté entre quince (15) y treinta (30) años en la Ley Penal, la sanción deberá cumplirse en un centro especializado en privación de libertad.
 
-- Para  delitos  cuyo  máximo  penal  sea  menor  a  quince  (15)  años  en  la  Ley  Penal,  se aplicarán medidas socio-educativas con restricción de libertad y en libertad.
+- III. Para delitos cuyo máximo penal sea menor a quince (15) años en la Ley Penal, se aplicarán medidas socio-educativas con restricción de libertad y en libertad.
 
 ###### ARTÍCULO 269. (EXENCIÓN DE LA RESPONSABILIDAD PENAL).
 
-- La  persona  adolescente  menor  de  catorce  (14)  años  de  edad  está  exenta  de responsabilidad penal, sin perjuicio de la responsabilidad civil, la cual será demandada a sus responsables legales en la jurisdicción civil.
+- I. La persona adolescente menor de catorce (14) años de edad está exenta de responsabilidad penal, sin perjuicio de la responsabilidad civil, la cual será demandada a sus responsables legales en la jurisdicción civil.
 
-- Cuando una persona adolescente menor de catorce (14) años fuera  aprehendida  o arrestada, será remitida a la Instancia Técnica Departamental de Política Social, para la verifi  cación del respeto de sus derechos y garantías y la inclusión en los programas de protección que correspondan, sin perjuicio de medidas de protección dictadas por la autoridad competente.
+- II. Cuando una persona adolescente menor de catorce (14) años fuera aprehendida o arrestada, será remitida a la Instancia Técnica Departamental de Política Social, para la verificación del respeto de sus derechos y garantías y la inclusión en los programas de protección que correspondan, sin perjuicio de medidas de protección dictadas por la autoridad competente.
 
-- Las niñas y los niños en ningún caso podrán ser privados de libertad, procesados o sometidos a medidas socio-educativas.
+- III. Las niñas y los niños en ningún caso podrán ser privados de libertad, procesados o sometidos a medidas socio-educativas.
 
-- No será procesado ni declarado penal o civilmente responsable, la o el adolescente entre catorce (14) y dieciocho (18) años con discapacidad intelectual, psíquica o mental, que no pueda comprender la antijuricidad de su acción.
+- IV. No será procesado ni declarado penal o civilmente responsable, la o el adolescente entre catorce (14) y dieciocho (18) años con discapacidad intelectual, psíquica o mental, que no pueda comprender la antijuricidad de su acción.
 
 ## TÍTULO II COMPETENCIAS, ATRIBUCIONES Y FUNCIONES DE LOS INTEGRANTES  DEL SISTEMA PENAL PARA ADOLESCENTES
 
@@ -3430,7 +3711,7 @@ Código Niña, Niño y Adolescente
 
 ###### ARTÍCULO 270. (PERSONAL ESPECIALIZADO).
 
-- Las  máximas  autoridades  de  cada  institución  que  integra  el  Sistema  Penal  para adolescentes, deberán garantizar la designación de personal especializado en cantidad y calidad necesaria para su óptimo funcionamiento y para la garantía de los derechos de adolescentes que se encuentren en su ámbito de actuación.
+- I. Las máximas autoridades de cada institución que integra el Sistema Penal para adolescentes, deberán garantizar la designación de personal especializado en cantidad y calidad necesaria para su óptimo funcionamiento y para la garantía de los derechos de adolescentes que se encuentren en su ámbito de actuación.
 
 102
 
@@ -3438,7 +3719,7 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 105]]
 
-- Todas las instituciones en sus respectivas competencias, son responsables de capacitar a las y los servidores públicos a cargo de implementar las disposiciones de este Código.
+- II. Todas las instituciones en sus respectivas competencias, son responsables de capacitar a las y los servidores públicos a cargo de implementar las disposiciones de este Código.
 
 ###### ARTÍCULO 271. (ENTIDADES PRIVADAS).
 Toda organización o entidad privada  que trabaje o preste servicios en áreas vinculadas al Sistema Penal para adolescentes, debe contar con recursos humanos  especializados  en  los  servicios  que  brinda  y  recursos  económicos  que  garanticen  su funcionamiento.
@@ -3447,25 +3728,25 @@ Toda organización o entidad privada  que trabaje o preste servicios en áreas v
 
 ###### ARTÍCULO 272. (RECTORÍA DE JUSTICIA).
 
-- El Ministerio de Justicia, ejercerá la rectoría técnica del Sistema Penal para Adolescentes, en lo que se refi  ere a:
+- I. El Ministerio de Justicia, ejercerá la rectoría técnica del Sistema Penal para Adolescentes, en lo que se refiere a:
 
-- Formulación  y  coordinación  del  desarrollo  de  planes,  políticas,  programas, proyectos, normas, instrumentos de actuación, servicios e instancias integrales, lineamientos generales de prevención, atención, promoción y defensa integral, así como supervisión de su implementación;
+- a) Formulación y coordinación del desarrollo de planes, políticas, programas, proyectos, normas, instrumentos de actuación, servicios e instancias integrales, lineamientos generales de prevención, atención, promoción y defensa integral, así como supervisión de su implementación;
 
-- Elaboración de diagnósticos regionales y establecimiento de lineamientos para la implementación de las medidas socio-educativas, así como de programas y servicios destinados a la materialización de la justicia restaurativa;
+- b) Elaboración de diagnósticos regionales y establecimiento de lineamientos para la implementación de las medidas socio-educativas, así como de programas y servicios destinados a la materialización de la justicia restaurativa;
 
-- Supervisión y Control de los Centros Especializados para el cumplimiento de las medidas socio-educativas y restaurativas;
+- c) Supervisión y Control de los Centros Especializados para el cumplimiento de las medidas socio-educativas y restaurativas;
 
-- Identificación  de  las  necesidades  del  Sistema  para  implementar  acciones  y programas destinados a suplirlas; y
+- d) Identificación de las necesidades del Sistema para implementar acciones y programas destinados a suplirlas; y
 
-- Realización de evaluaciones periódicas del funcionamiento del Sistema.
+- e) Realización de evaluaciones periódicas del funcionamiento del Sistema.
 
-- Para  el  cumplimiento  de  sus  atribuciones,  el  Ministerio  de  Justicia  contará  con  una instancia técnica.
+- II. Para el cumplimiento de sus atribuciones, el Ministerio de Justicia contará con una instancia técnica.
 
 ### CAPÍTULO III JURISDICCIÓN Y COMPETENCIA
 
 ###### ARTÍCULO 273. (COMPETENCIA).
 
-- Corresponde a la Jueza o Juez Público en materia de Niñez y  Adolescencia, el conocimiento exclusivo de todos los casos en los que se atribuya a la persona adolescente mayor de catorce (14) años y menor de dieciocho (18) años de edad, la comisión de un hecho delictivo, así como la ejecución y control de sus decisiones. En cumplimiento de esta competencia tendrá las siguientes atribuciones:
+- I. Corresponde a la Jueza o Juez Público en materia de Niñez y Adolescencia, el conocimiento exclusivo de todos los casos en los que se atribuya a la persona adolescente mayor de catorce (14) años y menor de dieciocho (18) años de edad, la comisión de un hecho delictivo, así como la ejecución y control de sus decisiones. En cumplimiento de esta competencia tendrá las siguientes atribuciones:
 
 Código Niña, Niño y Adolescente
 
@@ -3475,31 +3756,31 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 106]]
 
-- Ejercer el control de la investigación;
+- a) Ejercer el control de la investigación;
 
-- Velar por el respeto de los derechos y garantías de las partes;
+- b) Velar por el respeto de los derechos y garantías de las partes;
 
-- Promover la conciliación, siempre que sea procedente;
+- c) Promover la conciliación, siempre que sea procedente;
 
-- Promover y ordenar el acompañamiento de mecanismos de justicia restaurativa;
+- d) Promover y ordenar el acompañamiento de mecanismos de justicia restaurativa;
 
-- Disponer las medidas cautelares que correspondan;
+- e) Disponer las medidas cautelares que correspondan;
 
-- Emitir mandamientos;
+- f) Emitir mandamientos;
 
-- Conocer y sustanciar excepciones o incidentes;
+- g) Conocer y sustanciar excepciones o incidentes;
 
-- Dirigir la preparación del juicio oral, conocer su substanciación y dictar sentencia;
+- h) Dirigir la preparación del juicio oral, conocer su substanciación y dictar sentencia;
 
-- Ejecutar las sentencias absolutorias;
+- i) Ejecutar las sentencias absolutorias;
 
-- Ejercer el control del cumplimiento de las medidas socio-educativas;
+- j) Ejercer el control del cumplimiento de las medidas socio-educativas;
 
-- Resolver  por  medio  de  providencias  o  autos,  los  asuntos  que  sean  de  su conocimiento; y
+- k) Resolver por medio de providencias o autos, los asuntos que sean de su conocimiento; y
 
-- Conocer la sustanciación y resolución para la reparación del daño, cuando se haya dictado sentencia sancionatoria.
+- l) Conocer la sustanciación y resolución para la reparación del daño, cuando se haya dictado sentencia sancionatoria.
 
-- No podrá juzgarse a una persona adolescente en la jurisdicción penal para personas adultas.
+- II. No podrá juzgarse a una persona adolescente en la jurisdicción penal para personas adultas.
 
 ###### ARTÍCULO  274.  (DEFENSA  PÚBLICA  Y  PRIVADA).
 La  persona  adolescente  con responsabilidad penal, deberá ser asistida por una abogada o un abogado privado o del Estado, y por el equipo interdisciplinario de la Defensoría de la Niñez y Adolescencia.
@@ -3509,7 +3790,7 @@ La  persona  adolescente  con responsabilidad penal, deberá ser asistida por un
 ###### ARTÍCULO 275. (ATRIBUCIONES ESPECÍFICAS DE LAS O LOS FISCALES ESPECIALIZADOS).
 Además de las establecidas por la Ley Orgánica del Ministerio Público y otra normativa relacionada, son atribuciones específi  cas de las o los Fiscales:
 
-- Promover y requerir la desjudicialización, siempre que fuera procedente; revisar y hacer el seguimiento al cumplimiento de los mecanismos de justicia restaurativa que la acompañen; y
+- a) Promover y requerir la desjudicialización, siempre que fuera procedente; revisar y hacer el seguimiento al cumplimiento de los mecanismos de justicia restaurativa que la acompañen; y
 
 104
 
@@ -3517,27 +3798,27 @@ Además de las establecidas por la Ley Orgánica del Ministerio Público y otra 
 
 [[START OF PAGE 107]]
 
-- Promover  y  requerir  la  aplicación  de  salidas  alternativas;  revisar  y  hacer  el seguimiento al cumplimiento de los mecanismos de justicia restaurativa que las acompañen.
+- b) Promover y requerir la aplicación de salidas alternativas; revisar y hacer el seguimiento al cumplimiento de los mecanismos de justicia restaurativa que las acompañen.
 
 ###### ARTÍCULO 276. (ACTUACIÓN POLICIAL).
 
-- La Policía  Boliviana,  además  de  estar  sujeta  a  las  disposiciones  previstas  en  su  Ley Orgánica y normativa relacionada, está sujeta a las siguientes reglas de actuación:
+- I. La Policía Boliviana, además de estar sujeta a las disposiciones previstas en su Ley Orgánica y normativa relacionada, está sujeta a las siguientes reglas de actuación:
 
-- En  casos  de  comisión  de  delitos  en  los  que  puedan  estar  involucradas personas menores de catorce (14) años de edad, deberá remitir a la autoridad judicial  competente e informar de la intervención a la Defensoría de la Niñez y Adolescencia y al Ministerio Público, acerca de los hechos, circunstancias y actuaciones, bajo reserva, evitando toda forma de violencia física o psicológica;
+- a) En casos de comisión de delitos en los que puedan estar involucradas personas menores de catorce (14) años de edad, deberá remitir a la autoridad judicial competente e informar de la intervención a la Defensoría de la Niñez y Adolescencia y al Ministerio Público, acerca de los hechos, circunstancias y actuaciones, bajo reserva, evitando toda forma de violencia física o psicológica;
 
-- Para mantener el orden público o para preservar la seguridad ciudadana, cuidar que  las  personas  menores  de  dieciocho  (18)  años  de  edad  que  puedan  ser afectadas o involucradas reciban un trato adecuado, informando a la autoridad judicial competente y Defensoría de la Niñez y Adolescencia en el acto, y si fuera posible, a su madre, padre, guardadora o guardador, tutora o tutor;
+- b) Para mantener el orden público o para preservar la seguridad ciudadana, cuidar que las personas menores de dieciocho (18) años de edad que puedan ser afectadas o involucradas reciban un trato adecuado, informando a la autoridad judicial competente y Defensoría de la Niñez y Adolescencia en el acto, y si fuera posible, a su madre, padre, guardadora o guardador, tutora o tutor;
 
-- La Policía Boliviana contará con las investigadoras y los investigadores especializados que conforme el Ministerio Público; y
+- c) La Policía Boliviana contará con las investigadoras y los investigadores especializados que conforme el Ministerio Público; y
 
-- Las  diligencias  de  la  Policía  Boliviana  en  materia  de  sustancias  controladas serán procesadas por la Fuerza Especial de Lucha Contra el Narcotráfico bajo la dirección de la o el Fiscal de Sustancias Controladas, las que serán derivadas a la o el Fiscal asignado al caso.
+- d) Las diligencias de la Policía Boliviana en materia de sustancias controladas serán procesadas por la Fuerza Especial de Lucha Contra el Narcotráfico bajo la dirección de la o el Fiscal de Sustancias Controladas, las que serán derivadas a la o el Fiscal asignado al caso.
 
-- La  Policía  Boliviana,  deberá  instituir  la  implementación  de  protocolos  de  actuación especializados para la prevención, atención y protección y coordinar con las Instancias Técnicas Departamentales de Política Social, con las Defensorías de Niñez y  Adolescencia de los Gobiernos Autónomos Municipales y demás entidades públicas y privadas que desarrollen actividades en prevención, atención y protección.
+- II. La Policía Boliviana, deberá instituir la implementación de protocolos de actuación especializados para la prevención, atención y protección y coordinar con las Instancias Técnicas Departamentales de Política Social, con las Defensorías de Niñez y Adolescencia de los Gobiernos Autónomos Municipales y demás entidades públicas y privadas que desarrollen actividades en prevención, atención y protección.
 
 ### CAPÍTULO V GOBIERNOS AUTÓNOMOS DEPARTAMENTALES Y ATRIBUCIONES DE LA INSTANCIA TÉCNICA DEPARTAMENTAL DE POLÍTICA SOCIAL SOBRE RESPONSABILIDAD PENAL PARA ADOLESCENTES.
 
 ###### ARTÍCULO 277. (GOBIERNOS AUTÓNOMOS DEPARTAMENTALES).
 
-- Los Gobiernos  Autónomos Departamentales, son responsables de la creación, implementación,  fi  nanciamiento,  dirección,  organización  y  gestión  de  los  servicios,
+- I. Los Gobiernos Autónomos Departamentales, son responsables de la creación, implementación, financiamiento, dirección, organización y gestión de los servicios,
 
 Código Niña, Niño y Adolescente
 
@@ -3549,18 +3830,18 @@ Código Niña, Niño y Adolescente
 
 instituciones, centros especializados y programas para garantizar la correcta ejecución de las medidas y sanciones previstas por este Código, así como de los programas y servicios destinados a la realización de la justicia restaurativa.
 
-- Los centros especializados para personas adolescentes en el Sistema Penal, tendrán la infraestructura, los espacios acondicionados y el personal especializado, necesarios para la garantía de los derechos de las y los adolescentes en el Sistema Penal.
+- II. Los centros especializados para personas adolescentes en el Sistema Penal, tendrán la infraestructura, los espacios acondicionados y el personal especializado, necesarios para la garantía de los derechos de las y los adolescentes en el Sistema Penal.
 
 ###### ARTÍCULO 278. (INSTANCIA TÉCNICA DEPARTAMENTAL DE POLÍTICA SOCIAL EN EL SISTEMA PENAL).
 La Instancia Técnica Departamental de Política Social es responsable de la ejecución de actividades técnicas y operativas  de los programas, entidades y servicios del Sistema Penal para adolescentes en su jurisdicción. Son sus atribuciones:
 
-- Ejecutar  programas  y  servicios  personalizados,  integrados  y  especializados dirigidos a adolescentes en el Sistema Penal, para el cumplimiento de medidas socio-educativas, no privativas, restrictivas y privativas de libertad y orientadas a la reintegración social y familiar; bajo supervisión de los juzgados públicos en materia de niñez y adolescencia;
+- a) Ejecutar programas y servicios personalizados, integrados y especializados dirigidos a adolescentes en el Sistema Penal, para el cumplimiento de medidas socio-educativas, no privativas, restrictivas y privativas de libertad y orientadas a la reintegración social y familiar; bajo supervisión de los juzgados públicos en materia de niñez y adolescencia;
 
-- Ejecutar servicios y programas para el seguimiento de los mecanismos de justicia restaurativa previstos en este Código;
+- b) Ejecutar servicios y programas para el seguimiento de los mecanismos de justicia restaurativa previstos en este Código;
 
-- Vigilar el cumplimiento de los derechos y garantías de los adolescentes menores de catorce (14) años que fueren aprehendidos o arrestados; y
+- c) Vigilar el cumplimiento de los derechos y garantías de los adolescentes menores de catorce (14) años que fueren aprehendidos o arrestados; y
 
-- Elaborar con la plena participación de la o el adolecente, su plan individual de ejecución de la medida que le fuere impuesta.
+- d) Elaborar con la plena participación de la o el adolecente, su plan individual de ejecución de la medida que le fuere impuesta.
 
 ### CAPÍTULO VI ENTIDADES DE ATENCIÓN Y PROGRAMAS DEL SISTEMA PENAL
 
@@ -3572,9 +3853,9 @@ Las entidades de atención del Sistema Penal son instituciones de interés públ
 ###### ARTÍCULO 280. (ENTIDADES DE ATENCIÓN).
 Son entidades de atención del Sistema Penal, las siguientes:
 
-- Centros de orientación;
+- 1. Centros de orientación;
 
-- Centros de reintegración social.
+- 2. Centros de reintegración social.
 
 106
 
@@ -3586,29 +3867,29 @@ Son entidades de atención del Sistema Penal, las siguientes:
 
 Todas las entidades de atención deben sujetarse a las normas del presente Código, respetando el principio de interés superior de la niña, niño o adolescente, y cumplir las siguientes obligaciones en relación a éstas y éstos:
 
-- Efectuar el estudio personal y social de cada caso;
+- 1. Efectuar el estudio personal y social de cada caso;
 
-- Garantizar  la  alimentación,  vestido  y  vivienda,  así  como  los  objetos necesarios para su higiene y aseo personal;
+- 2. Garantizar la alimentación, vestido y vivienda, así como los objetos necesarios para su higiene y aseo personal;
 
-- Garantizar la atención médica y psicológica;
+- 3. Garantizar la atención médica y psicológica;
 
-- Garantizar su acceso a la educación;
+- 4. Garantizar su acceso a la educación;
 
-- Respetar la posesión de sus objetos personales y el correspondiente registro de sus pertenencias;
+- 5. Respetar la posesión de sus objetos personales y el correspondiente registro de sus pertenencias;
 
-- Prepararlas o prepararlos gradualmente, para su separación de la entidad;
+- 6. Prepararlas o prepararlos gradualmente, para su separación de la entidad;
 
-- Otras necesarias para una efectiva reinserción social y familiar, y desarrollo pleno e integral de las y los adolescentes.
+- 7. Otras necesarias para una efectiva reinserción social y familiar, y desarrollo pleno e integral de las y los adolescentes.
 
 #### SECCIÓN II PROGRAMAS DEL SISTEMA PENAL
 
 ###### ARTÍCULO 282. (FINALIDAD Y PRIORIDAD).
 
-- Los  programas  del  Sistema  Penal,  tienen  la  fi  nalidad  de  lograr  el  desarrollo  pleno  e integral de las y los adolescentes, así como su adecuada reinserción familiar y social.
+- I. Los programas del Sistema Penal, tienen la finalidad de lograr el desarrollo pleno e integral de las y los adolescentes, así como su adecuada reinserción familiar y social.
 
-- El contenido de los programas y las acciones desarrolladas por las entidades ejecutoras públicas  y  privadas,  deberán  respetar  la  condición  de  sujetos  de  derecho  de  las  y los adolescentes, sujetándose a la Constitución Política del Estado, las disposiciones del presente Código, y los tratados y convenios internacionales en materia de niñez y adolescencia.
+- II. El contenido de los programas y las acciones desarrolladas por las entidades ejecutoras públicas y privadas, deberán respetar la condición de sujetos de derecho de las y los adolescentes, sujetándose a la Constitución Política del Estado, las disposiciones del presente Código, y los tratados y convenios internacionales en materia de niñez y adolescencia.
 
-- El  Sistema Penal para adolescentes, implementará el Programa Departamental de la Niña, Niño y Adolescente que desarrollará a su vez el Programa de Centros Especializados y los Programas de Orientación Socio-educativos, entre otros.
+- III. El Sistema Penal para adolescentes, implementará el Programa Departamental de la Niña, Niño y Adolescente que desarrollará a su vez el Programa de Centros Especializados y los Programas de Orientación Socio-educativos, entre otros.
 
 Código Niña, Niño y Adolescente
 
@@ -3624,29 +3905,29 @@ Código Niña, Niño y Adolescente
 
 ###### ARTÍCULO 283. (EJERCICIO DE LA ACCIÓN PENAL).
 
-- La acción penal contra persona adolescente es pública, sin diferenciar si se trata de delitos de acción privada o pública.
+- I. La acción penal contra persona adolescente es pública, sin diferenciar si se trata de delitos de acción privada o pública.
 
-- La acción penal contra la persona adolescente a instancia de parte, requerirá la denuncia de la víctima para activar su ejercicio a cargo del Ministerio Público por los delitos a instancia de parte establecidos en el Código Procesal Penal.
+- II. La acción penal contra la persona adolescente a instancia de parte, requerirá la denuncia de la víctima para activar su ejercicio a cargo del Ministerio Público por los delitos a instancia de parte establecidos en el Código Procesal Penal.
 
-- La o el Fiscal ejercerá la acción penal directamente cuando el delito se haya cometido contra una persona menor de doce (12) años de edad, una persona incapaz que no tenga tutor o guardador, o un menor o incapaz.
+- III. La o el Fiscal ejercerá la acción penal directamente cuando el delito se haya cometido contra una persona menor de doce (12) años de edad, una persona incapaz que no tenga tutor o guardador, o un menor o incapaz.
 
 ###### ARTÍCULO 284. (PRESCRIPCIÓN).
 
-- Salvo los casos de imprescriptibilidad establecidos en la Constitución Política del Estado, la acción penal contra la persona adolescente prescribe:
+- I. Salvo los casos de imprescriptibilidad establecidos en la Constitución Política del Estado, la acción penal contra la persona adolescente prescribe:
 
-- En tres (3) años, para los delitos que tengan señalada una pena privativa de libertad cuyo máximo legal sea de diez (10) o más años;
+- a) En tres (3) años, para los delitos que tengan señalada una pena privativa de libertad cuyo máximo legal sea de diez (10) o más años;
 
-- En  dos  (2)  años,  para  los  demás  delitos  que  sean  sancionados  con  penas privativas de libertad; y
+- b) En dos (2) años, para los demás delitos que sean sancionados con penas privativas de libertad; y
 
-- En  seis  (6)  meses  para  los  delitos  sancionados  con  penas  no  privativas  de libertad.
+- c) En seis (6) meses para los delitos sancionados con penas no privativas de libertad.
 
-- Los términos señalados para la prescripción de la acción se contarán a partir de la media noche del día en que se cometió el delito o en que cesó su consumación.
+- II. Los términos señalados para la prescripción de la acción se contarán a partir de la media noche del día en que se cometió el delito o en que cesó su consumación.
 
-- El  término  de  la  prescripción  de  la  acción  penal  para  la  persona  adolescente  se interrumpirá con la imputación formal o la declaración de rebeldía, momento desde el cual el plazo se computará nuevamente.
+- III. El término de la prescripción de la acción penal para la persona adolescente se interrumpirá con la imputación formal o la declaración de rebeldía, momento desde el cual el plazo se computará nuevamente.
 
-- El término de la prescripción se interrumpirá o se suspenderá de manera individualizada para la autora, el autor y las y los partícipes.
+- IV. El término de la prescripción se interrumpirá o se suspenderá de manera individualizada para la autora, el autor y las y los partícipes.
 
-- El término de la prescripción de la acción se suspenderá mientras esté pendiente la resolución de cuestiones prejudiciales planteadas.
+- V. El término de la prescripción de la acción se suspenderá mientras esté pendiente la resolución de cuestiones prejudiciales planteadas.
 
 108
 
@@ -3656,27 +3937,27 @@ Código Niña, Niño y Adolescente
 
 ###### ARTÍCULO 285. (REBELDÍA).
 
-- La persona adolescente en el Sistema Penal será declarada rebelde cuando:
+- I. La persona adolescente en el Sistema Penal será declarada rebelde cuando:
 
-- No  comparezca,  sin  causa  justificada,  a  una  citación  emanada  de  autoridad competente;
+- a) No comparezca, sin causa justificada, a una citación emanada de autoridad competente;
 
-- Se haya evadido del establecimiento o lugar donde se encontraba detenida o detenido;
+- b) Se haya evadido del establecimiento o lugar donde se encontraba detenida o detenido;
 
-- No pueda ser habida o habido por efecto de un mandamiento de aprehensión emitido por autoridad competente; y
+- c) No pueda ser habida o habido por efecto de un mandamiento de aprehensión emitido por autoridad competente; y
 
-- Se ausente sin autorización de la Jueza o el Juez del lugar asignado para residir.
+- d) Se ausente sin autorización de la Jueza o el Juez del lugar asignado para residir.
 
-- La  declaratoria  de  rebeldía  no  suspenderá  la  etapa  de  investigación.  Cuando  sea declarada durante el juicio, éste se suspenderá con respecto al rebelde y continuará para los demás.
+- II. La declaratoria de rebeldía no suspenderá la etapa de investigación. Cuando sea declarada durante el juicio, éste se suspenderá con respecto al rebelde y continuará para los demás.
 
-- Cuando la persona rebelde comparezca o sea puesta a disposición de la autoridad que la requiera, el proceso continuará su trámite dejándose sin efecto las órdenes dispuestas a efectos de su comparecencia, estando exenta de pago de costas de su rebeldía. Si justifi  ca que no concurrió debido a un grave y legítimo impedimento, la rebeldía será revocada.
+- III. Cuando la persona rebelde comparezca o sea puesta a disposición de la autoridad que la requiera, el proceso continuará su trámite dejándose sin efecto las órdenes dispuestas a efectos de su comparecencia, estando exenta de pago de costas de su rebeldía. Si justifica que no concurrió debido a un grave y legítimo impedimento, la rebeldía será revocada.
 
 ###### ARTÍCULO 286. (PARTICIPACIÓN DE LA VÍCTIMA).
 
-- La víctima podrá participar en el proceso por sí sola o por intermedio de una abogada o un abogado, o mandataria o mandatario, intervenir en forma oral o escrita, y formular los recursos correspondientes cuando lo crea necesario para la defensa de sus intereses.
+- I. La víctima podrá participar en el proceso por sí sola o por intermedio de una abogada o un abogado, o mandataria o mandatario, intervenir en forma oral o escrita, y formular los recursos correspondientes cuando lo crea necesario para la defensa de sus intereses.
 
-- En caso de víctima niña, niño o adolescente, para su participación será necesaria la presencia de su madre, padre, guardadora o guardador, tutora o tutor, acompañada de un representante de la Defensoría de la Niñez y Adolescencia, y de la Unidad de Atención de Víctimas y Testigos del Ministerio Público.
+- II. En caso de víctima niña, niño o adolescente, para su participación será necesaria la presencia de su madre, padre, guardadora o guardador, tutora o tutor, acompañada de un representante de la Defensoría de la Niñez y Adolescencia, y de la Unidad de Atención de Víctimas y Testigos del Ministerio Público.
 
-- La Jueza, el Juez, la o el Fiscal y la autoridad policial, velarán por que las víctimas no sean revictimizadas.
+- III. La Jueza, el Juez, la o el Fiscal y la autoridad policial, velarán por que las víctimas no sean revictimizadas.
 
 Código Niña, Niño y Adolescente
 
@@ -3690,30 +3971,30 @@ Código Niña, Niño y Adolescente
 
 ###### ARTÍCULO 287. (APREHENSIÓN).
 
-- Sólo podrá ser aprehendida la persona adolescente en los siguientes casos:
+- I. Sólo podrá ser aprehendida la persona adolescente en los siguientes casos:
 
-- En caso de fuga, estando legalmente detenida o detenido;
+- a) En caso de fuga, estando legalmente detenida o detenido;
 
-- En caso de delito flagrante;
+- b) En caso de delito flagrante;
 
-- En cumplimiento de orden emanada por la Jueza o el Juez; y
+- c) En cumplimiento de orden emanada por la Jueza o el Juez; y
 
-- Por requerimiento Fiscal, ante su inasistencia, cuando existan suficientes indicios de  que  es  autora  o  partícipe  de  un  delito  sancionado  con  pena  privativa  de libertad cuyo mínimo legal sea igual o superior a tres (3) años o de que pudiera ocultarse,  fugarse  o  ausentarse  del  lugar,  u  obstaculizar  la  averiguación  de  la verdad.
+- d) Por requerimiento Fiscal, ante su inasistencia, cuando existan suficientes indicios de que es autora o partícipe de un delito sancionado con pena privativa de libertad cuyo mínimo legal sea igual o superior a tres (3) años o de que pudiera ocultarse, fugarse o ausentarse del lugar, u obstaculizar la averiguación de la verdad.
 
-- En caso de los incisos a) y b) del Parágrafo precedente, la autoridad policial que la o le haya aprehendido, deberá comunicar esta situación a la o el Fiscal mediante informe circunstanciado en el término de ocho (8) horas, y remitirlo a disposición del Ministerio Público. La o el Fiscal informará a la Jueza o al Juez en el plazo de veinticuatro (24) horas y presentará su imputación a fi  n que se decida su situación procesal. Asimismo, comunicará inmediatamente a la Defensoría de la Niñez y Adolescencia, Defensa Pública o abogada o abogado particular, y, si fuere posible, a su madre, padre, guardadora o guardador, tutora o tutor.
+- II. En caso de los incisos a) y b) del Parágrafo precedente, la autoridad policial que la o le haya aprehendido, deberá comunicar esta situación a la o el Fiscal mediante informe circunstanciado en el término de ocho (8) horas, y remitirlo a disposición del Ministerio Público. La o el Fiscal informará a la Jueza o al Juez en el plazo de veinticuatro (24) horas y presentará su imputación a fin que se decida su situación procesal. Asimismo, comunicará inmediatamente a la Defensoría de la Niñez y Adolescencia, Defensa Pública o abogada o abogado particular, y, si fuere posible, a su madre, padre, guardadora o guardador, tutora o tutor.
 
-- La audiencia cautelar será programada y resuelta con preferencia.
+- III. La audiencia cautelar será programada y resuelta con preferencia.
 
-- La  persona  adolescente  aprehendida,  en  ningún  caso  podrá  ser  incomunicada  o detenida  en  dependencias  policiales,  penitenciarias  o  del  Ministerio  Público  para personas adultas.
+- IV. La persona adolescente aprehendida, en ningún caso podrá ser incomunicada o detenida en dependencias policiales, penitenciarias o del Ministerio Público para personas adultas.
 
 ###### ARTÍCULO  288.  (MEDIDAS  CAUTELARES  PERSONALES).
 La  Jueza  o  el  Juez  podrá disponer razonablemente, la aplicación de una o varias de las siguientes medidas cautelares:
 
-- Obligación de presentarse ante la Jueza o Juez, con la periodicidad que esta autoridad determine;
+- a) Obligación de presentarse ante la Jueza o Juez, con la periodicidad que esta autoridad determine;
 
-- La  obligación  de  someterse  al  cuidado  de  una  persona  de  comprobada responsabilidad, que no tenga antecedentes penales;
+- b) La obligación de someterse al cuidado de una persona de comprobada responsabilidad, que no tenga antecedentes penales;
 
-- Abstenerse de concurrir  a  determinados  lugares  o  reunirse  con  determinadas personas;
+- c) Abstenerse de concurrir a determinados lugares o reunirse con determinadas personas;
 
 110
 
@@ -3721,33 +4002,33 @@ La  Jueza  o  el  Juez  podrá disponer razonablemente, la aplicación de una o 
 
 [[START OF PAGE 113]]
 
-- Abstenerse de comunicarse con determinadas personas, siempre que no afecte su derecho a la defensa;
+- d) Abstenerse de comunicarse con determinadas personas, siempre que no afecte su derecho a la defensa;
 
-- Arraigo;
+- e) Arraigo;
 
-- La obligación de permanecer en su propio domicilio, con el cuidado de su madre, padre, guardadora o guardador, tutora o tutor; y
+- f) La obligación de permanecer en su propio domicilio, con el cuidado de su madre, padre, guardadora o guardador, tutora o tutor; y
 
-- Detención preventiva.
+- g) Detención preventiva.
 
 ###### ARTÍCULO 289. (REQUISITOS PARA LA DETENCIÓN PREVENTIVA).
 
-- A  pedido  escrito  y  fundamentado  de  la  o  el  Fiscal,  podrá  la  Jueza  o  el  Juez ordenar la detención preventiva, cuando se presenten, de manera concurrente, las siguientes circunstancias:
+- I. A pedido escrito y fundamentado de la o el Fiscal, podrá la Jueza o el Juez ordenar la detención preventiva, cuando se presenten, de manera concurrente, las siguientes circunstancias:
 
-- La existencia de elementos suficientes sobre la probable participación de la o el adolescente en el hecho; y
+- a) La existencia de elementos suficientes sobre la probable participación de la o el adolescente en el hecho; y
 
-- Que exista riesgo razonable de fuga u obstaculización de la averiguación de la verdad.
+- b) Que exista riesgo razonable de fuga u obstaculización de la averiguación de la verdad.
 
-- No procederá la detención preventiva por hechos que se adecuen a delitos contra la propiedad, cuando se devuelva, restituya o recupere la cosa, o ésta no haya salido del dominio de la víctima, o el daño haya sido reparado.
+- II. No procederá la detención preventiva por hechos que se adecuen a delitos contra la propiedad, cuando se devuelva, restituya o recupere la cosa, o ésta no haya salido del dominio de la víctima, o el daño haya sido reparado.
 
-- La detención preventiva se practicará en los centros de reintegración social, en forma diferenciada  por  género  y  separada  de  adolescentes  en  cumplimiento  de  medida socio-educativa con privación de libertad, debiendo ser priorizada la celeridad de su tramitación.
+- III. La detención preventiva se practicará en los centros de reintegración social, en forma diferenciada por género y separada de adolescentes en cumplimiento de medida socio-educativa con privación de libertad, debiendo ser priorizada la celeridad de su tramitación.
 
 ###### ARTÍCULO 290. (RIESGO DE FUGA U OBSTACULIZACIÓN DE LA AVERIGUACIÓN DE LA VERDAD).
 
-- Para  decidir  acerca  de  la  concurrencia  de  peligro  de  fuga  u  obstaculización  de  la averiguación de la verdad respecto de la persona adolescente, la Jueza o el Juez realizará una  evaluación  integral  de  las  circunstancias  existentes,  pronunciándose  sobre  las siguientes:
+- I. Para decidir acerca de la concurrencia de peligro de fuga u obstaculización de la averiguación de la verdad respecto de la persona adolescente, la Jueza o el Juez realizará una evaluación integral de las circunstancias existentes, pronunciándose sobre las siguientes:
 
-- Que tenga facilidades o le puedan ser suministradas, para abandonar el país o permanecer oculto;
+- a) Que tenga facilidades o le puedan ser suministradas, para abandonar el país o permanecer oculto;
 
-- Que haya tenido durante el proceso o en otro anterior, un comportamiento que manifieste su voluntad de no someterse al mismo;
+- b) Que haya tenido durante el proceso o en otro anterior, un comportamiento que manifieste su voluntad de no someterse al mismo;
 
 Código Niña, Niño y Adolescente
 
@@ -3757,37 +4038,37 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 114]]
 
-- Que cuente con imputación o sentencia por otro delito;
+- c) Que cuente con imputación o sentencia por otro delito;
 
-- Que pueda destruir, modificar, ocultar, suprimir o falsificar elementos de prueba;
+- d) Que pueda destruir, modificar, ocultar, suprimir o falsificar elementos de prueba;
 
-- Que pueda influir negativamente o poner en peligro a alguna persona relacionada al proceso, sea autoridad, partícipe, testigo, perito, parte o tercero; y
+- e) Que pueda influir negativamente o poner en peligro a alguna persona relacionada al proceso, sea autoridad, partícipe, testigo, perito, parte o tercero; y
 
-- Que pertenezca a alguna organización criminal o a una asociación delictuosa.
+- f) Que pertenezca a alguna organización criminal o a una asociación delictuosa.
 
-- Si trabajara en el país y cooperara permanentemente en el sostenimiento de su familia, se considerará que no existe riesgo de fuga.
+- II. Si trabajara en el país y cooperara permanentemente en el sostenimiento de su familia, se considerará que no existe riesgo de fuga.
 
 ###### ARTÍCULO 291. (CESACIÓN DE LA DETENCIÓN PREVENTIVA).
 
-- La detención preventiva cesará en los siguientes casos:
+- I. La detención preventiva cesará en los siguientes casos:
 
-- Cuando nuevos elementos de juicio demuestren que no concurren los motivos que la fundaron o tornen conveniente su sustitución por otra medida;
+- a) Cuando nuevos elementos de juicio demuestren que no concurren los motivos que la fundaron o tornen conveniente su sustitución por otra medida;
 
-- Cuando su duración exceda el mínimo legal del tiempo que podría corresponderle en régimen abierto, de acuerdo a la proporcionalidad por la pena establecida para el delito que se juzga;
+- b) Cuando su duración exceda el mínimo legal del tiempo que podría corresponderle en régimen abierto, de acuerdo a la proporcionalidad por la pena establecida para el delito que se juzga;
 
-- Cuando su duración exceda de cuarenta y cinco (45) días sin acusación Fiscal, o de noventa (90) días, en caso de pluralidad de personas adolescentes imputadas, contados a partir de la notificación con la imputación a la persona adolescente; y
+- c) Cuando su duración exceda de cuarenta y cinco (45) días sin acusación Fiscal, o de noventa (90) días, en caso de pluralidad de personas adolescentes imputadas, contados a partir de la notificación con la imputación a la persona adolescente; y
 
-- Cuando su duración exceda de tres (3) meses sin sentencia en primera instancia, o de seis (6) meses en caso de pluralidad de personas adolescentes imputadas, contados a partir de la notificación con la imputación a la persona adolescente.
+- d) Cuando su duración exceda de tres (3) meses sin sentencia en primera instancia, o de seis (6) meses en caso de pluralidad de personas adolescentes imputadas, contados a partir de la notificación con la imputación a la persona adolescente.
 
-- Vencidos los plazos previstos en los incisos b) y c) del presente Artículo, la Jueza o el Juez aplicará otras medidas previstas en este Código.
+- II. Vencidos los plazos previstos en los incisos b) y c) del presente Artículo, la Jueza o el Juez aplicará otras medidas previstas en este Código.
 
 ### CAPÍTULO III INVESTIGACIÓN
 
 ###### ARTÍCULO 292. (CÓMPUTO DE PLAZOS).
 
-- Los plazos son improrrogables y perentorios, corren al día hábil siguiente de practicada la notifi  cación y vencen el último día hábil señalado.
+- I. Los plazos son improrrogables y perentorios, corren al día hábil siguiente de practicada la notificación y vencen el último día hábil señalado.
 
-- La  parte  en  cuyo  favor  se  estableció  un  plazo,  podrá  renunciar  o  abreviar  el  mismo mediante manifestación expresa.
+- II. La parte en cuyo favor se estableció un plazo, podrá renunciar o abreviar el mismo mediante manifestación expresa.
 
 112
 
@@ -3797,18 +4078,18 @@ Código Niña, Niño y Adolescente
 
 ###### ARTÍCULO 293. (IMPUTACIÓN FISCAL).
 
-- Cuando  la  o  el  Fiscal  considere  que  existen  indicios  sufi  cientes  sobre  la  existencia del hecho y la participación de la persona adolescente en el Sistema Penal, mediante resolución fundamentada imputará por el delito cometido y solicitará a la Jueza o al Juez resuelva la situación procesal y aplique las medidas cautelares que correspondan, a fi  n de asegurar su presencia en el proceso penal.
+- I. Cuando la o el Fiscal considere que existen indicios suficientes sobre la existencia del hecho y la participación de la persona adolescente en el Sistema Penal, mediante resolución fundamentada imputará por el delito cometido y solicitará a la Jueza o al Juez resuelva la situación procesal y aplique las medidas cautelares que correspondan, a fin de asegurar su presencia en el proceso penal.
 
-- La etapa investigativa a cargo de la o el Fiscal, no deberá ser mayor a los cuarenta y cinco (45) días, contados a partir de la presentación de la denuncia en sede policial o fi  scal. En caso de pluralidad de personas adolescentes imputadas el plazo máximo de la etapa investigativa no excederá de los noventa (90) días.
+- II. La etapa investigativa a cargo de la o el Fiscal, no deberá ser mayor a los cuarenta y cinco (45) días, contados a partir de la presentación de la denuncia en sede policial o fiscal. En caso de pluralidad de personas adolescentes imputadas el plazo máximo de la etapa investigativa no excederá de los noventa (90) días.
 
 ###### ARTÍCULO 294. (ELEMENTOS DE CONVICCIÓN Y VALORACIÓN).
 
-- La  Jueza  o  el  Juez  admitirá  como  medios  de  prueba  todos  los  elementos  lícitos  de convicción que puedan conducir al conocimiento de la verdad histórica del hecho, de la responsabilidad y de la personalidad de la persona adolescente imputada, pudiendo ordenar la producción de prueba extraordinaria.
+- I. La Jueza o el Juez admitirá como medios de prueba todos los elementos lícitos de convicción que puedan conducir al conocimiento de la verdad histórica del hecho, de la responsabilidad y de la personalidad de la persona adolescente imputada, pudiendo ordenar la producción de prueba extraordinaria.
 
-- La Jueza o el Juez valorará la prueba, aplicando las reglas de la sana crítica, justifi  cando y  fundamentando adecuadamente las razones por las cuales les otorga determinado valor, en base a la apreciación conjunta y armónica de toda la prueba producida.
+- II. La Jueza o el Juez valorará la prueba, aplicando las reglas de la sana crítica, justificando y fundamentando adecuadamente las razones por las cuales les otorga determinado valor, en base a la apreciación conjunta y armónica de toda la prueba producida.
 
 ###### ARTÍCULO 295. (EXCLUSIONES PROBATORIAS).
-Carecerán de toda efi  cacia probatoria los actos que vulneren derechos y garantías consagradas en la Constitución Política del Estado, en las Convenciones y Tratados Internacionales, en este Código y en otras leyes del Estado, así como los elementos probatorios obtenidos por medios ilícitos.
+Carecerán de toda eficacia probatoria los actos que vulneren derechos y garantías consagradas en la Constitución Política del Estado, en las Convenciones y Tratados Internacionales, en este Código y en otras leyes del Estado, así como los elementos probatorios obtenidos por medios ilícitos.
 
 ### CAPÍTULO IV FINALIZACIÓN DE LA INVESTIGACIÓN
 
@@ -3817,11 +4098,11 @@ Carecerán de toda efi  cacia probatoria los actos que vulneren derechos y garan
 ###### ARTÍCULO 296. (REQUERIMIENTOS CONCLUSIVOS).
 Finalizada la investigación, la o el Fiscal presentará los siguientes requerimientos conclusivos:
 
-- Aplicación de la remisión, acompañada de mecanismos de justicia restaurativa;
+- a) Aplicación de la remisión, acompañada de mecanismos de justicia restaurativa;
 
-- Aplicación  de  la  salida  alternativa,  acompañada  de  mecanismos  de  justicia restaurativa;
+- b) Aplicación de la salida alternativa, acompañada de mecanismos de justicia restaurativa;
 
-- Acusación;
+- c) Acusación;
 
 Código Niña, Niño y Adolescente
 
@@ -3831,38 +4112,38 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 116]]
 
-- Sobreseimiento;
+- d) Sobreseimiento;
 
-- Rechazo;
+- e) Rechazo;
 
-- Desestimación; y
+- f) Desestimación; y
 
-- Terminación anticipada del proceso.
+- g) Terminación anticipada del proceso.
 
 ###### ARTÍCULO 297. (RESOLUCIONES JURISDICCIONALES CONCLUSIVAS).
-La  Jueza  o Juez,  luego  de  las  exposiciones  de  las  partes,  resolverá  en  el  acto  y  en  un  solo  auto,  todas  las cuestiones planteadas y según corresponda determinará:
+La Jueza o Juez, luego de las exposiciones de las partes, resolverá en el acto y en un solo auto, todas las cuestiones planteadas y según corresponda determinará:
 
-- Disponer la aplicación de la remisión, cuando no la haya requerido la o el Fiscal;
+- a) Disponer la aplicación de la remisión, cuando no la haya requerido la o el Fiscal;
 
-- Disponer la aplicación de la salida alternativa;
+- b) Disponer la aplicación de la salida alternativa;
 
-- Dictar sentencia en juicio oral;
+- c) Dictar sentencia en juicio oral;
 
-- Aprobar el sobreseimiento, siempre que fuera procedente; y
+- d) Aprobar el sobreseimiento, siempre que fuera procedente; y
 
-- Aprobar la terminación anticipada del proceso.
+- e) Aprobar la terminación anticipada del proceso.
 
 #### SECCIÓN II REMISIÓN
 
 ###### ARTÍCULO 298. (ALCANCE DE LA REMISIÓN).
 
-- Es la medida de desjudicialización por la cual se excluye a la persona adolescente del proceso judicial, con el fi  n de evitar los efectos negativos que éste pudiera ocasionar a su desarrollo integral.
+- I. Es la medida de desjudicialización por la cual se excluye a la persona adolescente del proceso judicial, con el fin de evitar los efectos negativos que éste pudiera ocasionar a su desarrollo integral.
 
-- La  remisión  no  implica  necesariamente  el  reconocimiento  o  comprobación  de  la responsabilidad sobre el hecho, no pudiendo considerarse como antecedente penal; sin embargo, deberá aplicarse sólo cuando se disponga de elementos sufi  cientes que hagan presumir que la o el adolescente ha cometido el delito del que se le acusa.
+- II. La remisión no implica necesariamente el reconocimiento o comprobación de la responsabilidad sobre el hecho, no pudiendo considerarse como antecedente penal; sin embargo, deberá aplicarse sólo cuando se disponga de elementos suficientes que hagan presumir que la o el adolescente ha cometido el delito del que se le acusa.
 
-- La víctima podrá solicitar la revisión de la resolución de la remisión ante la o el Fiscal que la dictó, en el plazo de cinco (5) días a partir de su notifi  cación, quien remitirá antecedentes al Fiscal Departamental, dentro el plazo de un (1) día.
+- III. La víctima podrá solicitar la revisión de la resolución de la remisión ante la o el Fiscal que la dictó, en el plazo de cinco (5) días a partir de su notificación, quien remitirá antecedentes al Fiscal Departamental, dentro el plazo de un (1) día.
 
-- El  Fiscal  Departamental, dentro de los cinco (5) días siguientes a la recepción de la solicitud de revisión, determinará la revocatoria o ratifi  cación de la remisión. Si dispone la revocatoria ordenará la prosecución de la causa y en caso de ratifi  cación, el archivo de obrados.
+- IV. El Fiscal Departamental, dentro de los cinco (5) días siguientes a la recepción de la solicitud de revisión, determinará la revocatoria o ratificación de la remisión. Si dispone la revocatoria ordenará la prosecución de la causa y en caso de ratificación, el archivo de obrados.
 
 114
 
@@ -3872,27 +4153,27 @@ La  Jueza  o Juez,  luego  de  las  exposiciones  de  las  partes,  resolverá  
 
 ###### ARTÍCULO 299. (APLICACIÓN DE LA REMISIÓN).
 
-- La remisión solamente podrá aplicarse cuando el delito tenga una pena máxima privativa de libertad hasta cinco (5) años establecida en la Ley Penal, y exista el consentimiento y  voluntad  de  la  persona  adolescente  con  responsabilidad  penal,  así  como  de  su madre, padre, guardadora o guardador, tutora o tutor, de someterse a la remisión y a un mecanismo de justicia restaurativa.
+- I. La remisión solamente podrá aplicarse cuando el delito tenga una pena máxima privativa de libertad hasta cinco (5) años establecida en la Ley Penal, y exista el consentimiento y voluntad de la persona adolescente con responsabilidad penal, así como de su madre, padre, guardadora o guardador, tutora o tutor, de someterse a la remisión y a un mecanismo de justicia restaurativa.
 
-- La o el Fiscal, a partir de la toma de la declaración de la persona adolescente podrá disponer la remisión, previo informe psico-social de la Instancia Técnica Departamental de Política Social.
+- II. La o el Fiscal, a partir de la toma de la declaración de la persona adolescente podrá disponer la remisión, previo informe psico-social de la Instancia Técnica Departamental de Política Social.
 
-- Si  la  o  el  Fiscal  no  requiriera  la  remisión,  la  defensora  o  defensor  de  la  persona  adolescente podrán solicitar su aplicación a la Jueza o al Juez, quien podrá disponerla aun cuando la o el Fiscal haya presentado acusación, ordenando en su caso la realización de las diligencias necesarias.
+- III. Si la o el Fiscal no requiriera la remisión, la defensora o defensor de la persona adolescente podrán solicitar su aplicación a la Jueza o al Juez, quien podrá disponerla aun cuando la o el Fiscal haya presentado acusación, ordenando en su caso la realización de las diligencias necesarias.
 
 ###### ARTÍCULO  300.  (SEGUIMIENTO  AL  CUMPLIMIENTO  DE  LOS  MECANISMOS  DE JUSTICIA RESTAURATIVA EN LA REMISIÓN).
 
-- Los mecanismos establecidos podrán ser revisados por la Jueza, el Juez o la o el Fiscal en base al informe del equipo interdisciplinario de la Instancia Técnica Departamental de Política Social.
+- I. Los mecanismos establecidos podrán ser revisados por la Jueza, el Juez o la o el Fiscal en base al informe del equipo interdisciplinario de la Instancia Técnica Departamental de Política Social.
 
-- Al cumplimiento de los mecanismos de justicia restaurativa, que no deberán exceder de seis (6) meses computables a partir de su aplicación, la Jueza, el Juez, la o el Fiscal que haya otorgado la remisión, declarará el cierre defi  nitivo de la causa.
+- II. Al cumplimiento de los mecanismos de justicia restaurativa, que no deberán exceder de seis (6) meses computables a partir de su aplicación, la Jueza, el Juez, la o el Fiscal que haya otorgado la remisión, declarará el cierre definitivo de la causa.
 
-- En caso de incumplimiento grave y reiterado, se podrá disponer la revocatoria de la remisión y la prosecución de la causa.
+- III. En caso de incumplimiento grave y reiterado, se podrá disponer la revocatoria de la remisión y la prosecución de la causa.
 
 #### SECCIÓN III SALIDAS ALTERNATIVAS
 
 ###### ARTÍCULO 301. (ALCANCE DE LA CONCILIACIÓN).
 
-- La conciliación es la salida alternativa al proceso, a través de la cual se soluciona el confl  icto, que puede realizarse hasta antes de pronunciarse la sentencia.
+- I. La conciliación es la salida alternativa al proceso, a través de la cual se soluciona el conflicto, que puede realizarse hasta antes de pronunciarse la sentencia.
 
-- A fi  n de promover la conciliación, la Jueza, el Juez, la o el Fiscal deberán convocar a una audiencia con la presencia de la persona adolescente con responsabilidad penal, su madre, padre, guardadora o guardador, tutora o tutor, la víctima o su representante legal, la abogada o el abogado de la Defensoría de la Niñez y Adolescencia, sin la presencia de la abogada o el abogado particular de las partes.
+- II. A fin de promover la conciliación, la Jueza, el Juez, la o el Fiscal deberán convocar a una audiencia con la presencia de la persona adolescente con responsabilidad penal, su madre, padre, guardadora o guardador, tutora o tutor, la víctima o su representante legal, la abogada o el abogado de la Defensoría de la Niñez y Adolescencia, sin la presencia de la abogada o el abogado particular de las partes.
 
 Código Niña, Niño y Adolescente
 
@@ -3902,31 +4183,31 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 118]]
 
-- El acta de conciliación contemplará las obligaciones establecidas y, en su caso, el plazo para su cumplimiento, mediante el cual se plantee reparar el daño causado a la víctima en su integralidad, para lo que la Jueza o el Juez dispondrá el acompañamiento de los mecanismos de justicia restaurativa, los cuales tendrán una duración máxima de seis (6) meses.
+- III. El acta de conciliación contemplará las obligaciones establecidas y, en su caso, el plazo para su cumplimiento, mediante el cual se plantee reparar el daño causado a la víctima en su integralidad, para lo que la Jueza o el Juez dispondrá el acompañamiento de los mecanismos de justicia restaurativa, los cuales tendrán una duración máxima de seis (6) meses.
 
-- La resolución que aprueba el acta de conciliación promovida por la o el Fiscal, podrá ser revocada si se tratara de los casos de improcedencia establecida por Ley.
+- IV. La resolución que aprueba el acta de conciliación promovida por la o el Fiscal, podrá ser revocada si se tratara de los casos de improcedencia establecida por Ley.
 
 ###### ARTÍCULO 302. (REPARACIÓN DEL DAÑO).
 
-- La reparación integral del daño causado, es la salida alternativa a través de la cual se soluciona el confl  icto, que puede realizarse hasta antes de pronunciarse la sentencia, en los delitos de contenido patrimonial o en los delitos culposos que no tengan por resultado la muerte, siempre que lo admita la víctima o la o el Fiscal, según el caso, con la consiguiente declaratoria de extinción de la acción penal, a cargo de la Jueza o el Juez.
+- I. La reparación integral del daño causado, es la salida alternativa a través de la cual se soluciona el conflicto, que puede realizarse hasta antes de pronunciarse la sentencia, en los delitos de contenido patrimonial o en los delitos culposos que no tengan por resultado la muerte, siempre que lo admita la víctima o la o el Fiscal, según el caso, con la consiguiente declaratoria de extinción de la acción penal, a cargo de la Jueza o el Juez.
 
-- En los casos en que la reparación del daño sea procedente mediante conciliación, la misma será establecida mediante acuerdo suscrito entre partes contemplado en el acta de conciliación.
+- II. En los casos en que la reparación del daño sea procedente mediante conciliación, la misma será establecida mediante acuerdo suscrito entre partes contemplado en el acta de conciliación.
 
-- La  Jueza  o  el  Juez  dispondrá  el  acompañamiento  de  los  mecanismos  de  justicia restaurativa, los cuales tendrán una duración máxima de seis (6) meses.
+- III. La Jueza o el Juez dispondrá el acompañamiento de los mecanismos de justicia restaurativa, los cuales tendrán una duración máxima de seis (6) meses.
 
 ###### ARTÍCULO  303.  (SEGUIMIENTO  AL  CUMPLIMIENTO  DE  LOS  MECANISMOS  DE JUSTICIA RESTAURATIVA).
 
-- Los  mecanismos  establecidos  en  la  aplicación  de  salidas  alternativas,  podrán  ser  revisados por la Jueza, el Juez o la o el Fiscal en base al informe del equipo interdisciplinario de la Instancia Técnica Departamental de Política Social.
+- I. Los mecanismos establecidos en la aplicación de salidas alternativas, podrán ser revisados por la Jueza, el Juez o la o el Fiscal en base al informe del equipo interdisciplinario de la Instancia Técnica Departamental de Política Social.
 
-- Al cumplimiento de los mecanismos de justicia restaurativa, la Jueza o el Juez declarará la extinción de la acción penal.
+- II. Al cumplimiento de los mecanismos de justicia restaurativa, la Jueza o el Juez declarará la extinción de la acción penal.
 
 #### SECCIÓN IV OTROS REQUERIMIENTOS CONCLUSIVOS
 
 ###### ARTÍCULO 304. (ACUSACIÓN).
 
-- La o el Fiscal presentará ante la Jueza o el Juez, la acusación si estima que la investigación proporciona fundamento para el enjuiciamiento público de la persona adolescente con responsabilidad penal.
+- I. La o el Fiscal presentará ante la Jueza o el Juez, la acusación si estima que la investigación proporciona fundamento para el enjuiciamiento público de la persona adolescente con responsabilidad penal.
 
-- La acusación contendrá:
+- II. La acusación contendrá:
 
 116
 
@@ -3934,45 +4215,45 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 119]]
 
-- Los datos que sirvan para identificarla y su domicilio procesal;
+- a) Los datos que sirvan para identificarla y su domicilio procesal;
 
-- La relación precisa y circunstanciada del hecho atribuido;
+- b) La relación precisa y circunstanciada del hecho atribuido;
 
-- La  fundamentación  de  la  acusación,  con  la  expresión  de  los  elementos    de convicción que la motivan;
+- c) La fundamentación de la acusación, con la expresión de los elementos de convicción que la motivan;
 
-- Los preceptos jurídicos aplicables; y
+- d) Los preceptos jurídicos aplicables; y
 
-- El ofrecimiento de la prueba que se introducirá en el juicio.
+- e) El ofrecimiento de la prueba que se introducirá en el juicio.
 
 ###### ARTÍCULO 305. (SOBRESEIMIENTO).
 
-- La o el Fiscal, de acuerdo con el resultado de la investigación y no encontrando sufi  cientes indicios de responsabilidad, dispondrá el sobreseimiento y archivo de obrados.
+- I. La o el Fiscal, de acuerdo con el resultado de la investigación y no encontrando suficientes indicios de responsabilidad, dispondrá el sobreseimiento y archivo de obrados.
 
-- El sobreseimiento procederá cuando:
+- II. El sobreseimiento procederá cuando:
 
-- Resulte evidente que el hecho no existió;
+- a) Resulte evidente que el hecho no existió;
 
-- El hecho no constituya delito;
+- b) El hecho no constituya delito;
 
-- La persona adolescente con responsabilidad penal no participó en el hecho; y
+- c) La persona adolescente con responsabilidad penal no participó en el hecho; y
 
-- Los fundamentos de prueba no son suficientes para fundamentar la acusación.
+- d) Los fundamentos de prueba no son suficientes para fundamentar la acusación.
 
 ###### ARTÍCULO 306. (RECHAZO).
 
-- La o el Fiscal podrá rechazar la denuncia cuando:
+- I. La o el Fiscal podrá rechazar la denuncia cuando:
 
-- El hecho no haya existido, no esté tipificado como delito o la persona adolescente no haya participado en él;
+- a) El hecho no haya existido, no esté tipificado como delito o la persona adolescente no haya participado en él;
 
-- No se haya podido individualizar al sujeto activo;
+- b) No se haya podido individualizar al sujeto activo;
 
-- La  investigación  no  haya  aportado  elementos  suficientes  para  fundar  una imputación; y
+- c) La investigación no haya aportado elementos suficientes para fundar una imputación; y
 
-- Existan obstáculos legales para el desarrollo del proceso.
+- d) Existan obstáculos legales para el desarrollo del proceso.
 
-- En los casos previstos en los incisos b), c) y d) del Parágrafo precedente, la resolución no podrá ser modifi  cada mientras no varíen las circunstancias que la fundamentan o se mantenga el obstáculo que impide el desarrollo del proceso.
+- II. En los casos previstos en los incisos b), c) y d) del Parágrafo precedente, la resolución no podrá ser modificada mientras no varíen las circunstancias que la fundamentan o se mantenga el obstáculo que impide el desarrollo del proceso.
 
-- La víctima podrá impugnar la resolución de rechazo en el plazo de cinco (5) días hábiles a partir de su notifi  cación, ante la o el Fiscal que la dictó, quien remitirá antecedentes
+- III. La víctima podrá impugnar la resolución de rechazo en el plazo de cinco (5) días hábiles a partir de su notificación, ante la o el Fiscal que la dictó, quien remitirá antecedentes
 
 Código Niña, Niño y Adolescente
 
@@ -3982,27 +4263,27 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 120]]
 
-a la o el Fiscal Departamental, en el plazo de un (1) día. La o el Fiscal Departamental, dentro de los diez (10) días siguientes a la recepción de las actuaciones, determinará la revocatoria o ratifi  cación del rechazo. Si dispone la revocatoria ordenará la continuación de la investigación y en caso de ratifi  cación el archivo de obrados, sin lugar a conversión de acciones.
+a la o el Fiscal Departamental, en el plazo de un (1) día. La o el Fiscal Departamental, dentro de los diez (10) días siguientes a la recepción de las actuaciones, determinará la revocatoria o ratificación del rechazo. Si dispone la revocatoria ordenará la continuación de la investigación y en caso de ratificación el archivo de obrados, sin lugar a conversión de acciones.
 
 ###### ARTÍCULO 307. (DESESTIMACIÓN).
 
-- Cuando la denuncia sea manifi  estamente improcedente, cuando el hecho denunciado no constituya delito o corresponda ser sustanciado por otra vía, la o el Fiscal la desestimará sin necesidad de abrir el proceso investigativo.
+- I. Cuando la denuncia sea manifiestamente improcedente, cuando el hecho denunciado no constituya delito o corresponda ser sustanciado por otra vía, la o el Fiscal la desestimará sin necesidad de abrir el proceso investigativo.
 
-- Las partes podrán solicitar revisión de la resolución de desestimación, en el plazo de cinco (5) días a partir de su notifi  cación, ante la o el Fiscal que la dictó, quien remitirá antecedentes a la o el Fiscal Departamental, en el plazo de un (1) día.
+- II. Las partes podrán solicitar revisión de la resolución de desestimación, en el plazo de cinco (5) días a partir de su notificación, ante la o el Fiscal que la dictó, quien remitirá antecedentes a la o el Fiscal Departamental, en el plazo de un (1) día.
 
-- La o el Fiscal Departamental, dentro de los cinco (5) días siguientes a la recepción de la solicitud de revisión, determinará la revocatoria o ratifi  cación de la desestimación. Si dispone la revocatoria ordenará la apertura de la investigación y en caso de ratifi  cación, el archivo de obrados.
+- III. La o el Fiscal Departamental, dentro de los cinco (5) días siguientes a la recepción de la solicitud de revisión, determinará la revocatoria o ratificación de la desestimación. Si dispone la revocatoria ordenará la apertura de la investigación y en caso de ratificación, el archivo de obrados.
 
 ###### ARTÍCULO 308. (TERMINACIÓN ANTICIPADA).
 
-- Reunidos  los  elementos  de  convicción  sufi  cientes  para  sustentar  una  acusación,  así como en casos de fl  agrancia, la o el Fiscal a petición de la persona adolescente con responsabilidad penal y de su abogada o abogado, podrá solicitar a la Jueza o al Juez, en su requerimiento conclusivo, la aplicación de la terminación anticipada del proceso, con base en el reconocimiento voluntario de la participación en el hecho y el consentimiento de someterse a la tramitación anticipada bajo una medida socio-educativa atenuada.
+- I. Reunidos los elementos de convicción suficientes para sustentar una acusación, así como en casos de flagrancia, la o el Fiscal a petición de la persona adolescente con responsabilidad penal y de su abogada o abogado, podrá solicitar a la Jueza o al Juez, en su requerimiento conclusivo, la aplicación de la terminación anticipada del proceso, con base en el reconocimiento voluntario de la participación en el hecho y el consentimiento de someterse a la tramitación anticipada bajo una medida socio-educativa atenuada.
 
-- La concurrencia en el proceso de varias personas adolescentes en el Sistema Penal, no impedirá la aplicación de la terminación anticipada del proceso a alguno de ellos.
+- II. La concurrencia en el proceso de varias personas adolescentes en el Sistema Penal, no impedirá la aplicación de la terminación anticipada del proceso a alguno de ellos.
 
-- En audiencia oral, la Jueza o el Juez escuchará a la o el Fiscal, a la persona adolescente en el Sistema Penal, a la víctima, previa comprobación de los requisitos señalados para la procedencia.
+- III. En audiencia oral, la Jueza o el Juez escuchará a la o el Fiscal, a la persona adolescente en el Sistema Penal, a la víctima, previa comprobación de los requisitos señalados para la procedencia.
 
-- Concedida la terminación anticipada del proceso, la medida socio-educativa no podrá superar la requerida por la o el Fiscal.
+- IV. Concedida la terminación anticipada del proceso, la medida socio-educativa no podrá superar la requerida por la o el Fiscal.
 
-- La Jueza o el Juez podrá negar la aplicación de la terminación anticipada si considera que  el  juicio  oral  permitirá  un  mejor  conocimiento  de  los  hechos,  apartándose  del conocimiento de la causa, caso en el que la Jueza o el Juez o tribunal que conociere posteriormente del proceso, no podrá fundar la medida socio-educativa en la admisión de los hechos formulados para este trámite.
+- V. La Jueza o el Juez podrá negar la aplicación de la terminación anticipada si considera que el juicio oral permitirá un mejor conocimiento de los hechos, apartándose del conocimiento de la causa, caso en el que la Jueza o el Juez o tribunal que conociere posteriormente del proceso, no podrá fundar la medida socio-educativa en la admisión de los hechos formulados para este trámite.
 
 118
 
@@ -4015,29 +4296,29 @@ a la o el Fiscal Departamental, en el plazo de un (1) día. La o el Fiscal Depar
 ###### ARTÍCULO 309. (PREPARACIÓN DEL JUICIO ORAL).
 La Jueza o el Juez en el plazo de un (1) día de recibida la acusación, radicará la causa y ordenará:
 
-- La  elaboración  de  un  informe  de  homologación  y/o  complementación  y/o actualización, al equipo profesional interdisciplinario del Juzgado, de los informes bio-psico-sociales y/o psico-sociales que cursarán en antecedentes, en el plazo de cinco (5) días hábiles;
+- a) La elaboración de un informe de homologación y/o complementación y/o actualización, al equipo profesional interdisciplinario del Juzgado, de los informes bio-psico-sociales y/o psico-sociales que cursarán en antecedentes, en el plazo de cinco (5) días hábiles;
 
-- La notificación a la persona adolescente, con la acusación, para que dentro de los cinco (5) días hábiles siguientes a su notificación, ofrezca sus pruebas de descargo;
+- b) La notificación a la persona adolescente, con la acusación, para que dentro de los cinco (5) días hábiles siguientes a su notificación, ofrezca sus pruebas de descargo;
 
-- Al término de este plazo, dictará auto de apertura de juicio señalando día y hora de su celebración dentro de los diez (10) días siguientes; y
+- c) Al término de este plazo, dictará auto de apertura de juicio señalando día y hora de su celebración dentro de los diez (10) días siguientes; y
 
-- Se notificará en el plazo de dos (2) días siguientes a las partes, a los testigos, peritos  e  intérpretes,  de  ser  necesario  se  dispondrá  toda  medida  para  la organización y desarrollo del juicio oral.
+- d) Se notificará en el plazo de dos (2) días siguientes a las partes, a los testigos, peritos e intérpretes, de ser necesario se dispondrá toda medida para la organización y desarrollo del juicio oral.
 
 ###### ARTÍCULO 310. (RESERVA).
 
-- El juicio oral deberá celebrarse a puerta cerrada, excepcionalmente en forma abierta, mediante  resolución  escrita  y  fundamentada  adoptando  las  medidas  para  evitar  el registro de la identidad e imagen de la o el adolescente, por ningún medio.
+- I. El juicio oral deberá celebrarse a puerta cerrada, excepcionalmente en forma abierta, mediante resolución escrita y fundamentada adoptando las medidas para evitar el registro de la identidad e imagen de la o el adolescente, por ningún medio.
 
-- El registro del juicio se realizará mediante acta escrita, que como parte del expediente estará sujeta a la confi  dencialidad y reserva dispuesta por éste Código.
+- II. El registro del juicio se realizará mediante acta escrita, que como parte del expediente estará sujeta a la confidencialidad y reserva dispuesta por éste Código.
 
 ###### ARTÍCULO 311. (AUDIENCIA DE JUICIO).
 
-- Iniciada la audiencia, la o el Fiscal y la defensa de la persona adolescente, en ese orden, expondrán sus pretensiones en forma oral, precisa, ordenada y clara.
+- I. Iniciada la audiencia, la o el Fiscal y la defensa de la persona adolescente, en ese orden, expondrán sus pretensiones en forma oral, precisa, ordenada y clara.
 
-- Todas las excepciones e incidentes deberán presentarse verbalmente en la audiencia de juicio y oída la parte contraria, se resolverán en la sentencia.
+- II. Todas las excepciones e incidentes deberán presentarse verbalmente en la audiencia de juicio y oída la parte contraria, se resolverán en la sentencia.
 
-- Interpuestas y contestadas la excepciones e incidentes, se proseguirá con la audiencia y se producirá en su turno toda la prueba ofrecida.
+- III. Interpuestas y contestadas la excepciones e incidentes, se proseguirá con la audiencia y se producirá en su turno toda la prueba ofrecida.
 
-- Seguidamente,  el  equipo  profesional  interdisciplinario  presentará  en  forma  oral  su informe técnico, se recibirá el dictamen Fiscal, y se escuchará a la persona adolescente.
+- IV. Seguidamente, el equipo profesional interdisciplinario presentará en forma oral su informe técnico, se recibirá el dictamen Fiscal, y se escuchará a la persona adolescente.
 
 Código Niña, Niño y Adolescente
 
@@ -4049,33 +4330,33 @@ Código Niña, Niño y Adolescente
 
 Inmediatamente  después  de  agotada  la  producción  de  la  prueba  y  las  alegaciones correspondientes, la Jueza o el Juez dictará sentencia en la misma audiencia observando las reglas de la sana crítica, pudiendo postergar, únicamente su fundamentación para el día siguiente.
 
-- Iniciado el juicio, éste se realizará sin interrupción todos los días hábiles hasta que se dicte la sentencia, debiendo en caso necesario habilitarse horas extraordinarias hasta fi  nalizarlo en un plazo máximo de cinco (5) días hábiles, que podrán ser ampliados por un período similar por razones debidamente fundamentadas.
+- V. Iniciado el juicio, éste se realizará sin interrupción todos los días hábiles hasta que se dicte la sentencia, debiendo en caso necesario habilitarse horas extraordinarias hasta finalizarlo en un plazo máximo de cinco (5) días hábiles, que podrán ser ampliados por un período similar por razones debidamente fundamentadas.
 
 ###### ARTÍCULO 312. (SENTENCIA).
 
-- La Jueza o el Juez dictará sentencia absolutoria o condenatoria y aplicará, en su caso, las medidas socio-educativas establecidas.
+- I. La Jueza o el Juez dictará sentencia absolutoria o condenatoria y aplicará, en su caso, las medidas socio-educativas establecidas.
 
-- No se podrá aplicar una medida socio-educativa por un hecho distinto e incongruente al atribuido en la acusación.
+- II. No se podrá aplicar una medida socio-educativa por un hecho distinto e incongruente al atribuido en la acusación.
 
-- En  caso  de  que  la  persona  adolescente  se  encuentre  detenida  preventivamente,  de pronunciarse su absolución, será puesta en libertad en forma inmediata.
+- III. En caso de que la persona adolescente se encuentre detenida preventivamente, de pronunciarse su absolución, será puesta en libertad en forma inmediata.
 
 ### CAPÍTULO VI RECURSOS
 
 ###### ARTÍCULO 313. (REPOSICIÓN).
 
-- El recurso de reposición procederá solamente contra las providencias de mero trámite, a fi  n de que la misma autoridad judicial, advertida de su error, las revoque o modifi  que.
+- I. El recurso de reposición procederá solamente contra las providencias de mero trámite, a fin de que la misma autoridad judicial, advertida de su error, las revoque o modifique.
 
-- Este recurso se interpondrá por escrito, dentro el plazo de un (1) día de notifi  cada la providencia al recurrente, y verbalmente cuando sea interpuesto en las audiencias. La Jueza, el Juez o tribunal deberá resolverlo sin sustanciación en el mismo plazo o en el mismo acto si se plantea en audiencia.
+- II. Este recurso se interpondrá por escrito, dentro el plazo de un (1) día de notificada la providencia al recurrente, y verbalmente cuando sea interpuesto en las audiencias. La Jueza, el Juez o tribunal deberá resolverlo sin sustanciación en el mismo plazo o en el mismo acto si se plantea en audiencia.
 
 ###### ARTÍCULO 314. (APELACIÓN INCIDENTAL).
 
-- I . El recurso de apelación incidental procederá contra las siguientes resoluciones:
+- I. El recurso de apelación incidental procederá contra las siguientes resoluciones:
 
-- Sobre medidas cautelares o su sustitución o el sobreseimiento;
+- a) Sobre medidas cautelares o su sustitución o el sobreseimiento;
 
-- La que niegue o revoque la solicitud de ampliación de la investigación en casos relacionados  a  organizaciones  criminales,  asociaciones  delictuosas  o  delitos complejos; y
+- b) La que niegue o revoque la solicitud de ampliación de la investigación en casos relacionados a organizaciones criminales, asociaciones delictuosas o delitos complejos; y
 
-- Las que se dicten en ejecución de sentencia.
+- c) Las que se dicten en ejecución de sentencia.
 
 120
 
@@ -4083,35 +4364,35 @@ Inmediatamente  después  de  agotada  la  producción  de  la  prueba  y  las  
 
 [[START OF PAGE 123]]
 
-- El recurso se interpondrá por escrito, debidamente fundamentado, ante la Jueza o el Juez que dictó la resolución, dentro de los tres (3) días de notifi  cada la misma al recurrente.
+- II. El recurso se interpondrá por escrito, debidamente fundamentado, ante la Jueza o el Juez que dictó la resolución, dentro de los tres (3) días de notificada la misma al recurrente.
 
-- Con la respuesta al traslado o vencido el plazo para hacerlo, el recurso será elevado a consideración del Tribunal Departamental de Justicia, que lo resolverá por escrito en el plazo de cinco (5) días, a contar desde la radicatoria del proceso.
+- III. Con la respuesta al traslado o vencido el plazo para hacerlo, el recurso será elevado a consideración del Tribunal Departamental de Justicia, que lo resolverá por escrito en el plazo de cinco (5) días, a contar desde la radicatoria del proceso.
 
 ###### ARTÍCULO 315. (APELACIÓN DE SENTENCIA).
 
-- El  recurso  de  apelación  de  sentencia  será  interpuesto  por  inobservancia  o  errónea aplicación  de  la  Ley.  Cuando  el  precepto  legal  que  se  invoque  como  inobservado  o erróneamente aplicado constituya un defecto del procedimiento, el recurso sólo será admisible si el interesado ha reclamado oportunamente su saneamiento o ha efectuado reserva de recurrir, salvo en los casos de nulidad absoluta o cuando se trate de los vicios de la sentencia.
+- I. El recurso de apelación de sentencia será interpuesto por inobservancia o errónea aplicación de la Ley. Cuando el precepto legal que se invoque como inobservado o erróneamente aplicado constituya un defecto del procedimiento, el recurso sólo será admisible si el interesado ha reclamado oportunamente su saneamiento o ha efectuado reserva de recurrir, salvo en los casos de nulidad absoluta o cuando se trate de los vicios de la sentencia.
 
-- Los defectos de la sentencia que habilitan la apelación de sentencia, serán los siguientes:
+- II. Los defectos de la sentencia que habilitan la apelación de sentencia, serán los siguientes:
 
-- La inobservancia o errónea aplicación de la Ley;
+- a) La inobservancia o errónea aplicación de la Ley;
 
-- Que la persona sentenciada no esté debidamente individualizada;
+- b) Que la persona sentenciada no esté debidamente individualizada;
 
-- Que  falte  la  enunciación  del  hecho  objeto  del  juicio  o  su  determinación circunstanciada;
+- c) Que falte la enunciación del hecho objeto del juicio o su determinación circunstanciada;
 
-- Que se base en medios o elementos probatorios no incorporados legalmente al juicio;
+- d) Que se base en medios o elementos probatorios no incorporados legalmente al juicio;
 
-- Que no exista  fundamentación  de  la  sentencia  o  que  ésta  sea  insuficiente  o contradictoria;
+- e) Que no exista fundamentación de la sentencia o que ésta sea insuficiente o contradictoria;
 
-- Que la sentencia se base en hechos inexistentes o no acreditados o en valoración defectuosa de la prueba;
+- f) Que la sentencia se base en hechos inexistentes o no acreditados o en valoración defectuosa de la prueba;
 
-- Que  exista  contradicción  en  su  parte  dispositiva  o  entre  ésta  y  la  parte considerativa; y
+- g) Que exista contradicción en su parte dispositiva o entre ésta y la parte considerativa; y
 
-- La inobservancia de la congruencia entre la sentencia y la acusación Fiscal.
+- h) La inobservancia de la congruencia entre la sentencia y la acusación Fiscal.
 
-- Interpuesto el recurso, se pondrá en conocimiento de las otras partes, para que dentro del término de diez (10) días lo contesten fundadamente y dentro de los cinco (5) días cuando exista adhesión.
+- III. Interpuesto el recurso, se pondrá en conocimiento de las otras partes, para que dentro del término de diez (10) días lo contesten fundadamente y dentro de los cinco (5) días cuando exista adhesión.
 
-- Vencidos  los  plazos  con  contestación  o  sin  ella,  se  remitirán  las  actuaciones  en  el término de tres (3) días ante el tribunal de alzada y se emplazará a las partes para que comparezcan en el plazo de diez (10) días a contar desde la remisión.
+- IV. Vencidos los plazos con contestación o sin ella, se remitirán las actuaciones en el término de tres (3) días ante el tribunal de alzada y se emplazará a las partes para que comparezcan en el plazo de diez (10) días a contar desde la remisión.
 
 Código Niña, Niño y Adolescente
 
@@ -4121,15 +4402,15 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 124]]
 
-- Cuando el recurso se fundamente en un defecto de forma o de procedimiento, se podrá acompañar y ofrecer prueba al interponerlo, contestarlo o adherirse a él.
+- V. Cuando el recurso se fundamente en un defecto de forma o de procedimiento, se podrá acompañar y ofrecer prueba al interponerlo, contestarlo o adherirse a él.
 
-- El recurso de apelación será resuelto en audiencia. Concluida la misma, la resolución fundamentada del recurso de apelación se notifi  cará en el plazo máximo de veinte (20) días, reparando la inobservancia de la Ley o su errónea aplicación.
+- VI. El recurso de apelación será resuelto en audiencia. Concluida la misma, la resolución fundamentada del recurso de apelación se notificará en el plazo máximo de veinte (20) días, reparando la inobservancia de la Ley o su errónea aplicación.
 
-- Los errores de derecho en la fundamentación de la resolución impugnada, que no hayan infl  uido  en  la  parte  dispositiva,  no  la  anularán,  pero  serán  corregidos  por  el  tribunal de  apelación,  así  como  los  errores  u  omisiones  formales  y  los  que  se  refi  eran  a  la imposición de medidas socio-educativas.
+- VII. Los errores de derecho en la fundamentación de la resolución impugnada, que no hayan influido en la parte dispositiva, no la anularán, pero serán corregidos por el tribunal de apelación, así como los errores u omisiones formales y los que se refieran a la imposición de medidas socio-educativas.
 
-- El  tribunal  de  apelación,  sin  anular  la  sentencia  recurrida,  podrá  realizar  una fundamentación  complementaria,  sin  cambiar  la  situación  jurídica  de  la  persona adolescente.
+- VIII. El tribunal de apelación, sin anular la sentencia recurrida, podrá realizar una fundamentación complementaria, sin cambiar la situación jurídica de la persona adolescente.
 
-- El auto de vista será ejecutado por la Jueza o el Juez de primera instancia y contra esta decisión no existirá recurso ulterior.
+- IX. El auto de vista será ejecutado por la Jueza o el Juez de primera instancia y contra esta decisión no existirá recurso ulterior.
 
 ## TÍTULO IV MECANISMOS DE JUSTICIA RESTAURATIVA
 
@@ -4137,11 +4418,11 @@ Código Niña, Niño y Adolescente
 
 ###### ARTÍCULO 316. (MECANISMOS DE JUSTICIA RESTAURATIVA).
 
-- Son  mecanismos  de  justicia  restaurativa  los  procedimientos  que  acompañan  la aplicación de la remisión, las salidas alternativas y las medidas socio-educativas.
+- I. Son mecanismos de justicia restaurativa los procedimientos que acompañan la aplicación de la remisión, las salidas alternativas y las medidas socio-educativas.
 
-- En  estos  procedimientos  la  víctima,  el  adolescente,  su  madre,  padre,  guardadora  o guardador, tutora o tutor, una o varias personas de apoyo, y en su caso, miembros de la comunidad afectada por el delito, participan para la reintegración del adolescente, apoyados por un equipo interdisciplinario facilitador, a fi  n de reconocer al adolescente como persona integral, constructiva y productiva.
+- II. En estos procedimientos la víctima, el adolescente, su madre, padre, guardadora o guardador, tutora o tutor, una o varias personas de apoyo, y en su caso, miembros de la comunidad afectada por el delito, participan para la reintegración del adolescente, apoyados por un equipo interdisciplinario facilitador, a fin de reconocer al adolescente como persona integral, constructiva y productiva.
 
-- Los mecanismos establecidos en el presente  Artículo buscan para la persona adolescente, que ésta o éste asuma su responsabilidad, formarlo para el ejercicio de sus habilidades sociales,  el  ejercicio  de  sus  derechos,  procurando  la  reparación  del  daño.  Para  la víctima, la exteriorización de su situación como víctima y alcanzar la superación de las consecuencias de los hechos, con su reparación. Para la comunidad, la participación activa en el proceso de reintegración social tanto de la víctima como del adolescente, y la reducción del impacto social a través de la prevención secundaria.
+- III. Los mecanismos establecidos en el presente Artículo buscan para la persona adolescente, que ésta o éste asuma su responsabilidad, formarlo para el ejercicio de sus habilidades sociales, el ejercicio de sus derechos, procurando la reparación del daño. Para la víctima, la exteriorización de su situación como víctima y alcanzar la superación de las consecuencias de los hechos, con su reparación. Para la comunidad, la participación activa en el proceso de reintegración social tanto de la víctima como del adolescente, y la reducción del impacto social a través de la prevención secundaria.
 
 122
 
@@ -4151,32 +4432,32 @@ Código Niña, Niño y Adolescente
 
 ###### ARTÍCULO 317. (CLASES Y FORMAS DE APLICACIÓN).
 
-- Los mecanismos de justicia restaurativa con participación de la víctima se realizan a través  de  la  mediación,  reuniones  familiares,  círculos  restaurativos  y  otros  similares. Cuando la víctima no participa, el mecanismo se realiza a través de un programa de orientación socio-educativa.
+- I. Los mecanismos de justicia restaurativa con participación de la víctima se realizan a través de la mediación, reuniones familiares, círculos restaurativos y otros similares. Cuando la víctima no participa, el mecanismo se realiza a través de un programa de orientación socio-educativa.
 
-- II . En  atención  a  las  necesidades  de  las  partes,  podrán  ser  aplicados  de  manera complementaria e integral.
+- II. En atención a las necesidades de las partes, podrán ser aplicados de manera complementaria e integral.
 
 ###### ARTÍCULO 318. (APLICACIÓN DE LOS MECANISMOS DE JUSTICIA RESTAURATIVA).
 
 Son aquellos que pretenden lograr resultados restaurativos, bajo las siguientes reglas:
 
-- Deberán ser de acceso gratuito, voluntario y confidencial;
+- a) Deberán ser de acceso gratuito, voluntario y confidencial;
 
-- Se realizan a solicitud de la autoridad competente, con el consentimiento libre y voluntario de la víctima, la persona adolescente en el Sistema Penal, la madre, padre, guardadora o guardador, tutora o tutor, y la comunidad, quienes podrán retirar ese consentimiento en cualquier momento del proceso;
+- b) Se realizan a solicitud de la autoridad competente, con el consentimiento libre y voluntario de la víctima, la persona adolescente en el Sistema Penal, la madre, padre, guardadora o guardador, tutora o tutor, y la comunidad, quienes podrán retirar ese consentimiento en cualquier momento del proceso;
 
-- Los acuerdos sólo contendrán obligaciones razonables y proporcionadas;
+- c) Los acuerdos sólo contendrán obligaciones razonables y proporcionadas;
 
-- La participación de la persona adolescente en el Sistema Penal, no se utilizará como  prueba de admisión de culpabilidad en procedimientos jurídicos posteriores;
+- d) La participación de la persona adolescente en el Sistema Penal, no se utilizará como prueba de admisión de culpabilidad en procedimientos jurídicos posteriores;
 
-- El incumplimiento de un acuerdo no deberá utilizarse como fundamento para una sentencia sancionatoria o para la agravación de una medida socio-educativa;
+- e) El incumplimiento de un acuerdo no deberá utilizarse como fundamento para una sentencia sancionatoria o para la agravación de una medida socio-educativa;
 
-- Las  diferencias  conducentes  a  una  desigualdad  de  posiciones,  así  como  las diferencias culturales entre las partes, se deben tener en cuenta al someter un caso a un proceso restaurativo y al llevarlo a cabo;
+- f) Las diferencias conducentes a una desigualdad de posiciones, así como las diferencias culturales entre las partes, se deben tener en cuenta al someter un caso a un proceso restaurativo y al llevarlo a cabo;
 
-- La seguridad de las partes debe ser tomada en cuenta; y
+- g) La seguridad de las partes debe ser tomada en cuenta; y
 
-- Los facilitadores especializados deberán desempeñar sus funciones de manera imparcial, con el debido respeto a la dignidad de las partes.
+- h) Los facilitadores especializados deberán desempeñar sus funciones de manera imparcial, con el debido respeto a la dignidad de las partes.
 
 ###### ARTÍCULO  319.  (MEDIACIÓN).
-La  mediación  es  el  procedimiento  mediante  el  cual  una persona técnica especializada que no tiene facultad de decisión, busca acercar a las partes para establecer un diálogo y comunicación voluntaria sobre el hecho que originó el confl  icto penal, y posibilita que la reparación tenga un carácter restaurativo, más allá de la compensación de los daños y de los perjuicios.
+La mediación es el procedimiento mediante el cual una persona técnica especializada que no tiene facultad de decisión, busca acercar a las partes para establecer un diálogo y comunicación voluntaria sobre el hecho que originó el conflicto penal, y posibilita que la reparación tenga un carácter restaurativo, más allá de la compensación de los daños y de los perjuicios.
 
 Código Niña, Niño y Adolescente
 
@@ -4191,31 +4472,31 @@ Los  círculos  restaurativos  procuran  la participación y el acercamiento de 
 
 ###### ARTÍCULO 321. (PROGRAMAS DE ORIENTACIÓN SOCIO-EDUCATIVOS).
 
-- Son aquellos programas personalizados e integrales de acompañamiento y seguimiento a las personas adolescentes en el Sistema Penal, que cumplen acuerdos derivados de la aplicación de mecanismos de justicia restaurativa, sin participación de la víctima.
+- I. Son aquellos programas personalizados e integrales de acompañamiento y seguimiento a las personas adolescentes en el Sistema Penal, que cumplen acuerdos derivados de la aplicación de mecanismos de justicia restaurativa, sin participación de la víctima.
 
-- Son diseñados e implementados por las instancias departamentales de gestión social, en  el  marco  de  sus  competencias,  en  base  al  diagnóstico  realizado  por  el  equipo interdisciplinario, a través de la elaboración de un plan integral de orientación para cada persona adolescente en el Sistema Penal, y en su caso para su familia. Contendrán aspectos a desarrollar en los ámbitos familiar, educativo, laboral, ocupacional y espiritual.
+- II. Son diseñados e implementados por las instancias departamentales de gestión social, en el marco de sus competencias, en base al diagnóstico realizado por el equipo interdisciplinario, a través de la elaboración de un plan integral de orientación para cada persona adolescente en el Sistema Penal, y en su caso para su familia. Contendrán aspectos a desarrollar en los ámbitos familiar, educativo, laboral, ocupacional y espiritual.
 
-- El  plan  integral  de  orientación  se  ejecutará  a  través  de  sesiones  de  intervención psicológica y social con cada una de las personas adolescentes y sus familias, utilizando instrumentos de registro que permitan un acompañamiento.
+- III. El plan integral de orientación se ejecutará a través de sesiones de intervención psicológica y social con cada una de las personas adolescentes y sus familias, utilizando instrumentos de registro que permitan un acompañamiento.
 
 #### SECCIÓN I MEDIDAS SOCIO-EDUCATIVAS
 
 ###### ARTÍCULO 322. (FINALIDAD).
 
-- Las  medidas  tienen  fi  nalidad  primordialmente  educativa  de  reintegración  social  y, cuando fuere posible, de reparación del daño. Asimismo, tendrá la fi  nalidad de evitar la reincidencia por medio de la intervención interdisciplinaria e individualizada a la persona adolescente en el Sistema Penal.
+- I. Las medidas tienen finalidad primordialmente educativa de reintegración social y, cuando fuere posible, de reparación del daño. Asimismo, tendrá la finalidad de evitar la reincidencia por medio de la intervención interdisciplinaria e individualizada a la persona adolescente en el Sistema Penal.
 
-- Las medidas socio-educativas se cumplen en libertad, con restricción y con privación de libertad.
+- II. Las medidas socio-educativas se cumplen en libertad, con restricción y con privación de libertad.
 
 ###### ARTÍCULO 323. (TIPOS DE MEDIDAS).
 
-- Las medidas socio-educativas que se cumplen en libertad, son:
+- I. Las medidas socio-educativas que se cumplen en libertad, son:
 
-- Prestación de servicios a la comunidad; y
+- a) Prestación de servicios a la comunidad; y
 
-- Libertad asistida.
+- b) Libertad asistida.
 
-- Las medidas socio-educativas que se cumplen con restricción de libertad, son:
+- II. Las medidas socio-educativas que se cumplen con restricción de libertad, son:
 
-- Régimen domiciliario;
+- a) Régimen domiciliario;
 
 124
 
@@ -4223,40 +4504,40 @@ Los  círculos  restaurativos  procuran  la participación y el acercamiento de 
 
 [[START OF PAGE 127]]
 
-- Régimen en tiempo libre; y
+- b) Régimen en tiempo libre; y
 
-- Régimen semi-abierto.
+- c) Régimen semi-abierto.
 
-- Las medidas socio-educativas con privación de libertad son las que se cumplen bajo régimen de internamiento.
+- III. Las medidas socio-educativas con privación de libertad son las que se cumplen bajo régimen de internamiento.
 
-- Se podrá imponer, cuando corresponda de forma complementaria, a la o el adolescente sancionado, con las medidas señaladas en los parágrafos anteriores, una o varias de las siguientes reglas de conducta:
+- IV. Se podrá imponer, cuando corresponda de forma complementaria, a la o el adolescente sancionado, con las medidas señaladas en los parágrafos anteriores, una o varias de las siguientes reglas de conducta:
 
-- Establecerse en un lugar de residencia determinado;
+- a) Establecerse en un lugar de residencia determinado;
 
-- Informar sobre su residencia, y en su caso, el traslado de domicilio;
+- b) Informar sobre su residencia, y en su caso, el traslado de domicilio;
 
-- Inscribirse y asistir a un centro de educación formal o adquirir trabajo;
+- c) Inscribirse y asistir a un centro de educación formal o adquirir trabajo;
 
-- Prohibición de relacionarse con determinadas personas;
+- d) Prohibición de relacionarse con determinadas personas;
 
-- Prohibición de concurrir a determinados lugares;
+- e) Prohibición de concurrir a determinados lugares;
 
-- Prohibición de consumir bebidas alcohólicas, estupefacientes o psicotrópicos; y
+- f) Prohibición de consumir bebidas alcohólicas, estupefacientes o psicotrópicos; y
 
-- Recibir instrucción especial, terapia o tratamiento.
+- g) Recibir instrucción especial, terapia o tratamiento.
 
 ###### ARTÍCULO 324. (APLICACIÓN DE MEDIDAS SOCIO-EDUCATIVAS).
 
-- Las medidas socio-educativas en libertad, serán aplicadas cuando la pena atenuada impuesta a la persona adolescente sea menor a un (1) año, sin perjudicar la actividad normal de estudio o trabajo.
+- I. Las medidas socio-educativas en libertad, serán aplicadas cuando la pena atenuada impuesta a la persona adolescente sea menor a un (1) año, sin perjudicar la actividad normal de estudio o trabajo.
 
-- Las medidas socio-educativas que se cumplen con restricción de libertad serán aplicadas cuando la pena atenuada impuesta a la persona adolescente esté comprendida entre un (1) año y dos (2) años. El Juez determinará las medidas socio-educativas en privación de libertad.
+- II. Las medidas socio-educativas que se cumplen con restricción de libertad serán aplicadas cuando la pena atenuada impuesta a la persona adolescente esté comprendida entre un (1) año y dos (2) años. El Juez determinará las medidas socio-educativas en privación de libertad.
 
-- Las  medidas socio-educativas privativas  de  libertad  serán  aplicadas  cuando  la  pena atenuada impuesta a la persona adolescente sea superior a dos (2) años.
+- III. Las medidas socio-educativas privativas de libertad serán aplicadas cuando la pena atenuada impuesta a la persona adolescente sea superior a dos (2) años.
 
-###### ARTÍCULO  325.  (PAUTAS  PARA  LA  DETERMINACIÓN  Y  APLICACIÓN  DE  LA MEDIDA).
+###### ARTÍCULO 325. (PAUTAS PARA LA DETERMINACIÓN Y APLICACIÓN DE LA MEDIDA).
 Para determinar la medida aplicable y establecer su duración, la Jueza o el Juez deberá tener en cuenta:
 
-- La naturaleza y gravedad de los hechos;
+- a) La naturaleza y gravedad de los hechos;
 
 Código Niña, Niño y Adolescente
 
@@ -4266,35 +4547,35 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 128]]
 
-- El grado de responsabilidad de la o del adolescente;
+- b) El grado de responsabilidad de la o del adolescente;
 
-- La proporcionalidad e idoneidad de la medida;
+- c) La proporcionalidad e idoneidad de la medida;
 
-- La edad de la y el adolescente y su capacidad para cumplir la medida; y
+- d) La edad de la y el adolescente y su capacidad para cumplir la medida; y
 
-- Los esfuerzos de la o el adolescente por reparar los daños.
+- e) Los esfuerzos de la o el adolescente por reparar los daños.
 
 #### SECCIÓN II DEFINICIÓN DE LAS MEDIDAS
 
 ###### ARTÍCULO 326. (PRESTACIÓN DE SERVICIOS A LA COMUNIDAD).
 
-- La prestación de servicios a la comunidad consiste en la realización de tareas concretas y  gratuitas de benefi  cio común para la población, en el tiempo que debiera durar la sanción penal.
+- I. La prestación de servicios a la comunidad consiste en la realización de tareas concretas y gratuitas de beneficio común para la población, en el tiempo que debiera durar la sanción penal.
 
-- Las tareas serán acordes con las aptitudes de la persona adolescente, sin perjudicar la actividad normal, estudio o trabajo.
+- II. Las tareas serán acordes con las aptitudes de la persona adolescente, sin perjudicar la actividad normal, estudio o trabajo.
 
-- La medida socio-educativa será cumplida, exclusivamente en horario diurno, no pudiendo exceder de las tres (3) horas semanales, ni ser inferior de una (1) hora. Podrán cumplirse en días hábiles, sábados, domingos o feriados.
+- III. La medida socio-educativa será cumplida, exclusivamente en horario diurno, no pudiendo exceder de las tres (3) horas semanales, ni ser inferior de una (1) hora. Podrán cumplirse en días hábiles, sábados, domingos o feriados.
 
-- Esta medida se aplicará mientras dure la sanción y amerita la inclusión de la persona adolescente penalmente responsable en un programa desarrollado para este fi  n por la Instancia Técnica Departamental de Política Social.
+- IV. Esta medida se aplicará mientras dure la sanción y amerita la inclusión de la persona adolescente penalmente responsable en un programa desarrollado para este fin por la Instancia Técnica Departamental de Política Social.
 
 ###### ARTÍCULO 327. (LIBERTAD ASISTIDA).
 
-- Esta medida consiste en otorgar la libertad a la o el adolescente, obligándose a ésta o éste a someterse, durante el tiempo que debiera durar la sanción, a la supervisión, asistencia y orientación de una persona técnica, debidamente capacitada.
+- I. Esta medida consiste en otorgar la libertad a la o el adolescente, obligándose a ésta o éste a someterse, durante el tiempo que debiera durar la sanción, a la supervisión, asistencia y orientación de una persona técnica, debidamente capacitada.
 
-- Esta medida se aplicará mientras dure la sanción y amerita la inclusión de la persona adolescente penalmente responsable en un programa desarrollado para este fi  n por la Instancia Técnica Departamental de Política Social.
+- II. Esta medida se aplicará mientras dure la sanción y amerita la inclusión de la persona adolescente penalmente responsable en un programa desarrollado para este fin por la Instancia Técnica Departamental de Política Social.
 
 ###### ARTÍCULO 328. (RÉGIMEN DOMICILIARIO).
 
-- Esta medida consiste en la permanencia de la persona adolescente en la residencia habitual  con  su  madre,  padre,  guardadora  o  guardador,  tutora  o  tutor.  En  caso  de imposibilidad  o  conveniencia,  se  efectuará  en  la  vivienda  de  otro  familiar  o  persona idónea,  o  establecimiento  de  entidad  pública  o  privada,  bajo  consentimiento  y responsabilidad.
+- I. Esta medida consiste en la permanencia de la persona adolescente en la residencia habitual con su madre, padre, guardadora o guardador, tutora o tutor. En caso de imposibilidad o conveniencia, se efectuará en la vivienda de otro familiar o persona idónea, o establecimiento de entidad pública o privada, bajo consentimiento y responsabilidad.
 
 126
 
@@ -4302,18 +4583,18 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 129]]
 
-- El régimen domiciliario no podrá afectar el cumplimiento del plan individual de ejecución de medida ni el normal desarrollo de las actividades de estudio o de trabajo.
+- II. El régimen domiciliario no podrá afectar el cumplimiento del plan individual de ejecución de medida ni el normal desarrollo de las actividades de estudio o de trabajo.
 
-- Esta  medida  se  aplicará  en  el  tiempo  en  el  que  debiera  durar  la  sanción  y  amerita la  inclusión  de  la  persona  adolescente  penalmente  responsable,  en  un  programa desarrollado para este fi  n por la Instancia Técnica Departamental de Política Social.
+- III. Esta medida se aplicará en el tiempo en el que debiera durar la sanción y amerita la inclusión de la persona adolescente penalmente responsable, en un programa desarrollado para este fin por la Instancia Técnica Departamental de Política Social.
 
 ###### ARTÍCULO 329. (RÉGIMEN EN TIEMPO LIBRE).
-Esta medida consiste en la permanencia de la persona adolescente en un centro especializado en los días feriados y de fi  nes de semana, en los que no tenga actividad normal de estudio o trabajo.
+Esta medida consiste en la permanencia de la persona adolescente en un centro especializado en los días feriados y de fines de semana, en los que no tenga actividad normal de estudio o trabajo.
 
 ###### ARTÍCULO 330. (RÉGIMEN SEMI-ABIERTO).
 
-- Esta  medida  consiste  en  la  incorporación  de  la  persona  adolescente,  por  el  tiempo que dure la sanción en un centro especializado del cual sólo podrá salir para realizar actividades de estudio, formativas, laborales, deporte y cultura, establecidas en el plan individual de ejecución de la medida.
+- I. Esta medida consiste en la incorporación de la persona adolescente, por el tiempo que dure la sanción en un centro especializado del cual sólo podrá salir para realizar actividades de estudio, formativas, laborales, deporte y cultura, establecidas en el plan individual de ejecución de la medida.
 
-- II . La Jueza o el Juez podrá suspender estas actividades por tiempo determinado o establecer su realización dentro del centro especializado, de acuerdo al informe y recomendación técnica de seguimiento.
+- II. La Jueza o el Juez podrá suspender estas actividades por tiempo determinado o establecer su realización dentro del centro especializado, de acuerdo al informe y recomendación técnica de seguimiento.
 
 ###### ARTÍCULO 331. (RÉGIMEN DE INTERNAMIENTO).
 Esta medida consiste en la privación de libertad de la persona adolescente en el tiempo en el que debiera durar la sanción y se cumplirá en régimen de cerrado en un centro especializado.
@@ -4321,13 +4602,13 @@ Esta medida consiste en la privación de libertad de la persona adolescente en e
 #### SECCIÓN III CENTROS ESPECIALIZADOS
 
 ###### ARTÍCULO 332. (CLASIFICACIÓN).
-Para el cumplimiento de las medidas socio-educativas en libertad y en privación de libertad, los centros especializados se clasifi  can en:
+Para el cumplimiento de las medidas socio-educativas en libertad y en privación de libertad, los centros especializados se clasifican en:
 
-- Centros  de  Orientación. En  los  que  se  brindará  atención  y  se  hará seguimiento  y  evaluación  en  el  cumplimiento  de  los  mecanismos  de  justicia restaurativa, las medidas socio-educativas en libertad y las de permanencia en régimen domiciliario, así como las medidas cautelares en libertad; y
+- a) Centros de Orientación. En los que se brindará atención y se hará seguimiento y evaluación en el cumplimiento de los mecanismos de justicia restaurativa, las medidas socio-educativas en libertad y las de permanencia en régimen domiciliario, así como las medidas cautelares en libertad; y
 
-- Centros de Reintegración Social. En los que se cumplirán la detención preventiva, las medidas socio-educativas de permanencia en régimen en tiempo libre, semi-abierto y de internación.
+- b) Centros de Reintegración Social. En los que se cumplirán la detención preventiva, las medidas socio-educativas de permanencia en régimen en tiempo libre, semi-abierto y de internación.
 
-###### ARTÍCULO  333.  (OBJETIVOS  DE  LOS  CENTROS  DE  ORIENTACIÓN).
+###### ARTÍCULO 333. (OBJETIVOS DE LOS CENTROS DE ORIENTACIÓN).
 Deberán implementar, en coordinación con las Instancias Técnicas Departamentales de Política Social, los programas destinados a adolescentes en el Sistema Penal para lograr los siguientes objetivos:
 
 Código Niña, Niño y Adolescente
@@ -4338,34 +4619,34 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 130]]
 
-- Desarrollar la intervención sistemática, general y personalizada, orientada a la elaboración del proyecto de vida dirigida a la reintegración social y familiar;
+- a) Desarrollar la intervención sistemática, general y personalizada, orientada a la elaboración del proyecto de vida dirigida a la reintegración social y familiar;
 
-- Desarrollar y aplicar el programa de remisión, promover la conciliación, acompañar el cumplimiento de las medidas socio-educativas;
+- b) Desarrollar y aplicar el programa de remisión, promover la conciliación, acompañar el cumplimiento de las medidas socio-educativas;
 
-- Ejecutar programas de reinserción familiar y social con equipo profesional idóneo que brinde orientación y asistencia técnica socio-educativa;
+- c) Ejecutar programas de reinserción familiar y social con equipo profesional idóneo que brinde orientación y asistencia técnica socio-educativa;
 
-- Supervisar el internamiento domiciliario; y
+- d) Supervisar el internamiento domiciliario; y
 
-- Brindar acompañamiento y seguimiento durante la ejecución de sentencia y en el periodo posterior al cumplimiento de las medidas.
+- e) Brindar acompañamiento y seguimiento durante la ejecución de sentencia y en el periodo posterior al cumplimiento de las medidas.
 
 ###### ARTÍCULO 334. (OBJETIVOS DE LOS CENTROS DE REINTEGRACIÓN SOCIAL).
-Estos centros  deberán  implementar,  en  coordinación  con  las  Instancias  Técnicas  Departamentales  de Política Social, los programas destinados a adolescentes con responsabilidad penal para lograr los siguientes objetivos:
+Estos centros deberán implementar, en coordinación con las Instancias Técnicas Departamentales de Política Social, los programas destinados a adolescentes con responsabilidad penal para lograr los siguientes objetivos:
 
-- Desarrollar  el  proyecto  educativo  general  del  centro  y  los  planes  educativos individualizados,  así  como  orientar  su  incorporación  a  la  educación  formal  o alternativa;
+- a) Desarrollar el proyecto educativo general del centro y los planes educativos individualizados, así como orientar su incorporación a la educación formal o alternativa;
 
-- Realizar actividades educativas, ocupacionales, terapéuticas, lúdicas, culturales y recreativas, individuales y grupales; y
+- b) Realizar actividades educativas, ocupacionales, terapéuticas, lúdicas, culturales y recreativas, individuales y grupales; y
 
-- Brindar atención médica, psicológica, odontológica y farmacéutica, así como la vestimenta y alimentación necesaria y adecuada;
+- c) Brindar atención médica, psicológica, odontológica y farmacéutica, así como la vestimenta y alimentación necesaria y adecuada;
 
-###### ARTÍCULO  335.  (EQUIPO  INTERDISCIPLINARIO).
-En  los  centros  habrá  un  equipo interdisciplinario especializado para la atención y asistencia integral a la persona adolescente en el Sistema Penal, que se encargará de la elaboración de informes trimestrales sobre los resultados de los procesos de intervención, el desarrollo de su plan individual e informes y recomendaciones periódicas sobre el cumplimiento de objetivos.
+###### ARTÍCULO 335. (EQUIPO INTERDISCIPLINARIO).
+En los centros habrá un equipo interdisciplinario especializado para la atención y asistencia integral a la persona adolescente en el Sistema Penal, que se encargará de la elaboración de informes trimestrales sobre los resultados de los procesos de intervención, el desarrollo de su plan individual e informes y recomendaciones periódicas sobre el cumplimiento de objetivos.
 
-###### ARTÍCULO  336.  (ADMINISTRACIÓN  Y  SEGURIDAD  DE  LOS  CENTROS).
+###### ARTÍCULO 336. (ADMINISTRACIÓN Y SEGURIDAD DE LOS CENTROS).
 La administración y seguridad interna de los centros de orientación y reintegración social estará a cargo, exclusivamente, de personal civil especializado. La seguridad externa estará a cargo de la Policía Boliviana.
 
 ###### ARTÍCULO 337. (REGISTRO).
 
-- Se  creará  un  registro  y  archivo  personal  obligatorio  de  los  ingresos  y  salidas  de  las personas adolescentes en el penal, a fi  n  de  facilitar  el  tratamiento  especializado  de reintegración social.
+- I. Se creará un registro y archivo personal obligatorio de los ingresos y salidas de las personas adolescentes en el penal, a fin de facilitar el tratamiento especializado de reintegración social.
 
 128
 
@@ -4373,23 +4654,23 @@ La administración y seguridad interna de los centros de orientación y reintegr
 
 [[START OF PAGE 131]]
 
-- Una vez ingresada la persona adolescente en el Sistema Penal al centro de reintegración social, se le realizarán los exámenes, la atención y la asistencia médica apropiada.
+- II. Una vez ingresada la persona adolescente en el Sistema Penal al centro de reintegración social, se le realizarán los exámenes, la atención y la asistencia médica apropiada.
 
-- La  salida  del  centro  especializado  deberá  ser  adecuadamente  preparada  durante  la ejecución de la medida, con la asistencia de especialistas.
+- III. La salida del centro especializado deberá ser adecuadamente preparada durante la ejecución de la medida, con la asistencia de especialistas.
 
 ###### ARTÍCULO 338. (RÉGIMEN DISCIPLINARIO).
 
-- La  Directora  o  el  Director  del  centro  especializado,  podrá  disponer  la  aplicación  de medidas de control y disciplinarias establecida por reglamento específi  co, registrando en el expediente individual el reporte de la falta y el cumplimiento de su sanción.
+- I. La Directora o el Director del centro especializado, podrá disponer la aplicación de medidas de control y disciplinarias establecida por reglamento específico, registrando en el expediente individual el reporte de la falta y el cumplimiento de su sanción.
 
-- Los centros especializados donde se cumplan medidas privativas de libertad deberán tener un reglamento interno que respetará los derechos y garantías reconocidos en éste Código, y contemplar, como mínimo, los siguientes aspectos:
+- II. Los centros especializados donde se cumplan medidas privativas de libertad deberán tener un reglamento interno que respetará los derechos y garantías reconocidos en éste Código, y contemplar, como mínimo, los siguientes aspectos:
 
-- Régimen de vida a que será sometida y sometido la o el adolescente dentro de la entidad, con mención expresa de sus derechos y deberes;
+- a) Régimen de vida a que será sometida y sometido la o el adolescente dentro de la entidad, con mención expresa de sus derechos y deberes;
 
-- Reglamentación taxativa de las sanciones que puedan ser impuestas a la y al adolescente durante el cumplimiento de la medida. En ningún caso se podrán aplicar medidas disciplinarias crueles, inhumanas o degradantes, incluidos los castigos corporales y el encierro en celdas oscuras o insalubres. Debe prohibirse la  reducción  de  alimentos,  la  denegación  de  contacto  con  los  familiares,  las sanciones  colectivas  y  no  se  podrá  procesar  disciplinariamente  a  la  persona adolescente dos veces por el mismo hecho;
+- b) Reglamentación taxativa de las sanciones que puedan ser impuestas a la y al adolescente durante el cumplimiento de la medida. En ningún caso se podrán aplicar medidas disciplinarias crueles, inhumanas o degradantes, incluidos los castigos corporales y el encierro en celdas oscuras o insalubres. Debe prohibirse la reducción de alimentos, la denegación de contacto con los familiares, las sanciones colectivas y no se podrá procesar disciplinariamente a la persona adolescente dos veces por el mismo hecho;
 
-- Un régimen de emergencia para los casos de motín o conflictos violentos. Se limitará la utilización de medios coercitivos, individuales o colectivos, a los casos en que resulte estrictamente necesario; y
+- c) Un régimen de emergencia para los casos de motín o conflictos violentos. Se limitará la utilización de medios coercitivos, individuales o colectivos, a los casos en que resulte estrictamente necesario; y
 
-- El procedimiento a seguir para la imposición de las sanciones disciplinarias.
+- d) El procedimiento a seguir para la imposición de las sanciones disciplinarias.
 
 ###### ARTÍCULO 339. (SEGREGACIÓN DE GÉNERO).
 Las adolescentes deberán cumplir sanciones restrictivas y privativas de libertad, en centros separados al de los adolescentes, debiendo gozar de un régimen diferenciado.
@@ -4397,7 +4678,7 @@ Las adolescentes deberán cumplir sanciones restrictivas y privativas de liberta
 #### SECCIÓN IV EJECUCIÓN DE LAS MEDIDAS SOCIO-EDUCATIVAS
 
 ###### ARTÍCULO 340. (OBJETIVO).
-La  ejecución  de  las  medidas  tiene  por  objeto  lograr  el  pleno desarrollo de las capacidades de la o el adolescente, así como la adecuada convivencia con su familia y con su entorno familiar.
+La ejecución de las medidas tiene por objeto lograr el pleno desarrollo de las capacidades de la o el adolescente, así como la adecuada convivencia con su familia y con su entorno familiar.
 
 Código Niña, Niño y Adolescente
 
@@ -4410,32 +4691,32 @@ Código Niña, Niño y Adolescente
 ###### ARTÍCULO 341. (DERECHOS EN LA EJECUCIÓN DE MEDIDA).
 Durante la ejecución de las medidas, la o el adolescente tiene los siguientes derechos, sin perjuicio de los demás que le puedan favorecer:
 
-- A un trato digno y humanitario;
+- a) A un trato digno y humanitario;
 
-- A recibir información sobre el programa en el cual esté inserto, así como sobre sus derechos en relación a las personas y servidores que la y lo tuvieren bajo su responsabilidad;
+- b) A recibir información sobre el programa en el cual esté inserto, así como sobre sus derechos en relación a las personas y servidores que la y lo tuvieren bajo su responsabilidad;
 
-- A  recibir  servicios  de  salud,  sociales  y  educativos  adecuados  a  su  edad  y necesidades, y que aquellos les sean proporcionados por personas con formación profesional idónea;
+- c) A recibir servicios de salud, sociales y educativos adecuados a su edad y necesidades, y que aquellos les sean proporcionados por personas con formación profesional idónea;
 
-- A comunicarse reservadamente con su defensor o defensora y con la Jueza o el Juez;
+- d) A comunicarse reservadamente con su defensor o defensora y con la Jueza o el Juez;
 
-- A presentar peticiones ante cualquier autoridad y que se le garantice respuesta;
+- e) A presentar peticiones ante cualquier autoridad y que se le garantice respuesta;
 
-- A comunicarse libremente con sus padres, guardadoras o guardadores, tutoras o tutores; y
+- f) A comunicarse libremente con sus padres, guardadoras o guardadores, tutoras o tutores; y
 
-- A que su familia sea informada sobre los derechos que a ella le corresponde y respecto a la situación y de los derechos de la y el adolescente.
+- g) A que su familia sea informada sobre los derechos que a ella le corresponde y respecto a la situación y de los derechos de la y el adolescente.
 
 ###### ARTÍCULO 342. (DERECHOS DE LA O EL ADOLESCENTE PRIVADO DE LIBERTAD).
 Además de lo establecido en el Artículo anterior la o el adolescente privada o privado de libertad, tiene los siguientes derechos:
 
-- A permanecer internada o internado en la misma localidad o en la más próxima al domicilio de su madre, padre, guardadora, guardador, tutora o tutor;
+- a) A permanecer internada o internado en la misma localidad o en la más próxima al domicilio de su madre, padre, guardadora, guardador, tutora o tutor;
 
-- A que el lugar de internamiento satisfaga las exigencias de higiene, seguridad y salubridad; cuente con acceso a los servicios públicos esenciales y sea adecuado para lograr su formación integral;
+- b) A que el lugar de internamiento satisfaga las exigencias de higiene, seguridad y salubridad; cuente con acceso a los servicios públicos esenciales y sea adecuado para lograr su formación integral;
 
-- A ser examinada o examinado por un médico, inmediatamente después de su ingreso  a  la  entidad,  con  el  objeto  de  comprobar  anteriores  violaciones  a  su integridad personal y verificar cualquier estado físico o psicológico que requiera tratamiento;
+- c) A ser examinada o examinado por un médico, inmediatamente después de su ingreso a la entidad, con el objeto de comprobar anteriores violaciones a su integridad personal y verificar cualquier estado físico o psicológico que requiera tratamiento;
 
-- A  que  se  mantenga,  en  cualquier  caso,  separada  o  separado  de  los  adultos condenados por la legislación penal;
+- d) A que se mantenga, en cualquier caso, separada o separado de los adultos condenados por la legislación penal;
 
-- A  participar  activa  y  plenamente  en  la  elaboración  de  su  plan  individual  de ejecución de la medida;
+- e) A participar activa y plenamente en la elaboración de su plan individual de ejecución de la medida;
 
 130
 
@@ -4443,30 +4724,30 @@ Además de lo establecido en el Artículo anterior la o el adolescente privada o
 
 [[START OF PAGE 133]]
 
-- A recibir información sobre el régimen interno de la institución, especialmente sobre  las  medidas  disciplinarias  que  puedan  serle  aplicadas  y  sobre  los procedimientos para imponerlas y ejecutarlas;
+- f) A recibir información sobre el régimen interno de la institución, especialmente sobre las medidas disciplinarias que puedan serle aplicadas y sobre los procedimientos para imponerlas y ejecutarlas;
 
-- A  impugnar  las  medidas  disciplinarias  adoptadas  por  las  autoridades  de  la entidad;
+- g) A impugnar las medidas disciplinarias adoptadas por las autoridades de la entidad;
 
-- A no ser trasladada o trasladado arbitrariamente de la entidad donde cumple la medida. El traslado sólo podrá realizarse por orden escrita de la Jueza o del Juez;
+- h) A no ser trasladada o trasladado arbitrariamente de la entidad donde cumple la medida. El traslado sólo podrá realizarse por orden escrita de la Jueza o del Juez;
 
-- A  no  ser,  en  ningún  caso,  incomunicada  o  incomunicado  ni  ser  sometida  o sometido a castigos corporales;
+- i) A no ser, en ningún caso, incomunicada o incomunicado ni ser sometida o sometido a castigos corporales;
 
-- A  no  ser  sometida  o  sometido  a  régimen  de  aislamiento,  salvo  cuando  sea estrictamente necesario para evitar actos de violencia contra sí mismo o contra terceros;
+- j) A no ser sometida o sometido a régimen de aislamiento, salvo cuando sea estrictamente necesario para evitar actos de violencia contra sí mismo o contra terceros;
 
-- A  participar  en  todas  las  actividades  educativas,  formativas,  recreativas  y culturales  que  contribuyan  al  desarrollo  de  sus  capacidades  y  favorezcan  su reinserción social. No se podrá denegar la participación de la y el adolescente en dichas actividades alegando razones disciplinarias;
+- k) A participar en todas las actividades educativas, formativas, recreativas y culturales que contribuyan al desarrollo de sus capacidades y favorezcan su reinserción social. No se podrá denegar la participación de la y el adolescente en dichas actividades alegando razones disciplinarias;
 
-- A  mantenerse  en  posesión  de  sus  objetos  personales  y  a  disponer  de  local seguro para guardarlos; y
+- l) A mantenerse en posesión de sus objetos personales y a disponer de local seguro para guardarlos; y
 
-- A ser informada o informado sobre los modos de comunicación con el mundo exterior; a mantener correspondencia con sus familiares y amigos; a recibir visitas por lo menos semanalmente y a tener acceso a la información de los medios de comunicación.
+- m) A ser informada o informado sobre los modos de comunicación con el mundo exterior; a mantener correspondencia con sus familiares y amigos; a recibir visitas por lo menos semanalmente y a tener acceso a la información de los medios de comunicación.
 
 ###### ARTÍCULO 343. (DEBERES DE LA O EL ADOLESCENTE SOMETIDO A LA MEDIDA PRIVATIVA DE LIBERTAD).
 La y el adolescente privada o privado de libertad, tiene el deber de conocer y acatar el reglamento del centro donde se encuentre y de cumplir lo establecido en su plan individual.
 
 ###### ARTÍCULO 344. (PLAN INDIVIDUAL DE EJECUCIÓN DE MEDIDAS).
 
-- La  ejecución  de  las  medidas  socio-educativas  se  realizará  mediante  la  elaboración de  un  plan  individual  diferenciado  para  cada  adolescente.  El  plan  formulado  por  el equipo interdisciplinario de la Instancia Técnica Departamental de Política Social, con la participación de la y el adolescente, se basará en el estudio de los factores y carencias que incidieron  en  su  conducta  y  establecerá  metas  concretas,  estrategias  idóneas  y plazos para cumplirlas.
+- I. La ejecución de las medidas socio-educativas se realizará mediante la elaboración de un plan individual diferenciado para cada adolescente. El plan formulado por el equipo interdisciplinario de la Instancia Técnica Departamental de Política Social, con la participación de la y el adolescente, se basará en el estudio de los factores y carencias que incidieron en su conducta y establecerá metas concretas, estrategias idóneas y plazos para cumplirlas.
 
-- El  plan  deberá estar listo, a más tardar en treinta (30) días a partir de la sentencia debidamente ejecutoriada.
+- II. El plan deberá estar listo, a más tardar en treinta (30) días a partir de la sentencia debidamente ejecutoriada.
 
 Código Niña, Niño y Adolescente
 
@@ -4484,22 +4765,22 @@ Si durante la ejecución de la medida socio-educativa en privación de libertad,
 ###### ARTÍCULO 346. (ATRIBUCIONES).
 La  Jueza  o  el  Juez  en  ejercicio  de  la  competencia  de control de ejecución de las medidas socio-educativas impuestas a la y el adolescente, tendrá las siguientes atribuciones:
 
-- Vigilar que se cumplan las medidas, de acuerdo con lo dispuesto en la sentencia que las ordena;
+- a) Vigilar que se cumplan las medidas, de acuerdo con lo dispuesto en la sentencia que las ordena;
 
-- Velar  por  que  no  se  vulneren  los  derechos  de  la  y  el  adolescente  durante  el cumplimiento  de  las  medidas,  especialmente  en  el  caso  de  las  privativas  de libertad;
+- b) Velar por que no se vulneren los derechos de la y el adolescente durante el cumplimiento de las medidas, especialmente en el caso de las privativas de libertad;
 
-- Realizar inspecciones periódicamente a los centros especializados para supervisar la situación y condiciones sociales y jurídicas de las personas adolescentes;
+- c) Realizar inspecciones periódicamente a los centros especializados para supervisar la situación y condiciones sociales y jurídicas de las personas adolescentes;
 
-- Velar por el cumplimiento estricto del plan individual de ejecución de medidas; y
+- d) Velar por el cumplimiento estricto del plan individual de ejecución de medidas; y
 
-- Revisar y evaluar cada seis meses las medidas, para modificarlas o sustituirlas si no cumplen los objetivos para los que fueron impuestas, o por ser contrarias al proceso de desarrollo de la y el adolescente.
+- e) Revisar y evaluar cada seis meses las medidas, para modificarlas o sustituirlas si no cumplen los objetivos para los que fueron impuestas, o por ser contrarias al proceso de desarrollo de la y el adolescente.
 
 ###### ARTÍCULO 347. (MODIFICACIÓN Y SUSTITUCIÓN DE LA MEDIDA).
-Para la modifi  cación o sustitución de la medida socio-educativa la Jueza o el Juez atenderá a lo siguiente:
+Para la modificación o sustitución de la medida socio-educativa la Jueza o el Juez atenderá a lo siguiente:
 
-- Cuando la persona adolescente con responsabilidad penal haya incumplido injustifi  cadamente y en forma reiterada la medida socio-educativa impuesta, la Jueza o el Juez ampliará su ejecución hasta el máximo legal aplicable y ordenará su sustitución por otra medida que, en atención a la disciplina, resultare más estricta.
+- I. Cuando la persona adolescente con responsabilidad penal haya incumplido injustificadamente y en forma reiterada la medida socio-educativa impuesta, la Jueza o el Juez ampliará su ejecución hasta el máximo legal aplicable y ordenará su sustitución por otra medida que, en atención a la disciplina, resultare más estricta.
 
-- En los casos en que la medida socio-educativa impuesta sea de privación de libertad y  siempre  que  el  delito  cometido  por  la  o  el  adolescente  no  revistiera  gravedad,  su conducta lo amerite y de acuerdo al cumplimiento de su plan individual, la Jueza o el Juez podrá disponer, previa audiencia, con la presencia de la persona adolescente con responsabilidad penal, su madre, padre, guardadora o guardador, tutora o tutor, su  defensora  o  defensor  y  el  representante  del  centro  a  cargo  de  la  ejecución,  que el último año del régimen cerrado se cumpla en  régimen semi-abierto o de libertad
+- II. En los casos en que la medida socio-educativa impuesta sea de privación de libertad y siempre que el delito cometido por la o el adolescente no revistiera gravedad, su conducta lo amerite y de acuerdo al cumplimiento de su plan individual, la Jueza o el Juez podrá disponer, previa audiencia, con la presencia de la persona adolescente con responsabilidad penal, su madre, padre, guardadora o guardador, tutora o tutor, su defensora o defensor y el representante del centro a cargo de la ejecución, que el último año del régimen cerrado se cumpla en régimen semi-abierto o de libertad
 
 132
 
@@ -4509,19 +4790,19 @@ Para la modifi  cación o sustitución de la medida socio-educativa la Jueza o e
 
 asistida, según el informe de evaluación psico-social del caso, tomando en cuenta la recomendación del equipo interdisciplinario.
 
-- En el supuesto anterior, la medida que disponga la libertad asistida o el régimen semiabierto,  continuará  bajo  el  seguimiento  de  la  educadora  o  del  educador  y  el  equipo interdisciplinario que acompañó la privación de libertad.
+- III. En el supuesto anterior, la medida que disponga la libertad asistida o el régimen semi-abierto, continuará bajo el seguimiento de la educadora o del educador y el equipo interdisciplinario que acompañó la privación de libertad.
 
-- En los casos en que el delito cometido por la o el adolescente hubiese sido de extrema gravedad, sólo podrá hacerse uso de las facultades de suspensión o sustitución de la medida cuando haya transcurrido, al menos, la mitad del tiempo del régimen impuesto.
+- IV. En los casos en que el delito cometido por la o el adolescente hubiese sido de extrema gravedad, sólo podrá hacerse uso de las facultades de suspensión o sustitución de la medida cuando haya transcurrido, al menos, la mitad del tiempo del régimen impuesto.
 
 #### SECCIÓN VI CALIFICACIÓN Y REPARACIÓN DE DAÑOS
 
 ###### ARTÍCULO 348. (PROCEDIMIENTO).
 
-- Ejecutoriada la sentencia que imponga la medida socio-educativa, la víctima o la o el Fiscal podrá solicitar a la Jueza o al Juez que la dictó, ordene la reparación del daño causado o la indemnización correspondiente.
+- I. Ejecutoriada la sentencia que imponga la medida socio-educativa, la víctima o la o el Fiscal podrá solicitar a la Jueza o al Juez que la dictó, ordene la reparación del daño causado o la indemnización correspondiente.
 
-- La víctima, aun la que no ha intervenido en el proceso, podrá ejercer la acción civil, dentro de los tres (3) meses de notifi  cada con la sentencia ejecutoriada; caso contrario, quedará extinguida.
+- II. La víctima, aun la que no ha intervenido en el proceso, podrá ejercer la acción civil, dentro de los tres (3) meses de notificada con la sentencia ejecutoriada; caso contrario, quedará extinguida.
 
-- La  demanda  deberá  ser  tramitada  en  observancia  estricta  al  procedimiento  común, establecido por los Artículos 209 y siguientes de este Código.
+- III. La demanda deberá ser tramitada en observancia estricta al procedimiento común, establecido por los Artículos 209 y siguientes de este Código.
 
 # DISPOSICIONES ADICIONALES
 
@@ -4530,10 +4811,10 @@ Las Salas, Tribunales Especializados, la Jueza y el Juez de otras materias, fami
 
 ## SEGUNDA.
 
-- Se modifican los Artículos 5 y 173, y se sustituye el Artículo 258 del Código Penal, Decreto Ley Nº 10426 de 23 de agosto de 1972, elevado a rango de Ley y modificado por la Ley Nº 1768 de 10 de marzo de 1997, quedando redactados con el siguiente texto:
+- I. Se modifican los Artículos 5 y 173, y se sustituye el Artículo 258 del Código Penal, Decreto Ley Nº 10426 de 23 de agosto de 1972, elevado a rango de Ley y modificado por la Ley Nº 1768 de 10 de marzo de 1997, quedando redactados con el siguiente texto:
 
-###### 'Artículo 5. (EN CUANTO A LAS PERSONAS).
-La Ley penal no reconoce ningún  fuero  ni  privilegio  personal,  pero  sus  disposiciones  se  aplicarán  a  las personas que en el momento del hecho fueren mayores de catorce (14) años. La responsabilidad penal de adolescentes de catorce (14) años y menores de dieciocho (18) años, estará sujeta al régimen especial establecido por el Código Niña, Niño y Adolescente'.
+###### “Artículo 5. (EN CUANTO A LAS PERSONAS).
+La Ley penal no reconoce ningún fuero ni privilegio personal, pero sus disposiciones se aplicarán a las personas que en el momento del hecho fueren mayores de catorce (14) años. La responsabilidad penal de adolescentes de catorce (14) años y menores de dieciocho (18) años, estará sujeta al régimen especial establecido por el Código Niña, Niño y Adolescente”.
 
 Código Niña, Niño y Adolescente
 
@@ -4543,37 +4824,37 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 136]]
 
-###### 'Articulo 173 (PREVARICATO).
-La Jueza o el Juez que en el ejercicio de sus  funciones  dictare  resoluciones  manifiestamente  contrarias  a  la  Ley,  será sancionado con privación de libertad de cinco (5) a diez (10) años.
+###### “Articulo 173 (PREVARICATO).
+La Jueza o el Juez que en el ejercicio de sus funciones dictare resoluciones manifiestamente contrarias a la Ley, será sancionado con privación de libertad de cinco (5) a diez (10) años.
 
-Si como resultado del prevaricato en proceso penal se condenare a una persona inocente,  se  le  impusiere  pena  más  grave  que  la  justificable  o  se  aplicara ilegítimamente la detención preventiva, la pena será agravada en un tercio al establecido en el párrafo anterior.
+Si como resultado del prevaricato en proceso penal se condenare a una persona inocente, se le impusiere pena más grave que la justificable o se aplicara ilegítimamente la detención preventiva, la pena será agravada en un tercio al establecido en el párrafo anterior.
 
-Los árbitros o amigables  componedores  o  quien  desempeñare  funciones análogas  de decisión o resolución y que incurran en este delito, tendrán una pena privativa de libertad de tres (3) a ocho (8) años.
+Los árbitros o amigables componedores o quien desempeñare funciones análogas de decisión o resolución y que incurran en este delito, tendrán una pena privativa de libertad de tres (3) a ocho (8) años.
 
 Si se causare daño económico al Estado será agravada en un tercio.
 
-La pena será agravada en dos tercios en los casos descritos precedentemente cuando se  trate  de  niñas,  niños  y  adolescentes,  conforme  la  normativa  legal vigente'.
+La pena será agravada en dos tercios en los casos descritos precedentemente cuando se trate de niñas, niños y adolescentes, conforme la normativa legal vigente”.
 
-###### 'Artículo 258. (INFANTICIDIO).
+###### “Artículo 258. (INFANTICIDIO).
 Se sancionará con pena de presidio de treinta (30) años, sin derecho a indulto, a quién mate a una niña o un niño desde su nacimiento hasta sus doce (12) años, cuando:
 
-- El hecho se haya producido en situación de vulnerabilidad de la niña o niño por el sólo hecho de serlo;
+- 1. El hecho se haya producido en situación de vulnerabilidad de la niña o niño por el sólo hecho de serlo;
 
-- La niña o niño que haya sido víctima de violencia física, psicológica o sexual, con anterioridad a la muerte, por parte del mismo agresor;
+- 2. La niña o niño que haya sido víctima de violencia física, psicológica o sexual, con anterioridad a la muerte, por parte del mismo agresor;
 
-- La niña o niño haya sido víctima de un delito contra la libertad individual o la libertad sexual, con anterioridad a la muerte por parte del mismo agresor;
+- 3. La niña o niño haya sido víctima de un delito contra la libertad individual o la libertad sexual, con anterioridad a la muerte por parte del mismo agresor;
 
-- La muerte sea conexa al delito de trata o tráfico de personas;
+- 4. La muerte sea conexa al delito de trata o tráfico de personas;
 
-- La muerte sea resultado de ritos, desafíos grupales o prácticas culturales por parte del mismo agresor;
+- 5. La muerte sea resultado de ritos, desafíos grupales o prácticas culturales por parte del mismo agresor;
 
-- La  niña  o  niño  haya  sido  víctima  de  violencia  familiar  o  doméstica,  con anterioridad a la muerte por parte del mismo agresor;
+- 6. La niña o niño haya sido víctima de violencia familiar o doméstica, con anterioridad a la muerte por parte del mismo agresor;
 
-- Existan antecedentes de abandono a la niña o niño, por parte del mismo agresor;
+- 7. Existan antecedentes de abandono a la niña o niño, por parte del mismo agresor;
 
-- La niña o niño haya sido víctima de amenazas al interior de la familia, con anterioridad a la muerte por parte del mismo agresor; y
+- 8. La niña o niño haya sido víctima de amenazas al interior de la familia, con anterioridad a la muerte por parte del mismo agresor; y
 
-- La  niña  o  niño  haya  sido  víctima  de  hostigamiento  u  odio  dentro  de  la familia, con anterioridad a la muerte por parte del mismo agresor'.
+- 9. La niña o niño haya sido víctima de hostigamiento u odio dentro de la familia, con anterioridad a la muerte por parte del mismo agresor”.
 
 134
 
@@ -4581,28 +4862,28 @@ Se sancionará con pena de presidio de treinta (30) años, sin derecho a indulto
 
 [[START OF PAGE 137]]
 
-- Se modifi  ca el Artículo 85 del Código de Procedimiento Penal, Ley Nº 1970, de 25 de marzo de 1999, quedando redactado con el siguiente texto:
+- II. Se modifica el Artículo 85 del Código de Procedimiento Penal, Ley Nº 1970, de 25 de marzo de 1999, quedando redactado con el siguiente texto:
 
-###### 'Artículo 85. (ADOLESCENTES EN EL SISTEMA PENAL).
-Si la persona imputada fuere menor de dieciocho (18) años de edad, su procesamiento, se sujetará al Sistema Penal para adolescentes establecido en el Código Niña, Niño y Adolescente'.
+###### “Artículo 85. (ADOLESCENTES EN EL SISTEMA PENAL).
+Si la persona imputada fuere menor de dieciocho (18) años de edad, su procesamiento, se sujetará al Sistema Penal para adolescentes establecido en el Código Niña, Niño y Adolescente”.
 
-- Se modifi  ca el Artículo 58 de la Ley General del Trabajo, quedando redactado con el siguiente texto:
+- III. Se modifica el Artículo 58 de la Ley General del Trabajo, quedando redactado con el siguiente texto:
 
-###### 'Artículo 58.
-Se prohíbe el trabajo de los menores de catorce (14) años de uno y otro sexo, salvo el caso de aprendices y las excepciones fijadas por el Código Niña, Niño y Adolescente. Los menores de dieciocho (18) años no podrán contratarse  para  trabajos  superiores  a  sus  fuerzas  o  que  puedan  retardar  su desarrollo físico normal'.
+###### “Artículo 58.
+Se prohíbe el trabajo de los menores de catorce (14) años de uno y otro sexo, salvo el caso de aprendices y las excepciones fijadas por el Código Niña, Niño y Adolescente. Los menores de dieciocho (18) años no podrán contratarse para trabajos superiores a sus fuerzas o que puedan retardar su desarrollo físico normal”.
 
-- Se modifi  ca la Disposición Transitoria Primera (VIGENCIA PLENA), del Código Procesal Civil, Ley N° 439 de 19 de noviembre de 2013, quedando redactado con el siguiente texto:
+- IV. Se modifica la Disposición Transitoria Primera (VIGENCIA PLENA), del Código Procesal Civil, Ley N° 439 de 19 de noviembre de 2013, quedando redactado con el siguiente texto:
 
-###### 'PRIMERA. (VIGENCIA PLENA).
-El  presente Código entrará en vigencia plena el 6 de Agosto del 2015 y será aplicable a los procesos presentados a partir de la fecha de referencia, salvo en lo previsto en las disposiciones siguientes'.
+###### “PRIMERA. (VIGENCIA PLENA).
+El presente Código entrará en vigencia plena el 6 de Agosto del 2015 y será aplicable a los procesos presentados a partir de la fecha de referencia, salvo en lo previsto en las disposiciones siguientes”.
 
 ## TERCERA.
 
-- El Ministerio de Trabajo, Empleo y Previsión Social, el Ministerio de Justicia, y el Ministerio de Planifi  cación del Desarrollo, quedan a cargo de desarrollar y establecer de manera participativa, con todos los niveles del Estado, el Programa de Prevención y Protección Social para Niñas, Niños y Adolescentes menores de catorce (14) años en actividad laboral, de manera que genere una política nacional de erradicación y protección.
+- I. El Ministerio de Trabajo, Empleo y Previsión Social, el Ministerio de Justicia, y el Ministerio de Planificación del Desarrollo, quedan a cargo de desarrollar y establecer de manera participativa, con todos los niveles del Estado, el Programa de Prevención y Protección Social para Niñas, Niños y Adolescentes menores de catorce (14) años en actividad laboral, de manera que genere una política nacional de erradicación y protección.
 
-- El  Programa  señalado  en  el  Parágrafo  anterior,  incluirá  además  de  otras  iniciativas estratégicas, mecanismos dirigidos a promover la complementación de la escolarización obligatoria; la capacitación, la sensibilización y otros, a las familias, a la guardadora o guardador, tutora o tutor, en el caso de que la causa de la actividad laboral y del trabajo, sea la extrema pobreza; el otorgamiento de los referidos benefi  cios estará sujeto a reglamento, respetando en todo momento el cumplimiento de las normas previstas en el presente Código sobre prohibición de trabajo de niñas, niños y adolescentes menores de catorce (14) años, y al ejercicio de su derecho a la educación y otros establecidos a favor de esta población.
+- II. El Programa señalado en el Parágrafo anterior, incluirá además de otras iniciativas estratégicas, mecanismos dirigidos a promover la complementación de la escolarización obligatoria; la capacitación, la sensibilización y otros, a las familias, a la guardadora o guardador, tutora o tutor, en el caso de que la causa de la actividad laboral y del trabajo, sea la extrema pobreza; el otorgamiento de los referidos beneficios estará sujeto a reglamento, respetando en todo momento el cumplimiento de las normas previstas en el presente Código sobre prohibición de trabajo de niñas, niños y adolescentes menores de catorce (14) años, y al ejercicio de su derecho a la educación y otros establecidos a favor de esta población.
 
-- Los  Gobiernos Autónomos Departamentales y los Gobiernos Autónomos Municipales, deberán participar en la ejecución del Programa de Prevención y Protección Social para
+- III. Los Gobiernos Autónomos Departamentales y los Gobiernos Autónomos Municipales, deberán participar en la ejecución del Programa de Prevención y Protección Social para
 
 Código Niña, Niño y Adolescente
 
@@ -4612,25 +4893,25 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 138]]
 
-Niñas, Niños y Adolescentes menores de catorce (14) años en actividad laboral, para lo cual deberán prever la correspondiente asignación de recursos en sus respectivos Planes Operativos Anuales-POA's.
+Niñas, Niños y Adolescentes menores de catorce (14) años en actividad laboral, para lo cual deberán prever la correspondiente asignación de recursos en sus respectivos Planes Operativos Anuales-POA’s.
 
-- La etapa de preparación del Programa deberá incluir, en coordinación con el Instituto Nacional  de  Estadísticas-INE,  una  encuesta  nacional  que  identifi  que  la  cantidad  de niñas, niños y adolescentes menores de catorce (14) años que realicen una actividad laboral o trabajen, y las determinantes que inciden en este trabajo. A partir de estos datos  se  elaborará  un  diagnóstico  que  identifi  que  responsabilidades  del  Estado, familia, sociedad, cooperación, privados, grupos benefi  ciarios, y un plan piloto con la metodología de erradicación de las causas de  trabajo de niñas, niños y adolescentes menores de catorce (14) años.
+- IV. La etapa de preparación del Programa deberá incluir, en coordinación con el Instituto Nacional de Estadísticas-INE, una encuesta nacional que identifique la cantidad de niñas, niños y adolescentes menores de catorce (14) años que realicen una actividad laboral o trabajen, y las determinantes que inciden en este trabajo. A partir de estos datos se elaborará un diagnóstico que identifique responsabilidades del Estado, familia, sociedad, cooperación, privados, grupos beneficiarios, y un plan piloto con la metodología de erradicación de las causas de trabajo de niñas, niños y adolescentes menores de catorce (14) años.
 
-- Este Programa deberá diseñarse en un plazo de dos (2) años a partir de la publicación del presente Código, e implementarse en los siguientes tres (3) años.
+- V. Este Programa deberá diseñarse en un plazo de dos (2) años a partir de la publicación del presente Código, e implementarse en los siguientes tres (3) años.
 
-- Mientras  la  política  de  erradicación  y  protección  no  se  diseñe  ni  implemente,  se aplicarán a las niñas, niños y adolescentes menores de catorce (14) años, las mismas disposiciones contenidas en este Código para la protección de las y los adolescentes trabajadores mayores de catorce (14) años.
+- VI. Mientras la política de erradicación y protección no se diseñe ni implemente, se aplicarán a las niñas, niños y adolescentes menores de catorce (14) años, las mismas disposiciones contenidas en este Código para la protección de las y los adolescentes trabajadores mayores de catorce (14) años.
 
 ## CUARTA.
 
-- Para el cumplimiento del 'Programa Integral de Lucha contra la Violencia Sexual a Niñas, Niños o Adolescentes', se deberán implementar y ejecutar las siguientes medidas:
+- I. Para el cumplimiento del “Programa Integral de Lucha contra la Violencia Sexual a Niñas, Niños o Adolescentes”, se deberán implementar y ejecutar las siguientes medidas:
 
-- El Ministerio de Gobierno en coordinación con la Dirección General de Régimen Penitenciario, creará un sistema de registro nacional con la nómina de personas con sentencia condenatoria ejecutoriada por delitos contra la libertad sexual de niñas, niños o adolescentes.
+- a) El Ministerio de Gobierno en coordinación con la Dirección General de Régimen Penitenciario, creará un sistema de registro nacional con la nómina de personas con sentencia condenatoria ejecutoriada por delitos contra la libertad sexual de niñas, niños o adolescentes.
 
-- El registro señalado en el Parágrafo precedente, será de acceso público para fines de prevención, e identificará a la persona y sus datos, incluyendo su fotografía, por lo que serán actualizados con periodicidad.
+- b) El registro señalado en el Parágrafo precedente, será de acceso público para fines de prevención, e identificará a la persona y sus datos, incluyendo su fotografía, por lo que serán actualizados con periodicidad.
 
-- El  Estado  deberá  implementar  equipos  multidisciplinarios  de  seguimiento  y tratamiento psicológico o psiquiátrico obligatorio, como medidas de seguridad, para atención de personas con sentencia condenatoria ejecutoriada por delitos contra la libertad sexual de niñas, niños o adolescentes que hubieren cumplido con su condena. Estos equipos efectuarán informes periódicos presentados ante la Defensoría de la Niñez y Adolescencia, y brindarán la documentación que sea necesaria sobre sus evaluaciones y tratamientos, ante la autoridad competente que así lo requiera.
+- c) El Estado deberá implementar equipos multidisciplinarios de seguimiento y tratamiento psicológico o psiquiátrico obligatorio, como medidas de seguridad, para atención de personas con sentencia condenatoria ejecutoriada por delitos contra la libertad sexual de niñas, niños o adolescentes que hubieren cumplido con su condena. Estos equipos efectuarán informes periódicos presentados ante la Defensoría de la Niñez y Adolescencia, y brindarán la documentación que sea necesaria sobre sus evaluaciones y tratamientos, ante la autoridad competente que así lo requiera.
 
-- El Ministerio de Gobierno y la Dirección General de Régimen Penitenciario, tendrán un plazo de trescientos sesenta y cinco (365) días, a partir de la puesta en vigencia del presente Código.
+- II. El Ministerio de Gobierno y la Dirección General de Régimen Penitenciario, tendrán un plazo de trescientos sesenta y cinco (365) días, a partir de la puesta en vigencia del presente Código.
 
 136
 
@@ -4639,24 +4920,24 @@ Niñas, Niños y Adolescentes menores de catorce (14) años en actividad laboral
 [[START OF PAGE 139]]
 
 ## QUINTA.
-El  Ministerio  de  Economía  y  Finanzas  Públicas,  creará  categorías  programáticas específi  cas y sufi  cientes para el cumplimiento del presente Código.
+El Ministerio de Economía y Finanzas Públicas, creará categorías programáticas específicas y suficientes para el cumplimiento del presente Código.
 
 # DISPOSICIONES TRANSITORIAS
 
 ## PRIMERA.
 
-- De acuerdo a la atribución  establecida  en  el Artículo  183,  Parágrafo  III  Inciso  5,  de la  Ley  Nº  025,  Ley  del  Órgano  Judicial,  de  24  de  junio  de  2010,  el  Consejo  de  la Magistratura,  previo  estudio,  creará  en  cada  departamento,  considerando  la  carga procesal y necesidades, Juzgados Públicos en materia de Niñez y Adolescencia. Dicho estudio deberá realizarse dentro de los ciento veinte (120) días, computables desde la puesta en vigencia del presente Código.
+- I. De acuerdo a la atribución establecida en el Artículo 183, Parágrafo III Inciso 5, de la Ley Nº 025, Ley del Órgano Judicial, de 24 de junio de 2010, el Consejo de la Magistratura, previo estudio, creará en cada departamento, considerando la carga procesal y necesidades, Juzgados Públicos en materia de Niñez y Adolescencia. Dicho estudio deberá realizarse dentro de los ciento veinte (120) días, computables desde la puesta en vigencia del presente Código.
 
-- En el plazo de ciento ochenta (180) días a partir de la puesta en vigencia del presente Código, la Escuela Plurinacional de Jueces deberá implementar cursos permanentes y de especialización en estudios de género, generacional, de la niña, niño y adolescente, justicia  penal  especializada para adolescentes con enfoque de justicia restaurativa y cultura de paz. Todas las y los jueces en Niñez y Adolescencia, tienen la obligación de actualizar  sus  conocimientos  en  estas  materias  en  el  plazo  de  trescientos  sesenta  y cinco (365) días a partir de la implementación de los cursos.
+- II. En el plazo de ciento ochenta (180) días a partir de la puesta en vigencia del presente Código, la Escuela Plurinacional de Jueces deberá implementar cursos permanentes y de especialización en estudios de género, generacional, de la niña, niño y adolescente, justicia penal especializada para adolescentes con enfoque de justicia restaurativa y cultura de paz. Todas las y los jueces en Niñez y Adolescencia, tienen la obligación de actualizar sus conocimientos en estas materias en el plazo de trescientos sesenta y cinco (365) días a partir de la implementación de los cursos.
 
 ## SEGUNDA.
-El Ministerio de Justicia en un plazo no mayor a cuarenta y cinco (45) días a partir de la puesta en vigencia del presente Código, convocará al Consejo de Coordinación Sectorial e Intersectorial para temas de la niña, niño y adolescente, con la fi  nalidad de que esta instancia organice, defi  na y encabece el proceso de implementación del presente Código, mediante la elaboración de un plan que contendrá, obligatoriamente, la capacitación de los servidores que intervengan en la garantía de los derechos de las niñas, niños y adolescentes.
+El Ministerio de Justicia en un plazo no mayor a cuarenta y cinco (45) días a partir de la puesta en vigencia del presente Código, convocará al Consejo de Coordinación Sectorial e Intersectorial para temas de la niña, niño y adolescente, con la finalidad de que esta instancia organice, defina y encabece el proceso de implementación del presente Código, mediante la elaboración de un plan que contendrá, obligatoriamente, la capacitación de los servidores que intervengan en la garantía de los derechos de las niñas, niños y adolescentes.
 
 ## TERCERA.
-En un plazo no mayor a trescientos sesenta y cinco (365) días desde la puesta en vigencia del presente Código, el Instituto Nacional de Estadística-INE, hará un Censo Nacional de  Niñas,  Niños  y Adolescentes  en  situación  de  calle.  En  este  mismo  plazo  las  instancias departamentales  de  Gestión  Social,  realizarán  una  identifi  cación  de  todas  las  instituciones públicas y privadas que actualmente tienen programas y servicios destinados a esta población, con la fi  nalidad de crear una política de protección específi  ca para este sector de la niña, niño y adolescente.
+En un plazo no mayor a trescientos sesenta y cinco (365) días desde la puesta en vigencia del presente Código, el Instituto Nacional de Estadística-INE, hará un Censo Nacional de Niñas, Niños y Adolescentes en situación de calle. En este mismo plazo las instancias departamentales de Gestión Social, realizarán una identificación de todas las instituciones públicas y privadas que actualmente tienen programas y servicios destinados a esta población, con la finalidad de crear una política de protección específica para este sector de la niña, niño y adolescente.
 
 ## CUARTA.
-Los  Gobiernos Autónomos  Departamentales,  en  un  plazo  de  trescientos  sesenta y cinco (365) días a partir de la puesta en vigencia del presente Código, crearán los centros especializados para el cumplimiento de las medidas socio- educativas, restrictivas y privativas de libertad, así como la implementación de programas y servicios para el cumplimiento de las medidas socio-educativas en libertad, y para la materialización de los mecanismos de justicia restaurativa.
+Los Gobiernos Autónomos Departamentales, en un plazo de trescientos sesenta y cinco (365) días a partir de la puesta en vigencia del presente Código, crearán los centros especializados para el cumplimiento de las medidas socio-educativas, restrictivas y privativas de libertad, así como la implementación de programas y servicios para el cumplimiento de las medidas socio-educativas en libertad, y para la materialización de los mecanismos de justicia restaurativa.
 
 Código Niña, Niño y Adolescente
 
@@ -4671,26 +4952,26 @@ El Tribunal Supremo de Justicia en un plazo no mayor a los seis (6) meses de la 
 
 ## SEXTA.
 
-- Los procesos en trámite, iniciados de acuerdo a la Ley Nº 2026, Código del Niño, Niña y Adolescente, de 27 de octubre de 1999; proseguirán según el proceso establecido en ese ordenamiento hasta su conclusión con la autoridad judicial con la que se ha iniciado el referido proceso.
+- I. Los procesos en trámite, iniciados de acuerdo a la Ley Nº 2026, Código del Niño, Niña y Adolescente, de 27 de octubre de 1999; proseguirán según el proceso establecido en ese ordenamiento hasta su conclusión con la autoridad judicial con la que se ha iniciado el referido proceso.
 
-- Los  procesos  contra  personas  adolescentes  tramitados  con  la  Ley  N°  1970,  Código de Procedimiento Penal, de 25 de marzo de 1999, se sujetarán a lo establecido por la norma citada, salvo lo previsto en relación a las medidas cautelares y el régimen de medidas socio-educativas, que se sujetarán a lo establecido por el presente Código.
+- II. Los procesos contra personas adolescentes tramitados con la Ley N° 1970, Código de Procedimiento Penal, de 25 de marzo de 1999, se sujetarán a lo establecido por la norma citada, salvo lo previsto en relación a las medidas cautelares y el régimen de medidas socio-educativas, que se sujetarán a lo establecido por el presente Código.
 
 ## SÉPTIMA.
-El Ministerio de Relaciones Exteriores, en un plazo no mayor a un (1) año a partir de la puesta en vigencia del presente Código, deberá fi  rmar los convenios bilaterales y acuerdos marco de cooperación en materia de adopciones internacionales.
+El Ministerio de Relaciones Exteriores, en un plazo no mayor a un (1) año a partir de la puesta en vigencia del presente Código, deberá firmar los convenios bilaterales y acuerdos marco de cooperación en materia de adopciones internacionales.
 
 ## OCTAVA.
-El Ministerio de Educación, en un plazo no mayor a 180 días calendario computables a partir de la puesta en vigencia del presente Código, diseñará e implementará todas las políticas, programas y planes de convivencia  pacífi  ca  y  armónica,  bajo  los  lineamientos  establecidos en los Artículos 150, 151 y 152 del presente Código, sobre protección contra violencia en el sistema educativo.
+El Ministerio de Educación, en un plazo no mayor a 180 días calendario computables a partir de la puesta en vigencia del presente Código, diseñará e implementará todas las políticas, programas y planes de convivencia pacífica y armónica, bajo los lineamientos establecidos en los Artículos 150, 151 y 152 del presente Código, sobre protección contra violencia en el sistema educativo.
 
 ## NOVENA.
-Mientras  se  implemente  la  Ley  del  Servicio  Plurinacional  de  Defensa  Pública,  la Defensoría de la Niñez y Adolescencia asumirá la defensa técnica de la o el adolescente en el Sistema Penal, de acuerdo a lo previsto por el Artículo 274 del presente Código.
+Mientras se implemente la Ley del Servicio Plurinacional de Defensa Pública, la Defensoría de la Niñez y Adolescencia asumirá la defensa técnica de la o el adolescente en el Sistema Penal, de acuerdo a lo previsto por el Artículo 274 del presente Código.
 
 ## DÉCIMA.
-Las Instancias Técnicas Departamentales de Política Social, en un plazo no mayor a tres (3) meses a partir de la puesta en vigencia del presente Código, deberán implementar servicios  técnicos  especializados  de  preparación  permanente  para  solicitantes  adoptantes, quienes podrán acceder a éstos sin necesidad de autorización judicial.
+Las Instancias Técnicas Departamentales de Política Social, en un plazo no mayor a tres (3) meses a partir de la puesta en vigencia del presente Código, deberán implementar servicios técnicos especializados de preparación permanente para solicitantes adoptantes, quienes podrán acceder a éstos sin necesidad de autorización judicial.
 
 ## DÉCIMA PRIMERA.
 El Estado en su nivel central, en corresponsabilidad con los Gobiernos Autónomos deberá, a partir de la vigencia del presente Código:
 
-- En un plazo no mayor a cinco (5) años, erradicar las causas de trabajo infantil a través de la implementación de los programas específicos a nivel nacional, departamental y municipal. En el año 2019, el Instituto Nacional de EstadísticaINE realizará una encuesta nacional de niñas, niños y adolescentes, evaluando el progreso de políticas y programas destinados a esta población;
+- a) En un plazo no mayor a cinco (5) años, erradicar las causas de trabajo infantil a través de la implementación de los programas específicos a nivel nacional, departamental y municipal. En el año 2019, el Instituto Nacional de Estadística-INE realizará una encuesta nacional de niñas, niños y adolescentes, evaluando el progreso de políticas y programas destinados a esta población;
 
 138
 
@@ -4698,35 +4979,35 @@ El Estado en su nivel central, en corresponsabilidad con los Gobiernos Autónomo
 
 [[START OF PAGE 141]]
 
-- En  un  plazo  no  mayor  a  los  seis  (6)  meses,  implementar  los  programas  de prevención, abordaje y atención a niñas, niños y adolescente en situación de calle con el fin de restituir sus derechos;
+- b) En un plazo no mayor a los seis (6) meses, implementar los programas de prevención, abordaje y atención a niñas, niños y adolescente en situación de calle con el fin de restituir sus derechos;
 
-- En un plazo no mayor a los tres (3) meses, diseñar e implementar programas específicos  para  prevenir  la  asociación  de  niñas,  niños  y  adolescentes  en pandillas con fines ilícitos.
+- c) En un plazo no mayor a los tres (3) meses, diseñar e implementar programas específicos para prevenir la asociación de niñas, niños y adolescentes en pandillas con fines ilícitos.
 
 ## DÉCIMA SEGUNDA.
 El ente rector en un plazo no mayor a seis (6) meses a partir de la puesta en vigencia del presente Código, diseñará y deberá articular con el Ministerio de Salud, Ministerio de Gobierno, Ministerio Público, Órgano Judicial y Régimen Penitenciario, la implementación de los programas de prevención, atención y protección contra la violencia sexual a niñas, niños y adolescentes.
 
 ## DÉCIMA TERCERA.
-Las Instancias Técnicas Departamentales de Política Social en un plazo no mayor a tres (3) meses a partir de la puesta en vigencia del presente Código, diseñarán e  implementarán  servicios  de  calidad  y  con  currícula  especializada  para  niñas,  niños  y adolescentes en situación de discapacidad y enfermedades mentales, asegurándoles una vida digna.
+Las Instancias Técnicas Departamentales de Política Social en un plazo no mayor a tres (3) meses a partir de la puesta en vigencia del presente Código, diseñarán e implementarán servicios de calidad y con currícula especializada para niñas, niños y adolescentes en situación de discapacidad y enfermedades mentales, asegurándoles una vida digna.
 
 # DISPOSICIONES ABROGATORIA Y DEROGATORIA
 
-## DISPOSICIÓN  ABROGATORIA.
-Se  abrogan  las  siguientes  disposiciones  normativas  a  la entrada en vigencia plena del presente Código:
+## DISPOSICIÓN ABROGATORIA.
+Se abrogan las siguientes disposiciones normativas a la entrada en vigencia plena del presente Código:
 
-- Ley Nº 2026, Código del Niño, Niña y Adolescente, de 26 de octubre de 1999;
+- a) Ley Nº 2026, Código del Niño, Niña y Adolescente, de 26 de octubre de 1999;
 
-- Decreto Supremo Nº 26086, Reglamento del Código Niño, Niña y Adolescente, de 23 de febrero de 2001;
+- b) Decreto Supremo Nº 26086, Reglamento del Código Niño, Niña y Adolescente, de 23 de febrero de 2001;
 
-- Decreto Supremo N° 24447, de 20 de diciembre de 1996; y
+- c) Decreto Supremo N° 24447, de 20 de diciembre de 1996; y
 
-- Todas las disposiciones contrarias al presente Código.
+- d) Todas las disposiciones contrarias al presente Código.
 
-## DISPOSICIÓN  DEROGATORIA.
-Se  derogan  las  siguientes  disposiciones  normativas  a  la entrada en vigencia plena del presente Código:
+## DISPOSICIÓN DEROGATORIA.
+Se derogan las siguientes disposiciones normativas a la entrada en vigencia plena del presente Código:
 
-- Artículo 389 del Código de Procedimiento Penal;
+- a) Artículo 389 del Código de Procedimiento Penal;
 
-- Numeral 6 del Artículo 70 de la Ley Nº 025, Ley del Órgano Judicial, de 24 de junio de 2010, en cuanto a suspensión, restitución de la autoridad de los padres, revocación y nulidad de la adopción; las demás causas contenciosas se mantienen en relación con los adultos;
+- b) Numeral 6 del Artículo 70 de la Ley Nº 025, Ley del Órgano Judicial, de 24 de junio de 2010, en cuanto a suspensión, restitución de la autoridad de los padres, revocación y nulidad de la adopción; las demás causas contenciosas se mantienen en relación con los adultos;
 
 Código Niña, Niño y Adolescente
 
@@ -4736,9 +5017,9 @@ Código Niña, Niño y Adolescente
 
 [[START OF PAGE 142]]
 
-- Artículo 26 de la Ley Nº 2298, Ley de Ejecución Penal y Supervisión, de 20 de diciembre de 2001; y
+- c) Artículo 26 de la Ley Nº 2298, Ley de Ejecución Penal y Supervisión, de 20 de diciembre de 2001; y
 
-- Todas las disposiciones contrarias al presente Código.
+- d) Todas las disposiciones contrarias al presente Código.
 
 # DISPOSICIONES FINALES
 
@@ -4748,17 +5029,17 @@ El presente Código, será reglamentado mediante Decreto Supremo en el plazo de 
 ## SEGUNDA.
 El presente Código, entrará en vigencia el 6 de agosto de 2014.
 
-Remítase al Órgano Ejecutivo, para fi  nes constitucionales.
+Remítase al Órgano Ejecutivo, para fines constitucionales.
 
-- Es dada en la Sala de Sesiones de la Asamblea Legislativa Plurinacional, a los dos días del mes de julio de dos mil catorce años.
+Es dada en la Sala de Sesiones de la Asamblea Legislativa Plurinacional, a los dos días del mes de julio de dos mil catorce años.
 
-- Fdo. Eugenio Rojas Apaza, Marcelo William Elío Chávez, Efrain Condori Lopez, Roxana Camargo Fernández, Nelson Virreira Meneces, Ángel David Cortés Villegas.
+Fdo. Eugenio Rojas Apaza, Marcelo William Elío Chávez, Efrain Condori Lopez, Roxana Camargo Fernández, Nelson Virreira Meneces, Ángel David Cortés Villegas.
 
-- Por tanto, la promulgo para que se tenga y cumpla como Ley del Estado Plurinacional de Bolivia.
+Por tanto, la promulgo para que se tenga y cumpla como Ley del Estado Plurinacional de Bolivia.
 
 Palacio de Gobierno de la ciudad de La Paz, a los diecisiete días del mes de julio del año dos mil catorce.
 
-FDO. ÁLVARO GARCÍA LINERA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, Jorge Perez Valenzuela, Elizabeth Sandra Gutiérrez Salazar, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo,  Roberto  Iván Aguilar  Gómez,  Nemesia Achacollo Tola,  MINISTRA  DE  DESARROLLO RURAL Y TIERRAS E INTERINA DE ECONOMÍA Y FINANZAS PÚBLICAS, Claudia Stacy Peña Claros, Amanda Dávila Torres, Tito Rolando Montaño Rivera.
+FDO. ÁLVARO GARCÍA LINERA, David Choquehuanca Céspedes, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE PLANIFICACIÓN DEL DESARROLLO, Jorge Perez Valenzuela, Elizabeth Sandra Gutiérrez Salazar, Daniel Santalla Torrez, Juan Carlos Calvimontes Camargo, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, MINISTRA DE DESARROLLO RURAL Y TIERRAS E INTERINA DE ECONOMÍA Y FINANZAS PÚBLICAS, Claudia Stacy Peña Claros, Amanda Dávila Torres, Tito Rolando Montaño Rivera.
 
 140
 
