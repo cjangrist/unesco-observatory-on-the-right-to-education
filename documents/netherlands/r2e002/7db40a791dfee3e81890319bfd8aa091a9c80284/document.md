@@ -1,4 +1,5 @@
 [[START OF PAGE 1]]
+Ministry of Education, Culture and Science
 
 # Working in education 2012
 
@@ -10,35 +11,35 @@
 
 This 'Working in Education 2012' policy document portrays a coherent picture of the latest developments in employment in the education sector. In addition, this document also discusses the current situation regarding the government's policies for improving teacher quality and teacher training programmes. These policies are based on the following key developments:
 
- A shortage of teachers is expected in the years to come, especially in secondary education.
+- A shortage of teachers is expected in the years to come, especially in secondary education.
 
- Dutch students' learning achievements	are still above average in international rankings, but fail to reach the top five in any category. Student achievement is even declining for a number of indicators.
+- Dutch students' learning achievements are still above average in international rankings, but fail to reach the top five in any category. Student achievement is even declining for a number of indicators.
 
 - There are concerns about teacher quality.
 
-These developments served as a stimulus to increase investment in teachers and the teaching profession, with the aim of ensuring sufficient numbers of properly trained teachers in the future. Additional measures were launched when the LeerKracht van Nederland 1 action plan was implemented.
+These developments served as a stimulus to increase investment in teachers and the teaching profession, with the aim of ensuring sufficient numbers of properly trained teachers in the future. Additional measures were launched when the LeerKracht van Nederland¹ action plan was implemented.
 
 This action plan provides schools with additional financial resources to reward teachers in higher pay scales. Also, the number of salary increments has been reduced, meaning teachers enjoy larger incremental pay rises. These measures serve to improve the career prospects for those in the teaching profession. Furthermore, the LeerKracht action plan also provides funding for ongoing training grants and PhD grants for teachers.
 
 The additional investment coming from the LeerKracht action plan was approximately € 0.7 billion in 2011. In accordance with agreements with the trade unions and employers' organizations, this amount will be increased at regular intervals to more than € 1 billion by 2020.
 
-### Action plan: Teacher 2020 - a strong profession!
+### Action plan: Teacher 2020 – a strong profession!
 
-The Teacher 2020 - a strong profession! action plan was established during this government's term of office. The plan contains three action lines:
+The Teacher 2020 – a strong profession! action plan was established during this government's term of office. The plan contains three action lines:
 
-> 1  Action plan focussing on tackling teacher shortage and improving the position and quality of teachers in the Netherlands.
+1 Strengthening the quality of current and future teachers and school administrators. This is done by emphasizing the further professionalization of teachers and school administrators and by introducing a register of teachers. This action line is the government's tool for improving students' learning achievements.
 
-- 1 	  Strengthening the quality of current and future teachers and school administrators. This is done by emphasizing the further professionalization of teachers and school administrators and by introducing a register of teachers. This action line is the government's tool for improving students' learning achievements.
+2 Encouraging schools to become highly professional organizations by introducing an ambitious, results-based culture and by stimulating professional HR policies. This means: giving teachers sufficient opportunities for professional growth, providing avenues for professionalization, showing appropriate appreciation for excellent teachers and rewarding it (e.g. through performance-related pay). This action line has been implemented because a professional school organization helps to improve teacher quality, and hence student achievement.
 
-- 2	 Encouraging schools to become highly professional organizations by introducing an ambitious, results-based culture and by stimulating professional HR policies. This means: giving teachers sufficient opportunities for professional growth, providing avenues for professionalization, showing appropriate appreciation for excellent teachers and rewarding it (e.g. through performancerelated pay). This action line has been implemented because a professional school organization helps to improve teacher quality, and hence student achievement.
-
-- 3 	  Improving the quality of teacher training programmes, by educating new teachers to a higher level and to more exacting standards. This will also serve to improve student achievement. The government also feels that young people coming from senior general secondary education or pre-university education will be more likely to consider enrolling in a teacher training programme if they can be assured of receiving a truly excellent teacher training programme.
+3 Improving the quality of teacher training programmes, by educating new teachers to a higher level and to more exacting standards. This will also serve to improve student achievement. The government also feels that young people coming from senior general secondary education or pre-university education will be more likely to consider enrolling in a teacher training programme if they can be assured of receiving a truly excellent teacher training programme.
 
 ### Situation in 2011
 
 It is still too early to demonstrate any significant effects for a number of policy measures, though definite progress has been made in a number of areas. Here, initial successes can be reported. The 'function mix' has given teachers more career opportunities. Also, HR policies in schools are progressing, albeit slowly. Many teachers and school administrators are actively working on continuing education and professionalization measures. Moreover, the register of teachers will soon be launched.
 
-We may not rest on our laurels, however: much remains to be done in	the years to come. A shortage of teachers is expected, especially in secondary education. The government, trade unions, employers' organizations and schools must face up to this challenge together and do what they can to combat the shortage and make sure classrooms are staffed by highly qualified teachers. The government will create the necessary conditions and facilitate change, but the schools themselves will have to undergo a cultural transformation. They will need to offer a solid and professional work environment, in which teachers have real career opportunities and scope to refine their skills. Schools must therefore become attractive, professional learning environments where teachers like to work.
+We may not rest on our laurels, however: much remains to be done in the years to come. A shortage of teachers is expected, especially in secondary education. The government, trade unions, employers' organizations and schools
+
+1 Action plan focussing on tackling teacher shortage and improving the position and quality of teachers in the Netherlands.
 
 PAGE 1
 
@@ -47,6 +48,8 @@ FOREWORD
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+must face up to this challenge together and do what they can to combat the shortage and make sure classrooms are staffed by highly qualified teachers. The government will create the necessary conditions and facilitate change, but the schools themselves will have to undergo a cultural transformation. They will need to offer a solid and professional work environment, in which teachers have real career opportunities and scope to refine their skills. Schools must therefore become attractive, professional learning environments where teachers like to work.
 
 The State Secretary of Education, Culture and Science,
 
@@ -62,9 +65,70 @@ FOREWORD
 
 ## Table of contents
 
-Index
-
-110
+Table of contents 3
+Summary 5
+C1 Teacher quality 11
+1.1 Initiatives to improve teacher quality 13
+1.1.1 Ongoing training grant for teachers 13
+1.1.2 PhD grant 14
+1.1.3 Reduce number of unqualified teachers 14
+1.1.4 Teacher competency document 15
+1.1.5 Register of teachers 15
+1.1.6 Improving teacher quality in the Caribbean Netherlands 16
+1.2 The teacher in 2020 17
+1.3 Professional development 18
+1.3.1 Professional development is an important component of teaching 18
+1.3.2 Professional development 19
+1.3.3 Peer review as a tool for professional development 20
+C2 The school as a professional organization 23
+2.1 Better pay for teachers 25
+2.2 Improving the 'function mix': the current situation 27
+2.2.1 Primary education 27
+2.2.2 Secondary education 29
+2.2.3 Senior secondary vocational education 29
+2.2.4 Higher professional education 30
+2.3 Incentives for more professional HR policies 33
+2.3.1 Job performance appraisals 33
+2.3.2 Professional development of school administrators and supervisors 33
+2.3.3 Experiments with performance-related pay 34
+2.3.4 Peer review 35
+2.3.5 Assessing and rewarding teachers in an international perspective 35
+2.4 Job satisfaction in education sector 37
+2.4.1 Overall satisfaction 37
+2.4.2 Aspects of satisfaction 37
+2.4.3 Employee satisfaction in senior secondary vocational education 39
+C3 Teacher training programmes 41
+3.1 Tackling teacher shortage and improving quality of teachers 43
+3.1.1 New routes to a career as a teacher 43
+3.1.2 Improving the quality of teacher training programmes 45
+3.2 Teacher training programme enrolment 47
+3.3 Student success and drop-out 51
+3.3.1 Student success 51
+3.3.2 Drop-out rates 51
+3.4 Student satisfaction 54
+C4 The educational labour market in the near future 57
+4.1 New estimates 59
+4.2 National trends 61
+4.3 Increasing the retirement age 65
+4.4 Differences between subjects 67
+4.5 Regional disparities and regions where student numbers are falling 69
+C5 Current situation on the educational job market 73
+5.1 Employment 75
+5.2 Vacancies 77
+5.3 Employment opportunities for beginning teachers 79
+5.4 Regional cooperation 81
+5.5 Inactivity 83
+C6 Conditions of employment and collective labour agreements. 85
+6.1 Development of collective labour agreements 87
+6.2 Teacher salaries in international perspective 89
+6.3 Standardization of legal status 91
+6.4 Pension schemes 92
+Annexes 95
+A2 The school as a professional organization 96
+A5 Labour market 100
+A6 Conditions of employment and pensions 102
+Bibliography 108
+Index 110
 
 PAGE 3
 
@@ -266,17 +330,11 @@ TEACHER QUALITY
 
 ### 1.1 Initiatives to improve teacher quality
 
-When it comes to student achievement, the Netherlands continues to score high on international rankings, though the level is dropping. Although achievement has remained above the international average for the last ten years, the Netherlands is rapidly losing ground. More importantly, today's students are not performing at the same level as those of just a few years ago. 1 This is a worrying trend.
+When it comes to student achievement, the Netherlands continues to score high on international rankings, though the level is dropping. Although achievement has remained above the international average for the last ten years, the Netherlands is rapidly losing ground. More importantly, today's students are not performing at the same level as those of just a few years ago.¹ This is a worrying trend.
 
-The Dutch knowledge economy aims to be one of the best in the world. Student achievement in the Netherlands will therefore need to improve in the years to come. To encourage this, the government presented a number of action plans in May 2011: for primary education (A Basis for Achievement), secondary education (Better Performance) and the action plan for teachers, Teacher 2020 - a strong profession!
+The Dutch knowledge economy aims to be one of the best in the world. Student achievement in the Netherlands will therefore need to improve in the years to come. To encourage this, the government presented a number of action plans in May 2011: for primary education (A Basis for Achievement), secondary education (Better Performance) and the action plan for teachers, Teacher 2020 – a strong profession!
 
-If student achievement is to be improved, then teacher quality will also have to be improved. This government is fully committed to these improvements, first and foremost through the action plan Teacher 2020 - a strong profes-
-
-- 1  Inspectorate of Education, Education report 2009-2010, 2011.
-
-- 2  Ministry of Education, Culture and Science action plan Teacher 2020 - a strong profession!, 18 May 2011. The Basis for Achievement and Better Performance action plans were published simultaneously with this action plan. The strategic  agenda for higher education was published on
-
-sion! 2 and secondly by continuing with the L eerKracht van Nederland 3 action plan.
+If student achievement is to be improved, then teacher quality will also have to be improved. This government is fully committed to these improvements, first and foremost through the action plan Teacher 2020 – a strong profession!² and secondly by continuing with the LeerKracht van Nederland³ action plan.
 
 #### 1.1.1 Ongoing training grant for teachers
 
@@ -286,23 +344,25 @@ Ongoing training grants have been available since 2008 to qualified teachers in 
 
 Teachers have shown tremendous interest in the ongoing training grants. Since their introduction in 2008, well over 26,000 teachers have been awarded a grant. These are mostly teachers in primary and secondary education (see Table 1.1).
 
- 1 July 2011. The Focus on Craftsmanship action plan for senior secondary vocational education was published on 16 February 2011.
+1 Inspectorate of Education, Education report 2009-2010, 2011.
 
-- 3  Ministry of Education, Culture and Science, LeerKracht van Nederland action plan,  2007. Action plan focussing on tackling teacher shortage  and improving the position and quality of teachers in the Netherlands.
+2 Ministry of Education, Culture and Science action plan Teacher 2020 – a strong profession!, 18 May 2011. The Basis for Achievement and Better Performance action plans were published simultaneously with this action plan. The strategic agenda for higher education was published on 1 July 2011. The Focus on Craftsmanship action plan for senior secondary vocational education was published on 16 February 2011.
 
-Table 1.1  Total number of grants awarded, by level of education and type 4
+3 Ministry of Education, Culture and Science, LeerKracht van Nederland action plan, 2007. Action plan focussing on tackling teacher shortage and improving the position and quality of teachers in the Netherlands.
 
-Bachelor's | Master's | Other | Total
---- | --- | --- | --- | ---
-Primary education | 918 | 7.562 | 6.383 | 14.863
-Secondary education | 1.809 | 4.143 | 1.219 | 7.171
-Senior secondary vocational education | 636 | 980 | 794 | 2.410
-Higher professional education | 208 | 998 | 506 | 1.712
-Total | 3.571 | 13.683 | 8.902 | 26.156
+4 As of August, DUO had not yet processed all 8,500 applications for ongoing training grants for teachers from the fifth block (2011). The data in this table is therefore based on all grants in the first through the fourth blocks and on 7,450 grants awarded (of the 7,860 applications assessed) from the fifth block.
+
+Table 1.1 Total number of grants awarded, by level of education and type⁴
+
+| | Bachelor's | Master's | Other | Total |
+|---|---|---|---|---|
+| Primary education | 918 | 7.562 | 6.383 | 14.863 |
+| Secondary education | 1.809 | 4.143 | 1.219 | 7.171 |
+| Senior secondary vocational education | 636 | 980 | 794 | 2.410 |
+| Higher professional education | 208 | 998 | 506 | 1.712 |
+| Total | 3.571 | 13.683 | 8.902 | 26.156 |
 
 Source: Ministry of Education, compiled by IVA.
-
-- 4  As of August, DUO had not yet processed all 8,500 applications for ongoing training grants for teachers from the fifth block (2011). The data in this table is therefore based on all grants in the first through the fourth blocks and on 7,450 grants  awarded (of the 7,860 applications assessed) from the fifth block.
 
 PAGE 13 CHAPTER 1
 
@@ -340,13 +400,13 @@ Current legislation provides for exceptions in certain circumstances. If no qual
 
 This situation will change when the law is amended. The new legislation will ensure sufficient flexibility for real emergencies, but it will put an end to the practice of renewing the appointment of unqualified teachers year after year. Soon, unqualified teachers may only be appointed for a maximum of one year. If an extension is deemed necessary or desirable after that year, then the teacher will be required to gain the necessary qualification within two years. After this period, the teacher may be re-appointed only if he has earned the required qualification. The period for gaining the qualification may be extended by up to two years in exceptional cases, which corresponds to the rules
 
-- 5  Even teachers who have already started a PhD research programme may apply if they still need to devote 0.4 FTE for at least four more years to complete their research.
+- 5 Even teachers who have already started a PhD research programme may apply if they still need to devote 0.4 FTE for at least four more years to complete their research.
 
-- 6  Ministry of Education, Culture and Science, IPTO secondary education 2009, compiles by Regioplan, 2011.
+- 6 Ministry of Education, Culture and Science, IPTO secondary education 2009, compiled by Regioplan, 2011.
 
-- 7  KIA, Knowledge and Innovation Photo 2011, January 2011.
+- 7 KIA, Knowledge and Innovation Photo 2011, January 2011.
 
-- 8  Article 33.3 of the Secondary Education Act.
+- 8 Article 33.3 of the Secondary Education Act.
 
 PAGE 14 CHAPTER 1
 
@@ -384,13 +444,13 @@ Some countries have a mandatory national register of teachers who meet certain m
 
 The register of teachers is an important part of the remit of the Education Cooperative (in formation) (formerly the Foundation for Professional Quality of Teachers). The government feels it is very important that this professional organization is responsible for giving shape to the register.
 
-- 9  Ecorys, Evaluation of Education Professions Act, 2011.
+- 9 Ecorys, Evaluation of Education Professions Act, 2011.
 
-> 10  Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
+- 10 Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
 
-- 11  Ecorys, Evaluation of Education Professions Act, 2011.
+- 11 Ecorys, Evaluation of Education Professions Act, 2011.
 
-- 12  Education council, Background to the advisory report Excellent teachers as inspiring examples, 2011.
+- 12 Education council, Background to the advisory report Excellent teachers as inspiring examples, 2011.
 
 PAGE 15 CHAPTER 1
 
@@ -446,23 +506,21 @@ A lot needs to happen before the overall educational level of teachers is raised
 
 In secondary education, approximately 60 percent of teachers are graduates of an institution for higher professional education. About a quarter of teachers (26%) have an academic degree and 10 percent fall under the former qualification category of 'kandidaats' examination (bachelor level), university Bachelor's or MO-B teaching qualification, first level (master level).
 
-In pre-university education, the proportion of universityeducated teachers is highest (43%), followed by senior general secondary education, where more than one third of teachers (35%) have an academic degree. In pre-vocational secondary education, 84 percent of teachers are educated at the higher professional education level, while 80 percent of teachers in theoretical training have this level of education. The proportion of university-trained teachers in these schools is relatively low: 6 and 11 percent, respectively.
+In pre-university education, the proportion of university-educated teachers is highest (43%), followed by senior general secondary education, where more than one third of teachers (35%) have an academic degree. In pre-vocational secondary education, 84 percent of teachers are educated at the higher professional education level, while 80 percent of teachers in theoretical training have this level of education. The proportion of university-trained teachers in these schools is relatively low: 6 and 11 percent, respectively.
 
 Three quarters of teachers in senior secondary vocational education are educated at the higher professional education level, and 13% are university-trained. In higher professional education, approximately 60 percent of teachers are university graduates. 18
 
-- 13  OECD, PISA 2009 Results, What makes a school successful? Resources, policies and practices, Volume IV, 2010. OECD, Building a High-Quality Teaching Profession; Lessons from around the world, 2011. McKinsey, Closing the talent gap, Attracting and retaining top third graduates to a career in teaching, 2010.
+- 13 OECD, PISA 2009 Results, What makes a school successful? Resources, policies and practices, Volume IV, 2010. OECD, Building a High-Quality Teaching Profession; Lessons from around the world, 2011. McKinsey, Closing the talent gap, Attracting and retaining top third graduates to a career in teaching, 2010.
 
-- 14  OECD, Building a High-Quality Teaching Profession; Lessons from around the world, 2011.
+- 14 OECD, Building a High-Quality Teaching Profession; Lessons from around the world, 2011.
 
-examination', university Bachelor's degree and MO-B teaching qualification, first level).
+- 15 Education Council, Naar hogere leerprestaties in het voortgezet onderwijs ('Towards better learning achievement in secondary education'), February 2011.
 
-- 15  Education Council, Naar hogere leerprestaties in het voortgezet onderwijs ('Towards better learning achievement in secondary education'), February 2011.
+- 16 A Master's degree or equivalent qualification (excluding the categories of 'kandidaats examination', university Bachelor's degree and MO-B teaching qualification, first level).
 
-- 16  A Master's degree or equivalent qualification (excluding the categories of 'kandidaats
+- 17 Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
 
-- 17  Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
-
-- 18  Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
+- 18 Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
 
 PAGE 17 CHAPTER 1
 
@@ -500,13 +558,13 @@ In the collective labour agreement for secondary education, a fixed percentage o
 
 An employee in senior secondary vocational education who is directly involved in the primary process and whose
 
-- 19  Ruud de Moor Centre, Professionalization of teachers in the workplace, Yearbook 2010, 2011.
+- 19 Ruud de Moor Centre, Professionalization of teachers in the workplace, Yearbook 2010, 2011.
 
-> 20  OECD, Building a High-Quality Teaching Profession; Lessons from around the world, 2011.
+- 20 OECD, Building a High-Quality Teaching Profession; Lessons from around the world, 2011.
 
-- 22  The standard annual workload for teachers with a full-time appointment is 1,659 hours.
+- 21 www.education.gov.uk/publications.
 
-- 21  www.education.gov.uk/publications.
+- 22 The standard annual workload for teachers with a full-time appointment is 1,659 hours.
 
 PAGE 18 CHAPTER 1
 
@@ -520,7 +578,7 @@ position is in career line (salary scale) 9 or higher, is entitled to 59 hours o
 
 ##### Higher professional education
 
-In higher professional education, the employer drafts a development plan that is commensurate with this level of education. This plan is then discussed with the personnel section of the employee participation council. The development plan is funded based on a factor of 1.4% of all wages. This budget includes the costs of training and the costs involved in replacing the employee. The development plan forms the framework for the Personal Development Plans (PDPs). The employer makes individual PDP agreements with each employee. At least 59 hours of professional development time is available for teaching staff in order to realize their PDP . The employee also receives a personal budget for professional development of 0.8 percent of his/ her annual salary, with a minimum of € 300. PDP progress is covered in job performance appraisals, and the PDP is adjusted as necessary.
+In higher professional education, the employer drafts a development plan that is commensurate with this level of education. This plan is then discussed with the personnel section of the employee participation council. The development plan is funded based on a factor of 1.4% of all wages. This budget includes the costs of training and the costs involved in replacing the employee. The development plan forms the framework for the Personal Development Plans (PDPs). The employer makes individual PDP agreements with each employee. At least 59 hours of professional development time is available for teaching staff in order to realize their PDP. The employee also receives a personal budget for professional development of 0.8 percent of his/her annual salary, with a minimum of € 300. PDP progress is covered in job performance appraisals, and the PDP is adjusted as necessary.
 
 ##### Participation in professional development
 
@@ -544,11 +602,11 @@ In the Netherlands, approximately 30 percent of teachers in primary education ha
 
 Another policy priority is improving students' numeracy skills. Nearly one quarter of teachers in primary education (23%) report having taken part in training in this area in the
 
-23  OECD, Creating Effective Teaching and Learning Environment: First Results from TALIS, 2009.
+- 23 OECD, Creating Effective Teaching and Learning Environment: First Results from TALIS, 2009.
 
-24  Klaas van Veen et al., The learning of teachers in the context of re-registration: A review on the  effects of professionalization and re-registration systems, 2009.
+- 24 Klaas van Veen et al., The learning of teachers in the context of re-registration: A review on the effects of professionalization and re-registration systems, 2009.
 
-- 25  Eurydice, Teaching Reading in Europe: Contexts, Policies and Practices, 2011.
+- 25 Eurydice, Teaching Reading in Europe: Contexts, Policies and Practices, 2011.
 
 PAGE 19 CHAPTER 1
 
@@ -570,15 +628,7 @@ Competent teachers, who know how to teach students with specific learning needs 
 
 Results-oriented working is an important theme in education. It means striving for maximum results consciously, systematically and cyclically. The results are expressed in terms of students' cognitive results and their more general development.
 
-The government aims to encourage a culture of resultsoriented working in schools which is designed to optimize student achievement. The teacher has a crucial role to play in this process. It has been demonstrated that a resultsoriented approach leads to better achievements. 28
-
-- 26  Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
-
-- 27  OECD, Creating Effective Teaching and Learning Environment: First Results from TALIS, 2009.
-
-- 28  Inspectorate of Education, The strong primary school, definition and indicators, 2009.
-
-- 29  Ministry of Education, Culture and Science, action plan A Basis for Achievement,  May 2011.
+The government aims to encourage a culture of results-oriented working in schools which is designed to optimize student achievement. The teacher has a crucial role to play in this process. It has been demonstrated that a results-oriented approach leads to better achievements. 28
 
 At present, 30% of schools in primary education meet the basic indicators for results-oriented working. This should double to 60 percent by 2015. The aim is to have 90% of schools in primary education using results-oriented methods by 2018. 29 At least half of all secondary schools should have adopted a results-oriented approach by 2015, with the figure rising to 90% by 2018. In secondary education, about 20% of schools use results-oriented working methods. The Council of Secondary Education has agreed to present a plan for results-oriented working by the end of 2011. 30
 
@@ -590,17 +640,25 @@ The Teacher 2020 action plan 32 calls peer review a good tool for improving teac
 
 In other countries it is very common for teachers to go to other schools for observational visits. In Korea, the proportion of teachers who participate in this form of professional development is high (66%). 34 In Estonia and Lithuania, about 60 percent of teachers have participated in this form of formal professional development. This is partly due to the fact that observing colleagues, and being observed, is a compulsory part of the teacher certification process. 35
 
-- 30  Ministry of Education, Culture and Science, action plan A Basis for Achievement, May 2011.
+- 26 Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
 
-- 34  OECD, Creating Effective Teaching and Learning Environment: First Results from TALIS, 2009.
+- 27 OECD, Creating Effective Teaching and Learning Environment: First Results from TALIS, 2009.
 
-- 31  Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
+- 28 Inspectorate of Education, The strong primary school, definition and indicators, 2009.
 
-- 32  Ministry of Education, Culture and Science, action plan teacher 2020 - a strong profession!, 18 May 2011.
+- 29 Ministry of Education, Culture and Science, action plan A Basis for Achievement, May 2011.
 
-- 33  OECD, Creating Effective Teaching and Learning Environment: First Results from TALIS, 2009.
+- 30 Ministry of Education, Culture and Science, action plan A Basis for Achievement, May 2011.
 
-- 35  Eurydice, Teaching Reading in Europe, Contexts, Policies and Practices, 2011.
+- 31 Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
+
+- 32 Ministry of Education, Culture and Science, action plan teacher 2020 – a strong profession!, 18 May 2011.
+
+- 33 OECD, Creating Effective Teaching and Learning Environment: First Results from TALIS, 2009.
+
+- 34 OECD, Creating Effective Teaching and Learning Environment: First Results from TALIS, 2009.
+
+- 35 Eurydice, Teaching Reading in Europe, Contexts, Policies and Practices, 2011.
 
 PAGE 20 CHAPTER 1
 
@@ -612,7 +670,7 @@ TEACHER QUALITY PROFESSIONAL DEVELOPMENT
 
 The feedback skills that new teachers learn in their training programmes are rarely developed further once they enter the profession. The informal learning that takes place in the workplace, however, is an important complement to the knowledge teachers acquire during their training programmes. 36
 
-36  Ruud de Moor Centre, Professionalization of teachers in the workplace, Yearbook 2010, 2011.
+36 Ruud de Moor Centre, Professionalization of teachers in the workplace, Yearbook 2010, 2011.
 
 PAGE 21 CHAPTER 1
 
@@ -672,9 +730,7 @@ In addition, the covenant partners have made agreements on the gradual shortenin
 
 - 1  The criteria are described in greater detail in the collective labour agreements for primary and secondary education. The criteria for promotion are not included in the collective labour agreements for vocational education nor for higher professional education.
 
-- 2  See www.functiemix.nl or www.hetkaninhetonderwijs.nl for the specific agreements. The situation is different in senior secondary vocational education than in other levels of education. For this reason, the Ministry of Education, Culture and Science and the social partners have agreed that  voluntary agreements on improving the 'salary mix'
-
- ('function mix' in senior secondary vocational education) is to be addressed by each institution on an individual basis. All institutions in higher professional education have made their own voluntary agreements on their FTE target for 2012 and on how they will use 'function mix' resources to meet this target.
+- 2 See www.functiemix.nl or www.hetkaninhetonderwijs.nl for the specific agreements. The situation is different in senior secondary vocational education than in other levels of education. For this reason, the Ministry of Education, Culture and Science and the social partners have agreed that voluntary agreements on improving the 'salary mix' ('function mix' in senior secondary vocational education) is to be addressed by each institution on an individual basis. All institutions in higher professional education have made their own voluntary agreements on their FTE target for 2012 and on how they will use 'function mix' resources to meet this target.
 
 PAGE 25 CHAPTER 2
 
@@ -688,8 +744,7 @@ Table 2.1  Share of teachers in primary education and in special primary educati
 
 Level October 2006 - March 2011 | Target | Target
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2011 | 2014
-Scale | (March) | (October)
+Scale | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 (March) | 2011 (October) | 2014
 Primary education
 LA | 98,7 | 98,7 | 98,5 | 98,0 | 93,3 | 92,3 | 83% | 58%
 LB | 1,2 | 1,3 | 1,4 | 1,9 | 6,7 | 7,6 | 16% | 40%
@@ -735,11 +790,9 @@ Primary education has been receiving funding to improve the 'function mix' since
 
 School boards in primary education are occasionally overly cautious because they may have doubts  regarding the affordability of improving the 'function mix'. 4 Based on
 
-- 3  Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming); SEO Economics research (forthcoming), based on SCL (2009) and TCL
+- 3 Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming); SEO Economics research (forthcoming), based on SCL (2009) and TCL (2010, 2011). More than 15,000 respondents completed the TCL survey. They work in all levels of education. In addition, Research voor Beleid conducted in-depth interviews with managers.
 
- (2010, 2011). More than 15,000 respondents  completed the TCL survey. They work in all levels of education. In addition, Research voor Beleid conducted in-depth interviews with mangers.
-
-- 4  During the General Consultation of 21 June 2011, the State Secretary of Education, Culture and  Science agreed to inform the House of Representatives about any 'function mix' related problems.
+- 4 During the General Consultation of 21 June 2011, the State Secretary of Education, Culture and Science agreed to inform the House of Representatives about any 'function mix' related problems.
 
 PAGE 27 CHAPTER 2
 
@@ -751,9 +804,9 @@ THE SCHOOL AS A PROFESSIONAL ORGANIZATION IMPROVING THE 'FUNCTION MIX': THE CURR
 
 Table 2.2  Share of teachers in secondary education by salary scale (in FTE proportion)
 
-Level October | Target | Target
+Level October 2006 - March 2011 | Target | Target
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Scale | 2006 | 2007 | 2008 | 2009 | 2010 (March) | 2011 (October) | 2011 | 2014
+Scale | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 (March) | 2011 (October) | 2014
 Randstad region
 LB | 65,6 | 64,3 | 63,8 | 57,4 | 48,3 | 46,2 | 36 | 16
 LC | 16,5 | 18,4 | 19,6 | 26,0 | 33,7 | 35,0 | 45 | 55
@@ -826,19 +879,13 @@ Some schools include the promotion process in the regular cycle of performance a
 
 In vocational education, institutions in the Randstad region are the only institutions 7 improving the 'salary mix'. 8 They initially adopted a wait-and-see attitude. This was partly because they were faced with the challenge of compensat-
 
-- 5  The 'Van Rijn funding' was disbursed from the Personnel Policy Budget starting in 2001, and is now set off against the lump sum.
+- 5 The 'Van Rijn funding' was disbursed from the Personnel Policy Budget starting in 2001, and is now set off against the lump sum.
 
-- 6  During the General Consultation of 21 June 2011, the State Secretary of Education, Culture and 
+- 6 During the General Consultation of 21 June 2011, the State Secretary of Education, Culture and Science agreed to inform the House of Representatives about any 'function mix' related problems.
 
- Science agreed to inform the House of Representatives about any 'function mix 'related problems.
+- 7 The only institutions to receive this additional funding are located in the Randstad region. Moreover, of this extra funding, 75 percent is allocated for improving the 'salary mix', and 25 percent for reducing workload.
 
- Moreover, of this extra funding, 75 percent is  allocated for improving the 'salary mix', and 25 percent for reducing workload.
-
-- 7  The only institutions to receive this additional funding are located in the Randstad region.
-
-
-
-- 8  The 'function mix' is called the 'salary mix' in senior secondary vocational education.
+- 8 The 'function mix' is called the 'salary mix' in senior secondary vocational education.
 
 PAGE 29 CHAPTER 2
 
@@ -856,8 +903,6 @@ To do justice to the specific situation in this level of education, an agreement
 
 Most institutions that make serious work of improving the 'salary mix' first form a project group consisting of HR managers and board members, and occasionally a few members of the works council. Most institutions have set promotion criteria in the form of competency profiles (Randstad: 81%; outside the Randstad: 60%). In some cases these competency profiles were already established, whereupon the project group refined them for the 'salary mix'.
 
-- 9  During the General Consultation of 21 June 2011, the State Secretary of Education, Culture and Science agreed to inform the House of
-
 ##### Promotions
 
 Those institutions that have recently started working on the 'salary mix' will grant promotions to teachers in August 2011. They may also promote teachers retroactively to January 2011, as indicated in the action plans received by the Ministry of Education, Culture and Science. Promotions have already taken place at other institutions. Training is an important criterion for promotion across the board. Teachers are also promoted based on other criteria, including an active contribution to modernization and educational development, excellent job performance and personal commitment. Several institutions are planning to enhance their performance appraisals and personal development interviews by means of strengthening the 'salary mix'.
@@ -869,8 +914,6 @@ Figures on higher professional education are available through October 2010. Nat
 ##### Variances by institution
 
 How institutions are strengthening the 'function mix' varies from institution to institution, because the covenant agreements have been worked out into individual covenant agreements for each institution. All institutions have made
-
- Representatives about any function mix-related problems.
 
 Table 2.4  Development of the 'function mix' in higher professional education national average (in FTE) *
 
@@ -884,7 +927,9 @@ October 2008 | October 2009 | October 2010* | Target 2012
 
 Source: Higher Professional Education Council (reference date: 1 October).
 
-*  More recent data on higher professional education were not available when this report went to press. It has been agreed that the Higher Professional Education Council will produce data for the 1 October 2010 reference date by 1 June at the latest. These figures may differ from institution-specific data relating to the implementation of the 'function mix'.
+* More recent data on higher professional education were not available when this report went to press. It has been agreed that the Higher Professional Education Council will produce data for the 1 October 2010 reference date by 1 June at the latest. These figures may differ from institution-specific data relating to the implementation of the 'function mix'.
+
+- 9 During the General Consultation of 21 June 2011, the State Secretary of Education, Culture and Science agreed to inform the House of Representatives about any function mix-related problems.
 
 PAGE 30 CHAPTER 2
 
@@ -906,9 +951,7 @@ Recently, many institutions for higher professional education have put performan
 
 ##### Obstacles
 
-The institutions for higher professional education that are working on improving the 'function mix' have encountered various bottlenecks. 10 For example, it is difficult to reach the standard, because the baseline of 1 October 2008 was not entirely representative. This is due to the fact that many teachers were hired in a higher scale just before this date, among other factors. There are also teachers with a guaranteed salary. When these teachers are promoted, their promotions do not count toward improving the 'function mix'. 11 Furthermore,
-
-schools have difficulty with the fact that the criteria for promotion have not been developed in sufficient detail. This means that institutions first need to think carefully
+The institutions for higher professional education that are working on improving the 'function mix' have encountered various bottlenecks. 10 For example, it is difficult to reach the standard, because the baseline of 1 October 2008 was not entirely representative. This is due to the fact that many teachers were hired in a higher scale just before this date, among other factors. There are also teachers with a guaranteed salary. When these teachers are promoted, their promotions do not count toward improving the 'function mix'. 11 Furthermore, schools have difficulty with the fact that the criteria for promotion have not been developed in sufficient detail. This means that institutions first need to think carefully about how they can ensure that improvements to the 'function mix' will have a positive effect on professionalization. They tend to feel that additional resources should be
 
 ##### Excellent teachers as role models in Britain 12
 
@@ -916,7 +959,7 @@ In England (and Wales), teachers can reach five successive levels:
 
 - Q qualified teacher status;
 
-- C  core standards for main scale teachers who have successfully completed their induction;
+- C core standards for main scale teachers who have successfully completed their induction;
 
 - P post-threshold teacher on the upper pay scale;
 
@@ -928,27 +971,23 @@ The first level is a starting level. Teachers reach the second level once they h
 
 A list of fifteen specific competencies is associated with the level of excellent teacher. For example, teachers must:
 
- play a leading role in educational developments and innovations;
+- play a leading role in educational developments and innovations;
 
 - possess research and assessment skills;
 
 - provide support and assistance to other teachers;
 
- possess appropriate expertise and achieve good results with their students.
+- possess appropriate expertise and achieve good results with their students.
 
 A teacher is eligible for a position as an excellent teacher or advanced skills teacher if he or she relinquishes all coordinating and management duties. Excellent teachers and advanced skills teachers spend 80 percent of their time in the classroom. They use the remaining 20 percent of their time to improve the level of teaching at their schools. Advanced skills teachers also reach out to other schools in the region. Both types of teachers have a clear role-model function for other teachers.
 
-about how they can ensure that improvements to the 'function mix' will have a positive effect on professionalization. They tend to feel that additional resources should be
+- 10 During the General Consultation of 21 June 2011, the State Secretary of Education, Culture and Science agreed to inform the House of Representatives about any function mix-related problems.
 
-- 10  During the General Consultation of 21 June 2011, the State Secretary of Education, Culture and Science agreed to inform the House of Representatives about any function mix-related problems.
+- 11 This promotion refers to a job category promotion, and not a salary promotion; these employees are already remunerated in accordance with a higher salary scale.
 
-- 11  This promotion refers to a job category promotion, and not a salary promotion; these employees are already remunerated in accordance with a higher salary scale.
+- 12 Education Council, Background to the advisory report Excellent teachers as inspiring examples, 2011.
 
-- 12  Education Council, Background to the advisory report Excellent teachers as inspiring examples, 2011.
-
-- 13  An evaluation of the implementation of this salary threshold shows that 97% of the teachers who applied for it were promoted (88% to those who were eligible). This resembles an across-the-board pay rise. A likely contributing factor was that
-
- funding for this pay rise came from a separate  budget, meaning school administrators had little incentive to distinguish between those who truly deserved it and those whose performance did not merit a rise. Schools were audited by an external agency, however. Atkinson, Burgess, Croxson, Gregg, Propper, et al., 2009. Discussed in Education Council, 2011.
+- 13 An evaluation of the implementation of this salary threshold shows that 97% of the teachers who applied for it were promoted (88% of those who were eligible). This resembles an across-the-board pay rise. A likely contributing factor was that funding for this pay rise came from a separate budget, meaning school administrators had little incentive to distinguish between those who truly deserved it and those whose performance did not merit a rise. Schools were audited by an external agency, however. Atkinson, Burgess, Croxson, Gregg, Propper, et al., 2009. Discussed in Education Council, 2011.
 
 PAGE 31 CHAPTER 2
 
@@ -968,7 +1007,7 @@ A key idea behind the 'function mix' is the desire for greater differentiation i
 
 Table 2.5  Did you have a job performance appraisal with your supervisor in 2010?
 
-Primary education | Secondary education | Vocational education | Higher professional | Total education
+Primary education | Secondary education | Vocational education | Higher professional education | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Number | Resp% | Number | Resp% | Number | Resp% | Number | Resp% | Number | Resp%
 Yes, more than twice | 3311 | 2 % | 2074 | 2 % | 809 | 1 % | 3023 | 7 % | 9217 | 2 %
@@ -992,7 +1031,7 @@ THE SCHOOL AS A PROFESSIONAL ORGANIZATION IMPROVING THE 'FUNCTION MIX': THE CURR
 
 Teachers need to professionalize further in order to improve the quality of education. Changes in society mean that teachers are continually facing various requirements that are also more stringent and complex. A teacher training programme alone is no longer sufficient for amassing all the knowledge and skills they need in their profession. They must also develop their knowledge and skills further during their teaching careers. International research has also shown that better qualified teachers also have better pedagogic/didactic skills. 15 A good teacher can make a significant difference in average student achievements in the course of a single school year. 16
 
-The government's action plan - Teacher 2020 - a strong profession! - links professional development to professional HR policies, opening the door for teachers to an appealing career path, encouraging them to collaborate and learn from each other, recognizing and rewarding teachers for excellent performance and facilitating good working conditions. 17 This strategy cultivates an ambitious learning culture for both students and teachers. Several measures are involved in making this happen. One is the introduction of a register of teachers (see Chapter 1), increased emphasis on the professional development of school administrators and managers 18 and incentives for performance-related pay and peer review.
+The government's action plan - Teacher 2020 – a strong profession! - links professional development to professional HR policies, opening the door for teachers to an appealing career path, encouraging them to collaborate and learn from each other, recognizing and rewarding teachers for excellent performance and facilitating good working conditions. 17 This strategy cultivates an ambitious learning culture for both students and teachers. Several measures are involved in making this happen. One is the introduction of a register of teachers (see Chapter 1), increased emphasis on the professional development of school administrators and managers 18 and incentives for performance-related pay and peer review.
 
 #### 2.3.1 Job performance appraisals
 
@@ -1008,27 +1047,23 @@ School administrators enable teaching staff and students to achieve their full p
 
 - the organization is in order;
 
- the pedagogic/didactic concept is inspiring, and that all teachers ascribe to it;
+- the pedagogic/didactic concept is inspiring, and that all teachers ascribe to it;
 
- the organization can account for the implementation of the pedagogic/didactic concept;
+- the organization can account for the implementation of the pedagogic/didactic concept;
 
- the organization deploys staff and financial resources effectively.
+- the organization deploys staff and financial resources effectively.
 
-- 15  Research has been conducted into teachers who have registered with the NBPTS in the USA. They have completed a comprehensive programme and have passed the NBPTS assessment. Research shows that they perform significantly better than teachers who failed the assessment (about half of
+- 15 Research has been conducted into teachers who have registered with the NBPTS in the USA. They have completed a comprehensive programme and have passed the NBPTS assessment. Research shows that they perform significantly better than teachers who failed the assessment (about half of teachers). Source: Cantrell, Fullerton, Kane & Staiger, 2008. Also see Education Council, 2011.
 
-teachers). Source: Canttrell, Fullerton, Kane & Staiger, 2008. Also see Education Council, 2011.
+- 16 Staiger & Rockoff, 2010. Also see Education Council, 2011.
 
-managers in primary education, senior secondary vocational education and secondary education.
+- 17 OECD, Building a High-Quality Teaching Profession; Lessons from around the world, 2011.
 
-- 16  Staiger & Rockoff, 2010. Also see Education Council, 2011.
+- 18 This applies to school administrators and managers in primary education, senior secondary vocational education and secondary education.
 
-- 17  OECD, Building a High-Quality Teaching Profession; Lessons from around the world, 2011.
+- 19 Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
 
-- 18  This applies to school administrators and
-
-- 19  Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
-
-- 20  Ecorys, Evaluation of Education Professions Act, 2011.
+- 20 Ecorys, Evaluation of Education Professions Act, 2011.
 
 PAGE 33 CHAPTER 2
 
@@ -1038,7 +1073,7 @@ THE SCHOOL AS A PROFESSIONAL ORGANIZATION INCENTIVES FOR MORE PROFESSIONAL HR PO
 
 [[START OF PAGE 35]]
 
-In addition, supervisors must be conversant with HR policy. It is therefore important for supervisors have a clear understanding of teacher competencies and performance of the teachers under their command. They also need to conduct regular appraisal interviews and need to make the necessary agreements with regard to performance and development.
+In addition, supervisors must be conversant with HR policy. It is therefore important for supervisors to have a clear understanding of teacher competencies and performance of the teachers under their command. They also need to conduct regular appraisal interviews and need to make the necessary agreements with regard to performance and development.
 
 ##### Primary education
 
@@ -1046,7 +1081,7 @@ The competency requirements for school administrators in the primary education s
 
 ##### Register of school administrators
 
-Based on the new competency requirements, the parties will also make agreements with regard to the register of school administrators. They will chart out the steps that are needed to improve the register. The aim of the register is to give school administrators in primary education the opportunity to demonstrate their competencies by being included in the register. All schools will be given additional funding in order to pursue this objective, there being a separate budget entry known as the results-oriented approach ' Achievement Box'. This will enable them to provide more assistance to school principals to aid them in their professional development.
+Based on the new competency requirements, the parties will also make agreements with regard to the register of school administrators. They will chart out the steps that are needed to improve the register. The aim of the register is to give school administrators in primary education the opportunity to demonstrate their competencies by being included in the register. All schools will be given additional funding in order to pursue this objective, there being a separate budget entry known as the results-oriented approach 'Achievement Box'. This will enable them to provide more assistance to school principals to aid them in their professional development.
 
 ##### Many management courses in primary education
 
@@ -1054,23 +1089,21 @@ School administrators in primary education often take a management course. This 
 
 ##### Secondary education
 
-During the coming period, the government is to make extra resources available for the professional development of management staff at all levels in secondary education
-
-> 21  Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
-
-(from team leaders to general directors). This autumn the Ministry of Education, Culture and Science and the sector will come to performance agreements on how leadership and expertise can be further developed. This will be linked to school administrators' professional development needs and the core values of strong leadership in the school setting. The Council of Secondary Education will identify the core values this year, and will compare them to the current range of courses and other continuing education programmes available. They will also examine the current level of professional development.
+During the coming period, the government is to make extra resources available for the professional development of management staff at all levels in secondary education (from team leaders to general directors). This autumn the Ministry of Education, Culture and Science and the sector will come to performance agreements on how leadership and expertise can be further developed. This will be linked to school administrators' professional development needs and the core values of strong leadership in the school setting. The Council of Secondary Education will identify the core values this year, and will compare them to the current range of courses and other continuing education programmes available. They will also examine the current level of professional development.
 
 ##### Senior secondary vocational education
 
 In senior secondary vocational education, too, performance agreements will be made on the professional development of middle managers. This will be done, for example, by establishing a competency profile or by creating a specialized course.
 
-#### 2.3.3 Experiments with performancerelated pay
+#### 2.3.3 Experiments with performance-related pay
 
-The government is implementing performance-related pay in education as of this year. Teachers will be rewarded for good performance and for improving student achievement. This provides teachers with appropriate motivation and a healthy challenge. Moreover, a form of performancerelated pay will help steer thoughts within the school toward educational quality. That is, teachers or teams of teachers would only receive (financial) recognition for specific achievements. Whether students' test scores improve or not is an indicator of achievement. Performance-related pay can then encourage teachers to adopt an even more results-oriented approach. Experiments will commence at various schools in the autumn of 2011. The government will then select effective forms of performance-related pay for system-wide implementation, with the goal of introducing it in all schools by 2016.
+The government is implementing performance-related pay in education as of this year. Teachers will be rewarded for good performance and for improving student achievement. This provides teachers with appropriate motivation and a healthy challenge. Moreover, a form of performance-related pay will help steer thoughts within the school toward educational quality. That is, teachers or teams of teachers would only receive (financial) recognition for specific achievements. Whether students' test scores improve or not is an indicator of achievement. Performance-related pay can then encourage teachers to adopt an even more results-oriented approach. Experiments will commence at various schools in the autumn of 2011. The government will then select effective forms of performance-related pay for system-wide implementation, with the goal of introducing it in all schools by 2016.
 
 Performance-related pay is used on a limited scale in primary education, senior secondary vocational education and secondary education, at 9 percent, 6 percent and 11 percent, respectively. In higher professional education, one quarter of staff report that the institution has a form of individual performance-related pay. One sixth of staff in primary education and one quarter in the remaining levels of education do not know if their institution has any form of performance-related pay. 22
 
-- 22  Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
+- 21 Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
+
+- 22 Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
 
 PAGE 34 CHAPTER 2
 
@@ -1084,9 +1117,9 @@ THE SCHOOL AS A PROFESSIONAL ORGANIZATION INCENTIVES FOR MORE PROFESSIONAL HR PO
 
 The first experiments with performance-related pay are to begin in the autumn of 2011. A scheme will be prepared that schools can adopt. The Netherlands Bureau for Economic Policy Analysis CPB and other researchers, including researchers from Erasmus University Rotterdam, will evaluate the experiments, which will look into two questions:
 
- How effective are the tools for assessing teacher performance?
+- How effective are the tools for assessing teacher performance?
 
- What are the effects of remuneration on teacher performance?
+- What are the effects of remuneration on teacher performance?
 
 Various indicators can be used to measure and evaluate the performance of individual teachers or teams of teachers. Examples include student achievement, success rates of the school or the team, the ability of a teacher to differentiate, the school administrator's assessment, 360-degree feedback and the students' assessment of their teachers' performance. It is crucial to ensure that the experiments can be subjected to mutual comparison. This is why student learning achievements must be measured as objectively and as similarly as possible in all experiments. Teams and individual teachers may be remunerated in the form of a bonus, or they may receive funding for continuing education or time to spend on educational renewal.
 
@@ -1144,23 +1177,23 @@ There are many tools available for evaluating teachers and assessing their perfo
 
 - 360 degree feedback;
 
-- 25  OECD, Creating Effective Teaching and Learning Environment: First Results from TALIS, 2009.
-
-- 26  See: http://www.lerarenweb.nl/lerarenwebinstrumenten.html?sbl&artikelen&237
-
-- 27  Jensen, B. and Reichl, J., Better Teacher Appraisal and Feedback: Improving Performance, Grattan Institute, Melbourne, 2011.
-
 - self-evaluation;
 
 - observation by external parties. 27
 
 Australia has implemented a system in which schools are required to make use of (at least) four of these eight tools. Schools are free to choose the tools they wish to use, but they must examine student achievement and student achievement progress. The Australian system shows that schools can implement a well functioning evaluation and feedback structure at relatively low cost. 28
 
-- 28  Jensen, B. and Reichl, J., Better Teacher Appraisal  and Feedback: Improving Performance, Grattan Institute, Melbourne, 2011.
+- 25 OECD, Creating Effective Teaching and Learning Environment: First Results from TALIS, 2009.
+
+- 26 See: http://www.lerarenweb.nl/lerarenweb-instrumenten.html?sbl&artikelen&237
+
+- 27 Jensen, B. and Reichl, J., Better Teacher Appraisal and Feedback: Improving Performance, Grattan Institute, Melbourne, 2011.
+
+- 28 Jensen, B. and Reichl, J., Better Teacher Appraisal and Feedback: Improving Performance, Grattan Institute, Melbourne, 2011.
 
 Table 2.6 Satisfaction with job and school (% satisfied or very satisfied)
---- | --- | --- | ---
 2009 | 2010 | 2011
+--- | --- | --- | ---
 Job | 82 % | 80 % | 78 %
 School | 69 % | 70 % | 68 %
 
@@ -1168,7 +1201,7 @@ Source: Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary ag
 
 Table 2.7  Satisfaction with job (% satisfied or very satisfied) by function and level of education
 
-Primary education | Secondary education | Vocational education | Higher professional | Total education
+Primary education | Secondary education | Vocational education | Higher professional education | Total
 --- | --- | --- | --- | --- | ---
 Management | 85 % | 87 % | 81 % | 86 % | 86 %
 Teaching staff | 79 % | 75 % | 69 % | 78 % | 77 %
@@ -1199,13 +1232,7 @@ The figures vary by level of education and job category. Just as in 2010, both m
 
 In all levels of education, staff are more satisfied with their own job than with their own school or institution (see Tables 2.7 and 2.8). Teachers in primary education report the highest levels of satisfaction and teachers in senior secondary vocational education the lowest. In this level of education, it is primarily members of the teaching staff who are relatively less satisfied, although there is a slight upward trend (48 percent now, 44 percent in 2009 and 47 percent in 2010). The figures for all levels of education and all jobs are more or less the same as the 2010 and 2009 figures.
 
-It was also researched whether teaching staff in senior secondary vocational education are dissatisfied because the institutions are so large. However, there does not seem to
-
-- 29  Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
-
-- 30  Stress scores were also calculated based on responses to the statements about work. Most
-
-be a direct correlation between staff satisfaction and the size of the institution.
+It was also researched whether teaching staff in senior secondary vocational education are dissatisfied because the institutions are so large. However, there does not seem to be a direct correlation between staff satisfaction and the size of the institution.
 
 #### 2.4.2 Aspects of satisfaction
 
@@ -1213,7 +1240,7 @@ Teaching staff are particularly satisfied with their day-to-day teaching activit
 
 - opportunities for continuing education,
 
- opportunities for personal and professional development,
+- opportunities for personal and professional development,
 
 - the degree to which the institution is results-oriented,
 
@@ -1223,9 +1250,11 @@ The employees were also asked to rate a number of statements about their work, t
 
 Senior secondary vocational education has scored lower than the other levels of education in employee satisfaction surveys for several years. This is why an additional satisfaction survey was conducted among staff members at these schools. This survey focused on the job satisfaction and satisfaction with the institution itself. Also, employee satisfaction surveys conducted by the institutions themselves seemed to paint a more positive picture than the national
 
-statements had to do with workload, appraisals and work atmosphere. The lower/more negative the score, the higher the stress that people experience.
+- 29 Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
 
-- 31  ITS, Employee satisfaction in senior secondary vocational education (forthcoming).
+- 30 Stress scores were also calculated based on responses to the statements about work. Most statements had to do with workload, appraisals and work atmosphere. The lower/more negative the score, the higher the stress that people experience.
+
+- 31 ITS, Employee satisfaction in senior secondary vocational education (forthcoming).
 
 PAGE 37 CHAPTER 2
 
@@ -1255,7 +1284,7 @@ Finally, many more sweeping changes have been implemented in senior secondary vo
 
 Table 2.8  Satisfaction with school/institution (% satisfied or very satisfied) by function and level of education
 
-Primary education | Secondary education | Vocational education | Higher professional | Total education
+Primary education | Secondary education | Vocational education | Higher professional education | Total
 --- | --- | --- | --- | --- | ---
 Management | 86 % | 84 % | 72 % | 77 % | 84 %
 Teaching staff | 74 % | 63 % | 48 % | 63 % | 67 %
@@ -1280,11 +1309,7 @@ Nearly all institutions in the study take follow-up action based on the results 
 
 Some institutions report demonstrable improvements, although the measures taken do not always result in higher survey scores for employee satisfaction. These surveys do always result in valuable lessons, for example, awareness at the institution that employee satisfaction influences student satisfaction and student achievement. Another lesson is that the teams must be given initial responsibility for measures. Teams should support, develop or implement measures, while keeping a sharp focus on the bigger picture and the need for institution-wide oversight.
 
-32  For this study, all 67 senior secondary vocational institutions were approached (42 ROCs, 11 AOCs and and 14 training institutes). Of these, 30 institutions (23 ROCs, 1 AOC and
-
-6 training  institutes) participated in the study  Telephone interviews were conducted with heads and staff members of personnel or HR
-
-departments, heads and staff members of quality assurance departments and health and safety coordinators.
+32 For this study, all 67 senior secondary vocational institutions were approached (42 ROCs, 11 AOCs and 14 training institutes). Of these, 30 institutions (23 ROCs, 1 AOC and 6 training institutes) participated in the study. Telephone interviews were conducted with heads and staff members of personnel or HR departments, heads and staff members of quality assurance departments and health and safety coordinators.
 
 PAGE 39 CHAPTER 2
 
@@ -1314,9 +1339,11 @@ TEACHER TRAINING PROGRAMMES
 
 [[START OF PAGE 43]]
 
-Many new teachers will be needed in the years to come. These teachers should be able to provide our nation's schoolchildren with top-quality education. Here, teacher training programmes have a key role to play: they must be sufficiently appealing to students and provide high-quality education. Much has already been undertaken in recent years to ensure the quality and quantity of teaching staff. The language test and numeracy test have been introduced and knowledge base has been developed. New, appealing training programmes have been initiated to entice more academics to join the teaching profession. The government is sweetening the pot by introducing and implementing measures from the action plan Teacher 2020 - a strong profession! teacher training programmes for primary education (PABO) has university education entering a teacher training programme for
+Many new teachers will be needed in the years to come. These teachers should be able to provide our nation's schoolchildren with top-quality education. Here, teacher training programmes have a key role to play: they must be sufficiently appealing to students and provide high-quality education.
 
-The share of graduates from senior secondary vocational education and senior general secondary education opting for traditional declined in recent years, while the share of graduates from preprimary education has increased. In addition, more students are opting for a training programme for secondary education.
+Much has already been undertaken in recent years to ensure the quality and quantity of teaching staff. The language test and numeracy test have been introduced and knowledge base has been developed. New, appealing training programmes have been initiated to entice more academics to join the teaching profession. The government is sweetening the pot by introducing and implementing measures from the action plan Teacher 2020 – a strong profession!
+
+The share of graduates from senior secondary vocational education and senior general secondary education opting for traditional teacher training programmes for primary education (PABO) has declined in recent years, while the share of graduates from pre-university education entering a teacher training programme for primary education has increased. In addition, more students are opting for a training programme for secondary education.
 
 PAGE 42 CHAPTER 3
 
@@ -1336,7 +1363,7 @@ In recent years, more and more alternative routes into teaching have been opened
 
 ##### Teach First
 
-The 'Eerst de Klas' project (Teach First) is a joint, twoyear training and experience programme offered by the educational, business and government sectors aimed at outstanding academics (those in possession of a Master's degree). Participants teach three or four days a week at a secondary school, earn their first-level teaching qualification and take part in a leadership program in the business community. The purpose of the programme is to increase the number of academically trained teachers and the number of people in management with leadership potential. The project is in line with the government's objectives of bolstering professional development in education and promoting excellence.
+The 'Eerst de Klas' project (Teach First) is a joint, two-year training and experience programme offered by the educational, business and government sectors aimed at outstanding academics (those in possession of a Master's degree). Participants teach three or four days a week at a secondary school, earn their first-level teaching qualification and take part in a leadership program in the business community. The purpose of the programme is to increase the number of academically trained teachers and the number of people in management with leadership potential. The project is in line with the government's objectives of bolstering professional development in education and promoting excellence.
 
 The project started with 19 participants in November 2009. These initial participants were all awarded a certificate on 17 June 2011. The second group of 16 selected participants started in September 2010. The third group, consisting of 32 participants, will start in August 2011.
 
@@ -1348,11 +1375,11 @@ Training schools are partnerships between schools and teacher training programme
 
 Participants in the academic training schools acknowledge the following benefits resulting from the partnerships (this list is not exhaustive):
 
- Professional development of teachers and more career opportunities
+- Professional development of teachers and more career opportunities
 
- Real impulse to the quality of teacher training programmes
+- Real impulse to the quality of teacher training programmes
 
- Positive effects on school culture and student enthusiasm about the training programme
+- Positive effects on school culture and student enthusiasm about the training programme
 
 - A more evidence-based approach by teachers.
 
@@ -1394,7 +1421,7 @@ The academic teacher training programme is a collective term for routes into tea
 
 Generally, only a limited number of pre-university education graduates and students with a first-year certificate from an institution for higher professional education are admitted to these programmes. Students receive two degrees upon successful completion of the programme:
 
- a university Bachelor's degree in Educational Theory, Educational Sciences or Pedagogy (depending on the specific bachelor programme involved in the programme);
+- a university Bachelor's degree in Educational Theory, Educational Sciences or Pedagogy (depending on the specific bachelor programme involved in the programme);
 
 - 4  This limited qualification applies only to students in one of the programmes and for the relevant school subjects in the 'relation table', see www.ib-groep.nl.
 
@@ -1410,13 +1437,13 @@ TEACHER TRAINING PROGRAMMES TACKLING TEACHER SHORTAGE AND IMPROVING QUALITY OF T
 
 [[START OF PAGE 46]]
 
- a Bachelor's degree 'Teacher primary education' from an institution for higher professional education.
+- a Bachelor's degree 'Teacher primary education' from an institution for higher professional education.
 
 Graduates of academic teacher training programmes amass not only the requisite professional expertise, but also additional theoretical and research-based knowledge and academic skills.
 
 #### 3.1.2 Improving the quality of teacher training programmes
 
-One of the three action lines in the action plan Teacher 2020 - a strong profession! concentrates on improving the quality of teacher training programmes even further. What is the government doing to make this happen?
+One of the three action lines in the action plan Teacher 2020 – a strong profession! concentrates on improving the quality of teacher training programmes even further. What is the government doing to make this happen?
 
 First, the government intends to improve quality by introducing a knowledge base for teachers and by introducing national assessments. In addition, performance agreements are being made with the teacher training programmes on results-oriented working practices, differentiation and guidance and support for newly qualified teachers. The goal is for all teacher training programmes to have implemented the knowledge base for teachers and national assessments by 2016. 7
 
@@ -1428,21 +1455,19 @@ Furthermore, the teacher training curriculum for primary education must be given
 
 Finally, the government intends to improve teacher training programmes for pre-vocational secondary education and senior secondary vocational education. The Education Council 8 has provided the government with recommendations for achieving this:
 
- create specific graduation profiles within the secondlevel teaching qualification programmes focussing on
+- create specific graduation profiles within the second-level teaching qualification programmes focussing on teaching in pre-vocational secondary education and senior secondary vocational education;
 
-> 7  Ministry of Education, Culture and Science action plan Teacher 2020 - a strong profession!, 18 May 2011.
+- introduce an educational minor in higher professional education focussing on teaching vocational subjects in pre-vocational secondary education and senior secondary vocational education;
 
-> 8  Education Council, Thoroughly trained teachers for secondary vocational education and senior secondary vocational education, 19 April 2011.
-
- teaching in pre-vocational secondary education and senior secondary vocational education;
-
- introduce an educational minor in higher professional education focussing on teaching vocational subjects in pre-vocational secondary education and senior secondary vocational education;
-
- harmonize and ensure the lateral-entry programme for senior secondary vocational education;
+- harmonize and ensure the lateral-entry programme for senior secondary vocational education;
 
 - increase the teachers' level of education;
 
- structure professional development at the teachingteam level.
+- structure professional development at the teaching-team level.
+
+- 7 Ministry of Education, Culture and Science action plan Teacher 2020 – a strong profession!, 18 May 2011.
+
+- 8 Education Council, Thoroughly trained teachers for secondary vocational education and senior secondary vocational education, 19 April 2011.
 
 PAGE 45 CHAPTER 3
 
@@ -1452,93 +1477,30 @@ TEACHER TRAINING PROGRAMMES TACKLING TEACHER SHORTAGE AND IMPROVING QUALITY OF T
 
 [[START OF PAGE 47]]
 
-Enrolments in teacher training programmes and higher professional
+Figure 3.1
 
-Figure 3.1 education by prior education level (index 2002 = 100)
-
-70
-
-80
-
-110
-
-120
+Enrolments in teacher training programmes and higher professional education by prior education level (index 2002 = 100)
 
 130
-
-90
-
-100
-
-60
-
-2004
-
-2000
-
-2001
-
-2002
-
-2003
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-2010
-
-Source: Higher Professional Education Council, facts and figures 2011.
-
-Figure 3.2
-
-Enrolments in teacher training programmes for primary education (index 2000 = 100)
-
-60
-
-80
-
-140
-
-160
-
-180
-
-100
-
 120
-
-40
-
-2004
+110
+100
+90
+80
+70
+60
 
 2000
-
 2001
-
 2002
-
 2003
-
+2004
 2005
-
 2006
-
 2007
-
 2008
-
 2009
-
 2010
-
-Source: Higher Professional Education Council, facts and figures 2011.
 
 - Teacher training programmes for primary education
 
@@ -1548,11 +1510,40 @@ Source: Higher Professional Education Council, facts and figures 2011.
 
 - Higher professional education
 
+Source: Higher Professional Education Council, facts and figures 2011.
+
+Figure 3.2
+
+Enrolments in teacher training programmes for primary education (index 2000 = 100)
+
+180
+160
+140
+120
+100
+80
+60
+40
+
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+
 - Senior secondary vocational education
 
 - Senior general secondary education
 
 - Pre-university education
+
+Source: Higher Professional Education Council, facts and figures 2011.
 
 PAGE 46 CHAPTER 3
 
@@ -1570,7 +1561,7 @@ Enrolments in teacher training programmes dropped slightly, from about 13,000 in
 
 #### PABO enrolments decline
 
-Far fewer students enrolled in teacher training programmes for primary education (PABO) in recent years. Enrolments dropped from 8,740 students in 2005 to 6,670 students in 2010. This is a decrease of 24 percent. Compared to the peak year of 2003, when more than 9,700 students started a teacher training programme for primary education, the decrease is even 31 percent. According to the Higher Professional Education Council, this decline can be partly explained by the introduction of language and numeracy tests, combined with expulsions (iudicum abeundi) based on poor results on these tests. 10
+Far fewer students enrolled in teacher training programmes for primary education (PABO) in recent years. Enrolments dropped from 8,740 students in 2005 to 6,670 students in 2010. This is a decrease of 24 percent. Compared to the peak year of 2003, when more than 9,700 students started a teacher training programme for primary education, the decrease is even 31 percent. According to the Higher Professional Education Council, this decline can be partly explained by the introduction of language and numeracy tests, combined with expulsions (iudicium abeundi) based on poor results on these tests. 10
 
 Higher Professional Education Council figures show that enrolments of graduates from senior secondary vocational education and senior general secondary education have declined the most. Since 2005 the number of graduates from senior secondary vocational education that opted for a PABO programme has dropped by 24 percent, from 3,300 to 2,500. Despite this decrease, they still make up a relatively high proportion of all students (37%). Enrolments by graduates from senior general secondary education fell by 26 percent in the same period, from 3,700 in 2005 to 2,740 in 2010.
 
@@ -1608,47 +1599,25 @@ Figure 3.3
 
 Student success rates (after 5 years) in teacher training programmes by enrolment year and gender
 
-0 %
-
-10 %
-
-20 %
-
-40 %
-
-30 %
-
-50 %
-
-60 %
-
-70 %
-
 80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
 
-2000
+Teacher training programmes for primary education
+Man | Women | Total
 
-2005
+Teacher training programmes for secondary education
+Man | Women | Total
 
-Man
+- 2000
 
-Man
-
-Women
-
-Teacher training programmes
-
-for primary education
-
-Teacher training programmes
-
-for secondary education
-
-Women
-
-Total
-
-Total
+- 2005
 
 Source: Higher Professional Education Council, facts and figures 2011.
 
@@ -1662,13 +1631,13 @@ TEACHER TRAINING PROGRAMMES TEACHER TRAINING PROGRAMME ENROLMENT
 
 first-level teacher training programmes increased by more than 50 percent in the same period, from 1,050 to 1,590. 12
 
-This increase is primarily due to the introduction of the training grant for teachers, which makes it much easier for teachers to continue their studies and earn a firstlevel teaching qualification. Incidentally, it is crucial that more first-level qualifications are issued, since attrition rates among teachers who currently hold this certification will be high in the years to come. In addition, more and more school students are opting for the pre-university and senior general secondary education levels.
+This increase is primarily due to the introduction of the training grant for teachers, which makes it much easier for teachers to continue their studies and earn a first-level teaching qualification. Incidentally, it is crucial that more first-level qualifications are issued, since attrition rates among teachers who currently hold this certification will be high in the years to come. In addition, more and more school students are opting for the pre-university and senior general secondary education levels.
 
 #### Enrolment by prior education
 
 Of every ten first-year Bachelor's students in higher professional education, four are students graduated from senior general secondary education, three are students graduated from senior secondary vocational education and one has attended a pre-university school. The remainder has some other kind of higher education certification or, for example, a foreign diploma. 13
 
-More and more students graduated from senior secondary vocational education have been opting for secondlevel teaching qualification programmes in recent years, up to 28 percent of 2010 enrolments. Compared to all first-year students (higher professional education), however, enrolment of students graduated from senior secondary vocational education is modest (28 percent vs. 32 percent).
+More and more students graduated from senior secondary vocational education have been opting for second-level teaching qualification programmes in recent years, up to 28 percent of 2010 enrolments. Compared to all first-year students (higher professional education), however, enrolment of students graduated from senior secondary vocational education is modest (28 percent vs. 32 percent).
 
 #### Enrolment by gender
 
@@ -1676,17 +1645,17 @@ Teacher training programmes for primary education are particularly popular among
 
 From an international perspective, the Netherlands does not stand out from the crowd when it comes to the number of men who opt for a teacher training programme. Belgium, Austria and Slovakia have more men in these programmes, but the Netherlands is doing very well when compared to Sweden, Germany, Spain and England. Remarkably, many women in the Netherlands in higher professional education join a teacher training programme. In countries such as Germany, Sweden, Finland and Denmark, the proportion of women who opt for a degree programme in the educational sector is lower. 14
 
-> 12  Association of Universities in the Netherlands VSNU, Students enrolled per Higher Education and Research Plan (HOOP) area.
-
-> 13  Higher Professional Education Council, student numbers in higher professional education, 2010.
-
 #### Master's programme in Special Educational Needs
 
 In recent years the number of students in higher professional education who opt for a Master's programme in Special Educational Needs (SEN) has declined from 4,160 in 2005 to 2,500 in 2010. The drop was especially pronounced in 2007. This occurred before the ongoing training grant scheme for teachers was introduced. Special educational needs students are teachers, speech therapists and pedagogy and educational science graduates. The drop in student numbers may be due to the fact that the short courses in remedial teaching, in-school guidance and support and behavioural problems have become more popular. 15
 
-> 15  IVA, Professional development of teachers, 2010.
+- 12 Association of Universities in the Netherlands VSNU, Students enrolled per Higher Education and Research Plan (HOOP) area.
 
-> 14 OECD, Education at a Glance, 2011.
+- 13 Higher Professional Education Council, student numbers in higher professional education, 2010.
+
+- 14 OECD, Education at a Glance, 2011.
+
+- 15 IVA, Professional development of teachers, 2010.
 
 PAGE 49 CHAPTER 3
 
@@ -1700,114 +1669,48 @@ Figure 3.4
 
 Student drop-out rates in teacher training programmes by prior education level
 
-Total
+Teacher training programmes for primary education
 
-*
+| | After 1 year (2009 cohort) | After 3 years (2007 cohort) |
+| --- | --- | --- |
+| Total* | 17 % | 25 % |
+| Vwo | 8 % | 13 % |
+| Havo | 16 % | 20 % |
+| Mbo | 19 % | 28 % |
 
-Total
+Teacher training programmes for secondary education
 
-*
+| | After 1 year (2009 cohort) | After 3 years (2007 cohort) |
+| --- | --- | --- |
+| Total* | 18 % | 26 % |
+| Vwo | 7 % | 9 % |
+| Havo | 12 % | 17 % |
+| Mbo | 26 % | 35 % |
 
-Vwo
-
-Vwo
-
-Mbo
-
-Mbo
-
-Havo
-
-Havo
-
-0 %
-
-5 %
-
-10 %
-
-15 %
-
-20 %
-
-25 %
-
-30 %
-
-35 %
-
-40 %
-
-45 %
-
-50%
-
-After 1 year (2009 cohort)
-
-After 3 years (2007 cohort)
-
-Teacher training programmes
-
-for primary education
-
-Teacher training programmes
-
-for secondary education
-
-17 %
-
-8 %
-
-7 %
-
-12 %
-
-26 %
-
-16 %
-
-19 %
-
-25 %
-
-13 %
-
-20 %
-
-28 %
-
-26 %
-
-17 %
-
-35 %
-
-9 %
-
-18 %
+0 % | 5 % | 10 % | 15 % | 20 % | 25 % | 30 % | 35 % | 40 % | 45 % | 50%
 
 Source: Higher Professional Education Council, facts and figures 2011.
 
 * Including students with other prior education (higher education, other).
 
-Vwo =	 pre-university education
+Vwo = pre-university education
 
-Havo 	 =	 senior general secondary education
+Havo = senior general secondary education
 
-Mbo 	 =	 vocational education
-
-Success rate after 5 jaar (2005 cohort) | Success rates after 8 jaar (2002 cohort) | Drop-out rate after 1 jaar (2009 cohort) | Drop-out rate after 3 jaar (2007 cohort) | Average duration of study (2009, in months)
---- | --- | --- | --- | --- | ---
-Teacher training programmes for primary education
-Men | 36,0 % | 58,4 % | 25,0 % | 33,0 % | 57,5
-Women | 63,o % | 76,4 % | 17,0 % | 24,0 % | 50,0
-Total | 59,o % | 74,0 % | 18,0 % | 26,0 % | 51,0
-Teacher training programmes for secondary education
-Men | 37,0% | 56,6% | 20,0% | 28,0% | 61,8
-Women | 53,0% | 70,8% | 15,0% | 21,0% | 54,4
-Total | 45,0% | 64,0% | 17,0% | 25,0% | 57,7
+Mbo = vocational education
 
 Table 3.1  Indicators for success rates in teacher training programmes in higher professional education by gender
+
+| | Success rate after 5 jaar (2005 cohort) | Success rates after 8 jaar (2002 cohort) | Drop-out rate after 1 jaar (2009 cohort) | Drop-out rate after 3 jaar (2007 cohort) | Average duration of study (2009, in months) |
+| --- | --- | --- | --- | --- | --- |
+| Teacher training programmes for primary education | | | | | |
+| Men | 36,0 % | 58,4 % | 25,0 % | 33,0 % | 57,5 |
+| Women | 63,0 % | 76,4 % | 17,0 % | 24,0 % | 50,0 |
+| Total | 59,0 % | 74,0 % | 18,0 % | 26,0 % | 51,0 |
+| Teacher training programmes for secondary education | | | | | |
+| Men | 37,0% | 56,6% | 20,0% | 28,0% | 61,8 |
+| Women | 53,0% | 70,8% | 15,0% | 21,0% | 54,4 |
+| Total | 45,0% | 64,0% | 17,0% | 25,0% | 57,7 |
 
 Source: Higher Professional Education Council, compiled by ResearchNed.
 
@@ -1845,17 +1748,17 @@ Research by the Higher Professional Education Council shows a high drop-out rate
 
 ##### In teacher training programmes
 
-Drop-out rates are relatively high in teacher training programmes, both after one year (18%) and after three years (26%). According to the Higher Professional Education Council, this decline can be partly explained by the introduction of the language test and numeracy test, combined with expulsions (iudicum abeundi) based on poor results. Vocational education graduates are more likely than others to quit their studies (see Figure 3.4). One in four graduates leave a teacher training programme for primary education in the first year, while the rate is about one in five for teacher training programmes for secondary education. After three years, these rates climb to 35 percent and 28 percent, respectively. Drop-out rates among senior general secondary education en preuniversity education graduates are significantly lower. 18
+Drop-out rates are relatively high in teacher training programmes, both after one year (18%) and after three years (26%). According to the Higher Professional Education Council, this decline can be partly explained by the introduction of the language test and numeracy test, combined with expulsions (iudicum abeundi) based on poor results. Vocational education graduates are more likely than others to quit their studies (see Figure 3.4). One in four graduates leave a teacher training programme for primary education in the first year, while the rate is about one in five for teacher training programmes for secondary education. After three years, these rates climb to 35 percent and 28 percent, respectively. Drop-out rates among senior general secondary education en pre-university education graduates are significantly lower. 18
 
 ##### Gender-specific differences
 
 Men are much less successful than women, partly because they often drop out of the programme in the initial phase, but also because they take longer to complete their training (see Table 3.1). On average, men take almost seven months longer to earn their qualification than women. Improvements in this regard can be made both in the first year of the programme and in subsequent years.
 
-> 16  Higher Professional Education Council, facts and figures; Graduates and drop-outs in higher professional education, 2011.
+16 Higher Professional Education Council, facts and figures; Graduates and drop-outs in higher professional education, 2011.
 
-17  Inspectorate of Education, Working on improving educational yield, 2009.
+17 Inspectorate of Education, Working on improving educational yield, 2009.
 
-> 18  Higher Professional Education Council, facts and figures; Graduates and drop-outs in higher professional education, 2011.
+18 Higher Professional Education Council, facts and figures; Graduates and drop-outs in higher professional education, 2011.
 
 PAGE 51 CHAPTER 3
 
@@ -1865,49 +1768,47 @@ TEACHER TRAINING PROGRAMMES STUDENT SUCCESS AND DROP-OUT RATES
 
 [[START OF PAGE 53]]
 
-Figure 3.5 Student satisfaction with programme (1 to 10)
+Figure 3.5
+
+Student satisfaction with programme (1 to 10)
 
 Content of the programme
 
-Programme instructors
-
-Study load
-
 Programme atmosphere
-
-Study facilities
 
 General skills acquired
 
-Provision of information
-
-by the programme
-
 Applied research
-
-Academic guidance
 
 Preparation for future career
 
-5
+Programme instructors
+
+Academic guidance
+
+Provision of information by the programme
+
+Study facilities
+
+Study load
 
 4
 
-9
-
-8
-
-7
+5
 
 6
 
-Teacher training programmes
+7
 
-for primary education
+8
 
-- Teacher training programmes for secondary education
+9
 
-- Total for higher professional education
+Teacher training programmes for primary education
+
+Teacher training programmes for secondary education
+
+Total for higher professional education
 
 Source: National Student Survey (NSE) 2011.
 
@@ -1915,41 +1816,19 @@ Figure 3.6
 
 Graduates (full-time students) by their retrospective assessment of their choice of programme in higher professional education and their assessment of the training as a good springboard to the labour market
 
-Total for higher
+Total for higher professional education
 
-professional education
+Total for higher pedagogic education
 
-Total for higher pedagogic
+Higher professional education physical education teacher in secondary education (first level)
 
-education
+Higher professional education science teacher (second level)
 
-Higher professional education
+Higher professional education teacher in secondary education society 1 subject (second level)
 
-teacher in secondary education
+Higher professional education teacher in secondary education language 1 subject (second level)
 
-language 1 subject (second level)
-
-Higher professional education
-
-teacher in primary/special
-
-education
-
-Higher professional education
-
-teacher in secondary education
-
-society 1 subject (second level)
-
-Higher professional education
-
-science teacher (second level)
-
-Higher professional education
-
-physical education teacher in
-
-secondary education (first level)
+Higher professional education teacher in primary/special education
 
 0 %
 
@@ -1971,25 +1850,9 @@ secondary education (first level)
 
 90 %
 
-Programme good
+Programme good springboard to labour market (% strongly agree)
 
-springboard to
-
-labour market
-
-(% strongly agree)
-
-Would choose same
-
-programme again
-
-% the same.
-
-Programme in
-
-higher professional
-
-education
+Would choose same programme again % the same. Programme in higher professional education
 
 Source: ROA, HBO-monitor 2009.
 
@@ -2009,9 +1872,9 @@ According to the Startmonitor, the primary reason for dropping out of the first 
 
 Approximately one quarter of drop-outs feel that the programme or institution could have done something to prevent them from leaving the programme. Measures might include better academic guidance, a more evenly distributed study load and a more workable schedule. Men also often indicate that they would have remained in the programme if its introductory phase had been more thorough. Furthermore, the choice of programme is also an important factor in student success. It turns out that drop-outs start thinking about their study plans later and that they visit fewer open days than  students who continue their study. 20 Furthermore, drop-outs tend to start on their programme with lower expectations than students who continue their study successfully.
 
-> 19  ResearchNed (on behalf of SBO), New students in teacher training programmes, (forthcoming).
+19 ResearchNed (on behalf of SBO), New students in teacher training programmes, (forthcoming).
 
-20  ResearchNed, Success and drop-out rates among first-year students in teacher training programmes in higher professional education, 2010.
+20 ResearchNed, Success and drop-out rates among first-year students in teacher training programmes in higher professional education, 2010.
 
 PAGE 53 CHAPTER 3
 
@@ -2045,11 +1908,11 @@ How can educational quality improve? It is important that schools focus more on 
 
 It should be noted that there are significant differences between the various teacher training programmes. Students in PABO programmes give the entire programme an average score of 6.9. However, there is a discrepancy of 3 points between the programme with the highest score and the programme with the lowest score. There are similar discrepancies among teacher training programmes for secondary education. A focused effort is therefore needed to improve the quality of teacher training programmes. Performance agreements
 
-- 21  The National Student Survey (NSE) is a large-scale satisfaction survey among students in higher education. It is conducted under the auspices of the Stichting Studiekeuze123 Foundation. The survey results may be consulted at www.studiekeuze123.nl.
+21 The National Student Survey (NSE) is a large-scale satisfaction survey among students in higher education. It is conducted under the auspices of the Stichting Studiekeuze123 Foundation. The survey results may be consulted at www.studiekeuze123.nl.
 
-22  The NSE presents students with many questions about their programme, which they can rate on a scale from 1 (very unsatisfied) to 5 (very satisfied). These scores have been converted to a scale of 1 to 10 for this policy document.
+22 The NSE presents students with many questions about their programme, which they can rate on a scale from 1 (very unsatisfied) to 5 (very satisfied). These scores have been converted to a scale of 1 to 10 for this policy document.
 
-- 23  Inspectorate of Education, Education report 2009/2010, 2011.
+23 Inspectorate of Education, Education report 2009/2010, 2011.
 
 PAGE 54 CHAPTER 3
 
@@ -2065,7 +1928,7 @@ on quality improvement will be made between the Ministry of Education, Culture a
 
 Many teachers have a positive opinion about their training programme once they start on their careers in education. They were asked, for example, if they would choose the same programme again if they were to start their studies afresh (Figure 3.6). Graduates of first-level teacher qualification programmes in physical education and graduates of teacher training programmes for secondary education in social sciences were especially likely to indicate that they would take the same course again. Furthermore, more than 60 percent of all graduates from teacher training programmes at institutions for higher professional education felt that their training was a good springboard for their careers. The average for all other programmes in higher professional education is 58 percent.
 
-> 24  Ministry of Education, Culture and Science, action plan Teacher 2020 - a strong profession!, 18 May 2011.
+24 Ministry of Education, Culture and Science, action plan Teacher 2020 – a strong profession!, 18 May 2011.
 
 PAGE 55 CHAPTER 3
 
@@ -2113,11 +1976,11 @@ THE EDUCATIONAL LABOUR MARKET IN THE NEAR FUTURE.
 
 Education is very important, both from an economic and a societal perspective. This is why we must be aware of any hindrances or other potentially negative developments on the educational labour market, and why new estimates have been prepared. Educational labour market forecasts become more unreliable the further into the future they are projected. Unknown external factors can influence the educational labour market and can affect how teachers behave. The forecasting model known as MIRROR can be used to make 'predictions' about future labour market conditions under certain circumstances and based on certain assumptions. These predictions are based on information based on past experiences. Suppose that in the past ten years an average of one in ten teachers left the profession to go to work elsewhere. In this case it is likely that about ten percent will leave the profession to go to work elsewhere in the years to come, too. The actual attrition probability will of course be influenced by numerous factors. MIRROR takes account of a large number of these factors, for example: gender, age, income, marital status and the business outlook.
 
-When calculating the new labour market projections for the various levels of education, the most recent economic forecasts were used as available when this document was prepared in August 2011 .1
+When calculating the new labour market projections for the various levels of education, the most recent economic forecasts were used as available when this document was prepared in August 2011. 1
 
 #### Changing circumstances
 
-It was but a short time ago that major teacher shortages were expected in nearly all levels of education. The Ministry of Education, Culture and Science prepared the LeerKracht van Nederland action plan in response to the Teacher Commission's advisory report entitled LeerKracht! (September 2007). This plan resulted in voluntary accords with the levels of education that included specific agreements on tackling the teacher shortage, both in terms of quality and quantity. The accords have been effective. Teacher shortages would now be more acute were it not for the remuneration impulse issuing from the LeerKracht action plan: in secondary education the shortage would likely be twice as acute and about half as acute again in primary education .2
+It was but a short time ago that major teacher shortages were expected in nearly all levels of education. The Ministry of Education, Culture and Science prepared the LeerKracht van Nederland action plan in response to the Teacher Commission's advisory report entitled LeerKracht! (September 2007). This plan resulted in voluntary accords with the levels of education that included specific agreements on tackling the teacher shortage, both in terms of quality and quantity. The accords have been effective. Teacher shortages would now be more acute were it not for the remuneration impulse issuing from the LeerKracht action plan: in secondary education the shortage would likely be twice as acute and about half as acute again in primary education. 2
 
 But the educational labour market of 2007 is not the same market that we have today. These are troubled times for the economy, affecting the entire labour market, including the educational labour market. In recessions, education becomes a relatively appealing career option. This is because career prospects and job security in education are less dependent on the business outlook than in the private sector. 3 The proportion of graduates from teacher training programmes who opt for a job in education is generally higher at these times, provided there are enough jobs in education, of course.
 
@@ -2127,13 +1990,13 @@ At the same time, however, the coalition agreement mentions the use of the so-ca
 
 Teachers are also remaining active in the profession longer since the retirement age is on the rise. This effect has been examined in a separate scenario analysis, which will be discussed later in this chapter.
 
-- 1  CPB, Draft Macro-Economic Survey (MEV) 2012.
+1 CPB, Draft Macro-Economic Survey (MEV) 2012.
 
-- 2  CentERdata, The future labour market for teachers 2010-2020, November 2010.
+2 CentERdata, The future labour market for teachers 2010-2020, November 2010.
 
-- 3  CentERdata, Ecorys and QDelft, The future labour market for teachers 2007-2015, 2008.
+3 CentERdata, Ecorys and QDelft, The future labour market for teachers 2007-2015, 2008.
 
-- 4  Between 2010 and 2015 approximately 1,000 FTEs will be available due to extra expansion demand. This will result in extra vacancies totalling 800-900 FTEs in this period.
+4 Between 2010 and 2015 approximately 1,000 FTEs will be available due to extra expansion demand. This will result in extra vacancies totalling 800-900 FTEs in this period.
 
 PAGE 59 CHAPTER 4
 
@@ -2147,75 +2010,39 @@ Figure 4.1
 
 Development of expansion and replacement demand and the expected influx of teachers and school administrators in primary education, 2011-2020 (FTE)
 
+Teachers
+
+-2.000
+
 0
 
 2.000
 
-200
-
 4.000
-
-400
-
-600
 
 6.000
 
 8.000
 
-800
+2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
 
-1.000
-
--2.000
+School administrators
 
 -200
 
 0
 
-2015
+200
 
-2011
+400
 
-2012
+600
 
-2013
+800
 
-2014
+1.000
 
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2015
-
-2011
-
-2012
-
-2013
-
-2014
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-Teachers
-
-School administrators
+2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
 
 Expansion demand
 
@@ -2223,15 +2050,15 @@ Influx
 
 Attrition (replacement demand)
 
-Total demand
-
-(expansion and attrition)
+Total demand (expansion and attrition)
 
 Source: MIRROR, compiled by CentERdata.
 
 Figure 4.2
 
 Development of unmet demand for teachers and school administrators in primary education, 2011-2020 (FTE)
+
+0
 
 500
 
@@ -2243,27 +2070,7 @@ Development of unmet demand for teachers and school administrators in primary ed
 
 2.500
 
-0
-
-2015
-
-2011
-
-2012
-
-2013
-
-2014
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
+2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
 
 Teachers
 
@@ -2287,9 +2094,9 @@ Which developments can be identified in a nationwide context regarding the suppl
 
 The demand for teachers and school administrators is determined mainly by:
 
- attrition (retirement or career switch, outside the educational sector);
+- attrition (retirement or career switch, outside the educational sector);
 
- job changes (from teacher to school administrator) and changes in FTE;
+- job changes (from teacher to school administrator) and changes in FTE;
 
 - student numbers.
 
@@ -2325,71 +2132,35 @@ Figure 4.3
 
 Development in expansion and replacement demand and the expected influx of teachers and school administrators in secondary education, 2011-2020 (FTE)
 
+Teachers
+
+-2.000
+
 0
 
 2.000
 
-100
-
 4.000
-
-200
-
-300
 
 6.000
 
-400
+2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
 
--2.000
+Directors
 
 -100
 
 0
 
-2015
+100
 
-2011
+200
 
-2012
+300
 
-2013
+400
 
-2014
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2015
-
-2011
-
-2012
-
-2013
-
-2014
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-Teachers
-
-Directors
+2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
 
 Expansion demand
 
@@ -2397,9 +2168,7 @@ Influx
 
 Attrition (replacement demand)
 
-Total demand
-
-(expansion and attrition)
+Total demand (expansion and attrition)
 
 Source: MIRROR, compiled by CentERdata.
 
@@ -2407,51 +2176,33 @@ Figure 4.4
 
 Development of unmet demand for teachers and directors in secondary education, 2011-2020 (FTE).
 
+0
+
 500
 
 1.000
 
-3.000
-
 1.500
-
-3.500
 
 2.000
 
-4.000
-
 2.500
+
+3.000
+
+3.500
+
+4.000
 
 4.500
 
-0
-
-2015
-
-2011
-
-2012
-
-2013
-
-2014
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-Source: MIRROR, compiled by CentERdata.
+2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
 
 Teachers
 
-Directors The expected shortfall (unmet demand) for school administrators in primary education will be at an annual level of between 700 and 800. About half of these vacancies will be filled by teachers who move to administrative positions.
+Directors
+
+Source: MIRROR, compiled by CentERdata.
 
 PAGE 62 CHAPTER 4
 
@@ -2460,6 +2211,8 @@ THE EDUCATIONAL LABOUR MARKET IN THE NEAR FUTURE. NATIONAL TRENDS
 [[END OF PAGE 63]]
 
 [[START OF PAGE 64]]
+
+The expected shortfall (unmet demand) for school administrators in primary education will be at an annual level of between 700 and 800. About half of these vacancies will be filled by teachers who move to administrative positions.
 
 #### Supply and demand in secondary education
 
@@ -2475,11 +2228,7 @@ Given these developments, an increasing number of vacancies in secondary educati
 
 #### Senior secondary vocational education
 
-Many new teachers will be required in senior secondary vocational education (and adult education) in the years to come to compensate for the attrition of (often older) tea-
-
-5  ROA, The labour market by education and profession until 2014, November 2009.
-
-chers. The demand for new teachers will reach a peak of over 2,800 in 2016/2017 (see Figure 4.5). This is not likely to pose great problems, except in a few specific vocational subjects.
+Many new teachers will be required in senior secondary vocational education (and adult education) in the years to come to compensate for the attrition of (often older) teachers. The demand for new teachers will reach a peak of over 2,800 in 2016/2017 (see Figure 4.5). This is not likely to pose great problems, except in a few specific vocational subjects.
 
 Student numbers will decline in senior secondary vocational education in the years to come. There will be 610,000 students in 2011, approximately 594,000 in 2015 and approximately 566,000 in 2020. From now until 2015 the number of (full-time) jobs for teachers will drop by approximately 700, with a further decline of 1,200 positions leading up to 2020. Total employment is therefore expected to decrease by about 7 percent.
 
@@ -2487,7 +2236,9 @@ A high proportion of teaching staff in senior secondary vocational education are
 
 The demand for teachers in senior secondary vocational education is expected to outpace supply for the entire period (see Figure 4.5). Senior secondary vocational education differs from primary and secondary education, as senior secondary vocational education offers the opportunity of appointing professionals from the field to teaching positions based on their prior education (at least vocational education) and their work experience outside of the educational sector (minimum 3 years). Teachers may therefore be recruited from ranks of people who have not necessarily earned a qualification through a teacher training programme. Incidentally, trade and industry are also dealing with a shortage of skilled workers in many sectors. Even in times of lacklustre economic growth, the demand for highly educated personnel increases in many sectors due to surging replacement demand. 5
 
-There is a chance of staff shortages in senior and preparatory secondary vocational education precisely in those vocational subjects that require a specific background; these professionals are also in high demand on the broader labour market. Here, competition with trade and industry might occur. There is competition for graduates of higher professional education in healthcare, technology, and a number of economics programmes .6 The action plan Teacher 2020 - a strong profession! emphasizes the need to train teachers for vocational subjects in senior and preparatory secondary vocational education. 7 Additionally, this level of education has more leeway for using educational support staff such as teaching assistants (for example instructors). As a result, teacher shortages can (in some situations) be addressed more flexible. It should be noted that the demand for teachers in vocational education varies by level and by subject.
+There is a chance of staff shortages in senior and preparatory secondary vocational education precisely in those vocational subjects that require a specific background; these profes-
+
+5 ROA, The labour market by education and profession until 2014, November 2009.
 
 PAGE 63 CHAPTER 4
 
@@ -2497,35 +2248,49 @@ THE EDUCATIONAL LABOUR MARKET IN THE NEAR FUTURE. NATIONAL TRENDS
 
 [[START OF PAGE 65]]
 
-- 6  ROA, The labour market by education and profession until 2014, November 2009.
+sionals are also in high demand on the broader labour market. Here, competition with trade and industry might occur. There is competition for graduates of higher professional education in healthcare, technology, and a number of economics programmes. 6 The action plan Teacher 2020 – a strong profession! emphasizes the need to train teachers for vocational subjects in senior and preparatory secondary vocational education. 7 Additionally, this level of education has more leeway for using educational support staff such as teaching assistants (for example instructors). As a result, teacher shortages can (in some situations) be addressed more flexible. It should be noted that the demand for teachers in vocational education varies by level and by subject.
 
-- 7  Ministry of Education, Culture and Science, action plan Teacher 2020 - a strong profession!, May 2011.
+6 ROA, The labour market by education and profession until 2014, November 2009.
+
+7 Ministry of Education, Culture and Science, action plan Teacher 2020 – a strong profession!, May 2011.
 
 Figure 4.5
 
 Development in expansion and replacement demand and the expected influx of teachers and directors in senior secondary vocational education, 2011-2020 (FTE)
 
+Teachers
+
+-500
+
 0
 
 500
 
-10
-
 1.000
 
+1.500
+
 2.000
+
+2.500
+
+3.000
+
+3.500
+
+2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
+
+Directors
+
+-10
+
+0
+
+10
 
 20
 
 30
-
-1.500
-
-2.500
-
-3.500
-
-3.000
 
 40
 
@@ -2535,55 +2300,7 @@ Development in expansion and replacement demand and the expected influx of teach
 
 70
 
--500
-
--10
-
-0
-
-2015
-
-2011
-
-2012
-
-2013
-
-2014
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2015
-
-2011
-
-2012
-
-2013
-
-2014
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-Teachers
-
-Directors
+2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
 
 Expansion demand
 
@@ -2591,9 +2308,7 @@ Influx
 
 Attrition (replacement demand)
 
-Total demand
-
-(expansion and attrition)
+Total demand (expansion and attrition)
 
 Source: MIRROR, compiled by CentERdata.
 
@@ -2607,7 +2322,7 @@ THE EDUCATIONAL LABOUR MARKET IN THE NEAR FUTURE. NATIONAL TRENDS  /  INCREASING
 
 ### 4.3 Increasing the retirement age
 
-Staff supply in education is expected to be under more pressure in the years to come. This is due to the fact that more and more teachers will be retiring from the profession or taking early retirement. Figure 4.6 shows how the proportion of teachers aged 60 and over develops.  Most teachers will retire in vocational education, compared to the other levels of education. The proportion of people in this level of education aged 60 and over will be between 13 and 14 percent in the years to come. This is about 10 percent in secondary education. The proportion of over60s is lowest in primary education.
+Staff supply in education is expected to be under more pressure in the years to come. This is due to the fact that more and more teachers will be retiring from the profession or taking early retirement. Figure 4.6 shows how the proportion of teachers aged 60 and over develops. Most teachers will retire in vocational education, compared to the other levels of education. The proportion of people in this level of education aged 60 and over will be between 13 and 14 percent in the years to come. This is about 10 percent in secondary education. The proportion of over-60s is lowest in primary education.
 
 The age distribution of teachers in primary education in the Netherlands is favourable compared to our neighbouring countries. 8 Admittedly, the largest group of teachers in the Netherlands is in the age group of 50-59 years, but this group is 29 percent smaller than in Germany, Italy, Austria and Sweden. In secondary education, 37 percent of teachers are between 50 and 59 years old. This percentage is lower than in Sweden for example, but higher than in Belgium and the UK.
 
@@ -2623,13 +2338,13 @@ An increase in the retirement age in senior secondary vocational education will 
 
 Figure 4.7 shows that the tension on the labour market decreases in the period 2012-2020 as the average retirement age of older teachers rises. The proportion of unmet demand in relation to employment would then be only 5 percent in 2015, rather than 7 percent. In 2020, it would be 2 percent instead of 3 percent. The increased retirement age will temper tensions on the labour market for primary education, especially in the medium term. Tension on the labour market will be comparable to that in secondary education around 2020. Part of the solution to the forthcoming teacher shortage problem in secondary education may be formed by policies that encourage teachers to retire later.
 
-> 8  Ministry of Education, Culture and Science, Key figures 2006-2010, May 2011.
+8 Ministry of Education, Culture and Science, Key figures 2006-2010, May 2011.
 
-> 9  Statistics Netherlands, Web magazine, Wednesday 13 July 2011.
+9 Statistics Netherlands, Web magazine, Wednesday 13 July 2011.
 
-- 10  This scenario analysis is based on assumed future choices, unlike employment projections by MIRROR, which are based on past choices made by teaching staff.
+10 This scenario analysis is based on assumed future choices, unlike employment projections by MIRROR, which are based on past choices made by teaching staff.
 
-- 11  CentERdata, The future labour market for teachers 2010-2020. Revised forecasts (forthcoming).
+11 CentERdata, The future labour market for teachers 2010-2020. Revised forecasts (forthcoming).
 
 PAGE 65 CHAPTER 4
 
@@ -2643,17 +2358,15 @@ Figure 4.6
 
 Proportion of teachers aged 60 and over in primary education, secondary education and senior secondary vocational education.
 
-Source: MIRROR, compiled by CentERdata.
-
 0
 
 2
 
 4
 
-8
-
 6
+
+8
 
 10
 
@@ -2663,83 +2376,45 @@ Source: MIRROR, compiled by CentERdata.
 
 16
 
-2011
-
-2014
-
-2012
-
-2015
-
-2013
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
+2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
 
 Primary education
 
 Secondary education
 
-Senior secondary vocational
+Senior secondary vocational education
 
-education
+Source: MIRROR, compiled by CentERdata.
 
 Figure 4.7
 
 Development of the unmet demand in primary and secondary education in 2011-2020 among administrative and teaching staff, at standard and higher retirement age (FTE)
 
-Source: MIRROR, compiled by CentERdata/OCW.
+0
 
 1.000
+
+2.000
 
 3.000
 
 4.000
 
-2.000
-
 5.000
 
 6.000
 
-0
+2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
 
-2015
+Primary education
 
-2011
+Primary education at higher retirement age
 
-2010
+Secondary education
 
-2012
+Secondary education at higher retirement age
 
-2013
-
-2014
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-- Secondary education
-
-- Secondary education at higher retirement age
-
-- Primary education
-
-- Primary education at higher retirement age
+Source: MIRROR, compiled by CentERdata/OCW.
 
 PAGE 66 CHAPTER 4
 
@@ -2759,9 +2434,9 @@ The demand for teachers in secondary education is related to the subject taught 
 
 The number of students with specific learning needs in vocational education (special secondary education, 'learning support' stream and practical training) also rose sharply in the 1990-2010 period, from about 10 percent to about 18 percent. Such structural shifts in student numbers naturally also affect the qualitative demand for teachers.
 
-> 12  The data presented is based on the development of teaching units given by teachers.
+12 The data presented is based on the development of teaching units given by teachers.
 
-13  Ministry of Education, Culture and Science, Key figures 2006-2010, 2011. Statistics Netherlands, Key figures in education yearbook 2010, 2010.
+13 Ministry of Education, Culture and Science, Key figures 2006-2010, 2011. Statistics Netherlands, Key figures in education yearbook 2010, 2010.
 
 PAGE 67 CHAPTER 4
 
@@ -2771,23 +2446,25 @@ THE EDUCATIONAL LABOUR MARKET IN THE NEAR FUTURE. DIFFERENCES BETWEEN SUBJECTS
 
 [[START OF PAGE 69]]
 
-Figure 4.8 Expected teacher attrition in the period 2011-2015, based on teaching units offered in 2015 compared to teaching units in 2011
+Figure 4.8
 
-- 35 %
+Expected teacher attrition in the period 2011-2015, based on teaching units offered in 2015 compared to teaching units in 2011
 
-- 30 %
+0 %
 
-- 25 %
+- 5 %
+
+- 10 %
 
 - 15 %
 
 - 20 %
 
-- 10 %
+- 25 %
 
-- 5 %
+- 30 %
 
-0 %
+- 35 %
 
 Geography
 
@@ -2813,38 +2490,28 @@ Mathematics
 
 Source: MIRROR, compiled by CentERdata/OCW.
 
-Figure 4.9 The sum of the expansion and replacement demand in primary education, by RPA (Regional Labour Market Platform) area
+Figure 4.9
+
+The sum of the expansion and replacement demand in primary education, by RPA (Regional Labour Market Platform) area
 
 2011-2015
+
+0 - 250
+251 - 500
+501 - 750
+751 - 1000
+1001 - 1250
+1251 - 1500
+1501 >
 
 2016-2020
 
 0 - 250
-
 251 - 500
-
-501- 750
-
+501 - 750
 751 - 1000
-
 1001 - 1250
-
 1251 - 1500
-
-1501 >
-
-0 - 250
-
-251 - 500
-
-501- 750
-
-751 - 1000
-
-1001 - 1250
-
-1251 - 1500
-
 1501 >
 
 Source: MIRROR, compiled by Ecorys.
@@ -2877,17 +2544,17 @@ Student numbers will increase in secondary education in nearly all regions throu
 
 Figure 4.10 shows that, just as in primary education, replacement demand more than compensates for any drop in demand due to falling student numbers. The expectation is that new teachers will be needed in secondary education in all regions in the periods 2011-2015 and 2016-2020.
 
-The greatest demand for new teachers in secondary education through 2020 is expected in the following RPA (Regional Labour Market Platform) regions: Amsterdam (+2,900 FTEs), Rijnmond (+2,100 FTEs), southern NoordHolland (+1,900 FTEs) and Haaglanden (+1,700 FTEs). The demand for new teachers will be negligible in the regions of North Groningen, Roermond, the western mining region of Limburg and East Groningen, however.
+The greatest demand for new teachers in secondary education through 2020 is expected in the following RPA (Regional Labour Market Platform) regions: Amsterdam (+2,900 FTEs), Rijnmond (+2,100 FTEs), southern Noord-Holland (+1,900 FTEs) and Haaglanden (+1,700 FTEs). The demand for new teachers will be negligible in the regions of North Groningen, Roermond, the western mining region of Limburg and East Groningen, however.
 
 It is currently unclear to what extent the regional supply of new teachers will be adequate to meet regional demand. The regional module in MIRROR is being refined
 
-> 14  National Network on Population Decline (education unit), Consequences for staffing due to falling student numbers, June 2011.
+14 National Network on Population Decline (education unit), Consequences for staffing due to falling student numbers, June 2011.
 
-> 15  Ecorys and CentERdata, Regional demand for teachers in primary and secondary education. Demand forecasts until 2020 (forthcoming).
+15 Ecorys and CentERdata, Regional demand for teachers in primary and secondary education. Demand forecasts until 2020 (forthcoming).
 
-> 16 Regional Labour platform.
+16 Regional Labour platform.
 
-- 17  Ecorys and CentERdata, Regional demand for teachers in primary and secondary education.
+17 Ecorys and CentERdata, Regional demand for teachers in primary and secondary education.
 
 PAGE 69 CHAPTER 4
 
@@ -2915,34 +2582,22 @@ The sum of the expansion and replacement demand in secondary education, by RPA (
 
 2011-2015
 
+0 - 250
+251 - 500
+501 - 750
+751 - 1000
+1001 - 1250
+1251 - 1500
+1501 >
+
 2016-2020
 
 0 - 250
-
 251 - 500
-
-501- 750
-
+501 - 750
 751 - 1000
-
 1001 - 1250
-
 1251 - 1500
-
-1501 >
-
-0 - 250
-
-251 - 500
-
-501- 750
-
-751 - 1000
-
-1001 - 1250
-
-1251 - 1500
-
 1501 >
 
 Source: MIRROR, compiled by Ecorys.
@@ -3029,17 +2684,17 @@ Labour mobility is relatively low in the education sector. An average of 8 perce
 
 About half of job-changers in education remain active in the education sector. This is comparable to the national average. Of teachers leaving education, most enter the field of business services (19%) or the health and welfare sector (11%). It should be noted that labour turnover is higher among newly qualified teachers. Of recent
 
-- 1   Statistics Netherlands, Statline. Governmentfunded (i.e. subsidized) education comprises primary education, secondary education, secondary vocational education, adult education and higher education. These are regular jobs; freelancers are not included.
+- 1   Statistics Netherlands, Statline. Government-funded (i.e. subsidized) education comprises primary education, secondary education, secondary vocational education, adult education and higher education. These are regular jobs; freelancers are not included.
 
 - 2 Statistics Netherlands, Statline.
-
-- 6  Ministry of Education, Culture and Science.
 
 - 3  Ministry of Education, Culture and Science, Key figures 2006-2010, 2011.
 
 - 4  Ministry of Education, Culture and Science, Key figures 2006-2010, 2011.
 
 - 5  Statistics Netherlands, Web magazine, 22 July 2009.
+
+- 6  Ministry of Education, Culture and Science.
 
 - 7  Statistics Netherlands/TNO. Dynamics on the Dutch labour market, February 2011.
 
@@ -3206,7 +2861,7 @@ The vast majority of newly qualified teachers (in 2009) indicate that they are s
 
 #### Specialist training
 
-The teacher training programmes may be regarded as relatively specialized. 19 Students who graduate from more generic courses often fan out over many different types of jobs and/or sectors after graduation. In higher professional education, this high degree of specialization also applies to PABO graduates and to graduates of the second-level teacher qualification programmes for society and social history subjects. Of all university programmes (except for dentistry), graduates of universityaffiliated teacher training programmes are the least likely to become employed in a profession other than that for which they have trained. It is likely that newly qualified
+The teacher training programmes may be regarded as relatively specialized. 19 Students who graduate from more generic courses often fan out over many different types of jobs and/or sectors after graduation. In higher professional education, this high degree of specialization also applies to PABO graduates and to graduates of the second-level teacher qualification programmes for society and social history subjects. Of all university programmes (except for dentistry), graduates of university-affiliated teacher training programmes are the least likely to become employed in a profession other than that for which they have trained. It is likely that newly qualified
 
 - 13  Regioplan. Educational career monitor 2011 (forthcoming).
 
@@ -3220,9 +2875,7 @@ The teacher training programmes may be regarded as relatively specialized. 19 St
 
 - 18  Regioplan, Educational career monitor 2011 (forthcoming).
 
- secondary education and for primary education score low on the HHI (Herfindahl-Hirschman Index), which means that they are concentrated in a number of professions or jobs.
-
-- 19  Elsevier/SEO. Study and Work 2011, 2011. Graduates of the teacher training programmes for
+- 19  Elsevier/SEO. Study and Work 2011, 2011. Graduates of the teacher training programmes for secondary education and for primary education score low on the HHI (Herfindahl-Hirschman Index), which means that they are concentrated in a number of professions or jobs.
 
 PAGE 79 CHAPTER 5
 
@@ -3264,7 +2917,7 @@ Teacher training programmes for primary education | Teacher training programmes 
 Primary education | 88 | 89 | 90 | 5 | 6 | 5
 Special education | 11 | 11 | 11 | 6 | 3 | 6
 Pre-vocational secondary education | 3 | 3 | 3 | 42 | 48 | 44
-Senior general secondary education | 1 | 0 | 1 | 51 | 50 | 46
+Senior general secondary education and pre-university education | 1 | 0 | 1 | 51 | 50 | 46
 Vocational education | 1 | 1 | 0 | 19 | 15 | 19
 Higher professional education and university | 0 | - | 0 | 5 | 2 | 3
 Other | 1 | 1 | 1 | 2 | 4 | 4
@@ -3299,15 +2952,13 @@ The scheme has been extended to September 2012 to give the regions a little more
 
 An initial assessment 22 shows that collaboration in various regions between schools (for secondary education) and teacher training programmes has intensified. In addition, many regions have redoubled their efforts to improve the guidance provided to newly qualified teachers. Both the newly qualified teachers and the school reap the benefits of this approach. A number of regions have successfully implemented programmes to encourage teachers with a second-level qualification to 'upgrade' their qualification to a first-level qualification / master's degree.
 
-Not all projects have been equally successful, despite the tremendous effort put forth. Recruiting from the hidden reserve, for example, failed to produce any significant results. This is partly due to the economic downturn that gripped the nation shortly after the scheme was introduced. Furthermore, recruitment was often targeted at
+Not all projects have been equally successful, despite the tremendous effort put forth. Recruiting from the hidden reserve, for example, failed to produce any significant results. This is partly due to the economic downturn that gripped the nation shortly after the scheme was introduced. Furthermore, recruitment was often targeted at relatively minor appointments that failed to entice former teachers to leave their jobs and make the switch to education. Also, these teachers often lacked the qualifications or experience as desired by today's profession.
+
+The Education Sector Employment Board (SBO) has been responsible for creating and supporting regional platforms in education in recent years. The government will stop funding for the SBO as of 1 January 2012. The infrastructure of the regional platforms is solid. The time has come for the platforms and the sectors to take their own responsibility. The role of government will be limited to removing regulatory barriers and (where possible) providing data on the regional educational labour market, among other things.
 
 > 21  Ministry of Education, Culture and Science, Subsidy scheme for harmonizing educational labour market in risk regions for secondary education 2008-2011.
 
 - 22  Ecorys, Assessment of subsidy scheme for risk regions for secondary education. Initial interim evaluation: preparation and start-up, 2010.
-
-relatively minor appointments that failed to entice former teachers to leave their jobs and make the switch to education. Also, these teachers often lacked the qualifications or experience as desired by today's profession.
-
-The Education Sector Employment Board (SBO) has been responsible for creating and supporting regional platforms in education in recent years. The government will stop funding for the SBO as of 1 January 2012. The infrastructure of the regional platforms is solid. The time has come for the platforms and the sectors to take their own responsibility. The role of government will be limited to removing regulatory barriers and (where possible) providing data on the regional educational labour market, among other things.
 
 PAGE 81 CHAPTER 5
 
@@ -3324,7 +2975,7 @@ Number | Change
 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2006 vs 2010
 Total | 35.599 | 33.051 | 31.059 | 29.196 | 27.538 | 26.167 | -21%
 WAO | 35.599 | 32.402 | 29.635 | 26.914 | 24.379 | 22.044 | -32%
-WIA | 649 | 1.424 | 2.282 | 3.159 | 4.123 | -
+WIA |  | 649 | 1.424 | 2.282 | 3.159 | 4.123 | -
 Primary education | 15.330 | 14.496 | 13.593 | 12.910 | 12.816 | 12.318 | -15%
 Secondary education | 9.140 | 8.439 | 8.001 | 7.355 | 6.298 | 5.833 | -31%
 Vocational education | 5.835 | 5.238 | 4.862 | 4.554 | 4.267 | 4.052 | -23%
@@ -3338,13 +2989,13 @@ Table 5.5  Absenteeism ** in education due to illness, 2002-2010 (expressed in p
 
 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Primary education | 7,6 | 6,8 | 6,5 | 5,9 | 5,8 | 5,9 | 6,0 | 6,0 | 6,1
-Special education | 8,7 | 7,6 | 7,2 | 6,4 | 6,3 | 6,8 | 6,7 | 6,7 | 6,5
-Secondary education | 7,0 | 5,8 | 5,6 | 5,4 | 5,0 | 5,1 | 5,1 | 5,1 | 4,9
+Primary education | 7,6 | 6,8 | 6,5 | 5,9 | 5,8 | 5,9 | 6,0 | 6,0 | 6,1*
+Special education | 8,7 | 7,6 | 7,2 | 6,4 | 6,3 | 6,8 | 6,7 | 6,7 | 6,5*
+Secondary education | 7,0 | 5,8 | 5,6 | 5,4 | 5,0 | 5,1 | 5,1 | 5,1 | 4,9*
 Vocational education | 7,3 | 7,2 | 5,7 | 5,9 | 5,8 | 5,7 | 5,8 | 5,8 | 5,9
 Higher professional education | 5,1 | 4,9 | 4,7 | 4,5 | 4,5 | 4,5 | 4,7 | 4,3 | 4,2
 University education | 3,5 | 2,9 | 2,9 | 3,4 | 3,2 | 3,1 | 3,1 | 3,0 | 3,0
-Research institutes | 3,6 | 2,9 | 3,0 | 2,9 | 2,7 | 3,0 | 3,1 | 3,2 | 2,7
+Research institutes | . | 3,6 | 2,9 | 3,0 | 2,9 | 2,7 | 3,0 | 3,1 | 3,2 | 2,7
 
 Source: Regioplan Beleidsonderzoek, Secondary Education Council, Health Service Desk for vocational education and adult education, the Higher Professional Education Council (Zestor), the Association of Universities in the Netherlands VSNU and the Employers' Association of Research Institutes WVOI.
 
@@ -3358,7 +3009,7 @@ Table 5.6  Number of recipients of unemployment benefits (on December 31) by yea
 
 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-fte Primary education | 245 | 805 | 1.831 | 3.248 | 3.587 | 3.478 | 2.697 | 2.519 | 2.619 | 2.682
+Primary education | 245 | 805 | 1.831 | 3.248 | 3.587 | 3.478 | 2.697 | 2.519 | 2.619 | 2.682
 Secondary education | 199 | 584 | 1.331 | 1.772 | 1.857 | 1.724 | 1.270 | 1.298 | 1.253 | 1.402
 Vocational education | 130 | 347 | 850 | 1.210 | 1.152 | 926 | 633 | 684 | 888 | 845
 Higher professional education | 80 | 224 | 439 | 634 | 675 | 584 | 450 | 439 | 496 | 512
@@ -3512,9 +3163,9 @@ The Education at a Glance 2011 report covers teacher salary data for the 2008/20
 
 1  OECD, Education at a Glance 2011, 2011.
 
-PAGE 89 CHAPTER 6
-
 2 OECD, Education at a Glance 2011, 2011.
+
+PAGE 89 CHAPTER 6
 
 CONDITIONS OF EMPLOYMENT AND COLLECTIVE LABOUR AGREEMENTS TEACHER SALARIES IN INTERNATIONAL PERSPECTIVE
 
@@ -3532,9 +3183,9 @@ Figure 6.1 Salary of teacher with 15 years' experience compared to the average s
 
 0,40
 
-0,80
-
 0,60
+
+0,80
 
 1,00
 
@@ -3552,9 +3203,9 @@ Germany
 
 Finland
 
-England
-
 Australia
+
+England
 
 EU21 average
 
@@ -3622,9 +3273,9 @@ The Joint Industrial Labour Council and the government have come to an agreement
 
 Events in recent years have demonstrated that today's pension system is not sustainable enough. The indexation (i.e. adjustments to keep pace with wage developments) lag is nearly 8% for ABP. Life expectancy of ABP participants is also currently higher, which is not sufficiently reflected in the premiums paid. The pension agreement and its specification clarify the distribution of risks. The pension scheme must reflect the fact that participants are living longer.
 
-- 3  The results of FNV's (federation of trade unions) consultation of employees on the pension agreement were not known at the time of publication.
-
 Furthermore, the ageing of the population means that the group actually paying premiums is getting smaller. This means that setbacks on the financial markets - low interest rates or disappointing stock exchanges - can no longer be compensated by raising premiums. These problems can no longer be pushed into the future.
+
+- 3  The results of FNV's (federation of trade unions) consultation of employees on the pension agreement were not known at the time of publication.
 
 PAGE 92 CHAPTER 6
 
@@ -3744,29 +3395,29 @@ ANNEXES 2
 
 PO | VO | MBO | HBO | Total
 --- | --- | --- | --- | --- | ---
-I enjoy my day-to-day teaching activities I have enough influence on my day-to-day teaching There is a pleasant atmosphere at work I have enough career opportunities My working hours are in sync with my home life I feel appreciated by my supervisor My supervisor lets me know if he/she is satisfied with My supervisor gives me enough support My workload is heavy I often feel that I don't have enough time I can often decide how I schedule my workday I can set my own pace of work My work makes me feel burned out I feel exhausted when I get up in the morning and have I can decide on the order in which I complete my work I can work on my personal/professional development | 96 % 82 83 39 68 73 64 58 57 69 68 47 22 18 52 60 | 93 % 83 % 78 % 32 % 70 % 67 % 58 % 55 % 51 % 54 % 73 % 51 % 20 % 18 % 50 % 50 % 43 % | 90 % 74 % 74 % 28 % 71 % 64 % 56 % 50 % 51 % 54 % 69 % 51 % 20 % 18 % 56 % 46 % | 91 % 79 % 77 % 40 % 76 % 68 % 63 % 53 % 57 % 56 % 78 % 56 % 18 % 17 % 65 % 62 % | 94 % 81 80 36 70 69 61 56 54 62 71 50 21 18 54 % 56 49
-activities | % | %
-% | %
-% | %
-% | %
-% | %
-my work | % | %
-% | %
-% | %
-% | %
-% | %
-% | %
-% | %
-to face another workday | % | %
-%
-% | %
-I feel encouraged by my school to improve my teaching qualities | 57 % | 37 % | 47 % | %
+I enjoy my day-to-day teaching activities | 96 % | 93 % | 90 % | 91 % | 94 %
+I have enough influence on my day-to-day teaching activities | 82 % | 83 % | 74 % | 79 % | 81 %
+There is a pleasant atmosphere at work | 83 % | 78 % | 74 % | 77 % | 80 %
+I have enough career opportunities | 39 % | 32 % | 28 % | 40 % | 36 %
+My working hours are in sync with my home life | 68 % | 70 % | 71 % | 76 % | 70 %
+I feel appreciated by my supervisor | 73 % | 67 % | 64 % | 68 % | 69 %
+My supervisor lets me know if he/she is satisfied with my work | 64 % | 58 % | 56 % | 63 % | 61 %
+My supervisor gives me enough support | 58 % | 55 % | 50 % | 53 % | 56 %
+My workload is heavy | 57 % | 51 % | 51 % | 57 % | 54 %
+I often feel that I don't have enough time | 69 % | 54 % | 54 % | 56 % | 62 %
+I can often decide how I schedule my workday | 68 % | 73 % | 69 % | 78 % | 71 %
+I can set my own pace of work | 47 % | 51 % | 51 % | 56 % | 50 %
+My work makes me feel burned out | 22 % | 20 % | 20 % | 18 % | 21 %
+I feel exhausted when I get up in the morning and have to face another workday | 18 % | 18 % | 18 % | 17 % | 18 %
+I can decide on the order in which I complete my work | 52 % | 50 % | 56 % | 65 % | 54 %
+I can work on my personal/professional development | 60 % | 50 % | 46 % | 62 % | 56 %
+I feel encouraged by my school to improve my teaching qualities | 57 % | 43 % | 37 % | 47 % | 49 %
 
 Source: Research voor Beleid, Interim evaluation of LeerKracht 2011 voluntary agreement (forthcoming).
 
-> PO = Primary education
+PO = Primary education
 
-> VO = Secondary education
+VO = Secondary education
 
 MBO = Vocational education
 
@@ -3793,6 +3444,7 @@ Secondary education | Management | -10,3
 Teaching staff | -16,6
 Educational support staff | -13,8
 Support staff | -13,7
+Total | -15,6
 Senior secondary vocational education | Management | -12,8
 Teaching staff | -18,5
 Educational support staff | -14,7
@@ -3948,11 +3600,11 @@ Starting salary | 2405 | 2616 | 2845 | 4321 | 5773
 Maximum salary | 3778 | 4280 | 4849 | 5773 | 8403
 Salary line in years | 14 | 15 | 15 | 12 | 13
 
-1  This is a sample job in the position appraisal system for the vocational education and adult education stream. It can be seen as the toughest staff job and might be found in HR, Finance or IT .
+1 This is a sample job in the position appraisal system for the vocational education and adult education stream. It can be seen as the toughest staff job and might be found in HR, Finance or IT.
 
 Salary lines and wages as of 1-1-2011
 
-Higher professional education | Instructor | Instructor | Instructor | Teacher | Teacher | Teacher | Lector (old style) | Lector (knowledge | Lector network)
+Higher professional education | Instructor | Instructor | Instructor | Teacher | Teacher | Teacher | Lector (old style) | Lector | Lector (knowledge network)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Maximum scale | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16
 Starting salary | 2200,21 | 2303,36 | 2303,36 | 2998,61 | 3690,58 | 4226,99 | 4418,49 | 4656,76 | 5015,81
@@ -3982,11 +3634,11 @@ Salary line in years | 14 | 16 | 4 | 3
 
 Changes in accordance with LeerKracht van Nederland voluntary agreement:
 
- As of 2009 the salary lines for teachers in primary and secondary education were shortened by one year to 15 years, and as of 2011 the salary line for teachers in secondary education will be shorted annually by one year to 12 years in 2014. In vocational education and adult education the salary line for the scales LB, LC and LD will be reduced to 12 steps starting in 2012.
+- As of 2009 the salary lines for teachers in primary and secondary education were shortened by one year to 15 years, and as of 2011 the salary line for teachers in secondary education will be shorted annually by one year to 12 years in 2014. In vocational education and adult education the salary line for the scales LB, LC and LD will be reduced to 12 steps starting in 2012.
 
- Primary school and secondary school teachers at the top of their scales will receive an annual loyalty bonus in August of € 715.21 and € 1331.71, respectively. In addition, primary school teachers at the top of their scales will receive € 61.00 per month following a one-off appraisal.
+Primary school and secondary school teachers at the top of their scales will receive an annual loyalty bonus in August of € 715.21 and € 1331.71, respectively. In addition, primary school teachers at the top of their scales will receive € 61.00 per month following a one-off appraisal.
 
- T eachers in vocational education and adult education will receive an annual loyalty bonus after being at the top of their scales for five years: LB € 1368, LC € 1524 and LD € 1692.
+- Teachers in vocational education and adult education will receive an annual loyalty bonus after being at the top of their scales for five years: LB € 1368, LC € 1524 and LD € 1692.
 
 - Directors in primary education in scales DA through DC+extension receive a monthly allowance of € 298 as of 1 January 2009.
 
@@ -3994,7 +3646,7 @@ Changes in accordance with LeerKracht van Nederland voluntary agreement:
 
 - The starting salary and duration of the salary line for directors depends on their final salary in their previous (teaching) job.
 
- In addition to the holiday allowance of 8% in May, staff will also receive a year-end bonus based on their annual salary in 2011: primary education: 7.10% (incl. monthly life course allowance of 0.80%) + a nominal allowance in October of € 200, secondary education: 7.40%, vocational education and adult education: 8.33%, higher professional education  8.30% + nominal allowance in October 2011 of € 460 and university education 8.30%.
+- In addition to the holiday allowance of 8% in May, staff will also receive a year-end bonus based on their annual salary in 2011: primary education: 7.10% (incl. monthly life course allowance of 0.80%) + a nominal allowance in October of € 200, secondary education: 7.40%, vocational education and adult education: 8.33%, higher professional education 8.30% + nominal allowance in October 2011 of € 460 and university education 8.30%.
 
 ##### Abbreviations
 
