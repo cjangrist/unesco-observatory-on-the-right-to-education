@@ -2,20 +2,6 @@
 
 # Education Master Plan 2006-2016 Republic of Palau
 
-Ministry of Education
-
-Republic of Palau
-
-P. O. Box 189
-
-Koror, PW  96940
-
-(680) 488-1464 (phone)
-
-(680) 488-1465 (fax)
-
-moe@palaumoe.net
-
 October 2006
 
 [[END OF PAGE 1]]
@@ -66,7 +52,7 @@ ii
 
 In the spring of 2006, the Ministry of Education (MOE) of the Republic of Palau initiated a period of strategic planning to improve educational programs and services for the period of 2006-2016. This strategic planning aimed to build on the previous 10-year education master plan referred to as the Palau 2000 Master Plan for Educational Improvement and to integrate recommendations from the first Palau Education Summit held in April 2006 as well as recommendations from other forums. The ultimate goal is to develop and implement a new long-term education master plan for Palau.
 
-The development of the new 10-year education master plan was carried out by the Palau Education Master Plan Steering Committee, in consultation with the MOE Management Team and with assistance from the Pacific Regional Initiatives for the Delivery of Basic Education (PRIDE) Project and Pacific Resources for Education and Learning (PREL). The PRIDE project is implemented by the Institute of Education at the University of the South Pacific and is jointly funded by the European Union and New Zealand AID. PREL is a non-profit educational agency based in Honolulu, Hawai'i.
+The development of the new 10-year education master plan was carried out by the Palau Education Master Plan Steering Committee, in consultation with the MOE Management Team and with assistance from the Pacific Regional Initiatives for the Delivery of Basic Education (PRIDE) Project and Pacific Resources for Education and Learning (PREL). The PRIDE project is implemented by the Institute of Education at the University of the South Pacific and is jointly funded by the European Union and New Zealand AID. PREL is a non-profit educational agency based in Honolulu, Hawai‘i.
 
 This Education Master Plan report was made possible by the following groups and individuals:
 
@@ -76,9 +62,9 @@ This Education Master Plan report was made possible by the following groups and 
 
 - Raynold Mechol, Chief of Research and Evaluation, Vice Chairman
 
-- Debbie Tkel-Sbal, Chief of Curriculum and Instruction
-
 - Edwel Ongrung, Administrative Services Manager, Recorder
+
+- Debbie Tkel-Sbal, Chief of Curriculum and Instruction
 
 - Sinton Soalablai, Chief of School Management
 
@@ -88,15 +74,15 @@ This Education Master Plan report was made possible by the following groups and 
 
 - John F. Takisang, Vice President, Palau High School Student Body Association
 
-- Sherman Daniel, Associate Dean, Palau Community College
-
 - Regina Mesebeluu, Director, Belau Head Start Program
+
+- Sherman Daniel, Associate Dean, Palau Community College
 
 - Masaharu Tmodrang, Principal, Emmaus High School
 
-- Joy Baules, President, Belau Employers and Educators Alliance
-
 - Hermana Umetaro, President, Belau Family School Community Association
+
+- Joy Baules, President, Belau Employers and Educators Alliance
 
 - Senator Santy Asanuma, Chairman, Committee on Education and Culture, Palau National Congress
 
@@ -108,9 +94,9 @@ This Education Master Plan report was made possible by the following groups and 
 
 - Sinton Soalablai, Chief of School Management
 
-- Raynold Mechol, Chief of Research and Evaluation
-
 - Debbie Tkel-Sbal, Chief of Curriculum and Instruction
+
+- Raynold Mechol, Chief of Research and Evaluation
 
 iii
 
@@ -124,19 +110,25 @@ iii
 
 ## The PRIDE Project
 
+Institute of Education
+
 University of the South Pacific
 
-Institute of Education Suva, Fiji
+Suva, Fiji
 
 - Dr. Robert (Bob) Teasdale, Project Director
 
-- Epeli Tokai, Education Advisor
-
 - Mahendra Singh, Project Manager
+
+- Epeli Tokai, Education Advisor
 
 ## Pacific Resources for Education and Learning (PREL)
 
-900 Fort Street Mall, Suite 1300 Honolulu, Hawai'i 96813 (808) 441-1300
+900 Fort Street Mall, Suite 1300
+
+Honolulu, Hawai‘i 96813
+
+(808) 441-1300
 
 - Dr. Mary B. Church, Director of Evaluation Training
 
@@ -188,6 +180,40 @@ v
 
 # Table of Contents
 
+LIST OF TABLES vii
+LIST OF FIGURES viii
+MINISTER'S MESSAGE ix
+FOREWORD x
+SECTION 1. INTRODUCTION 1
+GLOBAL INITIATIVES 1
+REGIONAL INITIATIVES 3
+NATIONAL INITIATIVES 4
+SECTION 2. HISTORY AND CULTURAL TRADITIONS OF THE EDUCATIONAL SYSTEM IN THE REPUBLIC OF PALAU 11
+PRECOLONIAL PALAU AND TRADITIONAL TEACHING AND LEARNING 11
+FORMAL SCHOOL IN PALAU 12
+SECTION 3. CURRENT EDUCATIONAL SYSTEM 18
+GOVERNANCE AND MANAGEMENT OF PALAU’S EDUCATION SYSTEM 18
+ORGANIZATIONAL STRUCTURE OF THE SCHOOLS 20
+BASIC STUDENT INDICATORS 20
+STAFFING 24
+CURRICULUM AND INSTRUCTION 25
+STUDENT ASSESSMENT 27
+TEACHER TESTING 29
+SCHOOL FACILITIES 30
+FISCAL RESOURCES 30
+SUPPORT SERVICES 31
+SECTION 4. GOALS AND STRATEGIC OBJECTIVES 32
+DEVELOPMENT OF THE PLAN 32
+PRIORITY AREA #1: GOVERNANCE AND POLICY SETTING 33
+PRIORITY AREA #2: CURRICULUM AND INSTRUCTION 36
+PRIORITY AREA #3: SCHOOL ADMINISTRATION AND MANAGEMENT 41
+PRIORITY AREA #4: PERSONNEL MANAGEMENT 45
+PRIORITY AREA #5: FACILITIES AND SUPPORT SERVICES 49
+SECTION 5. MONITORING AND EVALUATING THE PLAN 53
+REFERENCES 56
+APPENDIX A: PRIORITY ISSUES FOR EDUCATION SUMMIT 57
+APPENDIX B: EDUCATION SUMMIT RECOMMENDATIONS 66
+
 vi
 
 [[END OF PAGE 6]]
@@ -196,6 +222,29 @@ vi
 
 # List of Tables
 
+Table 1. Student Enrollment Trend: 1998–2006 21
+Table 2. Student Enrollment by School Level: 1998–2005 22
+Table 3. Graduation Rates:1996–2006 (Public and Private Schools) 22
+Table 4. Student Dropout Rate 23
+Table 5. Individual School Student-Teacher Ratio: 2005 (Public Schools) 23
+Table 6. Student-Teacher Ratio: 1997–2005 24
+Table 7. Number of Teachers in Public and Private Schools 24
+Table 8. Teachers’ Education Levels and Major Fields of Study 24
+Table 9. Teachers’ Degree Plan, School Year 2005 25
+Table 10. Course Offerings at Palau High School 26
+Table 11. Palau High School Graduation Requirements 27
+Table 12. Palau Achievement Test (National Mean Scores in Percentages), 2005 28
+Table 13. Quarterly Assessment Tests (National Average Scores in Percentages), 2004 28
+Table 14. Stanford Achievement Test, 10th Edition (Percentile Rank), 2004 29
+Table 15. Projected Cost for PRAXIS I Testing 30
+Table 16. Fiscal Resources: Public Schools 30
+Table 17. Priority Area #1: Governance and Policy Setting 33
+Table 18. Priority Area #2: Curriculum and Instruction 36
+Table 19. Priority Area #3: School Administration and Management 41
+Table 20. Priority Area #4: Personnel Management 45
+Table 21. Priority Area #5: Facilities and Support Services 49
+Table 22. Monitoring Chart 53
+
 vii
 
 [[END OF PAGE 7]]
@@ -203,6 +252,9 @@ vii
 [[START OF PAGE 8]]
 
 # List of Figures
+
+Figure 1. Global, Regional, and National Education Reform Efforts 2
+Figure 2. Palau Ministry of Education Organizational Chart, January 2002 19
 
 viii
 
@@ -234,25 +286,23 @@ ix
 
 [[START OF PAGE 10]]
 
+QuickTime™ and a
+TIFF (LZW) decompressor
+are needed to see this picture.
+
 # Foreword
 
-Since the Ministry of Education's (MOE's) initiation of its Five-Year Improvement Plan in 1986, the dialogue and work to detail, refine, review, and reach consensus on what knowledge is most important to teach has been foremost in the work and intentions of the Ministry personnel. This new Palau Education Master Plan 2006-2016 builds upon this work as well as the progress made by its immediate predecessor, the Palau 2000 Master Plan for Educational Improvement, 1995-2005 .
+Since the Ministry of Education’s (MOE’s) initiation of its Five-Year Improvement Plan in 1986, the dialogue and work to detail, refine, review, and reach consensus on what knowledge is most important to teach has been foremost in the work and intentions of the Ministry personnel. This new Palau Education Master Plan 2006–2016 builds upon this work as well as the progress made by its immediate predecessor, the Palau 2000 Master Plan for Educational Improvement, 1995–2005.
 
-Furthermore, the Palau Education Master Plan 2006-2016 incorporates recommendations from the April 2006 Education Summit and the February 2006 National/State Symposium. The plan draws upon the Palau National Master Plan and regional and international conventions such as the the Pacific Regional Initiatives for the Delivery of Basic Education (PRIDE) Benchmarks, the Education for All (EFA) Goals, and the Millennium Development Goals.
+Furthermore, the Palau Education Master Plan 2006–2016 incorporates recommendations from the April 2006 Education Summit and the February 2006 National/State Symposium. The plan draws upon the Palau National Master Plan and regional and international conventions such as the the Pacific Regional Initiatives for the Delivery of Basic Education (PRIDE) Benchmarks, the Education for All (EFA) Goals, and the Millennium Development Goals.
 
-Looking ahead to the next 10 years, the Palau Education Master Plan 2006-2016 aims to increase student achievement through improvement in governance and policy setting, curriculum and instruction, school administration and management, personnel management, and facilities and support services. These goals are anticipated to lead to achievement of the vision of the MOE, which states that 'Our students will be successful in the Palauan society and the world.' To accomplish this vision, the MOE has declared the following mission:
+Looking ahead to the next 10 years, the Palau Education Master Plan 2006–2016 aims to increase student achievement through improvement in governance and policy setting, curriculum and instruction, school administration and management, personnel management, and facilities and support services. These goals are anticipated to lead to achievement of the vision of the MOE, which states that “Our students will be successful in the Palauan society and the world.” To accomplish this vision, the MOE has declared the following mission:
 
 The Republic of Palau Ministry of Education, in partnership with students, parents, and the community, is to ensure student success through effective curriculum and instruction in a conducive learning environment.
 
-The MOE takes the responsibility for implementing this new Palau Education Master Plan 2006-2016. But, we also know that the MOE cannot achieve these ends in isolation. The MOE's partners at the state and national levels and in the education sector, communities, and the business sector, as well as parents and students themselves, all have essential roles to play, roles just as important as that of the MOE. As the MOE mission states, the MOE needs partnership with students, parents, and the community to accomplish the goal of ensuring student success.
+The MOE takes the responsibility for implementing this new Palau Education Master Plan 2006–2016. But, we also know that the MOE cannot achieve these ends in isolation. The MOE’s partners at the state and national levels and in the education sector, communities, and the business sector, as well as parents and students themselves, all have essential roles to play, roles just as important as that of the MOE. As the MOE mission states, the MOE needs partnership with students, parents, and the community to accomplish the goal of ensuring student success.
 
 I urge you to join the MOE in working to implement this new education master plan for the Republic. As we venture forward, let us work together to maximize opportunities for our children.
-
-QuickTime™ and a
-
-TIFF (LZW) decompressor
-
-are needed to see this picture.
 
 Emery Wenty, Director of Education Chairman, Education Master Plan Steering Committee
 
@@ -266,30 +316,30 @@ x
 
 It is well recognized that formal education offers many advantages to society. It provides a fundamental protection against impoverishment, by enabling people to develop and apply knowledge and skills, and it empowers people to participate in decision-making and in transforming their lives.
 
-The Palau Education Master Plan 2006-2016 has been developed within the context of a number of global, regional, and national initiatives that seek to promote high-quality educational access for all. As presented in Figure 1, these initiatives provide a funnelfrom global to national-of the educational efforts that have led us to the current educational reform plan.
+The Palau Education Master Plan 2006–2016 has been developed within the context of a number of global, regional, and national initiatives that seek to promote high-quality educational access for all. As presented in Figure 1, these initiatives provide a funnel—from global to national—of the educational efforts that have led us to the current educational reform plan.
 
 ## Global Initiatives
 
 Three global educational initiatives are described below: Millennium Development Goals, Four Pillars of Education, and Education for All (EFA).
 
-### Millennium Development Goals .
+### Millennium Development Goals.
 The United Nations adopted the Millennium Development Goals in 2000 to focus the attention of world leaders on addressing peace, security, development, human rights and fundamental human freedoms. The eight Millennium Development Goals are as follows:
 
-- Eradicate extreme poverty and hunger
+1. Eradicate extreme poverty and hunger
 
-- Achieve universal primary education
+2. Achieve universal primary education
 
-- Promote gender equality and empower women
+3. Promote gender equality and empower women
 
-- Reduce child mortality
+4. Reduce child mortality
 
-- Improve maternal health
+5. Improve maternal health
 
-- Combat HIV/AIDS and other diseases
+6. Combat HIV/AIDS and other diseases
 
-- Ensure environmental sustainability
+7. Ensure environmental sustainability
 
-- Develop a global partnership for development
+8. Develop a global partnership for development
 
 The second of these, achieving universal primary education, is seen as a fundamental global right for all.
 
@@ -339,21 +389,21 @@ Beliefs
 
 2000 Master Plan
 
-### The United Nations Educational, Scientific and Cultural Organization's (UNESCO's) Four Pillars of Education .
-UNESCO also promotes access to high-quality education as a basic human right. In 1996, UNESCO published a report of the International Commission on Education for the Twenty-first Century entitled Learning: The Treasure Within . This report described education through an individual's lifespan, based upon four pillars:
+### The United Nations Educational, Scientific and Cultural Organization’s (UNESCO’s) Four Pillars of Education.
+UNESCO also promotes access to high-quality education as a basic human right. In 1996, UNESCO published a report of the International Commission on Education for the Twenty-first Century entitled Learning: The Treasure Within. This report described education through an individual’s lifespan, based upon four pillars:
 
 - Learning To Know: Acquire the instruments of understanding
 
 - Learning To Do: Apply knowledge to the world of work
 
-- Learning To Be: Contribute to one's all-around development
-
 - Learning To Live Together: Participate and cooperate with others
+
+- Learning To Be: Contribute to one’s all-around development
 
 This conceptualization provides a comprehensive view of learning and of the purpose of education.
 
-### Education for All .
-EFA is a worldwide effort, also spearheaded by UNESCO, to make education available to meet basic learning needs of all people in the world. EFA aims to reach a common vision of a world in which everyone, child and adult alike, will command the basic literacy and numeracy skills needed to function as a citizen, worker, family member, and fulfilled individual in the emerging global society. Six goals were agreed to by all nations at Jomtien, Thailand, in 1990, and have since been reaffirmed in Dakar, Senegal, in 2000. All countries in the world are encouraged to include the following goals in their education plans:
+### Education for All.
+EFA is a worldwide effort, also spearheaded by UNESCO, to make education available to meet basic learning needs of all people in the world. EFA aims to reach a common vision of a world in which everyone, child and adult alike, will command the basic literacy and numeracy skills needed to function as a citizen, worker, family member, and fulfilled individual in the emerging global society. Six goals were agreed to by all nations at Jomtien, Thailand, in 1990, and have since been reaffirmed in
 
 2
 
@@ -361,34 +411,36 @@ EFA is a worldwide effort, also spearheaded by UNESCO, to make education availab
 
 [[START OF PAGE 13]]
 
-- Expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children.
+Dakar, Senegal, in 2000. All countries in the world are encouraged to include the following goals in their education plans:
 
-- Ensuring that by 2015 all children, especially girls, children in difficult circumstances, and those belonging to ethnic minorities, have access to and complete free and compulsory primary education of good quality.
+1. Expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children.
 
-- Ensuring that the learning needs of all young people and adults are met through equitable access to appropriate learning and life-skills programs.
+2. Ensuring that by 2015 all children, especially girls, children in difficult circumstances, and those belonging to ethnic minorities, have access to and complete free and compulsory primary education of good quality.
 
-- Achieving a 50% improvement in levels of adult literacy by 2015, especially for women, and equitable access to basic and continuing education for all adults.
+3. Ensuring that the learning needs of all young people and adults are met through equitable access to appropriate learning and life-skills programs.
 
-- Eliminating gender disparities in primary and secondary education by 2005, and achieving general equity in education by 2015, with a focus on ensuring girls' full and equal access to and achievement in basic education of good quality.
+4. Achieving a 50% improvement in levels of adult literacy by 2015, especially for women, and equitable access to basic and continuing education for all adults.
 
-- Improving all aspects of the quality of education and ensuring excellence of all so that recognized and measurable learning outcomes are achieved by all, especially in literacy, numeracy, and essential life skills.
+5. Eliminating gender disparities in primary and secondary education by 2005, and achieving general equity in education by 2015, with a focus on ensuring girls’ full and equal access to and achievement in basic education of good quality.
+
+6. Improving all aspects of the quality of education and ensuring excellence of all so that recognized and measurable learning outcomes are achieved by all, especially in literacy, numeracy, and essential life skills.
 
 ## Regional Initiatives
 
-### Forum Basic Education Action Plan .
+### Forum Basic Education Action Plan.
 Fourteen Ministers of Education of the Pacific Islands Forum developed a Forum Basic Education Action Plan (FBEAP) in May 2001 to achieve Pacific goals of universal and equitable educational participation and achievement, and to improve the quality and outcomes of education. The vision set forth by FBEAP is the following:
 
 Basic education, as the fundamental building block for society, should engender the broader life skills that lead to social cohesion and provide the foundations for vocational callings, higher education, and lifelong learning. These, when combined with enhanced employment opportunities, create a high level of personal and societal security and development.
 
 Educational improvements were sought in three areas: the classroom, school, and community.
 
-In the classroom , improvements were sought in:
+In the classroom, improvements were sought in:
 
 - Teaching staff
 
-- Instructional materials
-
 - Curriculum programs
+
+- Instructional materials
 
 - Assessment procedures
 
@@ -404,34 +456,34 @@ Improvements in the schools included:
 
 [[START OF PAGE 14]]
 
-And in the communities , improvements were sought in:
+And in the communities, improvements were sought in:
 
 - Relationships with communities and stakeholders
 
 - Participation of all stakeholders in the planning and delivery of education
 
-### The PRIDE Project Benchmarks for National Strategic Plans .
-The PRIDE Project was launched in 2004 to implement the Pacific Vision for Education, as outlined in the FBEAP. The project seeks to strengthen the capacity of educational agencies in the Pacific to effectively plan and deliver high-quality basic education to children and youth. As a result, the PRIDE Project has developed draft 'Benchmarks for National Strategic Plans' for education. The benchmarks provide a baseline for a minimum set of criteria necessary for inclusion in the strategic plans developed with their assistance. These benchmarks include the following:
+### The PRIDE Project Benchmarks for National Strategic Plans.
+The PRIDE Project was launched in 2004 to implement the Pacific Vision for Education, as outlined in the FBEAP. The project seeks to strengthen the capacity of educational agencies in the Pacific to effectively plan and deliver high-quality basic education to children and youth. As a result, the PRIDE Project has developed draft “Benchmarks for National Strategic Plans” for education. The benchmarks provide a baseline for a minimum set of criteria necessary for inclusion in the strategic plans developed with their assistance. These benchmarks include the following:
 
-- Pride in cultural and national identity
+1. Pride in cultural and national identity
 
-- Skills for life and work locally, regionally, and globally
+2. Skills for life and work locally, regionally, and globally
 
-- Alignment with the national development plan and with regional and international conventions
+3. Alignment with the national development plan and with regional and international conventions
 
-- Access and equity for students with special needs
+4. Access and equity for students with special needs
 
-- Partnerships with communities and stakeholders
+5. Partnerships with communities and stakeholders
 
-- A holistic approach to basic education
+6. A holistic approach to basic education
 
-- Realistic financial costing
+7. Realistic financial costing
 
-- Use of data and research information in educational planning
+8. Use of data and research information in educational planning
 
-- Effective capacity building for all educational personnel
+9. Effective capacity building for all educational personnel
 
-- Framework for monitoring and evaluation
+10. Framework for monitoring and evaluation
 
 Each of these benchmarks is included in the strategic plan contained in this report.
 
@@ -465,17 +517,17 @@ The Palau EFA Plan (2002) proposes the following activities:
 
 - Implement alternative educational programs for disadvantaged students.
 
-- Implement skills-based health education.
-
 - Provide more effective training on HIV/AIDS issues and policies.
+
+- Implement skills-based health education.
 
 #### School
 
 - Provide counseling and tutoring services to students.
 
-- Implement a system for tracking students.
-
 - Establish kindergarten programs.
+
+- Implement a system for tracking students.
 
 - Increase equitable access to primary education.
 
@@ -542,9 +594,9 @@ Recommendations proposed for implementation by the MOE and Palau Community Colle
 
 - Reduce class sizes.
 
-- Provide additional training to teachers.
-
 - Reduce the number of classes taught by teachers.
+
+- Provide additional training to teachers.
 
 - Refine evaluation systems for teachers.
 
@@ -556,9 +608,9 @@ Recommendations proposed for implementation by the MOE and Palau Community Colle
 
 - Implement programs that guide students into the teaching field.
 
-- Refine evaluation systems for students.
-
 - Provide additional career counseling in all schools.
+
+- Refine evaluation systems for students.
 
 6
 
@@ -583,9 +635,9 @@ A summary of recommendations and areas of concern cited by stakeholders is provi
 
 - Implement Teacher Certification System.
 
-- Strengthen partnerships (Belau Employers and Educators Alliance/Belau Family School Community Association [BEEA/BFSCA]).
-
 - Implement School Administrator Certification System.
+
+- Strengthen partnerships (Belau Employers and Educators Alliance/Belau Family School Community Association [BEEA/BFSCA]).
 
 - Implement effective Teacher-student ratios.
 
@@ -597,11 +649,9 @@ A summary of recommendations and areas of concern cited by stakeholders is provi
 
 - Strengthen MOE/school partnerships with BFSCA and BEEA.
 
-- Implement a comprehensive student evaluation and tracking system (baseline data).
-
 - Strengthen Palauan language and culture curriculum.
 
-·
+- Implement a comprehensive student evaluation and tracking system (baseline data).
 
 - Improve student achievement on standardized assessment tests (Palau Achievement Test [PAT] & Stanford Achievement Test, 10th Edition [SAT10]).
 
@@ -631,23 +681,23 @@ A summary of recommendations and areas of concern cited by stakeholders is provi
 
 - Resolve school consolidation issues.
 
-- Amend retirement laws.
-
 - New school in Babeldaob.
+
+- Amend retirement laws.
 
 - Provide social workers for all schools.
 
-- Allow disability accessibility at all schools.
-
 - Have uniform classroom/facility standards for all schools.
+
+- Allow disability accessibility at all schools.
 
 #### Personnel Management
 
 - Improve certification.
 
-- Strengthen recruitment capability.
-
 - Retain high-quality teachers.
+
+- Strengthen recruitment capability.
 
 - Expect and reward excellent performance.
 
@@ -659,18 +709,18 @@ A summary of recommendations and areas of concern cited by stakeholders is provi
 
 - Increase education financing.
 
-- Increase internet access.
-
 - Reform student lunch program.
+
+- Increase internet access.
 
 - Conduct necessary school facilities renovations.
 
 These recommendations and areas of concern served as a basis for developing the goals and strategic objectives of the new education master plan. In June 2006, the Ministry of Education Management Team and the Palau Education Master Plan Steering Committee provided their input on the same issues posed to the Palau community representatives. These recommendations were consolidated with those from the April 2006 Education Summit and the February 2006 National/State Leadership Symposium. The resulting recommendations form the basis of the Palau Education Master Plan 2006-2016.
 
-### Public Law .
-Public policy related to educational and occupational development is provided by Public Law 4-57. As noted below, this law states that the national government of the Republic of Palau will provide an educational system that enables citizens to participate in the development of the Republic and gain knowledge in all areas.
+### Public Law.
+Public policy related to educational and occupational development is provided by Public Law 4–57. As noted below, this law states that the national government of the Republic of Palau will provide an educational system that enables citizens to participate in the development of the Republic and gain knowledge in all areas.
 
-The purposes of education in the Republic are to increase citizen participation in economic and social development, to unify the Republic by giving the people knowledge of their islands, economy, government and world, and to provide citizens of the Republic with the knowledge and skills required for selfdevelopment and the development of the Republic. These skills include professional and vocational, as well as social and political, abilities.
+The purposes of education in the Republic are to increase citizen participation in economic and social development, to unify the Republic by giving the people knowledge of their islands, economy, government and world, and to provide citizens of the Republic with the knowledge and skills required for self-development and the development of the Republic. These skills include professional and vocational, as well as social and political, abilities.
 
 8
 
@@ -685,43 +735,43 @@ The Palau MOE states a corresponding vision and mission for education:
 
 - Mission . The Republic of Palau Ministry of Education, in partnership with students, parents, and the community, is to ensure student success through effective curriculum and instruction in a conducive learning environment.
 
-### Palauan Values and Beliefs .
+### Palauan Values and Beliefs.
 For Palauan education to be relevant, it should relate to Palauan values and beliefs. As described by the Palau 2000 Master Plan for Educational Improvement (1994), being Palauan means that one places a high value on:
 
 - Respect.
 
 - Sharing and cooperation.
 
-- Work.
-
 - Participation in community activities and decisions.
 
-- Knowledge and acceptance of our cultural heritage and practicing one's culture.
+- Work.
 
-- Spiritual values.
+- Knowledge and acceptance of our cultural heritage and practicing one’s culture.
 
 - Responsibility and self-reliance.
 
+- Spiritual values.
+
 - Humility.
 
-### Palau 2000 Master Plan for Educational Improvement .
-The national education reform has been in effect for over a decade. In 1996, the Republic of Palau adopted a comprehensive educational improvement plan, the Palau 2000 Master Plan for Educational Improvement , to guide the nation's school reform and restructuring efforts into the 21st century. The Palau 2000 Master Plan for Educational Improvement provided analyses of the condition of elementary and secondary education in the Republic of Palau, as well as detailed recommendations and timelines for implementing and evaluating these recommendations. This plan was the education component of the Republic of Palau's National Master Development Plan (1996).
+### Palau 2000 Master Plan for Educational Improvement.
+The national education reform has been in effect for over a decade. In 1996, the Republic of Palau adopted a comprehensive educational improvement plan, the Palau 2000 Master Plan for Educational Improvement, to guide the nation’s school reform and restructuring efforts into the 21st century. The Palau 2000 Master Plan for Educational Improvement provided analyses of the condition of elementary and secondary education in the Republic of Palau, as well as detailed recommendations and timelines for implementing and evaluating these recommendations. This plan was the education component of the Republic of Palau’s National Master Development Plan (1996).
 
 The Palau 2000 Master Plan was developed by a task force established by the OEK. Members of the task force were appointed by the president, with consent of the Senate, and were broadly representative of educational, public policy, and local communities. The Palau 2000 Master Plan was developed over the course of a year with the assistance and advice of hundreds of Palauan citizens.
 
-Six priority areas were described by the Palau 2000 Master Plan :
+Six priority areas were described by the Palau 2000 Master Plan:
 
-- Improving standards to bring the real world into curriculum and instruction
+1. Improving standards to bring the real world into curriculum and instruction
 
-- Strengthening family/school/community partnerships
+2. Strengthening family/school/community partnerships
 
-- Developing and implementing a professional personnel and certification system
+3. Developing and implementing a professional personnel and certification system
 
-- Improving preschool and kindergarten education
+4. Improving preschool and kindergarten education
 
-- Improving governance and policy setting for education
+5. Improving governance and policy setting for education
 
-- Expanding and upgrading facilities
+6. Expanding and upgrading facilities
 
 9
 
@@ -741,7 +791,7 @@ Major accomplishments include compulsory high school attendance, emphasis on wor
 
 An educational improvement strategy is a major planning effort being undertaken by the Republic of Palau to design a long-term, comprehensive educational strategy to meet the needs of its young people as the nation moves into the 21st century. Leaders in Palau, including traditional leaders, educators, religious leaders, and politicians, have long recognized that a system of education for a nation is more than just 'schools.' An educational system also includes forces such as community attitudes toward learning; educational aspirations for children and youth; historical and cultural attributes of what, how, when, and why learning takes place; and child rearing and learning practices in the home. Indeed, 'teachers' may influence humans any time from birth to death. Additionally, the formal schools, community attitudes and aspirations, cultural practices, and significant teachers change over time as society and the world change. An educational improvement strategy must consider historical and cultural influences as well as the predictable socioeconomic changes in the years ahead as it examines the strengths and concerns of the present system as a background for creative and effective change.
 
-## Pre-colonial Palau and Traditional Teaching and Learning
+## Precolonial Palau and Traditional Teaching and Learning
 
 Palau did not have a written language prior to European influence. History, information, knowledge, customs, religion, and appropriate elements of the sociopolitical system were passed orally from generation to generation. No formal schools in the Western sense existed in the traditional Palauan societies; rather, learning and teaching were based on highly honored and respected community expectations and followed precise social mores. Senior members of each family were the significant teachers, and the family was the center of learning. Traditional education involved training, cultivating, and strengthening memory to retain the knowledge of the culture. As the children grew older, the father and other significant males (often the mother's elder brother) taught the male children, and the mother took care of the female children.
 
@@ -757,33 +807,33 @@ Village clubs existed in all Palauan villages and were important 'schools,' espe
 
 [[START OF PAGE 22]]
 
-Traditional learning in Palau, whether in the family, in boys and girls clubs, or through an arrangement between the learner and a village expert, was holistic-learning and 'schooling' was in the context of everyday living. The ideal of self-sufficiency and personal independence was strong. This ideal was reflected in the extent to which a man could support a household through his own skills and labors by being able to perform all the tasks inherent in the traditional subsistence way of life.
+Traditional learning in Palau, whether in the family, in boys and girls clubs, or through an arrangement between the learner and a village expert, was holistic—learning and 'schooling' was in the context of everyday living. The ideal of self-sufficiency and personal independence was strong. This ideal was reflected in the extent to which a man could support a household through his own skills and labors by being able to perform all the tasks inherent in the traditional subsistence way of life.
 
 In summary, the 'subjects' of the traditional 'schools' of the home, the club, or an apprenticeship and the ultimate outcomes that were expected included the following:
 
 - Respect and courtesy
 
-- Perseverance and industry
-
 - Responsibility, duty, and social obligation
+
+- Perseverance and industry
 
 - Modesty and the proper ways of speaking and acting
 
-- Public service and personal caring/protecting
-
 - Group and leadership loyalty and obedience
+
+- Public service and personal caring/protecting
 
 - Compassion, sympathy, and pity
 
-- Preserving/strengthening clan relationships
-
 - Kindness and generosity
+
+- Preserving/strengthening clan relationships
 
 - Subsistence skills, or 'earning' ability
 
-- Cultural knowledge
-
 - Nature of physical and social environment
+
+- Cultural knowledge
 
 ## Formal Schooling in Palau
 
@@ -813,13 +863,13 @@ In both the Japanese and local school systems, the emphasis was heavily on moral
 
 In the Japanese system, the public school classes were big. Eighty or more students were common in the 4th- and 4th-year levels. One teacher taught all subjects, and use of the vernacular was taboo. The class atmosphere was stern and serious; discipline was immediate and frequently severe. Students were punished if they spoke Palauan, and punishment was corporal-a slap or hit on the head with the fist or bamboo. Academic excellence was rewarded through various positive reinforcements. Most subjects were taught by rote memorization, and group reading was a common method of teaching. Most of the teachers were recruited from Japan, with the exception of one Palauan teacher in each school to act as interpreter. Staff turnover was minimal. At the end of the Japanese occupation, there were no 'Palauan' schools, no teacher training programs for Palauans, and no educational programs to prepare Palauans for the teaching profession.
 
-As noted earlier, with few exceptions, schooling beyond the primary courses in Palau was not open to all Palauans. One exception was the carpenters apprentice school in Koror, established in 1927. This school accepted about 20 exceptional boys every year for a 2year program with the following curriculum: ethics, Japanese language, arithmetic, drawing, gymnastics, architecture, and practice.
+As noted earlier, with few exceptions, schooling beyond the primary courses in Palau was not open to all Palauans. One exception was the carpenters apprentice school in Koror, established in 1927. This school accepted about 20 exceptional boys every year for a 2-year program with the following curriculum: ethics, Japanese language, arithmetic, drawing, gymnastics, architecture, and practice.
 
 The curriculum was expanded in 1940 to include courses in auto mechanics, electronics, and surveying. Graduates of the vocational school were skilled and effective, and contributed in a number of ways. Some were pressed into service to build military installations, and others joined an 8-month guerilla training program under the Japanese military. In 1944, World War II reached Palau, with the United States taking Palau from the Japanese administration.
 
 ### The American Period (Trust Territory)
 
-At the end of World War II, it was reported that only two Palauans could speak English. There were no qualified teachers. Rural village schools were not operational. There was little political or economic interest in Palau from the United States. However, the U.S. Naval Administration immediately began assisting Palauans in establishing schools from scratch. Teacher training was begun by sending a small number of men and women to Guam for training. In the meantime, each village complex lobbied to have its own school, rather than only the four elementary schools established by the Japanese. In fact, in one year (1946), nine new school buildings were constructed as village enterprises by local craftsmen, using local materials. These schools were staffed by untrained personnel while waiting for those being trained in Guam to return. This effort to build schools demonstrates several important elements of Palauan culture: the strong desire for education, the desire for foreign goods, and the socially productive cooperativecompetitive principle that ensures productivity in Palau.
+At the end of World War II, it was reported that only two Palauans could speak English. There were no qualified teachers. Rural village schools were not operational. There was little political or economic interest in Palau from the United States. However, the U.S. Naval Administration immediately began assisting Palauans in establishing schools from scratch. Teacher training was begun by sending a small number of men and women to Guam for training. In the meantime, each village complex lobbied to have its own school, rather than only the four elementary schools established by the Japanese. In fact, in one year (1946), nine new school buildings were constructed as village enterprises by local craftsmen, using local materials. These schools were staffed by untrained personnel while waiting for those being trained in Guam to return. This effort to build schools demonstrates several important elements of Palauan culture: the strong desire for education, the desire for foreign goods, and the socially productive cooperative-competitive principle that ensures productivity in Palau.
 
 14
 
@@ -847,9 +897,9 @@ In 1994, in addition to the 20 public elementary schools and one high school, th
 
 - Concern for community versus concern for the individual.
 
-- Customs and tradition versus contemporary culture.
-
 - Privilege of birth versus equality.
+
+- Customs and tradition versus contemporary culture.
 
 The most recent data (2005) on change in Palau's system of education reflect events and issues that have been presented in the literature about the history of the educational system in the Republic. The following is a list of some of the notable changes:
 
@@ -857,9 +907,9 @@ The most recent data (2005) on change in Palau's system of education reflect eve
 
 - A change from 'outsiders' running the system to Palauan administration.
 
-- Multiple outside influences, which have changed the system; yet, Palauans have survived by valuing their cultural heritage and 'practicing their culture.'
-
 - A move toward greater equality of opportunity for women in the system.
+
+- Multiple outside influences, which have changed the system; yet, Palauans have survived by valuing their cultural heritage and 'practicing their culture.'
 
 - Television, which has brought great change and even more outside influence.
 
@@ -909,7 +959,7 @@ This section provides a summary description of the current educational system in
 
 ## Governance and Management of Palau's Education System
 
-Title 22 of the Palau National Code of Legislation calls for a National Board of Education of five members, appointed by the national president, with the advice and consent of the Senate. The Board, however, has not been functioning. In the Palau 2000 Master Plan for Educational Improvement , a recommendation was made to change the number of Board members to seven and have them be elected by the people of Palau. This has not been done, and the Board is still not functioning. It is strongly recommended that this issue be resolved as soon as possible.
+Title 22 of the Palau National Code of Legislation calls for a National Board of Education of five members, appointed by the national president, with the advice and consent of the Senate. The Board, however, has not been functioning. In the Palau 2000 Master Plan for Educational Improvement, a recommendation was made to change the number of Board members to seven and have them be elected by the people of Palau. This has not been done, and the Board is still not functioning. It is strongly recommended that this issue be resolved as soon as possible.
 
 In the absence of a Board of Education, the MOE and its Management Team have continued to carry out essential functions of the Board in managing the operation of the Ministry, including major functions of the Bureau of Education and other divisions of the Ministry, as shown in the MOE organizational chart.
 
@@ -943,7 +993,8 @@ The Division of Research and Evaluation is headed by a division chief whose majo
 
 The Division of Personnel Management is headed by a division chief whose main responsibility is personnel matters, including personnel recruitment, management, training, and certification for the MOE.
 
-Palau Ministry of Education Organizational Chart
+Palau Ministry of Education
+Organizational Chart
 
 January 2002
 
@@ -951,27 +1002,15 @@ Minister of Education
 
 Director of Education
 
-Division of Research and Evaluation
-
 Division of School Management
 
 Division of Curriculum and Instruction
 
 Division of Personnel Management
+
+Division of Research and Evaluation
 
 Figure 2. Palau Ministry of Education Organizational Chart, 2002
-
-Minister of Education
-
-Director of Education
-
-Division of Research and Evaluation
-
-Division of School Management
-
-Division of Curriculum and Instruction
-
-Division of Personnel Management
 
 19
 
@@ -1013,6 +1052,8 @@ The following tables show the trends of student enrollment, graduation rates in 
 
 Student enrollment records show a slight decline in student enrollment in the public schools during the last 2 years, as indicated in Table 1. This trend may be attributed to the slow growth of the local population, as there was a consistent decrease in the number of incoming 1st graders for the same period. The MOE continues to work closely with the community leaders and parents to improve access to education and to strengthen school curricula at all levels to ensure that every child is given the opportunity for high-quality education. Private school enrollment in the last 2 years essentially remained the same.
 
+Table 1. Student Enrollment Trend: 1998-2006
+
 Elementary | High School
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 School Type | School Year | Male | Female | Total | Male | Female | Total | Grand Total
@@ -1035,8 +1076,6 @@ Private | 1997-1998 | 255 | 264 | 519 | 192 | 206 | 398 | 917
 2004-2005 | 308 | 304 | 612 | 178 | 244 | 422 | 1,034
 2005-2006 | 278 | 279 | 557 | 213 | 273 | 486 | 1,043
 
-Table 1. Student Enrollment Trend: 1998-2006
-
 Note. These student enrollment statistics are collected in the beginning of each school year.
 
 21
@@ -1045,19 +1084,21 @@ Note. These student enrollment statistics are collected in the beginning of each
 
 [[START OF PAGE 32]]
 
+Table 2. Student Enrollment by School Level: 1998-2005
+
 School Year/% Change | 1998- 1999 | % Chg. | 1999- 2000 | % Chg. | 2000- 2001 | % Chg. | 2001- 2002 | % Chg. | 2002- 2003 | % Chg. | 2003- 2004 | % Chg. | 2004- 2005
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Primary | 2,913 | 0.0 | 2,912 | 3.4 | 3,011 | 0.7 | 3,033 | 0.4 | 3,046 | -0.6 | 3,029 | -1.2 | 2,994
 Secondary | 1,163 | -0.9 | 1,152 | 2.3 | 1,179 | -0.9 | 1,168 | 5.1 | 1,228 | -0.6 | 1,221 | -1.6 | 1,201
 Total | 4,076 | -0.3 | 4,064 | 3.1 | 4,190 | 0.3 | 4,201 | 1.7 | 4,274 | -0.6 | 4,250 | -1.3 | 4,195
 
-Table 2. Student Enrollment by School Level: 1998-2005
-
 Note. Data are from the Division of Research and Evaluation, MOE.
 
 ### Graduation Rate
 
 The average graduation rate for the last 10 years is 88.3%, from the lowest graduation rate of 79.2% in 2004-2005 to the highest rate of 95.2% in 2005-2006.
+
+Table 3. Graduation Rates: 1996-2006 (Public and Private Schools)
 
 Elementary | High School
 --- | --- | --- | --- | --- | --- | ---
@@ -1074,8 +1115,6 @@ School Yrs. | Enrolled | Graduates | Percentage | Enrolled | Graduates | Percent
 2004-2005 | 372 | 375 | 100.8 | 236 | 187 | 79.2
 2005-2006 | 368 | 365 | 99.2 | 252 | 240 | 95.2
 
-Table 3. Graduation Rates: 1996-2006 (Public and Private Schools)
-
 ### Dropout Rate
 
 Over the 3-year period from the 2002-2003 school year through the 2004-2005 school year, the dropout rate in public elementary schools was 0.8% in school year 2002-2003, 0.4% in 2003-2004, and 3.8% in 2004-2005. The public high school dropout rate was 3.9% in school year 2002-2003, 8.8% in 2003-2004, and 3.6% in 2004-2005.
@@ -1088,6 +1127,8 @@ In the private schools, the dropout rate was 0.2% for school year 2003-2004 and 
 
 [[START OF PAGE 33]]
 
+Table 4. Student Dropout Rate
+
 Public | 2002-2003 | 2003-2004 | 2004-2005
 --- | --- | --- | --- | --- | --- | ---
 School Level | Enrollment | Dropout | Enrollment | Dropout | Enrollment | Dropout
@@ -1098,11 +1139,11 @@ School Level | Enrollment | Dropout | Enrollment | Dropout | Enrollment | Dropou
 Elementary | 582 | - | 570 | 0.2% | 612 | 1.3%
 High School | 437 | - | 411 | 1.7% | 244 | 1.2%
 
-Table 4. Student Dropout Rate
-
 ### Student-Teacher Ratio
 
 The student-teacher ratio for school year 2004-2005 remained the same as the prior year at the primary level and was slightly lower in secondary school level. The class sizes in central schools lead to a much larger than average student-teacher ratio (shown in Table 5) due to the high population concentration in Koror and Airai. On the other hand, the schools in Babeldaob and the outlying states have a lower than average student-teacher ratio. With the completion of the Compact Road, the MOE could fully implement the school consolidation plan for the public schools in Babeldaob. This will eventually lead to more equal student-teacher ratios across Palau.
+
+Table 5. Individual School Student-Teacher Ratio: 2005 (Public Schools)
 
 School Name | Enrollment | Teachers | Ratio
 --- | --- | --- | ---
@@ -1124,8 +1165,6 @@ Ngiwal | 40 | 8 | 5:1
 Peleliu | 108 | 12 | 9:1
 Pulo Ana | 6 | 2 | 3:1
 
-Table 5. Individual School Student-Teacher Ratio: 2005 (Public Schools)
-
 23
 
 [[END OF PAGE 33]]
@@ -1140,12 +1179,12 @@ Palau High School | 797 | 57 | 14:1
 
 Note. Data are from the Annual School Survey, Division of Research and Evaluation, MOE.
 
+Table 6. Student-Teacher Ratio: 1997-2005
+
 School Year | 1997- 1998 | 1998- 1999 | 1999- 2000 | 2000- 2001 | 2001- 2002 | 2002- 2003 | 2003- 2004 | 2004- 2005
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Primary Schools | 12:1 | 14:1 | 12:1 | 12:1 | 13:1 | 13:1 | 13:1 | 13:1
 Secondary Schools | 9:1 | 9:1 | 9:1 | 9:1 | 10:1 | 11:1 | 12:1 | 11:1
-
-Table 6. Student-Teacher Ratio: 1997-2005
 
 Note.
 
@@ -1155,15 +1194,17 @@ Data are from Division of Research and Evaluation, MOE.
 
 There are approximately 359 teachers in the public and private schools in the Republic of Palau. School year 2004-2005 data shows 269 teachers in public schools and 90 teachers in private schools, as indicated in Table 7.
 
+Table 7. Number of Teachers in Public and Private Schools
+
 Number of Teachers
 --- | --- | --- | ---
 School Type | SY 2002-2003 | SY 2003-2004 | SY 2004-2005
 Public | 277 | 255 | 269
 Private | No data | 92 | 90
 
-Table 7. Number of Teachers in Public and Private Schools
-
 The Palau MOE employs a total of 269 classroom teachers to teach at 18 public elementary schools and one public high school. Available data on teachers' educational backgrounds indicate that the teachers are not adequately prepared to teach in the classroom. Table 8 shows teachers' education levels and major fields of study.
+
+Table 8. Teachers' Education Levels and Major Fields of Study
 
 Teachers' Education Levels School Year 2004-2005 | Teachers' Major Fields of Study School Year 2004-2005
 --- | --- | --- | --- | --- | ---
@@ -1174,15 +1215,15 @@ Bachelor's | 59 | 22% | Business Administration | 19 | 7%
 Master's | 6 | 2% | Other | 49 | 18%
 Doctorate | 0 | 0% | No College Degree | 116 | 43%
 
-Table 8. Teachers' Education Levels and Major Fields of Study
-
-There is, however, a growing number of teachers taking courses at the local college in pursuit of a higher degree in education. Every year, approximately 3% of MOE teachers graduate from the local college with a degree in education, compared to none about five years ago. This is significant progress in the enhancement of teacher quality. The number and percentage of teachers taking courses toward an education degree are shown in Table 9.
+There is, however, a growing number of teachers taking courses at the local college in pursuit of a higher degree in education. Every year, approximately 3% of MOE teachers
 
 24
 
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
+graduate from the local college with a degree in education, compared to none about five years ago. This is significant progress in the enhancement of teacher quality. The number and percentage of teachers taking courses toward an education degree are shown in Table 9.
+Table 9. Teachers' Degree Plan, School Year 2005
 
 Degree | Number | Percent
 --- | --- | ---
@@ -1191,8 +1232,6 @@ Bachelor's | 20 | 7%
 Master's | 8 | 3%
 Doctorate | 0 | 0%
 Not taking courses | 202 | 75%
-
-Table 9. Teachers' Degree Plan, School Year 2005
 
 ## Curriculum and Instruction
 
@@ -1214,9 +1253,11 @@ At Palau High School, the curriculum consists of academic and vocational program
 
 [[START OF PAGE 36]]
 
-The high school curriculum places emphasis on both academic and vocational programs to equip all high school graduates with both academic and technical skills for entry to postsecondary education and/or the workplace after graduation from high school. Palau High School's vocational programs include work-based learning under supervision of local employers through job shadowing (10th grade), career mentoring (11th grade), career practicum (12th grade), and a summer work experience program, all of which are designed to expose students to a variety of professions and proper work ethics. Workbased learning activities provide opportunities for students to gain skills and knowledge in the workplace as well as connect or apply what they learn in the classroom to the world of work.
+The high school curriculum places emphasis on both academic and vocational programs to equip all high school graduates with both academic and technical skills for entry to postsecondary education and/or the workplace after graduation from high school. Palau High School's vocational programs include work-based learning under supervision of local employers through job shadowing (10th grade), career mentoring (11th grade), career practicum (12th grade), and a summer work experience program, all of which are designed to expose students to a variety of professions and proper work ethics. Work-based learning activities provide opportunities for students to gain skills and knowledge in the workplace as well as connect or apply what they learn in the classroom to the world of work.
 
 Palau High School operates on a semester basis with 90 minutes for each subject, and students are required to take 25 credits to graduate. Classes normally begin at 8:00 a.m. and end at 3:30 p.m., with lunch and recess in between. The average class size is 25 students. The teaching assignments are organized by departments so teachers typically teach one or two different levels of subjects per semester. The average teaching load is two or three classes per day. High school teachers have a longer time allotted for lesson planning and preparation compared to elementary school teachers.
+
+Table 10. Course Offerings at Palau High School
 
 Required Courses
 --- | --- | --- | ---
@@ -1229,18 +1270,16 @@ Health | Physical Education | Chemistry | Career Practicum
 Palauan Studies I | Palauan Studies II | Palauan History | Elective
 World Geography | World History | Elective | Elective
 
-Table 10. Course Offerings at Palau High School
-
 Elective Courses
 
 Freshmen | Sophomore | Junior | Senior
 --- | --- | --- | ---
 Accelerated English | Advanced PE (girls) | Keyboarding | Journalism
 Accelerated Math | Advanced PE (boys) | Computer Literacy | Japanese II
-U.S. History | Physics
-Japanese I | Trigonometry
-Office Practice | Comparative Gov't.
-Cultural Research
+ |  | U.S. History | Physics
+ |  | Japanese I | Trigonometry
+ |  | Office Practice | Comparative Gov't.
+ |  |  | Cultural Research
 
 #### Career Academy Programs
 
@@ -1262,6 +1301,8 @@ The following career academies and their corresponding courses are currently bei
 
 - Arts and Humanities: general academic courses
 
+Table 11. Palau High School Graduation Requirements
+
 No. | Subject | # of Credits
 --- | --- | ---
 1 | English | 4 credits
@@ -1273,13 +1314,11 @@ No. | Subject | # of Credits
 7 | PE | 1 credit
 8 | CD I,CD II, and Career Academies | 6 credits
 9 | Elective Courses | 2 credits
-Total Credits | 25 credits
-
-Table 11. Palau High School Graduation Requirements
+ | Total Credits | 25 credits
 
 ## Student Assessment
 
-In addition to teacher-made tests, the MOE utilizes several assessment tools to assess student achievement; these tools include the PAT, the SAT10, and the Quarterly Assessment Tests. The PAT is a locally developed criterion-referenced test used to assess student learning based on the curriculum frameworks of the five core subjects (English, Palauan studies, science, math, and social studies); it is administered in grades 4, 6, 8, 10, and 12 at the end of April or beginning of May each school year. The SAT10, a standardized norm-referenced test developed in the United States, is used to compare student performance within the same grade group of students who took the same test in the United States. The Quarterly Assessment Tests are locally developed criterionreferenced tests administered at the end of each quarter to grades 1-8 to measure student achievement toward the learning targets in math, science, English, Palauan, and social studies. Results of the assessments are used to identify weaknesses and to develop strategies to further improve student achievement.
+In addition to teacher-made tests, the MOE utilizes several assessment tools to assess student achievement; these tools include the PAT, the SAT10, and the Quarterly Assessment Tests. The PAT is a locally developed criterion-referenced test used to assess student learning based on the curriculum frameworks of the five core subjects (English, Palauan studies, science, math, and social studies); it is administered in grades 4, 6, 8, 10, and 12 at the end of April or beginning of May each school year. The SAT10, a standardized norm-referenced test developed in the United States, is used to compare student performance within the same grade group of students who took the same test in the United States. The Quarterly Assessment Tests are locally developed criterion-referenced tests administered at the end of each quarter to grades 1-8 to measure student achievement toward the learning targets in math, science, English, Palauan, and social studies. Results of the assessments are used to identify weaknesses and to develop strategies to further improve student achievement.
 
 ### Palau Achievement Test
 
@@ -1297,6 +1336,8 @@ In addition to teacher-made tests, the MOE utilizes several assessment tools to 
 
 - Recent PAT results for 2005, shown in Table 12, indicate that mean scores for English are consistently higher across grade levels, followed by Palauan studies and social studies, while mean scores were lower for math and science.
 
+Table 12. Palau Achievement Test (National Mean Scores in Percentages), 2005
+
 Grade | English | Math | Palauan | Science | Social Studies
 --- | --- | --- | --- | --- | ---
 4 | 59.0 | 54.0 | 56.2 | 51.9 | 60.7
@@ -1304,8 +1345,6 @@ Grade | English | Math | Palauan | Science | Social Studies
 8 | 67.1 | 48.7 | 62.5 | 58.4 | 55.9
 10 | 52.1 | 44.1 | 57.8 | 41.6 | 56.9
 12 | 61.1 | 27.8 | No Data | 37.6 | 50.1
-
-Table 12. Palau Achievement Test (National Mean Scores in Percentages), 2005
 
 Note. Data are from the Division of Research and Evaluation, MOE.
 
@@ -1317,6 +1356,8 @@ Note. Data are from the Division of Research and Evaluation, MOE.
 
 - The results for 2004, shown in Table 13, indicate that average scores were consistently highest for social studies and math across grade levels, followed by Palauan studies, while average scores were lower for English and science.
 
+Table 13. Quarterly Assessment Tests (National Average Scores in Percentages), 2004
+
 Grade Levels
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Subject | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th
@@ -1326,13 +1367,11 @@ Palauan | 75.7 | 72.2 | 73.3 | 79.1 | 75.4 | 72.0 | 74.1 | 75.7
 Science | 73.3 | 74.0 | 67.6 | 72.1 | 66.4 | 66.3 | 63.6 | 64.8
 Social Studies | 77.7 | 78.9 | 79.3 | 75.7 | 76.0 | 74.1 | 73.0 | 78.2
 
-Table 13. Quarterly Assessment Tests (National Average Scores in Percentages), 2004
-
 Note. Data are from the Division of Research and Evaluation, MOE.
 
 ### Stanford Achievement Test
 
-- The SAT10 was administered in April 2004, as mandated by Republic of Palau Public Law (RPPL) 6-25 ( Educational Assessment Act of 2002 ).
+- The SAT10 was administered in April 2004, as mandated by Republic of Palau Public Law (RPPL) 6-25 (Educational Assessment Act of 2002).
 
 - As shown in Table 14, the SAT10 results relative to the 2002 U.S. norm group for grades 1-12 indicate that the student performance in spelling was consistently higher than in the other subtests. After spelling was science and environment, followed by mathematics. Students performed lower in listening, language, thinking skills, and reading.
 
@@ -1341,6 +1380,8 @@ Note. Data are from the Division of Research and Evaluation, MOE.
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
+Table 14. Stanford Achievement Test, 10th Edition (Percentile Rank), 2004
 
 Grade | Environment | Language | Listening | Science | Social Studies | Spelling | Thinking Skills | Total Mathematics | Total Reading
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -1357,8 +1398,6 @@ Grade | Environment | Language | Listening | Science | Social Studies | Spelling
 11 | - | 34 | - | 33 | 31 | 39 | 29 | 28 | 24
 12 | - | 35 | - | 38 | 35 | 39 | 30 | 27 | 24
 
-Table 14. Stanford Achievement Test, 10th Edition (Percentile Rank), 2004
-
 Note. Data are from the Division of Research and Evaluation, MOE.
 
 Projected Annual Cost for SAT10 testing is $60,000. This includes the following:
@@ -1367,15 +1406,15 @@ Projected Annual Cost for SAT10 testing is $60,000. This includes the following:
 
 - Answer sheets for grades 4-12
 
-- Parent report
-
 - Scoring services
+
+- Parent report
 
 - Shipping costs
 
 ## Teacher Testing
 
-The PRAXIS I Test for teachers has been selected to meet the mandate of RPPL 6-25 ( Educational Assessment Act of 2002 ). The test center at PCC has been established. The MOE has submitted a request to the OEK for funding of the administration of PRAXIS I. Detail of PRAXIS I are as follows:
+The PRAXIS I Test for teachers has been selected to meet the mandate of RPPL 6-25 (Educational Assessment Act of 2002). The test center at PCC has been established. The MOE has submitted a request to the OEK for funding of the administration of PRAXIS I. Detail of PRAXIS I are as follows:
 
 ### Teacher Testing (PRAXIS I)
 
@@ -1389,18 +1428,18 @@ The PRAXIS I Test for teachers has been selected to meet the mandate of RPPL 6-2
 
 [[START OF PAGE 40]]
 
-- Implementing agency: PCC is mandated by RPPL 6-25 ( Educational Assessment Act of 2002 ) as the implementing agency, to serve as the test center and score report recipient for the PRAXIS Series, and to convey results to MOE and the OEK.
+- Implementing agency: PCC is mandated by RPPL 6-25 (Educational Assessment Act of 2002) as the implementing agency, to serve as the test center and score report recipient for the PRAXIS Series, and to convey results to MOE and the OEK.
+
+Table 15. Projected Cost for PRAXIS I Testing
 
 Personnel | Unit | Unit Cost | Total
 --- | --- | --- | ---
 MOE personnel except transportation, maintenance, security, and administrative staff, the cooks, and the Minister | 378 | $ 130 | $ 49,140
 Private school principals, vice principals, teachers, counselors, and librarians | 72 | $ 130 | $ 9,360
 Scoring and Reporting | 3 | $ 400 | $ 1, 200
-Subtotal: | $ 59,700
-Shipping and Handling @ 8% | $ 5,300
-Total Estimated Cost: | $ 65,000
-
-Table 15. Projected Cost for PRAXIS I Testing
+Subtotal: |  |  | $ 59,700
+Shipping and Handling @ 8% |  |  | $ 5,300
+Total Estimated Cost: |  |  | $ 65,000
 
 ## School Facilities
 
@@ -1414,14 +1453,14 @@ This situation poses a great challenge to the Ministry's effort to provide condu
 
 Public funding has decreased over the past few years and will likely continue the declining trend in the near future.
 
+Table 16. Fiscal Resources: Public Schools
+
 Fiscal Year (FY) | Public Law | Amount
 --- | --- | ---
 FY 2000 | RPPL 5-34 | $ 6,783,000
 FY 2001 | RPPL 6-1 | $ 6,690,000
 FY 2002 | RPPL 6-12 | $ 7,163,000
 FY 2003 | RPPL 6-26 | $ 6,592,200
-
-Table 16. Fiscal Resources: Public Schools
 
 30
 
@@ -1471,15 +1510,15 @@ Five major educational issues serve as the focus for reform planning:
 
 - Governance and policy setting
 
-- School administration and management
-
 - Curriculum and instruction
+
+- School administration and management
 
 - Personnel management
 
 - Facilities and support services
 
-Governance and policy setting refers to the way education is governed and how policies are set for education in the Republic . Curriculum and instruction deals with the development, implementation, and improvement of school curriculum, classroom instruction, and student assessment. School administration and management involves leadership and operation of the schools at the administrative level. It involves the day-today administration of educational programs and the management of resources, including personnel, students, facilities, and supplies at the schools. Personnel management refers to human resources in the areas of recruitment, hiring, and training of personnel for the entire Ministry as well as the implementation of the public service system rules and regulations within the MOE. Facilities and support services are noninstructional components of the Ministry that are needed to establish and maintain an environment that is conducive to learning.
+Governance and policy setting refers to the way education is governed and how policies are set for education in the Republic. Curriculum and instruction deals with the development, implementation, and improvement of school curriculum, classroom instruction, and student assessment. School administration and management involves leadership and operation of the schools at the administrative level. It involves the day-to-day administration of educational programs and the management of resources, including personnel, students, facilities, and supplies at the schools. Personnel management refers to human resources in the areas of recruitment, hiring, and training of personnel for the entire Ministry as well as the implementation of the public service system rules and regulations within the MOE. Facilities and support services are noninstructional components of the Ministry that are needed to establish and maintain an environment that is conducive to learning.
 
 ## Development of the Plan
 
@@ -1499,7 +1538,7 @@ The table below presents each priority area and its associated goal, strategic o
 
 Table 17. Priority Area #1: Governance and Policy Setting
 
-GOAL : Strengthen governance and policy setting.
+GOAL: Strengthen governance and policy setting.
 
 Strategic | Major | Intended Outcomes | Responsible Office | Expected Cost | Timeframe
 --- | --- | --- | --- | --- | --- | ---
@@ -1528,8 +1567,8 @@ Improve management and accountability systems. | • Assess current systems and 
 Strategic Objectives | Major | Intended Outcomes | Responsible Office | Expected Cost | Timeframe
 --- | --- | --- | --- | --- | ---
 Activities | Begin | End
-• | Improve data management system, including a comprehensive student database, to support management and decision making.
-Total Expected Cost-Priority Area #1 | $3,770,000
+• Improve data management system, including a comprehensive student database, to support management and decision making.
+Total Expected Cost—Priority Area #1 | $3,770,000
 
 Note. Cost estimates were provided by the Palau MOE.
 
@@ -1541,7 +1580,7 @@ Note. Cost estimates were provided by the Palau MOE.
 
 Table 18. Priority Area #2: Curriculum and Instruction
 
-GOAL : Improve curriculum and instruction.
+GOAL: Improve curriculum and instruction.
 
 Strategic Objectives | Major | Intended Outcomes | Responsible Office | Expected | Timeframe
 --- | --- | --- | --- | --- | --- | ---
@@ -1557,7 +1596,7 @@ Improve the curriculum frameworks. | • Review and revise the curriculum framew
 Strategic Objectives | Major | Intended | Responsible | Expected | Timeframe
 --- | --- | --- | --- | --- | --- | ---
 Activities | Outcomes | Office | Cost | Begin | End
-Increase literacy, numeracy, Palauan knowledge, and essential life skills. | • Apply research- based models to improve literacy and numeracy. • Integrate curriculum for developing essential life skills into existing subjects. • Improve/increase Palauan studies in the classroom. • Implement improved curriculum in schools. | • All students meet grade appropriate standards, as defined by the Core Curriculum Content Standards (CCCS). • Increase in the percentage of students meeting essential life skills standards. • Increase in student scores on achievement tests. • Increase in knowledge and skills in Palauan culture. | Chief of Curriculum and Instruction | $100,000 | 2007 | 2010 Ongoing
+Increase literacy, numeracy, Palauan knowledge, and essential life skills. | • Apply research-based models to improve literacy and numeracy. • Integrate curriculum for developing essential life skills into existing subjects. • Improve/increase Palauan studies in the classroom. • Implement improved curriculum in schools. | • All students meet grade appropriate standards, as defined by the Core Curriculum Content Standards (CCCS). • Increase in the percentage of students meeting essential life skills standards. • Increase in student scores on achievement tests. • Increase in knowledge and skills in Palauan culture. | Chief of Curriculum and Instruction | $100,000 | 2007 | 2010 Ongoing
 Integrate technology in the curriculum. | • An information resource directory of effective techniques for integrating technology is made available to all educators. • Professional | • Increased number of teachers aware of effective technology integration techniques. • Increased access to computer technology and | Chief of Curriculum and Instruction | $200,000 | 2007 | 2010 Ongoing
 
 38
@@ -1646,8 +1685,8 @@ Develop and implement school handbook. | • Draft and finalize school handbook,
 Strategic | Major | Intended Outcomes | Responsible Office | Expected | Timeframe
 --- | --- | --- | --- | --- | --- | ---
 Objectives | Activities | Cost | Begin | End
-Accredit public schools. | • Schools organize and prepare for accreditation review. • Schools conduct accreditation self- study. • Schools undergo accreditation visit. | • Increased number of schools receiving accreditation. • Improved status of accreditation reviews at schools. | Chief of School Management | $100,000 | 2006 | Ongoing
-Strengthen partnerships to maximize students' educational success. | • MOE actively collaborates with partner agencies (e.g., BEEA, BFSCA, Ministry of Health [MOH], Head Start, PCC). • Increase the use of nonformal education to support learners' achievement. | • Increase in community support for education. • Role of partner agencies is strengthened. • Increase in the number of parents attending parent- teacher conferences. • Increase in the number of parents involved in school activities. | Chief of School Management | $50,000 | 2006 | Ongoing
+Accredit public schools. | • Schools organize and prepare for accreditation review. • Schools conduct accreditation self-study. • Schools undergo accreditation visit. | • Increased number of schools receiving accreditation. • Improved status of accreditation reviews at schools. | Chief of School Management | $100,000 | 2006 | Ongoing
+Strengthen partnerships to maximize students' educational success. | • MOE actively collaborates with partner agencies (e.g., BEEA, BFSCA, Ministry of Health [MOH], Head Start, PCC). • Increase the use of nonformal education to support learners' achievement. | • Increase in community support for education. • Role of partner agencies is strengthened. • Increase in the number of parents attending parent-teacher conferences. • Increase in the number of parents involved in school activities. | Chief of School Management | $50,000 | 2006 | Ongoing
 Total Expected Cost-Priority Area #3 | $1,665,000
 
 45
@@ -1778,20 +1817,19 @@ It is advised that the Steering Committee for the Palau Education Master Plan 20
 
 - Recommend necessary changes to the plan.
 
-- Conduct a summative evaluation at the end of the 5th and 10th years of the Palau Education Master Plan 2006-2016 to assess the accomplishments.
-
 - Develop a recommended 'work agenda' of priority policy issues and timelines.
+
+- Conduct a summative evaluation at the end of the 5th and 10th years of the Palau Education Master Plan 2006-2016 to assess the accomplishments.
 
 The following monitoring chart will be used as a basis for formal progress reviews of the objectives and related activities under each of the five priority areas.
 
+Table 22. Monitoring Chart
 Objective | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Strengthen Governance and Policy Setting.
 Designate education as the primary national priority.
 Finalize the decision regarding Board of Education.
 Improve and implement MOE policy
-
-Table 22. Monitoring Chart
 
 54
 
@@ -1904,15 +1942,15 @@ Ministry of Education Republic of Palau
 
 - Strengthen the role of Board of Education
 
-- Change from appointive to elective board
-
 - Increase membership from 5 to 7
+
+- Change from appointive to elective board
 
 - Members to be lay citizens, not employees of education
 
-- Establish policies to guide continuous educational improvement
-
 - Establish procedures to securing professional staff input on policy decisions
+
+- Establish policies to guide continuous educational improvement
 
 ##### Current Status:
 
@@ -2125,18 +2163,18 @@ Facilities and support services are noninstructional components of the ministry 
 
 [[START OF PAGE 78]]
 
-### EDUCATION SUMMIT RECOMMENDATIONS APRIL 26-27, 2006
+### EDUCATION SUMMIT RECOMMENDATIONS APRIL 26–27, 2006
 
-An ( x ) mark indicates recommendation by the associated stakeholder group.
+An (x) mark indicates recommendation by the associated stakeholder group.
 
 #### Priority Area 1. Governance and Policy
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm . Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-1. | No Board of Education Remain minister's responsibilities. Save funds. Avoid conflict. | x
-Instead of Board, chairman of board of each private school to work together with the minister of education to improve all schools. | x
-2. | Establish the Board of Education Members to be elected, representing the eight stakeholder groups. Minister of education will be the ninth nonvoting member. | x
-Remove establishment of a Board of Education from Palau Education Master Plan 2006-2016. Remove the minister and have a board or similar agency perform the minister's job. Establish an organization to oversee progress of education and to provide a broader view and goals for the future of education. There should be an organization to enforce policies that regulate how education programs are implemented and related educational issues; this cannot be done only within the MOE. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1. | No Board of Education Remain minister's responsibilities. Save funds. Avoid conflict. | x |  |  |  |  |  |  |  |
+|  | Instead of Board, chairman of board of each private school to work together with the minister of education to improve all schools. |  |  |  | x |  |  |  |  |
+| 2. | Establish the Board of Education Members to be elected, representing the eight stakeholder groups. Minister of education will be the ninth nonvoting member. |  | x |  |  |  |  |  |  |
+|  | Remove establishment of a Board of Education from Palau Education Master Plan 2006–2016. Remove the minister and have a board or similar agency perform the minister's job. Establish an organization to oversee progress of education and to provide a broader view and goals for the future of education. There should be an organization to enforce policies that regulate how education programs are implemented and related educational issues; this cannot be done only within the MOE. |  |  | x |  |  |  |  |  |
 
 68
 
@@ -2144,11 +2182,11 @@ Remove establishment of a Board of Education from Palau Education Master Plan 20
 
 [[START OF PAGE 79]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm . Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Revive Board of Education. | x
-There needs to be a clear distinctive description of roles and responsibilities of the board (e.g., regulate policies, ensure implementation, safeguard fair and equitable education for all). Members are appointed by the president. Election process is timely, costly, and requires constitutional enforcement in the case | x
-of recall, and so forth. Oversee education policies; check and balance system to make sure that the MOE Management Team is doing its job. Act as a community face. Board members must be elected rather than appointed so that they represent the public's interests, zones/districts, Board members should be Palauan citizens and not employees of the MOE. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Revive Board of Education. |  |  |  |  | x |  |  |  |
+|  | There needs to be a clear distinctive description of roles and responsibilities of the board (e.g., regulate policies, ensure implementation, safeguard fair and equitable education for all). Members are appointed by the president. Election process is timely, costly, and requires constitutional enforcement in the case of recall, and so forth. |  |  |  |  |  | x |  |  |
+|  | Oversee education policies; check and balance system to make sure that the MOE Management Team is doing its job. Act as a community face. Board members must be elected rather than appointed so that they represent the public's interests, zones/districts, Board members should be Palauan citizens and not employees of the MOE. |  |  |  |  |  |  | x |  |
 
 69
 
@@ -2156,11 +2194,11 @@ of recall, and so forth. Oversee education policies; check and balance system to
 
 [[START OF PAGE 80]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm . Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Formulate policy and goals of education. Oversee the implementation of the Palau Education Master Plan 2006-2016. Check and balance between private and public schools. Help push things through executive and legislative branch. Help prioritize activities of education. A neutral agent to help solve grievances of education personnel. Membership: one representative from each parochial school. Members appointed by the president. They represent the following: • Businesses • Parents • Traditional leaders • Other interest groups Number of Board members should be at least 7 but not more than 11. | x
-3. | bylaws to follow. Teachers Certification System Quality education, qualified teachers, student improvement. | x
-Guidelines to be clear and established by the Board of Education and Teachers Association; salary to be adjusted after the certification process. Training attended should be credited towards the teacher certification process. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Formulate policy and goals of education. Oversee the implementation of the Palau Education Master Plan 2006–2016. Check and balance between private and public schools. Help push things through executive and legislative branch. Help prioritize activities of education. A neutral agent to help solve grievances of education personnel. Membership: one representative from each parochial school. Members appointed by the president. They represent the following: • Businesses • Parents • Traditional leaders • Other interest groups Number of Board members should be at least 7 but not more than 11. Board should develop its bylaws to follow. |  |  |  |  |  |  |  | x |
+| 3. | Teachers Certification System Quality education, qualified teachers, student improvement. | x |  |  |  |  |  |  |  |
+|  | Guidelines to be clear and established by the Board of Education and Teachers Association; salary to be adjusted after the certification process. Training attended should be credited towards the teacher certification process. |  | x |  |  |  |  |  |  |
 
 70
 
@@ -2168,16 +2206,16 @@ Guidelines to be clear and established by the Board of Education and Teachers As
 
 [[START OF PAGE 81]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm . Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Change teachers' existing status to become contracted employees where their contract is renewed depending on their performance and | x
-output. Need to establish a Palau Teachers Certification Test . . . all teachers must take in order to teach in Palau. Set timeline for all teachers to be | x
-Strengthen Teachers Certification System. | x
-A system or a process needs to be in place for certifying teachers and administrators. Teacher certification should accompany teacher license as well; and maintaining these credentials requires teachers to consistently take courses during the summer or be involved in training. There is a need to develop a process for | x
-hiring qualified teachers. There should be a teacher certification process but it must be revisited to make it realistic. | x
-4. | School Administrators Certification System Stop hiring bias; school improvement. | x | x | x
-Include all members of Management Team to be certified according to their respective positions. | x
-There should be certification systems for administrators, librarians, and school counselors . | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Change teachers' existing status to become contracted employees where their contract is renewed depending on their performance and output. |  |  | x |  |  |  |  |  |
+|  | Need to establish a Palau Teachers Certification Test . . . all teachers must take in order to teach in Palau. Set timeline for all teachers to be certified/licensed. |  |  |  | x |  |  |  |  |
+|  | Strengthen Teachers Certification System. |  |  |  |  | x |  |  |  |
+|  | A system or a process needs to be in place for certifying teachers and administrators. Teacher certification should accompany teacher license as well; and maintaining these credentials requires teachers to consistently take courses during the summer or be involved in training. There is a need to develop a process for hiring qualified teachers. |  |  |  |  |  | x |  |  |
+|  | There should be a teacher certification process but it must be revisited to make it realistic. |  |  |  |  |  |  | x |  |
+| 4. | School Administrators Certification System Stop hiring bias; school improvement. | x |  |  |  | x | x |  |  |
+|  | Include all members of Management Team to be certified according to their respective positions. |  |  |  | x |  |  |  |  |
+|  | There should be certification systems for administrators, librarians, and school counselors. |  |  |  |  |  |  | x |  |
 
 71
 
@@ -2185,15 +2223,15 @@ There should be certification systems for administrators, librarians, and school
 
 [[START OF PAGE 82]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm . Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-5. | Teachers Association to be included in the next 10-year master plan. | x
-6. | Handbook for students, parents, and teachers to be developed and implemented. | x
-7. | BFSCA Change to National Parents Association. | x
-Clarify and strengthen tasks and roles of BFSCA. Have BFSCA act as advisory board for education system; tasks to include mediation agent between parents/community and education system; agency that oversees all schools in Palau (public and private). | x
-8. | Child Labor Force Establish age of a child to enter labor force; regulate child safety measures in the workplace. | x | x
-9. | Teacher-Student Ratio Establish more classrooms to alleviate overcrowded classrooms so that all schools can maintain an ideal student- teacher ratio of 15 to 1. Include in writing policies that regulate ideal ratio in a classroom (15 to 1). | x
-Establish set student teacher ratio. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5. | Teachers Association to be included in the next 10-year master plan. |  | x |  |  |  |  |  |  |
+| 6. | Handbook for students, parents, and teachers to be developed and implemented. |  | x |  |  |  |  |  |  |
+| 7. | BFSCA Change to National Parents Association. |  | x |  |  |  |  |  |  |
+|  | Clarify and strengthen tasks and roles of BFSCA. Have BFSCA act as advisory board for education system; tasks to include mediation agent between parents/community and education system; agency that oversees all schools in Palau (public and private). |  |  |  | x |  |  |  |  |
+| 8. | Child Labor Force Establish age of a child to enter labor force; regulate child safety measures in the workplace. |  |  | x |  | x |  |  |  |
+| 9. | Teacher-Student Ratio Establish more classrooms to alleviate overcrowded classrooms so that all schools can maintain an ideal student-teacher ratio of 15 to 1. Include in writing policies that regulate ideal ratio in a classroom (15 to 1). |  |  | x |  |  |  |  |  |
+|  | Establish set student teacher ratio. |  |  |  |  | x |  |  |  |
 
 72
 
@@ -2201,15 +2239,15 @@ Establish set student teacher ratio. | x
 
 [[START OF PAGE 83]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm . Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-10. | Change education levels to include a middle grade campus for grades 1-5 and another campus for grades 6-8. | x
-11. | Move starting time of schools to 8:30 a.m. | x
-12. | Establish procedures to better disseminate information from schools to parents and community members. | x
-13. | Need to establish procedures to address teachers who do not or cannot teach a child. | x
-14. | If parents spend more time with their children and teach them well, teachers would not have difficult time managing a classroom of 30, even 40 students. | x
-15. | Now, policies are established within the MOE and then passed down to parents. Parents should be involved in policymaking process for education. | x
-16. | Repeal 30-year mandatory retirement for educators to bring back degree holders. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10. | Change education levels to include a middle grade campus for grades 1–5 and another campus for grades 6–8. |  |  | x |  |  |  |  |  |
+| 11. | Move starting time of schools to 8:30 a.m. |  |  | x |  |  |  |  |  |
+| 12. | Establish procedures to better disseminate information from schools to parents and community members. |  |  | x |  |  |  |  |  |
+| 13. | Need to establish procedures to address teachers who do not or cannot teach a child. |  |  | x |  |  |  |  |  |
+| 14. | If parents spend more time with their children and teach them well, teachers would not have difficult time managing a classroom of 30, even 40 students. |  |  | x |  |  |  |  |  |
+| 15. | Now, policies are established within the MOE and then passed down to parents. Parents should be involved in policymaking process for education. |  |  | x |  |  |  |  |  |
+| 16. | Repeal 30-year mandatory retirement for educators to bring back degree holders. |  |  |  |  | x |  |  |  |
 
 73
 
@@ -2217,22 +2255,22 @@ No. | Recommendations | Students | Teachers | Parents | Principals | Employers |
 
 [[START OF PAGE 84]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm . Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-17. | Every school should raise Palauan flag and sing national anthem. | x
-18. | Elevate partnership levels for BEEA and BFSCA. | x
-19. | Student report card to include character evaluation and assessment. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 17. | Every school should raise Palauan flag and sing national anthem. |  |  |  |  | x |  |  |  |
+| 18. | Elevate partnership levels for BEEA and BFSCA. |  |  |  |  | x |  |  |  |
+| 19. | Student report card to include character evaluation and assessment. |  |  |  |  | x |  |  |  |
 
 #### Priority Area 2. Curriculum and Instruction
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-1. | Call for high teacher quality, salary, and benefits. | x | x | x | x | x | x | x | x
-2. | Increase funding for teacher and student resource materials and work-based activities. | x | x | x | x | x | x
-3. | Strengthen MOE/school partnerships with BFSCA and BEEA. | x | x | x | x | x | x
-4. | Strengthen Palauan language and culture curriculum. | x | x | x | x | x
-5. | Include comprehensive student evaluation and tracking system (baseline data). | x | x | x | x
-6. | Continue student standardized assessment tests (PAT and SAT10). | x | x | x | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1. | Call for high teacher quality, salary, and benefits. | x | x | x | x | x | x | x | x |
+| 2. | Increase funding for teacher and student resource materials and work-based activities. | x | x | x | x |  |  | x | x |
+| 3. | Strengthen MOE/school partnerships with BFSCA and BEEA. | x | x | x | x | x |  | x |  |
+| 4. | Strengthen Palauan language and culture curriculum. | x | x |  |  | x | x | x |  |
+| 5. | Include comprehensive student evaluation and tracking system (baseline data). |  | x | x |  | x |  | x |  |
+| 6. | Continue student standardized assessment tests (PAT and SAT10). |  | x | x | x | x |  |  |  |
 
 74
 
@@ -2240,19 +2278,19 @@ No. | Recommendations | Students | Teachers | Parents | Principals | Employers |
 
 [[START OF PAGE 85]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-7. | Conduct regular school involvement training for parents. | x | x | x | x
-8. | Revisit curriculum framework. | x
-9. | Revise PAT and Quarterly Assessment Tests to be reflective of the new curriculum framework. | x | x
-10. | Develop process/system to ensure curriculum is implemented. | x
-11. | Teach only language arts and math in 1st grade level. | x | x | x
-12. | Correlate elementary curriculum with high school curriculum. | x
-13. | Set Palau High School class periods for 1 hour. | x | x | x
-14. | Set elementary class periods for block schedule. | x
-15. | Hire more teachers to establish ratio of 3 -1 (3 classes per teacher). | x
-16. | Change school calendar from January-December and increase instructional days. | x
-17. | Establish adherence to strict standard and uniform grading system. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7. | Conduct regular school involvement training for parents. |  | x | x | x | x |  |  |  |
+| 8. | Revisit curriculum framework. |  |  | x |  |  |  |  |  |
+| 9. | Revise PAT and Quarterly Assessment Tests to be reflective of the new curriculum framework. |  |  | x |  | x |  |  |  |
+| 10. | Develop process/system to ensure curriculum is implemented. |  |  | x |  |  |  |  |  |
+| 11. | Teach only language arts and math in 1st grade level. |  |  |  | x | x |  |  | x |
+| 12. | Correlate elementary curriculum with high school curriculum. |  |  |  | x |  |  |  |  |
+| 13. | Set Palau High School class periods for 1 hour. |  | x |  | x | x |  |  |  |
+| 14. | Set elementary class periods for block schedule. |  |  |  | x |  |  |  |  |
+| 15. | Hire more teachers to establish ratio of 3 -1 (3 classes per teacher). |  |  |  | x |  |  |  |  |
+| 16. | Change school calendar from January–December and increase instructional days. |  |  |  | x |  |  |  |  |
+| 17. | Establish adherence to strict standard and uniform grading system. |  |  |  |  | x |  |  |  |
 
 75
 
@@ -2260,22 +2298,22 @@ No. | Recommendations | Students | Teachers | Parents | Principals | Employers |
 
 [[START OF PAGE 86]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-18. | Establish Health Academy at Palau High School to strengthen math and science. | x | x
-19. | Establish separate curriculum designed for gifted and academically challenged students. | x
-20. | Incorporate service learning (volunteerism) curriculum in high school. | x
-21. | Reinstate PE, including character education. | x
-22. | Elevate Tourism to academy level at Palau High School. | x | x
-23. | Upgrade technology (computer) education. | x | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 18. | Establish Health Academy at Palau High School to strengthen math and science. |  |  |  |  | x |  | x |  |
+| 19. | Establish separate curriculum designed for gifted and academically challenged students. |  |  |  |  |  |  | x |  |
+| 20. | Incorporate service learning (volunteerism) curriculum in high school. |  |  |  |  |  |  | x |  |
+| 21. | Reinstate PE, including character education. |  |  |  |  |  |  | x |  |
+| 22. | Elevate Tourism to academy level at Palau High School. |  |  |  |  |  |  | x | x |
+| 23. | Upgrade technology (computer) education. |  | x |  |  |  |  | x |  |
 
 #### Priority Area 3. School Administration and Management
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-1. | School Land Property Exchange public and private lands through negotiations, buy land. By law, landowners cannot kick out schools. | x
-Lands used by schools should have clause in law where landowners cannot kick out schools. | x
-Management to deal with school land property. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1. | School Land Property Exchange public and private lands through negotiations, buy land. By law, landowners cannot kick out schools. | x |  |  |  |  |  |  |  |
+|  | Lands used by schools should have clause in law where landowners cannot kick out schools. |  |  | x |  |  |  |  |  |
+|  | Management to deal with school land property. |  | x |  |  |  |  |  |  |
 
 76
 
@@ -2283,18 +2321,18 @@ Management to deal with school land property. | x
 
 [[START OF PAGE 87]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-MOE and landowners to resolve issues and take ownership of each school's land before any renovation is done. | x
-Remove schools from private lands and put them in public lands. National government could buy the lands where school is situated, or trade the land with a public land to the landowner. | x
-Government should buy land from landowners to build the school on. This will help the future expansion of school facilities. | x
-2. | School Facilities/ Renovations Is $1 million enough to renovate the facilities of each school? Poor condition of school threatens students' | x
-Management to deal with school renovations. | x
-Form a committee to set classroom/facilities standards for all schools. | x
-Renovation of schools should reflect the school consolidation plan RPPL 5-15 and priorities to schools in public lands. | x
-Renovation and school facilities improvement should be done for all schools, including private schools. | x
-3. | School Consolidation We disagree; do not want schools consolidated. | x
-School consolidation will depend on discussions from each state, community, parents, school and the MOE. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | MOE and landowners to resolve issues and take ownership of each school's land before any renovation is done. |  |  |  | x |  |  |  |  |
+|  | Remove schools from private lands and put them in public lands. National government could buy the lands where school is situated, or trade the land with a public land to the landowner. |  |  |  |  |  |  | x |  |
+|  | Government should buy land from landowners to build the school on. This will help the future expansion of school facilities. |  |  |  |  |  |  |  | x |
+| 2. | School Facilities/Renovations Is $1 million enough to renovate the facilities of each school? Poor condition of school threatens students' security and safety. | x |  |  |  |  |  |  |  |
+|  | Management to deal with school renovations. |  |  | x |  |  |  |  |  |
+|  | Form a committee to set classroom/facilities standards for all schools. |  |  |  | x |  |  |  |  |
+|  | Renovation of schools should reflect the school consolidation plan RPPL 5-15 and priorities to schools in public lands. |  |  |  |  |  |  | x |  |
+|  | Renovation and school facilities improvement should be done for all schools, including private schools. |  |  |  |  |  |  |  | x |
+| 3. | School Consolidation We disagree; do not want schools consolidated. | x |  |  |  |  |  |  |  |
+|  | School consolidation will depend on discussions from each state, community, parents, school and the MOE. |  | x |  |  |  |  |  |  |
 
 77
 
@@ -2302,15 +2340,15 @@ School consolidation will depend on discussions from each state, community, pare
 
 [[START OF PAGE 88]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Change teachers' existing status to become contracted employees whereby their contract is renewed depending on their performance and output. | x
-Convert small-enrollment schools to middle schools and others to junior high. | x
-Consolidation of schools effects members of the Board of Education; they will better represent the school districts. | x
-Schools should be consolidated to provide quality of instruction and services. | x
-4. | New School in Babeldaob We don't agree with new school in Babeldaob. Use funds to support existing schools. | x
-Vocational school- option for students who are not academically oriented and/or who are vocationally oriented Reformatory school-for minors who are not attending school due to behavioral problems | x
-In addition to the 2nd high school, the existing Palau High School should have a dormitory to accommodate students coming from Peleliu, Angaur, Sonsorol, Kayangel, and Tobi. Identify one of the vacated elementary schools (due to consolidation) to be the Babeldaob High School and build on it, as necessary. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Change teachers' existing status to become contracted employees whereby their contract is renewed depending on their performance and output. |  |  | x |  |  |  |  |  |
+|  | Convert small-enrollment schools to middle schools and others to junior high. |  |  |  | x |  |  |  |  |
+|  | Consolidation of schools effects members of the Board of Education; they will better represent the school districts. |  |  |  |  |  |  | x |  |
+|  | Schools should be consolidated to provide quality of instruction and services. |  |  |  |  |  |  |  | x |
+| 4. | New School in Babeldaob We don't agree with new school in Babeldaob. Use funds to support existing schools. | x |  |  |  |  |  |  |  |
+|  | Vocational school—option for students who are not academically oriented and/or who are vocationally oriented Reformatory school—for minors who are not attending school due to behavioral problems |  |  |  | x |  |  |  |  |
+|  | In addition to the 2nd high school, the existing Palau High School should have a dormitory to accommodate students coming from Peleliu, Angaur, Sonsorol, Kayangel, and Tobi. Identify one of the vacated elementary schools (due to consolidation) to be the Babeldaob High School and build on it, as necessary. |  |  |  |  |  |  | x |  |
 
 78
 
@@ -2318,27 +2356,27 @@ In addition to the 2nd high school, the existing Palau High School should have a
 
 [[START OF PAGE 89]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-5. | Retirement Laws Have OEK members review service retirement law. | x
-6. | Provide social workers for all schools. | x
-7. | Committee to set classroom/facility standards for all schools. | x
-8. | Develop student tracking system. | x | x
-9. | Ensure disability accessibility for all schools. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5. | Retirement Laws Have OEK members review service retirement law. |  |  | x |  |  |  |  |  |
+| 6. | Provide social workers for all schools. |  | x |  |  |  |  |  |  |
+| 7. | Committee to set classroom/facility standards for all schools. |  |  |  | x |  |  |  |  |
+| 8. | Develop student tracking system. |  |  | x |  | x |  |  |  |
+| 9. | Ensure disability accessibility for all schools. |  |  |  |  |  |  | x |  |
 
 #### Priority Area 4. Personnel Management
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-1. | Teacher Certification Quality education, quality teachers, student improvement, stop hiring bias, school improvement. | x
-Who does teachers' certification? | x
-Need to establish a Palau Teachers Certification Test for all teachers to take in order to teach in Palau. | x
-Set timeline for all teachers to be certified/licensed. | x
-2. | Increase salaries and benefits.
-Raise salaries. | x
-Improve benefits. | x
-Increase salary and provide medical insurance. | x
-Salaries and wages to increase. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1. | Teacher Certification Quality education, quality teachers, student improvement, stop hiring bias, school improvement. | x |  |  |  |  |  |  |  |
+|  | Who does teachers' certification? |  |  |  | x |  |  |  |  |
+|  | Need to establish a Palau Teachers Certification Test for all teachers to take in order to teach in Palau. |  |  |  | x |  |  |  |  |
+|  | Set timeline for all teachers to be certified/licensed. |  |  |  | x |  |  |  |  |
+| 2. | Increase salaries and benefits. |  |  |  |  |  |  |  |  |
+|  | Raise salaries. | x |  |  |  |  |  |  |  |
+|  | Improve benefits. | x |  |  |  |  |  |  |  |
+|  | Increase salary and provide medical insurance. |  | x |  |  |  |  |  |  |
+|  | Salaries and wages to increase. |  |  |  | x |  |  |  |  |
 
 79
 
@@ -2346,22 +2384,22 @@ Salaries and wages to increase. | x
 
 [[START OF PAGE 90]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Bonus/incentives for quality teachers. | x
-Health and life insurance coverage for teachers and their families. | x
-Increasing teacher salaries to be more attractive than other agencies. | x
-3. | Strengthen recruitment capability.
-Provide attractive incentives for potential teachers. | x
-Form committee to recruit teachers outside of Palau-college graduates. | x
-Make teaching more attractive: selling points should be more than money. | x
-Create a Teachers Club to prepare prospective teaching as a career, not just a job. | x
-The MOE has to be proactive, to market teaching as a career choice. | x
-Make the commitment to invite college students to come and take the positions in teaching. | x
-Internship program for teachers to assess their performance and to see if they qualify. | x
-4. | Expect and reward high performance.
-Effective recognition program. | x
-Allow principals to fire/suspend teachers due to lack of quality or productivity. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Bonus/incentives for quality teachers. |  |  |  | x |  |  |  |  |
+|  | Health and life insurance coverage for teachers and their families. |  |  |  | x |  |  |  |  |
+|  | Increasing teacher salaries to be more attractive than other agencies. |  |  |  |  |  |  | x |  |
+| 3. | Strengthen recruitment capability. |  |  |  |  |  |  |  |  |
+|  | Provide attractive incentives for potential teachers. |  | x |  |  |  |  |  |  |
+|  | Form committee to recruit teachers outside of Palau—college graduates. |  |  |  | x |  |  |  |  |
+|  | Make teaching more attractive: selling points should be more than money. |  |  |  | x |  |  |  |  |
+|  | Create a Teachers Club to prepare prospective teaching as a career, not just a job. |  |  |  |  |  |  | x |  |
+|  | The MOE has to be proactive, to market teaching as a career choice. |  |  |  |  |  |  | x |  |
+|  | Make the commitment to invite college students to come and take the positions in teaching. |  |  |  |  |  |  | x |  |
+|  | Internship program for teachers to assess their performance and to see if they qualify. |  |  |  |  |  |  | x |  |
+| 4. | Expect and reward high performance. |  |  |  |  |  |  |  |  |
+|  | Effective recognition program. |  | x |  |  |  |  |  |  |
+|  | Allow principals to fire/suspend teachers due to lack of quality or productivity. |  |  |  | x |  |  |  |  |
 
 80
 
@@ -2369,22 +2407,22 @@ Allow principals to fire/suspend teachers due to lack of quality or productivity
 
 [[START OF PAGE 91]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Teachers to be on contracts. Renewal contingent on academic performance of students. | x
-Provide incentives to teachers to continue to do good work. | x
-5. | Funding for Teacher Training
-OEK makes education top priority. | x
-OEK to allocate funds for teacher training. | x
-MOE and PCC to work together in scheduling summer classes to accommodate teachers who need to take courses toward their certification. | x
-Establish a section/ department in the MOE to concentrate on teacher training. | x
-Principals to actively observe teachers to assess training needs and support the teachers by assigning them to the necessary training they need in order to improve themselves. | x
-Continue to update teachers' knowledge and skills. | x
-Appropriate funds (locally) to send teachers for professional development. | x
-Hire local consultants to save money. | x
-Set timeline for teacher certification and follow it. | x
-Provide teachers training. | x
-Create pool of teachers' aides or substitute teachers. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Teachers to be on contracts. Renewal contingent on academic performance of students. |  |  |  |  |  |  | x |  |
+|  | Provide incentives to teachers to continue to do good work. |  |  |  |  |  |  | x |  |
+| 5. | Funding for Teacher Training |  |  |  |  |  |  |  |  |
+|  | OEK makes education top priority. | x |  |  |  |  |  |  |  |
+|  | OEK to allocate funds for teacher training. | x |  |  |  |  |  |  |  |
+|  | MOE and PCC to work together in scheduling summer classes to accommodate teachers who need to take courses toward their certification. |  | x |  |  |  |  |  |  |
+|  | Establish a section/department in the MOE to concentrate on teacher training. |  | x |  |  |  |  |  |  |
+|  | Principals to actively observe teachers to assess training needs and support the teachers by assigning them to the necessary training they need in order to improve themselves. |  | x |  |  |  |  |  |  |
+|  | Continue to update teachers' knowledge and skills. |  | x |  |  |  |  |  |  |
+|  | Appropriate funds (locally) to send teachers for professional development. |  |  |  | x |  |  |  |  |
+|  | Hire local consultants to save money. |  |  |  | x |  |  |  |  |
+|  | Set timeline for teacher certification and follow it. |  |  |  | x |  |  |  |  |
+|  | Provide teachers training. |  |  |  | x |  |  |  |  |
+|  | Create pool of teachers' aides or substitute teachers. |  |  |  | x |  |  |  |  |
 
 81
 
@@ -2392,23 +2430,23 @@ Create pool of teachers' aides or substitute teachers. | x
 
 [[START OF PAGE 92]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Professional training to take place between quarters-strategies learned can be applied quickly. | x
-All training to be based on principals' recommendations | x
-Creation of Training of Trainers to be certified and to provide on-going training for teachers and monitor teachers' progress. | x
-Provide opportunities for teachers to receive training abroad. | x
-6. | Others
-Provide teacher's aide. | x
-Service retirement to be an option-not mandated. | x
-Allow teachers to finish school year before transferring. | x
-Establish Teachers Week. | x
-Create handbook on policies and procedures regarding hiring/firing teachers-all schools to be uniform. | x
-Job descriptions-need to be specific on grade level. | x
-All MOE personnel mandated to be screened for drugs as part of hiring process. | x
-MOE to start certification in June 2006. | x
-Identify OEK education leadership and have MOE and the community involved to push for implementation. | x
-Provide better or improved management/ administration. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Professional training to take place between quarters—strategies learned can be applied quickly. |  |  |  | x |  |  |  |  |
+|  | All training to be based on principals' recommendations |  |  |  | x |  |  |  |  |
+|  | Creation of Training of Trainers to be certified and to provide on-going training for teachers and monitor teachers' progress. |  |  |  |  |  | x |  |  |
+|  | Provide opportunities for teachers to receive training abroad. |  |  |  |  |  | x |  |  |
+| 6. | Others |  |  |  |  |  |  |  |  |
+|  | Provide teacher's aide. |  | x |  |  |  |  |  |  |
+|  | Service retirement to be an option—not mandated. |  |  |  | x |  |  |  |  |
+|  | Allow teachers to finish school year before transferring. |  |  |  | x |  |  |  |  |
+|  | Establish Teachers Week. |  |  |  | x |  |  |  |  |
+|  | Create handbook on policies and procedures regarding hiring/firing teachers—all schools to be uniform. |  |  |  | x |  |  |  |  |
+|  | Job descriptions—need to be specific on grade level. |  |  |  | x |  |  |  |  |
+|  | All MOE personnel mandated to be screened for drugs as part of hiring process. |  |  |  | x |  |  |  |  |
+|  | MOE to start certification in June 2006. |  |  |  |  |  |  | x |  |
+|  | Identify OEK education leadership and have MOE and the community involved to push for implementation. |  |  |  |  |  |  | x |  |
+|  | Provide better or improved management/administration. |  |  |  |  |  |  | x |  |
 
 82
 
@@ -2416,24 +2454,24 @@ Provide better or improved management/ administration. | x
 
 [[START OF PAGE 93]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Scholarship for education majors a priority. | x
-Provide more opportunities/training for teachers. | x
-Public law that requires mandatory retirement be amended in order to retain qualified teachers. | x
-OEK set aside separate funding for teachers' and principals' training. | x
-There should be a separate MOE personnel system. | x
-Teachers' certification should match teachers' salaries. | x
-Peace Corps volunteers. | x
-Substitute teachers. | x
-Teacher qualifications and credentials. | x
-Guidelines for all MOE programs. | x
-PCC programs earmarked to reach students interested in teaching fields. | x
-Palau High School programs (Teacher Academy) with OEK support. | x
-Reinstate Teacher Qualifications and Standards. | x
-MOE website to include teacher position vacancies. | x
-Active recruitment of qualified Palauan teachers (local and overseas) to include incentive programs. | x
-Increase qualifications for science, math, and English teachers at all levels. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Scholarship for education majors a priority. |  |  |  |  |  |  | x |  |
+|  | Provide more opportunities/training for teachers. |  |  |  |  |  |  | x |  |
+|  | Public law that requires mandatory retirement be amended in order to retain qualified teachers. |  |  |  |  |  |  |  | x |
+|  | OEK set aside separate funding for teachers' and principals' training. |  |  |  |  |  |  |  | x |
+|  | There should be a separate MOE personnel system. |  |  |  |  |  |  |  | x |
+|  | Teachers' certification should match teachers' salaries. |  |  |  |  |  |  |  | x |
+|  | Peace Corps volunteers. |  |  | x |  |  |  |  |  |
+|  | Substitute teachers. |  |  | x |  |  |  |  |  |
+|  | Teacher qualifications and credentials. |  |  | x |  |  |  |  |  |
+|  | Guidelines for all MOE programs. |  |  | x |  |  |  |  |  |
+|  | PCC programs earmarked to reach students interested in teaching fields. |  |  | x |  |  |  |  |  |
+|  | Palau High School programs (Teacher Academy) with OEK support. |  |  | x |  |  |  |  |  |
+|  | Reinstate Teacher Qualifications and Standards. |  |  |  |  | x |  |  |  |
+|  | MOE website to include teacher position vacancies. |  |  |  |  | x |  |  |  |
+|  | Active recruitment of qualified Palauan teachers (local and overseas) to include incentive programs. |  |  |  |  | x |  |  |  |
+|  | Increase qualifications for science, math, and English teachers at all levels. |  |  |  |  | x |  |  |  |
 
 83
 
@@ -2441,25 +2479,25 @@ Increase qualifications for science, math, and English teachers at all levels. |
 
 [[START OF PAGE 94]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Recruit Police Academy graduates for school security positions. | x
-Change the word 'personnel' to 'human resources' within the MOE. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Recruit Police Academy graduates for school security positions. |  |  |  |  | x |  |  |  |
+|  | Change the word “personnel” to “human resources” within the MOE. |  |  |  |  | x |  |  |  |
 
 #### Priority Area 5. Facilities and Support Services
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-1. | Student Busing
-MOE to continue to provide student busing. | x | x | x | x
-Privatize school busing system. | x
-Subsidize student busing: have parent pay $10 for each child to ride the bus to school. | x
-2. | Zoning
-Establish school zone and district so that students go to school in their respective districts. | x
-Busing system must continue, but a policy should be developed stating that students close to school walk to school and ride buses only during bad weather. | x
-3. | Others-Busing
-Bus drivers should be insured to protect the government from lawsuit in case of accident. | x
-Bus drivers should wear uniforms to drive the bus. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1. | Student Busing |  |  |  |  |  |  |  |  |
+|  | MOE to continue to provide student busing. | x | x | x |  |  |  |  | x |
+|  | Privatize school busing system. |  |  | x |  |  |  |  |  |
+|  | Subsidize student busing: have parent pay $10 for each child to ride the bus to school. |  |  | x |  |  |  |  |  |
+| 2. | Zoning |  |  |  |  |  |  |  |  |
+|  | Establish school zone and district so that students go to school in their respective districts. |  |  | x |  |  |  |  |  |
+|  | Busing system must continue, but a policy should be developed stating that students close to school walk to school and ride buses only during bad weather. |  |  |  |  |  | x |  |  |
+| 3. | Others—Busing |  |  |  |  |  |  |  |  |
+|  | Bus drivers should be insured to protect the government from lawsuit in case of accident. |  |  |  |  |  |  |  | x |
+|  | Bus drivers should wear uniforms to drive the bus. |  |  |  |  |  |  |  | x |
 
 84
 
@@ -2467,22 +2505,22 @@ Bus drivers should wear uniforms to drive the bus. | x
 
 [[START OF PAGE 95]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Establish collaboration between school, state, and community on ways to provide transportation to students who live very far from the school. | x
-Have the OEK put up funding for student busing. | x
-Have the MOE establish policy and regulations for bus operation. | x
-Find grant money to run busing operation. | x
-Increase number of school buses. | x
-MOE to provide transportation, beside buses, for each school to use for school errands. | x
-Public schools assist private boarding schools with busing | x
-Continue the service of busing; MOE finds ways to maintain safety and have parts readily available for maintenance. | x
-Additional buses in order to rotate use and to minimize crowding (safety). | x
-Provide public busing to accommodate public and students who participate in after school programs (tutoring, games, etc.). | x
-Increase buses to accommodate public and private school students. | x
-Buses to have seat belts. | x
-4. | Education Financing
-Find additional funding toward education. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Establish collaboration between school, state, and community on ways to provide transportation to students who live very far from the school. |  |  | x |  |  |  |  |  |
+|  | Have the OEK put up funding for student busing. |  |  | x |  |  |  |  |  |
+|  | Have the MOE establish policy and regulations for bus operation. |  |  | x |  |  |  |  |  |
+|  | Find grant money to run busing operation. |  |  | x |  |  |  |  |  |
+|  | Increase number of school buses. |  |  |  | x |  |  |  |  |
+|  | MOE to provide transportation, beside buses, for each school to use for school errands. |  |  |  | x |  |  |  |  |
+|  | Public schools assist private boarding schools with busing |  |  |  | x |  |  |  |  |
+|  | Continue the service of busing; MOE finds ways to maintain safety and have parts readily available for maintenance. |  |  |  |  |  |  | x |  |
+|  | Additional buses in order to rotate use and to minimize crowding (safety). |  |  |  |  |  |  | x |  |
+|  | Provide public busing to accommodate public and students who participate in after school programs (tutoring, games, etc.). |  |  |  |  |  |  | x |  |
+|  | Increase buses to accommodate public and private school students. | x |  |  |  |  |  |  |  |
+|  | Buses to have seat belts. | x |  |  |  |  |  |  |  |
+| 4. | Education Financing |  |  |  |  |  |  |  |  |
+|  | Find additional funding toward education. |  |  | x |  |  |  |  |  |
 
 85
 
@@ -2490,22 +2528,22 @@ Find additional funding toward education. | x
 
 [[START OF PAGE 96]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Palau should continue to negotiate to have federal programs. | x
-Increase MOE budget to $10 million. | x
-Reduce budget for sports activities and put them in education budget. | x
-Since education is a national priority . . . increase financial support-based on amount requested by MOE. | x
-25% of GDP be set aside for the education of our children; therefore the OEK should create a law to address this. Just know that it takes more than just money to ensure quality. | x
-This confirms that education be number one priority of this nation, followed by health in the area of public education. As a result, a creation of an independent Board of Education is needed. | x
-5. | Others-Education Financing
-Speed up process of requisitioning. | x
-Up to the MOE to convince the OEK to give more funds. | x
-Prioritize educational needs. | x
-Make financial reports. | x
-Stop shifting funds from one ministry to the other. | x
-6. | Student Lunch
-Continue student lunch program. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Palau should continue to negotiate to have federal programs. |  |  |  |  |  |  | x |  |
+|  | Increase MOE budget to $10 million. |  |  | x |  |  |  |  |  |
+|  | Reduce budget for sports activities and put them in education budget. |  |  | x |  |  |  |  |  |
+|  | Since education is a national priority . . . increase financial support—based on amount requested by MOE. |  |  |  | x |  |  |  |  |
+|  | 25% of GDP be set aside for the education of our children; therefore the OEK should create a law to address this. Just know that it takes more than just money to ensure quality. |  |  |  |  |  | x |  |  |
+|  | This confirms that education be number one priority of this nation, followed by health in the area of public education. As a result, a creation of an independent Board of Education is needed. |  |  |  |  |  | x |  |  |
+| 5. | Others—Education Financing |  |  |  |  |  |  |  |  |
+|  | Speed up process of requisitioning. |  |  |  | x |  |  |  |  |
+|  | Up to the MOE to convince the OEK to give more funds. | x |  |  |  |  |  |  |  |
+|  | Prioritize educational needs. | x |  |  |  |  |  |  |  |
+|  | Make financial reports. | x |  |  |  |  |  |  |  |
+|  | Stop shifting funds from one ministry to the other. | x |  |  |  |  |  |  |  |
+| 6. | Student Lunch |  |  |  |  |  |  |  |  |
+|  | Continue student lunch program. |  |  | x |  |  |  |  |  |
 
 86
 
@@ -2513,21 +2551,21 @@ Continue student lunch program. | x
 
 [[START OF PAGE 97]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Give lunch money to each school so that the schools run their own lunch program. | x
-Lunch to be discussed and addressed per school and PTA. | x
-Lunch program to stop completely (elementary level). When and how: phase out over a 3-year period. | x
-Student lunch should be the responsibility of parents. | x
-Have parents provide student lunch or lunch money depending on individual school's situation. | x
-Parents buy | x
-Privatize school lunch services.
-To allow different vendors on campus to sell lunches to students (private boarding school and Palau High School). | x
-Communities are willing to supplement the funds toward the lunch program. | x
-Have school prorate student lunch cost and subsidize the cost for parents. | x
-Based on parents' income, determine the cost of lunch for student (subsidize). | x
-Lunch program continues until government funding completely phases out. When that happens, lunch program should be subsidized by parents and notice must be given in advance. | x
-7. | Others-Student Lunch
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Give lunch money to each school so that the schools run their own lunch program. |  |  | x |  |  |  |  |  |
+|  | Lunch to be discussed and addressed per school and PTA. |  | x |  |  |  |  |  |  |
+|  | Lunch program to stop completely (elementary level). When and how: phase out over a 3-year period. |  |  |  | x |  |  |  |  |
+|  | Student lunch should be the responsibility of parents. |  |  |  |  |  |  |  | x |
+|  | Have parents provide student lunch or lunch money depending on individual school's situation. |  |  | x |  |  |  |  |  |
+|  | Parents buy lunch. | x |  |  |  |  |  |  |  |
+|  | Privatize school lunch services. |  |  |  |  |  |  |  |  |
+|  | To allow different vendors on campus to sell lunches to students (private boarding school and Palau High School). |  |  |  | x |  |  |  |  |
+|  | Communities are willing to supplement the funds toward the lunch program. |  |  | x |  |  |  |  |  |
+|  | Have school prorate student lunch cost and subsidize the cost for parents. |  |  | x |  |  |  |  |  |
+|  | Based on parents' income, determine the cost of lunch for student (subsidize). |  |  |  |  |  |  | x |  |
+|  | Lunch program continues until government funding completely phases out. When that happens, lunch program should be subsidized by parents and notice must be given in advance. |  |  |  |  |  | x |  |  |
+| 7. | Others—Student Lunch |  |  |  |  |  |  |  |  |
 
 87
 
@@ -2535,20 +2573,21 @@ Lunch program continues until government funding completely phases out. When tha
 
 [[START OF PAGE 98]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Make sure food is not outdated. | x
-Have equal food distribution for all students. | x
-Decrease budget + decrease lunch days = increased funding to each school. | x
-To renovate food service building to be used as lunch cafeteria (Palau High School). | x
-Need efficient management. | x
-Nutritionist prepares and assists in development of menu to ensure balanced diet. The MOH reported that corned beef and spam are contributing factors to high blood pressure and diabetes, so nutritionist is needed. | x
-Due to lack of nutritionist, the MOE must ensure students eat vegetables and fruits three times a week; fresh fruits and vegetables are highly recommended. | x
-Lunch money will be used to be used to buy other school supplies. | x
-Change menu. | x
-8. | Internet Access | x
-Establish acceptable use policy for Internet use for all government agencies. Monitoring should be an important part of this plan to prevent students | x
-educational programs. Put system in place to block access to unacceptable sites. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Make sure food is not outdated. |  |  | x |  |  |  |  |  |
+|  | Have equal food distribution for all students. |  |  | x |  |  |  |  |  |
+|  | Decrease budget + decrease lunch days = increased funding to each school. |  |  |  | x |  |  |  |  |
+|  | To renovate food service building to be used as lunch cafeteria (Palau High School). |  |  |  | x |  |  |  |  |
+|  | Need efficient management. |  |  |  |  |  | x |  |  |
+|  | Nutritionist prepares and assists in development of menu to ensure balanced diet. The MOH reported that corned beef and spam are contributing factors to high blood pressure and diabetes, so nutritionist is needed. |  |  |  |  |  | x |  |  |
+|  | Due to lack of nutritionist, the MOE must ensure students eat vegetables and fruits three times a week; fresh fruits and vegetables are highly recommended. |  |  |  |  |  | x |  |  |
+|  | Lunch money will be used to be used to buy other school supplies. | x |  |  |  |  |  |  |  |
+|  | Change menu. | x |  |  |  |  |  |  |  |
+| 8. | Internet Access |  |  |  |  |  |  |  |  |
+|  | Establish acceptable use policy for Internet use for all government agencies. |  |  | x |  |  |  |  |  |
+|  | Monitoring should be an important part of this plan to prevent students from viewing other than educational programs. |  |  |  |  |  | x |  |  |
+|  | Put system in place to block access to unacceptable sites. | x |  |  |  |  |  |  |  |
 
 88
 
@@ -2556,23 +2595,23 @@ educational programs. Put system in place to block access to unacceptable sites.
 
 [[START OF PAGE 99]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Continue Internet program; should find additional funds to support this service. | x
-People responsible should find funds to support continuation of Internet services. | x
-Students continue to have access to the Internet for learning purposes, and it should be available at all times. | x
-Continue with Internet access to do our research on the Web. | x
-Internet access needs to be improved. | x
-More lines for speedy Internet access. | x
-Faster Internet access for each school. | x
-MOE work with outer islands to use single sideband (SSB) radio to provide Internet access. | x
-Free Internet access. | x
-Possibility for all education facilities (libraries, labs) to provide free Internet access. Palau National Communications Corporation (PNCC) to consider this. | x
-Parents are willing to support Internet services. | x
-Establish well-equipped Learning Resource Centers, with Internet access.
-Internet | x
-Better equip school library for better service. | x
-Centralize approach to providing access; need resource management program such as centralized learning center. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Continue Internet program; should find additional funds to support this service. |  |  | x |  |  |  |  |  |
+|  | People responsible should find funds to support continuation of Internet services. |  |  | x |  |  |  |  |  |
+|  | Students continue to have access to the Internet for learning purposes, and it should be available at all times. |  |  |  |  |  | x |  |  |
+|  | Continue with Internet access to do our research on the Web. | x |  |  |  |  |  |  |  |
+|  | Internet access needs to be improved. |  | x |  |  |  |  |  |  |
+|  | More lines for speedy Internet access. | x |  |  |  |  |  |  |  |
+|  | Faster Internet access for each school. |  |  |  | x |  |  |  |  |
+|  | MOE work with outer islands to use single sideband (SSB) radio to provide Internet access. |  |  |  |  |  |  | x |  |
+|  | Free Internet access. | x |  |  |  |  |  |  |  |
+|  | Possibility for all education facilities (libraries, labs) to provide free Internet access. Palau National Communications Corporation (PNCC) to consider this. |  |  |  |  |  |  | x |  |
+|  | Parents are willing to support Internet services. |  |  | x |  |  |  |  |  |
+|  | Establish well-equipped Learning Resource Centers, with Internet access. |  |  |  |  |  |  |  |  |
+|  | Internet |  |  | x |  |  |  |  |  |
+|  | Better equip school library for better service. |  |  | x |  |  |  |  |  |
+|  | Centralize approach to providing access; need resource management program such as centralized learning center. |  |  | x |  |  |  |  |  |
 
 89
 
@@ -2580,22 +2619,22 @@ Centralize approach to providing access; need resource management program such a
 
 [[START OF PAGE 100]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-9. | Renovations
-Funds to be appropriated by school principals regarding school renovations. | x
-Privatize school maintenance. | x
-Maintenance of school facilities to be privatized or done in partnership with PTA/state government to expedite the process. | x
-10. | Others- Renovations
-Need a lawnmower for school. | x
-Scratch consolidation and improve existing school facilities. | x
-Find funds to renovate existing school facilities before building new facilities. | x
-Call upon parents and each state to help with school renovation projects. | x
-Set priorities for school renovation and bid out renovation projects. | x
-Have parents and community take initiative to donate material toward school renovation. | x
-There should be partnerships between the MOE and community (parents ureor el beluu), public agencies/organizations, and private businesses. | x
-Parent donations for helping out in the renovations of schools. | x
-Fundraising (car wash). | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9. | Renovations |  |  |  |  |  |  |  |  |
+|  | Funds to be appropriated by school principals regarding school renovations. |  |  |  | x |  |  |  |  |
+|  | Privatize school maintenance. |  |  | x |  |  |  |  |  |
+|  | Maintenance of school facilities to be privatized or done in partnership with PTA/state government to expedite the process. |  | x |  |  |  |  |  |  |
+| 10. | Others—Renovations |  |  |  |  |  |  |  |  |
+|  | Need a lawnmower for school. |  |  | x |  |  |  |  |  |
+|  | Scratch consolidation and improve existing school facilities. |  |  | x |  |  |  |  |  |
+|  | Find funds to renovate existing school facilities before building new facilities. |  |  | x |  |  |  |  |  |
+|  | Call upon parents and each state to help with school renovation projects. |  |  | x |  |  |  |  |  |
+|  | Set priorities for school renovation and bid out renovation projects. |  |  | x |  |  |  |  |  |
+|  | Have parents and community take initiative to donate material toward school renovation. |  |  | x |  |  |  |  |  |
+|  | There should be partnerships between the MOE and community (parents ureor el beluu), public agencies/organizations, and private businesses. |  |  |  |  |  |  | x |  |
+|  | Parent donations for helping out in the renovations of schools. |  |  |  |  |  |  | x |  |
+|  | Fundraising (car wash). |  |  |  |  |  |  | x |  |
 
 90
 
@@ -2603,16 +2642,16 @@ Fundraising (car wash). | x
 
 [[START OF PAGE 101]]
 
-No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/ Comm. Organ.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Environment and sanitation agency should inspect school facilities where results will be used to prioritize needs. | x
-Facilities study must happen during this summer in order to utilize the $1 million mentioned by the president yesterday. | x
-The MOE should partner with the state government and president in implementing this resource in meeting those identified needs. | x
-Renovation priorities should be placed on ensuring hygiene (e.g., secure screen, safe and clean toilet, etc.). | x
-Budget for school and dispensary should be given to governors. This definitely mandates governor to formulate a budget and submit it to the OEK. | x
-The MOE should be responsible for development and improvement of curriculum and human resources. | x
-Air-condition classrooms, fix ceiling fans, buy school supplies with the lunch program money. | x
-Provide conducive learning environment. | x
+| No. | Recommendations | Students | Teachers | Parents | Principals | Employers | Public Leaders | Public Agencies | NGOs/Comm. Organ. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Environment and sanitation agency should inspect school facilities where results will be used to prioritize needs. |  |  |  |  |  | x |  |  |
+|  | Facilities study must happen during this summer in order to utilize the $1 million mentioned by the president yesterday. |  |  |  |  |  | x |  |  |
+|  | The MOE should partner with the state government and president in implementing this resource in meeting those identified needs. |  |  |  |  |  | x |  |  |
+|  | Renovation priorities should be placed on ensuring hygiene (e.g., secure screen, safe and clean toilet, etc.). |  |  |  |  |  | x |  |  |
+|  | Budget for school and dispensary should be given to governors. This definitely mandates governor to formulate a budget and submit it to the OEK. |  |  |  |  |  | x |  |  |
+|  | The MOE should be responsible for development and improvement of curriculum and human resources. |  |  |  |  |  | x |  |  |
+|  | Air-condition classrooms, fix ceiling fans, buy school supplies with the lunch program money. | x |  |  |  |  |  |  |  |
+|  | Provide conducive learning environment. |  | x |  |  |  |  |  |  |
 
 91
 
