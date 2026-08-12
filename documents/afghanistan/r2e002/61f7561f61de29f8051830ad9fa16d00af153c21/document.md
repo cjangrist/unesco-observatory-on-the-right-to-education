@@ -8,11 +8,11 @@ IMF Country Report No. 08/153
 
 [Month, Day], 2001
 
+[Month, Day], 2001
+
 August 2, 2001
 
 January 29, 2001
-
-[Month, Day], 2001
 
 August 2, 2001
 
@@ -55,7 +55,8 @@ Islamic Republic of Afghanistan
 
 1387 - 1391 (2008 - 2013)
 
-A Strategy for Security, Governance, Economic Growth and Poverty Reduction
+A Strategy for Security, Governance,
+Economic Growth and Poverty Reduction
 
 [[END OF PAGE 3]]
 
@@ -119,7 +120,7 @@ We  are  pleased  to  present  the  Afghanistan  National  Development  Strategy
 
 Sustained  fiscal  support  and  continuous  evaluation  and  monitoring  are  essential  now  to  meet  the challenges ahead related to ANDS implementation.  The democratic aspirations of the Afghan people are high, yet financial resources remain limited.  While much has been accomplished since 2001, more remains to be done as we move from 'Compact to Impact'. The Afghan Government with support from the international community  must  act decisively, strategically, and with an absolute commitment to the ANDS goals and vision.
 
-We  look  forward  to  working  with  our  government  colleagues,  civil  society  representatives,  tribal elders and religious scholars, the private sector, the international community and, most importantly, fellow Afghans to implement the ANDS, to help realize the Afghanistan Compact benchmarks and Millennium Development Goals.
+We look forward to working with our government colleagues, civil society representatives, tribal elders and religious scholars, the private sector, the international community and, most importantly, fellow Afghans to implement the ANDS, to help realize the Afghanistan Compact benchmarks and Millennium Development Goals.
 
 Prof. Ishaq Nadiri
 Senior Economic Advisor to the President
@@ -180,32 +181,32 @@ iv
 
 # Table of Contents
 
-I. Introduction....................................................................................................................................................1
-II. Our Achievements since December 2001......................................................................................................1
-III. Current Conditions and Challenges...............................................................................................................2
-IV. Preparing the Afghanistan National Development Strategy (ANDS)............................................................3
-V. Goals of the ANDS........................................................................................................................................4
-Pillar 1: Security................................................................................................................................................5
-Security: Achieve nationwide stabilization, strengthen law enforcement, and improve personal security for every Afghan..................................................................................................................................................4
-Pillar 2: Governance, Rule of Law, and Human Rights......................................................................................6
-ANDS Goal: Strengthen democratic practice and institutions, human rights, the rule of law, delivery of public services, and government accountability............................................................................................6
-Pillar 3: Economic and Social Development......................................................................................................9
-Reduce poverty, ensure sustainable development through a private sector-led market economy, improve human development indicators, and make significant progress toward achieving the MDGs.......................9
-Cross Cutting Issues.........................................................................................................................................15
-Counter-narcotics.........................................................................................................................................15
-Anti-corruption............................................................................................................................................16
-Capacity Development.................................................................................................................................16
-Gender Equity..............................................................................................................................................17
-Environment................................................................................................................................................17
-Regional Cooperation..................................................................................................................................17
-VI. Macroeconomic Framework........................................................................................................................18
-VII. Partnerships for financing the ANDS..........................................................................................................19
-Costing and prioritization of the ANDS sectors..........................................................................................20
-Expected assistance for ANDS implementation..........................................................................................20
-VIII. Aid effectiveness..........................................................................................................................................20
-IX. Implementation Framework.........................................................................................................................21
-X. Monitoring, Evaluation and Reporting........................................................................................................22
-XI. Conclusion...................................................................................................................................................22
+I. Introduction 1
+II. Our Achievements since December 2001 1
+III. Current Conditions and Challenges 2
+IV. Preparing the Afghanistan National Development Strategy (ANDS) 3
+V. Goals of the ANDS 4
+Pillar 1: Security 5
+Security: Achieve nationwide stabilization, strengthen law enforcement, and improve personal security for every Afghan 4
+Pillar 2: Governance, Rule of Law, and Human Rights 6
+ANDS Goal: Strengthen democratic practice and institutions, human rights, the rule of law, delivery of public services, and government accountability 6
+Pillar 3: Economic and Social Development 9
+Reduce poverty, ensure sustainable development through a private sector-led market economy, improve human development indicators, and make significant progress toward achieving the MDGs 9
+Cross Cutting Issues 15
+Counter-narcotics 15
+Anti-corruption 16
+Capacity Development 16
+Gender Equity 17
+Environment 17
+Regional Cooperation 17
+VI. Macroeconomic Framework 18
+VII. Partnerships for financing the ANDS 19
+Costing and prioritization of the ANDS sectors 20
+Expected assistance for ANDS implementation 20
+VIII. Aid effectiveness 20
+IX. Implementation Framework 21
+X. Monitoring, Evaluation and Reporting 22
+XI. Conclusion 22
 
 v
 
@@ -219,9 +220,9 @@ Executive Summary
 
 Afghanistan emerged in late 2001 as a State and People that were devastated like few other in modern history. The extent of destruction of the country's physical, institutional, human and social capital left Afghanistan and its international partners with a monumental task: to build a pluralist Islamic State governed by the rule of law, in which all Afghans have the opportunity to live in peace with dignity, to reach their economic potential, to access basic public services and to participate fully as equal citizens.
 
-Six  and  one-half  years  later,  despite  considerable  progress  and  sacrifice,  we  have  yet  to  achieve  this  vision. Along  with  our  international  partners,  we  underestimated  the  full  extent  and  time  required  to  overcome  the obstacles to peace and prosperity. Insecurity, poverty, corruption and the expanding narcotics industry signify that  while  the  challenges  facing  Afghanistan  have  changed  in  nature,  they  have  not  necessarily  changed  in magnitude. The Afghan people will remain handicapped in discovering their full human potential unless a better balance is struck between development, security and political strategies that are sensitive to both Afghan culture and  resource  constraints.  When  empowered  with  appropriate  tools,  skills,  political  support,  and  respect  for human rights, the Afghan people-facilitated by their Government and international partners-remain the key to comprehensive recovery and a durable peace.
+Six and one-half years later, despite considerable progress and sacrifice, we have yet to achieve this vision. Along with our international partners, we underestimated the full extent and time required to overcome the obstacles to peace and prosperity. Insecurity, poverty, corruption and the expanding narcotics industry signify that while the challenges facing Afghanistan have changed in nature, they have not necessarily changed in magnitude. The Afghan people will remain handicapped in discovering their full human potential unless a better balance is struck between development, security and political strategies that are sensitive to both Afghan culture and resource constraints. When empowered with appropriate tools, skills, political support, and respect for human rights, the Afghan people—facilitated by their Government and international partners—remain the key to comprehensive recovery and a durable peace.
 
-To  meet  the  country's  many  challenges  and  realize  the  aspirations  of  the  Afghan  people,  the  five-year Afghanistan National Development Strategy has been prepared after two years of analysis and priority-setting, drawing on extensive national and sub-national consultations. As an Afghan-owned blueprint for progress in all spheres  of  national  life,  the  ANDS  is  a  Millennium  Development  Goals-based  plan  that  will  serve  as  the country's Poverty Reduction Strategy Paper. Fundamental to its successful implementation is the need to invest in  critical  national  capacities,  such  as  education,  energy,  irrigation,  and  agriculture,  as  well  as  to  promote reconciliation, justice and alternative livelihoods. Besides providing a detailed, budgeted strategy for advancing the  Government  of  Afghanistan  and  international  community's  Afghanistan  Compact  goals,  the  ANDS  is  a roadmap for the long-desired objective of 'Afghanization' and the transition towards stability, self-sustaining growth,  and  human  development.  Translating  the  Compact's  over-arching  goals  of  peace,  inclusive  and competent governance, and sustainable socio-economic development into a meaningful impact in the lives of ordinary Afghans requires overcoming the fear of failure; after decades of violence and untold suffering-which has, at times, threatened the outside world-there can be no alternative but to succeed.
+To meet the country's many challenges and realize the aspirations of the Afghan people, the five-year Afghanistan National Development Strategy has been prepared after two years of analysis and priority-setting, drawing on extensive national and sub-national consultations. As an Afghan-owned blueprint for progress in all spheres of national life, the ANDS is a Millennium Development Goals-based plan that will serve as the country's Poverty Reduction Strategy Paper. Fundamental to its successful implementation is the need to invest in critical national capacities, such as education, energy, irrigation, and agriculture, as well as to promote reconciliation, justice and alternative livelihoods. Besides providing a detailed, budgeted strategy for advancing the Government of Afghanistan and international community's Afghanistan Compact goals, the ANDS is a roadmap for the long-desired objective of 'Afghanization' and the transition towards stability, self-sustaining growth, and human development. Translating the Compact's over-arching goals of peace, inclusive and competent governance, and sustainable socio-economic development into a meaningful impact in the lives of ordinary Afghans requires overcoming the fear of failure; after decades of violence and untold suffering—which has, at times, threatened the outside world—there can be no alternative but to succeed.
 
 # II. OUR ACHIEVEMENTS SINCE DECEMBER 2001
 
@@ -251,9 +252,9 @@ The difficulties in maintaining security contribute significantly to two closely
 
 The Afghan Government is firmly committed to build a strong, private sector-led market economy.  This will provide  the  foundation  for  sustainable  economic  growth  and  for  generating  employment.    However,  several severe limitations in the economic environment must be addressed if these efforts are to succeed:
 
-i. The country's 'hard infrastructure', including roads, reliable supplies of water and power, and the entire value chain that links production to domestic and foreign markets, is inadequate to support high levels of economic growth and the poverty reduction benefits that such growth would bring.
+- The country's 'hard infrastructure', including roads, reliable supplies of water and power, and the entire value chain that links production to domestic and foreign markets, is inadequate to support high levels of economic growth and the poverty reduction benefits that such growth would bring.
 
-ii. The corresponding 'soft infrastructure', which includes the necessary human and institutional capacity necessary for an economy to function, is largely lacking. Considerable emphasis is being given to
+- The corresponding 'soft infrastructure', which includes the necessary human and institutional capacity necessary  for  an  economy  to  function,  is  largely  lacking.    Considerable  emphasis  is  being  given  to
 
 2
 
@@ -265,11 +266,11 @@ Executive Summary
 
 developing capacity in both the public and private sectors and to institutional development, but meeting the growth targets of the ANDS will take time.
 
-iii. Economic governance is weak. The Government is pursuing comprehensive economic reform, but the establishment of the institutions and the regulatory framework needed for effective implementation and enforcement will take many years to develop.
+- Economic governance is weak. The Government is pursuing comprehensive economic reform, but the establishment of the institutions and the regulatory framework needed for effective implementation and enforcement will take many years to develop.
 
-iv. Afghanistan's commercial connections to regional and global economies were severely disrupted during the period of political and economic isolation and must be re-established. The development of a competitive private sector will be necessary if Afghanistan is once more to become well integrated within the both the regional and global economies.
+- Afghanistan's commercial connections to regional and global economies were severely disrupted during the  period  of  political  and  economic  isolation  and  must  be  re-established.    The  development  of  a competitive private sector will be necessary if Afghanistan is once more to become well integrated within the both the regional and global economies.
 
-v. Key markets for land and finance are largely undeveloped, limiting the ability of private investors to establish and operate businesses. Afghanistan has substantial commercial and natural resources that could be more productively employed and, in doing so, would greatly expand opportunities for employment and lead to substantially increased government revenues.
+- Key markets for  land  and  finance  are  largely  undeveloped,  limiting  the  ability  of  private  investors  to establish  and  operate  businesses.    Afghanistan  has  substantial  commercial  and  natural  resources  that could  be  more  productively  employed  and,  in  doing  so,  would  greatly  expand  opportunities  for employment and lead to substantially increased government revenues.
 
 The current fragmented and uncoordinated approach to Afghanistan's reconstruction and development must turn into an integrated and prioritized approach, as outlined in the ANDS.  Given that most aid continues to flow outside the Government's core budget, improving coordination and aid effectiveness are essential for successful ANDS implementation.
 
@@ -281,7 +282,7 @@ The ANDS is the product of extensive national, provincial and local level consul
 
 The sub-national consultations represented the first significant dialogue between the central Government and the provinces,  designed  to  strengthen  center-periphery  relations.  The  outcome  of  the  consultations  included  the formulation of around 18,500 village based development plans, leading to 290 district development plans, which were finally consolidated into 34 Provincial Development Plans (PDPs). These PDPs identified needs and key development priorities for each province.
 
-In preparing the ANDS, the Government has adopted evidence based policy making-through detailed poverty diagnostic work-to better understand the causes and effects of poverty in all its forms.  Based on this analysis, the ANDS serves as a pro-poor growth strategy. By pro-poor, the Government means making investments that have a preferential impact on bringing the poor out of extreme poverty through the adoption of growth enabling policies  and  targeted  social  protection  investments.  Afghanistan  aims  to  achieve  pro-poor  growth,  where  the incomes and livelihoods of the poorest rise faster than the average growth of the economy.  Key findings of the Government's 1386 (2007) National Risk and Vulnerability Assessment (NRVA) indicate that the poverty rate stands at 42 percent (or 12 million people), with per capita incomes of about US$14 per month. Moreover, food poverty was estimated to affect around 45 percent of Afghans; they are unable to purchase sufficient food to guarantee  the  world  standard  minimum  food  intake  of  2,100  cal/day.  Furthermore,  20  percent  were  situated slightly above the poverty line indicating a high level of vulnerability.
+In preparing the ANDS, the Government has adopted evidence based policy making—through detailed poverty diagnostic work—to better understand the causes and effects of poverty in all its forms. Based on this analysis, the ANDS serves as a pro-poor growth strategy. By pro-poor, the Government means making investments that have a preferential impact on bringing the poor out of extreme poverty through the adoption of growth enabling policies and targeted social protection investments. Afghanistan aims to achieve pro-poor growth, where the incomes and livelihoods of the poorest rise faster than the average growth of the economy. Key findings of the Government's 1386 (2007) National Risk and Vulnerability Assessment (NRVA) indicate that the poverty rate stands at 42 percent (or 12 million people), with per capita incomes of about US$14 per month. Moreover, food poverty was estimated to affect around 45 percent of Afghans; they are unable to purchase sufficient food to guarantee the world standard minimum food intake of 2,100 cal/day. Furthermore, 20 percent were situated slightly above the poverty line indicating a high level of vulnerability.
 
 3
 
@@ -303,11 +304,11 @@ Security in all parts of the country is essential for effective governance, priv
 
 ### Challenges
 
-Afghanistan  still  faces  a  number  of  serious  challenges  before  it  can  assume  full  responsibility  for  its  own security.    Terrorism,  foreign  interference,  instability  and  weak  capacity  in  governance  are  preventing  the Government from establishing effective control in some areas, particularly in the south and southeast.  The large scale  production  of  narcotics  continues  to  provide  funding  for  terrorist  groups.    Land  mines  and  unexploded ordnance  remains  a  significant  threat,  with  some  five  thousand  citizens  either  killed  or  wounded  in  mine explosions since 1380 (2001).  Currently only two of the country's 34 provinces are completely clear of mines. The only practical solution for Afghanistan's long-term security needs is to enable Afghans to provide for their own security. The sustainability of the Afghan National Security Forces is, in the longer-term, the responsibility of Afghanistan. The Government will assume an increasing share of this burden commensurate with economic growth-the  'Afghanization'  of  the  country's  security  activities.  But  until  Afghanistan  build  the  economic capacity to completely meet this obligation, the international community must help bridge the gap.
+Afghanistan still faces a number of serious challenges before it can assume full responsibility for its own security. Terrorism, foreign interference, instability and weak capacity in governance are preventing the Government from establishing effective control in some areas, particularly in the south and southeast. The large scale production of narcotics continues to provide funding for terrorist groups. Land mines and unexploded ordnance remains a significant threat, with some five thousand citizens either killed or wounded in mine explosions since 1380 (2001). Currently only two of the country's 34 provinces are completely clear of mines. The only practical solution for Afghanistan's long-term security needs is to enable Afghans to provide for their own security. The sustainability of the Afghan National Security Forces is, in the longer-term, the responsibility of Afghanistan. The Government will assume an increasing share of this burden commensurate with economic growth—the 'Afghanization' of the country's security activities. But until Afghanistan build the economic capacity to completely meet this obligation, the international community must help bridge the gap.
 
 ### Targets
 
-1. The Afghan National Army (ANA): The long-term objective for Afghanistan is to build an Afghan National Army capable of maintaining the stability of the country, defending its sovereignty, and contributing to regional security. The final figure for ANA troop strength to meet these requirements has not been determined by the Government and the international community. However, the 80,000 figure (plus 6,600 in training), which was approved at the February 2008 Joint Coordination and Monitoring Board (JCMB) meeting, is an important milestone and provides a target for the near future. By Jaddi 1389 (end-2010), the ANA will achieve and surpass this milestone, and it will ensure that 75 percent of the field battalions (kandaks) and brigades are capable of conducting independent operations (with the addition of some external enablers and air support). The ANA will maintain its regional and ethnic balance, and continue to develop its reputation as a respected, accountable and professional force, prepared to meet the security needs of the nation.
+- The Afghan National Army (ANA) :  The long-term objective for Afghanistan is to build an Afghan National  Army  capable  of  maintaining  the  stability  of  the  country,  defending  its  sovereignty,  and contributing to regional security. The final figure for ANA troop strength to meet these requirements has not been determined by the Government and the international community. However, the 80,000 figure  (plus  6,600  in  training),  which  was  approved  at  the  February  2008  Joint  Coordination  and Monitoring Board (JCMB) meeting, is an important milestone and provides a target for the near future. By Jaddi 1389 (end-2010), the ANA will achieve and surpass this milestone, and it will ensure that 75 percent of the field battalions (kandaks) and brigades are capable of conducting independent operations (with the addition of some external enablers and air support). The ANA will maintain its regional and ethnic  balance,  and  continue  to  develop  its  reputation  as  a  respected,  accountable  and  professional force, prepared to meet the security needs of the nation.
 
 4
 
@@ -430,6 +431,7 @@ Urban Development
 Mining
 
 Cross-Cutting Issues
+---
 Capacity Building
 Gender Equity
 Counter Narcotics
@@ -443,13 +445,13 @@ Environment
 
 [[START OF PAGE 14]]
 
-2. The Afghan National Police (ANP): The long-term objective for the ANP is to build a professional police force that operates within internationally accepted legal standards, with respect for human rights, and is managed by a professional, adequately trained and paid staff able to effectively plan, manage, employ and sustain a national, merit-based police force. It should protect the local population from a terrorist and illegally armed anti-government threat and enforce the rule of law on a country-wide basis. It should be able to transition to traditional policing as conditions on the ground change. By Jaddi 1392 (end-2013) the Ministry of Interior will achieve a target strength of 82,180 professional policemen (including Afghan Border Police). This force will be capable of maintaining domestic order and enforcing the law, and serve under the direction and control of the Ministry of Interior, while remaining responsive to the needs of local communities.
+- The Afghan National Police (ANP) :  The long-term objective for the ANP is to build a professional police force that operates within internationally accepted legal standards, with respect for human rights, and is managed by a professional, adequately trained and paid staff able to effectively plan, manage, employ and sustain a national, merit-based police force. It should protect the local population from a terrorist  and  illegally  armed  anti-government  threat  and  enforce  the  rule  of  law  on  a  country-wide basis. It should be able to transition to traditional policing as conditions on the ground change. By Jaddi 1392  (end-2013)  the  Ministry  of  Interior  will  achieve  a  target  strength  of  82,180  professional policemen (including Afghan Border Police). This force will be capable of maintaining domestic order and  enforcing  the  law,  and  serve  under  the  direction  and  control  of  the  Ministry  of  Interior,  while remaining responsive to the needs of local communities.
 
-3. Disarmament of Illegal Armed Group (DIAG): All illegal armed groups will be disbanded by 20 March 2011 in all provinces.
+- Disarmament of Illegal Armed Group (DIAG) :  All  illegal  armed  groups  will  be  disbanded  by  20 March 2011 in all provinces.
 
-4. Removing Unexploded Ordnance: By Jaddi 1389 (end-2010), in line with Afghanistan's MDGs, the land area contaminated by mines and unexploded ordnance will be reduced by 70 percent. Ninety percent of all known mine/Explosive Remnants of War (ERW) contaminated areas will be cleared by 1391 (2012). All emplaced anti-personnel mines will be cleared by 1391 (2013) in accord with the provisions of the Ottawa Convention.
+- Removing Unexploded Ordnance : By Jaddi 1389 (end-2010), in line with Afghanistan's MDGs, the land  area  contaminated  by  mines  and  unexploded  ordnance  will  be  reduced  by  70  percent.    Ninety percent of all known mine/Explosive Remnants of War (ERW) contaminated areas will be cleared by 1391 (2012).  All emplaced anti-personnel mines will be cleared by 1391 (2013) in accord with the provisions of the Ottawa Convention.
 
-5. Counter-Narcotics: By 2013, the area under poppy cultivation will be reduced by half compared to 2007 levels.
+- Counter-Narcotics :  By 2013, the area under poppy cultivation will be reduced by half compared to 2007 levels.
 
 ### Priorities
 
@@ -457,7 +459,7 @@ Afghanistan's  security  sector  includes  a  number  of  institutions  responsi
 
 The second priority is to ensure that our efforts in the security sector are comprehensive, complimentary and integrated. The Government is fully committed to successfully implementing an integrated and comprehensive national policy and strategy; a robust security sector reform program; strengthening synergies between civil and military operations; increasing the role of security forces in counter-narcotics activities; and strengthening and reforming the civilian components of security entities.
 
-The third priority for this sector is the progressive transfer of responsibility for security from their international partners to Afghan forces and institutions. As NATO/ISAF forces step back from direct engagement in security operations, the ANA and ANP will take the lead on operations, and eventually provide the security needs of Afghanistan with partners assuming only support and oversight roles. Meanwhile, the ANA will depend upon ISAF for  enablers  and  force  multipliers.  An  increasingly  capable  ANA  will  enable  the  gradual  reduction  in international  forces  with  a  substantial  reduction  in  the  international  community's  sacrifices.  The  pace  for standing  up  the  Afghan  Security  Forces  is  linked  directly  to  the  level  and  speed  by  which  the  international community chooses to aid Afghanistan in overcoming current gaps in capability-but Afghanistan is ready to take the first steps.
+The third priority for this sector is the progressive transfer of responsibility for security from their international partners to Afghan forces and institutions. As NATO/ISAF forces step back from direct engagement in security operations, the ANA and ANP will take the lead on operations, and eventually provide the security needs of Afghanistan with partners assuming only support and oversight roles. Meanwhile, the ANA will depend upon ISAF for enablers and force multipliers. An increasingly capable ANA will enable the gradual reduction in international forces with a substantial reduction in the international community's sacrifices. The pace for standing up the Afghan Security Forces is linked directly to the level and speed by which the international community chooses to aid Afghanistan in overcoming current gaps in capability—but Afghanistan is ready to take the first steps.
 
 ## Pillar 2: Good Governance, Rule of Law, and Human Rights:
 
@@ -537,15 +539,15 @@ Executive Summary
 
 ### Targets
 
-1. The Public Administration Reform program will be completed by 2013;
+- The Public Administration Reform program will be completed by 2013;
 
-2. A substantial reduction in corruption will be achieved by 2013;
+- A substantial reduction in corruption will be achieved by 2013;
 
-3. By 2009, the new criminal procedure code will be enacted and published, and for its implementation training with written commentary will be provided to all legal professionals, as well as community legal education for citizens;
+- By 2009, the new criminal procedure code will be enacted and published, and for its implementation training  with  written  commentary  will  be  provided  to  all  legal  professionals,  as  well  as  community legal education for citizens;
 
-4. By 2010, all laws, regulations, and other legal instruments will be compiled, indexed, uploaded and maintained on government websites, will be published and distributed to state institutions at all levels, and will be made available to the people nationwide
+- By 2010, all laws, regulations, and other legal instruments will be compiled, indexed, uploaded and maintained on government websites, will be published and distributed to state institutions at all levels, and will be made available to the people nationwide
 
-5. By 2013, all government agencies and ministries will have improved technical capacity to draft and propose nondiscriminatory legislative and regulatory instruments.
+- By 2013, all government agencies and ministries will have improved technical capacity to draft and propose nondiscriminatory legislative and regulatory instruments.
 
 ## Pillar 3: Economic and Social Development:
 
@@ -559,23 +561,23 @@ Although the economy is experiencing high growth rates, Afghanistan faces a numb
 
 ### Targets
 
-1. The proportion of people living on less than $1 a day will decrease by 3 percent per year;
+- The proportion of people living on less than $1 a day will decrease by 3 percent per year;
 
-2. The proportion of people who suffer from hunger will decrease by 5 percent per year;
+- The proportion of people who suffer from hunger will decrease by 5 percent per year;
 
-3. The net enrolment in primary school for girls and boys will be at least 60 percent and 75 percent respectively by 2010;
+- The  net  enrolment  in  primary  school  for  girls  and  boys  will  be  at  least  60  percent  and  75  percent respectively by 2010;
 
-4. Female teachers will be increased by 50 percent by 2010;
+- Female teachers will be increased by 50 percent by 2010;
 
-5. Seventy percent of Afghanistan's teachers will have passed a competency test by 2010;
+- Seventy percent of Afghanistan's teachers will have passed a competency test by 2010;
 
-6. The under-5 mortality rate will be reduced by 50 percent between 2003 and 2013;
+- The under-5 mortality rate will be reduced by 50 percent between 2003 and 2013;
 
-7. The maternal mortality ratio will be reduced by 50 percent between 2002 and 2013;
+- The maternal mortality ratio will be reduced by 50 percent between 2002 and 2013;
 
-8. The Basic Package of Health Services will be extended to cover at least 90 percent of the population by 2010;
+- The Basic Package of Health Services will be extended to cover at least 90 percent of the population by 2010;
 
-9. The proportion of people without sustainable access to safe drinking water and sanitation will be halved by 2020: by 2013, 50 percent of households in Kabul and 30 percent of households in other urban areas will have access to piped water; 90 percent of villages will have access to drinking water and 50 percent of villages will have access to sanitation.
+- The  proportion  of  people  without  sustainable  access  to  safe  drinking  water  and  sanitation  will  be halved by 2020: by 2013, 50 percent of households in Kabul and 30 percent of households in other urban areas will have access to piped water; 90 percent of villages will have access to drinking water and 50 percent of villages will have access to sanitation.
 
 9
 
@@ -647,7 +649,7 @@ In addition, other major transportation priority initiatives to be undertaken in
 
 #### Mining
 
-The extraction of natural resources is expected to make a major contribution to GDP and export growth, as well as to the government revenues.  The ANDS strategic objectives for the mining sector are (i) to attract increased private investment; (ii) to promote and regulate sustainable development of mineral resources; and (iii) to ensure that the nation's geological resources are properly surveyed and documented.  This will be done through the establishment of a legal and regulatory environment that will encourage and assist private sector development of mining resources.  A notable early success in the mining sector is the recently signed agreement for the largest foreign direct investment in the country to date-the leasing of the Aynak copper mine, for an estimated $2.8 billion investment.
+The extraction of natural resources is expected to make a major contribution to GDP and export growth, as well as to the government revenues. The ANDS strategic objectives for the mining sector are (i) to attract increased private investment; (ii) to promote and regulate sustainable development of mineral resources; and (iii) to ensure that the nation's geological resources are properly surveyed and documented. This will be done through the establishment of a legal and regulatory environment that will encourage and assist private sector development of mining resources. A notable early success in the mining sector is the recently signed agreement for the largest foreign direct investment in the country to date—the leasing of the Aynak copper mine, for an estimated $2.8 billion investment.
 
 As  key  priorities  in  the  mining  sector,  the  Government  will:  (i)  work  to  maximize  the  fiscal  returns  and economic linkages of natural resource extraction; (ii) establish a transparent and capable management system for the sector; (iii) provide a supportive environment for investment in the sector by finalizing and implementing various  laws  and  regulations;  and  (iv)  determine  the  extent  of  mineral  resources  in  the  country,  with  the objective  of  developing  a  long-term  sustainable  and  environmentally-sound  strategy.  Success  in  attracting investment in mining operations will give investors confidence in the country's legal and regulatory system, opening the door to investments in other sectors.
 
@@ -795,7 +797,7 @@ Afghanistan National Development Strategy (ANDS)
 
 High, sustainable and quality economic growth is the major driving force for poverty reduction and employment creation.  Recent high growth performance has been supported by the government's prudent fiscal and monetary policies  and  a  stable  exchange  rate.    However,  Afghanistan's  high  growth  rate  has  thus  far  not  contributed sufficiently to poverty reduction and employment creation, and it has been driven to a large degree by the influx of foreign aid-a situation which carries its own macroeconomic risks.
 
-The ANDS has been developed to articulate the Government's policies for reducing poverty and improving development outcomes—which will rely heavily on maintaining macroeconomic stability and cultivating sources of growth, particularly in the private sector. The ANDS will also contribute to fiscal sustainability through its importance in the successful completion of the HIPC debt relief process and raising domestic revenue. To support the successful implementation of the ANDS, the Government will rely on the Medium-Term Fiscal Framework to define a sustainable fiscal trajectory for Afghanistan. Da Afghanistan Bank (DAB) will continue to target low inflation and maintain the current stable exchange rate regime.
+The  ANDS has been developed to  articulate  the  Government's  policies  for  reducing  poverty  and  improving development  outcomes-which  will  rely  heavily  on  maintaining  macroeconomic  stability  and  cultivating sources  of  growth,  particularly  in  the  private  sector.    The  ANDS  will  also  contribute  to  fiscal  sustainability through  its  importance  in  the  successful  completion  of  the  HIPC  debt  relief  process and  raising  domestic revenue . To  support the successful implementation of the ANDS, the Government will rely on the MediumTerm Fiscal Framework to define a sustainable fiscal trajectory for Afghanistan.  Da Afghanistan Bank (DAB) will continue to target low inflation and maintain the current stable exchange rate regime.
 
 The Government is committed to the creation of a strong private sector-led economy, despite current constraints. Although this means that there is still substantial scope for public/donor investment in the short-term, in the medium to longer term, private investment is expected to contribute significantly to growth.  In turn, increased economic growth will lead to higher government revenues that will benefit the poor by addressing inequality, enabling the Government to increase social services and creating jobs in the growing private sector.  Given that this  will  take  time,  the  Government  will  continue  to  engage  in  social  protection  programs  for  the  most vulnerable segments of the population.
 
@@ -825,9 +827,7 @@ The Cabinet has approved a ceiling and budget prioritization for ANDS sectors, a
 
 These  ceilings  and  the  budget  prioritization  exercise  have  played  a  central  role  in  the  preparation  of  the Medium-Term Fiscal Framework (MTFF), and they are directly linked to the national budget.  Starting in 1387 (2008/09), the MTFF will embody the prioritization established in the ANDS and will provide the mechanism for implementing the ANDS through the national budget process.
 
-Table 1. Overall Financing Envelope for the ANDS 1387-1391 (2008-2013)
-
- | 1387 2008/09 US$m | 1388 2009/10 US$m | 1389 2010/11 US$m | 1390 2011/12 US$m | 1391 2012/13 US$m | Total US$m
+1387 2008/09 US$m | 1388 2009/10 US$m | 1389 2010/11 US$m | 1390 2011/12 US$m | 1391 2012/13 US$m | Total US$m
 --- | --- | --- | --- | --- | --- | ---
 Core + External Budget Funding
 Domestic Revenue | 887 | 1,104 | 1,351 | 1,611 | 1,911 | 6,864
@@ -843,9 +843,9 @@ Health & Nutrition | 325 | 465 | 530 | 563 | 595 | 2478
 Economic Governance & PSD | 237 | 215 | 230 | 244 | 260 | 1186
 Social Protection | 192 | 359 | 394 | 421 | 449 | 1815
 Others (Sub Codes) | 205 | 198 | 185 | 170 | 157 | 915
-Total Expenditure | 7,903 | 9,286 | 10,236 | 11,038 | 11,637 | 50,100²
+Total Expenditure | 7,903 | 9,286 | 1 0,236 | 11,038 | 11,637 | 50,100 2
 
-* Based on discussions with international community and the 1386 (2007) financial review
+Table 1. Overall Financing Envelope for the ANDS 1387-1391 (2008-2013)
 
 > 2 The level of expenditure in table 1 is based on assumption regarding the amount of financing which will be made available at the forthcoming ANDS Conference in Paris. The Macroeconomic Framework which currently underpins the ANDS does not assume a similar scaling-up of donor assistance and is therefore not entirely consistent with table 1. Following the Conference, the Macroeconomic Framework and the ANDS expenditure ceilings will be updated to reflect the actual level of international assistance.
 
@@ -869,7 +869,7 @@ The full  costing  of  the  projects  and  programs  included  in  the  ANDS  is
 
 The total estimated cost of the ANDS over its five-year time span is approximately US$50.1 billion.  Of this amount,  the  Afghan  government  will  contribute  US$6.8  billion  and  external  assistance  is  expected  to  be US$43.2 billion.  The US$50.1 assumes a significant incremental increase in funds being channeled through the Government Core Budget. However, if funds continue to be channeled externally this will result in much higher overhead  costs,  thereby  increasing  by  a  sizeable  amount  the  total  aid  requirements  for  successful  ANDS implementation over the next five years.
 
-Over the lifetime of the ANDS Afghanistan will continue to rely on external financing. The Government's medium-term objective is to reduce aid dependency and improve sustainability by increasing domestic revenues. To that end, the Government is pursuing policies that will strengthen the performance of the economy and improve revenue collection. Meanwhile, the Government encourages its international partners to make multi-year commitments to support the goals and the priorities of the ANDS. This will improve the predictability of aid flows and permit the Government to better plan sustainable expenditures and manage priorities more effectively over the medium-term.
+Over the lifetime  of  the  ANDS  Afghanistan  will  continue  to  rely  on  external  financing.    The  Government's medium-term objective is to reduce aid dependency and improve sustainability by increasing domestic revenues. To  that  end,  the  Government  is  pursuing  policies  that  will  strengthen  the  performance  of  the  economy  and improve revenue collection.  Meanwhile, the Government encourages its international partners to make multiyear commitments to support the goals and the priorities of the ANDS.  This will improve the predictability of aid  flows  and  permit  the  Government  to  better  plan  sustainable  expenditures  and  manage  priorities  more effectively over the medium-term.
 
 # VIII. AID EFFECTIVENESS
 
@@ -891,7 +891,7 @@ The Government's aid effectiveness strategy is based on the following principles
 
 - Alignment of international assistance with Afghan priorities as enunciated in the ANDS: Afghanistan's international  partners  can  contribute  to  improved  aid  effectiveness  through  increased  discipline  in respecting defined sector ceilings and priority programs, while improving coordination through more extensive information sharing and policy dialogue-both horizontally (across donors and government institutions) and vertically (with PRTs and local governments).
 
-- Harmonization: Aid effectiveness will benefit from improved information on aid flows and greater predictability; reducing high transaction costs and parallel funding mechanisms; improving inter-governmental coordination; and strengthening the management of technical assistance.
+- Harmonization: Aid  effectiveness  will  benefit  from  improved  information  on  aid  flows  and  greater predictability;  reducing  high  transaction  costs  and  parallel  funding  mechanisms;  improving  intergovernmental coordination; and strengthening the management of technical assistance.
 
 - Managing  for  results: The  Government  is  committed  to  pursuing  policies  aimed  at:  increasing  the transparency and aid absorption capacity of the government; improving public financial management; reducing corruption; and ensuring sustainability of maintenance and operation costs.
 
@@ -921,7 +921,7 @@ The Central Monitoring and Reporting System (CMRS) will be developed jointly by 
 
 Line ministries will continue to collect sectoral information to monitor the outputs and outcomes of national spending through the ANDS.  The line ministries will strengthen their provincial offices to collect disaggregated data on indicators to monitor progress at the sub-national level.  The budget monitoring system, the Afghanistan Financial  Management  Information  System  (AFMIS),  managed  by  the  Ministry  of  Finance,  will  provide information on input and output expenditures in line with the MTFF.
 
-Independent monitoring will be a vital part of the overall monitoring and reporting system. Civil society, non-governmental organizations, and the media will play important roles in the external monitoring of the ANDS. ANDS implementation, monitoring, and evaluation will be carried out in consultation with these stakeholders, sub-national representatives, and the international community.
+Independent monitoring will be a vital part of the overall monitoring and reporting system.  Civil society, nongovernmental organizations, and the media will play important roles in the external monitoring of the ANDS. ANDS implementation, monitoring, and evaluation will be carried out in consultation with these stakeholders, sub-national representatives, and the international community.
 
 The role of the International Financial Institutions, the international community and UN agencies will continue to  be  vital  for  (i)  developing  analyses  and  assessments;  (ii)  coverage  and  timeliness  of  key  data;  (iii) documenting  the  current  resource  envelope;  and  (iv)  providing  information  on  the  present  levels  of  external assistance and prospects for aid levels over the medium-term.
 
@@ -961,14 +961,7 @@ Afghanistan National Development Strategy Secretariat Gul Khana Palace, (Sedarat
 
 [[START OF PAGE 33]]
 
-Islamic Republic of Afghanistan
-
-# AFGHANISTAN National Development Strategy
-
-1387 - 1391 (2008 - 2013)
-
-A Strategy for Security, Governance,
-Economic Growth and Poverty Reduction
+(this page came through the extractor with no text)
 
 [[END OF PAGE 33]]
 
@@ -982,7 +975,7 @@ Economic Growth and Poverty Reduction
 
 Islamic Republic of Afghanistan
 # Afghanistan National Development Strategy
-1387 - 1391 (2008 - 2013)
+1389 - 1391 (2008 - 2013)
 
 A Strategy for Security, Governance, Economic Growth & Poverty Reduction
 
@@ -996,11 +989,11 @@ A Strategy for Security, Governance, Economic Growth & Poverty Reduction
 
 [[START OF PAGE 37]]
 
-بسم الله الرحمن الرحيم
+اﻟﺮﺣﻴﻢ اﻟﺮﺣﻤﻦ اﷲ ﺑﺴﻢ
 
 In the Name of Allah, the Most Compassionate, the Most Merciful
 
-إِنَّ اللّهَ لاَ يُغَيِّرُ مَا بِقَوْمٍ حَتَّى يُغَيِّرُواْ مَا بِأَنْفُسِهِمْ
+ُﺴ ِﻬ ِﻢ ْ َﻧ ْﻔ ﺑ ِﺄ ﻣ َﺎ َﻴ ﱢﺮ ُوا ْ ﻳ ُﻐ ﺣ َﺘ ﱠﻰ ٍ ﺑ ِﻘ َﻮ ْم ﻣ َﺎ ُ َﻴ ﱢﺮ ﻳ ُﻐ ﻻ َ َ اﻟﻠ ّﻪ ﱠ إ ِن
 
 Verily, never will Allah change the condition of people unless they change it themselves (013,011)
 
@@ -1104,34 +1097,6 @@ Sustained  fiscal  support  and  continuous  evaluation  and  monitoring  are  e
 
 We look forward to working with our government colleagues, civil society representatives, tribal elders and religious scholars, the private sector, the international community and, most importantly, fellow Afghans to implement the ANDS, to help realize the Afghanistan Compact benchmarks and Millennium Development Goals.
 
-Prof. Ishaq Nadiri
-Senior Economic Advisor to the President
-Chair, ANDS and JCMB
-
-Ahmad Zia Masoud
-First Vice-President
-
-Dr. Rangin Dadfar Spanta
-Minister of Foreign Affairs
-
-Dr. Anwar-ul-Haq Ahady
-Minister of Finance
-
-Dr. Sarwar Danish
-Minister of Justice
-
-Dr. Amin Farhang
-Minister of Commerce and Industry
-
-Dr. Jalil Shams
-Minister of Economy
-
-Dr. Zalmay Rassoul
-National Security Advisor
-
-Haneef Atmar
-Minister of Education
-
 Message from the Ovresight Committee
 
 vii
@@ -1184,55 +1149,6 @@ Afghanistan National Development Strategy (ANDS)
 
 [[START OF PAGE 47]]
 
-Map of Afghanistan .........................................................................................................................................iii
-Foreword............................................................................................................................................................. iv
-Message from the Oversight Committee...................................................................................................... vi
-Acknowledgments..............................................................................................................................................x
-Acronyms and Abbreviations....................................................................................................................... xiv
-Glossary of Afghan Terms........................................................................................................................... xvii
-INTRODUCTION ..............................................................................................................................................1
-Background ..........................................................................................................................................................1
-Achievements Since 2001....................................................................................................................................1
-Afghanistan's Challenges ..................................................................................................................................3
-International Support for Afghanistan .............................................................................................................5
-The Afghanistan National Development Strategy.........................................................................................5
-PART I ..................................................................................................................................................................3
-PROCESS, GOALS AND POLICY DIRECTIONS.......................................................................................3
-CHAPTER 1 .........................................................................................................................................................5
-THE ANDS: AN OVERVIEW ..........................................................................................................................5
-Security..................................................................................................................................................................5
-Governance, rule of law, justice and human rights ........................................................................................6
-Economic and social development....................................................................................................................6
-Cross-Cutting Issues..........................................................................................................................................13
-Enhancing Aid Effectiveness and Aid Coordination....................................................................................14
-Implementation and Monitoring of the ANDS .............................................................................................15
-CHAPTER 2 .......................................................................................................................................................17
-THE PARTICIPATORY PROCESS AND PROVINCIAL DEVELOPMENT PLANS .........................17
-Organizing principles and participation process .......................................................................................17
-Consultation process .........................................................................................................................................19
-Provincial Development Plans (PDPs)............................................................................................................20
-Prioritization and sequencing of the PDPs.....................................................................................................21
-Integration of the PDPs into ANDS ................................................................................................................21
-Outcomes from the provincial development planning process ..................................................................22
-Prioritization of the pillars................................................................................................................................22
-Regional variation in priorities ........................................................................................................................24
-Conclusion..........................................................................................................................................................25
-CHAPTER 3 .......................................................................................................................................................27
-THE POVERTY PROFILE...............................................................................................................................27
-Data collection, poverty measurements and estimates ................................................................................27
-Poverty estimates...............................................................................................................................................28
-Poverty in Afghanistan: main characteristics of inequality .........................................................................29
-Most important causes of poverty: poverty correlates .................................................................................31
-Who the poor are: the most vulnerable groups.............................................................................................33
-Policy framework for poverty reduction........................................................................................................33
-High priority sector policies for poverty reduction......................................................................................34
-Conclusion..........................................................................................................................................................36
-PART II...............................................................................................................................................................37
-THE NATIONAL DEVELOPMENT STRATEGY ......................................................................................37
-CHAPTER 4 .......................................................................................................................................................39
-MACROECONOMIC FRAMEWORK .........................................................................................................39
-Linking growth with poverty reduction and employment creation ..........................................................40
-
 Contents
 
 xi
@@ -1241,57 +1157,6 @@ xi
 
 [[START OF PAGE 48]]
 
-Growth Projection and Strategy ......................................................................................................................44
-Fiscal policy ........................................................................................................................................................46
-Monetary policy.................................................................................................................................................48
-Financing the ANDS..........................................................................................................................................50
-Conclusion..........................................................................................................................................................51
-CHAPTER 5 .......................................................................................................................................................53
-SECURITY .........................................................................................................................................................53
-Current situation................................................................................................................................................53
-Policy framework...............................................................................................................................................55
-Security institutions...........................................................................................................................................56
-‘Right-Financing’ Security Sector Reform ......................................................................................................58
-Sound Administration, Justice and Judicial System .....................................................................................59
-Relations with nieghbors and international allies.........................................................................................59
-Conclusion..........................................................................................................................................................59
-CHAPTER 6 .......................................................................................................................................................61
-GOVERNANCE, RULE OF LAW & HUMAN RIGHTS ...........................................................................61
-Governance, Public Administration Reform and human rights .................................................................61
-Justice ..................................................................................................................................................................63
-Religious affairs .................................................................................................................................................67
-Conclusion..........................................................................................................................................................69
-CHAPTER 7 .......................................................................................................................................................73
-ECONOMIC AND SOCIAL DEVELOPMENT ..........................................................................................73
-Private sector development..............................................................................................................................73
-Energy .................................................................................................................................................................77
-Water and irrigation..........................................................................................................................................82
-Agriculture and rural development................................................................................................................87
-Transport.............................................................................................................................................................93
-Information and Communications Technology ............................................................................................96
-Urban development.........................................................................................................................................100
-Mining ...............................................................................................................................................................105
-Health and Nutrition.......................................................................................................................................108
-Education...........................................................................................................................................................113
-Culture, youth and media ..............................................................................................................................120
-Social protection...............................................................................................................................................123
-Refuges, returnees and internally displaced persons .................................................................................129
-Conclusion........................................................................................................................................................133
-CHAPTER 8 .....................................................................................................................................................144
-CROSS-CUTTING ISSUES ..........................................................................................................................144
-Regional cooperation.......................................................................................................................................144
-Counter narcotics.............................................................................................................................................146
-Anti-corruption................................................................................................................................................147
-Gender equity...................................................................................................................................................148
-Capacity development ....................................................................................................................................150
-Environment.....................................................................................................................................................151
-Conclusion........................................................................................................................................................152
-PART III ...........................................................................................................................................................154
-AID EFFECTIVENESS AND COORDINATION.....................................................................................154
-CHAPTER 9 .....................................................................................................................................................156
-AID EFFECTIVENESS AND COORDINATION.....................................................................................156
-Paris Declaration and Afghanistan Compact...............................................................................................156
-
 xii
 
 Afghanistan National Development Strategy (ANDS)
@@ -1299,40 +1164,6 @@ Afghanistan National Development Strategy (ANDS)
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
-
-Current situation: assessment of aid effectiveness......................................................................................156
-Aid effectiveness strategy framework ..........................................................................................................157
-Implementation and monitoring ...................................................................................................................161
-Conclusion........................................................................................................................................................163
-PART IV ...........................................................................................................................................................164
-IMPLEMENTATION AND MONITORING ............................................................................................164
-CHAPTER 10 ...................................................................................................................................................166
-IMPLEMENTATION FRAMEWORK ........................................................................................................166
-Lessons learned during the Interim ANDS..................................................................................................166
-Implementation framework and integrated approach...............................................................................167
-Implementation Plan and the ANDS implementation cycle .....................................................................168
-Implementation Cycle.....................................................................................................................................168
-Role of the National Budget and the MTFF .................................................................................................169
-Role of the MTFF .............................................................................................................................................172
-Role of the Control and Audit Office (CAO) ...............................................................................................172
-Budget management framework, prioritization and funding requirements for the implementation of
-the ANDS..........................................................................................................................................................172
-National implementation structures .............................................................................................................173
-Sub-national implementation structures ......................................................................................................173
-Coordination structures..................................................................................................................................173
-Integrating conflict management into sector strategies..............................................................................174
-Conclusion........................................................................................................................................................174
-CHAPTER 11 ...................................................................................................................................................177
-MONITORING FRAMEWORK ..................................................................................................................177
-ANDS monitoring and evaluation principles..............................................................................................177
-Institutional structure......................................................................................................................................178
-Monitoring and evaluation reporting ...........................................................................................................180
-Indicators for monitoring ...............................................................................................................................180
-Monitoring and evaluation framework ........................................................................................................182
-Conclusion........................................................................................................................................................182
-CHAPTER 12 ...................................................................................................................................................187
-CONCLUSION................................................................................................................................................187
-APPENDICES..................................................................................................................................................191
 
 Contents
 
@@ -1527,7 +1358,7 @@ UNAMA | United Nations’ Assistance Mission to Afghanistan
 UNCAC | United Nations Convention Against Corruption
 UNDP | United Nations Development Program
 UNHCR | United Nations High Commission for Refugees
-UNICEF | United Nations International Children's Emergency Fund
+UNICEF | United Nations International Children’s Emergency Fund
 UNIFEM | United Nations Development Fund for Women
 UNODC | United Nations Office on Drugs and Crime
 USAID | United States Agency for International Development
@@ -1685,9 +1516,7 @@ percent of the seats in the National Assembly.
 
  The  Government  has  so  far  distributed 30,000 residential plots of land to needy returning refugee families.
 
- From under one million in 2001 the school population has grown to 5.7 million in 2007 and new enrolments into Grade 1 have ranged between 12-14 percent per annum in the last 5 years. Two million of the children (or 35 percent) enrolled are girls – a 35 percent increase in five years. The number of schools has trebled to 9,062 in 2007 including 1,337 all girls’ and 4,325 co-educational schools. Similarly, the number of teachers has increased seven-fold to
-
-142,500  of  who  nearly  40,000  are  female. Fifty  thousand  of  these  teachers  have  received in-service teacher training.
+ From under one million in 2001 the school population has grown to 5.7 million in 2007 and new enrolments into Grade 1 have ranged between 12-14 percent per annum in the last 5 years. Two million of the children (or 35 percent) enrolled are girls – a 35 percent increase in five years. The number of schools has trebled to 9,062 in 2007 including 1,337 all girls’ and 4,325 co-educational schools. Similarly, the number of teachers has increased seven-fold to 142,500 of who nearly 40,000 are female. Fifty thousand of these teachers have received in-service teacher training.
 
  Major advances have been made in extending  health  care  services  throughout  the country and rebuilding a decimated educational system.  The percentage of the population  living  in  districts  where  the  Basic Package of Health Services is being implemented  has  increased  from  9  percent  in 2003 to 82 percent in 2006.
 
@@ -1747,7 +1576,7 @@ When  seen  against  the  desperate  conditions that  prevailed  in  the  countr
 
 ## AFGHANISTAN'S CHALLENGES
 
-Few  countries  have  simultaneously  faced  the range and extent of challenges with which the people  and  Government  of  Afghanistan  must now  contend.    After  nearly  three  decades  of continuous conflict the country emerged in late 2001 as a truly devastated state with its human, physical and  institutional infrastructure  destroyed or severely damaged.  At that time the UN  Human  Development  Report  ranked  Afghanistan as the second poorest country in the World.  In addition to the widespread poverty, the  Government  must  deal  with  continuing threats  to  security  from  extremists  and  terrorists,  weak  capacity  of  governance  and  corruption; a poor environment for private sector investment,  the  corrosive  effects  of  a  large  and growing narcotics industry; and major human capacity limitations throughout the public and private  sectors.    Meeting  these  challenges  and rebuilding  the  country  will  take  many  years and require consistent international support.
+Few countries have simultaneously faced the range and extent of challenges with which the people and Government of Afghanistan must now contend. After nearly three decades of continuous conflict the country emerged in late 2001 as a truly devastated state with its human, physical and institutional infrastructure destroyed or severely damaged. At that time the UN Human Development Report ranked Afghanistan as the second poorest country in the World. In addition to the widespread poverty, the Government must deal with continuing threats to security from extremists and terrorists, weak capacity of governance and corruption; a poor environment for private sector investment, the corrosive effects of a large and growing narcotics industry; and major human
 
 Introduction
 
@@ -1757,7 +1586,9 @@ Introduction
 
 [[START OF PAGE 58]]
 
-The  successful  transformation  of  Afghanistan into a secure, economically viable state that can meet the aspirations of the Afghan people, live at peace with itself and its neighbors and contribute  to  regional  and  international  stability will depend upon the effective utilization of all available human,  natural and financial resources.  In this partnership a critical role must be  played  by  the  private  sector.    Significantly reducing poverty will require substantially increasing employment which depends on maintaining  high  rates  of  economic  growth  in  the years ahead.  It is not sufficient to rely on the Government and the international community to sustain the high rates of investment needed to generate the levels of employment to have a major  impact  on  reducing  poverty.    As  the macroeconomic projections presented in Chapter  4  indicate,  a  substantial  increase  in  private investment  will  be  essential  if  significant  progress is to be realized in meeting the social and economic objectives of the country.
+capacity limitations throughout the public and private sectors. Meeting these challenges and rebuilding the country will take many years and require consistent international support.
+
+The successful transformation of Afghanistan into a secure, economically viable state that can meet the aspirations of the Afghan people, live at peace with itself and its neighbors and contribute to regional and international stability will depend upon the effective utilization of all available human, natural and financial resources. In this partnership a critical role must be played by the private sector. Significantly reducing poverty will require substantially increasing employment which depends on maintaining high rates of economic growth in the years ahead. It is not sufficient to rely on the Government and the international community to sustain the high rates of investment needed to generate the levels of employment to have a major impact on reducing poverty. As the macroeconomic projections presented in Chapter 4 indicate, a substantial increase in private investment will be essential if significant progress is to be realized in meeting the social and economic objectives of the country.
 
 Afghanistan  is  a  country  with  significant  potential  for  economic  development.  It has substantial water, agricultural and  mineral resources  and  is  well  positioned  to  become  a trade and business hub linking the markets of Central Asia, the Middle East, South Asia and China.  The potential exists or sustainable economic  growth  in  the  future.    However,  there are a number of fundamental limitations in the economic environment that must be addressed if these efforts are to succeed:
 
@@ -1775,9 +1606,9 @@ Afghanistan  is  a  country  with  significant  potential  for  economic  develo
 
 Both  the  Government  and  the  international community  recognize  that  prolonged  aid  dependency will undermine the chances of achieving sustained economic growth and poverty reduction.  However, given the major limitations in the economic environment that must be  addressed,  the  successful  transition  to  a competitive  market  economy  will  require  sustained  commitment  by  the  Government,  with the  support  of  the  international  community. Simply creating conditions in which the private sector  can  operate  alone  will  not  be  sufficient. Increased efforts by both the Government and the  donor  community  to  attract  Afghan  and foreign investors are needed if the goals of the ANDS are to be realized.
 
-Social and economic development will also be severely curtailed if the insecurity that prevails is not resolved. Despite the considerable efforts by the Government and the international community, security has steadily deteriorated since 2004  in  some  parts  of  the  country.    Ongoing cross-border activities, particularly in the southern and southeastern provinces, have resulted in several areas being effectively off limits to meaningful development assistance.
+Social and economic development will also be severely curtailed if the insecurity that prevails is not resolved. Despite the considerable efforts by the Government and the international com-
 
-> 1 Many of the government's initiatives in this area are described in  'A  Policy  for  Private  Sector  Growth  and  Development'  presented  at  the  Enabling  Environment  Conference,  Kabul,  June 2007.
+> 1 Many of the government’s initiatives in this area are described in “A Policy for Private Sector Growth and Development” presented at the Enabling Environment Conference, Kabul, June 2007.
 
 4
 
@@ -1787,21 +1618,23 @@ Afghanistan National Development Strategy (ANDS)
 
 [[START OF PAGE 59]]
 
+munity, security has steadily deteriorated since 2004 in some parts of the country. Ongoing cross-border activities, particularly in the southern and southeastern provinces, have resulted in several areas being effectively off limits to meaningful development assistance.
+
 The  lack  of  stability  reduces  the  ability  of  aid agencies  and  the  Government  to  operate  in many areas and to  effectively  implement  projects and programs.  The impacts of these limitations typically fall most heavily on the poor. Insecurity also increases the cost of doing business  and  undermines  private  sector  growth and  development. 2     The  difficulties  in  maintaining security contribute significantly to two closely  related  issues:  increasing  corruption  in the  public  sector  and  the  rapid  growth  of  the narcotics  industry.    There  is  a  consensus  that corruption  in  Afghanistan  is  widespread  and has  been  getting  worse. 3     Public  corruption represents  a  major  disincentive  for  private  investment, substantially increasing the costs and risks  of  doing  business.    A  lack  of  security  in some  parts  of  the  country  has  created  conditions  in  which  poppy  cultivation  has  flourished,  feeding  a  growing  narcotics  industry that both funds terrorist activity and feeds public corruption.  Although poppy cultivation has been greatly reduced in 29 of the 34 provinces, in  the  remaining  five  it  has  seen  explosive growth  to where  Afghanistan  accounts for around  90  percent  of  the  world's  opium  production.
 
 ## INTERNATIONAL SUPPORT FOR AFGHANISTAN
 
 After  the  fall  of  the  Taliban,  the  international community's  response  was  not  only  military but also began to provide Afghanistan with the institutional and financial resources to start the state  building  process.    In  2006,  the  Afghanistan Compact agreed between the Government and international community established goals for  state  building,  setting  benchmarks  in  core sectors  of  security,  governance,  and  development, including the cross-cutting goals of counter-narcotics.  To implement its obligations under  the  Afghanistan  Compact,  the  Government developed the Afghanistan National Development Strategy (ANDS) to clarify existing conditions,  establish  objectives  and  define  the policies, programs and projects needed to achieve  those  objections.    The  international community made new pledges of financial and security  assistance  and  set  out  to  improve  its coordination  by  renewing  and  upgrading  the UN Assistance Mission for Afghanistan (UNAMA), headed by a Special Representative of the Secretary General with enhanced powers for coordination. 4
 
-> 2 For  example,  the  World  Bank  'Investment  Climate  Assessment' reported that companies are typically spending as much as 15 percent of total sales on security costs.
+> 2 For example, the World Bank “Investment Climate Assessment” reported that companies are typically spending as much as 15 percent of total sales on security costs.
 
-> 3 For  example, in the 2005 Transparency International 'Corruption Perceptions Index' Afghanistan ranked 117th (of 158); two years later the country was ranked 172nd (of 179).
+> 3 For example, in the 2005 Transparency International “Corruption Perceptions Index” Afghanistan ranked 117th (of 158); two years later the country was ranked 172nd (of 179).
 
 The  ANDS represents  an  important  milestone in the efforts to  rebuilding  of  Afghanistan which  has been underway  since  late 1380 (2001).    During  this  time  there  have  been  a number  of  reports,  conferences  and  strategies developed to address Afghanistan's challenges. 5     In  addition,  the  Government  and  the international  community  have  entered  into  a series  of  agreements  concerning  the  direction and  support  for  the  country's  development efforts, including notably the Bonn Agreement, the  commitment  to  the  Millennium  Development Goals (MDGs) and the Afghanistan Compact.  The ANDS builds on all of these and provides a comprehensive and integrated strategy that reflects recent experience and current conditions.
 
 ## THE AFGHANISTAN NATIONAL DEVELOPMENT STRATEGY
 
-The Afghanistan National Development Strategy (ANDS) represents the combined efforts of the Afghan people and the Afghan Government with the support of the international community to address the major challenges facing the country. To comprehensively address the security, governance, and development needs of Afghanistan, the government has developed the ANDS. The ANDS reflects the government’s vision, principles and goals for Afghanistan which builds on its commitment to achieve the Millennium Development Goals by 2020 and the implementation of the Afghanistan Compact benchmarks. The strategy is based upon an assessment of current social and economic conditions; offers clear intermediate objectives; and identifies the actions that must be taken to achieve these national goals. The ANDS largely focuses on the next five years, but reflects Afghanistan’s long-term goals which include the elimination of poverty through the emergence of a vibrant middle class, an efficient and stable democratic political environment and security throughout the country.
+The Afghanistan National Development Strategy (ANDS) represents the combined efforts of the Afghan people and the Afghan Government with the support of the international community to address the major challenges facing the country. To comprehensively ad-
 
 > 4 Afghanistan has also placed special emphasis on good relations with its neighbors, particularly Pakistan.  The two countries convened a joint Peace Jirga in August 2006, and Afghanistan looks forward  with  hope  and  optimism  to  enhanced  cooperation  with Pakistan.
 
@@ -1815,9 +1648,11 @@ Introduction
 
 [[START OF PAGE 60]]
 
-Despite  the  full  commitment  of  the  Government  and  the  considerable  assistance  being provided  by  the  international  community,  it will not be possible to fully achieve all of these objectives during the next five years.  Therefore it is essential that well defined priorities be established  that  reflect  the  relative  contributions of  potential  policies,  programs  and  projects towards reaching these goals.  This is a difficult process.  The contribution of any project to increasing  economic  growth  is  uncertain  and  is inevitably  contingent  on  progress  in  other  areas.  It also requires a careful analysis of benefits  versus  costs  with  alternative  allocations  of resources.  As a result, the prioritization of activities  should  be  seen  as  an  ongoing  process that adapts to changing circumstances and the results of program and project appraisal work on alternative use of resources.  In meeting this challenge,  the  ANDS aims to establish institutional mechanisms that will include the Afghan people,  the  Government,  civil  society  and  the international  community  in  identifying  priorities in an evolving environment.
+dress the security, governance, and development needs of Afghanistan, the government has developed the ANDS. The ANDS reflects the government’s vision, principles and goals for Afghanistan which builds on its commitment to achieve the Millennium Development Goals by 2020 and the implementation of the Afghanistan Compact benchmarks. The strategy is based upon an assessment of current social and economic conditions; offers clear intermediate objectives; and identifies the actions that must be taken to achieve these national goals. The ANDS largely focuses on the next five years, but reflects Afghanistan’s long-term goals which include the elimination of poverty through the emergence of a vibrant middle class, an efficient and stable democratic political environment and security throughout the country.
 
-A comprehensive ‘bottom-up’ approach was used in the development of the ANDS that has taken into account all aspects of social and economic life as well as fully reflecting the diversity of people in all parts of the country. Considerable efforts were made to ensure that sub-national consultations (i.e., outside of the central government in the capital Kabul) identified the priorities of the Afghan people living in each of the 34 provinces. 6 In addition, a comprehensive series of sector and ministry strategies were developed that address all aspects of social and economic development. The result of this inclusive process is a national strategy that is fully reflective of the aspirations of the Afghan people. The ANDS is the product of extensive consultations at the national, provincial and local levels. The Government is committed to programs and projects that directly target the poorest and most vulnerable groups for assistance. Well targeted poverty reductions programs are emphasized both in the strategy for social protection and integrated into the design of strategies across the other sectors of the economy.
+Despite the full commitment of the Government and the considerable assistance being provided by the international community, it will not be possible to fully achieve all of these objectives during the next five years. Therefore it is essential that well defined priorities be established that reflect the relative contributions of potential policies, programs and projects towards reaching these goals. This is a difficult process. The contribution of any project to increasing economic growth is uncertain and is inevitably contingent on progress in other areas. It also requires a careful analysis of benefits versus costs with alternative allocations of resources. As a result, the prioritization of activities should be seen as an ongoing process that adapts to changing circumstances and the results of program and project appraisal work on alternative use of resources. In meeting this challenge, the ANDS aims to establish institutional mechanisms that will include the Afghan people, the Government, civil society and the international community in identifying priorities in an evolving environment.
+
+A  comprehensive  'bottom-up'  approach  was used in the development of the ANDS that has taken into account all aspects of social and economic life as well as fully reflecting the diversity of people in all parts of the country.  Considerable efforts were made to ensure that subnational  consultations  (i.e.,  outside  of  the  central government in the capital Kabul) identified the  priorities  of  the  Afghan  people  living  in each of the 34 provinces. 6   In addition, a comprehensive series of sector and ministry strategies were developed that address all aspects of social  and  economic  development.    The  result of  this  inclusive  process  is  a  national  strategy that  is  fully  reflective  of  the  aspirations  of  the Afghan  people.  The  ANDS  is  the  product  of extensive consultations at the national, provincial and local levels.   The Government is committed  to  programs  and  projects  that  directly target the poorest and most vulnerable groups for assistance. Well targeted poverty reductions programs are emphasized both in the strategy for  social  protection  and  integrated  into  the design of strategies across the other sectors of the economy.
 
 The  remainder  of  the  ANDS  is  organized  as follows:
 
@@ -1929,15 +1764,17 @@ The  Government  will  focus  on  the  following priorities: (i) to improve infr
 
 ##### ECONOMIC AND SOCIAL DEVELOPMENT
 
-The economic and social development strategy, vision, objectives and expected outcomes have been prioritized within the overall macro-fiscal framework  to  allow  a  logical  progression  of investments  that  systematically  overcome  the core  binding  constraints  to  growth  and  social development.  An integrated approach focuses investments through the sector strategies summarized below. The sector strategies were developed based on strategies first put forward by  individual  ministries  and  groups  of  ministries.    Although  Ministry  strategies  were  the starting point, the sector strategies are broader than  those  of  the  ministries  for  several  very important reasons.  First, the sector strategies in many cases involve actions and programs that need  to  be  undertaken  by  several  ministries. Considerable attention has therefore been given  to  developing  better  coordination  between ministries through Inter-Ministerial Committees.    The  sector  strategies  have  also taken account of donor activities  being  implemented outside of ministries and informed by the Provincial Development Plans (PDPs).  The success  of  the  sector  strategies  will  be  heavily dependent  on  resource  effectiveness,  revenue enhancement  and  fiscal  sustainability,  human and natural resource development and investments  in  productive  and  trade-based  infrastructure  and  private  sector  driven  development.
+The economic and social development strategy, vision, objectives and expected outcomes have
 
 6
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 66]]
 
 [[START OF PAGE 67]]
+
+been prioritized within the overall macro-fiscal framework to allow a logical progression of investments that systematically overcome the core binding constraints to growth and social development. An integrated approach focuses investments through the sector strategies summarized below. The sector strategies were developed based on strategies first put forward by individual ministries and groups of ministries. Although Ministry strategies were the starting point, the sector strategies are broader than those of the ministries for several very important reasons. First, the sector strategies in many cases involve actions and programs that need to be undertaken by several ministries. Considerable attention has therefore been given to developing better coordination between ministries through Inter-Ministerial Committees. The sector strategies have also taken account of donor activities being implemented outside of ministries and informed by the Provincial Development Plans (PDPs). The success of the sector strategies will be heavily dependent on resource effectiveness, revenue enhancement and fiscal sustainability, human and natural resource development and investments in productive and trade-based infrastructure and private sector driven development.
 
 ###### Private Sector Development
 
@@ -1949,7 +1786,7 @@ An open trade policy will facilitate a competitive  environment  for  private  s
 
 A second major component of the private sector  development  strategy  attempts  to  encourage increased private sector investment by creating  investor  friendly  regulatory  frameworks for  private  sector  operations  in  the  development  of  natural  resources  and  infrastructure. This approach has been very successful in the telecommunications sector, where phone usage went  from  less  than  15,000  under  a  state  monopoly to over five million subscribers as private  investments  in  cellular  communication were  encouraged.    Significant  initiatives  are included  in  the  sector  strategies  for  energy, mining and agriculture based on leased access to state lands to strengthen these investor friendly regulatory frameworks, and pilot projects and innovative initiatives are being investigated to allow public funding to support private sector activities in the provision of education  services,  vocational  training  and  public health services.
 
-A  third  and  closely  related  component  of  the strategy  is  based  on  a  concerted  effort  by  the Government  and  the donor community  to more  vigorously  promote  private  sector  investment.    Given  the  limited  capacities  in  the public  sector  and  in  the  nascent  domestic  private  sector,  much  of  this  effort  will  focus  on trying to encourage foreign firms with the expertise,  ability  to  manage  risk  and  access  to financial  resources  to  take  advantage  of  the many opportunities that exist for investment in Afghanistan.  Efforts at  investment  promotion will  be  designed  to  convince  these  investors that  they  are  both  needed  in  Afghanistan  and that they will be able to operate profitably with full government support consistent with maintaining a competitive environment.
+A third and closely related component of the strategy is based on a concerted effort by the Government and the donor community to more vigorously promote private sector investment. Given the limited capacities in the public sector and in the nascent domestic private sector, much of this effort will focus on trying to encourage foreign firms with the ex-
 
 The ANDS: An Overview
 
@@ -1958,6 +1795,8 @@ The ANDS: An Overview
 [[END OF PAGE 67]]
 
 [[START OF PAGE 68]]
+
+pertise, ability to manage risk and access to financial resources to take advantage of the many opportunities that exist for investment in Afghanistan. Efforts at investment promotion will be designed to convince these investors that they are both needed in Afghanistan and that they will be able to operate profitably with full government support consistent with maintaining a competitive environment.
 
 ###### Energy
 
@@ -1973,7 +1812,7 @@ The  ANDS  strategic  objective  in  the  mining sector  is  to  encourage  legi
 
 8
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 68]]
 
@@ -2019,7 +1858,7 @@ Efforts to improve education, which started in 2002, were focused on getting 1.5
 
 10
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 70]]
 
@@ -2037,7 +1876,7 @@ The ANDS strategic objective for this sector is: (i) to create awareness and fos
 
 ###### Health and nutrition sector strategy
 
-By all measures, the people of Afghanistan suffer from poor health.  The country's health indicators  are  near  the  bottom  of  international indices,  and  fare  far  worse,  in  terms  of  their health,  than  any  other  country  in  the  region. Life  expectancy  is  low,  infant,  under-five  and maternal mortality is very high, and there is an extremely high prevalence of chronic malnutrition and widespread occurrence of micronutrient  deficiency  diseases.    Substantial  improvements  in  the  health  system  and  the  health status  of  the  people  of  Afghanistan  have  been achieved in recent years, but there are a number of challenges and constraints that must be addressed if continued progress is to be made, including: (i) inadequate financing for many of the key  programs;  (ii) reliance on  external sources  of  funding;  (iii)  inadequately  trained health  workers;  (iv)  lack  of  qualified  female health  workers  in  rural  areas;  (v)  dispersed population, geographical barriers and a lack of transportation infrastructure; (vi) low levels of utilization for certain health services, especially preventive services; (viii) variable levels of service quality; (ix)  insecurity  in  some  provinces, making  it  difficult  for  program  implementation, recruitment and retention of staff, expansion of service coverage and monitoring by the provincial  and  central  levels;  (x)  lack  of  effective  financial  protection  mechanisms  for  poor households to receive the care they need without experiencing financial distress; and (xi) lack of  mechanisms  for  effective  support  to  and regulation  of  for-profit  private  sector  clinics and pharmacies.
+By all measures, the people of Afghanistan suffer from poor health. The country’s health indicators are near the bottom of international indices, and fare far worse, in terms of their health, than any other country in the region. Life expectancy is low, infant, under-five and maternal mortality is very high, and there is an extremely high prevalence of chronic malnutrition and widespread occurrence of micronutrient deficiency diseases. Substantial improvements in the health system and the health status of the people of Afghanistan have been achieved in recent years, but there are a number of challenges and constraints that must be addressed if continued progress is to be made, including: (i) inadequate financing for many of the key programs; (ii) reliance on external sources of funding; (iii) inadequately trained health workers; (iv) lack of qualified female health workers in rural areas; (v) dispersed population, geographical barriers and a lack of transportation infrastructure; (vi) low levels of utilization for certain health services, especially preventive services; (viii) variable levels of service quality; (ix) insecurity in some provinces, making it difficult for program implementation, recruitment and retention of staff, expan-
 
 The ANDS: An Overview
 
@@ -2047,7 +1886,9 @@ The ANDS: An Overview
 
 [[START OF PAGE 72]]
 
-Programs  have  been  designed  to  expand  and improve the system and to try and target vulnerable groups with preventive or curative programs.  The Ministry of Public Health (MoPH) will  review  and  develop  relevant  legal  and regulatory  mechanisms,  such  as  accreditation systems, that govern health and health related work  in  the  public  and  private  sectors.    The goal of the regulatory system will be to facilitate competitive and cost effective provision of services,  carrying  out  its  broader  mandate  to not only contract out service provision to civil and private groups but also to facilitate growth of  the  'for  profit'  sector.    The  MoPH  will  review,  develop  and  enforce  relevant  legal  and regulatory instruments that govern health and health related work to safeguard the public and ensure service quality.  The MoPH will work to identify, encourage, coordinate,  and  review and in some cases conduct relevant, useful research  that  can  assist  evidence-based  decision making  and  the  formulation  of  new  policies, strategies and plans.
+sion of service coverage and monitoring by the provincial and central levels; (x) lack of effective financial protection mechanisms for poor households to receive the care they need without experiencing financial distress; and (xi) lack of mechanisms for effective support to and regulation of for-profit private sector clinics and pharmacies.
+
+Programs have been designed to expand and improve the system and to try and target vulnerable groups with preventive or curative programs. The Ministry of Public Health (MoPH) will review and develop relevant legal and regulatory mechanisms, such as accreditation systems, that govern health and health related work in the public and private sectors. The goal of the regulatory system will be to facilitate competitive and cost effective provision of services, carrying out its broader mandate to not only contract out service provision to civil and private groups but also to facilitate growth of the ‘for profit’ sector. The MoPH will review, develop and enforce relevant legal and regulatory instruments that govern health and health related work to safeguard the public and ensure service quality. The MoPH will work to identify, encourage, coordinate, and review and in some cases conduct relevant, useful research that can assist evidence-based decision making and the formulation of new policies, strategies and plans.
 
 ###### Agriculture and Rural Development
 
@@ -2061,15 +1902,17 @@ The  second  main  component  of  the  strategy, the Agriculture and Rural Devel
 
 ###### Social Protection
 
-The ANDS strategic objective for social protection  is  to  assure  that  the  benefits  of  growth reach  the  poor  and  vulnerable,  either  through the  attention  to  these  groups  in  the  design  of programs  and  projects  aimed  at  stimulating growth or through well targeted support programs.  The social protection sector has significantly  improved  since  2002  in  all  areas:  social support, pension distribution and disaster preparedness.    Cash  transfer  benefits  have  been established  for  martyr's  families  and  the  disabled as the main instrument of the social support and national solidarity with the victims of the  war.    The  MoLSAMD  has  established  its departments in all provinces and strengthen its capacity  for  targeting  and  cooperating  with NGOs and donors.  Around 2.5 million people have  been  covered  with  some  type  of  public arrangement for social protection.  Efforts will now focus on: (i) improving efficiency of public arrangements  for  social  risk  management;  (ii) diversifying market-based arrangements for social  risk  management;  (iii)  strengthening  informal  arrangements  for  social  risk  management (iv) capacity building and restructuring in the MoLSAMD; and (vi) improving partnership with  civil  society  and  NGOs  to  enhance  aid coordination.    The  main  principle  for  future social support will be to enhance fiscal sustainability by focusing on the most vulnerable and supporting the 'poorest of the poor'.  Finally, strengthening the public/NGOs/private sector partnership will support the Government's intention  to  remain  mainly  in  the  area  of  policy making and providing regulations and having the  private  sector  and  NGOs  increasingly  involved in service delivery.
+The ANDS strategic objective for social protection is to assure that the benefits of growth reach the poor and vulnerable, either through the attention to these groups in the design of programs and projects aimed at stimulating growth or through well targeted support programs. The social protection sector has signifi-
 
 12
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 72]]
 
 [[START OF PAGE 73]]
+
+cantly improved since 2002 in all areas: social support, pension distribution and disaster preparedness. Cash transfer benefits have been established for martyr’s families and the disabled as the main instrument of the social support and national solidarity with the victims of the war. The MoLSAMD has established its departments in all provinces and strengthen its capacity for targeting and cooperating with NGOs and donors. Around 2.5 million people have been covered with some type of public arrangement for social protection. Efforts will now focus on: (i) improving efficiency of public arrangements for social risk management; (ii) diversifying market-based arrangements for social risk management; (iii) strengthening informal arrangements for social risk management (iv) capacity building and restructuring in the MoLSAMD; and (vi) improving partnership with civil society and NGOs to enhance aid coordination. The main principle for future social support will be to enhance fiscal sustainability by focusing on the most vulnerable and supporting the “poorest of the poor”. Finally, strengthening the public/NGOs/private sector partnership will support the Government’s intention to remain mainly in the area of policy making and providing regulations and having the private sector and NGOs increasingly involved in service delivery.
 
 ###### Refugees, returnees and internally displaced persons (IDPs)
 
@@ -2105,17 +1948,19 @@ Environmental protection efforts are geared to:  restoration  and  sustainable  
 
 ##### ENHANCING AID EFFECTIVENESS AND AID COORDINATION
 
-The Government has implemented processes to increase the monitoring of aid-funded activities and  to  improve  the  efficiency  of  implementation.  The Aid Coordination Unit in the Ministry  of  Finance  has  responsibility  for  issues  related to the delivery and monitoring of external assistance.  The Government would like to see increased  core  budget  support  (direct  budget support),  giving  greater  ownership  and  enabling  a  more  effective  allocation  of  resources based on needs and priorities.  Channeling aid through  established  trust  funds  is  also  effective, with the Government able to access funds on an as needed basis.  Pooling of donor funds also  significantly  reduces  the  duplication  of efforts  and  leads  to  better  coordination,  management, and effectiveness of aid.  This is especially so with technical assistance grants.
+The Government has implemented processes to increase the monitoring of aid-funded activities and to improve the efficiency of implementation. The Aid Coordination Unit in the Ministry of Finance has responsibility for issues related to the delivery and monitoring of external assistance. The Government would like to see increased core budget support (direct budget support), giving greater ownership and enabling a more effective allocation of resources based on needs and priorities. Channeling aid through established trust funds is also effective, with the Government able to access funds on an as needed basis. Pooling of donor funds also significantly reduces the duplication of
 
 14
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 74]]
 
 [[START OF PAGE 75]]
 
-Efforts  to  increase  capacity  to  implement  the Core Development Budget more efficiently will result  in  higher  donor  contributions,  aiding coordination.    Equally  important  is  the  Government's accountability to Afghan citizens on how  aid  funds  have  been  spent.    The  MoF's Public Expenditure Financial Accountability (PEFA)  framework  is  crucial  to  this  process. The ANDS provides the framework for priority aid delivery.  Aid delivery will be greatly improved  where  Government,  civil  society  and the  international  community  align  expenditures  with  the  ANDS  priorities.    Further,  the Government  will  work  with  civil  society  organizations and Provincial Reconstruction Teams  to  ensure  that  these  activities  are  also aligned with the ANDS priorities and goals.
+efforts and leads to better coordination, management, and effectiveness of aid. This is especially so with technical assistance grants.
+
+Efforts to increase capacity to implement the Core Development Budget more efficiently will result in higher donor contributions, aiding coordination. Equally important is the Government’s accountability to Afghan citizens on how aid funds have been spent. The MoF’s Public Expenditure Financial Accountability (PEFA) framework is crucial to this process. The ANDS provides the framework for priority aid delivery. Aid delivery will be greatly improved where Government, civil society and the international community align expenditures with the ANDS priorities. Further, the Government will work with civil society organizations and Provincial Reconstruction Teams to ensure that these activities are also aligned with the ANDS priorities and goals.
 
 ##### IMPLEMENTATION AND MONITORING OF THE ANDS
 
@@ -2169,7 +2014,9 @@ of the participatory requirements of the PRSP;
 
  lay the groundwork for a sustainable process, which would last beyond the life of the development of the full ANDS, and ensure regular inputs into Government decision-making processes, thereby creating a participatory process which will be institutionalized over time; and
 
- Strengthen the capacity of the Government to consult widely on its strategies, as well as to facilitate wider input into its policy-making.
+ Strengthen the capacity of the Government to  consult  widely  on  its  strategies,  as  well
+
+as  to  facilitate  wider  input  into  its  policymaking.
 
 The  consultation  process  was  designed  to  reflect  the  structures  of  Government at national, provincial  and  district  levels,  guided  by  the programmatic  structure provided in Figure 2.1. 8
 
@@ -2241,7 +2088,7 @@ National Consultation Process
 
 National Assembly / Sub-cabinet Committees
 
-Consultative Groups / Working Groups / Technical Working Groups
+Consultative Groups /Working Groups / Technical Working Groups
 
 Private Sector / Afghan Diaspora
 
@@ -2307,7 +2154,7 @@ Afghanistan National Development Strategy (ANDS )
 
 [[START OF PAGE 79]]
 
-Figure 2.2. ANDS timeline 1385 – 1388 (2006-2009)
+Figure 2.2. ANDS timeline 1385 - 1388 (2006-2009)
 
 ANDS
 
@@ -2397,7 +2244,13 @@ One Year of ANDS Iplementation (HIP)
 
 Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul Aug... Mar
 
-2006 2007 2008 2009
+2006
+
+2007
+
+2008
+
+2009
 
 ##### CONSULTATION PROCESS
 
@@ -2423,17 +2276,17 @@ plans, which were finally consolidated into 34  Provincial  Development  Plans  
 
  International Consultation Process :  Engagement  between  the  Government  and the international community has been substantially guided by the Bonn process which set high level political goals: the Securing Afghanistan Future exercise; the Afghanistan Compact and the MDG process.    The  international  community was involved  in  the  ANDS  consultation  process through the External Advisory Group (EAG).  Among other issues, this organ focuses  on  implementation  of  the  principles of the Paris Declaration.  The ANDS Secretariat  provides  support  to  these  structures to  enhance  coordination  and  effectiveness and the linkage with the national consultation process.  The international community was  extensively  involved  in  the  development and preparation of the ANDS.
 
- Consultation with the Civil Society, Private Sector and Media: The Government carried out extensive consultation with civil society groups, including: (a) the religious establishment; (b) village shuras10; (c) non governmental and not for profit agencies; (d) cultural associations; (e) human rights organizations; (f) grassroots associations related to women's affairs, youth development and disability; and (g) Water and Sanitation Committees (WATSAN). Six Afghan coordination bodies and partner NGOs were extensively engaged during the development of the Sector Strategies. Moreover, throughout the process the media has been actively reporting on the ANDS, through newspapers, TV, radio and internet. The role that civil society organizations have played at different levels as facilitators, communicators, advocates and monitors has been invaluable. 11 As part of the economic diagnostic and PDP work, provincial discussions were held to discuss the private sector development strategy in the five largest commercial cities, which culminated in the 'Enabling Environment Conference' held in Kabul in 1386 (June 2007).
+ Consultation with the Civil Society, Private Sector and Media: The Government carried out extensive consultation with civil society groups, including: (a) the religious establishment; (b) village shuras 10; (c) non governmental and not for profit agencies; (d) cultural associations; (e) human rights organizations; (f) grassroots associations related to women's affairs, youth development and disability; and (g) Water and Sanitation Committees (WATSAN). Six Afghan coordination bodies and partner NGOs were extensively engaged during the development of the Sector Strategies. Moreover, throughout the process the media has been actively reporting on the ANDS, through newspapers, TV, radio and internet. The role that civil society organizations have played at different levels as facilitators, communicators, advocates and monitors has been invaluable. 11 As part of the economic diagnostic and PDP work, provincial discussions were held to discuss the private sector development strategy in the five largest commercial cities, which culminated in the 'Enabling Environment Conference' held in Kabul in 1386 (June 2007).
 
 > 10 Traditional village councils.
 
-Poverty diagnostic consultations : The Government's  participatory  approach  to  poverty diagnostics  involved  enabling  poor  communities  and  their  institutions  to  participate  effectively  in  defining,  analyzing  and  monitoring poverty as they experience it.  This work was also conducted in the most remote and conflict affected  communities  of  Afghanistan.      In  so doing,  a  broader  choice  of  poverty  actions based on the specific concerns of the poor have been  established  for  each  province,  as  well  as each  district.  Government  has  considered  a range of poverty actions based on specific concerns of the poor including vulnerability, conflict  sensitivity,  insecurity  and  governance.  As a result of provincial and district planning, different targeting of poverty reduction programs/interventions  have  been  considered  to establish a best fit between poverty profile and poverty actions.
+Poverty diagnostic consultations: The Government's participatory approach to poverty diagnostics involved enabling poor communities and their institutions to participate effectively in defining, analyzing and monitoring poverty as they experience it. This work was also conducted in the most remote and conflict affected communities of Afghanistan. In so doing, a broader choice of poverty actions based on the specific concerns of the poor have been established for each province, as well as each district. Government has considered a range of poverty actions based on specific concerns of the poor including vulnerability, conflict sensitivity, insecurity and governance. As a result of provincial and district planning, different targeting of poverty reduction programs/interventions have been considered to establish a best fit between poverty profile and poverty actions.
 
 ##### PROVINCIAL DEVELOPMENT PLANS (PDPS)
 
 As part of the ANDS PDPs were developed for all 34 provinces of Afghanistan to provide a coordinated framework for the Government and the international community to undertake sector programs and projects at the sub-national level. The linking of consultation to the provincial based planning process has allowed local communities to prioritize, sequence, plan and be involved in the implemen-
 
-> 11 In addition to the feedback, comments and support of a number of  CSOs,  the  Agency  Coordinating  Body  for  Afghan  Relief (ACBAR)  and  the  Foundation  for  Culture  and  Civil  Society (FCCS) undertook extensive research in 12 provinces, contributing invaluable poverty data for the ANDS, as teams were sent to remote, poverty stricken areas in both rural and urban settings, in order to inform the sector strategies. This information was used in conjunction with findings from the National Risk and Vulnerability Assessment surveys over the past five years, to ensure that the ANDS policies are pro-poor and representative of the more disadvantaged segments of society.
+> 11 In addition to the feedback, comments and support of a number of CSOs, the Agency Coordinating Body for Afghan Relief (ACBAR) and the Foundation for Culture and Civil Society (FCCS) undertook extensive research in 12 provinces, contributing invaluable poverty data for the ANDS, as teams were sent to remote, poverty stricken areas in both rural and urban settings, in order to inform the sector strategies. This information was used in conjunction with findings from the National Risk and Vulnerability Assessment surveys over the past five years, to ensure that the ANDS policies are pro-poor and representative of the more disadvantaged segments of society.
 
 20
 
@@ -2461,7 +2314,7 @@ The PDPs have informed policy formulation, articulated goals and needs of the pe
 
 The  PDPs  contain  a  profile  of  each  province using information from both the National Risk and Vulnerability  Assessment  (NRVA)  and UNFPA's  Socio-Economic  and  Demographic Profiles, providing a geographic, poverty-based and social picture of the province and perspectives  on  the  state  of  provincial  development. Opportunities for poverty alleviation have been included  with  the  agreed  goals  and  needs  for each pillar.  This provides a guide to potential development  in  each  province;  especially  for the most urgent local needs.
 
-> 12 A nomad woman from Balkh province stated that this was the first  time  she  had  attended  the  meeting  on  behalf  of  nomad women of this province in order to present her opinions for the welfare and prosperity of the country. 'We would be glad if the government  continues  to  pursue  such  policy.  Nomads  like  any other people in the society would also benefit from this process'. Farida  Kochi,  representative  of  Balkh'  Source:  ANDS  Subnational Consultation, 1386 (2007).
+> 12 A nomad woman from Balkh province stated that this was the first time she had attended the meeting on behalf of nomad women of this province in order to present her opinions for the welfare and prosperity of the country. 'We would be glad if the government continues to pursue such policy. Nomads like any other people in the society would also benefit from this process'. Farida Kochi, representative of Balkh' Source: ANDS Sub-national Consultation, 1386 (2007).
 
 ###### Priority Projects
 
@@ -2491,7 +2344,7 @@ The Participatory Process
 
 ##### OUTCOMES FROM THE PROVINCIAL DEVELOPMENT PLANNING PROCESS
 
-One of the most valuable outcomes of the sub-national consultations was the clear indication that the 34 provinces have different development priorities. As outputs, the PDPs have formed an integral part of Government policy formation, prioritization, sequencing and needs-related resource allocation. In addition, two national overriding considerations emerged as critically important to any intervention: the importance of preserving the country's Islamic religious principles, culture and lifestyle and ensuring equity of access to resources and intervention.
+One of the most valuable outcomes of the subnational consultations was the clear indication that  the  34  provinces  have  different  development  priorities.  As  outputs,  the  PDPs  have formed an integral part of Government policy formation, prioritization, sequencing and needs- related resource allocation. In addition, two national overriding considerations emerged as critically important to any intervention: the importance of preserving the country's Islamic  religious  principles,  culture  and  lifestyle and ensuring equity of access to resources and intervention.
 
 Security emerged as a top priority in two thirds of the PDPs; most strongly in the south and the east of the country.  In these regions, security is perceived  as  the  fundamental  basis  on  which all other development depends.
 
@@ -2533,19 +2386,19 @@ Prioritization by ranking of sectors
 
 Prioritization of pillars overall
 
-0
-
-20
-
-40
-
-60
-
-80
+120
 
 100
 
-120
+80
+
+60
+
+40
+
+20
+
+0
 
 Agriculture
 
@@ -2565,7 +2418,7 @@ Infrastructure (e&w)
 
 Social Protection
 
-Table 2.4 shows the top priorities for provinces, shown for all 34 provinces. Thus in 17 out of 34 provinces security can be seen as the absolute number one priority. Roads is shown as a sub sector since people articulated this as a separate requirement from other infrastructure development (health is not mentioned because although it appears numerous times in the top five priorities for provinces, it is not considered the top priority in any province).
+Table 2.4 shows the top priorities for provinces, shown for all 34 provinces. Thus in 17 out of 34 provinces security can be seen as the absolute number one priority. Roads is shown as a sub sector since people articulated this as a separate requirement  from  other  infrastructure  development  (health  is  not  mentioned  because  although  it  appears  numerous  times  in  the  top five priorities for provinces, it is not considered the top priority in any province).
 
 Table 2.4. Sectors/pillars and the number of provinces in which they are a top priority
 
@@ -2579,7 +2432,7 @@ Roads | 3
 Agriculture | 2
 Governance | 1
 
-Figure 2.5. Top priorities of provinces – primary ranking
+Figure 2.5. Top priorities of provinces - primary ranking
 
 Jawzjan
 
@@ -2599,55 +2452,55 @@ Samangan
 
 Baghlan
 
-Panjshir
-
-Nooristan
-
 Badghis
-
-Bamyan
-
-Parwan
-
-Kapisa
-
-Kunar
 
 Herat
 
 Ghor
 
-Wardak
+Bamyan
 
-Kabul
+Panjshir
+
+Parwan
+
+Kapisa
+
+Nooristan
+
+Kunar
 
 Laghman
 
 Nangarhar
 
-Farah
+Kabul
 
-Daikundi
-
-Ghazni
+Wardak
 
 Logar
+
+Ghazni
 
 Paktika
 
 Khost
 
-Nimroz
+Paktia
 
-Helmand
-
-Kandahar
+Daikundi
 
 Uruzgan
 
 Zabul
 
-Paktia
+Kandahar
+
+Helmand
+
+Nimroz
+
+Farah
 
 16.5 Security
 
@@ -2673,7 +2526,7 @@ The Participatory Process
 
 [[START OF PAGE 84]]
 
-Figure 2.6. Top priorities of provinces – secondary ranking
+Figure 2.6. Top priorities of provinces - secondary ranking
 
 Jawzjan
 
@@ -2693,55 +2546,55 @@ Samangan
 
 Baghlan
 
-Panjshir
-
-Nooristan
-
 Badghis
-
-Bamyan
-
-Parwan
-
-Kapisa
-
-Kunar
 
 Herat
 
 Ghor
 
-Wardak
+Bamyan
 
-Kabul
+Panjshir
+
+Parwan
+
+Kapisa
+
+Nooristan
+
+Kunar
 
 Laghman
 
 Nangarhar
 
-Farah
+Kabul
 
-Daikundi
-
-Ghazni
+Wardak
 
 Logar
+
+Ghazni
 
 Paktika
 
 Khost
 
-Nimroz
+Paktia
 
-Helmand
-
-Kandahar
+Daikundi
 
 Uruzgan
 
 Zabul
 
-Paktia
+Kandahar
+
+Helmand
+
+Nimroz
+
+Farah
 
 14 Governance
 
@@ -2757,7 +2610,7 @@ Paktia
 
 1 Roads
 
-Figure 2.5. Top priorities of provinces – tertiary ranking
+Figure 2.5. Top priorities of provinces - tertiary ranking
 
 Jawzjan
 
@@ -2777,55 +2630,55 @@ Samangan
 
 Baghlan
 
-Panjshir
-
-Nooristan
-
 Badghis
-
-Bamyan
-
-Parwan
-
-Kapisa
-
-Kunar
 
 Herat
 
 Ghor
 
-Wardak
+Bamyan
 
-Kabul
+Panjshir
+
+Parwan
+
+Kapisa
+
+Nooristan
+
+Kunar
 
 Laghman
 
 Nangarhar
 
-Farah
+Kabul
 
-Daikundi
-
-Ghazni
+Wardak
 
 Logar
+
+Ghazni
 
 Paktika
 
 Khost
 
-Nimroz
+Paktia
 
-Helmand
-
-Kandahar
+Daikundi
 
 Uruzgan
 
 Zabul
 
-Paktia
+Kandahar
+
+Helmand
+
+Nimroz
+
+Farah
 
 12 Agriculture
 
@@ -2891,7 +2744,7 @@ The Government has undertaken extensive assessments  to  improve  understanding 
 
 ###### Data  Collection:  National  Risk  and Vulnerability Assessments
 
-Information on the specific nature of poverty in Afghanistan is restricted by the considerable quality and quantity limitations, with the NRVA comprising the majority of information available. These have been based on limited household surveys. The 2005 NRVA covered approximately 31,000 households, allowing national and provincial poverty rates to be assessed. While the 2005 NRVA survey was a substantial improvement on previous studies, it also had several weaknesses with only one
+Information on the specific nature of poverty in Afghanistan  is  restricted  by  the  considerable quality and quantity limitations, with the NRVA comprising the majority of information available.    These  have  been  based  on  limited household  surveys.    The  2005  NRVA  covered approximately 31,000 households, allowing national and provincial poverty rates to be assessed.    While  the  2005  NRVA  survey  was  a substantial  improvement  on  previous  studies, it  also  had  several  weaknesses  with  only  one season  being  covered.    To  overcome  this,  a separate survey conducted in spring 2007.
 
 The Poverty Profile
 
@@ -2901,9 +2754,7 @@ The Poverty Profile
 
 [[START OF PAGE 88]]
 
-season being covered. To overcome this, a separate survey conducted in spring 2007.
-
-Ongoing data collection includes the planned 2007/08 NRVA survey (predominantly funded by the EC). This study will cover all seasons and the consumption module includes assessment of more food items and non-food items. Moreover, stronger emphasis has been placed on survey design and the collection and computation of high quality of data.
+Ongoing  data  collection  includes  the  planned 2007/08 NRVA survey (predominantly funded by  the  EC).    This  study  will  cover  all  seasons and  the  consumption  module  includes  assessment of more food items and non-food items. Moreover,  stronger  emphasis  has  been  placed on survey design and the collection and computation of high quality of data.
 
 ###### Sub-national Consultation and the Pilot Participatory Poverty Assessment
 
@@ -2919,7 +2770,7 @@ Interviews by: MoWA, 2007
 
 The  Cost  of  Basic  Needs  (CBN)  poverty  line represents the level of per capita expenditure at which the members of a household can be expected to meet their basic needs comprised of food and non-food items. Adding the food and non-food  poverty  lines  the  poverty  analysis based  on  NRVA  2005  yielded  a  CBN  poverty line  for  Afghanistan  estimated  to  be  593  Afghani  per  capita  per  month  or  around  US$14 (at  2005  prices).    However,  the  2007  survey provides an updated CBN poverty line of 708 Afghani  per  capita  per  month  (again  around US$14 at the 2007 exchange rate).
 
-> 14 'A nomad woman from Balkh province stated that this was the first  time  she  had  attended  the  meeting  on  behalf  of  nomad women of this province in order to present her opinions for the welfare and prosperity of the country. 'We would be glad if the government  continues  to  pursue  such  policy.  Nomads  like  any other people in the society would also benefit from this process'. Farida  Kochi,  representative  of  Balkh'  Source:  ANDS  Subnational Consultation, 2007
+> 14 'A nomad woman from Balkh province stated that this was the first time she had attended the meeting on behalf of nomad women of this province in order to present her opinions for the welfare and prosperity of the country. 'We would be glad if the government continues to pursue such policy. Nomads like any other people in the society would also benefit from this process'. Farida Kochi, representative of Balkh' Source: ANDS Sub-national Consultation, 2007
 
 ##### POVERTY ESTIMATES
 
@@ -2935,28 +2786,35 @@ Afghanistan National Development Strategy (ANDS )
 
 Figure 3.2. Regional poverty comparisons
 
-0%
-
-10%
-
-20%
-
-30%
+50%
 
 40%
 
-50%
+30%
+
+20%
+
+10%
+
+0%
 
 Afghanistan
+
 (spring 2007)
 
 Nepal (2003)
 
-Bangladesh (2006)
+Bangladesh
 
-Pakistan (2004)
+(2006)
 
-Sri Lanka (2002)
+Pakistan
+
+(2004)
+
+Sri Lanka
+
+(2002)
 
 India (2004)
 
@@ -2976,7 +2834,7 @@ The 2005 NRVA highlighted that 20 percent of the population are located very clo
 
 > 15 Source: Understanding Poverty in Afghanistan, Analysis and recommendations using National Risk & Vulnerability Assessment (NRVA) 2005 and Spring 2007, WB, October 30, 2007.
 
-Table 3.4. Impact of consumption on poverty rate16
+Table 3.4. Impact of consumption on poverty rate 16
 
 Sector | Base case (% poverty) | 5% shock (% poverty) | 10% shock (% poverty)
 --- | --- | --- | ---
@@ -3030,7 +2888,7 @@ National | 45 | 42 | 39
 
 These disparities are reflected in primary school  enrollment  rates  (table  3.7),  though  in this  regards,  the  Kuchi  population  is  particularly disadvantaged.
 
-Table 3.7. Enrollment rates (ages 6-9)18
+Table 3.7. Enrollment rates (ages 6-9) 18
 
 Group | Female (%) | Male (%) | All (%)
 --- | --- | --- | ---
@@ -3045,7 +2903,7 @@ The rural population - who make up the majority of the poor - account for approx
 
 ###### Characteristics of Poverty among Kuchis
 
-Kuchis are nomadic pastoralists (estimated at 1.5 million people) and are heavily dependent on livestock and migration patterns for their livelihood. In recent years, 15 percent of Kuchi families have been forced to cease migration and settle. Kuchi poverty has many of the core characteristics of rural poverty although food insecurity is not as high as in the case of rural households (table 3.6). However, the poorest Kuchis are those who have settled. Reasons for settling include loss of livestock due to recent droughts and insecurity which disrupted traditional migratory routes. Moreover, the biggest cause of being settled is growing banditry and local crime as well as conflict with settled populations over grazing areas. The failure of local authorities to deal with disputes over traditional pasture rights has already led to num-
+Kuchis  are  nomadic  pastoralists  (estimated  at 1.5  million  people) and are heavily dependent on  livestock  and  migration  patterns  for  their livelihood.  In recent years, 15 percent of Kuchi families  have  been  forced  to  cease  migration and settle.  Kuchi poverty has many of the core characteristics  of  rural  poverty  although  food insecurity is not as high as in the case of rural households  (table  3.6).  However,  the  poorest Kuchis are those who have settled.  Reasons for settling  include  loss  of  livestock  due  to  recent droughts and insecurity which disrupted traditional migratory routes.  Moreover, the biggest cause of being settled is growing banditry and local  crime  as  well  as  conflict  with  settled populations over grazing areas.  The failure of local authorities to deal with disputes over traditional pasture rights has already led to number  of  conflicts  and  rising  poverty  among  Kuchis.
 
 > 18 Source: World Bank Staff Estimates based on 2005 NRVA.
 
@@ -3056,8 +2914,6 @@ Afghanistan National Development Strategy (ANDS )
 [[END OF PAGE 90]]
 
 [[START OF PAGE 91]]
-
-ber of conflicts and rising poverty among Kuchis.
 
 ###### Characteristics of Urban Poverty
 
@@ -3085,7 +2941,7 @@ Poverty is highly correlated with literacy skills. The  2005  NRVA  highlights  
 
 ###### Agriculture  and  livestock are positively correlated with poverty
 
-The poorest households are found to be dependent mainly on livestock and agriculture activities. The NRVA 2005 report found that agriculture and livestock activities are the largest contributors to poor household incomes. Meanwhile, households in the top two consumption quintals earn more from trade and services. Education and literacy are also highly
+The poorest households are found to be dependent mainly on livestock and agriculture activities. The NRVA 2005 report found that agriculture and livestock activities are the largest contributors to poor household incomes. Meanwhile, households in the top two consumption quintals earn more from trade and services. Education and literacy are also highly correlated with higher involvement in non-farming activities as is access to major roads.
 
 > 22 As a recent APPPA Final Report stated, 'We women have no rights or decision-making power. The men make decisions inside and outside the house. This is normal for us.' Female participant, Bai  Sar  Community,  Herat.  Source:  APPPA,    Final  Report, March 2008.
 
@@ -3096,8 +2952,6 @@ The Poverty Profile
 [[END OF PAGE 91]]
 
 [[START OF PAGE 92]]
-
-correlated with higher involvement in non-farming activities as is access to major roads.
 
 ###### Asset ownership and crop diversification
 
@@ -3207,7 +3061,7 @@ Maintaining macroeconomic stability including prudent fiscal policies is critica
 
 ###### Generating employment and labor market policies
 
-Given widespread low productivity employment and the large number of jobless, employment generation will be one of the most important policies for poverty reduction. An improved security and business environment will support stronger private sector growth, which will gradually become the main source of employment and the main instrument of poverty reduction. This requires expanding the mining and oil and gas sector. The Government, supported by the donors, will increase public work activities and their presence in the poorest provinces. The National Solidarity Program (NSP) will continue to play an important role in generating jobs and income for the rural poor. Skills development programs will expand to help the unemployed obtain in demand qualifications. Moreover, public ad-
+Given  widespread  low  productivity  employment  and  the  large  number  of  jobless,  employment  generation  will  be  one  of  the  most important  policies  for  poverty  reduction.    An improved  security  and  business  environment will  support  stronger  private  sector  growth, which will  gradually  become  the  main  source of  employment  and  the  main  instrument  of poverty  reduction.    This  requires  expanding the  mining  and  oil  and  gas  sector.    The  Government,  supported  by  the  donors,  will  increase public work activities and their presence in the poorest provinces.  The National Solidarity Program (NSP) will continue to play an important role in generating jobs and income for the  rural  poor.    Skills  development  programs will expand to help the unemployed obtain in demand  qualifications.    Moreover,  public  administration  will  employ  more  women  and disabled people.  Labor market regulation and the  pension  reforms  will  be  improved  to  provide protection from the employers, especially for workers engaged in the informal economy.
 
 34
 
@@ -3216,8 +3070,6 @@ Afghanistan National Development Strategy (ANDS )
 [[END OF PAGE 94]]
 
 [[START OF PAGE 95]]
-
-ministration will employ more women and disabled people. Labor market regulation and the pension reforms will be improved to provide protection from the employers, especially for workers engaged in the informal economy.
 
 ###### Education and health
 
@@ -3245,15 +3097,13 @@ Investments  in  water  management  and  irrigation will significantly contribut
 
 ###### Disaster  preparedness  and  community-based insurance schemes
 
-Natural disasters, particularly droughts and floods are one of the major sources of vulnerability among the poor. The NRVA 2005 highlighted the destruction of crops due to droughts represents a higher poverty risk than
+Natural  disasters,  particularly  droughts  and floods are one of the major sources of vulnerability among the poor.  The NRVA 2005 highlighted the destruction of crops due to droughts represents a higher poverty risk than sickness  or  loss  of  a  working  family  member. Building  more  efficient  disaster  preparedness and  response  will  decrease  the  risk  of  falling into  poverty.    Further,  the  Government  will initiate  the  establishment  of  community  based crop  insurance  schemes  to  enable  the  poor  to better mitigate the risks of losing harvest.
 
 The Poverty Profile 35
 
 [[END OF PAGE 95]]
 
 [[START OF PAGE 96]]
-
-sickness or loss of a working family member. Building more efficient disaster preparedness and response will decrease the risk of falling into poverty. Further, the Government will initiate the establishment of community based crop insurance schemes to enable the poor to better mitigate the risks of losing harvest.
 
 ###### Energy and transport
 
@@ -3319,26 +3169,26 @@ Macroeconomic Framework
 
 Table 4.1. Macroeconomic projections
 
- | 1385 2006/07 | 1386 2007/08 | 1387 2008/09 | 1388 2009/10 | 1389 2010/11 | 1390 2011/12 | 1391 2012/13
---- | --- | --- | --- | --- | --- | --- | ---
-Real sector | (annual percent change)
-Real GDP (excluding opium) | 6.1 | 13.5 | 9.0 | 9.0 | 8.0 | 7.7 | 7.0
-Nominal GDP (excluding opium) | 9.5 | 24.1 | 19.8 | 16.4 | 14.2 | 13.2 | 12.1
-Consumer Price Index | 5.1 | 9.8 | 10.2 | 7.2 | 6.0 | 5.4 | 5.0
-Fiscal sector | (percent of GDP)
-Total expenditures (A) | 21.55 | 22.6 | 23.0 | 24.2 | 23.5 | 22.6 | 22.0
-Revenues/Financing (B) (operating and development) | 20.1 | 21.2 | 21.5 | 22.5 | 22.6 | 21.7 | 21.4
-Budget balance (B minus A) | -1.4 | -1.4 | -1.5 | -1.8 | -0.9 | -0.9 | -0.6
-Fiscal sustainability indicator (domestic revenues as % of operating expenditures) | 66.3 | 67.0 | 69.9 | 72.0 | 82.9 | 91.4 | 100.1
-Monetary sector | (percent of GDP)
-Net foreign assets | 30.1 | 26.7 | 24.0 | 19.3 | 16.5 | 13.9 | 12.4
-Net domestic sales | -14.1 | -12.0 | -9.2 | -5.5 | -3.4 | -1.5 | -0.6
-External sector | (percent of GDP)
-Merchandise trade balance | -70.1 | -67.6 | -64.5 | -52.7 | -46.3 | -39.0 | -33.4
-Current account balance, including official transfers | -6.3 | -1.4 | -0.1 | -0.7 | -2.6 | -3.6 | -4.5
-Foreign direct investment | 3.4 | 3.3 | 3.3 | 3.4 | 3.9 | 4.0 | 4.1
-Memorandum items | (percent of GDP)
-External budget (= grants) | 55.4 | 54.5 | 51.6 | 38.0 | 30.8 | 23.6 | 18.0
+| | 1385 2006/07 | 1386 2007/08 | 1387 2008/09 | 1388 2009/10 | 1389 2010/11 | 1390 2011/12 | 1391 2012/13 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Real sector | (annual percent change) | | | | | | |
+| Real GDP (excluding opium) | 6.1 | 13.5 | 9.0 | 9.0 | 8.0 | 7.7 | 7.0 |
+| Nominal GDP (excluding opium) | 9.5 | 24.1 | 19.8 | 16.4 | 14.2 | 13.2 | 12.1 |
+| Consumer Price Index | 5.1 | 9.8 | 10.2 | 7.2 | 6.0 | 5.4 | 5.0 |
+| Fiscal sector | (percent of GDP) | | | | | | |
+| Total expenditures (A) | 21.55 | 22.6 | 23.0 | 24.2 | 23.5 | 22.6 | 22.0 |
+| Revenues/Financing (B) (operating and development) | 20.1 | 21.2 | 21.5 | 22.5 | 22.6 | 21.7 | 21.4 |
+| Budget balance (B minus A) | -1.4 | -1.4 | -1.5 | -1.8 | -0.9 | -0.9 | -0.6 |
+| Fiscal sustainability indicator (domestic revenues as % of operating expenditures) | 66.3 | 67.0 | 69.9 | 72.0 | 82.9 | 91.4 | 100.1 |
+| Monetary sector | (percent of GDP) | | | | | | |
+| Net foreign assets | 30.1 | 26.7 | 24.0 | 19.3 | 16.5 | 13.9 | 12.4 |
+| Net domestic sales | -14.1 | -12.0 | -9.2 | -5.5 | -3.4 | -1.5 | -0.6 |
+| External sector | (percent of GDP) | | | | | | |
+| Merchandise trade balance | -70.1 | -67.6 | -64.5 | -52.7 | -46.3 | -39.0 | -33.4 |
+| Current account balance, including official transfers | -6.3 | -1.4 | -0.1 | -0.7 | -2.6 | -3.6 | -4.5 |
+| Foreign direct investment | 3.4 | 3.3 | 3.3 | 3.4 | 3.9 | 4.0 | 4.1 |
+| Memorandum items | (percent of GDP) | | | | | | |
+| External budget (= grants) | 55.4 | 54.5 | 51.6 | 38.0 | 30.8 | 23.6 | 18.0 |
 
 ##### LINKING GROWTH WITH POVERTY REDUCTION AND EMPLOYMENT CREATION
 
@@ -3361,6 +3211,7 @@ Afghanistan National Development Strategy (ANDS )
 [[END OF PAGE 100]]
 
 [[START OF PAGE 101]]
+
 age points – from 42 percent of the population in 1386 to 22 percent in 1391.26
 
 Sustainable growth rates : High growth rates in the past few years were mainly supported by foreign  assistance  and  related  activities  (e.g. construction).    Although  GDP  figures  do  not include  the  opium  economy,  this  sector  has nonetheless  provided  job  opportunities  and some  degree  of  poverty  reduction.    However, dependence on foreign assistance and the opium economy will not be sustainable in the medium-term.    A  shift  to  private  sector  led economic growth will be crucial.
@@ -3369,20 +3220,29 @@ Quality  growth  rates :  The  results  of  high growth should achieve correspon
 
 > 26 Preliminary work done by World Bank, based on NRVA 2005 data.  Elasticity  of  growth  on  poverty  reduction  calculated  using Bourguinon's method.
 
-
-
-###### State  of  the  economy  and  constraints to growth
+###### State of the economy and constraints to growth
 
 Economic  growth  has  been  high  but  volatile. Between  1381  and  1385,  (2002-06)  the  annual average growth rate was 11.7 percent, the highest in the region.  The growth rate of industry and services were either constant or accelerating,  while  agricultural  growth  has  remained volatile (Figure 4.1). Sectoral  breakdowns show that while growth rates of industry and services were constant or accelerating, those of agriculture  have  experienced  high  volatility. Cereal production, which accounts for approximately  75  percent  of  agricultural  output, is susceptible to weather conditions.  In industries,  manufacturing and construction (heavily supported by reconstruction activities and foreign assistance) contributed equally to growth. However,  in  manufacturing,  'food,  beverage and  tobacco'  is  dominant  with  few  other  significant  categories.    Services,  transportation, government services, and wholesale and retail trading  also  account  for  significant  contributions to economic growth rates.  This suggests that  agriculture  and  its  related  sectors  (manufacturing of food, beverages and tobacco along with  transportation,  trade,  and  services)  are currently  the  dominant  activities  in  the  economy.
+
 Figure 4.2. Contribution to growth rates
 
-Scale: 20%, 15%, 10%, 5%, 0%, -5%, -10%
+20%
+15%
+10%
+5%
+0%
+-5%
+-10%
 
 | | SY1382 | Sy1383 | Sy1384 | Sy1385 |
-| --- | --- | --- | --- | --- |
-| Services | 5.2% | 6.1% | 5.8% | 7.3% |
-| Agriculture | 1.9% | 6.3% | 5.7% | 5.4% |
+|---|---|---|---|---|
 | Industry | 7.0% | -3.9% | 3.1% | -8.6% |
+| Agriculture | 1.3% | 6.3% | 5.7% | 5.4% |
+| Services | 5.2% | 6.1% | 5.8% | 7.3% |
+
+Services
+Agriculture
+Industry
 
 Source: Central Statistics Office, Ministry of Finance
 
@@ -3476,9 +3336,19 @@ Afghanistan National Development Strategy (ANDS )
 
 Figure 4.4. Size of foreign assistance
 
-Scale: 0%, 10%, 20%, 30%, 40%, 50%, 60%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
 
-Sy1382 | Sy1383 | Sy1384 | Sy1385 | Sy1386 Budget
+Sy1382
+Sy1383
+Sy1384
+Sy1385
+Sy1386 Budget
 
 External budget
 Core budget
@@ -3496,7 +3366,7 @@ Afghanistan faces daunting challenges to achieve  high,  sustainable  and  quali
 Figure 4.5. The Evolving Informal Equilibrium
 
 External Aid: Most Off-Budget Doesn’t Build Sustainable Government
-Drug Industry, Warlords-Turned-Politicians
+Drug Industry Warlords-Turned-Politicians
 Weak capacity, poor governance
 Government Facing Risks of Corruption
 Corruption undermines rule of law
@@ -3528,11 +3398,26 @@ The  average  annual  economic  growth  rate  is projected  to  be  8.1  percent
 
 Figure 4.6. Medium term growth projections
 
-Scale: 15%, 10%, 5%, 0%, -5%, -10%
+15%
+10%
+5%
+0%
+-5%
+-10%
 
-Sy1385 | Syy1386 | Sy1387 | Sy1388 | Sy1389 | Sy1390 | Sy1391
+Agriculture
+Industry
+Service
+Residual
 
-Agriculture | Industry | Service | Residual
+Sy1385
+Syy1386
+Sy1387
+Sy1388
+Sy1389
+Sy1390
+Sy1391
+
 Projection
 
 A  key  assumption  underlying  this  ambitious growth  projection  is  an  increasing  role  of  the private sector over the projection period.  This assumption is based on the understanding that strong  private  sector  development  better  contributes  to  creating  employment  and  hence poverty  reduction.    Under  the  current  environment  (i.e.  the  evolving  informal  equilibrium), it is essential to break the informal equilibrium using the following strategies:
@@ -3561,7 +3446,7 @@ Afghanistan National Development Strategy (ANDS )
 
 - o The counter-narcotics dimension should  be  mainstreamed  into  development program.
 
- Improving  macroeconomic  policy  management  and  aid  effectiveness :  It  is  very important  that  macroeconomic  policy  formulation  is  transparent  and  avoids  shortterm  ad-hoc  measures.    Some  strategies could include:
+ Improving  macroeconomic  policy  management  and  aid  effectiveness :  It  is  very important  that  macroeconomic  policy  formulation  is  transparent  and  avoids  short-term  ad-hoc  measures.    Some  strategies could include:
 
 - o Further strengthening coordination among relevant line ministries. It is important that line ministries share the same view regarding the direction of macroeconomic policy;
 
@@ -3579,7 +3464,7 @@ In order to break the evolving informal equilibrium, we must also ameliorate spe
 
 - o Improving distribution system.
 
- Access  to  land :  Implement  measures  to facilitate access to land by clarifying property  rights,  simplifying  procedures  for  the transfer  of  titles,  and  allowing  for  longerterm leases. Specific strategies include:
+ Access  to  land :  Implement  measures  to facilitate access to land by clarifying property  rights,  simplifying  procedures  for  the transfer  of  titles,  and  allowing  for  longer-term leases. Specific strategies include:
 
 - o Developing a strategy for industrial parks;
 
@@ -3595,7 +3480,7 @@ In order to break the evolving informal equilibrium, we must also ameliorate spe
 
 - o Increasing the availability of financial services in rural areas.
 
-Scaling up of industrial parks is a possible short-term solution : Although in the medium-term the Government should tackle the abovementioned issues, in the short-term
+Scaling up of industrial parks is a possible  short-term  solution :  Although  in  the medium-term  the  Government  should  tackle the  abovementioned  issues,  in  the  short-term
 
 > 31 See  the  Government's 'Policy for Private Sector Growth and Development',  presented  at  the  Enabling  Environment  Conference, June 2007.
 
@@ -3606,7 +3491,8 @@ Macroeconomic Framework
 [[END OF PAGE 105]]
 
 [[START OF PAGE 106]]
-the government could work to 'scale up' and maximizing the effectiveness of Industrial Parks. This could provide investors and entrepreneurs with security, access to land, infrastructure (power, water, convenient transport) and some insulation from red tape and corruption, at least on an 'enclave' basis.
+
+the government could work to 'scale up' and maximizing the effectiveness of Industrial Parks. This could provide investors and entrepreneurs  with  security,  access  to  land,  infrastructure  (power,  water,  convenient  transport) and some insulation from red tape and corruption, at least on an 'enclave' basis.
 
 Opportunities and Risks : There exist several potential  exogenous  shocks  which  could  seriously affect growth projections.  Shocks such as drought  pose  a  serious  threat  to  an  economy dependant  on  agriculture.    Insecurity  too  can harm  private  sector  development,  investment, employment  creation,  and  reconstruction  efforts,  which  could  have  a  negative  impact  on overall  growth.    Finally,  global  economic  conditions pose serious risks for the Afghan economy.    A  precipitous  rise  in  oil  prices  would hamper  economic  growth  especially  via  the private sector.  Also possible slowdowns in the global  economy  and  donor  fatigue  also  pose risks.
 
@@ -3624,7 +3510,7 @@ Fiscal  policy  remains  a  key  policy  instrument for macroeconomic stability,
 
 > 32 The Investment Climate in Afghanistan: Exploiting Opportunities in an Uncertain Environment (World Bank, 2005).
 
-The  Government  continues  efforts  to  increase revenues by improving revenue administration and enforcement and broadening the tax base. This  will  be  essential  for  achieving  fiscal  sustainability, delivering priority development expenditures  and  a  reduction  in  aid  dependency.  Without  domestic  revenue  mobilization Afghanistan will remain heavily dependent on external  support  over  the  long-term.    The  domestic  revenue  to  GDP  ratio  is  expected  to reach  8.2  percent  in  2007,  which  substantially exceeds  the  revenue  target  in  the  Afghanistan Compact for 2010. 33     Although  domestic  revenue is expected to reach 10.7 percent of GDP in 1391 (Figure 4.6),  Afghanistan's  revenue-toGDP  ratio  still  is  among  the  lowest  in  the world, requiring sustained commitment to pursue  revenue  reforms.    In  the  medium-term,  a broad-based consumption tax will play an important role in domestic revenue mobilization. In order to accomplish this, broadening the tax base,  improvements  in  tax  policy,  administration and enforcement will be implemented.  In this  regard an immediate high priority for the Government  is  the  enactment  of  the  amendments  to  the  income  tax  law  by  National  Assembly.  Progress in domestic revenue mobilization  in  coming  years  will  enable  the  Government to be less dependent on foreign assistance.  New tax measures will focus equally on improving  the  revenue  intake,  while  simultaneously  reducing  the  cost  of  doing  business, improving  the  country's  investment  environment and enhancing competitiveness.
+The  Government  continues  efforts  to  increase revenues by improving revenue administration and enforcement and broadening the tax base. This  will  be  essential  for  achieving  fiscal  sustainability, delivering priority development expenditures  and  a  reduction  in  aid  dependency.  Without  domestic  revenue  mobilization Afghanistan will remain heavily dependent on external  support  over  the  long-term.    The  domestic  revenue  to  GDP  ratio  is  expected  to reach  8.2  percent  in  2007,  which  substantially exceeds  the  revenue  target  in  the  Afghanistan Compact for 2010. 33     Although  domestic  revenue is expected to reach 10.7 percent of GDP in 1391 (Figure 4.6),  Afghanistan's  revenue-to-GDP  ratio  still  is  among  the  lowest  in  the world, requiring sustained commitment to pursue  revenue  reforms.    In  the  medium-term,  a broad-based consumption tax will play an important role in domestic revenue mobilization. In order to accomplish this, broadening the tax base,  improvements  in  tax  policy,  administration and enforcement will be implemented.  In this  regard an immediate high priority for the Government  is  the  enactment  of  the  amendments  to  the  income  tax  law  by  National  Assembly.  Progress in domestic revenue mobilization  in  coming  years  will  enable  the  Government to be less dependent on foreign assistance.  New tax measures will focus equally on improving  the  revenue  intake,  while  simultaneously  reducing  the  cost  of  doing  business, improving  the  country's  investment  environment and enhancing competitiveness.
 
 > 33 In the Afghanistan Compact, revenues are projected to exceed 8 percent of GDP in 1389.
 
@@ -3642,12 +3528,28 @@ Consistent  with  the  growth  strategy  of  the Government,  the  prioritizatio
 
 Figure 4.7. Domestic revenues and operating expenditures as a percent of GDP
 
+14.0
+12.0
+10.0
+8.0
+6.0
+4.0
+2.0
+0.0
+
 Percent of GDP
-Scale: 0.0, 2.0, 4.0, 6.0, 8.0, 10.0, 12.0, 14.0
 
-Year: 1385 | 1386 | 1387 | 1388 | 1389 | 1390 | 1391
+1385
+1386
+1387
+1388
+1389
+1390
+1391
 
-Operating expenditures | - Domestic revenues
+Year
+Operating expenditures
+- Domestic revenues
 
 The Government is taking measures to improve the  overall  absorption  capacity  and  execution of projects in these sectors through more effective  public  finance  management  and  efficient project  management  methods.    Key  public  finance  management  reforms  include  introduction  of  the  medium  term  budget  framework (MTBF),  program  and  provincial  budgeting. Other  Government  reforms  are  targeting  project  preparation  and  management,  as  well  as procurement  procedures.    The  overall  development budget execution rate has been steadily increasing - the core development expenditure rate  for  1385  increased  to  54  percent  from  31 percent  in  1383.    The  public  finance  management  reforms  and  prioritization  process  are expected to improve the overall fiscal situation and  improve  the  quality  of  public  expenditures.  Significantly higher execution rates and improved quality of public expenditures in key sectors over the medium term in turn will improve the growth and development process in the country.
 
@@ -3665,12 +3567,26 @@ Core budget expenditures will remain constant at about 25 percent of GDP althoug
 
 Figure 4.8. Domestic revenues versus operating expenditures
 
+2,500
+2,000
+1,500
+1,000
+500
+-
+
 Million of USD
-Scale: -, 500, 1,000, 1,500, 2,000, 2.500
 
-Year: 1385 | 1386 | 1387 | 1388 | 1389 | 1390 | 1391
+1385
+1386
+1387
+1388
+1389
+1390
+1391
 
-Operating expenditures | - Domestic revenues
+Year
+Operating expenditures
+- Domestic revenues
 
 Fiscal sustainability is essential to ensure macroeconomic  stability.    The  operating  budget balance  (excluding  grants)  is  projected  to  improve  from  a  deficit  of  4.4  percent  of  GDP  in 1386  to  a  balanced  budget  1391  (Figure  4.7). This requires that the donor grants to the operating  budget  (e.g.  Afghanistan  Reconstruction Trust Fund) will free up domestic revenues for key development expenditures after 1391.
 
@@ -3680,7 +3596,7 @@ Prudent debt management will continue to be essential  as  Afghanistan  moves  t
 
 ##### MONETARY POLICY
 
-Consistent with DAB's medium to long-term strategic objectives in conducting monetary
+Consistent  with  DAB's  medium  to  long-term strategic objectives in  conducting  monetary
 
 48
 
@@ -3689,7 +3605,8 @@ Afghanistan National Development Strategy (ANDS )
 [[END OF PAGE 108]]
 
 [[START OF PAGE 109]]
-policy, it will remain vigilant against inflation. The main goal is to maintain core inflation at single digit levels, preferably between 2.5 to 4 percent, although this will continue to be a great challenge. 35
+
+policy, it will remain vigilant against inflation. The  main  goal  is  to  maintain  core  inflation  at single  digit  levels,  preferably  between  2.5  to  4 percent,  although  this  will  continue  to  be  a great challenge. 35
 
 Nominal exchange rates are expected to remain constant  at  around  Afs  50  against  US  dollar. Stable exchange rates will contribute to contain inflationary  pressure  from  imported  products as well as provide predictability to the private sector.  Nevertheless, stable nominal exchange rates  imply  the  appreciation  of  the  real  exchange rates.  In the short-term, the impacts on the  appreciation  of  the  real  exchange  rates would not significantly hurt competitiveness as other  costs  associated  with  security  and  electricity  seem  bigger  than  the  negative  impacts on  the  exchange  rate  appreciation.    However, the  Government  will  keep  its  eyes  on  the  impact  of  real  exchange  rate  appreciation  for competitiveness in the medium-term.
 
@@ -3717,9 +3634,9 @@ Macroeconomic Framework
 
 ###### External sector
 
-Exports  are  unlikely  to  increase  substantially from the current very low base. Afghanistan's exports are currently dominated by low valueadded agricultural exports and carpets. Scaling up  the  export  base  would  require  significant FDI (Foreign Direct Investment) inflows. Under the current situation, FDI is concentrated in the telecommunications  sector  and  the  financial sector,  which  are  not  export-oriented  industries. Large scale exploitation of copper, natural gas, petroleum and precious minerals will help in  the  medium  and  long  term,  although  investments in this sector are relatively lumpy.
+Exports  are  unlikely  to  increase  substantially from the current very low base. Afghanistan's exports are currently dominated by low value-added agricultural exports and carpets. Scaling up  the  export  base  would  require  significant FDI (Foreign Direct Investment) inflows. Under the current situation, FDI is concentrated in the telecommunications  sector  and  the  financial sector,  which  are  not  export-oriented  industries. Large scale exploitation of copper, natural gas, petroleum and precious minerals will help in  the  medium  and  long  term,  although  investments in this sector are relatively lumpy.
 
-The Current Account Balance, excluding the reexport  of  goods,  is  likely  to  decline  over  the projected  phase.  This  is  largely  due  to  an  anticipated  decline  in  the  imports-to-GDP  ratio, particularly for manufacturing consumed goods.  In  the  outer  years,  local  products  and services are expected to become a more significant factor in Afghanistan's economy.
+The Current Account Balance, excluding the re-export  of  goods,  is  likely  to  decline  over  the projected  phase.  This  is  largely  due  to  an  anticipated  decline  in  the  imports-to-GDP  ratio, particularly for manufacturing consumed goods.  In  the  outer  years,  local  products  and services are expected to become a more significant factor in Afghanistan's economy.
 
 ##### FINANCING THE ANDS
 
@@ -3731,23 +3648,23 @@ These  sectoral  expenditure  ceilings  reflect  the fact that security will rem
 
 Table 4.9. Overall Financing Envelope for the ANDS 1387-1391 (2008-2013)
 
-| | 1387 2008/09 US$m | 1388 2009/10 US$m | 1389 2010/11 US$m | 1390 2011/12 US$m | 1391 2012/13 US$m | Total US$m
---- | --- | --- | --- | --- | --- | ---
-Core + External Budget Funding
-Domestic Revenue | 887 | 1,104 | 1,351 | 1,611 | 1,911 | 6,864
-Total Assistance from Donors* | 6,513 | 4,960 | 4,814 | 4,398 | 3,908 | 24,593
-Total Funding* | 7,400 | 6,064 | 6,165 | 6,009 | 5,819 | 31,457
-Budgeted Core + External Expenditure
-Security | 3219 | 2585 | 2679 | 2790 | 2906 | 14179
-Infrastructure | 1781 | 3093 | 3681 | 4180 | 4451 | 17185
-Agriculture and Rural Development | 829 | 921 | 916 | 909 | 912 | 4486
-Education and Culture | 742 | 893 | 980 | 1077 | 1181 | 4872
-Good Governance and Rule of Law | 374 | 558 | 640 | 685 | 728 | 2985
-Health & Nutrition | 325 | 465 | 530 | 563 | 595 | 2478
-Economic Governance & PSD | 237 | 215 | 230 | 244 | 260 | 1186
-Social Protection | 192 | 359 | 394 | 421 | 449 | 1815
-Others (Sub Codes) | 205 | 198 | 185 | 170 | 157 | 915
-Total Expenditure | 7,903 | 9,286 | 10,236 | 11,038 | 11,637 | 50,100 36
+| | 1387 2008/09 US$m | 1388 2009/10 US$m | 1389 2010/11 US$m | 1390 2011/12 US$m | 1391 2012/13 US$m | Total US$m |
+|---|---|---|---|---|---|---|
+| Core + External Budget Funding | | | | | | |
+| Domestic Revenue | 887 | 1,104 | 1,351 | 1,611 | 1,911 | 6,864 |
+| Total Assistance from Donors* | 6,513 | 4,960 | 4,814 | 4,398 | 3,908 | 24,593 |
+| Total Funding* | 7,400 | 6,064 | 6,165 | 6,009 | 5,819 | 31,457 |
+| Budgeted Core + External Expenditure | | | | | | |
+| Security | 3219 | 2585 | 2679 | 2790 | 2906 | 14179 |
+| Infrastructure | 1781 | 3093 | 3681 | 4180 | 4451 | 17185 |
+| Agriculture and Rural Development | 829 | 921 | 916 | 909 | 912 | 4486 |
+| Education and Culture | 742 | 893 | 980 | 1077 | 1181 | 4872 |
+| Good Governance and Rule of Law | 374 | 558 | 640 | 685 | 728 | 2985 |
+| Health & Nutrition | 325 | 465 | 530 | 563 | 595 | 2478 |
+| Economic Governance & PSD | 237 | 215 | 230 | 244 | 260 | 1186 |
+| Social Protection | 192 | 359 | 394 | 421 | 449 | 1815 |
+| Others (Sub Codes) | 205 | 198 | 185 | 170 | 157 | 915 |
+| Total Expenditure | 7,903 | 9,286 | 10,236 | 11,038 | 11,637 | 50,100 36 |
 
 * Based on discussions with donors and the 1386 (2007) financial review
 
@@ -3801,30 +3718,31 @@ NATO  is  currently  the  major  force  through which the International Communit
 
 ###### Terrorism and illegally armed groups
 
-The major challenges to stability are terrorism-related, due to the revival of the Taliban in the south and southeast. The Government's security forces and their international partners will focus on fighting terrorism, illegally armed
+The major challenges to stability are terrorism-related, due to the revival of the Taliban in the south  and  southeast.  The  Government's  security forces and their international partners will focus  on  fighting  terrorism,  illegally  armed
 
 Security 53
 
 [[END OF PAGE 113]]
 
 [[START OF PAGE 114]]
-groups and neutralizing armed elements operating along the borders. Given that many of these groups receive support from foreign sources, both regional cooperation and diplomatic initiatives are vital. To defeat terrorism, new strategies attuned with political objectives of the Government are being adopted, such as strengthening the effectiveness of ISAF and Coalition Forces assistance. This includes special attention to building the professional capabilities of Afghan security forces designed to defeat terrorism and to render assistance to victims of war and avoid civilian casualties. The government aims at strengthening its ownership over law enforcement to effectively overcome internal security problems. Furthermore, combating criminal activity and increased narcotics production are integrated components of the security strategy.
+
+groups and neutralizing armed elements operating  along  the  borders.  Given  that  many  of these groups receive support from foreign sources,  both  regional  cooperation  and  diplomatic initiatives are vital.  To defeat terrorism, new strategies attuned with political objectives of the Government are being adopted, such as strengthening  the  effectiveness  of  ISAF  and Coalition Forces assistance.  This includes special attention to building the professional capabilities  of  Afghan  security  forces  designed  to defeat  terrorism  and  to  render  assistance  to victims  of  war  and  avoid  civilian  casualties. The government aims at strengthening its ownership over law enforcement to effectively overcome  internal  security  problems.  Furthermore, combating criminal activity and increased narcotics production are integrated components of the security strategy.
 
 Countering  a  terror-dominated  Taliban  and illegally armed groups is an extremely complex form of warfare.  In many ways it is a competition for the support of the population.  The active  support  of  the  Afghan  people  is  vital  to success.  This demands a firm political will and substantial persistence by the Government and the Afghan people, and unwavering long term commitment  and  patience  from  the  international community.  Government legitimacy is a pre-requisite  if  we  are  to  isolate  the  Taliban. The Government's support and legitimacy will increase  only  if  we  can  assure  the  security  of the  people  and  provide  them  with  the  basic necessities  of  life:  food,  water,  shelter,  healthcare and the means to make a living.  The use of excessive force in operations should  be avoided,  targets  should  be  accurately  identified, and collateral damage  and  especially casualties among civilians be avoided as much as possible.
 
 ###### Narcotics
 
-Poppy cultivation and production of narcotics poses  a  serious  challenge  to  Afghanistan's  security.    The  high  level  corruption  that  enables the narcotics industry to thrive endangers foreign  assistance  to  development.    Huge  revenues  from  opium  and  production  of  narcotics have  drawn  in  terrorist  elements,  organizedcrime  groups  and  extremists.    Revenues  from opium and drug trafficking is also a considerable  source  of  funding  to  remnants  of  illegal armed groups.  The Government's strategy coordinates  international  efforts  with  Government  plans  and  addresses  issues  such  as  the development  of  economic  infrastructure,  demand reduction, poppy eradication, countering drug  trafficking  and  establishing  alternative livelihood  programs.    As  the  police  are  reformed and the judicial system strengthened, a major effort will be made to reduce corruption, better  policing  officials  involved  in  cultivation and interfering with eradication efforts.
+Poppy cultivation and production of narcotics poses  a  serious  challenge  to  Afghanistan's  security.    The  high  level  corruption  that  enables the narcotics industry to thrive endangers foreign  assistance  to  development.    Huge  revenues  from  opium  and  production  of  narcotics have  drawn  in  terrorist  elements,  organized-crime  groups  and  extremists.    Revenues  from opium and drug trafficking is also a considerable  source  of  funding  to  remnants  of  illegal armed groups.  The Government's strategy coordinates  international  efforts  with  Government  plans  and  addresses  issues  such  as  the development  of  economic  infrastructure,  demand reduction, poppy eradication, countering drug  trafficking  and  establishing  alternative livelihood  programs.    As  the  police  are  reformed and the judicial system strengthened, a major effort will be made to reduce corruption, better  policing  officials  involved  in  cultivation and interfering with eradication efforts.
 
 ###### Illegal Armed Groups
 
-Wars  and  violence  have  turned  Afghanistan into  a  fully  armed  society  where  people  use guns  to  earn  a  living  or  to  control  resources. Illegally  armed  groups  pose  a  direct  threat  to national  security.    The  long-term  presence  of illegal  armed  groups  in  different  parts  of  the country is obstructing Government  control, hindering development of local democratic institutions  and  posing  a  serious  threat  to  national  unity.    They  are  obstacles  to  the  rule  of law  and  stand  in  the  way  of  social  and  economic  development.    Many  commanders  of illegal armed groups have close links with police or even belong to local governments.  This situation  enhances  corruption  and  is  considered  a  key  obstacle  in  cracking  down  on  the narcotics  industry.    Unless  the  Government  is able  to  provide  adequate  security  with  police presence  in  every  village  and  district,  people will feel the need to keep guns for selfprotection.  People are now required to have a license to carry arms and this law needs to be enforced effectively.
+Wars  and  violence  have  turned  Afghanistan into  a  fully  armed  society  where  people  use guns  to  earn  a  living  or  to  control  resources. Illegally  armed  groups  pose  a  direct  threat  to national  security.    The  long-term  presence  of illegal  armed  groups  in  different  parts  of  the country is obstructing Government  control, hindering development of local democratic institutions  and  posing  a  serious  threat  to  national  unity.    They  are  obstacles  to  the  rule  of law  and  stand  in  the  way  of  social  and  economic  development.    Many  commanders  of illegal armed groups have close links with police or even belong to local governments.  This situation  enhances  corruption  and  is  considered  a  key  obstacle  in  cracking  down  on  the narcotics  industry.    Unless  the  Government  is able  to  provide  adequate  security  with  police presence  in  every  village  and  district,  people will feel the need to keep guns for self-protection.  People are now required to have a license to carry arms and this law needs to be enforced effectively.
 
 The  Disbandment  of  Illegal  Armed  Groups (DIAG)  and  the  continuation  of  the  Disarmament,  Disintegration  and  Rehabilitation  program (DDR), is the first step in disarming illegal  armed  groups.  The  existence  of  arms  and ammunition  caches  and mines in different parts of Afghanistan also pose a threat, because opponents of the government can use them for terrorist operations. The government -in cooperation  with  international  organizations  -  is trying to  garner  support  from local  communities to get rid of these arms caches.
 
 ###### Mines  and  Explosive  Remnants  of War (ERW)
 
-Mines and other ERWs are major obstacles to infrastructure and economic reconstruction. The benchmark for locating and destroying all
+Mines and other  ERWs are  major  obstacles  to infrastructure and economic reconstruction. The benchmark for locating and destroying all
 
 54
 
@@ -3833,27 +3751,26 @@ Afghanistan National Development Strategy (ANDS)
 [[END OF PAGE 114]]
 
 [[START OF PAGE 115]]
-stockpiles of anti-personnel mines was reached in 1386 (October 2007). However the existence of mines and explosives still pose a threat to the lives of four million Afghans. Only two provinces have been completely cleared of mines. Statistics have shown that about 5,000 Afghans have been either killed or wounded in mine explosions since 1380 (2001). Unknown arms and ammunition caches and mines in different parts of Afghanistan pose an additional threat because opponents of the Government can use these for terrorist operations.
+
+stockpiles of anti-personnel mines was reached in 1386 (October 2007).  However the existence of  mines  and  explosives  still  pose  a  threat  to the  lives  of  four  million  Afghans.    Only  two provinces have  been  completely  cleared of mines.  Statistics  have  shown that about 5,000 Afghans have been either killed or wounded in mine  explosions  since  1380  (2001).    Unknown arms and ammunition caches and mines in different parts of Afghanistan pose an additional threat  because  opponents  of  the  Government can use these for terrorist operations.
 
 ##### POLICY FRAMEWORK
 
 The  National  Security  Policy  is  drafted  for  a period  of  five  years  and  reviewed  annually. The policy contains two interrelated strategies: National Security Strategy and Security Sector Reforms Strategy.
 
-The  Security  Sector  Reforms  Strategy  establishes  a  mechanism  to  regulate  relations  between  ministries  and  departments  to  ensure effective coordination. The policy encompasses the functions of other government departments including the legislative, judiciary and law enforcement.  The  reforms  establish  responsibilities and coordination in the security sector for implementation  of  programs  and  give  guidelines for planning, prioritization, assessment of resources,  and  operations.  Sustained  financial support  is  needed  to  avoid  compromising  either  development  or  security  objectives.  The OECD  DAC  Implementation-Framework  for Security Sector Reform provides a useful framework  for  increasing  national  ownership and  laying  out  the  core  elements  of  a  'rightfinancing' framework.37
+The  Security  Sector  Reforms  Strategy  establishes  a  mechanism  to  regulate  relations  between  ministries  and  departments  to  ensure effective coordination. The policy encompasses the functions of other government departments including the legislative, judiciary and law enforcement.  The  reforms  establish  responsibilities and coordination in the security sector for implementation  of  programs  and  give  guidelines for planning, prioritization, assessment of resources,  and  operations.  Sustained  financial support  is  needed  to  avoid  compromising  either  development  or  security  objectives.  The OECD  DAC  Implementation-Framework  for Security Sector Reform provides a useful framework  for  increasing  national  ownership and  laying  out  the  core  elements  of  a  'right-financing' framework.37
 
 The  Government  is  committed  to  addressing the  following  strategic  benchmarks  to  achieve the security sector strategic vision:
 
- The  Afghan  National  Army :  (i)  Through Jaddi 1389 (end-2010), with the support of and  in  close  coordination  with  the  government,  the  NATO-led  ISAF,  Operation Enduring Freedom (OEF) and their respective Provincial Reconstruction Teams (PRTs)  will  promote  security  and  stability in all regions of Afghanistan, including by strengthening  Afghan  capabilities.  (ii)  By
+ The  Afghan  National  Army :  (i)  Through Jaddi 1389 (end-2010), with the support of and  in  close  coordination  with  the  government,  the  NATO-led  ISAF,  Operation Enduring Freedom (OEF) and their respective Provincial Reconstruction Teams (PRTs)  will  promote  security  and  stability in all regions of Afghanistan, including by strengthening  Afghan  capabilities.  (ii)  By Jaddi  1389,  (end-2010):  the  Government will  establish  a  nationally  respected,  professional,  ethnically  balanced  ANA  that  is accountable,  organized,  trained  and  well equipped to meet the security needs of the country.    It  will  be  increasingly  funded from Government revenue, commensurate with the nation's economic capacity.  Support  will  continue  to  be  provided  to  expand the ANA towards a ceiling of 80,000 personnel with additional 6,000 personnel, including trainers.  The pace of this expansion  will  be  adjusted  on  the  basis  of  periodic joint quality assessments by the Government  and  the  international  community against  agreed  criteria  which  take  into  account prevailing conditions.
 
 > 37 See http://www.oecd.org/dataoecd/43/25/38406485.pdf
-
-Jaddi  1389,  (end-2010):  the  Government will  establish  a  nationally  respected,  professional,  ethnically  balanced  ANA  that  is accountable,  organized,  trained  and  well equipped to meet the security needs of the country.    It  will  be  increasingly  funded from Government revenue, commensurate with the nation's economic capacity.  Support  will  continue  to  be  provided  to  expand the ANA towards a ceiling of 80,000 personnel with additional 6,000 personnel, including trainers.  The pace of this expansion  will  be  adjusted  on  the  basis  of  periodic joint quality assessments by the Government  and  the  international  community against  agreed  criteria  which  take  into  account prevailing conditions.
 
  The Afghan National Police : By Jaddi 1389 (end-2010) a fully constituted, professional, functional and ethnically balanced Afghan National  Police  and  Afghan  Border  Police with a combined force of up to 82,180 will be  able  to  effectively  meet  the  security needs  of  the  country  and  will  be  increasingly fiscally sustainable.
 
  DIAG :  All  illegal  armed  groups  will  disbanded by 20 March 2011 in all provinces. Approximately 2,000 illegal  armed  groups have  been  identified.  Nearly  300  are  now fully or partially disbanded and 1200 more are engaged to cooperate with DIAG.
 
- Removing Unexploded Ordnance : By Jaddi  1389  (end-2010),  in  line  with  Afghanistan  MDGs,  the  land  area  contaminated by mines and unexploded ordnance will  be  reduced  by  70%;  and  by  end-2010 all  unsafe,  unserviceable,  and  surplus  ammunition will be destroyed. The goal is to clear  90%  of  all  known  mine/ERW  contaminated  areas  by  1391  (2012).  The  goal furthermore  is  to  clear  all  emplaced  antipersonnel mines by 1391 (1 March 2013) according  to  the  Ottawa  Convention.  A  capacity to remove mines and ERWs beyond the 2013 MAPA transition deadline probably will be needed.
+ Removing Unexploded Ordnance : By Jaddi  1389  (end-2010),  in  line  with  Afghanistan  MDGs,  the  land  area  contaminated by mines and unexploded ordnance will  be  reduced  by  70%;  and  by  end-2010 all  unsafe,  unserviceable,  and  surplus  ammunition will be destroyed. The goal is to clear  90%  of  all  known  mine/ERW  contaminated  areas  by  1391  (2012).  The  goal furthermore  is  to  clear  all  emplaced  anti-personnel mines by 1391 (1 March 2013) according  to  the  Ottawa  Convention.  A  capacity to remove mines and ERWs beyond the 2013 MAPA transition deadline probably will be needed.
 
  Counter-Narcotics : By 2013, the area under poppy cultivation  will  be  reduced  by  half compared to 2007 levels.
 
@@ -3899,7 +3816,7 @@ The  National  Security  Council  is  the  highest institution  for  identifying
 
 ###### Ministry  of  Defense  (MoD),  and  the Afghan National Army (ANA)
 
-MoD is responsible for establishing and maintaining  peace  and  security.    The  Minister  of Defense  is  a  civilian  with  the  ministry  being non-political  and  non-partisan.    MoD  stands ready to provide support to the MoI, which is responsible  for  border  control  in  emergency situations.  Reforms and capacity building initiatives  are  in  process  to  make  the  MoD  more transparent and accountable with a strong administration and internal discipline.  The MoD is developing an ethnically balanced,  nonpolitical  army  with  a  single  military  doctrine and  operational  capabilities.  Education,  training and equipping the national army to create a professional  army  with  strong  operational  capability  to  fight  terrorism  and  armed  groups are  top  priorities.    The  MoD  must  ensure  that all  military  units  under  its  command  observe and respect Islamic religion and Afghan values. MoD's primary responsibilities include:
+MoD is responsible for establishing and maintaining  peace  and  security.    The  Minister  of Defense  is  a  civilian  with  the  ministry  being non-political  and  non-partisan.    MoD  stands ready to provide support to the MoI, which is responsible  for  border  control  in  emergency situations.  Reforms and capacity building initiatives  are  in  process  to  make  the  MoD  more transparent and accountable with a strong administration and internal discipline.  The MoD is developing an ethnically balanced,  non-political  army  with  a  single  military  doctrine and  operational  capabilities.  Education,  training and equipping the national army to create a professional  army  with  strong  operational  capability  to  fight  terrorism  and  armed  groups are  top  priorities.    The  MoD  must  ensure  that all  military  units  under  its  command  observe and respect Islamic religion and Afghan values. MoD's primary responsibilities include:
 
  National  defense  against  foreign  military aggression;
 
@@ -3929,7 +3846,7 @@ To  achieve  these  goals,  the  MoD  has  established the ANA.
 
 The  National  Army  is  responsible  for  protecting  Afghanistan's  territorial  integrity,  upholding and protecting the Constitution, defending national interests and the Islamic religion, and establishing a favorable environment for public welfare and progress.  The National Army, led by  civilian  leadership  and  supported  by  the National Police, has a mandate to improve internal security.  It also plays a role to boost regional  security  through  military  cooperation with ISAF and regional and international allies. A reassessment of the design, composition and size of the ANA has led to intensified national recruitment drive and training.
 
-Following  a  presidential  decree  to  establish  a National Army in 2003 the Ministry of Defense and the Afghan National Army have achieved considerable progress. The ministry is responsible  for  maintaining  professional  cadres  to design  appropriate  policies,  manage  the  ANA and  defense  institutions,  and  establish  necessary  coordination  among  security  institutions and  international  partners.    The  quality  and quantity  of  the  ANA  is  rapidly  growing,  and will continue to grow until the army is capable of maintaining the stability of the country, defending  its  sovereignty,  and  contributing  to regional  security.    The  National  Army  has  a mandate  to  assist  the  civilian  administration and police whenever needed.  If instructed by the  National  Security  Council,  the  ANA  will cooperate with the National Police, AntiDisasters  Department,  Afghan  Red  Crescent Society and other civilian charity organizations to tackle emergency situations requiring disaster response and humanitarian assistance.
+Following  a  presidential  decree  to  establish  a National Army in 2003 the Ministry of Defense and the Afghan National Army have achieved considerable progress. The ministry is responsible  for  maintaining  professional  cadres  to design  appropriate  policies,  manage  the  ANA and  defense  institutions,  and  establish  necessary  coordination  among  security  institutions and  international  partners.    The  quality  and quantity  of  the  ANA  is  rapidly  growing,  and will continue to grow until the army is capable of maintaining the stability of the country, defending  its  sovereignty,  and  contributing  to regional  security.    The  National  Army  has  a mandate  to  assist  the  civilian  administration and police whenever needed.  If instructed by the  National  Security  Council,  the  ANA  will cooperate with the National Police, Anti-Disasters  Department,  Afghan  Red  Crescent Society and other civilian charity organizations to tackle emergency situations requiring disaster response and humanitarian assistance.
 
 ###### Ministry of Internal Affairs (MoI), and the Afghan National Police (ANP)
 
@@ -3957,7 +3874,7 @@ Security 57
 
 [[START OF PAGE 118]]
 
-Significant steps have been taken since 2001 to revamp  and  train  the  Afghan  National  Army and the Afghan National Police.  Police capacities  have  been  increasing  with  extensive  help from the international community.  Large militias  have  been  integrated  into  the  Ministry  of Defense,  with  the  majority  demobilized.    A multi-sector  donor  support  scheme  has  been established  where  individual  donors  are  allocated responsibility for overseeing support for each of the key elements of the reform, including:  disarmament,  demobilization,  and  reintegration  of  ex-combatants;  military  reform;  police reform; judicial reform; and counternarcotics.
+Significant steps have been taken since 2001 to revamp  and  train  the  Afghan  National  Army and the Afghan National Police.  Police capacities  have  been  increasing  with  extensive  help from the international community.  Large militias  have  been  integrated  into  the  Ministry  of Defense,  with  the  majority  demobilized.    A multi-sector  donor  support  scheme  has  been established  where  individual  donors  are  allocated responsibility for overseeing support for each of the key elements of the reform, including:  disarmament,  demobilization,  and  reintegration  of  ex-combatants;  military  reform;  police reform; judicial reform; and counter-narcotics.
 
 ###### National Directorate of Security (NDS)
 
@@ -3989,7 +3906,7 @@ The Ministry of Counter Narcotics is responsible  for  the  implementation  of  
 
 Fiscal sustainability is essential for a sound and stable security forces.  Given the limitations of the National Budget at present, additional time is  needed  before  security  sector  expenditures can  be  included  in  the  ordinary  budget.    The security  sector  must  therefore  rely  on  continued assistance from Afghanistan's international allies.  Limited internal revenue will inevitably force  the  Government  to  make  some  very tough decisions when it comes to security sector  spending.    The  Government  supports  the development of a 'Right-financing' approach to the  security  sector,  within  which  to  strike  an appropriate  balance  between  current  security needs  and  the  goal  of  building  a  fiscally  sustainable  security  sector  based  on  realistic  resource projections.
 
-Afghanistan has no wish to be a burden on the international community for longer than is necessary. In line with a three phased effort to develop the Afghan military, coalition allies will move progressively from carrying the major burden of combat operations to a supporting and enabling role. The First Phase, an accelerated development both in numbers and capabilities of Afghanistan's security forces that are adequately manned, equipped and trained to defeat all internal and external
+Afghanistan has no wish to be a burden on the international community for longer than is necessary.    In  line  with  a  three  phased  effort  to develop  the  Afghan  military,  coalition  allies will move progressively from carrying the major  burden  of  combat  operations  to  a  supporting and enabling role.  The First Phase, an accelerated  development  both  in  numbers  and capabilities of Afghanistan's security forces that  are  adequately  manned,  equipped  and trained to defeat all internal and external threats, is well advanced.  The Second Phase is to  transition  from  coalition-led,  to  an  Afghan-led  and  NATO-supported  security  operation. Although much of the security burden remains with  our  coalition  allies,  there  has  been  progress  in  combined  Afghan/Coalition  operations, and in independent ANA security operations.    Phase  Three  will  encompass  efforts  to further improve professionalism, discipline and operational  cohesiveness  and  the  ANA  will conduct  independent  operations  and  lead  the fight.  ISAF will move to a supporting role.  At the end of this final phase, a capacity to defend the country will have been established, and the partnership  with  allies  will  become  one  of normalized defense relations.
 
 58
 
@@ -3998,7 +3915,6 @@ Afghanistan National Development Strategy (ANDS)
 [[END OF PAGE 118]]
 
 [[START OF PAGE 119]]
-threats, is well advanced. The Second Phase is to transition from coalition-led, to an Afghan-led and NATO-supported security operation. Although much of the security burden remains with our coalition allies, there has been progress in combined Afghan/Coalition operations, and in independent ANA security operations. Phase Three will encompass efforts to further improve professionalism, discipline and operational cohesiveness and the ANA will conduct independent operations and lead the fight. ISAF will move to a supporting role. At the end of this final phase, a capacity to defend the country will have been established, and the partnership with allies will become one of normalized defense relations.
 
 ##### SOUND ADMINISTRATION, JUSTICE AND JUDICIAL SYSTEM
 
@@ -4024,9 +3940,7 @@ Table 5.1. Integration of the Cross Cutting Issues into the Security Sector
 
 Anti-Corruption | Gender Equality | Counter-Narcotics | Environment | Regional Co-operation | Capacity Building
 --- | --- | --- | --- | --- | ---
-Programs within the Sector Strategy emphasize ac- countability and transpar- ency. By Jaddi 1392 (end-2013), corruption in the govern- ment at all levels especially in security and, customs will be significantly re- duced. A monitoring mechanism to track corruption at high places, including the secu- rity sector, will be put in place by Jaddi 1387 (end- 2008). By Jaddi 1387 (end-2008), the Government will estab- lish and implement a pub- lic complaints mechanism. This will include com- plaints against the security forces or the security sec- tor. Targeting corruption is vital for security reasons: Narcotics traffickers thrive in insecurity and absence of governance; corruption at the highest levels facili- tate for narcotics trade that spur anti- government elements. | Increase the number of quali- fied female staff throughout the security sector. Promote gender mainstream- ing and gender-balance throughout the security sector. Increase awareness of gender and rights, raising women's decision-making role and en- suring that women have equal employment opportunities within the Sector. Recognize in all policies and programs that men and women have equal rights and responsibilities through the security sector. Ensure that monitoring mechanisms are in place to realize goals for gender equal- ity. This calls for setting indi- cators to monitor improve- ments. Ensure reduction of violence and harassment against women in the workplace, by implementing specific train- ing, units/programs (e.g. re- ferral centers) and effective complaint and redress mecha- nisms. | The international forces in Afghanistan must cooperate with the Afghan National Army (ANA) to facilitate for Afghan counter-narcotics op- erations. Afghan security forces provide force protection and law en- forcement for eradication and interdiction operations Eradication of poppy crops needs to be enforced, in par- ticular where those who bene- fit are using the profits for anti government activities. There is a need to enhance border control to crack down on drug trafficking. By Jaddi 1389 (end-2010), the Government will increase the number of arrests and prose- cutions of traffickers and cor- rupt officials with the help of the security sector. Increased security is needed to guarantee alternative liveli- hoods. Capacity for eradica- tion must similarly increase. | Improved secu- rity will ensure sustainable de- velopment with minimum nega- tive impact to environment. Implement DIAG and mine/UXO clearance pro- grams to enhance security that would allow for extensive land to be taken back into use for farm- ing and devel- opment. Stability throughout the country is needed to pre- vent natural re- sources from being degraded. | Establish and develop good international rela- tionships based on mu- tual respect, non- interference. Enhance Afghanistan's active position as a positive and effective member of the UN. Enhance cooperative border management with Afghanistan's neighbors to crack down on illegal border crossing and trafficking. Regional cooperation to improve security will lead to overall stability in the region. Multilateral and bilat- eral agreements reached with the countries of the region and further ef- forts to promote re- gional cooperation would contribute to the stability in the region and enhance the pace of economic development in Afghanistan. | Reforming defense and the security sector is a priority of the Afghan Government to strengthen Afghan capabilities and transform the Af- ghan security forces into effective and modern force, confirming to international standards. MoD reform and reconstruction aim to rehabilitate a strong defense sector to protect national security and to be able to begin assuming primary re- sponsibility for Afghanistan's secu- rity with a gradual withdrawal of international security forces. Intensive field and operational train- ing is and will continue to further enhance the capabilities of the ANA and ANP. Capacity and budget needs of the ANA and the ANP will be under constant review. There is a need for overcoming financial challenges and insufficient funds to realize capacity building of the security strategy. Specific capacity development pro- grams will be required for preparing the security forces for counter narcot- ics operations. Special programs will be developed for developing gender sensitive secu- rity system internally as well for ex- ternal interactions.
-
-
+Programs within the Sector Strategy emphasize accountability and transparency. By Jaddi 1392 (end-2013), corruption in the government at all levels especially in security and, customs will be significantly reduced. A monitoring mechanism to track corruption at high places, including the security sector, will be put in place by Jaddi 1387 (end-2008). By Jaddi 1387 (end-2008), the Government will establish and implement a public complaints mechanism. This will include complaints against the security forces or the security sector. Targeting corruption is vital for security reasons: Narcotics traffickers thrive in insecurity and absence of governance; corruption at the highest levels facilitate for narcotics trade that spur anti- government elements. | Increase the number of qualified female staff throughout the security sector. Promote gender mainstreaming and gender-balance throughout the security sector. Increase awareness of gender and rights, raising women's decision-making role and ensuring that women have equal employment opportunities within the Sector. Recognize in all policies and programs that men and women have equal rights and responsibilities through the security sector. Ensure that monitoring mechanisms are in place to realize goals for gender equality. This calls for setting indicators to monitor improvements. Ensure reduction of violence and harassment against women in the workplace, by implementing specific training, units/programs (e.g. referral centers) and effective complaint and redress mechanisms. | The international forces in Afghanistan must cooperate with the Afghan National Army (ANA) to facilitate for Afghan counter-narcotics operations. Afghan security forces provide force protection and law enforcement for eradication and interdiction operations Eradication of poppy crops needs to be enforced, in particular where those who benefit are using the profits for anti government activities. There is a need to enhance border control to crack down on drug trafficking. By Jaddi 1389 (end-2010), the Government will increase the number of arrests and prosecutions of traffickers and corrupt officials with the help of the security sector. Increased security is needed to guarantee alternative livelihoods. Capacity for eradication must similarly increase. | Improved security will ensure sustainable development with minimum negative impact to environment. Implement DIAG and mine/UXO clearance programs to enhance security that would allow for extensive land to be taken back into use for farming and development. Stability throughout the country is needed to prevent natural resources from being degraded. | Establish and develop good international relationships based on mutual respect, non-interference. Enhance Afghanistan's active position as a positive and effective member of the UN. Enhance cooperative border management with Afghanistan's neighbors to crack down on illegal border crossing and trafficking. Regional cooperation to improve security will lead to overall stability in the region. Multilateral and bilateral agreements reached with the countries of the region and further efforts to promote regional cooperation would contribute to the stability in the region and enhance the pace of economic development in Afghanistan. | Reforming defense and the security sector is a priority of the Afghan Government to strengthen Afghan capabilities and transform the Afghan security forces into effective and modern force, confirming to international standards. MoD reform and reconstruction aim to rehabilitate a strong defense sector to protect national security and to be able to begin assuming primary responsibility for Afghanistan's security with a gradual withdrawal of international security forces. Intensive field and operational training is and will continue to further enhance the capabilities of the ANA and ANP. Capacity and budget needs of the ANA and the ANP will be under constant review. There is a need for overcoming financial challenges and insufficient funds to realize capacity building of the security strategy. Specific capacity development programs will be required for preparing the security forces for counter narcotics operations. Special programs will be developed for developing gender sensitive security system internally as well for external interactions.
 
 60
 
@@ -4044,7 +3958,7 @@ The goal for the Governance, Rule of Law and Human Rights  is  strengthen  democ
 
 Improving  governance  is  essential  to  the  attainment  of  the  Government's  national  vision and the establishment of a stable and functioning society.  The government's guiding principles  for  improving  governance  are  openness, participation, accountability, effectiveness, efficiency, coherence, equity, inclusiveness, justice and rule of law applied at all levels of the government.  The government will act as a policy maker, regulator, enabler and not a competitor, of  the  private  sector.    The  main  priorities  for the  governance  sector  are  (i)  to  increase  the pace  and  quality  of  public  administration  reform;  (ii)  strengthen  sub-national  governance structures;  (iii)  reform  legal  and  courts  processes;  and  (iv)  strengthen  parliamentary  and legislative processes including holding free and fair elections.
 
-While  much has  been  achieved  in  strengthening the formal and informal structures of governance  and  rule  of  law,  as  well  as  extending human rights, considerable challenges still stand in the way of achieving the goals under this  pillar.    These  include:  (i)  the  existence  of multiple,  parallel  structures  of  state  and  nonstate  governance  entities;  (ii)  confusion  over centre/sub-national governance  entities; (iii) weak  public  sector  institutions  and  underdeveloped  governance  and  administration  capabilities; (iv) high levels of corruption; (v) fiscal uncertainty; (vi)  weak legislative  development and enforcement; (vii) weak parliamentary oversight; (viii) weak community and civil society  institutions;  (ix)  ineffective  and  poorly defined  justice  system;  (x)  gender  inequality; and  (xi)  underdeveloped  human  rights  enforcement capacities.
+While  much has  been  achieved  in  strengthening the formal and informal structures of governance  and  rule  of  law,  as  well  as  extending human rights, considerable challenges still stand in the way of achieving the goals under this  pillar.    These  include:  (i)  the  existence  of multiple,  parallel  structures  of  state  and  non-state  governance  entities;  (ii)  confusion  over centre/sub-national governance  entities; (iii) weak  public  sector  institutions  and  underdeveloped  governance  and  administration  capabilities; (iv) high levels of corruption; (v) fiscal uncertainty; (vi)  weak legislative  development and enforcement; (vii) weak parliamentary oversight; (viii) weak community and civil society  institutions;  (ix)  ineffective  and  poorly defined  justice  system;  (x)  gender  inequality; and  (xi)  underdeveloped  human  rights  enforcement capacities.
 
 Three  sectors  are  contained  under  this  pillar: Governance, Public Administration Reform and  Human  Rights,  Justice  Sector  and  Religious  Affairs.    Sub-national  consultation  and the Provincial Development Plans (PDPs) were instrumental in developing the sector strategy.
 
@@ -4052,7 +3966,7 @@ Three  sectors  are  contained  under  this  pillar: Governance, Public Administ
 
 ###### Role of the Sector in ANDS
 
-In  the  Afghanistan  Compact,  the  Government and  the  international  community  reaffirmed their  commitment  to  certain  benchmarks  on Public Administration Reform, AntiCorruption, The Census and Statistics, National Assembly,  Elections,  Gender,  Land  Registration,  Counter-  Narcotics  and  Human  Rights within the specified timelines.  Functional institutions with trained staff will be established in each  province  to  implement  appropriate  legal frameworks and appointment procedures. The Government  will  also  establish  a  fiscally  and institutionally sustainable administration  for future elections and prioritize the reform of the justice  system  to  ensure  equal,  fair  and  transparent access to justice.
+In  the  Afghanistan  Compact,  the  Government and  the  international  community  reaffirmed their  commitment  to  certain  benchmarks  on Public Administration Reform, Anti-Corruption, The Census and Statistics, National Assembly,  Elections,  Gender,  Land  Registration,  Counter-Narcotics  and  Human  Rights within the specified timelines.  Functional institutions with trained staff will be established in each  province  to  implement  appropriate  legal frameworks and appointment procedures. The Government  will  also  establish  a  fiscally  and institutionally sustainable administration  for future elections and prioritize the reform of the justice  system  to  ensure  equal,  fair  and  transparent access to justice.
 
 The  strategy  includes  out  efforts  to  reduce gender inequality. Institutional and administrative frameworks will be established at the local government  level  that  will  enable  women  to play  an  important  role  in  decision  making (such as the CDCs established under the NSP). The  Constitution  allows  limited  decentralization specifying that a Provincial Councils (PC) with elected members are to be formed in every Province  and,  that  District,  Village  and  Municipal  Councils  and  Mayors  are  to  be  elected through,  free,  general,  secret  and  direct  elections every three years.
 
@@ -4070,7 +3984,7 @@ Afghanistan has come a long way in the last 7 years.    In  2000  the  World  Ba
 
 Progress  since  2001  includes  the  adoption  of the  constitution;  successful  parliamentary  and presidential elections, and progress in improving  the  livelihood  and  welfare  of  females  and other disenfranchised groups.  In addition, the ANDS sets  out  a  series  of  reforms  to  address these constraints:
 
- Justice: The  Ministry  of  Justice  (MoJ)  is strengthening  the  review  process  for  laws and  regulations  and  identifying  areas  for reform, including instituting a code of ethics  and  professional  standards.    In  March 2007, the Supreme Court, the MoJ, and he Attorney  General's  Office  presented  new comprehensive reform strategies at the Rome Conference.  These include plans to restructure the institutions; develop meritbased and transparent recruitment; promotion and  accountability  mechanisms  for improving  professional  standards,  ethics and discipline; improving the conditions of service  for  justice  officials;  and  increasing women's representation at all levels of the justice system.
+ Justice: The  Ministry  of  Justice  (MoJ)  is strengthening  the  review  process  for  laws and  regulations  and  identifying  areas  for reform, including instituting a code of ethics  and  professional  standards.    In  March 2007, the Supreme Court, the MoJ, and he Attorney  General's  Office  presented  new comprehensive reform strategies at the Rome Conference.  These include plans to restructure the institutions; develop merit-based and transparent recruitment; promotion and  accountability  mechanisms  for improving  professional  standards,  ethics and discipline; improving the conditions of service  for  justice  officials;  and  increasing women's representation at all levels of the justice system.
 
  Corruption: The  High  Level  Commission against Corruption has been established to assess and analyze the factors contributing to corruption.  The Commission presented recommendations to prevent corruption and  developed  the  roadmap  in  its  document 'Fighting Corruption in Afghanistan - Strategy and Action'.
 
@@ -4082,7 +3996,7 @@ being  enacted.    As  part  of  the  judicial  reform program a number of other
 
  Governance: Public  administration  is  generally recognized as being weak.  The Government will undertake comprehensive institutional strengthening and capacity building  within  the  ministries,  provinces, districts,  municipalities  and  villages.    This will achieve improvements in the delivery of services to the people and communities living  in  the  provinces,  districts,  municipalities and villages.
 
-A  number  of  constraints  continue  to  face  the sector:  weak  public  sector  capacity;  a  lack  of resources and unsustainable fiscal outcomes; a restrictive  legislative  environment  that  limits private sector activity; limited legislative oversight and representational experience of public figures;  extensive  corruption;  excessive  centralization; a lack of coordinated decisionmaking  across Government; limited female participation in the Government; limited direct accountability  to  clients;  and  state  capture  by illicit power-holders.
+A  number  of  constraints  continue  to  face  the sector:  weak  public  sector  capacity;  a  lack  of resources and unsustainable fiscal outcomes; a restrictive  legislative  environment  that  limits private sector activity; limited legislative oversight and representational experience of public figures;  extensive  corruption;  excessive  centralization; a lack of coordinated decision-making  across Government; limited female participation in the Government; limited direct accountability  to  clients;  and  state  capture  by illicit power-holders.
 
 ###### Policy Framework: Sector Strategy
 
@@ -4136,7 +4050,7 @@ Afghanistan National Development Strategy (ANDS)
 
 ###### Role of the Sector in ANDS
 
-The  role  of  the  Justice  Sector  in  the  government's  development  strategy  is  to  ensure  improved  integrity,  performance  and  infrastructure of Afghanistan's justice institutions in each province;  to  streamline  administrative  structures,  ensure  professional  integrity  and  improve coordination and integration within the Justice  system  between  government  and  civil society  institutions,  and  improve  access  to  the justice  system  for  all.  In  the  longer  term  the sector  will  seek  to  increase  specialization  and diversification of justice practices to meet more complex  demands  -  including  the  important and necessary interaction and relationship with informal  justice  systems,  which  are  prevalent throughout  the  country,  while  expanding  justice  services.  Transitional  Justice  is  obviously an important aspect of the sector. The Government's  Action  Plan  for  Peace,  Reconciliation and  Justice  in  Afghanistan  acknowledges  that any mechanism for building peace and justice must be carried out with the active and meaningful participation of all national stakeholders, including the justice institutions.
+The  role  of  the  Justice  Sector  in  the  government's  development  strategy  is  to  ensure  improved  integrity,  performance  and  infrastructure of Afghanistan's justice institutions in each province;  to  streamline  administrative  structures,  ensure  professional  integrity  and  improve coordination and integration within the
 
 Governance, Rule of Law and Human Rights
 
@@ -4145,6 +4059,8 @@ Governance, Rule of Law and Human Rights
 [[END OF PAGE 123]]
 
 [[START OF PAGE 124]]
+
+Justice  system  between  government  and  civil society  institutions,  and  improve  access  to  the justice  system  for  all.  In  the  longer  term  the sector  will  seek  to  increase  specialization  and diversification of justice practices to meet more complex  demands  -  including  the  important and necessary interaction and relationship with informal  justice  systems,  which  are  prevalent throughout  the  country,  while  expanding  justice  services.  Transitional  Justice  is  obviously an important aspect of the sector. The Government's  Action  Plan  for  Peace,  Reconciliation and  Justice  in  Afghanistan  acknowledges  that any mechanism for building peace and justice must be carried out with the active and meaningful participation of all national stakeholders, including the justice institutions.
 
 ###### Contribution to the ANDS
 
@@ -4164,7 +4080,7 @@ Millennium  Development  Goals  (MDGs):  Although  justice  and  the  rule  of  
 
 ###### Current Situation in the Sector
 
-Achievements:  Afghanistan  has  a  mixed  civil law and Islamic Sharia-based formal legal system that has evolved over many years. In most non-urban areas customary legal systems continue  to  operate.  While  there  is  considerable variation in these customary legal systems they are usually based around traditional tribunals jirgas, maracas shuras or mookee khans. Traditional  systems  usually  have  core  principles  of apology  and  forgiveness,  followed  by  reconciliation.  Most  Afghan  customary  systems  are based on the principle of restorative justice.
+Achievements:  Afghanistan  has  a  mixed  civil law and Islamic Sharia-based formal legal system that has evolved over many years. In most non-urban areas customary legal systems continue  to  operate.  While  there  is  considerable variation in these customary legal systems they are usually based around traditional tribunals – jirgas, maracas shuras or mookee khans. Traditional  systems  usually  have  core  principles  of apology  and  forgiveness,  followed  by  reconciliation.  Most  Afghan  customary  systems  are based on the principle of restorative justice.
 
 The  Constitution  introduced  three  major  reforms to the judicial system:
 
@@ -4300,9 +4216,7 @@ F.5. The role of traditional dispute resolution in the rule of law is defined, a
 
 F.6. Begin the process of establishing a transitional justice system to record past human rights abuses and preserve the rights of victims consistent with the government's action plan for peace, reconciliation and justice.
 
-66
-
-Afghanistan National Development Strategy (ANDS)
+66 Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 126]]
 
@@ -4492,31 +4406,33 @@ GOVERNANCE, RULE OF LAW AND HUMAN RIGHTS 71
 
 #### ECONOMIC AND SOCIAL DEVELOPMENT
 
-This  chapter  summarizes  the  sector  strategies developed as part of the ANDS under Pillar 3: Economic and Social Development. 38 The ANDS  strategy  depends  upon  achieving  sustained high rates of economic growth that will increasingly be based on private sector-led development. 39   A key component of the ANDS is the  development  of  an  enabling  environment that encourages the private sector to play a central  role  in  the  economic  development  of  the country.    While  the  sector  strategies  cannot specify private sector investments, which are a result  of  private  decision  making,  the  actions and  programs  designed  to  establish  an  enabling  environment  for  the  private  and  non-government sectors are included.
+This chapter summarizes the sector strategies developed as part of the ANDS under Pillar 3: Economic and Social Development.38 The ANDS strategy depends upon achieving sustained high rates of economic growth that will increasingly be based on private sector-led development.39 A key component of the ANDS is the development of an enabling environment that encourages the private sector to play a central role in the economic development of the country. While the sector strategies cannot specify private sector investments, which are a result of private decision making, the actions and programs designed to establish an enabling environment for the private and non-government sectors are included.
 
 ##### PRIVATE SECTOR DEVELOPMENT
 
-The  Government's  economic  vision  has  been consistent  since  1381  (2002) 40   and  remains  the strategic objective for the private sector development strategy.  The market based economy is enshrined in the Constitution, article 10, which states that:
+The Government's economic vision has been consistent since 1381 (2002)40 and remains the strategic objective for the private sector development strategy. The market based economy is enshrined in the Constitution, article 10, which states that:
 
-The State encourages and protects private capital  investments  and  enterprises  based on  the  market  economy  and  guarantees their  protection  in  accordance  with  the provisions of law.
+The State encourages and protects private capital investments and enterprises based on the market economy and guarantees their protection in accordance with the provisions of law.
 
-As President Karzai also stated, We  aim  to  'enable  the  private  sector  to lead  Afghanistan's  development'. 41 We will  build  a  market-based  system,  driven by private sector growth, 42 in which Government is the 'policy maker and regulator of the economy, not its competitor'. 43 If the Government is to achieve its aim of significantly enhancing per capita GDP in the next five years, 44 it must complete the foundations  for  socially  responsible  private  sector  growth  and  encourage  sustained high levels of foreign and domestic private investment.
+As President Karzai also stated,
+
+We aim to "enable the private sector to lead Afghanistan's development".41 We will build a market-based system, driven by private sector growth,42 in which Government is the "policy maker and regulator of the economy, not its competitor".43 If the Government is to achieve its aim of significantly enhancing per capita GDP in the next five years,44 it must complete the foundations for socially responsible private sector growth and encourage sustained high levels of foreign and domestic private investment.
+
+The implementation of the private sector development strategy will contribute directly to the achievement of a number of objectives embodied in the Afghanistan Compact and the MDGs:
+
+ Afghanistan Compact: Private Sector Development and Trade: "All legislation, regulations and procedures related to investment will be simplified and harmonized by end-2006 and implemented by end-1386 (2007). New business organization laws will be tabled in the National Assembly by end-2006. The Government's strategy for divestment of state-owned en-
 
 > 38 The full sector strategies are included in the Volume II of the ANDS.
 
-> 39 See for example 'A Policy for Private Sector Growth and Development' presented by the Government at the Enabling Environment Conference, June 2007.
+> 39 See for example "A Policy for Private Sector Growth and Development" presented by the Government at the Enabling Environment Conference, June 2007.
 
-> 40 See  generally,  National  Development  Framework,  (2002), ANDS Volume II, and Securing Afghanistan's Future, Chapter 5 (2004).
+> 40 See generally, National Development Framework, (2002), ANDS Volume II, and Securing Afghanistan's Future, Chapter 5 (2004).
 
-The  implementation  of  the  private  sector  development  strategy  will  contribute  directly  to the achievement of a number of objectives embodied  in  the  Afghanistan  Compact  and  the MDGs:
+> 41 President Karzai, Opening Address at the ADF, April 2005, page 9.
 
- Afghanistan  Compact:  Private  Sector  Development and Trade: 'All legislation, regulations  and  procedures  related  to  investment  will  be  simplified  and  harmonized  by  end-2006  and  implemented  by end-1386  (2007).  New  business  organization laws will be tabled in the National Assembly  by  end-2006.  The  Government's strategy for divestment of state-owned en-
+> 42 Minister of Finance Anwar Ahady, The Budget as a Tool for Accelerating Economic Development and Poverty Reduction, ADF, April 2005. Senior Economic Advisor to the President, Professor Ishaq Nadiri, The National Development Strategy & Key Challenges, Presentation at the Afghanistan Development Forum. April 2005.
 
-> 41 President  Karzai,  Opening  Address  at  the  ADF,  April  2005, page 9.
-
-> 42 Minister of Finance Anwar Ahady, The Budget as a Tool for Accelerating  Economic  Development  and  Poverty  Reduction, ADF,  April  2005.  Senior  Economic  Advisor  to  the  President, Professor  Ishaq  Nadiri,  The  National  Development  Strategy  & Key  Challenges,  Presentation  at  the  Afghanistan  Development Forum. April 2005.
-
-> 43 Senior  Economic  Advisor  to  the  President,  Professor  Ishaq Nadiri,  The  National  Development  Strategy  &  Key  Challenges, Presentation at the Afghanistan Development Forum. April 2005.
+> 43 Senior Economic Advisor to the President, Professor Ishaq Nadiri, The National Development Strategy & Key Challenges, Presentation at the Afghanistan Development Forum. April 2005.
 
 > 44 Statement of Dr. M. M. Amin Farhang, Minister of Economy, at the ADF, April 2005.
 
@@ -4532,7 +4448,7 @@ terprises will be implemented by end-1388 (2009).'
 
  Afghanistan  Compact:  Regional  Cooperation: 'By end-1398 (2010) Afghanistan and its neighbors  will  achieve  lower  transit times  through  Afghanistan  by  means  of cooperative border management and other multilateral  or  bilateral  trade  and  transit agreements;  Afghanistan  will  increase  the amount of electricity available through bilateral  power  purchases;  and  Afghanistan, its  neighbors  and  countries  in  the  region will  reach  agreements  to  enable  Afghanistan to import skilled labor, and to enable Afghans  to  seek  work  in  the  region  and send remittances home.'
 
- MDGs: Goal  8:  'Further  develop  an  open trading  and  financial  system  that  is  rule-based, predictable and non-discriminatory, which  includes  a  commitment  to  good governance,  development  and  poverty  reduction.  Goal  8:    In  cooperation  with  the private  sector,  make  available  the  benefits of new technologies - especially information and communications technologies.'
+ MDGs: Goal 8: 'Further develop an open trading and financial system that is rule-based, predictable and non-discriminatory, which includes a commitment to good governance, development and poverty reduction. Goal 8: In cooperation with the private sector, make available the benefits of new technologies - especially information and communications technologies.'
 
 The  macroeconomic  framework  presented  in Chapter  4  makes  clear  that  maintaining  high rates of economic growth during the life of the ANDS  and  beyond  depends  on  a  substantial increase  in  the  level  of  private  investment  in the economy.
 
@@ -4554,7 +4470,7 @@ ANDS  strategic  priorities  to  promote  private sector  development  involve  
 
 74
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 134]]
 
@@ -4564,23 +4480,25 @@ commitments  to  increase  the  goods  and services sourced within the country.
 
  Legislative  Reform:  Enact  and  implement key  commercial  laws  and  amendments  to establish  the  basic  legal  and  regulatory framework that will encourage private sector involvement in social and economic development and consistent with the Afghan conditions.    ANDS  priorities  actions  include:
 
-o The  Government  will  introduce  and implement  the  remaining  commercial laws included in the Afghanistan Compact benchmark.
+- o The  Government  will  introduce  and implement  the  remaining  commercial laws included in the Afghanistan Compact benchmark.
 
-o The Government will consult with representatives from private business and civil society in a meaningful and timely manner during the process of drafting policies and laws.
+- o The Government will consult with representatives from private business and civil society in a meaningful and timely manner during the process of drafting policies and laws.
 
-o The necessary steps will be taken to establish  the  authority  of  mediation  and arbitration tribunals to resolve private-private and private-public disputes, including land issues.
+- o The necessary steps will be taken to establish the authority of mediation and arbitration tribunals to resolve private-private and private-public disputes, including land issues.
 
-o The  Government  will  ensure  that  no law will be implemented unless it has been published in the newspapers, and made  available  electronically  and  in hard  copy  to  the  public.    Regulations, including  import  tariff  rates,  will  be made readily available on the Ministry of Finance website.
+- o The  Government  will  ensure  that  no law will be implemented unless it has been published in the newspapers, and made  available  electronically  and  in hard  copy  to  the  public.    Regulations, including  import  tariff  rates,  will  be made readily available on the Ministry of Finance website.
 
  Administrative  Reform:  The  Government will ensure that ministries and agencies are able to competently administer commercial laws  and  regulations  in  an  unbiased  and predictable manner.  These actions will include:
 
-o Invest in capacity development for National Assembly so that MPs are better informed  and  supported  in  their  role and understanding of proposed laws.
+- o Invest in capacity development for National Assembly so that MPs are better informed  and  supported  in  their  role and understanding of proposed laws.
 
-o Ensure  the  competency  and  transparency  of  tribunals  by  establishing  standards and building the capacity of arbitrators, mediators and lawyers.
+- o Ensure  the  competency  and  transparency  of  tribunals  by  establishing  standards and building the capacity of arbitrators, mediators and lawyers.
 
-o Undertake financial audits of state owned assets and corporations.
+- o Undertake financial audits of state owned assets and corporations.
 
-o Implement  effective  programs  to  provide institutional strengthening and capacity  development  throughout  the public sector.
+- o Implement  effective  programs  to  provide institutional strengthening and
+
+capacity  development  throughout  the public sector.
 
  State  owned  enterprises:  The  Government will  continue the program of privatization and  corporatization  of  state  owned  enterprises, a process that is presently on schedule.  This will: (i) improve the level of efficiency  in  the  economy;  (ii)  assist  in  eliminating corruption; (iii) encourage better resource allocation; and  (iv) generate increased government revenue.
 
@@ -4588,13 +4506,13 @@ o Implement  effective  programs  to  provide institutional strengthening and ca
 
  Improve  private  sector  access  to  finance: The Government will implement a well defined  strategy  to  expand  the  availability and  range  of  financial  products  and  services,  especially  targeting  small  and  medium enterprises.  Priority actions include:
 
-o Passage and enactment of four key financial laws: Secured Transactions, Mortgage,  Leasing  and  Negotiable  Instruments Laws.
+- o Passage and enactment of four key financial laws: Secured Transactions, Mortgage,  Leasing  and  Negotiable  Instruments Laws.
 
-o Establish an independent banking and business  training  institute  as  a  joint commercial bank - DAB initiative.
+- o Establish an independent banking and business  training  institute  as  a  joint commercial bank - DAB initiative.
 
-o A credit information bureau will be established  to  facilitate  commercial  and consumer lending.
+- o A credit information bureau will be established  to  facilitate  commercial  and consumer lending.
 
-o The  financial  tribunal  will  be  established to provide swift legal resolution of financial disputes.
+- o The  financial  tribunal  will  be  established to provide swift legal resolution of financial disputes.
 
  Maintain a pro-trade environment: The Government  remains  committed  to  maintaining trade policies with low barriers for imports  and  exports  and  a  liberal  foreign exchange system.  The Government's trade policies  will  take  into  account  the  need  to increase  domestic  revenues  and  support increased  domestic  production  by  the  private  sector.    Pressures  can  be  expected  to arise  from  some  groups  for  tariff  protec-
 
@@ -4620,9 +4538,9 @@ including  market  information  will  be  provided to the exporters by the EPAA.
 
 The  country  requires  enormous  investment  in infrastructure,  including  roads,  power  generation,  water supply, and irrigation.  A substantial part of these requirements could be undertaken  profitably  by  private  investors  with  an appropriate  regulatory  environment.    Private investment  in  the  development  of  natural  resources, particularly minerals development will  become  viable  when  suitable  regulations are in place.
 
- The  Government  will  establish  a  multi-sector  regulatory  authority  following  an approach  similar  to  that  used  to  develop the telecommunications industry. This regulatory  system  will  establish  appropriate fees and royalties, public purchase agreements (e.g., for power), ensure transparent  procedures  and  dispute  resolution mechanisms.  Its mandate will be to maximize private investment in these areas.
+ The Government will establish a multi-sector regulatory authority following an approach similar to that used to develop the telecommunications industry. This regulatory system will establish appropriate fees and royalties, public purchase agreements (e.g., for power), ensure transparent procedures and dispute resolution mechanisms. Its mandate will be to maximize private investment in these areas.
 
- Opportunities for entering into public-private  partnerships  for  investment  in  infrastructure  projects,  such  as  roads  and bridges, will be developed based on international best practices.
+ Opportunities for entering into public-private partnerships for investment in infrastructure projects, such as roads and bridges, will be developed based on international best practices.
 
  The  Government  will  encourage  private provision  of  public  services  wherever  it will  be  feasible,  including  areas  such  as health, education, municipal services, etc.
 
@@ -4630,7 +4548,7 @@ Opportunities  to  expand  private  investment occur in sectors where multiple m
 
 76
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 136]]
 
@@ -4688,7 +4606,7 @@ Year | Hydro (MW) | Thermal (MW) | Imported (MW) | Other: diesel, micro hydro & 
 
 78
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 138]]
 
@@ -4706,7 +4624,9 @@ Despite progress and efforts to date, the existing governance arrangements and p
 
  Inefficient and wasteful use of electricity : Underpriced electricity is used inefficiently.    Appropriate  cost  recovery  will provide  incentives  to  cut  down  on  this wasteful use.
 
- Limited  opportunities  for  private  participation :  There are no legal impediments to private investment in the energy sector.  In practice,  there  is  a  weak  legal  and  regulatory infrastructure in place to support and monitor  investments.    Potential  investors cite  unclear  policies  and  corruption  as  a barrier to investment.  In a well developed market,  the  majority  of  services  now  provided by the 11 SOE and three budgetary units that support energy operations could be  implemented  by  the  private  sector  in ways that are more cost-effective and technically  efficient.    Areas  where  private  sector  engagement  has  immediate  potential with  appropriate  regulatory  include  independent power production and oil and gas concessions.
+ Limited  opportunities  for  private  participation :  There are no legal impediments to private investment in the energy sector.  In practice,  there  is  a  weak  legal  and  regulatory infrastructure in place to support and monitor  investments.    Potential  investors cite  unclear  policies  and  corruption  as  a barrier to investment.  In a well developed market,  the  majority  of  services  now  provided by the 11 SOE and three budgetary units that support energy operations could be  implemented  by  the  private  sector  in ways that are more cost-effective and technically  efficient.    Areas  where  private  sec-
+
+tor  engagement  has  immediate  potential with  appropriate  regulatory  include  independent power production and oil and gas concessions.
 
 In  the  Provincial  Development  Plan  consultations, a number of issues were frequently highlighted across a range of sectors and in a majority of provinces, and therefore emerge as overarching development priorities.  Access to electricity,  both  for  domestic  use  through  the  extension of availability of electricity to more remote  villages,  and  for  productive  purposes such as factories and businesses was mentioned in 80 percent of the PDPs.
 
@@ -4728,7 +4648,7 @@ Economical and Social Development
 
 [[START OF PAGE 140]]
 
-tially increase power supplies, but also contribute  to  expanded  irrigation  and  rural development: (i) the Kokcha-e-Ulia Hydro Power Plant, which will generate a total of 1,900  MW and add 57,000 hectares of irrigated  agricultural  land;  (ii)  the  Baghdara Hydro  Power  Plant,  which  will  generate 210  MW,  benefit  more  than  105,000  families, increasing irrigation coverage; (iii) the Irrigation  and  Power  Project  of  Kokcha-e-Sofla, which  will  generate  100  MW  of power, benefiting more than 950,000 families in the area; and (iv) the Sorobi II Hydro Power  Plant,  which  will  generate  180MW and  help  meet  electricity  needs  in  Kabul. Other key projects include expansion of the public  power  grid  through  the  rehabilitation and upgrading of Kabul and other key infrastructure areas (i.e., distribution -lines, substations, meters); the  development  of  the  North  East  Power  System (NEPS)  to  be  followed  by  the  South  East Power System (SEPS), Western and Eastern Power  Systems;  the  development  of  the Sheberghan gas and oil fields; construction of  new  transmission  and  related  distribution  for  power  imports;  installation  of  a dispatch and control system as well as a reactive power system.
+tially increase power supplies, but also contribute to expanded irrigation and rural development: (i) the Kokcha-e-Ulia Hydro Power Plant, which will generate a total of 1,900 MW and add 57,000 hectares of irrigated agricultural land; (ii) the Baghdara Hydro Power Plant, which will generate 210 MW, benefit more than 105,000 families, increasing irrigation coverage; (iii) the Irrigation and Power Project of Kokcha-e-Sofla, which will generate 100 MW of power, benefiting more than 950,000 families in the area; and (iv) the Sorobi II Hydro Power Plant, which will generate 180MW and help meet electricity needs in Kabul. Other key projects include expansion of the public power grid through the rehabilitation and upgrading of Kabul and other key infrastructure areas (i.e., distribution – lines, substations, meters); the development of the North East Power System (NEPS) to be followed by the South East Power System (SEPS), Western and Eastern Power Systems; the development of the Sheberghan gas and oil fields; construction of new transmission and related distribution for power imports; installation of a dispatch and control system as well as a reactive power system.
 
  Restructured energy sector governance: The Government will consolidate energy planning and policy-making functions through the  Inter-Ministerial  Commission  for  Energy  (ICE).    This  may  involve  some  regrouping of Ministerial functions as well as improved  line  ministry  staff  capacity  to plan  and  budget.    Use  of  the  ICE  mechanism as well as improved public information  will  be  essential  for  improved  government coordination in the energy sector. Related  or  duplicated  energy  functions  at various ministries will be consolidated and appropriate  line  ministry  terms  of  references will be introduced.  It is essential that the donors themselves improve the way in which  they  are  engaged  with  the  energy sector.  At present there are 25 donors engaged in the sector; in addition there are 15 different US agencies.  Afghan counterpart resources  are  limited  and  stretched  to  the limit.  Improved  governance  will  mobilize investment, mitigate corrupt practices and improve  the  technical  quality  of  energy supply.    A  viable  legal  and  regulatory framework will be established that includes
 
@@ -4736,25 +4656,27 @@ the  development  of  market-based  power purchase  and  production  sharing  ag
 
  Legal  reform  and  Regulatory  standards. Finalization of primary legislative and regulatory tools is essential.  These include mining regulations, the Hydrocarbons Upstream Law and drafting legislation for the electricity sector.  There are no meaningful technical  standards  or  financial  standards for operation in place; these need to be urgently  developed  as  well  as  staff  capacity to  implement  them.    The  Government  is working with the international community to  draft  a  revised  Hydrocarbons  Law  as well  as  mining  and  hydrocarbons  regulations).  Drafting of regulation for hydrocarbons  is  underway  in  the  strengthening  of the cadastre and inspectorate functions and more focus on grid and off-grid regulation of  electricity  as  well  as  liquid  fuels  is  required.
 
- Commercialization  and/or  divestiture  of state  and  'quasi-state'  assets: The  Government will assess its  sector  assets  and  a plan for liquidation, restructuring and commercialization or sale.  In particular the Government will provide more support for the  corporatization  and  commercialization of  national  power  operations.    Commercialization  and  increasing  the  efficiency  of the state power company DABM includes, for  example,  the  installation  of  international  accounting  and  procurement  practices  that  will  follow  in  other  energy  subsectors.
+ Commercialization and/or divestiture of state and 'quasi-state' assets: The Government will assess its sector assets and a plan for liquidation, restructuring and commercialization or sale. In particular the Government will provide more support for the corporatization and commercialization of national power operations. Commercialization and increasing the efficiency of the state power company DABM includes, for example, the installation of international accounting and procurement practices that will follow in other energy sub-sectors.
 
- Improve the enabling environment for private sector investment. As new energy developments  emerge  including  new  power import transmission, gas-fired power, coal-fired power and new hydro generation, the introduction of the private sector to finance and operate these assets will be important. In  most  instances  no  local  capacity  is  in place  to  support  these  market  operations and private investments. A market-friendly  enabling  environment to  facilitate private investment must be developed that is  sufficiently  flexible  to  entice  private  investment  but  effective  in  how  these  investments  are  monitored  to  safeguard  Afghan  resources,  workers,  consumers  and environment.    The  ANDS  energy  sector strategy calls for the establishment of a sec-
+ Improve the enabling environment for private sector investment. As new energy developments emerge including new power import transmission, gas-fired power, coal-fired power and new hydro generation, the introduction of the private sector to finance and operate these assets will be important. In most instances no local capacity is in place to support these market operations and private investments. A market-friendly enabling environment to facilitate private investment must be developed that is sufficiently flexible to entice private investment but effective in how these investments are monitored to safeguard Afghan resources, workers, consumers and environment. The ANDS energy sector strategy calls for the establishment of a sec-
 
 80
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 140]]
 
 [[START OF PAGE 141]]
 
-tor regulator, which will adopt a transparent  licensing  regime  and  establish  conditions that will attract private investment in electricity  generation  and  in  the  related fields  of  mining,  natural  gas  and  hydropower.    A  market-friendly  enabling  environment  to  facilitate  private  investment will  be  developed.    Key  areas  for  investment in the near term include: (i) increased domestic  power  generation  that  includes new  hydro  power,  natural  gas  and  coal-fired  power  facilities;  (ii)  power  distribution including lines, substations and metering;  (iii)  power  construction  and  services (i.e.,  outsourcing);  (iv)  exploration  and  exploitation  of  coal,  natural  gas  and  oil;  (v) installation  and  operation  of  rural  energy services.
+tor regulator, which will adopt a transparent licensing regime and establish conditions that will attract private investment in electricity generation and in the related fields of mining, natural gas and hydropower. A market-friendly enabling environment to facilitate private investment will be developed. Key areas for investment in the near term include: (i) increased domestic power generation that includes new hydro power, natural gas and coal-fired power facilities; (ii) power distribution including lines, substations and metering; (iii) power construction and services (i.e., outsourcing); (iv) exploration and exploitation of coal, natural gas and oil; (v) installation and operation of rural energy services.
 
  Expanded  Public  Power  Grid: The  Government is committed to improving energy access  for  people  across  the  country.    A high  priority  in  this  area  is  the  rehabilitation and expansion of grid-supplied power, including  investment  in  new  generation, distribution  and  transmission.    The  Government  is  also  implementing  a  series  of large and  small  infrastructure  improvements,  generation,  transmission  and  improved  distribution  of  electricity  throughout the country.  Future actions include: (i) rehabilitation and upgrading of Kabul and other key infrastructure areas (i.e., distribution - lines, substations, meters); (ii) development  of  the  North  East  Power  System (NEPS);  to  be  followed  by  the  South  East Power System (SEPS), Western and Eastern Power  Systems;  (iii)  construction  of  new transmission  and  related  distribution  for power  imports.    Installation  of  a  dispatch and  control  system  as  well  as  a  reactive power  system  will  be  underway  in  2008. These  on-going  donor  funded  activities  to expand the power grids will be adjusted to be  compatible  with  the  move  to  a  more market based system.
 
- Increase  Access  to  rural  energy  services: Micro-hydro,  solar,  waste  and  even  small diesel power and energy generating sources will be promoted to improve rural access.  Commercial operation of these services will be encouraged  and  technical standards  will  be  established  to  ensure cost-recovery, sustainability and safety. High levels of cost recovery will avoid preempting  potentially  more  efficient  provision of such services by the private sector. Several  private  firms  are  involved  in  the development  of  off-grid  power  supplies based  on  wind  or  solar  power  and  efforts will  be  made  to  encourage  the  development of these activities, or at least not undermine their viability with subsidized public sector activities.
+ Increase  Access  to  rural  energy  services: Micro-hydro,  solar,  waste  and  even  small diesel power and energy generating sources will be promoted to improve rural access.  Commercial operation of these services will be encouraged  and  technical standards  will  be  established  to  ensure cost-recovery, sustainability and safety. High levels of cost recovery will avoid preempting  potentially  more  efficient  provi-
 
- Increase Regional Cooperation and Trade in  Energy  Products: Afghanistan  is  geographically well positioned to import additional  resources  from  neighboring  countries.  Afghanistan joined as a full member the Central Asia South Asia (CASA) 1300mw project in November 2007.  Power purchase agreements (PPA) are being finalized for regular power imports from neighboring  countries  and  new  PPAs  are being  negotiated  for  increased  power  imports.  Afghanistan is also participating in ongoing planning for a Turkmenistan-Afghanistan-Pakistan-India  (TAPI)  natural gas pipeline.  A number of regional energy trade and import arrangements have commenced  and  will  contribute  to  long-term energy security.
+sion of such services by the private sector. Several  private  firms  are  involved  in  the development  of  off-grid  power  supplies based  on  wind  or  solar  power  and  efforts will  be  made  to  encourage  the  development of these activities, or at least not undermine their viability with subsidized public sector activities.
+
+ Increase Regional Cooperation and Trade in Energy Products: Afghanistan is geographically well positioned to import additional resources from neighboring countries. Afghanistan joined as a full member the Central Asia South Asia (CASA) 1300mw project in November 2007. Power purchase agreements (PPA) are being finalized for regular power imports from neighboring countries and new PPAs are being negotiated for increased power imports. Afghanistan is also participating in ongoing planning for a Turkmenistan-Afghanistan-Pakistan-India (TAPI) natural gas pipeline. A number of regional energy trade and import arrangements have commenced and will contribute to long-term energy security.
 
  Poverty Reduction Initiatives: The energy sector  will  provide  essential  power  supplies  needed  for  private  sector  development,  job  creation  and  poverty  reduction. Investments in the sector will create direct employment  opportunities  in  the  development of power plants, oil,  gas  and  coal fields, the construction of grid systems and the  commercial  operations  of  the  sector. The development of small energy installations  will  contribute  to  local  economic  development particularly in rural areas.  Subsidies for electricity will be maintained for the  poorest  households.    Micro-hydro,  solar, waste and even small diesel power and energy  generating sources will be  promoted to improve increased rural access to power.  Commercial operation of these services will be encouraged  and  technical standards  will  be  established  to  ensure cost-recovery, sustainability and safety.  A number  of  private  firms  are  currently  involved in the development of off-grid power  supplies  based  on  wind  or  solar power and efforts will be made to encourage the development of these activities.
 
@@ -4774,7 +4696,7 @@ The energy sector strategy  therefore  combines efforts supported by donor fundi
 
 ###### Integration  of  the  Provincial  Development Plans (PDPs)
 
-Access to electricity, both for domestic use through  the  extension  of  availability  of electricity to more remote villages, and for productive purposes such as factories and businesses was cited in 80 percent of Provincial Development Plans.  PDPs in eight provinces,  principally  in  the  center,  south and  south  east  of  the  country  report  progress  in  access  to  electricity  since  2005, however, provinces in the center and south also  most  frequently  mentioned  the  need for improvement.  Little mention or understanding was cited with respect to the non-electricity  use  of  energy,  i.e.,  for  heating, fuel for small equipment, vehicle fuel, etc.
+Access to electricity, both for domestic use through the extension of availability of electricity to more remote villages, and for productive purposes such as factories and businesses was cited in 80 percent of Provincial Development Plans. PDPs in eight provinces, principally in the center, south and south east of the country report progress in access to electricity since 2005, however, provinces in the center and south also most frequently mentioned the need for improvement. Little mention or understanding was cited with respect to the non-electricity use of energy, i.e., for heating, fuel for small equipment, vehicle fuel, etc.
 
 ###### Expected Outcomes:
 
@@ -4786,7 +4708,9 @@ The key outcomes of the sector strategy are:
 
  Increased Access to Rural Energy Services
 
- Enabling  environment  for  private  sector investment in energy sector. (For detail information  refer  to  Appendixes  3-National Action Plan and 4-Monitoring Matrix.)
+ Enabling  environment  for  private  sector investment in energy sector. (For detail in-
+
+formation  refer  to  Appendixes  3-National Action Plan and 4-Monitoring Matrix.)
 
 ##### WATER AND IRRIGATION
 
@@ -4802,7 +4726,7 @@ The Afghanistan Compact Benchmarks for Water Management commit both the Governme
 
 82
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 142]]
 
@@ -4832,7 +4756,7 @@ Given  the  importance  of  water  resources,  the Government  has  made  improv
 
  Steps have been undertaken to re-organize water resource management on the basis of an Integrated Water Resource Management System based on the five main river basins. Development will still be planned and implemented centrally, but in the future individual river basin organizations or authorities will be established.  Feasibility studies have been completed or are underway for small, medium and large water infrastructure projects.  The rehabilitation and modernization of hydrological stations  have been started.  Research and modeling of the availability  of  allocation  of  safe  drinking water  supplies  in  Kabul  are  being  developed.
 
- Significant progress has been made in providing  increased  access  to  safe  drinking water and sanitation.  The Afghanistan Urban Water Supply and Sewerage Corporation (AUWSSC) has been established. Some 80 water supply and sanitation projects  have  been  implemented  around  the country.    Research  and  assessment  of  the underground  water  resources  available  to Kabul is on-going.  The urban water supply systems  will  be  transformed  into  quasi-public  agencies.    Two  million  urban  resi-
+ Significant progress has been made in providing increased access to safe drinking water and sanitation. The Afghanistan Urban Water Supply and Sewerage Corporation (AUWSSC) has been established. Some 80 water supply and sanitation projects have been implemented around the country. Research and assessment of the underground water resources available to Kabul is on-going. The urban water supply systems will be transformed into quasi-public agencies. Two million urban resi-
 
 Economical and Social Development
 
@@ -4862,7 +4786,7 @@ For the immediate future, the Government centrally will play the dominant role i
 
 84
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 144]]
 
@@ -4878,7 +4802,7 @@ The river basin approach to water management will lead to improvements in captur
 
 While  an  IWRM  approach  has  major  benefits, supplementary comprehensive river basin data management programs are needed to support this  approach.    It  is  important  to  improve mechanisms regulating water use and to attract investment to rehabilitate and construct irrigation,  water  supply  and  sanitary  systems,  as well as hydropower generation.  Essential legislation and a new policy framework governing the water sector have been prepared.  The sector is in the process of transitioning from a project-by-project  approach  to  a  sector-wide  approach,  using  an  integrated  water  resources management (IWRM) system.  Improved governance  mechanisms  were  identified  and  are being  implemented.    Foremost  among  them was the formation of the Supreme Council for Water Affairs' Management (SCWAM), and its associated Technical Secretariat.
 
-Until the IWRM comes into effect, considerable reliance  will  have  to  be  put  on  a  project-by-project  approach for continued investments in rehabilitation  of  existing  systems.    New  projects need to be assessed relative to the returns from rehabilitation efforts and returns in other sectors
+Until the IWRM comes into effect, considerable reliance will have to be put on a project-by-project approach for continued investments in rehabilitation of existing systems. New projects need to be assessed relative to the returns from rehabilitation efforts and returns in other sectors
 
 Responsibilities  for  a  number  of  water  related activities  are  distributed  among  a  number  of line ministries and agencies.  Each of these entities have prepared sector specific strategies focusing on their particular sector mandate, often underemphasizing water related programs and/or activities.  Development of a water sector  strategy  therefore  requires  coordinating all relevant  water  sub-sector  strategies  being  administered  by  individual  government  entities into  one  single  unified  water  sector  strategy document.    The  following  sub-sectors  have been included in this unification:  (i) urban and rural water supply and sanitation; (ii) irrigation and drainage; (iii) hydro power; (iv) industrial water  supply  and  wastewater  disposal;  (v) flood protection and preparedness; (vi) drought  mitigation  measures;  and  (vii)  environmental requirements, including forestry, fisheries, and bio-diversity.  Facilitating related development  of  each  of  these  sub-sectors  will require  institution  building,  enhancement  of legal frameworks, capacity development, enlisting  economic  mechanisms,  and  intensive rehabilitation of infrastructure.
 
@@ -4892,9 +4816,9 @@ Economical and Social Development
 
 The Strategic  Policy  Framework for the Water Sector  approved  by  SCWAM  recommended that  the  following  policies,  laws,  regulations and procedures should be developed in order to move forward in the development of the water  sector.    Under  this  policy  framework,  the Water  Law  of  1991  will  be  revised;  water  resources and irrigation policies and regulations will  be  established  along  with  an  institutional framework  for  water  resources  management; regulations for Water User Associations will be developed;  plans  will  be  developed  and  steps taken  to  preserve  surface  and  underground water resources; national urban and rural water  supply  and  sanitation  policies  and  institutional  development  will  be  implemented;    access to  safe  drinking  water  and  improved drainage and sanitation systems will be established; and key groundwater and hydropower development plans and policies  will  be  established.
 
-For the immediate future, the Government will play the dominant role in setting policy priorities  and  decisions  pertaining  to  the  development  and  management  of  water  resources. This extends to policies, legislation, and institutions  under  which  water  management  can  in time  be  devolved  to  the  river  basin  and/or river sub-basin levels. (Management of groundwater  aquifers  may  sometime  necessitate collaboration with special inter-basin entities established for that purpose.)  Ongoing and planned water sector projects have been structured into  eight  programs  (i)  Institutional  Set-up  and  Capacity  Building  (ii)  National  Water Resources  Development  (iii)  National River Basin  Management  (iv)  Irrigation  Rehabilitation (v) Urban Water Supply and Sanitation (vi) Rural Water Supply and Sanitation (vii) Riverbank Protection (viii)  Agriculture  'Food  Security for All'.  For detail on all of the programs refer to ANDS volume II.  The highest priority programs are:
+For the immediate future, the Government will play the dominant role in setting policy priorities and decisions pertaining to the development and management of water resources. This extends to policies, legislation, and institutions under which water management can in time be devolved to the river basin and/or river sub-basin levels. (Management of groundwater aquifers may sometime necessitate collaboration with special inter-basin entities established for that purpose.) Ongoing and planned water sector projects have been structured into eight programs (i) Institutional Set-up and Capacity Building (ii) National Water Resources Development (iii) National River Basin Management (iv) Irrigation Rehabilitation (v) Urban Water Supply and Sanitation (vi) Rural Water Supply and Sanitation (vii) Riverbank Protection (viii) Agriculture 'Food Security for All'. For detail on all of the programs refer to ANDS volume II. The highest priority programs are:
 
- Institutional  Building  and  Capacity  Development Program :  Activities in this program focus on the institutional and human capacity  development  of  water  resources management  as  well  as  infrastructure  development at national, river basin and sub-basin levels. These  activities  have  been combined  into  a  comprehensive  program to  enhance  cooperation  between  projects and avoid duplication of efforts.
+ Institutional Building and Capacity Development Program: Activities in this program focus on the institutional and human capacity development of water resources management as well as infrastructure development at national, river basin and sub-basin levels. These activities have been combined into a comprehensive program to enhance cooperation between projects and avoid duplication of efforts.
 
  National  Water  Resources  Development Program :  Under the Water Law the Ministry of Energy and Water is responsible for the  preparation  of  a  national  water  resources development plan.  This plan will cover  the  development  of  water  resources for the social, environmental and economic needs of the country as well as: (i) elaborating  river  basin  development  and  management  plans,  fostering  ministry  and  water users'  capacity  for  on-farm  and  off-farm water  management;  (ii)  preparing  for  discussions  on  trans-boundary  water  issues with some neighbor countries; (iii) supporting  analytical  capacity  and  research;  (iv) enabling  private  investments  in  the  water sector;  and  (v)  proper  planning  and  implementation of infrastructure for rain and flood  water  harvesting,  supplementary  irrigation,  groundwater  recharge  and  soil stabilization.    As  a  first  step  in  the  development of this national development plan, a Master Plan for the Kabul River Basin has been  prepared.    In  addition,  the  Ministry has  prepared  a  list  of  water  resources  development projects in the five river basins.
 
@@ -4906,7 +4830,7 @@ These  programs  respond  to  the  dual  tasks  of remodeling and modernizing in
 
 86
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 146]]
 
@@ -4970,7 +4894,7 @@ Other major Government goals relating to agriculture and rural development shoul
 
 Agriculture  has  traditionally  been  the  major activity  for  a  large  proportion  of  the  population, particularly in the most remote areas.  The years of turmoil left much of the country's agriculture  and  rural  infrastructure  in  a  serious state of disrepair and led to a significant reduction of cultivatable land and degradation of the environment.  Between 1978 and 2004, agricultural production declined by an average of 3.5 percent a year; 50 percent of the livestock herd was lost between 1997 and 2004.
 
-Recent performance in the sector has been positive.    Measurable  progress  has  been  achieved since 2003 in improving rural livelihoods. Through a variety programs, almost 20,000 km of  rural  access  roads  (i.e.,  all  weather,  village-to-village  and  village-to-district  center  roads) have  been  constructed  or  repaired,  increasing access to markets, employment and social services.    More  than  500,000  households  (36  percent  of  villages)  have  benefited  from  small-scale  irrigation  projects.    Currently,  32.5  percent  of  the  rural  population  has  access  to  safe drinking  water  and  4,285  improved  sanitation facilities have been provided. More  than 336,000  households  have  benefited  from  improved  access to financial services.    Some 18,000  CDCs  have  been  established  and  are implementing community-led development projects.
+Recent performance in the sector has been positive. Measurable progress has been achieved since 2003 in improving rural livelihoods. Through a variety programs, almost 20,000 km of rural access roads (i.e., all weather, village-to-village and village-to-district center roads) have been constructed or repaired, increasing access to markets, employment and social services. More than 500,000 households (36 percent of villages) have benefited from small-scale irrigation projects. Currently, 32.5 percent of the rural population has access to safe drinking water and 4,285 improved sanitation facilities have been provided. More than 336,000 households have benefited from improved access to financial services. Some 18,000 CDCs have been established and are implementing community-led development projects.
 
 The  contribution  of  agriculture  to  GDP  increased from 48 percent in 2006 to 53 percent in 2007,  although  the  longer  run  trend  (not  including  opium)  is  down  due  mainly  due  to rapid growth in construction and other activities.    Other  achievements  include:  5.5  million metric tons of wheat and other grains produced in 2007 compared to 3.7 million metric tons in 2002; 0.9 million metric tons of horticulture and industrial crops produced in 2007 compared to 0.4 million metric tons in 2002; 3.2 million animals  received  veterinary  and  health  services; 5,000 metric tons of improved wheat seed was produced  and  distributed  to  farmers  in  28 provinces;  $120  million  is  to  be  invested  in commercial agriculture; more than 3,000 cooperatives  and  farmers  organization  have  been created and strengthened; and 20,000 cooperative members trained.
 
@@ -4980,7 +4904,7 @@ Ongoing  instability,  widespread  poverty  and lack  of  governance  resulted  
 
 88
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 148]]
 
@@ -5075,7 +4999,7 @@ The  other  14  programs  of  the  CARD  include:
 
 90
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 150]]
 
@@ -5299,7 +5223,7 @@ ICT  provides  an  opportunity  to  bridge  the communications  gap  that  exist
 
 In  early  2003,  Afghanistan  had  fewer  than 15,000  functioning  telephone  lines  -  a  telephone penetration  rate  of  0.06 percent,  among the lowest in the world.  In addition to a shortage  of  basic  telephone  switching  capacity,  the local transmission network delivering last mile services, presented an even more difficult bottleneck.  The cabling conduit, trunk cables and copper wires were old or completely destroyed.  Afghanistan did not have a functioning  long  distance  network  to  provide  national or  international  connectivity.    The  absence  of transmission and switching facilities meant that citizens  could  only  complete  calls  within  their own cities and were unable to reach any other parts of the country or the outside world.
 
-The Government adopted major policy reforms for the ICT sector in October 2002, which was immediately posted to one of the first government websites. This initial broad policy statement was further refined and divided into two
+The Government adopted major policy reforms for  the  ICT  sector  in  October  2002,  which  was immediately posted to one of the first government websites.  This initial broad policy statement was further refined and divided into two separate policies - one for basic telecom infrastructure and regulatory principles, and a second  for  ICT  applications  and  a  vision  for  the Information  Society.    These  policies  have  remained the basis for the reforms over the last five  years.    The  basic  principles  have  been given a statutory basis, in the form of the Telecom  Law  that  was  promulgated  in  December 2005.    The  telecom  infrastructure  aspects  are being  implemented  by  ATRA,  which  was  established  in  June  2006.    The  ICT  applications aspects  are  being  implemented  via  the  ICT Council, which was established in May 2007.
 
 96
 
@@ -5309,28 +5233,22 @@ Afghanistan National Development Strategy (ANDS )
 
 [[START OF PAGE 157]]
 
-separate policies – one for basic telecom infrastructure and regulatory principles, and a second for ICT applications and a vision for the Information Society. These policies have remained the basis for the reforms over the last five years. The basic principles have been given a statutory basis, in the form of the Telecom Law that was promulgated in December 2005. The telecom infrastructure aspects are being implemented by ATRA, which was established in June 2006. The ICT applications aspects are being implemented via the ICT Council, which was established in May 2007.
+service to be offered in Kabul within six months  of  the  effective  date,  with  nationwide service  within  18  months.    Pursuant  to  the original Telecom Policy, these first two licenses also  were  provided  a  legal  duopoly  for  three years.  In October 2005 and May 2006, two additional nationwide mobile (GSM) licenses were awarded, with identical terms and conditions.  There was immediate strong demand for mobile  services,  with  over  5 million  Afghans now having access.
 
-The transparent approach taken to the adoption of the policies and the consistency of the vision from design to implementation has produced rapid results. The fact that most of the existing infrastructure was either antiquated or broken meant that the industry was free to essentially start again with a clean slate. In 2003, the obvious choice for personal communications was wireless. Accepted global standards meant that the equipment was reliable, cheap and could be deployed rapidly. In July 2003, two nationwide mobile (GSM) networks began operation, following an international competitive tender. The licenses required commercial service to be offered in Kabul within six months of the effective date, with nationwide service within 18 months. Pursuant to the original Telecom Policy, these first two licenses also were provided a legal duopoly for three years. In October 2005 and May 2006, two additional nationwide mobile (GSM) licenses were awarded, with identical terms and conditions. There was immediate strong demand for mobile services, with over 5 million Afghans now having access.
-
-The 2003 ICT sector strategy has been the reference template for subsequent reform policies, procedures and activities. The Telecom Law was promulgated by President Karzai on 18th December 2005. The law is compliant with the World Trade Organization Basic Telecom Agreement framework requirements in that it separates the three basic functions and assigns responsibilities to three independent sector elements, as follows (i) Policy – MoCIT; (ii) regulation – ATRA; and (iii) operations – Licensed Service Providers. The Telecom Law has led to the establishment of the independent sector regulator, ATRA. The legal authority of ATRA rests with its five member board appointed by the President.
+The  transparent  approach  taken  to  the  adoption  of  the  policies  and  the  consistency  of  the vision from design to implementation has produced rapid results.  The fact that most of the existing infrastructure was either antiquated or broken meant that the industry was free to essentially start again with a clean slate.  In 2003, the  obvious  choice  for  personal  communications was wireless.  Accepted global standards meant  that  the  equipment  was  reliable,  cheap and  could  be  deployed  rapidly.    In  July  2003, two nationwide mobile (GSM) networks began operation,  following  an  international  competitive  tender.    The  licenses  required  commercial The 2003 ICT sector strategy has been the reference  template  for  subsequent  reform  policies, procedures  and  activities.    The  Telecom  Law was promulgated by President Karzai on 18th December 2005.  The law is compliant with the World Trade Organization Basic Telecom Agreement  framework  requirements  in  that  it separates the three basic functions and assigns responsibilities to three independent sector elements,  as  follows  (i)  Policy  -  MoCIT;  (ii) regulation  -  ATRA;  and  (iii)  operations  -  Licensed  Service  Providers.    The  Telecom  Law has led to the establishment of the independent sector regulator, ATRA.  The legal authority of ATRA  rests  with  its  five  member  board  appointed by the President.
 
 Figure 7.2. Growth in phone use
 
-Phone Users
-
-6000000
-5000000
-4000000
-3000000
-2000000
-1000000
-
 Y 1381
+
 Y 1382
+
 Y 1383
+
 Y 1384
+
 Y 1385
+
 Y 1386
 
 Despite the considerable progress in expanding the use of mobile phones, much more needs to be done to take advantage of the telecommunications revolution in both the private and public  sectors.  Impediments to the growth of ICT sector include:
@@ -5549,7 +5467,7 @@ Standards  of  servicing  will  be  based  on  affordability  of  target  groups
 
 Land security will be improved through mapping and land surveying of communities, tenure formalization, and land registration.  If informal  settlements  are  recognized  and  provided with tenure security, they are more willing to invest their own financial and other resources in improving the community and their houses.  Moreover, they can use the title as collateral.  Security of tenure may include formal and informal arrangements, from full land title to  customary  rights.    Although  the  tenure  legalization approach is popular, it is also possible  to  regularize  without  any  policy  intervention to legalize  tenure.    The  regularization strategy focuses on physical interventions, such as infrastructure, amenities provision, and health and education services.
 
-The Government, through the Dehsabz City Development Authority, will continue to examine the potential for the development of a new city on the Dehsabz plain north of the existing Kabul City. As part of the Dehsabz project, the Barikab area located to the north of the new city will become a private commercial agricultural zone designed to not only supply many of the needs of Dehsabz, but to become a center for the cultivation of exportable agricultural products. The development of this urban center will be undertaken primarily by the private sector. The extent of the Government's direct role will generally be limited to planning, investment in some of the basic urban infrastructure and facilitating private commercial investment. This project will be largely financially self-sustainable and become a center for new investment in private agro-based and service industries. Most of the land in Dehsabz belongs to the Government hence, the sale and lease of land will generate revenues needed for investment in the new city and for the pressing reconstruction and infrastructure development needs of Kabul.
+The  Government,  through  t he  Dehsabz  City Development Authority, will continue to examine the potential for the development of a new city on the Dehsabz plain north of the existing Kabul City. As part of the Dehsabz project, the Barikab  area  located  to  the  north  of  the  new city will become a private commercial agricultural zone designed to not only supply many of the  needs  of  Dehsabz,  but  to  become  a  center for  the  cultivation  of  exportable  agricultural products.  The development of this urban center will be undertaken primarily by the private sector.    The  extent  of  the  Government's  direct role  will  generally  be  limited  to  planning,  investment in some of the basic urban infrastructure  and  facilitating  private  commercial  investment.    This  project  will  be  largely  financially  self-sustainable  and  become  a  center  for new investment in private agro-based and service  industries.    Most  of  the  land  in  Dehsabz belongs to the Government hence, the sale and lease of land will generate revenues needed for investment in the new city and for the pressing reconstruction and infrastructure development needs of Kabul.
 
 ###### Housing :
 New housing will be produced and improved  through:  (i)  public  sector  housing production  (ii)  support  to  informal  and  small scale housing producers - the 'peoples housing process'; (iii) support to research and development  of  appropriate  building  materials  and technologies;  (iv)  upgrading  the  skills  of  contractors  and  laborers;  (v)  supporting  entrepreneurs  to  upgrade  or  set  up  building  components manufacturing units; (vi) support to private  sector  production,  particularly  of  rental housing.
@@ -5602,7 +5520,7 @@ Afghanistan National Development Strategy (ANDS )
 
  Improved  urban  environment  with  green areas and open spaces.
 
-For detail information, refer to Appendix 3-National Action Plan and 4-Monitoring Matrix.
+For  detail  information,  refer  to  Appendix  3National Action Plan and 4-Monitoring Matrix.
 
 ##### MINING
 
@@ -5612,17 +5530,17 @@ The ANDS strategic vision and goal of the mining sector is  to establish Afghani
 
 > 50 Note, these targets are also identified in the Water Sector Strategy.
 
-Experience during the period 1987 to 2000 has demonstrated that if governments address issues such as: up-dating the mineral policy and strategy; amending the mining legislation (particularly in respect of mining rights); up-dating the mining taxation regime; reinforcing government supervisory institutions; building greater capacity (including good governance) within institutions; and developing a reliable and comprehensive scientific database; the country can attract significant amounts of investment in this sector. Employment and benefits from opportunities for skill improvement will be substantial. Most mining related activity is expected to occur in isolated areas where unemployment is high. In addition, the large contribution that the mining sector will make to government revenues will increase the availability of social services, such as education and health services, which will contribute to increased security and stability.
-
-Table 7.3. Mining sector reform and its effect on economic growth
-
- | Exploration (US$m) |  | Production (US$m) |  | Exports (US$m) |
-Country | Before Reform | After Reform | Before Reform | After Reform | Before Reform | After Reform
+Exploration (US$m) | Production (US$m) | Exports (US$m)
 --- | --- | --- | --- | --- | --- | ---
+Country | Before Reform | After Reform | Before Reform | After Reform | Before Reform | After Reform
 Argentina | <3 | 150 | 340 | 1,310 | 70 | 700
 Chile | 15 | 250 | 2,400 | 7,500 | 2,300 | 6,900
 Peru | 10 | 200 | 2,000 | 3,900 | 1,900 | 3,600
 Tanzania | <1 | 35 | 53 | 350 | 53 | 350
+
+Table 7.3. Mining sector reform and its effect on economic growth
+
+Experience during the period 1987 to 2000 has demonstrated  that  if  governments  address  issues such as: up-dating the mineral policy and strategy; amending the mining legislation (particularly in respect of mining rights); up-dating the  mining  taxation  regime;  reinforcing  government supervisory institutions; building greater  capacity  (including  good  governance) within  institutions;  and  developing  a  reliable and comprehensive scientific database; the country  can  attract  significant  amounts  of  investment in this sector.  Employment and benefits  from  opportunities  for  skill  improvement will be substantial.  Most mining related activity is expected to occur in isolated areas where unemployment is high.  In addition, the large contribution  that  the  mining  sector  will  make to government revenues will increase the availability of social services, such as education and health  services,  which  will  contribute  to  increased security and stability.
 
 Economical and Social Development
 
@@ -5646,7 +5564,7 @@ In July 2005 a Minerals Law was approved by the Government.  In December 2005, a
 
 Some of the most immediate needs of the sector are  being  addressed  as  part  of  a  $30  million project supporting sustainable development of natural  resources.    The  main  purpose  of  this project is to assist the Ministry of Mines to improve  its  capacity  to  effectively  transform  the sector  so  that  it  is  primarily  operated  by  the private  sector  and  contributes  to  sustainable economic  growth  through  tax  revenues,  employment,  rural  development  and  economic spin-offs.    The  major  institutional  strengthening  objective  of  the  project  will  be  to  assist MoM to make the transition from a producer of minerals  and  other  commodities  to  a  policy making institution that will facilitate the operation of private firms within the industry.  It will also strengthen financial and budgetary procedures  in  the  ministry,  assist  with  the  internal geological  survey  work  being  done,  assist  in identifying  unlicensed  mining  operations,  and attempt  to  enforce  improved  and  safer  work mining work practices.
 
-The landlocked nature of Afghanistan and the current lack of rail links represent a barrier to the movement of large bulk commodities. Security difficulties limit mining in some areas, principally in the south. Roads, energy and water are all lacking. The danger of unexploded ordnance makes mining difficult. There is a shortage of trained labor. Most of the state-owned mining enterprises are not operating on a commercial basis. The North Coal Enterprise has been privatized and is operating successfully while Mineral Exploitation Enterprise and Afghan Gas are about to be privatized.
+The landlocked nature of Afghanistan and the current lack of rail links represent a barrier to the movement of large bulk commodities.  Security  difficulties  limit  mining  in  some  areas, principally  in  the  south.    Roads,  energy  and water  are  all  lacking.    The  danger  of  unexploded ordnance makes mining difficult.  There is a shortage of trained labor.  Most of the stateowned mining enterprises are not operating on a commercial basis.  The North Coal Enterprise has  been  privatized  and  is  operating  successfully while Mineral Exploitation Enterprise and Afghan Gas are about to be privatized.
 
 106
 
@@ -5677,7 +5595,7 @@ Top priority projects, in order of priority are:
 
 ###### Expected outcomes
 
-Given the known mining resources that are available, implementation of this strategy will lead to considerable investment in small and large projects. Mining will play a major role in achieving the high rates of economic growth envisioned in the ANDS and increased government revenues. Increased revenues will be derived from mining royalties, taxes and customs revenues on largely private operations as well as through licenses, permits and other taxes charged as part of the bidding process. Mining projects will generate employment opportunities for thousands of citizens, in remote areas where alternative legal productive opportunities are few. Mining firms will increasingly enter into the formal part of the economy. They will operate within a legislative framework that is accepted and impartially administered by MoM. Mining will bring with it access to advanced technology that can be of benefit in many areas of the economy. There will also be major indirect benefits from mining, including the construction of roads, bridges, housings, health clinics, mosques, playgrounds, schools and parks (for detail information refer to Appendixes 3-National Action Plan and 4-Monitoring Matrix).
+Given  the  known  mining  resources  that  are available,  implementation  of  this  strategy  will lead  to  considerable  investment  in  small  and large projects.  Mining will play a major role in achieving  the  high  rates  of  economic  growth envisioned  in  the  ANDS  and  increased  government revenues.  Increased revenues will be derived  from  mining  royalties,  taxes  and  customs revenues on largely private operations as well  as  through  licenses,  permits  and  other taxes  charged  as  part  of  the  bidding  process. Mining projects will generate employment opportunities for thousands of citizens, in remote areas where alternative legal productive opportunities are few.  Mining firms will increasingly enter  into  the  formal  part  of  the  economy. They  will  operate  within  a  legislative  framework that is accepted and impartially administered by MoM.  Mining will bring with it access to  advanced  technology  that  can  be  of  benefit in many areas of the economy.  There will also be major indirect benefits from mining, including  the  construction  of  roads,  bridges,  housings, health clinics, mosques, playgrounds, schools and parks (for detail information refer to  Appendixes  3-National  Action  Plan  and  4Monitoring Matrix).
 
 Economical and Social Development
 
@@ -5697,7 +5615,7 @@ The ANDS strategic objective for this sector is to improve the health and nutrit
 
  By  end-2010  full  immunization  coverage for infants under-5 for vaccine-preventable diseases will be achieved and their mortality rates reduced by 20 percent;
 
- Between 2003 and 2015 reduce the under-five mortality rate by 50 percent, and further reduce it to one third of the 2003 level by 2020;
+ Between 2003 and 2015 reduce the underfive  mortality  rate  by  50  percent,  and  further reduce it to one third of the 2003 level by 2020;
 
  Between  2002  and  2015  reduce  the  maternal  mortality  ratio  by  50  percent,  and  further reduce it to 25 percent of the 2002 level by 2020;
 
@@ -5825,7 +5743,7 @@ MoPH will enhance coordination between the MoPH and partner organizations throug
 MoPH  will  also  review  and  develop  relevant legal  and  regulatory  mechanisms,  such  as  accreditation  systems,  that  govern  health  and health  related  work  in  the  public  and  private sectors. The goal of the regulatory system will be  to  facilitate  competitive  and  cost  effective provision  of  services,  carrying  out  its  broader mandate to not only contract out service provision to civil and private groups but also to facilitate  growth  of  the  'for  profit'  sector.    This being  said,  MoPH  will  also  review,  develop and  enforce  relevant  legal  and  regulatory  instruments that govern health and health related work  to  safeguard  the  public  and  ensure  service quality.  MoPH will work to identify, encourage,  coordinate,  and  review  and  in  some cases conduct relevant, useful research that can assist evidence-based decision making and the formulation  of new  policies, strategies  and plans.  One  area  of  resource  is  with  respect  to facilitating  the  growth  of  the  private  sector providers  operating  on  their  own  outside  the framework of contracts from MoPH.
 
 ###### Human Resource Development, Research and  Administration  Programs:
-The MoPH will work closely with the Civil Service Commission to implement the National Priority Reform and Restructuring competitive recruitment processes for placing the most highly qualified Afghan health professionals in established posts throughout all levels of the health system. Efforts will be made to promote a culture of quality throughout the Health and Nutrition Sector, especially in health facilities, through leadership and good examples set in day-to-day work, strengthen the use of quality standards, and promote frequent supportive-supervision. A Quality Assurance Committee has been established to promote improvements in service within public sector facilities. Once effective regulatory mechanisms are developed and can be enforced, the MoPH will address quality issues in the private-for-profit sector, especially pharmacies and drug sellers. A comprehensive approach to human resource development will be developed to produce, deploy and retain where they are needed an appropriately trained health workforce possessing the variety of skills needed to deliver affordable, equitable and quality health care services. Further develop and maintain a health care worker registration system and a national testing and certification examination process (in collaboration with the Ministry of Higher Education) will be established standards for accreditation of training institutes and programs. There will be a significant Expansion of the community midwife training program model to other cadres of health workers, with particular emphasis on recruiting, training and deploying couples to work together in health facilities in their community after graduation. For more information refer to the Volume II and Appendix II, National Action Plan Matrix.
+The  MoPH will  work  closely  with  the  Civil  Service  Commission to implement the National Priority Reform  and  Restructuring  competitive  recruitment  processes  for  placing  the  most  highly qualified Afghan health professionals in established posts throughout all levels of the health system. Efforts will be made to promote a culture of quality throughout the Health and Nutrition Sector, especially in health facilities, through  leadership  and  good  examples  set  in day-to-day work, strengthen the use of quality standards,  and  promote  frequent  supportivesupervision.  A  Quality  Assurance  Committee has been established to promote improvements in  service  within  public  sector  facilities.  Once effective regulatory mechanisms are developed and  can  be  enforced,  the  MoPH  will  address quality  issues  in  the  private-for-profit  sector, especially  pharmacies  and  drug  sellers.    A comprehensive  approach  to  human  resource development  will  be  developed  to  produce, deploy  and  retain  where  they  are  needed  an appropriately  trained  health  workforce  possessing  the  variety  of  skills  needed  to  deliver affordable,  equitable  and  quality  health  care services. Further develop and maintain a health care worker registration system and a national testing  and  certification  examination  process (in  collaboration  with  the  Ministry  of  Higher Education)  will  be  established  standards  for accreditation  of  training  institutes  and  programs. There will be a significant Expansion of the community midwife training program model to other cadres of health workers, with particular emphasis on recruiting, training and deploying  couples  to  work  together  in  health facilities  in  their  community  after  graduation. For  more  information  refer  to  the  Volume  II and Appendix II, National Action Plan Matrix.
 
 Economical and Social Development
 
@@ -5842,7 +5760,7 @@ The MoPH will undertake health advocacy to increase funds and resources to the h
 
 Through the Basic Package of Health Services, the  contracting  out  initiative,  and  the  focused development of the MoPH's ability to exercise the stewardship function, highly effective partnerships with non-profit private sector agencies have been achieved. Strategic actions related to the  private  sector  include:  (i)  continuing  the effective  partnership  with  non-governmental organizations  in  the  health  sector  (ii)  further developing  the  MoPH's  capacity  to  establish policies, strategies and plans, monitor performance in delivery of health services and coordinate diverse actors from the public and private sectors  working  within  health  and  nutrition; and (iii) developing regulatory mechanisms for engaging the for-profit private sector. Many of the later issues have been discussed in describing earlier programs.
 
-Civil society plays a role in the delivery of health services and in the interaction between government and the population in determining health needs and priority areas. This strategy has been designed to specifically target the health and nutritional needs of the most vulnerable groups in Afghanistan. Civil Society groups will play a key role interacting between all players to ensure this happens. Recognizing that transparency and accountability are essential in order to attract resources, and aware that in a post-conflict environment many well-intentioned governmental and non-governmental partners tend to impose and arrange for the implementation of programs of their own design, the MoPH has pursued a strategy of close coordination with all actors in the health sector. A Consultative Group for Health and Nutrition that includes donors, major NGOs, ISAF, UN agencies, and other line ministries meets regularly to review recent developments in the health sector and to contribute to making policies and suggesting programs for the future. For more information refer to the volume II
+Civil  society  plays  a  role  in  the  delivery  of health  services  and  in  the  interaction  between government and the population in determining health  needs  and  priority  areas.  This  strategy has  been  designed  to  specifically  target  the health  and  nutritional  needs  of  the  most  vulnerable  groups  in  Afghanistan.  Civil  Society groups will play a key role interacting between all players to ensure this happens. Recognizing that transparency and accountability are essential in order to attract resources, and aware that in a post-conflict environment many  wellintentioned governmental and nongovernmental partners tend to impose and arrange  for  the  implementation  of  programs  of their  own  design,  the  MoPH  has  pursued  a strategy of close coordination with all actors in the  health  sector.  A  Consultative  Group  for Health and Nutrition that includes donors, major  NGOs,  ISAF,  UN  agencies,  and  other  line ministries meets regularly to review recent developments in the health sector and to contribute  to  making  policies  and  suggesting  programs for the future. For more information refer to the volume II
 
 The  Sub-national  Consultation  (SNC)  process of the ANDS has successfully involved the subnational  administration  of  the  sector.  It  has strengthened the sense of cohesion between the central MoPH and the provincial public health departments.    The  MoPH's  evaluation  criteria for the SNC proposals seek equity by looking at the  depth  of  poverty  and  vulnerability  of  the population  to  be  served.  It  takes  into  account health indicators of mothers and children, utilization and availability of the health services in the area of concern, and availability of funds: 51
 
@@ -5893,7 +5811,7 @@ Access to education is enshrined in the constitution, which states that:
 
 education 'is the right of all citizens and offered free of  charge  in  State  institutions….and that the State is obliged to devise and implement effective programs for a balanced expansion of education all over Afghanistan' (article 43).
 
-The education sector in Afghanistan comprises three sub-sectors: (i) Primary and Secondary Education, which includes general, Islamic and technical/vocational education, from Grades 1 to 14; (ii) Higher Education for all tertiary education; and (iii) Skills Development that en-
+The education sector in Afghanistan comprises three  sub-sectors:    (i)  Primary  and  Secondary Education, which includes general, Islamic and technical/vocational education, from Grades 1 to 14; (ii) Higher Education for all tertiary education;  and  (iii)  Skills  Development  that  encompasses  literacy and  technical vocational education/training The Millennium Development Goal for the sector is that by 2020 all children in the country boys and girls alike - will be able to complete a full course of primary education.  A set of medium term benchmarks (to be met by the end of 2010)  identified  in  the  Afghanistan  Compact has  guided  the  development  of  strategies  for each of the sub-sectors.
 
 Economical and Social Development
 
@@ -5903,11 +5821,7 @@ Economical and Social Development
 
 [[START OF PAGE 174]]
 
-compasses literacy and technical vocational education/training
-
-The Millennium Development Goal for the sector is that by 2020 all children in the country – boys and girls alike – will be able to complete a full course of primary education. A set of medium term benchmarks (to be met by the end of 2010) identified in the Afghanistan Compact has guided the development of strategies for each of the sub-sectors.
-
-The Afghanistan Compact Benchmarks for the sector is net enrolment in primary schools for girls and boys will be at least 60 percent and 75 percent respectively; a new curriculum will be operational in all secondary schools; the numbers of female teachers will be increased by 50 percent; 70 percent of Afghanistan’s teachers will have passed a competency test and a system for assessing learning achievement will be in place”. The total number of students enrolled in universities will be 100,000 of which at least 35 percent will be female”.150, 000 men and women will be trained in marketable skills through public and private means,
+The Afghanistan Compact Benchmarks for the sector  is  net  enrolment  in  primary  schools  for girls and boys will be at least 60 percent and 75 percent respectively; a new curriculum will be operational in all secondary schools; the numbers of female teachers will be increased by 50 percent;  70  percent  of  Afghanistan's  teachers will have passed a competency test and a system for assessing learning achievement will be in  place'.  The  total  number  of  students  enrolled in universities will be 100,000 of which at least  35  percent  will  be  female'.150,  000  men and women will be trained in marketable skills through public and private means,
 
 The Government has set itself a target to enable at  least  1.8  million  Afghans  to  attain  demonstrated literacy by 2010, and ensure that at least 60 percent of the learners are females, members of  minority  groups,  nomads  or  persons  with disabilities.
 
@@ -5923,7 +5837,7 @@ After  decades  of  disruption  to  education  and the near total destruction of
 
 ###### Box  7.4.  Success  in  the  education  sector: increased primary education
 
-The Back to School campaign launched in 2002 aimed to get 1.5 million children enrolled in primary and secondary education. From under one million in 2001 the school population has grown to 5.7 million in 2007 and new enrolments into Grade 1 have ranged between 12-14 percent per annum in the last five years. Two million of the children (or 35 percent) enrolled are girls – a 35 percent increase in five years. In keeping with the exponential increase in enrolment, the number of schools has trebled to 9,062 in 2007 including 1,337 all girls’ and 4,325 co-educational schools. Similarly, the number of teachers has increased seven-fold to 142,500 of who nearly 40,000 are female. Fifty thousand of these teachers have received in-service teacher training. Islamic education in Afghanistan has been reviewed and a broad-based curriculum has been developed through a national consultative process. The number of reformed religious schools that teach a broad-based Islamic education curriculum has increased to 336 and the National Islamic Education Council has been established to oversee and monitor the delivery of Islamic education across the country.
+The  Back  to  School  campaign  launched  in 2002 aimed to get 1.5 million children enrolled in primary and secondary education.  From under one million in 2001 the school population has grown  to  5.7 million  in  2007  and  new  enrolments  into Grade 1 have ranged between 12-14 percent per  annum  in  the  last  five  years.    Two million of the children (or 35 percent) enrolled  are  girls  -  a  35  percent  increase  in five  years.    In  keeping  with  the  exponential increase in enrolment, the number of schools has  trebled  to  9,062  in  2007  including  1,337 all  girls'  and  4,325  co-educational  schools. Similarly, the number of teachers has increased seven-fold to 142,500 of who nearly 40,000 are female.  Fifty  thousand of these teachers have received in-service teacher training. Islamic education in Afghanistan has been reviewed and a broadbased curriculum has been developed through a national consultative process.  The number  of  reformed  religious  schools  that teach a broad-based Islamic education curriculum  has  increased  to  336  and  the National Islamic Education Council has been established to oversee and monitor the delivery of Islamic education across the country.
 
 > 52 School Surveys Summary Report, 1386 (February 2008), Ministry of Education, Islamic Republic of Afghanistan.
 
@@ -5949,7 +5863,7 @@ The  demand  for  education  far  outstrips  the supply across the sector in Afg
 
 Half of all schools today do not have adequate, safe or appropriate learning spaces that are conducive to parents allowing their girls, particularly at the secondary  level,  to  enroll  in  schools.    This together  with  a  severe  shortage  of  female teachers in  rural  areas  -  80  percent  of  rural districts  do  not  have  a  girls'  high  school because there are no female teachers available  locally  to  teach  in  them  (there  are only 216 girls' high schools across the country, a majority of them located in regional  and  provincial  capitals).    Only  28 percent of all teachers are women and eighty percent of them are found in urban schools. Schools  for  children  with  special  needs  are woefully lacking while those for Kuchi children are inadequate.  Every year between 40,000-70,000 youth graduate from high schools  across  the  country  but  only  25-30 percent  of  them  are  able  to  enter  tertiary education  due  to  the severe shortage  of places  in  higher  education  institutions.  In 2006  there  were  58,300  applicants  for  entry into  tertiary  education  institutions.    Only 17,700 were successful. Most of the universities have buildings that require rehabilitation and there is a drastic shortage of qualified lecturers.
 
-The lack of access to education in the recent past has resulted in a massive backlog of illiterate people in Afghanistan. Based on recent national surveys54 it is estimated that only 28 percent of the population in the country can read. Disaggregated by gender this statistic reveals that only 18 percent of females and 36 percent of males are able to read, a female to male ratio of 0.5. Based on population projections developed specifically for this work and literacy rates by the Afghan Institute for Rural Development it is estimated that there are 11.2 million illiterate persons in the country
+The  lack  of  access  to  education  in  the  recent past has resulted in a massive backlog of illiterate  people  in  Afghanistan.    Based  on  recent national  surveys 54 it  is  estimated  that  only 28 percent of the population in the country can read.    Disaggregated  by  gender  this  statistic reveals  that  only  18 percent  of  females  and 36 percent of males are able to read, a female to male ratio of 0.5.  Based on population projections  developed  specifically  for  this  work  and literacy rates by the Afghan Institute for Rural Development  it  is  estimated  that  there  are 11.2 million  illiterate  persons  in  the  country today, half of whom are out-of-school children primarily above the age of thirteen.
 
 > 54 NRVA 2005 and projected population projections specifically developed for this report.
 
@@ -5961,9 +5875,7 @@ Economical and Social Development
 
 [[START OF PAGE 176]]
 
-today, half of whom are out-of-school children primarily above the age of thirteen.
-
-Other quality constraints revolve around teaching spaces, teacher and trainer qualifications, skills and motivation, outdated curricula and poor teaching and learning materials. Add to this weak assessment and accreditation systems. Only half the teachers employed in the primary and secondary sub-sector meet the minimum qualification which is set at Grade 12 for primary school teachers. But this is hampered by the numbers of high schools graduates available and/or willing to train as teachers. There is major shortage of qualified master trainers in the vocational training.
+Other quality constraints revolve around teaching  spaces,  teacher  and  trainer  qualifications, skills  and  motivation,  outdated  curricula  and poor teaching and learning materials.  Add to this  weak  assessment  and  accreditation  systems.  Only half the teachers employed in the primary  and  secondary  sub-sector  meet  the minimum qualification which is set at Grade 12 for  primary  school  teachers.  But  this  is  hampered  by  the  numbers  of  high  schools  graduates available and/or willing to train as teachers.  There is major shortage of qualified master trainers in the vocational training.
 
 Primary school curriculum has been reviewed and  revised  and  new  textbooks  developed; production and distribution of these textbooks is  still  ongoing.    However,  secondary  school students are still being taught from an outdated curriculum developed more than 20 years ago. While  a  new  curriculum  has  been  developed over the last 12 months, the development, production and distribution of textbooks, teachers' guides  and  learning  materials  will  take  a  further  12-18  month  period.    Teacher  training  in the use and teaching of the new curriculum still needs to be addressed.  Libraries and laboratories  are  singularly  lacking  even in  most  urban schools and higher education institutions as are trained librarians, technicians and science teachers.  In higher education there is a need to transform the monolithic system into a modern system of independent, well managed universities  that  operate  in  the  interests  of  their  students. Technical/vocational education and training are overloaded with academic subjects, have poor laboratory environments for practical training, are short of teaching aids and lack adequate  training  materials.    These  programs provide  limited  exposure  to  students  on  the practical application of their training.
 
@@ -5978,7 +5890,7 @@ Perhaps the most daunting challenge facing the sector  today  is  that  which  i
 Three  dominant  policy  goals  drive  the  education  sector  strategy;  equity,  quality  and  relevance:
 
 ###### Equity :
-Access to education for all is enshrined in the Constitution which makes it illegal to deny or refuse access to schools for any reason. Although there has been significant progress in the past five years at the national level, boys' enrolment in primary schools is still nearly twice that of girls, while at the secondary levels it is three to four times higher. In urban areas girls are approaching gender equity but only at
+Access to education for all is enshrined in  the  Constitution  which  makes  it  illegal  to deny or refuse access to schools for any reason. Although there has been significant progress in the  past  five  years  at  the  national  level,  boys' enrolment  in  primary  schools  is  still  nearly twice that of girls, while at the secondary levels it is three to four times higher.  In urban areas girls are approaching gender equity but only at the primary level.  In rural areas, girls are much less  likely  to  be  enrolled at  any level  but  after the primary years boys are more than ten times as likely to be enrolled.  The shortage of girls' schools and female teachers, especially at post-primary levels, are the greatest risk factors for achieving higher participation rates and gender equity  in  rural  areas.    Access  to  education  for nomadic children, those with learning disabilities,  pre-school  children  and  older  children who have missed the first years of basic education and now want to enter the system is also generally low.
 
 116
 
@@ -5988,12 +5900,10 @@ Afghanistan National Development Strategy (ANDS )
 
 [[START OF PAGE 177]]
 
-the primary level. In rural areas, girls are much less likely to be enrolled at any level but after the primary years boys are more than ten times as likely to be enrolled. The shortage of girls' schools and female teachers, especially at postprimary levels, are the greatest risk factors for achieving higher participation rates and gender equity in rural areas. Access to education for nomadic children, those with learning disabilities, pre-school children and older children who have missed the first years of basic education and now want to enter the system is also generally low.
-
-Equity in access to primary and secondary education will provide a firm base for equity in higher education. In order to improve and increase access, the government plans to pursue an aggressive building and equipment program in addition to assessing the potential for distance learning strategies. This will include assessing the optimal role for government and identifying strategies for achieving national coverage relatively quickly through the use of existing national facilities. As part of the aggressive building program, efforts will be made to include improved security, comfort and hygiene in the building designs in order to improve the physical learning environment. Improvement in equitable access to education will be indicated through increased net enrolment in the various sub-sectors, by gender and special needs; additional physical infrastructure and facilities for that caters to all including females, special needs and nomadic communities in suitable locations.
+Equity  in  access  to  primary  and  secondary education will provide a firm base for equity in higher education.  In order to improve and increase access, the government plans to pursue an  aggressive  building  and  equipment  program in addition to assessing the potential for distance  learning  strategies.    This  will  include assessing the optimal role for government and identifying strategies for achieving national coverage relatively quickly through the use of existing  national  facilities.    As  part  of  the  aggressive building program, efforts will be made to include improved security, comfort and hygiene  in  the  building  designs  in  order  to  improve the physical learning environment.  Improvement in equitable access to education will be  indicated  through  increased  net  enrolment in the various sub-sectors, by gender and special  needs;  additional  physical  infrastructure and facilities for that caters to all including females, special needs and nomadic communities in suitable locations.
 
 ###### Quality :
-The quality of education in Afghanistan  is  quite  low  across  the  sector.    There  are multiple  reasons  for  this  including  teachers who do not have a thorough knowledge of either  the  subjects  taught  or  effective  teaching methods; the lack of adequate learning spaces, as  well  as  the  lack  of  quality  teaching  and learning materials.  The classroom environment and  the  quality  of  education  are  critically  dependent  on  the  quality  of  teaching.    Teachercentered  classrooms  and  rote  learning  are  the norm  in  Afghanistan's  classrooms  across  the sector.    Existing  classroom-based  methods  do no  deliver  basic  literacy  and  numeracy  and they do not develop critical thinking and analytical skills of students.  Teachers either do not know how to implement more studentcentered methods  or  are not motivated  to change their teaching style.
+The quality of education in Afghanistan  is  quite  low  across  the  sector.    There  are multiple  reasons  for  this  including  teachers who do not have a thorough knowledge of either  the  subjects  taught  or  effective  teaching methods; the lack of adequate learning spaces, as  well  as  the  lack  of  quality  teaching  and learning materials.  The classroom environment and  the  quality  of  education  are  critically  dependent  on  the  quality  of  teaching.    Teacher-centered  classrooms  and  rote  learning  are  the norm  in  Afghanistan's  classrooms  across  the sector.    Existing  classroom-based  methods  do no  deliver  basic  literacy  and  numeracy  and they do not develop critical thinking and analytical skills of students.  Teachers either do not know how to implement more student-centered methods  or  are not motivated  to change their teaching style.
 
 Although  improving  the  pedagogical  skills  of teachers is a contributor to improving the quality of education in Afghanistan, recent surveys indicate that the knowledge level of teachers is also extremely low.  This indicates the need for a teacher training program that consists of both subject-content training as well as pedagogical training.  The quality of education will also be improved by continued updating and revision of the curriculum and by increased community involvement  in  the  management  of  education delivery.    Enhanced  quality  of  education  will be  measured  by  the  progression  rates  of  students through the system and the numbers of teachers who have successfully completed competency tests and the systems put in place to monitor and coach teachers on a regular basis.
 
@@ -6006,7 +5916,7 @@ The review and revision of curriculum to make Islamic  education  broad-based  t
 
 The underlying principle of government in ensuring  equal  access  to  education  for  all  is  to develop a strategy that is national in scope but local in focus and delivery.  Different measures will be required to overcome constraints to access and supply due to geography and thereby promote the diversity of Afghanistan.
 
-Government will work towards strengthening partnerships, clarifying responsibility and
+Government will  work  towards  strengthening partnerships, clarifying responsibility and transferring skills.  The value and contribution of  partners  to  the  education  sector  will  be  enhanced  through  improved  understanding  and collaborative implementation.
 
 Economical and Social Development
 
@@ -6016,9 +5926,7 @@ Economical and Social Development
 
 [[START OF PAGE 178]]
 
-transferring skills. The value and contribution of partners to the education sector will be enhanced through improved understanding and collaborative implementation.
-
-A government-led education sector needs to be supported through building an accountable and transparent system of education financing and administration. The underpinning strategy that the government will employ to achieve its policy goals, therefore, is the reform and restructuring of the management systems in place that facilitate the delivery of education services. At the primary and secondary school level, a major policy shift seeks to devolve greater authority to the school level for minor operating expenses, planning and execution. This is part of the overall intention to improve governance and management standards.
+A government-led education sector needs to be supported  through  building  an  accountable and transparent system of education financing and administration. The underpinning strategy that the government will employ to achieve its policy  goals,  therefore,  is  the  reform  and  restructuring of the management  systems  in place  that  facilitate  the  delivery  of  education services.  At the primary and secondary school level,  a  major  policy  shift  seeks  to  devolve greater authority to the school level for minor operating  expenses,  planning  and  execution. This is part of the overall intention to improve governance and management standards.
 
 Recruitment processes will be reviewed and be part  of  the  overall  public  administration  reforms.  Registration of all teaching professionals across the sector, implementation of public administration reform, teacher salaries and other incentives are being reviewed as part of the pay and grading process, including appropriate  career  development  of  teaching  professionals based on merit and performance to increase  retention,  in  conjunction  with  the  Civil Service Commission.
 
@@ -6032,7 +5940,7 @@ A comprehensive  five-year  strategic  plan 55   for  the delivery of education 
 ###### Higher  Education :
 The Higher  Education strategy involves improving quantity and quality aspects to satisfy the demand for the market based economy with skilled professionals.  This will  involve  increasing  the  capacity  to  accommodate more qualified students, together with an improvement in the quality of higher education  by  improving  the  number  and  quality  of lecturers and offering a greater variety of courses.    There  are  plans  to  provide  universities with greater autonomy.  A key component of  the  strategy  is  to  encourage  universities  to enter into cooperative arrangements with other universities, both domestic and foreign, so that there  can  be  an  exchange  of  lecturers.  Implementation  of  this  strategy  has  already  commenced.    Eleven  cooperative  partnerships  between  individual  universities  in  the  country with  well  qualified  foreign  universities  are  in various stages of finalization.
 
-In 2007 a Higher Education Law has been passed by Cabinet. A Master's course has already begun as part of the objective to offer a greater variety of courses. Ministry of Higher Education has started to introduce accreditation through the Academic Coordination Committee. This body, whilst still in the early stages will also be involved in quality assurance and control, which is an integral component of the accreditation procedures. This component of the strategy will be monitored by the structure that has been established through an agreement and Memorandum of Understanding (MoU) signed with the World Bank on establishment of Afghanistan National Qualification Authority. In its efforts to improve the quality of Higher Education, most funds available to the Ministry will be used to refurbish the existing university campuses and
+In  2007  a  Higher  Education  Law  has  been passed by Cabinet.  A Master's course has already begun as part of the objective to offer a greater variety of courses.  Ministry of Higher Education  has  started  to  introduce  accreditation through the Academic Coordination Committee.  This body, whilst still in the early stages  will  also  be  involved  in  quality  assurance and control, which is an integral component  of  the  accreditation  procedures.    This component of the strategy will be monitored by the structure that has been established through an  agreement  and  Memorandum  of  Understanding  (MoU)  signed  with  the  World  Bank on establishment of Afghanistan National Qualification  Authority.    In  its  efforts  to  improve  the  quality  of  Higher  Education,  most funds available to the Ministry will be used to refurbish the existing university campuses and carry out construction of buildings for libraries and laboratories in the existing universities.  It is also important as part of the strategy to conduct  a  review  of  university  funding  so  that universities  have  greater autonomy. For detail information refer to Volume II.
 
 > 56 Outputs of these programs contribute to the development and delivery of the Skills Development sub-sector.
 
@@ -6044,8 +5952,6 @@ Afghanistan National Development Strategy (ANDS )
 
 [[START OF PAGE 179]]
 
-carry out construction of buildings for libraries and laboratories in the existing universities. It is also important as part of the strategy to conduct a review of university funding so that universities have greater autonomy. For detail information refer to Volume II.
-
 ###### Skills Development and Training :
 Many of the courses delivered by mandated institutions suffer from the similar problems: lack of modern equipment that can be used by students to acquire  trade-relevant  skills  and  lack  of  adequately trained and motivated staff.  Issues that need  to  be  addressed  include  the  need  to clearly identify administrative responsibility for delivering and setting standards in the area of vocational education.  There are problems of staff shortages, overbuilding, lack of standardization  in  training  courses,  and  qualifications that are difficult for potential employers to access.    These  problems  are  being  addressed through the MoU mentioned above.
 
@@ -6055,7 +5961,7 @@ Technical/vocational  education,  as  part  of  the formal secondary education, 
 
 There  are  now  firm  proposals  agreed  to  by relevant  institutions  to  the  establishment  of regulatory  bodies  to  operate  across  the  whole of the education spectrum in order to improve educational standards.  These include a Board of Secondary Education, a National Vocational Education and training Board, the Islamic Education  Board  and  Higher  Education  Board.    It has been agreed to establish the necessary legislation for these Boards and for the implementation  of  the  Afghanistan  National  Qualifications  Framework.  In  order  to  oversee  these components  of  the  strategy  a  committee  on education  and  skills  policy  has  been  established.  This committee covers the entire education sector.  It is chaired by the Vice-President. There  are  four  Government  members  representing MoE, MoHE, MoLSAMD and MoF, two members  representing  the  private  sector  and two members representing the donor community.  A committee to monitor Capacity Utilization,  headed  by  the  Minister  of  economy  will also be established.  This committee will monitor individual projects where there is potential for  capacity  utilization  issues  to  present  implementation problems.  The private sector will be  represented  on  this  Committee.  For  detail information refer to Volume II.
 
-In some countries, heavy investments in higher education have resulted in low returns because of low absorption capacity for these skills in the economy, with unemployment rates high for graduates unwilling to take jobs considered beneath their skill level. If the quality of education can be improved, this is not expected to be a problem in Afghanistan where there is a
+In some countries, heavy investments in higher education have resulted in low returns because of low absorption capacity for these skills in the economy,  with  unemployment  rates  high  for graduates  unwilling  to  take  jobs  considered beneath their skill level.  If the quality of education can be improved, this is not expected to be a  problem  in  Afghanistan  where  there  is  a dearth of well qualified individuals.  Increased investment is crucial for the demand for labor to increase. This requires higher rates of growth, broad investment to increase and productivity to be higher.  With increased investment in many areas of the economy, there will be high demand for well qualified Afghans.
 
 Economical and Social Development
 
@@ -6065,18 +5971,16 @@ Economical and Social Development
 
 [[START OF PAGE 180]]
 
-dearth of well qualified individuals. Increased investment is crucial for the demand for labor to increase. This requires higher rates of growth, broad investment to increase and productivity to be higher. With increased investment in many areas of the economy, there will be high demand for well qualified Afghans.
-
-There is an urgent need for qualified teachers, trainers, doctors, professors, for those with the requisite skills for planning and implementing improved water management practices, for qualified professionals in the Civil Service, for skills needed in the management and development of mineral resources, for meeting the management and safety needs of a growing civil aviation sector, for managing and maintaining an expanding road system, for work in regional trading enterprises centered in Afghanistan, in developing, energy resources, working in Independent Power Producers, and in managing and improving electricity transmission and distribution systems, developing commercial agriculture, and working in operations to assist the poor and most vulnerable either within or outside government. If the ANDS educational strategy is successful in addressing the quality shortcomings in the public education system and expanding the scope for private education, the expected growth of the economy will create the demand for well qualified Afghans emerging from the educational system. Care will need to be taken to assure that existing but less qualified employees in the public sector do not block the way of better qualified applicants for these jobs, although these existing employees should also be given the opportunity to develop the needed skills through in house capacity development programs and through 'educational leaves' to upgrade their skills.
+There is an urgent need for qualified teachers, trainers, doctors, professors, for those with the requisite skills for planning and implementing improved  water management  practices, for qualified professionals in the Civil Service, for skills  needed  in  the  management  and  development  of  mineral  resources,  for  meeting  the management  and  safety  needs  of  a  growing civil  aviation  sector,  for  managing  and  maintaining an expanding road system, for work in regional  trading  enterprises  centered  in  Afghanistan, in developing, energy resources, working in Independent Power Producers, and in  managing  and  improving  electricity  transmission  and  distribution  systems,  developing commercial agriculture, and working in operations  to  assist  the  poor  and  most  vulnerable either  within  or  outside  government.    If  the ANDS educational strategy is successful in addressing the quality shortcomings in the public education system and expanding the scope for private  education,  the  expected  growth  of  the economy will create the demand for well qualified  Afghans  emerging  from  the  educational system.    Care  will  need  to  be  taken  to  assure that existing but less qualified employees in the public  sector  do  not  block  the  way  of  better qualified  applicants  for  these  jobs,  although these existing employees should also be given the  opportunity  to  develop  the  needed  skills through  in  house  capacity  development  programs and through 'educational leaves' to upgrade their skills.
 
 There  are  other  sub-sector  policies  covering areas  such  as  Sport  and  the  Afghan  Academy of Science.
 
- In  sports  policy  there  will  be  an  effort made to encourage private sector support. Provided  funds  are  available,  there  is  a program  to  build  sports  complexes  and strengthen sports through provincial sports departments and sports improvement programs  in  capital  and  provinces.  The  antinarcotics message will be promoted strongly through sports activities.
+ In  sports  policy  there  will  be  an  effort made to encourage private sector support. Provided  funds  are  available,  there  is  a program  to  build  sports  complexes  and strengthen sports through provincial sports departments and sports improvement programs  in  capital  and  provinces.  The  anti-narcotics message will be promoted strongly through sports activities.
 
  The  Academy  of  Science  will  be  strengthened  and  supported  so  as  to  use  the  resources and talents of the academy to assist with  the  restoration  and  development  of Afghanistan society
 
 ###### Integration of the PDPs:
-At the provincial and district level Provincial and Development Plans (PDPs),  have  been  developed  through  a  subnational  consultation  process.  These  Plans  ensure that the priorities in the ANDS reflect the best  interests  and  most  urgent  needs  of  the people.  The  most  urgent  provincial  needs  in education,  health,  and  transport  have  been identified  and  will  be  integrated  in  the  sector strategies.  A  problem  in  the  education  sector has been direct provincial infrastructure aid by country donors, such as construction of provincial agricultural colleges, that is not sustainable because the provincial recipient does not have the funds to finance the running costs, including as salaries and equipment, which are essential  to  enable  this  type  of  infrastructure  aid  to make a contribution to provincial development. For detail information refer to Volume III Provincial Development Plans.
+At the provincial and district level Provincial and Development Plans (PDPs),  have  been  developed  through  a  sub-national  consultation  process.  These  Plans  ensure that the priorities in the ANDS reflect the best  interests  and  most  urgent  needs  of  the people.  The  most  urgent  provincial  needs  in education,  health,  and  transport  have  been identified  and  will  be  integrated  in  the  sector strategies.  A  problem  in  the  education  sector has been direct provincial infrastructure aid by country donors, such as construction of provincial agricultural colleges, that is not sustainable because the provincial recipient does not have the funds to finance the running costs, including as salaries and equipment, which are essential  to  enable  this  type  of  infrastructure  aid  to make a contribution to provincial development. For detail information refer to Volume III Provincial Development Plans.
 
 ###### Institutional  Arrangements :
 Education  services are delivered by a number of government institutions. The  Ministry of Education  is mandated  to  deliver  primary  and  secondary education, including general education, Islamic education, teacher education, technical/vocational  education  and  literacy.    The Ministry of Higher Education is responsible for all tertiary education while the Ministry of Labor  and  Social  Affairs  is  mandated  to  deliver vocational training.
@@ -6085,7 +5989,7 @@ Education  services are delivered by a number of government institutions. The  M
 
 ###### Role of the Sector in ANDS
 
-The ANDS strategic vision for this sector is to preserve and protect the cultural heritage of Afghanistan and hand it on to new generations to foster cultural creativity and to establish media that are independent, pluralistic and accessible to women and men throughout the country thereby promoting an open and democratic society, young people (male and female) to be confident that they have a stable,
+The ANDS strategic vision for this sector is to preserve  and  protect  the  cultural  heritage  of Afghanistan and hand it on to new generations to  foster  cultural  creativity  and  to  establish media  that  are  independent,  pluralistic  and accessible  to  women  and  men  throughout  the country  thereby  promoting  an  open  and  democratic  society,  young  people  (male  and  female)  to  be  confident  that  they  have  a  stable, prosperous and productive future in the country.
 
 120
 
@@ -6095,9 +5999,7 @@ Afghanistan National Development Strategy (ANDS )
 
 [[START OF PAGE 181]]
 
-prosperous and productive future in the country.
-
-Culture provides the social basis that allows for stimulating creativity, innovation, human progress and well-being. In this sense, culture can be seen as a driving force for human development, in respect of economic growth and also as a means of leading a more fulfilling intellectual, emotional, moral and spiritual life.
+Culture  provides  the  social  basis  that  allows for stimulating creativity, innovation, human  progress  and  well-being.  In  this sense,  culture  can  be  seen  as  a  driving force for human development, in respect of economic  growth  and  also  as  a  means  of leading a more fulfilling intellectual, emotional, moral and spiritual life.
 
 The Afghanistan Constitution article 47 articulates  that  the  state  shall  devise  effective  programs for fostering knowledge, culture, literature  and  arts.  The  state  shall  guarantee  the copyrights of authors, inventors and discoverers,  and,  shall  encourage and protect scientific research  in  all  fields,  publicizing  their  results for  effective use in accordance with the provisions of the law. Freedom of expression shall be inviolable  according  to  Article  34  and  every Afghan shall have the right to express thoughts through speech, writing, and illustration
 
@@ -6118,7 +6020,7 @@ Many historical and valuable artifacts that were believed lost or stolen have be
 
 In  Media,  a  large  number  of  media  outlets, television,  radio  and  newspapers  have  been started in the last six years.  These stations produce considerable local Afghan content and are popular within the country.  The media law is drafted and is under debate.
 
-In  Youth  a  Joint  National  Youth  Program  is being implemented.  This program is designed to  increase  the  participation  of  youth  in  governance, recovery,  development  and  peacebuilding of the country.  It has been produced from  inputs  by  eight  Ministries  and  seven United Nations agencies.
+In  Youth  a  Joint  National  Youth  Program  is being implemented.  This program is designed to  increase  the  participation  of  youth  in  governance, recovery,  development  and  peace-building of the country.  It has been produced from  inputs  by  eight  Ministries  and  seven United Nations agencies.
 
 ###### Challenges and constraints
 
@@ -6136,7 +6038,7 @@ Economical and Social Development
 
  In  the  area  of  culture,  legal  and  policy frameworks, such as those guaranteeing respect of cultural rights for all Afghans, are weak and not comprehensive.
 
- Most  media  infrastructure  and  equipment for both print and broadcast media are outof-date  or  have  been  damaged  or  deliberately  destroyed.  State-owned  media  needs to  be  reformed  in  order  to  ensure  that  it promotes democratic values and is editorially  independent  of  influences  from  various interested factions.
+ Most  media  infrastructure  and  equipment for both print and broadcast media are out-of-date  or  have  been  damaged  or  deliberately  destroyed.  State-owned  media  needs to  be  reformed  in  order  to  ensure  that  it promotes democratic values and is editorially  independent  of  influences  from  various interested factions.
 
  Media legislation that will provide an environment in which a free, independent and responsible  media  can  operate  has  been drafted.  It  will  be  passed  through  Parliament  in  2008.  Despite  some  setbacks,  the Government  is  determined  that  the  freedoms  that  have  been  introduced  will  remain and will be protected by appropriate legislation.
 
@@ -6180,7 +6082,7 @@ Expected outcomes for the media sub-sector in the short term will include:
 
 ###### Youth
 
-The contribution of this sub-sector to the ANDS will be to instill in young people a sense of confidence in a stable, prosperous and productive future in the country. In addition a Joint National Youth Program is now in the process of being implemented. This program has been produced with inputs from eight Ministries of the Government of Afghanistan and seven United Nations agencies is designed to increase the participation of youth in governance, re-
+The contribution of this sub-sector to the ANDS will be to instill in young people a sense of confidence in a stable, prosperous and productive future  in  the  country.  In  addition  a  Joint  National Youth Program is now in the process of being  implemented.  This  program  has  been produced with inputs from eight Ministries of the  Government  of  Afghanistan  and  seven United Nations agencies is designed to increase the  participation  of  youth  in  governance,  recovery, and peaceful development of the country.  It  provides  young  women  and  men  with enhanced capacities, education, and recreation and employment opportunities.
 
 122
 
@@ -6190,9 +6092,7 @@ Afghanistan National Development Strategy (ANDS )
 
 [[START OF PAGE 183]]
 
-covery, and peaceful development of the country. It provides young women and men with enhanced capacities, education, and recreation and employment opportunities.
-
-The Joint National Youth Program contains four main components:
+The  Joint  National  Youth  Program  contains four main components:
 
  Strengthening  the  capacity  of  the  Government to respond to the needs of the youth of the country;
 
@@ -6236,7 +6136,7 @@ Spring  2007)  estimated  that  42  percent  of  the total population was estima
 Afghanistan  has one of the lowest life expectancies in the world with the life expectancy of 43 years for women and 44 years  for  men.      Unlike  in  most  countries,  the  life  expectancy  of  women  is  shorter than  for  men.    Faced  with  natural  disasters, many vulnerable families sold the assets, children  were  taken  out  of  school  to  work,  many pre-pubescent  girls  were  married  and  many young men migrated in search for work.
 
 ###### Life-cycle  and  social  risks :
-Despite  legislation  prohibiting  this  practice,  around  57  percent of girls are married before the age of sixteen.      The  early  marriage  of  girls,  and  consequently, early pregnancy, puts women in high risk. Widespread poverty and the nonexistence  of  an  effective  safety  net  or  pension system leaves a high proportion of elderly people  vulnerable.    According  to  a  study  conducted by UNIFEM, out of the 1,327 registered cases  of  violence  against  women  30.7  percent were related to physical violence.
+Despite  legislation  prohibiting  this  practice,  around  57  percent of girls are married before the age of sixteen.      The  early  marriage  of  girls,  and  consequently, early pregnancy, puts women in high risk. Widespread poverty and the non-existence  of  an  effective  safety  net  or  pension system leaves a high proportion of elderly people  vulnerable.    According  to  a  study  conducted by UNIFEM, out of the 1,327 registered cases  of  violence  against  women  30.7  percent were related to physical violence.
 
 ###### Environmental risks and seasonality :
 People's high dependence on natural resources has increased with rising poverty resulting in serious  devastation  of  the  environment.    Forests have  been  seriously  depleted.    This  adversely affects soil stability and weakens flood protection.    According  to  the  NRVA  2005  the  consumption of the poorest is the highest in summer while  it  typically  falls  to  critical  levels  in winter.
@@ -6254,6 +6154,8 @@ Public works | 1,700,000
 Microfinance | 340,000
 Total | 2,442,067
 
+
+
 A rough estimate shows that half of the Afghan population  (12  million)  requires  public  support.  They are either poor or concentrated very close to the poverty line and are vulnerable to falling  into  poverty.    In  2006  only  around  2.5 million people benefited from social protection arrangements.    Currently  social  protection  interventions  cover  several  groups:  (i)  martyr's families; (ii) disabled with war-related disabilities; (iii)  orphans and children enrolled in kindergartens; (iv) victims of natural disasters; (v) pensioners;  and  (vi)  unemployed.    A  rough calculation shows that the Government would require annually around $2 billion just to keep the  poorest  and  most  vulnerable  above  the poverty line.
 
 ###### Sector targets and expected results
@@ -6264,7 +6166,7 @@ The  implementation  the  strategy  will  aim  to achieve  the  following  targe
 
  By end-2012/13 prevalence of underweight children under five in urban and rural areas will decrease by 2 percent per year; by end-2012/13  proportion  of  the  population below  minimum  level  of  dietary  energy consumption  (urban  and  rural  areas)  will decrease by 2 percent per year;
 
- By March-2011, the number  of  femaleheaded  households  that are chronically poor  will  be  reduced  by  20  percent  and their  employment  rate  will  increase  by  20 percent;
+ By March-2011, the number  of  female-headed  households  that are chronically poor  will  be  reduced  by  20  percent  and their  employment  rate  will  increase  by  20 percent;
 
  By  end-2010  increased  assistance  will  be provided  to  meet  the  special  needs  of  all disabled people, including their integration into society through opportunities for education and gainful employment;
 
@@ -6296,7 +6198,7 @@ Implementation  of  these  strategic objectives and  priority  policies  will  l
 
 Fiscally sound and well targeted social protection interventions are of critical importance for improving  the  poverty  outcomes.    The  Government is committed to pursuing sustainable interventions  through  social  support,  pension system  and  by  strengthening  disaster  preparedness and response.  Given the scarce donor and public funds the focus will be put on supporting the most vulnerable (i.e., the poorest of the  poor)  by  allocating  adequate  resources  to the poorest areas through nationwide targeted programs  and  transfers  and  by  phasing  out non-targeted  subsidies  (such  as  energy  subsidies)  and  building  the  planning  and  administrative  capacity  of  the  MoLSAMD  (and  other line ministries) to deliver  coordinated  programs and improve social protection.
 
-The ANDS strategic objectives for the social protection sector are to decrease vulnerability of large number of Afghans and to help the poor to climb out of poverty. It is also to empower the poor and make their voices heard – to decrease inequality, especially among women, and to enhance social inclusion of the neglected such as minorities and disabled. The ultimate objective is to build a country of social justice in line with Islamic values and Afghan traditions. Other important objectives are to support economic growth by improving human capital accumulation; and to support the stability of the country by reducing poverty and increasing social inclusion.
+The  ANDS  strategic  objectives  for  the  social protection  sector  are  to  decrease  vulnerability of  large  number  of  Afghans  and  to  help  the poor to climb out of poverty.  It is also to empower the poor and make their voices heard – to decrease inequality, especially among women, and to enhance social inclusion of the neglected such as minorities and disabled.  The ultimate objective is to build a country of social justice  in  line  with  Islamic  values  and  Afghan traditions.    Other  important  objectives  are  to support  economic  growth  by  improving  human capital  accumulation;  and  to  support  the stability  of  the  country  by  reducing  poverty and increasing social inclusion.
 
 To  achieve  these  objectives  the  Government will  pursue  the  following  priority  policies:  (i) maintain macroeconomic stability, ensure equitable  growth  and  increase  mobilization  of  domestic  revenues;  (ii)  build  fiscally  sustainable social  support  and  pension  systems;  and  (iii) improve  disaster  preparedness  and  response capacity.
 
@@ -6307,9 +6209,9 @@ In  the  future  social  protection  will  target  two main groups: the populati
 
 ###### Box  7.7.  Greater  support  to  poor  families with small children: Zakat-based tax
 
-Limited resources are impediment for more substantial support to the poor families with small children. Introduction of the Zakat-based tax and establishment of the Afghanistan Social Protection Fund to attract charity contributions in line with the Islamic values could mobilize significant resources to support vulnerable families. Larger support to poor families with small children would decrease prevalence of underweight children and infant mortality. Given this, the MoLSAMD will initiate public debate about prospects and modalities for introduction of the Zakat-based tax.
+Limited resources are impediment for more substantial support to the poor families with small  children.  Introduction  of  the  Zakat-based tax and establishment of the Afghanistan Social Protection Fund to attract charity contributions in line with the Islamic values  could  mobilize  significant  resources to support vulnerable families. Larger support to poor families with small children would  decrease  prevalence  of  underweight children and infant mortality. Given this, the MoLSAMD will initiate public debate about prospects and modalities for introduction of the Zakat-based tax.
 
-The population 'at risk' includes: (i) chronically poor female headed households with small children; (ii) children 'at risk'(orphans, street working children, children in begging
+The  population  'at  risk'  includes:  (i)  chronically  poor  female  headed  households  with small  children;  (ii)  children  'at  risk'(orphans, street  working  children,  children  in  begging and exploitative work; children in conflict with law;  children  with  mothers  in  detention;  children with severe disability);  (iii)  poor  persons with disability; (iv) victims of violence, such as women and children victims of violence, abuse and victims of human trafficking; (v) extremely vulnerable  individuals,  including  mentally  ill persons,  and  drug  addicts,  and  (vi)  unemployed, underemployed and victims of natural disaster.
 
 Economical and Social Development
 
@@ -6319,9 +6221,7 @@ Economical and Social Development
 
 [[START OF PAGE 186]]
 
-and exploitative work; children in conflict with law; children with mothers in detention; children with severe disability); (iii) poor persons with disability; (iv) victims of violence, such as women and children victims of violence, abuse and victims of human trafficking; (v) extremely vulnerable individuals, including mentally ill persons, and drug addicts, and (vi) unemployed, underemployed and victims of natural disaster.
-
-The target group of 'war survivors' includes: (i) martyr's families from the previous and ongoing conflict; (ii) disable individuals with war related disability, and (iii) civilian victims of the ongoing conflict.
+The target group of 'war survivors' includes: (i) martyr's families from the previous and ongoing conflict; (ii) disable individuals with war related  disability,  and  (iii)  civilian  victims  of the ongoing conflict.
 
 The civilian victims of the ongoing conflict includes the following vulnerable groups: (i) families who lost the breadwinner or members as  result  of  military  operations;  (ii)  families who lost their breadwinner or members as result  of  suicide  bombing  that  targeted  international or Government troops; (iii) families that lost  the  breadwinner  or  members  as  result  of military  attack  at  the  international  or  Government  troops;  (iv)  individuals  which  became disabled  as  result  of  military  operations;  (e) individuals  that  became  disabled  as  result  of suicide  or  military  attacks  on  international  or Government  troops;  and  (vi)  families  or  individuals whose property was destroyed or damaged as result  of  military  operations,  suicide and military attack at the international and the Government troops.  Social support to this group  will  be  coordinated  with  the  support from the MoD and MoI.
 
@@ -6333,9 +6233,9 @@ Future  social  support  systems  will  include  most  of  the  existing  public
 The current cash transfers to the martyr's families  and  individuals  with  war  related  disabilities  will  be  integrated into the pension system and will cease to be part of the social support system.    However,  this  will  occur  only  in  the medium term and after completion of pension reforms.  The new direct cash transfers will be gradually  introduced  for  the  poor  disabled with non-war related disability.  The inclusion of the poorest families with small children into direct  cash  transfers  will  depend  on  mobilization  of  domestic  revenues  and  possible  introduction of the Zakat-based tax.
 
 ###### Payment  in  kind ,
-through  distribution  of humanitarian  assistance,  will  continue  to  be used to support higher children's enrolment in schools  (e.g.,  food  for  education)  and  training of teachers (e.g., food for training).  According to the NRVA 2005 the poorest households have critically  low  consumption  during  winter,  especially in March.  Therefore, a new system of payments  in  kind  will  be  introduced  for  the poorest families with small children (winterization).    The  parcels  with  basic  food  and  nonfood items will be distributed through Afghan Red  Crescent  Society  to  support  the  poorest households in the most difficult period of year. Given  the  high  incidence  of  rural  poverty  the new program will be developed to provide free distribution of livestock, orchards and tools for farming  helping  the  poor  to  diversify  agriculture production.  Both, direct cash transfers and payments  in  kind  will  be  made  conditional: poor  families  will  have  to  enroll  children  in school  and  take  them  to  regular  health  checkups.
+through  distribution  of humanitarian  assistance,  will  continue  to  be used to support higher children's enrolment in schools  (e.g.,  food  for  education)  and  training of teachers (e.g., food for training).  According to the NRVA 2005 the poorest households have critically  low  consumption  during  winter,  especially in March.  Therefore, a new system of payments  in  kind  will  be  introduced  for  the poorest families with small children (winterization).    The  parcels  with  basic  food  and  non-food items will be distributed through Afghan Red  Crescent  Society  to  support  the  poorest households in the most difficult period of year. Given  the  high  incidence  of  rural  poverty  the new program will be developed to provide free distribution of livestock, orchards and tools for farming  helping  the  poor  to  diversify  agriculture production.  Both, direct cash transfers and payments  in  kind  will  be  made  conditional: poor  families  will  have  to  enroll  children  in school  and  take  them  to  regular  health  check-ups.
 
-Given the extent of unemployment, skills development will remain one of the high priority public arrangements in the social support system. However, the terms of reference of the NSDP will be changed to introduce the most vulnerable as the highest priority group for skills development training. Public works programs, such as NSP, NABDP and NRAP will continue to provide job opportunities for the poor. Moreover, the new public work program
+Given  the  extent  of  unemployment,  skills  development will remain one of the high priority public arrangements in the social support system.    However,  the  terms  of  reference  of  the NSDP  will  be  changed  to  introduce  the  most vulnerable  as  the  highest  priority  group  for skills development training.  Public works programs,  such  as  NSP,  NABDP  and  NRAP  will continue  to  provide  job  opportunities  for  the poor.  Moreover, the new public work program to  re-forest  Afghanistan (i.e., 'Greening of Afghanistan') will be introduced to supply additional jobs to  decrease  deforestation  of  the country.    All  programs  will  be  redesigned  to reach  the  most  isolated  and  remote  areas.    In addition to other public arrangements, targeted land distribution and lump sum payments will continue  to  be  used  to  help  the  poorest  war victims and victims of natural disaster.
 
 126
 
@@ -6345,9 +6245,7 @@ Afghanistan National Development Strategy (ANDS )
 
 [[START OF PAGE 187]]
 
-to re-forest Afghanistan (i.e., 'Greening of Afghanistan') will be introduced to supply additional jobs to decrease deforestation of the country. All programs will be redesigned to reach the most isolated and remote areas. In addition to other public arrangements, targeted land distribution and lump sum payments will continue to be used to help the poorest war victims and victims of natural disaster.
-
-###### Diversification of the market based arrangements :
+###### Diversification  of  the  market  based  arrangements :
 In  Afghanistan,  market  based arrangements  for  social  protection  are  dominated by microfinance schemes.  These will be further  developed  and  strengthened.    However,  efforts  will  be  made  to  develop  other market-based arrangements such as increasing financial  market  literacy  and  the  introduction of  community-based insurance schemes.  Loss of  women's  inheritance  entitlements  to  male relatives  and  denial  of  their  property  rights prevents women from using collateral and limits access loans for creating employment opportunities.  Therefore, future Government policies will  introduce  measures  to  enforce  women's rights to inheritance.
 
 ###### Strengthening informal arrangements for social risk management :
@@ -6382,7 +6280,7 @@ Implementation  of effective  social  protection  reform  will  require signific
 The  main  objective  of  pension reform will be to improve old-age protection  (especially for civil servants and military) and establish fiscally sustainable pension schemes.    Priorities  will  include  the  enhancement of  fiscal  sustainability  by  increasing  collection of the pension contributions, and building the capacity of the Pension Department
 
 ###### Design  of  the  pension  reform :  Coverage:
-The future pension system will cover the same groups of employees that are covered in the current system (civil servants and military personal). The system will remain a defined benefit system based on a formula that will take into account age, years of service, and a specified accrual rate. The average benefit for an employee with 25 years of service will equal 50 percent of final pay after Pay and Grading reform. The benefit accrual rate will be 2 percent for each year of service. This formula will be
+The future pension system will cover the same groups  of  employees  that  are  covered  in  the current system (civil servants and military personal).  The system will remain a defined benefit system based on a formula that will take into account  age,  years  of  service,  and  a  specified accrual  rate.    The  average  benefit  for  an  employee  with  25  years  of  service  will  equal  50 percent of final pay after Pay and Grading reform.  The benefit accrual rate will be 2 percent for  each  year  of  service.    This  formula  will  be adjusted  to  increase  equity,  reduce  cost,  and address human resource needs of the Government.  Pension benefits will be increased in absolute  terms  (as  a  result  of  Pay  and  Grading reform),  but  reduced  as  a  percentage  of  last drawn  pay  of  an  employee.    They  will  be automatically  indexed  for  increases  in  cost  of living  to  preserve  the  value  of  pensions.    Employees will be eligible for a pension at age 65 if they have ten years of service and will be able to retire at age 55 if they have accumulated 25 years  of  service.    In  addition  to  regular  pensions benefits will be provided to pre-retirement  and  post-retirement  war  survivors. The  existing  direct  cash  transfers  to  martyr's families  and  individuals  with  war  related  disability  will  be  integrated  into  the  future  pension system.
 
 Economical and Social Development 127
 
@@ -6390,9 +6288,7 @@ Economical and Social Development 127
 
 [[START OF PAGE 188]]
 
-adjusted to increase equity, reduce cost, and address human resource needs of the Government. Pension benefits will be increased in absolute terms (as a result of Pay and Grading reform), but reduced as a percentage of last drawn pay of an employee. They will be automatically indexed for increases in cost of living to preserve the value of pensions. Employees will be eligible for a pension at age 65 if they have ten years of service and will be able to retire at age 55 if they have accumulated 25 years of service. In addition to regular pensions benefits will be provided to preretirement and post-retirement war survivors. The existing direct cash transfers to martyr's families and individuals with war related disability will be integrated into the future pension system.
-
-###### Financing and transition :
+###### Financing  and  transition :
 The  pension  system will be self-financed from government and employee contributions on wages (payroll tax). Direct budget subsidies will be gradually eliminated.  The overall contribution, however, will increase from 11 percent of pay to 16 percent  to  ensure  fiscal  sustainability.    Around  2 percent (of the 16 percent) will be used to fund post-retirement  survivors'  benefits.    Both,  the Government  and  employees  will  contribute  8 percent of the payroll amount.  The employee's contribution  will  gradually  increase  while  the Government's will gradually be reduced.  Employees  retiring  before  implementation  of  the Pay  and  Grading  reform  will  earn  pension based on the current pension system rules.
 
 The  implementation  of  pension  reforms  will also  be  supported through the National Social Protection  Sector  Program.    The  specific  components of the pension reform will include: (i) budget subsidies to the pensions system (which will gradually be eliminated); (ii) capacity building, and (iii) modernization of equipment. Preliminary costing of the funding needs have identified the cost of around  $150 million which will mainly be covered through the Core Budget (mainly budget subsidies for payments of the pensions which will be eliminated in five years).
@@ -6416,7 +6312,7 @@ Employees  of  the  current  pension  department,  including  management,  will 
 The  main  objectives of  the  sub-sector  strategy  for  disaster  preparedness  will  be  to  decrease  risks  from  natural disasters  and  improve  disaster  preparedness and response with the aim of protecting human lives, assets, public infrastructure and the environment.    This  objectives will  be  achieved through implementation of the following priority  policies:  (i)  to  strengthen  the  capacity  of ANDMA, not only for coordination and policy making,  but  also  for  implementation  of  programs and projects; (ii) to strengthen the capacity  of  line  ministries  for  disaster  preparedness and disaster response; (iii) to enhance the provincial  and  community mechanisms for disaster preparedness and response; (iv) to improve coordination within the Government for disaster  preparedness and response; (v) to improve aid  coordination  in  the  area  of  delivering  the humanitarian  assistance,  and  (vi)  to  address long-term needs for rehabilitation.
 
 ###### ANDMA :
-Under existing legislation, the prime responsibility of ANDMA is to coordinate
+Under existing legislation, the prime  responsibility  of  ANDMA  is  to  coordinate  the  Government's  efforts  and  to  provide policy making.  However, lack of the responsibility  for  implementation  of  key  projects  for disaster preparedness/response and over-reliance  on  the  line  ministries  is  a  weakness. Therefore, the existing legislation will be amended to reflect  the  need  to  strengthen  the ANDMA's role  in  implementing  key  projects. It is important to stress that line ministries will remain  responsible  for  the  implementation  of most projects for disaster preparedness/response.
 
 128
 
@@ -6426,9 +6322,7 @@ Afghanistan National Development Strategy (ANDS )
 
 [[START OF PAGE 189]]
 
-the Government's efforts and to provide policy making. However, lack of the responsibility for implementation of key projects for disaster preparedness/response and overreliance on the line ministries is a weakness. Therefore, the existing legislation will be amended to reflect the need to strengthen the ANDMA's role in implementing key projects. It is important to stress that line ministries will remain responsible for the implementation of most projects for disaster preparedness/response.
-
-Disaster preparedness will also be supported by the National Social Protection Sector Program and will include: (i) finalization of risk vulnerability assessments and disaster preparedness plans at the national and sub-national level; (ii) strengthening the capacity and the role of the ANDMA; (iii) establishing the emergency operation centers at the provincial level and regional warehouses; and (iv) modernization of equipment.
+Disaster  preparedness  will  also  be  supported by  the  National  Social  Protection  Sector  Program  and  will  include:  (i)  finalization  of  risk vulnerability assessments and disaster preparedness  plans  at  the  national  and  sub-national level;  (ii)  strengthening  the  capacity  and  the role of the ANDMA; (iii) establishing the emergency operation centers at the provincial level and regional warehouses; and (iv) modernization of equipment.
 
 ###### Priority  measures  to  support  sub-sector  strategy for disaster preparedness:
 
@@ -6453,7 +6347,7 @@ The ANDS strategic objective for the Refugee, Returnee and Internally Displaced 
 
 More than five  million  persons  have  returned to their homes since 2002.  Yet over three million Afghan refugees remain in Iran and Pakistan.  Several hundred thousand others are present  in  former  Soviet  Union  countries  (CIS, CAR) and Europe.
 
-The majority of those that remain in Pakistan (2.1 million) and Iran (0.9 million) have been in exile for over twenty years remain a serious constraint for voluntary repatriation. The presence of these communities places strains on both the Government and neighboring country
+The  majority  of  those  that  remain  in  Pakistan (2.1 million) and Iran (0.9 million) have been in exile  for  over  twenty  years  remain  a  serious constraint for voluntary repatriation.  The presence  of  these  communities  places  strains  on both the Government and neighboring country governments.    The  desire  of  the  neighboring countries  to  engineer  large  scale  return  is  a challenge to the principle of voluntary repatriation.    Experience  indicates  that  such  pressures will  not  produce  sustainable  or  humane  outcomes.    This  is  particularly  the  case  for  extremely vulnerable individuals:  unaccompanied  women,  unaccompanied  minors,  women at risk, the elderly, the very poor, those in need of medical care and drug addicted individuals.
 
 Economical and Social Development
 
@@ -6463,9 +6357,7 @@ Economical and Social Development
 
 [[START OF PAGE 190]]
 
-governments. The desire of the neighboring countries to engineer large scale return is a challenge to the principle of voluntary repatriation. Experience indicates that such pressures will not produce sustainable or humane outcomes. This is particularly the case for extremely vulnerable individuals: unaccompanied women, unaccompanied minors, women at risk, the elderly, the very poor, those in need of medical care and drug addicted individuals.
-
-Economic and social reintegration faces many constrains and challenges. Since 2005 repatriation of refugees has slowed down considerably. This is attributable to a number of factors: (i) the deterioration in the security situation; (ii) limited economic opportunities, including employment, upon arrival; (iii) access to housing; (iv) limited access to basic health and education facilities; and (v) the length of time in exile. Lower return figures have led to an increase in the pressures from the neighboring countries to stem the continuing trend of out-migration from Afghanistan. The most visible indication has been the deportation of over 350,000 unregistered Afghans from Iran.
+Economic  and  social  reintegration  faces  many constrains and challenges.  Since 2005 repatriation of refugees has slowed down considerably. This  is  attributable  to  a  number  of  factors:  (i) the  deterioration  in  the  security  situation;  (ii) limited economic opportunities, including employment, upon arrival; (iii) access to housing; (iv) limited access to basic health and education facilities;  and  (v)  the  length  of  time  in  exile. Lower return figures have led to an increase in the pressures from the neighboring countries to stem  the  continuing  trend  of  out-migration from  Afghanistan.  The  most  visible  indication has been the deportation of over 350,000 unregistered Afghans from Iran.
 
 It is very probable that high levels of mass and voluntary repatriation are over.  The refugees' long stay in exile, poverty, and dissuasive conditions in many parts of Afghanistan are likely to  prove  difficult  obstacles  to  overcome  in  future.
 
@@ -6525,7 +6417,7 @@ Depending on the  success  of  the  implementation  of  the  ANDS  and  the  spe
 
  Scenario One : progress towards peace and security,  political  stability,  economic  and social  development  improves  on  current trend  lines.    There  are  no  changes  to  current legal and operational frameworks governing repatriation.  Support for reintegration through national programs benefits from increased  and  better  targeted  investments.  Afghans continue to enjoy international legal protection as refugees.  Internal displacement  continues  as  a  consequence of  localized  conflict.    Under  these  conditions, it may be envisaged that a projected figure  of  between  800,000  and  1,000,000 Afghans return home voluntarily and sustainably, predominantly to the west, north and central regions of the country.
 
- Scenario Two : progress towards peace and security,  political  stability,  economic  and social development follows current trends. The number of Afghans returning outside the Tripartite Framework increases as a result  of  new  measures  introduced  by  the neighboring  countries.  Support  for  reintegration through national programs benefits from increased  and  better  targeted  investments and improved response capabilities. The  terms  and  conditions  for  registered Afghans to remain in the neighboring countries  deteriorate.  Conflict  induced  internal  displacement  persists,  especially  in southern  Afghanistan.  Under  these  conditions  it  may  be  envisaged  that  a  projected overall  figure  of  600,000  -  800,000  returns voluntarily or are returned.
+ Scenario Two : progress towards peace and security,  political  stability,  economic  and social development follows current trends. The number of Afghans returning outside the Tripartite Framework increases as a result  of  new  measures  introduced  by  the neighboring  countries.  Support  for  reintegration through national programs benefits from increased  and  better  targeted  investments and improved response capabilities. The  terms  and  conditions  for  registered Afghans to remain in the neighboring countries  deteriorate.  Conflict  induced  internal  displacement  persists,  especially  in southern  Afghanistan.  Under  these  conditions  it  may  be  envisaged  that  a  projected overall  figure  of  600,000  –  800,000  returns voluntarily or are returned.
 
  Scenario  Three :  progress  towards  peace and  security,  political  stability,  economic and  social  development  deteriorate.  There are no changes to current legal and operational  frameworks  governing  repatriation. Support for reintegration through national programs benefits from increased and better  targeted  investments  but  implementation  is  weak  due  to  poor  operating  conditions (security). Afghans continue to enjoy a measure of international legal protection as  refugees  though less  than  before.  Internal displacement  continues  as  a  consequence  of  localized  conflict.  Under  these conditions, it may be envisaged that a projected figure of between 400,000 and 600,000  Afghans  return  home  voluntarily and sustainably, predominantly to the west, north and central regions of the country.
 
@@ -6639,7 +6531,7 @@ Ongoing efforts to increase Government capacity  to  manage  returns  will  cont
 
 The sector strategies summarized here identify the ANDS strategic objectives, principal output targets and the projects and programs that will be required to reach these goals.  More detailed sector and ministry strategies are presented in ANDS Volume II.
 
-The objective of the ANDS with respect to economic and social development is to provide
+The objective of the ANDS with respect to economic  and  social  development  is  to  provide effective  support  to  the  mobilization  of  the country's resources through the private sector, including efficiently providing the needed physical,  legal  and  commercial  infrastructure and institutional frameworks, while taking action to meet the pressing needs of the poor and most vulnerable members of the society.  This strategy  recognizes  the  need  to  highlight  the lessons  learned  over  the  past  six  years.  These have been reflected in common themes that run throughout the ANDS.
 
 Economical and Social Development
 
@@ -6649,9 +6541,7 @@ Economical and Social Development
 
 [[START OF PAGE 194]]
 
-effective support to the mobilization of the country's resources through the private sector, including efficiently providing the needed physical, legal and commercial infrastructure and institutional frameworks, while taking action to meet the pressing needs of the poor and most vulnerable members of the society. This strategy recognizes the need to highlight the lessons learned over the past six years. These have been reflected in common themes that run throughout the ANDS.
-
-The ANDS provides a renewed emphasis on mobilizing private sector investment, both because of the limited resources available relative to the tasks at hand, and also because of the much greater efficiency evident with private sector operations compared to either state owned enterprises, Ministry implementation efforts, and donor funded and implemented activities. This principle is reflected in most of the sector strategies under this pillar. A model for these efforts to be considered is what has been accomplished in the telecommunications sector. Of course, for many reasons, it is easier to establish a good enabling environment and regulatory framework for telecommunications services than it is to bring private investment into the development of natural resources, infrastructure and public utilities or even provision of educational and health care services. A number of the approaches set out in the ANDS are either built on enabling private investment to play a greater role in sectors presently dominated by state operations (e.g., power, mining) or to carrying out pilot projects to test the potential for doing so (e.g., education and commercial agriculture utilizing state owned land).
+The  ANDS  provides  a  renewed  emphasis  on mobilizing  private  sector  investment,  both  because of the limited resources available relative to  the  tasks  at  hand,  and  also  because  of  the much  greater  efficiency  evident  with  private sector operations compared to either state owned  enterprises,  Ministry  implementation efforts,  and  donor  funded  and  implemented activities.  This principle is reflected in most of the sector strategies under this pillar.  A model for  these  efforts  to  be  considered  is  what  has been  accomplished  in  the  telecommunications sector.  Of course, for many reasons, it is easier to  establish  a  good  enabling  environment  and regulatory  framework  for  telecommunications services  than  it  is  to  bring  private  investment into  the  development  of  natural  resources,  infrastructure  and  public  utilities  or  even  provision of educational and health care services.  A number of the approaches set out in the ANDS are either built on enabling private investment to play a greater role in sectors presently dominated by state operations (e.g., power, mining) or to carrying out pilot projects to test the potential  for  doing  so  (e.g.,  education  and  commercial agriculture utilizing state owned land).
 
 An attempt has been made to create more focused ministries and government agencies. based  on  well  defined  mandates,  in  line  with their capabilities within the appropriate role of the  public  sector  activities,  and  with  mechanisms in place to efficiently monitor and evaluate  their  performance.  In some cases, past attempts  to  establish  the  role  of  government  in the  economic and social development process, for state building purposes, left Ministries and government agencies with very broad and unrealistic mandates and objectives.
 
@@ -6669,8 +6559,10 @@ Table 13.0.1. Cross Cutting Issues in Social and Economic Development Pillar
 
 Sector | Anti- Corruption | Gender | Counter- Narcotics | Environment | Regional Cooperation | Capacity Development
 --- | --- | --- | --- | --- | --- | ---
-Energy | The high priority on improved sector gov- ernance and the devel- opment of improved procurement, tender and contracting proc- esses will mitigate cor- ruption. By promoting in- creased private sector participation, interna- tional operating stan- dards and government as sector regulator, a new paradigm for sec- tor operations can im- prove transparency, service quality and compliance with the law.. | Improved local energy can reduce traditional women's household burdens through efficient stoves, water pumping and agro- processing that also improve women's and other house- hold residents' (i.e., young children, older relatives) health conditions. | Improved supply of power can have an im- mediate impact on local communities by increas- ing employment and drawing labor from poppy productions Energy as a business itself- power genera- tion, supply and fuel supply - can provide alternative employment to those presently with- out options for em- ployment in many communities. | Improved sector govern- ance includes environ- mental regulation as well as meaningful measures for enforcement of stan- dards. Emphasis on energy effi- ciency, renewable energy, and improved cooking fuels will have measur- able impact on improved environmental condi- tions; The current energy law provides for environ- mental protections that are now being developed. | Regional coopera- tion in the trade and transmission of energy products plays an important part in the expan- sion of power supplies in Af- ghanistan. | Improved technical, commercial and regulatory skills are essential in all en- ergy sub-sectors. This strategy supports (1) the development of vocational train- ing for power and energy sector workers to become familiar with installation, health and safety and monitoring of op- erations; (2) improved university and other academic training to instill project finance, project management, legal skills and overall commercial capacity; (3) pro- fessional training for government offi- cials to implement important regulatory and oversight functions; (4) commercial skills to manage and operate the sector.
+Energy | The high priority on improved sector gov- ernance and the devel- opment of improved procurement, tender and contracting proc- esses will mitigate cor- ruption. By promoting in- creased private sector participation, interna- tional operating stan- dards and government as sector regulator, a new paradigm for sec- tor operations can im- prove transparency, service quality and compliance with the law.. | Improved local energy can reduce traditional women's household burdens through efficient stoves, water pumping and agro- processing that also improve women's and other house- hold residents' (i.e., young children, older relatives) health conditions. | Improved supply of power can have an im- mediate impact on local communities by increas- ing employment and drawing labor from poppy productions Energy as a business itself– power genera- tion, supply and fuel supply - can provide alternative employment to those presently with- out options for em- ployment in many communities. | Improved sector govern- ance includes environ- mental regulation as well as meaningful measures for enforcement of stan- dards. Emphasis on energy effi- ciency, renewable energy, and improved cooking fuels will have measur- able impact on improved environmental condi- tions; The current energy law provides for environ- mental protections that are now being developed. | Regional coopera- tion in the trade and transmission of energy products plays an important part in the expan- sion of power supplies in Af- ghanistan. | Improved technical, commercial and regulatory skills are essential in all en- ergy sub-sectors. This strategy supports (1) the development of vocational train- ing for power and energy sector workers to become familiar with installation, health and safety and monitoring of op- erations; (2) improved university and other academic training to instill project finance, project management, legal skills and overall commercial capacity; (3) pro- fessional training for government offi- cials to implement important regulatory and oversight functions; (4) commercial skills to manage and operate the sector.
 Transport | The strategy provides a framework to improve governance in Trans- portation Ministry. This includes expand- ing merit-based selec- tion and performance based contracts for key staff. Penalties for cor- rupt practices are also specified. | Government Trans- port agencies will increase female participation through additional training and new opportunities Greater consulta- tion with women. Also implement the National Action Plan for the Women of Afghanistan. | Support enforcement activities of the MoI and police against narcotics smuggling. Checkpoints for narcotics smuggling will be built into border customs clearance sta- tions, truck pull-offs for permanent and roving weigh stations, and ur- ban bypasses. As civil airports will be secured against narcotics smug- gling. | Environmental impact assessments and man- agement plans will be prepared and imple- mented in accordance with Afghan Law for all works. Better quality roads improve the effi- ciency of vehicles, reduc- ing per km fuel usage. Fuel and other petroleum products must be clean in order to meet Afghan environmental standards. | Improved trans- portation links will significantly improve Afghani- stan's links with regional and in- ternational mar- kets. This will strengthen Af- ghanistan's role and links with a number of trading groups, including SAARC, CAREC, SCO and ECOTA | A Transportation Training Institute will be established to boost capacity of sector ministries and institutions. This will help strengthen the planning capacity of staff for all transport modes for feasibility studies and infrastructure planning. Capacity will be increased so that Minis- try staff are able to conduct drivers' li- censing tests, vehicle safety inspections and enforce traffic flow regulations. Ca- pacity will also be increased in the Civil Aviation Authority in order to take over control of civilian airspace from interna- tional forces
+
+
 
 Economical and Social Development
 
@@ -6696,7 +6588,7 @@ Afghanistan National Development Strategy (ANDS)
 
 Sector | Anti- Corruption | Gender | Counter- Narcotics | Environment | Regional Cooperation | Capacity Development
 --- | --- | --- | --- | --- | --- | ---
- |  | ing finance and economic development initiatives. Roles and responsibilities of female professionals in government will be enhanced. |  |  |  | 
+ing finance and economic devel- opment initiatives. Roles and respon- sibilities of female professionals in government will be enhanced.
 Mining | There will be im- proved sector governance aimed at increased le- gitimate private investment. Reforms include improved tender and contracting functions of Gov- ernment, and drafting of fun- damental legal and regulatory documents, and also include the establishment of legal, financial and monitoring institutions. | There have been virtually no women entering the sector in recent years. A targeted initiative for 'Women in Min- ing' to improve female employ- ment will be sup- ported | Mining will be an alterna- tive source of employment in some poppy growing regions in the South. | Inspectorate and Cadastre to be established at the Ministry Mines. This includes environmental inspection and regulation. Regulations will be specifically drafted that address environ- mental requirements for public and private investment. | There is already con- siderable cross-border trade in this sector. Opportunities to for- malize these arrange- ments and enhance government revenues exist. Government will con- sider opportunities to work with cross-border countries where im- proved transport (i.e., select light rail) and infrastructure may have mutual benefit. | The Ministry proposes capacity building for its staff members. Capacity building will be required to implement the hydrocarbon and mineral legislation, and bidding and tendering processes, including ten- der evaluation.
 
 Economical and Social Development 137
@@ -6720,7 +6612,7 @@ Afghanistan National Development Strategy (ANDS)
 
 Sector | Anti- Corruption | Gender | Counter- Narcotics | Environment | Regional Cooperation | Capacity Development
 --- | --- | --- | --- | --- | --- | ---
-Agriculture and Rural Development | All programs within the Sector Strategy emphasize account- ability and transpar- ency Local governance pro- grams reduce corrup- tion, since the act of community ownership and participation promotes a sense of obligation and ac- countability which is continually reinforced through all functions of project manage- ment. | The focus on com- munity level devel- opment promotes gender mainstream- ing and gender- balanced develop- ment Strategy is designed to ensure that women have community representation and to promote gender- sensitive develop- ment planning, im- plementation and monitoring of all pro- jects. Involvement in in- come-producing ac- tivities. Skills development and other capacity building programs will contribute fur- ther to both women's empowerment and increasing household income levels. | The Sector Strategy focuses on providing viable income- generating alterna- tives by raising the profitability of licit crops, promoting market linkages and creating off-farm employment. Rural communities are closely knit. Those communities isolated from gov- ernment are more prone to grow poppy and other illicit crops. Those benefit- ing from integrated rural development programs are less likely to grow poppy. Improved govern- ance can influence entrenched attitudes and is therefore vital to the enabling envi- ronment to tackle drugs production. | The Government will provide ca- pacity develop- ment to assist communities to be able to manage their natural re- sources and im- plement projects based on sustain- able use. Government is currently devel- oping the regula- tory environment in such areas as environmental impact assess- ments, protected areas manage- ment and compli- ance and en- forcement. | Strategy is to develop insti- tutional linkages in the areas of collaborative research, technology transfers and training/skills enhance- ment, and the exchange of scientific information with regard to Afghanistan's dis- aster preparedness program. AREDP will require a high level of regional interaction, particularly in the area of current imports and poten- tial future exports. Afghanistan's membership in the South Asian Associa- tion for Regional Co- operation (SAARC) will operationalize a Regional Food Security Reserve and proposed Regional Food Bank The Center on Integrated Rural Development for Asia and the Pacific (CIRDAP) is a regional intergovernmen- tal autonomous organization established for the promo- tion of integrated rural de- velopment in the region. | Capacity development is an inte- gral part of the ARD Sector Strat- egy. In addition to internal capac- ity building and institutional re- form both at the central and local levels, every program intervention in agriculture and rural develop- ment has a significant capacity development component.
+Agriculture and Rural Development | All programs within the Sector Strategy emphasize account- ability and transpar- ency Local governance pro- grams reduce corrup- tion, since the act of community ownership and participation promotes a sense of obligation and ac- countability which is continually reinforced through all functions of project manage- ment. | The focus on com- munity level devel- opment promotes gender mainstream- ing and gender- balanced develop- ment Strategy is designed to ensure that women have community representation and to promote gender- sensitive develop- ment planning, im- plementation and monitoring of all pro- jects. Involvement in in- come-producing ac- tivities. Skills development and other capacity building programs will contribute fur- ther to both women's empowerment and increasing household income levels. | The Sector Strategy focuses on providing viable income- generating alterna- tives by raising the profitability of licit crops, promoting market linkages and creating off-farm employment. Rural communities are closely knit. Those communities isolated from gov- ernment are more prone to grow poppy and other illicit crops. Those benefit- ing from integrated rural development programs are less likely to grow poppy. Improved govern- ance can influence entrenched attitudes and is therefore vital to the enabling envi- ronment to tackle drugs production. | The Government will provide ca- pacity develop- ment to assist communities to be able to manage their natural re- sources and im- plement projects based on sustain- able use. Government is currently devel- oping the regula- tory environment in such areas as environmental impact assess- ments, protected areas manage- ment and compli- ance and en- forcement. | Strategy is to develop insti- tutional linkages in the areas of collaborative research, technology transfers and training/skills enhance- ment, and the exchange of scientific information with regard to Afghanistan's dis- aster preparedness program. AREDP will require a high level of regional interaction, particularly in the area of current imports and poten- tial future exports. Afghanistan's membership in the South Asian Associa- tion for Regional Co- operation (SAARC) will operationalize a Regional Food Security Reserve and proposed Regional Food Bank The Center on Integrated Rural Development for Asia and the Pacific (CIRDAP) is a regional intergovernmen- tal autonomous organization established for the promo- tion of integrated rural development in the region. | Capacity development is an inte- gral part of the ARD Sector Strat- egy. In addition to internal capac- ity building and institutional re- form both at the central and local levels, every program intervention in agriculture and rural develop- ment has a significant capacity development component.
 
 Economical and Social Development
 
@@ -6742,9 +6634,9 @@ Afghanistan National Development Strategy (ANDS)
 
 [[START OF PAGE 201]]
 
-Sector | Anti - Corruption | Gender Equality | Counter - Narcotics | Environment | Regional Cooperation | Capacity Building
+Sector | Anti- Corruption | Gender Equality | Counter- Narcotics | Environment | Regional Cooperation | Capacity Building
 --- | --- | --- | --- | --- | --- | ---
-Social Protection | to improve management of the direct cash transfers and eliminate irregularities to ensure that distribution of the land plots will be free of corruption | to introduce benefits for chronically poor female headed households, victims of violence and other cate - gories of women 'at risk' to improve legislation to ensure women's rights to inherit to improve 'Food for Scholl' programs to increase pri - mary school enrolment of girls to introduce free legal ad - vise benefit for women 'at risk' and improve women's access to justice | to improve treat - ment of the drug addicts to improve rehabili - tation of drug ad - dicts and their access to education, skill development and job opportunities to contribute to re - duction in domestic drug demand and poppy cultivation by improving the social support system | to prepare and implement new public work pro - gram (Greening of Afghanistan) to reduce de - forestation of the country and miti - gate environment risk | to support implementa - tion of the SAARC's Social Protection Chart to establish the Na - tional Coordination Committee in line with the SAARC's recom - mendations | to improve MoLSAMD's capacity for vulnerability analysis, targeting and project preparation and implementa - tion To improve the capacity of the Pension Department for implementation of the pension reform To improve ANDMA's capacity for co - ordinating the disaster preparedness process within the Government, with sub - national level and with donors and humanitarian agencies To modernize ANDAMA's equipment and build regional warehouses
+Social Protection | to improve management of the direct cash transfers and eliminate irregularities to ensure that distribution of the land plots will be free of corruption | to introduce benefits for chronically poor female headed households, victims of violence and other cate- gories of women 'at risk' to improve legislation to ensure women's rights to inherit to improve 'Food for Scholl' programs to increase pri- mary school enrolment of girls to introduce free legal ad- vise benefit for women 'at risk' and improve women's access to justice | to improve treat- ment of the drug addicts to improve rehabili- tation of drug ad- dicts and their access to education, skill development and job opportunities to contribute to re- duction in domestic drug demand and poppy cultivation by improving the social support system | to prepare and implement new public work pro- gram (Greening of Afghanistan) to reduce de- forestation of the country and miti- gate environment risk | to support implementa- tion of the SAARC's Social Protection Chart to establish the Na- tional Coordination Committee in line with the SAARC's recom- mendations | to improve MoLSAMD's capacity for vulnerability analysis, targeting and project preparation and implementa- tion To improve the capacity of the Pension Department for implementation of the pension reform To improve ANDMA's capacity for co- ordinating the disaster preparedness process within the Government, with sub- national level and with donors and humanitarian agencies To modernize ANDAMA's equipment and build regional warehouses
 
 Economical and Social Development 141
 
@@ -6752,10 +6644,10 @@ Economical and Social Development 141
 
 [[START OF PAGE 202]]
 
-Sector | Anti - Corruption | Gender | Counter - Narcotics | Environment | Regional Cooperation | Capacity Development
+Sector | Anti- Corruption | Gender | Counter- Narcotics | Environment | Regional Cooperation | Capacity Development
 --- | --- | --- | --- | --- | --- | ---
-Refugee, Returnee & IDP's | In the design of reintegration program compo - nents such as land allocation, shelter and hous - ing, attention will be paid to anti - corruption meas - ures by providing full transparency on beneficiary selection proc - esses. | Special attention will be paid to protect children, women and the elderly during the return proc - ess. | To improve re - habilitation and reintegration into society large number of drug users will be among the returnees. | Environmental issues will merit greater focus, especially in view of the additional strains on urban and municipal infrastructure and services occasioned by possible return of further 3 million persons which will put additional pressure on natural resources; As the refugee return increases, the Government will need to pay particular attention to the poten - tial for conflicts over land and access to natural resources (land, pasture, water, forests) especially in ethnically mixed provinces | The Government will aim to conclude and imple - ment regional and bilat - eral agreement on popu - lation movements and migration; Plan to better communi - cate to the neighboring countries the Govern - ment policies and pro - grams for repatriation of the refugees | The capacity for Inter - ministerial cooperation will need to be im - proved. The refugee return is not responsibility of MoRR only. Capacity for program preparation and implementation will also need to be improved, especially for im - mediate response to IDPs crisis. The draw down of funds from Min - istry of Finance has been slow. A program/project implementation unit (PIU) has been established within MORR to assist with the Land Allocation Scheme.
-Private Sector Development | Removal of nui - sance proce - dures, licenses and taxes will reduce corrup - tion. Making admini - stration more predictable so that laws are fol - lowed and admin - istrative discre - tion is reduced will also help. . | Economic growth will pro - vide a strong base for increas - ing demand for female labor and increasing their role in all aspects of the economic life of the country. Also programs that will provide women with greater access to training and credit facilities and will encour - age the women - owned and op - erated busi - nesses. | Increased de - mand for labor and increased investment op - portunities in legal private sec - tor activity pro - vides an alterna - tive to the in - comes they are now making in the illicit narcot - ics trade. | Increased formalization of firms increases the likelihood that envi - ronmental regulations are ad - hered to. | Efforts at developing closer regional coopera - tion with neighboring countries will help ex - pand markets for the private sector and con - tribute to the success of the private sector devel - opment strategy. Open domestic markets with a strong private sector will further in - crease integration as trade, transport, com - munication and other links are made with neighboring countries. | Government, donors, the private sector and NGOs will provide addi - tional support to increase the skills of the Afghan workforce. This will help assist both government and the private sector.
+Refugee, Returnee & IDP's | In the design of reintegration program compo- nents such as land allocation, shelter and hous- ing, attention will be paid to anti- corruption meas- ures by providing full transparency on beneficiary selection proc- esses. | Special attention will be paid to protect children, women and the elderly during the return proc- ess. | To improve re- habilitation and reintegration into society large number of drug users will be among the returnees. | Environmental issues will merit greater focus, especially in view of the additional strains on urban and municipal infrastructure and services occasioned by possible return of further 3 million persons which will put additional pressure on natural resources; As the refugee return increases, the Government will need to pay particular attention to the poten- tial for conflicts over land and access to natural resources (land, pasture, water, forests) especially in ethnically mixed provinces | The Government will aim to conclude and imple- ment regional and bilat- eral agreement on popu- lation movements and migration; Plan to better communi- cate to the neighboring countries the Govern- ment policies and pro- grams for repatriation of the refugees | The capacity for Inter-ministerial cooperation will need to be im- proved. The refugee return is not responsibility of MoRR only. Capacity for program preparation and implementation will also need to be improved, especially for im- mediate response to IDPs crisis. The draw down of funds from Min- istry of Finance has been slow. A program/project implementation unit (PIU) has been established within MORR to assist with the Land Allocation Scheme.
+Private Sector Development | Removal of nui- sance proce- dures, licenses and taxes will reduce corrup- tion. Making admini- stration more predictable so that laws are fol- lowed and admin- istrative discre- tion is reduced will also help. . | Economic growth will pro- vide a strong base for increas- ing demand for female labor and increasing their role in all aspects of the economic life of the country. Also programs that will provide women with greater access to training and credit facilities and will encour- age the women- owned and op- erated busi- nesses. | Increased de- mand for labor and increased investment op- portunities in legal private sec- tor activity pro- vides an alterna- tive to the in- comes they are now making in the illicit narcot- ics trade. | Increased formalization of firms increases the likelihood that envi- ronmental regulations are ad- hered to. | Efforts at developing closer regional coopera- tion with neighboring countries will help ex- pand markets for the private sector and con- tribute to the success of the private sector devel- opment strategy. Open domestic markets with a strong private sector will further in- crease integration as trade, transport, com- munication and other links are made with neighboring countries. | Government, donors, the private sector and NGOs will provide addi- tional support to increase the skills of the Afghan workforce. This will help assist both government and the private sector.
 
 142
 
@@ -6801,7 +6693,7 @@ Strategic outcomes are detailed below.
 
 144
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 204]]
 
@@ -6813,7 +6705,7 @@ Afghanistan National Development Strategy (ANDS )
 
 ###### Implementation framework
 
-The re-establishment of Afghanistan as a major trading hub at the heart of Asia will require the support of the key international players, namely the U.S., E.U., and the big economies of South Asia and the Far East.  Since early 2002, Afghanistan has signed at least 21 agreements in trade, transit, transport and investment with countries and organization in the region.  The December  2002  Kabul  Conference  on  Good Neighborly  Relations,  the  December  2005  Regional Economic Cooperation Conference, held in Kabul, and its subsequent follow up conferences in New Delhi, and the more recent PakAfghan Regional Peace Jirga, held in Kabul on 9-12  August  2007,  are  all  important  regional initiatives.
+The re-establishment of Afghanistan as a major trading hub at the heart of Asia will require the support of the key international players, namely the U.S., E.U., and the big economies of South Asia and the Far East. Since early 2002, Afghanistan has signed at least 21 agreements in trade, transit, transport and investment with countries and organization in the region. The December 2002 Kabul Conference on Good Neighborly Relations, the December 2005 Regional Economic Cooperation Conference, held in Kabul, and its subsequent follow up conferences in New Delhi, and the more recent Pak-Afghan Regional Peace Jirga, held in Kabul on 9-12 August 2007, are all important regional initiatives.
 
 Efforts  to  strengthen  regional  cooperation  are based on mutual benefit.  Improving bilateral, regional  and  international  trade  relationships, for  example,  benefits  all  countries  involved. Likewise, improving security benefits all countries.    Part  of  the  Government's efforts will be to  work with regional partners on implementing  practical  project  based  activities.    This  includes and emphasis on increasing the transfer of knowledge with regional partners.  Increasing  the  human  interaction  between  Afghanistan and it's neighbors, at the government, diplomatic,  social  and  local  level  will  lead  to  improved relationships.
 
@@ -6875,7 +6767,7 @@ Afghanistan National Development Strategy (ANDS)
 
 vincial-based planning will identify further roles line ministries and other organizations. NDCS Chapter 3 also specifies, by the eight pillars, the ministries and organizations that are expected to be involved in the evaluation and implementation of CN plans. The Government will mitigate weaknesses in the ministries, agencies and provinces charged with implementing the CN plans by drawing on the resources of international donors and contracting expert staff. The other key institutional capacity that needs to be addressed by the international community is the lack of sufficient CN expertise. The international community will be asked to provide sustained CN specific technical assistance to Afghan counterparts.
 
-The new NDCS implementation plan has to include a commitment by the international community to fund and support efforts to:
+The  new  NDCS  implementation  plan  has  to include  a  commitment  by  the  international community to fund and support efforts to:
 
  Integrate CN into operations of ISAF/NATO (this is suggested but will required  to  be  dealt  with  in  a  combined  as well  as  bilateral  manner  in  consideration with  the  the  individual  partners  capacity and sensitivity);
 
@@ -6907,13 +6799,15 @@ Corruption, the misuse of public office for private  gain,  undermines  the  aut
 
 The Government is fully committed to controlling corruption, promoting transparency and accountability through establishing new and effective preventative mechanisms and implementing the Afghanistan Compact Anti-Corruption Benchmarks. The chronic poverty conditions in Afghanistan are seen as natural breeding grounds for systemic corruption due to social and income inequalities and perverse economic incentives. A key ANDS strategic objective is to establish a state administration that operates with integrity and accountability to provide an enabling environment for economic and social development, based upon the rule of law, impartiality in political decision-making, the proper management of public resources, the provision of efficient administrative systems and the active engagement of civil society.
 
-The National Anti-Corruption Strategy and Roadmap developed as part of the ANDS will be implemented in support of the following strategic aims: (i) enhancing Government anti-corruption commitment and leadership; (ii) raising awareness of corruption and evaluating the effectiveness of anti-corruption measures; (iii) mainstreaming anti corruption into Government reforms and national development; (iv) strengthening the enforcement of anti-corruption aimed to strengthen the legal framework for anti-corruption and build a coherent and fully capacitated system of enforcement institutions required to support the effective implementation of the UNCAC; (v) reinforcing counter-narcotics integrity; (vi) reinforcing the integrity of public and business sector relationships; and, (vii) increasing political accountability.
+The National Anti-Corruption Strategy and Roadmap developed as part of the ANDS will be implemented in support of the following strategic aims: (i) enhancing Government anti-corruption commitment and leadership; (ii) raising awareness of corruption and evaluating the effectiveness of anti-corruption measures; (iii) mainstreaming anti corruption into Government reforms and national development; (iv) strengthening the enforcement of anti-corruption aimed to strengthen the legal framework for anti-corruption and build a coherent and fully capacitated system of enforcement institutions required to support the effective implementation of the UNCAC; (v) reinforcing counter-narcotics integrity; (vi) re-
 
 Cross-Cutting Issues 147
 
 [[END OF PAGE 207]]
 
 [[START OF PAGE 208]]
+
+inforcing the integrity of public and business sector relationships; and, (vii) increasing political accountability.
 
 ###### Implementation framework
 
@@ -6927,9 +6821,7 @@ The mainstreaming process will be driven primarily by the three complementary an
 
 The anti-corruption mainstreaming process will be applied jointly with the security sector strategy and the economic and social development sector strategies to guide their completion in order to ensure that anti-corruption measures are explicitly included and implicitly reflected in their development proposals. Implementation will draw upon the diagnostic efforts for institutional arrangements for combating corruption concluded by UNDP's Accountability and Transparency project. However the key partner institutions on anti-corruption are the ministries and agencies with responsibilities for delivering the Government's reform agenda comprising:
 
- The  IARCSC,  responsible  for  the  Government-wide  PAR  program,  directed  at  improving  public  service  management  and public  service  delivery  by  addressing  administrative  structures  and  systems;  human resource management policies, proce-
-
-dures and practices and institutional capacity building.
+ The IARCSC, responsible for the Government-wide PAR program, directed at improving public service management and public service delivery by addressing administrative structures and systems; human resource management policies, procedures and practices and institutional capacity building.
 
  The Control and Audit Office and the Ministry of Finance, responsible for strengthening the Government's financial control systems and practices.
 
@@ -6957,7 +6849,7 @@ Afghanistan National Development Strategy (ANDS)
 
 [[START OF PAGE 209]]
 
-vented from pursuing what is fair, good and necessary to live a full and satisfying life, Three immediate goals have been prioritized, namely: (i) to attain the 13 gender-specific benchmarks of the Afghanistan Compact/I-ANDS, including the five-year priorities of NAPWA; (ii) to realize the gender commitments that are mainstreamed in each of the ANDS sectors; and (iii) to develop basic institutional capacities of ministries and government agencies on gender mainstreaming.57
+vented from pursuing what is fair, good and necessary to live a full and satisfying life, Three immediate goals have been prioritized, namely: (i) to attain the 13 gender-specific benchmarks of the Afghanistan Compact/I-ANDS, including the five-year priorities of NAPWA; (ii) to realize the gender commitments that are mainstreamed in each of the ANDS sectors; and (iii) to develop basic institutional capacities of ministries and government agencies on gender mainstreaming. 57
 
 This strategy targets three main outcomes:
 
@@ -6975,7 +6867,7 @@ The implementation of strategy for gender equity  is  a  shared  responsibility 
 
 International  organizations  are  encouraged  to adopt  gender  equity  in  their  development  cooperation and technical assistance and directly support ministries in implementing gender equity strategy.  The NGO Coordination Council will be strengthened as a major link of government to the NGO community in promoting gender  equity.  NGOs  will  be  encouraged  to target women as project participants and beneficiaries  and  to  increase  the  participation  of women in  the  management  of  their  organizations.  An advocacy and public communication strategy  that  will  transform  negative  perceptions and attitudes toward women will be implemented  nationwide,  with  particular  attention  to  women,  men,  media,  religious  leaders, and institutions and influential decision makers in society.  Non-traditional, culturally-sensitive forms of mass communication will be explored for  remote  and  tribal  communities  to  address cultural  obstacles  to  women's  education,  leadership  and  participation  in  public  life,  reproductive rights, property ownership and inheritance.
 
-The Government will establish mechanisms to effectively  facilitate,  monitor,  and  coordinate activities on gender.  The Government will also adopt  a  monitoring  scorecard  that  ministries will  use  to  track  their  own  performance  on gender equity.  All sectors will be required to collect  and  use  sex  disaggregated  data,  adopt gender sensitive indicators, and include gender related  performance  in  their  regular  reports. Performance of sectors on gender will be monitored  by  the  Oversight  Committee  and  the JCMB.    The  gender  indicators  and  statistical framework of MoWA will be elaborated to contain  indicators  on  the  performance  of  government on the promotion of women's status.  The monitoring  and  evaluation  system  of  every ministry will:
+The Government will establish mechanisms to effectively facilitate, monitor, and coordinate
 
 Cross-Cutting Issues
 
@@ -6984,6 +6876,8 @@ Cross-Cutting Issues
 [[END OF PAGE 209]]
 
 [[START OF PAGE 210]]
+
+activities on gender. The Government will also adopt a monitoring scorecard that ministries will use to track their own performance on gender equity. All sectors will be required to collect and use sex disaggregated data, adopt gender sensitive indicators, and include gender related performance in their regular reports. Performance of sectors on gender will be monitored by the Oversight Committee and the JCMB. The gender indicators and statistical framework of MoWA will be elaborated to contain indicators on the performance of government on the promotion of women's status. The monitoring and evaluation system of every ministry will:
 
  Include gender in the terms of reference of the monitoring and evaluation unit and job description of its chiefs;
 
@@ -7007,19 +6901,21 @@ The Government encourages donors to donor-funded projects to engage to the maxim
 
 ###### Implementation framework
 
-There  is  a  limited  capacity  to  effectively  implement such extensive and intensive capacity development  programs  in  all  areas  and  this will require a well structured institutional mechanism  which  has  to  be  built  and  constantly strengthened. The institutional arrangements for capacity development, in addition  to  the  ICCD,  include  the  Capacity  Development Working Group (CDWGs), Independent  Administrative  Reforms  and  Civil  Service Commission (IARCSC) and the Reform Implementation Management Units (RIMUs).  ICCD will  seek  the  assistance  of  the  international community  to  establish  and  staff  a  technical secretariat,  to  provide  the  administrative  and technical support to ICCD.
+There is a limited capacity to effectively implement such extensive and intensive capacity development programs in all areas and this will require a well structured institutional mechanism which has to be built and constantly strengthened. The institutional arrangements for capacity development, in addition to the ICCD, include the Capacity Development Working Group (CDWGs), Independ-
 
 150
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 210]]
 
 [[START OF PAGE 211]]
 
+ent Administrative Reforms and Civil Service Commission (IARCSC) and the Reform Implementation Management Units (RIMUs). ICCD will seek the assistance of the international community to establish and staff a technical secretariat, to provide the administrative and technical support to ICCD.
+
 ICCD has undertaken a survey of capacity development  and  technical  assistance  programs. At the ministerial level, under the guidance of the  Independent  Administrative  Reforms  and Civil  Service  Commission  (IARCSC),  Reform Implementation Management  Units (RIMU) have been established primarily to restructure ministries  so  that  they  could  move  ahead  on pay  and  grading  reform  -  this  process  of  restructuring  requires  clarifying  roles  and  responsibilities,  and  laying  down  very  clear  reporting lines, and assessing whether individuals are fit to hold the job they are holding.  Capacity  development is  not  the  primary  role  of the RIMUs, but the RIMUs will identify capacity  development  needs,  coordinate  programs and  initiatives to meet  those needs, while monitoring and evaluate the impact.  The ICCD will  monitor  the  progress  of  the  capacity  development projects  and  programs.    The  President  and  Cabinet  will  receive  regular  reports on performance of all projects.  Those that are under-performing  will  be  required  to  provide explanation  for  their  underperformance  and their  recommendations  for  bringing  the  performance  back  on  target.    Persistent  underperformance will result in a major redesign or closure.
 
-Under the auspices of ICCD the IARCSC will be empowered to encourage RIMUs to work together along the lines of the ANDS/sectoral groupings, to identify common needs and solutions as well as assist to articulate specific needs and formulate outline proposals as appropriate. Where needed, the IARCSC with donors' assistance will provide training on capacity needs assessments, capacity development activities and monitoring and evaluation. Actions include:
+Under the  auspices  of  ICCD  the  IARCSC  will be  empowered  to  encourage  RIMUs  to  work together along the lines of the ANDS/sectoral groupings, to identify common needs and solutions  as  well  as  assist  to  articulate  specific needs  and  formulate  outline  proposals  as  appropriate.    Where  needed,  the  IARCSC  with donors' assistance will provide training on capacity  needs  assessments,  capacity  development activities and monitoring and evaluation. Actions include:
 
  Agreement  on  specific  terms  of  reference for RIMU;
 
@@ -7047,7 +6943,7 @@ It  will  take  some  time  to  get  results  from  the capacity development eff
 
 ###### Background and context
 
-The National Environment Strategy recognizes the  need  to  give  greater  attention  to  environmental protections as development occurs.  In May  2005,  an  independent  National  Environmental Protection Agency was established, being elevated from a department previously established  in  the  Ministry  of  Irrigation,  Water Resources  and  Environment.    The  organizational  transition  of  the  environment  function since 2002 has precluded the consistent development of technical and managerial skills within  both  NEPA  and  other  governmental authorities  involved  in  environmental  management.  Therefore the ANDS focuses on developing National Environment Protection Agency's (NEPA) capacity to perform its regulatory, coordination and policy-making duties.
+The National Environment Strategy recognizes the need to give greater attention to environmental protections as development occurs. In May 2005, an independent National Environmental Protection Agency was established, being elevated from a department previously established in the Ministry of Irrigation, Water
 
 Cross-Cutting Issues
 
@@ -7056,6 +6952,8 @@ Cross-Cutting Issues
 [[END OF PAGE 211]]
 
 [[START OF PAGE 212]]
+
+Resources and Environment. The organizational transition of the environment function since 2002 has precluded the consistent development of technical and managerial skills within both NEPA and other governmental authorities involved in environmental management. Therefore the ANDS focuses on developing National Environment Protection Agency's (NEPA) capacity to perform its regulatory, coordination and policy-making duties.
 
 The ANDS strategic vision is to improve the quality of life of the people of Afghanistan through conservation of the nation's resources and protection of the environment. Goals include: (i) secure a clean and healthy environment; (ii) attain sustainable economic and social development while protecting the natural resource base and the environment of the country; and (iii) ensure effective management of the country's environment through participation of all stakeholders. The strategy elaborates priority programs areas for environmental management based on thematic strategies including: restoration and sustainable use of rangelands and forests, conservation of biodiversity, accession to/ signing and enforcement of MEAs, preservation of natural and cultural heritage sites, encouragement to community-based natural resource management, prevention and abatement of pollution, urban environmental management; environmental education and awareness.
 
@@ -7075,7 +6973,7 @@ Greater  regional  cooperation  will  contribute significantly to establishing s
 
 152
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 212]]
 
@@ -7157,7 +7055,7 @@ continue  to  improve  its  overall  macroeconomic  framework  by  identifying  
 
  Good  governance :  good  governance  provides  the  broad  setting  for  development and  the  quality  of  that  governance  will have  a  profound  effect  on  development success and aid effectiveness.
 
- Building capacity : enhanced capacity—in public and private sectors—is also critical to sustainable development. Past aid programming often failed because it focused on resource transfers by donors but did not provide enough support for local capacity development efforts to sustain these investments once donors had withdrawn support.
+ Building  capacity :  enhanced  capacity-in public  and  private  sectors-is  also  critical to  sustainable development.  Past aid programming  often  failed  because  it  focused on resource transfers by donors but did not provide enough support for local capacity development  efforts  to  sustain  these  investments once donors  had  withdrawn support.
 
  Engaging civil society :  participatory processes,  particularly  those  engaging  civil  society, are essential to establishing clear, locally  owned  priorities  so  that  aid  is  demand  driven  and  has  maximum  impact. This  will  also  ensure  that  aid  meets  the needs  of  the  poorest  and  most  marginalized people in society.
 
@@ -7165,13 +7063,15 @@ continue  to  improve  its  overall  macroeconomic  framework  by  identifying  
 Key  objectives are to increase aid effectiveness and maximize the impact of international assistance and  achieve  the  following  objectives:  (i)  improved security and stability; (ii) reduced poverty;  (iii)  enhanced  environment  for  private sector  development;  (iv)  further  democratization  of  Afghan  society  in  accordance  with  the Islamic  values;  and  (v)  increased  social  inclusion  and  equality.    For  the  Government  aid  is one  of  most  important  tools  in  implementing the ANDS.
 
 ###### Excepted  Outcomes :
-The  Government's  aid effectiveness policies will achieve the following outcomes:  (i)  improved  security  and  poverty reduction (ii) higher participation of the private sector in the GDP and employment (iii) higher school enrolment and literacy (iv) better social inclusion (v) lower infant and maternal mortality  (vi)  improved access to a higher quality of public services and (vii)  improved  human rights.
+The Government's aid effectiveness policies will achieve the following outcomes: (i) improved security and poverty reduction (ii) higher participation of the private sector in the GDP and employment (iii) higher school enrolment and literacy (iv) better social inclusion (v) lower infant and maternal mortality (vi) improved access to a higher quality of
 
 Aid Effectiveness and Coordination 157
 
 [[END OF PAGE 217]]
 
 [[START OF PAGE 218]]
+
+public services and (vii) improved human rights.
 
 ###### Developing Priority Policies :
 Increasing aid effectiveness  is  a  joint  effort  between  Government, donors and agencies involved in the implementation  of  programs  and  projects.    The Government will  implement  reforms  that  will lead  to  higher  transparency  and  absorption capacities.    Donors  will  be  expected  to  undertake  measures  to  improve  aid  delivery  in  line with the Paris Declaration.
@@ -7189,15 +7089,17 @@ Major public administration reforms being implemented  or  planned-such  as  the
 This process will be strengthened by: (i) deepening the linkages between the ANDS, MTFF, MTB and in the future with the MTEF; (ii) enhancing  the  'budget  literacy'  of  citizens  and civil society organizations through engagement in budget processes; (iii) support to civil society organizations and downward accountability in the  context  of  decentralized  service  delivery; (iv)  assessing  the  experience  gained under the National  Solidarity  Program  and  the  National Rural Access Program and disseminating these lessons;  (v)  regular  reporting  to  National  Assembly and other public entities in how budgetary  resources  (core  and  external)  are  being spent; (vi) better communication with the public  using  the  ANDS  framework  on  plans,  aid received, disbursed, outcomes and impact and (vi)  supporting  civil  society  organizations  and non-governmental organizations to ensure that local governments are held accountable on how aid  money is being spent to improve the people's welfare.
 
 ###### Curbing Corruption :
-The drug trade, porous borders,  and  informal  markets  have  led  to  increased  corruption  in  public  institutions.    The Government  is  conscious  of  the  fact  that  corruption and aid effectiveness are inversely correlated  and  is  therefore  committed  to  significantly  reducing  corruption.    Some  mitigating measures  to  improve  anti-corruption  in  the area  of  aid  delivery  will  be  as  follows:  (i)  increase publicly available information about donor aid provision at the national and provincial levels; (ii) harmonization of donor support around the Government's anti-corruption strategy  as  prescribed  in  the  ANDS;  (iii)  increase donor  support  for  preventive  action based on corruption vulnerability assessments of  specific  processes  and  actions  practiced  by government departments and agencies and (iv) eliminate  the  narcotics  industry  in  a  manner that  provides  alternative  sources  of  income  to the farmers.
+The drug trade, porous borders, and informal markets have led to increased corruption in public institutions. The Government is conscious of the fact that corruption and aid effectiveness are inversely correlated and is therefore committed to significantly reducing corruption. Some mitigating measures to improve anti-corruption in the area of aid delivery will be as follows: (i) increase publicly available information about donor aid provision at the national and provincial levels; (ii) harmonization of donor support around the Government's anti-corruption strategy as prescribed in the ANDS; (iii) in-
 
 158
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 218]]
 
 [[START OF PAGE 219]]
+
+crease donor support for preventive action based on corruption vulnerability assessments of specific processes and actions practiced by government departments and agencies and (iv) eliminate the narcotics industry in a manner that provides alternative sources of income to the farmers.
 
 The  Government  has  also  passed  the  Public Finance  Management,  Procurement,  and  Auditing  and  Accounting  Laws  and  will  ensure that  these  laws  and  regulations  are  implemented and enforced diligently.  As corruption and other rent seeking activities are one of the main  causes  of  ineffective  aid  delivery,  the Government  will  address  this  issue  in  an  affirmative  manner  to  win  the  trust,  confidence and  continued  support  of  the  donor  community.
 
@@ -7230,7 +7132,7 @@ Aid Effectiveness and Coordination
 
 mostly from their own countries, and import their own labor force rather than hire local workers to work on their projects. According to the 2006 Baseline Survey of the Paris Declaration on Aid Effectiveness, 56 percent of aid is tied in Afghanistan. This indicates that a large percentage of aid is effectively contracted to technical assistance from donor countries, and is not necessarily consistent with or aligned to the ANDS. Rebuilding Afghanistan, creating jobs, and reducing poverty requires strong local economies and untied aid. One of the main reasons behind the slow revival of the economy is the conditions attached to external assistance. In order to help Afghanistan achieve its development goals, there is a need to increase the local impact of aid. The Government would like to encourage donors to use more locally produced goods as well as local implementing agencies so as to promote greater private sector development and employment.
 
-###### Simplifying Aid Management Procedures and introducing More Flexible Conditionality :
+###### Simplifying Aid Management Procedures and  introducing  More  Flexible  Conditionality :
 Both  the  Government  and  donors should  aim  to  further  simplify  their  processes and  procedures  for  implementation  of  programs  and  projects,  to  avoid  unnecessary  delays in implementation.  Simplification of processes and procedures, albeit, with safeguards in place  to  minimize  corruption  and  other  rent seeking  activities  would  enable  the  Government to manage the development process in a smoother  manner  and  for  donors  to  allocate more  resources  to  the  reconstruction  of  Afghanistan.  Excessive conditionality attached to foreign  assistance  should  be  avoided  at  all costs.  At the same time, simplification of processes  and  procedures  must  also  ensure  that there is no corresponding increase in fiduciary risk.    Safeguards  for  donor  funds  have  often involved special implementation arrangements that  bypass  mainstream  government  systems. However,  the  fiduciary  security  derived  from separate controls and  'ring-fencing'  of  aid funds has limits.  Earmarking of funds is not a guarantee against fungiblility; separate controls do not address (and may worsen) the underlying weaknesses of public finance management; and  the  costs  of  complying  with  such  safeguards may reduce the value for money of aid.
 
 ###### Improving inter-government cooperation :
@@ -7245,7 +7147,7 @@ Future Government /donor cooperation needs to  be  based  on  the  basic  princi
 
 160
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 220]]
 
@@ -7273,13 +7175,15 @@ A number of development projects already suffer  from  lack  of  planning  in  t
 
 ##### IMPLEMENTATION AND MONITORING
 
-The MoF is the leading government institution for aid effectiveness issues. The Aid Coordination Unit (ACU), within the Budget Department, is responsible for most issues surrounding the delivery and monitoring of external assistance. The Government's aid policies lay out preferred aid modalities on the delivery of development assistance, how it views the role of the other stakeholders such as the non-governmental organizations (NGOs) and the provincial reconstruction teams (PRTs) in the aid delivery process, its external debt policy and how it proposes to enhance its partnership with all donors.
+The MoF is the leading government institution for aid effectiveness issues. The Aid Coordination Unit (ACU), within the Budget Department, is responsible for most issues surrounding the delivery and monitoring of external assistance. The Government's aid policies lay out preferred aid modalities on the delivery of development assistance, how it views the role of the other stakeholders such as the non-governmental organizations (NGOs) and the provincial reconstruction teams (PRTs) in the aid delivery process, its external debt policy
 
 Aid Effectiveness and Coordination 161
 
 [[END OF PAGE 221]]
 
 [[START OF PAGE 222]]
+
+and how it proposes to enhance its partnership with all donors.
 
 ###### Preferred aid modalities
 
@@ -7317,7 +7221,7 @@ tation of the PRGF. Moreover, the successful implementation of the ANDS will be 
 
 ###### Enhancing strategic partnership
 
-The Government's aid policy aims to strengthen the partnership with the donors by encouraging information sharing and policy dialogue, at both sectoral and program levels. In addition, the Government's policy will encourage the launching of joint analytical projects between the Government and donors. That is, the Government will develop agreements—in the form of Memoranda of Understanding with all donors in which rights; mutual obligations; and accountabilities are clearly identified.
+The Government's aid policy aims to strengthen the partnership with the donors by encouraging  information  sharing  and  policy dialogue,  at  both  sectoral  and  program  levels. In  addition,  the  Government's  policy  will  encourage  the  launching  of  joint  analytical  projects  between  the  Government  and  donors. That  is,  the  Government  will  develop  agreements-in  the  form  of  Memoranda  of  Understanding with all donors in which rights; mutual obligations; and accountabilities are clearly identified.
 
 The  following  lessons  learned  will  be  implemented  across  all  consultative  structures  and platforms to ensure an effective dialogue:
 
@@ -7383,7 +7287,7 @@ Recurrent  financing needs  now  met  by  donors  must  increasingly  be  offset
 
 166
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 226]]
 
@@ -7417,7 +7321,7 @@ Both the Government  and  donors  are  faced  with complex  policy  and  deliver
 
 The  Government  will  integrate  the  national budgetary process, legislative agenda and program  delivery  simultaneously.    This  will  require  development  partners  and  donors  to align  their  efforts  with  ANDS  priorities  and activities  through  joint  planning  and  evaluation. The Government will concentrate on integrating  and  delivering  donor-supported  programs that achieve the ANDS goals of (i) stability, (ii) delivery of basic services and infrastructure and (iii) enabling a vibrant national economy.
 
-This  integration  will  require  a  strengthening  of  government  machinery  both  at  the centre  (OAA,  NSC,  Ministry  of  Finance, IARCSC and JCMB Secretariat) and at subnational level (through the Ministry of Interior,  MCN,  IDLG  and  Ministry  of  Economy).  This new capacity will itself require a program approach.
+This  integration  will  require  a  strengthening  of  government  machinery  both  at  the centre  (OAA,  NSC,  Ministry  of  Finance, IARCSC and JCMB Secretariat) and at sub-national level (through the Ministry of Interior,  MCN,  IDLG  and  Ministry  of  Economy).  This new capacity will itself require a program approach.
 
 The  sector  strategies  and  the  implementation framework are premised on the application of the following principles:
 
@@ -7441,13 +7345,15 @@ The  sector  strategies  and  the  implementation framework are premised on the 
 
  Enhance  poverty  and  economic  growth diagnostic  monitoring  and  impact  evaluation.
 
-The  proposed  implementation  and  coordination  framework,  outlined  below,  balances  the need for coordination between the Government and donors as well as provincial based formulation and execution capacities to enhance service  delivery.    This  will  require  improved  coordination between the Government and various stakeholders.
+The  proposed  implementation  and  coordination  framework,  outlined  below,  balances  the need for coordination between the Government and donors as well as provincial based formu-
 
 Implementation Framework 167
 
 [[END OF PAGE 227]]
 
 [[START OF PAGE 228]]
+
+lation and execution capacities to enhance service delivery. This will require improved coordination between the Government and various stakeholders.
 
 ##### IMPLEMENTATION PLAN AND THE ANDS IMPLEMENTATION CYCLE
 
@@ -7492,9 +7398,9 @@ Economic Growth / Enduring Human Security
  Rule Of Law
  Governance
  Health
- EDUCATION
- CAPACITY BUILDING
- INFRASTRUCTURE
+ Education
+ Capacity Building
+ Infrastructure
  REGULATORY FRAMEWORK
  REGIONAL COOPERATION
 
@@ -7506,7 +7412,7 @@ Because  the  Budget  is  the  central  tool  for  implementing  the  ANDS,  all
 
 168
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 228]]
 
@@ -7571,7 +7477,7 @@ Control of on-budget resources is being strengthened  through  fundamental  refo
 
 170
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 230]]
 
@@ -7585,7 +7491,7 @@ Currently,  the  Ministry  of  Finance  uses  program budgeting in key sectors a
 
  Rationale :  Does this project require public sector  finance?  Does  the  project  directly address poverty reduction, economic growth or contribute to easing tensions in the communities? Does the project address cross-cutting issues such as gender?
 
- Cost-effectiveness :  Have  multi-year  cost implications  (sustainability)  and  the  least-cost  alternative  been  identified,  including through competitive bidding?
+ Cost-effectiveness:  Have  multi-year  cost implications  (sustainability)  and  the  least-cost  alternative  been  identified,  including through competitive bidding?
 
  Benefit-cost :  Have  the  benefits  (including economic,  social  and  environmental)  been quantified and do they exceed the costs? Is the rate of return on expenses sufficient to justify expenditure?
 
@@ -7601,7 +7507,7 @@ The  success  of  these  sectoral frameworks will depend on an appropriate enabl
 Efforts  will continue to incorporate the Afghan Reconstruction Trust Fund (ARTF), Law and Order Trust Fund  (LOTFA)  and  the Counter Narcotics Trust Fund (CNTF) into the budgetary process. This will ensure these trust funds contribute to the  effectiveness  of  broader  sector  wide  approaches.    To  the  maximum  extent  possible, appropriations will be made through the treasury system.
 
 ###### Integrate  budgetary  processes  with  cabinet-level policy-making and legislative planning :
-The  linkages  among  policy-making,  planning and budgeting will be strengthened to promote more  results-based  performance  management. Medium-term  expenditure  priorities  will  receive expedited treatment in the cabinet policymaking and legislative processes.  Program and provincial  budgeting  will  provide  multi-year budget  proposals which  integrate recurrent and capital expenditures.  These processes will also integrate the Provincial Development Plans  (PDPs)  and  address  any  provincial  or regional imbalances.
+The  linkages  among  policy-making,  planning and budgeting will be strengthened to promote more  results-based  performance  management. Medium-term  expenditure  priorities  will  receive expedited treatment in the cabinet policy-making and legislative processes.  Program and provincial  budgeting  will  provide  multi-year budget  proposals which  integrate recurrent and capital expenditures.  These processes will also integrate the Provincial Development Plans  (PDPs)  and  address  any  provincial  or regional imbalances.
 
 ###### Tracking of poverty related spending :
 Evaluating the effects of public spending on poverty reduction will be enhanced by introducing the system of tracking of poverty related spending within the framework of the future monitoring mechanism.  The  JCMB  Secretariat  will  take lead on this in cooperation with the MoF, CSO and line ministries.
@@ -7630,7 +7536,7 @@ The role of the Control and Audit Office (CAO) will be strengthened to provide o
 
 The Medium Term Fiscal Framework and sector  wide  programming  and  costing  will  (i) strengthen realistic resource projections; (ii) sectoral  prioritization;  (iii)  support  fiscal  sustainability, and (iv) develop budget ceilings for all budget entities.  Table 10.5 below provides a high  level  sectoral  overview  of  the  projected sectoral costs for the period 1386 to 1391 (2007-2012).
 
-As afore-mentioned, the implementation of the ANDS will be aligned with the Government's commitments toward the PRGF and HIPC. The Government  expenditure  prioritization  framework  will  ensure  that  proper  resource  allocation  will  be  made  to  support  implementation of  these  commitments and if necessary appropriate adjustments will be done.
+As afore-mentioned, the implementation of the ANDS will be aligned with the Government's commitments toward the PRGF and HIPC. The Government  expenditure  prioritization  framework  will  ensure  that  proper  resource  allocation  will  be  made  to  support    implementation of  these  commitments and if necessary appropriate adjustments will be done.
 
 Table 10.5. Projected Operating and Development Spending (US$ m) 1387-1391 60
 
@@ -7653,7 +7559,7 @@ The total estimated cost of the ANDS over the next five years (1387-1391) is $50
 
 172
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 232]]
 
@@ -7673,6 +7579,8 @@ The Council of Ministers headed by the President as the highest level decision-m
 
 The ANDS Oversight Committee as high level body comprised of  senior  ministers  will  oversee  the  implementation  of  the  ANDS  and  report  about  the  progress  directly  to  the  President and the Cabinet. 61
 
+> 61 This  mechanism  has  been  very  effective  for  formulation  of Millennium Development Goals (MDGs) for Afghanistan, development  of  Afghanistan  Compact  and  Interim  Afghanistan  National Development Strategy (I-ANDS), prioritization of various programs  and  projects,  and  approval  of  policies  and  decisions. The effectiveness of this mechanism is supplemented by the fact that  the  Senior  Economic Advisor to the President is also a co-
+
 MoF will be responsible to ensure that the programs and projects of the line ministries will be costed, prioritized against the fiscal framework, sequenced  and  integrated  into  the  MTFF  and the Budget.
 
 ##### SUB-NATIONAL IMPLEMENTATION STRUCTURES
@@ -7687,7 +7595,7 @@ At the provincial level, the Provincial Councils, Provincial  Development  Commi
 
 The  Government  and  the  international  community have established the Joint Coordination and  Monitoring  Board  (JCMB),  with  responsibility  for  overall  strategic  coordination  and monitoring  of  the  implementation  of  the  Afghanistan Compact.
 
-> 61 This  mechanism  has  been  very  effective  for  formulation  of Millennium Development Goals (MDGs) for Afghanistan, development  of  Afghanistan  Compact  and  Interim  Afghanistan  National Development Strategy (I-ANDS), prioritization of various programs  and  projects,  and  approval  of  policies  and  decisions. The effectiveness of this mechanism is supplemented by the fact that  the  Senior  Economic Advisor to the President is also a co-chair  of  the  Joint  Coordination  and  Monitoring  Board  (JCMB), which  is  mainly  responsible  for  coordination  between  the  government  and  the  international  community.  The  members  of  the Oversight  Committee are  also  members  of  JCMB.  This  mechanism  will  be  a  very  important  implementation  mechanism  for ANDS because of its past experience, criticality and positioning.
+chair  of  the  Joint  Coordination  and  Monitoring  Board  (JCMB), which  is  mainly  responsible  for  coordination  between  the  government  and  the  international  community.  The  members  of  the Oversight  Committee are  also  members  of  JCMB.  This  mechanism  will  be  a  very  important  implementation  mechanism  for ANDS because of its past experience, criticality and positioning.
 
 Implementation Framework 173
 
@@ -7719,7 +7627,7 @@ The  implementation  framework  conceived  in this  strategy  requires  an  ongo
 
 174
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 234]]
 
@@ -7751,12 +7659,15 @@ Figure 11.1. Formulations, Implementation and Monitoring and Evaluation Process
 
 Formation
 I-ANDS
-Implementation
 ANDS - I
+
+Implementation
 1st Annual Progress Report
+
 Monitoring & Evaluation
 2nd Annual Progress Report
 ANDS Review
+
 Formulation
 ANDS - II
 
@@ -7818,7 +7729,7 @@ The CMRS will be developed within the JCMB Secretariat  and  Ministry  of  Econo
 
 178
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 238]]
 
@@ -7842,7 +7753,7 @@ Line departments will continue to collect sector relevant information to monitor
 
 ###### The Role of Provincial Offices
 
-The  line  ministries  will  strengthen  their  provincial offices to collect disaggregated data on all indicators to monitor progress on individual projects at provincial, district and village level. The  provincial  offices  and  institutions  of  subnational  governance  will  utilize  monitoring, support and reporting mechanisms to feed data to  the  line  ministries  which  will  assist  in  provincial budgeting, planning and monitoring of the  overall  implementation  of  the  ANDS.  The Governor will report to the Provincial Councils on the progress of implementation of the subnational ANDS priorities and other parts of the PDPs.
+The  line  ministries  will  strengthen  their  provincial offices to collect disaggregated data on all indicators to monitor progress on individual projects at provincial, district and village level. The  provincial  offices  and  institutions  of  sub-national  governance  will  utilize  monitoring, support and reporting mechanisms to feed data to  the  line  ministries  which  will  assist  in  provincial budgeting, planning and monitoring of the  overall  implementation  of  the  ANDS.  The Governor will report to the Provincial Councils on the progress of implementation of the sub-national ANDS priorities and other parts of the PDPs.
 
 ###### The Role of the National Budget
 
@@ -7860,7 +7771,7 @@ The Government will continue to request support from international partners in (
 
 ###### The role of NGOs and Civil Society:
 
-Independent monitoring and reporting by NGOs, CSOs, the media and other civilian bodies will be a vital part of the overall monitoring and reporting system.  Their participation will be  encouraged  and  actively  supported.    They will  play  an  important  role  in  the  external monitoring of the implementation of the ANDS which will be carried out in continuing consultations  with  NGOs  and  the  civil  society,  subnational  representatives  and  the  international community.
+Independent monitoring and reporting by NGOs, CSOs, the media and other civilian bodies will be a vital part of the overall monitoring and reporting system.  Their participation will be  encouraged  and  actively  supported.    They will  play  an  important  role  in  the  external monitoring of the implementation of the ANDS which will be carried out in continuing consultations  with  NGOs  and  the  civil  society,  sub-national  representatives  and  the  international community.
 
 ##### MONITORING AND EVALUATION REPORTING
 
@@ -7878,7 +7789,7 @@ The measurement and analysis of poverty, inequality, and vulnerability are cruci
 
 180
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 240]]
 
@@ -7926,7 +7837,7 @@ The  ANDS monitoring and evaluation system being developed will track the progre
 
 182
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 242]]
 
@@ -8024,7 +7935,7 @@ No. | Indicators | Collection Frequency | Data Source | Responsible Agency
 
 184
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 244]]
 
@@ -8061,7 +7972,7 @@ No. | Indicators | Collection Frequency | Data Source | Responsible Agency
 84 | Index on the progress of increasing agriculture production and productivity. | Six Months | Admin Data | MRRD, MAIL
 85 | Index on the progress of improving agriculture and rural infrastructure | Six Months | Admin Data | MRRD, MAIL
 ###### Social Protection
-86 | Index on progress of a social protection system for vulnerable sections of society | Six Months | Admin Data | MoLSA
+86 | Index on progress of a social protection system for vulnerable sections of society. | Six Months | Admin Data | MoLSA
 87 | Percentage of poor female headed households (National/Urban/Rural) | 3-years | NRVA | CSO
 88 | Number of employed poor women who are heads of their households (National/Urban/Rural) | 3-years | NRVA | CSO
 89 | Percentage of poor persons with disability (National/Urban/Rural) | 3-years | NRVA | CSO
@@ -8092,7 +8003,7 @@ No. | Indicators | Collection Frequency | Data Source | Responsible Agency
 
 186
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 246]]
 
@@ -8106,9 +8017,11 @@ While significant gains have been made in the reconstruction  and  development  
 
 Sustaining the nascent Afghan democracy will require  the  emergence  of  a  prosperous  Afghanistan in which poverty reduction and economic growth are able to raise the potential of the Afghan people for a better future.  Success will require the emergence of a productive private  sector  active  that  plays  a  major  role  in most  areas  of  the  economy  with  public  sector resources  primarily  focused  on  providing  the needed  physical,  commercial  and  legal  infrastructure  and  ensuring  that  the  results  of  development benefit all citizens.
 
-The  ANDS represents  an  important  milestone in the rebuilding and development of Afghanistan and serves as the country's Poverty Reduction Strategy Paper (PRSP). Through  the ANDS, the Government is firmly committed to continuing state building efforts.  It includes a realistic  and  comprehensive  assessment  of  the enormous constraints and challenges facing the country and plans for addressing security, governance, rule of law, human rights, and social and  economic  development  issues  in  an  integrated  approach.    The  primary  goal  of  the ANDS is to establish a framework in which the Government and international community can work  jointly  to  substantially  reduce  poverty based  on  a  foundation  of  a  private  sector  led sustained  economic  growth.    This  requires  simultaneous  progress  on  improving  security, strengthening governance, increasing the effectiveness in delivering basic social services and taking the actions necessary to ensure that the private sector can invest and operate competitively.  Achieving substantial progress in all of these areas is  a  complex  task  that  will  require commitment  and  coordination  by  all  parts  of the Government and the donor community. As such,  the  ANDS  will  help  to  coordinate  and guide  the  joint  activities  of  the  Government and donors.
+The  ANDS represents  an  important  milestone in the rebuilding and development of Afghanistan and serves as the country's Poverty Reduction Strategy Paper (PRSP). Through  the ANDS, the Government is firmly committed to continuing state building efforts.  It includes a realistic  and  comprehensive  assessment  of  the
 
-The  development  of  the  ANDS  has  been  a genuinely Afghan 'owned' exercise, based on a broad  consultative  process,  engaging  donor community and stakeholders  at  national,  provincial  and  grassroots  levels  to  define  the  development of national and local priorities.  This enabled men and women from all provinces to participate  in  defining  national  development objectives  and  to  express  their  priorities.    The voices  of  the  poor  have  informed  the  policy framework, the poverty profile, as well as the orientation  of  the  sectoral  strategies  that  form the  foundation  of  the  ANDS.    Important  insights have been gained in security and conflict management,  regional cooperation, counter-narcotics, anti-corruption, gender, the environment,  and  capacity  development.    Within the  Government,  the  ANDS  was  developed based  on  strategies  prepared  by  all  ministries and  broader  sector  strategies  that  were  discussed extensively in ministries, Inter-Ministerial Committees, and with donors, NGOs,  and  the  private  sector.    This  inclusive participatory process will be maintained throughout the life of the ANDS.
+enormous constraints and challenges facing the country and plans for addressing security, governance, rule of law, human rights, and social and  economic  development  issues  in  an  integrated  approach.    The  primary  goal  of  the ANDS is to establish a framework in which the Government and international community can work  jointly  to  substantially  reduce  poverty based  on  a  foundation  of  a  private  sector  led sustained  economic  growth.    This  requires  simultaneous  progress  on  improving  security, strengthening governance, increasing the effectiveness in delivering basic social services and taking the actions necessary to ensure that the private sector can invest and operate competitively.  Achieving substantial progress in all of these areas is  a  complex  task  that  will  require commitment  and  coordination  by  all  parts  of the Government and the donor community. As such,  the  ANDS  will  help  to  coordinate  and guide  the  joint  activities  of  the  Government and donors.
+
+The  development  of  the  ANDS  has  been  a genuinely Afghan 'owned' exercise, based on a broad  consultative  process,  engaging  donor community and stakeholders  at  national,  provincial  and  grassroots  levels  to  define  the  development of national and local priorities.  This enabled men and women from all provinces to participate  in  defining  national  development objectives  and  to  express  their  priorities.    The voices  of  the  poor  have  informed  the  policy framework, the poverty profile, as well as the orientation  of  the  sectoral  strategies  that  form the  foundation  of  the  ANDS.    Important  insights have been gained in security and conflict management,  regional cooperation, counter-narcotics, anti-corruption, gender, the environment,  and  capacity  development.    Within the  Government,  the  ANDS  was  developed based  on  strategies  prepared  by  all  ministries and  broader  sector  strategies  that  were  discussed extensively in ministries, Inter-
 
 Monitoring Framework
 
@@ -8117,6 +8030,8 @@ Monitoring Framework
 [[END OF PAGE 247]]
 
 [[START OF PAGE 248]]
+
+Ministerial Committees, and with donors, NGOs, and  the  private  sector.    This  inclusive participatory process will be maintained throughout the life of the ANDS.
 
 The  effectiveness  of  the  ANDS  will  depend crucially  on  building  a  strong  economic  foundation that will support long term, broad-based economic growth, with the private sector being its driving engine. With proper policies undertaken during the last five years, per capita income  nearly  doubled.  To  achieve  the  poverty reduction goals of the ANDS comparable levels of economic growth will be needed in comings years.  This will require a supportive enabling environment for social and economic development, which in turn depends on the continued maintenance  of  sound  and  stable  macroeconomic  policies  to  enable  the  private  sector  to establish itself  as  a  vigorous  engine  of  growth and employment creation.
 
@@ -8132,13 +8047,13 @@ Good governance and adherence to the rule of law  are  much  needed  reforms  th
 
 188
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 248]]
 
 [[START OF PAGE 249]]
 
-larger  and  more  efficient  private  sector.    The Afghan  'ownership'  of  the  strategy  requires that  the  Government seeks donors close cooperation  in  capacity  building  and  know-how transfer, so that a system can evolve that allows the best parts of the functional traditional governance  system  to  co-exist    with  a  universal system that recognizes and supports principles of  social  diversity,  respect  for  human  rights and the rule of law.
+larger  and  more  efficient  private  sector.  The Afghan  'ownership'  of  the  strategy  requires that  the  Government seeks donors close cooperation  in  capacity  building  and  know-how transfer, so that a system can evolve that allows the best parts of the functional traditional governance  system  to  co-exist    with  a  universal system that recognizes and supports principles of  social  diversity,  respect  for  human  rights and the rule of law.
 
 The  successful  implementation  of  the  ANDS strategies for social and economic development is  expected  to  contribute  substantially  to  the long  term  transformation  of  Afghanistan.    At the  center  of  these  strategies  is  the  creation  of conditions for accelerated private sector development.    The  Afghan  private  sector  is  now quite  weak  after  years  of  isolation  and  an  almost total lack of investment.  The limited foreign investment that has taken place has been largely in the  telecommunications  industry. The Government is taking steps to establish an enabling environment, based on sound market-oriented policies and an adherence to the rule of  law.    There  is  great  potential  to  attract  private  investment  in  the  critical  areas  of  infrastructure  and  natural  resource  development – including  power  generation,  commercial  agriculture and agro-based industry, development of water resources, and mining.  To realize this enormous potential, the Government is developing  the  legal  and  regulatory  structures  required to enable private investment to operate profitably.
 
@@ -8162,7 +8077,7 @@ Afghanistan faces extremely difficult challenges that will take many years to fu
 
 190
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 250]]
 
@@ -8179,16 +8094,16 @@ Afghanistan National Development Strategy (ANDS )
 [[END OF PAGE 252]]
 
 [[START OF PAGE 253]]
-
+Afghanistan National Development Strategy (ANDS) 193
 ## APPENDIX I
 
-### National Action Plan (2009 - 2013)
+### National Action Plan (2009 – 2013)
 
 #### PILLAR : SECURITY
 ##### SECTOR : SECURITY
 --- | --- | --- | --- | ---
 Expected Outcomes | Policy Actions and Activities | Category | Timeframe | Responsible Agency
-Effectively coordinated security sector | Monitor and coordinate security issues between ministries and departments and establish 13 coordination centers | Institution Develop- ment | 2008 - 2013 | NSC, MoD, MoI, NDS, MCN, MoFA
+Effectively coordinated security sector | Monitor and coordinate security issues between ministries and departments and establish 13 coordination centers | Institution Development | 2008 - 2013 | NSC, MoD, MoI, NDS, MCN, MoFA
 ANA operationally capable of performing those missions and tasks assigned | Recruit additional personnel to reach the newly agreed 80,000 army ceiling with additional 6000 staff of mentors, trainers etc | Institution Building | ongoing - end 2009 | MoD
 Revise Operations and tactical structures and new weaponry to be provided then accordingly | Institution Building | 2007 - 2013 | MoD
 Equip the ANA with technical and administrative support | Institution Building | 2008 - 2013 | MoD
@@ -8198,18 +8113,15 @@ Equip existing ANA training centers/Academies | Development | 2008 - 2013 | MoD
 Reform and capacity building of the ANA to a sustainable level | Development | 2008 - 2013 | MoD
 Strengthen logistical support to the Army in regional and provincial battalions | Institution Building | 2008 - 2013 | MoD
 Establish computerized system in MoD to strengthen human resource, financial and program management | Institution Building | 2008 - 2013 | MoD
-Extensive training schemes to equip national units to fight terrorism and anti gov- ernment elements | Development | 2008 - 2013 | MoD
+Extensive training schemes to equip national units to fight terrorism and anti government elements | Development | 2008 - 2013 | MoD
 Focus on conflict prevention programs in areas where anti government activities are ripe | Development | 2008 - 2013 | MoD
 Information campaigns about the benefits of peaceful processes | Development | 2008 - 2013 | MoD
-ANA expenditures are fiscally sustainable | Develop a 'Right-financing' approach to the security sector | Institution Building | 2008 - 2013 | MoD
+ANA expenditures are fiscally sustainable | Develop a ‘Right-financing’ approach to the security sector | Institution Building | 2008 - 2013 | MoD
 ANP operationally capable of performing those missions and tasks assigned and crime rates reduced | Recruit Personnel to reach the Benchmark of 82,000 | Institution Building | ongoing - End 2010 | MoI
 Equip the Police with technical and administrative support | Institution Building | 2008 - 2013 | MoI
 Reform and capacity building of the ANP and ABP to a sustainable level | Development | 2008 - 2013 | MoI
 Strengthen logistical support to ANP and ABP in regional and provincial centers | Institution Building | 2008 - 2013 | MoI
 
-Afghanistan National Development Strategy (ANDS )
-
-193
 
 [[END OF PAGE 253]]
 
@@ -8222,43 +8134,43 @@ Construct new Stations and Substations for Police in Provinces | Institution Bui
 Establish/Equip Fire Brigade Departments | Institution Building | 2008 - 2013 | MoI
 Restore Traffic signals structure in Urban areas and highways | Development | 2008 - 2013 | MoI
 Establish/Equip Health care centers/facilities for Police in center and provinces | Development | 2008 - 2013 | MoI
-Extensive training schemes to equip national units to fight terrorism and anti gov- ernment elements | Institution Building | 2008 - 2013 | MoI
+Extensive training schemes to equip national units to fight terrorism and anti government elements | Institution Building | 2008 - 2013 | MoI
 Focus on conflict prevention programs in areas where anti government activities are ripe | Development | 2008 - 2013 | MoI
 Information campaigns about the benefits of peaceful processes | Development | 2008 - 2013 | MoI
-Conduct training to increase the capacity of Afghan National Police forces to en- force the law against poppy cultivation and drug trafficking | Institution Building | 2008 - 2013 | MoI
+Conduct training to increase the capacity of Afghan National Police forces to enforce the law against poppy cultivation and drug trafficking | Institution Building | 2008 - 2013 | MoI
 MoI reform to support the transformation of police | Institution Building | 2008 - 2013 | MoI
 Establish computerized system in MoI to strengthen human resource, financial and program management | Institution Building | 2008 - 2013 | MoI
 Operational border posts able to protect national sovereignty, levy and collect custom duties and process those collections to the central government. | Reform, train and equip the Border Police | Institution Building | 2008 - 2013 | MoI
 Establish/Rehabilitate and equip Border Posts | Institution Building | 2008 - 2013 | MoI
-ANP and ABP expenditures are fiscally sustainable | Develop a 'Right-financing' approach to the security sector | Institution Building | 2008 - 2013 | MoI
+ANP and ABP expenditures are fiscally sustainable | Develop a ‘Right-financing’ approach to the security sector | Institution Building | 2008 - 2013 | MoI
 Improve revenues and finance security sector spending; this includes licenses to private security companies | Institution Building | 2008 - 2013 | MoI
-Reduced level of deaths and casu- alties caused by UXOs, reduce the number of affected communities and increased safety precautions | Clear 90% of all known mine/ERW contaminated areas by 1391 (2012). The goal furthermore is to clear all emplaced antipersonnel mines by 1391 (1 March 2013) | Development | 2008-2013 | MoFA
+Reduced level of deaths and casualties caused by UXOs, reduce the number of affected communities and increased safety precautions | Clear 90% of all known mine/ERW contaminated areas by 1391 (2012). The goal furthermore is to clear all emplaced antipersonnel mines by 1391 (1 March 2013) | Development | 2008-2013 | MoFA
 All unsafe unserviceable and surplus ammunition will be destroyed | Development | 2008-2013 | MoFA, MoI
-Enhanced public trust on govern- ment ability to deliver justice and security as IAGs are disbanded and reintegrated | DIAG plans need to be instated and properly implemented | Development | ongoing - (by end of 2011) | DDR/DIAG, MoD
+Enhanced public trust on government ability to deliver justice and security as IAGs are disbanded and reintegrated | DIAG plans need to be instated and properly implemented | Development | ongoing - (by end of 2011) | DDR/DIAG, MoD
 Eventual eradication of Poppy Production and crack down on drug trafficking | Coordinate and target poppy eradication, in particluar where the beneficiaries are supporting anti government activities | Institution Building | 2008 - 2013 | MCN, MoD, MoI
 Conduct training to increase the capacity of Afghan Security forces to enforce the law against poppy cultivation and drug trafficking | Institution Building | 2008 - 2013 | MCN, MoI
 
 194
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 254]]
 
 [[START OF PAGE 255]]
-
+Afghanistan National Development Strategy (ANDS) 195
 PILLAR : SECURITY SECTOR : SECURITY
 --- | --- | --- | --- | ---
 Expected Outcomes | Policy Actions and Activities | Category | Timeframe | Responsible Agency
 Cooperate and coordinate with neighboring countries with intelligence sharing, particular with regard to drug smuggling across borders. | Institution Building | 2008 - 2013 | MCN, MoI
-Conduct effective information campaigns against poppy production and drug trad- ing. | Development | 2008 - 2013 | MCN, MoI
+Conduct effective information campaigns against poppy production and drug trading. | Development | 2008 - 2013 | MCN, MoI
 
 #### PILLAR : GOOD GOVERNANCE
 ##### SECTOR : GOVERNANCE AND HUMAN RIGHTS
 --- | --- | --- | --- | ---
 Objectives or Outcomes | Policy Actions or Activities | Category | Timeframe | Responsible Agency
-Empowered National As- sembly | Technical and Administrative Support Training | Institutional Development | Jaddi 1392 (end-2013) | Meshrano Jirga, Wolosi Jirga
+Empowered National Assembly | Technical and Administrative Support Training | Institutional Development | Jaddi 1392 (end-2013) | Meshrano Jirga, Wolosi Jirga
 Capacity Building | Institutional Development | Jaddi 1392 (end-2013) | Meshrano Jirga, Wolosi Jirga
-Reformed Public Admini- stration | Public Administration Reform | Institutional Development | Jaddi 1392 (end-2013) | IARCSC
+Reformed Public Administration | Public Administration Reform | Institutional Development | Jaddi 1392 (end-2013) | IARCSC
 Oversee/Implement/Monitor Training and Capacity Building of Public Sector Workforce | Institutional Development | Jaddi 1392 (end-2013) | IARCSC
 Appoint civil servants based on Merit | Institutional Development | Jaddi 1392 (end-2013) | IARCSC
 Oversee/Implement/Monitor Performance-based Reviews | Institutional Development | Jaddi 1389 (end-2010) | IARCSC
@@ -8266,14 +8178,11 @@ Corruption Reduced | Take effective measures to Reduce Corruption | Institutiona
 Monitor Corruption at high places of Government | Institutional Development | Jaddi 1387 (end-2008) | GIAAC, President's Office, other Ministries
 Launch E-Government Applications | Institutional Development | Jaddi 1387 (end-2008) | President's Office, MoICT
 Implement Public Complaints Mechanism | Institutional Development | Jaddi 1387 (end-2008) | President's office, GIAAC, MoJ etc
-Mid-term plans formulated and implemented | Development/ Gender Cross Cutting Issues | Jaddi 1387 (end-2008) | Inter-ministerial Consulta- tive group
+Mid-term plans formulated and implemented | Development/ Gender Cross Cutting Issues | Jaddi 1387 (end-2008) | Inter-ministerial Consultative group
 Credible institutional infrastructure established | Institutional Development | Jaddi 1387 (end-2008) | All relevant ministries
 Enhance Research & Data management Capacity | Development/ AC Cross Cutting Issues | Jaddi 1387 (end-2008) | IARCSC, all ministries
-Public sector reforms instituted incorporating anti-corruption issues | Institutional/ AC Cross Cut- ting Issues | Jaddi 1387 (end-2008) | IARCSC, all Ministries and Agencies
+Public sector reforms instituted incorporating anti-corruption issues | Institutional/ AC Cross Cutting Issues | Jaddi 1387 (end-2008) | IARCSC, all Ministries and Agencies
 
-Afghanistan National Development Strategy (ANDS )
-
-195
 
 [[END OF PAGE 255]]
 
@@ -8282,19 +8191,19 @@ Afghanistan National Development Strategy (ANDS )
 PILLAR : GOOD GOVERNANCE SECTOR : GOVERNANCE AND HUMAN RIGHTS
 --- | --- | --- | --- | ---
 Objectives or Outcomes | Policy Actions or Activities | Category | Timeframe | Responsible Agency
-Regulations and monitoring mechanism for the private sector development developed and implemented | Institutional/ AC Cross Cut- ting Issues | Jaddi 1387 (end-2008) | Consultative group
+Regulations and monitoring mechanism for the private sector development developed and implemented | Institutional/ AC Cross Cutting Issues | Jaddi 1387 (end-2008) | Consultative group
 Implement Public awareness programs on anti-corruption issues | Development/ AC Cross Cutting Issues | Jaddi 1387 (end-2008) | All Ministries and Agencies along with their sub national units
 Enhanced Availability of Information to Public and Enforcement | Right to Information Available to People | Legislation | Jaddi 1389 (end-2010) | IDLG, GIAAC, OoP, MoJ, Cabinet, National Assembly
 Enforce Sanctions against those involved in the drugs trade | Institutional Development | Jaddi 1389 (end-2010) | MoI (Police), MCN, AGO, IARCSC
-Productivity Commission advising the Cabinet | Institutional Development | Jaddi 1389 (end-2010) | GIAAC, MoJ, Cabinet, Na- tional Assembly
+Productivity Commission advising the Cabinet | Institutional Development | Jaddi 1389 (end-2010) | GIAAC, MoJ, Cabinet, National Assembly
 Improved Participation of Women in Governance | Implement National Action Plan for Women | Institutional Development | Jaddi 1389 (end-2010) | MoWA, All other ministries & Agencies
-Affirmative action available to women | Legislation | Jaddi 1389 (end-2010) | MoJ, Cabinet, National As- sembly, Office of President
+Affirmative action available to women | Legislation | Jaddi 1389 (end-2010) | MoJ, Cabinet, National Assembly, Office of President
 Piloting of a Regional Leadership Institute for Women in 2 areas | Institutional Development/ Gender Cross Cutting Issues | Jaddi 1387 (end-2010) | IARCSC
-Capacity Building Program for Women in Government at the level of Na- tional Assembly, provincial council and women laid off by the PRR processes Capacity Building for Ministries and LGUs on Gender Sensitive Budgeting | Development/ Gender Cross Cutting Issues | Jaddi 1389 (end-2010) | IARCSC
+Capacity Building Program for Women in Government at the level of National Assembly, provincial council and women laid off by the PRR processes Capacity Building for Ministries and LGUs on Gender Sensitive Budgeting | Development/ Gender Cross Cutting Issues | Jaddi 1389 (end-2010) | IARCSC
 Establishment of Women's Councils at the District Level | Institutional Development/ Gender Cross Cutting Issues | Jaddi 1389 (end-2010) | IDLG
 Gender awareness raising of senior officials of government | Development/ Gender Cross Cutting Issues | Jaddi 1389 (end-2010) | IARCSC
 Nation Prepared for Disaster Management | Establish an effective system of disaster preparedness and response | Institutional Development | Jaddi 1389 (end-2010) | ANDMA, IDLG
-Strong and Capable Inde- pendent Election Commis- sion holding regular national and sub national Elections as mandated by the Constitution | Independent Election Commission Capable to fulfill its Role | Institutional Development | Jaddi 1388 (end-2009) | Election Commision, IDLG, Police
+Strong and Capable Independent Election Commission holding regular national and sub national Elections as mandated by the Constitution | Independent Election Commission Capable to fulfill its Role | Institutional Development | Jaddi 1388 (end-2009) | Election Commision, IDLG, Police
 Permanent Voters Registry Available | Institutional Development | Jaddi 1388 (end-2009) | Election Commision, IDLG, MoI
 Sub National Elections Regularly held | Institutional Development | in the year 1389 (2010) and 1392 (2013) | Election Commision, IDLG, Police
 Single National Identity Document | Establish civil registry with a single national identity document | Institutional Development | Jaddi 1392 (end-2013) | MoI, IDLG
@@ -8302,12 +8211,12 @@ Census and Statistical Base- | Census Completed and Results Published | Institut
 
 196
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 256]]
 
 [[START OF PAGE 257]]
-
+Afghanistan National Development Strategy (ANDS) 197
 PILLAR : GOOD GOVERNANCE SECTOR : GOVERNANCE AND HUMAN RIGHTS
 --- | --- | --- | --- | ---
 Objectives or Outcomes | Policy Actions or Activities | Category | Timeframe | Responsible Agency
@@ -8317,21 +8226,18 @@ Mapping of Villages and Gozars | Institutional Development | Jaddi 1388 (end-200
 Modern Land Administration System | Establish Modern Land Administration System | Institutional Development | Jaddi 1387 (end-2008) | SC, MUD, MAIL, MoJ, AGCHO
 Established and A fair Sys- tem for Settlement of Land Disputes Available | Establish A fair System for Settlement of Land Disputes | Jaddi 1386 (end-2007) | SC, MUD, MAIL, MoJ, AGCHO, IDLG
 Government Connected to People and Increased reach of the Government by strengthening sub-national governance | Develop Sub National Governance Policy | Legislation | end-1389 (20 March 2011) | IDLG, MoJ, OoP, National Assembly
-Ensure Peoples' Participation in Sub National Governance | Institutional Development | end-1389 (20 March 2011) | IDLG, Election Commis- sion, Prov. Councils, MoJ
-Empower Provincial Councils | Institutional Development | end-1389 (20 March 2011) | IDLG, MoJ, Offfice of President, National Assem- bly
+Ensure Peoples' Participation in Sub National Governance | Institutional Development | end-1389 (20 March 2011) | IDLG, Election Commission, Prov. Councils, MoJ
+Empower Provincial Councils | Institutional Development | end-1389 (20 March 2011) | IDLG, MoJ, Offfice of President, National Assembly
 Law on District Councils, Municipal Councils, and Village Councils | Legislation | The President, IDLG
-Regular Elections of District Councils, Municipal Councils, Mayors and Vil- lage Councils | Institutional Development | Election Commision, Prov. Councils
-Empowered District Councils, Municipal Councils, Elected Mayors and Vil- lage Councils | Institutional Development | Office of President, IDLG
-Capacity built, the structures reformed, the processes streamlined in the prov- inces, districts and municipalities | Institutional Development | end-1389 (20 March 2011) | IDLG, IARCSC
+Regular Elections of District Councils, Municipal Councils, Mayors and Village Councils | Institutional Development | Election Commision, Prov. Councils
+Empowered District Councils, Municipal Councils, Elected Mayors and Village Councils | Institutional Development | Office of President, IDLG
+Capacity built, the structures reformed, the processes streamlined in the provinces, districts and municipalities | Institutional Development | end-1389 (20 March 2011) | IDLG, IARCSC
 Reform Sub National Public Administration | Institutional Development | end-1389 (20 March 2011) | IDLG, IARCSC, Office of President
 Instutionalize Provincial Planning and Provincial Budgeting | Institutional Development | end-1389 (20 March 2011) | IDLG, MoF, All ministries
 Empower Municipalities | Institutional Development | Jaddi 1392 (end-2013) | IDLG, KM, MoF, IARCSC
-Government Offices physi- cally equipped to fulfill their Role | Facility and Amenities to the Government Offices Reviewed | Development | Jaddi 1387 (end-2008) | All ministries and agencies
+Government Offices physically equipped to fulfill their Role | Facility and Amenities to the Government Offices Reviewed | Development | Jaddi 1387 (end-2008) | All ministries and agencies
 Basic Facility and Amenities Provided to all Government Offices | Development | end-1392 (20 March 2013) | All ministries and agencies, MoF
 
-Afghanistan National Development Strategy (ANDS )
-
-197
 
 [[END OF PAGE 257]]
 
@@ -8341,8 +8247,8 @@ PILLAR : GOOD GOVERNANCE SECTOR : GOVERNANCE AND HUMAN RIGHTS
 --- | --- | --- | --- | ---
 Objectives or Outcomes | Policy Actions or Activities | Category | Timeframe | Responsible Agency
 Free Flow of Information from all the District Centers | Free Flow of Information from all the District Centers | Institutional Development | end-1389 (20 March 2011) | Ministries, MoICT, IDLG, Office of President
-Communication with the Government made Easy | Communication with the Government made Easy through the websites | Institutional Development | end-1389 (20 March 2011) | All the Ministries and Agen- cies, MoICT
-Youth Involved in Govern- ance | Provide Definite Mechanisms for youth involvement | Institutional Development | end-1389 (20 March 2011) | IDLG, Dept of Youth
+Communication with the Government made Easy | Communication with the Government made Easy through the websites | Institutional Development | end-1389 (20 March 2011) | All the Ministries and Agencies, MoICT
+Youth Involved in Governance | Provide Definite Mechanisms for youth involvement | Institutional Development | end-1389 (20 March 2011) | IDLG, Dept of Youth
 Human Rights Realized, Protected, Promoted and Extended | Human Rights Realized, Protected, Promoted and Extended | Institutional Development | Jaddi 1389 (end-2010) | IDLG, National Assembly, MoI, MoJ, MoUD, MoCI, MoWA, MoD, MoLSAMD, MoRR, MoE, AIHRC, and all relevant
 Action Plan on Peace, Justice and Reconciliation Implemented | Institutional Development | Jaddi 1387 (end-2008) | AIHRC, Office of President, NA, SC, MoJ, IARCSC, others
 
@@ -8350,43 +8256,40 @@ PILLAR : GOOD GOVERNANCE
 ##### SECTOR : JUSTICE AND THE RULE OF LAW
 --- | --- | --- | --- | ---
 Expected Outcomes | Policy Actions and Activities | category | Time frame | Responsible Agencies
-Public can rely on effec- tively organized and profes- sionally staffed justice insti- tutions | Analyze and develop recommendations regarding justice institutions' record-keeping practices in order to improve accuracy and irretrievability and to avoid redundant proc- esses | Institution Building | By year 2 | SC,MoJ,AGO
-Analyze and make recommendations for improving existing remuneration and human resources systems in justice insti- tutions. | Institution Building | By year 1 | SC,MoJ,AGO
-Support development and introduction of institution- specific remuneration and human resources schemes, such as pay and grading and performance evaluation measures | Institution Building | By Year 2 | Program Oversight Committee
+Public can rely on effectively organized and professionally staffed justice institutions | Analyze and develop recommendations regarding justice institutions' record-keeping practices in order to improve accuracy and irretrievability and to avoid redundant processes | Institution Building | By year 2 | SC,MoJ,AGO
+Analyze and make recommendations for improving existing remuneration and human resources systems in justice institutions. | Institution Building | By year 1 | SC,MoJ,AGO
+Support development and introduction of institution-specific remuneration and human resources schemes, such as pay and grading and performance evaluation measures | Institution Building | By Year 2 | Program Oversight Committee
 Justice institutions to establish links with universities for recruiting candidates (e.g., job fairs and short internships). | Institution Building | Year 3 and on | MoJ, AOG, SC, MoHE
-Survey, develop and implement recommendations to im- prove existing career development practices in each institu- tion with particular attention to complying with gender benchmarks. | Institution Building | Year 3 and on | SC,MoJ,AGO, MoWA, MoHE
+Survey, develop and implement recommendations to improve existing career development practices in each institution with particular attention to complying with gender benchmarks. | Institution Building | Year 3 and on | SC,MoJ,AGO, MoWA, MoHE
 Develop institutional capacity to train professionals | Institution Building | Year 2 and on | SC,MoJ,AGO, ICCD
 
 198
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 258]]
 
 [[START OF PAGE 259]]
-
+Afghanistan National Development Strategy (ANDS) 199
 PILLAR : GOOD GOVERNANCE SECTOR : JUSTICE AND THE RULE OF LAW
 --- | --- | --- | --- | ---
 Expected Outcomes | Policy Actions and Activities | category | Time frame | Responsible Agencies
-Analyze and, in consultation with stakeholders, develop recommendations for improving the organizational, man- agement and administrative structures of justice institutions to enable them to fulfill their respective mandates and func- tions at headquarters and at provincial and district level offices | Development | By year 2 | SC,MoJ,AGO
+Analyze and, in consultation with stakeholders, develop recommendations for improving the organizational, management and administrative structures of justice institutions to enable them to fulfill their respective mandates and functions at headquarters and at provincial and district level offices | Development | By year 2 | SC,MoJ,AGO
 Implement recommendations | Development | Year 3 and on | SC,MoJ,AGO
 Implement security measure for Judges safety | Development | By end year 4 | SC, MoJ, MoI
 Public information system improved | Development | Year 2 on | MoJ
 Enhanced awareness of public in general and women in particular of women's legal rights | Development | Year 2 on | MoWA
 Public demands Sexual Harassment and grievance handling laws/policy to be enacted | Year 2 on
 Justice institutions construct, acquire or make functional on a priority basis infrastructure necessary to expand delivery of justice services throughout provincial and district areas outside of regional centers. | Development | Year 3 and on
-Assess and priorities equipment and supply needs of justice institutions and establish effective and accountable pro- curement systems. | Development | By end year 2 | SC,MoJ,AGO
+Assess and priorities equipment and supply needs of justice institutions and establish effective and accountable procurement systems. | Development | By end year 2 | SC,MoJ,AGO
 Provide equipment and supplies in accordance with needs assessment. | Development | Year 2 and on | SC,MoJ,AGO
 Conduct comprehensive inventory of all transportation assets, indicating condition and expected lifespan. | Development | By end year 2 | SC,MoJ,AGO
-Survey existing asset management capacity and make rec- ommendations for improvement | Development | By end year 1 | SC,MoJ,AGO
-Justice institutions acquire and maintain transportation as- sets sufficient to fulfill their tasks. | Development | Year 3 and on | SC,MoJ,AGO
-Increased and improved facilities to deal with female of- fenders | Institution Building | Year 2 on | MoJ
-Legal education and voca- tional training are adequate to provide justice profes- sionals with sufficient know- | Create and launch agreed core subject curriculum for Sharia, law and political science faculties. | Development | By end Year 2 | SC,MoJ,AGO
+Survey existing asset management capacity and make recommendations for improvement | Development | By end year 1 | SC,MoJ,AGO
+Justice institutions acquire and maintain transportation assets sufficient to fulfill their tasks. | Development | Year 3 and on | SC,MoJ,AGO
+Increased and improved facilities to deal with female offenders | Institution Building | Year 2 on | MoJ
+Legal education and vocational training are adequate to provide justice professionals with sufficient know- | Create and launch agreed core subject curriculum for Sharia, law and political science faculties. | Development | By end Year 2 | SC,MoJ,AGO
 Create and launch agreed core subject curriculum for Sharia, law and political science faculties. | Development | SC,MoJ,AGO
 
-Afghanistan National Development Strategy (ANDS )
-
-199
 
 [[END OF PAGE 259]]
 
@@ -8397,105 +8300,100 @@ PILLAR : GOOD GOVERNANCE SECTOR : JUSTICE AND THE RULE OF LAW
 Expected Outcomes | Policy Actions and Activities | category | Time frame | Responsible Agencies
 how to perform their task | Survey and make recommendations for enhancement of legal research facilities, including a feasibility study of the establishment of an advanced legal research institute. | Development | Year 3 to 4 | SC,MoJ,AGO
 Create stakeholder consultations to develop policy and planning mechanisms for enhancing legal research capacity. | Development | Year3 to 4 | SC,MoJ,AGO
-Law and Sharia faculties establish links with foreign legal educational institutions to enhance research capacity, in- cluding foreign study programs for both students and staff. | Development | Year 2 and on | MoHE, MoFA
+Law and Sharia faculties establish links with foreign legal educational institutions to enhance research capacity, including foreign study programs for both students and staff. | Development | Year 2 and on | MoHE, MoFA
 Universities identify and enhance infrastructure so as to accommodate female students and staff | Development | By year 2 | MHE, MoJ
-Universities develop and implement policies to raise per- centage of female students and staff to at least 30 percent | Development | By end year 2 | MHE, MoJ
-Justice institutions, in coordination with the Independent National Legal Training Center, develop appropriate voca- tional training courses for justice professionals, paying specific attention to the needs of female professionals. | Development | By end year 2 | INLTC
+Universities develop and implement policies to raise percentage of female students and staff to at least 30 percent | Development | By end year 2 | MHE, MoJ
+Justice institutions, in coordination with the Independent National Legal Training Center, develop appropriate vocational training courses for justice professionals, paying specific attention to the needs of female professionals. | Development | By end year 2 | INLTC
 Justice institutions, in coordination with the Independent National Legal Training Center, develop and implement specialized programs for continuing legal education, paying specific attention to the needs of female professionals. | Development | Year 3 and on | SC,MoJ,AGO, INLTC
-Statutes are clearly drafted, constitutional and the prod- uct of effective and consulta- tive drafting processes | Perform comprehensive needs assessment of Taqnin and make recommendations for technical assistance and capac- ity building | Institution Building | By end Year 1 | MoJ, National Assembly
+Statutes are clearly drafted, constitutional and the product of effective and consultative drafting processes | Perform comprehensive needs assessment of Taqnin and make recommendations for technical assistance and capacity building | Institution Building | By end Year 1 | MoJ, National Assembly
 Provide technical assistance and capacity building for Taqnin in line with recommendations. | Institution Building | Year 2 and on | MoJ
-Establish a working body to promote greater cooperation and enhance the efficiency of the legislative drafting proc- ess. | Institution Building | Year 2 and on | MoJ, National Assembly
+Establish a working body to promote greater cooperation and enhance the efficiency of the legislative drafting process. | Institution Building | Year 2 and on | MoJ, National Assembly
 An indexed compilation of all laws in force is assembled and updated regularly. | Development | By end Year 3 and on | MoJ
-Taqnin conducts a review of the constitutionality of all laws in force, and recommends amendments to ensure constitu- tionality. | Development | By end Year 3 and on | SC,MoJ,AGO, MoI
-Unconstitutional laws are amended to ensure constitutional- ity | Development | Year 3 and on | National Assembly, MoJ, AOG
+Taqnin conducts a review of the constitutionality of all laws in force, and recommends amendments to ensure constitutionality. | Development | By end Year 3 and on | SC,MoJ,AGO, MoI
+Unconstitutional laws are amended to ensure constitutionality | Development | Year 3 and on | National Assembly, MoJ, AOG
 Assess capacity of government institutions and entities to draft laws and make recommendations for enhancing that | Development | By end year 2 | MoJ
 
 200
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 260]]
 
 [[START OF PAGE 261]]
-
+Afghanistan National Development Strategy (ANDS) 201
 PILLAR : GOOD GOVERNANCE SECTOR : JUSTICE AND THE RULE OF LAW
 --- | --- | --- | --- | ---
 Expected Outcomes | Policy Actions and Activities | category | Time frame | Responsible Agencies
 capacity
 Implement recommendations for enhancing legislative drafting capacity in justice institutions. | Development | commencing year 3 | MoJ
-Establish a Taqnin working group to make recommenda- tions for inclusion of civil society stakeholders in legislative deliberations. | Development | Year 2 | MoJ
+Establish a Taqnin working group to make recommendations for inclusion of civil society stakeholders in legislative deliberations. | Development | Year 2 | MoJ
 Implement recommendations | Development | Year 3 and on | MoJ
-Justice institutions effec- tively perform their func- tions in a harmonized and interlinked manner | Develop and implement procedures to safeguard and further the role and function of defense attorneys in criminal inves- tigations and trials | Legislation | Year 1 and on | AGO, MoJ
-Update and implement court regulations in order to facili- tate filing and tracking of civil and criminal cases (includ- ing AGO Information System). | Legislation | By end Year 4 | SC, AGO
+Justice institutions effectively perform their functions in a harmonized and interlinked manner | Develop and implement procedures to safeguard and further the role and function of defense attorneys in criminal investigations and trials | Legislation | Year 1 and on | AGO, MoJ
+Update and implement court regulations in order to facilitate filing and tracking of civil and criminal cases (including AGO Information System). | Legislation | By end Year 4 | SC, AGO
 Create and establish the Program Oversight Committee, together with requisite administrative and logistical support | Institution Building | By commencement Year 1 | SC, MoJ, AGO
 Create and establish the Program Implementation Unit | Institution Building | By commencement Year 1 | Oversight Committee
 Design and administer a baseline survey of legal system performance | Institution Building | By end Year 1 | MoJ
 Improve information sharing between justice institutions, and coordinate information management and interfacing. | Institution Building | Year 3 and on | SC, MoJ, AGO
-Develop, establish, and implement measures and mecha- nisms to improve police prosecutor coordination in criminal matters; and addressing the cross-cutting issues | Institution Building | Year 1 and on | AGO, MoI, MoJ
+Develop, establish, and implement measures and mechanisms to improve police prosecutor coordination in criminal matters; and addressing the cross-cutting issues | Institution Building | Year 1 and on | AGO, MoI, MoJ
 Introduce effective 'one-stop' complaints system covering all justice institutions. | Institution Building | Year 2 and on | SC,MoJ,AGO
-Enhance capacity of police and prosecutors to conduct pro- active criminal investigations. | Institution Building | Year 2 and on | AGO, MoI
+Enhance capacity of police and prosecutors to conduct proactive criminal investigations. | Institution Building | Year 2 and on | AGO, MoI
 Enhance capacity for managing corruption issues. | Institution Building | Year 2 on | SC, MoJ, AGO, MoI
 Train judges, lawyers and prosecutors in trial practices and trial management. | Institution Building | Year 2 and on | SC,MoJ,AGO
 Assessment of information interfacing needs of AGO, MoI, MoJ, courts, and other specialized agencies. | Institution Building | By end Year 1 | SC,MoJ,AGO
 Assessment and improvement of paper-based case file and | Institution Building | By end Year 1 | SC,MoJ,AGO
 
-Afghanistan National Development Strategy (ANDS )
-
-201
 
 [[END OF PAGE 261]]
 
 [[START OF PAGE 262]]
 
 PILLAR : GOOD GOVERNANCE SECTOR : JUSTICE AND THE RULE OF LAW
-
 Expected Outcomes | Policy Actions and Activities | category | Time frame | Responsible Agencies
 --- | --- | --- | --- | ---
 case tracking systems.
-Evaluate the viability of converting paper-based file sys- tems to combined paper and electronic file systems | Institution Building | Year 2 and 3 | Program Oversight Committee
-Justice institutions develop plans and implement coordina- tion mechanisms for specialized units addressing cross- cutting issues | Institution Building | Year 2 and on | Program Oversight Committee
+Evaluate the viability of converting paper-based file systems to combined paper and electronic file systems | Institution Building | Year 2 and 3 | Program Oversight Committee
+Justice institutions develop plans and implement coordination mechanisms for specialized units addressing cross-cutting issues | Institution Building | Year 2 and on | Program Oversight Committee
 Recruit qualified professionals with specialized knowledge of cross-cutting issues | Institution Building | Year 2 and on | Program Oversight Committee
 Justice mitigation measures are developed | Institution Building | MoJ
 Build capacity of judges, prosecutors, and investigators by training on cross-cutting issues. | Institution Building | Year 2 and on | Program Oversight Committee
 Citizens are more aware of their rights and justice insti- tutions are better able to enforce them. | Assess the needs of the justice institutions and citizens for legal materials. | Development | By end Year 1 | MoJ
 Compile and distribute legal materials in response to needs and establish system for routine updating of legal resources. | Development | By end Year 3 | MoJ
-Develop and distribute judicial and procedural manuals for legal professionals, including judges, prosecutors and de- fense advocates. | Development | From Year 2 on | MoJ
-Survey and standardize routine legal documents (e.g., bonds, title deeds, marriage certificates and certificates of the courts) and the existing systems for registering, index- ing and retrieving them. | Development | By Year 4 and on | MoJ
-Distribute forms to relevant justice facilities nationwide and train staff to use them and make them available to the pub- lic for standardized nominal fees. | Development | By Year 4 and on | MoJ
+Develop and distribute judicial and procedural manuals for legal professionals, including judges, prosecutors and defense advocates. | Development | From Year 2 on | MoJ
+Survey and standardize routine legal documents (e.g., bonds, title deeds, marriage certificates and certificates of the courts) and the existing systems for registering, indexing and retrieving them. | Development | By Year 4 and on | MoJ
+Distribute forms to relevant justice facilities nationwide and train staff to use them and make them available to the public for standardized nominal fees. | Development | By Year 4 and on | MoJ
 Pilot an electronic storage and retrieval system for legal registration documents | Development | Year 2 to 3 | SC,MoJ,AGO
-Design legal awareness programs paying particular atten- tion to: • Successes and lessons learned from previous campaigns • Human rights and Islamic values • The rights of women and children • The needs of illiterate persons • Transitional justice • The roles of each justice institution in promoting access to justice for all. | Development | Years 1 - 3 | MoJ
+Design legal awareness programs paying particular attention to: • Successes and lessons learned from previous campaigns • Human rights and Islamic values • The rights of women and children • The needs of illiterate persons • Transitional justice • The roles of each justice institution in promoting access to justice for all. | Development | Years 1 - 3 | MoJ
 Implement legal awareness programs, in coordination with | Development | Commence end Year 2 on | MoJ, IDLG
 
 202
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 262]]
 
 [[START OF PAGE 263]]
-
+Afghanistan National Development Strategy (ANDS) 203
 PILLAR : GOOD GOVERNANCE SECTOR : JUSTICE AND THE RULE OF LAW
 --- | --- | --- | --- | ---
 Expected Outcomes | Policy Actions and Activities | category | Time frame | Responsible Agencies
 activities expanding formal justice systems to provinces.
 Conduct baseline survey legal aid service provision | Development | Commence end Year 2 on | MoJ
-Consider options and costs of various models for legal aid delivery, and draw up recommendations for a legal aid sys- tem. | Development | By Year 2 | MoJ
+Consider options and costs of various models for legal aid delivery, and draw up recommendations for a legal aid system. | Development | By Year 2 | MoJ
 Implement legal aid recommendations | Development | Year 2 and on | MoJ
 Conduct needs assessment and survey of obstacles to access to and use of formal legal system. | Development | By end Year 1 | MoJ
 Draw up recommendations to increase access to and use of formal legal system | Development | By end Year 1 | MoJ
 Survey of legal gateways to justice services. | Development | By end Year 1 | MoJ
 Consider options and costs of various models for improving access to formal system, and draw up recommendations | Development | By end Year 1 | MoJ
 Implement recommendations to improve access | Development | Year 2 and on | SC,MoJ,AGO
-Generate public awareness about corruption and anti- corruption issues | Development | Year 2 on | SC,MoJ,AGO
+Generate public awareness about corruption and anti-corruption issues | Development | Year 2 on | SC,MoJ,AGO
 strengthened institutional response to stop violence against women | Institution Building | Year 2 on | SC,MoJ,AGO
 improved capacity of the provincial govt to address and deal with VAW | Development | Year 3 and on | SC, SGO, MoJ
-Civil justice is administered effectively, and in accor- dance with law, the Constitu- tion, and international stan- dards | Review existing civil justice processes and practices, in- cluding enforcement of judgments, and develop recommen- dations based on the findings. | Institution Building | Year 2 | MoJ, AOG,, SC
+Civil justice is administered effectively, and in accordance with law, the Constitution, and international standards | Review existing civil justice processes and practices, including enforcement of judgments, and develop recommendations based on the findings. | Institution Building | Year 2 | MoJ, AOG,, SC
 Public demands Sexual Harassment and grievance handling laws/policy to be enacted | Legislation | Year 2 and on | National Assembly, MoJ, AOG
-Criminal justice is adminis- tered effectively, and in ac- cordance with law, the Con- stitution, and international norms and standards | Strengthen the legal framework so as to improve respon- siveness to the needs of juvenile offenders and children in conflict with the law | Legislation | From Year 2 on | MoJ
-Strengthen the legal and institutional framework for chil- dren accompanying their parents in prison. | Legislation | From Year 2 on | MoJ
-Develop and implement policy recommendations for im- proving sentencing, detention, and conditions of prisoners. | Legislation | From Year 2 on | MoJ
+Criminal justice is administered effectively, and in accordance with law, the Constitution, and international norms and standards | Strengthen the legal framework so as to improve responsiveness to the needs of juvenile offenders and children in conflict with the law | Legislation | From Year 2 on | MoJ
+Strengthen the legal and institutional framework for children accompanying their parents in prison. | Legislation | From Year 2 on | MoJ
+Develop and implement policy recommendations for improving sentencing, detention, and conditions of prisoners. | Legislation | From Year 2 on | MoJ
 
-Afghanistan National Development Strategy (ANDS ) 203
 
 [[END OF PAGE 263]]
 
@@ -8505,37 +8403,37 @@ PILLAR : GOOD GOVERNANCE SECTOR : JUSTICE AND THE RULE OF LAW
 --- | --- | --- | --- | ---
 Expected Outcomes | Policy Actions and Activities | category | Time frame | Responsible Agencies
 Promote practices within the justice institutions that are supportive of the rights of victims, witnesses, the accused, and those convicted of crimes | Institution Building | From Year 2 on | SC,MoJ,AGO
-Family Response Units, staffed by all female police offi- cers, are functional in all provinces, and are effectively linked with Special Victims Units in the AGO. | Institution Building | Starting Year 2 and on | SC,MoJ,AGO
+Family Response Units, staffed by all female police officers, are functional in all provinces, and are effectively linked with Special Victims Units in the AGO. | Institution Building | Starting Year 2 and on | SC,MoJ,AGO
 Develop and implement training programs for corrections officials incorporating recommendations based on analysis. | Institution Building | By end year 4 | MoJ
 Rationalize and update civil justice process and practices, including enforcement of judgments, in accordance with the developed recommendations | Institution Building | Starting Year 3 | PAR (MoJ)
-Review and analyze existing assistance, programs and ac- tivities for juvenile offenders and children in conflict with the law. | Development | By Year 1 | MoJ, MOLSA
-Develop information campaigns to enhance the public's knowledge of the rights of victims, witnesses, and the ac- cused in the criminal justice system | Development | Starting Year 2 and on | MoJ, MOLSA
+Review and analyze existing assistance, programs and activities for juvenile offenders and children in conflict with the law. | Development | By Year 1 | MoJ, MOLSA
+Develop information campaigns to enhance the public’s knowledge of the rights of victims, witnesses, and the accused in the criminal justice system | Development | Starting Year 2 and on | MoJ, MOLSA
 Procedural code is amended to address specific needs of witnesses, including women and other vulnerable groups | Development | By Year 3 | MoJ, MOLSA
 Establish a system to record past human rights abuses and to preserve the rights of victims | Development | Year 2 and on | MoJ, MOLSA
 Carry out a baseline survey of prosecution efficiency and number of criminal complaints proceeding to trial. | Development | By end year 1 | SC
 Develop a program for prioritizing prosecution resources according to seriousness of the offense. | Development | By end year 2 | AGO
-Review and analyze existing assistance, programs and ac- tivities relating to sentencing practices, detention practices, and prisoner conditioners. | Development | By Year 2 | MoJ
+Review and analyze existing assistance, programs and activities relating to sentencing practices, detention practices, and prisoner conditioners. | Development | By Year 2 | MoJ
 Regulatory reforms, procedures and protocols established | Institution Building | Year 2 and on | MoJ
 Counter Narcotic Laws implemented | Legislation | Year 2 and on | MCN, AGO, SC, MoI
-Justice institutions are trans- parent and accountable | Develop, finalize and disseminate codes of ethics for pro- fessionals in justice institutions. | Institution Building | By end Year 1 | SC,MoJ,AGO
-Performance evaluation with special focus on corruption incorporated as part of the system transparency and ac- countability | Institution Building | Year 2 and on | SC,MoJ,AGO
+Justice institutions are transparent and accountable | Develop, finalize and disseminate codes of ethics for professionals in justice institutions. | Institution Building | By end Year 1 | SC,MoJ,AGO
+Performance evaluation with special focus on corruption incorporated as part of the system transparency and accountability | Institution Building | Year 2 and on | SC,MoJ,AGO
 Train justice professionals on ethics code. | Institution Building | Year 2 on | SC,MoJ,AGO
 
 204
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 264]]
 
 [[START OF PAGE 265]]
-
+Afghanistan National Development Strategy (ANDS) 205
 PILLAR : GOOD GOVERNANCE SECTOR : JUSTICE AND THE RULE OF LAW
 --- | --- | --- | --- | ---
 Expected Outcomes | Policy Actions and Activities | category | Time frame | Responsible Agencies
 Design and establish dedicated and effective institutional units and procedures to advice on and enforce codes of ethics. | Institution Building | Year 2 and on | SC,MoJ,AGO
 Improve the professional and ethic standards of attorneys at law through an Independent Bar Association. | Institution Building | Year 2 and on | SC
 Develop and standardize informational materials on the mission, the function and the operating procedures of each justice institution and make it available to the public. | Institution Building | By end year 3 | MoJ
-Establish a dedicated office within each justice institution and organization capable of acting as a focal point for pub- lic inquiries. | Institution Building | By end Year 3 | SC,MoJ,AGO
+Establish a dedicated office within each justice institution and organization capable of acting as a focal point for public inquiries. | Institution Building | By end Year 3 | SC,MoJ,AGO
 3 Justice institutions participate in a commissioned study of the feasibility of introducing administrative law structures and procedures to enhance accountability of government institutions | Institution Building | Year 4 and on | MoJ
 Implement the activities related to operations of the justice sector contained in the National Anti Corruption Strategy. | Institution | Year 2 and on | SC,MoJ,AGO
 
@@ -8543,13 +8441,10 @@ Implement the activities related to operations of the justice sector contained i
 ##### SECTOR : PRIVATE SECTOR DEVELOPMENT AND TRADE
 --- | --- | --- | --- | ---
 Objectives or Outcomes | Policy Action or Activities | Category | Timeframe | Responsible Agency
-The legal framework for the business sector is improved | Enact the required laws (Corporations, Partnerships, Commercial Arbitration, Commercial Mediation, Contracts, Agency, Standards, Copyrights, Trade- marks, and Patents) to complete and update the basic legal and regulatory framework governing private sector activity in social and economic develop- ment. Government, business and the international community to make a stronger effort in lobbying National Assembly regarding the urgency of enact- ing laws. | Legislation | Mid-1389 | Cabinet, DAB and National Assembly
-Invest in capacity building for National Assembly so that MPs are better in- formed and supported in their role and understanding of the rationale, use and content of proposed laws. | Institution Building | Mid-1388 | National Assembly and donors
-Establish the principle and formalize and standardize processes to consult with the private sector (business and civil society) in a meaningful and timely man- ner during the process of drafting policies and laws. | Legislation | End-1386 | Cabinet, DAB and National Assembly
+The legal framework for the business sector is improved | Enact the required laws (Corporations, Partnerships, Commercial Arbitration, Commercial Mediation, Contracts, Agency, Standards, Copyrights, Trademarks, and Patents) to complete and update the basic legal and regulatory framework governing private sector activity in social and economic development. Government, business and the international community to make a stronger effort in lobbying National Assembly regarding the urgency of enacting laws. | Legislation | Mid-1389 | Cabinet, DAB and National Assembly
+Invest in capacity building for National Assembly so that MPs are better informed and supported in their role and understanding of the rationale, use and content of proposed laws. | Institution Building | Mid-1388 | National Assembly and donors
+Establish the principle and formalize and standardize processes to consult with the private sector (business and civil society) in a meaningful and timely manner during the process of drafting policies and laws. | Legislation | End-1386 | Cabinet, DAB and National Assembly
 
-Afghanistan National Development Strategy (ANDS )
-
-205
 
 [[END OF PAGE 265]]
 
@@ -8559,53 +8454,50 @@ PILLAR : ECONOMIC GOVERNANCE AND PRIVATE SECTOR DEVELOPMENT SECTOR : PRIVATE SEC
 
 Objectives or Outcomes | Policy Action or Activities | Category | Timeframe | Responsible Agency
 --- | --- | --- | --- | ---
-Establish the principle that no law can be implemented unless it has been ga- zetted, published in the newspapers, and made available electronically and in hard copies at no cost. Explore the option of using the Afghanistan National Development Strategy (ANDS) website as an interim solution for publishing laws after their enactment. Publish the tariff structures on the Ministry of Fi- nance website. | Legislation | End-1386 | Ministry of Justice, Ministry of Finance, ANDS
+Establish the principle that no law can be implemented unless it has been gazetted, published in the newspapers, and made available electronically and in hard copies at no cost. Explore the option of using the Afghanistan National Development Strategy (ANDS) website as an interim solution for publishing laws after their enactment. Publish the tariff structures on the Ministry of Finance website. | Legislation | End-1386 | Ministry of Justice, Ministry of Finance, ANDS
 Amend the tariff legislation to facilitate ROZ (Reconstruction Opportunity Zone) trade along the border with Pakistan | legislation/ RC Cross Cutting Issues | MoCI, MoJ, MoFA, MoF
-Endorse the authority of mediation and arbitration tribunals to resolve private- private and private-public disputes, including land issues. | Institution Building | Mid-1389 | MoJ
+Endorse the authority of mediation and arbitration tribunals to resolve private-private and private-public disputes, including land issues. | Institution Building | Mid-1389 | MoJ
 Ensure the competency and transparency of tribunals by establishing standards and building the capacity of arbitrators, mediators and lawyers. | Institution Building | Mid-1389 | MoJ
 Undertake financial audits of State Owned Enterprises | Other Measures | Mid-1388 | MoCI, MoF
 Privatize and corporative state owned assets | Other Measures | Mid-1389 | MoCI, MoF
 Implement an adequate insurance law. | Legislation | Mid-1389 | MoF, DAB, FIs
 Encourage the development of an appropriately regulated private insurance sector. | Other Measures | Mid-1388 | MoF, DAB, FIs
 Work with donors to create risk management tools for domestic and foreign investors, appropriate to the specific risks of investing in Afghanistan. | Other Measures | End-1389 | AISA/MIGA
-Private sector access to fi- nance is increased | Lay out a concrete strategy with time-bound actions to significantly expand the outreach and range of financial products and services, especially targeting small and medium enterprises. | Other Measures | Mid-1388 | DAB, Afghanistan Bankers' Association, Microfinance Investment
+Private sector access to finance is increased | Lay out a concrete strategy with time-bound actions to significantly expand the outreach and range of financial products and services, especially targeting small and medium enterprises. | Other Measures | Mid-1388 | DAB, Afghanistan Bankers' Association, Microfinance Investment
 Enact an appropriate legal framework including passage of four financial laws: Secured Transactions, Mortgage, Leasing and Negotiable Instruments. | Legislation | End-1388 | DAB, Ministry of Justice
-Build capacity in the financial sector by establishing an independent banking and business training institute as a joint commercial bank - DAB initiative. | Institution Building | Mid-1388 | DAB together with Afghani- stan Bankers' Association
+Build capacity in the financial sector by establishing an independent banking and business training institute as a joint commercial bank - DAB initiative. | Institution Building | Mid-1388 | DAB together with Afghanistan Bankers' Association
 Establish a credit information bureau to facilitate commercial and consumer lending. | Institution Building | End-1388 | DAB, Afghanistan Bankers' Association
-Establish a financial tribunal to provide swift legal decisions on financial dis- putes. | Institution Building | End-1388 | DAB, Ministry of Justice
-Expand provision of donor and private sector micro and SME finance | Other Measures | End-1388 | MoF, MoCI, DAB, Afg Bank- ers' Association
-Establish an office in DAB in conjunction with Ministry of Interior to provide security for cash in transit between banks and bank branches in Kabul. | Institution Building | Mid-1389 | DAB in cooperation with Min- istry of Interior
+Establish a financial tribunal to provide swift legal decisions on financial disputes. | Institution Building | End-1388 | DAB, Ministry of Justice
+Expand provision of donor and private sector micro and SME finance | Other Measures | End-1388 | MoF, MoCI, DAB, Afg Bankers' Association
+Establish an office in DAB in conjunction with Ministry of Interior to provide security for cash in transit between banks and bank branches in Kabul. | Institution Building | Mid-1389 | DAB in cooperation with Ministry of Interior
 Increase the offering of financial services in rural areas through the further | Other Measures | Mid-1389 | Ministry of Agriculture, DAB,
 
 206
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 266]]
 
 [[START OF PAGE 267]]
-
+Afghanistan National Development Strategy (ANDS) 207
 PILLAR : ECONOMIC GOVERNANCE AND PRIVATE SECTOR DEVELOPMENT SECTOR : PRIVATE SECTOR DEVELOPMENT AND TRADE
 --- | --- | --- | --- | ---
 Objectives or Outcomes | Policy Action or Activities | Category | Timeframe | Responsible Agency
 development of effective and sustainable delivery mechanisms with special consideration to women. | MISFA
-Implement the agreed upon privatization strategies in Bank-e-Milli and Pash- tany Bank, including the placement of professional management and board to restructure the banks free of government interference. | Institution Building | Mid-1387 | Ministry of Finance and DAB
-The government uses Public- Private Partnerships to ex- pand infrastructure | Ensure the evolving legal framework to permit and encourage power genera- tion and distribution by the private sector, including through the establishment of Public-Private Partnerships (PPPs). | Legislation | Mid-1387 | Ministry of Energy and Water
+Implement the agreed upon privatization strategies in Bank-e-Milli and Pashtany Bank, including the placement of professional management and board to restructure the banks free of government interference. | Institution Building | Mid-1387 | Ministry of Finance and DAB
+The government uses Public-Private Partnerships to expand infrastructure | Ensure the evolving legal framework to permit and encourage power generation and distribution by the private sector, including through the establishment of Public-Private Partnerships (PPPs). | Legislation | Mid-1387 | Ministry of Energy and Water
 Accelerate the execution of priority power generation initiatives: (a) Sheberghan natural gas generation project; (b) the high voltage transmission line from Tajikistan. | Other Measures | End-1386 | Ministry of Energy and Water
-Improve distribution system, beginning with Kabul, including through out- sourcing of billing and collections and by providing information to the private sector on opportunities to invest in electricity supply. | Other Measures | Mid-1387 | Ministry of Energy and Water, DABM
+Improve distribution system, beginning with Kabul, including through outsourcing of billing and collections and by providing information to the private sector on opportunities to invest in electricity supply. | Other Measures | Mid-1387 | Ministry of Energy and Water, DABM
 Corporatize DABM (national electricity company) with qualified management team selected through transparent process. | Institution Building | Mid-1387 | Ministry of Energy and Water, DABM
 Launch pilot initiatives in non-grid small and medium-scale provision in smaller cities and in community-based rural power, including micro-hydro power. | Other Measures | Mid-1387 | Ministry of Energy and Water
 Negotiate competitive terms for reliable power supply from Central Asia. | Other Measures | Mid-1387 | Ministry of Energy and Water
-Establish a liaison mechanism for joint forums with Busi- ness/Trade/Employers' association. | Institution Building/ RC Cross Cutting Issues | MoCI, AISA
+Establish a liaison mechanism for joint forums with Business/Trade/Employers’ association. | Institution Building/ RC Cross Cutting Issues | MoCI, AISA
 Trade Facilitation Zones (TFZ) in key areas of Afghanistan that will connect district and provisional level production to regional and international markets by providing the basic infrastructure for processing, packaging and storage. | Other Measures/ RC Cross Cutting Issues | MoCI, others
-Surplus land is used by the private sector to increase economic activity | Draft legislation based on the recommendations of the land policy that com- prises legal frameworks for land registration; land adjudication, including community-based systems; and the formalization of informal land holdings, including legislation for adverse possession. | Legislation | End-1387 | Ministry of Justice, Ministry of Agriculture
+Surplus land is used by the private sector to increase economic activity | Draft legislation based on the recommendations of the land policy that comprises legal frameworks for land registration; land adjudication, including community-based systems; and the formalization of informal land holdings, including legislation for adverse possession. | Legislation | End-1387 | Ministry of Justice, Ministry of Agriculture
 Implement improved simplified procedures for transfer of privately owned land. | Other Measures | End-1387 | Ministry of Justice, Office of the President
-Clarify and simplify the procedures associated with the transfer of publicly- owned and privately-owned land. | Institution Building | Mid-1387 | Ministry of Justice
+Clarify and simplify the procedures associated with the transfer of publicly-owned and privately-owned land. | Institution Building | Mid-1387 | Ministry of Justice
 Permit foreign investors to obtain access to land through 90-year leases. | Other Measures | Mid-1387 | Ministry of Justice
 
-Afghanistan National Development Strategy (ANDS )
-
-207
 
 [[END OF PAGE 267]]
 
@@ -8617,28 +8509,28 @@ Objectives or Outcomes | Policy Action or Activities | Category | Timeframe | Re
 --- | --- | --- | --- | ---
 Extend the duration of leases for government land and ensure that they are either wholly or partly transferable. | Other Measures | Mid-1387 | Ministry of Justice
 Develop a strategy for industrial parks, including the creation of an industrial park development department as an independent authority. | Other Measures | End-1387 | Ministry of Commerce and Industry, AISA
-Regulations, taxes and li- censes are streamlined and better enforced | Consolidate the registration of private sector entities and the issuance of tax identification numbers into a single platform, extending the service to smaller businesses. | Institution Building | End-1387 | Ministry of Commerce and Industry
-Remove licensing requirements except for reasons of health, safety, environ- mental protection, land use and access to natural resources. | Other Measures | Mid-1387 | Ministry of Commerce and Industry
+Regulations, taxes and licenses are streamlined and better enforced | Consolidate the registration of private sector entities and the issuance of tax identification numbers into a single platform, extending the service to smaller businesses. | Institution Building | End-1387 | Ministry of Commerce and Industry
+Remove licensing requirements except for reasons of health, safety, environmental protection, land use and access to natural resources. | Other Measures | Mid-1387 | Ministry of Commerce and Industry
 Make necessary business licenses more effective by re-engineering and streamlining them | Institution Building | 12 months | Ministry of Commerce and Industry
-Adopt the principles of regulatory best practice (RBP) to ensure that new regu- lations are appropriate and minimize compliance cost | Legislation | 18 months | Ministry of Commerce and Industry, Ministry of Justice
-Minimize compliance costs for SMEs by introducing appropriate administra- tive and reporting exemptions for SMEs | Other Measures | 12 months | Ministry of Finance
+Adopt the principles of regulatory best practice (RBP) to ensure that new regulations are appropriate and minimize compliance cost | Legislation | 18 months | Ministry of Commerce and Industry, Ministry of Justice
+Minimize compliance costs for SMEs by introducing appropriate administrative and reporting exemptions for SMEs | Other Measures | 12 months | Ministry of Finance
 Publish comprehensive information on licensing requirements and procedures | Other Measures | 12 months | Ministry of Commerce and Industry
-Educate private sector stakeholders' (investors, employers, employees and consumers) to increase awareness and understanding of their legal and regula- tory rights and responsibilities. | Other Measures | 12 months | Ministry of Commerce and Industry
+Educate private sector stakeholders’ (investors, employers, employees and consumers) to increase awareness and understanding of their legal and regulatory rights and responsibilities. | Other Measures | 12 months | Ministry of Commerce and Industry
 Establish and enforce 'one-stop collection points' for tax payment and other government revenue collection in every district centre. | Institution Building | Mid-1387 | Ministry of Finance
 Continue to eliminate nuisance taxes and reform the tax system to make it simpler, fairer, more competitive and easier to comply with | Institution Building | 12 months | Ministry of Finance
-Reform and revitalize the High Commission on Investment (HCI). Ensure that AISA is an effective secretariat; ensure that it meets regularly (starting in the next 14 days); focus it on policy issues; introduce increased private sector representation; improve member selection process to focus on competence and experience; extend access to SMEs throughout the country. Report results of HCI reform to the private sector. | Institution Building | End-1386 | High Commission on Invest- ment; AISA
+Reform and revitalize the High Commission on Investment (HCI). Ensure that AISA is an effective secretariat; ensure that it meets regularly (starting in the next 14 days); focus it on policy issues; introduce increased private sector representation; improve member selection process to focus on competence and experience; extend access to SMEs throughout the country. Report results of HCI reform to the private sector. | Institution Building | End-1386 | High Commission on Investment; AISA
 Apply customs regulations consistently across the country and commit to achieving an average time for importing and exporting goods in line with best practice in the region (reduced by at least half of current levels). | Institution Building | End-1387 | Ministry of Finance
 Examine the merits of outsourcing custom services | Other Measures | Mid-1388 | Ministry of Finance
-Civil society groups are able to operate effectively to aid | Revise, clarify and update the legal framework governing civil society organi- zations, including the NGO Law and Social Organizations Law, to cover civil | Legislation | End-1387 | Ministry of Economy, Ministry of Justice with Civil Society
+Civil society groups are able to operate effectively to aid | Revise, clarify and update the legal framework governing civil society organizations, including the NGO Law and Social Organizations Law, to cover civil | Legislation | End-1387 | Ministry of Economy, Ministry of Justice with Civil Society
 
 208
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 268]]
 
 [[START OF PAGE 269]]
-
+Afghanistan National Development Strategy (ANDS) 209
 PILLAR : ECONOMIC GOVERNANCE AND PRIVATE SECTOR DEVELOPMENT
 
 SECTOR : PRIVATE SECTOR DEVELOPMENT AND TRADE
@@ -8646,21 +8538,18 @@ SECTOR : PRIVATE SECTOR DEVELOPMENT AND TRADE
 Objectives or Outcomes | Policy Action or Activities | Category | Timeframe | Responsible Agency
 --- | --- | --- | --- | ---
 in the development process. | society more comprehensively, easing the establishment / registration of CSOs and ensuring adequate (not burdensome) oversight. | stakeholders
-Develop self-regulatory mechanisms with clearly defined quality standards or a 'code of conduct' to ensure that civil society organizations are well man- aged, accountable and their activities are well conceived, effective and attuned to the needs of Afghans, with governance models drawn from international best practice. | Legislation | Mid-1387 | Civil Society with the en- dorsement of the Ministry of Economy
-Establish independent certification bodies for civil society organizations that are recognized by Government, the private sector, donor agencies and civil society while introducing the associated capacity building services required to achieve certification. | Institution Building | End 1387 | Civil Society with the en- dorsement of the Ministry of Economy
-Economic activity increases in response to increased human capacity and skill sets and business services | Facilitate private sector involvement to offer short-cycle certificate-level edu- cation for school leavers to rapidly develop the skills of young people and adults that are crucial to economic development. | Other Measures | End-1386 | Civil Society with Business
-Establish the modality for public-private partnerships in the provision of edu- cation from basic education through to tertiary levels, including provision of professional and vocational education. | Other Measures | Mid-1387 | Ministry of Education
+Develop self-regulatory mechanisms with clearly defined quality standards or a ‘code of conduct’ to ensure that civil society organizations are well managed, accountable and their activities are well conceived, effective and attuned to the needs of Afghans, with governance models drawn from international best practice. | Legislation | Mid-1387 | Civil Society with the endorsement of the Ministry of Economy
+Establish independent certification bodies for civil society organizations that are recognized by Government, the private sector, donor agencies and civil society while introducing the associated capacity building services required to achieve certification. | Institution Building | End 1387 | Civil Society with the endorsement of the Ministry of Economy
+Economic activity increases in response to increased human capacity and skill sets and business services | Facilitate private sector involvement to offer short-cycle certificate-level education for school leavers to rapidly develop the skills of young people and adults that are crucial to economic development. | Other Measures | End-1386 | Civil Society with Business
+Establish the modality for public-private partnerships in the provision of education from basic education through to tertiary levels, including provision of professional and vocational education. | Other Measures | Mid-1387 | Ministry of Education
 Computerize all HRM and project activities in MoCI to strengthen Human Resource and Program Management | Institution Building/ AC Cross Cutting Issues | MoCI
-Establish a coherent national policy framework to guide professional and vo- cational education, linked to the overall higher education strategy that will ensure coordination, assign clear accountability and set world-class standards (including the process for licensing, certification and accreditation). | Other Measures | End-1387 | MoEC, MoE, MoHE, MoLSA, Business Community, Civil Society
+Establish a coherent national policy framework to guide professional and vocational education, linked to the overall higher education strategy that will ensure coordination, assign clear accountability and set world-class standards (including the process for licensing, certification and accreditation). | Other Measures | End-1387 | MoEC, MoE, MoHE, MoLSA, Business Community, Civil Society
 Border Management Initiative to focus on the establishment of effective and efficient Border Crossing Points/Facilities at each Border Control Zone of Afghanistan. | Other Measures/ RC Cross Cutting Issues | Ongoing | MoCI
-Consider quickly piloting specific market-based vocational and professional training initiatives through coalition of Government, industry groups and train- ing institutions with special consideration to women. | Institution Building | Mid-1387 | MoEC, MoE, MoHE, MoLSA, MoWA, Business Community, Civil Society
+Consider quickly piloting specific market-based vocational and professional training initiatives through coalition of Government, industry groups and training institutions with special consideration to women. | Institution Building | Mid-1387 | MoEC, MoE, MoHE, MoLSA, MoWA, Business Community, Civil Society
 Create incentives for private sector to invest in education specific to skills training, mentoring and on-the-job training. | Other Measures | End-1387 | Ministry of Economy, Ministry of Finance
 Conceptualization of Private Sector Employment Strategy for Women that will yield to pro-women employment strategies in the private sector | Other Measures/ Gender Cross Cutting Issues | MoCI, MoWA
 Invest urgently in vocational and professional education to meet current needs, while simultaneously making parallel investments in reform of basic and | Other Measures | Mid-1387 | Ministry of Labor and Social Affairs, Ministry of Education,
 
-Afghanistan National Development Strategy (ANDS )
-
-209
 
 [[END OF PAGE 269]]
 
@@ -8672,62 +8561,59 @@ Objectives or Outcomes | Policy Action or Activities | Category | Timeframe | Re
 --- | --- | --- | --- | ---
 higher education systems that will yield longer term results. | Ministry of Economy
 Strengthen chambers of commerce and business membership organizations | Institution Building | Immediate | Ministry of Commerce and Industry
-Co-ordinate public and private sector approaches to increasing access to essen- tial business services | Other Measures | Mid-1388 | Ministry of Commerce and Industry
+Co-ordinate public and private sector approaches to increasing access to essential business services | Other Measures | Mid-1388 | Ministry of Commerce and Industry
 Increase access to information on current business development services | Other Measures | Mid 1387 | Ministry of Commerce and Industry
-Support the establishment of accounting, auditing and other professional asso- ciations and the adoption of related professional standards | Institution Building | Mid-1388 | Ministry of Commerce and Industry
-Increased and more effective competition | Create the legal framework for and ensure the rapid development of the Af- ghanistan National Standards Authority (ANSA) | Legislation | Immediate | ANSA
+Support the establishment of accounting, auditing and other professional associations and the adoption of related professional standards | Institution Building | Mid-1388 | Ministry of Commerce and Industry
+Increased and more effective competition | Create the legal framework for and ensure the rapid development of the Afghanistan National Standards Authority (ANSA) | Legislation | Immediate | ANSA
 Establish a consumer protection agency to define, communicate and protect consumer rights | Institution Building | End-1389 | ANSA
-Public-Private Partnerships are used to aid social and economic development | Identify and implement three pilot projects to test new approaches in areas such as power, water supply, transportation infrastructure and social develop- ment. | Other Measures | Mid-1387 | MoEW, MRRD, MoT, MOLSA
-Catalogue best practices drawn from across ministries (especially of Ministry of Health) of genuine partnerships between public and private sectors. Atten- tion on increased women participation | Other Measures | Mid-1387 | MoPH, MoE, MoLSA
+Public-Private Partnerships are used to aid social and economic development | Identify and implement three pilot projects to test new approaches in areas such as power, water supply, transportation infrastructure and social development. | Other Measures | Mid-1387 | MoEW, MRRD, MoT, MOLSA
+Catalogue best practices drawn from across ministries (especially of Ministry of Health) of genuine partnerships between public and private sectors. Attention on increased women participation | Other Measures | Mid-1387 | MoPH, MoE, MoLSA
 Develop programs of public-private partnership that would improve health, education, drug demand reduction | Other Measures/ CN Cross Cutting Issues | End-1387 | MoPH, MoE, MoLSA, MCN
-Increased levels of formal- ization | Develop a formalization strategy grounded in an understanding of the incen- tives and disincentives facing business, which reduces entry costs to, and op- erating costs within, the formal sector and increases the benefits of formaliza- tion | Other Measures | End-1387 | MoCI, MoF
+Increased levels of formalization | Develop a formalization strategy grounded in an understanding of the incentives and disincentives facing business, which reduces entry costs to, and operating costs within, the formal sector and increases the benefits of formalization | Other Measures | End-1387 | MoCI, MoF
 Effectively communicate the nature and benefits of operating in the formal economy | Other Measures | Mid-1388 | Ministry of Labor, Ministry of Commerce and Industry
 The new Afghanistan Pakistan Transit Agreement (APTA), the revised version of Afghan Trade and Transit Agreement (ATTA) signed with Pakistan in 1965 | Other Measures/ RC Cross Cutting Issues | MoCI, MoFA, MoF
-Increased provincial eco- nomic growth | Work with provincial public sector institutions to increase the consistency of application of commercial laws and regulations | Institution Building | End-1389 | Ministry of Commerce and Industry
+Increased provincial economic growth | Work with provincial public sector institutions to increase the consistency of application of commercial laws and regulations | Institution Building | End-1389 | Ministry of Commerce and Industry
 Develop and implement economic growth strategies for provinces, based on private sector development | Other Measures | Mid 1388 | Ministry of Commerce and Industry
-Civil society helps drive economic and social devel- | Create the necessary legal and fiscal incentives that actively encourage indi- vidual and corporate support for social and economic development. | Legislation | Mid-1387 | Ministry of Finance
+Civil society helps drive economic and social devel- | Create the necessary legal and fiscal incentives that actively encourage individual and corporate support for social and economic development. | Legislation | Mid-1387 | Ministry of Finance
 
 210
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 270]]
 
 [[START OF PAGE 271]]
-
+Afghanistan National Development Strategy (ANDS) 211
 PILLAR : ECONOMIC GOVERNANCE AND PRIVATE SECTOR DEVELOPMENT
 
 SECTOR : PRIVATE SECTOR DEVELOPMENT AND TRADE
 
 Objectives or Outcomes | Policy Action or Activities | Category | Timeframe | Responsible Agency
 --- | --- | --- | --- | ---
-opment | Improve the legal framework governing corporate social responsibility (CSR) and philanthropy including creating a Foundation law; revising NGO law to allow CSOs to generate (non-commercial) revenue to ensure self- sustainability; creating tax deductions for giving; and developing new mecha- nisms for private giving such as Zakat funds, a Diaspora fund and community foundations. | Legislation | End-1387 | Ministry of Finance, Ministry of Justice, Ministry of Econ- omy
-Form a business donor's group to share best practices in corporate social re- sponsibility and philanthropy to create more flexibility, risk-taking and imagi- native practices in approaches to corporate giving, including lending good business practices to civil society. | Institution Building | Mid-1387 | Business community
-Increase trust and credibility of the civil society sector by establishing a sys- tem to vet CSOs through standards that the businesses would work with, pub- licizing CSO successes, and educating businesses to increase understanding of the concept of CSR. | Other Measures | End-1387 | Ministry of Economy; Civil Society
-The Private Sector and Trade sector strategy is imple- mented | Create a Council for the Private Sector, reporting on progress against this ma- trix to the President. | Institution Building | Immediate | Office of the President
-Develop a list of the private sector's most urgent priorities that would support an enabling environment, developed through a process of sub-national consul- tation and engagement with the private sector to be presented to the Govern- ment within three to six months. | Other Measures | Immediate | Business community
-Establish a system of stocktaking at six-month intervals to monitor implemen- tation of the Conference Road Map, with public dissemination of results. | Institution Building | Mid-1387 | Proposed Council for the Pri- vate Sector, Conference Steer- ing Committee
+opment | Improve the legal framework governing corporate social responsibility (CSR) and philanthropy including creating a Foundation law; revising NGO law to allow CSOs to generate (non-commercial) revenue to ensure self-sustainability; creating tax deductions for giving; and developing new mechanisms for private giving such as Zakat funds, a Diaspora fund and community foundations. | Legislation | End-1387 | Ministry of Finance, Ministry of Justice, Ministry of Economy
+Form a business donor's group to share best practices in corporate social responsibility and philanthropy to create more flexibility, risk-taking and imaginative practices in approaches to corporate giving, including lending good business practices to civil society. | Institution Building | Mid-1387 | Business community
+Increase trust and credibility of the civil society sector by establishing a system to vet CSOs through standards that the businesses would work with, publicizing CSO successes, and educating businesses to increase understanding of the concept of CSR. | Other Measures | End-1387 | Ministry of Economy; Civil Society
+The Private Sector and Trade sector strategy is implemented | Create a Council for the Private Sector, reporting on progress against this matrix to the President. | Institution Building | Immediate | Office of the President
+Develop a list of the private sector's most urgent priorities that would support an enabling environment, developed through a process of sub-national consultation and engagement with the private sector to be presented to the Government within three to six months. | Other Measures | Immediate | Business community
+Establish a system of stocktaking at six-month intervals to monitor implementation of the Conference Road Map, with public dissemination of results. | Institution Building | Mid-1387 | Proposed Council for the Private Sector, Conference Steering Committee
 
 #### PILLAR : INFRASTRUCTURE
 ##### SECTOR : ENERGY
 --- | --- | --- | --- | ---
 Outcomes | Policy Actions or Activities | Category | Time frame | Responsible Agency
-An enabling environment for private sector investment in energy sector created | Issuance of tenders for exploration and exploitation in northern country nota- bly for power | Development | 2008 | MoM MEW MoF
-Develop private sector opportunities to take on long-term production, trans- port, supply of CNG | Development | 2009-2010 | MoM, MEW
+An enabling environment for private sector investment in energy sector created | Issuance of tenders for exploration and exploitation in northern country notably for power | Development | 2008 | MoM MEW MoF
+Develop private sector opportunities to take on long-term production, transport, supply of CNG | Development | 2009-2010 | MoM, MEW
 Outsourcing operations at DABM (audit, billing) | Development | 2007-2009 | MEW
 Implement Private distribution projects | Development | 2008 | MEW, MoM
 
-Afghanistan National Development Strategy (ANDS )
-
-211
 
 [[END OF PAGE 271]]
 
 [[START OF PAGE 272]]
 
 PILLAR : INFRASTRUCTURE SECTOR : ENERGY
---- | --- | --- | --- | ---
 Outcomes | Policy Actions or Activities | Category | Time frame | Responsible Agency
+--- | --- | --- | --- | ---
 Private sector promotion in renewable energy | Development | Immediately | MRRD, MEW, AISA
 Divestiture of the Liquid Fuels Enterprise | Development | Program not in place | MoF
 Assess and revitalize oil refinery | Development | MoCI, MoM
@@ -8736,8 +8622,8 @@ Promotion of regional cooperation to facilitate various projects under the energ
 To mainstream into all administrative reform programs measures required to address the systems and incentives promoting anti-corruption within the public administration system and Development Activities. | Institution Building/ AC Cross Cutting Issues | 2008-2009 | MEW, MoM
 To maintain the highest level of transparency, accountability and integrity in the relationship between the public and private sector. | Institution Building/ AC Cross Cutting Issues | 2008-2009 | MEW
 Gender mainstreaming in the policies in the energy sector. | Development / Gender Cross Cutting Issues | Continue | MEW, MoWA
-Encouragement to Community Based Natural Resource Management for meeting energy needs of the people. | Institution Building / Env. Cross Cutting Is- sues | TBD | MoM, MEW
-Awareness generation of policy makers on the environmental issues so that they are taken care of in all projects in the energy sector. | Institution Building / Env. Cross Cutting Is- sues | Continue | MEW, MoM
+Encouragement to Community Based Natural Resource Management for meeting energy needs of the people. | Institution Building / Env. Cross Cutting Issues | TBD | MoM, MEW
+Awareness generation of policy makers on the environmental issues so that they are taken care of in all projects in the energy sector. | Institution Building / Env. Cross Cutting Issues | Continue | MEW, MoM
 Leveraging available donor assistance, pilot CNG for public vehicles (i.e., buses) and taxis; conversion of engines, fitting gas pump stations. | Development | No action at this time. | MEW, MoCI, MoM
 Expanded public power grid | Procure spare parts and fuel for thermal generation | Development | 2008 | MEW
 Repair existing transmission and distribution systems including rehabilitating and/or upgrading substations and distribution networks | Development | 2008-2010 | MEW
@@ -8747,46 +8633,43 @@ Starting National Energy Conservation Program (NECP) | Development | 2009 | MEW
 Implement ICE technical assistance (ADB) | Development | Commenced, ongoing through 2009 | MEW MoM MoCI MoF MRRD MoE
 Take appropriate measures to reduce electricity loss | Development | 2008-2010 | DABM MEW MoF
 Promotion of energy efficiency | Development | 2008 | MEW DABM
-Kabul distribution procurement | Development | Commence work Febru- ary 2008 | MEW MoF DABM/S
+Kabul distribution procurement | Development | Commence work February 2008 | MEW MoF DABM/S
 
 212
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 272]]
 
 [[START OF PAGE 273]]
-
+Afghanistan National Development Strategy (ANDS) 213
 PILLAR : INFRASTRUCTURE SECTOR : ENERGY
---- | --- | --- | --- | ---
 Outcomes | Policy Actions or Activities | Category | Time frame | Responsible Agency
+--- | --- | --- | --- | ---
 Completion of NEPS transmission | Development | Oct 08-Mar 09 | MEW MoF
 Complete Turkmen assessment | Development | . March 2008 | DABM/S
 Assessments of South, East and West Transmission needs | Development | 2008-2009
-Procurement for meters | Development | Partially conducted now under distribution ten- der; more needed. | MEW MoF DABM
+Procurement for meters | Development | Partially conducted now under distribution tender; more needed. | MEW MoF DABM
 Installation of Dispatch and Control System | Development | End 2009 | MEW DABM
 Motion detectors | Development | 2008 commence and ongoing | DABM/S
 Line inspections (regular protocols) | Development | Jul-05 | MEW
 Health & Safety protocols | Development | 2008 | MEW,MoM
 Operation & Maintenance protocols | Development
 Priority to providing energy in areas having substantial narcotics cultivation to promote economic activity to generate alternate livelihoods | Development/ CN Cross Cutting Issues | Continue | MEW
-Increased Access to Rural Energy Services | Link rural energy with micro and small finance programs | Development | Commencing 2008 | MRRD
-Develop a comprehensive and appropriate rural energy program | Development | TBD | MEW
+Increased Access to Rural | Link rural energy with micro and small finance programs | Development | Commencing 2008 | MRRD
+Energy Services | Develop a comprehensive and appropriate rural energy program | Development | TBD | MEW
 Public awareness on rural energy opportunities, benefits, funding | Development | 2009 | MEW, MRRD
 Assessment of priority areas based on income-generation opportunities | Development | 2008 | MEW, MRRD
 Special attention to gender issues in providing energy for rural areas. | Development | TBD | MEW, MRRD, MoWA
 Promotion of Private sector | Private Sector promotion in close as formalization of existing operator rights; tender for new rights (i.e., to support power generation) | Legislation | End 2008 | MoM MEW MoF
 Private power generation policy | Legislation | End 2008 | DABM/S
-In collaboration with National Regulation Utility Commission (NURC), de- velop Rural-remote Energy Policy | Legislation | 2008 | MRRD, MEW
+In collaboration with National Regulation Utility Commission (NURC), develop Rural-remote Energy Policy | Legislation | 2008 | MRRD, MEW
 Power Purchase Agreements for Power Imports | Legislation | 2008 | MEW
-Restructured Energy Sector Governance and Commer- cialized operations | Revise 2 laws and 2 regulations related to Hydrocarbons, minerals and Market Cadastre & Inspectorate | Legislation | End 2008 | MoM
+Restructured Energy Sector Governance and Commercialized operations | Revise 2 laws and 2 regulations related to Hydrocarbons, minerals and Market Cadastre & Inspectorate | Legislation | End 2008 | MoM
 Corporatization and ongoing commercialization of DABS | Legislation | March 2008 | MEW, MoF
 Power tariff reform | Legislation | Assess in 2008 | MoJ, MEW
 Establishment of viable ICE working groups | Institution Building | Feb 2008 | MoE MEW
 
-Afghanistan National Development Strategy (ANDS )
-
-213
 
 [[END OF PAGE 273]]
 
@@ -8803,7 +8686,7 @@ Establish Pricing regime for natural gas | Institution Building | End 2008 | MoM
 Define Government roles in clearly defining TORs for MRRD and MEW on rural energy aspects | Institution Building | Apr 2008 | MRRD MEW
 Development of basic technical standards based on MRRD materials | Institution Building | Immediately | MRRD
 Annual audit of all operations | Institution Building | Power - March 2008; others TBD | MoM,MEW
-Develop and implement the organizational structure and staffing plan for Ru- ral Livelihoods and Energy Department (RLED) | Institution Building | 2008 | MRRD, MEW
+Develop and implement the organizational structure and staffing plan for Rural Livelihoods and Energy Department (RLED) | Institution Building | 2008 | MRRD, MEW
 
 PILLAR : INFRASTRUCTURE
 ##### SECTOR : TRANSPORT
@@ -8811,41 +8694,38 @@ PILLAR : INFRASTRUCTURE
 Expected Outcomes | Policy Actions and Activities | Category | Time frame | Responsible Agencies
 ###### ROAD TRANSPORT
 Improved connectivity through out Afghanistan and to the foreign destinations within the region. | Massive road rehabilitation, improvement and maintenance programs. (Ring Roads/Regional highways) | Development/ RC Cross Cutting Issues | March 2009 | MPW
-Massive road rehabilitation, improvement and maintenance programs. (Prior- ity: 5,335 km) (National Highways/Provincial Roads) | Development | End of 2010 | MRRD, MPW
-Massive road rehabilitation, improvement and maintenance programs (with its entire infrastructure including drainage, walkways and street lighting system for urban roads). (Rural Roads and Urban Roads) (Priority: 6,290km Rural roads) | Development | End of 2010 | MRRD, MPW, MoUD, Mu- nicipalities
+Massive road rehabilitation, improvement and maintenance programs. (Priority: 5,335 km) (National Highways/Provincial Roads) | Development | End of 2010 | MRRD, MPW
+Massive road rehabilitation, improvement and maintenance programs (with its entire infrastructure including drainage, walkways and street lighting system for urban roads). (Rural Roads and Urban Roads) (Priority: 6,290km Rural roads) | Development | End of 2010 | MRRD, MPW, MoUD, Municipalities
 The road and air infrastructure will be built and maintained to a higher quality, giving road users lower costs. Whereas, the Feasibility Study of the railway links will be done. | Development | March 2009 | MPW, MRRD
 Lower road user costs | Rationalize road user fees (one fee) and use funds to establish a road fund that | Institution Building | End 2009 | MPW, MoF
 
 214
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 274]]
 
 [[START OF PAGE 275]]
-
+Afghanistan National Development Strategy (ANDS) 215
 PILLAR : INFRASTRUCTURE SECTOR : TRANSPORT
---- | --- | --- | --- | ---
 Expected Outcomes | Policy Actions and Activities | Category | Time frame | Responsible Agencies
+--- | --- | --- | --- | ---
 manages all road improvement programs.
 Lower road user fees by 75% by end 2008. | Development | End 2008 | MPW, MoTCA, MoF, MoFA, MoCI
-Subsidy to private bus operators to implement the policy on promoting equita- ble access to transportation | Development/ Gender Cross Cutting Issues | End 2008 | MoTCA
-Less journey time lost due to congestion | Massive road rehabilitation, improvement and maintenance programs (with its entire infrastructure including drainage, walkways and street lighting system for urban roads). (Urban Roads) | Development | End 2010 | MUD, Provinical Municipali- ties, MPW, MRRD
-Improve Public Transport Provision in Urban and inter-provincial (34 prov- inces) (with having bus and truck terminals in all the provincial centers) | Development | 2010 | MoTCA. MPW, KM, MoUD, Provincial Municipalities
+Subsidy to private bus operators to implement the policy on promoting equitable access to transportation | Development/ Gender Cross Cutting Issues | End 2008 | MoTCA
+Less journey time lost due to congestion | Massive road rehabilitation, improvement and maintenance programs (with its entire infrastructure including drainage, walkways and street lighting system for urban roads). (Urban Roads) | Development | End 2010 | MUD, Provinical Municipalities, MPW, MRRD
+Improve Public Transport Provision in Urban and inter-provincial (34 provinces) (with having bus and truck terminals in all the provincial centers) | Development | 2010 | MoTCA. MPW, KM, MoUD, Provincial Municipalities
 Improved air quality. | Pass enabling legislation so that the environmental law has regulations that can be enforced | Legislation | By end-2008 | Transport sector line ministries and institutions
 ###### CIVIL AVIATION
-Increased domestic and in- ternational passengers and freight traffic. | Massive reconstruction program (Kabul Int'l Airport, Herat in compliance with ICAO and IATA requirements) | Development | By March 2011 | MoTCA
+Increased domestic and international passengers and freight traffic. | Massive reconstruction program (Kabul Int'l Airport, Herat in compliance with ICAO and IATA requirements) | Development | By March 2011 | MoTCA
 Massive reconstruction program (Mazar-i-Sharif, Jalalabad, Kandahar airports) | Development | By March 2011 | MoTCA
 Massive reconstruction program (Seven Other Domestic airports) | Development | By March 2011 | MoTCA
-All stakeholders are well informed about the viability of air transport systems. | More air transport service providers enter the Afghan market-requires an enabling environment for businesses | Legislation | By March 2011 | MoTCA
+All stakeholders are well informed about the viability of air transport systems. | More air transport service providers enter the Afghan market—requires an enabling environment for businesses | Legislation | By March 2011 | MoTCA
 Improved governance of civil aviation sector. | Institutional reform programs and a reduction in the requirement of ISAF to use air facilities (Create a new Civil Aviation Authority (CAA), and restore control of Afghan airspace to the Civil Aviation Authority.) | Institution Building | By end 2009 | MoTCA, MoF
 Massive capacity building programs | End 2008 | MoTCA
 ###### OVERALL TRANSPORT SECTOR
-Improved governance struc- ture of the structure | Capacity building specially in the areas of project monitoring and contract management • Completing the regulatory framework- developing the regulatory framework for the implementation of the Procurement law, developing roads standards | Institution Building/ AC Cross Cutting Issues | End 2010 | MoTCA
+Improved governance structure of the structure | Capacity building specially in the areas of project monitoring and contract management • Completing the regulatory framework- developing the regulatory framework for the implementation of the Procurement law, developing roads standards | Institution Building/ AC Cross Cutting Issues | End 2010 | MoTCA
 
-Afghanistan National Development Strategy (ANDS )
-
-215
 
 [[END OF PAGE 275]]
 
@@ -8853,11 +8733,12 @@ Afghanistan National Development Strategy (ANDS )
 
 PILLAR : INFRASTRUCTURE
 
-SECTOR : TRANSPORT Expected Outcomes | Policy Actions and Activities | Category | Time frame | Responsible Agencies
+SECTOR : TRANSPORT
+Expected Outcomes | Policy Actions and Activities | Category | Time frame | Responsible Agencies
 --- | --- | --- | --- | ---
 and codes, land acquisition; • Establishing an effective external scrutiny system; • Conducting VCA and developing mitigation plans in the sector; • Targeted anti corruption training for the responsible anti-corruption agencies to effectively investigate and report on corruption; • Developing code of conducts and enforcement mechanisms • Increasing wages of the civil service
-Improved connectivity through out Afghanistan and to the foreign destinations | After a study of international standards, adopt a set of standards that are com- patible with Afghanistan's neighbors. | Institution Building | End 2008 | MPW, MRRD, KM, MoUD, IDLG
-within the region. | Establish a Transport Sector Inter-ministerial Working Group to determine the lines of authority between the transportation-related governance institutions and the roles and responsibilities of each institution. | Institution Building | End 2008 | MPW, MoTCA, MRRD, MoUD, MoF, IDLG, MoI, KM
+Improved connectivity through out Afghanistan and to the foreign destinations within the region. | After a study of international standards, adopt a set of standards that are com- patible with Afghanistan's neighbors. | Institution Building | End 2008 | MPW, MRRD, KM, MoUD, IDLG
+Establish a Transport Sector Inter-ministerial Working Group to determine the lines of authority between the transportation-related governance institutions and the roles and responsibilities of each institution. | Institution Building | End 2008 | MPW, MoTCA, MRRD, MoUD, MoF, IDLG, MoI, KM
 Create an inter-ministerial costing committee to work with the Ministry of Finance to cost out annually programs that take five to fifteen years to imple- ment | Institution Building | End 2008 | MPW, MoTCA, MRRD, KM, MoI, IDLG, MoF
 Institute a substantial capacity building program, including a road safety pro- gram. (Improve the MoI's capacity to conduct drivers' licensing tests, vehicle safety inspections and enforce traffic flow regulations.) | Institution Building | End 2008 | MoI
 Develop the Traffic Management Bureau form the MoI to the Provinces and Municipalities through the new Independent Directorate of Local Governance | Institution Building | End 2009 | MoI, IDLG
@@ -8865,19 +8746,22 @@ Institutional reforms put in place to simplify governance of the sector, includ-
 Cost savings will be realized by the governing institutions and thus there will be Government budget savings. | Institution Building | 2009 | Transport sector line ministries and institutions
 Put in place systems to improve transparency in all functions of the govern- ment in the transport sector | Institution Building | 2010 | Transport sector line ministries and institutions
 Give more autonomy to local communities and the Provincial Governments to determine how and when rural roads are improved, as well as provincial roads | Institution Building | End 2009 | MRRD, IDLG
-Improve coordination between transport sector governance institutions, the MoI and ISAF so that the transport sector can better develop in conflict- affected areas of the country as soon as possible | Institution Building | Transport sector line ministries and institutions
+Improve coordination between transport sector governance institutions, the MoI and ISAF so that the transport sector can better develop in conflict- affected areas of the country as soon as possible | Institution Building |  | Transport sector line ministries and institutions
 Increase public sector salaries in tandem with increases in capacity | Institution Building | End 2008 | GoA and Transport sector line ministries and institutions
 Annual assessment of data collected and databases maintained and updated in all planning departments, including municipalities, mapping progress against the goal of 'best practices' data collection and databases for transport sector planning, with necessary funding mechanisms and capacity building programs | Institution Building | 2009 | Transport sector line ministries and institutions
 
 216
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 276]]
 
 [[START OF PAGE 277]]
+Afghanistan National Development Strategy (ANDS) 217
 
 PILLAR : INFRASTRUCTURE
+SECTOR : TRANSPORT
+Expected Outcomes | Policy Actions and Activities | Category | Time frame | Responsible Agencies
 --- | --- | --- | --- | ---
 in place and operational
 Strengthening the planning capacity of ministry staff for road transport, air- ports, and rail functions so that the ministry staff can perform feasibility stud- ies, Master planning, and multi-modal planning, as well as asset management planning, to international standards | Institution Building | 2010 | Transport sector line ministries and institutions
@@ -8890,9 +8774,7 @@ Pass any required legislation and enabling regulations so that private sector in
 Improved trade, transit documentation procedures | Legislation/ RC Cross Cutting Issues | End 2009 | National Assembly, MoTCA
 Introduce and checks and balances for illicit transpiration of human and com- modities like precursors, drugs, etc. | Legislation and Devel- opment/ CN Cross Cut- ting Issues | Mid 2009 | National Assembly, MoTCA. MCN, MoI, MoJ
 
-Afghanistan National Development Strategy (ANDS )
 
-217
 
 [[END OF PAGE 277]]
 
@@ -8919,31 +8801,32 @@ Detailed development plans for major 10 cities | Development | 2010 | MoUD, IDLG
 Provide land tenure to the inhabitants in informal settlements | Development | 2009 | MoUD, KM, IDLG
 Upgrade the basic infrastructure and urban services in the informal area | Development | 2010 | MoUD, KM, IDLG
 Establish Dehsabz New City and turn Kabul into a business hub of the sur- rounding regions | Development | 2007 - 2025 | DCDA
-Strengthened institutional capacity to plan and manage urban development in a sys- | Review and update policies, regulations and implementation plans that will consider crosscutting issues gender, environment, ant-corruption and counter narcotics. | Legislation/ Cross Cut- ting Issues | End 2009 | KM/IDLG/MUD
-tematic and transparent manner | Comprehensive and gender sensitive reform of institutions, review and update of relevant legislations, policies and administrative processes | Institution Building/ Gender Cross Cutting Issues | End 2009 | KM/IDLG/MUD, MoWA
+Strengthened institutional capacity to plan and manage urban development in a sys- tematic and transparent manner | Review and update policies, regulations and implementation plans that will consider crosscutting issues gender, environment, ant-corruption and counter narcotics. | Legislation/ Cross Cut- ting Issues | End 2009 | KM/IDLG/MUD
+Comprehensive and gender sensitive reform of institutions, review and update of relevant legislations, policies and administrative processes | Institution Building/ Gender Cross Cutting Issues | End 2009 | KM/IDLG/MUD, MoWA
 Institutional Reform Action Plans in 34 municipalities/ministerial departments | Institution Building | End 2009 | KM/IDLG/MUD
-Computerize HRM/Finance and program activities to strengthen Human Re- | Institution Building/AC | MUD, KM
+Computerize HRM/Finance and program activities to strengthen Human Re- | Institution Building/AC |  | MUD, KM
 
 218
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 278]]
 
 [[START OF PAGE 279]]
+Afghanistan National Development Strategy (ANDS) 219
 
 PILLAR : INFRASTRUCTURE SECTOR : URBAN DEVELOPMENT
 --- | --- | --- | --- | ---
 Outcomes | Policy Actions or Activities | Category | Time frame | Responsible Agency
-and | source, Financial and Program Management | Cross Cutting Issues
+source, Financial and Program Management | Cross Cutting Issues
 Improved financial management in 30 major municipalities | Institution Building | End 2009 | KM/IDLG/MUD
-Property tax implementation | Institution Building | IDLG, KM
-Preparation of economic data base for revenue administration | Institution Building | MoUD, IDLG, KM
-Establish Uni- urban Data collection unit (encourage disaggregated data col- lection) | Institution Building/ Gender Cross Cutting Issues | MoUD, IDLG, KM
-Training and capacity building of the key staff in the process of monitoring evaluation and re-planning | Institution Building | End 2009 | KM/IDLG/MUD
-Capacity building of technical and managerial staff of provincial municipali- ties | Institution Building | IDLG,
-Improved environment friendly programs and poli- cies | Management Plans and Implementation of management plans initiated for protected areas and national parks, including game reserves, wetlands and bird sanctuaries | Development/ Environ- ment Cross Cutting Is- sues | MUD, KM, NEPA
-Ensure environment sustainability of all urban development programs | Development/ Environ- ment Cross Cutting Is- sues | MUD, IDLG, KM, NEPA
+Property tax implementation | Institution Building |  | IDLG, KM
+Preparation of economic data base for revenue administration | Institution Building |  | MoUD, IDLG, KM
+Establish Uni- urban Data collection unit (encourage disaggregated data col- lection) | Institution Building/ Gender Cross Cutting Issues |  | MoUD, IDLG, KM
+Training and capacity building of the key staff in the process of monitoring and evaluation and re-planning | Institution Building | End 2009 | KM/IDLG/MUD
+Capacity building of technical and managerial staff of provincial municipali- ties | Institution Building |  | IDLG,
+Improved environment friendly programs and poli- cies | Management Plans and Implementation of management plans initiated for protected areas and national parks, including game reserves, wetlands and bird sanctuaries | Development/ Environ- ment Cross Cutting Is- sues |  | MUD, KM, NEPA
+Ensure environment sustainability of all urban development programs | Development/ Environ- ment Cross Cutting Is- sues |  | MUD, IDLG, KM, NEPA
 Develop national settlement and regional strategic plans and through them provide a framework for balanced urbanization and greater regional coher- ence, from which the border cities of Afghanistan and neighboring countries shall benefit. | Institution Building/ RC Cross Cutting Issues | End 2009 | MUD, IDLG,
 
 PILLAR : INFRASTRUCTURE
@@ -8956,9 +8839,7 @@ Increased access to water resources | Master plan on underground water developme
 Manual for underground water management | Development | End 2008 | MoM
 Rehabilitation of the Hydrological and Geo-engineering research sections | Development | End 2010 | MoM
 
-Afghanistan National Development Strategy (ANDS )
 
-219
 
 [[END OF PAGE 279]]
 
@@ -8992,11 +8873,12 @@ Priority to areas having substantial narcotics cultivation to promote economic a
 
 220
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 280]]
 
 [[START OF PAGE 281]]
+Afghanistan National Development Strategy (ANDS) 221
 
 PILLAR : INFRASTRUCTURE
 ##### SECTOR : WATER RESOURCES
@@ -9017,12 +8899,10 @@ Institute training in HEC RAS and other appropriate modeling techniques | Instit
 Assignment of staff/personnel to consultancy contracts for training | Institution Building | end 2009 | MEW, MAIL, MRRD,MoUD, MoM
 Gender discrepancies in various laws systematically uncovered | Legislation/ Gender Cross Cutting Issues | 2008-2009 | National Assembly, MoUD, MoJ
 Regional water issues dialogues initiated | Legislation/ RC Cross Cutting Issues | TBD | MoFA, MEW, MAIL, SCWAM
-Sustainable water resources management strategies and | Initiate appropriate inventory studies, water resources planning studies and basin master plans | Development | end 2010 | MEW, MAIL., MoM, MoUD, MRRD, NEPA
-plans covering irrigation and drinking water supply devel- | Complete master plan investigations | Development | 2010 | MEW, MAIL, MRRD,MoUD, MoM,
+Sustainable water resources management strategies and plans covering irrigation and drinking water supply devel- | Initiate appropriate inventory studies, water resources planning studies and basin master plans | Development | end 2010 | MEW, MAIL., MoM, MoUD, MRRD, NEPA
+Complete master plan investigations | Development | 2010 | MEW, MAIL, MRRD,MoUD, MoM,
 
-Afghanistan National Development Strategy (ANDS )
 
-221
 
 [[END OF PAGE 281]]
 
@@ -9031,7 +8911,7 @@ Afghanistan National Development Strategy (ANDS )
 PILLAR : INFRASTRUCTURE SECTOR : WATER RESOURCES
 --- | --- | --- | --- | ---
 Expected Outcomes | Policy Action | Category | Time frame | Responsible Agencies
-oped and implemented. | SCWAM,NEPA
+oped and implemented. |  |  |  | SCWAM,NEPA
 Identify, study, design, procure and implement projects | Development | Continue | MEW, MAIL, MRRD,MoUD, MoM,NEPA
 Identify, prioritize, and implement rehabilitation program | Development | Continue | MEW, MAIL, MRRD,MoUD, MoM,NEPA
 Water resources for irriga- tion and Drinking purposes improved. | Enhance achievement tracking procedures and augment NSP resources | Development | by 2010 | MRRD
@@ -9056,11 +8936,12 @@ E-Government | Development | 2008-2013 | MoCIT
 
 222
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 282]]
 
 [[START OF PAGE 283]]
+Afghanistan National Development Strategy (ANDS) 223
 
 PILLAR : INFRASTRUCTURE SECTOR : INFORMATION & COMMUNICATION TECHNOLOGY
 --- | --- | --- | --- | ---
@@ -9088,7 +8969,7 @@ Expansion of Microwave System | Development | 2008-2013 | MoCIT
 Village Communications Network (VCN) | Development | 2008-2013 | MoCIT
 Modernization of Postal Services | Development | 2008-2013 | MoCIT
 
-Afghanistan National Development Strategy (ANDS ) 223
+
 
 [[END OF PAGE 283]]
 
@@ -9103,7 +8984,7 @@ The National Data Centre will have information on crosscutting issues like anti-
 #### PILLAR : HEALTH AND NUTRITION
 ##### SECTOR : HEALTH AND NUTRITION
 --- | --- | --- | --- | ---
-Expected | Policy Actions or Activities | Category | Time frame | Responsible Agency
+Expected Outcomes | Policy Actions or Activities | Category | Time frame | Responsible Agency
 Increased quality of health care services | Develop an effective organization and management system to coordinate all services of NHCS | Institution Building | 2008 - 2013 | MoPH
 Strengthen HRD unit to oversee the HR and R&D issues, Computerize all HRM activities to strengthen Human resource management | Institution Building/ AC Cross Cutting Issues | 2009 - 2013 | MoPH
 Develop a suitable regulatory framework to encourage private sector invest- ment | Legislation | 2009 - 2013 | MoPH
@@ -9120,11 +9001,12 @@ Establish and maintain required number of Health Facilities providing diagnos- t
 
 224
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 284]]
 
 [[START OF PAGE 285]]
+Afghanistan National Development Strategy (ANDS) 225
 
 PILLAR : HEALTH AND NUTRITION SECTOR : HEALTH AND NUTRITION
 --- | --- | --- | --- | ---
@@ -9135,7 +9017,7 @@ Awareness generation against ills of drug usage and environmental issues af- fec
 Establishing centers for treatment and rehabilitation of Drugs users. | Development/ CN Cross Cutting Issues | Ongoing-2013 | MoPH
 Promotion of regional cooperation to make health facilities available to the people of Afghanistan if such facilities are not available in the country. | Development/ RC Cross Cutting Issues | Ongoing-2013 | MoPH
 Effective Reproductive and Child health system | Develop an integrated reproductive and child health care system with the sup- port of development partners | Development | Ongoing-2013 | MoPH, MoE, MoWA, MoHE
-Develop effective immunization coverage system with adequate doses of DPT vaCross Cutting Issuesne & Hepatitis, measles and polio in all provinces | Development | Ongoing-2013 | MoPH
+Develop effective immunization coverage system with adequate doses of DPT vaccine & Hepatitis, measles and polio in all provinces | Development | Ongoing-2013 | MoPH
 A Special Cell be created to take care and promote all gender issues especially health of females and mothers | Development/ Gender Cross Cutting Issues | Ongoing-2013 | MoPH
 
 #### PILLAR : EDUCATION AND CULTURE
@@ -9150,15 +9032,14 @@ Establish Independent Boards for secondary education, NESA and National Institut
 Establish a National Institute of Curriculum Development incorporating na- tional standards benchmarks | Institution Building | 1387-1389 | MoE
 Strengthen institutional and staff capacities in curriculum development with | Institution Building/ | 1387-1389 | MoE
 
-Afghanistan National Development Strategy (ANDS )
 
-225
 
 [[END OF PAGE 285]]
 
 [[START OF PAGE 286]]
 
-PILLAR : EDUCATION AND CULTURE SECTOR : EDUCATION | Policy Actions or Activities | Category | Time frame | Responsible Agency
+PILLAR : EDUCATION AND CULTURE SECTOR : EDUCATION
+Objectives or Outcomes | Policy Actions or Activities | Category | Time frame | Responsible Agency
 --- | --- | --- | --- | ---
 special focus on gender, counter-narcotics, environment and anti-corruption. | Cross Cutting Issues
 Create a sustainable, transparent and accountable financial management system at central, provincial and district level | Institution Building | 1386-89 | MoE
@@ -9181,13 +9062,15 @@ Conduct review class for girls who graduate from secondary schools to prepare fo
 
 226
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 286]]
 
 [[START OF PAGE 287]]
+Afghanistan National Development Strategy (ANDS) 227
 
-PILLAR : EDUCATION AND CULTURE SECTOR : EDUCATION | Policy Actions or Activities | Category | Time frame | Responsible Agency
+PILLAR : EDUCATION AND CULTURE SECTOR : EDUCATION
+Objectives or Outcomes | Policy Actions or Activities | Category | Time frame | Responsible Agency
 --- | --- | --- | --- | ---
 Have a program of remedial education to address literacy rates | Development | 1387-1389 | MoE
 Equal opportunity for all | Construction and School Rehabilitation | Development | 1389 | MoE
@@ -9207,9 +9090,7 @@ A reorganized and streamlined recruitment and hiring process (PRR) at the MoHE w
 Adopt strategy to hire more women professionals; re-train female teachers who were dismissed during the PRR process and re-employ them | Institution Building/ Gender Cross Cutting Issues | 1385-89 | MoHE; MoWA
 Establish a separate body responsible for standards and accreditation all degree granting institutions and professional programs, public and private, in Afghani- | Institution Building | 1387-TBD it is a conti- | MoHE
 
-Afghanistan National Development Strategy (ANDS )
 
-227
 
 [[END OF PAGE 287]]
 
@@ -9218,7 +9099,7 @@ Afghanistan National Development Strategy (ANDS )
 PILLAR : EDUCATION AND CULTURE SECTOR : EDUCATION
 --- | --- | --- | --- | ---
 Objectives or Outcomes | Policy Actions or Activities | Category | Time frame | Responsible Agency
-stan. | noued Programe
+stan. |  | noued Programe |
 Monitor standards and ensure consistency between institutions | Institution Building | 1387 | MoHE
 Revised and approved curricula and related teaching materials; training for professors and lecturers in use of these | Institution Building | 1388 | MoHE
 Identify and evaluate existing research capacity in higher education institutions and non-governmental organizations in Afghanistan. | Institution Building/ AC Cross Cutting Issues | TBD | MoHE
@@ -9238,13 +9119,15 @@ Within the next 12 months, establish an independent National Vocational Edu- cat
 
 228
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 288]]
 
 [[START OF PAGE 289]]
+Afghanistan National Development Strategy (ANDS) 229
 
-PILLAR : EDUCATION AND CULTURE SECTOR : EDUCATION | Time frame
+PILLAR : EDUCATION AND CULTURE SECTOR : EDUCATION
+Objectives or Outcomes | Policy Actions or Activities | Category | Time frame | Responsible Agency
 --- | --- | --- | --- | ---
 coordinating national VET policy will be established. Teaching and operation of individual VET institutions to be contracted out.
 Target the most vulnerable women and youth in the selection of training and provision of employment opportunities | Institution Building/ Gender Cross Cutting Issues | 1386-89 | NSDP
@@ -9262,9 +9145,7 @@ Sex-disaggregate all human related statistics | Institution Building/ Gender Cro
 ###### SCIENCE ACADEMY
 Enhanced contribution of the Academy in Science | Establish advisory committees consisting of academy members and MoE and MoHE officials. To advise on training and curriculum issues. | Institution Building | 1388 | Science Academy
 
-Afghanistan National Development Strategy (ANDS )
 
-229
 
 [[END OF PAGE 289]]
 
@@ -9299,23 +9180,24 @@ Engaging youth in governance, development and social-political processes at | De
 
 230
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 290]]
 
 [[START OF PAGE 291]]
+Afghanistan National Development Strategy (ANDS) 231
 
 PILLAR : EDUCATION AND CULTURE SECTOR : MEDIA AND CULTURE
 --- | --- | --- | --- | ---
 Objectives or Outcomes | Policy Actions or Activities | Category | Time frame | Responsible Agency
-local, district, municipal, provincial and national level, ensuring the participa- tion of young women and men in democracy and advocacy. | Ministry)
+local, district, municipal, provincial and national level, ensuring the participa- tion of young women and men in democracy and advocacy. |  |  | Ministry)
 Promoting voluntary efforts for peace and development and establishing a youth volunteer corps for Afghanistan and also in the fields of gender, anti- corruption, counter-narcotics, environment and regional cooperation. | Development | 2010 | MoIC (Youth Affairs Deputy Ministry)
 Sensitizing youth about the issues related to gender, anti-corruption, counter- narcotics, environment and regional cooperation. | Development/ Cross Cutting Issues | 2010 | MoIC (Youth Affairs Deputy Ministry)
 
 #### PILLAR : AGRICULTURE AND RURAL DEVELOPMENT
 ##### SECTOR : AGRICULTURE AND RURAL DEVELOPMENT
 --- | --- | --- | --- | ---
-Expected | Policy Actions or Activities | Category | Timeframe | Responsible Agency
+Expected Outcomes | Policy Actions or Activities | Category | Timeframe | Responsible Agency
 Improved service delivery within the Agriculture & Rural Development sector | Review of the legal framework governing ARD sector, including governmental institutional reforms | Legislation/ Policy/Plan | 1387 - 1389 | MAIL, MRRD, MCN and IDLG
 Develop 5 years action plan which quantifies all 8 functions of ARD zones including budget requirements, roles and responsibilities and appropriate M&E systems | Legislation/ Policy/Plan | 1387 - 1388 | CARD Inter-ministerial Committee
 To mainstream into all administrative reform programs measures required to address the systems and incentives promoting anti-corruption within the public administration system and Development Activities. | Legislation/ Policy/Plan / AC Cross Cutting Is- sues | 1387 - 1389 | MAIL, MRRD
@@ -9327,9 +9209,7 @@ Formulate and implement policy imperatives requiring all development actors to c
 Increased Agriculture Pro- duction and Productivity | Review, revise and formulate land use and government owned land for lease | Legislation/ Policy/Plan | 1387-1389 | MAIL
 Review, revise and formulate Natural Resources laws (wetlands, forests, range | Legislation/ Policy/Plan | 1387-1391 | MAIL
 
-Afghanistan National Development Strategy (ANDS )
 
-231
 
 [[END OF PAGE 291]]
 
@@ -9339,7 +9219,8 @@ PILLAR : AGRICULTURE AND RURAL DEVELOPMENT SECTOR : AGRICULTURE AND RURAL DEVELO
 
 Expected Outcomes | Policy Actions or Activities | Category | Timeframe | Responsible Agency
 --- | --- | --- | --- | ---
-lands, arid lands ,watershed) Review, revise and formulate Food laws and regulations (Quality and Safety, | Legislation/ Policy/Plan | 1387-1390 | MAIL
+lands, arid lands ,watershed)
+Review, revise and formulate Food laws and regulations (Quality and Safety, CODEX standards, quarantine) | Legislation/ Policy/Plan | 1387-1390 | MAIL
 Review, revise and formulate laws and regulations on Livestock and Horticul- ture | Legislation/ Policy/Plan | 1387-1390 | MAIL
 Review, revise and formulate laws and regulation on Pesticides Use, plant and animal protection | Legislation/ Policy/Plan | 1387-1390 | MAIL
 Review, revise and formulate laws and regulations on agricultural imports and exports | Legislation/ Policy/Plan | 1387-1391 | MAIL
@@ -9359,11 +9240,12 @@ Develop national and international markets for agriculture and non-agriculture p
 
 232
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 292]]
 
 [[START OF PAGE 293]]
+Afghanistan National Development Strategy (ANDS) 233
 
 PILLAR : AGRICULTURE AND RURAL DEVELOPMENT SECTOR : AGRICULTURE AND RURAL DEVELOPMENT
 --- | --- | --- | --- | ---
@@ -9386,9 +9268,7 @@ Interventions for promoting legal agriculture livelihood options through inputs 
 Training for self employment and micro enterprise and development of micro credit facilities | Institution Building/ CN Cross Cutting Issues | 1387 - 1391 | MAIL, MCN
 Development of private sector especially promotion of small and medium en- terprise | Other Measures/ CN Cross Cutting Issues | 1387 - 1391 | MAIL, MCN
 
-Afghanistan National Development Strategy (ANDS )
 
-233
 
 [[END OF PAGE 293]]
 
@@ -9396,7 +9276,7 @@ Afghanistan National Development Strategy (ANDS )
 
 #### PILLAR: SOCIAL PROTECTION & REFUGEES
 ##### SECTOR: SOCIAL PROTECTION
-| Policy Action
+Expected Outcomes | Policy Action | Category | Time frame | Responsible Agency
 --- | --- | --- | --- | ---
 ###### A) SOCIAL PROTECTION
 Poverty and vulnerability reduction | Initiate and complete the public debate about establishment of the Afghanistan Welfare Fund and introduction of the Zakat-based tax | Other Measures | by mid-2008 | MoLSAMD, MoF, MoHaj
@@ -9419,13 +9299,15 @@ In cooperation with the NGOs implement the pilot project for supporting the chil
 
 234
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 294]]
 
 [[START OF PAGE 295]]
+Afghanistan National Development Strategy (ANDS) 235
 
-PILLAR: SOCIAL PROTECTION & REFUGEES SECTOR: SOCIAL PROTECTION | Policy Action | Category | Time frame | Responsible Agency
+PILLAR: SOCIAL PROTECTION & REFUGEES SECTOR: SOCIAL PROTECTION
+Expected Outcomes | Policy Action | Category | Time frame | Responsible Agency
 --- | --- | --- | --- | ---
 with law
 Ensure that the most vulnerable groups will be priority for participation in the public work programs | Other Measures | continuously | respective line ministries
@@ -9447,9 +9329,7 @@ Poverty and vulnerability reduction, improved em- ployment | Redesign the NSP an
 Improve the communication campaigns to better inform the poor about oppor- tunities to participate in the public work program | Other Measures | continuously | respective line ministries
 Complete the Labor Market Study to ensure that NSDP will meet the needs for | Other Measures | by mid-2009 | MoLSAMD, NSDP
 
-Afghanistan National Development Strategy (ANDS )
 
-235
 
 [[END OF PAGE 295]]
 
@@ -9479,11 +9359,12 @@ In cooperation with NGOs implement the pilot project to support extremely vulner
 
 236
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 296]]
 
 [[START OF PAGE 297]]
+Afghanistan National Development Strategy (ANDS) 237
 
 PILLAR: SOCIAL PROTECTION & REFUGEES SECTOR: SOCIAL PROTECTION
 --- | --- | --- | --- | ---
@@ -9507,9 +9388,7 @@ Improved aid coordination system | Develop the database of all Government and do
 Reduction in harmful child labor | Implement the awareness campaign against harmful child labor | Other Measures | continuously | MoLSAMD
 ###### B) PENSION REFORM
 
-Afghanistan National Development Strategy (ANDS )
 
-237
 
 [[END OF PAGE 297]]
 
@@ -9529,8 +9408,8 @@ Improve record keeping and processes of the Pension Department and mini- mize an
 Conduct the capacity building and training for the staff and managers of the Pension Department | Other Measures | by end-2010 | MoLSAMD
 ###### C) DISASTER PREPAREDNESS
 Improved disaster prepared- ness /response | Adjust the legislation to clearly reflect the leading role of the ANDMA in co- ordinating the national efforts for disaster preparedness and response but also for implementing of key programs and projects. | Legislation | by end-2008 | GoA, ANDMA
-Establish a coordination network of NGO's which are working in the field of disaster risk reduction by creating department of NGO in ANDMA structure | by end-2008 | ANDMA
-Establish academic consultation network with academy of science, faculty of Engineering and Polytechnic University for designing, prevention & mitigation projects | by end-2008 | ANDMA
+Establish a coordination network of NGO's which are working in the field of disaster risk reduction by creating department of NGO in ANDMA structure |  | by end-2008 | ANDMA
+Establish academic consultation network with academy of science, faculty of Engineering and Polytechnic University for designing, prevention & mitigation projects |  | by end-2008 | ANDMA
 Establish Emergency Operation Centers (EOCs) at the provincial level | Institution Building | by end-2009 | ANDMA, Governors
 Establish response centers and teams at the regional level | Institution Building | by end-2009 | ANDMA
 Establish community emergency response system | Institution Building | by end-2010 | ANDMA
@@ -9543,11 +9422,12 @@ Complete collecting information related to risks and vulnerabilities at the na- 
 
 238
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 298]]
 
 [[START OF PAGE 299]]
+Afghanistan National Development Strategy (ANDS) 239
 
 PILLAR: SOCIAL PROTECTION & REFUGEES SECTOR: SOCIAL PROTECTION
 --- | --- | --- | --- | ---
@@ -9570,9 +9450,7 @@ Annual return planning figures, taking into account Afghanistan's absorption cap
 Monitor border movements, interview returnees and document violations of articles of agreements, due attention to be given to counter narcotics issues | Other Measures/ CN Cross Cutting Issues | 2008 - 2013 | MoRR, MoFA, MCN, MoI
 Ensure continued donor support for initial reintegration assistance in critical areas like housing, water/sanitation, and financial support | Other Measures | 2008 - 2013 | MoRR, MoFA, MRRD
 
-Afghanistan National Development Strategy (ANDS )
 
-239
 
 [[END OF PAGE 299]]
 
@@ -9601,29 +9479,28 @@ Budget allocations to sectors and provinces takes account of population expan- s
 
 240
 
-Afghanistan National Development Strategy (ANDS )
+Afghanistan National Development Strategy (ANDS)
 
 [[END OF PAGE 300]]
 
 [[START OF PAGE 301]]
 #### PILLAR: SOCIAL PROTECTION & REFUGEES
 ##### SECTOR: REFUGEES AND INTERNALLY DISPLACES PERSONS
-
 Objectives or Outcomes | Policy Actions or Activities | Category | Time frame | Responsible Agencies
 --- | --- | --- | --- | ---
-National initiatives addressing returnee needs (both Male and Female) and local host communities developed and enhanced in housing, area-based and commu- nity development programs with particular emphasis on employment, liveli- hoods, and skill development. | Other Measures | By end-first half of 2009 | MoRR, MoUD, MoFA, MRRD, MoE, MoPH
-Monitoring and evaluation mechanisms for tracking the reintegration process are established | Other Measures | By end of 2009 | MoRR, ANDMA, MRRD, pro- vincial authorities
+ | National initiatives addressing returnee needs (both Male and Female) and local host communities developed and enhanced in housing, area-based and commu- nity development programs with particular emphasis on employment, liveli- hoods, and skill development. | Other Measures | By end-first half of 2009 | MoRR, MoUD, MoFA, MRRD, MoE, MoPH
+ | Monitoring and evaluation mechanisms for tracking the reintegration process are established | Other Measures | By end of 2009 | MoRR, ANDMA, MRRD, pro- vincial authorities
 Improved terms of stay and conditions for Afghans in neighboring countries | Research and analysis to support policy advocacy | Other Measures | By end of 2013 | MoRR, MoFA
-Negotiations with neighboring countries led by Ministry of Foreign Affairs and Ministry of Refugees and Repatriation for more predictable and clearer legal status and renewable documentation | Other Measures | 2009-2013 | MoFA, MoRR, MoLSA
-Identification of program interventions to support policy objectives | Other Measures
-Bilateral agreements on tem- porary labor migration pro- gress | Research and analysis to support policy and public advocacy (Labor migration flows identified and quantified, cross border commuting assessed) | Other Measures | TBD | MoRR, MolSAMD, MoFA, MoI
-Negotiations with neighboring countries led by Ministry of foreign Affairs and Ministry of Labor and Social Affairs (Agreements with neighboring and coun- tries in the region that accept laborers) | Other Measures | End of 2013 | MoRR, MoFA, MoLSA
-Strengthened public management capacity to develop policy and negotiate agreements | Other Measures | End of 2013 | MoRR, MoFA, MoLSAMD, MRRD, MD, UNHCR, ILO, IOM and partners
-International conference on "Return and reintegration in Afghanistan" | Other Measures | 2008 | MoRR, MoFA, MoLSAMD, MRRD, MD, UNHCR, ILO, IOM and partners
-Tripartite commissions with Pakistan and Iran meet four times a year | Other Measures | 2008-20013 | MoRR, MoFA UNHCR
-Tripartite agreement renewed with Iran on Annual basis and signed with Paki- stan for three years | Other Measures | 2008 | MoRR, UNHCR
+ | Negotiations with neighboring countries led by Ministry of Foreign Affairs and Ministry of Refugees and Repatriation for more predictable and clearer legal status and renewable documentation | Other Measures | 2009-2013 | MoFA, MoRR, MoLSA
+ | Identification of program interventions to support policy objectives | Other Measures |  | 
+Bilateral agreements on tem- porary labor migration pro- gress | Research and analysis to support policy and public advocacy (Labor migration flows identified and quantified, cross border commuting assessed) | Other Measures | TBD | MoRR, MoLSAMD, MoFA, MoI
+ | Negotiations with neighboring countries led by Ministry of foreign Affairs and Ministry of Labor and Social Affairs (Agreements with neighboring and coun- tries in the region that accept laborers) | Other Measures | End of 2013 | MoRR, MoFA, MoLSA
+ | Strengthened public management capacity to develop policy and negotiate agreements | Other Measures | End of 2013 | MoRR, MoFA, MoLSAMD, MRRD, MD, UNHCR, ILO, IOM and partners
+ | International conference on "Return and reintegration in Afghanistan" | Other Measures | 2008 | MoRR, MoFA, MoLSAMD, MRRD, MD, UNHCR, ILO, IOM and partners
+ | Tripartite commissions with Pakistan and Iran meet four times a year | Other Measures | 2008-20013 | MoRR, MoFA UNHCR
+ | Tripartite agreement renewed with Iran on Annual basis and signed with Paki- stan for three years | Other Measures | 2008 | MoRR, UNHCR
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 241
 
@@ -9640,17 +9517,17 @@ Afghanistan National Development Strategy (ANDS)
 Expected Outcomes | Indicators | Baselines | Targets
 --- | --- | --- | ---
 Effectively coordinated security sector | Index on progress of establishing joint coordination centers for the ANA and ANP | Under Assessment, 13 Coordination centers proposed | Ehanced coordination amongst security setor ministry/ departments (2013)
-# of recruited ANA personnel | 64, 996 (Apr 2008) | 80,000 (end 2009)
-% completion of PAR process in MoD | 80% (Apr 2008) | 100% (end 2009)
-ANA operationally capable of performing those missions and tasks assigned | Index on progress of equipping the ANA with technical and administrative support | Under Assessment | TBD
-Index on progress of equipping the ANA by Land and Air Force | Under Assessment | TBD
-Index on equipping the ANA training centers | Under Assessment | TBD
-% of ANA personnel trained | 77% (2008) | 100% (2013)
+ANA operationally capable of performing those missions and tasks assigned | # of recruited ANA personnel | 64, 996 (Apr 2008) | 80,000 (end 2009)
+ | % completion of PAR process in MoD | 80% (Apr 2008) | 100% (end 2009)
+ | Index on progress of equipping the ANA with technical and administrative support | Under Assessment | TBD
+ | Index on progress of equipping the ANA by Land and Air Force | Under Assessment | TBD
+ | Index on equipping the ANA training centers | Under Assessment | TBD
+ | % of ANA personnel trained | 77% (2008) | 100% (2013)
 ANA expenditures are fiscally sustainable | % of ANA expenditure funded from Government Revenue | 21% (2008) (core budget) | TBD
 ANP operationally capable of performing those missions and tasks assigned and crime rates reduced | # of recruited ANP personnel | 80,426 (Apr 2008) | 82,000 (end 2008)
-% completion of PAR process in MoI | 60% (Apr 2008) | 100% (end 2009)
-% of ANP received logistical support | 85% (Apr 2008) | 100% (2010)
-% of ANP personnel trained | 55% (Apr 2008) | 100% (2010)
+ | % completion of PAR process in MoI | 60% (Apr 2008) | 100% (end 2009)
+ | % of ANP received logistical support | 85% (Apr 2008) | 100% (2010)
+ | % of ANP personnel trained | 55% (Apr 2008) | 100% (2010)
 Operational border posts able to protect national sover- eignty | Index on equipping the border posts | Under Assessment | 100% (2013)
 ANP and ABP expenditures are fiscally sustainable | % of ANP and ABP expenditure funded from Government Revenue | 8.9% (2008) (core budget) | TBD
 Reduced level of deaths and casualties caused by UXOs, reduce the number of affected communities and increased safety precaustions | # square meters cleared of UXOs | 128,478,929 square meters of land | Clearance of 540 million square meters before end 2010
@@ -9658,24 +9535,18 @@ Enhanced public trust on government ability to deliver justice and security as I
 
 242
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 302]]
 
 [[START OF PAGE 303]]
 
-Eventual eradication of Poppy Production and crack down on drug trafficking
-
-# ha of poppy cultivated land area
-
-193,000 ha
-
-By 2013, the area under poppy cultivation will be reduced by half compared to 2007 levels
+Eventual eradication of Poppy Production and crack down on drug trafficking | # ha of poppy cultivated land area | 193,000 ha | By 2013, the area under poppy cultivation will be reduced by half compared to 2007 levels
 
 #### PILLAR: GOVERNANCE, RULE OF LAW AND HUMAN RIGHTS
 ##### SECTOR: GOVERNANCE
---- | --- | --- | ---
 Expected Outcomes | Indicators | Baseline | Targets
+--- | --- | --- | ---
 Empowered National As- sembly | Index on the progress of empowering the National As- sembly. | Under Assessment | Empowered National Assembly to fulfill effectively its constitutionally man- dated roles (2013)
 Reformed Public Administra- tion | Index on the progress of reforming Public Administra- tion. | Under Assessment | Reformed Public Administration (2013)
 Trained and Capable Public Sector Workforce | Index on the progress of building capacity of Public Sec- tor Workforce. | Under Assessment | By Jaddi 1392 (end-2013), a training policy for the entire public sector work- force shall be developed and implemented. Institutional arrangements shall be put in place to ensure that each member of the workforce gets trained at least once in two years in organization specific and job specific training along with the generic training.
@@ -9685,7 +9556,7 @@ Enhanced Availability of Information to Public and Enforcement | Index on the pr
 Improved Participation of Women in Governance | Index on the progress of putting plans, systems and mechanisms in place for improved participation of women in governance. | Under Assessment | By Jaddi 1389 (end-2010) In line with Afghanistan's MDGs, female participa- tion in all Afghan governance institutions, including elected and appointed bodies and the civil service, will be strengthened by providing a specific per- cent reservation of seats by enacting a law of affirmative action.
 Nation Prepared for Disaster Management | Index on the progress of putting plans, systems and mechanisms in place at all levels for Disaster Manage- ment. | Under Assessment | By Jaddi 1389 (end-2010), an effective system of disaster preparedness and response will be in place.
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 243
 
@@ -9695,8 +9566,8 @@ Afghanistan National Development Strategy (ANDS)
 
 #### PILLAR: GOVERNANCE, RULE OF LAW AND HUMAN RIGHTS
 ##### SECTOR: GOVERNANCE
---- | --- | --- | ---
 Expected Outcomes | Indicators | Baseline | Targets
+--- | --- | --- | ---
 Strong and Capable Inde- pendent Election Commis- sion holding regular national and sub national Elections as mandated by the Constitu- tion | Index on the progress of creating a strong and capable Independent Election Commission holding regular na- tional and sub national Elections as mandated by the Constitution. | Under Assessment | The Afghanistan Independent Electoral Commission will have the high integ- rity, capacity and resources to undertake elections in an increasingly fiscally sustainable manner by Jaddi 1388 (end-2009), with the Government of Af- ghanistan contributing to the extent possible to the cost of future elections from its own resources.
 Single National Identity Document | Index on the progress of providing single national iden- tity to all citizens in the country. | Under Assessment | By Jaddi 1392 (end-2013), civil registry with a single national identity docu- ment will be established
 Census Completed and Re- sults Published | Index on the progress of Census operations and publish- ing of results. | Under Assessment | Census enumeration fully completed during summer of 2008 in all districts. Publishing the full results of census in 2010
@@ -9708,7 +9579,7 @@ Government Offices physi- cally equipped to fulfill their Role | Index on the pr
 
 244
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 304]]
 
@@ -9728,14 +9599,14 @@ Human Rights Realized, Pro- tected, Promoted and Ex- tended | Index on the progr
 Expected Outcomes | Indicators | Baseline | Targets
 --- | --- | --- | ---
 Public can rely on effectively organ- ized and professionally staffed jus- tice institutions | Index on the progress of putting in place systems so that public can rely on effectively organized and profession- ally staffed justice institutions. | Under Assessment | by end 2010 (1391), reforms will strengthen the professionalism, credibility and in- tegrity of key institutions of the justice system (the Ministry of Justice, the Judiciary, the Attorney-General's Office, the Ministry of the Interior and the National Director- ate of Security)
-# of oversight and disciplinary mechanism developed and implemented by AGO, MoJ and Supreme Court | Under Assessment | TBD
-Justice institutions have access to infrastructure, transportation, equipment, and supplies adequate to support effective delivery of justice services | Index on the progress of providing Justice institutions access to infrastructure, transportation, equipment, and supplies adequate to support effective delivery of justice services | Under Assessment | By the end of 2010 (1391), justice institutions will be fully functional and operational in each province of Afghanistan, and the average time to resolve contract disputes will be reduced as much as possible
-# of functioning and adequately resourced, judicial institutions in each province | Under Assessment | TBD
-# of functional prisons (Detention Centers, DC) | 33 Provincial DC 184 District DC | TBD
-# of Adequate detention and correction facilities for women | 2 (Kabul, Herat) 18 Provinces with no facilities | TBD
+ | # of oversight and disciplinary mechanism developed and implemented by AGO, MoJ and Supreme Court | Under Assessment | TBD
+Justice institutions have access to infrastructure, transportation, equip- ment, and supplies adequate to sup- port effective delivery of justice services | Index on the progress of providing Justice institutions access to infrastructure, transportation, equipment, and supplies adequate to support effective delivery of justice services | Under Assessment | By the end of 2010 (1391), justice institutions will be fully functional and operational in each province of Afghanistan, and the average time to resolve contract disputes will be reduced as much as possible
+ | # of functioning and adequately resourced, judicial institutions in each province | Under Assessment | TBD
+ | # of functional prisons (Detention Centers, DC) | 33 Provincial DC 184 District DC | TBD
+ | # of Adequate detention and correction facilities for women | 2 (Kabul, Herat) 18 Provinces with no facilities | TBD
 Legal education and vocational train- ing are adequate to provide justice professionals with sufficient know- how to perform their task | Index on the progress of improving legal education and vocational training to provide justice professionals with sufficient know-how to perform their task | Under Assessment | By end-2013 the Justice Institutions will Have recruited and promoted justice profes- sionals on merit, based on established policies and procedures, including meeting the target of 30% of the professional staff being female
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 245
 
@@ -9745,13 +9616,13 @@ Afghanistan National Development Strategy (ANDS)
 
 #### PILLAR: GOVERNANCE, RULE OF LAW AND HUMAN RIGHTS
 ##### SECTOR: JUSTICE AND THE RULE OF LAW
---- | --- | --- | ---
 Expected Outcomes | Indicators | Baseline | Targets
+--- | --- | --- | ---
 Statutes are clearly drafted, constitu- tional and the product of effective and consultative drafting processes | Index on the progress of making Statues clearly drafted, constitutional and the product of effective and consulta- tive drafting processes. | Under Assessment | TBD
-Justice institutions effectively perform their functions in a harmonized and interlinked manner | Index on Progress of enacting and implementing new criminal procedure | Under Assessment | By 2009 (1388), the new criminal procedure code will be enacted and published, and for its implementation training with written commentary will be provided to all legal professionals, as well as community legal education for citizens
-Index on the progress of putting in place systems so that Justice institutions effectively perform their functions in a harmonized and interlinked manner. | Under Assessment | By end-2013 the Justice Institutions will have mapped in detail the processes linking all justice institutions, and have streamlined them to improve information systems and business processes, with the aim of reducing delays in processing of cases, administrative costs and vulnerability to corruption
-Citizens are more aware of their rights and justice institutions are better able to enforce them. | Index on the progress of making citizens more aware of their rights and justice institutions being better able to enforce them. | Under Assessment | By end-2013, the Justice Institutions will encourage press coverage of justice proceedings, public attendance at those proceedings, and general public understanding of the process at each stage of such proceedings. The justice institutions should encourage and participate in the development of outreach programs within civil society including curriculum for public education at all levels
-Criminal and Civil justice is administered effectively, and in accordance with law, the Constitution, and international standards | Index on the progress of putting in place systems so that Criminal and Civil justice is administered effectively, and in accordance with law, the Constitution, and international standards. | Under Assessment | By end-2013, the Justice Institutions will have established an easily accessible and functioning public complaints system in at least eight major provincial capitals with clear processes for handling complaints
+Justice institutions effectively per- form their functions in a harmonized and interlinked manner | Index on Progress of enacting and implementing new criminal procedure | Under Assessment | By 2009 (1388), the new criminal procedure code will be enacted and published, and for its implementation training with written commentary will be provided to all legal professionals, as well as community legal education for citizens
+ | Index on the progress of putting in place systems so that Justice institutions effectively perform their functions in a harmonized and interlinked manner. | Under Assessment | By end-2013 the Justice Institutions will have mapped in detail the processes linking all justice institutions, and have streamlined them to improve information systems and business processes, with the aim of reducing delays in processing of cases, adminis- trative costs and vulnerability to corruption
+Citizens are more aware of their rights and justice institutions are better able to enforce them. | Index on the progress of making citizens more aware of their rights and justice institutions being better able to enforce them. | Under Assessment | By end-2013, the Justice Institutions will encourage press coverage of justice pro- ceedings, public attendance at those proceedings, and general public understanding of the process at each stage of such proceedings. The justice institutions should encour- age and participate in the development of outreach programs within civil society in- cluding curriculum for public education at all levels
+Criminal and Civil justice is admin- istered effectively, and in accordance with law, the Constitution, and inter- national standards | Index on the progress of putting in place systems so that Criminal and Civil justice is administered effectively, and in accordance with law, the Constitution, and inter- national standards. | Under Assessment | By end-2013, the Justice Institutions will have established an easily accessible and functioning public complaints system in at least eight major provincial capitals with clear processes for handling complaints
 Justice institutions are transparent and accountable | Index on the progress of making justice institutions transparent and accountable. | Under Assessment | By end-2013, the Justice Institutions will have determined their vulnerabilities to corruption and established policies and procedures to eliminate such vulnerabilities
 
 #### PILLAR: INFRASTRUCTURE
@@ -9766,7 +9637,7 @@ Index on the progress of expanding public power grid. | TBD | TBD
 
 246
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 306]]
 
@@ -9793,7 +9664,7 @@ Improved sidewalks and shoulders (km) (along with im- proved and connected drain
 Lower road user costs | Index on the rationalization of road user costs. | 0% | Lower road user fees by 75% by end 2008.
 Less journey time lost due to conges- tion | Index on the improvement of Public Transport Provision and roads in urban areas and inter-provinces. | TBD | Less journey time by end 2012
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 247
 
@@ -9803,8 +9674,8 @@ Afghanistan National Development Strategy (ANDS)
 
 #### PILLAR: INFRASTRUCTURE
 ##### SECTOR: TRANSPORT
---- | --- | --- | ---
 Expected Outcomes | Indicators | Baseline | Targets
+--- | --- | --- | ---
 Improved air quality. | Index on the progress of the process of enforcing the envi- ronmental law in transport sector. | TBD | Environmental protection from air pollution by End of 2009
 ###### CIVIL AVIATION
 Increased domestic and international passengers and freight traffic by air. | Index on the progress of the process of completion of In- ternational Civil Aviation Organization (ICAO) compli- ance for Kabul and Herat Airports. | 40% Kabul 0% Heart | Kabul International Airport and Herat Airport are in compliance with the International Civil Aviation Or- ganization's (ICAO) and the International Air Trans- port Association's (IATA's) requirements by March 2011.
@@ -9818,7 +9689,7 @@ Index on the progress of massive capacity building pro- grams in the civil aviat
 
 248
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 308]]
 
@@ -9828,20 +9699,20 @@ Afghanistan National Development Strategy (ANDS)
 ##### SECTOR: TRANSPORT
 Expected Outcomes | Indicators | Baseline | Targets
 --- | --- | --- | ---
-All the programs will be conducted in 2008. 30 Fire Fighter have been trained in Oman and another 17 other personnel will be trained in 2008. Under the Transition Plan also for key functions such as ATC, CNS and Fire Fighting on the job trainings will be provided by ICAO experts. The identifica- tion & the number of the beneficiaries will be finalized by March 2008. Further 200 students was sent to FAA academy in U.S.A and 20 others will be sent by end of 2008.
+ |  | All the programs will be conducted in 2008. 30 Fire Fighter have been trained in Oman and another 17 other personnel will be trained in 2008. Under the Transition Plan also for key functions such as ATC, CNS and Fire Fighting on the job trainings will be provided by ICAO experts. The identifica- tion & the number of the beneficiaries will be finalized by March 2008. Further 200 students was sent to FAA academy in U.S.A and 20 others will be sent by end of 2008. | 
 ###### OVERALL TRANSPORT SECTOR
 Improved Governance in the Trans- port Sector | Index on the progress of putting institutional mechanisms in place for better governance of the Transport Sector. | Inter-Ministerial Working Group estab- lished. TOR under review | Governance of Road Transport sector progressively improved by by 2013
 Business environment for private sector development improved to create jobs and reduce poverty. | Index on the progress of passing enabling legislations and enabling regulations for efficient working of the transport sector and various players therein. | TBD | Improved business environment for private sector by 2012
-% increase in amount of taxes and duties collected through cross border trade | TBD | TBD
+ | % increase in amount of taxes and duties collected through cross border trade | TBD | TBD
 Access to secure tenure and im- proved services and public facilities for inhabitants of informal settle- ments | Index on the progress of providing access to secured tenure and improved services and public facilities for inhabitants of informal settlements | 0% | The registration of titles will be started for all major urban areas and a fair system for settlement of land disputes will be in place.
-% of informal settlements having access to basic services | 10-15 % | 50 % by 2013
-% of informal settlements have access to secure tenure | 0% | 90% by 2013
+ | % of informal settlements having access to basic services | 10-15 % | 50 % by 2013
+ | % of informal settlements have access to secure tenure | 0% | 90% by 2013
 Improved institutional coordination and monitoring of key urban indica- tors | Index on the progress of improving institutional arrange- ments for coordination and monitoring of key urban indica- tors. | In principals all the key institutions have agreed upon on but details and actions have been to prepared | Improved institutional coordination by end 2008
 Increased access for urban house- holds to basic services | Index on the progress of providing improved to basic ser- vices by urban households. | Due to capacity limitation within munici- palities; the urban services delivering are very low and aren't sufficient and efficient | By March 2011, Municipal Governments will have strengthened capacity to manage urban development and to ensure that municipal services are delivered effectively, efficiently and transparently;
-% of investment in urban road networks | 10-15 % urban roads are improved with some improved services. | 70% by 2013
-% of households having access to safe water supply in Kabul. | 18-21 % h/h has access to safe piped water | in line with MDG investment in water supply and sani- tation will ensure that 50% of households (h/h) in Ka-
+ | % of investment in urban road networks | 10-15 % urban roads are improved with some improved services. | 70% by 2013
+ | % of households having access to safe water supply in Kabul. | 18-21 % h/h has access to safe piped water | in line with MDG investment in water supply and sani- tation will ensure that 50% of households (h/h) in Ka-
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 249
 
@@ -9851,17 +9722,17 @@ Afghanistan National Development Strategy (ANDS)
 
 #### PILLAR: INFRASTRUCTURE
 ##### SECTOR: TRANSPORT
---- | --- | --- | ---
 Expected Outcomes | Indicators | Baseline | Targets
-bul will have access to piped water by March 2011
-% of households having access to piped water supply in other major urban areas except Kabul. | 15-18% h/h has access to safe piped water | 30% of households (h/h) in other major urban areas will have access to piped water”; by March 2011
-% of households having access to sanitation facilities in Kabul. | 5-8% h/h have access to improved sanitation | 50 % by March 2011
-% of households having access to sanitation facilities in other major urban areas except Kabul. | 10-12% h/h have access to improved sanita- tion | 30% by March 2011
-Proportion of open green spaces per developed urban area | less than 5% | 30% By 2013
+--- | --- | --- | ---
+ |  |  | bul will have access to piped water by March 2011
+ | % of households having access to piped water supply in other major urban areas except Kabul. | 15-18% h/h has access to safe piped water | 30% of households (h/h) in other major urban areas will have access to piped water'; by March 2011
+ | % of households having access to sanitation facilities in Kabul. | 5-8% h/h have access to improved sanitation | 50 % by March 2011
+ | % of households having access to sanitation facilities in other major urban areas except Kabul. | 10-12% h/h have access to improved sanita- tion | 30% by March 2011
+ | Proportion of open green spaces per developed urban area | less than 5% | 30% By 2013
 Increased availability of affordable shelter | Index on the progress of providing increased availability of affordable shelter. | less than 5% | 60% by 2013
-% of urban residents having access to affordable finance | 0% | TBD
-% of urban residents having access to housing subsidy | The process is underway to implement mort- gage system | 50% by 2013
-% completion of city development plans for 34 provinces | 20% | 90% by 2013
+ | % of urban residents having access to affordable finance | 0% | TBD
+ | % of urban residents having access to housing subsidy | The process is underway to implement mort- gage system | 50% by 2013
+ | % completion of city development plans for 34 provinces | 20% | 90% by 2013
 Strengthened institutional capacity to plan and manage urban develop- ment | Index on the progress of building strengthened institutional capacity to plan and manage urban development. | The process is under way has been recently initiated | by 2013 Sustainable water resource management strategies and plans covering drinking water supply will be developed along with improved sanitation. Municipalities will be operating under updated laws and polices and effectively and transparently delivering urban services, with better customer service system
 
 #### PILLAR: INFRASTRUCTURE
@@ -9874,7 +9745,7 @@ Sustainable water resources management strategies and plans covering irrigation 
 
 250
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 310]]
 
@@ -9882,17 +9753,17 @@ Afghanistan National Development Strategy (ANDS)
 
 #### PILLAR: INFRASTRUCTURE
 ##### SECTOR: WATER RESOURCES
---- | --- | --- | ---
 Expected Outcomes | Indicator | Baseline | Targets
+--- | --- | --- | ---
 Water resources for irrigation and Drinking purposes improved | Index on the improvement of water resources for irrigation and drink- ing water purposes. | 25-30% | Improved water resources for drinking and irrigation purpose by 2013
-# of Hydrometric stations installed and equipped | 3 out of 177 | TBD
-% of lands irrigated through rehabilitated and new water works | 1.8 Million Ha | Additional 450,000 ha (2013)
-% of sites where 90% of tail-enders receive enough water on time | TBD | TBD
-# of sites reserved as suitable drinking water resource | Based on recent surveys 20 % of the sites have been reserved | By 2013 sites reserved as suitable drinking water re- source
-% of beneficiaries, by gender, whose technical knowledge and skills for managing irrigation assets have increased considerably | TBD | TBD
-% of households in other urban areas except Kabul have access to piped water | 15-18% | 30% by end of 2011
-% of households in Kabul have access to piped water | 18-21% | 50% (2010)
-# of water points available for rural households | TBD | TBD
+ | # of Hydrometric stations installed and equipped | 3 out of 177 | TBD
+ | % of lands irrigated through rehabilitated and new water works | 1.8 Million Ha | Additional 450,000 ha (2013)
+ | % of sites where 90% of tail-enders receive enough water on time | TBD | TBD
+ | # of sites reserved as suitable drinking water resource | Based on recent surveys 20 % of the sites have been reserved | By 2013 sites reserved as suitable drinking water re- source
+ | % of beneficiaries, by gender, whose technical knowledge and skills for managing irrigation assets have increased considerably | TBD | TBD
+ | % of households in other urban areas except Kabul have access to piped water | 15-18% | 30% by end of 2011
+ | % of households in Kabul have access to piped water | 18-21% | 50% (2010)
+ | # of water points available for rural households | TBD | TBD
 
 #### PILLAR: INFRASTRUCTURE
 ##### SECTOR: INFORMATION AND COMMUNICATION TECHNOLOGY
@@ -9907,7 +9778,7 @@ Enabling Environment | Index on the progress of putting legal enabling environme
 Index on the progress of building institutions for the ICT Sector. | Ministry of Communications and IT and Na- tional ICT Council are the existing. | ICT Sector institutions will be built (2013)
 ICT Literacy improved | Index on the progress of establishment of ICT centers in 34 Pro- | 15 | Improved ICT Literacy, 34 provinces 2013
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 251
 
@@ -9915,19 +9786,18 @@ Afghanistan National Development Strategy (ANDS)
 
 [[START OF PAGE 312]]
 
-vincial capitals
---- | --- | ---
+ | vincial capitals |  | 
 Improved ICT coverage and Infrastructure | Index on the progress of putting in place improved infrastructure for the ICT Sector. | GCN, DCN, VCN, CCN, OFC and NDC pro- jects are brought, implemented at present. | By end-2010, a national telecommunications network to be put in place so that more than 80% of Afghans will have access to affordable telecommunications.
-% of Afghans having access to affordable telecommunications | 70% | 80% (2010)
-% increase in annual revenue generated from the ICT Sector | US$ 75 million | More than US$ 100 million dollars per year are gener- ated in public revenues by end 2010
-% of population access to mobile phones | 20% | Increased Access to mobile phones
-number of internet users | 500,000 | Increased Access to internet
-# of Post Offices connected to a well-functioning communication network and equipped | 44 | Increased number of post offices connected
+ | % of Afghans having access to affordable telecommunications | 70% | 80% (2010)
+ | % increase in annual revenue generated from the ICT Sector | US$ 75 million | More than US$ 100 million dollars per year are gener- ated in public revenues by end 2010
+ | % of population access to mobile phones | 20% | Increased Access to mobile phones
+ | number of internet users | 500,000 | Increased Access to internet
+ | # of Post Offices connected to a well-functioning communication network and equipped | 44 | Increased number of post offices connected
 
 #### PILLAR: INFRASTRUCTURE
 ##### SECTOR: MINES AND NATURAL RESOURCES
---- | --- | --- | ---
 Expected Outcomes | Indicator | Baseline | Targets
+--- | --- | --- | ---
 Strong regulatory framework in place | Approval of Gas Law Approval of Mineral Regulations Approval of Hydrocarbons Regulations | Minerals and Hydrocarbons law has been passed | Creating enabling environment including legal one for increased investment in mining sector (2013)
 Increased Private Sector In- vestment in mining sector | Increase in net revenue of ministry of Mines | In current year (1386)net revenue of ministry of mines is US$ 32 million | Increase net revenue of ministry of mines after seven years to US$ 1 billion
 Geophysical and geological information available | Survey of Minerals and Hydrocarbons | Surveys conducted in this regard cover only 10% and 4% of country's total hydrocarbons and minerals respectively | Survey of 5% area of country's natural resources ( minerals and hydrocarbons)
@@ -9936,7 +9806,7 @@ Increased access to water re- sources | Increased access to safe drinking water 
 
 252
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 312]]
 
@@ -9944,29 +9814,29 @@ Afghanistan National Development Strategy (ANDS)
 
 #### PILLAR: EDUCATION
 ##### SECTOR: EDUCATION AND MEDIA, CULTURE AND YOUTH
---- | --- | --- | ---
 Expected Outcomes | Indicators | Baseline | Targets
+--- | --- | --- | ---
 ###### PRIMARY AND SECONDRY EDUCATION
 Improved quality of education | Index on the progress of putting systems, institutions, procedures and legal framework in place for improving the quality of educa- tion. | Started in 1386 and will con- tinued till 1389 (% TBD) | EMIS is completed, NIMA, NCB are on going, Education Law's draft is completed, Law for private Schools are completed.
-Index on the process of designing and conducting competency test for teachers including principals. | Started in 1387 (% TBD) | 70% of teachers pass competency test ( minimum of 40% women)
-No. of competent teachers (male and female). | 54,093 male (2002) 20,508 female (2002) EMIS | At least 140,000 competent teachers Increase Female teachers by 50%
-No. of competent principals (male and female) | Under Assessment | 26,000 school principals
-Primary Student/Teacher ratio | 43 (2002) | TBD
-Government Expenditure per student | $12.1 (2002) | TBD
-Index on the progress of designing and conducting competency test for students. | Started in 1387 | Competency Test for students prepared and implemented.
-Index on the progress of preparation and implementation of new curriculum for primary and secondary schools. | 1-6 Class Book developed and 7-12 Class under developing | New curriculum for primary and secondary schools pre- pared and implemented.
-Index on the progress of establishment of separate body responsi- ble for standards and accreditation of all primary and secondary schools. | On progress and WB is sup- porting this part | Established separate body responsible for standards and accreditation of all primary and secondary schools.
+ | Index on the process of designing and conducting competency test for teachers including principals. | Started in 1387 (% TBD) | 70% of teachers pass competency test ( minimum of 40% women)
+ | No. of competent teachers (male and female). | 54,093 male (2002) 20,508 female (2002) EMIS | At least 140,000 competent teachers Increase Female teachers by 50%
+ | No. of competent principals (male and female) | Under Assessment | 26,000 school principals
+ | Primary Student/Teacher ratio | 43 (2002) | TBD
+ | Government Expenditure per student | $12.1 (2002) | TBD
+ | Index on the progress of designing and conducting competency test for students. | Started in 1387 | Competency Test for students prepared and implemented.
+ | Index on the progress of preparation and implementation of new curriculum for primary and secondary schools. | 1-6 Class Book developed and 7-12 Class under developing | New curriculum for primary and secondary schools pre- pared and implemented.
+ | Index on the progress of establishment of separate body responsi- ble for standards and accreditation of all primary and secondary schools. | On progress and WB is sup- porting this part | Established separate body responsible for standards and accreditation of all primary and secondary schools.
 Literacy rates improved | Adult Literacy rate | 28% (2000) | TBD
-Total enrolment level (millions) | 5.9 million enrolled at schools (1386) | 7.7 m children enrolled (1389)
-% of boys and girls enrolled. | 35% and 35% respectively | Enrolment Rates (Boys 75%, Girls 60%) (1389)
-No. of illiterates in the country (male and female) | 11.2 million illiterate (1386) | Separate program for non-formal education in place
-Primary Completion Rate (Percentage of all children that com- pleted primary schooling) | 32.3% (2005) | TBD
+ | Total enrolment level (millions) | 5.9 million enrolled at schools (1386) | 7.7 m children enrolled (1389)
+ | % of boys and girls enrolled. | 35% and 35% respectively | Enrolment Rates (Boys 75%, Girls 60%) (1389)
+ | No. of illiterates in the country (male and female) | 11.2 million illiterate (1386) | Separate program for non-formal education in place
+ | Primary Completion Rate (Percentage of all children that com- pleted primary schooling) | 32.3% (2005) | TBD
 Equal opportunity for all | Percentage of children having access to schools | 55% | 75% of school-age children to be within reach of a school with significantly reduced gender and provincial disparity
-Total number of learning spaces (formal/informal) | 7,027 (2002) | TBD
-ratio of boys and girls enrolled | 70% boys (2002) 30% girls (2002) | 50% each
-No. of new school buildings constructed with basic amenities for both male and female | 692 1386 | At least 90% schools and buildings have male and female facilities by 1389
+ | Total number of learning spaces (formal/informal) | 7,027 (2002) | TBD
+ | ratio of boys and girls enrolled | 70% boys (2002) 30% girls (2002) | 50% each
+ | No. of new school buildings constructed with basic amenities for both male and female | 692 1386 | At least 90% schools and buildings have male and female facilities by 1389
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 253
 
@@ -9976,29 +9846,29 @@ Afghanistan National Development Strategy (ANDS)
 
 #### PILLAR: EDUCATION
 ##### SECTOR: EDUCATION AND MEDIA, CULTURE AND YOUTH
---- | --- | --- | ---
 Expected Outcomes | Indicators | Baseline | Targets
-Index on the progress of providing equal opportunity for all for education | establishment of (1,200 new schools and 1,200 CBS)and construction of 692 new schools, recruitment of 149,000 teachers (40,000 Female) | Established and constructed new schools, recruitment of teachers, especially female teachers.
+--- | --- | --- | ---
+ | Index on the progress of providing equal opportunity for all for education | establishment of (1,200 new schools and 1,200 CBS)and construction of 692 new schools, recruitment of 149,000 teachers (40,000 Female) | Established and constructed new schools, recruitment of teachers, especially female teachers.
 ###### HIGHER EDUCATION
 Improved quality of academic teaching and research | Index on the progress of putting in place policies, institutions and systems for improving quality of academic teaching and research. | To be determined | Improved quality of academic teaching and research by 2013
-No. of faculty members benefited from such programs | To be determined | Capacity building of faculty members through partnership programs
-No. of degree or PG courses where curriculum has been revised | To be determined | New Curriculum for all courses in place by 1388
-No. of faculty members appointed (male and female) | To be determined | 3000 new faculty members to be recruited from the region by 1389
-Improved access to higher education | No. of students enrolled in the universities (male and female). | 52200 enrolled male and fe- male (1386) | 100,000 students enrolled in universities by 1389
-No. of new facilities constructed at universities across the country. | 7 facilities constructed | Construct 41 new facilities at universities across the coun- try.
-No. of new dormitories constructed for males. No. of new dormitories constructed for females. | 2 Female dormitories con- structed | Construction of 24 new dormitories (12 for women and 12 for men)
-Index on the progress of improving the quality of higher education.
+ | No. of faculty members benefited from such programs | To be determined | Capacity building of faculty members through partnership programs
+ | No. of degree or PG courses where curriculum has been revised | To be determined | New Curriculum for all courses in place by 1388
+ | No. of faculty members appointed (male and female) | To be determined | 3000 new faculty members to be recruited from the region by 1389
+Improved access to higher educa- tion | No. of students enrolled in the universities (male and female). | 52200 enrolled male and fe- male (1386) | 100,000 students enrolled in universities by 1389
+ | No. of new facilities constructed at universities across the country. | 7 facilities constructed | Construct 41 new facilities at universities across the coun- try.
+ | No. of new dormitories constructed for males. No. of new dormitories constructed for females. | 2 Female dormitories con- structed | Construction of 24 new dormitories (12 for women and 12 for men)
+ | Index on the progress of improving the quality of higher education. |  | 
 ###### VOCATIONAL EDUCATION
 Improved quality of vocational education | Index on the progress of improving the quality of vocational edu- cation. | To be determined | Quality of vocational Education will considerably be improved (2013)
 Improved access to vocational education | Index on the progress of improving access to vocational education. | To be determined | Improved access to vocational education will be available (2013)
-No. of persons trained through NSDP (male and female)) | To be determined | The NSDP will provide training to 150,000 unemployed Afghan women and men through competitive bidding procedures
+ | No. of persons trained through NSDP (male and female)) | To be determined | The NSDP will provide training to 150,000 unemployed Afghan women and men through competitive bidding procedures
 ###### SPORTS
 Improved sports facilities | Index on the progress to provide improved sports facilities. | To be determined | Sport facilities will be improved in all provinces of Af- ghanistan (2013)
 ###### SCIENCE ACADEMY
 
 254
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 314]]
 
@@ -10006,33 +9876,33 @@ Afghanistan National Development Strategy (ANDS)
 
 #### PILLAR: EDUCATION
 ##### SECTOR: EDUCATION AND MEDIA, CULTURE AND YOUTH
---- | --- | --- | ---
 Expected Outcomes | Indicators | Baseline | Targets
+--- | --- | --- | ---
 Enhanced contribution of the Academy in Science | Index on the progress to provide enhanced contribution of the Academy in Science. | To be determined | By 1388 make the Academy competent enough to pro- mote the cause of science
 
-PILLAR: EDUCATION
+#### PILLAR: EDUCATION
 ##### SECTOR: MEDIA, CULTURE AND YOUTH
 
 Expected Outcomes | Indicators | Baseline | Targets
 --- | --- | --- | ---
 Afghanistan’s cultural Heritage Protected and Preserved | % completion of cultural heritage inventory/registration | (1385) 41000 artifacts registered | Inventory of Afghan cultural artifacts prepared by 2010
-# of rehabilitated historical monuments | (up to 1386) 1271 archeological sites | All historical monuments rehabilitated and protected by 2010
-# of rehabilitated/constructed museums | 4 Reconstructed | TBD
-Index on progress of taking measures to revive the Afghan cultural heritage, to stop the illegal removal | TBD | Measures will be taken to revive the Afghan cultural heri- tage, to stop the illegal removal of cultural material and to restore damaged monuments and artifacts by end-2010
+ | # of rehabilitated historical monuments | (up to 1386) 1271 archeological sites | All historical monuments rehabilitated and protected by 2010
+ | # of rehabilitated/constructed museums | 4 Reconstructed | TBD
+ | Index on progress of taking measures to revive the Afghan cultural heritage, to stop the illegal removal | TBD | Measures will be taken to revive the Afghan cultural heri- tage, to stop the illegal removal of cultural material and to restore damaged monuments and artifacts by end-2010
 Free and independent media | Index on progress of creating an environment for free and independent media | Media law is drafted, needs amendments | Media Law to be passed and implemented by 2008
 Empowerment of Youth | # of youths registered as volunteer corps for welfare activi- ties like rural health care campaigns etc. | TBD | TBD
-# of youth clubs registered | 60 LYC (Local Youth Councils) established in 60 Villages of 6 Provinces | TBD
-Index on the progress of providing legal, policy, institu- tional and systemic framework for empowerment of youth. | 34925 both Male and female re- ceived training | Legal and Institutional framework for youth empowerment will be in place (2013)
+ | # of youth clubs registered | 60 LYC (Local Youth Councils) established in 60 Villages of 6 Provinces | TBD
+ | Index on the progress of providing legal, policy, institu- tional and systemic framework for empowerment of youth. | 34925 both Male and female re- ceived training | Legal and Institutional framework for youth empowerment will be in place (2013)
 
 #### PILLAR: HEALTH
 ##### SECTOR: HEALTH & NUTRITION
---- | --- | --- | ---
 Expected Outcomes | Indicators | Baseline | Targets
+--- | --- | --- | ---
 Increased quality of health care services | Number of functional public and private hospitals set up | Under Assessment | Functional regulatory framework for quality health services in place by 2013
-No. of provinces where organized structure is in place | Under Assessment | Functional organization structure for quality health services in place by 2013
-Index on the progress of putting in place quality health care | Under Assessment | Increased quality of health care services will be avail-
+ | No. of provinces where organized structure is in place | Under Assessment | Functional organization structure for quality health services in place by 2013
+ | Index on the progress of putting in place quality health care | Under Assessment | Increased quality of health care services will be avail-
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 255
 
@@ -10040,18 +9910,18 @@ Afghanistan National Development Strategy (ANDS)
 
 [[START OF PAGE 316]]
 
-services | able throughout Afghanistan by 2013
+ | services |  | able throughout Afghanistan by 2013
 --- | --- | --- | ---
-Overall score on the Balanced Scorecard | TBD | TBD
-Increased access to health care ser- vices | % of population within two hours walking distance from PHC services | ii) 66% - of population with nearby access to PHCs (2006) | 90% of population with access to PHC services (2010)
-No. of health facilities, district, provincial and regional hospitals equipped with standard package of defined clini- cal and diagnostic services | Under Assessment | Comprehensive referral system integrated with BPHS & EPHS in place by 2013
-% of TB cases detected and treated | 68% (2006) | Increase of 12% from the baseline
-% of Malaria cases detected and using preventive treatment | To be assessed | Reduction by 60% from baseline
+Increased access to health care ser- vices | Overall score on the Balanced Scorecard | TBD | TBD
+ | % of population within two hours walking distance from PHC services | ii) 66% - of population with nearby access to PHCs (2006) | 90% of population with access to PHC services (2010)
+ | No. of health facilities, district, provincial and regional hospitals equipped with standard package of defined clini- cal and diagnostic services | Under Assessment | Comprehensive referral system integrated with BPHS & EPHS in place by 2013
+ | % of TB cases detected and treated | 68% (2006) | Increase of 12% from the baseline
+ | % of Malaria cases detected and using preventive treatment | To be assessed | Reduction by 60% from baseline
 Effective Reproductive and Child health system | % of children under 1 year having received measles anti- gen, DPT & hepatitis dosage and polio drops | 77%(2006) | Achieve and sustain above 90% national coverage (2013).
-% of children under 1 year received measles antigen. | 35% (2000) | Achieve above 90% coverage by 2010.
-Maternal mortality ratio | 1600 deaths /100,000 live births (2000) | Reduce by 50% between 2002 and 2013
-Under 5 mortality rate in the country (%) | 257 deaths/1000 live births (2000) | Reduce by 50% between 2003 and 2013
-Infant mortality rate (IMR) in the country (%) | 165 deaths per 1000 live births(2000) | Reduce infant mortality rate by 30% by 2013 from the baseline of 2000
+ | % of children under 1 year received measles antigen. | 35% (2000) | Achieve above 90% coverage by 2010.
+ | Maternal mortality ratio | 1600 deaths /100,000 live births (2000) | Reduce by 50% between 2002 and 2013
+ | Under 5 mortality rate in the country (%) | 257 deaths/1000 live births (2000) | Reduce by 50% between 2003 and 2013
+ | Infant mortality rate (IMR) in the country (%) | 165 deaths per 1000 live births(2000) | Reduce infant mortality rate by 30% by 2013 from the baseline of 2000
 
 #### PILLAR: AGRICULTURE & RURAL DEVELOPMENT
 ##### SECTOR: AGRICULTURE & RURAL DEVELOPMENT
@@ -10066,7 +9936,7 @@ Improved Local Governance | Index on the progress of strengthening local governa
 
 256
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 316]]
 
@@ -10074,32 +9944,32 @@ Afghanistan National Development Strategy (ANDS)
 
 #### PILLAR: AGRICULTURE & RURAL DEVELOPMENT
 ##### SECTOR: AGRICULTURE & RURAL DEVELOPMENT
---- | --- | --- | ---
 Expected Outcomes | Indicators | Baseline | Targets
-# CDCs established | 16,502 (2007) | TBD
-# CDPs completed | 16,263 (2007) | TBD
-# DDAs Established | 256 (2007) | TBD
-# DDPs incorporated into provincial plans | # (2007) | TBD
-Increased Agriculture Production and Productivity Improved agriculture and rural infrastructure | Index on the progress of increasing agriculture production and productiv- ity. | TBD | Increased Agriculture Productivity (2013)
-# of increased irrigated areas | 4500 hectares irri- gated (2008) | TBD
-# hectares with new water efficiency techniques ( 2008) | 1,000 hectares are water efficient (2008) | TBD
-# hectares with new mgt techniques | 1400 hectares (2008) | TBD
-Index on the progress of improving agriculture and rural infrastructure. | TBD | Improved Agriculture and Rural Infrastructure (2013)
-# of increased irrigated areas | 4500 hectares irri- gated (2008) | TBD
-% of villages having access to drinking water | 100% (2013)
-# hectares with new water efficiency techniques | 1,000 hectares are water efficient (2008) | TBD
-# hectares with new management techniques | 1400 hectares (2008) | TBD
-% of rural population have access improved sanitation facilities | 3% (2007) | 70% (2013)
-Km of rural roads constructed and rehabilitated | 13,500 km (2007) | To be assessed
-# Villages connected by road to the district centers or major service cen- ters. | 4743 (2007) | 56% of all villages (2013)
-% of rural population receiving income through participation in short- term employment generation activities (non-agrarian) | 15% (2007) | TBD
-# of labor days generated | 24.5m (2007) | 110m (2013)
-# of villages benefiting from different sources of electricity | 7665 (2007) | TBD
-% of villages that will benefit from new/ rehabilitated small scale irriga- tion schemes | 36% (2007) | 68% (2013)
-# (hectares) of New irrigated areas increase | 1.5 ha (2007) | TBD
-Improved water efficiency in existing irrigation | 25% (2006) | TBD
+--- | --- | --- | ---
+ | # CDCs established | 16,502 (2007) | TBD
+ | # CDPs completed | 16,263 (2007) | TBD
+ | # DDAs Established | 256 (2007) | TBD
+ | # DDPs incorporated into provincial plans | # (2007) | TBD
+Increased Agriculture Produc- tion and Productivity Im- proved agriculture and rural infrastructure | Index on the progress of increasing agriculture production and productiv- ity. | TBD | Increased Agriculture Productivity (2013)
+ | # of increased irrigated areas | 4500 hectares irri- gated (2008) | TBD
+ | # hectares with new water efficiency techniques ( 2008) | 1,000 hectares are water efficient (2008) | TBD
+ | # hectares with new mgt techniques | 1400 hectares (2008) | TBD
+ | Index on the progress of improving agriculture and rural infrastructure. | TBD | Improved Agriculture and Rural Infrastructure (2013)
+ | # of increased irrigated areas | 4500 hectares irri- gated (2008) | TBD
+ | % of villages having access to drinking water |  | 100% (2013)
+ | # hectares with new water efficiency techniques | 1,000 hectares are water efficient (2008) | TBD
+ | # hectares with new management techniques | 1400 hectares (2008) | TBD
+ | % of rural population have access improved sanitation facilities | 3% (2007) | 70% (2013)
+ | Km of rural roads constructed and rehabilitated | 13,500 km (2007) | To be assessed
+ | # Villages connected by road to the district centers or major service cen- ters. | 4743 (2007) | 56% of all villages (2013)
+ | % of rural population receiving income through participation in short- term employment generation activities (non-agrarian) | 15% (2007) | TBD
+ | # of labor days generated | 24.5m (2007) | 110m (2013)
+ | # of villages benefiting from different sources of electricity | 7665 (2007) | TBD
+ | % of villages that will benefit from new/ rehabilitated small scale irriga- tion schemes | 36% (2007) | 68% (2013)
+ | # (hectares) of New irrigated areas increase | 1.5 ha (2007) | TBD
+ | Improved water efficiency in existing irrigation | 25% (2006) | TBD
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 257
 
@@ -10109,12 +9979,12 @@ Afghanistan National Development Strategy (ANDS)
 
 #### PILLAR: AGRICULTURE & RURAL DEVELOPMENT
 ##### SECTOR: AGRICULTURE & RURAL DEVELOPMENT
---- | --- | --- | ---
 Expected Outcomes | Indicators | Baseline | Targets
+--- | --- | --- | ---
 Facilitated Economic Regen- eration | Index on the progress of facilitating economic regeneration. | TBD | By end-2010, a policy and regulatory framework will be devel- oped to support the establishment of small and medium rural en- terprises, and institutional support will be established in all 34 provinces to facilitate new entrepreneurial initiatives by rural communities and organisations
-# of rural households receiving services from formal financial institu- tions | 219,000 (2007) | 950,000 (2013)
-# of agri and non-agri-businesses established | TBD | TBD
-# of poor and vulnerable rural households supported through economic regeneration activities | TBD | TBD
+ | # of rural households receiving services from formal financial institu- tions | 219,000 (2007) | 950,000 (2013)
+ | # of agri and non-agri-businesses established | TBD | TBD
+ | # of poor and vulnerable rural households supported through economic regeneration activities | TBD | TBD
 Reduced poppy cultivation through Alternative Liveli- hood | Index on the progress of reducing poppy cultivation through alternative livelihoods. | TBD | By end-2010, decrease in the absolute and relative size of the drug economy in line with the Government's Millennium Development Goal target
 
 #### PILLAR: SOCIAL PROTECTION
@@ -10126,11 +9996,11 @@ Percentage of people living below the poverty line (based on Spring data) | 42% 
 Percentage of people who suffer from hunger | TBD | By end-2010 proportion of people who suffer from hunger will decrease by 5 percent
 Percentage of population below the minimum level of dietary energy consumption | 45% | By end-2012/13 the proportion of the population below the mini- mum level of dietary energy consumption will decrease by 2 per- cent on annual basis
 Percentage of poor female headed households | TBD | By end-2010 number of female headed households that are chronically poor will be reduced by 20 percent and their employ- ment rate will increase by 20 percent
-Percentage of employed females that on the head of the | TBD | TBD
+ | Percentage of employed females that on the head of the | TBD | TBD
 
 258
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 318]]
 
@@ -10140,24 +10010,24 @@ Afghanistan National Development Strategy (ANDS)
 ##### SECTOR: SOCIAL PROTECTION
 Expected Outcomes | Indicators | Baseline | Targets
 --- | --- | --- | ---
-poor households
-Number of persons with disabilities received micro credit | TBD | By end-2010 increased assistance will be provided to meet the special needs of all disabled people, including their integration into society through opportunities for education, skill develop- ment and gainful employment
-Number of persons with disabilities received pension | TBD
-Number of people received training | TBD
-Number Persons with Disabilities received Inclusive and Exclusive Education Services | TBD
-Number of Persons with Disabilities received Physical Rehabilitation Services | TBD
-Number of Persons with Disability received other services | TBD
+ | poor households |  | 
+ | Number of persons with disabilities received micro credit | TBD | By end-2010 increased assistance will be provided to meet the special needs of all disabled people, including their integration into society through opportunities for education, skill develop- ment and gainful employment
+ | Number of persons with disabilities received pension | TBD | 
+ | Number of people received training | TBD | 
+ | Number Persons with Disabilities received Inclusive and Exclusive Education Services | TBD | 
+ | Number of Persons with Disabilities received Physical Rehabilitation Services | TBD | 
+ | Number of Persons with Disability received other services | TBD | 
 Reduction in infant mortality | Percentage of underweight children in urban and rural; areas | TBD | By end-2012/13 prevalence of underweight children in rural and urban areas will decrease by 2 percent on annual basis
 Improved Social Inclusion | Number of disabled that have gone trough skill develop- ment program | TBD | By end-2010 provide training for 150 000 people of which women should be 35 percent and disabled 10 percent
-Number of women that have gone through skill develop- ment program | TBD | TBD
-Percentage of disabled in the public administration | TBD | By end-2012/13 the Government will employ at least 3 percent of disabled and 30 percent of women within its administration
-Percentage of women in the public administration | TBD | TBD
-Number of treated drug users | TBD | By end-2010 number of treated drug users will increase by 20 percent
+ | Number of women that have gone through skill develop- ment program | TBD | TBD
+ | Percentage of disabled in the public administration | TBD | By end-2012/13 the Government will employ at least 3 percent of disabled and 30 percent of women within its administration
+ | Percentage of women in the public administration | TBD | TBD
+ | Number of treated drug users | TBD | By end-2010 number of treated drug users will increase by 20 percent
 Improved old age protection | Percentage of collected pension contribution of total pen- sion payments | 2% | By 2012/13 implement the pension reform and increase collec- tion of the pension contributions
 Improved disaster preparedness and response | Number of the people affected by the natural disaster | TBD | By end-2010 an effective system of disaster preparedness and response will be in place
-Monetary value of the destroyed assets as result of natural disaster | TBD | TBD
+ | Monetary value of the destroyed assets as result of natural disaster | TBD | TBD
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 259
 
@@ -10165,7 +10035,7 @@ Afghanistan National Development Strategy (ANDS)
 
 [[START OF PAGE 320]]
 
-PILLAR: SOCIAL PROTECTION
+#### PILLAR: SOCIAL PROTECTION
 ##### SECTOR: REFUGEES & IDPS
 
 Expected Outcomes | Indicators | Baselines | Targets
@@ -10189,7 +10059,7 @@ Surplus land is used by the private sector to increase economic activity | Index
 
 260
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 [[END OF PAGE 320]]
 
@@ -10197,19 +10067,19 @@ Afghanistan National Development Strategy (ANDS)
 
 #### PILLAR: ECONOMIC GOVERNANCE & PRIVATE SECTOR DEVELOPMENT
 ##### SECTOR: PRIVATE SECTOR DEVELOPMENT AND TRADE
---- | --- | --- | ---
 Expected Outcomes | Indicators | Baselines | Targets
+--- | --- | --- | ---
 Regulations are streamlined and better enforced | Index on the progress of putting in place legal, regulatory and facilitating framework for registration and regulation of private sector. | TBD | TBD
-% increase in firms formalizing their operations | 80% of economic activity is in the informal sector | 60% of economic activity is in the informal sector by the end of 1390
-% increase in tax revenue from the increased number of formalized firms | % of tax revenue from businesses | TBD
+ | % increase in firms formalizing their operations | 80% of economic activity is in the informal sector | 60% of economic activity is in the informal sector by the end of 1390
+ | % increase in tax revenue from the increased number of formalized firms | % of tax revenue from businesses | TBD
 Civil society groups are able to op- erate effectively to aid in the devel- opment process. | Index on the progress of putting necessary legal, regulatory and facilitat- ing frameworks in place so that civil society groups are able to operate effectively to aid in the development process. | TBD | TBD
-Number of NGOs and Civil Society organizations registered | TBD | TBD
+ | Number of NGOs and Civil Society organizations registered | TBD | TBD
 Economic activity increases in re- sponse to increased human capacity and skill sets | Number of people employed in the private sector | Data for formal sector employment at the end of 1386 | Increase in formal sector employment of 10% per annum in absolute numbers Increase in number of courses by 50% by the end of 1389
 Increased provincial economic growth | Index on the progress of promoting increased provincial economic growth. | TBD | TBD
 Increased and more effective com- petition | Index on the progress of putting in place a legal framework to facilitate increased and more effective competition | TBD | TBD
 The Private Sector Development and Trade sector strategy is implemented | Index on the progress of implementation of the Private Sector Develop- ment and Trade Sector Strategies. | 2008 World Bank data in Doing Business data Indicators | Afghanistan improves its overall Doing Business ranking by a minimum of five places each year 60% of economic activity is in the informal sector by the end of 1390
 
-Afghanistan National Development Strategy (ANDS)
+Afghanistan National Development Strategy (ANDS )
 
 261
 
