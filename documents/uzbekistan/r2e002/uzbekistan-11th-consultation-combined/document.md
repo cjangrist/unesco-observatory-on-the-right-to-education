@@ -42,7 +42,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing  in  mind  the  differences  in  legal  scope  inherent  to  the  nature  of  these  two  categories  of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO's Constitution states that 'Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -60,6 +60,8 @@ The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  C
 
 [[START OF PAGE 3]]
 
+and conventions referred to in Article IV, paragraph 4'. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+
 ## 4. Participation in consultations
 
 The reporting  period  for  the  11th  consultation  on  the  implementation  of  the  Convention  and  the Recommendation covers four years (2021-2024).
@@ -72,7 +74,7 @@ In the preparation of reports, Member States are encouraged to provide substanti
 
 Relevant information supplied for other reporting instances may be reproduced or referred to with precise indication as to its retrieval. Similarly, hyperlinks to any useful documents or relevant legal and policy texts are most welcome and texts can also be added in the annex.
 
-Country  reports  submitted  for  previous  consultations  can  be  found  on  the Observatory  on  the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8 , the online monitoring tool for girls' and women's right to education. Information and data regarding countries ' education  systems  are  also  available  through  the  UNESCO  Institute  for  Statistics database 9 . Beyond monitoring purposes, the consultation findings and reports inform broader work serving for knowledge generation, advocacy, and technical cooperation.
+Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8, the online monitoring tool for girls' and women's right to education. Information and data regarding countries' education systems are also available through the UNESCO Institute for Statistics database 9. Beyond monitoring purposes, the consultation findings and reports inform broader work - serving for knowledge generation, advocacy, and technical cooperation.
 
 ## 5. Modalities and structure
 
@@ -156,7 +158,7 @@ Constitution of the Republic of Uzbekistan (adopted on May 1, 2023);
 
 Law of  the  Republic  of  Uzbekistan  'On  Education'  (adopted  on  September  23,  2020  No. ZRU-637);
 
-L aw 'On Preschool Education and Upbringing' , 2019.
+Law 'On Preschool Education and Upbringing', 2019.
 
 - Have courts, tribunals and/or administrative authorities adjudicated on issues or violations regarding the right to education? 11
 
@@ -210,13 +212,25 @@ All  of  the  above  measures  have  contributed  to  the  development  of  the 
 
 A particularly positive trend is the increase in enrolment of girls in preschool education, which until 2019, traditionally, as at all levels of education, was lower than the enrolment of boys. Active promotion of private sector involvement in the system and growth in the number of family preschool educational institutions contributed to the increase in  enrolment, including children from low-income families, in preschool education.
 
+Численность детей на 100 мест, чел.
+Охват детей 3-6 лет дошкольным образованием, %
+2015 г. 89 20,8
+2016 г. 96 23,8
+2017 г. 100 25,4
+2018 г. 108 32,0
+2019 г. 118 40,0
+2020 г. 103 50,9
+2021 г. 104 62,0
+
 #### 1.1 Non-discrimination and equality in education
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-- Please indicate measures adopted to both prevent and eliminate discrimination in education within  the  meaning  of  the  Convention/Recommendation 13 ,  and  ensure  equal  access  to  all levels and types of education (please tick all that apply):
+- Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation 13, and ensure equal access to all levels and types of education (please tick all that apply):
+
+For reference: This notably is covered under SDG target 4.1 and partly target 4.b 14
 
 ☒ Legal texts 15 prohibit discrimination and guarantee equal access to education:
 
@@ -230,13 +244,11 @@ A particularly positive trend is the increase in enrolment of girls in preschool
 
 ☒ In higher education
 
-` ☒ In adult education and alternative learning
+☒ In adult education and alternative learning
 
 - Please indicate the relevant legal provisions:
 
-For reference: This notably is covered under SDG target 4.1 and partly target 4.b 14
-
-Citizens' access to education, regardless of their nationality, is guaranteed by the Constitution,  the  Education  Act,  the  Preschool  Education  and  Upbringing  Act  and  other legal and regulatory instruments. Under article 4 of the Education Act, the basic principles of  education  are:  recognition  of  the  priority  of  education;  freedom  to  choose  the  form  of education; inadmissibility of discrimination in education; provision of equal opportunities for education; and introduction of national and universal values in education and upbringing.
+Citizens' access to education, regardless of their nationality, is guaranteed by the Constitution, the Education Act, the Preschool Education and Upbringing Act and other legal and regulatory instruments. Under article 4 of the Education Act, the basic principles of education are: recognition of the priority of education; freedom to choose the form of education; inadmissibility of discrimination in education; provision of equal opportunities for education; and introduction of national and universal values in education and upbringing.
 
 In  the  Republic  of  Karakalpakstan,  in  order  to  increase  the  level  of  enrolment  in  higher education,  the  Councils  of  Ministers  and  provincial  administrations,  together  with  the Ministry  of  Higher  Education,  have  established  in  each  province,  by  1  September  2021, public  organizations  and  systems  of  education  and  upbringing  in  the  mother  tongue  of ethnic groups. In accordance with article 33 of the Education Act and article 6 of the State Language  Act,  the  right  of  persons  living  in  the  Republic  of  Karakalpakstan  to  freely choose the language of instruction is being realized
 
@@ -489,7 +501,7 @@ training in the field of defense, security and law enforcement.
 
 Adult learning and education are the central components of lifelong learning, which include all forms of education and learning aimed at ensuring the participation of adults in society and work life, as well as encompassing the totality of formal, non-formal and informal education processes.
 
-Formal education is institutionalized (embodying certain rules and norms), purposeful and planned with the participation of state educational institutions and accredited nongovernmental educational organizations.
+Formal education is institutionalized (embodying certain rules and norms), purposeful and planned with the participation of state educational institutions and accredited non-governmental educational organizations.
 
 Non-formal education is institutionalized (embodying certain rules and norms),
 
@@ -645,9 +657,9 @@ Conditions  are  created  for  children  (or  persons)  held  in  institutions  
 
 Today,  education  in  the  public  education  system  is  conducted  in  seven  languages.  The educational process in schools is conducted in Uzbek, as well as in Russian, Karakalpak, Tajik, Kazakh, Kyrgyz and Turkmen languages.
 
-In particular, 5.3 million students are enrolled in 8,883 Uzbek-language schools; 634,000 in 81 Russian-language schools, 126,000 in 241 Karakalpak-language schools, 70,000 in 270 Tajik-language  schools,  56,000  in  389  Kazakh-language  schools,  8,000  in  52  Kyrgyzlanguage schools and 9,000 in 43 Turkmen-language schools.
+In particular, 5.3 million students are enrolled in 8,883 Uzbek-language schools; 634,000 in 81 Russian-language schools, 126,000 in 241 Karakalpak-language schools, 70,000 in 270 Tajik-language schools, 56,000 in 389 Kazakh-language schools, 8,000 in 52 Kyrgyz-language schools and 9,000 in 43 Turkmen-language schools.
 
-There are 86,000 pre-school education groups in Uzbek, Russian, Karakalpak, Tajik and Kazakh,  attended  by  1,959,021  children.  The  Ministry  of  Preschool  Education,  with  the support  of  the  National  Television  and  Radio  Company  of  Uzbekistan  (in  Uzbek  and Russian),  has  organized  morning  exercises  based  on  the  'First  Step'  project,  'Ancient Cities of Uzbekistan' (in Uzbek), 'English' (in English), 'Basics of mental counting and mathematical calculations' and classes with a speech therapist. The 'First Step' t elevision programs also include cooking master classes, 'Creativity' - drawing and appliqué lessons, and dance master classes. TV programs on mental arithmetic, elementary mathematics and speech therapy are organized as additional educational content for children aged 6-7.
+There are 86,000 pre-school education groups in Uzbek, Russian, Karakalpak, Tajik and Kazakh, attended by 1,959,021 children. The Ministry of Preschool Education, with the support of the National Television and Radio Company of Uzbekistan (in Uzbek and Russian), has organized morning exercises based on the 'First Step' project, 'Ancient Cities of Uzbekistan' (in Uzbek), 'English' (in English), 'Basics of mental counting and mathematical calculations' and classes with a speech therapist. The 'First Step' television programs also include cooking master classes, 'Creativity' - drawing and appliqué lessons, and dance master classes. TV programs on mental arithmetic, elementary mathematics and speech therapy are organized as additional educational content for children aged 6-7.
 
  Combatting discrimination in terms of curriculum:
 
@@ -729,7 +741,7 @@ According to the Presidential Decree of 20.08.2020, the Concept of development o
 
 > 16 Teachers  are  prepared  to  teach  all  student  (beyond  just  students  with  disabilities),  equipping  them  with knowledge,  values  and  attitudes  that  permit  every  student  to  succeed.  See:  UNESCO  policy  paper:  Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  competencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive  and  supportive  learning  experience  that  offers  them  the  opportunity  to  succeed  whatever  their background.
 
@@ -769,39 +781,39 @@ There  is  still  a  room  for  improvement  to  create  equal  opportunities  t
 
 ☒ Providing financial incentives and fellowships
 
-☒ Teachers are trained (initial and inservice) on gender equality
+☒ Teachers are trained (initial and in-service) on gender equality
 
 ☒ Teachers are trained to combat stigmatisation 19
 
  Other:
 
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
-The  Presidential  Decree  of  March  7,  2022  approved  the  National  Program  for Increasing the Activity of Women in All Spheres of Economic, Political and Social Life of the Country for 2022 -2026. According to the Decree, conditions have been created to ensure girls' access to education, in particular:
-
-- Interest-free  loans  for  a  period  of  7  years  are  issued  to  pay  for  educational contracts(bachelor's degree), technical schools and colleges. 84,640 students studying in higher education institutions have been granted interest-free educational loans worth 872.2 billion soums for a period of 7 years.
-
-- 150 female students from socially needy families, orphans or those left without parental care from each oblast (a total of 2,100) are paid for educational contracts on  a  non-refundable  basis  annually  from  additional  sources  of  local  budgets.  In 2022, in order to support low-income women in accessing education, 35,689 out of 84,104 women in need were awarded letters of recommendation for admission to higher education through the xotin-qizlar.uz platform. Based on the results of the tests,  1,982  female  students  with  the  highest  scores  were  admitted  to  higher education institutions on the basis of a State grant;
-
-- In addition, 500 women who have at least 5 years of work experience in their
-
-> 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
-
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
-
-> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
-
-☒ All barriers for pregnant girls and young mothers  in  education  are  eliminated  to ensure the continuity of their education
+☒ All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
 
 ☒ Re-entry programmes for young mothers are provided for
 
-☒ Ensuring safe and adequate gendersensitive sanitation facilities 20
+☒ Ensuring safe and adequate gender-sensitive sanitation facilities 20
 
 ☒ Curricula are rid of all stereotypes 21 and bias
 
 ☒ Ensuring gender parity in science, technology, engineering and mathematics (STEM)
 
 ☒ Ensuring gender parity in technical and vocational training education and training (TVET)
+
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
+The Presidential Decree of March 7, 2022 approved the National Program for Increasing the Activity of Women in All Spheres of Economic, Political and Social Life of the Country for 2022–2026. According to the Decree, conditions have been created to ensure girls' access to education, in particular:
+
+- Interest-free loans for a period of 7 years are issued to pay for educational contracts(bachelor's degree), technical schools and colleges. 84,640 students studying in higher education institutions have been granted interest-free educational loans worth 872.2 billion soums for a period of 7 years.
+
+- 150 female students from socially needy families, orphans or those left without parental care from each oblast (a total of 2,100) are paid for educational contracts on a non-refundable basis annually from additional sources of local budgets. In 2022, in order to support low-income women in accessing education, 35,689 out of 84,104 women in need were awarded letters of recommendation for admission to higher education through the xotin-qizlar.uz platform. Based on the results of the tests, 1,982 female students with the highest scores were admitted to higher education institutions on the basis of a State grant;
+
+- In addition, 500 women who have at least 5 years of work experience in their
+
+> 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
+
+> 20 ' Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+
+> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
 [[END OF PAGE 21]]
 
@@ -859,8 +871,6 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 ☒ The right to carry out their own educational
 
-> 24 Supra note 15.
-
 ☒ Teachers are trained on intercultural education
 
 ☒ Teachers are trained to combat stigmatisation 24
@@ -869,11 +879,13 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 ☑ Native language instruction is ensured
 
+> 24 Supra note 15.
+
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-- activities is legally guaranteed for national minorities
+activities is legally guaranteed for national minorities
 
 ☒ Educational standards are established for educational institutions run by national minorities
 
@@ -883,37 +895,41 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
  Other 23 :
 
+for national minorities
+
+☒ Adapting curricula and teaching and learning methods to their needs for national minorities
+
+☒ Curricula are rid of all stereotypes 25 and bias
+
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-The  State  Inspectorate  for  Quality  Control  in  Education  under  the  Cabinet  of Ministers monitored the Law on Education and more than 200 regulatory legal acts. In order to regulate interethnic relations in the country, more than 40 laws and other normative legal acts have been adopted, directly aimed at preventing discrimination against citizens and other persons living in the country on the basis of national or ethnic affiliation, language or religion, ensuring interethnic harmony and tolerance, creating  equal  conditions  and  opportunities  for  the  realization  of  their  rights, freedoms and legitimate interests.
+The State Inspectorate for Quality Control in Education under the Cabinet of Ministers monitored the Law on Education and more than 200 regulatory legal acts. In order to regulate interethnic relations in the country, more than 40 laws and other normative legal acts have been adopted, directly aimed at preventing discrimination against citizens and other persons living in the country on the basis of national or ethnic affiliation, language or religion, ensuring interethnic harmony and tolerance, creating equal conditions and opportunities for the realization of their rights, freedoms and legitimate interests.
 
-Article  6  of  the  Labor  Code  of  01.04.1996,  which  is  called  "Prohibition  of discrimination in labor relations" notes that "all citizens have equal opportunities to possess and use labor rights. The establishment of any restrictions or the provision of  advantages  in  the  field  of  labor  relations  depending  on  gender,  age,  race, nationality, language, social origin, property and official status, attitude to religion, beliefs,  membership  in  public  associations,  as  well  as  other  circumstances  not related  to  the  business  qualities  of  employees  and  the  results  of  their  work,  is unacceptable and constitutes discrimination.
+Article 6 of the Labor Code of 01.04.1996, which is called "Prohibition of discrimination in labor relations" notes that "all citizens have equal opportunities to possess and use labor rights. The establishment of any restrictions or the provision of advantages in the field of labor relations depending on gender, age, race, nationality, language, social origin, property and official status, attitude to religion, beliefs, membership in public associations, as well as other circumstances not related to the business qualities of employees and the results of their work, is unacceptable and constitutes discrimination.
 
-Consistent measures have been taken to identify problems of the Lyuli/Roma ethnic group, including Lyuli/Roma  women,  in  obtaining identity documents, birth certificates for children, in realizing the right to education, health services, employment, social security, housing and other socio-economic rights.
+Consistent measures have been taken to identify problems of the Lyuli/Roma ethnic group, including Lyuli/Roma women, in obtaining identity documents, birth certificates for children, in realizing the right to education, health services, employment, social security, housing and other socio-economic rights.
 
-According to the Ministry of Internal Affairs, as of May 2021, there were 86,563 Lyuli/Roma in the country, of whom 45,092 were women and 41,471 men, 46,422 were minors who had reached the age of 16; 38,733 had a passport, 25,925 were under 16, of whom 16,719 had a birth certificate. A total of 53,666 persons were interviewed at their place of residence; 22 had certificates of residence for stateless persons and 3 had residence permits for foreign nationals in Uzbekistan. Measures were  taken  to  document  112  persons;  identity  documents  were  provided  to:  256
+According to the Ministry of Internal Affairs, as of May 2021, there were 86,563 Lyuli/Roma in the country, of whom 45,092 were women and 41,471 men, 46,422 were minors who had reached the age of 16; 38,733 had a passport, 25,925 were under 16, of whom 16,719 had a birth certificate. A total of 53,666 persons were interviewed at their place of residence; 22 had certificates of residence for stateless persons and 3 had residence permits for foreign nationals in Uzbekistan. Measures were taken to document 112 persons; identity documents were provided to: 256
 
 > 23 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
 
 > 25 Supra note 16.
 
-for national minorities
-
-☒ Adapting curricula and teaching and learning methods to their needs for national minorities
-
-☒ Curricula are rid of all stereotypes 25 and bias persons without birth certificates, identity cards and birth certificates Sociological  and  monitoring  studies  have  shown  that  the  Lyuli/Roma  living  in Uzbekistan  represent  a  separate  ethnographic  group,  whose  representatives  are descendants  of Lyuli/Roma  of  Indian  origin who  settled  in  Uzbekistan  and Tajikistan.
-
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-Among educated respondents there are more men than women (47.8% and 36.4% respectively), women do not complete compulsory general education (41.7%), and only  men  have  secondary  specialized  education  (36.4%).  The  majority  (85.7%) confirmed that the state does not restrict their children's rights to primary, secondary and general secondary education.
+persons without birth certificates, identity cards and birth certificates
 
-According to the Ministry of School and Preschool Education, 10,856 children are at home, 14,471 are in school, 444 are in Preschool education establishjments, 157 are in colleges, and 441 are in school institutions. According to the data of the Ministry of  Education,  53  luli/roma  students  are  studying  in  2  higher  and  7  specialized secondary vocational educational institutions. An action plan is being implemented to cover their education.
+Sociological and monitoring studies have shown that the Lyuli/Roma living in Uzbekistan represent a separate ethnographic group, whose representatives are descendants of Lyuli/Roma of Indian origin who settled in Uzbekistan and Tajikistan.
 
-In order to create all conditions for the development of the language and culture of all nationalities and ethnic groups living in the Republic of Uzbekistan, expanding coverage  and  providing  information  in  foreign  languages  (languages  of  different nationalities),  the  Television  and  Radio  Broadcasting  Company  has  created  an editorial board of information and educational programs, which currently broadcasts a total of 12 television programs twice a month: in Tajik - "Ranginkamon"; Kazakh "Didar"; in Korean - "Chinsen"; in Karakalpak - "Naopir". The program "Uzbekistan - Our Common Home" - about the way of life and traditions of different nationalities and ethnic groups living in the country, which is broadcast twice a month.
+Among educated respondents there are more men than women (47.8% and 36.4% respectively), women do not complete compulsory general education (41.7%), and only men have secondary specialized education (36.4%). The majority (85.7%) confirmed that the state does not restrict their children's rights to primary, secondary and general secondary education.
 
-There are 86,000 pre-school education groups in Uzbek, Russian, Karakalpak, Tajik and Kazakh, attended by 1,959,021 children. The Ministry of Preschool Education, with the support of the National Television and Radio Company of Uzbekistan (in Uzbek  and  Russian),  has  organized  morning  exercises  based  on  the  'First  Step' project, 'Ancient Cities of Uzbekistan' (in Uzbek), 'English' (in English), 'Basics of  mental  counting  and  mathematical  calculations'  and  classes  with  a  speech therapist. The 'First Step' pro ject's television programs also include cooking master classes, 'Creativity' - drawing and applique lessons, and dance master classes. TV programs  on  mental  arithmetic,  elementary  mathematics  and  speech  therapy  are organized as additional educational content for children aged 6-7.
+According to the Ministry of School and Preschool Education, 10,856 children are at home, 14,471 are in school, 444 are in Preschool education establishments, 157 are in colleges, and 441 are in school institutions. According to the data of the Ministry of Education, 53 luli/roma students are studying in 2 higher and 7 specialized secondary vocational educational institutions. An action plan is being implemented to cover their education.
+
+In order to create all conditions for the development of the language and culture of all nationalities and ethnic groups living in the Republic of Uzbekistan, expanding coverage and providing information in foreign languages (languages of different nationalities), the Television and Radio Broadcasting Company has created an editorial board of information and educational programs, which currently broadcasts a total of 12 television programs twice a month: in Tajik - "Ranginkamon"; Kazakh - "Didar"; in Korean - "Chinsen"; in Karakalpak - "Naopir". The program "Uzbekistan - Our Common Home" - about the way of life and traditions of different nationalities and ethnic groups living in the country, which is broadcast twice a month.
+
+There are 86,000 pre-school education groups in Uzbek, Russian, Karakalpak, Tajik and Kazakh, attended by 1,959,021 children. The Ministry of Preschool Education, with the support of the National Television and Radio Company of Uzbekistan (in Uzbek and Russian), has organized morning exercises based on the 'First Step' project, 'Ancient Cities of Uzbekistan' (in Uzbek), 'English' (in English), 'Basics of mental counting and mathematical calculations' and classes with a speech therapist. The 'First Step' project's television programs also include cooking master classes, 'Creativity' - drawing and applique lessons, and dance master classes. TV programs on mental arithmetic, elementary mathematics and speech therapy are organized as additional educational content for children aged 6-7.
 
 According to Article 6 of the Law on Preschool Education and Upbringing, every child has the right to preschool education and upbringing. The State guarantees the right  of  every  child  to  undergo  one  year  of  compulsory  preparation  for  general secondary  education  in  public  pre-school  institutions  one  year  before  entering general education.
 
@@ -947,8 +963,6 @@ More focus should be dedicated to high education of minority groups
 
 ☒ Positive or affirmative action measures are provided for indigenous people
 
-> 26 Supra note 15.
-
 ☒ Financial incentives and fellowships are provided for indigenous people
 
 ☒ Teachers are trained on intercultural education
@@ -962,6 +976,8 @@ More focus should be dedicated to high education of minority groups
 ☒ Adapting curricula and teaching and learning methods to their needs for indigenous people
 
 ☒ Curricula are rid of all stereotypes 27 and bias
+
+> 26 Supra note 15.
 
 [[END OF PAGE 26]]
 
@@ -977,7 +993,7 @@ The  'Karakalpakstan'  TV  and  radio  company  regularly  broadcasts  a  series
 
 Karakalpakstan  has  3  higher  educational  institutions,  6  branches  of  higher  educational institutions,  54  specialized  secondary  educational  institutions,  727  general  education schools in which Karakalpak language is taught as a state language.
 
-Adoption of the Presidential Decree of 11.11.2020 'On measures for comprehensive socio -economic  development  of  the  Republic  of  Karakalpakstan  for  20202023'  promoted  the development  of  its  social  infrastructure.  'On  measures  for  the  comprehensive  socio -economic  development  of  the  Republic  of  Karakalpakstan  for  20202023'  promoted  the development  of  its  social  infrastructure,  carried  out:  construction  of  38  state  pre-school educational organizations, 400 family pre-school educational organizations, reconstruction of 35 pre-school educational organizations. The construction of 7 general education schools and  the  renovation  of  101  schools  made  it  possible  to  ensure  that  the  enrollment  rate  in general  education  secondary  schools  did  not  exceed  1.1%.  The  creation  of  32  medical institutions and private medical organizations increased the capacity of medical institutions to  20,400  and  the  number  of  beds  to  7,100.  The  reconstruction  of  21  cultural  facilities improved the quality of cultural services, met the population's cultural needs and provided meaningful leisure time; the inclusion of 181 schools in the 'One Million Programmers'
+Adoption of the Presidential Decree of 11.11.2020 'On measures for comprehensive socio-economic development of the Republic of Karakalpakstan for 2020-2023' promoted the development of its social infrastructure. 'On measures for the comprehensive socio-economic development of the Republic of Karakalpakstan for 2020-2023' promoted the development of its social infrastructure, carried out: construction of 38 state pre-school educational organizations, 400 family pre-school educational organizations, reconstruction of 35 pre-school educational organizations. The construction of 7 general education schools and the renovation of 101 schools made it possible to ensure that the enrollment rate in general education secondary schools did not exceed 1.1%. The creation of 32 medical institutions and private medical organizations increased the capacity of medical institutions to 20,400 and the number of beds to 7,100. The reconstruction of 21 cultural facilities improved the quality of cultural services, met the population's cultural needs and provided meaningful leisure time; the inclusion of 181 schools in the 'One Million Programmers'
 
 27 Supra note 16.
 
@@ -989,9 +1005,9 @@ project  and  the  training  of  more  than  3,000  young  people  in  the  basi
 
 Today,  education  in  the  public  education  system  is  conducted  in  seven  languages.  The educational process in schools is conducted in Uzbek, as well as in Russian, Karakalpak, Tajik,  Kazakh,  Kyrgyz  and  Turkmen  languages.  In  particular,  5.3  million  students  are enrolled  in  8,883  Uzbek-language  schools,  634,000  in  81  Russian-language  schools, 126,000 in 241 Karakalpak-language schools, 70,000 in 270 Tajik-language schools, 56,000 in  389  Kazakh-language  schools,  8,000  in  52  Kyrgyz-language  schools,  and  9,000  in  43 Turkmen-language schools.
 
-Based on the implementation of 107 regulatory and legal acts defining the long-term and short-term prospects of the preschool education system, the coverage of children aged 3-7 with preschool education increased from 27% to 70% (from 708,000 to 1,959,000 children). Through  the  development  of  preschool  education,  the  number  of  preschool  education organizations increased from 5,211 to 28,842. Alternative types of preschool education are being  developed:  mobile  and  playgroups  are  being  widely  introduced.  In  order  to  ensure healthy  and  safe  nutrition  for  preschool-age  children,  a  mechanism  for  healthy  nutrition through outsourcing has been established in 1,176 preschool educational institutions and 83 enterprises for 237,922  students.  All  facilities  have  been  created  for  children  with disabilities.  For  example,  in  the  Republic  of  Karakalpakstan  and  the  Tashkent  and Kashkadarya provinces, multidisciplinary specialized preschool organizations have been set up with an 'Imkon' (Opportunity) rehabilitation center, wh ere all facilities are available for children with disabilities.
+Based on the implementation of 107 regulatory and legal acts defining the long-term and short-term prospects of the preschool education system, the coverage of children aged 3-7 with preschool education increased from 27% to 70% (from 708,000 to 1,959,000 children). Through the development of preschool education, the number of preschool education organizations increased from 5,211 to 28,842. Alternative types of preschool education are being developed: mobile and playgroups are being widely introduced. In order to ensure healthy and safe nutrition for preschool-age children, a mechanism for healthy nutrition through outsourcing has been established in 1,176 preschool educational institutions and 83 enterprises for 237,922 students. All facilities have been created for children with disabilities. For example, in the Republic of Karakalpakstan and the Tashkent and Kashkadarya provinces, multidisciplinary specialized preschool organizations have been set up with an 'Imkon' (Opportunity) rehabilitation center, where all facilities are available for children with disabilities.
 
-There  are  86,000  pre-school  education  groups  in  Uzbek,  Russian,  Karakalpak,  Tajik  and Kazakh,  attended  by  1,959,021  children.  The  Ministry  of  Preschool  Education,  with  the support  of  the  National  Television  and  Radio  Company  of  Uzbekistan  (in  Uzbek  and Russian),  has  organized  morning  exercises  based  on  the  'First  Step'  project,  'Ancient Cities of Uzbekistan' (in Uzbek), 'English' (in English), 'Basics of mental counting and mathematical calculations' and classes with a speech therapist. The 'First Step' pro ject's television  programs  also  include  cooking  master  classes,  'Creativity' -  drawing  and applique lessons, and dance master classes. TV programs on mental arithmetic, elementary mathematics and speech therapy are organized as additional educational content for children aged 6-7.
+There are 86,000 pre-school education groups in Uzbek, Russian, Karakalpak, Tajik and Kazakh, attended by 1,959,021 children. The Ministry of Preschool Education, with the support of the National Television and Radio Company of Uzbekistan (in Uzbek and Russian), has organized morning exercises based on the 'First Step' project, 'Ancient Cities of Uzbekistan' (in Uzbek), 'English' (in English), 'Basics of mental counting and mathematical calculations' and classes with a speech therapist. The 'First Step' project's television programs also include cooking master classes, 'Creativity' - drawing and applique lessons, and dance master classes. TV programs on mental arithmetic, elementary mathematics and speech therapy are organized as additional educational content for children aged 6-7.
 
 In  the  Republic  of  Karakalpakstan,  in  order  to  increase  the  level  of  enrolment  in  higher education,  the  Councils  of  Ministers  and  provincial  administrations,  together  with  the Ministry  of  Higher  Education,  have  established  in  each  province,  by  1  September  2021, public  organizations  and  systems  of  education  and  upbringing  in  the  mother  tongue  of ethnic groups. In accordance with article 33 of the Education Act and article 6 of the State Language Act, the right of persons living in the Republic of Karakalpakstan to free choice of  language  of  instruction  is  being  realized.  Educational  institutions  at  all  levels  provide instruction in seven languages (Kazakh, Turkmen, Tajik, Kyrgyz, Karakalpak, Russian and Uzbek). As of 2020/2021 in the Republic of Karakalpakstan, there are currently 371 schools in the Karakalpak language with 125,767 students.
 
@@ -1047,17 +1063,11 @@ More focus should be dedicated to higher education of indigenous people
 
 [[START OF PAGE 30]]
 
-31
-
-32
-
-30
+are encouraged
 
 ☒ Teachers are trained to combat stigmatisation 30
 
  Other:
-
-are encouraged
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -1065,7 +1075,7 @@ Decision of the Cabinet of Ministers of the Republic of Uzbekistan No. 169 on im
 
 In 2021, the following acts were adopted: the Legal Status of Foreign Nationals and Stateless Persons Act; the Ratification of the Convention on the Rights of Persons with Disabilities Act; and the Amendments and Additions to the Citizenship Act;
 
-According  to  the  law  'On  the  legal  status  of  foreign  citizens  and  stateless  persons  in  the Republic of Uzbekistan' of 4.06.2021 'foreign citizens and stateless persons in the territory of the Republic of Uzbekistan are equal before the law without distinction as to sex, race, nationality, language, religion, social origin, beliefs, personal and social status'
+According to the law 'On the legal status of foreign citizens and stateless persons in the Republic of Uzbekistan' of 4.06.2021 'foreign citizens and stateless persons in the territory of the Republic of Uzbekistan are equal before the law without distinction as to sex, race, nationality, language, religion, social origin, beliefs, personal and social status'
 
 - Have specific measures been adopted for climate displaced persons?
 
@@ -1087,17 +1097,17 @@ According  to  the  law  'On  the  legal  status  of  foreign  citizens  and  st
 
  Teachers are trained to combat stigmatisation 33
 
-> Supra note 13
+> 31 Supra note 13
 
-> Supra note 16.
+> 32 Supra note 16.
 
-> Supra note 15.
+> 30 Supra note 15.
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-- right to education
+right to education
 
  Inclusion in mainstream schools is ensured
 
@@ -1161,21 +1171,21 @@ Persons with disabilities  are  exempted  from payment or on preferential terms 
 
  Other:
 
-A  number  of  benefits  for  self-employment  have  been  introduced  since  2021,  including  the introduction  of  a  mechanism  to  provide  subsidies  for  unemployed  people  and  women  in
+☒ Teachers are trained to combat stigmatisation 35
+
+☒ Curricula are rid of all stereotypes 36 and bias
+
+A number of benefits for self-employment have been introduced since 2021, including the introduction of a mechanism to provide subsidies for unemployed people and women in
 
 > 35 Supra note 15.
 
 > 36 Supra note 16.
 
-☒ Teachers are trained to combat stigmatisation 35
-
-☒ Curricula are rid of all stereotypes 36 and bias
-
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
-difficult  social  situations  who  are  included  in  the  Iron  Notebook,  Women's  Notebook  and Youth Notebook to start  their  activities.  Also,  8  thousand  women  and  girls  included  in  the ' Youth Notebook ' are allocated subsidies to start their own business and purchase inventory, 10  thousand  soft  loans.  A  'Business  Marathon'  project  will  be  launched  for  50  thousand young women with the participation of qualified specialists. The project will provide hundreds of talented girls with practical assistance in setting up a business.
+difficult social situations who are included in the Iron Notebook, Women's Notebook and Youth Notebook to start their activities. Also, 8 thousand women and girls included in the 'Youth Notebook' are allocated subsidies to start their own business and purchase inventory, 10 thousand - soft loans. A 'Business Marathon' project will be launched for 50 thousand young women with the participation of qualified specialists. The project will provide hundreds of talented girls with practical assistance in setting up a business.
 
 In  the  current  academic  year,  1,914  girls  from  needy  families  have  been  admitted  to  higher education  institutions under  additional State  grants.  More  than  181,500  girls  received preferential educational loans. Local budgets covered the contract amount of more than 2,000 students from families in need of social protection, orphaned students or students deprived of parental care for 14 billion 500 million soums. In recent years, the contracts of girls studying in  the  master's  program  of  state  higher  education  institutions  have  been  covered  from  the budget.
 
@@ -1183,13 +1193,13 @@ In  the  current  academic  year,  1,914  girls  from  needy  families  have  be
 
 The Presidential Decree of July 25, 2022 approved the Social Protection Strategy, which provides for the creation of a system of guarantees of a minimum level of social protection for all citizens in accordance with ILO Recommendation No. 202 'On Social Protection Floors'. The  Social  Protection  Strategy  covers  four  areas  such  as  social  assistance,  social  services, social insurance (retirement pensions, payments in case of temporary disability, unemployment,  etc.)  and  access  to  active  labor  market  programs/policies  for  the  most vulnerable. Also, a chapter on institutional reforms in the social protection system has been added as a fifth strand.
 
-The  Presidential  Decree  'On  the  New  Uzbekistan  Development  Strategy  for  2022 -2026' provides for:
+The Presidential Decree 'On the New Uzbekistan Development Strategy for 2022-2026' provides for:
 
 - Creation of a separate database on women, young people and persons with disabilities in the information system 'Unified Register of Social Protection';
 
 - The  inclusion  in  the  employment  record  of  the  time  spent  caring  for  children  with disabilities from childhood up to the age of 18 when granting pensions;
 
-In order to support lowincome families, 'iron books' have been introduced, on the basis of  which  some  600,000  needy  families  have  been  provided  with  material  assistance  by decisions of local representative bodies. Financial assistance was provided to 479,400 families at the expense of the Sakhovat and Kumak Fund.
+In order to support low-income families, 'iron books' have been introduced, on the basis of which some 600,000 needy families have been provided with material assistance by decisions of local representative bodies. Financial assistance was provided to 479,400 families at the expense of the Sakhovat and Kumak Fund.
 
 - What challenges were encountered in realizing the right to education of students from poor households? If needed, brief quantitative information may be added.
 
@@ -1201,19 +1211,19 @@ In order to support lowincome families, 'iron books' have been introduced, on th
 
 [[START OF PAGE 34]]
 
-For reference: Early childhood care and education (ECCE) is not explicitly provided for in the  Convention/Recommendation.  However,  the  international  community  has  increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially  recognized  'the  right  to  education  during  early  childhood  as  beginning  at  birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
-
-- Please elaborate further on the measures taken:
 
  Prior to pre-primary education, ECCE services are free
 
  Prior to pre-primary education, ECCE services are affordable
 
-☒ ECCE services are accessible on a non- discriminatory basis
+☒ ECCE services are accessible on a non-discriminatory basis
 
 ☒ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+
+- Please elaborate further on the measures taken:
 
 ##### Current demographic statistics in the country:
 
@@ -1225,9 +1235,9 @@ In Uzbekistan, public preschool educational organizations of a general type are 
 
 ##### Public and private sector:
 
-Since the establishment of the Ministry of Preschool Education, the department has pursued an active policy of attracting the private sector to the field of preschool education. This has led  to  the  fact  that  the  share  of  coverage  of  children  by  the  non -governmental  sector currently stands at 62%.
+Since the establishment of the Ministry of Preschool Education, the department has pursued an active policy of attracting the private sector to the field of preschool education. This has led to the fact that the share of coverage of children by the non-governmental sector currently stands at 62%.
 
-'In  comparison,  in  2017  there  were  only  250  non -governmental  kindergartens,  when  by 2024  the  figure  was  more  than  27,162  thousand..  Of  these,  91%  are  family-owned  preschool, 6% are based on PPP, 3% are Private.'
+'In comparison, in 2017 there were only 250 non-governmental kindergartens, when by 2024 the figure was more than 27,162 thousand.. Of these, 91% are family-owned pre-school, 6% are based on PPP, 3% are Private.'
 
 By 2030, in order to ensure equal inclusive access to pre-school education in the country, it is planned to reach the number of 46,770.
 
@@ -1283,7 +1293,7 @@ The state guarantees the right of each child to obtaining in the state preschool
 
 organizations of obligatory year preparation for general secondary education one year prior to its receipt in the organization of general secondary education.
 
-- What challenges were encountered in realizing early childhood care and education and pre- primary education?
+- What challenges were encountered in realizing early childhood care and education and pre-primary education?
 
 ☒ Limited access
 
@@ -1413,8 +1423,9 @@ Private  general  secondary  education  institutions  operate  based  on  a  lic
 
 Constitution of the Republic of Uzbekistan (adopted on May 1, 2023); Law of the Republic of Uzbekistan 'On Education' (adopted on September 23, 2020 No. ZRU-637);
 ###### Article 10. Professional education, Law of the Republic of Uzbekistan on Education, 1997, (as amended on 2020).
----
+
 Professional education includes the following degrees in the profession and specialty:
+primary professional education; secondary professional education;
 secondary special professional education.
 Primary professional education is provided in vocational schools for graduates of the 9th grade on a free basis, through two-year integrated programs that combine general education subjects and specialized subjects, offered in a full-time format.
 Secondary professional education is carried out in colleges based on a state order or payment contract, depending on the complexity of professions and specialties. It is provided on the basis of general secondary, secondary special, and primary professional education in full-time, evening, and part-time formats, with a duration of up to two years. Secondary specialized professional education is provided in technical schools based on general secondary, secondary special, primary professional, and secondary professional education. This education is delivered based on a state order or payment contract, depending on the complexity of professions and specialties, in full- time, evening, and part-time formats, with a duration of at least two years.
@@ -1477,7 +1488,7 @@ For reference: Article/Paragraph 4(a) of the Convention/Recommendation  provides
 
  Higher education is accessible through credit transfer system between states
 
-☒ Higher education allows for multiple and flexible learning pathways (flexible entry and re- entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).
+☒ Higher education allows for multiple and flexible learning pathways (flexible entry and re-entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).
 
  Other:
 
@@ -1699,7 +1710,7 @@ As part of the implementation of Presidential Decree 46 on the approval of the N
 
 "Legal  Issues  in  Secondary  Schools"  International  Law:  Explaining  the  content  of  the Universal  Declaration  of  Human  Rights,  the  Convention  on  the  Rights  of  the  Child,  the Convention on the Rights of Persons with Disabilities, the Universal Declaration of Human Rights  and  the  Convention  on  the  Political  Rights  of  Women  ;  National  law:  Law  "On Education",  Law  "On  the  Rights  of  Persons  with  Disabilities",  Law  "On  Guarantees  of Children's Rights" and Resolution No. 638 of October 12, 2021 of the Cabinet of Ministers on  Education  of  Children  with  Special  Educational  Needs  and  Women-  educational sessions were held on topics such as studying the guarantees of girls' rights
 
-Training  courses  on  "Combating  torture:  international  practice  and  national  experience" approved by the National Center for human rights, the Prosecutor General's Office, and the Ministry of Internal Affairs on April 4, 2024 have been scheduled. According to the plan, in 2024, Tashkent region (April 30 and May 1), Republic of Karakalpakstan (May 21-22) and Khorezm region (May 23-24), Surkhandarya region (July 2-3), Kashkadarya region (July 45),  Based  on  the  plan  approved  in  Syrdarya  region  (July  30-31),  Jizzakh  (August  1-2), Fergana region (September 16-17), Andijan region (September 18-19),  Namangan (September 20-21), national and with the involvement of international experts, online and offline  training  courses  were  organized  on  the  topic  "Combating  torture:  international practice and national experience". A total of 630 employees of internal affairs (50 people) and  prosecutor's  office  (10  people)  from  each  region  of  the  investigation,  investigation, preliminary investigation bodies, regional judges and penitentiary institutions participated in the training courses.
+Training courses on "Combating torture: international practice and national experience" approved by the National Center for human rights, the Prosecutor General's Office, and the Ministry of Internal Affairs on April 4, 2024 have been scheduled. According to the plan, in 2024, Tashkent region (April 30 and May 1), Republic of Karakalpakstan (May 21-22) and Khorezm region (May 23-24), Surkhandarya region (July 2-3), Kashkadarya region (July 4-5), Based on the plan approved in Syrdarya region (July 30-31), Jizzakh (August 1-2), Fergana region (September 16-17), Andijan region (September 18-19), Namangan (September 20-21), national and with the involvement of international experts, online and offline training courses were organized on the topic "Combating torture: international practice and national experience". A total of 630 employees of internal affairs (50 people) and prosecutor's office (10 people) from each region of the investigation, investigation, preliminary investigation bodies, regional judges and penitentiary institutions participated in the training courses.
 
 > 41 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human  rights,  gender  equality,  promotion  of  a  culture  of  peace  and  non-violence,  global  citizenship  and appreciation of cultural diversity and of culture's contribution to sustainable development'.
 
@@ -1711,9 +1722,9 @@ The Ministry of Poverty Alleviation and Employment has developed a plan of measu
 
 In conjunction with the newly revised Labor Code of the Republic of Uzbekistan, 8 times in the mass media on the labor rights of persons with disabilities, 788 seminars were held in cooperation  with  district  (city)  employment  assistance  departments,  district  and  city governments, and 24,522 participants took part in these seminars and meetings.
 
-In 20232024, training course on 'International and national mechanisms for the protection of  women's  rights"  topic  was  organized  at  the  initiative  of  the  National  Center  of  the Republic of Uzbekistan for Human Rights. The training was held in cooperation with the National  Agency of Social  Protection  under  the  President  of  the  Republic  of  Uzbekistan and the Republican Center for Rehabilitation and Adaptation of Women. The main goal of the  training  course  is  to  increase  the  knowledge  of  the  employees  of  the  Women's Rehabilitation and Adaptation Center about international standards in the field of human rights,  international  and  national  mechanisms  related  to  the  legal  basis  of  protection  of women's rights, recommendations of UN chartered bodies and treaty committees. Directors of  the  Republican  Center  for  Rehabilitation  and  Adaptation  of  Women,  its  regional departments and exemplary inter-district centers, as well as lawyers of this Center - a total of 92 participants - are participating in the trainings online.
+In 2023-2024, training course on 'International and national mechanisms for the protection of women's rights" topic was organized at the initiative of the National Center of the Republic of Uzbekistan for Human Rights. The training was held in cooperation with the National Agency of Social Protection under the President of the Republic of Uzbekistan and the Republican Center for Rehabilitation and Adaptation of Women. The main goal of the training course is to increase the knowledge of the employees of the Women's Rehabilitation and Adaptation Center about international standards in the field of human rights, international and national mechanisms related to the legal basis of protection of women's rights, recommendations of UN chartered bodies and treaty committees. Directors of the Republican Center for Rehabilitation and Adaptation of Women, its regional departments and exemplary inter-district centers, as well as lawyers of this Center - a total of 92 participants - are participating in the trainings online.
 
-The National Center, in cooperation with the Ministry of Internal Affairs and the Ministry of  Poverty  Reduction  and  Employment,  developed  a  program  of  training  courses  on  the topic "Migrants' rights: international standards and national legislation" and was approved on May 16, 2023. On August 16, 2023, a training course on "Migrants' rights: international standards and national legislation" was organized in cooperation with the National Center, the Ministry of Poverty Alleviation and Employment, the Ministry of Internal Affairs, the Agency  for  Foreign  Labor  Migration,  and  the  Law  Enforcement  Academy.  The  training courses  were  focused  on  improving  the  knowledge  and  skills  of  the  employees  of  the Migration  Agency  regarding  the  international  and  national  migration-legal  norms  that regulate  migration  rights  and  relations,  the  theoretical  foundations  of  the  administrativelegal regulation of migration processes, the content and main directions of the state policy in the field of migration at the modern stage. About 100 employees of the central office and regional branches of the Foreign Labor Migration Agency took part in the event.
+The National Center, in cooperation with the Ministry of Internal Affairs and the Ministry of Poverty Reduction and Employment, developed a program of training courses on the topic "Migrants' rights: international standards and national legislation" and was approved on May 16, 2023. On August 16, 2023, a training course on "Migrants' rights: international standards and national legislation" was organized in cooperation with the National Center, the Ministry of Poverty Alleviation and Employment, the Ministry of Internal Affairs, the Agency for Foreign Labor Migration, and the Law Enforcement Academy. The training courses were focused on improving the knowledge and skills of the employees of the Migration Agency regarding the international and national migration-legal norms that regulate migration rights and relations, the theoretical foundations of the administrative-legal regulation of migration processes, the content and main directions of the state policy in the field of migration at the modern stage. About 100 employees of the central office and regional branches of the Foreign Labor Migration Agency took part in the event.
 
 In  order  to  organize  regular  training  of  specialists  of  state  bodies  and  organizations participating in the fulfillment of the international obligations of the  Republic of Uzbekistan  in  the  field  of  human  rights,  according  to  international  standards  of  human rights, the training program "Implementation of obligations in the field of human rights by the  Republic  of  Uzbekistan:  practice  and  report"  of  the  World  Education  Program  in  the field of Human Rights in the Republic of Uzbekistan was approved by the chairman of the National  Commission  on  the  implementation  of  the  fourth  stage  on  March  27,  2023.  In accordance  with  the  program,  on  November  14-17,  2023,  online  and  offline  training courses were organized in the IHMM meeting hall on the topic of "International standards of  observance  and  protection  of  human  rights:  practice  and  reporting".  The  four-day training was devoted to the 75th anniversary of the Universal Declaration of Human Rights.
 
@@ -1753,7 +1764,7 @@ Non-state  educational  organizations  that  provide  educational  services  in 
 
 Educational organizations rendering non-state educational services on professional development and retraining of personnel may issue to graduates a document on education of  the  state  sample.  At  the  same  time,  educational  organizations  providing  non-state educational services for professional development and retraining of personnel shall undergo attestation and state accreditation in accordance with the established procedure.
 
-(Article 31 is supplemented with part four by Law of the Republic of Uzbekistan No. ZRU721 of October 12, 2021 - National Legislation Database
+(Article 31 is supplemented with part four by Law of the Republic of Uzbekistan No. ZRU-721 of October 12, 2021 - National Legislation Database
 
 ☒ Policies  aim  to  guarantee  that  the  development  of non-state  education does not generate discrimination  and  that  non-state  actors  offer  a  relevant  alternative  (without  supplanting public education). Please specify:
 
@@ -1851,9 +1862,7 @@ Uzbekistan  has  adopted  a  Strategy  for  the  Development  of  Artificial  In
 
  Lack of equity and inclusion in digital learning solutions
 
- inadequate safety measures and IT
-
-- support  to  respond  to  issues  of  child  online safety or reduce cyber security risks
+ inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks
 
  Limited access to internet and/or electricity
 
@@ -1871,11 +1880,11 @@ Uzbekistan  has  adopted  a  Strategy  for  the  Development  of  Artificial  In
 
 [[START OF PAGE 52]]
 
- Other: meaningful use of digital technology in
-
-teaching practice
+meaningful use of digital technology in teaching practice
 
  Disjointed or fragmented solutions that are not centrally systematized or regulated
+
+ Other:
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1923,7 +1932,7 @@ Monitoring  in  the  education  system  includes  the  study  and  monitoring  o
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers’ trade unions
 
  Other:
 
@@ -1969,7 +1978,7 @@ Name of contact person: O.Rakhmatillaev (Mr)
 
 Email and telephone number of contact person: Info@uzedu.uz
 
-## Ratification and applicability of the Convention against Discrimination in Education 1
+## I. Ratification and applicability of the Convention against Discrimination in Education 1
 
 - Is your country a State Party to the Convention?
 
@@ -2005,7 +2014,7 @@ https://www.unesco.org/en/legal-affairs/convention-against-discrimination-educat
 
 [[START OF PAGE 56]]
 
-- Constitution of the Republic of Uzbekistan (adopted on May 1, 2023). 2. Law of the Republic of Uzbekistan ' On Education ' (adopted on September 23, 2020, No. ZRU-637).
+1. Constitution of the Republic of Uzbekistan (adopted on May 1, 2023). 2. Law of the Republic of Uzbekistan “On Education” (adopted on September 23, 2020, No. ZRU-637).
 
 - Have courts, tribunals and/or administrative authorities adjudicated on issues or violations regarding the right to education? 2
 
@@ -2023,9 +2032,9 @@ Information could also be given about the judicial, administrative and other com
 
 ' Not available '
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
-### Towards an inclusive non-discriminatory education system
+### 1. Towards an inclusive non-discriminatory education system
 
 For  reference:  This  section  relates  to  the  main  purpose  of  the  Convention/Recommendation  that  is  to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity as laid out in Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation.
 
@@ -2039,7 +2048,7 @@ It further corresponds to the overall aspiration of SDG4 which aims to ' ensure 
 
 - If yes, please provide reference:
 
-- Constitution of the Republic of Uzbekistan (adopted on May 1, 2023). 2. Law of the Republic of Uzbekistan ' On Education ' (adopted on September 23, 2020, No. ZRU-637).
+1. Constitution of the Republic of Uzbekistan (adopted on May 1, 2023). 2. Law of the Republic of Uzbekistan “On Education” (adopted on September 23, 2020, No. ZRU-637).
 
 #### 1.1 Non-discrimination and equality in education
 
@@ -2055,39 +2064,23 @@ It further corresponds to the overall aspiration of SDG4 which aims to ' ensure 
 
 For reference: This notably is covered under SDG target 4.1 and partly target 4.b 5
 
-
+ Legal texts6 prohibit discrimination and guarantee equal access to education:
 
-6
+ In pre-primary education (including early learning and care)
 
-Legal texts prohibit discrimination and guarantee equal access to education:
+ In primary education
 
-
+ In secondary education
 
-
+ In technical and vocational education and training
 
-
+ In higher education
 
-
-
-
-
-
-
-In pre-primary education (including early learning and care)
-
-In primary education
-
-In secondary education
-
-In technical and vocational education and training
-
-In higher education
-
-In adult education and alternative learning
+ In adult education and alternative learning
 
 - Please indicate the relevant legal provisions:
 
-Law of the Republic of Uzbekistan ' On Education ' (adopted on 23.09.2020, No. ЗРУ -637)
+Law of the Republic of Uzbekistan “On Education” (adopted on 23.09.2020, No. ЗРУ-637)
 ###### Article 4. Basic principles in the field of education
 The basic principles in the field of education are: recognition of the priority of education; freedom of choice of the form  of  obtaining  education;  inadmissibility  of  discrimination  in  the  field  of education;  ensuring  equal  opportunities  for  obtaining  education;  introduction  of national  and  universal  human  values  into  education  and  upbringing;  humanistic, democratic  nature  of  education  and  upbringing;  continuity  and  succession  of education; compulsory eleven-year education and one-year preparation for general secondary education for children aged six to seven; general accessibility of education within the state educational standards and state educational requirements; unity and differentiation of approach to the choice of curricula; lifelong education; guarantee of social protection of teachers in society; secular nature of the education system; encouragement of education, giftedness and talent; combination of state and public administration in the education system; openness and transparency in the field of educational activity.
 
@@ -2096,7 +2089,7 @@ Everyone  is  guaranteed  equal  rights  to  obtain education regardless of gend
 
 > 4 See: Article/Paragraph 1(1).
 
-> 5 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programme s'.
+> 5 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 > 6 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -2126,15 +2119,14 @@ Higher  education  provides  for  the  training  of  highly qualified  personnel
 
 ###### Article 12. Postgraduate education
 Postgraduate education can be obtained in higher educational  and  scientific  organizations.  Postgraduate  education  provides  for  the training of scientific and scientific-pedagogical personnel with an academic degree on the basis of basic doctoral studies, doctoral studies and independent research, providing for in-depth study of specialties and conducting scientific research in order to  prepare and defend a doctoral dissertation. Basic doctoral studies is a form of postgraduate education in the specialty of highly qualified scientific and scientificpedagogical personnel for applicants for the degree of Doctor of Philosophy (PhD) with  separation  from  production.  Doctoral  studies  is  a  form  of  postgraduate
-###### Article 38. Admission  to educational organizations
-Admission  to educational organizations for all applicants is carried out on the basis of the principle of ensuring equal opportunities for obtaining education, except for certain categories of persons who  may  be  granted  benefits  in  accordance  with  the  legislation.  Educational organizations are obliged to familiarize applicants and (or) their parents or other legal representatives with the charter, license or confirmation of receipt of a notification (for non-state educational organizations), a certificate of state accreditation (except for non-state educational organizations providing extracurricular educational services), the curriculum and other documents regulating educational activities, the rights and obligations of students. Children with physical, mental, sensory (sensory) or mental disorders are admitted to study with the consent of their parents or other legal representatives and the conclusion of the medical, psychological and pedagogical  commission.  Admission  to  certain  educational  organizations  (higher educational  organizations,  academic  lyceums,  Presidential,  creative,  specialized schools  and  others)  is  carried  out  on  a  competitive  basis.  When  enrolling  in educational organizations on a competitive basis, participants in the competition are provided  with  information  on  the  procedure  for  conducting  the  competition. Admission to state higher and vocational educational organizations is carried out on the basis of a state grant and (or) a paid contract. The procedure for admission to state  educational  institutions  and  organizations  is  established  by  the  Cabinet  of Ministers of the Republic of Uzbekistan. The procedure for admission to non-state educational organizations is established by these educational organizations, taking into  account  the  provisions  provided  for  by  the  current  regulatory  legal  acts  on admission to educational organizations. The admission of foreign citizens to state educational institutions of the Republic of Uzbekistan is carried out on the basis of a paid  contract  (except  for  cases  of  granting  a  state  grant).  The  parameters  of admission  to  higher  educational  organizations  on  the  basis  of  a  state  grant  are established by the President of the Republic of Uzbekistan. When enrolling in higher educational organizations for the privileged contingent, additional admission parameters are established.
+
 
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
 
 education in the specialty of highly qualified scientific and scientific-pedagogical personnel for applicants for the degree of Doctor of Science (DSc) with separation from production. Independent research is a form of postgraduate education in the specialty of highly qualified scientific and scientific-pedagogical personnel for applicants for the degrees of Doctor of Philosophy (PhD) or Doctor of Science (DSc) without separation from production. The procedure for training scientific and scientific-pedagogical personnel, awarding academic degrees and academic titles, as well as the specifics of obtaining postgraduate education in military, medical and other educational organizations, are determined by the legislation. The duration of postgraduate education is determined by the legislation.
----
+
 ###### Article 14. Extracurricular education
 To meet the needs of children, organize their free time and recreation, state bodies, non-governmental non-profit organizations, as well as commercial organizations, can create extracurricular educational organizations of cultural, aesthetic, scientific, technical, and sports orientation. Extracurricular education as an integral part of the continuous education of children is aimed at developing their talents and abilities, meeting their spiritual needs. Extracurricular educational organizations include palaces, houses, clubs and centers of children's and youth creativity, children's schools of the ' Barkamol Avlod ' type, children's and youth sports schools, children's schools of music and art, studios, information, library and health institutions. The procedure for providing extracurricular education is determined by the authorized state administration body in the field of education.
 ###### Article 15. Forms of obtaining education
@@ -2148,7 +2140,10 @@ Inclusive education is aimed at ensuring equal access to education in educationa
 
 [[START OF PAGE 61]]
 
-##### Chapter  6.  Rights  and  obligations  of  students,  their  parents  and  other  legal representatives
+###### Article 38. Admission to educational organizations
+Admission to educational organizations for all applicants is carried out on the basis of the principle of ensuring equal opportunities for obtaining education, except for certain categories of persons who may be granted benefits in accordance with the legislation. Educational organizations are obliged to familiarize applicants and (or) their parents or other legal representatives with the charter, license or confirmation of receipt of a notification (for non-state educational organizations), a certificate of state accreditation (except for non-state educational organizations providing extracurricular educational services), the curriculum and other documents regulating educational activities, the rights and obligations of students. Children with physical, mental, sensory (sensory) or mental disorders are admitted to study with the consent of their parents or other legal representatives and the conclusion of the medical, psychological and pedagogical commission. Admission to certain educational organizations (higher educational organizations, academic lyceums, Presidential, creative, specialized schools and others) is carried out on a competitive basis. When enrolling in educational organizations on a competitive basis, participants in the competition are provided with information on the procedure for conducting the competition. Admission to state higher and vocational educational organizations is carried out on the basis of a state grant and (or) a paid contract. The procedure for admission to state educational institutions and organizations is established by the Cabinet of Ministers of the Republic of Uzbekistan. The procedure for admission to non-state educational organizations is established by these educational organizations, taking into account the provisions provided for by the current regulatory legal acts on admission to educational organizations. The admission of foreign citizens to state educational institutions of the Republic of Uzbekistan is carried out on the basis of a paid contract (except for cases of granting a state grant). The parameters of admission to higher educational organizations on the basis of a state grant are established by the President of the Republic of Uzbekistan. When enrolling in higher educational organizations for the privileged contingent, additional admission parameters are established.
+
+##### Chapter 6. Rights and obligations of students, their parents and other legal representatives
 ###### Article  47.  Rights  of  students
 Students  have  the  right  to:  receive general  secondary,  secondary  specialized  and  initial  vocational  education  free  of charge; admission to a state general secondary educational institution at their place of  residence  (microdistrict);  freedom  of  choice  of  forms  of  obtaining  education; receiving quality education that meets state educational standards, state educational requirements and curricula; receiving the necessary conditions for learning, created taking into account their psychological characteristics and physiological development, as well as receiving free psychological and medical services; participation  in  the  formation  of  the  content  of  their  education,  developed  in accordance with the requirements of state educational standards of vocational and higher  education,  in  accordance  with  the  procedure  established  by  the  state educational  institution; protection  of life  and  health  from  any  physical  and psychological  violence,  insults  to  the  personality  by  teaching  staff  and  other participants  in  the  educational  process;  vacations  for  rest  and  other  social  needs during the period of education; receiving academic  leave and  scholarships, restoration of education and transfer to other educational organizations, from one form of education, profession, field of education, specialty to another; participation in the discussion of issues related  to  the  management  of  the  educational organization;  free  use  of  the  services  of  educational,  methodological,  scientific, production, cultural, sports and household facilities of the educational organization in the process of obtaining education; participation in research, experimental design,
 
@@ -2157,14 +2152,20 @@ Students  have  the  right  to:  receive general  secondary,  secondary  special
 [[START OF PAGE 62]]
 
 scientific, technical, experimental and innovative activities of the educational organization. Students may have other rights in accordance with the legislation. The involvement of students in work unrelated to obtaining education is prohibited in educational organizations.
----
+
 ##### Chapter 7. Social protection of participants in the educational process
 ###### Article 52. Social protection of students
-Students in educational organizations are provided with benefits, scholarships and temporary accommodation in accordance with the legislation. Students on a paid contractual basis may be provided with preferential bank loans. Non-state educational organizations carry out social protection of students in accordance with the legislation, the charter and (or) other constituent documents. The state, in order to ensure social protection, creates conditions for children from low-income families, children (persons) with physical, mental, sensory
-Teachers of educational organizations are established with a reduced working time, are provided with annual extended paid leave and other benefits and guarantees. Pedagogical and other workers of educational organizations are guaranteed health protection, carried out by sanitary, hygienic, anti-epidemic and preventive measures. Educational organizations, within the limits of available funds for remuneration, have the right to independently establish differentiated bonuses to salaries, official
+Students in educational organizations are provided with benefits, scholarships and temporary accommodation in accordance with the legislation. Students on a paid contractual basis may be provided with preferential bank loans. Non-state educational organizations carry out social protection of students in accordance with the legislation, the charter and (or) other constituent documents. The state, in order to ensure social protection, creates conditions for children from low-income families, children (persons) with physical, mental, sensory disorders and children in need of social rehabilitation.
+
+###### Article 53. Social protection of employees of educational organizations
+Teachers of educational organizations are established with a reduced working time, are provided with annual extended paid leave and other benefits and guarantees. Pedagogical and other workers of educational organizations are guaranteed health protection, carried out by sanitary, hygienic, anti-epidemic and preventive measures. Educational organizations, within the limits of available funds for remuneration, have the right to independently establish differentiated bonuses to salaries, official salaries and apply various forms of remuneration and incentives.
+
 ###### Article 54. Training and full provision of orphans and children left without parental care or other legal representatives
 The training and full provision of orphans and children left without parental care or other legal representatives is carried out at the expense of the State Budget of the Republic of Uzbekistan.
-sensory (sensory) or mental disorders The state provides free general secondary, secondary specialized, vocational and extracurricular education for children (persons) with physical, mental, sensory (sensory) or mental disorders in state specialized educational institutions, general secondary, secondary specialized and vocational educational institutions in an inclusive form. State specialized educational institutions are created for the education and upbringing of children with physical, mental, sensory (sensory) or mental disorders, as well as those in need of long-term treatment. The referral of students to these educational institutions and their expulsion from them is carried out based on the conclusion of the medical, psychological and pedagogical commission with the consent of the parents or other legal representatives. Students of state specialized educational institutions are under state maintenance.
+
+###### Article 55. Education and upbringing of children (persons) with physical, mental, sensory (sensory) or mental disorders
+The state provides free general secondary, secondary specialized, vocational and extracurricular education for children (persons) with physical, mental, sensory (sensory) or mental disorders in state specialized educational institutions, general secondary, secondary specialized and vocational educational institutions in an inclusive form. State specialized educational institutions are created for the education and upbringing of children with physical, mental, sensory (sensory) or mental disorders, as well as those in need of long-term treatment. The referral of students to these educational institutions and their expulsion from them is carried out based on the conclusion of the medical, psychological and pedagogical commission with the consent of the parents or other legal representatives. Students of state specialized educational institutions are under state maintenance.
+
 ###### Article 56. Education and upbringing of children (persons) in need of social rehabilitation
 Specialized educational and upbringing institutions are created for children (persons) in need of special conditions for education and upbringing, providing for their education, vocational training and social rehabilitation. Conditions for obtaining education, upbringing and self-education are created for children (persons) held in institutions for the execution of punishment in the form of imprisonment.
 
@@ -2248,7 +2249,7 @@ The Law of the Republic of Uzbekistan ' On Education ' (adopted on 23.09.2020, N
 
 > 7 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 8 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  co mpetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 8 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 9 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -2256,19 +2257,29 @@ The Law of the Republic of Uzbekistan ' On Education ' (adopted on 23.09.2020, N
 
 [[START OF PAGE 65]]
 
-According to the Law, inclusive education is aimed at ensuring equal access to education in educational organizations for all students, taking into account the diversity of special educational needs and individual capabilities, in particular, it is being introduced for children (persons) with physical, mental, sensory (sensory) or mental disorders in educational organizations. The legislative framework for the implementation of inclusive education is also the Decree of the President of the Republic of Uzbekistan dated October 13, 2020, No. PP-4860 ' On Measures for Further Improvement of the Education and Upbringing System for Children with Special Needs ' .
----
-Educational According to this document:
-• A ' Roadmap ' has been developed for the implementation of the Concept of Development of Inclusive Education in the Public Education System in 2020-2025 in 2020-2021; • Target indicators (indicators) for the development of education for children with special educational needs until 2025 have been defined, where step-by-step measures for the introduction of inclusive education are outlined; • A step-by-step implementation based on a separate ' Roadmap ' is defined, which is approved annually, starting from 2022, based on the achieved results, target indicators and main directions for the corresponding period; • It is planned to conduct constant monitoring of the implementation of ' roadmaps ' and target indicators (indicators) with a critical review of its results once a year at government level. Also, by the decision of the Cabinet of Ministers of the Republic of Uzbekistan No. 46 ' Measures to Improve the Education and Rehabilitation System for Children with Educational Needs ' , adopted on January 25, 2024, unified psychological, medical pedagogical commissions have been created in the territorial departments of the Agency for Social Protection of the Population under the President of the Republic of Uzbekistan. These commissions are responsible for directing children with special educational needs to state
-educational institutions. Since February 2024, based on the conclusion of the psychological, medical and pedagogical commission, more than 10,000 children with special educational needs have been covered by education. In addition, since 2024, the International Inclusive Hub international basic center of inclusive vocational education has been launched in Tashkent. This center has created opportunities for obtaining quality education, realizing one's talents, and choosing modern promising professions for the rehabilitation and adaptation of young people to society. number of educational programs related to the fields of art and information technology been opened here.
-equal and A have In recent years, as a result of changes in the field of education, inclusive education has been widely introduced. Legislative documents in this direction are being improved. The first schools have appeared in Uzbekistan where all students can receive equal education. Currently, there
-study. These schools are improving the quality of education for children with disabilities. This helps children with disabilities fully realize their talent and potential. The existing infrastructure in educational institutions has also been improved.
-According to the Ministry of Preschool and School Education of the Republic of Uzbekistan, of January 1, 2024, 21,056 children are studying in specialized schools and boarding schools specialized schools) for children with physical and mental disabilities, of which 727 children studying in 3 specialized boarding schools for children with musculoskeletal disorders, children are studying in 19 specialized boarding schools for children with hearing
-the On Special and National
-are 715 inclusive schools in the republic, in which 1,195 students with special educational needs as
-(90
-are 4,873 impairments,
-and 14,955 are receiving individual education at home.
+According to the Law, inclusive education is aimed at ensuring equal access to education in educational organizations for all students, taking into account the diversity of special educational needs and individual capabilities, in particular, it is being introduced for children (persons) with physical, mental, sensory (sensory) or mental disorders in educational organizations.
+
+The legislative framework for the implementation of inclusive education is also the Decree of the President of the Republic of Uzbekistan dated October 13, 2020, No. PP-4860 “On Measures for Further Improvement of the Education and Upbringing System for Children with Special Educational Needs”.
+
+According to this document:
+
+• A “Roadmap” has been developed for the implementation of the Concept of Development of Inclusive Education in the Public Education System in 2020-2025 in 2020-2021;
+
+• Target indicators (indicators) for the development of education for children with special educational needs until 2025 have been defined, where step-by-step measures for the introduction of inclusive education are outlined;
+
+• A step-by-step implementation based on a separate “Roadmap” is defined, which is approved annually, starting from 2022, based on the achieved results, target indicators and main directions for the corresponding period;
+
+• It is planned to conduct constant monitoring of the implementation of “roadmaps” and target indicators (indicators) with a critical review of its results once a year at the government level.
+
+Also, by the decision of the Cabinet of Ministers of the Republic of Uzbekistan No. 46 “On Measures to Improve the Education and Rehabilitation System for Children with Special Educational Needs”, adopted on January 25, 2024, unified psychological, medical and pedagogical commissions have been created in the territorial departments of the National Agency for Social Protection of the Population under the President of the Republic of Uzbekistan. These commissions are responsible for directing children with special educational needs to state educational institutions. Since February 2024, based on the conclusion of the psychological, medical and pedagogical commission, more than 10,000 children with special educational needs have been covered by education.
+
+In addition, since 2024, the International Inclusive Hub international basic center of inclusive vocational education has been launched in Tashkent. This center has created equal opportunities for obtaining quality education, realizing one's talents, and choosing modern and promising professions for the rehabilitation and adaptation of young people to society. A number of educational programs related to the fields of art and information technology have been opened here.
+
+In recent years, as a result of changes in the field of education, inclusive education has been widely introduced. Legislative documents in this direction are being improved. The first schools have appeared in Uzbekistan where all students can receive equal education. Currently, there are 715 inclusive schools in the republic, in which 1,195 students with special educational needs study.
+
+These schools are improving the quality of education for children with disabilities. This helps children with disabilities fully realize their talent and potential. The existing infrastructure in educational institutions has also been improved.
+
+According to the Ministry of Preschool and School Education of the Republic of Uzbekistan, as of January 1, 2024, 21,056 children are studying in specialized schools and boarding schools (90 specialized schools) for children with physical and mental disabilities, of which 727 children are studying in 3 specialized boarding schools for children with musculoskeletal disorders, 4,873 children are studying in 19 specialized boarding schools for children with hearing impairments, and 14,955 are receiving individual education at home.
 
 [[END OF PAGE 65]]
 
@@ -2276,17 +2287,17 @@ and 14,955 are receiving individual education at home.
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-- The CONSTITUTION OF THE REPUBLIC OF UZBEKISTAN (adopted on 01.05.2023)
+1. The CONSTITUTION OF THE REPUBLIC OF UZBEKISTAN (adopted on 01.05.2023)
 
-- The Law of the Republic of Uzbekistan ' On Education ' (adopted on 23.09.2020, No. ЗРУ -637)
+2. The Law of the Republic of Uzbekistan “On Education” (adopted on 23.09.2020, No. ЗРУ-637)
 
-- 3.The Decree of the President of the Republic of Uzbekistan dated October 13, 2020, No. PP4860 ' On Measures for Further Improvement of the Education and Upbringing System for Children with Special Educational Needs '
+3.The Decree of the President of the Republic of Uzbekistan dated October 13, 2020, No. PP-4860 “On Measures for Further Improvement of the Education and Upbringing System for Children with Special Educational Needs”
 
-- The  Resolution  of  the  Cabinet  of  Ministers  of  the  Republic  of  Uzbekistan  No.  46 ' On Measures  to  Improve  the  Education  and  Rehabilitation  System  for  Children  with  Special Educational Needs ' , adopted on January 25, 2024
+4. The Resolution of the Cabinet of Ministers of the Republic of Uzbekistan No. 46 “On Measures to Improve the Education and Rehabilitation System for Children with Special Educational Needs”, adopted on January 25, 2024
 
-- The Resolution of the President of the Republic of Uzbekistan dated September 5, 2018 No.  PP-3931 ' On  Measures  to  Introduce  New  Principles  of  Management  in  the  Public Education System ' which outlines specific tasks for further improving the effectiveness of measures to ensure social guarantees for children with special educational needs, as well as for creating an adaptive environment serving their education and upbringing (in particular, inclusive education and upbringing).
+5. The Resolution of the President of the Republic of Uzbekistan dated September 5, 2018 No. PP-3931 “On Measures to Introduce New Principles of Management in the Public Education System” which outlines specific tasks for further improving the effectiveness of measures to ensure social guarantees for children with special educational needs, as well as for creating an adaptive environment serving their education and upbringing (in particular, inclusive education and upbringing).
 
-- The Resolution of the Cabinet of Ministers of the Republic of Uzbekistan, dated 12.10.2021, No. 638 ' On Approval of Regulatory Legal Acts Concerning the Education of Children with Special Educational Needs ' .
+6. The Resolution of the Cabinet of Ministers of the Republic of Uzbekistan, dated 12.10.2021, No. 638 “On Approval of Regulatory Legal Acts Concerning the Education of Children with Special Educational Needs”.
 
 - In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
 
@@ -2316,7 +2327,7 @@ and 14,955 are receiving individual education at home.
 
  Ensuring gender parity in technical and vocational training education and training (TVET)
 
-> 11 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 11 ' Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 12 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -2382,11 +2393,11 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
  Other 14 :
 
-- o Multilingual and intercultural education are supported
+o Multilingual and intercultural education are supported
 
-- o Native language instruction is ensured for national minorities
+o Native language instruction is ensured for national minorities
 
-- o Adapting curricula and teaching and learning methods to their needs for national minorities
+o Adapting curricula and teaching and learning methods to their needs for national minorities
 
  Curricula are rid of all stereotypes 16 and bias
 
@@ -2554,9 +2565,7 @@ none
 
 - Decree of the President of the Republic of Uzbekistan dated October 13, 2020, No. PP-4860 ' On Measures for Further Improvement of the Education and Upbringing System for Children with Special Educational Needs '
 
-24
-
-> Supra note 15.
+> 24 Supra note 15.
 
 > 25 Supra note 16.
 
@@ -2594,13 +2603,9 @@ none
 
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
 
-26
+> 26 Supra note 15.
 
-27
-
-Supra note 15.
-
-Supra note 16.
+> 27 Supra note 16.
 
 [[END OF PAGE 71]]
 
@@ -2618,9 +2623,9 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Prior to pre-primary education, ECCE services are affordable
 
- ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+ ECCE services are accessible on a non-discriminatory basis
 
- ECCE services are accessible on a nondiscriminatory basis
+ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
@@ -2649,7 +2654,7 @@ In the regions of the republic, 7,601 free mandatory one-year preparatory groups
  Pre-primary education is free of charge for all. Please provide the duration and indicate the extent to which it is free:
 
 Article 6 of the Law No. -595 of the Republic of Uzbekistan dated December 16, 2019 establishes the following regarding the organization of preschool education:
----
+
 Every child has the right to receive preschool education and upbringing.
 The state guarantees the right of each child to undergo mandatory one-year preparation for general secondary education in state preschool educational institutions one year before entering the general secondary educational institution.
 The state guarantees for the child's preschool education and upbringing are ensured through the provision of preschool education and upbringing services on the basis of state preschool educational institutions, as well as the organization of alternative forms of education and upbringing.
@@ -2712,7 +2717,7 @@ Currently, there are no problems in organizing the educational process with pres
 
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide ' 12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education -of which at least nine years are compulsory. '
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.'
 
 ##### Primary education
 
@@ -2808,11 +2813,13 @@ The secondary education age is 16-17 years and the duration is 2 years (grades 1
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms,  transport  and  compulsory  levies  on  parents).  Brief  quantitative  information  may  be added.
 
-According to Article 50 of the Education Constitution of Uzbekistan, everyone has the right to receive education. The state ensures the development of the continuous education system, its various  types  and  forms,  as  well  as  state  and  non-state  educational  institutions.  The  state guarantees  free  general  secondary  education  and  initial  vocational  education.  General secondary education is compulsory. Preschool education and upbringing, as well as general secondary education, are under state control. Inclusive education and upbringing are provided in educational institutions for children with special educational needs.
+According to Article 50 of the Education Constitution of Uzbekistan, everyone has the right to receive education. The state ensures the development of the continuous education system, its various types and forms, as well as state and non-state educational institutions. The state
 
 [[END OF PAGE 76]]
 
 [[START OF PAGE 77]]
+
+guarantees free general secondary education and initial vocational education. General secondary education is compulsory. Preschool education and upbringing, as well as general secondary education, are under state control. Inclusive education and upbringing are provided in educational institutions for children with special educational needs.
 
 - Please indicate whether the legal minimum age for employment is aligned with the end of compulsory education:
 
@@ -2852,7 +2859,7 @@ According  to  Article  50  of  the  Education  Constitution  of  Uzbekistan,  g
 
 [[START OF PAGE 78]]
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 30 , and target 4.4 31 . Article 4 of the Convention requires states to make ' higher education equally accessible to all on the basis of individual capacity ' . Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by ' every appropriate means, and in particular by the progressive introduction of free education ' . Higher education includes technical and vocational education and training.
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 30, and target 4.4 31. Article 4 of the Convention requires states to make “higher education equally accessible to all on the basis of individual capacity”. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by “every appropriate means, and in particular by the progressive introduction of free education”. Higher education includes technical and vocational education and training.
 
 - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked):
 
@@ -2888,9 +2895,9 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
  Insufficient  mechanisms  to  ensure  smooth transition from secondary to tertiary
 
-> 30 Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'.
+> 30 Which calls on states to “ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university”.
 
-> 31 Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'.
+> 31 Which recommends to “substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship”.
 
 [[END OF PAGE 78]]
 
@@ -2900,7 +2907,7 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
 #### 2.4 Adult education and alternative learning
 
-For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to ' ensure inclusive and equitable quality education and promote lifelong learning opportunities for all ' , target 4.6 specifically calls on states to ' ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy ' . Furthermore, under target 4.4, states are called ' to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life. '
+For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to “ensure inclusive and equitable quality education and promote lifelong learning opportunities for all”, target 4.6 specifically calls on states to “ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy”. Furthermore, under target 4.4, states are called “to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.”
 
 - Please  indicate  the  measures  taken  to  establish  a  system  of  continuing  education  and  equitable access to learning and training opportunities (several items may be ticked):
 
@@ -2948,13 +2955,11 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education.  Quality  education  is  fundamental  to  achieve  all  targets  of  SDG4.  It  is  also  particularly highlighted in SDG target 4.a that recommends states to ' build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all ' .
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to “build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all”.
 
 #### 3.1 General measures
 
 - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding:
-
-- Please elaborate on each of the measures taken:
 
  State monitoring and inspections
 
@@ -2972,9 +2977,11 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 
  Other
 
+- Please elaborate on each of the measures taken:
+
 You may include information on policies, protocols or codes of conduct.
 
-The Law on Education, the Law on Guarantees of Children's Rights, as well as the Decree of the President of the Republic of Uzbekistan ' On Measures to Further Improve the System of Ensuring Guarantees of Children's Rights ' dated August 9, 2021, No. PF-6275, and the Resolution of the President  of  the  Republic  of  Uzbekistan ' On  Approving  Normative  Legal  Documents  on Educating Children with Special Educational Needs ' dated October 12, 2021, No. 638, along with  other  normative  legal  documents,  stipulate  that  students  are  provided  with  safe  and quality conditions for obtaining education.
+The Law on Education, the Law on Guarantees of Children's Rights, as well as the Decree of the President of the Republic of Uzbekistan “On Measures to Further Improve the System of Ensuring Guarantees of Children's Rights” dated August 9, 2021, No. PF-6275, and the Resolution of the President of the Republic of Uzbekistan “On Approving Normative Legal Documents on Educating Children with Special Educational Needs” dated October 12, 2021, No. 638, along with other normative legal documents, stipulate that students are provided with safe and quality conditions for obtaining education.
 
 [[END OF PAGE 80]]
 
@@ -3002,13 +3009,13 @@ The Law on Education, the Law on Guarantees of Children's Rights, as well as the
 
 #### 3.2 Education personnel
 
-For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to ' substantially increase the supply of qualified teachers ' .
+For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to “substantially increase the supply of qualified teachers”.
 
 - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked):
 
  Teacher training is provided without discrimination.
 
- Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).
+ Teachers’ average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).
 
  Initial training and continuous professional development are provided.
 
@@ -3203,13 +3210,13 @@ Addressing the gender imbalance requires systemic changes that take into account
 
 o Low quality educational infrastructure and materials
 
-o High student - teacher ratio
+o High student – teacher ratio
 
 - Please elaborate. Brief quantitative information may be added.
 
 #### 3.3 Respect for human rights and fundamental freedoms
 
-For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7. 32 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation  and  that  the  future  consultation  on  the  1974  Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
+For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.32 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
 
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
@@ -3223,7 +3230,7 @@ Youth organizations in neighborhoods are implementing educational projects to en
 
 Online educational platforms have been created to improve the literacy of young people.
 
-> 32 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
+> 32 Which calls on states to “ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development”.
 
 [[END OF PAGE 83]]
 
@@ -3231,13 +3238,13 @@ Online educational platforms have been created to improve the literacy of young 
 
 - Please elaborate on each of the measures taken:
 
-- Conducting legal literacy classes in secondary schools using interactive methods to form a legal culture from childhood.
+1. Conducting legal literacy classes in secondary schools using interactive methods to form a legal culture from childhood.
 
-- Instilling a legal culture in youth, including the concepts of equality between women and men, creating animated short films and social videos aimed at fostering a sense of intolerance for violence.
+2. Instilling a legal culture in youth, including the concepts of equality between women and men, creating animated short films and social videos aimed at fostering a sense of intolerance for violence.
 
-- Holding meetings on the topic ' Do you know your rights and responsibilities? ' among young people as part of the ' Day of Crime Prevention ' held every Thursday.
+3. Holding meetings on the topic “Do you know your rights and responsibilities?” among young people as part of the “Day of Crime Prevention” held every Thursday.
 
-- Holding a human rights week to raise awareness and information about human rights. Within the framework of the week, information on various topics such as children's rights, gender equality, religious freedom, freedom of speech and others is provided.
+4. Holding a human rights week to raise awareness and information about human rights. Within the framework of the week, information on various topics such as children's rights, gender equality, religious freedom, freedom of speech and others is provided.
 
 #### 3.4 Non-state actors in education
 
@@ -3291,7 +3298,7 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
 
  Low number of professionally trained teachers
 
- High student - teacher ratio
+ High student – teacher ratio
 
  Other:
 
@@ -3315,21 +3322,21 @@ Digital education is both an opportunity for enhancing access but also can lead 
 
 Please indicate the relevant text and provisions:
 
-' Digital Uzbekistan -2030 ' Strategy Approved by the Decree of the President of the Republic of Uzbekistan dated October 5, 2020 No. UP-6079. The strategy is aimed at accelerating the development of the digital industry, increasing the competitiveness of the national economy and introducing digital technologies in various areas, including education.
+“Digital Uzbekistan – 2030” Strategy Approved by the Decree of the President of the Republic of Uzbekistan dated October 5, 2020 No. UP-6079. The strategy is aimed at accelerating the development of the digital industry, increasing the competitiveness of the national economy and introducing digital technologies in various areas, including education.
 
-The Concept of Introducing ' Smart City ' Technologies Approved by the Resolution of the Cabinet of Ministers dated January 18, 2019 No. 48. Within the framework of this concept, ' Smart Education ' is considered as the introduction of innovative technologies, including educational online platforms and massive open online courses, which contributes to the digitalization of the educational process.
+The Concept of Introducing “Smart City” Technologies Approved by the Resolution of the Cabinet of Ministers dated January 18, 2019 No. 48. Within the framework of this concept, “Smart Education” is considered as the introduction of innovative technologies, including educational online platforms and massive open online courses, which contributes to the digitalization of the educational process.
 
-Law of the Republic of Uzbekistan ' On Education ' Adopted on September 23, 2020. The law defines the basic concepts and directions of development of the education system, including the use of digital technologies to improve the quality and accessibility of educational services.
+Law of the Republic of Uzbekistan “On Education” Adopted on September 23, 2020. The law defines the basic concepts and directions of development of the education system, including the use of digital technologies to improve the quality and accessibility of educational services.
 
  Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures to remove barriers to accessing digital content 36 , including ensuring access to curriculum- aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content 36, including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
-> 35 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment.
+> 35 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children’s right to education in relation to the digital environment.
 
 > 36 Lack of internet connection, basic infrastructure or devices.
 
@@ -3373,7 +3380,7 @@ or reduce cyber security risks
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states ' to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available ' (para. 18).
+For reference: The Education 2030 Framework for Action states “to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available” (para. 18).
 
 [[END OF PAGE 87]]
 
@@ -3385,7 +3392,9 @@ For reference: The Education 2030 Framework for Action states ' to ensure qualit
 
  Monitoring results are made public. Please provide the link:
 
-https://www.uzedu.uz/y3/documents/open-data https://stat.uz/uz/rasmiy-statistika/social-protection-2 https://www.uzedu.uz/y3/page/6247
+https://www.uzedu.uz/y3/documents/open-data
+https://stat.uz/uz/rasmiy-statistika/social-protection-2
+https://www.uzedu.uz/y3/page/6247
 
  Monitoring processes are participatory, inclusive and regular.
 
@@ -3401,9 +3410,9 @@ https://www.uzedu.uz/y3/documents/open-data https://stat.uz/uz/rasmiy-statistika
 
 - Please elaborate on each of the measures taken:
 
-The  Ministry  has  implemented  a  centralized  Education  Management  Information  System (EMIS)  to  track  enrollment,  attendance,  and  performance  at  all  levels.  This  ensures compliance with national and international education standards .
+The Ministry has implemented a centralized Education Management Information System (EMIS) to track enrollment, attendance, and performance at all levels. This ensures compliance with national and international education standards.
 
-Annual reports and key findings from monitoring processes are published on the Ministry's official website.
+Annual reports and key findings from monitoring processes are published on the Ministry’s official website.
 
 Monitoring is conducted in collaboration with local education authorities, school representatives, parents, and civil society organizations.
 
@@ -3425,7 +3434,7 @@ budget allocations and financial reports are regularly reviewed and shared publi
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers’ trade unions
 
  Other:
 
@@ -3435,7 +3444,7 @@ budget allocations and financial reports are regularly reviewed and shared publi
 
 - Please elaborate. Brief quantitative information may be added.
 
-## Methods used to draw the attention of the various authorities in the country to the instruments
+## III. Methods used to draw the attention of the various authorities in the country to the instruments
 
 For reference: UNESCO governing bodies have underlined the need for awareness raising. Given the importance of normative action at the national level, wide dissemination of the Convention must be ensured, with the support of National Commissions for UNESCO.
 
