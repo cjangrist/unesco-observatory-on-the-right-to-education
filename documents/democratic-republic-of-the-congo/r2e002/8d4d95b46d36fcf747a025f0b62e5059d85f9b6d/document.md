@@ -18,6 +18,43 @@ Page 1
 
 # Table des matières
 
+SIGLES ET ACRONYMES ........................................................................................................................................... 5
+Résumé exécutif de la Stratégie de développement de l'alphabétisation et de l'éducation non formelle............ 7
+Les options stratégiques ......................................................................................................................... 9
+Composante 1 : Développement de l'accès à une éducation non formelle de qualité diversifiée ....... Error! Bookmark not defined.11
+Composante 2 : Optimisation et amélioration de la qualité des programmes..................................... 11
+Composante 3: Amélioration de la gestion du sous-secteur de l'AENF .................................................... 11
+Composante 4: Mise en place des mesures de protection sociale ........................................................... 11
+Composante 5 : Gestion et promotion du programme ............................................................................ 11
+1. Contexte et justification de la stratégie d'AENF en RDC ................................................................................. 14
+1.1. Présentation du pays ...................................................................................................................... 14
+1.2. Diagnostic de la situation de l'alphabétisation et de l'éducation non formelle........................................... 17
+1.2.1. La situation spécifique de l'AENF ................................................................................................ 17
+1.2.2. Les interventions en AENF ............................................................................................................ 20
+1.2.3. Le cadre institutionnel de l'AENF ................................................................................................ 21
+1.2.4. Le financement de l'AENF en RDC .............................................................................................. 25
+1.2.5. Les offres et stratégies de livraison des programmes d'AENF.................................................... 27
+1.2.6. Les principaux problèmes à résoudre dans le secteur................................................................ 31
+1.2.7. Les atouts/opportunités du sous-secteur................................................................................... 32
+2. Les sources d'inspiration de la stratégie nationale d'AENF............................................................................. 32
+3. La vision du Gouvernement en matière de l'AENF......................................................................................... 34
+4. Les objectifs et résultats attendus................................................................................................................... 35
+5. Les principaux bénéficiaires et les acteurs...................................................................................................... 40
+5.1. Les bénéficiaires prioritaires ........................................................................................................... 40
+5.2. Les provinces prioritaires................................................................................................................ 43
+5.3. Les acteurs de la mise en œuvre de la stratégie et leurs rôles......................................................... 45
+6. La stratégie d'intervention .............................................................................................................................. 49
+6.1. Options de base ou principes d'intervention .................................................................................... 49
+6.1.1. L'approche holistique en éducation....................................................................................... 49
+6.1.2. L'institutionnalisation d'un mécanisme de concertation permanente.................................. 52
+6.1.3. La mise en adéquation institutionnelle de structures du non formel avec les nouvelles options ...... 52
+6.1.4. L'approche intersectorielle intégrée de l'alphabétisation et de la post alphabétisation :.... 53
+6.1.5. La Recherche action et renforcement des capacités............................................................. 53
+6.2. Mesures transversales/communes.................................................................................................. 53
+6.3. Options stratégiques d'intervention par type de programmes d'AENF ............................................ 54
+a) Programme de rattrapage scolaire : ........................................................................................... 54
+b) Programme d'alphabétisation traditionnelle, scolarisante et fonctionnelle............................. 55
+
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
 Page 2
@@ -25,6 +62,37 @@ Page 2
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+c) Programmes d'apprentissage et de formation professionnelle ................................................. 55
+7. Le plan d'action et les composantes ............................................................................................................... 56
+7.1. Composante 1 : Développement de l'accès à une éducation non formelle de qualité diversifiée .... 57
+7.2. Composante 2 : Optimisation et amélioration de la qualité des programmes.................................. 59
+7.3. Composante 3: Amélioration de la gestion du sous-secteur de l'AENF ............................................ 61
+7.4. Composante 4: Mesures de protection sociale ................................................................................ 64
+7.5. Composante 5: Gestion et promotion de la stratégie ...................................................................... 66
+8. Le financement de la stratégie ........................................................................................................................ 69
+a) Coût................................................................................................................................................ 69
+b) Mécanisme ..................................................................................................................................... 69
+c) Cadre de financement adapté à l'AENF ........................................................................................... 70
+d) Stratégies novatrices de mobilisation de ressources additionnelles ................................................ 71
+e) Gisements d'appui au niveau du secteur privé ................................................................................ 71
+f) Campagnes de levée de fonds ....................................................................................................... 71
+9. Le dispositif de suivi et évaluation................................................................................................................... 71
+10. Identification des facteurs de risques et mesures d'atténuation..................................................................... 72
+Annexes................................................................................................................................................................. 75
+Annexe 1 : Données de l'analphabétisme en RDC ................................................................................... 75
+Annexe 2 : Présentation du pays............................................................................................................. 77
+Annexe 3 : Coûts détaillés des composantes de la stratégie.................................................................... 82
+Composante 1 : Développement de l'accès à une éducation non formelle de qualité diversifiée ............ 82
+Composante 2 : Amélioration de la qualité des programmes .................................................................. 85
+Composante 3: Amélioration de la gestion du sous-secteur de l'AENF ......Error! Bookmark not defined.89
+Composante 4: Mesures de protection sociale .........................................Error! Bookmark not defined.96
+Composante 5: Gestion et promotion du programme ..........................................................................9998
+Composante 1: Développement de l'accès à une éducation non formelle de qualité diversifiée ......102101
+Composante 2: Amélioration de la qualité des programmes ............................................................102101
+Composante 3: Amélioration de la gestion du sous-secteur de l'AENF .............................................102101
+Composante 4: Protection sociale....................................................................................................102101
+Composante 5: Gestion et promotion du programme ......................................................................102101
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -99,26 +167,30 @@ DICOREPHA | Direction de la Coordination des Activités et de Réadaptation des 
 DISPE | Direction des Interventions Sociales pour la Protection de l'Enfant
 DNUA | Décennie des Nations Unies pour l'Alphabétisation
 DSCRP | Document de la Stratégie de Croissance et de Réduction de la Pauvreté
+EAFGA | Enfants Associes aux Forces et Groupes Armes
 EDS | Enquête Démographique et Santé
-EPSP | Professionnel
-Enseignement Primaire, Secondaire et
+EPSP | Enseignement Primaire, Secondaire et Professionnel
 EPT | Education Pour Tous
-ESU ETD | Enseignement Supérieur et Universitaire Entités Territoriales Décentralisées
+ESU | Enseignement Supérieur et Universitaire
+ETD | Entités Territoriales Décentralisées
 ETFP | Enseignement Technique et Formation professionnelle
 FNAENF | Fonds National de l'Alphabétisation et de l'Education Non Formelle
-FSRDC ILD | Fonds Social de la République Démocratique du Congo Initiative Locale de Développement
+FSRDC | Fonds Social de la République Démocratique du Congo
+ILD | Initiative Locale de Développement
 INS | Institut National des Statistiques
 LIFE | Literacy Initiative For Empowerment
 MAS.AH.SN | Ministère des Affaires Sociales, Action Humanitaire et Solidarité Nationale
-OCB OMD | Organisation Communautaire de Base Objectifs du Millénaire pour le Développement
-ONG
+OCB | Organisation Communautaire de Base
+OMD | Objectifs du Millénaire pour le Développement
+ONG | Organisation Non Gouvernementale
 ORT | Organisation pour la Reconstruction et le Travail
-PARSE | Organisation Non Gouvernementale
-PEG | Projet d'Appui au Redressement du Secteur de l'Education Programme Economique du Gouvernement
+PARSE | Projet d'Appui au Redressement du Secteur de l'Education
+PEG | Programme Economique du Gouvernement
 PIB | Produit d'Intérieur Brut
 PIR | Programme Intérimaire de Reconstruction
-PNG | Politique Nationale du Genre
 PM | Pour mémoire
+PNG | Politique Nationale du Genre
+PNEP | Programme National de l'Enseignement Primaire
 PNRS | Programme National de Rattrapage Scolaire
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
@@ -131,7 +203,7 @@ Page 5
 
 PPP | Partenariat Public Privé
 --- | ---
-PPTE Pays Pauvres Très Endettés
+PPTE | Pays Pauvres Très Endettés
 PTF | Partenaires Techniques et Financiers
 RDC | République Démocratique du Congo
 SENAPEP | Service National Polyvalent d'Education Permanente
@@ -244,6 +316,8 @@ Page 8
 
 Pour  faciliter  la  coordination  des  activités  de  deux  sous-  secteurs  formel    et  non  formel,  les mesures suivantes seront mises en application pour matérialiser l'approche holistique, intégrée et diversifiée de l'éducation tout le long de la vie.
 
+Tableau N°1 : Implications des données du contexte sur la stratégie d'AENF
+
 Domaines d'intégration | Activités transversales ou mesures
 --- | ---
 Niveau stratégie |  Elaboration d'une stratégie commune de développement de l'éducation et de la formation
@@ -253,8 +327,6 @@ Apprenants du rattrapage scolaire |  Possibilité de créer des passerelles (
 Statistiques |  Un seul Système d'Information pour la Gestion de l'Education (SIGE) avec la Cellule Technique pour les Statistiques de l'Éducation (CTSE). Ainsi, les Chefs d'Antenne de Planification et les Chefs de Bureau attitrés du MAS.AH.SN sont chargés de la collecte des données sur le terrain.
 Accès et accessibilité aux offres éducatives |  Faciliter l'accès aux offres d'éducation par la prise en charge réelle par l'Etat des frais scolaires suivants : minerval, assurance scolaire, autres frais techniques.  Adapter l'espace éducatif, les infrastructures et les équipements scolaires  Etablir des passerelles sur la base d'un cadre national de certification et de qualification à élaborer et à faire adopter  Créer un fonds spécifique à l'AENF avec un manuel de procédures
 Inspection transversale en ETFP |  Suivre, contrôler et conseiller la formation professionnelle de qualité des apprentissages par les inspecteurs de l'ETFP
-
-Tableau N°1 : Implications des données du contexte sur la stratégie d'AENF
 
 ## Les options stratégiques  sont les suivantes :
 
@@ -268,7 +340,7 @@ Page 9
 
 [[START OF PAGE 10]]
 
-- programmes de  formation  professionnelle  spécialisée  et  d'alphabétisation  pour  les  personnes vivant avec handicap ;
+programmes de  formation  professionnelle  spécialisée  et  d'alphabétisation  pour  les  personnes vivant avec handicap ;
 
  Prendre en compte les résultats de l'audit organisationnel de la DGENF pour mettre les services en charge de l'AENF en adéquation avec les nouvelles ambitions du sous-secteur et les réformes institutionnelles en cours ou envisagées  dans le  pays  dont  notamment  la stratégie de décentralisation ;
 
@@ -321,17 +393,19 @@ consolidera  les  acquis  des  deux premières phases et renforcera la capacité
 
 La stratégie proposée comporte une série d'actions et d'initiatives novatrices qui permettraient  de  remédier  de  façon  significative  aux  problèmes  et  contraintes  liés  à l'articulation de la formation et à l'insertion par l'accès des populations les plus pauvres à des opportunités de formation qualifiante et au micro crédit pour mettre en application les compétences acquises lors de ces formations.
 
-Les principales composante s de la stratégie de l'AENF sont :
+Les principales composantes de la stratégie de l'AENF sont :
 
 ## Composante 1 : Développement de l'accès à une éducation non formelle de qualité diversifiée
 
 ## Composante 2 :Optimisation et amélioration de la qualité des programmes
 
-## Composante 3: Amélioration de la gestion du sous-secetur de l'AENF
+## Composante 3: Amélioration de la gestion du sous-secteur de l'AENF
 
 ## Composante 4: Mise en place des mesures de protection sociale
 
 ## Composante 5 : Gestion et promotion de la stratégie
+
+Tableau N°2 : Coûts de la stratégie par composante
 
 Composantes | Coûts | %
 --- | --- | ---
@@ -343,8 +417,6 @@ Composante 5 : Gestion et promotion du programme | 1.213.880 $US | 0,25%
 Total Composantes | 494.579.370 $US | 100%
 Imprévus : 10% | 49.457.937 $US
 Total général | 544.037.307 $US
-
-Tableau N°2 : Coûts de la stratégie par composante
 
 Compte tenu des exigences de célérité et d'efficacité dans l'absorption des ressources à mobiliser en faveur  de  l'AENF,  le  MAS.AH.SN  a  opté  pour  la  mise  en  place  d'une  agence  d'exécution  financière autonome dont les missions sont:
 
@@ -372,7 +444,17 @@ Page 12
 
 # O. Introduction
 
-Après une longue période de crise politique, économique et sociale qui a désarticulé tous ses secteurs  de  développement,  la  République  Démocratique  du  Congo  (RDC)  s'est  engagée depuis  quelque  temps  dans  un  processus  de  reconstruction  des    secteurs  vitaux  parmi lesquels l'éducation occupe une place de choix. La RDC a résolu d'aligner ses politiques éducatives et programmes aux différents engagements internationaux auxquels elle a souscrit à savoir : les Objectifs du Millénaire pour le  Développement (OMD), les Objectifs de l'Education Pour Tous (EPT), la Déclaration de la Décennie des Nations Unies pour l'Alphabétisation (DNUA). Fort  de  ces  engagements,  la  volonté  politique  de  l'Etat  à  promouvoir  une  éducation universelle et de qualité exprimée dans la Constitution a été réaffirmée dans le Document de Stratégie de Croissance et de Réduction de la Pauvreté (DSCRP) qui est un cadre de référence et d'orientation des stratégies, plans et programmes de développement du pays. Dans  le  DSCRP,  il  a  été  préconisé  l'élaboration  d'une  stratégie  sectorielle  de  l'éducation comme l'une des priorités devant contribuer à relever les défis auxquels le système éducatif congolais fait face depuis plusieurs décennies. Au nombre de ces défis, on note d'une part le système éducatif formel en inadéquation avec les  besoins  de  développement  du  pays  et  les  faibles  moyens  lui  alloués,  et  d'autre  part, l'absence  d'une  politique  claire  du  sous-secteur  de  l'alphabétisation  et  des  stratégies cohérentes de mise en œuvre des programmes. L'efficacité du système éducatif formel tant interne qu'externe est faible avec un taux de déperdition scolaire qui reste élevé. Pour résoudre ces problèmes inhibiteurs, le Ministère des Affaires Sociales, Action Humanitaire et Solidarité Nationale a initié, dans le cadre du Projet d'Appui au Redressement du  Secteur  Educatif  (PARSE)  de  2008,  le  processus  d'élaboration  de  la  stratégie  soussectorielle  de  l'alphabétisation  et  de  l'éducation  non  formelle  devant  être  intégrée  dans  la stratégie globale du secteur de l'éducation.
+Après une longue période de crise politique, économique et sociale qui a désarticulé tous ses secteurs de développement, la République Démocratique du Congo (RDC) s'est engagée depuis quelque temps dans un processus de reconstruction des secteurs vitaux parmi lesquels l'éducation occupe une place de choix.
+
+La RDC a résolu d'aligner ses politiques éducatives et programmes aux différents engagements internationaux auxquels elle a souscrit à savoir : les Objectifs du Millénaire pour le Développement (OMD), les Objectifs de l'Education Pour Tous (EPT), la Déclaration de la Décennie des Nations Unies pour l'Alphabétisation (DNUA).
+
+Fort de ces engagements, la volonté politique de l'Etat à promouvoir une éducation universelle et de qualité exprimée dans la Constitution a été réaffirmée dans le Document de Stratégie de Croissance et de Réduction de la Pauvreté (DSCRP) qui est un cadre de référence et d'orientation des stratégies, plans et programmes de développement du pays.
+
+Dans le DSCRP, il a été préconisé l'élaboration d'une stratégie sectorielle de l'éducation comme l'une des priorités devant contribuer à relever les défis auxquels le système éducatif congolais fait face depuis plusieurs décennies.
+
+Au nombre de ces défis, on note d'une part le système éducatif formel en inadéquation avec les besoins de développement du pays et les faibles moyens lui alloués, et d'autre part, l'absence d'une politique claire du sous-secteur de l'alphabétisation et des stratégies cohérentes de mise en œuvre des programmes. L'efficacité du système éducatif formel tant interne qu'externe est faible avec un taux de déperdition scolaire qui reste élevé.
+
+Pour résoudre ces problèmes inhibiteurs, le Ministère des Affaires Sociales, Action Humanitaire et Solidarité Nationale a initié, dans le cadre du Projet d'Appui au Redressement du Secteur Educatif (PARSE) de 2008, le processus d'élaboration de la stratégie sous-sectorielle de l'alphabétisation et de l'éducation non formelle devant être intégrée dans la stratégie globale du secteur de l'éducation.
 
 La présente stratégie de développement de l'alphabétisation et de l'éducation non formelle constitue un cadre de référence qui doit servir de base pour l'orientation, la planification et la gestion des activités à réaliser pour atteindre les objectifs du développement du sous-secteur.
 
@@ -394,11 +476,11 @@ Avec une population estimée à plus de 60 millions d'habitants, la RDC est le d
 
 Depuis son accession à l'indépendance (le 30 juin 1960), la RDC a connu au plan politique de périodes marquées par des profonds troubles. Quatre périodes ont marqué sa vie politique:
 
-- La  période  de  1960  à  1965 a  été  ponctuée  par  une  lutte  acharnée  entre  partis politiques constitués sur des bases tribales terminée par un coup d'état. Cette lutte a donné lieu à des rébellions et des sécessions qui ont coûté la vie à près de 2 millions (EDS - RDC 2007) de personnes.
+i. La  période  de  1960  à  1965 a  été  ponctuée  par  une  lutte  acharnée  entre  partis politiques constitués sur des bases tribales terminée par un coup d'état. Cette lutte a donné lieu à des rébellions et des sécessions qui ont coûté la vie à près de 2 millions (EDS - RDC 2007) de personnes.
 
-- La période de 1965 à 1997 a  été marquée par un régime totalitaire . La Conférence Nationale  souveraine  organisée  en  1991  a  initié  une  période  de  transition,  dont l'éviction du gouvernement chargé de son pilotage a plongé le pays dans une crise politique  et  sociale  jusqu'à  l'avènement  de  l'alliance  des  Forces  Démocratiques  de Libération « AFDL » au pouvoir le 17 mai 1997.
+ii. La période de 1965 à 1997 a  été marquée par un régime totalitaire . La Conférence Nationale  souveraine  organisée  en  1991  a  initié  une  période  de  transition,  dont l'éviction du gouvernement chargé de son pilotage a plongé le pays dans une crise politique  et  sociale  jusqu'à  l'avènement  de  l'alliance  des  Forces  Démocratiques  de Libération « AFDL » au pouvoir le 17 mai 1997.
 
-- La période de 1997 à 2006 a été une longue période de transition dont la principale visée était la recherche d'un nouvel ordre politique. Cette période a été marquée par les  guerres  de  1998  et  2001  qui  ont  créé  une  insécurité  généralisée,  de  nombreux déplacements de population, d'énormes pertes en vies humaines et matérielles et une  tentative  de  balkanisation  du  pays.  Elle  a  également  été  marquée  par  (a)  la conclusion de l'Accord de paix et de réconciliation nationale (décembre 2002) qui a abouti à la mise en place des institutions de transition, (b) l'accord global et inclusif, le  gouvernement  de  transition  de  1+4,  (c)  l'adoption  de  la  nouvelle  Constitution (Décembre  2005)  et  (d)  l'organisation  des  élections  législatives  et  présidentielles (deuxième semestre 2006).
+iii. La période de 1997 à 2006 a été une longue période de transition dont la principale visée était la recherche d'un nouvel ordre politique. Cette période a été marquée par les  guerres  de  1998  et  2001  qui  ont  créé  une  insécurité  généralisée,  de  nombreux déplacements de population, d'énormes pertes en vies humaines et matérielles et une  tentative  de  balkanisation  du  pays.  Elle  a  également  été  marquée  par  (a)  la conclusion de l'Accord de paix et de réconciliation nationale (décembre 2002) qui a abouti à la mise en place des institutions de transition, (b) l'accord global et inclusif, le  gouvernement  de  transition  de  1+4,  (c)  l'adoption  de  la  nouvelle  Constitution (Décembre  2005)  et  (d)  l'organisation  des  élections  législatives  et  présidentielles (deuxième semestre 2006).
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -468,16 +550,16 @@ Page 16
 
 [[START OF PAGE 17]]
 
+Tableau N°1 : Implications des données du contexte sur la stratégie d'AENF
+
 Eléments du contexte | Caractéristiques à prendre en compte dans la stratégie | Moyen de prise en charge dans la stratégie
 --- | --- | ---
 Contexte géographique |  Superficie de 2.345.409 km² soit 12 fois le Sénégal, le Mali, le Niger et la Mauritanie  Populations dispersées sur de vastes étendues et, de surcroit, dans des zones très difficiles d'accès. | Déconcentration et décentralisation des activités d'AENF avec le renforcement des capacités des services déconcentrés et recours aux OCB actives en éducation au niveau des 26 provinces, 27 districts et 145 territoires
-Pluviométrie abondante et hydrographie (bassin du Congo et les lacs). | Orientation de l'apprentissage professionnel et de la formation professionnelle vers les métiers de l'agriculture, de la pisciculture… (curricula) pour lutter contre l'exode rurale.
+| Pluviométrie abondante et hydrographie (bassin du Congo et les lacs). | Orientation de l'apprentissage professionnel et de la formation professionnelle vers les métiers de l'agriculture, de la pisciculture… (curricula) pour lutter contre l'exode rurale.
 Contexte politique | Périodes marquées par des profonds troubles avec des guerres (insécurité généralisée, nombreux déplacements de population, pertes en vies humaines et matérielles, tentative de balkanisation du pays, zones d'insécurité dans la partie Est du pays …) | Module obligatoire sur l'éducation à la paix et à la citoyenneté.
-Contexte socio-démo- graphique | Diversité géographique, linguistique (221 langues) et culturelle ; Viols et violences |  Approche par la demande  Diversification des offres  Utilisation des langues locales comme langues d'alphabétisation  Module sur les viols, violences et cohabitation pacifique
-Prévalence du VIH (15-49 ans) estimée à 4,5% en RDC, avec des extrêmes qui vont de 1,7% à 7%. | Module obligatoire sur la santé de la reproduction, les IST, le VIH-SIDA
+Contexte socio-démo-graphique | • Diversité géographique, linguistique (221 langues) et culturelle ; • Viols et violences |  Approche par la demande  Diversification des offres  Utilisation des langues locales comme langues d'alphabétisation  Module sur les viols, violences et cohabitation pacifique
+| Prévalence du VIH (15-49 ans) estimée à 4,5% en RDC, avec des extrêmes qui vont de 1,7% à 7%. | Module obligatoire sur la santé de la reproduction, les IST, le VIH-SIDA
 Contexte économique |  Récession économique  Pauvreté touchant plus de 70% de la population |  Emphase sur la formation qualifiante d'insertion  Priorité aux provinces les plus touchées par la pauvreté : Katanga (69% de pauvres), Equateur, Bandundu et Sud Kivu (environ 85%)
-
-Tableau N°1 : Implications des données du contexte sur la stratégie d'AENF
 
 ## 1.2. Diagnostic de la situation de l'alphabétisation et de l'éducation non formelle
 
@@ -503,10 +585,12 @@ En  outre,  il  est  indiqué  dans  le  Rapport  mondial  de  suivi  sur  l'Éd
 
 La proportion de femmes analphabètes est plus élevée  que celle des hommes (41% contre 14%).  A  l'opposé  86%  des  hommes  et  59%  des  femmes  sont  considérés  comme  étant alphabètes, c'est-à-dire qu'ils ont, soit fréquenté le niveau secondaire, soit étaient capables de lire une phrase entière ou une partie d'une phrase s'ils n'avaient fréquenté que le niveau primaire. Les proportions de femmes et d'hommes analphabètes varient sensiblement selon le  milieu  de  résidence.  En  milieu  rural,  les  proportions  d'alphabètes  sont  moins    élevées qu'en milieu urbain.
 
+Tableau N°3 : Taux d'analphabétisme par province.
+
 Zones | Population totale 15 ans et plus (1) | Population analphabète 15 ans et plus(2) | Taux d'analphabétisme 15 ans et plus(3)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 H | F | T | H | F | T | H | F | T
-Province Kinshasa | 2O12077 | 2039706 | 4051783 | 116701 | 273321 | 390022 | 5.8 | 13.4 | 9,7
+Province Kinshasa | 2012077 | 2039706 | 4051783 | 116701 | 273321 | 390022 | 5.8 | 13.4 | 9,7
 Province Bas Congo | 1069805 | 1152921 | 2222726 | 170099 | 469239 | 639339 | 15.9 | 40.7 | 28.2
 Province Bandundu | 1934702 | 2151439 | 4086141 | 305683 | 871333 | 1177016 | 15.8 | 40.5 | 28.3
 Province Equateur | 1907828 | 2020355 | 3928183 | 469326 | 1196050 | 1665376 | 24.6 | 59.2 | 44.0
@@ -518,8 +602,6 @@ Province Kasaï oriental | 1536371 | 1605102 | 3141473 | 193583 | 550549 | 74413
 Province Kasaï occidental | 1276619 | 1366955 | 2643574 | 191493 | 583690 | 775183 | 15.0 | 42.7 | 28.9
 Province Katanga | 2492886 | 2570189 | 5063075 | 511042 | 1218270 | 1729312 | 20.5 | 47.4 | 34.8
 Pays | 17483804 | 18501049 | 35984853 | 3203808 | 8030742 | 11234550 | 17.5 | 42.8 | 30.3
-
-Tableau N°3 : Taux d'analphabétisme par province.
 
 Source : EDS-RDC 2007
 
@@ -545,16 +627,16 @@ En outre, les résultats selon le quintile de bien-être économique montrent qu
 
 Les  proportions  d'hommes  et  de  femmes  analphabètes  diminuent  considérablement,  du quintile plus pauvre au quintile le plus riche, passant respectivement de 29% à 3% chez les hommes et de 66 % à 7%  chez les femmes.
 
-Pourcentage par niveau d'instruction
+Tableau N°4: Niveau d'instruction chez les femmes
+
+Indicateurs | Pourcentage par niveau d'instruction | | | 
 --- | --- | --- | --- | ---
-Indicateurs | Aucun niveau d'instruction | Niveau Primaire | Niveau Secondaire | Niveau Supérieur
+| Aucun niveau d'instruction | Niveau Primaire | Niveau Secondaire | Niveau Supérieur
 Fécondité | 7,1 | 7,1 | 5,2 | 2,6
 Mortalité | 53 | 39 | 30 | -
 Planification familiale | 70,2 | 82,3 | 96,0 | 100,0
 Santé de reproduction | 30,5 | 42,5 | 55,2 | 78,4
 Connaissance du VIH/SIDA | 82,7 | 90,7 | 98,1 | 100,0
-
-Tableau N°4: Niveau d'instruction chez les femmes
 
 Source : EDS-RDC 2007
 
@@ -574,22 +656,22 @@ Page 19
 
 Le  tableau  ci-dessous  présente  les  interventions  en  alphabétisation  et  d'éducation  non formelle.
 
-ACTIVITES | 2006-2007 | 2007-2008 | 2008-2009 | 2009- 2010
---- | --- | --- | --- | ---
-1. | ALPHABETISATION
-Apprenants | 93.735 | 81.038 | 65.175 | 84.598
-Educateurs/Enseignants | 5.305 | 4.748 | 4.758 | 13.362
-Centres | 1.237 | 1.313 | 997 | 1.175
-2. | RATTRAPAGE SCOLAIRE
-Apprenants | 52.311 | 59.479 | 64.275 | 102.474
-Educateurs/Enseignants | 2.037 | 2.243 | 2.934 | 9.852
-Centres | 401 | 517 | 530 | 847
-3. | APPRENTISSAGE PROFESSIONNEL
-Apprenants | 76.957 | 72.580 | 58.484 | 36.607
-Educateurs/Enseignants | 7.650 | 5.986 | 15.459 | 12.612
-Centres | 1.057 | 1.160 | 852 | 700
-
 Tableau N°5 : Evolution des centres et des effectifs de l'alphabétisation et de l'Education Non Formelle de 2006 à 2010
+
+| ACTIVITES | 2006-2007 | 2007-2008 | 2008-2009 | 2009-2010
+--- | --- | --- | --- | --- | ---
+1. | ALPHABETISATION | | | |
+| Apprenants | 93.735 | 81.038 | 65.175 | 84.598
+| Educateurs/Enseignants | 5.305 | 4.748 | 4.758 | 13.362
+| Centres | 1.237 | 1.313 | 997 | 1.175
+2. | RATTRAPAGE SCOLAIRE | | | |
+| Apprenants | 52.311 | 59.479 | 64.275 | 102.474
+| Educateurs/Enseignants | 2.037 | 2.243 | 2.934 | 9.852
+| Centres | 401 | 517 | 530 | 847
+3. | APPRENTISSAGE PROFESSIONNEL | | | |
+| Apprenants | 76.957 | 72.580 | 58.484 | 36.607
+| Educateurs/Enseignants | 7.650 | 5.986 | 15.459 | 12.612
+| Centres | 1.057 | 1.160 | 852 | 700
 
 Source : Annuaires statistiques 2006 à  2010
 
@@ -623,9 +705,7 @@ La  Constitution  de  la  République  a  structuré  administrativement  l'Etat
 
  la fixation des salaires minima provinciaux conformément à la législation nationale ;
 
-
-
-- l'habitat urbain et rural, la voirie et les équipements collectifs provinciaux et locaux ;
+ l'habitat urbain et rural, la voirie et les équipements collectifs provinciaux et locaux ;
 
  la planification provinciale.
 
@@ -679,12 +759,14 @@ En  ce  qui  concerne  le  personnel  de  la  DGENF,  il  est  situé  à  deux 
 
 La  DGENF  compte  présentement,  au  niveau  central,  soixante-neuf  agents  (69)  issus  de l'ancienne  Direction  de  l'alphabétisation  et  de  l'éducation  des  adultes  soit  55  hommes et 14 femmes.
 
+Tableau N°6 : Répartition du personnel selon la fonction et le profil
+
 Profil professionnel | Nombre | Profil initial
 --- | --- | ---
 Formateurs | 13 | Psychopédagogues, Economistes, Philosophes, Douaniers
 Concepteurs de matériel didactique | 4 | Pédagogues
 Statisticiens | 3 | Psychopédagogues, conseillers d'orientation
-Informaticiens | 2 | Analystes - Programmeurs
+Informaticiens | 2 | Analystes – Programmeurs
 Animateurs et monteurs | 7 | Animateurs culturels, Techniciens en science d'information et de communication, sociologues, juristes
 Communicologues | 2 | Techniciens en science d'information et de communication, relation internationale
 Dessinateur | 2 | Artiste plasticien
@@ -693,8 +775,6 @@ Gestionnaires | 3 | Psychopédagogues, pédagogues
 Formatrices en maternelle | 3 | Pédagogues
 Personnel d'appoint | 23 | Pédagogues, sociologues, D4
 Ouvriers | 5 | PP5, manœuvre
-
-Tableau N°6 : Répartition du personnel selon la fonction et le profil
 
 Source : Etat des lieux de l'AENF/2010
 
@@ -848,6 +928,8 @@ Le  financement  de  l'AENF  au  Congo  provient  principalement  de l'Etat,  de
 
 La position de l'alphabétisation dans le système éducatif  est  à l'image des ressources qui lui sont  consacrées.  En  effet  les  arbitrages  budgétaires  en  faveur  des  secteurs  régaliens défavorisent outre mesure les secteurs sociaux dont fait partie   l'éducation en général et le sous-secteur AENF en particulier. Même dans le cadre sectoriel tel que l'indique le tableau ci-dessous présenté, il se  révèle une forte marginalisation de ce  sous-secteur.
 
+Tableau N°7: Proportion du budget du MAS.AH.SN alloué à la DGENF  (2006 à 2009)
+
 Année | Budget Total MAS.AH.SN (FC) | Proportion Alphabétisation (FC) | Pourcentage
 --- | --- | --- | ---
 2006 | 168.358.755 | 2.864.063 | 1,7
@@ -856,8 +938,6 @@ Année | Budget Total MAS.AH.SN (FC) | Proportion Alphabétisation (FC) | Pource
 2009 | 1.304.830.000 | 0,00 | 0
 2010 | 1.625.218.000 | 92.953.300 | 5,7
 2011 | 1.549.469.754 | 127.487.211 | 8 ,2
-
-Tableau N°7: Proportion du budget du MAS.AH.SN alloué à la DGENF  (2006 à 2009)
 
 Cette  contribution  de  l'Etat  provient  du  budget  ordinaire    qui  prend  en  charge  le fonctionnement de la Direction Générale de l'Education Non formelle. Toutefois, en 2009,  la part du budget de ce sous-secteur au sein du Ministère des Affaires Sociales a été de 0%. La part du financement de l'AENF par l'Etat Congolais n'a même pas atteint 1%  du budget de l'éducation. C'est dire qu'elle est  très en dessous de la norme des 3% recommandée par la Conférence de Bamako de Septembre 2007.
 
@@ -872,6 +952,7 @@ Page 25
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+Tableau N°8 : Financement de l'AENF par les PTF
 
 Partenaires | Financement de l'AENF
 --- | ---
@@ -879,8 +960,6 @@ UNICEF | Appui à :  l'élaboration du programme national de rattrapage scola
 UNESCO | Appui technique:  à l'élaboration du programme de l'alphabétisation scolarisante ;  à la formation des formateurs dans le cadre du rattrapage scolaire ;  à l'organisation de la semaine nationale de l'alphabétisation et de la Journée Internationale d'Alphabétisation ;  à la formation des alphabétiseurs à travers 8 provinces.
 Banque Africaine de Développement | Appui à :  la mise en place du SIGE, à l'équipement en matériel informatique et fournitures de bureau ;  La formation en planification en éducation des adultes (Paris) ;  la prise en charge des voyages d'échanges d'expériences (Maputo)
 Banque Mondiale |  Appui à : - l'élaboration de l'Etat des lieux de l'alphabétisation et la réalisation des activités négociées et planifiées dans le PARSE ; - en équipements informatiques et appui à l'élaboration du projet de la loi-cadre de l'Enseignement National ; - à la prise en charge des voyages d'études et d'échanges d'expériences (Burkina et Sénégal) ; - à l'élaboration de la Stratégie Nationale AENF ; - à l'actualisation de la Loi-cadre de l'enseignement ; - à l'élaboration au Statut de l'Educateur Social
-
-Tableau N°8 : Financement de l'AENF par les PTF
 
 Ce faible  intérêt  manifesté  par  les  partenaires  financiers  trouve  ses  fondements  en  partie dans  l'absence  d'une  vision  et  d'une  politique  nationales  claires  et  d'un  faible  niveau d'engagement des  décideurs politiques.
 
@@ -944,15 +1023,15 @@ Chaque  discipline  intégrée  dans  ce  programme  a  des  objectifs  terminau
 
 On  distingue  le  programme  d'alphabétisation  traditionnelle  et  celui  d'alphabétisation fonctionnelle.
 
-###### Le programme d'alphabétisation traditionnelle
+###### i. Le programme d'alphabétisation traditionnelle
 est constitué de l'ensemble d'activités  visant  l'acquisition  des  compétences  en  lecture,  écriture  et  calcul  pour l'épanouissement intellectuel et socioprofessionnel des bénéficiaires. Ces  programmes,  d'une  durée  de  6  à  9  mois,  visent  les  jeunes  et  les  adultes analphabètes.
 
-###### Le  programme  d'alphabétisation  fonctionnelle
+###### ii. Le programme d'alphabétisation fonctionnelle
 vise,  en  plus  de  l'acquisition  des compétences traditionnelles  en  lecture,  calcul  et  écriture,  l'acquisition  des  notions relatives  aux  métiers  exercés  par  les  bénéficiaires  pour  les  rendre  performants  et productifs en vue d'une meilleure auto-prise en charge et une participation active au développement  de  leur  environnement  socio-économique.  Il  cible  les  adultes analphabètes en activité professionnelle.
 
 Selon  les  besoins  d'apprentissage  des  bénéficiaires,  la  durée  de  la  formation  varie  entre quatre (4) mois et trois (3) ans et au terme de celle-ci, un certificat d'aptitude professionnelle est délivré aux récipiendaires ayant satisfait aux épreuves du jury.
 
-###### Le  programme  d'alphabétisation  scolarisante
+###### iii. Le programme d'alphabétisation scolarisante
 a  pour  objectif  de  permettre  aux enfants n'ayant pas accédé à l'enseignement formel à l'âge d'inscription (15-25 ans) et/ou  déscolarisés  d'acquérir  des  compétences  et  aptitudes  du  niveau  primaire pouvant leur permettre  d'embrasser l'apprentissage professionnel des métiers.
 
 Le but de ce programme  est d'assurer aussi bien l'insertion scolaire des enfants analphabètes que la réinsertion socio-scolaire de ceux qui ont prématurément quitté le cycle primaire ou le rattrapage scolaire  pour diverses raisons afin d'acquérir les connaissances, les compétences  et  les  attitudes  adéquates  pour  le  bien-être  individuel  et  collectif. Il prépare l'enfant à :
@@ -1019,205 +1098,49 @@ Page 30
 
 ### 1.2.6. Principaux problèmes à résoudre dans le sous-secteur
 
-Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
-
-Page 31
-
 Le tableau suivant résume les principaux problèmes à résoudre dans le sous-secteur de l'AENF qui sont détaillés en annexe X.
 
 Tableau 9 : Problème central de l'AENF en RDC :
 
 TAUX ELEVE D'ANALPHABETISME
 
-Cause  principale  1 :  Capacités
-
-insuffisantes
-
-des
-
-structures
-
-politiques
-
-et
-
-techniques
-
-à
-
-prendre en charge l'AENF
-
-Cause principale 2 : Faiblesse de l'engagement
-
-politique en faveur de l'AENF (marginalisation
-
-de l'AENF)
-
-Cause
-
-principale
-
-3 :
-
-Accès
-
-et
-
-accessibilité aux offres limitées et
-
-inéquitables
-
-Faible
-
-financement
-
-des
-
-structures
-
-en
-
-charge
-
-de
-
-l'AENF (fonctionnement)
-
-Ressources
-
-humaines
-
-qualifiées insuffisantes
-
-Moyens logistiques
-
-insuffisants
-
-Structures
-
-insuffisantes
-
-au
-
-niveau
-
-local
-
-(provinces,
-
-districts,
-
-territoires
-
-et
-
-secteurs)
-
-Faible part des opérations sur le terrain
-
-dans le budget de l'AENF
-
-Faible budget de l'AENF
-
-Insuffisance du plaidoyer en faveur de
-
-l'AENF
-
-Absence de stratégie reconnue et acceptée
-
-par tous
-
-Non application et/ou non-respect de
-
-certains textes juridiques ayant trait à
-
-l'AENF (subventions des ONG…) et aux
-
-engagements internationaux (EPT, OMD…)
-
-Absence  de  plan
-
-d'identification,  de  réinsertion
-
-scolaire
-
-et de prise en charge des déscolarisés et
-
-des non scolarisés
-
-et des mesures de protection
-
-sociale
-
-Inadéquation/inadaptation des
-
-offres aux besoins spécifiques des
-
-bénéficiaires des structures de
-
-l'AENF avec les cibles (handicapés
-
-et autres)
-
-Absence de certification nationale
-
-et officielle  des acquis dans la
-
-formation professionnelle non
-
-formelle et dans l'alphabétisation
-
-Insuffisance des matériels
-
-didactiques et des écrits en
-
-langues du milieu
-
-Négligence des langues locales (du
-
-milieu) dans les offres d'AENF
-
-Faible harmonisation et coordination
-
-des interventions et des intervenants
-
-Absence de la cartographie des sites de
-
-l'AENF
-
-Faibles capacités d'accueil des structures
-
-éducatives
-
-Disparités d'accès aux offres selon les
-
-provinces, le genre, les handicaps…
-
-Non application de la décentralisation
-
-Faible mobilisation des communautés
-
-Faiblesse de la coordination
-
-des actions d'AENF
-
-Sous-qualification et non
-
-motivation des enseignants
-
-(alphabétiseurs, instructeurs…)
-
-Cause principale 4 :
-
-Qualité
-
-des
-
-offres
-
-non
-
-satisfaisantes
+Cause principale 1 : Capacités insuffisantes des structures politiques et techniques à prendre en charge l'AENF
+
+- Faible financement des structures en charge de l'AENF (fonctionnement)
+- Ressources humaines qualifiées insuffisantes
+- Structures insuffisantes au niveau local (provinces, districts, territoires et secteurs)
+- Moyens logistiques insuffisants
+- Faiblesse de la coordination des actions d'AENF
+
+Cause principale 2 : Faiblesse de l'engagement politique en faveur de l'AENF (marginalisation de l'AENF)
+
+- Faible budget de l'AENF
+- Faible part des opérations sur le terrain dans le budget de l'AENF
+- Insuffisance du plaidoyer en faveur de l'AENF
+- Absence de stratégie reconnue et acceptée par tous
+- Non application et/ou non-respect de certains textes juridiques ayant trait à l'AENF (subventions des ONG…) et aux engagements internationaux (EPT, OMD…)
+- Non application de la décentralisation
+
+Cause principale 3 : Accès et accessibilité aux offres limitées et inéquitables
+
+- Absence de plan d'identification, de réinsertion scolaire et de prise en charge des déscolarisés et des non scolarisés et des mesures de protection sociale
+- Faibles capacités d'accueil des structures éducatives
+- Disparités d'accès aux offres selon les provinces, le genre, les handicaps…
+- Faible harmonisation et coordination des interventions et des intervenants
+- Négligence des langues locales (du milieu) dans les offres d'AENF
+- Absence de la cartographie des sites de l'AENF
+- Faible mobilisation des communautés
+
+Cause principale 4 : Qualité des offres non satisfaisantes
+
+- Inadéquation/inadaptation des offres aux besoins spécifiques des bénéficiaires des structures de l'AENF avec les cibles (handicapés et autres)
+- Absence de certification nationale et officielle des acquis dans la formation professionnelle non formelle et dans l'alphabétisation
+- Insuffisance des matériels didactiques et des écrits en langues du milieu
+- Sous-qualification et non motivation des enseignants (alphabétiseurs, instructeurs…)
+
+Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
+
+Page 31
 
 [[END OF PAGE 31]]
 
@@ -1397,8 +1320,8 @@ Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012 Page 36
 
 [[START OF PAGE 37]]
 
-OS 2: Améliorer la qualité, la pertinence et l'efficacité des offres de l'AENF | Les bénéficiaires des programmes d'AENF mettent en œuvre les compétences acquises pour s'insérer dans le système éducatif et dans la vie active. | Rapport de fin d'année Rapports de suivi et d'évaluation SIG-ENF Rapport des études d'impact des programmes Enquêtes de satisfaction des bénéficiaires Compte rendu des réunions | i. Amélioration diversifiés ii. Développement de la stratégie de production et de distribution des supports pédagogiques et andragogiques iii. Développement de l'environnement lettré en langues locales 1 iv. Amélioration du statut, de la formation professionnelle et continue et de la motivation du personnel enseignant du non formel v. Mise en place d'un système de suivi- évaluation (contrôle et encadrement du personnel enseignant et suivi/évaluation, des acquis scolaires des apprenants et certification, indicateurs, SIG-ENF…, carte de l'AENF, renforcement des capacités d'encadrement pédagogique et andragogique du personnel du sous- secteur, visites pédagogiques des Centres de Rattrapage scolaire par des inspecteurs du MAS.AH.SN et de l'EPSP vi. Création des Cellules de base /Unités pédagogiques au sein des Centres de | des programmes (curricula)
---- | --- | --- | --- | ---
+OS 2: Améliorer la qualité, la pertinence et l'efficacité des offres de l'AENF | Les bénéficiaires des programmes d'AENF mettent en œuvre les compétences acquises pour s'insérer dans le système éducatif et dans la vie active. | • Taux de réussite des apprenants • Cadre national de certification opérationnel • Taux d'insertion économique des formés • Nombre de programmes révisés • Nombre de supports didactiques produits et diffusés • Nombre de langues locales codifiées et utilisées dans l'AENF • Nombre de personnel enseignant d'AENF formés • Nombre de titres en langues nationales et locales diffusés dans les centres d'AENF • Nombre des cellules de Base/Unités pédagogiques qui fonctionnent normalement au sein des CRS | Rapport de fin d'année Rapports de suivi et d'évaluation SIG-ENF Rapport des études d'impact des programmes Enquêtes de satisfaction des bénéficiaires Compte rendu des réunions | i. Amélioration des programmes (curricula) diversifiés ii. Développement de la stratégie de production et de distribution des supports pédagogiques et andragogiques iii. Développement de l'environnement lettré en langues locales1 iv. Amélioration du statut, de la formation professionnelle et continue et de la motivation du personnel enseignant du non formel v. Mise en place d'un système de suivi-évaluation (contrôle et encadrement du personnel enseignant et suivi/évaluation, des acquis scolaires des apprenants et certification, indicateurs, SIG-ENF…, carte de l'AENF, renforcement des capacités d'encadrement pédagogique et andragogique du personnel du sous-secteur, visites pédagogiques des Centres de Rattrapage scolaire par des inspecteurs du MAS.AH.SN et de l'EPSP vi. Création des Cellules de base /Unités pédagogiques au sein des Centres de | 
+--- | --- | --- | --- | --- | ---
 
  1 Promouvoir le développement d'un environnement lettré durable où chaque individu peut développer ses potentialités, sa créativité, son esprit critique, contribuer au développement et à l'implantation des valeurs de démocratie, de paix, de tolérance, de justice et d'équité d'une part et renverser la tendance des indicateurs socio-économiques tels ceux liés à la pauvreté d'autre part.
 
@@ -1408,9 +1331,9 @@ Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012 Page 37
 
 [[START OF PAGE 38]]
 
-rattrapage scolaire ou soit les rattacher directement à celles des écoles primaires publiques au cas où les CRS fonctionneraient dans ces écoles vii. Recherche et implication des universités 2 (codification des langues locales en partenariat avec le Centre International des Langues, la SIL…, productions de manuels et guides)
---- | --- | --- | --- | ---
-OS3 : Renforcer la gestion du sous-secteur de l'AENF | Les structures en charge de l'AENF exercent avec efficacité leurs missions et attributions. | Nombre de structures d'AENF réformées et créées et fonctionnelles Nombre de cadres d'AENF formés Niveau d'équipement et de mobilité des structures déconcentrés chargées de la gestion de l'AENF Fonctionnalité du SIG- ENF Niveau d'information et d'implication de l'ensemble des acteurs dans la mise en œuvre de la stratégie Taux d'évolution du financement de l'AENF Répartition du financement de l'AENF | Rapports de suivi et d'évaluation produits et diffusés Rapport d'audit de la DGENF Rapport de supervision des PTF | i. Mise en œuvre des réformes organisationnelles et institutionnelles dans le contexte de la décentralisation et la déconcentration (audit organisationnel, prise des nouveaux textes, mise en place de structures d'AENF au niveau local, recrutement et formation des personnels, mise à disposition de moyens suffisants de travail…) ii. Renforcement des capacités de planification et de gestion du sous- secteur (formation/voyages d'étude, système d'information et de gestion de l'éducation non formelle pour suivre l'évolution du sous-secteur…) iii. Mise en place d'un cadre partenarial pour mieux coordonner et harmoniser les interventions (cadre d'entente entre les ministères en charge de l'éducation, cadre national de concertation avec ses démembrements, comité de pilotage de la stratégie nationale)
+ |  |  |  | rattrapage scolaire ou soit les rattacher directement à celles des écoles primaires publiques au cas où les CRS fonctionneraient dans ces écoles vii. Recherche et implication des universités2 (codification des langues locales en partenariat avec le Centre International des Langues, la SIL…, productions de manuels et guides) | 
+--- | --- | --- | --- | --- | ---
+OS3 : Renforcer la gestion du sous-secteur de l'AENF | Les structures en charge de l'AENF exercent avec efficacité leurs missions et attributions. | • Nombre de structures d'AENF réformées et créées et fonctionnelles • Nombre de cadres d'AENF formés • Niveau d'équipement et de mobilité des structures déconcentrés chargées de la gestion de l'AENF • Fonctionnalité du SIG-ENF • Niveau d'information et d'implication de l'ensemble des acteurs dans la mise en œuvre de la stratégie • Taux d'évolution du financement de l'AENF • Répartition du financement de l'AENF | Rapports de suivi et d'évaluation produits et diffusés Rapport d'audit de la DGENF Rapport de supervision des PTF | i. Mise en œuvre des réformes organisationnelles et institutionnelles dans le contexte de la décentralisation et la déconcentration (audit organisationnel, prise des nouveaux textes, mise en place de structures d'AENF au niveau local, recrutement et formation des personnels, mise à disposition de moyens suffisants de travail…) ii. Renforcement des capacités de planification et de gestion du sous-secteur (formation/voyages d'étude, système d'information et de gestion de l'éducation non formelle pour suivre l'évolution du sous-secteur…) iii. Mise en place d'un cadre partenarial pour mieux coordonner et harmoniser les interventions (cadre d'entente entre les ministères en charge de l'éducation, cadre national de concertation avec ses démembrements, comité de pilotage de la stratégie nationale) | 
 
 > 2 Intégrer des modules de formation relatifs à l'alphabétisation et à l'éducation non formelle dans le cursus de l'enseignement supérieur et universitaire, en particulier dans les facultés de psychologie et sciences de l'éducation et dans les ISP
 
@@ -1422,9 +1345,9 @@ Page 38
 
 [[START OF PAGE 39]]
 
-iv. Mise en place d'un cadre de financement de l'AENF v. Activités de plaidoyer en faveur de l'AENF
---- | --- | --- | --- | --- | --- | ---
-OS.4. Mettre en place les mesures de protection sociale | - Les personnes démunies alphabétisées et ayant accès aux CRS et aux centres d'apprentissage professionnel sont pris en charge | Nombre des personnes démunies alphabétisées et ayant accès aux CRS et aux centres d'apprentissage professionnel pris en charge | Rapport charge | de prise | en | I. Transferts des fonds (Octroi des crédits/subventions) aux familles démunies pour la scolarisation des enfants II. Visites des Assistants sociaux et suivi scolaire des enfants dans les centres de rattrapage scolaire en vue d'identifier leurs problèmes III. Créer des synergies avec d'autres ministères (sante, agriculture pour la prise en charge sanitaire et nutritionnelle des enfants des CRS et défavorisés IV. Réactualiser la stratégie de protection sociale V. Mettre en place les activités génératrices de revenue VI. Plaidoyer pour la suppression des frais (TENAFEP) aux enfants des CRS VII. Mettre en place des cantines scolaires dans les CRS VIII. Plaidoyer pour renforcer les lois contre le travail des enfants IX. Règlementation des normes de rattrapage scolaire et suivi des CRS prives pour le respect des normes
+ |  |  |  | iv. Mise en place d'un cadre de financement de l'AENF v. Activités de plaidoyer en faveur de l'AENF | 
+--- | --- | --- | --- | --- | ---
+OS.4. Mettre en place les mesures de protection sociale | - Les personnes démunies alphabétisées et ayant accès aux CRS et aux centres d'apprentissage professionnel sont pris en charge | Nombre des personnes démunies alphabétisées et ayant accès aux CRS et aux centres d'apprentissage professionnel pris en charge | Rapport de prise en charge | I. Transferts des fonds (Octroi des crédits/subventions) aux familles démunies pour la scolarisation des enfants II. Visites des Assistants sociaux et suivi scolaire des enfants dans les centres de rattrapage scolaire en vue d'identifier leurs problèmes III. Créer des synergies avec d'autres ministères (sante, agriculture pour la prise en charge sanitaire et nutritionnelle des enfants des CRS et défavorisés IV. Réactualiser la stratégie de protection sociale V. Mettre en place les activités génératrices de revenue VI. Plaidoyer pour la suppression des frais (TENAFEP) aux enfants des CRS VII. Mettre en place des cantines scolaires dans les CRS VIII. Plaidoyer pour renforcer les lois contre le travail des enfants IX. Règlementation des normes de rattrapage scolaire et suivi des CRS prives pour le respect des normes | 
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012 Page 39
 
@@ -1476,10 +1399,9 @@ Tableau N°11 : Bénéficiaires des programmes de l'AENF
 
 Types de programmes | Caractéristiques des bénéficiaires | Sous-catégories | Nature de l'intervention | Unités/Nombre | Coût unitaire
 --- | --- | --- | --- | --- | ---
-1. Rattrapage scolaire du niveau primaire 3 | Enfants de 9-14 ans déscolarisés et non scolarisés | Enfants vivant en famille | Passerelle pour entrer dans le secondaire | 50% des effectifs soit 900.000 personnes par an | 30 USD
-Enfants en situation difficile | Retrait, identification, réinsertion sociale et scolaire, assistance sociale…
-2. Alphabétisation initiale, scolarisante et fonctionnelle | 15 ans et plus | Personnes analphabètes (non scolarisées ou déscolarisées) dont certaines professionnellement actives | 1. Alphabétisation initiale 2. Alphabétisation scolarisante avec deux passerelles : - Formation qualifiante - Poursuite des études dans le secondaire | 30% des effectifs soit 540.000 personnes par an | 30 USD
-3. Alphabétisation fonctionnelle pour l'amélioration des capacités professionnelles à la demande
+1. Rattrapage scolaire du niveau primaire3 | Enfants de 9-14 ans déscolarisés et non scolarisés | Enfants vivant en famille | Passerelle pour entrer dans le secondaire | 50% des effectifs soit 900.000 personnes par an | 30 USD
+ |  | Enfants en situation difficile | Retrait, identification, réinsertion sociale et scolaire, assistance sociale… |  | 
+2. Alphabétisation initiale, scolarisante et fonctionnelle | 15 ans et plus | Personnes analphabètes (non scolarisées ou déscolarisées) dont certaines professionnellement actives | 1. Alphabétisation initiale 2. Alphabétisation scolarisante avec deux passerelles : - Formation qualifiante - Poursuite des études dans le secondaire 3. Alphabétisation fonctionnelle pour l'amélioration des capacités professionnelles à la demande | 30% des effectifs soit 540.000 personnes par an | 30 USD
 3. Apprentissage professionnel et formation professionnelle | A partir de 15 ans | Personnes déjà scolarisées ou provenant de l'alphabétisation scolarisante | Formation qualifiante pour les ouvriers qualifiés et les praticiens aptes à travailler dans les secteurs tant public que privé ou à leur propre compte | 20% des effectifs soit 360.000 personnes par an | 150 USD
 4. Renforcement des capacités | Personnel en charge de l'AENF (Etat) | Personnels de la DGENF Personnels de la protection sociale | Formation techniques en management, en suivi/évaluation, en élaboration de programmes, de matériels didactiques et en TIC. | 50 agents | 100 USD
 
@@ -1495,14 +1417,14 @@ Page 41
 
 Types de programmes | Caractéristiques des bénéficiaires | Sous-catégories | Nature de l'intervention | Unités/Nombre | Coût unitaire
 --- | --- | --- | --- | --- | ---
-Personnels en charge de l'AENF dans les divisions provinciales |  Contrôle et suivi de l'effectivité et de la qualité des programmes et certification des acquis avec l'appui du Service de l'Inspection  Vérification de la conformité des offres à la demande exprimée par les bénéficiaires | 24 personnes | PM
-Personnels en charge de l'AENF dans les districts | 92 personnes | PM
-Personnels en charge de l'AENF dans les territoires/communes | 1301 agents | PM
-Personnel en charge de l'AENF (Autres) | Personnels des OCB, ONG… | Formation en management d'un programme d'AENF | 350 ONG | PM
-Enseignants du non formel | Formation initiale et recyclage | 60.000 enseignants | PM
+ |  | Personnels en charge de l'AENF dans les divisions provinciales |  Contrôle et suivi de l'effectivité et de la qualité des programmes et certification des acquis avec l'appui du Service de l'Inspection  Vérification de la conformité des offres à la demande exprimée par les bénéficiaires | 24 personnes | PM
+ |  | Personnels en charge de l'AENF dans les districts |  | 92 personnes | PM
+ |  | Personnels en charge de l'AENF dans les territoires/communes |  | 1301 agents | PM
+ | Personnel en charge de l'AENF (Autres) | Personnels des OCB, ONG… | Formation en management d'un programme d'AENF | 350 ONG | PM
+ |  | Enseignants du non formel | Formation initiale et recyclage | 60.000 enseignants | PM
 6. Education des adultes tout au long de la vie | Acteurs impliqués dans l'AENF | Agents en charge de l'éducation des adultes | Formation initiale et recyclage | 200 Agents/ an | PM
 7. Campagne d'AENF | Acteurs impliqués dans l'AENF | Animateurs d'antenne de l'AENF | Recyclage | 100 Agents/an | PM
-Total | 7.200.000 personnes d'ici 2015 | PM
+Total |  |  |  | 7.200.000 personnes d'ici 2015 | PM
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012 Page 42
 
@@ -1550,9 +1472,9 @@ Page 43
 
 Tableau N°13 : Répartition des effectifs par province selon la population analphabète et par type de programme
 
-Population analphabète 15 ans et plus(2) | % | Part dans les effectifs à | Répartition par type de programme et par an
+Zones | Population analphabète 15 ans et plus(2) |  |  | % | Part dans les effectifs à alphabétiser par année | Répartition par type de programme et par an |  | 
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Zones | H | F | T | alphabétiser par année | Rattrapage scolaire | Alphabé- tisation | Formation profes- sionnelle
+ | H | F | T |  |  | Rattrapage scolaire | Alphabétisation | Formation professionnelle
 Province Kinshasa | 116701 | 273321 | 390022 | 3,47 | 62460 | 50% | 30% | 20%
 Province Bas Congo | 170099 | 469239 | 639339 | 5,69 | 102420 | 50% | 30% | 20%
 Province Bandundu | 305683 | 871333 | 1177016 | 10,46 | 188280 | 50% | 30% | 20%
@@ -1576,11 +1498,11 @@ Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012 Page 44
 
 Tableau N°14: Acteurs et rôles
 
-Rôles et responsabilités dans la stratégie d'AENF
+Niveau | Acteurs | Identité/Statut | Rôles et responsabilités dans la stratégie d'AENF |  |  | 
+ |  |  | Stratégie | Administratif réglementaire | Technique | Financier
 --- | --- | --- | --- | --- | --- | ---
-Niveau | Acteurs | Identité/Statut | Stratégie | Administratif réglementaire | Technique | Financier
-Nation | Ministère des Affaires Sociales (MAS.AH.SN) |  Plaidoyer auprès des partenaires  Veille sur les options stratégies du Gouvernement en matière d'éducation | Signature des actes juridiques et réglementaires proposés par ses services | Supervision et suivi de la mise en œuvre de la stratégie d'AENF |  Arbitrage budgétaire favorable à l'AENF  Mobilisation des ressources locales  Sécurisation des ressources allouées à l'AENF
-Cadre de concertation et de partenariat | Regroupement des acteurs du sous- secteur : Ministères, Commission socioculturelle de l'Assemblée Nationale, PTF, ONG, secteur privé, Confessions religieuses… |  Appropriation des décisions prises  Contribution à la mobilisation sociale en faveur de l'AENF  Influence des stratégies et stratégies pour la mise en application et le respects des engagements pris (contrôle citoyen) |  Echanges d'idées, de bonnes pratiques et d'expériences.. ;  Formulation de recommandations et d'avis sur l'AENF | Plaidoyer pour la mobilisation de ressources en faveur de l'AENF
+Nation | Ministère des Affaires Sociales (MAS.AH.SN) |  |  Plaidoyer auprès des partenaires  Veille sur les options stratégies du Gouvernement en matière d'éducation | Signature des actes juridiques et réglementaires proposés par ses services | Supervision et suivi de la mise en œuvre de la stratégie d'AENF |  Arbitrage budgétaire favorable à l'AENF  Mobilisation des ressources locales  Sécurisation des ressources allouées à l'AENF
+ | Cadre de concertation et de partenariat | Regroupement des acteurs du sous-secteur : Ministères, Commission socioculturelle de l'Assemblée Nationale, PTF, ONG, secteur privé, Confessions religieuses… |  Appropriation des décisions prises  Contribution à la mobilisation sociale en faveur de l'AENF  Influence des stratégies et stratégies pour la mise en application et le respects des engagements pris (contrôle citoyen) |  |  Echanges d'idées, de bonnes pratiques et d'expériences.. ;  Formulation de recommandations et d'avis sur l'AENF | Plaidoyer pour la mobilisation de ressources en faveur de l'AENF
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -1590,10 +1512,9 @@ Page 45
 
 [[START OF PAGE 46]]
 
-DGENF | Direction nationale du MAS.AH.SN | Veiller à la mise en application de la stratégie d'AENF Contribuer à la réactualisation |  Proposition des actes juridiques et réglementaires pour approbation par le MAS.AH.SN  Elaboration des normes en AENF |  Elaboration des différents curricula d'AENF  Identification de l'existant et des besoins non couverts et mise en œuvre d'une stratégie de dotation en matériels didactiques pour chaque langue codifiée  Validation des documents ayant trait à l'AENF  Renforcement des capacités des personnels de l'AENF  Développement de l'environnement lettré dans les langues codifiées  Codification des langues locales  Suivi et évaluation de la stratégie d'AENF  Mise en place d'un cadre national de certification des acquis en AENF |  Elaboration du CDSMT et du plan d'opération et du budget annuel de l'AENF  Exécution du budget national  Plaidoyer pour le financement de l'AENF  Etudes sur les coûts, l'efficience et l'efficacité des programmes d'AENF
---- | --- | --- | --- | --- | ---
-FNAENF | Comité de pilotage paritaire, autonomie de gestion, transparence, équité, célérité… | Mobilisation et gestion des ressources financières de l'AENF
-PTF | Partenaires bilatéraux et multilatéraux de la RDC actifs en éducation | Appui à la formulation des stratégies d'AENF | Renforcement des capacités | Financement de la stratégie
+ | DGENF | Direction nationale du MAS.AH.SN | Veiller à la mise en application de la stratégie d'AENF Contribuer à la réactualisation |  Proposition des actes juridiques et réglementaires pour approbation par le MAS.AH.SN  Elaboration des normes en AENF |  Elaboration des différents curricula d'AENF  Identification de l'existant et des besoins non couverts et mise en œuvre d'une stratégie de dotation en matériels didactiques pour chaque langue codifiée  Validation des documents ayant trait à l'AENF  Renforcement des capacités des personnels de l'AENF  Développement de l'environnement lettré dans les langues codifiées  Codification des langues locales  Suivi et évaluation de la stratégie d'AENF  Mise en place d'un cadre national de certification des acquis en AENF |  Elaboration du CDSMT et du plan d'opération et du budget annuel de l'AENF  Exécution du budget national  Plaidoyer pour le financement de l'AENF  Etudes sur les coûts, l'efficience et l'efficacité des programmes d'AENF
+ | FNAENF | Comité de pilotage paritaire, autonomie de gestion, transparence, équité, célérité… |  |  |  | Mobilisation et gestion des ressources financières de l'AENF
+ | PTF | Partenaires bilatéraux et multilatéraux de la RDC actifs en éducation | Appui à la formulation des stratégies d'AENF |  | Renforcement des capacités | Financement de la stratégie
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -1603,10 +1524,9 @@ Page 46
 
 [[START OF PAGE 47]]
 
-Réseaux associatifs actifs en AENF |  Coordination Nationale des ONG d'Alphabétisation (CONGA)  Réseau des Centres d'Alphabétisation et de Formation Professionnelle (RECAFOP)  Réseau national des Centres de Rattrapage Scolaire (RENACERAS)  Coalition EPT | Plaidoyer en faveur de l'AENF Participation à la formulation des stratégies d'AENF | Formulation de propositions techniques Echanges d'expériences | Mobilisation de ressources destinées à l'AENF
---- | --- | --- | --- | ---
-Organismes et services d'appui | Services techniques du MAS.AH.SN, instituts spécialisés et instituts supérieurs, Universités, secteur privé, personnes ressources… |  Plaidoyer en faveur de la prise en charge des personnes en situation de conflit ou groupes vulnérables pour le volet « réinsertion sociale » (DGSNRS)  Suivi de l'application des droits des enfants (DISPE) |  Recherche et Formation (Universités…)  Appui à la mise en œuvre du dispositif de suivi-évaluation avec le SIGE-AENF (DEP)  Contrôle qualité des programmes offerts (DIC)  Appui à la mise en œuvre du plan de renforcement des capacités des personnels AENF (SENAPEP) |  Dotation des sortants de la formation professionnelle de kits d'insertion dans le marché du travail (DAS)  Appui à la Rééducation et au Reclassement Social (SNRS)
-Province | Assemblée provinciale | Elaboration de la stratégie provinciale d'éducation qui prend en compte l'AENF | Contrôle de la mise en œuvre de stratégie provinciale d'éducation |  Vote du budget de la province  Allocation de ressources à l'AENF
+ | Réseaux associatifs actifs en AENF |  Coordination Nationale des ONG d'Alphabétisation (CONGA)  Réseau des Centres d'Alphabétisation et de Formation Professionnelle (RECAFOP)  Réseau national des Centres de Rattrapage Scolaire (RENACERAS)  Coalition EPT | Plaidoyer en faveur de l'AENF Participation à la formulation des stratégies d'AENF |  | Formulation de propositions techniques Echanges d'expériences | Mobilisation de ressources destinées à l'AENF
+ | Organismes et services d'appui | Services techniques du MAS.AH.SN, instituts spécialisés et instituts supérieurs, Universités, secteur privé, personnes ressources… |  Plaidoyer en faveur de la prise en charge des personnes en situation de conflit ou groupes vulnérables pour le volet « réinsertion sociale » (DGSNRS)  Suivi de l'application des droits des enfants (DISPE) |  |  Recherche et Formation (Universités…)  Appui à la mise en œuvre du dispositif de suivi-évaluation avec le SIGE-AENF (DEP)  Contrôle qualité des programmes offerts (DIC)  Appui à la mise en œuvre du plan de renforcement des capacités des personnels AENF (SENAPEP) |  Dotation des sortants de la formation professionnelle de kits d'insertion dans le marché du travail (DAS)  Appui à la Rééducation et au Reclassement Social (SNRS)
+Province | Assemblée provinciale |  | Elaboration de la stratégie provinciale d'éducation qui prend en compte l'AENF |  | Contrôle de la mise en œuvre de stratégie provinciale d'éducation |  Vote du budget de la province  Allocation de ressources à l'AENF
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -1616,12 +1536,11 @@ Page 47
 
 [[START OF PAGE 48]]
 
-Gouvernement Pronvincial | Représentant du Gouvernement Central | Veille à la mise en œuvre de la stratégie d'AENF au niveau provincial | Elaboration exécution budget province | et du de la
---- | --- | --- | --- | --- | --- | --- | ---
-Services déconcentrés du MAS.AH.SN | Division Sociales | des | Affaires | Détermination des sites d'implantation des programmes |  Identification des besoins en enseignants et proposition de recrutement + formation des enseignants  Appuis techniques aux opérateurs  Synthèse des rapports de suivi/évaluation des programmes élaborés par les bureaux de districts  Transmission des bilans/programmations à la DGENF
-District/Ville | Services déconcentrés du MAS.AH.SN | Bureau Sociales | des | Affaires |  Contrôle de l'effectivité et de la qualité des programmes et certification des acquis avec l'appui du Service de l'Inspection  Vérification de la conformité des offres à la demande exprimée par les bénéficiaires | Contrôle l'exécution financière programmes relation avec Service l'Inspection | de des en le de
-Territoire/ Commune, Secteur, Chefferie ou Quartier | Opérateurs AENF |  ONG  Confessions religieuses  Services publics | Mise en œuvre des programmes d'AENF sur la base de la demande des communautés | Contribution financement l'AENF | au de
-Communautés | Bénéficiaires programmes | des |  Définition des besoins en formation  Prise de mesures de pérennisation des activités de l'AENF  Suivi du programme | Contribution financement l'AENF nature et espèces) | au de (en en
+ | Gouvernement Pronvincial | Représentant du Gouvernement Central | Veille à la mise en œuvre de la stratégie d'AENF au niveau provincial |  |  | Elaboration et exécution du budget de la province
+ | Services déconcentrés du MAS.AH.SN | Division des Affaires Sociales | Détermination des sites d'implantation des programmes |  |  Identification des besoins en enseignants et proposition de recrutement + formation des enseignants  Appuis techniques aux opérateurs  Synthèse des rapports de suivi/évaluation des programmes élaborés par les bureaux de districts  Transmission des bilans/programmations à la DGENF | 
+District/Ville | Services déconcentrés du MAS.AH.SN | Bureau des Affaires Sociales |  |  |  Contrôle de l'effectivité et de la qualité des programmes et certification des acquis avec l'appui du Service de l'Inspection  Vérification de la conformité des offres à la demande exprimée par les bénéficiaires | Contrôle de l'exécution financière des programmes en relation avec le Service de l'Inspection
+Territoire/ Commune, Secteur, Chefferie ou Quartier | Opérateurs AENF |  ONG  Confessions religieuses  Services publics |  |  | Mise en œuvre des programmes d'AENF sur la base de la demande des communautés | Contribution au financement de l'AENF
+ | Communautés | Bénéficiaires des programmes |  |  |  Définition des besoins en formation  Prise de mesures de pérennisation des activités de l'AENF  Suivi du programme | Contribution au financement de l'AENF (en nature et en espèces)
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -1643,14 +1562,14 @@ Fort de cette compréhension, le MAS.AH.SN inscrit son action dans la recherche 
 
 Pour  faciliter  la  coordination  des  activités  des  Ministères  impliqués  ayant  dans  leurs attributions l'éducation formelle et/ou non formelle, les mesures suivantes  sont envisagées pour matérialiser  l'approche  holistique,  intégrée  et  diversifiée  de  l'éducation  tout  au  long de la vie.
 
+Tableau N° 15: Domaines d'application de l'approche holistique en éducation
+
 Domaines d'intégration | Activités transversales ou mesures
 --- | ---
 Niveau stratégie |  Elaboration d'une stratégie commune de développement de l'éducation et de la formation
 Coordination de l'action gouvernementale |  Elaboration d'une convention et d'un cadre de concertation entre les ministères en charge de l'éducation pour la coordination de la stratégie éducative.
 Personnel enseignant |  Possibilité d'utiliser les enseignants du formel dans les matières de rattrapage scolaire organisés par le MAS.AH.SN pour collaborer avec leurs homologues.  Examen de la possibilité d'intégration des cours spécifiques de rattrapage ou d'alphabétisation dans la formation initiale des enseignants du primaire.
 Base des données |  Un seul Système d'Information pour la Gestion de l'Education (SIGE) avec la Cellule Technique pour les Statistiques de l'Éducation (CTSE). Ainsi, les Chefs d'Antenne de Planification et les Chefs de Bureau attitrés du MAS.AH.SN sont chargés de la collecte des données sur le terrain.
-
-Tableau N° 15: Domaines d'application de l'approche holistique en éducation
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -1696,174 +1615,44 @@ SCHEMA DU SYSTEME EDUCATIF CONGOLAIS DANS L'APPROCHE HOLISTIQUE ET INTEGREE
 
 1.  EDUCATION  FORMELLE
 
-2.  EDUCATION NON FORMELLE
-
 Maternelle
-
-1
-
-ère
-
-année
-
-2
-
-ème
-
-année
-
-3
-
-ème
-
-année
-
+1ère année
+2ème année
+3ème année
 ________________
-
 (Enfant de 3 à 5 ans)
 
 Primaire
-
-1
-
-ère
-
-année
-
-2
-
-ème
-
-année
-
-3
-
-ème
-
-année
-
-4
-
-ème
-
-année
-
-5
-
-ème
-
-année
-
-6
-
-ème
-
-année
+1ère année
+2ème année
+3ème année
+4ème année
+5ème année
+6ème année
 
 Secondaire
-
-1
-
-er
-
-Cycle                                                   2è Cycle
+1er Cycle
+1ère année
+2ème année
+2è Cycle
+Général
+Normal
+Technique
+3e, 4e, 5e, 6e année
+Professionnel
+1ère, 2e, 3e, 4e ou 5ème année
+Arts & Métiers
+1ère, 2ème et 3ème année
 
 Universités
-
 &
-
 Instituts Supérieurs
 
-1
+2.  EDUCATION NON FORMELLE
 
-ère
-
-année
-
-2
-
-èème
-
-année
-
-Général
-
-Normal
-
-Technique
-
-3
-
-e
-
-, 4
-
-e
-
-,5
-
-e
-
-, 6
-
-e
-
-année
-
-Professionnel
-
-1
-
-ère
-
-,  2
-
-e
-
-, 3
-
-e
-
-, 4
-
-e
-
-ou 5
-
-ème
-
-année
-
-Arts & Métiers
-
-1
-
-ère
-
-, 2
-
-ème
-
-et 3
-
-ème
-
-année
-
-Centres
-
-de Rattrapage scolaire
-
-Centres
-
-d'Alphabétisation
-
-Centres
-
-d'Apprentissage
-
-Professionnel
-
+Centres d'Alphabétisation
+Centres de Rattrapage scolaire
+Centres d'Apprentissage Professionnel
 Education permanente
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
@@ -1894,7 +1683,7 @@ Ces missions peuvent se résumer aux notions de concertation, de coordination, d
 
 ### 6.1.3. La mise en adéquation institutionnelle de structures du non formel avec les nouvelles options
 
-Il  s'agira  de  prendre  en  compte  les  résultats  de  l'audit  organisationnel  de  la  DGENF  pour mettre en adéquation les services en charge de l'AENF avec les nouvelles ambitions du soussecteur  et  les  réformes  institutionnelles  en  cours  ou  envisagées  dans  le  pays  dont notamment la stratégie de décentralisation.
+Il  s'agira  de  prendre  en  compte  les  résultats  de  l'audit  organisationnel  de  la  DGENF  pour mettre en adéquation les services en charge de l'AENF avec les nouvelles ambitions du sous-secteur  et  les  réformes  institutionnelles  en  cours  ou  envisagées  dans  le  pays  dont notamment la stratégie de décentralisation.
 
 Compte tenu des mutations entraînées par les options de partenariat et de diversification des interventions et des intervenants, les directions techniques s'orientent vers les fonctions de  pilotage,  de  normalisation,  de  suivi  et  d'évaluation  du  programme  ainsi  que  vers l'accompagnement scientifique et technique à la demande pour une meilleure qualité dans les interventions.
 
@@ -1904,13 +1693,10 @@ Ces fonctions pourraient se résumer comme suit:
 
  Fonction pédagogique et andragogique dans le cadre du curriculum avec:
 
-- révision/mise à jour des méthodes existantes de référence ;
-
-- conception/expérimentation de nouvelles méthodes dans les nouvelles langues admises pour l'alphabétisation et/ou pour de nouveaux publics ;
-
-- conception/révision/validation des ouvrages et de leur traduction dans toutes les langues  en partenariat avec des institutions et des personnes ressources ;
-
-- production et réactualisation des répertoires (banques de données sur l'existant, les acteurs,...)
+a) révision/mise à jour des méthodes existantes de référence ;
+b) conception/expérimentation de nouvelles méthodes dans les nouvelles langues admises pour l'alphabétisation et/ou pour de nouveaux publics ;
+c) conception/révision/validation des ouvrages et de leur traduction dans toutes les langues  en partenariat avec des institutions et des personnes ressources ;
+d) production et réactualisation des répertoires (banques de données sur l'existant, les acteurs,...)
 
  Fonction  de  stimulation  /  régulation de  la  post  alphabétisation  de  l'environnement lettré
 
@@ -1924,9 +1710,8 @@ Page 52
 
  Fonction d'évaluation pédagogique et de certification avec le développement :
 
-- d'une méthodologie des différents types d'évaluation (apprentissages, impact...) ;
-
-- d'un système crédible de passation des tests et de délivrance fiable de certificats si cela est nécessaire
+a) d'une méthodologie des différents types d'évaluation (apprentissages, impact...) ;
+b) d'un système crédible de passation des tests et de délivrance fiable de certificats si cela est nécessaire
 
  Fonction  d'observation  des  dynamiques et des stratégies en faveur du  non  formel : statistiques, cartographie éducative, planification, mesures d'impact socioéconomique et culturel, évaluation de la mise en œuvre des stratégies.
 
@@ -1978,7 +1763,7 @@ Page 53
 
  L'approche  intersectorielle :  l'option  d'intersectorialité  justifie  d'abord  le  choix  de l'intégration des actions des secteurs ministériels concernés par le programme ; cette option reconnaît la multiplicité des secteurs et favorise leur mutualisation fondée sur les appuis et apports  venant  des  secteurs  eux-mêmes  en  vue  d'établir  une complémentarité;  cela  suppose  l'établissement  d'un  système  d'emboîtement  et d'une mise en relation des secteurs conduisant vers une interdépendance fonctionnelle.
 
-## 6.3. Options stratégiques d'intervention par type de programme s d'AENF
+## 6.3. Options stratégiques d'intervention par type de programmes d'AENF
 
 #### a) Programme de rattrapage scolaire :
 
@@ -2038,7 +1823,7 @@ Les options suivantes seront mises en œuvre pour former près de 360.000 person
 
  Partenariat Public Privé (PPP) ;
 
-> 4 Dans l'ensemble, la République Démocratique du Congo a enregistré 35 890 écoles primaires en 2010. Cette  même année, la République Démocratique du Congo  a enregistré un total de 272  4133 salles de classes dont 219 179 sont dans un état jugé bon selon les informations du recensement 2009/2010, soit 80,5 %. la proportion des salles de classe en dur est très faible (97578 salles soit 35,8 %). le niveau primaire du système éducatif congolais compte 285.620 enseignants.
+> 4 Dans l'ensemble, la République Démocratique du Congo a enregistré 35 890 écoles primaires en 2010. Cette  même année, la République Démocratique du Congo  a enregistré un total de 272 413 salles de classes dont 219 179 sont dans un état jugé bon selon les informations du recensement 2009/2010, soit 80,5 %. la proportion des salles de classe en dur est très faible (97578 salles soit 35,8 %). le niveau primaire du système éducatif congolais compte 285.620 enseignants.
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -2085,7 +1870,7 @@ Objectif  stratégique : Accroître l'accès, l'accessibilité et l'équité dan
 Objectifs Spécifiques | Résultats Attendus | Indicateurs | Activités | Responsable | Partenaires | Période | Source de financement
 --- | --- | --- | --- | --- | --- | --- | ---
 OS1 : Faciliter l'accès aux offres de l'éducation non formelle | Augmentation accrue du taux de fréquentation dans toutes les offres de l'AENF | Taux de fréquentation des centres améliorés | Prendre des mesures de facilitation de l'accès : - Octroyer de kits scolaires - Appliquer la décision de suppression des frais scolaires dans le rattrapage scolaire - Réduire des frais de formation de la formation professionnelle - Subvenir aux Centres de FP - Etc. | MAS.AH.SN | UNICEF CTB USAID UNESCO PNUD BM DFID | 2012-2016 | UNICEF CTB USAID UNESCO PNUD BM DFID
-OS2 : Mobiliser les autorités politico- administratives, les Partenaires Financiers, les communautés locales et la société civile dans l'organisation des activités de l'AENF | Implication requise des autorités politico- administratives, des Partenaires financiers, des communautés locales et la société civile dans l'organisation des activités de l'AENF | - Nombre des décisions prises par les autorités politico- administratives - Nombre d'initiatives prises par les communautés locales mobilisées - Nombre de campagnes de sensibilisation organisées | - Organiser des campagnes de sensibilisation au profit des parties prenantes locales sur l'intérêt communautaire de l'AENF - Plaidoyer auprès des autorités politico- administratives, communautés religieuses pour l'implication de la population | DGENF | Communications et médias, ONG, Eglises, UNESCO, UNICEF, BM, BAD, BIT… | 2012-2016 | UNESC0, UNICEF, BM, BAD, Gouvernement congolais
+OS2 : Mobiliser les autorités politico-administratives, les Partenaires Financiers, les communautés locales et la société civile dans l'organisation des activités de l'AENF | Implication requise des autorités politico-administratives, des Partenaires financiers, des communautés locales et la société civile dans l'organisation des activités de l'AENF | - Nombre des décisions prises par les autorités politico-administratives - Nombre d'initiatives prises par les communautés locales mobilisées - Nombre de campagnes de sensibilisation organisées | - Organiser des campagnes de sensibilisation au profit des parties prenantes locales sur l'intérêt communautaire de l'AENF - Plaidoyer auprès des autorités politico-administratives, communautés religieuses pour l'implication de la population | DGENF | Communications et médias, ONG, Eglises, UNESCO, UNICEF, BM, BAD, BIT… | 2012-2016 | UNESCO, UNICEF, BM, BAD, Gouvernement congolais
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -2095,9 +1880,9 @@ Page 57
 
 [[START OF PAGE 58]]
 
-OS3 : Renforcer les capacités d'accueil des structures de l'AENF | - les Centres sont construits, réhabilités et équipés | - 1.800.000 personnes participent par an aux différents programmes d'AENF 5 - Nombre de Centres construits, réhabilités et équipés | - Elaborer le Plan stratégique de construction et de réhabilitation des infrastructures de l'A ENF - Construire les Centres - Réhabiliter les Centres - Equiper les Centres construits et réhabilités - Faire fonctionner les Centres - Construire des Centres selon les normes - Mobiliser des ressources financières | MAS.AH.SN MAS.AH.SN | MTPI, Finances, Budget, Affaires Foncières, Habitat ONG Confessions religieuses MEPSP Jeunesse… | 2012-2016 | UNESC0, UNICEF, BM, BAD, Gouvernement congolais
+OS3 : Renforcer les capacités d'accueil des structures de l'AENF | - les Centres sont construits, réhabilités et équipés | - 1.800.000 personnes participent par an aux différents programmes d'AENF 5 - Nombre de Centres construits, réhabilités et équipés | - Elaborer le Plan stratégique de construction et de réhabilitation des infrastructures de l'A ENF - Construire les Centres - Réhabiliter les Centres - Equiper les Centres construits et réhabilités - Faire fonctionner les Centres - Construire des Centres selon les normes - Mobiliser des ressources financières | MAS.AH.SN MAS.AH.SN | MTPI, Finances, Budget, Affaires Foncières, Habitat ONG Confessions religieuses MEPSP Jeunesse… | 2012-2016 | UNESCO, UNICEF, BM, BAD, Gouvernement congolais
 --- | --- | --- | --- | --- | --- | --- | ---
-OS4 : Assurer l'équité entre le genre, les régions géographiques et le statut social | Les disparités sont réduites | - Augmentation en proportion des groupes vulnérables - Existence d'une cartographie - Nombre de Centres implantés par province, district, territoire… - Nombre de personnes formées par genre, par âge, par handicap, par groupe vulnérable ciblé) | 1. Sensibiliser des communautés locales 2. Elaborer la cartographie des Centres et des apprenants 3. Implanter des Centres dans des régions dépourvues | MAS.AH.SN | ONG, Eglise, Finances, Budget, Affaires Foncières, Habitat | 2012-2016 | UNESC0, UNICEF, BM, BAD, Gouvernement congolais
+OS4 : Assurer l'équité entre le genre, les régions géographiques et le statut social | Les disparités sont réduites | - Augmentation en proportion des groupes vulnérables - Existence d'une cartographie - Nombre de Centres implantés par province, district, territoire… - Nombre de personnes formées par genre, par âge, par handicap, par groupe vulnérable ciblé) | 1. Sensibiliser des communautés locales 2. Elaborer la cartographie des Centres et des apprenants 3. Implanter des Centres dans des régions dépourvues | MAS.AH.SN | ONG, Eglise, Finances, Budget, Affaires Foncières, Habitat | 2012-2016 | UNESCO, UNICEF, BM, BAD, Gouvernement congolais
 
 5
 
@@ -2115,9 +1900,9 @@ Objectif stratégique : Améliorer la qualité, la pertinence et l'efficacité  
 
 Objectif spécifique | Résultats attendus | Indicateurs | Activités | Responsable | Partenaires | Période | Source de financement
 --- | --- | --- | --- | --- | --- | --- | ---
-OS1 :-Améliorer les programmes de l'AENF | Programmes harmonisés et adaptés au besoin des bénéficiaires | 6 programmes types harmonisés et adaptés | - Organiser les ateliers nationaux de révision et de validation des programmes et leur vulgarisation - Former 350 Cadres et Agents (MAS.AH.SN, Société Civile et ONG) à l'utilisation et à la gestion des programmes de l'AENF | DGENF | Services et organismes d'appui | 2012- 2013 | Gouvernemen t UNICEF CTB USAID UNESCO PNUD BM DFID
-OS2 :-Développer la production et la distribution des supports pédagogiques, andragogiques et de post alphabéti- sation en langues locales | - Centres dotés des supports pédagogiques et andragogiques - Accès aux ouvrages de post alphabétisation | Nombre des supports pédagogiques et andragogiques produits. Nombre de centres équipés Norme : ratio apprenant/livres ? Durée de vie d'un manuel ? | - Organiser les ateliers d'élaboration et de production des supports pédagogiques et andragogiques. - Equiper les Centres (archivage, sauvegarde des manuels…) | DGENF | Services et organismes d'appui Secteur privé EPSP | 2012- 2013 | Gouvernemen t UNICEF UNESCO CTB
-OS3 :-Développer l'environnement lettré en langues locales | Langues locales codifiées et utilisées comme langues d'alphabétisation | X nombre des langues locales codifiées et utilisées | - Organiser les ateliers de codification des langues locales - Mettre en place de subventions pour la production d'écrits en langues locales et nationales (journaux, livres, traductions /adaptations…) - Organiser les campagnes de vulgarisation des manuels et guides en langues locales | DGENF | OIF CELTA Université Instituts supérieurs spécialisés EPSP | 2012- 2015 | Gouvernemen t
+OS1 :-Améliorer les programmes de l'AENF | Programmes harmonisés et adaptés au besoin des bénéficiaires | 6 programmes types harmonisés et adaptés | - Organiser les ateliers nationaux de révision et de validation des programmes et leur vulgarisation - Former 350 Cadres et Agents (MAS.AH.SN, Société Civile et ONG) à l'utilisation et à la gestion des programmes de l'AENF | DGENF | Services et organismes d'appui | 2012-2013 | Gouvernement UNICEF CTB USAID UNESCO PNUD BM DFID
+OS2 :-Développer la production et la distribution des supports pédagogiques, andragogiques et de post alphabétisation en langues locales | - Centres dotés des supports pédagogiques et andragogiques - Accès aux ouvrages de post alphabétisation | Nombre des supports pédagogiques et andragogiques produits. Nombre de centres équipés Norme : ratio apprenant/livres ? Durée de vie d'un manuel ? | - Organiser les ateliers d'élaboration et de production des supports pédagogiques et andragogiques. - Equiper les Centres (archivage, sauvegarde des manuels…) | DGENF | Services et organismes d'appui Secteur privé EPSP | 2012-2013 | Gouvernement UNICEF UNESCO CTB
+OS3 :-Développer l'environnement lettré en langues locales | Langues locales codifiées et utilisées comme langues d'alphabétisation | X nombre des langues locales codifiées et utilisées | - Organiser les ateliers de codification des langues locales - Mettre en place de subventions pour la production d'écrits en langues locales et nationales (journaux, livres, traductions /adaptations…) - Organiser les campagnes de vulgarisation des manuels et guides en langues locales | DGENF | OIF CELTA Université Instituts supérieurs spécialisés EPSP | 2012-2015 | Gouvernement
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -2127,10 +1912,10 @@ Page 59
 
 [[START OF PAGE 60]]
 
-OS4 :-Améliorer le statut, du personnel enseignant du non formel | Prestation du personnel enseignant améliorée et enseignants motivés. | Mesures juridiques et administratives prises et appliquées | - Adopter le statut du personnel enseignant déjà élaboré | DGENF | Ministère travail MEPSP | 2012 | Gouvernemen t
+OS4 :-Améliorer le statut, du personnel enseignant du non formel | Prestation du personnel enseignant améliorée et enseignants motivés. | Mesures juridiques et administratives prises et appliquées | - Adopter le statut du personnel enseignant déjà élaboré | DGENF | Ministère du travail MEPSP | 2012 | Gouvernement
 --- | --- | --- | --- | --- | --- | --- | ---
-OS5 :-Mettre en place un système de suivi, d'évaluation et de certification des acquis des apprenants | Le système de suivi, d'évaluation et de certification des acquis des apprenants mis en place | Nombre de rapports de suivi et évaluation Un cadre de certification mis en place | - Elaborer les outils de suivi et d'évaluation - Organiser les missions de suivi et d'évaluation - Elaborer un document de certification concerté avec toutes les parties prenantes dans le secteur - Assurer l'assistance technique des partenaires pour la mise en place du cadre national de certification | DGENF | UNESCO | 2012- 2013 | Gouvernemen t UNESCO PTF
-OS6 : Renforcer les capacités d'encadrement pédagogique et andragogique du personnel du sous- secteur | Personnel du sous- secteur devenu performant | 60.000 enseignants du non formel formés 1301 agents du sous- secteur formés | - Elaborer et mettre en œuvre le plan de formation des enseignants et des agents du sous-secteur - Organiser les ateliers de renforcement des capacités pédagogiques, andragogiques et protection sociale | DGENF | SENAPEP DIC | 2012 | UNICEF UNESCO
+OS5 :-Mettre en place un système de suivi, d'évaluation et de certification des acquis des apprenants | Le système de suivi, d'évaluation et de certification des acquis des apprenants mis en place | Nombre de rapports de suivi et évaluation Un cadre de certification mis en place | - Elaborer les outils de suivi et d'évaluation - Organiser les missions de suivi et d'évaluation - Elaborer un document de certification concerté avec toutes les parties prenantes dans le secteur - Assurer l'assistance technique des partenaires pour la mise en place du cadre national de certification | DGENF | UNESCO | 2012-2013 | Gouvernement UNESCO PTF
+OS6 : Renforcer les capacités d'encadrement pédagogique et andragogique du personnel du sous-secteur | Personnel du sous-secteur devenu performant | 60.000 enseignants du non formel formés 1301 agents du sous-secteur formés | - Elaborer et mettre en œuvre le plan de formation des enseignants et des agents du sous-secteur - Organiser les ateliers de renforcement des capacités pédagogiques, andragogiques et protection sociale | DGENF | SENAPEP DIC | 2012 | UNICEF UNESCO
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -2140,7 +1925,7 @@ Page 60
 
 [[START OF PAGE 61]]
 
-## 7.3. Composante 3: Amélioration de la gestion du soussecteur de l'A ENF
+## 7.3. Composante 3: Amélioration de la gestion du sous-secteur de l'AENF
 
 L'objectif  stratégique 3: Renforcer la gestion du sous/secteur de l'AENF.
 
@@ -2148,8 +1933,8 @@ Résultat attendu : les structures en charge de L' AENF exercent avec efficacit�
 
 Objectif spécifique | Résultats attendus | Indicateurs | Activités | Responsable | Partenaires | Période | Source de financement
 --- | --- | --- | --- | --- | --- | --- | ---
-O.S.1. Faire le plaidoyer auprès des instances décisionnelles | Les instances décisionnelles et intéressées sont sensibilisées | Nombre d'instances touchées par le plaidoyer | - Mobiliser les ressources - Identifier les instances concernées - Identifier les acteurs impliqués - Organiser le plaidoyer | DGENF DGSNR | -UNICEF -USAID -BANQUE MONDIALE -COOPERATIONS BI- MULTILATERALES -FNPSS -FPEN | 2012 2016- 2020 | Gouvernem ent PTF ONGS COOPERATI ONS ENTREPRISES PUBLIQUES ET PRIVEES
-O.S.1 : Renforcer les capacités organisationnelles, institutionnelles de la DGENF dans l'exercice de la décentralisation et de la déconcentralisation |  La DGENF restructurée en fonction des conclusions de l'audit et des nouvelles ambitions en AENF  Les structures de la DGENF sont opérationnelles au niveau local  Le personnel recruté et formé | - Indicateurs de performances de la DGENF (à définir suite à l'étude diagnostique) - Nombre de structures de la DGENF au niveau local (secteurs) - 1300 agents d'AENF formés | - Auditer la DGENF - Réorganiser la DGENF - Recruter et former les personnels sur: la gestion et la planification des ressources humaines, communication sociale et communautaire à tous les niveaux | DGENF | Ministères PTF ONG Secteur privé | 2012 | Gouvernem ent PTF
+O.S.1. Faire le plaidoyer auprès des instances décisionnelles | Les instances décisionnelles et intéressées sont sensibilisées | Nombre d'instances touchées par le plaidoyer | - Mobiliser les ressources - Identifier les instances concernées - Identifier les acteurs impliqués - Organiser le plaidoyer | DGENF DGSNR | -UNICEF -USAID -BANQUE MONDIALE -COOPERATIONS BI-MULTILATERALES -FNPSS -FPEN | 2012 2016-2020 | Gouvernement PTF ONGS COOPERATIONS ENTREPRISES PUBLIQUES ET PRIVEES
+O.S.1 : Renforcer les capacités organisationnelles, institutionnelles de la DGENF dans l'exercice de la décentralisation et de la déconcentralisation |  La DGENF restructurée en fonction des conclusions de l'audit et des nouvelles ambitions en AENF  Les structures de la DGENF sont opérationnelles au niveau local  Le personnel recruté et formé | - Indicateurs de performances de la DGENF (à définir suite à l'étude diagnostique) - Nombre de structures de la DGENF au niveau local (secteurs) - 1300 agents d'AENF formés | - Auditer la DGENF - Réorganiser la DGENF - Recruter et former les personnels sur: la gestion et la planification des ressources humaines, communication sociale et communautaire à tous les niveaux | DGENF | Ministères PTF ONG Secteur privé | 2012 | Gouvernement PTF
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012 Page 61
 
@@ -2159,7 +1944,7 @@ Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012 Page 61
 
 Objectif spécifique | Résultats attendus | Indicateurs | Activités | Responsable | Partenaires | Période | Source de financement
 --- | --- | --- | --- | --- | --- | --- | ---
- Les structures de l'AENF sont efficaces  Les capacités techniques (conception, planification, pilotage, suivi et évaluation) des cadres et agents des services centraux et déconcentrés sont renforcés.  Les équipements nécessaires aux missions des services sont disponibles | - XX Montant alloué aux structures de la DGENF - Nombre de réunions du comité de pilotage de la stratégie et du cadre national décentralisé de partenariat | la méthodologie et l'utilisation des manuels et autres outils sur base de modules à préparer la formation des formateurs en provinces la conception et l'élaboration des programmes la conception et la production de matériels didactiques, - le suivi/évaluation des programmes et matériels didactiques - Mettre en place et dynamiser les structures de la DGENF au niveau central, provincial et local (information, sensibilisation, rencontres, missions de terrain, plans de travail, commissions…) - Mettre en leur disposition les moyens suffisants pour le fonctionnement. - Concevoir, élaborer et valider les textes fondateurs des structures - Elaborer le répertoire des acteurs et partenaires de l'AENF | DGENF | Ministères PTF ONG Secteur privé | 2012 | Gouvernem ent PTF
+|  Les structures de l'AENF sont efficaces  Les capacités techniques (conception, planification, pilotage, suivi et évaluation) des cadres et agents des services centraux et déconcentrés sont renforcés.  Les équipements nécessaires aux missions des services sont disponibles | - XX Montant alloué aux structures de la DGENF - Nombre de réunions du comité de pilotage de la stratégie et du cadre national décentralisé de partenariat | • la méthodologie et l'utilisation des manuels et autres outils sur base de modules à préparer • la formation des formateurs en provinces • la conception et l'élaboration des programmes • la conception et la production de matériels didactiques, - le suivi/évaluation des programmes et matériels didactiques - Mettre en place et dynamiser les structures de la DGENF au niveau central, provincial et local (information, sensibilisation, rencontres, missions de terrain, plans de travail, commissions…) - Mettre en leur disposition les moyens suffisants pour le fonctionnement. - Concevoir, élaborer et valider les textes fondateurs des structures - Elaborer le répertoire des acteurs et partenaires de l'AENF | DGENF | Ministères PTF ONG Secteur privé | 2012 | Gouvernement PTF
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012 Page 62
 
@@ -2167,9 +1952,9 @@ Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012 Page 62
 
 [[START OF PAGE 63]]
 
-O.S.2 : Mettre en place un cadre de financement des activités de l'AENF | Un dispositif National de mobilisation et de gestion des ressources financières est mis en place et fonctionne correctement. |  Participation au financement de l'AENF par chacun des acteurs et partenaires  Niveau d'application du manuel de procédures  Taux de couverture des besoins en financement de l'AENF  Taux d'absorption des ressources mobilisées Nombre |  Mener l'étude sur les types de dispositif de financement et choix de l'option à mettre à l'essai  Elaborer le manuel de procédures  Organiser les séances d'information des différents acteurs  Organiser les campagnes de collecte de fonds  Evaluer le mécanisme mis en place | MAS.AH.SN | Ministères BM | 2012 | Gouvernem ent PTF
+O.S.2 : Mettre en place un cadre de financement des activités de l'AENF | Un dispositif National de mobilisation et de gestion des ressources financières est mis en place et fonctionne correctement. |  Participation au financement de l'AENF par chacun des acteurs et partenaires  Niveau d'application du manuel de procédures  Taux de couverture des besoins en financement de l'AENF  Taux d'absorption des ressources mobilisées |  Mener l'étude sur les types de dispositif de financement et choix de l'option à mettre à l'essai  Elaborer le manuel de procédures  Organiser les séances d'information des différents acteurs  Organiser les campagnes de collecte de fonds  Evaluer le mécanisme mis en place | MAS.AH.SN | Ministères BM | 2012 | Gouvernement PTF
 --- | --- | --- | --- | --- | --- | --- | ---
-O.S.3. Elaborer et mettre en œuvre un plan de communication |  L'ensemble des acteurs comprennent et soutiennent la stratégie d'AENF.  Les résultats du programme sont plus visibles.  L'AENF est plus crédible aux yeux des différents acteurs. |  d'acteurs informés de la stratégie d'AENF, de ses résultats et des textes de la décentralisation en AENF  Nombre et qualité des dispositifs de communication mis en place | - Elaborer le plan de communication en faveur de l'AENF - Mettre en place les dispositifs, élaborer et diffuser les supports de communication (revues de presse, dépliants, annuaires, journaux, affiches, CD-ROM, films, documentaires, connexion internet et mise en réseau, service de documentation…) - Créer et animer le site web de l'AENF - Evaluer et réviser le plan de communication | DGENF | Cabinets spécialisés en communication | 2012 | UNESCO UNICEF
+O.S.3. Elaborer et mettre en œuvre un plan de communication |  L'ensemble des acteurs comprennent et soutiennent la stratégie d'AENF.  Les résultats du programme sont plus visibles.  L'AENF est plus crédible aux yeux des différents acteurs. |  Nombre d'acteurs informés de la stratégie d'AENF, de ses résultats et des textes de la décentralisation en AENF  Nombre et qualité des dispositifs de communication mis en place | - Elaborer le plan de communication en faveur de l'AENF - Mettre en place les dispositifs, élaborer et diffuser les supports de communication (revues de presse, dépliants, annuaires, journaux, affiches, CD-ROM, films, documentaires, connexion internet et mise en réseau, service de documentation…) - Créer et animer le site web de l'AENF - Evaluer et réviser le plan de communication | DGENF | Cabinets spécialisés en communication | 2012 | UNESCO UNICEF
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -2195,7 +1980,7 @@ Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012 Page 64
 
 [[START OF PAGE 65]]
 
-OS2. Renforcer les capacités des communautés et des familles | Les capacités des communautés et des familles renforcées. | Nombre d'initiatives communautaires visant la prise en charge des enfants en situation difficile Nombre des familles bénéficiaires des microcrédits qui développent les | - Sensibiliser les communautés - Former les bénéficiaires des AGR - Inventorier les besoins des familles et communautés - Octroyer les crédits aux familles - Favoriser le développement des activités génératrices de revenus en famille | DGENF DEP DGSNR | -UNICEF -USAID -BANQUE MONDIALE -COOPERATIONS BI-MULTILATERALES -FNPSS -FPEN | 2012 2016-2020 | Gouvernement PTF ONGS COOPERATIONS ENTREPRISES PUBLIQUES ET PRIVEES
+OS2. Renforcer les capacités des communautés et des familles | Les capacités des communautés et des familles renforcées. | Nombre d'initiatives communautaires visant la prise en charge des enfants en situation difficile Nombre des familles bénéficiaires des microcrédits qui développent les AGR. | - Sensibiliser les communautés - Former les bénéficiaires des AGR - Inventorier les besoins des familles et communautés - Octroyer les crédits aux familles - Favoriser le développement des activités génératrices de revenus en famille | DGENF DEP DGSNR | -UNICEF -USAID -BANQUE MONDIALE -COOPERATIONS BI-MULTILATERALES -FNPSS -FPEN | 2012 2016-2020 | Gouvernement PTF ONGS COOPERATIONS ENTREPRISES PUBLIQUES ET PRIVEES
 --- | --- | --- | --- | --- | --- | --- | ---
 OS3. Assurer le suivi et évaluation des AGR | L'existence des mécanismes de suivi et évaluation des AGR La pérennisation des AGR | Nombre des missions de suivi et évaluation Nombre des AGR pérennes | - Effectuer les missions de suivi et d'évaluation - Organiser les séances de régulation avec les bénéficiaires sur la gestion des AGR | DGENF | -UNICEF -USAID -BANQUE MONDIALE -COOPERATIONS BI-MULTILATERALES -FNPSS -FPEN | 2012 2016-2020 | Gouvernement PTF ONGS COOPERATIONS ENTREPRISES PUBLIQUES ET PRIVEES
 
@@ -2213,10 +1998,10 @@ La structure de management de la stratégie d'AENF au sein du MAS.AH.SN sera mis
 
 Objectif  stratégique 5 : Installer et rendre opérationnel  le dispositif de gestion  de la stratégie pendant la première phase
 
-Objectifs spécifiques | Résultats attendus | Indicateurs | Activités | Responsable | Partenaires | Période | Source de financeme nt
+Objectifs spécifiques | Résultats attendus | Indicateurs | Activités | Responsable | Partenaires | Période | Source de financement
 --- | --- | --- | --- | --- | --- | --- | ---
-O.S.1. Mettre en place la coordination de la mise en œuvre de la stratégie | Le dispositif de Coordination de la mise en œuvre de la stratégie d'AENF est mis en place par le MAS.AH.SN. La Coordination du Programme dispose d'un équipement fonctionnel | Fonctionnalité du dispositif (locaux, équipements, personnel, rapports…) | - Prendre l'arrêté portant dispositif de coordination de la stratégie - Acheter les ordinateurs, les photocopieuses, les mobiliers de bureaux, les véhicules, les motos, les vélos pour la coordination et le suivi, le matériel de bureau - Assurer les frais de fonctionnement (téléphone, Internet, eau, électricité…) | MAS.AH.SN | Gouvernemen t BM UNESCO BAD USAID | 2012 | Budget du MAS.AH.SN
-O.S.2. Elaborer le manuel de procédures | Le manuel de procédures de l'AENF est élaboré et mis en application pour financer les programmes. | Nbre de manuels produits | - Recruter un consultant - Elaborer le manuel de procédures ; - Organiser l'atelier de validation | DGENF | PARSE | 2012 | Gouvernem ent BM UNESCO BAD USAID
+O.S.1. Mettre en place la coordination de la mise en œuvre de la stratégie | Le dispositif de Coordination de la mise en œuvre de la stratégie d'AENF est mis en place par le MAS.AH.SN. La Coordination du Programme dispose d'un équipement fonctionnel | Fonctionnalité du dispositif (locaux, équipements, personnel, rapports…) | - Prendre l'arrêté portant dispositif de coordination de la stratégie - Acheter les ordinateurs, les photocopieuses, les mobiliers de bureaux, les véhicules, les motos, les vélos pour la coordination et le suivi, le matériel de bureau - Assurer les frais de fonctionnement (téléphone, Internet, eau, électricité…) | MAS.AH.SN | Gouvernement BM UNESCO BAD USAID | 2012 | Budget du MAS.AH.SN
+O.S.2. Elaborer le manuel de procédures | Le manuel de procédures de l'AENF est élaboré et mis en application pour financer les programmes. | Nbre de manuels produits | - Recruter un consultant - Elaborer le manuel de procédures ; - Organiser l'atelier de validation | DGENF | PARSE | 2012 | Gouvernement BM UNESCO BAD USAID
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -2228,10 +2013,10 @@ Page 66
 
 O.S.3. Solliciter une Assistance technique en organisation, en planification technique, en communication institutionnelle… | Appuis techniques aux programmes assurés | Nombre de missions d'appui | - Organiser les missions d'assistance technique par un expert en organisation, en planification stratégique, en communication institutionnelle… | DGENF | PTFs | 2012-2015 | UNESCO et autres PTFs
 --- | --- | --- | --- | --- | --- | --- | ---
-O.S.4.Organiser des rencontres du comité de pilotage du programme | Au moins deux sessions du comité de pilotage sont organisées par année. | Niveau d'appréciation de l'évolution du programme |  Organiser les sessions de bilan et de planification | Président du Comité de pilotage | DGENF | 2012-2015 | Gouvernem ent PTF
+O.S.4.Organiser des rencontres du comité de pilotage du programme | Au moins deux sessions du comité de pilotage sont organisées par année. | Niveau d'appréciation de l'évolution du programme |  Organiser les sessions de bilan et de planification | Président du Comité de pilotage | DGENF | 2012-2015 | Gouvernement PTF
 O.S.5. Auditer le programme | Un rapport d'audit annuel est produit et diffusé auprès du comité de pilotage | Nombre de rapports d'audit |  Recruter un Cabinet d'audit | Coordinateur du Programme | DGENF | 2012-2015 | PTF
 O.S.6. Evaluer le programme | Chacune des deux premières phases du programme est évaluée. | Nombre de rapport d'évaluation | Recruter un consultant Organiser l'atelier de présentation du rapport d'évaluation | Coordinateur du Programme | Comité de pilotage | 2012 - 2015 | PTF
-O.S.7. Planifier la phase 3 du programme | La phase 3 du programme dispose d'un plan d'action. | Existence du plan d'action | Organiser l'atelier de planification Faire valider la proposition par le Gouvernement | DGENF | Coordinateur du Programme PTF | 2015 | Gouvernem ent PTF
+O.S.7. Planifier la phase 3 du programme | La phase 3 du programme dispose d'un plan d'action. | Existence du plan d'action | Organiser l'atelier de planification Faire valider la proposition par le Gouvernement | DGENF | Coordinateur du Programme PTF | 2015 | Gouvernement PTF
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -2272,23 +2057,21 @@ Le coût de formation généralement admis par personne est de 60$US. A cet effe
 
 Dans  le  contexte  de  la  RDC,  il  est  donc  nécessaire  de  réfléchir  sur  les  modalités  de mobilisation  et  de  gestion  de  ressources  additionnelles.  Cependant,  trois  (3)  options  sont possibles :
 
-- utiliser un fonds existant comme
+i. utiliser un fonds existant comme
 
 (a) le  Fonds National de Promotion et de Service Social du MAS.AH.SN qui est une institution  dotée  de  la  personnalité  civile  et  ayant  qualité  d'un  établissement public (à réformer) ou
 
 (b) le Fonds social de la République  (FSRDC)
 
-- utiliser le Fonds de Promotion de l'Education Nationale et
+ii. utiliser le Fonds de Promotion de l'Education Nationale et
 
-- mettre  en  place  un  nouveau  mécanisme  tel  que  la  création  d'un  fonds  autonome dédié uniquement à l'AENF, ouvert aux autres acteurs.
+iii. mettre  en  place  un  nouveau  mécanisme  tel  que  la  création  d'un  fonds  autonome dédié uniquement à l'AENF, ouvert aux autres acteurs.
 
 Pour  le  MAS.AH.SN,  l'option  de  la  création  d'un  nouveau  mécanisme  de  financement autonome de l'AENF ouvert aux autres acteurs est la réponse la mieux adaptée à l'appel à une  agence  d'exécution  financière.  En  effet,  sans  une  Agence  d'Exécution  Financière autonome, l'efficacité de l'AENF sera très limitée car les procédures de gestion y compris pour  les  ressources  internes  seront  celles  du  régime  général  des  marchés  publics  dans  le pays  jugées  trop  lourdes.  Cette  efficacité  pourrait  cependant  être  accrue  si  la  gestion financière est confiée à une agence autonome.
 
 L'équité n'est pas aussi garantie quand la structure est un démembrement de l'administration  et  répond  favorablement  aux  injonctions  de  celle-ci  mêmes  si  elles  sont inopportunes. Les avantages du choix d'une structure avec un statut à but non lucratif sont nombreux. En effet, cette solution a été largement testée dans beaucoup de pays au travers des  expériences  de  l'AGETIP,  de  l'Agence  de  Développement  Municipal,  du  Fonds  de Développement Social.
 
-Les Ministères de l'Economie et des Finances acceptent généralement de déléguer la gestion des ressources internes et externes sous réserve que les capacités de gestion soient en place car  cet  organe  est  une  personne  morale  juridiquement  autonome.  L'expérience  passée  a prouvé  que  les  critères  d'efficacité,  d'équité,  de  transparence,  d'obligation  de  rendre compte,  de  soutenabilité  et  de  gouvernance  peuvent  être  correctement  mis  en  œuvre  si l'Etat  exerce  un  contrôle  rigoureux  sur  ces  agences . Un manuel de procédures devra être élaboré à cet effet.
-
-Formatted: Font color: Red
+Les Ministères de l'Economie et des Finances acceptent généralement de déléguer la gestion des ressources internes et externes sous réserve que les capacités de gestion soient en place car  cet  organe  est  une  personne  morale  juridiquement  autonome.  L'expérience  passée  a prouvé  que  les  critères  d'efficacité,  d'équité,  de  transparence,  d'obligation  de  rendre compte,  de  soutenabilité  et  de  gouvernance  peuvent  être  correctement  mis  en  œuvre  si l'Etat  exerce  un  contrôle  rigoureux  sur  ces  agences. Un manuel de procédures devra être élaboré à cet effet.
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -2300,11 +2083,26 @@ Page 69
 
 Dispositif institutionnel d'allocation de ressources aux communautés et aux ONG
 
-Le mécanisme de financement des activités de l'AENF pourrait s'inspirer du dispositif institutionnel du MEPSP qui assure (i) le transfert efficace des ressources; et (ii) la transparence de leur gestion et la redevabilité de gestionnaires.  L'acheminement  des  fonds  pourrait  se  concevoir  suivant  des  schéMAS.AH.SN  existants  ayant prouvé leur efficacité (voir circuit ci-dessous, utilisé dans le projet PURUS)6.
+Le mécanisme de financement des activités de l'AENF pourrait s'inspirer du dispositif institutionnel du MEPSP qui assure (i) le transfert efficace des ressources; et (ii) la transparence de leur gestion et la redevabilité de gestionnaires.  L'acheminement  des  fonds  pourrait  se  concevoir  suivant  des  schémas  existants  ayant prouvé leur efficacité (voir circuit ci-dessous, utilisé dans le projet PURUS)6.
 
 Au  niveau  de  la  gestion,  il  s'agirait  principalement  (i)  de  définir  clairement  les  rôles  et  responsabilités  des parties prenantes (composition de l'organe de gestion, rôle du réseau auquel appartient l'école, procédures financières,  cadre  réglementaire  etc.) ;  (ii)  de  mettre  en  place  un  système  performant  de  communication (descendante  et  montante) ;  et  (iii)  d'organiser  un  dispositif  de  suivi  et  d'évaluation (audits,  mécanisme  de reporting etc.).
 
 Toutefois, ce schéma sera adapté aux réalités des activités de l'AENF.
+
+BCC Central
+(Comptes désignés)
+BCC Provincial
+(Sous-comptes)
+Sous-compte Gestionnaires
+Sous-compte Ecoles
+Ressources financières
+- frais de fonctionnement
+- appui aux constructions
+Bureaux gestionnaires
+Comité de Gestion
+Ecole / Groupe local communautaire
+Conseil de Gestion
+BCC = Banque Centrale du Congo
 
 Source : Stratégie EPSP RDC du 17 mars 2011
 
@@ -2318,7 +2116,7 @@ Compte  tenu  des  exigences  de  célérité  et  d'efficacité  dans  l'absorp
 
  financer les activités retenues et  les projets présentés par les opérateurs, projets qui répondent à un certain nombre de normes définies dans un manuel de procédures consensuel.
 
-> 6 L e projet PURUS transfère trimestriellement l'équivalent d'US $ 8 millions de dollars vers 26,000 écoles en utilisant les filiales de la Banque Centrale du Congo (BCC) installées en provinces (voir schéma).
+> 6 Le projet PURUS transfère trimestriellement l'équivalent d'US $ 8 millions de dollars vers 26,000 écoles en utilisant les filiales de la Banque Centrale du Congo (BCC) installées en provinces (voir schéma).
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -2376,14 +2174,14 @@ Le système d'information statistique de l'AENF sera intégré dans le système 
 
 Le  tableau ci-dessous présente les risques et les mesures préconisées pour atténuer leurs effets dans la stratégie nationale d'AENF.
 
+Tableau N°16: Facteurs de risques et mesures d'atténuation
+
 Facteurs de risque | Description des risques | Taux de risque | Mesures d'atténuation | Taux de risque résiduel
 --- | --- | --- | --- | ---
 I. Au niveau stratégie
 Engagement politique | Un faible engagement politique des décideurs et un niveau d'arbitrage défavorable dans les lignes de crédit budgétaire privilégiant les secteurs autres que ceux de la promotion et protection sociales pourraient nuire au financement du sous-secteur | 3 | Le plaidoyer et le marketing à tous les niveaux décisionnels avec participation effective des bénéficiaires directs et indirects pourraient inverser la tendance | 1
-Lenteur de décentralisation | La non-atteinte d'une décentralisation effective mettrait les provinces et les ETD dans l'incapacité d'une autonomie administrative et financière | 3 | La sensibilisation et la vulgarisation des prérogatives constitutionnelles dévolues aux provinces et aux ETD mèneront à une appropriation de la stratégie de l'AENF | 2
+Lenteur de la décentralisation | La non-atteinte d'une décentralisation effective mettrait les provinces et les ETD dans l'incapacité d'une autonomie administrative et financière | 3 | La sensibilisation et la vulgarisation des prérogatives constitutionnelles dévolues aux provinces et aux ETD mèneront à une appropriation de la stratégie de l'AENF | 2
 Conflits internes | Les tensions inter-éthniques, pré et postélectorales pourraient générer à la longue de crises politiques inhibitrices de la mise en œuvre de la stratégie | 3 | Le plaidoyer pour l'application du code de bonne conduite par les décideurs et le dialogue social sont des éléments fédérateurs vers une citoyenneté et un hymne à la paix nationale. L'élaboration et la vulgarisation des modules en faveur de la paix et de la citoyenneté dans les programmes d'AENF | 1
-
-Tableau N°16:  F acteurs de risques et mesures d'atténuation
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -2397,12 +2195,12 @@ Au plan administratif et institutionnel
 --- | --- | --- | --- | ---
 Déconcentration | L'inadéquation structurelle de l'AENF de la source d'impulsion à l'acteur chargé de la mise en œuvre est génératrice des conflits latents | 3 | La clarification et le respect des attributions entre les différents acteurs s'avèrent indispensables | 1
 Non-respect des instruments juridiques | Le manque de respect ou d'application des différents instruments juridiques portant facilitation à l'accès aux services de l'AENF altérerait les objectifs auxquels le pays a souscrit dans ce secteur | 3 | Le plaidoyer auprès des entrepreneurs stratégies et administratifs à tous les niveaux pour le respect, l'observance et l'application des instruments juridiques La vulgarisation et la sensibilisation des acteurs de prise en charge et des bénéficiaires en matière des instruments juridiques ad hoc. | 1
-Absence de synergie dans le secteur- éducation | Le travail isolé des sous-secteurs concernés dans le secteur d'éducation, le défaut d'implication des parties prenantes et le déficit de collaboration au plus haut niveau conduiraient à un manque de concertation et de coordination en faveur des activités de l'AENF | 2 | La redynamisation du groupe thématique de l'éducation en vue d'offrir aux différents ministères du secteur un cadre de collaboration plus opérationnel permettant notamment à la DGENF de mettre en œuvre sa stratégie. | 1
+Absence de synergie dans le secteur-éducation | Le travail isolé des sous-secteurs concernés dans le secteur d'éducation, le défaut d'implication des parties prenantes et le déficit de collaboration au plus haut niveau conduiraient à un manque de concertation et de coordination en faveur des activités de l'AENF | 2 | La redynamisation du groupe thématique de l'éducation en vue d'offrir aux différents ministères du secteur un cadre de collaboration plus opérationnel permettant notamment à la DGENF de mettre en œuvre sa stratégie. | 1
 
 Au plan socioculturel et linguistique
 --- | --- | --- | --- | ---
 Tensions et barrières sociales dans le secteur | L'insatisfaction des éducateurs sociaux vis-à-vis de la disparité barémique et de la faible motivation entrainant les désavantages sociaux face aux sous-secteurs de l'EPSP et de l'ESU, provoquerait le désintéressement et la fuite des ressources humaines utiles à la matérialisation de la stratégie. | 3 | Le plaidoyer en faveur de l''uniformisation du statut des enseignants du secteur de l'éducation qui accorde une place importante aux éducateurs sociaux serait une réponse durable à cette attente. | 1
-Les croyances sociales et culturelles, la stigmatisation et l'auto- stigmatisation freinent l'accès de certains groupes vulnérables et des minorités dont les peuples autochtones, aux bénéfices de l'AENF. | 3 | La communication pour le changement de comportement (CCC) amènerait les différentes communautés responsables de la stigmatisation ou de l'auto- stigmatisation à la convivialité. | 1
+| Les croyances sociales et culturelles, la stigmatisation et l'auto-stigmatisation freinent l'accès de certains groupes vulnérables et des minorités dont les peuples autochtones, aux bénéfices de l'AENF. | 3 | La communication pour le changement de comportement (CCC) amènerait les différentes communautés responsables de la stigmatisation ou de l'auto-stigmatisation à la convivialité. | 1
 Langues locales | Le faible usage des langues locales par les autochtones véhiculant les connaissances et les compétences rendrait aléatoire leurs traductions pour la mise en œuvre des programmes de l'AENF | 2 | La promotion des langues autochtones et la sensibilisation des locuteurs seraient une réponse adéquate. | 1
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
@@ -2415,7 +2213,7 @@ Page 73
 
 Au plan macro-économique
 --- | --- | --- | --- | ---
-Cadre macro- économique | La désagrégation du cadre macro- économique due au faible taux de croissance économique, à une inflation élevée susceptible d'éroder l'assiette fiscale, la fluctuation monétaire et la faible couverture des assujettis à l'impôt et autres mécanismes de mobilisation aurait des effets nocifs sur le financement des reformes dans le sous-secteur d'AENF | 2 | Les efforts de stabilisation entrepris, la rénovation dans les mécanismes de mobilisation de recettes fiscales constituent autant de réponses d'assainissement du cadre macro- économique. | 1
+Cadre macro-économique | La désagrégation du cadre macro-économique due au faible taux de croissance économique, à une inflation élevée susceptible d'éroder l'assiette fiscale, la fluctuation monétaire et la faible couverture des assujettis à l'impôt et autres mécanismes de mobilisation aurait des effets nocifs sur le financement des reformes dans le sous-secteur d'AENF | 2 | Les efforts de stabilisation entrepris, la rénovation dans les mécanismes de mobilisation de recettes fiscales constituent autant de réponses d'assainissement du cadre macro-économique. | 1
 Crise économique | La récurrence de la crise économique mondiale affectant la capacité de mobilisation des ressources tant au niveau des partenaires nationaux qu'internationaux pourrait nuire à l'équitable distribution des ressources en faveur de l'AENF. | 2 | L'Etat a déjà obtenu auprès de ses partenaires existants et potentiels l'engagement d'exploiter les nouvelles ressources porteuses de richesse pour le pays et par conséquent pour le sous-secteur AENF. | 1
 
 3 = élevé;  2 = moyen ; 1 = bas
@@ -2432,7 +2230,7 @@ Page 74
 
 ## Annexe 1 : Données de l'analphabétisme en RDC
 
-Répartition (en %) des femmes de 15-49 ans par niveau d'instruction atteint et niveau d'alphabétisation et pourcentage de femmes alphabétisées, selon certaines caractéristiques sociodémographiques Répartition (en %) des hommes de 15-49 ans par niveau d'instruction atteint et niveau d'alphabétisation et pourcentage d'hommes alphabétisés, selon certaines caractéristiques sociodémographiques
+Répartition (en %) des femmes de 15-49 ans par niveau d'instruction atteint et niveau d'alphabétisation et pourcentage de femmes alphabétisées, selon certaines caractéristiques sociodémographiques
 
 Pas d'instruction ou niveau primaire
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -2468,9 +2266,9 @@ Quatrième | 50,1 | 9,9 | 10,6 | 28,4 | 100,0 | 70,7 | 1 888
 Le plus riche | 84,0 | 5,2 | 3,4 | 6,9 | 100,0 | 92,7 | 2 300
 Ensemble | 40,6 | 7,9 | 10,3 | 40,5 | 100,0 | 58,9 | 9 995
 
-> 2 C'est-à-dire les femmes qui ont, au moins, fréquenté l'école secondaire et celles qui peuvent lire une phrase entière ou une partie de phrase
-
 > 1 Y compris les non déterminés
+
+> 2 C'est-à-dire les femmes qui ont, au moins, fréquenté l'école secondaire et celles qui peuvent lire une phrase entière ou une partie de phrase
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -2479,7 +2277,7 @@ Page 75
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
-
+Répartition (en %) des hommes de 15-49 ans par niveau d'instruction atteint et niveau d'alphabétisation et pourcentage d'hommes alphabétisés, selon certaines caractéristiques sociodémographiques
 Pas d'instruction ou niveau primaire
 --- | --- | --- | --- | --- | --- | --- | ---
 Caractéristique sociodémographique | Niveau secondaire ou plus | Peut lire la phrase entière | Peut lire une partie de la phrase | Ne peut pas lire | Total (1) | Pourcentage alphabétisée (2) | Effectif en millier
@@ -2516,9 +2314,9 @@ Ensemble 15-49 ans | 65,3 | 10,3 | 9,9 | 14,1 | 100,0 | 85,8 | 4 316
 Hommes 50-59 ans | 48,9 | 20,3 | 10,9 | 19,6 | 100,0 | 80,0 | 441
 Ensemble 15-59 ans | 63,8 | 11,4 | 10,0 | 14,6 | 100,0 | 85,2 | 4 757
 
-> 2 C'est-à-dire les hommes qui ont, au moins, fréquenté l'école secondaire et ceux qui peuvent lire une phrase entière ou une partie de phrase
-
 > 1 Y compris les non déterminés
+
+> 2 C'est-à-dire les hommes qui ont, au moins, fréquenté l'école secondaire et ceux qui peuvent lire une phrase entière ou une partie de phrase
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -2542,7 +2340,7 @@ Située à cheval sur l'équateur, la RDC bénéficie d'un climat équatorial ch
 
 Depuis son accession à l'indépendance (1960), la RDC a connu au plan politique des périodes marquées par des profonds troubles. Quatre périodes ont marqué sa vie politique :
 
-- La  période  de  1960  à  1965 a  été  ponctuée  par  une  lutte  acharnée  entre  partis politiques constitués sur des bases tribales terminée par un coup d'état ; cette lutte a
+v. La période de 1960 à 1965 a été ponctuée par une lutte acharnée entre partis politiques constitués sur des bases tribales terminée par un coup d'état ; cette lutte a
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -2552,13 +2350,13 @@ Page 77
 
 [[START OF PAGE 78]]
 
-- donné lieu à des rébellions et des sécessions qui ont coûté la vie à près de 2 millions (EDS - RDC 2007 de personnes.
+donné lieu à des rébellions et des sécessions qui ont coûté la vie à près de 2 millions (EDS - RDC 2007 de personnes.
 
-- La période de 1965 à 1997 a été marquée par un régime totalitaire ; les travaux de la Conférence Nationale Souveraine, lesquels organisés en 1991 ont lancé le processus démocratique dont le blocage a plongé le pays dans un grand désordre politique et social ; cette période s'est terminée par la guerre de 1996 qui a amené l'Alliance des Forces Démocratiques pour la Libération du Congo (AFDL) au pouvoir en mai 1997.
+vi. La période de 1965 à 1997 a été marquée par un régime totalitaire ; les travaux de la Conférence Nationale Souveraine, lesquels organisés en 1991 ont lancé le processus démocratique dont le blocage a plongé le pays dans un grand désordre politique et social ; cette période s'est terminée par la guerre de 1996 qui a amené l'Alliance des Forces Démocratiques pour la Libération du Congo (AFDL) au pouvoir en mai 1997.
 
-- La période de 1997 à 2006 a été une longue période de transition dont la principale visée était la recherche d'un nouvel ordre politique ; cette période a été marquée par les  guerres  de  1998  et  2001  qui  ont  créé  une  insécurité  généralisée,  de  nombreux déplacements de population, d'énormes pertes en vies humaines et matérielles et une  tentative  de  balkanisation  du  pays ;  elle  a  également  été  marquée  par  (a)  la conclusion de l'Accord de paix et de réconciliation nationale (décembre 2002) qui a abouti à la mise en place des institutions de transition, (b) l'adoption de la nouvelle Constitution  (décembre  2005)  et  (c)  l'organisation  des  élections  législatives  et présidentielles (deuxième semestre 2006).
+vii. La période de 1997 à 2006 a été une longue période de transition dont la principale visée était la recherche d'un nouvel ordre politique ; cette période a été marquée par les guerres de 1998 et 2001 qui ont créé une insécurité généralisée, de nombreux déplacements de population, d'énormes pertes en vies humaines et matérielles et une tentative de balkanisation du pays ; elle a également été marquée par (a) la conclusion de l'Accord de paix et de réconciliation nationale (décembre 2002) qui a abouti à la mise en place des institutions de transition, (b) l'adoption de la nouvelle Constitution (décembre 2005) et (c) l'organisation des élections législatives et présidentielles (deuxième semestre 2006).
 
-- La quatrième période qui court de 2007 à ce jour, se caractérise par la mise en place des institutions issues des urnes ; durant cette période, des efforts ont été entrepris pour unifier et pacifier tout le pays ; mais il existe encore des zones d'insécurité dans la partie Est du pays ; en septembre 2008, les hostilités ont repris entre les éléments de l'armée régulière et les factions rebelles opérant à l'Est du pays avec de lourdes conséquences en termes de déplacement des populations civiles.
+viii. La quatrième période qui court de 2007 à ce jour, se caractérise par la mise en place des institutions issues des urnes ; durant cette période, des efforts ont été entrepris pour unifier et pacifier tout le pays ; mais il existe encore des zones d'insécurité dans la partie Est du pays ; en septembre 2008, les hostilités ont repris entre les éléments de l'armée régulière et les factions rebelles opérant à l'Est du pays avec de lourdes conséquences en termes de déplacement des populations civiles.
 
 En conclusion, il sied de noter que la situation politique et sécuritaire de la RDC reste l'un des principaux  facteurs  qui  fragilise  la  conception  et  la  conduite  d'une  bonne  stratégie  de développement. Le processus de normalisation politique coûte beaucoup au pays et ronge une  partie  des  moyens  disponibles  pour  faire  face  à  la  pauvreté.  En  imposant  certaines dépenses, la situation sécuritaire à l'Est du pays affecte le processus de rationalisation des choix budgétaires et fragilise les efforts conjugués pour réduire le déficit public et maintenir la stabilité des prix et du taux de change. Cette situation a pour conséquence la réduction du budget alloué au secteur éducatif en général .
 
@@ -2648,9 +2446,11 @@ Ces  langues  nationales  sont  aujourd'hui  utilisées  comme  langues  materne
 
 #### La langue officielle
 
-Les paragraphes 7 et 8 de l'article 4 de la Constitution promulguée le 4 avril 2003 portent sur
+Les paragraphes 7 et 8 de l'article 4 de la Constitution promulguée le 4 avril 2003 portent sur les langues.
 
-les langues. Le paragraphe 7 précise que le kikongo, le lingala, le swahili et le tshiluba sont les «langues nationales», alors que le français est la seule langue officielle, l'anglais ayant été éliminé. Environ 10% des Congolais parlent le français et 1 %  l'anglais.
+Le paragraphe 7 précise que le kikongo, le lingala, le swahili et le tshiluba sont les «langues nationales», alors que le français est la seule langue officielle, l'anglais ayant été éliminé.
+
+Environ 10% des Congolais parlent le français et 1 % l'anglais.
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -2668,9 +2468,9 @@ Projet de budget de la stratégie nationale d'AENF de la RDC
 
 Objectif  stratégique : Accroître l'accès, l'accessibilité et l'équité dans les offres d'AENF
 
-Objectifs | Résultats Attendus | Indicateurs | Activités | Période | Détails des coûts
+Objectifs spécifiques | Résultats Attendus | Indicateurs | Activités | Période | Détails des coûts
 --- | --- | --- | --- | --- | ---
-spécifiques OS1 : Faciliter l'accès aux offres non formelles d'éducation | -les centres d'accueil pour les enfants de la rue et autres sont construits; -les centres d'alphabétisation, de rattrapage et autres sont construits et - les kits scolaires sont distribués | Nombre de centres d'accueil construits ; Nombre de centres d'alphabétisation construits Nombre de centres d'apprentissage professionnel construits | Prise de mesures de facilitation de l'accès : - Octroi de kits scolaires - Application de la décision de suppression des frais scolaires dans le rattrapage scolaire - Réduction des frais de formation de la formation professionnelle - Subventions aux centres de FP .- la Construction de centres d'accueil pour les enfants de la rue ; - la Construction de centres d'alphabétisation, de rattrapage et d'apprentissage professionnelle ; - la Distribution des kits scolaires - | 2012-2015 | 1. Octroi de kits scolaires : - Nombre : 900.000 enfants dans le rattrapage scolaire + 360.000 apprenants dans la formation professionnelle = 1.260.000 kits par an X 3 ans = 3.780.000 kits - Coût unitaire : Coût total 1 : cf.OS3
+OS1 : Faciliter l'accès aux offres non formelles d'éducation | -les centres d'accueil pour les enfants de la rue et autres sont construits; -les centres d'alphabétisation, de rattrapage et autres sont construits et - les kits scolaires sont distribués | Nombre de centres d'accueil construits ; Nombre de centres d'alphabétisation construits Nombre de centres d'apprentissage professionnel construits | Prise de mesures de facilitation de l'accès : - Octroi de kits scolaires - Application de la décision de suppression des frais scolaires dans le rattrapage scolaire - Réduction des frais de formation de la formation professionnelle - Subventions aux centres de FP .- la Construction de centres d'accueil pour les enfants de la rue ; - la Construction de centres d'alphabétisation, de rattrapage et d'apprentissage professionnelle ; - la Distribution des kits scolaires - | 2012-2015 | 1. Octroi de kits scolaires : - Nombre : 900.000 enfants dans le rattrapage scolaire + 360.000 apprenants dans la formation professionnelle = 1.260.000 kits par an X 3 ans = 3.780.000 kits - Coût unitaire : Coût total 1 : cf.OS3
 2. Application de la décision de suppression des frais scolaires dans le rattrapage scolaire Cf. campagnes de sensibilisation OS2
 3. Réduction des frais de formation de la formation professionnelle Cf. Coût: cf.OS3
 4. Subventions aux centres de FP - Nombre de FP à subventionner par an : - Montant de la subvention : - Nombre d'année : Coût total 2 : Cf. Coût: cf.OS3
@@ -2686,14 +2486,12 @@ Objectifs spécifiques | Résultats Attendus | Indicateurs | Activités | Pério
 --- | --- | --- | --- | --- | ---
 OS2 : Mobiliser les communautés locales et la société civile dans l'organisation des activités de l'AENF | les communautés locales sont impliquées dans l'organisation des activités de l'AENF | - Nombre de communautés locales mobilisées - Nombre de campagnes de sensibilisation organisées | Organiser les campagnes de sensibilisation au profit des parties prenantes locales | 2012-2015 | 1. Organiser les campagnes de sensibilisation au profit des parties prenantes locales 2. Activités d'information, de sensibilisation et de conscientisation par province : 11 provinces Coût par province et par an : 5.000 $ US Nombre d'année : 3 ans 11 x 5000 X 3 = 165.000 $ US 3. Journée internationale de l'alphabétisation organisée par la DGENF: 10.000 $US X 3 ans = 30.000 $US Coût total 1 : 195.000 $US
 Coût total OS2: 195.000 $US
-OS3 : Renforcer les capacités d'accueil des structures de l'AENF | Taux d'analphabétisme réduit de 10% par an | - 1.800.000 personnes participent par an différents programmes d'AENF 7 - Nombre des centres construits Nombre des centres réhabilités Nombre des centres équipés | aux 1. Elaborer le Plan stratégique de construction et de réhabilitation des infrastructures de l'A ENF 2. Construire les centres 3. Réhabiliter les centres 4. Equiper les centres construits et réhabilités 5. Faire fonctionner les centres | 2012-2015 | Rattrapage scolaire 8 : 50% des effectifs soit 900.000 personnes par an X 3 ans : 2.700.000 - Coût unitaire d'un participant : 78 $ US - Nombre d'années : 3 ans Coût total 1 : 210.600.000 $US
-- - | Alphabétisation : 30% des effectifs soit 540.000 personnes par an Coût unitaire d'un participant : 60$US Nombre d'années : 3 ans
+OS3 : Renforcer les capacités d'accueil des structures de l'AENF | Taux d'analphabétisme réduit de 10% par an | - 1.800.000 personnes participent par an aux différents programmes d'AENF 7 - Nombre des centres construits - Nombre des centres réhabilités - Nombre des centres équipés | 1. Elaborer le Plan stratégique de construction et de réhabilitation des infrastructures de l'A ENF 2. Construire les centres 3. Réhabiliter les centres 4. Equiper les centres construits et réhabilités 5. Faire fonctionner les centres | 2012-2015 | Rattrapage scolaire 8 : 50% des effectifs soit 900.000 personnes par an X 3 ans : 2.700.000 - Coût unitaire d'un participant : 78 $ US - Nombre d'années : 3 ans Coût total 1 : 210.600.000 $US
+Alphabétisation : 30% des effectifs soit 540.000 personnes par an Coût unitaire d'un participant : 60$US Nombre d'années : 3 ans
 
-> 7 8
+> 7 Répartition des effectifs par type de programme : 50% au rattrapage scolaire, 30% à l'alphabétisation et 20% à la formation professionnelle
 
-> Répartition des effectifs par type de programme : 50% au rattrapage scolaire, 30% à l'alphabétisation et 20% à la formation professionnelle
-
-> Coût officiel d'un participant au rattrapage scolaire 78 $ US :
+> 8 Coût officiel d'un participant au rattrapage scolaire 78 $ US :
 
  33$ de frais scolaires annuels supportés par les parents
 
@@ -2719,11 +2517,7 @@ Coût total OS3: 423.000.000 $US
 OS4 : Réduire les disparités entre le genre, les régions géographiques, les âges, handicap et pauvreté | La cartographie est élaborée ; Les centres sont implantés dans des régions dépourvues | - Existence d'une cartographie - Nombre des centres implantés par province, district, territoire… - Nombre de personnes formées par genre, par âge, par handicap, par groupe vulnérables ciblés | 4. Elaborer la cartographie des centres et des apprenants 5. Implanter des centres dans des régions dépourvues | 2012-2015 | Campagne statistique annuelle pendant 3 ans : 90.000 $ X 3 = 270.000 $US Coût total OS4: 270.000 $US Les coûts liés à l'implantation des centres dans des régions à problème n'apparaissent pas ici alors que l'objectif est de réduire les disparités. Il faut présenter ces coûts de centres à implanter.
 Total Coûts Composante 1 | 423.465.000 $US
 
-9
-
-320$US ainsi répartis : 300 $ pour la formation en atelier pendant 3 ans, 10 $ pour les stages et 10$ pour la participation au jury d'examen en 3
-
-ème année.
+> 9 320$US ainsi répartis : 300 $ pour la formation en atelier pendant 3 ans, 10 $ pour les stages et 10$ pour la participation au jury d'examen en 3ème année.
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012
 
@@ -2765,8 +2559,9 @@ Objectif spécifique | Résultats attendus | Indicateurs | Activités | Période
 --- | --- | --- | --- | --- | ---
 OS2 : Développer la production et la distribution des supports pédagogiques, andragogiques et de post alphabétisation en langues locales | Chaque centre est doté des supports pédagogiques et andragogiques et a accès aux ouvrages de post alphabétisation | Nombre des supports pédagogues et andragogiques produits. Nombre de centres équipés Norme : ratio apprenant/livres ? Durée de vie d'un manuel ? | Organisation des ateliers d'élaboration et de production des supports pédagogiques et andragogiques. Equipement des centres (archivage, sauvegarde des manuels…) | 2012- 2014 | 1. Elaboration et production des supports pédagogiques et andragogiques : Etude des besoins non couverts par langue, thème, handicap… : 100.000 $US Nombre de supports à produire : 30 Coût unitaire d'un ouvrage : 4.000$ Coût total : 220.000$
 2. Equipement des centres (archivage, sauvegarde des manuels…) 1.606 sites abritant un centre (village, commune…) en bibliothèque X 1.500$S/bibliothèque = 2.409.000$ Coût total 2.409.000$
-OS3 : Développer l'environnement lettré en langues locales | Langues locales codifiées et utilisées comme langues d'alphabétisation | X nombre des langues locales codifiés et utilisées | Organisation d'ateliers de codification des langues locales Mise en place de subventions | 2012- 2015 | 1. Codification des langues locales - Nombre de langues à codifier: 2 langues par province par an = 22 - Nombre d'années : 2 - Coût d'une codification : 100.000 $ Coût total : 44 X 100.000 $ = 4.400.000 $ US
-pour langues (journaux, traductions/adaptations…) | 2. Mise en place de subventions pour la production d'écrits en langues locales et nationales (journaux, livres, traductions/adaptations…) Nombre de langues : 50 Subvention de l'édition d'un ouvrage par langue : 4.000$ Coût total : 200.000 $US
+Coût total OS2 : 2.629.000$US
+OS3 : Développer l'environnement lettré en langues locales | Langues locales codifiées et utilisées comme langues d'alphabétisation | X nombre des langues locales codifiés et utilisées | Organisation d'ateliers de codification des langues locales Mise en place de subventions pour la production d'écrits en langues locales et nationales (journaux, livres, traductions/adaptations…) | 2012- 2015 | 1. Codification des langues locales - Nombre de langues à codifier: 2 langues par province par an = 22 - Nombre d'années : 2 - Coût d'une codification : 100.000 $ Coût total : 44 X 100.000 $ = 4.400.000 $ US
+2. Mise en place de subventions pour la production d'écrits en langues locales et nationales (journaux, livres, traductions/adaptations…) Nombre de langues : 50 Subvention de l'édition d'un ouvrage par langue : 4.000$ Coût total : 200.000 $US
 
 Stratégie nationale d'AENF/MAS.AH.SN  MARS  2012 Page 87
 
@@ -2792,8 +2587,6 @@ Page 88
 [[END OF PAGE 88]]
 
 [[START OF PAGE 89]]
-
-:
 
 Objectif spécifique | Résultats attendus | Indicateurs | Activités | Période | Détails des coûts
 --- | --- | --- | --- | --- | ---
@@ -2853,6 +2646,7 @@ Objectif spécifique | Résultats attendus | Indicateurs | Activités | Période
 --- | --- | --- | --- | --- | ---
 4. Mise en place des structures de la DGENF au niveau local (locaux réhabilités ou construits, personnels, moyens logistiques, équipements…) | 1. Mise en place des structures de la DGENF au niveau local (locaux réhabilités ou construits, personnels, moyens logistiques, équipements…) Cf. audit organisationnel
 5. Mise en leur disposition des moyens suffisant pour le fonctionnement | 1. Equipement des structures locales en charge de l'AENF Cf. audit organisationnel: 145 territoires + 96 communes + 26 districts + 20 villes + 11 provinces= 298 structures d'AENF 298 motos x 2000 $ : 596.000 $ 298 groupes électrogènes ou panneaux solaires x 750 $ : 223.500$ 298 ordinateurs fixes x 1500$ : 447.000$ 298 phocopieuses x 750$ : 223.500$ 298 imprimantes x 100$ : 29800$ 298 onduleurs x 100$= 29800$ 298 mobiliers complets de bureaux x 3 par service x 400$ : 357600$ Coût total : 1.907.200 $
+Coût total OS1 : 30.661.600 $US
 O.S.2 : Renforcer le cadre de coordination des activités de l'AENF |  Le Comité National de pilotage de l'AENF est fonctionnel.  Le cadre national de coordination et de suivi/évaluation et ses démembrements sont fonctionnels. | Nombre de réunions du comité de pilotage de la stratégie et du cadre national décentralisé de partenariat | 4. Conception, élaboration et validation des textes fondateurs des structures | 2012 | 1. Conception, élaboration et validation des textes fondateurs des structures - Coût d'une consultation: 15 jours de consultation x 200 $ : 3.000 $US Sous-total 1 : 3.000 $US
 5. Elaboration du répertoire des acteurs et partenaires de l'AENF | 2. Elaboration du répertoire des acteurs et partenaires de l'AENF - Enquête par 298 structures d'AENF x 20 $/jour x 10 jours : 59.600$ - Préparation et consolidation au niveau de la DAENF : 10.000$
 
@@ -2878,12 +2672,12 @@ Page 94
 
 [[START OF PAGE 95]]
 
-Objectif spécifique | Résultats attendus | Activités | Période | Détails des coûts
+Objectif spécifique | Résultats attendus | Indicateurs | Activités | Période | Détails des coûts
 --- | --- | --- | --- | --- | ---
-O.S.3 : Mettre en place un cadre de financement des activités de l'AENF | Un dispositif national de mobilisation et de gestion des ressources financières est mis en place et fonctionne correctement. | Indicateurs  participation au financement de l'AENF par chacun des acteurs et partenaires  Niveau d'application du manuel de procédures  Taux de couverture des besoins en financement de l'AENF  Taux d'absorption des ressources mobilisées |  Etude sur les types de dispositif de financement et choix de l'option à mettre à l'essai  Elaboration du manuel de procédures  Organisations de séances d'information des différents acteurs  Organisation de campagnes de collecte de fonds | 2012 | 1. Etude sur les types de dispositif de financement et choix de l'option à mettre à l'essai : coût d'une consultation d'un mois Sous-total 1 : 75.000 $US
+O.S.3 : Mettre en place un cadre de financement des activités de l'AENF | Un dispositif national de mobilisation et de gestion des ressources financières est mis en place et fonctionne correctement. |  participation au financement de l'AENF par chacun des acteurs et partenaires  Niveau d'application du manuel de procédures  Taux de couverture des besoins en financement de l'AENF  Taux d'absorption des ressources mobilisées |  Etude sur les types de dispositif de financement et choix de l'option à mettre à l'essai  Elaboration du manuel de procédures  Organisations de séances d'information des différents acteurs  Organisation de campagnes de collecte de fonds  Evaluation du mécanisme mis en place | 2012 | 1. Etude sur les types de dispositif de financement et choix de l'option à mettre à l'essai : coût d'une consultation d'un mois Sous-total 1 : 75.000 $US
 2. Elaboration du manuel de procédures Coût d'une consultation d'un mois: 75.000 $US - Atelier de validation du manuel de procédures : Nombre de participants : 30 Coût d'un participant à un atelier national de validation : 32080 $US/ 100 : 321$US Coût : 321$US X 30 participants : 9630 $US - Multiplication du manuel en 1000 exemplaires x 5 $= 5.000 $US Sous-total 2 : 89.630$US
-3. Organisation de séances d'information des différents acteurs - Nombre de séance : 1 séance d'un jour : 145 territoires + 96 communes + 26 districts + 20 villes + 11 provinces= 298 cadres de concertation en AENF - Nombre de participants par séance : 50 pers - Coût d'une séance : 20 dollars x 50 pers x 298 = 298.000$
- Evaluation du mécanisme mis en place | Sous-total 3 : 298.000$ 4. Coût de l'organisation de la campagne de collecte de fonds - Nombre des campagnes : 2 - Nombre d'années : 5 ans - Coût de la campagne/an : 100.000$ Sous-total 4: 100.000 x 2 x 5 = 1.000.000$ US
+3. Organisation de séances d'information des différents acteurs - Nombre de séance : 1 séance d'un jour : 145 territoires + 96 communes + 26 districts + 20 villes + 11 provinces= 298 cadres de concertation en AENF - Nombre de participants par séance : 50 pers - Coût d'une séance : 20 dollars x 50 pers x 298 = 298.000$ Sous-total 3 : 298.000$
+4. Coût de l'organisation de la campagne de collecte de fonds - Nombre des campagnes : 2 - Nombre d'années : 5 ans - Coût de la campagne/an : 100.000$ Sous-total 4: 100.000 x 2 x 5 = 1.000.000$ US
 5. Evaluation du mécanisme mis en place : coût d'une consultation d'un mois Sous-total 5 : 75.000 $US
 Coût total OS3: 1.537.630 $US
 
@@ -2897,7 +2691,7 @@ Page 95
 
 Objectif spécifique | Résultats attendus | Indicateurs | Activités | Période | Détails des coûts
 --- | --- | --- | --- | --- | ---
-O.S.4 : Elaborer et mettre en œuvre un plan de communication |  L'ensemble des acteurs comprennent et soutiennent la stratégie d'AENF.  Les résultats du programme sont plus visibles.  L'AENF est plus crédible aux yeux des différents acteurs.   | Nombre d'acteurs informés sur la stratégie d'AENF, sur ses résultats, sur les textes de la décentralisation et sur l'AENF Nombre et qualité des dispositifs de communication mis en place |  Elaboration du plan de communication en faveur de l'AENF et recrutement d'un consultant  Mise en place des dispositifs, élaboration et diffusion des supports de communication (revues de presse, dépliants, annuaires, journaux, affiches, CD-ROM, films, documentaires, connexion internet et mise en réseau, service de documentation…)  Création et animation du site web de l'AENF  Evaluation et révision du plan de communication et recrutement d'un consultant | 2012 | 1. Elaboration du plan de communication en faveur de l'AENF : 100.000 $ Coût d'une consultation d'un mois: 50.000 $ Sous-total 1 : 1 50.000 $US
+O.S.4 : Elaborer et mettre en œuvre un plan de communication |  L'ensemble des acteurs comprennent et soutiennent la stratégie d'AENF.  Les résultats du programme sont plus visibles.  L'AENF est plus crédible aux yeux des différents acteurs. | Nombre d'acteurs informés sur la stratégie d'AENF, sur ses résultats, sur les textes de la décentralisation et sur l'AENF Nombre et qualité des dispositifs de communication mis en place |  Elaboration du plan de communication en faveur de l'AENF et recrutement d'un consultant  Mise en place des dispositifs, élaboration et diffusion des supports de communication (revues de presse, dépliants, annuaires, journaux, affiches, CD-ROM, films, documentaires, connexion internet et mise en réseau, service de documentation…)  Création et animation du site web de l'AENF  Evaluation et révision du plan de communication et recrutement d'un consultant | 2012 | 1. Elaboration du plan de communication en faveur de l'AENF : 100.000 $ Coût d'une consultation d'un mois: 50.000$ Sous-total 1 : 150.000 $US
 2. Mise en place des dispositifs, élaboration et diffusion des supports de communication (revues de presse, dépliants, annuaires, journaux, affiches, CD-ROM, films, documentaires, connexion internet et mise en réseau, service de documentation…) Sous-total 2 : forfait : 1.000.000 $US
 3. Création et animation du site web de l'AENF : Coût d'une consultation d'un mois Sous-total 3 : 50.000 $US
 4. Evaluation et révision du plan de communication : 50.000$US - Coût d'une consultation d'un mois : 50.000$ Sous-total 4 : 100.000 $US
@@ -2972,7 +2766,7 @@ O.S.4. : Organiser les rencontres du comité de pilotage de programme | Au moins
 Coût total OS4: 90.000$US
 O.S.5. : Auditer le programme | Un rapport d'audit annuel est produit et diffusé auprès du comité de pilotage | Nombre de rapports d'audit | Recrutement d'un cabinet d'audit | 2010- 2015 | Recrutement d'un cabinet d'audit : 150.000$US par an x 3 = 450.000 $US
 Coût total OS5: 450.000$US
-O.S.6. : Evaluer programme | Chacune des deux premières phases du programme est évaluée. | Nombre de rapport d'évaluation | Recrutement d'un consultant Atelier de présentation du rapport d'évaluation | 2012 et 2015 | Recrutement d'un consultant pour l'évaluation: 75.000$US
+O.S.6. : Evaluer le programme | Chacune des deux premières phases du programme est évaluée. | Nombre de rapport d'évaluation | Recrutement d'un consultant Atelier de présentation du rapport d'évaluation | 2012 et 2015 | Recrutement d'un consultant pour l'évaluation: 75.000$US
 Atelier de présentation du rapport d'évaluation pour deux jours - Activité préparatoire et logistique (mobilité, carte de téléphone, divers) :1610 $ us - Atelier d'évaluation (transport des participants venant des provinces 10.380$US, transport des participants de Kinshasa en raison de 60 personnes pour deux jours, DSA des provinciaux 16.000$US, pause-café et déjeuner 4.000$US, location salle pour 2jrs 600$US cocktail 1000$US Total : 35.990$US
 Coût total OS6: 110.990$US
 
@@ -2986,7 +2780,7 @@ Page 100
 
 Objectifs spécifiques | Résultats attendus | Indicateurs | Activités | Période | Détails des coûts
 --- | --- | --- | --- | --- | ---
-O.S.7. : Planifier la phase 3 de programme | La phase 3 du programme dispose d'un plan d'action. | Atelier de planification Validation de la proposition par le Gouvernement | 2015 | Atelier de planification en raison de 3 jours - Activité préparatoire et logistique (mobilité, carte de téléphone, divers) :1610 $ us - Transport par avion des venant des provinces 10 personnes x 519 $US = 5190 $US,- - Transport des participants de Kinshasa en raison de 30 personnes x 3 jours x 20$US =1800 $ - DSA des provinciaux 160$ us x 10 personnes x 3 jours = 4800$US, - Pause-café et déjeuner3 jours x 25 $ x40 personnes = 3.000$US, - Location salle pour 3jrs x 300$US = 900$ - Cocktail : 60 personnes x 10 $ = 600$US
+O.S.7. : Planifier la phase 3 de programme | La phase 3 du programme dispose d'un plan d'action. |  | Atelier de planification Validation de la proposition par le Gouvernement | 2015 | Atelier de planification en raison de 3 jours - Activité préparatoire et logistique (mobilité, carte de téléphone, divers) :1610 $ us - Transport par avion des venant des provinces 10 personnes x 519 $US = 5190 $US,- - Transport des participants de Kinshasa en raison de 30 personnes x 3 jours x 20$US =1800 $ - DSA des provinciaux 160$ us x 10 personnes x 3 jours = 4800$US, - Pause-café et déjeuner3 jours x 25 $ x40 personnes = 3.000$US, - Location salle pour 3jrs x 300$US = 900$ - Cocktail : 60 personnes x 10 $ = 600$US
 Total OS7: 17.900$US
 Total Coûts Composante 5 | 1.213.880 $US
 
@@ -3003,7 +2797,7 @@ Composantes | Coûts | %
 Composante 1 : Développement de l'accès à une éducation non formelle de qualité diversifiée | 423.465.000 $US | 85,62%
 Composante 2 : Optimisation et amélioration de la qualité des programmes | 22.353.530 $US | 4,52%
 Composante 3: Amélioration de la gestion du sous-secteur de l'AENF | 33.703.970 $US | 6,81%
-Protection sociale | 13. 842.990 $US | 2,80%
+Composante 4: Protection sociale | 13. 842.990 $US | 2,80%
 Composante 5 : Gestion et promotion du programme | 1.213.880 $US | 0,25%
 Total Composantes | 494.579.370 $US | 100%
 Imprévus : 10% | 49.457.937 $US
