@@ -1,10 +1,12 @@
 [[START OF PAGE 1]]
 
 # Child Care (Pre-School Services) (No 2) Regulations 2006 and Explanatory Guide to Requirements and Procedures for Notification and Inspection
+
 DEPARTMENT
 OF HEALTH & CHILDREN
 AN ROINN SLÁINTE
 AGUS LEANAÍ
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -21,35 +23,23 @@ S. I. No. 604 of 2006
 
 [[START OF PAGE 3]]
 
-BAILE ÁTHA CLIATH:
-ARNA FHOILSIÚ AG OIFIG AN TSOLÁTHAIR.
+BAILE ÁTHA CLIATH: ARNA FHOILSIÚ AG OIFIG AN TSOLÁTHAIR.
 
 ____________
 
-LE CEANNACH DÍREACH ÓN
-OIFIG DHÍOLTA FOILSEACHÁN RIALTAIS,
-TEACH SUN ALLIANCE, SRÁID THEACH LAIGHEAN, BAILE ÁTHA CLIATH 2,
-NÓ TRÍD AN BPOST Ó
-FOILSEACHÁIN RIALTAIS, AN RANNÓG POST-TRÁCHTA,
-51 FAICHE STIABHNA, BAILE ÁTHA CLIATH 2,
-(TEIL: 01-647 6834/35/36/37; FAX: 01-647 6843)
+LE CEANNACH DÍREACH ÓN OIFIG DHÍOLTA FOILSEACHÁN RIALTAIS, TEACH SUN ALLIANCE, SRÁID THEACH LAIGHEAN, BAILE ÁTHA CLIATH 2, NÓ TRÍD AN BPOST Ó FOILSEACHÁIN RIALTAIS, AN RANNÓG POST-TRÁCHTA, 51 FAICHE STIABHNA, BAILE ÁTHA CLIATH 2, (TEIL: 01-647 6834/35/36/37; FAX: 01-647 6843)
+
 NÓ TRÍ AON DÍOLTÓIR LEABHAR.
 
 ____________
 
 DUBLIN:
+
 PUBLISHED BY THE STATIONERY OFFICE.
 
 ____________
 
-TO BE PURCHASED DIRECTLY FROM THE
-GOVERNMENT PUBLICATIONS SALE OFFICE,
-SUN ALLIANCE HOUSE, MOLESWORTH STREET, DUBLIN 2,
-OR BY MAIL ORDER FROM
-GOVERNMENT PUBLICATIONS, POSTAL TRADE SECTION,
-51 ST. STEPHEN’S GREEN, DUBLIN 2,
-(TEL: 01-647 6834/35/36/37; FAX: 01-647 6843)
-OR THROUGH ANY BOOKSELLER.
+TO BE PURCHASED DIRECTLY FROM THE GOVERNMENT PUBLICATIONS SALE OFFICE, SUN ALLIANCE HOUSE, MOLESWORTH STREET, DUBLIN 2, OR BY MAIL ORDER FROM GOVERNMENT PUBLICATIONS, POSTAL TRADE SECTION, 51 ST. STEPHEN’S GREEN, DUBLIN 2, (TEL: 01-647 6834/35/36/37; FAX: 01-647 6843) OR THROUGH ANY BOOKSELLER.
 
 Prn: A6/2085 Price: €5.00
 
@@ -84,6 +74,7 @@ Prn: A6/2085 Price: €5.00
 Part I
 
 Regulation
+
 1 Citation 7
 2 Revocation 7
 3 Commencement 7
@@ -183,25 +174,25 @@ I, BRIAN LENIHAN, Minister of State at the Department of Health and Children, in
 
 [[START OF PAGE 9]]
 
-'childminding  service'  means  a  pre-school  service,  which  may  include an overnight service, offered by a person who single-handedly takes care of    pre-school  children,  including  the  childminder's  own  children,  in  the childminder's home for a total of more than 2 hours per day, except where the exemptions provided in Section 58 of the Child Care Act 1991 apply;
+“childminding service” means a pre-school service, which may include an overnight service, offered by a person who single-handedly takes care of pre-school children, including the childminder’s own children, in the childminder’s home for a total of more than 2 hours per day, except where the exemptions provided in Section 58 of the Child Care Act 1991 apply;
 
-'childminder' is a person who provides a childminding service as defined in these Regulations;
+“childminder” is a person who provides a childminding service as defined in these Regulations;
 
-'Full  day  care  service'  means  a  pre-school  service  offering  a  structured day care service for pre-school children for more than 5 hours per day; and which may include a sessional pre-school service for pre-school children not attending the full day care service;
+“Full day care service” means a pre-school service offering a structured day care service for pre-school children for more than 5 hours per day; and which may include a sessional pre-school service for pre-school children not attending the full day care service;
 
-'Health Service Executive' means the Health Service Executive established by Section 6 of the Health Act 2004 (S.I. no. 42 of 2004);
+“Health Service Executive” means the Health Service Executive established by Section 6 of the Health Act 2004 (S.I. no. 42 of 2004);
 
-'overnight pre-school service' means a service in which pre-school children are taken  care of for a total of more than 2 hours between the hours of 7pm and 6am except where the exemptions provided in Section 58 of the Child Care Act 1991 apply;
+“overnight pre-school service” means a service in which pre-school children are taken care of for a total of more than 2 hours between the hours of 7pm and 6am except where the exemptions provided in Section 58 of the Child Care Act 1991 apply;
 
-'part-time day care service' means a pre-school service offering a structured day care service for pre-school children for a total of more than  3.5 hours and less than 5 hours  per day; and which may include a sessional pre-school service for pre-school children not attending the part-time day care service;
+“part-time day care service” means a pre-school service offering a structured day care service for pre-school children for a total of more than 3.5 hours and less than 5 hours per day; and which may include a sessional pre-school service for pre-school children not attending the part-time day care service;
 
-‘premises’ means a premises, building or part of a building, and any out-offices, yard, garden or land appurtenant thereto or usually enjoyed therewith in which a pre-school service is being or is proposed to be carried on;
+“premises” means a premises, building or part of a building, and any out-offices, yard, garden or land appurtenant thereto or usually enjoyed therewith in which a pre-school service is being or is proposed to be carried on;
 
-'pre-school service in a drop-in centre' means a pre-school service offering day care which is used exclusively on an intermittent basis;
+“pre-school service in a drop-in centre” means a pre-school service offering day care which is used exclusively on an intermittent basis;
 
-'pre-school  service  in  a  temporary  drop-in  centre'  means  a  pre-school service  offering day care exclusively on a temporary basis;
+“pre-school service in a temporary drop-in centre” means a pre-school service offering day care exclusively on a temporary basis;
 
-'record' means any record kept or retained in pursuance of these Regulations including any book, card, form, tape, film, note or any record in permanent form including a record that is not in a legible form but which is capable of being reproduced in a legible form;
+“record” means any record kept or retained in pursuance of these Regulations including any book, card, form, tape, film, note or any record in permanent form including a record that is not in a legible form but which is capable of being reproduced in a legible form;
 
 8
 
@@ -209,7 +200,7 @@ I, BRIAN LENIHAN, Minister of State at the Department of Health and Children, in
 
 [[START OF PAGE 10]]
 
-‘sessional pre-school service’ means a pre-school service offering a planned programme to pre-school children for a total of not more than 3.5 hours per session.
+“sessional pre-school service” means a pre-school service offering a planned programme to pre-school children for a total of not more than 3.5 hours per session.
 
 #### PART II
 
@@ -233,9 +224,9 @@ I, BRIAN LENIHAN, Minister of State at the Department of Health and Children, in
 
 8. (1) A person carrying on a pre-school service shall ensure that –
 
-(a) a sufficient number of suitable and competent adults are working directly with the pre-school children in the pre-school service at all times,
+(a)    a sufficient number of suitable and competent adults are working directly with the pre-school children in the pre-school service at all times,
 
-(b) the service has a designated person in charge and a named person who is able to deputise as required, and
+(b)    the service has a designated person in charge and a named person who is able to deputise as required, and
 
 9
 
@@ -243,7 +234,7 @@ I, BRIAN LENIHAN, Minister of State at the Department of Health and Children, in
 
 [[START OF PAGE 11]]
 
-(c) at all times during the period when the pre-school service is being carried on, the designated person in charge or the named person referred to in paragraph 1(b) is on the premises.
+(c)    at all times during the period when the pre-school service is being carried  on,  the  designated  person  in  charge  or  the  named  person referred to in paragraph 1(b) is on the premises.
 
 (2) A person carrying on a pre-school service shall ensure appropriate vetting of all staff, students and volunteers who have access to a child –
 
@@ -259,7 +250,7 @@ I, BRIAN LENIHAN, Minister of State at the Department of Health and Children, in
 
 ##### BEHAVIOUR MANAGEMENT
 
-9. (1) A person carrying on a pre-school service shall ensure that no corporal punishment is inflicted on a pre-school child attending the service.
+(1) A person carrying on a pre-school service shall ensure that no corporal punishment is inflicted on a pre-school child attending the service.
 
 (2) A person carrying on a pre-school service shall ensure that no practices that are disrespectful, degrading, exploitive, intimidating, emotionally or physically harmful or neglectful are carried out in respect of any child.
 
@@ -363,11 +354,11 @@ that the person concerned may make representations to the Executive within 21 da
 
 14. (1) A person carrying on a pre-school service shall keep a record in writing of the following information in relation to the service –
 
-(a) the name, position, qualifications and experience of the person in charge and of every other person, including volunteers and students working in the service
+(a)    the name, position, qualifications and experience of the person in charge and of every other person, including volunteers and students working in the service
 
 (b) all information generated under Regulation 8 (2),
 
-(c) details of the maximum number of pre-school children catered for at any one time,
+(c)    details of the maximum number of pre-school children catered for at any one time,
 
 (d) details of the type of service and age range group,
 
@@ -387,7 +378,7 @@ that the person concerned may make representations to the Executive within 21 da
 
 (l) details of any medicine administered to a pre-school child attending the service with signed parental consent, and
 
-(m) details of any accident, injury or incident involving a pre-school child attending the service.
+(m)   details  of  any  accident,  injury  or  incident  involving  a  pre-school child attending the service.
 
 (2) The record referred to in paragraph (1) and the documentation and records referred to in paragraph (5) of this Regulation shall be open to inspection on the premises by an authorised person.
 
@@ -503,9 +494,9 @@ that the person concerned may make representations to the Executive within 21 da
 
 [[START OF PAGE 19]]
 
-(a) there is sufficient furniture, play and work equipment and materials and that such furniture, equipment and materials are suitable, non-toxic, in a proper state of repair and are maintained in a clean and hygienic condition, and
+(a)    there is sufficient furniture, play and work equipment and materials and that  such  furniture,  equipment  and  materials  are  suitable,  non-toxic, in a proper state of repair and are maintained in a clean and hygienic condition, and
 
-(b) there is an appropriate supply of clean bedding, towels and spare clothes for the pre-school children.
+(b)    there is an appropriate supply of clean bedding, towels and spare clothes for the pre-school children.
 
 ##### FOOD AND DRINK
 
@@ -541,7 +532,7 @@ that the person concerned may make representations to the Executive within 21 da
 
 (c) any garden or external play area is so fenced and doors and gates are so secured as to prevent a pre-school child gaining unsupervised access to a roadway or other source of danger and to prevent unauthorised access to the garden or external play area,
 
-(d) ponds, pits and other hazards in any garden or external play area are so fenced as to ensure the safety of a pre-school child attending the service,
+(d) ponds, pits and other hazards in any garden or external play area are so  fenced  as  to  ensure  the  safety  of  a  pre-school  child  attending  the service,
 
 (e) steps are taken to prevent the spread of infection, and
 
@@ -551,7 +542,7 @@ that the person concerned may make representations to the Executive within 21 da
 
 28. A person carrying on a pre-school service shall ensure that -
 
-(a) adequate and suitable facilities for a pre-school child to rest during the day and night (if an overnight pre-school service is provided) are provided, and
+(a)  adequate  and  suitable  facilities  for  a  pre-school  child  to  rest  during the day and night (if an overnight pre-school service is provided) are provided, and
 
 (b) adequate and suitable facilities for a pre-school child to play indoors and outdoors during the day are provided, having regard to the number of pre-school children attending the service, their age and the amount of time they spend in the premises.
 
@@ -612,29 +603,42 @@ I …………….......……..………. of………………………........
 aged over eighteen years, hereby give notice to the Health Service Executive that it is my intention to carry on a pre-school service situated at: -
 
 Address of pre-school _____________________________________________
+
 _______________________________________________________________
+
 _______________________________________________________________
+
 _______________________________________________________________
-Telephone No. ___________________________________________________
+
+Telephone No.___________________________________________________
+
 Mobile No. _____________________________________________________
+
 Fax No. ________________________________________________________
+
 E-mail address___________________________________________________
 
-Type of facility – Please tick as appropriate
+Type of facility - Please tick as appropriate
 
 Childminding service _____________________________________________
-Overnight pre-school service _______________________________________
+
+Overnight pre-school service  _______________________________________
+
 Part-time day care service _________________________________________
+
 Pre-school service in a drop-in centre ________________________________
+
 Pre-school service in a temporary drop-in centre ________________________
+
 Sessional pre-school service ________________________________________
 
 Have you previously contacted the Health Service Executive to avail of their pre-school advisory service? ___________________________________________
+
 If yes, date of contact _____________________________________________
 
-If the pre-school service is carried on by an individual, please complete Section 1.
+If  the  pre-school  service  is  carried  on  by  an  individual,  please  complete Section 1.
 
-If the pre-school service is carried on by an organisation such as a voluntary group, company or other body, please complete Section 2.
+If  the  pre-school  service  is  carried  on  by  an  organisation  such  as  a  voluntary group, company or other body, please complete Section 2.
 
 21
 
@@ -650,27 +654,51 @@ If the pre-school service is carried on by an organisation such as a voluntary g
 
 (a) Please state full name, previous name(s), date of birth, home address, home telephone number, mobile number, fax number and email address of the individual carrying on the pre-school service.
 
-Name ________________________________________________
+Name
+
+________________________________________________
+
 Previous Name(s) _________________________________________
+
 Date of Birth _____________________________________________
+
 Home Address____________________________________________
+
 Home Telephone No. ______________________________________
+
 Mobile No. ______________________________________________
-Fax No. ________________________________________________
+
+Fax No.
+
+________________________________________________
+
 E-mail address. ___________________________________________
 
-(b) Please state the full name, previous name(s), home address, home telephone number, mobile number, fax number and email address of the adult in charge of operating the pre-school service.
+(b) Please  state  the  full  name,  previous  name(s),  home  address,  home telephone number, mobile number, fax number and email address of the adult in charge of operating the pre-school service.
 
-Name _________________________________________________
+Name      _________________________________________________
+
 Previous Name(s) __________________________________________
-Date of Birth _____________________________________________
-Home Address ____________________________________________
+
+Date of Birth
+
+__ __________________________________________
+
+Home Address  ____________________________________________
+
 ________________________________________________________
+
 ________________________________________________________
+
 Home Telephone No. *______________________________________
-Mobile No. * _____________________________________________
-Fax No. * ________________________________________________
-E-mail address * _________________________________________
+
+Mobile No. *
+
+_____________________________________________
+
+Fax No. *  ________________________________________________
+
+E-mail address *  _________________________________________
 
 * only if different from the above.
 
@@ -680,21 +708,28 @@ E-mail address * _________________________________________
 
 [[START OF PAGE 24]]
 
-(c) Information to be given about the individual carrying on the pre-school service.
+(c)     Information to be given about the individual carrying on the pre-school service.
 
 (i) Relevant qualification(s) (title and date of qualification(s), name of organisation granting qualification(s)/awarding body(ies)).
 
 Qualification(s)________________________________________
+
 Name of Organisation(s) _______________________________
+
 /awarding body(ies) ___________________________________
+
 Address of Registered _________________________________
+
 Office of Organisation(s) _______________________________
+
 or awarding body(ies) __________________________________
 
-(ii) Relevant experience including previous voluntary or paid work with children.
+(ii)    Relevant  experience  including  previous  voluntary  or  paid  work with children.
 
 Insert details here______________________________________
-(use additional _______________________________________
+
+(use additional  _______________________________________
+
 sheet if necessary) _____________________________________
 
 (d) Information to be given about the adult in charge of operating the pre-school service.
@@ -702,17 +737,24 @@ sheet if necessary) _____________________________________
 (i) Relevant qualification(s) (title and date of qualification(s), name of organisation granting qualification(s)/awarding body(ies)).
 
 Qualification(s) _______________________________________
-Name of Organisation(s) _______________________________
-/awarding body(ies) ___________________________________
-Address of Registered _________________________________
-Office of Organisation(s) _______________________________
+
+Name of Organisation(s)  _______________________________
+
+/awarding body(ies)  ___________________________________
+
+Address of Registered  _________________________________
+
+Office of Organisation(s)  _______________________________
+
 or awarding body(ies) ___________________________________
 
-(ii) Relevant experience including previous voluntary or paid work with children.
+(ii)    Relevant  experience  including  previous  voluntary  or  paid  work with children.
 
-Insert details here ______________________________________
-(use additional _______________________________________
-sheet if necessary) _____________________________________
+Insert details here  ______________________________________
+
+(use additional    _______________________________________
+
+sheet if necessary)  _____________________________________
 
 23
 
@@ -724,33 +766,73 @@ sheet if necessary) _____________________________________
 
 2. If the pre-school service is carried on by an organisation such as a voluntary group, company or other body:
 
-(a) Please state the name and address, telephone number, mobile number, fax number and email address of the organisation and the full name of the person acting on behalf of the organisation his\her position and home address, home telephone number, mobile number, fax number and email address.
+(a) Please state the name and address, telephone number, mobile number, fax  number and email address of the organisation and the full name of the person acting on behalf of the organisation his\her position and home address,  home  telephone  number,  mobile  number,  fax  number and email address.
 
-Name of Organisation _____________________________________
-Address of Organisation ___________________________________
-Telephone No. _________________________________________
-Mobile No. _________________________________________
-Fax No. _________________________________________
-E-mail address _________________________________________
+Name of Organisation  _____________________________________
+
+Address of Organisation  ___________________________________
+
+Telephone No.
+
+_________________________________________
+
+Mobile No.
+
+_________________________________________
+
+Fax No.
+
+_________________________________________
+
+E-mail address
+
+_________________________________________
+
 Name of person acting
+
 on behalf of Organisation ___________________________________
+
 Position in Organisation ____________________________________
+
 Address (if different _______________________________________
-from above) _________________________________________
+
+from above)
+
 _________________________________________
+
 _________________________________________
+
+_________________________________________
+
 Home Telephone No. ______________________________________
-Mobile No.* _________________________________________
-Fax No.* _________________________________________
-E-mail address* _________________________________________
+
+Mobile No.*
+
+_________________________________________
+
+Fax No.*
+
+_________________________________________
+
+E-mail address*
+
+_________________________________________
 
 * only if different from above
 
 (b) Please state the full name, previous name(s), home address and home telephone number, mobile number, fax number and email address of the adult in charge of operating the pre-school service.
 
-Name _________________________________________________
-Previous Name(s) ________________________________________
-Date of Birth _________________________________________
+Name
+
+_________________________________________________
+
+Previous Name(s)
+
+________________________________________
+
+Date of Birth
+
+_________________________________________
 
 24
 
@@ -759,18 +841,27 @@ Date of Birth _________________________________________
 [[START OF PAGE 26]]
 
 Home Address _________________________________________
+
 Home Address _________________________________________
+
 Home Telephone No ______________________________________
+
 Mobile No. _________________________________________
+
 Fax No. _________________________________________
+
 E-mail address _________________________________________
 
 (c) In the case of a registered company, the name and address of the registered office, the name of the Company Secretary and the company registration number must also be given
 
 Name of Company _________________________________________
+
 Address _________________________________________
+
 of Registered Office _______________________________________
+
 Company Secretary Name __________________________________
+
 Company Registration No. (if applicable) ______________________
 
 (d) Information to be given about the adult in charge of operating the pre-school service.
@@ -778,17 +869,25 @@ Company Registration No. (if applicable) ______________________
 (i) Relevant qualification(s) (title and date of qualification(s), name of organisation granting qualification(s)/awarding body(ies)).
 
 Qualification(s) _______________________________________
+
 Name of Organisation/ _________________________________
+
 awarding body(ies)_____________________________________
+
 Address of Registered _________________________________
+
 Office of Organisation _________________________________
+
 or awarding body(ies) __________________________________
 
 (ii) Relevant experience including previous voluntary or paid work with children.
 
 Insert details here______________________________________
+
 (use additional ________________________________________
+
 sheet if necessary) _____________________________________
+
 _____________________________________________________
 
 25
@@ -823,15 +922,16 @@ Age range of children to be catered for ________________________
 
 (d) Hours of opening               from            to
 
-(i) ______ _______
+(i) ______                         _______
 
-(ii) ______ _______
+(ii) ______                        _______
 
-(iii) ______ _______
+(iii) ______                       _______
 
 (e) No. of weeks open ________________________________________
 
 (f) No. of weeks closed _______________________________________
+
 (if appropriate)
 
 26
@@ -840,17 +940,20 @@ Age range of children to be catered for ________________________
 
 [[START OF PAGE 28]]
 
-(g) Dates closed                         from            to
+(g) Dates closed                         from           to
+
 (if appropriate)
 
-(i) ______ _______
+(i) ______                               _______
 
-(ii) ______ _______
+(ii) ______                              _______
 
-(iii) ______ _______
+(iii) ______                             _______
 
 (h) Duration of service and nature of event _________________________
+
 (in the case of a pre-school service in a _________________________
+
 temporary drop-in centre) ___________________________________
 
 ##### 4. Declaration
@@ -866,7 +969,9 @@ GIVEN under my hand
 6 December 2006
 
 Brian Lenihan
+
 Minister of State at the
+
 Department of Health and Children
 
 27
@@ -902,7 +1007,9 @@ GIVEN under my hand
 18 December 2006
 
 Brian Lenihan
+
 Minister of State at the
+
 Department of Health and Children
 
 #### EXPLANATORY NOTE
@@ -919,9 +1026,7 @@ This Regulation amends the Child Care (Pre-School Services) (No 2) Regulations 2
 
 # PART II
 
-## EXPLANATORY GUIDE TO REQUIREMENTS
-AND PROCEDURES FOR NOTIFICATION AND
-INSPECTION
+## EXPLANATORY GUIDE TO REQUIREMENTS AND PROCEDURES FOR NOTIFICATION AND INSPECTION
 
 29
 
@@ -934,40 +1039,67 @@ INSPECTION
 PAGE
 
 PART I
+
 Introduction 31
+
 Categorisation of pre-school services 33
 
 PART II
+
 Regulation 5 - Health, welfare and development of the child 39
+
 Regulation 6 - First aid 40
+
 Regulation 7 - Medical assistance 41
+
 Regulation 8 - Management and staffing 41
+
 Regulation 9 - Behaviour management 49
 
 PART III
-Regulation 10 - Notice to be given by person proposing to carry on pre-school service 51
-Regulation 12 - Number of pre-school children who may be catered for 52
+
+Regulation 10 - Notice to be given by person proposing to
+carry on pre-school service 51
+
+Regulation 12 - Number of pre-school children who may be
+catered for 52
 
 PART IV
+
 Regulation 13 - Register of pre-school children 54
+
 Regulation 14 - Records 55
+
 Regulation 16 - Fire safety measures 57
+
 Regulation 17 - Copy of Act and Regulations 58
 
 PART V
+
 Regulation 18 - Premises and facilities 59
+
 Regulation 19 - Heating 62
+
 Regulation 20 - Ventilation 62
+
 Regulation 21 - Lighting 63
+
 Regulation 22 - Sanitary accommodation 63
+
 Regulation 24 - Waste storage and disposal 64
+
 Regulation 25 - Equipment and materials 64
+
 Regulation 26 - Food and drink 66
+
 Regulation 27 - Safety measures 68
+
 Regulation 28 - Facilities for rest and play 69
 
 PART VI
+
 Regulation 30 - Insurance 71
+
 Regulation 32 - Inspection 71
 
 30
@@ -1014,15 +1146,15 @@ In this context, a relative in relation to a child means a brother, sister, uncl
 
 1.3 The purpose of this Guide is to offer guidance in relation to the Child Care (Pre-School Services) Regulations (No 2) 2006. The Guide will assist in interpreting the Regulations and also offer guidance on good practice in relation to areas covered by the Regulations. It is written for anyone affected by its provisions, for persons charged with responsibility for implementing the legislation, for persons who are carrying on or proposing to carry on a pre-school service and for families of children attending such services. The Regulations are made under Part VII of the Child Care Act 1991 and prescribe the measures which must be in place to meet the requirements of the Act relating to the:-
 
-% promotion of the health, welfare and development of children
+• promotion of the health, welfare and development of children
 
-% notifications to be given to the Health Service Executive
+• notifications to be given to the Health Service Executive
 
-% keeping of records
+• keeping of records
 
-% standard of premises and facilities
+• standard of premises and facilities
 
-% general administration
+• general administration
 
 The Child Care (Pre-School Services) Regulations 1996 (S.I. No. 398 of 1996) and the Child Care (Pre-School Services) (Amendment) Regulations 1997 (S.I. No.268 of 1997) are revoked by the Child Care (Pre-School Services) (No 2) Regulations 2006.
 
@@ -1042,25 +1174,25 @@ Additional information is given in Appendix A on documents referenced in this Ex
 
 Section 50 of the Act states that Regulations may-
 
-(a) make different provision for different classes of pre-school services;
+(a)    make different provision for different classes of pre-school services;
 
-(b) prescribe different requirements for different classes of pre-school services;
+(b)    prescribe  different  requirements  for  different  classes  of  pre-school services;
 
-(c) provide for exemptions from any provisions of the Regulations for a specified class or classes of pre-school services.
+(c)    provide  for  exemptions  from  any  provisions  of  the  Regulations  for  a specified class or classes of pre-school services.
 
 The Regulations have not been broken down into specific requirements for different classes of pre-school services. The following classes of pre-school services are defined for the purposes of the Regulations-
 
 ##### (i) Sessional Services
 
-“Sessional pre-school service” means a pre-school service offering a planned programme to pre-school children for a total of not more than 3.5 hours per session.
+'Sessional pre-school service' means a pre-school service offering a planned programme to pre-school children for a total of not more than 3.5 hours per session.
 
 Services covered by the above definition may include pre-schools, playgroups, crèches, montessori pre-schools, naíonraí, notifiable childminders or similar services which generally cater for pre-school children in the 0-6 year age bracket.
 
 ##### (ii) Part-time day care
 
-“Part-time day care service” means a pre-school service offering a structured day care service for pre-school children for a total of more than 3.5 hours and less than 5 hours per day and which may include a sessional pre-school service for pre-school children not attending the part-time day care service.
+'Part-time day care service' means a pre-school service offering a structured day care service for pre-school children for a total of more than 3.5 hours and less than 5 hours per day and which may include a sessional pre-school service for pre-school children not attending the part-time day care service.
 
-The service must provide the same physical environment, including rest, play and sanitary facilities, as for full day care.
+The  service  must  provide  the  same  physical  environment,  including  rest, play and sanitary facilities, as for full day care.
 
 Services covered by the above definition may include pre-schools, playgroups, crèches, montessori pre-schools, naíonraí, notifiable childminders or similar services which generally cater for pre-school children in the 0-6 year age bracket.
 
@@ -1072,7 +1204,7 @@ Services covered by the above definition may include pre-schools, playgroups, cr
 
 ##### (iii) Full-day care
 
-“Full day care service” means a pre-school service offering a structured day care service for pre-school children for more than 5 hours per day and which may include a sessional pre-school service for pre-school children not attending the full day care service.
+'Full  day  care  service'  means  a  pre-school  service  offering  a  structured day care service for pre-school children for more than 5 hours per day and which may include a sessional pre-school service for pre-school children not attending the full day care service.
 
 Services such as those currently described as day nurseries and crèches are included in this definition.
 
@@ -1080,19 +1212,19 @@ Where a full day care service also caters for children who do not attend on a fu
 
 ##### (iv) Childminding service
 
-“Childminding service” means a pre-school service which may include an overnight service offered by a person who single-handedly takes care of pre-school children, including the childminder’s own children, in the childminder’s home for a total of more than 2 hours per day, except where the exemptions provided in Section 58 of the Child Care Act 1991 apply.
+'Childminding  service'  means  a  pre-school  service  which  may  include an  overnight  service  offered  by  a  person  who  single-handedly  takes  care of  pre-school  children,  including  the  childminder's  own  children,  in  the childminder's home for a total of more than 2 hours per day, except where the exemptions provided in Section 58 of the Child Care Act 1991 apply.
 
-“Childminder” is a person who provides a childminding service as defined in the Regulations.
+'Childminder' is a person who provides a childminding service as defined in the Regulations.
 
-This service refers to pre-school children looked after in the childminder’s home. This service is offered for the full working day or for different periods during the day.
+This service refers to pre-school children looked after in the childminder's home. This service is offered for the full working day or for different periods during the day.
 
 Childminders who are not statutorily obliged to notify should contact the City/County Childcare Committee or the Health Service Executive and avail of the voluntary notification and support system.
 
 ##### (v) Pre-school service in a drop-in centre and in a temporary drop-in centre
 
-“Pre-school service in a drop-in centre” means a pre-school service offering day care which is used exclusively on an intermittent basis.
+'Pre-school service in a drop-in centre' means a pre-school service offering day care which is used exclusively on an intermittent basis.
 
-“Pre-school service in a temporary drop-in centre” means a pre-school service offering day care exclusively on a temporary basis.
+'Pre-school  service  in  a  temporary  drop-in  centre'  means  a  pre-school service offering day care exclusively on a temporary basis.
 
 34
 
@@ -1108,7 +1240,7 @@ A person or organisation intending to set up a temporary drop-in childcare servi
 
 ##### Different requirements for the different classes of pre-school service
 
-The recommended requirements set out in the Explanatory Guide in relation to adult child ratios, space ratios and food and nutrition vary according to the class of service. Annual fees applying also vary. Otherwise, the Regulations apply across all classes unless otherwise stated in the Regulations or Explanatory Guide.
+The recommended requirements set out in the Explanatory Guide in relation to adult child ratios, space ratios and food and nutrition vary according to the class of service. Annual fees applying also vary. Otherwise, the Regulations apply  across  all  classes  unless  otherwise  stated  in  the  Regulations  or Explanatory Guide.
 
 See Regulation 8 and Explanatory Guide to Regulations 8 and 18 in relation to adult child ratios and space ratios for the various categories of pre-school service.
 
@@ -1118,7 +1250,7 @@ See Regulation 31 regarding annual fees applying to the various categories.
 
 ##### (vi) Overnight pre-school service
 
-“Overnight pre-school service” means a service in which pre-school children are taken care of for a total of more than 2 hours between the hours of 7pm and 6am except where the exemptions provided in Section 58 of the Child Care Act 1991 apply.
+'Overnight pre-school service' means a service in which pre-school children are taken care of for a total of more than 2 hours between the hours of 7pm and 6am except where the exemptions provided in Section 58 of the Child Care Act 1991 apply.
 
 35
 
@@ -1126,7 +1258,7 @@ See Regulation 31 regarding annual fees applying to the various categories.
 
 [[START OF PAGE 37]]
 
-Overnight pre-school services involves pre-school children being cared for overnight in a crèche type or in a childminding service to facilitate parents’/guardians’ working arrangements. Legal advice has confirmed that such services come within the definition of “pre-school service” set out in the Child Care Act 1991.
+Overnight pre-school services involves pre-school children being cared for overnight in a crèche type or in a childminding service to facilitate parents'/ guardians'  working  arrangements.  Legal  advice  has  confirmed  that  such services  come within the definition of 'pre-school service' set out in the Child Care Act 1991.
 
 Regulations 5-33 will apply.
 
@@ -1139,9 +1271,9 @@ Age | Adult/child ratio
 
 At least one member of staff should be awake and actively supervising and checking on pre-school children at all times.
 
-Where an overnight pre-school service is provided in a childminding service, the childminder should look after not more than 5 pre-school children including the childminder’s own pre-school children. No more than two children should be less than 15 months. If it is not practical in a childminding service with 5 pre-school children or less to have an adult awake and actively supervising the pre-school children at all times, electronic baby monitor devices should be used and occasional checks carried out. See ‘Checking of sleeping babies’ under Regulation 28.
+Where an overnight pre-school service is provided in a childminding service, the  childminder  should  look  after  not  more  than  5  pre-school  children including  the  childminder's  own  pre-school  children.  No  more  than  two children should be less than 15 months. If it is not practical in a childminding service with 5 pre-school children or less to have an adult awake and actively supervising  the  pre-school  children  at  all  times,  electronic  baby  monitor devices should be used and occasional checks carried out. See 'Checking of sleeping babies' under Regulation 28.
 
-Where a childminder is caring for 6 pre-school children including her own pre-school children at the time of the commencement of the Child Care (Pre-School Services) (No 2) Regulations 2006, the childminder will not be required to reduce the number cared for to 5 until such time as one of that group of 6 pre-school children begins to attend school or leaves the service voluntarily.
+Where a childminder is caring for 6 pre-school children including her own pre-school  children  at  the  time  of  the  commencement  of  the  Child  Care (Pre-School Services) (No 2) Regulations 2006, the childminder will not be required to reduce the number cared for to 5 until such time as one of that group of 6 pre-school children begins to attend school or leaves the service voluntarily.
 
 An overnight pre-school service should have a telephone on the premises and a second person must be available to cope with emergencies.
 
@@ -1155,11 +1287,11 @@ Particular attention should be paid to the following in line with the Regulation
 
 ###### Regulation 8
 
-% ensuring the suitability (including Garda clearance, when this service is available) and experience of staff on duty at night, taking account of children’s feelings and sensitivities about the gender of their carer
+% ensuring  the  suitability  (including  Garda  clearance,  when  this  service is  available)  and  experience  of  staff  on  duty  at  night,  taking  account  of children's feelings and sensitivities about the gender of their carer
 
 ###### Regulation 9
 
-% having a Child Protection policy based on Children First National Guidelines for the Protection and Welfare of Children in operation
+• having a Child Protection policy based on Children First National Guidelines for the Protection and Welfare of Children in operation
 
 ###### Regulation 13
 
@@ -1197,23 +1329,23 @@ Particular attention should be paid to the following in line with the Regulation
 
 ###### Regulation 28
 
-% the location of the child’s bed or cot, taking account of the gender and ages of other children and adults who are sleeping on the premises overnight
+% the location of the child's bed or cot, taking account of the gender and ages of other children and adults who are sleeping on the premises overnight
 
 % having separate sleeping accommodation for staff
 
 % the grouping of brothers and sisters
 
-% agreeing the child’s sleeping arrangements with the parents/guardians.
+% agreeing the child's sleeping arrangements with the parents/guardians.
 
-The provider should work closely with parents/guardians in relation to children’s needs before, during and after sleep. This should include being aware of the child’s
+The provider should work closely with parents/guardians in relation to children's needs  before,  during  and  after  sleep.  This  should  include  being  aware  of  the child's
 
 % preferred comforters and bed time routine
 
 % eating and drinking preferences
 
-% cultural or religious practices
+• cultural or religious practices
 
-% clothing needs for day and night time
+• clothing needs for day and night time
 
 % showering and bathing routines, and
 
@@ -1298,9 +1430,13 @@ A person with training in first aid for children should accompany the children o
 For national information on training, contact:
 
 The Irish Red Cross Society Tel. 01 676 5135
+
 The Order of Malta Ambulance Corps Tel. 01 668 4891
+
 St. John Ambulance Brigade Tel. 01 668 8077
+
 The Irish Heart Foundation (CPR only) Tel. 01 668 5001
+
 Civil Defence School Tel. 01 837 9911
 
 40
@@ -1309,7 +1445,7 @@ Civil Defence School Tel. 01 837 9911
 
 [[START OF PAGE 42]]
 
-The County Childcare Committes and National Voluntary Childcare Organisations may also provide training or information on training.
+The County Childcare Committes and National  Voluntary Childcare Organisations may also provide training or information on training.
 
 See First Aid Index Chart also (Health Promotion Unit).
 
@@ -1335,7 +1471,7 @@ See also Regulation 14(1)(l) on recording of medicine administered and Explanato
 
 #### REGULATION 8 MANAGEMENT AND STAFFING
 
-8. (1) A person carrying on a pre-school service shall ensure that—
+8. (1) A person carrying on a pre-school service shall ensure that –
 
 (a) a sufficient number of suitable and competent adults are working directly with the pre-school children in the pre-school service at all times
 
@@ -1349,7 +1485,7 @@ See also Regulation 14(1)(l) on recording of medicine administered and Explanato
 
 (c) at all times during the period when the pre-school service is being carried on, the designated person in charge or the named person referred to in paragraph 1(b) is on the premises.
 
-(2) A person carrying on a pre-school service shall ensure appropriate vetting of all staff, students and volunteers who have access to a child—
+(2) A person carrying on a pre-school service shall ensure appropriate vetting of all staff, students and volunteers who have access to a child –
 
 (a) by reference to past employer references in particular the most recent employer reference, in respect of all staff, and
 
@@ -1363,11 +1499,11 @@ See also Regulation 14(1)(l) on recording of medicine administered and Explanato
 
 ##### Suitable and competent adults
 
-A suitable and competent adult is a person (over 18 years) who has appropriate experience in caring for children under six years of age and/or who has an appropriate qualification in childcare.
+A suitable and competent adult is a person (over 18 years) who has appropriate experience  in  caring  for  children  under  six  years  of  age  and/or  who  has  an appropriate qualification in childcare.
 
 ##### Vetting
 
-The person will also have been appropriately vetted e.g. Garda* and/or police vetting will have been obtained and at least two references will have been obtained and validated. If the person has previous work experience, references must be obtained from previous employers (including the most recent employer/work placement, as appropriate), otherwise references must be from independent and reputable referees.
+The person will also have been appropriately vetted e.g. Garda* and/or police vetting  will  have  been  obtained  and  at  least  two  references  will  have  been obtained and validated. If the person has previous work experience, references must be obtained from previous employers (including the most recent employer/ work placement, as appropriate), otherwise references must be from independent and reputable referees.
 
 42
 
@@ -1377,7 +1513,7 @@ The person will also have been appropriately vetted e.g. Garda* and/or police ve
 
 *once this service is available from the Garda Central Vetting Unit.
 
-When procedures are in place to make vetting information available for staff, students and volunteers of pre-school services, Garda vetting requests should be submitted to the Garda Central Vetting Unit through agreed communication channels by authorised signatories, who are registered by the Garda Central Vetting Unit and who act on behalf of employers. Vetting requests should not be made by individual employees.
+When procedures are in place to make vetting information available for staff, students  and  volunteers  of  pre-school  services,  Garda  vetting  requests  should be submitted to the Garda Central Vetting Unit through agreed communication channels  by  authorised  signatories,  who  are  registered  by  the  Garda  Central Vetting Unit and who act on behalf of employers. Vetting requests should not be made by individual employees.
 
 See also Regulation 14(1) (b).
 
@@ -1393,7 +1529,7 @@ See Appendix A for reference to the Policies and Procedures document(s).
 
 ##### Qualifications and training
 
-It is acknowledged that many childcare staff have a qualification or are working towards achieving one. In centre-based services, it is considered that the person in charge should aim to have at least fifty percent of childcare staff with a qualification appropriate to the care and development of children. The qualified staff should rotate between age groupings.
+It is acknowledged that many childcare staff have a qualification or are working towards achieving one. In centre-based services, it is considered that the person in  charge  should  aim  to  have  at  least  fifty  percent  of  childcare  staff  with  a qualification appropriate to the care and development of children. The qualified staff should rotate between age groupings.
 
 Induction training should be provided by the service.
 
@@ -1401,7 +1537,7 @@ Induction training should be provided by the service.
 
 ###### Placing of children in age range groups
 
-The adult/child ratios (see tables (i), (ii) and (iii) which follow) for full day care, part-time day care and sessional services should be applied in a flexible manner so as to allow a child to be in a group with younger or older children, if this is appropriate to the child’s developmental stage.
+The adult/child ratios (see tables (i), (ii) and (iii) which follow) for full day care, part-time day care and sessional services should be applied in a flexible manner so as to allow a child to be in a group with younger or older children, if this is appropriate to the child's developmental stage.
 
 43
 
@@ -1409,17 +1545,17 @@ The adult/child ratios (see tables (i), (ii) and (iii) which follow) for full da
 
 [[START OF PAGE 45]]
 
-The application of adult/child ratios should, insofar as it is practical and safe to do so, facilitate sibling interaction and mixed age groupings. The total number of childcare staff available in the service should be considered, as opposed to the ‘per room’ allocation so that staff are fully utilised as per the recommended adult/child ratios, while ensuring that a sufficient number of competent adults are working directly with the pre-school children at all times.
+The application of adult/child ratios should, insofar as it is practical and safe to do so, facilitate sibling interaction and mixed age groupings. The total number of childcare staff available in the service should be considered, as opposed to the 'per room' allocation so that staff are fully utilised as per the recommended adult/child ratios, while ensuring that a sufficient number of competent adults are working directly with the pre-school children at all times.
 
 The provider should be able to demonstrate on a given day which grouping the child belongs to and the staffing levels throughout the day.
 
-Volunteers and students working in a service should not be included when calculating ratios. Exceptions may be made in sessional services that operate a rota system for parents to meet the second adult requirement or to cover an emergency staff shortage situation.
+Volunteers  and  students  working  in  a  service  should  not  be  included  when calculating  ratios.  Exceptions  may  be  made  in  sessional  services  that  operate a rota system for parents to meet the second adult requirement or to cover an emergency staff shortage situation.
 
-The maximum group size is subject to area/space required. (The space requirements are set out in the Explanatory Guide to Regulation 18(b) on Premises and Facilities and in the Explanatory Guide to Regulation 28 on sleeping facilities).
+The maximum group size is  subject  to  area/space  required.  (The  space  requirements are set out in the Explanatory Guide to Regulation 18(b) on Premises and Facilities and in the Explanatory Guide to Regulation 28 on sleeping facilities).
 
 ###### Second Adult
 
-A competent and suitable second adult must be available to cope with emergencies.
+A  competent  and  suitable  second  adult  must  be  available  to  cope  with emergencies.
 
 44
 
@@ -1461,7 +1597,7 @@ AGE RANGE | ADULT /CHILD RATIO
 
 ###### Maximum number
 
-The maximum number of children to be catered for in one room in a sessional group is 20, subject to area/space required. (The space requirements are set out in the Explanatory Guide to Regulation 18 and in the Explanatory Guide to Regulation 28 on sleeping facilities).
+The maximum number of children to be catered for in one room in a sessional group is 20, subject to area/space required. (The space requirements are set out in  the  Explanatory  Guide  to  Regulation  18  and  in  the  Explanatory  Guide  to Regulation 28 on sleeping facilities).
 
 45
 
@@ -1478,14 +1614,13 @@ Full age integration 0-6 years | 1:4 | 24
 1-4 children (no more than 2 children < 15 mths) – 1 adult
 
 Maximum group size – 24
-
 The maximum length of time that a child should be in a pre-school service in a drop-in centre is 2 hours. Children may be left in a temporary drop-in centre for longer depending on the duration of the event e.g. a conference
 
 The maximum number of children attending a pre-school service in a drop-in centre or in a temporary drop-in centre at any one time should not exceed 24, subject to space/area requirements being met.
 
 A person or organisation who operates a drop-in centre and intends to increase the number of pre-school children cared for on a temporary basis as part of a customer/client service - e.g. a conference in a hotel or a sports event - should seek advice from the Health Service Executive at an early stage in the development of the service and notify the Health Service Executive 14 days prior to the event.
 
-If there are more than 15 children attending a pre-school service in a drop in centre, one person should be designated for checking children in and out.
+If  there  are  more than 15 children attending a pre-school service in a drop in centre, one person should be designated for checking children in and out.
 
 A pre-school service in a drop-in centre should have an intercom system available to them in addition to a telephone.
 
@@ -1530,13 +1665,13 @@ AGE RANGE | ADULT /CHILD RATIO
 
 [[START OF PAGE 49]]
 
-In line with Article 2.2. of the UN Convention on the Rights of the Child –
+In line with Article 2.2. of the UN Convention on the Rights of the Child -
 
-All child care services and providers should consider the child’s welfare to be of paramount concern.
+All child care services and providers should consider the child's welfare to be of paramount concern.
 
 All children should be respected and treated with dignity at all times.
 
-Children’s rights should be acknowledged and respected at all times.
+Children's rights should be acknowledged and respected at all times.
 
 Children should never be subjected to any degrading or abusive behaviour.
 
@@ -1544,7 +1679,7 @@ Children should never be subjected to any degrading or abusive behaviour.
 
 9.(3) Positive Behaviour Management should be included in the written policy and procedures document of the service.
 
-See references to ‘A Guide to Developing Policies and Procedures in a Childcare Setting’ and ‘A Guide to Developing Policies and Procedures in an Early Years Setting’ in Appendix A.
+See references to 'A Guide to Developing Policies and Procedures in a Childcare Setting' and 'A Guide to Developing Policies and Procedures in an Early Years Setting' in Appendix A.
 
 48
 
@@ -1574,9 +1709,9 @@ A person or organisation intending to set up a temporary drop-in childcare servi
 
 The main purposes of notification include:
 
-% to safeguard the health, safety and welfare of pre-school children;
+• to safeguard the health, safety and welfare of pre-school children;
 
-% to promote the development of pre-school children;
+• to promote the development of pre-school children;
 
 49
 
@@ -1584,7 +1719,7 @@ The main purposes of notification include:
 
 [[START OF PAGE 51]]
 
-% to ensure compliance with the Regulations made under Part VII of the Act.
+• to ensure compliance with the Regulations made under Part VII of the Act.
 
 Notification also enables the Health Service Executive to discharge its duty under section 56.(3) of the Act in regard to the provision of information on pre-school services to any interested person.
 
@@ -1598,7 +1733,7 @@ Childminders who are exempt from the provisions of these Regulations because the
 
 #### Regulation 12 NUMBER OF PRE-SCHOOL CHILDREN WHO MAY BE CATERED FOR
 
-12. (1) After inspection of a premises, the Health Service Executive may make a proposal to fix the maximum number of pre-school children who may be catered for at the same time in a premises in which a pre-school service is being carried on. The Health Service Executive shall, when making such a proposal, have regard to the age range of the pre-school children, the adult/child ratios, the group size and the space per child. The Executive shall notify in writing the person carrying on the service of its proposal and of the reasons for it and the notification shall include a statement
+12. (1) After inspection of a premises, the Health Service Executive may make a proposal to fix the maximum number of pre-school children who may be catered for at the same time in a premises in which a pre-school service is being carried on. The Health Service Executive shall, when making such proposal, have regard to the age range of the pre-school children, the adult/child ratios, the group size and the space per child. The Executive shall notify in writing the person carrying on the service of its proposal and of the reasons for it and the notification shall include a statement
 
 50
 
@@ -1608,7 +1743,7 @@ Childminders who are exempt from the provisions of these Regulations because the
 
 that the person concerned may make representations to the Executive within 21 days of the receipt by that person of the notification.
 
-(2) A person carrying on a pre-school service who has been notified of a proposal under paragraph (2) of this Regulation may, within 21 days of the receipt of the notification, make representations in writing to the Chief Executive Officer of the Health Service Executive and the Chief Executive Officer or his designated officer shall -
+(2) A person carrying on a pre-school service who has been notified of a proposal under paragraph (2) of this Regulation may, within 21 days of the receipt of the notification, make representations in writing to the Chief Executive Officer of the Health Service Executive and the Chief Executive Officer or his designated officer shall—
 
 (i) before deciding the matter, take into consideration any representations duly made to it under this paragraph in relation to the proposal, and
 
@@ -1636,7 +1771,7 @@ This  Regulation  is  aimed  at  preventing  over-crowding  in  pre-school  serv
 
 #### Regulation 13 REGISTER OF PRE-SCHOOL CHILDREN
 
-13. (1) Subject to paragraph (3) of this Regulation, a person carrying on a pre-school service shall keep a register and shall enter in the register the following particulars in respect of each pre-school child attending the service -
+13. (1) Subject to paragraph (3) of this Regulation, a person carrying on a pre-school service shall keep a register and shall enter in the register the following particulars in respect of each pre-school child attending the service—
 
 (a) the name and date of birth of the pre-school child,
 
@@ -1658,7 +1793,7 @@ This  Regulation  is  aimed  at  preventing  over-crowding  in  pre-school  serv
 
 (2) The register shall be open to inspection on the premises by:-
 
-(d) a parent or guardian of the pre-school child attending the service but only in respect of information entered in the register concerning that child,
+(a) a parent or guardian of the pre-school child attending the service but only in respect of information entered in the register concerning that child,
 
 52
 
@@ -1666,9 +1801,9 @@ This  Regulation  is  aimed  at  preventing  over-crowding  in  pre-school  serv
 
 [[START OF PAGE 54]]
 
-(e) a person working in the pre-school service who is authorised in that behalf by the person carrying on the service, and
+(b) a person working in the pre-school service who is authorised in that behalf by the person carrying on the service, and
 
-(f) an authorised person.
+(c) an authorised person.
 
 (3) A person carrying on a pre-school service in a drop-in centre or in a temporary drop-in centre shall enter in the register the particulars referred to in paragraph (1) of this Regulation, except for subparagraphs (b), (c), (g), (h) and (i).
 
@@ -1682,7 +1817,7 @@ This  Regulation  is  aimed  at  preventing  over-crowding  in  pre-school  serv
 
 #### Regulation 14 RECORDS
 
-14. (1) A person carrying on a pre-school service shall keep a record in writing of the following information in relation to the service -
+14. (1) A person carrying on a pre-school service shall keep a record in writing of the following information in relation to the service—
 
 (a) the name, position, qualifications and experience of the person in charge and of every other person, including volunteers and students working in the service,
 
@@ -1720,7 +1855,7 @@ This  Regulation  is  aimed  at  preventing  over-crowding  in  pre-school  serv
 
 (3) Save for the information maintained in the record under Regulation 14(1)(b) the record referred to in paragraph (1) of this Regulation shall be open to inspection on the premises by a parent or guardian of a pre-school child attending the service but only in respect of information entered in the register concerning that child.
 
-(4) For the purposes of operating the pre school service, the record referred to in paragraph (1), other than the information maintained under Regulation 14(1)(b), shall be open to inspection on the premises by a person working in the service who is authorised in that behalf by the person carrying on the service.
+(4) For the purposes of operating the pre school service , the record referred to in paragraph (1), other than the information maintained under Regulation 14(1)(b), shall be open to inspection on the premises by a person working in the service who is authorised in that behalf by the person carrying on the service.
 
 (5) A person carrying on a pre-school service shall maintain all documents and records relating to references and Garda and police vetting obtained under Regulation 8(2).
 
@@ -1770,7 +1905,7 @@ This  Regulation  is  aimed  at  preventing  over-crowding  in  pre-school  serv
 
 [[START OF PAGE 57]]
 
-(2) The record referred to in paragraph (1) of this Regulation shall be open to inspection by -
+(2) The record referred to in paragraph (1) of this Regulation shall be open to inspection by—
 
 (a) a parent or guardian of a pre-school child attending or proposing to attend the service,
 
@@ -1794,7 +1929,7 @@ Advice on fire safety matters may be sought from the local fire authority for th
 
 #### Regulation 17 COPY OF ACT AND REGULATIONS
 
-A person carrying on a pre-school service shall keep a copy of Part VII of the Child Care Act 1991 and of these Regulations on the premises and the said copies shall be made available on demand for inspection by -
+A person carrying on a pre-school service shall keep a copy of Part VII of the Child Care Act 1991 and of these Regulations on the premises and the said copies shall be made available on demand for inspection by—
 
 56
 
@@ -1814,7 +1949,7 @@ Part VII of the Child Care Act 1991 is at Appendix D.
 
 #### Regulation 18 PREMISES AND FACILITIES
 
-A person carrying on a pre-school service shall ensure that –
+A person carrying on a pre-school service shall ensure that—
 
 (a) the premises are of sound and stable structure, are safe and secure and are suitable for the purposes of providing a pre-school service,
 
@@ -1830,7 +1965,7 @@ A person carrying on a pre-school service shall ensure that –
 
 ##### Physical environment
 
-18. (a) The design, layout and physical environment of pre-school premises play a definitive role in the provision of a quality childcare service.
+(a)    The  design,  layout  and  physical  environment  of  pre-school  premises play a definitive role in the provision of a quality childcare service.
 
 The premises should be conducive to meeting the needs of young children and be organised to ensure their safety - this includes arrangements for the drop-off and pick-up of children at the pre-school facility. The flow of  children  and  adults  in  the  building  should  be  considered,  having regard to how access is gained to toilets and outside play areas. Access issues can impact on the service in terms of disruption and may lead to health and safety incidents/accidents.
 
@@ -1844,13 +1979,13 @@ The  Building  Regulations  1997-2006  require  that  adequate  provision is  ma
 
 See Department of the Environment, Heritage and Local Government publications:
 
-% Building Regulations 1997 - S.I. No. 496 of 1997 and
+• Building Regulations 1997 – S.I. No. 496 of 1997 and
 
-% Building Regulations (Amendment) Regulations 2000 - S.I. No. 179 of 2000
+• Building Regulations (Amendment) Regulations 2000 – S.I. No. 179 of 2000
 
-% Technical Guidance Document M (2000) - (Access for People with Disabilities)
+• Technical Guidance Document M (2000) – (Access for People with Disabilities)
 
-% Childcare  Facilities  -  Guidelines  for  planning  authorities  (June 2001)
+• Childcare Facilities – Guidelines for planning authorities (June 2001)
 
 See also Explanatory Guide to Regulation 27 on Safety Measures
 
@@ -1858,7 +1993,7 @@ The environment should be warm and welcoming for children and their families and
 
 ##### Space ratios
 
-18. (b) The recommended areas with regard to “adequate” space are as follows:
+(b)    The  recommended  areas  with  regard  to  'adequate'  space  are  as follows:
 
 ###### Full day care service
 
@@ -1902,11 +2037,11 @@ The space requirements set out above relate to clear floor space per child. Clea
 
 ##### Laundry facilities
 
-18. (c) For full and part-time day care, separate laundry facilities should be provided or adequate arrangements made to launder bedding, towels, etc. Where laundry facilities are provided on site, children are not allowed access. In a childminding service, no laundry work should be carried out in the kitchen when food is being prepared or served.
+(c)    For  full  and  part-time  day  care,  separate  laundry  facilities  should  be provided or adequate arrangements made to launder bedding, towels, etc. Where laundry facilities are provided on site, children are not allowed access. In a childminding service, no laundry work should be carried out in the kitchen when food is being prepared or served.
 
 ##### Storage, meeting and break facilities
 
-18. (e) Premises should have separate, adequate, safe storage space inaccessible to children. Adequate storage should be provided for personal belongings of staff and children. Premises should have adequate space where
+(e)    Premises should have separate, adequate, safe storage space inaccessible to children.  Adequate storage should be provided for personal belongings of  staff  and  children.  Premises  should  have  adequate  space  where
 
 59
 
@@ -1922,7 +2057,7 @@ confidential information and records can be securely stored, where staff may tal
 
 #### Regulation 19 HEATING
 
-A person carrying on a pre-school shall ensure that -
+A person carrying on a pre-school shall ensure that—
 
 (a) the premises are adequately heated throughout with suitable means of heating from the time of occupancy of the premises to the end of the occupancy, having regard to the needs of the pre-school children attending the service,
 
@@ -1954,7 +2089,7 @@ A person carrying on a pre-school service shall ensure that suitable and adequat
 
 ##### Lighting - type and safety
 
-The  pre-school  service  provider  shall  ensure  suitable  and  adequate  means  of natural lighting are provided, supplemented by safe and suitable artificial lighting where necessary. Shatter-proof diffusers or a safe means of lighting protection should be used.
+The pre-school service provider shall ensure suitable and adequate means of natural lighting are provided, supplemented by safe and suitable artificial lighting where necessary. Shatter-proof diffusers or a safe means of lighting protection should be used.
 
 #### Regulation 22 SANITARY ACCOMMODATION
 
@@ -2043,7 +2178,7 @@ Waste should be stored in an area that is not accessible to children.
 
 26. (1) A person carrying on a pre-school service shall ensure that suitable, sufficient, nutritious and varied food is available for a pre-school child attending the service.
 
-(2) Where food is consumed on the premises by a pre-school child, the person carrying on the pre-school service shall ensure that -
+(2) Where food is consumed on the premises by a pre-school child, the person carrying on the pre-school service shall ensure that—
 
 (a) adequate and suitable facilities are provided for the storage, preparation, cooking and serving of food, and
 
@@ -2069,7 +2204,7 @@ Waste should be stored in an area that is not accessible to children.
 
 [[START OF PAGE 66]]
 
-(iii) Food may be cooked on the premises or children may bring packed lunches including cooked meals which may require re-heating. If the food is supplied by the person carrying on the pre-school service, it must be prepared on the premises or purchased from a supplier whose premises is registered with the Health Service Executive. All vulnerable foods must be stored under suitable refrigerated storage conditions as necessary.
+(iii ) Food may be cooked on the premises or children may bring packed lunches including cooked meals which may require re-heating. If the food is  supplied  by  the  person  carrying  on  the  pre-school  service,  it must be prepared on the premises or purchased from a supplier whose premises is registered with the Health Service Executive. All vulnerable foods must be stored under suitable refrigerated storage conditions as necessary.
 
 ##### Food and nutrition for children
 
@@ -2098,7 +2233,7 @@ Offer one meal and one snack - for example snack and lunch or breakfast and snac
 
 #### Regulation 27 SAFETY MEASURES
 
-A person carrying on a pre-school service shall take all reasonable measures to safeguard the health, safety and welfare of a pre-school child attending the service and in particular shall ensure that -
+A person carrying on a pre-school service shall take all reasonable measures to safeguard the health, safety and welfare of a pre-school child attending the service and in particular shall ensure that—
 
 (a) all heat emitting surfaces are protected by a fixed guard or are thermostatically controlled to ensure safe surface temperatures,
 
@@ -2114,15 +2249,15 @@ A person carrying on a pre-school service shall take all reasonable measures to 
 
 ##### Safety of heating appliances
 
-27. (a) All fixed heating appliances e.g. radiators and storage heaters must be protected by a guard or be thermostatically controlled. Where individual heating appliances are provided, they should be of a type which does not have an exposed flame or heating element which could provide an ignition source. These must be protected by a guard or thermostatically controlled. See Appendix G on Gas and Electrical Safety.
+(a)    All fixed heating appliances e.g. radiators and storage heaters must be protected by a guard or be thermostatically controlled. Where individual heating appliances are provided, they should be of a type which does not have an exposed flame or heating element which could provide an ignition source. These must be protected by a guard or thermostatically controlled. See Appendix G on Gas and Electrical Safety.
 
 ##### Safety of hot water
 
-27. (b) See Appendix G re Gas and Electrical Safety.
+(b) See Appendix G re Gas and Electrical Safety.
 
 ##### Preventing the spread of infection
 
-27. (e) See Appendix G re: Infectious Disease Control, Preventative Measures and Corrective Action in the event of an outbreak of infectious disease.
+(e)    See Appendix G re: Infectious Disease Control, Preventative Measures and Corrective Action in the event of an outbreak of infectious disease.
 
 See also leaflet entitled E.coli - Protecting the Children in Your Care - (Food Safety Authority of Ireland)
 
@@ -2140,13 +2275,13 @@ See also leaflet entitled E.coli - Protecting the Children in Your Care - (Food 
 
 #### Regulation 28 FACILITIES FOR REST AND PLAY
 
-A person carrying on a pre-school service shall ensure that -
+A person carrying on a pre-school service shall ensure that—
 
 (a) adequate and suitable facilities for a pre-school child to rest during the day and night (if an overnight pre-school service is provided) are provided, and
 
 (b) adequate and suitable facilities for a pre-school child to play indoors and outdoors during the day are provided, having regard to the number of pre-school children attending the service, their age and the amount of time they spend in the premises.
 
-Paragraph (a) is aimed primarily at children in full day care services and in overnight pre-school services and it may apply to children cared for in a childminding service and children in part-time day care services or in pre-school services in drop-in centres or in temporary drop-in centres. While sessional pre-school services usually cater for children aged 3 to 6 years of age, this Regulation may apply to sessional services which cater for younger children.
+Paragraph  (a)  is  aimed  primarily  at  children  in  full  day  care  services  and in  overnight  pre-school  services  and  it  may  apply  to  children  cared  for  in  a childminding service and children in part-time day care services or in pre-school services in drop-in centres or in temporary drop-in centres. While sessional preschool services usually cater for children aged 3 to 6 years of age, this Regulation may apply to sessional services which cater for younger children.
 
 ##### Sleeping Facilities:
 
@@ -2174,17 +2309,17 @@ Sleeping babies need to be regularly checked and procedures and rotas should be 
 
 Procedures and rotas should take account of the following:
 
-% Who will check the baby/babies,
+• Who will check the baby/babies,
 
-% How they will be checked i.e. the sleep position and an assesment of whether or not the child is breathing should be made - sleep monitors alone may not be adequate,
+• How they will be checked i.e. the sleep position and an assesment of whether or not the child is breathing should be made - sleep monitors alone may not be adequate,
 
-% How often they will be checked - include sleep monitoring rota,
+• How often they will be checked - include sleep monitoring rota,
 
-% How information might be recorded,
+• How information might be recorded,
 
-% How information will be shared with parents,
+• How information will be shared with parents,
 
-% The deployment of staff to include responsibilities for any sleep room area.
+• The deployment of staff to include responsibilities for any sleep room area.
 
 (See Irish Sudden Infant Death Association ISIDA 'Caring for your child' leaflet for advice on sleeping positions).
 
@@ -2296,7 +2431,7 @@ The inspection process monitors compliance with these Regulations in the pre-sch
 
 A Guide to Developing Policies and Procedures in a Childcare Setting (available from Pobal at www.pobal.ie or at www.siolta.ie
 
-A Guide to Developing Policies and Procedures in an Early Years Setting (available from Pre-school Officers, HSE MW and Limerick, Clare and North Tipperary City/County Childcare Committees)
+A Guide to Developing Policies and Procedures in an Early Years Setting (available from Pre-school Officers, HSE M/W and Limerick, Clare and North Tipperary City/County Childcare Committees)
 
 Caring for Your Child (available from the Irish Sudden Infant Death Association)
 
@@ -2314,7 +2449,7 @@ First Aid Index Chart (available from Health Promotion Dept in HSE regions/ www.
 
 Food and Nutrition Guidelines for Pre-School Services (available from www.healthpromotion.ie)
 
-Guidelines for Providers of Overnight Childcare Services (available from the HSE North West, telephone 071 9145132)
+Guidelines for Providers of Overnight Childcare Services (available from the HSE North West, telephone 0719145132)
 
 Hazard Analysis Critical Point Control (HACCP) (advice from local Health Service Executive Environmental Health Department or from www.fsai.ie)
 
@@ -2353,11 +2488,9 @@ Resource Pack to Support Best Practice in the Design of Childcare Facilities (cu
 [[START OF PAGE 76]]
 
 #### (ii) List of Legislation referenced (as of June 2006)
-Child Care Act 1991 - Part VII—see Appendix D*
+Child Care Act 1991 - Part VII – see Appendix D
 Building Control Act 1990
-
 Building Regulations 1997–2006 Parts A-M
-
 Building Regulations 1997–2006 2002 Technical Guidance Documents A-M
 
 Part A - Structure
@@ -2374,9 +2507,8 @@ Part L – Conservation of Fuel and Energy
 Part M – Access for People with Disabilities
 
 European Communities Act 1972
-European Communities (Hygiene of Foodstuffs) Regulations 2000 (S.I. No. 165 of 2000).
+European Communities (Hygiene of Foodstuffs) Regulations 2000 (S.I. No 165 of 2000).
 Fire Services Act 1981
-
 Food Hygiene Regulations 1950-89
 Food Safety Authority of Ireland Act 1998
 Health Act of 1947
@@ -2403,10 +2535,8 @@ Dublin 2
 Telephone 01 6476000
 Fax 01 6476843
 or through any bookseller.
-or from websites of relevant Government Departments which should be consulted
-for the most up to date version of legislation.
-Documents marked * are available on www.environ.ie which should be consulted
-for the most up to date version of legislation or guidance.
+or from websites of relevant Government Departments which should be consulted for the most up to date version of legislation.
+Documents marked * are available on www.environ.ie which should be consulted for the most up to date version of legislation or guidance.
 
 76
 
@@ -2522,15 +2652,14 @@ Figure 2.5:
 The Whole Child Perspective
 
 Family Relationships
-Self Care
+Self care
 Physical and Mental Wellbeing
 Emotional and Behavioural Wellbeing
-Social and Peer Relationships
+Social and peer relationships
 Social Presentation
 Intellectual Capacity
 Spiritual and Moral Wellbeing
 Identity
-
 Formal and Informal Support
 Children’s Relationships
 
@@ -2548,7 +2677,7 @@ Children affect and in turn are affected by the relationships around them
 
 The recommended contents of a first aid box for children are:
 
-Materials | First Aid Box Contents |  |
+Materials | First Aid Box Contents
 --- | --- | --- | ---
  | 1 - 5 children | 6 - 25 children | 26 - 50 children
 Hypoallergenic plasters | 12 | 20 | 20
@@ -2573,7 +2702,7 @@ Where mains tap water is not readily available for eye irrigation, sterile water
 
 [[START OF PAGE 84]]
 
-Each container should hold at least 30 ml and should not be re-used once the seal is broken. At least 90 ml should be available.
+Each container should hold at least 30ml and should not be re-used once the seal is broken. At least 90mls should be available.
 
 Eye bath/eye cup/refillable containers should not be used for eye irrigation.
 
@@ -2635,24 +2764,24 @@ Regulations as to pre-school services.
 
 Giving of notice to Health Service Executive.
 
-###### 51.—
+###### 51.
 (1) A person who proposes to carry on a pre-school service shall give notice to the Health Service Executive in the prescribed manner.
 
 (2) A person who, before the amendment of this section by the Health Act 2004, gave notice to a health board in the prescribed manner shall be deemed for the purpose of this Part to have given notice to the Health Service Executive.
 
 Duty of person carrying on pre-school service.
 
-###### 52.—
+###### 52.
 It shall be the duty of every person carrying on a pre-school service to take all reasonable measures to safeguard the health, safety and welfare of pre-school children attending the service and to comply with regulations made by the Minister under this Part.
 
 Supervision of pre-school services
 
-###### 53.—
+###### 53.
 The Health Service Executive shall cause to be visited from time to time each pre-school service in order to ensure that the person carrying on the service is fulfilling the duties imposed on him under section 52.
 
 Authorised Persons.
 
-###### 54.—
+###### 54.
 (1) The Health Service Executive shall appoint such and so many of its employees as it thinks fit to be authorised persons for the purposes of this Part.
 
 (2) The Health Service Executive may, with the consent of the Minister for Education, appoint an officer of that Minister to be an authorised person for the purposes of this Part.
@@ -2661,7 +2790,7 @@ Authorised Persons.
 
 Inspection by authorised persons.
 
-###### 55.—
+###### 55.
 (1) Where the Health Service Executive has received notification in accordance with section 51 in respect of a pre-school service, an authorised person shall be entitled at all reasonable times to enter any premises (including a private dwelling) in which the service is being carried on.
 
 85
@@ -2672,22 +2801,22 @@ Inspection by authorised persons.
 
 (2) A justice of the District Court may, if satisfied on information on oath that there are reasonable grounds for believing that a pre-school service is being carried on in any premises (including a private dwelling) in respect of which notice has not been received by the Health Service Executive in accordance with section 51, issue a warrant authorising a person appointed by the Executive in accordance with section 54 to enter and inspect the premises.
 
-(3) An authorised person who enters any premises in accordance with subsection (1) or (2) may make such examination into the condition of the premises and the care and attention which the pre-school children are receiving as may be necessary for the purposes of this Part.
+(3) An authorised person who enters any premises in accordance with subsection (1) or (2) may make such examination into the condition of the premises and the care and attention which the preschool children are receiving as may be necessary for the purposes of this Part.
 
 (4) A warrant under subsection (2) may be issued by a justice of the District Court for the time being assigned to the district court district where the premises are situated.
 
 Provisions by the Health Service Executive of pre-school services and information.
 
-###### 56.—
+###### 56.
 (1) The Health Service Executive may, subject to any general directions given by the Minister, provide pre-school services and provide and maintain premises for that purpose.
 
 (2) The Minister may, after consultation with the Minister for Education and the Minister for the Environment, make regulations for the purpose of securing the health, safety and welfare and promoting the development of children attending pre-school services provided by the Health Service Executive.
 
-(3) The Health Service Executive shall make available to any interested person information on pre-school services in any of its functional areas, whether provided by the Executive or otherwise.
+(3) The Health Service Executive shall make available to any interested person information on preschool services in any of its functional areas, whether provided by the Executive or otherwise.
 
 Offences under Part VII.
 
-###### 57.—
+###### 57.
 (1) A person who
 
 (a) refuses to allow an authorised person to enter any premises in accordance with subsection (1) or (2) of section 55 or who obstructs or impedes an authorised person in the exercise of any of his powers under subsection (3) of that section, or
@@ -2704,11 +2833,11 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 
 (2) Where a person is convicted of an offence under this Part the court may, either in addition to or in substitution for the imposition of a fine, by order declare that the person shall be prohibited for such period as may be specified in the order from carrying on a pre-school service.
 
-(3) A person who contravenes an order made under subsection (2) shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £1,000 (€1,250) or to imprisonment for a term not exceeding 12 months or both.
+(3) A person who contravenes an order made under subsection (2) shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £1,000 (€1,250) or to imprisonment for a term not exceeding 12 months or both
 
 Exemptions From provisions of this Part.
 
-###### 58.—
+###### 58.
 For the avoidance of doubt it is hereby declared that the provisions of this Part shall not apply to
 
 (a) the care of one or more pre-school children undertaken by a relative of the child or children or the spouse of such relative,
@@ -2737,10 +2866,14 @@ Manager’s Signature ____________________________________________
 Date ___________________
 
 Comments ______________________________________________________
+
 ________________________________________________________________
+
 ________________________________________________________________
+
 ________________________________________________________________
-________________________________________________________________
+
+____________________________________________________________ ____
 
 88
 
@@ -2879,7 +3012,6 @@ See Explanatory Guide to Regulation 6 on First Aid and First Aid Box
 ##### Smoking
 
 Smoking is not permitted in a pre-school facility.
-
 See Section 47 Public Health (Tobacco) Acts 2002 and 2004.
 
 93
@@ -2902,15 +3034,15 @@ See also Health Service Executive South East – Infection and Schools – A man
 
 Preventative measures should be complied with to minimise outbreaks of infectious diseases at a pre-school facility. These measures, which are not exhaustive, include:
 
-- The pre-school premises should be maintained in a clean and hygienic condition. A cleaning programme should be implemented and recorded. See Appendices E and F. See also Explanatory Guide to Regulation 25 at (v) and (vi) on Equipment and Materials and Explanatory Guide to Regulation 23 at (v) and (vi).
+• The pre-school premises should be maintained in a clean and hygienic condition. A cleaning programme should be implemented and recorded. See Appendices E and F. See also Explanatory Guide to Regulation 25 at (v) and (vi) on Equipment and Materials and Explanatory Guide to Regulation 23 at (v) and (vi).
 
-- An adequate number of potties for the number of children being toilet trained should be provided. A rigorous programme of cleaning and disinfecting between uses be in place. Ideally, potties should be individual for each child.
+• An adequate number of potties for the number of children being toilet trained should be provided. A rigorous programme of cleaning and disinfecting between uses be in place. Ideally, potties should be individual for each child.
 
-- Staff should be vigilant in ensuring hand washing by children especially after toileting.
+• Staff should be vigilant in ensuring hand washing by children especially after toileting.
 
-- The highest standards of hygiene must be adhered to in the kitchen and other food rooms.
+• The highest standards of hygiene must be adhered to in the kitchen and other food rooms.
 
-- See also leaflet on E.coli - Protecting the Children in Your Care (Food Safety Authority of Ireland)
+• See also leaflet on E.coli - Protecting the Children in Your Care (Food Safety Authority of Ireland)
 
 94
 
