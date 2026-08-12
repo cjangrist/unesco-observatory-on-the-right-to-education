@@ -40,8 +40,6 @@
 
 [[START OF PAGE 6]]
 
-The Child Care and Protection Act of Bhutan 2011
-
 ## TABLE OF CONTENTS
 
 Title Page
@@ -64,6 +62,8 @@ Chapter 15: Post-Disposition 61
 Chapter 16: Miscellaneous 63
 Chapter 17: Amendment, Authoritative Text & Definition 65
 
+The Child Care and Protection Act of Bhutan 2011
+
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
@@ -73,7 +73,7 @@ Chapter 17: Amendment, Authoritative Text & Definition 65
 དོན་ཚན། ཤོག་གྲངས།
 ངོ་སྤྲོད། ༡
 ལེའུ་༡ པ། སྔོན་བརྗོད། ༢
-ལེའུ་༢ པ། གཞི་རྩ་དང་དམིགས་དོན། ༢
+ལེའུ་༢པ། གཞི་རྩ་དང་དམིགས་དོན། ༢
 ལེའུ་༣ པ། ཨ་ལོའི་གནོད་འགེལ་སྔོན་འགོག། ༨
 ལེའུ་༤ པ། གཙུག་སྡེ་དང་ཚད་ལྡན་དབང་འཛིན། ༡༡
 ལེའུ་༥ པ། དཀའ་ངལ་གྱི་གནས་སྟངས་ཐོག་ལུ་ཡོད་པའི་ཨ་ལོ། ༡༨
@@ -96,21 +96,21 @@ Chapter 17: Amendment, Authoritative Text & Definition 65
 
 [[START OF PAGE 8]]
 
-The Child Care and Protection Act of Bhutan 2011
-
-1
-
 ## Preamble
 
 WHEREAS, in keeping with the State Policy of promoting full development of the human personality;
 
-WHEREAS, it is expedient to make appropriate measures to ensure that children are protected against all forms of discrimination and exploitation including trafficking, prostitution, abuse, violence, degrading treatment and economic exploitation;
+WHEREAS, it is  expedient  to  make  appropriate  measures  to  ensure that  children  are  protected  against  all  forms  of  discrimination and exploitation including trafficking, prostitution, abuse, violence, degrading treatment and economic exploitation;
 
 WHEREAS, it is expedient to promote those conditions that are conducive to cooperation in community life and the integrity of the extended family structure;
 
 In order to consolidate and provide care, protection, guidance, counseling, treatment, development, rehabilitation, adjudication and disposition of matters relating to children in conflict with law in the most favorable manner and in the best interest of the child;
 
 Parliament of the Kingdom of Bhutan do hereby enact the Child Care and Protection Act of Bhutan 2011 on the 29th Day of the 3rd Month of Iron Female Rabbit Year of the Bhutanese Calendar corresponding to the 31st Day of May, 2011 at its 7th Session of the First Parliament as follows:
+
+The Child Care and Protection Act of Bhutan 2011
+
+1
 
 [[END OF PAGE 8]]
 
@@ -136,10 +136,6 @@ Parliament of the Kingdom of Bhutan do hereby enact the Child Care and Protectio
 
 [[START OF PAGE 10]]
 
-The Child Care and Protection Act of Bhutan 2011
-
-2
-
 ## Chapter 1 Preliminary
 
 ### Short title, Commencement and Extent
@@ -148,7 +144,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 (a) Be called THE CHILD CARE AND PROTECTION ACT OF BHUTAN 2011;
 
-(b) Come into force on the 4th Day of 5th Month of Iron Female Rabbit Year of the Bhutanese Calendar,corresponding to the 5th Day of July 2011; and
+(b) Come into force on the 4th Day of 5th Month of Iron Female Rabbit Year of the Bhutanese Calendar, corresponding to the 5th Day of July 2011; and
 
 (c) Extend to the whole of Bhutan.
 
@@ -161,6 +157,10 @@ The Child Care and Protection Act of Bhutan 2011
 ### Principles
 
 - 3. In actions concerning children under this Act whether undertaken by government, non-government or private social welfare institutions, courts of law, administrative authorities, family members or individuals, the best interest of the child shall be the primary consideration.
+
+The Child Care and Protection Act of Bhutan 2011
+
+2
 
 [[END OF PAGE 10]]
 
@@ -196,10 +196,6 @@ The Child Care and Protection Act of Bhutan 2011
 
 [[START OF PAGE 12]]
 
-The Child Care and Protection Act of Bhutan 2011
-
-3
-
 - 4. A child shall be treated fairly and equally with respect and dignity and shall not be discriminated against on the grounds of race, sex, language, religion, political or other status.
 
 - 5. A child shall not be subjected to arbitrary arrest, detention, imprisonment or deprivation of liberty. Any arrest, detention or imprisonment of a child shall be used only as a measure of last resort and for the shortest appropriate period of time.
@@ -211,6 +207,10 @@ The Child Care and Protection Act of Bhutan 2011
 - 8. A child in conflict with the law shall be provided with the opportunity to be heard in any judicial and administrative proceeding either directly or through a representative or an appropriate body in accordance with the Civil and Criminal Procedure Code.
 
 - 9. A child under confinement shall be provided with conducive physical environment and accommodation which are in keeping with rehabilitative aims of residential placement and due regard must be given to the needs of the child for privacy, opportunities for association with
+
+The Child Care and Protection Act of Bhutan 2011
+
+3
 
 [[END OF PAGE 12]]
 
@@ -236,10 +236,6 @@ The Child Care and Protection Act of Bhutan 2011
 
 [[START OF PAGE 14]]
 
-The Child Care and Protection Act of Bhutan 2011
-
-4
-
 family, relatives and friends, participation in cultural, sports, physical exercise, and other leisure activities.
 
 - 10. If a child commits an offence, the child shall be treated in a manner that would divert the child from the criminal justice system unless the nature of the offence and the child’s criminal history indicates that a proceeding for the offence should be initiated.
@@ -263,6 +259,10 @@ family, relatives and friends, participation in cultural, sports, physical exerc
 (c) Be consulted about, and allowed to participate in making decisions affecting the life of a child, taking the child’s capacity to understand into consideration;
 
 (d) Be given privacy that is appropriate in the circumstances including privacy in relation to the
+
+The Child Care and Protection Act of Bhutan 2011
+
+4
 
 [[END OF PAGE 14]]
 
@@ -300,10 +300,6 @@ family, relatives and friends, participation in cultural, sports, physical exerc
 
 [[START OF PAGE 16]]
 
-The Child Care and Protection Act of Bhutan 2011
-
-5
-
 child’s personal information;
 
 (e) Have access to dental, therapeutic and other medical services necessary to meet the child’s needs;
@@ -321,6 +317,10 @@ child’s personal information;
 - 15. The objectives of this Act are as follows:
 
 (a) To create a uniform child justice system and legal framework with adequate provisions for dealing appropriately with all aspects of children in the context of the changing economic, social and cultural conditions prevailing in the country;
+
+The Child Care and Protection Act of Bhutan 2011
+
+5
 
 [[END OF PAGE 16]]
 
@@ -352,27 +352,27 @@ child’s personal information;
 
 [[START OF PAGE 18]]
 
-The Child Care and Protection Act of Bhutan 2011
+(b) To set up a system of administration of child justice that is in the best interest of the child and to provide a  comprehensive  child  justice  system  with  special attention to prevention and treatment of children in conflict with the law;
 
-6
+(c) To  take  all  necessary  measures  to  ensure  that  all children in conflict with the law are treated equally and fairly;
 
-(b) To set up a system of administration of child justice that is in the best interest of the child and to provide a comprehensive child justice system with special attention to prevention and treatment of children in conflict with the law;
-
-(c) To take all necessary measures to ensure that all children in conflict with the law are treated equally and fairly;
-
-(d) To protect their basic rights provided under the Constitution and other laws in force;
+(d) To  protect  their  basic  rights  provided  under  the Constitution and other laws in force;
 
 (e) To provide for diversion and alternative sentencing in lieu of arrest, prosecution, conviction and imprisonment where it is appropriate;
 
 (f) To prevent stigmatization, victimization and criminalization of children and facilitate social reintegration;
 
-(g) To provide for officers and establishment of facilities required for the care, protection, assistance, education, and treatment of children in difficult circumstances;
+(g) To provide for officers and establishment of  facilities required for the care, protection, assistance, education,  and  treatment    of  children  in  difficult circumstances;
 
-(h) To provide for establishment of institution and facilities required for the care, treatment, education, training and rehabilitation of children in conflict with the law;
+(h) To  provide  for  establishment  of  institution  and facilities required for the care, treatment, education, training  and  rehabilitation  of  children  in  conflict with the law;
 
 (i) To establish norms and standards for the administration of child justice in terms of investigation, prosecution, adjudication, disposition, care, treatment and rehabilitation; and
 
 (j) To constitute special offences in relation to a child.
+
+The Child Care and Protection Act of Bhutan 2011
+
+6
 
 [[END OF PAGE 18]]
 
@@ -404,10 +404,6 @@ The Child Care and Protection Act of Bhutan 2011
 
 [[START OF PAGE 20]]
 
-The Child Care and Protection Act of Bhutan 2011
-
-7
-
 ### Age of a child
 
 - 16. A person below the age of 18 years shall be treated as a child evidenced by an official record maintained by the Government, birth certificate or any other document proving the age of the child.
@@ -423,6 +419,10 @@ The Child Care and Protection Act of Bhutan 2011
 ### Decriminalization
 
 - 20. All institutions or organizations whether government or private shall protect the dignity of the child observing the principle of decriminalization, diversion and restorative justice.
+
+The Child Care and Protection Act of Bhutan 2011
+
+7
 
 [[END OF PAGE 20]]
 
@@ -452,10 +452,6 @@ The Child Care and Protection Act of Bhutan 2011
 
 [[START OF PAGE 22]]
 
-The Child Care and Protection Act of Bhutan 2011
-
-8
-
 ### Protection of child privacy
 
 - 21. A child’s right to privacy shall be respected at all stages of legal proceedings including the investigation by any agency.
@@ -476,6 +472,10 @@ The Child Care and Protection Act of Bhutan 2011
 
 - 25. The Central and Local Government through concerned agencies or institutions shall provide community based services responding to special needs, problems, interests and concerns of children including appropriate counseling and guidance to the children, guardians and families.
 
+The Child Care and Protection Act of Bhutan 2011
+
+8
+
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
@@ -490,7 +490,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### བཀག་གནོན་ ཡང་ན་ དྲག་ཤུགས་སྤྱོད་པ།
 
-- 23 བཀག་གནོན་ ཡང་ན་ དྲག་ཤུགས་འདི་ ཨ་ལོ་དེ་གིས་ རང་ཉིད་ ཡང་ན་གཞན་ལུ་གནོད་ འཚེ་བཀལ་སྲིད་པའི་འདྲོག་འཇིགས་ཀྱི་ཉེན་ཁ་འཐོན་པའི་སྐབས་ལུ་དང་ བཀག་འཛིན་གྱི་ ཐབས་ལམ་གཞན་མེད་པའི་སྐབས་ལུ་རྐྱངམ་ཅིག་ ལག་ལེན་འཐབ་དགོ། བཀག་གནོན་དང་ དྲག་ཤུགས་འབད་ནི་འདི་ ཉེས་ཁྲིམས་བཀལ་ཐབས་ཅིག་སྦེ་ ནམ་ཡང་ ལག་ལེན་འཐབ་ནི་ མེད།
+- 23 བཀག་གནོན་ ཡང་ན་ དྲག་ཤུགས་འདི་ ཨ་ལོ་དེ་གིས་ རང་ཉིད་ ཡང་ན་གཞན་ལུ་གནོད་ འཚེ་བཀལ་སྲིད་པའི་འདྲོག་འཇིགས་ཀྱི་ཉེན་ཁ་འཐོན་པའི་སྐབས་ལུ་དང་ བཀག་འཛིན་གྱི་ ཐབས་ལམ་གཞན་མེད་པའི་སྐབས་ལུ་རྐྱངམ་ཅིག་ ལག་ལེན་འཐབ་དགོ། བཀག་གནོན་དང་ དྲག་ཤུགསའབད་ནི་འདི་ ཉེས་ཁྲིམས་བཀལ་ཐབས་ཅིག་སྦེ་ ནམ་ཡང་ ལག་ལེན་འཐབ་ནི་ མེད།
 
 ## ལེའུ་༣ པ། ཨ་ལོའི་གནོད་འགེལ་སྔོན་འགོག།
 
@@ -507,10 +507,6 @@ The Child Care and Protection Act of Bhutan 2011
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
-
-The Child Care and Protection Act of Bhutan 2011
-
-9
 
 ### Role of education institution
 
@@ -533,6 +529,10 @@ The Child Care and Protection Act of Bhutan 2011
 - 28. The media shall have the duty to maintain professional standards including privacy in reporting and covering cases of children in difficult circumstances and children in conflict with the law. In all publicity concerning children, the best interest of the children shall be taken into consideration.
 
 - 29. Unless the Court authorizes, any adjudication proceeding shall not be published in any newspaper, magazine, or
+
+The Child Care and Protection Act of Bhutan 2011
+
+9
 
 [[END OF PAGE 24]]
 
@@ -570,7 +570,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 transmitted  through  audio-visual  electronic  medium  in any form which may disclose the identity of the child.
 
-- 30. To  protect  the  best  interests  of  the  child,  no  report  in any  newspaper,  magazine  or  news  letter  of  any  inquiry regarding a child under this Act shall disclose the name, address or school or any other particulars which may lead to the identification of the child nor shall any picture of any such child be published.
+- 30. To protect the best interests of the child, no report in any newspaper, magazine or news letter of any inquiry regarding a child under this Act shall disclose the name, address or school or any other particulars which may lead to the identification of the child nor shall any picture of any such child be published.
 
 ### Participation of community
 
@@ -578,9 +578,9 @@ transmitted  through  audio-visual  electronic  medium  in any form which may di
 
 - 32. The services and supportive measures may be provided by the community to deal with the difficulties experienced by children.
 
-- 33. The  community  shall  endeavor  with  assistance  from the  government,  to  establish  special  facilities  to  provide adequate shelter for children who have no home to live in or not able to live at home.
+- 33. The community shall endeavor with assistance from the government, to establish special facilities to provide adequate shelter for children who have no home to live in or not able to live at home.
 
-- 34. Volunteers, voluntary or civil society organizations, social institutions and other community resources may be called upon  to  contribute  effectively  to  the  rehabilitation  of children in difficult circumstances and in conflict with law.
+- 34. Volunteers, voluntary or civil society organizations, social institutions and other community resources may be called upon to contribute effectively to the rehabilitation of children in difficult circumstances and in conflict with law.
 
 The Child Care and Protection Act of Bhutan 2011
 
@@ -614,19 +614,19 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### Participation of family
 
-- 35. The  government  shall  endeavor  to  take  measures  and develop programs to provide families with the opportunity to learn about parental roles and obligations with regard to  child  development and child care, promoting positive parent-child  relationships,  sensitizing  parents  about  the problems of children and encouraging their involvement and promote community based activities.
+- 35. The government shall endeavor to take measures and develop programs to provide families with the opportunity to learn about parental roles and obligations with regard to child development and child care, promoting positive parent-child relationships, sensitizing parents about the problems of children and encouraging their involvement and promote community based activities.
 
 - 36. Families and individuals shall, with the best interest of their children in mind, participate in programs and measures under this Act.
 
 ### Socialization process
 
-- 37. The  government  shall  emphasize  on  preventive  policies facilitating the socialization and integration of a child in conflict  with  law,  through  family,  community,  schools, vocational training, and voluntary and civil society organizations.
+- 37. The government shall emphasize on preventive policies facilitating the socialization and integration of a child in conflict with law, through family, community, schools, vocational training, and voluntary and civil society organizations.
 
 ## Chapter 4 Institutions and Competent Authority
 
 ### Child Justice Court
 
-- 38. The Druk Gyalpo on the recommendation of the National Judicial Commission may establish a Child Justice Court or  Bench  for  exercising  the  powers  and  discharging  the duties conferred by this Act.
+- 38. The Druk Gyalpo on the recommendation of the National Judicial Commission may establish a Child Justice Court or Bench for exercising the powers and discharging the duties conferred by this Act.
 
 The Child Care and Protection Act of Bhutan 2011
 
@@ -660,17 +660,17 @@ The Child Care and Protection Act of Bhutan 2011
 
 [[START OF PAGE 30]]
 
-- 39. The  Court  shall  be  presided  over  by  a  judge  having knowledge of child psychology and child welfare.
+- 39. The Court shall be presided over by a judge having knowledge of child psychology and child welfare.
 
-- 40. Till  such  time  where  there  is  no  separate  Child  Justice Court,  the  regular  Court  shall  exercise  the  powers  and discharge the duties as prescribed under this Act.
+- 40. Till such time where there is no separate Child Justice Court, the regular Court shall exercise the powers and discharge the duties as prescribed under this Act.
 
-- 41. The  Court  shall  notwithstanding  anything  contained  in any other law for time being in force but save as otherwise expressly  provided  in  this  Act  have  the  power  to  deal exclusively with all proceedings under this Act relating to a child in difficult circumstances or a child in conflict with the law.
+- 41. The Court shall notwithstanding anything contained in any other law for time being in force but save as otherwise expressly provided in this Act have the power to deal exclusively with all proceedings under this Act relating to a child in difficult circumstances or a child in conflict with the law.
 
 - 42. The Child Justice Court shall be the Court of First Instance in matters relating to children.
 
 ### Jurisdiction
 
-- 43. The  Court  mentioned  under  this  Act  shall  have  the jurisdiction over the adjudication of any matter or cases relating  to  children  within  the  general  jurisdiction  of the  Court  as  prescribed  under  the  Civil  and  Criminal Procedure Code of Bhutan.
+- 43. The Court mentioned under this Act shall have the jurisdiction over the adjudication of any matter or cases relating to children within the general jurisdiction of the Court as prescribed under the Civil and Criminal Procedure Code of Bhutan.
 
 - 44. The Court may hold proceeding or conduct hearing, where:
 
@@ -712,7 +712,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### In-Situ Proceedings
 
-- 45. The Court may hold proceedings or conduct hearings at any site other than the place where the Court is situated whenever  it  considers  that  it  is  necessary,  expedient  or otherwise in the best interest of the child to do so.
+- 45. The Court may hold proceedings or conduct hearings at any site other than the place where the Court is situated whenever it considers that it is necessary, expedient or otherwise in the best interest of the child to do so.
 
 - 46. The Court shall record the reasons in writing when it holds and conducts such hearings at any place or area other than where such Court is situated.
 
@@ -720,11 +720,11 @@ The Child Care and Protection Act of Bhutan 2011
 
 - 47. The Government shall endeavor to establish and maintain as many child homes as may be necessary for:
 
-- 1. Giving  assistance  and  protection  to  children  in difficult circumstances;
+- 1. Giving assistance and protection to children in difficult circumstances;
 
 - 2. Providing accommodation, maintenance and facilities to children in difficult circumstances for the development of the child's character and abilities and give necessary education and training for protection against moral danger and exploitation; or
 
-- 3. Performing such other functions as may be prescribed in the rules and regulations made under this  Act  for  the  children  in  difficult  circumstances to ensure all round growth and development of the child's personality.
+- 3. Performing such other functions as may be prescribed in the rules and regulations made under this Act for the children in difficult circumstances to ensure all round growth and development of the child's personality.
 
 The Child Care and Protection Act of Bhutan 2011
 
@@ -750,9 +750,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 - ཁ༽ ཨ་ལོའི་སྤྱོད་ལམ་དང་ ལྕོགས་གྲུབ་གོང་འཕེལ་གྱི་དོན་ལུ་ དཀའ་ངལ་གྱི་གནས་ སྟངས་ཐོག་ལུ་ཡོད་པའི་ཨ་ལོ་ཚུ་ལུ་  སྡོད་གནས་དང་  འཚོ་རྟེན་དང་  མཐུན་རྐྱེན་ ཚུ་བྱིན་དགོ་པའི་ཁར་    བཟང་སྤྱོད་ཀྱི་ཉེན་འཚུབ་དང་བཀོལ་ཉེས་ཚུ་ལས་ཉེན་སྐྱོབ་ འབད་ནིའི་དོན་ལུ་ མཁོ་གལ་ཆེ་བའི་ཤེས་ཡོན་དང་ སྦྱོང་བརྡར་འབྱིན་ནི།
 
-- ག༽
-
-- དཀའ་ངལ་གྱི་གནས་སྟངས་ཐོག་ལུ་ཡོད་པའི་ཨ་ལོ་ཚུ་གི་དོན་ལུ་ ཨ་ལོའི་གཤིས་ རྒྱུད་གོང་འཕེལ་དང་ འཕེལ་སྐྱེད་ཡོངས་རྫོགས་ངེས་བརྟན་བཟོ་ཐབས་ལུ་  བཅའ་ ཁྲིམས་འདིའི་ནང་གསལ་ལྟར་དུ་བརྩམས་པའི་བཅའ་ཡིག་དང་  སྒྲིགས་གཞི་ཚུ་ནང་ བཀོད་དེ་ཡོད་པའི་དེ་ལུགས་ཀྱི་བྱ་སྒོ་གཞན་ཡང་ ལག་ལེན་འཐབ་ནི།
+- ག༽ དཀའ་ངལ་གྱི་གནས་སྟངས་ཐོག་ལུ་ཡོད་པའི་ཨ་ལོ་ཚུ་གི་དོན་ལུ་ ཨ་ལོའི་གཤིས་ རྒྱུད་གོང་འཕེལ་དང་ འཕེལ་སྐྱེད་ཡོངས་རྫོགས་ངེས་བརྟན་བཟོ་ཐབས་ལུ་ བཅའ་ ཁྲིམས་འདིའི་ནང་གསལ་ལྟར་དུ་བརྩམས་པའི་བཅའ་ཡིག་དང་ སྒྲིགས་གཞི་ཚུ་ནང་ བཀོད་དེ་ཡོད་པའི་དེ་ལུགས་ཀྱི་བྱ་སྒོ་གཞན་ཡང་ ལག་ལེན་འཐབ་ནི།
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
@@ -762,7 +760,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 [[START OF PAGE 34]]
 
-- 48. Children in difficult circumstances shall be placed in child homes  only  after  exhausting  all  other  possible  alternate care options.
+- 48. Children in difficult circumstances shall be placed in child homes only after exhausting all other possible alternate care options.
 
 ### Remand Homes
 
@@ -780,7 +778,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 (a) The care of the child in conflict with law;
 
-(b) Providing accommodation, maintenance and facilities  for  development  of  the  child's  character, abilities, education, training, and provide rehabilitation  for  protection  against  moral  danger and exploitation; or
+(b) Providing accommodation, maintenance and facilities for development of the child's character, abilities, education, training, and provide rehabilitation for protection against moral danger and exploitation; or
 
 (c) Performing such other functions as may be prescribed in the rules and regulations made under this Act.
 
@@ -808,9 +806,9 @@ The Child Care and Protection Act of Bhutan 2011
 
 - 50 གཞུང་དེ་གིས་ གཤམ་གསལ་གྱི་དོན་ལུ་མཁོ་གལ་འབྱུང་སྲིད་པའི་དམིགས་བསལ་སྡོད་ཁང་ གང་མང་གི་ཐོག་ལས་གཞི་བཙུགས་དང་  རྒྱུན་སྐྱོང་འབད་ནི་ལུ་བརྩོན་ཤུགས་བསྐྱེད་དགོཔ་དེ་ ཡང་།
 
-- ཀ༽ ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོ་དེའི་གཅེས་སྐྱོང་ ཡང་ན། ཁ༽ ཨ་ལོའི་སྤྱོད་ལམ་དང་ ལྕོགས་གྲུབ་ སྦྱོང་བརྡར་དང་ ཤེས་ཡོན་གོང་འཕེལ་གྱི་དོན་ལུ་ སྡོད་གནས་དང་  འཚོ་རྟེན་དང་  མཐུན་རྐྱེན་ཚུ་བྱིན་དགོ་པའི་ཁར་  བཟང་སྤྱོད་ཀྱི་ ཉེན་འཚུབ་དང་བཀོལ་ཉེས་ཚུ་ལས་ཉེན་སྐྱོབ་འབད་ནིའི་དོན་ལུ་ མི་ཚེ་ཉམས་གསོ་
+- ཀ༽ ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོ་དེའི་གཅེས་སྐྱོང་ ཡང་ན།
 
-- འབད་ནི།
+- ཁ༽ ཨ་ལོའི་སྤྱོད་ལམ་དང་ ལྕོགས་གྲུབ་ སྦྱོང་བརྡར་དང་ ཤེས་ཡོན་གོང་འཕེལ་གྱི་དོན་ལུ་ སྡོད་གནས་དང་ འཚོ་རྟེན་དང་ མཐུན་རྐྱེན་ཚུ་བྱིན་དགོ་པའི་ཁར་ བཟང་སྤྱོད་ཀྱི་ ཉེན་འཚུབ་དང་བཀོལ་ཉེས་ཚུ་ལས་ཉེན་སྐྱོབ་འབད་ནིའི་དོན་ལུ་ མི་ཚེ་ཉམས་གསོ་འབད་ནི།
 
 - ག༽ བཅའ་ཁྲིམས་འདིའི་ནང་གསལ་ལྟར་དུ་བརྩམས་པའི་བཅའ་ཡིག་དང་ སྒྲིག་ གཞི་ཚུ་ནང་བཀོད་དེ་ཡོད་པའི་བྱ་སྒོ་གཞན་ཡང་ ལག་ལེན་འཐབ་ནི།
 
@@ -828,7 +826,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 (a) The care of the child in conflict with law involving an offence of third degree and above;
 
-(b) Providing accommodation, maintenance and facilities  for  development  of  the  child's  character, abilities, education, training, and provide rehabilitation  for  protection  against  moral  danger and exploitation; or
+(b) Providing accommodation, maintenance and facilities for development of the child's character, abilities, education, training, and provide rehabilitation for protection against moral danger and exploitation; or
 
 (c) Performing such other functions as may be prescribed in the rules and regulations made under this Act.
 
@@ -836,13 +834,13 @@ The Child Care and Protection Act of Bhutan 2011
 
 - 52. The Government shall endeavor to establish and maintain as many Aftercare Homes as may be necessary to facilitate social reintegration by providing for:
 
-- 1. The  temporary  care  of  a  child  released  from  the home and who requires further care and assistance;
+- 1. The temporary care of a child released from the home and who requires further care and assistance;
 
 - 2. Ensuring a smooth transition from detention to life outside the home;
 
-- 3. Assisting  a  child  in  finding  suitable  and  gainful employment, foster homes or processing for adoption; and
+- 3. Assisting a child in finding suitable and gainful employment, foster homes or processing for adoption; and
 
-- 4. Monitoring the child and collection of feedback on their  performance  from  the  Organization  where  a
+- 4. Monitoring the child and collection of feedback on their performance from the Organization where a
 
 The Child Care and Protection Act of Bhutan 2011
 
@@ -882,19 +880,19 @@ The Child Care and Protection Act of Bhutan 2011
 
 [[START OF PAGE 38]]
 
-- rehabilitated  young  person  works  and  maintaining a  record  of  the  child  released  from  a  home  on  a monthly basis for a period of one year from the date of release.
+rehabilitated young person works and maintaining a record of the child released from a home on a monthly basis for a period of one year from the date of release.
 
 ### Management of the Homes
 
-- 53. The  Government  shall  by  rules  made  under  this  Act provide for  the  management of the child homes, special homes,  remand  homes,  closed  facilities  and  aftercare homes including the standards and the nature of services to  be  maintained  by  them  and  the  circumstances  under which and the manner in which those institutions may be recognized as child homes, special homes, remand homes, closed facilities or aftercare homes
+- 53. The Government shall by rules made under this Act provide for the management of the child homes, special homes, remand homes, closed facilities and aftercare homes including the standards and the nature of services to be maintained by them and the circumstances under which and the manner in which those institutions may be recognized as child homes, special homes, remand homes, closed facilities or aftercare homes
 
 ### Competent authority
 
-- 54. The  National  Commission  for  Women  and  Children  or any other authority established by the government shall be the competent authority under this Act.
+- 54. The National Commission for Women and Children or any other authority established by the government shall be the competent authority under this Act.
 
 ### Child Welfare Committee
 
-- 55. A  Child Welfare Committee  shall be constituted to advice the competent authority on matters relating to the establishment and maintenance of homes, mobilization of resources, provision of facilities for assistance, protection, education and training of children in difficult circumstances and for education, training and rehabilitation of children in  conflict  with  the  law  and  coordination  amongst  the agencies involved.
+- 55. A Child Welfare Committee shall be constituted to advice the competent authority on matters relating to the establishment and maintenance of homes, mobilization of resources, provision of facilities for assistance, protection, education and training of children in difficult circumstances and for education, training and rehabilitation of children in conflict with the law and coordination amongst the agencies involved.
 
 - 56. The Child Welfare Committee shall consist of a chairperson
 
@@ -938,9 +936,9 @@ and  such  number  of  members  as  determined  by  the government from relevant
 
 - 2. Recommending to the competent authority regarding matters concerning children;
 
-- 3. Coordinating with the stakeholders on the identification  and  prevention  of  the  issues  relating children; and
+- 3. Coordinating with the stakeholders on the identification and prevention of the issues relating children; and
 
-- 4. Where relevant, recommend any agency or organization  to  provide  their  services  to  prevent and protect children in difficult circumstance and in conflict with the law.
+- 4. Where relevant, recommend any agency or organization to provide their services to prevent and protect children in difficult circumstance and in conflict with the law.
 
 ### Child Welfare Officer
 
@@ -982,17 +980,17 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### Child in difficult circumstances
 
-- 59. A child in difficult circumstances  is a child who:
+- 59. A child in difficult circumstances is a child who:
 
-(a) Is  found without having any home or settled place of  abode  and  without  any  ostensible  means  of subsistence and is a destitute;
+(a) Is found without having any home or settled place of abode and without any ostensible means of subsistence and is a destitute;
 
 (b) Has a parent or guardian who is unfit or incapacitated to take care of or exercise control over the child;
 
 (c) Is found to associate with any person who leads an immoral, drunken or depraved life;
 
-(d) Is  being  or  likely  to  be  abused  or  exploited  for immoral or illegal purposes; or
+(d) Is being or likely to be abused or exploited for immoral or illegal purposes; or
 
-(e) Is  a  frequent  victim  at  the  hands  of  individuals, families or the community.
+(e) Is a frequent victim at the hands of individuals, families or the community.
 
 ### Production of a child in difficult circumstances
 
@@ -1000,7 +998,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 - 61. Whenever the information has been given to the police, the police shall inform the child welfare officer expediently.
 
-- 62. When  information  is  given  to  an  officer  in  charge  of  a
+- 62. When information is given to an officer in charge of a
 
 The Child Care and Protection Act of Bhutan 2011
 
@@ -1044,15 +1042,15 @@ The Child Care and Protection Act of Bhutan 2011
 
 police station or to a child welfare officer about any child in difficult circumstances such police officer or child welfare officer shall record the information and take such action thereon as deem fit.
 
-- 63. A child  in  difficult  circumstances  taken  into  the  care  of the police under this Act shall be transferred to the child welfare officer within 24 hours after being taken into the care  of  the  police  excluding  the  time  necessary  for  the journey from the place.
+- 63. A child in difficult circumstances taken into the care of the police under this Act shall be transferred to the child welfare officer within 24 hours after being taken into the care of the police excluding the time necessary for the journey from the place.
 
 ### Role and duties of the police and child welfare officer dealing with a child in difficult circumstances
 
-- 64. The  police  and  the  child  welfare  officer  shall  have  the discretion  to  determine  whether  a  child  is  in  difficult circumstances. Upon affirmative determination, subsequent care and assistance shall be provided for the child.
+- 64. The police and the child welfare officer shall have the discretion to determine whether a child is in difficult circumstances. Upon affirmative determination, subsequent care and assistance shall be provided for the child.
 
-- 65. The  police  shall  ensure  care  and  safety  of  the  child  till transferred to a child welfare officer. The police shall deal with  the  child  with  sympathy  and  understanding  in  a decent and polite manner.
+- 65. The police shall ensure care and safety of the child till transferred to a child welfare officer. The police shall deal with the child with sympathy and understanding in a decent and polite manner.
 
-- 66. When  child  welfare  officer  takes  a  child in difficult circumstances  into  care or receives  such  child  from the  police,  child  welfare  officer  shall  consider  the  most appropriate ways and means of providing assistance and
+- 66. When child welfare officer takes a child in difficult circumstances into care or receives such child from the police, child welfare officer shall consider the most appropriate ways and means of providing assistance and
 
 The Child Care and Protection Act of Bhutan 2011
 
@@ -1084,23 +1082,23 @@ The Child Care and Protection Act of Bhutan 2011
 
 protection to the child in accordance with the rules made under this Act
 
-- 67. Where  a  child  is  taken  into  the  care  of  a  child  welfare officer, the officer shall inform the parent or legal guardian of the child within twenty four hours.
+- 67. Where a child is taken into the care of a child welfare officer, the officer shall inform the parent or legal guardian of the child within twenty four hours.
 
-- 68. In the absence of such parents or any legal guardian, the child  welfare  officer  shall  inform  the  person  with  whom the child is residing.
+- 68. In the absence of such parents or any legal guardian, the child welfare officer shall inform the person with whom the child is residing.
 
 ### Fact finding regarding child in difficult circumstances
 
-- 69. The  child  welfare  officer  shall  take  into  consideration before providing protection and assistance to the child in difficult circumstances under this Act:
+- 69. The child welfare officer shall take into consideration before providing protection and assistance to the child in difficult circumstances under this Act:
 
 (a) The age of the child;
 
 (b) Physical and mental health of the child;
 
-(c) Reports  made  by  the  Police  official  in  case  of  the child being transferred by the police;
+(c) Reports made by the Police official in case of the child being transferred by the police;
 
 (d) Such other circumstances as may be in the opinion of the child welfare officer required to be taken into consideration for the welfare of the child; and
 
-(e) Specific  assistance  needed  based  on  physical  or mental condition of the child.
+(e) Specific assistance needed based on physical or mental condition of the child.
 
 - 70. The child welfare officer may:
 
@@ -1154,7 +1152,7 @@ manner including the provision of necessary assistances to the family as the chi
 
 (d) Recommend the  child  for  adoption  in  accordance with the relevant laws.
 
-- 71. Where the child is sent to a place of safety, the parent or guardian  of  the  child  can  request  a  Court  to  review  the decision of the child welfare officer and return the child to the parent or guardian, unless the Court is of the opinion that the parent or guardian is unfit or unable to provide proper care for the child; in such a case, the child shall be sent to a place of safety as deemed fit by the child welfare officer.
+- 71. Where the child is sent to a place of safety, the parent or guardian of the child can request a Court to review the decision of the child welfare officer and return the child to the parent or guardian, unless the Court is of the opinion that the parent or guardian is unfit or unable to provide proper care for the child; in such a case, the child shall be sent to a place of safety as deemed fit by the child welfare officer.
 
 ## Chapter 6 Child in Conflict with the Law
 
@@ -1172,9 +1170,9 @@ The Child Care and Protection Act of Bhutan 2011
 
 འབབ་ལྟོས་ཐོག་ ནང་མི་བཟའ་ཚང་དེ་ལུ་ གལ་གནད་ཆེ་བའི་གྲོགས་རམ་གྱི་ཆ་རྐྱེན་ དང་བཅས་པའི་ཚུལ་མཐུན་གྱི་རྣམ་གཞག་ཐོག་ལས་ ཨ་ལོ་མཐའ་སྐྱོང་འཐབ་ནི་གི་ དོན་ལུ་ ཕ་མའམ་ ཁྲིམས་མཐུན་འཚོ་འཛིན་ལུ་བཀོད་རྒྱ་འབྱིན་ནི་ ཡང་ན།
 
-- ཁ༽ ཨ་ལོའི་སྲུང་འཛིན་དང་ཕན་བདེ་ངེས་གཏན་བཟོ་ནི་གི་དོན་ལུ་ ཕ་མའམ་ ཁྲིམས་མཐུན་འཚོ་འཛིན་གྱིས་ ཨ་ལོའི་མཐའ་སྐྱོང་འཐབ་ཐངས་ཚུ་ལྟ་རྟོག་འབད་ནི།
+- ཁ༽ ཨ་ལོའི་སྲུང་འཛིན་དང་ཕན་བདེ་ངེས་གཏན་བཟོ་ནི་གི་དོན་ལུ་ ཕ་མའམ་ ཁྲིམས་ མཐུན་འཚོ་འཛིན་གྱིས་ ཨ་ལོའི་མཐའ་སྐྱོང་འཐབ་ཐངས་ཚུ་ལྟ་རྟོག་འབད་ནི།
 
-- ག༽ ཨ་ལོ་དེའི་གྲོགས་རམ་དང་ཉེན་སྐྱོབ་ཀྱི་དགོས་མཁོའི་འཕྲོ་རྒྱུན་བཅད་པའི་སྐབས་ ཡང་ན་ ཨ་ལོ་སྐྱེས་ལོ་བཅོ་བརྒྱད་མ་ལོན་ཚུན་ཚོད་ ཨ་ལོ་དེ་ ཉེན་ཁ་མེད་པའི་ས་གནས་ཅིག་ཁར་གཏང་ནི།
+- ག༽ ཨ་ལོ་དེའི་གྲོགས་རམ་དང་ཉེན་སྐྱོབ་ཀྱི་དགོས་མཁོའི་འཕྲོ་རྒྱུན་བཅད་པའི་སྐབས་ ཡང་ན་ ཨ་ལོ་སྐྱེས་ལོ་བཅོ་བརྒྱད་མ་ལོན་ཚུན་ཚོད་ ཨ་ལོ་དེ་ ཉེན་ཁ་མེད་པའི་ས་ གནས་ཅིག་ཁར་གཏང་ནི།
 
 - ང་༽ དངོས་འབྲེལ་ཡོད་པའི་ཁྲིམས་ཚུ་དང་འཁྲིལ་ཏེ་ ཨ་ལོ་དེ་བུ་ཚབ་སྤྲོད་ལེན་གྱི་དོན་ལུ་ གྲོས་འདེབས་འབད་ནི།
 
@@ -1198,7 +1196,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 - 73. Every child in conflict with the law shall not be subjected to torture or to cruel, inhuman or degrading treatment or punishment.
 
-- 74. No child shall be subjected to arrest or detention without warrant  from  the  Court  except  in  accordance  with  the Civil and Criminal Procedure Code and this Act.
+- 74. No child shall be subjected to arrest or detention without warrant from the Court except in accordance with the Civil and Criminal Procedure Code and this Act.
 
 - 75. A child detained or confined for an offence shall be treated with respect and dignity.
 
@@ -1220,23 +1218,23 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོའི་ཐོབ་དབང་།
 
-- ༧༣ ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོ་ཚུ་ལུ་  མནར་གཅོད་  ཡང་ན་  གདུག་རྩུབ་  མི་སྤྱོད་ ལས་འདས་པ་ ཡང་ན་དམའ་འབེབས་ ཉེས་སྤྱོད་ ཡང་ན་ ཉེས་ཁྲིམས་བཅས་ཀྱི་དབང་ལུ་ འདུ་ནི་མེད།
+- 73 ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོ་ཚུ་ལུ་  མནར་གཅོད་  ཡང་ན་  གདུག་རྩུབ་  མི་སྤྱོད་ ལས་འདས་པ་ ཡང་ན་དམའ་འབེབས་ ཉེས་སྤྱོད་ ཡང་ན་ ཉེས་ཁྲིམས་བཅས་ཀྱི་དབང་ལུ་ འདུ་ནི་མེད།
 
-- ༧༤ ཨ་ལོ་ག་ཨིན་རུང་ བཅའ་ཁྲིམས་འདི་དང་ ཞི་རྩོད་དང་ཉེས་རྩོད་བྱ་བའི་གནད་སྤྱོད་ཀྱི་ཁྲིམས་ དེབ་དང་འཁྲིལ་ཏེ་མ་གཏོགས་ ཁྲིམས་ཀྱི་འདུན་ས་ལས་ འཛིན་བཟུང་བཀའ་འཕྲིན་མེད་པར་ འཛིན་བཟུང་དང་ དོ་དམ་གྱི་དབང་ལུ་འདུ་ནི་མེད།
+- 74 ཨ་ལོ་ག་ཨིན་རུང་ བཅའ་ཁྲིམས་འདི་དང་ ཞི་རྩོད་དང་ཉེས་རྩོད་བྱ་བའི་གནད་སྤྱོད་ཀྱི་ཁྲིམས་ དེབ་དང་འཁྲིལ་ཏེ་མ་གཏོགས་ ཁྲིམས་ཀྱི་འདུན་ས་ལས་ འཛིན་བཟུང་བཀའ་འཕྲིན་མེད་པར་ འཛིན་བཟུང་དང་ དོ་དམ་གྱི་དབང་ལུ་འདུ་ནི་མེད།
 
-- ༧༥ གནོད་འགེལ་ཅིག་གི་དོན་ལུ་ བཀག་ཉར་ ཡང་ན་ ཚད་འཛིན་འོག་ལུ་ཡོད་པའི་ཨ་ལོ་དེ་ ཆེ་ མཐོང་དང་བརྩི་བཀུར་གྱི་ཐོག་ལས་ངོས་ལེན་འབད་དགོ།
+- 75 གནོད་འགེལ་ཅིག་གི་དོན་ལུ་ བཀག་ཉར་ ཡང་ན་ ཚད་འཛིན་འོག་ལུ་ཡོད་པའི་ཨ་ལོ་དེ་ ཆེ་ མཐོང་དང་བརྩི་བཀུར་གྱི་ཐོག་ལས་ངོས་ལེན་འབད་དགོ།
 
-- ༧༦ བཀག་ཉར་  ཡང་ན་ཚད་འཛིན་འོག་ལུ་ཡོད་པའི་ཨ་ལོ་དེ་  ནམ་ཞིག་ཨིན་རུང་  ན་ལོན་གྱི་ གནོད་འགེལ་པ་ཚུ་ལས་ སོ་སོ་སྦེ་བཞག་དགོ།
+- 76 བཀག་ཉར་  ཡང་ན་ཚད་འཛིན་འོག་ལུ་ཡོད་པའི་ཨ་ལོ་དེ་  ནམ་ཞིག་ཨིན་རུང་  ན་ལོན་གྱི་ གནོད་འགེལ་པ་ཚུ་ལས་ སོ་སོ་སྦེ་བཞག་དགོ།
 
-- ༧༧ བཀག་ཉར་འོག་ལུ་དང་ འདོད་དབང་མེད་པའི་ཨ་ལོ་དེ་ལུ་ ཨ་ལོའི་མཐའ་དོན་ཁོ་ནའི་ དམིགས་བསལ་སྐབས་དོན་ལུ་རྐྱངམ་གཅིག་ ཡིག་འབྲེལ་དང་ བལྟ་སྐོར་ཐོག་ལས་ ནང་མི་ ཚུ་དང་ཅིག་ཁར་འབྲེལ་བ་འཐབ་ནིའི་ཐོབ་དབང་ཡོད།
+- 77 བཀག་ཉར་འོག་ལུ་དང་ འདོད་དབང་མེད་པའི་ཨ་ལོ་དེ་ལུ་ ཨ་ལོའི་མཐའ་དོན་ཁོ་ནའི་ དམིགས་བསལ་སྐབས་དོན་ལུ་རྐྱངམ་གཅིག་ ཡིག་འབྲེལ་དང་ བལྟ་སྐོར་ཐོག་ལས་ ནང་མི་ ཚུ་དང་ཅིག་ཁར་འབྲེལ་བ་འཐབ་ནིའི་ཐོབ་དབང་ཡོད།
 
-- ༧༨ བཀག་ཉར་དང་  འཛིན་བཟུང་གི་འོག་ལུ་ཡོད་པའི་ཨ་ལོ་དེ་ལུ་  ཁྲིམས་དང་  འོས་འཚམས་ ལྡན་པའི་གྲོགས་རམ་གཞན་ལུ་ དུས་ཐོག་ཐོབ་ཚུགས་པའི་ཐོབ་དབང་དང་ འཛིན་བཟུང་དང་ བཀག་ཉར་ཚུ་ ཁྲིམས་དང་བསྟུན་པའི་དོ་འགྲན་འབད་ནི་དང་ ཁོ་རའི་ཁ་ཐུག་ལས་ དཔང་པོ་ སྦེ་བདེན་ཁུངས་སྐྱེལ་ནིའི་ཐོབ་དབང་ཡོད།
+- 78 བཀག་ཉར་དང་  འཛིན་བཟུང་གི་འོག་ལུ་ཡོད་པའི་ཨ་ལོ་དེ་ལུ་  ཁྲིམས་དང་  འོས་འཚམས་ ལྡན་པའི་གྲོགས་རམ་གཞན་ལུ་ དུས་ཐོག་ཐོབ་ཚུགས་པའི་ཐོབ་དབང་དང་ འཛིན་བཟུང་དང་ བཀག་ཉར་ཚུ་ ཁྲིམས་དང་བསྟུན་པའི་དོ་འགྲན་འབད་ནི་དང་ ཁོ་རའི་ཁ་ཐུག་ལས་ དཔང་པོ་ སྦེ་བདེན་ཁུངས་སྐྱེལ་ནིའི་ཐོབ་དབང་ཡོད།
 
-- ༧༩ བསྐྱར་ཟློས་ཅན་  ཡང་ན་  ལང་ཤོར་ཐལ་བའི་གནོད་འགེལ་པ་ཨིན་ན་མ་གཏོགས་  ཁྲིམས་ གཅོད་གྲུབ་པའི་ཨ་ལོ་དེ་ ཁྲིམས་ཚད་དམའ་ཤོས་བཀལ་དགོ་པའི་ཐོབ་དབང་ཡོད།
+- 79 བསྐྱར་ཟློས་ཅན་  ཡང་ན་  ལང་ཤོར་ཐལ་བའི་གནོད་འགེལ་པ་ཨིན་ན་མ་གཏོགས་  ཁྲིམས་ གཅོད་གྲུབ་པའི་ཨ་ལོ་དེ་ ཁྲིམས་ཚད་དམའ་ཤོས་བཀལ་དགོ་པའི་ཐོབ་དབང་ཡོད།
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
-༢༢
+22
 
 [[END OF PAGE 51]]
 
@@ -1270,25 +1268,25 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོ་དང་འབྲེལ་བའི་ཁྲིམས་སྲུང་འགག་སྡེའི་ལཱ་དང་འགན་ཁུར།
 
-- ༨༠ ཁྲིམས་སྲུང་འགག་སྡེ་གིས་  ཨ་ལོ་དེ་  ཁྲིམས་དང་རྒྱབ་འགལ་ཨིན་མིན་གྱི་དབྱེ་དཔྱད་འབད་ ནི་དང་  དེའི་ཤུལ་མམ་གྱི་རིམ་པ་ཚུ་  འགོ་ཐོག་གི་རྩོད་ཉོགས་ངོས་ལེན་ཐོག་  ཐག་བཅད་ འབད་ཞིནམ་ལས་རྐྱངམ་ཅིག་ ལག་ལེན་འཐབ་དགོ།
+- 80 ཁྲིམས་སྲུང་འགག་སྡེ་གིས་  ཨ་ལོ་དེ་  ཁྲིམས་དང་རྒྱབ་འགལ་ཨིན་མིན་གྱི་དབྱེ་དཔྱད་འབད་ ནི་དང་  དེའི་ཤུལ་མམ་གྱི་རིམ་པ་ཚུ་  འགོ་ཐོག་གི་རྩོད་ཉོགས་ངོས་ལེན་ཐོག་  ཐག་བཅད་ འབད་ཞིནམ་ལས་རྐྱངམ་ཅིག་ ལག་ལེན་འཐབ་དགོ།
 
-- ༨༡ ཁྲིམས་སྲུང་འགག་སྡེ་དེ་གིས་ སྙིང་རྗེ་དང་བཀའ་ངལ་ཧ་གོ་སྟེ་ ཞི་འཇམ་དང་ཁ་སྙན་རྣམ་ གཞག་གི་ཐོག་ལས་  ཨ་ལོ་དང་འབྲེལ་བ་འཐབ་དགོ།  ཨ་ལོའི་མཐའ་དོན་ཁོ་ན་དང་  བདེ་ འབྱོར་གྱི་ཐོག་ལས་དབང་ཚད་སྤྱོད་དགོ།
+- 81 ཁྲིམས་སྲུང་འགག་སྡེ་དེ་གིས་ སྙིང་རྗེ་དང་བཀའ་ངལ་ཧ་གོ་སྟེ་ ཞི་འཇམ་དང་ཁ་སྙན་རྣམ་ གཞག་གི་ཐོག་ལས་  ཨ་ལོ་དང་འབྲེལ་བ་འཐབ་དགོ།  ཨ་ལོའི་མཐའ་དོན་ཁོ་ན་དང་  བདེ་ འབྱོར་གྱི་ཐོག་ལས་དབང་ཚད་སྤྱོད་དགོ།
 
-- ༨༢ ཁྲིམས་སྲུང་འགག་སྡེའི་ལས་ཚན་འགོ་དཔོན་གྱིས་ ཨ་ལོའི་དྲན་ཐོ་ཁ་གསལ་སྦེ་བཞག་དགོ།
+- 82 ཁྲིམས་སྲུང་འགག་སྡེའི་ལས་ཚན་འགོ་དཔོན་གྱིས་ ཨ་ལོའི་དྲན་ཐོ་ཁ་གསལ་སྦེ་བཞག་དགོ།
 
-- ༨༣ གལ་སྲིད་  ཨ་ལོ་དེ་གིས་འཐབ་པའི་གནོད་འགེལ་དེ་ནང་  ཚབས་ཆེན་གྱི་གནས་ལུགས་མེན་ པ་དང་  ཨ་ལོའི་མཐའ་དོན་ཁོ་ནའི་དོན་ལུ་ཨིན་པ་ཅིན་  བཅའ་ཁྲིམས་འདིའི་ལེའུ་༡༢  པ་ ལས་མ་འགལ་བར་ ཁྲིམས་སྲུང་འགག་སྡེའི་ལས་ཚན་འགོ་དཔོན་དེ་གིས་ ལས་རིམ་ཁ་ བསྒྱུར་གཏང་ནིའི་དོན་ལུ་ ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོ་དེ་ བརྩི་འཇོག་འབད་ཆོག།
+- 83 གལ་སྲིད་  ཨ་ལོ་དེ་གིས་འཐབ་པའི་གནོད་འགེལ་དེ་ནང་  ཚབས་ཆེན་གྱི་གནས་ལུགས་མེན་ པ་དང་  ཨ་ལོའི་མཐའ་དོན་ཁོ་ནའི་དོན་ལུ་ཨིན་པ་ཅིན་  བཅའ་ཁྲིམས་འདིའི་ལེའུ་༡༢  པ་ ལས་མ་འགལ་བར་ ཁྲིམས་སྲུང་འགག་སྡེའི་ལས་ཚན་འགོ་དཔོན་དེ་གིས་ ལས་རིམ་ཁ་ བསྒྱུར་གཏང་ནིའི་དོན་ལུ་ ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོ་དེ་ བརྩི་འཇོག་འབད་ཆོག།
 
 ## ལེའུ་༧ པ། བརྟག་ཞིབ་དང་ཞིབ་དཔྱད་ འདྲི་རྩད་དང་བཀག་ཉར།
 
 ### ཚོད་བརྟག་འགོ་དཔོན་ཚུ་གི་བསྐོ་བཞག།
 
-- ༨༤ བཅའ་ཁྲིམས་འདི་ནང་བཀོད་པའི་ཚོད་བརྟག་འགོ་དཔོན་ཅིག་ བཅའ་ཡིག་ཐོག་ལུ་བཀོད་པའི་ དེ་ལུགས་ཀྱི་ཤེས་ཡོན་འཆང་མི་ཨིན་པའི་ཁར་ གཞུང་གིས་བསྐོ་བཞག་གནང་བའི་མི་ངོ་ཅིག་ དགོཔ་ཨིན།
+- 84 བཅའ་ཁྲིམས་འདི་ནང་བཀོད་པའི་ཚོད་བརྟག་འགོ་དཔོན་ཅིག་ བཅའ་ཡིག་ཐོག་ལུ་བཀོད་པའི་ དེ་ལུགས་ཀྱི་ཤེས་ཡོན་འཆང་མི་ཨིན་པའི་ཁར་ གཞུང་གིས་བསྐོ་བཞག་གནང་བའི་མི་ངོ་ཅིག་ དགོཔ་ཨིན།
 
-- ༨༥ བཅའ་ཁྲིམས་འདིའི་དགོངས་དོན་ཚུ་དང་ བཅའ་ཁྲིམས་འདིའི་ནང་གསལ་ལྟར་དུ་བརྩམས་ པའི་བཅའ་ཡིག་ཚུ་ལས་མ་འགལ་བར་ བསྐོ་བཞག་འབད་བའི་ཚོད་བརྟག་འགོ་དཔོན་དེ་གིས་ འབད་ཆོག་པ་འདི་ཡང་།
+- 85 བཅའ་ཁྲིམས་འདིའི་དགོངས་དོན་ཚུ་དང་ བཅའ་ཁྲིམས་འདིའི་ནང་གསལ་ལྟར་དུ་བརྩམས་ པའི་བཅའ་ཡིག་ཚུ་ལས་མ་འགལ་བར་ བསྐོ་བཞག་འབད་བའི་ཚོད་བརྟག་འགོ་དཔོན་དེ་གིས་ འབད་ཆོག་པ་འདི་ཡང་།
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
-༢༣
+23
 
 [[END OF PAGE 53]]
 
@@ -1334,11 +1332,11 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### ཨ་ལོའི་བརྟག་ཞིབ།
 
-- ༨༦ ཁྲིམས་སྲུང་འགག་སྡེ་གིས་ འདྲི་རྩད་གང་རུང་ཅིག་མ་འབད་བའི་ཧེ་མར་ ཚོད་བརྟག་འགོ་ དཔོན་གྱིས་ ཨ་ལོ་དེ་བརྟག་ཞིབ་འབད་དགོ། གནད་དོན་གང་རུང་ཅིག་གི་དོན་ལུ་ ཨ་ ལོ་འཛིན་བཟུང་  ཡང་ན་  འགུགས་བརྡ་གནང་ཞིནམ་ལས་  ཁྲིམས་སྲུང་འགག་སྡེ་དེ་གིས་ བརྟག་ཞིབ་ཀྱི་དོན་ལུ་ ཚོད་བརྟག་འགོ་དཔོན་ལུ་བརྡ་འཕྲིན་བྱིན་དགོ།
+- 86 ཁྲིམས་སྲུང་འགག་སྡེ་གིས་ འདྲི་རྩད་གང་རུང་ཅིག་མ་འབད་བའི་ཧེ་མར་ ཚོད་བརྟག་འགོ་ དཔོན་གྱིས་ ཨ་ལོ་དེ་བརྟག་ཞིབ་འབད་དགོ། གནད་དོན་གང་རུང་ཅིག་གི་དོན་ལུ་ ཨ་ ལོ་འཛིན་བཟུང་  ཡང་ན་  འགུགས་བརྡ་གནང་ཞིནམ་ལས་  ཁྲིམས་སྲུང་འགག་སྡེ་དེ་གིས་ བརྟག་ཞིབ་ཀྱི་དོན་ལུ་ ཚོད་བརྟག་འགོ་དཔོན་ལུ་བརྡ་འཕྲིན་བྱིན་དགོ།
 
-- ༨༧ ཨ་ལོ་དེའི་བརྟག་ཞིབ་འདི་  ཚོད་བརྟག་འགོ་དཔོན་གྱིས་ངོས་འཛིན་འབད་བའི་འོས་འབབ་ཅན་ གྱི་ས་གནས་གང་རུང་ཅིག་ནང་ ལག་ལེན་འཐབ་དགོ། དེ་འབདཝ་ད་ ངོས་འཛིན་འབད་བའི་ ས་གནས་དེ་ རང་གསང་ལུ་ཕན་རླབས་ཅན་ཅིག་དགོཔ་ཨིན།
+- 87 ཨ་ལོ་དེའི་བརྟག་ཞིབ་འདི་  ཚོད་བརྟག་འགོ་དཔོན་གྱིས་ངོས་འཛིན་འབད་བའི་འོས་འབབ་ཅན་ གྱི་ས་གནས་གང་རུང་ཅིག་ནང་ ལག་ལེན་འཐབ་དགོ། དེ་འབདཝ་ད་ ངོས་འཛིན་འབད་བའི་ ས་གནས་དེ་ རང་གསང་ལུ་ཕན་རླབས་ཅན་ཅིག་དགོཔ་ཨིན།
 
-- ༨༨ བཅའ་ཁྲིམས་འདིའི་ནང་གསལ་ལྟར་ ཨ་ལོ་དེའི་བརྟག་ཞིབ་འབད་བའི་སྐབས་ལུ་  གཤམ་ གསལ་གྱི་མི་ངོ་འཛོམས་དགོཔ་འདི་ཡང་།
+- 88 བཅའ་ཁྲིམས་འདིའི་ནང་གསལ་ལྟར་ ཨ་ལོ་དེའི་བརྟག་ཞིབ་འབད་བའི་སྐབས་ལུ་  གཤམ་ གསལ་གྱི་མི་ངོ་འཛོམས་དགོཔ་འདི་ཡང་།
 
 - ཀ༽ ཉེས་འདོགས་པའམ་ ཉམས་རྒུད་པ་ ཡང་ན་ཉམས་རྒུད་པ་དེའི་ཁྲིམས་མཐུན་ངོ་ ཚབ་གང་རུང་ཅིག་དང་།
 
@@ -1350,7 +1348,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
-༢༤
+24
 
 [[END OF PAGE 55]]
 
@@ -1390,7 +1388,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 [[START OF PAGE 57]]
 
-- ༨༩ ཚོད་བརྟག་འགོ་དཔོན་དེ་གིས་ གཤམ་གསལ་གྱི་དོན་ལུ་ ཁྲིམས་སྲུང་འགག་སྡེའི་འགན་ འཛིན་པ་ཅིག་ལུ་ཞུ་བ་ཕུལ་ནི་འདི་ཡང་།
+- 89 ཚོད་བརྟག་འགོ་དཔོན་དེ་གིས་ གཤམ་གསལ་གྱི་དོན་ལུ་ ཁྲིམས་སྲུང་འགག་སྡེའི་འགན་ འཛིན་པ་ཅིག་ལུ་ཞུ་བ་ཕུལ་ནི་འདི་ཡང་།
 
 - ཀ༽ ཨ་ལོའི་བརྟག་ཞིབ་ཡོངས་རྫོགས་འགྲུབ་ཐབས་ལུ་དགོ་པའི་ཡིག་རིགས་དང་བཅས་ པའི་ བརྟག་ཞིབ་འབད་ནི་ཨིན་པའི་ཨ་ལོ་དང་འབྲེལ་བའི་བརྡ་དོན་གང་རུང་ཅིག་ ལེན་ནི་དང་།
 
@@ -1400,7 +1398,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### བརྟག་ཞིབ་སྐབས་ཀྱི་ཚོད་བརྟག་འགོ་དཔོན་གྱི་འགན་ཁུར།
 
-- ༩༠ ཨ་ལོའི་བརྟག་ཞིབ་འབད་བའི་སྐབས་ལུ་ ཚོད་བརྟག་འགོ་དཔོན་དེ་གིས་འབད་དགོཔ་འདི་ ཡང་།
+- 90 ཨ་ལོའི་བརྟག་ཞིབ་འབད་བའི་སྐབས་ལུ་ ཚོད་བརྟག་འགོ་དཔོན་དེ་གིས་འབད་དགོཔ་འདི་ ཡང་།
 
 - ཀ༽ ཨ་ལོ་དེ་དང་  ཨ་ལོའི་ཕའམ་  འཚོ་འཛིན་ཚུ་ལུ་  བརྟག་ཞིབ་ཀྱི་དགོས་དོན་གང་ ཞིག་རེ་ཡོད་པ་ཅིན་ དེའི་སྐོར་ལས་ གསལ་བཤད་འབད་ནི་དང་།
 
@@ -1410,7 +1408,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 - ང་༽ ཨ་ལོ་དེ་གིས་ གནོད་འགེལ་གྱི་དོན་ལུ་ ངོས་སྦྱོར་གྱི་ཁག་འགན་ལུ་མནོ་ བསམ་བཏང་དོ་ཡོད་མེད་སྐོར་ལས་  ཨ་ལོ་དེ་ལུ་  དྲི་བ་གི་ཐོག་ལས་འདྲི་རྩད་ འབད་ནི།
 
-- ༩༡ ཨ་ལོའི་བརྟག་ཞིབ་འབད་བའི་སྐབས་ལུ་ ཚོད་བརྟག་འགོ་དཔོན་དེ་གིས་ གནས་སྟངས་གང་ ཞིག་ནང་ གཤམ་གསལ་དང་གཅིག་ཁར་གྲོས་བསྟུན་འབད་ནི་འདི་ཡང་།
+- 91 ཨ་ལོའི་བརྟག་ཞིབ་འབད་བའི་སྐབས་ལུ་ ཚོད་བརྟག་འགོ་དཔོན་དེ་གིས་ གནས་སྟངས་གང་ ཞིག་ནང་ གཤམ་གསལ་དང་གཅིག་ཁར་གྲོས་བསྟུན་འབད་ནི་འདི་ཡང་།
 
 - ཀ༽ ཨ་ལོ་དང་འབྲེལ་བའི་གནད་དོན་གང་རུང་ཅིག་གི་སྐོར་ལས་ ཉེས་འདོགས་པ་ ཡང་
 
@@ -1418,7 +1416,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
-༢༥
+25
 
 [[END OF PAGE 57]]
 
@@ -1464,7 +1462,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 - ག༽ བརྟག་ཞིབ་ཀྱི་དོན་ལུ་ གལ་གནད་ཆེ་བའི་བརྡ་དོན་བྱིན་སྲིད་པའི་མི་ངོ་གང་ཞིག།
 
-- ༩༢ བརྟག་ཞིབ་མཇུག་བསྡུ་ཞིནམ་ལས་  ཚོད་བརྟག་འགོ་དཔོན་དེ་གིས་  གཤམ་གསལ་གྱི་དོན་ ལུ་གྲོས་འདེབས་ཚུ་དང་བཅས་བཀོད་པའི་རྣམ་གཞག་ཐོག་ལུ་ སྙན་ཞུ་ཅིག་བཟོ་དགོཔ་འདི་ ཡང་།
+- 92 བརྟག་ཞིབ་མཇུག་བསྡུ་ཞིནམ་ལས་  ཚོད་བརྟག་འགོ་དཔོན་དེ་གིས་  གཤམ་གསལ་གྱི་དོན་ ལུ་གྲོས་འདེབས་ཚུ་དང་བཅས་བཀོད་པའི་རྣམ་གཞག་ཐོག་ལུ་ སྙན་ཞུ་ཅིག་བཟོ་དགོཔ་འདི་ ཡང་།
 
 - ཀ༽ བཅའ་ཁྲིམས་འདི་དང་འཁྲིལ་ཏེ་ ཁ་བསྒྱུར་གྱི་གོ་སྐབས་ཚུ་ ཡང་ན། ཁ༽ གློད་གྲོལ་ལེན་ནི་གི་དོན་ལུ་ ཨ་ལོའི་འོས་འབབ།
 
@@ -1474,11 +1472,11 @@ The Child Care and Protection Act of Bhutan 2011
 
 - ཅ༽ ལྷན་ཐབས་ཀྱི་རིམ་པའི་དོན་ལུ་ ཁྲིམས་ཀྱི་འདུན་ས་ལུ་ གནད་དོན་བརྗེ་སོར།
 
-- ༩༣ གལ་སྲིད་ཁྲིམས་ཀྱི་རྩོད་རིམ་ཅིག་འགོ་བཙུགས་ནི་ཨིན་པ་ཅིན་ ཚོད་བརྟག་འགོ་དཔོན་གྱིས་ བཟོ་བའི་བརྟག་ཞིབ་སྙན་ཞུའི་འདྲ་བཤུས་དེ་ ཁྲིམས་ཀྱི་འདུན་ས་ལུ་ཕུལ་དགོ།
+- 93 གལ་སྲིད་ཁྲིམས་ཀྱི་རྩོད་རིམ་ཅིག་འགོ་བཙུགས་ནི་ཨིན་པ་ཅིན་ ཚོད་བརྟག་འགོ་དཔོན་གྱིས་ བཟོ་བའི་བརྟག་ཞིབ་སྙན་ཞུའི་འདྲ་བཤུས་དེ་ ཁྲིམས་ཀྱི་འདུན་ས་ལུ་ཕུལ་དགོ།
 
 ### ཞིབ་དཔྱད།
 
-- ༩༤ ཞིབ་དཔྱད་འབད་བའི་སྐབས་ལུ་ ཁྲིམས་སྲུང་འགག་སྡེའི་འགན་འཛིན་པ་ཅིག་ ཡང་ན་ ཞིབ་ དཔྱད་འགོ་དཔོན་གང་རུང་ཅིག་གིས་ འབད་ནི་འདི་ཡང་།
+- 94 ཞིབ་དཔྱད་འབད་བའི་སྐབས་ལུ་ ཁྲིམས་སྲུང་འགག་སྡེའི་འགན་འཛིན་པ་ཅིག་ ཡང་ན་ ཞིབ་ དཔྱད་འགོ་དཔོན་གང་རུང་ཅིག་གིས་ འབད་ནི་འདི་ཡང་།
 
 - ཀ༽ མི་ངོ་གང་ཞིག་བརྟག་དཔྱད་འབད་ནི་ ཡང་ན།
 
@@ -1488,7 +1486,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
-༢༦
+26
 
 [[END OF PAGE 59]]
 
@@ -1522,13 +1520,13 @@ The Child Care and Protection Act of Bhutan 2011
 
 - ང་༽ རྩོད་གཞི་ལུ་བརྟེན་  ཁྲིམས་དང་མཐུན་པའི་བདེན་ཁུངས་ཡོད་པ་དང་  ཁྲིམས་ཐོག་ རྒྱབ་སྐྱོར་ཡོད་པའི་བྱ་སྒོ་གཞན་གང་རུང་ཅིག་སྒྲུབ་ནི།
 
-- ༩༥ ཁྲིམས་སྲུང་འགག་སྡེ་ ཡང་ན་ ངག་བརྗོད་ཀྱི་དྲན་ཐོ་བཀོད་མི་ཞིབ་དཔྱད་འགོ་དཔོན་གང་ ཞིག་དང་  ཨ་ལོ་དང་འབྲེལ་བའི་གནད་དོན་ཚུ་གི་སྐོར་ལས་  དྲན་ཐོ་  ཡང་ན་སྒྲུབ་བྱེད་གང་ རུང་ཅིག་བྱིན་པའི་མི་ངོ་དེ་གིས་ ཞིབ་དཔྱད་ལས་བྱུང་བའི་བརྗོད་དོན་དང་དྲན་ཐོ་ཆ་མཉམ་ལུ་ མིང་རྟགས་བཀོད་དགོ།
+- 95 ཁྲིམས་སྲུང་འགག་སྡེ་ ཡང་ན་ ངག་བརྗོད་ཀྱི་དྲན་ཐོ་བཀོད་མི་ཞིབ་དཔྱད་འགོ་དཔོན་གང་ ཞིག་དང་  ཨ་ལོ་དང་འབྲེལ་བའི་གནད་དོན་ཚུ་གི་སྐོར་ལས་  དྲན་ཐོ་  ཡང་ན་སྒྲུབ་བྱེད་གང་ རུང་ཅིག་བྱིན་པའི་མི་ངོ་དེ་གིས་ ཞིབ་དཔྱད་ལས་བྱུང་བའི་བརྗོད་དོན་དང་དྲན་ཐོ་ཆ་མཉམ་ལུ་ མིང་རྟགས་བཀོད་དགོ།
 
-- ༩༦ ཁྲིམས་སྲུང་འགག་སྡེ་  ཡང་ན་  ཞིབ་དཔྱད་འགོ་དཔོན་གང་ཞིག་གིས་  ཞིབ་དཔྱད་ཀྱི་ལམ་ འདྲེན་སྐབས་ དྲི་བ་བཀོད་པའི་གལ་ཅན་གྱི་དཔང་པོ་ལས་ ངག་བརྗོད་ངེས་པར་དུ་ལེན་དགོ།
+- 96 ཁྲིམས་སྲུང་འགག་སྡེ་  ཡང་ན་  ཞིབ་དཔྱད་འགོ་དཔོན་གང་ཞིག་གིས་  ཞིབ་དཔྱད་ཀྱི་ལམ་ འདྲེན་སྐབས་ དྲི་བ་བཀོད་པའི་གལ་ཅན་གྱི་དཔང་པོ་ལས་ ངག་བརྗོད་ངེས་པར་དུ་ལེན་དགོ།
 
-- ༩༧ ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོ་དེ་ ཁྲིམས་ཀྱི་འདུན་སར་ངོ་བཅར་འབད་ཞིནམ་ལས་ སླར་ལོག་དོ་དམ་ནང་གཏང་པ་ཅིན་  ཁྲིམས་སྲུང་འགག་སྡེ་  ཡང་ན་  ཞིབ་དཔྱད་འགོ་དཔོན་ གང་ཞིག་གིས་ ཟླ་ངོ་གཅིག་གི་ནང་འཁོད་ཞིབ་དཔྱད་མཇུག་བསྡུ་དགོ།
+- 97 ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོ་དེ་ ཁྲིམས་ཀྱི་འདུན་སར་ངོ་བཅར་འབད་ཞིནམ་ལས་ སླར་ལོག་དོ་དམ་ནང་གཏང་པ་ཅིན་  ཁྲིམས་སྲུང་འགག་སྡེ་  ཡང་ན་  ཞིབ་དཔྱད་འགོ་དཔོན་ གང་ཞིག་གིས་ ཟླ་ངོ་གཅིག་གི་ནང་འཁོད་ཞིབ་དཔྱད་མཇུག་བསྡུ་དགོ།
 
-- ༩༨ དོན་ཚན་ ༩༧ པའི་ནང་གསལ་ལྟར་དུ་ ཞིབ་དཔྱད་འདི་ དགོས་མཁོའི་དུས་ཚོད་ཁར་མཇུག་ སྒྲིལ་མ་ཚུགས་པ་ཅིན་ ཁྲིམས་སྲུང་འགག་སྡེ་ ཡང་ན་ ཞིབ་དཔྱད་འགོ་དཔོན་གང་ཞིག་གིས་ ཁྲིམས་ཀྱི་འདུན་ས་ལུ་  ཞིབ་དཔྱད་མཇུག་བསྡུ་མ་ཚུགས་པའི་རྒྱུ་མཚན་དང་བཅསཔ་སྦེ་  ཨ་ ལོ་དེ་ངོ་བཅར་བཅུག་དགོ། དེའི་ཤུལ་ལས་ དུས་ཡུན་ཁ་སྐོང་གི་དོན་ལུ་ ཁྲིམས་ཀྱི་འདུན་ས་ དེ་གིས་  གཤམ་གསལ་ལས་མ་ལྷག་པར་  ཨ་ལོ་བཀག་ཉར་ནང་བཞག་ནིའི་དབང་ཆ་གནང་ ནི་འདི་ཡང་།
+- 98 དོན་ཚན་ ༩༧ པའི་ནང་གསལ་ལྟར་དུ་ ཞིབ་དཔྱད་འདི་ དགོས་མཁོའི་དུས་ཚོད་ཁར་མཇུག་ སྒྲིལ་མ་ཚུགས་པ་ཅིན་ ཁྲིམས་སྲུང་འགག་སྡེ་ ཡང་ན་ ཞིབ་དཔྱད་འགོ་དཔོན་གང་ཞིག་གིས་ ཁྲིམས་ཀྱི་འདུན་ས་ལུ་  ཞིབ་དཔྱད་མཇུག་བསྡུ་མ་ཚུགས་པའི་རྒྱུ་མཚན་དང་བཅསཔ་སྦེ་  ཨ་ ལོ་དེ་ངོ་བཅར་བཅུག་དགོ། དེའི་ཤུལ་ལས་ དུས་ཡུན་ཁ་སྐོང་གི་དོན་ལུ་ ཁྲིམས་ཀྱི་འདུན་ས་ དེ་གིས་  གཤམ་གསལ་ལས་མ་ལྷག་པར་  ཨ་ལོ་བཀག་ཉར་ནང་བཞག་ནིའི་དབང་ཆ་གནང་ ནི་འདི་ཡང་།
 
 - ཀ༽ གལ་སྲིད་ རན་ཚད་ལྡན་པའི་གཞི་གནད་ལུ་ངེས་ཤེས་འདྲོངས་པ་ཅིན་ བདུན་ཕྲག་ གཉིས་ ཡང་ན།
 
@@ -1536,11 +1534,11 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### འདྲི་རྩད་དང་ བརྟག་ཞིབ་ ཞིབ་དཔྱད།
 
-- ༩༩ འདྲི་རྩད་དང་ བརྟག་ཞིབ་ ཞིབ་དཔྱད་འབད་བའི་སྐབས་ལུ་ ཨ་ལོ་དེ་ གཤམ་དོན་ལྟར་དུ་
+- 99 འདྲི་རྩད་དང་ བརྟག་ཞིབ་ ཞིབ་དཔྱད་འབད་བའི་སྐབས་ལུ་ ཨ་ལོ་དེ་ གཤམ་དོན་ལྟར་དུ་
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
-༢༧
+27
 
 [[END OF PAGE 61]]
 
@@ -1584,19 +1582,19 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### རྩད་འཚོལ།
 
-- ༡༠༠ ཨ་ལོ་ཅིག་  ནམ་ཞིག་ཨིན་རུང་  ཨ་ལོའི་རང་གསང་ལུ་བརྩི་བཀུར་ཐོག་  ཁྲིམས་སྐྱོང་འགོ་ དཔོན་དེ་གིས་ ཕོ་ལུ་ཕོ་དང་མོ་ལུ་མོ་ཅིག་གིས་རང་ རྩད་འཚོལ་འབད་དགོ།
+- 100 ཨ་ལོ་ཅིག་  ནམ་ཞིག་ཨིན་རུང་  ཨ་ལོའི་རང་གསང་ལུ་བརྩི་བཀུར་ཐོག་  ཁྲིམས་སྐྱོང་འགོ་ དཔོན་དེ་གིས་ ཕོ་ལུ་ཕོ་དང་མོ་ལུ་མོ་ཅིག་གིས་རང་ རྩད་འཚོལ་འབད་དགོ།
 
 ### བཀག་ཉར།
 
-- ༡༠༡ དབྱེ་བཤེར་ཡུན་འགྱངས་ལུས་པའི་ཨ་ལོ་དེ་ བཀག་ཉར་  ཡང་ན་ བཅོས་ཁང་ནང་ གཏང་ནི་འདི་  འོས་འཚམས་ལྡན་པའི་དུས་ཡུན་ཐུང་ཀུའི་ཐོག་ལས་དང་  མཐའ་མཇུག་ གི་ཐབས་ལམ་ཁོ་ན་སྦེ་ལག་ལེན་འཐབ་དགོ།
+- 101 དབྱེ་བཤེར་ཡུན་འགྱངས་ལུས་པའི་ཨ་ལོ་དེ་ བཀག་ཉར་  ཡང་ན་ བཅོས་ཁང་ནང་ གཏང་ནི་འདི་  འོས་འཚམས་ལྡན་པའི་དུས་ཡུན་ཐུང་ཀུའི་ཐོག་ལས་དང་  མཐའ་མཇུག་ གི་ཐབས་ལམ་ཁོ་ན་སྦེ་ལག་ལེན་འཐབ་དགོ།
 
-- ༡༠༢ གལ་སྲིད་ཁྲིམས་ཀྱི་འདུན་ས་ལས་ ཨ་ལོའི་མཐའ་དོན་ཁོ་ན་ལུ་ འོས་འབབ་ཡོདཔ་སྦེ་ གཟིགས་པ་ཅིན་ ནམ་ཅིག་ཨིན་རུང་འབད་ཚུགས་ཡོད་ཚེ་ དབྱེ་བཤེར་ཡུན་འགྱངས་ལུས་ པའི་བཀག་ཉར་དེ་  ལྟ་སྐྱོང་དམ་ཟབ་  ཚབས་ཆེན་གྱི་སྐྱོང་གཞག་  ཡང་ན་  ཁྱིམ་  ཡང་ ན་ཤེས་ཡོན་གྱི་ས་ཁོངས་ནང་ ཡང་ན་ཕམ་དང་གཅིག་ཁར་བཞག་ནི་ལ་སོགས་པ་ གདམ་ཁ་ ཡོད་པའི་ཐབས་ལམ་འདི་གིས་ ཚབ་མ་སྦེ་བཙུགས་ཆོག།
+- 102 གལ་སྲིད་ཁྲིམས་ཀྱི་འདུན་ས་ལས་ ཨ་ལོའི་མཐའ་དོན་ཁོ་ན་ལུ་ འོས་འབབ་ཡོདཔ་སྦེ་ གཟིགས་པ་ཅིན་ ནམ་ཅིག་ཨིན་རུང་འབད་ཚུགས་ཡོད་ཚེ་ དབྱེ་བཤེར་ཡུན་འགྱངས་ལུས་ པའི་བཀག་ཉར་དེ་  ལྟ་སྐྱོང་དམ་ཟབ་  ཚབས་ཆེན་གྱི་སྐྱོང་གཞག་  ཡང་ན་  ཁྱིམ་  ཡང་ ན་ཤེས་ཡོན་གྱི་ས་ཁོངས་ནང་ ཡང་ན་ཕམ་དང་གཅིག་ཁར་བཞག་ནི་ལ་སོགས་པ་ གདམ་ཁ་ ཡོད་པའི་ཐབས་ལམ་འདི་གིས་ ཚབ་མ་སྦེ་བཙུགས་ཆོག།
 
-- ༡༠༣ དོ་དམ་ནང་སྡོད་པའི་བསྒང་  ཨ་ལོ་འདི་  གཅེས་སྐྱོང་དང་  ཉེན་སྐྱོབ་  སྐྱེས་ལོ་དང་  ཕོ་མོ་ གཤིས་སྤྱོད་དང་འབྲེལ་བའི་ཨ་ལོ་དེ་ལུ་མཁོ་གལ་སྲིད་པའི་མི་སྡེ་དང་  ཤེས་ཡོན་  སྦྱོང་བརྡར་
+- 103 དོ་དམ་ནང་སྡོད་པའི་བསྒང་  ཨ་ལོ་འདི་  གཅེས་སྐྱོང་དང་  ཉེན་སྐྱོབ་  སྐྱེས་ལོ་དང་  ཕོ་མོ་ གཤིས་སྤྱོད་དང་འབྲེལ་བའི་ཨ་ལོ་དེ་ལུ་མཁོ་གལ་སྲིད་པའི་མི་སྡེ་དང་  ཤེས་ཡོན་  སྦྱོང་བརྡར་
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
-༢༨
+28
 
 [[END OF PAGE 63]]
 
@@ -1638,15 +1636,15 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### བཙན་དབང་འཛིན་བཟུང་།
 
-- ༡༠༤ བཅའ་ཁྲིམས་འདི་དང་འཁྲིལ་ཏེ་མ་གཏོགས་ ཨ་ལོ་གང་ཞིག་ཨིན་རུང་ འཛིན་བཟུང་ ཡང་ན་ བཀག་ཉར་གྱི་དབང་ལུ་འདུ་ནི་མེད།
+- 104 བཅའ་ཁྲིམས་འདི་དང་འཁྲིལ་ཏེ་མ་གཏོགས་ ཨ་ལོ་གང་ཞིག་ཨིན་རུང་ འཛིན་བཟུང་ ཡང་ན་ བཀག་ཉར་གྱི་དབང་ལུ་འདུ་ནི་མེད།
 
 ### ཨ་ལོ་འཛིན་བཟུང་།
 
-- ༡༠༥ ཁྲིམས་སྲུང་འགག་སྡེའི་འགན་འཛིན་པ་དེ་གིས་  ཨ་ལོ་ཅིག་གིས་གནོད་འགེལ་འཐབ་ལུགས་ ཀྱི་ཉེས་ཁག་སྐོར་ལས་ ནམ་རང་ཨིན་རུང་ དྲང་ཁྲིམས་ ཡང་ན་བདེ་སྲུང་གི་དོན་ལུ་དགོ་པའི་ སྐབས་ལུ་མ་གཏོགས་ འཛིན་བཟུང་མ་འབད་བར་ འོས་འཚམས་ག་ཏེ་ཡོད་སར་ འབྲེལ་བ་ འཐབ་ནིའི་བརྩོན་ཤུགས་བསྐྱེད་དགོ།
+- 105 ཁྲིམས་སྲུང་འགག་སྡེའི་འགན་འཛིན་པ་དེ་གིས་  ཨ་ལོ་ཅིག་གིས་གནོད་འགེལ་འཐབ་ལུགས་ ཀྱི་ཉེས་ཁག་སྐོར་ལས་ ནམ་རང་ཨིན་རུང་ དྲང་ཁྲིམས་ ཡང་ན་བདེ་སྲུང་གི་དོན་ལུ་དགོ་པའི་ སྐབས་ལུ་མ་གཏོགས་ འཛིན་བཟུང་མ་འབད་བར་ འོས་འཚམས་ག་ཏེ་ཡོད་སར་ འབྲེལ་བ་ འཐབ་ནིའི་བརྩོན་ཤུགས་བསྐྱེད་དགོ།
 
-- ༡༠༦ ཨ་ལོ་དེ་ འཛིན་བཟུང་མ་འབད་བའི་ཧེ་མར་ འཛིན་བཟུང་གི་གཞི་གནད་ཚུ་གི་སྐོར་ལས་ བརྡ་དོན་སྤྲོད་དགོ།  ཁྲིམས་སྲུང་འགག་སྡེ་དེ་གིས་  ཡུན་འགྱངས་མེད་པར་  གང་མགྱོགས་ གང་ཐུབ་ཀྱི་སྒོ་ལས་ ཨ་ལོའི་རྩོད་ཉོགས་ཚུ་ བརྩི་འཇོག་འབད་དགོ།
+- 106 ཨ་ལོ་དེ་ འཛིན་བཟུང་མ་འབད་བའི་ཧེ་མར་ འཛིན་བཟུང་གི་གཞི་གནད་ཚུ་གི་སྐོར་ལས་ བརྡ་དོན་སྤྲོད་དགོ།  ཁྲིམས་སྲུང་འགག་སྡེ་དེ་གིས་  ཡུན་འགྱངས་མེད་པར་  གང་མགྱོགས་ གང་ཐུབ་ཀྱི་སྒོ་ལས་ ཨ་ལོའི་རྩོད་ཉོགས་ཚུ་ བརྩི་འཇོག་འབད་དགོ།
 
-- ༡༠༧ ཉེས་ཅན་གྱི་ཉེས་འཛུགས་གུར་ འཛིན་བཟུང་འབད་བའི་ཨ་ལོ་འདི་ཡང་།
+- 107 ཉེས་ཅན་གྱི་ཉེས་འཛུགས་གུར་ འཛིན་བཟུང་འབད་བའི་ཨ་ལོ་འདི་ཡང་།
 
 - ཀ༽ ཨ་ལོའི་ཕ་མའམ་  བཟའ་ཚང་ནང་མི་  ཁྲིམས་མཐུན་འཚོ་འཛིན་  ཡང་ན་ཁྲིམས་ མཐུན་ངོ་ཚབ་བརྒྱུད་དེ་ཉེས་འཛུགས་སྐོར་ དུས་ཐོག་གམ་ ཐད་ཀར་དུ་བརྡ་དོན་ སྤྲོད་དགོཔ་དང་།
 
@@ -1656,7 +1654,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
-༢༩
+29
 
 [[END OF PAGE 65]]
 
@@ -1686,25 +1684,25 @@ The Child Care and Protection Act of Bhutan 2011
 
 [[START OF PAGE 67]]
 
-- ༡༠༨ སྐྱེས་ལོ་  ཡང་ན་  གནས་སྟངས་ཚུ་དམིགས་བསལ་སྦེ་བརྩིས་ཞིནམ་ལས་  ཨ་ལོའི་མཐའ་ དོན་ཁོ་ན་ལུ་བརྩི་འཇོག་མེན་ན་མ་གཏོགས་ ཉེས་ཅན་གྱི་ཉེས་འཛུགས་ཐོག་ འཛིན་བཟུང་ འབད་བའི་ཨ་ལོ་འདི་ ཁྲིམས་སྲུང་འགག་སྡེ་དེ་གིས་ དྲི་བའམ་ ཞིབ་དཔྱད་འབད་བའི་ སྐབས་ལུ་ ཕ་མའམ་ བཟའ་ཚང་ནང་མི་ འཚོ་འཛིན་ ཡང་ན་ཁྲིམས་མཐུན་ངོ་ཚབ་དེ་གིས་ མཉམ་ཅིག་བཅར་དགོ།
+- 108 སྐྱེས་ལོ་  ཡང་ན་  གནས་སྟངས་ཚུ་དམིགས་བསལ་སྦེ་བརྩིས་ཞིནམ་ལས་  ཨ་ལོའི་མཐའ་ དོན་ཁོ་ན་ལུ་བརྩི་འཇོག་མེན་ན་མ་གཏོགས་ ཉེས་ཅན་གྱི་ཉེས་འཛུགས་ཐོག་ འཛིན་བཟུང་ འབད་བའི་ཨ་ལོ་འདི་ ཁྲིམས་སྲུང་འགག་སྡེ་དེ་གིས་ དྲི་བའམ་ ཞིབ་དཔྱད་འབད་བའི་ སྐབས་ལུ་ ཕ་མའམ་ བཟའ་ཚང་ནང་མི་ འཚོ་འཛིན་ ཡང་ན་ཁྲིམས་མཐུན་ངོ་ཚབ་དེ་གིས་ མཉམ་ཅིག་བཅར་དགོ།
 
-- ༡༠༩ འཛིན་བཟུང་འབད་ཞིནམ་ལས་ ཨ་ལོ་དེ་ ཁུ་སིམ་སིམ་སྦེ་སྡོད་ནི་དང་ སྒྲུབ་བྱེད་བྱིན་ནི་ ཡང་ན་ ཉེས་སྐྱོན་ཁས་ལེན་འབད་ནི་ལུ་ བཙན་བསྐུལ་འབད་ནི་མེད་པའི་ཐོབ་དབང་ཡོད།
+- 109 འཛིན་བཟུང་འབད་ཞིནམ་ལས་ ཨ་ལོ་དེ་ ཁུ་སིམ་སིམ་སྦེ་སྡོད་ནི་དང་ སྒྲུབ་བྱེད་བྱིན་ནི་ ཡང་ན་ ཉེས་སྐྱོན་ཁས་ལེན་འབད་ནི་ལུ་ བཙན་བསྐུལ་འབད་ནི་མེད་པའི་ཐོབ་དབང་ཡོད།
 
 ### ཉེས་འཁྲིའི་སྐྱེས་ལོ་མན་ཆད་ཀྱི་ཨ་ལོ་འཛིན་བཟུང་།
 
-- ༡༡༠ འཛིན་བཟུང་འབད་ཡོདཔ་ ཡང་ན་ དོ་དམ་འོག་ལུ་བཞག་ཡོད་པའི་ཨ་ལོ་དེ་ སྐྱེས་ལོ་ ༡༢ དང་དེའི་མན་ཆད་ཨིན་པ་ཅིན་ དེ་ལུགས་ཀྱི་འཛིན་བཟུང་འབད་མི་ ཡང་ན་ ཨ་ལོ་དེ་ དོ་དམ་ འོག་ལུ་བཞག་ཡོད་པའི་དབང་འཛིན་དེ་གིས་  དུས་འཕྲལ་ལས་  རང་སོའི་ཕ་མའམ་  འཚོ་ འཛིན་ཚུ་གི་དམ་འཛིན་གྱི་དོན་ལུ་  ཨ་ལོ་དེ་གློད་གྲོལ་གཏང་དགོཔ་དང་  ཡང་ན་  རང་སོའི་ ཕ་མའམ་  འཚོ་འཛིན་ཚུ་མེད་པའི་འབྲེལ་གནད་སྐབས་  ཨ་ལོའི་ཉེ་ཚན་བཅར་ཤོས་ཅིག་ལུ་ སྤྲོད་དགོ།
+- 110 འཛིན་བཟུང་འབད་ཡོདཔ་ ཡང་ན་ དོ་དམ་འོག་ལུ་བཞག་ཡོད་པའི་ཨ་ལོ་དེ་ སྐྱེས་ལོ་ ༡༢ དང་དེའི་མན་ཆད་ཨིན་པ་ཅིན་ དེ་ལུགས་ཀྱི་འཛིན་བཟུང་འབད་མི་ ཡང་ན་ ཨ་ལོ་དེ་ དོ་དམ་ འོག་ལུ་བཞག་ཡོད་པའི་དབང་འཛིན་དེ་གིས་  དུས་འཕྲལ་ལས་  རང་སོའི་ཕ་མའམ་  འཚོ་ འཛིན་ཚུ་གི་དམ་འཛིན་གྱི་དོན་ལུ་  ཨ་ལོ་དེ་གློད་གྲོལ་གཏང་དགོཔ་དང་  ཡང་ན་  རང་སོའི་ ཕ་མའམ་  འཚོ་འཛིན་ཚུ་མེད་པའི་འབྲེལ་གནད་སྐབས་  ཨ་ལོའི་ཉེ་ཚན་བཅར་ཤོས་ཅིག་ལུ་ སྤྲོད་དགོ།
 
-- ༡༡༡ དོན་ཚན་ ༡༡༠ པའི་ནང་དོན་ལུ་གང་ཡང་མ་བལྟ་བར་ ཕ་མའམ་ འཚོ་འཛིན་ལུ་ གྱོང་ རྒུད་ཀྱི་འཐུས་སྤྲོད་དགོཔ་སྦེ་ཁྲིམས་ཀྱི་འདུན་ས་དེ་གིས་བཀའ་རྒྱ་གནང་ནི།
+- 111 དོན་ཚན་ ༡༡༠ པའི་ནང་དོན་ལུ་གང་ཡང་མ་བལྟ་བར་ ཕ་མའམ་ འཚོ་འཛིན་ལུ་ གྱོང་ རྒུད་ཀྱི་འཐུས་སྤྲོད་དགོཔ་སྦེ་ཁྲིམས་ཀྱི་འདུན་ས་དེ་གིས་བཀའ་རྒྱ་གནང་ནི།
 
 ### ཨ་ལོ་དོ་དམ་ནང་བཞག་ནིའི་བྱ་བའི་གནད་སྤྱོད།
 
-- ༡༡༢ ཨ་ལོ་ཅིག་དོ་དམ་ནང་བཞག་པའི་སྐབས་ལུ་ ཁྲིམས་སྲུང་འགག་སྡེའི་འགན་འཛིན་པའམ་ ཁྲིམས་སྐྱོང་འགོ་དཔོན་གང་རུང་ཅིག་གིས་འབད་དགོཔ་འདི་ཡང་།
+- 112 ཨ་ལོ་ཅིག་དོ་དམ་ནང་བཞག་པའི་སྐབས་ལུ་ ཁྲིམས་སྲུང་འགག་སྡེའི་འགན་འཛིན་པའམ་ ཁྲིམས་སྐྱོང་འགོ་དཔོན་གང་རུང་ཅིག་གིས་འབད་དགོཔ་འདི་ཡང་།
 
 - ཀ༽ ཨ་ལོ་དེ་གིས་ཧ་གོ་བའི་སྐད་ཡིག་ཅིག་ནང་ དོ་དམ་ནང་བཞག་དགོ་པའི་རྒྱུ་མཚན་དེ་ ཨ་ལོ་དེ་ལུ་གསལ་བཤད་འབད་ནི་དང་།
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
-༣༠
+30
 
 [[END OF PAGE 67]]
 
@@ -1750,15 +1748,15 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### ལག་ལྕགས་བཀལ་མ་ཆོག་པ།
 
-- ༡༡༣ སྐྱེས་ལོ་ ༡༢  དང་དེའི་མན་ཆད་ཨ་ལོ་འདི་ལུ་ ལག་ལྕགས་གང་ཡང་ལག་ལེན་འཐབ་ནི་ མེདཔ་དང་ དེའི་ལག་ལེན་ལུ་མཁོ་བའི་ དམིགས་བསལ་གྱི་སྐབས་དོན་རེ་འཐོན་པ་ཅིན་ སྐྱེས་ལོ་ ༡༢ ཡན་ཆད་ཀྱི་ཨ་ལོ་རྐྱངམ་ཅིག་ལུ་ ལག་ལྕགས་ཚུ་ལག་ལེན་འཐབ་ཆོག།
+- 113 སྐྱེས་ལོ་ ༡༢  དང་དེའི་མན་ཆད་ཨ་ལོ་འདི་ལུ་ ལག་ལྕགས་གང་ཡང་ལག་ལེན་འཐབ་ནི་ མེདཔ་དང་ དེའི་ལག་ལེན་ལུ་མཁོ་བའི་ དམིགས་བསལ་གྱི་སྐབས་དོན་རེ་འཐོན་པ་ཅིན་ སྐྱེས་ལོ་ ༡༢ ཡན་ཆད་ཀྱི་ཨ་ལོ་རྐྱངམ་ཅིག་ལུ་ ལག་ལྕགས་ཚུ་ལག་ལེན་འཐབ་ཆོག།
 
 ### དྲང་དཔོན་སྐུ་མདུན་ངོ་སྟོན།
 
-- ༡༡༤ བཀའ་འཕྲིན་ཡོད་མེད་གང་ལྟར་ཡང་ ཨ་ལོ་གང་ཞིག་འཛིན་བཟུང་ཐོག་དོ་དམ་ལུ་ཡོད་མི་དེ་ འཛིན་བཟུང་འབད་ཞིནམ་ལས་ཆུ་ཚོད་ཉེར་བཞིའི་ནང་འཁོད་ ཁྲིམས་ཀྱི་འདུན་སར་ངོ་སྟོན་ ཕུལ་དགོཔ་ཨིན་རུང་ འཛིན་བཟུང་གི་ས་གནས་ལས་ འགྲུལ་བསྐྱོད་ལུ་མཁོ་གལ་ཆེ་བའི་དུས་ ཡུན་དང་ གཞུང་གི་ངལ་གསོ་བརྩི་ནི་མེད།
+- 114 བཀའ་འཕྲིན་ཡོད་མེད་གང་ལྟར་ཡང་ ཨ་ལོ་གང་ཞིག་འཛིན་བཟུང་ཐོག་དོ་དམ་ལུ་ཡོད་མི་དེ་ འཛིན་བཟུང་འབད་ཞིནམ་ལས་ཆུ་ཚོད་ཉེར་བཞིའི་ནང་འཁོད་ ཁྲིམས་ཀྱི་འདུན་སར་ངོ་སྟོན་ ཕུལ་དགོཔ་ཨིན་རུང་ འཛིན་བཟུང་གི་ས་གནས་ལས་ འགྲུལ་བསྐྱོད་ལུ་མཁོ་གལ་ཆེ་བའི་དུས་ ཡུན་དང་ གཞུང་གི་ངལ་གསོ་བརྩི་ནི་མེད།
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
-༣༡
+31
 
 [[END OF PAGE 69]]
 
@@ -1796,7 +1794,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### གློད་གྲོལ་དང་གན་རྒྱ།
 
-- ༡༡༥ གཤམ་དོན་ལྟར་ཨིན་པ་ཅིན་ ཞིབ་དཔྱད་དང་བཅས་པའི་རྩོད་བཤེར་གྱི་གནས་འབབ་གང་ ཞིག་གི་སྐབས་ལུ་ཨིན་རུང་ ཁྲིམས་ཀྱི་འདུན་ས་དེ་གིས་ ཕ་མའམ་ འཚོ་འཛིན་གང་ཞིག་གི་ གཅེས་སྐྱོང་འོག་ལུ་  དོ་དམ་འོག་ལུ་ཡོད་པའི་ཨ་ལོ་དེ་  གློད་གྲོལ་ཐོག་ལུ་གཏང་ཆོག་པ་འདི་
+- 115 གཤམ་དོན་ལྟར་ཨིན་པ་ཅིན་ ཞིབ་དཔྱད་དང་བཅས་པའི་རྩོད་བཤེར་གྱི་གནས་འབབ་གང་ ཞིག་གི་སྐབས་ལུ་ཨིན་རུང་ ཁྲིམས་ཀྱི་འདུན་ས་དེ་གིས་ ཕ་མའམ་ འཚོ་འཛིན་གང་ཞིག་གི་ གཅེས་སྐྱོང་འོག་ལུ་  དོ་དམ་འོག་ལུ་ཡོད་པའི་ཨ་ལོ་དེ་  གློད་གྲོལ་ཐོག་ལུ་གཏང་ཆོག་པ་འདི་
 
 ཡང་།
 
@@ -1806,7 +1804,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### གློད་གྲོལ་བཀའ་རྒྱ་ལུ་མ་གནས་པ།
 
-- ༡༡༦ གལ་སྲིད་ཨ་ལོ་ཅིག་གིས་ བཀའ་རྒྱ་གང་རུང་ཅིག་ལུ་མ་གནས་པ་ཅིན་ ཨ་ལོ་དེ་གིས་བཀའ་ རྒྱ་དེ་ལུ་མ་གནས་པའི་རྒྱུ་མཚན་ཚུ་གི་སྐོར་ལས་ འདྲི་རྩད་འབད་ཞིནམ་ལས་ ཁྲིམས་ཀྱི་ འདུན་ས་དེ་གིས་ གཤམ་གསལ་གྱི་དོན་ལུ་གྲོས་ཐག་བཅད་ཆོག་པ་འདི་ཡང་།
+- 116 གལ་སྲིད་ཨ་ལོ་ཅིག་གིས་ བཀའ་རྒྱ་གང་རུང་ཅིག་ལུ་མ་གནས་པ་ཅིན་ ཨ་ལོ་དེ་གིས་བཀའ་ རྒྱ་དེ་ལུ་མ་གནས་པའི་རྒྱུ་མཚན་ཚུ་གི་སྐོར་ལས་ འདྲི་རྩད་འབད་ཞིནམ་ལས་ ཁྲིམས་ཀྱི་ འདུན་ས་དེ་གིས་ གཤམ་གསལ་གྱི་དོན་ལུ་གྲོས་ཐག་བཅད་ཆོག་པ་འདི་ཡང་།
 
 - ཀ༽ གློད་གྲོལ་དེ་ཕྱིར་དབྱུང་ ཡང་ན།
 
@@ -1816,13 +1814,13 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### བསླབ་བྱའམ་ ཉེན་བརྡའི་ཐོག་ལས་གཏང་ཐངས།
 
-- ༡༡༧
+- 117
 
 གལ་སྲིད་ཨ་ལོ་དེ་ གཤམ་དོན་ལྟར་དུ་ཨིན་པ་ཅིན་ ཕ་མའམ་ བཟའ་ཚང་ནང་མི་ འཚོ་ འཛིན་ ཡང་ན་ཁྲིམས་མཐུན་གྱི་ངོ་ཚབ་ཚུ་དང་གཅིག་ཁར་ ཨ་ལོ་དེ་ལུ་བསླབ་བྱའམ་ ཉེན་ བརྡའི་ཐོག་ལུ་འགན་ལེན་གྲུབ་ཞིནམ་ལས་ ཁྲིམས་སྲུང་འགག་སྡེའི་འགན་འཛིན་པ་དེ་ གིས་ ཨ་ལོ་དེ་ཁྱིམ་ནང་འགྱོ་ནིའི་གནང་བ་བྱིན་ཆོག་པ་འདི་ཡང་།
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
-༣༢
+32
 
 [[END OF PAGE 71]]
 
@@ -1868,7 +1866,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 - ཀ༽ སྐྱེས་ལོ་ ༡༢ དང་དེའི་མན་ཆད་ ཡང་ན། ཁ༽ སྐྱེས་ལོ་ ༡༢ ཡན་ཆད་ དེ་འབདཝ་ད་ ཁྲིམས་འཆལ་གྱི་གནོད་འགེལ་ཨིན་ པ་དང་ ཨ་ལོ་དེ་ ཉེས་ལས་བསྐྱར་ཟློས་ཅན་མེན་པ།
 
-- ༡༡༨ བསླབ་བྱའམ་  ཉེན་བརྡ་  གློད་གྲོལ་ཐོག་ལུ་བཏང་བའི་ཤུལ་ལས་  ཨ་ལོ་འདི་ཁྱིམ་ནང་འགྱོ་ ནིའི་གནང་བ་བྱིན་ནིའི་གཏན་འཁེལ་བཟོ་བའི་སྐབས་ལུ་ འབྲེལ་ཡོད་དབང་འཛིན་དེ་ གཤམ་ གསལ་གྱི་སྐབས་དོན་ཚུ་ལུ་བརྩི་འཇོག་འབད་དགོཔ་འདི་ཡང་།
+- 118 བསླབ་བྱའམ་  ཉེན་བརྡ་  གློད་གྲོལ་ཐོག་ལུ་བཏང་བའི་ཤུལ་ལས་  ཨ་ལོ་འདི་ཁྱིམ་ནང་འགྱོ་ ནིའི་གནང་བ་བྱིན་ནིའི་གཏན་འཁེལ་བཟོ་བའི་སྐབས་ལུ་ འབྲེལ་ཡོད་དབང་འཛིན་དེ་ གཤམ་ གསལ་གྱི་སྐབས་དོན་ཚུ་ལུ་བརྩི་འཇོག་འབད་དགོཔ་འདི་ཡང་།
 
 - ཀ༽ ཉེས་འཛུགས་ཀྱི་ཉེས་ཚབས་ཆེ་ཆུང་དང་།
 
@@ -1880,7 +1878,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 - ཅ༽ མི་སྡེ་ལུ་འཇིགས་སྣང་གི་ཉེན་ཁ་ཡོད་མེད།
 
-- ༡༡༩ ཁྲིམས་ཀྱི་འདུན་ས་དེ་གིས་ ཨ་ལོའི་ཕ་མའམ་  འཚོ་འཛིན་གྱི་གཅེས་སྐྱོང་འོག་ལུ་ ཨ་ལོ་ དེ་དམ་གྲོལ་བཏང་བའི་སྐབས་ལུ་  གཅིག་གམ་  དེ་ལས་ལྷག་པའི་གཤམ་གསལ་གྱི་གནས་ སྟངས་ཚུ་བཀལ་ཆོག་པ་འདི་ཡང་།
+- 119 ཁྲིམས་ཀྱི་འདུན་ས་དེ་གིས་ ཨ་ལོའི་ཕ་མའམ་  འཚོ་འཛིན་གྱི་གཅེས་སྐྱོང་འོག་ལུ་ ཨ་ལོ་ དེ་དམ་གྲོལ་བཏང་བའི་སྐབས་ལུ་  གཅིག་གམ་  དེ་ལས་ལྷག་པའི་གཤམ་གསལ་གྱི་གནས་ སྟངས་ཚུ་བཀལ་ཆོག་པ་འདི་ཡང་།
 
 - ཀ༽ ཁྲིམས་འདུན་གྱི་བཀའ་རྒྱ་ལྟར་ ཆེད་དུ་བཀོད་པའི་ས་གནས་དང་དུས་ཚོད་ཁར་ བཅར་ནི་ ཡང་ན།
 
@@ -1896,7 +1894,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
-༣༣
+33
 
 [[END OF PAGE 73]]
 
@@ -1928,29 +1926,29 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### ཁག་འགན་ཐོག་ལུ་གཏང་ཐངས།
 
-- ༡༢༠ གལ་སྲིད་ ཨ་ལོ་ཅིག་གིས་ལག་ལེན་འཐབ་པའི་གནོད་འགེལ་དེ་ ཉེས་པ་ཡང་ཕྲ་ཨིནམ་དང་ ཁྲིམས་ཀྱི་འདུན་ས་ལས་ འོས་འབབ་ཡོདཔ་སྦེ་གཟིགས་པ་ཅིན་ གནོད་འགེལ་ཧེང་བཀལ་མི་ འཐབ་ནི་དང་  ལེགས་སྤྱོད་ཀྱི་དོན་ལུ་  འགན་ལེན་པ་ཡོད་མེད་གང་ལྟར་ཡང་  ཨ་ལོ་དེ་གིས་ གན་རྒྱའི་ནང་གསལ་གྱི་ཁག་འགན་ལས་མ་འགལ་བར་ ཁྲིམས་འདུན་དེ་གིས་ ཨ་ལོ་གཏང་ ནིའི་བཀའ་རྒྱ་གནང་ཆོག་རུང་ དེ་ནང་ཆེད་དུ་བཀོད་དོན་ལྟར་ བཀའ་རྒྱ་གནང་བའི་ཚེས་ གྲངས་དེ་ལས་ལོ་ངོ་གཅིག་ལས་མ་བརྒལ་བའི་དེ་ལུགས་ཀྱི་དུས་ཡུན་སྐབས་ལུ་གནང་ཆོག།
+- 120 གལ་སྲིད་ ཨ་ལོ་ཅིག་གིས་ལག་ལེན་འཐབ་པའི་གནོད་འགེལ་དེ་ ཉེས་པ་ཡང་ཕྲ་ཨིནམ་དང་ ཁྲིམས་ཀྱི་འདུན་ས་ལས་ འོས་འབབ་ཡོདཔ་སྦེ་གཟིགས་པ་ཅིན་ གནོད་འགེལ་ཧེང་བཀལ་མི་ འཐབ་ནི་དང་  ལེགས་སྤྱོད་ཀྱི་དོན་ལུ་  འགན་ལེན་པ་ཡོད་མེད་གང་ལྟར་ཡང་  ཨ་ལོ་དེ་གིས་ གན་རྒྱའི་ནང་གསལ་གྱི་ཁག་འགན་ལས་མ་འགལ་བར་ ཁྲིམས་འདུན་དེ་གིས་ ཨ་ལོ་གཏང་ ནིའི་བཀའ་རྒྱ་གནང་ཆོག་རུང་ དེ་ནང་ཆེད་དུ་བཀོད་དོན་ལྟར་ བཀའ་རྒྱ་གནང་བའི་ཚེས་ གྲངས་དེ་ལས་ལོ་ངོ་གཅིག་ལས་མ་བརྒལ་བའི་དེ་ལུགས་ཀྱི་དུས་ཡུན་སྐབས་ལུ་གནང་ཆོག།
 
-- ༡༢༡ བཅའ་ཁྲིམས་འདིའི་ནང་གསལ་ལྟར་དུ་བཏང་བའི་ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོ་ཅིག་ གིས་ གནོད་འགེལ་གང་རུང་ཅིག་ལག་ལེན་འཐབ་པའམ་ ཁག་འགན་ཐོག་ལུ་བཏང་བའི་ དུས་ཡུན་དེའི་སྐབས་ལུ་ བཀའ་རྒྱ་དེ་ནང་བཀོད་པའི་ཆ་རྐྱེན་ལུ་མ་གནས་པ་ཅིན་ ཨ་ལོ་དེ་ འགོ་ཐོག་གནོད་འགེལ་གྱི་ཁྲིམས་ཚད་ཁ་སྐོང་སྦེ་ ལག་ལེན་འཐབ་པའི་གནོད་འགེལ་དེའི་ ཁྲིམས་ཚད་སྨིན་དགོ།
+- 121 བཅའ་ཁྲིམས་འདིའི་ནང་གསལ་ལྟར་དུ་བཏང་བའི་ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོ་ཅིག་ གིས་ གནོད་འགེལ་གང་རུང་ཅིག་ལག་ལེན་འཐབ་པའམ་ ཁག་འགན་ཐོག་ལུ་བཏང་བའི་ དུས་ཡུན་དེའི་སྐབས་ལུ་ བཀའ་རྒྱ་དེ་ནང་བཀོད་པའི་ཆ་རྐྱེན་ལུ་མ་གནས་པ་ཅིན་ ཨ་ལོ་དེ་ འགོ་ཐོག་གནོད་འགེལ་གྱི་ཁྲིམས་ཚད་ཁ་སྐོང་སྦེ་ ལག་ལེན་འཐབ་པའི་གནོད་འགེལ་དེའི་ ཁྲིམས་ཚད་སྨིན་དགོ།
 
 ### དམ་འཛིན་དང་ དོ་དམ།
 
-- ༡༢༢ ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོ་དེ་ འཛིན་བཟུང་འབད་དེ་གློད་གྲོལ་ཐོག་ལུ་མ་བཏང་ བའི་རིང་ ཁྲིམས་སྲུང་འགག་སྡེའི་ལས་ཚན་འགོ་དཔོན་གྱིས་ འདྲི་རྩད་དང་དབྱེ་བཤེར་འབད་ བའི་དུས་ཡུན་སྐབས་ དུས་ཡུན་དེའི་དོན་ལུ་ ཨ་ལོ་དེ་ དོ་དམ་ཁང་ ཡང་ན་ ཉེན་ཁ་མེད་ པའི་ས་གནས་ཅིག་ནང་བཞག་དགོ།
+- 122 ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོ་དེ་ འཛིན་བཟུང་འབད་དེ་གློད་གྲོལ་ཐོག་ལུ་མ་བཏང་ བའི་རིང་ ཁྲིམས་སྲུང་འགག་སྡེའི་ལས་ཚན་འགོ་དཔོན་གྱིས་ འདྲི་རྩད་དང་དབྱེ་བཤེར་འབད་ བའི་དུས་ཡུན་སྐབས་ དུས་ཡུན་དེའི་དོན་ལུ་ ཨ་ལོ་དེ་ དོ་དམ་ཁང་ ཡང་ན་ ཉེན་ཁ་མེད་ པའི་ས་གནས་ཅིག་ནང་བཞག་དགོ།
 
 ## ལེའུ་༩ པ། དབྱེ་བཤེར།
 
 ### ཁྲིམས་འདུན་གྱིས་སྟ་གོན་གྱི་འདྲི་རྩད།
 
-- ༡༢༣ ཁྲིམས་ཀྱི་འདུན་ས་ལུ་ ནམ་རྒྱུན་གྱི་སྙན་གསན་མ་མཛད་པའི་ཧེ་མར་ སྟ་གོན་གྱི་འདྲི་རྩད་ འགོ་འདྲེན་འཐབ་དགོ།
+- 123 ཁྲིམས་ཀྱི་འདུན་ས་ལུ་ ནམ་རྒྱུན་གྱི་སྙན་གསན་མ་མཛད་པའི་ཧེ་མར་ སྟ་གོན་གྱི་འདྲི་རྩད་ འགོ་འདྲེན་འཐབ་དགོ།
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
-༣༤
+34
 
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
 
-- The court during the preliminary inquiry shall:
+- 124. The court during the preliminary inquiry shall:
 
 (a) Establish whether the matter can be diverted before conducting actual adjudication proceeding;
 
@@ -1964,9 +1962,9 @@ The Child Care and Protection Act of Bhutan 2011
 
 (f) Determine  the  release  or  placement  of  the  child pending conclusion of the preliminary inquiry.
 
-- A preliminary inquiry may be held in a court or any other place suitable for the child. The inquiry shall be conducted in an informal manner by asking questions, interviewing persons at the inquiry and eliciting information.
+- 125. A preliminary inquiry may be held in a court or any other place suitable for the child. The inquiry shall be conducted in an informal manner by asking questions, interviewing persons at the inquiry and eliciting information.
 
-- The following person shall be present during the preliminary inquiry:
+- 126. The following person shall be present during the preliminary inquiry:
 
 (a) The child in conflict with law;
 
@@ -1996,19 +1994,15 @@ The Child Care and Protection Act of Bhutan 2011
 
 - ཆ༽ སྟ་གོན་གྱི་འདྲི་རྩད་མཇུག་དོན་ཡུན་འགྱངས་ལུས་པའི་ཨ་ལོ་དེའི་དམ་གྲོལ་ ཡང་ན་ བཞག་ས་གཏན་འཁེལ་མཛད་ནི།
 
-སྟ་གོན་གྱི་འདྲི་རྩད་ཅིག་  ཨ་ལོའི་དོན་ལུ་འོས་འབབ་ཡོད་པའི་ས་གནས་གཞན་གང་རུང་ཅིག་ ཡང་ན་ ཁྲིམས་ཀྱི་འདུན་ས་ཅིག་ནང་ འགོ་འདྲེན་འཐབ་ཆོག། དྲི་བ་བཀོད་ནི་དང་ འདྲི་རྩད་ ཐོག་ལུ་ མི་ངོ་ཚུ་ལུ་དྲི་བ་དྲིས་ལན་འབད་ནི་དང་ བརྡ་དོན་ལེན་པའི་ཐོག་ལུ་ སྒྲིགས་ཡངས་ རྣམ་གཞག་གི་སྒོ་ལས་ འདྲི་རྩད་འབད་དགོ།
+- 125 སྟ་གོན་གྱི་འདྲི་རྩད་ཅིག་  ཨ་ལོའི་དོན་ལུ་འོས་འབབ་ཡོད་པའི་ས་གནས་གཞན་གང་རུང་ཅིག་ ཡང་ན་ ཁྲིམས་ཀྱི་འདུན་ས་ཅིག་ནང་ འགོ་འདྲེན་འཐབ་ཆོག། དྲི་བ་བཀོད་ནི་དང་ འདྲི་རྩད་ ཐོག་ལུ་ མི་ངོ་ཚུ་ལུ་དྲི་བ་དྲིས་ལན་འབད་ནི་དང་ བརྡ་དོན་ལེན་པའི་ཐོག་ལུ་ སྒྲིགས་ཡངས་ རྣམ་གཞག་གི་སྒོ་ལས་ འདྲི་རྩད་འབད་དགོ།
 
-- སྟ་གོན་གྱི་འདྲི་རྩད་སྐབས་ལུ་ གཤམ་གསལ་གྱི་མི་ངོ་འཛོམས་ཐོག་འབད་དགོཔ་འདི་ཡང་།
+- 126 སྟ་གོན་གྱི་འདྲི་རྩད་སྐབས་ལུ་ གཤམ་གསལ་གྱི་མི་ངོ་འཛོམས་ཐོག་འབད་དགོཔ་འདི་ཡང་།
 
 - ཀ༽ ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོ་དེ་དང་།
 
 - ཁ༽ ཨ་ལོའི་ཕ་མའམ་ འཚོ་འཛིན་ ཡང་ན་ ཁྲིམས་མཐུན་ངོ་ཚབ།
 
 - ག༽ ཚོད་བརྟག་འགོ་དཔོན།
-
-125
-
-- 126
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
@@ -2024,19 +2018,19 @@ The Child Care and Protection Act of Bhutan 2011
 
 (f) Any person whose presence is deemed necessary.
 
-- The judge may exclude any of the persons to be present at the preliminary inquiry, if the presence of such person including the parents or guardian of a child is not in the best interest of the child.
+- 127. The judge may exclude any of the persons to be present at the preliminary inquiry, if the presence of such person including the parents or guardian of a child is not in the best interest of the child.
 
-- Information regarding a concerned child may be submitted at  the  preliminary  inquiry  by  any  person  who  possesses such information.
+- 128. Information regarding a concerned child may be submitted at  the  preliminary  inquiry  by  any  person  who  possesses such information.
 
-- A child, parents, member of the family, guardian or legal representative and the prosecutor or police, shall be given an  opportunity  to  question  any  person  giving  evidence regarding the child at the preliminary inquiry.
+- 129. A child, parents, member of the family, guardian or legal representative and the prosecutor or police, shall be given an  opportunity  to  question  any  person  giving  evidence regarding the child at the preliminary inquiry.
 
 ### Joint preliminary inquiry
 
-- If a child in respect of whom the holding of a preliminary inquiry is contemplated, is co-accused with one or more other  children,  then  a  joint  preliminary  inquiry  shall  be held. Where a joint preliminary inquiry is held, separate decisions may be made in respect of each child.
+- 130. If a child in respect of whom the holding of a preliminary inquiry is contemplated, is co-accused with one or more other  children,  then  a  joint  preliminary  inquiry  shall  be held. Where a joint preliminary inquiry is held, separate decisions may be made in respect of each child.
 
 ### Separate inquiry
 
-- Where  a  child  is  accused  of  an  offence  for  which  such child and any person who is not a child is under inquiry, separate inquiry shall be conducted for such child and the other person accused of an offence.
+- 131. Where  a  child  is  accused  of  an  offence  for  which  such child and any person who is not a child is under inquiry, separate inquiry shall be conducted for such child and the other person accused of an offence.
 
 The Child Care and Protection Act of Bhutan 2011
 
@@ -2076,15 +2070,15 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### Conducting adjudication proceeding
 
-- If  a  child  does  not  acknowledge  responsibility  for  the offence with which he is being charged, no further questions regarding such offence may be raised to the child and the prosecutor or the police may proceed for adjudication.
+- 132. If  a  child  does  not  acknowledge  responsibility  for  the offence with which he is being charged, no further questions regarding such offence may be raised to the child and the prosecutor or the police may proceed for adjudication.
 
-- No information furnished at a preliminary inquiry may be used in any subsequent proceeding before the court unless in the best interest of the child.
+- 133. No information furnished at a preliminary inquiry may be used in any subsequent proceeding before the court unless in the best interest of the child.
 
-- The judge shall keep the record of the preliminary inquiry.
+- 134. The judge shall keep the record of the preliminary inquiry.
 
 ### Release of child post preliminary inquiry
 
-- The  judge  may  release  a  child  into  the  care  of  parents, member of the family or guardian after preliminary inquiry upon the recommendation of the probation officer or any relevant authority considering relevant factors including:
+- 135. The  judge  may  release  a  child  into  the  care  of  parents, member of the family or guardian after preliminary inquiry upon the recommendation of the probation officer or any relevant authority considering relevant factors including:
 
 (a) The best interest of the child;
 
@@ -2118,7 +2112,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### སྟ་གོན་གྱི་འདྲི་རྩད་མཇུག་ལུ་ཨ་ལོ་དམ་གྲོལ།
 
-- 135 ཚོད་བརྟག་འགོ་དཔོན་  ཡང་ན་  འབྲེལ་ཡོད་དབང་འཛིན་གང་ཞིག་གིས་གྲོས་འདེབས་འབད་ ཞིནམ་ལས་ སྟ་གོན་གྱི་འདྲི་རྩད་མཇུག་བསྡུཝ་ད་ གཤམ་གསལ་གྱི་དངོས་འབྲེལ་དོན་ ཁུངས་ཚུ་བརྩི་འཇོག་འབད་དེ་  ཨ་ལོ་དེ་  ཕ་མའམ་ བཟའ་ཚང་ནང་མི་ ཡང་ན་འཚོ་འཛིན་ བཅས་ཀྱི་གཅེས་སྐྱོང་འོག་ལུ་ དྲང་དཔོད་དེ་གིས་དམ་གྲོལ་གཏང་དགོཔ་འདི་ཡང་།
+- 135 ཚོད་བརྟག་འགོ་དཔོན་  ཡང་ན་  འབྲེལ་ཡོད་དབང་འཛིན་གང་ཞིག་གིས་གྲོས་འདེབས་འབད་ ཞིནམ་ལས་ སྟ་གོན་གྱི་འདྲི་རྩད་མཇུག་བསྡུཝ་ད་ གཤམ་གསལ་གྱི་དངོས་འབྲེལ་དོན་ ཁུངས་ཚུ་བརྩི་འཇོག་འབད་དེ་  ཨ་ལོ་དེ་  ཕ་མའམ་ བཟའ་ཚང་ནང་མི་ ཡང་ན་འཚོ་འཛིན་ བཅས་ཀྱི་གཅེས་སྐྱོང་འོག་ལུ་ དྲང་དཔོན་དེ་གིས་དམ་གྲོལ་གཏང་དགོཔ་འདི་ཡང་།
 
 - ཀ༽ ཨ་ལོའི་མཐའ་དོན་ཁོ་ན་ ཡང་ན།
 
@@ -2150,7 +2144,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### Presumption of innocence
 
-- Every child alleged of having committed any penal offence shall:
+- 136. Every child alleged of having committed any penal offence shall:
 
 (a) Be presumed innocent until proven guilty according to law; and
 
@@ -2158,11 +2152,11 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### Show cause hearing
 
-- The Court may summon a child in conflict with the law along  with  other  parties  for  the  show  cause  hearing  in accordance with the Civil and Criminal Procedure Code of Bhutan.
+- 137. The Court may summon a child in conflict with the law along  with  other  parties  for  the  show  cause  hearing  in accordance with the Civil and Criminal Procedure Code of Bhutan.
 
 ### Proceedings
 
-- The proceeding of the child before a Court may, with due regard to the child's procedural rights, be conducted in an informal manner to encourage maximum participation by the child during the proceedings.
+- 138. The proceeding of the child before a Court may, with due regard to the child's procedural rights, be conducted in an informal manner to encourage maximum participation by the child during the proceedings.
 
 The Child Care and Protection Act of Bhutan 2011
 
@@ -2202,19 +2196,19 @@ The Child Care and Protection Act of Bhutan 2011
 
 [[START OF PAGE 84]]
 
-- The  proceeding  shall  be  conducive  to  the  best  interest of the child and shall be conducted in an atmosphere of understanding, which shall allow the child to participate therein and to express freely.
+- 139. The  proceeding  shall  be  conducive  to  the  best  interest of the child and shall be conducted in an atmosphere of understanding, which shall allow the child to participate therein and to express freely.
 
-- During the adjudication a child shall be accompanied by a parent, member of family, guardian or legal representative unless it is considered not to be in the best interest of the child, in particular, taking into accounts the age or situation of the child.
+- 140. During the adjudication a child shall be accompanied by a parent, member of family, guardian or legal representative unless it is considered not to be in the best interest of the child, in particular, taking into accounts the age or situation of the child.
 
-- If  the  parents  or  guardian  of  the  child  cannot  be  traced after  reasonable  efforts  and  considering  that  any  further delay would be prejudicial to the best interests of the child, the Court may dispense the requirement and conduct the proceeding accordingly.
+- 141. If  the  parents  or  guardian  of  the  child  cannot  be  traced after  reasonable  efforts  and  considering  that  any  further delay would be prejudicial to the best interests of the child, the Court may dispense the requirement and conduct the proceeding accordingly.
 
-- Where a child is not assisted by a parent or guardian, and such  child  requests  assistance,  an  independent  observer may, if such observer is available be included to accompany the child during the proceeding.
+- 142. Where a child is not assisted by a parent or guardian, and such  child  requests  assistance,  an  independent  observer may, if such observer is available be included to accompany the child during the proceeding.
 
-- The adjudication proceeding for cases relating to the child shall be in-camera.
+- 143. The adjudication proceeding for cases relating to the child shall be in-camera.
 
-- During  the  inquiry,  investigation  process  and  at  the adjudication  proceeding,  if  the  child  cannot  understand or  is  unable  to  comprehend  the  language  used,  the government shall provide free assistance of an interpreter.
+- 144. During  the  inquiry,  investigation  process  and  at  the adjudication  proceeding,  if  the  child  cannot  understand or  is  unable  to  comprehend  the  language  used,  the government shall provide free assistance of an interpreter.
 
-- During  the  miscellaneous  proceeding,  the  judge  shall inform the child of:-
+- 145. During  the  miscellaneous  proceeding,  the  judge  shall inform the child of:-
 
 The Child Care and Protection Act of Bhutan 2011
 
@@ -2264,9 +2258,9 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### Summary adjudication
 
-- The party to the suit can request for a summary adjudication to dispose off a case when the child pleads guilty. However, the Court shall not dispose the case until the prosecution to the full satisfaction of the Court has established proof beyond reasonable doubt.
+- 147. The party to the suit can request for a summary adjudication to dispose off a case when the child pleads guilty. However, the Court shall not dispose the case until the prosecution to the full satisfaction of the Court has established proof beyond reasonable doubt.
 
-- On proceeding to hear and decide the charge summarily, the Court shall:
+- 148. On proceeding to hear and decide the charge summarily, the Court shall:
 
 (a) Reduce the charge and the judgment in writing; and
 
@@ -2274,7 +2268,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### Dispensing with attendance of child
 
-- If at any stages of the adjudication proceeding, a judge is
+- 149. If at any stages of the adjudication proceeding, a judge is
 
 The Child Care and Protection Act of Bhutan 2011
 
@@ -2326,17 +2320,17 @@ satisfied that the attendance of the child is not essential for the purpose of h
 
 ### Separate Hearing
 
-- Where a child is accused of an offence for which such child and any person who is not a child have been charged, the Court shall direct separate adjudications for such child and the other person accused of a crime.
+- 150. Where a child is accused of an offence for which such child and any person who is not a child have been charged, the Court shall direct separate adjudications for such child and the other person accused of a crime.
 
 ### Legal representative
 
-- A child who is in conflict with the law shall have the right to a legal representative.
+- 151. A child who is in conflict with the law shall have the right to a legal representative.
 
-- A child shall have the right to give instructions to a legal representative  in  the  language  of  the  child's  choice,  with the assistance of an interpreter whenever necessary.
+- 152. A child shall have the right to give instructions to a legal representative  in  the  language  of  the  child's  choice,  with the assistance of an interpreter whenever necessary.
 
 ### Duty of the legal representative
 
-- A legal representative of a child shall:
+- 153. A legal representative of a child shall:
 
 (a) Explain  to  the  child,  the  child's  rights  and  duties under the law;
 
@@ -2388,11 +2382,11 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### Cross-examination of witness
 
-- A child shall have the right to examine or have examined adverse witnesses, and obtain the participation and examination of witnesses on the child's behalf by a parent, member of family or guardian.
+- 154. A child shall have the right to examine or have examined adverse witnesses, and obtain the participation and examination of witnesses on the child's behalf by a parent, member of family or guardian.
 
 ### Subpoena
 
-- The Court may:
+- 155. The Court may:
 
 (a) Subpoena any person whose presence is  necessary for the benefit of the child;
 
@@ -2402,13 +2396,13 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### Separate conveyance
 
-- Where a child is taken to and from the Court, the child shall be transported in a separate conveyance from that of adult offenders.
+- 156. Where a child is taken to and from the Court, the child shall be transported in a separate conveyance from that of adult offenders.
 
 ## Chapter 10 Disposition
 
 ### Disposition
 
-- The  Court  shall  take  into  account  any  information  that is  available  about  the  child's  age,  emotional,  mental  and intellectual maturity, antecedents and circumstances before awarding the judgment.
+- 157. The  Court  shall  take  into  account  any  information  that is  available  about  the  child's  age,  emotional,  mental  and intellectual maturity, antecedents and circumstances before awarding the judgment.
 
 The Child Care and Protection Act of Bhutan 2011
 
@@ -2434,15 +2428,13 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### སྐྱེལ་འདྲེན་སོ་སོ།
 
-156
+- 156 ཨ་ལོ་འདི་ ཁྲིམས་ཀྱི་འདུན་སར་ལེནམ་དང་ སྤྲོད་པའི་སྐབས་ལུ་ ཨ་ལོ་དེ་ ན་ཚོད་ལོན་ མི་གནོད་འགེལ་པ་དེ་དང་ སྐྱེལ་འདྲེན་སོ་སོའི་ནང་གཏང་དགོ།
+
+## ལེའུ་༡༠ པ། དགོངས་ཡངས།
 
 ### དགོངས་ཡངས།
 
-- 157 ཁྲིམས་ཀྱི་འདུན་ས་དེ་གིས་ འཁྲུན་ཆོད་མ་གནང་བའི་ཧེ་མར་ ཨ་ལོའི་སྐྱེས་ལོ་དང་ ཚོར་སྣང་ དྲན་ཤེས་  བློ་རིག་ལ་སོགས་པའི་ན་ཚོད་སྨིན་པ་ཡིན་མིན་  ཧེ་མ་བྱུང་བྱུངམ་དང་སྐབས་དོན་ ཚུ་གི་སྐོར་ལས་ ཐོབ་སྲིད་པའི་བརྡ་དོན་གང་རུང་བརྩི་འཇོག་གནང་དགོོ།
-
-ཨ་ལོ་འདི་ ཁྲིམས་ཀྱི་འདུན་སར་ལེནམ་དང་ སྤྲོད་པའི་སྐབས་ལུ་ ཨ་ལོ་དེ་ ན་ཚོད་ལོན་ མི་གནོད་འགེལ་པ་དེ་དང་ སྐྱེལ་འདྲེན་སོ་སོའི་ནང་གཏང་དགོ།
-
-## ལེའུ་༡༠ པ། དགོངས་ཡངས།
+- 157 ཁྲིམས་ཀྱི་འདུན་ས་དེ་གིས་ འཁྲུན་ཆོད་མ་གནང་བའི་ཧེ་མར་ ཨ་ལོའི་སྐྱེས་ལོ་དང་ ཚོར་སྣང་ དྲན་ཤེས་  བློ་རིག་ལ་སོགས་པའི་ན་ཚོད་སྨིན་པ་ཡིན་མིན་  ཧེ་མ་བྱུང་བྱུངམ་དང་སྐབས་དོན་ ཚུ་གི་སྐོར་ལས་ ཐོབ་སྲིད་པའི་བརྡ་དོན་གང་རུང་བརྩི་འཇོག་གནང་དགོ།
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
@@ -2452,7 +2444,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 [[START OF PAGE 92]]
 
-- In  addition  to  Section  157  in  sentencing  a  child  for  an offence, a court shall have regard to:
+- 158. In  addition  to  Section  157  in  sentencing  a  child  for  an offence, a court shall have regard to:
 
 (a) Subject to this Act, the general principles applying to the sentencing of all persons;
 
@@ -2462,7 +2454,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 (d) The child's previous deviant records;
 
-(e) Any information  about  the  child,  including  a  presentence report;
+(e) Any information  about  the  child,  including  a  pre-sentence report;
 
 (f) Any considerations relating to programs and services established for the child in conflict with law;
 
@@ -2472,9 +2464,9 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### Compensation
 
-- The Court may order the child sentenced for an offence to pay appropriate compensatory damages in addition to the sentence or in lieu of the sentence.
+- 159. The Court may order the child sentenced for an offence to pay appropriate compensatory damages in addition to the sentence or in lieu of the sentence.
 
-- No compensation to the victim shall be waived except by the victim or by the order of the Court, if the child or the parents are not in position to pay the ordered compensation.
+- 160. No compensation to the victim shall be waived except by the victim or by the order of the Court, if the child or the parents are not in position to pay the ordered compensation.
 
 The Child Care and Protection Act of Bhutan 2011
 
@@ -2522,19 +2514,19 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### Default on payment of compensation
 
-- An amount of compensation ordered to be paid under this Act, and any amount of costs ordered by the Court to be paid, is a debt owed by the parents or guardian to the person in whose favour the order is made.
+- 161. An amount of compensation ordered to be paid under this Act, and any amount of costs ordered by the Court to be paid, is a debt owed by the parents or guardian to the person in whose favour the order is made.
 
 ### Alternative sentencing
 
-- A Court may admonish or reprimand the child and dismiss a prosecution, if the nature of the charge constituting an offence does not threaten or cause harm or the offence is of a trivial nature.
+- 162. A Court may admonish or reprimand the child and dismiss a prosecution, if the nature of the charge constituting an offence does not threaten or cause harm or the offence is of a trivial nature.
 
-- If a child is found to be guilty of the offence, the Court considering the age of the child may order the child in conflict with law to be sent to a home.
+- 163. If a child is found to be guilty of the offence, the Court considering the age of the child may order the child in conflict with law to be sent to a home.
 
-- Where the Court is satisfied on inquiry that a child has committed an offence, notwithstanding anything to the contrary contained in any other law for the time being in force, the Court shall have the discretion of allowing noncustodial measures to assist the reintegration of the child into society.
+- 164. Where the Court is satisfied on inquiry that a child has committed an offence, notwithstanding anything to the contrary contained in any other law for the time being in force, the Court shall have the discretion of allowing non-custodial measures to assist the reintegration of the child into society.
 
 ### Probation and suspension of the sentence
 
-- Where the Court is of opinion that it is expedient, having regard  to  the  circumstances  including  the  nature  of  the offence and character of the child, may grant probation or suspend the sentence of the convicted child, if a competent
+- 165. Where the Court is of opinion that it is expedient, having regard  to  the  circumstances  including  the  nature  of  the offence and character of the child, may grant probation or suspend the sentence of the convicted child, if a competent
 
 The Child Care and Protection Act of Bhutan 2011
 
@@ -2570,13 +2562,13 @@ The Child Care and Protection Act of Bhutan 2011
 
 authority submits a petition on the grounds of good and exemplary behavior of the child.
 
-- The Court shall not issue probation or suspension order unless  the  child  gives  commitment  to  the  Court  not  to commit any offence and to be of good behaviour during the  period  stated  in  the  commitment,  and  the  child's parents  or  guardian  gives  commitment  to  supervise  the child to that effect.  The Court may use discretion to issue probation or suspension order without requiring the child to execute a bond.
+- 166. The Court shall not issue probation or suspension order unless  the  child  gives  commitment  to  the  Court  not  to commit any offence and to be of good behaviour during the  period  stated  in  the  commitment,  and  the  child's parents  or  guardian  gives  commitment  to  supervise  the child to that effect.  The Court may use discretion to issue probation or suspension order without requiring the child to execute a bond.
 
-- Subject  to  the  provision  of  Sections  165  and  166,  the Court may direct the child in conflict with law released on probation to be placed under the care of the child's parents, guardian or other fit person approved for this purpose by the Court.
+- 167. Subject  to  the  provision  of  Sections  165  and  166,  the Court may direct the child in conflict with law released on probation to be placed under the care of the child's parents, guardian or other fit person approved for this purpose by the Court.
 
-- If the child commits any further offence or does not comply with  the  conditions  set  in  the  probation  or  suspension order, the Court may cancel such order and hold the child liable to be sentenced for the original offence in addition to the sentence for any new offence committed if any.
+- 168. If the child commits any further offence or does not comply with  the  conditions  set  in  the  probation  or  suspension order, the Court may cancel such order and hold the child liable to be sentenced for the original offence in addition to the sentence for any new offence committed if any.
 
-- A child conditionally released on probation or the sentence being suspended shall be required to:
+- 169. A child conditionally released on probation or the sentence being suspended shall be required to:
 
 (a) Make oneself available to the Court as and when required;
 
@@ -2590,13 +2582,11 @@ The Child Care and Protection Act of Bhutan 2011
 
 [[START OF PAGE 97]]
 
-166
-
 བཤེར་ཡིག་ཅིག་ཕུལ་བ་ཅིན་  ཁྲིམས་འདུན་དེ་གིས་  ཁྲིམས་གཅོད་གྲུབ་པའི་ཨ་ལོའི་ཁྲིམས་ ཚད་མཚམས་འཇོག་  ཡང་ན་ ཚོད་བརྟག་ཐོག་ལུ་གནང་ཆོག།
 
-- ཨ་ལོ་དེ་གིས་  གནོད་འགེལ་གང་ཡང་མི་འཐབ་ཟེར་བ་དང་  ཁས་བླངས་ཐོག་ལུ་བཀོད་པའི་ དུས་ཡུན་དེའི་སྐབས་ལུ་ ཡ་རབས་ཀྱི་བྱ་སྤྱོད་བསྒྲིག་ནིའི་ཁས་བླངས་ཅིག་ ཁྲིམས་ཀྱི་འདུན་ སར་ཕུལ་བའི་ཁར་ ཨ་ལོ་དེའི་ཕ་མའམ་ འཚོ་འཛིན་གྱིས་ དེ་ལུགས་ཀྱི་གྲུབ་འབྲས་དོན་ལུ་ ཨ་ལོ་དེ་བལྟ་རྟོག་འབད་ནིའི་ཁས་བླངས་ཕུལ་ན་མ་གཏོགས་  ཁྲིམས་འདུན་དེ་གིས་  ཁྲིམས་ ཚད་ཚོད་བརྟག་དང་མཚམས་འཇོག་གི་བཀའ་རྒྱ་གནང་ནི་མེད། ཨ་ལོ་དེ་གིས་གན་རྒྱ་བཟོ་ དགོཔ་མེདཔ་སྦེ་  ཁྲིམས་འདུན་དེ་གིས་  ཚོད་བརྟག་དང་མཚམས་འཇོག་གི་བཀའ་རྒྱ་གནང་ ནིའི་དབང་ཚད་སྤྱོད་ཆོག།
+- 166 ཨ་ལོ་དེ་གིས་  གནོད་འགེལ་གང་ཡང་མི་འཐབ་ཟེར་བ་དང་  ཁས་བླངས་ཐོག་ལུ་བཀོད་པའི་ དུས་ཡུན་དེའི་སྐབས་ལུ་ ཡ་རབས་ཀྱི་བྱ་སྤྱོད་བསྒྲིག་ནིའི་ཁས་བླངས་ཅིག་ ཁྲིམས་ཀྱི་འདུན་ སར་ཕུལ་བའི་ཁར་ ཨ་ལོ་དེའི་ཕ་མའམ་ འཚོ་འཛིན་གྱིས་ དེ་ལུགས་ཀྱི་གྲུབ་འབྲས་དོན་ལུ་ ཨ་ལོ་དེ་བལྟ་རྟོག་འབད་ནིའི་ཁས་བླངས་ཕུལ་ན་མ་གཏོགས་  ཁྲིམས་འདུན་དེ་གིས་  ཁྲིམས་ ཚད་ཚོད་བརྟག་དང་མཚམས་འཇོག་གི་བཀའ་རྒྱ་གནང་ནི་མེད། ཨ་ལོ་དེ་གིས་གན་རྒྱ་བཟོ་ དགོཔ་མེདཔ་སྦེ་  ཁྲིམས་འདུན་དེ་གིས་  ཚོད་བརྟག་དང་མཚམས་འཇོག་གི་བཀའ་རྒྱ་གནང་ ནིའི་དབང་ཚད་སྤྱོད་ཆོག།
 
-- 167 དོན་ཚན་ ༡༦༥ དང་༡༦༦ གི་དགོངས་དོན་ལས་མ་འགལ་བར་ ཁྲིམས་ཀྱི་འདུན་ས་དེ་གིས་ ཚོད་བརྟག་ཐོག་ལས་བཏང་བའི་ཁྲིམས་དང་རྒྱལ་འགལ་བྱུང་བའི་ཨ་ལོ་དེ་ ཨ་ལོའི་ཕ་མའམ་ འཚོ་འཛིན་གྱི་གཅེས་སྐྱོང་འོག་ལུ་ ཡང་ན་ ཁྲིམས་འདུན་གྱིས་ འདིའི་དོན་ལུ་ཆ་འཇོག་གྲུབ་ པའི་འོས་འབབ་ཡོད་མི་གཞན་གྱི་གཅེས་སྐྱོང་འོག་ལུ་བཞག་ནིའི་བཀོད་ཁྱབ་གནང་ཆོག།
+- 167 དོན་ཚན་ ༡༦༥ དང་༡༦༦ གི་དགོངས་དོན་ལས་མ་འགལ་བར་ ཁྲིམས་ཀྱི་འདུན་ས་དེ་གིས་ ཚོད་བརྟག་ཐོག་ལས་བཏང་བའི་ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོ་དེ་ ཨ་ལོའི་ཕ་མའམ་ འཚོ་འཛིན་གྱི་གཅེས་སྐྱོང་འོག་ལུ་ ཡང་ན་ ཁྲིམས་འདུན་གྱིས་ འདིའི་དོན་ལུ་ཆ་འཇོག་གྲུབ་ པའི་འོས་འབབ་ཡོད་མི་གཞན་གྱི་གཅེས་སྐྱོང་འོག་ལུ་བཞག་ནིའི་བཀོད་ཁྱབ་གནང་ཆོག།
 
 - 168 གལ་སྲིད་ཨ་ལོ་དེ་གིས་ ད་རུང་ཡང་གནོད་འགེལ་གང་རུང་ཅིག་འཐབ་པ་ ཡང་ན་ ཚོད་ བརྟག་གམ་ མཚམས་འཇོག་བཀའ་རྒྱའི་ནང་བཀོད་པའི་གནས་ཚིག་ལུ་མ་གནས་པ་ཅིན་ ཁྲིམས་འདུན་དེ་གིས་ དེ་ལུགས་ཀྱི་བཀའ་རྒྱ་ཆ་མེད་གཏང་སྟེ་ ཨ་ལོ་དེ་ལུ་ འགོ་ཐོག་གནོད་ འགེལ་གྱི་ཁྲིམས་ཚད་ཁ་སྐོང་སྦེ་ གནོད་འགེལ་གསརཔ་གང་རུང་ཅིག་འཐབ་མི་དེའི་དོན་ལུ་ ཁྲིམས་ཚད་བཀལ་ཆོག།
 
@@ -2614,7 +2604,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 (c) Abstain  from  doing  any  act,  which  violates  the conditions of the release.
 
-- While making a probation order the Court may:
+- 170. While making a probation order the Court may:
 
 (a) Direct the child be placed under the supervision of a probation officer named in the order;
 
@@ -2624,15 +2614,15 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### Community service
 
-- If an offence committed by a child is a fourth degree felony and below, the Court may in lieu of imprisonment, order community service.
+- 171. If an offence committed by a child is a fourth degree felony and below, the Court may in lieu of imprisonment, order community service.
 
 ### Thrimthue
 
-- Except  for  the  recidivist  or  child  habitually  in  conflict with law, the Court may make an order to pay fine in lieu of  imprisonment,  if  the  offence  is  a  felony  of  the  fourth degree and below.
+- 172. Except  for  the  recidivist  or  child  habitually  in  conflict with law, the Court may make an order to pay fine in lieu of  imprisonment,  if  the  offence  is  a  felony  of  the  fourth degree and below.
 
 ### Restitution
 
-- If  the  child  is  responsible  for  damaging  the  property  of another person, the Court may order the child, parents or the guardian to restore the property damaged.
+- 173. If  the  child  is  responsible  for  damaging  the  property  of another person, the Court may order the child, parents or the guardian to restore the property damaged.
 
 The Child Care and Protection Act of Bhutan 2011
 
@@ -2662,7 +2652,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### སོར་ཆུད།
 
-- 173 ཨ་་ལོ་དེ་མི་ངོ་གཞན་གྱི་རྒྱུ་དངོས་ཉམས་ཆག་བཀལ་བའི་འཁྲི་འགན་ཕོག་པ་ཅིན་  ཁྲིམས་ཀྱི་ འདུན་ས་དེ་གིས་ ཨ་ལོ་དེ་དང་ཕ་མའམ་ འཚོ་འཛིན་ལུ་ ཉམས་ཆག་བྱུང་བའི་རྒྱུ་དངོས་སོར་ ཆུད་འབད་དགོ་པའི་བཀའ་རྒྱ་གནང་ཆོག།
+- 173 ཨ་ལོ་དེ་མི་ངོ་གཞན་གྱི་རྒྱུ་དངོས་ཉམས་ཆག་བཀལ་བའི་འཁྲི་འགན་ཕོག་པ་ཅིན་  ཁྲིམས་ཀྱི་ འདུན་ས་དེ་གིས་ ཨ་ལོ་དེ་དང་ཕ་མའམ་ འཚོ་འཛིན་ལུ་ ཉམས་ཆག་བྱུང་བའི་རྒྱུ་དངོས་སོར་ ཆུད་འབད་དགོ་པའི་བཀའ་རྒྱ་གནང་ཆོག།
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
@@ -2674,7 +2664,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### Guiding Principles in Adjudication and Disposition
 
-- In the adjudication and disposition of the case by a Court, it shall be guided by the following principle:
+- 174. In the adjudication and disposition of the case by a Court, it shall be guided by the following principle:
 
 (a) The well-being of the child;
 
@@ -2684,13 +2674,13 @@ The Child Care and Protection Act of Bhutan 2011
 
 (d) Appropriate alternative sentencing.
 
-- In  all  cases  before  the  Court  makes  any  decision,  it shall properly investigate into the background and circumstances  in  which  the  child  is  living  including family background, performance and conduct in school, educational institutions, society and the conditions under which the offence has been committed.
+- 175. In  all  cases  before  the  Court  makes  any  decision,  it shall properly investigate into the background and circumstances  in  which  the  child  is  living  including family background, performance and conduct in school, educational institutions, society and the conditions under which the offence has been committed.
 
 ### Appeal
 
-- A  child  convicted  by  the  Court  or  any  person  on  the child's behalf or any institution may within ten days from the date of judgment prefer an appeal in accordance with the Civil and Criminal Procedure Code of Bhutan.
+- 176. A  child  convicted  by  the  Court  or  any  person  on  the child's behalf or any institution may within ten days from the date of judgment prefer an appeal in accordance with the Civil and Criminal Procedure Code of Bhutan.
 
-- If the appeal is not made within ten days the order or the decision of the Court shall be final and binding.
+- 177. If the appeal is not made within ten days the order or the decision of the Court shall be final and binding.
 
 The Child Care and Protection Act of Bhutan 2011
 
@@ -2702,11 +2692,11 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### དབྱེ་བཤེར་དང་མཇུག་བསྒྲིལ་གྱི་ལམ་སྟོན་གཞི་རྩ།
 
-- 174 ཁྲིམས་ཀྱི་འདུན་ས་ཅིག་གིས་  རྩོད་གཞི་དེའི་དབྱེ་བཤེར་དང་མཇུག་བསྒྲིལ་སྐབས་  གཤམ་ གསལ་གྱི་གཞི་རྩའི་ཐོག་ལས་ ལམ་སྟོན་འབད་དགོཔ་འདི་ཡང་།
+- 174 ཁྲིམས་ཀྱི་འདུན་ས་ཅིག་གིས་ རྩོད་གཞི་དེའི་དབྱེ་བཤེར་དང་མཇུག་བསྒྲིལ་སྐབས་ གཤམ་གསལ་གྱི་གཞི་རྩའི་ཐོག་ལས་ ལམ་སྟོན་འབད་དགོཔ་འདི་ཡང་།
 
-- ཀ༽ ཨ་ལོའི་བདེ་འབྱོར་གྱི་དོན་ལུ་ ཡང་ན།
+ཀ༽ ཨ་ལོའི་བདེ་འབྱོར་གྱི་དོན་ལུ་ ཡང་ན།
 
-- ཁ༽ ཨ་ལོའི་མཐའ་དོན་ཁོ་ན་ལུ་བརྩི་འཇོག་གི་ཆ་ཚད་མཐུན་པའི་ཉེས་ཁྲིམས་་བཀལ་ཐབས།
+ཁ༽ ཨ་ལོའི་མཐའ་དོན་ཁོ་ན་ལུ་བརྩི་འཇོག་གི་ཆ་ཚད་མཐུན་པའི་ཉེས་ཁྲིམས་བཀལ་ཐབས།
 
 ག༽ རང་སོའི་འདོད་དབང་གི་བཀག་དམ་ཉུང་ཤོས།
 
@@ -2774,11 +2764,11 @@ The Child Care and Protection Act of Bhutan 2011
 
 - 181 གནོད་འགེལ་ཅིག་འབད་བའི་དོགས་ཟོན་ཅན་གྱི་ཨ་ལོ་འདི་ གནོད་འགེལ་སྐོར་ལས་ འདྲི་རྩད་ ཡང་ན་དྲི་བ་མ་བཀོད་པའི་ཧེ་མར་ ཁྲིམས་ལུ་གནོད་པའི་སྐོར་ལས་ ཉེན་བརྡ་བྱིན་དགོ། དེ་འབདཝ་ད་ འདྲི་རྩད་ ཡང་ན་དྲི་བ་ཚུ་ གཤམ་གསལ་གྱི་དོན་ལུ་ཨིན་པ་ཅིན་ ཨ་ལོ་འདི་ལུ་ཉེན་བརྡ་བྱིན་མ་ཆོགཔ།
 
-- ཀ༽ ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོ་དེའི་ངོས་འཛིན་རྐྱངམ་ཅིག་འབད་ནི་ ཡང་ན།
+ཀ༽ ཁྲིམས་དང་རྒྱབ་འགལ་བྱུང་བའི་ཨ་ལོ་དེའི་ངོས་འཛིན་རྐྱངམ་ཅིག་འབད་ནི་ ཡང་ན།
 
-- ཁ༽ ཁྲིམས་དང་བསྟུན་པའི་དགོས་མཁོ་གང་རུང་ཅིག་དང་འབྲེལ་བའི་བརྡ་དོན་ཚུ་ལེན་ནི།
+ཁ༽ ཁྲིམས་དང་བསྟུན་པའི་དགོས་མཁོ་གང་རུང་ཅིག་དང་འབྲེལ་བའི་བརྡ་དོན་ཚུ་ལེན་ནི།
 
-- ག༽ ཚུལ་མཐུན་དང་གནད་དུ་སྨིན་པའི་འགོ་འདྲེན་ཐོག་ལུ་ རྩད་འཚོལ་སྒྲུབ་ཐབས་ ཡང་ན་ རྩད་འཚོལ་འབད་བའི་བསྒང་ལུ་ མཉམ་འབྲེལ་པ་འཚོལ་ནི།
+ག༽ ཚུལ་མཐུན་དང་གནད་དུ་སྨིན་པའི་འགོ་འདྲེན་ཐོག་ལུ་ རྩད་འཚོལ་སྒྲུབ་ཐབས་ ཡང་ན་ རྩད་འཚོལ་འབད་བའི་བསྒང་ལུ་ མཉམ་འབྲེལ་པ་འཚོལ་ནི།
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
@@ -2796,7 +2786,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 (a) Explaining the matters to the child clearly and in detail;
 
-(b) The  presence  of  the  child's  parents,  guardian  or legal representative; and
+(b) The presence of the child's parents, guardian or legal representative; and
 
 (c) An interpreter or other person able to communicate effectively with the child.
 
@@ -2804,7 +2794,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 - 184. The procedure of administering a cautioning to a child for an offence of not serious nature may involve the child apologizing to a victim if:
 
-(a) The  police  official  administering  or  requesting  the administration  of  the  cautioning  considers  that  an apology  is  an  appropriate  course  of  action  in  the particular circumstances of the case;
+(a) The police official administering or requesting the administration of the cautioning considers that an apology is an appropriate course of action in the particular circumstances of the case;
 
 (b) The child is willing to apologize; and
 
@@ -2820,23 +2810,25 @@ The Child Care and Protection Act of Bhutan 2011
 
 ང་༽ ཡིག་ཐོག་གི་འཛིན་ཐོ་ཅིག་གི་བདེན་ཁུངས་དཔྱད་ནི།
 
-- 182 ཁྲིམས་ལུ་གནོད་པའི་སྐོར་ཨ་ལོའི་ཉེན་བརྡ་འདི་ ཨ་ལོ་དེའི་ཉེས་ལས་བྱུང་རིམ་གྱི་ཆ་ཤས་སྦེ་ བཞག་ནི་མེད།
+- 182 ཁྲིམས་ལུ་གནོད་པའི་སྐོར་ཨ་ལོའི་ཉེན་བརྡ་འདི་ ཨ་ལོ་དེའི་ཉེས་ལས་བྱུང་རིམ་གྱི་ཆ་ཤས་སྦེ་བཞག་ནི་མེད།
 
-- 183 ཨ་ལོ་ཅིག་ལུ་ཉེན་བརྡའི་ཐོག་ལུ་འཛིན་སྐྱོང་གི་ཞུ་བ་ ཡང་ན་ འཛིན་སྐྱོང་འཐབ་མི་ཁྲིམས་ སྲུང་འགག་སྡེའི་འགོ་དཔོན་ཅིག་གིས་  ཉེན་བརྡ་བྱིན་དགོ་པའི་དགོས་དོན་དང་གནས་ལུགས་ གྲུབ་འབྲས་ཚུ་  ཨ་ལོ་དེ་གིས་ཧ་གོ་ཚུགསཔ་སྦེ་  ངེས་གཏན་བཟོ་ཐབས་ལུ་  གལ་གནད་ཆེ་ བའི་རིམ་པ་ཆ་མཉམ་ལག་ལེན་འཐབ་དགོ།    གལ་གནད་ཆེ་བའི་རིམ་པ་དེའི་གྲངས་སུ་ཚུད་ དགོཔ་འདི་ཡང་།
+- 183 ཨ་ལོ་ཅིག་ལུ་ཉེན་བརྡའི་ཐོག་ལུ་འཛིན་སྐྱོང་གི་ཞུ་བ་ ཡང་ན་ འཛིན་སྐྱོང་འཐབ་མི་ཁྲིམས་སྲུང་འགག་སྡེའི་འགོ་དཔོན་ཅིག་གིས་ ཉེན་བརྡ་བྱིན་དགོ་པའི་དགོས་དོན་དང་གནས་ལུགས་ གྲུབ་འབྲས་ཚུ་ ཨ་ལོ་དེ་གིས་ཧ་གོ་ཚུགསཔ་སྦེ་ ངེས་གཏན་བཟོ་ཐབས་ལུ་ གལ་གནད་ཆེ་བའི་རིམ་པ་ཆ་མཉམ་ལག་ལེན་འཐབ་དགོ། གལ་གནད་ཆེ་བའི་རིམ་པ་དེའི་གྲངས་སུ་ཚུད་དགོཔ་འདི་ཡང་།
 
-ཀ༽ ཨ་ལོ་དེ་ལུ་གནད་དོན་ཚུ་ དབྱེ་བ་ཁ་གསལ་སྦེ་གསལ་བཤད་འབད་ནི་དང་། ཁ༽ ཨ་ལོའི་ཕ་མའམ་ འཚོ་འཛིན་ ཡང་ན་ཁྲིམས་མཐུན་ངོ་ཚབ་ངོ་འཛོམས་སྦེ་དགོ།
+ཀ༽ ཨ་ལོ་དེ་ལུ་གནད་དོན་ཚུ་ དབྱེ་བ་ཁ་གསལ་སྦེ་གསལ་བཤད་འབད་ནི་དང་།
 
-- ག༽ ཨ་ལོ་དེ་དང་གཅིག་ཁར་ གནད་དུ་སྨིན་པར་བརྒྱུད་འབྲེལ་འཐབ་ཚུགས་པའི་སྐད་ སྒྱུར་རྐྱབ་མི་ཅིག་ ཡང་ན་ མི་ངོ་གཞན།
+ཁ༽ ཨ་ལོའི་ཕ་མའམ་ འཚོ་འཛིན་ ཡང་ན་ཁྲིམས་མཐུན་ངོ་ཚབ་ངོ་འཛོམས་སྦེ་དགོ།
+
+ག༽ ཨ་ལོ་དེ་དང་གཅིག་ཁར་ གནད་དུ་སྨིན་པར་བརྒྱུད་འབྲེལ་འཐབ་ཚུགས་པའི་སྐད་སྒྱུར་རྐྱབ་མི་ཅིག་ ཡང་ན་ མི་ངོ་གཞན།
 
 ### ཉམས་རྒུད་པ་ལུ་བཟོད་གསོལ་དང་འབྲེལ་བའི་ཉེན་བརྡའི་གནད་སྤྱོད།
 
-- 184 གཤམ་དོན་ལྟར་ཨིན་པ་ཅིན་ ཚབས་ཅན་གྱི་གནས་ལུགས་མེན་པའི་གནོད་འགེལ་ཅིག་གི་ དོན་ལུ་ ཨ་ལོ་འདི་ལུ་ ཉེན་བརྡའི་འོག་ལུ་འཛིན་སྐྱོང་གི་གནད་སྤྱོད་དེ་ ཨ་ལོ་དེ་གིས་ ཉམས་ རྒུད་པ་ལུ་བཟོད་གསོལ་འབད་བཅུག་ནི་འདི་ཡང་།
+- 184 གཤམ་དོན་ལྟར་ཨིན་པ་ཅིན་ ཚབས་ཅན་གྱི་གནས་ལུགས་མེན་པའི་གནོད་འགེལ་ཅིག་གི་དོན་ལུ་ ཨ་ལོ་འདི་ལུ་ ཉེན་བརྡའི་འོག་ལུ་འཛིན་སྐྱོང་གི་གནད་སྤྱོད་དེ་ ཨ་ལོ་དེ་གིས་ ཉམས་རྒུད་པ་ལུ་བཟོད་གསོལ་འབད་བཅུག་ནི་འདི་ཡང་།
 
-- ཀ༽ ཉེན་བརྡའི་ཐོག་ལུ་འཛིན་སྐྱོང་གི་ཞུ་བ་ ཡང་ན་ འཛིན་སྐྱོང་འཐབ་མི་ཁྲིམས་སྲུང་ འགག་སྡེའི་འགན་འཛིན་པ་དེ་གིས་ བཟོད་གསོལ་འདི་ རྩོད་གཞིའི་སྐབས་དོན་ གཅིག་ནང་ བསྟར་སྤྱོད་འབད་བའི་ལམ་ཕྱོགས་འདི་ འོས་འཚམས་ལྡནམ་སྦེ་ བརྩི་ འཇོག་འབད་བ་དང་།
+ཀ༽ ཉེན་བརྡའི་ཐོག་ལུ་འཛིན་སྐྱོང་གི་ཞུ་བ་ ཡང་ན་ འཛིན་སྐྱོང་འཐབ་མི་ཁྲིམས་སྲུང་འགག་སྡེའི་འགན་འཛིན་པ་དེ་གིས་ བཟོད་གསོལ་འདི་ རྩོད་གཞིའི་སྐབས་དོན་གཅིག་ནང་ བསྟར་སྤྱོད་འབད་བའི་ལམ་ཕྱོགས་འདི་ འོས་འཚམས་ལྡནམ་སྦེ་ བརྩི་འཇོག་འབད་བ་དང་།
 
-- ཁ༽ ཨ་ལོ་དེ་གིས་ བཟོད་གསོལ་འབད་ཆོག་ཆོག་ཡོད་པ།
+ཁ༽ ཨ་ལོ་དེ་གིས་ བཟོད་གསོལ་འབད་ཆོག་ཆོག་ཡོད་པ།
 
-- ག༽ ཉམས་རྒུད་པ་འདི་ བྱ་བའི་གནད་སྤྱོད་དེ་ནང་ བཅའ་མར་གཏོགས་ཆོག་ཆོག་ཡོད་པ།
+ག༽ ཉམས་རྒུད་པ་འདི་ བྱ་བའི་གནད་སྤྱོད་དེ་ནང་ བཅའ་མར་གཏོགས་ཆོག་ཆོག་ཡོད་པ།
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
@@ -2916,13 +2908,13 @@ The Child Care and Protection Act of Bhutan 2011
 
 - 192. The child may be considered for diversion under the following circumstances:
 
-(a) If  the  child  understands  the  right  to  remain  silent and has not been unduly influenced to acknowledge responsibility;
+(a) If the child understands the right to remain silent and has not been unduly influenced to acknowledge responsibility;
 
-(b) If  the  child  voluntary  acknowledges  responsibility for the offence;
+(b) If the child voluntary acknowledges responsibility for the offence;
 
 (c) If the child be accountable for the harm caused and is willing to pay the compensation;
 
-(d) The  child's  feels  of  remorse  for  the  offence  he committed;
+(d) The child's feels of remorse for the offence he committed;
 
 (e) The ability of the parents or guardian to guide and supervise the child;
 
@@ -3066,7 +3058,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 - 194 ཁ་བསྒྱུར་གྱི་ཆ་འཇོག་འབད་བའི་སྐབས་  ཁྲིམས་ཀྱི་འདུན་སའི་འགོ་དཔོན་  ཡང་ན་  འགག་ སྡེའི་འགོ་དཔོན་གྱིས་ ཁ་བསྒྱུར་གན་རྒྱ་དང་འཁྲིལ་ཏེ་ ཨ་ལོ་བལྟ་རྟོག་འབད་ནིའི་དོན་ལུ་ ཚོད་བརྟག་འགོ་དཔོན་ཅིག་ ངོས་འཛིན་འབད་དགོ།
 
-- 195 ཨ་ལོ་ཅིག་གིས་ཁ་བསྒྱུར་གདམ་ཁའི་ཆ་རྐྱེན་གང་རུང་ཅིག་ལས་  འགལ་བ་འཐོན་པའི་སྐབས་ ཚོད་བརྟག་འགོ་དཔོན་དེ་གིས་  དེ་ལུགས་འཐུས་ཤོར་བྱུང་བའི་སྐོར་ལས་  འབྲེལ་ཡོད་འགག་ སྡེའི་འགོ་དཔོན་ ཡང་ན་ ཉེས་འདོགས་པ་དེ་ལུ་ ཡིག་ཐོག་ བརྡ་འཕྲིན་བྱིན་དགོ། འགག་ སྡེའི་འགོ་དཔོན་  ཡང་ན་ཉེས་འདོགས་པ་དེ་གིས་  འབྲེལ་བ་ཡོད་པའི་ཨ་ལོ་དེའི་ཉེས་བཤེར་ དང་ རྒྱུན་འཁྱོངས་འབད་ནི་སྦེ་གྲོས་ཐག་བཅད་ན་མ་གཏོགས་ དེ་མེན་ ཁྲིམས་ཀྱི་འདུན་ས་ དེ་གིས་  འདྲི་རྩད་སྐབས་ལུ་ཡོད་པའི་མི་ངོ་གང་ཞིག་གི་བསམ་འཆར་ཚུ་  བརྩི་འཇོག་འབད་ ཞིནམ་ལས་ བསྒྱུར་བཅོས་འབད་བའི་གནས་ཚིག་་ཚུ་དང་བསྟུན་ དེ་བཟུམ་མའི་གདམ་ཁ་དེ་ སྦྱོར་འཇུག་འཐབ་ནིའི་དོན་ལུ་གྲོས་ཐག་བཅད་ཆོག།
+- 195 ཨ་ལོ་ཅིག་གིས་ཁ་བསྒྱུར་གདམ་ཁའི་ཆ་རྐྱེན་གང་རུང་ཅིག་ལས་ འགལ་བ་འཐོན་པའི་སྐབས་ ཚོད་བརྟག་འགོ་དཔོན་དེ་གིས་ དེ་ལུགས་འཐུས་ཤོར་བྱུང་བའི་སྐོར་ལས་ འབྲེལ་ཡོད་འགག་སྡེའི་འགོ་དཔོན་ ཡང་ན་ ཉེས་འདོགས་པ་དེ་ལུ་ ཡིག་ཐོག་ བརྡ་འཕྲིན་བྱིན་དགོ། འགག་སྡེའི་འགོ་དཔོན་ ཡང་ན་ཉེས་འདོགས་པ་དེ་གིས་ འབྲེལ་བ་ཡོད་པའི་ཨ་ལོ་དེའི་ཉེས་བཤེར་དང་ རྒྱུན་འཁྱོངས་འབད་ནི་སྦེ་གྲོས་ཐག་བཅད་ན་མ་གཏོགས་ དེ་མེན་ ཁྲིམས་ཀྱི་འདུན་ས་དེ་གིས་ འདྲི་རྩད་སྐབས་ལུ་ཡོད་པའི་མི་ངོ་གང་ཞིག་གི་བསམ་འཆར་ཚུ་ བརྩི་འཇོག་འབད་ཞིནམ་ལས་ བསྒྱུར་བཅོས་འབད་བའི་གནས་ཚིག་ཚུ་དང་བསྟུན་ དེ་བཟུམ་མའི་གདམ་ཁ་དེ་ སྦྱོར་འཇུག་འཐབ་ནིའི་དོན་ལུ་གྲོས་ཐག་བཅད་ཆོག།
 
 ### ནང་མི་སྡེ་ཚན་གྱི་གྲོས་བསྟུན།
 
@@ -3100,11 +3092,11 @@ The Child Care and Protection Act of Bhutan 2011
 
 (b) Any person requested by the child;
 
-(c) The  police  official  dealing  with  the  case  of  the concern child;
+(c) The police official dealing with the case of the concern child;
 
 (d) The probation officer;
 
-(e) A  representative  of  the  community  such  as  gup, mangmi, tshogpa, etc;
+(e) A representative of the community such as gup, mangmi, tshogpa, etc;
 
 (f) The victim of the alleged offence and if such victim is under the age of 18 years, the victim's parents or guardian; and
 
@@ -3162,7 +3154,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 (b) The agreement;
 
-(c) Anything  to  be  done  by  the  child  under  the agreement; and
+(c) Anything to be done by the child under the agreement; and
 
 (d) The report regarding the conferencing.
 
@@ -3294,7 +3286,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 - 212 གལ་སྲིད་མི་ངོ་ཅིག་གིས་  ཆེད་མངགས་  ཡང་ན་  ཤེས་བཞིན་དུ་  ཨ་ལོ་དང་འཐབ་འཛིང་ འབད་བ་ཅིན་ མི་ངོ་དེ་ ཨ་ལོའི་འཐབ་འཛིང་གནོད་འགེལ་གྱི་ཉེས་སྐྱོན་ཕོག། ཨ་ལོའི་འཐབ་ འཛིང་གནོད་འགེལ་དེ་ ཁྲིམས་འཆལ་གྱི་ཉེས་ཆད་སྨིན་དགོ།
 
-### ཨ་ལོ་ལུགདུག་རྩུབ།
+### ཨ་ལོ་ལུ་གདུག་རྩུབ།
 
 - 213 གལ་སྲིད་ ཨ་ལོའི་དམ་འཛིན་ ཡང་ན་ འཁྲི་འགན་ངེས་བདེན་ཕོག་པའི་མི་ངོ་ཅིག་གིས་ བསམ་སྦྱོར་གྱི་སྒོ་ལས་  ཡང་ན་  ཨ་ལོ་དེའི་དྲན་ཤེས་སམ་  གཟུགས་ཁམས་ལུ་  དོན་མེད་ དཀའ་སྡུག་མྱོང་སྲིད་པའི་རྣམ་གཞག་གང་ཞིག་གི་ཐོག་ལས་ ཨ་ལོ་ལག་ལེན་འཐབ་པའམ་ ལག་ལེན་འཐབ་ནིའི་རྒྱུད་བསྐུལ་འབད་བ་ཅིན་ མི་ངོ་དེ་  ཨ་ལོ་གདུག་རྩུབ་འབད་བའི་གནོད་ འགེལ་གྱི་ཉེས་སྐྱོན་ཕོག།  ཨ་ལོ་གདུག་རྩུབ་འབད་བའི་གནོད་འགེལ་དེ་  ཉེས་པ་ཡང་ཕྲ་སྨིན་ དགོ།
 
@@ -3432,7 +3424,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### ཨ་ལོ་ཉེས་ཚོང་འཐབ་པ།
 
-- 224 གལ་སྲིད་མི་ངོ་ཅིག་གིས་ བཀོལ་ཉེས་སྤྱོད་ནི་གྱི་དོན་ལུ་འཇིགས་བསྐུལ་ ཡང་ན་ དྲག་ ཤུགས་སྤྱོད་པ་ བཙན་བསྐུལ་ བཙན་ཁྲིད་ གཡོ་ཟོལ་ མགོ་སྐོར་ དབང་ཚད་ལོག་པར་སྤྱོད་ པ་ ཉེན་ཁ་འབྱུང་སྲིད་པའི་གནས་སྟངས་ མི་ངོ་གཞན་གྱི་དམ་འཛིན་འབད་བའི་མི་ངོ་ཅིག་གི་ གནང་བ་ལེན་ཐབས་ལུ་ ཁེ་ཕན་ ཡང་ན་ཏི་རུ་སྤྲོད་ལེན་ལ་སོགས་པའི་ཐབས་ལམ་ཐོག་ལས་ ཨ་ལོ་ཅིག་ཉོ་ཚོང་འཐབ་པའམ་  གཡིབ་བཞག་པ་  སྐྱེལ་འདྲེན་  སྤོ་སོར་  ཡང་ན་ལཱ་སར་ བཙུགས་པ་ཅིན་  མི་ངོ་དེ་  ཨ་ལོ་ཉེས་ཚོང་འཐབ་པའི་གནོད་འགེལ་གྱི་ཉེས་སྐྱོན་ཕོག།  ཉེས་ ཚོང་འཐབ་པའི་གནོད་འགེལ་དེ་ དབྱེ་རིམ་གསུམ་པའི་ཉེས་ཆེན་སྨིན་དགོ།
+- 224 གལ་སྲིད་མི་ངོ་ཅིག་གིས་ བཀོལ་ཉེས་སྤྱོད་ནི་གྱི་དོན་ལུ་འཇིགས་བསྐུལ་ ཡང་ན་ དྲག་ ཤུགས་སྤྱོད་པ་ བཙན་བསྐུལ་ བཙན་ཁྲིད་ གཡོ་ཟོལ་ མགོ་སྐོར་ དབང་ཚད་ལོག་པར་སྤྱོད་ པ་ ཉེན་ཁ་འབྱུང་སྲིད་པའི་གནས་སྟངས་ མི་ངོ་གཞན་གྱི་དམ་འཛིན་འབད་བའི་མི་ངོ་ཅིག་གི་ གནང་བ་ལེན་ཐབས་ལུ་ ཁེ་ཕན་ ཡང་ན་ཏི་རུ་སྤྲོད་ལེན་ལ་སོགས་པའི་ཐབས་ལམ་ཐོག་ལས་ ཨ་ལོ་ཅིག་ཉོ་ཚོང་འཐབ་པའམ་ གཡིབ་བཞག་པ་ སྐྱེལ་འདྲེན་ སྤོ་སོར་ ཡང་ན་ལཱ་སར་ བཙུགས་པ་ཅིན་ མི་ངོ་དེ་ ཨ་ལོ་ཉེས་ཚོང་འཐབ་པའི་གནོད་འགེལ་གྱི་ཉེས་སྐྱོན་ཕོག། ཉེས་ ཚོང་འཐབ་པའི་གནོད་འགེལ་དེ་ དབྱེ་རིམ་གསུམ་པའི་ཉེས་ཆེན་སྨིན་དགོ།
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
@@ -3648,9 +3640,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 - ཅ༽ ཚོད་བརྟག་འགོད་དཔོན་ཚུ་གི་ཤེས་ཚད་དང་ འགན་ཁུར་ཚུ།
 
-ཆ༽
-
-- ཨ་ལོའི་མི་ཚེ་ཉམས་གསོ་དང་ཕན་བདེའི་དོན་ལུ་མ་དངུལ་སྤྱོད་ཐངས།
+- ཆ༽ ཨ་ལོའི་མི་ཚེ་ཉམས་གསོ་དང་ཕན་བདེའི་དོན་ལུ་མ་དངུལ་སྤྱོད་ཐངས།
 
 - ཇ༽ བཅའ་ཁྲིམས་འདིའི་དགོས་དོན་ཚུ་སྒྲུབ་ཐབས་ལུ་ བསྐོ་བཞག་འབད་བའི་མི་ངོ་ཚུ་ གསར་བསྐོས་དང་སྦྱོང་བརྡར་  དེ་ཁར་ཁོང་རའི་ལས་གཡོག་ཚུ་གི་འབྲེལ་གནད་དང་ ཆ་རྐྱེན་ཚུ།
 
@@ -3684,9 +3674,9 @@ The Child Care and Protection Act of Bhutan 2011
 
 - 243. In this Act unless the context otherwise requires the:
 
-(a) “Best  Interest  of  the  Child”  refers  to  totality  of the circumstances and conditions which are most congenial  to  the  survival,  protection  and  feelings of  security  of  the  child  and  most  encouraging  to the  child’s  physical,  psychological  and  emotional development. It also includes the least detrimental available  alternative  for  safeguarding  the  growth and development of the child.
+(a) “Best Interest of the Child” refers to totality of the circumstances and conditions which are most congenial  to  the  survival,  protection  and  feelings of  security  of  the  child  and  most  encouraging  to the  child’s  physical,  psychological  and  emotional development. It also includes the least detrimental available  alternative  for  safeguarding  the  growth and development of the child.
 
-(b) “Community service”  means work for a community or other work of value to the community performed by a child.
+(b) “Community service” means work for a community or other work of value to the community performed by a child.
 
 The Child Care and Protection Act of Bhutan 2011
 
@@ -3710,7 +3700,7 @@ The Child Care and Protection Act of Bhutan 2011
 
 ### ངེས་ཚིག།
 
-243 བཅའ་ཁྲིམས་འདི་ དགོས་མཁོ་གཞན་འཐོན་ན་མ་གཏོགས་ དེ་མེན་ནང་དོན་འདི་ནང་། ཀ༽ “ཨ་ལོའི་མཐའ་དོན་ཁོ་ན” ཟེར་མི་འདི་ ཨ་ལོའི་བདེ་སྲུང་འཐབ་ནིའི་དོན་ལུ་ ཧ་ཅང་གིས་འོས་འབབ་ལྡན་པའི་ཁར་ ཨ་ལོའི་གཟུགས་ཁམས་དང་ སེམས་ ཁམས་  ཚོར་སྣང་གོང་འཕེལ་གྱི་དོན་ལུ་ བློ་བསྐུལ་གང་དྲག་གཏང་ཐབས་ཀྱི་ སྐབས་དོན་དང་བསྟུན་པའི་འཚོ་བའི་གནས་སྟངས་ཆ་རྐྱེན་ཡོངས་རྫོགས་ལུ་གོ་ནི་ དང་།  ཨ་ལོའི་སྐྱེད་བསྲིང་གཅེས་སྐྱོང་དང་  གོང་འཕེལ་གྱི་དོན་ལུ་  གནོད་འཚེ་ མར་ཕབ་འབད་ཚུགས་པའི་ཐབས་ཤེས་གཞན་ལུ་ཡང་གོཝ་ཨིན། ཁ༽ “མི་སྡེའི་ཞབས་ཏོག” ཟེར་མི་འདི་ ཨ་ལོ་ཅིག་གིས་ མི་སྡེའི་དོན་ལུ་འབད་བའི་ ལཱ་ ཡང་ན་ མི་སྡེ་ལུ་བརྩི་མཐོང་ཆེ་བའི་ལཱ་གཞན་ཅིག་ལུ་གོཝ་ཨིན།
+243 བཅའ་ཁྲིམས་འདི་ དགོས་མཁོ་གཞན་འཐོན་ན་མ་གཏོགས་ དེ་མེན་ནང་དོན་འདི་ནང་། ཀ༽ “ཨ་ལོའི་མཐའ་དོན་ཁོ་ན” ཟེར་མི་འདི་ ཨ་ལོའི་བདེ་སྲུང་འཐབ་ནིའི་དོན་ལུ་ ཧ་ཅང་གིས་འོས་འབབ་ལྡན་པའི་ཁར་ ཨ་ལོའི་གཟུགས་ཁམས་དང་ སེམས་ ཁམས་ ཚོར་སྣང་གོང་འཕེལ་གྱི་དོན་ལུ་ བློ་བསྐུལ་གང་དྲག་གཏང་ཐབས་ཀྱི་ སྐབས་དོན་དང་བསྟུན་པའི་འཚོ་བའི་གནས་སྟངས་ཆ་རྐྱེན་ཡོངས་རྫོགས་ལུ་གོ་ནི་ དང་། ཨ་ལོའི་སྐྱེད་བསྲིང་གཅེས་སྐྱོང་དང་ གོང་འཕེལ་གྱི་དོན་ལུ་ གནོད་འཚེ་ མར་ཕབ་འབད་ཚུགས་པའི་ཐབས་ཤེས་གཞན་ལུ་ཡང་གོཝ་ཨིན། ཁ༽ “མི་སྡེའི་ཞབས་ཏོག” ཟེར་མི་འདི་ ཨ་ལོ་ཅིག་གིས་ མི་སྡེའི་དོན་ལུ་འབད་བའི་ ལཱ་ ཡང་ན་ མི་སྡེ་ལུ་བརྩི་མཐོང་ཆེ་བའི་ལཱ་གཞན་ཅིག་ལུ་གོཝ་ཨིན།
 
 འབྲུག་གི་ཨ་ལོ་གཅེས་སྐྱོང་དང་ཉེན་སྐྱོབ་བཅའ་ཁྲིམས་ ༢༠༡༡ ཅན་མ།
 
@@ -3720,17 +3710,17 @@ The Child Care and Protection Act of Bhutan 2011
 
 [[START OF PAGE 138]]
 
-(c) “Community”  means a neighborhood, vicinity or locality where the child resides.
+(c) “Community” means a neighborhood, vicinity or locality where the child resides.
 
 (d) “Court” means a Child Justice Court or a Bench and where no such Court or Bench has been constituted, any regular Court/Bench empowered under this Act to exercise the powers conferred on a Child Justice Court.
 
-(e) “Fit  person”  means,  any  person  found  fit  by  the competent  authority  to  receive  and  take  care  of  a child  entrusted to ones care and protection on the terms  and  conditions  specified  by  the  competent authority.
+(e) “Fit person” means, any person found fit by the competent authority to receive and take care of a child entrusted to ones care and protection on the terms and conditions specified by the competent authority.
 
-(f) “Guardian” in relation to a child, includes any person who  in  the  opinion  of  the  competent  authority, having cognizance of any proceeding in relation to the child, has, for the time being, the actual charge of, or control over, that child.
+(f) “Guardian” in relation to a child, includes any person who in the opinion of the competent authority, having cognizance of any proceeding in relation to the child, has, for the time being, the actual charge of, or control over, that child.
 
-(g) “Institution”  means  and  includes  all  institutions related to child care, protection and development of a child.
+(g) “Institution” means and includes all institutions related to child care, protection and development of a child.
 
-(h) “Independent observer” means and includes a  person  known  to  the  child,  a  person  working voluntarily or in civil society organization and whose presence is accepted by the child during adjudication or other proceedings.
+(h) “Independent observer” means and includes a person known to the child, a person working voluntarily or in civil society organization and whose presence is accepted by the child during adjudication or other proceedings.
 
 (i) “Offence” means any act or omission made punishable under any law for the time being in force.
 
@@ -3768,11 +3758,11 @@ The Child Care and Protection Act of Bhutan 2011
 
 [[START OF PAGE 140]]
 
-(k) “Place  of  safety”  means  any  place  or  institution, the person in charge of which is temporarily receive and take care of a child and which, in opinion of the competent authority may be a place of safety for the child.
+(k) “Place of safety” means any place or institution, the person in charge of which is temporarily receive and take care of a child and which, in opinion of the competent authority may be a place of safety for the child.
 
 (l) “Probation Officer” means an officer appointed by the competent authority as a probation officer under this Act.
 
-(m) “Supervision”  in  relation  to  a  child  placed  under the care of any parent, guardian or other fit person under this Act, means the supervision of that child by  a  probation  officer  for  the  purpose  of  ensuring that the child is properly looked after and that the conditions imposed by the competent authority are complied with
+(m) “Supervision” in relation to a child placed under the care of any parent, guardian or other fit person under this Act, means the supervision of that child by a probation officer for the purpose of ensuring that the child is properly looked after and that the conditions imposed by the competent authority are complied with
 
 The Child Care and Protection Act of Bhutan 2011
 
@@ -3818,4 +3808,5 @@ The Child Care and Protection Act of Bhutan 2011
 ཆོས་རྒྱལ་ནོར་བུའི་ཏོག་གིས་མཛེས་པའི་འོག །
 དཔལ་ལྡན་འབྲུག་པའི་མི་སེར་ཕོ་མོའི་ཚོགས། །
 དགའ་སྐྱིད་བདེ་འབྱོར་དཔལ་གྱིས་འཚོ་བར་ཤོག །
+
 [[END OF PAGE 142]]
