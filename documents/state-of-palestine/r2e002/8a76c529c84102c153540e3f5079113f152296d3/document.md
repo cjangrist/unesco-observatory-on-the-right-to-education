@@ -1,12 +1,12 @@
 [[START OF PAGE 1]]
 
-á«æ«£°ù∏ØdG á£∏°ùdG
+السلطة الفلسطينية
 
 Ministry of Education
 
 and Higher Education Palestine
 
-Ú£````````°ù∏a
+فلسطين
 
 # EDUCATION DEVELOPMENT STRATEGIC PLAN 2008-2012
 
@@ -26,17 +26,99 @@ Towards Quality Education for Development July 2008
 
 # Table of Contents
 
+List of Tables and Figures | 5
+Abbreviations and Acronyms | 6
+Foreword | 8
+Acknowledgments | 10
+List of Contributors | 11
+Executive Summary | 12
+Methodology | 23
+Chapter One: Review of Education Sector Performance 2001-2007 | 25
+1.1 Background | 25
+1.2 Organizational Structure of Palestinian Education | 26
+1.3 Governance of Educational Institutions | 27
+1.4 The Organizational Structure of the MoEHE | 28
+1.5 Sector Review of Pre-school and General Education | 30
+1.5.1 Pre-school education | 30
+1.5.2 General Education | 32
+1.5.3 Non-formal Education | 36
+1.6 Sector Review of Higher Education including Vocational Education | 37
+1.6.1 Background | 37
+1.6.2 Process of Sector Review | 38
+1.6.3 Major Issues and Challenges Facing Higher Education (including TVET) | 38
+1.7 Lessons Learned from Five-year Education Development Plan 2001-2005 | 40
+Chapter 2: National Development Context | 42
+2.1 Introduction | 42
+2.2 Palestinian Reform and Development Plan (PRDP) | 42
+2.3 National Poverty Report 2004 | 44
+2.4 Millennium Development Goals (MDG) | 44
+2.5 Education for All (EFA) Plan | 45
+2.6 National Technical and Vocational Education and Training Strategy (NTVETS) | 45
+
 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
+2.7 Five-Year Education Development Plan 2001-2005 | 46
+2.8 Draft Work Plan for the Development of Higher Education in Palestine | 46
+2.9 Palestinian Higher Education Financing Strategy | 47
+2.10 Teacher Education Strategy | 47
+Chapter Three: Education Strategic Framework | 48
+3.1 Introduction | 48
+3.2 The Vision | 48
+3.3 Mission of MoEHE | 48
+3.4 Basic Principles | 48
+3.5 Main Policies of the MoEHE | 49
+3.6 Goals for the Coming Period | 51
+Chapter Four: Programs in Pre-school, General and Non-formal Education | 52
+4.1 Goals | 52
+4.1.1 Goal 1 - To increase access of school-aged children and students of all education levels and improve the ability of the education system to retain them (Access) | 53
+RESULTS | 53
+4.1.2 Goal 2 - To improve the quality of teaching and learning (Quality) | 55
+4.1.3 Goal 3 - To develop the capacity for planning and management and to improve the financial and management systems used (Management) | 57
+Chapter Five: Programs in TVET and Higher Education | 60
+5.1 Goals of the Education Development Strategic Plan | 60
+5.2 Expected Results | 61
+5.2.1 Access | 61
+5.2.2 Quality | 62
+5.2.3 Management | 63
+5.2.4 Relevance | 63
+5.3 Targets | 64
+5.3.1 Access | 64
+
 4
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+5.3.2 Quality | 65
+5.3.3 Management | 66
+5.3.4 Relevance | 67
+5.4 Action Programs | 67
+Chapter Six: Cost and Financing | 68
+6.1 The 5YP Expenditure Framework | 68
+6.2 Results of cost estimation | 70
+6.2.1 General Education simulation results | 71
+6.2.2 MoEHE summary budget estimates | 76
+6.3 Budget financing and gap analysis | 77
+6.4 Summary Projection of the Development of Education Cost for 2008—2012 - government schools only (in ‘000 US$;) | 80
+Chapter Seven: Implementation, Monitoring, Review Meetings and Rolling Plans | 97
+7.1 Introduction | 97
+7.2 Preparation of Yearly Operational Plans | 97
+7.2.1 Monitoring | 98
+7.3 Review Meetings and Rolling Plans | 99
+Chapter Eight: Role of Stakeholders and Development Partners | 102
+8.1 Introduction | 102
+8.2 A Sector-Wide Approach process (SWAp) | 102
+Annex I: Policies for the EDSP | 104
+Annex II: General Education Indicators | 113
+Annex III: Higher Education Indicators | 114
+Annex IV: General Education Matrix | 131
+Annex V: Higher Education Matrix | 132
+Annex VI: List of the MoEHE document from at the web site | 133
 
 5
 
@@ -49,6 +131,8 @@ Towards Quality Education for Development July 2008
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+# List of Tables and Figures
 
 ## A. List of tables
 
@@ -73,8 +157,6 @@ Figure 2: Total Budget of Development Programmes per Scenario | 72
 Figure 3: Budget Development per Scenario for Goal 1- Access | 72
 Figure 4: Budget Development per Scenario for Goal 2- Quality | 74
 Figure 5: Budget Development per Scenario for Goal 3- Management | 75
-
-# List of Tables and Figures
 
 7
 
@@ -146,7 +228,7 @@ WB | West Bank
 
 The period 2001-2005 was characterized mainly by responses to emergencies during the second intifada. The West Bank and Gaza suffered from Israeli military incursions and closures of borders, heavy restrictions on movement and travel and other obstacles to normal life imposed by Israel. Furthermore, the Separation Wall constructed by Israel in the West Bank has led to the isolation of communities and, in a number of cases, their separation from the closest schools for their children. Internal travel within the West Bank became extremely difficult due to Israeli military checkpoints, and between the West Bank and the Gaza Strip it became almost impossible. Yet, the Ministry of Education & Higher Education (MoEHE) tried to keep a long-term strategic view. It tried its best to implement the Five-year Education Development Plan (2001-2005) and tried to maintain its cooperation with donors and other development partners.
 
-The Palestinian Legislative Council elections in January 2006 and the rise of Hamas to power in the Palestinian Government led to a formal withdrawal of most donors and development partners from cooperation with the MoEHE. Consequently, completion of the second fiveyear plan (the present EDSP 2008-2012) was considerably delayed.
+The Palestinian Legislative Council elections in January 2006 and the rise of Hamas to power in the Palestinian Government led to a formal withdrawal of most donors and development partners from cooperation with the MoEHE. Consequently, completion of the second five-year plan (the present EDSP 2008-2012) was considerably delayed.
 
 In late 2007 and early 2008, Palestine witnessed a revival in strategic planning within all sectors and all ministries of the PNA due to the renewed interest of donor countries in the peace process and in providing financial support to the PNA. Having had worked on the education sector diagnosis and the preparation of EDSP since late 2005, the MoEHE found itself well prepared to contribute to the Palestinian Reform and Development Plan (PRDP) whose preparation started in late 2007 and which now sets the developmental framework within which sector plans should be drawn. PRDP was presented to donors at the Paris Conference in December 2007 and received pledges for financial support.
 
@@ -172,7 +254,7 @@ Finally, the intention of the EDSP to better coordinate with UNRWA, NGOs and the
 
 Lamis M. Alami
 
-Minister of Education and Higher Education the Palestinian Reform and Development Plan (PRDP) for the years 2008-2010. The MoEHE provided a summary of its EDSP programs and financial resources to the team preparing the PRDP which was incorporated into the plan. In turn, while finalizing the EDSP, the MoEHE closely aligned its programs and the required financial resources with the PRDP which had already been presented at the donor conference in Paris on 17 December 2007, before the launching of the EDSP.
+Minister of Education and Higher Education
 
 12
 
@@ -180,7 +262,23 @@ Minister of Education and Higher Education the Palestinian Reform and Developmen
 
 [[START OF PAGE 13]]
 
-(this page came through the extractor with no text)
+# Acknowledgments
+
+With much respect and consideration, it pleases me to thank all those who contributed to produce the Second Educational Development Five-Year Plan. This document is the result of many months of hard work by the Ministry of Education & Higher Education and the valuable input of the individuals, groups and organisations who participated to bring the work to light.
+
+It would not have been possible to develop this document without the excellent input of the team of the Directorate General of Educational Planning and the planning team of the Directorate of Higher Education as well as the other Directorates General of MoEHE who contributed to the work in different phases of the planning process.
+
+The energy and enthusiasm of my colleagues from the Policy Committee, and the commitment of all who took part, added greatly to the deliberations on the direction of the plan.
+
+Thanks are also extended to all those who participated in the workshops and focus groups during the consultations undertaken in preparing the plan, especially the directors of education and their deputies, heads divisions, school principals, teachers, students and parents
+
+Work on the plan benefited greatly from the input of national and international experts which focused on how best to address various issues in the planning process and streamline the provision of educational services.
+
+Special thanks & gratitude to the Finnish Government for the financial and technical Support extended to the production of this Plan within the Capacity Building For Planning Program Under3rd Palestinian Finnish Educational Project (PALFEP III)
+
+Finally, our sincere thanks are offered to all donors and UN agencies who supported the planning process by providing technical assistance and participating in the work of the Education Sector Working Group (ESWG), and who are going to contribute to the implementation of the Second Educational Development Five-Year Plan.
+
+13
 
 [[END OF PAGE 13]]
 
@@ -191,6 +289,8 @@ Minister of Education and Higher Education the Palestinian Reform and Developmen
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+the Palestinian Reform and Development Plan (PRDP) for the years 2008-2010. The MoEHE provided a summary of its EDSP programs and financial resources to the team preparing the PRDP which was incorporated into the plan. In turn, while finalizing the EDSP, the MoEHE closely aligned its programs and the required financial resources with the PRDP which had already been presented at the donor conference in Paris on 17 December 2007, before the launching of the EDSP.
 
 ## Review of Education Sector Performance
 
@@ -210,7 +310,7 @@ Relevance  of  TVET  and  higher  education  to  socio-economic  development  ne
 
 > 2   MoEHE, (2007) Year Statistical Report. Ramallah, Palestine.
 
-> 3  Females› enrolment rate in the TVET sub-streams are: 44.4% in the commercial, 6.9% in the Agricultural, 10% in the Industrial (including the Home Economics SS) and 0% in the Hotel.
+> 3  Females’ enrolment rate in the TVET sub-streams are: 44.4% in the commercial, 6.9% in the Agricultural, 10% in the Industrial (including the Home Economics SS) and 0% in the Hotel.
 
 > 4   MoEHE (2008). Yearly HE Statistical Book. Ramallah, Palestine.
 
@@ -242,19 +342,19 @@ In order to link EDSP to development needs at the national level and in order to
 
 [[START OF PAGE 17]]
 
-- Palestinian Reform and Development Plan 2008-2010 (PRDP) ·
+- Palestinian Reform and Development Plan 2008-2010 (PRDP)
 
-- The National Poverty Report 2004 ·
+- The National Poverty Report 2004
 
-- Education for All (EFA) Plan ·
+- Education for All (EFA) Plan
 
-- Ten-Year Plan for Education in the Arab World ·
+- Ten-Year Plan for Education in the Arab World
 
-- The National Technical and Vocational Education and Training Strategy (NTVETS) ·
+- The National Technical and Vocational Education and Training Strategy (NTVETS)
 
-- The Five-Year Education Development Plan 2001-2005 ·
+- The Five-Year Education Development Plan 2001-2005
 
-- A number of unpublished policy papers on Higher Education. ·
+- A number of unpublished policy papers on Higher Education.
 
 ## Vision for Education
 
@@ -323,11 +423,11 @@ Geographical Unity: Despite the current situation in Gaza, the MOEHE will not ne
 ## Goals
 
 The following goals will be achieved at the end of the planning period:
----
+
 Goal 1: To increase access of school-aged children and students of all education levels and improve the ability of the education system to retain them (Access)
 Goal 2: To improve the quality of teaching and learning (Quality)
 Goal 3: To develop the capacity for planning and management and to improve the financial and management systems used (Management)
-Goal 4: To realize a gradual conversion of the HE Sector and TVET sector from a supply- oriented to a demand-oriented sector, which, accordingly, guarantees more compatibility between outputs and labor market(s) needs (Relevance)
+Goal 4: To realize a gradual conversion of the HE Sector and TVET sector from a supply-oriented to a demand-oriented sector, which, accordingly, guarantees more compatibility between outputs and labor market(s) needs (Relevance)
 
 ## Expected Results
 
@@ -335,17 +435,17 @@ A number of priority action programs have been elaborated in the various sub-sec
 
 ### Results related to Access:
 
-- New educational institutions, · both  governmental  and  non-governmental,  will  be established at all levels of education (kindergartens, schools and higher education including VE).
+- New educational institutions, both governmental and non-governmental, will be established at all levels of education (kindergartens, schools and higher education including VE).
 
-- The intake capacity · of  existing educational institutions will be increased and their ability to retain students will be improved through provision of more competent staff and better educational facilities, services and follow up.
+- The intake capacity of existing educational institutions will be increased and their ability to retain students will be improved through provision of more competent staff and better educational facilities, services and follow up.
 
-- Inclusion of · students with special needs will be further promoted.
+- Inclusion of students with special needs will be further promoted.
 
-- Special TVET institutions for females · will  be  established  and  special  programs  for females in co-educational TVET institutions will be introduced in priority geographic areas.
+- Special TVET institutions for females will be established and special programs for females in co-educational TVET institutions will be introduced in priority geographic areas.
 
-- Laws,  regulations  and  mechanisms · will  be  reviewed  to  better  regulate  nongovernmental institutions at all levels and also to encourage enrollment in TVET.
+- Laws, regulations and mechanisms will be reviewed to better regulate non-governmental institutions at all levels and also to encourage enrollment in TVET.
 
-- Career guidance · services will be introduced to better guide students in secondary and post-secondary institutions to future careers especially in TVET-related areas.
+- Career guidance services will be introduced to better guide students in secondary and post-secondary institutions to future careers especially in TVET-related areas.
 
 20
 
@@ -353,45 +453,45 @@ A number of priority action programs have been elaborated in the various sub-sec
 
 [[START OF PAGE 20]]
 
-- The private sector role will be strengthened · through partnerships in the hope that the sector will invest more in education by establishing institutions and providing scholarships and fellowships especially for students in post-secondary education.
+- The private sector role will be strengthened through partnerships in the hope that the sector will invest more in education by establishing institutions and providing scholarships and fellowships especially for students in post-secondary education.
 
 ### Results related to Quality:
 
-- Teachers  at  all  levels · will  be  better  trained  through  the  implementation  of  the National Teacher Education Strategy.
+- Teachers at all levels will be better trained through the implementation of the National Teacher Education Strategy.
 
-- Lecturers  at  all  levels · in  HEIs  will  be  better  trained  through  the  design  and  HRD programs according to real needs.
+- Lecturers at all levels in HEIs will be better trained through the design and HRD programs according to real needs.
 
-- Design  and  implementation  of  effective,  integrated  technical  and  administrative · training programs at local, regional and international levels, and institutionalization of a medium and long-term training. The promising design shall be demand-driven.
+- Design and implementation of effective, integrated technical and administrative training programs at local, regional and international levels, and institutionalization of a medium and long-term training. The promising design shall be demand-driven.
 
-- A curriculum for pre-school will de developed. ·
+- A curriculum for pre-school will de developed.
 
-- The curriculum for grades 1-12 · will be reviewed and the textbooks will be modified accordingly and provided to students.
+- The curriculum for grades 1-12 will be reviewed and the textbooks will be modified accordingly and provided to students.
 
-- The curriculum for non-formal education will be further developed. ·
+- The curriculum for non-formal education will be further developed.
 
-- Competency-Based  Modularized  Curricula  (CBMC)  for  TVET · ,  according  to  priority occupations, and with special consideration to females, will be developed.
+- Competency-Based Modularized Curricula (CBMC) for TVET, according to priority occupations, and with special consideration to females, will be developed.
 
-- Educational  facilities · including  infra-structure,  buildings,  furniture,  equipment, educational materials, labs and libraries in institutions at all levels will be improved.
+- Educational facilities including infra-structure, buildings, furniture, equipment, educational materials, labs and libraries in institutions at all levels will be improved.
 
-- New modes and approaches to learning & teaching · through activities: ICT, E-Learning, Blended-Learning … will be introduced.
+- New modes and approaches to learning & teaching through activities: ICT, E-Learning, Blended-Learning … will be introduced.
 
-- Special attention will be given to · science and technology education at  all  levels  of education in line with world-wide technological developments.
+- Special attention will be given to science and technology education at all levels of education in line with world-wide technological developments.
 
-- Student services and activities · will be improved at all levels of education.
+- Student services and activities will be improved at all levels of education.
 
-- Quality assurance in higher education · will receive further attention and thus building up on achievements so far.
+- Quality assurance in higher education will receive further attention and thus building up on achievements so far.
 
-- Scientific research · will be encouraged and compatibility with national development needs and priorities  will  be  ensured. A national science, technology and research polic/strategy will be formulated.
+- Scientific research will be encouraged and compatibility with national development needs and priorities will be ensured. A national science, technology and research polic/strategy will be formulated.
 
-- An  extensive  and  updated · database on Palestinian professional and experienced human resources available inside and outside Palestine will be constructed.
+- An extensive and updated database on Palestinian professional and experienced human resources available inside and outside Palestine will be constructed.
 
-- Students' achievements on national and international tests will be improved. ·
+- Students' achievements on national and international tests will be improved.
 
 ### Results related to Management
 
-- The structure of the MoEHE, at all levels and institutions · will be reviewed and modified in  order  to  reflect  recent  and  expected  developments  and  to  prevent  overlap  in functions. Rules, regulations, mission statements and job descriptions will be reviwed accordingly.
+- The structure of the MoEHE, at all levels and institutions will be reviewed and modified in order to reflect recent and expected developments and to prevent overlap in functions. Rules, regulations, mission statements and job descriptions will be reviwed accordingly.
 
-- The move towards decentralization in management · will continue delegating more responsibilities  to  the  district  and  institutional  levels  (Palestinian  Law  number  11,
+- The move towards decentralization in management will continue delegating more responsibilities to the district and institutional levels (Palestinian Law number 11,
 
 21
 
@@ -401,21 +501,21 @@ A number of priority action programs have been elaborated in the various sub-sec
 
 1998).
 
-- Capacity development for EDSP implementation and review will be developed. ·
+- Capacity development for EDSP implementation and review will be developed.
 
-- Yearly MoEHE budget will be prepared based on EDSP yearly operational plans. ·
+- Yearly MoEHE budget will be prepared based on EDSP yearly operational plans.
 
-- Computerized databases and financial management systems · at MoEHE and at HEIs will be developed, interfaced, and harmonized with those of other relevant Ministries (especially MoF). Initiatives toward e-government will be encouraged.
+- Computerized databases and financial management systems at MoEHE and at HEIs will be developed, interfaced, and harmonized with those of other relevant Ministries (especially MoF). Initiatives toward e-government will be encouraged.
 
-- Capacity for self-financing of HEIs will be improved, including development of an · administrative-financial  system  for  reclaiming  students'  loans  for  the  benefit  of Student Revolving Fund.
+- Capacity for self-financing of HEIs will be improved, including development of an administrative-financial system for reclaiming students' loans for the benefit of Student Revolving Fund.
 
-- A  unified  classification  of  employees  in  the  HE  institutions · will  be  designed  and adopted, and human resource development will be done in accordance with this classification.
+- A unified classification of employees in the HE institutions will be designed and adopted, and human resource development will be done in accordance with this classification.
 
-- Cooperation  between  MoEHE  and  HEIs · on  the  one  hand  and  among  the  HEIs themselves on the other hand will be enhanced.
+- Cooperation between MoEHE and HEIs on the one hand and among the HEIs themselves on the other hand will be enhanced.
 
-- Cooperation  of  MoEHE  with  its  partners, · especially  UNRWA,  non-governmental organizations  and  institutions  and  international  development  partners,  will  be strengthened. A SWAp process will be formulated and adopted.
+- Cooperation of MoEHE with its partners, especially UNRWA, non-governmental organizations and institutions and international development partners, will be strengthened. A SWAp process will be formulated and adopted.
 
-- The National TVET Strategy will be implemented. ·
+- The National TVET Strategy will be implemented.
 
 ### Results related to Relevance
 
@@ -425,7 +525,7 @@ A gradual conversion of the system of post-secondary education from a supply-ori
 
 Table 1: Budget summary for General Education & Higher Education
 
-Sub-sector | Goal | Current (000) $ | Capital (000) $ | Total (000) $
+ | Sub-sector | Goal | Current (000) $ | Capital (000) $ | Total (000) $
 --- | --- | --- | --- | --- | ---
 1 | Pre-school education | Access Quality Manag | 110 942 217 | 3,280 - 22 | 3,390 942 239
 2 | General Education | Access Quality Manag | 126,068 95,606 3,814 | 308,054 29,562 2,116 | 434,122 125,168 5,930
@@ -438,12 +538,11 @@ Sub-sector | Goal | Current (000) $ | Capital (000) $ | Total (000) $
 
 [[START OF PAGE 22]]
 
-5 | Salaries GE | 2,391,407 | - | 2,391,407
---- | --- | --- | --- | ---
-Other OPEX GE | 34,219 | - | 34,219
-6 | Salareis HE&TVET | 121,802 | - | 121,802
-Other OPEX HE&TVET | 14,043 | - | 14,043
-7 | Total (000 US$) | 2,820,906 | 655,839 | 3,476,744
+5 | Salaries GE |  | 2,391,407 | - | 2,391,407
+ | Other OPEX GE |  | 34,219 | - | 34,219
+6 | Salareis HE&TVET |  | 121,802 | - | 121,802
+ | Other OPEX HE&TVET |  | 14,043 | - | 14,043
+7 | Total (000 US$) |  | 2,820,906 | 655,839 | 3,476,744
 
 ## Funding
 Table 2: General & Higher Education by Source of Funding
@@ -453,8 +552,8 @@ Item | Recurrent(US$ 000) | Capital(US$ 000) | Total (US$ 000)
 Plan Budget | 2,820,905.78 | 655,837.51 | 3,476,743.29
 Available through PRDP | 90,452.750 | 138,819.100 | 229,271.85
 MoF | 2,425,626.03 | 0 | 2,425,626.03
-Other (community donations) | 5,000
-Gap | 816,845.41
+Other (community donations) |  |  | 5,000
+Gap |  |  | 816,845.41
 
 ## Implementation and Monitoring Arrangements
 
@@ -482,7 +581,7 @@ The MoEHE also envisages  organizing  a  mid-term  review  of  progress  in  EDS
 
 ## Sector Wide Approach (SWAP)
 
-Donor harmonization has been a topic of discussion in the Palestinian education sector for almost ten years now, but most of the ideas and recommendations have remained on paper. The Education Development Strategic Plan (EDSP) includes the establishment of a Sector Wide Approach (SWAP) and the Education Sector Working Group (ESWG) supports this issue. A Technical mission was contracted and whose mission was to help develop a concrete strategy for a program-based approach. The mission introduced major stakeholders to approaches to sector wide modalities and the instruments to finance them and a report was  finalized  in  June  that  summarised  the  findings  and  re­ commendations  to  assist  the Ministry of Education & Higher Education (MoEHE) and the SWG in the preparation of the modality.
+Donor harmonization has been a topic of discussion in the Palestinian education sector for almost ten years now, but most of the ideas and recommendations have remained on paper. The Education Development Strategic Plan (EDSP) includes the establishment of a Sector Wide Approach (SWAP) and the Education Sector Working Group (ESWG) supports this issue. A Technical mission was contracted and whose mission was to help develop a concrete strategy for a program-based approach. The mission introduced major stakeholders to approaches to sector wide modalities and the instruments to finance them and a report was finalized in June that summarised the findings and recommendations to assist the Ministry of Education & Higher Education (MoEHE) and the SWG in the preparation of the modality.
 
 24
 
@@ -504,9 +603,9 @@ Group three was responsible for general education sector review and analysis and
 
 For the HE part of the EDSP, the sector review depended mainly on literature review that came from a series of participatory planning sessions. What characterized this part: was the fact that it was completely produced by the HE sector staff. Furthermore, no technical or financial assistance was enlisted except in the finalization stage of the whole document. However, the deviation in the HE budget from the PRDP budget is very low.
 
-From the onset, the MoEHE decided to adopt a participatory approach in plan formulation. National stakeholders and donors and other development partners were invited to get involved in the plan preparation process and to support it technically and financially. The Palestinian-Finnish Education Program (PALFEP III) provided technical and financial assistance for plan preparation. The  political  situation  led  to  considerable  delays  in  the  plan  preparation  process.  Recently, discussions with development partners have resumed on regular basis, through the Education Sector Working Group (ESWG). It is hoped that these discussions will eventually lead to a SectorWide Approach (SWAp) in the implementation of the education reform and development plan.
+From the onset, the MoEHE decided to adopt a participatory approach in plan formulation. National stakeholders and donors and other development partners were invited to get involved in the plan preparation process and to support it technically and financially. The Palestinian-Finnish Education Program (PALFEP III) provided technical and financial assistance for plan preparation. The political situation led to considerable delays in the plan preparation process. Recently, discussions with development partners have resumed on regular basis, through the Education Sector Working Group (ESWG). It is hoped that these discussions will eventually lead to a Sector-Wide Approach (SWAp) in the implementation of the education reform and development plan.
 
-As a first step in plan preparation, a sector review was conducted by the Technical Team in order to learn from the experience gained during the implementation of the first fiveyear plan and to define the major challenges facing the education sector within the present national context. The sector review tried to make use of analyses, reviews, and studies that had already been conducted by other partners such as the World Bank and UNESCO, and those related to the 'Education for All Plan' and the Mid Term Review.
+As a first step in plan preparation, a sector review was conducted by the Technical Team in order to learn from the experience gained during the implementation of the first five-year plan and to define the major challenges facing the education sector within the present national context. The sector review tried to make use of analyses, reviews, and studies that had already been conducted by other partners such as the World Bank and UNESCO, and those related to the 'Education for All Plan' and the Mid Term Review.
 
 Workshops for stakeholders were organized in various districts. Students, parents, teachers, school principals, technical as well as administrative members of staff in directorates, private schools,  and  schools  for  children  with  special  needs  were  involved  in  those  workshops. The sector review focused on three major areas: access, quality, and management of the education sector.
 
@@ -520,17 +619,17 @@ The vision  statement  of  the  MoEHE  was  formulated  and  the  goals,  object
 
 Fruitful consultations were held within the Education Sector Working Group. The detailed plan  was  presented  to  the  donors  and  their  comments  were  integrated.  The  final  Plan document was finalized with technical assistance from UNESCO's International Institute for Educational Planning (IIEP). During the period of Plan document finalization, the Palestinian Reform and Development Plan (PRDP) was being produced. Major programs of the education plan were integrated within the PRDP. On the other hand, the finalization of the present EDSP document took into consideration the themes included in the PRDP regarding the whole sector of education.
 
-- The methodology that was followed in preparing the EDSP embodies the following · major principles:
+- The methodology that was followed in preparing the EDSP embodies the following major principles:
 
-- setting policies, goals and targets based on evidence and on comprehensive sector · review and diagnosis;
+- setting policies, goals and targets based on evidence and on comprehensive sector review and diagnosis;
 
-- enhancing partnership in planning and decision-making with national stakeholders · at  all  levels,  as  well  as  the  community  at  large,  as  well  as  with  donors  and  other international development partners;
+- enhancing partnership in planning and decision-making with national stakeholders at all levels, as well as the community at large, as well as with donors and other international development partners;
 
-- following a participatory process in plan formulation within MoEHE so as  to create · a sense of ownership and to enhance the capacity for sector analysis, policy setting and planning of staff in the various Directorates General and at district level;
+- following a participatory process in plan formulation within MoEHE so as to create a sense of ownership and to enhance the capacity for sector analysis, policy setting and planning of staff in the various Directorates General and at district level;
 
-- Learning from international experience in educational planning and following the · most recent methods and trends in educational planning;
+- Learning from international experience in educational planning and following the most recent methods and trends in educational planning;
 
-- Learning from past experience and utilizing the institutional experience. ·
+- Learning from past experience and utilizing the institutional experience.
 
 26
 
@@ -544,7 +643,7 @@ Fruitful consultations were held within the Education Sector Working Group. The 
 
 As a result of the Oslo Accords and as a consequence of the Early Transfer of Authority Agreement between the PLO and Israel, the Palestinian Ministry of Education and Higher Education came into existence in August 1994. While the Ministry was setting itself up and recruiting its officers and employees, it had to quickly take over the responsibility of the Palestinian education system in the West Bank and Gaza from the Israeli authorities. It had to simultaneously: (1) build its own structure, (2) recruit staff, (3) develop its management systems and its capacity for planning and management, (4) design development programs and fundraise for  their  implementation,  (5)  develop  the  first  ever  unified  Palestinian  curriculum for the West Bank and Gaza, and (6) manage the whole education system on a daily basis. It was an ongoing uphill effort for the creation of the Ministry and for the reconstruction and development of the education sector after 27 years of Israeli occupation.
 
-In  early  1999,  the  MoEHE  launched  a  participatory  process  for  preparing  its  first  fiveyear education sector development plan (2001-2005). Various MoEHE units at central and decentralized levels, as well as stakeholders and development partners, took part in the process. Furthermore, a number of concrete attempts were made to move towards a SectorWide  Approach  process  for  the  implementation  of  the  Plan,  and  a  number  of  relevant consultancies and studies were conducted.
+In early 1999, the MoEHE launched a participatory process for preparing its first five-year education sector development plan (2001-2005). Various MoEHE units at central and decentralized levels, as well as stakeholders and development partners, took part in the process. Furthermore, a number of concrete attempts were made to move towards a Sector-Wide Approach process for the implementation of the Plan, and a number of relevant consultancies and studies were conducted.
 
 Immediately after launching the Five-Year Education Development Plan (2001-2005), the second Intifada started in October 2000. During the intifada, most development activities in  Palestine  either  came  to  a  halt  or  were  seriously  delayed.  Still,  the  Plan  was  put  to implementation in parallel to activities and arrangements to respond to needs arising from the new emergency situation. At the end of the plan implementation period, in late 2005, the Ministry launched a sector review process to diagnose the pre-tertiary education sub sector, identify the challenges and conclude the lessons learnt from the implementation of the first five-year plan. Simultaneously, a sector study of higher education was conducted by the MoEHE in cooperation with the World Bank. A comprehensive and in-depth analysis of the Technical and Vocation Education and Training (TVET) sub-sector had earlier been conducted. The purpose of this Chapter is to present the findings of these reviews for each education sub-sector. In order to better understand the situation of the education sector and to set the tone for the presentation of the findings of the reviews, the next sections describe the structure of the Palestinian education sector and the governance of its various sub-sectors.
 
@@ -552,7 +651,7 @@ Immediately after launching the Five-Year Education Development Plan (2001-2005)
 
 The formal system of Palestinian education supervised by MoEHE, consists of three stages: pre-school education, school education (basic and secondary), and tertiary education. In addition, there is the non-formal education which is mostly related to school education.
 
-Pre-school education (kindergartens) lasts for two years. It meets the needs of children in the 4-5 age group. Local, national and international institutions and organizations provide these educational services.  The  Ministry  of  Education  and  Higher  Education  indirectly  supervises this  sub-sector  through  issuing  licenses  to  establish  kindergartens  according  to  a  set  of specifications regarding the physical facilities and criteria regarding the cadre who run the service and the curriculum used. The MoEHE has set up and manages very few kindergartens.
+Pre-school education (kindergartens) lasts for two years. It meets the needs of children in the 4-5 age group. Local, national and international institutions and organizations provide these
 
 27
 
@@ -562,31 +661,98 @@ Pre-school education (kindergartens) lasts for two years. It meets the needs of 
 
 Figure (1): The Organizational Structure of the MoEHE
 
+ORGANIZATIONAL STRUCTURE
+
+ADVISORS
+
+THE MINISTER
+
+REGISTRY
+
+Council for Higher Education
+
+Council for Scientific Research
+
+Loan Fund
+
+Accreditation and Quality Assurance Commission
+
+Ministerial Council Affairs Unit
+
+Internal Supervision Unit
+
+Solidarity Unit
+
+Deputy Minister
+
+Jerusalem Unit
+
+Legal Unit
+
+Curriculum Center
+
+The National Institute for Educational Training
+
+Assistant Deputy Minister for Higher Education.
+Assistant Deputy Minister for Administrative Affairs.
+Assistant Deputy Minister for Education Affairs.
+Assistant Deputy Minister for Development Affairs.
+
+D.G. for Higher Education
+D.G for Development and Scientific Research
+D.G. for Scholarships and Students Affairs
+D.G for TVET Education
+D.G. for Higher Education
+D.G for Students Activities
+D.G. for School Health
+D.G. for Counseling, Career and Special Education
+D.G. for Assessment and Evaluation and Examinations
+D.G. for Technologies and Information System
+D.G. of Textbooks Printing
+D.G. for Supplies
+D.G. for Buildings
+D.G. for Projects
+D.G. for planning
+D.G. for International and Public Relations
+Registry
+D.G. for Administrative Affairs
+D.G. for Financial Affairs
+D.G. for Field Follow Up
+D.G. for General education
+
+Public Universities: Al-Aqsa University.
+Public and Technical Colleges: Science and Technology College- Khan younis, Palestine Technical College-Khaduri, Palestine Technical College-Ramallah for girls, Palestine Technical College- Al-Aroub, Palestine Technical College- Dair Al-Balah, The Nation college.
+
+Directorates of Education for Northern Governorates: Jenin, Qabatieh, Nablus, Southern Nablus, Salfeet, Tulkarem, Ramallah & Albireh, Suburb Jerusalem, Jerusalem, Jericho, Southern Hebron, Hebron, Baithlahem.
+Directorates of Education for the Southern Governorates: Gaza, North Gaza, Middle Gaza, Khan Younis, Rafah
+
 28
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
+educational services. The Ministry of Education and Higher Education indirectly supervises this sub-sector through issuing licenses to establish kindergartens according to a set of specifications regarding the physical facilities and criteria regarding the cadre who run the service and the curriculum used. The MoEHE has set up and manages very few kindergartens.
+
 With regards to school education, this sub-sector lasts for 12 years, starting at grade 1 and ending at grade 12. Children are accepted in the first elementary grade at age six. School education (General Education) is divided into two cycles:
 
-- Compulsory · basic education cycle: grades 1-10.
+- Compulsory basic education cycle: grades 1-10.
 
-- Secondary  education  cycle: · this  consists  of Academic  Education and  includes grades  11-12  which  are  within  the  General  Education  Sector  of  the  MoEHE;    and Vocational Education which includes grades 11-12, and is linked to Technical and Vocational Education and Training (TVET), and supervised by the Directorate General of TVET which is within the MoEHE's Higher Education Sector. The age group of pupils in this cycle is 16-17 years. At the end of this cycle students sit for a matriculation exam (the General Secondary School Certificate Exam - Tawjihi).
+- Secondary education cycle: this consists of Academic Education and includes grades 11-12 which are within the General Education Sector of the MoEHE; and Vocational Education which includes grades 11-12, and is linked to Technical and Vocational Education and Training (TVET), and supervised by the Directorate General of TVET which is within the MoEHE's Higher Education Sector. The age group of pupils in this cycle is 16-17 years. At the end of this cycle students sit for a matriculation exam (the General Secondary School Certificate Exam - Tawjihi).
 
 Higher Education consists of TVET institutions and programs, and academic, technical and community colleges and universities - public, private, governmental and UNRWA.
 
-In addition to the above, there are the following types of education which are supervised by  the  MoEHE's  Directorate  General  of  Educational  Counseling  and  Special  Needs  and Directorate General of General Education:
+In addition to the above, there are the following types of education which are supervised by the MoEHE's Directorate General of Educational Counseling and Special Needs and Directorate General of General Education:
 
-- Special education: · This  is  offered  to  those  with  special  needs  such  as  the  gifted, the disabled or those who need special care. Such groups with special needs have been included in formal education as part of the 'Inclusive Education' approach and projects.
+- Special education: This is offered to those with special needs such as the gifted, the disabled or those who need special care. Such groups with special needs have been included in formal education as part of the 'Inclusive Education' approach and projects.
 
-- Non-formal education: ·
+- Non-formal education:
 
-- Literacy  and  Adult  Education 1. (including pilot activities and programs  in Continuing Education): This type of education is designed for people over the age of 15 who have not joined education at all or who have joined but only for short periods of less than four years, and who are unable to read and write well.
+1. Literacy and Adult Education (including pilot activities and programs in Continuing Education): This type of education is designed for people over the age of 15 who have not joined education at all or who have joined but only for short periods of less than four years, and who are unable to read and write well.
 
-- Parallel Education: 1. This is a program for out-of school youth, aged 15-20 years, who dropped out of formal schooling after 5th grade. It is designed to allow them to  complete  basic  education,  and  then  secondary  and  post-secondary education and training.
+1. Parallel Education: This is a program for out-of school youth, aged 15-20 years, who dropped out of formal schooling after 5th grade. It is designed to allow them to complete basic education, and then secondary and post-secondary education and training.
 
-- Courses in private centers: 1. This type of education is offered through short courses for several months or weeks in special 'cultural' centers within the private sector. Examples of such courses are: computer science and programming, business administration, and Hebrew language. The MoEHE gives permission to these centers to run courses according to specific criteria.
+1. Courses in private centers: This type of education is offered through short courses for several months or weeks in special 'cultural' centers within the private sector. Examples of such courses are: computer science and programming, business administration, and Hebrew language. The MoEHE gives permission to these centers to run courses according to specific criteria.
 
 ## 1.3 Governance of Educational Institutions 7
 
@@ -628,7 +794,7 @@ The  detailed  report  on  sector  diagnosis  can  be  accessed  on  the  EDSP  
 
 ### 1.5.1 Pre-school education
 
-Regulating  and  developing  the  quality  of  this  sub-sector  of  education  at  the  national level started with the establishment of the MoEHE in 1994.  At that time, as is still the case at present, pre-school education was provided by the private sector, by private non-profit schools and by charitable societies. The Ministry currently supervises this sector through setting  specifications  regarding  kindergarten  physical  facilities  and  the  criteria  for  their personnel and their programs on the basis of which the MoEHE issues permits and licenses to kindergartens to operate. The MoEHE has specified the age of children joining kindergartens between a minimum of three years and eight months and a maximum of five years and eight months. After this age, children join elementary education at first grade. Children who are below this age join nurseries. Although desirable and encouraged, attendance of preschool education is, however, not considered as a criterion or a pre-requisite for enrolment in the elementary cycle.
+Regulating and developing the quality of this sub-sector of education at the national level started with the establishment of the MoEHE in 1994. At that time, as is still the case at present, pre-school education was provided by the private sector, by private non-profit schools and by charitable societies. The Ministry currently supervises this sector through setting specifications regarding kindergarten physical facilities and the criteria for their personnel and their programs on the basis of which the MoEHE issues permits and licenses to kindergartens to operate. The MoEHE has specified the age of children joining kindergartens between a minimum of three years and eight months and a maximum of five years and eight months. After this age, children join elementary education at first grade. Children who are below this age join nurseries. Although desirable and encouraged, attendance of pre-school education is, however, not considered as a criterion or a pre-requisite for enrolment in the elementary cycle.
 
 #### Enrollment and percentage of first grade pupils who have attended pre-school:
 The decline in the number of kindergartens during the first three years of the second intifada  (2001-2003)  was  quite  noticeable.  This  was  due  to  insecurity,  economic recession, and decline in investment by the private sector. After this period, the number was on the rise again. A positive development is the percentage of increase in the total number of kindergartens during the period in question (1999/2000-2005/2006) which stands at 10.9%. The total  number of children  in  pre-schools  for  the  same period has, however, slightly decreased. The percentage of pupils in the first grade of  basic  schooling  who  had  enrolled  in  pre-school  programs  has  also  decreased: from  73.3%  in  1999/2000  to  53.3%  in  2005/2006.  Rising  poverty,  the  Separation Wall built by Israel and the quality of pre-school programs seem to be three of the
@@ -643,7 +809,7 @@ causes for these decreasing percentages. This is a challenge for the next five y
 
 #### Quality
 
-Teachers: Although the number of kindergarten teachers during the diagnosis period increased - thus reducing the child/teacher ratio - both the percentages of teachers carrying  secondary  school  certificates  and  post-secondary  diplomas  dropped noticeably. MoEHE works to raise the skills of staff working in kindergartens through organizing  annual  training  courses  at  central  level  for  kindergarten  supervisors from the districts who in their turn hold training courses for kindergarten principals and teachers at district level. In addition to organizing training, the supervisors also conduct field visits to kindergartens to assist them in maintaining the quality of preschool education.
+Teachers: Although the number of kindergarten teachers during the diagnosis period increased - thus reducing the child/teacher ratio - both the percentages of teachers carrying secondary school certificates and post-secondary diplomas dropped noticeably. MoEHE works to raise the skills of staff working in kindergartens through organizing annual training courses at central level for kindergarten supervisors from the districts who in their turn hold training courses for kindergarten principals and teachers at district level. In addition to organizing training, the supervisors also conduct field visits to kindergartens to assist them in maintaining the quality of pre-school education.
 
 Supervisors: The MoEHE officers directly in charge of quality control in pre-schools are the kindergarten supervisors in each Directorate of Education at the district level. The number of these supervisors is insufficient for the desired quality control and support, as each is responsible for supervising 50-90 kindergartens.
 
@@ -671,11 +837,11 @@ Both the total net and gross enrollment rates of children in the 1st Basic Grade
 
 #### Quality
 
-The  MoEHE  has  defined  improvement  in  quality  of  education  as  improvement in  student  achievement,  especially  in  Arabic,  math,  science  and  technology;  and acquisition of life skills, through improvement in the curriculum and the teachinglearning process; in addition to improvement in student services and extra-curricular activities.  Student  achievement  is  affected  by  the  performance  of  teachers,  the relevance of curriculum to individual and societal needs, the availability and quality of textbooks and the availability and use of teaching-learning resources.
+The MoEHE has defined improvement in quality of education as improvement in student achievement, especially in Arabic, math, science and technology; and acquisition of life skills, through improvement in the curriculum and the teaching-learning process; in addition to improvement in student services and extra-curricular activities. Student achievement is affected by the performance of teachers, the relevance of curriculum to individual and societal needs, the availability and quality of textbooks and the availability and use of teaching-learning resources.
 
 Curriculum: Developing  a  Palestinian  curriculum  and  textbooks  for  all  grades (1-12)  during  the  period  1995-2006  was  one  of  the  most  pressing  priorities.  Its accomplishment was a major national achievement and a source of pride. However, surveys conducted as part of the diagnosis indicated that there is a strong opinion among students, parents, teachers and principals that many topics are difficult and that the curriculum is long. There is need to review the curriculum. This was originally envisioned by the MoEHE when the curriculum development plan was formulated.
 
-Teachers: Studies conducted during the diagnosis concluded that many teachers are not adequately trained or supported to teach the curriculum. Practical activities specified in the textbooks and in teacher guides are not applied. Science labs and other teaching and learning resources are not sufficiently utilized. Frontal teaching and lecturing are the predominant methods of teaching. Although numerous inservice  training  courses  have  been  organized  during  the  period  2001-2005,  they were  not  sufficient.  Universities  have  pre-service  teacher  training  programs  but they are not designed to equip teachers for the implementation of the Palestinian curriculum. The need for a comprehensive national strategy for teacher education arose in which the universities would play a leading role in teacher education and in the follow up and support system which are relevant to the needs of the education sector. A national strategy was in fact recently finalized and approved after extensive consultation. The challenge now is to implement it and verify that it is leading to the outcomes related to the quality of school education.
+Teachers: Studies conducted during the diagnosis concluded that many teachers are not adequately trained or supported to teach the curriculum. Practical activities specified in the textbooks and in teacher guides are not applied. Science labs and
 
 33
 
@@ -683,7 +849,9 @@ Teachers: Studies conducted during the diagnosis concluded that many teachers ar
 
 [[START OF PAGE 33]]
 
-Tests  and  measurement: Results of students' achievement  in national and international  tests  (TIMSS  2003)  are  still  low.  Studies  are  needed  to  identify  the factors which have the highest impact on student achievement. National tests, their reliability and validity have to be further improved and conducted.
+other teaching and learning resources are not sufficiently utilized. Frontal teaching and lecturing are the predominant methods of teaching. Although numerous in-service training courses have been organized during the period 2001-2005, they were not sufficient. Universities have pre-service teacher training programs but they are not designed to equip teachers for the implementation of the Palestinian curriculum. The need for a comprehensive national strategy for teacher education arose in which the universities would play a leading role in teacher education and in the follow up and support system which are relevant to the needs of the education sector. A national strategy was in fact recently finalized and approved after extensive consultation. The challenge now is to implement it and verify that it is leading to the outcomes related to the quality of school education.
+
+Tests and measurement: Results of students' achievement in national and international tests (TIMSS 2003) are still low. Studies are needed to identify the factors which have the highest impact on student achievement. National tests, their reliability and validity have to be further improved and conducted.
 
 Teaching and learning resources: Although the percentages of schools possessing science labs, laboratories, libraries, specialized resource rooms and educational and information technology have increased significantly, there are still many schools which need to be properly equipped. Furthermore, although available, these resources are still not sufficiently or adequately utilized, and lecturing and rote learning are still the predominant teaching and learning methods.
 
@@ -693,7 +861,7 @@ Student services and activities: The MoEHE has introduced many student services 
 
 When the MoEHE was established  in  1994,  it  implemented  education  and  civil service  laws  and  management  rules,  regulations  and  procedures  which  already existed in the West Bank (Jordanian ones) and Gaza (Egyptian). Databases related to teachers and administrative staff as well as other education management information systems had to be created from scratch. Technical skills for strategic planning and for implementation and monitoring of plans at national level were very limited. Since then, a gigantic effort has been made using significant resources in formulating a draft Palestinian education law and developing the MoEHE's organizational structure, the decision-making and management systems and the capacity to analyze, formulate policies, prepare plans and manage their implementation. The development partners were of great assistance to the MoEHE by providing technical and financial resources, as well as sharing experiences from other countries.
 
-Despite  the  above  achievements,  the  diagnosis  of  the  capacity  of  the  Ministry and the human resource situation related to planning and management revealed a number of problems, needs and challenges. These relate to the whole sector, from pre-school, to general and tertiary education, including non-formal education. The following  is  a  brief  summary  of  the  main  challenges.  As  indicated  above,  details related to this section and to the whole diagnosis can be accessed at www.moehe. gov.ps Education law, rules and regulations A draft education law prepared by the MoEHE is still to be ratified in its third reading by the Legislative Council. The new Palestinian civil service law has resulted in many improvements related to the standard of living of employees (as compared to the Jordanian and Egyptian laws in effect previously). Rules,  regulations  and  directives  are  numerous.  Some  are  old  (from  Jordan  and Egypt) and need updating and modernization. Others need to be coordinated and harmonized, and all need classification under clear topics and headings in order to facilitate their retrieval and use. Education members of staff should be made aware of laws, rules, regulations and directives in order to be able to refer to them or use them.
+Despite the above achievements, the diagnosis of the capacity of the Ministry and the human resource situation related to planning and management revealed a number of problems, needs and challenges. These relate to the whole sector, from
 
 34
 
@@ -701,13 +869,17 @@ Despite  the  above  achievements,  the  diagnosis  of  the  capacity  of  the  
 
 [[START OF PAGE 34]]
 
+pre-school, to general and tertiary education, including non-formal education. The following is a brief summary of the main challenges. As indicated above, details related to this section and to the whole diagnosis can be accessed at www.moehe.gov.ps
+
+Education law, rules and regulations A draft education law prepared by the MoEHE is still to be ratified in its third reading by the Legislative Council. The new Palestinian civil service law has resulted in many improvements related to the standard of living of employees (as compared to the Jordanian and Egyptian laws in effect previously). Rules, regulations and directives are numerous. Some are old (from Jordan and Egypt) and need updating and modernization. Others need to be coordinated and harmonized, and all need classification under clear topics and headings in order to facilitate their retrieval and use. Education members of staff should be made aware of laws, rules, regulations and directives in order to be able to refer to them or use them.
+
 MoEHE's organizational structure: The structure was revised and approved in 2005 as part of a government-wide administrative and financial reform. The new structure did not, however, solve the problem of duplication and overlap in responsibilities and roles among the various units within MoEHE. Related to this, job descriptions need clarification in many cases, and criteria for evaluation of performance do not exist and need to be created and used for accountability and promotions.
 
 Databases and decision-support systems: Although  a  good  number  of  databases have been created from scratch, some of them are not regularly updated. They need to be interfaced and harmonized in terms of coding and definitions, and unification of the terminology used. Education officials need to be trained in order to make good use of these systems in their work, especially in decision-making.
 
 Decentralization: This topic has been on the agenda of the MoEHE for many years but not actively pursued. The emergency conditions which prevailed during the second intifada have, however, necessitated some delegation of responsibilities from central MoEHE to the Directorates of Education at the district level and from these in turn to the schools. This delegation has enabled all concerned to respond to arising issues promptly and to resolve many problems quickly and efficiently. Some schools have started experimenting with, or fully implemented, the concept of self-management. However, since there is no proper study to analyze the needs and then formulate and formally approve a strategy and a plan of action for decentralization, many problems are arising and will continue to arise.
 
-Capacity for planning and management: Through a number of training programs and workshops locally and abroad and through the experience gained in preparing the first five-year plan 2001-2005 and working on various development programs together with consultants from abroad, the MoEHE developed considerable planning and management capacity. This accumulated capacity has been somehow partially dissipated due to the difficult circumstances which the Ministry has passed through during  the  past  two  years.  An  attrition  of  skilled  staff  from  MoEHE  took  place. Teamwork has also been eroded. The Ministry has recently started once more building technical skills and experience through the process of diagnosis, policy formulation based  on  the  diagnosis,  and  the  preparation  of  the  current  ESDP .  A  number  of external consultants contributed to these tasks and, hence, to skills development. Still, the MoEHE is in need of further capacity development for planning and plan implementation, monitoring and evaluation as well as management at large. It also needs to develop national sustainable training capacity in the fields of educational planning  and  management,  especially  within  the  MoEHE's  National  Institute  for Educational Training (NIET), and also partially within some MoEHE's units, notably within  the  Directorate  General  of  Planning.  This  training  capacity  will  enable  the MoEHE to organize its own training workshops on a regular basis without reliance on ongoing international technical support. Furthermore, as the possibility for further conflict in Palestine still cannot be ruled out, the capacity within the education sector to plan and manage under situations of emergency has to be maintained and even further developed.
+Capacity for planning and management: Through a number of training programs and workshops locally and abroad and through the experience gained in preparing the first five-year plan 2001-2005 and working on various development programs together with consultants from abroad, the MoEHE developed considerable planning and management capacity. This accumulated capacity has been somehow partially dissipated due to the difficult circumstances which the Ministry has passed through during the past two years. An attrition of skilled staff from MoEHE took place. Teamwork has also been eroded. The Ministry has recently started once more building technical skills and experience through the process of diagnosis, policy formulation based on the diagnosis, and the preparation of the current ESDP. A number of
 
 35
 
@@ -715,9 +887,11 @@ Capacity for planning and management: Through a number of training programs and 
 
 [[START OF PAGE 35]]
 
-Financial  planning  and  management: The  MoEHE  has  created  a  relatively  well functioning  financial  management  system  which  is  harmonized  with  that  of  the Ministry of Finance. It needs to be developed so as to become a tool for planning and yearly program budgeting, and a tool for negotiation with various Directorates General, district Directorates of Education and schools in the process of yearly budget preparation. The present item line budgeting system does not allow this to happen easily.  Program  budgeting  and  program-based  financial  monitoring  is  needed, linked to ESDP. Further computerization of the system will be needed to facilitate monitoring of ESDP programs by the responsible Directorates General and district Directorates. The process of codification of the various programs and activities listed under them has already started.
+external consultants contributed to these tasks and, hence, to skills development. Still, the MoEHE is in need of further capacity development for planning and plan implementation, monitoring and evaluation as well as management at large. It also needs to develop national sustainable training capacity in the fields of educational planning and management, especially within the MoEHE's National Institute for Educational Training (NIET), and also partially within some MoEHE's units, notably within the Directorate General of Planning. This training capacity will enable the MoEHE to organize its own training workshops on a regular basis without reliance on ongoing international technical support. Furthermore, as the possibility for further conflict in Palestine still cannot be ruled out, the capacity within the education sector to plan and manage under situations of emergency has to be maintained and even further developed.
 
-Relations  with  stakeholders  and  development  partners: The  various  local  and international  partners  in  education  have  played  a  significant  role  in  providing educational  services  and  have  contributed  effective  and  sizeable  support  to  the education sector. UNRWA provides education to more than 24% of the total number of Palestinian students in schools in the West Bank and Gaza. Private schools provide formal schooling to around 6.22% of the total number of students. In addition to moral support and cooperation, the local community and civil society (including parents,  municipalities  and  others)  provide  noticeable  material  and  financial support - land plots for school construction, construction of classrooms and schools, maintenance of existing schools, donation of equipment, financial donations, and other forms of concrete support. NGOs also contribute to educational development and  provide  various  forms  of  educational  services.  Relations  with  partners  have to be regularized and organized. Development partners have to support MoEHE's strategy and priorities (EDSP) and not their own priorities and projects. They have to  avoid  possible  duplication  and,  sometimes,  competition  among  themselves. They have to coordinate and harmonize their support and procedures and align them to the procedures of MoEHE and the Palestinian National Authority (PNA) at large. NGOs working in education need to be better organized and represented at regular meetings with MoEHE (and other stakeholders and development partners) in order to work within the same strategic framework and in order to achieve the goals in the medium term as expressed in the EDSP. The finalization and launching of EDSP, which has been developed in a participatory manner, is a first step in possibly realizing a sector-wide approach (SWAp) to educational development which would involve stakeholders and partners in policy dialogue, planning, joint and periodic (at least yearly) reviews of progress in plan implementation and further planning for the near and medium-term future within the national socio-economic development framework. The diagnosis also revealed the specific need for regular consultation and coordination with UNRWA and for taking into consideration developments in the education of Palestinian refugees, not only in the West Bank and Gaza but also in other host countries. The first five-year plan did not include work carried out by UNRWA and only partially included educational work done by the private sector. During the current EDSP implementation period, more attention should be given to overcoming the omission of UNRWA's work and development plans, although the present EDSP document still suffers from this omission.
+Financial planning and management: The MoEHE has created a relatively well functioning financial management system which is harmonized with that of the Ministry of Finance. It needs to be developed so as to become a tool for planning and yearly program budgeting, and a tool for negotiation with various Directorates General, district Directorates of Education and schools in the process of yearly budget preparation. The present item line budgeting system does not allow this to happen easily. Program budgeting and program-based financial monitoring is needed, linked to ESDP. Further computerization of the system will be needed to facilitate monitoring of ESDP programs by the responsible Directorates General and district Directorates. The process of codification of the various programs and activities listed under them has already started.
+
+Relations with stakeholders and development partners: The various local and international partners in education have played a significant role in providing educational services and have contributed effective and sizeable support to the education sector. UNRWA provides education to more than 24% of the total number of Palestinian students in schools in the West Bank and Gaza. Private schools provide formal schooling to around 6.22% of the total number of students. In addition to moral support and cooperation, the local community and civil society (including parents, municipalities and others) provide noticeable material and financial support - land plots for school construction, construction of classrooms and schools, maintenance of existing schools, donation of equipment, financial donations, and other forms of concrete support. NGOs also contribute to educational development and provide various forms of educational services. Relations with partners have to be regularized and organized. Development partners have to support MoEHE's strategy and priorities (EDSP) and not their own priorities and projects. They have to avoid possible duplication and, sometimes, competition among themselves. They have to coordinate and harmonize their support and procedures and align them to the procedures of MoEHE and the Palestinian National Authority (PNA) at large. NGOs working in education need to be better organized and represented at regular meetings with MoEHE (and other stakeholders and development partners) in order to work within the same strategic framework and in order to achieve the goals in the medium term as expressed in the EDSP. The finalization and launching of EDSP, which has been developed in a participatory manner, is a first step in possibly realizing a sector-wide approach (SWAp) to educational development which would involve stakeholders and partners in policy dialogue, planning, joint and periodic (at least yearly) reviews of progress in plan implementation and further planning for the near and medium-term future within the national socio-economic development
 
 36
 
@@ -725,25 +899,29 @@ Relations  with  stakeholders  and  development  partners: The  various  local  
 
 [[START OF PAGE 36]]
 
+framework. The diagnosis also revealed the specific need for regular consultation and coordination with UNRWA and for taking into consideration developments in the education of Palestinian refugees, not only in the West Bank and Gaza but also in other host countries. The first five-year plan did not include work carried out by UNRWA and only partially included educational work done by the private sector. During the current EDSP implementation period, more attention should be given to overcoming the omission of UNRWA's work and development plans, although the present EDSP document still suffers from this omission.
+
 ### 1.5.3 Non-formal Education
 
 #### Access
 
-The  major  program  in  non-formal  education  executed  by  the  MoEHE  is  the Literacy  and  Adult  Education  Program.  In  addition  there  are  limited  activities  in Parallel  Education  and  Continuing  Education  programs.  During  the  period  of  the diagnosis  (1999/2000-2005/2006),  the  number  of  learners  in  Literacy  and  Adult Education Centers run by the MoEHE increased from 1,503 in 1999/2000 to 4,292 in 2005/2006. The number of centers increased from 150 to 266, and teachers from 140 to 256. Other Palestinian organizations and institutions also run centers for the same purpose, notably Birzeit University's Continuing Education Department, Red Crescent Society, Ministry of Social Affairs and a number of charitable societies. The relationship of these centers with the MoEHE is weak and not clearly defined. The number of learners in these centers fluctuate and are not in total as big as those in centers run by the  MoEHE. Surveys indicate that the illiteracy rate in Palestine, in the 10 year and above age group, is on the decline: from 11.6% in 1997 to 6.1% in 2004. However, if Palestine is to achieve EFA goals by 2015, non-formal education should be further enhanced in order to eradicate the remaining pockets of illiteracy. The private sector, and civil society at large, should be encouraged to invest in nonformal education to widen the scope of its reach and to guarantee its sustainability and independence of donor support.
+The major program in non-formal education executed by the MoEHE is the Literacy and Adult Education Program. In addition there are limited activities in Parallel Education and Continuing Education programs. During the period of the diagnosis (1999/2000-2005/2006), the number of learners in Literacy and Adult Education Centers run by the MoEHE increased from 1,503 in 1999/2000 to 4,292 in 2005/2006. The number of centers increased from 150 to 266, and teachers from 140 to 256. Other Palestinian organizations and institutions also run centers for the same purpose, notably Birzeit University's Continuing Education Department, Red Crescent Society, Ministry of Social Affairs and a number of charitable societies. The relationship of these centers with the MoEHE is weak and not clearly defined. The number of learners in these centers fluctuate and are not in total as big as those in centers run by the MoEHE. Surveys indicate that the illiteracy rate in Palestine, in the 10 year and above age group, is on the decline: from 11.6% in 1997 to 6.1% in 2004. However, if Palestine is to achieve EFA goals by 2015, non-formal education should be further enhanced in order to eradicate the remaining pockets of illiteracy. The private sector, and civil society at large, should be encouraged to invest in non-formal education to widen the scope of its reach and to guarantee its sustainability and independence of donor support.
 
 #### Quality
 
-As the National Poverty Report 2004 concluded, education in general and nonformal  education  in  particular  are  inversely  linked  to  poverty.  The  more  people are educated, the better is their likelihood to overcome poverty and contribute to economic development. The contents and the teaching methods of the programs should not only be aimed at acquiring reading and writing skills. They should also be closely linked to the various needs of the individuals and to the needs of the labor market, as well as to the needs of socio-economic development at large. This linking would require that programs include components of 'functional literacy' and other activities and readings aimed at skills development and cultural awareness. This is a major challenge related to quality in non-formal education. A unified curriculum for these programs is still lacking. Hand in hand with curriculum development, teachers of adult learners should be further trained.
+As the National Poverty Report 2004 concluded, education in general and non-formal education in particular are inversely linked to poverty. The more people are educated, the better is their likelihood to overcome poverty and contribute to economic development. The contents and the teaching methods of the programs should not only be aimed at acquiring reading and writing skills. They should also be closely linked to the various needs of the individuals and to the needs of the labor market, as well as to the needs of socio-economic development at large. This linking would require that programs include components of 'functional literacy' and other activities and readings aimed at skills development and cultural awareness. This is a major challenge related to quality in non-formal education. A unified curriculum for these programs is still lacking. Hand in hand with curriculum development, teachers of adult learners should be further trained.
 
 #### Management
 
-Complementarity  and  harmonization  between  Literacy  and  Adult  Education Programs run by MoEHE and those run by other partners are still lacking. Means have to be conceived in order to realize them. A database for non-formal education is  needed  in  order  to  facilitate  tracking  of  adult  learners  and  encourage  them  to further their studies to higher levels. The database is also needed for the facilitation of record keeping for awarding certificates and diplomas. Keeping a good record of training courses taken by teachers of non-formal education is a necessity to raise their skills and qualifications to certain agreed standards. Other challenges in the management of non-formal education and needs for its development have been addressed under section above.
+Complementarity and harmonization between Literacy and Adult Education Programs run by MoEHE and those run by other partners are still lacking. Means
 
 37
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
+
+have to be conceived in order to realize them. A database for non-formal education is needed in order to facilitate tracking of adult learners and encourage them to further their studies to higher levels. The database is also needed for the facilitation of record keeping for awarding certificates and diplomas. Keeping a good record of training courses taken by teachers of non-formal education is a necessity to raise their skills and qualifications to certain agreed standards. Other challenges in the management of non-formal education and needs for its development have been addressed under section above.
 
 ## 1.6 Sector Review of Higher Education including Vocational Education
 
@@ -755,13 +933,13 @@ In accordance with international norms, the Law of Higher Education (Number 11 o
 
 According to the Law of Higher Education, HE institutions can be one of the following:
 
-- Universities: consisting of no less than three colleges or faculties, and granting BA · degrees or higher;
+- Universities: consisting of no less than three colleges or faculties, and granting BA degrees or higher;
 
-- University  colleges:  offering  academic,  technical  or  professional  programs  and · granting two- or three-year diplomas or the higher BA degree;
+- University colleges: offering academic, technical or professional programs and granting two- or three-year diplomas or the higher BA degree;
 
-- Polytechnics:  granting  diplomas  or  BA  and  higher  degrees  in  professional  and · technical fields;
+- Polytechnics: granting diplomas or BA and higher degrees in professional and technical fields;
 
-- Community colleges: offering academic, professional or technical programs of no · less than one year duration and leading to diplomas in the respective programs.
+- Community colleges: offering academic, professional or technical programs of no less than one year duration and leading to diplomas in the respective programs.
 
 All 43 Palestinian post-secondary institutions in the West Bank and Gaza are relatively young -the oldest has only been in existence for 30 years.  More than 180,000 students are enrolled in these institutions. It is estimated that gross enrollment rate for the age group 18-24 years is more than 25%8. These percentages are relatively high in international standards, especially in comparison to countries in the Middle East and to developing countries in general.
 
@@ -783,13 +961,13 @@ During  a  number  of  sessions  involving  various  Directorates  Generals,  a 
 
 Enrollment in secondary vocational education is still low, only 5.06% of the total number of students in the secondary cycle in 2007/2008, up from 4% in 1999/2000. Although the percentage of female students of the total number of students in secondary vocational education increased, it still remained at (33.5%)9. Increasing these enrollment percentages remains  the  major  challenge,  in  addition  to  improving  the  availability  of  well  equipped schools.
 
-The main reason for the low percentages of enrollment in TVET at secondary and postsecondary levels is the negative regard society has for technical and vocational education. Traditionally, it is thought that those who fail in academic studies or who are not admitted to academic programs of study end up in vocational and technical specializations. Career counseling  in  schools  and  post-secondary  institutions  is  still  almost  non-existent  which exacerbates this problem. Special effort is needed to attract females to TVET in general and to  non-tradition  programs  of  study  which  necessitates  awareness-raising  to  make  these socially acceptable.
+The main reason for the low percentages of enrollment in TVET at secondary and post-secondary levels is the negative regard society has for technical and vocational education. Traditionally, it is thought that those who fail in academic studies or who are not admitted to academic programs of study end up in vocational and technical specializations. Career counseling in schools and post-secondary institutions is still almost non-existent which exacerbates this problem. Special effort is needed to attract females to TVET in general and to non-tradition programs of study which necessitates awareness-raising to make these socially acceptable.
 
 A major challenge is to better link TVET and its outputs, quantitatively and qualitatively, to the widely diversified needs of the labor market. Since the latter are quick to change within the present globalized world economy, programs of study should be flexible and easy to be continuously updated and modernized, which is not the case at present. This might also be difficult to realize since such continuous change will require ongoing adaptation of the physical facilities and the educational resources whose cost might be beyond the financial means of the Palestinians in the West Bank and Gaza.
 
 #### Access
 
-A major challenge continuously facing post-secondary institutions is insufficient funding. The scene of higher education has always been characterized by competition between these institutions to attract more students in order to increase their income. New programs were added for this purpose without due attention to the needs of Palestinian society. Supply and, as indicated above, rates of enrollment are already high. The negative consequences on quality are evident. While rates of enrollment in general are high, access of students with special needs and from poorer segments of society is still in need of further attention, especially through the improvement of the student loan program.
+A major challenge continuously facing post-secondary institutions is insufficient funding. The scene of higher education has always been characterized by competition between these institutions to attract more students in order to increase their income. New programs were
 
 > 9 MoEHE, DG of TVET (2007) Year Statistical Report. Ramallah, Palestine.
 
@@ -798,6 +976,8 @@ A major challenge continuously facing post-secondary institutions is insufficien
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
+added for this purpose without due attention to the needs of Palestinian society. Supply and, as indicated above, rates of enrollment are already high. The negative consequences on quality are evident. While rates of enrollment in general are high, access of students with special needs and from poorer segments of society is still in need of further attention, especially through the improvement of the student loan program.
 
 #### Teaching and Training Staff
 
@@ -815,13 +995,15 @@ There  is  an  evident  need  to  better  link  the  two  sub-sectors  of  gener
 
 #### Governance and Management
 
-Although the Council for Higher Education was reactivated in 2003, its relationship with institutions of higher education should be better organized, structured and institutionalized. Coordination  and  cooperation  between  MoEHE  and  the  institutions,  and  among  the institutions themselves, need to be strengthened. Management information systems at the institutional level and at the central Ministry level still need to be improved, harmonized and interfaced and the skills of MoEHE staff to update them and use them for decision making have to be further developed.  Important policies and strategies approved by MoEHE and the Council for Higher Education are not adhered to at the institutional level. Institutions still do not appreciate the regulatory, planning and developmental role which MoEHE can play and which is needed to link higher education to the needs of the labor market and socio-economic development at large.
+Although the Council for Higher Education was reactivated in 2003, its relationship with institutions of higher education should be better organized, structured and institutionalized. Coordination and cooperation between MoEHE and the institutions, and among the institutions themselves, need to be strengthened. Management information systems at the institutional level and at the central Ministry level still need to be improved, harmonized and
 
 40
 
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
+
+interfaced and the skills of MoEHE staff to update them and use them for decision making have to be further developed. Important policies and strategies approved by MoEHE and the Council for Higher Education are not adhered to at the institutional level. Institutions still do not appreciate the regulatory, planning and developmental role which MoEHE can play and which is needed to link higher education to the needs of the labor market and socio-economic development at large.
 
 #### Funding Tertiary Education
 
@@ -841,7 +1023,7 @@ The present document is really not a 'national' sector development plan in the s
 
 [[START OF PAGE 41]]
 
-which focuses only on the work of the Government in various sectors, and its recurrent and development costs.  It is hoped that through the yearly joint reviews (with stakeholders and development partners) and the resulting yearly operational planning, this shortcoming will be practically addressed in the coming five years. A SWAp process, if developed and implemented, will also be beneficial in addressing challenges mentioned here. More details of lessons learned from the first Plan preparation and implementation can be found at www. moehe.gov.ps.
+which focuses only on the work of the Government in various sectors, and its recurrent and development costs. It is hoped that through the yearly joint reviews (with stakeholders and development partners) and the resulting yearly operational planning, this shortcoming will be practically addressed in the coming five years. A SWAp process, if developed and implemented, will also be beneficial in addressing challenges mentioned here. More details of lessons learned from the first Plan preparation and implementation can be found at www.moehe.gov.ps.
 
 42
 
@@ -863,7 +1045,7 @@ This chapter tries to capture, in a summary form, the national development conte
 
 ## 2.2 Palestinian Reform and Development Plan (PRDP)
 
-The Palestinian Reform & Development Plan was prepared by the PNA through a bottomup  policy-making,  planning  and  budgeting  process  rooted  in  the  Palestinian  National Policy Agenda framework. It was (almost) finalized and was presented to donors in Paris in  December 2007.  PRDP set out a strategy for implementing PNA's vision of the future Palestinian  state.  It  highlighted  the  steps  the  PNA  has  already  taken  to  restore  good governance and the rule of law to the West Bank and which the PNA aspires to replicate in Gaza. The PRDP document sets out how the PNA will reform the security sector and reestablish the rule of law, improve access to justice, move toward a more fiscally sustainable position, improve management of public finances, strengthen the capacity of the public sector, and improve local governance.
+The Palestinian Reform & Development Plan was prepared by the PNA through a bottom-up policy-making, planning and budgeting process rooted in the Palestinian National Policy Agenda framework. It was (almost) finalized and was presented to donors in Paris in December 2007. PRDP set out a strategy for implementing PNA's vision of the future Palestinian state. It highlighted the steps the PNA has already taken to restore good governance and the rule of law to the West Bank and which the PNA aspires to replicate in Gaza. The PRDP document sets out how the PNA will reform the security sector and re-establish the rule of law, improve access to justice, move toward a more fiscally sustainable position, improve management of public finances, strengthen the capacity of the public sector, and improve local governance.
 
 43
 
@@ -895,7 +1077,7 @@ Financial forecasts in PRDP were based on the assumption that donors would provi
 
 ## 2.3 National Poverty Report 2004
 
-This Report was produced by the Pro-Poor Participatory Planning Project at the Palestinian Ministry of Planning.  It was prepared in close cooperation with the Palestinian Central Bureau of Statistics and was published in March 2006.  The Pro-Poor Participatory Planning Project's aim was to inform policy makers, local communities and the international donor community on  ways  of  incorporating  poverty-related  issues  into  their  planning  and  advocating  for greater emphasis on the needs of the poor. The Project was implemented with support from UNDP and funding from DFID. The Report's aim was to enhance the analysis of povertyrelated issues in Palestine and to mainstream them into national development activities, particularly  given  the  dramatic  increase  in  poverty  rates  during  the  previous  four  years (characterized by severe Israeli restrictions) and difficulties faced by Palestinians during the second intifada.
+This Report was produced by the Pro-Poor Participatory Planning Project at the Palestinian Ministry of Planning. It was prepared in close cooperation with the Palestinian Central Bureau of Statistics and was published in March 2006. The Pro-Poor Participatory Planning Project's aim was to inform policy makers, local communities and the international donor community on ways of incorporating poverty-related issues into their planning and advocating for greater emphasis on the needs of the poor. The Project was implemented with support from UNDP and funding from DFID. The Report's aim was to enhance the analysis of poverty-related issues in Palestine and to mainstream them into national development activities, particularly given the dramatic increase in poverty rates during the previous four years (characterized by severe Israeli restrictions) and difficulties faced by Palestinians during the second intifada.
 
 The Report was prepared through a participatory process and provided an opportunity for ordinary people to be engaged in setting the priorities for Palestinians that could in turn have a powerful effect on their lives.
 
@@ -907,7 +1089,7 @@ In December 2005, the UNDP published the 'Millennium Development Goals: Occupied
 
 ## 2.5 Education for All (EFA) Plan
 
-Soon after its establishment in 1994, MoEHE was made aware by UNESCO of the universal effort to realize Education for All (EFA) based on the World Declaration on EFA issued at Jomtien, Thailand, in March 1990. The first significant activity to join this universal effort was undertaken by MoEHE in 1999. With financial support from UNESCO, MoEHE set up a  national  team  to  assess  efforts  made  in  Palestine  related  to  EFA.  The  concrete  output was the 'Education for All: The Year 2000 Assessment Report of Palestine' published by UNESCO  ( http://www.unesco.org/education/wef/countryreports/palestine/contents.htm l) and presented at the Regional Conference on Education for All for the Arab States in Cairo, Egypt, 24-27 January 2000.
+Soon after its establishment in 1994, MoEHE was made aware by UNESCO of the universal effort to realize Education for All (EFA) based on the World Declaration on EFA issued at Jomtien, Thailand, in March 1990. The first significant activity to join this universal effort
 
 45
 
@@ -915,9 +1097,11 @@ Soon after its establishment in 1994, MoEHE was made aware by UNESCO of the univ
 
 [[START OF PAGE 45]]
 
-In  April  2007,  another  national  team  headed  by  the  Minister  of  Education  and  Higher Education was set up in order to (i) ensure that educational activities related to realizing EFA goals and Millennium Development Goals are implemented and (ii) produce the national Palestinian  EFA  Mid-Term  Review  Report  2007.  The  report  was  published  by  MoEHE  in August 2007 and was presented at the EFA Mid-Term Review Conference for the Arab States Region in Doha, Qatar, 19-21 February 2008.
+was undertaken by MoEHE in 1999. With financial support from UNESCO, MoEHE set up a national team to assess efforts made in Palestine related to EFA. The concrete output was the 'Education for All: The Year 2000 Assessment Report of Palestine' published by UNESCO (http://www.unesco.org/education/wef/countryreports/palestine/contents.html) and presented at the Regional Conference on Education for All for the Arab States in Cairo, Egypt, 24-27 January 2000.
 
-The preparation of each of the above two reports coincided with and fell in the same period  of  the  preparation  of  the  first  and  second  five  year  plans.  As  such,  the  reports strongly reflected the sector diagnosis reports produced in preparation of the concurrent five-year sector development plans. The EFA reports, however, did not include an analysis of higher education and did not significantly report on development activities related to postsecondary education.
+In April 2007, another national team headed by the Minister of Education and Higher Education was set up in order to (i) ensure that educational activities related to realizing EFA goals and Millennium Development Goals are implemented and (ii) produce the national Palestinian EFA Mid-Term Review Report 2007. The report was published by MoEHE in August 2007 and was presented at the EFA Mid-Term Review Conference for the Arab States Region in Doha, Qatar, 19-21 February 2008.
+
+The preparation of each of the above two reports coincided with and fell in the same period of the preparation of the first and second five year plans. As such, the reports strongly reflected the sector diagnosis reports produced in preparation of the concurrent five-year sector development plans. The EFA reports, however, did not include an analysis of higher education and did not significantly report on development activities related to post-secondary education.
 
 ## 2.6 National Technical and Vocational Education and Training Strategy (NTVETS)
 
@@ -925,25 +1109,27 @@ Work on NTVETS lasted between 1996 and 1999 and was done in a participatory proc
 
 The overall objective of the Strategy is to arrive at a TVET System that is:
 
-- Efficient:  by  achieving  efficient  coordination  between  the  various  education  and · training  providers;  especially  in  using  the  available  resources  in  a  well-organized way.
+- Efficient: by achieving efficient coordination between the various education and training providers; especially in using the available resources in a well-organized way.
 
-- Effective: through the development of human resources and developing curricula · and systems (including criteria for licensing and accreditation).
+- Effective: through the development of human resources and developing curricula and systems (including criteria for licensing and accreditation).
 
-- Relevant: by establishing a real partnership with industry and business especially in · the design and training provision.
+- Relevant: by establishing a real partnership with industry and business especially in the design and training provision.
 
-- Flexible:  by  adopting  the  modular  curricula  and  introducing  a  flexible  mobility · between training levels and streams.
+- Flexible: by adopting the modular curricula and introducing a flexible mobility between training levels and streams.
 
-- Sustainable: through the provision  of  minimum  governmental  funding  and · diversifying sources of funding.
+- Sustainable: through the provision of minimum governmental funding and diversifying sources of funding.
 
-- Equitable: by providing equal education and training opportunity for all groups. ·
+- Equitable: by providing equal education and training opportunity for all groups.
 
-Important initiatives have already been undertaken towards the gradual implementation of  part  of  the  NTVETS  components.  Examples  of  these  components  are:  production  of Competency-Based Modular Curricula (CBMC); piloting an Apprenticeship Training Scheme, ATS (a dual training with private sector companies); and piloting a Career Guidance service towards the provision of a systematic CG service. NTVETS is a major reference for development work to be done within EDSP 2008-2012.
+Important initiatives have already been undertaken towards the gradual implementation of part of the NTVETS components. Examples of these components are: production of Competency-Based Modular Curricula (CBMC); piloting an Apprenticeship Training Scheme, ATS (a dual training with private sector companies); and piloting a Career Guidance service
 
 46
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
+
+towards the provision of a systematic CG service. NTVETS is a major reference for development work to be done within EDSP 2008-2012.
 
 ## 2.7 Five-Year Education Development Plan 2001-2005
 
@@ -961,7 +1147,7 @@ The PHEFS was prepared by the Ministry of Higher Education and Scientific Resear
 
 ## 2.10 Teacher Education Strategy
 
-To improve the quality of education in Palestine, a clear and explicit policy for teacher education  and  for  teacher  continuous  development  has  been  necessary.  Therefore,  the National Teacher Education Strategy was developed and launched in May, 2008. A Teacher Education Reference Group (TERG) was formed consisting of 14 members with expertise in teacher education and chosen from MOEHE, UNRWA, higher education institutions and the civil society. The Group met 15 times on an average of once every two weeks between April 2007 and January 2008. It made use of statistical and field studies on the current situation and reviewed international trends before submitting its recommendations. A Teacher Education Consultative Group (TECG) also was established headed by the Minister of Education and consisting  of  30  members  from  higher  education  institutions,  directors  at  the  Ministry, administrators at UNRWA, civil society and some teachers' unions. Reports submitted by TERG were studied, and feedback was given to TERG. Participation in developing this strategy was large. A semi-final draft was sent to 93 Palestinian educators and related persons for feedback. The Strategy includes the following components:
+To improve the quality of education in Palestine, a clear and explicit policy for teacher education and for teacher continuous development has been necessary. Therefore, the
 
 47
 
@@ -969,15 +1155,17 @@ To improve the quality of education in Palestine, a clear and explicit policy fo
 
 [[START OF PAGE 47]]
 
-- A Vision of Teachers. ·
+National Teacher Education Strategy was developed and launched in May, 2008. A Teacher Education Reference Group (TERG) was formed consisting of 14 members with expertise in teacher education and chosen from MOEHE, UNRWA, higher education institutions and the civil society. The Group met 15 times on an average of once every two weeks between April 2007 and January 2008. It made use of statistical and field studies on the current situation and reviewed international trends before submitting its recommendations. A Teacher Education Consultative Group (TECG) also was established headed by the Minister of Education and consisting of 30 members from higher education institutions, directors at the Ministry, administrators at UNRWA, civil society and some teachers' unions. Reports submitted by TERG were studied, and feedback was given to TERG. Participation in developing this strategy was large. A semi-final draft was sent to 93 Palestinian educators and related persons for feedback. The Strategy includes the following components:
 
-- Teacher Education Programs. ·
+- A Vision of Teachers.
 
-- Continuous Professional Development Programs. ·
+- Teacher Education Programs.
 
-- The Teaching Profession ·
+- Continuous Professional Development Programs.
 
-- Managing the Teacher Education System. ·
+- The Teaching Profession
+
+- Managing the Teacher Education System.
 
 48
 
@@ -997,7 +1185,7 @@ Palestinian education will prepare human beings who are proud of their religious
 
 ## 3.3 Mission of MoEHE
 
-The Ministry of Education and Higher Education is the official body in charge of development of  Palestinian  education  at  all  levels  including:  Kindergarten,  General  Education,  NonFormal Education, and Higher Education. It is also in charge of managing governmental educational institutions and supervising private educational institutions and those run by UNRWA countrywide.
+The Ministry of Education and Higher Education is the official body in charge of development of Palestinian education at all levels including: Kindergarten, General Education, Non-Formal Education, and Higher Education. It is also in charge of managing governmental educational institutions and supervising private educational institutions and those run by UNRWA countrywide.
 
 The mission of the MoEHE is to ensure education for all, improve its quality and its standards in order to meet the learners' needs in coping with the requirements of the present era, and  ultimately  develop  citizens  with  sound  and  balanced  characters,  who  are  qualified and able to defend their national rights, efficiently perform their duties, able to think, and who strongly believe in their Islamic doctrine and affiliation to the Arab and international communities.
 
@@ -1005,15 +1193,15 @@ The mission of the MoEHE is to ensure education for all, improve its quality and
 
 The basic principles guiding the operations of MoEHE include:
 
-- Education and development are human rights for all. ·
+- Education and development are human rights for all.
 
-- Education should contribute to national identity and the national heritage. ·
+- Education should contribute to national identity and the national heritage.
 
-- Education should contribute to the building of the Palestinian State. ·
+- Education should contribute to the building of the Palestinian State.
 
-- Education should contribute to facing challenges, crises and emergencies. ·
+- Education should contribute to facing challenges, crises and emergencies.
 
-- Education  should  foster values and  principles  of  democracy,  humanity  and · tolerance.
+- Education should foster values and principles of democracy, humanity and tolerance.
 
 49
 
@@ -1021,17 +1209,17 @@ The basic principles guiding the operations of MoEHE include:
 
 [[START OF PAGE 49]]
 
-- Education should support comprehensive development and openness to regional · and international markets.
+- Education should support comprehensive development and openness to regional and international markets.
 
-- Education should raise awareness concerning human rights and should guarantee · equality between males and females.
+- Education should raise awareness concerning human rights and should guarantee equality between males and females.
 
-- Education should keep abreast of scientific and technological progress and benefit · from it.
+- Education should keep abreast of scientific and technological progress and benefit from it.
 
-- Education should center on the learner, build his/her integrated character, develop · his/her creativity and address his/her personal abilities.
+- Education should center on the learner, build his/her integrated character, develop his/her creativity and address his/her personal abilities.
 
-- The  education  system  should  reinforce  the  social  and  professional  status  of  the · teacher and lecturer.
+- The education system should reinforce the social and professional status of the teacher and lecturer.
 
-- The education system should foster societal  contribution  in  the  responsibility  for · education (universities, public institutions, governmental institutions, etc.).
+- The education system should foster societal contribution in the responsibility for education (universities, public institutions, governmental institutions, etc.).
 
 ·
 
@@ -1041,17 +1229,19 @@ Education for all: MoEHE is committed to providing quality education for all chi
 
 Gender: Although noticeable achievement has been made in this regard in the education system at large, additional measures will be taken to bridge any remaining gaps between females  and  males  in  enrollment  and  completion  rates  at  all  levels  and  in  all  kinds  of education, especially the involvement of females in secondary vocational education and TVET at large. More women will be encouraged in employment in education at all levels, especially in higher decision-making positions.
 
-Poverty reduction: Special attention will be given to the poor. Classrooms, schools and nonformal education programs will be established in geographical locations where poverty is higher or where people are isolated due to Israeli measures (as indicated in the National Poverty Report 2004). Scholarships and student loans and aid schemes will be increased and directed at poor students in HEIs.
+Poverty reduction: Special attention will be given to the poor. Classrooms, schools and non-formal education programs will be established in geographical locations where poverty is higher or where people are isolated due to Israeli measures (as indicated in the National Poverty Report 2004). Scholarships and student loans and aid schemes will be increased and directed at poor students in HEIs.
 
-Students with special needs: MoEHE had started a process to include students with special needs in educational institutions at all levels during the implementation of the first fiveyear plan. Additional efforts will be made in this regard, especially in better equipping preschools, schools and institutions of higher education in order to provide these students with better services and respond to their special needs.
+Students with special needs: MoEHE had started a process to include students with special needs in educational institutions at all levels during the implementation of the first five-year plan. Additional efforts will be made in this regard, especially in better equipping pre-schools, schools and institutions of higher education in order to provide these students with better services and respond to their special needs.
 
-Focus  on  quality: Although  major  achievements  have  been  made  in  enrollment  rates, quality of education at all levels is still inadequate.  Improvement of quality will be a major focus in the coming period. A national strategy for teacher education will be implemented (and training will be linked to incentives), the General Education curriculum and textbooks (although  just  completed  and  considered  a  major  historic  accomplishment)  will  be reviewed and developed periodically, MoEHE will produce Competency-Based Modularized Curricula, and a major effort to improve quality of higher education will be made, including encouraging research.
+Focus on quality: Although major achievements have been made in enrollment rates, quality of education at all levels is still inadequate. Improvement of quality will be a major focus in the coming period. A national strategy for teacher education will be implemented (and training will be linked to incentives), the General Education curriculum and textbooks (although just completed and considered a major historic accomplishment) will be
 
 50
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+
+reviewed and developed periodically, MoEHE will produce Competency-Based Modularized Curricula, and a major effort to improve quality of higher education will be made, including encouraging research.
 
 Relevance and link to socio-economic development: A special focus will be put on linking education, especially post-secondary education, to the labor market(s) and to the needs of society.
 
@@ -1061,7 +1251,7 @@ Role of the private sector: Private investment in education will be encouraged b
 
 Improving partnerships: Coordination  and  cooperation  with  UNRWA,  NGOs,  the  private sector and international development partners will be enhanced. Participation of all partners in  policy  dialogue, planning, implementation, and monitoring and periodic reviewing of progress in the implementation of plans will be realized. EDSP will be the framework for this improved partnership and major investments outside this framework will be discouraged.
 
-Capacity for planning and management: Capacity for planning, implementation of EDSP and management at large will be developed. A strategy for training in relevant areas will be developed, implemented and linked to incentives for trainees. Systems to support decisionmaking will be further developed and interfaced (DGoP and DGoDSR will be in charge). Evidence-based policy formulation and decision making will be encouraged. The work of various MoEHE units at central, district, HE institutions and school levels will be evaluated based on progress in the implementation of relevant programs in EDSP.
+Capacity for planning and management: Capacity for planning, implementation of EDSP and management at large will be developed. A strategy for training in relevant areas will be developed, implemented and linked to incentives for trainees. Systems to support decision-making will be further developed and interfaced (DGoP and DGoDSR will be in charge). Evidence-based policy formulation and decision making will be encouraged. The work of various MoEHE units at central, district, HE institutions and school levels will be evaluated based on progress in the implementation of relevant programs in EDSP.
 
 Decentralization and restructuring of MoEHE: A systematic move towards decentralization will be undertaken, building on experiences gained during the situations of emergency when local education authorities had to make decisions to face arising challenges and problems. In parallel, the organizational structure of MoEHE, including all its levels and institutions, will be reviewed as well as rules, regulations, mission statements of various units and job descriptions.
 
@@ -1085,7 +1275,7 @@ Based on the these main policies and in order to move concretely towards the vis
 
 [[START OF PAGE 52]]
 
-# Chapter Four Programs in Pre-school, General and Nonformal Education
+# Chapter Four Programs in Pre-school, General and Non-formal Education
 
 ## Goals
 
@@ -1273,7 +1463,7 @@ All of the above targets apply to Result 4.
 
 - 611 learners at literacy & adult education centers will be benefited annually from · health workshops
 
-- Health & environmental brochures and posters will be produced annually for · literacy & adult education centers;
+- (30) Health & environmental brochures and posters will be produced annually for literacy & adult education centers;
 
 ##### Result 7: The results of students on national and international tests will be improved.
 
@@ -1391,7 +1581,7 @@ Based on the sector review for the period 2001-2007 (referred to in Chapter 1), 
 
 While the main focus of the first five-year plan 2001-2005 was access, and while increased access will receive attention during the coming five years, the main focus of EDSP 2008-2012 is on the quality of teaching and learning (Goal 2). Quality improvement will be realized through a number of programs, the most important of which will be improving the qualifications and competencies of teachers as well as the support they will get through the improved educational resources (including textbooks) and also availability of safe environment for education and learning. Special consideration will also be given to the issue of relevance and the current clear incompatibility between the demand side (labor market(s), local and possibly regional) on the one hand, and the supply side (education and training providers (HE Institutions) on the other hand.
 
-Relevance (Goal 4) has been added as a goal only in the TVET and Higher Education subsectors due to the fact that the incompatibility between the demand and supply side is of paramount significance to overcome and a genuine challenge for all higher education institutions.  Furthermore,  in  Palestine  in  specific,  the  issue  of  relevance  is  now  at  a  very critical stage due to a variety of internal and external factors. A number of these factors are partially uncontrollable, while the other factors are completely out of control. Accordingly, the Ministry has recognized that irrelevance is now, in 2008, an important challenge that should be addressed immediately.
+Relevance (Goal 4) has been added as a goal only in the TVET and Higher Education sub-sectors due to the fact that the incompatibility between the demand and supply side is of paramount significance to overcome and a genuine challenge for all higher education institutions. Furthermore, in Palestine in specific, the issue of relevance is now at a very critical stage due to a variety of internal and external factors. A number of these factors are partially uncontrollable, while the other factors are completely out of control. Accordingly, the Ministry has recognized that irrelevance is now, in 2008, an important challenge that should be addressed immediately.
 
 For many years now, new international trends and initiatives in education, mainly in HE and TVET, have emerged and took shape. These initiatives have their an impact on the thinking of the MoEHE and the work it has to undertake in relation to the issue of relevance - such as: Education for Socio-economic Development, Education for Sustainable Development, and Education for Economy. Moreover, many countries in the world have gone a long way towards modern approaches in planning for the economy (Education and the Knowledge Economy, Education and Human Capital …10) through planning within their education systems.
 
@@ -1401,7 +1591,7 @@ For many years now, new international trends and initiatives in education, mainl
 
 [[START OF PAGE 61]]
 
-While, in the past few years, notions like 'Education for education11' were prevailing, the NTVETS stated that conversion of the TVET System from a supply-oriented to a demandoriented is a major reform action. The Strategy stated that: 'A considerable socio-economic development in Palestine is impossible without a sufficient number of TVET outputs released from demand-driven specializations at the 5 TVET levels12' . But, unfortunately, due to many reasons and overall instability in Palestine, no serious actions were taken in this direction, neither in TVET in specific, nor for HE in general. The fact that NTVETS was formulated many years ago and was not implemented, further underlines the importance of giving attention to the 4thgoal of this Plan (Relevance).
+While, in the past few years, notions like “Education for education11” were prevailing, the NTVETS stated that conversion of the TVET System from a supply-oriented to a demand-oriented is a major reform action. The Strategy stated that: “A considerable socio-economic development in Palestine is impossible without a sufficient number of TVET outputs released from demand-driven specializations at the 5 TVET levels12”. But, unfortunately, due to many reasons and overall instability in Palestine, no serious actions were taken in this direction, neither in TVET in specific, nor for HE in general. The fact that NTVETS was formulated many years ago and was not implemented, further underlines the importance of giving attention to the 4thgoal of this Plan (Relevance).
 
 Major tasks in the direction of creating more relevance will be updating and implementing the following strategies and papers:  (1) the National TVET Strategy and (2) the Palestinian Higher  Education  Financing  Strategy,  the  Rationalization  Plan  for  the  Higher  Education Sector, (3) the White Paper on Science, Technology and Scientific Research,   (4) Proposed Direction for Palestinian HE: A Vision for the Future, and (5) the National Teacher Education Strategy. These will be in addition to the production of Competency-Based Modular Curricula for TVET and  many other interrelated tasks which call for more team work  among various Ministry departments and at all levels.
 
@@ -1419,7 +1609,7 @@ It is expected that, by end of the Plan period in 2012, the following results wi
 
 - Special TVET institutions for females will be established and special programs for · females in co-educational TVET institutions will be introduced in priority geographic areas;
 
-- Laws,  regulations  and  mechanisms  will  be  formulated  to  better  regulate  non-·
+- Laws, regulations and mechanisms will be formulated to better regulate non-
 
 - 10	  The World Bank (2008): The Road Not Traveled: Education Reform in the Middle East and North Africa.
 
@@ -1663,7 +1853,7 @@ Table (10) explains the action programs designed to deal with their relevant tar
 
 The table contains the APs (which are shown with their original codes) who are linked to  their  expected  results  and  targets  (listed  in  parts  5.2  and  5.3  above)  with  budget  as mentioned. For linking the APs with the coded ERs and targets and the specific indicators, please see annex (V).
 
-To  see  the  original  matrix  (goal  -  expected  result  -  target  -  budget  -  responsibility  indicators), please visit the EDSP link on the MoEHE web page16.
+To see the original matrix (goal – expected result – target – budget – responsibility – indicators), please visit the EDSP link on the MoEHE web page16.
 
 > 16 : web page of the MoEHE: www.moehe.gov.ps
 
@@ -1691,13 +1881,10 @@ For the first time the 5YP introduces the activity based costing that creates st
 
 Four cost projection tools were used for costing of the activities of the plan:
 
-- The Palestinian Education Analysis and Projection Model ( PalEdPro-Model) 1.
-
-- Project Costing Sheets 2.
-
-- Model for Distribution of Salaries and Operational Cost 3.
-
-- Palestinian Higher Education Simulation Model (PALHE SIMO) 4.
+1. The Palestinian Education Analysis and Projection Model ( PalEdPro-Model)
+2. Project Costing Sheets
+3. Model for Distribution of Salaries and Operational Cost
+4. Palestinian Higher Education Simulation Model (PALHE SIMO)
 
 It is important to note that these tools are used in MoEHE as a package for the first time and are subject to continuous testing and improvement. For this release of the 5YP , the tools one and two are applied for costing of the General Education section of the plan and the tool four was used for projecting of costs of Higher Education. Future releases of the plan will aim at integrating costing methodologies for both sections of the MoEHE and applying the Model for Distribution of Salaries and Operational Cost to both sections of the plan.
 
@@ -1807,6 +1994,26 @@ The total projected five-year budget for the three scenarios presented in Figure
 
 Figure 2:
 
+Budet development per scenario for Goal 1- Access
+(2008-20012)
+Thousand US$
+120,000
+100,000
+80,000
+60,000
+40,000
+20,000
+-
+2008
+2009
+2010
+2011
+2012
+Basic need scenario
+PRDP
+Optimal scenario
+Medium scenario
+
 The Figure 3 shows the total budget for the goal one (Access) in three scenarios is equal in total to 444.7 million dollars in the Optimal Scenario, 374.1 million dollars in the Medium Scenario and 225.4 million dollars in the Basic Scenario. The Access component of the plan has the highest share in the budget, between 57% and 90% depending on the sub-sector, and represents the main cost driver of the 5YP.
 
 72
@@ -1817,7 +2024,52 @@ The Figure 3 shows the total budget for the goal one (Access) in three scenarios
 
 Figure 3:
 
+Total budget of development programmes per scenario
+(2008-2012)
+Thousand US$
+140,000
+120,000
+100,000
+80,000
+60,000
+40,000
+20,000
+-
+2008
+2009
+2010
+2011
+2012
+Basic need scenario
+PRDP
+Optimal scenario
+Medium scenario
+
 The following table (Table 3) provides few examples of changes in programme objectives per scenario for the Goal 1.
+
+Budet development per scenario for Goal 3- Management
+(2008-20012)
+Thousand US$
+2,000
+1,800
+1,600
+1,400
+1,200
+1,000
+800
+600
+400
+200
+-
+2008
+2009
+2010
+2011
+2012
+Basic need scenario
+PRDP
+Optimal scenario
+Medium scenario
 
 Table 3: Examples of programme objectives per scenario for Goal 1- Access
 
@@ -1842,6 +2094,26 @@ In Figure 4 is presented how the budget estimates for the Goal 2 - Quality chang
 
 Figure 4:
 
+Budet development per scenario for Goal 2- Quality
+(2008-20012)
+Thousand US$
+30,000
+25,000
+20,000
+15,000
+10,000
+5,000
+-
+2008
+2009
+2010
+2011
+2012
+Basic need scenario
+PRDP
+Optimal scenario
+Medium scenario
+
 74
 
 [[END OF PAGE 73]]
@@ -1849,6 +2121,8 @@ Figure 4:
 [[START OF PAGE 74]]
 
 Table 4 shows the examples of changes in programme objectives per scenario for the Goal 2.
+
+Table 4: Examples of programme objectives per scenario for Goal 2- Quality
 
 Basic Needs Scenario | Medium Scenario | Optimal Scenario
 --- | --- | ---
@@ -1858,19 +2132,17 @@ No action | The percentage of schools benefiting from the resource rooms will in
 No action | ( 2 ) sport Halls and ( 2 ) Sports stadiums will be built at the end of the Plan | ( 4 ) sport Halls and ( 5 ) Sports stadiums will be built at the end of the Plan
 No action | The percentage of students benefiting from the services of resource centers will increase from 14% in 2005/2006 to 17% | The percentage of students benefiting from the services of resource centers will increase from 14% in 2005/2006 to 18%
 
-Table 4: Examples of programme objectives per scenario for Goal 2- Quality
-
 The Figure 5 shows that the total budget for the goal three (Management) per scenario equal to 0.9 million dollars in the Basic Scenario, 5.4 million dollars in the Medium Scenario and 6.3 million dollars in the Optimal Scenario. Similar to the quality component of the plan, most of the development programs are planned to start in the first year and the need for investment gradually decreases over time. This component also has the highest relative difference in the budget between the basis scenario and the other two scenarios as the most of the planned improvements in management will be postponed in case of substantial shortages in development funds.
 
 Figure 5:
 
 The table below shows the examples of changes in programme objectives per scenario for the Goal 3
 
+Table 5: Examples of programme objectives per scenario for Goal 3- Management
+
 Basic Needs Scenario | Medium Scenario | Optimal Scenario
 --- | --- | ---
 No action | 65% of schools will be connected with districts and ministry by the computerized financial system at the end of the plan. | All schools will be connected with districts and ministry by the computerized financial system at the end of the plan.
-
-Table 5: Examples of programme objectives per scenario for Goal 3- Management
 
 75
 
@@ -1892,13 +2164,19 @@ In  the  development budget, capital cost constitutes 72% of the total estimated
 
 The Goal 3- Management and Goal 4- Relevance have the smallest estimated budget in absolute and relative terms.
 
-Sub-sector | Goal | Current (000) $ | Capital (000) $ | Total (000) $ | Total per sub-sector %
---- | --- | --- | --- | --- | --- | ---
-1 | Pre-school education | Access Quality | 110 942 | 3,280 - | 3,390 942 | 74.17% 20.61%
-2 | General Education | Access Quality Manag | 126,068 95,606 3,814 | 308,054 29,562 2,116 | 434,122 125,168 | 76.81% 22.15% 1.05%
-3 | Non-Formal Education | Access Quality Manag | 5,675 665 105 | 1,480 80 5 | 5,930 7,155 745 110 | 90.57% 9.43% 0.03%
-
 Table 6: Summary budget of MoEHE per type of expenditure, sub-sector and goal (000$)
+
+ | Sub-sector | Goal | Current (000) $ | Capital (000) $ | Total (000) $ | Total per sub-sector %
+--- | --- | --- | --- | --- | --- | ---
+1 | Pre-school education | Access | 110 | 3,280 | 3,390 | 74.17%
+ |  | Quality | 942 | - | 942 | 20.61%
+ |  | Manag | 217 | 22 | 239 | 5.22%
+2 | General Education | Access | 126,068 | 308,054 | 434,122 | 76.81%
+ |  | Quality | 95,606 | 29,562 | 125,168 | 22.15%
+ |  | Manag | 3,814 | 2,116 | 5,930 | 1.05%
+3 | Non-Formal Education | Access | 5,675 | 1,480 | 7,155 | 90.57%
+ |  | Quality | 665 | 80 | 745 | 9.43%
+ |  | Manag | 105 | 5 | 110 | 0.03%
 
 > 18	  The cost estimates for salaries and operational cost of the government administration presented in this version of the plan are provided by the Ministry of Finance. The estimates made by the MoEHE department of planning using the planning tools described in Chapter 6.1 show about 10% lower cost for salaries and OPEX. The reconciliation between these two methodologies will be made in the future versions of the Five-Year Plan.
 
@@ -1908,37 +2186,51 @@ Table 6: Summary budget of MoEHE per type of expenditure, sub-sector and goal (0
 
 [[START OF PAGE 76]]
 
-Sub-sector | Goal | Current (000) $ | Capital (000) $ | Total (000) $ | Total per sub-sector %
+ | Sub-sector | Goal | Current (000) $ | Capital (000) $ | Total (000) $ | Total per sub-sector %
 --- | --- | --- | --- | --- | --- | ---
-4 | Vocational and HE | Access Quality Manag Relevance | 3,001 22,286 - 946 | 189,112 17,001 105,078 49 | 192,113 39,287 105,078 995 | 56.91% 11.64% 31.13% 0.29%
-5 | Subtotal development budget | 258,489 | 655,790 | 914,278
-6 | (%)Subtotal development budget | 28% | 72% | 100% | 26%
-7 | Salaries GE Other OPEX GE | 2,391,407 34,219 | - - | 2,391,407 34,219 | 98.59% 1.41%
-8 | Salareis HE&TVET Other OPEX HE&TVET | 121,802 14,043 | - - | 121,802 14,043 | 89.66% 10.34%
-9 | Subtotal salaries and OPEX | 2,561,471 | - | 2,561,471
-10 | (%)Subtotal development budget | 100% | 0% | 100% | 74%
-11 | Total (000 US$) | 2,820,906 | 655,839 | 3,476,744 | 3,476,744
-12 | Total % | 81% | 19% | 100% | 26%
+4 | Vocational and HE | Access | 3,001 | 189,112 | 192,113 | 56.91%
+ |  | Quality | 22,286 | 17,001 | 39,287 | 11.64%
+ |  | Manag | - | 105,078 | 105,078 | 31.13%
+ |  | Relevance | 946 | 49 | 995 | 0.29%
+5 | Subtotal development budget |  | 258,489 | 655,790 | 914,278 |
+6 | (%)Subtotal development budget |  | 28% | 72% | 100% | 26%
+7 | Salaries GE |  | 2,391,407 | - | 2,391,407 | 98.59%
+ | Other OPEX GE |  | 34,219 | - | 34,219 | 1.41%
+8 | Salareis HE&TVET |  | 121,802 | - | 121,802 | 89.66%
+ | Other OPEX HE&TVET |  | 14,043 | - | 14,043 | 10.34%
+9 | Subtotal salaries and OPEX |  | 2,561,471 | - | 2,561,471 |
+10 | (%)Subtotal development budget |  | 100% | 0% | 100% | 74%
+11 | Total (000 US$) |  | 2,820,906 | 655,839 | 3,476,744 | 3,476,744
+12 | Total % |  | 81% | 19% | 100% | 26%
 
-Table 7: Summary budget of MoEHE per year  (000$)
+Table 7: Summary budget of MoEHE per year (000$)
 
-Goal | Type | 2008 | 2009 | 2010 | 2011 | 2012 | Five Year Total
+No. | Goal | Type | 2008 GE | 2008 HE&TVET | 2009 GE | 2009 HE&TVET | 2010 GE | 2010 HE&TVET | 2011 GE | 2011 HE&TVET | 2012 GE | 2012 HE&TVET | Five Year Total GE&HE&TVET
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-GE | HE&TVET | GE | HE&TVET | GE | HE&TVET | GE | HE&TVET | GE | HE&TVET | GE&HE&TVET
-1 | Access | total Current Capital | 73,477 20,137 53,340 | 6,451 315 6,136 | 87,232 22,921 64,311 | 44,391 895 43,496 | 88,784 26,019 62,764 | 48,992 667 48,325 | 88,628 29,432 59,196 | 49,883 693 49,190 | 106,546 33,343 73,203 | 42,396 433 41,963 | 636,780 134,856 501,924
-2 | Quality | total Current Capital | 27,658 21,730 5,927 | 3,343 2,229 1,114 | 28,321 22,505 5,816 | 16,053 9,605 6,448 | 21,486 15,649 5,837 | 7,735 4,674 3,061 | 26,031 19,814 6,218 | 5,301 2,921 2,380 | 23,359 17,515 5,844 | 6,855 2,857 3,998 | 166,142 119,499 46,643
-3 | Management | total Current Capital | 1,831 1,272 559 | 1,374 1,374 | 1,209 756 453 | 27,317 27,317 | 1,113 674 440 | 25,850 25,850 | 1,017 678 339 | 25,846 25,846 | 1,109 756 353 | 24,691 24,691 | 111,357 4,136 107,221
-4 | Relevancy | total Current Capital | - - - | 52 52 - | - - - | 391 381 10 | - - - | 104 95 9 | - - - | 104 95 9 | - - - | 344 323 21 | 995 946 49
-5 | Sub-total | total Current Capital | 102,965 43,139 59,826 | 11,220 2,596 8,624 | 116,762 46,182 70,580 | 88,152 10,881 77,271 | 111,383 42,342 69,041 | 82,681 5,436 77,245 | 115,676 49,924 65,752 | 81,134 3,709 77,425 | 131,014 51,614 | 74,286 3,613 | 915,273 259,437 655,837
-6 | Salaries and OPEX | GE | 408,134 | 22,777 | 445,897 | 484,489 | 27,176 | 522,091 | 29,283 | 79,400 565,016 | 70,673 | 2,425,626
-Salaries OPEX | and TOTAL | HE&TVET | 511,098.5 | 33,997.0 | 562,658.9 | 25,337 113,489.0 | 595,871.7 | 109,857.0 | 637,767.2 | 110,417.0 | 696,030.0 | 31,272 105,558.0 | 135,845 3,476,744.3
-Goal | Type | 2008 GE HE&TVET | GE | 2009 HE&TVET | 2010 GE 100% | HE&TVET | 2011 GE | HE&TVET | GE | 2012 HE&TVET | Five Year Total GE&HE&TVET 100%
-1 | Access | Current | 5% | 26% | 2% | 29% | 1% | 33% | 1% | 31% | 21%
-Capital | 73% | 99% | 1%
-99%
-total | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
-27%
-95% | 74% | 98% | 71% | 67% | 69% | 99% | 79%
+1 | Access | total | 73,477 | 6,451 | 87,232 | 44,391 | 88,784 | 48,992 | 88,628 | 49,883 | 106,546 | 42,396 | 636,780
+ |  | Current | 20,137 | 315 | 22,921 | 895 | 26,019 | 667 | 29,432 | 693 | 33,343 | 433 | 134,856
+ |  | Capital | 53,340 | 6,136 | 64,311 | 43,496 | 62,764 | 48,325 | 59,196 | 49,190 | 73,203 | 41,963 | 501,924
+2 | Quality | total | 27,658 | 3,343 | 28,321 | 16,053 | 21,486 | 7,735 | 26,031 | 5,301 | 23,359 | 6,855 | 166,142
+ |  | Current | 21,730 | 2,229 | 22,505 | 9,605 | 15,649 | 4,674 | 19,814 | 2,921 | 17,515 | 2,857 | 119,499
+ |  | Capital | 5,927 | 1,114 | 5,816 | 6,448 | 5,837 | 3,061 | 6,218 | 2,380 | 5,844 | 3,998 | 46,643
+3 | Management | total | 1,831 | 1,374 | 1,209 | 27,317 | 1,113 | 25,850 | 1,017 | 25,846 | 1,109 | 24,691 | 111,357
+ |  | Current | 1,272 |  | 756 |  | 674 |  | 678 |  | 756 |  | 4,136
+ |  | Capital | 559 | 1,374 | 453 | 27,317 | 440 | 25,850 | 339 | 25,846 | 353 | 24,691 | 107,221
+4 | Relevancy | total | - | 52 | - | 391 | - | 104 | - | 104 | - | 344 | 995
+ |  | Current | - | 52 | - | 381 | - | 95 | - | 95 | - | 323 | 946
+ |  | Capital | - | - | - | 10 | - | 9 | - | 9 | - | 21 | 49
+5 | Sub-total | total | 102,965 | 11,220 | 116,762 | 88,152 | 111,383 | 82,681 | 115,676 | 81,134 | 131,014 | 74,286 | 915,273
+ |  | Current | 43,139 | 2,596 | 46,182 | 10,881 | 42,342 | 5,436 | 49,924 | 3,709 | 51,614 | 3,613 | 259,437
+ |  | Capital | 59,826 | 8,624 | 70,580 | 77,271 | 69,041 | 77,245 | 65,752 | 77,425 | 79,400 | 70,673 | 655,837
+6 | Salaries and OPEX | GE | 408,134 |  | 445,897 |  | 484,489 |  | 522,091 |  | 565,016 |  | 2,425,626
+ | Salaries and OPEX | HE&TVET |  | 22,777 |  | 25,337 |  | 27,176 |  | 29,283 |  | 31,272 | 135,845
+ | TOTAL |  | 511,098.5 | 33,997.0 | 562,658.9 | 113,489.0 | 595,871.7 | 109,857.0 | 637,767.2 | 110,417.0 | 696,030.0 | 105,558.0 | 3,476,744.3
+
+No. | Goal | Type | 2008 GE | 2008 HE&TVET | 2009 GE | 2009 HE&TVET | 2010 GE | 2010 HE&TVET | 2011 GE | 2011 HE&TVET | 2012 GE | 2012 HE&TVET | Five Year Total GE&HE&TVET
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1 | Access | total | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
+ |  | Current | 27% | 5% | 26% | 2% | 29% | 1% | 33% | 1% | 31% | 1% | 21%
+ |  | Capital | 73% | 95% | 74% | 98% | 71% | 99% | 67% | 99% | 69% | 99% | 79%
 
 77
 
@@ -1946,14 +2238,22 @@ total | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
 
 [[START OF PAGE 77]]
 
-Goal | Type | 2008 | 2009 | 2010 | 2011 | 2012 | Five Year Total
+No. | Goal | Type | 2008 GE | 2008 HE&TVET | 2009 GE | 2009 HE&TVET | 2010 GE | 2010 HE&TVET | 2011 GE | 2011 HE&TVET | 2012 GE | 2012 HE&TVET | Five Year Total GE&HE&TVET
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2 | Quality | total Current Capital total | 100% 79% 67% 21% 33% 100% | 100% 100% | 100% 79% 21% 100% | 100% 60% 40% 100% | 100% 73% 27% 100% | 100% 60% 40% 100% | 100% 76% 24% 100% | 100% 55% 45% 100% | 100% 75% 25% 100% | 100% 42% 58% 100% | 100% 72% 28% 100%
-3 | Management | Current Capital | 69% 31% | 0% 100% | 63% 37% | 0% 100% | 61% 39% | 0% 100% | 67% 33% | 0% 100% | 68% 32% | 0% 100% | 4% 96%
-4 | Relevancy | total Current Capital | 0% | 100% 100% 0% | 0% | 100% 97% 3% | 0% | 100% 91% 9% | 0% | 100% 91% 9% | 0% | 100% 94% 6% | 100% 95% 5%
-5 | Sub-total | total Current Capital | 100% 42% 58% | 100% 23% 77% | 100% 40% 60% | 100% 12% 88% | 100% 38% 62% | 100% 7% 93% | 100% 43% 57% | 100% 5% 95% | 100% 39% 61% | 100% 5% 95% | 100% 28% 72%
-Salaries | and OPEX | GE | 80% | 0% | 79% | 0% | 81% | 0% | 82% | 0% | 81% | 0% | 70%
-Salaries and OPEX | HE&TVET | 0% 67% | 0% | 22% | 0% | 25% | 0% | 27% | 0% | 30% | 4%
+2 | Quality | total | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
+ |  | Current | 79% | 67% | 79% | 60% | 73% | 60% | 76% | 55% | 75% | 42% | 72%
+ |  | Capital | 21% | 33% | 21% | 40% | 27% | 40% | 24% | 45% | 25% | 58% | 28%
+3 | Management | total | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
+ |  | Current | 69% | 0% | 63% | 0% | 61% | 0% | 67% | 0% | 68% | 0% | 4%
+ |  | Capital | 31% | 100% | 37% | 100% | 39% | 100% | 33% | 100% | 32% | 100% | 96%
+4 | Relevancy | total | 0% | 100% | 0% | 100% | 0% | 100% | 0% | 100% | 0% | 100% | 100%
+ |  | Current |  | 100% |  | 97% |  | 91% |  | 91% |  | 94% | 95%
+ |  | Capital |  | 0% |  | 3% |  | 9% |  | 9% |  | 6% | 5%
+5 | Sub-total | total | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
+ |  | Current | 42% | 23% | 40% | 12% | 38% | 7% | 43% | 5% | 39% | 5% | 28%
+ |  | Capital | 58% | 77% | 60% | 88% | 62% | 93% | 57% | 95% | 61% | 95% | 72%
+6 | Salaries and OPEX | GE | 80% | 0% | 79% | 0% | 81% | 0% | 82% | 0% | 81% | 0% | 70%
+ | Salaries and OPEX | HE&TVET | 0% | 67% | 0% | 22% | 0% | 25% | 0% | 27% | 0% | 30% | 4%
 
 ## 6.3 Budget financing and gap analysis
 
@@ -1961,26 +2261,26 @@ Two main sources of financing are envisaged in the Five-Year Plan. For salaries 
 
 The  analysis  of  financing  gaps  for  General  Education  is  made  per  funding  scenario developed by the MoEHE planning department. In the Basic Scenario the PRDP provides on average 23% more funds than needed to maintain the process of education at the current level. In the Medium Scenario, the financing gap between the PRDP estimated funding and the 5YP budget is 20%, and for the Optimal Scenario the financing gap is 31%. More details on the financing gaps per 5YP goal are provided in Table 8.
 
-Scenario/PRDP | 2008 | 2009 | 2010 | 2011 | 2012 | total
---- | --- | --- | --- | --- | --- | --- | ---
-Basic scenario | 34,201.2 | 46,369.6 | 46,601.3 | 42,430.8 | 55,834.0 | 225,436.9
-Medium scenario | 61,755.1 | 74,494.8 | 74,999.8 | 73,322.6 | 89,538.5 | 374,110.8
-Optimal scenario | 73,476.6 | 87,232.2 | 88,783.8 | 88,628.2 | 106,545.9 | 444,666.6
-PRDP | 39,634.8 | 50,905.5 | 74,945.2 | 0.0 | 0.0 | 165,485.5
-Basic scenario | 21,280.8 | 21,043.3 | 15,971.2 | 16,073.8 | 15,439.1 | 89,808.2
-Medium scenario | 25,556.0 | 25,843.3 | 19,218.0 | 22,846.0 | 20,410.4 | 113,873.7
-Optimal scenario | 27,657.6 | 28,321.5 | 21,485.9 | 26,031.4 | 23,358.6 | 126,855.1
-PRDP | 20,731.5 | 19,602.1 | 19,602.1 | 0.0 | 0.0 | 59,935.7
-Basic scenario | 303.7 | 208.2 | 140.4 | 121.6 | 128.2 | 902.1
-Medium scenario | 1,617.6 | 1,035.9 | 941.5 | 858.8 | 935.9 | 5,389.7
-Optimal scenario | 1,830.8 | 1,208.6 | 1,113.4 | 1,016.6 | 1,109.2 | 6,278.5
-PRDP | 1,345.6 | 1,265.8 | 1,239.2 | 0.0 | 0.0 | 3,850.6
-Total | Basic scenario | 55,785.7 | 67,621.1 | 62,712.9 | 58,626.2 | 71,401.3 | 316,147.3
-Medium scenario | 88,928.7 | 101,374.0 | 95,159.3 | 97,027.4 | 110,884.8 | 493,374.2
-Optimal scenario | 102,965.0 | 116,762.2 | 111,383.0 | 115,676.2 | 131,013.8 | 577,800.3
-PRDP | 61,711.9 | 71,773.4 | 95,786.5 | 0.0 | 0.0 | 229,271.9
-
 Table 8: Summary of financing gaps for General Education (000$)
+
+Goal | Scenario/PRDP | 2008 | 2009 | 2010 | 2011 | 2012 | total
+--- | --- | --- | --- | --- | --- | --- | ---
+Access | Basic scenario | 34,201.2 | 46,369.6 | 46,601.3 | 42,430.8 | 55,834.0 | 225,436.9
+ | Medium scenario | 61,755.1 | 74,494.8 | 74,999.8 | 73,322.6 | 89,538.5 | 374,110.8
+ | Optimal scenario | 73,476.6 | 87,232.2 | 88,783.8 | 88,628.2 | 106,545.9 | 444,666.6
+ | PRDP | 39,634.8 | 50,905.5 | 74,945.2 | 0.0 | 0.0 | 165,485.5
+Quality | Basic scenario | 21,280.8 | 21,043.3 | 15,971.2 | 16,073.8 | 15,439.1 | 89,808.2
+ | Medium scenario | 25,556.0 | 25,843.3 | 19,218.0 | 22,846.0 | 20,410.4 | 113,873.7
+ | Optimal scenario | 27,657.6 | 28,321.5 | 21,485.9 | 26,031.4 | 23,358.6 | 126,855.1
+ | PRDP | 20,731.5 | 19,602.1 | 19,602.1 | 0.0 | 0.0 | 59,935.7
+Mang. | Basic scenario | 303.7 | 208.2 | 140.4 | 121.6 | 128.2 | 902.1
+ | Medium scenario | 1,617.6 | 1,035.9 | 941.5 | 858.8 | 935.9 | 5,389.7
+ | Optimal scenario | 1,830.8 | 1,208.6 | 1,113.4 | 1,016.6 | 1,109.2 | 6,278.5
+ | PRDP | 1,345.6 | 1,265.8 | 1,239.2 | 0.0 | 0.0 | 3,850.6
+Total | Basic scenario | 55,785.7 | 67,621.1 | 62,712.9 | 58,626.2 | 71,401.3 | 316,147.3
+ | Medium scenario | 88,928.7 | 101,374.0 | 95,159.3 | 97,027.4 | 110,884.8 | 493,374.2
+ | Optimal scenario | 102,965.0 | 116,762.2 | 111,383.0 | 115,676.2 | 131,013.8 | 577,800.3
+ | PRDP | 61,711.9 | 71,773.4 | 95,786.5 | 0.0 | 0.0 | 229,271.9
 
 78
 
@@ -1990,22 +2290,24 @@ Table 8: Summary of financing gaps for General Education (000$)
 
 Financing from the current PRDP  budget as a % of the 5YP budget, per scenario (GE)
 
-Scenario/PRDP | 2008 | 2009 | 2010 | 2011 | 2012 | total
+Goal | Scenario/PRDP | 2008 | 2009 | 2010 | 2011 | 2012 | total
 --- | --- | --- | --- | --- | --- | --- | ---
-Basic scenario | 116% | 110% | 161% | 0% | 0% | 130%
-Access | Medium scenario | 64% | 68% | 100% | 0% | 0% | 78%
-Optimal scenario | 54% | 58% | 84% | 0% | 0% | 66%
-Basic scenario | 97% | 93% | 123% | 0% | 0% | 103%
-Medium scenario | 81% | 76% | 102% | 0% | 0% | 85%
-Optimal scenario | 75% | 69% | 91% | 0% | 0% | 77%
-Basic scenario | 443% | 608% | 883% | 0% | 0% | 590%
-Mang. | Medium scenario | 83% | 122% | 132% | 0% | 0% | 107%
-Optimal scenario | 73% | 105% | 111% | 0% | 0% | 93%
-Basic scenario | 111% | 106% | 153% | 0% | 0% | 123%
-Total | Medium scenario | 69% | 71% | 101% | 0% | 0% | 80%
-Optimal scenario | 60% | 61% | 86% | 0% | 0% | 69%
+Access | Basic scenario | 116% | 110% | 161% | 0% | 0% | 130%
+ | Medium scenario | 64% | 68% | 100% | 0% | 0% | 78%
+ | Optimal scenario | 54% | 58% | 84% | 0% | 0% | 66%
+Quality | Basic scenario | 97% | 93% | 123% | 0% | 0% | 103%
+ | Medium scenario | 81% | 76% | 102% | 0% | 0% | 85%
+ | Optimal scenario | 75% | 69% | 91% | 0% | 0% | 77%
+Mang. | Basic scenario | 443% | 608% | 883% | 0% | 0% | 590%
+ | Medium scenario | 83% | 122% | 132% | 0% | 0% | 107%
+ | Optimal scenario | 73% | 105% | 111% | 0% | 0% | 93%
+Total | Basic scenario | 111% | 106% | 153% | 0% | 0% | 123%
+ | Medium scenario | 69% | 71% | 101% | 0% | 0% | 80%
+ | Optimal scenario | 60% | 61% | 86% | 0% | 0% | 69%
 
 For the sub-sector Higher Education and TVET the average financing gap for three years is 36%. While the gaps differ significantly from year to year, they are overall higher for the Goal 1 - Access (76%) and the smallest for Goal 2- Quality 13%. More details per development goal are provided in Table 9.
+
+Table 9: Summary of financing gaps for Higher Education and TVET (000$)
 
 Goal | 2008 | 2009 | 2010 | 2011 | 2012 | total
 --- | --- | --- | --- | --- | --- | ---
@@ -2014,18 +2316,16 @@ Quality | 3,343 | 16,053 | 7,735 | 5,302 | 6,855 | 39,288
 Mangement | 1,374 | 27,317 | 25,850 | 25,846 | 24,691 | 105,078
 Relevance | 52 | 391 | 104 | 104 | 344 | 995
 
-Table 9: Summary of financing gaps for Higher Education and TVET  (000$)
-
-PRDP  budget in the 5YP budget  (Higher Education/TVET)
+PRDP budget in the 5YP budget (Higher Education/TVET)
 
 Goal | 2008 | 2009 | 2010 | 2011 | 2012 | total
 --- | --- | --- | --- | --- | --- | ---
-Access | 8,561 | 7,779 | 7,315 | 23,655
-Quality | 6,115 | 13,336 | 19,854 | 39,305
-Mangement | 612 | 1,111 | 1,045 | 2,768
-Total | 15,288 | 22,226 | 28,214 | 65,728
+Access | 8,561 | 7,779 | 7,315 |  |  | 23,655
+Quality | 6,115 | 13,336 | 19,854 |  |  | 39,305
+Mangement | 612 | 1,111 | 1,045 |  |  | 2,768
+Total | 15,288 | 22,226 | 28,214 |  |  | 65,728
 
-Share of PRDP  budget in the 5YP budget  (Higher Education/TVET)
+Share of PRDP budget in the 5YP budget (Higher Education/TVET)
 
 Goal | 2008 | 2009 | 2010 | 2011 | 2012 | total
 --- | --- | --- | --- | --- | --- | ---
@@ -2041,26 +2341,26 @@ Total | 136% | 25% | 34% | 0% | 0% | 36%
 
 [[START OF PAGE 79]]
 
-## 6.4 Summary Projection of the Development of Education Cost for 2008-2012 government schools only (in '000 US$;)
+## 6.4 Summary Projection of the Development of Education Cost for 2008—2012 - government schools only (in ‘000 US$;)
 
-No. | Action Programs | Type | 2008 | 2009 | 2010 | 2011 | 2012 | Five Year Total
+No. | Action Programs | Goal | Type | 2008 | 2009 | 2010 | 2011 | 2012 | Five Year Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-TOTAL EDUCATION EXPENDITURE | 511,099 | 562,659 | 595,872 | 637,767 | 696,030 | 3,003,426
-Capital expenditure | 59,826 | 70,580 | 69,041 | 65,752 | 79,400 | 344,599
-Recurrent expenditure | 451,273 | 492,079 | 526,831 | 572,015 | 616,630 | 2,658,828
-Salary expenditure | 402,529 | 439,731 | 477,707 | 514,631 | 556,810 | 2,391,407
-Salary expenditure as % of recurrent expenditure | 89.2% | 89.4% | 90.7% | 90.0% | 90.3% | 89.9%
-Total | 827 | 960 | 960 | 957 | 869 | 4,571
-PS0000000 | Sub-sector: Pre-school education | Current | 149 | 304 | 304 | 301 | 213 | 1,269
-Capital | 678 | 656 | 656 | 656 | 656 | 3,302
-PS1010100 | Conducting an awareness raising campaign for local communities and parents on the early childhood | Access | Current | 22 | 22 | 22 | 22 | 22 | 110
-issues (ECCD). | Capital | 40 | 40 | 40 | 40 | 40 | 200
+ | TOTAL EDUCATION EXPENDITURE |  |  | 511,099 | 562,659 | 595,872 | 637,767 | 696,030 | 3,003,426
+ | Capital expenditure |  |  | 59,826 | 70,580 | 69,041 | 65,752 | 79,400 | 344,599
+ | Recurrent expenditure |  |  | 451,273 | 492,079 | 526,831 | 572,015 | 616,630 | 2,658,828
+ | Salary expenditure |  |  | 402,529 | 439,731 | 477,707 | 514,631 | 556,810 | 2,391,407
+ | Salary expenditure as % of recurrent expenditure |  |  | 89.2% | 89.4% | 90.7% | 90.0% | 90.3% | 89.9%
+PS0000000 | Sub-sector: Pre-school education |  | Total | 827 | 960 | 960 | 957 | 869 | 4,571
+ |  |  | Current | 149 | 304 | 304 | 301 | 213 | 1,269
+ |  |  | Capital | 678 | 656 | 656 | 656 | 656 | 3,302
+PS1010100 | Conducting an awareness raising campaign for local communities and parents on the early childhood issues (ECCD). | Access | Current | 22 | 22 | 22 | 22 | 22 | 110
+ |  |  | Capital | 40 | 40 | 40 | 40 | 40 | 200
 PS1010200 | Provide physical and educational environment for children on pre schools education | Access | Current | - | - | - | - | - | -
-Capital | 616 | 616 | 616 | 616 | 616 | 3,080
+ |  |  | Capital | 616 | 616 | 616 | 616 | 616 | 3,080
 PS2050100 | Develop curricula framework for Pre-school | Quality | Current | 2 | 92 | 93 | 90 | 1 | 278
-Capital | - | - | - | - | - | -
-PS2070100 | Developing quality health, psychological and recreational programs for pre-schools | Quality | Current | - | 66 | 66 | 66 | 66 | 264
-children. | Capital | - | - | - | - | - | -
+ |  |  | Capital | - | - | - | - | - | -
+PS2070100 | Developing quality health, psychological and recreational programs for pre-schools children. | Quality | Current | - | 66 | 66 | 66 | 66 | 264
+ |  |  | Capital | - | - | - | - | - | -
 
 80
 
@@ -2068,22 +2368,22 @@ children. | Capital | - | - | - | - | - | -
 
 [[START OF PAGE 80]]
 
-No. | Action Programs | Type | 2008 | 2009 | 2010 | 2011 | 2012 | Five Year Total
+No. | Action Programs | Goal | Type | 2008 | 2009 | 2010 | 2011 | 2012 | Five Year Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-PS2080100 | Raising the performance level of Pre- school cadres (ECCD). | Quality | Current | 80 | 80 | 80 | 80 | 80 | 400
-Capital | - | - | - | - | - | -
-PS3100100 | Developing administrative rules and instructions special for pre- schools. | Manag. | Current | 2 | 1 | - | - | 1 | 4
-Capital | - | - | - | - | - | -
+PS2080100 | Raising the performance level of Pre-school cadres (ECCD). | Quality | Current | 80 | 80 | 80 | 80 | 80 | 400
+ |  |  | Capital | - | - | - | - | - | -
+PS3100100 | Developing administrative rules and instructions special for pre-schools. | Manag. | Current | 2 | 1 | - | - | 1 | 4
+ |  |  | Capital | - | - | - | - | - | -
 PS3110100 | Developing information systems (quantitative and qualitative) | Manag. | Current | 2 | 2 | 2 | 2 | 2 | 10
-Capital | 22 | - | - | - | - | 22
-PS3130100 | Enhancing the level of professional performance (financialand administrative) for those working in | Manag. | Current | 40 | 40 | 40 | 40 | 40 | 200
-Pre-school education. | Capital | - | - | - | - | - | -
+ |  |  | Capital | 22 | - | - | - | - | 22
+PS3130100 | Enhancing the level of professional performance (financialand administrative) for those working in Pre-school education. | Manag. | Current | 40 | 40 | 40 | 40 | 40 | 200
+ |  |  | Capital | - | - | - | - | - | -
 PS3140100 | Developing mechanisms for achieving integration between the governmental and non-gov sectors. | Manag. | Current | 1 | 1 | 1 | 1 | 1 | 3
-Capital | - | - | - | - | - | -
-GE0000000 | Sub-sector: General | total | 100,740 | 114,159 | 108,831 | 113,078 | 128,411 | 565,219
-Education | Current | 41,877 | 44,560 | 40,751 | 48,302 | 49,997 | 225,488
-Capital | 58,863 | 69,599 | 68,080 | 64,776 | 78,414 | 339,732
-GE1010100 | Provide appropriate physical and educational environment for new entrants including the | Access | Current | 849 | 958 | 1,070 | 1,187 | 1,308 | 5,373
+ |  |  | Capital | - | - | - | - | - | -
+GE0000000 | Sub-sector: General Education |  | total | 100,740 | 114,159 | 108,831 | 113,078 | 128,411 | 565,219
+ |  |  | Current | 41,877 | 44,560 | 40,751 | 48,302 | 49,997 | 225,488
+ |  |  | Capital | 58,863 | 69,599 | 68,080 | 64,776 | 78,414 | 339,732
+GE1010100 | Provide appropriate physical and educational environment for new entrants including the students with special needs. | Access | Current | 849 | 958 | 1,070 | 1,187 | 1,308 | 5,373
 
 81
 
@@ -2091,20 +2391,20 @@ GE1010100 | Provide appropriate physical and educational environment for new ent
 
 [[START OF PAGE 81]]
 
-No. | Action Programs | Type | 2008 | 2009 | 2010 | 2011 | 2012 | Five Year Total
+No. | Action Programs | Goal | Type | 2008 | 2009 | 2010 | 2011 | 2012 | Five Year Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Capital | 13,002 | 23,678 | 22,452 | 16,840 | 28,453 | 104,425
-GE1020100 | Provide an appropriate physical and educational environment for all | Access | Current | 15,095 | 17,048 | 19,184 | 21,287 | 23,600 | 96,213
-students including those with special needs | Capital | 39,411 | 39,678 | 39,376 | 41,390 | 43,774 | 203,628
-GE1030100 | Provide physical and educational environment to retain students in schools in | Access | Current | 3,178 | 3,814 | 4,648 | 5,725 | 7,117 | 24,482
-Capital | - | - | - | - | - | -
-GE2050100 | Review and revise textbooks and teachers' manuals for general education. | Quality | Current | 2,207 | 3,533 | 2,467 | 4,936 | 3,488 | 16,630
-Capital | 354 | 30 | 60 | 60 | 40 | 544
-GE2060100 | Improve educational technologies at schools according to the requirements of the | Quality | Current | 21 | 21 | 21 | 21 | 21 | 105
-curriculum. | Capital | 367 | 370 | 367 | 370 | 367 | 1,841
+ |  |  | Capital | 13,002 | 23,678 | 22,452 | 16,840 | 28,453 | 104,425
+GE1020100 | Provide an appropriate physical and educational environment for all students including those with special needs | Access | Current | 15,095 | 17,048 | 19,184 | 21,287 | 23,600 | 96,213
+ |  |  | Capital | 39,411 | 39,678 | 39,376 | 41,390 | 43,774 | 203,628
+GE1030100 | Provide physical and educational environment to retain students in schools in Jerusalem. | Access | Current | 3,178 | 3,814 | 4,648 | 5,725 | 7,117 | 24,482
+ |  |  | Capital | - | - | - | - | - | -
+GE2050100 | Review and revise textbooks and teachers’ manuals for general education. (1-12) | Quality | Current | 2,207 | 3,533 | 2,467 | 4,936 | 3,488 | 16,630
+ |  |  | Capital | 354 | 30 | 60 | 60 | 40 | 544
+GE2060100 | Improve educational technologies at schools according to the requirements of the curriculum. | Quality | Current | 21 | 21 | 21 | 21 | 21 | 105
+ |  |  | Capital | 367 | 370 | 367 | 370 | 367 | 1,841
 GE2070100 | Develop health and counseling services, and care for the disabled. | Quality | Current | 2,508 | 2,639 | 2,785 | 4,119 | 2,609 | 14,660
-Capital | 4,827 | 5,021 | 5,019 | 5,406 | 5,039 | 25,312
-GE2080100 | Develop a unified system and training strategy for the process of training (in- service and | Quality | Current | 10,500 | 8,500 | 2,000 | 2,000 | 2,000 | 25,000
+ |  |  | Capital | 4,827 | 5,021 | 5,019 | 5,406 | 5,039 | 25,312
+GE2080100 | Develop a unified system and training strategy for the process of training (in-service and pre-service). | Quality | Current | 10,500 | 8,500 | 2,000 | 2,000 | 2,000 | 25,000
 
 82
 
@@ -2136,18 +2436,18 @@ Capital | 280 | 348 | 308 | 323 | 338 | 1,597
 
 No. | Action Programs | Type | 2008 | 2009 | 2010 | 2011 | 2012 | Five Year Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-GE3110100 | Developin mechaninsms for supporting decision making processes e.g implementing studies and establishing | Manag. | Current | 480 | 90 | 80 | 70 | 80 | 798
-Capital | 188 | 77 | 113 | - | - | 378
-GE3110200 | Developing procedures to coordinate the process of integration between the General Education sector and the | Manag. | Current | 10 | 2 | - | - | - | 12
-education/ universities and colleges | Capital | - | - | - | - | - | -
+GE3110100 | Developin mechaninsms for supporting decision making processes e.g implementing studies and establishing educational information system (EIS) | Manag. | Current | 480 | 90 | 80 | 70 | 80 | 798
+ |  |  | Capital | 188 | 77 | 113 | - | - | 378
+GE3110200 | Developing procedures to coordinate the process of integration between the General Education sector and the institutions of higher education/ universities and colleges | Manag. | Current | 10 | 2 | - | - | - | 12
+ |  |  | Capital | - | - | - | - | - | -
 GE3110300 | .Developing the process of planning | Manag. | Current | 78 | 13 | 3 | 3 | 3 | 100
-Capital | 2 | 1 | 1 | 1 | 1 | 6
+ |  |  | Capital | 2 | 1 | 1 | 1 | 1 | 6
 GE3120100 | .Developing mechanisms for follow up& monitoring | Manag. | Current | 30 | - | - | - | - | 30
-Capital | - | - | - | - | - | -
+ |  |  | Capital | - | - | - | - | - | -
 GE3120200 | Developing a manual for policies and financial procedures .program | Manag. | Current | - | 8 | - | - | - | 8
-Capital | - | - | - | - | - | -
-GE3120300 | Developing procedures for setting the annual budget | Manag. | Current | - | - | - | - | - | -
-Capital | - | - | - | - | - | -
+ |  |  | Capital | - | - | - | - | - | -
+GE3120300 | Developing procedures for setting the annual budget in accordance with the five-year plan. | Manag. | Current | - | - | - | - | - | -
+ |  |  | Capital | - | - | - | - | - | -
 
 84
 
@@ -2157,16 +2457,16 @@ Capital | - | - | - | - | - | -
 
 No. | Action Programs | Type | 2008 | 2009 | 2010 | 2011 | 2012 | Five Year Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-GE3130100 | Setting a unified system and strategy to train the | Manag. | Current | 7 | 7 | 2 | 2 | 2 | 18
-admin cadres | Capital | - | - | - | - | - | -
-GE3130200 | Implementing training programs leading to the accredation of the naional teacher preparation | Manag. | Current | 263 | 227 | 223 | 175 | 175 | 1,063
-Capital | 14 | 15 | 15 | 15 | 14 | 72
-GE3140100 | Encouraging the horizontal and vertical expansion in private education and supporting | Manag. | Current | - | 5 | - | - | 5 | 10
-Capital | - | - | - | - | - | -
-GE3140200 | Developing procedures for partnership and cooperation between the (MOEHE) , the UNRWA and | Manag. | Current | - | 4 | - | - | - | 4
-development | Capital | - | - | - | - | - | -
-GE3140300 | Developing unified procedures to deal with donor countries .through all stages of funding and implementing | Manag. | Current | 2 | 2 | 2 | 2 | 1 | 8
-projects | Capital | - | - | - | - | - | -
+GE3130100 | Setting a unified system and strategy to train the admin cadres | Manag. | Current | 7 | 7 | 2 | 2 | 2 | 18
+ |  |  | Capital | - | - | - | - | - | -
+GE3130200 | Implementing training programs leading to the accredation of the naional teacher preparation startegy. | Manag. | Current | 263 | 227 | 223 | 175 | 175 | 1,063
+ |  |  | Capital | 14 | 15 | 15 | 15 | 14 | 72
+GE3140100 | Encouraging the horizontal and vertical expansion in private education and supporting and developing the ministry’s .supervision of it | Manag. | Current | - | 5 | - | - | 5 | 10
+ |  |  | Capital | - | - | - | - | - | -
+GE3140200 | Developing procedures for partnership and cooperation between the (MOEHE) , the UNRWA and the private sector in all issues related to education development | Manag. | Current | - | 4 | - | - | - | 4
+ |  |  | Capital | - | - | - | - | - | -
+GE3140300 | Developing unified procedures to deal with donor countries .through all stages of funding and implementing projects | Manag. | Current | 2 | 2 | 2 | 2 | 1 | 8
+ |  |  | Capital | - | - | - | - | - | -
 
 85
 
@@ -2174,24 +2474,23 @@ projects | Capital | - | - | - | - | - | -
 
 [[START OF PAGE 85]]
 
-No. | Action Programs | Type | 2008 | 2009 | 2010 | 2011 | 2012 | Five Year Total
---- | --- | --- | --- | --- | --- | --- | --- | ---
-total | 1,398 | 1,643 | 1,592 | 1,641 | 1,734 | 8,010
-NF0000000 | Sub-sector: Non-Formal Education | Current | 1,113 | 1,318 | 1,287 | 1,321 | 1,404 | 6,445
-Capital | 285 | 325 | 305 | 320 | 330 | 1,565
-NF1010100 | Preparing strategies for developing non formal education. | Current | 30 | 30 | 30 | 30 | 30 | 150
-Capital | - | - | - | - | - | -
-NF1010200 | Conducting an awareness raising campaign for local communities on the importance of non formal education. | Current | 12 | 12 | 12 | 12 | 12 | 60
-Capital | 60 | 60 | 60 | 60 | 60 | 300
-NF1010300 | Provide appropriate physical and educational environment for learners. | Current | 876 | 952 | 1,008 | 1,124 | 1,210 | 5,170
-10 | 30 | 50 | 80 | 90 | 260
-NF1040100 | Applying complementary programs for the graduates of the literacy programs | Capital Current | 75 | 85 | 45 | 45 | 45 | 295
-Capital | 170 | 170
-NF2050100 | Preparing and developing | Current | 200 | 210 | 170 | 920
-curricula for literacy and adult eduction. | 60 | 60 | 60 | 50 | 50 | 280
-Capital | - | - | - | - | - | -
-NF2050200 | developing curricula for new illiterates. | Current Capital | 6 | 120 | 80 | - | - | 206 -
-- | - | - | - | -
+No. | Action Programs | Goal | Type | 2008 | 2009 | 2010 | 2011 | 2012 | Five Year Total
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+NF0000000 | Sub-sector: Non-Formal Education |  | total | 1,398 | 1,643 | 1,592 | 1,641 | 1,734 | 8,010
+ |  |  | Current | 1,113 | 1,318 | 1,287 | 1,321 | 1,404 | 6,445
+ |  |  | Capital | 285 | 325 | 305 | 320 | 330 | 1,565
+NF1010100 | Preparing strategies for developing non formal education. | Access | Current | 30 | 30 | 30 | 30 | 30 | 150
+ |  |  | Capital | - | - | - | - | - | -
+NF1010200 | Conducting an awareness raising campaign for local communities on the importance of non formal education. | Access | Current | 12 | 12 | 12 | 12 | 12 | 60
+ |  |  | Capital | 60 | 60 | 60 | 60 | 60 | 300
+NF1010300 | Provide appropriate physical and educational environment for learners. | Access | Current | 876 | 952 | 1,008 | 1,124 | 1,210 | 5,170
+ |  |  | Capital | 10 | 30 | 50 | 80 | 90 | 260
+NF1040100 | Applying complementary programs for the graduates of the literacy programs | Access | Current | 75 | 85 | 45 | 45 | 45 | 295
+ |  |  | Capital | 200 | 210 | 170 | 170 | 170 | 920
+NF2050100 | Preparing and developing curricula for literacy and adult eduction. | Quality | Current | 60 | 60 | 60 | 50 | 50 | 280
+ |  |  | Capital | - | - | - | - | - | -
+NF2050200 | Preparing and developing curricula for new illiterates. | Quality | Current | 6 | 120 | 80 | - | - | 206
+ |  |  | Capital | - | - | - | - | - | -
 
 86
 
@@ -2199,18 +2498,18 @@ NF2050200 | developing curricula for new illiterates. | Current Capital | 6 | 12
 
 [[START OF PAGE 86]]
 
-No. | Action Programs | Type | 2008 | 2009 | 2010 | 2011 | 2012 | Five Year Total
+No. | Action Programs | Goal | Type | 2008 | 2009 | 2010 | 2011 | 2012 | Five Year Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-NF2060100 | Developing educational resources for Non-formal education | Quality | Current | - | - | - | - | - | -
-programs. | Capital | 8 | 8 | 8 | 8 | 8 | 40
-NF2070100 | Enhancing the hygienic, environmental, and instructional awareness of learners, and staff in literacy | Quality | Current | 9 | 9 | 10 | 10 | 11 | 49
-education, & parallel education. | Capital | 2 | 2 | 2 | 2 | 2 | 10
+NF2060100 | Developing educational resources for Non-formal education programs. | Quality | Current | - | - | - | - | - | -
+ |  |  | Capital | 8 | 8 | 8 | 8 | 8 | 40
+NF2070100 | Enhancing the hygienic, environmental, and instructional awareness of learners, and staff in literacy education, adult education, & parallel education. | Quality | Current | 9 | 9 | 10 | 10 | 11 | 49
+ |  |  | Capital | 2 | 2 | 2 | 2 | 2 | 10
 NF2080100 | Developing clear strategies for non formal education training methodologies. | Quality | Current | 26 | 26 | 26 | 26 | 26 | 130
-Capital | - | 15 | 15 | - | - | 30
+ |  |  | Capital | - | 15 | 15 | - | - | 30
 NF3011100 | Developing a specialized information system for non-formal .education sector | Manag. | Current | 1 | 5 | 1 | 5 | 5 | 17
-Capital | - | - | - | - | - | -
-NF3130100 | Unifying the training approaches used for preparing administrators, | Manag. | Current | 17 | 14 | 14 | 14 | 14 | 73
-.education | Capital | 5 | - | - | - | - | 5
+ |  |  | Capital | - | - | - | - | - | -
+NF3130100 | Unifying the training approaches used for preparing administrators, and supervisors in the field of non-formal .education | Manag. | Current | 17 | 14 | 14 | 14 | 14 | 73
+ |  |  | Capital | 5 | - | - | - | - | 5
 NF3140100 | Enhancing the role of local communities in supporting non-.formal education programs | Manag. | Current | 2 | 6 | 2 | 6 | 2 | 16
 
 87
@@ -2219,29 +2518,33 @@ NF3140100 | Enhancing the role of local communities in supporting non-.formal ed
 
 [[START OF PAGE 87]]
 
-No. | Action Programs | Type | 2008 | 2009 | 2010 | 2011 | 2012 | Five Year Total
+No. | Action Programs | Goal | Type | 2008 | 2009 | 2010 | 2011 | 2012 | Five Year Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Capital | - | - | - | - | - | -
-MF1230000 | providing basic services for general education | total | 408,134 | 445,897 | 484,489 | 522,091 | 565,016 | 2,425,626
-MF1230100 | Salaries for pre schools | MOF | Current Capital | 106 - | 212 - | 318 - | 424 - | 530 - | 1,590 -
+ |  |  | Capital | - | - | - | - | - | -
+MF1230000 | providing basic services for general education |  | total | 408,134 | 445,897 | 484,489 | 522,091 | 565,016 | 2,425,626
+ |  |  | Current | 408,134 | 445,897 | 484,489 | 522,091 | 565,016 | 2,425,626
+ |  |  | Capital | - | - | - | - | - | -
+MF1230100 | Salaries for pre schools | MOF | Current | 106 | 212 | 318 | 424 | 530 | 1,590
+ |  |  | Capital | - | - | - | - | - | -
 MF1230200 | Salaries for secondary and basic education | MOF | Current | 402,423 | 439,519 | 477,389 | 514,207 | 556,280 | 2,389,817
-Capital | - | - | - | - | - | -
+ |  |  | Capital | - | - | - | - | - | -
 MF1230300 | providing operating cost | MOF | Current | 5,605 | 6,165 | 6,782 | 7,460 | 8,206 | 34,219
+ |  |  | Capital | - | - | - | - | - | -
 
 ## Action Programmes for Higher Education
 
-#### Technical and Vocational Education and Training (TVET)
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Type | Total | Total | Cost per year
-Action Program | US$ 000 | % | 2008 | 2009 | 2010 | 2011 | 2012
-Establishment of new TVET | Total | 45,610 | 1.00 | 2,596 | 12,621 | 11,978 | 12,903 | 5,512
-institutions (colleges, schools, units) and expansion of the existing TVET institution›s | Recurrent | 1,415 | 0.03 | 81 | 392 | 372 | 400 | 171
-capacity. Females› enrollment is guaranteed with special consideration through establishing special institutions for females, or even co-TVET institutions. | Capital | 44,195 | 0.97 | 2,515 | 12,229 | 11,606 | 12,503 | 5,341
-Total | 95 | 1.00 | 25 | 40 | 10 | 10 | 10
-Provision of laws, regulations and mechanisms that encourage enrollment in TVET (to draw special consideration to special | Recurrent | 0 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00
-needs, poor, released ...). | Capital | 95 | 1.00 | 25.00 | 40.00 | 10.00 | 10.00 | 10.00
-
 ### Goal (1): Access
+
+#### Technical and Vocational Education and Training (TVET)
+
+Action Program | Type | Total US$ 000 | Total % | 2008 | 2009 | 2010 | 2011 | 2012
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+Establishment of new TVET institutions (colleges, schools, units) and expansion of the existing TVET institution›s capacity. Females› enrollment is guaranteed with special consideration through establishing special institutions for females, or even co-TVET institutions. | Total | 45,610 | 1.00 | 2,596 | 12,621 | 11,978 | 12,903 | 5,512
+ | Recurrent | 1,415 | 0.03 | 81 | 392 | 372 | 400 | 171
+ | Capital | 44,195 | 0.97 | 2,515 | 12,229 | 11,606 | 12,503 | 5,341
+Provision of laws, regulations and mechanisms that encourage enrollment in TVET (to draw special consideration to special needs, poor, released ...). | Total | 95 | 1.00 | 25 | 40 | 10 | 10 | 10
+ | Recurrent | 0 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00
+ | Capital | 95 | 1.00 | 25.00 | 40.00 | 10.00 | 10.00 | 10.00
 
 88
 
@@ -2249,33 +2552,33 @@ needs, poor, released ...). | Capital | 95 | 1.00 | 25.00 | 40.00 | 10.00 | 10.0
 
 [[START OF PAGE 88]]
 
-Establishment of an effective «system» for Career Guidance to counsel students in their | Total | 340 | 1.00 | 80.00 | 180.00 | 60.00 | 10.00 | 10.00
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Recurrent | 50 | 0.15 | 12.00 | 27.00 | 9.00 | 1.50 | 1.50
-enrollment options: CG in the frame of extensive vision and according to professional advices with special reference to females› enrolment. | Capital | 290 | 0.85 | 68.00 | 153.00 | 51.00 | 8.50 | 8.50
+Establishment of an effective «system» for Career Guidance to counsel students in their enrollment options: CG in the frame of extensive vision and according to professional advices with special reference to females› enrolment. | Total | 340 | 1.00 | 80.00 | 180.00 | 60.00 | 10.00 | 10.00
+ | Recurrent | 50 | 0.15 | 12.00 | 27.00 | 9.00 | 1.50 | 1.50
+ | Capital | 290 | 0.85 | 68.00 | 153.00 | 51.00 | 8.50 | 8.50
 Empowerment of the system capacity in keeping and retaining students. | Total | 160 | 1.00 | 29 | 34 | 34 | 34 | 29
-Recurrent | 0 | 0.00 | 0 | 0 | 0 | 0 | 0
-Capital | 160 | 1.00 | 29 | 34 | 34 | 34 | 29
-Total | 46,205 | 2,730 | 12,875 | 12,082 | 12,957 | 5,561
+ | Recurrent | 0 | 0.00 | 0 | 0 | 0 | 0 | 0
+ | Capital | 160 | 1.00 | 29 | 34 | 34 | 34 | 29
+Total |  | 46,205 |  | 2,730 | 12,875 | 12,082 | 12,957 | 5,561
 
 ### Goal (1): Access
 
 #### Higher Education
+
+Action Program | Type | Total US$ 000 | Total % | 2008 | 2009 | 2010 | 2011 | 2012
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Action Program | Type | Total | Total | Cost per year
-US$ 000 | % | 2008 | 2009 | 2010 | 2011 | 2012
-1.2.1.1
-Capacity expansion of the governmental higher education | Total | 4,528 | 1.00 | 654 | 1,404 | 843 | 859 | 768
-institutions (provision of new programs to the existing | Recurrent | 1,526 | 0.34 | 220.41 | 473.17 | 284.10 | 289.50 | 258.83
-institutions) according to national development priorities. | Capital | 3,002 | 0.66 | 433.59 | 930.83 | 558.90 | 569.50 | 509.17
-1.2.1.2 Encouraging and supporting the private and community | Total Recurrent | 200 0 | 1.00 0.00 | 30 0 | 50 0 | 40 0 | 40 0 | 40 0
-sector in establishment of HE institutions, and developing cooperation relationships with | Capital | 200 | 1.00 | 30 | 50 | 40 | 40 | 40
-local and external to secure more scholarships and fellowships.
-1.2.2.1 Increasing attention to students with special needs (poor, released, injured, disabled ...). | Total Recurrent Capital | 141,045 0 141,045 | 1.00 0.00 1.00 | 3,011 0 3,011 | 30,016 0 30,016 | 36,006 0 36,006 | 36,006 0 36,006 | 36,006 0 36,006
-1.2.2.2
-Counseling and guiding students› aptitudes and willingness towards appropriate HE enrolment program. | Total Recurrent | 135 9.5 | 1.00 0.07 | 26 1.8 | 46 3.2 | 21 1.5 | 21 1.5 | 21 1.5
-Capital | 125.5 | 0.93 | 24.2 | 42.8 | 19.5 | 19.5 | 19.5
-145,908 | 3,721 | 31,516 | 36,910 | 36,926 | 36,835
+1.2.1.1 Capacity expansion of the governmental higher education institutions (provision of new programs to the existing institutions) according to national development priorities. | Total | 4,528 | 1.00 | 654 | 1,404 | 843 | 859 | 768
+ | Recurrent | 1,526 | 0.34 | 220.41 | 473.17 | 284.10 | 289.50 | 258.83
+ | Capital | 3,002 | 0.66 | 433.59 | 930.83 | 558.90 | 569.50 | 509.17
+1.2.1.2 Encouraging and supporting the private and community sector in establishment of HE institutions, and developing cooperation relationships with local and external to secure more scholarships and fellowships. | Total | 200 | 1.00 | 30 | 50 | 40 | 40 | 40
+ | Recurrent | 0 | 0.00 | 0 | 0 | 0 | 0 | 0
+ | Capital | 200 | 1.00 | 30 | 50 | 40 | 40 | 40
+1.2.2.1 Increasing attention to students with special needs (poor, released, injured, disabled ...). | Total | 141,045 | 1.00 | 3,011 | 30,016 | 36,006 | 36,006 | 36,006
+ | Recurrent | 0 | 0.00 | 0 | 0 | 0 | 0 | 0
+ | Capital | 141,045 | 1.00 | 3,011 | 30,016 | 36,006 | 36,006 | 36,006
+1.2.2.2 Counseling and guiding students› aptitudes and willingness towards appropriate HE enrolment program. | Total | 135 | 1.00 | 26 | 46 | 21 | 21 | 21
+ | Recurrent | 9.5 | 0.07 | 1.8 | 3.2 | 1.5 | 1.5 | 1.5
+ | Capital | 125.5 | 0.93 | 24.2 | 42.8 | 19.5 | 19.5 | 19.5
+ |  | 145,908 |  | 3,721 | 31,516 | 36,910 | 36,926 | 36,835
 
 89
 
@@ -2283,28 +2586,25 @@ Capital | 125.5 | 0.93 | 24.2 | 42.8 | 19.5 | 19.5 | 19.5
 
 [[START OF PAGE 89]]
 
-#### Technical and Vocational Education and Training (TVET)
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Action Program | Type | Total US$ 000 | Total % | Cost per year | 2010
-2008 | 2009 | 2011 | 2012
-2.1.1.1
-Development of Competency- | Total | 3,700 | 1.00 | 600 | 1,550 | 1,250 | 150 | 150
-Based Modularized Curricula (CBMC) for TVET according | Recurrent | 2,368 | 0.64 | 384 | 992 | 800 | 96 | 96
-to priority occupations, priority levels with special .consideration of females | Capital | 1,332 | 0.36 | 216 | 558 | 450 | 54 | 54
-2.1.2.1
-Development of physical infrastructure (buildings, | Total Recurrent | 10,350 440 | 1.00 0.04 | 500 20 | 3,620 145 | 2,210 88 | 2,110 84 | 76
-equipment and furniture). | Capital | 9,910 | 0.96 | 480 | 3,475 | 2,122 | 2,026
-2.1.3.1
-Design and implementation | Total | 750 | 1.00 | 65 | 195 | 255 | 155 | 80
-of effective, integrated at the local, regional and international levels, and | Recurrent | 683 | 0.91 | 59 | 177 | 232 | 141 | 73
-institutionalization of a medium and long-term training. The promising design shall be demand- driven (the MoEHE demand) and not according to offers. | Capital | 68 | 0.09 | 6 | 18 | 23 | 14 | 7
-2.1.4.1
-Revision, evaluation and | Total | 1,675 | 1.00 | 105 | 725 | 355 | 245 | 245
-enrichment of the current education approaches, and, provision and | Recurrent | 1,640 | 0.98 | 103 | 711 | 348 | 240 | 240
-institutionalization of new approaches that are applicable to the Palestinian context (i.e.: ICT, E-Learning, | Capital | 35 | 0.02 | 2 | 0 | 0 | 0 | 538
-Blended-Learning). Total | 18,287 | 1,270 | 6,090 | 4,070 | 2,660 | 4,197
-
 ### Goal (2): Quality of education and learning
+
+#### Technical and Vocational Education and Training (TVET)
+
+Action Program | Type | Total US$ 000 | Total % | 2008 | 2009 | 2010 | 2011 | 2012
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+2.1.1.1 Development of Competency-Based Modularized Curricula (CBMC) for TVET according to priority occupations, priority levels with special .consideration of females | Total | 3,700 | 1.00 | 600 | 1,550 | 1,250 | 150 | 150
+ | Recurrent | 2,368 | 0.64 | 384 | 992 | 800 | 96 | 96
+ | Capital | 1,332 | 0.36 | 216 | 558 | 450 | 54 | 54
+2.1.2.1 Development of physical infrastructure (buildings, equipment and furniture). | Total | 10,350 | 1.00 | 500 | 3,620 | 2,210 | 2,110 |
+ | Recurrent | 440 | 0.04 | 20 | 145 | 88 | 84 | 76
+ | Capital | 9,910 | 0.96 | 480 | 3,475 | 2,122 | 2,026 |
+2.1.3.1 Design and implementation of effective, integrated at the local, regional and international levels, and institutionalization of a medium and long-term training. The promising design shall be demand-driven (the MoEHE demand) and not according to offers. | Total | 750 | 1.00 | 65 | 195 | 255 | 155 | 80
+ | Recurrent | 683 | 0.91 | 59 | 177 | 232 | 141 | 73
+ | Capital | 68 | 0.09 | 6 | 18 | 23 | 14 | 7
+2.1.4.1 Revision, evaluation and enrichment of the current education approaches, and, provision and institutionalization of new approaches that are applicable to the Palestinian context (i.e.: ICT, E-Learning, Blended-Learning). | Total | 1,675 | 1.00 | 105 | 725 | 355 | 245 | 245
+ | Recurrent | 1,640 | 0.98 | 103 | 711 | 348 | 240 | 240
+ | Capital | 35 | 0.02 | 2 | 0 | 0 | 0 | 538
+Total |  | 18,287 |  | 1,270 | 6,090 | 4,070 | 2,660 | 4,197
 
 90
 
@@ -2312,29 +2612,25 @@ Blended-Learning). Total | 18,287 | 1,270 | 6,090 | 4,070 | 2,660 | 4,197
 
 [[START OF PAGE 90]]
 
-#### Higher Education
-Action Program | Total
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Type | Total US$ | % | Cost per 2008 | year 2009 | 2010 | 2011 | 2012
-2.2.1.1 | 000
-Capacity building in | Total | 12,992 | 1.00 | 1,181 | 4,050 | 3,002 | 2,382 | 2,377
-quality management and | Recurrent | 12,083 | 0.93 | 1,098 | 3,767 | 2,792 | 2,215 | 2,211
-assurance, investment of gifted students and development of education programs and curricula according in line with technological developments. | Capital | 909 | 0.07 | 83 | 284 | 210 | 167 | 166
-2.2.1.2
-Development of scientific research and | Total | 7,160 | 1.00 | 732 | 5,594 | 513 | 160 | 161
-Recurrent | 4,654 | 0.65 | 476 | 3,636 | 333 | 104 | 105
-identification of its national priorities for development purposes | Capital | 2,506 | 0.35 | 256 | 1,958 | 180 | 56 | 56
-2.2.2.1
-Development and | Total | 300 | 1.00 | 50 | 100 | 50 | 50 | 50
-diversification of | Recurrent | 0 | 0.00 | 0 | 0 | 0 | 0 | 0
-libraries and labs and improvement of services in the governmental HE institutions. | Capital | 300 | 1.00 | 50 | 100 | 50 | 50 | 50
-2.2.3.1
-Construction of an extensive and updated | Total | 550 | 1.00 | 110 | 220 | 100 | 50 | 70
-Recurrent | 445 | 0.81 | 89 | 178 | 81 | 41 | 57
-database on Palestinian professional and experienced human resources available inside | Capital | 105 | 0.19 | 21 | 42 | 19 | 10 | 13
-Total | 21,002 | 2,073 | 9,964 | 3,665 | 2,642 | 2,658
-
 ### Goal (2): Quality of education and learning
+
+#### Higher Education
+
+Action Program | Type | Total US$ 000 | Total % | 2008 | 2009 | 2010 | 2011 | 2012
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+2.2.1.1 Capacity building in quality management and assurance, investment of gifted students and development of education programs and curricula according in line with technological developments. | Total | 12,992 | 1.00 | 1,181 | 4,050 | 3,002 | 2,382 | 2,377
+ | Recurrent | 12,083 | 0.93 | 1,098 | 3,767 | 2,792 | 2,215 | 2,211
+ | Capital | 909 | 0.07 | 83 | 284 | 210 | 167 | 166
+2.2.1.2 Development of scientific research and identification of its national priorities for development purposes | Total | 7,160 | 1.00 | 732 | 5,594 | 513 | 160 | 161
+ | Recurrent | 4,654 | 0.65 | 476 | 3,636 | 333 | 104 | 105
+ | Capital | 2,506 | 0.35 | 256 | 1,958 | 180 | 56 | 56
+2.2.2.1 Development and diversification of libraries and labs and improvement of services in the governmental HE institutions. | Total | 300 | 1.00 | 50 | 100 | 50 | 50 | 50
+ | Recurrent | 0 | 0.00 | 0 | 0 | 0 | 0 | 0
+ | Capital | 300 | 1.00 | 50 | 100 | 50 | 50 | 50
+2.2.3.1 Construction of an extensive and updated database on Palestinian professional and experienced human resources available inside and outside Palestine. | Total | 550 | 1.00 | 110 | 220 | 100 | 50 | 70
+ | Recurrent | 445 | 0.81 | 89 | 178 | 81 | 41 | 57
+ | Capital | 105 | 0.19 | 21 | 42 | 19 | 10 | 13
+Total |  | 21,002 |  | 2,073 | 9,964 | 3,665 | 2,642 | 2,658
 
 91
 
@@ -2342,35 +2638,28 @@ Total | 21,002 | 2,073 | 9,964 | 3,665 | 2,642 | 2,658
 
 [[START OF PAGE 91]]
 
-Action Program | Type | Total US$ 000 | Total % | Cost per year | 2012
---- | --- | --- | --- | --- | --- | --- | --- | ---
-2008 | 2009 | 2010 | 2011
-3.1.1.1
-Encouraging investment of the | Total | 101,337 | 1.000 | 1,010 | 26,327 | 25,000 | 25,000 | 24,000
-Private Sector in HE | Recurrent | 507 | 0.005 | 5.05 | 131.64 | 125.00 | 125.00 | 120.00
-Capital | 100,830 | 0.995 | 1,005 | 26,195 | 24,875 | 24,875 | 23,880
-3.1.1.3
-Capacity building and ability improvement in self-financing | Total | 115 | 1.00 | 15 | 60 | 20 | 10 | 10
-of HE institutions | Recurrent | 90 | 0.78 | 12 | 47 | 16 | 8 | 8
-Capital | 25 | 0.22 | 3 | 13 | 4 | 2 | 2
-3.1.1.4
-Development of an administrative-financial system | Total | 5 | 1.00 | 2 | 0 | 3 | 0 | 0
-for reclaiming students› | Recurrent | 2 | 0.40 | 0.80 | 0.00 | 1.20 | 0.00 | 0.00
-fund for the benefit of «loan revolving» | Capital | 3 | 0.60 | 1.20 | 0.00 | 1.80 | 0.00 | 0.00
-3.2.1.1
-Total | 250 | 1.00 | 94 | 155 | 0 | 1 | 0
-Design and adoption of a unified classification of employees in the HE | Recurrent | 242 | 0.97 | 91 | 150 | 0 | 1 | 0
-institutions and HRD according to the classification. | Capital | 8 | 0.03 | 3 | 5 | 0 | 0 | 0
-3.3.1.1
-Computation of administrative systems in HE, in the Ministry and its HE institutions (HEIs). | Total | 260 | 1.00 | 50 | 180 | 10 | 10 | 10
-Recurrent | 60 | 0.23 | 12 | 41 | 2 | 2 | 2
-Capital | 200 | 0.77 | 39 | 139 | 8 | 8 | 8
-3.3.2.1
-Devotion of group and | Total | 115 | 1.00 | 32 | 62 | 7 | 7 | 7
-collective work, and cooperation relationships | Recurrent | 105 | 0.91 | 29 | 56 | 6 | 6 | 6
-between the Ministry and HE institutions on the one hand and between the HEIs themselves on the other hand | Capital | 10 | 0.09 | 3 | 6 | 1 | 1 | 1
+### Goal (3): Management Higher education and Technical and Vocation Education and Training, TVET (shared target)
 
-### Goal (3): Management Higher education and Technical and Vocation Education and Training, TVET (shared target)
+Action Program | Type | Total US$ 000 | Total % | 2008 | 2009 | 2010 | 2011 | 2012
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+3.1.1.1 Encouraging investment of the Private Sector in HE | Total | 101,337 | 1.000 | 1,010 | 26,327 | 25,000 | 25,000 | 24,000
+ | Recurrent | 507 | 0.005 | 5.05 | 131.64 | 125.00 | 125.00 | 120.00
+ | Capital | 100,830 | 0.995 | 1,005 | 26,195 | 24,875 | 24,875 | 23,880
+3.1.1.3 Capacity building and ability improvement in self-financing of HE institutions | Total | 115 | 1.00 | 15 | 60 | 20 | 10 | 10
+ | Recurrent | 90 | 0.78 | 12 | 47 | 16 | 8 | 8
+ | Capital | 25 | 0.22 | 3 | 13 | 4 | 2 | 2
+3.1.1.4 Development of an administrative-financial system for reclaiming students› fund for the benefit of «loan revolving» | Total | 5 | 1.00 | 2 | 0 | 3 | 0 | 0
+ | Recurrent | 2 | 0.40 | 0.80 | 0.00 | 1.20 | 0.00 | 0.00
+ | Capital | 3 | 0.60 | 1.20 | 0.00 | 1.80 | 0.00 | 0.00
+3.2.1.1 Design and adoption of a unified classification of employees in the HE institutions and HRD according to the classification. | Total | 250 | 1.00 | 94 | 155 | 0 | 1 | 0
+ | Recurrent | 242 | 0.97 | 91 | 150 | 0 | 1 | 0
+ | Capital | 8 | 0.03 | 3 | 5 | 0 | 0 | 0
+3.3.1.1 Computation of administrative systems in HE, in the Ministry and its HE institutions (HEIs). | Total | 260 | 1.00 | 50 | 180 | 10 | 10 | 10
+ | Recurrent | 60 | 0.23 | 12 | 41 | 2 | 2 | 2
+ | Capital | 200 | 0.77 | 39 | 139 | 8 | 8 | 8
+3.3.2.1 Devotion of group and collective work, and cooperation relationships between the Ministry and HE institutions on the one hand and between the HEIs themselves on the other hand | Total | 115 | 1.00 | 32 | 62 | 7 | 7 | 7
+ | Recurrent | 105 | 0.91 | 29 | 56 | 6 | 6 | 6
+ | Capital | 10 | 0.09 | 3 | 6 | 1 | 1 | 1
 
 92
 
@@ -2378,23 +2667,23 @@ between the Ministry and HE institutions on the one hand and between the HEIs th
 
 [[START OF PAGE 92]]
 
-Action Program | Type | Total US$ | Total % | Cost per year | 2012
---- | --- | --- | --- | --- | --- | --- | --- | ---
-3.3.3.1 Implementation | 000 | 2008 | 2009 | 2010 | 2011
-of the | Total | 5,000 | 1.00 | 400 | 1,200 | 1,200 | 1,200 | 1,000
-National TVET Strategy | Recurrent | 1,000 | 0.20 | 80 | 240 | 240 | 240 | 200
-Capital | 4,000 | 0.80 | 320 | 960 | 960 | 960 | 800
-3.3.4.1 | Total Recurrent | 19,932 19,932 | 1.00 1.00 0.00 | 1,332 1,332 | 2,688 2,688 | 4,020 4,020 | 5,340 5,340 0 | 6,552 6,552 0
-Expansion of the cadre in (salaries): Khadouri technical University, Vocational Schools and Vocation Units (salaries will result from development programs during the EDSP. | Capital | 0 | 0 | 0 | 0
-3.3.4.2 Providing salaries for the existing employees (before | Total Recurrent | 101,870 101,870 | 1.00 1.00 0.00 | 19,187 19,187 0 | 19,762 19,762 0 | 20,355 20,355 | 20,966 20,966 | 21,600 21,600
-start implementation of the EDSP). 3.3.4.3 | Capital Total Recurrent | 0 12,046 12,046 | 1.00 1.00 | 2,029 | 2,220 2,220 | 0 2,411 2,411 | 0 2,602 | 0 2,784
-Providing financial coverage of | 2,029 | 2,602 | 2,784
-recurrent costs during the EDSP
-(doesn't include salaries). | Capital | 0 | 0.00 | 0 | 0 | 0 | 0 | 0
-Total | 52,654 | 55,136
-240,930 | 24,151 | 53,026 | 55,963
+Goal (3): Management Higher education and Technical and Vocation Education and Training, TVET (shared target)
 
-Goal (3): Management Higher education and Technical and Vocation Education and Training, TVET (shared target)
+Action Program | Type | Total US$ 000 | Total % | 2008 | 2009 | 2010 | 2011 | 2012
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+3.3.3.1 Implementation of the National TVET Strategy | Total | 5,000 | 1.00 | 400 | 1,200 | 1,200 | 1,200 | 1,000
+ | Recurrent | 1,000 | 0.20 | 80 | 240 | 240 | 240 | 200
+ | Capital | 4,000 | 0.80 | 320 | 960 | 960 | 960 | 800
+3.3.4.1 Expansion of the cadre in (salaries): Khadouri technical University, Vocational Schools and Vocation Units (salaries will result from development programs during the EDSP. | Total | 19,932 | 1.00 | 1,332 | 2,688 | 4,020 | 5,340 | 6,552
+ | Recurrent | 19,932 | 1.00 | 1,332 | 2,688 | 4,020 | 5,340 | 6,552
+ | Capital | 0 | 0.00 | 0 | 0 | 0 | 0 | 0
+3.3.4.2 Providing salaries for the existing employees (before start implementation of the EDSP). | Total | 101,870 | 1.00 | 19,187 | 19,762 | 20,355 | 20,966 | 21,600
+ | Recurrent | 101,870 | 1.00 | 19,187 | 19,762 | 20,355 | 20,966 | 21,600
+ | Capital | 0 | 0.00 | 0 | 0 | 0 | 0 | 0
+3.3.4.3 Providing financial coverage of recurrent costs during the EDSP (doesn’t include salaries). | Total | 12,046 | 1.00 | 2,029 | 2,220 | 2,411 | 2,602 | 2,784
+ | Recurrent | 12,046 | 1.00 | 2,029 | 2,220 | 2,411 | 2,602 | 2,784
+ | Capital | 0 | 0.00 | 0 | 0 | 0 | 0 | 0
+Total |  | 240,930 |  | 24,151 | 52,654 | 53,026 | 55,136 | 55,963
 
 93
 
@@ -2405,22 +2694,19 @@ Goal (3): Management Higher education and Technical and Vocation Education and 
 ### Goal (4): Relevance
 
 #### Higher education and Technical and Vocation Education and Training, TVET (shared target)
+
+Action Program | Type | Total US$ 000 | Total % | 2008 | 2009 | 2010 | 2011 | 2012
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Action Program | Type | Total US$ 000 | Total | Cost per year | 2010 | 2011 | 2012
-% | 2008 | 2009
-4.1.1.1
-Evaluation of the relevance | Total | 495 | 1.00 | 52 | 317 | 42 | 42 | 42
-degree of HE programs (10 program clusters including | Recurrent | 495 | 1.00 | 52 | 317 | 42 | 42 | 42
-299 programs) to local labor market need and its employing capacity. | Capital | 0 | 0.00 | 0 | 0 | 0 | 0 | 0
-4.1.2.1
-Design of policies and | Total | 350 | 1.00 | 0 | 74 | 62 | 62 | 152
-implementation procedures to (gradually) push enrollment | Recurrent | 300 | 0.86 | 0 | 64 | 53 | 53 | 131
-and rationalization (gradually) of labor market-saturated programs. And supporting this with a reliable Career guidance services and with shared and participative decision with HEIs. | Capital | 50 | 0.14 | 0 | 10 | 9 | 9 | 21
-4.1.4.1
-Confirmation of results | Total | 150 | 0 | 0 | 0 | 0 | 150
-and assumptions related | Recurrent | 150 | 1.00 | 0 | 0 | 0 | 0 | 150
-to the planned gradual conversion of the system to a demand-oriented system that is indicated by higher employability. | Capital | 0 | 0.00 | 0 | 0 | 0 | 0 | 0
-995 | 52 | 391 | 104 | 104 | 344
+4.1.1.1 Evaluation of the relevance degree of HE programs (10 program clusters including 299 programs) to local labor market need and its employing capacity. | Total | 495 | 1.00 | 52 | 317 | 42 | 42 | 42
+ | Recurrent | 495 | 1.00 | 52 | 317 | 42 | 42 | 42
+ | Capital | 0 | 0.00 | 0 | 0 | 0 | 0 | 0
+4.1.2.1 Design of policies and implementation procedures to (gradually) push enrollment towards priority programs and rationalization (gradually) of labor market-saturated programs. And supporting this with a reliable Career guidance services and with shared and participative decision with HEIs. | Total | 350 | 1.00 | 0 | 74 | 62 | 62 | 152
+ | Recurrent | 300 | 0.86 | 0 | 64 | 53 | 53 | 131
+ | Capital | 50 | 0.14 | 0 | 10 | 9 | 9 | 21
+4.1.4.1 Confirmation of results and assumptions related to the planned gradual conversion of the system to a demand-oriented system that is indicated by higher employability. | Total | 150 |  | 0 | 0 | 0 | 0 | 150
+ | Recurrent | 150 | 1.00 | 0 | 0 | 0 | 0 | 150
+ | Capital | 0 | 0.00 | 0 | 0 | 0 | 0 | 0
+ |  | 995 |  | 52 | 391 | 104 | 104 | 344
 
 94
 
@@ -2454,11 +2740,11 @@ The yearly budget for the education sector will be prepared based on the compreh
 
 The implementation of the Five-Year-Plan requires a reliable and effective performance monitoring system to ensure that the implementation of the plan progresses as planned and that the quality of the implementation remains high. A strong M+E system will enable stakeholders to follow-up on:
 
-- Overall progress in the implementation of the 5-Year-Plan ; ·
+- Overall progress in the implementation of the 5-Year-Plan ;
 
-- Realization of the objectives of the 5-Year-Plan; ·
+- Realization of the objectives of the 5-Year-Plan;
 
-- Divergence between actual and planned implementation schedule. ·
+- Divergence between actual and planned implementation schedule.
 
 M+E will thus assist in identifying the problems that need to be solved, at such an early stage that problems can still be corrected before it is too late. The M+E framework is therefore to be regarded as a practical tool which will provide an early warning system should certain indicators be in danger of not being achieved. It is then the task of MoEHE and its partners to investigate possible causes and to change the direction of interventions in good time, before  discovering  an  unsatisfactory  condition  only  at  the  time  of  the  annual  review. The primary role of the M+E system will be a supporting one for MoEHE to manage the implementation of its sector strategies. In line with the educational policies, the M+E system focuses particularly on the areas of access, quality, administration and management, also with a view to incorporating cross-cutting issues regarding special needs groups (mentally and physically challenged learners) and gender.
 
@@ -2468,13 +2754,15 @@ In conclusion, a coherent M+E system helps ensuring that M+E efforts best contri
 
 A set of key indicators, related to the targets to be achieved during EDSP implementation period,  has  been  identified.  These  key  indicators  are  included  in  Annex  (II)  for  General Education sub-sector and in Annex (III) for the Higher Education sub-sector. Yearly progress in EDSP implementation will be measured using these indicators. Targets will be set for each year of implementation in the yearly operational plans.
 
-In  addition  to  linking  operational  plans  to  yearly  budgets,  and  in  order  to  ensure  that EDSP and the yearly operational plans based on it are adhered to, the yearly performance of Directorates General and other units at central MoEHE and that of district Directorates of Education will be evaluated based on how much they have achieved of the targets agreed in  the  yearly  operations  plans.  The  quarterly  progress  reports  will  give  an  indication  of whether various MoEHE units are moving in the right direction and at an appropriate pace. Corrective action might be necessary in case a major deviation from plans is detected.
+In  addition  to  linking  operational  plans  to  yearly  budgets,  and  in  order  to  ensure  that EDSP and the yearly operational plans based on it are adhered to, the yearly performance of Directorates General and other units at central MoEHE and that of district Directorates of Education will be evaluated based on how much they have achieved of the targets agreed in  the  yearly  operations  plans.  The  quarterly  progress  reports  will  give  an  indication  of
 
 96
 
 [[END OF PAGE 95]]
 
 [[START OF PAGE 96]]
+
+whether various MoEHE units are moving in the right direction and at an appropriate pace. Corrective action might be necessary in case a major deviation from plans is detected.
 
 ## 7.3 Review Meetings and Rolling Plans
 
@@ -2494,29 +2782,29 @@ In  addition  to  joint  yearly  meetings,  MoEHE  is  also  planning  to  hold 
 
 The executive plan relied on the organizational structure of the ministry. Some modifications had been made on the organizational structure of the general directorate of planning so as to meet the requirements of the follow-up and evaluation system. To facilitate the annual manage process of implementation at the level of directorates in the ministry, a computerized system has been established and developed to make a link among the general directorates, on the hand, and with the general directorate of planning, and gives specified authority to each user of the organizational structure according to his role.
 
-The implementation of the M+E system has direct implications for the institutional setup of the General Directorate of Planning. Currently, under the D.G. of Planning there are a Department of Planning and a Department of Studies/Information. The latter is also charged with statistics (Division Head Statistics). The current organizational set-up is shown in the following diagram
+The implementation of the M+E system has direct implications for the institutional set-up of the General Directorate of Planning. Currently, under the D.G. of Planning there are a Department of Planning and a Department of Studies/Information. The latter is also charged with statistics (Division Head Statistics). The current organizational set-up is shown in the following diagram
 
 In order to strengthen the capacities for the implementation of the M+E system, a specific Department  of  Statistics,  Monitoring  and  Evaluation  should  be  created  to  monitor  the progress of the 5-Year-Plan. The tasks of the Department would include the following:
 
 To systematically and periodically collect data across the system on enrolments, attendance, teachers, facilities and supplies;
 
-- To cooperate with supervisors on school and classroom inspection; ·
+- To cooperate with supervisors on school and classroom inspection;
 
-- To manage periodic special monitoring research; ·
+- To manage periodic special monitoring research;
 
-- To manage the collection of data on infrastructure and operations; ·
+- To manage the collection of data on infrastructure and operations;
 
-- To collect needed data by subject, grade and location; ·
+- To collect needed data by subject, grade and location;
 
-- To collect special data from field institutions at Directorate General's request; ·
+- To collect special data from field institutions at Directorate General's request;
 
-- To carry out special evaluations at Directorate General's request; ·
+- To carry out special evaluations at Directorate General's request;
 
-- To provide school inspection feedback and comparative data to the schools; ·
+- To provide school inspection feedback and comparative data to the schools;
 
-- To assist with monitoring and evaluating quality education factors; ·
+- To assist with monitoring and evaluating quality education factors;
 
-- To analyze and report data in a timely fashion to aid decision making. ·
+- To analyze and report data in a timely fashion to aid decision making.
 
 The  Department  of  Monitoring  and  Evaluation  will  maintain  direct  communications with all Directorates General's of the Ministry of Education and Higher Education and vice versa. A possible revised organizational structure for the institutional set-up of the General Directorate of Planning is shown below, whereby this includes both General and Higher Education.
 
@@ -2525,6 +2813,42 @@ The  Department  of  Monitoring  and  Evaluation  will  maintain  direct  commun
 [[END OF PAGE 97]]
 
 [[START OF PAGE 98]]
+
+D.G. of Planning
+
+Secretary
+
+Deputy D.G. of Planning
+
+Gaza
+
+- D. of Planning for Gaza
+  - D.H. Planning
+  - D.H. Studies/Information
+  - D.H. Statistics/M+E
+
+West Bank
+
+- D. of Planning
+  - D.H. Planning
+  - D.H. School Mapping
+  - D.H. Budgeting
+  - H.School Human Res.
+
+- D. of Studies/Information
+  - D.H. Studies
+  - D.H. Documentation
+  - D.H. Job Descr. & Organization
+
+- D. of Statistics, Monitoring and Evaluation
+  - D.H. Statistics
+  - D.H. M+E
+  - Statistician
+  - Statistical
+  - Computer Operators
+  - System Analyst
+  - Programmer
+  - Data Entry Operators
 
 99
 
@@ -2565,8 +2889,9 @@ The formulation of policies and strategies for the sector in a comprehensive and
 [[END OF PAGE 100]]
 
 [[START OF PAGE 101]]
+overlapping, and competitive rather than contributing to a common vision and common goals in a complementary manner. A NESP is a necessary first step in developing education through a Sector-Wide Approach process (SWAp). The other necessary steps are joint yearly planning, concerted funding and implementation, joint ongoing monitoring and periodic reviewing of progress, and joint medium-term planning linked to the national development context. In SWAp all partners support the same strategy which should be a national one. EDSP is not a national strategy in the full sense, since it does not cover most education services provided by UNRWA, the private institutions and other non-governmental institutions and bodies. Yet, it is major step in the direction of a national strategy since MoEHE is by far the biggest provider of educational services and supervises the work of other providers. MoEHE intends to improve its coordination and cooperation efforts with partners during EDSP implementation in the hope that work by other providers will eventually be integrated into one National Education Strategic Plan in the near future.
 
-As  indicated  earlier,  a  serious  attempt  at  a  SWAp  process  was  made  during  the implementation of the  Five-Year  Education  Development  Plan  2001-2005.  Efforts  in  this direction were, however, interrupted due to the political situation which prevailed during that period. With progress made in the preparation of EDSP , partners have recently seriously picked up again their efforts towards SWAp. The Education Sector Working Group (ESWG) has  recently  discussed  basic  concepts  related  to  SWAp  and  looked  at  some  successful examples from other countries. It has also prepared the ground for consultancy work to propose concrete steps to move towards SWAp, the most important of which would be to agree on funding modalities and procedures of various donors and how they could be harmonized and aligned with PNA procedures in order to support the implementation of EDSP.
+As indicated earlier, a serious attempt at a SWAp process was made during the implementation of the Five-Year Education Development Plan 2001-2005. Efforts in this direction were, however, interrupted due to the political situation which prevailed during that period. With progress made in the preparation of EDSP, partners have recently seriously picked up again their efforts towards SWAp. The Education Sector Working Group (ESWG) has recently discussed basic concepts related to SWAp and looked at some successful examples from other countries. It has also prepared the ground for consultancy work to propose concrete steps to move towards SWAp, the most important of which would be to agree on funding modalities and procedures of various donors and how they could be harmonized and aligned with PNA procedures in order to support the implementation of EDSP.
 
 102
 
@@ -2591,15 +2916,15 @@ As  indicated  earlier,  a  serious  attempt  at  a  SWAp  process  was  made  d
 
 - Shift towards increasing the overall average of enrollment in the secondary stage. ·
 
-- Increasing the interior efficiency of the educational system through:-·
+- Increasing the interior efficiency of the educational system through:-
 
-- The actual ratio of failure shouldn't exceed 10% for grades (4-6) and 5% for grade 1. 7 and above.
+1. The actual ratio of failure shouldn't exceed 10% for grades (4-6) and 5% for grade 7 and above.
 
-- Observing that the ratio of drop-outs should not exceed 1%. 2.
+2. Observing that the ratio of drop-outs should not exceed 1%.
 
-- Increasing the average of studying the basic stage. 3.
+3. Increasing the average of studying the basic stage.
 
-- Increasing the ratio of transfer from the basic stage to the secondary stage. 4.
+4. Increasing the ratio of transfer from the basic stage to the secondary stage.
 
 - Inclusion of students of special needs in schools. ·
 
@@ -2613,13 +2938,13 @@ As  indicated  earlier,  a  serious  attempt  at  a  SWAp  process  was  made  d
 
 - Maintaining the Palestinian Tradition in school buildings. ·
 
-- Adopting: ·
+- Adopting:
 
-- Reducing the number of unsuitable hired rooms and buildings and replacing 1. them with new school buildings.
+1. Reducing the number of unsuitable hired rooms and buildings and replacing them with new school buildings.
 
-- Reducing from the evening-shift at schools through increasing the number of 2. school buildings to meet the needs.
+2. Reducing from the evening-shift at schools through increasing the number of school buildings to meet the needs.
 
-- Reducing  crowdedness  through  increasing  the  number  of  classrooms  in 3. schools.
+3. Reducing crowdedness through increasing the number of classrooms in schools.
 
 - Adopting replacing rooms that are decaying and those that are not technically and · educationally fit at a ratio of 100 rooms per year.
 
@@ -3229,8 +3554,8 @@ Budget (000 US$) | Specific Indicator | Action Program | Target | Expected Resul
 
 [[START OF PAGE 121]]
 
-12,992 | Number of programs being evaluated every year is increased from 30 in 2007 to 40 in 2009 and afterwards. At least 3,000 teaching staff members in the HEIs trained and their lecturing skills developed during 2009-2011 at a rate of 1,000 per year. At least 43 development units available in the HEIs by end of 2012. Students who benefit from the gifted Fund increased from 2,000 in 2007 to 6,000 in 2012. Honoring of at least 43 students in at least 43 HEIs. At least 60 multi- | 2.2.1.1 Capacity building in quality management and assurance, investment of gifted students and development of education programs and curricula according in line with technological developments. | 2.2 Built capacities in quality and developed education programs according to an extensive view (pedagogical context, education and learning environment, …)
---- | --- | --- | ---
+12,992 | Number of programs being evaluated every year is increased from 30 in 2007 to 40 in 2009 and afterwards. At least 3,000 teaching staff members in the HEIs trained and their lecturing skills developed during 2009-2011 at a rate of 1,000 per year. At least 43 development units available in the HEIs by end of 2012. Students who benefit from the gifted Fund increased from 2,000 in 2007 to 6,000 in 2012. Honoring of at least 43 students in at least 43 HEIs. At least 60 multi-purpose workshop conducted by end of 2012. At least 240 visit to HEIs performed by end of 2012. At least 30 related training programs and 10 external study visits conducted by end of 2012. | 2.2.1.1 Capacity building in quality management and assurance, investment of gifted students and development of education programs and curricula according in line with technological developments. | 2.2.1 Human capacities with sustainable high skills in quality management and HE programs with modern context and curricula are realized | 2.2 Built capacities in quality and developed education programs according to an extensive view (pedagogical context, education and learning environment, …)
+--- | --- | --- | --- | ---
 
 122
 
@@ -3238,7 +3563,7 @@ Budget (000 US$) | Specific Indicator | Action Program | Target | Expected Resul
 
 [[START OF PAGE 122]]
 
-7,160 | 3 to 4 national research priorities in the sectors of Health, Agriculture and Food Security identified in participatory approaches. Sustainable fund of US$ 1 million available yearly starting 2009 and afterwards. 4 issues of the «Palestinian Scientific Research Journal» published each year during 2009-2012. At least 66 visit to local universities and research centers implemented by end of 2012. National policy for science, technology and scientific research produced, approved, generalized and implemented by end of 2012. 3-5 gifted and distinguished researchers contracted and funded yearly in the «Center of Excellence in Research, CER» and conduction of 30by end of 3-5 researches by end of 2012. 5-8 researches undertaken every year | 2.2.1.2 Development of scientific research and identification of its national priorities for development purposes
+7,160 | 3 to 4 national research priorities in the sectors of Health, Agriculture and Food Security identified in participatory approaches. Sustainable fund of US$ 1 million available yearly starting 2009 and afterwards. 4 issues of the «Palestinian Scientific Research Journal» published each year during 2009-2012. At least 66 visit to local universities and research centers implemented by end of 2012. National policy for science, technology and scientific research produced, approved, generalized and implemented by end of 2012. 3-5 gifted and distinguished researchers contracted and funded yearly in the «Center of Excellence in Research, CER» and conduction of 30by end of 3-5 researches by end of 2012. 5-8 researches undertaken every year till end of 2012 in the identified national priority research areas including those of the | 2.2.1.2 Development of scientific research and identification of its national priorities for development purposes
 --- | --- | ---
 
 123
@@ -3301,7 +3626,7 @@ Budget (000 US$) | Specific Indicator | Action Program | Target | Expected Resul
 
 Budget (000 US$) | Specific Indicator | Action Program | Target | Expected Result
 --- | --- | --- | --- | ---
-12,046 | Financial coverage for recurrent costs (logistics) and their annual increase is available. | 3.3.4.3 Providing financial coverage of recurrent costs during the EDSP (doesn't include salaries).
+12,046 | Financial coverage for recurrent costs (logistics) and their annual increase is available. | 3.3.4.3 Providing financial coverage of recurrent costs during the EDSP (doesn’t include salaries).
 
 ### Goal (4): Relevance
 
@@ -3315,7 +3640,7 @@ Budget for development items | 8,624 | 77,272 | 77,244 | 77,425 | 70,673 | 311,2
 Budget for recurrent items | 25,373 | 36,217 | 32,612 | 32,992 | 34,885 | 162,079
 Total | 33,996 | 113,489 | 109,857 | 110,417 | 105,558 | 473,317
 
-> 3 :  A 'program cluster' is a set of similar HE programs. For instance, the Medical Sciences Programs Cluster contains: Nursing, Public Health, Medical labs…
+> 3 :  A “program cluster” is a set of similar HE programs. For instance, the Medical Sciences Programs Cluster contains: Nursing, Public Health, Medical labs…
 
 128
 
@@ -3326,13 +3651,13 @@ Total | 33,996 | 113,489 | 109,857 | 110,417 | 105,558 | 473,317
 # Annex IV
 ## General Education Matrix
 
-PS0000000 | Sub-sector: Pre- school education
+PS0000000 | Sub-sector: Pre-school education
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 PS1000000 | Goal 1: To provide access to education at all levels
 PS1010000 | Result 1: Enrolment of students increased, including the physically and/or mentally challenged
 Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
-PS1010100 | Conducting an awareness raising campaign for local communities and parents on the early childhood issues (ECCD). | PS1010101 | Conducting informative field meetings for pre- school children›s parents so as to enhance their awareness of the problems and needs of their children especially in remote marginalized areas. | x | x | x | x | x
+PS1010100 | Conducting an awareness raising campaign for local communities and parents on the early childhood issues (ECCD). | PS1010101 | Conducting informative field meetings for pre-school children›s parents so as to enhance their awareness of the problems and needs of their children especially in remote marginalized areas. | x | x | x | x | x
 PS1010102 | Coordination with institutions, ministries and local communities for providing services to pre-schools children including those of special needs. | x | x | x | x | x
 PS1010103 | .Developing a media plan to inform the communities of the needs of children .having special needs | x | x | x | x | x
 PS1010200 | Provide physical and educational environment for children on pre schools education | PS1010201 | Building, furnishing, & equipping governmental schools. | x | x | x | x | x
@@ -3347,16 +3672,16 @@ PS1010102 | Providing teaching aids, teaching / learning materials and out- door
 --- | --- | --- | --- | --- | --- | ---
 PS1010103 | Encouraging the private sector to invest in pre school education through establishing kindergardens and providing logistical facilities in licensing/ renewal of licences for kinderartens. | x | x | x | x | x
 PS1010104 | Providing financial facilities (e.g. tax reduction) | x | x | x | x | x
-PS00000000 | Sub-sector: Pre- school education
-PS20000000 | Goal 2: Quality of the teaching- learning process improved
+PS00000000 | Sub-sector: Pre-school education
+PS20000000 | Goal 2: Quality of the teaching-learning process improved
 PS20500000 | Palestinian curricula for formal / non-formal education reviewed, revised and/or developed.
 Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
-PS2050100 | Develop curricula framework for Pre- school | PS2050101 | Conducting workshops to get relevant feedback for evaluating pre school curricula. | x | x
+PS2050100 | Develop curricula framework for Pre-school | PS2050101 | Conducting workshops to get relevant feedback for evaluating pre school curricula. |  |  | x |  | x
 PS2050102 | Preparing informative materials for children | x | x | x
-PS2050103 | Printing child oriented cultural materials and teaching aids | x | x | x
-PS0000000 | Sub-Sector: Pre- school education
-PS2000000 | Goal 2: Quality of the teaching- learning process improved
+PS2050103 | Printing child oriented cultural materials and teaching aids |  | x | x | x |
+PS0000000 | Sub-Sector: Pre-school education
+PS2000000 | Goal 2: Quality of the teaching-learning process improved
 PS2070000 | Standards of school and educational environment improved.
 
 130
@@ -3368,17 +3693,17 @@ PS2070000 | Standards of school and educational environment improved.
 Cost
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
-PS2070100 | Developing quailty health, psychological and recreational programs for pre- schools children. | PS2070101 | Conducting TV meetings that focus on social, hygienic, cultural and psychological development aspects. | x | x | x | x | x
-PS2070102 | Conducting educational workshops for parents to increase awareness on (ECCD) | x | x | x | x
-PS2070103 | Conducting recreational programs for children (trips, festivals, and exhibitions) at provincial levels and throughout the country. | x | x | x | x
-PS0000000 | Sub-Sector: Pre- school education
-PS2000000 | Goal 2: Quality of the teaching- learning process improved
+PS2070100 | Developing quailty health, psychological and recreational programs for pre-schools children. | PS2070101 | Conducting TV meetings that focus on social, hygienic, cultural and psychological development aspects. | x | x | x | x | x
+PS2070102 | Conducting educational workshops for parents to increase awareness on (ECCD) |  | x | x | x | x
+PS2070103 | Conducting recreational programs for children (trips, festivals, and exhibitions) at provincial levels and throughout the country. |  | x | x | x | x
+PS0000000 | Sub-Sector: Pre-school education
+PS2000000 | Goal 2: Quality of the teaching-learning process improved
 PS2080000 | Teaching staff competencies enhanced and strengthened.
 Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
 PS2080100 | Raising the performance level of Pre-school cadres (ECCD). | PS2080101 | Training the educators, supervisors and principals focusing on quality supervision, instruction & evaluation (ECCD). | x | x | x | x | x
-PS2080102 | Training nursery- maids especially newly recruited ones in different pre-school subjects (ECCD). | x | x | x | x | x
-PS0000000 | Sub-Sector: Pre-
+PS2080102 | Training nursery-maids especially newly recruited ones in different pre-school subjects (ECCD). | x | x | x | x | x
+PS0000000 | Sub-Sector: Pre-school education
 PS3000000 | Goal 3: Developing administrative and financial systems and improving performance
 
 131
@@ -3391,17 +3716,18 @@ PS3100000 | Administrative systems strengthened in line with educational objecti
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
-PS3100100 | Developing administrative rules and instructions special for pre- schools. | PS3100101 | Reviewing and devloping administrative .rules and educational instructions | x | x | x
+PS3100100 | Developing administrative rules and instructions special for pre-schools. | PS3100101 | Reviewing and devloping administrative .rules and educational instructions | x | x |  |  | x
 PS3100102 | Monitoring and follow up of the implementation of the rules and educational instructions for pre school education. | x | x | x | x | x
-PS0000000 | Sub-Sector: Pre- school education
+PS0000000 | Sub-Sector: Pre-school education
 PS3000000 | Goal 3: Developing administrative and financial systems and improving performance
 PS3110000 | Educational planning systems strengthened at all levels.
 Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
 PS3110100 | Developing information systems (quantitative and qualitative) | PS3110101 | Setting integrated information system for early childhood comprising all hygienic psychological and social aspects. | x | x | x | x | x
-PS0000000 | Sub-Sector: Pre- school education
+PS0000000 | Sub-Sector: Pre-school education
 PS3000000 | Goal 3: Developing the administrative and financial systems and improving performance
 PS3130000 | Staff competencies of administrative staff at all levels enhanced and strengthened
+Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
 
 132
@@ -3410,9 +3736,9 @@ Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
 
 [[START OF PAGE 132]]
 
-PS3130100 | Enhancing the level of professional performance (financialand administrative) for those working in Pre-school education. | PS3130101 | Training female supervisors and principals of pre- schools especially novice ones in different subjects, e.g. planning, supervision, evaluation, management, financial systems, and use of computers | x | x | x | x | x
+PS3130100 | Enhancing the level of professional performance (financialand administrative) for those working in Pre-school education. | PS3130101 | Training female supervisors and principals of pre-schools especially novice ones in different subjects, e.g. planning, supervision, evaluation, management, financial systems, and use of computers | x | x | x | x | x
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-PS0000000 | Sub-Sector: Pre- school education
+PS0000000 | Sub-Sector: Pre-school education
 PS3000000 | Goal 3: Developing the administrative and financial systems and improving performance.
 PS3140000 | Coordination and interaction among stakeholders: ministries, civil society and development partners (donor countries and UN organisations) enhanced.
 Cost
@@ -3439,7 +3765,7 @@ GE1010105 | Specifying all types of disability and their specific needs. | x | x
 GE1010106 | Educating wounded students. | x | x | x | x | x
 GE0000000 | Sub-sector: General Education
 GE1000000 | Goal 1: To provide access to education at all levels
-GE1020000 | Result 2: Education system's ability to keep students increased (reformulate - reduce drop-outs?)
+GE1020000 | Result 2: Education system’s ability to keep students increased (reformulate - reduce drop-outs?)
 Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
 GE1020100 | Provide an appropriate physical and educational environment for all students including those with special needs | GE1020101 | Establishing central provincial stores for furniture. | x | x
@@ -3459,7 +3785,7 @@ GE1020107 | Building, furnishing & equipping (561) new classrooms to eliminate c
 --- | --- | --- | --- | --- | --- | ---
 GE1020108 | Building 500 classrooms to replace unsuitable rooms. | x | x | x | x | x
 GE1020109 | Building, furnishing & equipping (1056) new classrooms to eliminate double shift classes | x | x | x | x | x
-GE1020110 | Maintenance of School buildings (buildings, school- health units, playgrounds). | x | x | x | x | x
+GE1020110 | Maintenance of School buildings (buildings, school-health units, playgrounds). | x | x | x | x | x
 GE1020111 | Providing new school buildings with necessary facilities for the physically challenged students. | x | x | x | x | x
 Providing existing school buildings with necessary facilities for the physically challenged students. | x | x | x | x | x
 GE1020112 | Renting buildings, classrooms and other facilities wherever needed «ministry general & higher education». | x | x | x | x | x
@@ -3503,14 +3829,14 @@ GE1030105 | Constructing schools in Jerusalem through assistance from local orga
 GE1030106 | Supporting private schools in Jerusalem. | x | x | x | x | x
 GE1030107 | Building, furnishing & equipping new classrooms in Jerusalem suburbs. | x | x | x | x | x
 GE1030108 | Providing schools with specialized rooms (libraries, science labs, computer labs,…) & upgrading existing rooms. | x | x | x | x | x
-GE1030109 | Maintenance of governmental School buildings (buildings, school- health units, playgrounds) | x | x | x | x | x
+GE1030109 | Maintenance of governmental School buildings (buildings, school-health units, playgrounds) | x | x | x | x | x
 GE1030110 | Providing books to all students of grades (1-12) free of charge. | x | x | x | x | x
 GE0000000 | Sub-sector: General Education
-GE2000000 | Goal 2: Quality of the teaching- learning process improved (insert as outcome to PRDP matrix)
-GE2050000 | Palestinian curricula for formal and non- formal education reviewed, revised and/or developed.
+GE2000000 | Goal 2: Quality of the teaching-learning process improved (insert as outcome to PRDP matrix)
+GE2050000 | Palestinian curricula for formal and non-formal education reviewed, revised and/or developed.
 Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
-GE2050100 | Review and revise textbooks and teachers' manuals for general education.(1-12) | Review and revise textbooks and teachers' manuals for .(1-4)
+GE2050100 | Review and revise textbooks and teachers’ manuals for general education.(1-12) | Review and revise textbooks and teachers’ manuals for .(1-4)
 
 137
 
@@ -3528,7 +3854,7 @@ GE2050106 | Choosing a group of excellent subject - teachers (5 Teachers) for ev
 GE2050107 | Conducting meetings with parents in all provinces that have directorates of education. | x | x
 GE2050108 | Building on international studies, and excellent experiences of other countries in certain fields. | x | x
 GE2050109 | Providing various educational aids (films, teaching kits, electronic aids, etc,…) and obtaining help from any suitable means. | x | x
-Review and revise textbooks and teachers' manuals for .(9-12)
+Review and revise textbooks and teachers’ manuals for .(9-12)
 
 138
 
@@ -3536,17 +3862,17 @@ Review and revise textbooks and teachers' manuals for .(9-12)
 
 [[START OF PAGE 138]]
 
-GE2050110 | Forming national technical teams: one for scientific subjects and another for humanities and social subjects. | x | x
+GE2050110 | Forming national technical teams: one for scientific subjects and another for humanities and social subjects. |  |  | x | x |
 --- | --- | --- | ---
-GE2050111 | Forming a development team for every subject in the basic stage. | x | x
-GE2050112 | Forming a content analysis team for every subject. | x | x
-GE2050113 | Conducting necessary field studies. | x | x
-GE2050114 | Conducting workshops to disseminate results. | x | x
-GE2050115 | Choosing a group of excellent subject - teachers (5 Teachers) for every subject in every directorate of education to provide the technical team and the development team with feedback and suggestions on each curricula subject. | x | x
-GE2050116 | Conducting meetings with parents in all provinces that have directorates of education. | x | x
-GE2050117 | Building on international experience and world literature of best practices in curricula field. | x | x
-GE2050118 | Providing various educational aids (films, teaching kits, electronic aids, etc,…) and getting help from any suitable resource wherever needed. | x | x
-Review and revise textbooks and teachers' manuals for grades (5-8)
+GE2050111 | Forming a development team for every subject in the basic stage. |  |  | x | x |
+GE2050112 | Forming a content analysis team for every subject. |  |  |  | x | x
+GE2050113 | Conducting necessary field studies. |  |  |  | x | x
+GE2050114 | Conducting workshops to disseminate results. |  |  |  | x | x
+GE2050115 | Choosing a group of excellent subject - teachers (5 Teachers) for every subject in every directorate of education to provide the technical team and the development team with feedback and suggestions on each curricula subject. |  |  |  | x | x
+GE2050116 | Conducting meetings with parents in all provinces that have directorates of education. |  |  |  | x | x
+GE2050117 | Building on international experience and world literature of best practices in curricula field. |  |  |  | x | x
+GE2050118 | Providing various educational aids (films, teaching kits, electronic aids, etc,…) and getting help from any suitable resource wherever needed. |  |  | x | x |
+Review and revise textbooks and teachers’ manuals for grades (5-8)
 
 139
 
@@ -3554,16 +3880,16 @@ Review and revise textbooks and teachers' manuals for grades (5-8)
 
 [[START OF PAGE 139]]
 
-GE2050119 | Forming a national technical team (11 members): one for scientific subjects and one for humanities and social subjects | x | x
+GE2050119 | Forming a national technical team (11 members): one for scientific subjects and one for humanities and social subjects |  | x | x |  |
 --- | --- | --- | --- | --- | --- | ---
-GE2050120 | Forming a development team for every subject of the basic stage. | x | x
-GE2050121 | Forming a content analysis team for every subject. | x | x
-GE2050122 | Conducting the necessary field studies. | x | x
-GE2050123 | Holding workshops to disseminate results. | x | x
-GE2050124 | Choosing a group of excellent subject - teachers (5 Teachers) for every subject in every directorate of education to provide the technical team as well as the development team with notes about each subject. | x | x
-GE2050125 | Holding meeting with parents in all provinces that have directorates of education. | x | x
-GE2050126 | Building on international experience and world literature of best practices in curricula field. | x | x
-GE2050127 | Providing various educational aids (films, teaching kits, electronic aids, etc,…) and getting help from any suitable resources wherever needed. | x | x
+GE2050120 | Forming a development team for every subject of the basic stage. |  | x | x |  |
+GE2050121 | Forming a content analysis team for every subject. |  | x | x |  |
+GE2050122 | Conducting the necessary field studies. |  |  | x | x |
+GE2050123 | Holding workshops to disseminate results. |  |  | x | x |
+GE2050124 | Choosing a group of excellent subject - teachers (5 Teachers) for every subject in every directorate of education to provide the technical team as well as the development team with notes about each subject. |  |  | x | x |
+GE2050125 | Holding meeting with parents in all provinces that have directorates of education. |  |  | x | x |
+GE2050126 | Building on international experience and world literature of best practices in curricula field. |  |  | x | x |
+GE2050127 | Providing various educational aids (films, teaching kits, electronic aids, etc,…) and getting help from any suitable resources wherever needed. |  | x | x |  |
 GE2050128 | Developing a field plan to evaluate the extent to which curricula are implemented. | x | x | x | x | x
 GE2050129 | comuterizing curricula (E. curricula) | x | x | x | x | x
 
@@ -3575,7 +3901,7 @@ GE2050129 | comuterizing curricula (E. curricula) | x | x | x | x | x
 
 GE0000000 | Sub-sector: General Education
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-GE2000000 | Goal 2: Quality of the teaching- learning process improved
+GE2000000 | Goal 2: Quality of the teaching-learning process improved
 GE2060000 | Employment of new educational technology enhanced.
 Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
@@ -3586,7 +3912,7 @@ GE2060104 | Producing electronic materials and software to support the MOEHE web
 GE2060105 | Producing (10) computerized programs annually, copying and distribution to schools. | x | x | x | x | x
 GE2060106 | Producing (10) Video programs annually. | x | x | x | x | x
 GE2060107 | Producing (15) broadcasting programs annually for the Basic and Secondary Stages. | x | x | x | x | x
-GE2060108 | Producing sign- language video programs for deaf students. | x | x | x | x | x
+GE2060108 | Producing sign-language video programs for deaf students. | x | x | x | x | x
 
 141
 
@@ -3594,17 +3920,17 @@ GE2060108 | Producing sign- language video programs for deaf students. | x | x |
 
 [[START OF PAGE 141]]
 
-GE2060109 | Producing Audio- Educational Materials for the Blind students (Two basic stages annually). | x | x | x | x | x
+GE2060109 | Producing Audio-Educational Materials for the Blind students (Two basic stages annually). | x | x | x | x | x
 --- | --- | --- | --- | --- | --- | ---
 GE2060110 | Producing Posters and Flashcards for curricula of Grades 1-5. | x | x | x | x | x
-GE2060111 | Producing printed educational materials for deaf students (Sign- Language). | x | x | x | x | x
+GE2060111 | Producing printed educational materials for deaf students (Sign-Language). | x | x | x | x | x
 GE2060112 | Printing educational tools for the Blind in all stages. | x | x | x | x | x
 GE2060113 | Producing and printing a periodical magazine for the Blind. | x | x | x | x | x
 GE2060114 | Producing appliances and educational aids. | x | x | x | x | x
 GE2060115 | Producing educational materials for the Blind (in Brill sign language). | x | x | x | x | x
 GE2060116 | Conducting annual contests for teachers and students to encourage the production of educational aids. | x | x | x | x | x
 GE2060117 | Conducting annual contests to produce electronic educational materials. | x | x | x | x | x
-GE2060118 | Conducting two studies to evaluate the extent to which teachers use educational technologies in instruction. | x | x
+GE2060118 | Conducting two studies to evaluate the extent to which teachers use educational technologies in instruction. |  | x |  | x |
 GE2060119 | Holding workshops to evaluate the produced educational materials. | x | x | x | x | x
 GE0000000 | Sub-sector: General Education
 
@@ -3614,12 +3940,12 @@ GE0000000 | Sub-sector: General Education
 
 [[START OF PAGE 142]]
 
-GE2000000 | Goal 2: Quality of the teaching- learning process improved
+GE2000000 | Goal 2: Quality of the teaching-learning process improved
 --- | --- | --- | --- | --- | --- | --- | ---
 GE2070000 | Standards of school and educational environment improved.
 Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
-GE2070100 | Develop health and counseling services, and care for the disabled. | GE2070101 | Constructing sports halls. | x | x | x | x
+GE2070100 | Develop health and counseling services, and care for the disabled. | GE2070101 | Constructing sports halls. |  | x | x | x | x
 GE2070102 | Constructing playgrounds. | x | x | x | x | x
 GE2070103 | Establishing permanent Camps. | x | x | x | x | x
 GE2070104 | Forming and activating school environmental clubs. | x | x | x | x | x
@@ -3628,7 +3954,7 @@ GE2070106 | Providing schools with necessary equipment to practice cultural, sci
 GE2070107 | Providing schools with instruments and equipment to perform various educational activities. | x | x | x | x | x
 GE2070108 | Conducting scientific exhibitions. | x | x | x | x | x
 GE2070109 | Conducting cultural exhibitions. | x | x | x | x | x
-GE2070110 | Conducting sports Festivals. | x | x
+GE2070110 | Conducting sports Festivals. |  | x |  | x |
 GE2070111 | Conducting scouts contests of excellence. | x | x | x | x | x
 GE2070112 | Holding central, subregional scouts clubs. | x | x | x | x | x
 GE2070113 | Participation in Arab Cultural Activities. | x | x | x | x | x
@@ -3664,7 +3990,7 @@ GE2070126 | Examining certain targeted students to specify their needs, respond 
 GE2070127 | Setting a system for transferring medical cases, and monitoring treatment and follow -up of cases. | x | x | x | x | x
 GE2070128 | Establishing a special protocol for transfer of wounded students focusing on health and educational counseling. | x | x | x
 GE2070129 | Rehabilitation and building 35 resource rooms. | x | x | x | x | x
-GE2070130 | Establishing 3 resources centers. | x | x | x
+GE2070130 | Establishing 3 resources centers. | x |  | x |  | x
 GE2070131 | Training students and teachers in life skills education. | x | x | x | x | x
 GE2070132 | Providing a corner in the school library for students of special needs in 25 schools. | x | x | x | x | x
 GE2070133 | Providing professional orientation counseling for children of special needs in 30 schools. | x | x | x | x | x
@@ -3682,17 +4008,17 @@ GE2070137 | Establishing a system to protect students against atrocities or viol
 GE2070138 | Holding workshops in Educational counceling and children rights for school staff, teachers and parents. | x | x | x | x | x
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 GE0000000 | Sub-sector: General Education
-GE2000000 | Goal 2: Quality of the teaching- learning process improved
+GE2000000 | Goal 2: Quality of the teaching-learning process improved
 GE2080000 | Teaching staff competencies enhanced and strengthened.
 Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
-GE2080100 | Develop a unified system and training strategy for the process of training (in-service and pre- service). | GE2080101 | Establishing a new strategy for in - service training. | x | x | x | x | x
-GE2080200 | Implementing the training strategy | GE2080201 | Equiping 30 councelors with vocational preparation «diploma level» in inclusive education. | x | x
+GE2080100 | Develop a unified system and training strategy for the process of training (in-service and pre-service). | GE2080101 | Establishing a new strategy for in - service training. | x | x | x | x | x
+GE2080200 | Implementing the training strategy | GE2080201 | Equiping 30 councelors with vocational preparation «diploma level» in inclusive education. | x |  | x |  |
 GE2080202 | Training councelors on skills of educational counceling. | x | x | x | x | x
 GE2080203 | Training a team in special education field. | x | x | x | x | x
 GE2080204 | Orientation of new teachers. | x | x | x | x | x
 GE2080205 | Training novice educational supervisors. | x | x | x | x | x
-GE2080206 | Establishing follow- up mechanisms for training teachers and supervisors in ICT at provincial level. | x | x | x | x | x
+GE2080206 | Establishing follow-up mechanisms for training teachers and supervisors in ICT at provincial level. | x | x | x | x | x
 GE2080207 | Oriantation of new supervisors. | x | x | x | x | x
 GE2080208 | Training new groups of supervisors on ICI. | x | x | x
 GE2080209 | Providing Diploma program in educational supervision. | x | x | x | x | x
@@ -3713,13 +4039,13 @@ GE2080215 | Training school librarians. | x | x | x | x | x
 GE2080216 | Implementing training courses for school secretaries. | x | x | x | x | x
 GE2080217 | Developing a comprehensive follow -up system for school supervison. | x | x | x | x | x
 GE0000000 | Sub-sector: General Education
-GE2000000 | Goal 2: Quality of the teaching- learning process improved
+GE2000000 | Goal 2: Quality of the teaching-learning process improved
 GE2090000 | Assessment and evaluation system strengthened.
 Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
 GE2090100 | Developing criteria to evaluate students› performance including those with special needs. | GE2090101 | Developing criteria for the assessment & evaluation of students with special needs. | x | x | x
 GE2090102 | Students› participation in International tests. | x | x | x | x | x
-GE2090103 | Setting a clear vision for the national bank of questions. | x | x | x | x
+GE2090103 | Setting a clear vision for the national bank of questions. |  | x | x | x | x
 
 147
 
@@ -3732,12 +4058,13 @@ GE2090104 | Preparing acheivement tests for evaluating students› performance i
 GE2090105 | Preparing diagnostic performance tests. | x | x
 GE2090106 | Preparing national standardized periodic performance tests, and national achievement tests. | x
 GE2090200 | Prepare performance tests for all key stages and all grade levels of the education system. | GE2090201 | Developing programs for General Secondary Examination Test (Tawjeehi) to cope with the new Curricula. | x | x | x | x | x
-GE2090202 | Organizing study visits to institutions and countries with excellent intiatives in General Secondary Examination system (Tawjeehi). | x | x
-GE2090203 | Preparing an evaluation study for the General secondary Examination (Tawjeehi). | x | x | x | x
-GE2090204 | Implementing the General Secondary School | x | x | x | x
+GE2090202 | Organizing study visits to institutions and countries with excellent intiatives in General Secondary Examination system (Tawjeehi). |  | x |  | x |
+GE2090203 | Preparing an evaluation study for the General secondary Examination (Tawjeehi). |  | x | x | x | x
+GE2090204 | Implementing the General Secondary School |  | x | x | x | x
 GE0000000 | Sub-sector: General Education
 GE3000000 | Goal 3: Developing the administrative and financial systems and improving performance
 GE3100000 | Administrative systems are strengthened and improved
+Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
 
 148
@@ -3746,13 +4073,13 @@ Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
 
 [[START OF PAGE 148]]
 
-GE3100100 | Reviving the use of by laws, regulations and ensuring that the .implementation of activities complies with the set rules | GE3100101 | Printing out the education law. | x
+GE3100100 | Reviving the use of by laws, regulations and ensuring that the .implementation of activities complies with the set rules | GE3100101 | Printing out the education law. |  | x |  |  |
 --- | --- | --- | --- | --- | --- | ---
-GE3100102 | Publishing the rules and instructions of the edcuation law. | x
+GE3100102 | Publishing the rules and instructions of the edcuation law. |  | x |  |  |
 GE3100103 | Periodic reviewing of the principles and regulations followed in the process of recruitment. | x | x
 GE3100104 | Reviewing the principles and instructions related to the promotion system based on aquired qualifications, expertise and seniority. | x | x
-GE3100105 | Enhancing the role | x | x | x | x | x
-GE3100106 | Preparing a manual for work procedures and circulating it. | x | x | x | x
+GE3100105 | Enhancing the role of school health. | x | x | x | x | x
+GE3100106 | Preparing a manual for work procedures and circulating it. |  | x | x | x | x
 GE3100107 | Modifying the regulations related to school monitoring & discipline system. | X | X | X | X | X
 GE3100108 | Modifying the principles of students› success and retention. | X | X | X | X | X
 GE3100109 | Up-dating the standards for verification and admission of students coming from abroad to incorporate them in the education system. | X | X | X | X | X
@@ -3766,11 +4093,11 @@ GE3100112 | Reviewing the apprasial system and modifying bylaws accordingly. | x
 
 [[START OF PAGE 149]]
 
-GE3100113 | Preparing a study for auditing the organizational structure to check the balance between strategies, objectives, and available capacities. | x
+GE3100113 | Preparing a study for auditing the organizational structure to check the balance between strategies, objectives, and available capacities. |  | x |  |  |
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 GE3100114 | Developing job descriptions for all jobs | x | x | x | x | x
 GE3100115 | Awarding the distinguished categories e.g. school principals. | x | x | x | x | x
-GE3100116 | Preparing a study to develop improved mechanisms that ensure fair distribution of employment positions based on the size of work load and requirements for development. | x | x
+GE3100116 | Preparing a study to develop improved mechanisms that ensure fair distribution of employment positions based on the size of work load and requirements for development. |  | x | x |  |
 GE3100117 | Developing appraisal forms for all jobs. | x | x | x | x | x
 GE3100118 | Developing educational standards for the whole education system. | x | x | x
 GE3100200 | Moving towards decentralization in educational administration. | GE3100201 | Developing frames of reference to identify the type and the degree of decentralization needed. | x | x
@@ -3784,14 +4111,14 @@ GE3100302 | Implementing periodic up-dating of data through systematic intervals
 
 [[START OF PAGE 150]]
 
-GE3100303 | Connecting schools with the computerized financial program to ensure connectivity and comumunication with other directorates and the ministry. | x | x | x | x
+GE3100303 | Connecting schools with the computerized financial program to ensure connectivity and comumunication with other directorates and the ministry. |  | x | x | x | x
 --- | --- | --- | --- | --- | --- | ---
 GE3100304 | Purchasing new equipment and software to serve the school net websits (Zajel). | x | x | x | x | x
 GE3100305 | Connecting 180 schools anually to online service to be distributed among all directorates through using ADSL. | x | x | x | x | x
 GE3100306 | Connecting 30 schools from two provincial directorates with wireless network annually and provide them with the necessary equipment. | x | x | x | x | x
 GE3100307 | Developing a network and increasing its speed through provding infrastructure utilities (Fiber optics). | x | x | x | x | x
-GE3100308 | Developing a system for monitoring the net and performing periodic maintenance and protection. | x
-GE3100309 | Analyzing the needs of Directorates General/ministry, and provincial Directorates of softwares›, data- base and software- production tools necessary for responding to emerging needs. | x | x | x | x | x
+GE3100308 | Developing a system for monitoring the net and performing periodic maintenance and protection. |  | x |  |  |
+GE3100309 | Analyzing the needs of Directorates General/ministry, and provincial Directorates of softwares›, data-base and software-production tools necessary for responding to emerging needs. | x | x | x | x | x
 
 151
 
@@ -3807,7 +4134,7 @@ GE3100313 | Purchasing devices, equipment and new software programs to develop a
 GE3100314 | Holding workshops for computer engineers, and technicians in the fields of maintenance, networks and modern .software programs | x | x | x | x | x
 GE3100315 | Computerizing work methods in the Directorate General for monitoring. | x
 GE3100316 | Providing reqular maintenance of the .computerized financial program | x | x | x | x | x
-GE3100317 | (Computerizing the financial system in .(southern provinces Gaza Strip | x
+GE3100317 | (Computerizing the financial system in .(southern provinces Gaza Strip |  | x |  |  |
 GE3100318 | Computerizing annual administrative and .financial planning | x
 
 152
@@ -3824,7 +4151,7 @@ GE3110000 | Educational planning systems strengthened at all levels.
 Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
 GE3110100 | Developin mechaninsms for supporting decision making processes e.g implementing studies and establishing educational information system (EIS) | GE3110101 | Setting mechanisms for collection and .analaysis of data | x | x | x | x | x
-GE3110102 | Setting a system to monitor quality education. | x | x | x
+GE3110102 | Setting a system to monitor quality education. | x |  | x |  | x
 GE3110103 | Establishing an Information System to .monitor and follow up health problems | x | x | x | x | x
 GE3110104 | Conducting workshops to evaluate qualitative and quantitative information at .all levels of decision making | x | x | x | x | x
 GE3110105 | Following-up of the Israeli violations .against education, students, and teachers | x | x | x | x | x
@@ -3860,7 +4187,7 @@ GE3120100 | .Developing mechanisms for follow up & monitoring | GE3120101 | Purc
 
 [[START OF PAGE 154]]
 
-GE3120200 | Developing a manual for policies and financial procedures .program | GE3120201 | Forming a committee that comprise the directorate general for financial affairs, and the directorate of financial monitoring affliated to the Ministry of Finance, and producing a collective manual stating financial policies and procedures. | x
+GE3120200 | Developing a manual for policies and financial procedures .program | GE3120201 | Forming a committee that comprise the directorate general for financial affairs, and the directorate of financial monitoring affliated to the Ministry of Finance, and producing a collective manual stating financial policies and procedures. |  | x |  |  |
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 GE3120300 | Developing procedures for setting the annual budget in accordance with the five- year plan. | GE3120301 | Holding meetings between the directorate of budget and the department of planning to discuss in use procedures, to produce a budget based on negotiated plan, and translating the items of the plan into financial items on the budget. | x | x | x | x | x
 GE3120302 | Connecting all expenditure of activities in provincial directorates with the general expenditure (budget) paid by the Ministry of Finance. | x | x | x | x | x
@@ -3912,7 +4239,7 @@ GE3000000 | Goal 3: Developing the administrative and financial systems and impr
 GE3140000 | Interaction and coordination between ministries, civil society and development partners (donor countries and UN organisations) enhanced.
 Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
-GE3140100 | Encouraging the horizontal and vertical expansion in private education and supporting and developing the ministry›s .supervision of it | GE3140101 | Conducting studies to evaluate the status of private education | x | x
+GE3140100 | Encouraging the horizontal and vertical expansion in private education and supporting and developing the ministry›s .supervision of it | GE3140101 | Conducting studies to evaluate the status of private education |  | x |  |  | x
 
 157
 
@@ -3927,7 +4254,7 @@ GE3140200 | Developing procedures for partnership and cooperation between the (M
 GE3140202 | Reviewing achievements and developing means of follow-up. | x | x | x | x | x
 GE3140203 | Strenghtening coordination with education committees. | x | x | x | x | x
 GE3140204 | Setting a modern technological system to enhance the process of communication. | x | x | x | x | x
-GE3140205 | Studying the actual status of cooperation between the ministry, the UNRWA and the private sector with regard to education. | x
+GE3140205 | Studying the actual status of cooperation between the ministry, the UNRWA and the private sector with regard to education. |  | x |  |  |
 GE3140206 | Setting new procedures to develop and improve previous means of cooperation between MOEHE, UNRWA, and the .private sector | x | x | x | x | x
 GE3140207 | Holding meetings with specialized institutions in the field of counseling, .health, and special education. | x | x | x | x | x
 
@@ -3996,10 +4323,10 @@ NF2050100 | Preparing and developing curricula for literacy and adult eduction. 
 
 [[START OF PAGE 161]]
 
-NF2050200 | Preparing and developing curricula for new illiterates. | NF2050201 | Organizing visits to countries that have excellent programs in non formal education. | x
+NF2050200 | Preparing and developing curricula for new illiterates. | NF2050201 | Organizing visits to countries that have excellent programs in non formal education. |  | x |  |  |
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 NF2050102 | Identifyng and addressing the needs for new illiterates. | x
-NF2050203 | Preparing a framework for non formal curricula based on needs› assessment for the new illiterates. | x | x
+NF2050203 | Preparing a framework for non formal curricula based on needs› assessment for the new illiterates. |  | x | x |  |
 NF0000000 | Sub-sector: Non- Formal Education
 NF2000000 | Goal 2: Quality of the teaching- learning process improved
 NF2060000 | Employment of new educational technology enhanced.
@@ -4010,6 +4337,7 @@ NF2060102 | Video-taping good teaching classes and making productions of excelle
 NF0000000 | Sub-sector: Non- Formal Education
 NF2000000 | Goal 2: Quality of the teaching- learning process improved
 NF2070000 | Standards of school and educational environment improved.
+Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
 
 162
@@ -4027,7 +4355,7 @@ NF2080000 | Teaching staff competencies enhanced and strengthened.
 Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
 NF2080100 | Developing clear strategies for non formal education training methodologies. | NF2080101 | Identifying professional development needs for the staff of literacy centers. | x | x | x | x | x
-NF2080102 | Preparing and printing out training mannual and materials. | x | x
+NF2080102 | Preparing and printing out training mannual and materials. |  | x | x |  |
 NF2080103 | Conducting training workshops for the staff of the literacy and adult education centers. | x | x | x | x | x
 NF2080104 | Training educational supervisors to follow up literacy and adult education teachers. | x | x | x | x | x
 NF0000000 | Sub-sector: Non- Formal Education
@@ -4044,7 +4372,7 @@ NF3011000 | Educational planning systems strengthened at all levels
 Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
 NF3011100 | .Developing a specialized information system for non-forma education sector | NF3110101 | Setting up information system (EIS) for non formal education sector and implementing an annual updating of the (EIS). | x | x | x | x | x
-NF3110102 | Conducting workshops to present the survey of the non formal education EIS results. | x | x | x
+NF3110102 | Conducting workshops to present the survey of the non formal education EIS results. |  | x |  | x | x
 NF0000000 | Sub-sector: Non- Formal Education
 NF3000000 | Goal 3: Developing the administrative and financial systems and improving performance
 NF3130000 | Staff competencies of administrative staff at all levels enhanced and strengthened
@@ -4067,7 +4395,7 @@ NF3140000 | Interaction and coordination between Ministry, civil society and dev
 Cost
 Action Programs | Activities | 2008 | 2009 | 2010 | 2011 | 2012
 NF3140100 | Enhancing the role of local communities in supporting non- formal education programs | NF3140101 | Conducting meetings for stake holders from various institutes. | x | x | x | x | x
-NF3140102 | Evaluating the role of local communities in supporting non formal education. | x | x
+NF3140102 | Evaluating the role of local communities in supporting non formal education. |  | x |  | x |
 MF1000000 | Providing access to those who need enrollment .
 MF2000001 | Improving the quality of teaching and learning
 MF3000000 | Developing adminstrative financial bylaws and improving performance
@@ -4111,31 +4439,22 @@ MF1230400 | Support the provision of salaries for Jarusalem teachers .and direct
 ## Higher Education Matrix
 
 Matrix of activities and cost per year / Higher Education including TVET
---- | --- | --- | --- | --- | --- | ---
 ### Goal (1): Access
 #### Technical and Vocational Education and Training (TVET)
-Action Program | Activity | Year (starting 2008) 8 | 9 | 10 | 11 | 12
-1.1.1.1 Establishment of new TVET institutions (colleges, schools, units) and
-expansion of the existing TVET institution›s capacity. Females› enrollment is guaranteed with special consideration through establishing special institutions for females, or even co-TVET institutions. | Ö | Ö | Ö | Ö | Ö
-1.1.2.1 Provision of laws, regulations and mechanisms that encourage in TVET (to draw consideration to needs (disabeled, released ...).
-enrollment special special poor, | 1.1.1.1.1
-Establishment of 6 SISs for females and males, with 8 occupations per each one: 4 SISs in the WB (Jenin, Ramallah, Hebron and Bethlehem), and 2 SIS in GS (Gaza City and Rafah). And application of the ATS in 6 occupations in each school.
-1.1.1.1.2
-Establishment of a SAS for females and males in Jenin District. And application of the ATS in 2 occupations in the school.
-1.1.1.1.3
-Addition of 18 new occupations for females and males in existing SIS (13). And application of the ATS in 6 occupations in each of the 13 existing schools.
-1.1.1.1.4
-Addition of 20 new classes in the 2 existing SASs (co-educational schools). And application of the ATS in 2 occupations in each school.
-1.1.1.1.5
-Addition of 170 new classes for Commercial Education for females and males.
-1.1.1.1.6
-1.1.1.1.7
-Establishment of a multi-level TVET college for females and males in Jenin District.
-1.1.1.1.8
-Addition of new 47 new occupations in existing TCs according to national development priorities: 22 Diploma level and 25 Bachelor level.
-1.1.1.1.9
-Applying 50 local and external missions of the governmental HEIs› staff members to cope with the new programs: 3 to the Bachelor lavel, 17 to the Master level and 33 to the Doctoral level.
-Ö
+Action Program | Activity | Year (starting 2008)
+ |  | 8 | 9 | 10 | 11 | 12
+1.1.1.1 Establishment of new TVET institutions (colleges, schools, units) and expansion of the existing TVET institution›s capacity. Females› enrollment is guaranteed with special consideration through establishing special institutions for females, or even co-TVET institutions. |  | Ö | Ö | Ö | Ö | Ö
+1.1.2.1 Provision of laws, regulations and mechanisms that encourage enrollment in TVET (to draw special consideration to special needs (disabeled, poor, released ...).
+ | 1.1.1.1.1 Establishment of 6 SISs for females and males, with 8 occupations per each one: 4 SISs in the WB (Jenin, Ramallah, Hebron and Bethlehem), and 2 SIS in GS (Gaza City and Rafah). And application of the ATS in 6 occupations in each school.
+ | 1.1.1.1.2 Establishment of a SAS for females and males in Jenin District. And application of the ATS in 2 occupations in the school.
+ | 1.1.1.1.3 Addition of 18 new occupations for females and males in existing SIS (13). And application of the ATS in 6 occupations in each of the 13 existing schools.
+ | 1.1.1.1.4 Addition of 20 new classes in the 2 existing SASs (co-educational schools). And application of the ATS in 2 occupations in each school.
+ | 1.1.1.1.5 Addition of 170 new classes for Commercial Education for females and males.
+ | 1.1.1.1.6 Addition of 4 Industrial/Home Economics occupation for females in Jenin District (JSIS, KSIS, STSIS). Addition of 4 Industrial/Home Economics occupation for females in Hebron District (HSIS, DSVGS). Addition of 4 Industrial/Home Economics occupations for females in Nablus District. Functioning of 2 Industrial occupations for females in TSIS.
+ | 1.1.1.1.7 Establishment of a multi-level TVET college for females and males in Jenin District.
+ | 1.1.1.1.8 Addition of new 47 new occupations in existing TCs according to national development priorities: 22 Diploma level and 25 Bachelor level.
+ | 1.1.1.1.9 Applying 50 local and external missions of the governmental HEIs› staff members to cope with the new programs: 3 to the Bachelor lavel, 17 to the Master level and 33 to the Doctoral level.
+ |  |  | Ö |  |  |
 
 167
 
@@ -4143,33 +4462,22 @@ Applying 50 local and external missions of the governmental HEIs› staff member
 
 [[START OF PAGE 167]]
 
-1.1.3.1 | Ö
---- | --- | --- | --- | ---
-Establishment of an effective «system» for Career Guidance to counsel students in their enrollment options: CG in the frame of extensive vision and according to professional advices with special reference to | 1.1.2.1.1
-Definition of the vocational relationship between the 5 levels on the TVET qualification ladder, through a unified system of occupation›s description and classification. Definition of movement requirments between the 5 levels (vertical movement in the system).
-1.1.2.1.2
-females› enrolment. | Definition of the relationship between the VE and TE (inter and intra) occupations and the transfer from occupation to another (horizontal movement in the system).
-1.1.2.1.3
-Setting easy and encouraging acceptance standards which mainly rely on «skills owned» and «willingness» and gives weight for them in the acceptance evaluation sheet.
-1.1.2.1.4
-Counting students with special needs and studying ability of TVET institutions to meet their requirments and and revitalization of students› loans grants programs.
-Ö | Ö | Ö
-Ö | Ö
-1.1.4.1 Empowerment of the system capacity in keeping and retaining students. | 1.1.3.1.1
-Establishment of a National center for Career Gauidance (CG).
-1.1.3.1.2
-Design and conduction of extensive, intensive, sustainabke and contenous awarness campaigns parallet to other awarness campaigns related to TVET. Conduction of specialized sessions in CG on request. And regualr from time and place points of view.
-1.1.3.1.3
-Design and conduction of extensive, intensive, sustainabke and contenous awarness campaigns parallet to other awarness campaigns related to TVET. Conduction of specialized sessions in CG on request. And regualr from time and place points of view.
-Ö | Ö | Ö | Ö
-1.1.4.1.1 | Ö | Ö | Ö | Ö
-Provision and empowerment of the «School-Student Friend Principle» and the «University/College-Student Friend Principle» and the «Teacher/ Lecturer-Student Friend Principle». And conduction of related training and entegrating it with psychological and occupational service at the institutional level.
-1.1.4.1.2
-Empwerment of students› life skillsK and the sense of work and occupation importance. Also importance of the short and long term return of TVET and focusing on its major feature from economic point of view (mainly its «Short-Break Even Point»).
-1.1.4.1.3
-Provision of health and safety measures and covering students and trainees (on-the-training insurance) which is needed for TVET workshops and labs mainly.
-Support of the creation of
-educational process by «Employment Services» through relationships nets between students and employing firms and institutions (job days and job offers,…).
+1.1.3.1 Establishment of an effective «system» for Career Guidance to counsel students in their enrollment options: CG in the frame of extensive vision and according to professional advices with special reference to females› enrolment. |  | Ö |  |  |  |
+ | 1.1.2.1.1 Definition of the vocational relationship between the 5 levels on the TVET qualification ladder, through a unified system of occupation›s description and classification. Definition of movement requirments between the 5 levels (vertical movement in the system).
+ | 1.1.2.1.2 Definition of the relationship between the VE and TE (inter and intra) occupations and the transfer from occupation to another (horizontal movement in the system).
+ | 1.1.2.1.3 Setting easy and encouraging acceptance standards which mainly rely on «skills owned» and «willingness» and gives weight for them in the acceptance evaluation sheet.
+ | 1.1.2.1.4 Counting students with special needs and studying ability of TVET institutions to meet their requirments and and revitalization of students› loans grants programs.
+ |  | Ö | Ö | Ö |  |
+1.1.4.1 Empowerment of the system capacity in keeping and retaining students. |  | Ö | Ö |  |  |
+ | 1.1.3.1.1 Establishment of a National center for Career Gauidance (CG).
+ | 1.1.3.1.2 Design and conduction of extensive, intensive, sustainabke and contenous awarness campaigns parallet to other awarness campaigns related to TVET. Conduction of specialized sessions in CG on request. And regualr from time and place points of view.
+ | 1.1.3.1.3 Design and conduction of extensive, intensive, sustainabke and contenous awarness campaigns parallet to other awarness campaigns related to TVET. Conduction of specialized sessions in CG on request. And regualr from time and place points of view.
+ |  | Ö | Ö | Ö | Ö |
+ |  | Ö | Ö | Ö | Ö |
+ | 1.1.4.1.1 Provision and empowerment of the «School-Student Friend Principle» and the «University/College-Student Friend Principle» and the «Teacher/Lecturer-Student Friend Principle». And conduction of related training and entegrating it with psychological and occupational service at the institutional level.
+ | 1.1.4.1.2 Empwerment of students› life skillsK and the sense of work and occupation importance. Also importance of the short and long term return of TVET and focusing on its major feature from economic point of view (mainly its «Short-Break Even Point»).
+ | 1.1.4.1.3 Provision of health and safety measures and covering students and trainees (on-the-training insurance) which is needed for TVET workshops and labs mainly.
+ | 1.1.4.1.4 Support of the educational process by «Employment Services» through creation of relationships nets between students and employing firms and institutions (job days and job offers,…).
 
 168
 
@@ -4178,31 +4486,23 @@ educational process by «Employment Services» through relationships nets betwee
 [[START OF PAGE 168]]
 
 ### Goal (1): Access
---- | --- | --- | --- | ---
 #### Higher Education
-Action Program Activity Year (starting 2008)
-8 | 9 | 10 | 11 | 12
-1.2.1.1 Meeting the increasing demand on HE, facilitation and diversification: Capacity expansion of the governmental higher education institutions (provision of new programs to the existing institutions) according to national development priorities. | Ö | Ö | Ö | Ö
-1.2.1.2 | Ö | Ö | Ö | Ö
-Encouraging and supporting the private and community sector in establishment of HE institutions, and developing cooperation relationships with local and external to secure more scholarships and fellowships. | 1.2.1.1.1
-1.2.1.1.2
-Study and analysis of the apsorbance capacity of the HE Sector and its institutions and predecting its ability to accept the increasing demand.
-1.2.1.1.3
-Accreditation of scientific, academic and vocational educational programs relavant to technology and Labor Market (LM) needs.
-1.2.1.1.4
-Provision of new education programs in Palestine Technical University - Khadoury Tulkarm (PTUKT) and Al Aqsa Univesrity.
-1.2.1.1.5
-Applying local and external missions for PTUKTs› and Al Aqsa University staff members to cope with the new programs.
-Ö | Ö | Ö | Ö
-1.2.2.1 Incresing attention to students with special needs (students with socio-economic difficulties, released prisoners, disabeled, injured, …). | 1.2.1.2.1
-Conduction of shared workshops, conferences and studies to design best scenarios for encouraging the private and community sector to invest in HE.
-1.2.1.2.2
-Preperation of protocols and formalities for endorsing cooperation agreements and follow up to implement cultural agreements between Palestine and other countries.
-1.2.1.2.3
-Conduction of annual conferences with cultural attachements.
-1.2.1.2.4
-Announcing sholarships and training coureses.
-Ö | Ö | Ö | Ö
+Action Program | Activity | Year (starting 2008)
+ |  | 8 | 9 | 10 | 11 | 12
+1.2.1.1 Meeting the increasing demand on HE, facilitation and diversification: Capacity expansion of the governmental higher education institutions (provision of new programs to the existing institutions) according to national development priorities. |  | Ö | Ö | Ö | Ö |
+1.2.1.2 Encouraging and supporting the private and community sector in establishment of HE institutions, and developing cooperation relationships with local and external to secure more scholarships and fellowships. |  | Ö | Ö | Ö | Ö |
+ | 1.2.1.1.1 Conduction of regular researches, statistics, seminars and workshops on HE in Palestine and its challenges.
+ | 1.2.1.1.2 Study and analysis of the apsorbance capacity of the HE Sector and its institutions and predecting its ability to accept the increasing demand.
+ | 1.2.1.1.3 Accreditation of scientific, academic and vocational educational programs relavant to technology and Labor Market (LM) needs.
+ | 1.2.1.1.4 Provision of new education programs in Palestine Technical University - Khadoury Tulkarm (PTUKT) and Al Aqsa Univesrity.
+ | 1.2.1.1.5 Applying local and external missions for PTUKTs› and Al Aqsa University staff members to cope with the new programs.
+ |  | Ö | Ö | Ö | Ö |
+1.2.2.1 Incresing attention to students with special needs (students with socio-economic difficulties, released prisoners, disabeled, injured, …).
+ | 1.2.1.2.1 Conduction of shared workshops, conferences and studies to design best scenarios for encouraging the private and community sector to invest in HE.
+ | 1.2.1.2.2 Preperation of protocols and formalities for endorsing cooperation agreements and follow up to implement cultural agreements between Palestine and other countries.
+ | 1.2.1.2.3 Conduction of annual conferences with cultural attachements.
+ | 1.2.1.2.4 Announcing sholarships and training coureses.
+ |  | Ö | Ö | Ö | Ö |
 
 169
 
@@ -4210,29 +4510,21 @@ Announcing sholarships and training coureses.
 
 [[START OF PAGE 169]]
 
-1.2.2.2 Counseling and guiding students› apptitudes and willingness towrads appropriate HE enrolment | Ö | Ö
---- | --- | --- | ---
-1.2.2.1.1
-program. | Activation of students loans, grants and assistances to cover a maximum percentage of the study costs and setting up unified measures to allocate the financial assistances to students. | Ö | Ö
-1.2.2.1.2
-Preperation of projects› proposals for students loans and grants and fundraising. | Ö | Ö
-1.2.2.1.3
-Conduction of field visits to HEIs to check up their preperations to receive students with special needs. And setting up implementable recommendations. | Ö | Ö
-1.2.2.1.4
-Counting students with special needs according to HEI and specifying specific needs to be met and satidfied.
-Ö | Ö
-Ö | Ö | Ö | Ö
-Implementation of training courses for counselors.
-1.2.2.2.2
-Design and implementation of counseling campaigns regularly and on request.
-1.2.2.2.3
-Preperaing the guidance leaflet and distribution to schools and District Education Offices.
+1.2.2.2 Counseling and guiding students› apptitudes and willingness towrads appropriate HE enrolment program. |  | Ö | Ö |  |  |
+ | 1.2.2.1.1 Activation of students loans, grants and assistances to cover a maximum percentage of the study costs and setting up unified measures to allocate the financial assistances to students. | Ö | Ö |  |  |
+ | 1.2.2.1.2 Preperation of projects› proposals for students loans and grants and fundraising. | Ö | Ö |  |  |
+ | 1.2.2.1.3 Conduction of field visits to HEIs to check up their preperations to receive students with special needs. And setting up implementable recommendations. | Ö | Ö |  |  |
+ | 1.2.2.1.4 Counting students with special needs according to HEI and specifying specific needs to be met and satidfied.
+ |  | Ö | Ö |  |  |
+ |  | Ö | Ö | Ö | Ö |
+ | 1.2.2.2.1 Implementation of training courses for counselors.
+ | 1.2.2.2.2 Design and implementation of counseling campaigns regularly and on request.
+ | 1.2.2.2.3 Preperaing the guidance leaflet and distribution to schools and District Education Offices.
 ### Goal (2): Quality of education and learning
 #### Technical and Vocational Education and Training (TVET)
 Action Program | Activity | Year (starting 2008)
-8 9 10 11 12
-2.1.1.1
-Development of Competency-Based Modularized Curricula (CBMC) for TVET according to priority occupations, priority levels with special consideration of femals. | Ö | Ö
+ |  | 8 | 9 | 10 | 11 | 12
+2.1.1.1 Development of Competency-Based Modularized Curricula (CBMC) for TVET according to priority occupations, priority levels with special consideration of femals. |  | Ö | Ö |  |  |
 
 170
 
@@ -4240,35 +4532,24 @@ Development of Competency-Based Modularized Curricula (CBMC) for TVET according 
 
 [[START OF PAGE 170]]
 
-2.1.2.1 Development of physical infrastructure (buildings, equipment and | Ö | Ö
---- | --- | --- | --- | ---
-furniture). | 2.1.1.1.1
-Occupation analysis and study of LM needs.
-2.1.1.1.2
-Development of the curricula (Master Copy) and related teaching and learning resources.
-2.1.1.1.3
-Testing and evaluation of the new curricula (Piloting).
-2.1.1.1.4
-Training of the TVET cadre on implementation of the new curricual.
-2.1.1.1.5
-Production of copies (Multiplication) and implementation of the new curricula in the TVET institutions.
-Ö | Ö | Ö | Ö
-2.1.3.1 Design and implementation of effective, integrated at the local, regional and international levels, and institutionalization of a medium and long-term training. The promising design shall be demand- driven (the MoEHE demand) and not according to offers. | 2.1.2.1.1 | Ö
-Development and upgrading machines, furniture and equipment in existing
-2.1.2.1.2
-Establishment of 5 ‹Central Computer and Resource Centers» and upgrading computer labs for the Commercial Education Sub-stream.
-2.1.2.1.3
-Maintenance of machines, equipment and furniture in existing schools and colleges.
-2.1.2.1.4
-Maintenance of infrastructure (buildings ...) in existing schools and colleges.
-Ö | Ö | Ö | Ö | Ö
-2.1.4.1 Revision, evaluation and enrichment of the current education approaches, and, provision and institutionalization of new approaches that are applicable to the Palestinian context (i.e.: ICT, E-Learning, Blended- Learning). | 2.1.3.1.1
-Assessment and identification of training needs for human resources according to an updated job description.
-2.1.3.1.2
-Signing cooperation agreemnets with prefessional local/regional/ international training firmsin technical/scientific and administrative areas so as to institutionalize existing cooperation relationships.
-2.1.3.1.3
-Organization of regular training programs, local/regional/international in technical/scientific and administrative areas according to priorities and needs.
-Ö | Ö | Ö | Ö | Ö
+2.1.2.1 Development of physical infrastructure (buildings, equipment and furniture). |  |  | Ö | Ö |  |
+ | 2.1.1.1.1 Occupation analysis and study of LM needs.
+ | 2.1.1.1.2 Development of the curricula (Master Copy) and related teaching and learning resources.
+ | 2.1.1.1.3 Testing and evaluation of the new curricula (Piloting).
+ | 2.1.1.1.4 Training of the TVET cadre on implementation of the new curricual.
+ | 2.1.1.1.5 Production of copies (Multiplication) and implementation of the new curricula in the TVET institutions.
+ |  | Ö | Ö | Ö | Ö |
+2.1.3.1 Design and implementation of effective, integrated at the local, regional and international levels, and institutionalization of a medium and long-term training. The promising design shall be demand-driven (the MoEHE demand) and not according to offers. |  |  | Ö |  |  |
+ | 2.1.2.1.1 Development and upgrading machines, furniture and equipment in existing schools and collleges.
+ | 2.1.2.1.2 Establishment of 5 ‹Central Computer and Resource Centers» and upgrading computer labs for the Commercial Education Sub-stream.
+ | 2.1.2.1.3 Maintenance of machines, equipment and furniture in existing schools and colleges.
+ | 2.1.2.1.4 Maintenance of infrastructure (buildings ...) in existing schools and colleges.
+ |  | Ö | Ö | Ö | Ö | Ö
+2.1.4.1 Revision, evaluation and enrichment of the current education approaches, and, provision and institutionalization of new approaches that are applicable to the Palestinian context (i.e.: ICT, E-Learning, Blended-Learning).
+ | 2.1.3.1.1 Assessment and identification of training needs for human resources according to an updated job description.
+ | 2.1.3.1.2 Signing cooperation agreemnets with prefessional local/regional/international training firmsin technical/scientific and administrative areas so as to institutionalize existing cooperation relationships.
+ | 2.1.3.1.3 Organization of regular training programs, local/regional/international in technical/scientific and administrative areas according to priorities and needs.
+ |  | Ö | Ö | Ö | Ö | Ö
 
 171
 
@@ -4286,8 +4567,8 @@ Institutionalization of existing cooperation with international institutions (GT
 ### Goal (2): Quality of education and learning
 #### Higher Education
 Action Program | Activity | Year (starting 2008)
-2.2.1.1 Capacity building in quality management and assurance, investemnt in gifted students and development of education programs and and | 8 | 9 | 10 | 11 | 12
-curricula according in line with technological developments. | Ö | Ö | Ö
+ |  | 8 | 9 | 10 | 11 | 12
+2.2.1.1 Capacity building in quality management and assurance, investemnt in gifted students and development of education programs and and curricula according in line with technological developments. |  |  | Ö | Ö | Ö |
 
 172
 
@@ -4326,33 +4607,24 @@ Continue implementation of the TEP/ WB and EU.
 
 [[START OF PAGE 173]]
 
-2.2.2.1 Development and diversification of
---- | --- | --- | --- | ---
-libraries and labs and improvement of services in the governmental HE institutions. | 2.2.1.2.1
-Establishment of «Scientific Research fund for development».
-2.2.1.2.2
-Collection and resourcing of data on scientific research on local, regional and international levels.
-2.2.1.2.3
-Organization of field visits to HEIs and scientific research centers for coordination, cooperation and support means.
-2.2.1.2.4
-Setting up a national strategy for science, technology and scientific research.
-2.2.1.2.5
-Activation of partnerships in research locally, reagionally and on international level.
-2.2.1.2.6
-Establishment of a pioneer center for excellence.
-Ö | Ö | Ö | Ö
-2.2.3.1 Contribution to the pre- service HRD programs, and construction of an extensive and updated database on Palestinian professional and experienced human resources available inside and outside Palestine. | 2.2.2.1.1
-Supply of soft facilities and other facilities to labs and libraries and helping HEIs in raising fund to secure sustainable financial coverage for this item. | Ö | Ö | Ö | Ö
-Ö | Ö
-Ö
-2.2.3.1.1
-of
-2.2.3.1.2
-Design a methodology and approach to contribute to implementation of the pre-service part of the «National Teacher Education Strategy».
+2.2.2.1 Development and diversification of libraries and labs and improvement of services in the governmental HE institutions.
+ | 2.2.1.2.1 Establishment of «Scientific Research fund for development».
+ | 2.2.1.2.2 Collection and resourcing of data on scientific research on local, regional and international levels.
+ | 2.2.1.2.3 Organization of field visits to HEIs and scientific research centers for coordination, cooperation and support means.
+ | 2.2.1.2.4 Setting up a national strategy for science, technology and scientific research.
+ | 2.2.1.2.5 Activation of partnerships in research locally, reagionally and on international level.
+ | 2.2.1.2.6 Establishment of a pioneer center for excellence.
+ |  | Ö | Ö | Ö | Ö |
+2.2.3.1 Contribution to the pre-service HRD programs, and construction of an extensive and updated database on Palestinian professional and experienced human resources available inside and outside Palestine.
+ | 2.2.2.1.1 Supply of soft facilities and other facilities to labs and libraries and helping HEIs in raising fund to secure sustainable financial coverage for this item. | Ö | Ö | Ö | Ö |
+ |  | Ö | Ö |  |  |
+ |  | Ö | Ö | Ö | Ö |
+ | 2.2.3.1.1 Design a data base on Palestinian experts in different fields and provision of a mechanism for regular and continous contact with them.
+ | 2.2.3.1.2 Design a methodology and approach to contribute to implementation of the pre-service part of the «National Teacher Education Strategy».
 ### Goal (3): Management and effeciency of the system
 #### Higher Education and Technical and Vocation Education and Training, TVET (shared goal)
-Action Program Activity Year (starting 2008)
-8 9 10 11 12
+Action Program | Activity | Year (starting 2008)
+ |  | 8 | 9 | 10 | 11 | 12
 
 174
 
@@ -4360,27 +4632,20 @@ Action Program Activity Year (starting 2008)
 
 [[START OF PAGE 174]]
 
-3.1.1.1 Encouraging of the and Community Sectors support and investment
---- | --- | --- | --- | --- | ---
-Private to in HE and implementation of policies and strategies on financing the HE Sector. | Ö | Ö
-3.1.1.3 Capacity building and ability improvement in self- financing of HE institutions | Ö | Ö | Ö | Ö
-3.1.1.1.1
-Adoption of an ensentive system for encouraging the PS to support and invest in HE and to benefit from HE outputs.
-3.1.1.1.2
-Establishment of a fund to develop and support HEIs and financing it from the Public and Private and Community Sectors.
-3.1.1.1.3
-Design of implementable actions towards more implementation of the Higher Education Financing Strategy (HEFS).
-Ö | Ö | Ö | Ö
-3.1.1.4 Development of an administrative-financial system for reclaiming students› fund for the benefit of «loan revolving» | 3.1.1.3.1 | Ö | Ö | Ö | Ö
-Activation of «production lines» of some education/training when needed.
-3.1.1.3.2
-Encouraging students to pay maximum possible fees according to encouraging insentives.
-3.1.1.3.3
-Capacity building of HEIs in Financial Planning and Fund Raising.
-Ö | Ö
-3.2.1.1 Design and adoption of a unified classification of employees in the HE institutions and HRD according to the classification. | 3.1.1.4.1
-Adoption of an effective mechanism to allocate loans, distribution, reclaim and revoloving.
-Ö | Ö
+3.1.1.1 Encouraging of the Private and Community Sectors to support and investment in HE and implementation of policies and strategies on financing the HE Sector. |  | Ö | Ö |  |  |
+3.1.1.3 Capacity building and ability improvement in self-financing of HE institutions |  | Ö | Ö | Ö | Ö |
+ | 3.1.1.1.1 Adoption of an ensentive system for encouraging the PS to support and invest in HE and to benefit from HE outputs.
+ | 3.1.1.1.2 Establishment of a fund to develop and support HEIs and financing it from the Public and Private and Community Sectors.
+ | 3.1.1.1.3 Design of implementable actions towards more implementation of the Higher Education Financing Strategy (HEFS).
+ |  | Ö | Ö | Ö | Ö |
+3.1.1.4 Development of an administrative-financial system for reclaiming students› fund for the benefit of «loan revolving» |  | Ö | Ö | Ö | Ö |
+ | 3.1.1.3.1 Activation of «production lines» of some education/training when needed.
+ | 3.1.1.3.2 Encouraging students to pay maximum possible fees according to encouraging insentives.
+ | 3.1.1.3.3 Capacity building of HEIs in Financial Planning and Fund Raising.
+ |  | Ö |  | Ö |  |
+3.2.1.1 Design and adoption of a unified classification of employees in the HE institutions and HRD according to the classification.
+ | 3.1.1.4.1 Adoption of an effective mechanism to allocate loans, distribution, reclaim and revoloving.
+ |  | Ö | Ö |  |  |
 
 175
 
@@ -4388,40 +4653,26 @@ Adoption of an effective mechanism to allocate loans, distribution, reclaim and 
 
 [[START OF PAGE 175]]
 
-3.3.1.1 Computation of administrative systems in HE, in the Ministry and its HE institutions (HEIs). | Ö | Ö
---- | --- | --- | ---
-3.2.1.1.1
-Revesion of the existing job description (JD) and adoption of an updated (JD) for all levels of the MoEHE and for the HEIs.
-3.2.1.1.2
-Adoption of a unified job classification (JC) for the Ministry employees/ HE and for HEIs.
-3.2.1.1.3
-Provision and implementation of a mechanism for exchanging experiences between the Ministry›s employees and HEIs.
-3.2.1.1.4
-Development of standars for selection of the new employees.
-3.2.1.1.5
-Building of the Ministry›s capacity and HEIs in long-term strategic planning in HE.
-Ö | Ö
-3.3.2.1 Devotion of group and collective work, and cooperation relationships between the Ministry and HE institutions on the one hand and between the HEIs themselves on the other hand | 3.3.1.1.1
-Development and diversification of the Ministry›s website.
-3.3.1.1.2
-Computation of administrative systems in HE.
-3.3.1.1.3
-Adoption and implement a mechanism for exchaniging data with HEIs on the one hand, and between HEIs on the other hand (activation of an existing mechanism).
-3.3.1.1.4
-Development of systems, instructions and regulations in the governmantal HEIs.
-Ö | Ö | Ö | Ö
-3.3.3.1 Implementation National | 3.3.2.1.1 | Ö
-Training of students on leadership, communication and writing skills and preperation and adoption a unified organizational regulation for the Students Councils.
-3.3.2.1.2
-Establisment of the Students› Parliament.
-3.3.2.1.3
-Organization of individual and group sport competetions.
-3.3.2.1.4
-Adoption of a system for organizing work of the University Service Offices (private offices).
-3.3.2.1.5
-Assissting students in gaining a unified health
-insurance.
-Ö | Ö | Ö | Ö
+3.3.1.1 Computation of administrative systems in HE, in the Ministry and its HE institutions (HEIs). |  | Ö | Ö |  |  |
+ | 3.2.1.1.1 Revesion of the existing job description (JD) and adoption of an updated (JD) for all levels of the MoEHE and for the HEIs.
+ | 3.2.1.1.2 Adoption of a unified job classification (JC) for the Ministry employees/ HE and for HEIs.
+ | 3.2.1.1.3 Provision and implementation of a mechanism for exchanging experiences between the Ministry›s employees and HEIs.
+ | 3.2.1.1.4 Development of standars for selection of the new employees.
+ | 3.2.1.1.5 Building of the Ministry›s capacity and HEIs in long-term strategic planning in HE.
+ |  | Ö | Ö |  |  |
+3.3.2.1 Devotion of group and collective work, and cooperation relationships between the Ministry and HE institutions on the one hand and between the HEIs themselves on the other hand
+ | 3.3.1.1.1 Development and diversification of the Ministry›s website.
+ | 3.3.1.1.2 Computation of administrative systems in HE.
+ | 3.3.1.1.3 Adoption and implement a mechanism for exchaniging data with HEIs on the one hand, and between HEIs on the other hand (activation of an existing mechanism).
+ | 3.3.1.1.4 Development of systems, instructions and regulations in the governmantal HEIs.
+ |  | Ö | Ö | Ö | Ö |
+3.3.3.1 Implementation of the National TVET Strategy |  | Ö | Ö |  |  |
+ | 3.3.2.1.1 Training of students on leadership, communication and writing skills and preperation and adoption a unified organizational regulation for the Students Councils.
+ | 3.3.2.1.2 Establisment of the Students› Parliament.
+ | 3.3.2.1.3 Organization of individual and group sport competetions.
+ | 3.3.2.1.4 Adoption of a system for organizing work of the University Service Offices (private offices).
+ | 3.3.2.1.5 Assissting students in gaining a unified health insurance.
+ |  | Ö | Ö | Ö | Ö |
 
 176
 
@@ -4429,31 +4680,22 @@ insurance.
 
 [[START OF PAGE 176]]
 
-3.3.4.1 Expansion of the cadre in Palestine Technical University Khadoury, Vocational Schools and Vocation Units (salaries will result from development
---- | --- | --- | --- | ---
-3.3.3.1.1
-Revesion of the NTVETS, the Technical Paper, the Master Implementation Plan, the updated Annual Implementation Plan and report of the Strategy Costing Mission (2005).
-programs during the EDSP). | 3.3.3.1.2
-Implementation of the strategy components: activation of the Higher Council, Executive Board, …
-3.3.3.1.3
-Implementation of the strategy components: Establishment of Planning and Development Center, preperaing job classification, LMIS,...
-Ö | Ö | Ö | Ö
-3.3.4.2 Providing salaries for the existing employees (before start implementation of the EDSP). | Ö | Ö | Ö | Ö
-3.3.4.1.1
-3.3.4.1.2
-Recruitment of new 138 employees in governmental TCs and Universities to meet opening of new programs/occupations: 104 academic and 34 administrative.
-3.3.4.1.3
-Recruitment of new 126 employees: 87 academic and 39 administrative to meet opening of new programs in PTUKT.
-3.3.4.3 Providing financial coveregae of recurrent costs durign the EDSP
-3.3.4.2.1
-(doesn't include salaries). | Operating costs 1: Providing salaries, and their increase, for the existing cadre.
-3.3.4.3.1
-Operating costs 2: Logistics and other operating costs.
+3.3.4.1 Expansion of the cadre in Palestine Technical University Khadoury, Vocational Schools and Vocation Units (salaries will result from development programs during the EDSP).
+ | 3.3.3.1.1 Revesion of the NTVETS, the Technical Paper, the Master Implementation Plan, the updated Annual Implementation Plan and report of the Strategy Costing Mission (2005).
+ | 3.3.3.1.2 Implementation of the strategy components: activation of the Higher Council, Executive Board, …
+ | 3.3.3.1.3 Implementation of the strategy components: Establishment of Planning and Development Center, preperaing job classification, LMIS,...
+ |  | Ö | Ö | Ö | Ö |  |
+3.3.4.2 Providing salaries for the existing employees (before start implementation of the EDSP). |  | Ö | Ö | Ö | Ö |  |
+ | 3.3.4.1.1 Recruitment of new 276 employees in Vocational Schools and Units to meet opening of new programs/occupations.
+ | 3.3.4.1.2 Recruitment of new 138 employees in governmental TCs and Universities to meet opening of new programs/occupations: 104 academic and 34 administrative.
+ | 3.3.4.1.3 Recruitment of new 126 employees: 87 academic and 39 administrative to meet opening of new programs in PTUKT.
+3.3.4.3 Providing financial coveregae of recurrent costs durign the EDSP (doesn’t include salaries).
+ | 3.3.4.2.1 Operating costs 1: Providing salaries, and their increase, for the existing cadre.
+ | 3.3.4.3.1 Operating costs 2: Logistics and other operating costs.
 ### Goal (4): Relevance
 #### Higher education and Technical and Vocation Education and Training, TVET (shared target)
-Action Program Activity
-Year (starting 2008)
-8 9 10 11 12
+Action Program | Activity | Year (starting 2008)
+ |  | 8 | 9 | 10 | 11 | 12
 
 177
 
@@ -4461,35 +4703,22 @@ Year (starting 2008)
 
 [[START OF PAGE 177]]
 
-4.1.1.1 Evaluation of the relevance degree of HE programs (10 program clusters including 299 programs) to local
---- | --- | ---
-employment capacity.
-4.1.2.1 Design of policies and implementation procedures to (gradually) push enrollment towards priority programs and rationalization (gradually) | 4.1.1.1.1 | Ö
-Evaluation of relevance degree of the (Natural Sciences and Physics Program Cluster) to the local Labor Market (LM) needs and its employment capacity.
-of labor market-saturated | 4.1.1.1.2
-programs. And supporting this with a reliable Career guidance services and with | Evaluation of relevance degree of the (Social and Humanities Sciences Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö
-shared and participative decision with HEIs. | 4.1.1.1.3
-Evaluation of relevance degree of the (Economic and Administrative Sciences Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö
-4.1.1.1.4
-Evaluation of relevance degree of the (Pedagogical Sciences Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö
-4.1.1.1.5
-Evaluation of relevance degree of the (Laws Sciences Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö
-4.1.1.1.6
-Evaluation of relevance degree of the (Health Sciences Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö
-4.1.1.1.7
-Evaluation of relevance degree of the (Agricultural Sciences Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö
-4.1.1.1.8
-Evaluation of relevance degree of the (Engineering Sciences Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö
-4.1.1.1.9
-Evaluation of relevance degree of the (Computer Science and IT Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö
-4.1.1.1.10
-Evaluation of relevance degree of the (Arts Sciences Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö
-4.1.1.1.11
-Revision and analysis of papers, studies, strategis and policies related to HE, with focus on Relevance, which done in the course of the past 10 years for «tripiling» of data towards evidence-based implementable recommendations. | Ö
-4.1.1.1.12 Activation of «Graduates› Tracking System» for VE (vocatioal schools) for | Ö
-general benefits and for the benefit of this AP in the EDSP (ready system for use). 4.1.1.1.13
-Activation of «Graduates› Tracking System» for HE (all universities and colleges) for general benefits and for the benefit of this AP in the EDSP (ready system for use). | Ö
-Ö | Ö | Ö
+4.1.1.1 Evaluation of the relevance degree of HE programs (10 program clusters including 299 programs) to local labor market needs and its employment capacity. |  | Ö |  |  |  |  |
+4.1.2.1 Design of policies and implementation procedures to (gradually) push enrollment towards priority programs and rationalization (gradually) of labor market-saturated programs. And supporting this with a reliable Career guidance services and with shared and participative decision with HEIs. |  | Ö |  |  |  |  |
+ | 4.1.1.1.1 Evaluation of relevance degree of the (Natural Sciences and Physics Program Cluster) to the local Labor Market (LM) needs and its employment capacity.
+ | 4.1.1.1.2 Evaluation of relevance degree of the (Social and Humanities Sciences Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö |  |  |  |  |
+ | 4.1.1.1.3 Evaluation of relevance degree of the (Economic and Administrative Sciences Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö |  |  |  |  |
+ | 4.1.1.1.4 Evaluation of relevance degree of the (Pedagogical Sciences Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö |  |  |  |  |
+ | 4.1.1.1.5 Evaluation of relevance degree of the (Laws Sciences Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö |  |  |  |  |
+ | 4.1.1.1.6 Evaluation of relevance degree of the (Health Sciences Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö |  |  |  |  |
+ | 4.1.1.1.7 Evaluation of relevance degree of the (Agricultural Sciences Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö |  |  |  |  |
+ | 4.1.1.1.8 Evaluation of relevance degree of the (Engineering Sciences Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö |  |  |  |  |
+ | 4.1.1.1.9 Evaluation of relevance degree of the (Computer Science and IT Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö |  |  |  |  |
+ | 4.1.1.1.10 Evaluation of relevance degree of the (Arts Sciences Program Cluster) to the local Labor Market (LM) needs and its employment capacity. | Ö |  |  |  |  |
+ | 4.1.1.1.11 Revision and analysis of papers, studies, strategis and policies related to HE, with focus on Relevance, which done in the course of the past 10 years for «tripiling» of data towards evidence-based implementable recommendations. | Ö |  |  |  |  |
+ | 4.1.1.1.12 Activation of «Graduates› Tracking System» for VE (vocatioal schools) for general benefits and for the benefit of this AP in the EDSP (ready system for use). | Ö |  |  |  |  |
+ | 4.1.1.1.13 Activation of «Graduates› Tracking System» for HE (all universities and colleges) for general benefits and for the benefit of this AP in the EDSP (ready system for use). | Ö |  |  |  |  |
+ |  |  | Ö | Ö | Ö |  |
 
 178
 
@@ -4521,15 +4750,11 @@ Conduction of comparative studies for the not-suspended program clusters.
 
 The following documents can be viewed at the MoEHE web site www.mohe.gov.ps:
 
-- Situation Analysis Report 1.
-
-- Action Plan Matrix 2.
-
-- Monitoring and Evaluation System 3.
-
-- Targets of the Three Scenarios 4.
-
-- MoEHE : Policy Simulation Model 5.
+1. Situation Analysis Report
+2. Action Plan Matrix
+3. Monitoring and Evaluation System
+4. Targets of the Three Scenarios
+5. MoEHE : Policy Simulation Model
 
 180
 
