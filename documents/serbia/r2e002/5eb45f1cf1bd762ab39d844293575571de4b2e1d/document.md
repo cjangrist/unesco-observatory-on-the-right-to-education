@@ -222,7 +222,7 @@ Education  activities  within  an  education  institution  shall  be  performed 
 
 Teacher, preschool teacher and  psychologist/pedagogue  shall  be  a person with appropriate higher education:
 
-1) acquired through second degree studies (graduate academic studies master,  specialist  academic  studies  or  specialist  professional  studies)    in keeping with the Law on Higher Education ('Official Gazette of the Republic of  Serbia',  No.  76/05,  100/07 - authentic interpretation and 97/08), as of 10 September 2005;
+1) acquired through second degree studies (graduate academic studies – master, specialist academic studies or specialist professional studies) in keeping with the Law on Higher Education ('Official Gazette of the Republic of Serbia', No. 76/05, 100/07 – authentic interpretation and 97/08), as of 10 September 2005;
 
 2)  through initial studies lasting for at least four years, pursuant to the regulation regulating higher education until 10 September 2005;
 
@@ -312,7 +312,7 @@ The  funds  for  the  functioning  of  the  National  Education  Council  shall 
 
 [[START OF PAGE 11]]
 
-The  Ministry  shall  be  obliged  to  provide  ll  the  necessary  conditions  for  the performance of administrative and technical activities for the needs of the Council as stated in paragraph 1 of this Article.
+The Ministry shall be obliged to provide all the necessary conditions for the performance of administrative and technical activities for the needs of the Council as stated in paragraph 1 of this Article.
 
 The  councils  as  stated  in  paragraph  1  of  this  Article  shall  take  decisions  by majority vote.
 
@@ -632,7 +632,7 @@ Within  its  Vocational  Training  and  Adult  Education  Center,  the  Institut
 
 - The preparation of the educational profiles list;
 
-- 10 The preparation of the network of vocational schools and schools for the education of adults and monitoring of its effectiveness;
+- The preparation of the network of vocational schools and schools for the education of adults and monitoring of its effectiveness;
 
 - The  preparation  of  development  projects  and  activities  linking vocational training and employment;
 
@@ -714,7 +714,7 @@ The institute as stated in paragraph 1 of this Article shall perform expert work
 
 - Extending expert assistance to the Ministry and competent councils in the area of quality assurance and data collection and processing;
 
-- Extending  expert and professional support to institutions in respect  of  the  monitoring  and  evaluation  of  the  attainment  of objectives, general and special achievement standards, selfevaluation of institutions, preparation of materials for the examination and testing of students, expert recommendations for adjusting special standards;
+- Extending expert and professional support to institutions in respect of the monitoring and evaluation of the attainment of objectives, general and special achievement standards, self-evaluation of institutions, preparation of materials for the examination and testing of students, expert recommendations for adjusting special standards;
 
 - Monitoring the alignment of the education evaluation and quality assurance  system with the education evaluation and quality assurance system within the European countries;
 
@@ -864,7 +864,7 @@ The founder of an institution may not be a private entity convicted of a crime a
 
 [[START OF PAGE 29]]
 
-The Republic or an autonomous province may establish a special institution -subject-specific labs affiliated with  the university, in accordance with this law.
+The Republic or an autonomous province may establish a special institution – subject-specific labs affiliated with the university, in accordance with this law.
 
 The minister shall prescribe more detailed conditions for establishing an institution as stated in paragraph 3 of this Article, manner of proposing members of the managing body, the requirements for the managing director, special requirements for teachers, preschool teachers and psychologists/pedagogues.
 
@@ -882,7 +882,7 @@ In a local self government unit where a language and script of a national minori
 
 Once the Ministry has established that the authority of a local self government  unit  has  not  adopted  the  document  on  the  network  of elementary schools, it shall set a deadline for its adoption.
 
-Should the authority of a local self government unit fail to adopt the  document  within  the  time  period  as  stated  in  paragraph  6  of  this Article,  the  Ministry  shall  pass  the  document  on  the  network  of elementary schools.
+Should the authority of a local self government unit fail to adopt the document within the time period as stated in paragraph 6 of this
 
 29
 
@@ -890,7 +890,9 @@ Should the authority of a local self government unit fail to adopt the  document
 
 [[START OF PAGE 30]]
 
-The  document  on  the  network  of  secondary  schools  shall  be passed by the Government based on the following:
+Article, the Ministry shall pass the document on the network of elementary schools.
+
+The document on the network of secondary schools shall be passed by the Government based on the following:
 
 - Demographic  projections  of  the  population  of  students  in  a particular area;
 
@@ -914,13 +916,15 @@ An  institution  may  be  established  by  the  Republic  of  Serbia,  an autono
 
 - The existence of funds for establishing and running the institution.
 
-An institution  may be established by another legal  or private  entity  if, apart from complying with the conditions as stated in paragraph 1 items 2) and 3) of this Article, this entity has a guarantee issued by a commercial bank that the necessary funds have been provided and that the amount of those funds is sufficient for a period of one year of operation of a preschool institution, for a cycle of elementary school education or for a period of duration of a secondary school program.
+An institution may be established by another legal or private entity if, apart from complying with the conditions as stated in paragraph 1 items 2) and 3) of this Article, this entity has a guarantee issued by a commercial bank that the necessary funds have been provided and that the amount of those funds is sufficient for a period of one year of operation of a preschool institution, for a
 
 30
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+
+cycle of elementary school education or for a period of duration of a secondary school program.
 
 An institution may begin with its educational and pedagogical work and activities if it meets the conditions necessary for its establishment and if it has:
 
@@ -1032,13 +1036,15 @@ The  acting  managing  director  or  principal  of  an  institution  and  the in
 
 If  the  acting  managing  director  of  an  institution  or  principal  and  the interim  managing  body  fail  to  eliminate  the  ascertained  irregularities,  the Ministry shall prohibit the operation of that particular institution.
 
-When an institution founded by another legal or private entity fails to act within a given time period at the order of the body as stated in paragraph 1 of this  Article,  or  when  the  managing  body  fails  to  perform  its  duties  and obligations  and  the  founder  fails  to  take  measures  aimed  at  eliminating  the irregularities  within  a  given  time  period,  in  accordance  with  the  law,  the Ministry shall prohibit the operation of that particular institution.
+When an institution founded by another legal or private entity fails to act within a given time period at the order of the body as stated in paragraph 1 of
 
 34
 
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
+
+this Article, or when the managing body fails to perform its duties and obligations and the founder fails to take measures aimed at eliminating the irregularities within a given time period, in accordance with the law, the Ministry shall prohibit the operation of that particular institution.
 
 #### Termination of an Institution
 
@@ -1256,7 +1262,7 @@ An institution shall have a development plan.
 
 The institution development plan shall be a strategic development plan of  the  institution  which  includes  priorities  in  performing  educational  and pedagogical work and activities, a plan and those implementing the activities, criteria  and  evaluation  benchmarks  for  planned  activities  and  other  issues  of significance for the development of an institution.
 
-The institution development plan shall be passed on the basis of a selfevaluation  report  and  the  report  on  the  attainment  of  achievement  standards and other quality indicators of the operation of an institution.
+The institution development plan shall be passed on the basis of a self-evaluation report and the report on the attainment of achievement standards and other quality indicators of the operation of an institution.
 
 The  development  plan  shall  be  passed  by  a  managing  body,  at  the proposal of an expert team for development planning for a period of three to five years.
 
@@ -1336,13 +1342,15 @@ The  national  council  of  a  national  minority  shall  propose  at  least  on
 
 The  school  board  of  an  elementary  school  for  the  education  of  adults shall have seven members, including the chairperson, out of which three shall be representatives of employees and four shall be representatives of the local self government unit.
 
-For secondary schools of special interest for the Republic of Serbia and unique  schools,  the  Ministry  shall  propose  to  the  assembly  of  the  local  self government unit three prominent representatives of the: chamber of commerce, artisans,  employers'  association,  national  employment  agency,  unions  and other  parties  interested  in  the  work  and  activities  of  the  school  (hereinafter referred to as social partners). The assembly of the local self government unit shall appoint to the school board of a secondary vocational school at least one representative of the social partners.
+For secondary schools of special interest for the Republic of Serbia and unique schools, the Ministry shall propose to the assembly of the local self government unit three prominent representatives of the: chamber of commerce, artisans, employers' association, national employment agency, unions and other parties interested in the work and activities of the school (hereinafter referred to as social partners). The assembly of the local self government unit
 
 44
 
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
+
+shall appoint to the school board of a secondary vocational school at least one representative of the social partners.
 
 The school board of a secondary school for the education of adults shall have nine members, including the chairperson, namely three representatives of each group such as employees, social partners and local self government unit.
 
@@ -1366,13 +1374,15 @@ cannot be proposed nor appointed as a member of the managing body.
 
 The  assembly  of  the  local  self  government  unit  shall  decide  on  the proposal of the authorized mover by passing an official decision.
 
-If  an  authorized mover fails to implement the procedure in accordance with the law or if he/she proposes a candidate contrary to the provisions of the law,  the  assembly  of  the  local  self  government  unit  shall  set  a  deadline  for bringing his/her actions in line with the law.
+If an authorized mover fails to implement the procedure in accordance with the law or if he/she proposes a candidate contrary to the provisions of the
 
 45
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
+
+law, the assembly of the local self government unit shall set a deadline for bringing his/her actions in line with the law.
 
 Should the authorized mover fail to act according to the law within the given deadline, the assembly of the local self government unit shall appoint the managing body members without the proposal of the authorized mover.
 
@@ -1572,7 +1582,7 @@ The  minister  shall  prescribe  in  more  detail  the  conditions  for  the app
 
 The managing director of an institution shall be elected by the managing body on the basis of a publicly announced competition, following the receipt of the opinion given by the pedagogical and educational council, teachers' council or teachers' and pedagogical council.
 
-In  an  institution  in  which  educational  and  pedagogical  work  and activities  are  delivered  in  a  language  of  a  national  minority,  as  well  as  in  an institution  in  which  educational  and  pedagogical  work  and  activities  in  the majority of classes are delivered in a language of a national minority or which are deemed, in accordance with the law governing the scope of competence of the national council of a national minority, as being of particular importance for that particular national minority, the managing body of an institution shall elect  the  managing  director  of  the  institution  or  principal  after  receiving  an opinion of the corresponding national council of a national minority.
+In an institution in which educational and pedagogical work and activities are delivered in a language of a national minority, as well as in an institution in which educational and pedagogical work and activities in the majority of classes are delivered in a language of a national minority or which are deemed, in accordance with the law governing the scope of competence of the national council of a national minority, as being of particular importance for that particular national minority, the managing body of an institution shall
 
 52
 
@@ -1580,7 +1590,9 @@ In  an  institution  in  which  educational  and  pedagogical  work  and activit
 
 [[START OF PAGE 53]]
 
-Should  the  national  council  of  a  national  minority  fail  to  submit  its opinion within a period of 15 days from the date the request has been received, the opinion shall be deemed as given.
+elect the managing director of the institution or principal after receiving an opinion of the corresponding national council of a national minority.
+
+Should the national council of a national minority fail to submit its opinion within a period of 15 days from the date the request has been received, the opinion shall be deemed as given.
 
 The council's  opinion  as  stated  in  paragraph  1  of  this  Article  shall  be reached  at  a  special  session  attended  by  all  employees  who  shall  vote  for candidates by secret ballot.
 
@@ -1714,7 +1726,7 @@ The managing body shall relieve the managing director or principal of his/her du
 
 - He/she has employed a person on full time basis or is outsourcing that person contrary to this law, the law and the general document;
 
-The managing body shall relieve the managing director or principal of his/her duties should he/she be subject to a disciplinary procedure leading to employment termination due to an aggravated violation of work obligation as prescribed  for  employees  in  Article  141  of  this  law  or  conditions  for  work contract termination have emerged in keeping with general labor regulations.
+The managing body shall relieve the managing director or principal of his/her duties should he/she be subject to a disciplinary procedure leading to employment termination due to an aggravated violation of work obligation as
 
 57
 
@@ -1722,7 +1734,9 @@ The managing body shall relieve the managing director or principal of his/her du
 
 [[START OF PAGE 58]]
 
-The managing body shall relieve the managing director or principal of his/her  duty  before  the  mandate  expiry  date  if  the  final  document  of  a competent  body  ascertains  that  the  institution  or  the  managing  director  is responsible  for  the  violation  of  this  or  the  pertaining  law,  fraud  or  criminal offence in the performance of his/her duties and obligations.
+prescribed for employees in Article 141 of this law or conditions for work contract termination have emerged in keeping with general labor regulations.
+
+The managing body shall relieve the managing director or principal of his/her duty before the mandate expiry date if the final document of a competent body ascertains that the institution or the managing director is responsible for the violation of this or the pertaining law, fraud or criminal offence in the performance of his/her duties and obligations.
 
 The  managing  body  shall  relieve  managing  director  or  principal  of his/her duty following the measure ordered by the education inspection, within eight days from the receipt of the order.
 
@@ -2098,7 +2112,7 @@ The  program  of  pedagogical  work  and  activities  shall  be  passed  by  a b
 
 ##### Article 79
 
-The fundamentals of the preschool program, the curricula and syllabi of the elementary and secondary general and arts education, part of the curriculum and syllabus for the general education school subjects in secondary vocational education and education of adults and the basis of the pedagogical program, shall be adopted by the National Education Council at the proposal of the minister.
+The fundamentals of the preschool program, the curricula and syllabi of the elementary and secondary general and arts education, part of the
 
 70
 
@@ -2106,7 +2120,9 @@ The fundamentals of the preschool program, the curricula and syllabi of the elem
 
 [[START OF PAGE 71]]
 
-The  curriculum  and  syllabus  of  the  elementary  school  education  of adults shall be adopted by the Council for Vocational Training and Education of  Adults,  at  the  proposal  of  the  minister  and  following  the  receipt  of  the opinion of the National Education Council.
+curriculum and syllabus for the general education school subjects in secondary vocational education and education of adults and the basis of the pedagogical program, shall be adopted by the National Education Council at the proposal of the minister.
+
+The curriculum and syllabus of the elementary school education of adults shall be adopted by the Council for Vocational Training and Education of Adults, at the proposal of the minister and following the receipt of the opinion of the National Education Council.
 
 The  portion  of  the  curriculum  and  syllabus  of  secondary  vocational education  and  education  of  adults,  shall  be  adopted  by  the  minister  at  the proposal of the Council for Vocational Training and Education of Adults.
 
@@ -2162,13 +2178,15 @@ After  a  student  has  successfully  passed  the  final  exam  he/she  shall  b
 
 After  a  student  has  successfully  passed  the  final  exam  he/she  shall  be entitled to enroll into a secondary  school  without  having  to sit for a classification exam other than the entrance exam testing exceptional abilities, I the manner and according to the procedure prescribed by the pertaining law.
 
-The  minister  shall  prescribe  the  program  of  the  final  exam  in  the elementary school education at the proposal of National Educational Council and the form of the public document as stated in paragraphs 3 and 4 of this Article.
+The minister shall prescribe the program of the final exam in the elementary school education at the proposal of National Educational Council
 
 72
 
 [[END OF PAGE 72]]
 
 [[START OF PAGE 73]]
+
+and the form of the public document as stated in paragraphs 3 and 4 of this Article.
 
 #### General Matriculation Exam
 
@@ -2218,7 +2236,7 @@ After successfully mastering the program of specialist or artisan education,  an
 
 A developmentally impaired or disabled student or adult shall sit for he exams as stated in paragraphs 1 and 2 of this Article adapted to his/her motoric and sensory abilities or to the conditions dictated by a certain type of disability, but  he/she  may  also  not  be  obliged  to  sit  for  a  part  of  the  exam  in  those subjects  for  which  achievement  standards  have  been  adapted  for  him/her during his/her education.
 
-The program of the final exam and programs of specialist and master-ofthe  craft  exam  shall  be  adopted  by  the  minister  at  the  proposal  of  the Vocational Education and Education of Adults Council.
+The program of the final exam and programs of specialist and master-of-the craft exam shall be adopted by the minister at the proposal of the Vocational Education and Education of Adults Council.
 
 74
 
@@ -2922,7 +2940,7 @@ Pedagogical work and activities in a boarding school shall be performed by a ped
 
 Expert and professional activities aimed at improving the education and pedagogical work and activities in a preschool institution shall be performed by a  pedagogue,  psychologist  and  other  professionals,  in  accordance  with  the governing law.
 
-Expert  and  professional  activities  in  a  school  shall  be  performed  by experts such as the psychologist, pedagogue and librarian, in a music school psychologist, pedagogue and music school librarian while in an institution for the education of adults these activities shall be performed by an andragogue, psychologist and librarian.
+Expert and professional activities in a school shall be performed by experts such as the psychologist, pedagogue and librarian, in a music school – psychologist, pedagogue and music school librarian while in an institution for the education of adults these activities shall be performed by an andragogue, psychologist and librarian.
 
 Depending  on  the  needs  of  the  school  and  the  curriculum  taught, additional  assistance  and  support  may  be  provided  by  a  social  worker, defectologist, speech therapist and andragogue.
 
@@ -2934,7 +2952,7 @@ A preschool institution may have associates such as nutritionist, social worker 
 
 For  the  purpose  of  delivering  education  and  pedagogical  activities through  specialized  programs,  a  preschool  institution  may  outsource  other associates as well, in line with the governing law.
 
-Pedagogue  assistant  shall  extend  assistance  and  additional  support  to children  and  students  in  keeping  with  their  needs,  but  also  to  teachers, preschool teachers and psychologists/pedagogues for the purpose of improving their  performance  when  working  with  children  and  students  in  need  of additional education support. While performing his/her activities he/she shall establish cooperation with parents or caregivers, while at the same time he/she shall cooperate with the managing director so as to establish cooperation with competent institutions, organizations, associations and the local selfgovernment unit.
+Pedagogue assistant shall extend assistance and additional support to children and students in keeping with their needs, but also to teachers, preschool teachers and psychologists/pedagogues for the purpose of improving their performance when working with children and students in need of additional education support. While performing his/her activities he/she shall establish cooperation with parents or caregivers, while at the same time he/she shall cooperate with the managing director so as to establish cooperation with competent institutions, organizations, associations and the local self-government unit.
 
 98
 
@@ -3094,13 +3112,15 @@ An  intern  who  successfully  completes  the  work  induction  program  for  a 
 
 The employment of an intern working on permanent basis, who has not passed the  license  exam  within  a  period  of  two  years  from  the  inception  of  employment, shall  be  terminated.  An  intern  working  on  temporary  basis  shall  cease  to  have  the status  of  an  intern  once  he/she  has  passed  the  license  exam  while  the  employment shall be terminated upon the expiry of the employment period.
 
-The minister shall prescribe the mentor training program, the work induction program of teachers, preschool teachers and psychologist/pedagogue which includes training for working with children and students with developmental disabilities and belonging to vulnerable social groups, manner and procedure for testing the level of mastering that program, the licensing and re-licensing programs, manner of taking the exam as well as the language in which the exam is taken, examination fees and the composition  and  manner  of  operation  of  the  commission  of  the  Ministry,  or  a competent body of an autonomous province  present at the license examination.
+The minister shall prescribe the mentor training program, the work induction program of teachers, preschool teachers and psychologist/pedagogue which includes training for working with children and students with developmental disabilities and belonging to vulnerable social groups, manner and procedure for testing the level of mastering that program, the licensing and re-licensing programs, manner of taking the
 
 104
 
 [[END OF PAGE 104]]
 
 [[START OF PAGE 105]]
+
+exam as well as the language in which the exam is taken, examination fees and the composition and manner of operation of the commission of the Ministry, or a competent body of an autonomous province present at the license examination.
 
 #### Intern
 
@@ -3174,7 +3194,7 @@ The teacher, preschool teacher or psychologist/pedagogue shall be entitled to fi
 
 The  minister  shall  pass  an  official  decision  on  the  suspension  based  on  the report by the education advisor as stated in paragraphs 5 and 6 of this Article. In the process  of  making  an  official  decision  the  minister  shall  review  the  complaint  as stated in paragraph 7 of this Article.
 
-The minister shall pass an official decision on the suspension within 30 days from the day the complaint has been filed, and if the complaint has not been filed this official decision shall be taken within eight days from the expiry of the deadline for submitting the complaint.
+The minister shall pass an official decision on the suspension within 30 days from the day the complaint has been filed, and if the complaint has not been filed – this official decision shall be taken within eight days from the expiry of the deadline for submitting the complaint.
 
 The minister's decision on license suspension shall be final in the administrative procedure.
 
@@ -3792,13 +3812,15 @@ The  Ministry  shall  determine,  by  issuing  an  official  decision,  subjects
 
 The selection of an advisor shall be done by the minister through an official decision taken on the basis of the job vacancy announcement.
 
-A  teacher, preschool teacher, psychologist/pedagogue, advisor to the institute fulfilling the conditions as stated in Article 152 paragraph 1 items 1) to 4) of this law and a teacher of a university institution fulfilling the conditions as stated in Article  152  paragraph  1  items  1),  3)  and  4)  of  this  law,  may  be  appointed  as  an advisor.
+A teacher, preschool teacher, psychologist/pedagogue, advisor to the institute fulfilling the conditions as stated in Article 152 paragraph 1 items 1) to 4) of this law and a teacher of a university institution fulfilling the conditions as stated in
 
 126
 
 [[END OF PAGE 126]]
 
 [[START OF PAGE 127]]
+
+Article 152 paragraph 1 items 1), 3) and 4) of this law, may be appointed as an advisor.
 
 The advantage under the same conditions shall be given to a candidate who has  acquired  the  title  stipulated  in  Article  129  paragraph  2  of  this  law  or  the  law governing  higher  education  or  who  had  his/her  profession  related  written  works published by international or national magazines or in collection of works which have received  a  review  by  a  professional,  who  has  published  an  approved  textbook, handbook or other teaching tool.
 
@@ -4003,11 +4025,11 @@ A managing director of an institution shall also be fined in the amount ranging 
 
 ##### Article 166
 
-Activities as stated in Article 29 paragraphs 5 to 8, Article 31 paragraph 2,  Article  32  paragraph  4;  Article  33  paragraph  6,  Article  34  paragraph  3, Article 35 paragraphs 2 and paragraphs  4 to 8, Article 36 paragraph 2, Article 54 paragraph 7, Article 55 paragraphs 5 and 6, Article 56 paragraph 1,, Article 59 (work and activities pertaining to the exam for the managing director of an institution  or  principal),  Article  60  paragraphs  6,  7,  10  and  11,  Article  61 paragraph 2, Article 62 paragraph 2, Article 63 paragraphs 6 to 8, Article 68 (work and activities pertaining to the exam for the secretary of an institution), Article 79 paragraph 4, Article 88 paragraphs 5 and 6, Article 90 paragraphs 2 and  3,  Article  91  paragraph  5,  Article  111,  Article  123  (work  and  activities pertaining to the license exam), Article 146 paragraphs 4 and 5 and Article 149 of this law shall be designated to an autonomous province.
+Activities as stated in Article 29 paragraphs 5 to 8, Article 31 paragraph 2,  Article  32  paragraph  4;  Article  33  paragraph  6,  Article  34  paragraph  3, Article 35 paragraphs 2 and paragraphs  4 to 8, Article 36 paragraph 2, Article 54 paragraph 7, Article 55 paragraphs 5 and 6, Article 56 paragraph 11, Article 59 (work and activities pertaining to the exam for the managing director of an institution  or  principal),  Article  60  paragraphs  6,  7,  10  and  11,  Article  61 paragraph 2, Article 62 paragraph 2, Article 63 paragraphs 6 to 8, Article 68 (work and activities pertaining to the exam for the secretary of an institution), Article 79 paragraph 4, Article 88 paragraphs 5 and 6, Article 90 paragraphs 2 and  3,  Article  91  paragraph  5,  Article  111,  Article  123  (work  and  activities pertaining to the license exam), Article 146 paragraphs 4 and 5 and Article 149 of this law shall be designated to an autonomous province.
 
 The funds for financing the institutions at the territory of an autonomous province shall be provided pursuant to the law.
 
-The work and activities of institutes as stated in Article 19 paragraph 1 items  20  and  5),  Article  20  paragraph  1  items  120  and  13),  Article  21 paragraph  1  items  2),  3)  and  4),  Article  22  of  this  law,  pertaining  to  the educational  and  pedagogical  work  and  activities  delivered  in  languages  of national minorities, shall be designated to the Vojvodina Pedagogical Institute.
+The work and activities of institutes as stated in Article 19 paragraph 1 items  2)  and  5),  Article  20  paragraph  1  items  12)  and  13),  Article  21 paragraph  1  items  2),  3)  and  4),  Article  22  of  this  law,  pertaining  to  the educational  and  pedagogical  work  and  activities  delivered  in  languages  of national minorities, shall be designated to the Vojvodina Pedagogical Institute.
 
 The  provincial  authorities  shall  cooperate  with  the  authorities  of  the Republic  of  Serbia  and  local  self  government  unit  authorities  in  performing activities as stated in paragraph 1 of this Article.
 
@@ -4163,7 +4185,7 @@ An intern who has been hired by an institution after 25 June 2003 and who  has  
 
 The day this law comes into force the following provisions shall cease to be effective:
 
-- Articles 2 and 21 paragraph 3, Articles 43, 46, 52, 54, 63, 65, 66, 88, Article 92 paragraph 3, Article 96 paragraphs 2 and 5 and Article 105  paragraph  2  of  The  Law  on Elementary  School  ('Official  Gazette  of  the  Republic  of Serbia' no. 50/92, 53/93 - st. law, 67/93 - st. law, 48/94 st.  law, 66/94 - st. law, 22/02, 62/03 - st. law, 64/03 - st. law and 101/05 - st. law);
+- Articles 2 and 21 paragraph 3, Articles 43, 46, 52, 54, 63, 65, 66, 88, Article 92 paragraph 3, Article 96 paragraphs 2 and 5 and Article 105  paragraph  2  of  The  Law  on Elementary  School  ('Official  Gazette  of  the  Republic  of Serbia' no. 50/92, 53/93 - st. law, 67/93 - st. law, 48/94 - st.  law, 66/94 - st. law, 22/02, 62/03 - st. law, 64/03 - st. law and 101/05 - st. law);
 
 - Articles 2 and 26 paragraph 3, Article 48, paragraphs 8 and 10,  Articles  62  to  66  of  the  Law  on  Secondary  School ('Official  Gazette  of  the  Republic  of  Serbia'  no.  50/92, 53/93 - st. law, 67/93 - st. law, 48/94 - st. law, 24/96, 23/02, 25/02  -  correction,  62/03  -  st.  law,  64/03  -  st.  law  and 101/05 - st. law).
 
@@ -4175,7 +4197,7 @@ The provisions of Articles 83 to 84 and Article 85 paragraphs 1 and 2, except  f
 
 [[START OF PAGE 139]]
 
-The  Law  on  the  Fundamentals  of  the  Education  System  ('Official Gazette of the Republic Serbia', No. 62/03, 64/03 - correction, 58/04, 62/04 correction, 79/05 - st. law and 101/05 - st. law) shall cease to be applicable on the day this law becomes effective.
+The  Law  on  the  Fundamentals  of  the  Education  System  ('Official Gazette of the Republic Serbia', No. 62/03, 64/03 - correction, 58/04, 62/04 - correction, 79/05 - st. law and 101/05 - st. law) shall cease to be applicable on the day this law becomes effective.
 
 ##### Article 185
 
