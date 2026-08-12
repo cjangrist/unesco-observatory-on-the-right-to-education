@@ -1,6 +1,14 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+THE REPUBLIC OF MONTENEGRO
+THE GOVERNMENT OF THE REPUBLIC OF MONTENEGRO
+THE MINISTRY OF EDUCATION AND SCIENCE
+
+THE STRATEGIC PLAN
+OF EDUCATION
+REFORM
+FOR THE PERIOD OF
+2003-2004
 
 [[END OF PAGE 1]]
 
@@ -8,6 +16,27 @@
 
 # Contents
 
+Introduction............................................................................................................. 3
+Reorganization of MES of RM.................................................................................. 5
+The creation of Bylaws ............................................................................................. 9
+The Founding of the Councils for Education .......................................................... 13
+The providing of space and technical conditions for the work of the Bureau for Education Services, the Center for Vocational Education and the Examination Center of Montenegro............................................................................................. 17
+The Establishing of the Bureau for Education Services ......................................... 23
+The Establishing of the Center for Vocational Education....................................... 27
+The Establishing of the Examination Center of Montenegro (ECM) ...................... 31
+Media campaign for the education reform.............................................................. 35
+Rationalization of school network........................................................................... 39
+The selection of the institutions for the commencement of education reform........ 43
+The introduction of ICT in education system of Montenegro.................................. 47
+Renovation of curricula for pre-university education .............................................. 55
+The writing of textbooks for the reformed schools in Montenegro ......................... 61
+The founding of the Inspectorate of the Republic of Montenegro .......................... 67
+Annexes................................................................................................................. 68
+The Ministry of Education and Science of the Republic of Montenegro Organization Chart ....................................................................................................................... 69
+»Model Center for Vocational Education and the Preconditions for Its Functioning« 73
+»Model Bureau for Education Services and the Preconditions for Its Functioning« 73
+»Model Examination Center of Montenegro and the Preconditions for Its Functioning« ......................................................................................................... 105
+Summary: Tasks, deadlines and projected budget .............................................. 117
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -36,7 +65,7 @@ Regarding the fact that reform is always a process in which the timing of work i
 
 In addition to that and bearing in mind the very difficult economic situation, this  document,  at  the  same  time,  represents  an  attempt  by  the  Ministry  of Education and Science to further guide activities and to decide on priorities in the best  possible  manner  through  communication  with  donors,  the  financial  support and expertise of whom has significantly helped the implementation of a greatest number of reform tasks up to now.
 
-The  approach  of  comprehensiveness,  adopted  at  the  very  beginning  of education  reform  process  in  Montenegro,  has  shown  itself  as  one  of  the  most positive  points  of  the  reform  to  date.  At  the  same  time,  it  entails  considerably complex work following the need 'to act in several directions' within such a multiple system The document is composed of the Chapters - Tasks with specified time limits for their fulfillment and reference numbers, for the sake of clarity.
+The approach of comprehensiveness, adopted at the very beginning of education reform process in Montenegro, has shown itself as one of the most positive points of the reform to date. At the same time, it entails considerably complex work following the need “to act in several directions” within such a multiple system
 
 Ministry of Education and Science Montenegro
 
@@ -48,21 +77,23 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
+The document is composed of the Chapters – Tasks with specified time limits for their fulfillment and reference numbers, for the sake of clarity.
+
 To that end, each of the presented tasks contains the following Chapters:
 
-- Rationale;
+1. Rationale;
 
-- Assumptions, limitations and risks;
+2. Assumptions, limitations and risks;
 
-- Aims;
+3. Aims;
 
-- The tasks having deadlines; and
+4. The tasks having deadlines; and
 
-- Planned budget.
+5. Planned budget.
 
 We hope the reading of  this  Document  will  give  a  clearer  picture  of  the education system reform in Montenegro, and will useful for the effective conveyance and guidance of reform process.
 
-This  document  has  been  made  by  Ivana  Petri č evi ć and  Slobodan Backovi ć ,  PhD. Task No. 5 in this document has been made by Željko Rai č evi ć , Task No. 11 has been made by Perko Vukoti ć ,  PhD and Task No. 12 has been made by Nataša Živkovi ć .
+This document has been made by Ivana Petričević and Slobodan Backović, PhD. Task No. 5 in this document has been made by Željko Raičević, Task No. 11 has been made by Perko Vukotić, PhD and Task No. 12 has been made by Nataša Živković.
 
 »It's high time!«
 
@@ -143,51 +174,37 @@ General aim is the improvement of the systematization and the capacity of the ME
 
 ### Tasks:
 
-- 1.1 The re-systematization of work posts and job descriptions of jobs for all  employees  in  MES  RM,  in  line  with  the  scheme  planned  in  'The Book of Changes' (see Annex 1);
+1.1 The re-systematization of work posts and job descriptions of jobs for all employees in MES RM, in line with the scheme planned in “The Book of Changes” (see Annex 1);
 
-- 1.2 The establishment of the Minister's Cabinet * and the Department for International  Cooperation,  through  public  announcement  that  will require the active knowledge of the English Language and computer literacy;
+Deadline: 15th April 2003
 
-- 1.3 training needs assessment of the employees of the MES RM;
+1.2 The establishment of the Minister’s Cabinet* and the Department for International Cooperation, through public announcement that will require the active knowledge of the English Language and computer literacy;
 
-- 1.4 the  creation  of  the  training  program  for  the  employees  of  the  MES RM;
+Deadline: 15th May 2003
 
-- 1.5 the delivery of the training for the employees in MES, in:
+1.3 training needs assessment of the employees of the MES RM;
 
-- computer science,
+Deadline: 01st May 2003
 
-- the English Language;
+1.4 the creation of the training program for the employees of the MES RM;
 
-- 1.6 the delivery of additional training of the employees in MES RM, based on need assessment and program referred to in item 1.4;
+Deadline: 15th May 2003
 
-- 1.7 the supplying of necessary equipment for the employees of the MES RM;
+1.5 the delivery of the training for the employees in MES, in:
 
-Deadline:
+a. computer science,
 
-15 th April 2003
+b. the English Language;
 
-Deadline:
+Deadline: 15th July 2003
 
-15 th May 2003
+1.6 the delivery of additional training of the employees in MES RM, based on need assessment and program referred to in item 1.4;
 
-Deadline:
+Deadline: 30th September 2003
 
-01 st May 2003
+1.7 the supplying of necessary equipment for the employees of the MES RM;
 
-Deadline:
-
-15 th May 2003
-
-Deadline:
-
-15 th July 2003
-
-Deadline :
-
-30 th September 2003
-
-Deadline:
-
-15 th July 2003
+Deadline: 15th July 2003
 
 * Minister will be personally in charge for appointment of people in his Cabinet, considering that it is important for him to appoint the core team he is going to work with
 
@@ -254,7 +271,7 @@ Work Groups of MES RM outlined the bylaws, which are to be created, in the proce
 
 Working  in  the  process  of  the  creation  of  draft  laws  on  education  that pursue the 'framework format', the employees of MES RM have strengthened their professional  capacity  cooperating  with  foreign  experts  (from  Slovenia,  thanks  to OSIM; from Great Britain,  within  the  project  'Technical  Assistance  to  MES  RM', financed by EAR), as well as their knowledge on such an approach in the creation of drafts and bylaws that are necessary.
 
-The number of people currently employed in the Ministry of Education and Science, in its legal department, and doing the jobs dealing with legal issues (12 persons) reflects the positive prerequisite for the completion of tasks, if the need to create 53 bylaws that have been defined in the course of the creation of draft laws are taken into account.
+The number of people currently employed in the Ministry of Education and Science, in its legal department, and doing the jobs dealing with legal issues (12 persons) reflects the positive prerequisite for the completion of tasks, if the need to
 
 Ministry of Education and Science Montenegro
 
@@ -266,7 +283,9 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-In addition to that, it is important to emphasize that the team creating draft laws  and  bylaws  participated  actively  in  the  organization  of,  and  lead,  public discussions  on  the  packet  of  adopted  laws,  which  is  an  exceptionally  important prerequisite taking into consideration the Ministry will pursue this process within the framework  of  the  adoption  of  these  bylaws,  recognizing  the  democratic  process and  the  transparent  features  of  the  process  itself  and  respecting  public  opinion. The  Ministry  will  consult  all  interested  parties  and  incorporate  useful  proposals relating to the improvement of proposals.
+create 53 bylaws that have been defined in the course of the creation of draft laws are taken into account.
+
+In addition to that, it is important to emphasize that the team creating draft laws and bylaws participated actively in the organization of, and lead, public discussions on the packet of adopted laws, which is an exceptionally important prerequisite taking into consideration the Ministry will pursue this process within the framework of the adoption of these bylaws, recognizing the democratic process and the transparent features of the process itself and respecting public opinion. The Ministry will consult all interested parties and incorporate useful proposals relating to the improvement of proposals.
 
 However, it should be clearly highlighted that this has been the first time in 15 years that the creation of draft laws and bylaws has been approached in such a manner, and therefore it is reasonable to anticipate that people employed in the Ministry and being in charge of the creation of draft laws will need the assistance of foreign experts and additional training, in order to achieve high quality in their work.
 
@@ -278,23 +297,17 @@ The  strengthening of the necessary  legislation that will enable the implementa
 
 ### Tasks:
 
-- 2.1 the  finalization  of  the  list  of  bylaws  for  which  the  drafts  should  be created;
+2.1 the finalization of the list of bylaws for which the drafts should be created;
 
-- 2.2 the training of lawyers being employed in the Ministry of Education and Science of the RM, for the creation of bylaws;
+Deadline: 20th January 2003
 
-Deadline:
+2.2 the training of lawyers being employed in the Ministry of Education and Science of the RM, for the creation of bylaws;
 
-20 th January 2003
+Deadline: 01st April 2003
 
-Deadline:
+2.3 the creation of bylaws;
 
-01 st April 2003
-
-Deadline:
-
-01 st September 2003
-
-- 2.3 the creation of bylaws;
+Deadline: 01st September 2003
 
 10
 
@@ -326,7 +339,7 @@ Deadline:
 
 ### Budget:
 
-Item | Projecte d budget
+Item | Projected budget
 --- | --- | ---
 2.1 | Finalization of the list of bylaws for which the drafts should be created | /
 2.2 | Training of lawyers being employed in the MES RM, for the creation of bylaws
@@ -389,7 +402,7 @@ The  membership  of  these  Councils  will  be  achieved  by  Government appoint
 
 The education reform in Montenegro has shown the existence of excellent human resources and, therefore a positive basis for the implementation of this task are the people that have been engaged in the reform process (as well as in the work of the Councils existing at this time), they being the people that understand and appreciate the significant benefits of education reform for our society, and who are ready to be employed in the work of those bodies.
 
-However, the above-mentioned precondition reflects also a certain limitation.  People  having  been  engaged  in  the  reform  process  and  who  have shown  extreme  enthusiasm  and  industriousness  in  their  work  so  far,  face  the situation in which the work in some bodies, significant for the reform because of the numerous functions that were taken over, requires additional effort and for which there  is  no  adequate  payment.  In  this  respect,  there  is  the  risk  that  the  work  of advisory  bodies  will  not  be  undisturbed  unless  the  funds  necessary  for  the functioning of the Council are supplied, regardless of the existing professionalism.
+However, the above-mentioned precondition reflects also a certain limitation. People having been engaged in the reform process and who have shown extreme enthusiasm and industriousness in their work so far, face the situation in which the work in some bodies, significant for the reform because of the
 
 Ministry of Education and Science Montenegro
 
@@ -401,7 +414,9 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-The  starting  point  is  that,  for  the  purpose  of  the  facilitating  of  the execution  of  additional  duties  for  professionals,  the  logistic  support  and  the conditions  of  premises  for  the  Councils'  work  will  be  provided  by  the  newly established  institutions  -  the  Bureau  for  Education  Service  (for  the  work  of  the Council  for  General  Education)  and  the  Center  for  Vocational  Education  (for  the work of the Council for Vocational Education and the work of the Council of Adult Education) - as soon as they have been established and as soon as the space conditions have been fulfilled for the commencement of their activities (see Task No. A-4/5/6).
+numerous functions that were taken over, requires additional effort and for which there is no adequate payment. In this respect, there is the risk that the work of advisory bodies will not be undisturbed unless the funds necessary for the functioning of the Council are supplied, regardless of the existing professionalism.
+
+The starting point is that, for the purpose of the facilitating of the execution of additional duties for professionals, the logistic support and the conditions of premises for the Councils’ work will be provided by the newly established institutions - the Bureau for Education Service (for the work of the Council for General Education) and the Center for Vocational Education (for the work of the Council for Vocational Education and the work of the Council of Adult Education) - as soon as they have been established and as soon as the space conditions have been fulfilled for the commencement of their activities (see Task No. A-4/5/6).
 
 ### Aim:
 
@@ -450,10 +465,10 @@ Item | Projected budget
 3.1 | Proposing of structure and membership | /
 3.2 | Appointments by the Government | /
 3.3 | Creation of the Rules of Procedure (3x) | 300 €
-Fees for Council members for 12 months period
+3.4 | Fees for Council members for 12 months period
 Council for general education - 15 members | 18,000 €
 Council for vocational education - 12 members | 14,400 €
-3.4 | Council for adult education - 9 members | 10,800 €
+Council for adult education - 9 members | 10,800 €
 Running costs necessary for Councils` operation (36 meetings) | 6,000 €
 TOTAL 3.4 | 49,200 €
 TOTAL 3.1 - 3.4 | 49,500 €
@@ -525,17 +540,13 @@ The  providing  of  space  and  technical  requirements  for  the  work  of  the
 
 ### Tasks:
 
-- A-4/5/6. 1 the getting of the corresponding land for the construction of buildings;
+A-4/5/6.1 the getting of the corresponding land for the construction of buildings;
 
-- A-4/5/6.2 the obtaining of approval by the Assembly of the Municipality for the construction;
+Deadline: 03rd June 2003
 
-Deadline:
+A-4/5/6.2 the obtaining of approval by the Assembly of the Municipality for the construction;
 
-03 rd June 2003
-
-Deadline:
-
-03 rd June 2003
+Deadline: 03rd June 2003
 
 18
 
@@ -547,21 +558,45 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-A-4/5/6.3 | the invitation for open bid for the conceptual design of the two facilities;
---- | ---
-A-4/5/6.4 | the elaboration of conceptual solutions for the two buildings in line with the bill of quantities stated in Annex 2;
-A-4/5/6.5 | the adoption of conceptual solutions for the construction of buildings, by the Commission, and the paying of copyrights;
-A-4/5/6.6 | the creation of construction projects;
-A-4/5/6.7 | the creation of the projects for the equipment of buildings;
-A-4/5/6.8 | the invitation to tender and to the selection of the company for the construction of buildings, according to the designed projects;
-A-4/5/6.9 | the construction of buildings according to the adopted projects;
-A-4/5/6.10 | the Inspection's technical approval of the buildings;
-A-4/5/6.11 | the invitation to tender for the equipping of newly constructed buildings by the furniture, in line with item A-4/5/6.7;
-A-4/5/6.12 | the selection of most favorable offer for the equipping of newly constructed buildings by necessary furniture and the commencement of the procedure for the supplying of furniture;
+A-4/5/6.3 the invitation for open bid for the conceptual design of the two facilities;
 
-Deadline:
+Deadline: 01st July 2003
 
-15 th November 2004
+A-4/5/6.4 the elaboration of conceptual solutions for the two buildings in line with the bill of quantities stated in Annex 2;
+
+Deadline: 01st August 2003
+
+A-4/5/6.5 the adoption of conceptual solutions for the construction of buildings, by the Commission, and the paying of copyrights;
+
+Deadline: 30h August 2003
+
+A-4/5/6.6 the creation of construction projects;
+
+Deadline: 30th November 2003
+
+A-4/5/6.7 the creation of the projects for the equipment of buildings;
+
+Deadline: 01st January 2004
+
+A-4/5/6.8 the invitation to tender and to the selection of the company for the construction of buildings, according to the designed projects;
+
+Deadline: 31st December 2003
+
+A-4/5/6.9 the construction of buildings according to the adopted projects;
+
+Deadline: 31st November 2004
+
+A-4/5/6.10 the Inspection’s technical approval of the buildings;
+
+Deadline: 31st December 2004
+
+A-4/5/6.11 the invitation to tender for the equipping of newly constructed buildings by the furniture, in line with item A-4/5/6.7;
+
+Deadline: 01st October 2004
+
+A-4/5/6.12 the selection of most favorable offer for the equipping of newly constructed buildings by necessary furniture and the commencement of the procedure for the supplying of furniture;
+
+Deadline: 15th November 2004
 
 Ministry of Education and Science Montenegro
 
@@ -573,37 +608,21 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-- A-4/5/6.13
+A-4/5/6.13 the invitation to tender for the equipping of newly constructed buildings by necessary technical equipment, in line with item A-4/5.7 (see Annex 3, The Proposal of the technical equipment for the Bureau for Education Services);
 
-- the invitation to tender for the equipping of newly constructed buildings by necessary technical equipment, in line with item A-4/5.7 (see Annex 3, The Proposal of the technical equipment
+Deadline: 01st October 2004
 
-for the Bureau for Education Services);
+A-4/5/6.14 the selection of most favorable offer for the equipping of newly constructed buildings by the necessary technical equipment, and the commencement of the procedure for the supplying of technical equipment;
 
-Deadline:
+Deadline: 15th November 2004
 
-01 st October 2004
+A-4/5/6.15 the supplying of newly constructed buildings by necessary furniture;
 
-A-4/5/6.14 the  selection  of  most  favorable  offer  for  the  equipping  of technical equipment, and the commencement of the procedure for the
+Deadline: 01st February 2005
 
-newly constructed buildings by the necessary supplying of technical equipment;
+A-4/5/6.16 the supplying of newly constructed buildings by the necessary technical equipment;
 
-Deadline:
-
-15 th November 2004
-
-A-4/5/6.15 the  supplying  of  newly  constructed  buildings  by  necessary furniture;
-
-Deadline:
-
-01 st February 2005
-
-A-4/5/6.16 the supplying of newly constructed buildings by necessary technical equipment;
-
-the
-
-Deadline:
-
-01 st February 2005
+Deadline: 01st February 2005
 
 20
 
@@ -631,7 +650,7 @@ A-4/5/6.9 | Construction of buildings according to the adopted projects | 3.438,
 A-4/5/6.10 | Inspection's technical approval of the buildings | 1,000 €
 A-4/5/6.11 | Invitation to tender for the equipping of newly constructed buildings by the furniture | 1,000 €
 A-4/5/6.12 | Selection of most favorable offer for the equipping of newly constructed buildings by necessary furniture and the commencement of the procedure for the supplying of furniture | /
-A-4/5/6.13 | Invitation to tender for the equipping of newly constructed buildings by necessary technical equipment | 1,000 €
+A-4/5/6.13 | Invitation to tender for the equipping of newly constructed buildings by necessary technical equipment | 1.000 €
 
 Ministry of Education and Science Montenegro
 
@@ -727,35 +746,35 @@ Strategic Plan of Education Reform
 
 - 4.2 the creating of the systematization of work posts, and job descriptions for the employees in the Bureau for Education Services;
 
-- 4.3 the passing of the decision of the Government on the establishing of the Bureau;
-
-- 4.4 the publishing of vacancy announcement for the posts in the Bureau for Education Services;
-
-- 4.5 technical  and  organizational  preparatory  work  (see  the  Task  No.  A4/5/6)
-
-- 4.6 the employment of persons that will work in the Bureau for Education Services  and  that  have  fulfill  the  requirements  stated  in  the  job descriptions;
-
-- 4.7 The  commencement  of  the  organizational  units  of  the  Bureau  for Education  Services  (see  Annex  4  of  the  'Model  of  the  Bureau  for Education Services and the Preconditions for Its Functioning');
-
 Deadline:
 
 19 th March 2003
+
+- 4.3 the passing of the decision of the Government on the establishing of the Bureau;
 
 Deadline:
 
 06 th March 2003
 
+- 4.4 the publishing of vacancy announcement for the posts in the Bureau for Education Services;
+
 Deadline:
 
 20 th March 2003
+
+- 4.5 technical and organizational preparatory work (see the Task No. A-4/5/6)
 
 Deadline:
 
 see task No. A-4/5/6
 
+- 4.6 the employment of persons that will work in the Bureau for Education Services and that have fulfill the requirements stated in the job descriptions;
+
 Deadline:
 
 21 st April 2003
+
+- 4.7 The commencement of the organizational units of the Bureau for Education Services (see Annex 4 of the 'Model of the Bureau for Education Services and the Preconditions for Its Functioning');
 
 Deadline:
 
@@ -813,7 +832,7 @@ As for adult education, this issue has not been dealt with in any planned and  o
 
 The  nonexistence  of  a)  the  established  standards  of  professions,  b)  a curriculum  designed  to  meet  the  professional  standards  that  are  in  effect  in European  countries,  c)  the  continuing  advanced  training  of  teachers,  d)  the existence of modern teaching aids for the training of students, are the reality of the current state of vocational education.
 
-It  is  achievable to bring together the research, development and advisory components in this segment of education by the establishment of the Center for Vocational  Education  (that  covers  the  areas  of  vocational  and  adult  education). The basic activities  would  be:  a)  the  preparation  of  the  curriculum  for  vocational education, together with knowledge and exam catalogues; b) the proposing of the occupational standards that would be adjusted to the needs of the labor market, at the  suggestion  of  employers;  c)  permanent  work  in  the  area  of  the  in  service training of teachers; d) the definition of standards for the furnishing of vocational schools, and so on.
+It is achievable to bring together the research, development and advisory components in this segment of education by the establishment of the Center for Vocational Education (that covers the areas of vocational and adult education). The basic activities would be: a) the preparation of the curriculum for vocational education, together with knowledge and exam catalogues; b) the proposing of the occupational standards that would be adjusted to the needs of the labor market, at the suggestion of employers; c) permanent work in the area of the in service
 
 Ministry of Education and Science Montenegro
 
@@ -824,6 +843,8 @@ Ministry of Education and Science Montenegro
 [[START OF PAGE 29]]
 
 Strategic Plan of Education Reform
+
+training of teachers; d) the definition of standards for the furnishing of vocational schools, and so on.
 
 ### Assumptions, risks and limitations:
 
@@ -853,47 +874,47 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-- of the structures and the functions stated in Annex 5 - 'Model Center for Vocational Education and the Preconditions for Its Functioning');
-
-- 5.2 the  elaboration  of  the  systematization  of  work  posts,  and  the  job descriptions for the employees in the Center for Vocational Education;
-
-- 5.3 the  establishing  of  the  Center  by  the  Government  and  the  social partners;
-
-- 5.4 the publishing of vacancy announcement for the posts in the Center for Vocational Education;
-
-- 5.5 the creation of the Center for Vocational Education's By-laws;
-
-- 5.6 technical and organizational preparations (see the Task No. A-4/5/6);
-
-- 5.7 the employment of persons who will work in the Center for Vocational Education and who meet the requirements stated in job descriptions;
-
-- 5.8 the commencement of the Center for Vocational Education's organizational  units  work  (see  Annex  5  -'Model  of  the  Center  for Vocational Education and the Preconditions for Its Functioning');
+of the structures and the functions stated in Annex 5 - 'Model Center for Vocational Education and the Preconditions for Its Functioning');
 
 Deadline:
 
 03 rd March 2003
 
+- 5.2 the elaboration of the systematization of work posts, and the job descriptions for the employees in the Center for Vocational Education;
+
 Deadline:
 
 19 th March 2003
+
+- 5.3 the establishing of the Center by the Government and the social partners;
 
 Deadline:
 
 06 th March 2003
 
+- 5.4 the publishing of vacancy announcement for the posts in the Center for Vocational Education;
+
 Deadline:
 
 20 th March 2003
+
+- 5.5 the creation of the Center for Vocational Education's By-laws;
 
 Deadline:
 
 06 th April 2003
 
+- 5.6 technical and organizational preparations (see the Task No. A-4/5/6);
+
 Deadline: see Task No. A-4/5/6
 
-Deadline: April 2003
+- 5.7 the employment of persons who will work in the Center for Vocational Education and who meet the requirements stated in job descriptions;
 
-21 st
+Deadline:
+
+21 st April 2003
+
+- 5.8 the commencement of the Center for Vocational Education's organizational units work (see Annex 5 -'Model of the Center for Vocational Education and the Preconditions for Its Functioning');
 
 Deadline:
 
@@ -946,7 +967,7 @@ The  concept  of  the  new  education  system  of  Montenegro  foresees  the int
 
 The important segments of quality are the achieved knowledge, skills and capabilities of students and apprentices in education. Therefore, the standards for the  achieving  of  knowledge,  skills  and  competencies,  the  internal  and  external assessment of knowledge, the school leaving exams of an external character, as well as, the system for the certification of knowledge will be introduced.
 
-For that reason, the founding of a separate unit - the Examination Center of Montenegro (it has been foreseen, in 'The Book of Changes' and in the law, that this Center is to be an organizational unit of the Bureau for Education Services) the task of which the carrying out of the external assessment of the achievements of the standards of knowledge, skills and competencies at any level of education in Montenegro (up to the University level).
+For that reason, the founding of a separate unit - the Examination Center of Montenegro (it has been foreseen, in 'The Book of Changes' and in the law, that this Center is to be an organizational unit of the Bureau for Education Services) - the task of which the carrying out of the external assessment of the achievements of the standards of knowledge, skills and competencies at any level of education in Montenegro (up to the University level).
 
 The tasks of ECM are as follows: a) the preparation, organization and the execution  of  exams;  b)  the  education  and  training  for  external  exams;  c)  the advisory and organizational services in particular fields of external assessment of knowledge  in  foreign  institutions; d) vocational, technical  and  administrative support to the state exam commissions; e) research and development  in the fields of external assessment of knowledge; f) international participation and incorporation into the international certification systems.
 
@@ -978,13 +999,13 @@ The establishing of the Examination Center of Montenegro as an institution, whic
 
 ### Tasks:
 
-- 6.1 the  proposing  of  the  structure  and  the  functions  of  departments within the Examination Center of Montenegro;
-
-- 6.2 the  creating  of  the  systematization  of  work  posts,  and  the  job descriptions for the employees in the Examination Center of Montenegro;
+- 6.1 the proposing of the structure and the functions of departments within the Examination Center of Montenegro;
 
 Deadline:
 
 03 rd June 2003
+
+- 6.2 the creating of the systematization of work posts, and the job descriptions for the employees in the Examination Center of Montenegro;
 
 Deadline:
 
@@ -1002,33 +1023,35 @@ Strategic Plan of Education Reform
 
 - 6.3 the creating of documents on the internal organization of work posts in the Examination Center of Montenegro;
 
-- 6.4 the  publishing  of  the  vacancy  announcement  for  the  posts  in  the Examination Center of Montenegro;
-
-- 6.5 the  technical  and  organizational  preparations  (see  the  Task  No.  A4/5/6);
-
-- 6.6 the  employment  of  the  persons  who  will  work  in  the  Examination Center of Montenegro;
-
-- 6.7 training needs assessment and the organization of specialized study visits for the needs of the Examination Center of Montenegro;
-
-- 6.8 the  realization  of  the  defined  tasks  of  the  Examination  Center  of Montenegro;
-
 Deadline:
 
 06 th July 2003
 
-Deadline: 02 nd October 2003
+- 6.4 the publishing of the vacancy announcement for the posts in the Examination Center of Montenegro;
+
+Deadline:
+
+02 nd October 2003
+
+- 6.5 the technical and organizational preparations (see the Task No. A-4/5/6);
 
 Deadline:
 
 see Task No. A-4/5/6
 
+- 6.6 the employment of the persons who will work in the Examination Center of Montenegro;
+
 Deadline:
 
 02 nd November 2003
 
+- 6.7 training needs assessment and the organization of specialized study visits for the needs of the Examination Center of Montenegro;
+
 Deadline:
 
 01 st January 2004
+
+- 6.8 the realization of the defined tasks of the Examination Center of Montenegro;
 
 Deadline:
 
@@ -1087,7 +1110,7 @@ Understanding the important influence of the media on public information relatin
 
 Consequently, the MES RM plans to open a new post within its projected organizational unit - The Minister's Cabinet - and the basic task of that post will be public relations. Therefore, the assumption is that the person chosen for this post will execute the coordination and the leading of the campaign.
 
-The donors, who have been supporting Montenegro for a long period of time  (OSIM,  UNICEF,  EAR),  have  shown  great  understanding  for  this  type  of interaction with the public, and they have expressed their readiness to financially support the activities of the MES oriented toward the reform.
+The donors, who have been supporting Montenegro for a long period of time (OSIM, UNICEF, EAR), have shown great understanding for this type of
 
 Ministry of Education and Science Montenegro
 
@@ -1098,6 +1121,8 @@ Ministry of Education and Science Montenegro
 [[START OF PAGE 37]]
 
 Strategic Plan of Education Reform
+
+interaction with the public, and they have expressed their readiness to financially support the activities of the MES oriented toward the reform.
 
 ### Aim:
 
@@ -1211,7 +1236,7 @@ The rationalization of the school network is the necessary in the situation in w
 
 The limitations within such defined task relate to the issues of the closing of  some  existing  schools.  This  unavoidably  leads  to  the  obligation  to  solve  the problems of unemployed workers. This could be solved through re-qualification as well as through searching for new posts in the schools to which their ex- pupils will be transferred.
 
-The issue of the closing of some schools may have positive and practical implications, if this is observed from the point of view of the local community within which  the  larger  number  of  schools  exists.  Taking  into  account  Montenegrin children will be allowed  the legally prescribed right to have primary education, the Ministry of Education and Science, in cooperation with the local community, plans to provide transport for all pupils of those schools, at the same time enabling the employment of drivers. Simultaneously, the local community could use the vehicles every day during the hours when not needed to transport pupils.
+The issue of the closing of some schools may have positive and practical implications, if this is observed from the point of view of the local community within which the larger number of schools exists. Taking into account Montenegrin
 
 Ministry of Education and Science Montenegro
 
@@ -1222,6 +1247,8 @@ Ministry of Education and Science Montenegro
 [[START OF PAGE 41]]
 
 Strategic Plan of Education Reform
+
+children will be allowed the legally prescribed right to have primary education, the Ministry of Education and Science, in cooperation with the local community, plans to provide transport for all pupils of those schools, at the same time enabling the employment of drivers. Simultaneously, the local community could use the vehicles every day during the hours when not needed to transport pupils.
 
 In addition to that, the existence of the vehicles would make possible the performance of various extra activities that would be organized for pupils, as well as additional investment in the equipment and in teaching aids for schools in which pupils will attend the teaching process.
 
@@ -1235,25 +1262,25 @@ The founding of an economic network of education institutions, corresponding to 
 
 - 8.1 development of financial estimation of rationality of existing school network by the financial calculations on the basis of data on:
 
-- the current expenses of schools,
+a. the current expenses of schools,
 
-- demography ,
+b. demography ,
 
-- the specificities of regions,
+c. the specificities of regions,
 
-- the distances between schools;
-
-- 8.2 the defining of standards - »rationalization formulas« for the school network;
-
-- 8.3 the  proposing  of  the  school  network  to  the  Government  of  the Republic of Montenegro for the adoption;
+d. the distances between schools;
 
 Deadline:
 
 01 st June 2003
 
-Deadline :
+- 8.2 the defining of standards - »rationalization formulas« for the school network;
+
+Deadline:
 
 06 th October 2003
+
+- 8.3 the proposing of the school network to the Government of the Republic of Montenegro for the adoption;
 
 Deadline:
 
@@ -1285,7 +1312,7 @@ Deadline:
 
 Deadline:
 
-01 st , September 2004
+01 st, September 2004
 
 ### Budget:
 
@@ -1362,25 +1389,25 @@ The shaping and the conduct of a transparent process of the selection of schools
 
 ### Tasks:
 
-- 9.1 the  founding  of  the  Commission  for  the  selection  of  education institutions;
-
-- 9.2 the defining of standards for space, technical and human capacities;
-
-- 9.3 the  creation  of  questionnaires  for  the  gathering  of  data  on  existing situations in the institutions;
-
-- 9.4 the distribution of questionnaires to education institutions;
+- 9.1 the founding of the Commission for the selection of education institutions;
 
 Deadline:
 
 03 rd April 2003
 
+- 9.2 the defining of standards for space, technical and human capacities;
+
 Deadline:
 
 01 st June 2003
 
+- 9.3 the creation of questionnaires for the gathering of data on existing situations in the institutions;
+
 Deadline:
 
 12 th June 2003
+
+- 9.4 the distribution of questionnaires to education institutions;
 
 Deadline:
 
@@ -1398,17 +1425,17 @@ Strategic Plan of Education Reform
 
 - 9.5 the gathering of completed questionnaires;
 
-- 9.7 the selection of education institutions for the commencement of the reform;
+Deadline:
+
+04 th September 2003
 
 - 9.6 data processing and the input of data;
 
 Deadline:
 
-04 th September 2003
-
-Deadline:
-
 01 st November 2003
+
+- 9.7 the selection of education institutions for the commencement of the reform;
 
 Deadline:
 
@@ -1472,7 +1499,7 @@ The administering of the education system is old fashioned and inadequate and  i
 
 ### Assumptions, risks and limitations:
 
-Certain  standards  of  ICT  and  the  EU  have  not  been  introduced  in  our education system, which at the moment is the main problem that has to be solved within  the  framework  of  education  system  reform.  The  curricula  have  not  been based  around  information  technology,  and  therefore  they  have  not  influenced either  the  improvement  of  the  quality  of  teaching,  greater  effectiveness  in  the process  of  learning,  better  didactical  organization  of  particular  subjects,  or  the adoption  of  general  skills.  Nevertheless,  there  are  some  indications  that  ICT  is increasingly  understood  as  an  interdisciplinary  tool  for  multimedia  and  virtual projects.
+Certain standards of ICT and the EU have not been introduced in our education system, which at the moment is the main problem that has to be solved within the framework of education system reform. The curricula have not been based around information technology, and therefore they have not influenced either the improvement of the quality of teaching, greater effectiveness in the process of learning, better didactical organization of particular subjects, or the adoption of general skills. Nevertheless, there are some indications that ICT is
 
 Ministry of Education and Science Montenegro
 
@@ -1484,33 +1511,35 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-The  fact  is  that  ICT  has  not  arrived  in  schools  and  that  the  numerous changes  it  entails  have  not  been  exploited  so  far.  At  the  moment,  the  use  of informative and communication technologies are not an integral part of the national curriculum.
+increasingly understood as an interdisciplinary tool for multimedia and virtual projects.
+
+The fact is that ICT has not arrived in schools and that the numerous changes it entails have not been exploited so far. At the moment, the use of informative and communication technologies are not an integral part of the national curriculum.
 
 Considerable financial resources will be required for the introduction of ICT in  the  education  system  of  Montenegro,  and  that  process  will  last  five  years  at least.  In  this,  we  expect  the  support  of  donors  and  large  companies  fabricating computers and software,.
 
 ### Aims:
 
-- the creation of a modern system of education in Montenegro, in which all students  in  primary  and  secondary  education  acquire  computer  and  informative literacy,  being  enough  for  their  potential  inclusion  into  a  modern  informative society.
+1. the creation of a modern system of education in Montenegro, in which all students in primary and secondary education acquire computer and informative literacy, being enough for their potential inclusion into a modern informative society.
 
-- all  teachers  at  primary,  secondary  and  university  levels  to  have  skills  to use  ICT in the execution of the teaching process and in the process of learning.
+2. all teachers at primary, secondary and university levels to have skills to use ICT in the execution of the teaching process and in the process of learning.
 
-- the  administrative  and  informative  system  created  on  the  basis  of  the experiences of the EU states to be used in the administration in and the testing of quality of education system of Montenegro.
+3. the administrative and informative system created on the basis of the experiences of the EU states to be used in the administration in and the testing of quality of education system of Montenegro.
 
 ### Tasks:
 
 - 10.1 to create the general strategy for the introduction of ICT in education system of Montenegro;
 
-- 10.2 to create the project for the selection of hardware, operative systems and  applicative  software  that  will  be  used  in  education  system  of Montenegro,  and  the  plan  for  the  equipping  of  pilot  schools.  To define the standards of the equipment and software;
-
-- 10.3 to announce the tender for the purchase of equipment and software for pilot schools, and to procure the equipment;
-
 Deadline:
 
 31 st December 2002
 
+- 10.2 to create the project for the selection of hardware, operative systems and applicative software that will be used in education system of Montenegro, and the plan for the equipping of pilot schools. To define the standards of the equipment and software;
+
 Deadline:
 
 30 th May 2003
+
+- 10.3 to announce the tender for the purchase of equipment and software for pilot schools, and to procure the equipment;
 
 Deadline:
 
@@ -1528,53 +1557,53 @@ Strategic Plan of Education Reform
 
 - 10.4 to equip the pilot schools with ICT;
 
-- 10.12 to start the training of teachers;
-
-- 10.5 to  create  the  projects  for  two  independent  and  mutually  protected computer  networks  (the  administrative  and  the  educational  one)  in education system of Montenegro and in pilot schools and corresponding system institutions as well ;
-
-- 10.6 to  announce the tender for the contractors assembling the network in pilot schools, and for the networking of those schools;
-
-- 10.7 to construct local networks in pilot schools, the Ministry, the Bureau for  Education  Services,  the  Centers  and  in  the  Exam  Center  of Montenegro, and to network them
-
-- 10.8 to take on lease the Internet lines for schools;
-
-- 10.9 to  create  the  projects  on  the  maintenance  of  the  equipment  and software harmonized with the economical and technical requirements of the system;
-
-- 10.10 to announce the competition, and to employ corresponding persons for the maintenance of the equipment and software;
-
-- 10.11 to create the projects for the training of teachers (the training as the permanent task in the function of optimal use of ICT in the process of education - teaching process);
-
 Deadline:
 
 15 th January 2004
+
+- 10.5 to create the projects for two independent and mutually protected computer networks (the administrative and the educational one) in education system of Montenegro and in pilot schools and corresponding system institutions as well ;
 
 Deadline:
 
 30 th May, 2003
 
+- 10.6 to announce the tender for the contractors assembling the network in pilot schools, and for the networking of those schools;
+
 Deadline:
 
 30 th July 2003
+
+- 10.7 to construct local networks in pilot schools, the Ministry, the Bureau for Education Services, the Centers and in the Exam Center of Montenegro, and to network them
 
 Deadline:
 
 15 th December 2003
 
-Deadline:
-
-30 th July 2003
-
-Deadline:
-
-30 th May 2003
+- 10.8 to take on lease the Internet lines for schools;
 
 Deadline:
 
 30 th July 2003
 
+- 10.9 to create the projects on the maintenance of the equipment and software harmonized with the economical and technical requirements of the system;
+
 Deadline:
 
 30 th May 2003
+
+- 10.10 to announce the competition, and to employ corresponding persons for the maintenance of the equipment and software;
+
+Deadline:
+
+30 th July 2003
+
+- 10.11 to create the projects for the training of teachers (the training as the permanent task in the function of optimal use of ICT in the process of education - teaching process);
+
+Deadline:
+
+30 th May 2003
+
+- 10.12 to start the training of teachers;
 
 Deadline:
 
@@ -1590,43 +1619,43 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-- 10.13 to  create  the  projects  for  the  training  of  teaching  personnel  at teachers  training  faculties  and  of  students  of  the  teachers  training faculties, and to define them in line with the development parts of the implementation of the project ;
-
-- 10.14 to introduce ICT into the curriculums of those faculties;
-
-- 10.15 to  create  the  project  on  the  equipping  of  the  Exam  Center  of Montenegro with ICT in order to base its work on the advantages and potentials that ICT gives;
-
-- 10.16 to  announce  the  tender  for  the  supplying  of  the  equipment  for  the Exam  center  of  Montenegro  (the  equipment  is  to  be  purchased  as soon as the corresponding space has been provided);
-
-- 10.17 to  integrate  ICT  into  the  new  curriculums  and  the  programs  of training
-
-- 10.18 to  create  conceptual  and  main  project  of  the  administrative  and informative system in education;
-
-- 10.19 to  design  corresponding  software  on  the  basis  of  the  completed project, which will enable the available use of all relevant data for the good and effective administration and work of education system;
+- 10.13 to create the projects for the training of teaching personnel at teachers training faculties and of students of the teachers training faculties, and to define them in line with the development parts of the implementation of the project ;
 
 Deadline:
 
 30 th May 2003
+
+- 10.14 to introduce ICT into the curriculums of those faculties;
 
 Deadline:
 
 30 th November 2003
 
+- 10.15 to create the project on the equipping of the Exam Center of Montenegro with ICT in order to base its work on the advantages and potentials that ICT gives;
+
 Deadline:
 
 30 th May 2003
+
+- 10.16 to announce the tender for the supplying of the equipment for the Exam center of Montenegro (the equipment is to be purchased as soon as the corresponding space has been provided);
 
 Deadline:
 
 30 th July 2003
 
+- 10.17 to integrate ICT into the new curriculums and the programs of training
+
 Deadline:
 
 28 th February 2004
 
+- 10.18 to create conceptual and main project of the administrative and informative system in education;
+
 Deadline:
 
 30 th May 2003
+
+- 10.19 to design corresponding software on the basis of the completed project, which will enable the available use of all relevant data for the good and effective administration and work of education system;
 
 Deadline:
 
@@ -1644,17 +1673,17 @@ Strategic Plan of Education Reform
 
 ### Budget:
 
-Item | Projected budget
---- | ---
-Create the general strategy for the introduction of ICT in education system of Montenegro | 4,000 €
-Create the project for the selection of hardware, operative systems and applicative software that will be used in education system of Montenegro, and the plan for the equipping of pilot schools. To define the standards of the equipment and software | 4,000 €
-Announcement of tender for the purchase of equipment and software for pilot schools and procurement of equipment | 1,000 €
-Equip the pilot schools with ICT | 1.511,400 €
-Create the projects for two independent and mutually protected computer networks (the administrative and the educational one) in education system of Montenegro and in pilot schools and corresponding system institutions as well | 10,000 €
-Announce the tender for the contractors assembling the network in pilot schools, and for the networking of those schools | 1,000 €
-Construct local networks in pilot schools, the Ministry, the Bureau for Education Services, the Centers and in the Exam Center of Montenegro, and to network them | 30 X11900 = 357,000 €
-Take on lease the Internet lines for schools | ( 30 schools x 500€ x13 months) 195,000 € + institutions
-Create the projects on the maintenance of the equipment and software harmonized with the economical and technical requirements of the system | 2,000€
+ | Item | Projected budget
+--- | --- | ---
+10.1 | Create the general strategy for the introduction of ICT in education system of Montenegro | 4,000 €
+10.2 | Create the project for the selection of hardware, operative systems and applicative software that will be used in education system of Montenegro, and the plan for the equipping of pilot schools. To define the standards of the equipment and software | 4,000 €
+10.3 | Announcement of tender for the purchase of equipment and software for pilot schools and procurement of equipment | 1,000 €
+10.4 | Equip the pilot schools with ICT | 1.511,400 €
+10.5 | Create the projects for two independent and mutually protected computer networks (the administrative and the educational one) in education system of Montenegro and in pilot schools and corresponding system institutions as well | 10,000 €
+10.6 | Announce the tender for the contractors assembling the network in pilot schools, and for the networking of those schools | 1,000 €
+10.7 | Construct local networks in pilot schools, the Ministry, the Bureau for Education Services, the Centers and in the Exam Center of Montenegro, and to network them | 30 X11900 = 357,000 €
+10.8 | Take on lease the Internet lines for schools | (30 schools x 500€ x13 months) 195,000 € + institutions
+10.9 | Create the projects on the maintenance of the equipment and software harmonized with the economical and technical requirements of the system | 2,000€
 
 Ministry of Education and Science Montenegro
 
@@ -1735,7 +1764,7 @@ The aim of the improvement of the curricula is  the provision  of  a  higher lev
 
 The  preconditions  on  which  the  strategic  plan  for  the  renovation  of curricula has been based also carry the greatest risks for the implementation of the plan.
 
-The  basic  assumption  is  that  the  necessity  for  urgent  changes  in  the education system has been clearly understood by the participants in education and by  the  public  at  large  in  Montenegro,  in  order  to  make  the  system  itself  more adequate  to  the  demands  of  modern  life  and  the  new  social  circumstances  in Montenegro  and  its  development  targets,  as  well  as  to  the  harmonizing  of  the system of education in Montenegro with systems of education in other countries of Europe and of the world.
+The basic assumption is that the necessity for urgent changes in the education system has been clearly understood by the participants in education and by the public at large in Montenegro, in order to make the system itself more adequate to the demands of modern life and the new social circumstances in Montenegro and its development targets, as well as to the harmonizing of the
 
 Ministry of Education and Science Montenegro
 
@@ -1747,7 +1776,9 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-Montenegro adopted the conception of an overall and direct approach to the  improvement  of  the  curricula  and,  at  the  same  time,  to  all  levels  of  preuniversity education  either  of  children or adults.  This  situation  requires  the employment of several hundred of the best teachers from the education system of Montenegro (and their previous training in the creation of curricula), several foreign experts for the creation of the evaluation process of the curricula, as well as, the participation of several hundred professionals from education institutions and from social partners, and reviewers and members of study groups, all for the purpose of the  quality  control  and  the  feasibility  of  the  proposed  curricula  solutions.  All  the aforementioned  necessitates  significant  funds  that  Montenegro  cannot  obviously afford without the support of donors from abroad. We are hoping the support will be in sufficient quantity, regular and timely.
+system of education in Montenegro with systems of education in other countries of Europe and of the world.
+
+Montenegro adopted the conception of an overall and direct approach to the improvement of the curricula and, at the same time, to all levels of pre-university education either of children or adults. This situation requires the employment of several hundred of the best teachers from the education system of Montenegro (and their previous training in the creation of curricula), several foreign experts for the creation of the evaluation process of the curricula, as well as, the participation of several hundred professionals from education institutions and from social partners, and reviewers and members of study groups, all for the purpose of the quality control and the feasibility of the proposed curricula solutions. All the aforementioned necessitates significant funds that Montenegro cannot obviously afford without the support of donors from abroad. We are hoping the support will be in sufficient quantity, regular and timely.
 
 The most serious limitation is the nonexistence of the institutions that deal with  the  monitoring,  examining  and  improvements  in  the  education  system  in Montenegro  through  research  and  investigation  (there  is  only  the  Education Inspection). Neither the social partners in Montenegro (the Union, the Chamber of Commerce, the Employment Bureau) have been prepared for the taking over of their  roles  and  responsibilities  in  the  creation  of  new  curricula.  Additionally, Montenegro's real need either for the professional cadre or for the classification of vocations is not clear.
 
@@ -1801,41 +1832,41 @@ The alterations in education should be done promptly either for the urgent needs
 
 - 11.1 the placing of overall structure for the improvement of the curriculums;
 
-- 11.2 the  passing  of  the  powerful  and  methodology  frames  for  the  recreation of the curriculums;
+Deadline:
 
-- 11.3 the  innovation  of  the  participants'  knowledge  necessary  for  the creation of new curriculums;
+30 th January 2003
+
+- 11.2 the passing of the powerful and methodology frames for the re-creation of the curriculums;
+
+Deadline:
+
+30 th January 2003
+
+- 11.3 the innovation of the participants' knowledge necessary for the creation of new curriculums;
+
+Deadline:
+
+January 2003 - November 2004
 
 - 11.4 the adoption of new proposal curriculums;
-
-- 11.5 the  commencement of work relating to the preparation of drafts for the new curriculums;
-
-- 11.7 the revision of drafts and the adoption of the proposals of curriculums;
-
-- 11.6 the evaluation of the draft curriculums;
-
-Deadline:
-
-30 th January 2003
-
-Deadline:
-
-30 th January 2003
-
-Deadline:
-
-January  2003 - November 2004
 
 Deadline:
 
 30 th January 2002
 
+- 11.5 the commencement of work relating to the preparation of drafts for the new curriculums;
+
 Deadline:
 
 03 rd February 2003
 
+- 11.6 the evaluation of the draft curriculums;
+
 Deadline:
 
 30 th September 2003
+
+- 11.7 the revision of drafts and the adoption of the proposals of curriculums;
 
 Deadline:
 
@@ -1853,17 +1884,17 @@ Strategic Plan of Education Reform
 
 - 11.8 the passing of new curriculums;
 
+Deadline:
+
+30 th February 2004
+
 - 11.9 the preparation of the proposal of criterions for the personnel and the material and technical capability of schools, required for the practical testing of new curriculums;
-
-- 11.10 the  commencement  of  the  monitoring  of  the  execution  of  the curriculums in schools, and of their fine-tuning
-
-Deadline: 30
-
-th February 2004
 
 Deadline:
 
 See Task No. 9
+
+- 11.10 the commencement of the monitoring of the execution of the curriculums in schools, and of their fine-tuning
 
 Deadline:
 
@@ -1936,7 +1967,7 @@ The number of textbooks in the Albanian Language, printed by the Center, is  als
 
 #### Expected duties
 
-Taking into account the forthcoming changes in the curricula, which will be a great professional obligation and challenge for the Center, and the efforts of the Center  to  attain  as  high  a  quality  as  possible  in  any  segment  of  work,  an arrangement with two foreign experts (Miha Kovac, Ph. D. and Philip Cohen, World Bank)  relating  to  consultancy  and  advisory  work  was  reached  in  the  first  half  of 2002. They have analyzed the system of the production of textbooks in Montenegro, the systematization of the Center, human and financial resources and have given their recommendations in relation to the improvements of the model of textbook  production  in  Montenegro,  to  the  satisfaction  of  demands  of  reformed schools for new textbooks, and to the modernization of the Center's work and the development of human resources as well. .
+Taking into account the forthcoming changes in the curricula, which will be a great professional obligation and challenge for the Center, and the efforts of the Center to attain as high a quality as possible in any segment of work, an
 
 Ministry of Education and Science Montenegro
 
@@ -1948,7 +1979,9 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-The forthcoming revision of the curricula for nine-year primary education, as  well  as  for  new  high  and  vocational  education,  imposes  a  need  for  a  great number of new textbooks to be edited in a very short time.
+arrangement with two foreign experts (Miha Kovac, Ph. D. and Philip Cohen, World Bank) relating to consultancy and advisory work was reached in the first half of 2002. They have analyzed the system of the production of textbooks in Montenegro, the systematization of the Center, human and financial resources and have given their recommendations in relation to the improvements of the model of textbook production in Montenegro, to the satisfaction of demands of reformed schools for new textbooks, and to the modernization of the Center's work and the development of human resources as well. .
+
+The forthcoming revision of the curricula for nine-year primary education, as well as for new high and vocational education, imposes a need for a great number of new textbooks to be edited in a very short time.
 
 If the application of the new curricula for nine-year primary education starts from  the  first,  fourth  and  seventh  grade,  it  will  be  necessary  to  commence  the publication of textbook sets for those grades for the school year of 2004/05. When it  comes  to  high  and  vocational  education,  it  is  assumed  that  the  application  of these curricula will start in the first grade.
 
@@ -1988,21 +2021,21 @@ Financial limitations - the lack of funds for the corresponding author fees and 
 
 ### Aims:
 
-- The  development  of  new  model  for  the  production  of  textbooks  in Montenegro.
+1. The development of new model for the production of textbooks in Montenegro.
 
-- The engagement and the preparation of author teams.
+2. The engagement and the preparation of author teams.
 
-- The publication of contemporary textbooks for the needs of primary and secondary  education  in  Montenegro,  in  line  with  the  valid  norms  in  education publishing.
+3. The publication of contemporary textbooks for the needs of primary and secondary education in Montenegro, in line with the valid norms in education publishing.
 
 ### Tasks:
 
 - 12.1 The establishing of the new model for the production of textbooks in Montenegro;
 
-- 12.2 The  selection of authors for the creation of new  textbooks  negotiations;
-
 Deadline:
 
 30 th January 2003
+
+- 12.2 The selection of authors for the creation of new textbooks - negotiations;
 
 Deadline:
 
@@ -2134,91 +2167,47 @@ Strategic Plan of Education Reform
 
 ### The Ministry of Education and Science of the Republic of Montenegro Organization Chart
 
-Department for
-
-Informatics (1+1)
-
-Department for
-
-International Cooperation
-
-in the Area of Education
-
-Department for Pupils and
-
-Students' Standard (5)
-
 The Ministry of Education and Science
-
-The Sector for Education
-
-The Sector for Science and
-
-University Education
-
-The Service for General
-
-Affairs, Investments and
-
-Informatics
-
-Department for Preschool
-
-education
-
-Department for Primary
-
-Education
-
-Department for general
-
-Secondary Education
-
-Department for Vocational
-
-Education
-
-Department for the
-
-Education of Children
-
-With Special Needs
-
-Department for Adult
-
-Education
-
-Department for the
-
-Education of the Members
-
-of National and Ethnic
-
-Groups
-
-Department for Science
-
-(2+2)
-
-Department for University
-
-Education (2+2)
-
-Financial Service (3)
-
-Department for
-
-Investments (2)
-
-Department for General
-
-Affairs (3+2p+3p)
 
 The Minister
 
-The Minister's
+The Minister's Cabinet (3)
 
-Cabinet   (3)
+The Sector for Education
+
+Department for Preschool education
+
+Department for Primary Education
+
+Department for general Secondary Education
+
+Department for Vocational Education
+
+Department for the Education of Children With Special Needs
+
+Department for Adult Education
+
+Department for the Education of the Members of National and Ethnic Groups
+
+The Sector for Science and University Education
+
+Department for Science (2+2)
+
+Department for University Education (2+2)
+
+The Service for General Affairs, Investments and Informatics
+
+Financial Service (3)
+
+Department for Investments (2)
+
+Department for Informatics (1+1)
+
+Department for International Cooperation in the Area of Education
+
+Department for Pupils and Students' Standard (5)
+
+Department for General Affairs (3+2p+3p)
 
 Ministry of Education and Science Montenegro
 
@@ -2315,9 +2304,11 @@ Strategic Plan of Education Reform
 
 ## Annex 3
 
-Item | Quantity
+### The proposal of the technical and the associated equipment necessary for the work of the Bureau for Education Services, The Center for Vocational Education and the Examination Center of Montenegro
+
+ | Item | Quantity |  | 
 --- | --- | --- | --- | ---
-The Bureau for Education Services | The Center for Vocational Education | The Examination Center of RM
+ |  | The Bureau for Education Services | The Center for Vocational Education | The Examination Center of RM
 1. | PC | 120 | 28 | 50
 2. | Network printer | 2 | 1 | 2
 3. | Copy Device | 2 | 1 | 2
@@ -2327,23 +2318,21 @@ The Bureau for Education Services | The Center for Vocational Education | The Ex
 7. | Graphics Projector | 4 | 2 | 2
 8. | Lap Top | 2 | 2 | 2
 9. | White Board | 5 | 2 | 5
-10. | Binding Device | 2 | 1
-11. | Chart Table | 5 | 2
+10. | Binding Device | 2 | 1 | 
+11. | Chart Table | 5 | 2 | 
 12. | TV | 2 | 2 | 1
 13. | Video Recorder | 2 | 2 | 1
 14. | Laser Printer (universal) | 10 | 2 | 5
-15. | Color Ink Jet Printer | 1 | 1
+15. | Color Ink Jet Printer | 1 | 1 | 
 16. | Scanner | 10 | 2 | 5
 17. | Servers | 4 | 2 | 4
 18. | Optical Reader | 1 | 1 | 3
-19. | Digital Camera | 1 | 1
-20. | XEROX Set for printing and binding | 1+1
-21. | Packing Set | 1
-22. | Video Supervision System | 1
-23. | Alarm | 1
+19. | Digital Camera | 1 | 1 | 
+20. | XEROX Set for printing and binding |  |  | 1+1
+21. | Packing Set |  |  | 1
+22. | Video Supervision System |  |  | 1
+23. | Alarm |  |  | 1
 24. | Vehicle | 2 | 1 | 2
-
-### The proposal of the technical and the associated equipment necessary for the work of the Bureau for Education Services, The Center for Vocational Education and the Examination Center of Montenegro
 
 72
 
@@ -2375,29 +2364,29 @@ Strategic Plan of Education Reform
 
 ###### 1. The  projected functions of the future Sector  for  Development, Programming and Advisory Work
 
-- 9 Conducts  professional  jobs  in  preparation  of:  curricula  from  the  area  of competence  of  the  Council  for  General  Education  and  catalogues  and standards  of  knowledge  relating  to  these,  norms  and  standards  for teaching aids and equipment
+- Conducts professional jobs in preparation of: curricula from the area of competence of the Council for General Education and catalogues and standards of knowledge relating to these, norms and standards for teaching aids and equipment
 
-- 9 Conduct professional jobs in preparation of educational program for pupils dormitories
+- Conduct professional jobs in preparation of educational program for pupils dormitories
 
-- 9 The preparation of standard proposals for textbooks and manuals
+- The preparation of standard proposals for textbooks and manuals
 
-- 9 Giving opinions on the approving of textbooks
+- Giving opinions on the approving of textbooks
 
-- 9 The preparation of the Network of Institutions proposal
+- The preparation of the Network of Institutions proposal
 
-- 9 The  preparation  of  norms  and  standards'  proposals  for  out-of-teaching process personnel
+- The preparation of norms and standards' proposals for out-of-teaching process personnel
 
-- 9 The preparation of standard proposals for the adoption by the competent Council
+- The preparation of standard proposals for the adoption by the competent Council
 
-- 9 The creation of accomplishment plans for certain curricula
+- The creation of accomplishment plans for certain curricula
 
-- 9 The engagement of advisors for the solving of problems the Sector for the Providing  of Quality identified during  the  external evaluation  and  in cooperation with the Sector for the Continuous Professional Development
+- The engagement of advisors for the solving of problems the Sector for the Providing of Quality identified during the external evaluation and in cooperation with the Sector for the Continuous Professional Development
 
-- 9 The  creation  of  the  curriculums,  and  the  planning  of  the  phases  for  the introduction of new teaching subjects
+- The creation of the curriculums, and the planning of the phases for the introduction of new teaching subjects
 
-- 9 Supervision on delivery of experimental curriculum
+- Supervision on delivery of experimental curriculum
 
-- 9 The preparation and the explanation of professional opinion in relation to the delivery of experimental curriculum.
+- The preparation and the explanation of professional opinion in relation to the delivery of experimental curriculum.
 
 74
 
@@ -2423,27 +2412,27 @@ Functions | The number of performers
 8. | Education Advisor | 8*
 Total Number of Performers: | 19
 
-* Podgorica, Nikši ć , Bijelo Polje and Budva - two Education Advisors each.
+* Podgorica, Nikšić, Bijelo Polje and Budva - two Education Advisors each.
 
 ###### 3. The basic precondition for the commencement of organizational units work
 
-- The providing of space and technical conditions for work (see Task No. A4/5/6)
+1. The providing of space and technical conditions for work (see Task No. A-4/5/6)
 
-- The Sector's structure and functions proposal (see the Task No. 4.1)
+2. The Sector's structure and functions proposal (see the Task No. 4.1)
 
-- The creation of the documents on internal organization (see the Task No. 4.2)
+3. The creation of the documents on internal organization (see the Task No. 4.2)
 
-- The announcing of competitions for vacancies (See the Task No. 4.5)
+4. The announcing of competitions for vacancies (See the Task No. 4.5)
 
-- The employment of persons that will work in the Sectors (see the Task No. 4.7)
+5. The employment of persons that will work in the Sectors (see the Task No. 4.7)
 
-- The identification of needs for the training of the employed persons in the Sector
+6. The identification of needs for the training of the employed persons in the Sector
 
-- Additional training for persons employed in the Sector
+7. Additional training for persons employed in the Sector
 
-- The Creation of the Sector Annual Work Plan
+8. The Creation of the Sector Annual Work Plan
 
-- The  organization  and  the  carrying  out  of  study  visits  for  the  employed persons of the Sector, based on the priorities defined by the Annual Work Plan, and in line with the strategic plan of MES RM.
+9. The organization and the carrying out of study visits for the employed persons of the Sector, based on the priorities defined by the Annual Work Plan, and in line with the strategic plan of MES RM.
 
 Ministry of Education and Science Montenegro
 
@@ -2457,13 +2446,13 @@ Strategic Plan of Education Reform
 
 ###### 4. Priority  tasks  for  the  Sector  for  Development,  Programming  and Advisory Work in the light of the implementation of education reform
 
-- The  participation  in  the  work  of  the  Commission  for  the  selection  of education institution that would commence the implementation of education reform (see the Task No. 9),
+1. The participation in the work of the Commission for the selection of education institution that would commence the implementation of education reform (see the Task No. 9),
 
-- The  apportionment  of  evaluating  and  advisory  functions  in  education through the nomination and the training of advisors permanently employed in the Sector (including branch units also),
+2. The apportionment of evaluating and advisory functions in education through the nomination and the training of advisors permanently employed in the Sector (including branch units also),
 
-- The  creation  of  the  plan  for  the  providing  of  logistic  support  for  the implementation  of  the  reform  in  schools  (based  on  existing  situation  in education  institutions and  on  standards  that  will  be  defined  by  the Commission for the selection of education institutions which would start the reform),
+3. The creation of the plan for the providing of logistic support for the implementation of the reform in schools (based on existing situation in education institutions and on standards that will be defined by the Commission for the selection of education institutions which would start the reform),
 
-- The execution and the monitoring of the accomplishment of the plan for the providing  of  logistic  support  for  the  implementation  of  the  reform  in education institutions.
+4. The execution and the monitoring of the accomplishment of the plan for the providing of logistic support for the implementation of the reform in education institutions.
 
 76
 
@@ -2481,15 +2470,15 @@ Strategic Plan of Education Reform
 
 ###### 1. The projected functions of the future Sector for Quality Assurance
 
-- 9 External evaluation of education quality in education institutions of Montenegro, in line with the Annual Work Plan
+- External evaluation of education quality in education institutions of Montenegro, in line with the Annual Work Plan
 
-- 9 The  cooperation  with  the  Sector  for  Development,  Programming  and Advisory Work and the Sector for the Continuous Professional Development  relating to the elimination of weaknesses  identified in education  institutions  on  the  occasion  of  the  execution  of  the  external evaluation of education quality
+- The cooperation with the Sector for Development, Programming and Advisory Work and the Sector for the Continuous Professional Development relating to the elimination of weaknesses identified in education institutions on the occasion of the execution of the external evaluation of education quality
 
-- 9 The composing of annual report on the quality of education in Montenegro,
+- The composing of annual report on the quality of education in Montenegro,
 
-- 9 The monitoring of the accomplishment of Education Institution Action Plan, for the purpose of the improvement of work quality in the institution
+- The monitoring of the accomplishment of Education Institution Action Plan, for the purpose of the improvement of work quality in the institution
 
-- 9 Giving opinions relating to candidates that are to be promoted,
+- Giving opinions relating to candidates that are to be promoted,
 
 ###### 2. The projected structures of the future Sector for the Quality Assurance
 
@@ -2504,9 +2493,9 @@ Total Number of Performers: | 22
 
 ###### 3. Basic  preconditions  for  the  commencement  of  organizational  unit work
 
-- The providing of space and technical conditions for work (see the Task No. A-4/5/6)
+1. The providing of space and technical conditions for work (see the Task No. A-4/5/6)
 
-- The proposal of the Sector structure and functions (see the Task No.. 4.1)
+2. The proposal of the Sector structure and functions (see the Task No.. 4.1)
 
 Ministry of Education and Science Montenegro
 
@@ -2518,27 +2507,27 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-- The creation of documents on internal organization  (see the Task No. 4.2)
+3. The creation of documents on internal organization (see the Task No. 4.2)
 
-- The announcement of the competition for vacancies (see the Task No. 4.5)
+4. The announcement of the competition for vacancies (see the Task No. 4.5)
 
-- The  employment  of  persons  that  will  work  in  the  Sector  (see  the  Task No.4.7)
+5. The employment of persons that will work in the Sector (see the Task No.4.7)
 
-- The creation of bylaws for the quality assurance in schools
+6. The creation of bylaws for the quality assurance in schools
 
-- The training and the accreditation of evaluators
+7. The training and the accreditation of evaluators
 
-- The creation of annual evaluation plan for primary schools
+8. The creation of annual evaluation plan for primary schools
 
-- The creation of annual evaluation plan for secondary schools
+9. The creation of annual evaluation plan for secondary schools
 
 ###### 4. The priority tasks of the Sector for Quality Assurance in the light of the implementation of education reform.
 
-- The monitoring of education quality in education institutions  in  which  the implementation of the reform has started
+1. The monitoring of education quality in education institutions in which the implementation of the reform has started
 
-- The  monitoring  of  work  quality  in  education  institutions  in  which  the teaching process is executed according to the old Law and according to the old curricula,
+2. The monitoring of work quality in education institutions in which the teaching process is executed according to the old Law and according to the old curricula,
 
-- The  creation  of  comparative  analyze  of  education  quality  in  schools  in which  the  implementation  of  the  reform  has  started  and  in  schools  that execute the work according to the old Law and old curricula.
+3. The creation of comparative analyze of education quality in schools in which the implementation of the reform has started and in schools that execute the work according to the old Law and old curricula.
 
 78
 
@@ -2556,25 +2545,25 @@ Strategic Plan of Education Reform
 
 ###### 1. The projected functions of the future Sector for Continuous Professional Development
 
-- 9 To create the strategy of CPD professionals in education that is based on: education  policy  of  the  MES  RM,  the  priorities  that  are  defined  by  the Council, the proposals of the Sector for Programming, Development and Advisory  Work,  the  findings  of  evaluators,  the  development  plans  of schools and data base it has.
+- To create the strategy of CPD professionals in education that is based on: education policy of the MES RM, the priorities that are defined by the Council, the proposals of the Sector for Programming, Development and Advisory Work, the findings of evaluators, the development plans of schools and data base it has.
 
-- 9 To plan and to organize the training of all professionals in education,
+- To plan and to organize the training of all professionals in education,
 
-- 9 To propose seminars' agendas for CPD, to the Council.
+- To propose seminars' agendas for CPD, to the Council.
 
-- 9 To coordinate the work of NGOs and donors in the area of CPD
+- To coordinate the work of NGOs and donors in the area of CPD
 
-- 9 To give expert opinions on CPD programs offered by third parties (private institutions), which serve as accreditation of these programs by the MES RM (the Council) and which are taken into consideration on the occasion of the promotion into higher vocation
+- To give expert opinions on CPD programs offered by third parties (private institutions), which serve as accreditation of these programs by the MES RM (the Council) and which are taken into consideration on the occasion of the promotion into higher vocation
 
-- 9 To  prescribe  and  to  innovate  the  standards  aimed  for  professionals  in education,  and  to  report  on  possible  changes  of  the  standards  to  those categories within which the changes have occurred
+- To prescribe and to innovate the standards aimed for professionals in education, and to report on possible changes of the standards to those categories within which the changes have occurred
 
-- 9 To issue the Certificate on Vocations,
+- To issue the Certificate on Vocations,
 
-- 9 To engage advisors that should help schools in the solving of weaknesses that  have  been  identified  through  internal  and  external  evaluation,  in cooperation with the Sector for Development, Programming and Advisory Work.
+- To engage advisors that should help schools in the solving of weaknesses that have been identified through internal and external evaluation, in cooperation with the Sector for Development, Programming and Advisory Work.
 
-- 9 To engage the professionals of corresponding profiles for the execution of training in the areas in which the needs for the training has been identified.
+- To engage the professionals of corresponding profiles for the execution of training in the areas in which the needs for the training has been identified.
 
-- 9 Organizes and delivers training for directors.
+- Organizes and delivers training for directors.
 
 Ministry of Education and Science Montenegro
 
@@ -2602,23 +2591,23 @@ Total Number of Performers: | 10
 
 ###### 3. Basic  preconditions  for  the  commencement  of  organizational  unit work
 
-- The providing of space and technical conditions for work (see the Task No. A-4/5/6)
+1. The providing of space and technical conditions for work (see the Task No. A-4/5/6)
 
-- The proposal of the structure and functions of the Sector (see the Task No. 4.1)
+2. The proposal of the structure and functions of the Sector (see the Task No. 4.1)
 
-- The creation of documents for internal organization (see the Task No. 4.2)
+3. The creation of documents for internal organization (see the Task No. 4.2)
 
-- The announcing of competition for vacancies (see the Task No. 4.5)
+4. The announcing of competition for vacancies (see the Task No. 4.5)
 
-- The employment of persons that will work in the Sector (see the Task No. 4.7)
+5. The employment of persons that will work in the Sector (see the Task No. 4.7)
 
-- The creation of bylaws that will  define  the  standards  for  professionals  in education,  on  the  basis  of  documents  shaped  within  the  frames  of  the Project titled 'Technical Assistance to MES RM'
+6. The creation of bylaws that will define the standards for professionals in education, on the basis of documents shaped within the frames of the Project titled “Technical Assistance to MES RM”
 
-- The creation of the Sector's Annual Work Plan
+7. The creation of the Sector's Annual Work Plan
 
-- The identification of needs for the training of the Sector's staff,
+8. The identification of needs for the training of the Sector's staff,
 
-- The execution of extra training for the Sector's staff,
+9. The execution of extra training for the Sector's staff,
 
 80
 
@@ -2630,37 +2619,37 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-- The  organization  and  the  performing  of  study  visits  for  the  employed persons, according to the Annual Work Plan and to the priorities of MES RM.
+10. The organization and the performing of study visits for the employed persons, according to the Annual Work Plan and to the priorities of MES RM.
 
 ###### 4. The priority tasks of the Sector for Continuous Professional Development in the light of the implementation of education reform
 
-- The  creation  of  agendas  for  three-day  seminars  for  Directors  of  all Education institutions in Montenegro (groups of up to 25 participants).
+1. The creation of agendas for three-day seminars for Directors of all Education institutions in Montenegro (groups of up to 25 participants).
 
-- The organization and the holding of three-day seminars for the Directors of education  institutions  for  the  encouraging  of  their  understanding  for  the proposed changes in education system.
+2. The organization and the holding of three-day seminars for the Directors of education institutions for the encouraging of their understanding for the proposed changes in education system.
 
-- The founding of 'The School for Directors' within the Sector for Continuous Professional Development
+3. The founding of “The School for Directors” within the Sector for Continuous Professional Development
 
-- The gathering and the processing of data relating to seminars that have been  attended  by  teachers  and  professors  from  education  institutions within which the implementation of education reform will be commenced (in cooperation with the Sector for Research  Work)
+4. The gathering and the processing of data relating to seminars that have been attended by teachers and professors from education institutions within which the implementation of education reform will be commenced (in cooperation with the Sector for Research Work)
 
-- The creation of the plan for the organization and the holding of seminars for the training of teachers from primary schools within which  the implementation of the reform will be commenced, and for the areas of:
+5. The creation of the plan for the organization and the holding of seminars for the training of teachers from primary schools within which the implementation of the reform will be commenced, and for the areas of:
 
-- team work,
+a. team work,
 
-- descriptive evaluation,
+b. descriptive evaluation,
 
-- additional  training  for  teachers  wishing  to  teach  two  teaching subjects in grades prior to  the sixth grade of primary school,
+c. additional training for teachers wishing to teach two teaching subjects in grades prior to the sixth grade of primary school,
 
-- the training for the making of lecture preparations,
+d. the training for the making of lecture preparations,
 
-- the testing of knowledge,
+e. the testing of knowledge,
 
-- the organization and the execution of extra and free activities,
+f. the organization and the execution of extra and free activities,
 
-- the modern teaching methods,
+g. the modern teaching methods,
 
-- The organization and the delivery of seminars referred to in item 4,
+6. The organization and the delivery of seminars referred to in item 4,
 
-- The organization and the delivery of seminars referred to in item 5;
+7. The organization and the delivery of seminars referred to in item 5;
 
 Ministry of Education and Science Montenegro
 
@@ -2678,23 +2667,23 @@ Strategic Plan of Education Reform
 
 ###### 1 The projected functions of the future Sector for Research, Pedagogical and Psychological  Work
 
-- 9 The  carrying  out  of  researches  based  on  Sector  program  and  at  the request of the other Sectors within Bureau
+- The carrying out of researches based on Sector program and at the request of the other Sectors within Bureau
 
-- 9 The comparisons of results on the quality of education between education institutions in which the implementation of the reform has been under way and those in which the education is executed according to the old model and according to the old Law,
+- The comparisons of results on the quality of education between education institutions in which the implementation of the reform has been under way and those in which the education is executed according to the old model and according to the old Law,
 
-- 9 The examining of the experimental curriculum success,
+- The examining of the experimental curriculum success,
 
-- 9 Giving opinions on the success of experimental curricula, according to data resulted from the examining,
+- Giving opinions on the success of experimental curricula, according to data resulted from the examining,
 
-- 9 The  examining  of  the  application  of  new  methods  and  manners  of  work success,
+- The examining of the application of new methods and manners of work success,
 
-- 9 The  identifying  of  needs  for  the  founding  of  new  education  institutions, according to demographic data and to the needs of local community,
+- The identifying of needs for the founding of new education institutions, according to demographic data and to the needs of local community,
 
-- 9 Constant  monitoring  of  teaching  staff  in  education  institutions  for  the purpose of the establishing of vocations and posts' deficits.
+- Constant monitoring of teaching staff in education institutions for the purpose of the establishing of vocations and posts' deficits.
 
-- 9 Coordinates and monitors advisory services work,
+- Coordinates and monitors advisory services work,
 
-- 9 Coordinates and supervises teachers who work with children with special needs,
+- Coordinates and supervises teachers who work with children with special needs,
 
 82
 
@@ -2721,23 +2710,23 @@ Total Number of Performers: | 13
 
 ###### 3. The basic preconditions for the commencement of organizational unit work
 
-- The providing of space and technical conditions for work (see the Task No. A-4/5/6)
+1. The providing of space and technical conditions for work (see the Task No. A-4/5/6)
 
-- The proposal of the structure and the functions of the Sector (see the Task No. 4.1)
+2. The proposal of the structure and the functions of the Sector (see the Task No. 4.1)
 
-- The creation of documents for internal organization (see the Task No. 4.2)
+3. The creation of documents for internal organization (see the Task No. 4.2)
 
-- The announcing of competitions for vacancies (see the Task No. 4.5)
+4. The announcing of competitions for vacancies (see the Task No. 4.5)
 
-- The employment of persons that will work in the Sector (see the Task No. 4.7)
+5. The employment of persons that will work in the Sector (see the Task No. 4.7)
 
-- The creation of the Sector's Annual Work Plan
+6. The creation of the Sector's Annual Work Plan
 
-- The identifying of needs for the training of the Sector's employees,
+7. The identifying of needs for the training of the Sector's employees,
 
-- The execution of extra training for the Sector's employees,
+8. The execution of extra training for the Sector's employees,
 
-- The  organization  and  the  conduction  of  study  visits  for  the  employees, according to Annual Work Plan and to MES RM priorities,
+9. The organization and the conduction of study visits for the employees, according to Annual Work Plan and to MES RM priorities,
 
 Ministry of Education and Science Montenegro
 
@@ -2751,17 +2740,17 @@ Strategic Plan of Education Reform
 
 ###### 4. Priority tasks of the Sector for Research, Pedagogical and Psychological  Work in the light of the implementation of education reform
 
-- The  processing  of  data  resulting  from  the  analyses  completed  by  the Center  relating  to  the  needs  for  the  training  of  employed  persons  in Sectors
+1. The processing of data resulting from the analyses completed by the Center relating to the needs for the training of employed persons in Sectors
 
-- The gathering and the processing of data required for the improvement of the network of schools (see the Task No. 8),
+2. The gathering and the processing of data required for the improvement of the network of schools (see the Task No. 8),
 
-- The  gathering  and  the  processing  of  data  on  the  current  situation  in schools,  in  order  the  selection  of  education  institution,  within  which  the implementation of the reform will be started, to be executed,
+3. The gathering and the processing of data on the current situation in schools, in order the selection of education institution, within which the implementation of the reform will be started, to be executed,
 
-- The  gathering  and  the  processing  of  data  on  accrued  service  for  the persons employed in schools in which the implementation of the reform will start, and all for the purpose of the projection of new posts,
+4. The gathering and the processing of data on accrued service for the persons employed in schools in which the implementation of the reform will start, and all for the purpose of the projection of new posts,
 
-- The  gathering  and  the  processing  of  data  on  seminars  that  have  been attended  by  teachers  and  professors  of  those  schools  in  which  the implementation of the reform will start (in cooperation with the Sector for CPD)
+5. The gathering and the processing of data on seminars that have been attended by teachers and professors of those schools in which the implementation of the reform will start (in cooperation with the Sector for CPD)
 
-- The  producing  of  database  relating  to  teachers  and  educators  who  will start  working  in  education  institutions  in  which  the  implementation  of education reform will begin.
+6. The producing of database relating to teachers and educators who will start working in education institutions in which the implementation of education reform will begin.
 
 84
 
@@ -2779,17 +2768,17 @@ Strategic Plan of Education Reform
 
 ###### 1. The projected functions of the future Sector for General and Special Affairs and international Cooperation
 
-- 9 The providing of administrative and technical preconditions necessary for the functioning of the Center's Sectors
+- The providing of administrative and technical preconditions necessary for the functioning of the Center's Sectors
 
-- 9 Maintains contact and cooperation with appropriate institutions  in country and abroad
+- Maintains contact and cooperation with appropriate institutions in country and abroad
 
-- 9 Supports  in  provision  of  foreign  experts  at  the  request  of  other  Sectors within Bureau
+- Supports in provision of foreign experts at the request of other Sectors within Bureau
 
-- 9 Support in organization and conducting study visits for employees within Bureau
+- Support in organization and conducting study visits for employees within Bureau
 
-- 9 Supports organization of seminars abroad
+- Supports organization of seminars abroad
 
-- 9 Creates and keeps register of international documents relating to education.
+- Creates and keeps register of international documents relating to education.
 
 ###### 4. The projected structure of the future Sector for General and Special Affairs and International Cooperation
 
@@ -2825,27 +2814,27 @@ Total Number of Performers: | 25
 
 ###### 3. The basic precondition for the commencement of organizational unit work
 
-- The providing of space and technical conditions for work (see the Task No. A-4/5/6)
+1. The providing of space and technical conditions for work (see the Task No. A-4/5/6)
 
-- The proposal of the structure and the functions of the Sector (see the Task No. 4.1)
+2. The proposal of the structure and the functions of the Sector (see the Task No. 4.1)
 
-- The creation of documents on internal organization (see the Task No. 4.2)
+3. The creation of documents on internal organization (see the Task No. 4.2)
 
-- The announcement of competitions for vacancies (see the Task No.  4.5)
+4. The announcement of competitions for vacancies (see the Task No. 4.5)
 
-- The employment of the persons that will work in the Sector (see the Task No. 4.7)
+5. The employment of the persons that will work in the Sector (see the Task No. 4.7)
 
-- The making of the Sector's Annual Work Plan
+6. The making of the Sector's Annual Work Plan
 
-- The identification of the needs for the training of the Sector's staff,
+7. The identification of the needs for the training of the Sector's staff,
 
-- The execution of extra training for the Sector's staff,
+8. The execution of extra training for the Sector's staff,
 
 ###### 4. The priority tasks of the Sector for General and Special Affairs and International Cooperation
 
-- The rendering of assistance to the work of the Council for Education (see the Task No. 3),
+1. The rendering of assistance to the work of the Council for Education (see the Task No. 3),
 
-- Input  of  data  necessary  for  the  passing  of  strategic  decisions  for  the commencement of the implementation of education reform.
+1. Input of data necessary for the passing of strategic decisions for the commencement of the implementation of education reform.
 
 86
 
@@ -2859,7 +2848,7 @@ Strategic Plan of Education Reform
 
 ## Annex 5
 
-### 'Model Center for Vocational Education and the Preconditions for Its Functioning'
+### “Model Center for Vocational Education and the Preconditions for Its Functioning”
 
 Ministry of Education and Science Montenegro
 
@@ -2875,87 +2864,55 @@ Strategic Plan of Education Reform
 
 ##### Optimal structure
 
-Assistant Director for
-
-The Sector
-
-for
-
-Occupational
-
-Standards
-
-The
-
-Sector
-
-for
-
-Curricula
-
-Department
-
-for
-
-Evaluation
-
-Department
-
-for Textbooks
-
-and Teaching
-
-Aids
-
-Department
-
-for ICT
-
-support
-
-Department
-
-for
-
-programs
-
-Secretariat
+MONTENEGRO CENTER FOR VOCATIONAL EDUCATION
 
 Director
 
 Accounting Office
 
-MONTENEGRO CENTER FOR VOCATIONAL EDUCATION
+Secretariat
 
-The managerial structure of  the  Center  is  composed  of  the  Director,  the Assistant Director for Development,  and  managers  direct the Sectors and Departments, whereas a System Engineer manages Informative Center.
+Assistant Director for
+
+The Sector for Occupational Standards
+
+The Sector for Curricula
+
+Department for Evaluation
+
+Department for Textbooks and Teaching Aids
+
+Department for ICT support
+
+Department for programs
+
+The managerial structure of the Center is composed of the Director, the Assistant Director for Development, and managers direct the Sectors and Departments, whereas a System Engineer manages Informative Center.
 
 The managerial and organizational structures are defined in the following manner:
 
 ###### Management
 
--
+- Director
 
-Director
+- Deputy Director for Development
 
 ###### Secretariat
 
--Business  Secretary,  the  managing  and  coordinating  of  development  and innovation projects, legal person.
+- Business Secretary, the managing and coordinating of development and innovation projects, legal person.
 
--Professional  Associate  for  administrative  and  technical  jobs  -  secretary, administrative worker
+- Professional Associate for administrative and technical jobs – secretary, administrative worker
 
 ###### Accounting Office
 
--Professional  Associate  for  the  financial  area  and  the  accounting,  an economist
+- Professional Associate for the financial area and the accounting, an economist
 
 ###### The Sector for Occupational Standards
 
--The Manager of the Sector for occupational standards and qualifications
+- The Manager of the Sector for occupational standards and qualifications
 
--Higher Professional Associate for the area of adult education
+- Higher Professional Associate for the area of adult education
 
 88
-
--Deputy Director for Development
 
 Ministry of Education and Science Montenegro
 
@@ -2985,9 +2942,9 @@ Strategic Plan of Education Reform
 
 -The Advisor for business-finance, management and administration activities, culture, art and public informing
 
--The Advisor for  civil  engineering,  geodesy,  geology,  textile  and  lumber  industry
+-The Advisor for civil engineering, geodesy, geology, textile and lumber - industry
 
--The  Advisor  for  health,  pharmacy  and  social  protection,  chemistry,  nonmetals and printing, publishing
+-The Advisor for health, pharmacy and social protection, chemistry, non-metals and printing, publishing
 
 ###### Department for Evaluation
 
@@ -3005,11 +2962,9 @@ Strategic Plan of Education Reform
 
 ###### Department for ICT Support
 
--System Engineer for  automatic  data  processing  and  the  maintenance  of informative system
+-System Engineer for automatic data processing and the maintenance of informative system
 
--
-
-- The Associate
+-The Associate
 
 ###### Department for Programs
 
@@ -3033,29 +2988,29 @@ Strategic Plan of Education Reform
 
 ###### 1. The basic activities of the Sector for Occupational Standards
 
-- 9 The  organizing  of  work  on  the  preparation  of  particular  occupational standards, and on their adoption
+- The organizing of work on the preparation of particular occupational standards, and on their adoption
 
-- 9 The  forming and maintenance  of  database relating to occupational standards
+- The forming and maintenance of database relating to occupational standards
 
-- 9 The  harmonization  of  occupational  standards  with  newly  established requirements
+- The harmonization of occupational standards with newly established requirements
 
-- 9 The  monitoring  of  occupational  standards'  improvements  in  developed countries
+- The monitoring of occupational standards' improvements in developed countries
 
-- 9 The creation of plans for the incorporation of occupational standards into the curriculums
+- The creation of plans for the incorporation of occupational standards into the curriculums
 
-- 9 The organizing of the activities for the passing of standards for textbooks and teaching aids, in the area of vocational education
+- The organizing of the activities for the passing of standards for textbooks and teaching aids, in the area of vocational education
 
-- 9 The  creation  of  catalogues  necessary  for  teaching  aids  required  for  the accomplishment of curricula
+- The creation of catalogues necessary for teaching aids required for the accomplishment of curricula
 
-- 9 The preparation of the proposals for the set of norms for out-of-teaching process staff
+- The preparation of the proposals for the set of norms for out-of-teaching process staff
 
-- 9 The  preparation  of  the  standard  proposals  for  the  adoption  by  the competent Council
+- The preparation of the standard proposals for the adoption by the competent Council
 
-- 9 The coordination of advisory services work in schools
+- The coordination of advisory services work in schools
 
-- 9 The monitoring of the standard achievements in vocational education and in education institutions
+- The monitoring of the standard achievements in vocational education and in education institutions
 
-- 9 The organizing and the proposing of the forms and the methods of teacher training within its competence
+- The organizing and the proposing of the forms and the methods of teacher training within its competence
 
 90
 
@@ -3080,25 +3035,25 @@ Total Number of Performers: | 5
 
 ###### 3. The basic preconditions for the commencement of  the  work of the Sector for Occupational Standards
 
-- The providing of space and technical conditions for work (see the Task No. A-4/5/6)
+1. The providing of space and technical conditions for work (see the Task No. A-4/5/6)
 
-- The proposal of the structure and the functions of the Sector (see the Task No. 5.1)
+2. The proposal of the structure and the functions of the Sector (see the Task No. 5.1)
 
-- The announcing of competitions for vacancies (see the Task No. 5.4)
+3. The announcing of competitions for vacancies (see the Task No. 5.4)
 
-- The employment of persons that will work in the Sector (see the Task No. 5.7)
+4. The employment of persons that will work in the Sector (see the Task No. 5.7)
 
-- The identifying of needs for the training of the Sector's employees,
+5. The identifying of needs for the training of the Sector's employees,
 
-- Extra training for the Sector's employees,
+6. Extra training for the Sector's employees,
 
-- The creation of the Sector's Annual Work Plan
+7. The creation of the Sector's Annual Work Plan
 
-- The  organization  and  the  conduction  of  study  visits  for  the  employees, according to Annual Work Plan and to the MES RM priorities,
+8. The organization and the conduction of study visits for the employees, according to Annual Work Plan and to the MES RM priorities,
 
 ###### 4. The  priority  tasks  of  the  Sector  for  Occupational  Standards  in  the light of the implementation of education reform
 
-- The activities on the founding of a team that, according to the results it has shown so far, has the potential to accomplish the tasks of this Sector
+1. The activities on the founding of a team that, according to the results it has shown so far, has the potential to accomplish the tasks of this Sector
 
 Ministry of Education and Science Montenegro
 
@@ -3110,11 +3065,11 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-- The preparation and the execution of the team training in the area of the creation  of  profession  standards,  the  professions  being  acquired  through vocational education
+2. The preparation and the execution of the team training in the area of the creation of profession standards, the professions being acquired through vocational education
 
-- The gathering and the processing of data that have the function to support for the preparation and the creation of curriculums
+3. The gathering and the processing of data that have the function to support for the preparation and the creation of curriculums
 
-- The active communication with work groups in the area of professions, in the  sense  of  the  defining  of  profession  standards  in  line  with  equal standards in European countries
+4. The active communication with work groups in the area of professions, in the sense of the defining of profession standards in line with equal standards in European countries
 
 92
 
@@ -3132,19 +3087,19 @@ Strategic Plan of Education Reform
 
 ###### 1. The projected functions of the future Sector for the Curricula
 
-- 9 The preparatory work on the curriculums
+- The preparatory work on the curriculums
 
-- 9 The  monitoring  of  the  execution  of  curriculums  in  vocational  education institutions
+- The monitoring of the execution of curriculums in vocational education institutions
 
-- 9 The  monitoring  of  the  situation  and  the  improvements  in  the  area  of curriculums in developed courtiers of Europe
+- The monitoring of the situation and the improvements in the area of curriculums in developed courtiers of Europe
 
-- 9 The  preparation  of  new  curriculums  in  line  with  the  requirements  and needs
+- The preparation of new curriculums in line with the requirements and needs
 
-- 9 The  monitoring  of  labor  market  situation  relating  to  the  areas  of  certain vocations,  and  the  proposing  of  the  measures  and  procedures  for  the maintenance of the compactness of vocations
+- The monitoring of labor market situation relating to the areas of certain vocations, and the proposing of the measures and procedures for the maintenance of the compactness of vocations
 
-- 9 The shaping and the proposing of the forms and the methods of training, and the advanced training of teachers
+- The shaping and the proposing of the forms and the methods of training, and the advanced training of teachers
 
-- 9 Execution of other jobs within its competence
+- Execution of other jobs within its competence
 
 ###### 2. The projected structure of the future Sector for Curricula
 
@@ -3175,25 +3130,25 @@ Total Number of Performers: | 8
 
 ###### 3. The  basic  preconditions  for  the  commencement  of  the  Sector  for Curricula work
 
-- The providing of space and technical conditions for work (see the Task No. A-4/5/6)
+1. The providing of space and technical conditions for work (see the Task No. A-4/5/6)
 
-- The proposal of the structure and the functions of the Sector (see the Task No. 5.1)
+2. The proposal of the structure and the functions of the Sector (see the Task No. 5.1)
 
-- The announcing of competitions for vacancies (see the Task No. 5.4)
+3. The announcing of competitions for vacancies (see the Task No. 5.4)
 
-- The employment of persons that will work in the Sector (see the Task No. 5.7)
+4. The employment of persons that will work in the Sector (see the Task No. 5.7)
 
-- The identifying of needs for the training of the Sector's employees,
+5. The identifying of needs for the training of the Sector's employees,
 
-- Extra training for the Sector's employees
+6. Extra training for the Sector's employees
 
-- The creation of the Sector's Annual Work Plan
+7. The creation of the Sector's Annual Work Plan
 
-- The  organization  and  the  conduction  of  study  visits  for  the  employees, according to Annual Work Plan and to MES RM priorities,
+8. The organization and the conduction of study visits for the employees, according to Annual Work Plan and to MES RM priorities,
 
 ###### 4. The  priority  tasks  of  the  Sector  for  Curricula  in  the  light  of  the  i implementation of education reform
 
-- The  participation  in  the  work  of  the  Commission  for  the  selection  of education institutions within which the implementation of education reform is to start (see the Task No. 9),
+1. The participation in the work of the Commission for the selection of education institutions within which the implementation of education reform is to start (see the Task No. 9),
 
 94
 
@@ -3205,9 +3160,9 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-- The gathering and the processing of data that are relevant for the work of this  Sector, and the systematization and the uniting of those data for the purpose of their use in the creation of curriculums
+2. The gathering and the processing of data that are relevant for the work of this Sector, and the systematization and the uniting of those data for the purpose of their use in the creation of curriculums
 
-- The  accomplishment  and  the  monitoring  of  the  plan  for  the  providing  of logistic requirements aimed for the implementation of education reform in education institutions.
+3. The accomplishment and the monitoring of the plan for the providing of logistic requirements aimed for the implementation of education reform in education institutions.
 
 Ministry of Education and Science Montenegro
 
@@ -3225,21 +3180,21 @@ Strategic Plan of Education Reform
 
 ###### 1. The projected functions of the future Department for Evaluation
 
-- 9 The defining of the forms of evaluation for particular vocations
+- The defining of the forms of evaluation for particular vocations
 
-- 9 The defining of methods and the periods of vocational education curriculums evaluation
+- The defining of methods and the periods of vocational education curriculums evaluation
 
-- 9 The monitoring and the improvement of evaluation procedure methods in European countries, having development function
+- The monitoring and the improvement of evaluation procedure methods in European countries, having development function
 
-- 9 The preparation and the execution of the external evaluation of education quality in the institutions of vocational and adult education in Montenegro, in line with the Annual Work Plan
+- The preparation and the execution of the external evaluation of education quality in the institutions of vocational and adult education in Montenegro, in line with the Annual Work Plan
 
-- 9 The  providing  of the condition for the use  of evaluation results in development projects
+- The providing of the condition for the use of evaluation results in development projects
 
-- 9 The  preparation  of  the  annual  reports  on  evaluation  in  the  area  of vocational and adult education
+- The preparation of the annual reports on evaluation in the area of vocational and adult education
 
-- 9 The  monitoring  and  the  accomplishment  of  Action  Plan  of  Education Institutions for the purpose of the evaluation work quality improvements,
+- The monitoring and the accomplishment of Action Plan of Education Institutions for the purpose of the evaluation work quality improvements,
 
-- 9 The execution of other jobs within its competence as well
+- The execution of other jobs within its competence as well
 
 ###### 3. The projected structure of the future Department for Evaluation
 
@@ -3262,27 +3217,27 @@ Strategic Plan of Education Reform
 
 ###### 3. The  basic  preconditions  for  the  commencement  of  the  Department work
 
-- The providing of space and technical conditions for work (see the Task No. A-4/5/6)
+1. The providing of space and technical conditions for work (see the Task No. A-4/5/6)
 
-- The proposal of the structure and the functions of the Sector (see the Task No. 5.1)
+2. The proposal of the structure and the functions of the Sector (see the Task No. 5.1)
 
-- The announcing of competitions for vacancies (see the Task No.5.4)
+3. The announcing of competitions for vacancies (see the Task No.5.4)
 
-- The employment of persons that will work in the Sector (see the Task No. 5.7)
+4. The employment of persons that will work in the Sector (see the Task No. 5.7)
 
-- The creation of bylaws for the education quality evaluation in schools
+5. The creation of bylaws for the education quality evaluation in schools
 
-- The training and the accreditation of evaluators
+6. The training and the accreditation of evaluators
 
-- The creation of annual evaluation plan for vocational and adult education institutions
+7. The creation of annual evaluation plan for vocational and adult education institutions
 
 ###### 4. The  priority  tasks  of  Department  for  Evaluation  in  the  light  of  the implementation of education reform
 
-- The activities relating to the composing of a team out of the members who, according to previous engagements, have the potential or preferences to accomplish the tasks of this department
+1. The activities relating to the composing of a team out of the members who, according to previous engagements, have the potential or preferences to accomplish the tasks of this department
 
-- The preparation and the execution of the training in the area of vocational education  evaluation,  regarding  the  specificities  and  the  presence  of practical education as a special form of training
+2. The preparation and the execution of the training in the area of vocational education evaluation, regarding the specificities and the presence of practical education as a special form of training
 
-- The active communication with work groups in the area of professions, in the sense of the defining of the manners of knowledge and skills testing aimed for youngsters and adults, and in line with the European countries practice.
+3. The active communication with work groups in the area of professions, in the sense of the defining of the manners of knowledge and skills testing aimed for youngsters and adults, and in line with the European countries practice.
 
 Ministry of Education and Science Montenegro
 
@@ -3300,25 +3255,25 @@ Strategic Plan of Education Reform
 
 ###### 1. The basic activities of Department for Textbooks and Teaching Aids
 
-- 9 The  preparatory  work  for  textbooks,  for  the  purpose  of  the  support  for curriculums
+- The preparatory work for textbooks, for the purpose of the support for curriculums
 
-- 9 The  creation  of  the  catalogues  of  recommended  textbooks  for  certain curriculums
+- The creation of the catalogues of recommended textbooks for certain curriculums
 
-- 9 The preparation and the arranging of the textbooks publishing, for certain curriculums
+- The preparation and the arranging of the textbooks publishing, for certain curriculums
 
-- 9 The harmonization of the contents and the structure of textbooks with the improvements of curriculums
+- The harmonization of the contents and the structure of textbooks with the improvements of curriculums
 
-- 9 The  monitoring  of  the  improvements  of  textbooks  and  of  accompanied literature in the curriculums of developed countries, all for the purpose of the progress of contents
+- The monitoring of the improvements of textbooks and of accompanied literature in the curriculums of developed countries, all for the purpose of the progress of contents
 
-- 9 The coordination of advisory services work in schools
+- The coordination of advisory services work in schools
 
-- 9 The organization of basic library with textbooks form other countries
+- The organization of basic library with textbooks form other countries
 
-- 9 The  making  and  the  maintenance  of  database  in  the  area  of  textbook literature
+- The making and the maintenance of database in the area of textbook literature
 
-- 9 The organization and the proposing of the forms and the methods of the presentation and the manners of using new textbooks' editions to teachers
+- The organization and the proposing of the forms and the methods of the presentation and the manners of using new textbooks' editions to teachers
 
-- 9 The execution of other jobs in line with the basic activity of the Department.
+- The execution of other jobs in line with the basic activity of the Department.
 
 ###### 2. The projected structure of the Future Department
 
@@ -3340,31 +3295,31 @@ Strategic Plan of Education Reform
 
 ###### 3. The  basic  preconditions  for  the  commencement  of  Department  for Textbooks and Teaching Aids work
 
-- The providing of space and technical conditions for work (see the Task No. A-4/5/6)
+1. The providing of space and technical conditions for work (see the Task No. A-4/5/6)
 
-- The proposal of the structure and the functions of the Sector (see the Task No. 5.1)
+2. The proposal of the structure and the functions of the Sector (see the Task No. 5.1)
 
-- The announcing of competitions for vacancies (see the Task No. 5.4)
+3. The announcing of competitions for vacancies (see the Task No. 5.4)
 
-- The employment of persons that will work in the Sector (see the Task No. 5.7)
+4. The employment of persons that will work in the Sector (see the Task No. 5.7)
 
-- The identifying of needs for the training of the Sector's employees
+5. The identifying of needs for the training of the Sector's employees
 
-- The creation of the Sector's Annual Work Plan
+6. The creation of the Sector's Annual Work Plan
 
-- The  execution  of  training  for  the  Sector's  employees,  in  line  with  the identified needs
+7. The execution of training for the Sector's employees, in line with the identified needs
 
-- The  organization  and  the  conduction  of  study  visits  for  the  employees, according to Annual Work Plan and to strategic plan of the MES RM
+8. The organization and the conduction of study visits for the employees, according to Annual Work Plan and to strategic plan of the MES RM
 
 ###### 4. Priority tasks of Department for Textbooks and Teaching aids in the light of the implementation of education reform.
 
-- The activities regarding the composing of a team out of the members who, according  to their  engagements  so  far,  have  the  potential  and  the preferences to accomplish the tasks of this department
+1. The activities regarding the composing of a team out of the members who, according to their engagements so far, have the potential and the preferences to accomplish the tasks of this department
 
-- The preparation and the accomplishment of the team training in the areas of  preparation,  forming  of  structure  and  the  publishing  of  textbooks, regarding  the  specificities  of  vocational  education  and  the  number  of students in this type of education in Montenegro.
+2. The preparation and the accomplishment of the team training in the areas of preparation, forming of structure and the publishing of textbooks, regarding the specificities of vocational education and the number of students in this type of education in Montenegro.
 
-- The  gathering  of  literature  and  the  founding  of  library  and  database  on literature  and  multimedia  editions,  all  for  the  purpose  of  the  execution  of curriculums.
+3. The gathering of literature and the founding of library and database on literature and multimedia editions, all for the purpose of the execution of curriculums.
 
-- The active communication with work groups in the area of professions in the  sense  of  the  defining  of  recommended  literature  for  youngsters  and adults, in line with the possibilities of publishing, or with already published literature in the related and foreign languages
+4. The active communication with work groups in the area of professions in the sense of the defining of recommended literature for youngsters and adults, in line with the possibilities of publishing, or with already published literature in the related and foreign languages
 
 Ministry of Education and Science Montenegro
 
@@ -3382,15 +3337,15 @@ Strategic Plan of Education Reform
 
 ###### 1. The projected functions of the future Department for ICT support
 
-- 9 The  establishing  and  the  maintaining  of  the  structure  for  the  informative system of the Center for Vocational Education
+- The  establishing  and  the  maintaining  of  the  structure  for  the  informative system of the Center for Vocational Education
 
-- 9 The monitoring of the needs and timely providing of software sets, in line with the development strategy
+- The monitoring of the needs and timely providing of software sets, in line with the development strategy
 
-- 9 The  maintaining  of  database  and  the  improvement  of  its  use  and  of  its availability
+- The  maintaining  of  database  and  the  improvement  of  its  use  and  of  its availability
 
-- 9 The instructing  and  the  training  of  the  Center's  employees  in  the  use  of equipment, in line with new technical requirements
+- The instructing  and  the  training  of  the  Center's  employees  in  the  use  of equipment, in line with new technical requirements
 
-- 9 The creation of informative strategy development plans for the purpose of the connecting of institutions of vocational education with the Center
+- The creation of informative strategy development plans for the purpose of the connecting of institutions of vocational education with the Center
 
 ###### 2. The projected structure of the future Department for ICT support
 
@@ -3402,11 +3357,11 @@ Total Number of Performer: | 2
 
 ###### 3. The  basic  preconditions  for  the  commencement  of  Department  for ICT support  work
 
-- The providing of space and technical conditions for work (see the Task No. A-4/5/6)
+1. The providing of space and technical conditions for work (see the Task No. A-4/5/6)
 
-- The proposal of the structure and the functions of the Sector (see the Task No. 5.1)
+2. The proposal of the structure and the functions of the Sector (see the Task No. 5.1)
 
-- The announcing of competitions for vacancies (see the Task No. 5.4)
+3. The announcing of competitions for vacancies (see the Task No. 5.4)
 
 100
 
@@ -3418,25 +3373,25 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-- The employment of persons that will work in the Sector (see the Task No. 5.7)
+4. The employment of persons that will work in the Sector (see the Task No. 5.7)
 
-- The identifying of needs for the training of the Sector's employees,
+5. The identifying of needs for the training of the Sector's employees,
 
-- Additional training for the Sector's employees,
+6. Additional training for the Sector's employees,
 
-- The creation of the Sector's Annual Work Plan
+7. The creation of the Sector's Annual Work Plan
 
-- The  organization  and  the  conduction  of  study  visits  for  the  employees, according to Annual Work Plan priorities and in line with MES RM strategic plan.
+8. The  organization  and  the  conduction  of  study  visits  for  the  employees, according to Annual Work Plan priorities and in line with MES RM strategic plan.
 
 ###### 4. The priority tasks of Department for ICT support  in the light of the i implementation of education reform
 
-- The activities relating to the composing of a team for the accomplishment of the tasks of this sector
+1. The activities relating to the composing of a team for the accomplishment of the tasks of this sector
 
-- The  preparation  and  the  execution  of  the  team  training,  in  line  with  the expectations of the sector
+2. The  preparation  and  the  execution  of  the  team  training,  in  line  with  the expectations of the sector
 
-- The  making  of  a  functional  database  that  could  be  used  in  the  current activities and that would be the starting point of database of the Center and of vocational education institutions in Montenegro
+3. The  making  of  a  functional  database  that  could  be  used  in  the  current activities and that would be the starting point of database of the Center and of vocational education institutions in Montenegro
 
-- The active communication with work groups in the area of professions in the sense of the providing of data from database, of the training for the use of data and of the manner of the communication of data for the education of youngsters and adults.
+4. The active communication with work groups in the area of professions in the sense of the providing of data from database, of the training for the use of data and of the manner of the communication of data for the education of youngsters and adults.
 
 Ministry of Education and Science Montenegro
 
@@ -3454,19 +3409,19 @@ Strategic Plan of Education Reform
 
 ###### 1. The projected functions of the future Department for Programs
 
-- 9 The  monitoring  of  the  competition  for  the  curriculums  in  the  area  of vocational  education  that  are  financed  by  the  institutions  of  EU  and  by other institutions and organizations
+- The  monitoring  of  the  competition  for  the  curriculums  in  the  area  of vocational  education  that  are  financed  by  the  institutions  of  EU  and  by other institutions and organizations
 
-- 9 The  presenting  of  the  situation,  activities  and  the  needs  of  vocational education in Montenegro to the institutions dealing with vocational education in EU and broader
+- The  presenting  of  the  situation,  activities  and  the  needs  of  vocational education in Montenegro to the institutions dealing with vocational education in EU and broader
 
-- 9 The  communications  with  the  institutions  aimed  for  the  improvement  of vocational education, for the purpose of the providing of information on the situation in developed countries relating to this area
+- The  communications  with  the  institutions  aimed  for  the  improvement  of vocational education, for the purpose of the providing of information on the situation in developed countries relating to this area
 
-- 9 The  providing  of  necessary  documents  for  the  application  for  offered projects competition
+- The  providing  of  necessary  documents  for  the  application  for  offered projects competition
 
-- 9 The  making  of  database  on  the  projects  in  the  area  of  vocational education, on the projects announced in competitions for which is applying for and on the requirements for the participation in particular competition
+- The  making  of  database  on  the  projects  in  the  area  of  vocational education, on the projects announced in competitions for which is applying for and on the requirements for the participation in particular competition
 
-- 9 The  making  of  database  on  the  capacities  of  professional  and  technical institutions of vocational education in Montenegro
+- The  making  of  database  on  the  capacities  of  professional  and  technical institutions of vocational education in Montenegro
 
-- 9 The  communication  with  foreign  and  national  experts  in  the  preparatory work and in the accomplishment of the projects
+- The  communication  with  foreign  and  national  experts  in  the  preparatory work and in the accomplishment of the projects
 
 ###### 2. The projected structure of the future Department for Programs
 
@@ -3489,27 +3444,27 @@ Strategic Plan of Education Reform
 
 ###### 3. The  basic  preconditions  for  the  commencement  of  Department  for Programs work
 
-- The providing of space and technical conditions for work (see the Task No. A-4/5/6)
+1. The providing of space and technical conditions for work (see the Task No. A-4/5/6)
 
-- The proposal of the structure and the functions of the Sector (see the Task No. 5.1)
+2. The proposal of the structure and the functions of the Sector (see the Task No. 5.1)
 
-- The announcing of competitions for vacancies (see the Task No. 5.4)
+3. The announcing of competitions for vacancies (see the Task No. 5.4)
 
-- The employment of persons that will work in the Sector (see the Task No. 5.7)
+4. The employment of persons that will work in the Sector (see the Task No. 5.7)
 
-- The identifying of needs for the training of the Sector's employees,
+5. The identifying of needs for the training of the Sector's employees,
 
-- Extra training for the Sector's employees,
+6. Extra training for the Sector's employees,
 
-- The  organization  and  the conduction  of study visits for the  Sector employees,  according  to  Annual  Work  Plan  priorities  and  to  MES  RM strategic plan
+7. The  organization  and  the conduction  of study visits for the  Sector employees,  according  to  Annual  Work  Plan  priorities  and  to  MES  RM strategic plan
 
 ###### 4. The  priority  tasks  of  Department  for  Programs  in  the  light  of  the implementation of education reform
 
-- The activities relating to the composing of the team for the accomplishment of the tasks of this Sector
+1. The activities relating to the composing of the team for the accomplishment of the tasks of this Sector
 
-- The preparation and the accomplishments of the team training in line with the expectations of the Sector
+2. The preparation and the accomplishments of the team training in line with the expectations of the Sector
 
-- The integration of the team into the communication with the  EU organizations and institutions that deal with the promotion and the support of vocational education and of training
+3. The integration of the team into the communication with the  EU organizations and institutions that deal with the promotion and the support of vocational education and of training
 
 Ministry of Education and Science Montenegro
 
@@ -3551,19 +3506,19 @@ Strategic Plan of Education Reform
 
 ###### 1. The  projected  functions  of  the  future  Sector  for  the  preparation, organization and the execution of external testing of knowledge
 
-- 9 The cooperation with the Center for Education Services in the preparation and the execution of external testing of knowledge in the third, the sixth and the ninth grades of primary schools;
+- The cooperation with the Center for Education Services in the preparation and the execution of external testing of knowledge in the third, the sixth and the ninth grades of primary schools;
 
-- 9 The preparation and the execution of leave exam and qualification exams (general  teaching  subjects  in  cooperation  with  the  Center  of  Education Services and the Center for Vocational Education) and of other exams that are  subject  to  the  external  testing  of  knowledge  on  the  occasion  of  the entering the university: the Nostrification and differential exams;
+- The preparation and the execution of leave exam and qualification exams (general  teaching  subjects  in  cooperation  with  the  Center  of  Education Services and the Center for Vocational Education) and of other exams that are  subject  to  the  external  testing  of  knowledge  on  the  occasion  of  the entering the university: the Nostrification and differential exams;
 
-- 9 The preparation and the execution of national testing of knowledge in nineyear primary schools;
+- The preparation and the execution of national testing of knowledge in nine-year primary schools;
 
-- 9 The  improvement  of  methodologies  and  of  procedures  of  the  testing  of professional knowledge and skills, the granting of licenses, the keeping of files and the preparation of the work of the Commission for the testing of knowledge and for the verification of national and professional qualifications;
+- The  improvement  of  methodologies  and  of  procedures  of  the  testing  of professional knowledge and skills, the granting of licenses, the keeping of files and the preparation of the work of the Commission for the testing of knowledge and for the verification of national and professional qualifications;
 
-- 9 The  designing  and  the  publishing  of  the  catalogues,  collections  and  the analysis  of  the  exam  tasks  and  of  other  contents  having  the  informative and  assistance  characteristics  for  candidates,  and  for  teachers  for  the purpose of the training for exams
+- The  designing  and  the  publishing  of  the  catalogues,  collections  and  the analysis  of  the  exam  tasks  and  of  other  contents  having  the  informative and  assistance  characteristics  for  candidates,  and  for  teachers  for  the purpose of the training for exams
 
-- 9 The  preparation  and  the  publishing  of  the  manuals  for  the  execution  of exams;
+- The  preparation  and  the  publishing  of  the  manuals  for  the  execution  of exams;
 
-- 9 The preparation and the execution of the exams in foreign languages for adults.
+- The preparation and the execution of the exams in foreign languages for adults.
 
 106
 
@@ -3590,23 +3545,23 @@ Total Number of Performers: | 15
 
 ###### 3. The basic preconditions for the commencement of organizational unit work
 
-- The providing of space and technical conditions for work (see the Task No. A-4/5/6)
+1. The providing of space and technical conditions for work (see the Task No. A-4/5/6)
 
-- The proposal of the Sector structure and functions (see the Task No. 4.1)
+2. The proposal of the Sector structure and functions (see the Task No. 4.1)
 
-- The creation of documents on internal organization  (see the Task No. 4.2)
+3. The creation of documents on internal organization  (see the Task No. 4.2)
 
-- The announcement of the competition for vacancies (see the Task No. 4.5)
+4. The announcement of the competition for vacancies (see the Task No. 4.5)
 
-- The  employment  of  persons  that  will  work  in  the  Sector  (see  the  Task No.4.7)
+5. The  employment  of  persons  that  will  work  in  the  Sector  (see  the  Task No.4.7)
 
-- The identifying of needs for the training of the Sector's employees,
+6. The identifying of needs for the training of the Sector's employees,
 
-- Extra training for the Sector's employees,
+7. Extra training for the Sector's employees,
 
-- The creation of the Sector's Annual Work Plan
+8. The creation of the Sector's Annual Work Plan
 
-- The  organization  and  the  conduction  of  study  visits  for  the  Sector's employees, according to Annual Work Plan priorities and in line with MES RM strategic plan.
+9. The  organization  and  the  conduction  of  study  visits  for  the  Sector's employees, according to Annual Work Plan priorities and in line with MES RM strategic plan.
 
 Ministry of Education and Science Montenegro
 
@@ -3620,11 +3575,11 @@ Strategic Plan of Education Reform
 
 ###### 4. The priority tasks of the Sector for the Preparation, Organization and the  Execution  of  the  external  testing  of  knowledge  in  the  light  of education reform
 
-- The creation and the making attempts through external pilot exams in the area  of  the  mother  language,  foreign  language,  mathematics  and  the chosen  subjects  in  schools  in  which  the  implementation  of  education reform has started, at the end of the first, second and the third cycle of the new primary school
+1. The creation and the making attempts through external pilot exams in the area  of  the  mother  language,  foreign  language,  mathematics  and  the chosen  subjects  in  schools  in  which  the  implementation  of  education reform has started, at the end of the first, second and the third cycle of the new primary school
 
-- The  creation  and  the  testing  of  external  pilot  leave  exams  in  secondary schools in Montenegro,
+2. The  creation  and  the  testing  of  external  pilot  leave  exams  in  secondary schools in Montenegro,
 
-- The preparation and the execution of above-mentioned external exams in Montenegrin schools in which the new curriculums are executed.
+3. The preparation and the execution of above-mentioned external exams in Montenegrin schools in which the new curriculums are executed.
 
 108
 
@@ -3642,13 +3597,13 @@ Strategic Plan of Education Reform
 
 ###### 1. The  projected  functions  of  the  future  Sector  for  the  Preparation, Printing and the Distribution of Materials
 
-- 9 The design and the computer processing of the texts aimed for printing,
+- The design and the computer processing of the texts aimed for printing,
 
-- 9 The  printing and  packing, the storage of prepared tests and  their distribution
+- The  printing and  packing, the storage of prepared tests and  their distribution
 
-- 9 The printing of manuals and instructions for the training and the execution of the external testing of knowledge
+- The printing of manuals and instructions for the training and the execution of the external testing of knowledge
 
-- 9 The preparation of bar codes for the securing of the confidentiality of the external testing of knowledge.
+- The preparation of bar codes for the securing of the confidentiality of the external testing of knowledge.
 
 ###### 2. The  projected  structure  of  the  future  Sector  for  the  Preparation, Printing and the Distribution of Materials
 
@@ -3661,15 +3616,15 @@ Total Number of Performers: | 7
 
 ###### 3. The basic preconditions for the commencement of organizational unit work
 
-- The providing of space and technical conditions for work (see the Task No. A-4/5/6)
+1. The providing of space and technical conditions for work (see the Task No. A-4/5/6)
 
-- The proposal of the Sector structure and functions (see the Task No.. 4.1)
+2. The proposal of the Sector structure and functions (see the Task No.. 4.1)
 
-- The creation of documents on internal organization  (see the Task No. 4.2)
+3. The creation of documents on internal organization  (see the Task No. 4.2)
 
-- The announcement of the competition for vacancies (see the Task No. 4.5)
+4. The announcement of the competition for vacancies (see the Task No. 4.5)
 
-- The  employment  of  persons  that  will  work  in  the  Sector  (see  the  Task No.4.7)
+5. The  employment  of  persons  that  will  work  in  the  Sector  (see  the  Task No.4.7)
 
 Ministry of Education and Science Montenegro
 
@@ -3681,17 +3636,17 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-- The identifying of needs for the training of the Sector's employees,
+6. The identifying of needs for the training of the Sector's employees,
 
-- Extra training for the Sector's employees,
+7. Extra training for the Sector's employees,
 
-- The creation of the Sector's Annual Work Plan
+8. The creation of the Sector's Annual Work Plan
 
 ###### 4. The priority tasks of the Sector for the Preparation, Printing and the Distribution of Materials in the light of education reform
 
-- The  preparation  for  printing,  the  printing  and  the  distribution  of  tests required  for  the  accomplishment  of  the  external  testing  of  knowledge  in secondary  schools,  in  cooperation  with  the  sector  for  the  Preparation, Organization and the Execution of the External Testing of knowledge,
+1. The  preparation  for  printing,  the  printing  and  the  distribution  of  tests required  for  the  accomplishment  of  the  external  testing  of  knowledge  in secondary  schools,  in  cooperation  with  the  sector  for  the  Preparation, Organization and the Execution of the External Testing of knowledge,
 
-- The preparation for printing and the printing of manuals and instructions for students  and  teachers  for  the  training  and  the  accomplishment  of  the external testing of knowledge.
+2. The preparation for printing and the printing of manuals and instructions for students  and  teachers  for  the  training  and  the  accomplishment  of  the external testing of knowledge.
 
 110
 
@@ -3709,11 +3664,11 @@ Strategic Plan of Education Reform
 
 ###### 1. The projected functions of the future Sector for the Scanning and the Analyzing of the Results form the External Testing of Knowledge
 
-- 9 Electronic scanning of tests' results,
+- Electronic scanning of tests' results,
 
-- 9 The publishing and the distribution of the tests' results to schools,
+- The publishing and the distribution of the tests' results to schools,
 
-- 9 The analyzing of results for the purpose of the comparative study that is carried out by the Sector for Research Work
+- The analyzing of results for the purpose of the comparative study that is carried out by the Sector for Research Work
 
 ###### 2. The projected structure of the future sector for the Scanning and the Analyzing of the Results form the External Testing of Knowledge
 
@@ -3725,17 +3680,17 @@ Total Number of Performers: | 3
 
 ###### 3. The basic preconditions for the operational unit work
 
-- 1 The  providing  of  space  and  technical  conditions  for  work  (see  the  Task No. A-4/5/6)
+1 The  providing  of  space  and  technical  conditions  for  work  (see  the  Task No. A-4/5/6)
 
-- The proposal of the Sector structure and functions (see the Task No.. 4.1)
+2. The proposal of the Sector structure and functions (see the Task No.. 4.1)
 
-- The creation of documents on internal organization  (see the Task No. 4.2
+3. The creation of documents on internal organization  (see the Task No. 4.2
 
-- The announcement of the competition for vacancies (see the Task No. 4.5)
+4. The announcement of the competition for vacancies (see the Task No. 4.5)
 
-- The  employment  of  persons  that  will  work  in  the  Sector  (see  the  Task No.4.7)
+5. The  employment  of  persons  that  will  work  in  the  Sector  (see  the  Task No.4.7)
 
-- The identifying of needs for the training of the Sector's employees,
+6. The identifying of needs for the training of the Sector's employees,
 
 Ministry of Education and Science Montenegro
 
@@ -3747,15 +3702,15 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-- Extra training for the Sector's employees,
+7. Extra training for the Sector's employees,
 
-- The creation of the Sector's Annual Work Plan
+8. The creation of the Sector's Annual Work Plan
 
 ###### 4. The priority tasks of the Sector for the Scanning and the Analyzing of the Results From the External Testing of Knowledge
 
-- The scanning of the results of the external testing of knowledge, which is carried out by the Sector for Preparation, Organization and the Execution of the External Testing of Knowledge,
+1. The scanning of the results of the external testing of knowledge, which is carried out by the Sector for Preparation, Organization and the Execution of the External Testing of Knowledge,
 
-- The Analyzing of the results from the external testing of knowledge, which is  carried  out  by  the  Sector  for  the  Preparation,  Organization  and  the Execution of the External Testing of Knowledge, and their transferring to the Sector for Research Work.
+2. The Analyzing of the results from the external testing of knowledge, which is  carried  out  by  the  Sector  for  the  Preparation,  Organization  and  the Execution of the External Testing of Knowledge, and their transferring to the Sector for Research Work.
 
 112
 
@@ -3773,11 +3728,11 @@ Strategic Plan of Education Reform
 
 ###### 1. The projected functions of the future Sector for the Publishing and Library Science
 
-- 9 The preparation of the manuals and instructions for teachers and students for the training and the execution of the external testing of knowledge,
+- The preparation of the manuals and instructions for teachers and students for the training and the execution of the external testing of knowledge,
 
-- 9 The selling of manuals and instructions for teachers and students for the training and the execution of the external testing of knowledge, as well as of the tests that have been used in previous years,
+- The selling of manuals and instructions for teachers and students for the training and the execution of the external testing of knowledge, as well as of the tests that have been used in previous years,
 
-- 9 The gathering of library units (books) in relation to the external testing of knowledge,
+- The gathering of library units (books) in relation to the external testing of knowledge,
 
 ###### 2. The  projected  structure  of  the  future  Sector  for  the  Publishing  and Library Science
 
@@ -3790,11 +3745,11 @@ Total Number of performers: | 3
 
 ###### 3. The basic preconditions for the future Sector for the Publishing and Library Science
 
-- The providing of space and technical conditions for work (see the Task No. A-4/5/6)
+1. The providing of space and technical conditions for work (see the Task No. A-4/5/6)
 
-- The proposal of the Sector structure and functions (see the Task No.. 4.1)
+2. The proposal of the Sector structure and functions (see the Task No.. 4.1)
 
-- The creation of documents on internal organization  (see the Task No. 4.2)
+3. The creation of documents on internal organization  (see the Task No. 4.2)
 
 Ministry of Education and Science Montenegro
 
@@ -3806,21 +3761,21 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-- The announcement of the competition for vacancies (see the Task No. 4.5)
+4. The announcement of the competition for vacancies (see the Task No. 4.5)
 
-- The  employment  of  persons  that  will  work  in  the  Sector  (see  the  Task No.4.7)
+5. The  employment  of  persons  that  will  work  in  the  Sector  (see  the  Task No.4.7)
 
-- The identifying of needs for the training of the Sector's employees,
+6. The identifying of needs for the training of the Sector's employees,
 
-- Extra training for the Sector's employees,
+7. Extra training for the Sector's employees,
 
-- The creation of the Sector's Annual Work Plan
+8. The creation of the Sector's Annual Work Plan
 
 ###### 4. The  priority  tasks  of  the  Sector  for  the  Publishing  and  Library Science in the light of education reform
 
-- The selling of manuals and instructions for students and teachers for the training and the execution of the external testing of knowledge,
+1. The selling of manuals and instructions for students and teachers for the training and the execution of the external testing of knowledge,
 
-- The gathering of library units relating to the external testing of knowledge.
+2. The gathering of library units relating to the external testing of knowledge.
 
 114
 
@@ -3838,17 +3793,17 @@ Strategic Plan of Education Reform
 
 ###### 1. The projected functions of the future Sector for Computer support of the Examination Center of Montenegro (ECM) work
 
-- 9 The  maintaining  of  servers,  networks,  computers  and  software  that  are necessary for the work of ECM;
+- The  maintaining  of  servers,  networks,  computers  and  software  that  are necessary for the work of ECM;
 
-- 9 Computed material for printing;
+- Computed material for printing;
 
-- 9 Computer controlling of the printing and the packing of materials,
+- Computer controlling of the printing and the packing of materials,
 
-- 9 The providing of computer support in tests' scanning,
+- The providing of computer support in tests' scanning,
 
-- 9 The storage of results into the database,
+- The storage of results into the database,
 
-- 9 Computer support to the system for the securing the visual monitoring, and to the electronic securing of ECM buildings
+- Computer support to the system for the securing the visual monitoring, and to the electronic securing of ECM buildings
 
 ###### 2. The projected structure of the future Sector for the Computer Support of ECM work
 
@@ -3861,7 +3816,7 @@ Total Number of Performers: | 6
 
 ###### 3. The basic preconditions for the commencement of organizational unit work
 
-- The providing of space and technical conditions for work (see the Task No. A-4/5/6)
+1. The providing of space and technical conditions for work (see the Task No. A-4/5/6)
 
 Ministry of Education and Science Montenegro
 
@@ -3873,23 +3828,23 @@ Ministry of Education and Science Montenegro
 
 Strategic Plan of Education Reform
 
-- The proposal of the Sector structure and functions (see the Task No.. 4.1)
+2. The proposal of the Sector structure and functions (see the Task No.. 4.1)
 
-- The creation of documents on internal organization  (see the Task No. 4.2)
+3. The creation of documents on internal organization  (see the Task No. 4.2)
 
-- The announcement of the competition for vacancies (see the Task No. 4.5)
+4. The announcement of the competition for vacancies (see the Task No. 4.5)
 
-- The  employment  of  persons  that  will  work  in  the  Sector  (see  the  Task No.4.7)
+5. The  employment  of  persons  that  will  work  in  the  Sector  (see  the  Task No.4.7)
 
-- The identifying of needs for the training of the Sector's employees,
+6. The identifying of needs for the training of the Sector's employees,
 
-- Extra training for the Sector's employees,
+7. Extra training for the Sector's employees,
 
-- The creation of the Sector's Annual Work Plan
+8. The creation of the Sector's Annual Work Plan
 
 ###### 4. The  priority  tasks  of  the  Sector  for  the  Computer  Support  of  ECM work.
 
-- The providing of technical support, required for the undisturbed functioning of ECM.
+1. The providing of technical support, required for the undisturbed functioning of ECM.
 
 116
 
@@ -3903,21 +3858,21 @@ Strategic Plan of Education Reform
 
 ## Annex 7
 ### Summary: Tasks, deadlines and projected budget
---- | --- | --- | ---
 Task | Deadline | Projected budget
-1. | Reorganization of MES of RM | 01 st July 2003 | 89,800 €
-2. | The creation of bylaws | 01 st December 2003 | 27,000 €
-3. | The founding of councils for education | 01 st March 2003 | 49,500 €
-A-4/5/6 | The providing of space and technical conditions for the work of Bureau for education services, Center for vocational education and Examination center of Montenegro | 31 st December 2004 | 4.651,525 €
-4. | The establishing of the Bureau for education services | 01 st May 2003 | 253,000 €
-6. | The establishing of the Center for vocational education | 01 st May 2003 | 153,100 €
-7. | The establishing of the Examination center of Montenegro | 30 th December 2004 | 74,100 €
+--- | --- | --- | ---
+1. | Reorganization of MES of RM | 01st July 2003 | 89,800 €
+2. | The creation of bylaws | 01st December 2003 | 27,000 €
+3. | The founding of councils for education | 01st March 2003 | 49,500 €
+A-4/5/6 | The providing of space and technical conditions for the work of Bureau for education services, Center for vocational education and Examination center of Montenegro | 31st December 2004 | 4.651,525 €
+4. | The establishing of the Bureau for education services | 01st May 2003 | 253,000 €
+6. | The establishing of the Center for vocational education | 01st May 2003 | 153,100 €
+7. | The establishing of the Examination center of Montenegro | 30th December 2004 | 74,100 €
 8. | Media campaign for the reform of education | Permanently | 31,200 €
-9. | Rationalization of school network | 01 st December 2003 | 13,500 €
-10. | The selection of institutions for the commencement of education reform | 01 st December 2003 | 18,050 €
-11. | The introduction of ICT in education system of Montenegro | 31 st December 2004 | 3.474,725 €
-12. | Renovation of curriculums for pre-university education in Montenegro | 01 st September 2004 | 2.195,029 €
-13. | The writing of textbooks for the reformed schools in Montenegro | 10 th September 2004 | 2.282.440 €
+9. | Rationalization of school network | 01st December 2003 | 13,500 €
+10. | The selection of institutions for the commencement of education reform | 01st December 2003 | 18,050 €
+11. | The introduction of ICT in education system of Montenegro | 31st December 2004 | 3.474,725 €
+12. | Renovation of curriculums for pre-university education in Montenegro | 01st September 2004 | 2.195,029 €
+13. | The writing of textbooks for the reformed schools in Montenegro | 10th September 2004 | 2.282.440 €
 TOTAL: | 13.307,969 €
 
 Ministry of Education and Science Montenegro
