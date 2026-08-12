@@ -1,6 +1,18 @@
 [[START OF PAGE 1]]
 
+# LEY ORGÁNICA PARA LA PROTECCIÓN DE NIÑOS, NIÑAS Y ADOLESCENTES
+
+G.O. (5.859 Extraordinaria) 10/12/2007
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA BOLIVARIANA DE VENEZUELA
+
+DECRETA
+
 La siguiente,
+
+# LEY ORGÁNICA PARA LA PROTECCION DE NIÑOS, NIÑAS Y ADOLESCENTES
+
+## TÍTULO I DISPOSICIONES DIRECTIVAS
 
 ##### Artículo 1 Objeto
 
@@ -15,18 +27,6 @@ Si existieren dudas acerca de sí una persona es niño o adolescente, niña o ad
 ##### Artículo 3 Principio de igualdad y no discriminación
 
 Las disposiciones de esta Ley se aplican por igual a todos los niños, niñas y adolescentes, sin discriminación alguna fundada en motivos de raza, color, sexo, edad, idioma,
-
-# LEY ORGÁNICA PARA LA PROTECCIÓN DE NIÑOS, NIÑAS Y ADOLESCENTES
-
-G.O. (5.859 Extraordinaria) 10/12/2007
-
-LA ASAMBLEA NACIONAL DE LA REPÚBLICA BOLIVARIANA DE VENEZUELA
-
-DECRETA
-
-# LEY ORGÁNICA PARA LA PROTECCION DE NIÑOS, NIÑAS Y ADOLESCENTES
-
-## TÍTULO I DISPOSICIONES DIRECTIVAS
 
 [[END OF PAGE 1]]
 
@@ -806,6 +806,8 @@ Todos los niños, niñas y adolescentes tienen los siguientes deberes:
 
 [[START OF PAGE 24]]
 
+### Capítulo III Derecho a la Protección en Materia de Trabajo
+
 ##### Artículo 94 Derecho a la protección en el trabajo.
 
 Todos  los  niños,  niñas  y  adolescentes  trabajadores  y  trabajadoras  tienen  derecho  a  estar protegidos  o  protegidas  por  el  Estado,  las  familias  y  la  sociedad,  en  especial  contra  la explotación  económica  y  el  desempeño  de  cualquier  trabajo  que  pueda  entorpecer  su educación, sea peligroso o nocivo para su salud o para su desarrollo integral.
@@ -834,8 +836,6 @@ El Consejo de Protección de Niños, Niñas y Adolescentes podrá autorizar, en 
 
 ###### Parágrafo Cuarto.
 En todos los casos, antes de conceder autorización, el o la adolescente deberá someterse a un examen médico integral, que acredite su salud y su capacidad física y  mental  para  el  desempeño  de  las  labores  que  deberá  realizar. Asimismo,  debe  oírse  la opinión del o de la adolescente y, cuando sea posible, la de su padre, madre, representantes o responsables.
-
-### Capítulo III Derecho a la Protección en Materia de Trabajo
 
 [[END OF PAGE 24]]
 
@@ -1087,6 +1087,8 @@ Las  políticas  adoptadas  conforme  a  esta  Ley  tienen  carácter  vinculant
 
 [[START OF PAGE 31]]
 
+#### Sección Segunda Programas
+
 ##### Artículo 123 Definición.
 
 El programa o proyecto es el plan desarrollado por personas naturales, jurídicas o entidades de atención, con el objeto de proteger, atender, capacitar, fortalecer los vínculos familiares, lograr la inserción social, entre otros, dirigidos a garantizar los derechos de los niños, niñas y adolescentes.
@@ -1110,8 +1112,6 @@ Con el objeto de desarrollar políticas y permitir la ejecución de las medidas 
 - De  localización:  para  atender  las  necesidades  de  los  niños,  niñas  y  adolescentes  de localizar  a  su  padre,  madre,  familiares,  representantes  o  responsables;  que  se  encuentren extraviados, desaparecidos o hayan sido de alguna forma separados o separadas del seno de su familia o de la entidad de atención en la que se encuentran, o les hayan violado su derecho a la identidad.
 
 - De abrigo: para atender a los niños, niñas y adolescentes que lo necesiten, de acuerdo a lo previsto en el Artículo 127 de esta ley.
-
-#### Sección Segunda Programas
 
 [[END OF PAGE 31]]
 
@@ -1465,6 +1465,8 @@ En  cada  Dirección  Regional  del  Consejo  Nacional  de  Derechos  de  Niños
 
 ##### Artículo 146 DEROGADO.
 
+#### Sección Tercera Consejos Municipales de Derechos
+
 ##### Artículo 147 Atribuciones.
 
 Son atribuciones de los Consejos Municipales de Derechos de Niños, Niñas y Adolescentes:
@@ -1478,8 +1480,6 @@ Son atribuciones de los Consejos Municipales de Derechos de Niños, Niñas y Ado
 - Promover  la  divulgación  de  los  derechos,  garantías  y  deberes  de  niños,  niñas  y adolescentes y ser vocero de sus intereses e inquietudes.
 
 - Crear entidades de atención para la ejecución de programas de protección.
-
-#### Sección Tercera Consejos Municipales de Derechos
 
 [[END OF PAGE 42]]
 
@@ -1777,11 +1777,13 @@ La  Defensoría  del  Pueblo  debe  contar  con  defensores  y  defensoras  espe
 estado y municipio del territorio nacional y en el Distrito Capital.
 
 ##### Artículo 169-B Servicio Autónomo de la Defensa Pública
-El  Servicio  Autónomo  de  la  Defensa  Pública  deberá  contar  con  defensores  y  defensoras especiales  para  la  protección  de  niños,  niñas  y  adolescentes  en  cada  localidad  donde  se constituya un Tribunal de Protección de Niños, Niñas y Adolescentes.
+El Servicio Autónomo de la Defensa Pública deberá contar con defensores y defensoras
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
+
+especiales para la protección de niños, niñas y adolescentes en cada localidad donde se constituya un Tribunal de Protección de Niños, Niñas y Adolescentes.
 
 ##### Artículo 170 Atribuciones del Ministerio Público
 
@@ -1876,15 +1878,17 @@ Corresponde a los Tribunales de Protección de Niños, Niñas y Adolescentes y a
 ##### Artículo 174 Creación de los Tribunales de Protección de Niños, Niñas y Adolescentes
 Los Tribunales de Protección de Niños, Niñas y Adolescentes tendrán sede en Caracas y en cada capital de estado, además de las localidades que determine la Dirección Ejecutiva de la Magistratura.
 
-##### Artículo 175 Complexión del Tribunal de Protección de Niños, Niñas y Adolescentes
+##### Artículo 175 Constitución del Tribunal de Protección de Niños, Niñas y Adolescentes
 
 Los  Tribunales  de  Protección  de  Niños,  Niñas  y  Adolescentes  se  organizan  en  circuitos judiciales, de acuerdo con lo que determine la Dirección Ejecutiva de la Magistratura, la cual podrá crear más de un circuito judicial de protección de niños, niñas y adolescentes en una misma circunscripción judicial, cuando por razones de servicio sea necesario. Su organización y funcionamiento se rige por las disposiciones establecidas en esta Ley, en las leyes orgánicas correspondientes y en el Reglamento Interno de los Circuitos Judiciales de Protección de Niños, Niñas y Adolescentes.
 
-En cada circuito judicial, los Tribunales de Protección de Niños, Niñas y Adolescentes están constituidos en primera instancia por jueces o juezas de mediación y sustanciación y, jueces o  juezas  de  juicio,  y  en  segunda  instancia,  por  jueces  o  juezas  superiores.  La  Dirección Ejecutiva de la Magistratura determinará en cada circuito judicial, según las necesidades del servicio, si la ejecución corresponde a los jueces o juezas de mediación y sustanciación, a los jueces o juezas de juicio o, si es necesario crear jueces o juezas de ejecución en materia de protección de los niños, niñas y adolescentes. Así mismo, podrá separar la competencia de  mediación  y  de  sustanciación,  atribuyendo  a  jueces  o  juezas  de  primera  instancia  del respectivo circuito judicial cada una de estas atribuciones.
+En cada circuito judicial, los Tribunales de Protección de Niños, Niñas y Adolescentes están constituidos en primera instancia por jueces o juezas de mediación y sustanciación y, jueces o juezas de juicio, y en segunda instancia, por jueces o juezas superiores. La Dirección Ejecutiva de la Magistratura determinará en cada circuito judicial, según las necesidades del servicio, si la ejecución corresponde a los jueces o juezas de mediación y sustanciación, a los jueces o juezas de juicio o, si es necesario crear jueces o juezas de ejecución en materia de protección de los niños, niñas y adolescentes. Así mismo, podrá separar la competencia de mediación y de sustanciación, atribuyendo a jueces o juezas de primera instancia del
 
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
+
+respectivo circuito judicial cada una de estas atribuciones.
 
 ##### Artículo 176 Recursos de casación, control de la legalidad e interpretación
 
@@ -1995,11 +1999,13 @@ Los  Tribunales  de  Protección  de  Niños,  Niñas  y  Adolescentes  conocen 
 
 ##### Artículo 179 Equipos multidisciplinarios
 
-Cada Tribunal  de  Protección  de  Niños,  Niñas  y Adolescentes  debe  contar  con  un  equipo multidisciplinario  que  se  organizará  como  servicio  auxiliar  de  carácter  independiente  e imparcial, para brindar al ejercicio de la función jurisdiccional de protección la consideración integral de factores biológicos, psicológicos, sociales y legales necesarios para cada caso, de forma  colegiada  e  interdisciplinaria.  Este  equipo  estará  integrado  por  profesionales  de  la medicina psiquiátrica, de la psicología, del trabajo social, del derecho y, en las zonas en que sea necesario, de expertos interculturales bilingües en idiomas indígenas.
+Cada Tribunal de Protección de Niños, Niñas y Adolescentes debe contar con un equipo multidisciplinario que se organizará como servicio auxiliar de carácter independiente e imparcial, para brindar al ejercicio de la función jurisdiccional de protección la consideración integral de factores biológicos, psicológicos, sociales y legales necesarios para cada caso, de
 
 [[END OF PAGE 57]]
 
 [[START OF PAGE 58]]
+
+forma colegiada e interdisciplinaria. Este equipo estará integrado por profesionales de la medicina psiquiátrica, de la psicología, del trabajo social, del derecho y, en las zonas en que sea necesario, de expertos interculturales bilingües en idiomas indígenas.
 
 Estos equipos multidisciplinarios estarán integrados por funcionarios y funcionarias judiciales de carrera. Este personal sólo podrá prestar sus servicios exclusivamente a los Tribunales de Protección de Niños, Niñas y Adolescentes.
 
@@ -2068,7 +2074,7 @@ Las  entidades  de  atención,  teniendo  en  cuenta  el  principio  del  inter�
 
 - Atención individualizada y en pequeños grupos.
 
-- Garantía de alimentación y vestido, así como de los objetos necesarios para su higiene y aseo personal.--
+- Garantía de alimentación y vestido, así como de los objetos necesarios para su higiene y aseo personal.
 
 - Garantía de atención médica, psicológica, psiquiátrica, odontológica y farmacéutica.
 
@@ -2126,13 +2132,15 @@ Efectuado  el  correspondiente  registro  o  inscripción,  el  Consejo  Municip
 
 ##### Artículo 188 Entidades de atención con cobertura estadal o nacional.
 
-Las entidades de atención que ejecuten programas con cobertura estadal o nacional, deben efectuar un único registro conforme a lo dispuesto en el Artículo 186. En este supuesto, la entidad de atención debe presentar una copia de su registro a cada uno de los Consejos de Derechos de los municipios donde vaya a ejecutar sus programas.
+Las entidades de atención que ejecuten programas con cobertura estadal o nacional, deben
 
 [[END OF PAGE 61]]
 
 [[START OF PAGE 62]]
 
-La aceptación conforme de la copia por parte del Consejo Municipal de Derechos de Niños, Niñas y Adolescentes, equivale, en el municipio donde se produjo, al registro de la entidad de atención  de  que  se  trate.  Éste  sólo  podrá  negarse  a  aceptar  la  copia  en  el  caso  que  la entidad de atención se encuentre en los supuestos a que se refieren los literales a), b), e) y f) del Artículo 192 de esta Ley.
+efectuar un único registro conforme a lo dispuesto en el Artículo 186. En este supuesto, la entidad de atención debe presentar una copia de su registro a cada uno de los Consejos de Derechos de los municipios donde vaya a ejecutar sus programas.
+
+La aceptación conforme de la copia por parte del Consejo Municipal de Derechos de Niños, Niñas y Adolescentes, equivale, en el municipio donde se produjo, al registro de la entidad de atención de que se trate. Éste sólo podrá negarse a aceptar la copia en el caso que la entidad de atención se encuentre en los supuestos a que se refieren los literales a), b), e) y f) del Artículo 192 de esta Ley.
 
 ##### Artículo 189 Modificaciones
 
@@ -2201,11 +2209,12 @@ El  Consejo Municipal de Derechos de Niños, Niñas y Adolescentes negará el re
 El Consejo Municipal de Derechos de Niños, Niñas y Adolescentes, negará la inscripción de un  programa  cuando,  a  su  juicio,  el  mismo  no  responda  a  los  principios  de  respeto  a  los derechos y garantías consagrados en esta Ley, o no cumpla con los requisitos establecidos en el Artículo 191 de esta Ley.
 
 ##### Artículo 194 Nueva solicitud
-Una vez superada la causa que originó la negación del registro o inscripción a que se refiere los Artículo s  192  y  193  de  esta  Ley,  el  o  la  responsable  de  la  entidad  de  atención  o  del programa podrá presentar nueva solicitud.
 
 [[END OF PAGE 63]]
 
 [[START OF PAGE 64]]
+
+Una vez superada la causa que originó la negación del registro o inscripción a que se refiere los Artículos 192 y 193 de esta Ley, el o la responsable de la entidad de atención o del programa podrá presentar nueva solicitud.
 
 ##### Artículo 195 Vigencia del registro
 
@@ -2334,7 +2343,7 @@ Para ser Defensor o Defensora de Niños, Niñas y Adolescentes se requiere:
 
 - Reconocida idoneidad moral.
 
-- Edad superiora veintiún años.
+- Edad superior a veintiún años.
 
 - Residir o trabajar en el municipio.
 
@@ -2474,7 +2483,7 @@ El  obligado  u  obligada  que  incumpla  injustificadamente  con  la  Obligaci�
 El padre, madre, representante o responsable que no asegure al niño, niña o adolescente su derecho a ser inscrito o inscrita y a obtener sus documentos de identificación en el plazo que establece la Ley, a pesar de haber sido requerido para ello, será sancionado o sancionada con multa de quince unidades tributarias (15 U.T.) a cuarenta y cinco unidades tributarias (45 U.T.).
 
 ##### Artículo 225 Violación del derecho a ser inscrito o inscrita y a obtener documentos de identidad
-Todo funcionario o funcionaria público que entorpezca, impida, retrase, viole o amenace el ejercicio del derecho a ser inscrito o inscrita u obtener los documentos de identificación de un niño, niña o adolescente, será  responsable civil, penal y administrativamente y, en consecuencia, será sancionado o. sancionada con multa de quince unidades tributarias (15 U.T.) a noventa unidades tributarias (90 U.T.).
+Todo funcionario o funcionaria público que entorpezca, impida, retrase, viole o amenace el ejercicio del derecho a ser inscrito o inscrita u obtener los documentos de identificación de un niño, niña o adolescente, será responsable civil, penal y administrativamente y, en consecuencia, será sancionado o sancionada con multa de quince unidades tributarias (15 U.T.) a noventa unidades tributarias (90 U.T.).
 
 ##### Artículo 226 Violación del derecho a la educación
 
@@ -2492,13 +2501,15 @@ En  caso  que  el  juez  o  jueza  ordene  realizar  el  juicio  oral  a  puerta
 
 ##### Artículo 228 Violación de la confidencialidad por un medio de comunicación
 
-Si el hecho a que se refiere el Artículo anterior fuere practicado por o a través de un medio de comunicación,  además  de  la  multa  allí  prevista,  podrá  aplicarse,  según  la  gravedad  de  la infracción, al medio de comunicación de que se trate, una multa equivalente al valor de uno a diez minutos de publicidad en el horario en que se cometió la infracción, si se trata de medio radiofónico o audiovisual, o el equivalente al valor de hasta dos páginas de publicación, si se trata de medio impreso. En ambos casos procede, además la suspensión hasta por dos días continuos de la transmisión o publicación.
+Si el hecho a que se refiere el Artículo anterior fuere practicado por o a través de un medio de
 
 [[END OF PAGE 71]]
 
 [[START OF PAGE 72]]
 
-##### Artículo 229 Entrada  de  niños,  niñas  o  adolescentes  a  establecimientos  donde  se  realicen  juegos  de envite o azar
+comunicación, además de la multa allí prevista, podrá aplicarse, según la gravedad de la infracción, al medio de comunicación de que se trate, una multa equivalente al valor de uno a diez minutos de publicidad en el horario en que se cometió la infracción, si se trata de medio radiofónico o audiovisual, o el equivalente al valor de hasta dos páginas de publicación, si se trata de medio impreso. En ambos casos procede, además la suspensión hasta por dos días continuos de la transmisión o publicación.
+
+##### Artículo 229 Entrada de niños, niñas o adolescentes a establecimientos donde se realicen juegos de envite o azar
 
 Queda  prohibida  la  entrada  de  niños,  niñas  y  adolescentes  a  locales  o  establecimientos donde  se  realicen  juegos  de  envite  o  azar.  Su  incumplimiento  o  quien  lo  favorezca  o  lo permita acarreará la suspensión inmediata de tal actividad, y será sancionado o sancionada con multa de treinta unidades tributarias (30 U.T.) a noventa unidades tributarias (90 U.T.).
 
@@ -2520,11 +2531,13 @@ Quien teniendo a un niño, niña o adolescente bajo su Patria Potestad, Tutela, 
 
 ##### Artículo 233 Omisión de Información acerca de la naturaleza de un espectáculo público.
 
-El  o  la  responsable  de  espectáculo  público  que  omita  colocar  en  lugar  visible  y  de  fácil acceso en la entrada del local de exhibición, información destacada sobre la naturaleza del espectáculo y la edad cronológica permitida para tener acceso al mismo, será sancionado o sancionada con multa de treinta unidades tributarias (30 U.T.) a noventa unidades tributarias (90 U.T.). En estos casos, y según la gravedad de la infracción, podrá también decretarse el cierre del establecimiento público de que se trate, de uno a quince días.
+El o la responsable de espectáculo público que omita colocar en lugar visible y de fácil acceso en la entrada del local de exhibición, información destacada sobre la naturaleza del espectáculo y la edad cronológica permitida para tener acceso al mismo, será sancionado o sancionada con multa de treinta unidades tributarias (30 U.T.) a noventa unidades tributarias (90 U.T.). En estos casos, y según la gravedad de la infracción, podrá también decretarse el
 
 [[END OF PAGE 72]]
 
 [[START OF PAGE 73]]
+
+cierre del establecimiento público de que se trate, de uno a quince días.
 
 ##### Artículo 234 Actuación de los medios de comunicación en desacuerdo con esta Ley.
 
@@ -2946,6 +2959,8 @@ En  los  casos  en  que  el  órgano  administrativo  competente  tenga  conocim
 La  falta  de  actuación  de  la  persona  que  haya  iniciado  el  procedimiento  no  ocasiona  la perención de la instancia.
 
 ##### Artículo 293 Cálculo de los lapsos.
+
+Salvo disposición en contrario, los lapsos, en los procedimientos administrativos, deben calcularse por días hábiles.
 
 #### Sección Segunda Procedimiento Administrativo
 
@@ -3415,7 +3430,7 @@ La Patria Potestad se extingue en los siguientes casos:
 
 - Muerte del padre, de la madre, o de ambos.
 
-- Reincidencia en cualquiera de las causal es de privación de la patria potestad, previstas en el Artículo 352 de esta ley.
+- Reincidencia en cualquiera de las causales de privación de la patria potestad, previstas en el Artículo 352 de esta ley.
 
 - Consentimiento  legal  para  la  adopción  del  hijo  o  hija,  excepto  cuando  se  trate  de  la adopción del hijo o hija por el otro cónyuge.
 
@@ -3523,7 +3538,9 @@ En este caso, los obligados y obligadas pueden acordar el prorrateo mediante con
 
 [[START OF PAGE 101]]
 
-Puede  también  realizarse  la  conciliación  mediante  la  participación  de  una  Defensoría  de Niños, Niñas y Adolescente, conforme a lo previsto en la literal f) del Artículo 202 de esta Ley.
+existir acuerdo en cuanto al prorrateo, corresponde al juez o jueza establecer la proporción en que debe contribuir cada obligado u obligada.
+
+Puede también realizarse la conciliación mediante la participación de una Defensoría de Niños, Niñas y Adolescentes, conforme a lo previsto en el literal f) del Artículo 202 de esta Ley.
 
 ##### Artículo 373 Equiparación de los hijos e hijas para cumplirse la obligación
 
@@ -3563,13 +3580,13 @@ El patrono o patrona o quien haga sus veces, los administradores, administradora
 
 ##### Artículo 381 Medidas preventivas
 
-El  juez  o  jueza  puede  acordar  cualquier  medida  preventiva  destinada  a  asegurar  el cumplimiento  de  la  Obligación  de  Manutención,  cuando  existan  en  autos  elementos probatorios de los cuales puedan extraer una presunción grave del riesgo manifiesto de que el obligado u obligada debe pagar las cantidades que, por tal concepto, corresponden a un niño, niña o adolescente. Se considera demostrado el riesgo manifiesto cuando, habiéndose impuesto  judicialmente  el  cumplimiento  de  la  Obligación  de  Manutención,  exista  retraso injustificado en el pago correspondiente a dos cuotas consecutivas.
+El juez o jueza puede acordar cualquier medida preventiva destinada a asegurar el cumplimiento de la Obligación de Manutención, cuando existan en autos elementos probatorios de los cuales pueda extraer una presunción grave del riesgo manifiesto de que el obligado u obligada deje de pagar las cantidades que, por tal concepto, corresponden a un niño, niña o adolescente. Se considera demostrado el riesgo manifiesto cuando, habiéndose impuesto judicialmente el cumplimiento de la Obligación de Manutención, exista retraso injustificado en el pago correspondiente a dos cuotas consecutivas.
 
 No  podrán  decretarse  la  medida  preventiva  prevista  en  este  Artículo  o  deberán  ser levantadas  de  inmediato  cuando  conste  prueba  suficiente  que  el  obligado  u  obligada  ha venido cumpliendo de forma voluntaria y oportuna la Obligación de Manutención.
 
 ##### Artículo 382 Medios que pueden ser autorizados para el pago de la obligación
 
-El  juez  o  jueza  puede  autorizar,  a  solicitud  del  obligado  u  obligada,  oída  la  opinión  del Ministerio  Público  y  siempre  que  resulte  manifiestamente  favorable  al  interés  superior  del niño, niña y adolescentes, que el cumplimiento de la obligación se haga efectivo a través de otros medios, tales como:
+El juez o jueza puede autorizar, a solicitud del obligado u obligada, oída la opinión del Ministerio Público y siempre que resulte manifiestamente favorable al interés superior del niño, niña o adolescente, que el cumplimiento de la obligación se haga efectivo a través de otros medios, tales como:
 
 - constitución de usufructo sobre un bien del obligado u obligada, el cual debe encontrarse libre  de  toda  deuda y gravamen y totalmente saneado. En su condición de usufructuario o usufructuaria, el niño, niña o adolescente no queda sujeto a las obligaciones previstas por la ley para tales casos;
 
@@ -3601,7 +3618,7 @@ El  padre  o  la  madre  que  no  ejerza  la  patria  potestad,  o  que  ejerci�
 
 ##### Artículo 386 Contenido de la convivencia familiar
 
-La convivencia familiar puede comprender no sólo el acceso a la residencia del niño, niña o adolescente, sino también la posibilidad de conducirlo a un lugar distinto al de su residencia, sí se autorizare especialmente para ello al interesado o interesada en la convivencia familiar. Asimismo,  pueden  comprender  cualquier  otra  forma  de  contacto  entre  el  niño,  niña  o adolescente  y  la  persona  a  quien  se  le  acuerda  la  convivencia  familiar,  tales  como: comunicaciones telefónicas, telegráficas, epistolares y computarizadas.
+La convivencia familiar puede comprender no sólo el acceso a la residencia del niño, niña o adolescente, sino también la posibilidad de conducirlo a un lugar distinto al de su residencia, si se autorizare especialmente para ello al interesado o interesada en la convivencia familiar. Asimismo, pueden comprender cualquier otra forma de contacto entre el niño, niña o adolescente y la persona a quien se le acuerda la convivencia familiar, tales como: comunicaciones telefónicas, telegráficas, epistolares y computarizadas.
 
 ##### Artículo 387 Fijación del Régimen de Convivencia Familiar
 
@@ -3676,7 +3693,7 @@ Mientras no se compruebe que la naturaleza de la separación del niño, niña o 
 
 A los fines de determinar la modalidad de familia sustituta que corresponde a cada caso, el juez o jueza debe tener en cuenta lo siguiente:
 
-- El niño, niña o adolescente debe ser oído u oída y su consentimiento es necesario si tiene doce años o más y no discapacidad mental que le impida discernir.
+- El niño, niña o adolescente debe ser oído u oída y su consentimiento es necesario si tiene doce años o más y no padece discapacidad mental que le impida discernir.
 
 - La conveniencia de que existan vínculos de parentesco, ya sea por consanguinidad o por afinidad, entre el niño, niña o adolescente y quienes pueden conformar la familia sustituta.
 
@@ -3736,7 +3753,7 @@ Cuando la colocación familiar se haya concedido a terceras personas, como conse
 
 De lograrse la integración o reintegración del niño, niña o adolescente en su familia de origen nuclear o ampliada, el Tribunal de Protección de Niños, Niñas y Adolescentes, a través de un programa de protección, debe hacer seguimiento durante el año siguiente a la fecha en la cual  se  produjo  dicha  integración  o  reintegración.  Durante  dicho  plazo  debe  realizarse  un mínimo de cuatro evaluaciones integrales. Simultáneamente, se debe incluir a esta familia de origen en aquellos programas de fortalecimiento familiar que estime conveniente.
 
-En caso que los progenitores del niño, niña o adolescente manifiesten su intención de lograr su integración o reintegración, pero las evaluaciones que se les realice resulten negativas, la colocación familiar debe continuar en la familia sustituta, hasta que se determine que procede dicha integración o reintegración o, que la misma es inviable o imposible. De evidenciarse inviable o imposible la integración o integración familiar, la colocación familiar debe continuar mientras se determina la adoptabilidad del respectivo niño, niña o adolescente y se tramita la adopción.
+En caso que los progenitores del niño, niña o adolescente manifiesten su intención de lograr su integración o reintegración, pero las evaluaciones que se les realice resulten negativas, la colocación familiar debe continuar en la familia sustituta, hasta que se determine que procede dicha integración o reintegración o, que la misma es inviable o imposible. De evidenciarse inviable o imposible la integración o reintegración familiar, la colocación familiar debe continuar mientras se determina la adoptabilidad del respectivo niño, niña o adolescente y se tramita la adopción.
 
 Lo dispuesto en este Artículo se aplica a las colocaciones en entidad de atención.
 
@@ -3768,7 +3785,7 @@ Para que a una persona o pareja pueda concedérsele una colocación familiar por
 
 ##### Artículo 401-B Seguimiento
 
-En todos los casos, una vez decidida la colocación familiar de un niño, niña o adolescente con  la persona  o  pareja que  seleccione  el juez o jueza, el o la responsable  del correspondiente programa de colocación familiar, debe hacer seguimiento de dicha colocación, realizando una evaluación integral y elaborando el respectivo informe bio-psicosocial-legal. De los resultados de este seguimiento debe informar al respectivo juez o jueza de mediación y sustanciación cada tres meses. Así mismo, dicha información debe remitirse a  la  correspondiente  oficina  de  adopciones  del  Consejo  Nacional  de  Derechos  de  Niños, Niñas y Adolescentes, a los fines del Artículo 493-D de esta Ley.
+En todos los casos, una vez decidida la colocación familiar de un niño, niña o adolescente con la persona o pareja que seleccione el juez o jueza, el o la responsable del correspondiente programa de colocación familiar, debe hacer seguimiento de dicha colocación, realizando una evaluación integral y elaborando el respectivo informe bio-psico-social-legal. De los resultados de este seguimiento debe informar al respectivo juez o jueza de mediación y sustanciación cada tres meses. Así mismo, dicha información debe remitirse a la correspondiente oficina de adopciones del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes, a los fines del Artículo 493-D de esta Ley.
 
 ##### Artículo 402 Registro
 El  Consejo  de  Protección  debe  llevar  un  registro  de  las  personas  a  quienes  se  les  ha otorgado colocaciones familiares y de aquéllas que resultan elegibles para ello, así como de los programas respectivos.
@@ -3894,9 +3911,9 @@ Los  o  las  solicitantes  de  la  adopción  deben  ser  estudiados  por  la  r
 
 Para decretarse la adopción debe haberse cumplido un período de prueba de seis meses, por  lo  menos,  durante  el  cual  el  candidato  o  candidata  a  adopción  debe  permanecer,  de manera ininterrumpida, en el hogar de quienes hayan solicitado la adopción.
 
-La respectiva oficina de adopciones debe realizar, durante este lapso, dos evaluaciones, al menos, para informar al juez o jueza de mediación y sustanciación acercar de los resultados de esta convivencia.
+La respectiva oficina de adopciones debe realizar, durante este lapso, dos evaluaciones, al menos, para informar al juez o jueza de mediación y sustanciación acerca de los resultados de esta convivencia.
 
-En el caso de las opciones internacionales, si el candidato o candidata a adopción tiene su residencia  habitual  en  el  territorio  nacional,  el  período  de  prueba  será  de  un  año  y  deben realizarse tres evaluaciones, al menos. A tal efecto, los organismos públicos o instituciones extranjeras autorizadas que presenten la respectiva a solicitud de adopción, son responsables  del  seguimiento  que  debe  hacerse  durante  el  correspondiente  período  de prueba,  de  acuerdo  con  los  términos  establecidos  en  el  compromiso  de  protección  y seguimiento  que  deben  haber  suscrito  con  las  autoridades  venezolanas  competentes.  Los informes de seguimiento del período de prueba deben ser remitidos por dichos organismos e instituciones,  tanto  al  Tribunal  de  Protección  de  Niños  Niñas  y  Adolescentes,  como  a  la Oficina  Nacional  de  Adopciones  del  Consejo  Nacional  de  Derechos  de  Niños,  Niñas  y Adolescentes.
+En el caso de las adopciones internacionales, si el candidato o candidata a adopción tiene su residencia habitual en el territorio nacional, el período de prueba será de un año y deben realizarse tres evaluaciones, al menos. A tal efecto, los organismos públicos o instituciones extranjeras autorizadas que presenten la respectiva solicitud de adopción, son responsables del seguimiento que debe hacerse durante el correspondiente período de prueba, de acuerdo con los términos establecidos en el compromiso de protección y seguimiento que deben haber suscrito con las autoridades venezolanas competentes. Los informes de seguimiento del período de prueba deben ser remitidos por dichos organismos e instituciones, tanto al Tribunal de Protección de Niños, Niñas y Adolescentes, como a la Oficina Nacional de Adopciones del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes.
 
 [[END OF PAGE 113]]
 
@@ -3912,7 +3929,7 @@ Mientras dure el período de prueba o su prórroga, si la hubiere, se concede a 
 
 ##### Artículo 425 Efectos de filiación
 
-La adopción confiere al adoptado o adoptada la condición de hijo o hija, y a al adoptante la condición de padre o madre.
+La adopción confiere al adoptado o adoptada la condición de hijo o hija, y al adoptante la condición de padre o madre.
 
 ##### Artículo 426 Constitución de parentesco
 
@@ -3987,7 +4004,7 @@ La normativa procesal en materia de protección de niños, niñas y adolescentes
 
 - Concentración.  Iniciado  el  debate,  éste  debe  concluir  en  el  mismo  día.  Si  ello  no  fuere posible continuará durante el menor número de días consecutivos.
 
-- Uniformidad.  Las  controversias  que  se  susciten  entre  partes  en  reclamación  de  algún derecho se tramitan por los procedimientos contenidos en esta Ley, aunque por otra leyes tengan pautado un procedimiento especial.
+- Uniformidad. Las controversias que se susciten entre partes en reclamación de algún derecho se tramitan por los procedimientos contenidos en esta Ley, aunque por otras leyes tengan pautado un procedimiento especial.
 
 - Medios alternativos de solución de conflictos. El juez o jueza debe promover, a lo largo del proceso, la posibilidad de utilizar los medios alternativos de solución de conflictos, tales como la  mediación,  salvo  en  aquellas  materias  cuya  naturaleza  no  la  permita  o  se  encuentre expresamente prohibida por la ley.
 
@@ -4023,7 +4040,7 @@ En aquellos procesos iniciados por los y las adolescentes, sus padres, madres, r
 
 ##### Artículo 452 Materias y normas supletorias aplicables
 
-El procedimiento o ordinario al que se refiere este Capítulo se observará para tramitar todas las  materias  contempladas  en  el Artículo  177  de  esta  Ley,  salvo  las  excepciones  prevista expresamente en esta Ley.
+El procedimiento ordinario al que se refiere este Capítulo se observará para tramitar todas las materias contempladas en el Artículo 177 de esta Ley, salvo las excepciones previstas expresamente en esta Ley.
 
 Se aplicarán supletoriamente las disposiciones de la Ley Orgánica Procesal del Trabajo, del Código  de  Procedimiento  Civil  y  del  Código  Civil  en  cuanto  no  se  opongan  a  las  aquí previstas.
 
@@ -4062,7 +4079,7 @@ La  demanda  puede  ser  presentada  en  forma  oral  o  escrita,  con  o  sin  
 
 - Nombre, apellido y domicilio de la parte demandante y de la demandada.
 
-- Si  se  demanda  a  una  persona  jurídica,  los  datos  concernientes  a  su  denominación, domicilio y los relativos al nombre y apellidos de cualquiera de sus representantes legales, estatuarios o judiciales.
+- Si se demanda a una persona jurídica, los datos concernientes a su denominación, domicilio y los relativos al nombre y apellidos de cualquiera de sus representantes legales, estatutarios o judiciales.
 
 - El objeto de la demanda, es decir, lo que se pide o reclama.
 
@@ -4116,7 +4133,7 @@ El  Tribunal  también  puede  practicar  la  notificación  de  la  parte  dema
 
 Si la notificación por boleta o por medio electrónico no fuere posible y la parte demandada fuere una persona jurídica, la parte demandante puede solicitar, a su elección, la notificación por fijación de cartel o por correo.
 
-La notificación por fijación de cartel se debe realizar mediante un cartel que fijará el alguacil en  la  puerta  de  la  sede  de  la  persona  jurídica  y  la  entrega  de  una  copia  del  mismo  al representante  legal  o  judicial  de  la  persona  jurídica,  a  uno  cualquiera  de  sus  directores, directoras  o  gerentes,  o  la  consignación  en  su  secretaria  o  en  su  oficina  receptora  de correspondencia si la hubiere. El alguacil debe dejar constancia en el expediente de haber cumplido  con  lo  prescrito  en  este Artículo  y  de  los  datos  relativos  a  la  identificación  de  la persona que recibió.
+La notificación por fijación de cartel se debe realizar mediante un cartel que fijará el alguacil en la puerta de la sede de la persona jurídica y la entrega de una copia del mismo al representante legal o judicial de la persona jurídica, a uno cualquiera de sus directores, directoras o gerentes, o la consignación en su secretaría o en su oficina receptora de correspondencia si la hubiere. El alguacil debe dejar constancia en el expediente de haber cumplido con lo prescrito en este Artículo y de los datos relativos a la identificación de la persona que recibió.
 
 La notificación por correo de la parte demandada se puede practicar en su oficina o en el lugar  donde  ejerza  su  comercio  o  industria,  o  preste  su  servicio,  en  la  dirección  que previamente indique la parte demandante. El alguacil depositará la boleta de notificación en la  respectiva  oficina  de  correo.  El  funcionario  o  funcionaria  de  correo  dará  un  recibo  con expresión  de  los  documentos  incluidos  en  el  sobre,  del  remitente,  del  destinatario,  la dirección de éste y la fecha de recibo del sobre y lo cerrará en presencia del alguacil. A vuelta de correo, el administrador, administradora, director o directora enviará al Tribunal remitente el aviso de recibo firmado por el receptor o la receptora del sobre, indicándose en todo caso, el nombre, apellido y cédula de identidad de la persona que lo firma. El aviso de recibo debe ser  firmado  por  el  o  la  representante  legal  o  judicial  de  la  persona  jurídica,  o  por  uno cualquiera  de  sus  directores,  directoras  o  gerentes,  o  por  el  receptor  o  la  receptora  de correspondencia.  El  secretario  o  secretaria  debe  dejar  constancia  en  autos  de  haberse cumplido dicha actuación.
 
@@ -4126,7 +4143,7 @@ La notificación por correo de la parte demandada se puede practicar en su ofici
 
 ##### Artículo 461 Notificación por publicación de cartel o edicto.
 
-Si la notificación por boleta o por medio electrónico no fuere posible, de requerirse cartel o edicto, bastará, en caso de encontrarse en el país o fuera de él, una sola publicación en un diario  de  circulación  nacional  o  local.  Dicho  cartel  contendrá:  el  nombre  apellido  de  las partes;  el  nombre  y  apellido  de  los  niños,  niñas  y  adolescentes  salvo  en  los  casos  en  los cuales  el  procedimiento  sea  confidencial  conforme  a  la  ley;  el  objeto  de  la  demanda;  el término de comparecencia; y, la advertencia de que si no compareciese la parte demandada en el plazo señalado, se le nombrará defensor o defensora, con quien se entenderá dicha notificación. Se debe dejar constancia en autos por el secretario o secretaria del Tribunal de estas formalidades y se agregará al expediente por la parte interesada un ejemplar del diario en  que  haya  aparecido  publicado  el  cartel.  Si  la  parte  demandada  no  se  encuentra  en  la República se le concederá un plazo de treinta días adicionales para la comparecencia de las partes.
+Si la notificación por boleta o por medio electrónico no fuere posible, de requerirse cartel o edicto, bastará, en caso de encontrarse en el país o fuera de él, una sola publicación en un diario de circulación nacional o local. Dicho cartel contendrá: el nombre y apellido de las partes; el nombre y apellido de los niños, niñas y adolescentes salvo en los casos en los cuales el procedimiento sea confidencial conforme a la ley; el objeto de la demanda; el término de comparecencia; y, la advertencia de que si no compareciese la parte demandada en el plazo señalado, se le nombrará defensor o defensora, con quien se entenderá dicha notificación. Se debe dejar constancia en autos por el secretario o secretaria del Tribunal de estas formalidades y se agregará al expediente por la parte interesada un ejemplar del diario en que haya aparecido publicado el cartel. Si la parte demandada no se encuentra en la República se le concederá un plazo de treinta días adicionales para la comparecencia de las partes.
 
 Adicionalmente, el juez o jueza debe solicitar inmediatamente a las autoridades competentes información  sobre  la  ubicación  de  la  parte  demandada,  entre  ellas,  las  competentes  en materia  de  registro  electoral,  de  identificación  y  bancarias.  En  caso  de  recibir  información sobre su ubicación ordenará su notificación mediante boleta, en caso contrario, procederá a fijar oportunidad para la fase de mediación de la audiencia preliminar.
 
@@ -4154,7 +4171,7 @@ El juez o jueza, a solicitud de parte o de oficio; puede dictar diligencias prel
 
 ##### Artículo 466 Medidas preventivas
 
-Las  medidas  preventivas  pueden  decretarse  a  solicitud  de  parte  o  de  oficio,  en  cualquier estado  y  grado  del  proceso.  En  los  procesos  referidos  a  Instituciones  Familiares  o  a  los asuntos  contenidos  en  el  Título  III  de  esta  Ley,  es  suficiente  para  decretar  la  medida preventiva, conque la parte que la solicite, señale el derecho reclamado y la legitimación que tiene para solicitarla. En los demás casos, sólo procederán cuando exista riesgo manifiesto de que quede ilusoria la ejecución del fallo y siempre que se acompañe un medio de prueba que constituya presunción grave de esta circunstancia y del derecho que se reclama.
+Las medidas preventivas pueden decretarse a solicitud de parte o de oficio, en cualquier estado y grado del proceso. En los procesos referidos a Instituciones Familiares o a los asuntos contenidos en el Título III de esta Ley, es suficiente para decretar la medida preventiva, con que la parte que la solicite, señale el derecho reclamado y la legitimación que tiene para solicitarla. En los demás casos, sólo procederán cuando exista riesgo manifiesto de que quede ilusoria la ejecución del fallo y siempre que se acompañe un medio de prueba que constituya presunción grave de esta circunstancia y del derecho que se reclama.
 
 ###### Parágrafo Primero
 
@@ -4212,17 +4229,17 @@ Dentro  de  los  cinco  días  siguientes  a  que  conste  en  autos  la  ejecuc
 
 ##### Artículo 466-D Audiencia de oposición a las medidas preventivas
 
-El Tribunal de Protección de Niños, Niñas y Adolescentes debe fijar por auto expreso, día y hora que tenga lugar la audiencia de oposición a las medidas preventivas, dentro de un plazo no  menor  de  dos  días  ni  mayor  de  cinco  días  siguientes  a  aquel  que  conste  en  autos  la oposición.
+El Tribunal de Protección de Niños, Niñas y Adolescentes debe fijar por auto expreso, día y hora para que tenga lugar la audiencia de oposición a las medidas preventivas, dentro de un plazo no menor de dos días ni mayor de cinco días siguientes a aquel que conste en autos la oposición.
 
 La  audiencia  de  oposición  a  las  medidas  preventivas  es  pública,  salvo  las  excepciones previstas en la Ley, y la preside y dirige el juez o jueza de mediación y sustanciación, quien debe  explicar  a  las  partes  la  finalidad  de  las  mismas.  El  juez  o  jueza  debe  oír  las intervenciones  de  las  partes,  primero  de  la  parte  contra  quien  obre  la  medida  preventiva, permitiéndose el debate entre ellos bajo su dirección. El juez o jueza debe revisar con las partes los medios de prueba indicados en la oposición, así como los indicados por la parte demandante, revisando los que hubieren sido consignados, así como aquellos con los que se cuente para ese momento. El juez o jueza debe decidir cuáles medios de prueba requieren ser materializados para demostrar sus respectivos alegatos, pudiendo verificar la idoneidad cualitativa  o  cuantitativa  de  los  mismos,  a  fin  de  evitar  su  sobreabundancia  y  asegurar  la eficacia respecto del objeto de la medida o la necesidad de que sean promovidos otros. El juez o jueza debe evacuar las pruebas y pueden ordenar la preparación de los medios de prueba  que  requieren  materialización.  Todas  las  observaciones  y  cuestionamientos  de  las partes sobre la admisión de las pruebas, serán resueltas en la misma audiencia. La audiencia de oposición a la medida preventiva puede prolongarse cuantas veces sea necesario hasta que  el  juez  o  jueza  tenga  elementos  de  convicción  suficientes  para  decidir  todo  lo conducente. Contra la decisión procede apelación a un solo efecto, conforme a lo establecido en el procedimiento ordinario previsto en el Capítulo IV del Título IV de esta Ley.
 
 La oposición a la medida preventiva no suspende el proceso y, debe tramitarse por cuaderno separado.
 
-##### Artículo 466-E No comparencia a la audiencia de oposición a las medidas preventivas
+##### Artículo 466-E No comparecencia a la audiencia de oposición a las medidas preventivas
 
 Si la parte contra quien obra la medida preventiva no comparece sin causa justificada a la audiencia  de  oposición  a  las  medidas  preventivas  se  considera  desistida  la  oposición presentada.
 
-Si la parte solicitó la medida preventiva no comparece sin causa justificada a la audiencia de oposición se debe continuar con ésta hasta cumplir con su finalidad.
+Si la parte que solicitó la medida preventiva no comparece sin causa justificada a la audiencia de oposición se debe continuar con ésta hasta cumplir con su finalidad.
 
 [[END OF PAGE 124]]
 
@@ -4250,7 +4267,7 @@ La fase de mediación de la audiencia preliminar no puede exceder de un mes, sal
 
 ##### Artículo 470 Tramitación de la fase de mediación
 
-Al  inicio  de  la  audiencia  preliminar,  el  juez  o  jueza  de  mediación  y  sustanciación  debe explicar a las partes en que consiste la mediación, su finalidad y conveniencia. La fase de mediación puede desarrollarse en sesiones previamente fijadas de común acuerdo entre las partes o, cuando ello fuere imposible, por el juez o jueza.
+Al inicio de la audiencia preliminar, el juez o jueza de mediación y sustanciación debe explicar a las partes en qué consiste la mediación, su finalidad y conveniencia. La fase de mediación puede desarrollarse en sesiones previamente fijadas de común acuerdo entre las partes o, cuando ello fuere imposible, por el juez o jueza.
 
 El  juez  o  jueza  tiene  la  mayor  autonomía  en  la  dirección  y  desarrollo  de  la  mediación, debiendo actuar con imparcialidad y confidencialidad. En tal sentido, podrá entrevistarse de forma  conjunta  o  separada  con  las  partes  o  sus  apoderados  y  apoderadas,  con  o  sin  la
 
@@ -4262,7 +4279,7 @@ El  juez  o  jueza  tiene  la  mayor  autonomía  en  la  dirección  y  desarro
 
 presencia de sus abogados o abogadas. Asimismo, podrá solicitar los servicios auxiliares del equipo multidisciplinario del Tribunal para el mejor desarrollo de la mediación.
 
-La mediación puede concluir con un acuerdo total o parcial que homologará el juez o jueza de mediación y sustanciación, el cual se debe reducir en un acta y tendrá efecto de sentencia firme  ejecutoriada.  En  caso  de  acuerdo  total  se  pone  fin  al  proceso.  En  caso  de  acuerdo parcial, se debe dejar constancia de tal hecho en un acta, especificando los asuntos en los cuales no hubo acuerdo y continuar el proceso en relación con éstos. En interés de los niños, niñas o adolescentes, el acuerdo puede versar sobre asuntos distintos a los contenidos en la demanda.  El  juez  o  jueza  no  homologará  el  acuerdo  de  mediación  cuando  vulnere  los derechos  de  los  niños  niñas  o  adolescentes,  trate  sobre  asuntos  sobre  los  cuales  no  es posible la mediación o por estar referido a materias no disponibles.
+La mediación puede concluir con un acuerdo total o parcial que homologará el juez o jueza de mediación y sustanciación, el cual se debe reducir en un acta y tendrá efecto de sentencia firme ejecutoriada. En caso de acuerdo total se pone fin al proceso. En caso de acuerdo parcial, se debe dejar constancia de tal hecho en un acta, especificando los asuntos en los cuales no hubo acuerdo y continuar el proceso en relación con éstos. En interés de los niños, niñas o adolescentes, el acuerdo puede versar sobre asuntos distintos a los contenidos en la demanda. El juez o jueza no homologará el acuerdo de mediación cuando vulnere los derechos de los niños, niñas o adolescentes, trate sobre asuntos sobre los cuales no es posible la mediación o por estar referido a materias no disponibles.
 
 La mediación también puede concluir por haber transcurrido el tiempo máximo para ella o antes,  si  a  criterio  del  juez  o  jueza  resulta  imposible.  De  estos  hechos  se  debe  dejar constancia en auto expreso y continuará el proceso.
 
@@ -4292,7 +4309,7 @@ Dentro  de  los  diez  días  siguientes  a  que  conste  en  autos  la  conclus
 
 Los escritos de pruebas deben indicar todos los medios probatorios con los que se cuente y aquellos  que  se  requieran  materializar,  para  demostrar  la  procedencia  de  los  respectivos alegatos. Los primeros pueden ser consignados con el escrito de pruebas o en la audiencia preliminar. Los segundos deben ser preparados durante la audiencia preliminar o evacuados directamente en la audiencia de juicio, según su naturaleza.
 
-En la contestación de la demanda se puede reconvenir a la parte demandante, en cuyo caso la demanda reconvencional debe cumplir con los requisitos establecidos en este procedimiento para la demanda, pudiéndose presentar en forma escrita u oral, caso con el cual será reducida a un acta sucinta. Propuesta la reconvención, se debe admitir si la misma no fuera contraria al orden público, a la moral pública, o a alguna disposición expresa del ordenamiento jurídico. El juez o jueza debe ejercer el despacho saneador, caso en el cual admitirá  la  demanda y ordenará su corrección mediante auto motivado, indicando el plazo para ello, que en ningún caso puede exceder de cinco días. Admitida la reconvención debe contestarse  la  misma,  en  forma  escrita  u  oral,  dentro  de  los  cinco  días  siguientes, adjuntando, si fuere el caso, el escrito de pruebas correspondiente. En estos casos, la fase de sustanciación de la audiencia preliminar se debe celebrar, dentro de un plazo no menor de cinco  días  ni  mayor  de  diez  días  siguientes  a  aquél  en  que  concluya  el  lapso  para  la contestación de la demanda reconvencional.
+En la contestación de la demanda se puede reconvenir a la parte demandante, en cuyo caso la demanda reconvencional debe cumplir con los requisitos establecidos en este procedimiento para la demanda, pudiéndose presentar en forma escrita u oral, caso en el cual será reducida a un acta sucinta. Propuesta la reconvención, se debe admitir si la misma no fuera contraria al orden público, a la moral pública, o a alguna disposición expresa del ordenamiento jurídico. El juez o jueza debe ejercer el despacho saneador, caso en el cual admitirá la demanda o ordenará su corrección mediante auto motivado, indicando el plazo para ello, que en ningún caso puede exceder de cinco días. Admitida la reconvención debe contestarse la misma, en forma escrita u oral, dentro de los cinco días siguientes, adjuntando, si fuere el caso, el escrito de pruebas correspondiente. En estos casos, la fase de sustanciación de la audiencia preliminar se debe celebrar, dentro de un plazo no menor de cinco días ni mayor de diez días siguientes a aquél en que concluya el lapso para la contestación de la demanda reconvencional.
 
 ##### Artículo 475 Fase de sustanciación
 
@@ -4300,7 +4317,7 @@ En el  día  y  hora  señalados  por  el  Tribunal  de  Protección  de  Niños
 
 El juez o jueza oirá las intervenciones de las partes, primero la parte demandante y luego la parte demandada, permitiéndose el debate entre ellas bajo su dirección. Sus intervenciones versarán  sobre  todas  y  cada  una  de  las  cuestiones  formales,  referidas  o  no  a  los presupuestos del proceso, que tengan vinculación con la existencia y validez de la relación jurídica procesal, especialmente para evitar quebrantamientos de orden público y violaciones a garantías constitucionales como el derecho a la defensa y a la Tutela judicial efectiva. Las observaciones de las partes deben comprender todos los vicios o situaciones que pudieran existir, so pena de no poder hacerlos valer posteriormente. El juez o jueza debe decidir en la misma audiencia todo lo conducente.
 
-En  esta  misma  fase  de  sustanciación  de  la  audiencia  preliminar,  una  vez  resueltas  las observaciones  del  las  partes  sobre  las  cuestiones  formales  ya  mencionadas,  se  deben ordenar las correcciones, los ajustes y proveimientos que sean necesarios, los cuales deben ser  tramitados  e  implementados  con  la  mayor  diligencia  y  prontitud,  sin  que  para  ello  se detenga el proceso, a menos que por efecto de lo decidido por el juez o jueza sea necesario llamar  a  terceros  interesados  indisolublemente  en  la  causa.  En  este  caso,  el  juez  o  jueza ordenará su emplazamiento, convocando a una nueva audiencia preliminar, que tendrá lugar el día y hora que indique el Tribunal de Protección de Niños, Niñas y Adolescentes dentro de un plazo no menor de quince días ni mayor de veinte días siguientes a aquel en que conste en  autos  su  notificación,  todo  ello  a  fin  de  que  los  terceros,  como  partes  derivadas  de  la causa,  puedan  ejercer  el  mismo  derecho  que  corresponde  a  las  partes  originarias  del proceso.
+En esta misma fase de sustanciación de la audiencia preliminar, una vez resueltas las observaciones de las partes sobre las cuestiones formales ya mencionadas, se deben ordenar las correcciones, los ajustes y proveimientos que sean necesarios, los cuales deben ser tramitados e implementados con la mayor diligencia y prontitud, sin que para ello se detenga el proceso, a menos que por efecto de lo decidido por el juez o jueza sea necesario llamar a terceros interesados indisolublemente en la causa. En este caso, el juez o jueza ordenará su emplazamiento, convocando a una nueva audiencia preliminar, que tendrá lugar el día y hora que indique el Tribunal de Protección de Niños, Niñas y Adolescentes dentro de un plazo no menor de quince días ni mayor de veinte días siguientes a aquel en que conste en autos su notificación, todo ello a fin de que los terceros, como partes derivadas de la causa, puedan ejercer el mismo derecho que corresponde a las partes originarias del proceso.
 
 [[END OF PAGE 127]]
 
@@ -4322,7 +4339,7 @@ Si ambas partes no comparecen, se termina el proceso mediante sentencia oral, re
 
 ##### Artículo 478 Reproducción audiovisual
 
-La  fase  de  sustanciación  de  la  audiencia  preliminar  debe  ser  reproducida  en  forma audiovisual, debiendo el Tribunal de Protección de Niños, Niñas y Adolescentes remitir junto con el expediente y en sobre sellado, la cinta o medio electrónico de reproducción para el conocimiento  del  juez  o  jueza  de  juicio,  del  juez  o  jueza  superior  de  la  Sala  de  Casación Social del Tribunal Supremo de Justicia, según corresponda. En casos excepcionales y ante la  imposibilidad  manifiesta  de  la  reproducción  audiovisual  de  la  audiencia,  ésta  podrá realizarse sin estos medios, dejando el juez o jueza constancia de esta circunstancia en la reproducción de la sentencia.
+La fase de sustanciación de la audiencia preliminar debe ser reproducida en forma audiovisual, debiendo el Tribunal de Protección de Niños, Niñas y Adolescentes remitir junto con el expediente y en sobre sellado, la cinta o medio electrónico de reproducción para el conocimiento del juez o jueza de juicio, del juez o jueza superior o de la Sala de Casación Social del Tribunal Supremo de Justicia, según corresponda. En casos excepcionales y ante la imposibilidad manifiesta de la reproducción audiovisual de la audiencia, ésta podrá realizarse sin estos medios, dejando el juez o jueza constancia de esta circunstancia en la reproducción de la sentencia.
 
 [[END OF PAGE 128]]
 
@@ -4338,7 +4355,7 @@ La  declaración  de  parte  debe  ser  reproducida  en  forma  audiovisual.  Si
 
 ##### Artículo 480 Testigos
 
-Pueden ser testigo bajo juramento todas las personas mayores de doce años de edad, que no estén sujetas a interdicción o que no hagan profesión de testificar en juicio. Serán hábiles para testificar en los procesos referidos a Instituciones Familiares o a los asuntos contenidos en el Título III de esta Ley, los parientes consanguíneos y afines de las partes, las personas que  integren  una  unión  estable  de  hecho,  el  amigo  íntimo,  la  amiga  íntima,  el  trabajador doméstico o la trabajadora doméstica. No procede la tacha de testigos, pero se apreciarán sus declaraciones de acuerdo con la libre convicción razonada.
+Pueden ser testigos bajo juramento todas las personas mayores de doce años de edad, que no estén sujetas a interdicción o que no hagan profesión de testificar en juicio. Serán hábiles para testificar en los procesos referidos a Instituciones Familiares o a los asuntos contenidos en el Título III de esta Ley, los parientes consanguíneos y afines de las partes, las personas que integren una unión estable de hecho, el amigo íntimo, la amiga íntima, el trabajador doméstico o la trabajadora doméstica. No procede la tacha de testigos, pero se apreciarán sus declaraciones de acuerdo con la libre convicción razonada.
 
 Excepcionalmente,  cuando  el  juez  o  jueza  lo  estime  imprescindible  para  comprobar  un hecho, puede testificar  un  niño  o  niña  sin  juramento.  En  estos  casos  será  el  juez  o  jueza quien  realice  las  preguntas  y  repreguntas,  para  lo  cual  las  partes  le  informarán  en  la oportunidad procesal, sin la presencia del niño o niña, aquellas que desean formular.
 
@@ -4376,7 +4393,7 @@ En el día y la hora señalados por el Tribunal de Protección de Niños, Niñas
 
 Las  partes  deben  exponer  oralmente  sus  alegatos  contenidos  en  la  demanda  y  en  su contestación y no se admitirán nuevos alegatos, salvo aquellos que hayan surgido durante el proceso  o,  que  a  criterio  del  juez  o  jueza,  sean  anteriores  al  proceso  pero  no  se  tuvo conocimiento de ellos. No se permitirá a las partes la presentación o la lectura de escritos, salvo  que  se  trate  de  alguna  prueba  existente  en  autos,  a  cuyo  tenor  deba  referirse  la exposición oral.
 
-Seguidamente  se  evacuarán  las  pruebas,  comenzando  con  las  de  la  demandante,  en  la forma y oportunidad que determine el juez o jueza. Evacuada la prueba, se concederá a la parte contraria un tiempo breve, para que haga oralmente las observaciones que considere oportunas. Las partes deben presentar los testigos que hubieren promovido en la audiencia preliminar, con su identificación correspondiente, los cuales deben comparecer sin necesidad de notificación, a fin que declaren oralmente ante el juez o jueza. Los dictámenes periciales se incorporarán previa lectura, la cual se limitará a las conclusiones de aquellos, estando los y las peritos obligados y obligadas a comparecer para cualquier aclaración que deba hacerse en relación con los mismos, pudiendo las partes y el juez o jueza interrogarlos. La prueba documental se incorporará mediante lectura total o parcial de los mismos por las partes o el juez o jueza. El juez o jueza debe conducir la prueba en búsqueda de la verdad, tendrá los poderes de conducción, corrección a las partes y podrá admitir o rechazar las preguntas si estimare  que  son  inconducentes  o  impertinentes.  Asimismo,  podrá  ordenar,  a  petición  de parte  o  de  oficio,  la  evacuación  de  cualquier  otra  prueba  que  considere  necesaria  para  el mejor esclarecimiento de la verdad.
+Seguidamente se evacuarán las pruebas, comenzando con las de la demandante, en la forma y oportunidad que determine el juez o jueza. Evacuada la prueba, se concederá a la parte contraria un tiempo breve, para que haga oralmente las observaciones que considere oportunas. Las partes deben presentar los testigos que hubieren promovido en la audiencia preliminar, con su identificación correspondiente, los cuales deben comparecer sin necesidad de notificación, a fin de que declaren oralmente ante el juez o jueza. Los dictámenes periciales se incorporarán previa lectura, la cual se limitará a las conclusiones de aquellos, estando los y las peritos obligados y obligadas a comparecer para cualquier aclaración que deba hacerse en relación con los mismos, pudiendo las partes y el juez o jueza interrogarlos. La prueba documental se incorporará mediante lectura total o parcial de los mismos por las partes o el juez o jueza. El juez o jueza debe conducir la prueba en búsqueda de la verdad, tendrá los poderes de conducción, corrección a las partes y podrá admitir o rechazar las preguntas si estimare que son inconducentes o impertinentes. Asimismo, podrá ordenar, a petición de parte o de oficio, la evacuación de cualquier otra prueba que considere necesaria para el mejor esclarecimiento de la verdad.
 
 Culminada la evacuación de las pruebas, se oirán las conclusiones de las partes, primero de la demandante y luego de la demandada. Seguidamente se oirá la opinión del niño, niña o adolescente, de forma privada o en presencia de las partes, pudiendo solicitar los servicios auxiliares del equipo multidisciplinario del tribunal si se estimare conveniente a su condición personal y desarrollo evolutivo.
 
@@ -4386,7 +4403,7 @@ Constituye causal de destitución del integrante del equipo multidisciplinario d
 
 ##### Artículo 485 Sentencia
 
-Concluidas las actividades procesales en la audiencia de juicio, el juez o jueza se debe retirar de la audiencia por un tiempo que no debe exceder de sesenta minutos. Mientras tanto las partes  deben  permanecer  en  la  sala  de  audiencias.  El  juez  o  jueza  debe  pronunciar  su sentencia oralmente, expresando el dispositivo de fallo y una síntesis precisa y lacónica de los motivos de hecho y de derecho, la cual reducirá de inmediato, en cuanto a su dispositiva, a forma escrita. Si el juez o jueza no decide la causa inmediatamente, después de concluido el debate oral, éste deberá repetirse de nuevo, para lo cual se fijará nueva oportunidad.
+Concluidas las actividades procesales en la audiencia de juicio, el juez o jueza se debe retirar de la audiencia por un tiempo que no debe exceder de sesenta minutos. Mientras tanto las partes deben permanecer en la sala de audiencias. El juez o jueza debe pronunciar su sentencia oralmente, expresando el dispositivo del fallo y una síntesis precisa y lacónica de los motivos de hecho y de derecho, la cual reducirá de inmediato, en cuanto a su dispositiva, a forma escrita. Si el juez o jueza no decide la causa inmediatamente, después de concluido el debate oral, éste deberá repetirse de nuevo, para lo cual se fijará nueva oportunidad.
 
 En  casos  excepcionales,  por  la  complejidad  del  asunto  debatido,  por  causas  ajenas  a  su voluntad o de fuerza mayor, el juez o jueza puede diferir, por una sola vez, la oportunidad para  dictar  sentencia,  por  un  lapso  no  mayor  de  cinco  días,  después  de  evacuadas  las pruebas. En todo caso, deberá, por auto expreso, determinar el día y hora para el cual difirió el acto para sentenciar, a los fines de la comparecencia obligatoria de las partes a este acto.
 
@@ -4422,7 +4439,7 @@ La audiencia de juicio debe ser reproducida en forma audiovisual, debiendo el Tr
 
 De  la  sentencia  definitiva  se  admitirá  apelación  libremente,  salvo  disposición  especial  en contrario.  Si  la  sentencia  definitiva  es  sobre  acción  de  protección,  colocación  familiar  y  en entidades  de  atención,  Régimen  de  Convivencia  Familiar,  Obligación  de  Manutención  y Responsabilidad de Crianza, se admitirá apelación únicamente en el efecto devolutivo. Si la sentencia  definitiva  es  sobre  establecimiento  de  un  nuevo  acto  del  estado  civil  no  tendrá apelación, a menos que haya habido oposición, caso en el cual la sentencia será apelable.
 
-Al proponerse la apelación contra la sentencia que puso fin al juicio, quedan comprendidas en ella las interlocutorias que hubieren producido un gravamen no reparado en las mismas. De la sentencia interlocutoria que ponga fin a la controversia, se oirá a apelación en ambos efectos.
+Al proponerse la apelación contra la sentencia que puso fin al juicio, quedan comprendidas en ella las interlocutorias que hubieren producido un gravamen no reparado en las mismas. De la sentencia interlocutoria que ponga fin a la controversia, se oirá apelación en ambos efectos.
 
 La apelación se interpondrá en forma escrita ante el Tribunal de Protección de Niños, Niñas y Adolescentes que dictó la sentencia dentro de los cinco días, siguientes a la publicación de la sentencia en forma escrita, el cual la  admitirá  o  negará  el  día  siguiente  al  vencimiento  de aquel  lapso. Admitida  la  apelación  se  remitirá  al  día  siguiente  el  expediente  o  las  copias certificadas correspondientes, según sea el caso, al Tribunal Superior de Protección.
 
@@ -4474,9 +4491,9 @@ La audiencia debe ser reproducida en forma audiovisual. En casos excepcionales y
 
 El recurso de casación puede proponerse:
 
-- Contra  las  sentencias  de  última  instancia  que  pongan  fin  a  los  juicios  en  materia patrimonial, cuyo interés principal exceda de cien salarios mínimos nacionales.
+a) Contra las sentencias de última instancia que pongan fin a los juicios en materia patrimonial, cuyo interés principal exceda de cien salarios mínimos nacionales.
 
-- Contra  las  sentencias  de  última  instancia  que  pongan  fin  a  los  juicios  en  materia  de estados  familiares,  capacidad  de  las  personas  y  de  establecimiento  de  un  nuevo  acto  del estado civil.
+b) Contra las sentencias de última instancia que pongan fin a los juicios en materia de estados familiares, capacidad de las personas y de establecimiento de un nuevo acto del estado civil.
 
 Al proponerse el recurso contra la sentencia que puso fin al juicio, quedan comprendidas en él las interlocutorias que hubieren producido un gravamen no reparado por ella, siempre que contra dichas decisiones se hubieren agotado, oportunamente, todos los recursos ordinarios. No  se  concederá  recurso  de  casación  cuando  se  trate  de  pretensiones  relativas  a Responsabilidad de Crianza, Obligación de Manutención, Régimen de Convivencia Familiar, acciones de protección,  colocación  familiar  y  en  entidades  de  atención  e  infracciones  a  la protección debida.
 
@@ -4490,7 +4507,7 @@ El  recurso  de  casación  se  debe  anunciar  en  forma  escrita  ante  el  tr
 
 ##### Artículo 489-C Recurso de hecho
 
-En caso de negativa de la admisión del recurso de casación, el juez o jueza superior que lo rechazó,  mantendrá  el  expediente  durante  cinco  días,  a  fin  de  que  el  interesado  pueda recurrir  de  hecho  por  ante  la  Sala  de  Casación  Social  del  Tribunal  Supremo  de  Justicia, proponiéndose  el  recurso  de  manera  escrita  en  el  mismo  expediente,  por  ante  el  mismo Tribunal Superior, quien lo remitirá, vencido los cinco días, a la Sala de Casación Social del Tribunal  Supremo  de  Justicia,  para  que  ésta  lo  decida  sin  audiencia  previa,  dentro  de  los cinco días siguientes al recibo de las actuaciones.
+En caso de negativa de la admisión del recurso de casación, el juez o jueza superior que lo rechazó, mantendrá el expediente durante cinco días, a fin de que el interesado pueda recurrir de hecho por ante la Sala de Casación Social del Tribunal Supremo de Justicia, proponiéndose el recurso de manera escrita en el mismo expediente, por ante el mismo Tribunal Superior, quien lo remitirá, vencidos los cinco días, a la Sala de Casación Social del Tribunal Supremo de Justicia, para que ésta lo decida sin audiencia previa, dentro de los cinco días siguientes al recibo de las actuaciones.
 
 [[END OF PAGE 135]]
 
@@ -4510,7 +4527,7 @@ La recusación o inhibición que se proponga contra los magistrados o magistrada
 
 ##### Artículo 489-E Contestación
 
-Transcurridos  los  veinte  días  consecutivos  establecidos  en  el  Artículo  anterior,  si  se  ha consignado  el  escrito  de  formalización,  la  contraparte  puede,  dentro  de  los  veinte  días consecutivos siguientes, consignar por escrito los argumentos que a su juicio contraigan los alegatos del o de la formalizante. Dicho escrito no puede exceder de tres folios útiles y sus vueltos.
+Transcurridos los veinte días consecutivos establecidos en el Artículo anterior, si se ha consignado el escrito de formalización, la contraparte puede, dentro de los veinte días consecutivos siguientes, consignar por escrito los argumentos que a su juicio contradigan los alegatos del o de la formalizante. Dicho escrito no puede exceder de tres folios útiles y sus vueltos.
 
 ##### Artículo 489-F Audiencia
 
@@ -4522,7 +4539,7 @@ La audiencia podrá prolongarse en el mismo día, una vez vencidas las horas de 
 
 [[START OF PAGE 137]]
 
-Si la parte recurrente no compareciere a la audiencia, se debe declarar desistido el recurso de casación el expediente será remitido al Tribunal correspondiente.
+Si la parte recurrente no compareciere a la audiencia, se debe declarar desistido el recurso de casación y el expediente será remitido al Tribunal correspondiente.
 
 ##### Artículo 489-G Sentencia
 
@@ -4532,7 +4549,7 @@ Concluido el debate oral, el tribunal deberá dictar su sentencia en forma oral 
 
 Si al decidir el recurso, la Sala de Casación Social del Tribunal Supremo de Justicia hubiere declarado alguna infracción, se debe abstener de conocer las otras denuncias de infracción formuladas,  y  debe  decretar  la  nulidad  y  reposición  de  la  causa  al  estado  que  considere necesario para restablecer el orden jurídico infringido, siempre que dicha reposición sea útil; o debe casar el fallo y decidir el fondo de la controversia, extendiéndose al establecimiento y apreciación de los hechos que hayan efectuado los tribunales de instancia, sin posibilidad de reenvío.
 
-Podrá  también  el  Tribunal  Supremo  de  Justicia  en  su  sentencia  hacer  pronunciamiento expreso,  para  casar  el  fallo  recurrido  con  base  en  las  infracciones  de  orden  público  y constitucional que ella encontrare, aunque no se les haya denunciado.
+Podrá también el Tribunal Supremo de Justicia en su sentencia hacer pronunciamiento expreso, para casar el fallo recurrido con base en las infracciones de orden público y constitucionales que ella encontrare, aunque no se les haya denunciado.
 
 En  la  sentencia  del  recurso  se  hará  pronunciamiento  expreso  sobre  las  costas,  y  su condenatoria será obligatoria en caso de desistimiento o cuando se le deje perecer.
 
@@ -4564,11 +4581,12 @@ Si el recurso de control de la legalidad fuera tramitado y sustanciado, el Tribu
 
 ##### Artículo 491 Recurso de interpretación
 
-También  puede  interponerse  ante  la  Sala  de  Casación  Social  del  Tribunal  Supremo  de Justicia, recurso de interpretación acerca de las dudas que surjan en cuanto a la aplicación e interpretación  de  las  normas  jurídicas  contenidas  en  la  presente  Ley,  siempre  que  el recurrente indique la conexidad entre el recurso intentado y un caso concreto. El ejercicio de este recurso no puede ser motivo para la paralización de ninguna medida que el juez o jueza pueda ordenar o ejecutaren uso de sus atribuciones legales.
+También puede interponerse ante la Sala de Casación Social del Tribunal Supremo de Justicia, recurso de interpretación acerca de las dudas que surjan en cuanto a la aplicación e interpretación de las normas jurídicas contenidas en la presente Ley, siempre que el recurrente indique la conexidad entre el recurso intentado y un caso concreto. El ejercicio de este recurso no puede ser motivo para la paralización de ninguna medida que el juez o jueza pueda ordenar o ejecutar en uso de sus atribuciones legales.
 
 ##### Artículo 492 Irrelevancia del error en la calificación
 
 El  error  del  o  la  recurrente  en  la  calificación  del  recurso  no  será  obstáculo  para  su tramitación, siempre que de la actuación se deduzca su verdadero carácter.
+### Capítulo V Procedimiento de Adopción
 
 ##### Artículo 493 Fases
 
@@ -4582,11 +4600,11 @@ La fase administrativa, en las adopciones nacionales, se puede iniciar:
 
 [[START OF PAGE 139]]
 
-- Mediante solicitud para dar en adopción un niño, niña o adolescente, a la persona o pareja seleccionada  por  la  correspondiente  oficina  estadal  de  adopciones,  para  realizar  una adopción  conforme  a  esta  Ley.  La  solicitud  debe  ser  formulada  ante  la  oficina  estadal  de adopciones del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes o, ante el equipo multidisciplinario de un Tribunal de Protección de Niños, Niñas y Adolescentes, por ambos progenitores o, por uno de ellos cuando sólo existe un representante legal.
+a) Mediante solicitud para dar en adopción un niño, niña o adolescente, a la persona o pareja seleccionada por la correspondiente oficina estadal de adopciones, para realizar una adopción conforme a esta Ley. La solicitud debe ser formulada ante la oficina estadal de adopciones del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes o, ante el equipo multidisciplinario de un Tribunal de Protección de Niños, Niñas y Adolescentes, por ambos progenitores o, por uno de ellos cuando sólo existe un representante legal.
 
-- Mediante solicitud para adoptar formulada por el o los aspirantes a la adopción, ante la oficina  estadal  de  adopciones  del  Consejo  Nacional  de  Derechos  de  Niños,  Niñas  y Adolescentes de su residencia habitual. La solicitud se debe hacer verbalmente y se debe recoger  por  un  funcionario  o  funcionaria  de  la  correspondiente  oficina,  en  un  formulario elaborado  al  efecto  que  debe  ser  suscrito  por  el  o  los  solicitantes;  la  misma  debe acompañarse de toda la documentación probatoria de los aspectos señalados en el Artículo 421 de esta Ley.
+b) Mediante solicitud para adoptar formulada por el o los aspirantes a la adopción, ante la oficina estadal de adopciones del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes de su residencia habitual. La solicitud se debe hacer verbalmente y se debe recoger por un funcionario o funcionaria de la correspondiente oficina, en un formulario elaborado al efecto que debe ser suscrito por el o los solicitantes; la misma debe acompañarse de toda la documentación probatoria de los aspectos señalados en el Artículo 421 de esta Ley.
 
-- Mediante requerimiento formulado por un jueza o jueza de mediación y sustanciación a la respectiva  oficina  estadal  de  adopciones,  para  que  seleccione  a  una  persona  o  pareja  del registro  de  solicitantes  de  adopción  elegibles.  Dicha  persona  o  pareja  debe  estar  en concordancia con las necesidades y características de un niño, niña o adolescentes que se encuentra en colocación en familia sustituta o en entidad de atención, y en relación con quien el  Tribunal  de  Protección  de  Niños,  Niñas  y  Adolescentes  ha  determinado,  conforme  al Artículo 493-F  de  esta  Ley,  que  resulta  inviable  o  imposible  el  restablecimiento  de  los vínculos con su familia de origen.
+c) Mediante requerimiento formulado por un juez o jueza de mediación y sustanciación a la respectiva oficina estadal de adopciones, para que seleccione a una persona o pareja del registro de solicitantes de adopción elegibles. Dicha persona o pareja debe estar en concordancia con las necesidades y características de un niño, niña o adolescente que se encuentra en colocación en familia sustituta o en entidad de atención, y en relación con quien el Tribunal de Protección de Niños, Niñas y Adolescentes ha determinado, conforme al Artículo 493-F de esta Ley, que resulta inviable o imposible el restablecimiento de los vínculos con su familia de origen.
 
 ##### Artículo 493-B Inicio de la fase administrativa en adopciones internacionales
 
@@ -4608,11 +4626,11 @@ Este asesoramiento consistirá en informar y explicar a dichos progenitores, en 
 
 Si después de recibir el asesoramiento, estas personas persisten en su propósito, se debe formalizar la correspondiente solicitud para que otorguen el consentimiento requerido en el literal b) del Artículo 414, en la forma prevista en el Artículo 416 de esta Ley.
 
-El personal que labore en los servicios y centros de salud, públicos o privados, así como las personas  que  hayan  asistido  un  parto  intra  o  extra  hospitalario  que,  habiendo  tenido conocimiento de la situación a la que alude esta norma, no la hayan informado e informada al Ministerio Público o al Consejo de Protección de Niños, Niñas y Adolescentes, dentro de las veinticuatro horas siguientes, serán sancionados o sancionadas conforme a lo previsto en el Artículo 275 de esta Ley, sin menoscabo de las demás sanciones a que hubiere lugar.
+El personal que labore en los servicios y centros de salud, públicos o privados, así como las personas que hayan asistido un parto intra o extra hospitalario que, habiendo tenido conocimiento de la situación a la que alude esta norma, no la hayan informado de inmediato al Ministerio Público o al Consejo de Protección de Niños, Niñas y Adolescentes, dentro de las veinticuatro horas siguientes, serán sancionados o sancionadas conforme a lo previsto en el Artículo 275 de esta Ley, sin menoscabo de las demás sanciones a que hubiere lugar.
 
 ##### Artículo 493-D Informes sobre niños, niñas y adolescentes
 
-Los  jueces  o  jueza  de  mediación  y  sustanciación,  las  entidades  de  atención  y  los responsables  de  programas  de  colocación  en  familia  sustituta  o  en  entidad  de  atención, deben suministrar a la correspondiente oficina de adopciones, cada tres meses, un informe cualitativo  y  cuantitativo  acerca  de  la  situación  de  los  niños,  niñas  y  adolescentes  que  se encuentren en colocación en familia sustituta o en entidad de atención, respectivamente. Ello tiene por objeto que dicha oficina pueda determinar, con prontitud, aquellos o aquellas niños, niñas  y  adolescentes  que  son  susceptibles  de  ser  reintegrados  a  su  medio  familiar  o adoptados o; que puedan llegar a ser adoptados, y proceda, de acuerdo con el Artículo 420 de esta Ley, a elaborar el informe que acredite su adoptabilidad bio-psico-social-legal o haga seguimiento de su condición, para determinar el momento en que pasan a ser susceptibles de adopción.
+Los jueces o juezas de mediación y sustanciación, las entidades de atención y los responsables de programas de colocación en familia sustituta o en entidad de atención, deben suministrar a la correspondiente oficina de adopciones, cada tres meses, un informe cualitativo y cuantitativo acerca de la situación de los niños, niñas y adolescentes que se encuentren en colocación en familia sustituta o en entidad de atención, respectivamente. Ello tiene por objeto que dicha oficina pueda determinar, con prontitud, aquellos o aquellas niños, niñas y adolescentes que son susceptibles de ser reintegrados a su medio familiar o adoptados o adoptadas; o que puedan llegar a ser adoptados, y proceda, de acuerdo con el Artículo 420 de esta Ley, a elaborar el informe que acredite su adoptabilidad bio-psico-social-legal o haga seguimiento de su condición, para determinar el momento en que pasan a ser susceptibles de adopción.
 
 A los fines de determinar cuando un niño, niña o adolescente es susceptible de reintegración familiar o de adopción, las entidades de atención deben realizar un estudio individualizado, utilizando para ello los criterios técnicos previstos en los lineamientos y directrices generales dictados  por  el  ministerio  del  poder  popular  con  competencia  en  materia  de  protección integral  de  niños,  niñas  y  adolescentes,  a  objeto  de  determinar  la  inviabilidad  o  no  del restablecimiento  de  los  vínculos  con  la  familia  de  origen.  Dichas  oficinas  suministrarán  el apoyo técnico correspondiente a las entidades de atención y a los programas de colocación en familia sustituta o en entidad de atención y, además, harán seguimiento de los resultados obtenidos por unas y otros.
 
@@ -4630,7 +4648,7 @@ El  juez  o  jueza  de  mediación  y  sustanciación  sobre  la  base  del  cor
 
 ##### Artículo 493-G Emparentamiento
 
-Determinada  la  condición  de  adoptabilidad  de  un  niño,  niña  o  adolescente,  se  certificará dicha adoptabilidad y debe proceder, la correspondiente oficina de adopciones, mediante un emparentamiento técnico, a seleccionar del registro de solicitantes de adopción elegibles, a tres  personas  o  parejas  adecuadas  para  garantizar  el  derecho  de  cada  niño,  niña  o adolescente,  a  ser  adoptado  o  adoptada  por  quien  mejor  se  adecué  a  sus  necesidades  y características, todo ello conforme lo previsto en el Artículo 493-M de esta Ley.
+Determinada la condición de adoptabilidad de un niño, niña o adolescente, se certificará dicha adoptabilidad y debe proceder, la correspondiente oficina de adopciones, mediante un emparentamiento técnico, a seleccionar del registro de solicitantes de adopción elegibles, a tres personas o parejas adecuadas para garantizar el derecho de cada niño, niña o adolescente, a ser adoptado o adoptada por quien mejor se adecúe a sus necesidades y características, todo ello conforme lo previsto en el Artículo 493-M de esta Ley.
 
 A  los  fines  del  emparentamiento  técnico,  se  debe  tomar  en  cuenta  las  características  y condiciones del o de los solicitantes que han sido previamente evaluados y cuya idoneidad para adoptar ha sido determinada.
 
@@ -4638,17 +4656,17 @@ A  los  fines  del  emparentamiento  técnico,  se  debe  tomar  en  cuenta  las
 
 Excepcionalmente, se evaluará la posibilidad de que un niño, niña o adolescente a quien se le  ha  dictado,  por  vía  judicial,  medida  de  colocación  en  una  familia  sustituta,  pueda  ser adoptado o adoptada por la persona o pareja a quien se otorgó esta medida de protección. Sólo  se  podrá  proceder  en  este  sentido  si  se  cumplen,  como  mínimo,  los  siguientes requisitos:
 
-- Que  dicha  persona  o  pareja  haya  estado  inscrita,  antes  y  al  momento  de  dictarse  la correspondiente medida de colocación o de haber acogido al niño, niña o adolescente, en el respectivo programa de familia sustituta.
+a) Que dicha persona o pareja haya estado inscrita, antes y al momento de dictarse la correspondiente medida de colocación o de haber acogido al niño, niña o adolescente, en el respectivo programa de familia sustituta.
 
 [[END OF PAGE 141]]
 
 [[START OF PAGE 142]]
 
-- Que se compruebe la inviabilidad o imposibilidad del restablecimiento de los vínculos del niño,  niña  o  adolescente  con  su  familia  de  origen,  y  que  la  familia  sustituta  no  ha obstaculizado, en modo alguno, la reintegración familiar de dicho niño, niña o adolescente.
+b) Que se compruebe la inviabilidad o imposibilidad del restablecimiento de los vínculos del niño, niña o adolescente con su familia de origen, y que la familia sustituta no ha obstaculizado, en modo alguno, la reintegración familiar de dicho niño, niña o adolescente.
 
-- Que hayan transcurrido dos años desde la fecha en que se inició la colocación.
+c) Que hayan transcurrido dos años desde la fecha en que se inició la colocación.
 
-- Que  la  evaluación  bio-psico-social-legal  realizada  por  la  correspondiente  oficina  de adopciones, sea favorable.
+d) Que la evaluación bio-psico-social-legal realizada por la correspondiente oficina de adopciones, sea favorable.
 
 En caso de llenarse todos estos requisitos, se debe considerar cumplido el emparentamiento técnico  en  relación  con  estas  personas.  En  caso  contrario,  el  respectivo  niño,  niña  o adolescente será emparentado con otra persona o pareja de las que integran el registro de solicitantes de adopción elegibles.
 
@@ -4658,13 +4676,13 @@ Las oficinas estadales de adopciones del Consejo Nacional de Derechos de Niños,
 
 ##### Artículo 493-J Solicitud de adopción ante las oficinas de adopciones
 
-La  oficina  de  adopciones  ante  la  que  se  haya  formulado  una  solicitud  de  adopción,  por persona o pareja interesada en adoptar, debe evaluar dicha solicitud y los recaudos que la acompañan.  De  encontrarse  en  debida  forma,  debe  iniciar  el  proceso  de  evaluación  biopsico-social-legal del o de los solicitantes, a objeto de certificar su idoneidad para adoptar. Esta evaluación comprenderá:
+La oficina de adopciones ante la que se haya formulado una solicitud de adopción, por persona o pareja interesada en adoptar, debe evaluar dicha solicitud y los recaudos que la acompañan. De encontrarse en debida forma, debe iniciar el proceso de evaluación bio-psico-social-legal del o de los solicitantes, a objeto de certificar su idoneidad para adoptar. Esta evaluación comprenderá:
 
-- Asistencia a los cursos de formación y orientación de familia sustituta, sea en la modalidad de adopción nacional o en la modalidad de adopción internacional, según el caso.
+a) Asistencia a los cursos de formación y orientación de familia sustituta, sea en la modalidad de adopción nacional o en la modalidad de adopción internacional, según el caso.
 
-- Entrevistas  con  los  profesionales  del  equipo  técnico  interdisciplinario  de  la  respectiva oficina de adopciones.
+b) Entrevistas con los profesionales del equipo técnico interdisciplinario de la respectiva oficina de adopciones.
 
-- Evaluación psiquiátrica o psicológica, social, así como del contenido del informe médico correspondiente y de los documentos legales que acompañan la solicitud.
+c) Evaluación psiquiátrica o psicológica, social, así como del contenido del informe médico correspondiente y de los documentos legales que acompañan la solicitud.
 
 ##### Artículo 493-K Solicitud de adopción en adopciones internacionales
 
@@ -4676,15 +4694,15 @@ A  los  fines  de  su  estudio  y  aprobación  por  la  oficina  nacional  de  
 
 ##### Artículo 493-L Decisión sobre idoneidad
 
-Concluido  el  proceso  de  evaluación  bio-psico-social-legal  del  o  de  los  solicitantes  de adopción,  el  cual  no  debe  exceder  de  tres  meses,  contados  a  partir  de  la  fecha  de  la respectiva solicitud, el equipo técnico interdisciplinario de la correspondiente oficina estadal de  adopciones  del  Consejo  Nacional  de  Derechos  de  Niños,  Niñas  y  Adolescentes  debe reunir  para  determinar  la  idoneidad  o  no  de  dichas  personas,  sobre  la  base  de  las conclusiones y recomendaciones integrales. En caso positivo, dicha oficina de adopciones debe notificar  por  escrito  al  o  a  los  solicitantes  que  se  aprobó  su  idoneidad  para  adoptar, incorporándolos al registro de solicitantes de adopción elegibles. Esta aprobación tiene una validez  de  dos  años,  contados  a  partir  de  su  determinación,  al  cabo  de  los  cuales  debe hacerse  una  nueva  verificación  por  el  mencionado  equipo  técnico  interdisciplinario,  para determinar que no se ha producido un cambio sustancial en las condiciones anteriores.
+Concluido el proceso de evaluación bio-psico-social-legal del o de los solicitantes de adopción, el cual no debe exceder de tres meses, contados a partir de la fecha de la respectiva solicitud, el equipo técnico interdisciplinario de la correspondiente oficina estadal de adopciones del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes debe reunirse para determinar la idoneidad o no de dichas personas, sobre la base de las conclusiones y recomendaciones integrales. En caso positivo, dicha oficina de adopciones debe notificar por escrito al o a los solicitantes que se aprobó su idoneidad para adoptar, incorporándolos al registro de solicitantes de adopción elegibles. Esta aprobación tiene una validez de dos años, contados a partir de su determinación, al cabo de los cuales debe hacerse una nueva verificación por el mencionado equipo técnico interdisciplinario, para determinar que no se ha producido un cambio sustancial en las condiciones anteriores.
 
-Las actuaciones aquí previstas deben ser cumplidas por la oficina nacional de adopciones del  Consejo  Nacional  de  Derechos  de  Niños,  Niñas  y  Adolescentes  en  los  casos  de solicitantes de adopción internacional con residencia habitual en la República Bolivariana de Venezuela. En tales casos, la mencionada oficina de adopciones debe remitir la correspondiente solicitud de adopción, acompañada por los resultados de la evaluación biopsico-social-legal y la documentación respectiva, al organismo público o institución debidamente  autorizada  por  las  autoridades  competentes  del  país  elegido  por  el  o  los solicitantes para tramitar la adopción.
+Las actuaciones aquí previstas deben ser cumplidas por la oficina nacional de adopciones del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes en los casos de solicitantes de adopción internacional con residencia habitual en la República Bolivariana de Venezuela. En tales casos, la mencionada oficina de adopciones debe remitir la correspondiente solicitud de adopción, acompañada por los resultados de la evaluación bio-psico-social-legal y la documentación respectiva, al organismo público o institución debidamente autorizada por las autoridades competentes del país elegido por el o los solicitantes para tramitar la adopción.
 
 En caso negativo, la correspondiente oficina de adopciones debe notificar por escrito al o a los solicitantes, indicándoles que contra esa decisión podrá intentarse recurso de reconsideración  ante  esa  oficina  de  adopciones,  dentro  de  las  cuarenta  y  ocho  horas siguientes  de  habérseles  notificado  la  decisión.  Resuelto  dicho  recurso  o  vencido  el  plazo para  interponerlo  se  considera  agotada  la  vía  administrativa. A  los  efectos  del  recurso  de reconsideración,  se  debe  tener  presente  lo  dispuesto  en  el  Artículo  306  de  esta  Ley.  En cuanto al recurso contencioso administrativo, se aplicará lo previsto en el Artículo 307 de esta Ley, y el Tribunal de Protección de Niños, Niñas y Adolescentes que conozca del recurso, debe notificar a la respectiva oficina de adopciones y al Ministerio Público, para que opinen.
 
 ##### Artículo 493-M Selección para el emparentamiento
 
-Una vez aprobada la idoneidad del o los solicitantes, y si existe un niño, niña o adolescente susceptibles  de  adopción,  para  quien  el  perfil  del  o  de  los  solicitantes  se  adecué,  la respectiva oficina  de  adopciones debe proceder al emparentamiento técnico previsto en el Artículo 493-G de esta Ley, a cuyos efectos seleccionará tres personas o parejas del registro de  solicitantes  de  adopción  elegibles,  y  hará  del  conocimiento  de  estas  la  existencia  del mencionado  niño,  niña  o  adolescente  a  ser  adoptado  o  adoptada.  A  tal  fin,  les  debe suministrar, por escrito, la información necesaria sobre dicho niño, niña o adolescente, a fin de que manifiesten en un plazo que no excederá de quince días, si tienen o no interés en el mismo, levantándose un acta de lo actuado.
+Una vez aprobada la idoneidad del o los solicitantes, y si existe un niño, niña o adolescente susceptible de adopción, para quien el perfil del o de los solicitantes se adecúe, la respectiva oficina de adopciones debe proceder al emparentamiento técnico previsto en el Artículo 493-G de esta Ley, a cuyos efectos seleccionará tres personas o parejas del registro de solicitantes de adopción elegibles, y hará del conocimiento de estas la existencia del mencionado niño, niña o adolescente a ser adoptado o adoptada. A tal fin, les debe suministrar, por escrito, la información necesaria sobre dicho niño, niña o adolescente, a fin de que manifiesten en un plazo que no excederá de quince días, si tienen o no interés en el mismo, levantándose un acta de lo actuado.
 
 [[END OF PAGE 143]]
 
@@ -4700,7 +4718,7 @@ De no existir el niño, niña o adolescente a ser adoptado o adoptada o si el o 
 
 Si  dos  o  tres  de  los  solicitantes  seleccionados  manifiestan  interés  en  el  niño,  niña  o adolescente  que  les  ha  sido  presentado  o  presentada,  la  correspondiente  oficina  de adopciones  debe  solicitar  al  juez  o  jueza  de  mediación  y  sustanciación  que  fije  una oportunidad  para  que,  junto  con  el  equipo  interdisciplinario  de  la  oficina  de  adopciones entreviste, por separado, a los solicitantes, y determine, sobre la base de la documentación que le proporcione dicha oficina de adopciones y de los resultados de la entrevista personal, cuál de ellos responde más a los intereses y características del niño, niña o adolescente a ser adoptado o adoptada.
 
-Determinada  la  correspondiente  persona  o  pareja,  se  debe  dar  inicio  al  emparentamiento personal, durante el cual se producirá una serie de encuentros familiares, sin pernota, del o los solicitantes al niño, niña o adolescente a ser adoptado o adoptada, a fin de propiciar el contacto entre estas personas. Si el mencionado niño, niña o adolescente está en colocación en entidad de atención o en familia sustituta, el emparentamiento tendrá una duración entre quince y treinta días.
+Determinada la correspondiente persona o pareja, se debe dar inicio al emparentamiento personal, durante el cual se producirá una serie de encuentros familiares, sin pernocta, del o los solicitantes al niño, niña o adolescente a ser adoptado o adoptada, a fin de propiciar el contacto entre estas personas. Si el mencionado niño, niña o adolescente está en colocación en entidad de atención o en familia sustituta, el emparentamiento tendrá una duración entre quince y treinta días.
 
 A  tales  efectos,  la  correspondiente  oficina  de  adopciones  debe  presentar  la  respectiva solicitud de autorización, ante el juez o jueza de mediación y sustanciación que conoce de la medida de protección relativa al niño, niña o adolescente a ser adoptado o adoptada, para que autorice dicho emparentamiento, acompañando tal solicitud de copia certificada de todo el expediente administrativo del caso.
 
@@ -4744,15 +4762,15 @@ Simultáneamente  al  inicio  del  período  de  prueba,  el  o  los  solicitant
 
 En caso de adopción internacional, cuando la residencia habitual del niño, niña o adolescente a ser adoptado o adoptada se encuentra en el territorio nacional, la correspondiente solicitud de adopción debe ser elaborada por la oficina nacional de adopciones del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes, y debe ser presentada personalmente por el o los solicitantes, cuando vengan a la República Bolivariana de Venezuela a cumplir la etapa de emparentamiento.
 
-La presentación de la solicitud de adopción ante el Tribunal de protección de Niños, Niñas y Adolescentes, da inicio a la fase judicial de la misma.
+La presentación de la solicitud de adopción ante el Tribunal de Protección de Niños, Niñas y Adolescentes, da inicio a la fase judicial de la misma.
 
 ##### Artículo 494 Contenido de la solicitud
 
 En la solicitud de adopción se debe expresar:
 
-- Identificación  del  o  de  los  solicitantes  y  señalamiento  de  su  fecha  de  nacimiento, nacionalidad, profesión u ocupación, lugar de residencia habitual y estado civil.
+a) Identificación del o de los solicitantes y señalamiento de su fecha de nacimiento, nacionalidad, profesión u ocupación, lugar de residencia habitual y estado civil.
 
-- Indicación,  cuando  se  trate  de  adopción  conjunta,  de  la  fecha  de  matrimonio  de  los solicitantes o, de ser el caso, de la fecha de inicio de la respectiva unión estable de hecho; y
+b) Indicación, cuando se trate de adopción conjunta, de la fecha de matrimonio de los solicitantes o, de ser el caso, de la fecha de inicio de la respectiva unión estable de hecho; y
 
 [[END OF PAGE 146]]
 
@@ -4760,27 +4778,27 @@ En la solicitud de adopción se debe expresar:
 
 si se trata de una adopción individual por persona casada o con una unión estable de hecho, habrá  igualmente  que  señalar  la  fecha  del  matrimonio  o  del  inicio  de  dicha  unión,  la identificación  completa  del  o  la  cónyuge  o  de  la  persona  con  quien  mantiene  una  unión estable de hecho, su nacionalidad, fecha de nacimiento, profesión u ocupación, y residencia habitual de éste o ésta.
 
-- Identificación de cada uno de los niños, niñas o adolescentes por adoptar y señalamiento de sus respectivas fechas de nacimiento, nacionalidad y residencia habitual; si se solicita la modificación  del  nombre  propio  de  uno  o  más  de  estos  niños,  niñas  o  adolescentes,  se indicará el o los nombres que sustituirán a los anteriores.
+c) Identificación de cada uno de los niños, niñas o adolescentes por adoptar y señalamiento de sus respectivas fechas de nacimiento, nacionalidad y residencia habitual; si se solicita la modificación del nombre propio de uno o más de estos niños, niñas o adolescentes, se indicará el o los nombres que sustituirán a los anteriores.
 
-- Indicación  del  vínculo  de  parentesco,  consanguíneo  o  de  afinidad,  entre  el  o  los solicitantes y el niño, niña o adolescente a adoptar o, la mención de que no existe ningún vínculo de éstos entre ellos.
+d) Indicación del vínculo de parentesco, consanguíneo o de afinidad, entre el o los solicitantes y el niño, niña o adolescente a adoptar o, la mención de que no existe ningún vínculo de éstos entre ellos.
 
-- Indicación, cuando se trate de la adopción de un o una adolescente casado o casada, de fecha del matrimonio, identificación completa del o la cónyuge, de su residencia habitual y, si existe separación legal entre ambos, la fecha de la sentencia o del decreto respectivo.
+e) Indicación, cuando se trate de la adopción de un o una adolescente casado o casada, de fecha del matrimonio, identificación completa del o la cónyuge, de su residencia habitual y, si existe separación legal entre ambos, la fecha de la sentencia o del decreto respectivo.
 
-- Indicación,  si  el  o  los  solicitantes  tuviesen  descendencia  consanguínea  o  adoptiva,  la identificación de cada uno de los descendientes y señalamiento de su fecha de nacimiento, y de su residencia habitual.
+f) Indicación, si el o los solicitantes tuviesen descendencia consanguínea o adoptiva, la identificación de cada uno de los descendientes y señalamiento de su fecha de nacimiento, y de su residencia habitual.
 
-- Indicación de cada una de las personas que deben consentir o que han consentido en la adopción, con indicación del vínculo familiar o del cargo o relación jurídica que tienen, con respecto  a  la  persona  o  personas  por  adoptar.  Si  alguna  de  esas  personas  estuviese impedida  de  consentir  la  adopción  solicitada,  se  indicará  esa  circunstancia  así  como  su causa.
+g) Indicación de cada una de las personas que deben consentir o que han consentido en la adopción, con indicación del vínculo familiar o del cargo o relación jurídica que tienen, con respecto a la persona o personas por adoptar. Si alguna de esas personas estuviese impedida de consentir la adopción solicitada, se indicará esa circunstancia así como su causa.
 
-- Indicación de si se solicita la adopción de un niño, niña o adolescente que se encuentre en el supuesto del Artículo 412 de esta Ley.
+h) Indicación de si se solicita la adopción de un niño, niña o adolescente que se encuentre en el supuesto del Artículo 412 de esta Ley.
 
-- Indicación, cuando el solicitante de la adopción haya sido Tutor o Tutora del niño, niña o adolescente a adoptar, de si le han sido o no aprobadas las cuentas definitivas de la Tutela.
+i) Indicación, cuando el solicitante de la adopción haya sido Tutor o Tutora del niño, niña o adolescente a adoptar, de si le han sido o no aprobadas las cuentas definitivas de la Tutela.
 
-- Cualquier otra circunstancia que se considere pertinente o de interés.
+j) Cualquier otra circunstancia que se considere pertinente o de interés.
 
-La documentación relacionada con los aspectos señalados en este Artículo, debe haber sido remitida al Tribunal de protección de Niños, Niñas y Adolescentes que está conociendo del caso, por la respectiva oficina de adopciones.
+La documentación relacionada con los aspectos señalados en este Artículo, debe haber sido remitida al Tribunal de Protección de Niños, Niñas y Adolescentes que está conociendo del caso, por la respectiva oficina de adopciones.
 
 ##### Artículo 495 Notificación al Ministerio Público
 
-El juez o jueza de mediación y sustanciación debe ordenar la notificación del representante al Ministerio Público en el mismo auto de admisión de la solicitud de adopción, a fin de que éste pueda informarse de todo el expediente, incluidos los informes de seguimiento del período de prueba, y expresar su opinión con conocimiento de causa, en la audiencia que fije el juez o jueza de juicio.
+El juez o jueza de mediación y sustanciación debe ordenar la notificación del representante del Ministerio Público en el mismo auto de admisión de la solicitud de adopción, a fin de que éste pueda informarse de todo el expediente, incluidos los informes de seguimiento del período de prueba, y expresar su opinión con conocimiento de causa, en la audiencia que fije el juez o jueza de juicio.
 
 [[END OF PAGE 147]]
 
@@ -4788,11 +4806,11 @@ El juez o jueza de mediación y sustanciación debe ordenar la notificación del
 
 ##### Artículo 496 Remisión al juez o jueza de juicio
 
-Concluido  el  período  de  prueba,  de  lo  cual  informarán  al  juez  o  jueza  de  mediación  y sustanciación las respectivas oficinas de adopciones, según se trate de adopción nacional o internacional, previa incorporación al expediente de todos los informes de seguimientos y su valoración, dicho juez o jueza lo remitirá al juez o jueza de juicio.
+Concluido el período de prueba, de lo cual informarán al juez o jueza de mediación y sustanciación las respectivas oficinas de adopciones, según se trate de adopción nacional o internacional, previa incorporación al expediente de todos los informes de seguimiento y su valoración, dicho juez o jueza lo remitirá al juez o jueza de juicio.
 
 ##### Artículo 497 Oportunidad para la audiencia de juicio.
 
-Recibido el expediente el juez o jueza de juicio debe fijar por auto expreso día y hora para que tenga lugar  la  audiencia  de  juicio,  dentro  de  un  plazo  no  menor  de  diez  ni  mayor  de treinta días, siguientes a aquél en que conste en autos dicha fijación.
+Recibido el expediente, el juez o jueza de juicio debe fijar por auto expreso día y hora para que tenga lugar la audiencia de juicio, dentro de un plazo no menor de diez ni mayor de treinta días, siguientes a aquél en que conste en autos dicha fijación.
 
 ##### Artículo 498 Audiencia de juicio
 
@@ -4832,7 +4850,7 @@ El  juez  o  jueza,  una  vez  decretada  la  adopción,  debe  enviar  una  cop
 
 En  caso  que  el  adoptado  o  adoptada  haya  nacido  en  el  extranjero,  los  funcionarios  o funcionarias  del  mencionado  Registro  están  facultados  para  levantar  dicha  partida  de nacimiento, en la cual deben indicar el lugar y la fecha en que se produjo el nacimiento de que se trata.
 
-En  el  caso  de  adopciones  internacionales  en  que  el  o  los  adoptantes  tienen  residencia habitual en otro país, los funcionarios o funcionarias del Registro Civil debe identificar como presentantes del niño, niña o adolescente en la nueva partida de nacimiento, al adoptante o adoptantes, según sea individual o conjunta la adopción decretada.
+En el caso de adopciones internacionales en que el o los adoptantes tienen residencia habitual en otro país, los funcionarios o funcionarias del Registro Civil deben identificar como presentantes del niño, niña o adolescente en la nueva partida de nacimiento, al adoptante o adoptantes, según sea individual o conjunta la adopción decretada.
 
 El decreto de adopción surte efectos desde la fecha en que queda firme, pero no es oponible a terceros sino una vez efectuada su inscripción en el Registro Civil.
 
@@ -4854,23 +4872,23 @@ Los  funcionarios  o  funcionarias  del  Registro  Civil  deben  informar,  de  
 
 ##### Artículo 508 Irrevocabilidad
 
-La adopción es irrevocable
+La adopción es irrevocable.
 
 ##### Artículo 509 Nulidad
 
 La adopción es nula cuando se decreta:
 
-- En violación de disposiciones referidas a la capacidad, impedimentos o consentimientos previstos en los Artículos 408 al 414 de esta Ley, ambos inclusive.
+a) En violación de disposiciones referidas a la capacidad, impedimentos o consentimientos previstos en los Artículos 408 al 414 de esta Ley, ambos inclusive.
 
-- Con infracción de las normas sobre emparentamiento y período de prueba, establecidas en los Artículos 493-N, 493-O y 493-P de esta Ley.
+b) Con infracción de las normas sobre emparentamiento y período de prueba, establecidas en los Artículos 493-N, 493-O y 493-P de esta Ley.
 
-- Con algún error en el consentimiento sobre la identidad del adoptante o del adoptado o adoptada.
+c) Con algún error en el consentimiento sobre la identidad del adoptante o del adoptado o adoptada.
 
-- En violación de cualquier otra disposición de orden público.
+d) En violación de cualquier otra disposición de orden público.
 
 La acción de nulidad de adopción sólo puede ser intentada directamente por el adoptado o adoptada,  si  tiene  más  de  12  años  de  edad,  el  o  la  representante  legal  del  adoptado  o adoptada; por el Ministerio Público y por quienes puedan hacer oposición a la adopción. En el  caso  previsto  en  el  literal  c)  de  este Artículo,  la  acción  sólo  puede  intentarla  la  persona cuyo consentimiento estuvo viciado o, sus herederos, si el lapso para ejercer la acción no hubiere expirado.
 
-La acción de nulidad de la adopción sólo puede interponerse dentro del término de un año, contado a partir de la fecha de inscripción del decreto de adopción en el Registro Civil o de conocida la violación de disposiciones referidas a capacidad, impedimentos o consentimientos o, a error en el consentimiento sobre la identidad del adoptante el adoptado o  adoptada.  Dicho  término  correrá  para  el  adoptado  o  adoptada  desde  la  fecha  en  que alcance su mayoridad.
+La acción de nulidad de la adopción sólo puede interponerse dentro del término de un año, contado a partir de la fecha de inscripción del decreto de adopción en el Registro Civil o de conocida la violación de disposiciones referidas a capacidad, impedimentos o consentimientos o, a error en el consentimiento sobre la identidad del adoptante o del adoptado o adoptada. Dicho término correrá para el adoptado o adoptada desde la fecha en que alcance su mayoridad.
 
 Definitivamente firme la sentencia que declare la nulidad de la adopción, el juez o jueza debe enviar copia certificada de la misma al Registro Civil donde se efectuaron las inscripciones previstas en los Artículos 504, 505 y 506 de esta Ley, a los efectos de su inserción en los libros correspondientes. Dicha sentencia está sujeta al juicio de revisión previsto en el ordinal Segundo del Artículo 507 del Código Civil.
 
@@ -4890,7 +4908,7 @@ Los procedimientos sobre asuntos de jurisdicción voluntaria, entre ellos los pr
 
 ##### Artículo 512 Audiencia
 
-En  los  procedimientos  sobre  asuntos  de  jurisdicción  voluntaria  sólo  se  celebrará  una audiencia, la cual se rige por lo establecido para la audiencia preliminar en el procedimiento ordinario contemplado en el Capítulo IV del Título IV de esta Ley. En estos casos el juez o jueza -de mediación y sustanciación será competente para evaluar las pruebas y dictar su determinación sobre lo solicitado.
+En los procedimientos sobre asuntos de jurisdicción voluntaria sólo se celebrará una audiencia, la cual se rige por lo establecido para la audiencia preliminar en el procedimiento ordinario contemplado en el Capítulo IV del Título IV de esta Ley. En estos casos el juez o jueza de mediación y sustanciación será competente para evaluar las pruebas y dictar su determinación sobre lo solicitado.
 
 El Tribunal de Protección de Niños, Niñas y Adolescentes debe fijar, por auto expreso, día y hora para que tenga lugar la audiencia, dentro de un plazo no menor de cinco días ni mayor de diez días siguientes a aquel en que conste en autos la notificación correspondiente. En caso de no ser necesaria la notificación de persona alguna, la audiencia debe ser fijada a partir del día de admisión de la solicitud.
 
@@ -4936,7 +4954,7 @@ Antes de proceder a notificar, debe publicarse un cartel en un diario de circula
 
 El juez o jueza de mediación y sustanciación es competente para instruir las justificaciones y diligencias dirigidas a la comprobación de algún hecho o algún derecho propio del interesado o  interesada.  En  estos  casos  debe  acordarse  en  el  auto  de  admisión  lo  necesario  para practicarlas y, una vez concluidas, se entregarán al o la solicitante sin decreto alguno.
 
-Si  se  pidiere  que  tales  justificaciones  o  diligencias  se  declaren  suficiente  para  asegurar posesión o algún derecho, mientras no haya oposición, el juez o jueza debe decretar lo que juzgue conveniente, antes de entregarlas al o la solicitante, quedando en todo caso a salvo los derechos de terceros.
+Si se pidiere que tales justificaciones o diligencias se declaren suficientes para asegurar posesión o algún derecho, mientras no haya oposición, el juez o jueza debe decretar lo que juzgue conveniente, antes de entregarlas al o la solicitante, quedando en todo caso a salvo los derechos de terceros.
 
 ### Capítulo VII De las homologaciones Judiciales
 
@@ -5004,7 +5022,7 @@ El Sistema Penal de Responsabilidad de Adolescentes está integrado por:
 
 - Los Programas y entidades de atención.
 
-##### Artículo 518 Responsabilidad del adolescente
+##### Artículo 528 Responsabilidad del adolescente
 
 El o la adolescente que incurra en la comisión de hechos punibles responde por el hecho en la medida de su culpabilidad, de forma diferenciada del adulto. La diferencia consiste en la jurisdicción especializada y en la sanción que se le impone.
 
@@ -5068,7 +5086,7 @@ Las  disposiciones  de  este  Título  se  aplicarán  a  los  adolescentes  que
 
 ##### Artículo 537 Interpretación y aplicación
 
-Las  disposiciones  de  este  Título  deben  interpretarse  y  aplicarse  en  armonía  con  sus principios rectores, los principios generales de la Constitución de la República Bolivariana de Venezuela, del derecho penal y procesal penal, y de los tratados internacionales, consagrados en favor de la persona y especialmente de los las adolescentes.
+Las disposiciones de este Título deben interpretarse y aplicarse en armonía con sus principios rectores, los principios generales de la Constitución de la República Bolivariana de Venezuela, del derecho penal y procesal penal, y de los tratados internacionales, consagrados en favor de la persona y especialmente de los y las adolescentes.
 
 En  todo  lo  que  no  se  encuentre  expresamente  regulado  en  este  Título,  deben  aplicarse supletoriamente  la  legislación  penal,  sustantiva  y  procesal  y,  en  su  defecto,  el  Código  de Procedimiento Civil.
 
@@ -5076,7 +5094,7 @@ En  todo  lo  que  no  se  encuentre  expresamente  regulado  en  este  Título,
 
 ##### Artículo 538 Dignidad
 
-Se debe respetar la dignidad inherente a la persona humana, el derecho a la-igualdad ante la ley, la integridad personal y el libre desarrollo de la personalidad. Ningún adolescente puede ser  limitado  o  limitada  en  el  ejercicio  de  sus  derechos  y  garantías  más  allá  de  los  fines, alcances y contenido de las medidas cautelares o definitivas que se deba imponer.
+Se debe respetar la dignidad inherente a la persona humana, el derecho a la igualdad ante la ley, la integridad personal y el libre desarrollo de la personalidad. Ningún adolescente puede ser limitado o limitada en el ejercicio de sus derechos y garantías más allá de los fines, alcances y contenido de las medidas cautelares o definitivas que se deba imponer.
 
 ##### Artículo 539. Proporcionalidad.
 
@@ -5094,9 +5112,9 @@ Se  presume  la  inocencia  del  o  de  la  adolescente  hasta  tanto  una  sent
 
 Información
 
-El  o  la  adolescente  investigado  o  investigada  o  detenido  o  detenida  debe  ser  informado  o informada de los motivos de la investigación y de la autoridad responsable de la misma, del derecho ano incriminarse y a solicitar la presencia inmediata de sus padres, representantes o responsables y su Defensor o Defensora.
+El o la adolescente investigado o investigada o detenido o detenida debe ser informado o informada de los motivos de la investigación y de la autoridad responsable de la misma, del derecho a no incriminarse y a solicitar la presencia inmediata de sus padres, representantes o responsables y su Defensor o Defensora.
 
-##### Artículo 542 Derecho o ser oído u oída
+##### Artículo 542 Derecho a ser oído u oída
 
 El o la adolescente tiene derecho a ser oído u oída en la investigación, en el juicio y durante la ejecución de la sanción.
 
@@ -5140,7 +5158,7 @@ Tanto  la  prisión  preventiva  como  las  sanciones  privativas  de  libertad 
 
 ##### Artículo 550 Proceso a indígenas
 
-Cuando se trate de adolescentes pertenecientes a pueblos y comunidades indígena, se debe observar,  además  de  las  reglas  de  esta  Ley,  sus  usos  y  costumbres  y  se  oirá  a  las autoridades propias, siempre que sea posible su comparecencia.
+Cuando se trate de adolescentes pertenecientes a pueblos y comunidades indígenas, se debe observar, además de las reglas de esta Ley, sus usos y costumbres y se oirá a las autoridades propias, siempre que sea posible su comparecencia.
 
 ### Capítulo II Procedimiento
 
@@ -5168,19 +5186,19 @@ La investigación comprende las diligencias para la incorporación de los medios
 
 ##### Artículo 555 Control
 
-Al  Juez  y  Jueza  de  Control  compete autorizar y realizar los  anticipos de prueba y acordar medidas de coerción personal; resolver incidentes,  excepciones  y  peticiones  de  las  partes durante esta fase y disponer las medidas necesarias para que, en la obtención incorporación de la prueba, se respeten los principios del ordenamiento jurídico.
+Al Juez o Jueza de Control compete autorizar y realizar los anticipos de prueba y acordar medidas de coerción personal; resolver incidentes, excepciones y peticiones de las partes durante esta fase y disponer las medidas necesarias para que, en la obtención e incorporación de la prueba, se respeten los principios del ordenamiento jurídico.
 
 ##### Artículo 556 Querella
 
 Tratándose  de  hechos  punibles  de  instancia  privada,  la  querella  se  propondrá  por  escrito ante el Juez o Jueza de Control, quien decidirá sobre su admisión y ordenará a la policía de investigación las diligencias que se le solicite, cuando las estime conducentes.
 
-Practicadas las diligencias, el juez o jueza las entregará al querellante para que dentro de diez días presente la acusación. Recibida ésta, se fijará una audiencia para oír al acusado acusada y se procederá conforme al Artículo 571 de esta Ley.
+Practicadas las diligencias, el juez o jueza las entregará al querellante para que dentro de diez días presente la acusación. Recibida ésta, se fijará una audiencia para oír al acusado o acusada y se procederá conforme al Artículo 571 de esta Ley.
 
 ##### Artículo 557 Detención en flagrancia
 
 El  o  la  adolescente  detenido  o  detenida  en  flagrancia  será  conducido  o  conducida  de inmediato  ante  el  o  la  Fiscal  del  Ministerio  Público  quien,  dentro  de  las  veinticuatro  horas siguientes  lo  presentará  al  Juez  o  Jueza  de  Control  y  le  expondrá  cómo  se  produjo  la aprehensión. El juez o jueza resolverá, en la misma audiencia, si convoca directamente a juicio  oral  para  dentro  de  los  diez  días  siguientes.  El  o  la  Fiscal  y,  en  su  caso,  el  o  la querellante, presentará la acusación directamente en la audiencia de juicio oral y se seguirá, en lo demás, las reglas del procedimiento ordinario.
 
-En  la  audiencia  de  presentación  del  detenido  o  detenida  en  flagrancia  el  juez  o  jueza resolverá la medida  cautelar  de  comparecencia  ajuicio,  pudiendo  decretar  la prisión preventiva, sólo en los casos en que proceda, conforme a los Artículos siguientes.
+En la audiencia de presentación del detenido o detenida en flagrancia el juez o jueza resolverá la medida cautelar de comparecencia a juicio, pudiendo decretar la prisión preventiva, sólo en los casos en que proceda, conforme a los Artículos siguientes.
 
 ##### Artículo 558 Detención para identificación
 
@@ -5188,7 +5206,7 @@ En el curso de una investigación el Juez o Jueza de Control, a solicitud del o 
 
 ##### Artículo 559 Detención para asegurar la comparecencia a la audiencia preliminar
 
-Identificado  el  o  la  adolescente,  el  o  la  Fiscal  del  Ministerio  Público  podrá  solicitar  su detención  para  asegurar  su  comparecencia  a  la  audiencia  preliminar.  A  tal  efecto,  lo conducirá ante el Juez o Jueza de Control dentro de las veinticuatro horas siguientes a su ubicación y aprehensión. El juez o jueza oirá a las parte y resolverá inmediatamente. Sólo acordará la detención si no hay otra forma posible de asegurar su comparecencia.
+Identificado el o la adolescente, el o la Fiscal del Ministerio Público podrá solicitar su detención para asegurar su comparecencia a la audiencia preliminar. A tal efecto, lo conducirá ante el Juez o Jueza de Control dentro de las veinticuatro horas siguientes a su ubicación y aprehensión. El juez o jueza oirá a las partes y resolverá inmediatamente. Sólo acordará la detención si no hay otra forma posible de asegurar su comparecencia.
 
 [[END OF PAGE 160]]
 
@@ -5224,7 +5242,7 @@ Si  de  la  investigación  resultan  evidencias  de  la  participación  de  un
 
 ##### Artículo 564 Conciliación
 
-Cuando se trate de hechos punibles para los que no sea procedente la privación de libertad como  sanción,  el  o  la  Fiscal  del  Ministerio  Público  promoverá  la  conciliación.  Para  ello, celebrará una reunión con el o al adolescente, sus padres, representantes o responsables y la víctima, presentará su eventual acusación, expondrá y oirá proposiciones.
+Cuando se trate de hechos punibles para los que no sea procedente la privación de libertad como sanción, el o la Fiscal del Ministerio Público promoverá la conciliación. Para ello, celebrará una reunión con el o la adolescente, sus padres, representantes o responsables y la víctima, presentará su eventual acusación, expondrá y oirá proposiciones.
 
 ###### Parágrafo Primero
 
@@ -5265,7 +5283,7 @@ Si el o la adolescente cumple las obligaciones pactadas en el plazo fijado, el o
 
 ##### Artículo 569 Remisión
 
-El  o  la  Fiscal  del  Ministerio  Público  podrá  solicitar  al  Juez  o  Jueza  de  Control  que  se prescinda del juicio, o se limite éste a una o varias infracciones menores, o sólo a alguno de los adolescentes participes, cuando:
+El o la Fiscal del Ministerio Público podrá solicitar al Juez o Jueza de Control que se prescinda del juicio, o se limite éste a una o varias infracciones menores, o sólo a alguno de los adolescentes partícipes, cuando:
 
 - Se trate de un hecho insignificante o de una participación mínima.
 
@@ -5316,7 +5334,7 @@ En los  hechos  punibles  de  acción  pública  la  víctima  podrá  adherirse
 
 ##### Artículo 573 Facultades y deberes de las partes
 
-Dentro  del  plazo  lijado  para  la  celebración  de  la  audiencia  preliminar,  las  partes  podrán manifestar por escrito lo siguiente:
+Dentro del plazo fijado para la celebración de la audiencia preliminar, las partes podrán manifestar por escrito lo siguiente:
 
 - Señalar los vicios formales o la falta de fundamento de la acusación.
 
@@ -5336,7 +5354,7 @@ Dentro  del  plazo  lijado  para  la  celebración  de  la  audiencia  prelimina
 
 - Ofrecer  los  medios  de  prueba  necesarios  para  resolver  las  cuestiones  propias  de  la audiencia preliminar.
 
-El  adolescente  imputado  o  adolescente  imputada  y  su  defensor  o  defensora  deberán, además, proponerla prueba que presentarán en el juicio.
+El adolescente imputado o adolescente imputada y su defensor o defensora deberán, además, proponer la prueba que presentarán en el juicio.
 
 ##### Artículo 574 Limitación
 
@@ -5422,9 +5440,9 @@ En el auto de enjuiciamiento el Juez o Jueza de Control podrá decretar la prisi
 
 - Peligro grave para la víctima, denunciante o testigo.
 
-Parágrafo  Primero.  Esta  medida  no  procederá  sino  en  los  casos  en  que,  conforme  a  la calificación dada por el juez o jueza, seria admisible la privación de libertad como sanción, de acuerdo a lo dispuesto en el literal a) del Parágrafo Segundo del Artículo 628 de esta Ley. Se ejecutará en centros de internamiento especializados, donde los adolescentes procesados y adolescentes  procesadas  deben  estar  separados  o  separadas  de  los  ya  sentenciados  o sentenciadas.
+Parágrafo Primero. Esta medida no procederá sino en los casos en que, conforme a la calificación dada por el juez o jueza, sería admisible la privación de libertad como sanción, de acuerdo a lo dispuesto en el literal a) del Parágrafo Segundo del Artículo 628 de esta Ley. Se ejecutará en centros de internamiento especializados, donde los adolescentes procesados y adolescentes procesadas deben estar separados o separadas de los ya sentenciados o sentenciadas.
 
-Parágrafo Segundo. La prisión preventiva no podrá exceder de tres meses. Si cumplido este término el juicio no ha concluido por sentencia condenatoria, el juez u jueza que conozca del mismo la hará cesar, sustituyendo la por otra medida cautelar.
+Parágrafo Segundo. La prisión preventiva no podrá exceder de tres meses. Si cumplido este término el juicio no ha concluido por sentencia condenatoria, el juez o jueza que conozca del mismo la hará cesar, sustituyéndola por otra medida cautelar.
 
 ##### Artículo 582 Otras medidas cautelares
 
@@ -5486,13 +5504,13 @@ Si  el  juicio  oral  no  puede  realizarse  en  una  sola  audiencia,  continua
 
 El juicio oral se realizará con la presencia ininterrumpida del o los juez o juezas que integren el tribunal, y del o de la Fiscal del Ministerio Público, so pena de nulidad.
 
-##### Artículo 590 Presencia del acusado u acusada
+##### Artículo 590 Presencia del acusado o acusada
 
 El acusado o acusada deberá estar presente en toda la audiencia. A solicitud suya o de quien ejerza su defensa, el tribunal podrá autorizar el retiro transitorio del o de la adolescente de la sala cuando sea necesario tratar asuntos que puedan causarle perjuicio moral o psicológico.
 
 ##### Artículo 591 Presencia del defensor o defensora
 
-El  acusado  o  acusada  estará  asistido  de  abogado  defensor  u  abogada  defensora  durante todo  el  juicio  oral,  so  pena  de  nulidad.  La  no  comparecencia  del  defensor  o  defensora nombrado  al  inicio  de  la  audiencia  o  su  abandono  no  constituirán  motivo  de  suspensión, debiendo el tribunal designar un Defensor o Defensora Público. En este caso, se concederá al nuevo Defensor o Defensora un periodo prudente para preparar la defensa.
+El acusado o acusada estará asistido de abogado defensor o abogada defensora durante todo el juicio oral, so pena de nulidad. La no comparecencia del defensor o defensora nombrado al inicio de la audiencia o su abandono no constituirán motivo de suspensión, debiendo el tribunal designar un Defensor o Defensora Público. En este caso, se concederá al nuevo Defensor o Defensora un periodo prudente para preparar la defensa.
 
 ##### Artículo 592 Ausencia del o de la querellante
 
@@ -5508,7 +5526,7 @@ La audiencia de juicio oral se celebrará el día, a la hora y en el lugar fijad
 
 ##### Artículo 594 Declaración del imputado o imputada
 
-Una vez constatado que el imputado u imputada comprende el contenido de la acusación y de  la  defensa,  el  tribunal  le  recibirá  declaración,  advirtiéndole  que  su  silencio  no  lo perjudicará.
+Una vez constatado que el imputado o imputada comprende el contenido de la acusación y de la defensa, el tribunal le recibirá declaración, advirtiéndole que su silencio no lo perjudicará.
 
 Si  decide  declarar,  se  le  permitirá  exponer  libremente.  Luego,  podrán  interrogarlo  el  o  la Fiscal del Ministerio Público, el defensor o defensora y los integrantes del tribunal, en ese orden.  Antes  del  interrogatorio  será  nuevamente  advertido  de  que  puede  abstenerse  de contestar preguntas, total o parcialmente.
 
@@ -5598,7 +5616,7 @@ La sentencia absolutoria ordenará la libertad del  acusado, la cesación de las
 
 La sentencia de condena no podrá sobrepasar el hecho y las circunstancias descritas en el auto de enjuiciamiento o, en su caso, en la ampliación de la acusación.
 
-En la sentencia condenatoria el tribunal podrá dar al hecho una calificación jurídica distinta de  aquella  de  la  acusación  o  de  la  del  auto  de  enjuiciamiento,  o  aplicar  sanciones  más graves. Sin embargo, el acusado u acusada no puede ser condenado o condenada en virtud de un precepto penal distinto del invocado en la acusación, comprendida su ampliación, o en el auto de enjuiciamiento, si previamente no fue advertido o advertida sobre la modificación posible de la calificación jurídica.
+En la sentencia condenatoria el tribunal podrá dar al hecho una calificación jurídica distinta de aquella de la acusación o de la del auto de enjuiciamiento, o aplicar sanciones más graves. Sin embargo, el acusado o acusada no puede ser condenado o condenada en virtud de un precepto penal distinto del invocado en la acusación, comprendida su ampliación, o en el auto de enjuiciamiento, si previamente no fue advertido o advertida sobre la modificación posible de la calificación jurídica.
 
 En todo caso, fijará con claridad y precisión la sanción impuesta y el plazo en el que deberá ser cumplida.
 
@@ -5625,7 +5643,7 @@ La sentencia contendrá:
 
 La sentencia se pronunciará siempre en nombre de la República. Redactada la sentencia, el tribunal  se  constituirá  nuevamente en la sala de la audiencia, después de ser convocadas verbalmente  todas  las  partes  en  el  debate  y  el  documento  será  leído  ante  los  que comparezcan. La lectura valdrá en todo caso como notificación, entregándose posteriormente copia a las partes que la requieran.
 
-La  sentencia  se  dictará  en  la  misma  audiencia.  Cuando  la  complejidad  del  asunto  o  lo avanzado de la hora tomen necesario diferir la redacción de la sentencia, se leerá tan solo su parte dispositiva y el presidente o presidenta del tribunal explicará al o la adolescente y a la audiencia sintéticamente, los fundamentos de hecho y de derecho que motivaron la decisión. La publicación de la sentencia se deberá llevar a cabo a más tardar, dentro de los cinco días posteriores al pronunciamiento de la parte dispositiva.
+La sentencia se dictará en la misma audiencia. Cuando la complejidad del asunto o lo avanzado de la hora tornen necesario diferir la redacción de la sentencia, se leerá tan solo su parte dispositiva y el presidente o presidenta del tribunal explicará al o la adolescente y a la audiencia sintéticamente, los fundamentos de hecho y de derecho que motivaron la decisión. La publicación de la sentencia se deberá llevar a cabo a más tardar, dentro de los cinco días posteriores al pronunciamiento de la parte dispositiva.
 
 ##### Artículo 606 Acta del debate
 
@@ -5641,7 +5659,7 @@ Quien desempeñe la función de secretario o secretaria durante el debate levant
 
 - Observancia de las formalidades esenciales.
 
-- Otras menciones previstas por la ley o las que el presidente o presidenta ordene por si o a solicitud de los demás jueces, juezas o partes.
+- Otras menciones previstas por la ley o las que el presidente o presidenta ordene por sí o a solicitud de los demás jueces, juezas o partes.
 
 - Forma en que se cumplió el pronunciamiento de la sentencia, con mención de las fechas pertinentes.
 
@@ -5655,7 +5673,7 @@ Quien desempeñe la función de secretario o secretaria durante el debate levant
 
 ##### Artículo 607 Revocación
 
-El recurso de revocación procederá so lamente contra los autos de sustanciación y de mero trámite, a fin de que el mismo tribunal que los dictó, examine nuevamente la cuestión y dicte la decisión que corresponda.
+El recurso de revocación procederá solamente contra los autos de sustanciación y de mero trámite, a fin de que el mismo tribunal que los dictó, examine nuevamente la cuestión y dicte la decisión que corresponda.
 
 En las audiencias orales este recurso será resuelto de inmediato. En los casos restantes se interpondrá por escrito dentro de los tres días siguientes al auto y se resolverá dentro de los tres siguientes.
 
@@ -5719,7 +5737,7 @@ Podrán ejercer el recurso de revisión:
 
 ##### Artículo 613 Trámite, procedencia y efectos de los recursos
 
-La apelación, la casación y la revisión se interpondrán, tramitarán y resolverán conforme lo dispone  el  Código  Procesal  Penal,  procederán  por  los  motivos  y  tendrán  los  efectos  allí previstos.
+La apelación, la casación y la revisión se interpondrán, tramitarán y resolverán conforme lo dispone el Código Orgánico Procesal Penal, procederán por los motivos y tendrán los efectos allí previstos.
 
 Para el recurso de casación, se reducirán los plazos a la mitad y, si éste no es divisible por dos, al número superior.
 
@@ -5791,7 +5809,7 @@ Comprobada  la  participación  del  o  de  la  adolescente  en  el  hecho  puni
 
 ##### Artículo 621 Finalidad y principios
 
-Las medidas seña ladas en el Artículo anterior tienen una finalidad primordialmente educativa y  se  complementará,  según  el  caso,  con  la  participación  de  la  familia  y  el  apoyo  de especialistas. Los principios orientadores de dichas medidas son el respeto a los derechos humanos,  la  formación  integral  del  o  de  la  adolescente  y  la  búsqueda  de  su  adecuada convivencia familiar y social.
+Las medidas señaladas en el Artículo anterior tienen una finalidad primordialmente educativa y  se  complementará,  según  el  caso,  con  la  participación  de  la  familia  y  el  apoyo  de especialistas. Los principios orientadores de dichas medidas son el respeto a los derechos humanos,  la  formación  integral  del  o  de  la  adolescente  y  la  búsqueda  de  su  adecuada convivencia familiar y social.
 
 ##### Artículo 622 Pautas para la determinación y aplicación
 
@@ -5857,7 +5875,7 @@ Se considera tiempo libre aquel durante el cual el o la adolescente no deba asis
 ##### Artículo 628 Privación de libertad
 Consiste en la internación del o de la adolescente en establecimiento público del cual sólo podrá salir por orden judicial.
 
-Parágrafo  Primero.  La  privación  de  libertad  es  una  medida  sujeta  a  los  principios  de excepcionalidad y de respeto a la condición peculiar de persona en desarrollo. En caso de adolescentes que tengan catorce años o más, su duración no podrá ser menor de un año ni mayor de cinco años. En caso de adolescentes de menos de catorce años, su duración no podrá ser menor de seis meses ni mayor de dos años. En ningún caso podrá imponerse al o a la adolescente un lapso de privación de libertad mayor al limite mínimo de pena establecido en la ley penal para el hecho punible correspondiente.
+Parágrafo  Primero.  La  privación  de  libertad  es  una  medida  sujeta  a  los  principios  de excepcionalidad y de respeto a la condición peculiar de persona en desarrollo. En caso de adolescentes que tengan catorce años o más, su duración no podrá ser menor de un año ni mayor de cinco años. En caso de adolescentes de menos de catorce años, su duración no podrá ser menor de seis meses ni mayor de dos años. En ningún caso podrá imponerse al o a la adolescente un lapso de privación de libertad mayor al límite mínimo de pena establecido en la ley penal para el hecho punible correspondiente.
 
 Parágrafo  Segundo.  La  privación  de  libertad  sólo  podrá  ser  aplicada  cuando  el  o  la adolescente:
 
@@ -5955,7 +5973,7 @@ La medida privativa de libertad se ejecutará en instituciones de internamiento 
 
 ##### Artículo 635 Admisión
 
-En las instituciones no se admitirán adolescentes sin orden previa y escrita de la autoridad competente,  y  se  ubicarán  por  separado  loso  las  que  se  encuentren  en  internamiento provisional o definitivo.
+En las instituciones no se admitirán adolescentes sin orden previa y escrita de la autoridad competente,  y  se  ubicarán  por  separado  los o las  que  se  encuentren  en  internamiento provisional o definitivo.
 
 ##### Artículo 636
 
@@ -6133,7 +6151,7 @@ Si  un  o  una  adolescente  es  aprehendido  o  aprehendida  por  miembros  de 
 
 ##### Artículo 654 Imputado o imputada
 
-Todo adolescente señalado o señalada como presunto autor o participe de un hecho punible tiene derecho, desde el primer acto de procedimiento, a:
+Todo adolescente señalado o señalada como presunto autor o partícipe de un hecho punible tiene derecho, desde el primer acto de procedimiento, a:
 
 - Que se le informe de manera específica y clara sobre los hechos que se le imputa y la autoridad responsable de la investigación.
 
@@ -6185,11 +6203,11 @@ El  imputado  o  imputada  podrá  nombrar  hasta  tres  defensores  o  defensor
 
 ##### Artículo 658 Defensor o Defensora de Oficio
 
-Si en la localidad donde se lleva a cabo la investigación no hubiere Defensor o Defensora Público,  se  nombrará  Defensor  de  Oficio  o  Defensora  de  Oficio  a  (ilegible)  se  tomará juramento.
+Si en la localidad donde se lleva a cabo la investigación no hubiere Defensor o Defensora Público,  se  nombrará  Defensor  de  Oficio  o  Defensora  de  Oficio  a  quien  se  tomará juramento.
 
 ##### Artículo 659 Defensor o Defensora auxiliar
 
-(Ilegible)
+Para las diligencias que hayan de practicarse fuera del lugar del proceso, si el defensor o defensora manifiesta que no puede asistir a ellas, se nombrará defensor auxiliar o defensora auxiliar en los casos en que sea necesario.
 
 #### Sección Tercera Víctima y querellante
 
@@ -6287,7 +6305,7 @@ La Sección de Adolescentes del Tribunal Penal contará con:
 
 - Equipos multidisciplinarios o presupuesto para servirse de ellos.
 
-- Una sala de estaciones y notificaciones
+- Una sala de citaciones y notificaciones
 
 ##### Artículo 671 Dotación
 
@@ -6373,7 +6391,7 @@ El  Ejecutivo  Nacional  incluirá  en  la  Ley  de  Presupuesto  anual,  a  sol
 
 ##### Artículo 684 Derogatorias
 
-Se  deroga  la  Ley  Tutelar  de  Menores,  la  Ley  del  Instituto  Nacional  del  Menor,  la  Ley  de Adopción,  el  Capítulo  I  de  la  Ley  sobre  Protección  Familiar,  los Artículo s  411  y  437  del Código Penal y los Artículo s 247, 248, 254, 263, 264 y el encabezamiento del Artículo 404 de la Ley Orgánica del Trabajo; los Artículo s 191 ordinal Segundo, 192, 261, 264, 265, 278, 279,  280,  287  y  464  del  Código  Civil,  así  como  todas  las  disposiciones  contrarias  a  la presente Ley.
+Se  deroga  la  Ley  Tutelar  de  Menores,  la  Ley  del  Instituto  Nacional  del  Menor,  la  Ley  de Adopción,  el  Capítulo  I  de  la  Ley  sobre  Protección  Familiar,  los Artículos  411  y  437  del Código Penal y los Artículos 247, 248, 254, 263, 264 y el encabezamiento del Artículo 404 de la Ley Orgánica del Trabajo; los Artículos 191 ordinal Segundo, 192, 261, 264, 265, 278, 279,  280,  287  y  464  del  Código  Civil,  así  como  todas  las  disposiciones  contrarias  a  la presente Ley.
 
 ##### Artículo 685 Entrada en vigencia
 
