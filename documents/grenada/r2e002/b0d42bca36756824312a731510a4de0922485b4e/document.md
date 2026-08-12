@@ -16,11 +16,9 @@ Ministry of Education March 2006
 
 [[START OF PAGE 2]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
-
-II
 
 Volume 1: The Strategic Framework
 
@@ -32,8 +30,8 @@ FOREWARD .......................................................................
 2. Education policy....................................................................................................... 8
 2.1 The philosophy and goals of education............................................................... 8
 2.2 An outline of the main goals of the formal education system........................... 12
-2.4 Education policy in relation to Government’s development priorities ...... 17
-2.5 Strategic education imperatives and foci informing the development of the sector …………………………………………………………………………….23
+2.4 Education policy in relation to Government’s development priorities ............ 17
+2.5 Strategic education imperatives and foci informing the development of the sector ....................................................................................................................... 23
 1. A system of mutual accountability. ................................................................ 25
 2. A culture of learning...................................................................................... 28
 3. The promotion of teacher professionalism and development........................ 31
@@ -42,7 +40,7 @@ FOREWARD .......................................................................
 6. The attainment of increased access to quality secondary and tertiary educational opportunities.................................................................................... 33
 7. The achievement of literacy and numeracy standards in primary education by all students. ......................................................................................................... 34
 8. Pursuing and promoting prevention rather intervention and remediation. .... 34
-2.6 A framework for adopting the strategic objectives and actions of SPEED 11………………………………………………………………………..................36
+2.6 A framework for adopting the strategic objectives and actions of SPEED II .............................................................................................................................. 36
 3. Objectives of the Strategic Plan ............................................................................. 37
 4. The Strategic Framework ....................................................................................... 39
 4.1 Access to and participation in education........................................................... 40
@@ -51,7 +49,7 @@ FOREWARD .......................................................................
 4.4 Co-operation for Development ......................................................................... 54
 4.5 Administration and Management...................................................................... 57
 4.6 Costs and Financing.......................................................................................... 62
-4.7 Logical Framework for SPEED 11 ................................................................... 40
+4.7 Logical Framework for SPEED II ..................................................................... 40
 5. Implementation and Evaluation of the Plan ........................................................... 50
 5.1 SPEED II Management Structure ..................................................................... 50
 5.2 Indicators........................................................................................................... 52
@@ -64,11 +62,9 @@ Bibliography....................................................................
 
 [[START OF PAGE 3]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
-
-II
 
 ## Abbreviations
 
@@ -129,11 +125,9 @@ SIP | School Improvement Plan
 
 [[START OF PAGE 4]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
-
-II
 
 SMB | School Management Board
 --- | ---
@@ -152,11 +146,9 @@ UWI | University of the West Indies
 
 [[START OF PAGE 5]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
-
-II
 
 ## FOREWARD
 
@@ -194,17 +186,17 @@ Chapter  2 identifies  the  key  areas  of  focus  in  relation  to  the  Govern
 
 Together these ensure a philosophical, economic, social and structural basis for SPEED II.  Six key areas of focus are identified as follows:
 
-a) Access to and participation in Education
+- Access to and participation in Education
 
-b) The Quality of Education
+- The Quality of Education
 
-c) Education and the World of Work, Life and Citizenship
+- Education and the World of Work, Life and Citizenship
 
-d) Partnership and Co-operation
+- Partnership and Co-operation
 
-e) Management and Administration
+- Management and Administration
 
-f) Financing Education
+- Financing Education
 
 Chapter 3 reviews the key areas of focus in terms of broad objectives and the principal expected outcomes of the strategic plan.
 
@@ -214,11 +206,9 @@ Chapter 3 reviews the key areas of focus in terms of broad objectives and the pr
 
 [[START OF PAGE 7]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
-
-II
 
 Chapter 4 , the core of SPEED II, proposes, for each of these broad objectives, a set of core strategies, strategic objectives, targets and priorities that will be deployed to successfully fulfill the strategic plan.
 
@@ -226,12 +216,13 @@ Chapter  5 outlines  an  implementation  framework,  including  a  SPEED  II man
 
 Volumes  2  and  3  provide  a  detailed  action  plan  for  the  SPEED  II  and background papers respectively.
 
-It is worth recording that this plan is the result of a wide consultation process. Meetings were held with parents and other community members in the various parishes to discuss, in an atmosphere characterized by openness and transparency, the main issues confronting the education system. The participants made enlightening suggestions and to a large extent agreement was reached on the key focus areas of SPEED II. Separate discussion sessions were organized at different moments with other partners, coming from the business community, the Grenada Union of Teachers, student representatives, representatives of line ministries, the National Parent/Teacher's Association, Ministry of Education employees and the churches. It can rightfully be said that this plan reflects, as far as possible, the vision of the Grenadian people. In addition, SPEED II builds upon SPEED (2002 - 2010) which was informed by a comprehensive Education Sector Diagnosis (ESD), a full-scale study conducted and published by the Ministry of Education in September 2000.
+It is worth recording that this plan is the result of a wide consultation process. Meetings were held with parents and other community members in the various parishes to discuss, in an atmosphere characterized by openness and transparency, the main issues confronting the education system. The participants made enlightening suggestions and to a large extent agreement was reached on the key focus areas of SPEED II. Separate discussion sessions were organized at different moments with other partners, coming from the business community, the Grenada Union of Teachers, student representatives, representatives of line ministries, the National Parent/Teacher's Association, Ministry of Education employees and the churches. It can rightfully be said that this plan reflects, as far as possible, the vision of the Grenadian people. In addition, SPEED II builds upon SPEED (2002 – 2010) which was informed by a comprehensive Education Sector Diagnosis (ESD), a full-scale study conducted and published by the Ministry of Education in September 2000.
 
 Box 1
-SPEED 11 is the result of a wide consultation process. It reflects, as far as possible, the vision of the Grenadian people.
+SPEED II is the result of a wide consultation process.
+It reflects, as far as possible, the vision of the Grenadian people.
 
-The Ministry of Education's vision is that there should be universal access to lifelong  learning  through  well-managed  and  efficient  systems  that  enable children and adults to maximize their personal development and equip them, as ideal  Grenadian  citizens,  for  productive  engagement  in  social,  national  and international development. Fig 1(overleaf) encapsulates this vision within the SPEED  II  framework.  Chapter  2,  which  follows,  outlines  the  philosophy, thinking and national imperatives that underpin the vision.
+The Ministry of Education's vision is that there should be universal access to lifelong learning through well-managed and efficient systems that enable children and adults to maximize their personal development and equip them, as ideal Grenadian citizens, for productive engagement in social, national and international development. Fig 1(overleaf) encapsulates this vision within the SPEED II framework. Chapter 2, which follows, outlines the philosophy, thinking and national imperatives that underpin the vision.
 
 6
 
@@ -239,11 +230,9 @@ The Ministry of Education's vision is that there should be universal access to l
 
 [[START OF PAGE 8]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
-
-II
 
 Fig 1 Vision and Strategy
 
@@ -276,58 +265,22 @@ achieved by effective development of the
 citizens of Grenada
 
 Key Focus 1
-
-Access to and
-
-participation education for
-
-our whole population
+Access to and participation education for our whole population
 
 Key Focus 2
-
-Improved quality of
-
-education and
-
-student achievement
+Improved quality of education and student achievement
 
 Key Focus 3
-
-Our human resources have
-
-relevant work and life-related
-
-knowledge and skills
+Our human resources have relevant work and life-related knowledge and skills
 
 Key Focus 4
-
-Established and
-
-strengthened
-
-relationships with
-
-education partners
+Established and strengthened relationships with education partners
 
 Key Focus 5
-
-Improved efficiency
-
-and effectiveness of
-
-Ministry and school
-
-management
+Improved efficiency and effectiveness of Ministry and school management
 
 Key Focus 6
-
-Consistent Government
-
-financing, diversification
-
-of funding sources,
-
-efficient use of resources
+Consistent Government financing, diversification of funding sources, efficient use of resources
 
 7
 
@@ -335,11 +288,9 @@ efficient use of resources
 
 [[START OF PAGE 9]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
-
-II
 
 ## 2.  Education policy
 
@@ -383,11 +334,9 @@ The Ideal Caribbean Person:
 
 [[START OF PAGE 10]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
-
-II
 
 By extending the above principles to the particular circumstances of Grenada, the education system should therefore play a central part in forming the ideal Grenadian citizen.
 
@@ -418,11 +367,9 @@ Achieving this vision is a collective responsibility. By developing programmes a
 
 [[START OF PAGE 11]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
-
-II
 
 #### A Renewed role for Parents .
 A central aspect of the focus of education is the critical role assumed by parents as a major partner in the definition of what is education and providing support for its expression.  Traditionally, parents have always been singular in their understanding about the value of education for developing  the  children's  fullest  potential  and  ensuring  that  they  become productive members of the society.  In addition, the role of education to lift the circumstances of the disenfranchised from the ghettos of poverty and economic stagnation  to  a  life  of  social  and  economic  well-being,  has  been  the  driving force  behind  the  significant  investments  made  by  parents  over  the  decades. This means that the role of parents in the life and functioning of the schools continues  to  be  a  central  feature  of  the  ethos  of  the  delivery  of  quality education.  However, this plan articulates a rethinking of the role of parents from  being  mainly  to  support  fund  raising  school  activities  to  becoming meaningful  contributors  to  the  process  of  education.    In  that  regard,  as expressed by the Minister of Education, in the new education economy, parents must be perceived and integrated as:
@@ -448,13 +395,13 @@ This vision evinces a reenergized mobilization of parents as active, included an
 #### A Commitment to the Sub-regional Education Strategy .
 The philosophy of education in Grenada is also informed by the sub-regional OECS Education Reform Strategy (ERS), the Pillars for Partnership and Progress (PPP) which sees education as a variety of experiences that promote the development of the OECS national beyond personal, community and national parameters to sub-regional, regional and global improvement and well-being. Education, therefore, is:
 
-1. The glue for regional identity, integration and cohesion;
+- The glue for regional identity, integration and cohesion;
 
-2. The key to building capacity for sustainable development;
+- The key to building capacity for sustainable development;
 
-3. The foundation of a democratic and empowered citizenry;
+- The foundation of a democratic and empowered citizenry;
 
-4. The passport to multi-cultural assurance, global competitiveness and international citizenship.
+- The  passport  to  multi-cultural  assurance,  global  competitiveness  and international citizenship.
 
 10
 
@@ -462,24 +409,22 @@ The philosophy of education in Grenada is also informed by the sub-regional OECS
 
 [[START OF PAGE 12]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
-
-II
 
 Education promotes the inclusion of the individual as a valued and productive member of the  regional  and  global  society  by  providing  the  knowledge  and developing  the  skills  and  attitudes  needed  for  meaningful  participation  in  a world that is increasingly and inexorably globalized.  The relevance and scope of  the  education  provided  must  facilitate  the  meaningful  participation  of Grenadians  in  the  Caribbean  Single  Market  and  Economy  (CSME)  which comes on stream fully in January 2006.  Critical to the various modalities of education  programmes  should  be  a  deliberate  endeavor  to  ensure  that  the realities if the CSME and the wider global arrangements being negotiated with the inevitability of their formalization, will inform the content and processes of providing education to all.  The impact of education must not only facilitate the integration of the individual in the world beyond his of her island shores, but the process of education must also be informed by the best practices in other places.
 
 #### A Vibrant Focus on Learning.
 The United National Educational, Scientific and Cultural Organization (UNESCO) has also articulated in 'Learning: The Treasure  Within',  a  vision  of  the  purpose  of  education  that  privileges  the centrality  learning  as  the  basic  element  and  purpose  of  education.      This focuses on the active process in the education system and the end result of the various  education  and  training  experiences  -  learning.    Learning  is  not  just something that is happening; it is something that is done.  These four pillars point to the continuum of education, from mere accumulation and comprehension  of  facts  and  ideas  to  the  application  of  the  implications  and principles  of  what  we  know,  to  participating  as  a  valuable  member  of  our society where we live together in productive harmony.  These pillars are:
 
-1. Learning to know
+- Learning to know
 
-2. Learning to do
+- Learning to do
 
-3. Learning to be
+- Learning to be
 
-4. Learning to live together.
+- Learning to live together.
 
 These learning goals are achieved through the processes by which education is constructed,  negotiated  and  produced.    They  are  measured  and  validated through more than test scores - the formative experiences of students, parents and teachers provide evidence for the attainment of those learning goals at the upper end of the continuum.
 
@@ -491,15 +436,13 @@ Education,  therefore,  is  to  be  a  lifelong  experience  and  responsibility
 
 [[START OF PAGE 13]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
 
-II
-
 ### 2.2 An outline of the main goals of the formal education system 1
 
-For the formal education, SPEED 11 is developed to promote the attainment of the goals of education for the various sub-sectors.  These goals are outlined below:
+For the formal education, SPEED II is developed to promote the attainment of the goals of education for the various sub-sectors. These goals are outlined below:
 
 #### Goals of Early Childhood Education and Development (ECED)
 
@@ -557,11 +500,9 @@ The goals of primary education are as follows:
 
 [[START OF PAGE 14]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
-
-II
 
 -To develop health and physical fitness;
 
@@ -611,11 +552,9 @@ These goals will be pursed through the context, content, processes, interactions
 
 [[START OF PAGE 15]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
-
-II
 
 ### 2.3 A brief overview of the current education system 2
 
@@ -690,11 +629,9 @@ There are also some significant shortcomings including:
 
 [[START OF PAGE 17]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
-
-II
 
 - too many pupils who are failing in the system and/or being failed by the system, particularly boys, special needs students  and young adults
 
@@ -717,11 +654,9 @@ The strategic framework of SPEED II is designed to take account of the issues an
 
 [[START OF PAGE 18]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
-
-II
 
 ### 2.4 Education policy in relation to Government's development priorities
 
@@ -741,11 +676,11 @@ The  Government  of  Grenada  recognizes  the  value  of  developing  human reso
 
 The  GoG,  within  its  overall  concern  to  enhance  the  quality  of  life  of  all  its citizens, has three overarching policy-objectives:
 
-i) to address poverty reduction and poverty alleviation;
+- i) to address poverty reduction and poverty alleviation;
 
-ii) to re-position its economy as a more diversified, competitive and knowledge-based economy;
+- ii) to re-position its economy as a more diversified, competitive and knowledge-based economy;
 
-iii) to accelerate public-sector reform.
+- iii) to accelerate public-sector reform.
 
 That education is necessary to realizing the first of these objectives was demonstrated in the recent national Poverty Assessment Report, (PAR), National Assessment Team of Grenada (October 1999). See Box 6. The main way to lift the poor out of their poverty is by building up their educational assets. Their present poverty is in part a reflection of their lack of education.
 
@@ -759,11 +694,9 @@ At the base of poverty reduction in Grenada at the present time, must be a radic
 
 [[START OF PAGE 19]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
-
-II
 
 Educational development goes hand in hand with poverty alleviation, on condition, however, that educational policies are inclusive of the needs and the characteristics of the most deprived in Grenadian society (Box 7).
 
@@ -782,11 +715,13 @@ Education has a core role to play in any endeavor to turn the Grenadian economy 
 The  present  education  system  has  several  assets,  but  it  will  need  to  build further upon these assets to play the constructive role in the overall development  of  the  nation  that  is  expected  and  demanded  of  it.  The  most important areas of focus that will need to be addressed are summarized in the next six sections.
 
 #### 2.4.1 Access to and participation in secondary education remains low, notwithstanding the recent increase in the transition rates from primary to secondary school.
-Although Grenada has a strongly developed and publicly supported early childhood education sub-sector and achieved Universal Primary Education many years ago, access to secondary education is limited to about 80% of the cohort. As a result, about half of all young adults do not possess any educational certificate. This poses a threat to the development of knowledge-based service industries. See Box 8. But this is not simply an economic problem. It is also a social issue of great concern: the country cannot afford to neglect such a large number of young people, mainly boys, whose chances to find a job and to look forward to a better future are
+Although Grenada has a strongly developed and publicly supported early childhood education sub-sector and achieved Universal Primary Education many years ago, access to secondary education is limited to about 80% of the cohort. As a result, about half of all young adults do not possess any educational certificate. This poses a threat to the development of knowledge-based service industries. See Box 8.
 
 Box 8
 The low level of education achievement [i.e. through access] is likely to prove a formidable barrier to transforming productive activity into more knowledge and skill intensive types of activity.
 MTESP, p 27
+
+But this is not simply an economic problem. It is also a social issue of great concern: the country cannot afford to neglect such a large number of young people, mainly boys, whose chances to find a job and to look forward to a better future are
 
 18
 
@@ -803,12 +738,12 @@ extremely limited. It is clear therefore that increasing the overall educational
 #### 2.4.2 The quality of teaching and learning leaves much to be desired at both primary  and  secondary  level,  as  the  results  of  Minimum  Competency  Tests, undertaken since 1999, have convincingly shown.
 Although there are achievements of which we can be proud (all children are in school until age 14 with  many  of  them  having  had  the  chance  to  benefit  from  early  childhood education),  we  cannot  be  complacent,  as  the  poor  competency  levels  have shown.  This  is  of  serious  concern  for  several  reasons,  two  of  which  are especially important:
 
-i) Many children are entering the job market not only without certificates, but without basic knowledge and skills. In other words, they are at risk of being functionally illiterate. This will be a tremendous constraint in their struggle to find employment or to become self-employed in the informal or formal sectors. Student learning needs to be radically improved; otherwise, the education system is at risk of creating unemployable youngsters. This is particularly worrying in the light of the actual employment situation. The unemployment rate in our country, although it has decreased significantly in the previous decade, stood in 1999 at an uncomfortably high 14%. In the wake of Hurricane Ivan in September 2004 and Hurricane Emily in 2005, the unemployment rate had risen to 18.8 %. Employment opportunities in the public sector will decrease in future because of the Government's intentions to put a freeze on hiring in the public sector and to privatize state-owned entities.
-
-ii) In forthcoming years a growing number of primary school children will enter secondary school. If matters continue as at present, many will be below the minimum standard expected of a secondary student. In 2005, the percentage of students failing to meet the minimum acceptable performance standard in the Grade 4 Minimum Competence Test (MCT) was 30% in both Mathematics and English. In the CEE examinations the acceptable performance standard was at 40%. As a result, secondary teachers have to handle very diverse groups of students, demanding robust pedagogical skills. Many of the present secondary school teachers, about 65%, have never had an opportunity to participate in consistent pedagogical training. There is a serious risk that the universalisation of secondary education
+- i) Many children are entering the job market not only without certificates, but without basic knowledge and skills. In other words, they are at risk of being functionally illiterate. This will be a tremendous constraint in their struggle to find employment or to become self-employed in the informal or formal sectors. Student learning needs to be radically improved; otherwise, the education system is at risk of creating unemployable youngsters. This is particularly worrying in the light of the actual employment situation. The unemployment rate in our country, although it has decreased significantly in the previous decade, stood in 1999 at an uncomfortably high 14%. In the wake of Hurricane Ivan in September 2004 and Hurricane Emily in 2005, the unemployment rate had risen to 18.8 %. Employment opportunities in the public sector will decrease in future because of the Government's intentions to put a freeze on hiring in the public sector and to privatize state-owned entities.
 
 Box 9
 There is a serious risk that the universalisation of secondary education will have little impact on the overall development of our human resources, if no serious effort is made to improve the quality of teaching and learning.
+
+- ii) In forthcoming years a growing number of primary school children will enter secondary school. If matters continue as at present, many will be below the minimum standard expected of a secondary student. In 2005, the percentage of students failing to meet the minimum acceptable performance standard in the Grade 4 Minimum Competence Test (MCT) was 30% in both Mathematics and English. In the CEE examinations the acceptable performance standard was at 40%. As a result, secondary teachers have to handle very diverse groups of students, demanding robust pedagogical skills. Many of the present secondary school teachers, about 65%, have never had an opportunity to participate in consistent pedagogical training. There is a serious risk that the universalisation of secondary education
 
 19
 
@@ -829,13 +764,13 @@ The structure  of  the  economy  is  changing,  with  the  rapid  growth  of  th
 
 The content of education should be flexible and be able to adapt to the needs of the  society.  Grenada's  recent  economic  development  has  highlighted  where economic growth is occurring at present and what is expected to be the future pattern. These changes in the structure of the economy have two fundamental implications for educational policy:
 
-i) Formal education should become more diversified, especially at post-primary level. The MTESP proposes that there should be emphasis on national training needs (Box 10). In addition, science-related, technical and vocational subjects will continue to be promoted within secondary schools. Specific attention will be given to information technology and computer studies. The MTESP advises that these programmes should reach the out-of-school population through community centres.
+- i) Formal education should become more diversified, especially at post-primary level. The MTESP proposes that there should be emphasis on national training needs (Box 10). In addition, science-related, technical and vocational subjects will continue to be promoted within secondary schools. Specific attention will be given to information technology and computer studies. The MTESP advises that these programmes should reach the out-of-school population through community centres.
 
 Box 10
 Increased opportunities for skills training will be provided, based on clearly defined national training needs. The aim is to create a cadre of skilled and semi-skilled professionals able to contribute to national development.
 MTESP, p 28
 
-ii) The education system will need to focus more on the development of skills and attitudes. The MTESP argues, p 34, that:
+- ii) The  education  system  will  need  to  focus  more  on  the  development  of skills and attitudes. The MTESP argues, p 34, that:
 
 "The new liberalized global economic order demands enhanced competitiveness in exports, investment promotion and marketing. … It is imperative that the private sector seizes the emerging opportunities of the new global environment. Unfortunately, Grenada's private sector
 
@@ -859,8 +794,7 @@ The third area of focus of education policy, therefore, is the development of re
 
 Concentration  on  the  three  above-mentioned  delivery  systems,  better  access, higher quality and greater relevance, creates a knock-on demand for reforms in  three  areas  that  relate  to  strategic  policy-making:  partnership  and  cooperation with stakeholders, the management and administration of the system and its financing. These are developed in sections 2.3.4, 2.3.5 and 2.3.6 below.
 
-#### 2.3.4 Education is a partnership
-between a large number of stakeholders: education officials, school principals, teachers, students, parents on one hand and civil society, the churches, the business community and overseas partners on the other. It is the conviction of the Ministry of Education that these partners should be involved in the formulation and implementation of educational policies. This complies within the government's global concern for good governance through participatory government (Box 11). The re-establishment of parish and village councils will be one strategy to ensure broad participation in public policies. Both SPEED and SPEED II themselves have been produced following a wide consultation process, with Ministry officers going to all the parishes, meeting with teachers, students and parents as well as consulting overseas partners. It is the Ministry's belief that building up partnerships through consultation in the policy-making process will enhance participation, while allowing all members of society to make their voice better heard. The strategic plan therefore aims to enhance clear principles and structures of co-operation in order to establish and/or strengthen relationships with partners and stakeholders and to gain commitment from society at large.
+#### 2.3.4 Education is a partnership between a large number of stakeholders: education officials, school principals, teachers, students, parents on one hand and civil society, the churches, the business community and overseas partners on the other. It is the conviction of the Ministry of Education that these partners should be involved in the formulation and implementation of educational policies. This complies within the government's global concern for good governance through participatory government (Box 11). The re-establishment of parish and village councils will be one strategy to ensure broad participation in public policies. Both SPEED and SPEED II themselves have been produced following a wide consultation process, with Ministry officers going to all the parishes, meeting with teachers, students and parents as well as consulting overseas partners. It is the Ministry's belief that building up partnerships through consultation in the policy-making process will enhance participation, while allowing all members of society to make their voice better heard. The strategic plan therefore aims to enhance clear principles and structures of co-operation in order to establish and/or strengthen relationships with partners and stakeholders and to gain commitment from society at large.
 
 Box 11
 It is GoG intention to be an inclusive government, ready and willing to work with all citizens …
@@ -881,7 +815,7 @@ Strategic Plan for Educational Enhancement and Development 2006 -2015
 
 management of the MoE 3 identified the need for a series of reforms, aimed at improving the effectiveness and efficiency of management in the Ministry and in schools.  The recommendations include a number of structural changes, in particular  to  strengthen  co-ordination  and  eliminate  overlaps,  for  instance  in the areas of procurement of goods and services which has been addressed. A more  effective  education  management  and  information  system  (EMIS)  is required in order to monitor and evaluate sector performance, particularly in pedagogical  areas.  More  important,  however,  there  is  a  need  for  a  cultural transformation within the Ministry, to change from a traditional command and control maintenance administration to a pro-active institution, characterized by strategic  management  and  guided  by  a  corporate  plan  that  reflects  priorities and concerns. In addition to the latter being achieved, there has been the recent adoption of a revised system of supervision and support with the development of District Supervision Teams involving representatives of the major stakeholder groups embracing  responsibility for support for educational districts  and  working  together  to  develop  the  quality  of  education  in  each school of the respective districts.  Corresponding changes should take place in schools.  They  are  now  being  asked  to  take  on  responsibility  for  their  own improvement and performance monitoring. Each school's actions will in future be  guided  by  an  internally-developed  school  improvement  or  development plan.
 
-These concerns with developing effective educational administration systems comply with the Government's avowed aims of improving the quality of the public service and modernizing state machinery. In particular, in a small nation state such as Grenada, where direct contacts between the MoE and schools are plentiful, it is fundamental that the Ministry becomes an efficient organization, clearly focused on its core objectives and supportive to the schools. In terms of school management, the MoE has conducted training in the area of self-assessment and there have been increased communication between MoE and principals. The focus should now be on providing more comprehensive training in school management as well as to monitor the effective application of initiatives already completed. This will require a reform of the present administration and management, at the levels of the Ministry and the school .
+These concerns with developing effective educational administration systems comply with the Government's avowed aims of improving the quality of the public service and modernizing state machinery. In particular, in a small nation state such as Grenada, where direct contacts between the MoE and schools are plentiful, it is fundamental that the Ministry becomes an efficient organization, clearly focused on its core objectives and supportive to the schools. In terms of school management, the MoE has conducted training in the area of self-assessment and there have been increased communication between MoE and principals. The focus should now be on providing more comprehensive training in school management as well as to monitor the effective application of initiatives already completed. This will require a reform of the present administration and management, at the levels of the Ministry and the school.
 
 #### 2.4.6 Effective financing of education is a necessity if the implementation of the SPEED  II  is to be successful.
 Although education is a principal responsibility for public authorities and is a government priority, several local non-governmental and international partners have made significant contributions  and  will  continue  to  do  so  in  the  medium  term.  The  final  but underpinning  area  of  focus  for  the  strategic  plan,  therefore,  is to  ensure consistent  government  financing  of  education, supported  by  funding  from development partners, to  diversify  the  funding  sources and to make certain that resources are used efficiently .
@@ -894,11 +828,9 @@ Although education is a principal responsibility for public authorities and is a
 
 [[START OF PAGE 24]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
-
-II
 
 ### 2.5 Strategic education imperatives and foci informing the development of the sector
 
@@ -906,23 +838,23 @@ SPEED  II  has  as  a  central  focus,  eight  (8)  major  education  developmen
 
 These eight strategic foci are:
 
-1. A system of mutual accountability;
+- A system of mutual accountability;
 
-2. A culture of learning;
+- A culture of learning;
 
-3. The promotion of teacher professionalism and development;
+- The promotion of teacher professionalism and development;
 
-4. The development of effective school and system management services;
+- The development of effective school and system management services;
 
-5. The centrality of the application of Information and Communication (ICT);
+- The  centrality  of  the  application  of  Information  and  Communication (ICT);
 
-6. The attainment of increased access to quality secondary and tertiary education opportunities;
+- The  attainment  of  increased  access  to  quality  secondary  and  tertiary education opportunities;
 
-7. The achievement of literacy and numeracy standards in primary education by all students;
+- The  achievement  of  literacy  and  numeracy  standards  in  primary education by all students;
 
-8. Pursuing and promoting prevention rather than intervention and remediation.
+- Pursuing and promoting prevention rather than intervention and remediation.
 
-The  eight  strategic  focus  areas  for  the  education  sector  in  Grenada  are addressed  in  the  strategies  and  the  activities  under  each  of  the  strategic framework objectives.  These are macro-values to stimulate the planning and operationalizing of the various activities, ensuring that the system is driven by a core of issues that are critical for its development and success.  These foci were adopted by the stakeholder representatives providing feedback on SPEED 11 and represent the collective engagement of the general society in terms of a subset  of  imperatives  that  are  considered  important  at  this  time.    These  are shown diagrammatically below:
+The eight strategic focus areas for the education sector in Grenada are addressed in the strategies and the activities under each of the strategic framework objectives. These are macro-values to stimulate the planning and operationalizing of the various activities, ensuring that the system is driven by a core of issues that are critical for its development and success. These foci were adopted by the stakeholder representatives providing feedback on SPEED II and represent the collective engagement of the general society in terms of a subset of imperatives that are considered important at this time. These are shown diagrammatically below:
 
 23
 
@@ -930,11 +862,9 @@ The  eight  strategic  focus  areas  for  the  education  sector  in  Grenada  a
 
 [[START OF PAGE 25]]
 
-SPEED
+SPEED II
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
-
-II
 
 The Promotion
 
@@ -1124,7 +1054,7 @@ actual performance for each student although the system would have a basic  perf
 
 - Epitomize the learning to know, do, be and live together pillars at each level of educational opportunity.
 
-- The government,  businesses,  organizations  and  civil  society  are responsible  for  the  outcomes  standards .    Every  student  or  person involved in lifelong learning should be provided with the opportunities, conditions and support to apply their expertise to make a meaningful and ongoing contribution to their development and that of the society. The  dearth  of  opportunities  for  employment  and  engagement  in  the wide  range  of  civil  society's  organizations  and  cultures  makes  the prospect of learning and the importance of education less valuable in the  eyes  of  those  who  are  required  to  participate.    Many  graduates lament the lack of opportunities to put to effective use the multiplicity of  competencies  which  they  have  developed  through  formal,  non-formal  and  even  informal  learning.    In  some  cases  the  employment opportunities are not based on the minimum  acceptable labour standards reflecting the dignity of the work and the worker.  Attitudes of treating with contempt those with increased learning competencies because  of  fear  that  they  would  be  more  amenable  to  change  and development,  leads  to  discrimination  with  the  agency  not  benefiting from the optimization of its collective human  resources. The improvement in outcomes standards relate to aspects such as:
+- The government, businesses, organizations and civil society are responsible for the outcomes standards . Every student or person involved in lifelong learning should be provided with the opportunities, conditions and support to apply their expertise to make a meaningful and ongoing contribution to their development and that of the society. The dearth of opportunities for employment and engagement in the wide range of civil society's organizations and cultures makes the prospect of learning and the importance of education less valuable in the eyes of those who are required to participate. Many graduates lament the lack of opportunities to put to effective use the multiplicity of competencies which they have developed through formal, non-formal and even informal learning. In some cases the employment opportunities are not based on the minimum acceptable labour standards reflecting the dignity of the work and the worker. Attitudes of treating with contempt those with increased learning competencies because of fear that they would be more amenable to change and development, leads to discrimination with the agency not benefiting from the optimization of its collective human resources. The improvement in outcomes standards relate to aspects such as:
 
 - Ensuring  that  graduates  have  a  relatively  short  time  between completion of studies and recruitment as a worker;
 
@@ -1132,7 +1062,7 @@ actual performance for each student although the system would have a basic  perf
 
 - Providing  the  best  employment  conditions  that  promote  the dignity of the employee especially appropriate remuneration for job performance;
 
-- Developing  in  every  sector,  agency  or  institution  a  multi-layered career path for mobility and employment opportunity;
+- Developing in every sector, agency or institution a multi-layered career path for mobility and employment opportunity;
 
 27
 
@@ -1200,7 +1130,7 @@ A diagram of the  interrelatedness  of  the  pillars  of  learning  and  example
 
 Learning to Be - so as better to develop one's personality and be able to act with even greater autonomy, judgement and personal responsibility. In that connection education must not disregard any aspect of a person's potential: memory, reasoning, aesthetic sense, physical capabilities and communications skills
 
-Learning to Know - by combining a sufficiently broad general knowledge with the opportunity to work in depth on a small number of subjects. This also means learning to learn so as to benefit from the opportunities education provides throughout life.
+Learning to Know - by combining a sufficiently broad general knowledge with the opportunity to work in depth on a small number of subjects. This also means learning to learn so as to benefit from the opportunities education provides throughout life
 
 Self esteem
 Critical thinking/independent judgement
@@ -1264,7 +1194,7 @@ These  realities  require  a  reconfiguration  and  reengineering  of  the  teac
 
 -Reforming in-service teacher education programmes for greater efficiency, relevance and effectiveness;
 
--Focusing  more  on  the  external  efficiency  of  teacher  education  – ensuring  that  trained  teachers  apply  best  practices  in  the  classroom upon completion of teacher education programmes.
+-Focusing more on the external efficiency of teacher education – ensuring that trained teachers apply best practices in the classroom upon completion of teacher education programmes.
 
 31
 
@@ -1280,7 +1210,7 @@ II
 
 #### 4.  The development of effective school and system management services.
 
-Traditional management culture in schools and in the education system at large leverages  control  and  command  type  approaches  and  practices  to  school improvement,  supervision  and  human  resource  management.    SPEED  II evinces a service and support approach to managing and providing supervision to schools. This  requires  a  transformation  of  the  supervision  policies, procedures,  structures  and  practices  related  to  supervision  and  educational management.  The new paradigm promotes the following:
+Traditional management culture in schools and in the education system at large leverages  control  and  command  type  approaches  and  practices  to  school improvement,  supervision  and  human  resource  management.    SPEED  11 evinces a service and support approach to managing and providing supervision to schools. This  requires  a  transformation  of  the  supervision  policies, procedures,  structures  and  practices  related  to  supervision  and  educational management.  The new paradigm promotes the following:
 
 -The effective functioning of the District supervision teams;
 
@@ -1364,7 +1294,7 @@ II
 
 #### 7.  The achievement of literacy and numeracy standards in primary education by all students.
 
-Critical to the attainment  of  the pillars of  learning  is  the  concomitant attainment of reading standards by all students in primary education.  SPEED II would seek to ensure that all students will be able to read at or above Grade level  by  the  end  of  Grade  3.      Those  who  may  not  realize  the  goal  will  be provide with targeted, quality remedial instruction in their classrooms so that by  the  end  of  primary,  they  would  meet  the  minimum  reading  standards  for primary  (Grade  5).    For  Mathematics,  all  students  will  attain  the  minimum learning outcomes also at the end of Grade 3 with quality remedial instruction for those who need additional support beyond that grade level.  The following measures will be implemented:
+Critical to the attainment  of  the pillars of  learning  is  the  concomitant attainment of reading standards by all students in primary education.  SPEED 11 would seek to ensure that all students will be able to read at or above Grade level  by  the  end  of  Grade  3.      Those  who  may  not  realize  the  goal  will  be provide with targeted, quality remedial instruction in their classrooms so that by  the  end  of  primary,  they  would  meet  the  minimum  reading  standards  for primary  (Grade  5).    For  Mathematics,  all  students  will  attain  the  minimum learning outcomes also at the end of Grade 3 with quality remedial instruction for those who need additional support beyond that grade level.  The following measures will be implemented:
 
 -The  implementation  of  a  comprehensive  Reading  and  Mathematics programmes  for  all  primary  schools  using  the  Caribbean  (CETT) model. This model  focuses  on  teacher  training, diagnostic  and performance  measurement,  the  provision  of  materials,  use  of  action research  and  application  of  ICT  to  support  all  the  other  elements, classroom transformation and the development of school-based professional development structures such as the Literacy Faculties;
 
@@ -1422,7 +1352,7 @@ Strategic Plan for Educational Enhancement and Development 2006 -2015
 
 II
 
-### 2.6 A framework for adopting the strategic objectives and actions of SPEED II
+### 2.6 A framework for adopting the strategic objectives and actions of SPEED 11
 
 The strategic framework below with the strategies and actions defined has, at the cursory level, met a standard of adoption to ensure effective implementation of the strategies in SPEED II.  All strategies and related action plans must meet the following criteria:
 
@@ -1452,7 +1382,7 @@ II
 
 ## 3.  Objectives of the Strategic Plan
 
-The overarching purpose of SPEED II is to develop a learning society through effective enhancement of Grenada's human resource. This will be achieved by ensuring  that  all  children  participate  meaningfully  and  successfully  in  the education process and that those young people and adults who have hitherto been  excluded  receive  other  opportunities  to  develop  themselves  consistent with the ideals of human dignity, human endeavor and achievement. Therefore, the  strategic  plan  is  designed  to  ensure  that  all  learners  gain  the  necessary knowledge, master the necessary skills and acquire the necessary attitudes for them to become responsible members of civil society. This is in line with the Government's commitment to turn the first decade of the 21st century into the knowledge enhancement decade.
+The overarching purpose of SPEED II is to develop a learning society through effective enhancement of Grenada's human resource. This will be achieved by ensuring  that  all  children  participate  meaningfully  and  successfully  in  the education process and that those young people and adults who have hitherto been  excluded  receive  other  opportunities  to  develop  themselves  consistent with the ideals of human dignity, human endeavor and achievement. Therefore, the  strategic  plan  is  designed  to  ensure  that  all  learners  gain  the  necessary knowledge, master the necessary skills and acquire the necessary attitudes for them to become responsible members of civil society. This is in line with the Government's commitment to turn the first decade of the 21 st century into the knowledge enhancement decade.
 
 In order to accomplish this overall objective, SPEED II has identified six key areas, expressed as broad objectives below. SPEED II aims to:
 
@@ -1492,7 +1422,7 @@ The Ministry and schools will make the most efficient use of scarce resources wi
 
 A recognition that there may need to be a new inclusive framework for financing education, one that embraces medium term financial development planning within a set of agreed costed minimum national standards.
 
-SPEED II is a comprehensive framework which has been designed, in terms of  education,  to  meet  the  various  commitments  and  obligations  to  which  the Government of Grenada is  a  signatory  and  has  adopted  as  a  member  of  the regional and international community.  These various compacts are directly or indirectly related to education and include:
+SPEED 11 is a comprehensive framework which has been designed, in terms of  education,  to  meet  the  various  commitments  and  obligations  to  which  the Government of Grenada is  a  signatory  and  has  adopted  as  a  member  of  the regional and international community.  These various compacts are directly or indirectly related to education and include:
 
 -The Conventions on the Rights of the Child (CRC);
 
@@ -1619,7 +1549,7 @@ c) Provide alternative and rehabilitative accommodation with restorative program
 d) Ensure specialized support and intervention for students affected by substance abuse | Programme fully operational by 2010 | Medium
 e) Establish an effective coordinated Student Support System for student welfare with components related to truancy, health-promoting and agricultural-linked school feeding for all needy students from pre-school to secondary levels and textbook provision. | Multi-sectoral Student Services and Support Unit in place by 2009 Improved student support services by 2009 | High
 f) Provide access to educational opportunities and support services for children infected and affected by HIV/AIDS | Students accessing education and needs met | High
-g) Institute Early Identification and Diagnostic Screening programmes in mainstream schools to allow for the assessment of learning needs of children and routing into appropriate learning-support environments within mainstream schools or elsewhere. | Special Education Unit established at MoE by 2008with fully trained staff by 2010 | Medium
+g) Institute Early Identification and Diagnostic Screening programmes in mainstream schools to allow for the assessment of learning needs of children and routing into appropriate learning-support environments within mainstream schools or elsewhere. | Special Education Unit established at MoE by 2008 with fully trained staff by 2010 | Medium
 h) Ensure the provision of transportation services for students in severely affected areas | Bussing system in place for difficult areas by 2009 | High
 i) Establish/upgrade, in co-operation with other stakeholders, TVET centres as appropriate to provide specialized training for out-of-school youth, employed and unemployed persons desiring specialized training for entrepreneurial or employment purposes | TVET opportunities available in parishes by 2012 | High
 j) Develop a public awareness strategy to provide information on the range of programmes available, their value and utility for Human Resource Development. | Information, Education & Communication (IEC) programme in place by 2008 | Medium
@@ -1678,6 +1608,8 @@ Make the various resources available to the system more effective (including tea
 SPEED
 
 Strategic Plan for Educational Enhancement and Development 2006 -2015
+
+II
 
 #### Core strategic objectives:
 
@@ -1903,7 +1835,7 @@ II
 
 Sub Strategic Objectives (4.3.4) | Indicative Target | Priority Rating
 --- | --- | --- | ---
-| | | high
+ |  |  | high
 b) | Establish a National Accreditation Board. | By 2008 | On-going high
 c) | Develop and maintain a Labour Market Information System including annually updated employment needs and a database of graduates. | Database established as part of LMIS by 2009 | Medium
 
@@ -2469,7 +2401,7 @@ Objectives Critical Assumption | Key Performance Indicators | Monitoring and Eva
 Indicative Budget/Costs (EC$) | Process/Activities | Outputs | Outcomes/Impact | Verification
 CA: Stakeholders interests are integrated in educational development processes
 ##### 5 ADMINISTRATION AND MANAGEMENT
-Improve the efficiency and effectiveness of management and administration at the Ministry and school levels | 25,000 20,000 400,000 40 000 | Enforce the revised Education Act 2005 and enact appropriate education regulations Revise Education Policy Documents Provide systematic feedback to stakeholders on the development of education Establish an extensive monitoring mechanisms (EMIS) and accountability measures for management at the ministry and school level Conduct organizational analysis towards greater efficiency and effectiveness of Ministry's | Improved regulatory framework and greater accountability within the system More informed and inclusive decision-making processes More informed stakeholders Operational EMIS Better interface within the education system Organizational audit completed and recommendations | Improvement in the efficiency and effectiveness of management in the system Increased sense of accountability and partnership Improved institutional capacity and productivity | Transparent policies in the public domain Mechanisms for decision making Bi-annual Minister's report EMIS and annual indicators MOE corporate plan
+Improve the efficiency and effectiveness of management and administration at the Ministry and school levels | 25,000 20,000 400,000 40 000 | Enforce the revised Education Act 2005 and enact appropriate education regulations Revise Education Policy Documents Provide systematic feedback to stakeholders on the development of education Establish an extensive monitoring mechanisms (EMIS) and accountability measures for management at the ministry and school level Conduct organizational analysis towards greater efficiency and effectiveness of Ministry's | Improved regulatory framework and greater accountability within the system More informed and inclusive decision- making processes More informed stakeholder s Operational EMIS Better interface within the education system Organizational audit completed and recommendations | Improvement in the efficiency and effectiveness of management in the system Increased sense of accountability and partnership Improved institutional capacity and productivity | Transparent policies in the public domain Mechanisms for decision making Bi-annual Minister's report EMIS and annual indicators MOE corporate plan
 
 54
 
@@ -2559,7 +2491,7 @@ II
 
 The multidimensional nature of SPEED II requires a multipartite approach to management  and  implementation.  This  is not only consistent with the widespread  consultation  in  drafting  and  finalizing  the  SPEED  II,  but  it  also ensures that there is collective action and responsibility in the realization of the plan's  goals.  As  such,  therefore,  many  ministries  and  departments  as  well  as governmental  and  non-governmental  organizations  will  become  partners  in implementing  SPEED  II.  This  will  require  considerable  co-ordination  and  a widespread commitment on all parts.  Further, it will be necessary to review progress on a regular basis to determine how the plan is being implemented, to check  whether  targets  are  in  focus  and  to  obtain  corrective  feedback,  if necessary. This section delineates an approach for conducting this implementation, an approach that will allow for a meaningful modification of the plan at any time.
 
-Firstly, a steering committee, the Education Sector Development Committee (ESDC), chaired by the CEO,10 with the planning unit serving as the secretariat will be established to oversee the plan. Members will be drawn from each of the sub-sectors involved in the plan and normally will include representatives from the following:
+Firstly,  a  steering  committee,  the Education  Sector  Development  Committee (ESDC), chaired by the CEO, 10 with the planning unit serving as the secretariat will be established to oversee the plan. Members will be drawn from each of the sub-sectors involved in the plan and normally will include representatives from the following:
 
 - Grenada Union of Teachers,
 
@@ -2579,7 +2511,7 @@ Firstly, a steering committee, the Education Sector Development Committee (ESDC)
 
 - UWI School of Continuing Studies,
 
-- Ministries of Education, Agriculture, Health and the Environment, Housing, Gender and Family Affairs and Social Security and Finance,
+- Ministries  of  Education,  Agriculture,  Health  and  the  Environment, Housing, Gender and Family Affairs and Social Security and Finance,
 
 - Development partners, including external funding agencies
 
@@ -2644,6 +2576,7 @@ Setting policy, establishing standards, monitoring
 Representatives of civil Society, PTA, etc., chaired by PS
 
 Education Advisory Board
+
 EAB
 
 Civil society monitoring
@@ -2651,6 +2584,7 @@ Civil society monitoring
 Senior technical and planning personnel from MoE, MoF, MoW, etc., T A M C C, DPs, NGOs, CBOs chaired by CEO
 
 Education Sector Development Committee
+
 ESDC
 
 Engine room of SPEED implementation
@@ -2662,26 +2596,29 @@ management side
 Technical officers from MoE, Schools, Curr Dev, Exams, Donors, NGOs, CBOs, chaired by relevant senior officers of MoE
 
 Working group 1
+
 Access
 
 Working group 4
+
 Partnership
 
-The
-work
-houses
-
 Working Group 2
+
 Quality
 
 Working group 5
+
 Management
 
+The work houses
+
 Working group 3
-World of work,
-citizenship and life
+
+World of work, citizenship and life
 
 Working group 6
+
 Finance
 
 52
@@ -2718,7 +2655,7 @@ d) The need to provide feedback to all stakeholders
 
 An indicator system assists in providing clear and unambiguous feedback to stakeholders through periodic timely reporting procedures.
 
-A proposed set of indicators for monitoring SPEED II is given on pages 54 to 56 below. These indicators have been developed from OECS proposals for Core Education Indicators (July 2000) and are grouped roughly under the six areas of focus11. The list will be adjusted as the SPEED develops. Quantitative baseline data from 2000, where available and appropriate, will be used as a datum from which to measure progress (see pages 57 to 62). Qualitative data will be obtained from current documentation, whatever their date of origin.
+A proposed set of indicators for monitoring SPEED II is given on pages 54 to 56  below.  These  indicators  have  been  developed  from  OECS  proposals  for Core Education Indicators (July 2000) and are grouped roughly under the six areas of focus 11 . The list will be adjusted as the SPEED develops. Quantitative baseline  data  from  2000,  where  available  and  appropriate,  will  be  used  as  a datum from which to measure progress (see pages 57 to 62). Qualitative data will be obtained from current documentation, whatever their date of origin.
 
 53
 
@@ -2809,7 +2746,7 @@ Focus Area | Indicator | Baseline 2000
 Accountability mechanisms built into the organizational structure of the MoE, its institutions and programs.
 Frequency and nature of staff performance appraisals at MoE, district and school levels.
 Percentage of schools with implemented School Improvement Plans
-Extent to which performance information is used for decision-making at MoE, district and school levels.
+Extent to which performance information is used for decision- making at MoE, district and school levels.
 Average number of students per computer for teaching/learning activities.
 Net student-teacher ratio.
 Teacher attitudes and motivation.
@@ -2847,22 +2784,22 @@ No | Indicator | Baseline 2000 | Target 2003 | Target 2007 | Target 2010
 3 | Secondary NER | 80% | | | 95%
 4 | Tertiary NER | 19% | | | 45%
 5 | Transition rate to secondary | 55% (?) | | | 100%
-6 | Vocational Institutions (enrolment) | | | |
-7 | Proportion of students accessing TVET programmmes | | | | 24
- | Secondary | | | |
- | Tertiary | | | |
- | Non-formal | | | |
+6 | Vocational Institutions (enrolment) | | | | 24
+7 | Proportion of students accessing TVET programmmes | | | |
+| Secondary | | | |
+| Tertiary | | | |
+| Non-formal | | | |
 8 | Proportion of pop. accessing Special Education programmes | | | |
- | Mainstream schools | | | |
+| Mainstream schools | | | |
 9 | TAMCC enrolment (% male) | | | |
 10 | Other tertiary | | | |
- | UWI Continuing Education | | | |
- | St Georges' University | | | |
+| UWI Continuing Education | | | |
+| St Georges' University | | | |
 11 | Percentage male in secondary schools | | | |
 12 | Percentage male in tertiary institutions | (43%) | | |
 13 | Gross Enrolment ratio (secondary) in the best and least served parishes | | | |
- | best | | | | 50%
- | least | | | | 50%
+| best | | | | 50%
+| least | | | | 50%
 14 | Truancy Rate (primary + Secondary) | 3% | | | 0.5%
 15 | % of Primary schools meeting minimum physical/health standards | | | |
 16 | % of secondary schools meeting physical/health minimum standards | | | |
@@ -2885,49 +2822,49 @@ No | Indicator | Baseline 2000 | Target 2003 | Target 2007 | Target 2010
 --- | --- | --- | --- | --- | ---
 ##### 2 Quality of Education
 1 | % teachers qualified (Pre-school) | | | | 100%
- | % Principal trained (Pre-school) | | | | 100%
+| % Principal trained (Pre-school) | | | | 100%
 2 | % teachers qualified (Primary) | 80% | | | 100%
- | % Principal trained (Primary) | 10% | | | 100%
+| % Principal trained (Primary) | 10% | | | 100%
 3 | % teachers qualified (Secondary) | 35% | | | 100%
- | % qualified graduate (Secondary) | 15% | | | 50%
- | % principals trained (Secondary) | 15% | | | 100%
+| % qualified graduate (Secondary) | 15% | | | 50%
+| % principals trained (Secondary) | 15% | | | 100%
 4 | Proportion of secondary teachers capable of delivering IT up to Form IV | 5% | | |
 5 | Proportion of students accessing Foreign Languages | | | |
- | Primary | 4% | | |
- | Secondary | 40% | | |
- | CEE Awards | | | | 100%
+| Primary | 4% | | |
+| Secondary | 40% | | |
+| CEE Awards | | | | 100%
 6 | % CEE Awards to boys | | | | 50%
 7 | CXC results | | | |
- | % pass | 70%? | | | 90%
- | Subjects per student | | | | 4
- | % with 4 passes incl. English | 37% | | | 70%
- | % with 4 passes incl. English & Math | 41% | | |
-8 | CAPE (% pass in at least 2 subjects) | 63% | | | 70%
-9 | Minimum Competency Tests | | | |
- | Grade 2 Language Arts | 3.4 | | | 90%
- | Grade 2 Mathematics | 42% | | | 90%
- | Grade 4 Language Arts (1999) | | | | 90%
- | Grade 4 Mathematics (1999) | 55% | | | 90%
- | Form 3 Language Arts | | | | 90%
- | Form 3 Mathematics | n/a | | | 90%
+| % pass | 70%? | | | 90%
+| Subjects per student | | | | 4
+| % with 4 passes incl. English | 37% | | | 70%
+| % with 4 passes incl. English & Math | 41% | | |
+8 | CAPE (% pass in at least 2 subjects) | | | | 70%
+9 | Minimum Competency Tests | 63% | | |
+| Grade 2 Language Arts | 3.4 | | | 90%
+| Grade 2 Mathematics | 42% | | | 90%
+| Grade 4 Language Arts (1999) | | | | 90%
+| Grade 4 Mathematics (1999) | 55% | | | 90%
+| Form 3 Language Arts | | | | 90%
+| Form 3 Mathematics | n/a | | | 90%
 10 | Proportion of population with first degrees | n/a | | | 10%
 11 | Class size (Lower secondary) | 42 | | | 35
 12 | Average square feet of school area by student (Secondary) | | | |
 13 | Repetition | | | |
- | Primary | 10% | | | 5%
- | Secondary | 15% | | | 6%
+| Primary | 10% | | | 5%
+| Secondary | 15% | | | 6%
 14 | Drop Out (primary) | | | |
- | Primary | 2% | | | < 1%
- | Secondary | 6% | | | < 1%
+| Primary | 2% | | | < 1%
+| Secondary | 6% | | | < 1%
 15 | Pupil Teacher Ratio | | | |
- | Primary | 22:1 | | | 30:1
+| Primary | 22:1 | | | 30:1
 16 | Pupil/class Ratio Secondary | 40:1 | | | 35:1
 17 | No. of computers per student (Average) | | | |
 18 | Utilization rate of textbooks | | | |
 19 | Average number and availability of textbooks by subject per student | | | |
 20 | Number of adequate sets of teaching guides and instructional materials for core subject area | | | |
- | Primary | | | |
- | Secondary | | | |
+| Primary | | | |
+| Secondary | | | |
 
 58
 
@@ -2951,13 +2888,13 @@ No | Indicator | Baseline 2000 | Target 2003 | Target 2007 | Target 2010
 26 | No. of Guidance Counselors per student | | | |
 27 | | | | |
 28 | % of classrooms with functioning libraries | | | | 100%
-29 | Proportion of schools fenced | | | | 100%
-30 | Secondary | | | |
-31 | Utilization rate of textbooks | | | |
- | Average number and availability of textbooks by subject per student | | | |
+29 | Proportion of schools fenced | | | |
+| Secondary | | | | 100%
+30 | Utilization rate of textbooks | | | |
+31 | Average number and availability of textbooks by subject per student | | | |
 32 | Number of adequate sets of teaching guides and instructional materials for core subject area | | | |
- | Primary | | | |
- | Secondary | | | |
+| Primary | | | |
+| Secondary | | | |
 33 | Proportion of instructional time spent on core subjects | | | | 60%
 
 To be completed and revised by Working Group 2.
@@ -2979,9 +2916,9 @@ No | Indicator | Baseline 2000 | Target 2003 | Target 2007 | Target 2010
 ##### 3 World of Work
 1 | Proportion of vocation training in curriculum | 10% | | | 25%
 2 | Employers satisfaction rating with | | | |
- | CXC graduates | 93 % satis | | | 100% gd +
- | TAMCC graduates | 93% gd + | | | 100% gd +
- | university graduates | 80% gd + | | | 100% gd +
+| CXC graduates | 93 % satis | | | 100% gd +
+| TAMCC graduates | 93% gd + | | | 100% gd +
+| university graduates | 80% gd + | | | 100% gd +
 3 | Support to schools from industry and commerce (cash and kind) | | | |
 4 | | | | |
 
@@ -3003,18 +2940,18 @@ No | Indicator | Baseline 2000 | Target 2003 | Target 2007 | Target 2010
 --- | --- | --- | --- | --- | ---
 ##### 4 Co-operation and Partnership
 1 | % of fully functioning PTAs | | | |
- | Schools | 0 | | |
- | Parishes | 0 | | |
+| Schools | 0 | | |
+| Parishes | 0 | | |
 2 | % of fully functioning Student Councils | 0 | | |
 3 | Meetings of EAB | | | | 4 per year
 4 | Signatories to Code of Conduct | | | | all partners
 5 | Signatories to Memo of Understanding | | | | all partners
 6 | Support from partners | | | |
- | to budget (amount) | | | |
- | to projects (amount) | | | |
- | to student loans - GDB | EC$1.8 m | | |
- | to students grants (Cuba) | EC$3.2 m | | |
- | as % of total education expend | 14% | | |
+| to budget (amount) | EC$1.8 m | | |
+| to projects (amount) | EC$3.2 m | | |
+| to student loans - GDB | | | |
+| to students grants (Cuba) | | | |
+| as % of total education expend | 14% | | |
 
 To be completed and revised by Working Group 4.
 
@@ -3034,20 +2971,20 @@ No | Indicator | Baseline 2000 | Target 2003 | Target 2007 | Target 2010
 --- | --- | --- | --- | --- | ---
 ##### 5 Administration and Management
 1 | Schools Improvement Plans implemented | | | |
- | Primary ( %) | | | | 100%
- | Secondary ( %) | | | | 100%
+| Primary ( %) | | | | 100%
+| Secondary ( %) | | | | 100%
 2 | Staff appraisal done consistent with stipulated criteria | | | |
- | schools | | | | 100%
- | parishes | | | | 100%
- | MoE | | | | 100%
+| schools | | | | 100%
+| parishes | | | | 100%
+| MoE | | | | 100%
 3 | School supervision visits/frequency | | | |
 4 | Statistical digest for Year (n-1) published | | | |
 5 | School mapping updated/published | | | |
 6 | No of In-service courses provided | | | |
 7 | No of staff development initiatives (MoE) | | | |
 8 | Annual performance review provided | | | |
- | schools | | | |
- | MoE | | | |
+| schools | | | |
+| MoE | | | |
 9 | % of fully functioning School/Parish Management Boards | | | | 100%
 10 | Proportion of principals using data for school management and development | | | | 100%
 
@@ -3069,16 +3006,16 @@ No | Indicator | Baseline 2000 | Target 2003 | Target 2007 | Target 2010
 --- | --- | --- | --- | --- | ---
 ##### 6 Financial Management
 1 | Education spending | | | |
- | recurrent and capital | EC$60.5m | | |
- | as % of GNP | 7..3% | | | 8.5%
- | from external sources | EC$8.4 m | | |
+| recurrent and capital | EC$60.5m | | |
+| as % of GNP | 7..3% | | | 8.5%
+| from external sources | EC$8.4 m | | |
 2 | Expenditure/student by government | EC$1 291 | | |
- | Non-salary expenditure per pupil by level of education | | | |
+| Non-salary expenditure per pupil by level of education | | | |
 3 | Cost per student in various sub-sectors | | | |
 4 | Income generated by schools | | | |
 5 | Cost to parent of child's education | | | |
- | primary/child | EC$1 825 | | |
- | secondary/child | EC$2 250 | | |
+| primary/child | EC$1 825 | | |
+| secondary/child | EC$2 250 | | |
 
 To be completed and revised  by Working Group 6.
 
