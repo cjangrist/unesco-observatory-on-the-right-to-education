@@ -24,9 +24,52 @@ ComLaw Authoritative Act C2013C00022
 
 [[START OF PAGE 3]]
 
+Disability Discrimination Act 1992 iii
+
 ## Contents
 
-Disability Discrimination Act 1992                    iii
+Part 1—Preliminary 1
+1 Short title [see Note 1].......................................................................1
+2 Commencement [see Note 1].............................................................1
+3 Objects...............................................................................................1
+4 Interpretation .....................................................................................2
+5 Direct disability discrimination .........................................................8
+6 Indirect disability discrimination.......................................................9
+7 Discrimination in relation to associates...........................................10
+8 Discrimination in relation to carers, assistants, assistance
+animals and disability aids...............................................................10
+9 Carer, assistant, assistance animal and disability aid
+definitions........................................................................................11
+10 Act done because of disability and for other reason ........................12
+11 Unjustifiable hardship .....................................................................13
+12 Application of Act ...........................................................................13
+12A Application of the Criminal Code ...................................................15
+13 Operation of State and Territory laws..............................................15
+14 Extent to which Act binds the Crown ..............................................16
+
+Part 2—Prohibition of disability discrimination 17
+Division 1—Discrimination in work 17
+15 Discrimination in employment ........................................................17
+16 Discrimination against commission agents......................................17
+17 Discrimination against contract workers .........................................18
+18 Partnerships.....................................................................................18
+19 Qualifying bodies............................................................................19
+20 Registered organisations under the Fair Work (Registered
+Organisations) Act 2009..................................................................19
+21 Employment agencies......................................................................20
+21A Exception—inherent requirements..................................................20
+21B Exception—unjustifiable hardship ..................................................22
+
+Division 2—Discrimination in other areas 23
+22 Education.........................................................................................23
+23 Access to premises ..........................................................................23
+24 Goods, services and facilities ..........................................................24
+25 Accommodation ..............................................................................24
+26 Land.................................................................................................26
+27 Clubs and incorporated associations................................................26
+28 Sport................................................................................................27
+29 Administration of Commonwealth laws and programs ...................27
+29A Unjustifiable hardship .....................................................................28
 
 ComLaw Authoritative Act C2013C00022
 
@@ -34,221 +77,51 @@ ComLaw Authoritative Act C2013C00022
 
 [[START OF PAGE 4]]
 
-30
-
-Requests for information
-
-Division 2A-Disability standards
-
-31
-
-Disability standards
-
-32
-
-33
-
-34
-
-.................................................................  28
-
-30
-
-.........................................................................  30
-
-Unlawful to contravene disability standards
-
-....................................  30
-
-Division 5 generally not to apply to disability standards
-
-.................  31
-
-This Part not to apply if person acts in accordance with
-
-disability standards
-
-..........................................................................  31
-
-Division 3-Discrimination involving harassment
-
-35
-
-Harassment in employment
-
-37
-
-Harassment in education
-
-32
-
-.............................................................  32
-
-..................................................................  33
-
-39
-
-Harassment in relation to the provision of goods and services
-
-Division 4-Offences
-
-41
-
-Unlawful act not offence unless expressly so provided
-
-42
-
-43
-
-Victimisation
-
-........  33
-
-34
-
-...................  34
-
-...................................................................................  34
-
-Offence to incite doing of unlawful acts or offences
-
-44
-
-Advertisements
-
-.......................  35
-
-................................................................................  35
-
-Division 5-Exemptions
-
-45
-
-Special measures
-
-46
-
-47
-
-48
-
-49
-
-51
-
-52
-
-53
-
-54
-
-54A
-
-55
-
-56
-
-57
-
-36
-
-.............................................................................  36
-
-Superannuation and insurance
-
-.........................................................  37
-
-Acts done under statutory authority
-
-.................................................  38
-
-Infectious diseases
-
-...........................................................................  39
-
-Exemption for charities
-
-...................................................................  39
-
-Pensions and allowances
-
-.................................................................  40
-
-Migration
-
-.........................................................................................  40
-
-Combat duties and peacekeeping services
-
-Peacekeeping services by the AFP
-
-.......................................  40
-
-..................................................  41
-
-Assistance animals
-
-...........................................................................  42
-
-Commission may grant exemptions
-
-.................................................  43
-
-Review by Administrative Appeals Tribunal
-
-...................................  44
-
-Notice of decisions to be published
-
-58
-
-Effect of exemptions
-
-.................................................  44
-
-........................................................................  44
-
-Part 3-Action plans
-
-59
-
-60
-
-61
-
-62
-
-63
-
-64
-
-Scope
-
-45
-
-...............................................................................................  45
-
-Action plans
-
-.....................................................................................  45
-
-Provisions of action plans
-
-................................................................  45
-
-Action plans may have other provisions
-
-..........................................  45
-
-Amendment of action plans
-
-.............................................................  46
-
-Action plans may be given to Commission
-
-.....................................  46
-
-iv            Disability Discrimination Act 1992
+iv Disability Discrimination Act 1992
+
+30 Requests for information .................................................................28
+
+Division 2A—Disability standards 30
+31 Disability standards.........................................................................30
+32 Unlawful to contravene disability standards....................................30
+33 Division 5 generally not to apply to disability standards.................31
+34 This Part not to apply if person acts in accordance with
+disability standards..........................................................................31
+
+Division 3—Discrimination involving harassment 32
+35 Harassment in employment .............................................................32
+37 Harassment in education..................................................................33
+39 Harassment in relation to the provision of goods and services........33
+
+Division 4—Offences 34
+41 Unlawful act not offence unless expressly so provided ...................34
+42 Victimisation ...................................................................................34
+43 Offence to incite doing of unlawful acts or offences.......................35
+44 Advertisements................................................................................35
+
+Division 5—Exemptions 36
+45 Special measures .............................................................................36
+46 Superannuation and insurance .........................................................37
+47 Acts done under statutory authority.................................................38
+48 Infectious diseases...........................................................................39
+49 Exemption for charities ...................................................................39
+51 Pensions and allowances .................................................................40
+52 Migration.........................................................................................40
+53 Combat duties and peacekeeping services.......................................40
+54 Peacekeeping services by the AFP ..................................................41
+54A Assistance animals...........................................................................42
+55 Commission may grant exemptions.................................................43
+56 Review by Administrative Appeals Tribunal...................................44
+57 Notice of decisions to be published .................................................44
+58 Effect of exemptions........................................................................44
+
+Part 3—Action plans 45
+59 Scope ...............................................................................................45
+60 Action plans.....................................................................................45
+61 Provisions of action plans................................................................45
+62 Action plans may have other provisions..........................................45
+63 Amendment of action plans.............................................................46
+64 Action plans may be given to Commission .....................................46
 
 ComLaw Authoritative Act C2013C00022
 
@@ -256,7 +129,41 @@ ComLaw Authoritative Act C2013C00022
 
 [[START OF PAGE 5]]
 
-Disability Discrimination Act 1992                    v
+Disability Discrimination Act 1992 v
+
+Part 4—Functions of the Australian Human Rights
+Commission 47
+Division 1—Preliminary 47
+67 Functions of the Commission ..........................................................47
+
+Part 5—Other offences 49
+107 Failure to provide actuarial data or statistical data...........................49
+
+Part 6—Disability Discrimination Commissioner 50
+113 Disability Discrimination Commissioner ........................................50
+114 Terms and conditions of appointment .............................................50
+115 Remuneration of Commissioner......................................................50
+116 Leave of absence .............................................................................50
+117 Outside employment........................................................................51
+118 Resignation......................................................................................51
+119 Termination of appointment ............................................................51
+120 Acting Commissioner......................................................................51
+
+Part 7—Miscellaneous 53
+121 Delegation .......................................................................................53
+122 Liability of persons involved in unlawful acts.................................53
+123 Conduct by directors, servants and agents.......................................53
+124 Commonwealth taken to be employer .............................................55
+125 Unlawful act not basis of civil action unless expressly so
+provided...........................................................................................55
+126 Protection from civil actions............................................................55
+127 Non-disclosure of private information.............................................56
+128 Information stored otherwise than in written form ..........................58
+129 Commissioner to give information ..................................................58
+131 Courts to ensure just terms ..............................................................58
+132 Regulations......................................................................................58
+
+Notes 61
 
 ComLaw Authoritative Act C2013C00022
 
@@ -342,11 +249,34 @@ Preliminary Part 1
 
 Section 4
 
-(d)  the presence in the body of organisms capable of causing disease or illness; or (e)  the malfunction, malformation or disfigurement of a part of the person's body; or (f)  a disorder or malfunction that results in the person learning differently from a person without the disorder or malfunction; or (g)  a disorder, illness or disease that affects a person's thought results in disturbed behaviour; and includes a disability that: (h)  presently exists; or (i)  previously existed but no longer exists; or (j)  may exist in the future (including because of a genetic predisposition to that disability); or (k)  is imputed to a person. To avoid doubt, a disability that is otherwise covered by this
+(d) the presence in the body of organisms capable of causing disease or illness; or
+(e) the malfunction, malformation or disfigurement of a part of the person’s body; or
+(f) a disorder or malfunction that results in the person learning differently from a person without the disorder or malfunction; or
+(g) a disorder, illness or disease that affects a person’s thought processes, perception of reality, emotions or judgment or that results in disturbed behaviour;
+and includes a disability that:
+(h) presently exists; or
+(i) previously existed but no longer exists; or
+(j) may exist in the future (including because of a genetic predisposition to that disability); or
+(k) is imputed to a person.
 
-(a)  an educational authority; or (b)  an educational institution; or curricula or training courses used by other education providers referred to in paragraph (a) or (b).
+To avoid doubt, a disability that is otherwise covered by this definition includes behaviour that is a symptom or manifestation of the disability.
 
-processes, perception of reality, emotions or judgment or that definition includes behaviour that is a symptom or manifestation of the disability. disability aid has the meaning given by subsection 9(3). disability standards has the meaning given by subsection 31(1). discriminate has the meaning given by sections 5 and 6. Note: Section 7 (associates) and section 8 (carers, assistants, assistance animals and disability aids) extend the concept of discrimination. educational authority means a body or person administering an educational institution. educational institution means a school, college, university or other institution at which education or training is provided. education provider means: (c)  an organisation whose purpose is to develop or accredit
+disability aid has the meaning given by subsection 9(3).
+
+disability standards has the meaning given by subsection 31(1).
+
+discriminate has the meaning given by sections 5 and 6.
+
+Note: Section 7 (associates) and section 8 (carers, assistants, assistance animals and disability aids) extend the concept of discrimination.
+
+educational authority means a body or person administering an educational institution.
+
+educational institution means a school, college, university or other institution at which education or training is provided.
+
+education provider means:
+(a) an educational authority; or
+(b) an educational institution; or
+(c) an organisation whose purpose is to develop or accredit curricula or training courses used by other education providers referred to in paragraph (a) or (b).
 
 Disability Discrimination Act 1992                    5
 
@@ -382,7 +312,7 @@ public authority of the Commonwealth means:
 
 (a)  a body incorporated, whether before or after the commencement of this Act, for a public purpose by a law of the Commonwealth or a law of a Territory, being a body corporate employing staff on its own behalf; or (b)  an authority or body, not being a body corporate, established, whether before or after the commencement of this Act, for a public purpose by, or in accordance with the provisions of, a law of the Commonwealth or a law of a Territory, being an authority or body employing staff on its own behalf; or (c)  an incorporated company over which the Commonwealth, or a body or authority referred to in paragraph (a) or (b), is in a position to exercise control. reasonable adjustment : an adjustment to be made by a person is a reasonable adjustment unless making the adjustment would impose an unjustifiable hardship on the person. registered charity means an entity that is registered under the Australian Charities and Not-for-profits Commission Act 2012 as the type of entity mentioned in column 1 of item 1 of the table in subsection 25-5(5) of that Act. registered organisation means an organisation registered, or an association recognised, under the Fair Work (Registered Organisations) Act 2009 . relative , in relation to a person, means a person who is related to the first-mentioned person by blood, marriage, affinity or adoption. services includes: (a)  services relating to banking, insurance, superannuation and the provision of grants, loans, credit or finance; or (b)  services relating to entertainment, recreation or refreshment; or (c)  services relating to transport or travel; or (d)  services relating to telecommunications; or (e)  services of the kind provided by the members of any
 
-profession or trade; or Part 1
+profession or trade; or
 
 Disability Discrimination Act 1992                    7
 
@@ -392,9 +322,9 @@ ComLaw Authoritative Act C2013C00022
 
 [[START OF PAGE 14]]
 
-Section 5
+Part 1 Preliminary
 
-Preliminary
+Section 5
 
 (f)  services of the kind provided by a government, a government authority or a local government body. State , except in subsections 12(11) and (12), includes the Australian Capital Territory and the Northern Territory. Territory , except in subsection 12(12) or in paragraph (c) of the definition of administrative office in this subsection, does not include the Australian Capital Territory and the Northern Territory. unjustifiable hardship has a meaning affected by section 11. voluntary body means an association or other body (whether incorporated or unincorporated) the activities of which are not engaged in for the purpose of making a profit, but does not include: (a)  a club; or (b)  a body established by a law of the Commonwealth, a State or a Territory; or (c)  an association that provides grants, loans, credit or finance to its members. (2)  For the purposes of this Act, refusing or failing to do an act is taken to be the doing of an act and a reference to an act includes a reference to a refusal or failure to do an act.
 
@@ -418,9 +348,21 @@ disability would be treated in circumstances that are not materially different. 
 
 #### 6  Indirect disability discrimination
 
-(1)  For the purposes of this Act, a person (the discriminator ) discriminates against another person (the aggrieved person ) on the ground of a disability of the aggrieved person if: (a)  the discriminator requires, or proposes to require, the aggrieved person to comply with a requirement or condition; and (b)  because of the disability, the aggrieved person does not or would not comply, or is not able or would not be able to comply, with the requirement or condition; and (c)  the requirement or condition has, or is likely to have, the effect of disadvantaging persons with the disability. (2)  For the purposes of this Act, a person (the discriminator ) also discriminates against another person (the aggrieved person ) on the ground of a disability of the aggrieved person if: (a)  the discriminator requires, or proposes to require, the aggrieved person to comply with a requirement or condition; and (b)  because of the disability, the aggrieved person would comply, or would be able to comply, with the requirement or condition only if the discriminator made reasonable adjustments for the person, but the discriminator does not do so or proposes not to do so; and (c)  the failure to make reasonable adjustments has, or is likely to have, the effect of disadvantaging persons with the disability. (3)  Subsection (1) or (2) does not apply if the requirement or condition is reasonable, having regard to the circumstances of the case. (4)  For the purposes of subsection (3), the burden of proving that the requirement or condition is reasonable, having regard to the circumstances of the case, lies on the person who requires, or Part 1
+(1) For the purposes of this Act, a person (the discriminator) discriminates against another person (the aggrieved person) on the ground of a disability of the aggrieved person if:
+(a) the discriminator requires, or proposes to require, the aggrieved person to comply with a requirement or condition; and
+(b) because of the disability, the aggrieved person does not or would not comply, or is not able or would not be able to comply, with the requirement or condition; and
+(c) the requirement or condition has, or is likely to have, the effect of disadvantaging persons with the disability.
 
-Disability Discrimination Act 1992                    9
+(2) For the purposes of this Act, a person (the discriminator) also discriminates against another person (the aggrieved person) on the ground of a disability of the aggrieved person if:
+(a) the discriminator requires, or proposes to require, the aggrieved person to comply with a requirement or condition; and
+(b) because of the disability, the aggrieved person would comply, or would be able to comply, with the requirement or condition only if the discriminator made reasonable adjustments for the person, but the discriminator does not do so or proposes not to do so; and
+(c) the failure to make reasonable adjustments has, or is likely to have, the effect of disadvantaging persons with the disability.
+
+(3) Subsection (1) or (2) does not apply if the requirement or condition is reasonable, having regard to the circumstances of the case.
+
+(4) For the purposes of subsection (3), the burden of proving that the requirement or condition is reasonable, having regard to the circumstances of the case, lies on the person who requires, or
+
+Disability Discrimination Act 1992 9
 
 ComLaw Authoritative Act C2013C00022
 
@@ -428,7 +370,7 @@ ComLaw Authoritative Act C2013C00022
 
 [[START OF PAGE 16]]
 
-Preliminary
+Part 1 Preliminary
 
 Section 7
 
@@ -595,9 +537,10 @@ Section 15
 
 #### 16  Discrimination against commission agents
 
-(1)  It is unlawful for a principal to discriminate against a person on the ground of the person's disability: (a)  in the arrangements the principal makes for the purpose of determining who should be engaged as a commission agent; or Part 2
+(1) It is unlawful for a principal to discriminate against a person on the ground of the person’s disability:
+(a) in the arrangements the principal makes for the purpose of determining who should be engaged as a commission agent; or
 
-Disability Discrimination Act 1992                    17
+Disability Discrimination Act 1992 17
 
 ComLaw Authoritative Act C2013C00022
 
@@ -645,9 +588,9 @@ It is unlawful for an authority or body that is empowered to confer, renew, exte
 
 #### 20  Registered organisations under the Fair Work (Registered Organisations) Act 2009
 
-(1)  It is unlawful for a registered organisation, the committee of management of a registered organisation or a member of the committee of management of a registered organisation to Part 2
+(1) It is unlawful for a registered organisation, the committee of management of a registered organisation or a member of the committee of management of a registered organisation to
 
-Disability Discrimination Act 1992                    19
+Disability Discrimination Act 1992 19
 
 ComLaw Authoritative Act C2013C00022
 
@@ -655,9 +598,9 @@ ComLaw Authoritative Act C2013C00022
 
 [[START OF PAGE 26]]
 
-Division 1 Discrimination in work
+Part 2 Prohibition of disability discrimination
 
-Prohibition of disability discrimination
+Division 1 Discrimination in work
 
 Section 21
 
@@ -687,7 +630,7 @@ Discrimination in work Division 1
 
 Section 21A
 
-aggrieved person ) on the ground of a disability of the aggrieved person if: (a)  the discrimination relates to particular work (including promotion or transfer to particular work); and (b)  because of the disability, the aggrieved person would be unable to carry out the inherent requirements of the particular work, even if the relevant employer, principal or partnership made reasonable adjustments for the aggrieved person. (2)  For the purposes of paragraph (1)(b), the following factors are to be taken into account in determining whether the aggrieved person would be able to carry out the inherent requirements of the particular work: (a)  the aggrieved person's past training, qualifications and experience relevant to the particular work; (b)  if the aggrieved person already works for the discriminatorthe aggrieved person's performance in working for the discriminator; (c)  any other factor that it is reasonable to take into account. (3)  For the purposes of this section, the aggrieved person works for another person if: (a)  the other person employs the aggrieved person; or (b)  the other person engages the aggrieved person as a commission agent; or (c)  the aggrieved person works for the other person as a contract worker; or (d)  the other person and the aggrieved person are members of a partnership; or (e)  both of the following apply: (i)  the other person is an authority or body that is empowered to confer, renew, extend, revoke or withdraw an authorisation or qualification that is needed for or facilitates the practice of a profession, the carrying on of a trade or the engaging in of an occupation; (ii)  the aggrieved person is a member of that profession, carrying on that trade or engaged in that occupation.
+aggrieved person ) on the ground of a disability of the aggrieved person if: (a)  the discrimination relates to particular work (including promotion or transfer to particular work); and (b)  because of the disability, the aggrieved person would be unable to carry out the inherent requirements of the particular work, even if the relevant employer, principal or partnership made reasonable adjustments for the aggrieved person. (2)  For the purposes of paragraph (1)(b), the following factors are to be taken into account in determining whether the aggrieved person would be able to carry out the inherent requirements of the particular work: (a)  the aggrieved person's past training, qualifications and experience relevant to the particular work; (b)  if the aggrieved person already works for the discriminator—the aggrieved person's performance in working for the discriminator; (c)  any other factor that it is reasonable to take into account. (3)  For the purposes of this section, the aggrieved person works for another person if: (a)  the other person employs the aggrieved person; or (b)  the other person engages the aggrieved person as a commission agent; or (c)  the aggrieved person works for the other person as a contract worker; or (d)  the other person and the aggrieved person are members of a partnership; or (e)  both of the following apply: (i)  the other person is an authority or body that is empowered to confer, renew, extend, revoke or withdraw an authorisation or qualification that is needed for or facilitates the practice of a profession, the carrying on of a trade or the engaging in of an occupation; (ii)  the aggrieved person is a member of that profession, carrying on that trade or engaged in that occupation.
 
 Disability Discrimination Act 1992                    21
 
@@ -704,9 +647,8 @@ Division 1 Discrimination in work
 Section 21B
 
 ##### Opportunities for promotion, transfer and training and registered organisations
-(a)  discrimination referred to in paragraph 15(2)(b) or (d),
 
-(4)  This section does not apply in relation to: 16(2)(b) or (d), 17(1)(c) or (d) or 18(3)(c), other than discrimination in determining who should be offered promotion or transfer; or (b)  discrimination referred to in section 20 (registered organisations under the Fair Work (Registered Organisations) Act 2009 ).
+(4)  This section does not apply in relation to: (a)  discrimination referred to in paragraph 15(2)(b) or (d), 16(2)(b) or (d), 17(1)(c) or (d) or 18(3)(c), other than discrimination in determining who should be offered promotion or transfer; or (b)  discrimination referred to in section 20 (registered organisations under the Fair Work (Registered Organisations) Act 2009 ).
 
 #### 21B  Exception-unjustifiable hardship
 
@@ -734,7 +676,7 @@ Section 22
 
 #### 23  Access to premises
 
-It is unlawful for a person to discriminate against another person on the ground of the other person's disability: (a)  by refusing to allow the other person access to, or the use of, any premises that the public or a section of the public is entitled or allowed to enter or use (whether for payment or not); or (b)  in the terms or conditions on which the first-mentioned person is prepared to allow the other person access to, or the use of, any such premises; or (c)  in relation to the provision of means of access to such premises; or (d)  by refusing to allow the other person the use of any facilities in such premises that the public or a section of the public is entitled or allowed to use (whether for payment or not); or (e)  in the terms or conditions on which the first-mentioned person is prepared to allow the other person the use of any such facilities; or (f)  by requiring the other person to leave such premises or cease to use such facilities.
+It is unlawful for a person to discriminate against another person on the ground of the other person's disability: (a)  by refusing to allow the other person access to, or the use of, any premises that the public or a section of the public is
 
 Disability Discrimination Act 1992                    23
 
@@ -749,6 +691,8 @@ Part 2 Prohibition of disability discrimination
 Division 2 Discrimination in other areas
 
 Section 24
+
+entitled or allowed to enter or use (whether for payment or not); or (b)  in the terms or conditions on which the first-mentioned person is prepared to allow the other person access to, or the use of, any such premises; or (c)  in relation to the provision of means of access to such premises; or (d)  by refusing to allow the other person the use of any facilities in such premises that the public or a section of the public is entitled or allowed to use (whether for payment or not); or (e)  in the terms or conditions on which the first-mentioned person is prepared to allow the other person the use of any such facilities; or (f)  by requiring the other person to leave such premises or cease to use such facilities.
 
 #### 24  Goods, services and facilities
 
@@ -772,7 +716,7 @@ Discrimination in other areas Division 2
 
 Section 25
 
-(c)  by deferring the other person's application for accommodation or according to the other person a lower order of precedence in any list of applicants for that accommodation. (2)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person's disability: (a)  by denying the other person access, or limiting the other person's access, to any benefit associated with accommodation occupied by the other person; or (b)  by evicting the other person from accommodation occupied by the other person; or (c)  by subjecting the other person to any other detriment in relation to accommodation occupied by the other person; or (d)  by refusing to permit the other person to make reasonable alterations to accommodation occupied by that person if: (i)  that person has undertaken to restore the accommodation to its condition before alteration on leaving the accommodation; and (ii)  in all the circumstances it is likely that the person will perform the undertaking; and (iii)  in all the circumstances, the action required to restore the accommodation to its condition before alteration is reasonably practicable; and (iv)  the alteration does not involve alteration of the premises of any other occupier; and (v)  the alteration is at that other person's own expense. (3)  This section does not apply to or in respect of: (a)  the provision of accommodation in premises if: (i)  the person who provides or proposes to provide the accommodation or a near relative of that person resides, and intends to continue to reside on those premises; and (ii)  the accommodation provided in those premises is for no more than 3 persons other than a person referred to in subparagraph (a)(i) or near relatives of such a person; or (b)  the provision of accommodation if: (i)  the accommodation is provided by a registered charity, or by a voluntary body that is not a charity; and Section 26
+(c)  by deferring the other person's application for accommodation or according to the other person a lower order of precedence in any list of applicants for that accommodation. (2)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person's disability: (a)  by denying the other person access, or limiting the other person's access, to any benefit associated with accommodation occupied by the other person; or (b)  by evicting the other person from accommodation occupied by the other person; or (c)  by subjecting the other person to any other detriment in relation to accommodation occupied by the other person; or (d)  by refusing to permit the other person to make reasonable alterations to accommodation occupied by that person if: (i)  that person has undertaken to restore the accommodation to its condition before alteration on leaving the accommodation; and (ii)  in all the circumstances it is likely that the person will perform the undertaking; and (iii)  in all the circumstances, the action required to restore the accommodation to its condition before alteration is reasonably practicable; and (iv)  the alteration does not involve alteration of the premises of any other occupier; and (v)  the alteration is at that other person's own expense. (3)  This section does not apply to or in respect of: (a)  the provision of accommodation in premises if: (i)  the person who provides or proposes to provide the accommodation or a near relative of that person resides, and intends to continue to reside on those premises; and (ii)  the accommodation provided in those premises is for no more than 3 persons other than a person referred to in subparagraph (a)(i) or near relatives of such a person; or (b)  the provision of accommodation if: (i)  the accommodation is provided by a registered charity, or by a voluntary body that is not a charity; and
 
 Disability Discrimination Act 1992                    25
 
@@ -786,6 +730,10 @@ Part 2 Prohibition of disability discrimination
 
 Division 2 Discrimination in other areas
 
+Section 26
+
+(ia)  the accommodation is provided solely for persons who have a particular disability; and (ii)  the person discriminated against does not have that particular disability.
+
 #### 26  Land
 
 (1)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person's disability: (a)  by refusing or failing to dispose of an estate or interest in land to the other person; or (b)  in the terms or conditions on which an estate or interest in land is offered to the other person. (2)  This section does not apply in relation to a disposal of an estate or interest in land by will or by way of gift.
@@ -795,8 +743,6 @@ Division 2 Discrimination in other areas
 (1)  It is unlawful for a club or incorporated association, the committee of management of a club or a member of the committee of management of a club or incorporated association to discriminate against a person who is not a member of the club or association on the ground of the person's disability: (a)  by refusing or failing to accept the person's application for membership; or (b)  in the terms or conditions on which the club or association is prepared to admit the person to membership. (2)  It is unlawful for a club or incorporated association, the committee of management of a club or a member of the committee of management of a club or incorporated association to discriminate against a person who is a member of the club or association on the ground of the member's disability: (a)  in the terms or conditions of membership that are afforded to the member; or (b)  by refusing or failing to accept the member's application for a particular class or type of membership; or (c)  by denying the member access, or limiting the member's access to any benefit provided by the club or association; or
 
 26            Disability Discrimination Act 1992
-
-(ia)  the accommodation is provided solely for persons who have a particular disability; and (ii)  the person discriminated against does not have that particular disability.
 
 ComLaw Authoritative Act C2013C00022
 
@@ -818,7 +764,7 @@ Section 28
 
 #### 29  Administration of Commonwealth laws and programs
 
-It is unlawful for a person who performs any function or exercises any power under a Commonwealth law or for the purposes of a Commonwealth program or has any other responsibility for the administration of a Commonwealth law or the conduct of a Commonwealth program, to discriminate against another person on the ground of the other person's disability in the performance of Part 2
+It is unlawful for a person who performs any function or exercises any power under a Commonwealth law or for the purposes of a Commonwealth program or has any other responsibility for the administration of a Commonwealth law or the conduct of a Commonwealth program, to discriminate against another person on the ground of the other person's disability in the performance of
 
 Disability Discrimination Act 1992                    27
 
@@ -828,9 +774,9 @@ ComLaw Authoritative Act C2013C00022
 
 [[START OF PAGE 34]]
 
-Division 2 Discrimination in other areas
+Part 2 Prohibition of disability discrimination
 
-Prohibition of disability discrimination
+Division 2 Discrimination in other areas
 
 Section 29A
 
@@ -858,7 +804,7 @@ Section 30
 
 inherent requirements of the employment or to determine what reasonable adjustments to make for the employee.
 
-- This section has effect subject to subsection 54A(5) (evidence that an animal is an assistance animal).
+(4)  This section has effect subject to subsection 54A(5) (evidence that an animal is an assistance animal).
 
 Disability Discrimination Act 1992                    29
 
@@ -1042,7 +988,7 @@ Section 46
 
 #### 46  Superannuation and insurance
 
-(1)  This Part does not render it unlawful for a person to discriminate against another person, on the ground of the other person's disability, by refusing to offer the other person: (a)  an annuity; or (b)  a life insurance policy; or (c)  a policy of insurance against accident or any other policy of insurance; or (d)  membership of a superannuation or provident fund; or (e)  membership of a superannuation or provident scheme; if: (f)  the discrimination: (i)  is based upon actuarial or statistical data on which it is reasonable for the first-mentioned person to rely; and (ii)  is reasonable having regard to the matter of the data and other relevant factors; or (g)  in a case where no such actuarial or statistical data is available and cannot reasonably be obtained-the discrimination is reasonable having regard to any other relevant factors. (2)  This Part does not render it unlawful for a person to discriminate against another person, on the ground of the other person's disability, in respect of the terms or conditions on which: (a)  an annuity; or (b)  a life insurance policy; or (c)  a policy of insurance against accident or any other policy of insurance; or (d)  membership of a superannuation or provident fund; or (e)  membership of a superannuation or provident scheme; is offered to, or may be obtained by, the other person, if: (f)  the discrimination: (i)  is based upon actuarial or statistical data on which it is reasonable for the first-mentioned person to rely; and (ii)  is reasonable having regard to the matter of the data and other relevant factors; or Part 2 Prohibition of disability discrimination Division 5 Exemptions Section 47
+(1)  This Part does not render it unlawful for a person to discriminate against another person, on the ground of the other person's disability, by refusing to offer the other person: (a)  an annuity; or (b)  a life insurance policy; or (c)  a policy of insurance against accident or any other policy of insurance; or (d)  membership of a superannuation or provident fund; or (e)  membership of a superannuation or provident scheme; if: (f)  the discrimination: (i)  is based upon actuarial or statistical data on which it is reasonable for the first-mentioned person to rely; and (ii)  is reasonable having regard to the matter of the data and other relevant factors; or (g)  in a case where no such actuarial or statistical data is available and cannot reasonably be obtained—the discrimination is reasonable having regard to any other relevant factors. (2)  This Part does not render it unlawful for a person to discriminate against another person, on the ground of the other person's disability, in respect of the terms or conditions on which: (a)  an annuity; or (b)  a life insurance policy; or (c)  a policy of insurance against accident or any other policy of insurance; or (d)  membership of a superannuation or provident fund; or (e)  membership of a superannuation or provident scheme; is offered to, or may be obtained by, the other person, if: (f)  the discrimination: (i)  is based upon actuarial or statistical data on which it is reasonable for the first-mentioned person to rely; and (ii)  is reasonable having regard to the matter of the data and other relevant factors; or
 
 Disability Discrimination Act 1992                    37
 
@@ -1052,7 +998,13 @@ ComLaw Authoritative Act C2013C00022
 
 [[START OF PAGE 44]]
 
-(g)  in a case where no such actuarial or statistical data is available and cannot reasonably be obtained-the discrimination is reasonable having regard to any other relevant factors.
+Part 2 Prohibition of disability discrimination
+
+Division 5 Exemptions
+
+Section 47
+
+(g)  in a case where no such actuarial or statistical data is available and cannot reasonably be obtained—the discrimination is reasonable having regard to any other relevant factors.
 
 #### 47  Acts done under statutory authority
 
@@ -1220,7 +1172,7 @@ Section 59
 
 #### 59  Scope
 
-This Part applies in relation to a person (the action planner ) who, under Part 2, is prohibited from discriminating against another person on the ground of a disability of the other person.
+This Part applies in relation to a person (the action planner) who, under Part 2, is prohibited from discriminating against another person on the ground of a disability of the other person.
 
 #### 60  Action plans
 
@@ -1448,7 +1400,7 @@ For the purposes of this Act, the Commonwealth is taken to be the employer of al
 
 #### 126  Protection from civil actions
 
-(1A)  Subsection (1) applies in relation to any of the following persons: (a)  the Commission; (b)  the Commissioner or another member of the Commission; (c)  a person acting under the direction or authority of: (i)  the Commission; or (ii)  the Commissioner or another member of the Commission; (d)  a person acting under a delegation under section 121. (1)  The person is not liable to an action or other proceeding for damages for or in relation to an act done, or omitted to be done, in good faith in the performance, or purported performance, of any function, or in the exercise or purported exercise of any power or authority, conferred on the Commission, the Commissioner or the other member of the Commission. (2)  If a submission has been made, a document or information has been given, or evidence has been given, to the Commission or the Part 7
+(1A)  Subsection (1) applies in relation to any of the following persons: (a)  the Commission; (b)  the Commissioner or another member of the Commission; (c)  a person acting under the direction or authority of: (i)  the Commission; or (ii)  the Commissioner or another member of the Commission; (d)  a person acting under a delegation under section 121. (1)  The person is not liable to an action or other proceeding for damages for or in relation to an act done, or omitted to be done, in good faith in the performance, or purported performance, of any function, or in the exercise or purported exercise of any power or authority, conferred on the Commission, the Commissioner or the other member of the Commission. (2)  If a submission has been made, a document or information has been given, or evidence has been given, to the Commission or the
 
 Disability Discrimination Act 1992                    55
 
@@ -1458,7 +1410,7 @@ ComLaw Authoritative Act C2013C00022
 
 [[START OF PAGE 62]]
 
-Miscellaneous
+Part 7 Miscellaneous
 
 Section 127
 
@@ -1466,7 +1418,7 @@ Commissioner, a person is not liable to an action, suit or other proceeding in r
 
 #### 127  Non-disclosure of private information
 
-(1)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorised to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, must not, either directly or indirectly: (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first-mentioned person because of that person's office of employment under or for the purposes of this Act or because of that person being or having been so authorised; or (b)  make use of any such information as is mentioned in paragraph (a); or (c)  produce to any person a document relating to the affairs of another person given for the purposes of this Act. Penalty:  Imprisonment for 2 years. (2)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorised to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, must not be required: (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the first-mentioned person because of that person's office or employment under or for the purposes of this Act or because of that person being or having been so authorised; or
+(1)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorised to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, must not, either directly or indirectly: (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first-mentioned person because of that person's office or employment under or for the purposes of this Act or because of that person being or having been so authorised; or (b)  make use of any such information as is mentioned in paragraph (a); or (c)  produce to any person a document relating to the affairs of another person given for the purposes of this Act. Penalty:  Imprisonment for 2 years. (2)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorised to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, must not be required: (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the first-mentioned person because of that person's office or employment under or for the purposes of this Act or because of that person being or having been so authorised; or
 
 56            Disability Discrimination Act 1992
 
@@ -1512,9 +1464,7 @@ The Commissioner must give to the Commission such information relating to the op
 
 #### 132  Regulations
 
-(1)  The Governor-General may make regulations prescribing matters: (a)  required or permitted by this Act to be prescribed; or (b)  necessary or convenient to be prescribed for carrying out or
-
-- giving effect to this Act.
+(1)  The Governor-General may make regulations prescribing matters: (a)  required or permitted by this Act to be prescribed; or (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
 58            Disability Discrimination Act 1992
 
@@ -1561,7 +1511,7 @@ All relevant information pertaining to application, saving or transitional provi
 
 Act | Number and year | Date of Assent | Date of commencement | Application, saving or transitional provisions
 --- | --- | --- | --- | ---
-Disability Discrimination Act 1992 | 135, 1992 | 5 Nov 1992 | Ss. 1 and 2: Royal Assent Ss. 3-14, 59-65, 67(1)(d)-(m), 113-120, 126, 127, 129 and 132: 26 Nov 1992 ( see Gazette 1992, No. S346) Remainder: 1 Mar 1993 ( see Gazette
+Disability Discrimination Act 1992 | 135, 1992 | 5 Nov 1992 | Ss. 1 and 2: Royal Assent Ss. 3-14, 59-65, 67(1)(d)-(m), 113-120, 126, 127, 129 and 132: 26 Nov 1992 (see Gazette 1992, No. S346) Remainder: 1 Mar 1993 (see Gazette 1992, No. S346) |
 Sex Discrimination and other Legislation Amendment Act 1992 | 179, 1992 | 16 Dec 1992 | 13 Jan 1993 (a) | S. 4
 Law and Justice Legislation Amendment Act 1993 | 13, 1994 | 18 Jan 1994 | Part 2 (ss. 3-5): Royal Assent (b) | S. 4(2)
 Veterans' Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994 | 164, 1994 | 16 Dec 1994 | Part 4 (s. 60): Royal Assent (c) | -
@@ -1583,7 +1533,7 @@ Act | Number and year | Date of Assent | Date of commencement | Application, sav
 --- | --- | --- | --- | ---
 Workplace Relations and Other Legislation Amendment Act 1996 | 60, 1996 | 25 Nov 1996 | Schedule 11 (item 61): 31 Dec 1996 ( see Gazette 1996, No. S535) (d) Schedule 19 (item 18): Royal Assent (d) | S. 2(2) and (6) (am. by 77, 1996, Sch. 3 [items 1, 2])
 as amended by
-Workplace Relations and Other Legislation Amendment Act (No. 2) | 77, 1996 | 19 Dec 1996 | Schedule 3 (items 1, 2): (e) | -
+Workplace Relations and Other Legislation Amendment Act (No. 2) 1996 | 77, 1996 | 19 Dec 1996 | Schedule 3 (items 1, 2): (e) | -
 Defence Legislation Amendment Act (No. 1) 1999 | 116, 1999 | 22 Sept 1999 | Schedule 5 (item 2): 1 Jan 2001 (f) | -
 as amended by
 Statute Law Revision Act 2002 | 63, 2002 | 3 July 2002 | Schedule 2 (item 9): (g) | -
@@ -1609,15 +1559,15 @@ Table of Acts
 Act | Number and year | Date of Assent | Date of commencement | Application, saving or transitional provisions
 --- | --- | --- | --- | ---
 Disability Discrimination Amendment Act 2002 | 62, 2002 | 3 July 2002 | Schedule 1: 19 Aug 2002 ( see Gazette 2002, No. GN32) Remainder: Royal Assent | -
-Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) | 105, 2002 | 14 Nov 2002 | Schedule 3 (item 41): 12 May 2003 | -
+Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002 | 105, 2002 | 14 Nov 2002 | Schedule 3 (item 41): 12 May 2003 | -
 Age Discrimination (Consequential Provisions) Act 2004 | 40, 2004 | 21 Apr 2004 | Schedule 2 (item 26): (k) | -
 Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004 | 52, 2004 | 27 Apr 2004 | Schedule 3 (item 20): 1 July 2004 ( see s. 2) | -
-Disability Discrimination Amendment (Education Standards) Act 2005 | 19, 2005 | 1 Mar 2005 | Schedule 1: 10 Aug 2005 ( see F2005L01968) Remainder: Royal | -
+Disability Discrimination Amendment (Education Standards) Act 2005 | 19, 2005 | 1 Mar 2005 | Schedule 1: 10 Aug 2005 (see F2005L01968) Remainder: Royal Assent | -
 Civil Aviation Amendment Act 2005 | 86, 2005 | 6 July 2005 | 6 July 2005 | -
 Fair Work (State Referral and Consequential and Other Amendments) Act 2009 | 54, 2009 | 25 June 2009 | S. 4: Royal Assent Schedule 5 (items 28-30, 65, 66, 84): (l) Schedule 5 (item 31): (l) | S. 4 and Sch. 5 (item 84) [ see Table A]
-Disability Discrimination and Other Human Rights Legislation Amendment Act 2009 | 70, 2009 | 8 July 2009 | Schedule 2 (items 1-90) and Schedule 3 (items 22-31, 117, 118): 5 Aug 2009 Schedule 2 (items 101, 102): 27 Mar 2006 ( see s. 2(1)) Schedule 2 (items 103-105): 8 Jan | Sch. 2 (items 63, 86) [ see Table A]
+Disability Discrimination and Other Human Rights Legislation Amendment Act 2009 | 70, 2009 | 8 July 2009 | Schedule 2 (items 1-90) and Schedule 3 (items 22-31, 117, 118): 5 Aug 2009 Schedule 2 (items 101, 102): 27 Mar 2006 (see s. 2(1)) Schedule 2 (items 103-105): 8 Jan 2010 | Sch. 2 (items 63, 86) [see Table A]
 Fair Work Amendment (State Referrals and Other Measures) Act 2009 | 124, 2009 | 9 Dec 2009 | Schedule 2 (item 124): 1 Jan 2010 | -
-Acts Interpretation Amendment Act 2011 | 46, 2011 | 27 June 2011 | Schedule 2 (items 543-546) and Schedule 3 (items 10, 11): | Sch. 3 (items 10, 11) [ see Table A]
+Acts Interpretation Amendment Act 2011 | 46, 2011 | 27 June 2011 | Schedule 2 (items 543-546) and Schedule 3 (items 10, 11): 27 Dec 2011 | Sch. 3 (items 10, 11) [see Table A]
 
 Disability Discrimination Act 1992                    63
 
@@ -1650,9 +1600,10 @@ Act Notes
 (a) The Disability Discrimination Act 1992 was amended by the Sex Discrimination and other Legislation Amendment Act 1992 , subsection 2(2) of which provides as follows: (2) An amendment of a provision of the Disability Discrimination Act 1992 commences: (a) on the 28th day after this Act receives the Royal Assent; or (b) on the commencement of the relevant provision of the Disability Discrimination Act 1992 ; whichever is later. Section 4 commenced on 26 November 1992 ( see Gazette 1992, No. S346). The remaining amended provisions commenced on 1 March 1993 ( see Gazette 1992, No. S346). (b) The Disability Discrimination Act 1992 was amended by Part 2 (sections 3-5) only of the Law and Justice Legislation Amendment Act 1993 , subsection 2(1) of which provides as follows: (1) Subject to this section, this Act commences on the day on which it receives the Royal Assent. (c) The Disability Discrimination Act 1992 was amended by Part 4 (section 60) only of the Veterans' Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994 , subsection 2(1) of which provides as follows: (1) Part 1, Divisions 1 and 11 of Part 2 and Parts 3 and 4 commence on the day on which this Act receives the Royal Assent. (d) The Disability Discrimination Act 1992 was amended by Schedule 11 (item 61) and Schedule 19 (item 18) only of the Workplace Relations and Other Legislation Amendment Act 1996 , subsections 2(1) and (2) of which provide as follows: (1) Subject to this section, this Act commences on a day on which it receives the Royal Assent. (2) Subject to subsection (3), the items of the Schedules, other than Schedule 5, item 1 of Schedule 9, items 2 and 3 of Schedule 12, item 90 of Schedule 16 and the items of Schedule19, commence on a day or days to be fixed by Proclamation. (e) The Workplace Relations and Other Legislation Amendment Act 1996 was amended by Schedule 3 (items 1 and 2) only of the Workplace Relations and Other Legislation Amendment Act (No. 2)1996, subsection 2(4) of which provides as follows: (4) The items of Schedule 3 are taken to have commenced immediately after the Workplace and Other Legislation Amendment Act 1996 received the Royal Assent. The Workplace Relations and Other Legislation Amendment Act 1996 received the Royal Assent on 25 November 1996 . (f) The Disability Discrimination Act 1992 was amended by Schedule 5 (item 2) only of the Defence Legislation Amendment Act (No. 1) 1999, subsection 2(4) of which provides as follows: (4) Schedule 5 commences on 1 January 2001. (g) Subsection 2(1) (item 38) of the Statute Law Revision Act 2002 provides as follows:
 
 #### Commencement information
---- | --- | ---
 Column 1 | Column 2 | Column 3
-Provision(s) 38. Schedule | Commencement Immediately after | Date/Details 1 January 2001
+--- | --- | ---
+Provision(s) | Commencement | Date/Details
+38. Schedule 2, item 9 | Immediately after the time specified in the Defence Legislation Amendment Act (No. 1) 1999 for the commencement of item 2 of Schedule 5 to that Act | 1 January 2001
 
 Disability Discrimination Act 1992                    65
 
@@ -1720,6 +1671,8 @@ Table of Amendments
 
 ### Table of Amendments
 
+ad. = added or inserted   am. = amended   rep. = repealed  rs. = repealed and substituted
+
 Provision affected | How affected
 --- | ---
 Part 1
@@ -1757,8 +1710,6 @@ S. 36 ........................................ | rep. No. 70, 2009
 S. 38 ........................................ | rep. No. 70, 2009
 S. 40 ........................................ | rep. No. 70, 2009
 
-ad. = added or inserted   am. = amended   rep. = repealed  rs. = repealed and substituted
-
 Disability Discrimination Act 1992                    68
 
 ComLaw Authoritative Act C2013C00022
@@ -1770,6 +1721,8 @@ ComLaw Authoritative Act C2013C00022
 Notes to the Disability Discrimination Act 1992
 
 Table of Amendments
+
+ad. = added or inserted   am. = amended   rep. = repealed  rs. = repealed and substituted
 
 Provision affected | How affected
 --- | ---
@@ -1824,6 +1777,7 @@ Notes to the Disability Discrimination Act 1992
 
 Table of Amendments
 
+ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted
 Provision affected | How affected
 --- | ---
 S. 91 ........................................ | am. No. 179, 1992 rep. No. 133, 1999
@@ -1869,12 +1823,12 @@ Notes to the Disability Discrimination Act 1992
 
 Table of Amendments
 
-ad. = added or inserted | am. = amended rep. = repealed rs. = repealed and substituted
+ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted
+Provision affected | How affected
 --- | ---
 S. 127 ...................................... | am. No. 24, 2001; No. 70, 2009
 Note to s. 127(3) ...................... | ad. No. 24, 2001
-S. 130 ...................................... | rep. No. 133,
-1999
+S. 130 ...................................... | rep. No. 133, 1999
 S. 132 ...................................... | am. No. 62, 2002; No. 70, 2009
 
 Disability Discrimination Act 1992                    71
@@ -1899,7 +1853,7 @@ Table A
 
 In this Part: appropriate Commissioner means: (a)  in relation to a complaint lodged under the old DDA-the Disability Discrimination Commissioner; and (b)  in relation to a complaint lodged under the old RDA-the Race Discrimination Commissioner; and (c)  in relation to a complaint lodged under the old SDA-the Sex Discrimination Commissioner. Court means the Federal Court of Australia. holding of an inquiry means a holding of an inquiry referred to in a notice given under: (a)  section 83 of the old DDA; or (b)  section 25E of the old RDA; or (c)  section 63 of the old SDA. new HREOCA means the Human Rights and Equal Opportunity Commission Act 1986 as amended by Schedule 1 to this Act. old DDA means the Disability Discrimination Act 1992 before being amended by Schedule 1 to this Act. old RDA means the Racial Discrimination Act 1975 before being amended by Schedule 1 to this Act. old SDA means the Sex Discrimination Act 1984 before being amended by Schedule 1 to this Act. purported complaint means a document purporting to be a complaint. starting day means the day on which this Part commences.
 
-> 72            Disability Discrimination Act 1992
+72            Disability Discrimination Act 1992
 
 ComLaw Authoritative Act C2013C00022
 
@@ -1921,7 +1875,7 @@ Table A
 
 ###### 7  Complaint lodged but Commissioner not notified of it
 
-(1)  A purported complaint is treated in the way set out in subsection (2) if, before the starting day: (a)  it was lodged with the Commission; and (b)  the Commission decided that it was a complaint within the meaning of the old DDA, old RDA or old SDA; and Notes to the
+(1)  A purported complaint is treated in the way set out in subsection (2) if, before the starting day: (a)  it was lodged with the Commission; and (b)  the Commission decided that it was a complaint within the meaning of the old DDA, old RDA or old SDA; and
 
 Disability Discrimination Act 1992                    73
 
@@ -1930,6 +1884,8 @@ ComLaw Authoritative Act C2013C00022
 [[END OF PAGE 79]]
 
 [[START OF PAGE 80]]
+
+Notes to the Disability Discrimination Act 1992
 
 Table A
 
@@ -1946,8 +1902,6 @@ Table A
 74            Disability Discrimination Act 1992
 
 ComLaw Authoritative Act C2013C00022
-
-Disability Discrimination Act 1992
 
 [[END OF PAGE 80]]
 
@@ -1975,7 +1929,7 @@ ComLaw Authoritative Act C2013C00022
 
 [[START OF PAGE 82]]
 
-Notes to the
+Notes to the Disability Discrimination Act 1992
 
 Table A
 
@@ -1990,8 +1944,6 @@ Table A
 (1)  A complaint is treated in the way set out in subsection (2) if, before the starting day: (a)  a holding of an inquiry into the complaint had started under the old DDA, old RDA or old SDA; and (b)  the complaint had not been withdrawn under whichever of the following sections is applicable: (i)  section 79 of the old DDA; (ii)  section 25A of the old RDA; (iii)  section 59 of the old SDA. (2)  The amendments made by Schedule 1 to this Act do not apply in relation to the complaint.
 
 76            Disability Discrimination Act 1992
-
-Disability Discrimination Act 1992
 
 ComLaw Authoritative Act C2013C00022
 
@@ -2023,7 +1975,7 @@ ComLaw Authoritative Act C2013C00022
 
 [[START OF PAGE 84]]
 
-Notes to the
+Notes to the Disability Discrimination Act 1992
 
 Table A
 
@@ -2048,8 +2000,6 @@ A person cannot lodge a complaint under section 46P of the new HREOCA if: (a)  t
 (1)  The Governor-General may make regulations prescribing matters: (a)  required or permitted by this Act to be prescribed; or (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. (2)  In particular, regulations may be made in relation to matters of a transitional or saving nature arising out of the enactment of this Act.
 
 78            Disability Discrimination Act 1992
-
-Disability Discrimination Act 1992
 
 ComLaw Authoritative Act C2013C00022
 
@@ -2080,7 +2030,7 @@ The amendment of the Disability Discrimination Act 1992 made by Schedule 2 to th
 
 ###### 34  Warrants or writs etc. may continue to be executed
 
-If, immediately before the commencing time, any warrant, writ, order, permission or other instrument (the authority ) issued under a law of the Commonwealth, a State or a Territory could be executed by a person who was at that time a member, staff member or special member of the Australian Federal Police, the authority continues to be able to be executed at and after the commencing time by the person in his or her capacity as: (a)  the Commissioner of the Australian Federal Police; or Notes to the
+If, immediately before the commencing time, any warrant, writ, order, permission or other instrument (the authority) issued under a law of the Commonwealth, a State or a Territory could be executed by a person who was at that time a member, staff member or special member of the Australian Federal Police, the authority continues to be able to be executed at and after the commencing time by the person in his or her capacity as: (a)  the Commissioner of the Australian Federal Police; or
 
 Disability Discrimination Act 1992                    79
 
@@ -2089,6 +2039,8 @@ ComLaw Authoritative Act C2013C00022
 [[END OF PAGE 85]]
 
 [[START OF PAGE 86]]
+
+Notes to the Disability Discrimination Act 1992
 
 Table A
 
@@ -2107,8 +2059,6 @@ Schedule 2
 
 80            Disability Discrimination Act 1992
 
-Disability Discrimination Act 1992
-
 ComLaw Authoritative Act C2013C00022
 
 [[END OF PAGE 86]]
@@ -2119,7 +2069,7 @@ Notes to the Disability Discrimination Act 1992
 
 Table A
 
-(2) Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901 .
+(2) Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901.
 
 ###### 419  Transitional-pre-commencement notices
 
@@ -2149,13 +2099,13 @@ Table A
 
 In this Act:
 
-WR Act repeal day has the meaning given by Schedule 2 to the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 .
+WR Act repeal day has the meaning given by Schedule 2 to the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 
 Schedule 5
 
 ###### 84  Application of item 29
 
-Despite the amendment made by item 29 of this Schedule, the Disability Discrimination Act 1992 , as in force immediately before the WR Act repeal day, continues to apply in relation to a decision of the Australian Fair Pay Commission, whether made before or after that day.
+Despite the amendment made by item 29 of this Schedule, the Disability Discrimination Act 1992, as in force immediately before the WR Act repeal day, continues to apply in relation to a decision of the Australian Fair Pay Commission, whether made before or after that day.
 
 ##### Disability Discrimination and Other Human Rights Legislation Amendment Act 2009 (No. 70, 2009)
 
@@ -2163,23 +2113,23 @@ Schedule 2
 
 ###### 63  Saving-disability standards
 
-- This item applies in relation to a disability standard:
+(1) This item applies in relation to a disability standard:
 
-(a)  made under section 31 of the Disability Discrimination Act 1992 ; and
+(a)  made under section 31 of the Disability Discrimination Act 1992; and
 
 (b)  in force immediately before the commencement of this Part.
 
-- The disability standard has effect, from the commencement of this Part, as if it had been made under that section as amended by this Part.
+(2) The disability standard has effect, from the commencement of this Part, as if it had been made under that section as amended by this Part.
 
 ###### 86  Saving-action plans
 
-- This item applies in relation to an action plan:
+(1) This item applies in relation to an action plan:
 
-(a)  given to the Commission under section 64 of the Disability Discrimination Act 1992 ; and
+(a)  given to the Commission under section 64 of the Disability Discrimination Act 1992; and
 
 (b)  in force immediately before the commencement of this Part.
 
-> 82            Disability Discrimination Act 1992
+82            Disability Discrimination Act 1992
 
 ComLaw Authoritative Act C2013C00022
 
@@ -2191,7 +2141,7 @@ Notes to the Disability Discrimination Act 1992
 
 Table A
 
-- The action plan has effect, from the commencement of this Part, as if it had been given to the Commission under that section as amended by this Part.
+(2) The action plan has effect, from the commencement of this Part, as if it had been given to the Commission under that section as amended by this Part.
 
 ##### Acts Interpretation Amendment Act 2011 (No. 46, 2011)
 
