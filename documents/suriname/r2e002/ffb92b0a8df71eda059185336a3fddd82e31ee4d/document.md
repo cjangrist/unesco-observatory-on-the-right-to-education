@@ -1255,14 +1255,6 @@ Het verlof, in het vorige lid onder 2° bedoeld, moet blijken door overlegging v
 
 [[START OF PAGE 27]]
 
-> 95 Gew. bij G.B. 1935 no. 80.
-
-> 96 Gew. bij G.B. 1915 no. 72.
-
-> 97 Gew. bij G.B. 1929 no. 24, G.B. 1973 no. 140 (zie S.B. 2003 no. 44).
-
-> 98 Gew. bij G.B. 1915 no. 72.
-
 ##### Artikel 125
 
 Degene der aanstaande echtgenoten, die buiten de mogelijkheid mocht zijn, om zijn geboorteakte, bij No. 1 van het vorige artikel vereist, te vertonen, zal zulks kunnen aanvullen door een akte van bekendheid, afgegeven door een openbaar ambtenaar, op de verklaring van twee getuigen van het mannelijk of vrouwelijk geslacht, bloedverwanten of geen bloedverwanten zijnde.
@@ -1290,6 +1282,14 @@ Het huwelijk zal niet mogen worden voltrokken vóór den tiende dag na die van d
 Het huwelijk zal in het openbaar, ten overstaan van de ambtenaar van de burgerlijke stand van de woonplaats van een der beide partijen, in het daartoe door die ambtenaar aangewezen gebouw, worden voltrokken, in tegenwoordigheid van twee getuigen, hetzij nabestaanden of vreemden, meerderjarig zijnde, en binnen Suriname gevestigd.
 
 ##### Artikel 130 98
+
+> 95 Gew. bij G.B. 1935 no. 80.
+
+> 96 Gew. bij G.B. 1915 no. 72.
+
+> 97 Gew. bij G.B. 1929 no. 24, G.B. 1973 no. 140 (zie S.B. 2003 no. 44).
+
+> 98 Gew. bij G.B. 1915 no. 72.
 
 27
 
@@ -1329,13 +1329,13 @@ De aanstaande echtgenoten zullen ten overstaan van de ambtenaar van de burgerlij
 
 In deze afdeling wordt verstaan:
 
-- ambtenaar van de burgerlijke stand: de ambtenaar, bij wie overeenkomstig artikel 103 aangifte van het voornemen om een huwelijk te sluiten, is gedaan;
+a. ambtenaar van de burgerlijke stand: de ambtenaar, bij wie overeenkomstig artikel 103 aangifte van het voornemen om een huwelijk te sluiten, is gedaan;
 
-- centraal register: het in artikel 134a lid 1 bedoelde register van huwelijksambtenaren;
+b. centraal register: het in artikel 134a lid 1 bedoelde register van huwelijksambtenaren;
 
-- huwelijksambtenaar: een in het centraal register ingeschreven persoon;
+c. huwelijksambtenaar: een in het centraal register ingeschreven persoon;
 
-- formulier: het in artikel 135a lid 1 bedoelde formulier van de huwelijksakte.
+d. formulier: het in artikel 135a lid 1 bedoelde formulier van de huwelijksakte.
 
 ##### Artikel 134a102
 
@@ -1351,61 +1351,63 @@ In deze afdeling wordt verstaan:
 
 [[START OF PAGE 29]]
 
-- Er is te Paramaribo een openbaar centraal register van huwelijksambtenaren, waarvan de inrichting door de President wordt geregeld, en met het beheer waarvan de Minister van Binnenlandse Zaken is belast.
+1. Er is te Paramaribo een openbaar centraal register van huwelijksambtenaren, waarvan de inrichting door de President wordt geregeld, en met het beheer waarvan de Minister van Binnenlandse Zaken is belast.
 
-- Het centraal register vermeldt ten aanzien van ieder, die daarin is ingeschreven:
+2. Het centraal register vermeldt ten aanzien van ieder, die daarin is ingeschreven:
 
-- de naam en voornamen en de datum en plaats van geboorte;
+a. de naam en voornamen en de datum en plaats van geboorte;
 
-- de godsdienstige gemeenschap, waartoe hij behoort.
+b. de godsdienstige gemeenschap, waartoe hij behoort.
 
 ##### Artikel 134b103
 
-- Op verzoek van een in Suriname gevestigde rechtspersoon, die blijkens haar statuten en duurzaam feitelijk optreden het karakter van een godsdienstige gemeenschap heeft, wordt in het centraal register ingeschreven de Surinamer, die aan alle in het volgende lid gestelde vereisten voldoet.
+1. Op verzoek van een in Suriname gevestigde rechtspersoon, die blijkens haar statuten en duurzaam feitelijk optreden het karakter van een godsdienstige gemeenschap heeft, wordt in het centraal register ingeschreven de Surinamer, die aan alle in het volgende lid gestelde vereisten voldoet.
 
-- Degene, wiens inschrijving in het centraal register is verzocht, moet:
+2. Degene, wiens inschrijving in het centraal register is verzocht, moet:
 
-- met de gevraagde inschrijving instemmen;
+a. met de gevraagde inschrijving instemmen;
 
-- de gegevens verstrekken of doen verstrekken, welke krachtens artikel 134a lid 2 ten aanzien van hem moeten worden vermeld;
+b. de gegevens verstrekken of doen verstrekken, welke krachtens artikel 134a lid 2 ten aanzien van hem moeten worden vermeld;
 
-- zijn woonplaats in Suriname hebben, meerderjarig zijn en niet onder curatele zijn gesteld;
+c. zijn woonplaats in Suriname hebben, meerderjarig zijn en niet onder curatele zijn gesteld;
 
-- in het bezit zijn van:
+d. in het bezit zijn van:
 
-- 1°.  hetzij  een  getuigschrift  ,  waaruit  blijkt,  dat  hij  met  vrucht  een  van  landswege ingestelde of erkende opleiding voor huwelijksambtenaar heeft gevolgd;
+1°. hetzij een getuigschrift , waaruit blijkt, dat hij met vrucht een van landswege ingestelde of erkende opleiding voor huwelijksambtenaar heeft gevolgd;
 
-- 2°. hetzij een stuk, waaruit blijkt, dat hij door de Minister van Binnenlandse Zaken van het volgen van zulk een opleiding is vrijgesteld;
+2°. hetzij een stuk, waaruit blijkt, dat hij door de Minister van Binnenlandse Zaken van het volgen van zulk een opleiding is vrijgesteld;
 
-- binnen  een  tijdvak  van  tien  jaren,  onmiddellijk  aan  het  tijdstip  van  de  inschrijving voorafgaand, niet wegens een opzettelijk begaan misdrijf zijn veroordeeld, en in dat tijdvak niet aan een ter zake van zulk een misdrijf opgelegde straf of strafrechtelijke maatregel onderworpen zijn geweest.
+e. binnen een tijdvak van tien jaren, onmiddellijk aan het tijdstip van de inschrijving voorafgaand, niet wegens een opzettelijk begaan misdrijf zijn veroordeeld, en in dat tijdvak niet aan een ter zake van zulk een misdrijf opgelegde straf of strafrechtelijke maatregel onderworpen zijn geweest.
 
 ##### Artikel 134c104
 
-- De inschrijving in het centraal register wordt geweigerd:
+1. De inschrijving in het centraal register wordt geweigerd:
 
-- wanneer het verzoek daartoe niet door een rechtspersoon, als in artikel 134b lid 1 bedoeld, is gedaan;
+a. wanneer het verzoek daartoe niet door een rechtspersoon, als in artikel 134b lid 1 bedoeld, is gedaan;
 
-- wanneer degene, wiens inschrijving is gevraagd, niet aan alle in artikel 134b lid 2 gestelde eisen voldoet.
+b. wanneer degene, wiens inschrijving is gevraagd, niet aan alle in artikel 134b lid 2 gestelde eisen voldoet.
 
-- Een inschrijving in het centraal register wordt alleen doorgehaald:
+2. Een inschrijving in het centraal register wordt alleen doorgehaald:
 
-- wanneer blijkt, dat zij in strijd met artikel 134b is geschied, tenzij de grond voor weigering inmiddels is vervallen;
+a. wanneer blijkt, dat zij in strijd met artikel 134b is geschied, tenzij de grond voor weigering inmiddels is vervallen;
 
-- wanneer zich een omstandigheid voordoet, die - zo de inschrijving nog niet was geschied grond voor weigering zou hebben opgeleverd;
+b. wanneer zich een omstandigheid voordoet, die – zo de inschrijving nog niet was geschied – grond voor weigering zou hebben opgeleverd;
 
-- op  verzoek  van  de  ingeschrevene  of  van  de  rechtspersoon,  die  de  inschrijving  heeft gevraagd;
+c. op verzoek van de ingeschrevene of van de rechtspersoon, die de inschrijving heeft gevraagd;
 
-- bij overlijden van de ingeschrevene.
+d. bij overlijden van de ingeschrevene.
 
 ##### Artikel 134d105
 
-- Op verzoek van de belanghebbende beveelt het Hof van Justitie de inschrijving in het centraal register, die in strijd met artikel 134c is geweigerd of nagelaten dan wel doorgehaald.
+1. Op verzoek van de belanghebbende beveelt het Hof van Justitie de inschrijving in het centraal register, die in strijd met artikel 134c is geweigerd of nagelaten dan wel doorgehaald.
 
 > 102 Ingev. bij G.B. 1973 no. 140 (zie S.B. 2003 no. 44).
 
 > 103 Ingev. bij G.B. 1973 no. 140 (zie S.B. 2003 no. 44).
 
-> 104 Ingev. bij G.B. 1973 no. 140 (zie S.B. 2003 no. 44). 105 Ingev. bij G.B. 1973 no. 140 (zie S.B. 2003 no. 44).
+> 104 Ingev. bij G.B. 1973 no. 140 (zie S.B. 2003 no. 44).
+
+> 105 Ingev. bij G.B. 1973 no. 140 (zie S.B. 2003 no. 44).
 
 29
 
@@ -1413,39 +1415,39 @@ In deze afdeling wordt verstaan:
 
 [[START OF PAGE 30]]
 
-- Op vordering van de procureur-generaal of op verzoek van de belanghebbende beveelt het Hof van Justitie de doorhaling van een in strijd met artikel 134c lid 2 gehandhaafde inschrijving.
+2. Op vordering van de procureur-generaal of op verzoek van de belanghebbende beveelt het Hof van Justitie de doorhaling van een in strijd met artikel 134c lid 2 gehandhaafde inschrijving.
 
 ##### Artikel 135 106
 
-- Wanneer bij de aangifte, als in artikel 103 bedoeld, door of namens de aanstaande echtgenoten een  verklaring  is  afgelegd,  waaruit  blijkt,  dat  zij  hun  huwelijk  bij  een  godsdienstige plechtigheid voltrokken wensen te zien, kan de voltrekking, met afwijking van het in de artikelen 129 tot en met 133 bepaalde, ten overstaan van een huwelijksambtenaar geschieden.
+1. Wanneer bij de aangifte, als in artikel 103 bedoeld, door of namens de aanstaande echtgenoten een verklaring is afgelegd, waaruit blijkt, dat zij hun huwelijk bij een godsdienstige plechtigheid voltrokken wensen te zien, kan de voltrekking, met afwijking van het in de artikelen 129 tot en met 133 bepaalde, ten overstaan van een huwelijksambtenaar geschieden.
 
-- Namens  de  aanstaande  echtgenoten  kan  de  verklaring  alleen  worden  afgelegd  door  een huwelijksambtenaar, die zij daartoe mondeling of schriftelijk hebben gemachtigd. De aldus gemachtigde huwelijksambtenaar kan tevens de aangifte doen, ook zonder overlegging van geschriften, als in artikel 104 bedoeld
+2. Namens de aanstaande echtgenoten kan de verklaring alleen worden afgelegd door een huwelijksambtenaar, die zij daartoe mondeling of schriftelijk hebben gemachtigd. De aldus gemachtigde huwelijksambtenaar kan tevens de aangifte doen, ook zonder overlegging van geschriften, als in artikel 104 bedoeld
 
-- De verklaring wordt opgenomen in de krachtens artikel 104 opgemaakte akte. Wanneer zij namens de aanstaande echtgenoten door een huwelijksambtenaar is afgelegd, worden diens naam en voornamen en de godsdienstige gemeenschap, waartoe hij blijkens zijn inschrijving in het centraal register behoort, in de akte vermeld.
+3. De verklaring wordt opgenomen in de krachtens artikel 104 opgemaakte akte. Wanneer zij namens de aanstaande echtgenoten door een huwelijksambtenaar is afgelegd, worden diens naam en voornamen en de godsdienstige gemeenschap, waartoe hij blijkens zijn inschrijving in het centraal register behoort, in de akte vermeld.
 
 ##### Artikel 135a107
 
-- De ambtenaar van de burgerlijke stand verstrekt, op verzoek van de aanstaande echtgenoten of van de door hen gemachtigde huwelijksambtenaar, nadat een verklaring overeenkomstig artikel 135 is afgelegd, een formulier van de huwelijksakte in drievoud aan de huwelijksambtenaar, ten overstaan van wie het huwelijk zal worden voltrokken, en tekent de datum van verstrekking daarvan op de kant van de krachtens artikel 104 opgemaakte akte aan.
+1. De ambtenaar van de burgerlijke stand verstrekt, op verzoek van de aanstaande echtgenoten of van de door hen gemachtigde huwelijksambtenaar, nadat een verklaring overeenkomstig artikel 135 is afgelegd, een formulier van de huwelijksakte in drievoud aan de huwelijksambtenaar, ten overstaan van wie het huwelijk zal worden voltrokken, en tekent de datum van verstrekking daarvan op de kant van de krachtens artikel 104 opgemaakte akte aan.
 
-- Het  te  verstrekken  formulier  wordt  door  de  ambtenaar  van  de  burgerlijke  stand  tevoren volledig ingevuld, met uitzondering van de dagtekening en de persoonsgegevens betreffende degene, die de godsdienstige plechtigheid bij de voltrekking zal leiden en door wie - naast partijen  en  degene,  ten  overstaan  van  wie  het  huwelijk  zal  worden  voltrokken  -  de huwelijksakte zal worden ondertekend.
+2. Het te verstrekken formulier wordt door de ambtenaar van de burgerlijke stand tevoren volledig ingevuld, met uitzondering van de dagtekening en de persoonsgegevens betreffende degene, die de godsdienstige plechtigheid bij de voltrekking zal leiden en door wie – naast partijen en degene, ten overstaan van wie het huwelijk zal worden voltrokken – de huwelijksakte zal worden ondertekend.
 
-- De ambtenaar van de burgerlijke stand verstrekt het formulier niet:
+3. De ambtenaar van de burgerlijke stand verstrekt het formulier niet:
 
-- voordat hem de in artikel 124 vermelde stukken - dan wel, voor zover nodig, de daarvoor krachtens de artikelen 125 en 126 in de plaats komende - ter hand zijn gesteld;
+a. voordat hem de in artikel 124 vermelde stukken – dan wel, voor zover nodig, de daarvoor krachtens de artikelen 125 en 126 in de plaats komende – ter hand zijn gesteld;
 
-- voordat hij van de aanstaande echtgenoten, of van de  door  hen  gemachtigde huwelijksambtenaar,  alle  gegevens  heeft  ontvangen,  die  hij  behoeft  om  het  formulier overeenkomstig het vorige lid te kunnen invullen;
+b. voordat hij van de aanstaande echtgenoten, of van de door hen gemachtigde huwelijksambtenaar, alle gegevens heeft ontvangen, die hij behoeft om het formulier overeenkomstig het vorige lid te kunnen invullen;
 
-- zolang nog geen tien dagen zijn verstreken sedert de dag, waarop aangifte overeenkomstig artikel 103 is gedaan, behoudens vrijstelling overeenkomstig artikel 109;
+c. zolang nog geen tien dagen zijn verstreken sedert de dag, waarop aangifte overeenkomstig artikel 103 is gedaan, behoudens vrijstelling overeenkomstig artikel 109;
 
-- indien,  of  zo  lang,  niet  ook  voor  het  overige  aan  de  wettelijke  vereisten  voor  de mogelijkheid tot voltrekking van het voorgenomen huwelijk is voldaan.
+d. indien, of zo lang, niet ook voor het overige aan de wettelijke vereisten voor de mogelijkheid tot voltrekking van het voorgenomen huwelijk is voldaan.
 
-- De President kan echter, om gewichtige redenen, ontheffing van een of meer der in het vorige lid genoemde vereisten verlenen.
+4. De President kan echter, om gewichtige redenen, ontheffing van een of meer der in het vorige lid genoemde vereisten verlenen.
 
 ##### Artikel 135b108
 
-- Een huwelijk kan, met toepassing van artikel 135, alleen worden voltrokken:
+1. Een huwelijk kan, met toepassing van artikel 135, alleen worden voltrokken:
 
-- binnen  tien  dagen  na  de  dag,  waarop  een  overeenkomstig  artikel  135a  lid  2  ingevuld formulier is verstrekt;
+a. binnen tien dagen na de dag, waarop een overeenkomstig artikel 135a lid 2 ingevuld formulier is verstrekt;
 
 b. op de plaats en ten overstaan van de huwelijksambtenaar, die door of namens de aanstaande
 
@@ -1461,33 +1463,33 @@ b. op de plaats en ten overstaan van de huwelijksambtenaar, die door of namens d
 
 [[START OF PAGE 31]]
 
-- echtgenoten tevoren aan de ambtenaar van de burgerlijke stand zijn opgegeven en door deze in het formulier zijn genoemd.
+echtgenoten tevoren aan de ambtenaar van de burgerlijke stand zijn opgegeven en door deze in het formulier zijn genoemd.
 
-- Indien de voltrekking tengevolge van bijzondere omstandigheden niet mogelijk is binnen de termijn, op de plaats of ten overstaan van de huwelijksambtenaar, in het vorige lid voorzien, kan het huwelijk op een later tijdstip of elders in Suriname of ten overstaan van een andere huwelijksambtenaar  worden  voltrokken,  mits  in  overeenstemming  met  artikel  135c  is gehandeld.
+2. Indien de voltrekking tengevolge van bijzondere omstandigheden niet mogelijk is binnen de termijn, op de plaats of ten overstaan van de huwelijksambtenaar, in het vorige lid voorzien, kan het huwelijk op een later tijdstip of elders in Suriname of ten overstaan van een andere huwelijksambtenaar worden voltrokken, mits in overeenstemming met artikel 135c is gehandeld.
 
 ##### Artikel 135c109
 
-- De afwijking van hetgeen in artikel 135b lid 1 is voorgeschreven,wordt vóór de voltrekking van het huwelijk ter kennis van de ambtenaar van de burgerlijke stand gebracht, hetzij door de aanstaande echtgenoten, hetzij door de huwelijksambtenaar, die zij daartoe mondeling of schriftelijk hebben gemachtigd.
+1. De afwijking van hetgeen in artikel 135b lid 1 is voorgeschreven, wordt vóór de voltrekking van het huwelijk ter kennis van de ambtenaar van de burgerlijke stand gebracht, hetzij door de aanstaande echtgenoten, hetzij door de huwelijksambtenaar, die zij daartoe mondeling of schriftelijk hebben gemachtigd.
 
-- Betreft het een overschrijding van de in artikel 135b lid 1 onder a gestelde termijn, dan vermeldt de ambtenaar van de burgerlijke stand, op de kant van de krachtens artikel 104 opgemaakte akte, de dag waarop hem daarvan kennis is gegeven. Behoudens het in artikel 110 bepaalde, kan het huwelijk dan alsnog, uiterlijk op de tiende dag na de kennisgeving, ten overstaan van de huwelijksambtenaar worden voltrokken.
+2. Betreft het een overschrijding van de in artikel 135b lid 1 onder a gestelde termijn, dan vermeldt de ambtenaar van de burgerlijke stand, op de kant van de krachtens artikel 104 opgemaakte akte, de dag waarop hem daarvan kennis is gegeven. Behoudens het in artikel 110 bepaalde, kan het huwelijk dan alsnog, uiterlijk op de tiende dag na de kennisgeving, ten overstaan van de huwelijksambtenaar worden voltrokken.
 
-- Betreft  het  een  verandering  van  de  plaats  van  voltrekking  of  eenvervanging  van  de huwelijksambtenaar,  dan  worden  de  drie  exemplaren  van  het  reeds  verstrekte  formulier overhandigd aan de ambtenaar van de burgerlijke stand, die daarin vervolgens de nodige, door hem te waarmerken, wijzigingen aanbrengt.
+3. Betreft het een verandering van de plaats van voltrekking of een vervanging van de huwelijksambtenaar, dan worden de drie exemplaren van het reeds verstrekte formulier overhandigd aan de ambtenaar van de burgerlijke stand, die daarin vervolgens de nodige, door hem te waarmerken, wijzigingen aanbrengt.
 
-- Wanneer de in het formulier genoemde huwelijksambtenaar is verhinderd de voltrekking van het huwelijk bij te wonen, en van die verhindering pas blijkt op een zo laat tijdstip, dat de in de leden 1 en 3 voorgeschreven formaliteiten bezwaarlijk meer kunnen worden vervuld, kan het  huwelijk  zonder  die  formaliteiten,  na  daartoe  verkregen  machtiging  van  de  districtscommissaris of een door deze aangewezen bestuursfunctionaris, ten overstaan van een andere huwelijksambtenaar worden voltrokken.
+4. Wanneer de in het formulier genoemde huwelijksambtenaar is verhinderd de voltrekking van het huwelijk bij te wonen, en van die verhindering pas blijkt op een zo laat tijdstip, dat de in de leden 1 en 3 voorgeschreven formaliteiten bezwaarlijk meer kunnen worden vervuld, kan het huwelijk zonder die formaliteiten, na daartoe verkregen machtiging van de districtscommissaris of een door deze aangewezen bestuursfunctionaris, ten overstaan van een andere huwelijksambtenaar worden voltrokken.
 
-- Bevoegd tot machtiging, als in het vorige lid bedoeld, is de commissaris van het district, waarin  het  huwelijk  wordt  voltrokken.  Deze  brengt  de  door  of  namens  hem  verleende machtiging onverwijld schriftelijk ter kennis van de ambtenaar van de burgerlijke stand.
+5. Bevoegd tot machtiging, als in het vorige lid bedoeld, is de commissaris van het district, waarin het huwelijk wordt voltrokken. Deze brengt de door of namens hem verleende machtiging onverwijld schriftelijk ter kennis van de ambtenaar van de burgerlijke stand.
 
 ##### Artikel 135d110
 
-- Ten  overstaan  van  een  huwelijksambtenaar  kan  een  huwelijk  niet  bij  volmacht  worden voltrokken.
+1. Ten overstaan van een huwelijksambtenaar kan een huwelijk niet bij volmacht worden voltrokken.
 
-- Wanneer een huwelijk ten overstaan van een huwelijksambtenaar wordt voltrokken, kan de in artikel 124 onder 2° bedoelde toestemming niet bij de huwelijksakte worden gegeven.
+2. Wanneer een huwelijk ten overstaan van een huwelijksambtenaar wordt voltrokken, kan de in artikel 124 onder 2° bedoelde toestemming niet bij de huwelijksakte worden gegeven.
 
 ##### Artikel 135e111
 
-- Erkenning  van  natuurlijke  kinderen  kan,  ingeval  een  huwelijk  ten  overstaan  van  een huwelijksambtenaar wordt voltrokken, bij de huwelijksakte alleen geschieden, wanneer het voornemen  daartoe,  vóór  de  verstrekking  van  het  formulier,  aan  de  ambtenaar  van  de burgerlijke stand is medegedeeld door de man, die tot erkenning wil overgaan, of door de huwelijksambtenaar, die hij mondeling of schriftelijk tot het doen van die mededeling heeft gemachtigd.
+1. Erkenning van natuurlijke kinderen kan, ingeval een huwelijk ten overstaan van een huwelijksambtenaar wordt voltrokken, bij de huwelijksakte alleen geschieden, wanneer het voornemen daartoe, vóór de verstrekking van het formulier, aan de ambtenaar van de burgerlijke stand is medegedeeld door de man, die tot erkenning wil overgaan, of door de huwelijksambtenaar, die hij mondeling of schriftelijk tot het doen van die mededeling heeft gemachtigd.
 
-- Is het voornemen overeenkomstig het vorige lid medegedeeld, dan wordt de erkenning in het door de ambtenaar van de burgerlijke stand te verstrekken formulier opgenomen.
+2. Is het voornemen overeenkomstig het vorige lid medegedeeld, dan wordt de erkenning in het door de ambtenaar van de burgerlijke stand te verstrekken formulier opgenomen.
 
 > 109 Ingev. bij G.B. 1973 no. 140 (zie S.B. 2003 no. 44).
 
@@ -1503,37 +1505,37 @@ b. op de plaats en ten overstaan van de huwelijksambtenaar, die door of namens d
 
 ##### Artikel 135f112
 
-- Een huwelijjk wordt ten overstaan van een huwelijksambtenaar voltrokken in overeenstemming  met  de  leer,  de  reglementen  of  de  gebruiken  van  de  godsdienstige gemeenschap, waartoe hij blijkens zijn inschrijving in het centraal register behoort.
+1. Een huwelijjk wordt ten overstaan van een huwelijksambtenaar voltrokken in overeenstemming met de leer, de reglementen of de gebruiken van de godsdienstige gemeenschap, waartoe hij blijkens zijn inschrijving in het centraal register behoort.
 
-- Verzuim van vormen, volgens de in het vorige lid bedoelde leer, reglementen of gebruiken vereist, levert geen grond voor nietigverklaring van het huwelijk op.
+2. Verzuim van vormen, volgens de in het vorige lid bedoelde leer, reglementen of gebruiken vereist, levert geen grond voor nietigverklaring van het huwelijk op.
 
 ##### Artikel 135g113
 
-- Wanneer een huwelijk overeenkomstig artikel 135f is voltrokken, wordt de huwelijksakte opgemaakt  door  dagtekening  en  ondertekening  van  de  drie  exemplaren  van  het  door  de ambtenaar van de burgerlijke stand verstrekte formulier, nadat de nog op te nemen nadere gegevens op de daarvoor bestemde plaats in het stuk zijn vermeld.
+1. Wanneer een huwelijk overeenkomstig artikel 135f is voltrokken, wordt de huwelijksakte opgemaakt door dagtekening en ondertekening van de drie exemplaren van het door de ambtenaar van de burgerlijke stand verstrekte formulier, nadat de nog op te nemen nadere gegevens op de daarvoor bestemde plaats in het stuk zijn vermeld.
 
-- De akte wordt, na voorlezing, ondertekend door beide partijen, de huwelijksambtenaar en degene, die de godsdienstige plechtigheid bij de voltrekking heeft geleid. Is deze laatste tevens de huwelijksambtenaar, dan wordt de akte tweemaal door hem ondertekend.
+2. De akte wordt, na voorlezing, ondertekend door beide partijen, de huwelijksambtenaar en degene, die de godsdienstige plechtigheid bij de voltrekking heeft geleid. Is deze laatste tevens de huwelijksambtenaar, dan wordt de akte tweemaal door hem ondertekend.
 
-- Indien één der partijen niet kan ondertekenen, wordt de oorzaak van het beletsel aan de voet van de akte vermeld.
+3. Indien één der partijen niet kan ondertekenen, wordt de oorzaak van het beletsel aan de voet van de akte vermeld.
 
 ##### Artikel 135h114
 
-- De overeenkomstig artikel 135g op te maken huwelijksakte vermeldt, wat zij zou moeten vermelden,  wanneer  het  huwelijk  zonder  toepassing  van  artikel  135  was  voltrokken, behoudens de afwijkingen, die onmiddellijk voortvloeien uit het feit, dat de voltrekking ten overstaan van een huwelijksambtenaar is geschied.
+1. De overeenkomstig artikel 135g op te maken huwelijksakte vermeldt, wat zij zou moeten vermelden, wanneer het huwelijk zonder toepassing van artikel 135 was voltrokken, behoudens de afwijkingen, die onmiddellijk voortvloeien uit het feit, dat de voltrekking ten overstaan van een huwelijksambtenaar is geschied.
 
-- In de op te maken huwelijksakte moet in elk geval:
+2. In de op te maken huwelijksakte moet in elk geval:
 
-- tevens  melding  worden  gemaakt  van  de  plaats  van  voltrekking  en  van  de  naam  en voornamen  van  de  huwelijksambtenaar,  alsmede  van  de  godsdienstige  gemeenschap, waartoe hij blijkens zijn inschrijving in het centraal register behoort;
+a. tevens melding worden gemaakt van de plaats van voltrekking en van de naam en voornamen van de huwelijksambtenaar, alsmede van de godsdienstige gemeenschap, waartoe hij blijkens zijn inschrijving in het centraal register behoort;
 
-- in plaats van de uitspraak, in artikel 37 eerste lid onder 7° bedoeld, de verklaring worden opgenomen, dat het huwelijk in overeenstemming met artikel 135f is voltrokken;
+b. in plaats van de uitspraak, in artikel 37 eerste lid onder 7° bedoeld, de verklaring worden opgenomen, dat het huwelijk in overeenstemming met artikel 135f is voltrokken;
 
-- in plaats van de gegevens omtrent de getuigen, in artikel 37 eerste lid onder 8° bedoeld, melding worden gemaakt van de naam, de voornamen, de leeftijd van degene, die de godsdienstige plechtigheid bij de voltrekking heeft geleid, en door wie - naast partijen en de huwelijksambtenaar - de akte mede ondertekend.
+c. in plaats van de gegevens omtrent de getuigen, in artikel 37 eerste lid onder 8° bedoeld, melding worden gemaakt van de naam, de voornamen, de leeftijd van degene, die de godsdienstige plechtigheid bij de voltrekking heeft geleid, en door wie – naast partijen en de huwelijksambtenaar – de akte mede ondertekend.
 
-- Behoudens  het  in  artikel  135c  lid  3  bepaalde,  wordt  in  het  formulier,  zoals  dat  door  de ambtenaar van de burgerlijke stand is verstrekt, niets doorgehaald of uitgewist.
+3. Behoudens het in artikel 135c lid 3 bepaalde, wordt in het formulier, zoals dat door de ambtenaar van de burgerlijke stand is verstrekt, niets doorgehaald of uitgewist.
 
-- Wanneer een huwelijk met machtiging, als in artikel 135c lid 4 bedoeld, is voltrokken, ten overstaan van een andere huwelijksambtenaar dan in het formulier aangegeven, of wanneer enige  andere  aanvulling  of  wijziging  van  het  daarin  gestelde  nodig  is,  worden  de  juiste gegevens aan de voet van de akte opgenomen; in geval van een machtiging, als hier bedoeld, wordt tevens vermeld, door wie en wanneer zij is verleend.
+4. Wanneer een huwelijk met machtiging, als in artikel 135c lid 4 bedoeld, is voltrokken, ten overstaan van een andere huwelijksambtenaar dan in het formulier aangegeven, of wanneer enige andere aanvulling of wijziging van het daarin gestelde nodig is, worden de juiste gegevens aan de voet van de akte opgenomen; in geval van een machtiging, als hier bedoeld, wordt tevens vermeld, door wie en wanneer zij is verleend.
 
 ##### Artikel 135i115
 
-- De huwelijksambtenaar, ten overstaan van wie het huwelijk is voltrokken, overhandigt twee exemplaren van de huwelijksakte, behoorlijk ingevuld en ondertekend en in ongeschonden staat,  aan  de  ambtenaar  van  de  burgerlijke  stand  binnen  een  bepaalde  termijn,  nadat  de
+1. De huwelijksambtenaar, ten overstaan van wie het huwelijk is voltrokken, overhandigt twee exemplaren van de huwelijksakte, behoorlijk ingevuld en ondertekend en in ongeschonden staat, aan de ambtenaar van de burgerlijke stand binnen een bepaalde termijn, nadat de
 
 > 112 Ingev. bij G.B 1973 no. 140 (zie S.B. 2003 no. 44).
 
@@ -1549,43 +1551,43 @@ b. op de plaats en ten overstaan van de huwelijksambtenaar, die door of namens d
 
 [[START OF PAGE 33]]
 
-- voltrekking van het huwelijk heeft plaatsgehad.
+voltrekking van het huwelijk heeft plaatsgehad.
 
-- De in het vorige lid bedoelde termijn bedraagt:
+2. De in het vorige lid bedoelde termijn bedraagt:
 
-- drie dagen voor huwelijken, in Paramaribo voltrokken;
+a. drie dagen voor huwelijken, in Paramaribo voltrokken;
 
-- vijf dagen voor huwelijken, in het district Suriname voltrokken;
+b. vijf dagen voor huwelijken, in het district Suriname voltrokken;
 
-- tien dagen voor huwelijken, elders in Suriname voltrokken.
+c. tien dagen voor huwelijken, elders in Suriname voltrokken.
 
-- Na de overhandiging van de huwelijksakte wordt deze onverwijld overgeschreven in een daarvoor bestemd deel van het op de standplaats van de ambtenaar van de burgerlijke stand aangelegde  register  van  huwelijken,  alsmede  van  het  dubbel,  dat  van  dat  register  wordt aangehouden.
+3. Na de overhandiging van de huwelijksakte wordt deze onverwijld overgeschreven in een daarvoor bestemd deel van het op de standplaats van de ambtenaar van de burgerlijke stand aangelegde register van huwelijken, alsmede van het dubbel, dat van dat register wordt aangehouden.
 
-- Een van de beide overhandigde exemplaren van de huwelijksakte wordt aan het register van huwelijken gehecht; het tweede exemplaar wordt - zo nodig na aanvulling of verbetering overeenkomstig artikel 135j - aan de echtgenoten toegezonden, met vermelding van het feit van de overschrijving in het register van huwelijken.
+4. Een van de beide overhandigde exemplaren van de huwelijksakte wordt aan het register van huwelijken gehecht; het tweede exemplaar wordt – zo nodig na aanvulling of verbetering overeenkomstig artikel 135j – aan de echtgenoten toegezonden, met vermelding van het feit van de overschrijving in het register van huwelijken.
 
-- Het derde exemplaar van de huwelijksakte wordt door de huwelijksambtenaar bewaard. Door de President kunnen omtrent de wijze van bewaring en omtrent de overbrenging, na verloop van tijd, naar een openbaar archief, voorschriften worden gegeven.
+5. Het derde exemplaar van de huwelijksakte wordt door de huwelijksambtenaar bewaard. Door de President kunnen omtrent de wijze van bewaring en omtrent de overbrenging, na verloop van tijd, naar een openbaar archief, voorschriften worden gegeven.
 
 ##### Artikel 135j116
 
-- Wanneer  de  ambtenaar  van  de  burgerlijke  stand  vaststelt,  dat  de  huwelijksakte  niet  in overeenstemming  met  de  artikelen  135g  en  135h  is  opgemaakt,  of  dat  de  akte  van  een overeenkomstig artikel 135f voltrokken huwelijk geheel ontbreekt, wendt hij zich tot de kantonrechter van zijn standplaats met een verzoek om aanvulling of verbetering van het register van huwelijken.
+1. Wanneer de ambtenaar van de burgerlijke stand vaststelt, dat de huwelijksakte niet in overeenstemming met de artikelen 135g en 135h is opgemaakt, of dat de akte van een overeenkomstig artikel 135f voltrokken huwelijk geheel ontbreekt, wendt hij zich tot de kantonrechter van zijn standplaats met een verzoek om aanvulling of verbetering van het register van huwelijken.
 
-- De  kantonrechter  beslist  na  zowel  de  echtgenoten  als  de  huwelijksambtenaar  in  de gelegenheid  te  hebben  gesteld  mogelijke  bezwaren  tegen  de  gevraagde  aanvulling  of verbetering in te brengen. Desgeraden hoort hij getuigen of deskundigen, die hij op een door hem te bepalen wijze door de griffier doet oproepen.
+2. De kantonrechter beslist na zowel de echtgenoten als de huwelijksambtenaar in de gelegenheid te hebben gesteld mogelijke bezwaren tegen de gevraagde aanvulling of verbetering in te brengen. Desgeraden hoort hij getuigen of deskundigen, die hij op een door hem te bepalen wijze door de griffier doet oproepen.
 
-- De huwelijksambtenaar wordt tot vergoeding van kosten, schaden en interessen veroordeeld, wanneer de aanvulling of verbetering nodig is voor herstel van een aan hem te wijten verzuim. Tenuitvoerlegging geschiedt op last van het openbaar ministerie.
+3. De huwelijksambtenaar wordt tot vergoeding van kosten, schaden en interessen veroordeeld, wanneer de aanvulling of verbetering nodig is voor herstel van een aan hem te wijten verzuim. Tenuitvoerlegging geschiedt op last van het openbaar ministerie.
 
-- Artikel 715 van het Surinaams Wetboek van Burgerlijke Rechtsvordering en artikel 67 van dit wetboek vinden overeenkomstig toepassing; met dien verstande, dat hoger beroep mede voor de beide echtgenoten en de huwelijksambtenaar openstaat.
+4. Artikel 715 van het Surinaams Wetboek van Burgerlijke Rechtsvordering en artikel 67 van dit wetboek vinden overeenkomstig toepassing; met dien verstande, dat hoger beroep mede voor de beide echtgenoten en de huwelijksambtenaar openstaat.
 
 ##### Artikel 135k117
 
-Artikel  127  vindt  overeenkomstige  toepassing  in  gevallen,  waarin  de  ambtenaar  van  de burgerlijke stand weigert of nalaat:
+Artikel 127 vindt overeenkomstige toepassing in gevallen, waarin de ambtenaar van de burgerlijke stand weigert of nalaat:
 
-- hetzij om het verlangde gevolg te geven aan een verklaring overeenkomstig artikel 135 afgelegd,  aan  een  verzoek  als  in  artikel  135a  lid  1  bedoeld,  aan  een  kennisgeving overeenkomstig artikel 135c gedaan, of aan een mededeling ingevolge artikel 135 e gedaan;
+a. hetzij om het verlangde gevolg te geven aan een verklaring overeenkomstig artikel 135 afgelegd, aan een verzoek als in artikel 135a lid 1 bedoeld, aan een kennisgeving overeenkomstig artikel 135c gedaan, of aan een mededeling ingevolge artikel 135e gedaan;
 
-- hetzij om, na ontvangst van de huwelijksakte, te handelen, zoals in de artikelen 135i en 135j is voorgeschreven.
+b. hetzij om, na ontvangst van de huwelijksakte, te handelen, zoals in de artikelen 135i en 135j is voorgeschreven.
 
 ##### Artikel 135l118
 
-- Voor verrichtingen overeenkomstig de bepalingen van deze afdeling kan de huwelijksambtenaar van partijen een vergoeding, volgens een door de President vast te stellen tarief, vorderen.
+1. Voor verrichtingen overeenkomstig de bepalingen van deze afdeling kan de huwelijksambtenaar van partijen een vergoeding, volgens een door de President vast te stellen tarief, vorderen.
 
 > 116 Ingev. bij G.B. 1973 no. 140 (zie S.B. 2003 no. 44).
 
@@ -1599,7 +1601,7 @@ Artikel  127  vindt  overeenkomstige  toepassing  in  gevallen,  waarin  de  amb
 
 [[START OF PAGE 34]]
 
-- Van  landswege  kan  aan  de  huwelijksambtenaar  een  door  de  President  vast  te  stellen jaarlijkse vergoeding worden toegekend; deze vergoeding behoeft niet aan de huwelijksambtenaar te worden uitgekeerd over een jaar, waarin geen huwelijk ten overstaan van hem is voltrokken.
+2. Van landswege kan aan de huwelijksambtenaar een door de President vast te stellen jaarlijkse vergoeding worden toegekend; deze vergoeding behoeft niet aan de huwelijksambtenaar te worden uitgekeerd over een jaar, waarin geen huwelijk ten overstaan van hem is voltrokken.
 
 #### VIJFDE AFDELING
 
@@ -1676,9 +1678,9 @@ De  nietigheid  van  een  huwelijk,  hetwelk  niet  door  de  bevoegde  ambtenaa
 
 > 120 Gew. bij G.B. 1972 no. 60, S.B. 1977 no. 62.
 
-121
+> 121 Gew. bij G.B. 1972 no. 62, G.B. 1973 no. 140 (zie S.B. 2003 no. 44).
 
-> Gew. bij G.B. 1972 no. 62, G.B. 1973 no. 140 (zie S.B. 2003 no. 44). 122 Gew. bij G.B. 1973 no. 140 (zie S.B. 2003 no. 44).
+> 122 Gew. bij G.B. 1973 no. 140 (zie S.B. 2003 no. 44).
 
 35
 
@@ -1720,9 +1722,11 @@ De nietigheid van een huwelijk kan aan de rechten van derden geen nadeel toebren
 
 ##### Artikel 152124
 
-- Geen huwelijk is nietig ingeval van overtreding van een der artikelen 87, 105 en 128.
+1. Geen huwelijk is nietig ingeval van overtreding van een der artikelen 87, 105 en 128.
 
-> 123 Gew. bij G.B. 1972 no. 60. 124 Gew. bij G.B. 1973 no. 140 (zie S.B. 2003 no. 44).
+> 123 Gew. bij G.B. 1972 no. 60.
+
+> 124 Gew. bij G.B. 1973 no. 140 (zie S.B. 2003 no. 44).
 
 36
 
@@ -1730,11 +1734,11 @@ De nietigheid van een huwelijk kan aan de rechten van derden geen nadeel toebren
 
 [[START OF PAGE 37]]
 
-- Evenmin is een huwelijk nietig in gevallen, waarin de voltrekking is geschied:
+2. Evenmin is een huwelijk nietig in gevallen, waarin de voltrekking is geschied:
 
-- hetzij binnen de termijn van drie maanden, in artikel 93 lid 4 voorzien;
+a. hetzij binnen de termijn van drie maanden, in artikel 93 lid 4 voorzien;
 
-- hetzij op een andere dan een wettelijk voorgeschreven plaats.
+b. hetzij op een andere dan een wettelijk voorgeschreven plaats.
 
 ##### Artikel 152a 125
 
@@ -1781,37 +1785,37 @@ Echtgenoten zijn jegens elkaar verplicht hun kinderen te verzorgen en op te voed
 
 [[START OF PAGE 38]]
 
-- Echtgenoten zijn jegens elkaar tot samenwoning verplicht, tenzij gewichtige redenen zich daartegen verzetten.
+1. Echtgenoten zijn jegens elkaar tot samenwoning verplicht, tenzij gewichtige redenen zich daartegen verzetten.
 
-- De plaats van de samenwoning wordt in onderling overleg vastgesteld.
+2. De plaats van de samenwoning wordt in onderling overleg vastgesteld.
 
-- Staat een van de echtgenoten onder curatele of kan of wil hij zich omtrent de plaats van de samenwoning  niet  verklaren,  dan  bepaalt  de  andere  echtgenoot  de  plaats  van  de samenwoning.
+3. Staat een van de echtgenoten onder curatele of kan of wil hij zich omtrent de plaats van de samenwoning niet verklaren, dan bepaalt de andere echtgenoot de plaats van de samenwoning.
 
-- Geschillen tussen de echtgenoten omtrent een en ander worden door de kantonrechter op verzoek van beiden of van een van hen beslist.
+4. Geschillen tussen de echtgenoten omtrent een en ander worden door de kantonrechter op verzoek van beiden of van een van hen beslist.
 
 ##### Artikel 159
 
-- De  kosten  van  de  huishouding,  daaronder  begrepen  de  kosten  van  de  verzorging  en opvoeding van de kinderen, komen ten laste van het gemene inkomen der echtgenoten en, voor zover dit ontoereikend is, ten laste van hun eigen inkomens in evenredigheid daarvan; voor zover de inkomens ontoereikend zijn, komen deze kosten ten laste van het gemene vermogen en, voor zover ook dit ontoereikend is, ten laste van de eigen vermogens naar evenredigheid daarvan. Een en ander geldt niet, voor zover bijzondere omstandigheden zich er tegen verzetten.
+1. De kosten van de huishouding, daaronder begrepen de kosten van de verzorging en opvoeding van de kinderen, komen ten laste van het gemene inkomen der echtgenoten en, voor zover dit ontoereikend is, ten laste van hun eigen inkomens in evenredigheid daarvan; voor zover de inkomens ontoereikend zijn, komen deze kosten ten laste van het gemene vermogen en, voor zover ook dit ontoereikend is, ten laste van de eigen vermogens naar evenredigheid daarvan. Een en ander geldt niet, voor zover bijzondere omstandigheden zich er tegen verzetten.
 
-- De echtgenoten zijn jegens elkaar verplicht dienovereenkomstig tot de bestrijding van de in het eerste lid bedoelde uitgaven bij te dragen, voorzover bijzondere omstandigheden zich daarentegen niet verzetten.
+2. De echtgenoten zijn jegens elkaar verplicht dienovereenkomstig tot de bestrijding van de in het eerste lid bedoelde uitgaven bij te dragen, voorzover bijzondere omstandigheden zich daarentegen niet verzetten.
 
-- Bij  huwelijkse  voorwaarden  kan  een  van  de  vorige  leden  afwijkende  regeling  worden getroffen.
+3. Bij huwelijkse voorwaarden kan een van de vorige leden afwijkende regeling worden getroffen.
 
-- Geschillen tussen de echtgenoten omtrent de toepassing van de vorige leden worden door de kantonrechter op verzoek van beiden of van een van hen beslist.
+4. Geschillen tussen de echtgenoten omtrent de toepassing van de vorige leden worden door de kantonrechter op verzoek van beiden of van een van hen beslist.
 
-- Op  verzoek  van  beide  of  van  een  der  echtgenoten  kan  de  kantonrechter  een  gegeven beschikking of een bij huwelijkse voorwaarden getroffen regeling wijzigen op grond van veranderde omstandigheden.
+5. Op verzoek van beide of van een der echtgenoten kan de kantonrechter een gegeven beschikking of een bij huwelijkse voorwaarden getroffen regeling wijzigen op grond van veranderde omstandigheden.
 
-- Wanneer de echtgenoten niet samenwonen en dit te wijten is aan onredelijk gedrag van een der echtgenoten, treedt voor de in het tweede lid omschreven verplichtingen in de plaats de verplichting  van  die  echtgenoot  om  aan  de  andere  echtgenoot  een  bedrag  voor  diens levensonderhoud uit te keren, onverminderd beider verplichting om bij te dragen in de kosten van verzorging en opvoeding van de kinderen. Bij het vaststellen van de uitkering wordt  het  bestaan  van  een  regeling  als  in  het  derde  lid  bedoeld  mede  in  aanmerking genomen.
+6. Wanneer de echtgenoten niet samenwonen en dit te wijten is aan onredelijk gedrag van een der echtgenoten, treedt voor de in het tweede lid omschreven verplichtingen in de plaats de verplichting van die echtgenoot om aan de andere echtgenoot een bedrag voor diens levensonderhoud uit te keren, onverminderd beider verplichting om bij te dragen in de kosten van verzorging en opvoeding van de kinderen. Bij het vaststellen van de uitkering wordt het bestaan van een regeling als in het derde lid bedoeld mede in aanmerking genomen.
 
 ##### Artikel 160
 
-- De ene echtgenoot is naast de andere voor het geheel aansprakelijk voor de door deze ten behoeve van de gewone gang van de huishouding aangegane verbintenissen, met inbegrip van die welke voortvloeien uit de door hem als werkgever ten behoeve van de huishouding aangegane arbeidsovereenkomsten.
+1. De ene echtgenoot is naast de andere voor het geheel aansprakelijk voor de door deze ten behoeve van de gewone gang van de huishouding aangegane verbintenissen, met inbegrip van die welke voortvloeien uit de door hem als werkgever ten behoeve van de huishouding aangegane arbeidsovereenkomsten.
 
-- In  onderling  overleg  bepalen  de  echtgenoten,  die  tezamen  wonen,  wie  van  hen  met  de huishouding zal zijn belast. De niet met de huishouding belaste echtgenoot is verplicht om de andere echtgenoot voldoende gelden ter beschikking te stellen ten behoeve van de gewone gang van de huishouding. Wonen de echtgenoten in onderling overleg of wegens gewichtige redenen  niet  samen,  dan  moet  de  ene  echtgenoot  aan  de  andere,  voldoende  gelden  ter beschikking stellen ten behoeve van de gewone gang van diens huishouding.
+2. In onderling overleg bepalen de echtgenoten, die tezamen wonen, wie van hen met de huishouding zal zijn belast. De niet met de huishouding belaste echtgenoot is verplicht om de andere echtgenoot voldoende gelden ter beschikking te stellen ten behoeve van de gewone gang van de huishouding. Wonen de echtgenoten in onderling overleg of wegens gewichtige redenen niet samen, dan moet de ene echtgenoot aan de andere, voldoende gelden ter beschikking stellen ten behoeve van de gewone gang van diens huishouding.
 
-- De ene echtgenoot mag daarbij rekening houden met het bedrag dat de andere echtgenoot voor dit doel dient te bestemmen.
+3. De ene echtgenoot mag daarbij rekening houden met het bedrag dat de andere echtgenoot voor dit doel dient te bestemmen.
 
-- Geschillen tussen de echtgenoten omtrent een en ander worden door de kantonrechter op verzoek van beiden of van een van hen beslist. Op gelijke wijze als zij is tot stand gekomen
+4. Geschillen tussen de echtgenoten omtrent een en ander worden door de kantonrechter op verzoek van beiden of van een van hen beslist. Op gelijke wijze als zij is tot stand gekomen
 
 38
 
@@ -1823,35 +1827,35 @@ kan bij veranderde omstandigheden een gegeven beschikking worden gewijzigd.
 
 ##### Artikel 161
 
-- De kantonrechter kan, wanneer daartoe gegronde redenen bestaan, op verzoek van een echtgenoot bepalen dat deze niet aansprakelijk zal zijn voor de in het eerste lid van het vorig artikel  bedoelde  verbintenissen,  die  in  het  vervolg  door  de  andere  echtgenoot  worden aangegaan.
+1. De kantonrechter kan, wanneer daartoe gegronde redenen bestaan, op verzoek van een echtgenoot bepalen dat deze niet aansprakelijk zal zijn voor de in het eerste lid van het vorig artikel bedoelde verbintenissen, die in het vervolg door de andere echtgenoot worden aangegaan.
 
-- Wordt een zodanig verzoek van die echtgenoot toegewezen dan kan de kantonrechter tevens bepalen dat die echtgenoot niet meer verplicht is aan de andere echtgenoot overeenkomstig het tweede lid van het vorig artikel gelden ter beschikking te stellen.
+Wordt een zodanig verzoek van die echtgenoot toegewezen dan kan de kantonrechter tevens bepalen dat die echtgenoot niet meer verplicht is aan de andere echtgenoot overeenkomstig het tweede lid van het vorig artikel gelden ter beschikking te stellen.
 
-- Een overeenkomstig  het  vorig  lid  gegeven  rechterlijke  beschikking  kan  bij  veranderde omstandigheden  op  gelijke  wijze  als  zij  is  tot  stand  gekomen,  worden  gewijzigd  of opgeheven.
+2. Een overeenkomstig het vorig lid gegeven rechterlijke beschikking kan bij veranderde omstandigheden op gelijke wijze als zij is tot stand gekomen, worden gewijzigd of opgeheven.
 
-- De  beschikking  kan  aan  derden  die  van  haar  bestaan  onkundig  waren,  slechts  worden tegengeworpen, indien zij ingeschreven was in het huwelijksgoederenregister, aangewezen in artikel 192 van dit boek en na de inschrijving veertien dagen waren verlopen.
+3. De beschikking kan aan derden die van haar bestaan onkundig waren, slechts worden tegengeworpen, indien zij ingeschreven was in het huwelijksgoederenregister, aangewezen in artikel 192 van dit boek en na de inschrijving veertien dagen waren verlopen.
 
-- In de beschikking kan worden bepaald dat zij bovendien moet worden bekend gemaakt in het Gouvernements-Advertentieblad en in een of meer door de kantonrechter aangewezen dagbladen. In dat geval werkt de beschikking ten nadele van derden die daarvan onkundig waren, ook niet voor deze bekendmaking.
+4. In de beschikking kan worden bepaald dat zij bovendien moet worden bekend gemaakt in het Gouvernements-Advertentieblad en in een of meer door de kantonrechter aangewezen dagbladen. In dat geval werkt de beschikking ten nadele van derden die daarvan onkundig waren, ook niet voor deze bekendmaking.
 
 ##### Artikel 162
 
-- Indien echtgenoten een gemeenschappelijke huishouding hebben kan de ene echtgenoot slechts met medewerking van de andere echtgenoot zaken die kennelijk ten behoeve van de huishouding  strekken  op  afbetaling  kopen;  beide  echtgenoten  zijn  voor  het  geheel aansprakelijk.
+1. Indien echtgenoten een gemeenschappelijke huishouding hebben kan de ene echtgenoot slechts met medewerking van de andere echtgenoot zaken die kennelijk ten behoeve van de huishouding strekken op afbetaling kopen; beide echtgenoten zijn voor het geheel aansprakelijk.
 
-- Betreft  het  een  overeenkomst  die  schriftelijk  moet  worden  aangegaan,  en  werkt  een echtgenoot niet zelf tot de akte mede, dan is diens schriftelijke volmacht vereist.
+Betreft het een overeenkomst die schriftelijk moet worden aangegaan, en werkt een echtgenoot niet zelf tot de akte mede, dan is diens schriftelijke volmacht vereist.
 
-- Indien een echtgenoot afwezig is, in de mogelijkheid verkeert zijn wil te verklaren of zijn medewerking weigert, kan de kantonrechter de andere echtgenoot op diens verzoek tot het aangaan van een koop op afbetaling machtigen.
+2. Indien een echtgenoot afwezig is, in de mogelijkheid verkeert zijn wil te verklaren of zijn medewerking weigert, kan de kantonrechter de andere echtgenoot op diens verzoek tot het aangaan van een koop op afbetaling machtigen.
 
 ##### Artikel 163
 
-- Een  echtgenoot  behoeft  de  toestemming  van  de  andere  echtgenoot  voor  de  volgende rechtshandelingen:
+1. Een echtgenoot behoeft de toestemming van de andere echtgenoot voor de volgende rechtshandelingen:
 
-- overeenkomsten tot vervreemding, bezwaring of ingebruikgeving en handelingen tot beëindiging van het gebruik van een door de echtgenoten tezamen of door de andere echtgenoot alleen bewoonde woning of van zaken die bij een zodanige woning of tot de inboedel daarvan behoren. Onder inboedel wordt hier verstaan het gehele huisraad en de tot stoffering en meubilering van de woning dienende roerende zaken, met uitzondering van boeken en verzamelingen van voorwerpen van kunst, wetenschap of geschiedkundige aard;
+a. overeenkomsten tot vervreemding, bezwaring of ingebruikgeving en handelingen tot beëindiging van het gebruik van een door de echtgenoten tezamen of door de andere echtgenoot alleen bewoonde woning of van zaken die bij een zodanige woning of tot de inboedel daarvan behoren. Onder inboedel wordt hier verstaan het gehele huisraad en de tot stoffering en meubilering van de woning dienende roerende zaken, met uitzondering van boeken en verzamelingen van voorwerpen van kunst, wetenschap of geschiedkundige aard;
 
-- giften, met uitzondering van de gebruikelijke, niet-bovenmatige;
+b. giften, met uitzondering van de gebruikelijke, niet-bovenmatige;
 
-- overeenkomsten waarbij een der echtgenoten anders dan in de uitoefening van een beroep of bedrijf, zich als borg of hoofdelijk medeschuldenaar verbindt, zich voor een derde sterk maakt, of zich tot zekerheidstelling voor een schuld van een derde verbindt.
+c. overeenkomsten waarbij een der echtgenoten anders dan in de uitoefening van een beroep of bedrijf, zich als borg of hoofdelijk medeschuldenaar verbindt, zich voor een derde sterk maakt, of zich tot zekerheidstelling voor een schuld van een derde verbindt.
 
-- Is de andere echtgenoot afwezig of in de onmogelijkheid zijn wil te verklaren of weigert hij zijn toestemming, dan kan de beslissing van de kantonrechter worden ingeroepen.
+2. Is de andere echtgenoot afwezig of in de onmogelijkheid zijn wil te verklaren of weigert hij zijn toestemming, dan kan de beslissing van de kantonrechter worden ingeroepen.
 
 39
 
@@ -1861,23 +1865,21 @@ kan bij veranderde omstandigheden een gegeven beschikking worden gewijzigd.
 
 ##### Artikel 164
 
-- Heeft een echtgenoot een rechtshandeling in strijd met het vorige artikel verricht dan kan de andere echtgenoot haar door een tot de wederpartij bij die behandeling gerichte verklaring vernietigen en de uit die nietigheid voortvloeiende rechtsvorderingen instellen.
+1. Heeft een echtgenoot een rechtshandeling in strijd met het vorige artikel verricht dan kan de andere echtgenoot haar door een tot de wederpartij bij die behandeling gerichte verklaring vernietigen en de uit die nietigheid voortvloeiende rechtsvorderingen instellen.
 
-- De bevoegdheid van de andere echtgenoot tot vernietiging van de handeling vervalt na verloop van een hem door een onmiddellijk belanghebbende daartoe gestelde redelijke termijn, en in ieder geval een jaar nadat de handeling te zijner kennis is gekomen.
+2. De bevoegdheid van de andere echtgenoot tot vernietiging van de handeling vervalt na verloop van een hem door een onmiddellijk belanghebbende daartoe gestelde redelijke termijn, en in ieder geval een jaar nadat de handeling te zijner kennis is gekomen.
 
 ##### Artikel 165
 
-- Wanneer een der echtgenoten door afwezigheid of een andere oorzaak in de onmogelijkheid verkeert zijn goederen te besturen, of in ernstige mate tekort schiet in het bestuur van de goederen van de gemeenschap, kan de kantonrechter op verzoek van de andere echtgenoot aan  deze  het  bestuur  over  die  goederen  of  een  deel  daarvan  met  uitsluiting  van eerstgenoemde echtgenoot opdragen.
+1. Wanneer een der echtgenoten door afwezigheid of een andere oorzaak in de onmogelijkheid verkeert zijn goederen te besturen, of in ernstige mate tekort schiet in het bestuur van de goederen van de gemeenschap, kan de kantonrechter op verzoek van de andere echtgenoot aan deze het bestuur over die goederen of een deel daarvan met uitsluiting van eerstgenoemde echtgenoot opdragen.
 
 De rechter beslist niet dan na verhoor of behoorlijke oproep van beide echtgenoten en, zo eerstgenoemde een vertegenwoordiger heeft aangesteld, ook van deze. De rechter kan bij de opdracht nadere regelen stellen omtrent het bestuur.
 
-- Artikel 161, leden 2-4 van dit boek is van overeenkomstige toepassing.
+2. Artikel 161, leden 2-4 van dit boek is van overeenkomstige toepassing.
 
 ##### Artikel 166
 
-Wanneer de ene echtgenoot het bestuur van zijn goederen aan de andere overlaat, of wanneer de rechter het bestuur van die goederen aan de andere echtgenoot heeft opgedragen, is laatstgenoemde  als  een  lasthebber  voor  het  door  hem  gevoerde  bestuur  aansprakelijk,  met inachtneming van de bijzondere verhoudin
-
-gen tussen de echtgenoten en de aard van de goederen.
+Wanneer de ene echtgenoot het bestuur van zijn goederen aan de andere overlaat, of wanneer de rechter het bestuur van die goederen aan de andere echtgenoot heeft opgedragen, is laatstgenoemde als een lasthebber voor het door hem gevoerde bestuur aansprakelijk, met inachtneming van de bijzondere verhoudingen tussen de echtgenoten en de aard van de goederen.
 
 ##### Artikel 167
 
@@ -1897,9 +1899,9 @@ Vanaf het ogenblik van voltrekking van het huwelijk bestaat tussen de echtgenote
 
 ##### Artikel 169
 
-- De gemeenschap omvat, wat haar baten betreft, alle tegenwoordige en toekomstige goederen der  echtgenoten,  met  uitzondering  van  goederen  ten  aanzien  waarvan  bij  uiterste wilsbeschikking van de erflater of bij de gift is bepaald dat zij buiten de gemeenschap vallen.
+1. De gemeenschap omvat, wat haar baten betreft, alle tegenwoordige en toekomstige goederen der echtgenoten, met uitzondering van goederen ten aanzien waarvan bij uiterste wilsbeschikking van de erflater of bij de gift is bepaald dat zij buiten de gemeenschap vallen.
 
-- Zij omvat, wat haar lasten betreft, alle schulden van ieder der echtgenoten, met uitzondering
+2. Zij omvat, wat haar lasten betreft, alle schulden van ieder der echtgenoten, met uitzondering
 
 > 127 Gew. bij S.B. 1981 no. 23.
 
@@ -1909,46 +1911,48 @@ Vanaf het ogenblik van voltrekking van het huwelijk bestaat tussen de echtgenote
 
 [[START OF PAGE 41]]
 
-- van schulden, die betrekking hebben op goederen ten aanzien waarvan door de erflater of schenker het beding van het vorige lid is gemaakt.
+van schulden, die betrekking hebben op goederen ten aanzien waarvan door de erflater of schenker het beding van het vorige lid is gemaakt.
 
-- Goederen en schulden die aan een der echtgenoten op enigerlei bijzondere wijze verknocht zijn, vallen slechts in de gemeenschap voor zover die verknochtheid zich hiertegen niet verzet.
+3. Goederen en schulden die aan een der echtgenoten op enigerlei bijzondere wijze verknocht zijn, vallen slechts in de gemeenschap voor zover die verknochtheid zich hiertegen niet verzet.
 
 ##### Artikel 170
 
-- Voor een schuld van een echtgenoot, die in de gemeenschap is gevallen, kunnen zowel de goederen van de gemeenschap als zijn eigen goederen worden uitgewonnen.
+1. Voor een schuld van een echtgenoot, die in de gemeenschap is gevallen, kunnen zowel de goederen van de gemeenschap als zijn eigen goederen worden uitgewonnen.
 
-- De echtgenoot uit wiens eigen goederen een schuld van de gemeenschap is voldaan, heeft deswege recht op vergoeding uit de goederen van de gemeenschap.
+2. De echtgenoot uit wiens eigen goederen een schuld van de gemeenschap is voldaan, heeft deswege recht op vergoeding uit de goederen van de gemeenschap.
 
 ##### Artikel 171
 
-- Ook voor een schuld van een echtgenoot, die niet in de gemeenschap is gevallen, kunnen de goederen van de gemeenschap worden uitgewonnen, tenzij de andere echtgenoot eigen goederen van eerstgenoemde aanwijst, die voldoende verhaal bieden. Goederen waarover een rechtsgeschil bestaat of die buiten Suriname zijn gelegen, komen niet voor aanwijzing in aanmerking.
+1. Ook voor een schuld van een echtgenoot, die niet in de gemeenschap is gevallen, kunnen de goederen van de gemeenschap worden uitgewonnen, tenzij de andere echtgenoot eigen goederen van eerstgenoemde aanwijst, die voldoende verhaal bieden. Goederen waarover een rechtsgeschil bestaat of die buiten Suriname zijn gelegen, komen niet voor aanwijzing in aanmerking.
 
-- De  echtgenoot  wiens  niet  in  de  gemeenschap  gevallen  schuld  uit  goederen  van  de gemeenschap is voldaan, is deswege gehouden tot vergoeding aan de gemeenschap.
+2. De echtgenoot wiens niet in de gemeenschap gevallen schuld uit goederen van de gemeenschap is voldaan, is deswege gehouden tot vergoeding aan de gemeenschap.
 
 #### AFDELING 2
 #### HET BESTUUR VAN DE GEMEENSCHAP
 
 ##### Artikel 172
 
-- Een goed van de gemeenschap staat onder het bestuur van ieder der echtgenoten, voorzover niet de echtgenoten bij huwelijkse voorwaarden anders zijn overeengekomen of de rechter met toepassing van artikel 165 anders heeft bepaald. Het bestuur houdt de bevoegdheid in om met betrekking tot dat goed daden van beheer en beschikking te verrichten.
+1. Een goed van de gemeenschap staat onder het bestuur van ieder der echtgenoten, voorzover niet de echtgenoten bij huwelijkse voorwaarden anders zijn overeengekomen of de rechter met toepassing van artikel 165 anders heeft bepaald. Het bestuur houdt de bevoegdheid in om met betrekking tot dat goed daden van beheer en beschikking te verrichten.
 
-- Nochthans behoeft de ene echtgenoot de medewerking van de andere echtgenoot voor de navolgende handelingen:
+2. Nochthans behoeft de ene echtgenoot de medewerking van de andere echtgenoot voor de navolgende handelingen:
 
-- vervreemding  of  bezwaring  van  zaken  die  tot  het  beroep  of  bedrijf  van  de  andere echtgenoot behoren;
+a. vervreemding of bezwaring van zaken die tot het beroep of bedrijf van de andere echtgenoot behoren;
 
-- vervreemding of bezwaring van vorderingen en aandelen, die niet aan toonder luiden en van rechten op voortbrengselen van de geest, een en ander voor zover die goederen van de zijde van de andere echtgenoot in de gemeenschap zijn gevallen of diens naam zijn gesteld;
+b. vervreemding of bezwaring van vorderingen en aandelen, die niet aan toonder luiden en van rechten op voortbrengselen van de geest, een en ander voor zover die goederen van de zijde van de andere echtgenoot in de gemeenschap zijn gevallen of diens naam zijn gesteld;
 
-- verwerping  van  een  aan  de  andere  echtgenoot  opgekomen  nalatenschap  of  legaat  of afstand van een van zijn zijde opgekomen aandeel in een huwelijksgemeenschap;
+c. verwerping van een aan de andere echtgenoot opgekomen nalatenschap of legaat of afstand van een van zijn zijde opgekomen aandeel in een huwelijksgemeenschap;
 
-- aantasting van makingen of schenkingen, wanneer zij aan het wettelijk erfdeel van de andere echtgenoot te kort doen;
+d. aantasting van makingen of schenkingen, wanneer zij aan het wettelijk erfdeel van de andere echtgenoot te kort doen;
 
-- verdeling van een boedel waarvan een aandeel aan de andere echtgenoot is opgekomen; f.   gelden door de andere echtgenoot bij een bank of giro-instelling geplaatst.
+e. verdeling van een boedel waarvan een aandeel aan de andere echtgenoot is opgekomen;
 
-- Voor vervreemding en bezwaring van andere registergoederen dan bedoeld in het tweede lid onder a van dit artikel, is steeds de medewerking van beide echtgenoten vereist, tenzij de ene echtgenoot daarvan zijn beroep of bedrijf maakt en de handeling geschiedt in de normale uitoefening van dat beroep of bedrijf.
+f. gelden door de andere echtgenoot bij een bank of giro-instelling geplaatst.
 
-- Onder registergoederen wordt verstaan goederen voor welker overdracht of vestiging een overschrijving of inschrijving in daartoe bestemde openbare registers noodzakelijk is.
+3. Voor vervreemding en bezwaring van andere registergoederen dan bedoeld in het tweede lid onder a van dit artikel, is steeds de medewerking van beide echtgenoten vereist, tenzij de ene echtgenoot daarvan zijn beroep of bedrijf maakt en de handeling geschiedt in de normale uitoefening van dat beroep of bedrijf.
 
-- Is de andere echtgenoot afwezig of in de onmogelijkheid zijn wil te verklaren of weigert hij zijn medewerking, dan kan de kantonrechter de ene echtgenoot op diens verzoek, na
+Onder registergoederen wordt verstaan goederen voor welker overdracht of vestiging een overschrijving of inschrijving in daartoe bestemde openbare registers noodzakelijk is.
+
+4. Is de andere echtgenoot afwezig of in de onmogelijkheid zijn wil te verklaren of weigert hij zijn medewerking, dan kan de kantonrechter de ene echtgenoot op diens verzoek, na
 
 41
 
@@ -1960,11 +1964,11 @@ verhoor of behoorlijke oproep van de andere echtgenoot tot zodanige handeling ma
 
 ##### Artikel 173
 
-- Heeft een echtgenoot een rechtshandeling in strijd met het vorige artikel verricht, dan kan de andere echtgenoot haar door een tot de wederpartij bij die handeling gerichte verklaring vernietigen en de uit de nietigheid voortvloeiende rechtsvorderingen instellen, tenzij de wederpartij te goeder trouw was en de rechtshandeling niet een gift was.
+1. Heeft een echtgenoot een rechtshandeling in strijd met het vorige artikel verricht, dan kan de andere echtgenoot haar door een tot de wederpartij bij die handeling gerichte verklaring vernietigen en de uit de nietigheid voortvloeiende rechtsvorderingen instellen, tenzij de wederpartij te goeder trouw was en de rechtshandeling niet een gift was.
 
-- Rechten door derden te goeder trouw anders dan om niet verkregen, worden nochthans geëerbiedigd.
+Rechten door derden te goeder trouw anders dan om niet verkregen, worden nochthans geëerbiedigd.
 
-- De bevoegdheid van de andere echtgenoot tot vernietiging van de handeling vervalt na verloop van een hem door een onmiddellijk belanghebbende daartoe gestelde redelijke termijn, en in ieder geval een jaar nadat de handeling te zijner kennis is gekomen.
+2. De bevoegdheid van de andere echtgenoot tot vernietiging van de handeling vervalt na verloop van een hem door een onmiddellijk belanghebbende daartoe gestelde redelijke termijn, en in ieder geval een jaar nadat de handeling te zijner kennis is gekomen.
 
 ##### Artikel 174
 
@@ -1977,19 +1981,19 @@ De ene echtgenoot is gehouden de andere echtgenoot in te lichten omtrent het doo
 
 De gemeenschap wordt van rechtswege ontbonden:
 
-- door het eindigen van het huwelijk;
+a. door het eindigen van het huwelijk;
 
-- door scheiding van tafel en bed;
+b. door scheiding van tafel en bed;
 
-- door een vonnis dat de gemeenschap opheft;
+c. door een vonnis dat de gemeenschap opheft;
 
-- door opheffing bij latere huwelijkse voorwaarden.
+d. door opheffing bij latere huwelijkse voorwaarden.
 
 ##### Artikel 176
 
-- Na de ontbinding van de gemeenschap wordt de gemene boedel bij helfte tussen de man en de vrouw of hun erfgenamen verdeeld.
+1. Na de ontbinding van de gemeenschap wordt de gemene boedel bij helfte tussen de man en de vrouw of hun erfgenamen verdeeld.
 
-- De regelen die zijn vastgesteld in de zestiende titel van het tweede boek, handelende van boedelscheiding, zijn op de verdeling toepasselijk.
+2. De regelen die zijn vastgesteld in de zestiende titel van het tweede boek, handelende van boedelscheiding, zijn op de verdeling toepasselijk.
 
 ##### Artikel 177
 
@@ -1997,9 +2001,11 @@ Na de ontbinding van de gemeenschap heeft ieder der echtgenoten de bevoegdheid d
 
 ##### Artikel 178
 
-- Na ontbinding van de gemeenschap blijft ieder der echtgenoten voor het geheel aansprakelijk voor de gemeenschapsschulden, waarvoor hij voordien aansprakelijk was. Voor andere schulden van de gemeenschap is hij voor de helft aansprakelijk.
+1. Na ontbinding van de gemeenschap blijft ieder der echtgenoten voor het geheel aansprakelijk voor de gemeenschapsschulden, waarvoor hij voordien aansprakelijk was.
 
-- De echtgenoot die een schuld van de gemeenschap voor meer dan de helft voldoet, heeft voor het meerdere verhaal tegen de andere echtgenoot.
+Voor andere schulden van de gemeenschap is hij voor de helft aansprakelijk.
+
+2. De echtgenoot die een schuld van de gemeenschap voor meer dan de helft voldoet, heeft voor het meerdere verhaal tegen de andere echtgenoot.
 
 42
 
@@ -2009,27 +2015,27 @@ Na de ontbinding van de gemeenschap heeft ieder der echtgenoten de bevoegdheid d
 
 ##### Artikel 179
 
-- Ieder der echtgenoten heeft het recht van de gemeenschap afstand te doen; alle daarmede strijdige overeenkomsten zijn nietig.
+1. Ieder der echtgenoten heeft het recht van de gemeenschap afstand te doen; alle daarmede strijdige overeenkomsten zijn nietig.
 
-- Het deel van de gemeenschap waarvan afstand wordt gedaan, wast aan bij het deel van de andere echtgenoot.
+2. Het deel van de gemeenschap waarvan afstand wordt gedaan, wast aan bij het deel van de andere echtgenoot.
 
-- De echtgenoot die de afstand heeft gedaan, kan uit de gemeenschap niets terugvorderen dan alleen  zijn  bed  met  bijbehorend  beddegoed  en  de  kleren  die  hij  voor  zijn  persoonlijk gebruik nodig heeft. Hij kan de papieren en gedenkstukken tot zijn familie behorende, tegen de geschatte prijs overnemen.
+3. De echtgenoot die de afstand heeft gedaan, kan uit de gemeenschap niets terugvorderen dan alleen zijn bed met bijbehorend beddegoed en de kleren die hij voor zijn persoonlijk gebruik nodig heeft. Hij kan de papieren en gedenkstukken tot zijn familie behorende, tegen de geschatte prijs overnemen.
 
-- Door deze afstand wordt hij ontheven van de aansprakelijkheid en de draagplicht voor schulden van de gemeenschap, waarvoor hij vóór de ontbinding van de gemeenschap niet aansprakelijk was.
+4. Door deze afstand wordt hij ontheven van de aansprakelijkheid en de draagplicht voor schulden van de gemeenschap, waarvoor hij vóór de ontbinding van de gemeenschap niet aansprakelijk was.
 
-- Hij  blijft  aansprakelijk  voor  de  schulden  van  de  gemeenschap  waarvoor  hij  vóór  de ontbinding van de gemeenschap aansprakelijk was. Indien hij een schuld, waarvoor beide echtgenoten vóór de ontbinding van de gemeenschap voor het geheel aansprakelijk waren, voor meer dan de helft heeft voldaan, heeft hij voor
+5. Hij blijft aansprakelijk voor de schulden van de gemeenschap waarvoor hij vóór de ontbinding van de gemeenschap aansprakelijk was.
 
-- het meerdere verhaal tegen de andere echtgenoot.
+Indien hij een schuld, waarvoor beide echtgenoten vóór de ontbinding van de gemeenschap voor het geheel aansprakelijk waren, voor meer dan de helft heeft voldaan, heeft hij voor het meerdere verhaal tegen de andere echtgenoot.
 
-- Indien  de  andere  echtgenoot  een  schuld  van  de  gemeenschap,  waarvoor  hij  vóór  de ontbinding van de gemeenschap niet aansprakelijk was, geheel of ten dele heeft voldaan, heeft hij deswege verhaal tegen de echtgenoot die de afstand heeft gedaan.
+6. Indien de andere echtgenoot een schuld van de gemeenschap, waarvoor hij vóór de ontbinding van de gemeenschap niet aansprakelijk was, geheel of ten dele heeft voldaan, heeft hij deswege verhaal tegen de echtgenoot die de afstand heeft gedaan.
 
-- Heeft hij een schuld, waarvoor beide echtgenoten vóór de ontbinding van de gemeenschap voor het geheel aansprakelijk waren, voor meer dan de helft voldaan, dan heeft hij voor het meerdere verhaal tegen de echtgenoot die de afstand heeft gedaan.
+Heeft hij een schuld, waarvoor beide echtgenoten vóór de ontbinding van de gemeenschap voor het geheel aansprakelijk waren, voor meer dan de helft voldaan, dan heeft hij voor het meerdere verhaal tegen de echtgenoot die de afstand heeft gedaan.
 
 ##### Artikel 180
 
-- De echtgenoot die van het bij het vorige artikel omschreven voorrecht wil gebruik maken, is verplicht binnen drie maanden na de ontbinding van de gemeenschap een akte van afstand te doen inschrijven in het huwelijksgoederenregister, aangewezen in artikel 192 van dit boek, op verbeurte van dit voorrecht.
+1. De echtgenoot die van het bij het vorige artikel omschreven voorrecht wil gebruik maken, is verplicht binnen drie maanden na de ontbinding van de gemeenschap een akte van afstand te doen inschrijven in het huwelijksgoederenregister, aangewezen in artikel 192 van dit boek, op verbeurte van dit voorrecht.
 
-- Indien de gemeenschap door de dood van de andere echtgenoot wordt ontbonden, begint de termijn van drie maanden te lopen op de dag waarop de echtgenoot die van het voorrecht wil gebruik maken, van dat overlijden kennis heeft genomen. Indien de gemeenschap door opheffing of door scheiding van tafel en bed is ontbonden, eindigt de termijn drie maanden nadat het vonnis in kracht van gewijsde is gegaan.
+2. Indien de gemeenschap door de dood van de andere echtgenoot wordt ontbonden, begint de termijn van drie maanden te lopen op de dag waarop de echtgenoot die van het voorrecht wil gebruik maken, van dat overlijden kennis heeft genomen. Indien de gemeenschap door opheffing of door scheiding van tafel en bed is ontbonden, eindigt de termijn drie maanden nadat het vonnis in kracht van gewijsde is gegaan.
 
 ##### Artikel 181
 
@@ -2041,7 +2047,7 @@ De kantonrechter van de plaats waar de akte van afstand moet worden ingeschreven
 
 ##### Artikel 183
 
-- De  echtgenoot  of  zijn  erfgenaam,  die  zich  de  goederen  van  de  gemeenschap  heeft aangetrokken of goederen daarvan heeft weggemaakt of verduisterd, kan geen afstand meer
+1. De echtgenoot of zijn erfgenaam, die zich de goederen van de gemeenschap heeft aangetrokken of goederen daarvan heeft weggemaakt of verduisterd, kan geen afstand meer
 
 43
 
@@ -2049,19 +2055,19 @@ De kantonrechter van de plaats waar de akte van afstand moet worden ingeschreven
 
 [[START OF PAGE 44]]
 
-- doen. Daden van dagelijks bestuur of tot behoud van de goederen brengen dit gevolg niet teweeg.
+doen. Daden van dagelijks bestuur of tot behoud van de goederen brengen dit gevolg niet teweeg.
 
-- Hij die na gedane afstand goederen van de gemeenschap wegmaakt of verduistert, verliest de bevoegdheid artikel 179, lid 4 van dit boek in te roepen.
+2. Hij die na gedane afstand goederen van de gemeenschap wegmaakt of verduistert, verliest de bevoegdheid artikel 179, lid 4 van dit boek in te roepen.
 
 ##### Artikel 184
 
-- Afstand van de gemeenschap, door een echtgenoot of een erfgenaam van een echtgenoot gedaan nadat door de andere echtgenoot of een of meer van diens erfgenamen afstand werd gedaan, heeft niet de gevolgen, omschreven in artikel 179, leden 2 en 3 van dit boek en verplicht hen die tot de gemeenschap gerechtigd zijn, haar te vereffenen.
+1. Afstand van de gemeenschap, door een echtgenoot of een erfgenaam van een echtgenoot gedaan nadat door de andere echtgenoot of een of meer van diens erfgenamen afstand werd gedaan, heeft niet de gevolgen, omschreven in artikel 179, leden 2 en 3 van dit boek en verplicht hen die tot de gemeenschap gerechtigd zijn, haar te vereffenen.
 
-- De wetsbepalingen betreffende de vereffening van een onder voorrecht van boedelbeschrijving  aanvaarde  nalatenschap  zijn  zoveel  mogelijk  van  overeenkomstige toepassing.
+De wetsbepalingen betreffende de vereffening van een onder voorrecht van boedelbeschrijving aanvaarde nalatenschap zijn zoveel mogelijk van overeenkomstige toepassing.
 
-- Indien hij die tot vereffening van de gemeenschap gehouden is, na tot het afleggen van de rekening en verantwoording te zijn aangemaand, in gebreke blijft aan deze verplichting te voldoen, verliest hij de bevoegdheid artikel 179, lid 4 van dit boek in te roepen.
+2. Indien hij die tot vereffening van de gemeenschap gehouden is, na tot het afleggen van de rekening en verantwoording te zijn aangemaand, in gebreke blijft aan deze verplichting te voldoen, verliest hij de bevoegdheid artikel 179, lid 4 van dit boek in te roepen.
 
-- De termijn van drie maanden, genoemd in artikel 1063 van het tweede boek begint met de aanvang  van  de  dag  waarop  hij  aan  artikel  180,  lid  1  van  dit  boek  heeft  voldaan.  De kantonrechter kan de termijn op zijn verzoek op grond van bijzondere omstandigheden verlengen; deze verlenging kan ook na verloop van de termijn nog worden verzocht.
+3. De termijn van drie maanden, genoemd in artikel 1063 van het tweede boek begint met de aanvang van de dag waarop hij aan artikel 180, lid 1 van dit boek heeft voldaan. De kantonrechter kan de termijn op zijn verzoek op grond van bijzondere omstandigheden verlengen; deze verlenging kan ook na verloop van de termijn nog worden verzocht.
 
 #### AFDELING 4
 
@@ -2069,21 +2075,21 @@ De kantonrechter van de plaats waar de akte van afstand moet worden ingeschreven
 
 ##### Artikel 185
 
-Een  echtgenoot  kan  opheffing  van  de  gemeenschap  vorderen  wanneer  de  andere echtgenoot op lichtvaardige wijze schulden maakt, de goederen van de gemeenschap verspilt, of zonder redelijke grond weigert de nodige inlichtingen te geven omtrent de stand van de goederen van de gemeenschap en van de daarop verhaalbare schulden en het over die goederen gevoerde bestuur.
+Een echtgenoot kan opheffing van de gemeenschap vorderen wanneer de andere echtgenoot op lichtvaardige wijze schulden maakt, de goederen van de gemeenschap verspilt, of zonder redelijke grond weigert de nodige inlichtingen te geven omtrent de stand van de goederen van de gemeenschap en van de daarop verhaalbare schulden en het over die goederen gevoerde bestuur.
 
 ##### Artikel 186
 
-- De eis tot opheffing van de gemeenschap moet openlijk worden bekend gemaakt en in het huwelijksgoederenregister, aangewezen in artikel 192 van dit boek worden ingeschreven.
+1. De eis tot opheffing van de gemeenschap moet openlijk worden bekend gemaakt en in het huwelijksgoederenregister, aangewezen in artikel 192 van dit boek worden ingeschreven.
 
-- De echtgenoot die de opheffing van de gemeenschap vraagt, kan tot behoud van zijn recht maatregelen  nemen,  die  in  het  Wetboek  van  Burgerlijke  Rechtsvordering  nader  zijn aangegeven.
+2. De echtgenoot die de opheffing van de gemeenschap vraagt, kan tot behoud van zijn recht maatregelen nemen, die in het Wetboek van Burgerlijke Rechtsvordering nader zijn aangegeven.
 
 ##### Artikel 187
 
-- Het vonnis, waarbij de eis tot opheffing van de gemeenschap is toegewezen, werkt terug tot de dag waarop aan het eerste lid van het vorige artikel is voldaan, vanaf welke dag de echtgenoten worden geacht te zijn gehuwd met uitsluiting van gemeenschap van goederen onder al zodanige bedingen als het vonnis zal hebben vastgesteld.
+1. Het vonnis, waarbij de eis tot opheffing van de gemeenschap is toegewezen, werkt terug tot de dag waarop aan het eerste lid van het vorige artikel is voldaan, vanaf welke dag de echtgenoten worden geacht te zijn gehuwd met uitsluiting van gemeenschap van goederen onder al zodanige bedingen als het vonnis zal hebben vastgesteld.
 
-- Indien de echtgenoot tegen wie de eis is toegewezen, de gemeenschap heeft benadeeld doordat hij na de aanvang van het geding of binnen zes maanden daarvoor lichtvaardig schulden heeft gemaakt, goederen van de gemeenschap heeft verspild of een rechtshandeling als bedoeld in de artikelen 163 en 172 van dit boek zonder de vereiste toestemming of medewerking heeft verricht, is hij gehouden de aangerichte schade aan de gemeenschap te vergoeden.
+2. Indien de echtgenoot tegen wie de eis is toegewezen, de gemeenschap heeft benadeeld doordat hij na de aanvang van het geding of binnen zes maanden daarvoor lichtvaardig schulden heeft gemaakt, goederen van de gemeenschap heeft verspild of een rechtshandeling als bedoeld in de artikelen 163 en 172 van dit boek zonder de vereiste toestemming of medewerking heeft verricht, is hij gehouden de aangerichte schade aan de gemeenschap te vergoeden.
 
-- Een op het vorige lid gegronde rechtsvordering kan niet later worden ingesteld dan drie jaren
+3. Een op het vorige lid gegronde rechtsvordering kan niet later worden ingesteld dan drie jaren
 
 44
 
@@ -2114,23 +2120,23 @@ Huwelijkse voorwaarden kunnen zowel door aanstaande echtgenoten vóór het sluit
 
 ##### Artikel 191
 
-- Huwelijkse  voorwaarden  moeten  op  straffe  van  nietigheid  bij  notariële  akte  worden aangegaan.
+1. Huwelijkse voorwaarden moeten op straffe van nietigheid bij notariële akte worden aangegaan.
 
-- Een volmacht tot het aangaan van huwelijkse voorwaarden moet schriftelijk worden verleend en moet de in de huwelijkse voorwaarden op te nemen bepalingen bevatten.
+2. Een volmacht tot het aangaan van huwelijkse voorwaarden moet schriftelijk worden verleend en moet de in de huwelijkse voorwaarden op te nemen bepalingen bevatten.
 
 ##### Artikel 192
 
-- Bepalingen in huwelijkse voorwaarden kunnen aan derden die daarvan onkundig waren slechts worden tegengeworpen, indien die bepalingen ingeschreven waren in het openbaar huwelijksgoederenregister,  gehouden  ter  Griffie  van  het  kantongerecht  binnen  welker rechtsgebied  het  huwelijk  is  voltrokken,  of  indien  het  huwelijk  buiten  Suriname  is aangegaan, ter Griffie van het kantongerecht in het Eerste Kanton.
+1. Bepalingen in huwelijkse voorwaarden kunnen aan derden die daarvan onkundig waren slechts worden tegengeworpen, indien die bepalingen ingeschreven waren in het openbaar huwelijksgoederenregister, gehouden ter Griffie van het kantongerecht binnen welker rechtsgebied het huwelijk is voltrokken, of indien het huwelijk buiten Suriname is aangegaan, ter Griffie van het kantongerecht in het Eerste Kanton.
 
-- De wijze van inrichting en raadplegen van het register wordt nader bij staatsbesluit geregeld.
+2. De wijze van inrichting en raadplegen van het register wordt nader bij staatsbesluit geregeld.
 
 ##### Artikel 193
 
-- Huwelijkse voorwaarden vóór het huwelijk gemaakt of gewijzigd, zijn slechts geldig, indien zij, van wie toestemming tot het huwelijk noodzakelijk is, bij de akte hun toestemming tot de huwelijkse voorwaarden of de wijziging hebben gegeven.
+1. Huwelijkse voorwaarden vóór het huwelijk gemaakt of gewijzigd, zijn slechts geldig, indien zij, van wie toestemming tot het huwelijk noodzakelijk is, bij de akte hun toestemming tot de huwelijkse voorwaarden of de wijziging hebben gegeven.
 
-- Is de toestemming van de kantonrechter nodig, dan kan worden volstaan met vasthechting van zijn beschikking aan de minuut van de akte. Op het verzoek tot toestemming van de kantonrechter zijn de artikelen 91 en 94 van dit boek van overeenkomstige toepassing.
+2. Is de toestemming van de kantonrechter nodig, dan kan worden volstaan met vasthechting van zijn beschikking aan de minuut van de akte. Op het verzoek tot toestemming van de kantonrechter zijn de artikelen 91 en 94 van dit boek van overeenkomstige toepassing.
 
-- Voor het huwelijk gemaakte huwelijkse voorwaarden beginnen te werken van het tijdstip van de voltrekking van het huwelijk; geen ander tijdstip kan daarvoor worden aangewezen.
+3. Voor het huwelijk gemaakte huwelijkse voorwaarden beginnen te werken van het tijdstip van de voltrekking van het huwelijk; geen ander tijdstip kan daarvoor worden aangewezen.
 
 ##### Artikel 194
 
@@ -2142,41 +2148,41 @@ Huwelijkse voorwaarden kunnen zowel door aanstaande echtgenoten vóór het sluit
 
 [[START OF PAGE 46]]
 
-- Na de huwelijksvoltrekking kunnen huwelijkse voorwaarden slechts gemaakt of gewijzigd worden, wanneer het huwelijk ten minste een jaar heeft bestaan.
+1. Na de huwelijksvoltrekking kunnen huwelijkse voorwaarden slechts gemaakt of gewijzigd worden, wanneer het huwelijk ten minste een jaar heeft bestaan.
 
-- Een echtgenoot die onder curatele staat, kan hiertoe slechts met toestemming van zijn curator en zijn toeziende curator overgaan.
+2. Een echtgenoot die onder curatele staat, kan hiertoe slechts met toestemming van zijn curator en zijn toeziende curator overgaan.
 
 ##### Artikel 195
 
-- Het  maken  of  wijzigen  van  huwelijkse  voorwaarden  tijdens  het  huwelijk  behoeft  de goedkeuring van de kantonrechter. Bij het verzoekschrift van de echtgenoten wordt een ontwerp van de notariële akte overgelegd.
+1. Het maken of wijzigen van huwelijkse voorwaarden tijdens het huwelijk behoeft de goedkeuring van de kantonrechter. Bij het verzoekschrift van de echtgenoten wordt een ontwerp van de notariële akte overgelegd.
 
-- De kantonrechter kan, alvorens op het verzoek te beslissen, bevelen dat het in twee door hem aangewezen dagbladen wordt bekend gemaakt. In de bekendmaking moeten de door de kantonrechter  aangewezen  dag  en  uur  worden  opgenomen,  waarop  schuldeisers  zullen worden gehoord en moet worden vermeld dat het ontwerp van de akte op de Griffie ter inzage ligt.
+2. De kantonrechter kan, alvorens op het verzoek te beslissen, bevelen dat het in twee door hem aangewezen dagbladen wordt bekend gemaakt. In de bekendmaking moeten de door de kantonrechter aangewezen dag en uur worden opgenomen, waarop schuldeisers zullen worden gehoord en moet worden vermeld dat het ontwerp van de akte op de Griffie ter inzage ligt.
 
-- De goedkeuring wordt geweigerd, indien een redelijke grond voor het maken of wijzigen van de huwelijkse voorwaarden ontbreekt, of indien er gevaar voor benadeling van schuldeisers bestaat.
+3. De goedkeuring wordt geweigerd, indien een redelijke grond voor het maken of wijzigen van de huwelijkse voorwaarden ontbreekt, of indien er gevaar voor benadeling van schuldeisers bestaat.
 
-- Hoger beroep van de eindbeschikking moet worden ingesteld binnen twee maanden na haar dagtekening.
+4. Hoger beroep van de eindbeschikking moet worden ingesteld binnen twee maanden na haar dagtekening.
 
-- Indien de akte niet is verleden binnen drie maanden na dagtekening van de beschikking waarbij de goedkeuring is verleend, vervalt deze.
+5. Indien de akte niet is verleden binnen drie maanden na dagtekening van de beschikking waarbij de goedkeuring is verleend, vervalt deze.
 
 ##### Artikel 196
 
-- Tijdens het huwelijk gemaakte of gewijzigde huwelijkse voorwaarden beginnen te werken op de dag, volgende op die waarop de akte is verleden, tenzij in de akte een later tijdstip is aangewezen.
+1. Tijdens het huwelijk gemaakte of gewijzigde huwelijkse voorwaarden beginnen te werken op de dag, volgende op die waarop de akte is verleden, tenzij in de akte een later tijdstip is aangewezen.
 
-- Bepalingen in deze huwelijkse voorwaarden kunnen aan derden die daarvan onkundig waren, slechts worden tegengeworpen, indien zij tenminste veertien dagen in het huwelijksgoederenregister ingeschreven waren.
+2. Bepalingen in deze huwelijkse voorwaarden kunnen aan derden die daarvan onkundig waren, slechts worden tegengeworpen, indien zij tenminste veertien dagen in het huwelijksgoederenregister ingeschreven waren.
 
-- De rechter kan bij de goedkeuring, bedoeld in het vorige artikel, bepalen dat de inschrijving moet worden bekend gemaakt in één of meer door hem aangewezen dagbladen en in het Advertentieblad van de Republiek Suriname.
+3. De rechter kan bij de goedkeuring, bedoeld in het vorige artikel, bepalen dat de inschrijving moet worden bekend gemaakt in één of meer door hem aangewezen dagbladen en in het Advertentieblad van de Republiek Suriname.
 
-- In dat geval werken de ingeschreven bepalingen ten nadele van derden die daarvan onkundig waren, ook niet voor deze bekendmaking.
+In dat geval werken de ingeschreven bepalingen ten nadele van derden die daarvan onkundig waren, ook niet voor deze bekendmaking.
 
 ##### Artikel 197
 
-- Partijen  kunnen  bij  huwelijkse  voorwaarden  afwijken  van  de  regels  van  de  wettelijke gemeenschap, mits die voorwaarden niet met dwingende wettelijke bepalingen, de goede zeden of de openbare orde strijden.
+1. Partijen kunnen bij huwelijkse voorwaarden afwijken van de regels van de wettelijke gemeenschap, mits die voorwaarden niet met dwingende wettelijke bepalingen, de goede zeden of de openbare orde strijden.
 
-- Zij  kunnen  niet  bepalen  dat  een  hunner  tot  een  groter  aandeel  in  de  schulden  zal  zijn gehouden, dan zijn aandeel in de goederen van de gemeenschap beloopt.
+2. Zij kunnen niet bepalen dat een hunner tot een groter aandeel in de schulden zal zijn gehouden, dan zijn aandeel in de goederen van de gemeenschap beloopt.
 
-- Zij kunnen niet afwijken van de rechten die uit de ouderlijke macht voortspruiten, noch van de rechten die de wet aan een langstlevende echtgenoot toekent.
+3. Zij kunnen niet afwijken van de rechten die uit de ouderlijke macht voortspruiten, noch van de rechten die de wet aan een langstlevende echtgenoot toekent.
 
-- Zij kunnen niet in algemene bewoordingen bepalen dat de verhouding der echtgenoten zal worden geregeld door een buitenlandse of een afgeschafte wet.
+4. Zij kunnen niet in algemene bewoordingen bepalen dat de verhouding der echtgenoten zal worden geregeld door een buitenlandse of een afgeschafte wet.
 
 ##### Artikel 198
 
@@ -2206,25 +2212,25 @@ Het vermoeden werkt niet ten nadele van de schuldeisers der echtgenoten.
 
 ##### Artikel 201
 
-- Echtgenoten of aanstaande echtgenoten mogen bij huwelijkse voorwaarden aan elkaar, of een van beiden aan de andere, giften doen.
+1. Echtgenoten of aanstaande echtgenoten mogen bij huwelijkse voorwaarden aan elkaar, of een van beiden aan de andere, giften doen.
 
-- Deze  giften  kunnen  tot  onderwerp  hebben  tegenwoordige  en  bij  de  akte  nauwkeurig omschreven goederen, of de gehele of gedeeltelijke nalatenschap; onder een gift van de gedeeltelijke nalatenschap is begrepen de gift van een of meer bepaalde goederen uit de nalatenschap.
+2. Deze giften kunnen tot onderwerp hebben tegenwoordige en bij de akte nauwkeurig omschreven goederen, of de gehele of gedeeltelijke nalatenschap; onder een gift van de gedeeltelijke nalatenschap is begrepen de gift van een of meer bepaalde goederen uit de nalatenschap.
 
-- Deze giften kunnen slechts worden herroepen, wanneer de begiftigde in gebreke is hem bij de gift opgelegde verplichtingen na te komen.
+3. Deze giften kunnen slechts worden herroepen, wanneer de begiftigde in gebreke is hem bij de gift opgelegde verplichtingen na te komen.
 
-- Deze giften zijn van waarde zonder uitdrukkelijke aanneming door degene, aan wie zij gemaakt zijn.
+4. Deze giften zijn van waarde zonder uitdrukkelijke aanneming door degene, aan wie zij gemaakt zijn.
 
-- Zij  kunnen  plaatshebben  onder  voorwaarden  waarvan  de  uitvoering  van  de  wil  van  de schenker afhangt.
+5. Zij kunnen plaatshebben onder voorwaarden waarvan de uitvoering van de wil van de schenker afhangt.
 
-- De giften van de tegenwoordige en nauwkeurig omschreven goederen zijn niet onderworpen aan de voorwaarde van overleving van de begiftigde, tenzij de voorwaarde uitdrukkelijk mocht zijn gemaakt.
+6. De giften van de tegenwoordige en nauwkeurig omschreven goederen zijn niet onderworpen aan de voorwaarde van overleving van de begiftigde, tenzij de voorwaarde uitdrukkelijk mocht zijn gemaakt.
 
 ##### Artikel 202
 
-- Giften van de gehele of gedeeltelijke nalatenschap zijn slechts in dezelfde gevallen als andere giften in huwelijkse voorwaarden herroepelijk.
+1. Giften van de gehele of gedeeltelijke nalatenschap zijn slechts in dezelfde gevallen als andere giften in huwelijkse voorwaarden herroepelijk.
 
-- De echtgenoot, die zijn gehele of gedeeltelijke nalatenschap heeft weggeschonken, kan over de goederen, in die gift begrepen, niet om niet beschikken, behalve over geringe sommen tot beloning of om andere redenen, door de rechter te beoordelen.
+2. De echtgenoot, die zijn gehele of gedeeltelijke nalatenschap heeft weggeschonken, kan over de goederen, in die gift begrepen, niet om niet beschikken, behalve over geringe sommen tot beloning of om andere redenen, door de rechter te beoordelen.
 
-- Een gift van de gehele of gedeeltelijke nalatenschap strekt niet ten voordele van de kinderen of andere rechtverkrijgenden van de begiftigde echtgenoot, wanneer deze vóór de schenker mocht overlijden.
+3. Een gift van de gehele of gedeeltelijke nalatenschap strekt niet ten voordele van de kinderen of andere rechtverkrijgenden van de begiftigde echtgenoot, wanneer deze vóór de schenker mocht overlijden.
 
 ##### Artikel 203
 
@@ -2240,13 +2246,19 @@ Op deze giften zijn de bepalingen van artikel 201 van dit boek van toepassing.
 
 ##### Artikelen 204 - 232 129
 
+Vervallen.
+
 ### ACHTSTE TITEL
 
 ##### Artikelen 233 - 238 130
 
+Vervallen.
+
 ### NEGENDE TITEL
 
 ##### Artikelen 239 - 251 131
+
+Vervallen.
 
 ### TIENDE TITEL
 ### VAN DE ONTBINDING VAN HET HUWELIJK
@@ -2256,12 +2268,6 @@ Op deze giften zijn de bepalingen van artikel 201 van dit boek van toepassing.
 #### VAN DE ONTBINDING VAN HET HUWELIJK IN HET ALGEMEEN
 
 ##### Artikel 252 132
-
-Vervallen.
-
-Vervallen.
-
-Vervallen.
 
 Het huwelijk wordt ontbonden:
 
@@ -2298,21 +2304,19 @@ Wanneer echtgenoten van tafel en bed zijn gescheiden, hetzij uithoofde van artik
 
 De termijn van twee jaren kan worden bekort tot ten minste één jaar:
 
-- indien de andere echtgenoot zich gedurig in zodanige mate aan wangedrag schuldig maakt, dat van de echtgenoot, die de eis heeft ingesteld, in redelijkheid niet kan worden geverfd het huwelijk te doen voortbestaan;
+a. indien de andere echtgenoot zich gedurig in zodanige mate aan wangedrag schuldig maakt, dat van de echtgenoot, die de eis heeft ingesteld, in redelijkheid niet kan worden geverfd het huwelijk te doen voortbestaan;
 
-- indien de echtgenoten te zamen verzoeken, dat het huwelijk wordt ontbonden, in welk geval de rechter dit verzoek zal toewijzen.
+b. indien de echtgenoten te zamen verzoeken, dat het huwelijk wordt ontbonden, in welk geval de rechter dit verzoek zal toewijzen.
 
 ##### Artikel 254134
 
-- Indien als gevolg van de in artikel 253 bedoelde eis een bestaand vooruitzicht op uitkeringen aan de andere echtgenoot na vooroverlijden van de echtgenoot, die de eis heeft ingesteld, zou teloor gaan of in ernstige mate zou verminderen, en de andere echtgenoot deswege tegen deze  eis  verweer  voert,  kan  deze  niet  worden  toegewezen,  voordat  daaromtrent  een voorziening is getroffen, welke - gelet op de omstandigheden van het geval - ten opzichte van beide echtgenoten billijk is te achten. De rechter kan daartoe een termijn stellen.
+1. Indien als gevolg van de in artikel 253 bedoelde eis een bestaand vooruitzicht op uitkeringen aan de andere echtgenoot na vooroverlijden van de echtgenoot, die de eis heeft ingesteld, zou teloor gaan of in ernstige mate zou verminderen, en de andere echtgenoot deswege tegen deze eis verweer voert, kan deze niet worden toegewezen, voordat daaromtrent een voorziening is getroffen, welke – gelet op de omstandigheden van het geval – ten opzichte van beide echtgenoten billijk is te achten. De rechter kan daartoe een termijn stellen.
 
-- Het in het vorige lid bepaalde is niet van toepassing:
+2. Het in het vorige lid bepaalde is niet van toepassing:
 
-- indien  redelijkerwijs  te  verwachten  is,  dat  de  andere  echtgenoot  zelf  voor  dat  geval voldoende voorzieningen kan treffen;
+a. indien redelijkerwijs te verwachten is, dat de andere echtgenoot zelf voor dat geval voldoende voorzieningen kan treffen;
 
-- indien de andere echtgenoot zich gedurig in zodanige mate aan wangedrag schuldig maakt,  dat  van  de  echtgenoot  die  de  eis  heeft  ingesteld,  in  redelijkheid  generlei verstrekking van levensonderhoud kan worden gevergd.
-
-1.
+b. indien de andere echtgenoot zich gedurig in zodanige mate aan wangedrag schuldig maakt, dat van de echtgenoot die de eis heeft ingesteld, in redelijkheid generlei verstrekking van levensonderhoud kan worden gevergd.
 
 ##### Artikel 255 135
 
@@ -2381,7 +2385,7 @@ Ten  aanzien  van  de  verhoren  van  bloedverwanten  of  aangehuwden  in  dit  
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
-
+voorgeschreven gelden de artikelen 385 en 386.
 Indien de minderjarigen zich niet reeds bevinden in de feitelijke macht van degene, welke ingevolge een der bepalingen van dit artikel met de voogdij is belast, wordt in het vonnis of in de beschikking tevens de afgifte der kinderen bevolen. De bepalingen van het tweede, derde, vierde en vijfde lid van artikel 371e bis zijn ten deze toepasselijk.
 
 ##### Artikel 259a 140
@@ -2433,13 +2437,13 @@ De vordering tot echtscheiding wordt afgewezen, indien de duurzame ontwrichting 
 
 ##### Artikel 264 145
 
-- Indien als gevolg van de gevorderde echtscheiding een bestaand vooruitzicht op uitkeringen aan  de  andere  echtgenoot  na  vooroverlijden  van  de  echtgenoot,  die  de  vordering  heeft ingesteld, zou teloor gaan of in ernstige mate zou verminderen, en de andere echtgenoot deswege tegen deze vordering verweer voert, kan deze niet worden toegewezen, voordat daaromtrent een voorziening is getroffen, welke - gelet op de omstandigheden van het geval - ten opzichte van beide echtgenoten billijk is te achten. De rechter kan daartoe een termijn stellen.
+1. Indien als gevolg van de gevorderde echtscheiding een bestaand vooruitzicht op uitkeringen aan de andere echtgenoot na vooroverlijden van de echtgenoot, die de vordering heeft ingesteld, zou teloor gaan of in ernstige mate zou verminderen, en de andere echtgenoot deswege tegen deze vordering verweer voert, kan deze niet worden toegewezen, voordat daaromtrent een voorziening is getroffen, welke – gelet op de omstandigheden van het geval – ten opzichte van beide echtgenoten billijk is te achten. De rechter kan daartoe een termijn stellen.
 
-- Het in het vorige lid bepaalde is niet van toepassing:
+2. Het in het vorige lid bepaalde is niet van toepassing:
 
-- indien  redelijkerwijs  te  verwachten  is,  dat  de  andere  echtgenoot  zelf  voor  dat  geval voldoende voorzieningen kan treffen;
+a. indien redelijkerwijs te verwachten is, dat de andere echtgenoot zelf voor dat geval voldoende voorzieningen kan treffen;
 
-- indien de duurzame ontwrichting van het huwelijk in overwegende mate aan de andere echtgenoot te wijten is.
+b. indien de duurzame ontwrichting van het huwelijk in overwegende mate aan de andere echtgenoot te wijten is.
 
 ##### Artikel 265 146
 
@@ -2457,7 +2461,7 @@ Tegen deze beschikkingen is generlei voorziening toegelaten. Zij behouden hare k
 
 ##### Artikel 268 149
 
-- De  echtgenoot  die  de  echtscheiding  vraagt,  kan  tot  behoud  van  zijn  recht  de
+1. De echtgenoot die de echtscheiding vraagt, kan tot behoud van zijn recht de
 
 > 145 Gew. bij G.B. 1923 no. 78, G.B. 1935 no. 80., G.B. 1973 no. 140 (zie S.B. 2003 no. 44).
 
@@ -2477,7 +2481,7 @@ Tegen deze beschikkingen is generlei voorziening toegelaten. Zij behouden hare k
 
 maatregelen nemen die in het Surinaams Wetboek van Burgerlijke Rechtsvordering zijn aangegeven.
 
-- De echtgenoot wiens rechten opzettelijk zijn verkort door rechtshandelingen van de andere echtgenoot, kan de nietigheid van die handelingen inroepen.
+2. De echtgenoot wiens rechten opzettelijk zijn verkort door rechtshandelingen van de andere echtgenoot, kan de nietigheid van die handelingen inroepen.
 
 ##### Artikel 269
 
@@ -2491,7 +2495,7 @@ De  echtgenoot,  die  een  nieuwe  rechtsvordering  aanvangt,  op  grond  van  e
 
 ##### Artikel 271151
 Vervallen.
---- | ---
+
 ##### Artikel 272 152
 Vervallen.
 
@@ -2513,7 +2517,7 @@ Indien de inschrijving binnen die termijn niet is geschied, vervalt daardoor de 
 
 ##### Artikel 275
 
-De echtgenoot aan wie de eis tot echtscheiding is toegewezen, behoudt al de voordelen, hem  door  de  andere  echtgenoot  terzake  van  het  huwelijk  toegezegd,  al  ware  het  dat  deze voordelen wederkerig bedongen mochten zijn.
+De echtgenoot aan wie de eis tot echtscheiding is toegewezen, behoudt al de voordelen, hem door de andere echtgenoot terzake van het huwelijk toegezegd, al ware het dat deze
 
 > 150 Gew. bij G.B. 1973 no. 140 (zie S.B. 2003 no. 44).
 
@@ -2528,7 +2532,7 @@ De echtgenoot aan wie de eis tot echtscheiding is toegewezen, behoudt al de voor
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
-
+voordelen wederkerig bedongen mochten zijn.
 ##### Artikel 276
 
 Daarentegen verliest de echtgenoot, tegen wie de echtscheiding uitgesproken is, al de voordelen, welke de andere echtgenoot terzake van het huwelijk aan hem had toegezegd.
@@ -2542,6 +2546,8 @@ Door echtscheiding worden niet dadelijk opvorderbaar de bedongen voordelen, welk
 De rechter kan bij het echtscheidingsvonnis of bij latere uitspraak aan de echtgenoot, die niet  voldoende  inkomsten  tot  zijn  levensonderhoud  heeft,  noch  zich  in  redelijkheid  kan verwerven, op diens vordering onderscheidenlijk verzoek ten laste van de andere echtgenoot een uitkering tot levensonderhoud toekennen indien de duurzame ontwrichting van het huwelijk in overwegende mate aan deze laatste te wijten is onderscheidenlijk is geweest.
 
 ##### Artikel 279 155
+
+Vervallen.
 
 ##### Artikel 280156
 
@@ -2566,8 +2572,6 @@ Na  verhoor  of  behoorlijke  oproeping  van  de  ouders  en  de  bloedverwanten
 > 156 Gew. bij G.B. 1973 no. 140 (zie S.B. 2003 no. 44).
 
 > 157 Gew. bij G.B. 1906 no. 50, G.B. 1935 no. 80, G.B. 1944 no. 72.
-
-Vervallen.
 
 54
 
@@ -2623,11 +2627,11 @@ De bepalingen van het derde, vierde en vijfde lid van artikel 282 zijn mede op d
 
 ##### Artikel 283c 161
 
-Bij gebreke van een bevel als in het eerste lid van het vorige artikel bedoeld is het Bureau voor Familierechtelijke Zaken bevoegd deze uitkering in rechte te vorderen, nadat het vonnis van de echtscheiding is ingeschreven in de registers van de burgerlijke stand. 162
+Bij gebreke van een bevel als in het eerste lid van het vorige artikel bedoeld is het Bureau voor Familierechtelijke Zaken bevoegd deze uitkering in rechte te vorderen, nadat het vonnis van de echtscheiding is ingeschreven in de registers van de burgerlijke stand.
+
+##### Artikel 283d 162
 
 Vervallen.
-
-##### Artikel 283d
 
 ##### Artikel 284
 
@@ -2874,7 +2878,7 @@ De man kan de wettigheid van het kind niet ontkennen op grond van overspel, tenw
 
 ##### Artikel 307 181
 
-Hij kan de wettigheid ontkennen van een kind, hetwelk geboren is driehonderdzes dagen na dien, waarop een vonnis tot scheiding van tafel en bed kracht van gewijsde heeft verkregen, onverminderd het vermogen van de vrouw om alle zodanige daadzaken aan te voeren, welke geschikt mochten zijn tot bewijs, dat haar man de vader van het kind is.
+Hij kan de wettigheid ontkennen van een kind, hetwelk geboren is driehonderdzes dagen na dien, waarop een vonnis tot scheiding van tafel en bed kracht van gewijsde heeft verkregen,
 
 > 179 Gew. bij S.B. 1981 no. 23.
 
@@ -2887,6 +2891,7 @@ Hij kan de wettigheid ontkennen van een kind, hetwelk geboren is driehonderdzes 
 [[END OF PAGE 61]]
 
 [[START OF PAGE 62]]
+onverminderd het vermogen van de vrouw om alle zodanige daadzaken aan te voeren, welke geschikt mochten zijn tot bewijs, dat haar man de vader van het kind is.
 
 Wanneer de ontkenning is geldig verklaard, zal door de verzoening der echtgenoten het kind geen wettige staat kunnen verkrijgen.
 
@@ -3024,8 +3029,6 @@ Degeen, aan wie een vordering tot in roeping van de staat of tot het ontkennen v
 
 [[START OF PAGE 65]]
 
-Vervallen.
-
 #### VAN DE WETTIGING VAN KINDEREN
 
 ##### Artikel 325 186
@@ -3033,6 +3036,8 @@ Vervallen.
 Een natuurlijk kind wordt door het huwelijk van zijn ouders gewettigd, indien het voor of bij de huwelijksvoltrekking door de vader is erkend.
 
 ##### Artikel 326 187
+
+Vervallen.
 
 ##### Artikel 327 188
 
@@ -3130,15 +3135,15 @@ Erkenning kan geschieden: bij akten van geboorte en huwelijk; door een akte van 
 
 De erkenning is nietig, indien zij:
 
-- een gevolg is van dwang, dwaling of bedrog;
+a. een gevolg is van dwang, dwaling of bedrog;
 
-- door een minderjarige tengevolge van verleiding gedaan is;
+b. door een minderjarige tengevolge van verleiding gedaan is;
 
-- geschied is door iemand, die de leeftijd van achttien jaar niet bereikt heeft, tenzij zij bij de voltrekking van zijn huwelijk heeft plaats gehad;
+c. geschied is door iemand, die de leeftijd van achttien jaar niet bereikt heeft, tenzij zij bij de voltrekking van zijn huwelijk heeft plaats gehad;
 
-- bij het leven van de moeder zonder haar toestemming gedaan is; de toestemming kan gegeven worden bij de akten, bedoeld in het voorgaand artikel;
+d. bij het leven van de moeder zonder haar toestemming gedaan is; de toestemming kan gegeven worden bij de akten, bedoeld in het voorgaand artikel;
 
-- is gedaan door de man, die krachtens de artikelen 83 en 84 niet met de moeder van het kind in het huwelijk mag treden;
+e. is gedaan door de man, die krachtens de artikelen 83 en 84 niet met de moeder van het kind in het huwelijk mag treden;
 
 f. is gedaan door een gehuwde man, wiens huwelijk meer dan driehonderdzes dagen vóór de geboortedag van het kind is voltrokken.
 
@@ -3156,6 +3161,8 @@ De erkenning is eveneens nietig, indien zij, nadat het kind de meerderjarigheid 
 
 ##### Artikel 337 200
 
+Vervallen.
+
 ##### Artikel 338 201
 
 De rechtsvordering tot inroeping van staat op grond van beweerd vaderschap wordt niet toegelaten.
@@ -3170,8 +3177,6 @@ Indien echter tegen de moeder van een natuurlijk kind tussen de 307de en 179ste 
 
 > 201 Gew. bij G.B. 1963 no. 24, G.B. 1972 no. 62.
 
-Vervallen.
-
 67
 
 [[END OF PAGE 67]]
@@ -3179,8 +3184,6 @@ Vervallen.
 [[START OF PAGE 68]]
 
 de vader van het kind te zijn.
-
-Vervallen.
 
 ##### Artikel 339 202
 
@@ -3203,6 +3206,8 @@ Nadat een vonnis, waarbij de betwisting van een erkenning gegrond is verklaard, 
 #### VAN KINDEREN, TOT WIE DE OUDERS NIET IN BURGERLIJKE BETREKKINGEN STAAN, EN VAN DERZELVER ONDERHOUD
 
 ##### Artikel 341 205
+
+Vervallen.
 
 ##### Artikel 342 206
 
@@ -3243,7 +3248,9 @@ De vader kan ook, indien daartoe gronden zijn,  tot  de  betaling  van  een  som
 
 Er is geen uitkering verschuldigd over de tijd, die op het ogenblik van het instellen van de rechtsvordering reeds meer dan vijf jaren is verstreken.
 
-De vader  van  een  natuurlijk  niet-erkend  kind  is  -  zelfs  al  ware  het  dood  geboren  verplicht om aan deszelfs moeder de kosten van haar bevalling en van haar onderhoud gedurende de eerste zes weken na de bevalling te vergoeden.
+##### Artikel 342c 209
+
+De vader van een natuurlijk niet-erkend kind is - zelfs al ware het dood geboren - verplicht om aan deszelfs moeder de kosten van haar bevalling en van haar onderhoud gedurende de eerste zes weken na de bevalling te vergoeden.
 
 De vergoeding voor deze kosten begroot de rechter naar billijkheid en met inachtneming van het plaatselijk gebruik.
 
@@ -3289,13 +3296,19 @@ Alvorens op een rechtsvordering, gegrond op artikel 342, eerste lid, een einduit
 
 De verhoren en pleidooien worden gehouden ter terechtzitting met gesloten deuren. De uitspraak geschiedt in het openbaar.
 
+##### Artikel 342g 213
+
 De uitkering of som ineens, bedoeld in artikel 342b, wordt ten behoeve van het kind aan het Bureau voor Familierechtelijke Zaken uitbetaald.
 
 ##### Artikel 342h 214
 
+Vervallen.
+
 ##### Artikel 342i 215
 
 De erfgenamen van de in artikel 342 bedoelde vader kunnen terzake van het onderhoud van het kind na het overlijden van de erflater, tot niets anders verplicht worden dan tot betaling van een som ineens, welke het wettelijk erfdeel, waartoe het kind als natuurlijk erkend kind ware gerechtigd geweest, niet overtreft. De kantonrechter bepaalt deze som op verzoek van het kind of van het Bureau voor Familierechtelijke Zaken. Op straffe van verval der aanspraken moet het verzoek worden ingediend binnen twee jaren na het overlijden van de vader. Overigens zijn de artikelen 342a en 342d van overeenkomstige toepassing.
+
+##### Artikel 342j 216
 
 Bij niet geregelde voldoening van de krachtens de artikelen dezer afdeling of artikel 381b vastgestelde uitkering is ook het Bureau voor Familierechtelijke Zaken bevoegd, het vonnis of de beschikking ten uitvoer te leggen op de wijze bepaald in de derde afdeling van de Tweede Titel van het Surinaams Wetboek van Burgerlijke Rechtsvordering.
 
@@ -3304,11 +3317,11 @@ Bij niet geregelde voldoening van de krachtens de artikelen dezer afdeling of ar
 
 ##### Artikel 342k
 
-- Adoptie geschiedt door een rechterlijke uitspraak, waarbij een verzoek van een echtpaar, om een kind te mogen adopteren, wordt ingewilligd.
+1. Adoptie geschiedt door een rechterlijke uitspraak, waarbij een verzoek van een echtpaar, om een kind te mogen adopteren, wordt ingewilligd.
 
-- Is een der echtgenoten overleden, dan kan het verzoek om adoptie door de overblijvende echtgenoot worden ingediend, mits het in overeenstemming met de wensen van de overledene is te achten.
+2. Is een der echtgenoten overleden, dan kan het verzoek om adoptie door de overblijvende echtgenoot worden ingediend, mits het in overeenstemming met de wensen van de overledene is te achten.
 
-- in de volgende bepalingen worden onder adoptanten verstaan: zij die een verzoek om adoptie hebben ingediend, met inbegrip van de echtgenoot die reeds vóór de dag van het verzoek is overleden.
+3. in de volgende bepalingen worden onder adoptanten verstaan: zij die een verzoek om adoptie hebben ingediend, met inbegrip van de echtgenoot die reeds vóór de dag van het verzoek is overleden.
 
 ##### Artikel 342l
 
@@ -3322,63 +3335,61 @@ Bij niet geregelde voldoening van de krachtens de artikelen dezer afdeling of ar
 
 > 217 Ingev. bij G.B. 1972 no. 60.
 
-Vervallen.
-
 70
 
 [[END OF PAGE 70]]
 
 [[START OF PAGE 71]]
 
-- een verzoek om adoptie kan slechts worden ingewilligd, indien:
+1. een verzoek om adoptie kan slechts worden ingewilligd, indien:
 
-- de gevraagde adoptie kennelijk in het belang van het te adopteren kind is,
+a. de gevraagde adoptie kennelijk in het belang van het te adopteren kind is,
 
-- het kind op de dag van het verzoek minderjarig is en, zo het op die dag zestien jaar of ouder is, zelf met de adoptie instemt,
+b. het kind op de dag van het verzoek minderjarig is en, zo het op die dag zestien jaar of ouder is, zelf met de adoptie instemt,
 
-- het kind geen wettige of natuurlijke afstammeling van een der adoptanten is, en
+c. het kind geen wettige of natuurlijke afstammeling van een der adoptanten is, en
 
-- geen van beide adoptanten minder dan achttien jaar ouder is dan het kind, en bovendien de man niet meer dan vijftig en de vrouw niet meer dan veertig jaar met het kind in leeftijd verschilt.
+d. geen van beide adoptanten minder dan achttien jaar ouder is dan het kind, en bovendien de man niet meer dan vijftig en de vrouw niet meer dan veertig jaar met het kind in leeftijd verschilt.
 
-- Adoptie wordt in geen geval geacht in het belang van het kind te zijn, wanneer de moeder, of de vader tot wie het in burgerlijke betrekkingen staat, bereid en bij machte is het naar behoren te verzorgen en op te voeden.
+2. Adoptie wordt in geen geval geacht in het belang van het kind te zijn, wanneer de moeder, of de vader tot wie het in burgerlijke betrekkingen staat, bereid en bij machte is het naar behoren te verzorgen en op te voeden.
 
-- Een verzoek om adoptie wordt in elk geval afgewezen, wanneer na verloop van zes maanden sedert de dag van het verzoek nog aan geen van beide adoptanten de voogdij over het kind is opgedragen, dan wel binnen die termijn afwijzend is beschikt op een verzoek om een van hen tot voogd over het kind te benoemen.
+3. Een verzoek om adoptie wordt in elk geval afgewezen, wanneer na verloop van zes maanden sedert de dag van het verzoek nog aan geen van beide adoptanten de voogdij over het kind is opgedragen, dan wel binnen die termijn afwijzend is beschikt op een verzoek om een van hen tot voogd over het kind te benoemen.
 
 ##### Artikel 342m
 
-- Tenzij eerder blijkt, dat een verzoek om adoptie niet voor inwilliging vatbaar is, wordt de beslissing daarop aangehouden, indien en zo lang:
+1. Tenzij eerder blijkt, dat een verzoek om adoptie niet voor inwilliging vatbaar is, wordt de beslissing daarop aangehouden, indien en zo lang:
 
-- de moeder van het kind minderjarig is en de leeftijd van achttien jaar nog niet heeft bereikt;
+a. de moeder van het kind minderjarig is en de leeftijd van achttien jaar nog niet heeft bereikt;
 
-- nog geen twee jaren zijn verstreken sedert de dag, waarop de moeder van het kind, of de vader tot wie het in burgerlijke betrekkingen bestaat, mondeling of schriftelijk tegenover de rechter een verklaring van bezwaar tegen de adoptie heeft afgelegd;
+b. nog geen twee jaren zijn verstreken sedert de dag, waarop de moeder van het kind, of de vader tot wie het in burgerlijke betrekkingen bestaat, mondeling of schriftelijk tegenover de rechter een verklaring van bezwaar tegen de adoptie heeft afgelegd;
 
-- nog geen drie jaren zijn verstreken sedert de dag, waarop de adoptanten met elkander in het huwelijk zijn getreden;
+c. nog geen drie jaren zijn verstreken sedert de dag, waarop de adoptanten met elkander in het huwelijk zijn getreden;
 
-- de voogdij over het kind aan geen van beide adoptanten is opgedragen en nog geen zes maanden zijn verstreken sedert de dag van het verzoek;
+d. de voogdij over het kind aan geen van beide adoptanten is opgedragen en nog geen zes maanden zijn verstreken sedert de dag van het verzoek;
 
-- het kind nog niet door de adoptanten gezamenlijk - of, wanneer een van hen is overleden, door de ander - feitelijk is verzorgd en opgevoed gedurende een tijdvak van:
+e. het kind nog niet door de adoptanten gezamenlijk - of, wanneer een van hen is overleden, door de ander - feitelijk is verzorgd en opgevoed gedurende een tijdvak van:
 
-- 1o. zes maanden in gevallen, waarin het kind op de dag van het verzoek jonger dan drie jaar is;
+1o. zes maanden in gevallen, waarin het kind op de dag van het verzoek jonger dan drie jaar is;
 
-- 2o. een jaar in gevallen, waarin het kind op die dag wel de leeftijd van drie, maar nog niet die van zes jaar heeft bereikt;
+2o. een jaar in gevallen, waarin het kind op die dag wel de leeftijd van drie, maar nog niet die van zes jaar heeft bereikt;
 
-- 3o. twee jaar in alle andere gevallen.
+3o. twee jaar in alle andere gevallen.
 
-- Een verklaring van bezwaar, als bedoeld in het vorige lid onder b, kan niet worden afgelegd door de moeder of vader die van het gezag over het kind is ontzet.
+2. Een verklaring van bezwaar, als bedoeld in het vorige lid onder b, kan niet worden afgelegd door de moeder of vader die van het gezag over het kind is ontzet.
 
-- Het eerste lid van dit artikel, aanhef en onder b, vindt geen verdere toepassing, wanneer degene die de verklaring van bezwaar heeft afgelegd:
+3. Het eerste lid van dit artikel, aanhef en onder b, vindt geen verdere toepassing, wanneer degene die de verklaring van bezwaar heeft afgelegd:
 
-- overlijdt of van het gezag over het kind wordt ontzet;
+a. overlijdt of van het gezag over het kind wordt ontzet;
 
-- als meerderjarige, dan wel na het bereiken van de leeftijd van achttien jaar, de verklaring tegenover de rechter intrekt.
+b. als meerderjarige, dan wel na het bereiken van de leeftijd van achttien jaar, de verklaring tegenover de rechter intrekt.
 
 ##### Artikel 342n
 
-- Door adoptie verkrijgt de geadopteerde de staat van wettig kind van de adoptanten.
+1. Door adoptie verkrijgt de geadopteerde de staat van wettig kind van de adoptanten.
 
-- Door  adoptie  vervallen  de  burgerlijke  betrekkingen,  die  tevoren  bestonden  tussen  de geadopteerde en zijn bloed- en aanverwanten in de opgaande linie en in de zijlinie.
+2. Door adoptie vervallen de burgerlijke betrekkingen, die tevoren bestonden tussen de geadopteerde en zijn bloed- en aanverwanten in de opgaande linie en in de zijlinie.
 
-- Voor de vaststelling van de rechten op een nalatenschap, opengevallen na de dag van de adoptie, wordt de geadopteerde beschouwd als een kind uit het huwelijk van de adoptanten, ook wanneer een van hen reeds vóór die dag is overleden.
+3. Voor de vaststelling van de rechten op een nalatenschap, opengevallen na de dag van de adoptie, wordt de geadopteerde beschouwd als een kind uit het huwelijk van de adoptanten, ook wanneer een van hen reeds vóór die dag is overleden.
 
 ##### Artikel 342o
 
@@ -3388,25 +3399,25 @@ Vervallen.
 
 [[START OF PAGE 72]]
 
-- De adoptie heeft haar gevolgen van de dag waarop de rechterlijke uitspraak, strekkend tot inwilliging van het verzoek van de adoptanten, kracht van gewijsde heeft gekregen; aan de uitspraak kan geen terugwerkende kracht worden gegeven.
+1. De adoptie heeft haar gevolgen van de dag waarop de rechterlijke uitspraak, strekkend tot inwilliging van het verzoek van de adoptanten, kracht van gewijsde heeft gekregen; aan de uitspraak kan geen terugwerkende kracht worden gegeven.
 
-- De adoptie blijft haar gevolgen behouden, ook al zou de rechter de in artikel 342l gestelde voorwaarden ten onrechte als vervuld hebben aangenomen, dan wel een in artikel 342m gestelde termijn niet in acht hebben genomen, onverminderd nochtans de mogelijkheid van request-civiel.
+2. De adoptie blijft haar gevolgen behouden, ook al zou de rechter de in artikel 342l gestelde voorwaarden ten onrechte als vervuld hebben aangenomen, dan wel een in artikel 342m gestelde termijn niet in acht hebben genomen, onverminderd nochtans de mogelijkheid van request-civiel.
 
 ##### Artikel 342p
 
-- De adoptie kan door een rechterlijke uitspraak, op verzoek van de geadopteerde, worden herroepen.
+1. De adoptie kan door een rechterlijke uitspraak, op verzoek van de geadopteerde, worden herroepen.
 
-- Het verzoek kan alleen worden toegewezen, indien de herroeping in het belang van het kind is, de rechter van de redelijkheid van de herroeping in gemoede overtuigd is, en het verzoek is ingediend  niet  eerder  dan  twee  jaren  en  niet  later  dan  drie  jaren  na  de  dag  waarop  de geadopteerde meerderjarig is geworden.
+2. Het verzoek kan alleen worden toegewezen, indien de herroeping in het belang van het kind is, de rechter van de redelijkheid van de herroeping in gemoede overtuigd is, en het verzoek is ingediend niet eerder dan twee jaren en niet later dan drie jaren na de dag waarop de geadopteerde meerderjarig is geworden.
 
 ##### Artikel 342q
 
-- Door herroeping van de adoptie heeft de geadopteerde niet langer de staat van wettig kind van de adoptanten.
+1. Door herroeping van de adoptie heeft de geadopteerde niet langer de staat van wettig kind van de adoptanten.
 
-- De burgerlijke betrekkingen, die krachtens deze staat bestonden tussen de geadopteerde, zijn echtgenoot en zijn kinderen enerzijds, en de  adoptanten en hun bloed- en aanverwanten anderzijds, houden op te bestaan.
+2. De burgerlijke betrekkingen, die krachtens deze staat bestonden tussen de geadopteerde, zijn echtgenoot en zijn kinderen enerzijds, en de adoptanten en hun bloed- en aanverwanten anderzijds, houden op te bestaan.
 
-- De burgerlijke betrekkingen, die door de adoptie hebben opgehouden te bestaan, herleven door de herroeping.
+3. De burgerlijke betrekkingen, die door de adoptie hebben opgehouden te bestaan, herleven door de herroeping.
 
-- Artikel 342o vindt ten aanzien van de herroeping overeenkomstige toepassing.
+4. Artikel 342o vindt ten aanzien van de herroeping overeenkomstige toepassing.
 
 ### DERTIENDE TITEL
 
@@ -3505,6 +3516,8 @@ Indien de rechter bij het geven van zijn beschikking beslist, dat hij, die de ou
 
 ##### Artikel 356 225
 
+Vervallen.
+
 ##### Artikel 357 226
 
 Hij die de ouderlijke macht uitoefent blijft altijd meester om de in het bevel tot opneming bepaalde tijd te verkorten. Om verlenging van de duur der opneming te verkrijgen, zal opnieuw het bepaalde bij artikel 355 moeten worden in acht genomen.
@@ -3522,8 +3535,6 @@ Hij die de ouderlijke macht uitoefent blijft altijd meester om de in het bevel t
 > 226 Gew. bij G.B. 1906 no. 50.
 
 > 227 Gew. bij G.B. 1906 no. 50, G.B. 1935 no. 80, G.B. 1963 no. 24.
-
-Vervallen.
 
 74
 
@@ -3554,7 +3565,9 @@ Hij die krachtens de ouderlijke macht het bewind over de goederen van zijn kinde
 
 Wat de goederen betreft, waarvan de wet hem het vruchtgenot toekent, is hij alleen verantwoordelijk voor derzelver eigendom.
 
-Hij  kan  over  de  goederen  van  zijn  minderjarige  kinderen  niet  beschikken  dan  met inachtneming  der  regelen,  welke  ten  opzichte  van  het  vervreemden  van  goederen,  aan minderjarigen toebehorende, in de vijftiende titel van het eerste boek zijn voorgeschreven.
+##### Artikel 361 231
+
+Hij kan over de goederen van zijn minderjarige kinderen niet beschikken dan met inachtneming der regelen, welke ten opzichte van het vervreemden van goederen, aan minderjarigen toebehorende, in de vijftiende titel van het eerste boek zijn voorgeschreven.
 
 ##### Artikel 362 232
 
@@ -3616,9 +3629,9 @@ De langstlevende der echtgenoten, welke mocht verzuimd hebben om, overeenkomstig
 
 ##### Artikel 368 234
 
-##### Artikel 369 235
-
 Vervallen.
+
+##### Artikel 369 235
 
 Vervallen.
 
@@ -3788,7 +3801,7 @@ Deze tenuitvoerlegging geschiedt niet dan nadat de beschikking is betekend aan h
 
 Ingeval van feitelijke wederstand kan de deurwaarder de hulp van de openbare burgerlijke macht inroepen.
 
-De deurwaarder zal elke plaats kunnen betreden, waar de minderjarigen zich bevinden of vermoed worden zich te bevinden; indien echter de minderjarigen zich bevinden of vermoed worden zich te bevinden in een woning, waarvan de toegang door de bewoner wordt geweigerd of waarvan de deuren gesloten zijn, zal de deurwaarder zich vervoegen te Paramaribo bij de Commissaris  van  Politie  en  in  één  buitendistrict  bij  de  District-Commissaris,  in  wiens tegenwoordigheid het binnentreden van de woning zal geschieden. Van de tegenwoordigheid van deze ambtenaar en van hetgeen in zijn bijzijn uit kracht van dit artikel is verricht, zal melding worden gemaakt in het proces-verbaal van tenuitvoerlegging, welk stuk door die ambtenaar mede zal worden ondertekend.
+De deurwaarder zal elke plaats kunnen betreden, waar de minderjarigen zich bevinden of vermoed worden zich te bevinden; indien echter de minderjarigen zich bevinden of vermoed worden zich te bevinden in een woning, waarvan de toegang door de bewoner wordt geweigerd of waarvan de deuren gesloten zijn, zal de deurwaarder zich vervoegen te Paramaribo bij de
 
 > 245 Ingev. bij G.B. 1915 no. 85, S.B. 1983 no. 117.
 
@@ -3797,6 +3810,8 @@ De deurwaarder zal elke plaats kunnen betreden, waar de minderjarigen zich bevin
 [[END OF PAGE 80]]
 
 [[START OF PAGE 81]]
+
+Commissaris van Politie en in één buitendistrict bij de District-Commissaris, in wiens tegenwoordigheid het binnentreden van de woning zal geschieden. Van de tegenwoordigheid van deze ambtenaar en van hetgeen in zijn bijzijn uit kracht van dit artikel is verricht, zal melding worden gemaakt in het proces-verbaal van tenuitvoerlegging, welk stuk door die ambtenaar mede zal worden ondertekend.
 
 ##### Artikel 371f 246
 
@@ -3820,6 +3835,8 @@ Gelijke mededeling geschiedt door de griffier van de rechterlijke beschikkingen 
 
 ##### Artikel 371i 249
 
+Vervallen.
+
 ##### Artikel 371k 250
 
 > 246 Ingev. bij G.B. 1906 no. 50; Gew. bij G.B. 1944 no. 72, S.B. 1983 no. 117.
@@ -3831,8 +3848,6 @@ Gelijke mededeling geschiedt door de griffier van de rechterlijke beschikkingen 
 > 249 Vervallen bij G.B. 1935 no. 80.
 
 > 250 Gew. bij G.B. 1944 no. 72, S.B. 1983 no. 117.
-
-Vervallen.
 
 81
 
@@ -3854,19 +3869,19 @@ Alle  verzoeken  in  deze  afdeling  bedoeld,  welke  uitgaan  van  het  Bureau 
 
 ##### Artikel 372 253
 
-- Indien een kind zodanig opgroeit, dat het met zedelijke of lichamelijke ondergang wordt bedreigd, kan de kantonrechter het onder toezicht stellen.
+1. Indien een kind zodanig opgroeit, dat het met zedelijke of lichamelijke ondergang wordt bedreigd, kan de kantonrechter het onder toezicht stellen.
 
-- Hij kan dit doen op verzoek van een van de ouders die de ouderlijke macht uitoefent, een van de bloed- of aanverwanten tot en met de vierde graad of het Bureau voor Familierechtelijke Zaken, dan wel op vordering van het openbaar ministerie.
+2. Hij kan dit doen op verzoek van een van de ouders die de ouderlijke macht uitoefent, een van de bloed- of aanverwanten tot en met de vierde graad of het Bureau voor Familierechtelijke Zaken, dan wel op vordering van het openbaar ministerie.
 
-- De  kantonrechter  kan,  een  verzoek  of  een  vordering  tot  ontheffing  of  ontzetting  van  de ouderlijke macht afwijzend, indien het gehouden onderzoek daartoe aanleiding geeft, bij dezelfde beschikking het kind op de in het eerste lid omschreven grond ambtshalve onder toezicht stellen.
+3. De kantonrechter kan, een verzoek of een vordering tot ontheffing of ontzetting van de ouderlijke macht afwijzend, indien het gehouden onderzoek daartoe aanleiding geeft, bij dezelfde beschikking het kind op de in het eerste lid omschreven grond ambtshalve onder toezicht stellen.
 
 ##### Artikel 372a 254
 
-- De verzoeken of vorderingen in het vorige artikel bedoeld omschrijven de feiten en omstandigheden waarop zij zijn gegrond, en worden met de tot staving daarvan dienende bescheiden ingediend bij de kantonrechter van de woonplaats of, bij gebreke van een woonplaats hier te lande, van de verblijfplaats van de minderjarige.
+1. De verzoeken of vorderingen in het vorige artikel bedoeld omschrijven de feiten en omstandigheden waarop zij zijn gegrond, en worden met de tot staving daarvan dienende bescheiden ingediend bij de kantonrechter van de woonplaats of, bij gebreke van een woonplaats hier te lande, van de verblijfplaats van de minderjarige.
 
-- Op het verzoek of de vordering tekent de griffier de datum van indiening aan. Tenzij het verzoek van het Bureau voor Familierechtelijke Zaken is uitgegaan, worden de verzoeken of vorderingen met de bovenbedoelde bescheiden door de griffier ten spoedigste in afschrift aan die raad medegedeeld.
+2. Op het verzoek of de vordering tekent de griffier de datum van indiening aan. Tenzij het verzoek van het Bureau voor Familierechtelijke Zaken is uitgegaan, worden de verzoeken of vorderingen met de bovenbedoelde bescheiden door de griffier ten spoedigste in afschrift aan die raad medegedeeld.
 
-- Bij de verzoeken of vorderingen geschiedt tevens opgave van de namen der ouders en hun woonplaats of verblijfplaats, en, voor zover die bekend zijn, van de namen en woonplaatsen der  bloedverwanten  of  aangehuwden,  die  overeenkomstig  artikel  385  moeten  worden opgeroepen, zomede van de getuigen, die de in het verzoek of de vordering gestelde feiten zouden kunnen staven.
+3. Bij de verzoeken of vorderingen geschiedt tevens opgave van de namen der ouders en hun woonplaats of verblijfplaats, en, voor zover die bekend zijn, van de namen en woonplaatsen der bloedverwanten of aangehuwden, die overeenkomstig artikel 385 moeten worden opgeroepen, zomede van de getuigen, die de in het verzoek of de vordering gestelde feiten zouden kunnen staven.
 
 > 251 Gew. bij G.B. 1944 no. 72, S.B. 1983 no. 117.
 
@@ -3884,41 +3899,41 @@ Alle  verzoeken  in  deze  afdeling  bedoeld,  welke  uitgaan  van  het  Bureau 
 
 ##### Artikel 372b
 
-- De kantonrechter doet uitspraak na verhoor of behoorlijke oproeping van het kind, de ouders, de bloed- of aanverwanten van het kind en het Bureau voor Familierechtelijke Zaken. Indien hij het nodig oordeelt, kan hij het horen van getuigen bevelen.
+1. De kantonrechter doet uitspraak na verhoor of behoorlijke oproeping van het kind, de ouders, de bloed- of aanverwanten van het kind en het Bureau voor Familierechtelijke Zaken. Indien hij het nodig oordeelt, kan hij het horen van getuigen bevelen.
 
-- De voor het verhoor bestemde dag wordt niet later gesteld dan veertien dagen, nadat het verzoek of de vordering is ingediend, indien de ouders of een van hen in Suriname verblijven, en niet later dan twee maanden, indien beide buiten Suriname verblijven.
+2. De voor het verhoor bestemde dag wordt niet later gesteld dan veertien dagen, nadat het verzoek of de vordering is ingediend, indien de ouders of een van hen in Suriname verblijven, en niet later dan twee maanden, indien beide buiten Suriname verblijven.
 
 ##### Artikel 372c
 
-- De oproepingen geschieden door de griffier bij aangetekende brief, te verzenden uiterlijk op de tweede dag, nadat het verhoor is bepaald; indien het echter betreft oproeping van een persoon wiens verblijfplaats niet bekend is, wordt zij onverwijld door de griffier in een of meer door de kantonrechter aan te wijzen nieuwsbladen geplaatst.
+1. De oproepingen geschieden door de griffier bij aangetekende brief, te verzenden uiterlijk op de tweede dag, nadat het verhoor is bepaald; indien het echter betreft oproeping van een persoon wiens verblijfplaats niet bekend is, wordt zij onverwijld door de griffier in een of meer door de kantonrechter aan te wijzen nieuwsbladen geplaatst.
 
-- De  oproeping  van  degene  die  de  ouderlijke  macht  uitoefent,  gaat,  tenzij  het  verzoek  tot ondertoezichtstelling van hemzelf is uitgegaan of zijn verblijfplaats niet bekend is, vergezeld van een beknopte opgave van de inhoud van het verzoek of de vordering.
+2. De oproeping van degene die de ouderlijke macht uitoefent, gaat, tenzij het verzoek tot ondertoezichtstelling van hemzelf is uitgegaan of zijn verblijfplaats niet bekend is, vergezeld van een beknopte opgave van de inhoud van het verzoek of de vordering.
 
-- Bij niet-verschijning van het kind op de dag voor het verhoor bepaald, kan de kantonrechter een nadere dag bepalen en bevelen, dat het kind tegen die dag door een deurwaarder of dienaar van de openbare macht voor hem wordt gebracht; het openbaar ministerie verleend daarbij, zo nodig, zijn medewerking. Verschijnt het kind alsdan wederom niet, dan wordt de zaak zonder hem behandeld.
+3. Bij niet-verschijning van het kind op de dag voor het verhoor bepaald, kan de kantonrechter een nadere dag bepalen en bevelen, dat het kind tegen die dag door een deurwaarder of dienaar van de openbare macht voor hem wordt gebracht; het openbaar ministerie verleend daarbij, zo nodig, zijn medewerking. Verschijnt het kind alsdan wederom niet, dan wordt de zaak zonder hem behandeld.
 
 ##### Artikel 372d
 
-- De behandeling van de zaak geschiedt ter terechtzitting met gesloten deuren, waartoe de kantonrechter om bijzondere redenen toegang kan verlenen.
+1. De behandeling van de zaak geschiedt ter terechtzitting met gesloten deuren, waartoe de kantonrechter om bijzondere redenen toegang kan verlenen.
 
-- Binnen veertien dagen na het laatste verhoor wordt de met redenen omklede beschikking in het openbaar uitgesproken.
+2. Binnen veertien dagen na het laatste verhoor wordt de met redenen omklede beschikking in het openbaar uitgesproken.
 
-- De beschikking kan bij voorraad uitvoerbaar worden verklaard, niettegenstaande verzet of hoger beroep, met of zonder borgtocht.
+3. De beschikking kan bij voorraad uitvoerbaar worden verklaard, niettegenstaande verzet of hoger beroep, met of zonder borgtocht.
 
-##### Artikel 372 e
+##### Artikel 372e
 
-- Bij zijn beschikking tot ondertoezichtstelling benoemt de kantonrechter, een gezinsvoogd, die onder zijn leiding op het kind toezicht houdt.
+1. Bij zijn beschikking tot ondertoezichtstelling benoemt de kantonrechter, een gezinsvoogd, die onder zijn leiding op het kind toezicht houdt.
 
-- In de regel wint de kantonrechter, alvorens tot de benoeming over te gaan, het gevoelen in van een rechtspersoonlijkheid bezittende vereniging, stichting of instelling van weldadigheid, die aan  daartoe  door  de  President  te  stellen  eisen  voldoet.  Hij  roept  zoveel  mogelijk  de medewerking van zodanige instelling in bij het uitoefenen van de leiding van het toezicht.
+2. In de regel wint de kantonrechter, alvorens tot de benoeming over te gaan, het gevoelen in van een rechtspersoonlijkheid bezittende vereniging, stichting of instelling van weldadigheid, die aan daartoe door de President te stellen eisen voldoet. Hij roept zoveel mogelijk de medewerking van zodanige instelling in bij het uitoefenen van de leiding van het toezicht.
 
-- Bij toepassing van de vorige leden let de kantonrechter op de godsdienstige gezindheid van het kind en van het gezin waartoe het behoort.
+3. Bij toepassing van de vorige leden let de kantonrechter op de godsdienstige gezindheid van het kind en van het gezin waartoe het behoort.
 
 ##### Artikel 372f
 
-- Bij de uitspraak brengt de kantonrechter, onder mededeling van de naam van de gezinsvoogd, de ouder die de ouderlijke macht uitoefent, in herinnering:
+1. Bij de uitspraak brengt de kantonrechter, onder mededeling van de naam van de gezinsvoogd, de ouder die de ouderlijke macht uitoefent, in herinnering:
 
-- dat  bij  de  verzorging  en  opvoeding  van  de  minderjarige  hij  de  aanwijzingen  van  de gezinsvoogd moet opvolgen;
+a. dat bij de verzorging en opvoeding van de minderjarige hij de aanwijzingen van de gezinsvoogd moet opvolgen;
 
-- dat bij meningsverschil met dezelve hij zich op hem, de kantonrechter, kan beroepen.
+b. dat bij meningsverschil met dezelve hij zich op hem, de kantonrechter, kan beroepen.
 
 83
 
@@ -3926,49 +3941,49 @@ Alle  verzoeken  in  deze  afdeling  bedoeld,  welke  uitgaan  van  het  Bureau 
 
 [[START OF PAGE 84]]
 
-- Indien hij die de ouderlijke macht uitoefent, niet bij de uitspraak tegenwoordig is, wordt hij bij aangetekende brief van de griffier opgeroepen om voor de kantonrechter te verschijnen. Het in het vorige lid bepaalde wordt hem bij de latere verschijning medegedeeld.
+2. Indien hij die de ouderlijke macht uitoefent, niet bij de uitspraak tegenwoordig is, wordt hij bij aangetekende brief van de griffier opgeroepen om voor de kantonrechter te verschijnen. Het in het vorige lid bepaalde wordt hem bij de latere verschijning medegedeeld.
 
-- Verschijnt hij niet voor de rechter op de oproeping bedoeld in het tweede lid, dan wordt een en ander hem bij exploit betekend.
+3. Verschijnt hij niet voor de rechter op de oproeping bedoeld in het tweede lid, dan wordt een en ander hem bij exploit betekend.
 
 ##### Artikel 372g
 
-- Wanneer hij die de ouderlijke macht uitoefent, op de oproeping, bedoeld bij artikel 372b, niet is verschenen, kan hij, tenzij het verzoek tot ondertoezichtstelling van hemzelf is uitgegaan, in verzet komen binnen veertien dagen, nadat hem overeenkomstig artikel 372f is medegedeeld, wie met de gezinsvoogdij is belast, of nadat de beschikking of enige uit kracht daarvan opgemaakte of ter uitvoering daarvan strekkende akte aan hem in persoon is betekend, of na het plegen door hem van enige daad, waaruit noodzakelijk voortvloeit, dat de beschikking of de aangevangen tenuitvoerlegging hem bekend is.
+1. Wanneer hij die de ouderlijke macht uitoefent, op de oproeping, bedoeld bij artikel 372b, niet is verschenen, kan hij, tenzij het verzoek tot ondertoezichtstelling van hemzelf is uitgegaan, in verzet komen binnen veertien dagen, nadat hem overeenkomstig artikel 372f is medegedeeld, wie met de gezinsvoogdij is belast, of nadat de beschikking of enige uit kracht daarvan opgemaakte of ter uitvoering daarvan strekkende akte aan hem in persoon is betekend, of na het plegen door hem van enige daad, waaruit noodzakelijk voortvloeit, dat de beschikking of de aangevangen tenuitvoerlegging hem bekend is.
 
-- Hij wiens verzoek, of het openbaar ministerie welks vordering, is afgewezen, kan in hoger beroep komen.
+2. Hij wiens verzoek, of het openbaar ministerie welks vordering, is afgewezen, kan in hoger beroep komen.
 
-- Gelijk recht van hoger beroep komt toe, tenzij het verzoek van deze zelf is uitgegaan, aan degene die de ouderlijke macht uitoefent, indien hij bij de oproeping bedoeld bij artikel 372b is verschenen of bij niet-verschijning zijn verzet is afgewezen.
+3. Gelijk recht van hoger beroep komt toe, tenzij het verzoek van deze zelf is uitgegaan, aan degene die de ouderlijke macht uitoefent, indien hij bij de oproeping bedoeld bij artikel 372b is verschenen of bij niet-verschijning zijn verzet is afgewezen.
 
 ##### Artikel 372h
 
-- De gezinsvoogd dient de ouder die de ouderlijke macht uitoefent, van raad bij de verzorging en opvoeding, en tracht hem te overreden hiertoe het nodige te doen.
+1. De gezinsvoogd dient de ouder die de ouderlijke macht uitoefent, van raad bij de verzorging en opvoeding, en tracht hem te overreden hiertoe het nodige te doen.
 
-- Bij de verzorging en opvoeding van het onder toezicht gestelde kind moet de ouder die de ouderlijke macht uitoefent, zich naar de aanwijzingen van de gezinsvoogd gedragen.
+2. Bij de verzorging en opvoeding van het onder toezicht gestelde kind moet de ouder die de ouderlijke macht uitoefent, zich naar de aanwijzingen van de gezinsvoogd gedragen.
 
 ##### Artikel 372i
 
-- De kantonrechter kan, hangende het onderzoek, het kind voorlopig onder toezicht stellen. Dit voorlopig toezicht blijft gelden, totdat omtrent de ondertoezichtstelling bij gewijsde is beslist.
+1. De kantonrechter kan, hangende het onderzoek, het kind voorlopig onder toezicht stellen. Dit voorlopig toezicht blijft gelden, totdat omtrent de ondertoezichtstelling bij gewijsde is beslist.
 
-- Tegen deze beschikking is generlei voorziening toegelaten.
+2. Tegen deze beschikking is generlei voorziening toegelaten.
 
 ##### Artikel 372j
 
-- De kantonrechter bepaalt de duur van de ondertoezichtstelling op een termijn van ten hoogste een jaar.
+1. De kantonrechter bepaalt de duur van de ondertoezichtstelling op een termijn van ten hoogste een jaar.
 
-- De duur van de ondertoezichtstelling kan door de kantonrechter, na verhoor of behoorlijke oproeping van degene die de ouderlijke macht uitoefent en van de gezinsvoogd, telkens met ten hoogste een jaar worden verlengd.
+2. De duur van de ondertoezichtstelling kan door de kantonrechter, na verhoor of behoorlijke oproeping van degene die de ouderlijke macht uitoefent en van de gezinsvoogd, telkens met ten hoogste een jaar worden verlengd.
 
-- Van elke verlenging wordt, met opgave van redenen, onverwijld bij exploit kennis gegeven aan degene die de ouderlijke macht uitoefent; deze kan daartegen in hoger beroep komen.
+3. Van elke verlenging wordt, met opgave van redenen, onverwijld bij exploit kennis gegeven aan degene die de ouderlijke macht uitoefent; deze kan daartegen in hoger beroep komen.
 
 ##### Artikel 372k
 
-- De kantonrechter kan de ondertoezichtstelling te allen tijde opheffen.
+1. De kantonrechter kan de ondertoezichtstelling te allen tijde opheffen.
 
-- Zij eindigt door de meerderjarigjeid van het kind.
+2. Zij eindigt door de meerderjarigjeid van het kind.
 
 ##### Artikel 372l
 
-- De gezinsvoogd zoekt zoveel mogelijk persoonlijke aanraking met het kind en met het gezin waartoe het behoort.
+1. De gezinsvoogd zoekt zoveel mogelijk persoonlijke aanraking met het kind en met het gezin waartoe het behoort.
 
-- Hij bevordert het geestelijk, lichamelijk en toekomstig welzijn van het kind.
+2. Hij bevordert het geestelijk, lichamelijk en toekomstig welzijn van het kind.
 
 84
 
@@ -3978,19 +3993,19 @@ Alle  verzoeken  in  deze  afdeling  bedoeld,  welke  uitgaan  van  het  Bureau 
 
 ##### Artikel 372m
 
-- De gezinsvoogd dient de ouder die de ouderlijke macht uitoefent, van raad bij de verzorging en opvoeding, en tracht hem te overreden hiertoe het nodige te doen.
+1. De gezinsvoogd dient de ouder die de ouderlijke macht uitoefent, van raad bij de verzorging en opvoeding, en tracht hem te overreden hiertoe het nodige te doen.
 
-- Bij de verzorging en opvoeding van het onder toezicht gestelde kind moet de ouder die de ouderlijke macht uitoefent, zich naar de aanwijzingen van de gezinsvoogd gedragen.
+2. Bij de verzorging en opvoeding van het onder toezicht gestelde kind moet de ouder die de ouderlijke macht uitoefent, zich naar de aanwijzingen van de gezinsvoogd gedragen.
 
 ##### Artikel 372n
 
-- Ingeval van verschil tussen de gezinsvoogd en degene die de ouderlijke macht uitoefent, ten aanzien van de in het belang van het kind te nemen maatregelen, beslist de kantonrechter.
+1. Ingeval van verschil tussen de gezinsvoogd en degene die de ouderlijke macht uitoefent, ten aanzien van de in het belang van het kind te nemen maatregelen, beslist de kantonrechter.
 
-- Zodanige beslissing wordt op schriftelijk verzoek van een der partijen, nadat ook de andere partij in de gelegenheid is gesteld haar gevoelen voor de kantonrechter toe te lichten, met de meeste spoed genomen.
+2. Zodanige beslissing wordt op schriftelijk verzoek van een der partijen, nadat ook de andere partij in de gelegenheid is gesteld haar gevoelen voor de kantonrechter toe te lichten, met de meeste spoed genomen.
 
-- Van deze beschikking, die bij voorraad uitvoerbaar is, kan de ouder die de ouderlijke macht uitoefent, in hoger beroep komen.
+3. Van deze beschikking, die bij voorraad uitvoerbaar is, kan de ouder die de ouderlijke macht uitoefent, in hoger beroep komen.
 
-- Aanwijzing tot het nemen van maatregelen, die kosten zullen veroorzaken, kan de gezinsvoogd slechts met machtiging van de kantonrechter geven.
+4. Aanwijzing tot het nemen van maatregelen, die kosten zullen veroorzaken, kan de gezinsvoogd slechts met machtiging van de kantonrechter geven.
 
 ##### Artikel 372o
 
@@ -4002,23 +4017,22 @@ Plaatsing van het kind buiten het gezin kan, behoudens in de gevallen, dat de ou
 
 ##### Artikel 372q
 
-- De kantonrechter kan het kind tot onderzoek van zijn geestelijke of lichamelijke gesteldheid voor ten hoogste drie maanden in een ziekenhuis doen opnemen; het openbaar ministerie verleent daarbij, zo nodig, zijn medewerking.
+1. De kantonrechter kan het kind tot onderzoek van zijn geestelijke of lichamelijke gesteldheid voor ten hoogste drie maanden in een ziekenhuis doen opnemen; het openbaar ministerie verleent daarbij, zo nodig, zijn medewerking.
 
-- De kantonrechter kan, indien het belang van het kind het noodzakelijk maakt, de termijn van opneming eenmaal met ten hoogste twee maanden verlengen.
+2. De kantonrechter kan, indien het belang van het kind het noodzakelijk maakt, de termijn van opneming eenmaal met ten hoogste twee maanden verlengen.
 
-- Beschikkingen krachtens de voorgaande leden van dit artikel kunnen zonder voorafgaand verhoor worden gegeven. Tot  verlenging  van  de  plaatsing  in  het  ziekenhuis  besluit  de  kantonrechter  niet,  dan  na
+3. Beschikkingen krachtens de voorgaande leden van dit artikel kunnen zonder voorafgaand verhoor worden gegeven.
+Tot verlenging van de plaatsing in het ziekenhuis besluit de kantonrechter niet, dan na inlichtingen bij het hoofd van de inrichting te hebben ingewonnen.
 
-- inlichtingen bij het hoofd van de inrichting te hebben ingewonnen.
-
-- Tegen de in dit artikel bedoelde beschikkingen kan de ouder die de ouderlijke macht uitoefent, in hoger beroep komen.
+4. Tegen de in dit artikel bedoelde beschikkingen kan de ouder die de ouderlijke macht uitoefent, in hoger beroep komen.
 
 ##### Artikel 372r
 
-- Indien dit in het belang van de verzorging en opvoeding noodzakelijk is, kan de kantonrechter het kind in een der tot dit doel door de President aan te wijzen inrichtingen of elders dan in een inrichting doen opnemen.
+1. Indien dit in het belang van de verzorging en opvoeding noodzakelijk is, kan de kantonrechter het kind in een der tot dit doel door de President aan te wijzen inrichtingen of elders dan in een inrichting doen opnemen.
 
-- Bij zijn keuze let de kantonrechter op de wensen van hen die het gezag uitoefenen, en op de godsdienstige gezindheid van het kind en het gezin waartoe het behoort.
+2. Bij zijn keuze let de kantonrechter op de wensen van hen die het gezag uitoefenen, en op de godsdienstige gezindheid van het kind en het gezin waartoe het behoort.
 
-- De kantonrechter bepaalt de duur van de opneming op een termijn van ten hoogste een jaar. Hij kan deze termijn te allen tijde verkorten, maar tot ten hoogste twee jaren verlengen.
+3. De kantonrechter bepaalt de duur van de opneming op een termijn van ten hoogste een jaar. Hij kan deze termijn te allen tijde verkorten, maar tot ten hoogste twee jaren verlengen.
 
 85
 
@@ -4026,17 +4040,17 @@ Plaatsing van het kind buiten het gezin kan, behoudens in de gevallen, dat de ou
 
 [[START OF PAGE 86]]
 
-- Verdere verlenging, telkens ten hoogste met een jaar, is slechts mogelijk:
+4. Verdere verlenging, telkens ten hoogste met een jaar, is slechts mogelijk:
 
-- wanneer het kind de leeftijd van achttien jaren heeft bereikt;
+a. wanneer het kind de leeftijd van achttien jaren heeft bereikt;
 
-- wanneer het kind de leeftijd van dertien jaren heeft bereikt, doch alleen indien de verlenging bepaaldelijk ter wille van de voortzetting van een aangevangen opleiding noodzakelijk is;
+b. wanneer het kind de leeftijd van dertien jaren heeft bereikt, doch alleen indien de verlenging bepaaldelijk ter wille van de voortzetting van een aangevangen opleiding noodzakelijk is;
 
-- indien  de  verlenging  bepaaldelijk  ter  wille  van  de  voortzetting  van  een  aangevangen behandeling van medische aard noodzakelijk is.
+c. indien de verlenging bepaaldelijk ter wille van de voortzetting van een aangevangen behandeling van medische aard noodzakelijk is.
 
-- Opneming in een in het eerste lid bedoelde inrichting eindigt mede door een besluit van de Minister van Justitie en Politie, de kantonrechter gehoord, wanneer de minister dit in verband met  een  juiste  verdeling  der  in  de  aangewezen  inrichtingen  beschikbare  plaatsruimte noodzakelijk oordeelt.
+5. Opneming in een in het eerste lid bedoelde inrichting eindigt mede door een besluit van de Minister van Justitie en Politie, de kantonrechter gehoord, wanneer de minister dit in verband met een juiste verdeling der in de aangewezen inrichtingen beschikbare plaatsruimte noodzakelijk oordeelt.
 
-- De beschikkingen krachtens de voorgaande leden van dit artikel worden niet gegeven, dan nadat ook de gezinsvoogd gehoord of behoorlijk opgeroepen is. Artikel 372q derde lid, tweede volzin, en vierde lid is van toepassing.
+6. De beschikkingen krachtens de voorgaande leden van dit artikel worden niet gegeven, dan nadat ook de gezinsvoogd gehoord of behoorlijk opgeroepen is. Artikel 372q derde lid, tweede volzin, en vierde lid is van toepassing.
 
 ##### Artikel 372s
 
@@ -4048,9 +4062,9 @@ Door de President worden voorschriften gegeven ten aanzien van alles, wat in ver
 
 ##### Artikel 372u
 
-- Alle  verzoekschriften,  vorderingen,  beschikkingen,  exploiten  en  alle  andere  stukken, opgemaakt ter voldoening aan de bepalingen van deze afdeling, zijn vrij van zegel.
+1. Alle verzoekschriften, vorderingen, beschikkingen, exploiten en alle andere stukken, opgemaakt ter voldoening aan de bepalingen van deze afdeling, zijn vrij van zegel.
 
-- Alle verzoeken in deze afdeling bedoeld, welke uitgaan van het Bureau voor Familierechtelijke Zaken, worden kosteloos behandeld en de door die raad in het belang van de hem opgedragen taak gevraagde grossen, afschriften en uittreksels worden hem door de griffiers vrij van alle kosten uitgereikt. Artikel 371k is te dezen eveneens van toepassing.
+2. Alle verzoeken in deze afdeling bedoeld, welke uitgaan van het Bureau voor Familierechtelijke Zaken, worden kosteloos behandeld en de door die raad in het belang van de hem opgedragen taak gevraagde grossen, afschriften en uittreksels worden hem door de griffiers vrij van alle kosten uitgereikt. Artikel 371k is te dezen eveneens van toepassing.
 
 #### DERDE AFDELING
 
@@ -4183,11 +4197,11 @@ Brengt de toeziende voogd zijn woonplaats naar het buitenland over, dan houdt he
 
 [[START OF PAGE 89]]
 
-- andere  wetten  uitdrukkelijk  genoemde  bemoeienissen  -  is  opgedragen  de  zorg  voor  de minderjarigen,  die  bij  rechterlijk  vonnis  of  anderszins  aan  de  zorg  van  het  Bureau  zijn toevertrouwd.
+andere wetten uitdrukkelijk genoemde bemoeienissen - is opgedragen de zorg voor de minderjarigen, die bij rechterlijk vonnis of anderszins aan de zorg van het Bureau zijn toevertrouwd.
 
-- Taak en bevoegdheden van het Bureau worden, voor zover dit niet in dit Wetboek of in andere wettelijke regelingen heeft plaatsgehad, bij Staatsbesluit geregeld.
+2. Taak en bevoegdheden van het Bureau worden, voor zover dit niet in dit Wetboek of in andere wettelijke regelingen heeft plaatsgehad, bij Staatsbesluit geregeld.
 
-- Het Bureau voor Familierechtelijke Zaken draagt zorg, dat de gelden, aan het Bureau betaald door personen, die krachtens dit Wetboek of een andere wettelijke regeling tot een uitkering tot onderhoud en opvoeding van hun kinderen verplicht zijn, overeenkomstig hun bestemming worden besteed.
+3. Het Bureau voor Familierechtelijke Zaken draagt zorg, dat de gelden, aan het Bureau betaald door personen, die krachtens dit Wetboek of een andere wettelijke regeling tot een uitkering tot onderhoud en opvoeding van hun kinderen verplicht zijn, overeenkomstig hun bestemming worden besteed.
 
 ##### Artikel 382c 265
 
@@ -4195,13 +4209,13 @@ Het  Bureau  voor  Familierechtelijke  Zaken  kan  in  rechte  optreden  ten  be
 
 ##### Artikel 382d 266
 
-- Alle vorderingen strekkende tot vaststelling van een bedrag tot onderhoud en opvoeding van minderjarige  kinderen  en  vorderingen  strekkende  tot  wijziging  van  een  dergelijk  bedrag kunnen  door  de  wettelijke  vertegenwoordiger  van  de  minderjarige,  na  intrede  van  de meerderjarigheid door het kind zelf en door het Bureau voor Familierechtelijke Zaken worden ingesteld. Ze kunnen van een ter zake gegeven beslissing in verzet of hoger beroep gaan.
+1. Alle vorderingen strekkende tot vaststelling van een bedrag tot onderhoud en opvoeding van minderjarige kinderen en vorderingen strekkende tot wijziging van een dergelijk bedrag kunnen door de wettelijke vertegenwoordiger van de minderjarige, na intrede van de meerderjarigheid door het kind zelf en door het Bureau voor Familierechtelijke Zaken worden ingesteld. Ze kunnen van een ter zake gegeven beslissing in verzet of hoger beroep gaan.
 
-- Het Bureau voor Familierechtelijke Zaken behoeft voor het instellen van een in het vorige lid bedoelde vordering en voor het aanwenden van rechtsmiddelen tegen de in dat lid bedoelde beslissingen schriftelijke toestemming  van  de  wettelijke vertegenwoordiger  van  de minderjarige en zo dat de moeder niet is, tevens van de moeder, behalve wanneer zij haar wil niet kan verklaren.
+2. Het Bureau voor Familierechtelijke Zaken behoeft voor het instellen van een in het vorige lid bedoelde vordering en voor het aanwenden van rechtsmiddelen tegen de in dat lid bedoelde beslissingen schriftelijke toestemming van de wettelijke vertegenwoordiger van de minderjarige en zo dat de moeder niet is, tevens van de moeder, behalve wanneer zij haar wil niet kan verklaren.
 
-- Bij niet geregelde voldoening van de bedragen door de rechter vastgesteld na een verzoek als bedoeld in het eerste lid van dit artikel kan, ongeacht wie het verzoek heeft gedaan, het Bureau voor Familierechtelijke Zaken het vonnis of de beschikking ten uitvoer leggen op de wijze bedoeld in de Derde Afdeling van de Tweede Titel van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering.
+3. Bij niet geregelde voldoening van de bedragen door de rechter vastgesteld na een verzoek als bedoeld in het eerste lid van dit artikel kan, ongeacht wie het verzoek heeft gedaan, het Bureau voor Familierechtelijke Zaken het vonnis of de beschikking ten uitvoer leggen op de wijze bedoeld in de Derde Afdeling van de Tweede Titel van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering.
 
-- De uitkeringen, bedoeld in het eerste lid worden aan het Bureau voor Familierechtelijke Zaken uitbetaald,  tenzij  uit  desbetreffende  wettelijke  bepalingen  het  tegendeel  blijkt  of  met  de wettelijke vertegenwoordiger van de minderjarige anders is overeengekomen.
+4. De uitkeringen, bedoeld in het eerste lid worden aan het Bureau voor Familierechtelijke Zaken uitbetaald, tenzij uit desbetreffende wettelijke bepalingen het tegendeel blijkt of met de wettelijke vertegenwoordiger van de minderjarige anders is overeengekomen.
 
 #### TWEEDE AFDELING
 #### VAN DE VOOGDIJ IN HET ALGEMEEN
@@ -4223,6 +4237,8 @@ De voogdij of toeziende voogdij van kinderen van dezelfde ouders wordt gerekend 
 [[END OF PAGE 89]]
 
 [[START OF PAGE 90]]
+
+##### Artikel 383a 268
 
 De voogdij begint:
 
@@ -4266,8 +4282,6 @@ Wanneer de benoemde voogd weigerachtig of in gebreke is de voogdij uit te oefene
 
 > 270 Gew. bij G.B. 1906 no. 50.
 
-##### Artikel 383a 268
-
 90
 
 [[END OF PAGE 90]]
@@ -4285,6 +4299,10 @@ Noch de door een der ouders benoemde voogd, noch de tot voogdes benoemde gehuwde
 Betekening wordt niet vereist, indien ter griffie van het kantongerecht de verklaring is afgelegd, dat de benoeming wordt geweigerd.
 
 De  voorafgaande  bepalingen  zijn  op  verenigingen,  stichtingen  en  instellingen  van weldadigheid bedoeld in artikel 418 toepasselijk, tenzij haar de voogdij op eigen verzoek of bereidverklaring is opgedragen.
+
+##### Artikel 384b 272
+
+Vervallen.
 
 ##### Artikel 384c 273
 
@@ -4307,8 +4325,6 @@ Wanneer, naar aanleiding der bepalingen van de voorgaande, deze en de volgende t
 > 274 Ingev. bij G.B. 1906 no. 50; Gew. bij S.B. 1981 no. 23.
 
 > 275 Gew. bij G.B. 1906 no. 50.
-
-Vervallen.
 
 91
 
@@ -4450,21 +4466,9 @@ Vervallen.
 
 [[START OF PAGE 95]]
 
-Vervallen.
-
-> 287 Vervallen bij G.B. 1906 no. 50.
-
-> 288 Vervallen bij G.B. 1906 no. 50.
-
-> 289 Vervallen bij G.B. 1906 no. 50.
-
-> 290 Gew. bij G.B. 1906 no. 50.
-
-> 291 Gew. bij G.B. 1906 no. 50.
-
-> 292 Gew. bij G.B. 1906 no. 50, G.B. 1926 no. 96, G.B. 1963 no. 24.
-
 ##### Artikel 399 287
+
+Vervallen.
 
 ##### Artikel 400
 
@@ -4498,6 +4502,18 @@ Zodra de termijn van beroep verlopen of de beschikking bevestigd is wordt door h
 
 ##### Artikel 405 292
 
+> 287 Vervallen bij G.B. 1906 no. 50.
+
+> 288 Vervallen bij G.B. 1906 no. 50.
+
+> 289 Vervallen bij G.B. 1906 no. 50.
+
+> 290 Gew. bij G.B. 1906 no. 50.
+
+> 291 Gew. bij G.B. 1906 no. 50.
+
+> 292 Gew. bij G.B. 1906 no. 50, G.B. 1926 no. 96, G.B. 1963 no. 24.
+
 95
 
 [[END OF PAGE 95]]
@@ -4517,6 +4533,8 @@ Wanneer een derde voogd is, wordt het verzoek slechts afgewezen, indien gegronde
 De  kantonrechter  beslist  op  het  verzoek  van  de  moeder  na  verhoor  of  behoorlijke oproeping van de vader indien deze het kind heeft erkend, de voogd, de toeziende voogd, de echtgenoot van de moeder indien zij gehuwd is en het Bureau voor Familierechtelijke Zaken, en behoudens beroep op de hogere rechter.
 
 ##### Artikel 405a 293
+
+Vervallen.
 
 ##### Artikel 405b 294
 
@@ -4547,8 +4565,6 @@ Indien, voordat over het verzoek van een ouder is beslist de andere ouder van re
 > 295 Ingev. bij G.B. 1963 no. 24.
 
 > 296 Ingev. bij G.B. 1963 no. 24.
-
-Vervallen.
 
 96
 
@@ -4718,7 +4734,7 @@ Het bestuur kan een of meer van zijn leden schriftelijk machtigen tot de uitoefe
 
 De  griffier  doet  van  de  opdracht  schriftelijk  mededeling  aan  het  Bureau  voor Familierechtelijke Zaken en aan de procureur-generaal.
 
-Het bestuur van de vereniging, stichting of instelling van weldadigheid doet schriftelijk mededeling van de opneming van minderjarigen in woningen of gestichten aan het Bureau voor Familierechtelijke Zaken en aan de procureur-generaal. De hierbedoelde woningen en gestichten worden ter beoordeling van de toestand der daarin geplaatste minderjarigen door de procureurgeneraal en het Bureau voor Familierechtelijke Zaken bezocht telkens wanneer deze zulks nodig of geraden oordelen.
+Het bestuur van de vereniging, stichting of instelling van weldadigheid doet schriftelijk mededeling van de opneming van minderjarigen in woningen of gestichten aan het Bureau voor Familierechtelijke Zaken en aan de procureur-generaal. De hierbedoelde woningen en gestichten worden ter beoordeling van de toestand der daarin geplaatste minderjarigen door de procureur-generaal en het Bureau voor Familierechtelijke Zaken bezocht telkens wanneer deze zulks nodig of geraden oordelen.
 
 De toeziende voogd wordt desverlangd in de gelegenheid gesteld de minderjarigen, over wie hij de toeziende voogdij uitoefent, eenmaal 's weeks te bezoeken.
 
@@ -4773,7 +4789,7 @@ De verplichtingen van de toeziende voogd bestaan in het waarnemen van de belange
 
 Hij is, op straffe van vergoeding van kosten, schaden en interessen, verplicht toe te zien, dat de voogd aan zijn verplichting voldoet door het stellen van zekerheid, of door dezelve, zo daartoe  termen  zijn,  aan  te  vullen,  overeenkomstig  artikel  387  en  volgende  van  deze  titel, mitsgaders dat de gestelde hypotheek behoorlijk worde ingeschreven.
 
-Hij is insgelijks, en op dezelfde straffe, gehouden de voogd te noodzaken tot het maken van inventaris of boedelbeschrijving, in al de nalatenschappen, welke aan de minderjarige zijn opgekomen.
+Hij is insgelijks, en op dezelfde straffe, gehouden de voogd te noodzaken tot het maken
 
 > 312 Gew. bij G.B. 1906 no. 50.
 
@@ -4790,6 +4806,8 @@ Hij is insgelijks, en op dezelfde straffe, gehouden de voogd te noodzaken tot he
 [[END OF PAGE 101]]
 
 [[START OF PAGE 102]]
+
+van inventaris of boedelbeschrijving, in al de nalatenschappen, welke aan de minderjarige zijn opgekomen.
 
 ##### Artikel 426
 
@@ -4821,6 +4839,8 @@ De toeziende voogdij eindigt op hetzelfde tijdstip als de voogdij.
 
 ##### Artikel 430 319
 
+Vervallen.
+
 ##### Artikel 431 320
 
 Van de voogdij en de toeziende voogdij kunnen zich verschoonen: 1°. Zij, die zich in dienst van den lande buiten Suriname bevinden;
@@ -4832,8 +4852,6 @@ Van de voogdij en de toeziende voogdij kunnen zich verschoonen: 1°. Zij, die zi
 > 319 Vervallen bij  G.B. 1906 no. 50.
 
 > 320 Gew. bij G.B. 1906 no. 50.
-
-Vervallen.
 
 102
 
@@ -4957,7 +4975,7 @@ Onder misdrijf worden in dit artikel ook begrepen medeplichtigheid aan en poging
 
 ##### Artikel 436 325
 
-De ontzetting van een voogd of toeziende voogd geschiedt door de kantonrechter van de woonplaats of, bij gebreke daarvan, van de laatste woonplaats van hem, wiens ontzetting wordt gevraagd, op verzoek van de toeziende voogd of de voogd of van een der bloedverwanten of aangehuwden  van  de  minderjarige  tot  de  vierde  graad  ingesloten,  van  het  Bureau  voor Familierechtelijke Zaken of op de vordering van het openbaar ministerie. Behalve door deze kan het verzoek om ontzetting in het geval, bedoeld in het vorig artikel 9 , ook geschieden door hen, die onderhoud en opvoeding van het kind op zich hebben genomen.
+De ontzetting van een voogd of toeziende voogd geschiedt door de kantonrechter van de woonplaats of, bij gebreke daarvan, van de laatste woonplaats van hem, wiens ontzetting wordt gevraagd, op verzoek van de toeziende voogd of de voogd of van een der bloedverwanten of aangehuwden van de minderjarige tot de vierde graad ingesloten, van het Bureau voor Familierechtelijke Zaken of op de vordering van het openbaar ministerie. Behalve door deze kan het verzoek om ontzetting in het geval, bedoeld in het vorig artikel 9°, ook geschieden door hen, die onderhoud en opvoeding van het kind op zich hebben genomen.
 
 Het verzoek of de vordering bevat de feiten en omstandigheden, waarop het is gegrond, en houdt tevens in een opgave van de namen der ouders, van de voogd, van de toeziende voogd en van  woon-  of  verblijfplaatsen,  voor  zover  die  bekend  zijn,  van  de  namen  en  woon-  of verblijfplaatsen der bloedverwanten of der aangehuwden, die overeenkomstig artikel 385 moeten worden opgeroepen, zomede van de getuigen, die de in het verzoek of in de vordering gestelde feiten  zouden  kunnen  staven.  Tenzij  het  verzoek  tot  ontzetting  van  het  Bureau  voor Familierechtelijke Zaken is uitgegaan, deelt de griffier het verzoek of de vordering met de tot staving daarvan ingezonden bescheiden ten spoedigste in afschrift aan die raad mede. De griffier tekent op het verzoek of op de vordering de dag van indiening aan.
 
@@ -4977,7 +4995,7 @@ De behandeling van de zaak geschiedt ter terechtzitting met gesloten deuren.
 
 De beschikking wordt in het openbaar uitgesproken. Zij kan uitvoerbaar verklaard worden bij voorraad niettegenstaande verzet of beroep, met of zonder borgtocht.
 
-Het  staat  aan  de  kantonrechter  vrij  gedurende  het  onderzoek  de  uitoefening  van  de voogdij of de toeziende voogdij geheel of gedeeltelijk te schorsen en aan een door hetzelve aan te wijzen persoon of aan het Bureau voor Familierechtelijke Zaken zodanige bevoegdheid ten aanzien van de persoon en de goederen der minderjarigen toe te kennen als hij zal oirbaar achten.
+Het staat aan de kantonrechter vrij gedurende het onderzoek de uitoefening van de voogdij of de toeziende voogdij geheel of gedeeltelijk te schorsen en aan een door hetzelve aan te
 
 > 325 Gew. bij G.B. 1906 no. 50, G.B. 1935 no. 80, G.B. 1944 no. 72, S.B. 1983 no. 117.
 
@@ -4989,7 +5007,9 @@ Het  staat  aan  de  kantonrechter  vrij  gedurende  het  onderzoek  de  uitoefe
 
 [[START OF PAGE 106]]
 
-Tegen  de  in  het  voorgaande  lid  bedoelde  beschikkingen  is  generlei  voorziening toegelaten. Zij behouden hare kracht tot dat de uitspraak betreffende de ontzetting kracht van gewijsde heeft verkregen.
+wijzen persoon of aan het Bureau voor Familierechtelijke Zaken zodanige bevoegdheid ten aanzien van de persoon en de goederen der minderjarigen toe te kennen als hij zal oirbaar achten.
+
+Tegen de in het voorgaande lid bedoelde beschikkingen is generlei voorziening toegelaten. Zij behouden hare kracht tot dat de uitspraak betreffende de ontzetting kracht van gewijsde heeft verkregen.
 
 De  bepalingen  van  het  zevende  en  het  achtste  lid  van  artikel  371d  zijn  ten  deze toepasselijk.
 
@@ -5045,7 +5065,7 @@ Het derde, vierde, vijfde en zesde lid van artikel 371e zijn ten deze toepasseli
 
 ##### Artikel 438b bis 331
 
-Indien de minderjarigen zich niet reeds bevinden in de feitelijke macht van de persoon of van het bestuur van de vereniging, stichting of instelling van weldadigheid, aan welke ingevolge enige rechterlijke beschikking in deze afdeling bedoeld de voogdij toekomt, of van de persoon of van het Bureau voor Familierechtelijke Zaken, aan welke de kinderen mochten zijn toevertrouwd krachtens de beschikking bedoeld in artikel 437, derde lid, wordt in dezelfde rechterlijke beschikking  tevens  de  afgifte  der  kinderen  aan  degene,  aan  wie  het  gezag  over  de  minderjarigen tengevolge van zulke beschikking toekomt, bevolen. De bepalingen van het tweede, derde, vierde en vijfde lid van artikel 371e bis zijn ten deze toepasselijk.
+Indien de minderjarigen zich niet reeds bevinden in de feitelijke macht van de persoon of van het bestuur van de vereniging, stichting of instelling van weldadigheid, aan welke ingevolge enige rechterlijke beschikking in deze afdeling bedoeld de voogdij toekomt, of van de persoon of van het Bureau voor Familierechtelijke Zaken, aan welke de kinderen mochten zijn toevertrouwd krachtens de beschikking bedoeld in artikel 437, derde lid, wordt in dezelfde rechterlijke beschikking tevens de afgifte der kinderen aan degene, aan wie het gezag over de minderjarigen tengevolge van zulke beschikking toekomt, bevolen. De bepalingen van het tweede, derde, vierde
 
 > 330 Ingev. bij G.B. 1906 no. 50; Gew. bij G.B. 1935 no. 80, G.B. 1944 no. 72, G.B. 1973 no. 75.
 
@@ -5056,6 +5076,8 @@ Indien de minderjarigen zich niet reeds bevinden in de feitelijke macht van de p
 [[END OF PAGE 107]]
 
 [[START OF PAGE 108]]
+
+en vijfde lid van artikel 371e bis zijn ten deze toepasselijk.
 
 ##### Artikel 438c 332
 
@@ -5091,7 +5113,7 @@ De minderjarige is aan zijn voogd eerbied verschuldigd.
 
 ##### Artikel 440 337
 
-Wanneer de voogd gewichtige redenen van misnoegen heeft over het gedrag van de minderjarige kan de kantonrechter, op zijn verzoek en ten koste van hem of van de minderjarige, de minderjarige voor een bepaalde tijd doen opnemen in een voor dat doel bij wet aangewezen inrichting.
+Wanneer de voogd gewichtige redenen van misnoegen heeft over het gedrag van de minderjarige kan de kantonrechter, op zijn verzoek en ten koste van hem of van de minderjarige,
 
 > 332 Ingev. bij G.B. 1906 no. 50; Gew. bij G.B. 1935 no. 80.
 
@@ -5110,6 +5132,8 @@ Wanneer de voogd gewichtige redenen van misnoegen heeft over het gedrag van de m
 [[END OF PAGE 108]]
 
 [[START OF PAGE 109]]
+
+de minderjarige voor een bepaalde tijd doen opnemen in een voor dat doel bij wet aangewezen inrichting.
 
 De kantonrechter kan de opneming niet gelasten dan na verhoor of behoorlijke oproeping van de toeziende voogd en de bloedverwanten of aangehuwden van de minderjarige, mitsgaders na verhoor van de minderjarige.
 
@@ -5140,7 +5164,7 @@ Indien de minderjarige iets aan de voogd verschuldigd is, zal deze zulks bij de 
 
 ##### Artikel 444 339
 
-Na het begin van elke voogdij, met uitzondering van die welke door de vader of de moeder gevoerd wordt, zal de kantonrechter, na verhoor van de toeziende voogd, en na oproeping der  bloedverwanten  of  aangehuwden  van  de  minderjarige,  bij  raming,  en  naar  gelang  der goederen die bestuurd moeten worden, het beloop van de som bepalen, welke de minderjarige jaarlijks zal kunnen verteren, gelijk mede de kosten welke op het beheer der goederen kunnen vallen; alles behoudens het beroep aan het hof van justitie, indien de kantonrechter zich niet met de mening van het merendeel der verschenen nabestaanden verenigd heeft.
+Na het begin van elke voogdij, met uitzondering van die welke door de vader of de moeder gevoerd wordt, zal de kantonrechter, na verhoor van de toeziende voogd, en na oproeping
 
 > 338 Gew. bij G.B. 1906 no. 50.
 
@@ -5152,7 +5176,9 @@ Na het begin van elke voogdij, met uitzondering van die welke door de vader of d
 
 [[START OF PAGE 110]]
 
-Bij dezelfde akte zal ook worden bepaald, of de voogd gemachtigd is, om zich in zijn beheer  te  bedienen  van  een  of  meer  bijzondere  loontrekkende  bewindvoerders,  onder  zijn verantwoordelijkheid de zaken waarnemende. Het loon van deze bewindvoerders wordt door de kantonrechter bepaald.
+der bloedverwanten of aangehuwden van de minderjarige, bij raming, en naar gelang der goederen die bestuurd moeten worden, het beloop van de som bepalen, welke de minderjarige jaarlijks zal kunnen verteren, gelijk mede de kosten welke op het beheer der goederen kunnen vallen; alles behoudens het beroep aan het hof van justitie, indien de kantonrechter zich niet met de mening van het merendeel der verschenen nabestaanden verenigd heeft.
+
+Bij dezelfde akte zal ook worden bepaald, of de voogd gemachtigd is, om zich in zijn beheer te bedienen van een of meer bijzondere loontrekkende bewindvoerders, onder zijn verantwoordelijkheid de zaken waarnemende. Het loon van deze bewindvoerders wordt door de kantonrechter bepaald.
 
 ##### Artikel 445
 
@@ -5182,7 +5208,7 @@ Hij mag de penningen van de minderjarige op geen andere wijze beleggen dan:
 
 - 3°. In rentgevende schuldbrieven, gehypothekeerd op vaste goederen, welker onbezwaarde waarde ten minste de helft boven de te beleggen som bedraagt, en die, voor zover zij geen plantages of gronden zijn, op soliede wijze tegen brandschade moeten zijn verzekerd.
 
-Wanneer de penningen niet binnen twee maanden, te rekenen van de dag waarop zij in zijn bezit zijn gekomen, overeenkomstig het voorschrift van dit artikel, zijn belegd, is de voogd verplicht die penningen zonder verder verwijl in de consignatiekas te storten, bij nalatigheid waarvan hij, onverminderd zijn aansprakelijkheid voor de wettelijke interesten, van de voogdij zal kunnen worden ontzet.
+Wanneer de penningen niet binnen twee maanden, te rekenen van de dag waarop zij in
 
 > 340 Gew. bij G.B. 1944 no. 76.
 
@@ -5191,6 +5217,8 @@ Wanneer de penningen niet binnen twee maanden, te rekenen van de dag waarop zij 
 [[END OF PAGE 110]]
 
 [[START OF PAGE 111]]
+
+zijn bezit zijn gekomen, overeenkomstig het voorschrift van dit artikel, zijn belegd, is de voogd verplicht die penningen zonder verder verwijl in de consignatiekas te storten, bij nalatigheid waarvan hij, onverminderd zijn aansprakelijkheid voor de wettelijke interesten, van de voogdij zal kunnen worden ontzet.
 
 Indien de belegging niet binnen drie maanden na de storting in de consignatiekas heeft plaats gehad overeenkomstig no. 2 of 3, moet zij in inschrijving op het grootboek geschieden, tenzij door de kantonrechter een verlenging van de duur van de storting worde toegestaan.
 
@@ -5308,7 +5336,7 @@ Indien  minderjarigen  die  onder  voogdij  staan  van  verschillende  voogden, 
 
 ##### Artikel 464
 
-De voogd kan, zonder het verlof waarvan bij artikel 450 wordt gesproken, in de naam van de  minderjarige  geen  dading  aangaan, noch  de beslissing  van een zaak aan scheidsmannen opdragen.
+De voogd kan, zonder het verlof waarvan bij artikel 450 wordt gesproken, in de naam van
 
 > 345 Ingev. bij G.B. 1906 no. 50; Gew. bij G.B. 1944 no. 76.
 
@@ -5317,6 +5345,8 @@ De voogd kan, zonder het verlof waarvan bij artikel 450 wordt gesproken, in de n
 [[END OF PAGE 113]]
 
 [[START OF PAGE 114]]
+
+de minderjarige geen dading aangaan, noch de beslissing van een zaak aan scheidsmannen opdragen.
 
 ##### Artikel 465 346
 
@@ -5381,21 +5411,21 @@ Alle rechtsvordering van de minderjarige tegen zijn voogd, betrekkelijk de verri
 
 ##### Artikel 471a350
 
-- Het kind en de niet met het gezag belaste ouder hebben recht op omgang met elkaar.
+- 1. Het kind en de niet met het gezag belaste ouder hebben recht op omgang met elkaar.
 
-- De rechter stelt op verzoek van de ouders of van een van hen, al dan niet voor bepaalde tijd, een regeling inzake de uitoefening van het omgangsrecht vast dan wel ontzegt, al dan niet voor bepaalde tijd, het recht op omgang.
+- 2. De rechter stelt op verzoek van de ouders of van een van hen, al dan niet voor bepaalde tijd, een regeling inzake de uitoefening van het omgangsrecht vast dan wel ontzegt, al dan niet voor bepaalde tijd, het recht op omgang.
 
-- 3 . De rechter ontzegt het recht op omgang slechts, indien:
+- 3. De rechter ontzegt het recht op omgang slechts, indien:
 
-- omgang ernstig nadeel zou opleveren voor de geestelijke ontwikkeling van het kind, of
+- a. omgang ernstig nadeel zou opleveren voor de geestelijke ontwikkeling van het kind, of
 
-- de ouder kennelijk ongeschikt of kennelijk niet in staat moet worden geacht tot omgang, of
+- b. de ouder kennelijk ongeschikt of kennelijk niet in staat moet worden geacht tot omgang, of
 
-- het kind dat twaalf jaren of ouder is, bij zijn verhoor van ernstige bezwaren tegen omgang met zijn ouder heeft
+- c. het kind dat twaalf jaren of ouder is, bij zijn verhoor van ernstige bezwaren tegen omgang met zijn ouder heeft
 
-- omgang anderszins in strijd is met zwaarwegende belangen van het kind.
+- d. omgang anderszins in strijd is met zwaarwegende belangen van het kind.
 
-- a. Tot kennisneming van de in dit artikel bedoelde verzoeken is de kantonrechter van de woonplaats van de minderjarige bevoegd.
+- 4. a. Tot kennisneming van de in dit artikel bedoelde verzoeken is de kantonrechter van de woonplaats van de minderjarige bevoegd.
 
 > 349 Ingev. bij S.B. 2002 no. 100.
 
@@ -5407,31 +5437,31 @@ Alle rechtsvordering van de minderjarige tegen zijn voogd, betrekkelijk de verri
 
 [[START OF PAGE 116]]
 
-- Indien de minderjarige geen woonplaats heeft binnen Suriname is artikel 414 tweede lid van het Surinaams Burgerlijk Wetboek van overeenkomstige toepassing.
+- b. Indien de minderjarige geen woonplaats heeft binnen Suriname is artikel 414 tweede lid van het Surinaams Burgerlijk Wetboek van overeenkomstige toepassing.
 
-- Onverminderd het bepaalde in sub a en b kan, indien reeds een procedure inzake de voorziening in de voogdij na echtscheiding of de voorziening in de ouderlijke macht na  scheiding  van  tafel  en  bed  aanhangig  is,  een  verzoek  tot  vaststelling  van  een omgangsregeling in verband  daarmee aan dezelfde kantonrechter worden gedaan.
+- c. Onverminderd het bepaalde in sub a en b kan, indien reeds een procedure inzake de voorziening in de voogdij na echtscheiding of de voorziening in de ouderlijke macht na scheiding van tafel en bed aanhangig is, een verzoek tot vaststelling van een omgangsregeling in verband daarmee aan dezelfde kantonrechter worden gedaan.
 
 ##### Artikel 471b351
 
-- De ouder, die alleen met het gezag is belast, is gehouden de andere ouder op de hoogte te stellen omtrent gewichtige aangelegenheden met betrekking tot de persoon en het vermogen van  het  kind  en  deze  te  raadplegen  -  zo  nodig  door  tussenkomst  van  derden  -  over daaromtrent te nemen beslissingen. Op verzoek van een ouder kan de rechter ter zake een regeling vaststellen.
+- 1. De ouder, die alleen met het gezag is belast, is gehouden de andere ouder op de hoogte te stellen omtrent gewichtige aangelegenheden met betrekking tot de persoon en het vermogen van het kind en deze te raadplegen - zo nodig door tussenkomst van derden - over daaromtrent te nemen beslissingen. Op verzoek van een ouder kan de rechter ter zake een regeling vaststellen.
 
-- Indien het belang van een kind zulks vereist kan de rechter zowel op verzoek van de met het gezag belaste ouder als ambtshalve bepalen dat lid 1 van dit artikel buiten toepassing blijft.
+- 2. Indien het belang van een kind zulks vereist kan de rechter zowel op verzoek van de met het gezag belaste ouder als ambtshalve bepalen dat lid 1 van dit artikel buiten toepassing blijft.
 
-- De artikelen 471a lid 4 en 471e zijn van overeenkomstige toepassing.
+- 3. De artikelen 471a lid 4 en 471e zijn van overeenkomstige toepassing.
 
 ##### Artikel 471c352
 
-- Onverminderd het bepaalde  in  artikel  471b  wordt  de  niet  met  het  gezag  belaste  ouder desgevraagd door derden die beroepshalve beschikken over informatie inzake belangrijke feiten en omstandigheden die de persoon van het kind of diens verzorging en opvoeding betreffen, daarvan op de hoogte gesteld, tenzij die derde de informatie niet op gelijke wijze zou verschaffen aan degene die met het gezag over het kind is belast dan wel bij wie het kind zijn werkelijke verblijfplaats heeft, of zwaarwegende belangen van het kind zich tegen het verschaffen van informatie verzetten.
+- 1. Onverminderd het bepaalde in artikel 471b wordt de niet met het gezag belaste ouder desgevraagd door derden die beroepshalve beschikken over informatie inzake belangrijke feiten en omstandigheden die de persoon van het kind of diens verzorging en opvoeding betreffen, daarvan op de hoogte gesteld, tenzij die derde de informatie niet op gelijke wijze zou verschaffen aan degene die met het gezag over het kind is belast dan wel bij wie het kind zijn werkelijke verblijfplaats heeft, of zwaarwegende belangen van het kind zich tegen het verschaffen van informatie verzetten.
 
-- Indien de informatie is geweigerd, kan de rechter op verzoek van de in lid 1 van dit artikel bedoelde ouder bepalen dat de informatie op de door hem aan te geven wijze moet worden verstrekt; de rechter wijst het verzoek af, indien zwaarwegende belangen van het kind zich tegen het verschaffen van de informatie verzetten.
+- 2. Indien de informatie is geweigerd, kan de rechter op verzoek van de in lid 1 van dit artikel bedoelde ouder bepalen dat de informatie op de door hem aan te geven wijze moet worden verstrekt; de rechter wijst het verzoek af, indien zwaarwegende belangen van het kind zich tegen het verschaffen van de informatie verzetten.
 
-- Artikel 471a lid 4 is van overeenkomstige toepassing.
+- 3. Artikel 471a lid 4 is van overeenkomstige toepassing.
 
 ##### Artikel 471d353
 
-- Onverminderd het bepaalde in lid 2 van dit artikel, begint de uitoefening van het recht op omgang zodra de desbetreffende beschikking in kracht van gewijsde is gegaan of, indien zij uitvoerbaar bij voorraad is verklaard, daags nadat de griffier van de beschikking mededeling heeft gedaan aan de ouder aan wie de uitoefening is opgedragen.
+- 1. Onverminderd het bepaalde in lid 2 van dit artikel, begint de uitoefening van het recht op omgang zodra de desbetreffende beschikking in kracht van gewijsde is gegaan of, indien zij uitvoerbaar bij voorraad is verklaard, daags nadat de griffier van de beschikking mededeling heeft gedaan aan de ouder aan wie de uitoefening is opgedragen.
 
-- De uitoefening van het recht op omgang begint, indien tevens een beschikking inzake het gezag is of wordt gegeven, niet eerder dan op het tijdstip waarop voor de andere ouder of voor de derde die met de voogdij is belast het gezag is begonnen.
+- 2. De uitoefening van het recht op omgang begint, indien tevens een beschikking inzake het gezag is of wordt gegeven, niet eerder dan op het tijdstip waarop voor de andere ouder of voor de derde die met de voogdij is belast het gezag is begonnen.
 
 ##### Artikel 471e354
 
@@ -5447,23 +5477,23 @@ Alle rechtsvordering van de minderjarige tegen zijn voogd, betrekkelijk de verri
 
 [[START OF PAGE 117]]
 
-De rechter kan op verzoek van de ouders of van een van hen een beslissing inzake de omgang wijzigen op grond van het feit dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan .
+De rechter kan op verzoek van de ouders of van een van hen een beslissing inzake de omgang wijzigen op grond van het feit dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.
 
 ##### Artikel 471f355
 
-- Onverminderd het bepaalde in artikel 471a, kan de rechter op verzoek een omgangsregeling vaststellen tussen het kind en degene die in een nauwe persoonlijke betrekking staat tot het kind en die bloedverwant in de tweede graad is van het kind of die de verwekker is van het kind, dan wel het kind anders dan als ouder als behorende tot het gezin gedurende ten minste een jaar heeft verzorgd en opgevoed; de rechter wijst het verzoek af, indien het belang van het kind zich tegen toewijzing verzet of indien het kind, dat twaalf jaar of ouder is, bezwaar maakt.
+- 1. Onverminderd het bepaalde in artikel 471a, kan de rechter op verzoek een omgangsregeling vaststellen tussen het kind en degene die in een nauwe persoonlijke betrekking staat tot het kind en die bloedverwant in de tweede graad is van het kind of die de verwekker is van het kind, dan wel het kind anders dan als ouder als behorende tot het gezin gedurende ten minste een jaar heeft verzorgd en opgevoed; de rechter wijst het verzoek af, indien het belang van het kind zich tegen toewijzing verzet of indien het kind, dat twaalf jaar of ouder is, bezwaar maakt.
 
-- Het bepaalde in de artikelen 471a lid 4, 471d en 471e is van overeenkomstige toepassing.
+- 2. Het bepaalde in de artikelen 471a lid 4, 471d en 471e is van overeenkomstige toepassing.
 
 ##### Artikel 471g356
 
-De rechter kan, indien hem blijkt dat de minderjarige van twaalf jaar of ouder hierop prijs stelt, ambtshalve  een  beslissing  geven  op  de  voet  van  de  artikelen  471a,  471b  of  471f,  dan  wel zodanige beslissing op de voet van artikel 471e wijzigen.
+De rechter kan, indien hem blijkt dat de minderjarige van twaalf jaar of ouder hierop prijs stelt, ambtshalve een beslissing geven op de voet van de artikelen 471a, 471b of 471f, dan wel zodanige beslissing op de voet van artikel 471e wijzigen.
 
 ##### Artikel 471h357
 
-- Ingeval van ouderlijke macht, behoudens die gevallen waarin deze door de rechter aan een der ouders is opgedragen, kan de rechter op verzoek van de ouders of van een van hen een regeling vaststellen inzake de omgang tussen het kind en de ouder bij wie het kind zijn werkelijke verblijfplaats niet heeft, of inzake het verschaffen van informatie aan dan wel het raadplegen van die ouder als bedoeld in artikel 471b lid 1 dan wel inzake het verschaffen van informatie als bedoeld in artikel 471c leden 1 en 2.
+- 1. Ingeval van ouderlijke macht, behoudens die gevallen waarin deze door de rechter aan een der ouders is opgedragen, kan de rechter op verzoek van de ouders of van een van hen een regeling vaststellen inzake de omgang tussen het kind en de ouder bij wie het kind zijn werkelijke verblijfplaats niet heeft, of inzake het verschaffen van informatie aan dan wel het raadplegen van die ouder als bedoeld in artikel 471b lid 1 dan wel inzake het verschaffen van informatie als bedoeld in artikel 471c leden 1 en 2.
 
-- De artikelen 471a lid 4,  471e en 471g zijn van overeenkomstige toepassing.
+- 2. De artikelen 471a lid 4, 471e en 471g zijn van overeenkomstige toepassing.
 
 ##### Artikel 471i358
 
@@ -5517,11 +5547,11 @@ Het verbaal van dit verhoor zal alsdan aan het hof van justitie worden ingezonde
 
 De meerderjarig verklaarde staat in alles met de meerderjarige gelijk.
 
-Ten opzichte van het aangaan van een huwelijk blijft hij echter in de verplichting om, volgens  de  bepalingen  van  de  artikelen  88,  90  en  92,  de  toestemming  van  zijn  ouders  of grootouders of het verlof van de kantonrechter of het hof van justitie te verkrijgen, totdat hij de volle ouderdom van een en twintig jaren zal hebben bereikt, terwijl ten aanzien van natuurlijke erkende kinderen artikel 93, lste lid, blijft gelden totdat zij de volle ouderdom van een en twintig jaren zullen hebben bereikt.
+Ten opzichte van het aangaan van een huwelijk blijft hij echter in de verplichting om, volgens de bepalingen van de artikelen 88, 90 en 92, de toestemming van zijn ouders of grootouders of het verlof van de kantonrechter of het hof van justitie te verkrijgen, totdat hij de volle ouderdom van een en twintig jaren zal hebben bereikt, terwijl ten aanzien van natuurlijke erkende kinderen artikel 93, 1ste lid, blijft gelden totdat zij de volle ouderdom van een en twintig jaren zullen hebben bereikt.
 
 ##### Artikel 478 361
 
-Het staat aan het hof van justitie vrij, om in het belang van de minderjarige, in de brieven van meerderjarigverklaring de bepaling te voegen, dat hij, aan wie dezelve verleend worden, desniettegenstaande, totdat hij de volle ouderdom van 21 jaren heeft bereikt, zijn onroerende goederen niet anders zal mogen vervreemden of bezwaren, dan met toestemming van het hof, na verhoor of behoorlijke oproeping van beide ouders of van de langstlevende hunner, of, deze beide ontbrekende, van de bloedverwanten of aangehuwden.
+Het staat aan het hof van justitie vrij, om in het belang van de minderjarige, in de brieven van meerderjarigverklaring de bepaling te voegen, dat hij, aan wie dezelve verleend worden, desniettegenstaande, totdat hij de volle ouderdom van 21 jaren heeft bereikt, zijn onroerende goederen niet anders zal mogen vervreemden of bezwaren, dan met toestemming van het hof, na
 
 > 359 Gew. bij G.B. 1906 no. 50.
 
@@ -5534,6 +5564,8 @@ Het staat aan het hof van justitie vrij, om in het belang van de minderjarige, i
 [[END OF PAGE 118]]
 
 [[START OF PAGE 119]]
+
+verhoor of behoorlijke oproeping van beide ouders of van de langstlevende hunner, of, deze beide ontbrekende, van de bloedverwanten of aangehuwden.
 
 Ingeval van verkoop mag het hof ook toestaan, dat dezelve onderhands geschiede.
 
@@ -5612,15 +5644,15 @@ Een meerderjarige kan onder curatele worden gesteld:
 
 - 3°. indien hij tengevolge van gewoonte van drankmisbruik:
 
-- zijn belangen niet behoorlijk waarneemt;
+- a. zijn belangen niet behoorlijk waarneemt;
 
-- in het onderhoud van zich of de zijnen niet behoorlijk voorziet;
+- b. in het onderhoud van zich of de zijnen niet behoorlijk voorziet;
 
-- in het openbaar herhaaldelijk aanstoot geeft; of
+- c. in het openbaar herhaaldelijk aanstoot geeft; of
 
-- eigen veiligheid of die van anderen in gevaar brengt;
+- d. eigen veiligheid of die van anderen in gevaar brengt;
 
-- 4°.  indien  hij  op  grond  van  zwakheid  van  vermogens  niet  in  staat  is  om  zijn  eigen belangen behoorlijk waar te nemen.
+- 4°. indien hij op grond van zwakheid van vermogens niet in staat is om zijn eigen belangen behoorlijk waar te nemen.
 
 ##### Artikel 487 367
 
@@ -5716,7 +5748,7 @@ Nochtans behoudt degene, die uithoofde van verkwisting of gewoonte van drankmisb
 
 ##### Artikel 500
 
-Alle handelingen, welke mochten hebben plaats gehad vóór het verlenen van de curatele, op grond van onnozelheid, krankzinnigheid of razernij uitgesproken, zullen kunnen worden vernietigd,  indien  de  oorzaak  van  de  curatele  blijkbaar  bestond  op  het  tijdstip,  waarop  die handelingen verricht zijn.
+Alle handelingen, welke mochten hebben plaats gehad vóór het verlenen van de curatele,
 
 > 374 Gew. bij G.B. 1935 no. 80.
 
@@ -5731,6 +5763,8 @@ Alle handelingen, welke mochten hebben plaats gehad vóór het verlenen van de c
 [[END OF PAGE 122]]
 
 [[START OF PAGE 123]]
+
+op grond van onnozelheid, krankzinnigheid of razernij uitgesproken, zullen kunnen worden vernietigd, indien de oorzaak van de curatele blijkbaar bestond op het tijdstip, waarop die handelingen verricht zijn.
 
 ##### Artikel 501
 
@@ -5760,7 +5794,7 @@ De onder curatele gestelde staat gelijk met een minderjarige.
 
 De uit hoofde van verkwisting, gewoonte van drankmisbruik of zwakheid van vermogens onder curatele gestelde behoeft om een huwelijk aan te gaan de toestemming van de curator en de toeziende curator; de artikelen 91, tweede lid, en 204 vinden overeenkomstige toepassing.
 
-De wetsbepalingen omtrent de voogdij over minderjarigen in de artikelen 383 tot 396, 421 tot 441, 442, 443, 444, 447 en volgende van de elfde en twaalfde afdeling van de vijftiende titel voorkomende, gelden insgelijks bij de curatele.
+De wetsbepalingen omtrent de voogdij over minderjarigen in de artikelen 383 tot 396, 421 tot 441, 442, 443, 444, 447 en volgende van de elfde en twaalfde afdeling van de vijftiende titel
 
 > 378 Gew. bij G.B. 1931 no. 64.
 
@@ -5775,6 +5809,8 @@ De wetsbepalingen omtrent de voogdij over minderjarigen in de artikelen 383 tot 
 [[END OF PAGE 123]]
 
 [[START OF PAGE 124]]
+
+voorkomende, gelden insgelijks bij de curatele.
 
 ##### Artikel 506 382
 
@@ -5802,7 +5838,7 @@ Het verzoek tot vastzetting kan aan de kantonrechter worden gedaan door de echtg
 
 ##### Artikel 512 387
 
-Het gedaan verzoek tot zodanige vastzetting, of tot de verlenging van deze, moet betekend worden aan hem, tegen wie het is gericht.
+Het gedaan verzoek tot zodanige vastzetting, of tot de verlenging van deze, moet betekend
 
 > 382 Gew. bij G.B. 1906 no. 50, G.B. 1944 no. 72.
 
@@ -5822,7 +5858,9 @@ Het gedaan verzoek tot zodanige vastzetting, of tot de verlenging van deze, moet
 
 [[START OF PAGE 125]]
 
-Hij is bevoegd om daartegen zijn bezwaren bij de kantonrechter in te brengen, terwijl het echter  aan  de  rechter  vrijstaat  om,  daartoe  billijke  gronden  zijnde,  zijn  bevel  bij  voorraad uitvoerbaar te verklaren.
+worden aan hem, tegen wie het is gericht.
+
+Hij is bevoegd om daartegen zijn bezwaren bij de kantonrechter in te brengen, terwijl het echter aan de rechter vrijstaat om, daartoe billijke gronden zijnde, zijn bevel bij voorraad uitvoerbaar te verklaren.
 
 De  opheffing  van  de  vastzetting  kan  mede  door  hem  gevraagd  worden,  en  de kantonrechter moet, alvorens deze te verlenen, daarop horen allen, die, volgens het vorige artikel, de bevoegdheid zouden hebben om de vastzetting te verzoeken.
 
@@ -5842,6 +5880,8 @@ Bij dit vonnis wordt tevens bepaald, op welke wijze de opheffing van de curatele
 
 ##### Artikel 516 388
 
+Vervallen.
+
 ### ACHTTIENDE TITEL
 ### VAN AFWEZIGHEID
 
@@ -5855,8 +5895,6 @@ Indien iemand zijn woonplaats verlaten heeft, zonder volmacht tot het waarnemen 
 Alles onverminderd de bijzondere wetsbepalingen, voor het geval van faillissement.
 
 ##### Artikel 518 390
-
-Vervallen.
 
 > 388 Vervallen bij G.B. 1931 no. 64.
 
@@ -5926,9 +5964,9 @@ Indien zowel het onder 1° als het onder 2° genoemde geval zich voordoet, wordt
 
 ##### Artikel 523 394
 
-##### Artikel 524 395
-
 Vervallen.
+
+##### Artikel 524 395
 
 Indien op de derde oproeping noch de afwezige, noch iemand voor hem, is opgekomen, die behoorlijk van zijn aanwezen doet blijken, kan door de kantonrechter op daartoe gedane eis, worden verklaard, dat er rechtsvermoeden van overlijden bestaat, sedert de dag nadat de afwezige kan worden gerekend zijn woonplaats te hebben verlaten, of na de laatste tijding van zijn leven, en welke dag bepaaldelijk in het vonnis moet worden uitgedrukt.
 
@@ -6150,15 +6188,39 @@ Vervallen.
 
 [[START OF PAGE 134]]
 
+## TWEEDE BOEK
+## VAN ZAKEN
+
+### EERSTE TITEL
+### VAN DE ZAKEN EN DERZELVER ONDERSCHEIDING
+
+#### EERSTE AFDELING
+
+#### VAN ZAKEN IN HET ALGEMEEN
+
+##### Artikel 555
+
+De wet verstaat door zaken alle goederen en rechten, welke het voorwerp van eigendom kunnen zijn.
+
+##### Artikel 556
+
+Al hetgeen door recht van natrekking tot een zaak behoort, daaronder begrepen de vruchten, zowel natuurlijke als die door nijverheid worden verkregen, zolang deze tak- of wortelvast, of aan de grond gehecht zijn, maakt een gedeelte van de zaak uit.
+
+##### Artikel 557
+
+De burgerlijke vruchten worden alleen geacht een gedeelte van de zaak uit te maken, zolang deze niet opeisbaar zijn; behoudens de bijzondere wetsbepalingen en overeenkomsten.
+
+##### Artikel 558
+
 Natuurlijke vruchten zijn:
 
 - 1°. Degene, welke de aarde uit haar zelf voortbrengt:
 
 - 2°. Al hetgeen de beesten opleveren, of uit de beesten geboren wordt.
 
-Vruchten  van  nijverheid,  die  uit  de  grond  getrokken  worden,  zijn  al  hetgeen  door bebouwing verkregen wordt.
+Vruchten van nijverheid, die uit de grond getrokken worden, zijn al hetgeen door bebouwing verkregen wordt.
 
-Burgerlijke  vruchten  zijn  huur-  en  pachtpenningen,  interesten  van  geldsommen  en verschuldigde renten.
+Burgerlijke vruchten zijn huur- en pachtpenningen, interesten van geldsommen en verschuldigde renten.
 
 #### TWEEDE AFDELING
 #### VAN DE ONDERSCHEIDING DER ZAKEN
@@ -6176,30 +6238,6 @@ Zaken zijn roerend of onroerend, volgens de bepalingen der twee volgende afdelin
 Roerende zaken zijn verbruikbaar of onverbruikbaar; verbruikbaar zijn de zodanige, die door gebruik verloren gaan.
 
 #### DERDE AFDELING
-
-## TWEEDE BOEK
-## VAN ZAKEN
-
-### EERSTE TITEL
-### VAN DE ZAKEN EN DERZELVER ONDERSCHEIDING
-
-#### EERSTE AFDELING
-
-#### VAN ZAKEN IN HET ALGEMEEN
-
-##### Artikel 555
-
-De wet verstaat door zaken alle goederen en rechten, welke het voorwerp van eigendom kunnen zijn.
-
-##### Artikel 556
-
-Al  hetgeen  door  recht  van  natrekking  tot  een  zaak  behoort,  daaronder  begrepen  de vruchten,  zowel  natuurlijke  als  die  door  nijverheid  worden  verkregen,  zolang  deze  tak-  of wortelvast, of aan de grond gehecht zijn, maakt een gedeelte van de zaak uit.
-
-##### Artikel 557
-
-De burgerlijke vruchten worden alleen geacht een gedeelte van de zaak uit te maken, zolang deze niet opeisbaar zijn; behoudens de bijzondere wetsbepalingen en overeenkomsten.
-
-##### Artikel 558
 
 134
 
@@ -6478,7 +6516,7 @@ Men behoudt het bezit, zolang het niet aan een ander is overgegaan, of kennelijk
 
 ##### Artikel 599
 
-Men verliest het bezit vrijwillige, zodra men het aan een ander overdraagt.
+Men verliest het bezit vrijwillig, zodra men het aan een ander overdraagt.
 
 ##### Artikel 600
 
@@ -6488,9 +6526,11 @@ Men verliest het bezit, zelfs zonder de wil om de zaak aan een ander over te dra
 
 Men verliest, tegen zijn wil, het bezit van een stuk land, erf of gebouw:
 
-- 1 . Wanneer een ander zich daarvan, tegen wil en dank van de bezitter, in het bezit stelt, en gerustelijk het genot, gedurende de tijd van één jaar, behoudt;
+- 1°. Wanneer een ander zich daarvan, tegen wil en dank van de bezitter, in het bezit stelt, en gerustelijk het genot, gedurende de tijd van één jaar, behoudt;
 
-- 2 . Wanneer een erf door een buitengewoon toeval verdronken is. Het bezit gaat door een tijdelijke overstroming niet verloren.
+- 2°. Wanneer een erf door een buitengewoon toeval verdronken is.
+
+Het bezit gaat door een tijdelijke overstroming niet verloren.
 
 Men verliest het bezit van een algemeenheid van roerende zaken, op de wijze bij het eerste lid van dit artikel omschreven.
 
@@ -6706,11 +6746,11 @@ Wanneer  er  geschil  ontstaat  over  hetgeen  als  kosten  tot  onderhoud  moet
 
 De bezitter te kwader trouw is verplicht:
 
-1 . Om al de vruchten van de opgeëiste zaak met deze terug te geven, zelfs de zodanige die niet genoten zijn, indien de eigenaar die had kunnen genieten; hij kan echter, zoals dit in artikel 630 is bepaald, de kosten aftrekken of terugvorderen, welke door hem gedurende zijn bezit tot behoud van de zaak zijn gemaakt, en ook de zodanige, die, tot de verkrijging der vruchten, voor het bebouwen, bezaaien en bearbeiden van de grond zijn besteed;
+- 1°. Om al de vruchten van de opgeëiste zaak met deze terug te geven, zelfs de zodanige die niet genoten zijn, indien de eigenaar die had kunnen genieten; hij kan echter, zoals dit in artikel 630 is bepaald, de kosten aftrekken of terugvorderen, welke door hem gedurende zijn bezit tot behoud van de zaak zijn gemaakt, en ook de zodanige, die, tot de verkrijging der vruchten, voor het bebouwen, bezaaien en bearbeiden van de grond zijn besteed;
 
-- 2 . Om alle kosten, schade en interesten te vergoeden;
+- 2°. Om alle kosten, schade en interesten te vergoeden;
 
-- 3 . Om, ingeval hij het goed niet mocht kunnen teruggeven, daarvan de waarde te voldoen, zelfs wanneer dat goed buiten zijne schuld, of bij toeval, is verloren gegaan, tenzij hij mocht kunnen bewijzen, dat de zaak evenzeer zou vergaan zijn, indien de eigenaar die had bezeten.
+- 3°. Om, ingeval hij het goed niet mocht kunnen teruggeven, daarvan de waarde te voldoen, zelfs wanneer dat goed buiten zijne schuld, of bij toeval, is verloren gegaan, tenzij hij mocht kunnen bewijzen, dat de zaak evenzeer zou vergaan zijn, indien de eigenaar die had bezeten.
 
 ##### Artikel 635
 
@@ -6774,9 +6814,9 @@ Indien een stroom of een rivier, door een nieuwe arm te maken, het aan de oever 
 
 De eigendom van stromen en rivieren brengt mede de eigendom van de grond, waarover het water loopt.
 
-> 412 Zie Verbeterblad G.B. 1918 no. 108.
-
 ##### Artikel 647 412
+
+> 412 Zie Verbeterblad G.B. 1918 no. 108.
 
 146
 
@@ -6794,7 +6834,7 @@ De tijdelijke overstroming van een stroom of een rivier doet de eigendom noch ve
 
 Verdronken landen blijven aan de eigenaar toebehoren.
 
-Niettemin, indien deze bepoldering of droogmaking door de President, voor het algemeen belang, of tot beveiliging van nabijgelegen eigendommen, noodzakelijk wordt geacht, en door deskundigen  bewezen  wordt,  dat  die  verdronken  landen  voor  bepoldering  of  droogmaking vatbaar zijn, zullen derze eigenaars aangemaand worden om deze te bewerkstelligen of daaraan deel te nemen, en, bij weigering of ontstentenis daarvan, van hen eigendom ten algemene nutte kunnen worden onteigend, tegen voorafgaande voldoening van de waarde, waarop die gronden, als verdronken land, zullen worden geschat.
+Niettemin, indien deze bepoldering of droogmaking door de President, voor het algemeen belang, of tot beveiliging van nabijgelegen eigendommen, noodzakelijk wordt geacht, en door deskundigen bewezen wordt, dat die verdronken landen voor bepoldering of droogmaking vatbaar zijn, zullen derzelver eigenaars aangemaand worden om deze te bewerkstelligen of daaraan deel te nemen, en, bij weigering of ontstentenis daarvan, van hun eigendom ten algemene nutte kunnen worden onteigend, tegen voorafgaande voldoening van de waarde, waarop die gronden, als verdronken land, zullen worden geschat.
 
 ##### Artikel 650
 
@@ -6958,7 +6998,7 @@ In  dat  geval  heeft  de  eigenaar  aanspraak  op  een  door  deskundigen  te  
 
 Hij, wiens eigendom gelegen is aan de oever van een stromend water, hetwelk niet tot het openbaar domein behoort, mag van dat voorbijlopend water tot bespoeling van zijn erf gebruik maken.
 
-Degene,  wiens  erf  door  dat  water  doorsneden  wordt,  mag  daarvan  zelfs  in  de tussenruimte,  welke  het  water  doorloopt,  gebruik  maken,  mits  hij,  ter  plaatse  waar  zijn  erf eindigt, aan het water van deze natuurlijke loop weergeeft.
+Degene, wiens erf door dat water doorsneden wordt, mag daarvan zelfs in de tussenruimte, welke het water doorloopt, gebruik maken, mits hij, ter plaatse waar zijn erf eindigt, aan het water deszelfs natuurlijke loop weergeeft.
 
 150
 
@@ -7232,8 +7272,6 @@ Alle erfdienstbaarheden bestaan in de verplichting om iets te dulden of iets nie
 
 [[START OF PAGE 157]]
 
-> 418 Zie Verbeterblad G.B. 1918 no. 108.
-
 ##### Artikel 722
 
 Erfdienstbaarheid geeft geen voorrang aan het ene erf boven het andere.
@@ -7273,6 +7311,8 @@ Een ieder is bevoegd om zo hoog te bouwen als hem goeddunkt, mits de verhoging v
 Onder de erfdienstbaarheid van waterloop en dorp verstaat men slechts het recht om schoon water, maar niet om vuilnis te doen uitlopen.
 
 ##### Artikel 729
+
+> 418 Zie Verbeterblad G.B. 1918 no. 108.
 
 157
 
@@ -7328,10 +7368,6 @@ Indien het alzo een recht van overgang geldt, zijn al de medeëigenaars van het 
 
 [[START OF PAGE 159]]
 
-> 419 Zie Verbeterblad G.B. 1918 no. 108.
-
-> 420 Zie Verbeterblad G.B. 1918 no. 108.
-
 ##### Artikel 737
 
 Hij, die een recht van erfdienstbaarheid heeft, mag daarvan slechts gebruik maken volgens zijn titel, en, bij gebreke van titel, volgens de wetten of plaatselijke gebruiken, en in alle gevallen op de minst bezwarende wijze.
@@ -7369,6 +7405,10 @@ De titel van aankomst van een erfdienstbaarheid moet in de daartoe bestemde open
 De voortdurende en zichtbare erfdienstbaarheden kunnen, zowel door verjaring, als door titel, verkregen worden.
 
 ##### Artikel 744
+
+> 419 Zie Verbeterblad G.B. 1918 no. 108.
+
+> 420 Zie Verbeterblad G.B. 1918 no. 108.
 
 159
 
@@ -9303,7 +9343,7 @@ Indien de erflater geen personen heeft aangewezen, welke in de plaats van de ont
 
 ##### Artikel 1049
 
-Niemand is gehouden de last van uitvoerder van een uiterste wilsbeschikking, of van bewindvoerder van een erfenis of eens legaat, aan te nemen, doch hij, die zodanige last heeft aanvaard, is verplicht deze te voleindigen.
+Niemand is gehouden de last van uitvoerder van een uiterste wilsbeschikking, of van bewindvoerder van een erfenis of eens legaat, aan te nemen, doch hij, die zodanige last heeft
 
 > 461 Gew. bij G.B. 1935 no. 80.
 
@@ -9312,6 +9352,8 @@ Niemand is gehouden de last van uitvoerder van een uiterste wilsbeschikking, of 
 [[END OF PAGE 202]]
 
 [[START OF PAGE 203]]
+
+aanvaard, is verplicht deze te voleindigen.
 
 Indien de erflater aan de uitvoerder voor de waarneming van zijn werkzaamheden geen bepaalde beloning heeft toegekend, of geen bijzonder legaat daarvoor aan denzelven gemaakt heeft, is laatstgemelde voor zich, of, meer dan één uitvoerder benoemd zijn, zijn zij bevoegd voor hen tezamen het loon in rekening te brengen, hetwelk bij artikel 468 aan voogden is toegestaan.
 
@@ -9573,7 +9615,7 @@ Men kan, zelfs bij huwelijkse voorwaarden, geen afstand doen van de erfenis van 
 
 ##### Artikel 1091
 
-Erfgenamen, welke goederen, tot een nalatenschap behorende, hebben te zoek gemaakt of verborgen gehouden, verliezen de bevoegdheid om de erfenis te verwerpen; zij blijven zuivere erfgenamen, niettegenstaande hun verwerping, zonder dat zij enig deel in het te zoek gemaakte of verborgene mogen vorderen.
+Erfgenamen, welke goederen, tot een nalatenschap behorende, hebben te zoek gemaakt of verborgen gehouden, verliezen de bevoegdheid om de erfenis te verwerpen; zij blijven zuivere
 
 > 469 Gew. bij G.B. 1944 no. 76.
 
@@ -9586,6 +9628,8 @@ Erfgenamen, welke goederen, tot een nalatenschap behorende, hebben te zoek gemaa
 [[END OF PAGE 208]]
 
 [[START OF PAGE 209]]
+
+erfgenamen, niettegenstaande hun verwerping, zonder dat zij enig deel in het te zoek gemaakte of verborgene mogen vorderen.
 
 ##### Artikel 1092
 
@@ -9764,7 +9808,7 @@ Indien een of meer der erfgenamen zich buiten staat bevinden om hun aandeel in d
 #### TWEEDE AFDELING
 #### VAN INBRENG
 
-##### Artikel 1113477
+##### Artikel 1113 477
 
 Onverminderd de verplichting van alle erfgenamen tot voldoening aan, of verrekening met hun mede-erfgenamen, van alles wat zij aan de nalatenschap schuldig zijn, moeten alle schenkingen onder de levenden, welke zij van de erflater hebben genoten, worden ingebracht:
 
@@ -10172,7 +10216,7 @@ De bevoorrechte schulden op zekere bepaalde goederen zijn:
 
 - 8°. Hetgeen aan metselaars, timmerlieden en andere werkbazen is verschuldigd wegens de opbouw, aanbouw en de reparaties van onroerende goederen, mits de schuldvordering niet ouder is dan drie jaren, en de eigendom van het perceel aan de schuldenaar is verbleven;
 
-- 9 .  De  vergoedingen  en  betalingen,  waar toe  openbare  ambtenaren,  uit  hoofde  van verzuim, misslagen en misdrijven, in de uitoefening van hun bediening gepleegd, gehouden zijn.
+- 9°. De vergoedingen en betalingen, waartoe openbare ambtenaren, uit hoofde van verzuim, misslagen en misdrijven, in de uitoefening van hun bediening gepleegd, gehouden zijn.
 
 ##### Artikel 1170 487
 
@@ -10184,7 +10228,7 @@ Indien de huurder een gedeelte van het verhuurde goed aan een ander wettig in hu
 
 ##### Artikel 1171
 
-Niettemin  worden  de  nog  verschuldigde  koopprijs  van  gekochte  zaden,  en  de  nog verschuldigde kosten van de oogst van het lopende jaar, bij voorrang boven de verhuurder betaald uit de opbrengst van de oogst, en de nog niet betaalde koopprijs van gereedschappen uit de opbrengst van die gereedschappen.
+Niettemin worden de nog verschuldigde koopprijs van gekochte zaden, en de nog verschuldigde kosten van de oogst van het lopende jaar, bij voorrang boven de verhuurder betaald
 
 > 487 Gew. bij G.B. 1944 no. 42.
 
@@ -10193,6 +10237,8 @@ Niettemin  worden  de  nog  verschuldigde  koopprijs  van  gekochte  zaden,  en 
 [[END OF PAGE 221]]
 
 [[START OF PAGE 222]]
+
+uit de opbrengst van de oogst, en de nog niet betaalde koopprijs van gereedschappen uit de opbrengst van die gereedschappen.
 
 ##### Artikel 1172
 
@@ -10266,18 +10312,18 @@ De bevoorrechte inschulden op al de roerende en onroerende goederen in het algem
 
 - 4°. Het loon van werknemers ingevolge dit Wetboek over het verschenen jaar, en hetgeen over  het  lopende  jaar  verschuldigd  is,  benevens  het  bedrag  van  de  verhoging  van  dat  loon ingevolge artikel 1614q; het bedrag der uitgaven door de werknemer voor de werkgever gedaan, mitsgaders het bedrag door de werkgever bij het einde van de dienstbetrekking krachtens artikel 1615t of 1615u, aan de werknemer verschuldigd.
 
-- 5  .  De  schuldvorderingen  wege ns  levering  van  levensmiddelen,  gedaan  aan  de schuldenaar en deszelfs huisgezin, gedurende de laatste zes maanden;
+- 5°. De schuldvorderingen wegens levering van levensmiddelen, gedaan aan de schuldenaar en deszelfs huisgezin, gedurende de laatste zes maanden;
 
-- 6 . De schuldvorderingen van kostschoolhouders voor het laatste jaar;
+- 6°. De schuldvorderingen van kostschoolhouders voor het laatste jaar;
 
-- 7 . De schuldvordering van minderjarigen of onder curatele gestelden ten laste van hun voogden en curators ter zake van derzelver beheer, voor zover deze niet kunnen worden verhaald uit de hypotheken of andere zekerheid, welke, naar aanleiding van de vijftiende titel van het eerste boek van dit wetboek, mocht gesteld zijn, alsmede de door de ouders krachtens het Eerste Boek verschuldigde uitkeringen tot onderhoud en opvoeding van hun minderjarige wettige kinderen.
+- 7°. De schuldvordering van minderjarigen of onder curatele gestelden ten laste van hun voogden en curators ter zake van derzelver beheer, voor zover deze niet kunnen worden verhaald uit de hypotheken of andere zekerheid, welke, naar aanleiding van de vijftiende titel van het eerste boek van dit wetboek, mocht gesteld zijn, alsmede de door de ouders krachtens het Eerste Boek verschuldigde uitkeringen tot onderhoud en opvoeding van hun minderjarige wettige kinderen.
 
 ### NEGENTIENDE TITEL
 ### VAN PAND
 
 ##### Artikel 1180
 
-Pand is een recht, hetwelk de schuldeiser verkrijgt op een roerende zaak, die hem door de schuldenaar, of door een ander in deszelfs naam, tot zekerheid van de schuld is ter hand gesteld, en aan de schuldeiser de bevoegdheid geeft om zich bij voorkeur boven de andere schuldeisers uit die zaak te doen betalen, met uitzondering van de kosten van uitwinning en van de onkosten, die, na de inpandgeving, tot behoud van de zaak gemaakt zijn, en welke de voorrang zullen hebben.
+Pand is een recht, hetwelk de schuldeiser verkrijgt op een roerende zaak, die hem door de schuldenaar, of door een ander in deszelfs naam, tot zekerheid van de schuld is ter hand gesteld, en aan de schuldeiser de bevoegdheid geeft om zich bij voorkeur boven de andere schuldeisers uit die zaak te doen betalen, met uitzondering van de kosten van uitwinning en van de onkosten, die,
 
 > 490 Gew. bij G.B. 1906 no. 50, G.B. 1914 no. 35, G.B. 1935 no. 80, G.B. 1947 no. 140.
 
@@ -10286,6 +10332,8 @@ Pand is een recht, hetwelk de schuldeiser verkrijgt op een roerende zaak, die he
 [[END OF PAGE 223]]
 
 [[START OF PAGE 224]]
+
+na de inpandgeving, tot behoud van de zaak gemaakt zijn, en welke de voorrang zullen hebben.
 
 ##### Artikel 1181 491
 
@@ -10319,7 +10367,7 @@ De schuldeiser mag, ingeval de schuldenaar of de pandgever niet aan zijn verplic
 
 ##### Artikel 1185 496
 
-Wanneer door partijen niet anders is overeengekomen, is de schuldeiser, ingeval de schuldenaar  of  de  pandgever  niet  aan  zijn  verplichtingen  voldoet,  gerechtigd  om  na  het verstrijken van de bepaalde termijn, of, indien geen vaste termijn is bepaald, na een sommatie tot voldoening,  het  pand  in  het  openbaar,  naar  plaatselijke  gewoonten  en  op  de  gebruikelijke voorwaarden, te doen verkopen, teneinde uit de opbrengst het beloop van de schuld met de renten en kosten te verhalen.
+Wanneer door partijen niet anders is overeengekomen, is de schuldeiser, ingeval de
 
 > 491 Gew. bij G.B. 1886 no. 36.
 
@@ -10338,6 +10386,8 @@ Wanneer door partijen niet anders is overeengekomen, is de schuldeiser, ingeval 
 [[END OF PAGE 224]]
 
 [[START OF PAGE 225]]
+
+schuldenaar of de pandgever niet aan zijn verplichtingen voldoet, gerechtigd om na het verstrijken van de bepaalde termijn, of, indien geen vaste termijn is bepaald, na een sommatie tot voldoening, het pand in het openbaar, naar plaatselijke gewoonten en op de gebruikelijke voorwaarden, te doen verkopen, teneinde uit de opbrengst het beloop van de schuld met de renten en kosten te verhalen.
 
 ##### Artikel 1186 497
 
@@ -10379,11 +10429,9 @@ Wederkerig  mag  de  erfgenaam  van  de  schuldeiser,  die  zijn  aandeel  in  d
 
 [[START OF PAGE 226]]
 
-Vervallen.
-
-> 498 Vervallen bij G.B. 1936 no. 115.
-
 ##### Artikel 1191 498
+
+Vervallen.
 
 ### TWINTIGSTE TITEL
 
@@ -10431,6 +10479,8 @@ Roerende goederen zijn voor geen hypotheek vatbaar.
 Hypotheek  kan  niet  worden  gevestigd  dan  door  hem,  die  de  bevoegdheid  heeft  het bezwaarde goed te vervreemden.
 
 ##### Artikel 1199
+
+> 498 Vervallen bij G.B. 1936 no. 115.
 
 226
 
@@ -10518,7 +10568,7 @@ Indien bij de koopakte, tot waarborg van onbetaalde kooppenningen, hypotheek op 
 
 ##### Artikel 1212
 
-Dezelfde bepaling is toepasselijk, indien bij akte van scheiding hypotheek is bedongen tot waarborg van hetgeen de ene deelgenoot aan de andere, tengevolge van een scheiding, schuldig blijft, of tot vrijwaring van het aanbedeelde goed. Ook in dat geval geven de inschrijvingen, binnen acht vrije dagen na de overschrijving van de akte van scheiding, voor zoveel dit beding betreft,  door  de  deelgenoot  bewerkstelligd,  de  voorrang  boven  de  hypotheken,  welke  de verkrijger, binnen dat tijdsverloop, op het goed mocht hebben toegestaan.
+Dezelfde bepaling is toepasselijk, indien bij akte van scheiding hypotheek is bedongen tot
 
 > 500 Gew. bij G.B. 1944 no. 75.
 
@@ -10529,6 +10579,7 @@ Dezelfde bepaling is toepasselijk, indien bij akte van scheiding hypotheek is be
 [[END OF PAGE 228]]
 
 [[START OF PAGE 229]]
+waarborg van hetgeen de ene deelgenoot aan de andere, tengevolge van een scheiding, schuldig blijft, of tot vrijwaring van het aanbedeelde goed. Ook in dat geval geven de inschrijvingen, binnen acht vrije dagen na de overschrijving van de akte van scheiding, voor zoveel dit beding betreft, door de deelgenoot bewerkstelligd, de voorrang boven de hypotheken, welke de verkrijger, binnen dat tijdsverloop, op het goed mocht hebben toegestaan.
 
 ##### Artikel 1213 502
 
@@ -10640,7 +10691,7 @@ De  schuldeiser,  die  een  ingeschreven  hypotheek  heeft,  vervolgt  zijn  rec
 
 ##### Artikel 1227 506
 
-De schuldeiser heeft het recht om, na gedaan bevel aan de schuldenaar, het verbonden onroerend goed onder de derde bezitter in beslag te nemen en te doen verkopen. Hierbij en bij de rangschikking  op  de  opbrengst  daarvan  tussen  de  onderscheidene  schuldeisers,  moeten  de formaliteiten worden inachtgenomen, ten opzichte van gerechtelijke uitwinningen en rangschikking in het Surinaams Wetboek van Burgerlijke Rechtsvordering voorgeschreven.
+De schuldeiser heeft het recht om, na gedaan bevel aan de schuldenaar, het verbonden onroerend goed onder de derde bezitter in beslag te nemen en te doen verkopen. Hierbij en bij de
 
 > 504 Gew. bij G.B. 1935 no. 80.
 
@@ -10653,6 +10704,7 @@ De schuldeiser heeft het recht om, na gedaan bevel aan de schuldenaar, het verbo
 [[END OF PAGE 231]]
 
 [[START OF PAGE 232]]
+rangschikking op de opbrengst daarvan tussen de onderscheidene schuldeisers, moeten de formaliteiten worden inachtgenomen, ten opzichte van gerechtelijke uitwinningen en rangschikking in het Surinaams Wetboek van Burgerlijke Rechtsvordering voorgeschreven.
 
 ##### Artikel 1228
 
@@ -10680,13 +10732,14 @@ Hetgeen het verbonden goed bij uitwinning meer opbrengt, dan de hypothecaire las
 
 ##### Artikel 1234
 
-De erfdienstbaarheden en andere zakelijke rechten, zowel ten laste als ten bate van het uitgewonnen goed, die door de overgang aan de derde bezitter waren teniet gegaan, herleven, nadat hetzelve aan een ander is toegewezen.
+De erfdienstbaarheden en andere zakelijke rechten, zowel ten laste als ten bate van het uitgewonnen goed, die door de overgang aan de derde bezitter waren teniet gegaan, herleven,
 
 232
 
 [[END OF PAGE 232]]
 
 [[START OF PAGE 233]]
+nadat hetzelve aan een ander is toegewezen.
 
 ##### Artikel 1235
 
@@ -10810,9 +10863,9 @@ Zij zijn verantwoordelijk voor de nadelen spruitende:
 
 [[START OF PAGE 236]]
 
-Vervallen.
-
 ##### Artikel 1251 510
+
+Vervallen.
 
 ##### Artikel 1252
 
@@ -10839,9 +10892,6 @@ In geen geval mogen de bewaarders der hypotheken weigeren of vertragen om akten,
 [[END OF PAGE 237]]
 
 [[START OF PAGE 238]]
-
-> 511 Zie Verbeterblad G.B. 1918 no. 108.
-
 ## DERDE BOEK
 ## VAN VERBINTENISSEN
 
@@ -10881,6 +10931,8 @@ Bij  een  verbintenis  om  een  bepaalde  zaak  te  geven,  is  deze  voor  reke
 De schuldenaar wordt in gebreke gesteld, hetzij door een bevel of andere soortgelijke akte,  hetzij  uit  kracht  der  verbintenis  zelf,  wanneer  deze  medebrengt  dat  de  schuldenaar  in gebreke zal zijn, door het enkel verloop van de bepaalde termijn.
 
 #### DERDE AFDELING
+
+> 511 Zie Verbeterblad G.B. 1918 no. 108.
 
 238
 
@@ -11147,7 +11199,7 @@ Er heeft hoofdelijke verbintenis van de zijde der schuldenaren plaats, wanneer z
 
 ##### Artikel 1302
 
-Een verbintenis kan hoofdelijk zijn, alhoewel een der schuldenaren op een andere wijze, dan de overige, tot voldoening derzelfde zaak mocht verplicht zijn, bij voorbeeld, indien de een slechts voorwaardelijk verbonden is, terwijl de verbintenis van de andere zuiver en eenvoudig  is, of indien de een een tijdsbepaling heeft bedongen, welke aan de andere niet is toegestaan.
+Een verbintenis kan hoofdelijk zijn, alhoewel een der schuldenaren op een andere wijze,
 
 > 515 Zie Verbeterblad G.B. 1918 no. 108.
 
@@ -11156,6 +11208,7 @@ Een verbintenis kan hoofdelijk zijn, alhoewel een der schuldenaren op een andere
 [[END OF PAGE 244]]
 
 [[START OF PAGE 245]]
+dan de overige, tot voldoening derzelfde zaak mocht verplicht zijn, bij voorbeeld, indien de een slechts voorwaardelijk verbonden is, terwijl de verbintenis van de andere zuiver en eenvoudig is, of indien de een een tijdsbepaling heeft bedongen, welke aan de andere niet is toegestaan.
 
 ##### Artikel 1303
 
@@ -11229,7 +11282,7 @@ In geval de schuldeiser een der schuldenaren van deszelfs hoofdelijke verbinteni
 
 ##### Artikel 1316
 
-Indien de zaak, waarvoor verscheidene personen zich als hoofdelijke mede-schuldenaren hebben  verbonden,  slechts  een  van  hen  aangaat,  zijn  zij  wel  ieder  voor  het  geheel  aan  de schuldeiser verbonden, maar onder elkaar worden zij beschouwd als borgen voor degene, wie de zaak betreft, en moeten dienvolgens door dezelven worden schadeloos gesteld.
+Indien de zaak, waarvoor verscheidene personen zich als hoofdelijke mede-schuldenaren hebben verbonden, slechts een van hen aangaat, zijn zij wel ieder voor het geheel aan de schuldeiser verbonden, maar onder elkaar worden zij beschouwd als borgen voor degene, wie de
 
 > 516 Zie Verbeterblad G.B. 1918 no. 108.
 
@@ -11238,6 +11291,7 @@ Indien de zaak, waarvoor verscheidene personen zich als hoofdelijke mede-schulde
 [[END OF PAGE 246]]
 
 [[START OF PAGE 247]]
+zaak betreft, en moeten dienvolgens door dezelven worden schadeloos gesteld.
 
 #### NEGENDE AFDELING
 
@@ -11327,13 +11381,14 @@ Hij kan niet tegelijk de hoofdschuld en de straf vorderen, tenzij de laatstgenoe
 
 ##### Artikel 1329
 
-Hetzij de oorspronkelijke verbintenis al of niet een tijdsbepaling bevatte, binnen welke deze moest uitgevoerd zijn, is de straf niet verbeurd dan wanneer degene, die verbonden is om iets te geven, of om iets te ontvangen, of wel om iets te doen, daarin nalatig gebleven is.
+Hetzij de oorspronkelijke verbintenis al of niet een tijdsbepaling bevatte, binnen welke
 
 248
 
 [[END OF PAGE 248]]
 
 [[START OF PAGE 249]]
+deze moest uitgevoerd zijn, is de straf niet verbeurd dan wanneer degene, die verbonden is om iets te geven, of om iets te ontvangen, of wel om iets te doen, daarin nalatig gebleven is.
 
 ##### Artikel 1330
 
@@ -11521,7 +11576,7 @@ Indien er geen oorzaak is uitgedrukt, en er echter een geoorloofde aanwezig, of 
 
 ##### Artikel 1358
 
-Een oorzaak is ongeoorloofd, wanneer deze bij de wet verboden is, of wanneer deze strijdig is met de goede zeden of met de openbare orde.
+Een oorzaak is ongeoorloofd, wanneer deze bij de wet verboden is, of wanneer deze
 
 > 522 Gew. bij S.B. 1981 no. 23.
 
@@ -11532,6 +11587,7 @@ Een oorzaak is ongeoorloofd, wanneer deze bij de wet verboden is, of wanneer dez
 [[END OF PAGE 252]]
 
 [[START OF PAGE 253]]
+strijdig is met de goede zeden of met de openbare orde.
 
 #### DERDE AFDELING
 
@@ -11715,7 +11771,7 @@ De meesters, en degenen, die anderen aanstellen tot de waarneming van hun zaken,
 
 De schoolonderwijzers en werkmeesters zijn verantwoordelijk voor de schade, door hun leerlingen en knechts veroorzaakt gedurende de tijd, dat deze onder hun toezicht staan.
 
-De hierboven vermelde verantwoordelijkheid houdt op, indien de ouders, de voogden, de schoolonderwijzers en werkmeesters bewijzen, dat zij de daad voor welke zij aansprakelijk zouden zijn, niet hebben kunnen beletten.
+De hierboven vermelde verantwoordelijkheid houdt op, indien de ouders, de voogden, de
 
 > 525 Gew. bij G.B. 1906 no. 50.
 
@@ -11724,6 +11780,7 @@ De hierboven vermelde verantwoordelijkheid houdt op, indien de ouders, de voogde
 [[END OF PAGE 256]]
 
 [[START OF PAGE 257]]
+schoolonderwijzers en werkmeesters bewijzen, dat zij de daad voor welke zij aansprakelijk zouden zijn, niet hebben kunnen beletten.
 
 ##### Artikel 1389
 
@@ -11761,7 +11818,7 @@ Het vonnis zal, indien de beledigde zulks vordert, ten koste van de veroordeelde
 
 ##### Artikel 1395
 
-Onverminderd haar gehoudenheid tot schadevergoeding, kan de verwerende partij de toewijzing van de vordering, bij het voorgaande artikel vermeld, voorkomen, door het aanbod en de werkelijke aflegging van een openbare verklaring voor de rechter, houdende dat haar de gepleegde daad leed doet, dat zij deswege verschoning vraagt, en de beledigde houdt voor een persoon van eer.
+Onverminderd haar gehoudenheid tot schadevergoeding, kan de verwerende partij de
 
 > 526 Gew. bij G.B. 1911 no. 4.
 
@@ -11772,6 +11829,7 @@ Onverminderd haar gehoudenheid tot schadevergoeding, kan de verwerende partij de
 [[END OF PAGE 257]]
 
 [[START OF PAGE 258]]
+toewijzing van de vordering, bij het voorgaande artikel vermeld, voorkomen, door het aanbod en de werkelijke aflegging van een openbare verklaring voor de rechter, houdende dat haar de gepleegde daad leed doet, dat zij deswege verschoning vraagt, en de beledigde houdt voor een persoon van eer.
 
 ##### Artikel 1396 528
 
@@ -11799,9 +11857,9 @@ De rechtsvordering tot schadevergoeding, bij artikel 1393 vermeld, gaat niet ver
 
 De burgerlijke rechtsvordering terzake van belediging vervalt door verloop van één jaar, te rekenen van de dag dat de daad gepleegd en aan de aanlegger bekend was.
 
-##### Artikel 1401a532
+##### Artikel 1401a 532
 
-- De producent is aansprakelijk voor de schade veroorzaakt door een gebrek in zijn produkt, tenzij:
+- 1. De producent is aansprakelijk voor de schade veroorzaakt door een gebrek in zijn produkt, tenzij:
 
 > 528 Gew. bij G.B. 1911 no. 4.
 
@@ -11819,43 +11877,43 @@ De burgerlijke rechtsvordering terzake van belediging vervalt door verloop van �
 
 [[START OF PAGE 259]]
 
-- hij het produkt niet in het verkeer heeft gebracht;
+- a. hij het produkt niet in het verkeer heeft gebracht;
 
-- het,  gelet  op  de  omstandigheden,  aannemelijk  is  dat  het  gebrek  dat  de  schade  heeft veroorzaakt,  niet  bestond  op  het  tijdstip  waarop  hij  het  produkt  in  het  verkeer  heeft gebracht, dan wel dat dit gebrek later is ontstaan;
+- b. het, gelet op de omstandigheden, aannemelijk is dat het gebrek dat de schade heeft veroorzaakt, niet bestond op het tijdstip waarop hij het produkt in het verkeer heeft gebracht, dan wel dat dit gebrek later is ontstaan;
 
-- het produkt, noch voor de verkoop of voor enige andere vorm van verspreiding met een economisch doel van de producent is vervaardigd, noch is vervaardigd of verspreid in het kader van de uitoefening van zijn beroep of bedrijf;
+- c. het produkt, noch voor de verkoop of voor enige andere vorm van verspreiding met een economisch doel van de producent is vervaardigd, noch is vervaardigd of verspreid in het kader van de uitoefening van zijn beroep of bedrijf;
 
-- het gebrek een gevolg is van het feit dat het produkt in overeenstemming is met dwingende overheidsvoorschriften;
+- d. het gebrek een gevolg is van het feit dat het produkt in overeenstemming is met dwingende overheidsvoorschriften;
 
-- het op grond van de stand van de wetenschappelijke en technische kennis op het tijdstip waarop hij het produkt in het verkeer bracht, onmogelijk was het bestaan van het gebrek te ontdekken;
+- e. het op grond van de stand van de wetenschappelijke en technische kennis op het tijdstip waarop hij het produkt in het verkeer bracht, onmogelijk was het bestaan van het gebrek te ontdekken;
 
-- f.. wat de producent van een grondstof of fabrikant van een onderdeel betreft, het gebrek te wijten is aan het ontwerp van het produkt waarvan de grondstof of het onderdeel een bestanddeel vormt, dan wel aan de instructies die door de fabrikant van het produkt zijn verstrekt.
+- f. wat de producent van een grondstof of fabrikant van een onderdeel betreft, het gebrek te wijten is aan het ontwerp van het produkt waarvan de grondstof of het onderdeel een bestanddeel vormt, dan wel aan de instructies die door de fabrikant van het produkt zijn verstrekt.
 
-- De  aansprakelijkheid  van  de  producent  kan  worden  verminderd  of  opgeheven,  rekening houdende met alle omstandigheden, indien de schade is veroorzaakt zowel door een gebrek in het  produkt  als  door  schuld  van  de  benadeelde  of  een  persoon  voor  wie  de  benadeelde aansprakelijk is.
+- 2. De aansprakelijkheid van de producent kan worden verminderd of opgeheven, rekening houdende met alle omstandigheden, indien de schade is veroorzaakt zowel door een gebrek in het produkt als door schuld van de benadeelde of een persoon voor wie de benadeelde aansprakelijk is.
 
-- De aansprakelijkheid van de producent wordt niet verminderd, indien de schade is veroorzaakt zowel door een gebrek in het produkt als door de gedraging van een derde.
+- 3. De aansprakelijkheid van de producent wordt niet verminderd, indien de schade is veroorzaakt zowel door een gebrek in het produkt als door de gedraging van een derde.
 
-##### Artikel 1401b533
+##### Artikel 1401b 533
 
-- Een produkt is gebrekkig, indien het niet de veiligheid biedt die men daarvan mag verwachten, alle omstandigheden in aanmerking genomen en in het bijzonder:
+- 1. Een produkt is gebrekkig, indien het niet de veiligheid biedt die men daarvan mag verwachten, alle omstandigheden in aanmerking genomen en in het bijzonder:
 
-- de presentatie van het produkt;
+- a. de presentatie van het produkt;
 
-- het redelijkerwijs te verwachten gebruik van het produkt;
+- b. het redelijkerwijs te verwachten gebruik van het produkt;
 
-- het tijdstip waarop het produkt in het verkeer werd gebracht.
+- c. het tijdstip waarop het produkt in het verkeer werd gebracht.
 
-- Een produkt mag niet als gebrekkig worden beschouwd uitsluitend omdat nadien een beter produkt in het verkeer is gebracht.
+- 2. Een produkt mag niet als gebrekkig worden beschouwd uitsluitend omdat nadien een beter produkt in het verkeer is gebracht.
 
-##### Artikel 1401c534
+##### Artikel 1401c 534
 
-- Voor de toepassing van de artikelen 1401a tot en met 1401i wordt verstaan onder:
+- 1. Voor de toepassing van de artikelen 1401a tot en met 1401i wordt verstaan onder:
 
-- produkt: een roerende zaak, ook nadat deze een bestanddeel is gaan vormen van een andere roerende of onroerende zaak, alsmede electriciteit, zulks met uitzondering van landbouwprodukten en produkten van de jacht.
+- a. produkt: een roerende zaak, ook nadat deze een bestanddeel is gaan vormen van een andere roerende of onroerende zaak, alsmede electriciteit, zulks met uitzondering van landbouwprodukten en produkten van de jacht.
 
 Onder landbouwprodukten en produkten van de jacht worden verstaan produkten van de bodem, van de veehouderij en van de visserij, onderscheidenlijk door jacht verkregen wild of gevogelte, met uitzondering van produkten die een eerste bewerking of verwerking hebben ondergaan.
 
-- producent:  de  fabrikant  van  een  eindprodukt,  de  producent  van  een  grondstof  of  de fabrikant van een onderdeel, alsmede een ieder die zich als producent presenteert door zijn merk of een ander onderscheidingsteken op het produkt aan te brengen.
+- b. producent: de fabrikant van een eindprodukt, de producent van een grondstof of de fabrikant van een onderdeel, alsmede een ieder die zich als producent presenteert door zijn merk of een ander onderscheidingsteken op het produkt aan te brengen.
 
 > 533 Ingev. bij S.B. 1995 no. 101.
 
@@ -11867,31 +11925,31 @@ Onder landbouwprodukten en produkten van de jacht worden verstaan produkten van 
 
 [[START OF PAGE 260]]
 
-- Onverminderd  de  aansprakelijkheid  van  de  producent,  wordt  ieder  die  een  produkt  in Suriname invoert om dit te verkopen, te verhuren of anderszins te verstrekken in het kader van zijn economische aktiviteiten, beschouwd als producent; zijn aansprakelijkheid is dezelfde als die van de producent.
+- 2. Onverminderd de aansprakelijkheid van de producent, wordt ieder die een produkt in Suriname invoert om dit te verkopen, te verhuren of anderszins te verstrekken in het kader van zijn economische aktiviteiten, beschouwd als producent; zijn aansprakelijkheid is dezelfde als die van de producent.
 
-- Indien niet kan worden vastgesteld wie de producent van het produkt is, wordt elke leverancier als producent ervan beschouwd, tenzij hij de benadeelde binnen een redelijke termijn de identiteit meedeelt van de producent of van degene die hem het produkt heeft geleverd. Indien ten aanzien van een in Suriname geïmporteerd produkt niet kan worden vastgesteld wie de importeur van dat produkt is, wordt evenzo elke leverancier als producent beschouwd, tenzij hij de benadeelde binnen een redelijke termijn de identiteit meedeelt van de importeur of de leverancier die hem het produkt heeft geleverd.
+- 3. Indien niet kan worden vastgesteld wie de producent van het produkt is, wordt elke leverancier als producent ervan beschouwd, tenzij hij de benadeelde binnen een redelijke termijn de identiteit meedeelt van de producent of van degene die hem het produkt heeft geleverd. Indien ten aanzien van een in Suriname geïmporteerd produkt niet kan worden vastgesteld wie de importeur van dat produkt is, wordt evenzo elke leverancier als producent beschouwd, tenzij hij de benadeelde binnen een redelijke termijn de identiteit meedeelt van de importeur of de leverancier die hem het produkt heeft geleverd.
 
-##### Artikel 1401d535
+##### Artikel 1401d 535
 
 De benadeelde moet de schade, het gebrek en het oorzakelijk verband tussen het gebrek en de schade bewijzen.
 
-##### Artikel 1401e536
+##### Artikel 1401e 536
 
 Indien verschillende personen op grond van artikel 1401a lid 1 aansprakelijk zijn voor dezelfde schade, is elk van hen voor het geheel aansprakelijk.
 
-##### Artikel 1401f537
+##### Artikel 1401f 537
 
 De aansprakelijkheid, bedoeld in artikel 1401a lid 1 bestaat voor:
 
-- schade door dood, ziekte of lichamelijk letsel;
+- a. schade door dood, ziekte of lichamelijk letsel;
 
-- schade door het produkt toegebracht aan een andere zaak die gewoonlijk voor gebruik of verbruik in de privésfeer is bestemd en door de benadeelde ook hoofdzakelijk in de privésfeer is gebruikt of verbruikt, met dien verstande dat deze schade slechts wordt vergoed tot een door de rechter in redelijkheid en billijkheid te bepalen bedrag.
+- b. schade door het produkt toegebracht aan een andere zaak die gewoonlijk voor gebruik of verbruik in de privésfeer is bestemd en door de benadeelde ook hoofdzakelijk in de privésfeer is gebruikt of verbruikt, met dien verstande dat deze schade slechts wordt vergoed tot een door de rechter in redelijkheid en billijkheid te bepalen bedrag.
 
-##### Artikel 1401g538
+##### Artikel 1401g 538
 
-- De rechtsvordering tot schadevergoeding van de benadeelde tegen de producent ingevolge artikel 1401a lid 1 verjaart door verloop van vijf jaren na de aanvang van de dag volgende op die waarop de benadeelde met de schade, het gebrek en de identiteit van de producent bekend is geworden of had moeten worden.
+- 1. De rechtsvordering tot schadevergoeding van de benadeelde tegen de producent ingevolge artikel 1401a lid 1 verjaart door verloop van vijf jaren na de aanvang van de dag volgende op die waarop de benadeelde met de schade, het gebrek en de identiteit van de producent bekend is geworden of had moeten worden.
 
-- Het recht op schadevergoeding van de benadeelde jegens de producent ingevolge artikel 1401a lid 1 vervalt door verloop van tien jaren na de aanvang van de dag, volgende op die waarop de producent de zaak die de schade heeft veroorzaakt, in het verkeer heeft gebracht. Hetzelfde geldt voor het recht van een derde die mede voor de schade aansprakelijk is, terzake van regres jegens de producent.
+- 2. Het recht op schadevergoeding van de benadeelde jegens de producent ingevolge artikel 1401a lid 1 vervalt door verloop van tien jaren na de aanvang van de dag, volgende op die waarop de producent de zaak die de schade heeft veroorzaakt, in het verkeer heeft gebracht. Hetzelfde geldt voor het recht van een derde die mede voor de schade aansprakelijk is, terzake van regres jegens de producent.
 
 > 535 Ingev. bij S.B. 1995 no. 101.
 
@@ -11907,45 +11965,45 @@ De aansprakelijkheid, bedoeld in artikel 1401a lid 1 bestaat voor:
 
 [[START OF PAGE 261]]
 
-##### Artikel 1401h539
+##### Artikel 1401h 539
 
-- De aansprakelijkheid van de producent uit hoofde van de artikelen 1401a tot en met 1401i kan niet worden uitgesloten of beperkt.
+- 1. De aansprakelijkheid van de producent uit hoofde van de artikelen 1401a tot en met 1401i kan niet worden uitgesloten of beperkt.
 
-- Is jegens de benadeelde tevens een derde aansprakelijk die het produkt niet gebruikt in de uitoefening  van  een  beroep  of  bedrijf,  dan  kan  niet  ten  nadele  van  die  derde  worden afgeweken van de regels inzake het regres.
+- 2. Is jegens de benadeelde tevens een derde aansprakelijk die het produkt niet gebruikt in de uitoefening van een beroep of bedrijf, dan kan niet ten nadele van die derde worden afgeweken van de regels inzake het regres.
 
-##### Artikel 1401i540
+##### Artikel 1401i 540
 
 Het recht op schadevergoeding jegens de producent uit hoofde van de voorgaande artikelen komt de benadeelde toe, onverminderd alle andere rechten of vorderingen.
 
-##### Artikel 1401j541
+##### Artikel 1401j 541
 
-Hij die omtrent goederen of diensten die door hem of degene ten behoeve van wie hij handelt  in  de  uitoefening  van  een  beroep  of  bedrijf  worden  aangeboden,  een  mededeling openbaar maakt of laat openbaar maken, handelt onrechtmatig, indien deze mededeling in een of meer opzichten misleidend is, zoals ten aanzien van:
+Hij die omtrent goederen of diensten die door hem of degene ten behoeve van wie hij handelt in de uitoefening van een beroep of bedrijf worden aangeboden, een mededeling openbaar maakt of laat openbaar maken, handelt onrechtmatig, indien deze mededeling in een of meer opzichten misleidend is, zoals ten aanzien van:
 
-- de aard, samenstelling, hoeveelheid, hoedanigheid, eigenschappen of gebruiksmogelijkheden;
+- a. de aard, samenstelling, hoeveelheid, hoedanigheid, eigenschappen of gebruiksmogelijkheden;
 
-- de herkomst, de wijze of het tijdstip van vervaardigen;
+- b. de herkomst, de wijze of het tijdstip van vervaardigen;
 
-- de omvang van de voorraad;
+- c. de omvang van de voorraad;
 
-- de prijs of de wijze van berekenen daarvan;
+- d. de prijs of de wijze van berekenen daarvan;
 
-- de aanleiding of het doel van de aanbieding;
+- e. de aanleiding of het doel van de aanbieding;
 
-- de  toegekende  onderscheidingen,  getuigschriften  of  andere  door  derden  uitgebrachte beoordelingen of gedane verklaringen, of de gebezigde wetenschappelijke of vaktermen, technische bevindingen of statistische gegevens;
+- f. de toegekende onderscheidingen, getuigschriften of andere door derden uitgebrachte beoordelingen of gedane verklaringen, of de gebezigde wetenschappelijke of vaktermen, technische bevindingen of statistische gegevens;
 
-- de voorwaarde, waaronder goederen worden geleverd of diensten worden verricht of de betalingen plaatsvindt;
+- g. de voorwaarde, waaronder goederen worden geleverd of diensten worden verricht of de betalingen plaatsvindt;
 
-- de omvang, inhoud of tijdsduur van de garantie;
+- h. de omvang, inhoud of tijdsduur van de garantie;
 
-- de identiteit, hoedanigheden, bekwaamheid of bevoegdheid van degene door wie, onder wiens leiding of toezicht of met wiens medewerking de goederen zijn of worden vervaardigd of aangeboden of de diensten worden verricht;
+- i. de identiteit, hoedanigheden, bekwaamheid of bevoegdheid van degene door wie, onder wiens leiding of toezicht of met wiens medewerking de goederen zijn of worden vervaardigd of aangeboden of de diensten worden verricht;
 
-- vergelijking met andere goederen of diensten.
+- j. vergelijking met andere goederen of diensten.
 
-##### Artikel 1401k542
+##### Artikel 1401k 542
 
-- Indien een vordering ingevolge artikel 1401j wordt ingesteld tegen degene die inhoud en inkleding van de mededeling geheel of ten dele zelf heeft bepaald of doen bepalen, rust op hem de bewijslast ter zake van de juistheid of volledigheid van de feiten die in de mededeling zijn vervat of daardoor worden gesuggereerd en waarop het beweerde misleidende karakter van de mededeling berust, behoudens voor zover deze bewijslastverdeling onredelijk is.
+- 1. Indien een vordering ingevolge artikel 1401j wordt ingesteld tegen degene die inhoud en inkleding van de mededeling geheel of ten dele zelf heeft bepaald of doen bepalen, rust op hem de bewijslast ter zake van de juistheid of volledigheid van de feiten die in de mededeling zijn vervat of daardoor worden gesuggereerd en waarop het beweerde misleidende karakter van de mededeling berust, behoudens voor zover deze bewijslastverdeling onredelijk is.
 
-- Indien volgens artikel 1401j onrechtmatig is gehandeld door degene die inhoud en inkleding
+- 2. Indien volgens artikel 1401j onrechtmatig is gehandeld door degene die inhoud en inkleding
 
 > 539 Ingev. bij S.B. 1995 no. 101.
 
@@ -11961,19 +12019,19 @@ Hij die omtrent goederen of diensten die door hem of degene ten behoeve van wie 
 
 [[START OF PAGE 262]]
 
-- van de mededeling geheel of ten dele zelf heeft bepaald of doen bepalen, is hij voor de dientengevolge ontstane schade aansprakelijk, tenzij hij bewijst dat zulks noch aan zijn schuld is te wijten noch op andere grond voor zijn rekening komt.
+van de mededeling geheel of ten dele zelf heeft bepaald of doen bepalen, is hij voor de dientengevolge ontstane schade aansprakelijk, tenzij hij bewijst dat zulks noch aan zijn schuld is te wijten noch op andere grond voor zijn rekening komt.
 
-- Indien een vordering als in lid 1 van dit artikel bedoeld, wordt toegewezen jegens iemand die niet tevens aansprakelijk is voor de in artikel 1401k lid 2 bedoelde schade, kan de rechter die de vordering toewijst bepalen, dat de kosten van het geding en van de openbaarmaking van de rectificatie geheel of gedeeltelijk moeten worden gedragen door degene die de vordering heeft ingesteld; elk der partijen heeft voor het gedeelte van de kosten van het geding en van de openbaarmaking  van  de  rectificatie,  dat  ingevolge  de  uitspraak  door  haar  moet  worden gedragen, verhaal op ieder die voor de door de publicatie ontstane schade aansprakelijk is.
+- 3. Indien een vordering als in lid 1 van dit artikel bedoeld, wordt toegewezen jegens iemand die niet tevens aansprakelijk is voor de in artikel 1401k lid 2 bedoelde schade, kan de rechter die de vordering toewijst bepalen, dat de kosten van het geding en van de openbaarmaking van de rectificatie geheel of gedeeltelijk moeten worden gedragen door degene die de vordering heeft ingesteld; elk der partijen heeft voor het gedeelte van de kosten van het geding en van de openbaarmaking van de rectificatie, dat ingevolge de uitspraak door haar moet worden gedragen, verhaal op ieder die voor de door de publicatie ontstane schade aansprakelijk is.
 
-##### Artikel 1401l543
+##### Artikel 1401l 543
 
-- Indien iemand door het openbaar maken of laten openbaar maken van een in artikel 1401j omschreven mededeling aan een andere schade heeft toegebracht of dreigt toe te brengen, kan de rechter hem op vordering van die ander het openbaar maken of laten openbaar maken van zodanige mededeling verbieden, alsmede hem veroordelen tot het op een door de rechter aangegeven wijze openbaar maken of laten openbaar maken van een rectificatie van die mededeling.
+- 1. Indien iemand door het openbaar maken of laten openbaar maken van een in artikel 1401j omschreven mededeling aan een andere schade heeft toegebracht of dreigt toe te brengen, kan de rechter hem op vordering van die ander het openbaar maken of laten openbaar maken van zodanige mededeling verbieden, alsmede hem veroordelen tot het op een door de rechter aangegeven wijze openbaar maken of laten openbaar maken van een rectificatie van die mededeling.
 
-- Vorderingen als in lid 1 van dit artikel bedoeld komen mede toe aan:
+- 2. Vorderingen als in lid 1 van dit artikel bedoeld komen mede toe aan:
 
-- rechtspersonen met volledige rechtsbevoegdheid die ten doel hebben de behartiging van belangen van personen die een beroep of een bedrijf uitoefenen of van eindgebruikers van niet voor een beroep of bedrijf bestemde goederen of diensten, indien deze belangen door het openbaar maken van de mededeling zijn of dreigen te worden aangetast;
+- a. rechtspersonen met volledige rechtsbevoegdheid die ten doel hebben de behartiging van belangen van personen die een beroep of een bedrijf uitoefenen of van eindgebruikers van niet voor een beroep of bedrijf bestemde goederen of diensten, indien deze belangen door het openbaar maken van de mededeling zijn of dreigen te worden aangetast;
 
-b.  andere rechtspersonen met volledige rechtsbevoegdheid, mits de mededeling redelijkerwijze geacht kan worden verband te houden met het door hen nagestreefde doel en dit doel door het openbaar maken van de mededeling wordt of dreigt te worden aangetast.
+- b. andere rechtspersonen met volledige rechtsbevoegdheid, mits de mededeling redelijkerwijze geacht kan worden verband te houden met het door hen nagestreefde doel en dit doel door het openbaar maken van de mededeling wordt of dreigt te worden aangetast.
 
 ##### Artikel 1401m 544
 
@@ -11981,7 +12039,7 @@ Hij, die met het oogmerk anderen te bewegen tot het nemen van schuldbrieven van 
 
 Aansprakelijk is echter niet degene, die aantoont, dat hem geenerlei tekortkoming is te wijten.
 
-Onder  schuldbrieven  en  aandelen  zijn  begrepen  certificaten  van  schuldbrieven  en certificaten van aandelen.
+Onder schuldbrieven en aandelen zijn begrepen certificaten van schuldbrieven en certificaten van aandelen.
 
 ##### Artikel 1401n 545
 
@@ -12053,7 +12111,7 @@ door verjaring, welke het onderwerp van een afzonderlijke titel uitmaakt.
 
 Een verbintenis kan gekweten worden door een ieder, die daarbij belang heeft, gelijk een medeschuldenaar of een borg.
 
-Een verbintenis kan zelfs gekweten worden door een derde, die daarbij geen belang heeft, mits die derde handelt in naam en tot kwijting van de schuldenaar, of, indien hij in zijn eigen naam handelt, hij niet in de rechten van de schuldeiser gesteld worden.
+Een verbintenis kan zelfs gekweten worden door een derde, die daarbij geen belang heeft,
 
 > 546 Ingev. bij G.B. 1936 no. 36; Vernummerd bij S.B. 1995 no. 101.
 
@@ -12064,6 +12122,7 @@ Een verbintenis kan zelfs gekweten worden door een derde, die daarbij geen belan
 [[END OF PAGE 263]]
 
 [[START OF PAGE 264]]
+mits die derde handelt in naam en tot kwijting van de schuldenaar, of, indien hij in zijn eigen naam handelt, hij niet in de rechten van de schuldeiser gesteld worden.
 
 ##### Artikel 1404
 
@@ -12231,7 +12290,7 @@ Om een consignatie van waarde te doen zijn, wordt geen machtiging van de rechter
 
 - 2°. Dat de schuldenaar zich van de aangeboden zaak ontdaan heeft, door deze in bewaring te  stellen  ter  plaatse  door  de  wet  tot  het  ontvangen  van  consignatiën  aangewezen,  met  de interesten tot de dag van de bewaarstelling toe;
 
-- 3°. Dat er door de notaris of door de deurwaarder, beide met twee getuigen, een procesverbaal wordt opgemaakt, behelzende de aard der aangeboden muntspeciën, de weigering van de schuldeiser om deze te ontvangen, of dat hij tot die ontvangst niet verschenen is, en eindelijk het doen van de consignatie zelf;
+- 3°. Dat er door de notaris of door de deurwaarder, beide met twee getuigen, een proces-verbaal wordt opgemaakt, behelzende de aard der aangeboden muntspeciën, de weigering van de schuldeiser om deze te ontvangen, of dat hij tot die ontvangst niet verschenen is, en eindelijk het doen van de consignatie zelf;
 
 - 4°. Dat, bijaldien de schuldeiser tot de ontvangst niet verschenen is, het proces-verbaal van de consignatie hem betekend is, met aanmaning om het in bewaring gebrachte te lichten.
 
@@ -12281,13 +12340,14 @@ Schuldvernieuwing wordt op drieërlei wijze teweeggebracht:
 
 ##### Artikel 1435
 
-Schuldvernieuwing kan slechts plaats hebben tussen personen, die bekwaam zijn om verbintenissen aan te gaan.
+Schuldvernieuwing kan slechts plaats hebben tussen personen, die bekwaam zijn om
 
 268
 
 [[END OF PAGE 268]]
 
 [[START OF PAGE 269]]
+verbintenissen aan te gaan.
 
 ##### Artikel 1436
 
@@ -12371,7 +12431,7 @@ Bekomen uitstel van betaling verhindert geen vergelijking.
 
 De vergelijking heeft plaats uit welke oorzaak ook de wederzijdse schulden voortspruiten, uitgezonderd:
 
-1°. Wanneer de teruggave geëist wordt van een zaak, waarvan de eigenaar wederrechtelijk ontzet is;
+1°. Wanneer de teruggave geëist wordt van een zaak, waarvan de eigenaar wederrechtelijk
 
 > 549 Zie Verbeterblad G.B. 1918 no. 108.
 
@@ -12382,6 +12442,7 @@ De vergelijking heeft plaats uit welke oorzaak ook de wederzijdse schulden voort
 [[END OF PAGE 270]]
 
 [[START OF PAGE 271]]
+ontzet is;
 
 - 2°. Wanneer geëist wordt de teruggave van iets, hetwelk in bewaring of ter bruikleen gegeven is;
 
@@ -12411,7 +12472,7 @@ Indien er verscheidene voor vergelijking vatbare en van dezelfde persoon vorderb
 
 Vergelijking heeft geen plaats ten nadele der verkregen rechten van een derde.
 
-Aldus kan hij, die, schuldenaar zijnde, schuldeiser geworden is, nadat op het door hem verschuldigde door een derde is beslag gelegd, zich niet, ten na dele van de inbeslagnemer, van de schuldvergelijking bedienen.
+Aldus kan hij, die, schuldenaar zijnde, schuldeiser geworden is, nadat op het door hem verschuldigde door een derde is beslag gelegd, zich niet, ten nadele van de inbeslagnemer, van de schuldvergelijking bedienen.
 
 ##### Artikel 1456
 
@@ -12605,7 +12666,7 @@ De eigendom van het verkochte goed gaat niet eer tot de koper over, dan nadat de
 
 ##### Artikel 1481
 
-Indien de verkochte zaak in een zeker en bepaald voorwerp bestaat, is deze, van het ogenblik van de koop af, voor rekening van de koper, hoewel de levering nog niet heeft plaats gehad; en heeft de verkoper het recht om de prijs te vorderen.
+Indien de verkochte zaak in een zeker en bepaald voorwerp bestaat, is deze, van het
 
 > 556 Gew. bij S.B. 1981 no. 23.
 
@@ -13746,6 +13807,8 @@ Het loon van werknemers, welke niet bij de werkgever inwonen, mag niet anders wo
 
 [[START OF PAGE 301]]
 
+voorgaande nummers;
+
 - 8°. uitkering gedurende een verlofstijd na een bepaald aantal jaren dienst of recht op vrij vervoer naar de plaats van herkomst of naar en van de plaats van verlof;
 
 - 9°. onderricht door of vanwege de werkgever aan de werknemer te verstrekken.
@@ -13836,7 +13899,7 @@ Indien een der partijen opzettelijk of door schuld in strijd heeft gehandeld met
 
 Alle akten en geschriften betreffende het aangaan, wijzigen of eindigen van arbeidsovereenkomsten, benevens alle stukken, welke door de werkgever en de werknemer of hun wettelijke vertegenwoordigers tezamen of ieder afzonderlijk, hetzij in onderhandse vorm, hetzij ten overstaan van een openbare ambtenaar, zonder medewerking van derden, ter uitvoering van de arbeidsovereenkomst worden opgemaakt, zijn vrij van zegel en van kosten, voortvloeiende uit  toepassing  van  art.  1901  van  het  Burgerlijk  Wetboek  benevens  van  de  formaliteit  van registratie of worden, indien deze formaliteit wordt gewenst, kosteloos geregistreerd.
 
-##### Artikel 1613z580
+##### Artikel 1613z 580
 
 - De bepalingen van deze titel zijn niet van toepassing ten aanzien van personen in dienst van de Lande of van een op de voet van artikel 118 van de Surinaamse Staatsregeling ingestelde gemeenschap, of van enig ander publiekrechtelijk lichaam, tenzij zij, hetzij vóór of bij de aanvang van de dienstbetrekking door of namens partijen hetzij bij wettelijke regeling van toepassing zijn verklaard.
 
@@ -14012,11 +14075,11 @@ Indien het loon in geld voor een gedeelte naar tijdruimte en voor een ander gede
 
 - Het is de werkgever verboden direct of indirect:
 
-- aan de werknemer rente in welke vorm ook in rekening te brengen wegens geleende gelden of verstrekte voorschotten;
+- a. aan de werknemer rente in welke vorm ook in rekening te brengen wegens geleende gelden of verstrekte voorschotten;
 
-- aan de werknemer heffingen op te leggen wegens het gebruik of het onderhoud van tot het bedrijf  van  de  werkgever  behorende  en  ten  behoeve  van  dit  bedrijf  gebezigde gereedschappen en materialen;
+- b. aan de werknemer heffingen op te leggen wegens het gebruik of het onderhoud van tot het bedrijf van de werkgever behorende en ten behoeve van dit bedrijf gebezigde gereedschappen en materialen;
 
-- een werknemer aansprakelijk te stellen voor verplichtingen van een andere werknemer jegens de werkgever, of als borg te accepteeren.
+- c. een werknemer aansprakelijk te stellen voor verplichtingen van een andere werknemer jegens de werkgever, of als borg te accepteeren.
 
 307
 
@@ -14108,7 +14171,7 @@ De werkgever is gehouden inwonende werknemers, zonder korting van hun loon, in d
 
 - Zijn die verplichtingen niet nagekomen, dan is de werkgever gehouden tot vergoeding van de schade,  aan  de  werknemer  dientengevolge  in  de  uitoefening  van  zijn  dienstbetrekking overkomen, tenzij door hem het bewijs wordt geleverd, dat die niet-nakoming aan overmacht, of die schade in belangrijke mate mede aan grove schuld van de werknemer is te wijten, alles behoudens de betrekkelijke bepalingen van een wettelijke Ongevallenregeling.
 
-- Indien  de  werknemer  tengevolge  van  het  niet  nakomen  van  die  verplichtingen  door  de werkgever, in de uitoefening van zijn dienstbetrekking zodanig letsel heeft bekomen, dat daarvan  de  dood  het  gevolg  is,  is  de  werkgever  jegens  de  overblijvende  echtgenoot,  de kinderen of de ouders van de overledene, die voor zijn arbeid plegen te worden onderhouden, verplicht  tot  schadevergoeding, tenzij  door  hem  het  bewijs  wordt  geleverd,  dat  die  nietnakoming aan overmacht, of de dood in belangrijke mate mede aan grove schuld van de werknemer is te wijten. Het voorbehoud bij het voorgaand lid gemaakt, is ook ten deze van toepassing.
+- Indien de werknemer tengevolge van het niet nakomen van die verplichtingen door de werkgever, in de uitoefening van zijn dienstbetrekking zodanig letsel heeft bekomen, dat daarvan de dood het gevolg is, is de werkgever jegens de overblijvende echtgenoot, de kinderen of de ouders van de overledene, die voor zijn arbeid plegen te worden onderhouden, verplicht tot schadevergoeding, tenzij door hem het bewijs wordt geleverd, dat die niet-nakoming aan overmacht, of de dood in belangrijke mate mede aan grove schuld van de werknemer is te wijten. Het voorbehoud bij het voorgaand lid gemaakt, is ook ten deze van toepassing.
 
 - Elke beding, waardoor deze verplichtingen van de werkgever zoud worden uitgesloten of beperkt, is nietig.
 
@@ -14233,31 +14296,31 @@ De werknemer is in het algemeen verplicht al datgene te doen en na te laten, wat
 
 - 1°. voor de werkgever:
 
-- indien de dienstbetrekking ten hoogste tien jaar heeft geduurd, zoveel weken als de dienstbetrekking gehele jaren heeft geduurd;
+- a. indien de dienstbetrekking ten hoogste tien jaar heeft geduurd, zoveel weken als de dienstbetrekking gehele jaren heeft geduurd;
 
-- indien de dienstbetrekking langer dan tien jaar, doch ten hoogste vijftien jaar heeft geduurd, vier maanden;
+- b. indien de dienstbetrekking langer dan tien jaar, doch ten hoogste vijftien jaar heeft geduurd, vier maanden;
 
-- indien de dienstbetrekking langer dan vijftien jaar heeft geduurd, zes maanden;
+- c. indien de dienstbetrekking langer dan vijftien jaar heeft geduurd, zes maanden;
 
 - 2°. voor de werknemer:
 
-- indien de dienstbetrekking ten hoogste tien jaar heeft geduurd, zoveel weken als de dienstbetrekking tijdvakken van twee gehele jaren heeft geduurd;
+- a. indien de dienstbetrekking ten hoogste tien jaar heeft geduurd, zoveel weken als de dienstbetrekking tijdvakken van twee gehele jaren heeft geduurd;
 
-- indien de dienstbetrekking langer dan tien jaar, doch ten hoogste vijftien jaar heeft geduurd, twee maanden;
+- b. indien de dienstbetrekking langer dan tien jaar, doch ten hoogste vijftien jaar heeft geduurd, twee maanden;
 
-- indien de dienstbetrekking langer dan vijftien jaar heeft geduurd, drie maanden.
+- c. indien de dienstbetrekking langer dan vijftien jaar heeft geduurd, drie maanden.
 
-- Het  in  het  eerste  lid  bepaalde  is  slechts  van  toepassing,  indien  de  daarin  bedoelde opzeggingstermijn langer is dan die bedoeld in lid 3.
+- Het in het eerste lid bepaalde is slechts van toepassing, indien de daarin bedoelde opzeggingstermijn langer is dan die bedoeld in lid 3.
 
-- Bij schriftelijke overeenkomst of reglement mogen de termijnen bedoeld in lid 3 worden verlengd, mits de termijn van opzegging voor de werknemer niet langer zij dan zes maanden en  voor  de  werkgever  niet  korter  wordt  gesteld  dan  op  het  dubbele  van  die  voor  de werknemer; is slechts voor de werknemer een termijn vastgesteld of is de termijn voor de werkgever korter dan het dubbele van die voor de werknemer is vastgesteld, dan geldt voor de werkgever het dubbele van de termijn die voor de werknemer is bepaald; is slechts voor de werkgever een termijn vastgesteld, dan geldt voor de werknemer de helft daarvan.
+- Bij schriftelijke overeenkomst of reglement mogen de termijnen bedoeld in lid 3 worden verlengd, mits de termijn van opzegging voor de werknemer niet langer zij dan zes maanden en voor de werkgever niet korter wordt gesteld dan op het dubbele van die voor de werknemer; is slechts voor de werknemer een termijn vastgesteld of is de termijn voor de werkgever korter dan het dubbele van die voor de werknemer is vastgesteld, dan geldt voor de werkgever het dubbele van de termijn die voor de werknemer is bepaald; is slechts voor de werkgever een termijn vastgesteld, dan geldt voor de werknemer de helft daarvan.
 
 - Van het bepaalde in lid 3 mag slechts bij collectieve arbeidsovereenkomst worden afgeweken.
 
 - Voor de toepassing van het bepaalde in lid 3 worden dienstbetrekkingen geacht eenzelfde, niet onderbroken, dienstbetrekking te vormen, indien:
 
-- zij bestaan hebben tussen dezelfde partijen en elkaar met tussenpozen van niet meer dan 31 dagen  zijn  opgevolgd,  tenzij  de  dienstbetrekkingen  uitsluitend  hebben  betroffen  het verrichten  van  losse,  ongeregelde  arbeid  en  zij  ieder  voor  zich  binnen  31  dagen  zijn geëindigd;
+- a. zij bestaan hebben tussen dezelfde partijen en elkaar met tussenpozen van niet meer dan 31 dagen zijn opgevolgd, tenzij de dienstbetrekkingen uitsluitend hebben betroffen het verrichten van losse, ongeregelde arbeid en zij ieder voor zich binnen 31 dagen zijn geëindigd;
 
-- eenzelfde werknemer achtereenvolgens in dienst is geweest bij verschillende werkgevers, die redelijkerwijze geacht moeten worden, ten aanzien van de verrichte arbeid, elkaars opvolgers te zijn.
+- b. eenzelfde werknemer achtereenvolgens in dienst is geweest bij verschillende werkgevers, die redelijkerwijze geacht moeten worden, ten aanzien van de verrichte arbeid, elkaars opvolgers te zijn.
 
 - De rechter kan, op verzoek van de werkgever, de opzeggingstermijn, als bedoeld in lid 3 sub 1°, punten b en c, op een kortere tijdsduur vaststellen wegens zeer bijzondere redenen, met dien verstande, dat geen kortere termijn mag worden bepaald dan 13 weken.
 
@@ -14413,9 +14476,9 @@ De  dienstbetrekking  eindigt  niet  door  de  dood  van  de  werkgever,  tenzij
 
 - Beëindiging van de dienstbetrekking door de werkgever zal onder andere kennelijk onredelijk geacht kunnen worden:
 
-- wanneer deze geschiedt zonder opgave van redenen of onder opgave van een voorgewende of valse reden;
+- a. wanneer deze geschiedt zonder opgave van redenen of onder opgave van een voorgewende of valse reden;
 
-- wanneer, mede in aanmerking genomen het aantal jaren dat de dienstbetrekking heeft geduurd, alsmede de voor de werknemer getroffen voorzieningen, de gevolgen van de
+- b. wanneer, mede in aanmerking genomen het aantal jaren dat de dienstbetrekking heeft geduurd, alsmede de voor de werknemer getroffen voorzieningen, de gevolgen van de
 
 > 593 Gew. bij G.B. 1963 no. 164.
 
@@ -14429,19 +14492,19 @@ De  dienstbetrekking  eindigt  niet  door  de  dood  van  de  werkgever,  tenzij
 
 - beëindiging voor de werknemer in een onevenredige verhouding staan tot het belang van de werkgever bij beëindiging;
 
-- wanneer  deze  geschiedt  in  verband  met  een  verhindering  van  de  werknemer  om  de bedongen arbeid te verrichten, als bedoeld in artikel 1615h derde lid;
+- c. wanneer deze geschiedt in verband met een verhindering van de werknemer om de bedongen arbeid te verrichten, als bedoeld in artikel 1615h derde lid;
 
-- wanneer deze geschiedt in afwijking van een krachtens wettelijk voorschrift of krachtens gebruik geldende anciënniteitsregeling voor de categorie van werknemers, waartoe de werknemer behoort, tenzij hiervoor gewichtige redenen aanwezig zijn;
+- d. wanneer deze geschiedt in afwijking van een krachtens wettelijk voorschrift of krachtens gebruik geldende anciënniteitsregeling voor de categorie van werknemers, waartoe de werknemer behoort, tenzij hiervoor gewichtige redenen aanwezig zijn;
 
-- wanneer deze geschiedt op grond van handelingen van bestuursleden of vertegenwoordigers van  een  vereniging  van  werknemers,  die  representatief  geacht  kan  worden  voor  de werknemers of voor een bepaalde categorie daarvan in dienst van de werkgever, voor zover deze  handelingen  rechtstreeks  met  de  arbeidsverhoudingen  of  verenigingsrechten  in verband staan en niet onrechtmatig zijn;
+- e. wanneer deze geschiedt op grond van handelingen van bestuursleden of vertegenwoordigers van een vereniging van werknemers, die representatief geacht kan worden voor de werknemers of voor een bepaalde categorie daarvan in dienst van de werkgever, voor zover deze handelingen rechtstreeks met de arbeidsverhoudingen of verenigingsrechten in verband staan en niet onrechtmatig zijn;
 
-- wanneer  deze  geschiedt  in  verband  met  een  niet  onrechtmatige  werkstaking,  tenzij  de werkgever daartoe volgens wettelijke voorschriften bevoegd is.
+- f. wanneer deze geschiedt in verband met een niet onrechtmatige werkstaking, tenzij de werkgever daartoe volgens wettelijke voorschriften bevoegd is.
 
 - Beëindiging van de dienstbetrekking door de werknemer zal onder andere kennelijk onredelijk geacht kunnen worden:
 
-- wanneer deze geschiedt zonder opgave van redenen of onder opgave van een voorgewende of valse reden;
+- a. wanneer deze geschiedt zonder opgave van redenen of onder opgave van een voorgewende of valse reden;
 
-- wanneer  de  gevolgen  van  de  beëindiging  voor  de  werkgever  in  een  onevenredige verhouding staan tot het belang van de werknemer bij de beëindiging.
+- b. wanneer de gevolgen van de beëindiging voor de werkgever in een onevenredige verhouding staan tot het belang van de werknemer bij de beëindiging.
 
 - Bedingen,  waardoor  aan  een  der  partijen de beslissing wordt  overgelaten, of de dienstbetrekking kennelijk onredelijk is beëindigd, zijn nietig.
 
@@ -14550,15 +14613,9 @@ Indien  een  gebouw,  voor  een  bepaalde  prijs  aangenomen  en  afgemaakt,  ge
 
 [[START OF PAGE 320]]
 
-> 602 Gew. bij G.B. 1947 no. 140.
-
-> 603 Gew. bij G.B. 1947 no. 140.
-
-> 604 Gew. bij G.B. 1947 no. 140.
-
 ##### Artikel 1622 602
 
-Indien  een  bouwmeester  of  aannemer  op  zich  genomen  heeft  om  een  gebouw  bij aanneming te maken, volgens een bestek, met de eigenaar van de grond beraamd en vastgesteld, kan hij geen vermeerdering van de prijs vorderen, noch onder voorwendsel van vermeerdering der arbeidslonen of bouwstoffen, noch onder dat van gemaakte veranderingen of bijvoegselen, die niet in het bestek begrepen zijn, indien die veranderingen of vergrotingen niet schriftelijk zijn ingewilligd, en over derzelver prijs met de eigenaar geen overeenkomst is getroffen.
+Indien een bouwmeester of aannemer op zich genomen heeft om een gebouw bij aanneming te maken, volgens een bestek, met de eigenaar van de grond beraamd en vastgesteld, kan hij geen vermeerdering van de prijs vorderen, noch onder voorwendsel van vermeerdering der arbeidslonen of bouwstoffen, noch onder dat van gemaakte veranderingen of bijvoegselen, die niet in het bestek begrepen zijn, indien die veranderingen of vergrotingen niet schriftelijk zijn ingewilligd, en over derzelver prijs met de eigenaar geen overeenkomst is getroffen.
 
 ##### Artikel 1623
 
@@ -14576,7 +14633,7 @@ De aannemer is verantwoordelijk voor de daden van degenen, die hij in het werk s
 
 ##### Artikel 1626
 
-Metselaars, timmerlieden, smids en andere ambachtslieden, welke tot het zetten van een gebouw  of  het  maken  van  enig  ander  aangenomen  werk  gebezigd  zijn,  hebben  geen rechtsvordering tegen degene, te wiens behoeve de werken gemaakt zijn, dan ten beloop van hetgeen deze aan de aannemer schuldig is, op het ogenblik waarop zij hun rechtsvordering aanleggen.
+Metselaars, timmerlieden, smids en andere ambachtslieden, welke tot het zetten van een gebouw of het maken van enig ander aangenomen werk gebezigd zijn, hebben geen rechtsvordering tegen degene, te wiens behoeve de werken gemaakt zijn, dan ten beloop van hetgeen deze aan de aannemer schuldig is, op het ogenblik waarop zij hun rechtsvordering aanleggen.
 
 ##### Artikel 1627
 
@@ -14589,6 +14646,12 @@ Zij zijn aannemers in het vak, waarin zij werkzaam zijn.
 Arbeidslieden, die enig goed van een ander onder zich hebben, om daaraan enig werk te verrichten, zijn gerechtigd om dat goed onder zich te houden, tot de volle voldoening van de kosten en arbeidslonen daaraan besteed, tenzij de aanbesteder voor die kosten en arbeidslonen genoegzame zekerheid hebben gesteld.
 
 ##### Artikel 1629
+
+> 602 Gew. bij G.B. 1947 no. 140.
+
+> 603 Gew. bij G.B. 1947 no. 140.
+
+> 604 Gew. bij G.B. 1947 no. 140.
 
 320
 
@@ -14764,7 +14827,7 @@ De  vennoten  zijn  niet  ieder  voor  het  geheel  voor  de  schulden  van  de 
 
 ##### Artikel 1655
 
-De vennoten kunnen door de schuldeiser, met wie zij gehandeld hebben, aangesproken worden, ieder voor gelijke som en gelijk aandeel, al ware het dat het aandeel in de maatschap van de ene minder dan dat van de andere bedroeg, tenzij, bij het aangaan van de schuld, derzelver verplichting, om in evenredigheid van het aandeel in de maatschap van elk vennoot te dragen, uitdrukkelijk is bepaald.
+De vennoten kunnen door de schuldeiser, met wie zij gehandeld hebben, aangesproken worden, ieder voor gelijke som en gelijk aandeel, al ware het dat het aandeel in de maatschap van de ene minder dan dat van de andere bedroeg, tenzij, bij het aangaan van de schuld, derzelver verplichting, om in evenredigheid van het aandeel in de maatschap van elk vennoot te dragen,
 
 324
 
@@ -14772,11 +14835,27 @@ De vennoten kunnen door de schuldeiser, met wie zij gehandeld hebben, aangesprok
 
 [[START OF PAGE 325]]
 
+uitdrukkelijk is bepaald.
+
+##### Artikel 1656
+
+Het beding, dat een handeling voor rekening van de maatschap is aangegaan, verbindt slechts de vennoot, die deze aangegaan heeft, maar niet de overige, tenzij de laatstgenoemden hem daartoe volmacht hadden gegeven, of de zaak ten voordele van de maatschap gestrekt heeft.
+
+##### Artikel 1657
+
+Indien een der vennoten in naam van de maatschap een overeenkomst heeft aangegaan, kan de maatschap de uitvoering daarvan vorderen.
+
+#### VIERDE AFDELING
+
+#### VAN DE VERSCHILLENDE WIJZEN, WAAROP DE MAATSCHAP EINDIGT
+
+##### Artikel 1658
+
 Maatschap eindigt:
 
 - 1°. door verloop van de tijd, voor welke dezelve is aangegaan;
 
-- 2°.  door  de  vernietiging  van  de  zaak  of  de  volbrenging  van  de  handeling,  die  het onderwerp van de maatschap uitmaakt;
+- 2°. door de vernietiging van de zaak of de volbrenging van de handeling, die het onderwerp van de maatschap uitmaakt;
 
 - 3°. door de enkele wil van enige of van slechts een der vennoten;
 
@@ -14784,7 +14863,7 @@ Maatschap eindigt:
 
 ##### Artikel 1659
 
-De ontbinding van maatschappen, voor een bepaalde tijd aangegaan, kan door een der vennoten, vóór de afloop van die tijd, niet anders gevorderd worden dan om wettige redenen; zoals,  indien  een  ander  vennoot  niet  aan  zijn  verplichtingen  voldoet,  of  een  aanhoudende ongesteldheid hem onbekwaam maakt om de zaken van de maatschap waar te nemen, of andere soortgelijke gevallen, waarvan de wettigheid en het gewicht aan de beoordeling van de rechter worden overgelaten.
+De ontbinding van maatschappen, voor een bepaalde tijd aangegaan, kan door een der vennoten, vóór de afloop van die tijd, niet anders gevorderd worden dan om wettige redenen; zoals, indien een ander vennoot niet aan zijn verplichtingen voldoet, of een aanhoudende ongesteldheid hem onbekwaam maakt om de zaken van de maatschap waar te nemen, of andere soortgelijke gevallen, waarvan de wettigheid en het gewicht aan de beoordeling van de rechter worden overgelaten.
 
 ##### Artikel 1660
 
@@ -14801,20 +14880,6 @@ Maatschap kan slechts door de wil van enige of van slechts een der vennoten word
 De ontbinding geschiedt, in dat geval, door een opzegging aan al de overige vennoten gedaan, mits die opzegging te goeder trouw en niet ontijdig plaats heeft.
 
 ##### Artikel 1662
-
-##### Artikel 1656
-
-Het beding, dat een handeling voor rekening van de maatschap is aangegaan, verbindt slechts de vennoot, die deze aangegaan heeft, maar niet de overige, tenzij de laatstgenoemden hem daartoe volmacht hadden gegeven, of de zaak ten voordele van de maatschap gestrekt heeft.
-
-##### Artikel 1657
-
-Indien een der vennoten in naam van de maatschap een overeenkomst heeft aangegaan, kan de maatschap de uitvoering daarvan vorderen.
-
-#### VIERDE AFDELING
-
-#### VAN DE VERSCHILLENDE WIJZEN, WAAROP DE MAATSCHAP EINDIGT
-
-##### Artikel 1658
 
 325
 
@@ -14868,11 +14933,11 @@ Zolang deze openbaarmaking niet heeft plaats gehad, wordt de goedkeuring of nade
 
 [[START OF PAGE 327]]
 
-##### Artikel 1667a608
+##### Artikel 1667a 608
 
-- Ter verkrijging van de goedkeuring van de statuten of reglementen danwel van de wijziging van  de  statuten  of  reglementen,  dient  een  ontwerp  daarvan  aan  de  President  te  worden gezonden.
+- 1. Ter verkrijging van de goedkeuring van de statuten of reglementen danwel van de wijziging van de statuten of reglementen, dient een ontwerp daarvan aan de President te worden gezonden.
 
-- Aan het ontwerp, zoals bedoeld in lid 1 van dit artikel, dient gevoegd te worden een bewijs van storting in Staatskas van een bedrag van SRD. 150,- (eenhonderdevijftig Surinaamse dollar)  voor  administratiekosten,  voorzover  het  betreft  een  nieuw  op  te  richten  zedelijk lichaam en voor elke wijziging van de statuten of reglementen een bedrag van SRD.75,(vijfenzeventig Surinaamse dollar).
+- 2. Aan het ontwerp, zoals bedoeld in lid 1 van dit artikel, dient gevoegd te worden een bewijs van storting in Staatskas van een bedrag van SRD. 150,- (eenhonderdevijftig Surinaamse dollar) voor administratiekosten, voorzover het betreft een nieuw op te richten zedelijk lichaam en voor elke wijziging van de statuten of reglementen een bedrag van SRD.75,- (vijfenzeventig Surinaamse dollar).
 
 ##### Artikel 1668 609
 
@@ -14912,8 +14977,6 @@ Voor zoverre daaromtrent niet bij de statuten en de reglementen op een andere wi
 
 [[START OF PAGE 328]]
 
-> 610 Gew. bij G.B. 1935 no. 80.
-
 ##### Artikel 1674
 
 Indien bij de statuten en de reglementen geen bepalingen opzichtelijk het stemrecht zijn gemaakt, heeft ieder lid van een zedelijk lichaam gelijke recht zijn stem uit te brengen, en wordt het besluit bij meerderheid van stemmen opgemaakt.
@@ -14951,6 +15014,8 @@ Zij zijn ten opzichte van de oproeping der schuldeisers, het aanzuiveren van de 
 Bij gebreke van voldoening aan die verplichtingen, zijn zij persoonlijk, elk voor het geheel, aansprakelijk voor de schulden, en dragen zij de last daarvan op hun erfgenamen over.
 
 ##### Artikel 1681
+
+> 610 Gew. bij G.B. 1935 no. 80.
 
 328
 
@@ -15066,6 +15131,8 @@ Teneinde bekwaam te zijn om bij wege van schenking voordeel te genieten, moet de
 
 ##### Artikel 1699 611
 
+Vervallen.
+
 ##### Artikel 1700 612
 
 De bepalingen van het tweede en van het laatste lid van artikel 932, mitsgaders de artikelen 934, 935, 936 en 938, zijn op schenkingen toepasselijk.
@@ -15088,23 +15155,15 @@ Indien de aanneming niet bij de akte van schenking zelf gedaan is, zal zulks kun
 
 > 612 Gew. bij G.B. 1972 no. 62.
 
-Vervallen.
-
 331
 
 [[END OF PAGE 331]]
 
 [[START OF PAGE 332]]
 
-Vervallen.
-
-> 613 Vervallen bij S.B. 1981 no. 23.
-
-> 614 Gew. bij G.B. 1906 no. 50, G.B. 1945 no. 59.
-
-> 615 Gew. bij G.B. 1944 no. 76.
-
 ##### Artikel 1703 613
+
+Vervallen.
 
 ##### Artikel 1704 614
 
@@ -15112,7 +15171,7 @@ Schenking aan minderjarigen die onder ouderlijke macht staan, kan worden aangeno
 
 Schenking aan onder voogdij staande minderjarigen of onder curatele gestelde, gedaan, wordt door de voogd of de curator, daartoe door de kantonrechter gemachtigd, aangenomen.
 
-Indien de kantonrechter de machtiging verleent, blijft de schenking van kracht, al mocht de schenker vóór het verleenn der machtiging zijn overleden.
+Indien de kantonrechter de machtiging verleent, blijft de schenking van kracht, al mocht de schenker vóór het verleenen der machtiging zijn overleden.
 
 ##### Artikel 1705
 
@@ -15142,6 +15201,12 @@ In  het  eerste  geval  blijft  het  geschonkene  aan  de  schenker,  of  hij  k
 De schenker kan, in dat geval, tegen de derde houder van een geschonken onroerende zaak dezelfde rechten uitoefenen als tegen de begiftigde zelven.
 
 ##### Artikel 1709
+
+> 613 Vervallen bij S.B. 1981 no. 23.
+
+> 614 Gew. bij G.B. 1906 no. 50, G.B. 1945 no. 59.
+
+> 615 Gew. bij G.B. 1944 no. 76.
 
 332
 
@@ -15212,6 +15277,8 @@ Vrijwillige bewaargeving heeft plaats tengevolge van de wederkerige toestemming 
 
 ##### Artikel 1719 616
 
+Vervallen.
+
 ##### Artikel 1720
 
 Vrijwillige bewaargeving kan slechts plaats hebben tussen personen, die de bekwaamheid hebben om verbintenissen aan te gaan.
@@ -15226,17 +15293,15 @@ Indien  de  bewaargeving door  een  bevoegde  persoon  gedaan  is  aan  iemand, 
 
 Bewaargeving uit noodzaak is de zodanige, welke men door enig toeval gedwongen wordt te doen, zoals door brand, instorting van gebouwen, plundering, schipbreuk, overstroming, of andere onvoorziene toevallen.
 
-Vervallen.
-
 ##### Artikel 1723 617
+
+Vervallen.
 
 ##### Artikel 1724 618
 
 Bewaargeving uit noodzaak wordt geregeld overeenkomstig de bepalingen op vrijwillige bewaargeving toepasselijk.
 
 ##### Artikel 1725
-
-Vervallen.
 
 > 616 Vervallen bij G.B. 1924 no. 47.
 
@@ -15312,7 +15377,7 @@ De bewaarnemer, aan wie het goed door een overmacht ontnomen is, en die de waard
 
 ##### Artikel 1736
 
-De  erfgenamen  van  de  bewaarnemer,  die,  niet  wetende  dat  een  zaak  in  bewaring ontvangen was, deze te goeder trouw verkocht heeft, is alleen gehouden de door hem ontvangen koopprijs terug te geven, of, indien hij denzelven nog niet ontvangen heeft, zijn rechtsvordering tegen de koper af te staan.
+De erfgenaam van de bewaarnemer, die, niet wetende dat een zaak in bewaring ontvangen was, deze te goeder trouw verkocht heeft, is alleen gehouden de door hem ontvangen koopprijs terug te geven, of, indien hij denzelven nog niet ontvangen heeft, zijn rechtsvordering tegen de koper af te staan.
 
 ##### Artikel 1737
 
@@ -15343,8 +15408,6 @@ Indien de in bewaring gestelde zaak ondeelbaar is, moeten de erfgenamen zich ond
 [[END OF PAGE 336]]
 
 [[START OF PAGE 337]]
-
-> 619 Gew. bij S.B. 1981 no. 23.
 
 ##### Artikel 1741 619
 
@@ -15383,6 +15446,8 @@ De bewaargever is verplicht aan de bewaarnemer te vergoeden alle onkosten, welke
 De bewaarnemer is gerechtigd om het goed onder zich te houden tot de volle voldoening van hetgeen hem, terzake van de bewaring, verschuldigd is.
 
 #### DERDE AFDELING
+
+> 619 Gew. bij S.B. 1981 no. 23.
 
 337
 
@@ -15502,11 +15567,11 @@ Die iets ter leen ontvangt, is gehouden, als een goed huisvader, voor de bewarin
 
 Hij mag daarvan geen ander gebruik maken dan hetwelk de aard van de zaak medebrengt, of bij de overeenkomst bepaald is; alles op straffe van vergoeding van kosten, schade en interesten, indien daartoe gronden zijn.
 
-Indien hij het geleende goed gebruikt tot een ander einde, of gedurende eenn langere tijd, dan hij zulks behoorde te doen, is hij daarenboven aansprakelijk voor het verlies van dat goed, al had dit verlies ook door een bloot toeval plaats.
+Indien hij het geleende goed gebruikt tot een ander einde, of gedurende eenen langere tijd, dan hij zulks behoorde te doen, is hij daarenboven aansprakelijk voor het verlies van dat goed, al had dit verlies ook door een bloot toeval plaats.
 
 ##### Artikel 1764
 
-Indien de geleende zaak verloren gaat door een toeval, hetwelk degene, die deze ter leen ontvangen heeft, door zijn eigen zaak te gebruiken, had kunnen voorkomen, of indien hij, slechts een van beide kunnende behoude, aan de zijne een voorrang heeft gegeven, is hij voor het verlies van de andere zaak aansprakelijk.
+Indien de geleende zaak verloren gaat door een toeval, hetwelk degene, die deze ter leen ontvangen heeft, door zijn eigen zaak te gebruiken, had kunnen voorkomen, of indien hij, slechts een van beide kunnende behouden, aan de zijne een voorrang heeft gegeven, is hij voor het verlies van de andere zaak aansprakelijk.
 
 ##### Artikel 1765
 
@@ -15525,7 +15590,7 @@ Indien de gebruiker, om van de geleende zaak gebruik te kunnen maken, enige onko
 Indien verscheidene personen gezamenlijk dezelfde zaak ter leen hebben ontvangen, zijn zij, ieder voor het geheel, jegens de uitlener daarvoor aansprakelijk.
 
 #### DERDE AFDELING
-#### VAN DE VERPLICHTINGEN VAN DE UITLEENR
+#### VAN DE VERPLICHTINGEN VAN DE UITLEENER
 
 ##### Artikel 1769
 
@@ -15589,7 +15654,7 @@ Indien  staven  goud  of  zilver,  of  wel  andere  waren,  zijn  ter  leen  geg
 
 #### TWEEDE AFDELING
 
-#### VAN DE VERPLICHTINGEN VAN DE UITLENER
+#### VAN DE VERPLICHTINGEN VAN DE UITLEENER
 
 ##### Artikel 1778 622
 
@@ -15669,7 +15734,7 @@ Het  vestigen  van  een  altijddurende  rente  is  een  overeenkomst,  waarbij  
 
 Deze rente is uit haar aard aflosbaar.
 
-Partijen kunnen alleenlijk overeenkomen, dat de aflossing niet geschieden zal dan na verloop van eenn zekere tijd, welke niet langer dan voor tien jaren mag gesteld worden, of zonder dat zij de schuldeiser vooraf verwittigd hebben op een zekere door hen bevorens vastgestelde termijn, welke echter de tijd van een jaar niet zal mogen te boven gaan.
+Partijen kunnen alleenlijk overeenkomen, dat de aflossing niet geschieden zal dan na verloop van eenen zekere tijd, welke niet langer dan voor tien jaren mag gesteld worden, of zonder dat zij de schuldeiser vooraf verwittigd hebben op een zekere door hen bevorens vastgestelde termijn, welke echter de tijd van een jaar niet zal mogen te boven gaan.
 
 > 623 Gew. bij G.B. 1944 no. 77.
 
@@ -15730,8 +15795,6 @@ Lijfrente kan worden gevestigd, hetzij op het lijf van de geldschieter, of van h
 
 [[START OF PAGE 345]]
 
-Vervallen.
-
 ##### Artikel 1796
 
 Deze kan gevestigd worden op het lijf van een of meer personen.
@@ -15761,6 +15824,8 @@ Ingeval van vernietiging is de schuldenaar gehouden de achterstallige bedongen r
 Wanbetaling van de verschenen lijfrente geeft de renteheffer geen recht om aflossing van de hoofdsom, of teruggave van het door hem daarvoor afgestane goed, te vorderen; hij heeft alleen het recht om zijn schuldenaar voor de verschuldigde renten aan te spreken en uit te winnen, en om zekerheid te vragen voor de te vervallen renten.
 
 ##### Artikel 1802 626
+
+Vervallen.
 
 ##### Artikel 1803
 
@@ -15907,7 +15972,7 @@ In alle gevallen kan de lastgever de persoon, welke de lasthebber in zijn plaats
 
 ##### Artikel 1824
 
-Indien, bij dezelfde akte, verscheidene gevolmachtigde of zaakgelastigde zijn aangesteld, heeft te hunn aanzien geen hoofdelijke verbintenis plaats, dan voor zoverre zulks uitdrukkelijk bepaald is.
+Indien, bij dezelfde akte, verscheidene gevolmachtigden of zaakgelastigden zijn aangesteld, heeft te hunnen aanzien geen hoofdelijke verbintenis plaats, dan voor zoverre zulks uitdrukkelijk bepaald is.
 
 ##### Artikel 1825
 
@@ -15955,7 +16020,7 @@ Indien een lasthebber door verscheidene personen is aangesteld tot het waarnemen
 
 De lasthebber heeft het recht om hetgeen hij van de lastgever onder zich heeft zolang terug te houden, totdat hem alles betaald is, hetwelk hij ten gevolge van de lastgeving te vorderen heeft.
 
-Wanneer echter de last heeft bestaan in het beheer van een plantage of grond, is de lasthebber, op de eerste aanvraag van de eigenaar of diens gemachtigde, verplicht tot de overgave, al mocht hij ook bewaren ter zake van zijn gehouden beheer vorderingen ten laste van de eigenaar te hebben, mits door of van wege deze laatste ten behoeve van de voormalige lasthebber zekerheid gesteld worden, desnoods gerechtelijk goed te keuren, hetzij door middel van een borgtocht ten beloop van een som, mede desnoods door de rechter te bepalen, hetzij door het storten van gelijke som in de consignatiekas, hetzij eindelijk door middel van een hypothekaire inschrijving op het goed; alles onverminderd het recht van de eigenaar om de geldigheid of de hoegrootheid der vorderingen in rechte te betwisten.
+Wanneer echter de last heeft bestaan in het beheer van een plantage of grond, is de lasthebber, op de eerste aanvraag van de eigenaar of diens gemachtigde, verplicht tot de overgave, al mocht hij ook beweren ter zake van zijn gehouden beheer vorderingen ten laste van de eigenaar te hebben, mits door of van wege deze laatste ten behoeve van de voormalige lasthebber zekerheid gesteld worden, desnoods gerechtelijk goed te keuren, hetzij door middel van een borgtocht ten beloop van een som, mede desnoods door de rechter te bepalen, hetzij door het storten van gelijke som in de consignatiekas, hetzij eindelijk door middel van een hypothekaire inschrijving op het goed; alles onverminderd het recht van de eigenaar om de geldigheid of de hoegrootheid der vorderingen in rechte te betwisten.
 
 #### VIERDE AFDELING
 #### OVER DE VERSCHILLENDE WIJZEN,
@@ -16079,11 +16144,13 @@ Die uit Suriname afwezig of daarbuiten woonachtig zijn, maar voldaan hebben aan 
 
 ##### Artikel 1849 632
 
+Vervallen.
+
 ##### Artikel 1850
 
 Wanneer de borg, die door de schuldeiser vrijwillig,  of  op rechterlijke  uitspraak,  is aangenomen, naderhand onvermogend is geworden, moet er een nieuwe borg gesteld worden.
 
-Deze regel lijdt  alleenl  uitzondering,  ingeval  de  borg  gesteld  is  tengevolge  van  een overeenkomst, waarbij de schuldeiser een bepaalde persoon tot borg gevorderd heeft.
+Deze regel lijdt alleen uitzondering, ingeval de borg gesteld is tengevolge van een overeenkomst, waarbij de schuldeiser een bepaalde persoon tot borg gevorderd heeft.
 
 ##### Artikel 1851
 
@@ -16105,8 +16172,6 @@ De borg kan niet vorderen, dat van de schuldenaar goederen vooraf uitgewonnen wo
 > 632 Vervallen bij G.B. 1936 no. 115.
 
 > 633 Gew. bij G.B. 1935 no. 80.
-
-Vervallen.
 
 352
 
@@ -16150,17 +16215,13 @@ Indien, ten tijde dat een der borgen de schuldsplitsing heeft doen uitspreken, e
 
 ##### Artikel 1859
 
-Indien de schuldeiser zelf, en vrijwillig, zijn rechtsvordering verdeeld heeft, kan hij tegen die schuldsplitsing niet weder opkomen, al waren zelfs enige der borgen onvermogend, vòòr de tijd dat hij de schuld verdeeld heeft.
+Indien de schuldeiser zelf, en vrijwillig, zijn rechtsvordering verdeeld heeft, kan hij tegen die schuldsplitsing niet weder opkomen, al waren zelfs enige der borgen onvermogend, vóór de tijd dat hij de schuld verdeeld heeft.
 
 353
 
 [[END OF PAGE 353]]
 
 [[START OF PAGE 354]]
-
-> 634 Gew. bij G.B. 1914 no. 27.
-
-> 635 Gew. bij G.B. 1914 no. 27.
 
 #### DERDE AFDELING
 
@@ -16202,6 +16263,10 @@ De  borg  kan,  zelfs  voordat  hij  betaald  heeft,  de  schuldenaar  aanspreke
 
 ##### Artikel 1865 635
 
+> 634 Gew. bij G.B. 1914 no. 27.
+
+> 635 Gew. bij G.B. 1914 no. 27.
+
 354
 
 [[END OF PAGE 354]]
@@ -16235,7 +16300,7 @@ De borg is ontslagen, wanneer hij, door toedoen van de schuldeiser, niet meer tr
 
 ##### Artikel 1870
 
-De vrijwillige aanneming van enig onroerend of ander goed, door de schuldeiser in betaling  van  de  hoofdschuld  gedaan,  ontslaat  de  borg,  al  was  het  ook,  dat  hetzelve  goed naderhand van de schuldeiser wier uitgewonnen.
+De vrijwillige aanneming van enig onroerend of ander goed, door de schuldeiser in betaling van de hoofdschuld gedaan, ontslaat de borg, al was het ook, dat hetzelve goed naderhand van de schuldeiser wierd uitgewonnen.
 
 ##### Artikel 1871
 
@@ -16254,7 +16319,7 @@ Een  eenvoudig  uitstel  van  betaling,  door  de  schuldeiser  aan  de  hoofdsc
 
 [[START OF PAGE 356]]
 
-Dading is een overeenkomst, waarbij partijen, tegen overgave, belofte of terughouding eenr zaak, een aanhangig geding ten einde brengen, of een te voeren geding voorkomen.
+Dading is een overeenkomst, waarbij partijen, tegen overgave, belofte of terughouding eener zaak, een aanhangig geding ten einde brengen, of een te voeren geding voorkomen.
 
 Deze overeenkomst is slechts van waarde, indien zij schriftelijk is aangegaan.
 
@@ -16404,7 +16469,7 @@ Indien hetgeen daarbij als een bloot te kennen geven voorkomt, niet in een dadel
 
 ##### Artikel 1893 638
 
-Indien  een  authentieke  akte,  van  welke  aard  ook,  van  valsheid  beticht  wordt,  kan derzelver uitvoering worden geschorst, overeenkomstig de bepalingen van het Surinaams Wetboek van Burgelijke Rechtsvordering.
+Indien een authentieke akte, van welke aard ook, van valsheid beticht wordt, kan derzelver uitvoering worden geschorst, overeenkomstig de bepalingen van het Surinaams Wetboek van Burgerlijke Rechtsvordering.
 
 ##### Artikel 1894
 
@@ -16464,6 +16529,8 @@ In alle andere gevallen, zal de rechter daarop zodanig acht slaan als hij zal ve
 
 ##### Artikel 1903 640
 
+Vervallen.
+
 ##### Artikel 1904
 
 Aantekeningen, door een schuldeiser gesteld op een titel die altijd in deszelfs bezit is gebleven, verdienen geloof, alhoewel dezelve door hem noch ondertekend, noch gedagtekend zijn, wanneer het geschrevene strekt tot bevrijding van de schuldenaar.
@@ -16475,8 +16542,6 @@ Hetzelfde geldt omtrent aantekeningen welke de schuldeiser op het dubbel van een
 De eigenaar van een titel kan daarvan, te zijne kosten, de vernieuwing vorderen, indien het schrift wegens ouderdom of enige andere reden onleesbaar wordt.
 
 > 640 Vervallen bij G.B. 1926 no. 41.
-
-Vervallen.
 
 361
 
@@ -16597,6 +16662,8 @@ Men noemt begin van bewijs door geschrifte alle geschreven akten, welke voortgek
 
 ##### Artikel 1924 648
 
+Vervallen.
+
 ##### Artikel 1925 649
 
 Bij het bewijs door getuigen moeten de volgende bepalingen worden in acht genomen.
@@ -16626,8 +16693,6 @@ In de beoordeling van de waarde van de getuigenis moet de rechter bijzonder acht
 > 648 Vervallen bij G.B. 1936 no. 115.
 
 > 649 Gew. bij G.B. 1924 no.47.
-
-Vervallen.
 
 364
 
@@ -16689,6 +16754,8 @@ De  rechter  zal  alzo  geen  geloof  mogen  slaan  op  hetgeen  die  onbevoegde
 
 ##### Artikelen 1934 - 1935 652
 
+Vervallen.
+
 ### VIERDE TITEL
 
 ### VAN VERMOEDENS
@@ -16724,8 +16791,6 @@ Het gezag van een gerechtelijk gewijsde strekt zich niet verder uit dan tot het 
 Om dat gezag te kunnen inroepen, wordt vereist dat de zaak welke gevorderd wordt dezelfde zij; dat de eis op dezelfde oorzaak beruste, en door en tegen dezelfde partijen in dezelfde betrekking gedaan zij.
 
 > 652 Vervallen bij G.B. 1924 no. 47.
-
-Vervallen.
 
 366
 
@@ -16794,7 +16859,7 @@ Een mondelinge bekentenis, buiten rechte gedaan, kan niet worden ingeroepen, dan
 
 ##### Artikel 1949
 
-In het geval bij het slot van het vorige artikel voorzien, blijft het aan de rechters oordeel overgelaten welke kracht aan een mondelinge bekentenis, buiten rechte gedaan, moet worden toegekend.
+In het geval bij het slot van het vorige artikel voorzien, blijft het aan des rechters oordeel overgelaten welke kracht aan een mondelinge bekentenis, buiten rechte gedaan, moet worden toegekend.
 
 ### ZESDE TITEL
 
@@ -17182,11 +17247,27 @@ De  stuiting  van  de  verjaring  door  een  der  hoofdelijke  schuldeisers  gel
 
 [[START OF PAGE 376]]
 
+##### Artikel 2007
+
+De verjaring loopt tegen alle personen, behalve diegenen te wier behoeve de wet een uitzondering maakt.
+
+##### Artikel 2008
+
+Verjaring kan niet beginnen noch voortgaan tegen minderjarigen en tegen degenen die onder curatele gesteld zijn uitgezonderd in de gevallen bij de wet bepaald.
+
+##### Artikel 2009
+
+Verjaring heeft geen plaats tussen echtgenoten.
+
+##### Artikel 2010 663
+
 Vervallen.
+
+##### Artikel 2011
 
 Verjaring loopt niet:
 
-Met  betrekking  tot  een  inschuld  welke  van  een  voorwaarde  afhangt,  zo  lang  die voorwaarde niet vervuld is;
+Met betrekking tot een inschuld welke van een voorwaarde afhangt, zo lang die voorwaarde niet vervuld is;
 
 Met betrekking tot een rechtsgeding tot vrijwaring, zo lang de uitwinning geen plaats heeft gehad;
 
@@ -17212,22 +17293,6 @@ Niettemin zullen de verjaringen, welke op het voornoemde tijdstip begonnen waren
 
 > 663 Vervallen bij S.B. 1981 no. 23.
 
-##### Artikel 2007
-
-De verjaring loopt tegen alle personen, behalve diegenen te wier behoeve de wet een uitzondering maakt.
-
-##### Artikel 2008
-
-Verjaring kan niet beginnen noch voortgaan tegen minderjarigen en tegen degenen die onder curatele gesteld zijn uitgezonderd in de gevallen bij de wet bepaald.
-
-##### Artikel 2009
-
-Verjaring heeft geen plaats tussen echtgenoten.
-
-##### Artikel 2010 663
-
-##### Artikel 2011
-
 376
 
 [[END OF PAGE 376]]
@@ -17242,11 +17307,74 @@ Verjaring heeft geen plaats tussen echtgenoten.
 
 ## VAN PERSONEN
 
+Titel I | Van het genot en het verlies der burgerlijke rechten | Artt. 1-4
+--- | --- | ---
+Titel II | Van de akten van de burgerlijke stand
+1° Afdeling | Van de registers van de burgerlijke stand in het algemeen | Artt. 5-20
+2° Afdeling | Van de akten van geboorten | Artt. 21-30
+3° Afdeling | Van de huwelijksaangiften en afkondigingen en van de toestemmingen tot het huwelijk | Artt. 31-35
+4° Afdeling | Van de akten van huwelijk, van echtscheiding en van ontbinding van het huwelijk na de scheiding van tafel en bed | Artt. 36-41
+5° Afdeling | Van de akten van overlijden | Artt. 42-56
+6° Afdeling | Van namen en naams- en voornaamsveranderingen | Artt. 56a-63
+7° Afdeling | Van de verbetering der akten van de burgerlijke stand, en van derzelver aanvulling | Artt. 64-67
+Titel III | Van woonplaats of domicilie | Artt. 68-77
+Titel IV | Van het huwelijk | Artt. 78-79
+Algemene bepalingen
+1° Afdeling | Van de hoedanigheden en voorwaarden, die vereist worden om een huwelijk te kunnen aangaan | Artt. 80-102
+2° Afdeling | Van de formaliteiten, welke de voltrekking van het huwelijk moeten voorafgaan | Artt. 103-111
+3° Afdeling | Van het stuiten van het huwelijk | Artt. 112-123
+4° Afdeling | Van de voltrekking van het huwelijk | Artt. 124-135
+5° Afdeling | Van de huwelijken, welke buitenslands zijn voltrokken | Artt. 136-137
+6° Afdeling | Van de nietigheid van een huwelijk | Artt. 138-152a
+7° Afdeling | Van het bewijs van het bestaan van het huwelijk | Artt. 153-155
+Titel V | Rechten en verplichtingen van echtgenoten | Artt. 156-167
+Titel VI | De wettelijke gemeenschap van goederen
+1° Afdeling | Algemene bepalingen | Artt. 168-171
+2° Afdeling | Het bestuur van de gemeenschap | Artt. 172-174
+3° Afdeling | Ontbinding van de gemeenschap | Artt. 175-184
+4° Afdeling | Opheffing van de gemeenschap bij vonnis | Artt. 185-189
+Titel VII | Huwelijkse voorwaarden
+1° Afdeling | Huwelijkse voorwaarden in het algemeen | Artt. 190-200
+2° Afdeling | Giften bij huwelijkse voorwaarden | Artt. 201-232
+Titel VIII | Van gemeenschap of huwelijkse voorwaarden, bij tweede of verder huwelijk | Artt. 233-238
+
 377
 
 [[END OF PAGE 377]]
 
 [[START OF PAGE 378]]
+
+Titel IX | Van de scheiding van goederen | Artt. 239-251
+--- | --- | ---
+Titel X | Van de ontbinding van het huwelijk
+1° Afdeling | Van de ontbinding van het huwelijk in het algemeen | Art. 252
+2° Afdeling | Van de ontbinding van het huwelijk, na de scheiding van tafel en bed | Artt. 253-259b
+3° Afdeling | Van echtscheiding | Artt. 260-285
+Titel XI | Van de scheiding van tafel en bed | Artt. 286-302
+Titel XII | Van het vaderschap en de afstamming der kinderen
+1° Afdeling | Van wettige kinderen | Artt. 303-324a
+2° Afdeling | Van de wettiging van kinderen | Artt. 325-332a
+3° Afdeling | Van natuurlijke kinderen en hun erkenning | Artt. 333-340
+4° Afdeling | Van kinderen, tot wie de ouders niet in burgerlijke betrekkingen staan, en van derzelver onderhoud | Artt. 341-342j
+Titel XIIA | Van adoptie | Artt. 342k-342q
+Titel XIII | Van bloedverwantschap en zwagerschap | Artt. 343-350
+Titel XIV | Van de ouderlijke macht
+1° Afdeling | Van de gevolgen van de ouderlijke macht ten opzichte van de persoon van het kind | Artt. 351-358
+2° Afdeling | Van de gevolgen van de ouderlijke macht ten opzichte van de goederen van het kind | Artt. 359-371
+2° Afdeling A | Van de ontheffing en de ontzetting van de ouderlijke macht | Artt. 371a-371l
+2° Afdeling B | Van de ondertoezichtstelling van onder de ouderlijke macht staande kinderen | Artt. 372-372u
+3° Afdeling | Van de wederzijdse verplichtingen tussen de ouders of voorouders en de kinderen en verdere afkomelingen | Artt. 373-381
+Titel XIVA | Van de bepaling, wijziging en intrekking van uitkeringen tot onderhoud | Artt. 381a-381b
+Titel XV | Van minderjarigheid en voogdij
+1° Afdeling | Van de minderjarigheid | Artt. 382-382d
+2° Afdeling | Van de voogdij in het algemeen | Artt. 383-396
+3° Afdeling | Van de voogdij van de vader en de moeder | Artt. 397-405e
+4° Afdeling | Van de voogdij, door de vader of de moeder opgedragen | Artt. 406-409
+5° Afdeling | Van de voogdij door de rechter opgedragen | Artt. 410-417
+6° Afdeling | Van de voogdij van verenigingen, stichtingen of instellingen van weldadigheid | Artt. 418-418a
+7° Afdeling | Van de toeziende voogd | Artt. 419-429
+8° Afdeling | Van de redenen, die van de voogdij en de toeziende voogdij verschonen | Artt. 430-433
+9° Afdeling | Van de uitsluiting, de ontheffing en de ontzetting van de voogdij of toeziende voogdij en van de ondertoezichtstelling
 
 378
 
@@ -17254,11 +17382,78 @@ Verjaring heeft geen plaats tussen echtgenoten.
 
 [[START OF PAGE 379]]
 
+van onder voogdij staande minderjarigen | Artt. 434-438f
+--- | --- | ---
+10° Afdeling | Van het toezicht van de voogd over de persoon van de minderjarige | Artt. 439-440
+11° Afdeling | Van het bestuur van de voogd | Artt. 441-465
+12° Afdeling | Van de rekening en verantwoording van de voogdij | Artt. 466-471
+Titel XVI | Van handlichting | Artt. 472-485
+Titel XVII | Van curatele | Artt. 486-515
+Titel XVIII | Van afwezigheid
+1° Afdeling | Van voorlopige voorzieningen | Artt. 516-520
+2° Afdeling | Van de verklaring van vermoedelijk overlijden | Artt. 521-527
+3° Afdeling | Van de rechten en verplichtingen van vermoedelijke erfgenamen en andere belanghebbenden, na de verklaring van vermoedelijk overlijden | Artt. 528-544
+4° Afdeling | Van de rechten, opgekomen van een afwezige, wiens bestaan onzeker is | Artt. 545-548
+5° Afdeling | Van de gevolgen van de afwezigheid met betrekking tot het huwelijk | Artt. 549-554
+
+## TWEEDE BOEK
+
+## VAN ZAKEN
+
+Titel I | Van zaken en derzelver onderscheiding
+1° Afdeling | Van zaken in het algemeen | Artt. 555-558
+2° Afdeling | Van de onderscheiding der zaken | Artt. 559-561
+3° Afdeling | Van onroerende zaken | Artt. 562-564
+4° Afdeling | Van roerende zaken | Artt. 565-574
+5° Afdeling | Van zaken, met betrekking tot derzelver bezitters | Artt. 575-584
+Titel II | Van bezit en de rechten die daaruit voortvloeien
+1° Afdeling | Van de aard van het bezit, en de voorwerpen die daarvoor vatbaar zijn | Artt. 585-593
+2° Afdeling | Van de wijze waarop het bezit wordt verkregen, wordt behouden, en verloren gaat | Artt. 594-603
+3° Afdeling | Van de rechten die uit het bezit voortvloeien | Artt. 604-624
+Titel III | Van eigendom
+1° Afdeling | Algemene bepalingen | Artt. 625-638
+2° Afdeling | Van de wijze waarop eigendom verkregen wordt | Artt. 639-670
+Titel IV | Van de rechten en verplichtingen tussen eigenaars van naburige erven | Artt. 671-719
+Titel V | Van erfdienstbaarheden
+1° Afdeling | Van de aard en de onderscheidene soorten van erfdienstbaarheden | Artt. 720-740
+2° Afdeling | Op hoedanige wijze erfdienstbaarheden worden daargesteld | Artt. 741-748
+
 379
 
 [[END OF PAGE 379]]
 
 [[START OF PAGE 380]]
+
+3° Afdeling | Op hoedanige wijze erfdienstbaarheden te niet gaan | Artt. 749-756
+--- | --- | ---
+Titel VI | Van het recht van opstal | Artt. 757-765
+Titel VII | Van het recht van erfpachtsrecht | Artt. 766-781
+Titel VIII | Van grondrenten | Artt. 782-788
+Titel IX | Van het vruchtgebruik
+1° Afdeling | Van de aard van het vruchtgebruik en de wijze om hetzelve te verkrijgen | Artt. 789-793
+2° Afdeling | Van de rechten van de vruchtgebruiker | Artt. 794-808
+3° Afdeling | Van de verplichtingen van de vruchtgebruiker | Artt. 809-835
+4° Afdeling | Hoe het vruchtgebruik eindigt | Artt. 836-846
+Titel X | Van het gebruik en de bewoning | Artt. 847-858
+Titel XI | Van erfopvolging bij versterf
+1° Afdeling | Algemene bepalingen | Artt. 859-879
+2° Afdeling | Van de erfopvolging van wettige bloedverwanten en van de langstlevende echtgenoot | Artt. 880-889
+3° Afdeling | Van erfopvolging wanneer er natuurlijke kinderen aanwezig zijn | Artt. 890-901
+Titel XII | Van uiterste willen
+1° Afdeling | Algemene bepalingen | Artt. 902-922
+2° Afdeling | Van de bekwaamheid om bij uiterste wil te beschikken of daarvan voordeel te genieten | Artt. 923-939
+3° Afdeling | Van de legitieme portie of het wettelijk erfdeel, en van de inkorting der giften, welke die portie zouden verminderen | Artt. 940-956
+4° Afdeling | Van de vorm der uiterste willen | Artt. 957-980
+5° Afdeling | Van de erfstellingen | Artt. 981-983
+6° Afdeling | Van legaten | Artt. 984-999
+7° Afdeling | Van de geoorloofde erfstellingen over de hand, ten behoeve van kleinkinderen en afstammelingen van broeders en zusters | Artt. 1000-1015
+8° Afdeling | Van de erfstellingen over de hand in hetgeen de erfgenaam of legataris onvervreemd en onverteerd zal nalaten | Artt. 1016-1018
+9° Afdeling | Van het herroepen van uiterste wilsbeschikkingen en het vervallen van deze | Artt. 1019-1031
+Titel XIII | Van uitvoerders van uiterste wilsbeschikkingen en van de bewindvoerders | Artt. 1032-1050
+Titel XIV | Van het recht van beraad en het voorrecht van boedelbeschrijving | Artt. 1051-1070
+Titel XV | Van het aanvaarden en verwerpen van erfenissen
+1° Afdeling | Van het aanvaarden van erfenissen | Artt. 1071-1083
+2° Afdeling | Van het verwerpen van erfenissen | Artt. 1084-1092
 
 380
 
@@ -17266,17 +17461,132 @@ Verjaring heeft geen plaats tussen echtgenoten.
 
 [[START OF PAGE 381]]
 
+Titel XVI | Van boedelscheiding
+--- | --- | ---
+1° Afdeling | Van boedelscheiding en haar gevolgen | Artt. 1093-1112
+2° Afdeling | Van inbreng | Artt. 1113-1126
+3° Afdeling | Van de betaling der schulden | Artt. 1127-1138
+4° Afdeling | Van de vernietiging van aangegane boedelscheiding | Artt. 1139-1147
+5° Afdeling | Van boedelverdeling door bloedverwanten in de opgaande linie tussen hun afkomelingen onderling of tussen deze en hun langstlevende echtgenoot gemaakt | Artt. 1148-1152
+Titel XVII | Van onbeheerde nalatenschappen | Artt. 1153-1160
+Titel XVIII | Van bevoorrechte schulden
+1° Afdeling | Van bevoorrechte schulden in het algemeen | Artt. 1161-1168
+2° Afdeling | Van de voorrechten gevestigd op zekere bepaalde goederen | Artt. 1169-1178
+3° Afdeling | Van de voorrechten op al de roerende en onroerende goederen in het algemeen | Art. 1179
+Titel XIX | Van pand | Artt. 1180-1191
+Titel XX | Van onderzetting of hypotheek
+1° Afdeling | Algemene bepalingen | Artt. 1192-1207
+2° Afdeling | Van de inschrijving der hypotheken en van de vorm van de inschrijving | Artt. 1208-1222
+3° Afdeling | Van de doorhaling der inschrijvingen | Artt. 1223-1225
+4° Afdeling | Van de gevolgen der hypotheken tegen derde bezitters | Artt. 1226-1236
+5° Afdeling | Van het te niet gaan der hypotheken | Artt. 1237-1248
+6° Afdeling | Van de openbare bekendheid der registers, en van de verantwoordelijkheid van de bewaarders der hypotheken | Artt. 1249-1253
+
+## DERDE BOEK
+
+## VAN VERBINTENISSEN
+
+Titel I | Van verbintenissen in het algemeen
+1° Afdeling | Algemene bepalingen | Artt. 1254-1255
+2° Afdeling | Van verbintenissen om iets te geven | Artt. 1256-1259
+3° Afdeling | Van verbintenissen om iets te doen, of niet te doen | Artt. 1260-1263
+4° Afdeling | Van de vergoeding van kosten, schade en interesten, voortspruitende uit het niet nakomen van een verbintenis | Artt. 1264-1273
+5° Afdeling | Van voorwaardelijke verbintenissen | Artt. 1274-1288
+6° Afdeling | Van verbintenissen met tijdsbepaling | Artt. 1289-1292
+7° Afdeling | Van alternatieve verbintenissen of van verbintenissen die ter keuze van een der partijen staan | Artt. 1293-1298
+8° Afdeling | Van solidaire of hoofdelijke verbintenissen | Artt. 1299-1316
+9° Afdeling | Van deelbare en ondeelbare verbintenissen | Artt. 1317-1324
+10° Afdeling | Van verbintenissen onder beding van straf of poenaliteit | Artt. 1325-1333
+Titel II | Van verbintenissen, die uit contract of overeenkomst zijn geboren
+1° Afdeling | Algemene bepalingen | Artt. 1334-1340
+2° Afdeling | Van de voorwaarden, welke vereist worden tot de
+
 381
 
 [[END OF PAGE 381]]
 
 [[START OF PAGE 382]]
 
+bestaanbaarheid der overeenkomsten | Artt. 1341-1358
+--- | --- | ---
+3° Afdeling | Van het gevolg der overeenkomsten | Artt. 1359-1362
+4° Afdeling | Van de uitlegging der overeenkomsten | Artt. 1363-1372
+Titel III | Van verbintenissen, die uit kracht der wet geboren worden | Artt. 1373-1401d
+Titel IV | Van het te niet gaan der verbintenissen | Art. 1402
+1° Afdeling | Van betaling | Artt. 1403-1424
+2° Afdeling | Van aanbod van gerede betaling, gevolgd van consignatie of bewaargeving | Artt. 1425-1433
+3° Afdeling | Van schuldvernieuwing | Artt. 1434-1445
+4° Afdeling | Van compensatie of vergelijking van schuld | Artt. 1446-1456
+5° Afdeling | Van schuldvermenging | Artt. 1457-1458
+6° Afdeling | Van kwijtschelding van schuld | Artt. 1459-1464
+7° Afdeling | Van het vergaan van de verschuldigde zaak | Artt. 1465-1466
+8° Afdeling | Van de nietigheid en van de vernietiging der verbintenissen | Artt. 1467-1477
+Titel V | Van koop en verkoop
+1° Afdeling | Algemene bepalingen | Artt. 1478-1493
+2° Afdeling | Van de verplichtingen van de verkoper | Artt. 1494-1533
+3° Afdeling | Van de verplichtingen van de koper | Artt. 1534-1539
+4° Afdeling | Van het recht van wederinkoop | Artt. 1540-1553
+5° Afdeling | Bijzondere bepalingen betrekkelijk de koop en verkoop van inschulden, en andere onlichamelijke rechten | Artt. 1554-1560
+6° Afdeling | Van koop en verkoop op afbetaling
+§ 1 | Van koop en verkoop op afbetaling in het algemeen | Artt. 1561-1561g
+§ 2 | Van huurkoop | Artt. 1561h-1561x
+Titel VI | Van ruiling | Artt. 1562-1567
+Titel VII | Van huur en verhuur
+1° Afdeling | Algemene bepalingen | Artt. 1568-1570
+2° Afdeling | Van de regelen, welke gemeen zijn aan verhuringen van huizen en van landen | Artt. 1571-1601
+3° Afdeling | Van de regelen, welke bijzonder betrekkelijk zijn tot huur van huizen en huisraad | Artt. 1602-1606
+4° Afdeling | Van de regelen, welke bijzonder betrekkelijk zijn tot huur van landerijen | Artt. 1607-1612
+Titel VIIA | Van de overeenkomsten tot het verrichten van arbeid
+1° Afdeling | Algemene bepalingen | Artt. 1613-1613c
+2° Afdeling | Van de arbeidsovereenkomst in het algemeen | Artt. 1613d-1613z
+3° Afdeling | Van de verplichtingen van de werkgever | Artt. 1614-1614z
+4° Afdeling | Van de verplichtingen van de werknemer | Artt. 1615-1615d
+5° Afdeling | Van de verschillende wijzen waarop de dienstbetrekking door arbeidsovereenkomst ontstaan, eindigt | Artt. 1615e-1615ij
+6° Afdeling | Van aanneming van werk | Artt. 1616-1629
+Titel VIII | Van maatschap
+
 382
 
 [[END OF PAGE 382]]
 
 [[START OF PAGE 383]]
+
+1° Afdeling | Algemene bepalingen | Artt. 1630-1635
+--- | --- | ---
+2° Afdeling | Van de verbintenissen der vennoten onderling | Artt. 1636-1653
+3° Afdeling | Van de verbintenissen der vennoten ten aanzien van derden | Artt. 1654-1657
+4° Afdeling | Van de verschillende wijzen, waarop de maatschap eindigt | Artt. 1658-1664
+Titel IX | Van zedelijke lichamen | Artt. 1665-1684
+Titel X | Van schenkingen
+1° Afdeling | Algemene bepalingen | Artt. 1685-1694
+2° Afdeling | Van de bekwaamheid om bij wege van schenking te beschikken, en voordeel te genieten | Artt. 1695-1700
+3° Afdeling | Van de vorm der schenkingen | Artt. 1701-1706
+4° Afdeling | Van het herroepen en te niet doen van schenkingen | Artt. 1707-1712
+Titel XI | Van bewaargeving
+1° Afdeling | Van bewaargeving in het algemeen, en van derzelver verschillende soorten | Artt. 1713-1714
+2° Afdeling | Van eigenlijk gezegde bewaargeving | Artt. 1715-1748
+3° Afdeling | Van sequestratie en derzelver verschillende soorten | Artt. 1749-1758
+Titel XII | Van bruiklening
+1° Afdeling | Algemene bepalingen | Artt. 1759-1762
+2° Afdeling | Van de verplichtingen van degene, die iets ter bruiklening ontvangt | Artt. 1763-1768
+3° Afdeling | Van de verplichtingen van de uitlener | Artt. 1769-1772
+Titel XIII | Van verbruiklening
+1° Afdeling | Algemene bepalingen | Artt. 1773-1777
+2° Afdeling | Van de verplichtingen van de uitlener | Artt. 1778-1781
+3° Afdeling | Van de verplichtingen van de lener | Artt. 1782-1783
+4° Afdeling | Van het ter leen geven op interesten | Artt. 1784-1788
+Titel XIV | Van gevestigde of altijddurende renten | Artt. 1789-1792
+Titel XV | Van kansovereenkomsten
+1° Afdeling | Algemene bepaling | Art. 1793
+2° Afdeling | Van de overeenkomst van lijfrenten en derzelver gevolgen | Artt. 1794-1806
+3° Afdeling | Van spel en weddingschap | Artt. 1807-1810
+Titel XVI | Van lastgeving
+1° Afdeling | Van de aard van de lastgeving | Artt. 1811-1819
+2° Afdeling | Van de verplichtingen van de lasthebber | Artt. 1820-1826
+3° Afdeling | Van de verplichtingen van de lastgever | Artt. 1827-1832
+4° Afdeling | Over de verschillende wijzen, waarop de lastgeving eindigt | Artt. 1833-1840
+Titel XVII | Van borgtocht
+1° Afdeling | Van de aard van de borgtocht | Artt. 1841-1851
 
 383
 
@@ -17289,7 +17599,11 @@ Verjaring heeft geen plaats tussen echtgenoten.
 3° Afdeling | Van de gevolgen van borgtocht tussen de schuldenaar en de borg, en tussen de borgen onderling | Artt. 1860-1865
 4° Afdeling | Van het te niet gaan van borgtocht | Artt. 1866-1871
 Titel XVIII | Van dading | Artt. 1872-1885
-VIERDE BOEK VAN BEWIJS EN VERJARING
+
+## VIERDE BOEK
+
+## VAN BEWIJS EN VERJARING
+
 Titel I | Van bewijs in het algemeen | Artt. 1886-1887
 Titel II | Van schriftelijk bewijs | Artt. 1888-1915
 Titel III | Van bewijs door getuigen | Artt. 1916-1935
