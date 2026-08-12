@@ -28,7 +28,7 @@ This is a compilation of the Sex Discrimination Act 1984 as in force on 1 August
 
 This compilation was prepared on 9 September 2013.
 
-The notes at the end of this compilation (the endnotes ) include information about amending Acts and instruments and the amendment history of each amended provision.
+The notes at the end of this compilation (the endnotes) include information about amending Acts and instruments and the amendment history of each amended provision.
 
 ## Uncommenced amendments
 
@@ -52,9 +52,47 @@ ComLaw Authoritative Act C2013C00532
 
 [[START OF PAGE 3]]
 
+Sex Discrimination Act 1984       i
+
 # Contents
 
-Sex Discrimination Act 1984       i
+Part I—Preliminary 1
+1 Short title...........................................................................................1
+2 Commencement.................................................................................1
+3 Objects...............................................................................................1
+4 Interpretation .....................................................................................2
+4A Meaning of family responsibilities ....................................................9
+4B Meaning of potential pregnancy......................................................10
+5 Sex discrimination...........................................................................11
+5A Discrimination on the ground of sexual orientation.........................11
+5B Discrimination on the ground of gender identity.............................12
+5C Discrimination on the ground of intersex status ..............................12
+6 Discrimination on the ground of marital or relationship status........13
+7 Discrimination on the ground of pregnancy or potential
+pregnancy ........................................................................................14
+7AA Discrimination on the ground of breastfeeding................................14
+7A Discrimination on the ground of family responsibilities..................15
+7B Indirect discrimination: reasonableness test ....................................15
+7C Burden of proof ...............................................................................16
+7D Special measures intended to achieve equality ................................16
+8 Act done for 2 or more reasons........................................................17
+9 Application of Act ...........................................................................17
+10 Operation of State and Territory laws..............................................20
+11 Operation of State and Territory laws that further objects of
+relevant international instruments....................................................21
+12 Extent to which Act binds the Crown ..............................................23
+13 Extent to which Act applies to State instrumentalities.....................23
+13A Application of the Criminal Code ...................................................23
+Part II—Prohibition of discrimination 24
+Division 1—Discrimination in work 24
+14 Discrimination in employment or in superannuation.......................24
+15 Discrimination against commission agents......................................25
+16 Discrimination against contract workers .........................................25
+17 Partnerships.....................................................................................26
+18 Qualifying bodies............................................................................27
+19 Registered organisations under the Fair Work (Registered
+Organisations) Act 2009..................................................................27
+20 Employment agencies......................................................................28
 
 ComLaw Authoritative Act C2013C00532
 
@@ -64,6 +102,47 @@ ComLaw Authoritative Act C2013C00532
 
 ii       Sex Discrimination Act 1984
 
+Division 2—Discrimination in other areas 29
+21 Education.........................................................................................29
+22 Goods, services and facilities ..........................................................29
+23 Accommodation ..............................................................................30
+24 Land.................................................................................................31
+25 Clubs ...............................................................................................32
+26 Administration of Commonwealth laws and programs ...................33
+27 Requests for information .................................................................33
+Division 3—Sexual harassment 35
+28A Meaning of sexual harassment ........................................................35
+28B Employment, partnerships etc. ........................................................35
+28C Members of bodies with power to grant etc. occupational
+qualifications etc..............................................................................36
+28D Registered organisations..................................................................37
+28E Employment agencies......................................................................37
+28F Educational institutions...................................................................37
+28G Goods, services and facilities ..........................................................38
+28H Provision of accommodation ...........................................................38
+28J Land.................................................................................................38
+28K Clubs ...............................................................................................39
+28L Commonwealth laws and programs.................................................39
+Division 4—Exemptions 40
+30 Certain discrimination on ground of sex not unlawful.....................40
+31 Pregnancy, childbirth or breastfeeding ............................................41
+32 Services for members of one sex .....................................................41
+34 Accommodation provided for employees or students......................41
+35 Residential care of children .............................................................42
+36 Charities ..........................................................................................42
+37 Religious bodies..............................................................................43
+38 Educational institutions established for religious purposes .............43
+39 Voluntary bodies .............................................................................44
+40 Acts done under statutory authority.................................................44
+41 Insurance .........................................................................................46
+41A New superannuation fund conditions ..............................................47
+41B Existing superannuation fund conditions.........................................49
+42 Sport................................................................................................50
+43 Combat duties etc. ...........................................................................50
+43A Requests for information and keeping of records: not
+allowing for identifying as being neither male nor female ..............51
+44 Commission may grant exemptions.................................................51
+
 ComLaw Authoritative Act C2013C00532
 
 [[END OF PAGE 4]]
@@ -72,6 +151,43 @@ ComLaw Authoritative Act C2013C00532
 
 Sex Discrimination Act 1984       iii
 
+45 Review by Administrative Appeals Tribunal...................................52
+46 Notice of decisions to be published .................................................52
+47 Effect of exemptions........................................................................52
+Part III—Functions of the Australian Human Rights
+Commission 53
+Division 1—Preliminary 53
+48 Functions of the Commission ..........................................................53
+Part IV—Offences 55
+85 Unlawful act not offence unless expressly so provided ...................55
+86 Advertisements................................................................................55
+87 Failure to provide actuarial or statistical data ..................................55
+92 Particulars of complaints not to be communicated ..........................56
+94 Victimisation ...................................................................................58
+95 Obstruction etc. ...............................................................................59
+Part V—Sex Discrimination Commissioner 60
+96 Sex Discrimination Commissioner..................................................60
+97 Terms and conditions of appointment .............................................60
+98 Remuneration of Commissioner......................................................60
+99 Leave of absence .............................................................................60
+100 Outside employment........................................................................61
+101 Resignation......................................................................................61
+102 Termination of appointment ............................................................61
+103 Acting Commissioner......................................................................61
+Part VI—Miscellaneous 62
+104 Delegation .......................................................................................62
+105 Liability of persons involved in unlawful acts.................................62
+106 Vicarious liability etc. .....................................................................62
+107 Acts done on behalf of bodies .........................................................63
+108 Commonwealth deemed to be employer..........................................63
+110 Unlawful act not basis of civil action unless expressly so
+provided...........................................................................................63
+111 Protection from civil actions............................................................63
+112 Non-disclosure of private information.............................................64
+113 Information stored otherwise than in written form ..........................66
+114 Commissioner to furnish information..............................................66
+116 Regulations......................................................................................66
+
 ComLaw Authoritative Act C2013C00532
 
 [[END OF PAGE 5]]
@@ -79,6 +195,22 @@ ComLaw Authoritative Act C2013C00532
 [[START OF PAGE 6]]
 
 iv       Sex Discrimination Act 1984
+
+Schedule—Convention on the Elimination of all
+Forms of Discrimination Against Women 67
+Endnotes 83
+Endnote 1—About the endnotes 83
+Endnote 2—Abbreviation key 85
+Endnote 3—Legislation history 86
+Endnote 4—Amendment history 98
+Endnote 5—Uncommenced amendments 105
+Australian Charities and Not-for-profits Commission (Consequential
+and Transitional) Act 2012 (No. 169, 2012)..................................105
+Charities (Consequential Amendments and Transitional Provisions)
+Act 2013 (No. 96, 2013)................................................................105
+Endnote 6—Modifications [none] 106
+Endnote 7—Misdescribed amendments [none] 106
+Endnote 8—Miscellaneous [none] 106
 
 ComLaw Authoritative Act C2013C00532
 
@@ -96,11 +228,11 @@ Recognising the need to prohibit, so far as is possible, discrimination against 
 
 Affirming that every individual is equal before and under the law, and has the right to the equal protection and equal benefit of the law, without discrimination on the ground of sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
 
-# Part I-Preliminary
+# Part I—Preliminary
 
 ### 1  Short title
 
-This Act may be cited as the Sex Discrimination Act 1984 .
+This Act may be cited as the Sex Discrimination Act 1984.
 
 ### 2  Commencement
 
@@ -158,9 +290,7 @@ Part I Preliminary
 
 Section 4
 
-(e)  is employed under the Australian Security Intelligence Organisation Act 1979 , the Commonwealth Electoral Act 1918 or the Naval Defence Act 1910 ; or (f)  is a member of the Defence Force. Commonwealth-funded aged care means: (a)  aged care, within the meaning of the Aged Care Act 1997 : (i)  that is provided by an approved provider, within the meaning of that Act; and (ii)  in relation to which the approved provider has responsibilities under that Act; or (b)  care or services in relation to which a grant has been paid under Chapter 5 of the Aged Care Act 1997 ; or (c)  care or services of a class prescribed by the regulations for the purpose of this paragraph. Commonwealth law means: (a)  an Act, or a regulation, rule, by-law or determination made under or pursuant to an Act; (b)  an Ordinance of a Territory, or a regulation, rule, by-law or determination made under or pursuant to an Ordinance of a Territory; or (c)  an order or award made under or pursuant to a law referred to in paragraph (a) or (b). Commonwealth program means a program conducted by or on behalf of the Commonwealth government. contract worker means a person who does work for another person pursuant to a contract between the employer of the first-mentioned person and that other person. de facto partner has the meaning given by the Acts Interpretation Act 1901 . Department means an Agency within the meaning of the Public Service Act 1999 . disability has the same meaning as in the Disability Discrimination Act 1992 . means a body or person administering an
-
-educational authority educational institution.
+(e)  is employed under the Australian Security Intelligence Organisation Act 1979, the Commonwealth Electoral Act 1918 or the Naval Defence Act 1910; or (f)  is a member of the Defence Force. Commonwealth-funded aged care means: (a)  aged care, within the meaning of the Aged Care Act 1997: (i)  that is provided by an approved provider, within the meaning of that Act; and (ii)  in relation to which the approved provider has responsibilities under that Act; or (b)  care or services in relation to which a grant has been paid under Chapter 5 of the Aged Care Act 1997; or (c)  care or services of a class prescribed by the regulations for the purpose of this paragraph. Commonwealth law means: (a)  an Act, or a regulation, rule, by-law or determination made under or pursuant to an Act; (b)  an Ordinance of a Territory, or a regulation, rule, by-law or determination made under or pursuant to an Ordinance of a Territory; or (c)  an order or award made under or pursuant to a law referred to in paragraph (a) or (b). Commonwealth program means a program conducted by or on behalf of the Commonwealth government. contract worker means a person who does work for another person pursuant to a contract between the employer of the first-mentioned person and that other person. de facto partner has the meaning given by the Acts Interpretation Act 1901. Department means an Agency within the meaning of the Public Service Act 1999. disability has the same meaning as in the Disability Discrimination Act 1992. educational authority means a body or person administering an educational institution.
 
 > 4            Sex Discrimination Act 1984
 
@@ -210,9 +340,9 @@ President means President of the Commission.
 
 principal means:
 
-(a)  in relation to a commission agent-a person for whom the commission agent does work as a commission agent; and
+(a)  in relation to a commission agent—a person for whom the commission agent does work as a commission agent; and
 
-(b)  in relation to a contract worker-a person for whom the contract worker does work pursuant to a contract between the employer of the contract worker and the person.
+(b)  in relation to a contract worker—a person for whom the contract worker does work pursuant to a contract between the employer of the contract worker and the person.
 
 principal executive , in relation to a Commonwealth agency, has the same meaning as in Part V of the Privacy Act 1988 .
 
@@ -232,9 +362,7 @@ Preliminary Part I
 
 Section 4
 
-(a)  a body incorporated, whether before or after the commencement of this Act, for a public purpose by a law of the Commonwealth or a law of a Territory, being a body corporate employing staff on its own behalf; (b)  an authority or body, not being a body corporate, established, whether before or after the commencement of this Act, for a public purpose by, or in accordance with the provisions of, a law of the Commonwealth or a law of a Territory, being an authority or body employing staff on its own behalf; or (c)  an incorporated company over which the Commonwealth, or a body or authority referred to in paragraph (a) or (b), is in a position to exercise control. registered charity means an entity that is registered under the Australian Charities and Not-for-profits Commission Act 2012 as the type of entity mentioned in column 1 of item 1 of the table in subsection 25-5(5) of that Act. registered organisation means an organisation registered, or an association recognised, under the Fair Work (Registered Organisations) Act 2009 . relevant international instrument means: (b)  the International Covenant on Civil and Political Rights done (c)  the International Covenant on Economic, Social and Cultural Rights done at New York on 16 December 1966 ([1976] ATS for Men and Women Workers for Work of Equal Value done
-
-(a)  the Convention on the Elimination of All Forms of Discrimination Against Women done at New York on 18 December 1979 ([1983] ATS 9) (a copy of the English text of which is set out in the Schedule); or at New York on 16 December 1966 ([1980] ATS 23); or 5); or (d)  the Convention on the Rights of the Child done at New York on 20 November 1989 ([1991] ATS 4); or (e)  ILO Convention (No. 100) concerning Equal Remuneration at Geneva on 29 June 1951 ([1975] ATS 45); or (f)  ILO Convention (No. 111) concerning Discrimination in respect of Employment and Occupation done at Geneva on 25 June 1958 ([1974] ATS 12); or
+(a)  a body incorporated, whether before or after the commencement of this Act, for a public purpose by a law of the Commonwealth or a law of a Territory, being a body corporate employing staff on its own behalf; (b)  an authority or body, not being a body corporate, established, whether before or after the commencement of this Act, for a public purpose by, or in accordance with the provisions of, a law of the Commonwealth or a law of a Territory, being an authority or body employing staff on its own behalf; or (c)  an incorporated company over which the Commonwealth, or a body or authority referred to in paragraph (a) or (b), is in a position to exercise control. registered charity means an entity that is registered under the Australian Charities and Not-for-profits Commission Act 2012 as the type of entity mentioned in column 1 of item 1 of the table in subsection 25-5(5) of that Act. registered organisation means an organisation registered, or an association recognised, under the Fair Work (Registered Organisations) Act 2009. relevant international instrument means: (a)  the Convention on the Elimination of All Forms of Discrimination Against Women done at New York on 18 December 1979 ([1983] ATS 9) (a copy of the English text of which is set out in the Schedule); or (b)  the International Covenant on Civil and Political Rights done at New York on 16 December 1966 ([1980] ATS 23); or (c)  the International Covenant on Economic, Social and Cultural Rights done at New York on 16 December 1966 ([1976] ATS 5); or (d)  the Convention on the Rights of the Child done at New York on 20 November 1989 ([1991] ATS 4); or (e)  ILO Convention (No. 100) concerning Equal Remuneration for Men and Women Workers for Work of Equal Value done at Geneva on 29 June 1951 ([1975] ATS 45); or (f)  ILO Convention (No. 111) concerning Discrimination in respect of Employment and Occupation done at Geneva on 25 June 1958 ([1974] ATS 12); or
 
 Sex Discrimination Act 1984                    7
 
@@ -248,9 +376,7 @@ Part I Preliminary
 
 Section 4
 
-(g)  ILO Convention (No. 156) concerning Equal Opportunities and Equal Treatment for Men and Women Workers: Workers with Family Responsibilities done at Geneva on 23 June 1981 ([1991] ATS 7); or (h)  ILO Convention (No. 158) concerning Termination of Employment at the Initiative of the Employer done at Geneva on 22 June 1982 ([1994] ATS 4). Note: In 2010, the text of a Convention or Covenant in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au). services includes: (a)  services relating to banking, insurance and the provision of grants, loans, credit or finance; (b)  services relating to entertainment, recreation or refreshment; (c)  services relating to transport or travel; (d)  services of the kind provided by the members of any profession or trade; and (e)  services of the kind provided by a government, a government authority or a local government body. sexual orientation means a person's sexual orientation towards: (a)  persons of the same sex; or (b)  persons of a different sex; or (c)  persons of the same sex and persons of a different sex. State , except in subsections 9(15), (16), (17) and (18), includes the Australian Capital Territory and the Northern Territory. superannuation benefit , in relation to a member of a superannuation fund, means a benefit that is payable, under the terms and conditions relating to the fund: (a)  in the event of the member's death-to the estate of the deceased or to someone other than the deceased; or (b)  in the event of the member's physical or mental incapacityto the member or to someone other than the member. means a superannuation or provident fund or
-
-superannuation fund scheme.
+(g)  ILO Convention (No. 156) concerning Equal Opportunities and Equal Treatment for Men and Women Workers: Workers with Family Responsibilities done at Geneva on 23 June 1981 ([1991] ATS 7); or (h)  ILO Convention (No. 158) concerning Termination of Employment at the Initiative of the Employer done at Geneva on 22 June 1982 ([1994] ATS 4). Note: In 2010, the text of a Convention or Covenant in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au). services includes: (a)  services relating to banking, insurance and the provision of grants, loans, credit or finance; (b)  services relating to entertainment, recreation or refreshment; (c)  services relating to transport or travel; (d)  services of the kind provided by the members of any profession or trade; and (e)  services of the kind provided by a government, a government authority or a local government body. sexual orientation means a person's sexual orientation towards: (a)  persons of the same sex; or (b)  persons of a different sex; or (c)  persons of the same sex and persons of a different sex. State, except in subsections 9(15), (16), (17) and (18), includes the Australian Capital Territory and the Northern Territory. superannuation benefit, in relation to a member of a superannuation fund, means a benefit that is payable, under the terms and conditions relating to the fund: (a)  in the event of the member's death—to the estate of the deceased or to someone other than the deceased; or (b)  in the event of the member's physical or mental incapacity—to the member or to someone other than the member. superannuation fund means a superannuation or provident fund or scheme.
 
 > 8            Sex Discrimination Act 1984
 
@@ -278,11 +404,9 @@ ComLaw Authoritative Act C2013C00532
 
 [[START OF PAGE 16]]
 
+Part I Preliminary
+
 Section 4B
-
-Part I
-
-Preliminary
 
 (b)  someone who is a child of the person within the meaning of the Family Law Act 1975 . dependent child means a child who is wholly or substantially dependent on the person.
 
@@ -312,7 +436,7 @@ Section 5
 
 ### 5A  Discrimination on the ground of sexual orientation
 
-(1)  For the purposes of this Act, a person (the discriminator ) discriminates against another person (the aggrieved person ) on the ground of the aggrieved person's sexual orientation if, by reason of: (a)  the aggrieved person's sexual orientation; or (b)  a characteristic that appertains generally to persons who have the same sexual orientation as the aggrieved person; or (c)  a characteristic that is generally imputed to persons who have the same sexual orientation as the aggrieved person; the discriminator treats the aggrieved person less favourably than, in circumstances that are the same or are not materially different, the discriminator treats or would treat a person who has a different sexual orientation. (2)  For the purposes of this Act, a person (the discriminator ) discriminates against another person (the aggrieved person ) on the Part I
+(1)  For the purposes of this Act, a person (the discriminator) discriminates against another person (the aggrieved person) on the ground of the aggrieved person's sexual orientation if, by reason of: (a)  the aggrieved person's sexual orientation; or (b)  a characteristic that appertains generally to persons who have the same sexual orientation as the aggrieved person; or (c)  a characteristic that is generally imputed to persons who have the same sexual orientation as the aggrieved person; the discriminator treats the aggrieved person less favourably than, in circumstances that are the same or are not materially different, the discriminator treats or would treat a person who has a different sexual orientation. (2)  For the purposes of this Act, a person (the discriminator) discriminates against another person (the aggrieved person) on the
 
 Sex Discrimination Act 1984                    11
 
@@ -322,7 +446,7 @@ ComLaw Authoritative Act C2013C00532
 
 [[START OF PAGE 18]]
 
-Preliminary
+Part I Preliminary
 
 Section 5B
 
@@ -456,7 +580,7 @@ Part I Preliminary
 
 Section 9
 
-(a)  Commonwealth employees in connection with their employment as Commonwealth employees; and (b)  persons seeking to become Commonwealth employees. (6)  Sections 18 and 28C has effect in relation to discrimination by an authority or body in the exercise of a power under a Commonwealth law to confer, renew, extend, revoke or withdraw an authorization or qualification. (7)  The prescribed provisions of Part II have effect in relation to acts done, by or on behalf of: (a)  the Commonwealth or the Administration of a Territory; or (b)  a body or authority established for a public purpose by a law of the Commonwealth or a law of a Territory; in the exercise of a power conferred by a law of the Commonwealth or a law of a Territory. (8)  The prescribed provisions of Division 3 of Part II have effect in relation to acts done by a person exercising, by or on behalf of: (a)  the Commonwealth or the Administration of a Territory; or (b)  a body or authority established for a public purpose by a law of the Commonwealth or a law of a Territory; a power conferred by a law of the Commonwealth or a law of a Territory, being acts done by the person in connection with the exercise of that power. (9)  The prescribed provisions of Division 3 of Part II have effect in relation to acts done by or in relation to a person who is a Commonwealth employee in connection with the person's duties as a Commonwealth employee or done by or in relation to a person who is a member of the staff of an educational institution established by a law of the Commonwealth or a law of a Territory in connection with the person's duties as a member of the staff of such an educational institution. (10)  The prescribed provisions of Part II, and the prescribed provisions of Division 3 of Part II, have effect to the extent that the provisions give effect to a relevant international instrument. (11)  The prescribed provisions of Part II have effect in relation to discrimination by a foreign corporation, or a trading or financial corporation formed within the limits of the Commonwealth, or by or in relation to a person in the course of the person's duties or purported duties as an officer or employee of such a corporation. (12)  The prescribed provisions of Division 3 of Part II have effect in relation to acts done, by or in relation to a person who is an officer or employee of a foreign corporation, or of a trading or financial corporation formed within the limits of the Commonwealth, in connection with the person's duties as such an officer or employee. (13)  Without prejudice to the effect of subsection (11), the prescribed provisions of Part II have effect in relation to discrimination by a trading or financial corporation formed within the limits of the Commonwealth, or by or in relation to a person in the course of the person's duties or purported duties as an officer or employee of such a corporation, to the extent that the discrimination takes place in the course of the trading activities of the trading corporation or the financial activities of the financial corporation, as the case may be. (14)  Without prejudice to the effect of subsection (12), the prescribed provisions of Division 3 of Part II have effect in relation to acts done, by or in relation to a person who is an officer or employee of a trading or financial corporation formed within the limits of the Commonwealth, in connection with any of the person's duties as such an officer or employee that relate to the trading activities of the trading corporation or the financial activities of the financial corporation, as the case may be. (15)  The prescribed provisions of Part II have effect in relation to discrimination in the course of, or in relation to, the carrying on of the business of: (a)  banking, other than State banking not extending beyond the limits of the State concerned; or (b)  insurance, other than State insurance not extending beyond the limits of the State concerned. (16)  The prescribed provisions of Division 3 of Part II have effect in relation to acts done in the course of, or in relation to, the carrying on of the business of: (a)  banking, other than State banking not extending beyond the limits of the State concerned; or (b)  insurance, other than State insurance not extending beyond the limits of the State concerned.
+(a)  Commonwealth employees in connection with their employment as Commonwealth employees; and (b)  persons seeking to become Commonwealth employees. (6)  Sections 18 and 28C has effect in relation to discrimination by an authority or body in the exercise of a power under a Commonwealth law to confer, renew, extend, revoke or withdraw an authorization or qualification. (7)  The prescribed provisions of Part II have effect in relation to acts done, by or on behalf of: (a)  the Commonwealth or the Administration of a Territory; or (b)  a body or authority established for a public purpose by a law of the Commonwealth or a law of a Territory; in the exercise of a power conferred by a law of the Commonwealth or a law of a Territory. (8)  The prescribed provisions of Division 3 of Part II have effect in relation to acts done by a person exercising, by or on behalf of: (a)  the Commonwealth or the Administration of a Territory; or (b)  a body or authority established for a public purpose by a law of the Commonwealth or a law of a Territory; a power conferred by a law of the Commonwealth or a law of a Territory, being acts done by the person in connection with the exercise of that power. (9)  The prescribed provisions of Division 3 of Part II have effect in relation to acts done by or in relation to a person who is a Commonwealth employee in connection with the person's duties as a Commonwealth employee or done by or in relation to a person who is a member of the staff of an educational institution established by a law of the Commonwealth or a law of a Territory in connection with the person's duties as a member of the staff of such an educational institution. (10)  The prescribed provisions of Part II, and the prescribed provisions of Division 3 of Part II, have effect to the extent that the provisions give effect to a relevant international instrument. (11)  The prescribed provisions of Part II have effect in relation to discrimination by a foreign corporation, or a trading or financial corporation formed within the limits of the Commonwealth, or by
 
 > 18            Sex Discrimination Act 1984
 
@@ -469,6 +593,8 @@ ComLaw Authoritative Act C2013C00532
 Preliminary Part I
 
 Section 9
+
+or in relation to a person in the course of the person's duties or purported duties as an officer or employee of such a corporation. (12)  The prescribed provisions of Division 3 of Part II have effect in relation to acts done, by or in relation to a person who is an officer or employee of a foreign corporation, or of a trading or financial corporation formed within the limits of the Commonwealth, in connection with the person's duties as such an officer or employee. (13)  Without prejudice to the effect of subsection (11), the prescribed provisions of Part II have effect in relation to discrimination by a trading or financial corporation formed within the limits of the Commonwealth, or by or in relation to a person in the course of the person's duties or purported duties as an officer or employee of such a corporation, to the extent that the discrimination takes place in the course of the trading activities of the trading corporation or the financial activities of the financial corporation, as the case may be. (14)  Without prejudice to the effect of subsection (12), the prescribed provisions of Division 3 of Part II have effect in relation to acts done, by or in relation to a person who is an officer or employee of a trading or financial corporation formed within the limits of the Commonwealth, in connection with any of the person's duties as such an officer or employee that relate to the trading activities of the trading corporation or the financial activities of the financial corporation, as the case may be. (15)  The prescribed provisions of Part II have effect in relation to discrimination in the course of, or in relation to, the carrying on of the business of: (a)  banking, other than State banking not extending beyond the limits of the State concerned; or (b)  insurance, other than State insurance not extending beyond the limits of the State concerned. (16)  The prescribed provisions of Division 3 of Part II have effect in relation to acts done in the course of, or in relation to, the carrying on of the business of: (a)  banking, other than State banking not extending beyond the limits of the State concerned; or (b)  insurance, other than State insurance not extending beyond the limits of the State concerned.
 
 Sex Discrimination Act 1984                    19
 
@@ -506,7 +632,7 @@ discrimination on the ground of breastfeeding or discrimination on the ground of
 
 ### 11  Operation of State and Territory laws that further objects of relevant international instruments
 
-(1)  A reference in this section to this Act is a reference to this Act as it has effect by virtue of subsection 9(10). (2)  A reference in this section to a law of a State or Territory is a reference to a law of a State or Territory that deals with discrimination on the ground of sex, discrimination on the ground of sexual orientation, discrimination on the ground of gender Part I
+(1)  A reference in this section to this Act is a reference to this Act as it has effect by virtue of subsection 9(10). (2)  A reference in this section to a law of a State or Territory is a reference to a law of a State or Territory that deals with discrimination on the ground of sex, discrimination on the ground of sexual orientation, discrimination on the ground of gender
 
 Sex Discrimination Act 1984                    21
 
@@ -516,7 +642,7 @@ ComLaw Authoritative Act C2013C00532
 
 [[START OF PAGE 28]]
 
-Preliminary
+Part I Preliminary
 
 Section 11
 
@@ -560,17 +686,15 @@ ComLaw Authoritative Act C2013C00532
 
 [[START OF PAGE 30]]
 
+Part II Prohibition of discrimination
+
 Division 1 Discrimination in work
-
-Part II
-
-Prohibition of discrimination
 
 Section 14
 
-# Part II-Prohibition of discrimination
+# Part II—Prohibition of discrimination
 
-## Division 1-Discrimination in work
+## Division 1—Discrimination in work
 
 ### 14  Discrimination in employment or in superannuation
 
@@ -640,7 +764,7 @@ It is unlawful for an authority or body that is empowered to confer, renew, exte
 
 ### 19 Registered organisations under the Fair Work (Registered Organisations) Act 2009
 
-(1)  It is unlawful for a registered organisation, the committee of management of a registered organisation or a member of the committee of management of a registered organisation to discriminate against a person, on the ground of the person's sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities: (a)  by refusing or failing to accept the person's application for membership; or (b)  in the terms or conditions on which the organisation is prepared to admit the person to membership. (2)  It is unlawful for a registered organisation, the committee of management of a registered organisation or a member of the committee of management of a registered organisation to discriminate against a person who is a member of the registered organisation, on the ground of the member's sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities: (a)  by denying the member access, or limiting the member's access, to any benefit provided by the organisation; (b)  by depriving the member of membership or varying the terms of membership; or (c)  by subjecting the member to any other detriment.
+(1)  It is unlawful for a registered organisation, the committee of management of a registered organisation or a member of the committee of management of a registered organisation to discriminate against a person, on the ground of the person's sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities: (a)  by refusing or failing to accept the person's application for membership; or (b)  in the terms or conditions on which the organisation is prepared to admit the person to membership. (2)  It is unlawful for a registered organisation, the committee of management of a registered organisation or a member of the
 
 Sex Discrimination Act 1984                    27
 
@@ -653,6 +777,8 @@ ComLaw Authoritative Act C2013C00532
 Part II Prohibition of discrimination Division 1 Discrimination in work
 
 Section 20
+
+committee of management of a registered organisation to discriminate against a person who is a member of the registered organisation, on the ground of the member's sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities: (a)  by denying the member access, or limiting the member's access, to any benefit provided by the organisation; (b)  by depriving the member of membership or varying the terms of membership; or (c)  by subjecting the member to any other detriment.
 
 ### 20  Employment agencies
 
@@ -672,15 +798,15 @@ Discrimination in other areas Division 2
 
 Section 21
 
-## Division 2-Discrimination in other areas
+## Division 2—Discrimination in other areas
 
 ### 21  Education
 
-(1)  It is unlawful for an educational authority to discriminate against a person on the ground of the person's sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, or breastfeeding: (a)  by refusing or failing to accept the person's application for admission as a student; or (b)  in the terms or conditions on which it is prepared to admit the person as a student. (2)  It is unlawful for an educational authority to discriminate against a student on the ground of the student's sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, or breastfeeding: (a)  by denying the student access, or limiting the student's access, to any benefit provided by the educational authority; (b)  by expelling the student; or (c)  by subjecting the student to any other detriment. (3)  Nothing in this section applies to or in respect of a refusal or failure to accept a person's application for admission as a student at an educational institution where: (a)  the educational institution is conducted solely for students of a different sex from the sex of the applicant; or (b)  except in the case of an institution of tertiary educationeducation or training at the level at which the applicant is seeking education or training is provided by the educational institution only or mainly for students of a different sex from the sex of the applicant. (4)  This section binds the Crown in right of a State.
+(1)  It is unlawful for an educational authority to discriminate against a person on the ground of the person's sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, or breastfeeding: (a)  by refusing or failing to accept the person's application for admission as a student; or (b)  in the terms or conditions on which it is prepared to admit the person as a student. (2)  It is unlawful for an educational authority to discriminate against a student on the ground of the student's sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, or breastfeeding: (a)  by denying the student access, or limiting the student's access, to any benefit provided by the educational authority; (b)  by expelling the student; or (c)  by subjecting the student to any other detriment. (3)  Nothing in this section applies to or in respect of a refusal or failure to accept a person's application for admission as a student at an educational institution where: (a)  the educational institution is conducted solely for students of a different sex from the sex of the applicant; or (b)  except in the case of an institution of tertiary education—education or training at the level at which the applicant is seeking education or training is provided by the educational institution only or mainly for students of a different sex from the sex of the applicant. (4)  This section binds the Crown in right of a State.
 
 ### 22  Goods, services and facilities
 
-(1)  It is unlawful for a person who, whether for payment or not, provides goods or services, or makes facilities available, to discriminate against another person on the ground of the other person's sex, sexual orientation, gender identity, intersex status, Part II
+(1)  It is unlawful for a person who, whether for payment or not, provides goods or services, or makes facilities available, to discriminate against another person on the ground of the other person's sex, sexual orientation, gender identity, intersex status,
 
 Sex Discrimination Act 1984                    29
 
@@ -690,7 +816,7 @@ ComLaw Authoritative Act C2013C00532
 
 [[START OF PAGE 36]]
 
-Prohibition of discrimination
+Part II Prohibition of discrimination
 
 Division 2
 
@@ -798,7 +924,7 @@ Sexual harassment Division 3
 
 Section 28A
 
-## Division 3-Sexual harassment
+## Division 3—Sexual harassment
 
 ### 28A  Meaning of sexual harassment
 
@@ -856,7 +982,7 @@ It is unlawful for: (a)  a person who operates an employment agency; or (b)  a m
 
 ### 28F  Educational institutions
 
-(1)  It is unlawful for a member of the staff of an educational institution to sexually harass: (a)  a person who is a student at the institution; or (b)  a person who is seeking to become a student at the institution. (2)  It is unlawful for a person who is an adult student at an educational institution to sexually harass: (a)  a person who is a student at the institution; or (b)  a member of the staff of the institution. (2A)  It is unlawful for a person (the first person ) who is a member of the staff of an educational institution (the first educational institution ) to sexually harass a person who is a student at another educational institution if the sexual harassment occurs in connection with the first person being a member of staff of the first educational institution. (2B)  It is unlawful for a person (the first person ) who is an adult student at an educational institution (the first educational institution ) to sexually harass: (a)  a person who is a student at another educational institution; or (b)  a member of the staff of another educational institution; if the sexual harassment occurs in connection with the first person being a student at the first educational institution. (3)  In this section:
+(1)  It is unlawful for a member of the staff of an educational institution to sexually harass: (a)  a person who is a student at the institution; or (b)  a person who is seeking to become a student at the institution. (2)  It is unlawful for a person who is an adult student at an educational institution to sexually harass: (a)  a person who is a student at the institution; or (b)  a member of the staff of the institution. (2A)  It is unlawful for a person (the first person) who is a member of the staff of an educational institution (the first educational
 
 Sex Discrimination Act 1984                    37
 
@@ -871,6 +997,8 @@ Part II Prohibition of discrimination
 Division 3 Sexual harassment
 
 Section 28G
+
+institution) to sexually harass a person who is a student at another educational institution if the sexual harassment occurs in connection with the first person being a member of staff of the first educational institution. (2B)  It is unlawful for a person (the first person) who is an adult student at an educational institution (the first educational institution) to sexually harass: (a)  a person who is a student at another educational institution; or (b)  a member of the staff of another educational institution; if the sexual harassment occurs in connection with the first person being a student at the first educational institution. (3)  In this section:
 
 adult student means a student who has attained the age of 16 years.
 
@@ -898,17 +1026,17 @@ Prohibition of discrimination Part II Sexual harassment Division 3
 
 Section 28K
 
+(a)  disposing of, or offering to dispose of, an estate or interest in land to the other person; or
+
+(b)  acquiring, or offering to acquire, an estate or interest in land from the other person.
+
 ### 28K  Clubs
 
 It is unlawful for a member of the committee of management of a club to sexually harass a member of the club or a person seeking to become a member of the club.
 
 ### 28L  Commonwealth laws and programs
 
-- It is unlawful for a person: (a)  in the course of performing any function, or exercising any power, under a Commonwealth law or for the purposes of a Commonwealth program; or (b)  in the course of carrying out any other responsibility for the administration of a Commonwealth law or the conduct of a Commonwealth program; to sexually harass another person.
-
-(a)  disposing of, or offering to dispose of, an estate or interest in land to the other person; or
-
-(b)  acquiring, or offering to acquire, an estate or interest in land from the other person.
+It is unlawful for a person: (a)  in the course of performing any function, or exercising any power, under a Commonwealth law or for the purposes of a Commonwealth program; or (b)  in the course of carrying out any other responsibility for the administration of a Commonwealth law or the conduct of a Commonwealth program; to sexually harass another person.
 
 Sex Discrimination Act 1984                    39
 
@@ -924,7 +1052,7 @@ Division 4 Exemptions
 
 Section 30
 
-## Division 4-Exemptions
+## Division 4—Exemptions
 
 ### 30  Certain discrimination on ground of sex not unlawful
 
@@ -956,7 +1084,7 @@ Nothing in Division 1 or 2 applies to or in relation to the provision of service
 
 ### 34  Accommodation provided for employees or students
 
-(1)  Nothing in Division 1 or 2 renders it unlawful for an employer who provides accommodation to employees of the employer to provide accommodation of different standards to different employees where: (a)  the standard of the accommodation provided to each employee is determined having regard to the number of persons in the household of the employee; and (b)  it is not reasonable to expect the employer to provide accommodation of the same standard for all employees. (2)  Nothing in Division 1 or 2 applies to or in relation to the provision of accommodation, where the accommodation is provided solely Part II
+(1)  Nothing in Division 1 or 2 renders it unlawful for an employer who provides accommodation to employees of the employer to provide accommodation of different standards to different employees where: (a)  the standard of the accommodation provided to each employee is determined having regard to the number of persons in the household of the employee; and (b)  it is not reasonable to expect the employer to provide accommodation of the same standard for all employees. (2)  Nothing in Division 1 or 2 applies to or in relation to the provision of accommodation, where the accommodation is provided solely
 
 Sex Discrimination Act 1984                    41
 
@@ -966,9 +1094,9 @@ ComLaw Authoritative Act C2013C00532
 
 [[START OF PAGE 48]]
 
-Division 4 Exemptions
+Part II Prohibition of discrimination
 
-Prohibition of discrimination
+Division 4 Exemptions
 
 Section 35
 
@@ -1064,7 +1192,7 @@ Section 41
 
 ### 41  Insurance
 
-(1)  Nothing in Division 1 or 2 makes discrimination by one person (in this subsection called the insurer ) against another person (in this subsection called the client ) unlawful if: (a)  the discrimination is on the ground of the client's sex; and (b)  the discrimination is in the terms on which an insurance policy is offered to, or may be obtained by, the client; and (c)  the discrimination is based on actuarial or statistical data from a source on which it is reasonable for the insurer to rely; and (d)  the discrimination is reasonable having regard to the data; and (e)  if the client gives the insurer a written request for access to the data-either: (i)  the insurer gives the client a document containing the data; or
+(1)  Nothing in Division 1 or 2 makes discrimination by one person (in this subsection called the insurer) against another person (in this subsection called the client) unlawful if: (a)  the discrimination is on the ground of the client's sex; and (b)  the discrimination is in the terms on which an insurance policy is offered to, or may be obtained by, the client; and (c)  the discrimination is based on actuarial or statistical data from a source on which it is reasonable for the insurer to rely; and (d)  the discrimination is reasonable having regard to the data; and (e)  if the client gives the insurer a written request for access to the data—either: (i)  the insurer gives the client a document containing the data; or
 
 46            Sex Discrimination Act 1984
 
@@ -1080,11 +1208,11 @@ Exemptions Division 4
 
 Section 41A
 
-(ii)  the insurer: (A)  makes a document containing the data available for inspection by the client at such time or times, and at such place or places, as are reasonable; and (B)  if the client inspects the document-allows the client to make a copy of, or take extracts from, the document. (1A)  Paragraph (1)(e) does not apply if the Commission has, under section 44, granted an exemption from the operation of that paragraph. (2)  In this section: insurance policy includes an annuity, a life assurance policy, an accident insurance policy and an illness insurance policy.
+(ii)  the insurer: (A)  makes a document containing the data available for inspection by the client at such time or times, and at such place or places, as are reasonable; and (B)  if the client inspects the document—allows the client to make a copy of, or take extracts from, the document. (1A)  Paragraph (1)(e) does not apply if the Commission has, under section 44, granted an exemption from the operation of that paragraph. (2)  In this section: insurance policy includes an annuity, a life assurance policy, an accident insurance policy and an illness insurance policy.
 
 ### 41A  New superannuation fund conditions
 
-(1)  Nothing in Division 1 or 2 makes discrimination in relation to a superannuation fund by one person (in this subsection called the discriminator ) against another person (in this subsection called the aggrieved person ) unlawful if: (a)  the discrimination is on the ground of the aggrieved person's sex, marital or relationship status or family responsibilities; and (b)  the discrimination arises only because of one or more of the following: (i)  the superannuation fund conditions include a provision that: (A)  is based on actuarial or statistical data from a source on which it is reasonable for the discriminator to rely; and (B)  is reasonable having regard to those data and any other relevant factors; (ii)  in the case of a member who has no spouse or de facto partner or has no child-the superannuation fund conditions: (A)  do not provide for superannuation benefits in the event of the member's death; or
+(1)  Nothing in Division 1 or 2 makes discrimination in relation to a superannuation fund by one person (in this subsection called the discriminator) against another person (in this subsection called the aggrieved person) unlawful if: (a)  the discrimination is on the ground of the aggrieved person's sex, marital or relationship status or family responsibilities; and (b)  the discrimination arises only because of one or more of the following: (i)  the superannuation fund conditions include a provision that: (A)  is based on actuarial or statistical data from a source on which it is reasonable for the discriminator to rely; and (B)  is reasonable having regard to those data and any other relevant factors; (ii)  in the case of a member who has no spouse or de facto partner or has no child—the superannuation fund conditions: (A)  do not provide for superannuation benefits in the event of the member's death; or
 
 Sex Discrimination Act 1984                    47
 
@@ -1120,7 +1248,7 @@ Section 41B
 
 ### 41B  Existing superannuation fund conditions
 
-(1)  This section applies to a person (in this section called the member ) if: (a)  the person was a member of a superannuation fund immediately before the commencement of this section; and (b)  unless the Commission has, under section 44, granted an exemption from the operation of this paragraph-before the commencement of this section, the person: (i)  had been given an option to obtain non-discriminatory benefits; and (ii)  had not exercised the option in accordance with subsection (5). (2)  This section applies to a person (in this section also called the member ) if: (a)  at any time before the commencement of this section, the person became a member of a superannuation fund; and (b)  at a later time before that commencement, the person ceased to be a member of the fund. (3)  Nothing in Division 1 or 2 makes discrimination against the member unlawful if the discrimination: (a)  is on the ground of the member's sex, marital or relationship status or family responsibilities; and (b)  is in the superannuation fund conditions. (4)  Nothing in Division 1 or 2 makes discrimination against a person unlawful if: (a)  the person derives, or would, apart from the discrimination, derive, benefits because the member is or was a member of the superannuation fund; and (b)  the discrimination: (i)  is on the ground of the sex, marital or relationship status or family responsibilities of the member or the person; and
+(1)  This section applies to a person (in this section called the member) if: (a)  the person was a member of a superannuation fund immediately before the commencement of this section; and (b)  unless the Commission has, under section 44, granted an exemption from the operation of this paragraph—before the commencement of this section, the person: (i)  had been given an option to obtain non-discriminatory benefits; and (ii)  had not exercised the option in accordance with subsection (5). (2)  This section applies to a person (in this section also called the member) if: (a)  at any time before the commencement of this section, the person became a member of a superannuation fund; and (b)  at a later time before that commencement, the person ceased to be a member of the fund. (3)  Nothing in Division 1 or 2 makes discrimination against the member unlawful if the discrimination: (a)  is on the ground of the member's sex, marital or relationship status or family responsibilities; and (b)  is in the superannuation fund conditions. (4)  Nothing in Division 1 or 2 makes discrimination against a person unlawful if: (a)  the person derives, or would, apart from the discrimination, derive, benefits because the member is or was a member of the superannuation fund; and (b)  the discrimination: (i)  is on the ground of the sex, marital or relationship status or family responsibilities of the member or the person; and
 
 Sex Discrimination Act 1984                    49
 
@@ -1216,13 +1344,13 @@ Preliminary Division 1
 
 Section 48
 
-# Part III-Functions of the Australian Human Rights Commission
+# Part III—Functions of the Australian Human Rights Commission
 
-## Division 1-Preliminary
+## Division 1—Preliminary
 
 ### 48  Functions of the Commission
 
-(1)  The following functions are hereby conferred on the Commission: (c)  to exercise the powers conferred on it by section 44; (d)  to promote an understanding and acceptance of, and compliance with, this Act; (e)  to undertake research and educational programs, and other programs, on behalf of the Commonwealth for the purpose of promoting the objects of this Act; (f)  to examine enactments, and (when requested to do so by the Minister) proposed enactments, for the purpose of ascertaining whether the enactments or proposed enactments are, or would be, inconsistent with or contrary to the objects of this Act, and to report to the Minister the results of any such examination; (g)  on its own initiative or when requested by the Minister, to report to the Minister as to the laws that should be made by the Parliament, or action that should be taken by the Commonwealth, on matters relating to discrimination on the ground of sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities or to discrimination involving sexual harassment; (ga)  to prepare, and to publish in such manner as the Commission considers appropriate, guidelines for the avoidance of discrimination on the ground of sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities and discrimination involving sexual harassment; (gb)  where the Commission considers it appropriate to do so, with the leave of the court hearing the proceedings and subject to any conditions imposed by the court, to intervene in proceedings that involve issues of discrimination on the ground of sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities or discrimination involving sexual harassment; (h)  to do anything incidental or conducive to the performance of any of the preceding functions. Note: For the provisions about inquiries into complaints of discrimination and conciliation of those complaints: see Part IIB of the Australian Human Rights Commission Act 1986 . (2)  The Commission shall not regard an enactment or proposed enactment as being inconsistent with or contrary to the objects of this Act for the purposes of paragraph (1)(f) by reason of a provision of the enactment or proposed enactment that is included for the purpose referred to in subsection 7D(1).
+(1)  The following functions are hereby conferred on the Commission: (c)  to exercise the powers conferred on it by section 44; (d)  to promote an understanding and acceptance of, and compliance with, this Act; (e)  to undertake research and educational programs, and other programs, on behalf of the Commonwealth for the purpose of promoting the objects of this Act; (f)  to examine enactments, and (when requested to do so by the Minister) proposed enactments, for the purpose of ascertaining whether the enactments or proposed enactments are, or would be, inconsistent with or contrary to the objects of this Act, and to report to the Minister the results of any such examination; (g)  on its own initiative or when requested by the Minister, to report to the Minister as to the laws that should be made by the Parliament, or action that should be taken by the Commonwealth, on matters relating to discrimination on the ground of sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities or to discrimination involving sexual harassment; (ga)  to prepare, and to publish in such manner as the Commission considers appropriate, guidelines for the avoidance of discrimination on the ground of sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities and discrimination involving sexual harassment; (gb)  where the Commission considers it appropriate to do so, with the leave of the court hearing the proceedings and subject to any conditions imposed by the court, to intervene in proceedings that involve issues of discrimination on the
 
 Sex Discrimination Act 1984                    53
 
@@ -1236,6 +1364,8 @@ Part III Functions of the Australian Human Rights Commission Division 1 Prelimin
 
 Section 48
 
+ground of sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities or discrimination involving sexual harassment; (h)  to do anything incidental or conducive to the performance of any of the preceding functions. Note: For the provisions about inquiries into complaints of discrimination and conciliation of those complaints: see Part IIB of the Australian Human Rights Commission Act 1986. (2)  The Commission shall not regard an enactment or proposed enactment as being inconsistent with or contrary to the objects of this Act for the purposes of paragraph (1)(f) by reason of a provision of the enactment or proposed enactment that is included for the purpose referred to in subsection 7D(1).
+
 54            Sex Discrimination Act 1984
 
 ComLaw Authoritative Act C2013C00532
@@ -1248,7 +1378,7 @@ Offences Part IV
 
 Section 85
 
-# Part IV-Offences
+# Part IV—Offences
 
 ### 85  Unlawful act not offence unless expressly so provided
 
@@ -1312,7 +1442,7 @@ Section 94
 
 ### 94  Victimisation
 
-(1)  A person shall not commit an act of victimization against another person. Penalty: (a) in the case of a natural person-25 penalty units or imprisonment for 3 months, or both; or (b) in the case of a body corporate-100 penalty units. (2)  For the purposes of subsection (1), a person shall be taken to commit an act of victimization against another person if the first-mentioned person subjects, or threatens to subject, the other person to any detriment on the ground that the other person: (a)  has made, or proposes to make, a complaint under this Act or the Australian Human Rights Commission Act 1986 ; or (b)  has brought, or proposes to bring, proceedings under this Act or the Australian Human Rights Commission Act 1986 against any person; or (c)  has furnished, or proposes to furnish, any information, or has produced, or proposes to produce, any documents to a person exercising or performing any power or function under this Act or the Australian Human Rights Commission Act 1986 ; or (d)  has attended, or proposes to attend, a conference held under this Act or the Australian Human Rights Commission Act 1986 ; or (e)  has appeared, or proposes to appear, as a witness in a proceeding under this Act or the Australian Human Rights Commission Act 1986 ; or (f)  has reasonably asserted, or proposes to assert, any rights of the person or the rights of any other person under this Act or the Australian Human Rights Commission Act 1986 ; or (g)  has made an allegation that a person has done an act that is unlawful by reason of a provision of Part II; or on the ground that the first-mentioned person believes that the other person has done, or proposes to do, an act or thing referred to in any of paragraphs (a) to (g), inclusive. (3)  It is a defence to a prosecution for an offence under subsection (1) constituted by subjecting, or threatening to subject, a person to a detriment on the ground that the person has made an allegation that
+(1)  A person shall not commit an act of victimization against another person. Penalty: (a) in the case of a natural person—25 penalty units or imprisonment for 3 months, or both; or (b) in the case of a body corporate—100 penalty units. (2)  For the purposes of subsection (1), a person shall be taken to commit an act of victimization against another person if the first-mentioned person subjects, or threatens to subject, the other person to any detriment on the ground that the other person: (a)  has made, or proposes to make, a complaint under this Act or the Australian Human Rights Commission Act 1986; or (b)  has brought, or proposes to bring, proceedings under this Act or the Australian Human Rights Commission Act 1986 against any person; or (c)  has furnished, or proposes to furnish, any information, or has produced, or proposes to produce, any documents to a person exercising or performing any power or function under this Act or the Australian Human Rights Commission Act 1986; or (d)  has attended, or proposes to attend, a conference held under this Act or the Australian Human Rights Commission Act 1986; or (e)  has appeared, or proposes to appear, as a witness in a proceeding under this Act or the Australian Human Rights Commission Act 1986; or (f)  has reasonably asserted, or proposes to assert, any rights of the person or the rights of any other person under this Act or the Australian Human Rights Commission Act 1986; or (g)  has made an allegation that a person has done an act that is unlawful by reason of a provision of Part II; or on the ground that the first-mentioned person believes that the other person has done, or proposes to do, an act or thing referred to in any of paragraphs (a) to (g), inclusive. (3)  It is a defence to a prosecution for an offence under subsection (1) constituted by subjecting, or threatening to subject, a person to a detriment on the ground that the person has made an allegation that
 
 58            Sex Discrimination Act 1984
 
@@ -1344,7 +1474,7 @@ Part V Sex Discrimination Commissioner
 
 Section 96
 
-# Part V-Sex Discrimination Commissioner
+# Part V—Sex Discrimination Commissioner
 
 ### 96  Sex Discrimination Commissioner
 
@@ -1362,7 +1492,7 @@ Section 96
 
 (1)  The Commissioner has such recreation leave entitlements as are determined by the Remuneration Tribunal. (2)  The Minister may grant the Commissioner leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 
-> 60            Sex Discrimination Act 1984
+60            Sex Discrimination Act 1984
 
 ComLaw Authoritative Act C2013C00532
 
@@ -1402,7 +1532,7 @@ Part VI Miscellaneous
 
 Section 104
 
-# Part VI-Miscellaneous
+# Part VI—Miscellaneous
 
 ### 104  Delegation
 
@@ -1414,9 +1544,9 @@ A person who causes, instructs, induces, aids or permits another person to do an
 
 ### 106  Vicarious liability etc.
 
-(1)  Subject to subsection (2), where an employee or agent of a person does, in connection with the employment of the employee or with the duties of the agent as an agent: (a)  an act that would, if it were done by the person, be unlawful under Division 1 or 2 of Part II (whether or not the act done by the employee or agent is unlawful under Divison 1 or 2 of Part II); or (b)  an act that is unlawful under Division 3 of Part II; this Act applies in relation to that person as if that person had also done the act. (2)  Subsection (1) does not apply in relation to an act of a kind referred to in paragraph (1)(a) or (b) done by an employee or agent of a person if it is established that the person took all reasonable steps to prevent the employee or agent from doing acts of the kind referred to in that paragraph.
+(1)  Subject to subsection (2), where an employee or agent of a person does, in connection with the employment of the employee or with the duties of the agent as an agent: (a)  an act that would, if it were done by the person, be unlawful under Division 1 or 2 of Part II (whether or not the act done by the employee or agent is unlawful under Division 1 or 2 of Part II); or (b)  an act that is unlawful under Division 3 of Part II; this Act applies in relation to that person as if that person had also done the act. (2)  Subsection (1) does not apply in relation to an act of a kind referred to in paragraph (1)(a) or (b) done by an employee or agent of a person if it is established that the person took all reasonable
 
-> 62            Sex Discrimination Act 1984
+62            Sex Discrimination Act 1984
 
 ComLaw Authoritative Act C2013C00532
 
@@ -1427,6 +1557,8 @@ ComLaw Authoritative Act C2013C00532
 Miscellaneous Part VI
 
 Section 107
+
+steps to prevent the employee or agent from doing acts of the kind referred to in that paragraph.
 
 ### 107  Acts done on behalf of bodies
 
@@ -1442,7 +1574,7 @@ Except as expressly provided by this Act, nothing in this Act confers on a perso
 
 ### 111  Protection from civil actions
 
-(1A)  Subsection (1) applies in relation to any of the following persons: (a)  the Commission; (b)  the Commissioner or another member of the Commission; (c)  a person acting under the direction or authority of: (i)  the Commission; or (ii)  the Commissioner or another member of the Commission; (d)  a person acting under a delegation under section 104. (1)  The person is not liable to an action or other proceeding for damages for or in relation to an act done, or omitted to be done, in good faith in the performance, or purported performance, of any function, or in the exercise or purported exercise of any power or authority, conferred on the Commission, the Commissioner or the other member of the Commission. (2)  If a submission has been made, a document or information has been given, or evidence has been given, to the Commission or the Part VI
+(1A)  Subsection (1) applies in relation to any of the following persons: (a)  the Commission; (b)  the Commissioner or another member of the Commission; (c)  a person acting under the direction or authority of: (i)  the Commission; or (ii)  the Commissioner or another member of the Commission; (d)  a person acting under a delegation under section 104. (1)  The person is not liable to an action or other proceeding for damages for or in relation to an act done, or omitted to be done, in good faith in the performance, or purported performance, of any function, or in the exercise or purported exercise of any power or authority, conferred on the Commission, the Commissioner or the other member of the Commission. (2)  If a submission has been made, a document or information has been given, or evidence has been given, to the Commission or the
 
 Sex Discrimination Act 1984                    63
 
@@ -1452,7 +1584,7 @@ ComLaw Authoritative Act C2013C00532
 
 [[START OF PAGE 70]]
 
-Miscellaneous
+Part VI Miscellaneous
 
 Section 112
 
@@ -1460,7 +1592,7 @@ Commissioner, a person is not liable to an action, suit or other proceeding in r
 
 ### 112  Non-disclosure of private information
 
-(1)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorized to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, shall not, either directly or indirectly: (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first-mentioned person by reason of that person's office or employment under or for the purposes of this Act or by reason of that person being or having been so authorized; or (b)  make use of any such information as is mentioned in paragraph (a); or (c)  produce to any person a document relating to the affairs of another person furnished for the purposes of this Act. Penalty:  50 penalty units or imprisonment for 1 year, or both. (2)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorized to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, shall not be required: (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the firstmentioned person by reason of that person's office or employment under or for the purposes of this Act or by reason of that person being or having been so authorized; or
+(1)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorized to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, shall not, either directly or indirectly: (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first-mentioned person by reason of that person's office or employment under or for the purposes of this Act or by reason of that person being or having been so authorized; or (b)  make use of any such information as is mentioned in paragraph (a); or (c)  produce to any person a document relating to the affairs of another person furnished for the purposes of this Act. Penalty:  50 penalty units or imprisonment for 1 year, or both. (2)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorized to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, shall not be required: (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the first-mentioned person by reason of that person's office or employment under or for the purposes of this Act or by reason of that person being or having been so authorized; or
 
 64            Sex Discrimination Act 1984
 
@@ -1474,7 +1606,7 @@ Miscellaneous Part VI
 
 Section 112
 
-(b)  to produce in a court a document relating to the affairs of another person of which the first-mentioned person has custody, or to which that person has access, by reason of that person's office or employment under or for the purposes of this Act or by reason of that person being or having been so authorized; except where it is necessary to do so for the purposes of this Act. (3)  Nothing in this section prohibits a person from: (a)  making a record of information that is, or is included in a class of information that is, required or permitted by an Act to be recorded, if the record is made for the purposes of or pursuant to that Act; or (b)  divulging or communicating information, or producing a document, to any person in accordance with an arrangement in force under section 16 of the Australian Human Rights Commission Act 1986 ; or (c)  divulging or communicating information, or producing a document, that is, or is included in a class of information that is or class of documents that are, required or permitted by an Act to be divulged, communicated or produced, as the case may be, if the information is divulged or communicated, or the document is produced, for the purposes of or pursuant to that Act. Note: A defendant bears an evidential burden in relation to a matter in subsection (3) (see subsection 13.3(3) of the Criminal Code ). (3AA)  Subsection (1) does not prevent a person from making a record of, divulging, communicating or making use of information, or producing a document, if the person does so: (a)  in the performance of a duty under or in connection with this Act; or (b)  in the performance or exercise of a function or power conferred on the Commission or on the Commissioner under this Act. Note: A defendant bears an evidential burden in relation to the matter in subsection (3AA) (see subsection 13.3(3) of the Criminal Code ). (3A)  Nothing in subsection (2) prevents a person from being required, for the purposes of or pursuant to an Act, to divulge or communicate information, or to produce a document, that is, or is included in a class of information that is or class of documents that are, required or permitted by that Act to be divulged, communicated or produced. (4)  In this section: court includes any tribunal, authority or person having power to require the production of documents or the answering of questions.
+(b)  to produce in a court a document relating to the affairs of another person of which the first-mentioned person has custody, or to which that person has access, by reason of that person's office or employment under or for the purposes of this Act or by reason of that person being or having been so authorized; except where it is necessary to do so for the purposes of this Act. (3)  Nothing in this section prohibits a person from: (a)  making a record of information that is, or is included in a class of information that is, required or permitted by an Act to be recorded, if the record is made for the purposes of or pursuant to that Act; or (b)  divulging or communicating information, or producing a document, to any person in accordance with an arrangement in force under section 16 of the Australian Human Rights Commission Act 1986; or (c)  divulging or communicating information, or producing a document, that is, or is included in a class of information that is or class of documents that are, required or permitted by an Act to be divulged, communicated or produced, as the case may be, if the information is divulged or communicated, or the document is produced, for the purposes of or pursuant to that Act. Note: A defendant bears an evidential burden in relation to a matter in subsection (3) (see subsection 13.3(3) of the Criminal Code). (3AA)  Subsection (1) does not prevent a person from making a record of, divulging, communicating or making use of information, or producing a document, if the person does so: (a)  in the performance of a duty under or in connection with this Act; or (b)  in the performance or exercise of a function or power conferred on the Commission or on the Commissioner under this Act. Note: A defendant bears an evidential burden in relation to the matter in subsection (3AA) (see subsection 13.3(3) of the Criminal Code). (3A)  Nothing in subsection (2) prevents a person from being required, for the purposes of or pursuant to an Act, to divulge or communicate information, or to produce a document, that is, or is included in a class of information that is or class of documents that
 
 Sex Discrimination Act 1984                    65
 
@@ -1487,6 +1619,8 @@ ComLaw Authoritative Act C2013C00532
 Part VI Miscellaneous
 
 Section 113
+
+are, required or permitted by that Act to be divulged, communicated or produced. (4)  In this section: court includes any tribunal, authority or person having power to require the production of documents or the answering of questions.
 
 produce includes permit access to.
 
@@ -1504,7 +1638,7 @@ The Governor-General may make regulations, not inconsistent with this Act, presc
 
 (a)  required or permitted by this Act to be prescribed; or (b)  necessary or convenient to be prescribed for carrying out or
 
-- giving effect to this Act.
+giving effect to this Act.
 
 66            Sex Discrimination Act 1984
 
@@ -1516,7 +1650,7 @@ ComLaw Authoritative Act C2013C00532
 
 Convention on the Elimination of all Forms of Discrimination Against Women Schedule
 
-# Schedule-Convention on the Elimination of all Forms of Discrimination Against Women
+# Schedule—Convention on the Elimination of all Forms of Discrimination Against Women
 
 Section 4
 
@@ -1534,7 +1668,7 @@ Noting also the resolutions, declarations and recommendations adopted by the Uni
 
 Concerned ,  however,  that  despite  these  various  instruments  extensive discrimination against women continues to exist,
 
-Recalling that  discrimination  against  women  violates  the  principles  of equality of rights and  respect  for human  dignity,  is  an  obstacle  to  the participation  of  women,  on  equal  terms  with  men,  in  the  political,  social, economic  and  cultural  life  of  their  countries,  hampers  the  growth  of  the prosperity of society and  the family and  makes  more  difficult  the  full development of the potentialities of women in the service of their countries and of humanity, Concerned that  in  situations  of  poverty  women  have  the  least  access  to food,  health,  education,  training  and  opportunities  for  employment  and  other needs, Convinced that the establishment of the new international economic order based on equity and justice will contribute significantly towards the promotion of equality between men and women, Emphasizing that the eradication of apartheid, of all forms of racism, racial discrimination,  colonialism,  neo-colonialism,  aggression,  foreign  occupation and domination and interference in the internal affairs of States is essential to the full enjoyment of the rights of men and women, Affirming that the strengthening  of international  peace  and  security, relaxation of international  tension,  mutual  co-operation  among  all  States irrespective  of  their  social  and  economic  systems,  general  and  complete disarmament, and in particular nuclear disarmament under strict and effective international  control,  the  affirmation  of  the  principles  of  justice,  equality  and mutual benefit in relations among countries and the realisation of the right of peoples under alien and colonial domination  and foreign occupation to self-determination and independence, as well as respect for national sovereignty and territorial integrity, will promote social progress and development and as a consequence will contribute to the attainment of full equality between men and women, Convinced that the full and complete development of a country, the welfare of  the  world  and  the  cause  of  peace  require  the  maximum  participation  of women on equal terms with men in all fields, Bearing  in  mind the  great  contribution  of  women  to  the  welfare  of  the family and to the development of society, so far not fully recognised, the social significance of maternity and the role of both parents in the family and in the upbringing of children, and aware that the role of women in procreation should not be a basis for discrimination but that the upbringing of children requires a sharing of responsibility between men and women and society as a whole, Aware that  a  change  in  the  traditional  role  of  men  as  well  as  the  role  of women in society and in the family is needed to achieve full equality between men and women, Determined to implement the principles set forth in the Declaration on the Elimination  of  Discrimination against  Women  and, for that  purpose,  to adopt the measures required for the elimination of such discrimination in all its forms and manifestations, Have agreed on the following:
+Recalling that discrimination against women violates the principles of equality of rights and respect for human dignity, is an obstacle to the participation of women, on equal terms with men, in the political, social, economic and cultural life of their countries, hampers the growth of the prosperity of society and the family and makes more difficult the full
 
 Sex Discrimination Act 1984                    67
 
@@ -1546,6 +1680,20 @@ ComLaw Authoritative Act C2013C00532
 
 Schedule Convention on the Elimination of all Forms of Discrimination Against Women
 
+development of the potentialities of women in the service of their countries and of humanity,
+
+Concerned that in situations of poverty women have the least access to food, health, education, training and opportunities for employment and other needs,
+
+Convinced that the establishment of the new international economic order based on equity and justice will contribute significantly towards the promotion of equality between men and women,
+
+Emphasizing that the eradication of apartheid, of all forms of racism, racial discrimination, colonialism, neo-colonialism, aggression, foreign occupation and domination and interference in the internal affairs of States is essential to the full enjoyment of the rights of men and women,
+
+Affirming that the strengthening of international peace and security, relaxation of international tension, mutual co-operation among all States irrespective of their social and economic systems, general and complete disarmament, and in particular nuclear disarmament under strict and effective international control, the affirmation of the principles of justice, equality and mutual benefit in relations among countries and the realisation of the right of peoples under alien and colonial domination and foreign occupation to self-determination and independence, as well as respect for national sovereignty and territorial integrity, will promote social progress and development and as a consequence will contribute to the attainment of full equality between men and women,
+
+Convinced that the full and complete development of a country, the welfare of the world and the cause of peace require the maximum participation of women on equal terms with men in all fields,
+
+Bearing in mind the great contribution of women to the welfare of the family and to the development of society, so far not fully recognised, the social significance of maternity and the role of both parents in the family and in the upbringing of children, and aware that the role of women in procreation should not be a basis for discrimination but that the upbringing of children requires a sharing of responsibility between men and women and society as a whole,
+
 68            Sex Discrimination Act 1984
 
 ComLaw Authoritative Act C2013C00532
@@ -1556,11 +1704,17 @@ ComLaw Authoritative Act C2013C00532
 
 Convention on the Elimination of all Forms of Discrimination Against Women Schedule
 
+Aware that a change in the traditional role of men as well as the role of women in society and in the family is needed to achieve full equality between men and women,
+
+Determined to implement the principles set forth in the Declaration on the Elimination of Discrimination against Women and, for that purpose, to adopt the measures required for the elimination of such discrimination in all its forms and manifestations,
+
+Have agreed on the following:
+
 ## PART 1
 
 ### Article 1
 
-For  the  purposes  of  the  present  Convention,  the  term  -discrimination against women‖ shall mean any distinction, exclusion or restriction made on the basis  of  sex  which  has  the  effect  or  purpose  of  impairing  or  nullifying  the recognition,  enjoyment  or  exercise  by  women,  irrespective  of  their  marital status,  on  a  basis  of  equality  of  men  and  women,  of  human  rights  and fundamental freedoms in the political,  economic,  social,  cultural,  civil  or  any other field.
+For the purposes of the present Convention, the term ―discrimination against women‖ shall mean any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise by women, irrespective of their marital status, on a basis of equality of men and women, of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field.
 
 ### Article 2
 
@@ -1672,7 +1826,7 @@ States Parties shall take all appropriate measures to eliminate discrimination a
 
 (e) The  same  opportunities  for  access  to  programmes  of  continuing education, including adult and functional literacy programmes, particularly those aimed at reducing, at the earliest possible time, any gap in education existing between men and women;
 
-> 72            Sex Discrimination Act 1984
+72            Sex Discrimination Act 1984
 
 ComLaw Authoritative Act C2013C00532
 
@@ -1742,7 +1896,7 @@ States Parties shall take all appropriate measures to eliminate discrimination a
 
 (c) The right to participate in recreational activities, sports and all aspects of cultural life.
 
-> 74            Sex Discrimination Act 1984
+74            Sex Discrimination Act 1984
 
 ComLaw Authoritative Act C2013C00532
 
@@ -1778,7 +1932,7 @@ Convention on the Elimination of all Forms of Discrimination Against Women Sched
 
 ### Article 15
 
-- States Parties shall accord to women equality with men before the law.
+1. States Parties shall accord to women equality with men before the law.
 
 Sex Discrimination Act 1984                    75
 
@@ -1814,7 +1968,7 @@ Schedule Convention on the Elimination of all Forms of Discrimination Against Wo
 
 (g) The same personal rights as husband and wife, including the right to choose a family name, a profession and an occupation;
 
-> 76            Sex Discrimination Act 1984
+76            Sex Discrimination Act 1984
 
 ComLaw Authoritative Act C2013C00532
 
@@ -1856,7 +2010,7 @@ Schedule Convention on the Elimination of all Forms of Discrimination Against Wo
 
 7. For the filling of casual vacancies, the State Party whose expert has ceased to function as a member of the Committee shall appoint another expert from among its nationals, subject to the approval of the Committee.
 
-8. The members of the Committee shall, with the approval of the General Assembly, receive emoluments from United Nations resources on such terms and conditions as the Assembly may decide, having regard to the importance of the Committee's responsibilities.
+8. The members of the Committee shall, with the approval of the General Assembly, receive emoluments from United Nations resources on such terms and conditions as the Assembly may decide, having regard to the importance of the Committee’s responsibilities.
 
 9. The  Secretary-General of the United Nations shall provide the necessary staff and facilities for the effective performance of the functions of the Committee under the present Convention.
 
@@ -1868,7 +2022,7 @@ Schedule Convention on the Elimination of all Forms of Discrimination Against Wo
 
 (b) Thereafter at least every four years and further whenever  the Committee so requests.
 
-> 78            Sex Discrimination Act 1984
+78            Sex Discrimination Act 1984
 
 ComLaw Authoritative Act C2013C00532
 
@@ -1882,9 +2036,9 @@ Convention on the Elimination of all Forms of Discrimination Against Women Sched
 
 ### Article 19
 
-- The Committee shall adopt its own rules of procedure.
+1. The Committee shall adopt its own rules of procedure.
 
-- The Committee shall elect its officers for a term of two years.
+2. The Committee shall elect its officers for a term of two years.
 
 ### Article 20
 
@@ -1928,7 +2082,7 @@ States  Parties  undertake  to  adopt  all  necessary  measures  at  the  nation
 
 ### Article 25
 
-- The present Convention shall be open for signature by all States.
+1. The present Convention shall be open for signature by all States.
 
 2. The  Secretary-General  of  the  United  Nations  is  designated  as  the depositary of the present Convention.
 
@@ -2000,22 +2154,29 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 1-About the endnotes
+Endnote 1—About the endnotes
 
 # Endnotes
-## Endnote 1-About the endnotes
+## Endnote 1—About the endnotes
 
 The endnotes provide details of the history of this legislation and its provisions. The following endnotes are included in each compilation:
 
-Endnote 1-About the endnotes Endnote 2-Abbreviation key Endnote 3-Legislation history Endnote 4-Amendment history Endnote 5-Uncommenced amendments Endnote 6-Modifications Endnote 7-Misdescribed amendments Endnote 8-Miscellaneous
+Endnote 1—About the endnotes
+Endnote 2—Abbreviation key
+Endnote 3—Legislation history
+Endnote 4—Amendment history
+Endnote 5—Uncommenced amendments
+Endnote 6—Modifications
+Endnote 7—Misdescribed amendments
+Endnote 8—Miscellaneous
 
-If there is no information under a particular endnote, the word -none‖ will appear in square brackets after the endnote heading.
+If there is no information under a particular endnote, the word ―none‖ will appear in square brackets after the endnote heading.
 
-### Abbreviation key-Endnote 2
+### Abbreviation key—Endnote 2
 
 The abbreviation key in this endnote sets out abbreviations that may be used in the endnotes.
 
-### Legislation history and amendment history-Endnotes 3 and 4
+### Legislation history and amendment history—Endnotes 3 and 4
 
 Amending laws are annotated in the legislation history and amendment history.
 
@@ -2023,7 +2184,7 @@ The legislation history in endnote 3 provides information about each law that ha
 
 The amendment history in endnote 4 provides information about amendments at the provision level. It also includes information about any provisions that have expired or otherwise ceased to have effect in accordance with a provision of the compiled law.
 
-### Uncommenced amendments-Endnote 5
+### Uncommenced amendments—Endnote 5
 
 The effect of uncommenced amendments is not reflected in the text of the compiled law, but the text of the amendments is included in endnote 5.
 
@@ -2037,17 +2198,17 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 1-About the endnotes
+Endnote 1—About the endnotes
 
-### Modifications-Endnote 6
+### Modifications—Endnote 6
 
 If the compiled law is affected by a modification that is in force, details of the modification are included in endnote 6.
 
-### Misdescribed amendments-Endnote 7
+### Misdescribed amendments—Endnote 7
 
 An amendment is a misdescribed amendment if the effect of the amendment cannot be incorporated into the text of the compilation. Any misdescribed amendment is included in endnote 7.
 
-### Miscellaneous-Endnote 8
+### Miscellaneous—Endnote 8
 
 Endnote 8 includes any additional information that may be helpful for a reader of the compilation.
 
@@ -2061,9 +2222,9 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 2-Abbreviation key
+Endnote 2—Abbreviation key
 
-## Endnote 2-Abbreviation key
+## Endnote 2—Abbreviation key
 
 ad = added or inserted | pres = present
 --- | ---
@@ -2079,12 +2240,12 @@ hdg = heading(s) | rs = repealed and substituted
 LI = Legislative Instrument | s = section(s)
 LIA = Legislative Instruments Act 2003 | Sch = Schedule(s)
 mod = modified/modification | Sdiv = Subdivision(s)
-No - Number(s) | SLI = Select Legislative Instrument
+No = Number(s) | SLI = Select Legislative Instrument
 o = order(s) | SR = Statutory Rules
 Ord = Ordinance | Sub-Ch = Sub-Chapter(s)
 orig = original | SubPt = Subpart(s)
 par = paragraph(s)/subparagraph(s)
-/sub-subparagraph(s)
+ /sub-subparagraph(s)
 
 Sex Discrimination Act 1984                   85
 
@@ -2096,17 +2257,17 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 3-Legislation history
+Endnote 3—Legislation history
 
-## Endnote 3-Legislation history
+## Endnote 3—Legislation history
 
 Act | Number and year | Assent or FRLI registration | Commencement | Application, saving and transitional provisions
 --- | --- | --- | --- | ---
-Sex Discrimination Act 1984 | 4, 1984 | 21 Mar 1984 | 1 Aug 1984 ( see Gazette 1984, No. S264)
+Sex Discrimination Act 1984 | 4, 1984 | 21 Mar 1984 | 1 Aug 1984 (see Gazette 1984, No. S264) |
 Statute Law (Miscellaneous Provisions) Act (No. 1) 1984 | 72, 1984 | 25 June 1984 | s. 3: 1 Aug 1984 (a) | ss. 2(24) and 5(1)
 Statute Law (Miscellaneous Provisions) Act (No. 1) 1985 | 65, 1985 | 5 June 1985 | s. 3: 3 July 1985 (b) | s. 16
 Statute Law (Miscellaneous Provisions) Act (No. 1) 1986 | 76, 1986 | 24 June 1986 | s. 3: Royal Assent (c) | s. 9
-Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 | 126, 1986 | 6 Dec 1986 | 10 Dec 1986 ( see s. 2 and Gazette 1986, No. S631) | ss. 44(2), 46 and 47
+Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 | 126, 1986 | 6 Dec 1986 | 10 Dec 1986 (see s. 2 and Gazette 1986, No. S631) | ss. 44(2), 46 and 47
 Statute Law (Miscellaneous Provisions) Act 1988 | 38, 1988 | 3 June 1988 | s. 3: Royal Assent (d) | s. 5(1)
 
 86            Sex Discrimination Act 1984
@@ -2119,16 +2280,16 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 3-Legislation history
+Endnote 3—Legislation history
 
 Act | Number and year | Assent or FRLI registration | Commencement | Application, saving and transitional provisions
 --- | --- | --- | --- | ---
-Commonwealth Employees' Rehabilitation and Compensation Act 1988 | 75, 1988 | 24 June 1988 | s. 1 and 2: Royal Assent ss. 4(1), 68-97, 99 and 100: 1 July 1988 ( see Gazette 1988, No. S196) Remainder: 1 Dec 1988 ( see Gazette | -
-Employment, Education and Training Act 1988 | 80, 1988 | 24 June 1988 | 1 July 1988 ( see Gazette 1988, No. S190) | -
-Industrial Relations (Consequential Provisions) Act 1988 | 87, 1988 | 8 Nov 1988 | ss. 1 and 2: Royal Assent Remainder: 1 Mar 1989 ( see s. 2(2) and Gazette 1989, No. S53) | -
-Law and Justice Legislation Amendment Act 1990 | 115, 1990 | 21 Dec 1990 | Part 4 (s. 49): Royal Assent (e) | -
-Social Security (Rewrite) Transition Act 1991 | 70, 1991 | 25 June 1991 | 1 July 1991 ( see s. 2) | -
-Sex Discrimination Amendment Act 1991 | 71, 1991 | 25 June 1991 | Part 1 (ss. 1-3), ss. 4, 7, 8, Parts 3 and 4 (ss. 11-23): 1 Aug 1991 ss. 5 and 6: 25 June 1993 s. 9: 1 July 1994 Remainder: Royal | s. 3, s. 2(2) (am. by 13, 1994, s. 24)
+Commonwealth Employees’ Rehabilitation and Compensation Act 1988 | 75, 1988 | 24 June 1988 | s. 1 and 2: Royal Assent ss. 4(1), 68–97, 99 and 100: 1 July 1988 (see Gazette 1988, No. S196) Remainder: 1 Dec 1988 (see Gazette 1988, No. S196) | —
+Employment, Education and Training Act 1988 | 80, 1988 | 24 June 1988 | 1 July 1988 (see Gazette 1988, No. S190) | —
+Industrial Relations (Consequential Provisions) Act 1988 | 87, 1988 | 8 Nov 1988 | ss. 1 and 2: Royal Assent Remainder: 1 Mar 1989 (see s. 2(2) and Gazette 1989, No. S53) | —
+Law and Justice Legislation Amendment Act 1990 | 115, 1990 | 21 Dec 1990 | Part 4 (s. 49): Royal Assent (e) | —
+Social Security (Rewrite) Transition Act 1991 | 70, 1991 | 25 June 1991 | 1 July 1991 (see s. 2) | —
+Sex Discrimination Amendment Act 1991 | 71, 1991 | 25 June 1991 | Part 1 (ss. 1–3), ss. 4, 7, 8, Parts 3 and 4 (ss. 11–23): 1 Aug 1991 ss. 5 and 6: 25 June 1993 s. 9: 1 July 1994 Remainder: Royal Assent | s. 3, s. 2(2) (am. by 13, 1994, s. 24)
 
 Sex Discrimination Act 1984                   87
 
@@ -2140,20 +2301,21 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 3-Legislation history
+Endnote 3—Legislation history
 
 Act | Number and year | Assent or FRLI registration | Commencement | Application, saving and transitional provisions
 --- | --- | --- | --- | ---
 as amended by
-Law and Justice Legislation Amendment Act 1993 | 13, 1994 | 18 Jan 1994 | s. 24: Royal Assent (f) | -
-Human Rights and Equal Opportunity Legislation Amendment Act 1992 | 132, 1992 | 30 Oct 1992 | 26 Nov 1992 ( see s. 2 and Gazette 1992, No. S346) | -
+Law and Justice Legislation Amendment Act 1993 | 13, 1994 | 18 Jan 1994 | s. 24: Royal Assent (f) | —
+Human Rights and Equal Opportunity Legislation Amendment Act 1992 | 132, 1992 | 30 Oct 1992 | 26 Nov 1992 (see s. 2 and Gazette 1992, No. S346) | —
 Law and Justice Legislation Amendment Act (No. 3) 1992 | 165, 1992 | 11 Dec 1992 | Schedule (Part 2): 8 Jan 1993 (g) Schedule (Part 3): (g) | s. 3(3) and (4)
 Sex Discrimination and other Legislation Amendment Act 1992 | 179, 1992 | 16 Dec 1992 | 13 Jan 1993 | ss. 2(2) and 4
-Human Rights and Equal Opportunity Legislation Amendment Act (No. 2) 1992 | 180, 1992 | 16 Dec 1992 | 13 Jan 1993 | -
+Human Rights and Equal Opportunity Legislation Amendment Act (No. 2) 1992 | 180, 1992 | 16 Dec 1992 | 13 Jan 1993 | —
 Qantas Sale Act 1992 | 196, 1992 | 21 Dec 1992 | Schedule (Parts 3, 6): (h) | s. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)
-as amended by Qantas Sale Amendment Act 1993 | 60, 1993 | 3 Nov 1993 | 10 Mar 1993 | -
-Qantas Sale Amendment Act 1994 | 168, 1994 | 16 Dec 1994 | s. 3 (item 17): Royal Assent (i) | -
-Industrial Relations and other Legislation Amendment Act 1993 | 109, 1993 | 22 Dec 1993 | ss. 1, 2 and 58: Royal Assent s. 32: 5 Jan 1994 s. 34: 6 Sept 1991 s. 47: 24 Dec 1992 Remainder: 19 Jan | -
+as amended by
+Qantas Sale Amendment Act 1993 | 60, 1993 | 3 Nov 1993 | 10 Mar 1993 | —
+Qantas Sale Amendment Act 1994 | 168, 1994 | 16 Dec 1994 | s. 3 (item 17): Royal Assent (i) | —
+Industrial Relations and other Legislation Amendment Act 1993 | 109, 1993 | 22 Dec 1993 | ss. 1, 2 and 58: Royal Assent s. 32: 5 Jan 1994 s. 34: 6 Sept 1991 s. 47: 24 Dec 1992 Remainder: 19 Jan 1994 | —
 
 88            Sex Discrimination Act 1984
 
@@ -2165,17 +2327,17 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 3-Legislation history
+Endnote 3—Legislation history
 
 Act | Number and year | Assent or FRLI registration | Commencement | Application, saving and transitional provisions
 --- | --- | --- | --- | ---
 Law and Justice Legislation Amendment Act 1993 | 13, 1994 | 18 Jan 1994 | ss. 21, 23, 25 and 26: Royal Assent (j) s. 22: 13 Jan 1993 (j) | s. 25(2)
-Veterans' Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) | 164, 1994 | 16 Dec 1994 | Part 4 (s. 60): Royal Assent (k) | -
-Income Tax (International Agreements) Amendment Act 1995 | 22, 1995 | 29 Mar 1995 | 29 Mar 1995 | -
+Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994 | 164, 1994 | 16 Dec 1994 | Part 4 (s. 60): Royal Assent (k) | —
+Income Tax (International Agreements) Amendment Act 1995 | 22, 1995 | 29 Mar 1995 | 29 Mar 1995 | —
 Human Rights Legislation Amendment Act 1995 | 59, 1995 | 28 June 1995 | s. 3 (item 25): 30 Oct 1992 Remainder: Royal Assent | ss. 4 and 5
-Sex Discrimination Amendment Act 1995 | 165, 1995 | 16 Dec 1995 | 16 Dec 1995 | -
-Industrial Relations and other Legislation Amendment Act 1995 | 168, 1995 | 16 Dec 1995 | ss. 1-12, Schedules 5 and 7-10: Royal Assent s. 13: 13 Jan 1996 Remainder: 15 Jan 1996 ( see Gazette 1996, No. S16) | -
-Workplace Relations and Other Legislation Amendment Act 1996 | 60, 1996 | 25 Nov 1996 | Schedule 9 (item 2(9)): 31 Dec 1996 ( see Gazette 1996, No. S535) Schedule 19 (items 46, 47): Royal Assent (l) Schedule 11 (items 62-71): 31 Dec 1996 ( see Gazette 1996, No. S535) | s. 2(2) and (6) (am. by 77, 1996, Sch. 3 [items 1, 2]) Sch. 9 (item 2(9)) (am. by 133, 1999, Sch. 1 [item 125])
+Sex Discrimination Amendment Act 1995 | 165, 1995 | 16 Dec 1995 | 16 Dec 1995 | —
+Industrial Relations and other Legislation Amendment Act 1995 | 168, 1995 | 16 Dec 1995 | ss. 1–12, Schedules 5 and 7–10: Royal Assent s. 13: 13 Jan 1996 Remainder: 15 Jan 1996 (see Gazette 1996, No. S16) | —
+Workplace Relations and Other Legislation Amendment Act 1996 | 60, 1996 | 25 Nov 1996 | Schedule 9 (item 2(9)): 31 Dec 1996 (see Gazette 1996, No. S535) Schedule 19 (items 46, 47): Royal Assent (l) Schedule 11 (items 62–71): 31 Dec 1996 (see Gazette 1996, No. S535) | s. 2(2) and (6) (am. by 77, 1996, Sch. 3 [items 1, 2]) Sch. 9 (item 2(9)) (am. by 133, 1999, Sch. 1 [item 125])
 
 Sex Discrimination Act 1984                   89
 
@@ -2187,18 +2349,18 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 3-Legislation history
+Endnote 3—Legislation history
 
 Act | Number and year | Assent or FRLI registration | Commencement | Application, saving and transitional provisions
 --- | --- | --- | --- | ---
 as amended by
-Workplace Relations and Other Legislation Amendment Act | 77, 1996 | 19 Dec 1996 | Schedule 3 (items 1, 2): (m) | -
-Human Rights Legislation Amendment Act (No. 1) 1999 | 133, 1999 | 13 Oct 1999 | ( see 133, 1999 below) | -
-Student and Youth Assistance (Sex Discrimination Amendment) Act 1997 | 171, 1997 | 17 Nov 1997 | 17 Nov 1997 | -
-Defence Legislation Amendment Act (No. 1) 1999 | 116, 1999 | 22 Sept 1999 | Schedule 5 (item 14): 1 Jan 2001 (n) | -
-Human Rights Legislation Amendment Act (No. 1) 1999 | 133, 1999 | 13 Oct 1999 | ss. 1-3 and 21: Royal Assent s. 22 and Schedule 1 (items 53, 60): 10 Dec 1999 ( see Gazette 1999, No. S598) Remainder: 13 Apr 2000 | ss. 4-22
-Public Employment (Consequential and Transitional) Amendment Act 1999 | 146, 1999 | 11 Nov 1999 | Schedule 1 (items 812-814): 5 Dec 1999 ( see Gazette 1999, No. S584) (o) | -
-Australian Security Intelligence Organisation Legislation Amendment | 161, 1999 | 10 Dec 1999 | Schedule 3 (items 1, 57): (p) | -
+Workplace Relations and Other Legislation Amendment Act (No. 2) 1996 | 77, 1996 | 19 Dec 1996 | Schedule 3 (items 1, 2): (m) | —
+Human Rights Legislation Amendment Act (No. 1) 1999 | 133, 1999 | 13 Oct 1999 | (see 133, 1999 below) | —
+Student and Youth Assistance (Sex Discrimination Amendment) Act 1997 | 171, 1997 | 17 Nov 1997 | 17 Nov 1997 | —
+Defence Legislation Amendment Act (No. 1) 1999 | 116, 1999 | 22 Sept 1999 | Schedule 5 (item 14): 1 Jan 2001 (n) | —
+Human Rights Legislation Amendment Act (No. 1) 1999 | 133, 1999 | 13 Oct 1999 | ss. 1–3 and 21: Royal Assent s. 22 and Schedule 1 (items 53, 60): 10 Dec 1999 (see Gazette 1999, No. S598) Remainder: 13 Apr 2000 | ss. 4–22
+Public Employment (Consequential and Transitional) Amendment Act 1999 | 146, 1999 | 11 Nov 1999 | Schedule 1 (items 812–814): 5 Dec 1999 (see Gazette 1999, No. S584) (o) | —
+Australian Security Intelligence Organisation Legislation Amendment Act 1999 | 161, 1999 | 10 Dec 1999 | Schedule 3 (items 1, 57): (p) | —
 
 90            Sex Discrimination Act 1984
 
@@ -2210,17 +2372,17 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 3-Legislation history
+Endnote 3—Legislation history
 
 Act | Number and year | Assent or FRLI registration | Commencement | Application, saving and transitional provisions
 --- | --- | --- | --- | ---
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 | 137, 2000 | 24 Nov 2000 | ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9-11, 32): Royal Assent Remainder: 24 May 2001 | Sch. 2 (items 418, 419)
+Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 | 137, 2000 | 24 Nov 2000 | ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent Remainder: 24 May 2001 | Sch. 2 (items 418, 419)
 Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 | 24, 2001 | 6 Apr 2001 | s. 4(1), (2) and Schedule 45: (q) | s. 4(1) and (2)
-Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential | 105, 2002 | 14 Nov 2002 | Schedule 3 (item 61): 12 May 2003 ( see Gazette 2002, No. GN49) | -
-Sex Discrimination Amendment (Pregnancy and Work) Act 2003 | 103, 2003 | 15 Oct 2003 | Schedule 1: 12 Nov 2003 Remainder: Royal Assent | -
-Age Discrimination (Consequential Provisions) Act 2004 | 40, 2004 | 21 Apr 2004 | Schedule 2 (item 28): (r) | -
-Civil Aviation Amendment Act 2005 | 86, 2005 | 6 July 2005 | 6 July 2005 | -
-Same-Sex Relationships (Equal Treatment in Commonwealth Laws- General Law Reform) | 144, 2008 | 9 Dec 2008 | Schedule 2 (items 76- 84) 10 Dec 2008 | -
+Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002 | 105, 2002 | 14 Nov 2002 | Schedule 3 (item 61): 12 May 2003 (see Gazette 2002, No. GN49) | —
+Sex Discrimination Amendment (Pregnancy and Work) Act 2003 | 103, 2003 | 15 Oct 2003 | Schedule 1: 12 Nov 2003 Remainder: Royal Assent | —
+Age Discrimination (Consequential Provisions) Act 2004 | 40, 2004 | 21 Apr 2004 | Schedule 2 (item 28): (r) | —
+Civil Aviation Amendment Act 2005 | 86, 2005 | 6 July 2005 | 6 July 2005 | —
+Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 | 144, 2008 | 9 Dec 2008 | Schedule 2 (items 76–84) 10 Dec 2008 | —
 
 Sex Discrimination Act 1984                   91
 
@@ -2232,17 +2394,18 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
+Endnote 3—Legislation history
+
 Act | Number and year | Assent or FRLI registration | Commencement | Application, saving and transitional provisions
 --- | --- | --- | --- | ---
-Fair Work (State Referral and Consequential and Other Amendments) Act 2009 | 54, 2009 | 25 June 2009 | s. 4: Royal Assent Schedule 5 (items 52- 59, 76-79, 87, 88): (s) | s. 4 and Sch. 5 (items 87, 88) Sch. 5 (item 87A) (ad. by SLI 2009 No. 165, Sch. 2 [item 1])
-Fair Work (State Referral and Consequential and Other Amendments) Regulations 2009 | SLI 2009 No. 165 | 30 June 2009 | 1 July 2009 | -
-Disability Discrimination and Other Human Rights Legislation Amendment Act 2009 | 70, 2009 | 8 July 2009 | Schedule 3 (items 74- 92, 115, 116, 179, 180) and Schedule 4 (items 6-14): 5 Aug 2009 | -
-Fair Work Amendment (State Referrals and Other Measures) Act 2009 | 124, 2009 | 9 Dec 2009 | Schedule 2 (item 134): 1 Jan 2010 | -
-Sex and Age Discrimination Legislation Amendment Act 2011 | 40, 2011 | 20 June 2011 | Schedule 1 (items 1- 17, 19-69): 21 June 2011 | Sch. 1 (item 69)
-Acts Interpretation Amendment Act 2011 | 46, 2011 | 27 June 2011 | Schedule 2 (items 1034-1037) and Schedule 3 (items 10, 11): 27 Dec 2011 | Sch. 3 (items 10, 11)
-Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012 | 169, 2012 | 3 Dec 2012 | Schedule 2 (items 193-197): 3 Dec 2012 ( see s. 2(1)) Schedule 4 (item 23): [ see (t) and Endnote 5] | -
-
-Endnote 3-Legislation history
+Fair Work (State Referral and Consequential and Other Amendments) Act 2009 | 54, 2009 | 25 June 2009 | s. 4: Royal Assent Schedule 5 (items 52–59, 76–79, 87, 88): (s) | s. 4 and Sch. 5 (items 87, 88) Sch. 5 (item 87A) (ad. by SLI 2009 No. 165, Sch. 2 [item 1])
+as amended by
+Fair Work (State Referral and Consequential and Other Amendments) Regulations 2009 | SLI 2009 No. 165 | 30 June 2009 | 1 July 2009 | —
+Disability Discrimination and Other Human Rights Legislation Amendment Act 2009 | 70, 2009 | 8 July 2009 | Schedule 3 (items 74–92, 115, 116, 179, 180) and Schedule 4 (items 6–14): 5 Aug 2009 | —
+Fair Work Amendment (State Referrals and Other Measures) Act 2009 | 124, 2009 | 9 Dec 2009 | Schedule 2 (item 134): 1 Jan 2010 | —
+Sex and Age Discrimination Legislation Amendment Act 2011 | 40, 2011 | 20 June 2011 | Schedule 1 (items 1–17, 19–69): 21 June 2011 | Sch. 1 (item 69)
+Acts Interpretation Amendment Act 2011 | 46, 2011 | 27 June 2011 | Schedule 2 (items 1034–1037) and Schedule 3 (items 10, 11): 27 Dec 2011 | Sch. 3 (items 10, 11)
+Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012 | 169, 2012 | 3 Dec 2012 | Schedule 2 (items 193–197): 3 Dec 2012 (see s. 2(1)) Schedule 4 (item 23): [see (t) and Endnote 5] | —
 
 92            Sex Discrimination Act 1984
 
@@ -2254,19 +2417,29 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 3-Legislation history
+Endnote 3—Legislation history
 
 Act | Number and year | Assent or FRLI registration | Commencement | Application, saving and transitional provisions
 --- | --- | --- | --- | ---
-Charities (Consequential Amendments and | 96, 2013 | 28 June 2013 | Sch 1 (item 39): [ see Endnote 5] | -
-Sex Discrimination Amendment (Sexual Orientation, Gender Identity and Intersex | 98, 2013 | 28 June 2013 | Sch 1 (items 1-61, 64): 1 Aug 2013 [ see F2013L01435] | Sch 1 (item 64)
+Charities (Consequential Amendments and Transitional Provisions) Act 2013 | 96, 2013 | 28 June 2013 | Sch 1 (item 39): [see Endnote 5] | —
+Sex Discrimination Amendment (Sexual Orientation, Gender Identity and Intersex Status) Act 2013 | 98, 2013 | 28 June 2013 | Sch 1 (items 1–61, 64): 1 Aug 2013 [see F2013L01435] | Sch 1 (item 64)
+
 Number and year | FRLI registration | Commencement | Application, saving and transitional provisions
-2006 No. 50 | 17 Mar 2006 (see F2006L00820) | Schedule 40: 27 Mar 2006 ( see r. 2(b)) | -
-(a) | The Sex Discrimination Act 1984 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1984 , subsection 2(19) of which provides as follows:
-(b) | (19) The amendments of the Sex Discrimination Act 1984 made by this Act shall come into operation on the commencement of that Act. The Sex Discrimination Act 1984 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985 , subsection 2(1) of which provides as follows: (1) Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
-(c) | The Sex Discrimination Act 1984 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1986 , subsection 2(1) of which provides as follows:
+2006 No. 50 | 17 Mar 2006 (see F2006L00820) | Schedule 40: 27 Mar 2006 (see r. 2(b)) | —
+
+(a) The Sex Discrimination Act 1984 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1984, subsection 2(19) of which provides as follows:
+
+(19) The amendments of the Sex Discrimination Act 1984 made by this Act shall come into operation on the commencement of that Act.
+
+(b) The Sex Discrimination Act 1984 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985, subsection 2(1) of which provides as follows:
+
+(1) Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+
+(c) The Sex Discrimination Act 1984 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1986, subsection 2(1) of which provides as follows:
+
 (1) Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
-(d) | The Sex Discrimination Act 1984 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1988 , subsection 2(1) of which provides as follows:
+
+(d) The Sex Discrimination Act 1984 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1988, subsection 2(1) of which provides as follows:
 
 Sex Discrimination Act 1984                   93
 
@@ -2278,9 +2451,39 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 3-Legislation history
+Endnote 3—Legislation history
 
-(1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent. (e) The Sex Discrimination Act 1984 was amended by Part 4 (section 49) only of the Law and Justice Legislation Amendment Act 1990 , subsection 2(1) of which provides as follows: (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent. (f) The Sex Discrimination Amendment Act 1991 was amended by section 24 only of the Law and Justice Legislation Amendment Act 1993 , subsection 2(1) of which provides as follows: (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent. (g) The Sex Discrimination Act 1984 was amended by the Schedule (Parts 2 and 3) only of the Law and Justice Legislation Amendment Act (No. 3) 1992 , subsections 2(7) and (8) of which provide as follows: (7)  Part 2 of the Schedule commences on the 28th day after the day on which this Act receives the Royal Assent. (8)  Part 3 of the Schedule commences immediately after the commencement of section 9 of the Sex Discrimination Amendment Act 1991 . Section 9 of the Sex Discrimination Amendment Act 1991 commenced on 25 June 1993. (h) The Sex Discrimination Act 1984 was amended by the Schedule (Parts 3 and 6) only of the Qantas Sale Act 1992 , subsections 2(2), (5) and (6) of which provide as follows: (2)  Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation. (5)  If, on the 100% sale day, Part 3 of the Schedule has not commenced, then, on the day on which Part 7 of the Schedule commences, Parts 3 and 6 of the Schedule are taken to have been repealed. (6)  If a provision of this Act has not commenced before 31 August 1995, the provision is taken to have been repealed on that day. The Schedule (Parts 3 and 6) are taken to have been repealed on 31 August 1995. (i) The Qantas Sale Act 1992 was amended by section 3 (item 17) only of the Qantas Sale Amendment Act 1994 , subsection 2(1) of which provides as follows: (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+(1) Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+(e) The Sex Discrimination Act 1984 was amended by Part 4 (section 49) only of the Law and Justice Legislation Amendment Act 1990, subsection 2(1) of which provides as follows:
+
+(1) Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+(f) The Sex Discrimination Amendment Act 1991 was amended by section 24 only of the Law and Justice Legislation Amendment Act 1993, subsection 2(1) of which provides as follows:
+
+(1) Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+(g) The Sex Discrimination Act 1984 was amended by the Schedule (Parts 2 and 3) only of the Law and Justice Legislation Amendment Act (No. 3) 1992, subsections 2(7) and (8) of which provide as follows:
+
+(7) Part 2 of the Schedule commences on the 28th day after the day on which this Act receives the Royal Assent.
+
+(8) Part 3 of the Schedule commences immediately after the commencement of section 9 of the Sex Discrimination Amendment Act 1991.
+
+Section 9 of the Sex Discrimination Amendment Act 1991 commenced on 25 June 1993.
+
+(h) The Sex Discrimination Act 1984 was amended by the Schedule (Parts 3 and 6) only of the Qantas Sale Act 1992, subsections 2(2), (5) and (6) of which provide as follows:
+
+(2) Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
+
+(5) If, on the 100% sale day, Part 3 of the Schedule has not commenced, then, on the day on which Part 7 of the Schedule commences, Parts 3 and 6 of the Schedule are taken to have been repealed.
+
+(6) If a provision of this Act has not commenced before 31 August 1995, the provision is taken to have been repealed on that day.
+
+The Schedule (Parts 3 and 6) are taken to have been repealed on 31 August 1995.
+
+(i) The Qantas Sale Act 1992 was amended by section 3 (item 17) only of the Qantas Sale Amendment Act 1994, subsection 2(1) of which provides as follows:
+
+(1) Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
 94            Sex Discrimination Act 1984
 
@@ -2292,9 +2495,39 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 3-Legislation history
+Endnote 3—Legislation history
 
-(j) The Sex Discrimination Act 1984 was amended by sections 21-23, 25 and 26 only of the Law and Justice Legislation Amendment Act 1993 , subsections 2(1) and (2) of which provide as follows: (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent. (2)  Section 22 is taken to have commenced on 13 January 1993. (k) The Sex Discrimination Act 1984 was amended by Part 4 (section 60) only of the Veterans' Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994 , subsection 2(1) of which provides as follows: (1)  Part 1, Divisions 1 and 11 of Part 2 and Parts 3 and 4 commence on the day on which this Act receives the Royal Assent. (l) The Sex Discrimination Act 1984 was amended by Schedule 11 (items 62-71) and Schedule 19 (items 46, 47) only of the Workplace Relations and Other Legislation Amendment Act 1996 , subsections 2(1) and (2) of which provide as follows: (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent. (2)  Subject to subsection (3), the items of the Schedules, other than Schedule 5, item 1 of Schedule 9, items 2 and 3 of Schedule 12, item 90 of Schedule 16 and the items of Schedule 19, commence on a day or days to be fixed by Proclamation. (m) The Workplace Relations and Other Legislation Amendment Act 1996 was amended by Schedule 3 (items 1 and 2) only of the Workplace Relations and Other Legislation Amendment Act (No. 2) 1996 , subsection 2(4) of which provides as follows: (4)  The items of Schedule 3 are taken to have commenced immediately after the Workplace Relations and Other Legislation Amendment Act 1996 received the Royal Assent. The Workplace Relations and Other Legislation Amendment Act 1996 received the Royal Assent on 25 November 1996. (n) The Sex Discrimination Act 1984 was amended by Schedule 5 (item 14) only of the Defence Legislation Amendment Act (No. 1) 1999, subsection 2(4) of which provides as follows: (4)  Schedule 5 commences on 1 January 2001. (o) The Sex Discrimination Act 1984 was amended by Schedule 1 (items 812814) only of the Public Employment (Consequential and Transitional) Amendment Act 1999 , subsections 2(1) and (2) of which provide as follows: (1)  In this Act, commencing time means the time when the Public Service Act 1999 commences. (2)  Subject to this section, this Act commences at the commencing time.
+(j) The Sex Discrimination Act 1984 was amended by sections 21–23, 25 and 26 only of the Law and Justice Legislation Amendment Act 1993, subsections 2(1) and (2) of which provide as follows:
+
+(1) Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+(2) Section 22 is taken to have commenced on 13 January 1993.
+
+(k) The Sex Discrimination Act 1984 was amended by Part 4 (section 60) only of the Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994, subsection 2(1) of which provides as follows:
+
+(1) Part 1, Divisions 1 and 11 of Part 2 and Parts 3 and 4 commence on the day on which this Act receives the Royal Assent.
+
+(l) The Sex Discrimination Act 1984 was amended by Schedule 11 (items 62–71) and Schedule 19 (items 46, 47) only of the Workplace Relations and Other Legislation Amendment Act 1996, subsections 2(1) and (2) of which provide as follows:
+
+(1) Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+(2) Subject to subsection (3), the items of the Schedules, other than Schedule 5, item 1 of Schedule 9, items 2 and 3 of Schedule 12, item 90 of Schedule 16 and the items of Schedule 19, commence on a day or days to be fixed by Proclamation.
+
+(m) The Workplace Relations and Other Legislation Amendment Act 1996 was amended by Schedule 3 (items 1 and 2) only of the Workplace Relations and Other Legislation Amendment Act (No. 2) 1996, subsection 2(4) of which provides as follows:
+
+(4) The items of Schedule 3 are taken to have commenced immediately after the Workplace Relations and Other Legislation Amendment Act 1996 received the Royal Assent.
+
+The Workplace Relations and Other Legislation Amendment Act 1996 received the Royal Assent on 25 November 1996.
+
+(n) The Sex Discrimination Act 1984 was amended by Schedule 5 (item 14) only of the Defence Legislation Amendment Act (No. 1) 1999, subsection 2(4) of which provides as follows:
+
+(4) Schedule 5 commences on 1 January 2001.
+
+(o) The Sex Discrimination Act 1984 was amended by Schedule 1 (items 812–814) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
+
+(1) In this Act, commencing time means the time when the Public Service Act 1999 commences.
+
+(2) Subject to this section, this Act commences at the commencing time.
 
 Sex Discrimination Act 1984                   95
 
@@ -2306,23 +2539,38 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 3-Legislation history
+Endnote 3—Legislation history
 
-(p) | The Sex Discrimination Act 1984 was amended by Schedule 3 (items 1 and 57) only of the Australian Security Intelligence Organisation Legislation Amendment Act 1999 , subsection 2(2) of which provides as follows:
---- | ---
+(p) The Sex Discrimination Act 1984 was amended by Schedule 3 (items 1 and 57) only of the Australian Security Intelligence Organisation Legislation Amendment Act 1999, subsection 2(2) of which provides as follows:
+
 (2) Subject to subsections (3) to (6), Schedule 3 commences immediately after the commencement of the other Schedules to this Act.
-(q) | The Sex Discrimination Act 1984 was amended by Schedule 45 only of the Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 , subsection 2(1)(a) of which provides as follows:
+
+The other Schedules to this Act commence on Royal Assent.
+
+(q) The Sex Discrimination Act 1984 was amended by Schedule 45 only of the Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(1)(a) of which provides as follows:
+
 (1) Subject to this section, this Act commences at the later of the following times:
-(a) immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 ;
-(r) | Subsection 2(1) (item 7) of the Age Discrimination (Consequential Provisions) Act 2004 provides as follows:
+
+(a) immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
+
+Item 15 commenced on 24 May 2001.
+
+(r) Subsection 2(1) (item 7) of the Age Discrimination (Consequential Provisions) Act 2004 provides as follows:
+
 (1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
 Commencement information
---- | --- | ---
+
 Column 1 | Column 2 | Column 3
 Provision(s) | Commencement | Date/Details
-7. Schedule 2, items 23 to 28 | The later of: (a) immediately after the commencement of the Age Discrimination Act 2004 ; and (b) immediately after the commencement of Schedule 1 to the Australian Human Rights Commission Legislation Act 2004 | (paragraph (b) applies)
-(s) | The Australian Human Rights Commission Legislation Bill 2004 was not enacted. Therefore the amendment made by Schedule 2 (item 28) did not commence. Subsection 2(1) (items 13, 17 and 21) of the Fair Work (State Referral and Consequential and Other Amendments) Act 2009 provides as follows: (1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table.
+--- | --- | ---
+7. Schedule 2, items 23 to 28 | The later of: (a) immediately after the commencement of the Age Discrimination Act 2004; and (b) immediately after the commencement of Schedule 1 to the Australian Human Rights Commission Legislation Act 2004 | (paragraph (b) applies)
+
+The Australian Human Rights Commission Legislation Bill 2004 was not enacted. Therefore the amendment made by Schedule 2 (item 28) did not commence.
+
+(s) Subsection 2(1) (items 13, 17 and 21) of the Fair Work (State Referral and Consequential and Other Amendments) Act 2009 provides as follows:
+
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 96            Sex Discrimination Act 1984
 
@@ -2334,24 +2582,21 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 3-Legislation history
+Endnote 3—Legislation history
 
 Provision(s) | Commencement | Date/Details
 --- | --- | ---
-13. Schedule 5, items 32 to 64 | Immediately after the commencement of Part 2-4 of the Fair Work Act 2009 . | 1 July 2009
-17. Schedule 5, items 70 to 79 | Immediately after the commencement of Part 2-4 of the Fair Work Act 2009 . | 1 July 2009
-21. Schedule 5, Part 3 | Immediately after the commencement of Part 2-4 of the Fair Work Act 2009 . | 1 July 2009
+13. Schedule 5, items 32 to 64 | Immediately after the commencement of Part 2-4 of the Fair Work Act 2009. | 1 July 2009
+17. Schedule 5, items 70 to 79 | Immediately after the commencement of Part 2-4 of the Fair Work Act 2009. | 1 July 2009
+21. Schedule 5, Part 3 | Immediately after the commencement of Part 2-4 of the Fair Work Act 2009. | 1 July 2009
 
 (t) Subsection 2(1) (item 14) of the Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012 provides as follows:
 
-- Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
-Provision(s)
-
-Commencement Date/Details
-
-14. Schedule 4, Part 2, Division 2 | The later of: (a) immediately after the commencement of the provision(s) covered by table item 3; and (b) immediately after the commencement of Schedule 1 to the Tax Laws Amendment (Special Conditions for Not-for-profit Concessions) Act 2012 . However, the provision(s) do not commence at all unless both of the events mentioned in paragraphs (a) and (b) occur. | [ see Endnote 5] (paragraph (b) applies)
+Provision(s) | Commencement | Date/Details
 --- | --- | ---
+14. Schedule 4, Part 2, Division 2 | The later of: (a) immediately after the commencement of the provision(s) covered by table item 3; and (b) immediately after the commencement of Schedule 1 to the Tax Laws Amendment (Special Conditions for Not-for-profit Concessions) Act 2012. However, the provision(s) do not commence at all unless both of the events mentioned in paragraphs (a) and (b) occur. | [see Endnote 5] (paragraph (b) applies)
 
 Sex Discrimination Act 1984                   97
 
@@ -2363,16 +2608,19 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 4-Amendment history
+Endnote 4—Amendment history
 
-## Endnote 4-Amendment history
+## Endnote 4—Amendment history
 
 Provision affected | How affected
 --- | ---
 Title ............................................... | am. No. 180, 1992; No. 165, 1995; No. 40, 2011; No 98, 2013
 Preamble ........................................ | am. No. 40, 2011; No 98, 2013
-s. 3 ................................................. s. 4 ................................................. | am. Nos. 179 and 180, 1992; No. 165, 1995; No. 40, 2011; No 98, 2013 am. No. 72, 1984; No. 126, 1986; Nos. 80 and 87, 1988; No. 115, 1990; No. 71, 1991; Nos. 179 and 180, 1992: No. 165, 1995; No. 60, 1996; Nos. 116, 133, 146 and 161, 1999; No. 105, 2002; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009; Nos. 40 and 46, 2011; No. 169, 2012; No
-s. 4A .............................................. | ad. No. 180, 1992 am. No. 144, 2008; No. 40, 2011; No 98, 2013
+Part I
+s. 3 ................................................. | am. Nos. 179 and 180, 1992; No. 165, 1995; No. 40, 2011; No 98, 2013
+s. 4 ................................................. | am. No. 72, 1984; No. 126, 1986; Nos. 80 and 87, 1988; No. 115, 1990; No. 71, 1991; Nos. 179 and 180, 1992; No. 165, 1995; No. 60, 1996; Nos. 116, 133, 146 and 161, 1999; No. 105, 2002; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009; Nos. 40 and 46, 2011; No. 169, 2012; No 98, 2013
+s. 4A .............................................. | ad. No. 180, 1992
+am. No. 144, 2008; No. 40, 2011; No 98, 2013
 s. 4B ............................................... | ad. No. 165, 1995
 s. 5 ................................................. | am. No. 165, 1995; No. 103, 2003; No. 40, 2011; No 98, 2013
 s 5A ............................................... | ad No 98, 2013
@@ -2381,16 +2629,16 @@ s 5C ................................................ | ad No 98, 2013
 hdg to s 6 ....................................... | am No 98, 2013
 s. 6 ................................................. | am. No. 165, 1995; No 98, 2013
 s. 7 ................................................. | rs. No. 165, 1995
+am. No. 40, 2011
 s. 7AA ............................................ | ad. No. 40, 2011
 s. 7A .............................................. | ad. No. 180, 1992
 s. 7B ............................................... | ad. No. 165, 1995
 am. No. 40, 2011; No 98, 2013
+s. 7C ............................................... | ad. No. 165, 1995
 s. 7D .............................................. | ad. No. 165, 1995
 am. No. 40, 2011; No 98, 2013
 s. 8 ................................................. | am. No. 180, 1992; No. 40, 2011; No 98, 2013
-s. 9 ................................................. | am. No. 179, 1992; No. 165, 1995; No. 144, 2008; No. 70, 2009; No. 40,
-
-2011
+s. 9 ................................................. | am. No. 179, 1992; No. 165, 1995; No. 144, 2008; No. 70, 2009; No. 40, 2011
 
 98            Sex Discrimination Act 1984
 
@@ -2402,14 +2650,16 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 4-Amendment history
+Endnote 4—Amendment history
 
 Provision affected | How affected
 --- | ---
-s. 10 ............................................... | s am. No. 165, 1995; No. 133, 1999; No. 144, 2008; No. 70, 2009; No. 40, 2011; No 98, 2013
+s. 10 ............................................... | am. No. 165, 1995; No. 133, 1999; No. 144, 2008; No. 70, 2009; No. 40, 2011; No 98, 2013
 Heading to s. 11 ............................. | am. No. 40, 2011
 s. 11 ............................................... | am. No. 165, 1995; No. 133, 1999; No. 70, 2009; No. 40, 2011; No 98, 2013
 s. 11A ............................................ | ad. No. 144, 2008
+am. No. 70, 2009
+rep. No. 40, 2011
 s. 13 ............................................... | am. No. 13, 1994
 s. 13A ............................................ | ad. No. 24, 2001
 Part II
@@ -2445,7 +2695,7 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 4-Amendment history
+Endnote 4—Amendment history
 
 Provision affected | How affected
 --- | ---
@@ -2454,14 +2704,14 @@ s. 28A ............................................ | ad. No. 179, 1992
 am. No. 40, 2011; No 98, 2013
 s. 28B ............................................. | ad. No. 179, 1992
 am. No. 40, 2011
-ss. 28C-28E ................................... | ad. No. 179, 1992
+ss. 28C–28E ................................... | ad. No. 179, 1992
 s. 28F ............................................. | ad. No. 179, 1992
 am. No. 40, 2011
 Heading to s. 28G .......................... | am. No. 40, 2011
 s. 28G ............................................ | ad. No. 179, 1992
 am. No. 40, 2011
 s. 28H ............................................ | ad. No. 179, 1992
-ss. 28J-28L .................................... | ad. No. 179, 1992
+ss. 28J–28L .................................... | ad. No. 179, 1992
 Division 4
 s 30 ................................................ | am No 98, 2013
 Heading to s. 31 ............................. | am. No. 40, 2011
@@ -2491,7 +2741,7 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 4-Amendment history
+Endnote 4—Amendment history
 
 Provision affected | How affected
 --- | ---
@@ -2539,43 +2789,42 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 4-Amendment history
+Endnote 4—Amendment history
 
 Provision affected | How affected
 --- | ---
 ss. 50E, 50F ................................... | ad. No. 168, 1995
+rep. No. 133, 1999
 s. 51 ............................................... | rep. No. 133, 1999
 Div. 2 of Part III ............................ | rep. No. 133, 1999
-s. 52 ............................................... | am. No. 38, 1988; No. 165, 1992 rep. No. 133, 1999
-ss. 52A, 52B .................................. | ad. No. 165, 1992 rep. No. 133, 1999
-ss. 53-57 ........................................ Heading to Div. 3 of Part III | rep. No. 133, 1999 .......... rs. No. 126, 1986
-Div. 3 of Part III | rep. No. 133, 1999
-............................ s. 57A ............................................ | rep. No. 133, 1999 ad. No. 126, 1986
-........................................ rep. No. 133, 1999 ............................................... am. No. 126, 1986
-ss. 61-68 ........................................ | rep. No. 133, 1999
-ss. 69, 70 ........................................ | rs. No. 179, 1992 rep. No. 133, 1999
-s. 70A | ad. No. 179, 1992
+s. 52 ............................................... | am. No. 38, 1988; No. 165, 1992
 rep. No. 133, 1999
-s. 72 | rs. No. 179, 1992
-rep. No. 133, 1999 rep. No. 133, 1999
-ss. 73-75 s. 75A | ad. No. 76, 1986
-rep. No. 133,
-s. 76
-1999
-s. 77 | am. No. 179, 1992
+ss. 52A, 52B .................................. | ad. No. 165, 1992
 rep. No. 133, 1999
-No. 133, 1999
-rep.
-...............................................
-...............................................
-........................................
-...............................................
-............................................
-............................................... am. No. 179,
-s. 71
-1992
+ss. 53–57 ........................................ | rep. No. 133, 1999
+Heading to Div. 3 of Part III .......... | rs. No. 126, 1986
 rep. No. 133, 1999
-............................................
+Div. 3 of Part III ............................ | rep. No. 133, 1999
+s. 57A ............................................ | ad. No. 126, 1986
+rep. No. 133, 1999
+ss. 58, 59 ........................................ | rep. No. 133, 1999
+s. 60 ............................................... | am. No. 126, 1986
+rep. No. 133, 1999
+ss. 61–68 ........................................ | rep. No. 133, 1999
+ss. 69, 70 ........................................ | rs. No. 179, 1992
+rep. No. 133, 1999
+s. 70A ............................................ | ad. No. 179, 1992
+rep. No. 133, 1999
+s. 71 ............................................... | am. No. 179, 1992
+rep. No. 133, 1999
+s. 72 ............................................... | rs. No. 179, 1992
+rep. No. 133, 1999
+ss. 73–75 ........................................ | rep. No. 133, 1999
+s. 75A ............................................ | ad. No. 76, 1986
+rep. No. 133, 1999
+s. 76 ............................................... | rep. No. 133, 1999
+s. 77 ............................................... | am. No. 179, 1992
+rep. No. 133, 1999
 
 102            Sex Discrimination Act 1984
 
@@ -2587,7 +2836,7 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 4-Amendment history
+Endnote 4—Amendment history
 
 Provision affected | How affected
 --- | ---
@@ -2611,18 +2860,18 @@ s. 84 ............................................... | am. No. 179, 1992; No. 1
 rep. No. 59, 1995
 Div. 3A of Part III .......................... | ad. No. 59, 1995
 rep. No. 133, 1999
-ss. 83A-83F ................................... | ad. No. 59, 1995
+ss. 83A–83F ................................... | ad. No. 59, 1995
 rep. No. 133, 1999
 s. 84 ............................................... | ad. No. 59, 1995
 rep. No. 133, 1999
 Div. 4 of Part III ............................ | ad. No. 179, 1992
 rep. No. 133, 1999
-ss. 84A-84F ................................... | ad. No. 179, 1992
+ss. 84A–84F ................................... | ad. No. 179, 1992
 rep. No. 133, 1999
 Part IV
 s. 86 ............................................... | am. No. 24, 2001; No. 70, 2009
 s. 87 ............................................... | am. No. 165, 1992; No. 133, 1999; No. 24, 2001; No. 70, 2009
-ss. 88-91 ........................................ | rep. No. 133, 1999
+ss. 88–91 ........................................ | rep. No. 133, 1999
 
 Sex Discrimination Act 1984                   103
 
@@ -2634,12 +2883,13 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 4-Amendment history
+Endnote 4—Amendment history
 
 Provision affected | How affected
 --- | ---
 s. 92 ............................................... | am. No. 72, 1984; No. 126, 1986; No. 38, 1988; No. 165, 1992; No. 133, 1999; No. 24, 2001; No. 70, 2009
-s. 93 ............................................... | am. No. 133, 1999 rep. No. 137, 2000
+s. 93 ............................................... | am. No. 133, 1999
+rep. No. 137, 2000
 s. 94 ............................................... | am. No. 133, 1999; No. 70, 2009
 s. 95 ............................................... | am. No. 24, 2001; No. 70, 2009
 Part V
@@ -2647,17 +2897,19 @@ s. 96 ............................................... | am. No. 59, 1995; No. 70
 s. 97 ............................................... | am. No. 126, 1986; No. 133, 1999
 s. 98 ............................................... | am. No. 59, 1995
 s. 99 ............................................... | rs. No. 132, 1992
+am. No. 146, 1999
 s. 102 ............................................. | am. No. 132, 1992
 s. 103 ............................................. | am. No. 132, 1992; No. 46, 2011
 Note to s. 103 ................................. | ad. No. 46, 2011
 Part VI
 s. 104 ............................................. | am. No. 132, 1992; No. 133, 1999
 s. 107 ............................................. | am. No. 133, 1999
-s. 109 ............................................. | am. No. 87, 1988; No. 60, 1996; SLI 2006 No. 50 rep. No. 54, 2009
+s. 109 ............................................. | am. No. 87, 1988; No. 60, 1996; SLI 2006 No. 50
+rep. No. 54, 2009
 s. 111 ............................................. | am. No. 133, 1999; No. 70, 2009
 s. 112 ............................................. | am. No. 126, 1986; No. 24, 2001; No. 70, 2009
 Note to s. 112(3) ............................ | ad. No. 24, 2001
-s. 115 | ............................................. rep. No. 133, 1999
+s. 115 ............................................. | rep. No. 133, 1999
 
 104            Sex Discrimination Act 1984
 
@@ -2669,9 +2921,9 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 5-Uncommenced amendments
+Endnote 5—Uncommenced amendments
 
-## Endnote 5-Uncommenced amendments
+## Endnote 5—Uncommenced amendments
 
 ### Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012 (No. 169, 2012)
 
@@ -2679,7 +2931,7 @@ Endnote 5-Uncommenced amendments
 
 ##### 23  Subparagraph 23(3)(c)(ii)
 
-After -not-for-profit entity‖, insert -(within the meaning of the Income Tax Assessment Act 1997 )‖.
+After “not-for-profit entity”, insert “(within the meaning of the Income Tax Assessment Act 1997)”.
 
 ### Charities (Consequential Amendments and Transitional Provisions) Act 2013 (No. 96, 2013)
 
@@ -2691,7 +2943,17 @@ Repeal the section, substitute:
 
 ###### 36  Charities
 
-Divisions 1 and 2 do not: (a)  affect a provision (whether made before or after the commencement of this Part) of the governing rules (within the meaning of the Australian Charities and Not-for-profits Commission Act 2012 ) of a registered charity, if the provision: (i)  confers benefits for charitable purposes; or (ii)  enables such benefits to be conferred; wholly or in part on persons of a class identified by reference to any one or more of the grounds of discrimination referred to in this Act; or (b)  make unlawful any act done to give effect to such a provision.
+Divisions 1 and 2 do not:
+
+(a) affect a provision (whether made before or after the commencement of this Part) of the governing rules (within the meaning of the Australian Charities and Not-for-profits Commission Act 2012) of a registered charity, if the provision:
+
+(i) confers benefits for charitable purposes; or
+
+(ii) enables such benefits to be conferred;
+
+wholly or in part on persons of a class identified by reference to any one or more of the grounds of discrimination referred to in this Act; or
+
+(b) make unlawful any act done to give effect to such a provision.
 
 Sex Discrimination Act 1984                   105
 
@@ -2703,11 +2965,11 @@ ComLaw Authoritative Act C2013C00532
 
 Endnotes
 
-Endnote 6-Modifications [none]
+Endnote 6—Modifications [none]
 
-## Endnote 6-Modifications [none]
-## Endnote 7-Misdescribed amendments [none]
-## Endnote 8-Miscellaneous [none]
+## Endnote 6—Modifications [none]
+## Endnote 7—Misdescribed amendments [none]
+## Endnote 8—Miscellaneous [none]
 
 106            Sex Discrimination Act 1984
 
