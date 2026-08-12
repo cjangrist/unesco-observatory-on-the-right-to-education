@@ -6,7 +6,7 @@ Government of Malawi
 
 ## Towards Quality Education: Implementing the National Education Sector Plan 2009 - 2013
 
-Mi n i s t r y o f E d u c a t i o n , S c i e n c e a n d T e c h n o l o g y
+Ministry of Education, Science and Technology
 
 August 2009
 
@@ -16,17 +16,147 @@ August 2009
 
 2
 
+## TABLE OF CONTENTS
+
+ACRONYMS ...........................................................................................................................................5
+FOREWORD...........................................................................................................................................9
+PREFACE .............................................................................................................................................11
+EXECUTIVE SUMMARY ......................................................................................................................12
+1. SITUATION ANALYSIS ................................................................................................................14
+1.1 MACROECONOMIC FRAMEWORK ......................................................................................................14
+1.2 EDUCATION SECTOR CONTEXT ........................................................................................................15
+1.2.1 Overall Sector Conditions .............................................................................................15
+1.2.2 Access and Equity.........................................................................................................17
+1.2.3 Quality and Relevance ..................................................................................................18
+1.2.4 Governance and Management......................................................................................18
+1.3 VISION AND MISSION OF THE EDUCATION SECTOR ............................................................................19
+1.4 THE PRINCIPLES AND RATIONALE GOVERNING EDUCATION FINANCING IN THE MGDS ........................21
+1.5 LESSONS FROM THE IMPLEMENTATION OF PREVIOUS EDUCATION PLANS ...........................................22
+2. EDUCATION SECTOR POLICY REFORM AND STRATEGIC PRIORITIES ..............................25
+2.2.1 Strategic Priority 1: Quality and Relevance of Education ............................................27
+2.2.2 Strategic Priority 2: Access to, and Equity in, Education .............................................28
+2.2.3 Strategic Priority 3: Governance and Management of Education Delivery..................28
+SECTION C...........................................................................................................................................30
+3.0 INSTITUTIONAL FRAMEWORK AND CAPACITY DEVELOPMENT ..........................................30
+3.1 OVERVIEW ......................................................................................................................................30
+3.2 ORGANISATIONAL RESTRUCTURING AND CAPACITY ENHANCEMENT ...................................................30
+3.3 INSTITUTIONAL RESTRUCTURING ......................................................................................................31
+3.3.1 Leadership.....................................................................................................................31
+3.3.2 Institutional, Policy Linkages and Coordination ............................................................31
+3.3.3 Performance Management System...............................................................................31
+3.3.4 Planning, Monitoring and Evaluation Capacity .............................................................31
+3.3.5 Management Capacity ..................................................................................................32
+3.4 FINANCING ......................................................................................................................................32
+3.5 PROCUREMENT ...............................................................................................................................32
+3.6 INFRASTRUCTURE............................................................................................................................33
+SECTION D...........................................................................................................................................34
+4. SECTOR AND SUB-SECTOR ACTIVITIES .................................................................................34
+4.1 OVERVIEW ......................................................................................................................................34
+4.2 EARLY CHILDHOOD DEVELOPMENT...................................................................................................34
+4.2.1 Priority 1: Access and Equity .......................................................................................34
+4.2.2 Priority 2: Quality and Relevance.................................................................................34
+4.2.3 Priority 3: Governance and Management ....................................................................35
+4.3 OUT OF SCHOOL CHILDREN AND YOUTH...........................................................................................39
+4.3.1 Priority 1: Access and Equity .......................................................................................39
+4.3.2 Priority 2: Quality and Relevance.................................................................................39
+4.3.3 Priority 3: Governance and Management ....................................................................40
+4.4 ADULT LITERACY.............................................................................................................................44
+4.4.1 Priority 1: Access and Equity .......................................................................................44
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
 3
 
+4.4.2 Priority 2: Quality and Relevance.................................................................................44
+4.4.3 Priority 3: Governance and Management ....................................................................44
+4.5 PRIMARY EDUCATION ......................................................................................................................47
+4.5.1 Priority 1: Quality and Relevance.................................................................................47
+4.5.2 Priority 2: Access and Equity .......................................................................................47
+4.5.3 Priority 3: Governance and Management ....................................................................48
+4.6 SECONDARY EDUCATION PROFILE OF PROGRAMMES ........................................................................61
+4.6.1 Priority 1: Access and Equity .......................................................................................61
+4.6.2 Priority 2: Quality and Relevance.................................................................................61
+4.6.3 Priority 3: Governance and Management ....................................................................61
+4.7 TEACHER EDUCATION......................................................................................................................66
+4.7.1 Priority 1: Access and Equity .......................................................................................66
+4.7.2 Priority 2: Quality and Relevance.................................................................................66
+4.7.3 Priority 3: Governance and Management ....................................................................66
+4.8 TECHNICAL AND VOCATIONAL DEVELOPMENT PROGRAMMES.............................................................71
+4.8.1 Priority 1: Governance and Management ....................................................................71
+4.8.2 Priority 2: Access and Equity .......................................................................................71
+4.8.3 Priority 3: Quality and Relevance.................................................................................71
+4.9 HIGHER EDUCATION DEVELOPMENT PROGRAMME ............................................................................81
+4.9.1 Priority 1: Governance and Management ...................................................................81
+4.9.2 Priority 2: Access and Equity .......................................................................................81
+4.9.3 Priority 3: Quality and Relevance.................................................................................81
+4.10 INSTITUTIONAL FRAMEWORK AND CAPACITY DEVELOPMENT PROGRAMME..........................................85
+4.10.1 Governance and Management......................................................................................85
+SECTION E...........................................................................................................................................87
+5. FINANCING...................................................................................................................................87
+5.1 INTRODUCTION ................................................................................................................................87
+5.2 RESOURCE REQUIREMENT PROJECTIONS.........................................................................................87
+5.3 FUNDING GAP ANALYSIS..................................................................................................................90
+5.4 FUNDING MODALITIES......................................................................................................................91
+5.4.1 Overview .......................................................................................................................91
+5.4.2 Financial Assistance .....................................................................................................91
+5.4.3 General Budget Support ...............................................................................................91
+5.4.4 Sector Budget Support..................................................................................................91
+5.4.5 Pool Support..................................................................................................................92
+5.4.6 Project Support..............................................................................................................92
+5.5 PLANNING, BUDGETING, REPORTING AND MONITORING.....................................................................92
+5.6 FINANCIAL MANAGEMENT.................................................................................................................95
+5.7 DISBURSEMENTS BY COOPERATING PARTNERS.................................................................................95
+5.8 DISBURSEMENTS FROM MOE TO OPERATIONAL LEVELS ....................................................................96
+SECTION F ...........................................................................................................................................97
+6. MONITORING AND EVALUATION FRAMEWORK ....................................................................................97
+6.2 GUIDING PRINCIPLES.......................................................................................................................97
+6.3 ROLES AND RESPONSIBILITIES OF DEPARTMENTS AND STAKEHOLDERS .............................................98
+6.4 MONITORING INDICATORS ................................................................................................................98
+6.5 RESEARCH AGENDA LINKED TO POLICY REFORM ..............................................................................99
+
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
 4
+
+APPENDIX A.......................................................................................................................................106
+Ministry of Women and Child Development ............................................................................................107
+Ministry of Youth and Sports Development.............................................................................................107
+Ministry of Public Works.....................................................................................................................107
+Ministry of Economic Planning and Development.....................................................................................107
+Ministry of Health..............................................................................................................................107
+Ministry of Water and Sanitation ..........................................................................................................107
+Ministry of Local Government..............................................................................................................107
+Local Assemblies .............................................................................................................................107
+REFERENCES....................................................................................................................................104
+
+## TABLES
+
+Table 1: Enrolment vs. ORT Funding Trends in Primary and Secondary Schools (2000 - 2008)......16
+Table 2: Malawi's Progress Towards Achieving the MDGs ................................................................21
+Table 3 Policy Reform Agenda ..........................................................................................................26
+Table 4: ECD Activity Matrix ...............................................................................................................36
+Table 5: Out of School Children and Youth ........................................................................................40
+Table 6: Adult Literacy Activity Matrix .................................................................................................45
+Table 7: Primary Education Activity Matrix..........................................................................................49
+Table 8: Secondary Education Activity Matrix.....................................................................................62
+Table 9: Teacher Education Activity Matrix.........................................................................................67
+Table 10: Technical and Vocational Education Activity Matrix .............................................................72
+Table 11: Higher Education Activity Matrix ...........................................................................................82
+Table 12: Administration and Support Services Activity Matrix ............................................................86
+Table 13: Summary of Total Required Resources by Sub-Sector 2009-2013 .....................................87
+Table 14: Percentage Allocation of Total Required Resources by Sub-sector.....................................88
+Table 15: Summary of the Total Required Recurrent Resources by Sub-sector .................................88
+Table 16: Percentage Share of Required Recurrent Resources by Sub-sector...................................89
+Table 17: Summary of Capital Resource Projections by Sub-sector....................................................89
+Table 18: Percentage Share of Required Capital Resources by Sub-sector .......................................90
+Table 19: Funding Gap Analysis for ESIP (2009).................................................................................90
+Table 20: Total Annual Financing Gaps................................................................................................91
+Table 21: Planning, Budgeting, Reporting and Monitoring Calendar ...................................................93
+Table 22: Key Monitoring Indicators of the NESP ..............................................................................100
 
 [[END OF PAGE 4]]
 
@@ -263,11 +393,11 @@ WHO | World Health Organisation
 
 ## FOREWORD
 
-The National Education Sector Plan (2007-17) sets out the Government's approach for achieving the national education goals and objectives between 2008 and 2017. The goals and objectives stipulate expanded equitable access to education, improved quality and relevant education and improved governance and management of the sector as three key themes for positively realising the Malawi Growth and Development Strategy (MGDS). Indeed, the MGDS is the pillar for socio-economic and industrial growth for Malawi and the main thrust of the national plan for poverty reduction. As a sign of commitment, the Government has increased its allocation of funds to the Education Sector in the current (2009/10) national budget to improve the quality and efficiency of the system. Through this increased funding, the Government shows its support for the policy reform agenda, including a focus on decentralisation, community support to education programmes and informationsharing.
+The National Education Sector Plan (2007-17) sets out the Government's approach for achieving the national education goals and objectives between 2008 and 2017. The goals and objectives stipulate expanded equitable access to education, improved quality and relevant education and improved governance and management of the sector as three key themes for positively realising the Malawi Growth and Development Strategy (MGDS). Indeed, the MGDS is the pillar for socio-economic and industrial growth for Malawi and the main thrust of the national plan for poverty reduction. As a sign of commitment, the Government has increased its allocation of funds to the Education Sector in the current (2009/10) national budget to improve the quality and efficiency of the system. Through this increased funding, the Government shows its support for the policy reform agenda, including a focus on decentralisation, community support to education programmes and information-sharing.
 
 The means for realising the MGDS through education are many and varied, sometimes involving very specific actions by the Government through ministries such as Education, Science and Technology, Women and Child Development and Youth Development and Sports and, at other times, involving direction or support from private individuals or institutions and civil societies.
 
-The Education Sector Implementation Plan (ESIP) 2009-2013 serves as a guide for the articulation of the broad development objectives of the NESP strategy 20082018. It extracts strategies and activities to be undertaken in the five-year period which would later be refined and redefined in annual work plans and budgets. The ESIP is an operational tool for all managers and implementers at every level of the education system.
+The Education Sector Implementation Plan (ESIP) 2009-2013 serves as a guide for the articulation of the broad development objectives of the NESP strategy 2008-2018. It extracts strategies and activities to be undertaken in the five-year period which would later be refined and redefined in annual work plans and budgets. The ESIP is an operational tool for all managers and implementers at every level of the education system.
 
 The ESIP serves as an important instrument for monitoring implementation performance (targeting mainly outcomes and impact). In this respect, it should provide the framework for tracking resource applications.
 
@@ -285,7 +415,7 @@ The document consists of six sections.
 
 [[START OF PAGE 10]]
 
- Section D sets out the broad programmes by sub-sector. It covers objectives, expected outcomes and the main activities to be implemented over the 20092013 period.
+ Section D sets out the broad programmes by sub-sector. It covers objectives, expected outcomes and the main activities to be implemented over the 2009-2013 period.
 
  Section E discusses the funding modalities, presenting various options for financing the National Education Sector Plan. It also covers issues of planning, budgeting, reporting and monitoring as well as financial management.
 
@@ -297,7 +427,8 @@ I sincerely wish to thank all education stakeholders who, through several consul
 
 It is the hope of the Ministry that this document will serve not only as a plan of implementation but as a catalogue of priorities and activities which the Government, development partners, civil society organisations and all other stakeholders in the sector can endorse and contribute to in a tangible manner. Such a movement towards harmonisation and coordination of efforts in the education sector will go a long way towards the realisation of our common goal: the provision of quality education to all Malawians.
 
-Dr. George T. Chaponda, MP Minister of Education, Science and Technology
+Dr. George T. Chaponda, MP
+Minister of Education, Science and Technology
 
 10
 
@@ -327,7 +458,7 @@ Secretary for Education, Science and Technology
 
 The National Education Sector Plan (NESP) 2008-17 sets out the Government of Malawi's (GoM) strategy for achieving national education goals and objectives for the coming decade (2008-2017). The Education Sector Implementation Plan (ESIP) 2009-2013 serves as a guide for the articulation of the broad development objectives of the NESP strategy 2008-2018. The ESIP is an operational tool for all managers and implementers at every level of the education system. The ESIP responds to critical issues identified in most recent sector analyses, especially the Country Status Report, 2009 (CSR): it indicates major policy reforms, sets clear priorities for each sub-sector by NESP and Education for All (EFA) goal and presents realistic and sustainable budget options.
 
-The objective of this ESIP is to provide details of the activities that each education sub-sector will undertake in the four-year period 2009-2013 in order to fulfil the strategies to achieve the NESP goals. The ESIP sets the following priorities: basic education (early childhood development, primary education, out of school children and youth and adult literacy), secondary education, teacher education, technical, entrepreneurial and vocational education and higher education, respectively. Within basic education, primary education is accorded the highest priority, followed by early childhood development (ECD), out of school children and youth and adult literacy.The ESIP organises these priorities into three thematic areas, as (i) access and equity, (ii) quality and relevance, and (iii) governance and management.
+The objective of this ESIP is to provide details of the activities that each education sub-sector will undertake in the four-year period 2009-2013 in order to fulfil the strategies to achieve the NESP goals. The ESIP sets the following priorities: basic education (early childhood development, primary education, out of school children and youth and adult literacy), secondary education, teacher education, technical, entrepreneurial and vocational education and higher education, respectively. Within basic education, primary education is accorded the highest priority, followed by early childhood development (ECD), out of school children and youth and adult literacy. The ESIP organises these priorities into three thematic areas, as (i) access and equity, (ii) quality and relevance, and (iii) governance and management.
 
 The main components of the ESIP include:
 
@@ -372,13 +503,17 @@ Compared with other Sub-Saharan African countries, the rate of Malawi's domestic
 
 In terms of donor support, Malawi still receives the bulk of its assistance in the form of project aid, which accounted for 65.2% of official development assistance in 2007/08 (Malawi Aid Atlas). In 2007/08, Malawi received support from its development partners amounting to MK76.3 billion, an increase of MK13.7 billion from MK62.6 billion reported in the 2006/07 financial year. Out of total project aid disbursed, Malawi received 10.6%, the third highest allocation across Government.
 
-The Government of Malawi developed the Malawi Growth and Development Strategy (MGDS) as its overarching policy framework for 2006-2011. The overall objective of the MGDS is to reduce poverty through sustained economic growth and infrastructure development. The MGDS tries to balance wealth creation and social development for Malawi. However, the stated priority of the strategy is towards economic growth, with less emphasis on investments in social development such as education and health. However, economic growth will have a big impact on the development of these social sectors. Contrary to the MGDS statement, the current policy statements do give more emphasis to education. This underscores the need for the NESP to be endorsed so that there can be increased funding and attention to the education sector, thereby mitigating the priority of the Government development strategy towards direct economic growth. Government strategies for the education sector, in particular those relating to the fulfilment of the Millennium Development Goals (MDGs) and Education for All (EFA) requirements, are captured under the theme of social development. Implementation of the MGDS takes place through the Government budget, in line with the Medium Term Expenditure Framework. Budgeting in Malawi has moved from the traditional line-item format towards activitybased budgeting. This has led to some improvements in monitoring and achievement of results although challenges remain. The challenges include weaknesses in the execution of medium-term budgeting and capacity constraints in these institutions.
+The Government of Malawi developed the Malawi Growth and Development Strategy (MGDS) as its overarching policy framework for 2006-2011. The overall objective of the MGDS is to reduce poverty through sustained economic growth and infrastructure development. The MGDS tries to balance wealth creation and social development for Malawi. However, the stated priority of the strategy is towards economic growth, with less emphasis on investments in social development such as education and health. However, economic growth will have a big impact on the development of these social sectors. Contrary to the MGDS statement, the current policy statements do give more emphasis to education. This underscores the need for the NESP to be endorsed so that there can be increased funding and attention to the education sector, thereby mitigating the priority of the Government development strategy towards direct economic growth. Government strategies for the education sector, in particular those relating to the fulfilment of the Millennium Development Goals (MDGs) and Education for All (EFA) requirements, are captured under the
 
 14
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+theme of social development. Implementation of the MGDS takes place through the Government budget, in line with the Medium Term Expenditure Framework.
+
+Budgeting in Malawi has moved from the traditional line-item format towards activity-based budgeting. This has led to some improvements in monitoring and achievement of results although challenges remain. The challenges include weaknesses in the execution of medium-term budgeting and capacity constraints in these institutions.
 
 The Government of Malawi, through its strategies and reforms, aims to improve the social and economic conditions of the country. The mandate of the Ministry of Education is to contribute towards social development as articulated in the MGDS. The National Education Sector Plan (NESP) is the Ministry's tool for fulfilling this mandate. The NESP is a 10-year plan addressing the three thematic areas of access and equity; quality and relevance and governance and management. The objective of the Education Sector Implementation Plan (ESIP) is to operationalise the NESP.
 
@@ -404,11 +539,13 @@ The quality of education offered is negatively affected by multiple factors incl
 
 Higher education in Malawi is characterised by low enrolment rates, limited infrastructure, high unit costs and internal inefficiencies as well as inequities regarding access to these institutions. Enrolment figures are among the lowest in the region, with only 52 students per 100,000 inhabitants, and the unit cost of higher education is 22 times the GDP per capita of Malawi, compared with the average SADC cost of three times GDP per capita.
 
-The total education public recurrent expenditures amounted to MK22.3 billion in the 2007/08 fiscal year 1 . This represents 19.4% of total Government recurrent expenditures and it is an increase compared with 2001/02 (16%). Preliminary data for 2008/09 indicates a decreasing trend that would prevent Malawi from catching up with both the SADC average (20.8%) and the EFA-FTI reference benchmark (20%). Primary education receives the largest share of the recurrent education expenditures with 44% of the total. The share for higher education (27%) is higher than that for secondary education (22%). The share allocated to pre-school, literacy, TEVET and teacher training does not exceed 7% in total.
+The total education public recurrent expenditures amounted to MK22.3 billion in the 2007/08 fiscal year¹. This represents 19.4% of total Government recurrent expenditures and it is an increase compared with 2001/02 (16%). Preliminary data for 2008/09 indicates a decreasing trend that would prevent Malawi from catching up with both the SADC average (20.8%) and the EFA-FTI reference benchmark (20%). Primary education receives the largest share of the recurrent education expenditures with 44% of the total. The share for higher education (27%) is higher than that for secondary education (22%). The share allocated to pre-school, literacy, TEVET and teacher training does not exceed 7% in total.
 
 In particular, the expansion of the primary and secondary education sectors required proportionate increases in funding to the education system. However, this has not been the case in Malawi. Table 1 below illustrates that, in real terms, the increases in Government funding to the education sector have been negligible. On average, in the eight-year period under review, the average growth rate in primary and secondary school enrolment exceeded the growth rate in ORT funding. The growth rate in ORT funding surpassed the growth rate in enrolment in only two years during the period.
 
-2000/01 | 2001/02 | 2002/03 | 2003/04 | 2004/05 | 2005/06 | 2006/07 | 2007/08
+Table 1: Enrolment vs. ORT Funding Trends in Primary and Secondary Schools (2000-2008)
+
+ | 2000/01 | 2001/02 | 2002/03 | 2003/04 | 2004/05 | 2005/06 | 2006/07 | 2007/08
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Primary Education
 Enrolment | 3 067 843 | 3 187 835 | 3 164 191 | 3 067 843 | 3 166 786 | 3 200 646 | 3 280 714 | 3 306 926
@@ -421,11 +558,9 @@ Enrolment growth rate | 0% | 7% | -41% | 12% | 32% | 2% | 17% | -4%
 Real ORT (1994 constant prices) | 62 770 738 | 47 185 316 | 22 533 709 | 36 307 715 | 36 464 570 | 31 435 750 | 34 142 911 | 37 723 785
 Real ORT growth rate | 0 | -29% | -74% | 48% | 0% | -15% | 8% | 10%
 
-Table 1: Enrolment vs. ORT Funding Trends in Primary and Secondary Schools (2000-2008)
+Source: EMIS 2000-2008; Approved Budget Documents (No. 5), 2000/01 – 2007/08
 
-Source: EMIS 2000-2008; Approved Budget Documents (No. 5), 2000/01 - 2007/08
-
-There are a number of development agencies supporting education in Malawi. They provided US$53.8 million in support of the education sector in 2007/08. On average, between 2004 and 2006, education in Malawi benefited from aid equivalent to 1.9% of GDP (compared with 1.1% of GDP on average in Sub-Saharan Africa). 1.2% of GDP was direct support to education and 0.7% of GDP was the estimated education share from global budget support.
+There are a number of development agencies supporting education in Malawi. They provided US$53.8 million in support of the education sector in 2007/08. On average, between 2004 and 2006, education in Malawi benefited from aid equivalent to 1.9% of GDP (compared with 1.1% of GDP on average in Sub-Saharan Africa). 1.2% of
 
 > 1 This figure includes all education expenditures from the Ministry of Education (MoE) and all other ministries outside the MoE.
 
@@ -434,6 +569,8 @@ There are a number of development agencies supporting education in Malawi. They 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
+GDP was direct support to education and 0.7% of GDP was the estimated education share from global budget support.
 
 ##### 1.2.2 Access and Equity
 
@@ -459,17 +596,19 @@ The second theme identified in the NESP/ESIP relates to quality and relevance, a
 
 The internal efficiency coefficient at the primary level remains particularly low (35% in 2007). This implies that 65% of public resources are used for repeated years or for school years of students who are dropping out before completing the cycle. Indeed, the system requires 23 student-years to produce one graduate instead of 8 years with a perfect efficiency. The situation has slightly worsened since 1999, when the IEC was 39%. An increase in repetition is mainly responsible for this degradation and the related rise in wasted resources. Evidence, at national and international level, shows that high repetition rates do not favour better mastery of learning and also have adverse effects on student-teacher ratios, progression rates and costs. In 1999, repetition induced a 20% waste of resources (partial IEC of 80%); in 2007, the waste of resources was 29% (partial index of efficiency of 71%). Dropout also remains a major issue, inducing a 50% waste of resources. Indeed, in a system with no repetitions, the partial efficiency index (dropout-related only) would be 49%. High dropout rates have the greatest adverse affect on the efficiency of the system. Internal efficiency at secondary level is slightly better. Inefficiencies resulting from repetition in the secondary sub-sector remained low at 5-6% between 2004 and 2007. The major problems in the sub-sector stem from dropouts, which alone led to 29% wastage of public resources in 2007. Much gain in internal efficiency could be realised from a reduction in dropout and repetition.
 
-The Southern & Eastern Africa Consortium for Monitoring Education Quality (SACMEQ), measures pupil performance on a comparative basis. SACMEQ test scores and national examination pass rates over the past decade confirm that education quality in Malawi is poor and deteriorating. The percentage of children reaching a minimum level of mastery in reading in English halved over the 19982004 period, to reach barely 9% in 2004. After 6 years of primary schooling, there are still 15% of children who are not literate. Pass rates at national examinations range from 74% for PSLE to 52% for JCE and to 44% for MSCE. The low achievement at MSCE is striking and raises serious issues on the level of knowledge acquired throughout the schooling system. The ministry is currently implementing a curriculum and assessment reform programme in primary education. Major issues include the way in which learning is assessed and how learners progress through the system.
+The Southern & Eastern Africa Consortium for Monitoring Education Quality (SACMEQ), measures pupil performance on a comparative basis. SACMEQ test scores and national examination pass rates over the past decade confirm that education quality in Malawi is poor and deteriorating. The percentage of children reaching a minimum level of mastery in reading in English halved over the 1998-2004 period, to reach barely 9% in 2004. After 6 years of primary schooling, there are still 15% of children who are not literate. Pass rates at national examinations range from 74% for PSLE to 52% for JCE and to 44% for MSCE. The low achievement at MSCE is striking and raises serious issues on the level of knowledge acquired throughout the schooling system. The ministry is currently implementing a curriculum and assessment reform programme in primary education. Major issues include the way in which learning is assessed and how learners progress through the system.
 
 ##### 1.2.4 Governance and Management
 
-The third theme highlighted in the NESP/ESIP is that of governance and management of the education system, to enable more effective and efficient delivery of services. The 2008/09 Malawi Education Country Status Report revealed that in 2007 as many as 42% of teachers in the primary education sub-sector were allocated randomly rather than according to the number of students enrolled in schools. This was well above the SADC average of 31% and suggests that there is need for improvement in the management of human resources at primary level. The allocation of teachers in Malawi is highly skewed towards urban areas. Pupilqualified teacher ratios in primary schools in urban areas were at 46:1 compared with 86:1 in rural areas. Even greater disparities are seen when considering deployment of qualified teachers. Indeed, their allocation tends to have benefited urban settings (47:1), leaving rural areas seriously deprived of qualified teachers (95:1). This disparity largely emanates from the lack of incentives to deploy and retain qualified teachers in rural settings.
+The third theme highlighted in the NESP/ESIP is that of governance and management of the education system, to enable more effective and efficient delivery of services. The 2008/09 Malawi Education Country Status Report revealed that in 2007 as many as 42% of teachers in the primary education sub-sector were
 
 18
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+allocated randomly rather than according to the number of students enrolled in schools. This was well above the SADC average of 31% and suggests that there is need for improvement in the management of human resources at primary level. The allocation of teachers in Malawi is highly skewed towards urban areas. Pupil-qualified teacher ratios in primary schools in urban areas were at 46:1 compared with 86:1 in rural areas. Even greater disparities are seen when considering deployment of qualified teachers. Indeed, their allocation tends to have benefited urban settings (47:1), leaving rural areas seriously deprived of qualified teachers (95:1). This disparity largely emanates from the lack of incentives to deploy and retain qualified teachers in rural settings.
 
 The situation at the secondary level is relatively better, where the degree of randomness in teacher allocation was observed to be 28%. Thus, at secondary level, 72% of teachers are allocated to public schools based on the number of students enrolled in the schools, as opposed to unexplained factors. Community Day Secondary Schools (CDSSs) are less well-resourced than other schools, although they enrol nearly half of the secondary student population. They are under-funded, have under-qualified teachers, poorer learning environments and lack appropriate teaching and learning materials and equipment.
 
@@ -515,18 +654,18 @@ In implementing its Vision and Mission, Malawi will make its main Strategic Prio
 
 [[START OF PAGE 21]]
 
-Goal | MDGIndicator | MDGtarget (2015) | Baseline (1990) | 2004 | 2005 | 2006 | 2007
+Table 2: Malawi's Progress towards Achieving the MDGs
+
+Goal | MDG Indicator | MDG target (2015) | Baseline (1990) | 2004 | 2005 | 2006 | 2007
 --- | --- | --- | --- | --- | --- | --- | ---
 [1] Eradicating extreme poverty. | Poverty Head Count. | 27% | 54% | 52% | 50% | 45% | 40%
 [2] Achieving universal primary education. | Net Enrolment Ratio. | 100% | 58% | 82% | 76% | 73% | 75%
 [3] Promoting gender equality and empowering women. | Ratio of girls to boys in primary school. | 1 | 0.87 | 0.95 | 0.95 | 0.95 | 0.99
 [4] Reducing child mortality. | Under-five mortality rate. | 8% | 23% | 13% | 12% | 11% | 10%
 [5] Improving maternal health. | Maternal mortality rate | 0.16% | 0.62% | 0.98% | 0.90% | 0.81% | 0.70%
-[6] Combating HIV and AIDS, malaria and other diseases. | HIV prevalence among 15- 24 year old pregnant women. | 0% | 17% | 15% | 15% | 12% | 11%
+[6] Combating HIV and AIDS, malaria and other diseases. | HIV prevalence among 15-24 year old pregnant women. | 0% | 17% | 15% | 15% | 12% | 11%
 [7] Ensuring environmental sustainability. | Proportion of land area covered by forest. | 50% | 41% | 36% | 36% | 35% | 35%
-[8] Developing global partnerships for development. | Net ODAas a proportion of Gross National Income. | Undefined | 11% | 17% | 18% | 19% | 19%
-
-Table 2: Malawi's Progress towards Achieving the MDGs
+[8] Developing global partnerships for development. | Net ODA as a proportion of Gross National Income. | Undefined | 11% | 17% | 18% | 19% | 19%
 
 Source: 2008 Ministry of Economic Planning and Development MDGs report
 
@@ -604,7 +743,7 @@ Against this background, this chapter has presented the Ministry's reduced list 
 
  Strengthen institutional and policy linkages and coordination.
 
- Reorientation of the sector budget to the financing of core functions and better integration of Government budget resources and donor supp ort.
+ Reorientation of the sector budget to the financing of core functions and better integration of Government budget resources and donor support.
 
 23
 
@@ -630,13 +769,13 @@ The Malawi education system belongs to everyone and reinvigorating it will take 
 
 A policy agenda designed to address the critical issues of retention, promotion and quality has been designed based upon the information contained in the following documents:
 
- Malawi Country Status Report (2008/2009) , which is a detailed analytical document of the education sector that serves to highlight the weaknesses and strengths of the sector and ultimately recommends remedial policies on a subsectoral basis to help improve quality, access and governance in the system.
+ Malawi Country Status Report (2008/2009), which is a detailed analytical document of the education sector that serves to highlight the weaknesses and strengths of the sector and ultimately recommends remedial policies on a sub-sectoral basis to help improve quality, access and governance in the system.
 
- National Education Sector Plan and the Operational Supplements , which outline the priorities of the sector and the strategies and activities to address these priorities.
+ National Education Sector Plan and the Operational Supplements, which outline the priorities of the sector and the strategies and activities to address these priorities.
 
- The Draft National Education Sector Policy Statement (2008) , which is a consolidation of all the policies governing the education sector in the country.
+ The Draft National Education Sector Policy Statement (2008), which is a consolidation of all the policies governing the education sector in the country.
 
-An important policy issue which arises from these documents and cuts across all the education sub-sectors is the need to improve quality and efficiency within the subsectors, in particular in the Basic Education sub-sector. Based on the findings of the Malawi Country Status Report, the triggers to improving the quality of learning at the most important level - the school - are primarily dependent on the following policy targets: (1) reducing wastage and inefficiency in the system, ie reducing dropout and repetition rates; (2) drastic measures to reduce pupil-qualified teacher ratios, eg the introduction of parallel and distance modes of training, recruitment of assistant teachers; (3) better managing the allocation of teaching staff and other resources in schools; (4) scaling up classroom construction; (5) bigger role for the private sector and private financing, and (6) much more focus on In-Service Training (INSET) and Continuous Professional Development (CPD), among others. In Higher Education, one of the important policy reforms is the cost sharing through student loans which will reduce the burden on the Government and increase access to higher education. Clearly, there is an urgent need for radical interventions to take place. The most critical (potential) policy options to address these key areas during the 2009-2013 implementation cycle are outlined in the table below.
+An important policy issue which arises from these documents and cuts across all the education sub-sectors is the need to improve quality and efficiency within the sub-sectors, in particular in the Basic Education sub-sector. Based on the findings of the Malawi Country Status Report, the triggers to improving the quality of learning at the most important level - the school - are primarily dependent on the following policy targets: (1) reducing wastage and inefficiency in the system, ie reducing dropout and repetition rates; (2) drastic measures to reduce pupil-qualified teacher ratios, eg the introduction of parallel and distance modes of training, recruitment of assistant teachers; (3) better managing the allocation of teaching staff and other resources in schools; (4) scaling up classroom construction; (5) bigger role for the private sector and private financing, and (6) much more focus on In-Service Training (INSET) and Continuous Professional Development (CPD), among others. In Higher Education, one of the important policy reforms is the cost sharing through student loans which will reduce the burden on the Government and increase access to higher education. Clearly, there is an urgent need for radical interventions to take place. The most critical (potential) policy options to address these key areas during the 2009-2013 implementation cycle are outlined in the table below.
 
 25
 
@@ -644,13 +783,13 @@ An important policy issue which arises from these documents and cuts across all 
 
 [[START OF PAGE 26]]
 
+Table 3: Policy Reform Agenda
+
 Overall Goals | Policy Targets | Priority Actions
 --- | --- | ---
 Equity and Access |  Construction and rehabilitation of school infrastructure  Reduced primary GERs and increased NERs (towards 100%)  Gender parity in primary and secondary school enrolment |  Accelerate construction of classrooms, teachers' houses, girls' hostels, and new TTCs  Rehabilitate and upgrade infrastructure in older education institutions  Improve retention of girls in Standards 6 - 8 and transition of girls into secondary education  Roll out 'mother groups' in all schools  Increase recruitment and training of female teachers  Increase provision of teaching and learning materials  Encourage growth of ECD and CBE centres
 Quality and Relevance |  Reduced Pupil:Teacher Ratios in primary schools (especially in Standards 1-3)  Measurement and monitoring of learning outcomes  Systematic and regular inspection of all institutions |  Recruit additional teachers and/or teaching assistants each year  Increase the output of trained teachers (through new TTCs and the ODL programme)  Provide Continuing Professional Development (CPD) for teachers at all levels  Introduce double-shifting (and overlapping shifts) in schools with high PTRs and pupil:classroom ratios  Recruit and train more inspectors to increase frequency of inspection visits to schools  Introduce standardized testing to measure and monitor quality of learning and teaching
 Governance and Management |  Decentralization of management and financing of primary education  Improved efficiency through reduced repetition and dropout rates  Increased role for the private sector and for private financing |  Institutionalize Direct Support to School (DSS) (grants paid into schools' own bank accounts)  Increase the participation of local communities and SMCs in primary school management  Strengthen 'Whole School Development' (planning, management, regulations, discipline, etc.)  Develop and implement teacher incentives strategy to improve deployment and reduce attrition  Implement strategy to control repetition in primary schools and increase promotion and completion rates  Improve the coverage of the student loan scheme and recovery of loans after graduation  Encourage public-private partnerships in education and establishment of private institutions
-
-Table 3: Policy Reform Agenda
 
 26
 
@@ -658,14 +797,14 @@ Table 3: Policy Reform Agenda
 
 [[START OF PAGE 27]]
 
-#### .2 Strategic Priorities
+#### 2.2 Strategic Priorities
 
 ##### 2.2.1 Strategic Priority 1: Quality and Relevance of Education
 
 The EFA Goals urge that all aspects of the quality of education should be improved in order to achieve excellence in learning outcomes. This is a sentiment echoed in the NESP and is the overarching priority of the Ministry of Education, Science and Technology in Malawi. In the NESP, this important strategic theme is identified as Quality and Relevance and is aimed at reducing dropout and repetition as well as the promotion of effective learning. The focuses of the Ministry of Education in the implementation period are:
 
 ###### Teacher Professional Development :
-This initiative focuses on addressing the critical concern of getting more and better qualified teachers into the education system to reduce pupil-teacher ratios and promote quality teaching and learning. This will be achieved by an intensive drive to train and upgrade the qualifications of more teachers. The Ministry will increase the number of qualified teachers in the education system by constructing and expanding teacher training colleges and implementing a distance learning programme for teacher trainees. Recruitment of assistant teachers is also a new initiative designed as a shortterm measure to fill gaps. It is envisaged that these recruits will be fast-tracked to join one of the approved teacher training programmes offered, after two years of service. To address the existing problem of the quality of learning, the Ministry plans to maximise the use of Teacher Development Centres as resource centres for continuous teacher development.
+This initiative focuses on addressing the critical concern of getting more and better qualified teachers into the education system to reduce pupil-teacher ratios and promote quality teaching and learning. This will be achieved by an intensive drive to train and upgrade the qualifications of more teachers. The Ministry will increase the number of qualified teachers in the education system by constructing and expanding teacher training colleges and implementing a distance learning programme for teacher trainees. Recruitment of assistant teachers is also a new initiative designed as a short-term measure to fill gaps. It is envisaged that these recruits will be fast-tracked to join one of the approved teacher training programmes offered, after two years of service. To address the existing problem of the quality of learning, the Ministry plans to maximise the use of Teacher Development Centres as resource centres for continuous teacher development.
 
 The Ministry, however, recognises that the mere production of teachers is not sufficient to redress the problem of shortages owing to high rates of absenteeism and attrition. Therefore, the Ministry will simultaneously introduce a package of teacher incentives to motivate and retain the majority of teachers trained at Government's expense in our school as well as measures to enhance attendance, retention and promote quality of learning in the classroom. Similar initiatives have to be implemented in the non-formal education sectors of adult literacy and out of school youth. There is need to improve on the quality of instructors by providing them with adequate training as well as through the provision of various incentives to improve their retention.
 
@@ -673,7 +812,7 @@ The Ministry, however, recognises that the mere production of teachers is not su
 The focus of curricula reform is to ensure that the curriculum being offered in schools in Malawi is one which is relevant and will provide graduates with the necessary knowledge and skills to be successful in all future endeavours. To this end, the Ministry is rolling out PCAR in primary education and plans to revise the curricula offered at all other levels of education, enhancing their practicality, modes of delivery and forms of assessment. Furthermore, the Ministry will focus on improving the pedagogy and teaching methods used in schools, assessment of learning outcomes and pupils achievement as well as inspection and quality assurance in the system.
 
 ###### Teaching and Learning Materials:
-The Ministry will focus on providing these inputs to all learning institutions, including those of non-formal education, to create a positive on the quality of education offered and received. The Ministry will adopt innovative and untraditional means of providing teaching and learning
+The Ministry will focus on providing these inputs to all learning institutions, including those of non-formal education, to create a positive impact on the quality of education offered and received. The Ministry will adopt innovative and untraditional means of providing teaching and learning
 
 27
 
@@ -688,7 +827,7 @@ materials, eg Teaching and Learning Using Locally Available Resources (TALULAR),
 The Government of Malawi is committed to ensuring access to education for all its citizens, and the NESP subsequently aims to ' ensure that all children have access to, and complete, free and quality primary education' in line with the EFA Goal of free and compulsory education of good quality for all by 2015. The focus of the Ministry of Education during this implementation period is to increase the number of children accessing all levels of education. Another common theme running through the EFA goals is that of equity. Equitable access to education for all, as well as the more progressive assertion that gender disparities in primary and secondary education should be eliminated, is targeted by EFA. The NESP identifies equity as a main strategic priority and targets those children disadvantaged by gender, poverty, special needs and geographical location.
 
 ###### Infrastructure Development:
-The focus of infrastructure development is to improve and expand educational infrastructure through the construction, rehabilitation and maintenance of classrooms, school facilities and teachers' housing, especially in rural areas. Further, the Ministry will construct disabilityfriendly facilities, as well as expand and improve girl-friendly structures, including sanitary facilities and female school accommodation. This will be executed by both Government and community efforts.
+The focus of infrastructure development is to improve and expand educational infrastructure through the construction, rehabilitation and maintenance of classrooms, school facilities and teachers' housing, especially in rural areas. Further, the Ministry will construct disability-friendly facilities, as well as expand and improve girl-friendly structures, including sanitary facilities and female school accommodation. This will be executed by both Government and community efforts.
 
 ###### Complementary Schemes :
 The aim of this initiative is to maximise the use of existing educational infrastructure through double-shifting and multi-grade teaching. Programmes catering for early childhood development, complementary basic education, out of school youth education and adult literacy will be implemented to help widen access to education for every section of the population.
@@ -744,7 +883,7 @@ From the functional review and capacity gap analysis conducted within the EFA/FT
 
 In order to implement the ESIP effectively and efficiently, the Ministry of Education will focus on the following:
 
-[a] Establish an effective mechanism for the enhancement of the decentralisation process through raising the profile of Direct Support to schools and schoolbased financing which is aligned to the performance of such schools using school-based internal efficiency as a basic criterion.
+[a] Establish an effective mechanism for the enhancement of the decentralisation process through raising the profile of Direct Support to schools and school-based financing which is aligned to the performance of such schools using school-based internal efficiency as a basic criterion.
 
 [b] Strengthen leadership, organisational culture, management systems and practices at school and zone or cluster level through the active engagement of communities and redefinition of the roles and rules for the SMCs and PTAs.
 
@@ -776,7 +915,7 @@ To address the weak leadership capacities they have identified, the Ministry of 
 
 ##### 3.3.2 Institutional, Policy Linkages and Coordination
 
-Capacity assessments conducted by the MoE indicate weaknesses in institutional and policy linkages. In light of this, MoE will implement periodic reviews of policies to improve linkages, encourage teamwork at intraand inter-ministerial level and improve monitoring and evaluation and analytical capacity to enable the assessment of policy impact within the realms of the ESIP. Using the communication strategy, the MoE will establish regular communications channels such as regular meetings and the systematic circulation of performance reports.
+Capacity assessments conducted by the MoE indicate weaknesses in institutional and policy linkages. In light of this, MoE will implement periodic reviews of policies to improve linkages, encourage teamwork at intra- and inter-ministerial level and improve monitoring and evaluation and analytical capacity to enable the assessment of policy impact within the realms of the ESIP. Using the communication strategy, the MoE will establish regular communications channels such as regular meetings and the systematic circulation of performance reports.
 
 ##### 3.3.3 Performance Management System
 
@@ -804,7 +943,7 @@ MoE is aware that there is need to strengthen the management capacity across all
 
 The successful implementation of the ESIP requires effective and efficient allocation and management of resources. The MoE is engaged in the process of strengthening the Public Financial Management Systems at all levels. This has included filling vacancies in accounting personnel across all levels, training personnel in Public Financial Management and rolling out Integrated Financial Management Systems to schools and Teacher Training Colleges.
 
-In addition to the above, the MoE, in collaboration with Local Government Authorities, the Ministry of Finance and the National Local Government Financing Committee, will develop a school-based financial allocation formula and a districtbased rationalised training plan for financial management.
+In addition to the above, the MoE, in collaboration with Local Government Authorities, the Ministry of Finance and the National Local Government Financing Committee, will develop a school-based financial allocation formula and a district-based rationalised training plan for financial management.
 
 #### 3.5 Procurement
 
@@ -848,13 +987,15 @@ Most ECD centres currently lack adequate facilities. ECD infrastructure is gener
 
 ##### 4.2.2 Priority 2: Quality and Relevance
 
-Currently, the ECD centres in Malawi are of various quality levels, requiring standardisation and improvement. Efforts to improve the quality and relevance of ECD services in Malawi have included development and implementation of simple standards and tools for the ECD centres. Despite the availability of ECD standards covering quality and relevance of services, the standards are not adequately reinforced and service providers are not adequately coordinated or regulated. Most of them are community based, thereby run by volunteers who dedicate part of their time to take care of the children. As a result, even if the ECD Teachers or caregivers have been trained, the training that they have received is not adequate to prepare them to handle children in transition to primary school. The current ECD curriculum needs to be reviewed in line with the school readiness requirements. The capacity of the Government training institution for ECD is limited and therefore needs improvement. According to the CBCC mapping, only 20% of ECD infrastructure is purpose-built for ECD use.
+Currently, the ECD centres in Malawi are of various quality levels, requiring standardisation and improvement. Efforts to improve the quality and relevance of ECD services in Malawi have included development and implementation of simple standards and tools for the ECD centres. Despite the availability of ECD standards covering quality and relevance of services, the standards are not adequately
 
 34
 
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
+
+reinforced and service providers are not adequately coordinated or regulated. Most of them are community based, thereby run by volunteers who dedicate part of their time to take care of the children. As a result, even if the ECD Teachers or caregivers have been trained, the training that they have received is not adequate to prepare them to handle children in transition to primary school. The current ECD curriculum needs to be reviewed in line with the school readiness requirements. The capacity of the Government training institution for ECD is limited and therefore needs improvement. According to the CBCC mapping, only 20% of ECD infrastructure is purpose-built for ECD use.
 
 .
 
@@ -872,19 +1013,20 @@ Supportive supervision and monitoring is not regularly conducted as designed. Fo
 
 [[START OF PAGE 36]]
 
-Basic Education: Early Childhood Development Education. EFA Goal: Expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Table 4: ECD Activity Matrix
+
+Basic Education: Early Childhood Development Education.
+EFA Goal: Expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children.
 NESP Goal 1: Expand equitable access to Early Childhood Development.
 NESP Strategy | Activities | Outputs | Estimated Costs MK000
-2009-2010 | 2010- 2011 | 2011- 2012 | 2012- 2013 | 2009- 2010 | 2010-2011 | 2011- 2012 | 2012- 2013
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013
 Objective: Improve, expand, and maximise use of ECD infrastructure.
 [1.1] Provide grants to communities for the upgrading of preschool, including sanitary facilities and kitchen utensils. | 1.1.1 Increase the number of well resourced community-based ECD centres to 1,512. | 1,512 | 1,512 | 1,512 | 1,512 | 18,000 | 18,000 | 18,000 | 18,000
-1.1.2 Provide direct support to communities to construct new CBCCs. | 1,432 | 1,432 | 1,432 | 1,432 | 56,500 | 56,000 | 56,500 | 56,500
-1.1.3 Equip 100% ECD centres with teaching, learning and playing materials. | 1,432 | 1,432 | 1,432 | 1,432 | 12,800 | 12,800 | 12,800 | 12,800
+ | 1.1.2 Provide direct support to communities to construct new CBCCs. | 1,432 | 1,432 | 1,432 | 1,432 | 56,500 | 56,000 | 56,500 | 56,500
+ | 1.1.3 Equip 100% ECD centres with teaching, learning and playing materials. | 1,432 | 1,432 | 1,432 | 1,432 | 12,800 | 12,800 | 12,800 | 12,800
 [1.2] Raise the profile and visibility of ECD. | 1.2.1 Hold sensitisation meetings for the general public, policy-makers and technocrats on the importance of ECD. | 4 | 4 | 4 | 4 | 4,000 | 4,000 | 4,000 | 4,000
-1.2.2 Creating website for ECD. | 1 | 1 | 1 | 1 | 150 | 80 | 80 | 80
-
-Table 4: ECD Activity Matrix
+ | 1.2.2 Creating website for ECD. | 1 | 1 | 1 | 1 | 150 | 80 | 80 | 80
 
 36
 
@@ -893,16 +1035,17 @@ Table 4: ECD Activity Matrix
 [[START OF PAGE 37]]
 
 NESP Goal 2: Improve quality and relevance of ECD services.
+Objective: Develop the capacity of ECD teachers.
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Objective: Develop the capacity of ECD teachers. | 2.1.1 Train full time caregivers in ECD and distribute relevant learning aids and play resources | 2,500 | 2,500 | 2,500 | 2,500 | 32,500 | 32,500 | 32,500 | 32,500
-4 | 3 | 2 | 2 | 7,000 | 5,500 | 4,000 | 4,500
-[2.1] Build capacity to design, develop and implement ECD programmes. | 2.1.3 Develop ECD curriculum for 4-5 year olds | 4 | 3 | 2 | 2 | 6,800 | 5,500 | 4,000 | 4,000
-2.1.4 Orientate stakeholders on Early Learning and Development Standards and ECD curriculum for 4- 5 year olds for Malawi. | 2 | 1 | 0 | 0 | 3,500 | 2,630 | 3,500 | 3,500
-2.1.5 Train ECD certificate teachers | 30 | 30 | 30 | 30 | 7,200 | 7,200 | 7,200 | 7,200
-2.1.6 Train ECD diploma Technical staff | 0 | 30 | 40 | 40 | 16,800 | 22,400 | 22,400 | 224,000
-2.1.7 Improve complete physical assessment at CBCCs | 2,500 | 157,500 | 315,500 | 325,000 | 100 | 6,300 | 12,600 | 13,000
+[2.1] Build capacity to design, develop and implement ECD programmes. | 2.1.1 Train full time caregivers in ECD and distribute relevant learning aids and play resources | 2,500 | 2,500 | 2,500 | 2,500 | 32,500 | 32,500 | 32,500 | 32,500
+ |  | 4 | 3 | 2 | 2 | 7,000 | 5,500 | 4,000 | 4,500
+ | 2.1.3 Develop ECD curriculum for 4-5 year olds | 4 | 3 | 2 | 2 | 6,800 | 5,500 | 4,000 | 4,000
+ | 2.1.4 Orientate stakeholders on Early Learning and Development Standards and ECD curriculum for 4-5 year olds for Malawi. | 2 | 1 | 0 | 0 | 3,500 | 2,630 | 3,500 | 3,500
+ | 2.1.5 Train ECD certificate teachers | 30 | 30 | 30 | 30 | 7,200 | 7,200 | 7,200 | 7,200
+ | 2.1.6 Train ECD diploma Technical staff | 0 | 30 | 40 | 40 | 16,800 | 22,400 | 22,400 | 224,000
+ | 2.1.7 Improve complete physical assessment at CBCCs | 2,500 | 157,500 | 315,500 | 325,000 | 100 | 6,300 | 12,600 | 13,000
 2.2 Scale up SHN's nutrition components. | 2.2.1 Increase understanding of SHN and integrate appropriate components in ECD centres | 50 CBCCS | 3,150 CBCCs | 6,300 CBCCs | 6,500 CBCCs | 0 | 0 | 0 | 0
-2.2.2 MK40/child estimated in the calculations to cover: MK10/child for growth monitoring by HSA for scales, heights boards, transport, assessment materials. | 2,500 children | 157,500 children | 315,000 children | 325,000 children | 100 | 6,300 | 12,600 | 13,000
+ | 2.2.2 MK40/child estimated in the calculations to cover: MK10/child for growth monitoring by HSA for scales, heights boards, transport, assessment materials. | 2,500 children | 157,500 children | 315,000 children | 325,000 children | 100 | 6,300 | 12,600 | 13,000
 
 37
 
@@ -911,11 +1054,12 @@ Objective: Develop the capacity of ECD teachers. | 2.1.1 Train full time caregiv
 [[START OF PAGE 38]]
 
 NESP Goal 3: Improve governance and management of ECD services.
+Objective: Improve service delivery for ECD.
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-[3.1] Provide the remuneration teachers | 3.1.1 Introduce remuneration of ECD teachers | 2,500 | 2,000 | 3,000 | 4,500 | 50,000 | 55,000 | 60,000 | 65,000
-3.1.2 Introduce remuneration of ECD, tutors | 2,500 | 2,000 | 3,000 | 4,500 | 50,000 | 55,000 | 60,000 | 65,000
-3.1.3 Introduce remuneration of ECD advisors | 2,500 | 2,000 | 3,000 | 4,500 | 50,000 | 55,000 | 60,000 | 65,000
-[3.2] Strengthen coordination | 3.2.1 Conduct functional review for the MOW&CD | 0 | 1 | 0 | 0 | 0 | 3,285 | 0 | 0
+[3.1] Provide and Improve the remuneration to ECD teachers and advisors. | 3.1.1 Introduce remuneration of ECD teachers | 2,500 | 2,000 | 3,000 | 4,500 | 50,000 | 55,000 | 60,000 | 65,000
+ | 3.1.2 Introduce remuneration of ECD, tutors | 2,500 | 2,000 | 3,000 | 4,500 | 50,000 | 55,000 | 60,000 | 65,000
+ | 3.1.3 Introduce remuneration of ECD advisors | 2,500 | 2,000 | 3,000 | 4,500 | 50,000 | 55,000 | 60,000 | 65,000
+[3.2] Strengthen coordination of ECD. | 3.2.1 Conduct functional review for the MOW&CD | 0 | 1 | 0 | 0 | 0 | 3,285 | 0 | 0
 3.2.2 Fill the vacancies in the department responsible for ECD at Ministry and district levels | 0 | 15 | 15 | 15 | 0 | 15,240 | 15,240 | 15,240
 3.2.3 Lobby Ministry of Finance to provide budget line for ECD | 0 | 1 | 1 | 1 | 0 | 4,665 | 4,665 | 4,665
 3.2.3 Strengthen capacity to improve the statistical information system on ECD | 1 | 1 | 1 | 1 | 730 | 730 | 730 | 730
@@ -959,7 +1103,7 @@ There are a number of education programmes for youth. These have targeted areas 
 
 ##### 4.3.3 Priority 3: Governance and Management
 
-The Complementary Basic Education programme is coordinated by the Basic Education Directorate. An appropriately staffed and resourced unit is needed in order to manage the scaling up of the programme. Similarly, the youth education programmes coordinated by the MoYDS require a unit with both management and monitoring capacities to make the programmes more systematic. Both units would work together to finalise education policies for youth, including those who are schoolaged but out of school.
+The Complementary Basic Education programme is coordinated by the Basic Education Directorate. An appropriately staffed and resourced unit is needed in order to manage the scaling up of the programme. Similarly, the youth education programmes coordinated by the MoYDS require a unit with both management and monitoring capacities to make the programmes more systematic. Both units would work together to finalise education policies for youth, including those who are school-aged but out of school.
 
 Community and parental involvement are important for the effective management of education programmes for out of school children and youth. This requires increased dialogue among stakeholders at different levels: local, district and central. Not all communities are aware of the importance of attaining basic education and literacy and further efforts are needed to reinforce such messages.
 
@@ -971,20 +1115,22 @@ Community and parental involvement are important for the effective management of
 
 Table 5: Out of School Children and Youth
 
-EFA GOAL: Ensuring that learning needs of young people and adults are met through equitable access to appropriate learning and life-skills programmes. EFA GOAL: Ensuring that, by 2015, all children, particularly girls, children in difficult circumstances and those belonging to ethnic minorities, have access to and complete free and compulsory primary education of good quality.
+EFA GOAL: Ensuring that learning needs of young people and adults are met through equitable access to appropriate learning and life-skills programmes.
+EFA GOAL: Ensuring that, by 2015, all children, particularly girls, children in difficult circumstances and those belonging to ethnic minorities, have access to and complete free and compulsory primary education of good quality.
 
-NESP Goal 1: Provide access | to equitable complementary | modes of education Outputs | to out of | school children and | youth. | Estimated Costs MK000
+NESP Goal 1: Provide access to equitable complementary modes of education to out of school children and youth.
+NESP Strategy | Activities | Outputs | Estimated Costs MK000
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-NESP Strategy | Activities | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2009- 2010 | 2010- 2011 | 2011- 2012 | 2012- 2013
+ |  | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013
 Objective: Improve equitable access to basic education programmes to out of school children and youth, including those with special needs.
-[1] Scale up complementary basic education targeting school-aged out of | 1.1 Maintain existing learning centres | 340 centres | 700 centres | 1,180 centres | 1,780 centres | 275,000 | 470,000 | 700,000 | 930,000
-school children and youth | 1.2 Open new learning centres | 360 centres | 480 centres | 600 centres | 600 centres | 90,000 | 120,000 | 150,000 | 150,000
+[1] Scale up complementary basic education targeting school-aged out of school children and youth | 1.1 Maintain existing learning centres | 340 centres | 700 centres | 1,180 centres | 1,780 centres | 275,000 | 470,000 | 700,000 | 930,000
+ | 1.2 Open new learning centres | 360 centres | 480 centres | 600 centres | 600 centres | 90,000 | 120,000 | 150,000 | 150,000
 Objective: Increase participation of out of school children and youth, including those with special needs and orphans and other vulnerable children.
-[2] Apply social protection strategies to ultra-poor families for attendance of over- aged children at CBE learning centres | 2.1 Provide monthly support payments to children of qualifying families regularly attending CBE classes | 21,000 children | 35,400 children | 53,400 children | 71,400 children | 12,600 | 67,680 | 106,560 | 149,760
+[2] Apply social protection strategies to ultra-poor families for attendance of over-aged children at CBE learning centres | 2.1 Provide monthly support payments to children of qualifying families regularly attending CBE classes | 21,000 children | 35,400 children | 53,400 children | 71,400 children | 12,600 | 67,680 | 106,560 | 149,760
 NESP GOAL 2: Improve quality and relevance of education services to out of school children and youth
 Objective: Improve literacy outcomes of education classes
-[3] Use IRI to enhance learning gains and heighten curriculum relevance | 3.1 Develop IRI to support CBE and related youth curricula | 150 programmes developed for Year 1 CBE | 150 programmes developed for Year 2 CBE | 150 programmes developed for Year 3 CBE | 150,000 | 150,000 | 150,000
-3.2 Implement programmes | Programmes implemented 600 centres | Programmes implemented for 1,200 centres | 100,000 | 100,000
+[3] Use IRI to enhance learning gains and heighten curriculum relevance | 3.1 Develop IRI to support CBE and related youth curricula |  | 150 programmes developed for Year 1 CBE | 150 programmes developed for Year 2 CBE | 150 programmes developed for Year 3 CBE |  | 150,000 | 150,000 | 150,000
+ | 3.2 Implement programmes |  |  | Programmes implemented 600 centres | Programmes implemented for 1,200 centres |  |  | 100,000 | 100,000
 
 41
 
@@ -1013,11 +1159,10 @@ Objective: Establish and utilise appropriate management systems.
 
 [[START OF PAGE 43]]
 
-[7.2] Improve systematic monitoring and evaluation of programmes for out of school children and youth | 7.2.1 Conduct monitoring visits | Monitoring reports produced | Monitoring reports produced | Monitoring reports produced | 1,000 | 1,000 | 1,000
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+[7.2] Improve systematic monitoring and evaluation of programmes for out of school children and youth | 7.2.1 Conduct monitoring visits |  | Monitoring reports produced | Monitoring reports produced | Monitoring reports produced |  | 1,000 | 1,000 | 1,000
 Objective: Encourage community and parental involvement in the management of education programmes for out of school children and youth.
-[8.1] Strengthen dialogue between youth clubs, service | 8.1.1 Hold regular meetings at district level to share experiences | Reports disseminated | Reports disseminated | Reports disseminated | 2,000 | 2,000 | 2,000
-providers and policy makers | 8.1.2 Finalise and disseminate education policies for out of school children and youth | Agreed and approved Policy disseminated | 2,000
+[8.1] Strengthen dialogue between youth clubs, service providers and policy makers | 8.1.1 Hold regular meetings at district level to share experiences |  | Reports disseminated | Reports disseminated | Reports disseminated |  | 2,000 | 2,000 | 2,000
+ | 8.1.2 Finalise and disseminate education policies for out of school children and youth | Agreed and approved Policy disseminated |  |  |  | 2,000 |  |  | 
 [8.2] Promote advocacy on the importance of attaining basic education and literacy | 8.2.1 Sensitise communities on importance of basic education for OOSCY | 1,000 meetings held | 1,750 meetings held | 2,500 meetings held | 3,250 meetings held | 5,000 | 8,750 | 12,500 | 16,250
 
 43
@@ -1050,23 +1195,25 @@ The non-formal education sub-sector has no comprehensive policy and no proper sy
 
 [[START OF PAGE 45]]
 
-EFA GOAL: Ensuring that, by 2015, all children have access to and complete free and quality education. EFA Goal: Expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children. NESP Goal 1: Expand equitable access to Adult Literacy.
+Table 6: Adult Literacy Activity Matrix
+
+EFA GOAL: Ensuring that, by 2015, all children have access to and complete free and quality education.
+EFA Goal: Expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children.
+NESP Goal 1: Expand equitable access to Adult Literacy.
+NESP Strategy | Activities | Outputs | Estimated Costs (MK000)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-NESP Strategy | Estimated Costs (MK000)
-Activities | 2009-2010 | 2010- 2011 | 2011- 2012 | 2012- 2013 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013
+ |  | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013
 Objective 1: Increase the number of Adult Literacy Centres.
-[1.1] Scale up adult literacy and post- literacy programmes. | 1.1.1 Recruitment and training of instructors | 4,000 | 4,000 | 4,000 | 0 | 20,000 | 20,000 | 20,000 | 20,000
-1.1.2 Open AL Centres | 4,000 | 4,000 | 4,000 | 0 | 0 | 0 | 0 | 0
-1.1.3 Conduct Adult Literacy campaigns targeting both men and women | 3 | 3 | 3 | 3 | 2,000 | 2,000 | 2,000 | 2,000
+[1.1] Scale up adult literacy and post-literacy programmes. | 1.1.1 Recruitment and training of instructors | 4,000 | 4,000 | 4,000 | 0 | 20,000 | 20,000 | 20,000 | 20,000
+ | 1.1.2 Open AL Centres | 4,000 | 4,000 | 4,000 | 0 | 0 | 0 | 0 | 0
+ | 1.1.3 Conduct Adult Literacy campaigns targeting both men and women | 3 | 3 | 3 | 3 | 2,000 | 2,000 | 2,000 | 2,000
 [1.2] Develop business management skills. | 1.2.1 Disburse grants to committees | 0 | 100 | 100 | 200 | 0 | 8,000 | 8,000 | 8,000
 NESP GOAL 2: Improve Quality and Relevance of Adult Literacy Services.
 Objective: Develop Adult Literacy Curriculum.
 [2.1] Develop curricula for adult literacy instructors and supervisor. | 2.1.1 Review curriculum and Integrate Nutrition/HIV Education aid Special Needs into curricula | Curriculum reviewed | 0 | 0 | 0 | 2,800 | 0 | 0 | 0
-2.1.2 Develop, print and distribute curricula materials | 250,000 primers and teachers guides printed | 0 | 0 | 0 | 2,800 | 0 | 0 | 0
-2.1.3 Implementation of curricula | 0 | 100 | 100 | 100 | 0 | 1,800 | 1,800 | 1,800
-2.1.4 Monitor Implementation of curricula | 4 visits | 4 | 4 | 4 | 1,000 | 1,000 | 1,000 | 1,000
-
-Table 6: Adult Literacy Activity Matrix
+ | 2.1.2 Develop, print and distribute curricula materials | 250,000 primers and teachers guides printed | 0 | 0 | 0 | 2,800 | 0 | 0 | 0
+ | 2.1.3 Implementation of curricula | 0 | 100 | 100 | 100 | 0 | 1,800 | 1,800 | 1,800
+ | 2.1.4 Monitor Implementation of curricula | 4 visits | 4 | 4 | 4 | 1,000 | 1,000 | 1,000 | 1,000
 
 45
 
@@ -1134,20 +1281,22 @@ School and community participation has long been considered a necessary prerequi
 
 [[START OF PAGE 49]]
 
-EFA GOAL: Ensuring that, by 2015, all children have access to and complete free and quality education. EFA Goal: Expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children.
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Activities | Outputs | Estimated Costs (MK000)
-NESP Strategy | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013
-[1.1] Introduce and implement teacher assistants in primary classrooms. | 1.1.1 Develop guidelines for use of teaching assistants | Guidelines produced | 3,000
-1.1.2 Recruit and deploy assistant teachers | 1,000 assistant teachers | 3,500 assistant teachers | 3,500 assistant teachers | 3,500 assistant teachers | 126,000 | 430,000 | 430,000 | 430,000
-1.1.3 Provide induction training to teaching assistants | 3,500 teaching assistants | 3,500 teaching assistants | 3,500 teaching assistants | 3,500 teaching assistants | No direct costs
-Objective: Improve the relevance of primary education.
-[1.2] Complete the primary curriculum and assessment reform (PCAR). | 1.2.1 Evaluate and revise PCAR textbooks for Standards 1 to 8 | Evaluate and revise PCAR textbooks for Standards 1, 2, 5 & 6 | Evaluate and revise PCAR textbooks for Standards 3 & 7 | Evaluate and revise PCAR textbooks for Standards 4 & 8 | 5,000 | 5,000 | 5,000
-1.2.2 Provide textbooks for the reformed primary curriculum for Standards 4 & 8 | 6,500,000 learners' books and 185,000 teachers' guides | 1,138,000
-1.2.3 Orientate Standard 4 & 8 teachers to PCAR | 15,500 teachers | 217,000
-1.2.4 Continued development and broadcast of materials for IRI (Tikwere radio programme) | 300 programmes broadcast (Standards 1 & 2). 150 Standard 3 programmes developed | 450 programmes broadcast. 150 Standard 4 programmes developed | 600 programmes broadcast. 150 Standard 5 programmes developed | 750 programmes broadcast. 150 Standard 6 programmes developed | 6,250 | 9, 375 | 12,500 | 15,625
-
 Table 7: Primary Education Activity Matrix
+
+EFA GOAL: Ensuring that, by 2015, all children have access to and complete free and quality education.
+EFA Goal: Expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children.
+NESP Goal 1: Expand equitable access to Adult Literacy.
+NESP Strategy | Activities | Outputs | Estimated Costs (MK000)
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013
+[1.1] Introduce and implement teacher assistants in primary classrooms. | 1.1.1 Develop guidelines for use of teaching assistants | Guidelines produced |  |  |  | 3,000 |  |  | 
+ | 1.1.2 Recruit and deploy assistant teachers | 1,000 assistant teachers | 3,500 assistant teachers | 3,500 assistant teachers | 3,500 assistant teachers | 126,000 | 430,000 | 430,000 | 430,000
+ | 1.1.3 Provide induction training to teaching assistants | 3,500 teaching assistants | 3,500 teaching assistants | 3,500 teaching assistants | 3,500 teaching assistants | No direct costs
+Objective: Improve the relevance of primary education.
+[1.2] Complete the primary curriculum and assessment reform (PCAR). | 1.2.1 Evaluate and revise PCAR textbooks for Standards 1 to 8 | Evaluate and revise PCAR textbooks for Standards 1, 2, 5 & 6 | Evaluate and revise PCAR textbooks for Standards 3 & 7 | Evaluate and revise PCAR textbooks for Standards 4 & 8 |  | 5,000 | 5,000 | 5,000 | 
+ | 1.2.2 Provide textbooks for the reformed primary curriculum for Standards 4 & 8 | 6,500,000 learners' books and 185,000 teachers' guides |  |  |  | 1,138,000 |  |  | 
+ | 1.2.3 Orientate Standard 4 & 8 teachers to PCAR | 15,500 teachers |  |  |  | 217,000 |  |  | 
+ | 1.2.4 Continued development and broadcast of materials for IRI (Tikwere radio programme) | 300 programmes broadcast (Standards 1 & 2). 150 Standard 3 programmes developed | 450 programmes broadcast. 150 Standard 4 programmes developed | 600 programmes broadcast. 150 Standard 5 programmes developed | 750 programmes broadcast. 150 Standard 6 programmes developed | 6,250 | 9, 375 | 12,500 | 15,625
 
 49
 
@@ -1227,7 +1376,7 @@ Objective: Improve teacher deployment to and within rural areas.
 
 Objective: Increase participation of girls, AIDS-affected children and children with special education with complementary activities to reduce dropout rates and promote retention.
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2.7.1 Provision of micro- nutrient supplements. | 3,800,000 children | 3,900,000 children | 4,000,000 children | 4,100,000 children | 532,000 | 546,000 | 560,000 | 574,000
+[2.7] Scale up school health and nutrition programme and HIV programming. | 2.7.1 Provision of micro-nutrient supplements. | 3,800,000 children | 3,900,000 children | 4,000,000 children | 4,100,000 children | 532,000 | 546,000 | 560,000 | 574,000
 2.7.2 Support and expand de-worming programme in schools | 3,800,000 children | 3,900,000 children | 4,000,000 children | 4,100,000 children | Built into micronutrients
 2.7.3 provide school meals to targeted schools | 900 | 998 | 1,100 | 1,200 | 2,500,000 | 3,100,000 | 3,500,000 | 4,100,000
 2.7.4 Scaling up safe, healthy and productive school environments. | 500 schools | 1,000 schools | 1,500 schools | 2,000 schools | 5,000 | 10,000 | 10,000 | 10,000
@@ -1269,10 +1418,10 @@ Objective: Increase participation of girls, AIDS-affected children and children 
 2.12.3 Link ECD to early primary consideration supply of play material | 5,500 communities and 315 TDC material | 5,500 communities and 315 TDC based materials | 5,500 communities and 315 TDC based materials | 5,500 communities and 315 TDC based materials | 6,300 | 6,300 | 6,300 | 6,300
 NESP Goal 3: Improve governance and management of the system of primary education to enable more effective and efficient delivery of services.
 Objective: Strengthen decentralisation of delivery of education services including planning, budgeting and financing.
-[3.1] Expand governance and management training for de- central level, eg district education officials, PTA and School Management Committees. | 3.1.1 Training of senior school staff for improved school management and school improvement planning. | 3 each from 1,500 schools | 3 each from 1,500 schools | 3 each from 1,500 schools | 3 each from 1,500 schools | 31,500 | 31,500 | 31,500 | 31,500
+[3.1] Expand governance and management training for de-central level, eg district education officials, PTA and School Management Committees. | 3.1.1 Training of senior school staff for improved school management and school improvement planning. | 3 each from 1,500 schools | 3 each from 1,500 schools | 3 each from 1,500 schools | 3 each from 1,500 schools | 31,500 | 31,500 | 31,500 | 31,500
 3.1.2 Training for support of SMCs' increased role in school, procurement and financial management. | 1,500 schools | 1,500 schools | 1,500 schools | 1,500 schools | 3,000 | 3,000 | 3,000 | 3,000
 3.1.3 Technical training and support for district assembly and education staff. | 34 education districts | 34 education districts | 34 education districts | 34 education districts | 40,000 | 30,000 | 5,000 | 5,000
-3.2.1 Finalise guidelines and SMC training manual. | 8,000 manuals printed | 30,000
+[3.2] Improve community participation in school management. | 3.2.1 Finalise guidelines and SMC training manual. | 8,000 manuals printed | 30,000
 3.2.2 Implement training programme for SMCs and district education officials. | 3 trainings per SMC | 3 trainings per SMC | 3 trainings per SMC | 3 trainings per SMC | 40,000 | 40,000 | 40,000 | 40,000
 3.2.3 Monitor impact of training on management and learning in schools. | 34 District level reports on SMC performance | 34 District level reports on SMC performance | 34 District level reports on SMC performance | 34 District level reports on SMC performance | 27,000 | 27,000 | 27,000 | 27,000
 
@@ -1329,7 +1478,7 @@ Objective: Improve internal efficiency of the system.
 [3.9] Strengthen education research. | 3.9.1 Develop research agenda for primary education in association with MIE, CERT and other research bodies. | Research agenda completed.
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 3.9.2 Commission relevant research in accordance to research agenda. | 5 research studies | 5 research studies | 5 research studies | 5 research studies | 14,000 | 14,000 | 14,000 | 14,000
-3.9.3Disseminate and use research findings for evidenced based decision- making. | 5 meetings | 5 meetings | 5 meetings | 5 meetings
+3.9.3Disseminate and use research findings for evidenced based decision-making. | 5 meetings | 5 meetings | 5 meetings | 5 meetings
 [3.10] Enhance knowledge sharing of the education system. | 3.10.1 Develop simplified versions of NESP and ESIP for dissemination to relevant stakeholders. | 50,000 copies printed | 40,000
 3.10.2 Conduct dissemination workshops and awareness campaigns through the media including radio. | Radio campaign | 5,000
 3.10.3 Harmonise national education policy statements with other policies and guidelines (including planning and budgeting guidelines). | Finalise harmonisation | 5,000
@@ -1374,10 +1523,10 @@ NESP Strategy | Activities | 2009- 2010 | 2010-2011 | 2011- 2012 | 2012- 2013 | 
 Objective: Improve equitable access to secondary schools.
 [1.1] Increase the number of classrooms in secondary schools, taking into account special needs requirements. | 1.1.1 Upgrade Community Day Secondary Schools | 34 | 20 | 20 | 20 | 2,806,136 | 1,650,668 | 1,650,668 | 1,650,668
 1.1.2 Rehabilitate and refurbish existing Convention Secondary Schools | 14 | 15 | 15 | 16 | 420,000 | 450,000 | 450,000 | 480,000
-Enhance learning opportunities for disadvantaged groups through targeted interventions. | 1.2.1 Provide bursaries for needy and gifted students | 6,000 | 7,000 | 8,000 | 9,000 | 80,000 | 91,000 | 104,000 | 117,000
+[1.2] Enhance learning opportunities for disadvantaged groups through targeted interventions. | 1.2.1 Provide bursaries for needy and gifted students | 6,000 | 7,000 | 8,000 | 9,000 | 80,000 | 91,000 | 104,000 | 117,000
 1.2.2 Construct hostels for girls including sanitary facilities (eg compost toilets) | 10 | 12 | 15 | 18 | 600,000 | 720,000 | 900,000 | 1,080,000
 1.2.3 Explore and provide SHN services to learners | Meeting to establish needs | 50 schools | 100 schools | 200 schools | 0 | 3,300 | 6,600 | 13,100
-Promote treatment, care support to both learners teachers. | 1.3.1 Conduct Life Skills and HIV/AIDS training for all teachers | To be identified | 500 | 1,000 | 1,000 | - | 10,000 | 20,000 | 20,000
+[1.3] Promote treatment, care and support to both learners and teachers. | 1.3.1 Conduct Life Skills and HIV/AIDS training for all teachers | To be identified | 500 | 1,000 | 1,000 | - | 10,000 | 20,000 | 20,000
 1.3.2 Sensitise all learners and teachers on the availability of VCT services | To be identified | 7,500 | - | - | - | 11,000 | - | -
 1.3.3.Provide psychological support for all learners and teachers | 1,500 | - | 6,000 | 7,000 | 8,000
 1.3.4 Strengthen T'LIPO activities | 1,500 | 1,650 | 1,850 | - | 6,000 | 8,000 | 10,000
@@ -1390,11 +1539,11 @@ Promote treatment, care support to both learners teachers. | 1.3.1 Conduct Life 
 
 [1.4] Expand secondary education opportunities through complementary schemes. | 1.4.1 Provide secondary education through ODL mode | 33,000 | 35,000 | 38,000 | 41,000 | 30,000 | 32,000 | 35,000 | 37,000
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-1.4.2. Introduce double shift in schools with high PqTR | Map out teacher placement profile and establish needs for redeploy- ment | 9 schools | 7 schools | 5 schools | 0 | 72,000 | 56,000 | 40,000
+1.4.2. Introduce double shift in schools with high PqTR | Map out teacher placement profile and establish needs for redeployment | 9 schools | 7 schools | 5 schools | 0 | 72,000 | 56,000 | 40,000
 [1.5] Strengthen public-private partnerships in providing secondary education. | 1.5.5 Develop system to register, monitor and support private schools | System developed | - | - | - | 632 | 700 | 710 | 720
 1.5.2. Review the guidelines for registration to be in tune with the set standards | Guidelines reviewed | - | - | -
 1.5.3 Register all private schools | 339 registered | 400 | 450 | 500
-[1.6] Establish an efficient Form 1 selection system. | 1.6.1 Develop an electronic selection system | System developed and pre- tested | Roll out system | Roll out system | Roll out system | 2,940 | - | - | -
+[1.6] Establish an efficient Form 1 selection system. | 1.6.1 Develop an electronic selection system | System developed and pre-tested | Roll out system | Roll out system | Roll out system | 2,940 | - | - | -
 
 63
 
@@ -1405,14 +1554,14 @@ Promote treatment, care support to both learners teachers. | 1.3.1 Conduct Life 
 NESP Goal 2: Improve quality and relevance of secondary education.
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Objective: Improve the quality and relevance of the secondary education.
-[2.1] Increase secondary school relevant qualifications. | 2.1.1 Train under-qualified teachers to Diploma at DCE (upgrading) | 220 trainees | 220 trainees | 220 trainees | 220 trainees | 50,000
+[2.1] Increase the number of secondary school teachers with relevant qualifications. | 2.1.1 Train under-qualified teachers to Diploma at DCE (upgrading) | 220 trainees | 220 trainees | 220 trainees | 220 trainees | 50,000
 2.1.2 Train unqualified teachers to UCE level (upgrading) | 30 trainees | 30 trainees | 30 trainees | 30 trainees | 9,000
 2.1.3 Train under-qualified teachers through the bridging course at Mzuni | 400 | 386,000
 2.1.4 Train new secondary school teachers at Universities
 2.1.5 Conduct professional development of teachers through regular INSETs | 3,400 | 3,800 | 4,200 | 4,500 | 229,000 | 274,000 | 309,000 | 365,000
-2.1.6 Conduct orientation for Open Secondary Schools Supervisors (OSSS) | 300 super- visors | 300 super- visors | 300 super- visors | 300 super- visors | 2,788 | 3,000 | 3,200 | 3,500
+2.1.6 Conduct orientation for Open Secondary Schools Supervisors (OSSS) | 300 supervisors | 300 supervisors | 300 supervisors | 300 supervisors | 2,788 | 3,000 | 3,200 | 3,500
 2.1.7 Construct a satellite secondary school teachers training college | 1 college | 1,051,696,800
-[2.2] Strengthen management inspection and | 2.2.1 Train Inspectors | 130 | - | - | 80 | 25,000 | - | - | 16,000
+[2.2] Strengthen overall management and monitoring of inspection and advisory. | 2.2.1 Train Inspectors | 130 | - | - | 80 | 25,000 | - | - | 16,000
 2.2.2 Develop relevant assessment tools | Tools developed | - | - | - | 956 | - | - | 956
 2.2.3 Review and develop assessment standards | Standards reviewed and developed | - | - | - | 3,500 | - | - | -
 2.2.4 Conduct full inspections visits to both public and private schools | 300 schools | 500 | 600 | 600 | 16,000 | 22,000 | 25,000 | 26,000
@@ -1431,10 +1580,10 @@ Objective: Improve the quality and relevance of the secondary education.
 2.3.5 Conduct action research | 2 studies | 3 studies | 3 studies | 2 studies | 14,000 | 21,000 | 21,000 | 14,000
 2.3.6 Orientate teachers in new curriculum | Develop manuals | 8,698 | - | - | - | 400,000 | - | -
 2.3.7 Orientate tutors and lecturers at DCE and Universities in new curriculum | Develop manuals | 230 | - | - | - | 18,000 | - | -
-[2.4] Provide relevant teaching materials. | 2.4.1 Procure and distribute learners textbooks | 717 schools | - | - | - | 685,000 | 700,000 | 720,000 | 740,000
+[2.4] Provide adequate and relevant teaching and learning materials. | 2.4.1 Procure and distribute learners textbooks | 717 schools | - | - | - | 685,000 | 700,000 | 720,000 | 740,000
 2.4.2 Procure and distribute teachers handbooks and teaching aids | 717 schools | - | - | -
 2.4.3 Procure and science kits, laboratory equipments and chemicals | - | 120 CDSS | 140 CDSS | 140
-2.4.4 Replenish depleted teaching and learning materials | Replenish- ment strategy | - | - | 717 schools | - | - | -
+2.4.4 Replenish depleted teaching and learning materials | Replenishment strategy | - | - | 717 schools | - | - | -
 [2.5] Provide appropriate incentives to attract teachers especially in rural secondary schools. | 2.5.1 Construct teachers' houses | 112 | 100 | 100 | 100 | 896,000 | 864,000 | 864,000 | 864,000
 2.5.2 Introduce rural hardship allowance (policy and budget issue) | - | - | 4,500 teachers | 5,000 teachers | - | - | TBA | TBA
 NESP Goal 3: Improve governance and management.
@@ -1453,7 +1602,7 @@ Objective: Improve governance and management of secondary schools.
 
 ##### 4.7.1 Priority 1: Access and Equity
 
-Expansion of access to teacher education up to the level needed to meet the requirement for trained teachers requires infrastructure development in addition to alternative modes of training such as open and distance education and nonresidential training. Infrastructure needed includes expansion of library facilities, construction of special needs units in the teacher training institutes and other facilities. This, therefore, calls for a focused attention on increased infrastructure to facilitate the expansion in access.
+Expansion of access to teacher education up to the level needed to meet the requirement for trained teachers requires infrastructure development in addition to alternative modes of training such as open and distance education and non-residential training. Infrastructure needed includes expansion of library facilities, construction of special needs units in the teacher training institutes and other facilities. This, therefore, calls for a focused attention on increased infrastructure to facilitate the expansion in access.
 
 ##### 4.7.2 Priority 2: Quality and Relevance
 
@@ -1465,7 +1614,7 @@ Teacher education lacks a coherent policy and clear strategies to address the in
 
 ###### Support to Teacher Education Management
 
-Coordination of teacher issues is undefined; there is no clear mandate in institutions managing teachers across the education sector. This scenario contributes to challenges being faced in the basic and secondary education level, such as teacher professional roads maps, teacher preparation and teacher disciplining among other teachers issues. To a larger extent, these affect access to teacher education, coordination and comprehensive approaches on education institutions and trickledown effects at school level under Continuous Professional Development. Therefore, the achievement of strategies and outcomes on teacher education is contingent on effective and efficient management of teacher education in holistic terms.
+Coordination of teacher issues is undefined; there is no clear mandate in institutions managing teachers across the education sector. This scenario contributes to challenges being faced in the basic and secondary education level, such as teacher professional roads maps, teacher preparation and teacher disciplining among other teachers issues. To a larger extent, these affect access to teacher education, coordination and comprehensive approaches on education institutions and trickle-down effects at school level under Continuous Professional Development. Therefore, the achievement of strategies and outcomes on teacher education is contingent on effective and efficient management of teacher education in holistic terms.
 
 66
 
@@ -1473,10 +1622,13 @@ Coordination of teacher issues is undefined; there is no clear mandate in instit
 
 [[START OF PAGE 67]]
 
-Teacher Education - Basic Education: Early Childhood Development NESP Goal 1: Expand equitable access to Early Childhood Development Teacher Education.
+Table 9: Teacher Education Activity Matrix
+
+Teacher Education - Basic Education: Early Childhood Development
+NESP Goal 1: Expand equitable access to Early Childhood Development Teacher Education.
+NESP Strategy | Activities | Outputs | Estimated Costs (MK000)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-NESP | Outputs | Estimated Costs (MK000)
-Strategy | Activities | 2009-2010 | 2010-2011 | 2011- 2012 | 2012- 2013 | 2009- 2010 | 2010-2011 | 2011-2012 | 2012- 2013
+ |  | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013
 [1.1] Enhance training of pre-school teachers. | 1.1.1 Upgrade existing colleges (Magomero, Kwacha, Luwinga Training Centre and Lilongwe Transit Centre) into ECD colleges | 1 | 2 | 1 | 85,100 | 200,700 | 124, 300
 1.1.2 Train ECD caregivers (1 year's course) | 300 | 600 | 3,500 | 4,700 | 7,400
 1.1.3 Train ECD tutors | 0 | 20 | 20 | 20 | 60,500 | 70,700 | 80,400
@@ -1489,18 +1641,16 @@ Objective: Increase intake into teacher training colleges.
 1.2.3 Provide field support to all ODL study centres | 315 | 315 | 315 | 386,500 | 126,900 | 126,900
 [1.3] Construction and refurbishment of new TTCs. | 1.3.1 Building 2 TTCs over a 5-year period (GoM) | 1 | 1 | 1,000,000 | 1,000,000
 
-Table 9: Teacher Education Activity Matrix
-
 67
 
 [[END OF PAGE 67]]
 
 [[START OF PAGE 68]]
 
-[1.4] Increase the supply of teachers by enhancing the training of teachers through conventional modes of teacher training. | 1.4.1 Recruit 2,000 non residential students | 500 | 500 | 500 | 500 | 9,000 | 9,000 | 9,000 | 9,000
+[1.4] Increase the supply of teachers by enhancing the training of teachers through conventional modes of teacher training. Remarks: Not all operational costs for Government institutions have been included, such as those for TTCs. | 1.4.1 Recruit 2,000 non residential students | 500 | 500 | 500 | 500 | 9,000 | 9,000 | 9,000 | 9,000
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 1.4.2 Train up to 18,740 IPTE 1 year students | 4,340 | 4,600 | 4,800 | 5,000 | 57,000 | 60,415 | 63,041 | 65,668
-Remarks: Not all operational costs for Government institutions have been included, such as those for TTCs. | 1.4.3 Supervise up to 17,540 IPTE 2 year students | 3,800 | 4,340 | 4,600 | 4,800 | 33,000 | 37,689 | 39,947 | 41,684
+1.4.3 Supervise up to 17,540 IPTE 2 year students | 3,800 | 4,340 | 4,600 | 4,800 | 33,000 | 37,689 | 39,947 | 41,684
 1.4.4 Pay allowances for 18,740 student teachers | 4,340 | 4,600 | 4,800 | 5,000 | 323,300 | 342,668 | 357,567 | 372,465
 [1.5] Continue dialogue with private stakeholders to establish additional TTCs. | 1.5.1 Establish public private partnerships to construct 5 TTCs of a capacity of 200 students per year each | 1 | 2 | 2 | 1 | 28,000 | 56,000 | 56,000
 [1.6] Improve equity and increase access for SNE learners. | 1.6.1 Ensure that compulsory teacher education supplies each teacher with sufficient knowledge on SNE | Curriculum reviewed
@@ -1525,10 +1675,11 @@ NESP Goal 2: Improve quality and relevance of Primary Education to enable all to
 [2.3] Strengthen quality education through HIV/AIDS and SHN awareness. | 2.3.1 Institutionalise HIV/AIDS programmes in TTCs | 25% | 50% | 75% | 100% | 4,000 | 8,000 | 3,000 | 3,000
 2.3.2 Ensure integration of SHN in all TTCs | 25% | 50% | 75% | 100% | 4,000 | 8,000 | 3,000 | 3,000
 NESP Goal 3: Improve governance and management of Primary Teacher Education.
-[3.1] Improve the teacher management information system to assist decision- making on allocation of | 3.1.1 Link TEMIS to EMIS | TEMIS updated and linked to EMIS | 5,000 | 2,000 | 2,000 | 2,000
-new teachers. | 3.1.2 Train 1,200 secondary heads in school management
+[3.1] Improve the teacher management information system to assist decision-making on allocation of new teachers. | 3.1.1 Link TEMIS to EMIS | TEMIS updated and linked to EMIS | 5,000 | 2,000 | 2,000 | 2,000
+3.1.2 Train 1,200 secondary heads in school management
 Teacher Education - Secondary Education
 NESP Goal 1: Expand equitable access to secondary education to benefit all.
+Objective: Increase the supply of teachers for secondary school.
 [1.1] Increase access and equity for SNE students. | 1.1.1 Upgrade up to 12 trainers to masters degree | 4 | 4 | 4 | 15,000 | 15,000 | 15,000
 1.1. 2 establish a teacher education unit in SNE for secondary school teachers, producing 200 per year (CPD course for secondary school teaching) | Units established
 1.1.3 Upgrade up to 160 secondary teachers to bachelors degree | 40 | 40 | 40 | 40 | 10,000 | 10,000 | 10,000 | 10,000
@@ -1584,10 +1735,13 @@ There are increased concerns over the dwindling skills levels of artisans and te
 
 [[START OF PAGE 72]]
 
+Table 10: Technical and Vocational Education Activity Matrix
+
 EFA Goal: Ensuring that learning needs of young people and adults are met through equitable access to appropriate learning and life-skills programmes.
---- | --- | --- | --- | --- | --- | --- | ---
-NESP Goal 1: Improve | Activities | governance and management of technical and vocational | Estimated Costs (MK000)
-2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2009- 2010 | 2010- 2011 | 2011- 2012 | 2012- 2013
+NESP Goal 1: Improve governance and management of technical and vocational training.
+NESP Strategy | Activities | Outputs | Estimated Costs (MK000)
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013
 Objective: Ensure effective and efficient policy guidance and direction on TEVET programmes.
 [1.1] Review and revise TEVET Act. | 1.1.1 Hold a TEVET policy review meeting with a group of experts and Government officials | 1 policy review workshop held | 8,000
 1.1.2 Write a set of policy recommendations based on the situation analysis conducted | 1 situation analysis report | 5,000
@@ -1596,21 +1750,19 @@ Objective: Ensure effective and efficient policy guidance and direction on TEVET
 1.2.2 Review and develop monitoring framework and operational manuals | Monitoring framework and operational manuals in place | 8,520
 1.2.3 Develop a roadmap assessment report for semi-autonomous governance structures of the public colleges and commercialisation of programmes | A roadmap assessment report developed | 1,500
 
-Table 10: Technical and Vocational Education Activity Matrix
-
 72
 
 [[END OF PAGE 72]]
 
 [[START OF PAGE 73]]
 
-[1.3] Institutionalise non-residential (parallel) programmes. | 1.3.1 Prepare operational policy guidelines in line with public financial management act | Operational policy guidelines in place and colleges offering recognised non- residential programme | 200
+[1.3] Institutionalise non-residential (parallel) programmes. | 1.3.1 Prepare operational policy guidelines in line with public financial management act | Operational policy guidelines in place and colleges offering recognised non-residential programme | 200
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Objective: Ensure effective and efficient management and support services of TEVET programmes.
 [1.4] Provide adequately for office services and operations. | 1.4.1 Purchase and provide office equipment, stationery, consumables and services | Office provision and effective support services provided | Office provision and effective support services provided | Office provision and effective support services provided | Office provision and effective support services provided | 3,977.10 | 4,240 | 4,730 | 5,200
 1.4.2 Participate in national and international meetings, workshops and conferences | Improved governance and management of TEVET | Improved governance and management of TEVET | Improved governance and management of TEVET | Improved governance and management of TEVET | 6,680 | 7,290 | 7,900
-[1.5] Direct the rationalisation and outsourcing of non-core functions/services being provided by the colleges to reduce administrative | 1.5.1 Analyse non-core functions and services for outsourcing | Analysis report indicating core functions to be outsourced and management policy guidelines | 500
-costs. | 1.5.2 Prepare tender documents and award contracts | Tender and award annual contracts in place | Tender and award annual contracts in place | Tender and award annual contracts in place | 300 | 300 | 300
+[1.5] Direct the rationalisation and outsourcing of non-core functions/services being provided by the colleges to reduce administrative costs. | 1.5.1 Analyse non-core functions and services for outsourcing | Analysis report indicating core functions to be outsourced and management policy guidelines | 500
+1.5.2 Prepare tender documents and award contracts | Tender and award annual contracts in place | Tender and award annual contracts in place | Tender and award annual contracts in place | 300 | 300 | 300
 
 73
 
@@ -1622,7 +1774,7 @@ costs. | 1.5.2 Prepare tender documents and award contracts | Tender and award a
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 1.6.2 Formation of sector advisory committees | 5 effective and functioning Sector Advisory Committees (SACs) formed in the private sector | 5 effective and functioning Sector Advisory Committees (SACs) formed in the private sector | 5 effective and functioning Sector Advisory Committees (SACs) formed in the private sector | 5 effective and functioning Sector Advisory Committees (SACs) formed in the private sector | 2,500 | 2,800 | 3,000 | 3,240
 1.6.3 Establish strong links between colleges and industry for effect knowledge and technology transfer | Effective linkages, partnerships and networks established | Effective linkages, partnerships and networks established | Effective linkages, partnerships and networks established | Effective linkages, partnerships and networks established | 1,420 | 1,550 | 1,690 | 1,840
-1.6.4 Develop and implement demand driven tailor-made training programmes for industry | 25 short-term tailor- made training courses implemented in collaboration with the industry | 30 short-term tailor-made training courses implemented in collaboration with the industry | 40 short-term tailor-made training courses implemented in collaboration with the industry | 40 short-term tailor-made training courses implemented in collaboration with the industry | 346.4 | 45,000 | 65,400 | 71,300
+1.6.4 Develop and implement demand driven tailor-made training programmes for industry | 25 short-term tailor-made training courses implemented in collaboration with the industry | 30 short-term tailor-made training courses implemented in collaboration with the industry | 40 short-term tailor-made training courses implemented in collaboration with the industry | 40 short-term tailor-made training courses implemented in collaboration with the industry | 346.4 | 45,000 | 65,400 | 71,300
 
 74
 
@@ -1724,7 +1876,7 @@ The NESP identified expanding access, improving quality and relevance as key are
 
 ##### 4.9.2 Priority 2: Access and Equity
 
-The impact of the expansion of secondary education and respective lower level in the education sub-sector has resulted in simultaneous pressure in the demand for places in colleges and institutions of higher learning. The two public universities are not able to absorb the majority of secondary school graduates in Malawi. For example, approximately 38.1% of the 2007 Malawi Secondary Certificate of Education (MSCE) graduates were absorbed into the public universities in 2008. This means that slightly over 60% of the students eligible for higher education could not be absorbed due to limited space. This calls for more proactive approaches in building capacity in institutions of order to meet the demand for college places.
+The impact of the expansion of secondary education and respective lower level in the education sub-sector has resulted in simultaneous pressure in the demand for places in colleges and institutions of higher learning. The two public universities are not able to absorb the majority of secondary school graduates in Malawi. For example, approximately 38.1% of the 2007 Malawi Secondary Certificate of Education (MSCE) graduates were absorbed into the public universities in 2008. This means that slightly over 60% of the students eligible for higher education could not be absorbed due to limited space. This calls for more proactive approaches in building capacity in institutions in order to meet the demand for college places.
 
 ##### 4.9.3 Priority 3: Quality and Relevance
 
@@ -1736,20 +1888,21 @@ The Malawi Growth and Development Strategy seeks to transform the nation from po
 
 [[START OF PAGE 82]]
 
-EFA GOAL: Ensuring that learning needs of young people and adults are met through equitable access to appropriate learning and life-skills programmes. ESP Goal: Improve Governance and Management.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Activities | Outputs | Estimated Costs
-2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2009- 2010 | 2010- 2011 | 2011- 2012 | 2012- 2013
+##### Table 11: Higher Education Activity Matrix
+
+EFA GOAL: Ensuring that learning needs of young people and adults are met through equitable access to appropriate learning and life-skills programmes.
+ESP Goal: Improve Governance and Management.
+
+NESP Strategy | Activities | Outputs | Estimated Costs
+2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013
 Objective: Strengthen governance, management, oversight, transparency and accountability of higher education institutions.
 [1.1] Improve governance of public universities. | 1.1.1 Establish NCHE | NCHE secretariat in place | Accreditation mechanism established | All universities and service providers registered | All universities and service providers registered | 40,000 | 50,000 | 60,000 | 60,000
 1.1.2 Provide for administration and office support | DHE strengthened | DHE strengthened | DHE strengthened | DHE strengthened | 10,000 | 13,000 | 15,000 | 20,000
 1.1.3 Strengthen governance, management, oversight, transparency and accountability | 56 management staff in FM | 56 management staff in FM | 56 management staff in FM | 48 management staff in FM | 1,540 | 1,545 | 1,550 | 1,555
 Consultation on establishment of planning units and IMS | Planning/quality assurance units and IMS in place | Financial audits and monitoring reports | Monitoring reports and financial audits of the planning and IMS | 0 | 500,000 | 55,000 | 60,000
-[1.2] Improve management of public universities. | 1.2.1 Improve universities' capacity for resource generation and investment | Outsourcing guidelines in place | Non-core services contracted | Non-core services contracted | Non-core services contracted | 871,568 | 429,000 | 10,000 | 12,000
+[1.2] Improve management of public universities. | 1.2.1 Improve universities’ capacity for resource generation and investment | Outsourcing guidelines in place | Non-core services contracted | Non-core services contracted | Non-core services contracted | 871,568 | 429,000 | 10,000 | 12,000
 Retrenchment exercise completed at UNIMA | 1 monitoring report on outsourcing process
 Negotiations on private financing of academic programmes | Private financing implemented and reduction by 5% | Reduction on Government expenditure by 10% | Reduction on Government expenditure by 20% | 2,000 | 4,750,000 | 4,500,000 | 4,000,000
-
-##### Table 11: Higher Education Activity Matrix
 
 82
 
@@ -1761,7 +1914,7 @@ NESP Goal 2: Expand equitable access.
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Objective: Increase enrolment and opportunities for all eligible Malawians.
 [2.1] Increase enrolment and opportunities for all eligible Malawians. | 2.1.1 Launch and enrol students in ODL at MZUNI | 300 students in place | 600 students | 900 students | 1,200 students | 17,000 | 30,000 | 30,000 | 30,000
-2.1.2 Monitoring the implementation of the mainstreaming of cross- cutting issues | 1Monitoring report Mainstreamed curriculum | Mainstreamed curriculum | Mainstreamed curriculum 1 monitoring report | All students | 191,000 | 191,000 | 191,000 | 191,000
+2.1.2 Monitoring the implementation of the mainstreaming of cross-cutting issues | 1Monitoring report Mainstreamed curriculum | Mainstreamed curriculum | Mainstreamed curriculum 1 monitoring report | All students | 191,000 | 191,000 | 191,000 | 191,000
 2.1.3 Mainstream non residential students into Loan Scheme UNIMA+MZUNI | 6,451students | 8,451 students | 8,451 student | 8,451 students | 161,275 | 271,275 | 271,275 | 271,275
 2.1.4 Involve private sectors | Interface between the industry and universities | 1 meeting held | 1 meeting held | 1 meeting held | 350 | 15,000 | 15,000 | 15,000
 [2.2] Construct and upgrade teaching and learning infrastructure. | 2.2.1 Increase library, teaching and academic office spaces | 25% | 25% | 25% | 25% | 250,000 | 250,000 | 250,000 | 250,000
@@ -1777,6 +1930,7 @@ oxidation pond and new teaching facilities in faculty of education at MZUNI | Re
 [[START OF PAGE 84]]
 
 NESP Goal 3: Improve Quality and Relevance in Higher Education.
+Objective: Enhance quality and relevance in teaching and learning to produce competent graduates.
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 [3.1] Strengthening institutional capacity and research. | 3.1.1 Provide training workshops on CPD | 2 workshop for all staff for each college | 2 workshop for all staff for each college | 2 workshop for all staff for each college | 2 workshop for all staff for each college | 55,000 | 60,000 | 70,000 | 70,000
 3.1.2 Conduct needs analysis at departmental level | Capacity gaps identified and training programmes mapped out | Staff recruitment and training funded and implemented | Staff recruitment, training implemented | Staff recruitment and training implemented | 50,000 | 84,000 | 91,560 | 99,800
@@ -1813,19 +1967,18 @@ Putting all this in place is an important part of organisational development bec
 
 [[START OF PAGE 86]]
 
+##### Table 12: Administration and Support Services Activity Matrix
+
 NESP Goal 3: Improve governance and management of education sector.
---- | --- | --- | --- | --- | --- | --- | --- | ---
-NESP Strategy | Outputs | Estimated Costs (MK 000)
-Activities | 2009- 2010 | 2010- 2011 | 2011- 2012 | 2012- 2013 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013
-Service delivery improved at levels. | 1.1 Construction of annexe at Ministry of Education Headquarters | 1 | 500,000
+NESP Strategy | Activities | Outputs | Estimated Costs (MK 000)
+2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013
+Service delivery improved at all levels. | 1.1 Construction of annexe at Ministry of Education Headquarters | 1 | 500,000
 1.2 Construction of printing press for MANEB | 1 | 300,000 | 1,500 | 500 | 0
 1.3 Construction of 2 libraries | 1 | 1 | 250,000 | 28,000
 1.4 Construction of division offices | 1 | 1 | 1 | 1 | 19,300 | 19,300 | 19,300 | 19,300
 1.5 Construction of district offices | 3 | 3 | 3 | 3 | 57,900 | 57,900 | 57,900 | 57,900
 1.6 Construction of MANEB offices (Mzuzu and Lilongwe) | 1 | 1 | 100,000 | 100,000
 1.7 General administrative costs (ORT):  Short and long term training for education personnel at Ministry Headquarters and Division offices*  Procurement of plant, machinery and office furniture  Consultancy services** | 6 | 6 | 6 | 6 | 1,250,100 | 1,250,100 | 1,250,100 | 1,250,100
-
-##### Table 12: Administration and Support Services Activity Matrix
 
 * Costs for long term and short-term training will depend on needs within given time period.
 
@@ -1849,6 +2002,8 @@ The financial framework presents the resource requirements for the sector for th
 
 The total resources required to reach major sector targets have been estimated up to 2013. Cost projections have been formulated for each sub-sector. The total required amount for the ESIP implementation period of 2009-2013 is shown in Table 13 below.
 
+##### Table 13: Summary of Total Required Resources by Sub-sector 2009-2013
+
 Education Sub-sector | Annual Financial Projections (MK000)
 --- | --- | --- | --- | ---
 2009/2010 | 2010/2011 | 2011/2012 | 2012/2013
@@ -1864,15 +2019,17 @@ Higher Education | 7,385,000 | 7,697,382 | 7,038,752 | 7,285,595
 Administration and Support | 1,250,100 | 1,680,300 | 1,856,800 | 1,327,800
 Grand Total | 49,675,967 | 52,806,308 | 56,344,898 | 57,294,176
 
-##### Table 13: Summary of Total Required Resources by Sub-sector 2009-2013
-
-Table 14 indicates that basic education takes the largest share of required total resources of 57.8% in the 2009/2010 financial year and grows to 65.8% over the implementation period. A great part of this goes to the primary education in the form of personal emoluments (PE) and capital investment (construction of classrooms). Secondary education requires an average of about 15% for the same period but, notably, the percentage requirement in terms of resources decreases to 12.5% in 2012/13. Teacher education will require 8.5 % of the share for the first two years and then the sub-sector's funding decreases thereafter, just as in secondary sub-sector. Higher education requires an allocation of about 14.9% of the total funding in the first two years and significantly decreases to around 12.8% in the financial years 2011/2012 and 2012/2013. The projected resources for technical and vocational training education increase from 1% of the total funding in 2009/10 to about 3% of the total funding over the implementation period. Administrative costs for the entire education sector average around 3% of the total required resources during the implementation period.
+Table 14 indicates that basic education takes the largest share of required total resources of 57.8% in the 2009/2010 financial year and grows to 65.8% over the implementation period. A great part of this goes to the primary education in the form of personal emoluments (PE) and capital investment (construction of classrooms). Secondary education requires an average of about 15% for the same period but, notably, the percentage requirement in terms of resources decreases to 12.5% in 2012/13. Teacher education will require 8.5 % of the share for the first two years and then the sub-sector’s funding decreases thereafter, just as in secondary sub-sector. Higher education requires an allocation of about 14.9% of the total funding in the first two years and significantly decreases to around 12.8% in the financial years 2011/2012 and 2012/2013. The projected resources for technical and vocational training education increase from 1% of the total funding in 2009/10 to about 3% of the total funding over the implementation period. Administrative costs for the entire
 
 87
 
 [[END OF PAGE 87]]
 
 [[START OF PAGE 88]]
+
+education sector average around 3% of the total required resources during the implementation period.
+
+##### Table 14: Percentage Allocation of Total Required Resources by Sub-sector
 
 Education Sub-sector | Annual Percentage Allocation
 --- | --- | --- | --- | ---
@@ -1889,9 +2046,9 @@ Higher Education | 14.87% | 14.58% | 12.49% | 12.72%
 Administration Costs | 2.52% | 3.18% | 3.30% | 2.32%
 Grand Total | 100.00% | 100.00% | 100.00% | 100.00%
 
-##### Table 14: Percentage Allocation of Total Required Resources by Sub-sector
-
 The total required resources are further broken down into recurrent and capital costs. Table 15 below shows the required recurrent costs for the 2009-2013 period.
+
+##### Table 15: Summary of the Total Required Recurrent Resources by Sub-sector
 
 Education Sub-sector | Recurrent Expenditure
 --- | --- | --- | --- | ---
@@ -1908,17 +2065,19 @@ Higher Education | 5,589,265.00 | 6,046,874.30 | 5,433,243.52 | 5,680,087.19
 Administration Costs | 1,250,100.00 | 1,250,100.00 | 1,250,100.00 | 125,000.00
 Grand Total | 35,872,696.61 | 37,353,432.94 | 40,118,121.18 | 40,786,200.04
 
-##### Table 15: Summary of the Total Required Recurrent Resources by Sub-sector
-
 Table 16 below presents the percentage share of the required recurrent resources by education sub-sector which just agrees with the scenario presented in Table 14 above.
 
-Basic education takes the largest share of required recurrent resources, at an average of about 68% over the 2009-2013 period. This is largely due to primary education, which has the highest rate (average of 65% of the average of basic education) of personal emoluments among all the sub-sectors. However, the total allocation towards basic education should be considered in a more holistic way as this area cuts across the education sub-sectors. For example, teacher education is largely centred on the training of primary school teachers. Factoring in the resources required under primary teacher education, the percentage allocation towards the basic sub-sector increases to an average of 72%. Higher education has the second largest share average rate of recurrent resources (15%). It is clearly evident that the gap in the share of recurrent resources between basic education and the rest of the sub-sectors is quite significant.
+Basic education takes the largest share of required recurrent resources, at an average of about 68% over the 2009-2013 period. This is largely due to primary education, which has the highest rate (average of 65% of the average of basic education) of personal emoluments among all the sub-sectors. However, the total allocation towards basic education should be considered in a more holistic way as this area cuts across the education sub-sectors. For example, teacher education is largely centred on the training of primary school teachers. Factoring in the resources required under primary teacher education, the percentage allocation towards the basic sub-sector increases to an average of 72%. Higher education has the second largest share average rate of recurrent resources (15%). It is clearly evident that the
 
 88
 
 [[END OF PAGE 88]]
 
 [[START OF PAGE 89]]
+
+gap in the share of recurrent resources between basic education and the rest of the sub-sectors is quite significant.
+
+##### Table 16: Percentage Share of Required Recurrent Resources by Sub-Sector
 
 Education Sub-sector | Percentage Allocation (Recurrent Expenditure)
 --- | --- | --- | --- | ---
@@ -1935,9 +2094,9 @@ Higher Education | 16% | 16% | 14% | 14%
 Administration Costs | 3% | 3% | 3% | 0.31%
 Grand Total | 100% | 100% | 100% | 100%
 
-##### Table 16: Percentage Share of Required Recurrent Resources by Sub-Sector
+In addition to the recurrent costs, Tables 17 and 18 below present a summary of capital resource projections and percentage capital investments by sub-sector. Capital investments are largely projected to be significant in the basic education sub-sector, at an average of 47%, whereas resources for secondary education and higher education are projected at an average of 30% and 12% respectively. Whereas the gap was quite wide in recurrent resources, capital resource projections for basic and secondary education are not widely dispersed. This is due to the fact that, in these two sub-sectors, there are huge investments in construction. In the primary education sub-sector, there is planned significant construction of classrooms and new schools, whereas, in the secondary sub-sector, there is upgrading and construction of new community day secondary schools.
 
-In addition to the recurrent costs, Tables 17 and 18 below present a summary of capital resource projections and percentage capital investments by sub-sector. Capital investments are largely projected to be significant in the basic education subsector, at an average of 47%, whereas resources for secondary education and higher education are projected at an average of 30% and 12% respectively. Whereas the gap was quite wide in recurrent resources, capital resource projections for basic and secondary education are not widely dispersed. This is due to the fact that, in these two sub-sectors, there are huge investments in construction. In the primary education sub-sector, there is planned significant construction of classrooms and new schools, whereas, in the secondary sub-sector, there is upgrading and construction of new community day secondary schools.
+##### Table 17: Summary of Capital Resource Projections by Sub-sector
 
 Education Sub-sector | Capital Expenditure
 --- | --- | --- | --- | ---
@@ -1954,8 +2113,6 @@ Higher Education | 1,795,735.00 | 1,650,508.00 | 1,605,508.00 | 1,605,508.00
 Administration Costs | 430,200.00 | 106,700.00 | 77,700.00 | 77,200.00
 Grand Total | 14,177,871.00 | 13,391,776.00 | 13,782,676.00 | 13,996,276.00
 
-##### Table 17: Summary of Capital Resource Projections by Sub-sector
-
 Table 18 below highlights the percentage trend of capital investments in the education sector by sub-sector.
 
 89
@@ -1963,6 +2120,8 @@ Table 18 below highlights the percentage trend of capital investments in the edu
 [[END OF PAGE 89]]
 
 [[START OF PAGE 90]]
+
+##### Table 18: Percentage Share of Required Capital Resources by Sub-sector
 
 Education Sub-sector | Percentage Allocation (Capital Expenditure)
 --- | --- | --- | --- | ---
@@ -1979,11 +2138,11 @@ Higher Education | 13% | 12% | 12% | 11%
 Administration Costs | 3% | 1% | 1% | 1%
 Grand Total | 100% | 100% | 100% | 100%
 
-##### Table 18: Percentage Share of Required Capital Resources by Sub-sector
-
 #### 5.3 Funding Gap Analysis
 
-The GoM budget for the 2009/10 financial year and financial commitments from Development Partners as highlighted in the education sector's 2009/2010 Programme of Works have been utilised to determine the funding gap which exists between total resources required for the year 2009 in the 2009-2013 ESIP implementation period and the total resources that have been committed. The analysis indicate a financing gap of MK4.15 billion (US$29.6 million) at constant prices for the 2009/2010 financial year. The results of this analysis, by sub-sector, are shown in Table 19 below and reveal that a substantial funding gap is present.
+The GoM budget for the 2009/10 financial year and financial commitments from Development Partners as highlighted in the education sector’s 2009/2010 Programme of Works have been utilised to determine the funding gap which exists between total resources required for the year 2009 in the 2009-2013 ESIP implementation period and the total resources that have been committed. The analysis indicate a financing gap of MK4.15 billion (US$29.6 million) at constant prices for the 2009/2010 financial year. The results of this analysis, by sub-sector, are shown in Table 19 below and reveal that a substantial funding gap is present.
+
+##### Table 19: Funding Gap Analysis for ESIP (2009)
 
 Educational Sector | ESIP Financial Requirements (MK000) | GoM Financial Provision (MK000) | Other Sources* | Total Funding | Variance (MK000)
 --- | --- | --- | --- | --- | ---
@@ -1998,11 +2157,9 @@ Higher Education | 7,385,000.00 | 7,385,000.00 | 7,385,000.00 | -
 Administration and other subvented organisations | 1,250,100.00 | 1,250,100.00 | 1,250,100.00 | -
 Grand Total | 49,620,367.61 | 31,693,378.98 | 13,779,657.00 | 45,473,035.98 | (4,147,331.63)
 
-##### Table 19: Funding Gap Analysis for ESIP (2009)
+*Including donor financing
 
-* Including donor financing
-
-Based on the obtaining financing gap in the 2009/2010 financial year, and assuming that the total amount of resources injected into the sector remain constant , the financing gap grows to MK1.8 billion (US$84.4 million) in 2012/2013. Table 20 below presents annual financing gaps on the assumption that the flow of funds is constant.
+Based on the obtaining financing gap in the 2009/2010 financial year, and assuming that the total amount of resources injected into the sector remain constant, the financing gap grows to MK1.8 billion (US$84.4 million) in 2012/2013. Table 20 below presents annual financing gaps on the assumption that the flow of funds is constant.
 
 90
 
@@ -2010,25 +2167,25 @@ Based on the obtaining financing gap in the 2009/2010 financial year, and assumi
 
 [[START OF PAGE 91]]
 
+##### Table 20: Total Annual Financing Gaps
+
 Education Sub-sector | 2009/2010 (MK000) | 2010/2011 (MK000) | 2011/2012 (MK000) | 2012/2013 (MK000)
 --- | --- | --- | --- | ---
 Total Funding Available | 45,473,035.98 | 45,473,035.98 | 45,473,035.98 | 45,473,035.98
 Total Financial Resources Required | 49,675,967.66 | 52,806,308.94 | 56,344,897.18 | 57,294,176.04
 Funding Gap | (4,202,931.68) | (7,333,272.96) | (10,871,861.20) | (11,821,140.06)
 
-##### Table 20: Total Annual Financing Gaps
-
 #### 5.4 Funding Modalities
 
 ##### 5.4.1 Overview
 
-Financing of education in Malawi follows the principles of the Malawi Development Assistance Strategy. The principles are as follows: support and procedures for a single sector policy expenditure programme, donor commitment of funds, mutual accountability and management for results and exchange of information. These principles operationalise the Declaration adopted at the High Level Forum on Aid Harmonisation in Rome, the Paris Declaration and the Accra Agenda for Action. Therefore, financing of the Education Sector Implementation plan will follow the principles highlighted herein and through a Sector Wide Approach as per arrangements and agreements between the Government of Malawi and Development Partners 5 .
+Financing of education in Malawi follows the principles of the Malawi Development Assistance Strategy. The principles are as follows: support and procedures for a single sector policy expenditure programme, donor commitment of funds, mutual accountability and management for results and exchange of information. These principles operationalise the Declaration adopted at the High Level Forum on Aid Harmonisation in Rome, the Paris Declaration and the Accra Agenda for Action. Therefore, financing of the Education Sector Implementation plan will follow the principles highlighted herein and through a Sector Wide Approach as per arrangements and agreements between the Government of Malawi and Development Partners⁵.
 
 This section therefore highlights the funding modalities and operational procedures that will be followed in the implementation of the ESIP. Specifically, the section highlights financial and technical detail, planning, budgeting, reporting and monitoring, financial management and disbursements.
 
-##### 5.4.2 Financial Assistance 6
+##### 5.4.2 Financial Assistance⁶
 
-The ESIP will be financed by domestic resources as well as development partners' aid flow. The development partners will provide timely, transparent and comprehensive information on aid flows over the ESIP framework to enable MoE to capture external funding to the sector in the Government budget. Funds committed from the development partners for the financing of expenditures in the ESIP will follow one or more of the four funding modalities. These include the following.
+The ESIP will be financed by domestic resources as well as development partners’ aid flow. The development partners will provide timely, transparent and comprehensive information on aid flows over the ESIP framework to enable MoE to capture external funding to the sector in the Government budget. Funds committed from the development partners for the financing of expenditures in the ESIP will follow one or more of the four funding modalities. These include the following.
 
 ##### 5.4.3 General Budget Support
 
@@ -2038,7 +2195,7 @@ The funds allocated to the financing of the education sector ESIP will be part o
 
 > 5 Joint Financing Arrangement and Sector Wide Approach Memorandum of Understanding
 
-> 6 Malawi Development Assistance strategy (MDAS) - Financial assistance from the development partners take cognisance of the existence of this strategy
+> 6 Malawi Development Assistance strategy (MDAS) – Financial assistance from the development partners take cognisance of the existence of this strategy
 
 91
 
@@ -2068,6 +2225,17 @@ The MoE will follow mutually agreed guidelines on financial management, procurem
 
 ##### Table 21: Planning, Budgeting, Reporting and Monitoring Calendar
 
+Year | December - January | February - May | June - July | August - November
+Activity | Strategic Planning | Annual Budgeting | Consultation and Approval | Review and Analysis
+Detail | Policy review: recommendations from ASR; Presentation of options; Prioritising; Resource envelope (ref MIEF) | District plans evaluated; Contestability; Efficiency and effectiveness issues | Parliamentary sub-committee; Donor meeting: confirmation of financial support; Parliament vote | Research studies and findings: Position papers; Annual Sector Review/Ministry Review
+PoW | Directorate level: performance review | Directorates: Development of Annual Work Plans
+School Year Reporting | IMPLEMENTATION OF PoWs (Budget Execution and Monitoring)
+| Q Progress Reports | Q Progress Reports | Q Progress Reports | Q Progress Reports
+MoE/DP sector dialogue | Policy and Planning Committee (PPC) | Policy and Planning Committee (PPC) | Policy and Planning Committee (PPC) | Policy and Planning Committee (PPC)
+MoE/DP Planning | SECTOR WORKING GROUP MEETING | SECTOR WORKING GROUP MEETING | SECTOR WORKING GROUP MEETING | SECTOR WORKING GROUP MEETING
+MoE/DP technical support | Technical WG | Technical WG | Technical WG | Technical WG | Technical WG | Technical WG | Technical WG | Technical WG
+DP dialogue | DP Meetings | DP Meetings | DP Meetings | DP Meetings | DP Meetings | DP Meetings | DP Meetings | DP Meetings
+
 The MoE, through the Directorate of Planning, will prepare the successive annual PoW in line with the Government planning and budgeting cycle and linked to the GoM Medium Term Expenditure Framework. MoEST will ensure that all development partner-supported activities are included in the PoW, where feasible.
 
 The PoW is presented below.
@@ -2081,6 +2249,13 @@ The PoW is presented below.
 ##### Development of Annual Programme of Work
 
 DEVELOPING AN ANNUAL PLAN OF WORK: CONCEPTUAL FRAMEWORK
+
+Objectives
+Access | Quality | Management
+Priority 1 | Priority 2 | Priority 3 | Priority 1 | Priority 2 | Priority 3 | Priority 1 | Priority 2 | Priority 3
+Strategy 1 | Strategy 2 | Strategy 3 | TARGETS FOR EACH STRATEGY
+Activity 1 | Activity 2 | Activity 3 | Each Activity measurable
+COST | COST | COST | Realistic Costing
 
 This model is used for all levels and all sub-sectors:
 
@@ -2210,19 +2385,19 @@ Ten years after Malawi made initial steps toward decentralisation, and, currentl
 
 [[START OF PAGE 100]]
 
+##### Table 22: Key Monitoring Indicators of the NESP⁷
+
 Sub-sector | NESP Goal by Priority | Indicators | Targets
 --- | --- | --- | --- | --- | --- | --- | ---
 2009 | 2010 | 2011 | 2012 | 2013
-Basic ECD | Goal 1: Expand equitable access |  Gross Enrolment Rate  | 30% | 35% | 45% | 55% | 65%
-to ECD services. |  Number of ECD centres well resourced  | 2,944 | 2,944 | 2,944 | 2,944 | 2,944
- Number of centres participating in school meals  | 250 centres
-Goal 2: Improve quality and relevance of ECD services. |  ECD Teacher-Pupil Ratio 
- Number of ECD teachers trained  | 30 | 60 | 70 | 70 | 70
-Goal 3: Improve governance management of ECD services. |  Number of ECD Teachers and Tutors on remuneration  | 2,500 | 2,000 | 3,000 | 4,500
-and |  Number of supervisory visits made  | 1 | 1 | 1 | 1
- Public expenditure on ECD as a %of total required public expenditure on education  | 0.95% | 1.94% | 2.69% | 3.60% | 3.60%
-
-##### Table 22: Key Monitoring Indicators of the NESP 7
+Basic ECD | Goal 1: Expand equitable access to ECD services. |  Gross Enrolment Rate | 30% | 35% | 45% | 55% | 65%
+ Number of ECD centres well resourced | 2,944 | 2,944 | 2,944 | 2,944 | 2,944
+ Number of centres participating in school meals | 250 centres
+Goal 2: Improve quality and relevance of ECD services. |  ECD Teacher-Pupil Ratio
+ Number of ECD teachers trained | 30 | 60 | 70 | 70 | 70
+Goal 3: Improve governance and management of ECD services. |  Number of ECD Teachers and Tutors on remuneration | 2,500 | 2,000 | 3,000 | 4,500
+ Number of supervisory visits made | 1 | 1 | 1 | 1
+ Public expenditure on ECD as a % of total required public expenditure on education | 0.95% | 1.94% | 2.69% | 3.60% | 3.60%
 
 > 7 All indicators will be disaggregated by gender and location and by HIV/AIDs
 
@@ -2232,18 +2407,18 @@ and |  Number of supervisory visits made  | 1 | 1 | 1 | 1
 
 [[START OF PAGE 101]]
 
-Basic Primary |  Repetition rate  | 19.16 | 10 | 5 | 5 | 5
+Basic Primary | Goal 1: Improve quality and relevance of primary education to reduce dropout and repetition and promote effective learning. |  Repetition rate | 19.16 | 10 | 5 | 5 | 5
 --- | --- | --- | --- | --- | --- | ---
- Dropout rate  | 8.42 | 7 | 5 | 3 | 0
- Pupil-Teacher Ratio (urban and rural); Pupil-Qualified Teacher Ratio  | 81 | 71 | 63 | 56
- Pupil-Textbook Ratio  | 01:01 | 01:01 | 01:01 | 01:01 | 01:01
-Goal 2: Expand equitable access to primary education to enable all to benefit. |  Gross enrolment rate 
- Net enrolment rate  | 79* | 81 | 84 | 86 | 88
- Completion rates by primary school (PSLCE)  | 72.6 | 73.4 | 74.4 | 75.4 | 76.2
- Survival rate at Standard 5  | 76.2 | 79.2 | 82.2 | 85.3 | 87.5
- Number of classrooms constructed  | 1,430 | 1,930 | 2,430 | 2,430 | 2,430
-Goal 3: Improve governance and management of the system in relation to primary education to enable more effective and efficient delivery of services. |  Public expenditure on primary education as a %of total required public expenditure on education  | 56.30% | 56.54% | 60.08% | 62.12% | 62.12%
- # of School Management Committees trained  | 1,000 | 1,000 | 1,000 | 1,000 | 1,000
+ Dropout rate | 8.42 | 7 | 5 | 3 | 0
+ Pupil-Teacher Ratio (urban and rural); Pupil-Qualified Teacher Ratio | 81 | 71 | 63 | 56
+ Pupil-Textbook Ratio | 01:01 | 01:01 | 01:01 | 01:01 | 01:01
+Goal 2: Expand equitable access to primary education to enable all to benefit. |  Gross enrolment rate
+ Net enrolment rate | 79* | 81 | 84 | 86 | 88
+ Completion rates by primary school (PSLCE) | 72.6 | 73.4 | 74.4 | 75.4 | 76.2
+ Survival rate at Standard 5 | 76.2 | 79.2 | 82.2 | 85.3 | 87.5
+ Number of classrooms constructed | 1,430 | 1,930 | 2,430 | 2,430 | 2,430
+Goal 3: Improve governance and management of the system in relation to primary education to enable more effective and efficient delivery of services. |  Public expenditure on primary education as a % of total required public expenditure on education | 56.30% | 56.54% | 60.08% | 62.12% | 62.12%
+ # of School Management Committees trained | 1,000 | 1,000 | 1,000 | 1,000 | 1,000
 
 101
 
@@ -2251,15 +2426,15 @@ Goal 3: Improve governance and management of the system in relation to primary e
 
 [[START OF PAGE 102]]
 
-Basic Adult Literacy | Goal 1: Expand equitable access to adult literacy services. |  Number of adult literacy centres opened  | 24,000 | 24,000 | 24,000 | 24,000
+Basic Adult Literacy | Goal 1: Expand equitable access to adult literacy services. |  Number of adult literacy centres opened | 24,000 | 24,000 | 24,000 | 24,000
 --- | --- | --- | --- | --- | --- | --- | ---
-Goal 2: Improve quality and relevance of adult literacy services. |  Number of adult literacy instructors trained  | 4,000 | 4,000 | 4,000 | 4,000 | 4,000
-Goal 3: Improve governance and management of adult literacy services. |  Number of adult literacy instructors and tutors on remuneration  | 8,000 | 12,000 | 12,000 | 12,000 | 12,000
- Expenditure on adult literacy as a total percentage of total required expenditure on education  | 0.14% | 0.14% | 0.13% | 0.13% | 0.13%
-Basic Out of School Youth | Goal 1: Expand equitable access to education for out of school children and youth. |  Number of learning centres opened and maintained  | 700 | 1,180 | 1,780 | 2,380 | 2,380
-Goal 2: Improve quality and relevance of education for out of school children and youth. |  Minimum attendance of CBE classes  | 21,000 | 35,400 | 53,400 | 71,400 | 71,400
- Number of facilitators trained  | 700 | 1,180 | 1,780 | 2,380
-Goal 3: Improve governance and management of education services for out of school children and youth. |  Expenditure on out of school children and youth as a total required percentage of total expenditure on education  | 0.95% | 1.94% | 2.69% | 2.30% | 2.30%
+Goal 2: Improve quality and relevance of adult literacy services. |  Number of adult literacy instructors trained | 4,000 | 4,000 | 4,000 | 4,000 | 4,000
+Goal 3: Improve governance and management of adult literacy services. |  Number of adult literacy instructors and tutors on remuneration | 8,000 | 12,000 | 12,000 | 12,000 | 12,000
+ Expenditure on adult literacy as a total percentage of total required expenditure on education | 0.14% | 0.14% | 0.13% | 0.13% | 0.13%
+Basic Out of School Youth | Goal 1: Expand equitable access to education for out of school children and youth. |  Number of learning centres opened and maintained | 700 | 1,180 | 1,780 | 2,380 | 2,380
+Goal 2: Improve quality and relevance of education for out of school children and youth. |  Minimum attendance of CBE classes | 21,000 | 35,400 | 53,400 | 71,400 | 71,400
+ Number of facilitators trained | 700 | 1,180 | 1,780 | 2,380
+Goal 3: Improve governance and management of education services for out of school children and youth. |  Expenditure on out of school children and youth as a total required percentage of total expenditure on education | 0.95% | 1.94% | 2.69% | 2.30% | 2.30%
 
 102
 
@@ -2267,14 +2442,14 @@ Goal 3: Improve governance and management of education services for out of schoo
 
 [[START OF PAGE 103]]
 
-Secondary Education |  Gross Enrolment Rate  | 19 | 20.2 | 20.3 | 21.8 | 23.5
+Secondary Education | Goal 1: Expand equitable access to secondary education. |  Gross Enrolment Rate | 19 | 20.2 | 20.3 | 21.8 | 23.5
 --- | --- | --- | --- | --- | --- | ---
-Goal 1: Expand equitable access |  Transition rate (from primary to secondary)  | 40 | 39 | 38 | 37 | 36
- Number of classrooms (Student- Classroom Ratio)  | 42 | 41 | 42 | 43 | 44
-Goal 2: Improve quality and relevance of secondary education to reduce dropout and repetition and promote effective learning. |  MSCE Pass Rate  | 38 | 41 | 44 | 47 | 49
- Pupil-Teacher Ratio  | 53 | 51 | 48 | 45 | 42
- Pupil-Qualified Teacher Ratio 
-Goal 3: Improve governance and management of the system in relation to secondary education to enable more effective and efficient delivery of services. |  Expenditure on secondary education as a total percentage of total required expenditure on education  | 15.40% | 13.00% | 11.90% | 12.40% | 12.40%
+ Transition rate (from primary to secondary) | 40 | 39 | 38 | 37 | 36
+ Number of classrooms (Student-Classroom Ratio) | 42 | 41 | 42 | 43 | 44
+Goal 2: Improve quality and relevance of secondary education to reduce dropout and repetition and promote effective learning. |  MSCE Pass Rate | 38 | 41 | 44 | 47 | 49
+ Pupil-Teacher Ratio | 53 | 51 | 48 | 45 | 42
+ Pupil-Qualified Teacher Ratio
+Goal 3: Improve governance and management of the system in relation to secondary education to enable more effective and efficient delivery of services. |  Expenditure on secondary education as a total percentage of total required expenditure on education | 15.40% | 13.00% | 11.90% | 12.40% | 12.40%
 
 103
 
@@ -2282,15 +2457,15 @@ Goal 3: Improve governance and management of the system in relation to secondary
 
 [[START OF PAGE 104]]
 
-Teacher Education | Goal 1: Expand equitable access to teacher training education to meet the demand arising from the increased primary and secondary |  Number of teachers trained annually (primary)  | 4,340 | 8,600 | 8,800 | 9,000
+Teacher Education | Goal 1: Expand equitable access to teacher training education to meet the demand arising from the increased primary and secondary school enrolment. |  Number of teachers trained annually (primary) | 4,340 | 8,600 | 8,800 | 9,000
 --- | --- | --- | --- | --- | --- | ---
- Number of teachers trained annually (secondary)  | 560 | 530 | 530 | 530 | 530
- Number of TTCs constructed or rehabilitated  | 1 | 2 | 2 | 1
-Goal 2: Improve quality and relevance of education to create effective teaching. |  Number of inspection and monitoring visits  | 3 | 3 | 3 | 3 | 3
- Number of tutors upgraded/trained (primary)  | 112 | 112 | 112 | 112 | 112
- Number of under qualified teachers upgraded (secondary)  | 220 | 220 | 220 | 220 | 220
-Goal 3: Improve governance and management of the system. |  Number of staff trained in planning, monitoring and supervision  | 1,200 | 1,200 | 1,200 | 1,200 | 1,200
- Expenditure on teacher education as a total percentage of total required expenditure on education  | 8.09% | 5.26% | 3.17% | 1.75% | 1.75%
+ Number of teachers trained annually (secondary) | 560 | 530 | 530 | 530 | 530
+ Number of TTCs constructed or rehabilitated | 1 | 2 | 2 | 1
+Goal 2: Improve quality and relevance of education to create effective teaching. |  Number of inspection and monitoring visits | 3 | 3 | 3 | 3 | 3
+ Number of tutors upgraded/trained (primary) | 112 | 112 | 112 | 112 | 112
+ Number of under qualified teachers upgraded (secondary) | 220 | 220 | 220 | 220 | 220
+Goal 3: Improve governance and management of the system. |  Number of staff trained in planning, monitoring and supervision | 1,200 | 1,200 | 1,200 | 1,200 | 1,200
+ Expenditure on teacher education as a total percentage of total required expenditure on education | 8.09% | 5.26% | 3.17% | 1.75% | 1.75%
 
 104
 
@@ -2298,22 +2473,22 @@ Goal 3: Improve governance and management of the system. |  Number of staff t
 
 [[START OF PAGE 105]]
 
-Technical and Vocational Training | Goal 1: Improve equitable access to TEVT. |  Number of students enrolled  | 1,388 | 4,458 | 4,566 | 5,483 | 6,147
+Technical and Vocational Training | Goal 1: Improve equitable access to TEVT. |  Number of students enrolled | 1,388 | 4,458 | 4,566 | 5,483 | 6,147
 --- | --- | --- | --- | --- | --- | --- | ---
-Goal 2: Improve quality and relevance of TEVET. |  Student-lecture ratio  | 40 | 35 | 30 | 25 | 25
- Number of inspection visits  | 3 | 3 | 3 | 3 | 3
-Goal 3: Improve governance and management of TEVET. |  Expenditure on TVT as a total percentage of total required expenditure on education  | 1.18% | 1.72% | 2.42% | 2.51% | 2.51%
-Goal 1: Increase equitable access to higher education. |  Tertiary enrolment per 100,000  | 44 | 59 | 65 | 70 | 80
- Enrolment of students from poor income quintiles  | 9% | 10% | 15% | 20% | 25%
- Number of students enrolled for ODL for MZuni  | 300 | 600 | 900 | 1,200 | 1,200
-Goal 2: Improve quality and relevance of higher education. |  Number of CPD workshops  | 2 | 2 | 2 | 2 | 2
- Reference materials  | 8,451 reference materials | 8,451 reference materials | 8,451 reference materials | 8,451 reference materials | 8,451 reference materials
- ICT laboratories strengthened  | 2 computer labs and 1 audio visual (internet) | 2 computer labs | 2 computer labs | 2 computer labs | 2 computer labs
- Increasing office and teaching library space  | 25% | 25% | 25% | 25% | 25%
-Goal 3: Promote good governance and management of higher education. |  Financial management training  | 56 | 56 | 56 | 56 | 48
- Expenditure on tertiary education as a total percentage of total required expenditure on education  | 14.90% | 14.60% | 12.50% | 12.70% | 12.70%
+Goal 2: Improve quality and relevance of TEVET. |  Student-lecture ratio | 40 | 35 | 30 | 25 | 25
+ Number of inspection visits | 3 | 3 | 3 | 3 | 3
+Goal 3: Improve governance and management of TEVET. |  Expenditure on TVT as a total percentage of total required expenditure on education | 1.18% | 1.72% | 2.42% | 2.51% | 2.51%
+Higher Education | Goal 1: Increase equitable access to higher education. |  Tertiary enrolment per 100,000 | 44 | 59 | 65 | 70 | 80
+ Enrolment of students from poor income quintiles | 9% | 10% | 15% | 20% | 25%
+ Number of students enrolled for ODL for MZuni | 300 | 600 | 900 | 1,200 | 1,200
+Goal 2: Improve quality and relevance of higher education. |  Number of CPD workshops | 2 | 2 | 2 | 2 | 2
+ Reference materials | 8,451 reference materials | 8,451 reference materials | 8,451 reference materials | 8,451 reference materials | 8,451 reference materials
+ ICT laboratories strengthened | 2 computer labs and 1 audio visual (internet) | 2 computer labs | 2 computer labs | 2 computer labs | 2 computer labs
+ Increasing office and teaching library space | 25% | 25% | 25% | 25% | 25%
+Goal 3: Promote good governance and management of higher education. |  Financial management training | 56 | 56 | 56 | 56 | 48
+ Expenditure on tertiary education as a total percentage of total required expenditure on education | 14.90% | 14.60% | 12.50% | 12.70% | 12.70%
 
- NSO data
+• NSO data
 
 105
 
@@ -2327,14 +2502,14 @@ Goal 3: Promote good governance and management of higher education. |  Financ
 
 Organisation | Responsibility
 --- | ---
-Ministry of Education, Science and Technology Directorate of Education Planning | - The Research, Monitoring and Evaluation unit will be involved in planning and coordinating research, monitoring and evaluation activities, - Comparing budgeted expenditure with actual expenditure on a monthly basis in collaboration with Ministry of Finance, - Carrying out annual census in order to publish basic statistics in education, - Coordinating data collected by divisional planners into a quarterly report, - Hosting annual education sector reviews to check and inform on the achievement of annual targets, - Carrying out periodic research, - Documenting all research, monitoring and evaluation reports, - Carrying out mandatory monitoring of project-specific milestones for compliance with funding partners' demands, - Monitoring performance of policies in the education sector, - Holding consultation meetings with funding partners and consultants to monitor the development of instruments to guide practice.
+Ministry of Education, Science and Technology Directorate of Education Planning | - The Research, Monitoring and Evaluation unit will be involved in planning and coordinating research, monitoring and evaluation activities, - Comparing budgeted expenditure with actual expenditure on a monthly basis in collaboration with Ministry of Finance, - Carrying out annual census in order to publish basic statistics in education, - Coordinating data collected by divisional planners into a quarterly report, - Hosting annual education sector reviews to check and inform on the achievement of annual targets, - Carrying out periodic research, - Documenting all research, monitoring and evaluation reports, - Carrying out mandatory monitoring of project-specific milestones for compliance with funding partners’ demands, - Monitoring performance of policies in the education sector, - Holding consultation meetings with funding partners and consultants to monitor the development of instruments to guide practice.
 Directorate of Human Resources | - Monitoring staff performance through an appraisal system, - Managing and checking the payroll and comparing it with the staff establishment.
 Directorate of Basic Education | - Registering teachers for primary school teaching to manage teacher quality, - Classroom practice in collaboration with PEAs, - School management practices such as record keeping in primary schools, - The status of teaching and learning materials such as textbooks, - Action research.
 Directorate of Secondary Education | - Collecting data on secondary education, such as staff establishment and quality of teaching and learning through supervision and inspection visits, - Management of special projects, - Monitoring the administration of MANEB examinations. - Action research.
-Directorate of Teacher Education | - Quality assurance through assessment of student teaching practice and performance in written tests,
-Directorate of Technical And Vocational Training | - Action research on fundamentals of teaching and learning. - Collect data on technical education such as staff establishment and quality of teaching and learning through supervision and inspection visits, - Management of special projects, - Monitoring the administration of MANEB examinations,
+Directorate of Teacher Education | - Quality assurance through assessment of student teaching practice and performance in written tests, - Action research on fundamentals of teaching and learning.
+Directorate of Technical And Vocational Training | - Collect data on technical education such as staff establishment and quality of teaching and learning through supervision and inspection visits, - Management of special projects, - Monitoring the administration of MANEB examinations, - Action research on technical and vocational training.
 Directorate of Education Methods and Advisory Services | - Supervision and inspection of teaching and learning processes at primary and secondary schools using various instruments together with divisional EMAS officers, - Inspecting schools to check on their eligibility for registration, - Checking on the quality of vocational and technical education in technical colleges, - Curriculum development and assessment, - Research on teaching and learning.
-Directorate of Nutrition, HIV and AIDS | - Managing the HIV programmes which are cross-cutting in all departments and sections of the Ministry of Education, - Managing the progress of T'LIPO organisations.
+Directorate of Nutrition, HIV and AIDS | - Managing the HIV programmes which are cross-cutting in all departments and sections of the Ministry of Education, - Managing the progress of T’LIPO organisations.
 Directorate of Special Needs Education | - Manage access to education for the challenged; and teaching and learning materials deployment to schools.
 Financial and accounting services | - Working with divisional planners to control actual monthly expenditure based on funds emanating from treasury, - Monitoring all PSIP project expenditures.
 Organisation | Responsibility
@@ -2345,14 +2520,14 @@ Organisation | Responsibility
 
 [[START OF PAGE 107]]
 
-District level | - The monitoring at this level will be done by DEMs' offices in collaboration with district monitoring and evaluation officers and PEAs.
+District level | - The monitoring at this level will be done by DEMs’ offices in collaboration with district monitoring and evaluation officers and PEAs.
 --- | ---
-School | level - Assess student performance during lessons as homework and periodic school- developed tests, - Manage the quality of teaching practice through school-based supervision by heads and their deputies, - Reporting progress made in school projects such as construction, - Complete EMIS school census.
-Malawi Institute Education | of - Developing and reviewing curricula for primary and secondary schools, - Producing an approved textbooks list for the developed curricula and carrying out teaching and learning materials evaluations as needed, - Carrying out teacher INSET on new curricular developments and monitoring translation in INSET exposure into classroom practice by monitoring teacher
-Malawi National Examinations | Board - Assessing students through terminal examinations (after 8 years of primary, 2 years of secondary and 4 years of secondary), - Collaborating on project-specific studies, such as those to measure achievement of pupils as demanded by ESSUP,
+School level | - Assess student performance during lessons as homework and periodic school-developed tests, - Manage the quality of teaching practice through school-based supervision by heads and their deputies, - Reporting progress made in school projects such as construction, - Complete EMIS school census.
+Malawi Institute of Education | - Developing and reviewing curricula for primary and secondary schools, - Producing an approved textbooks list for the developed curricula and carrying out teaching and learning materials evaluations as needed, - Carrying out teacher INSET on new curricular developments and monitoring translation in INSET exposure into classroom practice by monitoring teacher performance.
+Malawi National Examinations Board | - Assessing students through terminal examinations (after 8 years of primary, 2 years of secondary and 4 years of secondary), - Collaborating on project-specific studies, such as those to measure achievement of pupils as demanded by ESSUP, - Developing assessment materials for the system.
 University and research institutions | - Monitoring societal-rated issues and development/industrial alignment of the learning. - Action research.
-Civil Society (NGOs, FBOs and CBOs) and UN and Donor agencies | - Monitoring and Evaluation officers of partner organisations/stakeholders to share information, data, reports with Research, Monitoring and Evaluation unit at Ministry of Education, Science and Technology on an ongoing and regular basis, - Monitoring education programmes on a regular basis using collaborated monitoring and evaluation tools, - Ensuring data collection and monitoring is not duplicated, - Ongoing communication with other monitoring and evaluation officers at decentralised level to harmonise reports. -
-Ministry of Women and Child Development | Monitoring and supervising ECD and adult literacy learning, - Providing data of ECD and adult learning, - Determining the indicators for ECD and adult literacy.
+Civil Society (NGOs, FBOs and CBOs) and UN and Donor agencies | - Monitoring and Evaluation officers of partner organisations/stakeholders to share information, data, reports with Research, Monitoring and Evaluation unit at Ministry of Education, Science and Technology on an ongoing and regular basis, - Monitoring education programmes on a regular basis using collaborated monitoring and evaluation tools, - Ensuring data collection and monitoring is not duplicated, - Ongoing communication with other monitoring and evaluation officers at decentralised level to harmonise reports.
+Ministry of Women and Child Development | - Monitoring and supervising ECD and adult literacy learning, - Providing data of ECD and adult learning, - Determining the indicators for ECD and adult literacy.
 Ministry of Youth and Sports Development | - Monitoring and supervising out of school youth, - Providing data for out of school youth, - Determining the indicators for out of school youth
 Ministry of Public Works | - Monitoring construction works for education structures, - Providing Guidelines for determining progress of construction projects.
 Ministry of Economic Planning and Development | - Monitoring the Public Sector Investment Programme (PSIP), - Monitoring overall MGDS alignment in light of education issues and their development.
@@ -2369,35 +2544,35 @@ Local Assemblies | - Monitoring education development issues at district level a
 
 ## REFERENCES
 
-ActionAid (2007), The Impact of the IMF and Macroeconomic Targets of the Attainment of Education Goals in Malawi , Malawi.
+ActionAid (2007), The Impact of the IMF and Macroeconomic Targets of the Attainment of Education Goals in Malawi, Malawi.
 
-African Development Bank Group (2009), Skills for Private Sector Development : Country - Malawi, AfDB.
+African Development Bank Group (2009), Skills for Private Sector Development: Country - Malawi, AfDB.
 
 Association of Christian Educators in Malawi (ACEM) (Jan 2007), Report on Baseline Survey of Development Needs of Community Day Secondary Schools (CDSS) in Blantyre Synod: A case study of Blantyre and Zomba Districts, Malawi.
 
 Calcon (2007), Primary School Textbooks Replenishment Strategy Study, Mopane Communications.
 
-Chinsinga B (2006), Adult Literacy in Contemporary Malawi : What are the Issues? Submitted to Programme Management Implementation Unit, Sustainable Social Economic Empowerment Programme (SSEEP), Malawi.
+Chinsinga B (2006), Adult Literacy in Contemporary Malawi: What are the Issues? Submitted to Programme Management Implementation Unit, Sustainable Social Economic Empowerment Programme (SSEEP), Malawi.
 
-Chiunda G & Pfeiffer (2009), Tracer Study of TEVET and Higher Education Completers in Malawi , Draft Report, Malawi.
+Chiunda G & Pfeiffer (2009), Tracer Study of TEVET and Higher Education Completers in Malawi, Draft Report, Malawi.
 
 Foster M (2007), Improving the Provision and Management of External Support to Education in Malawi.
 
-Government of Malawi (GoM) (2000), Policy and Investment Framework , (PIF), MoEST.
+Government of Malawi (GoM) (2000), Policy and Investment Framework, (PIF), MoEST.
 
-Government of Malawi (GoM) (2006) Malawi Growth and Development Strategy (2006-2011 ) From Poverty to Prosperity , MDP&C.
+Government of Malawi (GoM) (2006) Malawi Growth and Development Strategy (2006-2011 ) - From Poverty to Prosperity, MDP&C.
 
-Government of Malawi (GoM) (2006) Malawi Public Expenditure Review, MoF.
+Government of Malawi (GoM) (2006) - Malawi Public Expenditure Review, MoF.
 
 Government of Malawi (GoM) (2007), Malawi Development Assistance Strategy, (2006-2011), MoF.
 
-Government of Malawi (GoM) (June, 2007), Local Development Fund : Operational Manual, 1 st Draft, Ministry of Local Government and Rural Development.
+Government of Malawi (GoM) (June, 2007), Local Development Fund: Operational Manual, 1st Draft, Ministry of Local Government and Rural Development.
 
-Government of Malawi (GoM) (November, 2007), National Strategy for Teacher Education and Development (NSETD) - Primary and Secondary Education ( 20072017) , Ministry of Education, Science and Technology.
+Government of Malawi (GoM) (November, 2007), National Strategy for Teacher Education and Development (NSETD) - Primary and Secondary Education (2007-2017), Ministry of Education, Science and Technology.
 
 Government of Malawi (GoM) (December, 2007): District Education Plan, (All Education Districts), Ministry of Education, Science and Technology
 
-Government of Malawi (GoM) (September, 2008), Population and Housing Census: Preliminary Report , National Statistical Offices (NSO).
+Government of Malawi (GoM) (September, 2008), Population and Housing Census: Preliminary Report, National Statistical Offices (NSO).
 
 108
 
@@ -2405,35 +2580,35 @@ Government of Malawi (GoM) (September, 2008), Population and Housing Census: Pre
 
 [[START OF PAGE 109]]
 
-Government of Malawi (GoM) (2008), The National Education Sector Plan (20082018), Ministry of Education, Science and Technology.
+Government of Malawi (GoM) (2008), The National Education Sector Plan (2008-2018), Ministry of Education, Science and Technology.
 
-Government of Malawi (GoM) (2008), The National Education Sector Plan (20082018)Operational Supplements , Ministry of Education, Science and Technology.
+Government of Malawi (GoM) (2008), The National Education Sector Plan (2008-2018)-Operational Supplements, Ministry of Education, Science and Technology.
 
-Government of Malawi (GoM) (2008) Malawi Growth and Development Strategy -Annual Review 2008, MDP&C.
+Government of Malawi (GoM) (2008) Malawi Growth and Development Strategy - Annual Review 2008, MDP&C.
 
-Government of Malawi (GoM) (2008), Institutionalising Sector Working Groups to Strengthen the Implementation of the Malawi Growth and Development Strategy -Guidelines, Ministry of Finance (MoF), MDP&C.
+Government of Malawi (GoM) (2008), Institutionalising Sector Working Groups to Strengthen the Implementation of the Malawi Growth and Development Strategy - Guidelines, Ministry of Finance (MoF), MDP&C.
 
-Government of Malawi (GoM) (2008), Guidelines for the Management of Education Functions Devolved to the District Assemblies , MoEST.
+Government of Malawi (GoM) (2008), Guidelines for the Management of Education Functions Devolved to the District Assemblies, MoEST.
 
 Government of Malawi (GoM) (March, 2008), The case of Enhanced Financing, Ministry of Education, Science and Technology.
 
-Government of Malawi (GoM) (Oct 2008), Assessment of Learning Achievement In Standards 2 and 5 In English, Mathematics and Chichewa in Malawian Primary Schools , MIE, Malawi.
+Government of Malawi (GoM) (Oct 2008), Assessment of Learning Achievement In Standards 2 and 5 In English, Mathematics and Chichewa in Malawian Primary Schools, MIE, Malawi.
 
-Government of Malawi (GoM-2008) : Institutionalizing Sector Workings (SWGs) to Strengthen the Implementation of the Malawi Growth and Development Strategy, MoF, MDP&C.
+Government of Malawi (GoM-2008): Institutionalizing Sector Workings (SWGs) to Strengthen the Implementation of the Malawi Growth and Development Strategy, MoF, MDP&C.
 
-Government of Malawi (GoM) & Department for International Development (DfID) (Dec, 2008), Impact of Direct Support to Primary Schools (DSS) in Malawi , Centre for Development Management, Malawi.
+Government of Malawi (GoM) & Department for International Development (DfID) (Dec, 2008), Impact of Direct Support to Primary Schools (DSS) in Malawi, Centre for Development Management, Malawi.
 
-Government of Malawi (GoM) (March, 2009), Public Service Capacity Development Programme , Office of the President and Cabinet (OPC), Malawi.
+Government of Malawi (GoM) (March, 2009), Public Service Capacity Development Programme, Office of the President and Cabinet (OPC), Malawi.
 
-Government of Malawi (GoM) (May 2009), A Status Report on Water, Sanitation and Hygiene in Primary Schools , First Draft, MoEST, UNICEF, Malawi.
+Government of Malawi (GoM) (May 2009), A Status Report on Water, Sanitation and Hygiene in Primary Schools, First Draft, MoEST, UNICEF, Malawi.
 
-Government of Malawi (GoM) (2009), Malawi Education Status Report , Draft, Ministry of Education, Science and Technology (MoEST), Malawi
+Government of Malawi (GoM) (2009), Malawi Education Status Report, Draft, Ministry of Education, Science and Technology (MoEST), Malawi
 
-Government of Malawi (GoM) (MDP&C) (2009), Annual Economic Review , Ministry of Development Planning and Corporation (MDP&C).
+Government of Malawi (GoM) (MDP&C) (2009), Annual Economic Review, Ministry of Development Planning and Corporation (MDP&C).
 
-Government of Malawi (GoM) (2009) Capacity Gap Analysis ; For effective implementation of the National Education Sector Plan - Primary Education, Ministry of Education, Science and Technology.
+Government of Malawi (GoM) (2009) Capacity Gap Analysis; For effective implementation of the National Education Sector Plan - Primary Education, Ministry of Education, Science and Technology.
 
-Government of Malawi (GoM) (March, 2009) Capacity Gap Analysis ; For effective implementation of the National Education Sector Plan - Secondary Education, Ministry of Education, Science and Technology.
+Government of Malawi (GoM) (March, 2009) Capacity Gap Analysis; For effective implementation of the National Education Sector Plan - Secondary Education, Ministry of Education, Science and Technology.
 
 109
 
@@ -2445,29 +2620,29 @@ Government of Malawi (GoM) (2009), Programme of Works (POW), MoEST.
 
 Government of Malawi (GoM) (2009), Malawi Aid Atlas: FY 2007/08, MoF.
 
-Government of Malawi (GoM) (2000-2008), Education Statistics Malawi : Education Management Information System (EMIS), Ministry of Education, Science and Technology.
+Government of Malawi (GoM) (2000-2008), Education Statistics Malawi: Education Management Information System (EMIS), Ministry of Education, Science and Technology.
 
 Government of Malawi (GoM), Assessing Pupils` Achievement in Chichewa, English, Mathematics and Science in Malawian Primary Schools: A study in 12 districts, MoEST, Malawi Institute for Education (MIE).
 
-Government of Zambia (2007), Education Sector National Implementation Framework , Lusaka, Zambia.
+Government of Zambia (2007), Education Sector National Implementation Framework, Lusaka, Zambia.
 
-Link for Education Governance (2008), Inside the 2008/09 Malawi Education Budget , Malawi.
+Link for Education Governance (2008), Inside the 2008/09 Malawi Education Budget, Malawi.
 
-Link Community Development (Malawi), (8 th May 2009) Malawi; Design and Manage a Pilot project to deliver financial support to schools for teaching enhancement, Final Report, Draft.
+Link Community Development (Malawi), (8th May 2009) Malawi; Design and Manage a Pilot project to deliver financial support to schools for teaching enhancement, Final Report, Draft.
 
 Global Development Group (2006), Grant Support to the Education Sector, Phase II: Semi-Annual Report FY 06, GDG.
 
-IRC (2006), Feasibility Study of the Proposed Outputs of UNICEF Government of the Netherlands Partnership WASH Programme Malawi, Draft Report .
+IRC (2006), Feasibility Study of the Proposed Outputs of UNICEF Government of the Netherlands Partnership WASH Programme Malawi, Draft Report.
 
-Manda S & Okwach A (2007), Report of the Assessment of the HIV and AIDS Prevention and Mitigation Response in the Education Sector in Malawi ; Final Report, MoEST, Malawi.
+Manda S & Okwach A (2007), Report of the Assessment of the HIV and AIDS Prevention and Mitigation Response in the Education Sector in Malawi; Final Report, MoEST, Malawi.
 
-MACRO International (2009), An Evaluation of Primary School Support Programme : School Fees Pilot, USA.
+MACRO International (2009), An Evaluation of Primary School Support Programme: School Fees Pilot, USA.
 
-Malawi Institute of Management (MIM) (Dec 2008), The Evaluation of the Direct Support to Schools (DSS) Programme: Phase I - Complete Report , Malawi.
+Malawi Institute of Management (MIM) (Dec 2008), The Evaluation of the Direct Support to Schools (DSS) Programme: Phase I - Complete Report, Malawi.
 
 National AIDS Commission (NAC) (2005-2006), Malawi HIV and AIDS Monitoring and Evaluation Report.
 
-The MDG Centre, East and Southern Africa (2007), Rural Development Experience in Malawi. Proceedings of a workshop held 23-24 May 2007 in Lilongwe, Malawi, convened by the Ministry of Local Government and Rural Development, the United Nations Development Programme and the MDG Centre . The MDG Centre, East and Southern Africa, Nairobi, Kenya.
+The MDG Centre, East and Southern Africa (2007), Rural Development Experience in Malawi. Proceedings of a workshop held 23-24 May 2007 in Lilongwe, Malawi, convened by the Ministry of Local Government and Rural Development, the United Nations Development Programme and the MDG Centre. The MDG Centre, East and Southern Africa, Nairobi, Kenya.
 
 Save the Children (2008), Lessons Learned in Malawi, Washington, USA.
 
