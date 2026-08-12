@@ -6,7 +6,7 @@ MINISTRY OF EDUCATION
 
 # Education Sector Strategic Plan
 
-2013/14 - 2017/18
+2013/14 – 2017/18
 
 1
 
@@ -64,12 +64,49 @@ Vincent BIRUTA Minister of Education
 
 # TABLE OF CONTENTS
 
+INTRODUCTION FORWARD........................................................................................................... 3
+FOREWORD BY MINISTER OF EDUCATION..................................................................................... 4
+TABLE OF CONTENTS .................................................................................................................... 5
+LIST OF ABBREVIATIONS ............................................................................................................... 7
+EXECUTIVE SUMMARY.................................................................................................................. 9
+CHAPTER 1: INTRODUCTION ....................................................................................................... 11
+1.1 Context of ESSP Development..................................................................................................... 12
+1.2 Purpose of the Plan ..................................................................................................................... 12
+1.3 Methodology ............................................................................................................................... 12
+CHAPTER 2: OVERVIEW OF THE SECTOR ...................................................................................... 14
+2.1 Current Policy Context................................................................................................................. 14
+2.2 The Structure of the Rwandan Education System....................................................................... 17
+2.3 Achievements of the Education Sector During EDPRS I .............................................................. 18
+2.4 Key Challenges Confronting the Sector....................................................................................... 24
+2.5 Institutional Overview of the Sector ........................................................................................... 29
+CHAPTER 3: STRATEGIC FRAMEWORK......................................................................................... 36
+3.1 Sector Strategic Goals.................................................................................................................. 36
+3.2 Sector Priorities........................................................................................................................... 38
+3.3 Sector Outcomes for the Next 5 Years........................................................................................ 40
+3.4 Strategies for Achieving Outcomes and Cross Cutting Issues..................................................... 53
+CHAPTER 4: IMPLEMENTATION OF THE PLAN.............................................................................. 70
+4.1 Sequencing of Interventions ....................................................................................................... 70
+4.2 Roles and Responsibilities of Partners and Stakeholders ........................................................... 70
+4.3 Coordination and Information Sharing ....................................................................................... 74
+4.4 Risk Analysis and Mitigation Strategies....................................................................................... 78
+CHAPTER 5: MONITORING AND EVALUATION ............................................................................. 82
+5.1 Sector Monitoring Arrangements ............................................................................................... 82
+5.2 Sector Evaluation Plans............................................................................................................... 83
+5.3 Education Sector Monitoring Matrix........................................................................................... 83
+CHAPTER 6: COST AND FINANCING OF THE PLAN......................................................................... 93
+6.1 Funds Available............................................................................................................................ 93
+6.2 Costs by Programme ................................................................................................................... 94
+6.3 Difference to be mobilised.......................................................................................................... 96
+ANNEXES.................................................................................................................................... 99
+
 5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
+7.1 Sector Priority/Policy Action Matrix............................................................................................ 99
+7.2 Detailed cost projections for ESSP ............................................................................................ 114
 7.3 List of Ongoing and Planned Projects in the Sector .................................................................. 135
 
 6
@@ -184,33 +221,35 @@ The Education Sector Strategic Plan (ESSP) outlines how the education sector wil
 
 Based upon these goals and priorities, 10 outcomes have been developed for the education sector:
 
-- Increased equitable access to 9 years of basic education for all children and expanding access to 12 years of basic education.
+1. Increased equitable access to 9 years of basic education for all children and expanding access to 12 years of basic education.
 
-- Increased  equitable  access  to  education  for  students  with  special  educational  needs within mainstream and special schools.
+2. Increased equitable access to education for students with special educational needs within mainstream and special schools.
 
-- Improved quality and learning outcomes across primary and secondary education.
+3. Improved quality and learning outcomes across primary and secondary education.
 
-- Qualified, suitably-skilled and motivated teachers and trainers to meet the demands of expanding education access.
+4. Qualified, suitably-skilled and motivated teachers and trainers to meet the demands of expanding education access.
 
-- Increased equitable access to relevant, high-quality, demand-driven TVET programmes.
+5. Increased equitable access to relevant, high-quality, demand-driven TVET programmes.
 
-- Increased  equitable  access  to  affordable,  relevant,  academically  excellent  higher education that also delivers quality research outputs.
+6. Increased equitable access to affordable, relevant, academically excellent higher education that also delivers quality research outputs.
 
-- Improved  access  to  school  readiness  programmes  by  2017/18,  accompanied  by expanded access to three-years of early learning for four-to-six-year olds.
+7. Improved access to school readiness programmes by 2017/18, accompanied by expanded access to three-years of early learning for four-to-six-year olds.
 
-- Strengthened  performance  in  science,  technology  and  innovation  at  all  levels  of education, and application of science, technology and innovation in relevant sectors of the economy.
+8. Strengthened performance in science, technology and innovation at all levels of education, and application of science, technology and innovation in relevant sectors of the economy.
 
-- Increased access to Adult Basic Education to improve adult literacy and numeracy.
+9. Increased access to Adult Basic Education to improve adult literacy and numeracy.
 
-- Improved administrative and management support services, including the management  of  policy,  information,  finances,  and  human  resources  across  the education sector.
+10. Improved administrative and management support services, including the management of policy, information, finances, and human resources across the education sector.
 
-Chapter 3 of this ESSP elaborates the education sector's priorities for each of these outcome areas and strategies for how these outcomes will be achieved. This is followed by the plan of how the ESSP will  be  implemented in Chapter 4, which outlines the roles and responsibilities of all stakeholders involved at central, district, sector and school level. Chapter 5 then sets out how the implementation of the ESSP will be monitored and performance evaluated, highlighting links to the EDPRS monitoring framework and how the education sector's contribution towards achieving national priorities will be monitored. Finally, Chapter 6 provides an overview of the required budget to finance the ESSP and how it will be financed.
+Chapter 3 of this ESSP elaborates the education sector's priorities for each of these outcome areas and strategies for how these outcomes will be achieved. This is followed by the plan of how the ESSP will be implemented in Chapter 4, which outlines the roles and responsibilities of all stakeholders involved at central, district, sector and school level. Chapter 5 then sets out how the implementation of the ESSP will be monitored and performance evaluated, highlighting links to the EDPRS monitoring framework and how the education sector's contribution towards achieving national priorities will be
 
 9
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+monitored. Finally, Chapter 6 provides an overview of the required budget to finance the ESSP and how it will be financed.
 
 10
 
@@ -238,13 +277,13 @@ Chapter 1 of the ESSP sets out the context and purpose of the plan. Chapter 2 pr
 
 ## 1.1 CONTEXT OF ESSP DEVELOPMENT
 
-Since  1998  the  Government  of  Rwanda  has  been  focused  on  a  development  agenda  aimed  at transforming Rwanda into a middle-income country by the year 2020. The long-term Vision 2020 is being implemented through the medium-term planning framework of the EDPRS for successive fiveyear periods. This ESSP corresponds with the second EDPRS, covering the period 2013/14 to 2017/18. The  ESSP  has  been  produced  in  concert  with  the  second  EDPRS  to  ensure  complete  alignment  of goals  and  outcomes  over  the  next  five  years.  The  central  policy  proposition  for  this  ESSP  is  the extension  of  the  Government's  nine-year  basic  education  (9YBE)  commitment  to  twelve  years (12YBE). In addition, the plan reflects the new priorities of making pre-primary, primary, secondary (including  technical  and  vocational  education  (TVET)),  and  higher  education  more  accessible  and more relevant to the national needs. Investing in improving the quality of education across the board is also central to this ESSP.
+Since 1998 the Government of Rwanda has been focused on a development agenda aimed at transforming Rwanda into a middle-income country by the year 2020. The long-term Vision 2020 is being implemented through the medium-term planning framework of the EDPRS for successive five-year periods. This ESSP corresponds with the second EDPRS, covering the period 2013/14 to 2017/18. The ESSP has been produced in concert with the second EDPRS to ensure complete alignment of goals and outcomes over the next five years. The central policy proposition for this ESSP is the extension of the Government's nine-year basic education (9YBE) commitment to twelve years (12YBE). In addition, the plan reflects the new priorities of making pre-primary, primary, secondary (including technical and vocational education (TVET)), and higher education more accessible and more relevant to the national needs. Investing in improving the quality of education across the board is also central to this ESSP.
 
 ## 1.2 PURPOSE OF THE PLAN
 
-The purpose of this ESSP is to provide a planning framework that will enable the education sector to improve  the  provision  of  education,  including  skills  development,  in  order  to  better  meet  the requirements of the diverse labour market, by increasing the coverage and the quality of 12YBE. In addition to strengthening TVET and higher education provision, the plan also aims to improve preprimary education, teacher education and adult literacy provision.
+The purpose of this ESSP is to provide a planning framework that will enable the education sector to improve the provision of education, including skills development, in order to better meet the requirements of the diverse labour market, by increasing the coverage and the quality of 12YBE. In addition to strengthening TVET and higher education provision, the plan also aims to improve pre-primary education, teacher education and adult literacy provision.
 
-This ESSP provides the overarching framework  for a holistic sector-wide approach  to the development  and  delivery  of  education  services  in  Rwanda.  The  Medium  Term  Expenditure Framework (MTEF) will be used as a tool to ensure that budget allocations follow medium and longterm paths. The use of the MTEF also ensures that educational proposals are set within the national fiscal planning and management framework, with close monitoring and regular evaluation. The ESSP will  provide  the  overarching and guiding framework for the elaboration of logically consistent and sequential annual operational plans and budgets for each of the five years of its duration.
+This ESSP provides the overarching framework for a holistic sector-wide approach to the development and delivery of education services in Rwanda. The Medium Term Expenditure Framework (MTEF) will be used as a tool to ensure that budget allocations follow medium and long-term paths. The use of the MTEF also ensures that educational proposals are set within the national fiscal planning and management framework, with close monitoring and regular evaluation. The ESSP will provide the overarching and guiding framework for the elaboration of logically consistent and sequential annual operational plans and budgets for each of the five years of its duration.
 
 ## 1.3 METHODOLOGY
 
@@ -294,7 +333,7 @@ The  broad  education  objectives  within  the  7YGP  are  to  strengthen  the  
 
 Rwanda's second EDPRS has two central and overarching goals: (i) to generate sustained economic growth rates of at least 11.5% per annum over the duration of the EDPRS, and (ii) to reduce the rate of  poverty  to  below  30%  of  the  population  by  2017/18.  To  achieve  these  ambitious  goals  four thematic priority areas have been identified as a focus for prioritisation and planning. These thematic areas  are  economic  transformation,  rural  development,  accountable  governance,  and  improved productivity and youth employment. While the education sector has a role to play in all four of these themes,  it  is  most  directly  involved  in  providing  the  human  resource  pool  required  for  economic transformation and in addressing issues of improved productivity and increased youth employment. The modalities through which this sector plan contributes to the prioritisation of the thematic areas and the achievement of the overall goals are detailed in Chapter 3 below.
 
-The EDPRS 2 also identifies  a  number  of  cross-cutting  and  foundational  issues  that  require  crossgovernment coordination to support the overarching development and thematic goals. These crosscutting issues are: capacity building to enable effective implementation, regional integration, gender and  family,  the  environment,  climate  change  and  disaster  management,  disability  and  social inclusion, and HIV/AIDS and non-communicable diseases. Section 3.4 in Chapter 3 details how the education sector will support these cross-cutting issues over the next 5 years.
+The EDPRS 2 also identifies a number of cross-cutting and foundational issues that require cross-government coordination to support the overarching development and thematic goals. These cross-cutting issues are: capacity building to enable effective implementation, regional integration, gender and family, the environment, climate change and disaster management, disability and social inclusion, and HIV/AIDS and non-communicable diseases. Section 3.4 in Chapter 3 details how the education sector will support these cross-cutting issues over the next 5 years.
 
 ### 2.1.4 Education Sector Policies
 
@@ -342,7 +381,7 @@ In August 2010, the President of the Republic of Rwanda made a new commitment to
 
 ### 2.1.5 MDGs and EFA
 
-Rwanda  has  committed  to  achieving  the  eight  MDGs  and  the  EFA  goals.  Both  focus  on  the importance  of  universal  basic  education  and  the  elimination  of  gender  disparities.  The  ESSP  is consistent with these commitments, and Rwanda is on track to meet both of the education related MDGS, thanks to the innovative 9YBE fast-tracking strategies and girls' education initiatives. However some work remains to be done prior to 2015 to achieve these international goals. This ESSP includes actions  that  are  intended  to  ensure  access  to  primary  schooling  for  the  remaining  4%  of  out-ofschool children, those in deep rural and urban poverty, in hard to reach areas, and those with special educational  needs.  Gender  equity  has  virtually  been  achieved  in  terms  of  enrolment  in  general primary and secondary schooling, though significant challenges remain with regard to access to, and participation in, TVET, Higher Education, and Science & Technology. These challenges are addressed in  this  ESSP.  The  ESSP's  Sector  outcomes  also  reflect  the  broader  EFA  goals  relating  to  early childhood development (ECD), youth education and skills development, adult literacy and the quality of  education.  The  post-2015  development  agenda  echoes  many  of  the  same  themes  as  EDPRS2 seeking economic transformation for inclusive growth. It also emphasises that no-one should be left behind,  a  theme  also  flowing  through  this  ESSP  with  its  focus  on  equity  and  ensuring  quality  of learning as well as access to education.
+Rwanda has committed to achieving the eight MDGs and the EFA goals. Both focus on the importance of universal basic education and the elimination of gender disparities. The ESSP is consistent with these commitments, and Rwanda is on track to meet both of the education related MDGS, thanks to the innovative 9YBE fast-tracking strategies and girls' education initiatives. However some work remains to be done prior to 2015 to achieve these international goals. This ESSP includes actions that are intended to ensure access to primary schooling for the remaining 4% of out-of-school children, those in deep rural and urban poverty, in hard to reach areas, and those with special educational needs. Gender equity has virtually been achieved in terms of enrolment in general primary and secondary schooling, though significant challenges remain with regard to access to, and participation in, TVET, Higher Education, and Science & Technology. These challenges are addressed in this ESSP. The ESSP's Sector outcomes also reflect the broader EFA goals relating to early childhood development (ECD), youth education and skills development, adult literacy and the quality of education. The post-2015 development agenda echoes many of the same themes as EDPRS2 seeking economic transformation for inclusive growth. It also emphasises that no-one should be left behind, a theme also flowing through this ESSP with its focus on equity and ensuring quality of learning as well as access to education.
 
 16
 
@@ -374,7 +413,7 @@ During  the  period  of  EDPRS  I  demand  for  education  services  grew  rapid
 
 The EDPRS I strategy for education was defined within two broad objectives: 1) develop skills for a knowledge-based  economy,  and  2)  promote  science,  technology  and  innovation  for  economic growth. All levels of education contribute to skills development - from pre-primary and early grades which are necessary to provide a solid foundation for basic skills and cognitive development, through primary and secondary school with the development of higher order skills such as problem-solving and  communication,  and  through  TVET  with  more  applied  learning  for  the  workplace  and  higher education.
 
-The ESSP 2010-2015 was developed to address key policy and strategic challenges and objectives in the sector, as outlined in the EDRPS I as well as the Vision 2020. The 9YBE programme was identified as the foundation for human resource and skills development, while improved access to and quality of  upper  secondary  schools,  teacher  training  colleges,  Higher  Learning  Institutions  and  demanddriven TVET courses were prioritised to supply the demand for higher level skills and competencies which are relevant for labour market needs.
+The ESSP 2010-2015 was developed to address key policy and strategic challenges and objectives in the sector, as outlined in the EDRPS I as well as the Vision 2020. The 9YBE programme was identified as the foundation for human resource and skills development, while improved access to and quality of upper secondary schools, teacher training colleges, Higher Learning Institutions and demand-driven TVET courses were prioritised to supply the demand for higher level skills and competencies which are relevant for labour market needs.
 
 ### 2.3.2 Successful Reforms and Innovations during EDPRS I
 
@@ -396,7 +435,7 @@ The CPAF/EDPRS I targets included the primary school completion rate (including 
 
 The primary school completion rate reached 72.7% in 2012 which is a significant improvement on the baseline figure of 52.5% in 2008, but falls short of the 2012 target of 78%. The completion rate for girls is higher than the national average, reaching 77.7% in 2012. The qualified teacher to pupil ratio at primary level stands at 62:1, which is an impressive improvement from the 2008 figure of 67:1.
 
-The  transition  rate  from  lower  secondary  (S3)  to  upper  secondary  (S4)  has  now  reached  95.9%  against a 2008 baseline of 86% - far surpassing the 2012 target set in the previous ESSP. However it will  be  a  challenge  to  maintain  this  high  figure  over  the  coming  years  as  more  and  more  children transition through the full basic cycle, thanks to the success of the 9YBE and 12YBE programmes.
+The transition rate from lower secondary (S3) to upper secondary (S4) has now reached 95.9% - against a 2008 baseline of 86% - far surpassing the 2012 target set in the previous ESSP. However it will be a challenge to maintain this high figure over the coming years as more and more children transition through the full basic cycle, thanks to the success of the 9YBE and 12YBE programmes.
 
 Progress was also recorded in the percentage of students in science streams taking S6 national exams who pass with a minimum for public university entrance to study a science discipline. The current targets  of  20%  for  girls  and  30%  for  boys  have  been  achieved,  and  now  stand  at  25%  and  38%, respectively.
 
@@ -410,17 +449,15 @@ The primary NER continues to improve for both girls and boys and, at 96.5% has s
 
 [[START OF PAGE 20]]
 
-The number of students in secondary education continues to increase as a result of 9YBE and 12YBE, with a total of 534,712 currently enrolled against a baseline figure of 288,036 in 2008. Girls make up 52.2%  of  students  in  secondary  education  and  50.8%  of  those  students  enrolled  in  science
+The number of students in secondary education continues to increase as a result of 9YBE and 12YBE, with a total of 534,712 currently enrolled against a baseline figure of 288,036 in 2008. Girls make up 52.2% of students in secondary education and 50.8% of those students enrolled in science combinations at the upper secondary level.
 
-TVET is more widely accessible now than ever before in  Rwanda, in particular more individuals in rural areas are accessing TVET education. Currently for every 10 students in urban areas attending TVET courses there are approximately 8 students in rural areas, comparatively under EICV2 (2005) for every 10 urban students there were only 4 students in rural areas. The number of vocational training centres (VTCs) has increased from 61 in 2010 to 116 in 2012 facilitating a 50% increase in the number of students, with a current enrolment of 13,557, 39.3% of whom are female. There have also been a number  of  important  reforms  in  the  TVET  sector,  notably  the  establishment  of  the  WDA  whose mission is to promote,  facilitate, and  guide the development  and  upgrading  of  skills and competencies  of  the  national  workforce  in  order  to  enhance  competitiveness  and  employability. Since  its  establishment,  WDA  has  worked  with  stakeholders  to  introduce  the  Rwandan  TVET Qualifications  Framework  (RTQF)  and  competency-based  curricula  with  industrial  attachment programmes.  In  addition,  it  has  conducted  work  on  the  training  of  trainers  to  improve  teaching within  TVET  institutions.  Recent  years  have  also  seen  greater  levels  of  industry  involvement, including  closer  partnerships  with  the  Private  Sector  Federation  and  the  establishment  of  Sector Skills  Councils,  which  are  responsible  for  practicing  standards,  national  occupation  standards, occupation gap identification, certification of competencies acquired in diverse training offers, and
+TVET is more widely accessible now than ever before in Rwanda, in particular more individuals in rural areas are accessing TVET education. Currently for every 10 students in urban areas attending TVET courses there are approximately 8 students in rural areas, comparatively under EICV2 (2005) for every 10 urban students there were only 4 students in rural areas. The number of vocational training centres (VTCs) has increased from 61 in 2010 to 116 in 2012 facilitating a 50% increase in the number of students, with a current enrolment of 13,557, 39.3% of whom are female. There have also been a number of important reforms in the TVET sector, notably the establishment of the WDA whose mission is to promote, facilitate, and guide the development and upgrading of skills and competencies of the national workforce in order to enhance competitiveness and employability. Since its establishment, WDA has worked with stakeholders to introduce the Rwandan TVET Qualifications Framework (RTQF) and competency-based curricula with industrial attachment programmes. In addition, it has conducted work on the training of trainers to improve teaching within TVET institutions. Recent years have also seen greater levels of industry involvement, including closer partnerships with the Private Sector Federation and the establishment of Sector Skills Councils, which are responsible for practicing standards, national occupation standards, occupation gap identification, certification of competencies acquired in diverse training offers, and skills and workforce development within key economic sectors.
 
-The  tertiary  education  sector  continues  to  expand,  with  a  total  of  76,629  students  enrolled  in universities and colleges in 2012. Of these students 49% are enrolled in public institutions and 44.2% are  female.  A  majority  of  female  students  (59.5%)  are  enrolled  in  private  tertiary  education institutions  (TEIs) 2 .  Overall  there  has  been  an  increase  of  29,223  students  attending  tertiary education since 2008, with comparable increases in both the public and private sector to support the increasing  student  population.  The  percentage  of  individuals  aged  between  19  and  25  years attending an institution of higher learning doubled from 1.3% reported in EICV2 to 2.6% reported in
+The tertiary education sector continues to expand, with a total of 76,629 students enrolled in universities and colleges in 2012. Of these students 49% are enrolled in public institutions and 44.2% are female. A majority of female students (59.5%) are enrolled in private tertiary education institutions (TEIs)2. Overall there has been an increase of 29,223 students attending tertiary education since 2008, with comparable increases in both the public and private sector to support the increasing student population. The percentage of individuals aged between 19 and 25 years attending an institution of higher learning doubled from 1.3% reported in EICV2 to 2.6% reported in EICV3.
 
-The EICV3 and 2012 RPHC show that, across all Rwanda, 15 to 24 year olds have higher levels of literacy than the population of 15 years or more. In 2010-11, about 84% of the population of 15 to 24 years  and  68%  of  the  population  of  15  years  or  more  knew  how  to  read  and  write.  This  reflects higher levels of access to education among the population of 15 to 24 years. The literacy rate among the population of 15 to 24 year olds increased from 76.9% reported in EICV2 to 83.7% reported in EICV3. The formal adult literacy rate is measured as the proportion of the population over the age of 15 who are literate. By this measure, Rwanda had an adult literacy rate of 68% in 2010/11. This is an
+The EICV3 and 2012 RPHC show that, across all Rwanda, 15 to 24 year olds have higher levels of literacy than the population of 15 years or more. In 2010-11, about 84% of the population of 15 to 24 years and 68% of the population of 15 years or more knew how to read and write. This reflects higher levels of access to education among the population of 15 to 24 years. The literacy rate among the population of 15 to 24 year olds increased from 76.9% reported in EICV2 to 83.7% reported in EICV3. The formal adult literacy rate is measured as the proportion of the population over the age of 15 who are literate. By this measure, Rwanda had an adult literacy rate of 68% in 2010/11. This is an increase from a 65% adult literacy rate in 2005/06.
 
-combinations at the upper secondary level. skills and workforce development within key economic sectors. EICV3. increase from a 65% adult literacy rate in 2005/06.
-
-Both  the  EICV3  and  EICV2  surveys  asked  questions  on  satisfaction  with  education  services  of  the users  of  these  services  across  all  levels  of  the  education  system.  82%  of  the  users  of  education services  in  2010/11  were  satisfied  with  these  services.  This  represents  an  increase  of  24%  since 2005/06, suggesting that the quality of education services provided in Rwanda is perceived to have improved  significantly  in  this  period.  However,  satisfaction  rates  are  lowest  among  users  in  rural areas as well as in the Western Province.
+Both the EICV3 and EICV2 surveys asked questions on satisfaction with education services of the users of these services across all levels of the education system. 82% of the users of education services in 2010/11 were satisfied with these services. This represents an increase of 24% since 2005/06, suggesting that the quality of education services provided in Rwanda is perceived to have improved significantly in this period. However, satisfaction rates are lowest among users in rural areas as well as in the Western Province.
 
 > 2 TEIs  include  all  post-secondary  education  institutions  (Colleges,  Universities  etc),  whereas  the  term  Higher Learning Institute (HLI) is reserved for institutions offering qualifications at undergraduate level and above.
 
@@ -504,7 +541,7 @@ c) Upper Secondary | 1.6% | 1.5% | 1.8%
 
 ### 2.4.1 Increasing Access to All Levels of Education
 
-Rwanda has made impressive strides since 2000 in extending access to basic education to as many of its children as possible, as outlined above. The challenge going forward is to target the hardest-toreach  to  ensure  that  all  children  of  the  official  primary  age  group  are  accessing  schooling.  The findings of the EICV3 indicate that this involves targeting both boys and girls from more rural areas, the  poorest  of  the  urban  and  rural  poor,  and  children  with  disabilities  and  various  other  special learning needs. Targeted policies and strategies addressing barriers to participation and learning for the most vulnerable children, including adolescent girls, children with disabilities, children living with HIV/AIDS and children from poorer backgrounds will be required to address this challenge and are included in the planned strategies within this ESSP.
+Rwanda has made impressive strides since 2000 in extending access to basic education to as many of its children as possible, as outlined above. The challenge going forward is to target the hardest-to-reach to ensure that all children of the official primary age group are accessing schooling. The findings of the EICV3 indicate that this involves targeting both boys and girls from more rural areas, the poorest of the urban and rural poor, and children with disabilities and various other special learning needs. Targeted policies and strategies addressing barriers to participation and learning for the most vulnerable children, including adolescent girls, children with disabilities, children living with HIV/AIDS and children from poorer backgrounds will be required to address this challenge and are included in the planned strategies within this ESSP.
 
 It  is  at  the  secondary  school  level  that  the  greatest challenge  remains  in  expanding  access. While impressive gains have been made during the course of EDPRS I following the introduction of 9YBE and 12YBE, the current secondary NER of 28% will need to increase significantly over the next five years to meet the targets of EDPRS 2. This implies an expansion of the system, particularly at the upper secondary level in line with the 12YBE strategy - expanding infrastructure, and increasing the number  of  teachers, and teaching and  learning materials, all of which  require significant investments. The TVET stream within the upper secondary school level will also have to be expanded significantly within the 12YBE programme, including an increase in the number of public and private TVET institutions at the post 12YBE level, in order to meet the targets set for EDPRS 2.
 
@@ -598,7 +635,7 @@ Ministry  of  Public  Service  and  Labour  (MIFOTRA) which  sets  and  administ
 
 Ministry of Local Government (MINALOC) which oversees decentralisation functions of education; administers the Assistance Fund for Genocide Survivors (FARG) and community development funds; monitors  performance  at  decentralised  levels  (provinces  and  districts,  including  performance contracts)  and  manages  the  Vision  2020  Umurenge  social  protection  programme  (VUP)  which impacts on education as well as health.
 
-MINEDUC and its affiliated agencies also work closely with a number of other Ministries on crosssectoral issues. These include:
+MINEDUC and its affiliated agencies also work closely with a number of other Ministries on cross-sectoral issues. These include:
 
  Ministry of Trade and Industry (MINICOM ) and the Rwanda Development Board (RDB) on issues relating to skills development and employment, and
 
@@ -632,9 +669,17 @@ Figure 1: Structure of the Ministry of Education
 
 Minister of Education
 
-Procurement, Public relations, Legal
+Advisor, Internal Auditors,
 
-Advisor, Admin Assistant
+Admin Assistant
+
+Minister of State
+
+(TVET)
+
+Advisor
+
+Admin Assistant
 
 Minister of State
 
@@ -644,19 +689,9 @@ Advisor
 
 Admin Assistant
 
-Advisor, Internal Auditors,
+Permanent
 
-Admin Assistant
-
-Finance and Administration
-
-Director
-
-HR, Logistics, Budget Manager,
-
-Accountant, Central Secretariat, ICT,
-
-Customer Care, Archivist
+Secretary
 
 International Cooperation Unit
 
@@ -668,13 +703,53 @@ and International Partnerships, Rwandan
 
 Students Abroad
 
+Procurement, Public relations, Legal
+
+Advisor, Admin Assistant
+
+Finance and Administration
+
+Director
+
+HR, Logistics, Budget Manager,
+
+Accountant, Central Secretariat, ICT,
+
+Customer Care, Archivist
+
 Director General of Education Planning
 
 Admin Assistant
 
-Director General of Science, Technology and Research
+Planning
 
-Admin Assistant, Data Manager
+Director
+
+Sector Planning &
+
+Budgeting, EMIS and
+
+Statistics,
+
+Institutional Change
+
+& Capacity Building
+
+Cross-Cutting
+
+Programmes
+
+Director
+
+Girls’ education, Special
+
+Education Needs, Sports
+
+and Culture, Health and
+
+HIV/AIDS, Environment,
+
+Hygiene & Nutrition
 
 Policy, Monitoring
 
@@ -691,6 +766,10 @@ Lower Secondary,
 Upper Secondary, TVET,
 
 Higher Education
+
+Director General of Science, Technology and Research
+
+Admin Assistant, Data Manager
 
 Science
 
@@ -715,48 +794,6 @@ ICT in Education
 Director
 
 Policy, M&E
-
-Planning
-
-Director
-
-Sector Planning &
-
-Budgeting, EMIS and
-
-Statistics,
-
-Institutional Change
-
-& Capacity Building
-
-Cross-Cutting
-
-Programmes
-
-Director
-
-Girls' education, Special
-
-Education Needs, Sports
-
-and Culture, Health and
-
-HIV/AIDS, Environment,
-
-Hygiene & Nutrition
-
-Permanent
-
-Secretary
-
-Minister of State
-
-(TVET)
-
-Advisor
-
-Admin Assistant
 
 31
 
@@ -926,7 +963,7 @@ The management of policy, information, finances and human resources across the s
 
 ### Goal 3: To strengthen the relevance of education and training to the labour market
 
-A key goal of the EDPRS 2 is to move from an agricultural-based economy to a service and industrybased economy. Success is dependent on the creation of a workforce with the right skills, attitudes and  competencies.  Developing  these  will  require  investment  in  education  at  all  levels  of  the education system, from early childhood to higher education.
+A key goal of the EDPRS 2 is to move from an agricultural-based economy to a service and industry-based economy. Success is dependent on the creation of a workforce with the right skills, attitudes and  competencies.  Developing  these  will  require  investment  in  education  at  all  levels  of  the education system, from early childhood to higher education.
 
 Research has indicated that  there  is  a  strong  association  across  countries  between  the  quality  of education, as measured by test scores in core subjects, and economic growth. This demonstrates the need  for  a  workforce  with  strong  foundational  skills  in  basic  literacy  and  numeracy,  as  well  as transferable skills such as communication, problem solving and ICT. A competency-based curriculum and  assessment  system  will  focus  on  these  core  areas.  At  primary  and  secondary  schools,  the percentage  of  schools  with  electricity,  computers  and  access  to  the  internet  will  be  increased  to support the use of ICT in education.
 
@@ -960,7 +997,7 @@ Expansion of public TVET providers will focus on ensuring that core infrastructu
 
 ### Priority  2:  Improved  quality  and  learning  outcomes  across  primary  and  secondary education.
 
-Given limited financial resources, immediate attention will be given to reduce repetition and dropout  by  improving  the  number  and  quality  of  skilled  and  motivated  teachers,  and  availability  of teaching  and  learning  resources.  Children  at  risk  of  dropping  out  will  be  supported  to  remain  in education through strategies that engage parents and the community.
+Given limited financial resources, immediate attention will be given to reduce repetition and drop-out  by  improving  the  number  and  quality  of  skilled  and  motivated  teachers,  and  availability  of teaching  and  learning  resources.  Children  at  risk  of  dropping  out  will  be  supported  to  remain  in education through strategies that engage parents and the community.
 
 Revision of the 12YBE curriculum is a priority for this ESSP. This includes the development of a new competency-based  curriculum  for  the  TVET  stream,  and  harmonisation  of  curriculum  standards across the East African Community (EAC). Other key activities include the reform of examination and assessment practices, improvements in the quality and supply of teaching and learning resources, and roll out of the appropriate use of ICT in teaching and learning.
 
@@ -1070,7 +1107,7 @@ This outcome is responding to the education sector's commitments within the Nati
 
 The education sector has responsibility for the critical areas of Science, Technology, and Innovation(STI),  which  are  widely  seen  as  dominant  factors  behind  rapid  economic  and  industrial growth. The Government's Vision 2020 statement, its National Policy on Science, Technology and Innovation, and the EDPRS 2 are all based on the premise that, through embarking on a concerted effort to build science, technology and innovation capacity Rwanda will greatly enhance its prospects of  achieving  the  growth,  poverty  reduction,  wealth  creation  and  export  diversification  objectives. Strategies  to  improve  STI  capacity  include  promoting  knowledge  acquisition  and  deepening knowledge creation, knowledge transfer and a culture of innovation in order to promote sustained growth of  GDP  including  enhanced  opportunities  for  growth  in  rural  areas;  to  improve  skills  and knowledge among the population and to integrate technical education with commerce, industry and the private sector.
 
-The  lack  of  research  and  development,  particularly  linked  to  new  product  discovery  and  product development, has been highlighted as one of the key constraints to growth, for example in the agroprocessing area. This ESSP includes a renewed and intensified focus on research and development in higher education and research institutions. Within basic education, students need to be inspired to pursue  science  and  technology  subjects.  To  achieve  this,  teaching  of  these  subjects  needs  to  be supported by adequate laboratory equipment and materials to support practical learning, as well as adequately qualified teachers. The introduction and application of science and technology from the early grades is of critical importance if Rwanda wishes to develop graduates who are science and computer literate, a requirement for the country in order to attract hi-tech firms to establish their businesses in Rwanda. There will be enhancement of the existing business incubation centres in TEIs to  support  the  development  of  sustainable  business  ventures,  and  to  provide  a  channel  for innovation  and  application  of  research  to  support  economic  transformation  and  graduate  job creation.
+The  lack  of  research  and  development,  particularly  linked  to  new  product  discovery  and  product development, has been highlighted as one of the key constraints to growth, for example in the agro-processing area. This ESSP includes a renewed and intensified focus on research and development in higher education and research institutions. Within basic education, students need to be inspired to pursue  science  and  technology  subjects.  To  achieve  this,  teaching  of  these  subjects  needs  to  be supported by adequate laboratory equipment and materials to support practical learning, as well as adequately qualified teachers. The introduction and application of science and technology from the early grades is of critical importance if Rwanda wishes to develop graduates who are science and computer literate, a requirement for the country in order to attract hi-tech firms to establish their businesses in Rwanda. There will be enhancement of the existing business incubation centres in TEIs to  support  the  development  of  sustainable  business  ventures,  and  to  provide  a  channel  for innovation  and  application  of  research  to  support  economic  transformation  and  graduate  job creation.
 
 ### 9. Increased access to Adult Basic Education to improve adult literacy and numeracy.
 
@@ -1152,14 +1189,14 @@ Table 2 below summarises how the Education sector's priorities and planned outco
 
 [[START OF PAGE 49]]
 
+Table 2: Sector Priority and Outcome Matrix
+
 EDPRS 2 THEMATIC AREA | THEMATIC OUTCOME | SECTOR PRIORITY | SECTOR OUTCOME | SECTOR OUTCOME INDICATOR
 --- | --- | --- | --- | ---
-Productivity and Youth Employment Foundational issue | 1.2 Graduates prepared for job market with critical skills needed 1.4 Decreased critical skills gaps 2.1 More productive private sector 4.1 Reduced unemployment Equitable nine-years education for children, and access to | access to basic all expanding twelve-years basic education. | 1. Increased equitable access to 9 years of basic education for all children and expanding access to 12 years of basic education. | - Primary Completion Rate (F/M) - Transition rate from primary to lower secondary (F/M) - Transition rate from lower to upper secondary (F/M)
+Productivity and Youth Employment Foundational issue | 1.2 Graduates prepared for job market with critical skills needed 1.4 Decreased critical skills gaps 2.1 More productive private sector 4.1 Reduced unemployment | Equitable access to nine-years basic education for all children, and expanding access to twelve-years basic education. | 1. Increased equitable access to 9 years of basic education for all children and expanding access to 12 years of basic education. | - Primary Completion Rate (F/M) - Transition rate from primary to lower secondary (F/M) - Transition rate from lower to upper secondary (F/M)
 Productivity and Youth Employment Foundational issue | 1.2 Graduates prepared for job market with critical skills needed 1.4 Decreased critical skills gaps 4.1 Reduced unemployment | Equitable access to nine-years basic education for all children, and expanding access to twelve-years basic education. | 2. Increased equitable access to education for students with special educational needs within mainstream and special schools. | - Number of children with disabilities enrolled in school (primary and secondary)
-Productivity and Youth Employment Foundational issue | 1.1 Curricula for educational institutions meeting skills requirements of employers 1.2 Graduates prepared for job market with critical skills needed 1.4 Decreased critical skills gaps 1.5 Changing attitudes to work 2.1 More productive private sector 4.1 Reduced unemployment | Improved quality and learning outcomes across primary and secondary education. | 3. Improved quality and learning outcomes across primary and secondary education. | - Percentage of students meeting minimum standards in English, Kinyarwanda and maths in P3 and P5 - Pupil: Qualified Teacher Ratio (Primary/Secondary) 6
-Productivity and Youth Employment Foundational issue | 1.2 Graduates prepared for job market with critical skills needed 2.1 More productive private sector 2.2 More productive public sector | Equitable access to nine-years basic education for all children, and expanding access to twelve-years | 4. Qualified, suitably-skilled and motivated teachers and trainers to meet demands of expanding education access.
-
-Table 2: Sector Priority and Outcome Matrix
+Productivity and Youth Employment Foundational issue | 1.1 Curricula for educational institutions meeting skills requirements of employers 1.2 Graduates prepared for job market with critical skills needed 1.4 Decreased critical skills gaps 1.5 Changing attitudes to work 2.1 More productive private sector 4.1 Reduced unemployment | Improved quality and learning outcomes across primary and secondary education. | 3. Improved quality and learning outcomes across primary and secondary education. | - Percentage of students meeting minimum standards in English, Kinyarwanda and maths in P3 and P5 - Pupil: Qualified Teacher Ratio (Primary/Secondary)6
+Productivity and Youth Employment Foundational issue | 1.2 Graduates prepared for job market with critical skills needed 2.1 More productive private sector 2.2 More productive public sector | Equitable access to nine-years basic education for all children, and expanding access to twelve-years | 4. Qualified, suitably-skilled and motivated teachers and trainers to meet demands of expanding education access. |
 
 > 6 This outcome indicator on the pupil: qualified teacher ratio is used to assess progress on outcomes 3 and 4
 
@@ -1171,10 +1208,10 @@ Table 2: Sector Priority and Outcome Matrix
 
 EDPRS 2 THEMATIC AREA | THEMATIC OUTCOME | SECTOR PRIORITY | SECTOR OUTCOME | SECTOR OUTCOME INDICATOR
 --- | --- | --- | --- | ---
-basic education. Improved quality and learning outcomes across primary and secondary education.
-Productivity and Youth Employment | 1.1 Curricula for educational institutions meeting skills requirements of employers 1.2 Graduates prepared for job market with critical skills needed 1.4 Decreased critical skills gaps 1.5 Changing attitudes to work 2.1 More productive private sector 4.1 Reduced unemployment | Improved relevance of education and training to the labour market, including secondary, demand-driven TVET and Higher Education. | 5. Increased equitable access to relevant, high-quality, demand- driven TVET programmes. | - Percentage of TVET graduates 7 employed 8 six months after graduation - Percentage of employers satisfied with TVET graduates
-Productivity and Youth Employment | 1.1 Curricula for educational institutions meeting skills requirements of employers 1.2 Graduates prepared for job market with critical skills needed 1.4 Decreased critical skills gaps 1.5 Changing attitudes to work 2.1 More productive private sector 4.1 Reduced unemployment | Improved relevance of education and training to the labour market, including secondary, demand-driven TVET and Higher Education. | 6. Increased equitable access to affordable, relevant, academically excellent higher education that also delivers quality research outputs. | - Percentage of employers satisfied with university graduates - Percentage of university graduates employed 5 one year after graduation
-Productivity and Youth Employment | Equitable access to nine-years basic education for all children, and expanding | 7. Improved access to school readiness programmes by 2017/18, accompanied by expanded access to three-years | - Percentage of children aged 4- 6 enrolled in pre-primary education programmes
+ |  | basic education. Improved quality and learning outcomes across primary and secondary education. |  |
+Productivity and Youth Employment | 1.1 Curricula for educational institutions meeting skills requirements of employers 1.2 Graduates prepared for job market with critical skills needed 1.4 Decreased critical skills gaps 1.5 Changing attitudes to work 2.1 More productive private sector 4.1 Reduced unemployment | Improved relevance of education and training to the labour market, including secondary, demand-driven TVET and Higher Education. | 5. Increased equitable access to relevant, high-quality, demand-driven TVET programmes. | - Percentage of TVET graduates7 employed8 six months after graduation - Percentage of employers satisfied with TVET graduates
+Productivity and Youth Employment | 1.1 Curricula for educational institutions meeting skills requirements of employers 1.2 Graduates prepared for job market with critical skills needed 1.4 Decreased critical skills gaps 1.5 Changing attitudes to work 2.1 More productive private sector 4.1 Reduced unemployment | Improved relevance of education and training to the labour market, including secondary, demand-driven TVET and Higher Education. | 6. Increased equitable access to affordable, relevant, academically excellent higher education that also delivers quality research outputs. | - Percentage of employers satisfied with university graduates - Percentage of university graduates employed5 one year after graduation
+Productivity and Youth Employment |  | Equitable access to nine-years basic education for all children, and expanding | 7. Improved access to school readiness programmes by 2017/18, accompanied by expanded access to three-years | - Percentage of children aged 4-6 enrolled in pre-primary education programmes
 
 > 7 This includes graduates from VTCs, TSSs and IPRCs
 
@@ -1188,7 +1225,7 @@ Productivity and Youth Employment | Equitable access to nine-years basic educati
 
 EDPRS 2 THEMATIC AREA | THEMATIC OUTCOME | SECTOR PRIORITY | SECTOR OUTCOME | SECTOR OUTCOME INDICATOR
 --- | --- | --- | --- | ---
-Foundational issue | access to twelve-years basic education. Improved quality and learning outcomes across primary and secondary education. | of early learning for four-to-six- year olds.
+Foundational issue |  | access to twelve-years basic education. Improved quality and learning outcomes across primary and secondary education. | of early learning for four-to-six-year olds. |
 Productivity and Youth Employment | 1.1 Curricula for educational institutions meeting skills requirements of employers 1.4 Decreased critical skills gaps 2.1 More productive private sector 4.1 Reduced unemployment | Improved relevance of education and training to the labour market, including secondary, demand-driven TVET and Higher Education. | 8. Strengthened performance in science, technology and innovation at all levels of education, and application of science, technology and innovation in relevant sectors of the economy. | - Proportion of students enrolled in science and technology fields at: general upper secondary, TTCs, TSSs and Higher Education
 Productivity and Youth Employment | 1.1 Curricula for educational institutions meeting skills requirements of employers 1.3 Access to skills training for adults 1.4 Decreased critical skills gaps 1.5 Changing attitudes to work 2.1 More productive private sector 4.1 Reduced unemployment | Improved relevance of education and training to the labour market, including secondary, demand-driven TVET and Higher Education. | 9. Increased access to Adult Basic Education to improve adult literacy and numeracy | - Percentage reduction in the total number of illiterate adults
 Productivity and Youth Employment | 2.2 More productive public sector 2.1: Improved citizens' scores on | Equitable access to nine-years basic education for all children, and expanding | 10. Improved administrative and management support services, including the management of policy, information, finances, | 9
@@ -1203,7 +1240,7 @@ Productivity and Youth Employment | 2.2 More productive public sector 2.1: Impro
 
 EDPRS 2 THEMATIC AREA | THEMATIC OUTCOME | SECTOR PRIORITY | SECTOR OUTCOME | SECTOR OUTCOME INDICATOR
 --- | --- | --- | --- | ---
-Accountable Governance | the provision of services 2.2: Improved awareness of service delivery standards and rights | access to twelve-years basic education. Improved quality and learning outcomes across primary and secondary education. Improved relevance of education and training to the labour market, including secondary, demand-driven TVET and Higher Education. | and human resources across the education sector
+Accountable Governance | the provision of services 2.2: Improved awareness of service delivery standards and rights | access to twelve-years basic education. Improved quality and learning outcomes across primary and secondary education. Improved relevance of education and training to the labour market, including secondary, demand-driven TVET and Higher Education. | and human resources across the education sector |
 
 52
 
@@ -1217,19 +1254,21 @@ Accountable Governance | the provision of services 2.2: Improved awareness of se
 
 #### 1.  Increased  equitable  access  to  9  years  basic  education  for  all  children,  and  expanding access to 12 years basic education.
 
-The required expansion of the system at the upper secondary level in line with the 12 year basic education  strategy  requires  a  continued  infrastructure  programme.  Classroom  construction  will continue  to  be  completed  using  the  'unconventional  approach'  that  harnesses  support  from communities  to  reduce  costs.  The  success  and  innovative  nature  of  this  approach  has  been internationally  recognised,  with  Rwanda  winning  the  Commonwealth  Education  Good  Practice Awards in 2012. A strategy for the rollout of electricity, water and connectivity to schools will also be pursued in partnership with MININFRA  and  other  relevant Ministries. Combined  with  the infrastructure programme will be a strategy to train and recruit additional teachers to meet pupilteacher ratio targets.
+The required expansion of the system at the upper secondary level in line with the 12 year basic education strategy requires a continued infrastructure programme. Classroom construction will continue to be completed using the 'unconventional approach' that harnesses support from communities to reduce costs. The success and innovative nature of this approach has been internationally recognised, with Rwanda winning the Commonwealth Education Good Practice Awards in 2012. A strategy for the rollout of electricity, water and connectivity to schools will also be pursued in partnership with MININFRA and other relevant Ministries. Combined with the infrastructure programme will be a strategy to train and recruit additional teachers to meet pupil-teacher ratio targets.
 
 The education sector will implement evidence-based policies and strategies addressing barriers to participation and learning for the most vulnerable children, including adolescent girls, children with disabilities,  children  living  with  HIV  and  children  from  poorer  backgrounds.  These  strategies  are required  to  eliminate  disparities  in  terms  of  access,  retention  and  completion,  which  have  been identified by the EICV survey and through other studies. A distinct budget line has been maintained to support specific initiatives to address barriers facing girls, and strategies to be followed include the  provision  of  gender-sensitive  water  and  sanitation  facilities  and  other  measures  to  promote menstrual hygiene management. School Health initiatives to promote good hygiene practices and support  school  children  to  protect  themselves  against  HIV  will  continue  at  both  primary  and secondary  level.  School  nutrition  programmes  will  be  strengthened,  drawing  upon  community participation in an effort to address issues of hunger associated with poverty. The role of the PTAs will  be  strengthened  to  address  the  issue  of  out  of  school  children  and  drop-out.  In  addition  the District  Fund  for  Education  has  been  expanded,  to  support  access  to  education  for  children  from poorer backgrounds. Section 3.5.3 elaborates on these strategies and the planned interventions to ensure more inclusive access to 12YBE for all Rwandan children.
 
 #### 2.  Increased  equitable  access  to  education  for  students  with  special  educational  needs within mainstream and special schools.
 
-In  order  to  ensure  full  access  and  participation  in  education  for  all  Rwandan  children  and  youth, specific measures will be prioritised for children with special needs. While disability is a cross cutting issues across all of the ten sector outcomes, the issue also merits a distinct outcome with specific stand-alone strategies and initiatives. The budget allocation for special needs education has been increased considerably, rising annually over the course of the ESSP. The education sector aims to be fully  inclusive,  implementing  strategies  to  ensure  that  schools  are  adequately  resources  and prepared  to  integrate  children  with  special  needs.  This  will  require  all  school  construction programmes  to  be  disabled-friendly  with  wheelchair  access  and  a  barrier  free  terrain.  A  specific budget line for the provision of special needs education equipment to secondary schools has also been  established,  providing  specific  learning  materials  and  teaching  aids,  with  the  intention  of increasing  the  number  of  teachers  who  are  trained  to  provide  specific  support  to  learners  with special needs. Education for children with disabilities also demands a strong coordination between different  Ministries  and  agencies  beyond  the  education  sector,  including  in  the  Health,  Social Protection and Local Governance sectors and with the private sector.
+In order to ensure full access and participation in education for all Rwandan children and youth, specific measures will be prioritised for children with special needs. While disability is a cross cutting issues across all of the ten sector outcomes, the issue also merits a distinct outcome with specific stand-alone strategies and initiatives. The budget allocation for special needs education has been increased considerably, rising annually over the course of the ESSP. The education sector aims to be fully inclusive, implementing strategies to ensure that schools are adequately resources and prepared to integrate children with special needs. This will require all school construction programmes to be disabled-friendly with wheelchair access and a barrier free terrain. A specific budget line for the provision of special needs education equipment to secondary schools has also
 
 53
 
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
+
+been established, providing specific learning materials and teaching aids, with the intention of increasing the number of teachers who are trained to provide specific support to learners with special needs. Education for children with disabilities also demands a strong coordination between different Ministries and agencies beyond the education sector, including in the Health, Social Protection and Local Governance sectors and with the private sector.
 
 #### 3. Improved quality and learning outcomes across primary and secondary education.
 
@@ -1249,7 +1288,7 @@ The  innovative  school-based  mentoring  programme  will  be  rolled  out  thro
 
 ##### Innovation for Education
 
-Encouraging innovations in the education sector is a central element of MINEDUC's strategic focus. Introducing innovative solutions to address existing challenges in the sector will act as a catalyst for achieving overall sector goals. In 2012 the Ministry of Education launched Innovation for Education , a DFID-supported fund that is testing innovations which aim to demonstrate effective and equitable ways of improving children's learning. The fund supports civil society and the private sector to pilot innovative  projects  that  have  the  potential  to  be  adopted  by  the  Government  and  implemented nationwide. Innovation for Education currently supports 26 innovative projects with an overall value of 12 billion RWF. The projects are being implemented in classrooms, schools and other education institutions throughout Rwanda. They are focused on the following six themes:
+Encouraging innovations in the education sector is a central element of MINEDUC's strategic focus. Introducing innovative solutions to address existing challenges in the sector will act as a catalyst for achieving overall sector goals. In 2012 the Ministry of Education launched Innovation for Education, a DFID-supported fund that is testing innovations which aim to demonstrate effective and equitable ways of improving children's learning. The fund supports civil society and the private sector to pilot innovative projects that have the potential to be adopted by the Government and implemented nationwide. Innovation for Education currently supports 26 innovative projects with an overall value of 12 billion RWF. The projects are being implemented in classrooms, schools and other education institutions throughout Rwanda. They are focused on the following six themes:
 
 -Effective teaching and learning
 
@@ -1287,7 +1326,7 @@ A  number  of  new  budget  lines  have  been  developed  to  cater  for  the  e
 
 #### 6. Increased  equitable  access  to affordable,  relevant,  academically  excellent  higher education that also delivers quality research outputs
 
-A  detailed  management  plan  for  the  merging  of  public  Higher  Education  Institutions  and  the establishment of the University of Rwanda will be implemented to increase institutional efficiency and coordination in the provision of public higher education. In order to meet the increased demand for  tertiary  education  the  higher  education  sector's  capacity  will  be  maximised  by  increasing  the number of evening classes, part-time courses and distance learning courses and opportunities for postgraduate  study.  This  expansion  will  be  supported  by  the  construction  of  additional  public facilities  including  classrooms,  laboratories  and  student  hostels,  according to needs and projected increases in student numbers. In order to improve the quality and relevance of higher education, a harmonised approach within the East African Community will be pursued for entry requirements, course content and qualifications.
+A detailed management plan for the merging of public Higher Education Institutions and the establishment of the University of Rwanda will be implemented to increase institutional efficiency and coordination in the provision of public higher education. In order to meet the increased demand for tertiary education the higher education sector's capacity will be maximised by increasing the number of evening classes, part-time courses and distance learning courses and opportunities for
 
 56
 
@@ -1295,13 +1334,15 @@ A  detailed  management  plan  for  the  merging  of  public  Higher  Education 
 
 [[START OF PAGE 57]]
 
-A staff retention plan will be implemented to ensure that high performing and experienced staff are recruited and retained within the system. Linked to this is the development of an increasing number of partnerships with international universities and higher learning institutions, which will strengthen the  Rwandan Institutions of Higher Learning in the area of quality, faculty training, joint  research projects and knowledge and exposure to the latest educational technology such as open, distance and e-learning. The student loan financing system will be strengthened with a more efficient student loan recovery system, and weighted more in favour of providing third level access to students from poorer backgrounds.
+postgraduate study. This expansion will be supported by the construction of additional public facilities including classrooms, laboratories and student hostels, according to needs and projected increases in student numbers. In order to improve the quality and relevance of higher education, a harmonised approach within the East African Community will be pursued for entry requirements, course content and qualifications.
+
+A staff retention plan will be implemented to ensure that high performing and experienced staff are recruited and retained within the system. Linked to this is the development of an increasing number of partnerships with international universities and higher learning institutions, which will strengthen the Rwandan Institutions of Higher Learning in the area of quality, faculty training, joint research projects and knowledge and exposure to the latest educational technology such as open, distance and e-learning. The student loan financing system will be strengthened with a more efficient student loan recovery system, and weighted more in favour of providing third level access to students from poorer backgrounds.
 
 #### 7. Improved access to school readiness programmes by 2017/18, accompanied by expanded access to three-years of early learning for four-to-six-year olds.
 
 In  increasing access to pre-primary education a community-based strategy will be employed, with community  contributions  complementing  Government  financing  and  inputs.  The  Ministry  of Education will provide oversight to the standards and quality of pre-primary programmes through the development of national ECD standards and ECD packages for caregivers and pre-school teacher training.  School-based  physical  infrastructure  for  pre-primary  learning  spaces  will  be  expanded through the unconventional construction approach and by extending primary schools to accommodate pre-primary sections.
 
-Extending the capitation grant to the pre-primary sub-sector will be explored during the period of the  ESSP.  There  are  opportunities  to  approach  the  use  of  the  capitation  grant  in  an  innovative manner, by targeting the grant towards poorer sectors and communities, which will help prevent poorer families being excluded from accessing pre-primary education because of their inability to contribute financially. Strategies of community contribution include contribution towards the costs of hiring pre-school teachers and also in school feeding programmes, where they exist. Community contributions will not be limited to finances, but also include parents acting as care-givers, providing and cooking food and other such inputs, to allow families to contribute according to their means. Development partners are also expected to contribute to both the costs of expanding access to preprimary education and also in technical support for the development and oversight of standards. The pre-primary curriculum will also be revised as part of the planned revision of the school curriculum. The Ministry of Education also plays a coordinating role across Government for the implementation of the integrated Early Childhood Development Strategic Plan, which is concerned with the holistic development of children between the ages of 0-6. That coordinating role will continue through the national ECD task force.
+Extending the capitation grant to the pre-primary sub-sector will be explored during the period of the ESSP. There are opportunities to approach the use of the capitation grant in an innovative manner, by targeting the grant towards poorer sectors and communities, which will help prevent poorer families being excluded from accessing pre-primary education because of their inability to contribute financially. Strategies of community contribution include contribution towards the costs of hiring pre-school teachers and also in school feeding programmes, where they exist. Community contributions will not be limited to finances, but also include parents acting as care-givers, providing and cooking food and other such inputs, to allow families to contribute according to their means. Development partners are also expected to contribute to both the costs of expanding access to pre-primary education and also in technical support for the development and oversight of standards. The pre-primary curriculum will also be revised as part of the planned revision of the school curriculum. The Ministry of Education also plays a coordinating role across Government for the implementation of the integrated Early Childhood Development Strategic Plan, which is concerned with the holistic development of children between the ages of 0-6. That coordinating role will continue through the national ECD task force.
 
 57
 
@@ -1311,7 +1352,7 @@ Extending the capitation grant to the pre-primary sub-sector will be explored du
 
 #### 8.  Strengthened  performance  in  science,  technology  and  innovation  at  all  levels  of education, and application of science, technology and innovation in relevant sectors of the economy.
 
-Strategies  for  strengthening  science,  information  technology  and  innovation  cut  across  all  subsectors of the education sector incorporating specific targets which have been set for the provision of laptops at the primary level, equipping schools with science equipment and kits particularly at the secondary  level,  delivery  of  a  national  science  teacher  training  programme  in  the  academic  and practical  aspects  of  science  teaching,  greater  levels  of  enrolment  (both  male  and  female)  in  and quality  of  science  and  technology  subjects  in  higher  education  and  expanding  access  to  wellequipped TVET centres - all of which have been identified as strategically important for Rwanda to become the ICT hub of the region. To minimise costs in ICT in education, a facility for refurbishing old computers will be developed. In addition maintenance of existing computers and infrastructure will be prioritised, reducing the speed with which equipment needs to be replaced.
+Strategies for strengthening science, information technology and innovation cut across all sub-sectors of the education sector incorporating specific targets which have been set for the provision of laptops at the primary level, equipping schools with science equipment and kits particularly at the secondary level, delivery of a national science teacher training programme in the academic and practical aspects of science teaching, greater levels of enrolment (both male and female) in and quality of science and technology subjects in higher education and expanding access to well-equipped TVET centres - all of which have been identified as strategically important for Rwanda to become the ICT hub of the region. To minimise costs in ICT in education, a facility for refurbishing old computers will be developed. In addition maintenance of existing computers and infrastructure will be prioritised, reducing the speed with which equipment needs to be replaced.
 
 The education sector has responsibility for the critical areas of Science, Technology, and Innovation (STI) across government. This includes the development of policies in STI in critical areas of science, including the National STI policy itself and areas such as research policy, bio-safety, and biodiversity. Other areas include the development of high level research capacity such as though regional and international partnerships, high level research conferences and research grants, and the other policy objectives of knowledge transfer and developing a culture of innovation. To facilitate this role, a new budget line has been created for 'Knowledge transfer and developing culture of innovation', which will cover the development and implementation of a plan for the establishment of a convergence centre and the expansion of the Rwanda Innovation Endowment Fund (RIEF), see below. Another initiative designed to ensure that the academic sector works closely with the private sector is the Knowedge Transfer Partnership (KTP) programme, see below. Within TEIs this will also be supported via  business  incubation  centres.  Research  and  Development  capacity  will  also  be  built  across  all relevant  sectors  involving  research  grants,  partnerships  with  the  private  sector  to  access  foreign funding, focusing on R&D projects with potential economic application.
 
@@ -1321,7 +1362,7 @@ The Rwanda Innovation Fund (RIEF) is a partnership between the Government of Rwa
 
 ##### Knowledge Transfer Partnership Programme (KTP)
 
-A  study  entitled Mapping  Science  and  Technology  for  Industrial  Development  in  Rwanda:  Linking Research and Development between Industries and Higher Learning Institutions was undertaken, and supported by the AfDB . Delivery  of  these  partnerships  is  being  managed  through  an  intervention called  Knowledge  Transfer  Partnership  (KTP).  Memoranda  of  Understanding  between  MINEDUC, Industry and HLI have already been signed for three of the partnership projects (Sulfo, Rugali Farms, SOPYRWA).  Industrial  and  academic  supervisors  have  been  appointed  and  associates  have  been recruited.  The  other  two  partnerships  (Gasabo  3D  and  Inyange)  have  been  planned  and  formal agreements between the industries and specific Higher Learning Institutions are being developed.
+A study entitled Mapping Science and Technology for Industrial Development in Rwanda: Linking Research and Development between Industries and Higher Learning Institutions was undertaken, and supported by the AfDB. Delivery of these partnerships is being managed through an intervention called Knowledge Transfer Partnership (KTP). Memoranda of Understanding between MINEDUC,
 
 58
 
@@ -1329,9 +1370,11 @@ A  study  entitled Mapping  Science  and  Technology  for  Industrial  Developme
 
 [[START OF PAGE 59]]
 
+Industry and HLI have already been signed for three of the partnership projects (Sulfo, Rugali Farms, SOPYRWA). Industrial and academic supervisors have been appointed and associates have been recruited. The other two partnerships (Gasabo 3D and Inyange) have been planned and formal agreements between the industries and specific Higher Learning Institutions are being developed.
+
 #### 9. Increased access to Adult Basic Education to improve adult literacy and numeracy.
 
-The costs of expanding access to adult basic education in line with the Vision 2020 target of universal adult literacy will be greatly reduced by the new National Service policy where Senior 6 leavers will spend 9 months following graduation providing voluntary literacy classes. This innovative and costeffective strategy will allow for ambitious adult literacy targets to be met within the existing budget. Adult educators will be trained, based on the norms and standards, and will provide a structured literacy course, guided by the adult literacy curriculum. In order to monitor the effectiveness of the programme, learning achievement standards will be developed and regular assessments of learners conducted. As part of Rwanda Reads, a culture of reading will be promoted and facilitated supported by increased access to relevant reading materials for neo-literate adults, while a national campaign to encourage the development of low-cost, relevant books and reading materials will be conducted.
+The costs of expanding access to adult basic education in line with the Vision 2020 target of universal adult literacy will be greatly reduced by the new National Service policy where Senior 6 leavers will spend 9 months following graduation providing voluntary literacy classes. This innovative and cost-effective strategy will allow for ambitious adult literacy targets to be met within the existing budget. Adult educators will be trained, based on the norms and standards, and will provide a structured literacy course, guided by the adult literacy curriculum. In order to monitor the effectiveness of the programme, learning achievement standards will be developed and regular assessments of learners conducted. As part of Rwanda Reads, a culture of reading will be promoted and facilitated supported by increased access to relevant reading materials for neo-literate adults, while a national campaign to encourage the development of low-cost, relevant books and reading materials will be conducted.
 
 #### 10. Improved administrative and management support services, including the management of policy, information, finances, and human resources across the education sector.
 
@@ -1339,13 +1382,15 @@ This  ESSP  aims  to  ensure  that  all  managers  and  governance  bodies  with
 
 ### 3.4.2 Strategies for Mainstreaming Cross-Cutting Issues
 
-The education sector has identified seven cross-cutting issues, which are aligned with the EDPRS 2 cross-cutting issues of science and technology, gender, disability and social inclusion, HIV/AIDS, the environment and climate change, capacity building and regional integration. The issues are relevant across all levels of education and require close partnership with different government ministries and other stakeholders to ensure that collectively we can achieve national development goals, as well as our education goals. The following section details strategic priorities for each of these cross-cutting issues  and  strategies  for  mainstreaming  them  as  part  of  the  delivery  of  education  services  in Rwanda.
+The education sector has identified seven cross-cutting issues, which are aligned with the EDPRS 2 cross-cutting issues of science and technology, gender, disability and social inclusion, HIV/AIDS, the environment and climate change, capacity building and regional integration. The issues are relevant
 
 59
 
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
+
+across all levels of education and require close partnership with different government ministries and other stakeholders to ensure that collectively we can achieve national development goals, as well as our education goals. The following section details strategic priorities for each of these cross-cutting issues and strategies for mainstreaming them as part of the delivery of education services in Rwanda.
 
 #### 1. Promoting Science, Technology and Innovation
 
@@ -1357,7 +1402,7 @@ ICT is a central component of the science and technology education programme. Du
 
 #### 2. Girls' and women's education
 
-The Government of Rwanda is committed to gender equality across all aspects of Rwandan life. Girls' education is a central component of strategies to ensure that there is inclusive basic education for all,  and  beyond  basic  schooling  to  ensure  that  women  are  appropriately  skilled  to  contribute positively to economic and social development. The Girls' Education Strategic Plan was approved in 2009 and forms the framework for interventions to increase girls' participation and achievement at all levels of education. National sensitisation  programmes  exist  to  encourage  parents  and communities to send and keep their girls in school, such as the First Lady's national awards for the best  performing  girls  and  the  School  Campaign.  Dedicated  sanitation  and  hygiene  facilities  are provided for girls' in all newly constructed schools and will be extended to existing schools over the timeframe  of  this  ESSP.  The  National  Taskforce  for  the  coordination  of  girls'  education  was established in 2005 and similar taskforces have now been established in every District.
+The Government of Rwanda is committed to gender equality across all aspects of Rwandan life. Girls' education is a central component of strategies to ensure that there is inclusive basic education for all, and beyond basic schooling to ensure that women are appropriately skilled to contribute positively to economic and social development. The Girls' Education Strategic Plan was approved in 2009 and forms the framework for interventions to increase girls' participation and achievement at
 
 60
 
@@ -1365,9 +1410,11 @@ The Government of Rwanda is committed to gender equality across all aspects of R
 
 [[START OF PAGE 61]]
 
-Whilst  overall  there  is  gender  equity  in  access  to  basic  education,  some  challenges  remain  with regards  to  girls'  performance  and  supporting  girls'  who  wish  to  study  science  and  technology, including  some  fields  of  TVET  and  higher  education,  as  outlined  in  Section  2.4.  To  address  these issues the ESSP is promoting targeted strategies to support girls' education and training in line with the Girls' Education Strategic Plan. These include:
+all levels of education. National sensitisation programmes exist to encourage parents and communities to send and keep their girls in school, such as the First Lady's national awards for the best performing girls and the School Campaign. Dedicated sanitation and hygiene facilities are provided for girls' in all newly constructed schools and will be extended to existing schools over the timeframe of this ESSP. The National Taskforce for the coordination of girls' education was established in 2005 and similar taskforces have now been established in every District.
 
- strengthening gender sensitive and learner -centred methodologies;
+Whilst overall there is gender equity in access to basic education, some challenges remain with regards to girls' performance and supporting girls' who wish to study science and technology, including some fields of TVET and higher education, as outlined in Section 2.4. To address these issues the ESSP is promoting targeted strategies to support girls' education and training in line with the Girls' Education Strategic Plan. These include:
+
+ strengthening gender sensitive and learner-centred methodologies;
 
  training of educationists, trainers and education planners in gender issues;
 
@@ -1433,13 +1480,15 @@ Rwanda has been chosen to host the East African Commission for Science and Techn
 
 #### 7. Institutional capacity building
 
-MINEDUC  has  ambitious  goals,  and  clear  and  politically  supported  mandates.  Although  strong policies  and  leadership  are  in  place  in  MINEDUC  and  its  affiliated  agencies,  there  is  a  need  for strengthened capacity among staff at all levels of education management to support high quality, efficient planning, delivery and monitoring of education services. This is reflected in the tenth ESSP outcome which focuses on improved administration and management support services across the education sector.
+MINEDUC has ambitious goals, and clear and politically supported mandates. Although strong policies and leadership are in place in MINEDUC and its affiliated agencies, there is a need for
 
 63
 
 [[END OF PAGE 63]]
 
 [[START OF PAGE 64]]
+
+strengthened capacity among staff at all levels of education management to support high quality, efficient planning, delivery and monitoring of education services. This is reflected in the tenth ESSP outcome which focuses on improved administration and management support services across the education sector.
 
 A Ministry-wide capacity needs assessment was conducted in 2012 identifying the major capacity needs in the education sector. The needs assessment report presents the existing capacity needs of the Ministry and categorises them into institutional, organisational and human resource aspects for each of the public-sector organisations that are part of the education sector (MINEDUC, REB, WDA, HEC and the decentralised levels). Following this identification of needs a participatory process of prioritisation and planning took place at the end of 2012, resulting in the formulation of a Capacity Development Plan that identified key capacity development priorities for the Ministry. These have been captured in this ESSP's strategies under the sector's tenth strategic outcome.
 
@@ -1453,14 +1502,14 @@ A Ministry-wide capacity needs assessment was conducted in 2012 identifying the 
 
 Table 3 below summaries the expected outputs for each of the education sector's ten strategic outcome areas.
 
+Table 3: Sector Outcomes and Outputs
+
 No | Outcomes | Outputs
 --- | --- | ---
 1 | Increased equitable access to 9 years basic education for all children, and expanding access to 12 years basic education. | 1.1. All schools have sufficient, well-maintained, child-friendly facilities and equipment to meet target PCR and infrastructure standards. 1.2. Evidence-based policies and strategies addressing barriers to participation and learning for the most vulnerable children, including adolescent girls, children with disabilities, children living with HIV and children from poorer backgrounds implemented. 1.3. School health and hygiene education programme implemented in all schools. 1.4. Parent Teacher Associations strengthened to address the issue of out of school children and drop-out.
 2 | Increased equitable access to education for students with special educational needs within mainstream and special schools. | 2.1. All schools have disabled-friendly facilities and equipment for children with special needs. 2.2. Increased number of teachers who are trained to provide specific support to learners with special needs. 2.3. Revised curriculum addresses specific needs of children with disabilities.
 3 | Improved quality and learning outcomes across primary and secondary education. | 3.1. Regionally harmonised school curriculum developed, providing a solid foundation for learning and skills development. 3.2. Annual examination and formative assessment policies in place and implemented, aligned with the curriculum. 3.3. National system for measuring learning achievement in core subjects established and conducted on regular basis. 3.4. Improved student/textbook ratio as well as access to reading material for all schoolchildren. 3.5. Capacity of schools and teachers strengthened to use readers in the classroom to build the reading skills of children.
 4 | Qualified, suitably-skilled and motivated teachers and trainers to meet demands of expanding education access. | 4.1. Comprehensive Teacher Development and Management information system in use to plan teacher demand, supply and training of teachers. 4.2. Improved teacher welfare and conditions of service 4.3. Increased proportion of teachers demonstrating subject knowledge and teaching skills in the language of learning.
-
-Table 3: Sector Outcomes and Outputs
 
 65
 
@@ -1470,7 +1519,7 @@ Table 3: Sector Outcomes and Outputs
 
 No | Outcomes | Outputs
 --- | --- | ---
-4.4. Increased proportion of head-teachers and school managers demonstrating capabilities for effective school management. 4.5. CPD system to promote career-path for teachers implemented.
+ |  | 4.4. Increased proportion of head-teachers and school managers demonstrating capabilities for effective school management. 4.5. CPD system to promote career-path for teachers implemented.
 5 | Increased equitable access to relevant, high-quality, demand-driven TVET programmes. | 5.1. Stakeholders in the TVET sector are guided by inclusive policies and strategies that are informed by a comprehensive TVET information system (essential national labour planning and TVET policy forums are to feature, with well-structured planning, coordination, monitoring and evaluation systems). 5.2. Human capacity is developed in the TVET system (include Training of Trainers (ToT) and school management issues). 5.3. All TVET providers have adequate facilities, infrastructure and equipment to ensure a locally relevant implementation of competency-based curricula. 5.4. Increased, curricular-relevant income-generating capacities of TVET providers to improve the quality of TVET provision. 5.5. TVET competency-based curricula placed on RTQF linked to the labour market and focused on key priority sectors. 5.6. Increased involvement of industry through structured public-private dialogue (including the National Integrated Employment Program and industry-based training option).
 6 | Increased equitable access to affordable, relevant, academically excellent higher education that also delivers quality research outputs. | 6.1. Increased number of higher education places available, including through full-time, part-time, open, distance & e-learning options. 6.2. All TEIs have sufficient facilities to support quality teaching and learning (laboratories, libraries, lecture rooms, etc) 6.3. Sustainable model of student financing, including an efficient student loan recovery system implemented. 6.4. Increased research capacity developed within the HL sub-sector. 6.5. Staff retention plan implemented to ensure that high performing and experienced staff are recruited and retained within the system.
 7 | Improved access to school readiness programmes by 2017/18, accompanied by expanded access to three-years of early learning for four-to-six-year olds. | 7.1. Increased number of schools with pre-primary section. 7.2. National standards for school readiness programmes developed and in use in all pre-schools. 7.3. Pre-primary curriculum revised as part of the planned revision of the school curriculum. 7.4. All pre-primary teachers and caregivers trained with national training package.
@@ -1484,7 +1533,7 @@ No | Outcomes | Outputs
 
 No | Outcomes | Outputs
 --- | --- | ---
-of education, and application of science, technology and innovation (STI) in relevant sectors of the economy. | 8.2. Research capacity in R&D strengthened across all relevant sectors of the economy. 8.3. All secondary schools equipped with science equipment and kits. 8.4. National science teacher training programme expanded 8.5. Increased enrolment in and quality of science and technology subjects in higher education 8.6. Knowledge Transfer and develop a culture of innovation.
+ | of education, and application of science, technology and innovation (STI) in relevant sectors of the economy. | 8.2. Research capacity in R&D strengthened across all relevant sectors of the economy. 8.3. All secondary schools equipped with science equipment and kits. 8.4. National science teacher training programme expanded 8.5. Increased enrolment in and quality of science and technology subjects in higher education 8.6. Knowledge Transfer and develop a culture of innovation.
 9 | Increased access to Adult Basic Education to improve adult literacy and numeracy. | 9.1. Learning achievement standards developed and regular assessments of learners conducted. 9.2. Increased access to relevant reading materials for neo-literate adults. 9.3. Capacity of literacy tutors enhanced through structured training. 9.4. Improved assessment, accreditation and certification of Adult Basic Education providers and programmes.
 10 | Improved administrative and management support services, including the management of policy, information, finances, and human resources across the education sector. | 10.1.All education managers and governance bodies demonstrate requisite skills and competencies for effective leadership and governance. 10.2.All institutions have the resources and systems for effective and efficient management. 10.3.Increased integration, coordination and lack of duplication across key management systems and institutions. 10.4.Improved planning, M&E, and integrated data-management across all agencies. 10.5.Expanded and improved Human Resource Management processes, procedures and systems. 10.6.Improved communication systems and structures across the sector.
 
@@ -1512,7 +1561,7 @@ MINEDUC has worked with districts during the elaboration of the ESSP and their D
 
  Improving the school environment to make every school a safe, child-friendly place to learn,  by  constructing  more  child  friendly  schools,  and  improving  facilities  within schools for example by constructing separate toilets
 
- Reinforcing community participation to support early childhood development and preschool provision
+ Reinforcing community participation to support early childhood development and pre-school provision
 
  Sensitising and encouraging the illiterate population to attend adult literacy centres
 
@@ -1570,7 +1619,7 @@ The further timing and sequencing of interventions is provided in Annex 7.1, whi
 
 ## 4.2 ROLES AND RESPONSIBILITIES OF PARTNERS AND STAKEHOLDERS
 
-The principal institution responsible for ensuring the implementation of the ESSP is MINEDUC. MINEDUC  sets  policy  and  strategic  direction  for  the  sector  and undertakes  planning, monitoring  and  evaluation  at  the  national  level.  As  set  out  in  Section  2.5  MINEDUC  is supported by a number of semi-autonomous bodies who have mandates to implement specific education  policies.  These  include  the  Rwanda  Education  Board  (REB),  the  Higher  Education Council  (HEC),  the  National  Council  for  Science,  Technology  and  Innovation  (NCSTI),  the Workforce  Development  Agency  (WDA),  the  Rwandan  National  Commission  for  UNESCO (CNRU)  and  public  Tertiary  Education  Institutions  (TEIs).  The  relationship  between  these institutions and other actors in the education sector is depicted in Figure 2 below:
+The principal institution responsible for ensuring the implementation of the ESSP is MINEDUC. MINEDUC sets policy and strategic direction for the sector and undertakes planning, monitoring and evaluation at the national level. As set out in Section 2.5 MINEDUC is supported by a number of semi-autonomous bodies who have mandates to implement specific education policies. These include the Rwanda Education Board (REB), the Higher Education
 
 70
 
@@ -1578,7 +1627,19 @@ The principal institution responsible for ensuring the implementation of the ESS
 
 [[START OF PAGE 71]]
 
+Council (HEC), the National Council for Science, Technology and Innovation (NCSTI), the Workforce Development Agency (WDA), the Rwandan National Commission for UNESCO (CNRU) and public Tertiary Education Institutions (TEIs). The relationship between these institutions and other actors in the education sector is depicted in Figure 2 below:
+
 Figure 2: Management and coordination of the education sector
+
+Delivery | Accountability
+MINEDUC
+REB
+WDA
+HEC
+CNRU
+Other delivery partners Eg NGOs | Districts | Other delivery partners Eg NGOs
+Education institutions | Governing bodies PTAs
+Children and students
 
 71
 
@@ -1588,12 +1649,12 @@ Figure 2: Management and coordination of the education sector
 
 The  roles  and  responsibilities  of  partners  &  stakeholders  are  reflected  in  different  level  of partnership are summarised below:
 
-Level of Interventions | Roles
+Level of Interventions |  | Roles
 --- | --- | ---
 Central | MINEDUC |  To design and develop strategic policies, laws and directives;  To set up monitoring and evaluation mechanisms;  Data collection, analysis and dissemination;  To conduct education reviews and evaluations;  To set up capacity development and innovative strategies;  To set up guidelines for earmarked transfers;  To ensure that regional commitments are honoured and implemented;  To coordinate research in education;  To oversee the development and implementation of a national strategy for the development of science and technology.
-REB |  To design and distribute curricula, teaching materials, guides, methodologies and establish teaching methods for nursery, primary, secondary, specialised schools and adult literacy education in accordance with the current educational development;  To prepare educational standards and monitor their implementation;  To establish regulations determining how national examinations are conducted at various levels of education;  To coordinate programs and activities aimed at developing teachers, building their capacities and improving their management;  To promote the use of information and communication technology in education;  To support the establishment and implementation of distance learning programmes and monitor their impact. To coordinate programs and activities related to loans and scholarships provided to higher education students;  To cooperate and collaborate with other regional and
-WDA | international institutions having similar responsibilities.  To promote, facilitate, and guide the development and upgrading of skills and competencies of the national workforce in order to enhance competitiveness and employability;  To coordinate programs and activities aimed at developing trainers, building their capacities and improving their management;  To coordinate the development of curricula and educational standards for TVET;  To promote skills development through vocational training;  To promote business incubation and entrepreneurship development;  To regulate and accredit TVET institutions and training providers;  To cooperate and collaborate with other regional and international institutions having similar responsibilities.
-HEC |  To quality assure higher learning institutions;
+ | REB |  To design and distribute curricula, teaching materials, guides, methodologies and establish teaching methods for nursery, primary, secondary, specialised schools and adult literacy education in accordance with the current educational development;  To prepare educational standards and monitor their implementation;  To establish regulations determining how national examinations are conducted at various levels of education;  To coordinate programs and activities aimed at developing teachers, building their capacities and improving their management;  To promote the use of information and communication technology in education;  To support the establishment and implementation of distance learning programmes and monitor their impact. To coordinate programs and activities related to loans and scholarships provided to higher education students;  To cooperate and collaborate with other regional and international institutions having similar responsibilities.
+ | WDA |  To promote, facilitate, and guide the development and upgrading of skills and competencies of the national workforce in order to enhance competitiveness and employability;  To coordinate programs and activities aimed at developing trainers, building their capacities and improving their management;  To coordinate the development of curricula and educational standards for TVET;  To promote skills development through vocational training;  To promote business incubation and entrepreneurship development;  To regulate and accredit TVET institutions and training providers;  To cooperate and collaborate with other regional and international institutions having similar responsibilities.
+ | HEC |  To quality assure higher learning institutions;
 
 72
 
@@ -1601,15 +1662,16 @@ HEC |  To quality assure higher learning institutions;
 
 [[START OF PAGE 73]]
 
-Level of Interventions | Roles
---- | ---
-Local Government | and competitive anywhere in the world;  To ensure that qualified faculty are conversant with the state-of- the-art in their disciplines through research;  To encourage students to engage in research and critical thinking;  To ensure access to affordable higher education;  To support training of higher education staff;  To maintain a sound relationship with the community making higher education relevant;  To cooperate and collaborate with other regional and international institutions having similar responsibilities.  To implement education policies and strategies;  To prepare DDPs aligned to ESSP;  To prepare operational plans and budgets;  To monitor school management, including use of capitation grants and teaching methodology;
-Private Sector | norms and standards.  To invest in the education sector through the establishment and maintenance of schools at all levels including pre-primary, primary, secondary, TVET and higher learning institutions;  To support curriculum development and advising on labour market needs for skills development  To provide other partnership opportunities including internships
-Civil Society and other organisations | and work placements for students.  To support MINEDUC in the promotion of educational policies, strategies and plans;  To contribute to the delivery of educational services;  To collaborate and coordinate with other civil society organisations, NGOs, and other actors including the government and development partners to implement the ESSP;  To strengthen community participation and mobilisation to implement educational activities;  To participate in the evaluation of policies and programmes;  To conduct educational research.
+Level of Interventions |  | Roles
+--- | --- | ---
+ |  |  To uphold international standards so that graduates are credible and competitive anywhere in the world;  To ensure that qualified faculty are conversant with the state-of-the-art in their disciplines through research;  To encourage students to engage in research and critical thinking;  To ensure access to affordable higher education;  To support training of higher education staff;  To maintain a sound relationship with the community making higher education relevant;  To cooperate and collaborate with other regional and international institutions having similar responsibilities.
+Local Government |  |  To implement education policies and strategies;  To prepare DDPs aligned to ESSP;  To prepare operational plans and budgets;  To monitor school management, including use of capitation grants and teaching methodology;  To recruit and deploy teachers;  To provide educational statistics;  To coordinate educational activities and staff;  To supervise the establishment of new schools in conformity with norms and standards.
+Private Sector |  |  To invest in the education sector through the establishment and maintenance of schools at all levels including pre-primary, primary, secondary, TVET and higher learning institutions;  To support curriculum development and advising on labour market needs for skills development  To provide other partnership opportunities including internships and work placements for students.
+Civil Society and other organisations |  |  To support MINEDUC in the promotion of educational policies, strategies and plans;  To contribute to the delivery of educational services;  To collaborate and coordinate with other civil society organisations, NGOs, and other actors including the government and development partners to implement the ESSP;  To strengthen community participation and mobilisation to implement educational activities;  To participate in the evaluation of policies and programmes;  To conduct educational research.
 
 ### Managing the implementation of the ESSP
 
-The  Directors  General  of  MINEDUC,  REB,  HEC  and  WDA  are  responsible  to  the  Permanent Secretary of MINEDUC for managing the implementation of the Plan. The DGs identify  with their teams which parts of the Plan they are responsible for and plan out with them how the objectives  will  be  achieved  over  the  five-year  period.  Tasks  are  agreed,  responsibilities  and human  resource  needs  identified,  costs  and  budgets  refined,  and  detailed  work  plans  are developed within each Directorate. The National Implementation Framework being developed to accompany the ESSP provides a useful tool to support this process, especially in relation to decentralised delivery.
+The Directors General of MINEDUC, REB, HEC and WDA are responsible to the Permanent Secretary of MINEDUC for managing the implementation of the Plan. The DGs identify with their teams which parts of the Plan they are responsible for and plan out with them how the objectives will be achieved over the five-year period. Tasks are agreed, responsibilities and human resource needs identified, costs and budgets refined, and detailed work plans are developed within each Directorate. The National Implementation Framework being developed
 
 73
 
@@ -1617,7 +1679,9 @@ The  Directors  General  of  MINEDUC,  REB,  HEC  and  WDA  are  responsible  to
 
 [[START OF PAGE 74]]
 
-Specific  accountabilities  are  determined  within  each  Directorate  General.  Teams  and  units report to their DGs quarterly and issues and constraints are identified. The DGs report to the Permanent Secretary on progress and issues arising quarterly and this is the principal internal accountability mechanism.
+to accompany the ESSP provides a useful tool to support this process, especially in relation to decentralised delivery.
+
+Specific accountabilities are determined within each Directorate General. Teams and units report to their DGs quarterly and issues and constraints are identified. The DGs report to the Permanent Secretary on progress and issues arising quarterly and this is the principal internal accountability mechanism.
 
 As set out in Section 3.4.4,  DEOs  are  responsible  for  formulating  district-level annual  action plans which form part of the wider District Development Plan. The education elements are in line  with  the  priorities  set  out  in  the  ESSP.  Plans  are  validated  by  District  Education Committees chaired by the Mayor or the Vice-Mayor for social affairs.
 
@@ -1641,21 +1705,27 @@ The effective coordination within the education sector, managed through the Educ
 
 ### 4.3.2 Information Sharing
 
-Consultations and information sharing on education sector plans and budgets are undertaken collectively  through  the  Joint  Reviews  of  the  Education  Sector  (JRES),  the  ESWG  and  subgroups,  which  bring  together  the  relevant  government  departments  and  agencies  with development partners, as summarised in Figure 3 below. Currently there are four sub-groups which  report  to  ESWG  at  the  quarterly  meetings.  They  are  the  QIWG,  the  Girls'  Education Taskforce, the national ECD task force and the TVET working Group, which seeks to advance the current TVET policy framework in establishing closer linkages and coordination between enterprises and training supply. These groups meet monthly or as required. All consultation processes and working groups follow terms of reference, which are reviewed every two years.
+Consultations and information sharing on education sector plans and budgets are undertaken collectively through the Joint Reviews of the Education Sector (JRES), the ESWG and sub-groups, which bring together the relevant government departments and agencies with development partners, as summarised in Figure 3 below. Currently there are four sub-groups which report to ESWG at the quarterly meetings. They are the QIWG, the Girls' Education Taskforce, the national ECD task force and the TVET working Group, which seeks to advance the current TVET policy framework in establishing closer linkages and coordination between enterprises and training supply. These groups meet monthly or as required. All consultation processes and working groups follow terms of reference, which are reviewed every two years.
 
 Figure3: Education Sector Coordination Structure
+
+Education Development Partner Group | Education Sector Working Group (MINEDUC and DPs)
+Rwandan Education NGO Coordination Platform | Quality Implementation Working Group (QIWG) | TVET Working Group | Girls’ Education Taskforce | National ECD Task Force
+Rwanda Reads | CPD task force
 
 Key  processes  for  information  sharing  and  consultation  are  quarterly  meetings  of  the Education Sector Working Group and two annual Joint Reviews of the Education Sector (one forward-looking  review  in  April  and  one  backward-looking  review  in  September).  The  Joint Reviews are planned and conducted by MINEDUC and Development Partners in accordance with ToR's developed by MINECOFIN, and have included joint field visits to monitor projects and  examine  key  issues  at  the  local  level.  Reports  are  generated  to  disseminate  key information to all stakeholders and there is evidence of strong collaboration in ensuring they are of a high quality and include all pertinent issues and relevant data.
 
 Internal  communication  is  managed  by  the  MINEDUC.  Weekly  management  meetings  bring together  heads  of  departments  and  agencies  from  MINEDUC,  REB,  HEC  and  WDA  to  share information and coordinate the planning, implementation and monitoring of sector plans and strategies.  When  required,  representatives  from  the  private  sector,  development  partners, decentralised authorities and other relevant Ministries also attend the weekly management meetings.
 
-Communication and coordination between central and decentralised levels is critical to ensure that  policy  is  correctly  translated  down  to  district  level,  incorporated  into  district  plans  and therefore  has  an  impact  on  the  learner  in  the  classroom.  Similarly  communication  and coordination between the districts and schools is important to enable more effective schoollevel management and planning. Formalised channels of information sharing and coordination are institutionalised in the sector, with regular meetings between District Education Officers and central level departments organised as well as a system of coordination and communication between DEOs and SEOs and school management. Likewise communication upwards to the central Ministry is facilitated within the sector for the formulation of policy and monitoring and evaluation of the sector. Whilst there is room for improvement in this area, the recent construction of school classrooms to fast track 9YBE demonstrates how the Ministry and  districts  education  authorities  can  successfully  work  together  to  plan,  implement  and monitor policy in a coordinated manner.
+Communication and coordination between central and decentralised levels is critical to ensure that policy is correctly translated down to district level, incorporated into district plans and therefore has an impact on the learner in the classroom. Similarly communication and
 
 75
 
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
+
+coordination between the districts and schools is important to enable more effective school-level management and planning. Formalised channels of information sharing and coordination are institutionalised in the sector, with regular meetings between District Education Officers and central level departments organised as well as a system of coordination and communication between DEOs and SEOs and school management. Likewise communication upwards to the central Ministry is facilitated within the sector for the formulation of policy and monitoring and evaluation of the sector. Whilst there is room for improvement in this area, the recent construction of school classrooms to fast track 9YBE demonstrates how the Ministry and districts education authorities can successfully work together to plan, implement and monitor policy in a coordinated manner.
 
 MINEDUC produces an annual report, which is disseminated to all stakeholders nationwide. The  annual  report  details  progress  which  has  been  made  within  the  education  sector  in achieving ESSP objectives. This is supplemented by the annual publication of comprehensive Education Statistics, which are available on the MINEDUC website.
 
@@ -1667,7 +1737,7 @@ The  Rwanda  Education  NGO  Coordination  Platform  (RENCP)  was  established  
 
 #### The Private Sector
 
-The ESSP recognises the importance of the education and training system to be responsive to private sector skills demand, as epitomised in the third education sector goal on relevance of education .  To be responsive and relevant requires strong coordination and involvement with the  private  sector.  The  ESSP  also  sees  a  need  for  increased  public  private  partnerships  as  a means  to  increase  available  financing  for  education  on  any  level  (from  ECD  to  higher education)  and  this  becomes  even  more  pertinent  with  the  12YBE  strategy.  While  private sector representatives are normally invited to the review and planning processes within the sector,  and  were  consulted  in  the  development  of  this  plan,  strategies  to  strengthen coordination with the private sector are envisaged over the course of the ESSP. In particular, the  further  development  of  the  TVET  system  will  involve  strong  partnership  between government  and  private  sector,  including  at  decentralised  levels.  Here,  the  Private  Sector Federation  (PSF)  can  play  a  strong  coordinating  role  with  the  Workforce  Development Authority  on  whole  range  of  issues,  ensuring  that  the  education  and  training  provided responds to labour-market demands.
+The ESSP recognises the importance of the education and training system to be responsive to private sector skills demand, as epitomised in the third education sector goal on relevance of education .  To be responsive and relevant requires strong coordination and involvement with the  private  sector.  The  ESSP  also  sees  a  need  for  increased  public  private  partnerships  as  a means  to  increase  available  financing  for  education  on  any  level  (from  ECD  to  higher education)  and  this  becomes  even  more  pertinent  with  the  12YBE  strategy.  While  private sector representatives are normally invited to the review and planning processes within the sector,  and  were  consulted  in  the  development  of  this  plan,  strategies  to  strengthen coordination with the private sector are envisaged over the course of the ESSP. In particular, the  further  development  of  the  TVET  system  will  involve  strong  partnership  between government  and  private  sector,  including  at  decentralised  levels.  Here,  the  Private  Sector Federation  (PSF)  can  play  a  strong  coordinating  role  with  the  Workforce  Development
 
 76
 
@@ -1675,11 +1745,13 @@ The ESSP recognises the importance of the education and training system to be re
 
 [[START OF PAGE 77]]
 
+Authority on whole range of issues, ensuring that the education and training provided responds to labour-market demands.
+
 #### Cross-Sector Coordination
 
 Coordination across Government Sectors is vital, in particular on key issues such as ECD, school health and nutrition, girls' education, and regional integration. This has often been addressed through inter-ministerial task forces. For example, the ECD Task Force, which developed both the  ECD  Policy  and  Strategic  Plan,  is  comprised  of  representatives  from  the  Ministries  of Education,  Health,  Gender  and  Family  Promotion,  Justice,  Local  Government,  and  Finance. While MINEDUC is tasked with providing overall ECD leadership, all concerned Ministries must contribute to ensure that services and programmes for children between the ages of 0 and 6 are fully harmonised, coordinated and provide a holistic approach to the development of the child. To achieve this cross-sectoral integrated partnership, the proposed  institutional framework contained within the ECD Policy will become fully operational during the lifespan of the ESSP, with a commitment from all concerned Ministries to work together and coordinate programmes to achieve the objectives of the ECD policy.
 
-School  Health  and  Nutrition  is  another  important  area  which  requires  continued  and strengthened  inter-Ministerial  coordination.  MINEDUC  has  led  the  process  of  developing School Health and Nutrition Policies, as well as a school health guide and training plan. The Ministries of Health, Agriculture and Local Government have been involved in this process, and there is a need for a focused and formalised approach to school health and nutrition which can take advantage of the combined expertise across several line Ministries and agencies. This will ensure that all children in Rwanda learn in healthy environments and receive and skills and knowledge required to live safe, healthy and productive lives. This is particularly the case for school  feeding,  a  key  component  of  the  School  Nutrition  Policy  and  one  which  will  require significant  investment and cross-sectoral coordination to facilitate the transition to a homegrown model.
+School  Health  and  Nutrition  is  another  important  area  which  requires  continued  and strengthened  inter-Ministerial  coordination.  MINEDUC  has  led  the  process  of  developing School Health and Nutrition Policies, as well as a school health guide and training plan. The Ministries of Health, Agriculture and Local Government have been involved in this process, and there is a need for a focused and formalised approach to school health and nutrition which can take advantage of the combined expertise across several line Ministries and agencies. This will ensure that all children in Rwanda learn in healthy environments and receive and skills and knowledge required to live safe, healthy and productive lives. This is particularly the case for school  feeding,  a  key  component  of  the  School  Nutrition  Policy  and  one  which  will  require significant  investment and cross-sectoral coordination to facilitate the transition to a home-grown model.
 
 The inter-sectoral nature of TVET also requires strong coordination among stakeholders from different economic sectors to ensure that the supply and demand of skills are aligned and that there is effective planning, prioritisation, implementation and monitoring of skills development activities. One critical mechanism for this public-private dialogue is the Sector Skills Councils. WDA will work in close partnership with RDB, MINICOM, MIFOTRA and private sector partners to support implementation of the National Employment Plan and harmonisation of efforts to strengthen skills development.
 
@@ -1695,12 +1767,11 @@ Close collaboration with the National Institute of Statistics (NISR) is also nee
 
 Table 4 below summarises the primary risks to achieving the desired sector outcomes and the mitigation strategies planned to minimise the likelihood of these risks occurring. Each risk has been  assessed  according  to  the  likelihood  of  it  occurring  and  the  impact  on  achieving  the sector outcome if it does occur; then given a ranking from 1 to 5 with 5 as the most serious risk, as depicted in the matrix below.
 
-Likelihood of | High | 3 | 4 5
---- | --- | --- | ---
-occurring (L) | Medium | 2 | 3 4
-Low | 1 | 2 3
-Low | Medium High
-Potential Impact (I)
+Likelihood of occurring (L) | High | 3 | 4 | 5
+ | Medium | 2 | 3 | 4
+ | Low | 1 | 2 | 3
+ |  | Low | Medium | High
+ |  | Potential Impact (I)
 
 78
 
@@ -1708,17 +1779,19 @@ Potential Impact (I)
 
 [[START OF PAGE 79]]
 
+Table 4: Risk Analysis and Mitigation Strategies
+
 Sector outcome | Identified risk | Severity of risk | Mitigation strategy
 --- | --- | --- | --- | --- | ---
 L | I | Overall
 1. Increased equitable access to 9 years of basic education for all children and expanding access to 12 years of basic education. | Classroom construction does not match expansion of secondary enrolment | M | M | 3 | Construction planned and prioritised at district level according to projected needs.
 Expansion of electricity and water connectivity does not meet anticipated levels. | M | M | 3 | Work with MINIFRA on a joint action plan for the expansion of school's access to utilities. Combined with exploration of alternative energy sources such as biogas and solar power.
-Inadequate levels of partnership and cross- ministerial work on issues relating to school health and hygiene, or multi-ministerial responsibilities causing lack of ownership | L | M | 2 | Development of multi-stakeholder task force to address specific challenges with clear TORs outlining responsibilities and action plans to agree on activities and to hold parties accountable.
-2. Increased equitable access to education for students with special educational needs within mainstream and special schools. | The extent of the proposed mainstreaming of provision may be constrained by comparable expansion in the quantity or quality of teaching and learning resources, disable- friendly facilities and trained teachers to meet the needs of students with special needs in all schools. | M | M | 3 | Targeted provision of resources based on current students' needs, followed by broader roll out, with planned procurement process to ensure resources are of adequate quality and quantity to meet needs. Teacher training will be provided through both pre-service and in-service channels. Plans for training provision have been costed in the ESSP and will be targeted in conjunction with needs identified at District level.
+Inadequate levels of partnership and cross-ministerial work on issues relating to school health and hygiene, or multi-ministerial responsibilities causing lack of ownership | L | M | 2 | Development of multi-stakeholder task force to address specific challenges with clear TORs outlining responsibilities and action plans to agree on activities and to hold parties accountable.
+2. Increased equitable access to education for students with special educational needs within mainstream and special schools. | The extent of the proposed mainstreaming of provision may be constrained by comparable expansion in the quantity or quality of teaching and learning resources, disable-friendly facilities and trained teachers to meet the needs of students with special needs in all schools. | M | M | 3 | Targeted provision of resources based on current students' needs, followed by broader roll out, with planned procurement process to ensure resources are of adequate quality and quantity to meet needs. Teacher training will be provided through both pre-service and in-service channels. Plans for training provision have been costed in the ESSP and will be targeted in conjunction with needs identified at District level.
 3. Improved quality and learning outcomes across primary and secondary education. | Rwanda's priorities not fully reflected in the EAC's regionally harmonised curriculum | L | M | 2 | Preparation of Rwanda's position paper on key educational issues. On-going participation in EAC meetings. Strong partnership with EAC and between MINEDUC and REB on curriculum issues.
 4. Qualified, suitably-skilled and motivated teachers and trainers to meet | New teacher development and management information system is not adequately linked with payroll, EMIS and planning processes at | L | M | 2 | Multi-stakeholder training on new system and procedures put in place on its use and linkages with other systems.
 
-Table 4: Risk Analysis and Mitigation Strategies
+
 
 79
 
@@ -1730,8 +1803,8 @@ Sector outcome | Identified risk | Severity of risk | Mitigation strategy
 --- | --- | --- | --- | --- | ---
 L | I | Overall
 demands of expanding education access. | district and central level
-Teachers lack sufficient skills and/or confidence in teaching in English, particularly when combined with using more student- centred pedagogy | H | H | 5 | School-based mentoring programme will provide bespoke training and on-the-job support for teachers. Focus on English language training and teaching English pedagogy in pre-service training.
-5. Increased equitable access to relevant, high- quality, demand-driven TVET programmes | Weak linkages between information systems managed by various stakeholders (including TVET information system, labour market information system and EMIS) | M | M | 3 | Information system linkages to be incorporated into design of new TVET information system, based on multi- stakeholder inputs and followed up by training on the new system.
+Teachers lack sufficient skills and/or confidence in teaching in English, particularly when combined with using more student-centred pedagogy | H | H | 5 | School-based mentoring programme will provide bespoke training and on-the-job support for teachers. Focus on English language training and teaching English pedagogy in pre-service training.
+5. Increased equitable access to relevant, high-quality, demand-driven TVET programmes | Weak linkages between information systems managed by various stakeholders (including TVET information system, labour market information system and EMIS) | M | M | 3 | Information system linkages to be incorporated into design of new TVET information system, based on multi-stakeholder inputs and followed up by training on the new system.
 Limited stakeholder engagement in policy, strategy and TVET implementation | L | H | 3 | Strengthened partnerships through more structured public-private dialogue, thematic working group and Sector Skills Councils.
 Insufficient opportunities for students to have practice-based learning | M | H | 4 | Development of production centres within TVET institutions. Develop closer partnerships with employers and PSF to facilitate practice-based learning, and set up MoU's between TVET institutions and employers.
 6. Increased equitable access to affordable, relevant, academically excellent higher education that also delivers quality research outputs. | Operational challenges in the establishment of the University of Rwanda and during its initial years of operation, including the establishment of the College of Open and Distance Learning | M | M | 3 | Comprehensive transition plan is in place with phased integration of colleges to minimise disruption for existing students, and consultation strategy to take into consideration staff and students' concerns. Costed business plan for ODL has been developed with plan for phasing in activities.
@@ -1767,7 +1840,7 @@ In  addition,  for  internal  monitoring  and  evaluation  there  are  regular  
 
 At  District  level,  there  are  regular  Joint  Action  Forums  with  stakeholders  to  review  District Development Plans and achievement against targets. There is also close liaison between DEOs and the Ministry of Education, REB and WDA via planning and inspection processes. Districts and schools are required to provide data for national level monitoring and evaluation. Regional inspectors in every province carry out routine school inspections, reporting directly to REB's Education Quality Standards Department and to district education officers (DEO's). In addition, schools carry out their own self-assessments of performance, based on targets they have set themselves  in  their  School  Improvements  Plans.  These  self  assessments  include  data  and indicators that they may not be reported to another level, but rather is used to inform their own planning and to improve their performance. Each school and district is required to draw up their own monitoring framework, with the involvement of PTAs.
 
-The principal review process at national level takes place at the biannual Joint Reviews of the Education  Sector  (JRES),  one  which  is  forward-looking  (April),  and  one  which  is  backwardlooking  (September).  At  the  backward-looking  review,  budget  execution  and  education achievements  against  agreed  indicators  and  targets  are  reviewed,  whilst  at  the  forwardlooking review priorities for the year ahead are identified and plans reviewed informing policy development and annual operational plans. The JRES is supported by all education stakeholders, including a range of government institutions, development partners, civil society and district  and  school  officials.  A  summary  report  indicating  performance  against  the  core education  indicators  of  the  Common  Performance  Assessment  Framework  (CPAF)  is  jointly signed by MINEDUC and the lead development partners before submission to MINECOFIN.
+The principal review process at national level takes place at the biannual Joint Reviews of the Education  Sector  (JRES),  one  which  is  forward-looking  (April),  and  one  which  is  backward-looking  (September).  At  the  backward-looking  review,  budget  execution  and  education achievements  against  agreed  indicators  and  targets  are  reviewed,  whilst  at  the  forward-looking review priorities for the year ahead are identified and plans reviewed informing policy development and annual operational plans. The JRES is supported by all education stakeholders, including a range of government institutions, development partners, civil society and district  and  school  officials.  A  summary  report  indicating  performance  against  the  core education  indicators  of  the  Common  Performance  Assessment  Framework  (CPAF)  is  jointly signed by MINEDUC and the lead development partners before submission to MINECOFIN.
 
 82
 
@@ -1783,6 +1856,8 @@ The summative evaluations will take place at the end of projects/programmes focu
 
 Table 5 below provides a summary of the projects and programmes currently scheduled for evaluation  during  this  ESSP.  Additional  projects  and/or  programmes  may  be  added  to  this schedule as appropriate.
 
+Table 5: Projects and programmes scheduled for evaluation
+
 Projects/programmes for evaluation | Timeframe | Who
 --- | --- | ---
 Establishment of ECD model centres | TBC | MINEDUC with REB
@@ -1793,7 +1868,7 @@ Establishment of the University of Rwanda | 2014/15 | MINEDUC
 Skills Development Project | TBC | WDA
 IPRC expansion and development | 2014/15 | WDA
 
-Table 5: Projects and programmes scheduled for evaluation
+
 
 ## 5.3 EDUCATION SECTOR MONITORING MATRIX
 
@@ -1822,9 +1897,9 @@ Transition rate from lower secondary to general upper secondary | 95.9% | 85% | 
 
 > 10 All data are from MINEDUC statistics (including those of its semi-autonomous agencies such as HEC and WDA) except where otherwise stated.
 
-> 12 Baseline available in 2012. Repetition and drop out statistics are 2011 figures, because they require data from 2 consecutive years. National examinations pass rates are also 2011 figures due to the timing of examinations.
-
 > 11 Indicators in bold are included in EDPRS 2 or identified as key sector outcomes to be reported on at the biannual joint reviews of the education sector.
+
+> 12 Baseline available in 2012. Repetition and drop out statistics are 2011 figures, because they require data from 2 consecutive years. National examinations pass rates are also 2011 figures due to the timing of examinations.
 
 > 13 Targets calculated on the basis of costing decisions from November 2012.
 
@@ -1909,9 +1984,9 @@ TVET enrolment 18 | 74,320 | 86,814 | 98,162 | 109,569 | 122,664 | 134,185 | TVE
 
 > 15 Note that,  with  an  increasing  number  of  school  managers,  the  number  of  managers  trained  significantly  increases  between  2014  and  2017,  though  the  proportion remains at 50%.
 
-> 17 This percentage is to include those who are employed and self-employed.
-
 > 16 This includes TVET graduates from VTCs, TSSs and IPRCs.
+
+> 17 This percentage is to include those who are employed and self-employed.
 
 88
 
@@ -1929,16 +2004,16 @@ Proportion of TVET trainers receiving pedagogy training | 4% | 5% | 10% | 15% | 
 % TVET curricula that is used that is competency-based | 28% | 51% | 66% | 81% | 96% | 100% | WDA annual report | WDA
 % inspected TVET institutions with adequate facilities, infrastructure and equipment | 68% | 69% | 69% | 70% | 71% | 72% | Inspection reports | WDA/REB
 Number of TVET institutions with career guidance specialists | 20 | 120 | 220 | 320 | 325 | 328 | WDA annual report/Districts report | WDA
-Increased equitable access to affordable, relevant, academically excellent higher education that also delivers quality | Percentage of employers satisfied with university graduates | 79.4% (2010) | >85% | >90% | >90% | Employer survey | HEC
-Percentage of university graduates employed one year after graduation | 75.8% 20 | >75.8% | >80% | >90% | Tracer survey | HEC
+Increased equitable access to affordable, relevant, academically excellent higher education that also delivers quality | Percentage of employers satisfied with university graduates | 79.4% (2010) | >85% |  | >90% |  | >90% | Employer survey | HEC
+Percentage of university graduates employed one year after graduation | 75.8% 20 | >75.8% |  | >80% |  | >90% | Tracer survey | HEC
 Enrolment in tertiary education (public) | 37,632 | 39,409 | 41,275 | 49,110 | 52,872 | 56,938 | EMIS | MINEDUC
 % students in public tertiary institutions in Rwanda | 62.6% | 62.14% | 61.71% | 61.28% | 60.85% | 60.43% | HESLD Annual Report | REB
 
 > 18 Including private and public, TSSs, VCTs, and higher education TVET institutions.
 
-> 20 Almost 24.2% of higher education graduates are either unemployed or underemployed, National Integrated Employment Program (NEP), 2013-2014.
-
 > 19 As a proportion of those who sat the final exams, not of total enrolment in final year.
+
+> 20 Almost 24.2% of higher education graduates are either unemployed or underemployed, National Integrated Employment Program (NEP), 2013-2014.
 
 89
 
@@ -2051,6 +2126,8 @@ It  is  important  to  note  that  Sector  Budget  Support  for  education  is  
 
 The  following  tables  show  the  summary  of  the  ESSP  cost  projections  (both  recurrent  and capital  costs)  over  the  period  2012/13  -  2017/18, with  a  breakdown  of  cost  by  programme areas.
 
+Table 7: Projected recurrent expenditure by programme
+
 (RWF millions) | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 --- | --- | --- | --- | --- | --- | ---
 pre-primary | 345 | 677 | 851 | 1,116 | 1,413 | 1,760
@@ -2065,13 +2142,15 @@ STR | 2,981 | 1,664 | 1,606 | 1,591 | 1,578 | 1,573
 institutional support | 6,906 | 11,169 | 10,691 | 11,012 | 11,342 | 11,683
 total recurrent expenditure | 188,001 | 218,931 | 237,999 | 267,427 | 287,888 | 337,671
 
-Table 7: Projected recurrent expenditure by programme
+
 
 94
 
 [[END OF PAGE 94]]
 
 [[START OF PAGE 95]]
+
+Table 8 Projected capital expenditure by programme
 
 (RWF millions) | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 --- | --- | --- | --- | --- | --- | ---
@@ -2087,7 +2166,9 @@ STR | 2,264 | - | - | - | - | -
 institutional support | - | - | - | - | - | -
 total capital expenditure | 44,302 | 83,867 | 50,982 | 50,421 | 67,678 | 69,147
 
-Table 8 Projected capital expenditure by programme
+
+
+Table 9: Projected recurrent and capital expenditure by programme
 
 (RWF millions) | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -2095,26 +2176,26 @@ pre-primary | 345 | 18,595 | 11,551 | 10,062 | 13,259 | 12,055
 primary | 67,283 | 76,578 | 81,988 | 93,267 | 91,171 | 110,287
 lower secondary | 42,783 | 62,555 | 62,289 | 71,635 | 92,444 | 115,175
 upper secondary | 36,391 | 34,689 | 34,416 | 42,027 | 50,634 | 56,532
-pre-service training | teacher | 3,643 | 3,944 | 4,206 | 4,553 | 4,884 | 5,247
+pre-service teacher training | 3,643 | 3,944 | 4,206 | 4,553 | 4,884 | 5,247
 TVET | 26,811 | 52,949 | 42,355 | 43,871 | 50,533 | 54,432
 higher | 42,703 | 40,399 | 39,552 | 39,430 | 39,239 | 39,265
 non-formal | 193 | 256 | 325 | 400 | 481 | 569
 STR | 5,245 | 1,664 | 1,606 | 1,591 | 1,578 | 1,573
 institutional support | 6,906 | 11,169 | 10,691 | 11,012 | 11,342 | 11,683
-total recurrent + expenditure | capital | 232,303 | 302,798 | 288,980 | 317,848 | 355,565 | 406,818
+total recurrent + capital expenditure | 232,303 | 302,798 | 288,980 | 317,848 | 355,565 | 406,818
 sub-sector shares
 pre-primary | 0.1% | 6% | 4% | 3% | 4% | 3%
 primary | 29% | 25% | 28% | 29% | 26% | 27%
 lower secondary | 18% | 21% | 22% | 23% | 26% | 28%
 upper secondary | 16% | 11% | 12% | 13% | 14% | 14%
-pre-service training | teacher | 2% | 1% | 1% | 1% | 1% | 1%
+pre-service teacher training | 2% | 1% | 1% | 1% | 1% | 1%
 TVET | 12% | 17% | 15% | 14% | 14% | 13%
 higher | 18% | 13% | 14% | 12% | 11% | 10%
 non-formal | 0.1% | 0.1% | 0.1% | 0.1% | 0.1% | 0.1%
 STR | 2% | 1% | 1% | 1% | 0.4% | 0.4%
 institutional support | 3% | 4% | 4% | 3% | 3% | 3%
 
-Table 9: Projected recurrent and capital expenditure by programme
+
 
 95
 
@@ -2126,6 +2207,8 @@ Table 9: Projected recurrent and capital expenditure by programme
 
 The following table shows the difference between projected expenditure and existing resource allocations for the education sector.
 
+Table 10: Projected funding gap
+
 (RWF millions) | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | TOTAL 2013-18
 --- | --- | --- | --- | --- | --- | --- | ---
 Total expenditure | 232,303 | 302,798 | 288,980 | 317,848 | 355,565 | 406,818 | 1,672,010
@@ -2133,9 +2216,9 @@ Of which recurrent | 188,001 | 218,931 | 237,999 | 267,427 | 287,888 | 337,671 |
 Of which capital | 44,302 | 83,867 | 50,982 | 50,421 | 67,678 | 69,147 | 322,095
 Total resources available | 232,303 | 265,456 | 269,097 | 285,725 | 307,697 | 331,660 | 1,459,635
 Funding gap | 0 | 37,342 | 19,884 | 32,123 | 47,868 | 75,158 | 212,375
-Funding gap as % of expenditure | 12% | 7% | 10% | 13% | 18% | 12.7%
+Funding gap as % of expenditure |  | 12% | 7% | 10% | 13% | 18% | 12.7%
 
-Table 10: Projected funding gap
+
 
 There is a significant funding gap which becomes larger over time as recurrent costs within the education sector grow in line with its expansion.  A number of strategies will be pursued to close this gap.
 
@@ -2193,22 +2276,24 @@ Conversely,  if  the  resource  mobilisation  strategy  were  particularly  succ
 
 [[START OF PAGE 99]]
 
+# ANNEXES
+
 ## 7.1 SECTOR PRIORITY/POLICY ACTION MATRIX
 
-THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT ) 2324 | TOTAL BUDGET FOR 5-YR PERIOD
+THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT) 23 24 | TOTAL BUDGET FOR 5-YR PERIOD
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 (Aggregated) | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | (millions RWF)
 More Rwandans receiving the full 12 year basic programme of primary and secondary education - leading to higher productivity and earnings in a range of jobs and activities | 1. Increased equitable access to fee-free and compulsory primary and lower secondary schooling for all children, and expanding access to upper secondary. | 1.1 All schools have sufficient, well- maintained, disable- friendly facilities and equipment to meet target PCR and infrastructure standards. | 2307 9YBE classrooms constructed 25 | 1207 9YBE classrooms constructed | 1295 9YBE classrooms constructed | 2473 9YBE classrooms constructed | 2702 9YBE classrooms constructed | 59,072
 1246 upper secondary classrooms constructed | 694 upper secondary classrooms constructed | 1086 upper secondary classrooms constructed | 1284 upper secondary classrooms constructed | 1259 upper secondary classrooms constructed | 33,800
 1.2 Evidence-based policies and strategies addressing barriers to participation and learning for the most vulnerable children, including adolescent girls, children with disabilities, children living with HIV and children from poorer backgrounds implemented. | Research programme of PME unit agreed. Review of SNE policy. Review of School health and nutrition policy. Publication of study on drop out. Girls' education initiatives | Policy reviewed and research conducted | Policy reviewed and research conducted | Policy reviewed and research conducted | Policy reviewed and research conducted
 
-> 23 These are output and should be stated in output language . State both the 'action' to be taken and the expected result, e.g. training organised and 500 teachers train ed .
-
-> 25 Classroom unit costs includes construction of latrines, provision of water and furnishings.
+> 23 These are output and should be stated in output language. State both the 'action' to be taken and the expected result, e.g. training organised and 500 teachers trained.
 
 > 24 The outputs in this matrix are annual figures, not cumulative totals for the five year period
 
-# ANNEXES
+> 25 Classroom unit costs includes construction of latrines, provision of water and furnishings.
+
+
 
 99
 
@@ -2216,7 +2301,7 @@ More Rwandans receiving the full 12 year basic programme of primary and secondar
 
 [[START OF PAGE 100]]
 
-THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT ) 2324 | TOTAL BUDGET FOR 5-YR PERIOD
+THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT) 23 24 | TOTAL BUDGET FOR 5-YR PERIOD
 --- | --- | --- | --- | --- | --- | --- | ---
 (Aggregated) | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | (millions RWF)
 1.3 School health, nutrition and hygiene education programme implemented in all schools. | Pre-primary, primary and secondary school are connected to the clean water | Pre-primary, primary and secondary school are connected to the clean water | Pre-primary, primary and secondary school are connected to the clean water | Pre-primary, primary and secondary school are connected to the clean water | Pre-primary, primary and secondary school are connected to the clean water | 557 (P)
@@ -2231,7 +2316,7 @@ THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANN
 
 [[START OF PAGE 101]]
 
-THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT ) 2324 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
+THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT) 23 24 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
 --- | --- | --- | --- | --- | --- | --- | ---
 (Aggregated) | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 disabilities. | curricula for children with disabilities. | specific needs of children with disabilities. | specific needs of children with disabilities developed. | pedagogical materials relevant for children with disabilities | pedagogical materials relevant for children with disabilities | budget
@@ -2246,7 +2331,7 @@ disabilities. | curricula for children with disabilities. | specific needs of ch
 
 [[START OF PAGE 102]]
 
-THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT ) 2324 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
+THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT) 23 24 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
 --- | --- | --- | --- | --- | --- | ---
 (Aggregated) | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 textbooks 2,337,200 primary; 1,427,909 LS, 158,067 US books procured | with textbooks 3,351,616 primary; 1,659,615 LS, 165,483 US books procured | with textbooks 1,928,024 primary; 1,415,399 LS, 221,598 US books procured | with textbooks 1,770,327 primary; 1,760,182 LS,. 431,465 US books procured | primary; 3,187,792 LS, 485,572 US books procured
@@ -2261,15 +2346,15 @@ textbooks 2,337,200 primary; 1,427,909 LS, 158,067 US books procured | with text
 
 [[START OF PAGE 103]]
 
-THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT (Aggregated) | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT ) 2324 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
+THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT (Aggregated) | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT) 23 24 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
 --- | --- | --- | --- | --- | --- | --- | ---
 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 language of learning. | proficient in English | proficient in English | proficient in English | proficient in English | proficient in English
 Training delivered for unqualified teachers. 1284 teacher trained | Training delivered for unqualified teachers. 2744 teacher trained | Training delivered for unqualified teachers. 4,201 teacher trained | Training delivered for unqualified teachers. 5697 teacher trained | Training delivered for unqualified teachers. 7,398 teacher trained | 1,173
-4.4 Increased proportion of head- teachers and school managers demonstrating capabilities for effective school management. | School management training delivered 5340 primary and 4055 secondary staff trained | School management training delivered 5595 primary and 4852 secondary staff trained | School management training delivered 5849 primary and 5548 secondary staff trained | School management training delivered 6103 primary and 6368 secondary staff trained | School management training delivered 6358 primary and 7634 secondary staff trained | 6,424 (P) 6,251 (S)
+4.4 Increased proportion of head-teachers and school managers demonstrating capabilities for effective school management. | School management training delivered 5340 primary and 4055 secondary staff trained | School management training delivered 5595 primary and 4852 secondary staff trained | School management training delivered 5849 primary and 5548 secondary staff trained | School management training delivered 6103 primary and 6368 secondary staff trained | School management training delivered 6358 primary and 7634 secondary staff trained | 6,424 (P) 6,251 (S)
 4.5 CPD system to promote career-path for teachers implemented
-Male and female graduates prepared for job market with critical skills needed | 5. Increased equitable access to relevant, high-quality, demand-driven TVET programmes | 5.1 Stakeholders in the TVET sector are guided by inclusive policies and strategies that are informed by a comprehensive TVET information system. | Develop TVET policy, TVET strategy and detailed plan of implementatio n that are aligned to the ESSP | Annual action plans that are aligned to the policies and strategies and being monitored | Annual action plans that are aligned to the policies and strategies being monitored | Annual action plans that are aligned to the policies and strategies being monitored | Annual action plans that are aligned to the policies and strategies being monitored
-5.2 Human capacity is developed in the TVET system. | 318 trainers trained in competency- based training, ICT, pedagogy, | 716 trainers trained in competency- based training, ICT, pedagogy, | 1207 trainers trained in competency- based, ICT, pedagogy, | 1897 trainers trained in competency- based training, ICT, pedagogy, | 2759 trainers trained in competency- based training, ICT, pedagogy, | 5,579
+Male and female graduates prepared for job market with critical skills needed | 5. Increased equitable access to relevant, high-quality, demand-driven TVET programmes | 5.1 Stakeholders in the TVET sector are guided by inclusive policies and strategies that are informed by a comprehensive TVET information system. | Develop TVET policy, TVET strategy and detailed plan of implementation that are aligned to the ESSP | Annual action plans that are aligned to the policies and strategies and being monitored | Annual action plans that are aligned to the policies and strategies being monitored | Annual action plans that are aligned to the policies and strategies being monitored | Annual action plans that are aligned to the policies and strategies being monitored
+5.2 Human capacity is developed in the TVET system. | 318 trainers trained in competency-based training, ICT, pedagogy, | 716 trainers trained in competency-based training, ICT, pedagogy, | 1207 trainers trained in competency-based, ICT, pedagogy, | 1897 trainers trained in competency-based training, ICT, pedagogy, | 2759 trainers trained in competency-based training, ICT, pedagogy, | 5,579
 
 103
 
@@ -2277,7 +2362,7 @@ Male and female graduates prepared for job market with critical skills needed | 
 
 [[START OF PAGE 104]]
 
-THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT ) 2324
+THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT) 23 24 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
 --- | --- | --- | --- | --- | ---
 (Aggregated) | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 equipment repairs and management training, plus English Language mentoring | equipment repairs and management training, plus English Language mentoring | equipment repairs and management training, plus English Language mentoring | equipment repairs and management training, plus English Language mentoring | equipment repairs and management training, plus English Language mentoring
@@ -2291,11 +2376,11 @@ Development of norms and standards for infrastructure and equipments. | Inspecti
 
 [[START OF PAGE 105]]
 
-THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT (Aggregated) | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT ) 2324 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
+THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT (Aggregated) | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT) 23 24 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
 --- | --- | --- | --- | --- | --- | ---
 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 VTC strengthened
-5.5 TVET competency- based curricula placed on RTQF, linked to the labour market and focused on key priority sectors. | TVET survey - timing to be confirmed. Employer satisfaction and tracer surveys undertaken | Employer satisfaction and tracer surveys undertaken | Employer satisfaction and tracer surveys undertaken | Employer satisfaction and tracer surveys undertaken | Employer satisfaction and tracer surveys undertaken | 1,050 (Research)
+5.5 TVET competency-based curricula placed on RTQF, linked to the labour market and focused on key priority sectors. | TVET survey - timing to be confirmed. Employer satisfaction and tracer surveys undertaken | Employer satisfaction and tracer surveys undertaken | Employer satisfaction and tracer surveys undertaken | Employer satisfaction and tracer surveys undertaken | Employer satisfaction and tracer surveys undertaken | 1,050 (Research)
 TVET institutions visited for QA and accreditation 155 schools visited. | TVET institutions visited for QA and accreditation 160 schools visited. | TVET institutions visited for QA and accreditation 166 schools visited. | TVET institutions visited for QA and accreditation 173 schools visited. | TVET institutions visited for QA and accreditation 180 schools visited. | 92
 5.6 Increased involvement of industry through structured public-private dialogue | Industry in curriculum development Coordination mechanisms of Public and private companies in place Students take internship in both private and public companies | Involve industry in curriculum development Students take internship in both private and public companies | Involve industry in curriculum development Students take internship in both private and public companies | Involve industry in curriculum development Students take internship in both private and public companies | Involve industry in curriculum development Students take internship in both private and public companies
 
@@ -2305,10 +2390,10 @@ TVET institutions visited for QA and accreditation 155 schools visited. | TVET i
 
 [[START OF PAGE 106]]
 
-THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT ) 2324
+THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT) 23 24 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
 --- | --- | --- | --- | --- | --- | ---
 (Aggregated) | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
-6. Increased equitable access to affordable, relevant, academically excellent higher education that also delivers quality research outputs. | 6.1 Increased number of higher education places available, including through full- time, part-time, open, distance & e-learning options. | Establishment of the University of Rwanda, including College of Open and Distance Learning | Opening of first two Open and Distance Learning (ODL) Centres | New ODL programmes developed 2 new OLD programmes available | New ODL programmes developed 2 new OLD programmes available | New ODL programmes developed 2 new OLD programmes available
+6. Increased equitable access to affordable, relevant, academically excellent higher education that also delivers quality research outputs. | 6.1 Increased number of higher education places available, including through full-time, part-time, open, distance & e-learning options. | Establishment of the University of Rwanda, including College of Open and Distance Learning | Opening of first two Open and Distance Learning (ODL) Centres | New ODL programmes developed 2 new OLD programmes available | New ODL programmes developed 2 new OLD programmes available | New ODL programmes developed 2 new OLD programmes available
 6.2 All TEIs have sufficient facilities to support quality teaching and learning (laboratories, libraries, lecture rooms, etc) 26 | Construction of student hostel, workshops and biogas plant at Rublizi and Busogo campuses. Construction of library and laboratories at Nyagatare campus. Construction of girls' hostel for College of Science and Technology | Construction of Architecture building at College of Science and Technology. Construction of new faculty building at College of Education. Procurement of laboratory and library equipment at College of Education. Construction of library, meeting hall at Busogo campus.
 
 > 26 Construction plans listed in year that are expected to be completed.
@@ -2319,7 +2404,7 @@ THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANN
 
 [[START OF PAGE 107]]
 
-THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT (Aggregated) | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT ) 2324 | TOTAL BUDGET 5-YR PERIOD (millions RWF)
+THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT (Aggregated) | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT) 23 24 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
 --- | --- | --- | --- | --- | --- | ---
 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 Construction of classrooms at Rublizi and Busogo campuses. Construction of learning complex at College of Economics and Business. Construction of laboratory and library at Rukara College of Education.
@@ -2332,13 +2417,13 @@ Construction of classrooms at Rublizi and Busogo campuses. Construction of learn
 
 [[START OF PAGE 108]]
 
-THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT (Aggregated) | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT ) 2324 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
+THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT (Aggregated) | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT) 23 24 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
 --- | --- | --- | --- | --- | --- | ---
 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 sector. | research and publications in UR | earmarked for research and publications to increase annually at least by 4% | earmarked for research and publications to increase annually at least by 4% | earmarked for research and publications to increase annually at least by 4% | earmarked for research and publications to increase annually at least by 4%
 6.5 Staff retention plan implemented to ensure that high performing and experienced staff are recruited and retained within the system. | Maintain the current salaries for public HLIs since they have been increased, but increase internally generated funds in public HLIs from 27% to at least 40% per year to enable an increase in salaries and benefits. | Maintain the current salaries for public HLIs since they have been increased, but increase internally generated funds in public HLIs from 27% to at least 40% per year to enable an increase in salaries and benefits.. | Maintain the current salaries for public HLIs since they have been increased, but increase internally generated funds in public HLIs from 27% to at least 40% per year to enable an increase in salaries and benefits.. | Maintain the current salaries for public HLIs since they have been increased, but increase internally generated funds in public HLIs from 27% to at least 40% per year to enable an increase in salaries and benefits.. | Maintain the current salaries for public HLIs since they have been increased, but increase internally generated funds in public HLIs from 27% to at least 40% per year to enable an increase in salaries and benefits.. | 24,668
-7. Improved access to school readiness programmes by 2017/18, accompanied by expanded access to three- years of early | 7.1 Increased number of schools with pre- primary section.
-7.2 National standards for school readiness programmes developed and in use in all pre- schools.
+7. Improved access to school readiness programmes by 2017/18, accompanied by expanded access to three-years of early | 7.1 Increased number of schools with pre-primary section.
+7.2 National standards for school readiness programmes developed and in use in all pre-schools.
 7.3 Pre-primary | 1 Curriculum | 2 parents and | 416 teachers | 1500 teachers | 2150 teachers | 6
 
 108
@@ -2347,7 +2432,7 @@ sector. | research and publications in UR | earmarked for research and publicati
 
 [[START OF PAGE 109]]
 
-THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT ) 2324 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
+THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT) 23 24 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
 --- | --- | --- | --- | --- | --- | --- | ---
 (Aggregated) | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 learning for four-to-six-year olds. | curriculum revised as part of the planned revision of the school curriculum. | revised | teachers guides revised and distributed in schools | trained to use pre-primary pedagogical materials | trained to use pre-primary pedagogical materials | trained to use pre-primary pedagogical materials
@@ -2362,13 +2447,13 @@ More productive private and public sectors. | 8. Strengthened performance in sci
 
 [[START OF PAGE 110]]
 
-THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT ) 2324 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
+THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT) 23 24 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
 --- | --- | --- | --- | --- | --- | ---
 (Aggregated) | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 Science laboratories constructed in secondary schools of excellence. 40 labs constructed | Science laboratories constructed in secondary schools of excellence. 45 labs constructed | Science laboratories constructed in secondary schools of excellence. 48 labs constructed | Science laboratories constructed in secondary schools of excellence. 50 labs constructed | Science laboratories constructed in secondary schools of excellence. 60 labs constructed
-8.4 National science teacher training programme expanded. | Science and Maths School- based teacher development programme implemented. 4081 schools supported | Science and Maths School- based teacher development programme implemented. 4355 schools supported | Science and Maths School- based teacher development programme implemented. 4562 schools supported | Science and Maths School- based teacher development programme implemented. 4803 schools supported | Science and Maths School- based teacher development programme implemented. 5204 schools supported | 8,709
+8.4 National science teacher training programme expanded. | Science and Maths School-based teacher development programme implemented. 4081 schools supported | Science and Maths School-based teacher development programme implemented. 4355 schools supported | Science and Maths School-based teacher development programme implemented. 4562 schools supported | Science and Maths School-based teacher development programme implemented. 4803 schools supported | Science and Maths School-based teacher development programme implemented. 5204 schools supported | 8,709
 8.5 Increased enrolment in and quality of science and technology subjects in higher education. | For science and TVET in tertiary education to increase to 90% for students accessing student loan | For science and TVET in tertiary education to increase to 90% for students accessing student loan | For science and TVET in tertiary education to increase to 90% for students accessing student loan | For science and TVET in tertiary education to increase to 90% for students accessing student loan | For science and TVET in tertiary education to increase to 90% for students accessing student loan
-8.5 Knowledge Transfer and Develop a culture of Innovation | Rwanda Innovation Endowment Fund (RIEF) expanded for an additional 10 Innovators | 3 rd Phase of RIEF established for additional 10 innovators | 4 th Phase of RIEF established for additional 10 innovators | 5 th Phase of RIEF established for additional 10 innovators | 6 th Phase of RIEF established for additional 10 innovators
+8.5 Knowledge Transfer and Develop a culture of Innovation | Rwanda Innovation Endowment Fund (RIEF) expanded for an additional 10 Innovators | 3rd Phase of RIEF established for additional 10 innovators | 4th Phase of RIEF established for additional 10 innovators | 5th Phase of RIEF established for additional 10 innovators | 6th Phase of RIEF established for additional 10 innovators
 
 110
 
@@ -2376,11 +2461,11 @@ Science laboratories constructed in secondary schools of excellence. 40 labs con
 
 [[START OF PAGE 111]]
 
-THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT ) 2324 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
+THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT) 23 24 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
 --- | --- | --- | --- | --- | --- | ---
 (Aggregated) | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 Access to skills training for adults, particularly male and female youth and women | 9. Increased access to Adult Basic Education to improve adult literacy and numeracy. | 9.1 Learning achievement standards developed and regular assessments of learners conducted.
-9.2 Increased access to relevant reading materials for neo- literate adults. | 544 27
+9.2 Increased access to relevant reading materials for neo-literate adults. | 544 27
 9.3 Capacity of literacy tutors enhanced through structured training. | Training of literacy instructors. 234 instructors trained | Training of literacy instructors. 321 instructors trained | Training of literacy instructors. 410 instructors trained | Training of literacy instructors. 503 instructors trained | Training of literacy instructors. 598 instructors trained | 1,223
 9.4 Improved assessment, accreditation and certification of Adult Basic Education providers and programmes.
 10. Improved administrative and management support services, including the management of | 10.1 All education managers and governance bodies demonstrate requisite skills and competencies for effective leadership and Governance.
@@ -2394,14 +2479,14 @@ policy, information, | 10.2 All institutions have the resources and systems for 
 
 [[START OF PAGE 112]]
 
-THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT ) 2324 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
+THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT) 23 24 | TOTAL BUDGET FOR 5-YR PERIOD (millions RWF)
 --- | --- | --- | --- | --- | ---
 (Aggregated) | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 finances, and human resources across the education sector. | and efficient management.
 10.3 Increased integration, coordination and lack of duplication across key management systems and institutions. | Harmonise all information systems in the Ministry and Agencies
-10.4 Improved planning, M&E, and integrated data- management across all agencies. | Completion of EMIS contract with new EMIS system in place, staff trained, infrastructure provided at decentralised levels and recoding of data 2009- 2012 | 1,298
+10.4 Improved planning, M&E, and integrated data-management across all agencies. | Completion of EMIS contract with new EMIS system in place, staff trained, infrastructure provided at decentralised levels and recoding of data 2009-2012 | 1,298
 10.5 Expanded and improved Human Resource Management processes, procedures and systems. | Automatise the human resources process and regular procedures
-10.6 Improved communication systems and structures across the sector. | Develop the communicatio n strategy | Internalise the communicatio n strategy within the Ministry,
+10.6 Improved communication systems and structures across the sector. | Develop the communication strategy | Internalise the communication strategy within the Ministry,
 
 112
 
@@ -2409,7 +2494,7 @@ finances, and human resources across the education sector. | and efficient manag
 
 [[START OF PAGE 113]]
 
-THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT ) 2324 | TOTAL BUDGET FOR 5-YR PERIOD
+THEMATIC OUTCOME | SECTOR OUTCOME | SECTOR OUTPUT | PRIORITY/POLICY ACTIONS (ANNUAL OUTPUT) 23 24 | TOTAL BUDGET FOR 5-YR PERIOD
 --- | --- | --- | --- | --- | --- | ---
 (Aggregated) | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | (millions RWF)
 agencies, and districts
@@ -2684,7 +2769,7 @@ Management support - HEC | HEC | 25,000 | 23,807 | 24,521 | 25,256 | 26,014 | 26
 Management support - UR | UR | 564 | 581 | 598 | 616 | 635 | 654
 Construction Costs - UR | UR | 4,204 | 4,189 | 3,079 | 2,586 | 1,955 | 1,478
 Centre for Open & Distance Learning | UR | - | 936 | 934 | 962 | 991 | 1,021
-TOTAL | TOTAL | 42,703 | 40,399 | 39,552 | 39,430 | 39,239 | 39,265
+TOTAL | TOTAL | TOTAL | 42,703 | 40,399 | 39,552 | 39,430 | 39,239 | 39,265
 
 Allocation for student grants and loans has been moved under this programme for the new ESSP.  Presently it is within the budget programme for institutional support.
 
@@ -2805,6 +2890,8 @@ Currently the budget for teacher training colleges is incorporated within the up
 
 A second costing scenario has been developed for the education sector to demonstrate the kind of prioritisation of resources that would be made should funding be less than expected in the 'optimistic' scenario.  The overview of this scenario's costs are presented below.  This is then followed with a summary of the key targets which would be reduced to allow spending to decrease.
 
+Table A1 : 'Realistic' Scenario - Projected recurrent expenditure by programme
+
 (RWF millions) | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | TOTAL
 --- | --- | --- | --- | --- | --- | --- | ---
 pre-primary | 345 | 588 | 685 | 863 | 1,064 | 1,296 | 4,840
@@ -2819,13 +2906,13 @@ STR | 2,981 | 1,664 | 1,606 | 1,591 | 1,578 | 1,573 | 10,993
 institutional support | 6,906 | 11,169 | 10,691 | 11,012 | 11,342 | 11,683 | 62,803
 total recurrent expenditure | 188,001 | 211,337 | 228,283 | 254,514 | 270,945 | 313,960 | 1,467,040
 
-Table A1 : 'Realistic' Scenario - Projected recurrent expenditure by programme
-
 129
 
 [[END OF PAGE 129]]
 
 [[START OF PAGE 130]]
+
+Table A2: 'Realistic' scenario - Projected capital expenditure by programme
 
 (RWF millions) | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | TOTAL
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -2841,13 +2928,13 @@ STR | 2,264 | - | - | - | - | - | 2,264
 institutional support | - | - | - | - | - | - | -
 total capital expenditure | 44,302 | 76,775 | 43,619 | 42,619 | 51,609 | 55,021 | 313,946
 
-Table A2: 'Realistic' scenario - Projected capital expenditure by programme
-
 130
 
 [[END OF PAGE 130]]
 
 [[START OF PAGE 131]]
+
+Table A3: 'Realistic' scenario - Projected recurrent and capital expenditure by programme
 
 (RWF millions) | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | TOTAL
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -2874,13 +2961,13 @@ non-formal | 0.1% | 0.1% | 0.1% | 0.1% | 0.1% | 0.2% | 0.1%
 STR | 2% | 1% | 1% | 1% | 0.5% | 0.4% | 1%
 institutional support | 3% | 4% | 4% | 4% | 4% | 3% | 4%
 
-Table A3: 'Realistic' scenario - Projected recurrent and capital expenditure by programme
-
 131
 
 [[END OF PAGE 131]]
 
 [[START OF PAGE 132]]
+
+Table A4 - 'Realistic' scenario funding gap
 
 (RWF millions) | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | TOTAL 2013-18
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -2891,8 +2978,6 @@ Total resources available | 232,303 | 265,457 | 269,100 | 285,726 | 307,695 | 33
 Funding gap | 0 | 22,655 | 2,802 | 11,407 | 14,858 | 37,327 | 89,049
 Funding gap as % of expenditure | 8% | 1% | 4% | 5% | 10% | 5.7%
 
-Table A4 - 'Realistic' scenario funding gap
-
 132
 
 [[END OF PAGE 132]]
@@ -2902,6 +2987,8 @@ Table A4 - 'Realistic' scenario funding gap
 Should resources be less than projected, prioritisation of expenditure will be required.  This prioritisation will be based on the principle of protecting investments in quality of education as best as possible, with the greater balance of cost savings coming from slowing the pace of system expansion.  The rationale behind this is that there is less value in expanding the system when a decent quality of education cannot be achieved.
 
 The following table summarises some of the key targets which will be adapted should resources prove insufficient:
+
+Table A5 - Target comparison between 'optimistic' and 'realistic' spending scenarios
 
 Baseline | 'Optimistic' scenario target 2018 | 'Realistic' scenario target 2018
 --- | --- | --- | ---
@@ -2919,8 +3006,6 @@ Ratio of secondary students per computer | 165 | 20 | 25
 Proportion of secondary schools with connectivity | 2% | 100% | 80%
 Pre-primary annual public enrolment growth rate | 0% | 20% | 13%
 Proportion of students with special needs supported with equipment | 2% | 100% | 70%
-
-Table A5 - Target comparison between 'optimistic' and 'realistic' spending scenarios
 
 Notes:
 
@@ -3015,7 +3100,7 @@ Gishali police TVET
 IPRC South, Huye TVET School in collaboration with Ministry of Defence
 Adequate Infrastructure in place
 UMUTARA
-POLYTECHNIC IPRC | Improving students software development skills
+POLYTECHNIC | Improving students software development skills
 Innovative farm and livestock developed skills identification
 Innovative Breeding And Reproduction Management To Increase Milk Production In The Eastern Region
 Maize Intensification Extension project
@@ -3025,6 +3110,7 @@ Innovative Support to Girinka Beneficiaries To Increase Milk Production
 Milk recording system
 ICT Capacity building
 Community Development Center and ICT Center
+IPRC
 Expansion and Development of IPRC Project
 Establishment of Training of Trainers Centre (ToTs) supported by KOICA
 KAVUMU
