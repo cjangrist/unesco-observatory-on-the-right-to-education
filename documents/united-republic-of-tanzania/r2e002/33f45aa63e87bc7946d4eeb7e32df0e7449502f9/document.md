@@ -4,7 +4,7 @@ LEGAL AND HUMAN RIGHTS CENTRE
 
 # ENGLISH TRANSLATION OF THE DRAFT CONSTITUTION
 
-Translated by Dr. Gastor Mapunda -UDSM Foreign Languages and linguistics for Legal and Human Rights Centre.
+Translated by Dr. Gastor Mapunda –UDSM Foreign Languages and linguistics for Legal and Human Rights Centre.
 
 13
 
@@ -22,7 +22,7 @@ Dar es Salaam,
 
 Joseph S. Warioba
 
-commission's Chairperson Article
+commission’s Chairperson
 
 2
 
@@ -32,56 +32,31 @@ commission's Chairperson Article
 
 # THE UNITED REPUBLIC OF TANZANIA DRAFT CONSTITUON 2013
 ## CONTENT
-
-Title
-
+Article Title
 ## PREAMBLE
-
 ## CHAPTER ONE
-
 ## THE UNITED REPUBLIC OF TANZANIA
-
 ### PART ONE
-
 ### BOUNDARIES, SYMBOLS, LANGUAGE, CULTURE AND NATIONAL VALUES
-
-- The United Republic
-
-- The Territory of the United Republic
-
-- National Symbols and Holidays
-
-- National Language and Sign Languages
-
-- National Values
-
+1. The United Republic
+2. The Territory of the United Republic
+3. National Symbols and Holidays
+4. National Language and Sign Languages
+5. National Values
 ### PART TWO
-
 ### SOVEREIGNTY OF THE PEOPLE, AUTHORITY AND ALLEGIANCE TO THE CONSTITUTION
-
-- Sovereignty of the people
-
-- The People and the Government
-
-- Supremacy and Obedience of the Constitution
-
-- Defense of the Constitution
-
-## FUNDAMENTAL OBJECTIVES, DIRECTIVE PRINCIPLES OF GOVERNMENT
-
+6. Sovereignty of the people
+7. The People and the Government
+8. Supremacy and Obedience of the Constitution
+9. Defense of the Constitution
 ## CHAPTER TWO
+## FUNDAMENTAL OBJECTIVES, DIRECTIVE PRINCIPLES OF GOVERNMENT
 ## DUTIES AND NATIONAL POLICIES
-
-- Implementation of National Objectives
-
-- Main Objectives
-
-- Foreign Affairs Policy
-
+10. Implementation of National Objectives
+11. Main Objectives
+12. Foreign Affairs Policy
 ## CHAPTER THREE
-
 ## ETHICS AND PROHIBITIONS IN PUBLIC LEADERSHP AND SERVICE
-
 3
 
 [[END OF PAGE 3]]
@@ -89,441 +64,277 @@ Title
 [[START OF PAGE 4]]
 
 ### PART ONE
-
-### PUBLIC LEADERS' CODE OF ETHICS
-
-- Trust of Public Leadership
-
-- Principles of Public Leadership
-
-- Gifts in Public leadership
-
-- Obligation to declare property and debts
-
-- Conflict of Interest
-
-- Use of public property
-
-- Application of code of ethics to public servants
-
+### PUBLIC LEADERS’ CODE OF ETHICS
+13. Trust of Public Leadership
+14. Principles of Public Leadership
+15. Gifts in Public leadership
+16. Obligation to declare property and debts
+17. Conflict of Interest
+18. Use of public property
+19. Application of code of ethics to public servants
 ### PART TWO
-
 ### CODE OF ETHIC FOR PUBLIC LEADERSHIP
-
-- Observance of the code of ethics for public leadership
-
-- Prohibitions of some acts
-
+20. Observance of the code of ethics for public leadership
+21. Prohibitions of some acts
 ## CHAPTER FOUR
-## HUMAN RIGHTS, CITIZENS' RESPONSIBILITIES AND NATIONAL AUTHORITIES
-
+## HUMAN RIGHTS, CITIZENS’ RESPONSIBILITIES AND NATIONAL AUTHORITIES
 ### PART ONE
 ### HUMAN RIGHTS
-
-- Freedom, personality and equality of human beings
-
-- The right to life
-
-- Prohibition against discrimination
-
-- The right to not being enslaved
-
-- Personal freedom
-
-- The right to privacy and personal security
-
-- Freedom of movement
-
-- Freedom of opinion
-
-- Freedom of information and news media
-
-- Freedom of faith and religion
-
-- Freedom of association and cooperation with others
-
-- Freedom to participate in public affairs
-
-- The right to work
-
-- The right of employees and employers
-
+22. Freedom, personality and equality of human beings
+23. The right to life
+24. Prohibition against discrimination
+25. The right to not being enslaved
+26. Personal freedom
+27. The right to privacy and personal security
+28. Freedom of movement
+29. Freedom of opinion
+30. Freedom of information and news media
+31. Freedom of faith and religion
+32. Freedom of association and cooperation with others
+33. Freedom to participate in public affairs
+34. The right to work
+35. The right of employees and employers
 4
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-- The right to own property
-
-- The right to citizenship
-
-- The right of the accused and the prisoner
-
-- The right of a detainee
-
-- Freedom and right to clean environment
-
-- The Right to education and learning
-
-- The right of the child
-
-- The right and duties of the youth
-
-- The rights of people with disabilities
-
-- The rights of minority groups in the society
-
-- The rights of women
-
-- The rights of the elderly people
-
-- Protection of human rights
-
-- Oversight of human rights
-
-- Limits of human rights
-
-## CHAPTER FIVE
-
-## CITIZENSHIP IN THE UNITED REPUBLIC
-
-- Citizenship of the United Republic
-
-- Citizenship by birth
-
-- Citizenship by registration
-
-## CHAPTER SIX
-
-## STRUCTURE OF THE UNITED REPUBLIC
-
-- The structure of the Union
-
-- Executive organs of the United Republic
-
-- The Authority of the Union Government
-
+36. The right to own property
+37. The right to citizenship
+38. The right of the accused and the prisoner
+39. The right of a detainee
+40. Freedom and right to clean environment
+41. The Right to education and learning
+42. The right of the child
+43. The right and duties of the youth
+44. The rights of people with disabilities
+45. The rights of minority groups in the society
+46. The rights of women
+47. The rights of the elderly people
 ### PART TWO
-
 ### DUTY OF THE CITIZENS AND STATE AUTHORITY
-
 #### (a) Duties of the Citizens to the Nation
-
-- Duty to participate in work
-
-- Duty to safeguard public property
-
-- Important rights and duties
-
+48. Duty to participate in work
+49. Duty to safeguard public property
+50. Important rights and duties
 #### (b) Duties of State Authority
-
+51. Protection of human rights
+52. Oversight of human rights
+53. Limits of human rights
+## CHAPTER FIVE
+## CITIZENSHIP IN THE UNITED REPUBLIC
+54. Citizenship of the United Republic
+55. Citizenship by birth
+56. Citizenship by registration
+## CHAPTER SIX
+## STRUCTURE OF THE UNITED REPUBLIC
+57. The structure of the Union
+58. Executive organs of the United Republic
+59. The Authority of the Union Government
 5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
+60. Union Matters
+61. The Union Partners
+62. Authority of the Union Partners
+63. Relationship between Union Partners
+64. Resident Ministers
+65. Citizens’ sovereignty
+66. Duty to safeguard the Union
+## CHAPTER SEVEN
+## THE GOVERNMENT OF THE UNITED REPUBLIC
+### PART ONE
+### GOVERNMENT, PRESIDENT AND VICE() PRESIDENT
+#### (a) The Government
+67. The Government of the United Republic
+#### (b) The President
+68. The President of the United Republic
+69. The Authority and duties of the President
+70. Discharge of Presidential authority
+71. Observance of advice by the President
+72. Failure of the President to discharge his authority
+73. Discharge of Presidential duties while absent
+#### (c) Election of the President
+74. Election of the President
+75. Qualities of the President
+76. Eligibility for re-election
+77. Procedures for the Election of President
+78. Petitions against credibility of Presidential Elections
+79. The oath of office of President
+#### (d) Special Conditions about the Powers of the President
+80. The power to declare war
+81. The power to declare a state of emergency
+82. Prerogative of mercy
+83. Protection against Prosecution of President
 6
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-- The Parliament to impeach the President
-
-- Salary and allowances of President
-
+84. The Parliament to impeach the President
+85. Salary and allowances of President
 #### (e) The Vice President
-
-- The Vice-President of the United Republic
-
-- Getting a Vice-President
-
-- Qualities of the Vice-President
-
-- The Oath of the Vice-President
-
-- The time for the Vice-President to assume Power
-
-- The Parliament removing the Vice-President
-
+86. The Vice-President of the United Republic
+87. Getting a Vice-President
+88. Qualities of the Vice-President
+89. The Oath of the Vice-President
+90. The time for the Vice-President to assume Power
+91. The Parliament removing the Vice-President
 ### PART TWO
-
 ### THE CABINET OF THE GOVERNMENT OF THE UNITED REPUBLIC
-
 #### (a) The Cabinet
-
-- Composing the Cabinet
-
-- Appointment of Ministers and Deputy Ministers
-
-- Qualifications of ministers and deputy ministers
-
-- Oath, tenure and conditions of service of a minister and deputy minister
-
-- Execution of government duties in the parliament
-
+92. Composing the Cabinet
+93. Appointment of Ministers and Deputy Ministers
+94. Qualifications of ministers and deputy ministers
+95. Oath, tenure and conditions of service of a minister and deputy minister
+96. Execution of government duties in the parliament
 #### (b) The Chief Justice
-
+97. The Chief Justice
 #### (c) The Principal Secretary
-
+98. The principal secretary
+99. Permanent secretaries
 #### (d) Discharge of Duties of the Cabinet
-
-- Special committee of permanent secretaries
-
-- Secretariat of the cabinet
-
+100. Special committee of permanent secretaries
+101. Secretariat of the cabinet
 ## CHAPTER EIGHT
-
 ## COORDINATION OF RELATIONS OF THE UNION PATNERS
-
 ### PART ONE
-
-- The commission for relationships and coordination of the government
-
-- Objectives of the commission
-
-- The Responsibilities of the commission
-
+102. The commission for relationships and coordination of the government
+103. Objectives of the commission
+104. The Responsibilities of the commission
 ## CHAPTER NINE
-
 ## THE PARLIAMENT OF THE UNITED REPUBLIC
-
-### PART   ONE
-
+### PART ONE
 ### ESTABLISHMENT OF THE PARLIAMENT OF THE UNITED
-
 ### REPUBLIC
-
-- The Chief Justice
-
-- The principal secretary
-
-- Permanent secretaries
-
 7
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-- The Parliament of the United Republic
-
-- Duration of  the Parliament
-
-- The Powers of the Parliament
-
-- The limits of the Parliament to use its sovereignty
-
-- The Authority of the Parliament to Legislate
-
-- The Procedure for Legislating
-
-- Procedures for changing this Constitution and some other laws
-
-- Procedure for changing specific conditions
-
-- Procedure for legislating about financial affairs
-
-- Powers of the Head of State on Draft Legislation
-
-- Approval of Government Proposals
-
+105. The Parliament of the United Republic
+106. Duration of the Parliament
+107. The Powers of the Parliament
+108. The limits of the Parliament to use its sovereignty
+109. The Authority of the Parliament to Legislate
+110. The Procedure for Legislating
+111. Procedures for changing this Constitution and some other laws
+112. Procedure for changing specific conditions
+113. Procedure for legislating about financial affairs
+114. Powers of the Head of State on Draft Legislation
+115. Approval of Government Proposals
 ### PART TWO
 ### MEMBERS OF PARLIAMENT
-
-- Election of Members of Parliament
-
-- Qualifications for Member of Parliament
-
-- Cessation of holding Office for people with authority in the Government
-
-- Procedures for election of Members of Parliament
-
-- Oath of Members of Parliament
-
-- Work conditions for Members of Parliament
-
-- Tenure of Office of members of Parliament
-
-- Responsibility of members of parliament
-
-- The right of voters to hold a member of parliament accountable
-
-- Resolutions of an issue if the person is a parliamentarian
-
-- An official pronouncements about leaders code of ethics
-
-- Parliamentarians' declaration of property
-
+116. Election of Members of Parliament
+117. Qualifications for Member of Parliament
+118. Cessation of holding Office for people with authority in the Government
+119. Procedures for election of Members of Parliament
+120. Oath of Members of Parliament
+121. Work conditions for Members of Parliament
+122. Tenure of Office of members of Parliament
+123. Responsibility of members of parliament
+124. The right of voters to hold a member of parliament accountable
+125. Resolutions of an issue if the person is a parliamentarian
+126. An official pronouncements about leaders code of ethics
+127. Parliamentarians’ declaration of property
 ### PART THREE
-
 ### LEARDERSHIP OF THE PARLIAMENT
-
 #### (a) Speaker and deputy speaker
-
-- The speaker and his/her power
-
-- Cessassion of powers of the Parliament
-
-- Deputy Speaker
-
-- Procedures for electing Speaker and \Deputy speaker
-
-- Qualifications of a suitable candidate for being speaker or deputy speaker
-
+128. The speaker and his/her power
+129. Cessassion of powers of the Parliament
+130. Deputy Speaker
+131. Procedures for electing Speaker and \Deputy speaker
+132. Qualifications of a suitable candidate for being speaker or deputy speaker
 #### (b) Office of the parliament
-
-- Clerk of the national assembly
-
-- The secretariat of the national assembly
-
+133. Clerk of the national assembly
+134. The secretariat of the national assembly
 ### PART FOUR
 ### PROCEDURES OF PROCEEDINGS IN THE NATIONAL
-
 ### ASSEMBLY
-
 8
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-- Standing orders of the national assembly
-
-- President addressing the parliament
-
-- Meetings of the national assembly
-
-- Leadership and national assembly meetings
-
-- Quorum at sittings of the national assembly
-
-- Standing committees of the national assembly
-
+135. Standing orders of the national assembly
+136. President addressing the parliament
+137. Meetings of the national assembly
+138. Leadership and national assembly meetings
+139. Quorum at sittings of the national assembly
+140. Standing committees of the national assembly
 ### PART FIVE
 ### POWERS AND PRIVILEGES OF PARLIAMENT
-
-- Freedom of proceedings in the national assembly
-
-- Limits of proceedings in the national assembly
-
+141. Freedom of proceedings in the national assembly
+142. Limits of proceedings in the national assembly
 ## CHAPTER TEN
 ## THE JUDICIARY OF UNITED REPUBLIC OF
-
 ## TANZANIA
-
 ### PART ONE
-
 ### PRINCIPLES OF DISPENSATION OF JUSTICE AND FREEDOM OF THE JUDICIARY
-
-- Establishment of the judiciary of Tanzania
-
-- Principles of dispensation of justice
-
-- Independence of the judiciary
-
+143. Establishment of the judiciary of Tanzania
+144. Principles of dispensation of justice
+145. Independence of the judiciary
 ### PART TWO
 ### THE STRUCTURE OF THE JUDICIARY
-
 #### (a) The Judiciary of the United Republic
-
-- The structure of the judiciary
-
+146. The structure of the judiciary
 #### (e) The High Court of the United Republic
-
-- The High Court
-
-- Quorum in proceedings of the High Court
-
-- Authority of the High Court
-
-- Authority of justice of the High Court
-
+147. The High Court
+148. Quorum in proceedings of the High Court
+149. Authority of the High Court
+150. Authority of justice of the High Court
 #### (f) Appointment of the Justices of the High Court
-
-- Appointment of the Chief Justice
-
-- Appointment of the Deputy Chief Justice
-
-- Appointment of Justices of the High Court
-
-- Oath of Judges of the High Court
-
+151. Appointment of the Chief Justice
+152. Appointment of the Deputy Chief Justice
+153. Appointment of Justices of the High Court
+154. Oath of Judges of the High Court
 9
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-- Tenure of office of the chief justice, deputy chief justice and other judges
-
-- Procedures of acting in the high court
-
-- Procedures relating to disciplines of the high court
-
+155. Tenure of office of the chief justice, deputy chief justice and other judges
+156. Procedures of acting in the high court
+157. Procedures relating to disciplines of the high court
 #### (g) The court of appeal of the united republic
-
-- The Court of Appeal
-
-- Quorum at sitting of the court of appeal
-
-- Jurisdiction of court of appeal
-
-- Jurisdiction of justices of appeal
-
+158. The Court of Appeal
+159. Quorum at sitting of the court of appeal
+160. Jurisdiction of court of appeal
+161. Jurisdiction of justices of appeal
 #### (h) Appointment of Justices of the Court of Appeal
-
-- Appointment of the Chairman of the Court of Appeal
-
-- Appointment of Justices or the Court of Appeal
-
-- Oath of justices of the Court of Appeal
-
-- Tenure of office of the chairman and other judges of the Court of Appeal
-
-- Procedure for acting in the Court of Appeal
-
-- Procedures relating to discipline of Justices of Appeal
-
+162. Appointment of the Chairman of the Court of Appeal
+163. Appointment of Justices or the Court of Appeal
+164. Oath of justices of the Court of Appeal
+165. Tenure of office of the chairman and other judges of the Court of Appeal
+166. Procedure for acting in the Court of Appeal
+167. Procedures relating to discipline of Justices of Appeal
 #### (i) Oversight of the duties of the Judiciary
-
-- Court Registrar
-
-- Duties of the Court Registrar
-
-- The Chief of the Judicial Office
-
-- The responsibilities of the Chief of the Judicial Office
-
+168. Court Registrar
+169. Duties of the Court Registrar
+170. The Chief of the Judicial Office
+171. The responsibilities of the Chief of the Judicial Office
 ### PART THREE
 ### THE JUDICIAL SERVICE COMMISION AND THE JUDICIARY
-
 ### FUND
-
 #### (a) The Judicial Services Commission
-
-- The Judicial Services Commission
-
-- The functions of the Judicial Services Commission
-
-- Membership in political parties
-
-- The Judiciary Fund
-
+172. The Judicial Services Commission
+173. The functions of the Judicial Services Commission
+174. Membership in political parties
 #### (b) The Judiciary Fund
-
+175. The Judiciary Fund
 ## CHAPTER ELEVEN
-
 ## SERVICES IN THE UNITED REPUBLIC
-
-- Main principles of public service
-
-- Terms and conditions of service in the united republic
-
-- Public Service commission
-
+176. Main principles of public service
+177. Terms and conditions of service in the united republic
+178. Public Service commission
 10
 
 [[END OF PAGE 10]]
@@ -531,114 +342,119 @@ Title
 [[START OF PAGE 11]]
 
 179. The powers of the public services commission
-
 ## CHAPTER TWELVE
 ## ELECTIONS IN REPRESENTATIVE ORGANS AND POLITICAL PARTIES
-
 ### PART ONE
-
-### PEOPLE'S REPRESENTATION
-
+### PEOPLE’S REPRESENTATION
 180. Participation in representative organs
-
 ### PART TWO
-
 ### INDEPENDENT ELECTORAL COMMISSION
-
 #### (a) Structure of the independent commission and political parties
-
-- Establishment of the independent electoral commission
-
-- Appointments Committee
-
-- Cessation of tenure of the Independent Electoral Commission
-
-- Responsibilities of the Independent Electoral Commission
-
-- Electoral Petition
-
-- Political Parties
-
+181. Establishment of the independent electoral commission
+182. Appointments Committee
+183. Cessation of tenure of the Independent Electoral Commission
+184. Responsibilities of the Independent Electoral Commission
+185. Electoral Petition
+#### (b) Political Parties
+186. Political Parties
 #### (c) The Director of Elections and the Registrar of Political Parties
-
-- Discharge of the Functions of the Independent Electoral Commission
-
+187. Discharge of the Functions of the Independent Electoral Commission
 ## CHAPTER THIRTEEN
 ## RESPONSIBLE INSTITUTIONS
-
 ### PART ONE
-
 ### THE COMMISSION FOR LEADERSHIP ETHICS AND ACCOUNTABILITY
-
-- Commission for Leadership Ethics and Accountability
-
-- Functions of the Commission
-
-- Tenure of Office of Members of the Commission
-
-- Removal from office of Members of the Commission
-
-- Freedom of the Commission
-
-- Provision of instruments and resources
-
+188. Commission for Leadership Ethics and Accountability
+189. Functions of the Commission
+190. Tenure of Office of Members of the Commission
+191. Removal from office of Members of the Commission
+192. Freedom of the Commission
+193. Provision of instruments and resources
 ### PART TWO
-
 ### THE COMMISSION FOR HUMAN RIGHTS
-
-- Commission for Human Rights
-
-#### (b) Political Parties
-
+194. Commission for Human Rights
 11
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-- Duties and Functions of the Commission
-
-- Tenure of office of the Members of the Commission
-
-- Removal from office of Members of the Commission
-
-- Independence of the Commission
-
-- Provision of instruments and resources
-
+195. Duties and Functions of the Commission
+196. Tenure of office of the Members of the Commission
+197. Removal from office of Members of the Commission
+198. Independence of the Commission
+199. Provision of instruments and resources
 ### PART III
-
 ### THE CONTROLLER AND AUDITOR-GENERAL OF THE UNITED REPUBLIC
-
-- Appointment of the Controller and Auditor-General
-
-- Qualifications of the Controller and Auditor-General of the United Republic
-
-- Functions and responsibilities of the Controller and Auditor- General of the Republic
-
-- Tenure of office
-
-- Removal from office
-
-- Provision of Instruments and resources
-
+200. Appointment of the Controller and Auditor-General
+201. Qualifications of the Controller and Auditor-General of the United Republic
+202. Functions and responsibilities of the Controller and Auditor- General of the Republic
+203. Tenure of office
+204. Removal from office
+205. Provision of Instruments and resources
 ## CHAPTER FOURTEEN
 ## PROVISIONS REGARDING THE FINANCES OF THE UNITED REPUBLIC
-
+#### (a) The Consolidated Fund of the Government of the United Republic
+206. Consolidated of Fund of the Government of the United Republic
+207. Conditions for withdrawal of expenditure of moneys from the Consolidated
+208. Procedure for authorization of Monies from the Consolidated Fund
+209. Procedure for authorization of expenditure of appropriation
+210. Contingencies Fund
+211. Remuneration of certain holders of public offices to be a charge on Consolidated Fund
+#### (b) Public Debt and Loans to the Government of
+#### the United Republic
 12
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
+212. National Debt
+213. The powers of the Government of the United Republic to borrow
+214. Powers of the Government of the United Republic to borrow
+#### (c) Sources of Revenue of the Government of the United Republic
+#### and Public Appropriation
+215. Sources of revenue of the Government of the United Republic
+216. Public Appropriation
+#### (d) Bank of Tanzania
+217. Bank of Tanzania
+218. Banks of the Partner Governments
+## CHAPTER FIFTEEN
+## DEFENCE AND SECURITY OF THE UNITED REPUBLIC
+#### (a) Defence and National Security
+219. National Security
+220. The national defence and security organs
+221. Establishment of the National Defence and Security Council
+222. Functions of the National Defence and Security Council
+#### (b) Tanzania People’s Defence Force
+223. Establishment of the Tanzania People’s Defence Force
+224. Appointment of the Chief of the Defence Forces of the Tanzania People’s Defence Force
+225. Powers of the Commander-in- Chief
+226. Commission for the Service of the Tanzania People’s Defence Force
+#### (c) The Police Force of the United Republic
+227. The Police Force of Tanzania
 13
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
+228. Principles of the performance of the Police Force
+229. Appointment of the Inspector General of Police
+230. Powers of the Inspector General of Police
+231. Commission for the Service of the Police Force
+232. The Police Forces of the Partners of the United Republic
+#### (d) The National Intelligence Department
+233. Establishment of the National Intelligence Department
+234. Appointment of the Director of the National Intelligence Department
+235. Security of the Partners of the United Republic
+## CHAPTER SIXTEEN
+## MISCELLANEOUS PROVISIONS
+236. Provisions relating to Parliament
+237. Provisions relating to procedure of succession to office
+238. Interpretation
+239. Title, commencement and application of this Constitution
+240. Repeal of the Constitution of the United Republic, 1977
 ## SCHEDULES
-
 14
 
 [[END OF PAGE 14]]
@@ -703,7 +519,7 @@ NOW, THEREFORE, THIS CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA WHICH WAS P
 
 ##### The United Republic
 
-1.-( 1) The United Republic of Tanzania is a Federation which is sovereign and has resulted from the Union of two countries of the Republic of Tanganyika and the People's Republic of Zanzibar which before the  agreement of the Articles  of Union of 1964 were independent states.
+1.-(1) The United Republic of Tanzania is a Federation which is sovereign and has resulted from the Union of two countries of the Republic of Tanganyika and the People’s Republic of Zanzibar which before the agreement of the Articles of Union of 1964 were independent states.
 
 (2) The United Republic is a democratic Federation which follows multi-party political system, equality of human beings, self-reliance, rule of law and respect for human rights.
 
@@ -715,7 +531,7 @@ NOW, THEREFORE, THIS CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA WHICH WAS P
 
 ##### National Symbols and Holidays
 
-3. -(1) The National Symbols are:
+3.-(1) The National Symbols are:
 
 (a) National Flag;
 
@@ -745,40 +561,27 @@ as shall be identified by a law that shall be enacted by the National Assembly.
 
 ##### National Language and Sign Languages
 
-4.-( 1) The National Language of the United Republic shall be Kiswahili and shall be used in official national and governmental communications.
+4.-(1) The National Language of the United Republic shall be Kiswahili and shall be used in official national and governmental communications.
 
 (2) Without prejudice to the provisions of Subarticle (1), the English language may be used as an official language of governmental communication should a need arise.
 
 (3) The Government  shall facilitate the communication by alternative languages  including  sign  languages  and  Braille  in  important  public  places  and  in  mass media with national coverage for people with special needs.
 
 ##### National Values
-
-- The  United  Republic  shall  respect  and  observe  the  following  National Values:
-
+5. The United Republic shall respect and observe the following National Values:
 (a) humility
-
 (b) patriotism
-
-(c)  diligence
-
+(c) diligence
 (d) unity
-
 (e) transparency
-
 (f) accountability; and
-
 (g) national Language.
-
-### SOVEREIGNTY OF THE PEOPLE, SUPREMACY AND DEFENCE OF THE
-
-##### Sovereignty of the people
-
-6. The United Republic is a country which is guided by principles of democracy which regard social rights, and therefore:
-
-(a) the people are the basis of the state authority, and the government shall resume authority and power from the people who through their unity and totality own and give this constitution legitimacy;
-
 ### PART TWO
+### SOVEREIGNTY OF THE PEOPLE, SUPREMACY AND DEFENCE OF THE
 ### CONSTITUTION
+##### Sovereignty of the people
+6. The United Republic is a country which is guided by principles of democracy which regard social rights, and therefore:
+(a) the people are the basis of the state authority, and the government shall resume authority and power from the people who through their unity and totality own and give this constitution legitimacy;
 
 18
 
@@ -828,7 +631,7 @@ as shall be identified by a law that shall be enacted by the National Assembly.
 
 ##### Supremacy and Defence of the Constitution
 
-8.(1) Without prejudice to the conditions of the Constitutions of the Member States of the in non-Union matters, this Constitution shall be the supreme law in the United Republic.
+8.-(1) Without prejudice to the conditions of the Constitutions of the Member States of the in non-Union matters, this Constitution shall be the supreme law in the United Republic.
 
 (2) Any person, organ, institution, community and of the government (national authority) and private authority are obligated to observe the conditions of this Constitution and obey them;
 
@@ -854,7 +657,7 @@ as shall be identified by a law that shall be enacted by the National Assembly.
 
 ##### Implementation of National Objectives
 
-(10).(1) The National Objectives stipulated in this Constitution shall be the guide to the  Government,  Parliament,  Judiciary,  political  parties,  institutions,  organisations  and other  authorities  and  to  every  citizen  for  use  or  interpretation  of  the  conditions  of  this Constitution  or  any  other  law  and  for  the  implementation  of  policy  decisions  for  the purpose of building a society which is free, observant and sound.
+(10).-(1) The National Objectives stipulated in this Constitution shall be the guide to the Government, Parliament, Judiciary, political parties, institutions, organisations and other authorities and to every citizen for use or interpretation of the conditions of this Constitution or any other law and for the implementation of policy decisions for the purpose of building a society which is free, observant and sound.
 
 (2)  The  Government  will  report  to  the  Parliament,  not  less  than  once  every  year, about the steps taken by the national authority to ensure the implementation of the National objectives stipulated in this Constitution.
 
@@ -910,19 +713,12 @@ as shall be identified by a law that shall be enacted by the National Assembly.
 
 [[START OF PAGE 23]]
 
-(e)
-
 (vii) put in place good procedures for setting fair prices of farm produce and farm inputs;
-
-(viii)  strengthen  and  develop  local  investment,  availability  of  farm  inputs, areas for livestock keeping and fishing gear;
-
-(ix)  ensure  that  all  people  have  free  opportunities  for  stating  economic activities  and  establish  an  environment  which  is  good  for  the  purpose  of encouraging the private sector in the economy;
-
+(viii) strengthen and develop local investment, availability of farm inputs, areas for livestock keeping and fishing gear;
+(ix) ensure that all people have free opportunities for stating economic activities and establish an environment which is good for the purpose of encouraging the private sector in the economy;
 (x) ensure that every person who is capable of working gets an opportunity to work, in the sense of doing any lawful activity that gives him income;
-
-(xi) put in place appropriate procedures for the purpose of accomplishing the implementation of the right  of  a  person  to  be  educated  and  be  free  and  get equal  opportunities  of  seeking  for  education  in  a  field  of  his  choice  to  any level the highest level possible in accordance with his entitlement and ability;
-
-culturally, the Government takes appropriate measures in order to:
+(xi) put in place appropriate procedures for the purpose of accomplishing the implementation of the right of a person to be educated and be free and get equal opportunities of seeking for education in a field of his choice to any level the highest level possible in accordance with his entitlement and ability;
+(e) culturally, the Government takes appropriate measures in order to:
 
 (i)  safeguard  and  preserve  natural  heritage,  antique  resources  and  places which are historically are religiously important in order to avoid destruction, defamation and theft or remove unlawfully outside the country;
 
@@ -967,7 +763,7 @@ culturally, the Government takes appropriate measures in order to:
 
 ##### Trust of Public Leadership
 
-13.(1) Authority given to a leader in public service:
+13.-(1) Authority given to a leader in public service:
 
 (a) is a trust and he shall use that authority for discharging his responsibilities:
 
@@ -1027,7 +823,7 @@ principles of public leadership.
 
 ##### Gifts in Public leadership
 
-15.(1) Gift or anything that shall be given to a public servant in public duties is a gift to the United Republic of Tanzania and shall be handed in to the Principal Secretary through the Permanent Secretary of the respective Ministry or Government institution, stipulating:
+15.-(1) Gift or anything that shall be given to a public servant in public duties is a gift to the United Republic of Tanzania and shall be handed in to the Principal Secretary through the Permanent Secretary of the respective Ministry or Government institution, stipulating:
 
 (a) kind of gift;
 
@@ -1043,7 +839,7 @@ principles of public leadership.
 
 [[START OF PAGE 26]]
 
-- A Public Servant -
+(2) A Public Servant –
 
 (a) shall not open or operate a bank account outside the United Republic except in ways that the laws of the land allow; and
 
@@ -1053,7 +849,7 @@ principles of public leadership.
 
 ##### Obligation to declare property and debts
 
-16.(1) A Public Leader shall be obligated to declare, within thirty days after receiving office and after leaving office, properties and their value and his debts to the Commission for Ethics and Accountability.
+16.-(1) A Public Leader shall be obligated to declare, within thirty days after receiving office and after leaving office, properties and their value and his debts to the Commission for Ethics and Accountability.
 
 (2) Without prejudice to the conditions of Subarticle (1), a Public Leader shall be obligated to declare his property and debts:
 
@@ -1069,13 +865,15 @@ principles of public leadership.
 
 (2)  A  Public  Leader  shall  not  talk  about  anything  in  the  Cabinet,  National Assembly,  committee  or  any  other  official  organ  in  which  he  has  interest,  directly  or otherwise, except if he shall provide a report on the conflict of interest to those organs.
 
-(3)  It  shall  be  prohibited for any Public  Leader to participate in any way in improving  benefits  concerning  his  position,  and  if  he  shall  participate,  then  the  new conditions  shall  start  to  be  used  for  the  public  leader  who  shall  take  office  after  he  has evacuated or completed his tenure of authority.
+(3) It shall be prohibited for any Public Leader to participate in any way in improving benefits concerning his position, and if he shall participate, then the new
 
 26
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+conditions shall start to be used for the public leader who shall take office after he has evacuated or completed his tenure of authority.
 
 (4) The national Assembly shall enact a law that shall oversee, together with other things, matters of
 
@@ -1089,7 +887,7 @@ principles of public leadership.
 
 (e) Development of curricula for the constitution in schools and colleges; and
 
-- A public leader shall not be allowed to hold two or more office or serving more than one state organ at the same time.
+(5) A public leader shall not be allowed to hold two or more office or serving more than one state organ at the same time.
 
 ##### Use of public property
 
@@ -1105,9 +903,9 @@ principles of public leadership.
 
 ##### Observance of Public Leaders' Code of ethics
 
-20.(1) Without prejudice to the conditions of the constitution, any public leader  is obligated to respect and obey public leaders' code of ethics, including leadership prohibition.
+20.- (1) Without prejudice to the conditions of the constitution, any public leader is obligated to respect and obey public leaders' code of ethics, including leadership prohibition.
 
-- Leadership prohibitions being referred to in sub article (1) shall be as follows;
+(2) Leadership prohibitions being referred to in sub article (1) shall be as follows;
 
 (a). A public leader shall not be expected to
 
@@ -1153,7 +951,7 @@ for public servants, public servants standing orders, public documents and diffe
 
 leadership.
 
-- Any public leader who is accused and is proven guilty of offences which are:
+(3) Any public leader who is accused and is proven guilty of offences which are:
 
 (a) disciplinary
 
@@ -1200,7 +998,7 @@ shall be dismissed from work until his matter has been resolved according to the
 
 ##### Prohibition against discrimination
 
-24.(1) All persons are equal before the law and are entitled to protection and equality before the law
+24.-(1) All persons are equal before the law and are entitled to protection and equality before the law
 
 (2) no person shall be discriminated against by any person, or national authority or any other authority discharging its authority under any law or in executing duty or responsibility of any national authority
 
@@ -1208,7 +1006,7 @@ shall be dismissed from work until his matter has been resolved according to the
 
 (4). The civic rights, duties and interest of every person and community shall be protected and determined by the courts of law or other state agencies established by or under the law
 
-(5).  For  the  purpose  of  this  article  and  in  regard  to  the  conditions  of  sub article(4)  the  word    'discriminate'  means  to  satisfy  the  needs,  rights  or  other requirements  of  different  persons  on  the  bases  of  their  nationality,  tribe,  place  of origin,  political  opinion,  colour,  religion,  sex  or  station  in  life  such  that  certain categories of people are regarded as weak or inferior and are subjected to restrictions or  conditions  whereas  persons  of  other  categories  are  treated  differently  or  are accorded opportunities or advantage outside the prescribed necessary conditions .
+(5). For the purpose of this article and in regard to the conditions of sub article(4) the word “discriminate” means to satisfy the needs, rights or other
 
 29
 
@@ -1216,7 +1014,9 @@ shall be dismissed from work until his matter has been resolved according to the
 
 [[START OF PAGE 30]]
 
-(6)  The  expression  'discriminate'  as  used  in  Subarticle  (2)  shall  not  be construed shall not be construed in a manner that shall prohibit the Government from taking purposeful steps aimed at rectifying specific problems in the society.
+requirements of different persons on the bases of their nationality, tribe, place of origin, political opinion, colour, religion, sex or station in life such that certain categories of people are regarded as weak or inferior and are subjected to restrictions or conditions whereas persons of other categories are treated differently or are accorded opportunities or advantage outside the prescribed necessary conditions .
+
+(6) The expression “discriminate” as used in Subarticle (2) shall not be construed shall not be construed in a manner that shall prohibit the Government from taking purposeful steps aimed at rectifying specific problems in the society.
 
 (7) For the purpose ensure equality before the law, the state authority shall make procedures which are appropriate and which take into account the principles that-
 
@@ -1240,7 +1040,7 @@ shall be dismissed from work until his matter has been resolved according to the
 
 [[START OF PAGE 31]]
 
-25.(1) every one person has the right to not being treated or made to work as a slave, not to be forced to work or humiliated, and on that ground no person shall:
+25.- (1) every one person has the right to not being treated or made to work as a slave, not to be forced to work or humiliated, and on that ground no person shall:
 
 (a) be made or treated as a slave
 
@@ -1253,7 +1053,7 @@ person
 (2) the business of human trafficking is prohibited in the united republic
 ##### Personal freedom
 
-- 26.(1) every person has the right to live as a free person
+26.- (1) every person has the right to live as a free person
 
 (2) for the purpose of preserving the right to individual freedom and to live as a free person, no person shall be arrested, imprisoned, confined, detained, deported or otherwise deprived of his freedom save only-
 
@@ -1263,7 +1063,7 @@ person
 
 ##### The right to privacy and personal security
 
-27.(1)  Every  person  is  entitled  to  respect  and  protection  of  his  person,  the privacy of his own person and his family and his home, not to be tortured or humiliated and also protection of his residence and private communications.
+27.-(1) Every person is entitled to respect and protection of his person, the privacy of his own person and his family and his home, not to be tortured or humiliated and also protection of his residence and private communications.
 
 (2)  For the purpose of preserving the person's right in accordance with this Article, the state authority shall lay down legal procedures regarding the circumstances, manner and extent to which the right to privacy, security of his person, his property and residence may be encroached upon without prejudice to the provisions of this Article.
 
@@ -1431,7 +1231,7 @@ the  state
 
 ##### The right to citizenship
 
-37.(1)  Every  citizen  has  the  right  to  recognition  of  his  citizenship  and  for  this purpose, the state authority shall provide a legal procedure which shall enable the people to get  birth  certificates,  national  identification  card  without  discrimination  or  practising  any kind of discrimination, and where it is necessary, his travel documents
+37.-(1) Every citizen has the right to recognition of his citizenship and for this purpose, the state authority shall provide a legal procedure which shall enable the people to get birth certificates, national identification card without discrimination or practising any kind of discrimination, and where it is necessary, his travel documents
 
 ##### The right of the accused and the prisoner
 
@@ -1451,14 +1251,6 @@ the  state
 
 [[START OF PAGE 36]]
 
-##### The right of persons who are under arrest
-
-##### Freedom and right to clean environment
-
-##### The right to education and learning
-
-##### The right of the child
-
 (b) record a statement;
 
 (c) communicate with his lawyer or any other person of help to him;
@@ -1467,41 +1259,47 @@ the  state
 
 (e) be brought before a court as soon as possible.
 
-- The authorities of the land shall prescribe legal procedure for:
+(2) The authorities of the land shall prescribe legal procedure for:
 
-(a)  the  accused  to  get  a  copy  of  the  charges  against  him  and  records  of  the progress of the trial;
+(a) the accused to get a copy of the charges against him and records of the progress of the trial;
 
 (b) the accused or prisoner to get a copy of the progress of the trial after the case is concluded in court; and
 
 (c) the accused or prisoner to appear in court to prove his presence.
 
--(1) A person arrested shall continue to have all the basic rights which have been stipulated in this Constitution to the extent that he deserves while he is under arrest or in detention.
+##### The right of persons who are under arrest
 
-- A person who is arrested or detained has the right to be told why he has been arrested or detained.
+39.-(1) A person arrested shall continue to have all the basic rights which have been stipulated in this Constitution to the extent that he deserves while he is under arrest or in detention.
 
-- A citizen of the United Republic shall not be extradited to any country to face trial or be interrogated without his consent.
+(2) A person who is arrested or detained has the right to be told why he has been arrested or detained.
 
--(1) Every person resident in the United Republic has the right to live in a clean and safe environment.
+(3) A citizen of the United Republic shall not be extradited to any country to face trial or be interrogated without his consent.
 
-- The  right  to  live  in  a  clean  and  safe  environment  includes  the  right  of every citizen to use public spaces or various places that have been reserved for  entertainment,  delivery  of  educational  services,  medical  services,  for religious gatherings, cultural and economic activities.
+##### Freedom and right to clean environment
 
-- Any person who is resident in Tanzania is responsible for protecting the environment and informing the authorities of the land of activities or anything that is harmful or is likely to adversely affect the environment.
+40.-(1) Every person resident in the United Republic has the right to live in a clean and safe environment.
 
--(1) Every person has the right to:
+(2) The right to live in a clean and safe environment includes the right of every citizen to use public spaces or various places that have been reserved for entertainment, delivery of educational services, medical services, for religious gatherings, cultural and economic activities.
+
+(3) Any person who is resident in Tanzania is responsible for protecting the environment and informing the authorities of the land of activities or anything that is harmful or is likely to adversely affect the environment.
+
+##### The right to education and learning
+
+41.-(1) Every person has the right to:
 
 (a) education without facing any sanctions;
 
-(b) free quality primary  education  which  prepares  a  pupil  for further education or for being self-reliant;
+(b) free quality primary education which prepares a pupil for further education or for being self-reliant;
 
 (c) less expensive education in private institutions; and
 
-(d)  have  equal  access  to  higher  education  provided  that  he  has  the  relevant qualifications for that level of education without in any way being discriminated against.
+(d) have equal access to higher education provided that he has the relevant qualifications for that level of education without in any way being discriminated against.
 
-- For the purposes of Subarticle (1), every person has the right to choose a profession or job he wants in accordance with his level of education or skills.
+(2) For the purposes of Subarticle (1), every person has the right to choose a profession or job he wants in accordance with his level of education or skills.
 
-42.
+##### The right of the child
 
--(1) Every child has the right to-
+42.-(1) Every child has the right to-
 
 (a) have a name and citizenship;
 
@@ -1511,14 +1309,53 @@ the  state
 
 [[START OF PAGE 37]]
 
-(b) express his views, be heard and be protected against spite, cruelty and dehumanization; (c) play and get an education (d) be kept in a good environment, for those who break the law; (e) a balanced diet, shelter and medical services; and (f) participate in activities related to his age; and (g) care and protection from his parents, guardians or an authority of the land, without being discriminated against on the basis of race, nationality, language, political ideology, origin, property, parents, religion, gender or any other kind of status. (2) The authority of the land shall set legal procedure for the implementation and upholding of the rights of the child in observance of the principles of setting priorities in the interest of the child.
---- | ---
-##### The right and responsibilities of youth |
+(b) express his views, be heard and be protected against spite, cruelty and dehumanization;
+
+(c) play and get an education
+
+(d) be kept in a good environment, for those who break the law;
+
+(e) a balanced diet, shelter and medical services; and
+
+(f) participate in activities related to his age; and
+
+(g) care and protection from his parents, guardians or an authority of the land, without being discriminated against on the basis of race, nationality, language, political ideology, origin, property, parents, religion, gender or any other kind of status.
+
+(2) The authority of the land shall set legal procedure for the implementation and upholding of the rights of the child in observance of the principles of setting priorities in the interest of the child.
+
+##### The right and responsibilities of youth
+
 43. Every youth has the right to participate fully in development activities of the United Republic and the society in general, for that matter, the Government of the United Republic, the Governments of the Partners of the Union and the society shall ensure that the youth have a good environment for becoming good citizens who shall participate fully in political, economic, social and cultural affairs.
-##### The rights of persons with disabilities |
-44. -(1) A person with disabilities has the right to: (a) be respected, recognized and treated in a way which does not lower his dignity; (b) an education through special equipment and participate in social affairs. (c) have infrastructure and environment which allow him to go wherever he pleases, use transport facilities and get information; (d) use sign languages, written language by the aid of special machines or other methods that are appropriate; (e) learn with persons without disabilities; and (f) get a job and contest leadership posts in various sectors. (2) The authority of the land shall specify procedure for enabling persons with disabilities to participate in representative activities.
-##### The rights of minority groups in the society |
-45. -(1) The authority of the land shall specify legal procedure for enabling the minority groups in society to: (a) participate in leadership in the authorities of the land; (b) have special opportunities in education and in the economic sectors and employment opportunities; and (c) be given land where they traditionally live and get food. (2) The government and authorities of the land shall take deliberate steps to promote and sustain economic activities and put in place infrastructure for residence, delivery of educational and medical services for the present and future generations of the minority groups in the society.
+
+##### The rights of persons with disabilities
+
+44.-(1) A person with disabilities has the right to:
+
+(a) be respected, recognized and treated in a way which does not lower his dignity;
+
+(b) an education through special equipment and participate in social affairs.
+
+(c) have infrastructure and environment which allow him to go wherever he pleases, use transport facilities and get information;
+
+(d) use sign languages, written language by the aid of special machines or other methods that are appropriate;
+
+(e) learn with persons without disabilities; and
+
+(f) get a job and contest leadership posts in various sectors.
+
+(2) The authority of the land shall specify procedure for enabling persons with disabilities to participate in representative activities.
+
+##### The rights of minority groups in the society
+
+45.-(1) The authority of the land shall specify legal procedure for enabling the minority groups in society to:
+
+(a) participate in leadership in the authorities of the land;
+
+(b) have special opportunities in education and in the economic sectors and employment opportunities; and
+
+(c) be given land where they traditionally live and get food.
+
+(2) The government and authorities of the land shall take deliberate steps to promote and sustain economic activities and put in place infrastructure for residence, delivery of educational and medical services for the present and future generations of the minority groups in the society.
 
 37
 
@@ -1528,11 +1365,7 @@ the  state
 
 ##### The rights of women
 
-##### The rights of the elderly
-
-##### Duty to participate in work
-
-- 46.-(1) Every woman has the right to:
+46.-(1) Every woman has the right to:
 
 (a) be respected;
 
@@ -1544,11 +1377,13 @@ the  state
 
 (e) protection against discrimination, spite and dangerous customs;
 
-(f)  protection  for  her  employment  while  she  is  pregnant  and  after  delivery; and
+(f) protection for her employment while she is pregnant and after delivery; and
 
 (g) quality medical services.
 
-(2)  The  authorities  of  the  land  concerned  shall  prescribe  procedure  for supervising  matters  relating  to  the  implementation  of  the  provisions  of  this Article,  including  promoting  dignity,  security  and  opportunities  for  women, including the widows.
+(2) The authorities of the land concerned shall prescribe procedure for supervising matters relating to the implementation of the provisions of this Article, including promoting dignity, security and opportunities for women, including the widows.
+
+##### The rights of the elderly
 
 47. The authorities of the land shall put in place procedure for the elderly to:
 
@@ -1567,15 +1402,17 @@ the  state
 
 #### (a) Citizens' Duties to the Nation
 
+##### Duty to participate in work
+
 48.-(1) Every person has the right to-
 
 (a) participate responsibly and honestly in lawful and productive work; and
 
 (a) observe work discipline and strive to attain the individual and collective production targets set by law.
 
-- Notwithstanding the provisions of Subarticle (1), there shall be no forced labour in the United Republic.
+(2) Notwithstanding the provisions of Subarticle (1), there shall be no forced labour in the United Republic.
 
-- For the purposes of this Constitution, it is hereby declared that no work shall  be  deemed  to  be  forced,  cruel  or  humiliating  labour,  if  such  work  is according to law-
+(3) For the purposes of this Constitution, it is hereby declared that no work shall be deemed to be forced, cruel or humiliating labour, if such work is according to law-
 
 38
 
@@ -1599,19 +1436,15 @@ the  state
 
 ##### Duty to safeguard public property
 
--(1) Every person has the duty to protect the natural resources of the United Republic, the property of the state authority, all property collectively owned by the people, and also to respect another person's property.
+49.-(1) Every person has the duty to protect the natural resources of the United Republic, the property of the state authority, all property collectively owned by the people, and also to respect another person's property.
 
-- Every person has the duty to safeguard, preserve and sustain the resources of the land and the natural resources of the Nation.
+(2) Every person has the duty to safeguard, preserve and sustain the resources of the land and the natural resources of the Nation.
 
-state authority and all property collectively owned by the people, to combat all  forms  of  waste  and  squander,  and  to  manage  the  national  economy assiduously with the attitude of people who are masters of the destiny of their
-
-- All persons have the duty to safeguard the property of the nation.
+(3) All persons have the duty to safeguard the property of the state authority and all property collectively owned by the people, to combat all forms of waste and squander, and to manage the national economy assiduously with the attitude of people who are masters of the destiny of their nation.
 
 ##### Fundamental rights and duties
 
-fundamental human rights and to enjoy the benefits accruing from the fulfillment  by  every  person  of  his  duty  to  society  as  prescribed  in  this
-
--(1) Every person in the United Republic has the right to enjoy Constitution.
+50.-(1) Every person in the United Republic has the right to enjoy fundamental human rights and to enjoy the benefits accruing from the fulfillment by every person of his duty to society as prescribed in this Constitution.
 
 39
 
@@ -1695,29 +1528,29 @@ the application of the provisions of this Article.
 
 [[START OF PAGE 42]]
 
-##### Citizenship of the United Republic
-
-54. -(1)  A  person  who,  before  this  Constitution  comes  into  operation,  is  a citizen of the United Republic shall continue to be a citizen of this country when the Constitution comes into operation.
-
-(2) There are two types of the citizenship of the United Republic, by birth and by registration.
-
-55. -(1) Every person who is born in Mainland Tanzania or Zanzibar shall be a citizen of the United Republic if, on the date of his birth, either of his parents is or was a citizen of the United Republic.
-
-(2)  Subject  to  the  provisions  of  this  Constitution,  a  person  who  was  born outside Tanzania shall be a citizen of the United Republic by birth from the date he is born if his parents or either of his parents is a citizen of the United Republic.
-
-(3) If either of the parents dies before that person is born, the citizenship of the dead person shall be recognized at the time of his death for the purposes of recognizing the citizenship of that person after the death of the parent as though the dead person was alive at the time the person was born.
-
-(4)  If  a  child  who  has  not  attained  the  age  of  seven  years  is  found  in  the United  Republic  and  his  parents  are  not  known,  then  the  child  shall  be considered a citizen of the United Republic.
-
-(5)  A  child  who  is  below  eighteen  years  of  age  and  whose  parents  are  not citizens of Tanzania, if he is adopted by a Tanzanian citizen, by his being so adopted, shall qualify to be a citizen of the United Republic.
-
-##### Citizenship by registration
-
-56. -(1) Soon after this Constitution comes into operation, a person who has been resident in Mainland Tanzania or Zanzibar for the period prescribed by the law used in Mainland Tanzania or Zanzibar, and who has fulfilled all the provisions  set  out  by  the  Assembly  of  Mainland  Tanzania  or  the  House  of
-
 ## CHAPTER V
 
 ## CITIZENSHIP
+
+##### Citizenship of the United Republic
+
+54.-(1) A person who, before this Constitution comes into operation, is a citizen of the United Republic shall continue to be a citizen of this country when the Constitution comes into operation.
+
+(2) There are two types of the citizenship of the United Republic, by birth and by registration.
+
+55.-(1) Every person who is born in Mainland Tanzania or Zanzibar shall be a citizen of the United Republic if, on the date of his birth, either of his parents is or was a citizen of the United Republic.
+
+(2) Subject to the provisions of this Constitution, a person who was born outside Tanzania shall be a citizen of the United Republic by birth from the date he is born if his parents or either of his parents is a citizen of the United Republic.
+
+(3) If either of the parents dies before that person is born, the citizenship of the dead person shall be recognized at the time of his death for the purposes of recognizing the citizenship of that person after the death of the parent as though the dead person was alive at the time the person was born.
+
+(4) If a child who has not attained the age of seven years is found in the United Republic and his parents are not known, then the child shall be considered a citizen of the United Republic.
+
+(5) A child who is below eighteen years of age and whose parents are not citizens of Tanzania, if he is adopted by a Tanzanian citizen, by his being so adopted, shall qualify to be a citizen of the United Republic.
+
+##### Citizenship by registration
+
+56.-(1) Soon after this Constitution comes into operation, a person who has been resident in Mainland Tanzania or Zanzibar for the period prescribed by the law used in Mainland Tanzania or Zanzibar, and who has fulfilled all the provisions set out by the Assembly of Mainland Tanzania or the House of
 
 42
 
@@ -1749,7 +1582,7 @@ Representatives  of  Zanzibar,  may  apply  for  the  citizenship  of  the  Unit
 
 (c) the Government of Mainland Tanzania.
 
-- The affairs of the United Republic shall be discharged and supervised by:
+(2) The affairs of the United Republic shall be discharged and supervised by:
 
 (a) the Government of the United Republic;
 
@@ -1767,25 +1600,25 @@ Representatives  of  Zanzibar,  may  apply  for  the  citizenship  of  the  Unit
 
 [[START OF PAGE 44]]
 
-##### Union matters
+58.-(1) The Government of the United Republic shall be the executive organ, the National Assembly shall be the organ charged with the task of enacting laws relating to Union Matters and supervising the discharge of the functions of the Government of the United Republic and the Judiciary shall be responsible for dispensation of justice.
 
-58. -(1) The Government of the United Republic shall be the executive organ, the National Assembly shall be the organ charged with the task of enacting laws relating to Union Matters and supervising the discharge of the functions of  the  Government  of  the  United  Republic  and  the  Judiciary  shall  be responsible for dispensation of justice.
-
-(2)  Every  organ  mentioned  in  this  Article  shall  be  established  and  shall discharge its functions in accordance with the provisions of this Constitution.
+(2) Every organ mentioned in this Article shall be established and shall discharge its functions in accordance with the provisions of this Constitution.
 
 ##### The authority of the Government of the United Republic
 
-59. -(1)  The  Government  of  the  United  Republic  shall  have  the  power  to implement all Union Matters, and at the time of discharging its duties, it shall observe the authority vested in it by this Constitution.
+59.-(1) The Government of the United Republic shall have the power to implement all Union Matters, and at the time of discharging its duties, it shall observe the authority vested in it by this Constitution.
 
-(2)  The  discharge  of  the  functions  of  the  Government  shall  be  done  in compliance with the principles prescribed by this Constitution or by an Act of Parliament.
+(2) The discharge of the functions of the Government shall be done in compliance with the principles prescribed by this Constitution or by an Act of Parliament.
 
-(3) Without prejudice to the provisions of this Article, the Government of the United Republic, by special conditions and in agreement with the Revolutionary  Government  of  Zanzibar  or  the  Government  of  Mainland Tanzania, may discharge any function under the authority of the Revolutionary  Government  of  Zanzibar  or  the  Government  of  Mainland Tanzania in accordance with the conditions of the agreement.
+(3) Without prejudice to the provisions of this Article, the Government of the United Republic, by special conditions and in agreement with the Revolutionary Government of Zanzibar or the Government of Mainland Tanzania, may discharge any function under the authority of the Revolutionary Government of Zanzibar or the Government of Mainland Tanzania in accordance with the conditions of the agreement.
 
-60. For  the  purposes  of  ensuring  effective  discharge  of  the  functions  of  the Government of the United Republic, and for the purposes of sharing authority over such functions among  the organs mentioned in Article 58, the Government  of  the  United  Republic  shall  have  authority  over  the  Union Matters listed in the Schedule.
+##### Union matters
+
+60. For the purposes of ensuring effective discharge of the functions of the Government of the United Republic, and for the purposes of sharing authority over such functions among the organs mentioned in Article 58, the Government of the United Republic shall have authority over the Union Matters listed in the Schedule.
 
 ##### The Partners of the Union
 
-61. -(1) According to this Constitution, the Partners of the Union are Mainland Tanzania and Zanzibar.
+61.-(1) According to this Constitution, the Partners of the Union are
 
 44
 
@@ -1793,13 +1626,15 @@ Representatives  of  Zanzibar,  may  apply  for  the  citizenship  of  the  Unit
 
 [[START OF PAGE 45]]
 
-(2) The Government of Mainland Tanzania shall have authority over all nonUnion Matters relating to Mainland Tanzania.
+Mainland Tanzania and Zanzibar.
+
+(2) The Government of Mainland Tanzania shall have authority over all non-Union Matters relating to Mainland Tanzania.
 
 (3) The Revolutionary Government of Zanzibar shall have authority over all non-Union Matters relating to Zanzibar.
 
 (4)  The  Partners  of  the  Union  shall  discharge  their  duties  by  observing  the provisions of this Constitution and the provisions of their Constitutions.
 
-(5)  The  Partners  of  the  Union  shall  have  the  same  status  and  equal  rights within the United Republic and shall discharge their duties relating to all nonUnion Matters within the authorities of the Partners of the Union pursuant to the conditions prescribed by the Constitutions of the Partners of the Union.
+(5) The Partners of the Union shall have the same status and equal rights within the United Republic and shall discharge their duties relating to all non-Union Matters within the authorities of the Partners of the Union pursuant to the conditions prescribed by the Constitutions of the Partners of the Union.
 
 ##### The authority of the Partners of the Union
 
@@ -1811,7 +1646,7 @@ Representatives  of  Zanzibar,  may  apply  for  the  citizenship  of  the  Unit
 
 ##### The relations between partners of the Union
 
--(1) Each Partner of the Union may, in discharging its functions in various sectors, discharge  such  functions  through  cooperation  or  consultation  with  the  other Partner of the Union or through cooperation between one Partner of the Union and the Government of the United Republic for the purposes of promoting and
+63.-(1) Each Partner of the Union may, in discharging its functions in various sectors, discharge such functions through cooperation or consultation with the other Partner of the Union or through cooperation between one Partner of the Union and the Government of the United Republic for the purposes of promoting and
 
 45
 
@@ -1821,17 +1656,17 @@ Representatives  of  Zanzibar,  may  apply  for  the  citizenship  of  the  Unit
 
 safeguarding  the  interests  of  the  Nation  and  the  interests  of  the  people  of  the United Republic.
 
-- The  Partners  of  the  Union  and  the  Government  of  the  United  Republic  may consult  or  cooperate  with  each  other  on  matters  of  leadership,  administration, representative and legal organs.
+(2) The Partners of the Union and the Government of the United Republic may consult or cooperate with each other on matters of leadership, administration, representative and legal organs.
 
-- The operation of the Governments of the Partners of the Union or any organ of such  governments  and  the  discharge  of  the  duties  shall  be  discharged  in accordance with the unity of the United Republic and the intention and need to maintain the national unity and sovereignty.
+(3) The operation of the Governments of the Partners of the Union or any organ of such governments and the discharge of the duties shall be discharged in accordance with the unity of the United Republic and the intention and need to maintain the national unity and sovereignty.
 
 ##### Resident Ministers
 
 64. -(1)  Each  Partner  of  the  Union  shall  appoint  a  Resident  Minister  who  shall coordinate and supervise relations between one Government of a Partner of the Union and  another  or  between  the  Government  of  a  Partner  of  the  Union  and  the Government of the United Republic.
 
-- Resident Ministers shall have offices and shall discharge their duties at the seat of the Government of the United Republic.
+(2) Resident Ministers shall have offices and shall discharge their duties at the seat of the Government of the United Republic.
 
-- In  addition  to  the  duties  to  be  assigned  to  them  by  the  Governments  of  the Partners of the Union, Resident Ministers shall have the following responsibilities:
+(3) In addition to the duties to be assigned to them by the Governments of the Partners of the Union, Resident Ministers shall have the following responsibilities:
 
 (a) To deal with non-Union Matters concerning international cooperation or relations; and
 
@@ -1857,7 +1692,7 @@ Constitution, all principal leaders with executive authority in the
 
 United  Republic  mentioned  in  Sub  article  (3)  shall  have  the  duty,  in  the discharge of the duties prescribed by this Constitution or by the Constitutions of the Partners of the Union, to uphold, strengthen and maintain the Union.
 
-- For the purposes of the provisions of Sub article (1), each of the principal leaders mentioned in Sub article (3), before assuming office, shall swear that he shall defend and maintain the Union in accordance with this Constitution.
+(2) For the purposes of the provisions of Sub article (1), each of the principal leaders mentioned in Sub article (3), before assuming office, shall swear that he shall defend and maintain the Union in accordance with this Constitution.
 
 (3) The principal leaders to whom these provisions apply are:
 
@@ -1906,7 +1741,7 @@ United  Republic  mentioned  in  Sub  article  (3)  shall  have  the  duty,  in 
 
 68. -(1) There shall be a President of the United Republic.
 
-- The President of the United Republic shall be the Head of State, the
+(2) The President of the United Republic shall be the Head of State, the
 
 Head of Government and the Commander-in-Chief of the Armed Forces and:
 
@@ -1933,8 +1768,6 @@ Head of Government and the Commander-in-Chief of the Armed Forces and:
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
-
-##### Discharge of the duties of President
 
 (e) to authorize the tabling of Government revenue and expenditure budgets, budgets of the National Assembly and of the Judiciary in a fiscal year;
 
@@ -1980,7 +1813,9 @@ Head of Government and the Commander-in-Chief of the Armed Forces and:
 
 (4) In the discharge of his duties pursuant to this Article, the President shall not  align  himself,  in  any  way,  with  any  political  party  or  any  group  in  a manner that affects the unity of the people.
 
-70. -(1) In the discharge of the duties of President pursuant to this Part and in accordance with the provisions of Subarticle (3), the President has authority  to  institute  or  revoke  leadership  positions  in  the  Service  of  the Government of the United Republic.
+##### Discharge of the duties of President
+
+70.-(1) In the discharge of the duties of President pursuant to this Part and in accordance with the provisions of Subarticle (3), the President has authority to institute or revoke leadership positions in the Service of the Government of the United Republic.
 
 (2)  The  President  shall  have  authority  to  appoint  persons  responsible  for formulating  policies  for  Government  departments  and  institutions  and  chief executives responsible for supervising and implementing the policies of such departments and institutions in the Service of the Government of the United Republic.
 
@@ -2006,13 +1841,15 @@ Head of Government and the Commander-in-Chief of the Armed Forces and:
 
 (2)  Upon  receiving  a  resolution  which  has  been  submitted  in  accordance  with  Sub article  (1),  the  Chief  Justice  shall  appoint  a  medical  board  to  inquire  into  that  issue  and advise the Chief Justice accordingly.
 
-(3)  The  Chief  Justice  may,  after  considering  the  medical  evidence,  present  to  the Speaker  a  certificate  certifying  that  the  President,  due  to  physical  or  mental  infirmity,  is unable to discharge the functions of his office; and if the Chief Justice does not rescind that then certificate within seven days for the reason that the President's condition has improved and he has resumed work, then it shall be deemed that the office of the President is vacant, and the provisions contained in Sub articles (5) and (6) shall apply.
+(3) The Chief Justice may, after considering the medical evidence, present to the Speaker a certificate certifying that the President, due to physical or mental infirmity, is unable to discharge the functions of his office; and if the Chief Justice does not rescind that
 
 50
 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
+
+certificate within seven days for the reason that the President’s condition has improved and he has resumed work, then it shall be deemed that the office of the President is vacant, and the provisions contained in Sub articles (5) and (6) shall apply.
 
 (4) The medical board to be appointed in accordance with Sub article (3) shall consist of not less than three persons from amongst experts recognized as such by the law governing medical practitioners in Tanzania.
 
@@ -2030,7 +1867,7 @@ for a President who contested for the presidency as an independent candidate, sh
 
 73. -(1)  Where  the  office  of  President  becomes  vacant,  in  accordance  with  the conditions contained in Article 72, or if the office of President is vacant for any other reason, and  where  the  President  is  absent  from  the  United  Republic,  the  duties  and  functions  of President shall be discharged by one  of  the  following  in  the  order  specified,  that  is  to say-
 
-(a) the Vice-President, or if his office is also vacant or if he is also absent or is ill,
+(a) the Vice-President, or if his office is also vacant or if he is also absent or is ill, then
 
 (b) a Senior Minister; or
 
@@ -2055,6 +1892,8 @@ duties and functions to such a person.
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
+
+#### (d) Election of the President
 
 ##### Election of President
 
@@ -2097,8 +1936,6 @@ President; or
 (h) his policies or the policies of his party are not aimed at destroying the National unity on the basis of tribe, religion, race or gender;
 
 (i) he is a person of integrity and respects the National ethics;
-
-#### (d) Election of the President
 
 52
 
@@ -2180,7 +2017,7 @@ President; or
 
 (d) the day he ceases to discharge the duties and functions of President in accordance with the provisions of this Constitution.
 
-#### (a) Terms of Office of the President
+#### (e) Terms of Office of the President
 
 ##### Power to declare war
 
@@ -2246,13 +2083,13 @@ power to:
 
 ##### Protection against prosecution of President
 
-##### Parliament to impeach president
-
 83. -(1) While he is still in office, the President shall not be prosecuted and no person shall take him to court for any criminal offence.
 
 (2) While the President is in office in accordance with this Constitution, it shall be prohibited for any person to sue the President for commission or omission of anything which he did before or after assuming the office of President, save if the President is saved notice thirty days before the case is filed in accordance with the  procedure  specified  by  an  Act  of  Parliament,  and  such  notice  shall  provide information regarding the source of the case, the name and place of residence of the plaintiff.
 
 (3) Except where the President ceases to hold the office of President if a vote of no confidence in him is taken, it shall not be lawful for any person to sue a person who has  been  holding  the  office  of  President  for  a  criminal  or  civil  offence  which  he committed while he was still in office.
+
+##### Parliament to impeach president
 
 84. -(1) Parliament may pass a resolution for the purpose of removing the President from office if a motion to impeach him is passed pursuant to the provisions of this Article.
 
@@ -2327,7 +2164,7 @@ power to:
 
 (2) The salary and any allowances payable to the President shall not be lowered while the President is still in office in accordance with this Constitution.
 
-#### (e) The Vice-President
+#### (f) The Vice-President
 
 ##### Vice-President of the United Republic
 86. -(1) There shall be a Vice-President who shall be the Principal Assistant of the President in all matters relating to the United Republic in general and shall:
@@ -2352,17 +2189,13 @@ President shall be answerable to the President in the discharge of his functions
 
 [[START OF PAGE 60]]
 
-##### Oath of office of VicePresident
-
-##### Assuming office of VicePresident
-
 (2)  Where  a  Presidential  Candidate  has  been  elected,  then  the  Vice-President  shall have been so elected.
 
 (3) A person shall be nominated to contest the post of Vice-President on condition that  if  a  presidential  candidate  for  President  of  the  United  Republic  hails  from  one part of the United Republic, then the Vice-President shall be a person from the other part of the United Republic.
 
 ##### Qualifications of Vice-President
 
-88. -(1) A person shall not be nominated to contest the post of VicePresident of the United Republic, except if he is qualified to be elected as President.
+88. -(1) A person shall not be nominated to contest the post of Vice-President of the United Republic, except if he is qualified to be elected as President.
 
 (2) Any political party or any person who intends to run for President as an independent candidate shall not be precluded from nominating any person to contest the post of Vice-President solely on the grounds that at that time that person is holding the office of President of Zanzibar or Mainland Tanzania.
 
@@ -2370,7 +2203,11 @@ President shall be answerable to the President in the discharge of his functions
 
 (4)  Where a person who is the President of Mainland Tanzania or the President of Zanzibar  is  nominated  or  elected  as  Vice-President  then  he  shall  cease  to  be  the President of Mainland Tanzanian or the President of Zanzibar as may be necessary.
 
+##### Oath of office of Vice-President
+
 89. The Vice-President, before assuming office, shall be sworn in by the Chief Justice of the United Republic and take and subscribe the oath of allegiance and any other oath relating to his functions which shall be prescribed by an Act of Parliament.
+
+##### Assuming office of Vice-President
 
 90. -(1) The Vice-President shall assume office at the same time as the President assumes office.
 
@@ -2402,9 +2239,7 @@ President shall be answerable to the President in the discharge of his functions
 
 [[START OF PAGE 61]]
 
-##### Parliament to impeach VicePresident
-
-##### Establishment of the Cabinet
+##### Parliament to impeach Vice-President
 
 91. -(1) Parliament shall have the powers to impeach the Vice-President in accordance with the procedure for impeaching the President subject to this Constitution, except, a motion to impeach the Vice-President shall be presented if: (a) The President has submitted notice to the Speaker explaining that the
 
@@ -2427,6 +2262,8 @@ Vice-President has resigned or failed to exercise the functions of Vice-Presiden
 ### THE CABINET AND THE GOVERNMENT OF THE UNITED REPUBLIC
 
 #### (a) The Cabinet
+
+##### Establishment of the Cabinet
 
 92. -(1) There shall be a Cabinet of the United Republic which shall consist of the following members:
 
@@ -2485,7 +2322,7 @@ which shall be prescribed by the laws of the land.
 
 (3) Every Minister is answerable to himself and to the President in the discharge of his duties and functions as Minister.
 
-- A Minister shall discharge his functions, except if:
+(4) A Minister shall discharge his functions, except if:
 
 (a) he reigns or dies;
 
@@ -2514,13 +2351,13 @@ which shall be prescribed by the laws of the land.
 
 [[START OF PAGE 64]]
 
-##### The Attorney General of the United Republic
-
 #### (b) The Attorney General of the Government of the United Republic
 
-97. -(1) There shall be the Attorney General of the Government of the United Republic who, in the subsequent articles of this Constitution, shall simply be referred to as the 'Attorney General' who shall be appointed by the President and confirmed by the National Assembly.
+##### The Attorney General of the United Republic
 
-- A person who is qualified to be the Attorney General shall be:
+97. -(1) There shall be the Attorney General of the Government of the United Republic who, in the subsequent articles of this Constitution, shall simply be referred to as the “Attorney General” who shall be appointed by the President and confirmed by the National Assembly.
+
+(2) A person who is qualified to be the Attorney General shall be:
 
 (a) a citizen of the United Republic by birth;
 
@@ -2534,11 +2371,11 @@ which shall be prescribed by the laws of the land.
 
 (f) his behaviour is not suspect in the eyes of the public.
 
-- The Attorney General shall be the principal adviser to the President of the United Republic on legal matters, and for that matter, shall be responsible for advising the Government of the United Republic on matters of law and for discharging any other functions pertaining to law or connected with law which are referred to or assigned to him by the President.
+(3) The Attorney General shall be the principal adviser to the President of the United Republic on legal matters, and for that matter, shall be responsible for advising the Government of the United Republic on matters of law and for discharging any other functions pertaining to law or connected with law which are referred to or assigned to him by the President.
 
-- The  Attorney  General  shall  discharge  other  duties  or  functions  which  shall  be entrusted to him by this Constitution or any other law.
+(4) The  Attorney  General  shall  discharge  other  duties  or  functions  which  shall  be entrusted to him by this Constitution or any other law.
 
-- In  the  discharge  of  his  functions,  the  Attorney  General  shall  have  the  right  to appear  and  be  heard  in  all  Courts  of  the  United  Republic  and  the  Courts  of  the Partners of the Union.
+(5) In  the  discharge  of  his  functions,  the  Attorney  General  shall  have  the  right  to appear  and  be  heard  in  all  Courts  of  the  United  Republic  and  the  Courts  of  the Partners of the Union.
 
 #### (c) Chief Secretary and Permanent Secretaries
 
@@ -2593,8 +2430,14 @@ which shall be prescribed by the laws of the land.
 ## COORDINATION OF THE RELATIONS OF PARTNERS OF THE UNION
 
 ##### Commission for Government Relations and Procedure
-102. -(1) There shall be a Commission responsible for supervising the procedure for relations between the Government of the Republic and the Government of the Partners of the Union and managing and coordinating relations between the Governments of the Partners of the Union, which is simply known as the 'Commission for Government Relations and Procedure.'
+102. -(1) There shall be a Commission responsible for supervising the procedure for relations between the Government of the Republic and the Government of the Partners of the Union and managing and coordinating relations between the Governments of the Partners of the Union, which is simply known as the “Commission for Government Relations and Procedure.”
 (2) The Commission for Government Relations and Procedure shall consist of the following members:
+
+(a) the Vice-President of the United Republic who shall be its Chairman;
+
+(b) the President of Mainland Tanzania;
+
+(c) the President of Zanzibar;
 
 66
 
@@ -2617,22 +2460,20 @@ which shall be prescribed by the laws of the land.
 
 (d)  to  create  an  enabling  environment  for  the  settlement  of  conflicts  between  the Government  of  the  United  Republic  and  the  Governments  of  the  Partners  of  the Union.
 
-##### Respons- ibilities of the Commission
+##### Responsibilities of the Commission
 104. -(1)  The  Commission  for  Government  Relations  and  Procedure  shall  have  a special responsibility of ensuring coordination and cooperation in fulfilling the provisions of this Constitution, policies, laws, plans and strategies between the Government of the of the United Republic and the Governments of the Partners of the Union and shall also be a special organ responsible for:
 
 (a) consultation and cooperation between:
 
 (i) The Government of the United Republic and the Governments of the Partners of the Union; and
 
-(ii)  The Governments of the Partners of the Union on their own in addressing nonunion matters.
+(ii)  The Governments of the Partners of the Union on their own in addressing non-union matters.
 
 67
 
 [[END OF PAGE 67]]
 
 [[START OF PAGE 68]]
-
-##### Parliament of the United Republic
 
 (b) supervising, coordinating and ensuring that there is proportionality in the policies and  laws  of  the  Governments  of  the  Partners  of  the  Union  relating  to  non-union matters;
 
@@ -2660,6 +2501,8 @@ which shall be prescribed by the laws of the land.
 ### PART I
 ### PARLIAMENT
 
+##### Parliament of the United Republic
+
 105. -(1) There shall be Parliament of the United Republic.
 
 (2) The Members of Parliament shall be as follows:
@@ -2676,18 +2519,18 @@ which shall be prescribed by the laws of the land.
 
 [[START OF PAGE 69]]
 
-##### Life of Parliament
-
 (4)  In  every  Constituency,  there  shall  be  two  parliamentary  seats,  one  for  a  male candidate and another for a female candidate.
 
 (5) Both Members of Parliament from a certain Constituency shall be elected through an election by the electorate pursuant to the provisions of this Constituent and a law which specifies electoral procedures.
 
+##### Life of Parliament
+
 106. -(1) Subject to the provisions of this Constitution, the life of each Parliament shall be five years.
 
-(2) For the purposes of Subarticle (1), the expression 'life of Parliament' means the whole  period  commencing  from  the  date  the  new  Parliament  was  first  summoned after General Elections and ending on the date of dissolution of that Parliament for the purpose of enabling the holding of another ordinary general election.
+(2) For the purposes of Subarticle (1), the expression “life of Parliament” means the whole  period  commencing  from  the  date  the  new  Parliament  was  first  summoned after General Elections and ending on the date of dissolution of that Parliament for the purpose of enabling the holding of another ordinary general election.
 
 ##### Authority of Parliament
-107.(1) Parliament is the principal organ of the United Republic with authority,
+107. -(1) Parliament is the principal organ of the United Republic with authority,
 on behalf of the people, to supervise the Government of the United Republic and all its organs in the discharge of all their functions in accordance with this Constitution.
 
 (2) In the discharge of its functions, Parliament shall have the following responsibilities:
@@ -2723,8 +2566,6 @@ on behalf of the people, to supervise the Government of the United Republic and 
 
 ##### Legislative power of Parliament
 
-##### Procedure of enacting laws
-
 109. -(1) Legislative power over all matters of the United Republic shall be vested in Parliament.
 
 (2)  Legislative  power  in  Mainland  Tanzania  and  Zanzibar  over  all  non-union matters  shall  be  vested  in  the  Parliament  of  Mainland  Tanzania  and  the  House  of Representatives for Zanzibar.
@@ -2734,6 +2575,8 @@ on behalf of the people, to supervise the Government of the United Republic and 
 (4) Where any law enacted by the Parliament of Mainland Tanzania or the House of Representatives over any matter which is under the authority of the Parliament of the United Republic..., that law shall be null and void.
 
 (5) Without prejudice to the application of the Constitution of Mainland Tanzania and  the  Constitution  of  Zanzibar,  the  National  Assembly  shall  have  power  in  the United Republic over matters relating to the United Republic, and where any other law contravenes the provisions contained in this Constitution, then that other law, to the extent that it contravenes this Constitution, shall be void.
+
+##### Procedure of enacting laws
 
 110. -(1) Parliament shall use its authority to enact laws, to debate and pass a Bill for Law which shall be signed by the President.
 
@@ -2764,7 +2607,7 @@ on behalf of the people, to supervise the Government of the United Republic and 
 [[START OF PAGE 71]]
 
 supported by the people of the Partners of the Union through a Referendum which shall be conducted and supervised by the Independent Electoral Commission of the United Republic pursuant to a law enacted by the National Assembly.
---- | ---
+
 ##### Procedure for enacting legislation concerning financial matters
 113. -(1) Parliament shall not deal with any matter among the matters contained in this Article, except if the President has proposed that that matter should be dealt with by Parliament and that proposition must have been submitted to Parliament and the Cabinet. (2) Matters relevant to this Article include the following: (a) a Bill to enact a law providing for any of the following: (i) to levy a tax or to alter taxation otherwise than by reduction; and (ii) the imposition of any charge upon the Consolidated Fund or any other public fund or the alteration of any such charge otherwise than by reduction. (b) to direct that payment or expenditure be a charge upon the Consolidated Fund or any other Government accounts but in the knowledge that such accounts were not intended for such payment or expenditure, or to direct that payment or expenditure from such accounts be increased; (c) to cancel or write off any debt payable to the Government of the United Republic; or (b) a motion or any amendment of a motion for the purpose of any of the matters referred to in paragraph (a) of this subarticle.
 ##### Authority of the Head of State over a Bill of Law
@@ -2778,8 +2621,6 @@ supported by the people of the Partners of the Union through a Referendum which 
 
 ##### Approval of Government proposals
 
-##### Election of Members Parliament
-
 115. -(1) If the National Assembly is not satisfied with budget proposals presented to Parliament by the Government,  Parliament may  return the proposal with particular recommendations and the weaknesses noticed.
 
 (2) The Government shall be obliged to work on the recommendations provided by Parliament as much as possible and then table the proposal a second time, including explanations  on  the  incorporation  of  the  recommendations  of  Parliament  and  if Parliament rejects the proposal a second time, then it shall be regarded to have been passed.
@@ -2789,6 +2630,8 @@ supported by the people of the Partners of the Union through a Referendum which 
 ### MEMBERS OF PARLIAMENT
 
 #### (a) Election of Members of Parliament
+
+##### Election of Members Parliament
 
 116. -(1) After the five years of Parliament have expired, there shall be election of Members of Parliament in the Constituencies as shall be announced by the the Independent Electoral Commission subject to the law enacted by Parliament.
 
@@ -2843,7 +2686,7 @@ supported by the people of the Partners of the Union through a Referendum which 
 
 (a) the President and the Vice-President;
 
-(b) the President of Mainland Tanzania and the President of Zanzibar and their VicePresidents;
+(b) the President of Mainland Tanzania and the President of Zanzibar and their Vice-Presidents;
 
 (c) the Speaker of the National Assembly;
 
@@ -2867,27 +2710,21 @@ supported by the people of the Partners of the Union through a Referendum which 
 
 [[START OF PAGE 74]]
 
-##### Tenure of office of Government officers
-
-##### Procedure for election of Members of Parliament
-
-##### Oath of Members of Parliament
-
-##### Terms of office of Members of Parliament
-
 (k) the Controller and Auditor-General;
 
 (l) a Member of the Independent Electoral Commission; and
 
 (m) any person who has been employed, appointed or elected in the public service.
 
-- For the purposes of giving an opportunity to appeal to any person:
+(6) For the purposes of giving an opportunity to appeal to any person:
 
 (a) who has been formally certified to be of unsound mind;
 
 (b) convicted and sentenced to death, imprisoned or sent to a trade school; and
 
 (c) who has been convicted of any of the offences specified under the law in terms of subarticle (2), the authority of the land may prescribe legal conditions providing that the  judgment  being  appealed  against  by  that  person  shall  have  no  effect  for  the purposes of the provisions of subarticle (2) until the expiration of the period specified in such legislation.
+
+##### Tenure of office of Government officers
 
 118. If a person holding a position in the public service specified by an Act of Parliament decides:
 
@@ -2897,11 +2734,17 @@ supported by the people of the Partners of the Union through a Referendum which 
 
 that  person  shall  be  regarded  to  have  ceased  to  be  a  public  servant  from  the  date he was nominated to be a candidate for a political post or leadership post in a political party.
 
+##### Procedure for election of Members of Parliament
+
 119. -(1) Members of Parliament who are representing constituencies shall be elected by the voters in accordance with the provisions to be specified by a law to be enacted by Parliament pursuant to this Constitution, which imposes conditions on the election of the Members of Parliament.
 
-- Parliamentary candidates shall be required to submit  their  names  to the Independent Electoral Commission of the United Republic pursuant to the procedure prescribed by a law which has been enacted by Parliament.
+(2) Parliamentary candidates shall be required to submit  their  names  to the Independent Electoral Commission of the United Republic pursuant to the procedure prescribed by a law which has been enacted by Parliament.
+
+##### Oath of Members of Parliament
 
 120. Every Member of Parliament shall be required to take and subscribe before the National Assembly the oath of allegiance before commencing to take part in the business of the National Assembly, save that he may take part in the election of Speaker before taking that oath.
+
+##### Terms of office of Members of Parliament
 
 121. All Members of Parliament shall hold office in accordance with this Constitution, and shall be paid a salary, remuneration and other allowances in accordance with a law enacted by Parliament.
 
@@ -2929,10 +2772,13 @@ that  person  shall  be  regarded  to  have  ceased  to  be  a  public  servant 
 
 (2)  A  Member of Parliament may appeal, in accordance with the laws of the land, against  a  certification  confirming  that  he  is  of  unsound  mind  or  against  a  prison sentence  or  against  him  being  convicted  of  any  of  the  offences  mentioned  in subarticle (1).
 
-##### Account- ability of Members
-123. -(1) A Member of Parliament shall discharge his functions in accordance with the provisions of this Constitution, and all the time shall be answerable to the electorate and the political party to which he belongs if he was nominated by political party.
+##### Accountability of Members of Parliament
+123. -(1) A Member of Parliament shall discharge his functions in accordance with the provisions of this Constitution, and all the time shall be answerable to the electorate and the political party to which he belongs if he was nominated by a political party.
+
+(2) A Member of Parliament who has been nominated by a political party shall not cease to be a Member of Parliament in case he is expelled from the party.
 
 ##### Right of electorate to remove a Member of Parliament from office
+
 124. -(1) Without prejudice to the provisions of Article 123 of this Constitution, the electorate  shall  have  the  right  to  remove  a  Member  of    Parliament  from  office, upon the occurrence of any of the following:
 
 (a)  he  supports  policies  which  are  in  conflict  with  the  interest  of  the  electorate  or the Nation;
@@ -3089,7 +2935,7 @@ of the provisions of this Constitution; the declaration shall be made in a speci
 ##### The Secretariat of the National Assembly
 134. -(1) There shall be a Secretariat of the National Assembly which shall consist of servants from both parts of the United Republic, depending on the grades  in  the  public  service  based  on  the  requirements  of  the  functions  of  the National Assembly as shall be determined by the Secretariat for Public Service.
 
-(2) The Secretariat of the National Assembly, under the leadership of the Clerk of the National Assembly, shall discharge all duties and functions prescribed or as may be necessary  for  the  purpose  of  ensuring  the  efficient  discharge  by  the  National Assembly and Members of Parliament of the functions of Parliament.
+(2) The Secretariat of the National Assembly, under the leadership of the Clerk of the National Assembly, shall discharge all duties and functions prescribed or as may be
 
 78
 
@@ -3097,23 +2943,25 @@ of the provisions of this Constitution; the declaration shall be made in a speci
 
 [[START OF PAGE 79]]
 
+necessary for the purpose of ensuring the efficient discharge by the National Assembly and Members of Parliament of the functions of Parliament.
+
 ### PART IV
 ### PROCEDURE IN THE NATIONAL ASSEMBLY
 
 ##### Standing Orders of the National Assembly
 135. -(1) Subject to the provisions of this Constitution, the National Assembly shall make Standing Orders for the purpose of prescribing procedure for the conduct of its business.
-(2) The Standing Orders made pursuant to this Article may prescribe procedure the for supervision of the discharge of the functions of the Secretariat of the National Assembly and also the discharge of the business of the National Assembly
+(2) The Standing Orders made pursuant to this Article may prescribe procedure for supervision of the discharge of the functions of the Secretariat of the National Assembly and also the discharge of the business of the National Assembly in the National Assembly and those of its committees and subcommittees.
 
 ##### President may address Parliament
 136. -(1) The President shall address the National Assembly at its first meeting and inaugurate it.
-
-##### Meetings of the National Assembly
 
 (2) Subject to the provisions of subarticle (1), the President may, at any time, address the National Assembly or send to the House a communication which shall be read by a Minister.
 
 (3) The President may address the National Assembly at every final sitting of a year to explain the discharge of various functions in accordance with this Constitution.
 
-137. -(1) The National Assembly shall hold its meetings at the place where it is customary  to  hold  such  meetings  or  at  any  other  place  in  the  United  Republic as the President may designate in that behalf.
+##### Meetings of the National Assembly
+
+137. -(1) The National Assembly shall hold its meetings at the place where it is customary to hold such meetings or at any other place in the United Republic as the President may designate in that behalf.
 
 (2)  The  first  meeting  of  the  National  Assembly  in  the  life  of  Parliament  shall commence on the day for which the National Assembly is summoned to meet, and every subsequent meeting shall commence on such date as may be specified by the National  Assembly  or  on  any  day  that  shall  be  appointed  in  accordance  with  the Standing Orders of the National Assembly.
 
@@ -3155,10 +3003,10 @@ of the provisions of this Constitution; the declaration shall be made in a speci
 
 (4) Parliament may enact a law making provisions to enable the court and the law to preserve  and  enforce  freedom  of  opinion,  debate  and  procedure  of  business  in  the National Assembly.
 
-##### Limitations concerning freedom to debate in National Assembly
-142. -(1)  Without  prejudice  to  the  provisions  of  this  Constitution  which  protect and preserve freedom of opinion and debate in the National Assembly, it is hereby prohibited for any Member of Parliament to lie in
+##### Limitations concerning freedom to debate in the National Assembly
+142. -(1) Without prejudice to the provisions of this Constitution which protect and preserve freedom of opinion and debate in the National Assembly, it is hereby prohibited for any Member of Parliament to lie in
 
-Parliament, and for that reason, a Member of Parliament is obliged to be truthful, the and  not  to  say  things  which  are  untrue  or  about  which  he  does  not  have  enough information.
+Parliament, and for that reason, a Member of Parliament is obliged to be truthful, and not to say things which are untrue or about which he does not have enough information.
 
 (2)  When  a  Member  of  Parliament  is  speaking  in  Parliament  he  shall  not  be considered  or  interpreted  to  be  telling  lies  if  he  refers  to  news  which  has  been broadcast by media or published in newspapers or any other document whose source is known or shall be provided by that Member of Parliament.
 
@@ -3170,22 +3018,16 @@ Parliament, and for that reason, a Member of Parliament is obliged to be truthfu
 
 ### DISPENSATION OF JUSTICE AND INDEPENDENCE OF THE JUDICIARY
 
-##### Establishment
-143. -(1) There shall be the Judiciary of the United Republic of Tanzania.
-
 80
 
 [[END OF PAGE 80]]
 
 [[START OF PAGE 81]]
 
-of the
+##### Establishment of the Judiciary of Tanzania
+143. -(1) There shall be the Judiciary of the United Republic of Tanzania.
 
-Judiciary
-
-(2)  Subject  to  this  Constitution,  the  Judiciary  of  the  United  Republic  shall  get powers from the people and shall exercise its powers through the Supreme Court of and the Court of Appeal.
-
-- Tanzania
+(2) Subject to this Constitution, the Judiciary of the United Republic shall get powers from the people and shall exercise its powers through the Supreme Court and the Court of Appeal.
 
 (3) The Judiciary of the United Republic shall be the authority with a final decision in dispensation of justice in the United Republic.
 
@@ -3206,15 +3048,15 @@ Judiciary
 ##### Independence of the Judiciary
 145. -(1) In exercising the powers of dispensing justice, the Judiciary of the United Republic of Tanzania shall be guided by the provisions of this Constitution and shall not be interfered with by being controlled, influenced or directed by a person or any organ.
 
-- The  office  of  Justice  of  the  Supreme  Court  and  that  of  Justice  of  the  Court  of Appeal shall not be abolished while there is a person holding that office.
+(2) The office of Justice of the Supreme Court and that of Justice of the Court of Appeal shall not be abolished while there is a person holding that office.
 
-- Salaries  and  other  allowances  of  the  Justices  of  the  Judiciary  of  the  United Republic shall be a charge on the Consolidated Fund of the Government.
+(3) Salaries and other allowances of the Justices of the Judiciary of the United Republic shall be a charge on the Consolidated Fund of the Government.
 
-- The  salaries  and  allowances  payable  to  a  Justice  of  the  Supreme  Court  or  the Court of Appeal shall not be varied in a manner which is less beneficial to him.
+(4) The salaries and allowances payable to a Justice of the Supreme Court or the Court of Appeal shall not be varied in a manner which is less beneficial to him.
 
-- The pension payable to the Justice of the Supreme Court or the Court of Appeal shall not be varied in a manner which is less beneficial to him while he is still living.
+(5) The pension payable to the Justice of the Supreme Court or the Court of Appeal shall not be varied in a manner which is less beneficial to him while he is still living.
 
-- Any court servant shall not be prosecuted for anything which he has done or not done in good faith in the dispensation of justice in accordance with the law.
+(6) Any court servant shall not be prosecuted for anything which he has done or not done in good faith in the dispensation of justice in accordance with the law.
 
 ### PART II
 ### STRUCTURE OF THE JUDICIARY
@@ -3251,11 +3093,11 @@ Judiciary
 
 (2)  Appointment of the Justices of the Supreme Court shall be done in accordance with the qualifications to be specified in this Constitution and representation of the two parts of the United Republic.
 
-##### Quorum at the sittings of Supreme
+##### Quorum at the sittings of the Supreme Court
 
 148. -(1) The quorum at every sitting of the Supreme Court shall be five Justices of the Supreme Court.
 
-(2) The quorum of Justices at the sitting for hearing matters specified in Article the 149(a), (b), (c) and (e) shall observe representation of the two parts of the United Republic.
+(2) The quorum of Justices at the sitting for hearing matters specified in Article 149(a), (b), (c) and (e) shall observe representation of the two parts of the United Republic.
 
 (3) In every appeal, a matter which requires the decision by the Supreme Court shall be decided on the basis of the majority opinion of the Justices of the Supreme Court hearing the appeal.
 
@@ -3328,7 +3170,7 @@ the names  submitted  to  the  President  by  the  Judicial  Commission  and  be
 
 [[START OF PAGE 84]]
 
-##### Appointment of Justices of the of Supreme Court
+##### Appointment of Justices of the Supreme Court
 
 153. -(1) The Justices of the Supreme Court shall be appointed by the President from amongst the names submitted to him by the Judicial Service Commission and shall be sworn in by the President.
 
@@ -3351,7 +3193,7 @@ the names  submitted  to  the  President  by  the  Judicial  Commission  and  be
 ##### Oaths of the Justices of the Supreme Court
 154. The Chief Justice, the Deputy Chief Justice or a Justice of the Supreme Court shall assume the functions of his office soon after being sworn in by the President and taking and subscribing the oath of allegiance or any other oath connected with the discharge of his duties as may be prescribed in accordance with the law enacted by Parliament.
 
-##### Tenure of office of the Chief Justice, Deputy Chief other Justices
+##### Tenure of office of the Chief Justice, Deputy Chief Justice and other Justices
 155. -(1) The Chief Justice and the Deputy Chief Justice of the Supreme Court shall vacate office upon attaining the age of seventy, save
 
 where:
@@ -3372,7 +3214,7 @@ where:
 
 [[START OF PAGE 85]]
 
-##### Provisions relating to procedure to office in the Supreme Court
+##### Provisions relating to procedure of succession to office in the Supreme Court
 
 156. -(1) Whenever:
 
@@ -3380,7 +3222,7 @@ where:
 
 (b) the Chief Justice is absent from the United Republic; or
 
-of succession  (c) the Chief Justice, for any reason, fails to discharge his duties, the Deputy
+(c) the Chief Justice, for any reason, fails to discharge his duties, the Deputy
 
 Chief Justice shall perform the duties of the Chief Justice until another Chief
 
@@ -3397,27 +3239,21 @@ Justice  is  appointed  or  until  the  Chief  Justice  who  was  absent  or  wa
 ##### Procedure relating to discipline of Justices of the Supreme Court
 157. -(1) The procedure for dealing with discipline of Justices of the Supreme Court  for  offences  other  than  those  specified  under  subarticle  (2)  shall  be  as prescribed under the law to be enacted by Parliament.
 
-(2) A Justice of the Supreme Court may be removed from office Supreme
-
-Court for reason of inability to perform the functions of his office either
-
-due to illness or for any other reason, or for misbehaviour which
-
-breaches the ethics connected to the   functions of a Justice or Public Leaders'
-
-Ethics  Act,  and  shall  not  be  removed  from  office  except  in  accordance  with  the provisions of Subarticle (4).
+(2) A Justice of the Supreme Court may be removed from office for reason of inability to perform the functions of his office either due to illness or for any other reason, or for misbehaviour which breaches the ethics connected to the functions of a Justice or Public Leaders' Ethics Act, and shall not be removed from office except in accordance with the provisions of Subarticle (4).
 
 (3)  In  the  event  that  the  President  thinks  that  the  removal  of  a  Justice  from office needs to be investigated, then under such circumstances, the procedure shall be as follows:
 
 (a) The President may, after consultation with the Chief Justice, suspend that Justice;
 
-(b) The President shall form a Commission which shall consist of a Chairman and not less two other Members; and at least half of such members shall be Justices of the Supreme Court or the Court of Appeal from any country which is a member of the Commonwealth; and
+(b) The President shall form a Commission which shall consist of a Chairman and not less two other Members; and at least half of such members shall be Justices of the
 
 85
 
 [[END OF PAGE 85]]
 
 [[START OF PAGE 86]]
+
+Supreme Court or the Court of Appeal from any country which is a member of the Commonwealth; and
 
 (c)  The  Commission shall inquire into the entire matter and submit a report to the President concerning description of that matter and shall advise the President if the Justice concerned should be removed from office in accordance with the provisions of this Article for being unable to discharge his duties on grounds of illness or any other reasons, or for misbehaviour.
 
@@ -3476,11 +3312,11 @@ Court;
 
 #### (e) Appointment of Justices of Appeal
 
-##### Appointment of the Chairman of the of the Court of appeal
+##### Appointment of the Chairman of the Court of Appeal
 
-162. -(1)  The Chairman of the Court of Appeal shall be appointed by the President from  among  the  names  of  the  persons  which  shall  be  nominated  by  the  Judicial  Service Commission.
+162. -(1) The Chairman of the Court of Appeal shall be appointed by the President from among the names of the persons which shall be nominated by the Judicial Service Commission.
 
-(2) The Chairman of the Court of Appeal shall be the Principal and assistant of Court the  Chief  Justice  in  the  discharge  of  the  functions  in  the  Court  of  Appeal,  and  in  Appeal that capacity, the Chairman of the Court of Appeal shall discharge the duties and functions whish shall be assigned to him from time to time by the Chief Justice.
+(2) The Chairman of the Court of Appeal shall be the Principal and assistant of the Chief Justice in the discharge of the functions in the Court of Appeal, and in that capacity, the Chairman of the Court of Appeal shall discharge the duties and functions whish shall be assigned to him from time to time by the Chief Justice.
 
 (3) A person may be appointed Chairman of the Court of Appeal if he has attained the age of forty five or more and who is upstanding, has good behaviour and is honest; and (a)  holds  a  degree  in  law  from  a  university  recognized  by  the  accreditation  authority  in Tanzania;
 
@@ -3502,7 +3338,7 @@ Court;
 
 (c) there are reasons which make such a person deserve to be so appointed, then the President may dispense with the requirement that  such person shall have held the special  qualifications  for  a  period  of  not  less  than  ten  years,  and  may  after consultation  with  the  Judicial  Service  Commission,  appoint  that  person  Justice  of Appeal.
 
-##### Appointment Justices of Appeal
+##### Appointment of Justices of Appeal
 
 163. -(1) The Justices of Appeal shall be appointed by the President from amongst of the persons who have been nominated the Judicial Services Commission.
 
@@ -3562,13 +3398,15 @@ The Chief Justice may appoint any Judge of the Court of Appeal to discharge the 
 
 (4) A person who shall be appointed to the position of Acting Judge of Appeal shall work  as  Acting  Judge  of  Appeal  for  all  the  time  that  shall  be  announced  during  his appointment, or if the length of time is not mentioned, then it shall be until the appointment is done by the President.
 
-(5) Notwithstanding the provisions of Subarticle (4), a person who has been appointed Acting Judge of Appeal shall continue to work as Acting Judge of the Court of Appeal he has finished preparing and issuing a ruling or until he has finished any responsibility related to an appeal or other kinds of hearings which he had started to hear before the expiration of his/her term to office or his appointment is cancelled.
+(5) Notwithstanding the provisions of Subarticle (4), a person who has been appointed Acting Judge of Appeal shall continue to work as Acting Judge of the Court of Appeal he has
 
 89
 
 [[END OF PAGE 89]]
 
 [[START OF PAGE 90]]
+
+finished preparing and issuing a ruling or until he has finished any responsibility related to an appeal or other kinds of hearings which he had started to hear before the expiration of his/her term to office or his appointment is cancelled.
 
 (6) For the purpose of ridding doubt Acting Judge of the Court of Appeal shall have full powers of the Judge of the Court of Appeal, and shall carry out all responsibilities of a Judge of the Court of Appeal and that the number of Judges mentioned in Article 158 shall not be affected because the complete list of Judges of the Court of Appeal in any one sitting shall include Acting Judges of the Court of Appeal.
 
@@ -3692,13 +3530,15 @@ The Chief Justice may appoint any Judge of the Court of Appeal to discharge the 
 
 (2) The Judiciary Service Commission shall have the responsibilities of:
 
-(a)   recommending to the President names of people who are suitable to be Judges of the High Court and the Court of Appeal;
+(a) recommending to the President names of people who are suitable to be
 
 92
 
 [[END OF PAGE 92]]
 
 [[START OF PAGE 93]]
+
+Judges of the High Court and the Court of Appeal;
 
 (b) reviewing and proposing conditions of service for Judges and other servants in the Judiciary, including issues of their discipline and benefits;
 
@@ -3712,7 +3552,7 @@ The Chief Justice may appoint any Judge of the Court of Appeal to discharge the 
 
 (g) implementing any responsibility that it shall be assigned according to this Constitution or other laws.
 
-- In implementing its duties, the Commission shall observe:
+(3) In implementing its duties, the Commission shall observe:
 
 (a)   transparence in the process of appointing Judges and employment of other staff of the Judiciary of the United Republic;
 
@@ -4017,7 +3857,7 @@ The Chief Justice may appoint any Judge of the Court of Appeal to discharge the 
 
 (5) If, after the inquiry, the Committee shall propose that the member remains, the issue of removing the member shall abate.
 
-- The Committee shall put in place a procedure for the inquiry.
+(6) The Committee shall put in place a procedure for the inquiry.
 
 ##### Responsibilities of the Independent Electoral Commission
 
@@ -4095,7 +3935,7 @@ The Chief Justice may appoint any Judge of the Court of Appeal to discharge the 
 
 ##### Political parties
 
-186. -(1) The United Republic of Tanzania is a democratic state which adheres to multiparty democracy.
+186. -(1) The United Republic of Tanzania is a democratic state which adheres to multi-party democracy.
 
 (2)  Notwithstanding  the  provisions  of  Subarticle  (1),  it  shall  not  be  lawful  for  any political organ which, according to its Constitution-
 
@@ -4211,7 +4051,7 @@ Republic; or
 
 (g) to provide education about the ethics and code of conduct for public leaders to the public;
 
-(f) to assess its own decisions, or after receiving complaints from any person, about commission  or  omission  by  a  leader  or  any  public  servant,  or  a  Government agency, if the  act that has been committed or omitted is contrary to the public ethics;
+(h) to assess its own decisions, or after receiving complaints from any person, about commission  or  omission  by  a  leader  or  any  public  servant,  or  a  Government agency, if the  act that has been committed or omitted is contrary to the public ethics;
 
 (i)  to  order,  after  receiving  complaints  or  when  it  deems  appropriate,  a  leader  or  a public servant or Government agency or any public organ to carry out any act or anything as required by the law, or to stop, prevent or to rectify  a servant's or leader's bad performance;
 
@@ -4259,7 +4099,7 @@ Republic; or
 
 (3)  After  receiving  the  requests,  or  if  the  Commission  has  expressed  its  own complaints,  the  Commission  shall  form  a  special  tribunal  which  shall  look  into  the complaints.
 
-- Special Tribunal issues about:
+(4) Special Tribunal issues about:
 
 (a) the number of members;
 
@@ -4273,13 +4113,13 @@ Republic; or
 
 [[START OF PAGE 108]]
 
-- After receiving the report by the Special Tribunal, the Commission shall submit the recommendations of the Special Tribunal to the President for decision.
+(5) After receiving the report by the Special Tribunal, the Commission shall submit the recommendations of the Special Tribunal to the President for decision.
 
 ##### Freedom of the Commission
 
 192. -(1) The Commission shall be independent, and therefore shall not be interfered with by any person or any authority in discharging its duties.
 
-- Parliament shall enact legislation which shall impose conditions on:
+(2) Parliament shall enact legislation which shall impose conditions on:
 
 (a) procedure for the discharge of the functions of the Commission;
 
@@ -4304,9 +4144,9 @@ Republic; or
 
 (2) The Chairman and the Vice-Chairman of the Commission for Human Rights shall be appointed by the President after being nominated by the Secretariat for Public Service.
 
-- The  Chairman and the Vice-Chairman shall assume office after being approved by Parliament.
+(3) The  Chairman and the Vice-Chairman shall assume office after being approved by Parliament.
 
-- The qualifications of the Commission's Chairman shall be as follows:
+(4) The qualifications of the Commission's Chairman shall be as follows:
 
 (a) a citizen of the United Republic;
 
@@ -4316,7 +4156,7 @@ Republic; or
 
 (d)  a  person  who  is  respectable,  competent,  honest,  and  whose  conduct  is  not questionable in the eyes of the public.
 
-- The qualifications of the Vice-Chairman shall be as stipulated in Subarticle (4).
+(5) The qualifications of the Vice-Chairman shall be as stipulated in Subarticle (4).
 
 ##### Duties and Functions of the Commission
 
@@ -4352,11 +4192,11 @@ Republic; or
 
 197 .-(1) The Chairman of the Commission or any other member of the Commission may be removed from office for:
 
-(b) being unable to discharge his duties because of illness, mental problems or poor state
+(a) being unable to discharge his duties because of illness, mental problems or poor state
 
 of health;
 
-(c) not adhering to the Code of Conduct for Public Servants;
+(b) not adhering to the Code of Conduct for Public Servants;
 
 109
 
@@ -4459,15 +4299,15 @@ use of such moneys and that such expenditure has been incurred in accordance wit
 
 (d)  to  prepare  an  annual  report  and  table  it  before  the  National  Assembly  for discussion and provision of recommendations.
 
-- The  Controller  and  Auditor-  General  shall  be  independent  in  discharging  the functions and responsibilities of the Controller and Auditor-General, and therefore he shall not be interfered with by any person or any authority.
+(2) The  Controller  and  Auditor-  General  shall  be  independent  in  discharging  the functions and responsibilities of the Controller and Auditor-General, and therefore he shall not be interfered with by any person or any authority.
 
-- The Controller and Auditor-General and every employee of the Government who is authorized by him shall have the right to examine books records, statements of accounts,  reports  and  all  other  documents  concerning  any  type  of  account referred to in Subarticle (2) of this Article.
+(3) The Controller and Auditor-General and every employee of the Government who is authorized by him shall have the right to examine books records, statements of accounts,  reports  and  all  other  documents  concerning  any  type  of  account referred to in Subarticle (2) of this Article.
 
-- The Controller and Auditor-General shall submit to the President every report he makes pursuant to the provisions of this Article.
+(4) The Controller and Auditor-General shall submit to the President every report he makes pursuant to the provisions of this Article.
 
-- Upon receipt of such report the President shall direct the persons  concerned to submit that report before the first sitting of the National Assembly which shall be held after the President has received the report and it shall have to be submitted to such sitting before the expiration of seven days from the day the sitting of the National Assembly began. If the President does not take steps of submitting such report to the National Assembly, then the Controller and Auditor-General shall submit  the  report  to  the  Speaker  of  the  National  Assembly  (or  the  Deputy Speaker  if  the  office  of  the  Speaker  is  vacant  then,  or  if  for  any  reason  the Speaker is unable to perform the functions of his office) who shall submit the report to the National Assembly.
+(5) Upon receipt of such report the President shall direct the persons  concerned to submit that report before the first sitting of the National Assembly which shall be held after the President has received the report and it shall have to be submitted to such sitting before the expiration of seven days from the day the sitting of the National Assembly began. If the President does not take steps of submitting such report to the National Assembly, then the Controller and Auditor-General shall submit  the  report  to  the  Speaker  of  the  National  Assembly  (or  the  Deputy Speaker  if  the  office  of  the  Speaker  is  vacant  then,  or  if  for  any  reason  the Speaker is unable to perform the functions of his office) who shall submit the report to the National Assembly.
 
-- The Controller and Auditor-General shall also have responsibility of discharging other  duties  and  functions,  and  shall  have  other  various  powers  as  shall  be
+(6) The Controller and Auditor-General shall also have responsibility of discharging other  duties  and  functions,  and  shall  have  other  various  powers  as  shall  be
 
 112
 
@@ -4477,15 +4317,15 @@ use of such moneys and that such expenditure has been incurred in accordance wit
 
 specified by the law concerning the accounts of the Government of the United Republic or the accounts of other public authorities or other bodies.
 
-- In the discharge of his functions in accordance with the provisions of Subarticles (1), (3), (4) and (5) of this Article, the Controller and Auditor-General shall not be  obliged  to  comply  with  the  order  or  direction  of  any  other  person  or Government Department, but the provisions of this Subarticle shall not preclude a  court  from  exercising  jurisdiction  to  enquire  into  whether  the  Controller  and Auditor-General has discharged his functions in accordance with the provisions of this Constitution or not.
+(7) In the discharge of his functions in accordance with the provisions of Subarticles (1), (3), (4) and (5) of this Article, the Controller and Auditor-General shall not be  obliged  to  comply  with  the  order  or  direction  of  any  other  person  or Government Department, but the provisions of this Subarticle shall not preclude a  court  from  exercising  jurisdiction  to  enquire  into  whether  the  Controller  and Auditor-General has discharged his functions in accordance with the provisions of this Constitution or not.
 
-- The National Assembly may enact a law for controlling, among other things, use of the authority of the Controller and Auditor-General of the United Republic.
+(8) The National Assembly may enact a law for controlling, among other things, use of the authority of the Controller and Auditor-General of the United Republic.
 
 ##### Tenure of office
 
 203. -(1) The Controller and Auditor-General of the United  Republic shall be in office for a term of seven consecutive years only.
 
-(2) Without prejudice to the provisions of Subarticle (1), the Controller and AuditorGeneral of the United Republic may vacate office by submitting a thirty days' notice to the President.
+(2) Without prejudice to the provisions of Subarticle (1), the Controller and Auditor-General of the United Republic may vacate office by submitting a thirty days' notice to the President.
 
 ##### Removal from office
 
@@ -4527,14 +4367,14 @@ specified by the law concerning the accounts of the Government of the United Rep
 
 ##### Provision of Instruments and resources
 
-205. The  Government  shall  ensure  that  the  Office  of  the  Controller  and  AuditorGeneral  of  the  United  Republic  is  provided  with  enough  funds,  instruments  and  human resources to protect its independence in the discharge of its functions and responsibilities.
+205. The  Government  shall  ensure  that  the  Office  of  the  Controller  and  Auditor-General  of  the  United  Republic  is  provided  with  enough  funds,  instruments  and  human resources to protect its independence in the discharge of its functions and responsibilities.
 
 ## CHAPTER FOURTEEN
 ## PROVISIONS REGARDING THE FINANCES OF THE UNITED REPUBLIC
 
-#### (h) The Consolidated Fund of the Government of the United Republic
+#### (a) The Consolidated Fund of the Government of the United Republic
 
-##### Consolidated of Fund of the Government of the United Republic
+##### Consolidated Fund of the Government of the United Republic
 
 206. The Government of the United Republic shall maintain an account to be known as 'the Consolidated Fund of the United Republic, into which shall be paid the moneys from various sources, except:
 
@@ -4542,7 +4382,7 @@ specified by the law concerning the accounts of the Government of the United Rep
 
 (b) the  money  which,  according  to  the  law,  Government  institutions  have  been authorised to collect to meet the expenditure of such institutions.
 
-##### Conditions for withdrawal of expenditure of moneys from the Consolidated
+##### Conditions for withdrawal of expenditure of moneys from the Consolidated Fund
 
 207. -(1) Moneys shall not be paid out of the Consolidated   Fund  of  the  Government of the United Republic for expenditure save in accordance with the following terms:
 
@@ -4552,7 +4392,7 @@ specified by the law concerning the accounts of the Government of the United Rep
 
 [[START OF PAGE 115]]
 
-(a)   such  money  should  be  for  the  purpose  of  expenditure  Fund  which  has  been authorized to be charged upon the Consolidated Fund of the Government of the United Republic by this Constitution or by any other law; and
+(a)   such  money  should  be  for  the  purpose  of  expenditure  which  has  been authorized to be charged upon the Consolidated Fund of the Government of the United Republic by this Constitution or by any other law; and
 
 (b) such money is for expenditure which has been authorized either by Appropriation Act  enacted  by  Parliament  for  that  purpose  or  any  other  law  enacted  by Parliament.
 
@@ -4620,7 +4460,7 @@ of excess there shall be introduced into the National Assembly a supplementary A
 
 (5) The provisions of this Article shall apply to the Chief Justice, the Deputy Chief Justice,  Justice  of  the  High  Court  of  the  United  Republic,  the  Chairman  of  the  Court  of Appeal, Justice of the Court of Appeal, the Chairman and every member of the Commission for Human Rights and all other public servants specified by an Act of Parliament.
 
-#### (i) Public Debt and the Loans of the Government of the United Republic
+#### (b) Public Debt and the Loans of the Government of the United Republic
 
 ##### National Debt
 
@@ -4654,9 +4494,9 @@ of excess there shall be introduced into the National Assembly a supplementary A
 
 (d) the stage reached in servicing the debt.
 
-###### Powers of the Government of the United Republic to borrow
+###### Powers of the Partner Governments of the United Republic to borrow
 
-214. -(1) The Partner Governments of the United Republic shall have the powers to borrow money from within the United of the Partner  Republic or without to meet the costs of the activities Governments of which are under their authorities.
+214. -(1) The Partner Governments of the United Republic shall have the powers to borrow money from within the United Republic or without to meet the costs of the activities which are under their authorities.
 
 (2) Where a loan requires a guarantee, the Government of the United Republic, after consultation and agreement with a Partner Government, may provide guarantee of that loan.
 
@@ -4775,9 +4615,7 @@ Constitution, is lawful;
 
 (5) The defence and security organs shall be under the authority of the President.
 
-(6) The President may form a defence and security organ by being  advised by National Defence and Security Council.
-
-the
+(6) The President may form a defence and security organ by being  advised by the National Defence and Security Council.
 
 (7)  The  National  Assembly  shall  enact  a  law  concerning  the  discharge  of  the functions, procedures and management of the National Defence and Security.
 
@@ -4959,11 +4797,11 @@ Republic shall observe the following:
 
 ##### Provisions relating to Parliament
 
-236. -(1)  Any  person  holding  any  office  established  by  this  Constitution  (including the  office  of  Minister,  Deputy  Minister,  or  Member  of  designation,  except  an  ex-officio Member of Parliament) may resign by from various giving  notice  in  writing  and  signed  by
+##### Resignation from various offices established by this Constitution
 
-him, in accordance with the offices following procedure: established by
+236. -(1) Any person holding any office established by this Constitution (including the office of Minister, Deputy Minister, or Member of Parliament, except an ex-officio Member of Parliament) may resign by giving notice in writing and signed by him, in accordance with the following procedure:
 
-(a) if such person was appointed or nominated by one person, then this Constitution such  notice  of  resignation  shall  be  submitted  to  the  person  who  appointed  or nominated him, or where he was appointed, or nominated by a body of persons, then such notice of resignation shall be submitted to that body of persons;
+(a) if such person was appointed or nominated by one person, then such notice of resignation shall be submitted to the person who appointed or nominated him, or where he was appointed, or nominated by a body of persons, then such notice of resignation shall be submitted to that body of persons;
 
 (b) if that person is the holder of the office of President, then the notice of resignation shall be submitted to the Speaker;
 
@@ -5004,37 +4842,37 @@ Except  that  these  provisions  shall  not  apply  to  the  offices  of  Minist
 
 [[START OF PAGE 128]]
 
--(1) In this Constitution unless the context otherwise requires -
+238. -(1) In this Constitution unless the context otherwise requires -
 
-'military law' means a law or command issued pursuant to a law regulating discipline in a Force;
+“military law” means a law or command issued pursuant to a law regulating discipline in a Force;
 
-'soldier' when used in connection with any armed force, includes any member of the armed force who in accordance with the military law of the Force, is subject to the discipline of that Force;
+“soldier” when used in connection with any armed force, includes any member of the armed force who in accordance with the military law of the Force, is subject to the discipline of that Force;
 
-'Parliament'  means  the  Parliament  of  the  United  Republic  referred  to  in  Article  105  of  this Constitution;
+“Parliament” means the Parliament of the United Republic referred to in Article 105 of this Constitution;
 
-'Political Party' means a political party which has been granted full registration in accordance with the laws of the land;
+“Political Party” means a political party which has been granted full registration in accordance with the laws of the land;
 
-'the United Republic' means the United Republic of Tanzania;
+“the United Republic” means the United Republic of Tanzania;
 
-'Chief Justice' means the Chief Justice of the Judiciary of the United Republic who is appointed in accordance with Subarticle 151, which includes the Deputy Chief Justice;
+“Chief Justice” means the Chief Justice of the Judiciary of the United Republic who is appointed in accordance with Subarticle 151, which includes the Deputy Chief Justice;
 
-'Force' means any of the armed forces and includes any other force established by this Constitution or in accordance with law and which is governed by military law;
+“Force” means any of the armed forces and includes any other force established by this Constitution or in accordance with law and which is governed by military law;
 
-'Commonwealth' means the organization whose members include the United Republic and every country to which the provisions of the Citizenship Act apply;
+“Commonwealth” means the organization whose members include the United Republic and every country to which the provisions of the Citizenship Act apply;
 
-'Office in the service of the Government of the United Republic' shall have the ordinary meaning of that expression and includes service in the Armed Forces of the United Republic and in the Police Force or other force established in accordance with law;
+“Office in the service of the Government of the United Republic” shall have the ordinary meaning of that expression and includes service in the Armed Forces of the United Republic and in the Police Force or other force established in accordance with law;
 
-'court' means any court having jurisdiction in the United Republic except a court established by military law;
+“court” means any court having jurisdiction in the United Republic except a court established by military law;
 
-'Attorney General' means the Attorney General of the Government of the United Republic who is appointed in accordance with the provisions of Article 97;
+“Attorney General” means the Attorney General of the Government of the United Republic who is appointed in accordance with the provisions of Article 97;
 
-'Citizen'  means  the  Citizen  of  the  United  Republic  in  accordance  with  the  provisions  of  this Constitution and the laws of the land;
+“Citizen” means the Citizen of the United Republic in accordance with the provisions of this Constitution and the laws of the land;
 
-'Government'  means  the  Government  of  the  United  Republic  and  any  Person  who  exercises functions or any authority on the behalf of the Government;
+“Government” means the Government of the United Republic and any Person who exercises functions or any authority on the behalf of the Government;
 
-'Mainland Tanzania' means the whole of the territory of the United Republic which formerly was the territory of the Republic of Tanganyika;
+“Mainland Tanzania” means the whole of the territory of the United Republic which formerly was the territory of the Republic of Tanganyika;
 
-'Zanzibar' means the whole of the territory of the United Republic which formerly was the territory of  the  People's  Republic  of  Zanzibar  and  which  was  previously  referred  to  as  'Tanzania Visiwani';
+“Zanzibar” means the whole of the territory of the United Republic which formerly was the territory of the People’s Republic of Zanzibar and which was previously referred to as “Tanzania Visiwani”;
 
 128
 
@@ -5042,15 +4880,15 @@ Except  that  these  provisions  shall  not  apply  to  the  offices  of  Minist
 
 [[START OF PAGE 129]]
 
-'General Elections' or 'people elections' means an election of a President and of the Members of Parliament representing electoral constituencies, which is held subsequent to the dissolution of Parliament;
+“General Elections” or “people elections” means an election of a President and of the Members of Parliament representing electoral constituencies, which is held subsequent to the dissolution of Parliament;
 
-'Minister'  means  a  Member  of  Parliament  appointed  to  the  office  of  Minister,  except  Deputy Minister, and that definition shall also apply to the Vice-President;
+“Minister” means a Member of Parliament appointed to the office of Minister, except Deputy Minister, and that definition shall also apply to the Vice-President;
 
-- The following rules shall be applied for the purpose of construing the provisions of the Constitution, that is to say -
+(2) The following rules shall be applied for the purpose of construing the provisions of the Constitution, that is to say -
 
-(a) whenever a reference is made to the function of the office of President it shall be construed to include powers to perform various duties and functions as the Head of  the  Government  of  the  United  Republic,  and  also  such  other  functions  or duties  if  so  provided  in  this  Constitution  or  in  any  other  law  that  such  other powers or duties ate powers of the President;
+(a) whenever a reference is made to the function of the office of President it shall be construed to include powers to perform various duties and functions as the Head of the Government of the United Republic, and also such other functions or duties if so provided in this Constitution or in any other law that such other powers or duties are powers of the President;
 
-(b)  whenever reference is made to an office in the service of the Government it shall be construed that the office concerned is within the service of the Government of the United Republic unless it is stated otherwise and whenever reference is made to the Government's department, it shall be construed that the department of the Government of the United Republic unless it is stated otherwise;
+(b) whenever reference is made to an office in the service of the Government it shall be construed that the office concerned is within the service of the Government of the United Republic unless it is stated otherwise and whenever reference is made to the Government’s department, it shall be construed that the department of the Government of the United Republic unless it is stated otherwise;
 
 (c)  if pursuant to the provisions of this Constitution there is any matter required to be performed  or  to  be  dealt  with  by  any  political  party,  then  that  matter  shall  be performed or dealt with by that party in accordance with the procedure laid down by that party for that purpose, and also in conformity with the provisions of this Constitution or any law enacted by Parliament for that purpose;
 
@@ -5066,11 +4904,7 @@ Except  that  these  provisions  shall  not  apply  to  the  offices  of  Minist
 
 [[START OF PAGE 130]]
 
-## SCHEDULE
-
-## Union Matters
-
-Provided  that  the  provisions  of  this  rule  shall  not  be  construed  as  conferring power on any person to require a Justice of the Court of Appeal, Justice of the High Court or the Controller and Auditor-General to retire from office;
+Provided that the provisions of this rule shall not be construed as conferring power on any person to require a Justice of the Court of Appeal, Justice of the High Court or the Controller and Auditor-General to retire from office;
 
 (g) in this Constitution, wherever there is reference to a law which replaces or repeals another law, it shall be construed that the law concerned includes a law which amends that other law or which extends the application of that other law whether with  or  without  modification  or  amendment,  or  a  law  which  introduces  new provisions in another law.
 
@@ -5078,7 +4912,7 @@ Provided  that  the  provisions  of  this  rule  shall  not  be  construed  as  
 
 239. -(1) This Constitution may be cited as the Constitution of the United Republic, 2013.
 
-- This  Constitution  shall  come  into  operation  once  it  is  promulgated  by  the President of the United Republic of Tanzania.
+(2) This Constitution shall come into operation once it is promulgated by the President of the United Republic of Tanzania.
 
 ##### Repeal of the Constitution of the United Republic, 1977
 
@@ -5086,23 +4920,27 @@ Provided  that  the  provisions  of  this  rule  shall  not  be  construed  as  
 
 ______________
 
-[ Referred to in Article 60 ]
+## SCHEDULE
+
+[Referred to in Article 60]
+
+## Union Matters
 
 ______________
 
-- The Constitution of Tanzania and the Government of the United Republic;
+1. The Constitution of Tanzania and the Government of the United Republic;
 
-- Defence and Security of the United Republic;
+2. Defence and Security of the United Republic;
 
-- Citizenship by Immigration;
+3. Citizenship by Immigration;
 
-- The Currency and the Bank of Tanzania;
+4. The Currency and the Bank of Tanzania;
 
-- Foreign Affairs;
+5. Foreign Affairs;
 
-- Registration of Political Parties; and
+6. Registration of Political Parties; and
 
-- Income tax payable by individuals and by corporations, customs duty and excise duty on goods manufactured in Tanzania.
+7. Income tax payable by individuals and by corporations, customs duty and excise duty on goods manufactured in Tanzania.
 
 130
 
