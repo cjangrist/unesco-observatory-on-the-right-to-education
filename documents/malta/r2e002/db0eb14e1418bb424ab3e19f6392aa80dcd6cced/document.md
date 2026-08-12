@@ -2,13 +2,15 @@
 
 # A National Curriculum Framework for All 2012
 
-Ministry of Education and Employment The cover illustrates the heart of the National Curriculum Framework which is the classroom set-up, in which the teacher is given the latest technology to facilitate learning in an environment that captures diversity and inclusivity and leads students to work towards personal growth, an understanding of the values of solidarity and social justice, formal qualifications and employability.
+Ministry of Education and Employment
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-Picture taken by © Roberto Runza
+The cover illustrates the heart of the National Curriculum Framework which is the classroom set-up, in which the teacher is given the latest technology to facilitate learning in an environment that captures diversity and inclusivity and leads students to work towards personal growth, an understanding of the values of solidarity and social justice, formal qualifications and employability.
+
+Picture taken by ©Roberto Runza
 
 [[END OF PAGE 2]]
 
@@ -40,37 +42,37 @@ ISBN: 978-99957-0-409-4
 
 [[START OF PAGE 5]]
 
+## THE NATIONAL CURRICULUM FRAMEWORK AIMS AT:
+
+1. encouraging children and young people and teachers to work together and learn from each other.
+
+2. sustaining individual attention, so that all children fulfill their capacity.
+
+3. supporting schools to fulfill the expectations of children and their parents.
+
+4. providing quality time for social interaction, non-formal learning and peer activity.
+
+5. directing education leaders to rationalise the content of Learning Programmes so as to ensure quality and not magnitude.
+
+6. ensuring that, in the context of the holistic entitlement of the Learning Areas, young people in compulsory education have as an indispensible prerequisite mastery in Maltese and English, Mathematics, a Science subject and Digital Literacy.
+
+7. helping children to regard social justice and solidarity as key values in the development of the Maltese society.
+
+8. empowering parents and young people to work towards the acquisition of a formal qualification in key competences as the foundation for Lifelong Learning.
+
+9. supporting education leaders to successfully implement the NCF and systematically monitor its development at classroom level so that national targets are achieved within established timeframes.
+
+10. requesting teachers to regard children as Malta’s future workforce and therefore ensure that positive attitudes towards excellence, commitment, responsibility, flexibility and entrepreneurship form part of the learning process.
+
 ## THE NATIONAL CURRICULUM FRAMEWORK IS:
 
 - a reference for action based on general consensus and the contribution of stakeholders as well as those committed to its implementation;
 
-- a living framework , in such a way that allows for adjustments to new developments during implementation;
+- a living framework, in such a way that allows for adjustments to new developments during implementation;
 
-- a policy  instrument as  well  as  information  on  the  implementation  strategy,  actions  and benchmarks for implementation, monitoring and evaluation;
+- a policy instrument as well as information on the implementation strategy, actions and benchmarks for implementation, monitoring and evaluation;
 
 - a response to the changing demands of individuals and society, rapid changes in our education system driven by globalisation, ICT development, competition, shift of traditional values and new paradigms.
-
-## THE NATIONAL CURRICULUM FRAMEWORK AIMS AT:
-
-- encouraging children and young people and teachers to work together and learn from each other.
-
-- sustaining individual attention , so that all children fulfill their capacity.
-
-- supporting schools to fulfill the expectations of children and their parents.
-
-- providing quality time for social interaction, non-formal learning and peer activity.
-
-- directing education leaders to rationalise the content of Learning Programmes so as to ensure quality and not magnitude.
-
-- ensuring that, in the context of the holistic entitlement of the Learning Areas, young people in compulsory education have as an indispensible prerequisite mastery in Maltese and English, Mathematics, a Science subject and Digital Literacy.
-
-- helping children to regard social justice and solidarity as key values in the development of the Maltese society.
-
-- empowering parents and young people to work towards the acquisition of a formal qualification in key competences as the foundation for Lifelong Learning.
-
-- supporting education leaders to successfully implement the NCF and systematically monitor its  development at classroom level so  that  national  targets  are  achieved within established timeframes.
-
-- requesting  teachers  to  regard  children  as  Malta's  future workforce and  therefore  ensure that positive attitudes towards excellence, commitment, responsibility, flexibility and entrepreneurship form part of the learning process.
 
 iii
 
@@ -80,11 +82,121 @@ iii
 
 ## CONTENTS
 
+Message from the Hon Dolores Cristina, Minister Education and Employment vii
+
+Learning Together, Inspiring Success ix
+
+Message from the President of the Malta Union of Teachers xi
+
+Executive Summary xiii
+
+Review of the National Curriculum Framework and Way Forward 1
+
+01. Review of the National Curriculum Framework following the Consultation Process 3
+
+01.1 A Sustained Process of National Consultation 3
+
+01.2 Position of the Working Group after Analysis of the Feedback Received 4
+
+01.2.1 A Framework for the National Curriculum 4
+
+01.2.2 The Principles and Aims of the New National Curriculum Framework 5
+
+01.2.3 The Learning Areas 8
+
+01.2.4 The Cross Curricular Themes 9
+
+01.2.5 Assuring that Every Learner Makes a Successful Transition Across the Education Cycles 10
+
+01.2.6 Aligning Learning and Assessments to Learning Outcomes 11
+
+01.2.7 Aligning Learning Outcomes with the Level Descriptors of the Malta’s Qualifications Framework 12
+
+01.2.8 Key Competencies, Employability and Mobility 13
+
+01.2.9 Monitoring and Benchmarking the Performance of the Education System 14
+
+01.2.10 The Cycles of Education 15
+
+01.2.11 Entitlement 17
+
+01.2.12 Professional Development of Teachers 18
+
+01.2.13 Securing Seamless Transition between the Secondary Cycle for Education and Post-Secondary Education 19
+
+02. Outcomes and Outputs of the National Curriculum and its Implementation 21
+
+02.1 Outcomes and Outputs of the National Curriculum Framework 21
+
+02.2 Implementing the National Curriculum Framework 25
+
+The National Curriculum Framework 29
+
+03. Main Tenets of the NCF 31
+
+03.1 Components of the National Curriculum Framework 31
+
+03.1.1 General Principles 32
+
+03.1.2 Aims of Education 32
+
+03.1.3 Learning Areas and Cross Curricular Themes 33
+
+03.1.4 Effective Learning and Teaching 39
+
+03.1.5 Assessment and Evaluation 41
+
+03.1.6 Parental and community involvement 43
+
+03.1.7 Support Structures 43
+
 iv
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+03.2 The Early Years (KG 1 – Year 2) 45
+
+03.2.1 Purposes and general objectives 45
+
+03.3 The Junior Years (Years 3-6) 50
+
+03.3.1 Introduction 50
+
+03.3.2 Aims of the Junior Years Cycle 51
+
+03.4 The Secondary Years (Years 7 – 11) 58
+
+03.4.1 Introduction 58
+
+03.4.2 Aims for Secondary Education 58
+
+References & Appendices 69
+
+References 71
+
+Appendix I: The Terms of Reference of the Post-Consultation Working Group on the National Curriculum Framework 72
+
+Appendix II: The Constitution of the Working Group on the Post-Consultation National Curriculum Framework 73
+
+Appendix III: The Level Descriptors of the Malta Qualifications Framework for Lifelong Learning 74
+
+### Figures
+
+Figure 01: Relationship between Learning Outcomes, Programmes of Learning and Assessment, and Examinations 12
+
+Figure 02: Monitoring and Benchmarking the Education System 14
+
+Figure 03: The Learning Areas and the Cross-Curricular Themes in the NCF 39
+
+### Tables
+
+Table 1 : Outcomes of Education 2012 and Targets Set for 2027 24
+
+Table 2 : NCF Implementation Strategy 26
+
+Table 3 : Outcomes of Education 2012 and Targets Set for 2027 67
 
 v
 
@@ -100,7 +212,7 @@ v
 
 ## Message from Hon Dolores Cristina Minister of Education and Employment
 
-The National Curriculum Framework (NCF) is the result of a long, nationwide consultation process. The initial draft, launched in May 2011, served as a platform for discussion, debate and consensusbuilding.  It  is  now  with  great  satisfaction  that I  present  a  final  document  which  illustrates the  vision  and  aspirations  of  our  leaders  and interested stakeholders in education in Malta.
+The National Curriculum Framework (NCF) is the result of a long, nationwide consultation process. The initial draft, launched in May 2011, served as a platform for discussion, debate and consensus-building. It is now with great satisfaction that I present a final document which illustrates the vision and aspirations of our leaders and interested stakeholders in education in Malta.
 
 My personal wish is that the Curriculum Framework will foster  in  students  the  desire  to continue on a learning journey throughout their lives.
 
@@ -110,9 +222,9 @@ The NCF 2012 looks upon education as a journey towards personal enrichment and e
 
 Through  this  NCF  a  number  of  ambitious  but realistic  targets  have  been  set.  The  discussions that  led  to  this  final  document  have  enriched our  views  of  education  and  of  the  educational process. They have led us to take the decision to measure  success  and  failure  at  the  micro  level of our schools on a regular basis. The strengths and the potential weaknesses of this curriculum framework will have to be regularly monitored. My clear political direction has been that in the Early Years and throughout Compulsory Education, the commitment to our children must be monitored on a regular basis to ensure that not one single child is marginalised by the system itself.
 
-This is an NCF that is really and truly studentcentred; it is flexible enough to cater for the needs and the abilities of every individual student. The aim is to give every child the opportunity to grow in an education environment which the teacher may regularly  transform  to  fit  the  learner's  abilities. The school will become a centre of learning where young students  find  the  opportunity  to  acquire qualifications  necessary  for  them  to  assume  an active  role in society.
+This is an NCF that is really and truly student-centred; it is flexible enough to cater for the needs and the abilities of every individual student. The aim is to give every child the opportunity to grow in an education environment which the teacher may regularly transform to fit the learner’s abilities. The school will become a centre of learning where young students find the opportunity to acquire qualifications necessary for them to assume an active role in society.
 
-This  NCF  addresses  the  gaps  in  our  learning processes that over the years have led to absenteeism, to significant rates of early school leavers  and  to  low  skills  and  competences  for a  proportion  of  students.  It  will  strengthen  the already existing structures that are transforming schools  into  modern  education  centres  where active and meaningful learning can take place. It will lead to an increased participation rate in postsecondary and tertiary education. It will attract more  students  to  lifelong  learning,  encouraging them to embark on further and higher education streams leading to new and better formal qualifications.
+This NCF addresses the gaps in our learning processes that over the years have led to absenteeism, to significant rates of early school leavers and to low skills and competences for a proportion of students. It will strengthen the already existing structures that are transforming schools into modern education centres where active and meaningful learning can take place. It will lead to an increased participation rate in post-secondary and tertiary education. It will attract more students to lifelong learning, encouraging them to embark on further and higher education streams leading to new and better formal qualifications.
 
 The  underlying  philosophy  is  to  ensure  that formal,  informal  and  non-formal  learning  will serve as a means to secure a commitment towards social justice, personal growth, active citizenship and employability.
 
@@ -128,7 +240,7 @@ By  2025/26  the  NCF  is  expected  to  increase the  percentage  of  students 
 
 These targets will be subject to a periodic review process  to  ensure  that  they  reflect  the  positive experience of the NCF and the development of the Learning Outcomes Framework.
 
-These ambitious but realistic targets imply that  institutions  such  as  the  Directorates  of Education, the Faculty of Education of the University of Malta, The Malta Union of Teachers, the  Employment  and  Training  Corporation,  the Council for the Teaching profession, the private education sector and all training providers must respond  with  effective,  measureable  and  coordinated policies.
+These ambitious but realistic targets imply that institutions such as the Directorates of Education, the Faculty of Education of the University of Malta, The Malta Union of Teachers, the Employment and Training Corporation, the Council for the Teaching profession, the private education sector and all training providers must respond with effective, measureable and co-ordinated policies.
 
 Teachers  inevitably  play  a  central  role  in  this process which should see all those in charge of education in Malta give clear directions to ensure that all children do succeed. Together with other  educators  and  education  administrators, they  share  the  responsibility  to  guide  students through  Early  and  Compulsory  education,  to provide diverse contexts of learning, to encourage retention  in  lifelong  learning  and  to  bring  the world of education closer to the world of work and of employment.
 
@@ -178,21 +290,25 @@ ix
 
 [[START OF PAGE 12]]
 
-This document  illustrates the importance  of learning  areas  and  general  learning  outcomes that  will  determine  learning  and  assessment programmes,  standards,  criteria  and  profiles. The  indication  of  the  range  of  experiences  in compulsory  education  provides  students  with key competences necessary for lifelong learning, employability and responsible citizenship. Children's diversity will be mirrored in pedagogical approaches that ensure attractiveness to learning by doing and learning by means of cognitive skills that support understanding, and give importance to problem solving and creative skills. This is a National  Curriculum  Framework  for  all;  every child is entitled to it. We encourage teachers to regard this framework as a catalyst for innovation and change in our way of teaching and viewing children and young people.
+This document illustrates the importance of learning areas and general learning outcomes that will determine learning and assessment programmes, standards, criteria and profiles. The indication of the range of experiences in compulsory education provides students with key competences necessary for lifelong learning, employability and responsible citizenship. Children’s diversity will be mirrored in pedagogical approaches that ensure attractiveness to learning by doing and learning by means of cognitive skills that support understanding, and give importance to problem solving and creative skills. This is a National Curriculum Framework for all; every child is entitled to it. We encourage teachers to regard this framework as a catalyst for innovation and change in our way of teaching and viewing children and young people.
 
-A number  of  conclusions  have  been  drawn out  from  the  initial  draft  as  well  as  from  the consultation process and the rationalisation of  the  Post-Consultation  Working  Committee. The  framework  summarises  the  wide  range  of discussions and  recommendations  that  have taken place throughout the whole process as well as  the  intensive  post-consultation  debate.  We have captured recommendations that are based on sound national and international good practice that have strong educational value. We are aware that the framework itself may not answer all the questions that arise from the diverse needs that characterise our classrooms in the three Cycles of  education.  But  we  are  confident  that  the curriculum framework has structures that permit teachers, as professionals, to take a leading role in designing learning and teaching processes that suit individual children.
+A number of conclusions have been drawn out from the initial draft as well as from the consultation process and the rationalisation of the Post-Consultation Working Committee. The framework summarises the wide range of discussions and recommendations that have taken place throughout the whole process as well as the intensive post-consultation debate. We have captured recommendations that are based on sound national and international good practice that have strong educational value. We are aware that the framework itself may not answer all the questions that arise from the diverse needs that characterise our classrooms in the three Cycles of education. But we are confident that the curriculum framework has structures that permit teachers, as professionals, to take a leading role in designing learning and teaching processes that suit individual children.
 
-stakeholders  with  an  understanding  of  what children  and  young  people  know  and  are  able to do during each of the three cycles and at the end of compulsory education. The Directorate for Quality and Standards in Education (DQSE) will be preparing learning programmes for each of the three  Cycles  which  we  refer  to  as  our  intended curriculum.  Special  attention  will  in  turn  be given to our monitoring system that could provide snapshots of the implemented and learned curriculum.  Relevant  forms  of  assessments  will be  put  in  operation  in  all  three  Cycles  since assessment  is  seen  as  an  integral  part  of  the learning  process.  The  learning  and  assessment processes  including  reporting  and  recording  of pupil  progression  are  given  due  recognition  in this Curriculum Framework.
+The NCF is to be supported by a Learning Outcomes Framework. The two frameworks will form the backbone of our education programmes and will serve as national benchmarks of excellence for all schools providing parents, teachers and other stakeholders with an understanding of what children and young people know and are able to do during each of the three cycles and at the end of compulsory education. The Directorate for Quality and Standards in Education (DQSE) will be preparing learning programmes for each of the three Cycles which we refer to as our intended curriculum. Special attention will in turn be given to our monitoring system that could provide snapshots of the implemented and learned curriculum. Relevant forms of assessments will be put in operation in all three Cycles since assessment is seen as an integral part of the learning process. The learning and assessment processes including reporting and recording of pupil progression are given due recognition in this Curriculum Framework.
 
-The statistical targets set at the end of compulsory schooling are not an end in themselves. On the contrary, they are to serve as success criteria and achievable goals which we can realistically work towards. We would like to inculcate a culture of quality education for all and hence regard success as being relative to one's capacity to learn. This is the main thrust of this framework - a roadmap which every child will own as a means to develop as  a  person  and  as  a  citizen  of  an  increasingly diverse and challenging Maltese society.
+The statistical targets set at the end of compulsory schooling are not an end in themselves. On the contrary, they are to serve as success criteria and achievable goals which we can realistically work towards. We would like to inculcate a culture of quality education for all and hence regard success as being relative to one’s capacity to learn. This is the main thrust of this framework – a roadmap which every child will own as a means to develop as a person and as a citizen of an increasingly diverse and challenging Maltese society.
 
-We hope that our NCF inspires our teachers and schools to take a leading role in reviewing teaching and learning  processes  in  our  classrooms.  It  is within  the  classroom  that  we  would  like  to  see the real differences, with the framework acting as a  guiding  tool  that  really  makes  a  difference  to children's lives irrespective of their capacity and social and economic backgrounds.
+We hope that our NCF inspires our teachers and schools to take a leading role in reviewing teaching and learning processes in our classrooms. It is within the classroom that we would like to see the real differences, with the framework acting as a guiding tool that really makes a difference to children’s lives irrespective of their capacity and social and economic backgrounds.
 
-The  NCF  is  to  be  supported  by  a  Learning  Outcomes Framework.  The  two  frameworks  will  form  the backbone of our education programmes and will serve  as  national  benchmarks  of  excellence  for all schools providing parents, teachers and other Inclusivity, the values of social justice and responsible citizenship and employability are our desired goals. These can only be achieved through the professional commitment of all of us.
+Inclusivity, the values of social justice and responsible citizenship and employability are our desired goals. These can only be achieved through the professional commitment of all of us.
 
-Professor Grace Grima Chairperson Curriculum Review Committee
+Dr James Calleja
+Chairperson
+Post-Consultation Working Committee
 
-Dr James Calleja Chairperson Post-Consultation Working Committee The last decade has been characterised by ongoing  reforms  in  education,  some  of  which were announced in the National Minimum Curriculum (NMC) which was published on the eve of this century. These reforms were also due to other factors such as the increased influence of  the  European  dimension  following  Malta's accession to the European Union together with an increased emphasis on maximising the outcomes of the national educational system whilst acknowledging the needs of each individual learner.  The review of the NMC was essential to take into consideration new realities in the educational system which include the drive towards inclusion, the use of new technologies, increased  support  services  to  aid  the  teaching and learning process, improved networking and decentralisation  of  services,  specialised  subject teaching  in  primary  schools,  mixed  ability  and differentiated  teaching,  abolition  of  streaming and  junior  lyceum  examinations,  and  the  drive towards comprehensive schooling.
+Professor Grace Grima
+Chairperson
+Curriculum Review Committee
 
 x
 
@@ -202,13 +318,15 @@ x
 
 ## Message from the President of the Malta Union of Teachers
 
-The shift from a National Minimum Curriculum to a National Curriculum Framework  (NCF) aims to increase flexibility and thus increase the relevance  of  the  teaching  process  to  meet  the individual needs of learners.  This will inevitably create new challenges on teaching grades; challenges  which  can  only  be  met  by  ongoing investment in infrastructure, added human resources, retraining and increased support services.    The  NCF  can  only  be  implemented effectively once there are the necessary tools and services  in  place.  These  include  the  ancillary policy documents which will be produced by the Ministry  of  Education  and  Employment  to  aid implementation.
+The last decade has been characterised by ongoing reforms in education, some of which were announced in the National Minimum Curriculum (NMC) which was published on the eve of this century. These reforms were also due to other factors such as the increased influence of the European dimension following Malta’s accession to the European Union together with an increased emphasis on maximising the outcomes of the national educational system whilst acknowledging the needs of each individual learner. The review of the NMC was essential to take into consideration new realities in the educational system which include the drive towards inclusion, the use of new technologies, increased support services to aid the teaching and learning process, improved networking and decentralisation of services, specialised subject teaching in primary schools, mixed ability and differentiated teaching, abolition of streaming and junior lyceum examinations, and the drive towards comprehensive schooling.
 
-The  NCF  considers  education  as  a  continuous journey  which  starts  at  birth  and  is  formalised during three cycles of schooling leading to higher education.  It  is  a  curriculum  which  aims  to cater for the three educational service providers: state,  church  and  independent  schools  whilst acknowledging variation in the educational provision caused by the autonomy  of each sector  and  the  ethos  of  each  school.  The  MUT acknowledges the need for seamless transitions in  the  three  cycles  of  education,  transitions from  one  school  to  another,  and  transitions to  higher  education.  This  will  require  added uniformity which shall only be achieved through standardisation  of  the  learning  outcomes,  the educational entitlement of each learning area and the  benchmarking exams held during the three educational cycles.
+The shift from a National Minimum Curriculum to a National Curriculum Framework (NCF) aims to increase flexibility and thus increase the relevance of the teaching process to meet the individual needs of learners. This will inevitably create new challenges on teaching grades; challenges which can only be met by ongoing investment in infrastructure, added human resources, retraining and increased support services. The NCF can only be implemented effectively once there are the necessary tools and services in place. These include the ancillary policy documents which will be produced by the Ministry of Education and Employment to aid implementation.
 
-The  NCF  includes  clear  projections  of  short, medium and long term goals with the objective to  increase  the  success  rate  of  the  educational system at the National and the European levels. The  inclusion  of  specific  targets  provides  the necessary  vision  which  must  be  communicated effectively to be shared by all stakeholders. The strategy  which  will  be  employed  to  meet  these ends  needs  to  take  into  consideration  the  fact that education must drive statistics and cannot instead be shaped to accommodate statistics. The ultimate aim of education is to lead an individual to reach his/her full potential and this must not be overseen.
+The NCF considers education as a continuous journey which starts at birth and is formalised during three cycles of schooling leading to higher education. It is a curriculum which aims to cater for the three educational service providers: state, church and independent schools whilst acknowledging variation in the educational provision caused by the autonomy of each sector and the ethos of each school. The MUT acknowledges the need for seamless transitions in the three cycles of education, transitions from one school to another, and transitions to higher education. This will require added uniformity which shall only be achieved through standardisation of the learning outcomes, the educational entitlement of each learning area and the benchmarking exams held during the three educational cycles.
 
-The MUT acknowledges the improved consultation with stakeholders following the publication of  the  draft  NCF  by  the  Ministry  of  Education and  Employment.  The  MUT  engaged  in  a  wide consultation  process  about  the  draft  NCF.  This ran  parallel  with  the  consultation  process  held by  the  Ministry  of  Education  and  Employment and led to the presentation of extensive feedback following  the  consultation  process.  The  intake of  this  feedback  by  the  NCF  post  consultation working group which included the direct representation of the MUT is commendable. The MUT  augurs  that  the  process  will  be  repeated when this document is eventually translated in the implementation strategy of the NCF through the  proposed  Learning  Outcomes  Framework leading to the revision of syllabi. The MUT stresses that the expertise of educators who are presently delivering the services in schools is essential to secure ownership and to produce relevant syllabi and resources.
+The NCF includes clear projections of short, medium and long term goals with the objective to increase the success rate of the educational system at the National and the European levels. The inclusion of specific targets provides the necessary vision which must be communicated effectively to be shared by all stakeholders. The strategy which will be employed to meet these ends needs to take into consideration the fact that education must drive statistics and cannot instead be shaped to accommodate statistics. The ultimate aim of education is to lead an individual to reach his/her full potential and this must not be overseen.
+
+The MUT acknowledges the improved consultation with stakeholders following the publication of the draft NCF by the Ministry of Education and Employment. The MUT engaged in a wide consultation process about the draft NCF. This ran parallel with the consultation process held by the Ministry of Education and Employment and led to the presentation of extensive feedback following the consultation process. The intake of this feedback by the NCF post consultation working group which included the direct representation of the MUT is commendable. The MUT augurs that the process will be repeated when this document is eventually translated in the implementation strategy of the NCF through the proposed Learning Outcomes Framework leading to the revision of syllabi. The MUT stresses that the expertise of educators who are presently delivering the services in schools is essential to secure ownership and to produce relevant syllabi and resources.
 
 Educators must continue to have a central role in the implementation process of the curriculum as the success of the NCF is entirely dependant on the factual translation of this document in the classroom.
 
@@ -228,7 +346,7 @@ xi
 
 ## Executive Summary
 
-This  document  is  the  conclusion  of  a  process of discussions, consultations and designing of Malta's National Curriculum Framework (NCF).  The  overarching  principle  upon  which this  framework  has  been  constructed  is  that  of giving children and young people an appropriate entitlement  of  learning  that  enables  them  to accomplish their full potential as individual persons and as citizens of a small State within the European Union. Backing this principle is a set of other key principles that this NCF aims at achieving namely the development of: · · ·
+This document is the conclusion of a process of discussions, consultations and designing of Malta’s National Curriculum Framework (NCF). The overarching principle upon which this framework has been constructed is that of giving children and young people an appropriate entitlement of learning that enables them to accomplish their full potential as individual persons and as citizens of a small State within the European Union. Backing this principle is a set of other key principles that this NCF aims at achieving namely the development of:
 
 - knowledge,  skills,  competences,  attitudes and values that improve the quality of life of our children.
 
@@ -266,7 +384,7 @@ This NCF promotes:
 
 - learning programmes that empower teachers to implement innovative teaching / learning strategies especially through the use of eLearning.
 
-- a  move away from an exclusively subjectbased approach that favours fragmentation and compartmentalisation of knowledge to a more cross-curricular, thematic, interdisciplinary and collaborative approach  that  reflects  real  life  situations and encourages transfer of skills from one learning area to another.
+- a move away from an exclusively subject-based approach that favours fragmentation and compartmentalisation of knowledge to a more cross-curricular, thematic, interdisciplinary and collaborative approach that reflects real life situations and encourages transfer of skills from one learning area to another.
 
 xiii
 
@@ -316,27 +434,25 @@ xiv
 
 [[START OF PAGE 17]]
 
-Early Years Cycle Junior Years Cycle Secondary Years Cycle KGI  KGII  Y1  Y2
+7 The Working Group establishes the following three education Cycles which whilst being distinct allow for the reinforcement of knowledge, skills, competences, attitudes and values with regard to the transition from one Cycle to another:
 
-- 8 The  Working  Group  establishes  that  the programmes of learning and the standards of assessment and examinations are to be based  on  the  general  learning  outcomes of  the  NCF  and  the  subsequent Learning Outcomes Framework . Assessment in pre-school  and  school  settings  makes  an essential contribution to learning and progress at all levels. It is to be seen as an integral  part  of  the  learning  and  teaching process, providing students, educators, and  parents  with  continuous,  timely  and qualitative feedback about children's progress,  giving  teachers  tools  to  reflect on  their  practice,  and  providing  schools and  colleges  with  information  about  their curriculum planning, learning and teaching, and achievements. Examinations and assessments set at a Secondary Education Certificate level are to reflect the rationale of  the  NCF  and  the  Learning  Outcomes Framework  which  will be based on a pedagogy that is student-centred, inquirybased, integrated with the cross-curricular themes,  and  supported  by  an  e-Learning based approach.
+Early Years Cycle    KGI  KGII  Y1  Y2
 
-- 9 The  Working  Group  establishes  that  the NCF responds to the descriptors of the first three  levels  of  the Malta  Qualifications Framework  for  Lifelong  Learning which in turn  is  referenced  to  the  European Qualifications Framework for Lifelong Learning.  A  Learning Outcomes Framework will  be  developed  for  the  three  Cycles  of education as addressed by this NCF (Early Years,  Junior  and  Secondary)  on  which learning programmes and assessment procedures will be designed leading to the expected levels of the Malta Qualifications Framework.
+Junior Years Cycle    Y3  Y4  Y5  Y6
 
-- 10 The Working Group affirms the importance of  valuing  and  accrediting  all  skills  and competencies.    The  NCF  will  ensure  that students' capacities enable them to achieve access  into  further  and  higher  education as well as being the prerequisites for
+Secondary Years Cycle    Y7  Y8  Y9  Y10  Y11.
 
-- 7 The Working Group establishes the following three education Cycles which whilst being distinct allow for the reinforcement of knowledge,  skills,  competences,  attitudes and  values  with  regard  to  the  transition from one Cycle to another:
+8 The Working Group establishes that the programmes of learning and the standards of assessment and examinations are to be based on the general learning outcomes of the NCF and the subsequent Learning Outcomes Framework. Assessment in pre-school and school settings makes an essential contribution to learning and progress at all levels. It is to be seen as an integral part of the learning and teaching process, providing students, educators, and parents with continuous, timely and qualitative feedback about children’s progress, giving teachers tools to reflect on their practice, and providing schools and colleges with information about their curriculum planning, learning and teaching, and achievements. Examinations and assessments set at a Secondary Education Certificate level are to reflect the rationale of the NCF and the Learning Outcomes Framework which will be based on a pedagogy that is student-centred, inquiry-based, integrated with the cross-curricular themes, and supported by an e-Learning based approach.
 
-Y3  Y4  Y5  Y6
+9 The Working Group establishes that the NCF responds to the descriptors of the first three levels of the Malta Qualifications Framework for Lifelong Learning which in turn is referenced to the European Qualifications Framework for Lifelong Learning. A Learning Outcomes Framework will be developed for the three Cycles of education as addressed by this NCF (Early Years, Junior and Secondary) on which learning programmes and assessment procedures will be designed leading to the expected levels of the Malta Qualifications Framework.
 
-Y7  Y8  Y9  Y10  Y11.
+10 The Working Group affirms the importance of valuing and accrediting all skills and competencies. The NCF will ensure that students’ capacities enable them to achieve access into further and higher education as well as being the prerequisites for employability and mobility. The Learning Outcomes Framework will give due importance to vocational subjects in the Secondary Years Cycle with the scope of providing more diverse pathways of learning leading students to new skills and to new jobs. The range of vocational subjects will be extended during the course of NCF.
 
-employability  and  mobility.    The  Learning Outcomes Framework will give due importance  to  vocational  subjects  in  the Secondary  Years  Cycle  with  the  scope  of providing more diverse pathways of learning leading students to new skills and to new jobs.  The range of vocational subjects will be extended during the course of NCF.
+11 As a quality assurance measure, the Working Group has determined three occasions for benchmarking and two occasions for monitoring during compulsory education. Benchmarking will take place at the end of the Early Years Cycle, at the end of the Junior Years Cycle and at the end of the Secondary School Cycle. Assessment will be on an individual level at the juncture between Year 2 and Year 3, and at the end of Year 6. These benchmarking exercises will be compulsory for State schools while Church and Independent schools will be invited to participate. At the end of Year 11, the SEC examination results will continue to have a benchmarking function as well.
 
-- 11 As a quality  assurance  measure, the Working Group has determined three occasions for benchmarking and two occasions for monitoring during compulsory education. Benchmarking will take place at the end of the Early Years Cycle, at the end of the Junior Years Cycle and at the end of the  Secondary  School  Cycle.    Assessment will be on an individual level at the juncture between Year 2 and Year 3, and at the end of  Year  6.  These  benchmarking  exercises will be compulsory for State schools while Church  and  Independent  schools  will  be invited to participate. At the end of Year 11, the SEC examination results will continue to have a benchmarking function as well.
+In addition, there will be periodic non-intrusive external monitoring at two points during compulsory education: once during the Junior Cycle and once during the Secondary Cycle. This will involve samples of schools and students in the State, Church and Independent sectors and a specified number of learning areas per year over a cycle of years yet to be determined covering the different areas.
 
-In  addition,  there  will  be  periodic  nonintrusive external monitoring at two points during compulsory education: once during the  Junior  Cycle  and  once  during  the Secondary Cycle. This will involve samples of schools and students in the State, Church and  Independent  sectors  and  a  specified number of learning  areas  per  year  over  a cycle of years yet to be determined covering the different areas.
-
-- 12 Whilst children will not be formally assessed in the Early Years Cycle their development and progress will be recorded and reported to parents at least twice a year. Formative assessment is advocated for this Cycle as it is  highly appropriate to capture children's individual  progress  and  development.  The learning  programmes  developed  for  this Cycle are to lead to the learning outcomes of this Cycle. It further reaffirms the purposes and aims for the Early Years.
+12 Whilst children will not be formally assessed in the Early Years Cycle their development and progress will be recorded and reported to parents at least twice a year. Formative assessment is advocated for this Cycle as it is highly appropriate to capture children’s individual progress and development. The learning programmes developed for this Cycle are to lead to the learning outcomes of this Cycle. It further reaffirms the purposes and aims for the Early Years.
 
 xv
 
@@ -346,7 +462,7 @@ xv
 
 - 13 The  Working  Group  reaffirms  the Junior Years Cycle as an important milestone in the  educational  journey  of  learners  as  it consolidates and builds upon the learning experiences  of  the  Early  Years  Cycle  of education  and  prepares  learners  for  the transition into the Secondary Cycle of education.  It further reaffirms the purposes and aims for the Junior Years and adds the general learning outcomes for this Cycle.
 
-- 14 The  Working  Group  establishes  that  the subject content in  the  different  Learning Areas  of  the  Junior  Years  Cycle  will  be streamlined  according  to  realities  of  the school year in order to enable educators to make use of pedagogies that are studentcentred, inquiry-based, integrated with the cross-curricular themes and supported by an eLearning based approach.
+- 14 The Working Group establishes that the subject content in the different Learning Areas of the Junior Years Cycle will be streamlined according to realities of the school year in order to enable educators to make use of pedagogies that are student-centred, inquiry-based, integrated with the cross-curricular themes and supported by an eLearning based approach.
 
 - 15 The NCF  acknowledges  that formative assessment should be balanced and supplemented with summative assessment in  the  Junior  Years  Cycle.    Colleges  and Schools  are  encouraged  to  carry  out  a summative  assessment  directed  to  assist teachers and students to obtain an indication of the development of knowledge, skills, competencies and attitudes achieved in the different Learning Areas at least once prior to the end of this Cycle.
 
@@ -362,7 +478,7 @@ is  to  continue.  It  is  further  recommended that  this  practice  should  be
 
 - 20 The  Working  Group  cautions  that  for  the NCF  to  be  successfully  implemented  the sustained  and  continued up-skilling and re-skilling of educators' competencies to deliver the new  pedagogies  requires a structured professional development programme  that  goes  beyond  what  the current structure for training permits.  The Working Group underlines that there is a need  for  the  Directorates  to  consult  with the Malta Union of Teachers
 
-- 21 The Working Group recommends that the Minister  for  Education  and  Employment establishes  a Working  Group  to  addres s the implicatio ns  of  the  NCF  for  further and higher education.  The purpose of this Working Group would be to ensure a smooth progression from compulsory to postsecondary education.  This Working Group should be led by the National Commission for Further and Higher Education.
+- 21 The Working Group recommends that the Minister for Education and Employment establishes a Working Group to address the implications of the NCF for further and higher education. The purpose of this Working Group would be to ensure a smooth progression from compulsory to post-secondary education. This Working Group should be led by the National Commission for Further and Higher Education.
 
 xvi
 
@@ -388,47 +504,43 @@ Part I
 
 #### 01.1	 A Sustained Process of National Consultation
 
-The draft National Curriculum Framework (NCF) was  placed  in  the  public  domain  on  17 th   May 2011.    A  comprehensive  consultation  process was  carried  out  by  the  Directorate  for  Quality and Standards in Education (DQSE) within the Ministry of Education and Employment (MEDE) with all the stakeholders.
+The draft National Curriculum Framework (NCF) was placed in the public domain on 17th May 2011. A comprehensive consultation process was carried out by the Directorate for Quality and Standards in Education (DQSE) within the Ministry of Education and Employment (MEDE) with all the stakeholders.
 
 The consultation process included:
 
-- 56  consultation  meetings  with,  amongst others, constituted bodies, political parties, representatives  from  State,  Church  and Independent  schools,  the  general  public, parents and students.
+- 56 consultation meetings with, amongst others, constituted bodies, political parties, representatives from State, Church and Independent schools, the general public, parents and students.
 
-- A consultation day organised in all schools in  the  State,  Church  and  Independent sectors.
+- A consultation day organised in all schools in the State, Church and Independent sectors.
 
 - Comprehensive surveys amongst the education professionals and students in the State, Church and Independent sectors.
 
-- An  invitation  for  the  formal  submission of  written  responses  from  all  interested stakeholders
+- An invitation for the formal submission of written responses from all interested stakeholders
 
-A Report on the analysis of the feedback received was placed in the public domain by MEDE 2  on 14 th August 2012. In spite of different and conflicting views the Report concluded that there was a high level of convergence of views expressed. This is an overview of some of the salient points identified in the Report:
+A Report on the analysis of the feedback received was placed in the public domain by MEDE² on 14th August 2012. In spite of different and conflicting views the Report concluded that there was a high level of convergence of views expressed. This is an overview of some of the salient points identified in the Report:
 
-- A quasi unanimous  agreement  on  the general Principles and the Aims of education of the draft NCF.
+- A quasi unanimous agreement on the general Principles and the Aims of education of the draft NCF.
 
-- The  challenges  and  issues  raised  pertain primarily  to  the  implementation  detail  of the NCF.
+- The challenges and issues raised pertain primarily to the implementation detail of the NCF.
 
-- General agreement that the vision presented with regard to Science Education is laudable; that the proposed Core Science subject  should  not  become  a  soft  option; that students should be allowed to choose
+- General agreement that the vision presented with regard to Science Education is laudable; that the proposed Core Science subject should not become a soft option; that students should be allowed to choose one Science subject; that well planned re-skilling is required with current teachers who are mainly grounded in Mathematics and Physics.
 
-one Science subject; that well planned reskilling  is  required  with  current  teachers who are mainly grounded in Mathematics and Physics.
+- General agreement that investment is required to strengthen, up-skill and re-skill teachers, school leaders and educators if the NCF is to succeed.
 
-- General agreement that investment is required to strengthen, up-skill and re-skill teachers,  school  leaders  and  educators  if the NCF is to succeed.
+- General agreement that the successful implementation of a differentiated teaching environment needs investment in capacity building; increased teacher resource allocation; improved teacher to student ratio where necessary; less syllabus content; more flexibility provided to a teacher with regard to pedagogies in the classroom environment.
 
-- General agreement that the successful implementation of a differentiated teaching environment needs investment in capacity building; increased teacher resource allocation; improved teacher to student ratio where  necessary;  less  syllabus  content; more flexibility  provided to a teacher with regard to pedagogies in the classroom environment.
+- Quasi unanimous agreement that an inquiry-based approach and student-centred learning require a significant reduction in the syllabi content.
 
-- Quasi unanimous agreement that an inquiry-based approach and studentcentred learning require a significant reduction in the syllabi content.
+- The Learning Area on Citizen Education is, in the main, criticized as it is feared that it will result in the marginalisation of Geography, History and Social Studies as separate disciplines.
 
-- The  Learning  Area  on  Citizen  Education is,  in  the  main,  criticized  as  it  is  feared that it will result in the marginalisation of Geography,  History  and  Social  Studies  as separate disciplines.
+- Consistent agreement that implementation should be carefully planned, that it must be phased in, and that students, teachers and parents are placed at the heart of the reform process.
 
-- Consistent agreement that implementation should  be  carefully  planned,  that  it  must be phased in, and that students, teachers and parents are placed at the heart of the reform process.
-
-- Where expressed, there is agreement with  the  recommendation  to  re-introduce Accounts and Economics as Option subjects.
+- Where expressed, there is agreement with the recommendation to re-introduce Accounts and Economics as Option subjects.
 
 - Where expressed, there is concern on how the proposed reforms will impact the Personal and Social Development subject.
 
-- General  agreement  with  the  introduction of  a  separate  Ethics  subject  for  students whose  parents  do  not  wish  them  to  be educated in the Roman Catholic Faith.  It is  also  stated  that  this  approach  should not  impinge  on  the  autonomy  of  Church schools with regard to Religious Education
+- General agreement with the introduction of a separate Ethics subject for students whose parents do not wish them to be educated in the Roman Catholic Faith. It is also stated that this approach should not impinge on the autonomy of Church schools with regard to Religious Education
 
-2
-
-The feedback can be viewed on the following url:  https://www.education.gov.mt/Page.aspx?pid=543
+> 2 The feedback can be viewed on the following url: https://www.education.gov.mt/Page.aspx?pid=543
 
 3
 
@@ -491,11 +603,11 @@ The Working Group affirms that this document presents  a  National  Curriculum  
 
 ###### 01.2.2.1 The Principles
 
-The consultation feedback showed that there is agreement with both the general Principles and Aims for education as presented in the draft NCF. One  point  made  in  the  consultation  process, and which the Working Group takes note of, is that  the  contribution  of  education  should  not be  limited  to  knowledge  and  content  -  towards which,  it  is  stated,  Malta's  educational  system is  disproportionately  biased.    It  is  expressed that a functional outcome of education is, also, that  of  imbuing  students  -  tomorrow's  adults  with a value system that reflects the moral and ethical fibre of a Maltese and European citizen. The  education process, therefore, must  also contribute to a value system that reflects attitudes and beliefs that include, but are not limited to, democracy, inclusivity, openness, tolerance, transparency and diversity.
+The consultation feedback showed that there is agreement with both the general Principles and Aims for education as presented in the draft NCF. One point made in the consultation process, and which the Working Group takes note of, is that the contribution of education should not be limited to knowledge and content – towards which, it is stated, Malta’s educational system is disproportionately biased. It is expressed that a functional outcome of education is, also, that of imbuing students – tomorrow’s adults – with a value system that reflects the moral and ethical fibre of a Maltese and European citizen. The education process, therefore, must also contribute to a value system that reflects attitudes and beliefs that include, but are not limited to, democracy, inclusivity, openness, tolerance, transparency and diversity.
 
 The principle of entitlement to education ensures  the  development  of  a  learner  as  he  or she progresses during his or her life cycle to an adolescent, and subsequently to an adult with a value system of a responsible and engaged citizen and one who is equipped with the competences, amongst others, to lead, to challenge, to analyze, to be innovative and creative, and to accommodate for and acquire new skills and knowledge.
 
-With  regard  to  the  principle  of diversity ,  the feedback suggested that the draft  NCF  adopted a narrow view as it did not differentiate between the  unique  education  requirements  of  different stakeholders -whether these are women, ethnic  minorities,  persons  with  different  sexual orientation  or  persons  with  disabilities.    The Working Group concludes that such criticism is not just.  The draft NCF embraces diversity in all its forms.  Indeed, it establishes this principle as one of the tenets that underpin the NCF.
+With regard to the principle of diversity, the feedback suggested that the draft NCF adopted a narrow view as it did not differentiate between the unique education requirements of different stakeholders – whether these are women, ethnic minorities, persons with different sexual orientation or persons with disabilities. The Working Group concludes that such criticism is not just. The draft NCF embraces diversity in all its forms. Indeed, it establishes this principle as one of the tenets that underpin the NCF.
 
 The principle of the continuum of achievement should be such that it allows a learner to follow, from amongst different education pathways, the best pathway that will allow him or her to reach the maximum of his or her potential - irrespective of whether the student is a high flyer, has average abilities, basic abilities and/or has a disability.  In this regard the Working Group sought to establish a  framework  that  would  assume,  to  the  extent possible, that no student becomes a casualty of an  education  system  that  is  unable  to  identify those  learners  who  require  encouragement  and guidance.    Equally  importantly,  the  Working Group  presents a NCF  that allows for the introduction of different pathways that will truly allow a learner to develop his or her abilities in the manner best suited for him or her.
 
@@ -509,7 +621,7 @@ Although stakeholders agree with the principle of learner-centred learning most 
 
 The Working Group notes that the critical feedback with regard to the principle of quality assurance is presented by all of the three education sectors. The Church and the Independent schools, although both agreeing that quality assurance is a key principle, maintain that the current process should be low on bureaucracy.  Moreover, they underline that the NCF  should  respect the good practices they have within their respective schools.  On the other hand, feedback from the State  sector  indicated  that  quality  assurance  is viewed  as  'intrusive'  and  that  it  is  'degrading' to  professionals  who  are  already  'checked  and filtered and assessed'. The Working Group deems quality assurance to be a cardinal building block of the NCF.  Quality assurance is the framework and process through which the quality of education is assessed and on the basis of which timely and corrective intervention measures can be adopted as and where appropriate.  The Working Group concludes that whilst there will be  no  compromises  on  the  principle  of  quality assurance across the three Cycles of education it will work with all the appropriate stakeholders to ensure that the methodologies introduced reflect best  practice  -  including  local  best  practices  in the different sectors.
 
-The Working Group modifies the principle relating to  teacher  support  to  ' Teacher  Professional Support '.    The  Working  Group  recognises  that teachers  and  school  leaders  are  pivotal  to  the success of the NCF.  To successfully implement the NCF they will need to be trained, at times upskilled as well as re-skilled, in the new pedagogy -  ranging  from  matters  such  as  differentiated teaching  to  learner-centred  learning.    Training and continued professional development, therefore, are key priorities towards which MEDE, the DQSE and the Malta Union of Teachers (MUT) are to work together to secure the best enabling environment.
+The Working Group modifies the principle relating to teacher support to ‘Teacher Professional Support’. The Working Group recognises that teachers and school leaders are pivotal to the success of the NCF. To successfully implement the NCF they will need to be trained, at times up-skilled as well as re-skilled, in the new pedagogy – ranging from matters such as differentiated teaching to learner-centred learning. Training and continued professional development, therefore, are key priorities towards which MEDE, the DQSE and the Malta Union of Teachers (MUT) are to work together to secure the best enabling environment.
 
 The Working Group recognises that teachers need time to discuss, plan and share best practices to achieve excellence in the teaching they provide. In this regard, the Working Group acknowledges that the  weekly  90  minute  curriculum  and teaching  planning  time  in  the  Primary  school should  be  sustained  in  a  structured  manner. Complementary  to  this,  is  the  weekly  subject/ departmental meeting in Secondary schools.
 
@@ -521,13 +633,11 @@ The  Working  Group  re-affirms  the principles of  education relating  to  Enti
 
 To a large extent, the feedback shows agreement with  the  Aims  as  presented  in  the  draft  NCF. There was, however, a small yet influential group of stakeholders who underlined that:
 
-- The  role  of  education  should  not  be  that of  primarily  satisfying  Malta's  economic needs.  Whilst this is acknowledged to be important  it  is  underlined  that  education should  never  be  placed  in  a  subservient role to the economy particularly if the child is  to  be  placed  at  the  very  centre  of  the educational system.
+- The role of education should not be that of primarily satisfying Malta’s economic needs. Whilst this is acknowledged to be important it is underlined that education should never be placed in a subservient role to the economy particularly if the child is to be placed at the very centre of the educational system.
 
-·
+- In the event that the education system is subservient to the economy then the education system might succumb to displaced priorities and the valuation of “utilitarian” benefits above the human person. Such an approach, it is underlined, may result in confusing priorities that are detrimental not only to persons but also to institutions and society in the long term. It is argued, therefore, that values, social justice, respect for diversity, increasing knowledge and ensuring that fewer persons opt out of the compulsory education Cycle are as important as the economic dimensions that the Curriculum is to address.
 
-- In  the  event  that  the  education  system is  subservient  to  the  economy  then  the education system might succumb to displaced  priorities  and  the  valuation  of 'utilitarian' benefits above the  human person.  Such an approach, it is underlined, may result in confusing priorities that are detrimental not only to persons but also to institutions  and  society  in  the  long  term. It  is  argued,  therefore,  that  values,  social justice, respect for diversity, increasing knowledge and ensuring that fewer persons opt out of the compulsory education Cycle  are  as  important  as  the  economic dimensions that the Curriculum is to address.
-
-- The NCF should not adopt a language that seeks  to  emphasise  that  the  individual  is 'fully and solely (or together with parents)' responsible  for  his  or  her  learning  and therefore  life  chances.    It  is  pointed  out that  the  NCF  should  underpin  the  notion of  'lifelong  education'  rather  than  'lifelong learning'.    An  approach  towards  lifelong education places responsibility also on the  State  to  ensure  that  every  person, irrespective of age, gains access to educational experiences which he or she is entitled to.
+- The NCF should not adopt a language that seeks to emphasise that the individual is “fully and solely (or together with parents)” responsible for his or her learning and therefore life chances. It is pointed out that the NCF should underpin the notion of ‘lifelong education’ rather than ‘lifelong learning’. An approach towards lifelong education places responsibility also on the State to ensure that every person, irrespective of age, gains access to educational experiences which he or she is entitled to.
 
 The Working Group discussed these concerns.  The Working Group disagrees with the statement that the NCF is primarily focused on the contribution of education to the economic dimension.  In the Aims presented in the NCF, there is reference to the aim of education with regard to the:
 
@@ -539,27 +649,27 @@ The Working Group discussed these concerns.  The Working Group disagrees with th
 
 - Personal: that is, the education of students to promote the intellectual, spiritual, moral and physical development of individuals.
 
-- Social:  that is, the education of students to  enable  them  to  participate  in  families, communities and the life of the nation.
+- Social: that is, the education of students to enable them to participate in families, communities and the life of the nation.
 
-It is, however, recognised that reference to social  justice  is  implied  rather  than  explicitly stated.    To  address  this,  the  Working  Group places the appropriate emphasis in the relevant Aim  of  education  to  bring  out  more  clearly  the importance of social justice as a contribution of education.    The  Working  Group  defines  social justice in education to mean:
+It is, however, recognised that reference to social justice is implied rather than explicitly stated. To address this, the Working Group places the appropriate emphasis in the relevant Aim of education to bring out more clearly the importance of social justice as a contribution of education. The Working Group defines social justice in education to mean:
 
 - All students, irrespective of background and ability, are provided with an education that will allow them to develop to the maximum of their potential.
 
-- The introduction of a new education culture which  minimises,  to  the  extent  possible, de-motivators  that  lead  learners  to  drop out  of  formal  education  due  to  reasons such as lack of connection with the school, perceptions that the school is boring, lack  of  motivation,  academic  challenges, personal backgrounds and community contexts.    Addressing  such  de-motivators will result in a decrease in the dropout rate of students.
+- The introduction of a new education culture which minimises, to the extent possible, de-motivators that lead learners to drop out of formal education due to reasons such as lack of connection with the school, perceptions that the school is boring, lack of motivation, academic challenges, personal backgrounds and community contexts. Addressing such de-motivators will result in a decrease in the dropout rate of students.
 
-- The introduction of a new education culture where  learning  is  a  process  that  enables students to make their voices heard in the wider  world  and  thereby  exerts  influence over the future direction of their own lives and communities.
+- The introduction of a new education culture where learning is a process that enables students to make their voices heard in the wider world and thereby exerts influence over the future direction of their own lives and communities.
 
-Whilst  recognising  the  importance  of  learners who are engaged citizens who are able to strive for  social  justice in  constantly  changing  local, regional and global realities, the Working Group also recognises the paramount importance of the economic  dimension  in  education.  In  a  global environment that is increasingly becoming more complex, knowledge-based, and intrinsically intertwined  with  information,  communications and technology the education system cannot be divested  from  the  importance  of  the  ability  of Malta's  future  adults  to  successfully  make  the transition  not  just  into  employment,  but  into value-added  employment.    The  development  of Malta's vision as a high value-added knowledge and service base economy, as well as becoming one of the leading Member States in implementing the EU 2020 Strategy, will not be achieved if the NCF  isolates  itself  from  the  nation's  economic aspirations and goals.
+Whilst recognising the importance of learners who are engaged citizens who are able to strive for social justice in constantly changing local, regional and global realities, the Working Group also recognises the paramount importance of the economic dimension in education. In a global environment that is increasingly becoming more complex, knowledge-based, and intrinsically intertwined with information, communications and technology the education system cannot be divested from the importance of the ability of Malta’s future adults to successfully make the transition not just into employment, but into value-added employment. The development of Malta’s vision as a high value-added knowledge and service base economy, as well as becoming one of the leading Member States in implementing the EU 2020 Strategy, will not be achieved if the NCF isolates itself from the nation’s economic aspirations and goals.
 
-> 3 Pg  33,  Industry  Strategy  for  Malta:    2007  -  2010: Enabling Industry to Achieve High Value Added and Productivity Growth, Department of Information, 2006
+A further contribution of the education system to the economic dimension is that of strengthening Malta’s comparative advantages. Malta’s human resource capital constitutes a comparative advantage. Studies show that foreign and local employers consider Maltese workers to be hard-working, flexible, intelligent, adaptable, trainable and diligent but caution that “potential dangers lurk: entrepreneurial spirit, discipline, work ethos, self-development in young and emerging workers are perceived to be regressing when compared to workers who are 30 years of age and over.”³ A second comparative advantage is the English and Multi-lingual skills base developed during schooling. This is seen to give Malta an added edge on mainstream Europe and North Africa as English is both the business language and the technology and ICT language; the safeguarding of the ability to write and speak good English is imperative. Here too, however, studies caution that “potential dangers lurk [as] young and emerging workers are seen to have a lower command of the English language compared to workers who are 30 years of age and over.”⁴ The high competency levels in foreign language teaching and learning developed by young people in Malta during the compulsory schooling have been confirmed in the results of the European Survey on Language Competences – 2011. This strength must be sustained in our education system.
+
+In today’s complex world the reality is that the economic, social, political, and environment ripples of nations at the other end of the world have a quasi immediate and pervasive impact on Malta’s well being. In the face of such a reality the contribution of Malta’s education system towards the development of learners who can manage such global affects by having the necessary knowledge, competencies and skills to allow them to re-skill themselves and have increased mobility becomes imperative.
+
+Equally important, however, is the fact that an education system that equips tomorrow’s future adults with knowledge, skills, competencies, attitudes and values to make the transition to employment will be more likely to secure a state of play which allows them to enjoy a quality of life based on their self worth. Securing the values, knowledge, competencies and skills to enjoy employment is, also, a form of social justice as it ensures that they do not run the risk of becoming dependent on the State for their well-being because the education system would have failed them.
+
+> 3 Pg 33, Industry Strategy for Malta: 2007 – 2010: Enabling Industry to Achieve High Value Added and Productivity Growth, Department of Information, 2006
 
 > 4 Ibid
-
-A further contribution of the education system to the economic dimension is that of strengthening Malta's comparative advantages.  Malta's human resource capital constitutes a comparative advantage.  Studies show that foreign and local employers consider Maltese workers to be hardworking, flexible, intelligent, adaptable, trainable and diligent but caution that 'potential dangers lurk: entrepreneurial spirit, discipline, work ethos,  self-development  in  young  and  emerging workers  are  perceived  to  be  regressing  when compared to workers who are 30 years of age and over.' 3     A  second  comparative  advantage  is  the English  and  Multi-lingual  skills  base  developed during schooling.  This is seen to give Malta an added  edge  on  mainstream  Europe  and  North Africa as English is both the business language and the technology and ICT language; the safeguarding of the ability to write and speak good English is imperative.  Here too, however, studies caution  that  'potential  dangers  lurk  [as]  young and emerging workers are seen to have a lower command  of  the  English  language  compared to  workers  who  are  30  years  of  age  and  over.' 4 The high competency levels in foreign language teaching and learning developed by young people in  Malta  during  the  compulsory  schooling  have been  confirmed  in  the  results  of  the European Survey  on  Language  Competences  -  2011 . This strength  must  be  sustained  in  our  education system.
-
-In  today's  complex  world  the  reality  is  that  the economic, social, political, and environment ripples of nations at the other end of the world have a quasi immediate and pervasive impact on Malta's well being.  In the face of such a reality the contribution of Malta's education system towards the development of learners who can manage such global affects by having the necessary knowledge, competencies and skills to allow them to re-skill themselves and have increased mobility becomes imperative.
-
-Equally  important,  however,  is  the  fact  that  an education system that equips tomorrow's future adults with knowledge, skills, competencies, attitudes  and  values  to  make  the  transition  to employment will be more likely to secure a state of play which allows them to enjoy a quality of life based on their self worth.  Securing the values, knowledge,  competencies  and  skills  to  enjoy employment is, also, a form of social justice as it ensures that they do not run the risk of becoming dependent  on  the  State for their well-being because the education system would have failed them.
 
 7
 
@@ -569,15 +679,19 @@ Equally  important,  however,  is  the  fact  that  an education system that equ
 
 ###### Conclusion 03
 
-The Working  Group  re-affirms the aims of education as  (i)  Learners  who  are  capable  of successfully  developing  their  full  potential  as lifelong  learners;  (ii)  Learners  who  are  capable of sustaining their chances in the world of work;
+The Working Group re-affirms the aims of education as (i) Learners who are capable of successfully developing their full potential as lifelong learners; (ii) Learners who are capable of sustaining their chances in the world of work; and (iii) Learners who are responsibly engaged citizens who are able to secure social justice in constantly changing local, regional and global realities.
 
 ##### 01.2.3 The Learning Areas
 
 ###### 01.2.3.1 The Early Years
 
-The  consultation  feedback  with  regard  to  the Early Years Cycle of education was positive.  The main concerns expressed on the Early Years are a need for:
+The consultation feedback with regard to the Early Years Cycle of education was positive. The main concerns expressed on the Early Years are a need for:
 
 - The strengthening of the transition process between Kindergarten and Years 1 and 2.
+
+- A structured process that allows for the early identification of learners who are struggling in meeting the learning outcomes so that the appropriate action is taken at the right time.
+
+- A pedagogy based and contextualised on learning outcomes and their determinants: that is the particular knowledge, competencies, skill, attitude or value that a learner is expected to develop and exhibit at the end of the Early Years Cycle.
 
 ###### 01.2.3.2 The Primary and Secondary Years
 
@@ -586,15 +700,9 @@ Following a review of the feedback received, the Working Group presents the foll
 Languages | For both Maltese and English, the exposure to language learning is to be interpreted in the broader sense and thus incorporate both language and literature with at least a minimum of half the lessons being devoted to the development of the different language skills. In addition to the compulsory languages (Maltese and English), learners choose one or two foreign languages during their Secondary years. Students following individual learning programmes may have some adaptation to this entitlement.
 --- | ---
 Mathematics | This Learning Area will include financial literacy aspects such as mathematical and financial understanding as learning outcomes.
-Science and Technology | This Learning Area is directed to provide a clear understanding across the education Cycles of how the process of inquiry and investigation leads to the development of solutions and their application. This is to be achieved through a pedagogical approach of 'purposeful design and inquiry' that combines technological design with scientific inquiry, engaging students or teams of students in scientific inquiry situated in the context of technological problem- solving.
+Science and Technology | This Learning Area is directed to provide a clear understanding across the education Cycles of how the process of inquiry and investigation leads to the development of solutions and their application. This is to be achieved through a pedagogical approach of 'purposeful design and inquiry' that combines technological design with scientific inquiry, engaging students or teams of students in scientific inquiry situated in the context of technological problem-solving.
 Health & Physical Education | This Learning Area remains unchanged from the original proposals presented in the Draft Consultation Document.
 Religious and Ethics Education | The Working Group acknowledges the importance of an alternative programme to Catholic Religious Education (CRE) for students opting out of CRE. This is being identified as Ethics Education. It also recognises the position presented by the Church Schools namely that the essence of their schools is deeply rooted in a core set of beliefs derived from the Catholic Religious Faith. The Working Group therefore recommends the delivery of an Ethics Education Programme provided that the ethos of each individual school and / or logistical considerations, allow this provision. An Ethics Education Programme is preferred over a Comparative Religious Education programme.
-
-and  (iii)  Learners  who  are  responsibly  engaged citizens who are able to secure social justice in constantly  changing  local,  regional  and  global realities.
-
-- A structured process that allows for the early identification of learners who are struggling in  meeting  the  learning  outcomes  so  that the appropriate action is taken at the right time.
-
-- A  pedagogy  based  and  contextualised  on learning outcomes and their determinants: that is the particular knowledge, competencies, skill, attitude or value that a learner is expected to develop and exhibit at the end of the Early Years Cycle.
 
 8
 
@@ -621,7 +729,7 @@ Digital Literacy | Through this cross curricular theme students will acquire ski
 Learning to Learn and Co-operative Learning | Learning to learn is seen to be a priority in Malta's education context as it provides the ability to pursue and persist in learning - which in turn ties to increased importance of lifelong learning within a knowledge society and economy. The co-operative learning concept allows a learner to actively engage with his or her peers. In doing so they are together able to learn several processes such as processing and synthesising information, solving problems, and creating products together. Such a context also allows for social development among students. This will ensure that the learning moves towards learner-centred approaches.
 Education for Sustainable Development | This cross curricular theme remains unchanged from the original proposals presented in the draft Consultation document.
 
-5 The  Report  is  available  at:    http://ec.europa.eu/education/literacy/what-eu/high-level-group/documents/literacyfinal-report_en.pdf
+5 The Report is available at: http://ec.europa.eu/education/literacy/what-eu/high-level-group/documents/literacy-final-report_en.pdf
 
 9
 
@@ -629,7 +737,7 @@ Education for Sustainable Development | This cross curricular theme remains unch
 
 [[START OF PAGE 28]]
 
-Education for Entrepreneurship Creativity and Innovation | The National Strategy for Research and Innovation: 2007-2010, and subsequently reinforced by the draft 2011-2020 Research and Innovation Strategy respectively establish a rational need for the development of a pro- innovation culture supportive of invention, risk-taking and entrepreneurship. Thus, the Working Group, in order to assure coherency with the 2011 - 2020 National Strategy for R&I, converges the previously separate cross curricular themes of Education for Entrepreneurship and Creativity and Innovation as one cross curricular theme entitled 'Education for Entrepreneurship, Creativity and Innovation'.
+Education for Entrepreneurship Creativity and Innovation | The National Strategy for Research and Innovation: 2007-2010, and subsequently reinforced by the draft 2011-2020 Research and Innovation Strategy respectively establish a rational need for the development of a pro-innovation culture supportive of invention, risk-taking and entrepreneurship. Thus, the Working Group, in order to assure coherency with the 2011 – 2020 National Strategy for R&I, converges the previously separate cross curricular themes of Education for Entrepreneurship and Creativity and Innovation as one cross curricular theme entitled 'Education for Entrepreneurship, Creativity and Innovation'.
 --- | ---
 Education for Diversity | The cross curricular theme of Intercultural Education as presented in the draft NCF, is too narrow and tends to limit diversity to multiculturalism. The Working Group agrees that this theme should seek to imbue values that respect diversity. This encompasses that an individual is unique and recognises individual differences whether these stem from dimensions of race; ethnicity; gender; sexual orientation; socio-economic status, age; physical, mental or intellectual abilities; religious beliefs; political beliefs; or other ideologies.
 
@@ -651,6 +759,9 @@ The  Working  Group  underlines  that  educators are to use the NCF to develop l
 
 To  achieve  these  six  conclusions,  the  Working Group  established  the  Cycles  of  education  as follows:
 
+Early Years Cycle
+KG I | KG II | Y1 | Y2
+
 > 6 'Directorates' always refers to the Directorate for Quality and  Standards  in  Education  and  the  Directorate  for Educational Services.
 
 10
@@ -661,7 +772,14 @@ To  achieve  these  six  conclusions,  the  Working Group  established  the  Cyc
 
 The  Early  Years  Cycle  will  integrate  the  period from  KGI  to  Year  2.    This  integration  ensures continuity in the development of the child between  KGI  to  Year  2  at  his  or  her  pace  of learning  and  thereby  allowing  for  everyone  to integrate in the system.  Additionally integrating the  period  between  the  kindergarten  years  and Years 1 and 2 allows for the design of a seamless learning outcomes framework for the Early Years.  This will minimise the existing transition problems  between  KGII  and  Year  1  (strongly emphasised in the consultation feedback) due to the  considerable  stepping-up  that  learners  are expected to make in Year 1.  Moreover, the design of a Learning Outcomes Framework for the Early Years Cycle will ensure that each child will have the  appropriate  preparation  for  the  subsequent transition into the Junior Years Cycle.
 
+Early Years Cycle | Junior School Years Cycle
+Y2 | Y3 | Y4 | Y5 | Y6
+
 The Junior Years Cycle will cover Year 3 to Year 6  -  which  is  the  period  within  which  learning becomes formalised. In State schools as well as in a number of Church and Independent Schools learners sit for a formal examination for the first time.  The Junior Years Cycle will be structured in a manner that identifies learners who may be struggling  as  they  move  into  Year  3  or  as  they progress within the Junior School Cycle so that the appropriate guidance and encouragement is provided to such learners at the right time.
+
+Junior School Years Cycle | Secondary School Years Cycle
+Y6 | Y7 | Y8 | Y9 | Y10 | Y11
+ | FI | FII | FIII | FIV | FV
 
 The Secondary Years Cycle includes Years 7 to 11. Year 7 (Form I) of the Secondary Years Cycle anchors the transition from the final year of the Junior  Years  Cycle  to  the  acquirement  of  the Learning Outcomes by the end of Year 8 (Form II).  In doing so, it will seek to ensure that by Year
 
@@ -685,7 +803,7 @@ The  Working  Group  has  identified  the  learning outcomes of the three educat
 
 The subjects within the Learning Areas are to be directed to the learning outcomes of the different Cycles of the NCF. The same principle applies to assessment and examinations. This means that a  governance framework that assures a linkage between  the  learning  outcomes,  programmes of  learning  and  assessment  and  examinations, becomes  very  important.    In  this  regard,  the Working  Group  concludes  that  a  governance framework needs to be set up that enhances and synergises the structures already in place.
 
-The governance framework will be achieved through the setting up of a Learning Outcomes Framework Board which will be chaired by the Director  General  of  the  DQSE..    The  Learning Outcomes Framework Board will include stakeholders from the Directorates of Education, the School Sectors, the National Commission for Further  and  Higher  Education,  the  Faculty  of Education, the University of Malta, the MATSEC Board and the Council for the Teaching Profession amongst others. It will be responsible for:
+The governance framework will be achieved through the setting up of a Learning Outcomes Framework Board which will be chaired by the Director General of the DQSE.. The Learning Outcomes Framework Board will include
 
 11
 
@@ -693,11 +811,38 @@ The governance framework will be achieved through the setting up of a Learning O
 
 [[START OF PAGE 30]]
 
+stakeholders from the Directorates of Education, the School Sectors, the National Commission for Further and Higher Education, the Faculty of Education, the University of Malta, the MATSEC Board and the Council for the Teaching Profession amongst others. It will be responsible for:
+
 - Learning outcomes of the Early Years from K1 to Y2.
 
-- Learning  outcomes  of  the  Learning  Areas and Cross Curricular themes from Year 3 to Year 11.
+- Learning outcomes of the Learning Areas and Cross Curricular themes from Year 3 to Year 11.
 
-- Specific  outcomes  for  each  subject  within the  Learning  Area  which  also  include  the cross curricular themes from Year 3 to year 11.
+- Specific outcomes for each subject within the Learning Area which also include the cross curricular themes from Year 3 to year 11.
+
+MATSEC Board
+Examination Paper Setters' Board (per subject)
+SEC Examination Papers
+Subject Syllabi
+Learning Outcomes Framework
+Consultation
+Director General, Directorate for Quality and Standards in Education, Chair
+Teachers
+MATSEC Board
+Faculty of Education
+NCFHE
+School Sectors
+Learning Outcome Framework Board
+Parents
+Others
+Learning Areas Panels
+Languages
+Humanities
+Education for Democracy
+Mathematics
+Religion and Ethics
+Health and Physical Education
+Science and Technology
+Visual and Performing Arts
 
 Figure 01: Relationship between Learning Outcomes, Programmes of Learning and Assessment, and Examinations
 
@@ -709,7 +854,7 @@ The Working Group establishes that the programmes of learning and the standards 
 
 ##### 01.2.7 Aligning Learning Outcomes with the Level Descriptors of the Malta's Qualifications Framework
 
-The Working Group contends that the NCF is to respond to consistent developments at the macro levels of the system of education. One important development in the system of education was the setting  up  in  2007  of  the  Malta  Qualifications Framework  for  Lifelong  Learning  (MQF).    The MQF Level descriptors at levels 1 to 3 indicate the desired level of knowledge, skills and competences that every young person needs to achieve in order to  move  into  lifelong  learning  or  employment or  both.    The  2009  Referencing  Report  of  the Malta  Qualifications  Framework  (MQF)  to  the European Qualifications Framework (EQF) gives a  detailed  account  of  how  the  level-descriptors of  the  first  three  levels  of  the  MQF  build  the necessary  knowledge,  skills  and  competences to enable young people to move up the ladder of the  qualifications  framework.  The  NCF  mirrors these level descriptors through the learning areas and  specific  subjects  throughout  the  years  of compulsory education.
+The Working Group contends that the NCF is to respond to consistent developments at the macro levels of the system of education. One important development in the system of education was the setting up in 2007 of the Malta Qualifications Framework for Lifelong Learning (MQF). The MQF Level descriptors at levels 1 to 3 indicate the desired level of knowledge, skills and competences
 
 12
 
@@ -717,7 +862,9 @@ The Working Group contends that the NCF is to respond to consistent developments
 
 [[START OF PAGE 31]]
 
-The NCF stresses the importance of all learners to  acquire  core  competences  particularly  those that transverse all other areas of study namely: the Mother tongue and a second language (which in our case means Maltese and English); Mathematics; Science and Technology; and Information Technology/ Digital Literacy. Mastery  in  these  core  competences  opens  a gateway to lifelong learning.  In order to ensure that  young  learners  reach  the  required  levels after  compulsory  education,  school  leaders  and teachers  are  encouraged  to  give  attention  to these key competences in the context of the leveldescriptors of the MQF.  It is therefore important that school leaders and teachers are familiar with the  level-descriptors  of  the  MQF  so  that  they gauge  their  success  through  the  step-by-step process that the framework itself indicates. For ease of reference, the level descriptors of the MQF at Levels 1, 2 and 3 are included in this document in Appendix IV.
+that every young person needs to achieve in order to move into lifelong learning or employment or both. The 2009 Referencing Report of the Malta Qualifications Framework (MQF) to the European Qualifications Framework (EQF) gives a detailed account of how the level-descriptors of the first three levels of the MQF build the necessary knowledge, skills and competences to enable young people to move up the ladder of the qualifications framework. The NCF mirrors these level descriptors through the learning areas and specific subjects throughout the years of compulsory education.
+
+The NCF stresses the importance of all learners to acquire core competences particularly those that transverse all other areas of study namely: the Mother tongue and a second language (which in our case means Maltese and English); Mathematics; Science and Technology; and Information Technology/ Digital Literacy. Mastery in these core competences opens a gateway to lifelong learning. In order to ensure that young learners reach the required levels after compulsory education, school leaders and teachers are encouraged to give attention to these key competences in the context of the level-descriptors of the MQF. It is therefore important that school leaders and teachers are familiar with the level-descriptors of the MQF so that they gauge their success through the step-by-step process that the framework itself indicates. For ease of reference, the level descriptors of the MQF at Levels 1, 2 and 3 are included in this document in Appendix IV.
 
 Linked  to  the  MQF  is  the  objective  to  produce a  Learning  Outcomes  Framework  (LOF)  that emanates from the NCF.  As well as the general learning outcomes for the Early Years, the LOF will identify the learning outcomes for the Junior Years  and  the  Secondary  School  Cycles  for  the different  learning  areas/subjects.  The LOF will then  serve  as  the  reference  point  on  which  the different programmes of learning and assessment are to be built.
 
@@ -765,6 +912,17 @@ As shown in Figure 02 below, five stages are to be introduced: three for benchma
 
 In addition, there will be a periodic non-intrusive external  monitoring  mechanism  at  two  points: once  during  the  Junior  Cycle  and  once  during the Secondary Cycle. This will involve samples of schools and students in the three sectors and a specified number of learning areas per year over a cycle of years yet to be determined covering the different areas.
 
+Report and Profile for all Learners
+Benchmark for all Learners in State Schools; Non State Schools invited to participate
+SEC Examination
+Early Years Cycle | Junior School Years Cycle | Secondary School Years Cycle
+KG I | KG II | Y1 | Y2 | Y3 | Y4 | Y5 | Y6 | Y7 | Y8 | Y9 | Y10 | Y11
+ | | | | | | | | FI | FII | FIII | FIV | FV
+Monitoring of Curriculum in Junior school Years
+DQSE to determine year group and learning area/s
+Monitoring of Curriculum in Secondary school Years
+DQSE to determine year group and learning area/s
+
 Figure 02: Monitoring and Benchmarking the Education System
 
 14
@@ -775,7 +933,7 @@ Figure 02: Monitoring and Benchmarking the Education System
 
 ###### Conclusion 11
 
-As a quality  assurance  measure,  t he Working Group has determined three occasions for benchmarking and two occasions for monitoring during compulsory education. Benchmarking will take  place  at  the  end  of  the  Early  Years  Cycle, at the end of the Junior Years Cycle and at the end of the Secondary School Cycle.  Assessment will be an individual level at the juncture between Years 2 and Year 3 and at the end of Year 6. These benchmarking  exercises  will  be  compulsory  for State  schools  while  Church  and  Independent schools will be invited to participate. At the end of  Year  11,  the  SEC  examination  results  will continue  to  have  a  benchmarking  function  as well.
+As a quality assurance measure, the Working Group has determined three occasions for benchmarking and two occasions for monitoring during compulsory education. Benchmarking will take place at the end of the Early Years Cycle, at the end of the Junior Years Cycle and at the end of the Secondary School Cycle. Assessment will be an individual level at the juncture between Years 2 and Year 3 and at the end of Year 6. These benchmarking exercises will be compulsory for State schools while Church and Independent schools will be invited to participate. At the end of Year 11, the SEC examination results will continue to have a benchmarking function as well.
 
 In  addition,  there  will  be  periodic  non-intrusive external monitoring at two points during compulsory  education:  once  during  the  Junior Cycle and once during the Secondary Cycle. This will  involve  samples  of  schools  and  students  in the State, Church and Independent sectors and a specified number of learning areas per year over a cycle of years yet to be determined covering the different areas.
 
@@ -857,29 +1015,23 @@ It  is  important  to  underline  that  this  approach of establishing percentag
 
 The figure below shows the percentage minimum entitlement  for  the  different  Learning  Areas  in the Junior Years Cycle.  The Working Group is of  the  considered  opinion  that  60%  of  the  time is  dedicated  to  Maltese,  English,  Mathematics and Science and Technology.  During this Cycle, the  school-based  decisions  make  up  15%  of the  curriculum  time  available  for  learning  and teaching.
 
+LEARNING AREAS % DISTRIBUTION - JUNIOR YEARS CYCLE
+
 30.0% LANGUAGES
 
 15.0% MATHEMATICS
 
 15.0% SCIENCE & TECHNOLOGY
 
-5.0% HEALTH & PHYSICAL
+5.0% HEALTH & PHYSICAL EDUCATION
 
-EDUCATION
+5.0% RELIGIOUS & ETHICS EDUCATION
 
-5.0% RELIGIOUS & ETHICS
-
-EDUCATION
-
-10.0% HUMANITIES & EDUCATION
-
-FOR DEMOCRACY
+10.0% HUMANITIES & EDUCATION FOR DEMOCRACY
 
 5.0% VISUAL & PERFORMING ARTS
 
 15.0% SCHOOL-BASED CHOICES
-
-LEARNING AREAS % DISTRIBUTION - JUNIOR YEARS CYCLE
 
 The  minimum  entitlement  for  the  Secondary Years Cycle is worked out on a 37 to 40 lesson week.
 
@@ -889,35 +1041,13 @@ During  the  Secondary  Years  Cycle  the  Working Group is of the considered op
 
 55% of the time is dedicated to Maltese, English, Mathematics and Science and Technology.
 
-During the lower Secondary Years school-based decisions are to make up 20% of the curriculum time  available  for  learning  and  teaching,  which includes the Optional subjects During the senior Secondary Years, school-based decisions will increase to 25% of the curriculum time available in order to allow for the different realities  surrounding  the  Options  in  the  three education Sectors.
+During the lower Secondary Years school-based decisions are to make up 20% of the curriculum time available for learning and teaching, which includes the Optional subjects
 
 17
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
-
-30.0% LANGUAGES
-
-12.5% MATHEMATICS
-
-12.5% SCIENCE & TECHNOLOGY
-
-5.0% HEALTH & PHYSICAL
-
-EDUCATION
-
-5.0% RELIGIOUS & ETHICS
-
-EDUCATION
-
-10.0% HUMANITIES & EDUCATION
-
-FOR DEMOCRACY
-
-5.0% VISUAL & PERFORMING ARTS
-
-20.0% SCHOOL-BASED CHOICES
 
 LEARNING AREAS % DISTRIBUTION - LOWER SECONDARY YEARS CYCLE
 
@@ -927,21 +1057,31 @@ LEARNING AREAS % DISTRIBUTION - LOWER SECONDARY YEARS CYCLE
 
 12.5% SCIENCE & TECHNOLOGY
 
-10.0% HEALTH & PHYSICAL
+5.0% HEALTH & PHYSICAL EDUCATION
 
-EDUCATION
+5.0% RELIGIOUS & ETHICS EDUCATION
 
-10.0% RELIGIOUS & ETHICS
+10.0% HUMANITIES & EDUCATION FOR DEMOCRACY
 
-EDUCATION; HUMANITIES;
+5.0% VISUAL & PERFORMING ARTS
 
-EDUCATION FOR DEMOCRACY;
+20.0% SCHOOL-BASED CHOICES
 
-VISUAL & PERFORMING ARTS
-
-25.0% SCHOOL-BASED CHOICES
+During the senior Secondary Years, school-based decisions will increase to 25% of the curriculum time available in order to allow for the different realities surrounding the Options in the three education Sectors.
 
 LEARNING AREAS % DISTRIBUTION - SENIOR SECONDARY YEARS CYCLE
+
+30.0% LANGUAGES
+
+12.5% MATHEMATICS
+
+12.5% SCIENCE & TECHNOLOGY
+
+10.0% HEALTH & PHYSICAL EDUCATION
+
+10.0% RELIGIOUS & ETHICS EDUCATION; HUMANITIES; EDUCATION FOR DEMOCRACY; VISUAL & PERFORMING ARTS
+
+25.0% SCHOOL-BASED CHOICES
 
 ###### Conclusion 19
 
@@ -963,7 +1103,7 @@ The  Working  Group  cautions  that  the  level  of re-skilling  and  up-skillin
 
 The  Working  Group  cautions  that  for  the  NCF to  be  successfully  implemented,  the  sustained and  continued up-skilling and re-skilling of educators' competencies to deliver the new pedagogies  requires  a  structured  professional development programme that goes beyond what the current structure for training permits.  The Working Group underlines that there is a need for the Directorates to consult with the Malta Union of  Teachers  so  that  a  solution  on  this  urgent matter is presented to the various stakeholders.
 
-##### 01.2.13 Securing Seamless Transition between the Secondary Cycle for Education and PostSecondary Education
+##### 01.2.13 Securing Seamless Transition between the Secondary Cycle for Education and Post-Secondary Education
 
 The  Working  Group  recognises  the  concerns raised by most stakeholders that a NCF based on a  student-centred  and  inquiry-based  pedagogy requires a continuum of education not only across the  three  Cycles  of  education  governed  by  this document but also with Post-Secondary education and beyond. It is, however, pertinent to underline that the responsibility of the DQSE on the design of the NCF is limited to the three Cycles of education addressed  in  this  document.    In  this  scenario, the Working Group recommends structured and formal discussion on the implications of the NCF for Post-Secondary Education with the interested stakeholders.  Indeed, discussions on this matter should commence as soon as possible.
 
@@ -997,14 +1137,12 @@ High Level Representation of knowledge, skills, competencies,  attitudes and  va
 
 THE EARLY YEARS CYCLE | THE JUNIOR YEARS CYCLE | THE SECONDARY YEARS CYCLE
 --- | --- | ---
-Outcome 1: Children who develop a strong sense of identity | Outcome 1: Learners who are capable of successfully developing their full potential as lifelong learners
+Outcome 1: Children who develop a strong sense of identity | Outcome 1: Learners who are capable of successfully developing their full potential as lifelong learners |
 Children who develop in a safe and secure environment which they can trust. Children who develop a sense of independence and autonomy. Children who become responsible and resilient in the face of challenges. | Children who are confident and able to establish effective relationships with other children and with adults, leading to positive self esteem, self confidence and self awareness. | Young people who acquire personal and social skills required to handle an ever changing social reality. Young people who uphold fundamental democratic values and promote social justice.
 Outcome 2: Children who have a positive self-image | Children who are able to value, appreciate and interact with their immediate environment. | Young people who develop a critical, mature and informed outlook of their faith and who respect individuals of different beliefs
-Children who gain confidence in themselves and their achievements. Children who develop positive attitudes which enable them to take the initiative and become risk-takers.
-Children who competently use the range of age-appropriate language skills in both Maltese and English. Children who are able to recognise and value the importance of foreign language for communication purposes. | Young people who are able to communicate effectively in at least three languages including Maltese and English.
+Children who believe in themselves, fully aware of their potential and capabilities. Children who gain confidence in themselves and their achievements. Children who develop positive attitudes which enable them to take the initiative and become risk-takers. | Children who competently use the range of age-appropriate language skills in both Maltese and English. Children who are able to recognise and value the importance of foreign language for communication purposes. | Young people who are able to communicate effectively in at least three languages including Maltese and English.
 Outcome 3: Children who are socially adept | Children who are able to apply basic numeracy and problem solving skills. | Young people who are able to apply mathematical and scientific concepts in daily life.
-Children who are capable of establishing relationships with others. Children who develop empathy, respect and acceptance of different points of view. Children who develop an awareness of the notions of fairness, a sense of justice and | Children who are able to engage confidently with basic levels of technology.
-non-preferential treatment. | Young people who possess a mastery of literacy, numeracy and digital literacy. Young people who develop an inquiry-based approach to continual learning.
+Children who are capable of establishing relationships with others. Children who develop empathy, respect and acceptance of different points of view. Children who develop an awareness of the notions of fairness, a sense of justice and non-preferential treatment. | Children who are able to engage confidently with basic levels of technology. | Young people who possess a mastery of literacy, numeracy and digital literacy. Young people who develop an inquiry-based approach to continual learning.
 
 21
 
@@ -1014,15 +1152,15 @@ non-preferential treatment. | Young people who possess a mastery of literacy, nu
 
 Children who learn to collaborate with peers and adults with diverse backgrounds and needs. | Children who are able to demonstrate a positive disposition towards investigation, designing and making, testing and reporting at elementary levels. | Young people who are able to understand higher order concepts and corresponding underlying principles.
 --- | --- | ---
-Children who are able to express their own ideas and experiment with different ways of solving problems. | Young people who are able to think critically and creatively, anticipate consequences, recognise opportunities and are risk- takers.
-Children who are able to appreciate, respond to, participate in and experiment with basic creative performances and expression. | Young people who participate in the creative use of the expressive arts and engage in aesthetic appreciation.
-Young people who are equipped with the necessary qualifications to gain access to further and higher education
-Outcome 4: Children who are effective communicators | Outcome 2: Learners who are capable of sustaining their chances in the world of work
-Children who are capable of using different forms of media for communication. Children who interact and engage with varieties of text and | Children who are able to communicate with confidence utilising various communication skills and media. | Young people who are able to communicate confidently and effectively in different social contexts.
-printed material increasing their awareness of purposes/functions of print. | Children who are able to apply basic ICT skills whilst observing netiquette and online safety measures. | Young people who can use and apply a variety of digital technologies.
-Children who gain familiarity with symbols and patterns and their use. Children who become aware of different language systems, notably L1 and L2. Children who engage with digital literacy as a means of retrieving data as well as representing and communicating ideas. | Children who are able to learn and to adapt to changes. Children who are able to adapt to an environment of geographic change. | Young people who are motivated to adapt to the changing needs of society through self-evaluation and on-going training
-Children who are versatile with the use of numbers, data handling, shapes and measurement and print in | Children who are able to take the initiative and are capable of working independently and collaboratively. Children who are able to create and to experiment with the basics of entrepreneurship. | Young people who are able to establish and maintain innovative enterprises both individually and in collaboration with others.
-context as a means of production of knowledge and information as well as meaning making and comprehension. | Children who are able to use curiosity for positive judgment. | Young people who are able to ethically prioritise economic values to ensure stability and autonomy.
+ | Children who are able to express their own ideas and experiment with different ways of solving problems. | Young people who are able to think critically and creatively, anticipate consequences, recognise opportunities and are risk-takers.
+ | Children who are able to appreciate, respond to, participate in and experiment with basic creative performances and expression. | Young people who participate in the creative use of the expressive arts and engage in aesthetic appreciation.
+ | | Young people who are equipped with the necessary qualifications to gain access to further and higher education
+Outcome 4: Children who are effective communicators | Outcome 2: Learners who are capable of sustaining their chances in the world of work |
+Children who are capable of using different forms of media for communication. Children who interact and engage with varieties of text and printed material increasing their awareness of purposes/functions of print. Children who gain familiarity with symbols and patterns and their use. Children who become aware of different language systems, notably L1 and L2. Children who engage with digital literacy as a means of retrieving data as well as representing and communicating ideas. Children who are versatile with the use of numbers, data handling, shapes and measurement and print in context as a means of production of knowledge and information as well as meaning making and comprehension. | Children who are able to communicate with confidence utilising various communication skills and media. | Young people who are able to communicate confidently and effectively in different social contexts.
+ | Children who are able to apply basic ICT skills whilst observing netiquette and online safety measures. | Young people who can use and apply a variety of digital technologies.
+ | Children who are able to learn and to adapt to changes. Children who are able to adapt to an environment of geographic change. | Young people who are motivated to adapt to the changing needs of society through self-evaluation and on-going training
+ | Children who are able to take the initiative and are capable of working independently and collaboratively. Children who are able to create and to experiment with the basics of entrepreneurship. | Young people who are able to establish and maintain innovative enterprises both individually and in collaboration with others.
+ | Children who are able to use curiosity for positive judgment. | Young people who are able to ethically prioritise economic values to ensure stability and autonomy.
 
 22
 
@@ -1030,16 +1168,16 @@ context as a means of production of knowledge and information as well as meaning
 
 [[START OF PAGE 41]]
 
-Young people who show flexibility and are prepared to deal with job mobility. Young people who are sensitive to the inter- relatedness of the various spheres of life, groups and individuals.
+ | | Young people who show flexibility and are prepared to deal with job mobility. Young people who are sensitive to the inter-relatedness of the various spheres of life, groups and individuals.
 --- | --- | ---
-Children who appreciate their environment and act positively in favour of sustainability. | Young people who are committed towards the improvement of their quality of life and that of others. Young people who feel empowered in decision- making processes at the various levels of sustainable development.
-Outcome 5: Children who nurture positive attitudes towards learning and become engaged and confident learners | Outcome 3: Learners who are engaged citizens who are able to secure social justice in constantly changing local, regional and global realities
-Children who develop a range of cognitive skills to include labelling/identifying, recognition, sorting, hypothesising, predicting, comparing, sequencing, and grouping. Children who develop positive dispositions to include enthusiasm and motivation, curiosity, questioning, concentration, perseverance, imagination, ability to accept alternative suggestions / criticism. Children who broaden their knowledge and reinforce | Children who view diversity as a cohesive force rather than a dividing force. | Young people who value and work in favour of a democratic and inclusive society.
-Children who appreciate and promote their Maltese culture and heritage. | Young people who appreciate and respect the Maltese culture and heritage.
-Children who appreciate their Mediterranean, European and global contexts. | Young people who take pride in the Maltese identity, heritage and language while recognising and respecting others within a Mediterranean, European and globalised context.
-availability of and access to various sources of information. | Children who value and respect difference whilst recognising similarities. | Young people who act in favour of the common good, social cohesion and social justice.
-Children who develop an awareness of their rights and responsibilities as active citizens. | Young people who make and adhere to commitments.
-Children who adopt a healthy and active lifestyle, conscious of the long-lasting implications of their decision in this respect. | Young people who adopt a healthy and active lifestyle and appreciate and know how to make good use of leisure time.
+ | Children who appreciate their environment and act positively in favour of sustainability. | Young people who are committed towards the improvement of their quality of life and that of others. Young people who feel empowered in decision-making processes at the various levels of sustainable development.
+Outcome 5: Children who nurture positive attitudes towards learning and become engaged and confident learners | Outcome 3: Learners who are engaged citizens who are able to secure social justice in constantly changing local, regional and global realities |
+Children who develop a range of cognitive skills to include labelling/identifying, recognition, sorting, hypothesising, predicting, comparing, sequencing, and grouping. Children who develop positive dispositions to include enthusiasm and motivation, curiosity, questioning, concentration, perseverance, imagination, ability to accept alternative suggestions / criticism. Children who broaden their knowledge and reinforce their understanding through availability of and access to various sources of information. | Children who view diversity as a cohesive force rather than a dividing force. | Young people who value and work in favour of a democratic and inclusive society.
+ | Children who appreciate and promote their Maltese culture and heritage. | Young people who appreciate and respect the Maltese culture and heritage.
+ | Children who appreciate their Mediterranean, European and global contexts. | Young people who take pride in the Maltese identity, heritage and language while recognising and respecting others within a Mediterranean, European and globalised context.
+ | Children who value and respect difference whilst recognising similarities. | Young people who act in favour of the common good, social cohesion and social justice.
+ | Children who develop an awareness of their rights and responsibilities as active citizens. | Young people who make and adhere to commitments.
+ | Children who adopt a healthy and active lifestyle, conscious of the long-lasting implications of their decision in this respect. | Young people who adopt a healthy and active lifestyle and appreciate and know how to make good use of leisure time.
 
 23
 
@@ -1051,7 +1189,9 @@ The  desired  learning  outcomes  of  the  NCF  will best  be  gauged  at  the  
 
 In  essence,  therefore,  if  the  education  system over  the  three  Cycles  of  education  would  have performed and delivered the learning outcomes as planned, then it would be reasonable to assume that  the  desired  outcomes  of  education  would result in the following outputs:
 
-2012 | 2026/2027
+Table 1 : Outcomes of Education 2012 and Targets Set for 2027
+
+ | 2012 | 2026/2027
 --- | --- | ---
 % of 19 year-old students participating in further and higher education excluding Post-Secondary education 7 | - | 40%
 % of 17 year-old-students participating in further and higher education | 80% + | 90%
@@ -1063,11 +1203,9 @@ PISA Mathematical Literacy (Levels 2 to 6) | 66.4% | 80%
 PISA Scientific Literacy (Levels 2 to 6) | 67.5% | 80%
 TIMSS Mathematics (Intermediate to Advanced) | 60% | 70%
 TIMSS Science (Intermediate to Advanced) | 48% | 60%
-SurveyLang
+SurveyLang | |
 English (A2-B2) | 91% | 95%
 Italian (A2-B2) | 50% | 70%
-
-Table 1 : Outcomes of Education 2012 and Targets Set for 2027
 
 > 7 Pg  21,  NCHE  Further  and  Higher  Education  Statistics  2010,  Report  of  the  Survey,  National  Commission  for  Higher Education, February 2011
 
@@ -1103,6 +1241,8 @@ The following presents a high level strategy with regard to the implementation o
 
 [[START OF PAGE 44]]
 
+Table 2 : NCF Implementation Strategy
+
 NCF IMPLEMENTATION STRATEGY ACTION | WHO | WHEN
 --- | --- | ---
 Communicate the new NCF to teachers, school leaders, parents, students and other interested stakeholders. | Director General, DQSE | Upon approval of NCF
@@ -1120,8 +1260,6 @@ Set-up the Panel for the Early Years Cycle of Education to provide guidelines ab
 Obtain approval of the learning outcomes for KGI to Y2. | Permanent Secretary, MEDE | Q3 2013
 Design a Profiling Report that reflects the KGI to Y2 learning outcomes. | Director General, DQSE | Q3 2013
 Design the training programmes on the new learning outcomes for the Early Years Cycle. | Panel for Early Years | Q2 2013
-
-Table 2 : NCF Implementation Strategy
 
 26
 
@@ -1191,17 +1329,13 @@ In  the  light  of  historical  developments,  existing documentation and challe
 
 - flexible learning programmes providing diverse and integrated learning experiences that cater for a wide spectrum of learners and which suit the interests and capabilities of individual learners within nationally accepted parameters.
 
-- learning programmes that focus on understanding and emphasise the learning process  and  the  active  co-construction  of meaning rather than the mere acquisition of content.
-
-·
-
-·
+- learning programmes that focus on understanding and emphasise the learning process and the active co-construction of meaning rather than the mere acquisition of content.
 
 - learning programmes that empower teachers to implement innovative teaching / learning strategies especially through the use of eLearning.
 
 - a higher quality in the learning programmes and  in  the  pedagogy  with  the  scope  of attracting learners to lifelong learning.
 
-- a  move away from an exclusively subjectbased approach that favours fragmentation and compartmentalisation of knowledge to a  more  cross-curricular,  thematic,  interdisciplinary and collaborative approach that reflects real life situations and encourages transfer of skills from one learning area to another.
+- a move away from an exclusively subject-based approach that favours fragmentation and compartmentalisation of knowledge to a more cross-curricular, thematic, inter-disciplinary and collaborative approach that reflects real life situations and encourages transfer of skills from one learning area to another.
 
 - assessment that values and assesses both the processes and the products of learning.
 
@@ -1263,7 +1397,7 @@ Every  child  is  entitled  to  a  quality  education experience and therefore a
 
 ##### Principle 2: Diversity
 
-The NCF acknowledges Malta's growing cultural diversity,  and  values  the  history  and  traditions of its people. It acknowledges  and  respects individual differences of age, gender, sexual orientation, beliefs, personal development, sociocultural  background,  geographical  location  and ethnicity.  The NCF affirms that all children can learn, grow and experience success by:
+The NCF acknowledges Malta's growing cultural diversity, and values the history and traditions of its people. It acknowledges and respects individual differences of age, gender, sexual orientation, beliefs, personal development, socio-cultural background, geographical location and ethnicity. The NCF affirms that all children can learn, grow and experience success by:
 
 - respecting diversity in all its forms.
 
@@ -1283,7 +1417,7 @@ The NCF embraces a developmental approach to education whereby within and across
 
 ##### Principle 4:  Learner-Centred Learning
 
-The NCF promotes the development of a learnercentred approach to learning and teaching which requires:
+The NCF promotes the development of a learner-centred approach to learning and teaching which requires:
 
 - active and personalised learning.
 
@@ -1321,7 +1455,7 @@ The NCF requires that:
 
 #### 03.1.2 Aims of Education
 
-The Aims of  education  in  conformity  with  the Principles  outlined  above,  seek  to  prepare  all children  to  become  lifelong  learners,  who  are confident,  successful,  creative,  connected  and engaged in the community and the world around them and who are able to secure social justice. Their  education  should  enable  them  to  acquire the knowledge, skills, values and attitudes that  make them capable of sustaining their life chances  in  the  changing  world  of  employment, and to become actively engaged citizens.
+The Aims of education in conformity with the Principles outlined above, seek to prepare all children to become lifelong learners, who are confident, successful, creative, connected and engaged in the community and the world around
 
 32
 
@@ -1329,7 +1463,9 @@ The Aims of  education  in  conformity  with  the Principles  outlined  above,  
 
 [[START OF PAGE 51]]
 
-##### Learners who  are capable of successfully developing their full potential as lifelong learners
+them and who are able to secure social justice. Their education should enable them to acquire the knowledge, skills, values and attitudes that make them capable of sustaining their life chances in the changing world of employment, and to become actively engaged citizens.
+
+##### Learners who are capable of successfully developing their full potential as lifelong learners
 
 This will require the development of:
 
@@ -1349,7 +1485,7 @@ This will require the development of:
 
 ##### Learners who are capable of sustaining their chances in the world of work
 
-This will lead to gainful employment and capacitybuilding sustained by:
+This will lead to gainful employment and capacity-building sustained by:
 
 - the  ability  to  communicate  effectively  and confidently.
 
@@ -1387,7 +1523,7 @@ Any curricular content must conceptualise learning  as  occurring  through  mean
 
 Discrete  learning  areas  are  not  proposed  for the  Early  Years,  where  the  emphasis  is  on  the development of skills, knowledge, competencies, values and positive dispositions towards learning which  will  be  developed  and  extended  in  later years.  Learning  areas  are  introduced  in  the Junior  Years  and  extended  into  the  Secondary Years,  where  learners  also  choose  a  number  of optional subjects according to their interest.
 
-Learning  areas  ensure  that  a  broad-based  and well-balanced curriculum could serve to develop the  aims  set  out  by  the  framework.  Learning experiences should serve to develop the important dispositions of active thinkers and  learners, namely: ' cooperation, concentration, courage, curiosity, direction, empathy, flexibility, good judgement,  humility,  imagination,  independence, perseverance, an open mind, precision, reflectiveness, responsibility, risk-taking and selfdiscipline.' Simister (2007, p. 23).
+Learning areas ensure that a broad-based and well-balanced curriculum could serve to develop the aims set out by the framework. Learning experiences should serve to develop the important dispositions of active thinkers and learners, namely: “cooperation, concentration, courage, curiosity, direction, empathy, flexibility, good judgement, humility, imagination, independence, perseverance, an open mind, precision, reflectiveness, responsibility, risk-taking and self-discipline.” Simister (2007, p. 23).
 
 Comprehensive descriptions of each learning area at  Junior and Secondary Years respectively will reflect  a  Learning  Outcomes  Framework  (LOF) that  needs  to  be  agreed  upon  by  the  different stakeholders.  The  LOF  will  in  turn  provide  the necessary guidance for the programmes of study and  assessment  to  be  used  in  all  learning  and teaching contexts.
 
@@ -1447,7 +1583,7 @@ Through learning languages and literature, children and young people develop:
 
 - an appreciation of aesthetic qualities and a willingness to strive for them.
 
-The learning and teaching of the second language (generally English, which is one of the two official languages  in  Malta),  provides  access  to  nearuniversal  knowledge  and  culture.  In  addition to  Maltese  and  English  as  core  languages,  the introduction to foreign languages through a language awareness programme is deemed necessary  in  light  of  the  political,  geographical and historical context of the Maltese Islands and the  EU's  emphasis  on  language  learning  and multilingualism 11 .
+The learning and teaching of the second language (generally English, which is one of the two official languages in Malta), provides access to near-universal knowledge and culture. In addition to Maltese and English as core languages, the introduction to foreign languages through a language awareness programme is deemed necessary in light of the political, geographical and historical context of the Maltese Islands and the EU's emphasis on language learning and multilingualism 11 .
 
 The learning and teaching of foreign languages at  secondary  level  provides  for  the  acquisition of  further  communication  tools  that  are  useful to  appreciate  cultural  diversity  and  to  facilitate interaction within the European and international contexts.  Opportunities  for  the  development  of multilingualism,  directly  related  to  the  world of  work,  are  provided  in  the  Secondary  Years. The high competency levels in foreign language teaching and learning developed by young people in Malta during the compulsory schooling which has been confirmed in the results of the European Survey on Language Competences - 2011 must be sustained in our education system.
 
@@ -1477,7 +1613,7 @@ tasks,  where  learners  work  through  a  creative process.  They  typically  g
 
 ###### Health and Physical Education
 
-The area of Health Education includes Physical Education and Sport, Personal and Social Development as well as aspects of Home Economics.  The  learning  experiences  that  take place  during  health  education  activities  aim  at equipping learners with the necessary knowledge, competencies, skill, attitudes, and values which they  need  to  maintain,  promote  and  enhance physical, emotional, psychological and social wellbeing throughout their school life and as lifelong learners. Educators are encouraged to collaborate with parents and the wider community to ensure meaningful and long-lasting experiences in order to inculcate a deep understanding of 'self', 'other' and  the  impact  of  choices  and  actions  upon individuals,  communities  and  the  environment. Health  Education  lays  the  vital  foundation  for dispositions  necessary  for  lifelong  learning.  As they  move  through  the  Junior  and  Secondary years,  commitment  to  social  communities  and environmental  issues  also  forms  part  of  young people's development.
+The area of Health Education includes Physical Education and Sport, Personal and Social Development as well as aspects of Home Economics. The learning experiences that take place during health education activities aim at equipping learners with the necessary knowledge, competencies, skill, attitudes, and values which they need to maintain, promote and enhance physical, emotional, psychological and social well-being throughout their school life and as lifelong learners. Educators are encouraged to collaborate with parents and the wider community to ensure meaningful and long-lasting experiences in order to inculcate a deep understanding of 'self', 'other' and the impact of choices and actions upon individuals, communities and the environment. Health Education lays the vital foundation for dispositions necessary for lifelong learning. As they move through the Junior and Secondary years, commitment to social communities and environmental issues also forms part of young people's development.
 
 ###### Religious and Ethics Education
 
@@ -1495,7 +1631,7 @@ The parents of children and young people have  the  right  to  decide  that  the
 
 ###### Education for Democracy
 
-Education for democracy includes Social Studies, Environmental Studies and aspects from Personal, Social Development as well as Home Economics. Through  their studies in this area learners acquire  skills  in  enjoying  rights  and  exercising responsibilities  in  various  communities;  dealing with  conflict  and  controversy;  making  informed choices and decisions, and taking action, individually or collectively to promote a just and sustainable society whose policies are based on justice, equity and a respect for the community of life. As they develop their learning in this area, young people learn to employ citizenship skills, showing responsibility towards their environment and their world and understanding the impact of enterprise and industry on the local and global community. They gradually acquire positive attitudes and a respect for human rights; learn to  adopt  sustainable  lifestyles;  and  develop  a sense of belonging within their locality, country, European  and  international  community  and  a willingness to participate in democratic decisionmaking at all levels to improve the quality of their lives.
+Education for democracy includes Social Studies, Environmental Studies and aspects from Personal, Social Development as well as Home Economics. Through their studies in this area learners acquire skills in enjoying rights and exercising responsibilities in various communities; dealing with conflict and controversy; making informed choices and decisions, and taking action, individually or collectively to promote a just and sustainable society whose policies are based on justice, equity and a respect for the community of life. As they develop their learning in this area, young people learn to employ citizenship skills, showing responsibility towards their environment and their world and understanding the impact of enterprise and industry on the local and global community. They gradually acquire positive attitudes and a respect for human rights; learn to adopt sustainable lifestyles; and develop a sense of belonging within their locality, country, European and international community and a willingness to participate in democratic decision-making at all levels to improve the quality of their lives.
 
 ###### Humanities
 
@@ -1509,9 +1645,7 @@ The  pedagogy  presented  for  this  Learning  Area includes:
 
 - introducing learners to what is involved in understanding and interpreting the past.
 
-- making  pupils  aware  of  similarities  and differences  between  life  today  and  in  the past  and  use  common  words  associated with  the  passing  of  time  to  establish  a chronology of time.
-
-·
+- making pupils aware of similarities and differences between life today and in the past and use common words associated with the passing of time to establish a chronology of time.
 
 - simulating discussion of why things happen or change and the results.
 
@@ -1527,7 +1661,7 @@ The  pedagogy  presented  for  this  Learning  Area includes:
 
 ###### Visual and Performing Arts
 
-This  learning  area  which  includes  Art,  Music, Dance  and  Drama  provides  opportunities  for learners to be creative and imaginative, to experience  enjoyment  and  inspiration,  and  to develop skills in the visual and performing arts. Participation enables learners to experience and enjoy the energy and excitement of making images  and  forms,  performing  and  presenting for  different  audiences  and  of  being  part  of  an audience for others.
+This learning area which includes Art, Music, Dance and Drama provides opportunities for learners to be creative and imaginative, to experience enjoyment and inspiration, and to develop skills in the visual and performing arts. Participation enables learners to experience
 
 36
 
@@ -1535,7 +1669,9 @@ This  learning  area  which  includes  Art,  Music, Dance  and  Drama  provides 
 
 [[START OF PAGE 55]]
 
-Learning in this area involves the development of artistic  and  creative  skills,  as  well  as  technical and practical knowledge through the performing and  the  visual  arts  and  music.  Through  the particular techniques of each art medium learners develop personal expression and ideas; appreciation  and  evaluation  of  both  local  and foreign  art  and  culture;  and  communication, performance and interpretation skills. These skills are all transferable to other areas of learning. Appreciating, responding to and actively engaging in creative and imaginative expression supports  the  development  of  one's  personality. Children learn to explore and appreciate feelings, communicate them through different media, and develop their personal aesthetic dimension.
+and enjoy the energy and excitement of making images and forms, performing and presenting for different audiences and of being part of an audience for others.
+
+Learning in this area involves the development of artistic and creative skills, as well as technical and practical knowledge through the performing and the visual arts and music. Through the particular techniques of each art medium learners develop personal expression and ideas; appreciation and evaluation of both local and foreign art and culture; and communication, performance and interpretation skills. These skills are all transferable to other areas of learning. Appreciating, responding to and actively engaging in creative and imaginative expression supports the development of one's personality. Children learn to explore and appreciate feelings, communicate them through different media, and develop their personal aesthetic dimension.
 
 Children  and  young  people  acquire  a  range of  skills  necessary  for  creative  expression.  In drama  and  dance  they  learn  communicative and  theatrical skills; in  music  they  develop musical ability, appreciation and expression; and through  art  and  design  activities  they  learn  to appreciate and construct visual imagery, respond to  the  feelings  they  evoke,  and  make  artefacts. They  also  experience  enjoyment  and  contribute to  other  people's  enjoyment  through  creative and  expressive  performance  and  presentation. Through this area, they develop an understanding of  the  creative  process  and  the  development  of aesthetic standards  and  values, appreciating the visual and performing arts within local and international cultural settings.
 
@@ -1633,11 +1769,11 @@ A  whole-school  approach  promotes  a  climate conducive to creativity which co
 
 ###### Education for Diversity
 
-Education  for  Diversity  respects  the  cultural identity  of  the  learner  through  the  provision  of culturally  appropriate  and  responsive  quality education for all. It provides every learner with the cultural knowledge, attitudes and skills necessary to achieve active and full participation in society which  enable  them  to  respect,  understand  and show solidarity among individuals, ethnic, minority,  social,  cultural  and  religious  groups and nations (UNESC0, 2006).
+Education for Diversity respects the cultural identity of the learner through the provision of culturally appropriate and responsive quality education for all. It provides every learner with the cultural knowledge, attitudes and skills necessary to achieve active and full participation in society which enable them to respect, understand and show solidarity among individuals, ethnic, minority, social, cultural and religious groups and nations (UNESCO, 2006).
 
 Education  for  Diversity  promotes  an  inclusive educational  culture  and  respect  for  diversity, allowing  individuals  to  function  across  cultural divides,  and  offering  a  platform  for  children and  communities  to  assert  their  culture  and individuality with confidence.
 
-Education for Diversity challenges various educational processes, such as decision-making within the school, languages of instruction, methodologies  used,  student  interactions  and learning  resources.  It  will  ensure  the  inclusion of  multiple  perspectives  and  voices  within  the learning environment, provides spaces for learning about the languages, histories, traditions and cultures of non-dominant groups in a society,  encourages  team  work  and  cooperative learning in multicultural, multi-ethnic and other diverse contexts, combines traditional and local  knowledge  and  know-how  with  advanced science and technology, and values the practice of multilingualism. In doing so it encourages an understanding of global issues and the need for living together with different cultures and values.
+Education for Diversity challenges various educational processes, such as decision-making within the school, languages of instruction, methodologies used, student interactions and learning resources. It will ensure the inclusion of multiple perspectives and voices within the learning environment, provides spaces for learning about the languages, histories, traditions and cultures of non-dominant groups in a society, encourages team work and cooperative
 
 38
 
@@ -1647,13 +1783,32 @@ Education for Diversity challenges various educational processes, such as decisi
 
 Figure 03: The Learning Areas and the Cross-Curricular Themes in the NCF
 
-Curriculum  planning  should  take  into  account cross-curricular themes providing connecting strands interwoven with the learning areas.  This gives  learning  areas  coherence,  relevance  and stability providing a holistic learning experience by highlighting common objectives, content and pedagogies.  Integration  is effectively  achieved through  the  specific  planning  choices  once  the individual  curriculum  documents  are  planned for  each  learning  area.  Cross-curricular  themes should, where possible, permeate every facet of the curriculum through a whole-school approach.
+Visual and Performing Arts
+Humanities
+Education for Democracy
+Religious and Ethics Education
+Health and Physical Education
+Science and Technology
+Mathematics
+Languages
+
+Literacy
+Digital Literacy
+Learning to Learn and Cooperative Learning
+Education for Sustainable Development
+Education for Entrepreneurship
+Creativity & Innovation
+Education for Diversity
+
+learning in multicultural, multi-ethnic and other diverse contexts, combines traditional and local knowledge and know-how with advanced science and technology, and values the practice of multilingualism. In doing so it encourages an understanding of global issues and the need for living together with different cultures and values.
+
+Curriculum planning should take into account cross-curricular themes providing connecting strands interwoven with the learning areas. This gives learning areas coherence, relevance and stability providing a holistic learning experience by highlighting common objectives, content and pedagogies. Integration is effectively achieved through the specific planning choices once the individual curriculum documents are planned for each learning area. Cross-curricular themes should, where possible, permeate every facet of the curriculum through a whole-school approach.
 
 #### 03.1.4 Effective Learning and Teaching
 
 ##### Learning processes and effective pedagogies
 
-Current  theories  of  learning  are  based  on  the constructivist perspective which combines cognitive  and  social  constructivist  approaches for  effective  learning  and  teaching.  A  principal feature of constructivist learning is that it is an active  process  during  which  individual  learners construct  meaning.  It  is  most  effective  when learners are actively engaged in authentic, contextualised tasks. Social constructivism holds that  learning  is  enhanced  through  co-operative and  collaborative  learning  which  promotes  the development  of  critical  thinking  and  problemsolving  skills.  Teaching  is  most  effective  when learners are provided with opportunities to make sense of new knowledge in a context which allows them to  interact  with  the  teacher  and  other  learners to discuss and negotiate their understanding. In this view, a teacher-dominated pedagogy, which relegates learners to a passive role, emphasizes memorisation  and  limits  interactions  between learners, is not recommended.
+Current theories of learning are based on the constructivist perspective which combines cognitive and social constructivist approaches for effective learning and teaching. A principal feature of constructivist learning is that it is an active process during which individual learners construct meaning. It is most effective when learners are actively engaged in authentic, contextualised tasks. Social constructivism holds that learning is enhanced through co-operative and collaborative learning which promotes the development of critical thinking and problem-solving skills. Teaching is most effective when learners are provided with opportunities to make sense of new knowledge in a context which allows them to interact with the teacher and other learners to discuss and negotiate their understanding. In this view, a teacher-dominated pedagogy, which relegates learners to a passive role, emphasizes memorisation and limits interactions between learners, is not recommended.
 
 39
 
@@ -1661,7 +1816,7 @@ Current  theories  of  learning  are  based  on  the constructivist perspective 
 
 [[START OF PAGE 58]]
 
-Learning  programmes  need  to  be  competencebased as well as knowledge-based, emphasising the process of learning as well as the acquisition of content, particularly in the context of a society where knowledge is readily accessible. In terms of  curriculum  design  this  could  be  achieved  by considering three dimensions:
+Learning programmes need to be competence-based as well as knowledge-based, emphasising the process of learning as well as the acquisition of content, particularly in the context of a society where knowledge is readily accessible. In terms of curriculum design this could be achieved by considering three dimensions:
 
 - Content and mastery which involves having  students  explore  and  understand the whole breadth of ideas in a particular content area.
 
@@ -1703,15 +1858,11 @@ The NCF states that:
 
 - the transition from the early years to the  junior  cycle  should  be  a  seamless change  facilitated  by  the  strong  learning dispositions which children are expected to have developed.
 
-- the  transition  from  primary  to  secondary school should be smooth and offer progression in a way which supports learners as they learn to take more responsibility for their own learning.
+- the transition from primary to secondary school should be smooth and offer progression in a way which supports learners as they learn to take more responsibility for their own learning.
 
-·
+- learning in the secondary years should consolidate and build on the learning experiences of primary education and prepare learners for the wider challenges they will have to face beyond compulsory education.
 
-- learning  in  the  secondary  years  should consolidate and build on the learning experiences of primary education and prepare  learners  for  the  wider  challenges they  will  have  to  face  beyond  compulsory education.
-
-·
-
-- The  NCF  seeks  to  redress  the  absence of  a  vocational  education  component  in compulsory education by incorporating
+- The NCF seeks to redress the absence of a vocational education component in compulsory education by incorporating
 
 40
 
@@ -1759,9 +1910,9 @@ The NCF recognises that a high quality education requires a supportive infrastru
 
 ##### Assessment
 
-Assessment in the Early, Junior and Secondary Years cycles makes an essential contribution to learning and progress at all levels. It is an integral part  of  the  learning  and  teaching  process,  providing students  and  their  parents  with  continuous, timely and qualitative feedback about children's progress, giving teachers' information about their practice, and providing schools and colleges with information  about  their  curriculum  planning, learning and teaching. Assessment for learning (assessment for formative purposes) is a process carried out as learning is taking place. Learners and their teachers use the outcomes to find what learners know and are able to do in relation to learning.    Assessment of learning  (assessment for  summative  purposes)  is  carried  out  at  the end  of  a  unit,  mid-year  or  at  the  end  of  the year.  In subjects which are taught as modules, assessment of learning will take place at the end of a module.  Information and judgments about learning are pulled together in a summary form for purposes of reporting to parents and sharing information with other teachers in the next class or  school.  If  learners  are  fully  aware  of  what  is expected  of  them  (the  learning  intentions)  and the success criteria against which their learning will be evaluated, they will then develop the selfevaluation  skills  which  will  help  them  become self-directed learners.
+Assessment in the Early, Junior and Secondary Years cycles makes an essential contribution to learning and progress at all levels. It is an integral part of the learning and teaching process, providing students and their parents with continuous, timely and qualitative feedback about children's progress, giving teachers' information about their practice, and providing schools and colleges with information about their curriculum planning, learning and teaching. Assessment for learning (assessment for formative purposes) is a process carried out as learning is taking place. Learners and their teachers use the outcomes to find what learners know and are able to do in relation to learning. Assessment of learning (assessment for summative purposes) is carried out at the end of a unit, mid-year or at the end of the year. In subjects which are taught as modules, assessment of learning will take place at the end of a module. Information and judgments about learning are pulled together in a summary form for purposes of reporting to parents and sharing information with other teachers in the next class or school. If learners are fully aware of what is expected of them (the learning intentions) and the success criteria against which their learning will be evaluated, they will then develop the self-evaluation skills which will help them become self-directed learners.
 
-> 13 A Ministerial working group has been set uo and is already working on this policy.
+> 13 A Ministerial working group has been set up and is already working on this policy.
 
 > 14 The reference to special educational needs here refers to the internationally recognised 18% of the school population who at some time in their school career may have a temporary or permanent barrier to their learning
 
@@ -1791,7 +1942,7 @@ Colleges and schools are required to develop an assessment  policy.  The  policy
 
 Schools are expected to constantly develop their capacity to be communities of reflexive practice through:
 
-- the process of school development planning that has inbuilt mechanisms for selfevaluation.
+- the process of school development planning that has inbuilt mechanisms for self-evaluation.
 
 - Mentoring.
 
@@ -1831,7 +1982,7 @@ National  Monitoring :  In  order  to  evaluate  the standards  of  the  differe
 
 #### 03.1.6 Parental 15  and community involvement
 
-Formal educational structures should be sensitive and responsive to the realities and opportunities of  the  learners'  environment.  Additionally  the community (parents, businesses/industries, local councils) - within which learners interact should acknowledge its crucial role of investing in and promoting a high quality education.
+Formal educational structures should be sensitive and responsive to the realities and opportunities of the learners' environment. Additionally the community (parents, businesses/industries, local councils) – within which learners interact – should acknowledge its crucial role of investing in and promoting a high quality education.
 
 ##### Schools and Parents
 
@@ -1905,7 +2056,7 @@ The  NCF  encourages  a  leadership  model  that promotes  distributed  forms  o
 
 The NCF  acknowledges that the quality of educational leadership is critical in setting a  climate  which  is  conducive  to  learning  as envisaged  in  this  document.    The  centrality  of key roles such as College Principals and Heads of School requires leaders to demonstrate devotion to core principles  and  established  outcomes whilst being committed to the people responsible towards  achieving  such  outcomes.    Set  in  a backdrop of fast-paced changes, educational leaders  ought  to  embrace  approaches  that  may transform  the  feelings,  attitudes,  and  beliefs  of practitioners and other stakeholders in the field.
 
-The  NCF  recommends  the  adaptation  of  an Educational  leadership  model  that  is  strongly focused on the primary function of education the  achievement  of  learning  goals  by  children and  young  people,  in  an  atmosphere  which caters for the total well-being of each individual. Headship  within  the  NCF  framework  requires a  set  of  skills,  attitudes  and  personal  qualities which  when  present,  make  a  difference  in  the learning  entitlement  of  every  student.  Effective Heads of Schools have a personal vision of what it  is  they would like to achieve in their schools. They should know how to articulate that vision, and how to encourage and motivate teachers and parents  as  well  as  children,  to  own  that  vision and to share in the responsibilities of making it come  about.  Within  a  primary  framework,  the Head of School should respond effectively to the personal  and  social  needs  of  the  learners  and thus we envisage Heads of Schools to be people oriented,  encouraging  trust  and  openness  by being dynamic with colleagues.
+The NCF recommends the adaptation of an Educational leadership model that is strongly focused on the primary function of education – the achievement of learning goals by children and young people, in an atmosphere which caters for the total well-being of each individual. Headship within the NCF framework requires a set of skills, attitudes and personal qualities which when present, make a difference in the learning entitlement of every student. Effective Heads of Schools have a personal vision of what it is they would like to achieve in their schools. They should know how to articulate that vision, and how to encourage and motivate teachers and parents as well as children, to own that vision and to share in the responsibilities of making it come about. Within a primary framework, the Head of School should respond effectively to the personal and social needs of the learners and thus we envisage Heads of Schools to be people oriented, encouraging trust and openness by being dynamic with colleagues.
 
 The  NCF  recognises  that  the  underlying  moral dimension  should  be  the  driving  force  for  all educational leaders.  When moral authority drives leadership practice, the systems, college or school leader  becomes  a  leader  of  leaders  developing and  pursuing  a  vision  and  ideas  built  upon common core values.  Hence leadership is seen as  no  longer  the  exclusivity  of  designated  roles but becomes a distributed process which shifts the focus away from the traditional role of the few heroic leaders to that of a concerted action where members  synchronise  their  actions,  achieving an  amount  of  energy  greater  than  the  sum  of the  individual  actions.    Distributed  leadership encourages  the  involvement  of  stakeholders  in collective  or  delegated  decision-making  process. Ethically  such  collegiality  is  the  way  forward merging accountability with collaboration.
 
@@ -1975,39 +2126,39 @@ Within the Early Years' experiences, young children develop knowledge, skills, c
 
 Powerful  learning  experiences  contribute  to  the development of children who become involved in pursuing their interests,  are  motivated,  develop perseverance and learn to assume responsibility. Such outcomes are realised through an environment  of  trust  and  respect,  which  gives learners self-confidence and self-esteem in their abilities.
 
-skilled  and  competent  as  a  result  of  the  strong theoretical foundations which direct and support their professional and  pedagogical decisions. Practitioners need:
-
-- a sound theoretical base to understand how young children learn and develop.
-
-- pedagogical  knowledge  to  determine  what is  reasonable  to  do  with  young  learners and the most effective ways to achieve this, therefore applying theory to practice.
-
-- personal  and  practical  knowledge  about a range of professional issues which impact directly on the management of and relationships amongst a group of learners.
-
-- research skills which enable them to understand on-going development in their field and critically position themselves when faced with results.
-
 The NCF requires that the Early Years:
 
-- a genuine  interest in listening to  and responding to children to promote a pedagogy  of  respect,  responsiveness  and reciprocal relationships.
-
-- be supported by the visionary leadership of key practitioners working in early childhood education. ·
+- be supported by the visionary leadership of key practitioners working in early childhood education.
 
 - recognise children's uniqueness in learning and development through a variety of learning styles and pedagogies.
 
-- offer programmes of activities which move away from emphasising specific subject or content  teaching  in  favour  of  pedagogies which  enhance  curricular  links  and  thus facilitate learning processes.
+- offer programmes of activities which move away from emphasising specific subject or content teaching in favour of pedagogies which enhance curricular links and thus facilitate learning processes.
 
 - endorse policies for assessment and transitions.
 
-- facilitate capacity building of major stakeholders,  predominantly  parents  and staff.
+- facilitate capacity building of major stakeholders, predominantly parents and staff.
 
-- incorporate  measures  to  ensure  quality assurance  procedures  thus  promoting  a reflective  approach  which  monitors  and evaluates practices and outcomes.
+- incorporate measures to ensure quality assurance procedures thus promoting a reflective approach which monitors and evaluates practices and outcomes.
 
 ##### Leadership of key practitioners
 
-Practitioners in early childhood education, whether  directly  responsible  for  designing  and developing a programme of activities or having an administrative  role  must  be  highly-trained  and qualified staff. They must be skilled in supporting and extending children's communication skills  and  creative  in  designing  an  appealing environment  which  will  arouse  and  stimulate children's thinking and interactions. Staff must be observant and reflective in order to adapt and modify  activities  based  on  cues  and  feedback proffered  by  children  themselves.  Practitioners must capitalise on the social dimension through interacting frequently and directly with children in  their  care  thus  facilitating  a  sense  of  wellbeing. Practitioners must be responsive to children's learning interests. They must be highly
+Practitioners in early childhood education, whether directly responsible for designing and developing a programme of activities or having an administrative role must be highly-trained and qualified staff. They must be skilled in supporting and extending children's communication skills and creative in designing an appealing environment which will arouse and stimulate children's thinking and interactions. Staff must be observant and reflective in order to adapt and modify activities based on cues and feedback proffered by children themselves. Practitioners must capitalise on the social dimension through interacting frequently and directly with children in their care thus facilitating a sense of well-being. Practitioners must be responsive to children's learning interests. They must be highly skilled and competent as a result of the strong theoretical foundations which direct and support their professional and pedagogical decisions.
 
-- reflective skills which allow them to think  critically  through  their  work  with children,  question  their  perceptions  and understandings  of  children's  experiences and examine their interactions with children with a view to improving the quality of the Early Years experiences.
+Practitioners need:
 
-Apart  from  being  knowledgeable  about  childdevelopment,  learning  processes  and  suitable pedagogies,  early  childhood  practitioners  must demonstrate  empathy  and  solidarity  with  the families of children with whom they are working and show that they are capable of working with children and their families.
+- a sound theoretical base to understand how young children learn and develop.
+
+- pedagogical knowledge to determine what is reasonable to do with young learners and the most effective ways to achieve this, therefore applying theory to practice.
+
+- personal and practical knowledge about a range of professional issues which impact directly on the management of and relationships amongst a group of learners.
+
+- research skills which enable them to understand on-going development in their field and critically position themselves when faced with results.
+
+- a genuine interest in listening to and responding to children to promote a pedagogy of respect, responsiveness and reciprocal relationships.
+
+- reflective skills which allow them to think critically through their work with children, question their perceptions and understandings of children's experiences and examine their interactions with children with a view to improving the quality of the Early Years experiences.
+
+Apart from being knowledgeable about child-development, learning processes and suitable pedagogies, early childhood practitioners must demonstrate empathy and solidarity with the families of children with whom they are working and show that they are capable of working with children and their families.
 
 ##### Learning Processes and Effective Pedagogies
 
@@ -2021,7 +2172,7 @@ Every  child  has  the  right  to  develop  to  his/her maximum potential. The f
 
 [[START OF PAGE 65]]
 
-Young children's prior knowledge and understanding informs them as they try to make sense of what something is by using previouslyacquired informationbut they learn by modifying existing knowledge and amending their understanding  with  new  information  they  are exposed to. Learning occurs when new knowledge and  information  is  internalised  and  modifies previous understandings.
+Young children's prior knowledge and understanding informs them as they try to make sense of what something is by using previously-acquired information- but they learn by modifying existing knowledge and amending their understanding with new information they are exposed to. Learning occurs when new knowledge and information is internalised and modifies previous understandings.
 
 Early  childhood  educators  should  plan  for  a programme of activities which appeals to different cognitive styles. Children thrive on multi-sensory approaches:  their  understanding  of  the  world improves;  the  likelihood  of  understanding  how things work, drawing conclusions to hypotheses, culminating in  understanding cause and effect, and learning how to discriminate and differentiate between contrasting objects increases.
 
@@ -2093,9 +2244,9 @@ Children's  active  involvement  and  experiential learning promote social, comm
 
 ###### Well-being
 
-A safe environment which offers children security is  one  where  there  is  stability  and  consistency. Such environments support children in building their self-esteem, developing a positive selfidentity and gaining confidence in themselves and their  achievements.  Within  a  safe  environment where they are accepted, given freedom of choice,  and  allowed  to  explore  and  experiment on their own and with others, children learn to become risk-takers. They can develop individual strategies  which  help  them  to  cope  with  new challenges,  become  autonomous, self-regulating and self-determining individuals who make progress, overcome difficulties and feel satisfied with  their  endeavours.  Hence,  young  learners become independent.
+A safe environment which offers children security is one where there is stability and consistency. Such environments support children in building their self-esteem, developing a positive self-identity and gaining confidence in themselves and their achievements. Within a safe environment where they are accepted, given freedom of choice, and allowed to explore and experiment on their own and with others, children learn to become risk-takers. They can develop individual strategies which help them to cope with new challenges, become autonomous, self-regulating and self-determining individuals who make progress, overcome difficulties and feel satisfied with their endeavours. Hence, young learners become independent.
 
-As they become independent and learn to take care of themselves, young children learn how to deal with their feelings, recognise and label emotions, accept  themselves  and  learn  to  be  comfortable with themselves and others. In developing socioemotional  competences,  young  children  acquire self-discipline as they learn to be more in control of who they are and what they can do. In addition to their affective development, in the Early Years children learn about who they are and what they can do through physical activities which can be used to promote a healthy life.
+As they become independent and learn to take care of themselves, young children learn how to deal with their feelings, recognise and label emotions, accept themselves and learn to be comfortable with themselves and others. In developing socio-emotional competences, young children acquire self-discipline as they learn to be more in control of who they are and what they can do. In addition to their affective development, in the Early Years children learn about who they are and what they can do through physical activities which can be used to promote a healthy life.
 
 ###### Social competences
 
@@ -2113,9 +2264,9 @@ As they develop social competences in an atmosphere  where  their  personal  wel
 
 Several communication tools are available to  help  children  understand  themselves  and others.  The  predominant  tool  which  facilitates communication is language. As children engage with  and  gain  experiences  in  using  both  oral and  printed  language,  their  abilities  to  think, understand, express themselves and extend social  relations  are  strengthened.  The  overall objectives of language in the Early Years should predominantly focus on helping children increase their  awareness  of  the  functions  and  purposes of language skills 19  which make them a versatile tool for any member in a society. Where language learning is concerned, from a young age children gain flexibility and control over language through correct  and  appropriate  choice  of  words;  by extending their vocabulary; learning how  to assert  themselves  and  becoming  aware  of  the subtle influence which language has on society. Listening, speaking, reading and writing are tools which are used constantly in order for different purposes and functions.
 
-Whilst respecting, promoting and strengthening the child's first language, young children growing up in the Maltese context begin their journey of second language learning.  This  is  a  direct  reflection of the wider  society rather  than  necessarily being  an  immediate  need  young  children  have. However, it is imperative that children are exposed to  the  two  official  languages  of  the  country  in meaningful ways which would serve to promote learning  and  understanding  of  the  world  which goes  beyond  language  learning  itself.  Secondlanguage  teaching  can  be  successful  if  lessons are  learnt  from  mother  tongue  acquisition  and the  pedagogies  used  in  the  more  formal  school settings should be driven by principles which are appropriate for the age group.
+Whilst respecting, promoting and strengthening the child's first language, young children growing up in the Maltese context begin their journey of second language learning. This is a direct reflection of the wider society rather than necessarily being an immediate need young children have. However, it is imperative that children are exposed to the two official languages of the country in meaningful ways which would serve to promote learning and understanding of the world which goes beyond language learning itself. Second-language teaching can be successful if lessons are learnt from mother tongue acquisition and the pedagogies used in the more formal school settings should be driven by principles which are appropriate for the age group.
 
-In addition to language, from a relatively young age, children are exposed to alternative sources of communication access which has been greatly facilitated  with  the  widespread  availability  of  digital technologies.  Growing  up  in  the  21 st   century, children require digital competences which enable  them  to  communicate  more  effectively not only with their immediate contacts but even with  others.  Availability  of  and  accessibility  to different information sources enables children to engage with and make sense of the world around them; encourages them towards communication and collaboration; promote skills for conducting research as well as locating, storing and retrieving information.
+In addition to language, from a relatively young age, children are exposed to alternative sources of communication access which has been greatly facilitated with the widespread availability of digital technologies. Growing up in the 21st century, children require digital competences which enable them to communicate more effectively not only with their immediate contacts but even with others. Availability of and accessibility to different information sources enables children to engage with and make sense of the world around them; encourages them towards communication and collaboration; promote skills for conducting research as well as locating, storing and retrieving information.
 
 ###### Learning dispositions
 
@@ -2135,7 +2286,7 @@ These competences can be translated into learning  outcomes  which  young  child
 
 - Children who are responsible and resilient in the face of challenges.
 
-> 19 Language skills' refers to listening, speaking, reading and writing. 'Language skills' is the term broadly used to refer to receptive and production skills.
+> 19 ‘Language skills’ refers to listening, speaking, reading and writing. ‘Language skills’ is the term broadly used to refer to receptive and production skills.
 
 49
 
@@ -2187,7 +2338,7 @@ These competences can be translated into learning  outcomes  which  young  child
 
 #### 03.3.1 Introduction
 
-During this cycle, children continue to be entitled to a stimulating, happy, safe and caring educational  environment  which  builds  on  early childhood experiences, promotes the development of  their  full  potential  in  all  aspects  of  learning and paves the way for capacity-building and lifelong learning which will be strengthened at the secondary  level.  The  challenge  that  lies  ahead is  to  ensure  that  the  Junior  School  curriculum allows for the implementation  of pedagogies founded on a socio-constructivist approach which respects  individualised  learning  patterns  and encourages  co-operative  learning,  addresses  all children's needs and reduces the over-emphasis on the pass or fail mentality brought about by an examinations-oriented system.
+During this cycle, children continue to be entitled to a stimulating, happy, safe and caring educational environment which builds on early childhood experiences, promotes the development of their full potential in all aspects of learning and paves the way for capacity-building and life-long learning which will be strengthened at the secondary level. The challenge that lies ahead is to ensure that the Junior School curriculum allows for the implementation of pedagogies founded on a socio-constructivist approach which respects individualised learning patterns and encourages co-operative learning, addresses all children's needs and reduces the over-emphasis on the pass or fail mentality brought about by an examinations-oriented system.
 
 Education at the Junior Years aims at:
 
@@ -2233,7 +2384,7 @@ This leads to the development of:
 
 ###### Personal and social skills
 
-Children's intrapersonal and communication skills are developed to bring about positive selfesteem,  self-confidence  and  self-awareness.  A totally integrated approach across the curriculum enhances these skills within the affective domain in order to develop the children's capacity to build solid relationships with self, peers and adults.
+Children's intrapersonal and communication skills are developed to bring about positive self-esteem, self-confidence and self-awareness. A totally integrated approach across the curriculum enhances these skills within the affective domain in order to develop the children's capacity to build solid relationships with self, peers and adults.
 
 ###### Moral and spiritual development
 
@@ -2269,7 +2420,7 @@ Communication skills in verbal, non-verbal, written, visual, physical, technical
 
 ###### Competence  in  using  new  information  and communication technologies
 
-Emphasis is given to the acquisition of basic ICT skills including issues related to safety and use. Digital  Literacy  encourages  learners  to  discover and use digital data sources, create digital multimedia  presentations  and  use  collaborative authoring  tools.  Learners  are  able  to  program devices  to  respond  to  input  using  a  simplified iconic  interface.  They  are  also  able  to  send emails  and  attachments,  use  VOIP  and  videoconferencing, and chat to collaborate with others. They will learn and practice netiquette and online safety measures.
+Emphasis is given to the acquisition of basic ICT skills including issues related to safety and use. Digital Literacy encourages learners to discover and use digital data sources, create digital multimedia presentations and use collaborative authoring tools. Learners are able to program devices to respond to input using a simplified iconic interface. They are also able to send emails and attachments, use VOIP and video-conferencing, and chat to collaborate with others. They will learn and practice netiquette and online safety measures.
 
 51
 
@@ -2283,11 +2434,11 @@ Appropriate learning and teaching strategies enable  children  to  be  receptive
 
 ###### Economic stability and independence
 
-Children  learn  to  take  initiative  and  to  become independent thinkers and participants in teamwork. Their initial understanding of the value of co-operative  and  collaborative  work  is  further strengthened at the Junior level. Through their experiences, children become aware of the vital contribution of each member in society towards the  good  of  the  community.  Learning  to  be flexible, tenacious and resilient, paves the way for responsible citizenship.
+Children learn to take initiative and to become independent thinkers and participants in team-work. Their initial understanding of the value of co-operative and collaborative work is further strengthened at the Junior level. Through their experiences, children become aware of the vital contribution of each member in society towards the good of the community. Learning to be flexible, tenacious and resilient, paves the way for responsible citizenship.
 
 ###### Innovation and entrepreneurship
 
-Children value the processes that lead to creating and  implementing  new  ideas. Through  risktaking,  planning,  perseverance  and  the  use  of their imagination, children understand and develop the ability to think, create and value new products  that  help  them  and  others  adapt  to changes in society. Attaining self-belief  and  the ability to be useful and productive for one's self, one's group of friends, class and school inculcate the  right  attitudes  necessary  for  the  eventual contribution towards the common good.
+Children value the processes that lead to creating and implementing new ideas. Through risk-taking, planning, perseverance and the use of their imagination, children understand and develop the ability to think, create and value new products that help them and others adapt to changes in society. Attaining self-belief and the ability to be useful and productive for one's self, one's group of friends, class and school inculcate the right attitudes necessary for the eventual contribution towards the common good.
 
 ###### The  ability  to  readily  embrace  mobility  and exchange
 
@@ -2344,7 +2495,7 @@ Languages encourage children to develop:
 
 - As  competent  users  of  both  Maltese  and English,  who  are  able  to  appreciate  and enjoy the literary heritage of both languages.
 
-- Intellectual  skills  which  allow  learners  to explore and  effectively use  questioning, information, critical thinking, decisionmaking and memory.
+- Intellectual skills which allow learners to explore and effectively use questioning, information, critical thinking, decision-making and memory.
 
 - An awareness of foreign languages with the aim  of  becoming  open  to  other  languages and  cultures  with  a  positive  disposition towards mobility and new experiences.
 
@@ -2392,7 +2543,7 @@ In  the  Junior  Years  cycle,  the  purpose  should be  to  create  awareness  
 
 Science  can  be  learnt  through  play  and  other enjoyable hands-on activities, with an emphasis on observation  and  communication  of  experiences. Children  can  be  encouraged  to  engage  with science through simple investigations which allow them to question; to use multimedia and locate appropriate information; and to use storytelling and drama to link science to daily living and the local environment in which they live.
 
-Assessment of student success should take place alongside learning and involve situated problemsolving activities. It should be formative in nature and  based  not  only  on  individual  achievement but  include  group  and  self-assessment.  This encourages  the  learners  to  develop  a  sense  of themselves  as  'young  scientists'  within  their class  community.  Learning  outcomes  can  be captured  and  reported  through  various  forms of  recording  such  as  investigations,  learning logbooks and portfolios. The assessment should be a narrative account or 'learning story' which documents the skills and processes of science as they are experienced by the learner.
+Assessment of student success should take place alongside learning and involve situated problem-solving activities. It should be formative in nature and based not only on individual achievement but include group and self-assessment. This encourages the learners to develop a sense of themselves as “young scientists” within their class community. Learning outcomes can be captured and reported through various forms of recording such as investigations, learning logbooks and portfolios. The assessment should be a narrative account or “learning story” which documents the skills and processes of science as they are experienced by the learner.
 
 Design and Technology encourages learners to:
 
@@ -2430,7 +2581,7 @@ During the Junior Years, the Humanities encourage children to:
 
 - explore and investigate their immediate past and present, thus beginning to understand the importance of collecting evidence.
 
-- cevelop observation and recording skills.
+- develop observation and recording skills.
 
 - collate, examine and test data in an attempt to draw simple conclusions from it.
 
@@ -2492,11 +2643,7 @@ This learning area encourages learners to:
 
 - become aware of and appreciate the changes that take place physically as they grow.
 
-- experience activities that encourage social interaction, promote self-awareness, reflective behaviour, decision-making processes  and  consequential  thinking  to
-
-·
-
-develop  the  necessary  skills  of  emotional and social intelligence.
+- experience activities that encourage social interaction, promote self-awareness, reflective behaviour, decision-making processes and consequential thinking to develop the necessary skills of emotional and social intelligence.
 
 - begin to become aware of the importance of a healthy mind and body.
 
@@ -2520,17 +2667,7 @@ School leaders and teachers in the Junior Years need to be:
 
 - curriculum managers who are pedagogically strong within a context of diversity.
 
-·
-
-- capable of making curricular and pedagogical  choices  which  promote  high quality  teaching  and  learning  congruent with learner-centred pedagogies and learning-centred approaches.
-
-·
-
-·
-
-·
-
-·
+- capable of making curricular and pedagogical choices which promote high quality teaching and learning congruent with learner-centred pedagogies and learning-centred approaches.
 
 - resourceful in supporting and ensuring the sustainability of initiatives.
 
@@ -2552,7 +2689,7 @@ During  the  Junior  Years,  assessment  methods that support learning, evaluate
 
 The  necessary  support  throughout  the  junior years  will  be  provided  for  children  experiencing learning  difficulties  in  literacy,  numeracy  and digital literacy in order to ensure the mastery of these core competences by the end of the Junior Years.
 
-From Years 3 to 6 the NCF recommends schoolbased assessment, incorporating the assessment of oral/aural skills in Maltese and English. The assessment  process  provides  parents,  teachers and the school administration with an overview of  each  child's  development  in  terms  of  levels of  achievement.  In  the  State  sector  the  process becomes more formalised  with  the  introduction of examinations in conjunction with other forms of assessment in Year 4. In future, this practice may be reviewed in favour of alternative forms of assessment.
+From Years 3 to 6 the NCF recommends school-based assessment, incorporating the assessment of oral/aural skills in Maltese and English. The assessment process provides parents, teachers and the school administration with an overview of each child's development in terms of levels of achievement. In the State sector the process becomes more formalised with the introduction of examinations in conjunction with other forms of assessment in Year 4. In future, this practice may be reviewed in favour of alternative forms of assessment.
 
 In  non-state  schools,  different  practices  exist with  regard  to  examination  practices.  The  NCF recommends that during the Junior Years Cycle, children should experience annual examinations at  least  once  prior  to  the  end  of  the  cycle.  The participation  in  the  national  end  of  Primary benchmark in Mathematics, Maltese and English in  Year  6  is  compulsory  for  children  attending State  schools  while  schools  in  the  Church  and Independent sectors will continue to be invited to participate. The information is used to record the achievement of  pupils  at  the  end  of  the  Junior Years  and  thus  provide  important  information about the learning of individual pupils especially for receiving secondary schools.
 
@@ -2566,39 +2703,22 @@ The table overleaf shows the percentage minimum  entitlement  for  the  differen
 
 During the Junior Years, the curriculum builds upon the foundations laid during the Early Years on  the  one  end,  and  it  also  links  closely  with the Secondary years on the other end to ensure a  smooth  transition.  The  Junior  Years  support a seamless curriculum which ensures that the  learning  areas  and  the  pedagogies  address the  learners'  holistic  development.  In  addition, assessment is used primarily to inform learners, teachers,  parents  and  the  school  about  each individual child's progress and achievement.
 
-30.0% LANGUAGES
-
-15.0% MATHEMATICS
-
-15.0% SCIENCE &
-
-TECHNOLOGY
-
-5.0% HEALTH & PHYSICAL
-
-EDUCATION
-
-5.0% RELIGIOUS & ETHICS
-
-EDUCATION
-
 LEARNING AREAS % DISTRIBUTION
-
 - JUNIOR YEARS CYCLE
 
-10.0% HUMANITIES
+5.0% 15.0%
+10.0% 30.0%
+5.0% 15.0%
+5.0% 15.0%
 
-& EDUCATION FOR
-
-DEMOCRACY
-
-5.0% VISUAL &
-
-PERFORMING ARTS
-
-15.0% SCHOOL-BASED
-
-CHOICES
+30.0% LANGUAGES
+15.0% MATHEMATICS
+15.0% SCIENCE & TECHNOLOGY
+5.0% HEALTH & PHYSICAL EDUCATION
+5.0% RELIGIOUS & ETHICS EDUCATION
+10.0% HUMANITIES & EDUCATION FOR DEMOCRACY
+5.0% VISUAL & PERFORMING ARTS
+15.0% SCHOOL-BASED CHOICES
 
 56
 
@@ -2666,7 +2786,7 @@ Children who adopt a healthy and active lifestyle, conscious of the long-lasting
 
 [[START OF PAGE 76]]
 
-### 03.4	The Secondary Years (Years 7 - 11) 21
+### 03.4	The Secondary Years (Years 7 – 11)21
 
 #### 03.4.1 Introduction
 
@@ -2684,11 +2804,7 @@ The Secondary Education Cycle is an important milestone in the educational journ
 
 - promote  the  development  of the  whole person by helping learners deal with growing up  physically  (issues  related  to  health, puberty and sexuality), psychologically (issues related to mental development and  health  and  management  of  stress), emotionally (issues related to positive and negative  feelings);  socially  (issues  related to  interpersonal  skills,  peer  pressure  and conflict  resolution)  and  spiritually  (issues related to ethics and values).
 
-- provide learners with experiences, competences and understanding that
-
-·
-
-prepare them  for lifelong learning  and empower  them  to  make  wise  choices  for their future.
+- provide learners with experiences, competences and understanding that prepare them for lifelong learning and empower them to make wise choices for their future.
 
 - prepare learners for certification and qualifications that are necessary in order to gain access to further and higher education and employment.
 
@@ -2702,7 +2818,7 @@ This requires the development of:
 
 ###### Personal and social skills
 
-Personal and social skills are developed at this level to ensure that students complete the  five-year  cycle  equipped  to  handle  an  everchanging social reality. The fundamental values of family, respect, inclusion, social justice, solidarity,  democracy,  commitment,  care,  love and  responsibility  are  strengthened  during  the Secondary years of education.
+Personal and social skills are developed at this level to ensure that students complete the five-year cycle equipped to handle an ever-changing social reality. The fundamental values of family, respect, inclusion, social justice, solidarity, democracy, commitment, care, love and responsibility are strengthened during the Secondary years of education.
 
 ###### Moral and spiritual development
 
@@ -2726,11 +2842,11 @@ Being multilingual implies being able to communicate  in  speech  and  in  writi
 
 ###### Science and technology competence
 
-Having scientific competence implies an inquirybased  approach  to  learning.  Students  develop curiosity concerning natural phenomena leading them to question what they see and feel. During the Secondary years, students deepen their knowledge  and  understanding  of  scientific  and technological  processes.  The  aim  is  to  prepare them for a society where science and technology have a leading role.
+Having scientific competence implies an inquiry-based approach to learning. Students develop curiosity concerning natural phenomena leading them to question what they see and feel. During the Secondary years, students deepen their knowledge and understanding of scientific and technological processes. The aim is to prepare them for a society where science and technology have a leading role.
 
 ###### Critical and innovative thinking
 
-During their Secondary years, students develop the  skill  of  exploring  a  particular  issue  from various perspectives and are able to assess the veracity of sources of information. Students are  expected  to  be  creative  and  innovative  and experiment  with  alternative  ways  of  problemsolving.
+During their Secondary years, students develop the skill of exploring a particular issue from various perspectives and are able to assess the veracity of sources of information. Students are expected to be creative and innovative and experiment with alternative ways of problem-solving.
 
 ###### Aesthetic appreciation and creative expression
 
@@ -2750,7 +2866,7 @@ Learners strengthen the use of a variety of digital technologies  to  tap  into 
 
 ###### The ability to train, re-train and develop new skills
 
-Learners  become  capable  of  constructive  selfevaluation  and  appreciate  the  need  for  lifelong learning within the context of a changing society;  be  capable  of  identifying  and  possibly anticipating emergent needs in society; identifying organisations  that  offer  training  opportunities and be flexible  in  adapting  to  new  technologies and ensuing skills.
+Learners become capable of constructive self-evaluation and appreciate the need for lifelong learning within the context of a changing society; be capable of identifying and possibly anticipating emergent needs in society; identifying organisations that offer training opportunities and be flexible in adapting to new technologies and ensuing skills.
 
 ###### Economic stability and independence
 
@@ -2876,42 +2992,41 @@ During the last three years 22  of the secondary cycle students  make  further  
 
 The  NCF  requires  that  schools  offer  a  range  of subjects from amongst the following list, but the inclusion of other subjects is to be encouraged, should  this  be  sustainable  and  educationally viable.
 
-- | Accounts | - | History
---- | --- | --- | ---
-- | Art | - | Home Economics
-- | Business Studies | - | Foreign Languages: Arabic / French / German/ Italian / Russian / Spanish
-- - | Computing Design and | - | Life Sciences
-- | Technology | - | Materials Science
-- | Drama | - | Music
-- | Economics | - | Physical Education
-- | Graphical | - | Physical Sciences
-- - | Communication Environmental | - | Social Studies
-- | European Studies | - | Textiles Studies
-- | Geography | - | Vocational subjects 23
+- Accounts | - History
+- Art | - Home Economics
+- Business Studies | - Foreign Languages: Arabic / French / German/ Italian / Russian / Spanish
+- Computing | - Life Sciences
+- Design and Technology | - Materials Science
+- Drama | - Music
+- Economics | - Physical Education
+- Graphical Communication | - Physical Sciences
+- Environmental Studies | - Social Studies
+- European Studies | - Textiles Studies
+- Geography | - Vocational subjects23
 
 ###### Vocational Education and Training (VET)
 
-The senior  secondary  years  are  supported  by  a flexible, coherent and diversified curriculum aimed at catering for students' varied interests, needs and abilities..  VET subjects are electives within  the  senior  secondary  curriculum.    The value of VET subjects is to be conferred by the wider  community  where  the  conditions  which sustain  the  trust  of  the  community  are  also those which assure the quality of these subjects such  as:  effective  stakeholder  involvement,  a motivating  curriculum,  responsive  institutions, competent teachers, good careers guidance and student support, and the development of strong linkages to further education and employment.
+The senior secondary years are supported by a flexible, coherent and diversified curriculum aimed at catering for students' varied interests, needs and abilities.. VET subjects are electives within the senior secondary curriculum. The value of VET subjects is to be conferred by the wider community where the conditions which sustain the trust of the community are also those which assure the quality of these subjects such as: effective stakeholder involvement, a motivating curriculum, responsive institutions, competent teachers, good careers guidance and student support, and the development of strong linkages to further education and employment.
 
-> 22 This may be two years in some non-state schools
+VET subjects are introduced in the senior secondary curriculum to diversify the learning opportunities available to students. They are intended to enrich the learning experiences of students of varying learning needs and interests, particularly those who benefit most from a strong practical orientation in their learning. This orientation is also applicable to the learning and assessment of the core subjects. These subjects offer studies with stronger elements of practical learning linked to broad professional and vocational fields. Such subjects :
 
-> 23 Leading to certification (Foreign and Local) recognised on the Malta Qualifications Framework.
-
-VET subjects are introduced in the senior secondary  curriculum  to  diversify  the  learning opportunities  available  to  students.    They  are intended  to  enrich  the  learning  experiences  of students of varying learning needs and interests, particularly those who benefit most from a strong practical orientation in their learning. This orientation  is  also  applicable  to  the  learning and  assessment  of  the  core  subjects.    These subjects offer studies with stronger elements of practical  learning  linked  to  broad  professional and vocational fields.  Such subjects :
-
-- offer  practical  contexts  and  content  designed to engage and motivate students who learn more by doing than conceptualising.
+- offer practical contexts and content designed to engage and motivate students who learn more by doing than conceptualising.
 
 - include content that is designed to challenge students and provide options for both academic and career progression.
 
-- adopt  an  organising  structure  of  areas of studies relevant to broad  trends in vocational  studies  and  the  world  of  work in  Malta.    Each  area  of  studies  provides foundation knowledge and concepts necessary for keeping abreast of knowledge and practices in that area.
+- adopt an organising structure of areas of studies relevant to broad trends in vocational studies and the world of work in Malta. Each area of studies provides foundation knowledge and concepts necessary for keeping abreast of knowledge and practices in that area.
 
 VET subjects :
 
 - enable students to understand fundamental theories and concepts through application and practice, and to develop their generic skills in authentic contexts; and
 
-- provide students with opportunities to explore their career  aspirations  and orientation for life-long learning in specific areas.
+- provide students with opportunities to explore their career aspirations and orientation for life-long learning in specific areas.
 
-During their educational journey, students acquire knowledge, skills competencies, attitudes and  values  across  the  Learning  Areas.    They also  receive  guidance  and  advice  to  help  them make informed choices among elective subjects, including VET subjects, in their secondary cycle  of  education.    Through  the  career-related context  available in schools, students have the opportunity to become familiar with a variety of professions and occupations.  Understanding the knowledge,  skills,  competencies  and  workplace requirements  within  a  professional  field  helps students develop their career aspirations.
+During their educational journey, students acquire knowledge, skills competencies, attitudes and values across the Learning Areas. They also receive guidance and advice to help them make informed choices among elective subjects, including VET subjects, in their secondary cycle of education. Through the career-related context available in schools, students have the opportunity to become familiar with a variety of professions and occupations. Understanding the knowledge, skills, competencies and workplace requirements within a professional field helps students develop their career aspirations.
+
+> 22 This may be two years in some non-state schools
+
+> 23 Leading to certification (Foreign and Local) recognised on the Malta Qualifications Framework.
 
 62
 
@@ -2995,7 +3110,7 @@ The table below shows the percentage minimum entitlement for the different learn
 
 The  proposed  NCF  for the Secondary  years ought  to  prepare  students  to  become  life-long learners and thus be motivated towards pursuing their  studies  in  higher  and  further  educational institutions.  In  addition,  the  secondary  school curriculum should have laid a firm foundation for students to support their future career decisions towards higher and further education paths.
 
-Although the NCF has no jurisdiction on Further and Higher education, it is recommended that a Working Group is set up specifically to consider the  smooth  transition  from  secondary  to  postsecondary and Further and Higher Education.
+Although the NCF has no jurisdiction on Further and Higher education, it is recommended that a Working Group is set up specifically to consider the smooth transition from secondary to post-secondary and Further and Higher Education.
 
 64
 
@@ -3003,51 +3118,41 @@ Although the NCF has no jurisdiction on Further and Higher education, it is reco
 
 [[START OF PAGE 83]]
 
-30.0% LANGUAGES
-
-12.5% MATHEMATICS
-
-12.5% SCIENCE & TECHNOLOGY
-
-5.0% HEALTH & PHYSICAL
-
-EDUCATION
-
-5.0% RELIGIOUS & ETHICS
-
-EDUCATION
-
-10.0% HUMANITIES & EDUCATION
-
-FOR DEMOCRACY
-
-5.0% VISUAL & PERFORMING ARTS
-
-20.0% SCHOOL-BASED CHOICES
-
 LEARNING AREAS % DISTRIBUTION - LOWER SECONDARY YEARS CYCLE
 
+30.0%
+12.5%
+12.5%
+5.0%
+5.0%
+10.0%
+5.0%
+20.0%
+
 30.0% LANGUAGES
-
 12.5% MATHEMATICS
-
 12.5% SCIENCE & TECHNOLOGY
-
-10.0% HEALTH & PHYSICAL
-
-EDUCATION
-
-10.0% RELIGIOUS & ETHICS
-
-EDUCATION; HUMANITIES;
-
-EDUCATION FOR DEMOCRACY;
-
-VISUAL & PERFORMING ARTS
-
-25.0% SCHOOL-BASED CHOICES
+5.0% HEALTH & PHYSICAL EDUCATION
+5.0% RELIGIOUS & ETHICS EDUCATION
+10.0% HUMANITIES & EDUCATION FOR DEMOCRACY
+5.0% VISUAL & PERFORMING ARTS
+20.0% SCHOOL-BASED CHOICES
 
 LEARNING AREAS % DISTRIBUTION - SENIOR SECONDARY YEARS CYCLE
+
+30.0%
+12.5%
+12.5%
+10.0%
+10.0%
+25.0%
+
+30.0% LANGUAGES
+12.5% MATHEMATICS
+12.5% SCIENCE & TECHNOLOGY
+10.0% HEALTH & PHYSICAL EDUCATION
+10.0% RELIGIOUS & ETHICS EDUCATION; HUMANITIES; EDUCATION FOR DEMOCRACY; VISUAL & PERFORMING ARTS
+25.0% SCHOOL-BASED CHOICES
 
 65
 
@@ -3121,27 +3226,27 @@ Young people who adopt a healthy and active lifestyle and appreciate and know ho
 
 [[START OF PAGE 85]]
 
-The desired learning outcomes of the NCF will best be gauged at the end of the compulsory Cycle of education of a learner who enters and completes an education system that is consistent with the NCF's Principles and Aims of education.  This means that, realistically, the first enrolment of learners in a KGI that reflects the NCF ethos will take place in the scholastic year 2014/2015.  A learner who will enter the NCF based education system in 2014/2015 will complete his or her final year of compulsory education under the NCF when he or she completes the final year of his or her Secondary education Cycle (Level 11 (FV)) in the scholastic year 2026/2027.
+The desired learning outcomes of the NCF will best be gauged at the end of the compulsory Cycle of education of a learner who enters and completes an education system that is consistent with the NCF's Principles and Aims of education. This means that, realistically, the first enrolment of learners in a KG1 that reflects the NCF ethos will take place in the scholastic year 2014/2015. A learner who will enter the NCF based education system in 2014/2015 will complete his or her final year of compulsory education under the NCF when he or she completes the final year of his or her Secondary education Cycle (Level 11 (FV)) in the scholastic year 2026/2027.
 
 In essence, therefore, if the education system over the three Cycles of education would have performed and delivered the learning outcomes as planned, then it would be reasonable to assume that the desired outcomes of education would result in the following outputs:
 
-2012 | 2025/2026
---- | --- | ---
-% of 19 year-old students participating in further and higher education excluding Post-Secondary education 24 | 40%
-% of 17 year-old-students participating in further and higher education | 80% + | 90%
-% rate of Students who obtain 1 to 5 Grade in SEC in any five subjects | 66.3% | 75%
-% rate of Students who obtain the Secondary School Certificate and Profile | 0% | 95%
-% of early School leavers 25 | 30% 26 | 10% 27
-PISA Literacy (Levels 2 to 6) | 63.7% | 85%
-PISA Mathematical Literacy (Levels 2 to 6) | 66.4% | 80%
-PISA Scientific Literacy (Levels 2 to 6) | 67.5% | 80%
-TIMSS Mathematics (Intermediate to Advanced) | 60% | 70%
-TIMSS Science (Intermediate to Advanced) | 48% | 60%
-SurveyLang
-English (A2-B2) | 91% | 95%
-Italian (A2-B2) | 50% | 70%
-
 Table 3 : Outcomes of Education 2012 and Targets Set for 2027
+
+|  | 2012 | 2025/2026 |
+| --- | --- | --- |
+| % of 19 year-old students participating in further and higher education excluding Post-Secondary education24 |  | 40% |
+| % of 17 year-old-students participating in further and higher education | 80% + | 90% |
+| % rate of Students who obtain 1 to 5 Grade in SEC in any five subjects | 66.3% | 75% |
+| % rate of Students who obtain the Secondary School Certificate and Profile | 0% | 95% |
+| % of early School leavers25 | 30%26 | 10%27 |
+| PISA Literacy (Levels 2 to 6) | 63.7% | 85% |
+| PISA Mathematical Literacy (Levels 2 to 6) | 66.4% | 80% |
+| PISA Scientific Literacy (Levels 2 to 6) | 67.5% | 80% |
+| TIMSS Mathematics (Intermediate to Advanced) | 60% | 70% |
+| TIMSS Science (Intermediate to Advanced) | 48% | 60% |
+| SurveyLang |  |  |
+| English (A2-B2) | 91% | 95% |
+| Italian (A2-B2) | 50% | 70% |
 
 > 24 Pg21,  NCHE  Further  and  Higher  Education  Statistics  2010,  Report  of  the  Survey,  National  Commission  for  Higher Education, February 2011
 
@@ -3179,29 +3284,33 @@ Table 3 : Outcomes of Education 2012 and Targets Set for 2027
 
 ### REFERENCES
 
-Carr,  M.  (2001).  Assessment  in  early  childhood settings: Learning stories. London: Sage. Department  of  Education  &  Early  Childhood Development & Victorian Curriculum & Assessment Authority, (2009).Victorian Early Years learning and development framework.
+Carr, M. (2001). Assessment in early childhood settings: Learning stories. London: Sage.
 
-For all children from birth to eight years. Australia: Dept of Education & Early Childhood Development & Victorian Curriculum & Assessment Authority. Available at www.education. vic.gov.au and http://www.vcaa.vic.edu.au/earlyyears.
+Department of Education & Early Childhood Development & Victorian Curriculum & Assessment Authority, (2009).Victorian Early Years learning and development framework. For all children from birth to eight years. Australia: Dept of Education & Early Childhood Development & Victorian Curriculum & Assessment Authority. Available at www.education.vic.gov.au and http://www.vcaa.vic.edu.au/earlyyears.
 
-Directorate for Quality and Standards in Education,  Malta.  (2009).  National  policy  and strategy for the attainment of core competences in primary education. Malta: Ministry of Education, Culture, Youth & Sport.
+Directorate for Quality and Standards in Education, Malta. (2009). National policy and strategy for the attainment of core competences in primary education. Malta: Ministry of Education, Culture, Youth & Sport.
 
-Eaude,  T.  (n.d.).  SMSC  -  Optional  extras  or hidden opportunities? Available at: http://www. nationaleducationtrust.net/SISL/Downloads/ hiddenoppsshortened.pdf.
+Eaude, T. (n.d.). SMSC – Optional extras or hidden opportunities? Available at: http://www.nationaleducationtrust.net/SISL/Downloads/hiddenoppsshortened.pdf.
 
-Eurydice (2009). Key data on education in Europe  2009.  Brussels:  Education,  Audiovisual and Culture Executive Agency Available at: http://eacea.ec.europa.eu/education/eurydice/ documents/key_data_series/105EN.pdf.
+Eurydice (2009). Key data on education in Europe 2009. Brussels: Education, Audiovisual and Culture Executive Agency Available at: http://eacea.ec.europa.eu/education/eurydice/documents/key_data_series/105EN.pdf.
 
-Grima,  G.,  Camilleri,  R.,  Chircop,  S.,  Mallia  C. &  Ventura,  F.  (2005).  MATSEC:  Strengthening National Examination System. Malta: Ministry of Education, Youth and Employment.
+Grima, G., Camilleri, R., Chircop, S., Mallia C. & Ventura, F. (2005). MATSEC: Strengthening National Examination System. Malta: Ministry of Education, Youth and Employment.
 
-Grima,  G., Grech, L., Mallia, C., Mizzi, B., Vassallo, P., & Ventura, F. (2007) Transition from Primary to Secondary Schools in Malta: A Review. Malta: Ministry of Education, Culture, Youth and Sports.
+Grima, G., Grech, L., Mallia, C., Mizzi, B., Vassallo, P., & Ventura, F. (2007) Transition from Primary to Secondary Schools in Malta: A Review. Malta: Ministry of Education, Culture, Youth and Sports.
 
 Ministry of Education, Malta. (1999). Creating the Future Together: National Minimum Curriculum. Malta: Ministry of Education.
 
-Sciberras, J., Borg, A., Miller, K., & Tabone, M., (2009),  Further  and  Higher  Education  Strategy 2020, National Commission for Higher Education, Malta
+Sciberras, J., Borg, A., Miller, K., & Tabone, M., (2009), Further and Higher Education Strategy 2020, National Commission for Higher Education, Malta
 
-Office of the United Nations High Commissioner for Human Rights (1989). United Nations Convention on the rights of the child. Available at: http://www2.ohchr.org/english/law/pdf/ crc.pdf Podmore,  V.,  Meade,  A.  &  Kerslake  Hendrikcs, A.  (2000).  Aspects  of  quality  in  early  childhood education. Wellington: New Zealand Council for Educational Research. Available at: http://www. nzcer.org.nz/pdfs/5885.pdf Simister, C.J. (2007). How to teach thinking and learning  skills.  A  practical  programme  for  the whole school. London: Sage.
+Office of the United Nations High Commissioner for Human Rights (1989). United Nations Convention on the rights of the child. Available at: http://www2.ohchr.org/english/law/pdf/crc.pdf
 
-Waddell,  A.T.  &  McBride,  R.M.  (2008).  New research on early childhood education. New York: Nova Science.
+Podmore, V., Meade, A. & Kerslake Hendrikcs, A. (2000). Aspects of quality in early childhood education. Wellington: New Zealand Council for Educational Research. Available at: http://www.nzcer.org.nz/pdfs/5885.pdf
 
-Wilks,  A.,  Nyland,  B.,  Chancellor,  B.  &  Elliot, S. (2008). Analysis of Curriculum/Learning Frameworks for the Early Years (Birth to Age 8). Victoria,  Australia:  Victorian  Curriculum  and Assessment Authority. Available at: http://www. eduweb.vic.gov.au/edulibrary/public/ earlychildhood/Early_Years_Lit_Review.pdf
+Simister, C.J. (2007). How to teach thinking and learning skills. A practical programme for the whole school. London: Sage.
+
+Waddell, A.T. & McBride, R.M. (2008). New research on early childhood education. New York: Nova Science.
+
+Wilks, A., Nyland, B., Chancellor, B. & Elliot, S. (2008). Analysis of Curriculum/Learning Frameworks for the Early Years (Birth to Age 8). Victoria, Australia: Victorian Curriculum and Assessment Authority. Available at: http://www.eduweb.vic.gov.au/edulibrary/public/earlychildhood/Early_Years_Lit_Review.pdf
 
 71
 
@@ -3221,7 +3330,7 @@ On 1st August 2012 the Minister for Education and Employment appointed a Working
 
 (iv) Present a final NCF document.
 
-The Working Group was tasked to conclude its work by 30 th  September 2012.
+The Working Group was tasked to conclude its work by 30th September 2012.
 
 72
 
@@ -3233,31 +3342,44 @@ The Working Group was tasked to conclude its work by 30 th  September 2012.
 
 The Working Group is constituted as follows:
 
-Chairperson Dr James Calleja Permanent Secretary, Ministry of Education and Employment
+Chairperson
+Dr James Calleja
+Permanent Secretary, Ministry of Education and Employment
 
 Deputy Chairperson
-
 Professor Grace Grima
-
 Director General, Directorate for Quality and Standards in Education, MEDE
 
-Members Mr Marco Bonnici Senior Vice President, Malta Union of Teachers Sister Johanna Gatt OSA Head of School, Saint Monica School (Church Sector)
+Members
+Mr Marco Bonnici
+Senior Vice President, Malta Union of Teachers
 
-Dr Joe Gauci Head of School, San Anton School (Independent Sector)
+Sister Johanna Gatt OSA
+Head of School, Saint Monica School (Church Sector)
 
-Mr Ian Mifsud Head of School, St Nicholas College, Naxxar Boys Secondary (State Sector)
+Dr Joe Gauci
+Head of School, San Anton School (Independent Sector)
 
-Mrs Maria Montebello Head of School, St Ignatius College, Girls Secondary School (State Sector)
+Mr Ian Mifsud
+Head of School, St Nicholas College, Naxxar Boys Secondary (State Sector)
 
-Mrs Anita Sciberras Principal, Gozo College (State Sector)
+Mrs Maria Montebello
+Head of School, St Ignatius College, Girls Secondary School (State Sector)
 
-Professor Valerie Sollars Dean, Faculty of Education, University of Malta
+Mrs Anita Sciberras
+Principal, Gozo College (State Sector)
 
-Mr David Spiteri Gingell Reviewer of NCF Consultation Feedback, Ministry of Education and Employment
+Professor Valerie Sollars
+Dean, Faculty of Education, University of Malta
 
-Professor Frank Ventura Chairman, MATSEC Board
+Mr David Spiteri Gingell
+Reviewer of NCF Consultation Feedback, Ministry of Education and Employment
 
-Secretary Ms Beatrice Mizzi - Office of the Permanent Secretary, Ministry of Education and Employment
+Professor Frank Ventura
+Chairman, MATSEC Board
+
+Secretary
+Ms Beatrice Mizzi - Office of the Permanent Secretary, Ministry of Education and Employment
 
 73
 
@@ -3265,11 +3387,55 @@ Secretary Ms Beatrice Mizzi - Office of the Permanent Secretary, Ministry of Edu
 
 [[START OF PAGE 92]]
 
-### Appendix III: The  Level  Descriptors  of  the  Malta  Qualifications Framework for Lifelong Learning
+### Appendix III: The Level Descriptors of the Malta Qualifications Framework for Lifelong Learning
+
+#### Level 1 MQF
+
+##### Level Knowledge
+
+L
+
+- Ø Level 1 EQF-Basic general knowledge;
+
+1. Acquires basic general knowledge related to the immediate environment and expressed through a variety of simple tools and contexts as an entry point to lifelong learning;
+
+2. Knows and understands the steps needed to complete simple tasks and activities in familiar environments;
+
+3. Is aware and understands basic tasks and instructions;
+
+4. Understands basic textbooks.
+
+##### Skills
+
+- Ø (EQF) Basic skills required to carry out simple tasks
+
+1. Has the ability to apply basic knowledge and carry out a limited range of simple tasks;
+
+2. Has basic repetitive communication skills to complete well defined routine tasks and identifies whether actions have been accomplished;
+
+3. Follows instructions and be aware of consequences of basic actions for self and others.
+
+##### Competences
+
+- Ø (EQF) Work or study under direct supervision in a structured context
+
+1. Applies basic knowledge and skills to do simple repetitive and familiar tasks;
+
+2. Participates in and takes basic responsibility for the action of simple tasks;
+
+3. Activities are carried out under guidance and within simple defined timeframes;
+
+4. Acquires and applies basic key competences at this level.
+
+##### Learning Outcomes
+
+###### Knowledge and Understanding
+
+Has basic knowledge and understanding of textbooks and simple tasks while relating to the immediate environment.
 
 ###### Applying Knowledge and Understanding
 
-Follows  instructions  and  completes  repetitive simple  tasks  in  familiar  contexts  and  under  a quality controlled system.
+Follows instructions and completes repetitive simple tasks in familiar contexts and under a quality controlled system.
 
 ###### Communication Skills
 
@@ -3291,65 +3457,21 @@ Takes some responsibility for completing simple tasks and exercises limited auto
 
 ##### Level Knowledge
 
-- Ø (EQF)  Basic  factual  knowledge  of  a  of work or study;
+- Ø (EQF) - Basic factual knowledge of a of work or study;
 
-- Possess good knowledge of a field of work or study;
+1. Possess good knowledge of a field of work or study;
 
-- Is aware of and interprets types of information and ideas;
+2. Is aware of and interprets types of information and ideas;
 
-- Understands  facts  and  procedures  in  the application of basic tasks and instructions;
+3. Understands facts and procedures in the application of basic tasks and instructions;
 
-- Selects  and  uses  relevant  knowledge  to accomplish  specific  actions  for  self  and others.
-
-##### Skills
-
-- Ø (EQF) Basic cognitive and practical skills required to use relevant information in order  to  carry  out  tasks  and  to  solve routine problems using simple rules and tools.
-
-- Has the ability  to  demonstrate  a  range  of skills  by  carrying  out  a  range  of  complex tasks  within  a  specified  field  of  work  or study;
-
-#### Level 1 MQF
-
-##### Level Knowledge
-
-L
-
-- Ø Level 1 EQF-Basic general knowledge ;
-
-- Acquires  basic  general  knowledge  related to the immediate environment and expressed through a variety of simple tools and contexts as an entry point to lifelong learning;
-
-- Knows and understands the steps needed to  complete  simple  tasks  and  activities  in familiar environments;
-
-- Is aware and understands basic tasks and instructions;
-
-- Understands basic textbooks.
+4. Selects and uses relevant knowledge to accomplish specific actions for self and others.
 
 ##### Skills
 
-Ø (EQF) Basic skills required to carry out simple tasks
+- Ø (EQF) Basic cognitive and practical skills required to use relevant information in order to carry out tasks and to solve routine problems using simple rules and tools.
 
-- Has  the  ability  to  apply  basic  knowledge and  carry  out  a  limited  range  of  simple tasks;
-
-- Has  basic  repetitive  communication  skills to complete well defined routine tasks and  identifies  whether  actions  have  been accomplished;
-
-- Follows instructions and be aware of consequences of basic actions for self and others.
-
-##### Competences
-
-- Ø (EQF) Work or study under direct supervision in a structured context
-
-- Applies  basic  knowledge  and  skills  to  do simple repetitive and familiar tasks;
-
-- Participates in and takes basic responsibility for the action of simple tasks;
-
-- Activities  are  carried  out  under  guidance and within simple defined timeframes;
-
-- Acquires and applies basic key competences at this level.
-
-##### Learning Outcomes
-
-###### Knowledge and Understanding
-
-Has basic knowledge and understanding of textbooks and simple tasks while relating to the immediate environment.
+1. Has the ability to demonstrate a range of skills by carrying out a range of complex tasks within a specified field of work or study;
 
 74
 
@@ -3357,21 +3479,21 @@ Has basic knowledge and understanding of textbooks and simple tasks while relati
 
 [[START OF PAGE 93]]
 
-- Communicates basic information;
+2. Communicates basic information;
 
-- Ensures tasks are carried out effectively.
+3. Ensures tasks are carried out effectively.
 
 ##### Competences
 
-- Ø (EQF)  Work  or  study  under  supervision some autonomy.
+- Ø (EQF) Work or study under supervision some autonomy.
 
-- Applies  factual  knowledge  and  practical skills  to  do  with  some  autonomy  some structured tasks;
+1. Applies factual knowledge and practical skills to do with some autonomy some structured tasks;
 
-- Ensures one acts pro-actively;
+2. Ensures one acts pro-actively;
 
-- Carries out activities under limited supervision and with limited responsibility in a quality controlled context;
+3. Carries out activities under limited supervision and with limited responsibility in a quality controlled context;
 
-- Acquires and applies basic key competences at this level.
+4. Acquires and applies basic key competences at this level.
 
 ##### Learning Outcomes
 
@@ -3381,11 +3503,11 @@ Understands and uses good knowledge for tasks procedures or a field of work or s
 
 ###### Applying Knowledge and Understanding;
 
-Follows  instructions  and  completes  a  range  of well-defined tasks.
+Follows instructions and completes a range of well-defined tasks.
 
 ###### Communication Skills;
 
-Communicates  basic  information  in  unfamiliar contexts.
+Communicates basic information in unfamiliar contexts.
 
 ###### Judgmental Skills;
 
@@ -3397,53 +3519,53 @@ Acquires and applies key competences to a range of actions.
 
 ###### Autonomy and Responsibility
 
-Takes  responsibility and  exercises  autonomy in  well-defined  tasks  under  a  quality  controlled system.
+Takes responsibility and exercises autonomy in well-defined tasks under a quality controlled system.
 
 #### Level 3 MQF
 
 ##### Level Knowledge
 
-- Ø (EQF)  Knowledge  of  facts,  principles, processes and general concepts in a field of work or study.
+- Ø (EQF) Knowledge of facts, principles, processes and general concepts in a field of work or study.
 
-- Understands  the  relevancy  of  theoretical knowledge and information related to  one field of work or study;
+1. Understands the relevancy of theoretical knowledge and information related to one field of work or study;
 
-- Assesses,  evaluates  and  interprets  facts establishing basic principles and concepts in a particular field of work or study;
+2. Assesses, evaluates and interprets facts establishing basic principles and concepts in a particular field of work or study;
 
-- Understands  facts  and  procedures  in  the application  of  more  complex  tasks  and instructions;
+3. Understands facts and procedures in the application of more complex tasks and instructions;
 
-- Selects and uses relevant knowledge acquired on one's own initiative to accomplish  specific  actions  or  self  and others.
+4. Selects and uses relevant knowledge acquired on one's own initiative to accomplish specific actions or self and others.
 
 ##### Skills
 
-- Ø (EQF) A range of cognitive and practical skills  required to accomplish tasks and solve problems by selecting and applying basic methods, tools, materials and information.
+- Ø (EQF) A range of cognitive and practical skills required to accomplish tasks and solve problems by selecting and applying basic methods, tools, materials and information.
 
-- Demonstrates  a  range  of  developed  skills to carry out more than one complex task effectively and in unfamiliar and unpredictable contexts;
+1. Demonstrates a range of developed skills to carry out more than one complex task effectively and in unfamiliar and unpredictable contexts;
 
-- Communicates more complex information;
+2. Communicates more complex information;
 
-- solves  basic  problems  by  applying  basic methods, tools, materials and information given in a restricted learning environment.
+3. solves basic problems by applying basic methods, tools, materials and information given in a restricted learning environment.
 
 ##### Competences
 
-- Ø (EQF) Take responsibility for completion of  tasks  in  work  or  study  adapt  own behaviour to circumstances in solving in solving problems.
+- Ø (EQF) Take responsibility for completion of tasks in work or study adapt own behaviour to circumstances in solving in solving problems.
 
-- Applies  knowledge  and  skills  to  do  some tasks systematically;
+1. Applies knowledge and skills to do some tasks systematically;
 
-- Adapts own  behavior to circumstances in solving problems by participating pro-actively in structured learning environments;
+2. Adapts own behavior to circumstances in solving problems by participating pro-actively in structured learning environments;
 
-- Uses own initiative with established responsibility  and  autonomy,  but  supervised in quality controlled learning environments normally within a craftsmanship environment;
+3. Uses own initiative with established responsibility and autonomy, but supervised in quality controlled learning environments normally within a craftsmanship environment;
 
-- Acquires key competences at this level as a basis for lifelong learning.
+4. Acquires key competences at this level as a basis for lifelong learning.
 
 ##### Learning Outcomes
 
 ###### Knowledge and Understanding;
 
-Understands theoretical knowledge and information  related  to  complex  procedures  in  a field of work or study.
+Understands theoretical knowledge and information related to complex procedures in a field of work or study.
 
 ###### Applying Knowledge and Understanding;
 
-Follows  instructions  and  carries  out  complex tasks systematically and in unfamiliar and unpredictable contexts.
+Follows instructions and carries out complex tasks systematically and in unfamiliar and unpredictable contexts.
 
 75
 
@@ -3473,7 +3595,9 @@ Takes agreed responsibility for completing complex tasks, and interacts with the
 
 [[START OF PAGE 95]]
 
-(this page came through the extractor with no text)
+The cover illustrates the heart of the National Curriculum Framework which is the classroom set-up, in which the teacher is given the latest technology to facilitate learning in an environment that captures diversity and inclusivity and leads students to work towards personal growth, an understanding of the values of solidarity and social justice, formal qualifications and employability.
+
+Picture taken by ©Roberto Runza
 
 [[END OF PAGE 95]]
 
