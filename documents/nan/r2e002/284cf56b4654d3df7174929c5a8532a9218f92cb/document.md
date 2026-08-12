@@ -10,9 +10,15 @@ Renovamos nuestro compromiso para avanzar en el ejercicio de los derechos de tod
 
 CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
-# C U A R T O   P L A N   N A C I O N A L   D E   I G U A L D A D E N T R E   M U J E R E S   Y   H O M B R E S 2 0 1 8 - 2 0 3 0
+# C U A R T O P L A N N A C I O N A L D E I G U A L D A D
 
-MI N I S T E R I O   D E   L A   M U J E R   Y   E Q U I D A D   D E   G É N E R O MARZO  2 0 1 8
+E N T R E M U J E R E S Y H O M B R E S
+
+2 0 1 8 - 2 0 3 0
+
+M I N I S T E R I O D E L A M U J E R Y E Q U I D A D D E G É N E R O
+
+M A R Z O 2 0 1 8
 
 1
 
@@ -20,11 +26,47 @@ MI N I S T E R I O   D E   L A   M U J E R   Y   E Q U I D A D   D E   G É N E 
 
 [[START OF PAGE 3]]
 
-# ÍNDICE
-
 CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
-49
+# ÍNDICE
+
+PRESENTACIÓN 4
+
+I. ENFOQUES QUE SUSTENTAN EL CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030 6
+1.1. ENFOQUE DE DERECHOS HUMANOS DE LAS MUJERES 6
+a. Derechos civiles y políticos 6
+b. Derechos económicos 7
+c. Derechos sexuales y reproductivos, y a la salud integral 7
+d. Derecho a una vida libre de violencia y discriminación 8
+e. Derechos sociales y culturales 8
+f. Derechos colectivos y ambientales 8
+1.2. ENFOQUE DE INTERCULTURALIDAD E INTERSECCIONALIDAD 9
+1.3. ENFOQUE DE CIUDADANÍA PLURAL, DEMOCRACIA PARITARIA, REPRESENTATIVA Y PARTICIPATIVA 9
+1.4. ENFOQUE TERRITORIAL 9
+
+II. REFERENTES DETERMINANTES DEL CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030 11
+2.1. COMPROMISOS INTERNACIONALES DEL ESTADO CHILENO 11
+2.2. NUEVA AGENDA DE DESARROLLO SOSTENIBLE HACIA 2030 12
+2.2.1 Relación entre Derechos contenidos en el Plan y en los Objetivos de Desarrollo Sostenible 15
+2.3 PROCESO DE ELABORACIÓN DEL PLAN 19
+
+III. CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES, EN SU DIMENSIÓN ARTICULADORA Y ESTRATÉGICA 23
+3.1. Objetivos estratégicos del Cuarto Plan Nacional de Igualdad 23
+3.2. Objetivos específicos para cada Derecho 25
+3.3. Objetivos en torno a la Institucionalidad de Género 27
+
+IV. MATRIZ DE METAS E INDICADORES PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030 28
+4.1. DERECHOS CIVILES Y POLÍTICOS 29
+4.1.1. Avances 29
+4.1.2. Situación actual 30
+4.1.3. Matriz de metas Derechos Civiles y Políticos 31
+4.2. DERECHOS ECONÓMICOS 34
+4.2.1. Avances 34
+4.2.2. Situación actual 36
+4.2.3. Matriz de metas Derechos Económicos 40
+4.3. DERECHOS SEXUALES Y REPRODUCTIVOS, Y A LA SALUD INTEGRAL 48
+4.3.1. Avances 48
+4.3.2. Situación actual 49
 
 2
 
@@ -34,25 +76,60 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
+4.3.3. Matriz de metas Derechos Sexuales y Reproductivos, y a la Salud Integral 51
+4.4. DERECHO A UNA VIDA LIBRE DE VIOLENCIA Y DISCRIMINACIÓN 54
+4.4.1. Avances 54
+4.4.2. Situación actual 55
+4.4.3. Matriz de metas Derecho a una vida libre de Violencia y Discriminación 57
+4.5. DERECHOS SOCIALES Y CULTURALES 61
+4.5.1. Avances 61
+4.5.2. Situación actual 62
+4.5.3. Matriz de metas Derechos Sociales y Culturales 65
+4.6. DERECHOS COLECTIVOS Y AMBIENTALES 68
+4.6.1. Avances 68
+4.6.2. Situación actual 68
+4.6.3. Matriz de metas Derechos Colectivos y Ambientales 70
+4.7. GRUPOS ESPECÍFICOS DE MUJERES Y SUS DERECHOS 72
+4.7.1. MUJERES INMIGRANTES 72
+4.7.1.1. Avances 72
+4.7.1.2. Situación actual 73
+4.7.2. MUJERES RURALES 74
+4.7.2.1. Avances 74
+4.7.2.2. Situación actual 75
+4.7.3. MUJERES DE PUEBLOS ORIGINARIOS 76
+4.7.3.1. Avances 76
+4.7.3.2. Situación actual 77
+4.7.4. MUJERES DE LA DIVERSIDAD SEXUAL 77
+4.7.4.1 Avances 77
+4.7.4.2 Situación actual 78
+4.8 INSTITUCIONALIDAD DE GÉNERO Y ARTICULACIÓN DE INICIATIVAS DEL ESTADO 79
+4.8.1. Avances 79
+4.8.2. Matriz de metas Institucionalidad de Género y articulación de iniciativas del Estado 84
+
+Bibliografía 87
+
+ANEXO:
+Matriz de metas comprometidas por Ministerios en otros Planes nacionales, políticas y estrategias 92
+
 3
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
+CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
+
 # PRESENTACIÓN
 
 La elaboración del Cuarto Plan Nacional de Igualdad entre Mujeres y Hombres 2018-2030 tiene lugar en un período marcado por grandes transformaciones a nivel global, nacional y en el ámbito específico de las relaciones de género, las que, si bien abren oportunidades, implican también importantes desafíos para la calidad de la democracia y sus instituciones, y para el bienestar personal y social.
 
-La incorporación creciente de los países a las dinámicas económicas, sociopolíticas y culturales globales -junto al gran avance tecnológico -amplía significativamente el espacio social y reduce el tiempo de las interacciones sociales y de la conectividad. Las transformaciones socioculturales y de las prácticas cotidianas dan origen a una sociedad más plural compuesta por ciudadanas y ciudadanos con experiencias de vida diferentes y desiguales, que comparten ideales de igualdad y que tienen una mayor conciencia de derechos y aspiraciones de soberanía sobre sus proyectos de vida. Al mismo tiempo, los cambios en la organización de la producción y en el mercado laboral, y las transformaciones socioculturales señaladas, elevan los niveles de incertidumbre y el riesgo que enfrentan las personas en distintos momentos de su ciclo vital, lo que, a su vez, pone en tensión el sistema político y las instituciones del Estado en su papel de garante de los derechos ciudadanos.
+La incorporación creciente de los países a las dinámicas económicas, sociopolíticas y culturales globales –junto al gran avance tecnológico– amplía significativamente el espacio social y reduce el tiempo de las interacciones sociales y de la conectividad. Las transformaciones socioculturales y de las prácticas cotidianas dan origen a una sociedad más plural compuesta por ciudadanas y ciudadanos con experiencias de vida diferentes y desiguales, que comparten ideales de igualdad y que tienen una mayor conciencia de derechos y aspiraciones de soberanía sobre sus proyectos de vida. Al mismo tiempo, los cambios en la organización de la producción y en el mercado laboral, y las transformaciones socioculturales señaladas, elevan los niveles de incertidumbre y el riesgo que enfrentan las personas en distintos momentos de su ciclo vital, lo que, a su vez, pone en tensión el sistema político y las instituciones del Estado en su papel de garante de los derechos ciudadanos.
 
-En  este  escenario,  el  papel  del  Estado  y  su  compromiso  con  los  estándares  de  los  derechos humanos es fundamental para la construcción de una sociedad democrática más inclusiva que garantice el ejercicio  de  los  derechos  ciudadanos,  respete  la  diversidad  de  formas,  culturas  y situaciones de vida, eleve los niveles de seguridad de las personas y disminuya la incertidumbre y los riesgos que se enfrentan en la sociedad actual.
+En este escenario, el papel del Estado y su compromiso con los estándares de los derechos humanos es fundamental para la construcción de una sociedad democrática más inclusiva que garantice el ejercicio de los derechos ciudadanos, respete la diversidad de formas, culturas y situaciones de vida, eleve los niveles de seguridad de las personas y disminuya la incertidumbre y los riesgos que se enfrentan en la sociedad actual.
 
 En esta dirección, el Estado chileno ha suscrito los compromisos relativos a los derechos humanos de las mujeres y sobre la igualdad y equidad de género, cuyas orientaciones se han cristalizado en significativos avances legislativos y en estrategias, políticas, planes y programas que abordan las demandas por justicia de género de las mujeres.
 
-La promulgación de la Ley 20.820 que crea el Ministerio de la Mujer y la Equidad de Género en marzo de 2015, marca un hito en el compromiso del Estado chileno con la igualdad sustantiva entre  mujeres  y  hombres.  Su  mandato  como  órgano  rector  es  velar  por  la  coordinación, consistencia y coherencia de las políticas, planes y programas en materia de equidad de género. Para cumplir con este rol le corresponde planificar y desarrollar políticas y medidas especiales para la diversidad de mujeres, con pertinencia cultural, destinadas a favorecer la igualdad de derechos  y  de  oportunidades  entre  hombres  y  mujeres -procurando  eliminar  toda  forma  de discriminación arbitraria basada en el género -, la plena participación de las mujeres en los planos cultural, político, económico y social, así como el ejercicio de sus derechos humanos y libertades fundamentales  y  velar  por  el  cumplimiento  de  las  obligaciones  contenidas  en  los  tratados internacionales ratificados por Chile en la materia y que se encuentren vigentes (Art. 2).
-
-CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
+La promulgación de la Ley 20.820 que crea el Ministerio de la Mujer y la Equidad de Género en marzo de 2015, marca un hito en el compromiso del Estado chileno con la igualdad sustantiva entre mujeres y hombres. Su mandato como órgano rector es velar por la coordinación, consistencia y coherencia de las políticas, planes y programas en materia de equidad de género. Para cumplir con este rol le corresponde planificar y desarrollar políticas y medidas especiales para la diversidad de mujeres, con pertinencia cultural, destinadas a favorecer la igualdad de derechos y de oportunidades entre hombres y mujeres –procurando eliminar toda forma de discriminación arbitraria basada en el género–, la plena participación de las mujeres en los planos cultural, político, económico y social, así como el ejercicio de sus derechos humanos y libertades fundamentales y velar por el cumplimiento de las obligaciones contenidas en los tratados internacionales ratificados por Chile en la materia y que se encuentren vigentes (Art. 2).
 
 4
 
@@ -62,7 +139,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
-Dentro de sus funciones, el Ministerio debe 'formular, coordinar y evaluar Planes Nacionales de Igualdad entre Hombres y Mujeres' (Art.  3a),  para  hacer posible una actuación articulada del Estado que garantice los derechos humanos de las mujeres y el adelanto, en forma coordinada, en la igualdad sustantiva, y en la autonomía física, económica y política de las mujeres en distintos ámbitos de la vida.
+Dentro de sus funciones, el Ministerio debe “formular, coordinar y evaluar Planes Nacionales de Igualdad entre Hombres y Mujeres” (Art. 3a), para hacer posible una actuación articulada del Estado que garantice los derechos humanos de las mujeres y el adelanto, en forma coordinada, en la igualdad sustantiva, y en la autonomía física, económica y política de las mujeres en distintos ámbitos de la vida.
 
 El Cuarto Plan Nacional de Igualdad entre Mujeres y Hombres 2018-2030 ha estado precedido de tres planes de igualdad cuyos objetivos y metas han encauzado las políticas de género en los distintos gobiernos. El primer Plan, cubrió el período 1994-1999, el segundo, abarcó los años 2000 a 2010 y el tercero, los años 2010-2020.
 
@@ -82,11 +159,13 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 # I. ENFOQUES QUE SUSTENTAN EL CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
-Los enfoques que orientan los contenidos del Cuarto Plan Nacional de Igualdad entre Mujeres y Hombres 2018-2030 ponen como centro la superación de las desigualdades de género y el pleno ejercicio de los derechos y autonomía de la diversidad de mujeres que habitan en Chile. Esto es coherente con los enfoques determinados en las distintas Convenciones y acuerdos internacionales de Naciones Unidas, Conferencias Regionales sobre la Mujer de América Latina y el Caribe y con el documento acordado y aprobado por el Gobierno de Chile en la XIII Conferencia Regional sobre la Mujer, conocido como 'Estrategia de Montevideo para la Implementación de la Agenda Regional de Género en el Marco del Desarrollo Sostenible hacia 2030' (Montevideo, 2016).
+Los enfoques que orientan los contenidos del Cuarto Plan Nacional de Igualdad entre Mujeres y Hombres 2018-2030 ponen como centro la superación de las desigualdades de género y el pleno ejercicio de los derechos y autonomía de la diversidad de mujeres que habitan en Chile. Esto es coherente con los enfoques determinados en las distintas Convenciones y acuerdos internacionales de Naciones Unidas, Conferencias Regionales sobre la Mujer de América Latina y el Caribe y con el documento acordado y aprobado por el Gobierno de Chile en la XIII Conferencia Regional sobre la Mujer, conocido como “Estrategia de Montevideo para la Implementación de la Agenda Regional de Género en el Marco del Desarrollo Sostenible hacia 2030” (Montevideo, 2016).
 
 ## 1.1.   ENFOQUE DE DERECHOS HUMANOS DE LAS MUJERES
 
-El  enfoque  basado  en  derechos  humanos  aporta  un  marco  conceptual  y  metodológico  que considera los derechos humanos constitutivos e implícitos en los objetivos de desarrollo. Desde un punto de vista normativo se fundamenta en estándares internacionales de Derechos Humanos y desde un punto de vista operativo, se dirige a promover, proteger y hacer efectivos los derechos humanos  de  las  mujeres  (De  Luis,  2009) 1 .  Este  enfoque  afirma  el  carácter  indivisible, interdependiente, inalienable y no negociable de los derechos humanos de las mujeres, los que incluyen derechos individuales y derechos colectivos, e incorporan el derecho al desarrollo. Los  derechos  de  la  diversidad  de  mujeres  reconocidos  en  distintas  Convenciones,  Tratados  y Conferencias y ratificados en la Estrategia de Montevideo, son los ejes en torno al cual se organiza el presente Plan:
+El enfoque basado en derechos humanos aporta un marco conceptual y metodológico que considera los derechos humanos constitutivos e implícitos en los objetivos de desarrollo. Desde un punto de vista normativo se fundamenta en estándares internacionales de Derechos Humanos y desde un punto de vista operativo, se dirige a promover, proteger y hacer efectivos los derechos humanos de las mujeres (De Luis, 2009)¹. Este enfoque afirma el carácter indivisible, interdependiente, inalienable y no negociable de los derechos humanos de las mujeres, los que incluyen derechos individuales y derechos colectivos, e incorporan el derecho al desarrollo.
+
+Los derechos de la diversidad de mujeres reconocidos en distintas Convenciones, Tratados y Conferencias y ratificados en la Estrategia de Montevideo, son los ejes en torno al cual se organiza el presente Plan:
 
 ### a. Derechos civiles y políticos
 
@@ -94,7 +173,7 @@ Estos derechos garantizan la capacidad de ciudadanas y ciudadanos para participa
 
 El  Pacto  Internacional  de  Derechos  Civiles  y  Políticos  (ONU,  1966)  compromete  a  los  Estados Partes a garantizar a hombres y mujeres la igualdad en el goce de todos los derechos civiles y políticos:  derecho  a  la  vida;  a  la  seguridad  de  la  persona:  protección  contra  el  arresto  y  la detención  arbitraria  en  cualquier  circunstancia;  a  la  equidad  procesal  ante  la  legislación  y  al
 
-> 1 Elena De Luis, 'Antecedentes'. En: Celia Fernández Aller (y otras), 2009, Marco teórico para la aplicación del enfoque basado en derechos humanos en la cooperación para el desarrollo. Madrid, editorial Los Libros de la Catarata, Red Universitaria de Investigación sobre Cooperación para el Desarrollo.
+> 1 Elena De Luis, “Antecedentes”. En: Celia Fernández Aller (y otras), 2009, Marco teórico para la aplicación del enfoque basado en derechos humanos en la cooperación para el desarrollo. Madrid, editorial Los Libros de la Catarata, Red Universitaria de Investigación sobre Cooperación para el Desarrollo.
 
 6
 
@@ -104,11 +183,11 @@ El  Pacto  Internacional  de  Derechos  Civiles  y  Políticos  (ONU,  1966)  co
 
 CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
-debido  proceso;  a  la  libertad  de  expresión,  conciencia  y  religión;  a  elegir  y  ser  elegido/a  por
+debido proceso; a la libertad de expresión, conciencia y religión; a elegir y ser elegido/a por sufragio universal; prohibición de la tortura y los tratos crueles, inhumanos y degradantes.
 
-sufragio universal; prohibición de la tortura y los tratos crueles, inhumanos y degradantes. El  Estado debe, por tanto, reconocer, promover y garantizar la participación y representación política proporcional de las mujeres, estableciendo mecanismos necesarios de acción afirmativa que  permitan  acelerar  y  equilibrar  la  distribución  del  poder  en  todos  los  espacios  políticos, incluidos aquellos de designación directa y de elección popular. Los  derechos  civiles  y  políticos  de  las  mujeres  abarcan  los  temas  de  participación  política  y liderazgo,  partidos  políticos  y  sistemas  electorales;  representación  proporcional  y  paridad, organizaciones y movimientos de mujeres y feministas, migración, conflictos y construcción de
+El Estado debe, por tanto, reconocer, promover y garantizar la participación y representación política proporcional de las mujeres, estableciendo mecanismos necesarios de acción afirmativa que permitan acelerar y equilibrar la distribución del poder en todos los espacios políticos, incluidos aquellos de designación directa y de elección popular.
 
-paz, entre otros (CEPAL, 2016).
+Los derechos civiles y políticos de las mujeres abarcan los temas de participación política y liderazgo, partidos políticos y sistemas electorales; representación proporcional y paridad, organizaciones y movimientos de mujeres y feministas, migración, conflictos y construcción de paz, entre otros (CEPAL, 2016).
 
 ### b. Derechos económicos
 
@@ -120,7 +199,7 @@ Estos  derechos  engloban  una  amplia  gama  de  contenidos  referidos  a  los 
 
 ### c. Derechos sexuales y reproductivos, y a la salud integral
 
-'El disfrute del más alto nivel posible de salud es uno de los derechos fundamentales de cualquier ser  humano  sin  distinción  de  raza,  religión,  creencia  política  ideológica,  y  condición  social  o económica' se consagró por primera vez en la Constitución de la OMS (1946).
+“El disfrute del más alto nivel posible de salud es uno de los derechos fundamentales de cualquier ser humano sin distinción de raza, religión, creencia política ideológica, y condición social o económica” se consagró por primera vez en la Constitución de la OMS (1946).
 
 En la Conferencia sobre Población y Desarrollo (El Cairo, 1994) y en la Cuarta Conferencia Mundial sobre la Mujer (Beijing, 1995) se estableció que mujeres y hombres tienen derecho a tener control respecto  de  su  sexualidad,  a  decidir  libre  y  responsablemente  sobre  ella  sin  verse  sujetos  a
 
@@ -142,7 +221,7 @@ La violencia contra las mujeres y las niñas, en el ámbito público y en el pri
 
 ### e. Derechos sociales y culturales
 
-Estos derechos se refieren tanto al derecho al bienestar y seguridad -derecho a la alimentación, a la educación, a la vivienda y a la salud -como al derecho a la diversidad cultural, étnica, de nacionalidad, ideológica, de condición psíquica y/o física, sexual y de género.
+Estos derechos se refieren tanto al derecho al bienestar y seguridad – derecho a la alimentación, a la educación, a la vivienda y a la salud – como al derecho a la diversidad cultural, étnica, de nacionalidad, ideológica, de condición psíquica y/o física, sexual y de género.
 
 En el marco de estos derechos se establece también que las prácticas culturales o tradicionales no se deben utilizar como justificativo para prácticas que discriminan contra la mujer o violan sus derechos humanos (IWRAW Asia-Pacífico y la Red-DESC, 2013).
 
@@ -202,13 +281,13 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 El Cuarto Plan Nacional de Igualdad entre Mujeres y Hombres 2018-2030 se construye con base en:
 
-- Los compromisos internacionales asumidos por el Estado chileno en materia de igualdad de género, en particular los Objetivos de Desarrollo Sostenible de la Agenda 2030 y la Estrategia de Montevideo para la Implementación de la Agenda Regional de Género en el Marco del Desarrollo Sostenible hacia 2030 2 .
+1. Los compromisos internacionales asumidos por el Estado chileno en materia de igualdad de género, en particular los Objetivos de Desarrollo Sostenible de la Agenda 2030 y la Estrategia de Montevideo para la Implementación de la Agenda Regional de Género en el Marco del Desarrollo Sostenible hacia 2030².
 
-- El análisis de los avances realizados por el Estado en materia de igualdad de género y derechos humanos  de  las  mujeres  en  los  marcos  jurídicos,  en  las  políticas  y  en  la  arquitectura institucional de género que han impactado positivamente la situación actual de los derechos de las mujeres, y al mismo tiempo pone en evidencia los principales desafíos derivados de las desigualdades entre hombres y mujeres.
+2. El análisis de los avances realizados por el Estado en materia de igualdad de género y derechos humanos de las mujeres en los marcos jurídicos, en las políticas y en la arquitectura institucional de género que han impactado positivamente la situación actual de los derechos de las mujeres, y al mismo tiempo pone en evidencia los principales desafíos derivados de las desigualdades entre hombres y mujeres.
 
-- Las necesidades actuales de las mujeres y las prioridades recabadas en un proceso participativo desarrollado en las quince regiones del país entre junio y octubre 2017, en el que se recibió la opinión de las mujeres sobre los avances en derechos adquiridos en las últimas décadas y sus demandas.
+3. Las necesidades actuales de las mujeres y las prioridades recabadas en un proceso participativo desarrollado en las quince regiones del país entre junio y octubre 2017, en el que se recibió la opinión de las mujeres sobre los avances en derechos adquiridos en las últimas décadas y sus demandas.
 
-- Los  compromisos  referidos  a  igualdad  y  equidad  de  género  establecidos  por  Ministerios  y servicios  públicos  en  otros  planes  e  instrumentos  de  política  pública,  por  ejemplo:  Plan Nacional de Derechos Humanos 2018-2021, Plan Nacional de Infancia, Plan Nacional de Salud, entre otros. (En Anexo).
+4. Los compromisos referidos a igualdad y equidad de género establecidos por Ministerios y servicios públicos en otros planes e instrumentos de política pública, por ejemplo: Plan Nacional de Derechos Humanos 2018-2021, Plan Nacional de Infancia, Plan Nacional de Salud, entre otros. (En Anexo).
 
 ## 2.1. COMPROMISOS INTERNACIONALES DEL ESTADO CHILENO
 
@@ -276,39 +355,39 @@ La aprobación de 17 nuevos objetivos de desarrollo sostenible (Naciones Unidas,
 
 ### Objetivos de Desarrollo Sostenible:
 
-- Poner fin a la pobreza en todas sus formas y en todo el mundo.
+1. Poner fin a la pobreza en todas sus formas y en todo el mundo.
 
-- Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.
+2. Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.
 
-- Garantizar una vida sana y promover el bienestar de todos a todas las edades.
+3. Garantizar una vida sana y promover el bienestar de todos a todas las edades.
 
-- Garantizar  una  educación  inclusiva  y  equitativa  de  calidad  y  promover  oportunidades  de aprendizaje permanente para todos.
+4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos.
 
-- Lograr la igualdad de género y empoderar a todas las mujeres y las niñas.
+5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas.
 
-- Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos.
+6. Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos.
 
-- Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos.
+7. Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos.
 
-- Promover  el  crecimiento  económico  sostenido,  inclusivo  y  sostenible,  el  empleo  pleno  y productivo y el trabajo decente para todos.
+8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.
 
-- Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación.
+9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación.
 
-- Reducir la desigualdad en los países y entre ellos.
+10. Reducir la desigualdad en los países y entre ellos.
 
-- Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.
+11. Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.
 
-- Garantizar modalidades de consumo y producción sostenibles.
+12. Garantizar modalidades de consumo y producción sostenibles.
 
-- Adoptar medidas urgentes para combatir el cambio climático y sus efectos.
+13. Adoptar medidas urgentes para combatir el cambio climático y sus efectos.
 
-- Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos para el desarrollo sostenible.
+14. Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos para el desarrollo sostenible.
 
-- Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, gestionar sosteniblemente  los bosques,  luchar contra la desertificación, detener  e invertir la degradación de las tierras y detener la pérdida de biodiversidad.
+15. Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, gestionar sosteniblemente los bosques, luchar contra la desertificación, detener e invertir la degradación de las tierras y detener la pérdida de biodiversidad.
 
-- Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la  justicia  para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas.
+16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas.
 
-- Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible.
+17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible.
 
 En  la  Declaración  que  acompaña  la  Agenda  2030  se  establece  que  los  Estados  tienen  la responsabilidad de respetar, proteger y promover los derechos humanos (párrafos 10, 19, 35), y se reconoce que la consecución de la igualdad entre los géneros y el empoderamiento de las mujeres y las niñas contribuirá decisivamente al progreso respecto de todos los Objetivos y
 
@@ -365,9 +444,9 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 DERECHOS | OBJETIVOS DE DESARROLLO SOSTENIBLE
 --- | ---
-5.b Mejorar el uso de la tecnología instrumental, en particular la tecnología de la información y las comunicaciones, para promover el empoderamiento de las mujeres. 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos. 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación. 10. Reducir la desigualdad en y entre los países.
-Sexuales y reproductivos, y a la salud integral | 12. Garantizar modalidades de consumo y producción sostenibles. 1. Poner fin a la pobreza en todas sus formas en todo el mundo. 2. Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible 3. Garantizar una vida sana y promover el bienestar para todos en todas las edades. 5. Lograr la igualdad entre los géneros y empoderar a todas las mujeres y las niñas. 5.6 Garantizar el acceso universal a la salud sexual y reproductiva y los derechos reproductivos, de conformidad con el Programa de Acción de la Conferencia Internacional sobre la Población y el Desarrollo, la Plataforma de Acción de Beijing y los documentos finales de sus conferencias de examen. 6. Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos..
-A una vida libre de violencia y discriminación | 3. Garantizar una vida sana y promover el bienestar para todos en todas las edades. 4.7 Garantizar que todos los alumnos adquieran los conocimientos teóricos y prácticos necesarios para promover el desarrollo sostenible, entre otras cosas mediante la educación para el desarrollo sostenible y la adopción de estilos de vida sostenibles, los derechos humanos, la igualdad entre
+ | 5.b Mejorar el uso de la tecnología instrumental, en particular la tecnología de la información y las comunicaciones, para promover el empoderamiento de las mujeres. 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos. 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación. 10. Reducir la desigualdad en y entre los países. 12. Garantizar modalidades de consumo y producción sostenibles.
+Sexuales y reproductivos, y a la salud integral | 1. Poner fin a la pobreza en todas sus formas en todo el mundo. 2. Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible 3. Garantizar una vida sana y promover el bienestar para todos en todas las edades. 5. Lograr la igualdad entre los géneros y empoderar a todas las mujeres y las niñas. 5.6 Garantizar el acceso universal a la salud sexual y reproductiva y los derechos reproductivos, de conformidad con el Programa de Acción de la Conferencia Internacional sobre la Población y el Desarrollo, la Plataforma de Acción de Beijing y los documentos finales de sus conferencias de examen. 6. Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos..
+A una vida libre de violencia y discriminación | 3. Garantizar una vida sana y promover el bienestar para todos en todas las edades. 4.7 Garantizar que todos los alumnos adquieran los conocimientos teóricos y prácticos necesarios para promover el desarrollo sostenible, entre otras cosas mediante la educación para el desarrollo sostenible y la adopción de estilos de vida sostenibles, los derechos humanos, la igualdad entre los géneros, la promoción de una cultura de paz y no violencia, la ciudadanía mundial y la valoración de la diversidad cultural y de la contribución de la cultura al desarrollo sostenible, entre otros medios.
 
 16
 
@@ -379,8 +458,8 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 DERECHOS | OBJETIVOS DE DESARROLLO SOSTENIBLE
 --- | ---
-8.7 Adoptar medidas inmediatas y eficaces para erradicar el trabajo forzoso, poner fin a las formas modernas de esclavitud y la trata de seres humanos y asegurar la prohibición y eliminación de las peores formas de trabajo infantil, incluidos el reclutamiento y la utilización de niños soldados, y, a más tardar en 2025, poner fin al trabajo infantil en todas sus formas. 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles. 16.1 Reducir considerablemente todas las formas de violencia y las tasas de mortalidad conexas en todo el mundo. 16.2 Poner fin al maltrato, la explotación, la trata, la tortura y todas las formas de violencia contra los
-Sociales y culturales | niños. 1. Poner fin a la pobreza en todas sus formas en todo el mundo. 1.3 Poner en práctica a nivel nacional sistemas y medidas apropiadas de protección social para todos, incluidos niveles mínimos, y, para 2030, lograr una amplia cobertura de los pobres y los vulnerables. 1.4 Para 2030, garantizar que todos los hombres y mujeres, en particular los pobres y los vulnerables, tengan los mismos derechos a los recursos económicos, así como acceso a los servicios básicos, la propiedad y el control de las tierras y otros bienes, la herencia, los recursos naturales, las nuevas tecnologías apropiadas y los servicios financieros, incluida la microfinanciación. 4. Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos. 4.1 Para 2030, velar por que todas las niñas y todos los niños terminen los ciclos de la enseñanza primaria y secundaria, que ha de ser gratuita, equitativa y de calidad y producir resultados escolares pertinentes y eficaces 4.2 Para 2030, velar por que todas las niñas y todos los niños tengan acceso a servicios de atención y desarrollo en la primera infancia y a una enseñanza preescolar de calidad, a fin de que estén preparados para la enseñanza primaria
+ | 8.7 Adoptar medidas inmediatas y eficaces para erradicar el trabajo forzoso, poner fin a las formas modernas de esclavitud y la trata de seres humanos y asegurar la prohibición y eliminación de las peores formas de trabajo infantil, incluidos el reclutamiento y la utilización de niños soldados, y, a más tardar en 2025, poner fin al trabajo infantil en todas sus formas. 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles. 16.1 Reducir considerablemente todas las formas de violencia y las tasas de mortalidad conexas en todo el mundo. 16.2 Poner fin al maltrato, la explotación, la trata, la tortura y todas las formas de violencia contra los niños.
+Sociales y culturales | 1. Poner fin a la pobreza en todas sus formas en todo el mundo. 1.3 Poner en práctica a nivel nacional sistemas y medidas apropiadas de protección social para todos, incluidos niveles mínimos, y, para 2030, lograr una amplia cobertura de los pobres y los vulnerables. 1.4 Para 2030, garantizar que todos los hombres y mujeres, en particular los pobres y los vulnerables, tengan los mismos derechos a los recursos económicos, así como acceso a los servicios básicos, la propiedad y el control de las tierras y otros bienes, la herencia, los recursos naturales, las nuevas tecnologías apropiadas y los servicios financieros, incluida la microfinanciación. 4. Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos. 4.1 Para 2030, velar por que todas las niñas y todos los niños terminen los ciclos de la enseñanza primaria y secundaria, que ha de ser gratuita, equitativa y de calidad y producir resultados escolares pertinentes y eficaces 4.2 Para 2030, velar por que todas las niñas y todos los niños tengan acceso a servicios de atención y desarrollo en la primera infancia y a una enseñanza preescolar de calidad, a fin de que estén preparados para la enseñanza primaria
 
 17
 
@@ -392,7 +471,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 DERECHOS | OBJETIVOS DE DESARROLLO SOSTENIBLE
 --- | ---
-4.3 Para 2030, asegurar el acceso en condiciones de igualdad para todos los hombres y las mujeres a una formación técnica, profesional y superior de calidad, incluida la enseñanza universitaria. 5. Lograr la igualdad entre los géneros y empoderar a todas las mujeres y las niñas. 5.1 Poner fin a todas las formas de discriminación contra todas las mujeres y las niñas en todo el mundo. 5.3 Eliminar todas las prácticas nocivas, como el matrimonio infantil, precoz y forzado y la mutilación genital femenina. 5.c Aprobar y fortalecer políticas acertadas y leyes aplicables para promover la igualdad de género y el
+ | 4.3 Para 2030, asegurar el acceso en condiciones de igualdad para todos los hombres y las mujeres a una formación técnica, profesional y superior de calidad, incluida la enseñanza universitaria. 5. Lograr la igualdad entre los géneros y empoderar a todas las mujeres y las niñas. 5.1 Poner fin a todas las formas de discriminación contra todas las mujeres y las niñas en todo el mundo. 5.3 Eliminar todas las prácticas nocivas, como el matrimonio infantil, precoz y forzado y la mutilación genital femenina. 5.c Aprobar y fortalecer políticas acertadas y leyes aplicables para promover la igualdad de género y el empoderamiento de todas las mujeres y las niñas a todos los niveles. 11. Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles. 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible.
 Colectivos y ambientales | 6. Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos. 7. Garantizar el acceso a una energía asequible, segura, sostenible y moderna para todos. 11.5 Reducir significativamente el número de muertes causadas por los desastres, incluidos los relacionados con el agua, y de personas afectadas por ellos. 13. Adoptar medidas urgentes para combatir el cambio climático y sus efectos. 14. Conservar y utilizar en forma sostenible los océanos, los mares y los recursos marinos para el desarrollo sostenible. 15. Promover el uso sostenible de los ecosistemas terrestres, luchar contra la desertificación, detener e invertir la degradación de las tierras y frenar la pérdida de la diversidad biológica.
 
 18
@@ -431,6 +510,8 @@ Para las mujeres significó una experiencia de interlocución con el Estado y un
 
 En esta etapa se realizaron 705 encuentros abiertos en diferentes comunas del país a los que asistieron 19.082 participantes, como puede observarse en el cuadro siguiente:
 
+Encuentros e instrumentos administrados por regiones y número de participantes
+
 Región | Número de encuentros | Instrumentos contestados (pilotaje, avances y metas) | Número de participantes
 --- | --- | --- | ---
 Arica y Parinacota | 26 | 807 | 614
@@ -440,7 +521,7 @@ Atacama | 59 | 2.006 | 1.683
 Coquimbo | 33 | 951 | 1.002
 Valparaíso | 65 | 1.896 | 2.145
 Metropolitana | 47 | 1.845 | 1.101
-Libertador Gral. Bernardo O'Higgins | 55 | 3.201 | 2.103
+Libertador Gral. Bernardo O’Higgins | 55 | 3.201 | 2.103
 Maule | 82 | 3.247 | 2.139
 BioBío | 53 | 2.185 | 1.324
 La Araucanía | 89 | 3.141 | 1.653
@@ -449,8 +530,6 @@ Los Lagos | 18 | 510 | 370
 Aysén del Gral. Carlos Ibáñez del Campo | 34 | 925 | 637
 Magallanes y de la Antártica Chilena | 53 | 2.041 | 2.012
 Totales | 705 | 26.884 | 19.082
-
-Encuentros e instrumentos administrados por regiones y número de participantes
 
 Fuente: Ministerio de la Mujer y la Equidad de Género.
 
@@ -475,15 +554,15 @@ La distribución por sexo y ministerios a las que pertenecen los funcionarios y 
 Ministerios Encuesta virtual | Hombre | Mujer | Ministerios Encuesta virtual | Hombre | Mujer
 --- | --- | --- | --- | --- | ---
 Ministerio de Agricultura | 85 | 143 | Ministerio de Salud | 170 | 426
-Ministerio de Bienes Nacionales | 10 | Ministerio de Transporte y Telecomunicaciones | 36 | 63
+Ministerio de Bienes Nacionales |  | 10 | Ministerio de Transporte y Telecomunicaciones | 36 | 63
 Ministerio de Economía, Fomento y Turismo | 48 | 107 | Ministerio de Vivienda y Urbanismo | 96 | 271
 Ministerio de Educación | 220 | 707 | Ministerio del Deporte | 24 | 36
 Ministerio de Energía | 12 | 32 | Ministerio del Desarrollo Social | 53 | 92
-Ministerio de Hacienda | 1 | Ministerio del Interior y Seguridad Pública | 188 | 312
+Ministerio de Hacienda |  | 1 | Ministerio del Interior y Seguridad Pública | 188 | 312
 Ministerio de Justicia y Derechos Humanos | 115 | 157 | Ministerio del Medio Ambiente | 31 | 46
-Ministerio de la Mujer y de la Equidad de Género | 8 | Ministerio del Trabajo y Previsión Social | 51 | 78
+Ministerio de la Mujer y de la Equidad de Género |  | 8 | Ministerio del Trabajo y Previsión Social | 51 | 78
 Ministerio de Minería | 21 | 46 | Ministerio Secretaría General de Gobierno | 37 | 58
-Ministerio de Obras Públicas | 173 | 297 | Ministerio Secretaría General de la Presidencia | 1
+Ministerio de Obras Públicas | 173 | 297 | Ministerio Secretaría General de la Presidencia |  | 1
 Ministerio de Relaciones Exteriores | 21 | 44 | Sin Información | 21 | 52
 Total | 1.402 hombres | 2.987 mujeres
 
@@ -499,7 +578,7 @@ Cabe  señalar  que  en  el  cuestionario  se  solicitaba  a  las  mujeres  y/o 
 
 En la tercera fase , de sistematización y análisis de la información, se contemplaron dos niveles de análisis. El primero implicó el trabajo con las respuestas totales de las mujeres y funcionarios/as, realizando las distinciones posibles de observar de acuerdo con la procedencia grupal. El segundo análisis  se  concentró  en  las  diferencias  regionales  relativas  a  la  procedencia  territorial  de  las personas participantes, para lo cual se construyeron mapas georreferenciales que consignan las distintas prioridades otorgadas a las metas en cada región, según las respuestas de las mujeres y de funcionarios/as frente a cada ámbito de Derecho, que permitirán diseñar Planes regionales de igualdad entre mujeres y hombres.
 
-La cuarta  fase contempla  la  coordinación  con  los  sectores  ministeriales  y  servicios  para implementar las modalidades de seguimiento del Plan a través del 'Sistema de Seg uimiento y Monitoreo  de  Agenda  de  Género  y  Compromisos  Ministeriales'. Además,  se  plantea  la interlocución con organizaciones de la sociedad civil, para el seguimiento y control ciudadano.
+La cuarta fase contempla la coordinación con los sectores ministeriales y servicios para implementar las modalidades de seguimiento del Plan a través del “Sistema de Seguimiento y Monitoreo de Agenda de Género y Compromisos Ministeriales”. Además, se plantea la interlocución con organizaciones de la sociedad civil, para el seguimiento y control ciudadano.
 
 22
 
@@ -513,11 +592,11 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Este nuevo Plan de Igualdad se constituye en un mapa de ruta para avanzar en igualdad sustantiva enmarcándose en los Objetivos de Desarrollo Sostenible al 2030 y demás  mandatos internacionales, pero al mismo tiempo, en un sistema integral de gestión de las políticas públicas en materia de igualdad y equidad de género.
 
-Los objetivos del nuevo Plan abordan simultáneamente los derechos de la diversidad de mujeres y  colectivos,  el  proceso  de  consolidación  y  sostenibilidad  de  la  institucionalidad  de  género, propuestas para avanzar de manera más rápida en la transversalización de género en el Estado y acciones  para  contribuir  a  la  transformación  cultural  del  país  para  eliminar  toda  forma  de discriminación arbitraria basada en el género -, la plena participación de las mujeres en los planos cultural, político, económico y social, así como el ejercicio de sus derechos humanos y libertades.
+Los objetivos del nuevo Plan abordan simultáneamente los derechos de la diversidad de mujeres y colectivos, el proceso de consolidación y sostenibilidad de la institucionalidad de género, propuestas para avanzar de manera más rápida en la transversalización de género en el Estado y acciones para contribuir a la transformación cultural del país para eliminar toda forma de discriminación arbitraria basada en el género–, la plena participación de las mujeres en los planos cultural, político, económico y social, así como el ejercicio de sus derechos humanos y libertades.
 
 El logro de los objetivos y metas propuestas requiere de la articulación de los diversos organismos públicos, se trata de un desafío asumido por el Estado chileno en su conjunto, para avanzar en igualdad y equidad de género, en el marco de los ODS 2030, en donde además se involucra al sector privado y a la sociedad civil.
 
-El  Cuarto  Plan  Nacional  de  igualdad  entre  Mujer  y  Hombres  2018-2030  tiene  como  propósito "Abordar las principales brechas de género mediante el fortalecimiento de las políticas públicas para garantizar la autonomía y el ejercicio pleno de los derechos humanos de todas las mujeres y niñas, superando discriminaciones, prejuicios y resistencias ". Esto es coherente con los Objetivos de Desarrollo Sostenible y con la Agenda Regional de Género, compromisos adquiridos por Chile, al igual que diversos convenios, acuerdos y tratados que apuntan a mejorar la calidad de vida de las mujeres y avanzar hacia la igualdad de género.
+El Cuarto Plan Nacional de igualdad entre Mujer y Hombres 2018-2030 tiene como propósito “Abordar las principales brechas de género mediante el fortalecimiento de las políticas públicas para garantizar la autonomía y el ejercicio pleno de los derechos humanos de todas las mujeres y niñas, superando discriminaciones, prejuicios y resistencias”. Esto es coherente con los Objetivos de Desarrollo Sostenible y con la Agenda Regional de Género, compromisos adquiridos por Chile, al igual que diversos convenios, acuerdos y tratados que apuntan a mejorar la calidad de vida de las mujeres y avanzar hacia la igualdad de género.
 
 ## 3.1. Objetivos Estratégicos del Cuarto Plan de Igualdad
 
@@ -539,13 +618,13 @@ Objetivos Estratégicos, en materia de igualdad y equidad entre mujeres y hombre
 
 ### Objetivos Estratégicos 2018-2030:
 
-- Alcanzar  el  reconocimiento,  respeto  y  garantía  de  los  derechos  de  las  mujeres  en  su diversidad para alcanzar la igualdad de género y la autonomía de la diversidad de mujeres que habita el territorio nacional.
+1. Alcanzar el reconocimiento, respeto y garantía de los derechos de las mujeres en su diversidad para alcanzar la igualdad de género y la autonomía de la diversidad de mujeres que habita el territorio nacional.
 
-- Fortalecer y dar sostenibilidad política, técnica y operativa a la institucionalidad de género en el Estado.
+2. Fortalecer y dar sostenibilidad política, técnica y operativa a la institucionalidad de género en el Estado.
 
-- Instalar la igualdad de género de manera transversal en el conjunto de la institucionalidad pública, políticas, planes, programas y presupuestos públicos, para garantizar la igualdad sustantiva de las mujeres, su autonomía y la equidad de género.
+3. Instalar la igualdad de género de manera transversal en el conjunto de la institucionalidad pública, políticas, planes, programas y presupuestos públicos, para garantizar la igualdad sustantiva de las mujeres, su autonomía y la equidad de género.
 
-- Contribuir a la transformación cultural del país, para eliminar toda forma de desigualdad y discriminación basada en el género y propiciar la plena participación de la diversidad de mujeres en la vida cultural, política, económica y social del país.
+4. Contribuir a la transformación cultural del país, para eliminar toda forma de desigualdad y discriminación basada en el género y propiciar la plena participación de la diversidad de mujeres en la vida cultural, política, económica y social del país.
 
 24
 
@@ -559,7 +638,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Objetivos Plan 2018-2030
 --- | ---
-Tipo de derechos Objetivos específicos por Derechos
+Tipo de derechos | Objetivos específicos por Derechos
 1. Derechos civiles y políticos | 1.1 Aumentar la representatividad política y social de la diversidad mujeres, incrementando sus capacidades de incidencia en condiciones de paridad como actoras estratégicas en la toma de decisiones en el espacio público y privado. 1.2 Ampliar la participación social y política de todos los grupos de mujeres especialmente de los que tienen menor acceso a bienes y servicios públicos (entre otras, mujeres rurales, indígenas, migrantes, diversidad sexual, mujeres en situación de discapacidad, afrodescendientes).
 2. Derechos económicos | 2.1 Reducir las desigualdades en el empleo y la economía, con especial incidencia en las desigualdades retributivas entre hombres y mujeres, reduciendo la segregación en el mercado laboral, así como mejorando el acceso de las mujeres al desarrollo productivo - industrial y la innovación tecnológica. 2.2. Reducir las desigualdades que afectan a las mujeres en sus iniciativas de emprendimiento y en el acceso a instrumentos de fomento productivo. 2.3 Modificar los estereotipos de género que afectan las relaciones laborales y limitan las oportunidades que tienen la diversidad de mujeres en sus trayectorias laborales
 3. Derechos salud sexual y reproductiva, salud integral | 3.1 Incrementar la autonomía física de las mujeres garantizando la información oportuna y el acceso a prestaciones de salud de carácter integral que mejoren el bienestar y calidad de vida considerando su género, su cultura, su orientación sexual, en los diversos momentos de su ciclo vital. 3.2 Garantizar y cautelar el desarrollo integral, físico y psicológico, respetando la diversidad cultural, así como la orientación sexual e identidad de género.
@@ -607,7 +686,7 @@ Las  actuaciones  públicas  del  Estado  en  materia  de  igualdad  de  género
 
 Las políticas públicas y la gestión del Estado a favor de la igualdad de género se han transformado a lo largo de los años, producto de los cambios socioculturales e institucionales, la experiencia acumulada en la implementación de las agendas y políticas de género y la movilización de la ciudadanía  en  los  espacios  nacionales  y  mundiales.  En  los  años  noventa  las  políticas  estaban centradas en la reducción de la pobreza y en la incorporación de las mujeres al mercado mientras que en la actualidad se proponen lograr la autonomía económica de las mujeres; de las ideas de regulación de la fertilidad se ha avanzado al reconocimiento pleno de los derechos sexuales y reproductivos; de las cuotas de género, se ha avanzado a establecer criterios de proporcionalidad en  la  representación  en  todas  las  esferas  del  poder  público  y  de  la  sociedad;  de  abordar  la violencia intrafamiliar a reconocer los distintos tipos de violencia que ocurren tanto en el espacio público como en el privado; de hacer visible el trabajo no remunerado que se realiza en el hogar al  reconocimiento  de  la  economía  de  cuidado  y  de  la  economía  mercantil  como  parte  de  la reproducción social, y a la propuesta de nuevos pactos que generen corresponsabilidad entre el mercado, el Estado y las familias que redistribuyan de manera justa el trabajo entre mujeres y hombres.
 
-Un impulso especialmente significativo ha sido el llevado a cabo por la Agenda de Género del Gobierno de la Presidenta Michelle Bachelet Jeria entre 2014 -2018, permitiendo acelerar el paso  en  el  reconocimiento  de  derechos  a  las  mujeres,  haciéndose  cargo  de  varias  de  las recomendaciones de comités de seguimientos de convenciones internacionales CEDAW y Belén do  Pará,  y  enfrentando  las  desigualdades  de  género.  Los  avances  son  reconocidos  por  la ciudadanía, sin que por ello no se demande mantener y sostener el proceso de profundización de la igualdad sustantiva y la autonomía de las mujeres, la igualdad y la equidad de género.
+Un impulso especialmente significativo ha sido el llevado a cabo por la Agenda de Género del Gobierno de la Presidenta Michelle Bachelet Jeria entre 2014 – 2018, permitiendo acelerar el paso en el reconocimiento de derechos a las mujeres, haciéndose cargo de varias de las recomendaciones de comités de seguimientos de convenciones internacionales CEDAW y Belén do Pará, y enfrentando las desigualdades de género. Los avances son reconocidos por la ciudadanía, sin que por ello no se demande mantener y sostener el proceso de profundización de la igualdad sustantiva y la autonomía de las mujeres, la igualdad y la equidad de género.
 
 A continuación, se presentan los avances, la situación actual y las metas al 2030 en el ámbito de los derechos civiles y políticos, derechos económicos, derechos sexuales, reproductivos y salud integral; derecho a una vida libre de violencia; derechos sociales y culturales; derechos colectivos y ambientales; y, respecto a la institucionalidad de género y articulación de iniciativas del Estado.
 
@@ -623,13 +702,13 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 ### 4.1.1. Avances:
 
-- 2012. Ley 20.609, que establece medidas contra la discriminación ('Ley Zamudio')
+- 2012. Ley 20.609, que establece medidas contra la discriminación (“Ley Zamudio”)
 
 - Ley 20.840 (2015) incorpora el criterio de paridad de género en la conformación de las listas de candidaturas parlamentarias, estableciendo que ni hombres ni mujeres pueden superar el 60% del total de candidaturas declaradas por los partidos políticos.
 
 - El criterio de paridad de género también se establece en la Ley 20.900 (2016) garantizando un mínimo del 40% de mujeres en cuerpos colegiados de los partidos políticos. Ninguno de los sexos puede superar el 60%.
 
-- Ley 20.915 (2016) determina que uno de los deberes de los colectivos políticos es 'promover la participación política inclusiva y equitativa de las mujeres' , a través de la destinación del 10% del financiamiento público del partido.
+- Ley 20.915 (2016) determina que uno de los deberes de los colectivos políticos es “promover la participación política inclusiva y equitativa de las mujeres”, a través de la destinación del 10% del financiamiento público del partido.
 
 - Ley 20.830 (2015) que crea el Acuerdo de Unión Civil, regula las relaciones de vida y bienes de las personas unidas en convivencia que no tienen vínculo matrimonial e incorpora a parejas del mismo sexo,
 
@@ -637,11 +716,11 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 - Proyecto de Ley del Derecho a la Identidad de Género (aprobado en ambas cámaras a enero 2018, en espera de tramitación en Comisión Mixta).
 
-- Ingreso  al  Congreso  del  proyecto  de  Ley  sobre  matrimonio  igualitario  (agosto  2017),  que propone la  modificación  del  concepto  de  matrimonio  en  el  Artículo  102  del  Código  Civil, ampliándolo a 'unión entre dos personas'.
+- Ingreso al Congreso del proyecto de Ley sobre matrimonio igualitario (agosto 2017), que propone la modificación del concepto de matrimonio en el Artículo 102 del Código Civil, ampliándolo a “unión entre dos personas”.
 
 - El Ministerio de la Mujer y la Equidad de Género, en la ley que lo crea, tiene contemplado un Fondo para la Equidad de Género destinado a fortalecer la asociatividad y el liderazgo de las mujeres, que depende del presupuesto anual de la nación.
 
-- El SERNAMEG, reinstala el programa Mujer, Participación y Ciudadanía , e implementa Talleres de difusión de derechos y Escuelas de Formación de Liderazgo a lo largo de las 15 regiones del país,  entre  los  años  2015  y  2017,  participan  del  programa  25.710  mujeres.  Además, SERNAMEG en asociación con otros ministerios y fundación PRODEMU promueven de forma constante talleres de liderazgo.
+- El SERNAMEG, reinstala el programa Mujer, Participación y Ciudadanía, e implementa Talleres de difusión de derechos y Escuelas de Formación de Liderazgo a lo largo de las 15 regiones del país, entre los años 2015 y 2017, participan del programa 25.710 mujeres. Además, SERNAMEG en asociación con otros ministerios y fundación PRODEMU promueven de forma constante talleres de liderazgo.
 
 - En el proceso de debate respecto a una nueva Constitución para Chile, en el año 2016, las mujeres participaron de manera equilibrada con los hombres. En la participación presencial hubo  un  54%  de  mujeres, mientras que  en las consultas individuales las mujeres representaron un 42%.
 
@@ -737,7 +816,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 - Políticas  y  programas  dirigidos  a  mujeres  rurales  e  indígenas  rurales  por  parte  del Ministerio de Agricultura que buscan que ellas accedan a la información y hagan uso de los beneficios dirigidos a campesinos y pequeños productores; y, favorecen su acceso a la propiedad de la tierra, al agua o la regulación de títulos de propiedad.
 
-' Política Institucional de Capacitación y Certificación a Migrantes' que entrega el Servicio Nacional de Capacitación y Empleo (SENCE, Resolución Exenta 522, noviembre 2016). Esta política  tiene  como  fin  que  la  oferta  del  Sistema  de  Capacitación  y  de Certificación  de Competencias Laborales se dé en igualdad de condiciones, en deberes y derechos, para nacionales y para las personas extranjeras que residen en el país.
+- “Política Institucional de Capacitación y Certificación a Migrantes” que entrega el Servicio Nacional de Capacitación y Empleo (SENCE, Resolución Exenta 522, noviembre 2016). Esta política tiene como fin que la oferta del Sistema de Capacitación y de Certificación de Competencias Laborales se dé en igualdad de condiciones, en deberes y derechos, para nacionales y para las personas extranjeras que residen en el país.
 
 - Políticas y programas de educación que tienen relación directa con el acceso de mujeres a la tecnología, la ciencia y la innovación que mejoran su empleabilidad. Se han realizado esfuerzos sistemáticos por debilitar la segregación de género en la distribución de mujeres y hombres en distintas disciplinas, en la selección de carreras, en el acceso a la ciencia y uso de la tecnología, y en las trayectorias profesionales. Medidas de acción positiva para el ingreso de las mujeres a carreras científicas altamente masculinizadas y normas que consideran  las  exigencias  de  la  vida  reproductiva  y  de  la  salud,  en  los  procesos  de formación y en las trayectorias profesionales.
 
@@ -753,9 +832,9 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
-- 2014. Ley 20.786 . Regula la jornada, descanso y remuneración de las trabajadoras de casa particular.
+- 2014. Ley 20.786. Regula la jornada, descanso y remuneración de las trabajadoras de casa particular.
 
-- 2014. Ley 20.787 . Mejora las condiciones salariales y la estabilidad laboral de trabajadoras que preparan alimentos (manipuladoras de alimentos en contratos JUNAEB).
+- 2014. Ley 20.787. Mejora las condiciones salariales y la estabilidad laboral de trabajadoras que preparan alimentos (manipuladoras de alimentos en contratos JUNAEB).
 
 - 2016. Ley  20.940 que  Moderniza  las  Relaciones  Laborales  con  enfoque  de  igualdad  y equidad de género, establece que un tercio de integrantes de directorios de sindicatos deben ser mujeres, al menos una mujer debe formar parte de comisiones negociadoras sindicales (cuando no aplique cuota), e incluye normas que favorecen la conciliación de la vida  laboral,  familiar  y  personal  de  mujeres  y  hombres,  temas  que  pueden  ser incorporados en los procesos de negociación.
 
@@ -795,15 +874,15 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 - 2016. Voucher de innovación Mujeres Emprendedoras de CORFO.
 
-- 2016. Financiamiento a empresas para la contratación de mujeres con grado de magister o doctorado en instrumento de CORFO 'Inserción de Capital Humano'.
+- 2016. Financiamiento a empresas para la contratación de mujeres con grado de magister o doctorado en instrumento de CORFO “Inserción de Capital Humano”.
 
-- 2016. Ingreso y tramitación del Proyecto de Ley sobre el Derecho de las Mujeres a una Vida Libre de Violencia. Modifica la Ley 20.066 de Violencia Intrafamiliar, amplía los tipos de  violencia  de  género,  incluyendo  la  económica,  definiéndola  como 'toda acción  u omisión,  intencionada  y  arbitraria,  ejercida  en  el  contexto  de  relaciones  afectivas  o familiares, que tenga como efecto directo la vulneración de la autonomía económica de la mujer, que se lleve a cabo con afán de ejercer un control sobre ella y que se manifiesta en un menoscabo injusto de sus recursos económicos o patrimoniales o el de sus hijas o hijos'.
+- 2016. Ingreso y tramitación del Proyecto de Ley sobre el Derecho de las Mujeres a una Vida Libre de Violencia. Modifica la Ley 20.066 de Violencia Intrafamiliar, amplía los tipos de violencia de género, incluyendo la económica, definiéndola como “toda acción u omisión, intencionada y arbitraria, ejercida en el contexto de relaciones afectivas o familiares, que tenga como efecto directo la vulneración de la autonomía económica de la mujer, que se lleve a cabo con afán de ejercer un control sobre ella y que se manifiesta en un menoscabo injusto de sus recursos económicos o patrimoniales o el de sus hijas o hijos”.
 
 - Creación de 51 Centros de Negocios a nivel nacional. SERCOTEC.
 
 - 2016-2017. Implementación, por parte de la Dirección del Trabajo y Previsión Social, de programa especial de fiscalizaciones que contempla materias de equidad de género en las normas laborales: protección a la maternidad, remuneraciones, horas extraordinarias y protección de la vida y salud. El Programa seleccionó un total de 40 empresas y realizó un total de  6.199 fiscalizaciones al cumplimiento de normas laborales del trabajo de casa particular: 4.975 presenciales o remotas y 1.224 vía denuncia.
 
-- 2016-2017.  Centro  de  Educación  y  Trabajo  (CET)  Femenino  semiabierto  Talita  Kum ('Mujer Levántate'), destinado  a  mujeres  que  han  sido  condenadas  y  que  presentan buena  conducta.  Alberga  a  internas  que  adquieren  el  beneficio  de  salir  a  trabajar diariamente y, así, aportar al ingreso familiar, reafirmando su reinserción sociolaboral.
+- 2016-2017. Centro de Educación y Trabajo (CET) Femenino semiabierto Talita Kum (“Mujer Levántate”), destinado a mujeres que han sido condenadas y que presentan buena conducta. Alberga a internas que adquieren el beneficio de salir a trabajar diariamente y, así, aportar al ingreso familiar, reafirmando su reinserción sociolaboral.
 
 - 2016-2017.  Programa  de  Reinserción  Económica  y  Emprendimiento  para  Mujeres  en Conflicto  con  la  Ley:  el  Banco  Interamericano  de  Desarrollo  (BID),  en  alianza  con  el Ministerio de Justicia y Derechos Humanos, Gendarmería de Chile y Banco Estado, han desarrollado una iniciativa piloto para entregar un capital semilla a mujeres emprendedoras que cumplen condena en el Centro Penitenciario de San Joaquín. Para ello, se ha concretado una cooperación técnica de USD$300.000.
 
@@ -827,7 +906,7 @@ En el año 2006, el 57,8% de las mujeres generaba ingresos respecto del 87,6% de
 
 La Encuesta Nacional sobre Uso del Tiempo (ENUT-INE, 2015) evidencia que la población destina 4,92 horas en promedio al trabajo no remunerado en un día de fin de semana, un tiempo un poco mayor que el que destina el día de semana (4,56 horas en promedio). Al desagregar estos valores promedio  por  sexo,  se  observa  que  las  mujeres  dedican  en  promedio  3  horas  más  que  los hombres al conjunto de todas las tareas no remuneradas en un día tipo (cerca de seis horas diarias), lo que representa el 20,4% de uso de tiempo diario. En el caso de los hombres, el tiempo promedio dedicado es de 2,7 horas diarias, un 9,7% de uso del tiempo diario.
 
-Un 12,1% de las mujeres y un 11,2% de los hombres se encuentran en situación de pobreza por ingresos. La pobreza se concentra de manera regular en mayor medida en mujeres. Además, las brechas de género existentes en las áreas urbanas tanto para la categoría 'pobres extremos' (0,3) como en 'pobres no extremos' (0,6), indican un número mayor de mujeres pobres; esos mismos indicadores en las áreas rurales muestran que proporcionalmente son más las mujeres rurales pobres (0,6 y 1,4, pobres extremos y pobres no extremos, respectivamente).
+Un 12,1% de las mujeres y un 11,2% de los hombres se encuentran en situación de pobreza por ingresos. La pobreza se concentra de manera regular en mayor medida en mujeres. Además, las brechas de género existentes en las áreas urbanas tanto para la categoría “pobres extremos” (0,3) como en “pobres no extremos” (0,6), indican un número mayor de mujeres pobres; esos mismos indicadores en las áreas rurales muestran que proporcionalmente son más las mujeres rurales pobres (0,6 y 1,4, pobres extremos y pobres no extremos, respectivamente).
 
 Entre las personas pertenecientes a pueblos originarios y aquellas que no pertenecen, también se observan brechas de género que son más grandes entre las mujeres y hombres que pertenecen a pueblos originarios. Entre los pobres extremos, la brecha de género es de 3 puntos porcentuales mientras que, en la misma categoría de pobreza, es de 0,6 entre las mujeres y hombres que no pertenecen a ellos. Brechas de similar magnitud se observan en la categoría pobres no extremos.
 
@@ -851,7 +930,7 @@ En cuanto a los cargos gerenciales de empresas o instituciones, solo el 27,4% so
 
 Por otra parte, la segmentación del mercado laboral, que afecta a las mujeres, se expresa en importantes brechas salariales. En general, las mujeres obtienen un ingreso medio cuyo monto es 31% menos que el monto promedio percibido por los varones.
 
-Una mirada a las brechas del ingreso promedio de hombres y mujeres en las regiones indica que las mayores diferencias se registran en dos regiones del norte, Antofagasta (-37,6) y Atacama (36,8). Luego viene la Región Metropolitana (-35,8), seguida de Valparaíso (-33,5). El resto de las regiones se sitúa por debajo de la media nacional (-31,7) mostrando Magallanes, La Araucanía y Los  Lagos  las  brechas  más  pequeñas  (entre  20  y  22  puntos  porcentuales)  (INE,  Encuesta Suplementaria de Ingresos, 2016).
+Una mirada a las brechas del ingreso promedio de hombres y mujeres en las regiones indica que las mayores diferencias se registran en dos regiones del norte, Antofagasta (-37,6) y Atacama (-36,8). Luego viene la Región Metropolitana (-35,8), seguida de Valparaíso (-33,5). El resto de las regiones se sitúa por debajo de la media nacional (-31,7) mostrando Magallanes, La Araucanía y Los Lagos las brechas más pequeñas (entre 20 y 22 puntos porcentuales) (INE, Encuesta Suplementaria de Ingresos, 2016).
 
 El  emprendimiento  es  otra  dimensión  en  que  la  brecha  de  género  es  de  gran  magnitud.  Las mujeres emprendedoras que contratan fuerza de trabajo alcanzan en 2015 al 25,5% mientras las que trabajan por cuenta propia son el 40,7. Por otro lado, la Encuesta Longitudinal de empresas 2013, que considera a aquellas con ventas superiores en el 2012 a 800 UF muestra que solo en un 25,4% las dueñas de empresas son mujeres. De este 25%, la mayor proporción corresponde a microempresas. De los dueños de grandes empresas entrevistadas, solo un 7,2% eran de mujeres.
 
@@ -891,7 +970,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Objetivo específico 2.1 Reducir las desigualdades en el empleo y la economía, con especial incidencia en las desigualdades retributivas entre hombres y mujeres, reduciendo la segregación en el mercado laboral, así como mejorando el acceso de las mujeres al desarrollo productivo - industrial y la innovación tecnológica.
 
-Objetivo específico 2.2 . Reducir las desigualdades que afectan a las mujeres en sus iniciativas de emprendimiento y en el acceso a instrumentos de fomento productivo.
+Objetivo específico 2.2. Reducir las desigualdades que afectan a las mujeres en sus iniciativas de emprendimiento y en el acceso a instrumentos de fomento productivo.
 
 Objetivo específico 2.3 Modificar los estereotipos de género que afectan las relaciones laborales y limitan las oportunidades que tienen la diversidad de mujeres en sus trayectorias laborales
 
@@ -912,7 +991,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Metas | Indicador | Plazos | Institución Rectora | Sectores e Instituciones Ejecutoras
 --- | --- | --- | --- | ---
-matrimonio, acuerdo de unión civil y convivencia. | la igualdad en la toma de decisiones sobre bienes familiares, tanto en el matrimonio, acuerdo de unión civil, convivencia. | Min. Secretaría General de la Presidencia Ministerio de la Mujer y la Equidad de Género
+matrimonio, acuerdo de unión civil y convivencia. | la igualdad en la toma de decisiones sobre bienes familiares, tanto en el matrimonio, acuerdo de unión civil, convivencia. |  |  | Min. Secretaría General de la Presidencia Ministerio de la Mujer y la Equidad de Género
 Las empresas de al menos 50 trabajadores/as con obligación de informar periódicamente de la remuneración media por categoría de trabajador/a o puesto de trabajo, desglosada por sexos. | % de empresas que informan periódicamente la remuneración media por categoría de trabajador/a o puesto de trabajo. | 2020 | MMyEG | Min. Trabajo y Previsión Social Min. Hacienda
 Alcanzar el 40% de acceso de mujeres a emprendimientos de alto potencial. | % de mujeres participan en iniciativas de emprendimientos de alto potencial (innovación). | 2025 | MMyEG | Min. Economía, Fomento y Turismo DIRECON Min. Trabajo y Previsión Social Min. Agricultura
 Diseñar e implementar Programa de Emprendimiento intersectorial, con acompañamiento para inserción laboral y cuidado infantil. | % de mujeres que acceden al programa de emprendimiento intersectorial con acompañamiento para inserción laboral y cuidado infantil. | 2020 | MMyEG | Min. Economía, Fomento y Turismo Min. Desarrollo Social Min. Trabajo y Previsión Social
@@ -928,7 +1007,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Metas | Indicador | Plazos | Institución Rectora | Sectores e Instituciones Ejecutoras
 --- | --- | --- | --- | ---
-acceden al programa de turismo familiar.
+ | acceden al programa de turismo familiar. |  |  | 
 Crecimiento económico inclusivo con creación de nuevos empleos decentes y sostenibles que promuevan la igualdad de género. | % de nuevos empleos decentes y sostenibles para mujeres que promuevan la igualdad de género. | 2020-2030 | MMyEG | Min. Trabajo y Previsión Social Min. Economía Fomento y Turismo Sector Privado
 Acceso a sala cuna para cuidado de niños y niñas, hijos/as de mujeres y hombres trabajadores. | % de niños y niñas hijos de mujeres y hombres trabajadores que asisten a sala cuna para cuidado. | 2025 | MMyEG | Min. Trabajo y Previsión Social Min. Secretaría General de la Presidencia Ministerio de la Mujer y la Equidad de Género
 Acceso preferente a capacitación y acompañamiento para inserción laboral de las cuidadoras familiares del subsistema de apoyos y cuidado. Diferenciando trayectoria independiente y dependiente. | % mujeres de mujeres capacitadas según perfil. | 2020 | MMyEG | Min. Trabajo y Previsión Social Ministerio de la Mujer y la Equidad de Género SERNAMEG
@@ -962,7 +1041,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Metas | Indicador | Plazos | Institución Rectora | Sectores e Instituciones Ejecutoras
 --- | --- | --- | --- | ---
-requerimiento de contratar mujeres.
+ | requerimiento de contratar mujeres. |  |  | 
 Realizar estudios que identifiquen los mecanismos discriminatorios que generan la deserción y salida de las mujeres de sus puestos de trabajo. | Nº de estudios realizados por ministerios sobre deserción laboral de las mujeres. | 2020 | MMyEG | Min. Trabajo y Previsión Social Ministerio de la Mujer y la Equidad de Género
 Aumentar la contratación de la diversidad de mujeres, sin discriminación por orientación sexual e identidad de género, en las instituciones privadas y públicas. | N° contrataciones de la diversidad de mujeres, incluyendo orientación sexual e identidad de género, en las instituciones privadas y públicas. | 2030 | MMyEG | Todos los Ministerios. Sector privado
 Elaborar normas tributarias y sanitarias especiales acorde a las condiciones de los emprendimientos rurales. | % de mujeres emprendedoras rurales que acceden a solución sanitaria. % de mujeres emprendedoras rurales que acceden a solución tributaria. | 2020 | MMyEG | Min. Agricultura Min. Salud Min. Hacienda
@@ -978,7 +1057,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Metas | Indicador | Plazos | Institución Rectora | Sectores e Instituciones Ejecutoras
 --- | --- | --- | --- | ---
-N° de programas de nivelación de estudios básicos y medios.
+ | N° de programas de nivelación de estudios básicos y medios. |  |  | 
 Aumentar la cobertura del programa 4 a 7 | % de mujeres que acceden al programa 4 a 7 | 2020 | MMyEG | Ministerio de la Mujer y la Equidad de Género SERNAMEG
 Aumentar la oferta de programas de capacitación laboral y escuelas de emprendimiento a mujeres jefas de hogar y adultas mayores. | % de mujeres jefas de hogar que acceden a los programas de capacitación laboral. % de mujeres jefas de hogar que acceden a las escuelas de emprendimiento. | 2020 | MMyEG | Min. Trabajo y Previsión Social Min. Economía, Fomento y Turismo Ministerio de la Mujer y la Equidad de Género SERNAMEG.
 Aumentar los circuitos de comercialización locales rurales | N° de circuitos de comercialización locales rurales. | 2025 | MMyEG | Min. Economía, Fomento y Turismo Ministerio de la Mujer y la Equidad de Género SERNAMEG
@@ -994,11 +1073,11 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Metas | Indicador | Plazos | Institución Rectora | Sectores e Instituciones Ejecutoras
 --- | --- | --- | --- | ---
-Subsistema Nacional de apoyos y Cuidados.
+ | Subsistema Nacional de apoyos y Cuidados. |  |  | 
 Entrega de información pertinente y actualizada a mujeres inmigrantes sobre derechos y beneficios relacionados con su situación | % de mujeres inmigrantes informadas N° de campañas comunicacionales para difundir información sobre derechos y beneficios | 2020 | MMyEG | Min. Interior y Seguridad Pública Ministerio de la Mujer y la Equidad de Género SERNAMEG
 Generar instancias de coordinación público y privada con gremios, para facilitar el acceso a la capacitación y la continuidad laboral de las mujeres. | N° de instancias de coordinación público y privada con gremios, N° de gremios que participan. | 2020 | MMyEG | Min. Economía, Fomento y Turismo Min. Trabajo y Previsión Social Min. Agricultura Sector Privado
 Incorporar enfoque de género en el 100% de las acciones de formación sindical de la Subsecretaría del Trabajo. | % de Cursos de formación sindical de la Subsecretaría del Trabajo con enfoque de género. | 2025 | MMyEG | Min. Trabajo y Previsión Social
-Aumentar acceso de mujeres en áreas laborales 'masculinizadas" | % mujeres incorporadas en áreas 'masculinizadas" por año. | 2020 | MMyEG | Min. Economía, Fomento y Turismo, Min. Trabajo y Previsión Social Min. Educación Min. Agricultura Min. Transporte y Telecomunicaciones
+Aumentar acceso de mujeres en áreas laborales “masculinizadas" | % mujeres incorporadas en áreas “masculinizadas" por año. | 2020 | MMyEG | Min. Economía, Fomento y Turismo, Min. Trabajo y Previsión Social Min. Educación Min. Agricultura Min. Transporte y Telecomunicaciones
 
 46
 
@@ -1010,9 +1089,9 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Metas | Indicador | Plazos | Institución Rectora | Sectores e Instituciones Ejecutoras
 --- | --- | --- | --- | ---
-Min. Minería Min. Obras Públicas Min. Hacienda
+ |  |  |  | Min. Minería Min. Obras Públicas Min. Hacienda
 Aplicar la ENUT periódicamente y difundir sus resultados | Número de Encuestas realizadas en el período. Número actividades de difusión cumplidas. | 2020-2030 | MMyEG | Min. Economía, Fomento y Turismo INE Ministerio de la Mujer y la Equidad de Género
-Sensibilizar sobre la desigual distribución del uso del tiempo entre mujeres y hombres. | Número de acciones de sensibilización realizadas al año. | MMyEG | Min. Economía, Fomento y Turismo INE Ministerio de la Mujer y la Equidad de Género
+Sensibilizar sobre la desigual distribución del uso del tiempo entre mujeres y hombres. | Número de acciones de sensibilización realizadas al año. |  | MMyEG | Min. Economía, Fomento y Turismo INE Ministerio de la Mujer y la Equidad de Género
 Incrementar el uso del permiso parental por parte de los trabajadores. | % de uso del permiso parental por parte de los trabajadores. | 2020 | MMyEG | Min. Trabajo y Previsión Social Min. Secretaría General de Gobierno Ministerio de la Mujer y la Equidad de Género Sector Privado
 
 47
@@ -1037,7 +1116,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 - Acceso a vacunación e inmunización contra el Virus de Papiloma Humano (VPH): el año 2016,  se  logra  cobertura  nacional  de  vacunación  para  todas  las  niñas  que  egresan  de enseñanza básica. En el periodo 2014-2017, se vacunó a un total de 658.823 niñas.
 
-- Entre 2014 y 2017 se implementan 259 espacios amigables (en 50% de la red asistencial) para adolescentes, que incluye la atención en salud sexual y reproductiva, Curso on-line sobre 'Atención de salud integral de adolescentes', aplicación telefónica para adolescentes con información sobre salud sexual y reproductiva, y aumento en acceso a métodos de regulación de la fertilidad con doble protección.
+- Entre 2014 y 2017 se implementan 259 espacios amigables (en 50% de la red asistencial) para adolescentes, que incluye la atención en salud sexual y reproductiva, Curso on-line sobre “Atención de salud integral de adolescentes”, aplicación telefónica para adolescentes con información sobre salud sexual y reproductiva, y aumento en acceso a métodos de regulación de la fertilidad con doble protección.
 
 - Establecimiento  de  Estrategia  de  sexualidad,  afectividad  y  género  que  integra  red  de servicios  educativos  y  de  salud  con  perspectiva  de  género  en  cada  comuna,  para  el acompañamiento  educativo  y  apoyo  intersectorial  a  los  niños,  niñas  y  adolescentes, centrado en el bienestar y el buen vivir de su sexualidad y afectividad, con responsabilidad consigo mismos y con las demás personas. La ESAG se integra al modelo y metodología de funcionamiento  de  Aulas  del  Bien  Estar  (ABE)  que  es  un  componente  de  la  Política Nacional de Convivencia Escolar del Ministerio de Educación.
 
@@ -1047,7 +1126,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 - Normas técnicas que homogenizan la implementación de las políticas y prestaciones a lo largo del país a la vez que se singularizan las prestaciones atendiendo a grupos específicos: mujeres en situación de discapacidad, migrantes, y de la diversidad sexual. En el caso de las mujeres indígenas, las políticas comienzan a integrar una perspectiva intercultural en la atención del parto y reconocimiento de las prácticas culturales de salud.
 
-- Se  diseña  e  implementa  Programa  de  Atención  Integral  a  las  Mujeres  en  Edad  de Climaterio y se distribuye en la red asistencial las 'Orientaciones técnicas para la atención integral de la mujer en edad de climaterio'.
+- Se diseña e implementa Programa de Atención Integral a las Mujeres en Edad de Climaterio y se distribuye en la red asistencial las “Orientaciones técnicas para la atención integral de la mujer en edad de climaterio”.
 
 48
 
@@ -1059,11 +1138,11 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 - Se incorpora al Programa Nacional de Inmunizaciones la vacuna contra la Hepatitis B para trabajadoras/es sexuales.
 
-- Se actualiza el 'Protocolo de atención en salud sexual y reproductiva a mujeres viviendo con VIH'.
+- Se actualiza el “Protocolo de atención en salud sexual y reproductiva a mujeres viviendo con VIH”.
 
 - Venta  sin  receta  médica  de  la  Píldora  de  Anticoncepción  de  Emergencia  (PAE)  en farmacias.
 
-- Actualización de la Guía Perinatal y las 'Normas nacionales de regulación de la fertilidad', incorporando  la  anticoncepción  en  el  post  parto  y  post  aborto,  y  fortaleciendo  y ampliando el uso de métodos anticonceptivos de larga duración en atención primaria de salud, incluyendo dos tipos de implantes.
+- Actualización de la Guía Perinatal y las “Normas nacionales de regulación de la fertilidad”, incorporando la anticoncepción en el post parto y post aborto, y fortaleciendo y ampliando el uso de métodos anticonceptivos de larga duración en atención primaria de salud, incluyendo dos tipos de implantes.
 
 - Se modifica el Decreto Supremo N°6, de 2009, del Ministerio de Salud, que permite la entrega de placenta a mujeres después del parto por motivos culturales y a todas las mujeres que lo requieran.
 
@@ -1170,7 +1249,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 - Seis  nuevos  Centros  de  la  Mujer  para  prevención  y  atención  en  violencia  contra  las mujeres.
 
-Entre 2014 -2017 se atendió a 123.241 mujeres en los 103 centros de la mujer, las 43 casas de acogida, los 3 centros de violencia sexual y la casa de tata personas; además en los centros de reeducación de hombres (HEVPA) se atendió en el mismo periodo a 4.913 hombres.
+Entre 2014 – 2017 se atendió a 123.241 mujeres en los 103 centros de la mujer, las 43 casas de acogida, los 3 centros de violencia sexual y la casa de tata personas; además en los centros de reeducación de hombres (HEVPA) se atendió en el mismo periodo a 4.913 hombres.
 
 - Convenio de colaboración entre el Ministerio de la Mujer y de la Equidad de Género, el Ministerio Público, el Ministerio de Interior y Seguridad Pública, y Carabineros de Chile para implementar una pauta unificada de detección de riesgos para mujeres víctimas de violencia intrafamiliar.
 
@@ -1190,9 +1269,9 @@ Entre 2014 -2017 se atendió a 123.241 mujeres en los 103 centros de la mujer, l
 
 CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
-- Elaboración y lanzamiento nacional y regional del Primer 'Decálogo de Derechos de las Mujeres en los Procesos Judiciales de Violencia de Género', disponibles en salas de espera de las instituciones de justicia (Comisión de acceso a la justicia, Plan Nacional en VCM).
+- Elaboración y lanzamiento nacional y regional del Primer “Decálogo de Derechos de las Mujeres en los Procesos Judiciales de Violencia de Género”, disponibles en salas de espera de las instituciones de justicia (Comisión de acceso a la justicia, Plan Nacional en VCM).
 
-- 891 funcionarias y funcionarios públicos capacitados en 'herramientas para el abordaje de la violencia contra las mujeres' curso e-learning del Programa Nacional de Capacitación en violencia contra las mujeres para funcionarias/os públicas/os entre año 2015 y 2017 (año 2015: 108 personas, año 2016: 364 personas, año 2017: 419 personas)
+- 891 funcionarias y funcionarios públicos capacitados en “herramientas para el abordaje de la violencia contra las mujeres” curso e-learning del Programa Nacional de Capacitación en violencia contra las mujeres para funcionarias/os públicas/os entre año 2015 y 2017 (año 2015: 108 personas, año 2016: 364 personas, año 2017: 419 personas)
 
 - Programa Nacional de Capacitación en violencia contra las mujeres para funcionarias/os públicas/os: 36.390 mil funcionarias/os capacitadas/os en violencia de género.
 
@@ -1328,15 +1407,15 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 - Creación de la Subsecretaría y la Intendencia de Educación Parvularia.
 
-- Portal  Elige  Carrera  del  Consejo  Nacional  de  Educación,  incluye  una  sección de 'Orientación', que permite incorporar consideraciones de género, no sólo para los y las postulantes  y  estudiantes  de  enseñanza  media,  sino  también  para  orientadores  y profesores.
+- Portal  Elige  Carrera  del  Consejo  Nacional  de  Educación,  incluye  una  sección de “Orientación”, que permite incorporar consideraciones de género, no sólo para los y las postulantes  y  estudiantes  de  enseñanza  media,  sino  también  para  orientadores  y profesores.
 
-- CONICYT aprueba y publica la actualización de la Política Institucional de Género 20172025, y se establecen 3 ejes de trabajo: Promover y potenciar la igualdad de género en el desarrollo de la actividad científica y tecnológica; Visibilizar el desarrollo de la Ciencia y Tecnología del país desde una perspectiva de igualdad de género; e, Instalar una cultura de equidad de género y diversidad en la gestión de recursos humanos y financieros de CONICYT.
+- CONICYT aprueba y publica la actualización de la Política Institucional de Género 2017-2025, y se establecen 3 ejes de trabajo: Promover y potenciar la igualdad de género en el desarrollo de la actividad científica y tecnológica; Visibilizar el desarrollo de la Ciencia y Tecnología del país desde una perspectiva de igualdad de género; e, Instalar una cultura de equidad de género y diversidad en la gestión de recursos humanos y financieros de CONICYT.
 
 - CONICYT lidera durante el 2017 la organización de Gender Summit 12, primera cumbre latinoamericana de ciencia y tecnología con enfoque de género
 
 - DIBAM cuenta con 10 nuevos registros de relatos testimoniales. En la actualidad se cuenta con un total de 76 testimonios de mujeres de diverso origen y trayectoria. Entre 2014 y 2017 se agregaron 46 nuevas entrevistas al fondo audiovisual.
 
-- 10 capítulos de ' Relatos de Mujer ' realizados conjuntamente entre DIBAM y Novasur -CNTV, que permiten incorporar nuevas visiones al archivo Mujeres y Género y dar mayor cobertura a las voces de las mujeres en la historia.
+- 10 capítulos de “Relatos de Mujer” realizados conjuntamente entre DIBAM y Novasur – CNTV, que permiten incorporar nuevas visiones al archivo Mujeres y Género y dar mayor cobertura a las voces de las mujeres en la historia.
 
 - Protocolo de derivación de denuncias de la Superintendencia de Educación, que permite fijar un procedimiento de derivación de alguna irregularidad que implique una vulneración del derecho de las estudiantes a consecuencia de su embarazo o maternidad, de igual modo respecto de otras vulneraciones de derechos relacionadas con identidad de género.
 
@@ -1352,7 +1431,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 - En  el  Centro  de  Perfeccionamiento,  Experimentación  e  Investigaciones  Pedagógicas, CPEIP, se ha capacitado en cursos vinculados a Educación y Género a un total de 3.876 docentes en ejercicio.
 
-- Campaña MINEDUC 'Eduquemos con Igualdad'.
+- Campaña MINEDUC “Eduquemos con Igualdad”.
 
 - Elaboración de tipologías (estudio concluido en enero 2018) sobre sesgos y estereotipos de género en la práctica docente, y desarrollo de material que oriente la práctica docente al respecto.
 
@@ -1376,7 +1455,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 La  cobertura del  sistema educacional chileno se ha ido expandiendo desde hace varios años, logrando casi una cobertura total en el nivel de la educación básica y media con relación a la población en edad de cursar esos niveles y, simultáneamente, evidencia una leve tendencia a mayor acceso de las mujeres. Las diferencias sociales y algunas diferencias de género se juegan en otras dimensiones del sistema, relacionadas con la calidad de la educación a la que se accede y a los tipos de aprendizajes, lo que se expresa en diferencias de rendimiento escolar.
 
-En el nivel básico, las mujeres que asistían el 2011 representaban el 93,9% y los varones el 91,8%, en  tanto  que  en  2015  las  tasas  tienden  a  igualarse,  con  una  diferencia  de  solo  8  décimas porcentuales (91,1% y 91,9%, mujeres y varones, respectivamente) (CASEN, 2015). El panorama es similar en el nivel secundario, con una diferencia más acentuada a favor de las mujeres, que se relaciona -entre otros factores -con una mayor tasa de deserción de los varones, vinculada al ingreso más temprano de estos al mercado laboral. Así en 2011, el 74,9% de las mujeres y el 69,7% de los varones asistía a establecimientos de Educación Media, en tanto que, en 2015, la diferencia
+En el nivel básico, las mujeres que asistían el 2011 representaban el 93,9% y los varones el 91,8%, en  tanto  que  en  2015  las  tasas  tienden  a  igualarse,  con  una  diferencia  de  solo  8  décimas porcentuales (91,1% y 91,9%, mujeres y varones, respectivamente) (CASEN, 2015). El panorama es similar en el nivel secundario, con una diferencia más acentuada a favor de las mujeres, que se relaciona –entre otros factores– con una mayor tasa de deserción de los varones, vinculada al ingreso más temprano de estos al mercado laboral. Así en 2011, el 74,9% de las mujeres y el 69,7% de los varones asistía a establecimientos de Educación Media, en tanto que, en 2015, la diferencia
 
 62
 
@@ -1486,7 +1565,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 - Capacitaciones a funcionario/as, ONEMI en la sensibilización de la gestión de riesgos con enfoque de género, comprendiendo que tanto el nivel de riesgo, las vulnerabilidades y las capacidades  para  gestionar  riesgos  y  emergencias  son  diferentes  entre  hombres  y mujeres, y que, por tanto, esta perspectiva se debe tener en consideración cuando ocurre una emergencia.
 
-- Creación  del  curso 'Gestión de  Riesgo  y Género', para  que  forme  parte  del portafolio de cursos de la Academia Nacional de Protección Civil de la ONEMI.
+- Creación  del  curso “Gestión de Riesgo y Género”, para  que  forme  parte  del portafolio de cursos de la Academia Nacional de Protección Civil de la ONEMI.
 
 - Incorporación  de  recomendaciones  de  género  en  el  Manual  de  Administración  de Albergues en situación de Emergencias.
 
@@ -1494,7 +1573,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 El trabajo realizado por el Ministerio de la Mujer y la Equidad de Género y SERNAMEG con mujeres rurales  e  indígenas,  ha  permitido  visibilizar  las  transformaciones  que  se  han  producido  en  el territorio  rural,  en  términos  de  cambio  de  las  relaciones  sociales  en  las  comunidades, feminización de la pobreza, crisis ambiental y diversificación de actividades laborales como una estrategia de supervivencia. Asimismo, visibiliza la diversidad de colectivos que se engloban bajo el  término  de  mujeres  rurales,  al  interior  del  cual  pueden  distinguirse,  entre  otras,  mujeres indígenas, pescadoras, recolectoras y temporeras.
 
-Las actividades productivas de las mujeres de sectores rurales las ponen en contacto directo con los efectos del 'crecimiento' sobre los recursos naturales y el medio ambiente, la disminución de la biodiversidad y la pérdida de variedad de semillas. Al mismo tiempo, comparten problemas similares de acceso a los recursos productivos, crediticios y de canales de comercialización.
+Las actividades productivas de las mujeres de sectores rurales las ponen en contacto directo con los efectos del “crecimiento” sobre los recursos naturales y el medio ambiente, la disminución de la biodiversidad y la pérdida de variedad de semillas. Al mismo tiempo, comparten problemas similares de acceso a los recursos productivos, crediticios y de canales de comercialización.
 
 En este sentido, sus demandas en torno al agua, a la tierra, a la preservación del medioambiente y al respeto y rescate de sus prácticas productivas y culturales se engarzan con los objetivos de desarrollo  sostenible  relativos  a  garantizar  modalidades  de  consumo  y  producción  sostenible (ODS  12),  proteger,  restablecer  y  promover  el  uso  sostenible  de  los  ecosistemas  terrestres, gestionar  sosteniblemente  los  bosques,  luchar  contra  la  desertificación,  detener  e  invertir  la degradación de la tierra y detener la pérdida de la biodiversidad (ODS 15). De esta manera, las medidas asumidas por el Ministerio de la Mujer y de la Equidad de Género orientadas a favorecer
 
@@ -1508,7 +1587,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 la  organización  y  formación  de  liderazgo,  la  capacitación  productiva,  técnica,  crediticia  de  las mujeres, las fortalece como sujetos sociales que unen en sus demandas la aspiración de desarrollo con el respeto al medioambiente y a la biodiversidad.
 
-En el ámbito de la Gestión del Riesgo de Desastres y Género, el Ministerio de la Mujer y la Equidad de Género ha desarrollado un trabajo en conjunto con la Oficina Nacional de Emergencia ONEMI, que ha permitido, crear y fortalecer la Mesa de Género y Gestión del Riesgo, participar en la elaboración  de  la  actual  Política  Nacional  en  Gestión  del  Riesgo  de  Desastres  (2014)  y  de  la Estrategia Nacional de Reducción de Desastres (2015 -2018). Asimismo, se ha desarrollado una línea de formación, que tiene por objetivo proporcionar a los integrantes del Sistema Nacional de Protección Civil conocimientos y técnicas que les permitan orientar la promoción e integración del enfoque de género en las distintas etapas de la Gestión Integral del Riesgo.
+En el ámbito de la Gestión del Riesgo de Desastres y Género, el Ministerio de la Mujer y la Equidad de Género ha desarrollado un trabajo en conjunto con la Oficina Nacional de Emergencia ONEMI, que ha permitido, crear y fortalecer la Mesa de Género y Gestión del Riesgo, participar en la elaboración  de  la  actual  Política  Nacional  en  Gestión  del  Riesgo  de  Desastres  (2014)  y  de  la Estrategia Nacional de Reducción de Desastres (2015–2018). Asimismo, se ha desarrollado una línea de formación, que tiene por objetivo proporcionar a los integrantes del Sistema Nacional de Protección Civil conocimientos y técnicas que les permitan orientar la promoción e integración del enfoque de género en las distintas etapas de la Gestión Integral del Riesgo.
 
 69
 
@@ -1593,7 +1672,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 - El  Instituto  de  Seguridad  Social  ha  elaborado  y  distribuido  cartillas  desde  2015  con información dirigidas a trabajadoras/es extranjeras/os acerca de la normativa laboral del país. La cartilla está en español y créole.
 
-'Guía para migrantes. ¿Cómo acceder a derechos sociales en Chile?' Chile te recibe. Plan de  Atención  a  Migrantes.  Ministerio  del  Interior  y  Seguridad  Pública,  2017.  Incluye Información para iniciar y completar el proceso de regularización migratoria, los diversos permisos de residencia existentes en el país y los beneficios y derechos sociales a los que la población migrante puede acceder.
+- “Guía para migrantes. ¿Cómo acceder a derechos sociales en Chile?” Chile te recibe. Plan de  Atención  a  Migrantes.  Ministerio  del  Interior  y  Seguridad  Pública,  2017.  Incluye Información para iniciar y completar el proceso de regularización migratoria, los diversos permisos de residencia existentes en el país y los beneficios y derechos sociales a los que la población migrante puede acceder.
 
 - Folletería sobre Prevención y denuncia de VCM, en créole. Editada por MMyEG 2017
 
@@ -1601,7 +1680,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 En el año 2015 alrededor de 244 millones de personas vive fuera de su país de origen según el informe de Naciones Unidas sobre migración internacional, un aumento del 41% con respecto al año 2000 (UN 2016), pero que representa solo un 3,3% de la población mundial.
 
-En Chile, de acuerdo con los datos estadísticos de la encuesta CASEN 2015, el número de personas extranjeras residentes en Chile ha aumentado de 154 mil en el año 2006 a 465 mil al año 2015, un aumento de 200% en menos de 10 años. No obstante, el porcentaje de población inmigrante representa solo el 2,7% de la población  total nacional 4 , inferior al  porcentaje  de  migrantes  a escala  mundial.  Los  colectivos  de  inmigrantes  más  numerosos  son  los  de  Perú,  Colombia  y Argentina, los que suman el 55% del total de la población inmigrante (Perú 30%, Colombia 13,6%, Argentina 11,9%).
+En Chile, de acuerdo con los datos estadísticos de la encuesta CASEN 2015, el número de personas extranjeras residentes en Chile ha aumentado de 154 mil en el año 2006 a 465 mil al año 2015, un aumento de 200% en menos de 10 años. No obstante, el porcentaje de población inmigrante representa solo el 2,7% de la población total nacional⁴, inferior al porcentaje de migrantes a escala mundial. Los colectivos de inmigrantes más numerosos son los de Perú, Colombia y Argentina, los que suman el 55% del total de la población inmigrante (Perú 30%, Colombia 13,6%, Argentina 11,9%).
 
 Esta misma encuesta muestra que el porcentaje de mujeres inmigrantes es levemente superior al de hombres inmigrantes, 51,9% versus 48,1%. El 37,6% de las mujeres migrantes tiene entre 30 y 44 años, o sea, en edad reproductiva y laboral. Del total de población inmigrante femenina, un 39,4% se declara soltera, mientras que un 52% es casada (25%) o convive con su pareja (27%) (con o sin acuerdo civil). La tasa de participación laboral de las mujeres inmigrantes es del 67,6%, más alto que el promedio nacional de mujeres: 46,8%. El 22,9% de las mujeres extranjeras que residen en Chile se encuentra en situación de pobreza multidimensional frente al 20,9% de las
 
@@ -1615,21 +1694,21 @@ Esta misma encuesta muestra que el porcentaje de mujeres inmigrantes es levement
 
 CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
-chilenas 5 .  La  población  inmigrante  con  menores  redes  de  apoyo  y  con  mayores  índices  de discriminación es la que reside en la zona norte del país.
+chilenas⁵. La  población  inmigrante  con  menores  redes  de  apoyo  y  con  mayores  índices  de discriminación es la que reside en la zona norte del país.
 
 ### 4.7.2   MUJERES RURALES
 
 #### 4.7.2.1. Avances
 
-- Crédito 'A delante mujer rural ' (2017), Ofrece condiciones preferentes para las emprendedoras campesinas y una tasa preferencial y nominal con un período de prórroga de 123 días para aquellas productoras que queden embarazadas (pre y post natal). Esta línea  de  financiamiento  no  es  reajustable  y  para  efectos  de  su  otorgamiento  no  se consideró el número de créditos en cartera y el financiamiento es integral de subsidio y crédito. A este beneficio pueden acceder en forma individual o como una organización que esté conformada mayoritariamente por usuarias de INDAP.
+- Crédito “Adelante mujer rural” (2017), Ofrece condiciones preferentes para las emprendedoras campesinas y una tasa preferencial y nominal con un período de prórroga de 123 días para aquellas productoras que queden embarazadas (pre y post natal). Esta línea  de  financiamiento  no  es  reajustable  y  para  efectos  de  su  otorgamiento  no  se consideró el número de créditos en cartera y el financiamiento es integral de subsidio y crédito. A este beneficio pueden acceder en forma individual o como una organización que esté conformada mayoritariamente por usuarias de INDAP.
 
-- Programa INDAP -PRODEMU: El programa de Formación y Capacitación para Mujeres Campesinas, INDAP - Prodemu busca mejorar la calidad de vida de las mujeres rurales y sus  familias,  a  través  del  aumento  de  su  autonomía  personal,  social,  productiva  y económica, disminuyendo la brecha de equidad de género. Se trata de lograr un desarrollo integral de las beneficiarias, mediante el fortalecimiento de sus capacidades y competencias  personales,  sociales  y  productivas,  a  través  del  apoyo  a  proyectos productivos agropecuarios y/o actividades conexas como turismo rural y artesanía, entre otros. Entre el año 2014 y el 2017 participaron 10.000 mujeres.
+- Programa INDAP – PRODEMU: El programa de Formación y Capacitación para Mujeres Campesinas, INDAP - Prodemu busca mejorar la calidad de vida de las mujeres rurales y sus  familias,  a  través  del  aumento  de  su  autonomía  personal,  social,  productiva  y económica, disminuyendo la brecha de equidad de género. Se trata de lograr un desarrollo integral de las beneficiarias, mediante el fortalecimiento de sus capacidades y competencias  personales,  sociales  y  productivas,  a  través  del  apoyo  a  proyectos productivos agropecuarios y/o actividades conexas como turismo rural y artesanía, entre otros. Entre el año 2014 y el 2017 participaron 10.000 mujeres.
 
 - 2016, reinstalación de la Mesa Nacional Mujer Rural (con Indap, MMyEG y Prodemu) y fortalecimiento del liderazgo de 50 dirigentas de la Mesa, a través de la realización de dos escuelas  que  entregaron  herramientas  para  incorporar  el  enfoque  de  género  en  su organización, promoción de la asociatividad con otras organizaciones e incidencia política.
 
-- Incorporación de la temática Violencia Contra la Mujer en el trabajo con mujeres rurales y formación de monitoras en VCM: Curso: 'Herramientas para el abordaje de la VCM".
+- Incorporación de la temática Violencia Contra la Mujer en el trabajo con mujeres rurales y formación de monitoras en VCM: Curso: “Herramientas para el abordaje de la VCM".
 
-- Integración de una representante de la Mesa Nacional Mujer Rural en la coordinación del Plan Nacional de Acción contra la Violencia hacia las Mujeres (VCM) 2014 -2018.
+- Integración de una representante de la Mesa Nacional Mujer Rural en la coordinación del Plan Nacional de Acción contra la Violencia hacia las Mujeres (VCM) 2014 – 2018.
 
 - Realización de documento de trabajo sobre situación de mujeres rurales realizado por MMyEG, 2017.
 
@@ -1649,13 +1728,13 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 El 12,7% de la población chilena es rural. Las mujeres rurales representan el 6,4% de la población total. (CASEN, 2015)
 
-Las  regiones  con  mayor  proporción  de  mujeres  rurales  son:  Maule  (16%);  Los  Ríos  (16%);  La Araucanía (16%); Los Lagos (14%); O'Higgins (14%); Coquimbo (9%); Bío-Bío (8%); y Aysén (6%). (CASEN, 2015). La media de edad a nivel nacional de las mujeres rurales es de 38,2 años. (CASEN, 2015)
+Las  regiones  con  mayor  proporción  de  mujeres  rurales  son:  Maule  (16%);  Los  Ríos  (16%);  La Araucanía (16%); Los Lagos (14%); O’Higgins (14%); Coquimbo (9%); Bío-Bío (8%); y Aysén (6%). (CASEN, 2015). La media de edad a nivel nacional de las mujeres rurales es de 38,2 años. (CASEN, 2015)
 
 Las  mujeres  rurales  registran  valores  más  elevados  de  pobreza  multidimensional  (35%),  en comparación  con  las  mujeres  de  pueblos  originarios  (20%)  y  las  mujeres  inmigrantes  (23%). (CASEN, 2015)
 
 Las mujeres productoras constituyen más de la mitad de las mujeres agrícolas, con ochenta mil mujeres jefas de explotaciones agropecuarias y forestales. Un 97% de las mujeres productoras se clasifican como microempresarias, generan el 22% del valor bruto de la producción agropecuaria y forestal del país, poseen el 23% de los activos y generan el 27% del empleo familiar y asalariado (ODEPA, 2014).
 
-Cincuenta mil mujeres aportan su trabajo como mano de obra familiar no remunerada en los predios agricolas (ODEPA, 2014).
+Cincuenta mil mujeres aportan su trabajo como mano de obra familiar no remunerada en los predios agrícolas (ODEPA, 2014).
 
 Las explotaciones a cargo de mujeres son más pequeñas que las de los hombres, con un valor bruto de su producción y un tamaño físico que corresponde al 60-70% de su homólogo masculino (ODEPA, 2014).
 
@@ -1675,13 +1754,13 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 #### 4.7.3.1. Avances
 
-- Ley 20.820 que crea el Ministerio de la Mujer y la Equidad de Género, en el Art. 3° letra q) ' mandata fomentar medidas en favor de las mujeres que reconozcan y resguarden la multiculturalidad  y  las  identidades  étnicas,  respetando  sus  propias  visiones,  prácticas, necesidades y creencias, en armonía con los derechos humanos '.
+- Ley 20.820 que crea el Ministerio de la Mujer y la Equidad de Género, en el Art. 3° letra q) “mandata fomentar medidas en favor de las mujeres que reconozcan y resguarden la multiculturalidad  y  las  identidades  étnicas,  respetando  sus  propias  visiones,  prácticas, necesidades y creencias, en armonía con los derechos humanos”.
 
 - El Ministerio de Desarrollo Social, crea el año 2014 la Unidad de Coordinación de Asuntos Indígenas,  (UCAI), que  se  coordina  con  los  encargados  y  encargadas  ministeriales indígenas de cada Ministerio y Servicios, que apuntan a promover los derechos de los pueblos indígenas en las políticas públicas.
 
 - Proyectos de ley que crean el Ministerio de Pueblos Indígenas, el Consejo Nacional de Pueblos y los Consejos por cada Pueblo Indígena.
 
-- El  año  2014,  SERNAM  en  conjunto  con  la  UCAI,  realizó  4  Encuentros  Macro  Zonales denominados: 'Encuentros zonales con Mujeres de Pueblos Originarios Construyendo el Buen Vivir'. Su  objetivo  fue  levantar  participativamente,  con  las  mujeres  de  pueblos indígenas, lineamientos y temas a incorporar en una Agenda de Género con pertinencia cultural.
+- El  año  2014,  SERNAM  en  conjunto  con  la  UCAI,  realizó  4  Encuentros  Macro  Zonales denominados: “Encuentros zonales con Mujeres de Pueblos Originarios Construyendo el Buen Vivir”. Su  objetivo  fue  levantar  participativamente,  con  las  mujeres  de  pueblos indígenas, lineamientos y temas a incorporar en una Agenda de Género con pertinencia cultural.
 
 - Realización de Jornada Interna Ministerio y Servicio Nacional de la Mujer y la Equidad de Género  para  dar  cuenta  de  las  acciones  realizadas  en  pos  de  la  eliminación  de  la discriminación en contra de las mujeres indígenas (2016).
 
@@ -1709,7 +1788,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
-- Trabajadoras de casa particular, nivelación ingreso mínimo, regulación contratos, jornadas de trabajo e igualdad laboral, favorece a mujeres indígenas que en un alto porcentaje desarrolla este trabajo.
+- Trabajadoras de casa particular, nivelación ingreso mínimo,regulación contratos, jornadas de trabajo e igualdad laboral, favorece a mujeres indígenas que en un alto porcentaje desarrolla este trabajo.
 
 - Estudio sobre situación de mujeres indígenas realizado por MMyEG, 2017.
 
@@ -1729,7 +1808,7 @@ Respecto a pobreza, 18,4% de las mujeres indígenas son pobres por ingresos (con
 
 En cuanto a pobreza multidimensional, el 29,8% de las mujeres indígenas es pobre, contra el 19,4% de las mujeres no indígenas y del 31,9% de los hombres indígenas.
 
-Respecto de las Mujeres afrodescendientes, según el censo preliminar del año 2013 del Instituto Nacional de Estadística, existe un 4,7% de la población de la Región de Arica Parinacota que se autodefine  como 'afrodescendiente', estimando  una  población  de  8.415  afros.  El  censo preliminar del INE (2013) indica que un 47% de las mujeres tiene un empleo con ingresos.
+Respecto de las Mujeres afrodescendientes, según el censo preliminar del año 2013 del Instituto Nacional de Estadística, existe un 4,7% de la población de la Región de Arica Parinacota que se autodefine  como “afrodescendiente”, estimando  una  población  de  8.415  afros.  El  censo preliminar del INE (2013) indica que un 47% de las mujeres tiene un empleo con ingresos.
 
 ### 4.7.4 MUJERES DE LA DIVERSIDAD SEXUAL
 
@@ -1799,7 +1878,7 @@ La  consideración  de  las  desigualdades  de  género  como  problema  públic
 
 El logro institucional más importante, como ya se ha dicho, ha sido la creación del Ministerio de la Mujer y de la Equidad de Género y la transformación del SERNAM en el Servicio Nacional de la Mujer y la Equidad de Género.
 
-Junto al Ministerio se crea el Comité Interministerial para la Igualdad de Derechos y la Equidad de Género , presidido por la ministra o ministro de la Mujer y la Equidad de Género e integrado por las ministras y ministros de Interior y Seguridad Pública; de Defensa Nacional; de Hacienda;
+Junto al Ministerio se crea el Comité Interministerial para la Igualdad de Derechos y la Equidad de Género, presidido por la ministra o ministro de la Mujer y la Equidad de Género e integrado por las ministras y ministros de Interior y Seguridad Pública; de Defensa Nacional; de Hacienda;
 
 79
 
@@ -1861,7 +1940,7 @@ Cumplir con las agendas de género en los Estados, supone una serie de ajustes n
 
 - Guía de detección y derivación de víctimas de trata de personas.
 
-- Actualización  de  las 'Orientaciones técnicas  para  el  control  de  salud  integral  de adolescentes'.
+- Actualización  de  las “Orientaciones técnicas  para  el  control  de  salud  integral  de adolescentes”.
 
 - Norma técnica nacional: acompañamiento y atención integral a la mujer que regula la Ley 21.030 sobre despenalización de la interrupción voluntaria del embarazo.
 
@@ -1901,17 +1980,17 @@ La comunicación interna y externa es central para garantizar el derecho a la in
 
 Algunos ejemplos de las campañas y acciones realizadas son:
 
-'Regala igualdad'. Elaborada por el SERNAM y luego por el MMyEG anualmente desde 2015, esta campaña tiene como fin generar conciencia sobre el tipo de regalos que se pueden hacer a niños y niñas para fomentar la igualdad de género desde la infancia.
+- “Regala igualdad”. Elaborada por el SERNAM y luego por el MMyEG anualmente desde 2015, esta campaña tiene como fin generar conciencia sobre el tipo de regalos que se pueden hacer a niños y niñas para fomentar la igualdad de género desde la infancia.
 
-'Postula por tus sueños'. Presentada en 2015 por el SERNAM, tuvo como objetivo instar a las jóvenes a postular a carreras de la educación superior sin sesgos de género.
+- “Postula por tus sueños”. Presentada en 2015 por el SERNAM, tuvo como objetivo instar a las jóvenes a postular a carreras de la educación superior sin sesgos de género.
 
-'El doble discurso también es violencia. No más violencias contra las mujeres. Por un Chile sin Femicidios', campaña del MMyEG en 2016 con el objetivo de implicar a los hombres y a sus actitudes frente a la violencia contra las mujeres.
+- “El doble discurso también es violencia. No más violencias contra las mujeres. Por un Chile sin Femicidios”, campaña del MMyEG en 2016 con el objetivo de implicar a los hombres y a sus actitudes frente a la violencia contra las mujeres.
 
-'Quebremos los estereotipos', realizada por el MMyEG en 2016 con el fin de hacer visible el  trabajo  de  las  mujeres  en  áreas  no  tradicionales  y  romper  los  estereotipos  que promueven  definiciones  y  conductas  asignadas  culturalmente  para  mujeres  y  niñas, hombres y niños.
+- “Quebremos los estereotipos”, realizada por el MMyEG en 2016 con el fin de hacer visible el  trabajo  de  las  mujeres  en  áreas  no  tradicionales  y  romper  los  estereotipos  que promueven  definiciones  y  conductas  asignadas  culturalmente  para  mujeres  y  niñas, hombres y niños.
 
-'Jugar sin  juzgar:  Juego  libre  y  sin  estereotipos  de género'. Cartillas  elaboradas  y difundidas  por  Chile  Crece  contigo  en  2016  para  que  padres  y  madres  promuevan  la igualdad entre niños y niñas, a través del juego.  Se distribuyeron un total de  149.300 cartillas del juego en todas las regiones.
+- “Jugar sin  juzgar:  Juego  libre  y  sin  estereotipos  de género”. Cartillas  elaboradas  y difundidas  por  Chile  Crece  contigo  en  2016  para  que  padres  y  madres  promuevan  la igualdad entre niños y niñas, a través del juego.  Se distribuyeron un total de  149.300 cartillas del juego en todas las regiones.
 
-- El proyecto Explora CONICYT: 'Julieta en la Tierra de las Niñas', busca incentivar el interés en la ciencia en niñas de 7 a 11 años, a través del juego y la observación en terreno (recibió premio UNESCO 2016).
+- El proyecto Explora CONICYT: “Julieta en la Tierra de las Niñas”, busca incentivar el interés en la ciencia en niñas de 7 a 11 años, a través del juego y la observación en terreno (recibió premio UNESCO 2016).
 
 82
 
@@ -1923,7 +2002,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 - El  Instituto  de  Seguridad  Social  ha  elaborado  y  distribuido  cartillas  desde  2015  con información dirigidas a trabajadoras/es extranjeras/os acerca de la normativa laboral del país. La cartilla está en español y créole.
 
-'Guía para migrantes. ¿Cómo acceder a derechos sociales en Chile?' Chile te recibe. Plan de  Atención  a  Migrantes.  Ministerio  del  Interior  y  Seguridad  Pública,  2017.  Incluye Información para iniciar y completar el proceso de regularización migratoria, los diversos permisos de residencia existentes en el país y los beneficios y derechos sociales a los que la población migrante puede acceder.
+- “Guía para migrantes. ¿Cómo acceder a derechos sociales en Chile?” Chile te recibe. Plan de  Atención  a  Migrantes.  Ministerio  del  Interior  y  Seguridad  Pública,  2017.  Incluye Información para iniciar y completar el proceso de regularización migratoria, los diversos permisos de residencia existentes en el país y los beneficios y derechos sociales a los que la población migrante puede acceder.
 
 - Guía de orientaciones y recomendaciones para la atención de adolescentes y jóvenes gays, lesbianas y bisexuales en el nivel primario de salud. Ministerio de Salud, Fondo Nacional de Investigación y Desarrollo en Salud, 2017.
 
@@ -1986,44 +2065,43 @@ Incrementar en un 40% la aplicación de la norma Nª 3262 de conciliación traba
 [[END OF PAGE 87]]
 
 [[START OF PAGE 88]]
+CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 # Bibliografía
 
-Arriagada, Irma y Thelma Gálvez (2014), 'Estructura de restricciones a la participación laboral y a la autonomía económica de las mujeres: Estu dio orientado a mejorar las políticas de equidad de género', Serie de Estudios, Santiago de Chile, SERNAM.
+Arriagada, Irma y Thelma Gálvez (2014), “Estructura de restricciones a la participación laboral y a la autonomía económica de las mujeres: Estudio orientado a mejorar las políticas de equidad de género”, Serie de Estudios, Santiago de Chile, SERNAM.
 
--(2012), 'Cadenas globales de cuidados: el papel de las migrantes peruanas en la provisión de cuidados en Chile', ONU -Mujeres y CEM, Santiago de Chile, editorial LOM.
+— (2012), “Cadenas globales de cuidados: el papel de las migrantes peruanas en la provisión de cuidados en Chile”, ONU-Mujeres y CEM, Santiago de Chile, editorial LOM.
 
-Asociación Red de Investigadores (2017), '13 propuestas para combatir las brechas de género en ciencia, tecnología e investigación' [en línea], Santiago de Chile [fecha de consulta: 10 de diciembre de 2017] www.redinvestigadoras.cl
+Asociación Red de Investigadores (2017), “13 propuestas para combatir las brechas de género en ciencia, tecnología e investigación” [en línea], Santiago de Chile [fecha de consulta: 10 de diciembre de 2017] www.redinvestigadoras.cl
 
-Astudillo, Pamela y Carlos Ibarra (2014), 'La Perspectiva de Género, Desafíos para la Ergonomía en Chile: Una Revisión Sistemática de Literatura', Revista Ciencia & Trabajo, Santiago de Chile, N° 49, pp. 28-37.
+Astudillo, Pamela y Carlos Ibarra (2014), “La Perspectiva de Género, Desafíos para la Ergonomía en Chile: Una Revisión Sistemática de Literatura”, Revista Ciencia & Trabajo, Santiago de Chile, N° 49, pp. 28-37.
 
-Breidt, F. J. and Claeskens, Gerda and Opsomer, J. D. (2005), Model-Assisted Estimation for Complex Surveys Using Penalized Splines, Biometrika, United States. Cassisi, Rita (2012), 'Emprendimientos y derechos económicos de las mujeres'. Documento present ado en la I Conferencia regional sobre derechos económicos de las mujeres: emprendimientos, políticas públicas y acceso a activos, Honduras.
+Breidt, F. J. and Claeskens, Gerda and Opsomer, J. D. (2005), Model-Assisted Estimation for Complex Surveys Using Penalized Splines, Biometrika, United States.
 
-CELAC (Comunidad de Estados Latinoamericanos y Caribeños) (2014), 'Plan para la seguridad alimentaria, nutrición y erradicación del hambre de la CELAC', Organización de las Naciones Unidas para la Alimentación y la Agricultura, CEPAL y Asociación Latinoamericana de Integración (ALADI).
+Cassisi, Rita (2012), “Emprendimientos y derechos económicos de las mujeres”. Documento presentado en la I Conferencia regional sobre derechos económicos de las mujeres: emprendimientos, políticas públicas y acceso a activos, Honduras.
+
+CELAC (Comunidad de Estados Latinoamericanos y Caribeños) (2014), “Plan para la seguridad alimentaria, nutrición y erradicación del hambre de la CELAC”, Organización de las Naciones Unidas para la Alimentación y la Agricultura, CEPAL y Asociación Latinoamericana de Integración (ALADI).
 
 CONICYT (2017), Política institucional equidad de género en ciencia y tecnología: Período 2017-2025, CONICYT.
 
-- CEPAL (Comisión Económica para América Latina y el Caribe) (2017a), 'Estrategia de Montevideo para la Implementación de la Ag enda Regional de Género en el Marco del Desarrollo Sostenible hacia 2030', XIII Conferencia Regional sobr e la Mujer de América Latina y el Caribe organizada por la CEPAL y el Gobierno del Uruguay', Montevideo, Publicación de las Naciones Unidas.
+CEPAL (Comisión Económica para América Latina y el Caribe) (2017a), “Estrategia de Montevideo para la Implementación de la Agenda Regional de Género en el Marco del Desarrollo Sostenible hacia 2030”, XIII Conferencia Regional sobre la Mujer de América Latina y el Caribe organizada por la CEPAL y el Gobierno del Uruguay”, Montevideo, Publicación de las Naciones Unidas.
 
--(2017b), 'Agenda 2030 y los objetivos de desarrollo sostenible, una oportunidad para América Latina y el Caribe', Santiago de Chile, Publicación de las Naciones Unidas.
+— (2017b), “Agenda 2030 y los objetivos de desarrollo sostenible, una oportunidad para América Latina y el Caribe”, Santiago de Chile, Publicación de las Naciones Unidas.
 
--(2017d), 'Planes de igualdad de género en América Latina y el Caribe. Mapas de ruta para el desarrollo', Santiago de Chile, P ublicación de las Naciones Unidas.
+— (2017d), “Planes de igualdad de género en América Latina y el Caribe. Mapas de ruta para el desarrollo”, Santiago de Chile, Publicación de las Naciones Unidas.
 
--(2016a), 'División de Asuntos de Género políticas de cuidado en América Latina forjando la igualdad', Serie Asuntos de Genero LC/L.4226, Santiago de Chile, Publicación de las Naciones Unidas.
+— (2016a), “División de Asuntos de Género políticas de cuidado en América Latina forjando la igualdad”, Serie Asuntos de Genero LC/L.4226, Santiago de Chile, Publicación de las Naciones Unidas.
 
--(2016b), 'Autonomía de las Mujeres e Igualdad de género en la agenda de desarrollo sostenible. XII I Conferencia regional sobre la Mujer de América Latina y el Caribe', Serie LC/G.2686/Rev.1, Santiago de Chile, Publicación de las Naciones Unidas.
+— (2016b), “Autonomía de las Mujeres e Igualdad de género en la agenda de desarrollo sostenible. XIII Conferencia regional sobre la Mujer de América Latina y el Caribe”, Serie LC/G.2686/Rev.1, Santiago de Chile, Publicación de las Naciones Unidas.
 
--(2016c), 'Autonomía de las mujeres e igualdad en la agenda de desarrollo sostenible'. Documento preparado por la Comisión Económica para América Latina y el Caribe (CEPAL) para ser presentado en la XIII Conferencia Regional sobre la Mujer de América Latina y el Caribe', Montev ideo, 25 a 28 de octubre de 2016.
+— (2016c), “Autonomía de las mujeres e igualdad en la agenda de desarrollo sostenible”. Documento preparado por la Comisión Económica para América Latina y el Caribe (CEPAL) para ser presentado en la XIII Conferencia Regional sobre la Mujer de América Latina y el Caribe”, Montevideo, 25 a 28 de octubre de 2016.
 
-Cifuentes, Luis María (2007), 'La laicidad y la nueva Europa'. Cuaderno de estudio y discusión. Acción alternativa, Andalucía.
+Cifuentes, Luis María (2007), “La laicidad y la nueva Europa”. Cuaderno de estudio y discusión. Acción alternativa, Andalucía.
 
-Chile, Instituto de Salud Pública de Chile (2015), 'Guía de formación en ergonomía y género para dirigentes sindicales', edic
+Chile, Instituto de Salud Pública de Chile (2015), “Guía de formación en ergonomía y género para dirigentes sindicales”, edición institucional, Santiago de Chile.
 
-Chile, Instituto Nacional de Derechos Humanos (2016), 'Situación de los Derechos Humanos en Chile', Informe anual, Santiago de Chile, diciembr
-
-ión institucional, Santiago de Chile. e.
-
-CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
+Chile, Instituto Nacional de Derechos Humanos (2016), “Situación de los Derechos Humanos en Chile”, Informe anual, Santiago de Chile, diciembre.
 
 87
 
@@ -2033,51 +2111,53 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
-Chile, Instituto Nacional de Estadísticas (2017), 'Plan Nacional de Recopilación Estadística (PNRE) 2017', Informe de Estadís ticas de Género, Santiago de Chile.
+Chile, Instituto Nacional de Estadísticas (2017), “Plan Nacional de Recopilación Estadística (PNRE) 2017”, Informe de Estadísticas de Género, Santiago de Chile.
 
-Chile, Ministerio de Economía, Fomento y Turismo (2014), 'Plan nacional de desarrollo turístico sustentable', Santiago de Chi le.
+Chile, Ministerio de Economía, Fomento y Turismo (2014), “Plan nacional de desarrollo turístico sustentable”, Santiago de Chile.
 
-- Chile, Ministerio de Educación (2017a), 'Plan Nacional de Educación: 30 prioridades para el 2030' [en línea], Santiago de Chile [fecha de consulta: 10 de diciembre de 2017] http://educacion2020.cl/sites/default/files/plan_nacional_de_educacion_2017.pdf
+Chile, Ministerio de Educación (2017a), “Plan Nacional de Educación: 30 prioridades para el 2030” [en línea], Santiago de Chile [fecha de consulta: 10 de diciembre de 2017] http://educacion2020.cl/sites/default/files/plan_nacional_de_educacion_2017.pdf
 
--(2017b), 'Educación para la Igualdad de Género, Plan 2015 -2018', Santiago de Chile.
+— (2017b), “Educación para la Igualdad de Género, Plan 2015-2018”, Santiago de Chile.
 
--(2017c), 'Documento de apoyo para la elaboración y revisión de la etapa de planificación anual del plan de mejoramiento educativo 2017', Santiago de Chile. Chile, Mini sterio de Energía (2017), 'Agenda de Energía y Género', Santiago de Chile.
+— (2017c), “Documento de apoyo para la elaboración y revisión de la etapa de planificación anual del plan de mejoramiento educativo 2017”, Santiago de Chile.
 
-- Chile, Ministerio del Interior y Seguridad Pública (2014a), 'Plan Nacional de Seguridad Pública y Prevención de la Violencia y el Delito, Seguridad para Todos', Santiago de Chile.
+Chile, Ministerio de Energía (2017), “Agenda de Energía y Género”, Santiago de Chile.
 
--(2014b), 'Plan de Acción Nacional contra la Trata de Personas 2015 -2018', Santiago de Chile.
+Chile, Ministerio del Interior y Seguridad Pública (2014a), “Plan Nacional de Seguridad Pública y Prevención de la Violencia y el Delito, Seguridad para Todos”, Santiago de Chile.
 
-- Chile, Ministerio de Minería (2017), 'Decálogo de la industria minera por la incorporación de mujeres y la conciliación de la vida laboral, personal y familiar, p ersonal', Santiago de Chile.
+— (2014b), “Plan de Acción Nacional contra la Trata de Personas 2015-2018”, Santiago de Chile.
 
-- Chile, Ministerio del Medio Ambiente (2014), 'Plan Nacional de Adaptación al Cambio Climático', Elaborado en el marco del Pla n de Acción Nacional de Cambio Climático, Santiago de Chile.
+Chile, Ministerio de Minería (2017), “Decálogo de la industria minera por la incorporación de mujeres y la conciliación de la vida laboral, personal y familiar, personal”, Santiago de Chile.
 
-Chile, Ministerio de la Mujer y la Equida d de Género (2017a), 'Informe de Avances Trabajo contra la Violencia hacia las Mujeres', Santiago de Chile.
+Chile, Ministerio del Medio Ambiente (2014), “Plan Nacional de Adaptación al Cambio Climático”, Elaborado en el marco del Plan de Acción Nacional de Cambio Climático, Santiago de Chile.
 
--(2017b), 'Estudio exploratorio sobre autonomías física y económica de las mujeres migrantes en la región Metropolitana, Tarapacá y Antofagasta', Santiago de Chile.
+Chile, Ministerio de la Mujer y la Equidad de Género (2017a), “Informe de Avances Trabajo contra la Violencia hacia las Mujeres”, Santiago de Chile.
 
--(2018), 'Resultados la Agenda Género 2014 -2018', Santiago de Chile.
+— (2017b), “Estudio exploratorio sobre autonomías física y económica de las mujeres migrantes en la región Metropolitana, Tarapacá y Antofagasta”, Santiago de Chile.
 
-Chile, Ministerio de Obras Públicas (2016). 'Guía de enfoque de género en la edificación pública: Construir para Todos y Todas', Santiago de Chile.
+— (2018), “Resultados la Agenda Género 2014-2018”, Santiago de Chile.
 
--(2016), 'Un Aporte a la Equidad: Experiencia del Ministerio de Obras Públicas en Enfoque de Género', Santiago de Chile.
+Chile, Ministerio de Obras Públicas (2016). “Guía de enfoque de género en la edificación pública: Construir para Todos y Todas”, Santiago de Chile.
 
-Chile, Ministerio de Salud (2011), 'Estrategia Nacional de Salud para el cumplimiento de los Objetivos Sanitarios de la Décad a 20112020', Santiago de Ch ile.
+— (2016), “Un Aporte a la Equidad: Experiencia del Ministerio de Obras Públicas en Enfoque de Género”, Santiago de Chile.
 
--(2017), 'Guía para la intervención en conciliación trabajo -familia', Santiago de Chile.
+Chile, Ministerio de Salud (2011), “Estrategia Nacional de Salud para el cumplimiento de los Objetivos Sanitarios de la Década 2011-2020”, Santiago de Chile.
 
-Chile, Servicio Nacional de la Mujer (1994), 'Plan de igualdad entre mujeres y hombres 1994 -1999', Santiago de Chile.
+— (2017), “Guía para la intervención en conciliación trabajo-familia”, Santiago de Chile.
 
--(2005), 'Plan de igualdad de oportunidade s entre mujeres y hombres 2000-2010, Evaluación primera fase 20002005', Santiago de Chile.
+Chile, Servicio Nacional de la Mujer (1994), “Plan de igualdad entre mujeres y hombres 1994-1999”, Santiago de Chile.
 
--(2010), 'Plan de igualdad entre mujeres y hombres 2010 -2020', Santiago de Chile.
+— (2005), “Plan de igualdad de oportunidades entre mujeres y hombres 2000-2010, Evaluación primera fase 2000-2005”, Santiago de Chile.
 
-Chile, Subsecretaría de Derechos Humanos (2017), 'Primer Plan Nacional de Derechos Humanos', Santiago de Chile.
+— (2010), “Plan de igualdad entre mujeres y hombres 2010-2020”, Santiago de Chile.
 
-- Chile, Subsecretaria de Economía y Empresas de Menor Tamaño (2016), 'Mayor incorporación de las mujeres en la economía chilena', Santiago de Chile.
+Chile, Subsecretaría de Derechos Humanos (2017), “Primer Plan Nacional de Derechos Humanos”, Santiago de Chile.
 
-Chile, Subsecretaría de Salud Pública (2017), 'Plan de gestión ambiental proyecto de apoyo al sector salud', Santiago de Chile.
+Chile, Subsecretaría de Economía y Empresas de Menor Tamaño (2016), “Mayor incorporación de las mujeres en la economía chilena”, Santiago de Chile.
 
-- Chowdhury, S., Khare, M., and Wolter, K. (2007), 'Weight Trimming in the National Immunization Survey', Proceedings of the Jo int Statistical Meetings, Section on Survey Research Methods, American Statistical Association, United States, pp. 2651-2658.
+Chile, Subsecretaría de Salud Pública (2017), “Plan de gestión ambiental proyecto de apoyo al sector salud”, Santiago de Chile.
+
+Chowdhury, S., Khare, M., and Wolter, K. (2007), “Weight Trimming in the National Immunization Survey”, Proceedings of the Joint Statistical Meetings, Section on Survey Research Methods, American Statistical Association, United States, pp. 2651-2658.
 
 88
 
@@ -2087,43 +2167,43 @@ Chile, Subsecretaría de Salud Pública (2017), 'Plan de gestión ambiental proy
 
 CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
-Cook, Sarah y Shahra Razav (2012), 'Trabajo y bienestar: revisión de los vínculos desde una perspectiva de género', Serie Ava nces de Investigación, Fundación Carolina, Madrid, N°80.
+Cook, Sarah y Shahra Razav (2012), “Trabajo y bienestar: revisión de los vínculos desde una perspectiva de género”, Serie Avances de Investigación, Fundación Carolina, Madrid, N°80.
 
-Comisión Nacional de Product ividad  (2017), 'Mujeres en el  mundo laboral: más oportunidades, crecimiento  y bienestar. Recomendaciones de la Comisión Nacional de Productividad para aumentar la Participación Laboral Femenina en Chile', serie de estudios, Santiago de Chile.
+Comisión Nacional de Productividad (2017), “Mujeres en el mundo laboral: más oportunidades, crecimiento y bienestar. Recomendaciones de la Comisión Nacional de Productividad para aumentar la Participación Laboral Femenina en Chile”, serie de estudios, Santiago de Chile.
 
-Corporación H umanas (2017), 'Cambios constitucionales y derechos humanos de las mujeres: Por un proceso constituyente inclusivo, participativo y paritario', editorial Corporación Humanas, Santiago de Chile, N°1.
+Corporación Humanas (2017), “Cambios constitucionales y derechos humanos de las mujeres: Por un proceso constituyente inclusivo, participativo y paritario”, editorial Corporación Humanas, Santiago de Chile, N°1.
 
-De Luis, Elena (2009), 'Antecedentes', Marco teórico para la aplicación del enfoque basado en derechos humanos en la cooperación para el desarrollo, Cecilia Fernández-Aller (coord.), Madrid, Editorial Los libros de la Catarata, Red universitaria de investigación sobre cooperación para el desarrollo.
+De Luis, Elena (2009), “Antecedentes”, Marco teórico para la aplicación del enfoque basado en derechos humanos en la cooperación para el desarrollo, Cecilia Fernández-Aller (coord.), Madrid, Editorial Los libros de la Catarata, Red universitaria de investigación sobre cooperación para el desarrollo.
 
-Díaz-Romero, Pamela (2017), 'En la recta final: Bachelet, la agenda de género y su sostenibilidad' en Bachelet II. El difícil camino hacia un estado democrático social de derechos, serie de género, Barómetro de Política y Equidad, Santiago de Chile, pp 185-203.
+Díaz-Romero, Pamela (2017), “En la recta final: Bachelet, la agenda de género y su sostenibilidad” en Bachelet II. El difícil camino hacia un estado democrático social de derechos, serie de género, Barómetro de Política y Equidad, Santiago de Chile, pp 185-203.
 
-Europa Laica (s/f), '¿Qué es el laicismo? Definición de laicismo y laicidad' [en línea], España, [fecha de consulta: 13 de febrero d e 2018] https://laicismo.org/quees-el-laicismo-definicion-de-laicismo-y-laicidad
+Europa Laica (s/f), “¿Qué es el laicismo? Definición de laicismo y laicidad” [en línea], España, [fecha de consulta: 13 de febrero de 2018] https://laicismo.org/que-es-el-laicismo-definicion-de-laicismo-y-laicidad
 
-European Commission (2005), 'Gender -sensitive and women friendly public Policies: a comparative public Policies: a comparative analysis of their progress and impact' [on line], Lithuania, [fecha de consulta: 10 de diciembre de 2017] http://europa.eu.int/comm/research/rtdinfo/index_e n.html.
+European Commission (2005), “Gender-sensitive and women friendly public Policies: a comparative public Policies: a comparative analysis of their progress and impact” [on line], Lithuania, [fecha de consulta: 10 de diciembre de 2017] http://europa.eu.int/comm/research/rtdinfo/index_en.html.
 
-Fraser, Nanc y (2008), 'Escalas de justicia'. Ed. Herder, Barcelona, España, Siglo del hombre Editores/Universidad de los Andes.
+Fraser, Nancy (2008), “Escalas de justicia”. Ed. Herder, Barcelona, España, Siglo del hombre Editores/Universidad de los Andes.
 
--(1997), 'Iustitia Interrupta: reflexiones críticas desde la posición 'postsocialista'. Santafé de Bogotá, Colombia, Siglo del hombre Editores/Universidad de los Andes.
+— (1997), “Iustitia Interrupta: reflexiones críticas desde la posición “postsocialista”. Santafé de Bogotá, Colombia, Siglo del hombre Editores/Universidad de los Andes.
 
-Gobierno de Chile (2016), 'Séptimo informe periódico de Chile al Comité para la Eliminación de la Discriminación contra la Mujer', Santiago de Chile.
+Gobierno de Chile (2016), “Séptimo informe periódico de Chile al Comité para la Eliminación de la Discriminación contra la Mujer”, Santiago de Chile.
 
--(2017), 'Informe de diagnóstico e implementación de la agenda 2030 y los objetivos de desarrollo sostenible en Chile', Santiago de Chile.
+— (2017), “Informe de diagnóstico e implementación de la agenda 2030 y los objetivos de desarrollo sostenible en Chile”, Santiago de Chile.
 
-Griffin, R. A. (1995), 'Dealing with Wide Weight Variation in Polls', Vol 118(3), Proceedings of the Social Statistics Sectio n, American Statistical Association, 908911.
+Griffin, R. A. (1995), “Dealing with Wide Weight Variation in Polls”, Vol 118(3), Proceedings of the Social Statistics Section, American Statistical Association, 908-911.
 
-Groves, Robert and o thers (2004), 'Survey Methodology', New York: Wiley.
+Groves, Robert and others (2004), “Survey Methodology”, New York: Wiley.
 
-Guzmán, Virginia y otros (2012), 'Capacidades y género en Chile: ¿Suma o sistema de desigualdades?' Revista Cepal, Santiago d e Chile, CEPAL.
+Guzmán, Virginia y otros (2012), “Capacidades y género en Chile: ¿Suma o sistema de desigualdades?” Revista Cepal, Santiago de Chile, CEPAL.
 
-Guzmán, Virginia (2011), 'Procesos político -institucionales e igualdad de género, Chile: 19802010', tesis de doctorado, Barcelona, Universidad Autónoma de Barcelona, España.
+Guzmán, Virginia (2011), “Procesos político-institucionales e igualdad de género, Chile: 1980- 2010”, tesis de doctorado, Barcelona, Universidad Autónoma de Barcelona, España.
 
-Heeringa, Steven, West, Brady and Berglund, Patricia (2010), 'Applied Survey Data Analysis', New York, Chapman&amp; Hall/CRC Statistics in the Social and Behavioral Sciences.
+Heeringa, Steven, West, Brady and Berglund, Patricia (2010), “Applied Survey Data Analysis”, New York, Chapman&amp; Hall/CRC Statistics in the Social and Behavioral Sciences.
 
-Henry, Kimberly A. (2011), 'Weight Adjustment Methods and Their Impact on Sample -based Inference', PhD thesis, University of Maryland, Washington D.C, College Park MD.
+Henry, Kimberly A. (2011), “Weight Adjustment Methods and Their Impact on Sample-based Inference”, PhD thesis, University of Maryland, Washington D.C, College Park MD.
 
-Kalton, Graham (1979), 'Ultimate cluster sampling, Journal of the Royal Statistical Society', Series A 142 (2) 210 -222.
+Kalton, Graham (1979), “Ultimate cluster sampling, Journal of the Royal Statistical Society”, Series A 142 (2) 210-222.
 
--(1983), 'Introduction to Survey Sampling'. Series: Quantitative Applications in the Social Sciences, Nº35, Sage Publications, California: USA.
+— (1983), “Introduction to Survey Sampling”. Series: Quantitative Applications in the Social Sciences, Nº35, Sage Publications, California: USA.
 
 89
 
@@ -2133,41 +2213,41 @@ Kalton, Graham (1979), 'Ultimate cluster sampling, Journal of the Royal Statisti
 
 CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
--(1993), 'Sampling Rare and Elusive Populations.", New York: Department of Economic and Social Information and Policy Analysis Statist ics Division, United Nations.
+— (1993), “Sampling Rare and Elusive Populations.", New York: Department of Economic and Social Information and Policy Analysis Statistics Division, United Nations.
 
-__ and FloresCervantes, Ismael (2003), 'Weighting Methods', Journal of Official Statistics, Vol. 19, N°2, pp.  81-97.
+__ and Flores-Cervantes, Ismael (2003), “Weighting Methods”, Journal of Official Statistics, Vol. 19, N°2, pp. 81-97.
 
-Lubertino, María José (2005), 'Nuevas Constituciones para Todos y Todas'. Documento presentado en Seminario Internacional sob re Reformas Constitucionales y Equidad de Género, Santa Cruz, Bolivia, 21 al 23 de febrero de 2005.
+Lubertino, María José (2005), “Nuevas Constituciones para Todos y Todas”. Documento presentado en Seminario Internacional sobre Reformas Constitucionales y Equidad de Género, Santa Cruz, Bolivia, 21 al 23 de febrero de 2005.
 
-Noruega, Mini sterio de Asuntos Exteriores (2010), 'El plan de acción para los derechos de la mujer y la igualdad de género (20072009) se extiende para el período20102013', Noruega.
+Noruega, Ministerio de Asuntos Exteriores (2010), “El plan de acción para los derechos de la mujer y la igualdad de género (2007–2009) se extiende para el período2010-2013”, Noruega.
 
-Ministerio de Salud y Banco Mundial (2017), 'Plan para pueblos indígenas proyecto de apoyo al sector Salud', Santiago de Chile.
+Ministerio de Salud y Banco Mundial (2017), “Plan para pueblos indígenas proyecto de apoyo al sector Salud”, Santiago de Chile.
 
-- ONU Mujeres (Organización de las Naciones Unidas Mujeres) (2014), 'Instrumentos Internacionales a favor de los Derechos de la s mujeres y de los Pueblos Indígenas', segunda edición, Nueva York, septiembre. Publicac ión de ONU Mujeres.
+ONU Mujeres (Organización de las Naciones Unidas Mujeres) (2014), “Instrumentos Internacionales a favor de los Derechos de las mujeres y de los Pueblos Indígenas”, segunda edición, Nueva York, septiembre. Publicación de ONU Mujeres.
 
-REDDESC (Red Internacional para los Derechos Económicos, Sociales y Culturales), (s/f), 'Los Derechos Económicos, Sociales y Culturales de las Mujeres'. [en línea], New York, [fecha de consulta: 12 de febrero de 2018] http://www.oda-alc.org/documentos/1374530674.pdf
+RED-DESC (Red Internacional para los Derechos Económicos, Sociales y Culturales), (s/f), “Los Derechos Económicos, Sociales y Culturales de las Mujeres”. [en línea], New York, [fecha de consulta: 12 de febrero de 2018] http://www.oda-alc.org/documentos/1374530674.pdf
 
-Schiappacasse, Verónica y otras. (2003), 'Chile: Situación de la salud y los derechos sexuales y reproductivos', primera edic ión, Santiago de Chile, Servicio Nacional de la Mujer.
+Schiappacasse, Verónica y otras. (2003), “Chile: Situación de la salud y los derechos sexuales y reproductivos”, primera edición, Santiago de Chile, Servicio Nacional de la Mujer.
 
-Sen, Amartya (2000), 'Desarrollo y libertad' , Barcelona, Buenos Aires, editorial Planeta.
+Sen, Amartya (2000), “Desarrollo y libertad”, Barcelona, Buenos Aires, editorial Planeta.
 
--(1979), 'Commodities and Capabilities', Amsterdam, Editorial North Holland Press.
+— (1979), “Commodities and Capabilities”, Amsterdam, Editorial North Holland Press.
 
--(1977), 'Personal utilities and public judgments: Or what's wrong with welfare economics?', Economic Journal, Nueva Jersey, Editorial Wiley-Blackwell.
+— (1977), “Personal utilities and public judgments: Or what’s wrong with welfare economics?”, Economic Journal, Nueva Jersey, Editorial Wiley-Blackwell.
 
-Una  Constitución  para  Chile.  (2017),  'Para  la  Constitución  una  Conversación.  Síntesis  de  resultados  cuantitativos  de  la  etapa participativa  del  proceso constituyente abierto a la ciudadanía' [en línea], Santiago de chile, [fecha de consulta: 17 de diciembre de 2017] datos.gob.cl/dataset/proceso-constituyenteabierto-a- la-ciudadania.
+Una Constitución para Chile. (2017), “Para la Constitución una Conversación. Síntesis de resultados cuantitativos de la etapa participativa del proceso constituyente abierto a la ciudadanía” [en línea], Santiago de chile, [fecha de consulta: 17 de diciembre de 2017] datos.gob.cl/dataset/proceso-constituyente-abierto-a- la-ciudadania.
 
-Von Borries C, V (s/f), 'La Planificación y el  Control de  Gestión en el Marco del Programa de Mejoramiento de la Gestión y la Modernización del Est ado', documento presentado en ponencia Jornada Nacional JUNJI 'La Planificación y el Control de Gestión en el Marco del Programa de Mejoramiento de la Gestión y la Modernización del Estado' (s/f).
+Von Borries C, V (s/f), “La Planificación y el Control de Gestión en el Marco del Programa de Mejoramiento de la Gestión y la Modernización del Estado”, documento presentado en ponencia Jornada Nacional JUNJI “La Planificación y el Control de Gestión en el Marco del Programa de Mejoramiento de la Gestión y la Modernización del Estado” (s/f).
 
-Zheng, H. and Little, R.J.A. (2003), 'Penalized spline mod el-based estimation of finite population total from probability-proportional- tosize samples', Journal of Official Statistics, vol. 19, N°2, pp 99-17.
+Zheng, H. and Little, R.J.A. (2003), “Penalized spline model-based estimation of finite population total from probability-proportional- to-size samples”, Journal of Official Statistics, vol. 19, N°2, pp 99-17.
 
--(2005), 'Inference for the population total from probability proportional -to- size samples based on pr edictions from a penalized spline nonparametric model', Journal of Official Statistics, vol21, N° 1, pp. 1-20.
+— (2005), “Inference for the population total from probability proportional-to-size samples based on predictions from a penalized spline nonparametric model”, Journal of Official Statistics, vol21, N° 1, pp. 1-20.
 
 ## Otros Planes consultados por WEB:
 
-(2017), Plan Nacional de Salud Mental, Subsecretaria de Salud Pública, Ministerio de Salud, Santiago de Chile.
+- (2017), Plan Nacional de Salud Mental, Subsecretaria de Salud Pública, Ministerio de Salud, Santiago de Chile.
 
-(2017), Plan de Gestión Ambiental, Subsecretaría de Salud Pública, Ministerio de Salud, Santiago de Chile.
+- (2017), Plan de Gestión Ambiental, Subsecretaría de Salud Pública, Ministerio de Salud, Santiago de Chile.
 
 90
 
@@ -2195,7 +2275,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 (2017), Plan de Acción Nacional de Derechos Humanos y Empresas, Ministerio de Relaciones Exteriores, Santiago de Chile.
 
-- Plan de desarrollo regional de O'Higgins, Gobierno Regional de Desarrollo O'Higgins, Estrategia Regional de Desarrollo, Ministerio del Interior y Seguridad Pública, Santiago de Chile.
+- Plan de desarrollo regional de O’Higgins, Gobierno Regional de Desarrollo O’Higgins, Estrategia Regional de Desarrollo, Ministerio del Interior y Seguridad Pública, Santiago de Chile.
 
 - Plan de desarrollo regional de Valparaíso, Gobierno Regional de Desarrollo Valparaíso, Estrategia Regional de Desarrollo, Ministerio del Interior y Seguridad Pública, Santiago de Chile.
 
@@ -2212,6 +2292,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 [[END OF PAGE 92]]
 
 [[START OF PAGE 93]]
+CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 # Anexo
 
@@ -2225,9 +2306,7 @@ Primer Plan Nacional de Derechos Humanos. | Subsecretaría de Derechos Humanos. 
 Primer Plan Nacional de Derechos Humanos. | Subsecretaría de Derechos Humanos. | Ministerio del Interior y Seguridad Pública. | Respetar, proteger y garantizar los derechos humanos de las personas de la diversidad sexual en condiciones de igualdad y no discriminación. | Generar reporte estadístico sobre la situación socioeconómica de grupos en situación de riesgo (mujeres), a partir de la información de Calificación Socioeconómica (CSE). | Cotejar disponibilidad de estadística. | 2018-2021
 Primer Plan Nacional de Derechos Humanos. | Ministerio de Defensa Nacional, Ministerio de Relaciones Exteriores, Ministerio de la Mujer y Equidad de Género | Ministerio de Defensa Nacional, Ministerio de Relaciones Exteriores, Ministerio de la Mujer y Equidad de Género. | Respetar, proteger y garantizar los derechos humanos de las mujeres, garantizando la igualdad sustantiva entre hombres y mujeres. | Cumplimiento Resolución 1325 del Consejo de Seguridad de Naciones Unidas y posteriores, sobre mujer, paz y seguridad. | % cumplimiento indicadores segundo plan de acción nacional. | 2018
 
-### Derechos Económicos
-
-CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
+### 2. Derechos Económicos
 
 92
 
@@ -2253,8 +2332,8 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Instrumento | Institución responsable | Ministerio | Objetivos | Metas comprometidas | Indicador | Plazo
 --- | --- | --- | --- | --- | --- | ---
-Primer Plan Nacional de Derechos Humanos. | Subsecretaría de Derechos Humanos. | Ministerio del Interior y Seguridad Pública. | Respetar, proteger y garantizar los derechos humanos de las personas de la diversidad sexual en condiciones de igualdad y no discriminación. | Aumentar (50% 6 ) la incorporación y participación de la mujer en el mercado laboral a través de programas que beneficien a este grupo como: Bono al Trabajo de la Mujer, Programa de Desarrollo de competencias Laborales para Mujeres Chile Solidario. | Tasa de inserción laboral de las mujeres beneficiarias de los programas. | 2021
-Primer Plan Nacional de Derechos Humanos. | Subsecretaría de Derechos Humanos. | Ministerio del Interior y Seguridad Pública. | Respetar, proteger y garantizar los derechos humanos de las personas de la diversidad sexual en condiciones de igualdad y no discriminación. | Compromiso con la iniciativa 'SheTrades' de Naciones Unidas, que busca vincular mujeres empresarias al mercado, para fortalecer el rol de actor económico de las mujeres. | % programas o iniciativas públicas y privadas que fortalecen el rol de actor económico de las mujeres. | 2021
+Primer Plan Nacional de Derechos Humanos. | Subsecretaría de Derechos Humanos. | Ministerio del Interior y Seguridad Pública. | Respetar, proteger y garantizar los derechos humanos de las personas de la diversidad sexual en condiciones de igualdad y no discriminación. | Aumentar (50%⁶) la incorporación y participación de la mujer en el mercado laboral a través de programas que beneficien a este grupo como: Bono al Trabajo de la Mujer, Programa de Desarrollo de competencias Laborales para Mujeres Chile Solidario. | Tasa de inserción laboral de las mujeres beneficiarias de los programas. | 2021
+Primer Plan Nacional de Derechos Humanos. | Subsecretaría de Derechos Humanos. | Ministerio del Interior y Seguridad Pública. | Respetar, proteger y garantizar los derechos humanos de las personas de la diversidad sexual en condiciones de igualdad y no discriminación. | Compromiso con la iniciativa “SheTrades” de Naciones Unidas, que busca vincular mujeres empresarias al mercado, para fortalecer el rol de actor económico de las mujeres. | % programas o iniciativas públicas y privadas que fortalecen el rol de actor económico de las mujeres. | 2021
 Primer Plan Nacional de Derechos Humanos. | Subsecretaría de Derechos Humanos. | Ministerio del Interior y Seguridad Pública. | Respetar, proteger y garantizar los derechos humanos de las personas de la diversidad sexual en condiciones de igualdad y no discriminación. | Fomentar la responsabilidad parental a través de la realización de Pactos Especiales, entre organizaciones sindicales y empleadores (art. 376 de la Ley 20.940). | % empresas que cuentan con Pactos Especiales, entre organizaciones sindicales y empleadores con relación al art. 376 de la Ley 20.940. | 2021
 
 > 6 Considerando de la Brechas actuales del país sería recomendable proponer como meta a lograr el porcentaje indicado.
@@ -2354,7 +2433,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 Instrumento | Institución responsable | Ministerio | Objetivos | Metas comprometidas | Indicador | Plazo
 --- | --- | --- | --- | --- | --- | ---
 Derechos Humanos. | sustantiva entre hombres y mujeres. | país sobre violencia de género.
-Primer Plan Nacional de Derechos Humanos. | Subsecretaria de Vivienda y Urbanismo. | Ministerio de Vivienda y Urbanismo. | Favorecer el acceso a soluciones habitacionales a mujeres víctimas de violencia. | Otorgar atención preferencial a mujeres víctimas de violencia, a través de su acceso a una solución habitacional. | Porcentaje de subsidios asignados en el marco del convenio MINVU- SERNAMEG que se han aplicado.
+Primer Plan Nacional de Derechos Humanos. | Subsecretaria de Vivienda y Urbanismo. | Ministerio de Vivienda y Urbanismo. | Favorecer el acceso a soluciones habitacionales a mujeres víctimas de violencia. | Otorgar atención preferencial a mujeres víctimas de violencia, a través de su acceso a una solución habitacional. | Porcentaje de subsidios asignados en el marco del convenio MINVU-SERNAMEG que se han aplicado.
 Educación para la Igualdad de Género. | Unidad de Equidad de Género. | Ministerio de Educación. | Ley que permita Prevenir, sancionar y erradicar la violencia intrafamiliar y otorgar protección a las víctimas, sin embargo, no considera otros aspectos y ámbitos en los que ocurre la violencia de género. | Colaborar en elaboración y tramitación de ley integral de violencia contra las mujeres. | Cotejar publicación de la Ley de violencia contra las mujeres.
 Plan Seguridad Pública y Prev. Violencia y el Delito. | Subsecretaría de Prevención del Delito. | Ministerio del Interior y Seguridad Pública. | Desarrollar de protocolos de acción que aborden la violencia contra las mujeres. | Reducir en un 10% la victimización por el delito de robo con violencia. | % de victimización por el delito de robo con violencia.
 Plan Seguridad Pública y Prev. Violencia y el Delito. | Subsecretaría de Prevención del Delito. | Ministerio del Interior y Seguridad Pública. | Desarrollar de protocolos de acción que aborden la violencia contra las mujeres. | Implementar Planes Comunales de Seguridad Pública en 74 comunas prioritarias. Estos se desarrollarán progresivamente durante el período: el segundo semestre. | N° de planes implementados en el período.
@@ -2372,7 +2451,7 @@ Instrumento | Institución responsable | Ministerio | Objetivos | Metas comprome
 Plan Seguridad Pública y Prev. Violencia y el Delito. | Subsecretaría de Prevención del Delito. | Ministerio del Interior y Seguridad Pública. | Contar con información confiable y oportuna, y perfeccionar los sistemas de medición de la violencia, el delito y la inseguridad. | Crear un Servicio Nacional de Reinserción en el Medio Libre. | Nº Servicio creado en el área de Reinserción en el Medio Libre.
 Plan Seguridad Pública y Prev. Violencia y el Delito. | Subsecretaría de Prevención del Delito. | Ministerio del Interior y Seguridad Pública. | Ampliar a un total de 36 comunas, antes de 2018, el Plan 24 Horas que busca intervenir en niñas, niños y adolescentes que han sido detenidos. | % de comunas incorporadas al Plan 24 Horas que busca intervenir en niñas, niños y adolescentes que han sido detenidos.
 Plan Seguridad Pública y Prev. Violencia y el Delito. | Subsecretaría de Prevención del Delito. | Ministerio del Interior y Seguridad Pública | Reforzar el sistema de evaluación y medición de programas que abordan la violencia, el delito y la inseguridad. | Poner en marcha el Sistema Unificado de Indicadores de Seguridad 7 . | Sistema unificado operando.
-Plan Seguridad Pública y Prev. Violencia y el Delito. 8 | Subsecretaría de Prevención del Delito. | Ministerio del Interior y Seguridad Pública. | Diseñar e implementar una política de Estado en materia de prevención social de la violencia y el delito. | Se implementará el Programa Nacional de Monitoras y Monitores Comunitarios - dirigentes sociales, mujeres y | Nº de programas implementados. % de cobertura de dichos programas.
+Plan Seguridad Pública y Prev. Violencia y el Delito. 8 | Subsecretaría de Prevención del Delito. | Ministerio del Interior y Seguridad Pública. | Diseñar e implementar una política de Estado en materia de prevención social de la violencia y el delito. | Se implementará el Programa Nacional de Monitoras y Monitores Comunitarios –dirigentes sociales, mujeres y | Nº de programas implementados. % de cobertura de dichos programas.
 
 > 7 Se propone la implementación del Banco Unificado de Datos (BUD) que consolidará información de las siguientes instituciones: Carabineros, Policía de Investigaciones,  Ministerio  de  Justicia,  Registro  Civil,  Servicio  Nacional  de  Menores,  Gendarmería,  Poder  Judicial,  Ministerio  Público  y  Subsecretaría  de Prevención del Delito.
 
@@ -2388,7 +2467,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Instrumento | Institución responsable | Ministerio | Objetivos | Metas comprometidas | Indicador | Plazo
 --- | --- | --- | --- | --- | --- | ---
-hombres - , el cual se orientará a crear agentes en prevención de la violencia contra la mujer.
+hombres–, el cual se orientará a crear agentes en prevención de la violencia contra la mujer.
 Plan Seguridad Pública y Prev. Violencia y el Delito. 9 | Subsecretaría de Prevención del Delito. | Ministerio del Interior y Seguridad Pública. | Diseñar e implementar una política de Estado en materia de prevención social de la violencia y el delito. | Promocionar la participación social y los derechos de las mujeres 10 a través de la capacitación de actores locales desde las Oficinas Municipales de la Mujer. | Nº de capacitaciones ejecutadas
 Plan Seguridad Pública y Prev. Violencia y el Delito. | Subsecretaría de Prevención del Delito. | Ministerio del Interior y Seguridad Pública. | Diseñar e implementar una política de Estado en materia de prevención social de la violencia y el delito. | Sensibilizar y Capacitar en Violencia Contra la Mujer dirigido a educadoras y educadores en enseñanza pre escolar 11 para generar cambios culturales en niños y niñas de jardines infantiles. | Nº Sensibilizar y Capacitar en Violencia ejecutadas.
 Plan Seguridad Pública y Prev. Violencia y el Delito. 12 | Subsecretaría de Prevención del Delito. | Ministerio del Interior y Seguridad Pública. | Diseñar e implementar una política de Estado en materia de prevención social de la violencia y el delito. | incluir en currículo y textos de educación pre básica y escolar, la violencia de género y la resolución no violenta de conflictos. | % de textos de educación pre básica y escolar que previenen la violencia de género y la resolución no violenta de conflictos
@@ -2449,8 +2528,8 @@ Primer Plan Nacional de Derechos Humanos. | Subsecretaría de Derechos Humanos. 
 
 CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
-Instrumento | Institución responsable | Objetivos | Metas comprometidas | Indicador | Plazo
---- | --- | --- | --- | --- | ---
+Instrumento | Institución responsable | Ministerio | Objetivos | Metas comprometidas | Indicador | Plazo
+--- | --- | --- | --- | --- | --- | ---
 sustantiva entre hombres y mujeres. | Cotejo de Plan de formación especializada de los y las funcionarias y fiscales del Ministerio Público, acerca de la violencia de género. Nº registro y estudios de violencia extrema contra las mujeres elaborados por año Nº de coordinaciones interinstitucionales realizadas para el abordaje de violencia de género en el ámbito penal. % asesoría a Servicios Públicos revisadas, de los protocolos contra el acoso sexual y laboral. Sistema de indicadores de violencia contra la mujer operativo. % Articulaciones y coordinación
 
 105
@@ -2503,7 +2582,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 Instrumento | Institución responsable | Ministerio | Objetivos | Metas comprometidas | Indicador | Plazo
 --- | --- | --- | --- | --- | --- | ---
 Plan Nacional de Educación 2017. | Fundación Educación 2023. | Ministerio de Educación. | Establecer un sistema de información sobre la Ley de Inclusión eficiente y transparente. | Inclusión para el aprendizaje en aulas diversas (niños, niñas y adolescentes). | Cotejar sistema de información sobre la Ley de Inclusión eficiente y transparente ejecutado. | 2030
-Política Nacional de Niñez y Adolescencia. | Consejo Nacional de la Infancia. | Ministerio Secretaria General de la Presidencia. | Proponer la adecuación normativa y generar las condiciones político- institucionales que regule la institucionalidad competente del Estado y la ciudadanía para garantizar el ejercicio de los derechos de los niños, niñas y adolescentes que habitan en el país. | La instalación del Sistema de Garantías de los Derechos de la Niñez, definido como el conjunto de políticas, instituciones y normas orientadas a velar por el desarrollo físico, mental, espiritual, moral y social de los niños, niñas, y adolescentes. | Cotejar Sistema de Garantías de los Derechos de la Niñez operativo. | 2025
+Política Nacional de Niñez y Adolescencia. | Consejo Nacional de la Infancia. | Ministerio Secretaria General de la Presidencia. | Proponer la adecuación normativa y generar las condiciones político-institucionales que regule la institucionalidad competente del Estado y la ciudadanía para garantizar el ejercicio de los derechos de los niños, niñas y adolescentes que habitan en el país. | La instalación del Sistema de Garantías de los Derechos de la Niñez, definido como el conjunto de políticas, instituciones y normas orientadas a velar por el desarrollo físico, mental, espiritual, moral y social de los niños, niñas, y adolescentes. | Cotejar Sistema de Garantías de los Derechos de la Niñez operativo. | 2025
 Primer Plan Nacional de Derechos Humanos. | Subsecretaría de Derechos Humanos. | Ministerio del Interior y Seguridad Pública. | Respetar, proteger y garantizar los derechos humanos de las mujeres, garantizando la igualdad sustantiva entre hombres y mujeres. | 100% de diseño de reformas institucionales y normativas para cumplir los estándares internacionales de derechos humanos de las mujeres. | % reformas institucionales y normativas diseñadas e implementadas. | 2021
 Primer Plan Nacional de Derechos Humanos. | Ministerio de Defensa Nacional. | Ministerio de Defensa Nacional. | Garantizar el ejercicio de derechos de las personas de la diversidad sexual en condiciones de igualdad y no discriminación. | Protocolo de actuación frente a toda forma de discriminación. | Protocolo publicado en la web. | 2018-2022
 
@@ -2571,9 +2650,10 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Instrumento | Institución responsable | Ministerio | Objetivos | Metas comprometidas | Indicador | Plazo
 --- | --- | --- | --- | --- | --- | ---
-Políticas Públicas de Género y Vejez. | Servicio Nacional del Adulto Mayor. | Ministerio de Desarrollo Social. | acceso. Financiar proyectos ideados y ejecutados por organizaciones de personas mayores en todas las regiones del país, contribuyendo a la promoción, protección de los derechos y la participación social de las personas mayores, fomentando su autonomía, autogestión y asociatividad. | Bonificar con 5% el puntaje para los proyectos que cuentan con enfoque de género. | % de proyectos incorporan enfoque de género a los proyectos.
-Plan 'Educación para la Igualdad entre Hombres y Mujeres' . | Unidad Equidad de Género Subsecretaría de Educación. | Ministerio de Educación. | Promover la igualdad y el desarrollo integral de hombres y mujeres en el sistema educacional; establecer mecanismos y competencias del Ministerio de Educación; y promover propuestas para la inclusión de la perspectiva de género en la Reforma Educacional. | Propuestas de criterios y contenidos de género en instrumentos del Programa PACE (Ej.: diagnóstico, orientaciones técnicas para la intervención psicosocial y para la orientación vocacional). | Nº de medidas identificadas que fortalecer la permanencia de mujeres en las carreras vinculadas a las ciencias, tecnologías y matemáticas.
-Plan 'Educación para la Igualdad | Unidad Equidad de Género Subsecretaría de Educación. | Ministerio de Educación. | Promover la igualdad y el desarrollo integral de hombres y mujeres en el sistema educacional; | Inclusión de la perspectiva de Género en Planes y Programas de Estudios. | % de Planes y Programas de Estudios que Incluyen la perspectiva de Género.
+habitualmente no tienen acceso.
+Políticas Públicas de Género y Vejez. | Servicio Nacional del Adulto Mayor. | Ministerio de Desarrollo Social. | Financiar proyectos ideados y ejecutados por organizaciones de personas mayores en todas las regiones del país, contribuyendo a la promoción, protección de los derechos y la participación social de las personas mayores, fomentando su autonomía, autogestión y asociatividad. | Bonificar con 5% el puntaje para los proyectos que cuentan con enfoque de género. | % de proyectos incorporan enfoque de género a los proyectos.
+Plan “Educación para la Igualdad entre Hombres y Mujeres”. | Unidad Equidad de Género Subsecretaría de Educación. | Ministerio de Educación. | Promover la igualdad y el desarrollo integral de hombres y mujeres en el sistema educacional; establecer mecanismos y competencias del Ministerio de Educación; y promover propuestas para la inclusión de la perspectiva de género en la Reforma Educacional. | Propuestas de criterios y contenidos de género en instrumentos del Programa PACE (Ej.: diagnóstico, orientaciones técnicas para la intervención psicosocial y para la orientación vocacional). | Nº de medidas identificadas que fortalecer la permanencia de mujeres en las carreras vinculadas a las ciencias, tecnologías y matemáticas.
+Plan “Educación para la Igualdad | Unidad Equidad de Género Subsecretaría de Educación. | Ministerio de Educación. | Promover la igualdad y el desarrollo integral de hombres y mujeres en el sistema educacional; | Inclusión de la perspectiva de Género en Planes y Programas de Estudios. | % de Planes y Programas de Estudios que Incluyen la perspectiva de Género.
 
 112
 
@@ -2585,10 +2665,10 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Instrumento | Institución responsable | Ministerio | Objetivos | Metas comprometidas | Indicador | Plazo
 --- | --- | --- | --- | --- | --- | ---
-entre Hombres y Mujeres'. | establecer mecanismos y competencias del Ministerio de Educación; y promover propuestas para la inclusión de la perspectiva de género en la Reforma Educacional.
-Plan 'Educación para la Igualdad entre Hombres y Muj eres'. | Unidad Equidad de Género Subsecretaría de Educación. | Ministerio de Educación. | Promover la igualdad y el desarrollo integral de hombres y mujeres en el sistema educacional; establecer mecanismos y competencias del Ministerio de Educación; y promover propuestas para la inclusión de la perspectiva de género en la Reforma Educacional. | Desarrollar políticas de conciliación de paternidad/maternidad y desempeño estudiantil. | N° de políticas de conciliación de paternidad/maternidad y desempeño estudiantil diseñadas e implementadas.
-Plan 'Educación para la Igualdad entre Hombres y Mujeres'. | Unidad Equidad de Género Subsecretaría de Educación. | Ministerio de Educación. | Promover la igualdad y el desarrollo integral de hombres y mujeres en el sistema educacional; establecer mecanismos y competencias del Ministerio de Educación; y promover propuestas para la inclusión de la perspectiva de género en la Reforma Educacional. | Participación en mesa de Estándares de Programas e Inclusión, Género y Formación Inicial Docente. Desarrollar iniciativas para promover reflexión sobre masculinidades vinculadas a los sistemas de cuidado. | % mesa de Estándares de Programas e Inclusión, Género y Formación Inicial Docente operando a nivel nacional % de iniciativas reflexión sobre masculinidades vinculadas a los sistemas de cuidado se ejecutan anualmente.
-Plan 'Educación | Unidad Equidad de Género | Ministerio de Educación. | Promover la igualdad y el desarrollo integral de | Desarrollar estrategias para el fortalecimiento del | Nº de estrategias para fortalecimiento del
+entre Hombres y Mujeres”. | establecer mecanismos y competencias del Ministerio de Educación; y promover propuestas para la inclusión de la perspectiva de género en la Reforma Educacional.
+Plan “Educación para la Igualdad entre Hombres y Mujeres”. | Unidad Equidad de Género Subsecretaría de Educación. | Ministerio de Educación. | Promover la igualdad y el desarrollo integral de hombres y mujeres en el sistema educacional; establecer mecanismos y competencias del Ministerio de Educación; y promover propuestas para la inclusión de la perspectiva de género en la Reforma Educacional. | Desarrollar políticas de conciliación de paternidad/maternidad y desempeño estudiantil. | N° de políticas de conciliación de paternidad/maternidad y desempeño estudiantil diseñadas e implementadas.
+Plan “Educación para la Igualdad entre Hombres y Mujeres”. | Unidad Equidad de Género Subsecretaría de Educación. | Ministerio de Educación. | Promover la igualdad y el desarrollo integral de hombres y mujeres en el sistema educacional; establecer mecanismos y competencias del Ministerio de Educación; y promover propuestas para la inclusión de la perspectiva de género en la Reforma Educacional. | Participación en mesa de Estándares de Programas e Inclusión, Género y Formación Inicial Docente. Desarrollar iniciativas para promover reflexión sobre masculinidades vinculadas a los sistemas de cuidado. | % mesa de Estándares de Programas e Inclusión, Género y Formación Inicial Docente operando a nivel nacional % de iniciativas reflexión sobre masculinidades vinculadas a los sistemas de cuidado se ejecutan anualmente.
+Plan “Educación | Unidad Equidad de Género | Ministerio de Educación. | Promover la igualdad y el desarrollo integral de | Desarrollar estrategias para el fortalecimiento del | Nº de estrategias para fortalecimiento del
 
 113
 
@@ -2600,10 +2680,10 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Instrumento | Institución responsable | Ministerio | Objetivos | Metas comprometidas | Indicador | Plazo
 --- | --- | --- | --- | --- | --- | ---
-para la Igualdad entre Hombres y Mujeres'. | Subsecretaría de Educación. | hombres y mujeres en el sistema educacional; establecer mecanismos y competencias del Ministerio de Educación; y promover propuestas para la inclusión de la perspectiva de género en la Reforma Educacional. | empoderamiento y liderazgo de equipos mixtos. | empoderamiento y liderazgo de equipos mixtos.
-Plan 'Educación para la Igualdad entre Hombres y Mujeres' . | Unidad Equidad de Género Subsecretaría de Educación. | Ministerio de Educación. | Promover la igualdad y el desarrollo integral de hombres y mujeres en el sistema educacional; establecer mecanismos y competencias del Ministerio de Educación; y promover propuestas para la inclusión de la perspectiva de género en la Reforma Educacional. | Implementación de procedimientos para abordar situaciones de acoso sexual prácticas sexistas, acoso laboral y/o situaciones de violencia de género. | Nº de protocolo diseñados e implementados a nivel nacional y local.
-Plan 'Educación para la Igualdad entre Hombres y Mujeres'. | Unidad Equidad de Género Subsecretaría de Educación. | Ministerio de Educación. | Promover la igualdad y el desarrollo integral de hombres y mujeres en el sistema educacional; establecer mecanismos y competencias del Ministerio de Educación; y promover propuestas para la inclusión de la perspectiva de género en la Reforma Educacional. | Desarrollo de Metodologías para el abordaje de la persistencia de los estereotipos sexistas. | Nº de metodologías para el abordaje de la persistencia de los estereotipos sexistas diseñadas e implementadas.
-Plan 'Educación | Unidad Equidad de Género | Ministerio de Educación. | Promover la igualdad y el desarrollo integral de | Campañas para promover trato equitativo e igualitario | % Campañas para promover trato | 2025
+para la Igualdad entre Hombres y Mujeres”. | Subsecretaría de Educación. | hombres y mujeres en el sistema educacional; establecer mecanismos y competencias del Ministerio de Educación; y promover propuestas para la inclusión de la perspectiva de género en la Reforma Educacional. | empoderamiento y liderazgo de equipos mixtos. | empoderamiento y liderazgo de equipos mixtos.
+Plan “Educación para la Igualdad entre Hombres y Mujeres”. | Unidad Equidad de Género Subsecretaría de Educación. | Ministerio de Educación. | Promover la igualdad y el desarrollo integral de hombres y mujeres en el sistema educacional; establecer mecanismos y competencias del Ministerio de Educación; y promover propuestas para la inclusión de la perspectiva de género en la Reforma Educacional. | Implementación de procedimientos para abordar situaciones de acoso sexual prácticas sexistas, acoso laboral y/o situaciones de violencia de género. | Nº de protocolo diseñados e implementados a nivel nacional y local.
+Plan “Educación para la Igualdad entre Hombres y Mujeres”. | Unidad Equidad de Género Subsecretaría de Educación. | Ministerio de Educación. | Promover la igualdad y el desarrollo integral de hombres y mujeres en el sistema educacional; establecer mecanismos y competencias del Ministerio de Educación; y promover propuestas para la inclusión de la perspectiva de género en la Reforma Educacional. | Desarrollo de Metodologías para el abordaje de la persistencia de los estereotipos sexistas. | Nº de metodologías para el abordaje de la persistencia de los estereotipos sexistas diseñadas e implementadas.
+Plan “Educación | Unidad Equidad de Género | Ministerio de Educación. | Promover la igualdad y el desarrollo integral de | Campañas para promover trato equitativo e igualitario | % Campañas para promover trato | 2025
 
 114
 
@@ -2615,7 +2695,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Instrumento | Institución responsable | Ministerio | Objetivos | Metas comprometidas | Indicador | Plazo
 --- | --- | --- | --- | --- | --- | ---
-para la Igualdad entre Hombres y Mujeres'. | Subsecretaría de Educación. | hombres y mujeres en el sistema educacional; establecer mecanismos y competencias del Ministerio de Educación; y promover propuestas para la inclusión de la perspectiva de género en la Reforma Educacional. | y reducir la violencia de género y discriminación de todo tipo. | equitativo e igualitario y reducir la violencia de género y discriminación de todo tipo ejecutadas por nivel educativo por año y región.
+para la Igualdad entre Hombres y Mujeres”. | Subsecretaría de Educación. | hombres y mujeres en el sistema educacional; establecer mecanismos y competencias del Ministerio de Educación; y promover propuestas para la inclusión de la perspectiva de género en la Reforma Educacional. | y reducir la violencia de género y discriminación de todo tipo. | equitativo e igualitario y reducir la violencia de género y discriminación de todo tipo ejecutadas por nivel educativo por año y región.
 No hay vinculación con Plan, sugerida por MMyEG. | Unidad Equidad de Género Subsecretaría de Educación. | Ministerio de Educación. | No aplica. | Incrementar 18% a 36% la de Matrícula femenina en la educación superior en el área de tecnologías. | % de Matrícula femenina en la educación superior en el área de tecnologías. | 2025
 
 ### 6. Derechos Colectivos y Ambientales
@@ -2634,10 +2714,10 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Instrumento | Institución responsable | Ministerio | Objetivos | Metas comprometidas | Indicador | Plazo
 --- | --- | --- | --- | --- | --- | ---
-Estudio de Profundización del Enfoque de Género en Materias Legales del Ministerio de Agricultura. | Instituto de Desarrollo Agropecuario. | Ministerio de Agricultura. | Otorgar un reconocimiento de la actividad independiente de la mujer y remueve las dificultades para acreditar tenencia de la tierra, resolviendo los problemas para postular a estos beneficios. | No obligatoriedad de acreditar propiedad para postular (especialmente a créditos) y el reconocimiento de la existencia de una o más unidades de negocios dentro de un predio'. | % postulante a crédito sin acreditación de propiedad. | 2020
-Informe Implementación Compromisos Ministeriales de Género 2015- 2017. | Unidad de Género. | Ministerio de Energía. | Fortalecer la capacidad técnica del Ministerio de Energía para la incorporación de la perspectiva de género en su trabajo. | Capacitar a las/os profesionales del Ministerio de Energía en temas de energía perspectiva de género. | % profesionales capacitados en temas de energía con perspectiva de género. | 2020
-Informe Implementación Compromisos Ministeriales de Género 2015- 2017. | Unidad de Género. | Ministerio de Energía. | Fortalecer la capacidad técnica del Ministerio de Energía para la incorporación de la perspectiva de género en su trabajo. | Promover en la difusión interna y externa del Ministerio un lenguaje inclusivo. | Nº Capacitaciones anuales sobre lenguaje inclusivo interna y externa del Ministerio % de documentos oficiales con uso de lenguaje inclusivo. | 2020
-Informe Implementación Compromisos Ministeriales de Género 2015- 2017. | Unidad de Género. | Ministerio de Energía. | Fortalecer la capacidad técnica del Ministerio de Energía para la incorporación de la perspectiva de género en su trabajo. | Desarrollar al menos un seminario anual que aborde las temáticas contenidas en la Agenda de Género. | Nº de seminarios anuales que aborden las temáticas contenidas en la Agenda de Género. | 2020
+Estudio de Profundización del Enfoque de Género en Materias Legales del Ministerio de Agricultura. | Instituto de Desarrollo Agropecuario. | Ministerio de Agricultura. | Otorgar un reconocimiento de la actividad independiente de la mujer y remueve las dificultades para acreditar tenencia de la tierra, resolviendo los problemas para postular a estos beneficios. | No obligatoriedad de acreditar propiedad para postular (especialmente a créditos) y el reconocimiento de la existencia de una o más unidades de negocios dentro de un predio”. | % postulante a crédito sin acreditación de propiedad. | 2020
+Informe Implementación Compromisos Ministeriales de Género 2015-2017. | Unidad de Género. | Ministerio de Energía. | Fortalecer la capacidad técnica del Ministerio de Energía para la incorporación de la perspectiva de género en su trabajo. | Capacitar a las/os profesionales del Ministerio de Energía en temas de energía perspectiva de género. | % profesionales capacitados en temas de energía con perspectiva de género. | 2020
+Informe Implementación Compromisos Ministeriales de Género 2015-2017. | Unidad de Género. | Ministerio de Energía. | Fortalecer la capacidad técnica del Ministerio de Energía para la incorporación de la perspectiva de género en su trabajo. | Promover en la difusión interna y externa del Ministerio un lenguaje inclusivo. | Nº Capacitaciones anuales sobre lenguaje inclusivo interna y externa del Ministerio % de documentos oficiales con uso de lenguaje inclusivo. | 2020
+Informe Implementación Compromisos Ministeriales de Género 2015-2017. | Unidad de Género. | Ministerio de Energía. | Fortalecer la capacidad técnica del Ministerio de Energía para la incorporación de la perspectiva de género en su trabajo. | Desarrollar al menos un seminario anual que aborde las temáticas contenidas en la Agenda de Género. | Nº de seminarios anuales que aborden las temáticas contenidas en la Agenda de Género. | 2020
 
 116
 
@@ -2649,10 +2729,10 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Instrumento | Institución responsable | Ministerio | Objetivos | Metas comprometidas | Indicador | Plazo
 --- | --- | --- | --- | --- | --- | ---
-Informe Implementación Compromisos Ministeriales de Género 2015- 2017. | Unidad de Género. | Ministerio de Energía. | Desarrollar iniciativas que promuevan la conciliación de vida laboral, familiar y personal en la institución. | Incorporar la variable género en 100% de los estudios de dotación de personal. | % de estudios anuales que incluyen variable género. | 2025
-Informe Implementación Compromisos Ministeriales de Género 2015- 2017. | Unidad de Género. | Ministerio de Energía. | Desarrollar iniciativas que promuevan la conciliación de vida laboral, familiar y personal en la institución. | Desarrollar a menos 1 programa de recursos humanos que promueva buenas prácticas de conciliación de vida laboral, familiar y personal. | Nº programa de recursos humanos que promueva buenas prácticas de conciliación de vida laboral, familiar y personal. | 2020
-Informe Implementación Compromisos Ministeriales de Género 2015- 2017. | Unidad de Género. | Ministerio de Energía. | Incorporar la perspectiva de género en productos y/o servicios de la institución. | Realizar al menos 1 diagnóstico desde la perspectiva de género, de los productos y servicios estratégicos del Ministerio. | Nº diagnóstico desde la perspectiva de género, de los productos y servicios estratégicos del Ministerio. | 2020
-Informe Implementación Compromisos Ministeriales de Género 2015- 2017. | Unidad de Género. | Ministerio de Energía. | Incorporar la perspectiva de género en productos y/o servicios de la institución. | Elaborar y proponer un plan de trabajo que permita incorporar la perspectiva de género en programas que desarrolle el Ministerio. | Elaborar y proponer un plan de trabajo que permita incorporar la perspectiva de género en programas que desarrolle el Ministerio.
+Informe Implementación Compromisos Ministeriales de Género 2015-2017. | Unidad de Género. | Ministerio de Energía. | Desarrollar iniciativas que promuevan la conciliación de vida laboral, familiar y personal en la institución. | Incorporar la variable género en 100% de los estudios de dotación de personal. | % de estudios anuales que incluyen variable género. | 2025
+Informe Implementación Compromisos Ministeriales de Género 2015-2017. | Unidad de Género. | Ministerio de Energía. | Desarrollar iniciativas que promuevan la conciliación de vida laboral, familiar y personal en la institución. | Desarrollar a menos 1 programa de recursos humanos que promueva buenas prácticas de conciliación de vida laboral, familiar y personal. | Nº programa de recursos humanos que promueva buenas prácticas de conciliación de vida laboral, familiar y personal. | 2020
+Informe Implementación Compromisos Ministeriales de Género 2015-2017. | Unidad de Género. | Ministerio de Energía. | Incorporar la perspectiva de género en productos y/o servicios de la institución. | Realizar al menos 1 diagnóstico desde la perspectiva de género, de los productos y servicios estratégicos del Ministerio. | Nº diagnóstico desde la perspectiva de género, de los productos y servicios estratégicos del Ministerio. | 2020
+Informe Implementación Compromisos Ministeriales de Género 2015-2017. | Unidad de Género. | Ministerio de Energía. | Incorporar la perspectiva de género en productos y/o servicios de la institución. | Elaborar y proponer un plan de trabajo que permita incorporar la perspectiva de género en programas que desarrolle el Ministerio. | Elaborar y proponer un plan de trabajo que permita incorporar la perspectiva de género en programas que desarrolle el Ministerio.
 Informe Implementación Compromisos | Unidad de Género. | Ministerio de Energía. | Incorporar la perspectiva de género en productos y/o servicios de la institución. | Incorporar en la planificación al menos 1 capacitaciones por áreas de trabajo | Nº de capacitaciones realizadas por áreas de trabajo ministerial. | 2025
 
 117
@@ -2665,7 +2745,7 @@ CUARTO PLAN NACIONAL DE IGUALDAD ENTRE MUJERES Y HOMBRES 2018-2030
 
 Instrumento | Institución responsable | Ministerio | Objetivos | Metas comprometidas | Indicador | Plazo
 --- | --- | --- | --- | --- | --- | ---
-Ministeriales de Género 2015- 2017. | ministerial, en temas de energía con enfoque de género, dirigido a sectores de la sociedad con la que se desarrolle la agenda energética.
+Ministeriales de Género 2015-2017. | ministerial, en temas de energía con enfoque de género, dirigido a sectores de la sociedad con la que se desarrolle la agenda energética.
 Primer Plan Nacional de Derechos Humanos. | Subsecretaría de Derechos Humanos. | Ministerio del Interior y Seguridad Pública. | Respetar, proteger y garantizar los derechos humanos de las personas de la diversidad sexual en condiciones de igualdad y no discriminación. | Fortalecer la participación de mujeres en las acciones en el Sistema de Evaluación de Impacto Ambiental. | Nº de acciones ejecutadas para fortalecer la participación de mujeres en las acciones en el Sistema de Evaluación de Impacto Ambiental. | 2025
 
 118
@@ -2674,10 +2754,6 @@ Primer Plan Nacional de Derechos Humanos. | Subsecretaría de Derechos Humanos. 
 
 [[START OF PAGE 120]]
 
-/MinMujeryEG
-
-www. minmujeryeg .gob.cl
-
-@MinMujeryEG
+www.minmujeryeg.gob.cl @MinMujeryEG /MinMujeryEG
 
 [[END OF PAGE 120]]
