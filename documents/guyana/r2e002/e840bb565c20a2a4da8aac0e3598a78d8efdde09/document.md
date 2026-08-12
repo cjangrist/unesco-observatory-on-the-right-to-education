@@ -50,19 +50,45 @@ L.R.O. 1/2012
 
 [[START OF PAGE 2]]
 
-2
-
-Cap. 39:01
-
 LAWS OF GUYANA
-
-Education
+2 Cap. 39:01 Education
 
 # Index
-
 of
-
 # Subsidiary Legislation
+
+Page
+Education (Control and Management of Schools) Order 38
+(O. 35/1961, 43/1961)
+
+Education (Vesting of Land in the State) (Tagmore Memorial Secondary School) Order 40
+(O. 29/1997)
+
+Education (Extension of Application of Section 34B of the Act) (Richard Ishmael Secondary School) Order 41
+(O. 3/1996)
+
+Education (Extension of Application of Section 34B of the Act) (Tagmore Memorial Secondary School) Order 43
+(O. 11/1997)
+
+Education (Vesting of Land in the State) (Richard Ishmael Secondary School) Order 45
+(O. 7/1996)
+
+Education (Vesting of Land in the State)(Berbice Educational Institute) Order 46
+(O. 7/1998)
+
+Education (Extension of Application of Section 34B of the Act) (Berbice Educational Institute) Order 47
+(O. 36/1996)
+
+Education (Extension of Application of Section 34B of the Act) (Sheet Anchor Primary School) Order 49
+(O. 35/1999)
+
+Bain Gray Prizes (Government Training College and Broad Street Government School) Rules 51
+(R. 20/1950, 1/1953)
+
+Carnegie School of Home Economics Regulations 53
+(Reg. 14/2/1939, 7/1947, 20/1947, 23/1951, 25/1955, 26/1958)
+
+Education Code Regulations 57
 
 L.R.O. 1/2012
 
@@ -71,12 +97,36 @@ L.R.O. 1/2012
 [[START OF PAGE 3]]
 
 LAWS OF GUYANA
+Education Cap. 39:01 3
 
-Education
+(Reg. 17/1940, 37/1943, 10/1944, 43/1945, 49/1945, 1/1946, 30/1948, 7/1949, 17/1950, 2/1952, 4 of 1972, 1 of 1975)
 
-Cap. 39:01
+Government Technical Institute Regulations 151
+(Reg. 26/1955)
 
-3
+Blair Scholarships Regulations 154
+(Nt. 17/10/1938)
+
+Centenary and John Wray Scholarships Regulations 156
+(Reg. 14/1959)
+
+Government General Certificate Scholarships Regulations 159
+(Reg. 6/1951, 22/1952, 17/1958, 4/1959, 14/1961, 4 of 1972)
+
+Teachers’ Fine Fund Regulations 163
+(4/9/1936)
+
+Guyana Scholarships Regulations 164
+(Reg. 13/1965, 14/1967, 28/1969, 8/1978, 5/1984)
+
+Queen’s College and Bishop’s High School Scholarships Regulations 174
+(Reg. 1/1960)
+
+Secondary Schools Regulations 176
+(18/1957, 5/1960)
+
+Secondary Schools (Admissions) Regulations 186
+(Reg. 18/1957, 8/1963, 1/1978)
 
 L.R.O. 1/2012
 
@@ -84,13 +134,43 @@ L.R.O. 1/2012
 
 [[START OF PAGE 4]]
 
-4
-
-Cap. 39:01
-
 LAWS OF GUYANA
+4 Cap. 39:01 Education
 
-Education
+CHAPTER 39:01
+# EDUCATION ACT
+## ARRANGEMENT OF SECTIONS
+
+SECTION
+1. Short title.
+
+## PART I ELEMENTARY EDUCATION
+
+2. Interpretation.
+
+### THE EDUCATION DEPARTMENT
+
+3. Appointment of Officers.
+4. Annual report on elementary education.
+5. Power to inspect schools receiving public money.
+6. Reference of complaints against teacher to magistrate for investigation.
+7. Power to cancel certificate in certain cases.
+8. Consequence of cancellation or suspension.
+
+### EDUCATIONAL DISTRICTS
+
+9. Declaration of educational districts.
+
+### ATTENDANCE OFFICERS
+
+10. Appointment.
+11. Duties of attendance officer.
+12. Attendance officer may enter premises at certain times and make inquiries.
+
+### PROVISIONS FOR ENFORCING ELEMENTARY EDUCATION OF CHILDREN
+
+13. Duty of parent to educate child.
+14. Proceedings against parent omitting to educate child.
 
 L.R.O. 1/2012
 
@@ -99,12 +179,45 @@ L.R.O. 1/2012
 [[START OF PAGE 5]]
 
 LAWS OF GUYANA
+Education Cap. 39:01 5
 
-Education
+SECTION
+15. Proceedings with respect to child found habitually wandering or not under control.
+16. Proceedings on disobedience of magistrate’s order for attendance at school.
 
-Cap. 39:01
+### EMPLOYMENT OF CHILDREN
 
-5
+17. Restriction on employment of children.
+18. Employer of child working on plantation.
+19. Exemption of employer on proof of guilt of some other person.
+20. Employment of child in contravention of the Act.
+21. Wilfully making false representation as to age of child.
+22. Application of sections 13 to 16.
+
+### INDUSTRIAL SCHOOLS
+
+23. Teacher’s power of detention over children.
+24. Employment of children at industrial school.
+25. Provision for children required to attend school for part only of a day.
+26. Execution of order requiring child to be sent to school.
+27.-29. [Repealed by 9 of 1976]
+
+### SCHOOL FEES
+
+30. No fees in certain cases.
+
+### GOVERNMENT SCHOOLS
+
+31. Establishment of government schools.
+32. Certain aided schools to be deemed to be government schools.
+33. Accountability for grants and handing over of records.
+34. Right of access to school.
+34A. Provision of system of education.
+34B. Certain aided schools to become government schools.
+
+### PROOF OF AGE OF CHILD, ETC.
+
+35. Power in certain cases to estimate age of child.
 
 L.R.O. 1/2012
 
@@ -112,13 +225,40 @@ L.R.O. 1/2012
 
 [[START OF PAGE 6]]
 
-6
-
-Cap. 39:01
-
 LAWS OF GUYANA
+6 Cap. 39:01 Education
 
-Education
+SECTION
+36. Certificates of birth.
+37. School receiving government grant to be deemed efficient.
+38. Regulations as to legal proceedings.
+39. Forgery of, and use of forged, certificate made evidence.
+
+### LEGAL PROCEDURE
+
+40. Procedure.
+41. Exemption from payment of fees for process.
+42. Power to grant warrant to examine place in certain cases.
+43. Power to amend forms.
+
+## PART II NATIONAL COUNCIL FOR EDUCATION
+
+44. Constitution of National Council for Education.
+45. Functions of the Council.
+46. Extraordinary meetings of the Council.
+47. Appointment of Secretary.
+
+## PART III
+
+48.-53. [Repealed by Act No. 9 of 1976]
+
+### GENERAL
+
+54. Regulations.
+
+FIRST SCHEDULE—Forms.
+SECOND SCHEDULE—Name of school.
+__________________________
 
 L.R.O. 1/2012
 
@@ -134,28 +274,49 @@ Cap. 39:01
 
 7
 
-1929 Ed. c. 196 1953 Ed. c. 91 | CHAPTER 39:01
---- | ---
+1929 Ed.
+c. 196
+1953 Ed.
+c. 91
+
+CHAPTER 39:01
 # EDUCATION ACT
-3 of 1876 | An Act to make better provision for the promotion of education in Guyana.
 
-[3 RD  FEBRUARY, 1877]
+3 of 1876
+An Act to make better provision for the promotion of education in Guyana.
 
-- This Act may be cited as the Education Act.
+[3RD FEBRUARY, 1877]
+
+Short Title.
+
+1. This Act may be cited as the Education Act.
 
 ## PART I ELEMENTARY EDUCATION
 
-Interpretation. [26 of 1949 | 2. In this Part of this Act-
---- | ---
-3 of 1961 4 of 1972 1 of 1975 O. 80/1980] | 'aided school' means an elementary school the managers of which receive any grant-in-aid from public funds;
-'attendance officer' means an officer appointed to carry out the provisions of this Act in any educational district;
-'authorised person' means anyone who under this Act has and is entrusted with the same rights, powers, privileges and functions as an attendance officer;
-c. 1:01. | 'the Commission' means the Teaching Service Commission established by article 136(1) of the Constitution;
-'education officer' includes senior education officer, education officer and assistant education officer;
-'elementary school' means a school, or department of a school, at which elementary education is the principal part of the education there given;
-'father' includes the reputed father and every male person cohabiting with the mother of a child, whether he is the
+Interpretation.
+[26 of 1949
+3 of 1961
+4 of 1972
+1 of 1975
+O. 80/1980]
 
-Short Title.
+2. In this Part of this Act—
+
+“aided school” means an elementary school the managers of which receive any grant-in-aid from public funds;
+
+“attendance officer” means an officer appointed to carry out the provisions of this Act in any educational district;
+
+“authorised person” means anyone who under this Act has and is entrusted with the same rights, powers, privileges and functions as an attendance officer;
+
+c. 1:01.
+
+“the Commission” means the Teaching Service Commission established by article 136(1) of the Constitution;
+
+“education officer” includes senior education officer, education officer and assistant education officer;
+
+“elementary school” means a school, or department of a school, at which elementary education is the principal part of the education there given;
+
+“father” includes the reputed father and every male person cohabiting with the mother of a child, whether he is the
 
 L.R.O. 1/2012
 
@@ -217,15 +378,15 @@ Reference of complaints against teacher to magistrate for investigation. [1 of 1
 
 ### THE EDUCATION DEPARTMENT
 
-3. (1)  There  shall  be  a  Chief  Education  Officer  and  a Deputy  Chief  Education  Officer  and  one  or  more  senior education officers.
+3. (1) There shall be a Chief Education Officer and a Deputy Chief Education Officer and one or more senior education officers.
 
-- The Deputy Chief Education Officer  may exercise  all  such  powers  and  perform  all  such  duties  of  the Chief  Education  Officer,  as  may  be  authorised  by  the  Chief Education Officer.
+(2) The Deputy Chief Education Officer may exercise all such powers and perform all such duties of the Chief Education Officer, as may be authorised by the Chief Education Officer.
 
-- The Chief Education Officer shall submit annually to the Minister a report on the state of elementary education throughout Guyana, in the form and containing information with regard to the particulars directed by the Minister.
+4. The Chief Education Officer shall submit annually to the Minister a report on the state of elementary education throughout Guyana, in the form and containing information with regard to the particulars directed by the Minister.
 
-- The  Chief  Education  Officer  and  every  education officer shall have full power and authority to enter, visit, and inspect  every  school  or  schoolhouse  and  all  the  premises  or offices used therewith, where the managers of the school have received or have applied for any aid from moneys provided by Parliament within the next preceding twelve months.
+5. The Chief Education Officer and every education officer shall have full power and authority to enter, visit, and inspect every school or schoolhouse and all the premises or offices used therewith, where the managers of the school have received or have applied for any aid from moneys provided by Parliament within the next preceding twelve months.
 
-(1) If a teacher in a government school is charged by anyone  with  immoral  conduct  as  teacher  or  otherwise,  or cruel or improper treatment of any of the children or pupils attending the school, the Commission may transmit a statement,  specifying  the  particular  acts  in  respect  whereof the  charge  is  made,  to  the  magistrate  of  the  magisterial district within which that school is situate; and the magistrate shall thereupon cause a copy of the statement to be served on
+6. (1) If a teacher in a government school is charged by anyone with immoral conduct as teacher or otherwise, or cruel or improper treatment of any of the children or pupils attending the school, the Commission may transmit a statement, specifying the particular acts in respect whereof the charge is made, to the magistrate of the magisterial district within which that school is situate; and the magistrate shall thereupon cause a copy of the statement to be served on
 
 L.R.O. 1/2012
 
@@ -287,13 +448,13 @@ c. 65:01
 
 10. (1) For more effectually carrying out the provisions of this Act, one or more officers may be appointed for each educational district.
 
-- The  officers  shall  be  called  attendance  officers and shall receive the salaries provided for them by Parliament.
+(2) The officers shall be called attendance officers and shall receive the salaries provided for them by Parliament.
 
-- Every member  of  the National Assembly, minister  of  religion,  justice  of  the  peace,  education  officer, school  manager,  certificated  principal  teacher  of  a  school authorised in writing by the manager of his school, member of  any  municipal  council  or  council  of  a  local  government district established under the Municipal and District Councils Act  or  village  council,  district  commissioner,  Government officer  appointed  under  the  State  Lands  Act  or  the  Mining Act, member of the police force, or person authorised by the Minister, shall have and may exercise all the rights, powers, privileges  and  functions  vested  in  an  attendance  officer  by this Act:
+(3) Every member of the National Assembly, minister of religion, justice of the peace, education officer, school manager, certificated principal teacher of a school authorised in writing by the manager of his school, member of any municipal council or council of a local government district established under the Municipal and District Councils Act or village council, district commissioner, Government officer appointed under the State Lands Act or the Mining Act, member of the police force, or person authorised by the Minister, shall have and may exercise all the rights, powers, privileges and functions vested in an attendance officer by this Act:
 
-Provided that-
+Provided that—
 
-(a) no  police  constable  shall  have  and exercise the powers given to an attendance officer by section 15 unless authorised  or  empowered  as  therein mentioned; and
+(a) no police constable shall have and exercise the powers given to an attendance officer by section 15 unless authorised or empowered as therein mentioned; and
 
 L.R.O. 1/2012
 
@@ -307,20 +468,31 @@ Cap. 39:01
 
 LAWS OF GUYANA
 
-Education officer or any other authorised person with respect to the age or employment of  a  child,  whether  that child is under the age of five years or not; or
+Education
 
-(b) | nothing herein contained shall impose on any person hereinbefore specified the duties imposed on attendance officers by section 11.
---- | --- | ---
-Duties of attendance officer. [24 of 1942] | 11. It shall be the duty of each attendance officer- (a) | to ascertain and report to the Chief
-Attendance officer may enter at certain and make inquiries. | 12. (1) Any attendance officer, or other authorised person, may enter any yard, house, building, or place, between the hours of six o'clock in the morning and five o'clock in the evening of any day in the week except Sunday and there make inquiries as to any child there residing or employed.
-(2) Everyone | hinders or obstructs an attendance officer or any other authorised person
-(c) | generally, to follow the directions laid down for his guidance by the Chief
-Education Officer.
-premises times [6 of 1997]
-who-
-(a) | in the performance of his duty; or
-(b) | wilfully makes any false representations to an attendance
+(b) nothing herein contained shall impose on any person hereinbefore specified the duties imposed on attendance officers by section 11.
 
+Duties of attendance officer.
+[24 of 1942]
+
+11. It shall be the duty of each attendance officer—
+
+(a) to ascertain and report to the Chief Education Officer every parent of every child resident within his district who has failed or is omitting to cause his child to receive efficient elementary instruction in reading, writing and arithmetic;
+
+(b) to enforce the provisions of this Act, and to prosecute all those not complying therewith; and
+
+(c) generally, to follow the directions laid down for his guidance by the Chief Education Officer.
+
+Attendance officer may enter premises at certain times and make inquiries.
+[6 of 1997]
+
+12. (1) Any attendance officer, or other authorised person, may enter any yard, house, building, or place, between the hours of six o’clock in the morning and five o’clock in the evening of any day in the week except Sunday and there make inquiries as to any child there residing or employed.
+
+(2) Everyone who—
+
+(a) hinders or obstructs an attendance officer or any other authorised person in the performance of his duty; or
+
+(b) wilfully makes any false representations to an attendance
 L.R.O. 1/2012
 
 [[END OF PAGE 12]]
@@ -335,15 +507,21 @@ Cap. 39:01
 
 13
 
-(c) wilfully refuses to afford to an attendance officer or any other authorised person reasonably requiring  it,  any  information  that  he possesses as to the age or employment of a child, whether the child is under the  age  of  five  years  or  not,  shall  be liable  to  a  fine  of  one  thousand  nine hundred and fifty dollars.
+officer or any other authorised person with respect to the age or employment of a child, whether that child is under the age of five years or not; or
+
+(c) wilfully refuses to afford to an attendance officer or any other authorised person reasonably requiring it, any information that he possesses as to the age or employment of a child, whether the child is under the age of five years or not, shall be liable to a fine of one thousand nine hundred and fifty dollars.
 
 ### PROVISIONS FOR ENFORCING ELEMENTARY EDUCATION OF CHILDREN
 
-Duty of parent to educate child. | 13. It shall be the duty of the parent of every child to cause the child to receive efficient elementary instruction in reading, writing, and arithmetic, and if a parent fails to perform that duty, he shall be liable to the orders and penalties provided by this Act.
---- | ---
-Proceedings against parent omitting to educate child. | 14. (1) If the parent of a child habitually and without reasonable excuse omits to provide efficient elementary instruction for his child, an attendance officer or other authorised person may prefer a complaint against the parent before a magistrate; and the magistrate, if satisfied of the truth of the complaint, shall make an order that the child do attend some school named in the order, being either such as the parent selects, or, if he does not select any, such public elementary school as the magistrate considers expedient; and the child shall attend that school every time it is opened, or in any other regular manner specified in the order.
+Duty of parent to educate child.
 
-(2) Any of the following reasons shall be deemed a First Schedule, Form 1, Form 2.
+13. It shall be the duty of the parent of every child to cause the child to receive efficient elementary instruction in reading, writing, and arithmetic, and if a parent fails to perform that duty, he shall be liable to the orders and penalties provided by this Act.
+
+Proceedings against parent omitting to educate child.
+
+14. (1) If the parent of a child habitually and without reasonable excuse omits to provide efficient elementary instruction for his child, an attendance officer or other authorised person may prefer a complaint against the parent before a magistrate; and the magistrate, if satisfied of the truth of the complaint, shall make an order that the child do attend some school named in the order, being either such as the parent selects, or, if he does not select any, such public elementary school as the magistrate considers expedient; and the child shall attend that school every time it is opened, or in any other regular manner specified in the order.
+
+(2) Any of the following reasons shall be deemed a
 
 L.R.O. 1/2012
 
@@ -356,6 +534,10 @@ L.R.O. 1/2012
 LAWS OF GUYANA
 
 Education
+
+First Schedule,
+Form 1,
+Form 2.
 
 Proceedings with respect to child found habitually wandering or not under control.
 
@@ -421,14 +603,35 @@ LAWS OF GUYANA
 
 Education
 
-without inflicting a penalty, child to be sent to an school; and (b) in a second or any subsequent non-compliance with the magistrate may order the sent to an industrial school; for each non-compliance penalty aforesaid, without the child to be sent to school:
---- | ---
+without inflicting a penalty, order the child to be sent to an industrial school; and
+
+(b) in a second or any subsequent case of non-compliance with the order, the magistrate may order the child to be sent to an industrial school; or he may for each non-compliance inflict any penalty aforesaid, without ordering the child to be sent to an industrial school:
+
 Provided that a complaint under this section with respect to a continuing non-compliance shall not be repeated by the attendance officer or other authorised person at any less interval than two weeks.
-First Schedule, Form 5, Form 6. | (2) Every complaint under this section may be in Form 5, and every order under this section may be in Form 6.
+
+First Schedule,
+Form 5,
+Form 6.
+
+(2) Every complaint under this section may be in Form 5, and every order under this section may be in Form 6.
+
 ### EMPLOYMENT OF CHILDREN
-Restriction on employment of children. [19 of 1947 12 of 1999] | 17. No person shall take into his employment or employ any child who is under the age of fifteen years: Provided that the service rendered by a child to its parents, being such service as is usually given by children to their parents, shall not constitute a breach of this section unless such service is rendered on a school day during school hours.
-Employer of child working on plantation. | 18. The manager of a plantation on which a child performs any work for the proprietors thereof shall, subject to the other provisions of this Act, be deemed to have taken the child into his employment.
-Exemption of employer on | 19. (1) Where the offence of taking a child into
+
+Restriction on employment of children.
+[19 of 1947
+12 of 1999]
+
+17. No person shall take into his employment or employ any child who is under the age of fifteen years:
+
+Provided that the service rendered by a child to its parents, being such service as is usually given by children to their parents, shall not constitute a breach of this section unless such service is rendered on a school day during school hours.
+
+Employer of child working on plantation.
+
+18. The manager of a plantation on which a child performs any work for the proprietors thereof shall, subject to the other provisions of this Act, be deemed to have taken the child into his employment.
+
+Exemption of employer on
+
+19. (1) Where the offence of taking a child into
 
 L.R.O. 1/2012
 
@@ -437,20 +640,20 @@ L.R.O. 1/2012
 [[START OF PAGE 17]]
 
 LAWS OF GUYANA
-
+Education
 Cap. 39:01
-
 17
 
 proof of guilt of some other person.
 
-Employment of child in contravention of the Act. [6 of 1997]
+Employment of child in contravention of the Act.
+[6 of 1997]
 
-First Schedule. Form 7.
+First Schedule.
+Form 7.
 
-Wilfully making false representation as to age of child. [6 of 1997]
-
-Education
+Wilfully making false representation as to age of child.
+[6 of 1997]
 
 employment in contravention of this Act is in fact committed by  an  agent  or  workman  of  the  employer,  the  agent  or workman  shall  be  liable  to  a  penalty  as  if  he  were  the employer.
 
@@ -508,7 +711,7 @@ Provided that the full value of any labour performed by a child  after  deductin
 
 25. Provision shall be made at every industrial school for  allowing  children  who  are  only  required  to  attend  an elementary  school  for  two  and  a  half  hours  in  the  day  to receive  instruction  in  elementary  education  in  the  school without becoming subject to the industrial training thereat.
 
-26. Every child ordered by a magistrate to be sent to an industrial school may be taken, at any time while the order continues in force, to the industrial school named in the order No fees in certain cases. [24 of 1942]
+26. Every child ordered by a magistrate to be sent to an industrial school may be taken, at any time while the order continues in force, to the industrial school named in the order
 
 L.R.O. 1/2012
 
@@ -524,6 +727,9 @@ Cap. 39:01
 
 19
 
+No fees in certain cases.
+[24 of 1942]
+
 Establishment of government schools.
 
 Certain aided schools to be deemed to be government schools. Second Schedule. [3 of 1961]
@@ -538,13 +744,13 @@ by an attendance officer or authorised person, or by anyone empowered in writing
 
 ### GOVERNMENT SCHOOLS
 
-(1)  If  in  any  educational  district  the  Minister  on economical or other grounds so directs, the Chief Education Officer, as soon as the funds are provided for the purpose by Parliament, shall erect proper schoolhouses and establish and maintain sufficient schools in that district.
+31. (1) If in any educational district the Minister on economical or other grounds so directs, the Chief Education Officer, as soon as the funds are provided for the purpose by Parliament, shall erect proper schoolhouses and establish and maintain sufficient schools in that district.
 
-- Those schools when established shall be called government schools.
+(2) Those schools when established shall be called government schools.
 
-- When a government school has been established  in  an  educational  district,  the  Chief  Education Officer  may,  at  his  discretion  after  fair  notice,  withdraw  or withhold all government grants from any aided school within two miles of the government schoolhouse.
+(3) When a government school has been established in an educational district, the Chief Education Officer may, at his discretion after fair notice, withdraw or withhold all government grants from any aided school within two miles of the government schoolhouse.
 
-(1)  The  Minister  may  by  order  declare  that  on  a date  to  be  specified  in  the  order,  being  not  less  than  one month after the date of the order, (hereinafter referred to as the 'appointed date'), any aided school listed in the Second Schedule, shall for the purposes of control and management cease to be an aided school, and shall thereafter for the said purposes,  notwithstanding  this  Act,  be  deemed  to  be  a government school under section 29.
+32. (1) The Minister may by order declare that on a date to be specified in the order, being not less than one month after the date of the order, (hereinafter referred to as the “appointed date”), any aided school listed in the Second Schedule, shall for the purposes of control and management cease to be an aided school, and shall thereafter for the said purposes, notwithstanding this Act, be deemed to be a government school under section 29.
 
 L.R.O. 1/2012
 
@@ -566,11 +772,14 @@ Accountability for grants and handing over of records. [3 of 1961]
 
 (3)  Where  an  aided  school  is  deemed  to  be  a government school by virtue of subsection (1), the governing body  of  such  school  and  any  other  manager  appointed  by them shall,  notwithstanding the  other  provisions  of  this  Act or  any  regulations  made  thereunder,  cease  to  be  recognized for  the  purposes of regulation 5 of the Education Code, and the  said  governing  body  and  any  such  manager  shall  not thereafter be entitled to exercise any powers and perform any duties in relation to the control and management of the said school;  and  the  Chief  Education  Officer  shall  thereupon  be responsible  for  the  control  and  management  of  the  said school.
 
-30. (1) Every governing body or manager of an aided school that is deemed to be a government school in pursuance of subsection (1) of section 32 shall, not later than one month after the appointed date or within such further period as the Chief  Education  Officer  may  allow,  render  to  the  Chief Education Officer an account for every grant made  in connection  with  the  control  and  management  of  the  school since the last account was rendered.
+33. (1) Every governing body or manager of an aided school that is deemed to be a government school in pursuance of subsection (1) of section 32 shall, not later than one month after the appointed date or within such further period as the Chief Education Officer may allow, render to the Chief Education Officer an account for every grant made in connection with the control and management of the school since the last account was rendered.
 
 (2) Every governing body or manager of an aided school that is deemed to be a government school as aforesaid, shall on the appointed date at the said school deliver or cause to be delivered to the Chief Education Officer or any person authorised  by  him  to  act  on  his  behalf  all  records  in  their possession  in  connection  with  the  management  of  the  said school,  and  all  furniture  and  other  effects  purchased  out  of funds made available by the Government.
 
-Right of access to school. [3 of 1961] 34. On and after the appointed date, any person shall have the right to enter into any aided school that is deemed to be  a  government  school  or  upon  any  land  on  which  it  is Provision of system of education. [6 of 1997]
+Right of access to school.
+[3 of 1961]
+
+34. On and after the appointed date, any person shall have the right to enter into any aided school that is deemed to be a government school or upon any land on which it is
 
 L.R.O. 1/2012
 
@@ -586,7 +795,11 @@ Cap. 39:01
 
 21
 
-Certain aided schools to become Government schools [6 of 1997]
+Provision of system of education.
+[6 of 1997]
+
+Certain aided schools to become Government schools
+[6 of 1997]
 
 situate, for any  lawful purpose  in connection with the activities of the school.
 
@@ -613,7 +826,11 @@ LAWS OF GUYANA
 22 | Cap. 39:01 | Education
 --- | --- | ---
 (i) (ii) (iii) | the schoolhouse, such land appurtenant to any schoolhouse, as is described in an order made by the Minister under subsection (4), subject to such interests in or rights over such land used exclusively for public religious worship or any building used in connection therewith, as may be set out and described in the said order; all records, furniture and other equipment, used in connection with and for the purpose of carrying on the school, notwithstanding any written law or rule of law.
-(3) The provisions of subsection (2) (b)(i)and (ii) shall, as the same apply to an aided school which is deemed to be a government school by virtue of subsection (1), apply mutatis mutandis on the appointed date in relation to every school in respect of which an order was made under section 32(1) prior to the appointed date. (4) The Minister shall, as soon as practicable, by order, prescribe the boundaries of any land appurtenant to a schoolhouse for the purposes of subsection (2) subject to any easements or other interests as may be specified in the order and notwithstanding anything to the contrary in any other law the Registrar of Deeds shall take due notice thereof and shall make such annotations on the records as may be necessary to give effect to such order.
+(3) The provisions of subsection (2)(b)(i) and (ii) shall, as the same apply to an aided school which is deemed to be a government school by virtue of subsection (1), apply mutatis mutandis on the appointed date in relation to every school in respect of which an order was made under section 32(1) prior to the appointed date.
+
+(4) The Minister shall, as soon as practicable, by order, prescribe the boundaries of any land appurtenant to a schoolhouse for the purposes of subsection (2) subject to any easements or other interests as may be specified in the order and notwithstanding anything to the contrary in any other law the Registrar of Deeds shall take due notice thereof and shall make such annotations on the records as may be necessary to give effect to such order.
+
+(5) Where property has been vested in the State by virtue of subsection (2)(b), the Minister may, in such circumstances as he thinks just, pay compensation in such amount and in such manner as may be determined by him for
 
 L.R.O. 1/2012
 
@@ -661,13 +878,16 @@ Certificates of birth. [24 of 1942]
 
 (11) If any person fails to comply with the provisions  of  subsection  (6)  or  (7)  he  shall  be  liable  on summary  conviction  to  a  fine  of  thirty-two  thousand  five hundred dollars and imprisonment for six months.
 
-### PROOF OF AGE OF CHILD, ETC .
+### PROOF OF AGE OF CHILD, ETC.
 
-35. Where  the  age  of  a child is required  to be ascertained  in  any  judicial  proceeding  under  this    Act,  the magistrate  or  judge  having  cognizance  of  the  proceeding,  if the  child  is  produced  before  him,  after  considering  any evidence  adduced  on  the  point  and  the  appearance  of  the child,  and  in  the  absence  of  clear  testimony  to  the  contrary, may declare and note on the proceedings what in his opinion is  the  true  age  of  the  child,  and  that  age  for  all  purposes connected with that proceeding, shall be taken to be the true age of the child at that time.
+35. Where the age of a child is required to be ascertained in any judicial proceeding under this Act, the magistrate or judge having cognizance of the proceeding, if the child is produced before him, after considering any evidence adduced on the point and the appearance of the child, and in the absence of clear testimony to the contrary, may declare and note on the proceedings what in his opinion is the true age of the child, and that age for all purposes connected with that proceeding, shall be taken to be the true age of the child at that time.
 
-36. The Chief Education Officer, everyone authorised in  writing  by  him,  and  every  attendance  officer,  shall  be entitled  to  obtain  from  the  general  register  office,  a  certified copy of any entry in any register in that office with respect to the birth of a child.
+36. The Chief Education Officer, everyone authorised in writing by him, and every attendance officer, shall be entitled to obtain from the general register office, a certified copy of any entry in any register in that office with respect to the birth of a child.
 
-School receiving government grant to be 37. Every  school  receiving  a  government  grant  shall, for  the  purposes  of  this  Act,  be  deemed  an  efficient  school, and every parent who causes his child regularly to attend any deemed efficient. [3 of 1961]
+School receiving government grant to be deemed efficient.
+[3 of 1961]
+
+37. Every school receiving a government grant shall, for the purposes of this Act, be deemed an efficient school, and every parent who causes his child regularly to attend any
 
 L.R.O. 1/2012
 
@@ -676,14 +896,13 @@ L.R.O. 1/2012
 [[START OF PAGE 25]]
 
 LAWS OF GUYANA
-
+Education
 Cap. 39:01
-
 25
 
-Regulations as to legal proceedings. [26 of 1949 6 of 1997]
-
-Education
+Regulations as to legal proceedings.
+[26 of 1949
+6 of 1997]
 
 school receiving a government grant shall, in all proceedings under this Act, be deemed to have performed his duty with respect to the elementary education of his child.
 
@@ -702,7 +921,6 @@ L.R.O. 1/2012
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
-
 26
 
 Cap. 39:01
@@ -711,72 +929,74 @@ LAWS OF GUYANA
 
 Education
 
+shall lie on the defendant to show that the school is efficient, and the magistrate in considering whether an elementary school is efficient, shall have regard to the age of the child and to the standard of education corresponding to that age prescribed by the education code for the time being in force;
+
+(e) anyone may appear by a member of his family or any other person authorised by him in that behalf.
+
 Forgery of, and use of forged, certificate made evidence.
 
-Procedure.
-
-Exemption from payment of fees for shall lie on the defendant to show that the school is efficient, and the magistrate in considering whether an elementary  school  is  efficient,  shall have  regard  to  the  age  of  the    child and to the standard of education corresponding  to  that  age  prescribed by  the  education  code  for  the  time being in force;
-
-(e) anyone  may  appear  by  a  member  of his family or any other person authorised by him in that behalf.
-
-- Everyone who-
+39. Everyone who—
 
 (a) forges or counterfeits; or
 
-(b) gives or  signs  knowing to  be false in any particular; or
+(b) gives or signs knowing to be false in any particular; or
 
 (c) uses, knowing to be forged, counterfeit, or false,
 
-any certificate by this Act made evidence of any matter, shall be  liable  on  summary  conviction  to  imprisonment  for  three months.
+any certificate by this Act made evidence of any matter, shall be liable on summary conviction to imprisonment for three months.
 
 ### LEGAL PROCEDURE
 
-40. All penalties incurred under this Act may be sued for and recovered in a summary manner before a magistrate; and all orders which a magistrate is authorised to make under this  Act  shall  be  applied  for,  made,  and  enforced  in  the manner provided by the Summary Jurisdiction Acts.
+Procedure.
 
-41. No one whether complainant, plaintiff, or defendant, shall be required to pay any fees for process in a process.
+40. All penalties incurred under this Act may be sued for and recovered in a summary manner before a magistrate; and all orders which a magistrate is authorised to make under this Act shall be applied for, made, and enforced in the manner provided by the Summary Jurisdiction Acts.
+
+Exemption from payment of fees for process.
+
+41. No one whether complainant, plaintiff, or defendant, shall be required to pay any fees for process in a
 
 L.R.O. 1/2012
-
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
-
 LAWS OF GUYANA
+
+Education
 
 Cap. 39:01
 
 27
 
-Power to grant warrant to examine place in certain cases. [6 of 1997]
-
-Power to amend Forms. [43 of 1956]
-
-Constitution of National Council for Education. [43 of 1956 7 of 1963]
-
-Education
-
 proceeding, other than those for the recovery of school fees, taken or had under this Act against the parent or employer of a child.
 
-42. (1) If it appears to a magistrate, on the complaint of an attendance officer or other authorised person, that there is reasonable  cause  to  believe  that  a  child  is  employed  in contravention of this Act in any place, whether a building or not, the magistrate may, by order under his hand, empower an  attendance  officer,  or  other  authorised  person,  or  police officer,  to  enter  that  place,  at  any  reasonable  time  within seven  days  from  the  date  of  the  order,  and  to  examine  the place, and anyone found there, touching the employment of any child there.
+Power to grant warrant to examine place in certain cases.
+[6 of 1997]
 
-- Everyone  who  refuses  admission  to  an  officer authorised by order under this section, or obstructs him in the discharge of his duty when acting under this section, shall for each  offence  be  liable  to  a  fine  of  nine  thousand  seven hundred and fifty dollars.
+42.(1) If it appears to a magistrate, on the complaint of an attendance officer or other authorised person, that there is reasonable cause to believe that a child is employed in contravention of this Act in any place, whether a building or not, the magistrate may, by order under his hand, empower an attendance officer, or other authorised person, or police officer, to enter that place, at any reasonable time within seven days from the date of the order, and to examine the place, and anyone found there, touching the employment of any child there.
 
-43. The  Minister  may  by  order  amend  the  First Schedule.
+(2) Everyone who refuses admission to an officer authorised by order under this section, or obstructs him in the discharge of his duty when acting under this section, shall for each offence be liable to a fine of nine thousand seven hundred and fifty dollars.
+
+Power to amend Forms.
+[43 of 1956]
+
+43. The Minister may by order amend the First Schedule.
 
 ## PART II NATIONAL COUNCIL FOR EDUCATION
 
-44. (1) There shall be established a body to be known as 'The National Council for Education' (hereinafter referred to  as  'the  Council')  consisting  of  a  Chairman  and  not  more than thirteen other members appointed by the Minister.
+Constitution of National Council for Education.
+[43 of 1956
+7 of 1963]
 
-- Subject  to  this  section,  every  member  of  the Council shall hold office for such period as is specified in the instrument or other document appointing him, and he shall be eligible for re-appointment.
+44. (1) There shall be established a body to be known as “The National Council for Education” (hereinafter referred to as “the Council”) consisting of a Chairman and not more than thirteen other members appointed by the Minister.
 
-(3) Seven members (including the Chairman or any Functions of
+(2) Subject to this section, every member of the Council shall hold office for such period as is specified in the instrument or other document appointing him, and he shall be eligible for re-appointment.
+
+(3) Seven members (including the Chairman or any
 
 L.R.O. 1/2012
-
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
-
 28
 
 Cap. 39:01
@@ -785,38 +1005,37 @@ LAWS OF GUYANA
 
 Education
 
-- the Council. [9 of 1976] the Minister in respect of such matters.
+other member acting as such) shall form a quorum at any meeting of the Council.
 
-Extraordinary meetings of the
+(4) If any member of the Council—
 
-- Council.
-
-other  member  acting  as  such)  shall  form  a  quorum  at  any meeting of the Council.
-
-(4) If any member of the Council-
-
-(a) departs from Guyana  without the leave of the Minister; or
+(a) departs from Guyana without the leave of the Minister; or
 
 (b) remains out of Guyana after the expiration of his leave; or
 
-(c) fails  without  reasonable  excuse  (the sufficiency whereof shall be determined by the Minister) to attend six consecutive meetings of the Council,
+(c) fails without reasonable excuse (the sufficiency whereof shall be determined by the Minister) to attend six consecutive meetings of the Council,
 
 he shall cease to be a member of the Council.
 
 (5) The Chairman or a member of the Council may resign his office by writing under his hand addressed to the Minister, but he shall be eligible for re-appointment.
 
-45. The Council shall advise the Minister  upon matters relating to nursery, elementary, secondary, or further education,  and  may  at  any  time  make  recommendations  to
+Functions of the Council.
+[9 of 1976]
 
-46. An extraordinary meeting of the Council shall be summoned by the direction of the Minister or by the secretary on  the  written  request  of  a  majority  of  the  members  of  the Council.
+45. The Council shall advise the Minister upon matters relating to nursery, elementary, secondary, or further education, and may at any time make recommendations to the Minister in respect of such matters.
 
-- Appointment of Secretary. 47. Subject to the approval of the Minister, the Council may appoint a secretary at such salary and on such terms and conditions  as  the  Council  thinks  fit,  and  the  salary  shall  be paid out of moneys provided by Parliament for the purposes of education.
+Extraordinary meetings of the Council.
+
+46. An extraordinary meeting of the Council shall be summoned by the direction of the Minister or by the secretary on the written request of a majority of the members of the Council.
+
+Appointment of Secretary.
+
+47. Subject to the approval of the Minister, the Council may appoint a secretary at such salary and on such terms and conditions as the Council thinks fit, and the salary shall be paid out of moneys provided by Parliament for the purposes of education.
 
 L.R.O. 1/2012
-
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
-
 LAWS OF GUYANA
 
 Education
@@ -831,22 +1050,27 @@ Cap. 39:01
 
 ### GENERAL
 
-Regulations. [7 of 1963 1 of 1975 9 of 1976] | 54. (1) The Minister may from time to time make regulations generally for establishing and maintaining an efficient system of education throughout Guyana.
---- | ---
+Regulations.
+[7 of 1963
+1 of 1975
+9 of 1976]
+
+54.(1) The Minister may from time to time make regulations generally for establishing and maintaining an efficient system of education throughout Guyana.
+
 (2) Without prejudice to the generality of the provisions of subsection (1), the Minister may make regulations for all or any of the following purposes:
-(a) for securing the proper application and distribution of all moneys provided by Parliament for the
-purposes of education;
-(b) for awarding scholarships or other awards or for withholding any such scholarship or award and for controlling persons holding such
+
+(a) for securing the proper application and distribution of all moneys provided by Parliament for the purposes of education;
+
+(b) for awarding scholarships or other awards or for withholding any such scholarship or award and for controlling persons holding such scholarships or awards;
+
 (c) for the government and discipline of all schools of every kind maintained from moneys provided by Parliament.
 
 ___________________
 
 L.R.O. 1/2012
-
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
-
 30
 
 Cap. 39:01
@@ -855,11 +1079,9 @@ LAWS OF GUYANA
 
 Education
 
-s. 14
-
-s. 14
-
 ## FORMS FIRST SCHEDULE
+
+s. 14
 
 ### FORM 1
 
@@ -867,13 +1089,20 @@ s. 14
 
 GUYANA.
 
-The complaint of                                 an attendance officer or other authorised person, taken before me, the undersigned magistrate for the                    district, at                               in the county of                                          this                       day of 20    , who saith that                           residing at                         in the said county, being the parent, within the meaning of the Education Act, of the child named                                      and which child is above the age of five years and under the age of twelve years, has, for the period of                                  next before  the  date  of  this  complaint,  habitually  and  without reasonable  excuse  omitted  to  provide  efficient  elementary education for h         said child, the said                                  in contravention  of  the  said  Act;  and  thereupon  he,  the  said educational district officer or other authorised person, makes application that the said                               may be dealt with according to law.
+The complaint of                                 an attendance officer or other authorised person, taken before me, the undersigned magistrate for the                    district, at                               in the county of                                          this                       day of 20    , who saith that                           residing at                         in the said county, being the parent, within the meaning of the Education Act, of the child named                                      and which child is above the age of five years and under the age of twelve years, has, for the period of                                  next before the date of this complaint, habitually and without reasonable excuse omitted to provide efficient elementary education for his said child, the said                                  in contravention of the said Act; and thereupon he, the said educational district officer or other authorised person, makes application that the said                               may be dealt with according to law.
 
-A.B. Taken before me the day and year and in the place above mentioned.
+A.B.
+
+Taken before me the day and year and in the place above mentioned.
 
 (Signed)
 
+C.D.
+Magistrate
+
 ____________________
+
+s. 14
 
 ### FORM 2
 
@@ -885,16 +1114,10 @@ County of
 
 Be it remembered that on the                     day of
 
-C.D.
-
-Magistrate
-
 L.R.O. 1/2012
-
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
-
 LAWS OF GUYANA
 
 Education
@@ -903,20 +1126,21 @@ Cap. 39:01
 
 31
 
-20     , complaint was made before a magistrate for the                    district by                        on attendance officer, or other authorised person, that residing at                     in the county of                                being the  parent,  within  the  meaning  of  the  Education  Act,  of  the child named                                                  who is above the age of five years and under the age of twelve years, had, for the period of                             next before the said                       day of                         20      , habitually and without reasonable excuse omitted to provide efficient  elementary education for the said child, the said                             in contravention of the said Act, and that on the                   day of                               20 , at the court room, at                                in the said county of                                  the matter of the said complaint was heard and investigated by the undersigned magistrate for the district; and now, being satisfied of the truth of that complaint, I do order that the said                                do cause  the  said  child  to  attend  the  school  at  [ here  describe  the school ] being the school which the said parent has selected [ or which, as the parent has not selected any, I have named] on [ here specify how many days on which the child is to attend school ] in each week during which that school shall be open for hours on each such day.
+20     , complaint was made before a magistrate for the                    district by                        an attendance officer, or other authorised person, that residing at                     in the county of                                being the parent, within the meaning of the Education Act, of the child named                                                  who is above the age of five years and under the age of twelve years, had, for the period of                             next before the said                       day of                         20      , habitually and without reasonable excuse omitted to provide efficient elementary education for the said child, the said                             in contravention of the said Act, and that on the                   day of                               20      , at the court room, at                                in the said county of                                  the matter of the said complaint was heard and investigated by the undersigned magistrate for the                    district; and now, being satisfied of the truth of that complaint, I do order that the said                                do cause the said child to attend the school at [here describe the school] being the school which the said parent has selected [or which, as the parent has not selected any, I have named] on [here specify how many days on which the child is to attend school] in each week during which that school shall be open for            hours on each such day.
 
-Dated this                   day of                            20          , at (Signed)
+Dated this                   day of                            20          , at
 
-C.D. Magistrate
+(Signed)
+
+C.D.
+Magistrate
 
 _____________________
 
 L.R.O. 1/2012
-
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
-
 32
 
 Cap. 39:01
@@ -927,15 +1151,13 @@ Education
 
 s. 15
 
-s. 15
-
 ### FORM 3
 
 #### Complaint against child found habitually wandering
 
 GUYANA.
 
-The complaint of                              an attendance officer, or other authorised person, taken before me, the undersigned magistrate for the                           district, at                            in the county of this                   day of                              20      , who saith that                being a child subject to the provisions of the Education Act, has, for the period of                         next before the date of this complaint, been found within the educational  district  habitually  wandering, [ or not under proper control, or in  the company of rogues or vagabonds or disorderly persons or reputed criminals, as  the circumstances of the case may require ].
+The complaint of                              an attendance officer, or other authorised person, taken before me, the undersigned magistrate for the                           district, at                            in the county of                              this                   day of                              20      , who saith that                being a child subject to the provisions of the Education Act, has, for the period of                         next before the date of this complaint, been found within the                              educational district habitually wandering, [or not under proper control, or in the company of rogues or vagabonds or disorderly persons or reputed criminals, as the circumstances of the case may require].
 
 A.B.
 
@@ -943,9 +1165,12 @@ Taken before me the day and year and at the place first above mentioned.
 
 (Signed)
 
-C.D. Magistrate
+C.D.
+Magistrate
 
 ____________________
+
+s. 15
 
 ### FORM 4
 
@@ -958,30 +1183,29 @@ Be it remembered that on the                  day of
 20    , at the court room in the county of                   in pursuance of the Education Act, I,                       magistrate for
 
 L.R.O. 1/2012
-
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
-
 LAWS OF GUYANA
+
+Education
 
 Cap. 39:01
 
 33
 
-s. 16
+the                district, do order that                                       being a child subject to the provisions of section 15 of the said Act, do attend the public elementary school at                          being the school which the parent of the said child has selected [or which, as the parent of the said child has not selected any, I have named] for                     days in each week during which that school shall be open for                  hours on each of those days, [or be sent to the industrial school at                  or be delivered to his parent].
 
-Education
+Dated this                      day of                               20       .
 
-the                district, do order that                                       being a child subject to the provisions of section 15 of the said Act, do attend the public elementary school at                          being the school which the parent of the said child has selected [ or which, as the parent of the said child has not selected any, I have named] for                     days in each week during which that school shall be open for                  hours on each of those days, [ or be sent to the industrial school at or be delivered to his parent].
-
-Dated this                      day of                               20       . (Signed)
+(Signed)
 
 C.D.
-
 Magistrate
 
 ___________________
+
+s. 16
 
 ### FORM 5
 
@@ -989,14 +1213,12 @@ ___________________
 
 GUYANA.
 
-The complaint of an attendance officer or other authorised person, taken before me, the undersigned magistrate for the                         district, at                            in the county of this                   day of                        20      , who saith that heretofore on the                     day of 20      , an order was made by                                   , magistrate for the district, that                                  being the parent, within the meaning of the Education Act, of the child named should  cause  the  said  child to attend, and that the said child should attend, the school at therein named, in the manner specified in the said order. and that the said                       now residing at                            in the county of                            has, for the period of                           next before the date of this s. 16
+The complaint of                                 an attendance officer or other authorised person, taken before me, the undersigned magistrate for the                         district, at                            in the county of                            this                   day of                        20      , who saith that heretofore on the                     day of 20      , an order was made by                                   , magistrate for the                          district, that                                  being the parent, within the meaning of the Education Act, of the child named                                      should cause the said child to attend, and that the said child should attend, the school at                                  therein named, in the manner specified in the said order. and that the said                       now residing at                            in the county of                            has, for the period of                           next before the date of this
 
 L.R.O. 1/2012
-
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
-
 34
 
 Cap. 39:01
@@ -1005,36 +1227,35 @@ LAWS OF GUYANA
 
 Education
 
-complaint, failed, without reasonable excuse, to comply with the said order in contravention of the said Act, and thereupon he,  the  said  attendance  officer,  or  other  authorised  person, makes application that the said                            may be dealt with according to law.
+complaint, failed, without reasonable excuse, to comply with the said order in contravention of the said Act, and thereupon he, the said attendance officer, or other authorised person, makes application that the said                            may be dealt with according to law.
 
 A.B.
 
-Taken before me the day and year and at the place abovementioned.
+Taken before me the day and year and at the place above-mentioned.
 
 (Signed)
 
-GUYANA.
-
-Whereas on the complaint of                     an attendance officer, or other authorised person, it has been made to appear to me, the undersigned magistrate for the district,  that  without  any  reasonable  excuse,  the  order  made by                             magistrate for the                             district, requiring that                            residing at                            in the county of                         being the parent, within the meaning of the Education Act, of the child named                          should cause the child to attend, and that the child should attend, the school  therein  named  at  the  times  therein  specified,  has  not
-
 C.D.
-
 Magistrate
 
-NOTE.For  a  second  or  any  subsequent  case  of  non-compliance with  an  order  made  by  a  magistrate  after  the  words 'to  comply with the said order, in contravention of the said Act,' proceed as follows: -and further that he, the said                    heretofore, and before the period mentioned in this complaint, to wit, on the                    day of                               20      , was adjudged to have failed to comply with the said order without reasonable excuse.
+NOTE.—For a second or any subsequent case of non-compliance with an order made by a magistrate after the words “to comply with the said order, in contravention of the said Act,” proceed as follows:—and further that he, the said                    heretofore, and before the period mentioned in this complaint, to wit, on the                    day of                               20      , was adjudged to have failed to comply with the said order without reasonable excuse.
 
 ___________________
+
+s. 16
 
 ### FORM 6
 
 #### Order under section 16
 
-L.R.O. 1/2012
+GUYANA.
 
+Whereas on the complaint of                     an attendance officer, or other authorised person, it has been made to appear to me, the undersigned magistrate for the                         district, that without any reasonable excuse, the order made by                             magistrate for the                             district, requiring that                            residing at                            in the county of                         being the parent, within the meaning of the Education Act, of the child named                          should cause the child to attend, and that the child should attend, the school therein named at the times therein specified, has not
+
+L.R.O. 1/2012
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
-
 LAWS OF GUYANA
 
 Education
@@ -1043,32 +1264,32 @@ Cap. 39:01
 
 35
 
-been  complied  with;  and  whereas  the  said  parent,  the  said has failed to satisfy me that he has used all reasonable efforts to enforce compliance with the said order, I, the said magistrate, do, this                       day of
+been complied with; and whereas the said parent, the said                         has failed to satisfy me that he has used all reasonable efforts to enforce compliance with the said order, I, the said magistrate, do, this                       day of
 
-20     , at                     order the said                          to pay to the said attendance officer, or other authorised person, the sum of                       and if the said sum is not paid forthwith [ or on or before the                   day of                   next] I do order and adjudge the said                        to be imprisoned in the prison at                              in the said county, for the space of            days, unless the said sum shall be sooner paid.
+20     , at                     order the said                          to pay to the said attendance officer, or other authorised person, the sum of                       and if the said sum is not paid forthwith [or on or before the                   day of                   next] I do order and adjudge the said                        to be imprisoned in the prison at                              in the said county, for the space of            days, unless the said sum shall be sooner paid.
 
-Dated this                  day of                      20     , at in the said county.
+Dated this                  day of                      20     , at
+in the said county.
 
 (Signed)
 
 C.D.
-
 Magistrate
 
-NOTE.Where,  in  the first case of  non-compliance,  the magistrate orders the child to be sent to an industrial school, proceed from the words 'has not been complied with' as follows: -and whereas the said parent, the said                                has satisfied me that he has used all reasonable efforts to enforce compliance with the said order, I, the said magistrate, under the  provisions  of  the  said  Act,  do  this                                    day  of 20     , at
+NOTE.—Where, in the first case of non-compliance, the magistrate orders the child to be sent to an industrial school, proceed from the words “has not been complied with” as follows:—and whereas the said parent, the said                                has satisfied me that he has used all reasonable efforts to enforce compliance with the said order, I, the said magistrate, under the provisions of the said Act, do this                                    day of 20     , at
 
-in the county of                      order that the said shall be sent to the industrial school at and there detained until the                   day of                          , 20     .
+in the county of                      order that the said
+shall be sent to the industrial school at
+and there detained until the                   day of                          , 20     .
 
-Where, in the second case of non-compliance, the magistrate orders the child to be sent to an industrial school, proceed from the words in  the  form 'has  not  been  complied  with'  as  follows:-'and whereas the said has been previously adjudged to have  failed,  without  reasonable  excuse  to  comply  with  that order, I, the said magistrate,' as in the last case .
+Where, in the second case of non-compliance, the magistrate orders the child to be sent to an industrial school, proceed from the words in the form “has not been complied with” as follows:—“and whereas the said                                      has been previously adjudged to have failed, without reasonable excuse to comply with that order, I, the said magistrate,” as in the last case.
 
 __________________
 
 L.R.O. 1/2012
-
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
-
 36
 
 Cap. 39:01
@@ -1085,46 +1306,92 @@ s. 20
 
 GUYANA.
 
-The complaint of                      taken before me, the undersigned magistrate for the district, at                           in the county of                       this                 day of                         20     , who saith that                       residing at                          in the said county, did on the                   day of                         20      , take into his employment [ or employ]at                              in the said county, one                           then being a child subject to the  provisions  of  the  Education  Act,  in  contravention  of  the said Act.
+The complaint of                      taken before me, the undersigned magistrate for the                           district, at                           in the county of                       this                 day of                         20     , who saith that                       residing at                          in the said county, did on the                   day of                         20      , take into his employment [or employ] at                              in the said county, one                           then being a child subject to the provisions of the Education Act, in contravention of the said Act.
 
 A.B.
 
-Taken  before  me  this  day  and  year  and  at  the  place above-mentioned.
+Taken before me this day and year and at the place above-mentioned.
 
 (Signed)
+
+C.D.
+Magistrate
 
 ____________________
 
 ## SECOND SCHEDULE NAME OF SCHOOL
 
-St. Matthew's Anglican Providence Grove Anglican Supply Anglican St. Mary's Anglican Goed Fortuin St. Simon's Anglican La Bonne Intention Anglican Lusignan Anglican St. Augustine's Anglican Non Pariel Anglican St. Mark's Anglican Paradise St. Alban's Anglican St. Gabriel's Anglican Bath Settlement Anglican No. 59 Anglican C.D.
-
-Magistrate
+St. Matthew’s Anglican Providence
+Grove Anglican
+Supply Anglican
+St. Mary’s Anglican Goed Fortuin
+St. Simon’s Anglican
+La Bonne Intention Anglican
+Lusignan Anglican
+St. Augustine’s Anglican
+Non Pariel Anglican
+St. Mark’s Anglican Paradise
+St. Alban’s Anglican
+St. Gabriel’s Anglican
+Bath Settlement Anglican
+No. 59 Anglican
 
 L.R.O. 1/2012
-
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
-
 LAWS OF GUYANA
+
+Education
 
 Cap. 39:01
 
 37
 
-Education
-
-Leeds Anglican Dartmouth Anglican (St. Barnabas) Jacklow Anglican Endeavour Anglican St. Mary's Anglican Hackney Kingston Methodist Plaisance Methodist Strath Campbell Methodist Liberty Methodist Christianburg Church of Scotland Cornelia Ida Church of Scotland Mahaica Church of Scotland Belmont Church of Scotland St. Columba's Church of Scotland Manchester Church of Scotland Good Hope Church of Scotland Huist'Dieren Church of Scotland Malgretout Roman Catholic St. Francis Roman Catholic Santa Rosa Roman Catholic Ramjit Canadian Mission Hague Canadian Mission MacGillivary Canadian Mission John Gibson Canadian Mission De Hoop Canadian Mission Biaboo Canadian Mission Novar Canadian Mission Bohemia Canadian Mission No. 56 Canadian Mission Gibson Fisher Canadian Mission Ridge Canadian Mission Maryville Canadian Mission Bethel Congregational Ithaca Congregational No. 5 Congregational Arthurville School St. James Anglican, Waramuri
+Leeds Anglican
+Dartmouth Anglican (St. Barnabas)
+Jacklow Anglican
+Endeavour Anglican
+St. Mary’s Anglican Hackney
+Kingston Methodist
+Plaisance Methodist
+Strath Campbell Methodist
+Liberty Methodist
+Christianburg Church of Scotland
+Cornelia Ida Church of Scotland
+Mahaica Church of Scotland
+Belmont Church of Scotland
+St. Columba’s Church of Scotland
+Manchester Church of Scotland
+Good Hope Church of Scotland
+Huist’Dieren Church of Scotland
+Malgretout Roman Catholic
+St. Francis Roman Catholic
+Santa Rosa Roman Catholic
+Ramjit Canadian Mission
+Hague Canadian Mission
+MacGillivary Canadian Mission
+John Gibson Canadian Mission
+De Hoop Canadian Mission
+Biaboo Canadian Mission
+Novar Canadian Mission
+Bohemia Canadian Mission
+No. 56 Canadian Mission
+Gibson Fisher Canadian Mission
+Ridge Canadian Mission
+Maryville Canadian Mission
+Bethel Congregational
+Ithaca Congregational
+No. 5 Congregational
+Arthurville School
+St. James Anglican, Waramuri
 
 __________________
 
 L.R.O. 1/2012
-
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
-
 38
 
 Cap. 39:01
@@ -1133,61 +1400,64 @@ LAWS OF GUYANA
 
 Education
 
-Citation.
-
-Government schools.
-
-1.
-
 # SUBSIDIARY LEGISLATION
 
 _________________
 
-O.35/1961 43/1961
+O.35/1961
+43/1961
+
 ## EDUCATION (CONTROL AND MANAGEMENT OF SCHOOLS) ORDER
 
 made under section 2
 
-This Order may be cited as the Education (Control
+Citation.
 
-and Management of Schools) Order.
+1. This Order may be cited as the Education (Control and Management of Schools) Order.
 
-2 .  It  is  hereby  declared  that  on  the  1st  day  of  July, 1961,  the  aided  schools  listed  in  the  Schedule  to  this  Order shall, for the purposes of control and management, cease to be aided  schools  and  shall  thereafter  for  the  said  purposes, notwithstanding the provisions of the Act or any regulations made thereunder, be deemed to be government schools under section 32 of the Act.
+Government schools.
+
+2. It is hereby declared that on the 1st day of July, 1961, the aided schools listed in the Schedule to this Order shall, for the purposes of control and management, cease to be aided schools and shall thereafter for the said purposes, notwithstanding the provisions of the Act or any regulations made thereunder, be deemed to be government schools under section 32 of the Act.
 
 ____________________
 
 ### SCHEDULE
 
-St. Matthew's Anglican Providence Grove Anglican Supply Anglican St. Mary's Anglican Goed Fortuin St. Simon's Anglican Plaisance Methodist La Bonne Intention Anglican Lusignan Anglican
+St. Matthew’s Anglican Providence
+Grove Anglican
+Supply Anglican
+St. Mary’s Anglican Goed Fortuin
+St. Simon’s Anglican
+Plaisance Methodist
+La Bonne Intention Anglican
+Lusignan Anglican
 
 L.R.O. 1/2012
-
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
-
 LAWS OF GUYANA
+
+Education
 
 Cap. 39:01
 
 39
 
-Education
+[Subsidiary]
 
-[Subsidiary] | Education (Control and Management of Schools) Order
---- | ---
 St. Augustines Anglican
 Non Pariel Anglican
-St. Mark's Anglican Paradise
-St. Alban's Anglican
-St. Gabriel's Anglican
+St. Mark’s Anglican Paradise
+St. Alban’s Anglican
+St. Gabriel’s Anglican
 Bath Settlement Anglican
 No. 59 Anglican
 Leeds Anglican
 Dartmouth Anglican (St. Barnabas)
 Jacklow Anglican
 Endeavour Anglican
-St. Mary's Anglican Hackney
+St. Mary’s Anglican Hackney
 Kingston Methodist
 Strath Campbell Methodist
 Liberty Methodist
@@ -1195,10 +1465,10 @@ Christianburg Church of Scotland
 Cornelia Ida Church of Scotland
 Mahaica Church of Scotland
 Belmont Church of Scotland
-St. Columba's Church of Scotland
+St. Columba’s Church of Scotland
 Manchester Church of Scotland
 Good Hope Church of Scotland
-Huist'Dieren Church of Scotland
+Huist’Dieren Church of Scotland
 Malgretout Roman Catholic
 St. Francis Roman Catholic
 Santa Rosa Roman Catholic
@@ -1215,48 +1485,60 @@ Gibson Fisher Canadian Mission
 Ridge Canadian Mission
 Maryville Canadian Mission
 
-L.R.O. 1/2012
+Education (Control and Management of Schools) Order
 
+L.R.O. 1/2012
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
-
 40
 
 Cap. 39:01
 
 LAWS OF GUYANA
 
-[Subsidiary]
-
 Education
 
-Education (Control and Management of Schools) Order Education (Extension of Application of Section 34B of the Act) (Richard Ishmael Secondary School) Order
+[Subsidiary]
 
-Order
-
-Bethel Congregational Ithaca Congregational No. 5 Congregational Arthurville School St. James' Anglican, Waramuri
+Bethel Congregational
+Ithaca Congregational
+No. 5 Congregational
+Arthurville School
+St. James’ Anglican,
+Waramuri
 
 ____________________
 
 OO. 3/1996
+
 ## EDUCATION (EXTENSION OF APPLICATION OF SECTION 34B OF THE ACT) (RICHARD ISHMAEL SECONDARY SCHOOL) ORDER
 
 made under section 34B (10)
 
-Citation. | 1. This Order may be cited as the Education (Extension of Application of Section 34B of the Act) (Richard Ishmael Secondary School) Order.
---- | ---
-Extension of application of section 34B of the Act to Richard Ishmael Secondary | 2. Subject to clause 3, the provisions of section 34B of the Act area hereby extended to the Richard Ishmael Secondary School Woolford Avenue, Thomas Lands, Georgetown Demerara:
-Modification of certain provisions of | 3. For the purposes of this Order, section 34B of the Act shall have effect as if-
-34B of the Act for purposes of this Order. | (a) for subsection (1); the following subsection were substituted-
-(1) On the date on which the Education (Extension of Application of Section 34B of the Act) (Richard Ishmael Secondary School) Order'
+Citation.
+
+1. This Order may be cited as the Education (Extension of Application of Section 34B of the Act) (Richard Ishmael Secondary School) Order.
+
+Extension of application of section 34B of the Act to Richard Ishmael Secondary School.
+
+2. Subject to clause 3, the provisions of section 34B of the Act are hereby extended to the Richard Ishmael Secondary School Woolford Avenue, Thomas Lands, Georgetown Demerara:
+
+Modification of certain provisions of 34B of the Act for purposes of this Order.
+
+3. For the purposes of this Order, section 34B of the Act shall have effect as if—
+
+(a) for subsection (1); the following subsection were substituted—
+
+(1) On the date on which the “Education (Extension of Application of Section 34B of the Act) (Richard Ishmael Secondary School) Order”
+
+Education (Control and Management of Schools) Order
+Education (Extension of Application of Section 34B of the Act) (Richard Ishmael Secondary School) Order
 
 L.R.O. 1/2012
-
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
-
 LAWS OF GUYANA
 
 Education
@@ -1267,66 +1549,69 @@ Cap. 39:01
 
 [Subsidiary]
 
-Education (Extension of Application of Section 34B of the Act) (Richard Ishmael Secondary School) Order
+comes into operation (hereinafter in this section referred to as “the appointed date”) the secondary school known as the Richard Ishmael Secondary School shall thereupon be deemed to be a government secondary school.
 
-comes into operation (hereinafter in this section referred to as the appointed date') the secondary school known  as  the  Richard  Ishmael Secondary School shall thereupon  be  deemed  to  be  a government secondary school.
-
-(b) in  the  opening part of subsection (2), for  the  words  'an  aided  school',  the words  'Richard  Ishmael  Secondary School' were substituted;
+(b) in the opening part of subsection (2), for the words “an aided school”, the words “Richard Ishmael Secondary School” were substituted;
 
 (c) subsections (3) and (9) were deleted;
 
-(d) in subsection (6), for the words 'Every governing body or manager of an aided  school',  the  words  'The governing  body  or  manager  of  the Richard  Ishmael  Secondary  School' were substituted;
+(d) in subsection (6), for the words “Every governing body or manager of an aided school”, the words “The governing body or manager of the Richard Ishmael Secondary School” were substituted;
 
-(e) in subsection (7), for the word 'every' the  word  'the'  were  substituted  and for the words  'aided  schools  and vested  in  the  State  under  subsection (2)  (c)',  the  words  'Richard  Ishmael Secondary  School  vested  in  the  State under  subsection  (2)  (b)  (iii)',  were substituted;
+(e) in subsection (7), for the word “every” the word “the” were substituted and for the words “aided schools and vested in the State under subsection (2) (c)”, the words “Richard Ishmael Secondary School vested in the State under subsection (2) (b) (iii)”, were substituted;
 
-(f) in subsection (8), for the words 'aided schools and the governing bodies and managers',  the  words  'the  Richard Ishmael  Secondary  School  governing body and manager' were substituted;
+(f) in subsection (8), for the words “aided schools and the governing bodies and managers”, the words “the Richard Ishmael Secondary School governing body and manager” were substituted;
+
+Education (Extension of Application of Section 34B of the Act) (Richard Ishmael Secondary School) Order
 
 L.R.O. 1/2012
-
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
-
 42
 
 Cap. 39:01
 
 LAWS OF GUYANA
 
-[Subsidiary]
-
 Education
 
-Education (Vesting of land in the State) (Richard Ishmael Secondary School) Order
+[Subsidiary]
 
-(g) for  the  words  'government  school', wherever they appear, there were substituted  the  words  'government secondary school'.
+(g) for the words “government school”, wherever they appear, there were substituted the words “government secondary school”.
 
 _____________________
 
 O. 7/1996
+
 ## EDUCATION (VESTING OF LAND IN THE STATE) (RICHARD ISHMAEL SECONDARY SCHOOL) ORDER
 
 made under section 34B (4) and (10)
 
-Citation. | 1. This Order may be cited as the Education (Vesting of Land in the State) (Richard Ishmael Secondary School) Order.
---- | ---
-Land vested by Order in the state. | 2. The land described in the Schedule and appurtenant to the schoolhouse Richard Ishmael Secondary School, to which the application of section 34B of the Act is extended by the Education (Extension of Application of Section 34B of the Act) (Richard Ishmael Secondary School) Order and in consequence of which order this order is made, is hereby vested in the State without further assurance.
+Citation.
+
+1. This Order may be cited as the Education (Vesting of Land in the State) (Richard Ishmael Secondary School) Order.
+
+Land vested by Order in the state.
+
+2. The land described in the Schedule and appurtenant to the schoolhouse Richard Ishmael Secondary School, to which the application of section 34B of the Act is extended by the Education (Extension of Application of Section 34B of the Act) (Richard Ishmael Secondary School) Order and in consequence of which order this order is made, is hereby vested in the State without further assurance.
 
 ____________________
 
 ### SCHEDULE
 
-The  tract  of  land  situate  at  and  being  a  part  of  that portion of Plantation Thomas known as Nonpareil Park, the boundaries of which are as follows-
+The tract of land situate at and being a part of that portion of Plantation Thomas known as Nonpareil Park, the boundaries of which are as follows—
 
-Commencing at  a  wooden  paal  RMW  N  105˚  11' (true) 61 from an iron paal DLM marking the
+Commencing at a wooden paal RMW N 105° 11′ (true) 61 ft. from an iron paal DLM marking the
+
+Education (Vesting of land in the State) (Richard Ishmael Secondary School) Order
 
 L.R.O. 1/2012
-
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
-
 LAWS OF GUYANA
+
+Education
 
 Cap. 39:01
 
@@ -1334,201 +1619,225 @@ Cap. 39:01
 
 [Subsidiary]
 
-Education
-
-Education (Vesting of land in the State) (Richard Ishmael) Order Education (Extension of Application of Section 34B of the Act) (Berbice Educational Institute) Order
-
-north-western boundary of the tract of land surveyed and shown laid down on a plan made by R.M.  Wong,  Public  Works  Department  Surveyor, dated  21 st   September,  1950  and  extending,  thence N 105 ˚ 11' (true) 1115 ft., thence N 195 ˚ 11' (true) 175 ft., thence N 285 ˚ 11' (true) 1115 ft., thence N 15 ˚ 11' (true) 175 ft., back
-
-to  the  point  of  commencement  and  having  an  area  of  4.479 acres, as shown on a plan by S.S.M. Insanally, dated 23 rd  July, 1951, and recorded in the Department of Lands and Mines as Plan No. 5951.
+north-western boundary of the tract of land surveyed and shown laid down on a plan made by R.M. Wong, Public Works Department Surveyor, dated 21st September, 1950 and extending, thence N 105° 11′ (true) 1115 ft., thence N 195° 11′ (true) 175 ft., thence N 285° 11′ (true) 1115 ft., thence N 15° 11′ (true) 175 ft., back to the point of commencement and having an area of 4.479 acres, as shown on a plan by S.S.M. Insanally, dated 23rd July, 1951, and recorded in the Department of Lands and Mines as Plan No. 5951.
 
 ____________________
 
 O. 36/1996
+
 ## EDUCATION (EXTENSION OF APPLICATION OF SECTION 34B OF THE ACT) (BERBICE EDUCATIONAL INSTITUTE) ORDER
 
 made under section 34B (10)
 
-Citation. | 1. This Order may be cited as the Education (Extension of Application of Section 34B of the Act) (Berbice Educational Institute) Order.
---- | ---
-Extension of application of section 34B of the Act to Berbice Educational Institute. | 2. Subject to clause 3, the provisions of section 34B of the Act area hereby extended to the Berbice Educational Institute, Town Savannah, New Amsterdam, Berbice, Guyana.
-Modification of certain provisions of 34B of the Act for purposes of | 3. For the purposes of this Order, section 34B of the Act shall have effect as if- (a) for subsection (1); the following
+Citation.
+
+1. This Order may be cited as the Education (Extension of Application of Section 34B of the Act) (Berbice Educational Institute) Order.
+
+Extension of application of section 34B of the Act to Berbice Educational Institute.
+
+2. Subject to clause 3, the provisions of section 34B of the Act are hereby extended to the Berbice Educational Institute, Town Savannah, New Amsterdam, Berbice, Guyana.
+
+Modification of certain provisions of 34B of the Act for purposes of this Order.
+
+3. For the purposes of this Order, section 34B of the Act shall have effect as if—
+
+(a) for subsection (1); the following
+
+Education (Vesting of land in the State) (Richard Ishmael) Order
+Education (Extension of Application of Section 34B of the Act) (Berbice Educational Institute) Order
 
 L.R.O. 1/2012
-
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
-
-LAWS OF GUYANA
-
 44
 
 Cap. 39:01
 
+LAWS OF GUYANA
+
 Education
 
-[Subsidiary] | Education (Extension of Application of Section 34B of the Act) (Berbice Educational Institute) Order
---- | ---
-this Order. | subsection were substituted- (1) On the date on which the Education (Extension of Application of Section 34B of the Act) (Berbice Educational Institute) Order' comes into operation (hereinafter in this section referred to as 'the appointed date') the secondary school known as the Berbice Educational Institute shall thereupon be deemed to be a government secondary school.
-(b) in the opening part of subsection (2), for the words 'an aided school', the words 'Berbice Educational Institute'
+[Subsidiary]
+
+subsection were substituted—
+
+(1) On the date on which the “Education (Extension of Application of Section 34B of the Act) (Berbice Educational Institute) Order” comes into operation (hereinafter in this section referred to as “the appointed date”) the secondary school known as the Berbice Educational Institute shall thereupon be deemed to be a government secondary school.
+
+(b) in the opening part of subsection (2), for the words “an aided school”, the words “Berbice Educational Institute” were substituted;
+
 (c) subsections (3) and (9) were deleted;
-(d) in subsection (6), for the words 'Every governing body or manager of an aided school', the words 'The governing body or manager of the Berbice Educational Institute' were
-(e) in subsection (7), for the word 'every' the word 'the' were substituted and for the words 'aided schools and vested in the State under subsection (2) (c)', the words 'Berbice Educational Institute vested in the State under subsection (2) (b) (iii)', were substituted;
-(f) in subsection (8), for the words 'aided
+
+(d) in subsection (6), for the words “Every governing body or manager of an aided school”, the words “The governing body or manager of the Berbice Educational Institute” were substituted;
+
+(e) in subsection (7), for the word “every” the word “the” were substituted and for the words “aided schools and vested in the State under subsection (2) (c)”, the words “Berbice Educational Institute vested in the State under subsection (2) (b) (iii)”, were substituted;
+
+(f) in subsection (8), for the words “aided
+
+Education (Extension of Application of Section 34B of the Act) (Berbice Educational Institute) Order
 
 L.R.O. 1/2012
-
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
-
 LAWS OF GUYANA
+
+Education
 
 Cap. 39:01
 
 45
 
-Education
+[Subsidiary]
 
-[Subsidiary] | schools and the governing bodies managers', the words 'the Education (Extension of Application of Section 34B of the Act) (Berbice Educational Institute) Order Education (Extension of Application of Section 34B of the Act) (Tagore Memorial Secondary School) Order
---- | ---
-and Berbice Educational Institute governing body and manager' were substituted;
-(g) for the words 'government school', wherever they appear, there were substituted the words 'government secondary school'.
+schools and the governing bodies and managers”, the words “the Berbice Educational Institute governing body and manager” were substituted;
+
+(g) for the words “government school”, wherever they appear, there were substituted the words “government secondary school”.
 
 ____________________
 
 O. 11/1997
+
 ## EDUCATION (EXTENSION OF APPLICATION OF SECTION 34B OF THE ACT) (TAGORE MEMORIAL SECONDARY SCHOOL) ORDER
 
 made under section 34B (10)
 
-Citation. | 1. This Order may be cited as the Education (Extension of Application of Section 34B of the Act) (Tagore Memorial Secondary School) Order.
---- | ---
-Extension of application of section 34B of the Act to Tagore Memorial Secondary School. | 2. Subject to clause 3, the provisions of section 34B of the Act area hereby extended to the Tagore Memorial Secondary School, No. 63 Village, Corentyne, Berbice.
-Modification of certain provisions of | 3. For the purposes of this Order, section 34B of the Act shall have effect as if-
-34B of the Act for purposes of this Order. | (a) for subsection (1); the following subsection were substituted-
+Citation.
+
+1. This Order may be cited as the Education (Extension of Application of Section 34B of the Act) (Tagore Memorial Secondary School) Order.
+
+Extension of application of section 34B of the Act to Tagore Memorial Secondary School.
+
+2. Subject to clause 3, the provisions of section 34B of the Act are hereby extended to the Tagore Memorial Secondary School, No. 63 Village, Corentyne, Berbice.
+
+Modification of certain provisions of 34B of the Act for purposes of this Order.
+
+3. For the purposes of this Order, section 34B of the Act shall have effect as if—
+
+(a) for subsection (1); the following subsection were substituted—
+
+Education (Extension of Application of Section 34B of the Act) (Berbice Educational Institute) Order
+Education (Extension of Application of Section 34B of the Act) (Tagore Memorial Secondary School) Order
 
 L.R.O. 1/2012
-
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
-
-LAWS OF GUYANA
-
 46
 
 Cap. 39:01
 
+LAWS OF GUYANA
+
 Education
 
+[Subsidiary]
+
+(1) On the date on which the “Education (Extension of Application of Section 34B of the Act) (Tagore Memorial Secondary School) Order” comes into operation (hereinafter in this section referred to as “the appointed date”) the secondary school known as the Tagore Memorial Secondary School shall thereupon be deemed to be a government secondary school.
+
+(b) in the opening part of subsection (2), for the words “an aided school”, the words “Tagore Memorial Secondary School” were substituted;
+
+(c) subsections (3) and (9) were deleted;
+
+(d) in subsection (6), for the words “Every governing body or manager of an aided school”, the words “The governing body or manager of the Tagore Memorial Secondary School” were substituted;
+
+(e) in subsection (7), for the word “every” the word “the” were substituted and for the words “aided schools and vested in the State under subsection (2) (c)”, the words “Tagore Memorial Secondary School vested in the State under subsection (2) (b) (iii)”, were substituted;
+
 Education (Extension of Application of Section 34B of the Act) (Tagore Memorial Secondary School) Order
----
-(1) On the Education Application the Act) Secondary comes (hereinafter referred date') known
-(b) in the for the
-Secondary thereupon government opening words 'an words 'Tagore School' were substituted;
-(c)
-subsections (d) in
-'Every an governing
-Tagore were (e)
-in the for (2)
-under
-vested
-the (c)',
-word
-subsection
-(7), for 'the' were
-words
-in
-the
-the
-words School
-Secondary
-subsection
 
 L.R.O. 1/2012
-
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
-
 LAWS OF GUYANA
+
+Education
 
 Cap. 39:01
 
 47
 
-Education
+[Subsidiary]
 
-[Subsidiary] | Education (Extension of Application of Section 34B of the Act) (Tagore Memorial Secondary School) Order Education (Vesting of Land in the State) (Tagore Memorial Secondary School) Order
---- | ---
-(f) in subsection (8), for the words 'aided schools and the governing bodies and managers', the words 'the Richard Ishmael Secondary School governing
-(g) for the words 'government school', wherever they appear, there were substituted the words 'government secondary school'.
+(f) in subsection (8), for the words “aided schools and the governing bodies and managers”, the words “the Richard Ishmael Secondary School governing body and manager” were substituted;
 
-O. 29/1997 |
+(g) for the words “government school”, wherever they appear, there were substituted the words “government secondary school”.
+
+_____________________
+
+O. 29/1997
+
 ## EDUCATION (VESTING OF LAND IN THE STATE) (TAGORE MEMORIAL SECONDARY SCHOOL) ORDER
+
 made under 34B (4) and (10)
---- | ---
-Citation. | 1. This Order may be cited as the Education (Vesting of Land in the State) (Tagore Memorial Secondary School) Order.
-Land vested in the State by Order. | 2. The land described in the Schedule and appurtenant to the schoolhouse Richard Ishmael Secondary School, to which the application of section 34B of the Act is extended by the Education (Extension of Application of Section 34B of the Act) (Tagore Memorial Secondary School) Order and in consequence of which order this order is made, is hereby vested in the State without further assurance.
+
+Citation.
+
+1. This Order may be cited as the Education (Vesting of Land in the State) (Tagore Memorial Secondary School) Order.
+
+Land vested in the State by Order.
+
+2. The land described in the Schedule and appurtenant to the schoolhouse Richard Ishmael Secondary School, to which the application of section 34B of the Act is extended by the Education (Extension of Application of Section 34B of the Act) (Tagore Memorial Secondary School) Order and in consequence of which order this order is made, is hereby vested in the State without further assurance.
 
 ### SCHEDULE
 
-The  tract  of  land  situate  on  Corentyne  coast  in  the County of Berbice and being a portion of South Half Lot No.
+The tract of land situate on Corentyne coast in the County of Berbice and being a portion of South Half Lot No.
+
+Education (Extension of Application of Section 34B of the Act) (Tagore Memorial Secondary School) Order
+Education (Vesting of Land in the State) (Tagore Memorial Secondary School) Order
 
 L.R.O. 1/2012
-
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
-
 48
 
 Cap. 39:01
 
 LAWS OF GUYANA
 
-[Subsidiary]
-
-Citation.
-
-Land vested by Order in the state.
-
 Education
 
-Education (Vesting of Land in the State) (Tagore Memorial Secondary School) Order Education (Vesting of Land in the State) (Berbice Educational Institute) Order
+[Subsidiary]
 
-63 Beach Benab the description of which is as follows-
+63 Beach Benab the description of which is as follows—
 
-Block S Area - 2.0 acres and
+Block S Area – 2.0 acres and
 
-Block T Area - 2.783 acres
+Block T Area – 2.783 acres
 
-as shown on a plan by R. T. John, Government Land Surveyor dated 24 th  July, 1997.
+as shown on a plan by R. T. John, Government Land Surveyor dated 24th July, 1997.
 
 ____________________
 
 O. 7/1998
+
 ## EDUCATION (VESTING OF LAND IN THE STATE) (BERBICE EDUCATIONAL INSTITUTE) ORDER
 
 made under section 34B (4) and (10)
 
+Citation.
+
 1. This Order may be cited as the Education (Vesting of Land in the Sate) (Berbice Educational Institute) Order.
 
-2. The Land described in the schedule and appurtenant to the school-house of the Berbice Educational Institute, to which the application of section 34B of the Act is extended  by  the  education  (Extension  of  Application  of Section 34B of the Act) (Berbice Educational Institute) Order, and  in  consequence  of  which  order  this  Order  is  made,  is hereby vested in the State without further assurance.
+Land vested by Order in the state.
+
+2. The Land described in the schedule and appurtenant to the school—house of the Berbice Educational Institute, to which the application of section 34B of the Act is extended by the education (Extension of Application of Section 34B of the Act) (Berbice Educational Institute) Order, and in consequence of which order this Order is made, is hereby vested in the State without further assurance.
 
 ### SCHEDULE
 
-The portion of land known as tract 'A', being a portion of  Grant  No.  2596  known  as  Stanleytown,  Savannah,  New Amsterdam,  Berbice,  containing  an  area  of  3.7  acres  in  the Town of New Amsterdam and County of Berbice as shown on  a  plan  by  No.  10109  dated  9 th   November,  1961  by  M.
+The portion of land known as tract “A”, being a portion of Grant No. 2596 known as Stanleytown, Savannah, New Amsterdam, Berbice, containing an area of 3.7 acres in the Town of New Amsterdam and County of Berbice as shown on a plan by No. 10109 dated 9th November, 1961 by M.
+
+Education (Vesting of Land in the State) (Tagore Memorial Secondary School) Order
+Education (Vesting of Land in the State) (Berbice Educational Institute) Order
 
 L.R.O. 1/2012
-
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
-
 LAWS OF GUYANA
+
+Education
 
 Cap. 39:01
 
@@ -1536,61 +1845,66 @@ Cap. 39:01
 
 [Subsidiary]
 
-O. 35/1999
-
-Education
-
-Education (Vesting of Land in the State) (Berbice Educational Institute) Order Education (Extension of Application of Section 34B of the Act) (Sheet Anchor Primary School) Order
-
-Rahaman,  Sworn  Land  Surveyor, and deposited in the Department of Lands and Mines on 30 th  November, 1961.
+Rahaman, Sworn Land Surveyor, and deposited in the Department of Lands and Mines on 30th November, 1961.
 
 ____________________
+
+O. 35/1999
 
 ## EDUCATION (EXTENSION OF APPLICATION OF SECTION 34B OF THE ACT) (SHEET ANCHOR PRIMARY SCHOOL) ORDER
 
 made under section 34B (10)
 
-Citation. | 1. This Order may be cited as the Education (Extension of Application of Section 34B of the Act) (Sheet Anchor Primary School) Order.
---- | ---
-Extension of application of section 34B of the Act to Sheet Anchor Primary | 2. Subject to clause 3, the provisions of section 34B of the Act area hereby extended to the Sheet Anchor Primary School, Sheet Anchor Village, East Canje, Berbice.
-Modification of certain provisions of 34B of the Act | 3. For the purposes of this Order, section 34B of the Act shall have effect as if-
-for purposes of this Order. | (a) for subsection (1); the following subsection were substituted-
-(1) On the date on which the Education (Extension of Application of Section 34B of the Act) (Sheet Anchor Primary School) Order' comes into operation (hereinafter in this section referred to as 'the appointed date') the secondary school known as the Sheet
+Citation.
+
+1. This Order may be cited as the Education (Extension of Application of Section 34B of the Act) (Sheet Anchor Primary School) Order.
+
+Extension of application of section 34B of the Act to Sheet Anchor Primary School.
+
+2. Subject to clause 3, the provisions of section 34B of the Act are hereby extended to the Sheet Anchor Primary School, Sheet Anchor Village, East Canje, Berbice.
+
+Modification of certain provisions of 34B of the Act for purposes of this Order.
+
+3. For the purposes of this Order, section 34B of the Act shall have effect as if—
+
+(a) for subsection (1); the following subsection were substituted—
+
+(1) On the date on which the “Education (Extension of Application of Section 34B of the Act) (Sheet Anchor Primary School) Order” comes into operation (hereinafter in this section referred to as “the appointed date”) the secondary school known as the Sheet
+
+Education (Vesting of Land in the State) (Berbice Educational Institute) Order
+Education (Extension of Application of Section 34B of the Act) (Sheet Anchor Primary School) Order
 
 L.R.O. 1/2012
-
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
-
 50
 
 Cap. 39:01
 
 LAWS OF GUYANA
 
-[Subsidiary]
-
 Education
 
-Education (Extension of Application of Section 34B of the Act) (Sheet Anchor Primary School) Order
+[Subsidiary]
 
-Anchor  Primary  School  shall thereupon  be  deemed  to  be  a government secondary school.
+Anchor Primary School shall thereupon be deemed to be a government secondary school.
 
-(b) in  the  opening part of subsection (2), for  the  words  'an  aided  school',  the words 'Sheet Anchor Primary School' were substituted;
+(b) in the opening part of subsection (2), for the words “an aided school”, the words “Sheet Anchor Primary School” were substituted;
 
 (c) subsections (3) and (9) were deleted;
 
-(d) in subsection (6), for the words 'Every governing body or manager of an aided  school',  the  words  'The governing  body  or  manager  of  the Sheet  Anchor  Primary  School'  were substituted;
+(d) in subsection (6), for the words “Every governing body or manager of an aided school”, the words “The governing body or manager of the Sheet Anchor Primary School” were substituted;
 
-(e) in subsection (7), for the word 'every' the  word  'the'  were  substituted  and for the words  'aided  schools  and vested  in  the  State  under  subsection (2) (c)',  the  words  'Sheet  Anchor Primary  School  vested  in  the  State under  subsection  (2)  (b)  (iii)',  were substituted;
+(e) in subsection (7), for the word “every” the word “the” were substituted and for the words “aided schools and vested in the State under subsection (2) (c)”, the words “Sheet Anchor Primary School vested in the State under subsection (2) (b) (iii)”, were substituted;
 
-(f) in subsection (8), for the words 'aided schools and the governing bodies and managers', the words 'the Sheet Anchor Primary School governing body and manager' were substituted;
+(f) in subsection (8), for the words “aided schools and the governing bodies and managers”, the words “the Sheet Anchor Primary School governing body and manager” were substituted;
 
-(g) for  the  words  'government  school', wherever they appear, there were substituted the words 'government
+(g) for the words “government school”, wherever they appear, there were substituted the words “government
+
+Education (Extension of Application of Section 34B of the Act) (Sheet Anchor Primary School) Order
 
 L.R.O. 1/2012
-
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
@@ -1607,7 +1921,7 @@ Education
 
 [Sub-subtitle of Legislation] Teachers' Fine Fund Regulations
 
-secondary school'.
+secondary school”.
 
 _______________________
 
@@ -1680,13 +1994,13 @@ Cap. 39:01
 
 Blair Scholarships Regulations
 
-(b) | if not a native of Guyana, for a period of not less than five years immediately preceding the first day of
+(b) if not a native of Guyana, for a period of not less than five years immediately preceding the first day of the examination.
 --- | ---
 Test examination. | 6. The test examination for the scholarship shall be fixed by the Trustees from time to time.
 Trustees to award scholarship. | 7. The award of the scholarship shall be made by the Trustees.
 Value and tenure of scholarship. | 8. The scholarship shall be of the value of $48 per year for five years and shall be tenable at any secondary school approved by the Trustees. Extension of the scholarship for one year may be sanctioned at the discretion of the Trustees.
 Payment of school fees. | 9. The sum due in respect of each scholarship shall be paid in three equal terminal instalments. The Trustees shall deduct from each instalment all amounts due for school fees and pay these direct to the principal of the approved school. Any balance of the instalments remaining in hand after payment of such fees shall be paid by the Trustees to the parent or guardian of the scholar.
-Scholarship not to be held with any other scholarship, etc. | 10 . No boy or girl who holds any other scholarship or is in receipt of any other aid towards the cost of his or her education which is administered by the Education Department or by any other public department or officer shall the same time hold a Blair Scholarship.
+Scholarship not to be held with any other scholarship, etc. | 10. No boy or girl who holds any other scholarship or is in receipt of any other aid towards the cost of his or her education which is administered by the Education Department or by any other public department or officer shall at the same time hold a Blair Scholarship.
 Supervision of scholars. | 11. Every Blair Scholar shall be under the general supervision of the Trustees to whom the parent or guardian of each scholar shall send at the end of each term a certificate of good conduct and satisfactory progress from the principal of the school attended. Failure to obtain such a certificate may, at the discretion of the Trustees, entail a suspension of all the rights and privileges of a scholar, for one or more terms, and two consecutive failures to obtain such a certificate
 
 L.R.O. 1/2012
@@ -1719,33 +2033,37 @@ ___________________
 
 REGULATION
 
-- Citation.
+1. Citation.
 
-- Change of name of institution.
+2. Change of name of institution.
 
-- Control and management.
+3. Control and management.
 
-- Age on admission.
+4. Age on admission.
 
-- Examination of candidates prior to admission.
+5. Examination of candidates prior to admission.
 
-- Fees.
+6. Fees.
 
-- Award of scholarships and exhibitions.
+7. Award of scholarships and exhibitions.
 
-- Curriculum and courses of instruction.
+8. Curriculum and courses of instruction.
 
-- Control of the Principal.
+9. Control of the Principal.
 
-- Ordinary vacations.
+10. Ordinary vacations.
 
 ________________________
 
-Reg. 14/12/1939 7/`947, 20/1947 23/1951, 25/1955 26/1958 |
+Reg. 14/12/1939
+7/1947, 20/1947
+23/1951,
+25/1955
+26/1958 |
 ## CARNEGIE SCHOOL OF HOME ECONOMICS REGULATIONS
 made under section 54
 --- | ---
-Citation. [Reg.26/1958] | 1. These Regulations may be cited as the Carnegie School of Home citation. Economics Regulations.
+Citation. [Reg.26/1958] | 1. These Regulations may be cited as the Carnegie School of Home Economics Regulations.
 Change of name of institution. [Reg. 26/1958] | 2 . The institution heretofore known as 'the Carnegie Trade School for Women,' which has been established in the City of Georgetown out of funds provided by the Carnegie Corporation of New York and which is now maintained out of moneys provided by Parliament for the purposes of
 
 L.R.O. 1/2012
@@ -1768,10 +2086,10 @@ Carnegie School of Home Economics Regulations
 
 education shall henceforth be known as 'The Carnegie School of Home Economics.'
 
-Control and management. [Reg. 26/1958] | 3. (1) The control and management of the Carnegie School of Home Economics shall be vested in a Board of Governors hereinafter referred to as 'the Board.' (2) The Board shall consist of not less than six and of not more than nine members. (3) The Chief Education Officer shall, ex officio , be a member and the Chairman of the Board. (4) The Principal of the Carnegie School of Home Economics, hereinafter referred to as 'the Principal,' shall be a member of the Board, but she shall not have the right to vote on questions under consideration by the Board. (5) Subject to paragraphs (3) and (4), every member of the Board shall be appointed by the Minister, and shall hold office for two years from the date of his appointment and shall be eligible for re-appointment. (6) Five members (including the presiding
+Control and management. [Reg. 26/1958] | 3. (1) The control and management of the Carnegie School of Home Economics shall be vested in a Board of Governors hereinafter referred to as “the Board.” (2) The Board shall consist of not less than six and of not more than nine members. (3) The Chief Education Officer shall, ex officio, be a member and the Chairman of the Board. (4) The Principal of the Carnegie School of Home Economics, hereinafter referred to as “the Principal,” shall be a member of the Board, but she shall not have the right to vote on questions under consideration by the Board. (5) Subject to paragraphs (3) and (4), every member of the Board shall be appointed by the Minister, and shall hold office for two years from the date of his appointment and shall be eligible for re-appointment. (6) Five members (including the presiding member) shall form a quorum.
 --- | ---
 Age on admission. [Reg. 20/1947 25/1955] | 4. No candidate shall be admitted until she has attained the age of 15 years: Provided that the Principal shall have the power, in special circumstances, to admit candidates who have not attained this age, but in no circumstances shall a candidate be admitted under 14 years of age.
-Examination of candidates prior to admission. | 5. (1) All candidates will be required to undergo a test examination before admission, such test to be conducted by the Principal.
+Examination of candidates prior to admission. [Reg. 23/1951 | 5. (1) All candidates will be required to undergo a test examination before admission, such test to be conducted by the Principal.
 
 L.R.O. 1/2012
 
@@ -1832,21 +2150,21 @@ ___________________
 
 REGULATION
 
-- Citation.
+## PART I PRELIMINARY
 
-- Interpretation.
+1. Citation.
 
-- School year.
+2. Interpretation.
 
-- Duties and powers of education officers.
+3. School year.
+
+4. Duties and powers of education officers.
 
 ## PART II CONTROL AND MANAGEMENT OF SCHOOLS
 
-- Religious denominations and governing bodies.
+5. Religious denominations and governing bodies.
 
-- Nomination of managers by governing bodies; powers of managers.
-
-## PART I PRELIMINARY
+6. Nomination of managers by governing bodies; powers of managers.
 
 L.R.O. 1/2012
 
@@ -1861,6 +2179,64 @@ Cap. 39:01
 LAWS OF GUYANA
 
 Education
+
+[Subsidiary]
+
+Education Code Regulations
+
+REGULATION
+
+7. Persons who may not serve on governing bodies or as managers.
+
+8. Obligation of managers to visit schools.
+
+## PART III SCHOOL PREMISES, LATRINES, EQUIPMENT
+
+9. Requirements regarding floor space, etc.
+
+10. Use of churches as schools.
+
+11. School grounds.
+
+12. Water supply.
+
+13. Latrines.
+
+14. Removal, erection, and reconstruction of schools.
+
+## PART IV GRANTS
+
+15. Grants for buildings, etc.
+
+16. Provision of furniture and educational supplies.
+
+(1) Supply of furniture, equipment, etc.
+
+(2) Cleanliness of furniture, etc.
+
+17. Grants for teaching East Indian languages.
+
+18. Grants for teachers’ salaries.
+
+19. Furnishing of claims, accounts and vouchers.
+
+20. Grants dependent on amount provided by Parliament.
+
+21. Application for grants.
+
+22. Approval of grants.
+
+23. New schools.
+
+24. Withholding of grants.
+
+25. Withdrawal of grants.
+
+## PART V NUMBER OF TEACHERS AND GRANTS FOR THEIR SALARIES
+
+26. Number of teachers and conditions of grants.
+
+27. Salaries to be prescribed.
 
 L.R.O. 1/2012
 
@@ -1880,59 +2256,59 @@ Cap. 39:01
 
 REGULATION
 
-- Removal expenses of teachers.
+28. Removal expenses of teachers.
 
 ## PART VI CERTIFICATION, EMPLOYMENT, AND DISCIPLINE OF TEACHERS
 
-- Teachers' certificates of competency.
+29. Teachers’ certificates of competency.
 
-(1) Certificate examinations.
+30. (1) Certificate examinations.
 
-- Certificate of character and fee for examination.
+(3) Certificate of character and fee for examination.
 
-- Needlework examination fee.
+(4) Needlework examination fee.
 
-- Age limit for examination.
+(5) Age limit for examination.
 
-- Temporary certificates.
+31. Temporary certificates.
 
-- Permanent certificates.
+32. Permanent certificates.
 
-- Provisional certificates.
+33. Provisional certificates.
 
-- Grant of third class certificates to holders of provisional certificates.
+34. Grant of third class certificates to holders of provisional certificates.
 
-- Grant of third class certificates to uncertificated teachers.
+35. Grant of third class certificates to uncertificated teachers.
 
-- Record of service of teachers.
+36. Record of service of teachers.
 
-- Certificates of character and physical fitness required from teachers.
+37. Certificates of character and physical fitness required from teachers.
 
-- Disqualification on account of disease.
+38. Disqualification on account of disease.
 
-- Employment of teachers.
+39. Employment of teachers.
 
-- Letters of appointment.
+40. Letters of appointment.
 
-- Transfer of teachers.
+41. Transfer of teachers.
 
-- Salaries of teachers transferred.
+42. Salaries of teachers transferred.
 
-(1) Termination of teacher's employment.
+43. (1) Termination of teacher's employment.
 
-- Manager to be furnished with information respecting teachers.
+(2) Manager to be furnished with information respecting teachers.
 
-- Qualifications of teachers as to age.
+44. Qualifications of teachers as to age.
 
-[Deleted by Act No. 1 of 1975].
+45. [Deleted by Act No. 1 of 1975].
 
-- Restrictions of teachers engaging in business, etc.
+46. Restrictions of teachers engaging in business, etc.
 
-- Discipline of teachers.
+47. Discipline of teachers.
 
-(1) Leave of absence of teachers.
+48. (1) Leave of absence of teachers.
 
-- Special leave.
+(4) Special leave.
 
 Education Code Regulations
 
@@ -1952,9 +2328,53 @@ Education
 
 [Subsidiary]
 
+Education Code Regulations
+
 REGULATION
 
-Education Code Regulations
+## PART VII PUPIL TEACHERS AND JUNIOR TEACHERS
+
+49. Pupil teachers.
+
+50. (1) Eligibility of candidates for appointment as pupil teachers.
+
+(4) Appointment of candidates who hold certain certificates as pupil teachers of the third or fourth year.
+
+51. Age limit for employment as pupil teachers.
+
+52. Annual examination.
+
+53. Instruction of pupil teachers.
+
+54. Junior teachers.
+
+## PART VIII GENERAL ORGANISATION OF SCHOOLS
+
+55. Divisions in schools.
+
+56. Exclusion of pupils on account of disease.
+
+57. Temporary closing of schools.
+
+58. School days and hours.
+
+59. School holidays.
+
+## PART IX ADMISSION AND ATTENDANCE OF PUPILS
+
+60. Admission of pupils.
+
+61. Proof of age of child.
+
+62. Re-admission of pupils.
+
+63. Transfer of pupils.
+
+64. Employment of pupils as teachers forbidden.
+
+65. Prizes and certificates for regular attendance.
+
+66. Efficient elementary instruction.
 
 L.R.O. 1/2012
 
@@ -1978,57 +2398,57 @@ Education Code Regulations
 
 REGULATION
 
-- Religious observances and instruction.
+67. Religious observances and instruction.
 
-- Freedom of worship.
+68. Freedom of worship.
 
-- Training of character.
+69. Training of character.
 
-- Course of secular instruction.
+70. Course of secular instruction.
 
-- Periodical examinations.
+71. Periodical examinations.
 
-- Primary School Certificate Examination.
+72. Primary School Certificate Examination.
 
-- Primary School Needlework Certificate Examination.
+73. Primary School Needlework Certificate Examination.
 
-- Inspection.
+74. Inspection.
 
-- Reports of inspections.
+75. Reports of inspections.
 
-- Classification of schools after inspection.
+76. Classification of schools after inspection.
 
-- Visits of authorised persons to schools.
+77. Visits of authorised persons to schools.
 
-- Provisions for enforcing requirements.
+78. Provisions for enforcing requirements.
 
 ## PART XI BRANCH SCHOOLS, NURSERY SCHOOLS, CONTINUATION SCHOOLS, AND SCHOOLS IN REMOTE AREAS
 
-- Branch schools.
+79. Branch schools.
 
-- Minimum average attendance.
+80. Minimum average attendance.
 
-- Nursery schools and continuation schools.
+81. Nursery schools and continuation schools.
 
-(1) Schools in remote areas.
+82. (1) Schools in remote areas.
 
-- Salaries of head teachers.
+(2) Salaries of head teachers.
 
-- Salaries of assistant teachers.
+(5) Salaries of assistant teachers.
 
-- Supply of furniture and stationery.
+(6) Supply of furniture and stationery.
 
 ## PART XII REGISTERS, RECORDS, AND RETURNS
 
-(1) List of registers, records, etc., to be kept.
+83. (1) List of registers, records, etc., to be kept.
 
-- Preservation of registers, etc.
+(3) Preservation of registers, etc.
 
-- Log Book.
+84. Log Book.
 
-- Admission and withdrawal register of pupils.
+85. Admission and withdrawal register of pupils.
 
-- Pupils' attendance register.
+86. Pupils' attendance register.
 
 L.R.O. 1/2012
 
@@ -2042,13 +2462,12 @@ Cap. 39:01
 
 LAWS OF GUYANA
 
-Citation.
-
 Education
 
 [Subsidiary] | Education Code Regulations
 --- | ---
 REGULATION
+87. Marking of pupils' attendance register.
 88. Teachers' attendance register.
 89. Absence of teachers.
 90. Time-table.
@@ -2058,16 +2477,13 @@ REGULATION
 94. Corporal punishment
 95. Correspondence.
 96. Returns, statistics, entries for examinations, etc.
-SCHEDULE-Scheme of work for course of secular
-instruction.
+SCHEDULE—Scheme of work for course of secular instruction.
 
 ___________________________
 
-Reg. 17/1940 |
-## EDUCATION CODE REGULATIONS
---- | ---
+Reg. 17/1940
 37/1943
-10/1944 | made under section 54
+10/1944
 14/1944
 43/1945
 49/1945,
@@ -2080,9 +2496,13 @@ Reg. 17/1940 |
 4 of 1972
 1 of 1975
 
+## EDUCATION CODE REGULATIONS
+
+made under section 54
+
 ## PART I PRELIMINARY
 
-1. These Regulations may be cited for all purposes as the Education Code Regulations.
+Citation. | 1. These Regulations may be cited for all purposes as the Education Code Regulations.
 
 L.R.O. 1/2012
 
@@ -2129,10 +2549,12 @@ Education
 
 [Subsidiary] | Education Code Regulations
 --- | ---
-School year. | 3 . The school year, for the purposes of school work and of calculating average attendance and other statistics and returns required under these Regulations, shall, except in special cases approved by the Chief Education Officer, begin on the 1st September and end on the 31st August.
-Duties and powers of education officers. | 4 . Any duty or power relating to visits of inspection under this code which may be performed or exercised by the Chief Education Officer may be performed or exercised by an education officer.
-## PART II
-Religious denominations and governing bodies. | 5. (1) The governing bodies already recognised shall continue to be so recognised. (2) The Chief Education Officer may, with the approval of the Minister, recognise the governing body of any denomination which may in future apply for recognition. (3) Where a religious denomination which has not a governing body or where any person desires recognition, such denomination or such person shall seek some responsible member or members of the community to form
+“teacher” includes everyone who forms part of the educational staff of a school;
+“trained” in relation to a certificated teacher means the completion of a course of training at an institution for the training of teachers in any part of the Commonwealth which is recognised by the Government thereof, or at an institution recognised by the Chief Education Officer in any foreign country, by a person who has been granted a teacher's certificate of competency under these Regulations other than a certificate of the third class.
+School year. | 3. The school year, for the purposes of school work and of calculating average attendance and other statistics and returns required under these Regulations, shall, except in special cases approved by the Chief Education Officer, begin on the 1st September and end on the 31st August.
+Duties and powers of education officers. | 4. Any duty or power relating to visits of inspection under this code which may be performed or exercised by the Chief Education Officer may be performed or exercised by an education officer.
+## PART II CONTROL AND MANAGEMENT OF SCHOOLS
+Religious denominations and governing bodies. | 5. (1) The governing bodies already recognised shall continue to be so recognised. (2) The Chief Education Officer may, with the approval of the Minister, recognise the governing body of any denomination which may in future apply for recognition. (3) Where a religious denomination which has not a governing body or where any person desires recognition, such denomination or such person shall seek some responsible member or members of the community to form with it or him a body, which may apply for recognition in the
 
 L.R.O. 1/2012
 
@@ -2178,36 +2600,24 @@ L.R.O. 1/2012
 
 [[START OF PAGE 66]]
 
-66 Cap. 39:01
+66
+
+Cap. 39:01
 
 LAWS OF GUYANA
 
-[Subsidiary]
-
-Persons who may not serve on governing bodies or as managers.
-
-Obligation of managers to
-
-- visit schools. the results of his visit in the log book:
-
-Officer.
-
-7. No  teacher  while  employed  as  such,  nor,  except with the special permission of the Minister, any other person who derives any emolument or financial benefit from public funds provided by Parliament in aid of education shall be a manager of a school or a member of a governing body.
-
-8 . A manager shall visit each school under his charge at  least  once  a  month,  and  shall  examine  and  sign  the admission and withdrawal register of pupils and the attendance  registers  of  pupils  and  teachers  and  shall  record
-
-Provided that in the case of schools far removed from the residence  of  the  manager  or  difficult  of  access  the  Chief Education Officer after consultation with the Committee may approve of less frequent visits.
-
-## PART III SCHOOL PREMISES, LATRINES, EQUIPMENT
-
-Requirements regarding floor space, etc. | 9 . (1) Every school shall provide not less than 10 superficial feet of floor space and 100 cubic feet or air space for each child in average attendance, during the preceding school year, and the lowest part of the roof (or ceiling) of any schoolroom shall be not less than 10 feet above the floor.
---- | ---
-(2) (a) Covered galleries which are unpartitioned from the main building and are not less than 10 feet wide and 10 feet high may be taken into account in calculating the floor space and air
-(b) covered galleries which are partitioned from the main building and which are not less than 15 feet
-
 Education
 
-Education Code Regulations
+[Subsidiary] | Education Code Regulations
+--- | ---
+Officer.
+Persons who may not serve on governing bodies or as managers. | 7. No teacher while employed as such, nor, except with the special permission of the Minister, any other person who derives any emolument or financial benefit from public funds provided by Parliament in aid of education shall be a manager of a school or a member of a governing body.
+Obligation of managers to visit schools. | 8. A manager shall visit each school under his charge at least once a month, and shall examine and sign the admission and withdrawal register of pupils and the attendance registers of pupils and teachers and shall record the results of his visit in the log book:
+Provided that in the case of schools far removed from the residence of the manager or difficult of access the Chief Education Officer after consultation with the Committee may approve of less frequent visits.
+## PART III SCHOOL PREMISES, LATRINES, EQUIPMENT
+Requirements regarding floor space, etc. | 9. (1) Every school shall provide not less than 10 superficial feet of floor space and 100 cubic feet of air space for each child in average attendance, during the preceding school year, and the lowest part of the roof (or ceiling) of any schoolroom shall be not less than 10 feet above the floor.
+(2) (a) Covered galleries which are unpartitioned from the main building and are not less than 10 feet wide and 10 feet high may be taken into account in calculating the floor space and air space;
+(b) covered galleries which are partitioned from the main building and which are not less than 15 feet
 
 L.R.O. 1/2012
 
@@ -2227,33 +2637,19 @@ Cap. 39:01
 
 Education Code Regulations
 
-wide  and  10  feet  high  may  be  taken into  account  in  calculating  the  floor space and air space:
+wide and 10 feet high may be taken into account in calculating the floor space and air space:
 
-Provided  that  covered  galleries  erected  prior to the coming into force of these regulations may, with the approval of  the  Chief  Education  Officer,  be  taken  into  account  in calculating the floor space and air space.
+Provided that covered galleries erected prior to the coming into force of these regulations may, with the approval of the Chief Education Officer, be taken into account in calculating the floor space and air space.
 
-(3) All zinc roofs shall be "close boarded."
+(3) All zinc roofs shall be “close boarded.”
 
-(4)  Buildings  shall  be  kept  in  good  repair,  clean, well ventilated, and in a proper sanitary condition.
+(4) Buildings shall be kept in good repair, clean, well ventilated, and in a proper sanitary condition.
 
-Use of churches as schools. 10. No  church  or  chapel  shall  be  used  as  a  school without the sanction of the Chief Education Officer except in the case of schools placed upon the aided list prior to the 31st December, 1918.
-
-School
-
-- grounds. per child.
-
-11. (1)  Every  school  placed  upon  the  aided  list  after the coming into force of these regulations shall be provided, unless  otherwise  approved  by  the  Chief  Education  Officer, with adequate playground accommodation within or closely adjoining the school precincts, i.e. not less than 30 square feet
-
-(2)  The  grounds  adjoining  all  school  buildings shall  be  properly  fenced.  All  grounds  shall  be  drained, levelled, and kept free of all bush, scrub, litter and rubbish of all kinds. All fences shall be kept in good repair.
-
-Water Supply.
-
-- Latrines.
-
-12. Where artesian well water is available, a container of adequate size shall be kept in each school. Where artesian well water is not available, a vat or tank shall be provided for
-
-- the storage and collection of rain water.
-
-13. (1)  Every  school  shall  be  provided  with  properly constructed  latrines  of  a  pattern  approved  by  the  Central
+Use of churches as schools. | 10. No church or chapel shall be used as a school without the sanction of the Chief Education Officer except in the case of schools placed upon the aided list prior to the 31st December, 1918.
+School grounds. | 11. (1) Every school placed upon the aided list after the coming into force of these regulations shall be provided, unless otherwise approved by the Chief Education Officer, with adequate playground accommodation within or closely adjoining the school precincts, i.e. not less than 30 square feet per child.
+(2) The grounds adjoining all school buildings shall be properly fenced. All grounds shall be drained, levelled, and kept free of all bush, scrub, litter and rubbish of all kinds. All fences shall be kept in good repair.
+Water Supply. | 12. Where artesian well water is available, a container of adequate size shall be kept in each school. Where artesian well water is not available, a vat or tank shall be provided for the storage and collection of rain water.
+Latrines. | 13. (1) Every school shall be provided with properly constructed latrines of a pattern approved by the Central
 
 L.R.O. 1/2012
 
@@ -2269,7 +2665,7 @@ LAWS OF GUYANA
 
 [Subsidiary]
 
-Removal erections, and reconstruction of school.
+Removal, erection, and reconstruction of schools.
 
 Grants for buildings, etc., [4 of 1972]
 
@@ -2303,15 +2699,21 @@ L.R.O. 1/2012
 
 LAWS OF GUYANA
 
+Education
+
 Cap. 39:01
 
 69
 
 [Subsidiary] | Education Code Regulations
 --- | ---
-Provision of furniture and educational supplies. [4 of 1972] | 16 . (1) Out of moneys provided by Parliament and in accordance with such rate as the Minister may from time to time prescribe by notice published in the Gazette , the Chief Education Officer shall provide and issue to a governing body in respect of each of its school, such furniture, equipment, apparatus, materials, books, stationery and other educational supplies as he considers necessary for the efficient working of the school:
-
-Education
+(a) for providing and maintaining suitable buildings, outhouses and play grounds for schools of the governing body;
+(b) for the maintenance of clean and sanitary latrines which shall be the duty of the head-teacher of each school;
+(c) for the maintenance and upkeep of each school garden established by the schools of the governing body; and
+(d) for providing tools, appliances and materials for the teaching of needlework and for the teaching of some special form of handicraft in respect of each school in which the Chief Education Officer is satisfied that regular and proper instruction is being given.
+Provision of furniture and educational supplies. [4 of 1972] | 16. (1) Out of moneys provided by Parliament and in accordance with such rate as the Minister may from time to time prescribe by notice published in the Gazette, the Chief Education Officer shall provide and issue to a governing body in respect of each of its school, such furniture, equipment, apparatus, materials, books, stationery and other educational supplies as he considers necessary for the efficient working of the school:
+Provided that if in the opinion of the Chief Education Officer it is not convenient to issue any of such educational supplies, the Chief Education Officer may pay to the governing body a block grant to the value thereof.
+(2) All furniture, equipment, apparatus and materials which are in a school shall be kept clean and in good order, and shall be marked with the name of the school.
 
 L.R.O. 1/2012
 
@@ -2330,6 +2732,9 @@ Education
 Grants for teaching East Indian languages. | 17 . (1) The Chief Education Officer may, out of the sums provided for the purpose by Parliament, pay to a governing body a grant for the teaching of East Indian languages to pupils and to enable teachers and pupil teachers to qualify as teachers of East Indian languages. (2) When children of East Indian descent cannot easily obtain, at an aided school instruction in an East Indian language, the Chief Education Officer may out of moneys provided by Parliament pay grants for the teaching of East Indian languages to schools not otherwise on the list of aided schools.
 Grants for teachers' salaries | 18 . From the sums voted for the purpose by Parliament, the Chief Education Officer shall pay to each governing body grants in respect of the salaries of teachers in accordance with the regulations contained in Part V.
 Furnishing of claims, accounts and vouchers. | 19. (1) All claims for grants payable under these Regulations shall be made in writing to the Chief Education Officer in a form approved by him.
+(2) The governing body or the manager, if duly authorised, shall certify the correctness of all claims for salaries and other grants.
+(3) Every governing body which receives any grant under these Regulations shall cause to be furnished to the Chief Education Officer a detailed account of the expenditure of the grant duly certified and supported by vouchers. In the case of grants for teachers' salaries and for latrines accounts shall be rendered monthly supported by receipts from the teachers for their salaries and vouchers for the expenditure of the latrine grant.
+(4) Any grant or any part thereof which has not been paid by the Chief Education Officer at the end of the
 
 L.R.O. 1/2012
 
@@ -2389,29 +2794,16 @@ Education
 
 [Subsidiary]
 
-- New schools.
+(3) If a grant is approved for a new school the Chief Education Officer shall determine the average attendance from the data in his possession.
 
-Education Code Regulations
-
-(3)  If  a  grant  is  approved  for  a  new  school  the Chief Education Officer shall determine the average attendance from the data in his possession.
-
-23 .  New  schools  are  established  at  the  risk  of  the founder and their establishment shall not create any right or claim to a grant under these Regulations.
-
-24. The  Chief  Education  Officer  may  at  any  time withhold the payment of any grant, or portion thereof, to any school  which  in  his  opinion  has  ceased  to  be  efficient  or otherwise to fulfil any of the requirements of these Regulations. Before doing so, he shall send to the governing body  a  statement  showing  in  what  respect  the  school  has fallen  below  the  standard  required,  or  otherwise  failed  to fulfil the requirements of these Regulations, and such statement shall be laid before the Council at the first
-
-- Withholding of grants opportunity.
-
-- Withdrawal of grants. 25 . The Chief Education Officer may after consultation with the Council and with the approval of the Minister and subject  to  at  least  six  months'  notice  being  given  to  the governing  body  concerned  withdraw  from  any  school  any grant or any portion thereof.
+New schools. | 23. New schools are established at the risk of the founder and their establishment shall not create any right or claim to a grant under these Regulations.
+Withholding of grants. | 24. The Chief Education Officer may at any time withhold the payment of any grant, or portion thereof, to any school which in his opinion has ceased to be efficient or otherwise to fulfil any of the requirements of these Regulations. Before doing so, he shall send to the governing body a statement showing in what respect the school has fallen below the standard required, or otherwise failed to fulfil the requirements of these Regulations, and such statement shall be laid before the Council at the first opportunity.
+Withdrawal of grants. | 25. The Chief Education Officer may after consultation with the Council and with the approval of the Minister and subject to at least six months' notice being given to the governing body concerned withdraw from any school any grant or any portion thereof.
 
 ## PART V NUMBER OF TEACHERS AND GRANTS FOR THEIR SALARIES
 
-Number of teachers and conditions of grants. [4 of 1972]
-
-26. The  number  of  teachers  in  respect  of  whose salaries  grants  may  be  paid  to  the  governing  bodies  of schools, and the conditions subject to which such grants may be paid shall be prescribed by the Minister from time to time by notice published in the Gazette.
-
-27 .  The  salaries  of  teachers  of  a  school  shall  be  in accordance with such scales and subject to such conditions as may be prescribed by the Minister from time to time by notice
-
-- Salaries to be prescribed. [4 of 1972] published in the Gazette .
+Number of teachers and conditions of grants. [4 of 1972] | 26. The number of teachers in respect of whose salaries grants may be paid to the governing bodies of schools, and the conditions subject to which such grants may be paid shall be prescribed by the Minister from time to time by notice published in the Gazette.
+Salaries to be prescribed. [4 of 1972] | 27. The salaries of teachers of a school shall be in accordance with such scales and subject to such conditions as may be prescribed by the Minister from time to time by notice published in the Gazette.
 
 L.R.O. 1/2012
 
@@ -2439,7 +2831,7 @@ Removal expenses of teachers. | 28. The Chief Education Officer may approve of t
 
 ## PART VI CERTIFICATION, EMPLOYMENT AND DISCIPLINE OF TEACHERS
 
-Teachers' certificates of competency. | 29. (1) Every head teacher and every certificated assistant teacher shall be required to hold a certificate of competency (hereinafter called a certificate) (2) Certificates shall be of three classes-first, second, and third, and may be either temporary or permanent. (3) The possession of a certificate of whatever class or character shall not entitle a teacher to salary under regulation 27 until the holder has been appointed one of the teachers whose employment is authorised under regulation
+Teachers' certificates of competency. | 29. (1) Every head teacher and every certificated assistant teacher shall be required to hold a certificate of competency (hereinafter called a certificate). (2) Certificates shall be of three classes—first, second, and third, and may be either temporary or permanent. (3) The possession of a certificate of whatever class or character shall not entitle a teacher to salary under regulation 27 until the holder has been appointed one of the teachers whose employment is authorised under regulation 26.
 --- | ---
 Certificate examinations. | 30. (1) Examinations for certificates shall be held from time to time as directed by the Chief Education Officer and shall be conducted by a board of examiners. (2) A syllabus of the subjects of examination and rules governing the examination shall be issued from time to
 
@@ -2466,7 +2858,7 @@ Needlework examination fee. | (4) A woman teacher may present herself for examin
 Age limit for examination. | (5) Without the special sanction of the Chief Education Officer no person who has not attained the age of 19 years may enter for the teachers' certificate examination, except a pupil teacher who has passed the examination for pupil teachers of the fourth year.
 Temporary certificates. [Reg.37/1943 49/1945] | 31. (1) The Chief Education Officer may grant a temporary certificate to any person who is a Commonwealth citizen by birth or naturalisation and who-
 (a) satisfies the board of examiners; or
-(b) holds a certificate from an institution for the training of teachers in any part of the Commonwealth which is recognised by the Government
+(b) holds a certificate from an institution for the training of teachers in any part of the Commonwealth which is recognised by the Government thereof; or
 (c) holds a teacher's certificate from the Government of any part of the Commonwealth; or
 (d) has taken a degree at a university in any part of the Commonwealth; or
 (e) holds the school certificate of the Oxford and Cambridge Schools'
@@ -2515,10 +2907,17 @@ Education
 
 [Subsidiary] | Education Code Regulations
 --- | ---
-Permanent certificates. [Reg. 37/1942] | 32. (1) A teacher shall not be eligible for a permanent certificate until he has-
-(a) been examined by a medical board and certified to be physically fit to
+Provided that—
+(a) if the date of the examination falls within six months of the date of grant of the certificate, the teacher may present himself at the next succeeding examination;
+(b) if any such teacher fails to pass the said examination within three years after the date of the grant of the certificate, the certificate may be withdrawn.
+
+Permanent certificates.
+[Reg. 37/1942]
+
+32. (1) A teacher shall not be eligible for a permanent certificate until he has—
+(a) been examined by a medical board and certified to be physically fit to perform all the duties of a teacher;
 (b) held a temporary certificate for not less than two years;
-(c) produced evidence of good character
+(c) produced evidence of good character during that period;
 (d) passed a written examination in the principles of education and the practice of teaching accepted by the Chief Education Officer as of a suitable standard; and
 (e) satisfied the Chief Education Officer of his ability to teach classes of pupils in any of the subjects of the primary school curriculum and of his fitness in
 
@@ -2536,25 +2935,27 @@ Cap. 39:01
 
 77
 
-[Subsidiary]
+[Subsidiary] Education Code Regulations
+
+all respects to hold a teacher's certificate.
+
+(2) Should a teacher fail to qualify for a permanent certificate, he may with the approval of the Chief Education Officer continue to hold a temporary certificate of the class for which he has qualified by examination, and to receive the salary prescribed by these regulations for a teacher who holds that class of certificate.
 
 Provisional certificates.
 
-Grant of third class certificates to holders of provisional certificates Education Code Regulations all respects to hold a teacher's certificate.
+33. (1) The Chief Education Officer shall have power to issue a provisional certificate to any person who, in his opinion, may be properly employed as a teacher in charge of a school, including a branch school, or of a division of a school which is housed in a separate building.
 
-(2) Should a teacher fail to qualify for a permanent certificate, he may with the approval of the Chief Education Officer continue to hold a temporary certificate of the class for which  he  has  qualified  by  examination,  and  to  receive  the salary prescribed by these regulations for a teacher who holds that class of certificate.
+(2) A teacher to whom a provisional certificate is issued shall present himself for examination at the first certificate examination subsequently held in Guyana:
 
-33. (1)  The Chief Education Officer shall have power to  issue  a  provisional  certificate  to  any  person  who,  in  his opinion, may be properly employed as a teacher in charge of a  school,  including  a  branch  school,  or  of  a  division  of  a school which is housed in a separate building.
+Provided that if the date of the examination falls within six months of the date of issue of the provisional certificate, the teacher may present himself at the next succeeding examination but not later.
 
-(2)  A  teacher  to  whom  a  provisional  certificate  is issued  shall  present  himself  for  examination  at  the  first certificate examination subsequently held in Guyana:
+(3) A provisional certificate may be withdrawn if the holder fails to pass the certificate examination.
 
-Provided that if the date of the examination falls within six  months of the date of issue of the provisional certificate, the  teacher  may  present  himself  at  the  next  succeeding examination but not later.
+Grant of third class certificates to holders of provisional certificates.
 
-(3)  A  provisional  certificate  may  be  withdrawn  if the holder fails to pass the certificate examination.
+34. (1) The Chief Education Officer may grant a certificate of the third class without examination to the holder of a provisional certificate who for ten consecutive years immediately preceding his application has to the knowledge of the Chief Education Officer satisfactorily performed the duties of a teacher in charge of a school including a branch school, or a division of a school which is housed in a separate building:
 
-34. (1)  The  Chief  Education  Officer  may  grant  a certificate of the third class without examination to the holder of  a  provisional  certificate  who  for  ten  consecutive  years immediately preceding his application has to the knowledge of  the  Chief  Education  Officer  satisfactorily  performed  the duties  of  a  teacher  in  charge  of  a  school  including  a  branch school, or a division of a school which is housed in a separate building:
-
-Provided  that  in  remote  localities  five  years  may  be
+Provided that in remote localities five years may be
 
 L.R.O. 1/2012
 
@@ -2568,29 +2969,28 @@ LAWS OF GUYANA
 
 Education
 
-[Subsidiary]
-
-Grant of third class certificates to uncertificated teachers.
-
-Record of service of teachers.
-
-Certificates of character and physical fitness required from teachers [1 of 1975]
-
-Education Code Regulations
+[Subsidiary] Education Code Regulations
 
 regarded as sufficient.
 
-(2)  The  holder  of  a  certificate  so  granted  shall  be employed only  in  such  schools  as  may  be  approved  by  the Chief Education Officer.
+(2) The holder of a certificate so granted shall be employed only in such schools as may be approved by the Chief Education Officer.
 
-35. The Chief Education Officer may grant a certificate of  the  third  class  to  any  uncertificated  teacher  who,  in  his opinion, has served meritoriously during a period of not less than twenty years.
+Grant of third class certificates to uncertificated teachers.
 
-36 . The Chief Education Officer shall keep a record of the  service  of  every  teacher  in  which  shall  be  entered  the teacher's date of birth, qualification, appointments held, and such  other  particulars  as  the  Chief  Education  Officer  may from time to time consider necessary.
+35. The Chief Education Officer may grant a certificate of the third class to any uncertificated teacher who, in his opinion, has served meritoriously during a period of not less than twenty years.
 
-37 . (1) Before any person is appointed as a teacher for the  first  time,  he  shall  satisfy  the  Commission  that  he  is  of good character and shall produce a certificate from a Government  medical  officer  that  he  is  physically  fit  for employment as a teacher.
+Record of service of teachers.
 
-(2)  If  at  any  time  the  Chief  Education  Officer considers  it  desirable  in  the  interests  of  the  school  that  a teacher should be examined by a Government medical officer, he may request in writing any Government medical officer to make such examination, and the said officer shall thereupon make the same free of charge and shall report the result to the Chief  Education  Officer.  Any  teacher  refusing  to  submit  to such examination shall be guilty of a breach of these Regulations.
+36. The Chief Education Officer shall keep a record of the service of every teacher in which shall be entered the teacher's date of birth, qualification, appointments held, and such other particulars as the Chief Education Officer may from time to time consider necessary.
 
-(3)  If  in  the  opinion  of  a  governing  body  or  the Commission or both, it is considered that the inefficiency of a teacher  is  in  any  way  attributable  to  ill-health,  then  on  the recommendation of the governing body or the Commission,
+Certificates of character and physical fitness required from teachers.
+[1 of 1975]
+
+37. (1) Before any person is appointed as a teacher for the first time, he shall satisfy the Commission that he is of good character and shall produce a certificate from a Government medical officer that he is physically fit for employment as a teacher.
+
+(2) If at any time the Chief Education Officer considers it desirable in the interests of the school that a teacher should be examined by a Government medical officer, he may request in writing any Government medical officer to make such examination, and the said officer shall thereupon make the same free of charge and shall report the result to the Chief Education Officer. Any teacher refusing to submit to such examination shall be guilty of a breach of these Regulations.
+
+(3) If in the opinion of a governing body or the Commission or both, it is considered that the inefficiency of a teacher is in any way attributable to ill-health, then on the recommendation of the governing body or the Commission,
 
 L.R.O. 1/2012
 
@@ -2633,9 +3033,18 @@ LAWS OF GUYANA
 80 | Cap. 39:01 | Education
 --- | --- | ---
 [Subsidiary] | Education | Code Regulations
+(b) state any duties in regard to the giving of religious instruction in the school which are to be performed by the teacher in addition to the duties required of him by section 27 of the Act.
+
 (3) No letter of appointment shall contain anything contrary to these Regulations.
-Transfer of teachers [Reg. 37/1943 1 of 1975] | 41 . (1) (a) | Any teacher may apply in writing to the governing body of the school in which he is employed for transfer to a school under the same governing body;
-(b) | a governing body may grant or, with the approval of the Commission, reject an application for transfer to a school under its management;
+
+Transfer of teachers.
+[Reg. 37/1943
+1 of 1975]
+
+41. (1) (a) Any teacher may apply in writing to the governing body of the school in which he is employed for transfer to a school under the same governing body;
+
+(b) a governing body may grant or, with the approval of the Commission, reject an application for transfer to a school under its management;
+
 (c) a teacher desiring to be employed in a school under the control and management of another governing body shall apply in writing to the Commission and to such governing body, and upon securing an offer of such employment shall give to the governing body having control and management of the school in which he is employed the notice prescribed by regulation 40(2)(a); the governing body may, in special circumstances and with the approval of the Commission, dispense with such notice.
 
 L.R.O. 1/2012
@@ -2652,10 +3061,22 @@ Cap. 39:01
 
 Education
 
-[Subsidiary] | Education Code Regulations
---- | ---
-Salaries of teachers transferred. | Officer, the interest of the school or schools requires otherwise, a head teacher shall be transferred only at the beginning of a school year and an assistant teacher only at the beginning of a school term. 42 . Any teacher who is transferred under regulation 41 shall of transfer be paid the salary of the post to which he is transferred as prescribed by these regulations or the salary which he is receiving at the date of his transfer, whichever shall be the greater.
-Termination of teacher's employment. [1 of 1975] | 43. (1) (a) When a teacher is dismissed under Part III of the Act, the teacher may obtain from the Commission a full
+[Subsidiary] Education Code Regulations
+
+(2) (a) Subject to the Act, a governing body in exercise of its powers of management of schools thereunder may transfer any teacher to the staff of a school under its management except that in the case of the transfer of a teacher holding a permanent certificate not less than three months' notice of such transfer shall be given and in the case of the transfer of any other teacher not less than one months' notice of such transfer shall be given.
+
+(b) A head teacher who has been employed as such in a school or schools during five or more successive years may within one month of receiving notice of transfer appeal to the Commission which may uphold or reject such appeal.
+
+(3) Unless in the opinion of the Chief Education Officer, the interest of the school or schools requires otherwise, a head teacher shall be transferred only at the beginning of a school year and an assistant teacher only at the beginning of a school term.
+
+Salaries of teachers transferred.
+
+42. Any teacher who is transferred under regulation 41 shall as from the date of transfer be paid the salary of the post to which he is transferred as prescribed by these regulations or the salary which he is receiving at the date of his transfer, whichever shall be the greater.
+
+Termination of teacher's employment.
+[1 of 1975]
+
+43. (1) (a) When a teacher is dismissed under Part III of the Act, the teacher may obtain from the Commission a full statement of the cause of his
 
 L.R.O. 1/2012
 
@@ -2667,10 +3088,31 @@ LAWS OF GUYANA
 
 82 | Cap. 39:01 | Education
 --- | --- | ---
-[Subsidiary] | Education Code Regulations
-Qualification of teachers as to age. | 44. No teacher under the age of twenty-one years shall be allowed to take charge of a school except in an acting capacity and then only with the approval of the Chief Education Officer in writing.
-Restriction of teachers engaging in business, etc. [1 of 1975] | 46 . (1) No teacher shall engage in any business or occupation which, in the opinion of the Commission will interfere with his duty as a teacher under these Regulations. (2) A teacher may not act as the editor of any newspaper nor take part directly or indirectly in the management thereof except with the permission of the Commission nor contribute anonymously thereto anything which is of a political or administrative nature.
-Discipline of teachers. [Reg. 37/ 1943 | 47. (1) For any breach of these Regulations, for improper conduct while in school, for neglect of duty,
+[Subsidiary] Education Code Regulations
+
+dismissal.
+
+(b) When the employment of a teacher is terminated otherwise than by dismissal under section 48 of the Act, the governing body shall make a report to the Chief Education Officer, containing a full statement of the reasons for the termination of the employment.
+
+(2) Where the employment of a teacher has been terminated and any governing body or manager who contemplates employing him applies to the Chief Education Officer for information as to the cause of such termination, the Chief Education Officer shall furnish the manager with a copy of the report relating thereto.
+
+Qualification of teachers as to age.
+
+44. No teacher under the age of twenty-one years shall be allowed to take charge of a school except in an acting capacity and then only with the approval of the Chief Education Officer in writing.
+
+45. [Deleted by Act 1 of 1975]
+
+Restriction of teachers engaging in business, etc.
+[1 of 1975]
+
+46. (1) No teacher shall engage in any business or occupation which, in the opinion of the Commission will interfere with his duty as a teacher under these Regulations.
+
+(2) A teacher may not act as the editor of any newspaper nor take part directly or indirectly in the management thereof except with the permission of the Commission nor contribute anonymously thereto anything which is of a political or administrative nature.
+
+Discipline of teachers.
+[Reg. 37/1943
+
+47. (1) For any breach of these Regulations, for improper conduct while in school, for neglect of duty,
 
 L.R.O. 1/2012
 
@@ -2690,9 +3132,9 @@ Cap. 39:01
 
 Education Code Regulations
 
-- 1 of 1975] any teacher, the Commission may impose a fine of seventy-
+1 of 1975]
 
-misconduct,  inefficiency,  unfitness,  irregularity,  or  conduct unbecoming of a teacher or lack of discipline on the part of five  dollars,  or  other  penalty  on  the  defaulting  teacher,  but not until the teacher has been informed of the charge against him  and  has  been  given  an  opportunity  of  exculpating himself.
+misconduct, inefficiency, unfitness, irregularity, or conduct unbecoming of a teacher or lack of discipline on the part of any teacher, the Commission may impose a fine of seventy-five dollars, or other penalty on the defaulting teacher, but not until the teacher has been informed of the charge against him and has been given an opportunity of exculpating himself.
 
 (2)  Where  such  a  breach  of  the  Regulations,  or neglect of duty, misconduct, inefficiency, irregularity or lack of discipline is discovered by the Chief Education Officer or his  officers  or  is  otherwise  brought  to  his  notice,  the  Chief Education  Officer  may  inform  the  governing  body  of  the school  in  which  the  teacher  is  employed,  and  thereupon  it shall  be  the  duty  of  the  governing  body  to  investigate  the matter  in  accordance  with  paragraph  (1)  of  this  regulation and Part III of the Act.
 
@@ -2720,11 +3162,18 @@ Education
 
 Education Code Regulations
 
-Leave of absence of teachers. [Reg. 14/1944 30/ 1948 7/1949] | 48. (1) Every occasion on which a teacher is absent from school must be entered in the absence report where all the required particulars must be given. All short leave or special leave shall be subject to the exigencies of the work of the schools.
---- | ---
-(2) (a) A manager may in case of sudden emergency grant leave on full pay to
-(b) the Chief Education Officer in his discretion, and subject to the exigencies of the school, may grant additional leave on full pay entailing a teacher's absence from school for urgent private affairs not exceeding five school days in any school year. A
-(c) no teacher shall be granted more than ten days leave on full pay for urgent
+Leave of absence of teachers.
+[Reg. 14/1944
+30/1948
+7/1949]
+
+48. (1) Every occasion on which a teacher is absent from school must be entered in the absence report where all the required particulars must be given. All short leave or special leave shall be subject to the exigencies of the work of the schools.
+
+(2) (a) A manager may in case of sudden emergency grant leave on full pay to any teacher for urgent private affairs for any period not exceeding two days at a time, and for not more than five school days in any one school year. A teacher who desires to obtain such leave shall submit to the manager as early as possible an application stating the nature of the urgent private affairs upon which such application is based;
+
+(b) the Chief Education Officer in his discretion, and subject to the exigencies of the school, may grant additional leave on full pay entailing a teacher's absence from school for urgent private affairs not exceeding five school days in any school year. A teacher who desires to obtain such leave shall submit to the Chief Education Officer through the manager as early as possible beforehand an application stating the nature of the urgent private affairs upon which such application is based;
+
+(c) no teacher shall be granted more than ten days leave on full pay for urgent private affairs in any school year;
 
 L.R.O. 1/2012
 
@@ -2746,7 +3195,7 @@ Education Code Regulations
 
 (d) the  Chief  Education  Officer  may,  in his  discretion,  grant  leave  of  absence with  or  without  pay  to  a  teacher  for any reasonable cause.
 
-(a) A  manager  may  grant  leave  on  full pay on account of illness for not more than  three  school  days  in  any  school year.  If  the  teacher's  absence  exceeds three  days,  leave  must  be  obtained from  the  Chief  Education  Officer  as hereinafter provided to cover the entire period of leave;
+(3) (a) A manager may grant leave on full pay on account of illness for not more than three school days in any school year. If the teacher's absence exceeds three days, leave must be obtained from the Chief Education Officer as hereinafter provided to cover the entire period of leave;
 
 (b) all applications for sick leave exceeding a total of three school days in  any  school  year  must  be  made  to the  Chief  Education  Officer  on  the form prescribed by the Chief Education Officer and supported by a medical certificate, also on the prescribed  form,  from  a  Government medical officer, stating the cause, nature  and  probable  duration  of  the illness.  The  Chief  Education  Officer may, in his discretion accept a certificate from a private medical practitioner in support of an application for sick leave, or, in exceptional circumstances he may accept other evidence that the teacher is unfit for duty;
 
@@ -2766,23 +3215,19 @@ LAWS OF GUYANA
 
 Education
 
-[Subsidiary]
-
-Special leave.
-
-(4)
-
-Education Code Regulations
+[Subsidiary] Education Code Regulations
 
 exceeding one calendar month in any school year, and may grant an extension of sick leave on half pay for an additional two months:
 
-Provided that the Chief Education Officer may grant an extension of five months on half pay in the case of a teacher who  has  had  less  than  one  month's  sick  leave  in  any  one school year during the three years immediately preceding the application;
+Provided that the Chief Education Officer may grant an extension of five months on half pay in the case of a teacher who has had less than one month's sick leave in any one school year during the three years immediately preceding the application;
 
-(d) the Chief Education Officer may grant a  teacher  with  less  than  one  year's service leave of absence on account of illness for not more than one calendar month, and such leave may be granted on full pay or half pay as the Chief Education Officer may think fit.
+(d) the Chief Education Officer may grant a teacher with less than one year's service leave of absence on account of illness for not more than one calendar month, and such leave may be granted on full pay or half pay as the Chief Education Officer may think fit.
 
-(a) The Chief Education Officer may grant to any  teacher special leave without pay, for a period to be fixed according to the circumstances of each case;
+Special leave.
 
-(b) the Chief Education Officer may grant special  leave  with  full  pay  to  any teacher who has served meritoriously for  at  least  seven  school  years.  The maximum pay issuable shall not exceed three months' full pay (exclusive of school holidays). Teachers  who  are  granted  this  leave for the purpose of attending an approved  course  of  study  may  have this extended to six months on condition  that  the  teacher  gives  an
+(4) (a) The Chief Education Officer may grant to any teacher special leave without pay, for a period to be fixed according to the circumstances of each case;
+
+(b) the Chief Education Officer may grant special leave with full pay to any teacher who has served meritoriously for at least seven school years. The maximum pay issuable shall not exceed three months' full pay (exclusive of school holidays). Teachers who are granted this leave for the purpose of attending an approved course of study may have this extended to six months on condition that the teacher gives an
 
 L.R.O. 1/2012
 
@@ -2842,7 +3287,7 @@ Guyana.
 
 Pupil teachers. | 49. Boys and girls may be employed as pupil teachers under the conditions hereinafter set forth.
 --- | ---
-Eligibility of candidates for appointment as pupil teachers. [Reg. 37/1943] | 50 . (1) To be eligible for appointment as a pupil teacher a candidate must- (a) be not less than 14 years of age, or
+Eligibility of candidates for appointment as pupil teachers. [Reg. 37/1943] | 50. (1) To be eligible for appointment as a pupil teacher a candidate must— (a) be not less than 14 years of age, or more than 16 years of age;
 (b) hold the Primary School Certificate;
 (c) reach the qualifying standard in a special examination in such subjects as the Chief Education Officer may from time to time prescribe (the examination to be called "the Pupil Teachers' Appointment Examination");
 (d) be certified by a government medical
@@ -2935,9 +3380,9 @@ Education Code Regulations
 
 who passes the annual examination. These payments shall be made  at  the  end  of  the  month  in  which  the  results  of  the annual examination are published.
 
-54 .  (1) Where a sufficient number of pupil teachers is not  available  for  employment  in  any  school,  any  person between the age of 14 and 17 years who, in the opinion of the Chief  Education  Officer,  has  suitable  qualifications  may  be employed as a junior teacher at a salary of $10 a month; but the number of junior teachers employed at the same time in
+Junior teachers.
 
-- Junior teachers. any school shall not exceed two.
+54. (1) Where a sufficient number of pupil teachers is not available for employment in any school, any person between the age of 14 and 17 years who, in the opinion of the Chief Education Officer, has suitable qualifications may be employed as a junior teacher at a salary of $10 a month; but the number of junior teachers employed at the same time in any school shall not exceed two.
 
 (2) Junior teachers shall present themselves for the following examinations:
 
@@ -2967,17 +3412,31 @@ LAWS OF GUYANA
 
 Education
 
-[Subsidiary]
-
-Education Code Regulations
+[Subsidiary] Education Code Regulations
 
 ## PART VIII GENERAL ORGANISATION OF SCHOOLS
 
-Divisions in schools. | 55. (1) Every school shall have four divisions- preparatory, lower, middle and upper, unless the Chief Education Officer approves of some other form of organisation. (2) In large schools each division may with the approval of the Chief Education Officer be sub-divided into
---- | ---
-Exclusion of pupils on account of disease. | 56. (1) It shall be the duty of every head teacher to exclude from the school any child suffering from any contagious or infectious disease or who comes from a house where such is known to exist. (2) Head teachers shall report immediately to the local sanitary authority in Georgetown and New Amsterdam, and to the Government medical officer in any other district, the occurrence of any case of suspected contagious or infectious disease, at the same time forwarding to the Chief Education Officer a copy of the report sent.
-Temporary closing of schools. | 57. Where in the opinion of the Chief Education Officer, it is expedient to close temporarily any school, he shall issue any necessary instructions to the manager and to the head teacher.
-School days and hours. | 58. (1) Schools shall be kept open from Monday to Friday inclusive, in each week, except during the holidays authorised under regulation 59.
+Divisions in schools.
+
+55. (1) Every school shall have four divisions—preparatory, lower, middle and upper, unless the Chief Education Officer approves of some other form of organisation.
+
+(2) In large schools each division may with the approval of the Chief Education Officer be sub-divided into two classes—(a) and (b).
+
+Exclusion of pupils on account of disease.
+
+56. (1) It shall be the duty of every head teacher to exclude from the school any child suffering from any contagious or infectious disease or who comes from a house where such is known to exist.
+
+(2) Head teachers shall report immediately to the local sanitary authority in Georgetown and New Amsterdam, and to the Government medical officer in any other district, the occurrence of any case of suspected contagious or infectious disease, at the same time forwarding to the Chief Education Officer a copy of the report sent.
+
+Temporary closing of schools.
+
+57. Where in the opinion of the Chief Education Officer, it is expedient to close temporarily any school, he shall issue any necessary instructions to the manager and to the head teacher.
+
+School days and hours.
+
+58. (1) Schools shall be kept open from Monday to Friday inclusive, in each week, except during the holidays authorised under regulation 59.
+
+(2) The hours of attendance at school shall be five per diem divided into two sessions—a morning session and an afternoon session. The morning session shall include an interval for recreation not exceeding fifteen minutes and the
 
 L.R.O. 1/2012
 
@@ -3027,29 +3486,25 @@ LAWS OF GUYANA
 
 Education
 
-[Subsidiary]
-
-Admission of pupils.
-
-Proof of age of
-
-- child.
-
-Education Code Regulations
+[Subsidiary] Education Code Regulations
 
 (3) On anniversaries or other special occasions the Chief Education Officer may declare school holidays either in a particular district or in the whole of Guyana.
 
 ## PART IX ADMISSION AND ATTENDANCE OF PUPILS
 
-60 .  (1)  No  child  shall  be  refused  admission  to  any school  or  dismissed  therefrom  on  account  of  the  religious persuasion, race, or language of such child or of his parents or guardian.
+Admission of pupils.
 
-(2) If there is sufficient accommodation as required by these regulations, no child over 6 years and under 14 years of age shall be refused admission into any school save in the case  of  transfer  as  provided  in  regulation  63  or  dismissed therefrom on any grounds which in the opinion of the Chief Education Officer are unreasonable.
+60. (1) No child shall be refused admission to any school or dismissed therefrom on account of the religious persuasion, race, or language of such child or of his parents or guardian.
 
-(3) No  child under 5 years of age shall be registered as a pupil and no child over 16 years of age shall be included  in  the  calculation  of  the  average  attendance  of  a school.
+(2) If there is sufficient accommodation as required by these regulations, no child over 6 years and under 14 years of age shall be refused admission into any school save in the case of transfer as provided in regulation 63 or dismissed therefrom on any grounds which in the opinion of the Chief Education Officer are unreasonable.
 
-(4)  Except  with  the  express  approval  of  the  Chief Education  Officer,  schools  erected  before  the  coming  into force  of  these  regulations  shall  not  enrol  more  pupils  than fifteen per cent beyond the accommodation as prescribed by regulation 9, and schools erected after the coming into force of these  Regulations  shall  not  enrol  more  pupils  than  ten  per cent beyond the accommodation as prescribed by regulation 9.
+(3) No child under 5 years of age shall be registered as a pupil and no child over 16 years of age shall be included in the calculation of the average attendance of a school.
 
-61. A  head teacher who satisfies the Chief Education Officer that he is unable to ascertain the correct date of birth of  any  pupil,  may  fill  up  a  form  showing  the  names  of  the parents of such a pupil, the district in which he was born and the approximate date of his birth, and forward the same to the
+(4) Except with the express approval of the Chief Education Officer, schools erected before the coming into force of these regulations shall not enrol more pupils than fifteen per cent beyond the accommodation as prescribed by regulation 9, and schools erected after the coming into force of these Regulations shall not enrol more pupils than ten per cent beyond the accommodation as prescribed by regulation 9.
+
+Proof of age of child.
+
+61. A head teacher who satisfies the Chief Education Officer that he is unable to ascertain the correct date of birth of any pupil, may fill up a form showing the names of the parents of such a pupil, the district in which he was born and the approximate date of his birth, and forward the same to the
 
 L.R.O. 1/2012
 
@@ -3063,23 +3518,23 @@ Cap. 39:01
 
 95
 
-[Subsidiary]
+Education
+
+[Subsidiary] Education Code Regulations
+
+Chief Education Officer for verification by the Registrar General. In the event of any birth being untraceable by the Registrar General and in the absence of birth or baptismal certificates, it shall be the duty of the Chief Education Officer, having regard to the appearance of the pupil and the entries in the school register of admissions, to decide for the purpose of these regulations the question of age, and his decision shall be final:
+
+Provided that in the case of a child of East Indian parents the certificate of the Immigration Agent General shall be sufficient proof of age.
 
 Re-admission of pupils.
 
-Education
+62. Except for reasons satisfactory to the Chief Education Officer a pupil absent from school for three consecutive months shall cease to be considered a pupil of that school, and if such pupil be subsequently re-admitted he shall be deemed a new pupil and his name shall be so entered in the school register of admission.
 
-Education Code Regulations
+Transfer of pupils.
 
-Chief  Education  Officer  for  verification  by  the Registrar General.  In  the  event  of  any  birth  being  untraceable  by  the Registrar  General  and  in  the  absence  of  birth  or  baptismal certificates, it shall be the duty of the Chief Education Officer, having regard to the appearance of the pupil and the entries in the school register of admissions, to decide for the purpose of these regulations the question of age, and his decision shall be final:
+63. (1) No child shall be transferred from one school to another unless he (or his parents) produces to the head teacher of the school to which he seeks admission a transfer certificate signed by the manager and the head teacher of the school formerly attended.
 
-Provided that in the case of a child of East Indian parents the  certificate  of  the  Immigration  Agent  General  shall  be sufficient proof of age.
-
-62. Except for reasons satisfactory to the Chief Education  Officer a pupil absent from  school for three consecutive  months  shall  cease  to  be  considered  a  pupil  of that school, and if such pupil be subsequently re-admitted he shall be deemed a new pupil and his name shall be so entered in the school register of admission.
-
-- Transfer of pupils. 63 . (1) No child shall be transferred from one school to another  unless  he  (or  his  parents)  produces  to  the  head teacher of the school to which he seeks admission a transfer certificate signed by the manager and the head teacher of the school formerly attended.
-
-(2) A transfer certificate shall state-
+(2) A transfer certificate shall state—
 
 (i) name of pupil;
 
@@ -3087,11 +3542,11 @@ Provided that in the case of a child of East Indian parents the  certificate  of
 
 (iii) date of admission;
 
-(iv) division  reached,  and  date  of promotion (or admission) to such division;
+(iv) division reached, and date of promotion (or admission) to such division;
 
 (v) date of last attendance and cause of leaving;
 
-(vi) number  of  attendances  made during the current school year;
+(vi) number of attendances made during the current school year;
 
 L.R.O. 1/2012
 
@@ -3107,10 +3562,27 @@ LAWS OF GUYANA
 
 Education
 
-[Subsidiary] | Education Code Regulations
---- | ---
-Employment of pupils as teachers forbidden. | 64 . No pupil shall be regularly employed as a teacher.
-Prizes and certificates for regular attendance. | 65 . Every pupil who makes the maximum number of attendances in any school year shall be awarded a prize, and every pupil who makes ninety-five per cent or more of the maximum number of attendances, but less than the maximum number shall be awarded a certificate, and those who gain certificates for three consecutive years shall be eligible for special prizes: Provided that in each case the pupil is certified by the manager and head teacher to have been diligent, well
+[Subsidiary] Education Code Regulations
+
+(vii) general remarks on conduct and work.
+
+(3) No certificate shall be refused when applied for by the parent or guardian in person or in writing.
+
+(4) No transfer certificate shall be issued after fourteen days from the commencement of each term, except in the case of removal from one district to another, or in such other cases as may be approved by the Chief Education Officer.
+
+(5) Where an order has been issued under the Act by a magistrate that a child shall attend a particular school, the head-teacher of that school shall apply for the transfer certificate to the head teacher of the last school attended by the pupil.
+
+(6) For the purpose of this regulation all schools in Georgetown are regarded as being in the same district; similarly all schools in New Amsterdam, and all country schools within two miles of each other.
+
+Employment of pupils as teachers forbidden.
+
+64. No pupil shall be regularly employed as a teacher.
+
+Prizes and certificates for regular attendance.
+
+65. Every pupil who makes the maximum number of attendances in any school year shall be awarded a prize, and every pupil who makes ninety-five per cent or more of the maximum number of attendances, but less than the maximum number shall be awarded a certificate, and those who gain certificates for three consecutive years shall be eligible for special prizes:
+
+Provided that in each case the pupil is certified by the manager and head teacher to have been diligent, well
 
 L.R.O. 1/2012
 
@@ -3184,7 +3656,7 @@ Cap. 39:01
 
 Primary School Needlework Certificate Examination.
 
-Inspection. [Reg. 16/947]
+Inspection. [Reg. 16/1947]
 
 Education Code Regulations
 
@@ -3242,9 +3714,9 @@ Classification of schools after inspection. 76 . Schools shall be classified as 
 
 (f) unsatisfactory.
 
-77. Members  of  the  Cabinet  and  of  the  National Assembly,  judges  of  the  Supreme  Court,  members  of  the Council,  district  commissioners  and  justices  of  the  peace, members of the governing body to which the school belongs, and any other persons authorised by the Minister may visit
-
 Visits of authorised persons to schools.
+
+77. Members of the Cabinet and of the National Assembly, judges of the Supreme Court, members of the Council, district commissioners and justices of the peace, members of the governing body to which the school belongs, and any other persons authorised by the Minister may visit
 
 L.R.O. 1/2012
 
@@ -3270,7 +3742,7 @@ Education Code Regulations
 
 any school, and shall have full liberty to examine the school registers, and to record the results of their visit in the school log  book.  Visitors  are  invited  to  report  the  results  of  their visits  to  the  Chief  Education  Officer on  a  form  provided  for the purpose.
 
-78. (1) Upon being satisfied at any time by the reports of a senior education officer or otherwise that the requirements  of  these  Regulations  are  not  being  the  Chief Education Officer shall give the governing body of the school concerned written notice to comply with such requirements, and  shall  specify  a  time  within  which  this  shall  be  done.  It shall then be the duty of the governing body to comply with such  requirements  and  to  report  in  writing  to  the  Chief Education Officer that this has been done.
+78. (1) Upon being satisfied at any time by the reports of a senior education officer or otherwise that the requirements of these Regulations are not being complied with, the Chief Education Officer shall give the governing body of the school concerned written notice to comply with such requirements, and shall specify a time within which this shall be done. It shall then be the duty of the governing body to comply with such requirements and to report in writing to the Chief Education Officer that this has been done.
 
 (2) If such requirements have not been made good to  the  satisfaction  of  the  Chief  Education  Officer  within  the time specified by him, he may then act under regulation 24.
 
@@ -3280,9 +3752,13 @@ any school, and shall have full liberty to examine the school registers, and to 
 
 (2)  No  branch  school  shall  be  more  than  three miles from the main school.
 
-Minimum average attendance. | 80. The average attendance in a branch school shall be not less than thirty pupils.
---- | ---
-Nursery schools and | 81. Grants may be given to a governing body in
+Minimum average attendance.
+
+80. The average attendance in a branch school shall be not less than thirty pupils.
+
+Nursery schools and
+
+81. Grants may be given to a governing body in
 
 L.R.O. 1/2012
 
@@ -3300,21 +3776,22 @@ Education
 
 Education Code Regulations
 
-continuation respect of a nursery school or a continuation school.
+continuation schools.
 
-schools.
+respect of a nursery school or a continuation school.
 
-Schools in remote areas. [Reg. 17/1950]
+Schools in remote areas.
+[Reg. 17/1950]
 
-82 . (1) The Chief Education Officer may, after consultation  with  the  Council,  in  special  circumstances  and under conditions to be determined after full consideration of each  case  give  grants  to  a  governing  body  for  the  primary education of children residing in remote or sparsely
+82. (1) The Chief Education Officer may, after consultation with the Council, in special circumstances and under conditions to be determined after full consideration of each case give grants to a governing body for the primary education of children residing in remote or sparsely populated places and in places difficult of access.
 
-- populated places and in places difficult of access.
+Salaries of head teachers.
 
-Salaries of head teachers. (2)  The  head  teacher  of  a  school  shall  be  paid  a monthly salary-
+(2) The head teacher of a school shall be paid a monthly salary—
 
-(a) on  the  scale  $65  x  $5-$80  ||  x  $5$100  with  an  efficiency  bar  at  $80 where the head teacher is a certificated teacher;
+(a) on the scale $65 x $5—$80 || x $5—$100 with an efficiency bar at $80 where the head teacher is a certificated teacher;
 
-(b) on  the  scale  $50  x  $5-$60  ||  x  $5$70;  with  an  efficiency  bar  at  $60; where the head teacher is an uncertificated teacher
+(b) on the scale $50 x $5—$60 || x $5—$70; with an efficiency bar at $60; where the head teacher is an uncertificated teacher
 
 (3)  The  employment  of  an  uncertificated  head teacher may be terminated if he does not obtain a certificate within such time as may from time to time be prescribed by the Chief Education Officer.
 
@@ -3338,13 +3815,21 @@ Cap. 39:01
 
 Education Code Regulations
 
-Salaries of assistant teachers. | (5) In a school with an average attendance of over 40 pupils, an assistant teacher shall be employed, and he shall be paid a monthly salary-
---- | ---
-(a) on the scale $45 x $5-$65 where the assistant teacher is a certificated
-(b) on the scale $30 x $2.50-$40 where the assistant teacher is an
-Supply of furniture and stationery. | (6) In schools receiving grants under this regulation the buildings shall be wholly maintained by the governing bodies but the Chief Education Officer shall, from the sums provided for the purpose by Parliament provide and issue to a governing body furniture or other equipment, stationery and other school requisites according to the following rate or such other rate as the Minister may from time to time approve-
-(a) in respect of furniture or other equipment $24 per annum for schools with an average attendance of 40 and
-(b) in respect of each pupil in average attendance at each of the schools, stationery and other school requisites
+Salaries of assistant teachers.
+
+(5) In a school with an average attendance of over 40 pupils, an assistant teacher shall be employed, and he shall be paid a monthly salary—
+
+(a) on the scale $45 x $5—$65 where the assistant teacher is a certificated teacher;
+
+(b) on the scale $30 x $2.50—$40 where the assistant teacher is an uncertificated teacher.
+
+Supply of furniture and stationery.
+
+(6) In schools receiving grants under this regulation the buildings shall be wholly maintained by the governing bodies but the Chief Education Officer shall, from the sums provided for the purpose by Parliament provide and issue to a governing body furniture or other equipment, stationery and other school requisites according to the following rate or such other rate as the Minister may from time to time approve—
+
+(a) in respect of furniture or other equipment $24 per annum for schools with an average attendance of 40 and under; and $30 per annum for schools with an average attendance of over 40; provided that where owing to distance or other cause it is, in the opinion of the Chief Education Officer, not convenient to issue such furniture, the Chief Education Officer may pay to a governing body a block grant to the value thereof; and
+
+(b) in respect of each pupil in average attendance at each of the schools, stationery and other school requisites at the rate of 12½ cents per annum or
 
 L.R.O. 1/2012
 
@@ -3362,9 +3847,7 @@ Education
 
 Education Code Regulations
 
-at  such  a  rate  as  the  Minister  may from time to time approve
-
-.
+at such a rate as the Minister may from time to time approve.
 
 (7)  In  cases  where  the  Chief  Education  Officer  is satisfied  that  any  school  for  a  particular  year  is  properly furnished and equipped, the grant for furniture and equipment  may  be  issued  towards  the  maintenance  of  the building for that year.
 
@@ -3372,15 +3855,24 @@ at  such  a  rate  as  the  Minister  may from time to time approve
 
 ## PART XII REGISTERS, RECORDS, AND RETURNS
 
-List of registers records, etc., to | 83 . (1) There shall be kept every school-
---- | ---
-be kept. | (a) a copy of these Regulations and any amendment thereto;
+List of registers records, etc., to be kept.
+
+83. (1) There shall be kept in every school—
+
+(a) a copy of these Regulations and any amendment thereto;
+
 (b) copies of all Gazette notices and circulars issued to schools;
+
 (c) a log book or school diary;
+
 (d) a register of admission and withdrawal of pupils;
+
 (e) transfer certificates;
+
 (f) attendance registers of pupils;
+
 (g) attendance register of teachers;
+
 (h) a book containing such accounts as the Chief Education Officer may from time to time prescribe;
 
 L.R.O. 1/2012
@@ -3391,14 +3883,35 @@ L.R.O. 1/2012
 
 LAWS OF GUYANA
 
-Cap. 39:01 105
+Education Cap. 39:01 105
 
-[Subsidiary] | Education Code | Regulations
---- | --- | ---
-Preservation of registers, etc. | (2) All registers, records, and books shall be kept in good order and in the manner prescribed by these Regulations or as approved by the Chief Education Officer. Attendance completed shall be the termination | registers of carefully preserved of the school
-Log book. | 84 . (1) The log book shall contain a record of any event of importance connected with the school, such as- (a) the beginning and end of a school term, the reason for closing of the
+[Subsidiary] Education Code Regulations
 
-Education
+(i) inventory of school furniture, equipment, apparatus, and material;
+
+(j) a time table and scheme of work approved by the Chief Education Officer;
+
+(k) teachers' notes of lessons and records of work;
+
+(l) examination question papers, answers and results;
+
+(m) a punishment book;
+
+(n) any other registers, books, records, or returns prescribed from time to time by the Chief Education Officer.
+
+Preservation of registers, etc.
+
+(2) All registers, records, and books shall be kept in good order and in the manner prescribed by these Regulations or as approved by the Chief Education Officer.
+
+(3) Attendance registers of pupils and teachers when completed shall be carefully preserved for at least five years after the termination of the school year to which they relate.
+
+(4) Log books and registers of admission shall be carefully preserved as long as possible as a permanent record of the school.
+
+Log book.
+
+84. (1) The log book shall contain a record of any event of importance connected with the school, such as—
+
+(a) the beginning and end of a school term, the reason for closing of the school on all occasions on which it is
 
 L.R.O. 1/2012
 
@@ -3412,14 +3925,25 @@ LAWS OF GUYANA
 
 Education
 
-[Subsidiary] | Education Code Regulations
---- | ---
-such absence from whom; (c) all neglect member (d) a copy of the (e) all severe reason; each case. (2) No reflections personal character are to be entered | (b) the absence of any teacher from one or more sessions or parts thereof, together with the reason of such absence, and a statement whether teacher has obtained leave of or not, and, if the former,
-serious breaches of discipline or of duty on the part of any of the school staff;
-of the report of each inspection school;
-interruptions of school work by weather, epidemic, or other the cause being fully stated in
-or opinions of a general in the log book.
-Admission and withdrawal register of pupils. 85. (1) The register of admission and withdrawal of pupils shall be kept in a form approved by the Chief Education Officer and shall show the date of birth, and the position in the school and complete progress of every pupil,
+[Subsidiary] Education Code Regulations
+
+closed, change of teachers, repairs to the school, the receiving of circulars, rules, and other documents;
+
+(b) the absence of any teacher from one or more sessions or parts thereof, together with the reason of such absence, and a statement whether such teacher has obtained leave of absence or not, and, if the former, from whom;
+
+(c) all serious breaches of discipline or neglect of duty on the part of any member of the school staff;
+
+(d) a copy of the report of each inspection of the school;
+
+(e) all interruptions of school work by severe weather, epidemic, or other reason; the cause being fully stated in each case.
+
+(2) No reflections or opinions of a general or personal character are to be entered in the log book.
+
+Admission and withdrawal register of pupils.
+
+85. (1) The register of admission and withdrawal of pupils shall be kept in a form approved by the Chief Education Officer and shall show the date of birth, and the position in the school and complete progress of every pupil, including those transferred from other schools, giving the dates and their respective divisions year by year.
+
+(2) When a pupil is admitted, his name and date of birth shall be entered at once in the admission and withdrawal register of pupils, and the necessary information
 
 L.R.O. 1/2012
 
@@ -3451,7 +3975,7 @@ entered in each column.
 
 (4)  The names of boys shall be entered separately from  those  of  girls  in  the  register,  but  wherever  possible, division or class registers shall be kept.
 
-(5) When a pupil has been absent from the school for three months without notification of withdrawal, an entry of  the  fact  shall  be  made  in  the  withdrawal  column  of  the admission  register  and  the  pupil's  name  shall  not  be  rewritten in the attendance register for the next term.
+(5) When a pupil has been absent from the school for three months without notification of withdrawal, an entry of the fact shall be made in the withdrawal column of the admission register and the pupil's name shall not be re-written in the attendance register for the next term.
 
 (6) When  a  pupil has been  withdrawn after notification of withdrawal given by the parent or guardian in person  or  in  writing,  an  entry  shall  be  made  at  once  in  the attendance register by drawing a line in red ink from the last day the pupil attended to the end of the term.
 
@@ -3505,12 +4029,17 @@ Cap. 39:01
 
 Education
 
-[Subsidiary] | Education | Code Regulations
---- | --- | ---
-(g) | the register must be original and not copied from slates or papers with the object of keeping it clean or for any
-(h) | other object; within the first half-hour of each session of the school, the number of attendances recorded on each page and the total number made by the whole school, must be entered in the spaces provided. The number of attendances made by each pupil
-(i) | on the occasion of a holiday, a line must be drawn down the whole length of the column for the day; for longer periods "holidays" may be written across the columns;
-(j) | in schools situated on the banks of rivers and unapproachable by any public path, the marking of the register at the morning session may,
+[Subsidiary] Education Code Regulations
+
+(f) if a pupil, other than a pupil of the preparatory division leaves the school within two hours in the morning session, or within one and a half hours in the afternoon session, after the marking of the register, the mark for presence must be cancelled by another stroke thus— x ;
+
+(g) the register must be original and not copied from slates or papers with the object of keeping it clean or for any other object;
+
+(h) within the first half-hour of each session of the school, the number of attendances recorded on each page and the total number made by the whole school, must be entered in the spaces provided. The number of attendances made by each pupil during the week must be entered every Friday afternoon and by each pupil at the end of each term during the first month in the succeeding term;
+
+(i) on the occasion of a holiday, a line must be drawn down the whole length of the column for the day; for longer periods "holidays" may be written across the columns;
+
+(j) in schools situated on the banks of rivers and unapproachable by any public path, the marking of the register at the morning session may,
 
 L.R.O. 1/2012
 
@@ -3524,10 +4053,21 @@ LAWS OF GUYANA
 
 Education
 
-[Subsidiary] | Education Code Regulations
---- | ---
-Teachers' attendance register. | 88. In the attendance register of teachers each teacher and pupil teacher must enter the time of his arrival and departure from school in the morning and afternoon of each day. If a teacher is absent the whole of a session, then the head teacher (or teacher in charge in the head teacher's absence) must enter the word "absent" in the place for the time of arrival. Teachers shall be in school at least fifteen minutes before the commencement of each session.
-Absence of teachers. | 89 . (1) Head teachers absent from duty must report their absence in writing forthwith to the manager, and must state the reasons for such absence. Assistant teachers and pupil teachers must similarly report in writing to the head teacher, or teacher in charge in the head teacher's absence who will at once inform the manager. (2) When in the opinion of the Chief Education Officer the absence of any teacher is not justifiable such teacher shall not be paid any salary in respect of the period of
+[Subsidiary] Education Code Regulations
+
+with the approval of the Chief Education Officer, be carried out within one hour after the time fixed for the opening of that session;
+
+(k) the head teacher may appoint certain assistant teachers to assist in the marking of the registers, and they shall be responsible to him for their accuracy, but the general responsibility for the manner in which the registers are kept shall remain with the head teacher. All corrections shall be made in the manner prescribed, and shall be initialled by him.
+
+Teachers' attendance register.
+
+88. In the attendance register of teachers each teacher and pupil teacher must enter the time of his arrival and departure from school in the morning and afternoon of each day. If a teacher is absent the whole of a session, then the head teacher (or teacher in charge in the head teacher's absence) must enter the word "absent" in the place for the time of arrival. Teachers shall be in school at least fifteen minutes before the commencement of each session.
+
+Absence of teachers.
+
+89. (1) Head teachers absent from duty must report their absence in writing forthwith to the manager, and must state the reasons for such absence. Assistant teachers and pupil teachers must similarly report in writing to the head teacher, or teacher in charge in the head teacher's absence who will at once inform the manager.
+
+(2) When in the opinion of the Chief Education Officer the absence of any teacher is not justifiable such teacher shall not be paid any salary in respect of the period of such absence.
 
 L.R.O. 1/2012
 
@@ -3547,12 +4087,30 @@ Cap. 39:01
 
 Education Code Regulations
 
-Time table. | 90. A time-table shall be drawn up by the head
---- | ---
-Scheme of work | 91. (1) A scheme of work covering a year's instruction shall be drawn up by the head teacher at the beginning of each school year on the lines of the suggested scheme of work contained in the Schedule. (2) Each class teacher shall make a copy of the portion affecting his class and separate it into three terminal
-Records of work and notes of lessons. | 92 (1) Records of work in a form approved by the Chief Education Officer shall be kept for each class, in which must be entered at the end of each week a concise account of the work done. Records of work must be inspected and signed by the head teacher weekly.
-Punishment book. | 93. Whenever corporal punishment is administered, a statement of the nature and extent of the punishment and the reason therefor must be entered in the punishment book. All such entries must be made at the time the punishment is inflicted.
-Corporal punishment. [Reg. 37/1943] | 94. (1) For serious or repeated offences corporal punishment may be administered by the head teacher or by an assistant teacher over twenty years of age and authorised by him.
+Time table.
+
+90. A time-table shall be drawn up by the head teacher on the official form provided and in accordance with the instructions issued by the Chief Education Officer, and after approval by the Chief Education Officer shall be hung in a conspicuous place in the school.
+
+Scheme of work
+
+91. (1) A scheme of work covering a year's instruction shall be drawn up by the head teacher at the beginning of each school year on the lines of the suggested scheme of work contained in the Schedule.
+
+(2) Each class teacher shall make a copy of the portion affecting his class and separate it into three terminal portions.
+
+Records of work and notes of lessons.
+
+92. (1) Records of work in a form approved by the Chief Education Officer shall be kept for each class, in which must be entered at the end of each week a concise account of the work done. Records of work must be inspected and signed by the head teacher weekly.
+
+(2) Notes of lessons shall be kept by the head teacher and each member of the staff, to show evidence of regular and careful preparation of the work planned to be covered.
+
+Punishment book.
+
+93. Whenever corporal punishment is administered, a statement of the nature and extent of the punishment and the reason therefor must be entered in the punishment book. All such entries must be made at the time the punishment is inflicted.
+
+Corporal punishment.
+[Reg. 37/1943]
+
+94. (1) For serious or repeated offences corporal punishment may be administered by the head teacher or by an assistant teacher over twenty years of age and authorised by him.
 
 L.R.O. 1/2012
 
@@ -3747,15 +4305,15 @@ Education
 
 Education Code Regulations
 
-nature stories (birds, animals flowers), stories of children of other lands; health talks to be given daily. Children in every case to be encouraged to do most of the talking. Continuous narrative to be encouraged. Phases of the stories told to be regularly dramatised.
+nature stories (birds, animals, flowers), stories of children of other lands; health talks to be given daily. Children in every case to be encouraged to do most of the talking. Continuous narrative to be encouraged. Phases of the stories told to be regularly dramatised.
 
-N.B.It  is  not  proposed  to  give  any  formal  lessons  at  this stage in geography, hygiene and nature study. These may be taught incidentally during the lessons on composition.
+N.B.—It is not proposed to give any formal lessons at this stage in geography, hygiene and nature study. These may be taught incidentally during the lessons on composition.
 
-(ii) Written-Easy sentences on everyday things  to  be  written  leading  up  to continuous  narrative  in  the  form  of simple  letters  and  easy  reproduction exercises.
+(ii) Written—Easy sentences on everyday things to be written leading up to continuous narrative in the form of simple letters and easy reproduction exercises.
 
-##### (e) Grammar-
+##### (e) Grammar—
 
-- Analysis of simple sentences into subject and predicate, parts of speech-noun,  personal  pronoun, verb, adjective, adverb. The use of these parts of speech in sentences.
+Analysis of simple sentences into subject and predicate, parts of speech—noun, personal pronoun, verb, adjective, adverb. The use of these parts of speech in sentences.
 
 #### 3 . ARITHMETIC-
 
@@ -3791,7 +4349,7 @@ Suitable exercises are-
 
 (ii) flat curved  objects,  e.g. bat, tennis racquet,  wooden spoon, knife, board, coat-hanger, horse-shoe, kite;
 
-(iii) rectangular forms and triangular forms,  e.g.  envelopes,  playing-  card, blotting-pad, label, picture-frame, slate, T-square, paper bag, buckle, purse, set square;
+(iii) rectangular forms and triangular forms, e.g. envelopes, playing-card, blotting-pad, label, picture-frame, slate, T-square, paper bag, buckle, purse, set square;
 
 (iv) natural forms, e.g. leaves of castor oil, bread fruit, tamarind; Drawing of plan of school and class room.
 
@@ -3839,9 +4397,9 @@ Education Code Regulations
 
 AVERAGE AGE 10 TO 12 25 hours weekly
 
-#### RELIGIOUS OBSERVANCES AND INSTRUCTION.
+#### 1. RELIGIOUS OBSERVANCES AND INSTRUCTION.
 
-#### ENGLISH-
+#### 2. ENGLISH—
 
 ##### (a) Reading -
 
@@ -3875,7 +4433,7 @@ Spelling exercises of more difficult words.
 
 Oral composition -continued with greater proficiency.
 
-- Written  composition -(increased  proficiency)  including  letterwriting.
+Written composition—(increased proficiency) including letter-writing.
 
 ##### (d) Grammar -
 Simple parsing; analysis of simple sentences.
@@ -3925,7 +4483,7 @@ outdoor observation.
 
 ##### (b) Gardening-
 
-The one year course-see Schedule-part 4.
+The one year course—see Schedule—part 4.
 
 #### 7. ELEMENTARY HYGIENE-
 
@@ -3951,12 +4509,27 @@ Cap. 39:01
 
 Education
 
-[Subsidiary] | Education Code Regulations
---- | ---
-#### 9. SINGING-
-A definite number of new songs should be taught and a list of them kept. They should include action
-#### 10. NEEDLEWORK-
-(a) tacking, running, hemming, top-sewing, and fell seams, stitching, darning place. Button holes, sewing on strings. | (ii) more difficult exercises such as flower-pot with rim, pudding basin, sieve, ink well, reel, pickle and jelly jars, Indian club, gloy bottle, aerated water bottle, round tin and box with lid, vase, thermos flask, Japanese umbrella (open and half open), key, knife with open blades, whistle, bows of ribbon, padlock, tin opener, buckle, brush, table fork, saw, axe; (iii) natural forms-leaves of different kinds, simple flower forms, as lily, sunflower, zinnia, etc; (iv) imaginative and memory drawing connected with other lessons given previously to class. each term songs. sew on a thin
+[Subsidiary] Education Code Regulations
+
+(ii) more difficult exercises such as flower-pot with rim, pudding basin, sieve, ink well, reel, pickle and jelly jars, Indian club, gloy bottle, aerated water bottle, round tin and box with lid, vase, thermos flask, Japanese umbrella (open and half open), key, knife with open blades, whistle, bows of ribbon, padlock, tin opener, buckle, brush, table fork, saw, axe;
+
+(iii) natural forms—leaves of different kinds, simple flower forms, as lily, sunflower, zinnia, etc;
+
+(iv) imaginative and memory drawing connected with other lessons given previously to class.
+
+#### 9. SINGING—
+
+A definite number of new songs should be taught each term and a list of them kept. They should include action songs.
+
+#### 10. NEEDLEWORK—
+
+(a) tacking, running, hemming, top-sewing, sew and fell seams, stitching, darning on a thin place. Button holes, sewing on strings.
+
+(b) Cutting out and making up small articles and garments such as pillow slip, handkerchief, runner, mat, apron, child's chemise, infant's feeder.
+
+(c) Running stitch in coloured thread to form design; feather stitch; loop stitch.
+
+#### 11. PHYSICAL TRAINING—
 
 L.R.O. 1/2012
 
@@ -3996,11 +4569,11 @@ The first year's course-see Schedule-part 5.
 
 AVERAGE AGE 12 AND OVER 25 HOURS WEEKLY
 
-#### RELIGIOUS OBSERVANCES AND INSTRUCTION.
+#### 1. RELIGIOUS OBSERVANCES AND INSTRUCTION.
 
-#### 2 . ENGLISH-
+#### 2. ENGLISH—
 
-- Selections  from  English  authors  and  from  the  history  of Guyana and other Commonwealth territories, with increased proficiency. Recitation, analysis, parsing, letter writing (increased proficiency), essay writing and spelling.
+Selections from English authors and from the history of Guyana and other Commonwealth territories, with increased proficiency. Recitation, analysis, parsing, letter writing (increased proficiency), essay writing and spelling.
 
 L.R.O. 1/2012
 
@@ -4020,7 +4593,7 @@ Cap. 39:01
 
 Education Code Regulations
 
-N.B.The study of a definite number of continuous readers is essential.
+N.B.—The study of a definite number of continuous readers is essential.
 
 #### 3 . ARITHMETIC-
 
@@ -4028,7 +4601,7 @@ N.B.The study of a definite number of continuous readers is essential.
 
 - Areas and volumes; compound proportion; advanced simple interest and simple accounts.
 
-N.B.Stress should be laid on practical work .
+N.B.—Stress should be laid on practical work.
 
 #### 4 . GEOGRAPHY-
 
@@ -4100,16 +4673,31 @@ Cap. 39:01
 
 Education
 
-[Subsidiary] | Education Code Regulations
---- | ---
-(c) Special attention should be given to elementary perspective in model drawing. (d) Imaginative and memory drawing. Objects suitable are- (i) tins of all kinds with lids, barrels, bottles of all kinds, drums, butter dishes, vases and jars of good shapes and colours; (ii) natural objects, e.g. leaves on twigs, reeds and grasses, small shrubs, flowers of various kinds, onions singly or together, feathers, shells, corn in pod or bursting from pod; (iii) memory and imaginative drawing.
-#### 9. SINGING-
-A number of new songs should be taught each term and a list
-#### 10. NEEDLEWORK-
-(a) Button holes, flannel patches, bias binding, print and calico patches, gathering and setting into band, darning stockings, pleating, sewing on buttons, strengthening tapes, marking. (b) Cutting out and making up child's dress, romper, school uniform, knickers, slips,
-nightdress.
-(c) Decorative stitchery. Cross stitch borders, seed- stitch, knotting and looping.
-stitchery-
+[Subsidiary] Education Code Regulations
+
+(c) Special attention should be given to elementary perspective in model drawing.
+
+(d) Imaginative and memory drawing.
+
+Objects suitable are—
+
+(i) tins of all kinds with lids, barrels, bottles of all kinds, drums, butter dishes, vases and jars of good shapes and colours;
+
+(ii) natural objects, e.g. leaves on twigs, reeds and grasses, small shrubs, flowers of various kinds, onions singly or together, feathers, shells, corn in pod or bursting from pod;
+
+(iii) memory and imaginative drawing.
+
+#### 9. SINGING—
+
+A number of new songs should be taught each term and a list kept for reference. They should include patriotic airs for use on special occasions.
+
+#### 10. NEEDLEWORK—
+
+(a) Button holes, flannel patches, bias binding, print and calico patches, gathering and setting into band, darning stockings, pleating, sewing on buttons, strengthening tapes, marking.
+
+(b) Cutting out and making up child's dress, romper, school uniform, knickers, slips, nightdress.
+
+(c) Decorative stitchery. Cross stitch stitchery-borders, seed-stitch, knotting and looping.
 
 L.R.O. 1/2012
 
@@ -4128,6 +4716,28 @@ Education
 
 L.R.O. 1/2012
 
+(d) As in (a) but with greater proficiency. Hedge tear and cross-cut darns, gusseting.
+
+(e) Cutting out and making up dresses, pyjamas, blouses, infant's nightdresses. Shirts may also be attempted by the pupils who show special aptitude.
+
+(f) Making and decorating articles and garments such as needle-cases, blotters, calendars, infant's feeders, bonnets and dresses.
+
+#### 11. PHYSICAL TRAINING—
+
+Tables 55-72 of the latest Syllabus of Physical Training. Tables for Older Children 1-9 from "Physical Training for Rural Schools" should be used in small schools. The games mentioned in this publication should also be introduced.
+
+Note.—Teachers should consult the Education Department for list of suitable text books to be used in each subject.
+
+#### 12. HANDWORK—
+
+Basket work, hammock making and other crafts with more advanced exercises. Book-binding and chair caning should be commenced.
+
+#### 13. WOODWORK (BOYS)—
+
+The two years' course—see Schedule—part 3. Minor repairs to and painting of school buildings, fences, etc.
+
+#### 14. DOMESTIC SUBJECTS (GIRLS)—
+
 [[END OF PAGE 126]]
 
 [[START OF PAGE 127]]
@@ -4144,35 +4754,35 @@ Cap. 39:01
 
 Education Code Regulations
 
-The two years' course-see Schedule-part 5.
+The two years' course—see Schedule—part 5.
 
-#### 15 . RECREATION.
+#### 15. RECREATION.
 
 ## PART 2
 
 ### SCHEME OF WORK FOR SCHOOLS IN REMOTE AREAS PREPARATORY DIVISION
 
-#### RELIGIOUS OBSERVANCES AND INSTRUCTION.
+#### 1. RELIGIOUS OBSERVANCES AND INSTRUCTION.
 
-#### ENGLISH-
+#### 2. ENGLISH—
 
-##### (a) Reading -
+##### (a) Reading—
 
 To read from sheets and primers. Word building.
 
-##### (b) Writing -
+##### (b) Writing—
 
-- Script writing. To write in semi-vertical script words of four or five letters from the blackboard or primer.
+Script writing. To write in semi-vertical script words of four or five letters from the blackboard or primer.
 
-##### (c) English Composition -
+##### (c) English Composition—
 
-- Story  telling,  conversation  lessons  on  common  things  of  the district. Stories should be dramatised whenever suitable. Nursery rhymes.
+Story telling, conversation lessons on common things of the district. Stories should be dramatised whenever suitable. Nursery rhymes.
 
-#### ARITHMETIC-
+#### 3. ARITHMETIC—
 
-- Number; counting. Recognition of figures and number groups 1-20.  Analysis  and  synthesis  of  numbers  to  20.  Money: Value and coins to 12 cents.
+Number; counting. Recognition of figures and number groups 1-20. Analysis and synthesis of numbers to 20. Money: Value and coins to 12 cents.
 
-#### 4 . SINGING-
+#### 4. SINGING—
 
 L.R.O. 1/2012
 
@@ -4216,7 +4826,7 @@ Observation lessons on the school garden.
 
 ##### (a) Reading -
 
-- To read from an approved reading book. Suitable continuous readers  should  also  be  used  and  stress  laid  on  suitable recitations. Spelling-names  of  common  objects,  e.g. home, farm, workshop. Words used in everyday speech.
+To read from an approved reading book. Suitable continuous readers should also be used and stress laid on suitable recitations. Spelling—names of common objects, e.g. home, farm, workshop. Words used in everyday speech.
 
 ##### (b) Writing -
 
@@ -4238,16 +4848,30 @@ Education
 
 [Subsidiary] | Education Code Regulations
 --- | ---
-Transcription from readers. (ii) Continuous cursive style should be started. Children to begin writing on paper.
+Transcription from readers.
+
+(ii) Continuous cursive style should be started. Children to begin writing on paper.
+
+##### (c) Composition—
+
 Story telling (continued). Dramatisation of stories (continued); stories of children of other lands (the map should be used as an aid where necessary); stories of local birds, animals and flowers for oral composition. Health talks (children should be able to answer orally questions on the above).
-#### 3. ARITHMETIC-
-(a) Notation and numeration to hundreds. Simple sums in addition, subtraction, and
-multiplication; practical exercises in buying and changing money to 50 cents.
+
+#### 3. ARITHMETIC—
+
+(a) Notation and numeration to hundreds. Simple sums in addition, subtraction, and multiplication; practical exercises in buying and changing money to 50 cents.
+
 (b) Notation to 1,000; simple sums involving the four rules, practical exercises in buying and changing money to $1. Measurements: inches; ½ inches, ¼ inches, 1 pint; 1 pound; 1 hour. Fractions: ½, ¼, etc.
+
+#### 4. SINGING—
+
 A variety of interesting songs should be taught in the lower and middle divisions.
-#### 5 . PHYSICAL TRAINING AND GAMES-
+
+#### 5. PHYSICAL TRAINING AND GAMES—
+
 Physical Exercises for Rural Schools; Tables for older children, 1 to 4.
-#### 6 . GARDENING-
+
+#### 6. GARDENING—
+
 A garden plot sufficient to give adequate practice to 20
 
 L.R.O. 1/2012
@@ -4318,13 +4942,13 @@ continued.
 
 (a) Notation and numeration to tens of thousands. The four rules, dealing with Guyanese  and  Commonwealth  money  to $25.
 
-(b) Notation  and  numeration  to  hundreds  of thousands.  Simple  problems  in  Guyanese and  Commonwealth  money,  and  weights and  measures.  Special  attention  should  be paid  to  mental  and  practical  arithmeticexercises  in  buying  and  selling,  measuring and squaring timber, cost of clearing grants, measuring  and  laying  out  of  garden  plots. All  exercises  should  have  a  local  bias.  Easy vulgar fractions and decimals to two places.
+(b) Notation and numeration to hundreds of thousands. Simple problems in Guyanese and Commonwealth money, and weights and measures. Special attention should be paid to mental and practical arithmetic—exercises in buying and selling, measuring and squaring timber, cost of clearing grants, measuring and laying out of garden plots. All exercises should have a local bias. Easy vulgar fractions and decimals to two places.
 
 #### 4 . SINGING.
 
 #### 5. PHYSICAL TRAINING AND GAMES-
 
-- Physical  Exercises  for  Rural  Schools-Tables  5  to  9.  Head teachers should encourage parents to teach their children to  swim,  whenever conditions are safe  enough to allow this to be done.
+Physical Exercises for Rural Schools—Tables 5 to 9. Head teachers should encourage parents to teach their children to swim, whenever conditions are safe enough to allow this to be done.
 
 L.R.O. 1/2012
 
@@ -4352,11 +4976,11 @@ Continued with increased proficiency.
 
 #### 8 . RECREATION.
 
-Note.(1) There is to be no special time for such subjects as history,  geography,  nature  study  and  hygiene.  These  should  be correlated as shown above in the composition exercises.
+Note.—(1) There is to be no special time for such subjects as history, geography, nature study and hygiene. These should be correlated as shown above in the composition exercises.
 
-(2) Where there is a woman teacher on the staff qualified to  teach  sewing,  this  subject  should  be  included,  and  the  same scheme should be followed as given in Schedule-part 1 according to the division.
+(2) Where there is a woman teacher on the staff qualified to teach sewing, this subject should be included, and the same scheme should be followed as given in Schedule—part 1 according to the division.
 
-N.B.Teachers should consult the Education Department for list of text books to be used in each subject.
+N.B.—Teachers should consult the Education Department for list of text books to be used in each subject.
 
 ## PART 3
 ### COURSE OF INSTRUCTION IN WOODWORK
@@ -4394,7 +5018,7 @@ primitive  ages  to  the  present  day.  Working  positions  for various exercis
 
 1. The various types of local woods and the localities producing them, as compared  with  foreign woods; the growth, characteristics and common uses of local woods and current  market  rates  of  the  same.  Continued  lessons  on  the care of tools, their working parts, etc.
 
-2. Practical-Joints-half-lap dovetail, slip joint. Continuation  of  first  term's  work.  Models-bookstand,  teatray,  egg-stand,  child's  chair  (wooden  or  rush  seat),  cutlery tray.
+2. Practical—Joints—half-lap dovetail, slip joint. Continuation of first term's work. Models—bookstand, tea-tray, egg-stand, child's chair (wooden or rush seat), cutlery tray.
 
 3. Drawing-Contract Books 2 and 3.
 
@@ -4436,9 +5060,9 @@ Education Code Regulations
 
 1. Lessons on polishing. Continued arithmetical exercises  as  during  the  first  term,  and  other  exercises  as experience suggests.
 
-2. Practical-Joints-longitudinal grain jointing (loose fillet, screw-head slot) housing.  Models-cupboard  with compartments  (suitable  for  school  use),  school  furnituresizes C and D, plain easel. Simple models to be selected from "Woodworker" magazine. All models to be finished in wax or polish.
+2. Practical—Joints—longitudinal grain jointing (loose fillet, screw-head slot) housing. Models—cupboard with compartments (suitable for school use), school furniture—sizes C and D, plain easel. Simple models to be selected from "Woodworker" magazine. All models to be finished in wax or polish.
 
-- Drawing-Practical woodwork exercises in
+3. Drawing—Practical woodwork exercises in
 
 L.R.O. 1/2012
 
@@ -4464,7 +5088,7 @@ orthographic and isometric projections to scale. Templates for school furniture 
 
 1. Revision of theoretical work of the previous terms.
 
-2. Practical-Joints-splice,  keyed  scarf.  Modelsschool  furniture,  sizes  A  and  B,  easel  with  map  slide;  step ladder;  simple  models  from  "Woodworker"  magazine.  All work to be finished in oil, wax or polish.
+2. Practical—Joints—splice, keyed scarf. Models—school furniture, sizes A and B, easel with map slide; step ladder; simple models from "Woodworker" magazine. All work to be finished in oil, wax or polish.
 
 3. Drawing-Pupils must be able to draw any model they make in the most suitable projection to scale.
 
@@ -4474,7 +5098,7 @@ __________________
 
 ### COURSE OF INSTRUCTION IN SCHOOL GARDENING
 
-#### THE FOLLOWING SCHEME IS SUITABLE (WITH MINOR MODIFICATIONSWHERE REQUIRED IN ANY SCHOOL WHICH HAS A GARDEN) IN SELECTED SCHOOLS IT WILL FORM PART OF THE SPECIAL COURSE OF INSTRUCTION IN RURAL SCIENCE AND ELEMENTARY AGRICULTURE A TWO YEAR COURSE FOR THE UPPER DIVISION
+#### THE FOLLOWING SCHEME IS SUITABLE (WITH MINOR MODIFICATIONS WHERE REQUIRED IN ANY SCHOOL WHICH HAS A GARDEN) IN SELECTED SCHOOLS IT WILL FORM PART OF THE SPECIAL COURSE OF INSTRUCTION IN RURAL SCIENCE AND ELEMENTARY AGRICULTURE A TWO YEAR COURSE FOR THE UPPER DIVISION
 
 ##### 1. (a) OBJECTS OF A SCHOOL GARDEN-
 
@@ -4500,13 +5124,36 @@ Education
 
 [Subsidiary] | Education Code Regulations
 --- | ---
-###### (b) FACTORS SCHOOL | CONTROLLING THE SUCCESS OF A GARDEN-
+
+(iv) To train the children's power of observation and to interest them in their surroundings.
+
+(v) To teach the dignity of labour and encourage an honest pride in good work.
+
+(vi) To relieve the routine of indoor work with outdoor work of a pleasant and recreative nature.
+
+(vii) To cultivate a love of order, neatness and good taste.
+
+##### (b) FACTORS CONTROLLING THE SUCCESS OF A SCHOOL GARDEN—
+
 (i) Interest of teachers and pupils in agriculture.
-##### 2. SEASONS-
-Months
-##### 3. THE
-| for planting; rainfall, etc. SITE-Local peculiarities (soil and climatic) and agricultural difficulties (drainage, etc.). PLOT- (a) Knowledge of the plan or lay-out; convenience for drainage; position of dams and paths; seed-beds; nursery, etc. (b) Preparation before bringing into cultivation; general weeding, forking, levelling; division into individual, communal or propagation plots (due regard to suitability of size to allow easy reach from any point without trampling).
-##### 4. THE
+
+(ii) Suitability of site.
+
+(iii) Competitions.
+
+##### 2. SEASONS—
+
+Months for planting; rainfall, etc.
+
+##### 3. THE SITE—
+
+Local peculiarities (soil and climatic) and agricultural difficulties (drainage, etc.).
+
+##### 4. THE PLOT—
+
+(a) Knowledge of the plan or lay-out; convenience for drainage; position of dams and paths; seed-beds; nursery, etc.
+
+(b) Preparation before bringing into cultivation; general weeding, forking, levelling; division into individual, communal or propagation plots (due regard to suitability of size to allow easy reach from any point without trampling).
 
 L.R.O. 1/2012
 
@@ -4568,26 +5215,40 @@ LAWS OF GUYANA
 --- | --- | ---
 [Subsidiary] | Education Code Regulations
 (i) Whole beds.
-(ii) Holes.
-(b) | (i) Seeds.
-(ii) Seedlings.
-(iii) Cuttings, etc.
-(c) | Distancing.
-(d) | Transplanting-when, how; after-care, including watering, shading, supplying, etc.
-##### MANURES AND MANURING-
-9. | value.
-(a) | (b) Artificial fertilizers; functions; principal types.
-(c) | Soil amendments-uses (liming).
-(d) | Compost heaps-value of such heaps and methods of making.
-Cover crops.
-(e)
-##### 10. CROPS-
-| Crops suitable for a school garden-having regard to size, soil, locality, etc.
-(a)
-(b) | To distinguish between one plot and another (seed, seedling, plant).
-General observation work in
-(c) | connection
 
+(ii) Holes.
+
+(b) How to plant—
+
+(i) Seeds.
+
+(ii) Seedlings.
+
+(iii) Cuttings, etc.
+
+(c) Distancing.
+
+(d) Transplanting—when, how; after-care, including watering, shading, supplying, etc.
+
+##### 9. MANURES AND MANURING—
+
+(a) Farm manure—composition; agricultural value.
+
+(b) Artificial fertilizers; functions; principal types.
+
+(c) Soil amendments—uses (liming).
+
+(d) Compost heaps—value of such heaps and methods of making.
+
+(e) Cover crops.
+
+##### 10. CROPS—
+
+(a) Crops suitable for a school garden—having regard to size, soil, locality, etc.
+
+(b) To distinguish between one plot and another (seed, seedling, plant).
+
+(c) General observation work in connection
 L.R.O. 1/2012
 
 [[END OF PAGE 138]]
@@ -4670,11 +5331,13 @@ Education Code Regulations
 
 (vii) To cultivate  a  love  of  order,  neatness and good taste.
 
-##### SEASONS-
+##### 2. SEASONS—
+
 Months for planting; rainfall, etc.
 
-##### THE  SITE-
-Local  peculiarities  (soil  and  climatic) and agricultural difficulties (drainage, etc.).
+##### 3. THE SITE—
+
+Local peculiarities (soil and climatic) and agricultural difficulties (drainage, etc.).
 
 ##### 4. THE PLOT-
 
@@ -4702,23 +5365,44 @@ Education
 
 [Subsidiary] | Education Code Regulations
 --- | ---
-5. etc. 6. | (b) Why they should be easily reached from drains or paths. (c) Why they should not be trampled.
-##### SEEDS-
-Germination of various seeds; time taken,
-##### THE NURSERY-
-(i) Why a nursery is necessary. (ii) How to make seed-beds and seed- boxes, and how to use them. (iii) How to tend seedlings; watering, shading, etc. (iv) Methods of plant propagation.
-##### PLANTING-
-(i) Conditions necessary for planting. (ii) How to plant seeds in holes (e.g. blackeye, ochro). (iii) How to plant seedlings in holes (e.g.
-##### 8. CULTIVATION-
-7.
-(iv) | boulangers, tomatoes). When to plant seedlings (time of day,
-(v) (a) | weather, etc.). When to care for seedlings and plants.
-Soil tilth, etc.; inter-cultivation and care of plants during growth by forking, manuring, mulching, pruning, staking, watering,
-weeding.
-Crop rotation-its importance and value.
-(b)
-(c)
-Fallowing.
+
+(b) Why they should be easily reached from drains or paths.
+
+(c) Why they should not be trampled.
+
+##### 5. SEEDS—
+
+Germination of various seeds; time taken, etc.
+
+##### 6. THE NURSERY—
+
+(i) Why a nursery is necessary.
+
+(ii) How to make seed-beds and seed-boxes, and how to use them.
+
+(iii) How to tend seedlings; watering, shading, etc.
+
+(iv) Methods of plant propagation.
+
+##### 7. PLANTING—
+
+(i) Conditions necessary for planting.
+
+(ii) How to plant seeds in holes (e.g. blackeye, ochro).
+
+(iii) How to plant seedlings in holes (e.g. boulangers, tomatoes).
+
+(iv) When to plant seedlings (time of day, weather, etc.).
+
+(v) When to care for seedlings and plants.
+
+##### 8. CULTIVATION—
+
+(a) Soil tilth, etc.; inter-cultivation and care of plants during growth by forking, manuring, mulching, pruning, staking, watering, weeding.
+
+(b) Crop rotation—its importance and value.
+
+(c) Fallowing.
 
 L.R.O. 1/2012
 
@@ -4813,7 +5497,7 @@ Hygiene in person and home.
 
 Daily, weekly and periodical cleaning. Division of weekly income. Furnishing, decorating and renovating home. Elementary care of infants. Household accounts.
 
-##### ( iii) Laundry Work-
+##### (iii) Laundry Work—
 
 Family washing and care of clothes.
 
@@ -4839,7 +5523,7 @@ Education Code Regulations
 
 Making, mending and renovating garments and household linen.
 
-##### (v) Craft Work-
+##### (v) Craft Work—
 
 Raffia and cane work.
 
@@ -4851,20 +5535,26 @@ Making of articles and ornaments for the home.
 
 (viii) Books and magazines relating to these subjects will be provided.
 
-(ix)  When  possible,  materials  will  be  provided  by  the girls,  and  articles  made  from  school  supplies  will be sold to them.
+(ix) When possible, materials will be provided by the girls, and articles made from school supplies will be sold to them.
 
-#### B.-FIRST YEAR
+#### B.—FIRST YEAR
+
 ##### (1) TERM I
 
-###### Cookery-
-Methods of cooking. | Local cookery. Food value, boiling, storing. Rice, corn, oatmeal porridge. Local roots and green
---- | ---
-Milk. | purchase,
-Cereals
-Vegetables.
-Stoves and fuel. | foods. Used in the home and school.
-###### Laundry Work-
-Accommodation and equipment. Care of clothing in washing. Laundry aids. | Compare with other countries. Buttons, tapes, etc. Soap, soda, starch, blue. Dusters, towels, aprons.
+###### Cookery—
+
+Methods of cooking. | Local cookery.
+Milk. | Food value, purchase, boiling, storing.
+Cereals | Rice, corn, oatmeal porridge.
+Vegetables. | Local roots and green foods.
+Stoves and fuel. | Used in the home and school.
+
+###### Laundry Work—
+
+Accommodation and equipment. | Compare with other countries.
+Care of clothing in washing. | Buttons, tapes, etc.
+Laundry aids. | Soap, soda, starch, blue.
+Treatment of coarse things. | Dusters, towels, aprons.
 
 L.R.O. 1/2012
 
@@ -4884,29 +5574,38 @@ Education
 
 Education Code Regulations
 
-###### Housewifery-
-Personal Hygiene. Parasites. Cleanliness. Disposal of refuse. Fresh air and light. | Body, teeth, nails, hair. In the home. Need of fresh air, natural and artificial light. Trimming lamps. Flies, cockroaches,
---- | ---
-Household pests | moths, mice, rats, etc., prevention.
+###### Housewifery—
+
+Personal Hygiene. | Body, teeth, nails, hair.
+Parasites.
+Cleanliness. | In the home.
+Disposal of refuse.
+Fresh air and light. | Need of fresh air, natural and artificial light. Trimming lamps.
+Household pests | Flies, cockroaches, moths, mice, rats, etc., prevention.
 Rules for sweeping and dusting. | Sweeping and dusting school and house.
-###### Needlework-
+
+###### Needlework—
+
 Tools. | Thimbles, scissors, needles, pins, etc.
 Essential stitches and seams. | Work-bags, towels, dusters, aprons.
 Fastenings. | Buttons, buttonholes, tapes.
-Mending. | Darning and patching garments brought
-###### Craft Work-
-| Cane and raffia.
-Dinner mats.
+Mending. | Darning and patching garments brought from home.
+
+###### Craft Work—
+
+Dinner mats. | Cane and raffia.
+
 ##### (2) TERM II
-###### Cookery-
+
+###### Cookery—
+
 Cereals, rice, all roots. | Boiling, steaming, baking, roasting.
 Fish (shrimps, salt fish). | Methods of cooking.
 Salads, green food, etc. | Value in diet. Boiling of green foods.
-Fruits grown locally. | Food value. Methods
-cooking,
+Fruits grown locally. | Food value. Methods of cooking.
+Eggs. | Care and storing of food.
+
 Preparing of simple meals based on work done.
-Eggs. | of
-Care and storing of food
 
 L.R.O. 1/2012
 
@@ -4926,73 +5625,34 @@ Education
 
 Education Code Regulations
 
-###### Laundry Work-
+###### Laundry Work—
 
-Treatment of different fabrics. Continue work as last term. One each week.
-
-###### Housewifery-
-
-Cleaning of house.
-
-Care  of  plain  and  polished wood.
-
-Diets.
-
-Cleaning of metals. Cleaning of lamps.
-
-###### Needlework -
-
-Materials.
-
-Pattern making.
-
+Treatment of different fabrics.
 Continue work as last term.
 
-Daily and weekly cleaning of home and surroundings.
+###### Housewifery—
 
-Scrubbing  tables,  desks and  forms;  cleaning and polishing furniture.
+Cleaning of house. | Daily and weekly cleaning of home and surroundings.
+Care of plain and polished wood. | Scrubbing tables, desks and forms; cleaning and polishing furniture.
+Diets. | Planning meals for children.
+Cleaning of metals. Cleaning of lamps. | Brass, tin, aluminium, cutlery.
 
-Planning meals for children.
+###### Needlework—
 
-Brass, tin, aluminium, cutlery.
+Materials. | Their source, manufacture and price.
+Pattern making. | Divisions of figure. Taking of measurements. Drafting simple garments.
+Continue work as last term.
 
-Their
+###### Craft Work—
 
-source,
-
-manufacture and price.
-
-Divisions
-
-of
-
-figure.
-
-Taking
-
-of
-
-measurements.
-
-Drafting simple garments
-
-###### Craft Work-
-
-Raffia bag.
-
-###### Cookery-
-
-Soups and stocks.
-
-Meats, choice and preparation.
-
-Creole soup with other soups.
-
-compared boiling, grilling,
-
-Salt and  fresh, roasting,
+Raffia bag. | One each week.
 
 ##### (3) TERM III
+
+###### Cookery—
+
+Soups and stocks. | Creole soup compared with other soups.
+Meats, choice and preparation. | Salt and fresh, boiling, roasting, grilling,
 
 L.R.O. 1/2012
 
@@ -5012,20 +5672,36 @@ Education
 
 Education Code Regulations
 
-Meats left over. Air as a raising agent. Fresh fish. | baking. Rissoles. Pancakes, bread. Choice, preparation, price, methods of cooking.
---- | ---
+baking.
+Meats left over. | Rissoles.
+Air as a raising agent. | Pancakes, bread.
+Fresh fish. | Choice, preparation, price, methods of cooking.
+Children's food | Preparation, choice, etc.
+
 Meals to be prepared based on work done.
-###### Laundry Work-
-Continue work of previous terms. | Printed dresses.
-Undergarments. | Own garments. Equipment and preparation.
-Rules for washing up. Cleanliness and order in kitchen and pantry (including disposal of day's refuse). Washing Cleaning
-Making and care of beds. Breakfast and tea for students. glasses and all crockery.
-###### Needlework-
-| kitchen and equipment.
-Mending and renovating garments brought from Care and use of machine. An undergarment to be made, introducing decorative stitches. Machine to be used for long seams only.
-simple
-###### Craft Work-
-home.
+
+###### Laundry Work—
+
+Continue work of previous terms.
+Undergarments. | Own garments.
+Treatment of fast and loose dyes. | Printed dresses.
+Ironing. | Equipment and preparation.
+
+###### Housewifery—
+
+Bedroom work. | Making and care of beds.
+Laying of table. | Breakfast and tea for students.
+Rules for washing up. | Washing glasses and all crockery.
+Cleanliness and order in kitchen and pantry (including disposal of day's refuse). | Cleaning kitchen and equipment.
+
+###### Needlework—
+
+Mending and renovating garments brought from home.
+Care and use of machine.
+An undergarment to be made, introducing simple decorative stitches.
+Machine to be used for long seams only.
+
+###### Craft Work—
 
 Students to make some article for the home.
 
@@ -5047,68 +5723,39 @@ Education
 
 Education Code Regulations
 
-#### C.-SECOND YEAR
+#### C.—SECOND YEAR
+
 ##### (1) Term I
 
-###### Cookery -
+###### Cookery—
 
-Milk and eggs.
+Milk and eggs. | Custards and puddings.
+Fruit. | Stewed fruit.
+Preserves. | Jams, jellies, pickles.
+Beverages. | Coffee, cocoa, roasting, grinding, storing,
 
-Fruit.
+Complete meals planned by girls based on first year's work.
 
-Preserves.
+###### Housewifery—
 
-Beverages.
+Care and cleaning of garments. | Outer garments, boots and shoes.
+Expenditure of income. | Division of weekly wages. Household accounts.
+Citizenship. | Habits, care of property, truthfulness, honesty.
+All general household duties. | Homely methods.
 
-Custards and puddings. Stewed fruit.
+###### Laundry Work—
 
-Jams, jellies, pickles.
-
-Coffee, cocoa, roasting, grinding, storing,
-
-Complete  meals  planned  by  girls  based  on  first  year's work.
-
-###### Housewifery -
-
-Care and cleaning garments.
-
-of
-
-Expenditure of income.
-
-Citizenship.
-
-All general household duties.
-
-###### Laundry Work -
-
-Removal of stains. Care of clothes in drying.
-
+Removal of stains.
+Care of clothes in drying. | Use of clothes line and pegs.
 Preparation of clothes for wash.
+Continue work of last year. | Simple mending.
 
-Continue work of last year.
+###### Needlework—
 
-Outer garments, boots and shoes.
-
-Division of weekly wages.
-
-Household accounts. Habits, care of property,
-
-truthfulness, honesty.
-
-Homely methods. Use  of  clothes  line  and pegs. Simple mending.
-
-###### Needlework -
-
-Continue work taken in first
-
-year.
-
+Continue work taken in first year.
 Use of paper patterns.
-
 Dressmaking.
-
-Adapting of patterns. School dresses.
+Adapting of patterns. | School dresses.
 
 L.R.O. 1/2012
 
@@ -5127,28 +5774,41 @@ Cap. 39:01
 [Subsidiary] | Education Code Regulations
 --- | ---
 Boy's clothing | Boy's shirts and trousers.
-Girls to be allowed to use machine. Work-
-Craft Lampshades
+Girls to be allowed to use machine.
+
+###### Craft Work—
+
+Lampshades
+
 ##### (2)TERM II
-Pastry. Meat pies and shrimp patties.
-###### Cookery-
-Eggs.
-Poached, scrambled, omelettes, boiled and fried.
+
+###### Cookery—
+
+Pastry. | Meat pies and shrimp patties.
+Eggs. | Poached, scrambled, omelettes, boiled and fried.
 Sweetmeats. | Fudge, candy, toffee, local chocolate.
 Fruit drinks. | Made from local fruit,
+
 Meals planned by girls on work done.
-###### Housewifery-
+
+###### Housewifery—
+
 Care and feeding of infants. | Bottles, care and cleaning. Washing of infants.
-Treatment of common
-accidents. | Cuts, burns, bruises.
-###### Laundry Work -
+Treatment of common accidents. | Cuts, burns, bruises.
+
+###### Laundry Work—
+
 Family washing.
-Rules for disinfecting
-clothes.
-Pajamas and shirts.
+Rules for disinfecting clothes.
+
+###### Needlework—
+
 Continue work of last term.
+Pajamas and shirts.
 All family and household mending.
-###### Craft Work -
+
+###### Craft Work—
+
 A hat made from simple
 
 L.R.O. 1/2012
@@ -5169,44 +5829,36 @@ Education
 
 Education Code Regulations
 
-straw, combined with raffia .
+straw, combined with raffia.
 
 ##### (3) TERM III
 
-###### Cookery-
+###### Cookery—
 
-Invalid cookery.
+Invalid cookery. | Beef tea, barley water, etc.
+Cakes. | Sponge sandwich, fruit cake, small rock cakes.
+Custard and puddings | Ice-cream, milk puddings.
+Planning of meals. | For children; for family.
 
-Cakes.
+Complete meals to be planned and cooked.
 
-Custard and puddings
-
-Planning of meals. Complete meals to be planned and cooked.
-
-Beef tea, barley water, etc. Sponge  sandwich,  fruit cake, small rock cakes. milk
-
-Ice-cream, puddings.
-
-For children; for family.
-
-###### Housewifery-
+###### Housewifery—
 
 All household duties.
 
-###### Laundry Work-
+###### Laundry Work—
 
-Family washing
+Family washing | All clothing with the exception of large sheets, or any very heavy garments.
 
-All clothing with the exception of large sheets, or any very heavy garments.
+###### Needlework—
 
-###### Needlework-
-Outfit for baby.
+Outfit for baby. | Large doll to be dressed. Cradle to be fitted up.
 
-Large doll to be dressed. Cradle to be fitted up.
+###### Craft Work—
 
-###### Craft Work-
+Decoration of simple pottery.
 
-Decoration of simple pottery. Revise any work necessary this term.
+Revise any work necessary this term.
 
 ____________________
 
@@ -5234,27 +5886,27 @@ Government General Certificate Scholarship Regulations
 
 REGULATION
 
-- Citation.
+1. Citation.
 
-- Number of Scholarships to be awarded annually.
+2. Number of Scholarships to be awarded annually.
 
-- Condition of eligibility.
+3. Condition of eligibility.
 
-- Form of application and evidence of eligibility.
+4. Form of application and evidence of eligibility.
 
-- Test examination.
+5. Test examination.
 
-- Method of award.
+6. Method of award.
 
-- Awards to be made by the Minister.
+7. Awards to be made by the Minister.
 
-- Tenure and value of scholarships.
+8. Tenure and value of scholarships.
 
-- Schools at which tenable.
+9. Schools at which tenable.
 
-- Scholarship not to be held with other scholarships.
+10. Scholarship not to be held with other scholarships.
 
-- Supervision of scholars.
+11. Supervision of scholars.
 
 _____________________________
 
@@ -5278,22 +5930,25 @@ LAWS OF GUYANA
 
 Education
 
+[Subsidiary]
+
 Government General Certificate Scholarship Regulations
----
-who-
+
+[Reg. 14/1961]
+
+who—
 (a) is a Commonwealth citizen;
-(b) is sixteen years of age or under on the first day of January in the year in
-which the examination is held;
-(c) satisfies the Chief Education Officer as to his or her good character and
-conduct; and
-(d) has had his or her usual place of residence in Guyana-
-(i) if born in Guyana or the child of parents one of whom was born in Guyana, for a period of not less than two years immediately preceding the first day of the examination; or (ii) in all other cases, for a period of
-not less than five years immediately preceding the first day of the examination.
-written evidence of the candidate's eligibility under regulation 3 hereof and shall be forwarded so as to reach the Chief Education Officer at his office in Georgetown not later than 4 p.m. on such date as the Chief Education Officer may fix by notice in the Gazette and in a newspaper circulating in
-supported by
-(2) Each form of application shall be
-4. (1) Any boy or girl desiring to scholarships shall submit to the Chief application giving such Education Officer may require.
-compete Education information
+(b) is sixteen years of age or under on the first day of January in the year in which the examination is held;
+(c) satisfies the Chief Education Officer as to his or her good character and conduct; and
+(d) has had his or her usual place of residence in Guyana—
+(i) if born in Guyana or the child of parents one of whom was born in Guyana, for a period of not less than two years immediately preceding the first day of the examination; or
+(ii) in all other cases, for a period of not less than five years immediately preceding the first day of the examination.
+
+Form of application and evidence of eligibility.
+
+4. (1) Any boy or girl desiring to compete for one of the scholarships shall submit to the Chief Education Officer a form of application giving such information as the Chief Education Officer may require.
+
+(2) Each form of application shall be supported by written evidence of the candidate's eligibility under regulation 3 hereof and shall be forwarded so as to reach the Chief Education Officer at his office in Georgetown not later than 4 p.m. on such date as the Chief Education Officer may fix by notice in the Gazette and in a newspaper circulating in
 
 L.R.O. 1/2012
 
@@ -5315,29 +5970,23 @@ Government General Certificate Scholarship Regulations
 
 Guyana.
 
-Test examination. [Reg. 4 of 1972] 5. The text examination shall be the General Certificate Examination of the University of London (Overseas),  or  such  other  examinations  as  the  Minister  may from  time  to  time  direct.  The  Chief  Education  Officer  shall publish a notice in the Gazette and in a newspaper circulating in Guyana not less than six months before the first day of the examination, stating the subjects of the examination, the date thereof and the place or places where it will be held.
+Test examination. [Reg. 4 of 1972]
+
+5. The test examination shall be the General Certificate Examination of the University of London (Overseas), or such other examinations as the Minister may from time to time direct. The Chief Education Officer shall publish a notice in the Gazette and in a newspaper circulating in Guyana not less than six months before the first day of the examination, stating the subjects of the examination, the date thereof and the place or places where it will be held.
 
 Method of award. [Reg. 22/1952 4/1959]
 
-6.
+6. (1) The fifteen scholarships shall be awarded annually as follows—
 
-(1)
+(a) three to the boys who are placed first, second and third in order of merit among the approved boy candidates;
 
-The fifteen
+(b) three to the girls who are placed first, second and third in order of merit among the approved girl candidates; and
 
-annually as follows-
+(c) nine to the candidates (of either sex) who are placed next in order of merit:
 
-(a) three to the boys who are placed first, second  and  third  in  order  of  merit among the approved boy candidates;
+Provided that no scholarship shall be awarded to any candidate who, in the opinion of the examining body, fails to attain either a Grade I or Grade II pass in the test examination.
 
-(b) three to the girls who are placed first, second  and  third  in  order  of  merit among the  approved  girl  candidates; and
-
-(c) nine  to  the  candidates  (of  either  sex) who are placed next in order of merit:
-
-Provided  that  no  scholarship  shall  be  awarded  to  any candidate who, in the opinion of the examining body, fails to attain either a Grade I or Grade II pass in the text examination.
-
-(2) In the event of any candidate not being awarded a scholarship in pursuance of paragraph (1) (a) or (b) as a result of such candidate not attaining either a Grade I or Grade II pass in the test examination, such scholarship shall be awarded to the candidate who attains either a Grade I or Grade II pass in the test examination and is next in order of merit after the candidates who have been awarded
-
-scholarships shall  be  awarded Education
+(2) In the event of any candidate not being awarded a scholarship in pursuance of paragraph (1)(a) or (b) as a result of such candidate not attaining either a Grade I or Grade II pass in the test examination, such scholarship shall be awarded to the candidate who attains either a Grade I or Grade II pass in the test examination and is next in order of merit after the candidates who have been awarded
 
 L.R.O. 1/2012
 
@@ -5349,13 +5998,39 @@ L.R.O. 1/2012
 
 LAWS OF GUYANA
 
-[Subsidiary] | Government General Certificate Scholarship Regulations
---- | ---
-Awards to be made by the Minister. | 7. The Chief Education Officer shall report the results of the examination to the Minister by whom the awards will be made.
-Tenure and value of scholarships. | 8 . Each successful candidate (hereinafter referred to as "the scholar") shall be entitled to- (i) free tuition for three years at an
-Schools at which tenable. | 9. The scholarships shall be tenable at such secondary schools as the Minister may from time to time direct.
-Scholarship not to be held with other scholarships. [4 of 1972] | 10. No boy or girl who holds a scholarship or is in receipt of any other aid towards the cost of his or her education which is administered or provided by any public department or public officer, shall at the same time hold a Government General Certificate Scholarship.
-Supervision of scholars. | 11. (1) For the purposes of his education every scholar shall be subject to the general supervision of the Chief Education Officer. (2) The Principal of the school which the scholar attends shall, at the end of each term, forward to the Chief
+Education
+
+[Subsidiary]
+
+Government General Certificate Scholarship Regulations
+
+scholarships in pursuance of paragraph (1)(c).
+
+Awards to be made by the Minister.
+
+7. The Chief Education Officer shall report the results of the examination to the Minister by whom the awards will be made.
+
+Tenure and value of scholarships.
+
+8. Each successful candidate (hereinafter referred to as "the scholar") shall be entitled to—
+
+(i) free tuition for three years at an approved school, the cost of which to the Government shall not exceed $30 per term for a school year of three terms; and
+
+(ii) the sum of $40 per annum for three years payable to the parent or guardian of such scholar in three equal instalments.
+
+Schools at which tenable.
+
+9. The scholarships shall be tenable at such secondary schools as the Minister may from time to time direct.
+
+Scholarship not to be held with other scholarships. [4 of 1972]
+
+10. No boy or girl who holds a scholarship or is in receipt of any other aid towards the cost of his or her education which is administered or provided by any public department or public officer, shall at the same time hold a Government General Certificate Scholarship.
+
+Supervision of scholars.
+
+11. (1) For the purposes of his education every scholar shall be subject to the general supervision of the Chief Education Officer.
+
+(2) The Principal of the school which the scholar attends shall, at the end of each term, forward to the Chief
 
 L.R.O. 1/2012
 
@@ -5371,30 +6046,31 @@ Cap. 39:01
 
 [Subsidiary]
 
-Citation.
-
 Education
 
-Government Technical Institute Regulations Government General Certificate Scholarship Regulations Government Technical Institute Regulations
+Government Technical Institute Regulations
 
 Education Officer a report on the work, conduct, and progress of the scholar.
 
-(3) If any scholar is the subject of an unfavourable report by a Principal, the Chief Education Officer may, at his discretion,  suspend  for  one  or  more  terms  any  or  all  of  the rights conferred on such scholar by regulation 8 hereof.
+(3) If any scholar is the subject of an unfavourable report by a Principal, the Chief Education Officer may, at his discretion, suspend for one or more terms any or all of the rights conferred on such scholar by regulation 8 hereof.
 
-(4) If any scholar is the subject of two consecutive unfavourable  reports  from  a  Principal,  the  Minister  may direct  that  such  scholar  shall  forfeit  the  scholarship  and thereupon  all  rights  and  privileges  under  the  scholarship shall determine.
+(4) If any scholar is the subject of two consecutive unfavourable reports from a Principal, the Minister may direct that such scholar shall forfeit the scholarship and thereupon all rights and privileges under the scholarship shall determine.
 
 ___________________
 
 Reg. 26/1955
+
 ## GOVERNMENT TECHNICAL INSTITUTE REGULATIONS
 
 made under section 54
 
+Citation.
+
 1. These Regulations may be cited as the Government Technical Institute Regulations.
 
-- Control and Management. 2. (1) The control and management of the Government Technical  Institute  (hereinafter  referred  to  as  "the  Institute") shall  be  vested  in  a  Board  of  Governors  (hereinafter  called
+Control and Management.
 
-"the Board").
+2. (1) The control and management of the Government Technical Institute (hereinafter referred to as "the Institute") shall be vested in a Board of Governors (hereinafter called "the Board").
 
 (2) The Board shall consist of not less than ten and not more than twelve members.
 
@@ -5416,33 +6092,33 @@ LAWS OF GUYANA
 
 [Subsidiary]
 
-Age of admission to evening courses.
-
-Enrolment.
-
-Fees.
-
 Education
 
 Government Technical Institute Regulations
 
-and  Hydraulics  Officer  shall  be  ex  officio  members  of  the Board.
+and Hydraulics Officer shall be ex officio members of the Board.
 
-(5) The Principal of the Institute (hereinafter referred to as "the Principal") shall be an ex officio member, but  shall  not  vote  on  questions  under  consideration  by  the Board.
+(5) The Principal of the Institute (hereinafter referred to as "the Principal") shall be an ex officio member, but shall not vote on questions under consideration by the Board.
 
-(6)  Subject  to  the  foregoing  paragraphs,  every member of the Board shall be appointed by the Minister and shall hold office for two  years and be eligible for reappointment for further periods of two years.
+(6) Subject to the foregoing paragraphs, every member of the Board shall be appointed by the Minister and shall hold office for two years and be eligible for re-appointment for further periods of two years.
 
 (7) Five members (including the presiding member) shall form a quorum.
 
-(8)  In  the  absence  of  the  Chairman,  the  ViceChairman shall act as Chairman, and in the absence of both the Chairman and the Vice-Chairman, the members may elect any of their number to preside at a meeting of the Board.
+(8) In the absence of the Chairman, the Vice-Chairman shall act as Chairman, and in the absence of both the Chairman and the Vice-Chairman, the members may elect any of their number to preside at a meeting of the Board.
 
-3. No  candidate  shall  be  admitted  to  any  evening course until he or she has attained the age of 14 years. There shall be no upper age limit for students.
+Age of admission to evening courses.
 
-4. No person shall be admitted to any course unless he or  she  complies  with  the  requirements  of  the  Board  in connection therewith.
+3. No candidate shall be admitted to any evening course until he or she has attained the age of 14 years. There shall be no upper age limit for students.
+
+Enrolment.
+
+4. No person shall be admitted to any course unless he or she complies with the requirements of the Board in connection therewith.
+
+Fees.
 
 5. (1) Every candidate shall before admission pay the appropriate fee for the course, as fixed from time to time by the Board.
 
-(2)  At  their  discretion,  the  Board  may  waive  fees for teachers or students of the Government Training College who attend for special courses.
+(2) At their discretion, the Board may waive fees for teachers or students of the Government Training College who attend for special courses.
 
 L.R.O. 1/2012
 
@@ -5484,15 +6160,44 @@ LAWS OF GUYANA
 
 Education
 
-[Subsidiary] | Government Technical Institute Regulations Secondary School Regulations
---- | ---
-Advisory Committees. | 13. (1) The Board may appoint Advisory Committees in respect of and representative of industries or trades or of both industries and trades for which courses are or are to be provided. (2) Each Advisory Committee shall include one member of the Board.
-Equipment Factory. | 14. The Equipment Factory shall be under the control of the Equipment Principal. Students shall be permitted to work in the Factory for such periods as may be desirable in the interests of their training.
-Reg. 18/1957 5/1960 |
+[Subsidiary]
+
+Government Technical Institute Regulations
+
+and a statement of accounts which shall be duly audited by an auditor approved on that behalf by the Minister.
+
+Advisory Committees.
+
+13. (1) The Board may appoint Advisory Committees in respect of and representative of industries or trades or of both industries and trades for which courses are or are to be provided.
+
+(2) Each Advisory Committee shall include one member of the Board.
+
+Equipment Factory.
+
+14. The Equipment Factory shall be under the control of the Principal. Students shall be permitted to work in the Factory for such periods as may be desirable in the interests of their training.
+
+__________________
+
+Reg. 18/1957
+5/1960
+
 ## SECONDARY SCHOOLS REGULATIONS
+
 made under section 54
-Citation. | 1 . These Regulations may be cited as the Secondary Schools Regulations
-Interpretation. [Reg. 5/1960] | 2 . (1) In these Regulations- "Board of Governors" means a Board of Governors of a Government-aided secondary school constituted in accordance with regulation 17;
+
+Citation.
+
+1. These Regulations may be cited as the Secondary Schools Regulations
+
+Interpretation. [Reg. 5/1960]
+
+2. (1) In these Regulations—
+
+"Board of Governors" means a Board of Governors of a Government-aided secondary school constituted in accordance with regulation 17;
+
+"the Council" means the National Council of Education established by the Act;
+
+"school" means a secondary school being either a Government
 
 L.R.O. 1/2012
 
@@ -5510,25 +6215,25 @@ Cap. 39:01
 
 [Subsidiary]
 
-Application to be placed on Aided Schools List. [Reg. 5/1960]
-
 Secondary School Regulations
 
-secondary school or a Government-aided  secondary school;
+secondary school or a Government-aided secondary school;
 
 "teacher" includes everyone who forms part of the educational staff of a school.
 
-(2) Any  duty or power relating to visits of inspection imposed or conferred by these Regulations on the Chief  Education  Officer  may  be  performed  or  exercised,  as the case may be, by any person or persons duly authorised by him for that purpose.
+(2) Any duty or power relating to visits of inspection imposed or conferred by these Regulations on the Chief Education Officer may be performed or exercised, as the case may be, by any person or persons duly authorised by him for that purpose.
 
-(3)  The Chief Education Officer shall prepare and maintain a list (hereinafter called "the Aided Schools List") of all schools other than Government Schools in respect of which applications  for  grants-in-aid  have  been  received  and  which are eligible for grants-in-aid under these Regulations.
+(3) The Chief Education Officer shall prepare and maintain a list (hereinafter called "the Aided Schools List") of all schools other than Government Schools in respect of which applications for grants-in-aid have been received and which are eligible for grants-in-aid under these Regulations.
 
-3. (1)  Application  for  a  school  to  be  placed  on  the Aided  Schools  List  shall  be  made  in  writing  to  the  Chief Education  Officer  by  the  person  or  authority  for  the  time being  responsible  for  the  control  and  management  of  the school, and shall contain such particulars as may be required by the Chief Education Officer.
+Application to be placed on Aided Schools List. [Reg. 5/1960]
+
+3. (1) Application for a school to be placed on the Aided Schools List shall be made in writing to the Chief Education Officer by the person or authority for the time being responsible for the control and management of the school, and shall contain such particulars as may be required by the Chief Education Officer.
 
 (2) On application being made for the school to be placed on the Aided Schools List, the school shall be liable to inspection by the Chief Education Officer.
 
-(3) Such inspection shall have regard to the general conditions prevailing at the school, the suitability of education  provided  by  the  school,  and  the  relation  of  the school to other schools available for the area.
+(3) Such inspection shall have regard to the general conditions prevailing at the school, the suitability of education provided by the school, and the relation of the school to other schools available for the area.
 
-(4) If the school satisfies the conditions prescribed in  these  Regulations,  the  Chief  Education  Officer  shall  place the school on the Aided Schools List,
+(4) If the school satisfies the conditions prescribed in these Regulations, the Chief Education Officer shall place the school on the Aided Schools List,
 
 L.R.O. 1/2012
 
@@ -5542,23 +6247,23 @@ LAWS OF GUYANA
 
 [Subsidiary]
 
-General qualifications for grants-inaid.
-
 Education
 
 Secondary School Regulations
 
-(5) The Chief Education Officer may remove from the  Aided  Schools  List  any  school  which  in  his  opinion  no longer satisfies or otherwise fails to conform  with the conditions prescribed in these Regulations:
+(5) The Chief Education Officer may remove from the Aided Schools List any school which in his opinion no longer satisfies or otherwise fails to conform with the conditions prescribed in these Regulations:
 
-Provided  that  there  shall  be  a  right  of  appeal  to  the Minister from any decision of the Chief Education Officer that a  school  should  not  be  placed  on  the  Aided  Schools  List  or should be removed from the said List, and the decision of the Minister on any such appeal shall be final.
+Provided that there shall be a right of appeal to the Minister from any decision of the Chief Education Officer that a school should not be placed on the Aided Schools List or should be removed from the said List, and the decision of the Minister on any such appeal shall be final.
 
 (6) The Aided Schools List as amended from time to time shall be submitted to the Council who shall as often as they think fit consider the List and recommend to the Minister on a priority basis the aid to be given to the approved schools out of such funds as may be available for the purpose.
 
-(7) The Minister shall prescribe the aid, if any, to be given  to  a  school  on  the  Aided  Schools  List  out  of  moneys provided by Parliament for that purpose.
+(7) The Minister shall prescribe the aid, if any, to be given to a school on the Aided Schools List out of moneys provided by Parliament for that purpose.
 
-4. In  order  to  qualify  for  grants-in-aid  a  school  shall offer  to  each  of  its  pupils  a  progressive  course  of  general education as defined in these Regulations (with the requisite organisation, curriculum, teaching staff and equipment) of a kind and an extent suitable for pupils between the ages of 11 and  19  years.  This  course  should  be  of  at  least  four  years duration  leading  to  the  General  Certificate  of  Education (Ordinary  Level)  or  its  equivalent,  and  wherever  possible should include an additional two-year course leading to the General  Certificate  of  Education  (Advanced  Level)  or  its equivalent. Any provision made for pupils below the age of 11 years shall similarly be appropriate and in proper relation to the work in the main section of the school:
+General qualifications for grants-in-aid.
 
-Provided,  however,  that  no  grant  shall  be  payable  in respect of provision made in any school for pupils below the
+4. In order to qualify for grants-in-aid a school shall offer to each of its pupils a progressive course of general education as defined in these Regulations (with the requisite organisation, curriculum, teaching staff and equipment) of a kind and an extent suitable for pupils between the ages of 11 and 19 years. This course should be of at least four years duration leading to the General Certificate of Education (Ordinary Level) or its equivalent, and wherever possible should include an additional two-year course leading to the General Certificate of Education (Advanced Level) or its equivalent. Any provision made for pupils below the age of 11 years shall similarly be appropriate and in proper relation to the work in the main section of the school:
+
+Provided, however, that no grant shall be payable in respect of provision made in any school for pupils below the
 
 L.R.O. 1/2012
 
@@ -5584,7 +6289,8 @@ School not to be conducted for private profit. | 5. No grant-in-aid shall be pay
 --- | ---
 Premises. | 6. (1) Every school shall have adequate accommodation for the number of pupils enrolled, with minimum classroom floor space of 12 square feet per pupil.
 (2) The school premises shall at all times be kept in a sanitary condition, shall be convenient for teaching purposes and shall be provided with adequate equipment and appliances for the curriculum approved in accordance with these Regulations.
-Minimum enrolment. | 7 . A school shall not be placed or retained on the Aided Schools List unless it has at least 100 pupils between the ages of 11 and 19 years undergoing an approved course of secondary education.
+(3) No grant shall be payable to any school unless the Chief Education Officer is satisfied that the Board of Governors have reasonable security of tenure of the school premises.
+Minimum enrolment. | 7. A school shall not be placed or retained on the Aided Schools List unless it has at least 100 pupils between the ages of 11 and 19 years undergoing an approved course of secondary education.
 Duration of school year. | 8 . (1) Every school shall meet regularly during not less than 36 weeks in the course of each year, the school hours, dates of vacations and occasional holidays being notified to the Chief Education Officer. Periods of closure on the advice of the medical or sanitary authorities or for other unavoidable cause shall be notified to the Chief Education Officer and shall be deemed for the purpose of these Regulations to be periods during which the school met.
 
 L.R.O. 1/2012
@@ -5605,7 +6311,9 @@ Secondary School Regulations
 
 (2) For the purpose of school work and of calculating average attendance and other statistics and returns required under these Regulations the school year shall, except in special cases and with the approval of the Chief Education Officer begin on the 1st September, and end on the 31st August.
 --- | ---
-Curriculum. | 9. (1) The curriculum (with time analysis) of every school shall be submitted to the Chief Education Officer for approval. It shall provide for due continuity of instruction in each of the subjects taken and for an adequate amount of time being given to each subject. (2) The curriculum shall provide instruction in English Language and English Literature, at least one
+Curriculum. | 9. (1) The curriculum (with time analysis) of every school shall be submitted to the Chief Education Officer for approval. It shall provide for due continuity of instruction in each of the subjects taken and for an adequate amount of time being given to each subject.
+(2) The curriculum shall provide instruction in English Language and English Literature, at least one language other than English, mathematics, geography and history.
+(3) The curriculum shall make such provision for physical education, manual instruction, science, art and music as the Chief Education Officer may accept as adequate, having regard to the circumstances of the school.
 Practical instruction. | 10. In schools for girls, or in co-educational schools in respect of girls, the curriculum shall, wherever possible, include provision for theoretical and practical instruction in home economics and an approved course in this subject may in such cases be substituted wholly or in part for science and for mathematics other than arithmetic.
 Language. | 11. By permission of the Chief Education Officer, languages other than English may be omitted from the curriculum of any school provided that the Chief Education Officer is satisfied that the instruction in English includes an adequate course in language and literature, and that practical instruction is being given in science, manual training or home economics.
 
@@ -5632,7 +6340,7 @@ Special courses. | 12. Special groups of pupils in any school may, with the appr
 Alteration in curriculum. | 13 . Where it is proposed that permanent alterations should be made in the approved curriculum of any school, such alterations shall be submitted to the Chief Education Officer for approval, but an approved curriculum need not be resubmitted to the Chief Education Officer so long as no substantial alteration in it is desired by the Board of Governors or required by the Chief Education Officer.
 Teaching staff and size of classes. | 14. (1) The teaching staff of every school shall be adequate in number and sufficiently qualified to provide proper instruction in each subject of the approved curriculum.
 (2) The Board of Governors of every school shall notify the Chief Education Officer of all appointments to the teaching staff and of the qualifications and teaching experience of the persons appointed.
-(3) The size of any class in a school shall not exceed
+(3) The size of any class in a school shall not exceed 35 except with the approval of the Chief Education Officer.
 Religious observances and instructions. | 15. It shall not be required that a pupil shall attend or abstain from attending any Sunday school or any place of religious worship or that he shall, or shall not, attend any religious observance whatever.
 (2) Religious observances may be held in any school but in such cases should ordinarily be held at the beginning or end of the school sessions, and the time of any religious instruction shall be specified in the time table. For the purpose of such observances and instructions the pupils may be taken to a neighbouring church.
 
@@ -5686,23 +6394,27 @@ Cap. 39:01
 
 [Subsidiary]
 
-- Inspection.
-
 Secondary School Regulations
 
 to act as its correspondent with the Chief Education Officer.
 
-(6)  A  meeting  of  the  Board  of  Governors  shall  be held at least once in every term, and shall normally be held when  the  school  is  inspected.  The  accounts  and  any  other documents  relating  to  the  control  and  management  of  the school shall be produced when  required by the Chief Education Officer.
+(6) A meeting of the Board of Governors shall be held at least once in every term, and shall normally be held when the school is inspected. The accounts and any other documents relating to the control and management of the school shall be produced when required by the Chief Education Officer.
 
-17. (1)  Every  school  shall  at  all  reasonable  times  be open to inspection  and  examination  by  the  Chief  Education Officer.  The  school  premises  and  surroundings  shall  also  be subject  to  inspection  by  the  Chief  Medical  Officer  or  any member  of  the  Medical  Department  authorised  by  him  for that purpose.
+Inspection.
 
-(2)  When  a  grant  is  paid  out  of  public  funds  in respect of or towards the assistance of the education of pupils at an  institution  or  any  branch  thereof,  all  branches  of educational work carried on in or by that institution shall be subject to inspection and examination by the Chief Education Officer.
+17. (1) Every school shall at all reasonable times be open to inspection and examination by the Chief Education Officer. The school premises and surroundings shall also be subject to inspection by the Chief Medical Officer or any member of the Medical Department authorised by him for that purpose.
 
-- Organization. 18. Every  school  shall  be  generally  organized  and conducted  in a  manner  which  the  Chief  Education  Officer considers efficient.
+(2) When a grant is paid out of public funds in respect of or towards the assistance of the education of pupils at an institution or any branch thereof, all branches of educational work carried on in or by that institution shall be subject to inspection and examination by the Chief Education Officer.
 
-- Returns. 19. ( 1) Any statistical returns and estimates relating to any school called for by the Chief Education Officer shall be furnished promptly by the Board of Governors.
+Organization.
 
-(2)An audited statement of income and expenditure  for  each  school  year  in  such  form  as  may  be required by the Chief Education Officer and made up to the 31st  day  of  August  shall  be  furnished  by  every  Board  of Governors  in  respect  of  schools  under  their  control  and management not later than the 30th day of September in each year.  No  such  statement  shall  be  published  without  the
+18. Every school shall be generally organized and conducted in a manner which the Chief Education Officer considers efficient.
+
+Returns.
+
+19. (1) Any statistical returns and estimates relating to any school called for by the Chief Education Officer shall be furnished promptly by the Board of Governors.
+
+(2) An audited statement of income and expenditure for each school year in such form as may be required by the Chief Education Officer and made up to the 31st day of August shall be furnished by every Board of Governors in respect of schools under their control and management not later than the 30th day of September in each year. No such statement shall be published without the
 
 L.R.O. 1/2012
 
@@ -5745,19 +6457,19 @@ Cap. 39:01
 
 [Subsidiary]
 
-Increase in school fees. [Reg. 18/1957 5/1960]
-
 Secondary School Regulations
 
-(4)  The  Chief  Education  Officer  may  at  any  time suspend the issue of grants to any school which in his opinion has  ceased  to be efficient or to fulfil  any  other  of  the conditions  prescribed  by  these  Regulations  for  the  issue  of grants from public funds. Before doing so, he shall send to the Board of Governors a statement showing in what respect the school  has  fallen  below  the  standard  required  and  such statement shall be laid before the Education Committee at the first opportunity.
+(4) The Chief Education Officer may at any time suspend the issue of grants to any school which in his opinion has ceased to be efficient or to fulfil any other of the conditions prescribed by these Regulations for the issue of grants from public funds. Before doing so, he shall send to the Board of Governors a statement showing in what respect the school has fallen below the standard required and such statement shall be laid before the Education Committee at the first opportunity.
 
-(5)  The  Board  of  Governors  of  any  school  whose grant  has  been  suspended  by  the  Chief  Education  Officer under the foregoing paragraph may appeal in writing to the Minister  from  such  suspension  and  the  decision of the Minister shall be final.
+(5) The Board of Governors of any school whose grant has been suspended by the Chief Education Officer under the foregoing paragraph may appeal in writing to the Minister from such suspension and the decision of the Minister shall be final.
 
-24 . (1) An increase in school fees may only be effected as from the commencement of a school year and at no other time.  Any  such  increase  shall  be  subject  to  approval  of  the Chief Education Officer being first obtained.
+Increase in school fees. [Reg. 18/1957 5/1960]
 
-(2)  An  application  for  such  approval  which  shall state  the  amount  by  which  it  is  proposed  to  increase  the school fees shall be made in writing not later than six months prior to the commencement  of  the school year at the commencement of which the increase is to become effective.
+24. (1) An increase in school fees may only be effected as from the commencement of a school year and at no other time. Any such increase shall be subject to approval of the Chief Education Officer being first obtained.
 
-(3) Parents and guardians shall be informed of any increase  in  school  fees  for  which  the  approval  of  the  Chief Education  Officer has been  obtained  not later than the commencement of the term immediately preceding the school year at the commencement of which the increase is to become effective.
+(2) An application for such approval which shall state the amount by which it is proposed to increase the school fees shall be made in writing not later than six months prior to the commencement of the school year at the commencement of which the increase is to become effective.
+
+(3) Parents and guardians shall be informed of any increase in school fees for which the approval of the Chief Education Officer has been obtained not later than the commencement of the term immediately preceding the school year at the commencement of which the increase is to become effective.
 
 ___________________
 
@@ -5788,8 +6500,8 @@ made under section 54
 Citation. | 1. These Regulations may be cited as the Centenary and John Wray Scholarships Regulations.
 --- | ---
 Centenary Scholarships. | 2. Three Centenary Scholarships shall be awarded annually on the basis of the results of the Government County Scholarship examination to the boys or girls who are placed next in order of merit to those who have been awarded Government County Scholarships.
-John Wray Scholarship. | 3. One John Wray Scholarship shall be awarded annually on the John Wray basis of the results of the Government County Scholarship examination to a boy or girl who is placed next in order of merit to those who have been awarded Centenary Scholarships.
-Qualifying standard. | 4. No Centenary or John Wray Scholarship shall be awarded to Qualifying any candidate who has obtained less than 60 per cent of the total marks in the subjects of the examination and less than 50 per cent of the marks in English.
+John Wray Scholarship. | 3. One John Wray Scholarship shall be awarded annually on the basis of the results of the Government County Scholarship examination to a boy or girl who is placed next in order of merit to those who have been awarded Centenary Scholarships.
+Qualifying standard. | 4. No Centenary or John Wray Scholarship shall be awarded to any candidate who has obtained less than 60 per cent of the total marks in the subjects of the examination and less than 50 per cent of the marks in English.
 General Regulations. | 5 . The Regulations hereinafter set out shall apply in all respects and in like manner to the holders of Centenary Scholarships and John Wray Scholarships respectively.
 Award to be made by the Minister. | 6 . The Chief Education Officer shall report the results of the examination to the Minister by whom the awards shall be made.
 Tenure and value of scholarships. | 7. Each scholar shall be entitled to free tuition for five years at such secondary school as the Minister may direct.
@@ -5810,33 +6522,31 @@ Cap. 39:01
 
 [Subsidiary]
 
-No maintenance allowance.
-
-Scholarships not to be held with any other scholarships, etc.
-
-Extension of
-
-- scholarships. the Guyana Scholarship.
-
-Queens College and Bishops' High School Scholarships Regulations Centenary and John Wray Scholarship Regulations
+Queens College and Bishops' High School Scholarships Regulations
 
 The cost of tuition shall be borne by the Government.
 
-8. No  maintenance  allowance  shall  be  payable  to scholars awarded Centenary or John Wray Scholarships.
+No maintenance allowance.
 
-9 .  (1)  No boy or girl who holds a scholarship or is in receipt  of  any  other  aid  towards  the  cost  of  his  or  her education which is administered by the Education Department or by any other public department or officer shall at the same time hold a Centenary or John Wray Scholarship.
+8. No maintenance allowance shall be payable to scholars awarded Centenary or John Wray Scholarships.
 
-(2)  Any  candidate  who  becomes  eligible  for  the award of a Centenary or John Wray Scholarship but is either the holder of another scholarship or is in receipt of any other aid towards the cost of his or her education, shall be entitled to  relinquish  his  or  her  rights  under  the  said  scholarship  or aid and accept in lieu thereof the benefits of a Centenary or John Wray Scholarship as the case may be.
+Scholarships not to be held with any other scholarships, etc.
 
-10. (1)  If  the  holder  of  a  scholarship  qualifies  for  the School Certificate or a recognized Schools Examination Board with  credits  in  four  or  more  subjects  including  English Language or for the General Certificate of Education of any approved  University  or  any  University  Joint  Board  with passes in five or more subjects obtained at one and the same sitting  of  that  examination  the  Minister  may  extend  the scholarship for such period as the holder is eligible to sit for
+9. (1) No boy or girl who holds a scholarship or is in receipt of any other aid towards the cost of his or her education which is administered by the Education Department or by any other public department or officer shall at the same time hold a Centenary or John Wray Scholarship.
 
-(2)  During  any  period  of  extension  the  scholar shall be entitled to the benefits of the scholarship as stated in regulation 7 but shall be subject to regulation 11.
+(2) Any candidate who becomes eligible for the award of a Centenary or John Wray Scholarship but is either the holder of another scholarship or is in receipt of any other aid towards the cost of his or her education, shall be entitled to relinquish his or her rights under the said scholarship or aid and accept in lieu thereof the benefits of a Centenary or John Wray Scholarship as the case may be.
+
+Extension of scholarships.
+
+10. (1) If the holder of a scholarship qualifies for the School Certificate of a recognized Schools Examination Board with credits in four or more subjects including English Language or for the General Certificate of Education of any approved University or any University Joint Board with passes in five or more subjects obtained at one and the same sitting of that examination the Minister may extend the scholarship for such period as the holder is eligible to sit for the Guyana Scholarship.
+
+(2) During any period of extension the scholar shall be entitled to the benefits of the scholarship as stated in regulation 7 but shall be subject to regulation 11.
 
 Supervision and discipline of scholars.
 
-11 . (1) For the purposes of his education every scholar shall  be  subject  to  the  general  supervision  of  the  Chief Education Officer.
+11. (1) For the purposes of his education every scholar shall be subject to the general supervision of the Chief Education Officer.
 
-(2)  The  Principal  of  the  school  which  the  scholar
+(2) The Principal of the school which the scholar
 
 L.R.O. 1/2012
 
@@ -5850,35 +6560,33 @@ LAWS OF GUYANA
 
 [Subsidiary]
 
-Reg. 1/1960
-
-Citation.
-
-Award of
-
-- scholarships. enable  winners  to  continue  their  studies  at  their  respective
-
 Education
 
-Queens College and Bishops' High School Scholarships Regulations Centenary and John Wray Scholarship Regulations Queens College and Bishops' High School Scholarships Regulations
+Queens College and Bishops' High School Scholarships Regulations
 
-attends  shall,  at  the  end  of  each  term  forward  to  the  Chief Education Officer a report of the work, conduct and progress of the scholar.
+attends shall, at the end of each term forward to the Chief Education Officer a report of the work, conduct and progress of the scholar.
 
-(3) If any scholar is the subject of an unfavourable report  by  the  Principal,  the  Chief  Education  Officer  may,  at his discretion, suspend for one or more terms all or any of the rights conferred on such scholar by these Regulations.
+(3) If any scholar is the subject of an unfavourable report by the Principal, the Chief Education Officer may, at his discretion, suspend for one or more terms all or any of the rights conferred on such scholar by these Regulations.
 
-(4) If any scholar is the subject of two consecutive unfavourable  reports  from  the  Principal,  the  Minister  may direct  that  such  scholar  shall  forfeit  the  scholarship  and thereupon  all  rights  and  privileges  under  the  scholarship shall determine.
+(4) If any scholar is the subject of two consecutive unfavourable reports from the Principal, the Minister may direct that such scholar shall forfeit the scholarship and thereupon all rights and privileges under the scholarship shall determine.
 
-(5) A Principal who issues an unfavourable report to  the  Chief  Education  Officer  in  respect  of  a  scholar  shall inform  the  scholar,  as  well  as  the  parent  or  guardian  of  the scholar of that unfavourable report.
+(5) A Principal who issues an unfavourable report to the Chief Education Officer in respect of a scholar shall inform the scholar, as well as the parent or guardian of the scholar of that unfavourable report.
 
 _____________________
+
+Reg. 1/1960
 
 ## QUEEN'S COLLEGE AND BISHOPS' HIGH SCHOOL SCHOLARSHIPS REGULATIONS
 
 made under section 54
 
-1. These  Regulations  may  be  cited  as  the  Queen's College and. Bishops' High School Scholarships Regulations.
+Citation.
 
-2 .  (1)  Queen's  College  and  Bishops'  High  School Scholarships each of the value of forty dollars per annum and free tuition  shall  be  offered  annually  to  boys  attending Queen's College and girls attending Bishops' High School to
+1. These Regulations may be cited as the Queen's College and Bishops' High School Scholarships Regulations.
+
+Award of scholarships.
+
+2. (1) Queen's College and Bishops' High School Scholarships each of the value of forty dollars per annum and free tuition shall be offered annually to boys attending Queen's College and girls attending Bishops' High School to enable winners to continue their studies at their respective
 
 L.R.O. 1/2012
 
@@ -5896,21 +6604,23 @@ Cap. 39:01 171
 
 Queens College and Bishops' High School Scholarships Regulations
 
-schools  until  they  cease  to  be  eligible  to  compete  for  the Guyana Scholarships.
+schools until they cease to be eligible to compete for the Guyana Scholarships.
 
-(2)  The  sum  of  forty  dollars  per  annum  shall  be payable  in  three  instalments  one  at  the  beginning  of  each term, to the parent or guardian of such scholar.
+(2) The sum of forty dollars per annum shall be payable in three instalments one at the beginning of each term, to the parent or guardian of such scholar.
 
-- Number of scholarships 3. The  total  number  of  such  scholarships  tenable  in each  school  during  any  one  year  shall  be  calculated  on  the basis  of  one  scholarship  for  every  complete  unit  of  forty pupils in that school.
+Number of scholarships.
 
-- Eligibility for scholarships.
+3. The total number of such scholarships tenable in each school during any one year shall be calculated on the basis of one scholarship for every complete unit of forty pupils in that school.
+
+Eligibility for scholarships.
+
+4. (1) To be eligible for a Queen's College or Bishops' High School Scholarship a candidate must obtain passes in at least five subjects at the Ordinary Level at one and the same sitting in the General Certificate of Education Examination of the Joint Board of the Universities of Oxford and Cambridge and must be under seventeen years of age on the first day of January of the year of the award.
+
+(2) No boy or girl who holds a scholarship or is in receipt of any other aid towards the cost of his or her education which is administered or provided by any public department or public officer, shall at the same time hold a Queen's College or Bishops' High School Scholarship.
+
+(3) Any candidate who becomes eligible for the award of a Queen's College or Bishops' High School Scholarship but is either the holder of another scholarship or in receipt of any other aid towards the cost of his or her education, as mentioned in paragraph (2) of this regulation, shall be entitled to relinquish his or her rights under the said scholarship or aid and accept in lieu thereof the benefits of a Queen's College or Bishops' High School Scholarship, as the case may be.
 
 Method of award.
-
-4. (1)  To be eligible for a Queen's College or Bishops' High School Scholarship a candidate must obtain passes in at least five subjects at the Ordinary Level at one and the same sitting in the General Certificate of Education Examination of the Joint Board of the Universities of Oxford and Cambridge and must be under seventeen years of age on the first day of January of the year of the award.
-
-(2) No boy or girl who holds a scholarship or is in receipt  of  any  other  aid  towards  the  cost  of  his  or  her education  which  is  administered  or  provided  by  any  public department  or  public  officer,  shall  at  the  same  time  hold  a Queen's College or Bishops' High School Scholarship.
-
-(3)  Any  candidate  who  becomes  eligible  for  the award of a Queen's College or Bishops' High School Scholarship but is either the holder of another scholarship or in  receipt  of  any  other  aid  towards  the  cost  of  his  or  her education,  as  mentioned  in  paragraph  (2)  of  this  regulation, shall be entitled to relinquish his or her rights under the said scholarship or aid and accept in lieu thereof the benefits of a Queen's College or Bishops' High School Scholarship, as the case may be.
 
 5. The awards in any one year shall be in accordance with the order of merit at the General Certificate of Education
 
@@ -5926,25 +6636,25 @@ LAWS OF GUYANA
 
 [Subsidiary]
 
-Supervision of scholars.
-
-Lapse of scholarships.
-
 Education
 
 Queens College and Bishops' High School Scholarships Regulations
 
-(Ordinary  Level)  Examination  of  the  Joint  Board  of  the Universities  of  Oxford  and  Cambridge.  The  order  of  merit shall be based on the average of the five subjects in which the candidates  attain  the  highest  results  at  one  and  the  same sitting of the examination.
+(Ordinary Level) Examination of the Joint Board of the Universities of Oxford and Cambridge. The order of merit shall be based on the average of the five subjects in which the candidates attain the highest results at one and the same sitting of the examination.
 
-6. (1) For the purposes of his education every scholar shall  be  subject  to  the  general  supervision  of  the  Chief Education Officer.
+Supervision of scholars.
 
-(2)  The  Principal  of  the  school  which  the  scholar attends  shall  at  the  end  of  each  term,  forward  to  the  Chief Education Officer a report of the work, conduct and progress of the scholar.
+6. (1) For the purposes of his education every scholar shall be subject to the general supervision of the Chief Education Officer.
 
-(3) If any scholar is the subject of an unfavourable report  by  the  Principal,  the  Chief  Education  Officer  may,  at his discretion, suspend for one or more terms all or any of the rights conferred on such scholar by regulation 2.
+(2) The Principal of the school which the scholar attends shall at the end of each term, forward to the Chief Education Officer a report of the work, conduct and progress of the scholar.
 
-(4) If any scholar is the subject of two consecutive unfavourable  reports  from  the  Principal,  the  Minister  may direct  that  such  scholar  shall  forfeit  the  scholarship  and thereupon  all  rights  and  privileges  under  the  Scholarship shall determine.
+(3) If any scholar is the subject of an unfavourable report by the Principal, the Chief Education Officer may, at his discretion, suspend for one or more terms all or any of the rights conferred on such scholar by regulation 2.
 
-(5) A Principal who issues an unfavourable report to  the  Chief  Education  Officer  in  respect  of  a  scholar  shall inform  the  scholar,  as  well  as  the  parent  or  guardian  of  the scholar, of that unfavourable report
+(4) If any scholar is the subject of two consecutive unfavourable reports from the Principal, the Minister may direct that such scholar shall forfeit the scholarship and thereupon all rights and privileges under the Scholarship shall determine.
+
+(5) A Principal who issues an unfavourable report to the Chief Education Officer in respect of a scholar shall inform the scholar, as well as the parent or guardian of the scholar, of that unfavourable report
+
+Lapse of scholarships.
 
 7. A scholarship shall lapse when the holder ceases to be eligible to compete for the Guyana Scholarships or in the event of his winning or being awarded one of those scholarships.
 
@@ -5974,13 +6684,15 @@ Secondary Schools (Admission) Regulations
 
 made under section 54
 
-Citation. | 1 . These Regulations may be cited as the Secondary Schools Citation. (Admission) Regulations.
+Citation. | 1. These Regulations may be cited as the Secondary Schools (Admission) Regulations.
 --- | ---
-Interpretation. [Reg. 18/1957] | 2. In these Regulations- "aided secondary school" means a secondary school in respect
+Interpretation. [Reg. 18/1957] | 2. In these Regulations—
+"aided secondary school" means a secondary school in respect of which a grant-in-aid is paid under the Secondary Schools Regulations;
 "examination" means the Secondary Schools Entrance Examination conducted by the Minister for the purpose of allocating places in a secondary school;
 "free place" means a place in a secondary school awarded to a person on the basis of his performance at the examination and entitling him to free tuition;
 "free place student" means a person who is awarded a free place at a secondary school;
 "governing body" means the person responsible for the control and management of a secondary school;
+"parent" in relation to any candidate includes a guardian and any person who has the actual custody of that candidate;
 "secondary school" means either a Government or a Government aided secondary school;
 "specified score" means the number or grade indicating the level of performance which the Minister may from time to time require to be attained at the examination in order
 
@@ -5996,29 +6708,29 @@ LAWS OF GUYANA
 
 [Subsidiary]
 
-Admission.
-
-Subjects of examination.
-
 Education
 
-Guyana Scholarships Regulations Secondary Schools (Admission) Regulations
+Guyana Scholarships Regulations
 
 to render a candidate eligible for admission to a secondary school.
 
-3. (1)  No  person  shall  be  admitted  to  a  secondary school unless he has attained the specified score and has been allocated  a  place  or  a  free  place  in  accordance  with  these Regulations:
+Admission.
 
-Provided  that  the  Minister  may  in  any  case  where  he thinks fit permit a governing body to admit any person to a secondary  school  notwithstanding  that  the  person  did  not take the examination or does not qualify to take the examination by reason of his age.
+3. (1) No person shall be admitted to a secondary school unless he has attained the specified score and has been allocated a place or a free place in accordance with these Regulations:
 
-(2) Every person who is not less than ten years of age and not more than twelve years of age on the 31st March in  the  year  of  the  examination  shall  be  eligible  to  take  the examination.
+Provided that the Minister may in any case where he thinks fit permit a governing body to admit any person to a secondary school notwithstanding that the person did not take the examination or does not qualify to take the examination by reason of his age.
 
-Provided that the Minister may permit a person who has attained the age of nine years but is less than ten years on the aforesaid  qualifying  date  to  take  the  examination  if  he  is satisfied  that  the  ability  of  that  person  justifies  the  taking  of the examination by that person.
+(2) Every person who is not less than ten years of age and not more than twelve years of age on the 31st March in the year of the examination shall be eligible to take the examination.
+
+Provided that the Minister may permit a person who has attained the age of nine years but is less than ten years on the aforesaid qualifying date to take the examination if he is satisfied that the ability of that person justifies the taking of the examination by that person.
 
 (3) Proof of the age of a candidate shall be produced to the satisfaction of the Minister.
 
+Subjects of examination.
+
 4. (1) The subjects of the examination shall be English and Arithmetic and such other subjects as the Minister may from time to time specify.
 
-(2) The Minister shall from time to time publish a notice  in  the Gazette stating  the  subjects,  the  date  and  the place  of  the  examination,  and  such  other  details  as  he  may consider necessary.
+(2) The Minister shall from time to time publish a notice in the Gazette stating the subjects, the date and the place of the examination, and such other details as he may consider necessary.
 
 L.R.O. 1/2012
 
@@ -6034,15 +6746,19 @@ Cap. 39:01
 
 [Subsidiary]
 
-Allocation of places. | 5. Candidates who attain the specified score at the examination shall be allocated places in secondary schools by the Minister in accordance with their order of merit and, where practicable, the choice of school made by their parents.
---- | ---
-Award of free places. | 6. (1) The Minister shall award each year such number of free places as he thinks fit. (2) Free places awarded in pursuance of the preceding paragraph shall be tenable only at Government secondary schools: Provided that in any area where there is no Government secondary school the award of a free place may be tenable at any Government aided secondary school which exists in that area.
-Free place. | 7. (1) A candidate shall be eligible for a free place if he attains at the examination such score as the Minister may from time to time deem appropriate for the award of a free place. (2) Notwithstanding paragraph (1) the Minister may award a free place to a candidate with a score lower than that deemed appropriate for the award of a free place. (3) Before making any award in pursuance of paragraph (2), the Minister shall have regard to the existing facilities for education in the area in which the candidate
-Taking up of free place. | 8. Each free place shall be taken up immediately after the award, or after such interval as the Minister may approve and shall entitle the free place student to free tuition for five years.
-
 Education
 
 Secondary Schools (Admission) Regulations
+
+Allocation of places. | 5. Candidates who attain the specified score at the examination shall be allocated places in secondary schools by the Minister in accordance with their order of merit and, where practicable, the choice of school made by their parents.
+--- | ---
+Award of free places. | 6. (1) The Minister shall award each year such number of free places as he thinks fit.
+(2) Free places awarded in pursuance of the preceding paragraph shall be tenable only at Government secondary schools:
+Provided that in any area where there is no Government secondary school the award of a free place may be tenable at any Government aided secondary school which exists in that area.
+Free place. | 7. (1) A candidate shall be eligible for a free place if he attains at the examination such score as the Minister may from time to time deem appropriate for the award of a free place.
+(2) Notwithstanding paragraph (1) the Minister may award a free place to a candidate with a score lower than that deemed appropriate for the award of a free place.
+(3) Before making any award in pursuance of paragraph (2), the Minister shall have regard to the existing facilities for education in the area in which the candidate attends school and the performance of the candidate at the examination and shall be satisfied of the likelihood of the candidate deriving substantial benefit from the training to be provided for him by virtue of the award of a free place.
+Taking up of free place. | 8. Each free place shall be taken up immediately after the award, or after such interval as the Minister may approve and shall entitle the free place student to free tuition for five years.
 
 L.R.O. 1/2012
 
@@ -6056,12 +6772,12 @@ LAWS OF GUYANA
 
 Education
 
-[Subsidiary] | Guyana Scholarships Regulations Secondary Schools Admission Regulations
+[Subsidiary] | Secondary Schools (Admission) Regulations
 --- | ---
 Assistance allowance. | 9. (1) The Minister may if he thinks fit and subject to such conditions as he may consider necessary, grant a free place student on the ground of need an assistance allowance for the purpose of assisting him to purchase books or to maintain himself or for both of these purposes. (2) The assistance allowance shall be paid in accordance with rates which the Minister may from time to time approve.
 Cost of tuition. | 10. The cost of tuition and assistance allowances given to free place students shall be paid out of moneys provided by Parliament.
-Free place scholarship not to be held concurrently | 11. No person shall hold concurrently a free place as well as a scholarship or similar award administered by the Government.
-Supervision by Minister. | 12 (1) For the purposes of his education every free place student by shall be subject to the general supervision of the Minister. (2) The Principal or Head of the school which the free place student attends shall, at the end of each term, forward to the Minister a report on the work, conduct and progress of the free place student. (3) If any free place student is the subject of an unfavourable report by a Principal or Head, the Minister may, at his discretion, suspend for one or more terms any or all of the rights conferred on such free place student under these Regulations. (4) If any free place student is the subject of two consecutive unfavourable reports from a Principal or Head the Minister may direct that such free place student shall forfeit the free place and thereupon all rights and privileges
+Free place scholarship not to be held concurrently with another. | 11. No person shall hold concurrently a free place as well as a scholarship or similar award administered by the Government.
+Supervision by Minister. | 12. (1) For the purposes of his education every free place student shall be subject to the general supervision of the Minister. (2) The Principal or Head of the school which the free place student attends shall, at the end of each term, forward to the Minister a report on the work, conduct and progress of the free place student. (3) If any free place student is the subject of an unfavourable report by a Principal or Head, the Minister may, at his discretion, suspend for one or more terms any or all of the rights conferred on such free place student under these Regulations. (4) If any free place student is the subject of two consecutive unfavourable reports from a Principal or Head the Minister may direct that such free place student shall forfeit the free place and thereupon all rights and privileges
 
 L.R.O. 1/2012
 
@@ -6079,21 +6795,15 @@ Cap. 39:01 177
 
 Secondary Schools (Admission) Regulations
 
-under  the  free  place  including  any  assistance  allowance payable shall determine.
+under the free place including any assistance allowance payable shall determine.
 
-(5) The Minister may, upon such conditions as he thinks  fit,  restore  to  any  free  place  student  all  or  any  of  the rights and privileges determined under the provisions of the last preceding paragraph, if in the opinion of the Minister the subsequent conduct of the student justifies the restoration.
+(5) The Minister may, upon such conditions as he thinks fit, restore to any free place student all or any of the rights and privileges determined under the provisions of the last preceding paragraph, if in the opinion of the Minister the subsequent conduct of the student justifies the restoration.
 
-- Continuation of awards. 13. Where any free place was awarded out of moneys provided by Parliament prior to the commencement of these Regulations  and  that  free  place  continues  to  be  held,  these Regulations  shall  apply  in  respect  of  the  remainder  of  the term of that free  place  as  if  it  were  a  free  place  awarded  in pursuance of these Regulations.
-
-Other scholarships not to be affected. 14. These Regulations shall not affect the allocation of places other in any  secondary  school  by  virtue of  any scholarship awarded under any other written law.
-
-Awards in 1963. 15 .  In  respect of that part of the year 1963 remaining after the Awards in commencement of these Regulations-
-
-(a) regulation 3 (2) and (3) and regulation 4 shall have no application;
-
-(b) the examination shall, in respect of the provisions of  these  Regulations  other than  those  mentioned  in  paragraph (a) of this regulation, be the Secondary Schools Common Entrance examination conducted by the Minister on the 10th April, 1963, and the specified score shall be such score as the Minister may determine.
-
-Suspension of grant-in-aid. 16. When  a  governing  body  admits  any  person  as  a student  to  a  secondary  school  except  as  provided  by  these Education
+Continuation of awards. | 13. Where any free place was awarded out of moneys provided by Parliament prior to the commencement of these Regulations and that free place continues to be held, these Regulations shall apply in respect of the remainder of the term of that free place as if it were a free place awarded in pursuance of these Regulations.
+--- | ---
+Other scholarships not to be affected. | 14. These Regulations shall not affect the allocation of places in any secondary school by virtue of any scholarship awarded under any other written law.
+Awards in 1963. | 15. In respect of that part of the year 1963 remaining after the commencement of these Regulations— (a) regulation 3 (2) and (3) and regulation 4 shall have no application; (b) the examination shall, in respect of the provisions of these Regulations other than those mentioned in paragraph (a) of this regulation, be the Secondary Schools Common Entrance examination conducted by the Minister on the 10th April, 1963, and the specified score shall be such score as the Minister may determine.
+Suspension of grant-in-aid. | 16. When a governing body admits any person as a student to a secondary school except as provided by these
 
 L.R.O. 1/2012
 
@@ -6105,16 +6815,29 @@ L.R.O. 1/2012
 
 LAWS OF GUYANA
 
-[Subsidiary] | Guyana Scholarships Regulations Secondary Schools Admission Regulations Guyana Scholarships Regulations
+Education
+
+[Subsidiary] | Secondary Schools (Admission) Regulations
 --- | ---
-Reg. 13/1965 14/1967 28/1969 8/1978 |
+Regulations, the Minister may, in respect of such school, direct the Accountant General to suspend the issue of any grant-in-aid payable under the Secondary Schools Regulations.
+
+___________________
+
+Reg. 13/1965
+14/1967
+28/1969
+8/1978
+
 ## GUYANA SCHOLARSHIPS REGULATIONS
+
 made under section 54
+
 Citation. | 1. These Regulations may be cited as the Guyana Scholarships Regulations.
-Interpretation. | 2. In these Regulations- 'examination' means the examination for the scholarship; 'scholar' means the holder of a scholarship; and
+--- | ---
+Interpretation. | 2. In these Regulations— “examination” means the examination for the scholarship; “scholar” means the holder of a scholarship; and “scholarship” means a Guyana scholarship.
 Number of scholarships. | 3. Six scholarships shall be open to public competition at an examination to be held once in each year.
 Objective of award of scholarship. | 4. The objective of the award of the scholarships shall be to encourage studies in relation to occupational fields which are relevant to the needs of Guyana.
-Duration. | 5. (1) Scholarships shall be for courses of study of not less than three and not more than six years duration. Provided that scholarships of six years shall be awarded only where a scholar will pursue a course of study requiring such period of time.
+Duration. | 5. (1) Scholarships shall be for courses of study of not less than three and not more than six years duration. Provided that scholarships of six years shall be awarded only where a scholar will pursue a course of study requiring such period of time. (2) The value of the scholarship shall vary according
 
 L.R.O. 1/2012
 
@@ -6124,33 +6847,31 @@ L.R.O. 1/2012
 
 LAWS OF GUYANA
 
-Cap. 39:01 179
+Education Cap. 39:01 179
 
 [Subsidiary]
 
-Education
+Guyana Scholarships Regulations
 
-Secondary Schools (Admission) Regulations Guyana Scholarships Regulations
+to the institution and country in which the scholarship is tenable, the course of study and its duration.
 
-to  the  institution  and  country  in  which  the  scholarship  is tenable, the course of study and its duration.
-
-(3)  During  the  duration  of  the  scholarship,  every scholar shall be entitled to-
+(3) During the duration of the scholarship, every scholar shall be entitled to—
 
 (i) (a) a monthly maintenance allowance; and
 
-(b) an  allowance  for  the  purchase of books; and
+(b) an allowance for the purchase of books; and
 
 (c) an annual allowance for the purchase of clothing,
 
 at the rates from time to time determined by the Minister; and
 
-(ii) all  expenses  for  tuition  and  fees  for the course of study undertaken pursuant to these regulations; and
+(ii) all expenses for tuition and fees for the course of study undertaken pursuant to these regulations; and
 
-(iii) all expenses certified by the institution of study as being incurred as a necessary consequence of undertaking the course of study, except expenses incurred in travelling from  the  usual  place  of  residence  of the scholar to his usual place of study; and
+(iii) all expenses certified by the institution of study as being incurred as a necessary consequence of undertaking the course of study, except expenses incurred in travelling from the usual place of residence of the scholar to his usual place of study; and
 
-(iv) the provision of a passage to the place of  study and  a return passage  to Guyana after completion of the course of study, where a scholarship is tenable in another country:
+(iv) the provision of a passage to the place of study and a return passage to Guyana after completion of the course of study, where a scholarship is tenable in another country:
 
-Provided  that  the  value  of Education
+Provided that the value of
 
 L.R.O. 1/2012
 
@@ -6162,18 +6883,22 @@ L.R.O. 1/2012
 
 LAWS OF GUYANA
 
+Education
+
 [Subsidiary] | Guyana Scholarships Regulations
 --- | ---
 any passage to which a scholar may be entitled under this regulation shall be at the student concessionary or economy class rate and shall be based on the cost of air travel by the most direct and economical route.
-Competition of scholarship. | Any person (hereinafter referred to as a shall be eligible to compete for a scholarship not more than nineteen years of age
-(a) is on the 1 st January in the year in which the examination is held; and-
-(b) was born in Guyana, or is the child of parents at least one of whom
-(i) is a citizen of Guyana; or (ii) has had his permanent
-residence in Guyana throughout the period of five years immediately preceding the date of the examination; or had established permanent residence in Guyana not less than five years before the date
-(iii) of the examination and died prior to the date of the
-examination; and
 
-(c) had resided therein during the twelve
+(4) Scholarships shall be tenable at such universities or other institutions as may be approved by the Minister.
+
+Competition of scholarship. | 6. (1) Any person (hereinafter referred to as a “candidate”) shall be eligible to compete for a scholarship who—
+--- | ---
+| (a) is not more than nineteen years of age on the 1st January in the year in which the examination is held; and—
+| (b) was born in Guyana, or is the child of parents at least one of whom
+| (i) is a citizen of Guyana; or
+| (ii) has had his permanent residence in Guyana throughout the period of five years immediately preceding the date of the examination; or
+| (iii) had established permanent residence in Guyana not less than five years before the date of the examination and died prior to the date of the examination; and
+| (c) had resided therein during the twelve
 
 L.R.O. 1/2012
 
@@ -6183,19 +6908,25 @@ L.R.O. 1/2012
 
 LAWS OF GUYANA
 
-Cap. 39:01 181
+Education Cap. 39:01 181
 
-[Subsidiary] | Secondary Schools (Admission) Regulations Guyana Scholarships Regulations
---- | ---
+[Subsidiary]
+
+Guyana Scholarships Regulations
+
 months immediately preceding the date of the examinations; and
-(d) is attested by his principal instructor or instructors in the form of the certificate set out in the schedule to be of good moral character; and
-(e) (i) had passed a school certificate examination recognised by the
-than four subjects; or (ii) has passed a General Certificate of Education Examination recognised by the Minister in less than four subjects at the
-than Grade C in each; or (iii) has obtained a qualification which, in the opinion of the Minister is equivalent to any of the qualifications mentioned in the foregoing provisions of this subparagraph.
-(2) Every candidate shall apply in writing for permission to compete for a scholarship stating the three optional subjects which he has selected under regulation 7(2), and shall forward the application to the Chief Education Officer so as to reach him at his office in Georgetown not later than a date to be notified annually by him in the Gazette. (2A) Notwithstanding anything contained paragraph (2), but subject to the other provisions of regulations, an application may be made by any eligible under paragraph (1) to compete for a after the date notified for the relevant year under
-in these person scholarship, paragraph (2)-
 
-Education
+(d) is attested by his principal instructor or instructors in the form of the certificate set out in the schedule to be of good moral character; and
+
+(e) (i) had passed a school certificate examination recognised by the Minister with credits in not less than four subjects; or
+
+(ii) has passed a General Certificate of Education Examination recognised by the Minister in not less than four subjects at the ordinary level with not less than Grade C in each; or
+
+(iii) has obtained a qualification which, in the opinion of the Minister is equivalent to any of the qualifications mentioned in the foregoing provisions of this subparagraph.
+
+(2) Every candidate shall apply in writing for permission to compete for a scholarship stating the three optional subjects which he has selected under regulation 7(2), and shall forward the application to the Chief Education Officer so as to reach him at his office in Georgetown not later than a date to be notified annually by him in the Gazette.
+
+(2A) Notwithstanding anything contained in paragraph (2), but subject to the other provisions of these regulations, an application may be made by any person eligible under paragraph (1) to compete for a scholarship, after the date notified for the relevant year under paragraph (2)—
 
 L.R.O. 1/2012
 
@@ -6208,8 +6939,18 @@ LAWS OF GUYANA
 182 | Cap. 39:01 | Education
 --- | --- | ---
 [Subsidiary] | Guyana Scholarships Regulations
-Examination. | 7. (1) The examination shall be the General Certificate of Education Examination of the University of London, advanced level or such other examination as may be determined by the Minister. (2) Each candidate shall be examined in three subjects, the subjects being offered at the advanced or scholarship level; as notified by the Chief Education Officer, from time to time in the Gazette .
-Report. | 8. (1) The Minister shall base the award of the scholarship on the order of merit of candidates as stated in a report on the work of each candidate in each subject, furnished to him as soon as practicable after each examination: Provided that, if in any year the Minister is of the opinion that the standard of the scholarship disclosed by the report is not such as to merit the award of a scholarship to a candidate, the Minister may direct that scholarships be awarded in that
+
+(a) permission to compete for a scholarship;
+
+(b) for a scholarship on the basis of the results of the examination for the relevant year already taken by the applicant,
+
+and if the Minister is satisfied that there was good and sufficient reason for the delay in making the application, he may grant the applicant a scholarship.
+
+(3) Each application made under this regulation shall be accompanied by evidence in writing that the candidate has satisfied the conditions set out in paragraph (1).
+
+Examination. | 7. (1) The examination shall be the General Certificate of Education Examination of the University of London, advanced level or such other examination as may be determined by the Minister. (2) Each candidate shall be examined in three subjects, the subjects being offered at the advanced or scholarship level; as notified by the Chief Education Officer, from time to time in the Gazette.
+--- | ---
+Report. | 8. (1) The Minister shall base the award of the scholarship on the order of merit of candidates as stated in a report on the work of each candidate in each subject, furnished to him as soon as practicable after each examination: Provided that, if in any year the Minister is of the opinion that the standard of the scholarship disclosed by the report is not such as to merit the award of a scholarship to a candidate, the Minister may direct that scholarships be awarded in that year only to those candidates who have attained the standard
 
 L.R.O. 1/2012
 
@@ -6219,33 +6960,25 @@ L.R.O. 1/2012
 
 LAWS OF GUYANA
 
-Education
-
-Cap. 39:01
-
-183
+Education Cap. 39:01 183
 
 [Subsidiary]
 
-Medical certificate.
-
-Secondary Schools (Admission) Regulations Guyana Scholarships Regulations
+Guyana Scholarships Regulations
 
 qualifying for the award of a scholarship.
 
-(2)The Minister may award additional scholarships in any year when the standard of scholarship disclosed by the report  in  respect  of  candidates  other  than  the  successful candidates is such as in the opinion of the Minister, merits the award.
+(2) The Minister may award additional scholarships in any year when the standard of scholarship disclosed by the report in respect of candidates other than the successful candidates is such as in the opinion of the Minister, merits the award.
 
-(3)  A  person  shall  not,  at  the  same  time,  hold  a scholarship and any other award which, in the opinion of the Minister, is of equivalent value.
+(3) A person shall not, at the same time, hold a scholarship and any other award which, in the opinion of the Minister, is of equivalent value.
 
-(4)  A  person  to  whom  a  scholarship  is  awarded and who holds or is granted an award of the class described in  paragraph  (3)  shall  be  required  to  relinquish  either  the scholarship or the award.
+(4) A person to whom a scholarship is awarded and who holds or is granted an award of the class described in paragraph (3) shall be required to relinquish either the scholarship or the award.
 
-9. (1)  Not later than two weeks after a candidate has been informed of the award of the scholarship, he shall come forward  to  the  Chief  Education  Officer  a  medical  certificate certifying  that  he  has  been  examined  by  a  Government Medical Officer and found to be medically fit.
-
-(2) Not later than two months after a candidate has been informed of the award of a scholarship, he shall apply in writing  to  the  Chief  Education  Officer  for  approval  of  the university or other institution which he desires to enter and of the course of study which he proposes to undertake and shall state the vocation he proposes to follow on the completion of his studies.
-
-(3)  The  Chief  Education  Officer  shall  invite  the parents or guardian of a scholar to express in writing their or his views concerning the proposals contained in the application of the scholar made under this regulation.
-
-(4) The Chief Education Officer shall also invite the principal instructor  of  a  scholar  to  submit  to  him  in  writing Education
+Medical certificate. | 9. (1) Not later than two weeks after a candidate has been informed of the award of the scholarship, he shall come forward to the Chief Education Officer a medical certificate certifying that he has been examined by a Government Medical Officer and found to be medically fit.
+--- | ---
+| (2) Not later than two months after a candidate has been informed of the award of a scholarship, he shall apply in writing to the Chief Education Officer for approval of the university or other institution which he desires to enter and of the course of study which he proposes to undertake and shall state the vocation he proposes to follow on the completion of his studies.
+| (3) The Chief Education Officer shall invite the parents or guardian of a scholar to express in writing their or his views concerning the proposals contained in the application of the scholar made under this regulation.
+| (4) The Chief Education Officer shall also invite the principal instructor of a scholar to submit to him in writing
 
 L.R.O. 1/2012
 
@@ -6257,10 +6990,14 @@ L.R.O. 1/2012
 
 LAWS OF GUYANA
 
+Education
+
 [Subsidiary] | Guyana Scholarships Regulations
 --- | ---
-Documents to be forwarded to Minister. | considering the application of the scholar. 10. (1) As soon as practicable after the receipt of the documents mentioned in regulation 9, the Chief Education Officer shall forward them, together with his comments thereon, for the consideration of the Minister. (2) The Minister may approve the University or other institutions and the course of study proposed by a
-Entry to University. | or the course of study approved or selected by the Minister. 11. Unless the Minister otherwise approves pursuant to regulation 10(4), a scholar shall enter the university or institution approved by the Minister pursuant to regulation 10(2) as soon as practicable after the award of the scholarship and thereafter shall keep his terms regularly until the
+any information concerning the scholar which, in the opinion of the instructor, may be of assistance to the Minister when considering the application of the scholar.
+
+Documents to be forwarded to Minister. | 10. (1) As soon as practicable after the receipt of the documents mentioned in regulation 9, the Chief Education Officer shall forward them, together with his comments thereon, for the consideration of the Minister. (2) The Minister may approve the University or other institutions and the course of study proposed by a scholar or may direct that a scholar attend some other university or institution or that he pursue some other course of study or give both such directions. (3) A scholar shall be informed of the decisions of the Minister and shall conform thereto. (4) Except with the prior approval of the Minister, no scholar shall change either the university or the institution or the course of study approved or selected by the Minister.
+Entry to University. | 11. Unless the Minister otherwise approves pursuant to regulation 10(4), a scholar shall enter the university or institution approved by the Minister pursuant to regulation 10(2) as soon as practicable after the award of the scholarship and thereafter shall keep his terms regularly until the scholarship expires.
 Progress report. | 12. The Chief Education Officer shall, from time to time, request from the proper authority of the university or institution at which a scholar is studying, a report on the conduct of the scholar and the progress he has made in his studies. Provided that a scholar shall authorise the proper authority to furnish the report in circumstances where such
 
 L.R.O. 1/2012
@@ -6271,31 +7008,27 @@ L.R.O. 1/2012
 
 LAWS OF GUYANA
 
-Education
-
-Cap. 39:01
-
-185
+Education Cap. 39:01 185
 
 [Subsidiary]
 
-Secondary Schools (Admission) Regulations Guyana Scholarships Regulations
+Guyana Scholarships Regulations
 
 authorisation is required.
 
-Supervision of scholar. 13. During his course of study a scholar shall be under the  supervision  and  control  of  the  Minister  or  of  such  other person  whom  the  Minister  may  nominate  to  exercise  such supervision and control.
+Supervision of scholar. | 13. During his course of study a scholar shall be under the supervision and control of the Minister or of such other person whom the Minister may nominate to exercise such supervision and control.
+--- | ---
+Conditions may be imposed by Minister. | 14. (1) The Minister may from time to time, without prejudice to his powers under regulation 10, impose such other conditions as he may consider necessary for the holding of a scholarship.
 
-Conditions may be imposed by Minister. 14. (1)  The  Minister  may  from  time  to  time,  without prejudice  to  his  powers  under  regulation  10,  impose  such other conditions as he may consider necessary for the holding of a scholarship.
+(2) Without prejudice to the generality of paragraph (1), the Minister may, in particular, require a scholar to—
 
-(2) Without prejudice to the generality of paragraph  (1),  the  Minister  may,  in  particular,  require  a scholar to-
-
-(a) enter  into  an  agreement  to  return  to Guyana  immediately  on  completion of his course of study; and
+(a) enter into an agreement to return to Guyana immediately on completion of his course of study; and
 
 (b) report to the Permanent Secretary immediately upon his arrival in Guyana for instructions regarding employment; and
 
-(c) accept employment with the Government. or an employer approved  by  the  Government,  for  a continuous period of not less than five years:
+(c) accept employment with the Government, or an employer approved by the Government, for a continuous period of not less than five years:
 
-Provided  that  failure  to  offer  such  employment  to  the scholar within four months after the date of his reporting to the Permanent  Secretary  shall relieve the scholar of all obligations under these regulations, and failure on the part of the scholar to accept any employment so offered shall cause the  entire  expended  by  the  Government  in  connection  with the scholarship to become due and payable for the
+Provided that failure to offer such employment to the scholar within four months after the date of his reporting to the Permanent Secretary shall relieve the scholar of all obligations under these regulations, and failure on the part of the scholar to accept any employment so offered shall cause the entire amount expended by the Government in connection with the scholarship to become due and payable to the
 
 L.R.O. 1/2012
 
@@ -6307,27 +7040,27 @@ L.R.O. 1/2012
 
 LAWS OF GUYANA
 
-[Subsidiary]
-
 Education
+
+[Subsidiary]
 
 Guyana Scholarships Regulations
 
 Government; and
 
-(d) undergo  training  in  the  organization known as the Guyana National Service  prior  to  taking  up  the  award for  a  period  to  be  determined  by  the Minister:
+(d) undergo training in the organization known as the Guyana National Service prior to taking up the award for a period to be determined by the Minister:
 
-Provided that if the scholar has commenced his course of study  prior  to  the  award  he  may  be  required  to  return  to Guyana  at  the  expense  of  the  Government  during  his  long vacation for the purpose  of undergoing  that period of training.
+Provided that if the scholar has commenced his course of study prior to the award he may be required to return to Guyana at the expense of the Government during his long vacation for the purpose of undergoing that period of training.
 
-(3)  The  Minister  may  declare  a  scholarship  to  be forfeited  or  may  reduce  the  value  of  a  scholarship,  or  may take  such  other  disciplinary  action  as  may  deem  fit,  if  a scholar-
+(3) The Minister may declare a scholarship to be forfeited or may reduce the value of a scholarship, or may take such other disciplinary action as he may deem fit, if a scholar—
 
-(a) is expelled from  the university or institution at which he is studying; or
+(a) is expelled from the university or institution at which he is studying; or
 
-(b) fails  to  satisfy  the  authorities  of  the university or institution in any examination prescribed by them:
+(b) fails to satisfy the authorities of the university or institution in any examination prescribed by them:
 
-Provided that if the scholar furnishes an explanation for his failure to the satisfaction of the Minister, the Minister after consultation  with  the  said  authorities  may  decide  not  to exercise in relation to the scholar any power conferred on him by this paragraph; or
+Provided that if the scholar furnishes an explanation for his failure to the satisfaction of the Minister, the Minister after consultation with the said authorities may decide not to exercise in relation to the scholar any power conferred on him by this paragraph; or
 
-(c) fails  to  fulfil  any  of  the  requirements of these Regulations, unless he furnishes an explanation for his failure to the satisfaction of the Minister; or
+(c) fails to fulfil any of the requirements of these Regulations, unless he furnishes an explanation for his failure to the satisfaction of the Minister; or
 
 L.R.O. 1/2012
 
@@ -6337,49 +7070,31 @@ L.R.O. 1/2012
 
 LAWS OF GUYANA
 
-Cap. 39:01
-
-187
+Education Cap. 39:01 187
 
 [Subsidiary]
 
-R.20/9/1950
+Guyana Scholarships Regulations
 
-1/1953 GOVERNMENT SCHOOL) RULES
+(d) engages in any occupation, or activity, or accepts any appointment which, in the opinion of the university or institution, is detrimental to his progress in the course of study approved, or selected, by the Minister.
 
-Education
-
-Bain Gray Prizes (Government Training College and Broad Street Government School (Rules) Guyana Scholarships Regulations
-
-Bain Gray Prizes (Government Training College and Broad Street Government School (Rules)
-
-Minister; or
-
-(d) engages in any occupation, or activity, or accepts appointment of the university or institution, is detrimental to his progress in the course of study approved, or selected, by the Minister.
-
-- Power of Minister. 15. Subject  to  these  Regulations,  the  Minister  shall have power to decide all questions that may arise in respect of the administration of these Regulations.
-
-Revocation of Regulations.
-
-16. The  Guyana  Scholarship  Regulations  are  hereby revoked.
-
-- Saving provision. 17. Notwithstanding  regulation  16,  any  scholarship being  held  immediately  before  the  commencement  of  these Regulations shall continue to be held in accordance with the Guyana  Scholarship  Regulations  as  if  those  regulations  had not been revoked.
+Power of Minister. | 15. Subject to these Regulations, the Minister shall have power to decide all questions that may arise in respect of the administration of these Regulations.
+--- | ---
+Revocation of Regulations. | 16. The Guyana Scholarship Regulations are hereby revoked.
+Saving provision. | 17. Notwithstanding regulation 16, any scholarship being held immediately before the commencement of these Regulations shall continue to be held in accordance with the Guyana Scholarship Regulations as if those regulations had not been revoked.
 
 ____________________
 
-## BAIN GRAY PRIZES (GOVERNMENT TRAINING COLLEGE AND BROAD STREET
+R.20/9/1950
+1/1953
+
+## BAIN GRAY PRIZES (GOVERNMENT TRAINING COLLEGE AND BROAD STREET GOVERNMENT SCHOOL) RULES
 
 made under section 50
 
-1 .  These  Rules  may  be  cited  as  the  Bain  Gray  Prizes (Government Training College and Broad Street Government School) Rules.
-
-2.
-
-There  shall  be  awarded  by  the  Chief  Education
-
-Citation.
-
-Award of prize.
+Citation. | 1. These Rules may be cited as the Bain Gray Prizes (Government Training College and Broad Street Government School) Rules.
+--- | ---
+Award of prize. | 2. There shall be awarded by the Chief Education
 
 L.R.O. 1/2012
 
@@ -6397,21 +7112,21 @@ Education
 
 Government School) Rules
 
-Officer in the month of September each year, commencing in the month of September1951, a prize known as the Bain Gray Prize to each of the following:
+Officer in the month of September each year, commencing in the month of September 1951, a prize known as the Bain Gray Prize to each of the following:
 
-(a) the student teacher at the Government Training College who in the final year of  the  ordinary  course  obtains  the highest number of points in the manner hereinafter specified; and
+(a) the student teacher at the Government Training College who in the final year of the ordinary course obtains the highest number of points in the manner hereinafter specified; and
 
-(b) the most  outstanding  pupil  of  the Upper  Division  of  the  Broad  Street Government School leaving school who-
+(b) the most outstanding pupil of the Upper Division of the Broad Street Government School leaving school who—
 
-(i) has  been  on  the  Register  not less than three years; and
+(i) has been on the Register not less than three years; and
 
-(ii) has  made  not  less  than  80  per cent  of  the  maximum  number of attendances during the three years immediately preceding the award,
+(ii) has made not less than 80 per cent of the maximum number of attendances during the three years immediately preceding the award,
 
 and who obtains the highest number of points as hereinafter provided:
 
-Provided  that  the  Chief  Education  Officer  may  in  any year  award  the  prize  to  the  candidate  obtaining  the  highest number of points, notwithstanding that he has failed to make the  number  of  attendances  prescribed  by  subparagraph  (ii), where such failure has been due to circumstances beyond his control.
+Provided that the Chief Education Officer may in any year award the prize to the candidate obtaining the highest number of points, notwithstanding that he has failed to make the number of attendances prescribed by subparagraph (ii), where such failure has been due to circumstances beyond his control.
 
-3. Each prize shall consist of books to the value of onehalf of the annual income of the fund for the provision of Bain Gray Prizes, and such books shall be inscribed with the words 'Government Training College-Bain Gray Prize' or 'Broad Points. [R.1/1953]
+3. Each prize shall consist of books to the value of one-half of the annual income of the fund for the provision of Bain Gray Prizes, and such books shall be inscribed with the words “Government Training College—Bain Gray Prize” or “Broad
 
 L.R.O. 1/2012
 
@@ -6421,29 +7136,22 @@ L.R.O. 1/2012
 
 LAWS OF GUYANA
 
-Cap. 39:01 189
+Education Cap. 39:01 189
 
-Education
+[Subsidiary] Bain Gray Prizes (Government Training College and Broad Street Government School) Rules
 
-[Subsidiary] Bain Gray Prizes (Government Training College and Broad Street Government School (Rules)
+Street Government School—Bain Gray Prize,” as the case may be.
 
-Street Government School-Bain Gray Prize,' as the case may be.
-
-4 . Points shall be awarded-
-
-(a) in  respect  of  a  candidate  from  the Government  Training  College,  in  the manner following:
-
-(i) for  an  essay  of  not  less  than 5,000  words  on  an  educational subject. The subject shall be selected  by  the  student  from subjects set by the Chief Education Officer each year, and  such  choice  shall  be  made six  months  before  the  essays are to be submitted-50 points;
-
-(ii) character  honesty  of  purpose, determination to overcome difficulties, adaptability and cooperation 50 points;
-
-(b) in  respect  of  a  candidate  from  the Broad Street Government School-
-
-(i) for school work during the past three  years,  including  work  in special subjects such as Gardening, Woodwork, Handicraft, Domestic  Science, Art and Sewing-50 points;
-
-(ii) the  candidates  record  in  extracurricular activities-25 points;
-
-(iii) character-25 points.
+Points.
+[R.1/1953] | 4. Points shall be awarded—
+--- | ---
+| (a) in respect of a candidate from the Government Training College, in the manner following:
+| (i) for an essay of not less than 5,000 words on an educational subject. The subject shall be selected by the student from subjects set by the Chief Education Officer each year, and such choice shall be made six months before the essays are to be submitted—50 points;
+| (ii) character, honesty of purpose, determination to overcome difficulties, adaptability and co-operation—50 points;
+| (b) in respect of a candidate from the Broad Street Government School—
+| (i) for school work during the past three years, including work in special subjects such as Gardening, Woodwork, Handicraft, Domestic Science, Art and Sewing—50 points;
+| (ii) the candidate's record in extra-curricular activities—25 points;
+| (iii) character—25 points.
 
 ___________________
 
