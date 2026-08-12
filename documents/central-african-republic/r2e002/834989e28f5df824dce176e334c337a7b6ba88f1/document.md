@@ -10,7 +10,91 @@ Juillet 2014
 
 [[START OF PAGE 2]]
 
-PROGRAMME D'URGENCE  POUR LE RELEVEMENT DURABLE DE LA REPUBLIQUE CENTRAFRICAINE
+PROGRAMME D'URGENCE POUR LE RELEVEMENT DURABLE DE LA REPUBLIQUE CENTRAFRICAINE
+
+République Centrafricaine
+
+0 150 300
+Kilomètres
+TCHAD
+CAMEROUN
+CONGO
+RDC
+SOUDAN DU NORD
+SUD SOUDAN
+vers Moundou
+vers Sarh
+vers El-Fasher
+vers Djouba
+Markounda
+Paoua
+BOZOUM
+BOSSANGOA
+BOUAR
+Bossemtele
+Yaloké
+BERBERATI
+Boda
+MBAIKI
+Bambio
+NOLA
+Bayanga
+Amada Gaza
+Bédé Mokouba
+Kabo
+Bamingui
+KAGA BANDORO
+Dekoa
+SIBUT
+Damara
+BANGUI
+Ndélé
+BIRAO
+Ouadda Djalle
+Sam-Ouandja
+Ouadda
+BRIA
+Ippy
+Bakala
+BAMBARI
+Kouango
+Yalinga
+Mingala
+Bakouma
+MOBAYE
+BANGASSOU
+Ouango
+Djema
+Zemio
+OBO
+Bambouti
+
+Bamingui-Bangoran
+Bangui
+Basse-Kotto
+Haut-Mbomou
+Haute-Kotto
+Kémo
+Lobaye
+Mambéré-Kadéï
+Mbomou
+Nana-Gribizi
+Nana-Mambéré
+Ombella-M'Poko
+Ouaka
+Ouham
+Ouham-Pendé
+Sangha-Mbaéré
+Vakaga
+Route principale
+Route secondaire
+Piste
+Chef lieu de Sous-préfecture
+Chef lieu de Préfecture
+Capitale
+
+Source: Laboratoire de Cartographie, Climatographie et d’Etudes Géographiques
+mai 2012
 
 2
 
@@ -20,203 +104,55 @@ PROGRAMME D'URGENCE  POUR LE RELEVEMENT DURABLE DE LA REPUBLIQUE CENTRAFRICAINE
 
 ## Liste des sigles et abréviations
 
-AFD ACEDD
-
-Agence Française pour le Développement
-
-Agence Centrafricaine de l'environnement et du Développement Durable
-
-ACFPE
-
-Agence Centrafricaine pour la Formation Professionnelle et l'Emploi
-
-BAD BEAC BINUCA
-
-Banque Africaine de Développement
-
-Banque des Etats d'Afrique Centrale
-
-Bureau intégré des nations unies en Centrafrique
-
-CAEEFPCT
-
-Chambre  d'agriculture,  d'élevage,  des  eaux, des  forêts,  de  la  pêche,  des  chasses  et  du tourisme
-
-CEMAC
-
-Communauté Economique et Monétaire d'Afrique Centrale
-
-CEEAC : Communauté Economique des Etats de l'Afrique Centrale
-
-CCC
-
-Campagne pour un changement de comportement
-
-CNEDD
-
-Commission Nationale pour l'Environnement et le Développement Durable
-
-CCIMA
-
-Chambre  de  commerce,  de  l'industrie,  des mines de l'artisanat
-
-CNT
-
-Conseil National de Transition
-
-CPJP
-
-Convention des Patriotes pour le Rassemblement et la Paix
-
-CSCP
-
-Cadre stratégique pour la consolidation de la Paix
-
-CSN DDR
-
-Plan cadre national de lutte contre le sida
-
-Démobilisation, Désarmement et Réintégration
-
-DPI ECASEB
-
-Dialogue Politique Inclusif
-
-Enquête Centrafricaine pour le Suivi- Evaluation du Bien -être
-
-DSRP
-
-Document  de  Stratégie  de  Réduction  de  la Pauvreté:
-
-FARE
-
-Front  pour  l'Annulation  et  la  Reprise  des Elections
-
-FACA
-
-Forces Armée Centrafricaine
-
-FDPC
-
-Front Démocratique du Peuple Centrafricain
-
-FDS
-
-Forces de défense et de sécurité
-
-FEC
-
-Facilité de Crédit Elargi
-
-FMI
-
-Font Monétaire International
-
-FNE
-
-Fonds national de l'Environnement
-
-GICA
-
-Groupement
-
-interprofessionnel
-
-du
-
-Centrafrique
-
-HCR
-
-Haut-Commissariat Chargé des Réfugies
-
-IDE
-
-Investissements Directs Etranger
-
-IDH
-
-Indice du Développement Humain
-
-IEC
-
-Information éducation et communication
-
-IMC
-
-International Medical Corps
-
-IMOA-EPT
-
-Initiative pour la mise en œuvre accélérée de l'éducation pour tous
-
-ITIE
-
-Initiative pour la transparence dans les industries extractives
-
-LRA
-
-Lord Resistance Army (Armée de la résistance du seigneur)
-
-LMD
-
-Licence maîtrise doctorat
-
-MICS
-
-Multiple  Indicator  Custer  Survey  (Enquête  à Indicateurs Multiples)
-
-MSF
-
-Médecins Sans Frontière
-
-OMD
-
-Objectifs du
-
-Millénaire
-
-pour
-
-le
-
-Développement
-
-OMS
-
-Organisation Mondiale de la Santé
-
-ONG
-
-Organisation Non Gouvernementale
-
-PDD
-
-Programme de Pôle de développement
-
-PEV
-
-Programme élargi de vaccination
-
-PEN
-
-Politique énergétique nationale
-
-PER
-
-Programme économique régional
-
-PGRF
-
-Programme global de réforme financière
-
-PIB
-
-Produit Intérieur Brut
-
-PME/PMI
-
-Petite et moyenne entreprise/Petite et moyenne
+AFD Agence Française pour le Développement
+ACEDD Agence Centrafricaine de l’environnement et du Développement Durable
+ACFPE Agence Centrafricaine pour la Formation Professionnelle et l’Emploi
+BAD Banque Africaine de Développement
+BEAC Banque des Etats d’Afrique Centrale
+BINUCA Bureau intégré des nations unies en Centrafrique
+CAEEFPCT Chambre d'agriculture, d'élevage, des eaux, des forêts, de la pêche, des chasses et du tourisme
+CEMAC Communauté Economique et Monétaire d’Afrique Centrale
+CEEAC : Communauté Economique des Etats de l’Afrique Centrale
+CCC Campagne pour un changement de comportement
+CNEDD Commission Nationale pour l’Environnement et le Développement Durable
+CCIMA Chambre de commerce, de l’industrie, des mines de l’artisanat
+CNT Conseil National de Transition
+CPJP Convention des Patriotes pour le Rassemblement et la Paix
+CSCP Cadre stratégique pour la consolidation de la Paix
+CSN Plan cadre national de lutte contre le sida
+DDR Démobilisation, Désarmement et Réintégration
+DPI Dialogue Politique Inclusif
+ECASEB Enquête Centrafricaine pour le Suivi-Evaluation du Bien -être
+DSRP Document de Stratégie de Réduction de la Pauvreté:
+FARE Front pour l’Annulation et la Reprise des Elections
+FACA Forces Armée Centrafricaine
+FDPC Front Démocratique du Peuple Centrafricain
+FDS Forces de défense et de sécurité
+FEC Facilité de Crédit Elargi
+FMI Font Monétaire International
+FNE Fonds national de l’Environnement
+GICA Groupement interprofessionnel du Centrafrique
+HCR Haut-Commissariat Chargé des Réfugiés
+IDE Investissements Directs Etranger
+IDH Indice du Développement Humain
+IEC Information éducation et communication
+IMC International Medical Corps
+IMOA-EPT Initiative pour la mise en œuvre accélérée de l’éducation pour tous
+ITIE Initiative pour la transparence dans les industries extractives
+LRA Lord Resistance Army (Armée de la résistance du seigneur)
+LMD Licence maîtrise doctorat
+MICS Multiple Indicator Custer Survey (Enquête à Indicateurs Multiples)
+MSF Médecins Sans Frontière
+OMD Objectifs du Millénaire pour le Développement
+OMS Organisation Mondiale de la Santé
+ONG Organisation Non Gouvernementale
+PDD Programme de Pôle de développement
+PEV Programme élargi de vaccination
+PEN Politique énergétique nationale
+PER Programme économique régional
+PGRF Programme global de réforme financière
+PIB Produit Intérieur Brut
+PME/PMI Petite et moyenne entreprise/Petite et moyenne
 
 3
 
@@ -226,11 +162,75 @@ Petite et moyenne entreprise/Petite et moyenne
 
 ## Sommaire
 
+I – CONTEXTE GENERAL ............................................................................................................................... 6
+1.1 – Sur le plan politique ............................................................................................................................. 6
+1.2 – Sur le plan sécuritaire .......................................................................................................................... 7
+1.3 – Sur le plan économique et social ......................................................................................................... 7
+1.4 – Facteurs exogènes à la crise ................................................................................................................ 9
+II - IMPACTS DE LA CRISE ........................................................................................................................... 10
+2.1 – Impact sur la situation politique ........................................................................................................ 10
+2.2 – Impact sur la situation sécuritaire .................................................................................................... 10
+2.3 – Impact sur la situation humanitaire .................................................................................................. 12
+(i) Le déplacement des populations .......................................................................................... 12
+(ii) La dégradation de la situation éducative ............................................................................... 12
+(iii) La détérioration de la situation sanitaire ............................................................................... 12
+(iv) Les menaces sur la sécurité alimentaire et la nutrition ......................................................... 13
+(v) L’accès à l’eau potable, l’assainissement et l’hygiène ........................................................... 14
+2.4 – Impact sur la justice et l’environnement des affaires ....................................................................... 14
+2.5 – Impact sur la situation économique et financière ............................................................................. 14
+2.6 – Impact sur la coopération avec les partenaires au développement ................................................. 19
+III - LES DEFIS ET ENJEUX ............................................................................................................................ 20
+IV - STRATEGIE DE RELEVEMENT DURABLE ............................................................................................... 21
+4.1 – Vision du programme ........................................................................................................................ 21
+4.2 – Orientations de la stratégie ............................................................................................................... 21
+4.2.1 ORIENTATION STRATEGIQUE 1 : RESTAURATION DE LA SECURITE, DE LA PAIX ET .............. 23
+RENFORCEMENT DE LA GOUVERNANCE ET DE L’ETAT DE DROIT
+4.2.2 ORIENTATION STRATEGIQUE 2 : RENFORCEMENT DE LA PROTECTION CIVILE, .................. 27
+RETABLISSEMENT ET REORGANISATION DE L’ADMINISTRATION SUR TOUTE L’ETENDUE
+DU TERRITOIRE
+4.2.3 ORIENTATION STRATEGIQUE 3 : RELANCE DES ACTIVITES DES SECTEURS SOCIAUX .......... 29
+ESSENTIELS, INTENSIFICATION DE LA LUTTE CONTRE LE VIH-SIDA ET PROTECTION DE
+L’ENVIRONNEMENT
+4.2.4 ORIENTATION STRATEGIQUE 4 : POURSUITE DES REFORMES ECONOMIQUES ET ............. 36
+FINANCIERES ET PROMOTION D’UNE CROISSANCE VIGOUREUSE ET DURABLE
+4.3 – Liens avec les principales stratégies gouvernementales et les engagements internationaux ........ 42
+V – PROGRAMME D’ACTIONS ................................................................................................................... 43
+5.1 – Objectifs du Programme d’Actions .................................................................................................... 43
+5.2 – Structure et coût du Programme d’Actions ....................................................................................... 44
+VI – PERSPECTIVES MACROECONOMIQUES 2014 -2016 ............................................................................ 45
+VII – STRATEGIE DE MOBILISATION DES RESSOURCES POUR LE FINANCEMENT DU PURD .................... 47
+7.1 – Mobilisation des ressources internes ................................................................................................ 47
+7.1.1 Les capacités de financement du programme sur ressources propres ................................ 47
+7.1.2 Les efforts du Gouvernement pour améliorer les recettes .................................................. 47
+7.2 – Mobilisation des ressources externes ............................................................................................... 49
+7.2.1 Actions de consultation et de sensibilisation ....................................................................... 49
+7.2.2 Le plaidoyer .......................................................................................................................... 49
+7.2.3 La réunion des donateurs ..................................................................................................... 49
+
 4
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+VIII – PRINCIPE D’INTERVENTION – MECANISME DE MISE EN ŒUVRE ET DE SUIVI-EVALUATION – ..... 50
+COMMUNICATION
+8.1 – Principe d’intervention ...................................................................................................................... 50
+8.1.1 Rôles et responsabilités des acteurs .................................................................................................. 50
+8.1.2 L’Etat .................................................................................................................................................. 50
+8.1.3 Les Partenaires au développement ................................................................................................... 51
+8.1.4 Les Autres acteurs : (parlement, société civile et médias) ............................................................... 51
+8.2 - Mécanisme de mise en œuvre et de suivi-évaluation ....................................................................... 51
+8.2.1 Dispositif institutionnel ...................................................................................................................... 51
+8.2.2 Dispositif de Suivi-Evaluation ............................................................................................................ 51
+8.3 – Médias/Communication .................................................................................................................... 53
+ANNEXES .................................................................................................................................................... 54
+Annexe 1 : Programmes et sous-programmes par orientation stratégique ................................. 55
+Annexe 2 : Matrice d’actions prioritaires de l’orientation stratégique 1 ...................................... 59
+Annexe 3 : Matrice d’actions prioritaires de l’orientation stratégique 2 ...................................... 74
+Annexe 4 : Matrice d’actions prioritaires de l’orientation stratégique 3 ...................................... 86
+Annexe 5 : Matrice d’actions prioritaires de l’orientation stratégique 4 ...................................... 98
+Annexe 6 : Matrice des actions des actions opérationnelles pour l’amélioration des finances publiques .............................................................................................................................. 124
 
 5
 
@@ -242,7 +242,7 @@ Petite et moyenne entreprise/Petite et moyenne
 
 La République Centrafricaine (RCA) est un vaste pays, enclavé et faiblement peuplé situé au centre d'une région  instable  sur  le  plan  de  la  sécurité  car  marquée  par  la  persistance  des  conflits  au  Darfour,  en  RD Congo, les exactions de la LRA et une instabilité cyclique des institutions du pays. Couvrant une superficie de  623.000  km²  et  comptant  4,7  millions  d'habitants 1 ,  la  RCA  est  dotée  d'un  potentiel  naturel  très important (ressources minières immenses, réseau hydrographique dense, massif forestier important, etc.), mais  demeure  paradoxalement  l'un  des  pays  les  plus  pauvres  au  monde  à  cause  non  seulement  de  la mauvaise gouvernance mais aussi et surtout des enjeux géopolitiques.
 
-La RCA fait partie de deux grands ensembles sous régionaux la Communauté Economique et Monétaire de l'Afrique  Centrale  (CEMAC 2 )  et  la  Communauté Economique des Etats de l'Afrique Centrale (CEEAC) 3 .  De par sa position géographique, elle devait jouer un rôle majeur dans le développement des échanges sousrégionaux  et  régionaux.  Mais  les  crises  politico-militaires  récurrentes  depuis  plus  de  deux  décennies, l'empêchent de valoriser cette opportunité.
+La RCA fait partie de deux grands ensembles sous régionaux la Communauté Economique et Monétaire de l'Afrique Centrale (CEMAC 2 ) et la Communauté Economique des Etats de l'Afrique Centrale (CEEAC) 3 . De par sa position géographique, elle devait jouer un rôle majeur dans le développement des échanges sous-régionaux et régionaux. Mais les crises politico-militaires récurrentes depuis plus de deux décennies, l'empêchent de valoriser cette opportunité.
 
 En effet, le rapport mondial sur le développement humain publié par le PNUD en 2011 classe la RCA au 179 ème rang sur 187 pays du point de vue de l'Indice du Développement Humain (IDH). En 2012, elle est classée  48 ème sur  52  pays  du  point  de  l'indice  de  la  gouvernance  en  Afrique  et,  185 ème sur  185  pays  au classement du Doing business établi par la Banque Mondiale en 2013 (Rapport Doing Business 2013, p.3).
 
@@ -250,7 +250,7 @@ La RCA a connu, au cours de son histoire, une série de coups d'Etat qui a condu
 
 ### 1.1 - Sur le plan politique
 
-L'organisation  des  élections  générales  en  2011  a  été  entachée  d'irrégularités,  selon  les  observateurs internationaux 6 et les résultats ont été contestés par l'opposition démocratique qui a exigé leur annulation. Un Front pour l'Annulation et la Reprise des Elections (FARE) avait été créé dans cette perspective. A cela, s'est ajouté, la mauvaise gouvernance qui s'est caractérisée par l'absence d'un véritable dialogue politique et  le  non-respect  des  engagements  pris  dans  la  gestion  des  affaires  publiques  comme  dans  le  cadre  du Dialogue Politique Inclusif de décembre 2008. Cette absence de dialogue politique sincère a caractérisé le contexte  politique  et  entretenu  un  climat  de  crise  politique  persistante  malgré  les  efforts de  la communauté  internationale  à  trouver  un  accord  entre  les  acteurs  politiques.    L'entrave  à  l'alternance politique  par  un  refus  délibéré  d'organiser  des  élections  transparentes  et  crédibles ;  le  non-respect  des droits de l'homme et la culture de l'impunité ; l'incapacité de l'Etat à assurer la sécurité sur l'ensemble du territoire  et  particulièrement  aux  frontières  avec  les  Etats  limitrophes  en  situation  de  conflit  interne, comme le Darfour utilisant une partie du nord de la RCA comme base arrière ; la porosité des frontières du pays favorisant le trafic d'armes de guerre et les agissements (razzias) des groupes paramilitaires étrangers comme la LRA, ont été les éléments déclencheurs de la crise qui a abouti au changement politique du 24 mars 2013 marqué par le départ de Bozize du pouvoir. De même, les violences continues perpétrées par les éléments de la Séléka ajoutés aux dysfonctionnements au niveau de l'exécutif ont donné naissance à une nouvelle  crise  créée  par  les  Anti-balaka  (groupes  d'autodéfense  instrumentalisés  par  la  suite  par  les politiques)  dont  le  comportement  en  terme  de  violence  et  d'exactions  diverses  ne  présentent  pas  de grandes différences avec les agissements de la Séléka. Ce dernier développement de la situation a ébranlé les  institutions  de  la  transition  et  provoqué  la  démission  du  Président  et  du  Premier  Ministre  de  la Transition. Les élections organisées par le Conseil National de Transition, quelques après ces démissions, ont permis d'élire, en janvier 2014, une nouvelle Présidente de la République de Transition qui a procédé à la mise en place d'un nouveau Gouvernement de Transition.
+L'organisation des élections générales en 2011 a été entachée d'irrégularités, selon les observateurs internationaux 6 et les résultats ont été contestés par l'opposition démocratique qui a exigé leur annulation. Un Front pour l'Annulation et la Reprise des Elections (FARE) avait été créé dans cette perspective. A cela, s'est ajouté, la mauvaise gouvernance qui s'est caractérisée par l'absence d'un véritable dialogue politique et le non-respect des engagements pris dans la gestion des affaires publiques comme dans le cadre du Dialogue Politique Inclusif de décembre 2008. Cette absence de dialogue politique sincère a caractérisé le contexte politique et entretenu un climat de crise politique persistante malgré les efforts de la communauté internationale à trouver un accord entre les acteurs politiques. L'entrave à l'alternance politique par un refus délibéré d'organiser des élections transparentes et crédibles ; le non-respect des droits de l'homme et la culture de l'impunité ; l'incapacité de l'Etat à assurer la sécurité sur l'ensemble du territoire et particulièrement aux frontières avec les Etats limitrophes en situation de conflit interne, comme le Darfour utilisant une partie du nord de la RCA comme base arrière ; la porosité des frontières du pays favorisant le trafic d'armes de guerre et les agissements (razzias) des groupes paramilitaires étrangers
 
 > 1 Projection du RGPH03
 
@@ -270,6 +270,8 @@ L'organisation  des  élections  générales  en  2011  a  été  entachée  d'i
 
 [[START OF PAGE 7]]
 
+comme la LRA, ont été les éléments déclencheurs de la crise qui a abouti au changement politique du 24 mars 2013 marqué par le départ de Bozize du pouvoir. De même, les violences continues perpétrées par les éléments de la Séléka ajoutés aux dysfonctionnements au niveau de l'exécutif ont donné naissance à une nouvelle crise créée par les Anti-balaka (groupes d'autodéfense instrumentalisés par la suite par les politiques) dont le comportement en terme de violence et d'exactions diverses ne présentent pas de grandes différences avec les agissements de la Séléka. Ce dernier développement de la situation a ébranlé les institutions de la transition et provoqué la démission du Président et du Premier Ministre de la Transition. Les élections organisées par le Conseil National de Transition, quelques après ces démissions, ont permis d'élire, en janvier 2014, une nouvelle Présidente de la République de Transition qui a procédé à la mise en place d'un nouveau Gouvernement de Transition.
+
 ### 1.2 - Sur le plan sécuritaire
 
 Il  convient de rappeler que plusieurs efforts ont été entrepris tant sur le plan régional qu'international à travers  différentes  initiatives  pour  mettre  un  terme  aux  crises  récurrentes  qui  ont  secoué  le  pays.  La dernière initiative, avant la crise de décembre 2012, est la signature par le Gouvernement et les groupes politico-militaires d'un Accord de Paix Global à Libreville en 2008, suivie du Dialogue Politique Inclusif (DPI). Au cours de l'année 2009, un programme national de Démobilisation, Désarmement et Réintégration (DDR) fut mis en place afin de permettre à la RCA de s'engager sur la voie de la pérennisation des acquis de la paix.  En  2012,  bien  que  la  fraction  rebelle  de  la  CPJP  ait  intégré  cet  Accord  de  Paix  Global,  tous  les mouvements  rebelles  ne  s'étaient  pas  encore  engagés  dans  cette  voie.  Les  violations  de  certaines dispositions des différents Accords de paix, les retards pris dans la mise en œuvre des engagements  issus des Accords de Paix Global, l'absence de dialogue politique sincère, le climat de méfiance qui prévalait avec les groupes rebelles, la corruption généralisée et la mauvaise répartition des projets de développement sur l'étendue du territoire ont provoqué des tensions entre les acteurs et ont largement contribué à la crise qui a débouché sur le changement politique du 24 mars 2013. La poursuite des exactions par les éléments de la Séléka  dans  toutes  les  préfectures  a  fini  par  déclencher  une  réaction  de  révolte  parmi  la  frange  la  plus jeune de la population. C'est ainsi qu'est née la milice Anti-balaka qui, dans la nuit du 05 décembre 2013, a attaqué les positions stratégiques des éléments de la Séléka et groupes sociaux considérés comme proches de cette coalition.
@@ -278,7 +280,7 @@ Il  convient de rappeler que plusieurs efforts ont été entrepris tant sur le p
 
 Après la mise en œuvre du Document de Stratégie de Réduction de la Pauvreté (DSRP1) 2008-2010 qui a permis  des  avancées  notables  dans  la  stabilisation  du  cadre  macroéconomique  et  des  progrès  dans  la gestion  des  finances  publiques,  le  DSRP2  2011-2015  devait  permettre  de  consolider  les  acquis  dans  la perspective des Objectifs du Millénaire pour le  Développement (OMD). Mais la crise politique postélectorale et les difficultés de mobilisation des ressources nécessaires, n'ont pas permis de préparer et tenir la réunion des donateurs prévue pour le premier trimestre de l'année 2012 et en vue de mettre en œuvre le DSRP2 avant la fin 2012. Toutefois, le Gouvernement avait conclu un accord avec le FMI en juin 2012 dans le cadre d'un programme appuyé par la Facilité Elargie de Crédit (FEC) qui donnait un signal favorable  aux  partenaires  au  développement  de  la  RCA.  Les  performances  macroéconomiques  en  2012 étaient bonnes avec un taux de croissance du PIB estimé à 4% contre 3,3% en 2011. Le rapport national publié en 2010 sur les progrès vers l'atteinte des OMD, indiquait que si les efforts sont maintenus, la RCA pourrait atteindre les objectifs dans seulement deux domaines, l'accès à l'eau potable et la scolarisation des filles.
 
-Le tissu socioéconomique et la cohésion sociale ont été mis à mal du fait de la crise créée par la coalition Séléka. En effet, à partir de décembre 2012, les exactions et les violences de la coalition ont été orientées vers une communauté bien définie notamment chrétienne et tout ce qui lui est associé. Ainsi les églises ont été  visées  dans  toutes  villes  de  l'intérieur  occupées  par  la  coalition.  Les  exactions  qui  ont  suivi  le changement politique ont servi de prétexte au développement d'un esprit de vengeance. La milice Antibalaka née de cette logique a opéré une attaque dans la ville de Bangui et ses environs le 05 décembre 2013.  A  l'inverse  de  la  coalition  Séléka,  les  Anti-balaka  ont  orienté  leurs  exactions  et  violences  sur  les personnes issues de la communauté musulmane et toutes ses composantes. Les mosquées et les étals des opérateurs économiques identifiés comme appartenant à cette communauté ont été pris pour cibles. Cette dernière  crise  a  attisé  la  tension  communautaire  déjà  latente  et  augmenté  la  méfiance  au  sein  des populations. La recrudescence de la violence et de l'insécurité dans la capitale et dans le reste du Pays a ruiné la cohésion sociale et aggravé la fracture sociale. Le climat d'insécurité et les violences ont provoqué la délocalisation au Tchad et au Cameroun d'une frange de la population musulmane. La destruction des outils de production tant à Bangui qu'à l'intérieur du pays, occasionnée par cette crise a totalement réduit les capacités de production avec des conséquences notamment sur l'emploi et la croissance économique.
+Le tissu socioéconomique et la cohésion sociale ont été mis à mal du fait de la crise créée par la coalition Séléka. En effet, à partir de décembre 2012, les exactions et les violences de la coalition ont été orientées vers une communauté bien définie notamment chrétienne et tout ce qui lui est associé. Ainsi les églises ont été visées dans toutes villes de l'intérieur occupées par la coalition. Les exactions qui ont suivi le changement politique ont servi de prétexte au développement d'un esprit de vengeance. La milice Anti-balaka née de cette logique a opéré une attaque dans la ville de Bangui et ses environs le 05 décembre 2013. A l'inverse de la coalition Séléka, les Anti-balaka ont orienté leurs exactions et violences sur les
 
 7
 
@@ -286,7 +288,9 @@ Le tissu socioéconomique et la cohésion sociale ont été mis à mal du fait d
 
 [[START OF PAGE 8]]
 
-La  mauvaise  gouvernance  dans  la  gestion  économique,  a  entrainé  une  pauvreté  massive  aussi  bien  en milieu  rural  qu'en  milieu  urbain,  du  fait  de  la  paupérisation  des  ménages  sous  l'effet  des  crises  liées  à l'insécurité alimentaire, à la baisse des cours des produits d'exportation et aux difficultés d'approvisionnement en produits de premières nécessités. La dégradation des infrastructures de soutien à l'économie (route, transport, énergie et télécommunications) rendant difficiles les échanges économiques internes et externes ; la baisse de la productivité dans les secteurs et les pressions administratives sur les investisseurs nationaux et étrangers, altérant le climat des affaires et poussant les opérateurs économiques à  se  désengager  de  leurs  activités  ;  la  corruption  dans  les  administrations ;  la  mauvaise  gestion  dans l'exploitation  et  la  commercialisation  des  ressources  naturelles  (or,  diamants,  bois,)  ont  largement contribué à attiser les tensions.
+personnes issues de la communauté musulmane et toutes ses composantes. Les mosquées et les étals des opérateurs économiques identifiés comme appartenant à cette communauté ont été pris pour cibles. Cette dernière crise a attisé la tension communautaire déjà latente et augmenté la méfiance au sein des populations. La recrudescence de la violence et de l'insécurité dans la capitale et dans le reste du Pays a ruiné la cohésion sociale et aggravé la fracture sociale. Le climat d'insécurité et les violences ont provoqué la délocalisation au Tchad et au Cameroun d'une frange de la population musulmane. La destruction des outils de production tant à Bangui qu'à l'intérieur du pays, occasionnée par cette crise a totalement réduit les capacités de production avec des conséquences notamment sur l'emploi et la croissance économique.
+
+La mauvaise gouvernance dans la gestion économique, a entrainé une pauvreté massive aussi bien en milieu rural qu'en milieu urbain, du fait de la paupérisation des ménages sous l'effet des crises liées à l'insécurité alimentaire, à la baisse des cours des produits d'exportation et aux difficultés d'approvisionnement en produits de premières nécessités. La dégradation des infrastructures de soutien à l'économie (route, transport, énergie et télécommunications) rendant difficiles les échanges économiques internes et externes ; la baisse de la productivité dans les secteurs et les pressions administratives sur les investisseurs nationaux et étrangers, altérant le climat des affaires et poussant les opérateurs économiques à se désengager de leurs activités ; la corruption dans les administrations ; la mauvaise gestion dans l'exploitation et la commercialisation des ressources naturelles (or, diamants, bois,) ont largement contribué à attiser les tensions.
 
 Au niveau social, cette mauvaise gouvernance a consisté en la pratique du népotisme dans la désignation aux  postes  de  responsabilité  en  l'absence  de  toute  culture  du  mérite,   entrainant  l'inefficacité  de l'administration à répondre aux besoins des populations ;  l'exacerbation de la méfiance des populations, se traduisant  par  un  manque  de  cohésion  sociale ;    le  développement  de  l'exclusion  marqué  par  l'inégale répartition des projets de développement dans les régions.
 
@@ -332,7 +336,7 @@ A la suite du changement politique du 24 mars 2013, la Constitution de mars 2004
 
 ### 2.2 - Impact  sur la situation sécuritaire
 
-Depuis le changement politique intervenu le 24 mars 2013 et l'apparition de la crise du 05 décembre 2013, la  situation  sécuritaire  dans  le  pays  est  restée  très  préoccupante.  Les  exactions  et  les  pillages  des  excombattants  de la Séléka ont touché toutes les Préfectures du pays et les huit (08) arrondissements de la ville de Bangui. Les pillages des administrations, des mairies, des institutions internationales, des propriétés privées,  les  viols  et  les  assassinats  par  des  éléments  incontrôlés  de  la  Séléka  ajoutés  à  l'absence  des éléments  des  forces  de  défense  et  de  sécurité  conventionnels  sur  le  terrain,  n'ont  pas  facilité  la restauration rapide de la sécurité qui depuis décembre 2013 est devenue difficile à stabiliser. En effet, les actes de violence se multipliant contre les populations civiles dans les villes de l'intérieur par les chefs de guerre et commandants de zones nommés par les membres de la coalition au pouvoir, a donné naissance en septembre 2013, à une nouvelle milice armée appelée « Anti-balaka ». Composée à l'origine de jeunes adolescents armés de coupe-coupe et animés du désir de venger leurs proches tués parfois sous leurs yeux, cette  milice  s'est  au  fur  à  mesure  renforcée  en  effectif,  enregistrant  d'anciens  éléments  de  la  garde prétorienne du régime renversé ou des FACA proches de Bozize. Le 05 décembre 2013, certainement pour des  considérations  politiques,  les  « Anti-balaka »  ont  attaqué  plusieurs  sites  militaires  stratégiques  à Bangui. Tout en s'en prenant aux éléments de la Séléka, les Anti-balaka participent également aux pillages et  aux  vols.  L'esprit  de  vengeance  qui  anime  les  deux  groupes  armés  a  débouché  sur  une  tension communautaire  et  créé  une  fracture  sociale  profonde  au  sein    des  populations  transformant  ainsi,  un conflit à l'origine politique en conflit communautaire et déstabilisateurs des institutions de la Transition.
+Depuis le changement politique intervenu le 24 mars 2013 et l'apparition de la crise du 05 décembre 2013, la situation sécuritaire dans le pays est restée très préoccupante. Les exactions et les pillages des ex-combattants de la Séléka ont touché toutes les Préfectures du pays et les huit (08) arrondissements de la ville de Bangui. Les pillages des administrations, des mairies, des institutions internationales, des propriétés privées, les viols et les assassinats par des éléments incontrôlés de la Séléka ajoutés à l'absence des éléments des forces de défense et de sécurité conventionnels sur le terrain, n'ont pas facilité la restauration rapide de la sécurité qui depuis décembre 2013 est devenue difficile à stabiliser. En effet, les actes de violence se multipliant contre les populations civiles dans les villes de l'intérieur par les chefs de guerre et commandants de zones nommés par les membres de la coalition au pouvoir, a donné naissance en septembre 2013, à une nouvelle milice armée appelée « Anti-balaka ». Composée à l'origine de jeunes adolescents armés de coupe-coupe et animés du désir de venger leurs proches tués parfois sous leurs yeux, cette milice s'est au fur à mesure renforcée en effectif, enregistrant d'anciens éléments de la garde prétorienne du régime renversé ou des FACA proches de Bozize. Le 05 décembre 2013, certainement pour des considérations politiques, les « Anti-balaka » ont attaqué plusieurs sites militaires stratégiques à Bangui. Tout en s'en prenant aux éléments de la Séléka, les Anti-balaka participent également aux pillages et aux vols. L'esprit de vengeance qui anime les deux groupes armés a débouché sur une tension communautaire et créé une fracture sociale profonde au sein des populations transformant ainsi, un conflit à l'origine politique en conflit communautaire et déstabilisateurs des institutions de la Transition.
 
 10
 
@@ -340,7 +344,7 @@ Depuis le changement politique intervenu le 24 mars 2013 et l'apparition de la c
 
 [[START OF PAGE 11]]
 
-Le nouveau Gouvernement de transition, conscient de cette situation, a mis en œuvre  des mesures pour y faire face. Des Comités nationaux stratégiques et techniques pour la RSS et DDR ont été créés ainsi que des organes de la société civile appuyés par les autorités pour contribuer au retour de la cohésion sociale. Les actions visant le désarmement et le cantonnement des ex-combattants de la Séléka et de la milice Antibalaka ont été réalisés mais n'ont pas donné entière satisfaction. Certains éléments de la  Séléka ont été transportés  dans  des  sites  de  cantonnement  préfectoraux  et  sous-préfectoraux  avec  leurs  armes  et munitions faisant de l'arrière-pays une poudrière, une bombe à retardement et un danger pour l'intégrité du territoire.  En effet, réuni en congrès dans le nord du pays, les membres de la coalition Sléléka ont créé leur propre Etat-major militaire et décidé de l'implanter dans une des préfectures du pays. Aussi, en dépit des progrès enregistrés par la mise en œuvre de ces mesures urgentes  de sécurisation, la problématique de la sécurité n'est pas totalement résolue. Si les traits caractéristiques de l'insécurité quotidienne ont été réduits notamment, la disparition quasi-totale des coups de feu sporadiques, la baisse de la circulation des éléments  de  la  Séléka  et  de  leur  influence  sur  la  population,  les  principales  villes  de  l'arrière-pays connaissent  cependant  une  recrudescence  de  vols  et  braquages  à  mains  armées  et  d'assassinats probablement par des éléments Séléka et Anti-balaka mais aussi liée aux armes disséminée sur l'ensemble du territoire. Il faut noter que la destruction des poudrières, couplée à l'approvisionnement des armes de tout  calibre  auprès  des  anciens  militaires  de  la  Libye,  des  djandjawides  au  Darfour  ont  contribué  à  la dissémination d'armes dans le pays.  On estime à près de 10 000 armes de guerre tout calibre confondu en circulation à travers le pays ; cela constitue une menace réelle pour la libre circulation des personnes et des biens.
+Le nouveau Gouvernement de transition, conscient de cette situation, a mis en œuvre des mesures pour y faire face. Des Comités nationaux stratégiques et techniques pour la RSS et DDR ont été créés ainsi que des organes de la société civile appuyés par les autorités pour contribuer au retour de la cohésion sociale. Les actions visant le désarmement et le cantonnement des ex-combattants de la Séléka et de la milice Anti-balaka ont été réalisés mais n'ont pas donné entière satisfaction. Certains éléments de la Séléka ont été transportés dans des sites de cantonnement préfectoraux et sous-préfectoraux avec leurs armes et munitions faisant de l'arrière-pays une poudrière, une bombe à retardement et un danger pour l'intégrité du territoire. En effet, réuni en congrès dans le nord du pays, les membres de la coalition Sléléka ont créé leur propre Etat-major militaire et décidé de l'implanter dans une des préfectures du pays. Aussi, en dépit des progrès enregistrés par la mise en œuvre de ces mesures urgentes de sécurisation, la problématique de la sécurité n'est pas totalement résolue. Si les traits caractéristiques de l'insécurité quotidienne ont été réduits notamment, la disparition quasi-totale des coups de feu sporadiques, la baisse de la circulation des éléments de la Séléka et de leur influence sur la population, les principales villes de l'arrière-pays connaissent cependant une recrudescence de vols et braquages à mains armées et d'assassinats probablement par des éléments Séléka et Anti-balaka mais aussi liée aux armes disséminée sur l'ensemble du territoire. Il faut noter que la destruction des poudrières, couplée à l'approvisionnement des armes de tout calibre auprès des anciens militaires de la Libye, des djandjawides au Darfour ont contribué à la dissémination d'armes dans le pays. On estime à près de 10 000 armes de guerre tout calibre confondu en circulation à travers le pays ; cela constitue une menace réelle pour la libre circulation des personnes et des biens.
 
 A cela, s'ajoute une autre préoccupation liée à la maîtrise des effectifs réel des éléments de la coalition Séléka et Anti-balaka. En effet, avant d'entrer dans Bangui, la Séléka comptait environ 5 000 éléments ; au fur et à mesure de sa progression, l'effectif du mouvement a augmenté sensiblement passant de 5 000 à plus de 20 000 hommes. Cette augmentation des effectifs provient  du ralliement des candidats déçus du dernier recrutement dans les rangs des FACA, au recrutement effectué par certains chefs de guerre de la Séléka et à l'intégration des prisonniers et braqueurs évadés des centres carcéraux. De même, l'effectif des Anti-balaka,  estimé  au  départ  à  une  centaine  d'hommes  des  milieux  ruraux,  est  passé  à  environ  4000 hommes.  Cela  posera  un  problème  de  prise  en charge financière non  seulement  des  éléments démobilisables  mais  également  de  ceux  qui  comptent  faire  carrière  dans  les  forces  de  défenses  parmi lesquels l'on dénombre environ 20 généraux et plus de 50 colonels de la Séléka.
 
@@ -423,7 +427,7 @@ L'évaluation de l'impact de la crise sur la situation des secteurs  révèle de
 [[START OF PAGE 15]]
 
 ##### Secteur  primaire.
-Ce  secteur  a  affiché  une  baisse  du  taux  de  croissance  en  volume  de  41,5%  due  à l'insécurité,  l'absence  de  financement  et  le  vieillissement  des  principales  plantations,  baisse  imputable aussi  bien  à  l'agriculture  vivrière  (-46.4%)  qu'aux  cultures  de  rente  (-46%).  Les  pillages  des  semences et l'arrêt brutal des financements des projets de soutien au secteur agricole (PRAP, PREVES…) ont entraîné une contraction de 46,4% du secteur agricole et de la production vivrière. La baisse de la croissance au niveau des cultures de rente s'explique entre autre, par l'absence de financement et le vieillissement des principales plantations. La sylviculture a affiché un taux de croissance en 2013 de -18,2% dû principalement à l'arrêt de la production des entreprises, à l'impraticabilité des routes et à la paralysie du corridor BanguiDouala.
+Ce secteur a affiché une baisse du taux de croissance en volume de 41,5% due à l'insécurité, l'absence de financement et le vieillissement des principales plantations, baisse imputable aussi bien à l'agriculture vivrière (-46.4%) qu'aux cultures de rente (-46%). Les pillages des semences et l'arrêt brutal des financements des projets de soutien au secteur agricole (PRAP, PREVES…) ont entraîné une contraction de 46,4% du secteur agricole et de la production vivrière. La baisse de la croissance au niveau des cultures de rente s'explique entre autre, par l'absence de financement et le vieillissement des principales plantations. La sylviculture a affiché un taux de croissance en 2013 de -18,2% dû principalement à l'arrêt de la production des entreprises, à l'impraticabilité des routes et à la paralysie du corridor Bangui-Douala.
 
 ##### Secteur secondaire.
 Le secteur secondaire présente une contre-performance de 23% en 2013, imputable principalement à l'occupation des zones de production minière par les hommes armés, la destruction de l'usine d'or de Ndassima et à la suspension de la RCA aux processus de Kimberley et de l'ITIE. Le secteur eau-énergie a connu un recul des activités de 13% en 2013 expliqué par le saccage des installations hydroélectriques  de  Boali,  la  suspension  du  Projet  de  réhabilitation  des  Centres  d'Exploitation  de  Berberati, Bouar  et  Bossangoa  sur  financement  BAD  dans  le  sous-secteur  Eau,  la  suspension  provisoire  du financement des principaux projets de relance dans le sous-secteur énergie. La production manufacturière a connu une chute de la croissance de 13,3% en 2013, conséquence des pillages et vols.
@@ -594,7 +598,7 @@ La  stratégie  de  Relèvement  durable  consistera  à  mettre  en  œuvre  un
 
 C'est  une  stratégie  qui  associe  les  actions  d'assistance  humanitaire  et  de  relèvement  précoce  pour renforcer l'objectif général de lutte contre la pauvreté en restaurant la capacité des institutions nationales et des communautés pour se remettre de la crise et éviter une rechute.  Il s'agit  pour le Gouvernement de jeter  les  bases  d'un  relèvement  et  d'un  développement  durable.  Elle  sera  un  instrument  capable  de renforcer l'effectivité du lien humanitaire-développement pendant la transition.
 
-Aussi,  la  stratégie  d'intervention  prend  en  compte  les  principes  de  la  stratégie  LRRD  (Lien  entre  l'aide humanitaire, la réhabilitation et le développement) avec pour but de répondre aux besoins les plus urgents des  populations  sur  l'ensemble  du  territoire.  A  cet  effet,  il  sera  mis  en  œuvre  des  mécanismes  qui permettent d'identifier avec les populations concernées, les infrastructures et les actions qu'elles jugent prioritaires,  tant  en  termes  d'accès  aux  services  sociaux  essentiels  qu'en  termes  d'amélioration  et d'initiation  des  activités  socio-économiques.  Au  plan  opérationnel,  il  s'agira  de  mettre  ensemble  les différentes capacités de reconstruction du pays, en tenant compte des domaines de compétences et des aptitudes des opérateurs à fournir des services qui répondent aux besoins de la population dans un laps de temps appréciable sans sacrifier la durabilité des produits. Cela nécessite de mettre en synergie les efforts et les moyens ; ainsi, il faut : (i) accroître les moyens de l'Etat ; (ii) concentrer les efforts sur : la sécurité, la protection civile, les  infrastructures,  les  secteurs  sociaux  ;  et,  (iii)  centrer  les  réformes  sur  :  la  justice,  la gouvernance économique et financière, la gouvernance démocratique et politique et l'environnement des affaires. Les concours de l'Etat et de ses partenaires pourront être relayés par le secteur privé.
+Aussi, la stratégie d'intervention prend en compte les principes de la stratégie LRRD (Lien entre l'aide humanitaire, la réhabilitation et le développement) avec pour but de répondre aux besoins les plus urgents des populations sur l'ensemble du territoire. A cet effet, il sera mis en œuvre des mécanismes qui permettent d'identifier avec les populations concernées, les infrastructures et les actions qu'elles jugent prioritaires, tant en termes d'accès aux services sociaux essentiels qu'en termes d'amélioration et d'initiation des activités socio-économiques. Au plan opérationnel, il s'agira de mettre ensemble les
 
 21
 
@@ -602,7 +606,9 @@ Aussi,  la  stratégie  d'intervention  prend  en  compte  les  principes  de  l
 
 [[START OF PAGE 22]]
 
-Cette stratégie s'articule autour des quatre orientations suivantes : (i) restauration de la sécurité, de la paix et  renforcement  de  la  gouvernance  et  de  l'Etat  de  droit ;  (ii)  renforcement  de  la  protection  civile, rétablissement  et  réorganisation  de  l'Administration  sur  toute  l'étendue  du  territoire ;  (iii)  relance  des activités des secteurs sociaux essentiels ; et, (iv) poursuite des réformes économiques et promotion d'une croissance soutenue.
+différentes capacités de reconstruction du pays, en tenant compte des domaines de compétences et des aptitudes des opérateurs à fournir des services qui répondent aux besoins de la population dans un laps de temps appréciable sans sacrifier la durabilité des produits. Cela nécessite de mettre en synergie les efforts et les moyens ; ainsi, il faut : (i) accroître les moyens de l'Etat ; (ii) concentrer les efforts sur : la sécurité, la protection civile, les infrastructures, les secteurs sociaux ; et, (iii) centrer les réformes sur : la justice, la gouvernance économique et financière, la gouvernance démocratique et politique et l'environnement des affaires. Les concours de l'Etat et de ses partenaires pourront être relayés par le secteur privé.
+
+Cette stratégie s'articule autour des quatre orientations suivantes : (i) restauration de la sécurité, de la paix et renforcement de la gouvernance et de l'Etat de droit ; (ii) renforcement de la protection civile, rétablissement et réorganisation de l'Administration sur toute l'étendue du territoire ; (iii) relance des activités des secteurs sociaux essentiels ; et, (iv) poursuite des réformes économiques et promotion d'une croissance soutenue.
 
 22
 
@@ -677,10 +683,13 @@ La corruption affecte le fonctionnement de l'administration dans tous les secteu
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+créant le Haut Conseil National de la Lutte contre la Corruption, et a adhéré au processus de l'Initiative pour la transparence dans les industries extractives (ITIE) et au processus de Kimberley. Il entend vulgariser la stratégie nationale de lutte contre la corruption, rompre avec les pratiques de corruption et éveiller les consciences afin de faire de l'administration un véritable instrument de développement.
 
 ###### Promotion de la réconciliation et consolidation de la paix
 
 La circulation de l'information et le dialogue constituent les prérequis de toute approche préventive. Aussi, le  Gouvernement,  en  plus  du  dialogue  politique,  s'engage  à  intensifier  le  processus  du  dialogue  social inclusif entre les différentes composantes de la nation plus particulièrement entre les communautés.  Le dialogue entre le Gouvernement et la société civile,  jusqu'ici  mis  à  mal  par  le  non-respect  de  la  parole donnée,  sera  renforcé.  Il  sera  mis  en  place  une  plateforme  gouvernement-société  civile  telle  que recommandée par le Dialogue politique inclusif en 2008. Le dialogue social soutenu garantit une meilleure circulation de l'information et permet de contenir les théories du complot et les rumeurs. Il confortera les relations entre la capitale et les préfectures tout en permettant de renforcer le dialogue interconfessionnel, la crédibilité et l'impact de l'aide au développement.
+
+Tableau n° 1 : Coût des actions prioritaires de l'Orientation Stratégique 1 (en Milliards FCFA)
 
 Programmes de l'orientation stratégique 1 : Restauration de la sécurité, de la paix et renforcement de la gouvernance et de l'Etat de droit | Période | Total
 --- | --- | --- | --- | ---
@@ -688,8 +697,6 @@ Programmes de l'orientation stratégique 1 : Restauration de la sécurité, de l
 Programme 1.1 : Rétablissement des Forces de Défense et de Sécurité conventionnelle (FACA, Police Nationale, Gendarmerie Nationale) | 46,50 | 105,00 | 54,75 | 206,24
 Programme 1.2 : Gouvernance et Etat de droit | 35,24 | 33,01 | 16,55 | 84,80
 Total | 81,74 | 138,01 | 71,30 | 291,04
-
-Tableau n° 1 : Coût des actions prioritaires de l'Orientation Stratégique  1 (en Milliards FCFA)
 
 Le coût des actions prioritaires de l'orientation stratégique  1 « Restauration de la sécurité, de la paix et renforcement de la  gouvernance et de l'Etat de droit » est de 291, 04 milliards de FCA (environ 646,76 Millions de Dollars US) soit 19,39% du coût global.
 
@@ -701,7 +708,7 @@ Le coût des actions prioritaires de l'orientation stratégique  1 « Restaurati
 
 #### 4.2.2 ORIENTATION STRATEGIQUE  2 : RENFORCEMENT DE LA PROTECTION CIVILE, RETABLISSEMENT ET REORGANISATION DE L'ADMINISTRATION SUR TOUTE L'ETENDUE DU TERRITOIRE
 
-Les priorités de cette orientation stratégique  sont définies à travers un (1) programme et deux (2) sousprogrammes.
+Les priorités de cette orientation stratégique sont définies à travers un (1) programme et deux (2) sous-programmes.
 
 ##### Poursuivre l'assistance humanitaire
 
@@ -719,7 +726,7 @@ Ce programme vise à créer les conditions propices au retour des personnes dép
 
 ###### Protection des civils et promotion des Droits de l'Homme et humanitaires
 
-Le Gouvernement entend mettre en place avec l'appui des forces internationales, la protection des civils contre  les violations des  droits de  l'Homme,  les  violences  sexuelles,  les  pillages et les  violences confessionnelles. Il s'agira dans un premier temps d'envisager le renforcement de la présence des forces internationales  pour  protéger  les  personnes  à  risque,  notamment  dans  certains  villages  vulnérables. Ensuite, des cellules d'appui aux poursuites judiciaires seront mises en place afin d'apporter une meilleure protection  aux  populations  et  encourager  le  retour  des  déplacés.  Il  sera  également  mis  en  œuvre  une campagne de sensibilisation et d'éducation des populations civiles armées et non armées sur les questions de droits humains ; le renforcement des Institutions Nationales en charge du respect des Droits humains, en particulier droits des femmes et des enfants ; et, la réhabilitation des structures d'éducation civique des jeunes et la promotion du comportement citoyen.
+Le Gouvernement entend mettre en place avec l'appui des forces internationales, la protection des civils contre les violations des droits de l'Homme, les violences sexuelles, les pillages et les violences confessionnelles. Il s'agira dans un premier temps d'envisager le renforcement de la présence des forces internationales pour protéger les personnes à risque, notamment dans certains villages vulnérables. Ensuite, des cellules d'appui aux poursuites judiciaires seront mises en place afin d'apporter une meilleure protection aux populations et encourager le retour des déplacés. Il sera également mis en œuvre une
 
 27
 
@@ -727,9 +734,13 @@ Le Gouvernement entend mettre en place avec l'appui des forces internationales, 
 
 [[START OF PAGE 28]]
 
+campagne de sensibilisation et d'éducation des populations civiles armées et non armées sur les questions de droits humains ; le renforcement des Institutions Nationales en charge du respect des Droits humains, en particulier droits des femmes et des enfants ; et, la réhabilitation des structures d'éducation civique des jeunes et la promotion du comportement citoyen.
+
 ###### Promotion de la gouvernance administrative et restauration des services publics
 
 La  préoccupation  principale  du  gouvernement  est  de  réhabiliter  et  reconstruire  les  structures  de l'Administration et de redéployer celles-ci sur toute l'étendue du territoire. Le Gouvernement entend ainsi, corriger  les  effets  notables  de  la  récente  crise,  caractérisés    par  les  pillages  et  les  destructions  qui  ont totalement réduit l'offre de services publics sur l'ensemble du territoire notamment en ce qui concerne les services administratifs et communaux, la sécurité de proximité assurée par la gendarmerie et la police et les administrations judiciaires dont les actions conjuguées pourraient favoriser la préservation sécuritaire et le respect de l'ordre républicain.
+
+Tableau n° 2 : Coût des actions prioritaires de l'Orientation Stratégique 2 (en Milliards FCFA)
 
 Programme de l'orientation stratégique 2 : Renforcement de la Protection civile, rétablissement et réorganisation de l'Administration sur toute l'étendue du territoire | Période | Total (FCFA)
 --- | --- | --- | --- | ---
@@ -738,9 +749,7 @@ Programme 2.1 Renforcement de la protection civile, Rétablissement et réorgani
 Programme 2.2 Renforcement de la protection civile, Rétablissement et réorganisation de l'Administration sur tout le territoire | 16,98 | 34,37 | 15,39 | 66,74
 Total | 153,14 | 207,08 | 134,33 | 494,55
 
-Tableau n° 2 : Coût des actions prioritaires de l'Orientation Stratégique  2 (en Milliards FCFA)
-
-Le coût des actions prioritaires de l'orientation stratégique 2 « Renforcement de la protection civile, le rétablissement et la réorganisation de l'Administration sur toute l'étendue du territoire » est de 494, 55 milliards de FCFA (environ 1,10 Milliards de Dollars US) soit 32,95% du coût global.
+Le coût des actions prioritaires de l'orientation stratégique 2 « Renforcement de la protection civile, le rétablissement et la réorganisation de l'Administration sur toute l'étendue du territoire » est de 494,55 milliards de FCFA (environ 1,10 Milliards de Dollars US) soit 32,95% du coût global.
 
 28
 
@@ -816,9 +825,9 @@ La vision du gouvernement en matière de santé d'ici 2016 définie dans le Plan
 
  de la promotion d'un environnement favorable à la santé.
 
-##### Renforcer la lutte contre le VIH 13 et SIDA 14 .
+##### Renforcer la lutte contre le VIH13 et SIDA14.
 
-Axé  sur  la  prévention  de  la  transmission  du  VIH,  le  renforcement  et  l'extension  de  la  PTPE 15 ,  la  prise  en charge  globale  des  PVVIH 16 et  l'atténuation  de  l'impact,  et,    le  suivi  et  évaluation  et  la  coordination,  ce Programme vise les actions devant permettre de recoller à la vision du Gouvernement qui est « d'avoir un pays où il n'y a plus de nouvelles infections VIH et où les personnes infectées (hommes, femmes, jeunes, et enfants), ont accès équitablement à une prise en charge globale de qualité ».
+Axé sur la prévention de la transmission du VIH, le renforcement et l'extension de la PTPE15, la prise en charge globale des PVVIH16 et l'atténuation de l'impact, et, le suivi et évaluation et la coordination, ce Programme vise les actions devant permettre de recoller à la vision du Gouvernement qui est « d'avoir un pays où il n'y a plus de nouvelles infections VIH et où les personnes infectées (hommes, femmes, jeunes, et enfants), ont accès équitablement à une prise en charge globale de qualité ».
 
 Aussi, pour contribuer à l'atténuation de la propagation du VIH et ses impacts sur les individus, les familles et la société, le Gouvernement recherchera à travers ce programme : (i) la stabilisation de la prévalence du VIH à 6,2% ; (ii) l'accroissement de la survie des personnes vivant avec le VIH (adultes et enfants) sous ARV après 12 mois de 83,2% à 90% ; et, (iii) la réduction de la proportion des nouveau-nés infectés par le VIH parmi ceux nés de mères séropositives à moins de 10%.
 
@@ -848,9 +857,9 @@ La notion de jeunesse est diversement comprise. Pour les uns, la jeunesse est un
 
 > 14 Syndrome d'immuno-déficience acquise
 
-> 16 Personne vivant avec le VIH
-
 > 15 Prévention de la transmission parents-enfant
+
+> 16 Personne vivant avec le VIH
 
 31
 
@@ -946,7 +955,7 @@ En termes de problèmes recensés, on note : (i) l'exploitation anarchique des r
 
  la gestion transparente, rationnelle et participative des ressources forestières et fauniques.
 
-Le gouvernement centrafricain est conscient de la valeur de son patrimoine naturel et veut entreprendre une politique de protection et de gestion des ressources naturelles. Il pourra capitaliser les actions déjà initiées dans le cadre de l'adaptation et de l'atténuation, notamment du FEM 18 ,  du  fonds  de  partenariat pour  le  carbone  forestier  (FCPF)  pour  la  mise  en  œuvre  des  politiques  de  préservation  de  ressources naturelles, ainsi que de l'Agence Française pour le Développement (AFD) dans le cadre de l'élaboration du document de la préparation à la REDD+.
+Le gouvernement centrafricain est conscient de la valeur de son patrimoine naturel et veut entreprendre une politique de protection et de gestion des ressources naturelles. Il pourra capitaliser les actions déjà initiées dans le cadre de l'adaptation et de l'atténuation, notamment du FEM18, du fonds de partenariat pour le carbone forestier (FCPF) pour la mise en œuvre des politiques de préservation de ressources
 
 > 17 Enquête centrafricaine sur le suivi du bien-être
 
@@ -958,9 +967,13 @@ Le gouvernement centrafricain est conscient de la valeur de son patrimoine natur
 
 [[START OF PAGE 35]]
 
-Programmes de l'orientation stratégique 3 : Relance des activités des secteurs sociaux essentiels, intensification de la lutte contre le Vih-sida et protection | Période | Total
+naturelles, ainsi que de l'Agence Française pour le Développement (AFD) dans le cadre de l'élaboration du document de la préparation à la REDD+.
+
+Tableau n° 3 : Coût des actions prioritaires de l'Orientation Stratégique 3 (en Milliards FCFA)
+
+Programmes de l'orientation stratégique 3 : Relance des activités des secteurs sociaux essentiels, intensification de la lutte contre le Vih-sida et protection de l'environnement | Période | Total
 --- | --- | --- | --- | ---
-de l'environnement | 2014 | 2015 | 2016
+2014 | 2015 | 2016
 Programme 3.1 Education | 1,97 | 1,45 | 3,50 | 6,92
 Programme 3.2 Santé | 1,51 | 31,28 | 43,41 | 76,21
 Programme 3.3 VIH et SIDA | 0,57 | 12,93 | 12,33 | 25,84
@@ -970,8 +983,6 @@ Programme 3.6 Genre | 0,07 | 0,84 | 0,86 | 1,77
 Programme 3.7 Emploi et protection sociale | 0,03 | 0,39 | 0,85 | 1,28
 Programme 3.8 Environnement et changements climatiques | 0,00 | 1,14 | 4,20 | 5,34
 Total | 4,45 | 54,63 | 79,90 | 138,98
-
-Tableau n° 3 : Coût des actions prioritaires de l'Orientation Stratégique  3 (en Milliards FCFA)
 
 Le  coût  des  actions  prioritaires  de  l'orientation  stratégique  3  « Relance  des  activités  dans  les  secteurs sociaux »  est  de  138,98  milliards  de  FCFA  (environ  308,85  millions  de  Dollars  US)  soit  9,26% du  coût global.
 
@@ -999,13 +1010,15 @@ Les  efforts  déployés  ont  permis  au  Gouvernement,  de  février  à  mars
 
 ###### Amélioration de la coordination des aides publiques
 
-En réponse aux appels venant à la fois des populations en situation de détresse post crise et des autorités centrafricaines  devant  les  instances  internationales,  la  communauté  internationale  s'est  entièrement mobilisée. Ainsi, depuis le début de cette crise, entre 2013 et 2014, les ressources mobilisées  en faveur de la RCA ont atteint 572,85 milliards FCFA dont 345,02 milliards FCFA d'aides humanitaires et 227,85 milliards FCFA d'appui à la sécurité. Le Gouvernement fait donc face aux nouveaux défis liés à la maitrise des flux de l'aide  publique  et  à  leur  gestion  dans  le  cadre  de  la  bonne  gouvernance.  Il  doit  à  la  fois  créer  un environnement favorable à une large mobilisation des ressources extérieures, à leur gestion et à leur suivi et, à donner des gages de bonne foi et des signes rassurants aux bailleurs de fonds pour l'aider à faire face à ces enjeux.  C'est pourquoi, le Gouvernement est en train de créer un dispositif de coordination de l'aide multibailleurs  aux  programmes  et  projets.  Ce  dispositif  constituera  un  cadre  de  dialogue  permanent  et régulier entre le Gouvernement et les partenaires au développement et permettra une meilleure lisibilité des actions de chaque bailleur de fonds ainsi qu'une efficacité dans l'affectation des ressources mobilisées afin  d'éviter  les  duplications.  Ceci  permettra  d'améliorer  la  visibilité  des  actions  de  coopération  et  de partenariat  à  un  moment  où  le  pays  fait  face  à  une  multiplicité  de  dons  et  d'aide  venant  à  la  fois  des bailleurs bi et multilatéraux que des partenaires émergents.
+En réponse aux appels venant à la fois des populations en situation de détresse post crise et des autorités centrafricaines devant les instances internationales, la communauté internationale s'est entièrement mobilisée. Ainsi, depuis le début de cette crise, entre 2013 et 2014, les ressources mobilisées en faveur de la RCA ont atteint 572,85 milliards FCFA dont 345,02 milliards FCFA d'aides humanitaires et 227,85 milliards FCFA d'appui à la sécurité. Le Gouvernement fait donc face aux nouveaux défis liés à la maitrise des flux de l'aide publique et à leur gestion dans le cadre de la bonne gouvernance. Il doit à la fois créer un
 
 36
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
+
+environnement favorable à une large mobilisation des ressources extérieures, à leur gestion et à leur suivi et, à donner des gages de bonne foi et des signes rassurants aux bailleurs de fonds pour l'aider à faire face à ces enjeux. C'est pourquoi, le Gouvernement est en train de créer un dispositif de coordination de l'aide multibailleurs aux programmes et projets. Ce dispositif constituera un cadre de dialogue permanent et régulier entre le Gouvernement et les partenaires au développement et permettra une meilleure lisibilité des actions de chaque bailleur de fonds ainsi qu'une efficacité dans l'affectation des ressources mobilisées afin d'éviter les duplications. Ceci permettra d'améliorer la visibilité des actions de coopération et de partenariat à un moment où le pays fait face à une multiplicité de dons et d'aide venant à la fois des bailleurs bi et multilatéraux que des partenaires émergents.
 
 ##### Améliorer l'environnement des affaires
 
@@ -1051,13 +1064,15 @@ Dans le domaine de la nutrition, il est urgent d'envisager (i) l'intégration de
 
 ###### Renforcement de la contribution du secteur forestier au PIB
 
-Le secteur forestier est l'un des principaux secteurs qui contribuent fortement au PIB. Le Gouvernement mettra  un  accent  particulier  sur   le  développement  de  l'agroforesterie  rurale  en  vue  de  promouvoir  la création  d'emploi  des  jeunes  en  milieu  rural.    Pour  améliorer  la  traçabilité  et  le  niveau  des  recettes, l'Accord de Partenariat Volontaire-FLEGT sera vulgarisé et opérationnalisé,  les  normes d'aménagement et de  gestion  des  terroirs  de  chasse  villageoise  seront  actualisées  et  des  plans  d'Aménagement  forestier seront mis en œuvre.
+Le secteur forestier est l'un des principaux secteurs qui contribuent fortement au PIB. Le Gouvernement mettra un accent particulier sur le développement de l'agroforesterie rurale en vue de promouvoir la création d'emploi des jeunes en milieu rural. Pour améliorer la traçabilité et le niveau des recettes,
 
 38
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
+l'Accord de Partenariat Volontaire-FLEGT sera vulgarisé et opérationnalisé, les normes d'aménagement et de gestion des terroirs de chasse villageoise seront actualisées et des plans d'Aménagement forestier seront mis en œuvre.
 
 ###### Amélioration du niveau de production minière
 
@@ -1077,7 +1092,7 @@ En  matière  de  promotion  des  grappes  de  croissance,  le  Gouvernement  et
 
 ##### Développer les infrastructures de soutien à la croissance
 
-Le Gouvernement est conscient que ce programme est nécessaire pour lever les contraintes à l'exploitation des ressources naturelles et de favoriser l'émergence et le développement des grappes de croissance. Il s'appuie  sur  (i)  l'Energie ;  (ii)  la  construction,  la  réhabilitation  et  la  viabilisation  des  équipements  et  des infrastructures des transports ; et, (iii) le renforcement des capacités de développement local intégré.
+Le Gouvernement est conscient que ce programme est nécessaire pour lever les contraintes à l'exploitation des ressources naturelles et de favoriser l'émergence et le développement des grappes de croissance. Il
 
 39
 
@@ -1085,7 +1100,9 @@ Le Gouvernement est conscient que ce programme est nécessaire pour lever les co
 
 [[START OF PAGE 40]]
 
-###### Promotion  de  l'énergie  comme  moteur  de  la  croissance  et  facteur  de  stabilisation  de  la sécurité
+s'appuie sur (i) l'Energie ; (ii) la construction, la réhabilitation et la viabilisation des équipements et des infrastructures des transports ; et, (iii) le renforcement des capacités de développement local intégré.
+
+###### Promotion de l'énergie comme moteur de la croissance et facteur de stabilisation de la sécurité
 
 Le  Gouvernement  entend  élaborer  un  plan  directeur  de  la  mise  en  œuvre  de  la  Politique  Energétique Nationale (PEN) qui prévoit la diversification des sources d'énergie. De par le rôle transversale de l'énergie dans le  développement et la sécurité, le Gouvernement achèvera en urgence l'Installation de l'usine  au pied du barrage de Boali 3, la réhabilitation des usines de Boali 1 et 2, l'extension de l'usine de Boali 2, la réhabilitation  et  l'extension  du  réseau  de  distribution  de  Bangui  et  la  réhabilitation  de  la  centrale thermique de Bangui afin de promouvoir la production et la transformation. Il fera appel également aux sources d'énergie renouvelable pour l'éclairage de la ville de Bangui et des principales villes du pays par l'énergie  solaire  photovoltaïque.  Dans  le  cadre  de  la  décentralisation  des  sources  de  production,  il  sera envisagé, l'électrification des villes de Mobaye, Kongbo, Kémbé , Alindao, Ima-Langandji, Pavica et Dimbi à partir de la Centrale hydroélectrique de Mobayi en RD Congo. Les études d'aménagement hydroélectrique sur la rivière Kotto et la Lobaye ainsi que l'étude de faisabilité du site hydro-électrique de Dimoli (Sosso Nakombo) seront réalisées en vue de la couverture à moyen et long terme du pays en électricité. Pour cette dernière, le Gouvernement vient de signer un accord de financement avec la BDEAC.
 
@@ -1099,13 +1116,15 @@ En  matière  de  renforcement  des  capacités  de  développement  local  int�
 
 ##### Promouvoir la gouvernance financière et poursuivre les réformes globales des finances
 
-Le Gouvernement a toujours placé la gouvernance financière au centre de ses préoccupations et a engagé le pays dans un chantier de réformes visant à maîtriser la gestion des finances publiques,  en vue de faire du budget un véritable instrument de la politique économique. Ce programme comprend (i) la lutte contre la corruption ; (ii) le renforcement des capacités des structures en charge de la mobilisation des ressources publiques ;  (iii)  la  poursuite  des  réformes  engagées dans  le  cadre  des  finances  publiques  dans  son  volet mobilisation  des  ressources ;  (iv)  le  suivi  renforcé  de  la  parafiscalité  et  des  recettes  affectées ;  et,  (v)  le renforcement de l'exécution budgétaire et la gestion prudente de la trésorerie publique.
+Le Gouvernement a toujours placé la gouvernance financière au centre de ses préoccupations et a engagé le pays dans un chantier de réformes visant à maîtriser la gestion des finances publiques, en vue de faire du budget un véritable instrument de la politique économique. Ce programme comprend (i) la lutte contre la corruption ; (ii) le renforcement des capacités des structures en charge de la mobilisation des ressources
 
 40
 
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
+
+publiques ; (iii) la poursuite des réformes engagées dans le cadre des finances publiques dans son volet mobilisation des ressources ; (iv) le suivi renforcé de la parafiscalité et des recettes affectées ; et, (v) le renforcement de l'exécution budgétaire et la gestion prudente de la trésorerie publique.
 
 ###### Poursuite de la réforme globale et des réformes financières
 
@@ -1121,7 +1140,9 @@ La  situation  d'enclavement,  les  contraintes  et  les  risques  auxquels  son
 
 ###### Alignement sur le Programme Economique Régional
 
-Le  Gouvernement  compte  s'appuyer  sur  le  Programme  économique  régional  (PER)  pour  accélérer  le désenclavement externe du pays et minimiser le coût du transport dans les gros projets d'exploitation des ressources naturelles qui a toujours été un facteur répulsif pour les investisseurs internationaux. Il s'agira, à cet  effet,  de  créer  et  rendre  opérationnelle  une  Cellule  Nationale  du  PER  en  vue  d'une  meilleure coordination  des  actions  figurant  sur  la  feuille  de  route  du  PER.  Ce  programme  permettra  surtout  au Gouvernement de conduire les différentes études nécessaires pour l'aménagement des tronçons routiers devant relier la RCA à l'ensemble des pays voisins. Ces études portent aussi sur le  chemin de fer BanguiKribi et la navigabilité sur l'Oubangui.
+Le Gouvernement compte s'appuyer sur le Programme économique régional (PER) pour accélérer le désenclavement externe du pays et minimiser le coût du transport dans les gros projets d'exploitation des ressources naturelles qui a toujours été un facteur répulsif pour les investisseurs internationaux. Il s'agira, à cet effet, de créer et rendre opérationnelle une Cellule Nationale du PER en vue d'une meilleure coordination des actions figurant sur la feuille de route du PER. Ce programme permettra surtout au Gouvernement de conduire les différentes études nécessaires pour l'aménagement des tronçons routiers devant relier la RCA à l'ensemble des pays voisins. Ces études portent aussi sur le chemin de fer Bangui-Kribi et la navigabilité sur l'Oubangui.
+
+Tableau n° 4 : Coût des actions prioritaires de l'Orientation Stratégique 4 (en Milliards FCFA)
 
 Programmes de l'orientation stratégique OS 4 : Poursuite des réformes économiques et financières et promotion d'une croissance vigoureuse et durable | Période | Total (FCFA)
 --- | --- | --- | --- | ---
@@ -1133,8 +1154,6 @@ Programme 4.4: Promotion des infrastructures de soutien à la croissance | 2,86 
 Programme 4.5: Gouvernance financières et Réformes globales des finances | 0,32 | 2,76 | 3,22 | 6,30
 Programme 4.6: Renforcement de l'intégration économique régionale | 0,08 | 2,37 | 6,40 | 8,85
 Total | 41,57 | 219,00 | 315,87 | 576,45
-
-Tableau n° 4 : Coût des actions prioritaires de l'Orientation Stratégique  4 (en Milliards FCFA)
 
 Le coût des actions prioritaires de l'orientation stratégique 4 « Poursuite des réformes économiques et financières  et  promotion  d'une  croissance  vigoureuse  et  durable  »  est  de  576,45 milliards  de  FCFA (environ 1,28  milliards de Dollars US) soit 38,43% du coût global.
 
@@ -1212,9 +1231,11 @@ Le Programme d'Actions est structuré  autour des orientations stratégiques du 
 
 Tableau n° 5 : Coût des Programmes par Orientation Stratégique
 
-Programmes par orientation | Période
+En milliards de FCFA
+
+Programmes par orientation stratégique | Période | Total
 --- | --- | --- | --- | ---
-stratégique | 2013 | 2014 | 2015 | Total
+2013 | 2014 | 2015
 OS 1: Restauration de la sécurité, de la paix et renforcement de la gouvernance et de l'Etat de droit | 81,74 | 138,01 | 71,30 | 291, 04
 Programme 1.1 Rétablissement des Forces de Défense et de Sécurité conventionnelle (FACA, Police Nationale, Gendarmerie Nationale) | 46,50 | 105,00 | 54,75 | 206,24
 Programme 1.2 Gouvernance et Etat de droit | 35,24 | 33,01 | 16,55 | 84,80
@@ -1239,8 +1260,6 @@ Programme 4.5: Gouvernance financières et Réformes globales des finances | 0,3
 Programme 4.6: Renforcement de l'intégration économique régionale | 0,08 | 2,37 | 6,40 | 8,85
 Total en milliards FCFA | 280,90 | 618,72 | 601,40 | 1 501,02
 Total en milliards USD | 0,62 | 1,37 | 1,34 | 3,34
-
-En milliards de FCFA
 
 44
 
@@ -1276,14 +1295,14 @@ Les investissements bruts passent de 163,5 milliards en 2012 à 124,2 milliards 
 
 Si les hypothèses ci-dessus sont pérennisées et renforcées notamment par (i) la consolidation de la sécurité sur  tout  le  territoire ;  (ii)  la  distribution  des  semences  par  les  ONGs ;  (iii)  la  levée  de  la  suspension  des programmes  et  projets  d'investissements soutenus  par les partenaires ; (iv)  le  réengagement  des partenaires ; (v) La mise en œuvre des mesures de relance économique contenues dans la feuille  de route et le PURD, le taux de croissance passerait de 1,3% en 2014 à 8,2% en 2016 (Cf. Tableau 6).
 
+Tableau 6 : Evolution des Indicateurs Macroéconomiques de 2014 à 2016
+
 2013 | 2014 | 2015 | 2016
 --- | --- | --- | --- | ---
 Secteur Primaire | -45,1% | 0,5% | 4,3% | 3,4%
 Secteur Secondaire | -23,0% | -2,6% | 5,0% | 6,0%
 Secteur Tertiaire | -28,0% | 4,7% | 5,7% | 15,2%
 Taux de Croissance PIB | -36,7% | 1,3% | 5,1% | 8,2%
-
-Tableau 6 : Evolution  des Indicateurs Macroéconomiques de 2014 à 2016
 
 Source : Ministère de l'Economie, du Plan et de la Coopération Internationale
 
@@ -1309,7 +1328,7 @@ Un regard rétrospectif sur l'évolution des recettes publiques réalisées par 
 
 Les  conséquences  de  la  crise  ont  réduit  les  capacités  du  Gouvernement  à  financer  toutes  les  activités programmées,  l'obligeant  à  procéder  à  une  réduction  de  certaines  dépenses  prévues.  Une  mesure  qui s'impose pour permettre d'orienter les ressources faiblement mobilisées vers les dépenses incompressibles et les secteurs jugés prioritaires.
 
-Sur  la  période  du  programme,  les  ressources  internes  seront  difficilement  mobilisables  à  cause  des évènements que le pays a connus et qui perdurent. Malgré les mesures vigoureuses qui seront entreprises par  le  Gouvernement  pour  ramener  la  sécurité  et  la  paix  sur  toute  l'étendue  du  territoire  national, condition sine qua non de la relance de l'activité économique dans tous les secteurs, les perspectives 20142016 montrent que  les recettes propres s'amélioreraient difficilement.
+Sur la période du programme, les ressources internes seront difficilement mobilisables à cause des évènements que le pays a connus et qui perdurent. Malgré les mesures vigoureuses qui seront entreprises par le Gouvernement pour ramener la sécurité et la paix sur toute l'étendue du territoire national, condition sine qua non de la relance de l'activité économique dans tous les secteurs, les perspectives 2014-2016 montrent que les recettes propres s'amélioreraient difficilement.
 
 Ainsi,  sur  la  base  de  projections  des taux  de  croissance  en  2013  (-36%), 2014  (1,5%) et  2015 (5,3%),  les ressources propres réalisées et projetées atteindraient respectivement 43,2 milliards FCFA en 2013, 51.9 milliards en 2014 et 79,6 milliards en 2015. Cependant, les dépenses ordinaires de l'Etat (hors projets et programmes)  réalisées  et  projetées  sur  la  même  période  atteindraient  99,7  milliards  à  fin  2013,  118,7 milliards en 2014 et 115,9 milliards en 2015. Il en résulte des déficits budgétaires importants qui restent à financer  par des ressources additionnelles à rechercher sur la période.
 
@@ -1403,7 +1422,7 @@ Cette réunion  doit permettre  d'avoir au tour de la  table  un  maximum  de  p
 
 [[START OF PAGE 50]]
 
-## VIII - PRINCIPE D'INTERVENTION - MECANISME DE MISE EN ŒUVRE ET DE SUIVI-EVALUATION COMMUNICATION
+## VIII - PRINCIPE D'INTERVENTION - MECANISME DE MISE EN ŒUVRE ET DE SUIVI-EVALUATION - COMMUNICATION
 
 ### 8.1 - Principe d'intervention
 
@@ -1493,13 +1512,15 @@ Dans le cadre d'une revue bimensuelle, le Premier Ministre, en sa qualité de Pr
 
 #### 8.2.2 Dispositif de Suivi-Evaluation
 
-Le Gouvernement dispose d'un mécanisme de suivi et évaluation dont les capacités seront renforcées afin de lui permettre de répondre aux besoins d'informations pour : (i) le suivi du bien-être des populations ; (ii) le suivi de l'exécution des programmes et projets ; et (iii) l'appréciation des progrès réalisés et les impacts des  politiques,  programmes  et  projets  dans  la  réduction  de  la  pauvreté.  Afin  d'atteindre  les  résultats escomptés,  un  plan  intégré  de  suivi  et  évaluation  spécifiant  les  indicateurs  SMART 19 et  déterminant  les responsabilités  de  chaque  acteur  permettra  de  faciliter  la  mesure  des  progrès  réalisés  dans  la  mise  en œuvre du programme.
+Le Gouvernement dispose d'un mécanisme de suivi et évaluation dont les capacités seront renforcées afin de lui permettre de répondre aux besoins d'informations pour : (i) le suivi du bien-être des populations ; (ii) le suivi de l'exécution des programmes et projets ; et (iii) l'appréciation des progrès réalisés et les impacts des politiques, programmes et projets dans la réduction de la pauvreté. Afin d'atteindre les résultats
 
 51
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
+
+escomptés, un plan intégré de suivi et évaluation spécifiant les indicateurs SMART19 et déterminant les responsabilités de chaque acteur permettra de faciliter la mesure des progrès réalisés dans la mise en œuvre du programme.
 
 ##### Renforcer les capacités du Système d'information
 
@@ -1581,35 +1602,35 @@ Des actions de plaidoyer sont également prévues à l'intention des PTF. Une ca
 
 ### Annexe 1 : Programmes et sous-programmes par orientation stratégique
 
-Programmes | Source de | Période | Total
---- | --- | --- | --- | --- | ---
-2014 | 2015 | 2016
-OS 1: Restauration de la sécurité, de la paix et renforcement de la gouvernance et de l'Etat de droit | 81 737,35 | 138 007,75 | 71 296,62 | 291 041,72
-Programme 1.1 Rétablissement des Forces de Défense et de Sécurité conventionnelle (FACA, Police Nationale, Gendarmerie Nationale) | Etat | 4 925,50 | 4 485,50 | 1 600,00 | 11 011,00
-Bailleurs | 41 570,00 | 100 509,50 | 53 150,00 | 195 229,50
-Montant | 46 495,50 | 104 995,00 | 54 750,00 | 206 240,50
-Programme 1.2 Gouvernance et Etat de droit | Etat | 586,85 | 718,00 | 338,82 | 1 643,67
-Bailleurs | 34 655,00 | 32 294,75 | 16 207,80 | 83 157,55
-Montant | 35 241,85 | 33 012,75 | 16 546,62 | 84 801,22
-OS 2: Renforcement de la Protection civile, rétablissement et réorganisation de l'Administration sur toute l'étendue du territoire | 153 135,50 | 207 078,44 | 134 331,14 | 494 545,08
-Programme 2.1 Renforcement de la protection civile, Rétablissement et réorganisation de l'Administration sur tout le territoire | Etat | 2 405,00 | 3 060,00 | 2 140,00 | 7 605,00
-Bailleurs | 133 750,00 | 169 650,00 | 116 800,00 | 420 200,00
-Montant | 136 155,00 | 172 710,00 | 118 940,00 | 427 805,00
-Programme 2.2 Renforcement de la protection civile, Rétablissement et réorganisation de l'Administration sur tout le territoire | Etat | 1 640,50 | 5 288,44 | 1 226,14 | 8 155,08
-Bailleurs | 15 340,00 | 29 080,00 | 14 165,00 | 58 585,00
-Montant | 16 980,50 | 34 368,44 | 15 391,14 | 66 740,08
-OS 3 : Relance des activités des secteurs sociaux essentiels, intensification de la lutte contre le Vih-sida et protection de l'environnement | 4 452,25 | 54 634,75 | 79 897,02 | 138 984,02
-Programme 3.1 Education | Etat | 0,00 | 0,00 | 0,00 | 0,00
-Bailleurs | 1 970,00 | 1 450,00 | 3 500,00 | 6 920,00
-Montant | 1 970,00 | 1 450,00 | 3 500,00 | 6 920,00
-Programme 3.2 Santé | Etat | 433,88 | 8 803,89 | 1 386,09 | 10 623,87
-Bailleurs | 1 080,37 | 22 480,83 | 42 027,67 | 65 588,87
-Montant | 1 514,25 | 31 284,73 | 43 413,77 | 76 212,75
-Programme 3.3 VIH et SIDA | Etat | 12,00 | 6 445,00 | 15,00 | 6 472,00
-Bailleurs | 561,00 | 6 485,53 | 12 317,05 | 19 363,58
-Montant | 573,00 | 12 930,53 | 12 332,05 | 25 835,58
-
 En millions de FCFA
+
+Programmes | Source de Financement | Période |  |  | Total
+--- | --- | --- | --- | --- | ---
+ |  | 2014 | 2015 | 2016 |
+OS 1: Restauration de la sécurité, de la paix et renforcement de la gouvernance et de l'Etat de droit |  | 81 737,35 | 138 007,75 | 71 296,62 | 291 041,72
+Programme 1.1 Rétablissement des Forces de Défense et de Sécurité conventionnelle (FACA, Police Nationale, Gendarmerie Nationale) | Etat | 4 925,50 | 4 485,50 | 1 600,00 | 11 011,00
+ | Bailleurs | 41 570,00 | 100 509,50 | 53 150,00 | 195 229,50
+ | Montant | 46 495,50 | 104 995,00 | 54 750,00 | 206 240,50
+Programme 1.2 Gouvernance et Etat de droit | Etat | 586,85 | 718,00 | 338,82 | 1 643,67
+ | Bailleurs | 34 655,00 | 32 294,75 | 16 207,80 | 83 157,55
+ | Montant | 35 241,85 | 33 012,75 | 16 546,62 | 84 801,22
+OS 2: Renforcement de la Protection civile, rétablissement et réorganisation de l'Administration sur toute l'étendue du territoire |  | 153 135,50 | 207 078,44 | 134 331,14 | 494 545,08
+Programme 2.1 Renforcement de la protection civile, Rétablissement et réorganisation de l'Administration sur tout le territoire | Etat | 2 405,00 | 3 060,00 | 2 140,00 | 7 605,00
+ | Bailleurs | 133 750,00 | 169 650,00 | 116 800,00 | 420 200,00
+ | Montant | 136 155,00 | 172 710,00 | 118 940,00 | 427 805,00
+Programme 2.2 Renforcement de la protection civile, Rétablissement et réorganisation de l'Administration sur tout le territoire | Etat | 1 640,50 | 5 288,44 | 1 226,14 | 8 155,08
+ | Bailleurs | 15 340,00 | 29 080,00 | 14 165,00 | 58 585,00
+ | Montant | 16 980,50 | 34 368,44 | 15 391,14 | 66 740,08
+OS 3 : Relance des activités des secteurs sociaux essentiels, intensification de la lutte contre le Vih-sida et protection de l'environnement |  | 4 452,25 | 54 634,75 | 79 897,02 | 138 984,02
+Programme 3.1 Education | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ | Bailleurs | 1 970,00 | 1 450,00 | 3 500,00 | 6 920,00
+ | Montant | 1 970,00 | 1 450,00 | 3 500,00 | 6 920,00
+Programme 3.2 Santé | Etat | 433,88 | 8 803,89 | 1 386,09 | 10 623,87
+ | Bailleurs | 1 080,37 | 22 480,83 | 42 027,67 | 65 588,87
+ | Montant | 1 514,25 | 31 284,73 | 43 413,77 | 76 212,75
+Programme 3.3 VIH et SIDA | Etat | 12,00 | 6 445,00 | 15,00 | 6 472,00
+ | Bailleurs | 561,00 | 6 485,53 | 12 317,05 | 19 363,58
+ | Montant | 573,00 | 12 930,53 | 12 332,05 | 25 835,58
 
 56
 
@@ -1617,37 +1638,37 @@ En millions de FCFA
 
 [[START OF PAGE 57]]
 
-Programmes | Financement | Période | Total
+Programmes | Source de Financement | Période |  |  | Total
 --- | --- | --- | --- | --- | ---
-Source de | 2014 | 2015 | 2016
-Programme 3.4 | Etat | 0,00 | 263,00 | 0,00 | 263,00
-Bailleurs | 150,00 | 1 100,00 | 1 610,00 | 2 860,00
-Montant | 150,00 | 1 363,00 | 1 610,00 | 3 123,00
-Programme 3.5 Eau et | Etat | 0,00 | 24,23 | 216,16 | 240,39
-Bailleurs | 150,00 | 5 205,00 | 12 908,11 | 18 263,11
-Montant | 150,00 | 5 229,23 | 13 124,27 | 18 503,50
-Programme | Etat | 0,00 | 294,39 | 25,00 | 319,39
-Bailleurs | 65,00 | 550,00 | 839,00 | 1 454,00
-Montant | 65,00 | 844,39 | 864,00 | 1 773,39
-Programme 3.7 Emploi et protection | Etat | 0,00 | 48,47 | 32,31 | 80,78
-Bailleurs | 30,00 | 345,00 | 821,17 | 1 196,17
-Montant | 30,00 | 393,47 | 853,49 | 1 276,96
-Programme 3.8 Environnement climatiques | Etat | 0,00 | 40,39 | 28,27 | 68,67
-Bailleurs | 0,00 | 1 099,00 | 4 171,17 | 5 270,17
-Montant | 0,00 | 1 139,39 | 4 199,45 | 5 338,84
-OS 4 : Poursuite des réformes économiques et financières et promotion d'une croissance vigoureuse et durable | 41 570,75 | 219 004,06 | 315 871,82 | 576 446,63
-Programme 4.1 Assistance | Etat | 5 085,00 | 20 355,00 | 35 253,00 | 60 693,00
-Bailleurs | 27 337,00 | 43 445,00 | 31 870,00 | 102 652,00
-Montant | 32 422,00 | 63 800,00 | 67 123,00 | 163 345,00
-Programme 4.2: Amélioration l'environnement | Etat | 0,00 | 30,00 | 45,00 | 75,00
-Bailleurs | 210,00 | 11 950,00 | 16 100,00 | 28 260,00
-des | Montant | 210,00 | 11 980,00 | 16 145,00 | 28 335,00
-Programme 4.3 : Promotion | Etat | 688,00 | 1 616,00 | 2 176,00 | 4 480,00
-Bailleurs | 4 985,34 | 98 445,59 | 141 256,84 | 244 687,77
-Montant | 5 673,34 | 100 061,59 | 143 432,84 | 249 167,77
-Programme 4.4: Promotion des de soutien à la croissance | Etat | 514,63 | 7 553,31 | 10 790,44 | 18 858,38
-Bailleurs | 2 348,88 | 30 481,06 | 68 765,54 | 101 595,48
-Montant | 2 863,51 | 38 034,37 | 79 555,98 | 120 453,86
+ |  | 2014 | 2015 | 2016 |
+Programme 3.4 Jeunesse | Etat | 0,00 | 263,00 | 0,00 | 263,00
+ | Bailleurs | 150,00 | 1 100,00 | 1 610,00 | 2 860,00
+ | Montant | 150,00 | 1 363,00 | 1 610,00 | 3 123,00
+Programme 3.5 Eau et assainissement | Etat | 0,00 | 24,23 | 216,16 | 240,39
+ | Bailleurs | 150,00 | 5 205,00 | 12 908,11 | 18 263,11
+ | Montant | 150,00 | 5 229,23 | 13 124,27 | 18 503,50
+Programme 3.6 Genre | Etat | 0,00 | 294,39 | 25,00 | 319,39
+ | Bailleurs | 65,00 | 550,00 | 839,00 | 1 454,00
+ | Montant | 65,00 | 844,39 | 864,00 | 1 773,39
+Programme 3.7 Emploi et protection sociale | Etat | 0,00 | 48,47 | 32,31 | 80,78
+ | Bailleurs | 30,00 | 345,00 | 821,17 | 1 196,17
+ | Montant | 30,00 | 393,47 | 853,49 | 1 276,96
+Programme 3.8 Environnement et changements climatiques | Etat | 0,00 | 40,39 | 28,27 | 68,67
+ | Bailleurs | 0,00 | 1 099,00 | 4 171,17 | 5 270,17
+ | Montant | 0,00 | 1 139,39 | 4 199,45 | 5 338,84
+OS 4 : Poursuite des réformes économiques et financières et promotion d'une croissance vigoureuse et durable |  | 41 570,75 | 219 004,06 | 315 871,82 | 576 446,63
+Programme 4.1 Assistance économique | Etat | 5 085,00 | 20 355,00 | 35 253,00 | 60 693,00
+ | Bailleurs | 27 337,00 | 43 445,00 | 31 870,00 | 102 652,00
+ | Montant | 32 422,00 | 63 800,00 | 67 123,00 | 163 345,00
+Programme 4.2: Amélioration de l'environnement des affaires | Etat | 0,00 | 30,00 | 45,00 | 75,00
+ | Bailleurs | 210,00 | 11 950,00 | 16 100,00 | 28 260,00
+ | Montant | 210,00 | 11 980,00 | 16 145,00 | 28 335,00
+Programme 4.3 : Promotion de la croissance | Etat | 688,00 | 1 616,00 | 2 176,00 | 4 480,00
+ | Bailleurs | 4 985,34 | 98 445,59 | 141 256,84 | 244 687,77
+ | Montant | 5 673,34 | 100 061,59 | 143 432,84 | 249 167,77
+Programme 4.4: Promotion des infrastructures de soutien à la croissance | Etat | 514,63 | 7 553,31 | 10 790,44 | 18 858,38
+ | Bailleurs | 2 348,88 | 30 481,06 | 68 765,54 | 101 595,48
+ | Montant | 2 863,51 | 38 034,37 | 79 555,98 | 120 453,86
 
 57
 
@@ -1655,15 +1676,15 @@ Montant | 2 863,51 | 38 034,37 | 79 555,98 | 120 453,86
 
 [[START OF PAGE 58]]
 
-Programmes | Source de | Période | Total
+Programmes | Source de Financement | Période |  |  | Total
 --- | --- | --- | --- | --- | ---
-Financement | 2014 | 2015 | 2016
+ |  | 2014 | 2015 | 2016 |
 Programme 4.5: Gouvernance financières et Réformes globales des finances | Etat | 0,00 | 0,00 | 0,00 | 0,00
-Bailleurs | 320,00 | 2 763,00 | 3 215,00 | 6 298,00
-Montant | 320,00 | 2 763,00 | 3 215,00 | 6 298,00
+ | Bailleurs | 320,00 | 2 763,00 | 3 215,00 | 6 298,00
+ | Montant | 320,00 | 2 763,00 | 3 215,00 | 6 298,00
 Programme 4.6: Renforcement de l'intégration économique régionale | Etat | 27,90 | 120,10 | 193,00 | 341,00
-Bailleurs | 54,00 | 2 245,00 | 6 207,00 | 8 506,00
-Montant | 81,90 | 2 365,10 | 6 400,00 | 8 847,00
+ | Bailleurs | 54,00 | 2 245,00 | 6 207,00 | 8 506,00
+ | Montant | 81,90 | 2 365,10 | 6 400,00 | 8 847,00
 
 58
 
@@ -1681,30 +1702,30 @@ Montant | 81,90 | 2 365,10 | 6 400,00 | 8 847,00
 
 ### Annexe 2 : Matrice d'actions prioritaires de l'orientation stratégique 1
 
-Actions, Mesures ou | Source de | Programmation
---- | --- | --- | --- | --- | --- | --- | ---
-Programme | Sous-programme | Projets | Financement | 2014 | 2015 | 2016 | Total
-AXE 1: Restauration de la paix, de la sécurité, de la Gouvernance et de la consolidation de la paix
-Programme 1.1 Restauration de la sécurité et refondation des Forces de Défense et de Sécurité | Sous-programme 1.1.1 | LA1111 Armement et déploiement des FACA en appui aux forces de la | Etat | 500,00 | 500,00 | 1 000,00
-Bailleurs | 2 000,00 | 2 000,00 | 1 500,00 | 5 500,00
-Montant | 2 500,00 | 2 500,00 | 1 500,00 | 6 500,00
-RCA (phases 1, 2) LA1112 Renforcement des capacités institutionnelles du Conseil National de Sécurité (Phases 1, 2) | Etat | 100,00 | 150,00 | 250,00
-Bailleurs | 250,00 | 250,00 | 500,00
-Montant | 350,00 | 400,00 | 0,00 | 750,00
-LA1113 Unification des chaines de commandement | Etat | 50,00 | 100,00 | 150,00
-des forces de défense et de | Bailleurs | 500,00 | 1 500,00 | 500,00 | 2 500,00
-Montant | 550,00 | 1 600,00 | 500,00 | 2 650,00
-sécurité (FDS) (Phase 1) LA1114 Désignation des hauts responsables du haut commandement des FDS, notamment de l'État-major | Etat | 0,00
-Bailleurs | 0,00
-Montant | 0,00 | 0,00 | 0,00 | 0,00
-LA1115 Organisation de patrouilles mixtes (FDS, MISCA, Contingent Français) (Phases 1, 2, 3) | Etat | 300,00 | 500,00 | 800,00
-Bailleurs | 1 500,00 | 3 500,00 | 2 000,00 | 7 000,00
-Montant | 1 800,00 | 4 000,00 | 2 000,00 | 7 800,00
-LA1116 Sécurisation de l'ensemble du territoire | Etat | 250,00 | 500,00 | 750,00
-Bailleurs | 5 000,00 | 15 000,00 | 8 000,00 | 28 000,00
-national : opérationnalisation des régions militaires créées, installation des Unités de la MISCA, dotation des FDS en matériels et équipements appropriés (Phases 1, 2, 3) | Montant | 5 250,00 | 15 500,00 | 8 000,00 | 28 750,00
-
 En millions de FCFA
+
+Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+AXE 1: Restauration de la paix, de la sécurité, de la Gouvernance et de la consolidation de la paix |  |  |  |  |  |  |
+Programme 1.1 Restauration de la sécurité et refondation des Forces de Défense et de Sécurité | Sous-programme 1.1.1 Renforcement de la sécurité | LA1111 Armement et déploiement des FACA en appui aux forces de la MISCA, SANGARIS, EUFOR-RCA (phases 1, 2) | Etat | 500,00 | 500,00 |  | 1 000,00
+ |  |  | Bailleurs | 2 000,00 | 2 000,00 | 1 500,00 | 5 500,00
+ |  |  | Montant | 2 500,00 | 2 500,00 | 1 500,00 | 6 500,00
+ |  | LA1112 Renforcement des capacités institutionnelles du Conseil National de Sécurité (Phases 1, 2) | Etat | 100,00 | 150,00 |  | 250,00
+ |  |  | Bailleurs | 250,00 | 250,00 |  | 500,00
+ |  |  | Montant | 350,00 | 400,00 | 0,00 | 750,00
+ |  | LA1113 Unification des chaines de commandement des forces de défense et de sécurité (FDS) (Phase 1) | Etat | 50,00 | 100,00 |  | 150,00
+ |  |  | Bailleurs | 500,00 | 1 500,00 | 500,00 | 2 500,00
+ |  |  | Montant | 550,00 | 1 600,00 | 500,00 | 2 650,00
+ |  | LA1114 Désignation des hauts responsables du haut commandement des FDS, notamment de l'État-major des FACA, de la gendarmerie et de la police (Phases 1) | Etat |  |  |  | 0,00
+ |  |  | Bailleurs |  |  |  | 0,00
+ |  |  | Montant | 0,00 | 0,00 | 0,00 | 0,00
+ |  | LA1115 Organisation de patrouilles mixtes (FDS, MISCA, Contingent Français) (Phases 1, 2, 3) | Etat | 300,00 | 500,00 |  | 800,00
+ |  |  | Bailleurs | 1 500,00 | 3 500,00 | 2 000,00 | 7 000,00
+ |  |  | Montant | 1 800,00 | 4 000,00 | 2 000,00 | 7 800,00
+ |  | LA1116 Sécurisation de l'ensemble du territoire national : opérationnalisation des régions militaires créées, installation des Unités de la MISCA, dotation des FDS en matériels et équipements appropriés (Phases 1, 2, 3) | Etat | 250,00 | 500,00 |  | 750,00
+ |  |  | Bailleurs | 5 000,00 | 15 000,00 | 8 000,00 | 28 000,00
+ |  |  | Montant | 5 250,00 | 15 500,00 | 8 000,00 | 28 750,00
 
 60
 
@@ -1712,33 +1733,33 @@ En millions de FCFA
 
 [[START OF PAGE 61]]
 
-Sous-programme | Actions, Mesures ou | Source de | Programmation | Total
---- | --- | --- | --- | --- | --- | ---
-Programme | Projets | Financement | 2014 | 2015 | 2016
-LA1117 Elaboration et mise en œuvre d'un cadre de stabilisation de la sécurité | Etat | 0,00
-Bailleurs | 25,00 | 100,00 | 125,00
-en RCA | Montant | 25,00 | 0,00 | 100,00 | 125,00
-LA1118 Renforcement du cadre institutionnel de la défense et de la sécurité (Création et fonctionnement du Conseil | Etat | 30,00 | 25,00 | 25,00 | 80,00
-Bailleurs | 100,00 | 50,00 | 150,00
-national de sécurité) | Montant | 30,00 | 125,00 | 75,00 | 230,00
-LA1119 Augmentation de l'effectif de la Force Multinationale de l'Union | Etat | 500,00 | 500,00
-Bailleurs | 10 000,00 | 30 000,00 | 15 000,00 | 55 000,00
-Africaine (MISCA) et passage aux casques bleus | Montant | 10 500,00 | 30 000,00 | 15 000,00 | 55 500,00
-LA11120 Construction et réhabilitation des casernes militaires, Brigades de Gendarmerie et logements | Etat | 0,00
-Bailleurs | 3 000,00 | 5 000,00 | 2 000,00 | 10 000,00
-sociaux | Montant | 3 000,00 | 5 000,00 | 2 000,00 | 10 000,00
-LA11121 Réhabilitation et | Etat | 0,00 | 0,00 | 0,00
-équipement des | Bailleurs | 2 000,00 | 1 700,00 | 1 000,00 | 4 700,00
-Commissariats | Montant | 2 000,00 | 1 700,00 | 1 000,00 | 4 700,00
-LA11122 Réhabilitation et équipement des | Etat | 0,00 | 0,00 | 0,00 | 0,00
-établissements de | Bailleurs | 69,50 | 800,00 | 869,50
-formation en foresterie, | Montant | 0,00 | 69,50 | 800,00 | 869,50
-Etat | 1 730,00 | 1 775,00 | 25,00 | 3 530,00
-Total Programme 1.1.1 | Bailleurs | 24 275,00 | 59 119,50 | 30 950,00 | 114 344,50
-Montant | 26 005,00 | 60 894,50 | 30 975,00 | 117 874,50
-Sous-programme 1.1.2 Démobilisation, | LA1121 Elaboration d'un nouveau programme | Etat | 25,00 | 25,00
-Bailleurs | 75,00 | 75,00
-désarmement et | DDR (phase 1) | Montant | 100,00 | 0,00 | 0,00 | 100,00
+Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+ |  | LA1117 Elaboration et mise en œuvre d'un cadre de stabilisation de la sécurité en RCA | Etat |  |  |  | 0,00
+ |  |  | Bailleurs | 25,00 |  | 100,00 | 125,00
+ |  |  | Montant | 25,00 | 0,00 | 100,00 | 125,00
+ |  | LA1118 Renforcement du cadre institutionnel de la défense et de la sécurité (Création et fonctionnement du Conseil national de sécurité) | Etat | 30,00 | 25,00 | 25,00 | 80,00
+ |  |  | Bailleurs |  | 100,00 | 50,00 | 150,00
+ |  |  | Montant | 30,00 | 125,00 | 75,00 | 230,00
+ |  | LA1119 Augmentation de l'effectif de la Force Multinationale de l'Union Africaine (MISCA) et passage aux casques bleus | Etat | 500,00 |  |  | 500,00
+ |  |  | Bailleurs | 10 000,00 | 30 000,00 | 15 000,00 | 55 000,00
+ |  |  | Montant | 10 500,00 | 30 000,00 | 15 000,00 | 55 500,00
+ |  | LA11120 Construction et réhabilitation des casernes militaires, Brigades de Gendarmerie et logements sociaux | Etat |  |  |  | 0,00
+ |  |  | Bailleurs | 3 000,00 | 5 000,00 | 2 000,00 | 10 000,00
+ |  |  | Montant | 3 000,00 | 5 000,00 | 2 000,00 | 10 000,00
+ |  | LA11121 Réhabilitation et équipement des Commissariats | Etat |  | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 2 000,00 | 1 700,00 | 1 000,00 | 4 700,00
+ |  |  | Montant | 2 000,00 | 1 700,00 | 1 000,00 | 4 700,00
+ |  | LA11122 Réhabilitation et équipement des établissements de formation en foresterie, chasse et pêche | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs |  | 69,50 | 800,00 | 869,50
+ |  |  | Montant | 0,00 | 69,50 | 800,00 | 869,50
+ |  | Total Programme 1.1.1 | Etat | 1 730,00 | 1 775,00 | 25,00 | 3 530,00
+ |  |  | Bailleurs | 24 275,00 | 59 119,50 | 30 950,00 | 114 344,50
+ |  |  | Montant | 26 005,00 | 60 894,50 | 30 975,00 | 117 874,50
+ | Sous-programme 1.1.2 Démobilisation, désarmement et | LA1121 Elaboration d'un nouveau programme DDR (phase 1) | Etat | 25,00 |  |  | 25,00
+ |  |  | Bailleurs | 75,00 |  |  | 75,00
+ |  |  | Montant | 100,00 | 0,00 | 0,00 | 100,00
 
 61
 
@@ -1746,35 +1767,35 @@ désarmement et | DDR (phase 1) | Montant | 100,00 | 0,00 | 0,00 | 100,00
 
 [[START OF PAGE 62]]
 
-Sous-programme | Actions, Mesures ou | Source de | Programmation
---- | --- | --- | --- | --- | --- | ---
-Programme | Projets | Financement | 2014 | 2015 | 2016 | Total
-réinsertion (DDR) | LA1122 Regroupement, désarmement, cantonnement et identification des ex combattants (Phases 1 et 2) | Etat | 150,00 | 200,00 | 50,00 | 400,00
-Bailleurs | 1 350,00 | 2 300,00 | 450,00 | 4 100,00
-Montant | 1 500,00 | 2 500,00 | 500,00 | 4 500,00
-LA1123 Rapatriement des éléments étrangers (Phases 1, 2) | Etat | 100,00 | 150,00 | 0,00 | 250,00
-Bailleurs | 1 400,00 | 2 350,00 | 1 000,00 | 4 750,00
-Montant | 1 500,00 | 2 500,00 | 1 000,00 | 5 000,00
-LA1124 Démobilisation et réinsertion des enfants soldats (Phases 1, 2, 3) | Etat | 250,00 | 100,00 | 100,00 | 450,00
-Bailleurs | 2 250,00 | 3 900,00 | 1 400,00 | 7 550,00
-Montant | 2 500,00 | 4 000,00 | 1 500,00 | 8 000,00
-LA1125 Identification des besoins, renforcement de capacités et réinsertion suivi et évaluation (phases 2, 3) | Etat | 250,00 | 250,00 | 150,00 | 650,00
-Bailleurs | 2 250,00 | 7 750,00 | 4 850,00 | 14 850,00
-Montant | 2 500,00 | 8 000,00 | 5 000,00 | 15 500,00
-LA1126 Implication des autorités locales et prise en compte de la dimension genre dans le processus DDR (Phases1, 2, 3) | Etat | 200,00 | 150,00 | 150,00 | 500,00
-Bailleurs | 300,00 | 1 850,00 | 650,00 | 2 800,00
-Montant | 500,00 | 2 000,00 | 800,00 | 3 300,00
-Total Programme 1.1.2 | Etat | 975,00 | 850,00 | 450,00 | 2 275,00
-Bailleurs | 7 625,00 | 18 150,00 | 8 350,00 | 34 125,00
-Montant | 8 600,00 | 19 000,00 | 8 800,00 | 36 400,00
-Sous-programme 1.1.3 Réforme du Secteur de la sécurité (RSS) | LA1131 Elaboration du nouveau programme RSS (Phase 1) | Etat | 1,00 | 0,00 | 0,00 | 1,00
-Bailleurs | 20,00 | 20,00
-Montant | 21,00 | 0,00 | 0,00 | 21,00
-LA1132 Mise en œuvre du nouveau programme | Etat | 0,50 | 0,50 | 0,00 | 1,00
-Bailleurs | 0,00
-RSS (Phase 1) | Montant | 0,50 | 0,50 | 0,00 | 1,00
-LA1133 Reconstruction | Etat | 0,00 | 0,00 | 0,00 | 0,00
-d'une nouvelle Armée | Bailleurs | 250,00 | 1 000,00 | 300,00 | 1 550,00
+Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+ | réinsertion (DDR) | LA1122 Regroupement, désarmement, cantonnement et identification des ex combattants (Phases 1 et 2) | Etat | 150,00 | 200,00 | 50,00 | 400,00
+ |  |  | Bailleurs | 1 350,00 | 2 300,00 | 450,00 | 4 100,00
+ |  |  | Montant | 1 500,00 | 2 500,00 | 500,00 | 4 500,00
+ |  | LA1123 Rapatriement des éléments étrangers (Phases 1, 2) | Etat | 100,00 | 150,00 | 0,00 | 250,00
+ |  |  | Bailleurs | 1 400,00 | 2 350,00 | 1 000,00 | 4 750,00
+ |  |  | Montant | 1 500,00 | 2 500,00 | 1 000,00 | 5 000,00
+ |  | LA1124 Démobilisation et réinsertion des enfants soldats (Phases 1, 2, 3) | Etat | 250,00 | 100,00 | 100,00 | 450,00
+ |  |  | Bailleurs | 2 250,00 | 3 900,00 | 1 400,00 | 7 550,00
+ |  |  | Montant | 2 500,00 | 4 000,00 | 1 500,00 | 8 000,00
+ |  | LA1125 Identification des besoins, renforcement de capacités et réinsertion suivi et évaluation (phases 2, 3) | Etat | 250,00 | 250,00 | 150,00 | 650,00
+ |  |  | Bailleurs | 2 250,00 | 7 750,00 | 4 850,00 | 14 850,00
+ |  |  | Montant | 2 500,00 | 8 000,00 | 5 000,00 | 15 500,00
+ |  | LA1126 Implication des autorités locales et prise en compte de la dimension genre dans le processus DDR (Phases1, 2, 3) | Etat | 200,00 | 150,00 | 150,00 | 500,00
+ |  |  | Bailleurs | 300,00 | 1 850,00 | 650,00 | 2 800,00
+ |  |  | Montant | 500,00 | 2 000,00 | 800,00 | 3 300,00
+ |  | Total Programme 1.1.2 | Etat | 975,00 | 850,00 | 450,00 | 2 275,00
+ |  |  | Bailleurs | 7 625,00 | 18 150,00 | 8 350,00 | 34 125,00
+ |  |  | Montant | 8 600,00 | 19 000,00 | 8 800,00 | 36 400,00
+ | Sous-programme 1.1.3 Réforme du Secteur de la sécurité (RSS) | LA1131 Elaboration du nouveau programme RSS (Phase 1) | Etat | 1,00 | 0,00 | 0,00 | 1,00
+ |  |  | Bailleurs | 20,00 |  |  | 20,00
+ |  |  | Montant | 21,00 | 0,00 | 0,00 | 21,00
+ |  | LA1132 Mise en œuvre du nouveau programme RSS (Phase 1) | Etat | 0,50 | 0,50 | 0,00 | 1,00
+ |  |  | Bailleurs |  |  |  | 0,00
+ |  |  | Montant | 0,50 | 0,50 | 0,00 | 1,00
+ |  | LA1133 Reconstruction d'une nouvelle Armée | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 250,00 | 1 000,00 | 300,00 | 1 550,00
 
 62
 
@@ -1782,34 +1803,34 @@ d'une nouvelle Armée | Bailleurs | 250,00 | 1 000,00 | 300,00 | 1 550,00
 
 [[START OF PAGE 63]]
 
-Sous-programme | Actions, Mesures ou | Source de | Programmation
---- | --- | --- | --- | --- | --- | ---
-Programme | Projets | Financement | 2014 | 2015 | 2016 | Total
-Républicaine (Phases 1, 2, 3) | Montant | 250,00 | 1 000,00 | 300,00 | 1 550,00
-LA1134 Dotation des FACA en matériel et équipements | Etat | 500,00 | 200,00 | 0,00 | 700,00
-Bailleurs | 1 000,00 | 4 500,00 | 3 500,00 | 9 000,00
-Montant | 1 500,00 | 4 700,00 | 3 500,00 | 9 700,00
-LA1135 Création, réhabilitation et | Etat | 250,00 | 250,00 | 100,00 | 600,00
-Bailleurs | 1 800,00 | 3 500,00 | 2 800,00 | 8 100,00
-construction de régions militaires | Montant | 2 050,00 | 3 750,00 | 2 900,00 | 8 700,00
-LA1136 Redéploiement des FDS dans les régions | Etat | 150,00 | 250,00 | 100,00 | 500,00
-Bailleurs | 1 000,00 | 2 590,00 | 900,00 | 4 490,00
-militaires | Montant | 1 150,00 | 2 840,00 | 1 000,00 | 4 990,00
-LA1137 Formation initiale et continue des Militaires et | Etat | 0,00 | 0,00 | 0,00 | 0,00
-Bailleurs | 800,00 | 2 000,00 | 900,00 | 3 700,00
-Gendarmes | Montant | 800,00 | 2 000,00 | 900,00 | 3 700,00
-Etat | 100,00 | 150,00 | 75,00 | 325,00
-LA1138 Formation initiale | Bailleurs | 200,00 | 800,00 | 450,00 | 1 450,00
-et continue des Policiers | Montant | 300,00 | 950,00 | 525,00 | 1 775,00
-Etat | 1 000,50 | 850,50 | 275,00 | 2 126,00
-Total Programme 1.1.3 | Bailleurs | 5 070,00 | 14 390,00 | 8 850,00 | 28 310,00
-Montant | 6 070,50 | 15 240,50 | 9 125,00 | 30 436,00
-Etat | 500,00 | 500,00 | 300,00 | 1 300,00
-Sous-programme 1.1.4 Retour à une paix durable | LA1141 Désarmement et ramassage et contrôle des armes légères et de petit calibre détenues par les | Bailleurs | 1 000,00 | 1 800,00 | 700,00 | 3 500,00
-tous les ex-combattants, les populations et les FACA | Montant | 1 500,00 | 2 300,00 | 1 000,00 | 4 800,00
-LA1142 Campagne d'IEC et | Etat | 90,00 | 100,00 | 150,00 | 340,00
-de CCC auprès des FACA et | Bailleurs | 100,00 | 250,00 | 200,00 | 550,00
-ex-combattants | Montant | 190,00 | 350,00 | 350,00 | 890,00
+Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+ |  | Républicaine (Phases 1, 2, 3) | Montant | 250,00 | 1 000,00 | 300,00 | 1 550,00
+ |  | LA1134 Dotation des FACA en matériel et équipements | Etat | 500,00 | 200,00 | 0,00 | 700,00
+ |  |  | Bailleurs | 1 000,00 | 4 500,00 | 3 500,00 | 9 000,00
+ |  |  | Montant | 1 500,00 | 4 700,00 | 3 500,00 | 9 700,00
+ |  | LA1135 Création, réhabilitation et construction de régions militaires | Etat | 250,00 | 250,00 | 100,00 | 600,00
+ |  |  | Bailleurs | 1 800,00 | 3 500,00 | 2 800,00 | 8 100,00
+ |  |  | Montant | 2 050,00 | 3 750,00 | 2 900,00 | 8 700,00
+ |  | LA1136 Redéploiement des FDS dans les régions militaires | Etat | 150,00 | 250,00 | 100,00 | 500,00
+ |  |  | Bailleurs | 1 000,00 | 2 590,00 | 900,00 | 4 490,00
+ |  |  | Montant | 1 150,00 | 2 840,00 | 1 000,00 | 4 990,00
+ |  | LA1137 Formation initiale et continue des Militaires et Gendarmes | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 800,00 | 2 000,00 | 900,00 | 3 700,00
+ |  |  | Montant | 800,00 | 2 000,00 | 900,00 | 3 700,00
+ |  | LA1138 Formation initiale et continue des Policiers | Etat | 100,00 | 150,00 | 75,00 | 325,00
+ |  |  | Bailleurs | 200,00 | 800,00 | 450,00 | 1 450,00
+ |  |  | Montant | 300,00 | 950,00 | 525,00 | 1 775,00
+ |  | Total Programme 1.1.3 | Etat | 1 000,50 | 850,50 | 275,00 | 2 126,00
+ |  |  | Bailleurs | 5 070,00 | 14 390,00 | 8 850,00 | 28 310,00
+ |  |  | Montant | 6 070,50 | 15 240,50 | 9 125,00 | 30 436,00
+ | Sous-programme 1.1.4 Retour à une paix durable | LA1141 Désarmement et ramassage et contrôle des armes légères et de petit calibre détenues par les tous les ex-combattants, les populations et les FACA | Etat | 500,00 | 500,00 | 300,00 | 1 300,00
+ |  |  | Bailleurs | 1 000,00 | 1 800,00 | 700,00 | 3 500,00
+ |  |  | Montant | 1 500,00 | 2 300,00 | 1 000,00 | 4 800,00
+ |  | LA1142 Campagne d'IEC et de CCC auprès des FACA et ex-combattants | Etat | 90,00 | 100,00 | 150,00 | 340,00
+ |  |  | Bailleurs | 100,00 | 250,00 | 200,00 | 550,00
+ |  |  | Montant | 190,00 | 350,00 | 350,00 | 890,00
 
 63
 
@@ -1817,31 +1838,31 @@ ex-combattants | Montant | 190,00 | 350,00 | 350,00 | 890,00
 
 [[START OF PAGE 64]]
 
-Sous-programme | Actions, Mesures ou | Source de | Programmation
---- | --- | --- | --- | --- | --- | ---
-Programme | Projets | Financement | 2014 | 2015 | 2016 | Total
-LA1143 Organisation d'une conférence de réconciliation nationale inclusive (phase 2) | Etat | 300,00 | 50,00 | 0,00 | 350,00
-Bailleurs | 1 500,00 | 1 500,00 | 800,00 | 3 800,00
-Montant | 1 800,00 | 1 550,00 | 800,00 | 4 150,00
-LA1144 Mise en place et renforcement des cadres de dialogues politique, social et interconfessionnel (Phases 1 et 2); | Etat | 100,00 | 100,00 | 100,00 | 300,00
-Bailleurs | 500,00 | 1 300,00 | 800,00 | 2 600,00
-Montant | 600,00 | 1 400,00 | 900,00 | 2 900,00
-LA1145 Renforcement des capacités des mass-médias (Phases 1, 2) ; | Etat | 150,00 | 100,00 | 100,00 | 350,00
-Bailleurs | 500,00 | 2 500,00 | 1 500,00 | 4 500,00
-Montant | 0,00 | 2 600,00 | 1 600,00 | 4 200,00
-LA1146 Renforcement de la coopération sécuritaire transfrontière par la réactivation des rencontres des commissions mixtes bilatérales et le suivi de la mise en œuvre des résolutions adoptées (Phases 1, 2, 3) | Etat | 80,00 | 160,00 | 200,00 | 440,00
-Bailleurs | 1 000,00 | 1 500,00 | 1 000,00 | 3 500,00
-Montant | 1 080,00 | 1 660,00 | 1 200,00 | 3 940,00
-Total Sous-programme 1.1.4 | Etat | 1 220,00 | 1 010,00 | 850,00 | 3 080,00
-Bailleurs | 4 600,00 | 8 850,00 | 5 000,00 | 18 450,00
-Montant | 5 820,00 | 9 860,00 | 5 850,00 | 21 530,00
-Programme 1.2 Gouvernance et Etat de droit | Sous-programme 1.2.1 : Gouvernance politique et démocratique | Mise en place d'un cadre institutionnel et juridique légal de transition
-LA1211 Mise en place et fonctionnement du Conseil National de Transition | Etat | 91,00 | 91,00 | 91,00 | 273,00
-Bailleurs | 75,00 | 75,00 | 75,00 | 225,00
-Montant | 166,00 | 166,00 | 166,00 | 498,00
-LA1212 Elaboration et adoption de la Charte de la transition | Etat | 20,00 | 30,00 | 50,00
-Bailleurs | 0,00 | 0,00 | 0,00 | 0,00
-Montant | 20,00 | 30,00 | 0,00
+Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+ |  | LA1143 Organisation d'une conférence de réconciliation nationale inclusive (phase 2) | Etat | 300,00 | 50,00 | 0,00 | 350,00
+ |  |  | Bailleurs | 1 500,00 | 1 500,00 | 800,00 | 3 800,00
+ |  |  | Montant | 1 800,00 | 1 550,00 | 800,00 | 4 150,00
+ |  | LA1144 Mise en place et renforcement des cadres de dialogues politique, social et interconfessionnel (Phases 1 et 2); | Etat | 100,00 | 100,00 | 100,00 | 300,00
+ |  |  | Bailleurs | 500,00 | 1 300,00 | 800,00 | 2 600,00
+ |  |  | Montant | 600,00 | 1 400,00 | 900,00 | 2 900,00
+ |  | LA1145 Renforcement des capacités des mass-médias (Phases 1, 2) ; | Etat | 150,00 | 100,00 | 100,00 | 350,00
+ |  |  | Bailleurs | 500,00 | 2 500,00 | 1 500,00 | 4 500,00
+ |  |  | Montant | 0,00 | 2 600,00 | 1 600,00 | 4 200,00
+ |  | LA1146 Renforcement de la coopération sécuritaire transfrontière par la réactivation des rencontres des commissions mixtes bilatérales et le suivi de la mise en œuvre des résolutions adoptées (Phases 1, 2, 3) | Etat | 80,00 | 160,00 | 200,00 | 440,00
+ |  |  | Bailleurs | 1 000,00 | 1 500,00 | 1 000,00 | 3 500,00
+ |  |  | Montant | 1 080,00 | 1 660,00 | 1 200,00 | 3 940,00
+ |  | Total Sous-programme 1.1.4 | Etat | 1 220,00 | 1 010,00 | 850,00 | 3 080,00
+ |  |  | Bailleurs | 4 600,00 | 8 850,00 | 5 000,00 | 18 450,00
+ |  |  | Montant | 5 820,00 | 9 860,00 | 5 850,00 | 21 530,00
+Programme 1.2 Gouvernance et Etat de droit | Sous-programme 1.2.1 : Gouvernance politique et démocratique | Mise en place d'un cadre institutionnel et juridique légal de transition |  |  |  |  |
+ |  | LA1211 Mise en place et fonctionnement du Conseil National de Transition | Etat | 91,00 | 91,00 | 91,00 | 273,00
+ |  |  | Bailleurs | 75,00 | 75,00 | 75,00 | 225,00
+ |  |  | Montant | 166,00 | 166,00 | 166,00 | 498,00
+ |  | LA1212 Elaboration et adoption de la Charte de la transition | Etat | 20,00 | 30,00 |  | 50,00
+ |  |  | Bailleurs | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Montant | 20,00 | 30,00 | 0,00 |
 
 64
 
@@ -1849,36 +1870,36 @@ Montant | 20,00 | 30,00 | 0,00
 
 [[START OF PAGE 65]]
 
-Actions, Mesures ou | Source de | Programmation
+Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement | Programmation |  |  | Total
 --- | --- | --- | --- | --- | --- | --- | ---
-Programme | Sous-programme | Projets | Financement | 2014 | 2015 | 2016 | Total
-LA1213 Elaboration et adoption du projet de | Etat | 100,00 | 45,00 | 145,00
-Bailleurs | 200,00 | 500,00 | 0,00 | 700,00
-Constitution | Montant | 300,00 | 545,00 | 0,00
-LA1214 Mise en place de la | Etat | 25,00 | 25,00 | 25,00 | 75,00
-Cour Constitutionnelle de | Bailleurs | 70,00 | 20,00 | 90,00
-Transition | Montant | 25,00 | 95,00 | 45,00
-LA1215 Adoption et | Etat | 5,00 | 7,00 | 5,00 | 17,00
-vulgarisation du code | Bailleurs | 100,00 | 25,00 | 0,00 | 125,00
-électoral | Montant | 105,00 | 32,00 | 5,00
-Etat | 10,00 | 15,00 | 5,00 | 30,00
-LA1216 Elaboration et | Bailleurs | 0,00 | 0,00 | 0,00 | 0,00
-adoption des lois | Montant | 10,00 | 15,00 | 5,00
-LA1217 Ratification de tous | Etat | 5,00 | 5,00 | 5,00 | 15,00
-les textes internationaux | Bailleurs | 0,00 | 0,00 | 0,00 | 0,00
-indispensables à là protection des droits de | Montant | 5,00 | 5,00 | 5,00 | 15,00
-LA1218 Réhabiliter et | Etat | 0,00 | 0,00 | 0,00 | 0,00
-équiper le palais de | Bailleurs | 50,00 | 50,00 | 50,00 | 150,00
-l'Assemblée Nationale | Montant | 50,00 | 50,00 | 50,00
-Total Mise en place d'un | Etat | 256,00 | 218,00 | 131,00 | 605,00
-cadre institutionnel et | Bailleurs | 425,00 | 720,00 | 145,00 | 1 290,00
-juridique légal de transition | Montant | 681,00 | 938,00 | 276,00 | 1 895,00
-Mise en œuvre du processus électoral
-LA1219 Adoption et la | Etat | 0,00 | 0,00 | 0,00 | 0,00
-promulgation du code | Bailleurs | 0,00 | 0,00 | 0,00 | 0,00
-électoral (phase 1) | Montant | 0,00 | 0,00 | 0,00 | 0,00
-LA12110 Mise en place et | Etat | 80,00 | 100,00 | 95,00 | 275,00
-fonctionnement de | Bailleurs | 80,00 | 200,00 | 110,00 | 390,00
+ |  |  |  | 2014 | 2015 | 2016 |
+ |  | LA1213 Elaboration et adoption du projet de Constitution | Etat | 100,00 | 45,00 |  | 145,00
+ |  |  | Bailleurs | 200,00 | 500,00 | 0,00 | 700,00
+ |  |  | Montant | 300,00 | 545,00 | 0,00 |
+ |  | LA1214 Mise en place de la Cour Constitutionnelle de Transition | Etat | 25,00 | 25,00 | 25,00 | 75,00
+ |  |  | Bailleurs |  | 70,00 | 20,00 | 90,00
+ |  |  | Montant | 25,00 | 95,00 | 45,00 |
+ |  | LA1215 Adoption et vulgarisation du code électoral | Etat | 5,00 | 7,00 | 5,00 | 17,00
+ |  |  | Bailleurs | 100,00 | 25,00 | 0,00 | 125,00
+ |  |  | Montant | 105,00 | 32,00 | 5,00 |
+ |  | LA1216 Elaboration et adoption des lois | Etat | 10,00 | 15,00 | 5,00 | 30,00
+ |  |  | Bailleurs | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Montant | 10,00 | 15,00 | 5,00 |
+ |  | LA1217 Ratification de tous les textes internationaux indispensables à là protection des droits de l'homme | Etat | 5,00 | 5,00 | 5,00 | 15,00
+ |  |  | Bailleurs | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Montant | 5,00 | 5,00 | 5,00 | 15,00
+ |  | LA1218 Réhabiliter et équiper le palais de l'Assemblée Nationale | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 50,00 | 50,00 | 50,00 | 150,00
+ |  |  | Montant | 50,00 | 50,00 | 50,00 |
+ |  | Total Mise en place d'un cadre institutionnel et juridique légal de transition | Etat | 256,00 | 218,00 | 131,00 | 605,00
+ |  |  | Bailleurs | 425,00 | 720,00 | 145,00 | 1 290,00
+ |  |  | Montant | 681,00 | 938,00 | 276,00 | 1 895,00
+ |  | Mise en œuvre du processus électoral |  |  |  |  |
+ |  | LA1219 Adoption et la promulgation du code électoral (phase 1) | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Montant | 0,00 | 0,00 | 0,00 | 0,00
+ |  | LA12110 Mise en place et fonctionnement de | Etat | 80,00 | 100,00 | 95,00 | 275,00
+ |  |  | Bailleurs | 80,00 | 200,00 | 110,00 | 390,00
 
 65
 
@@ -1886,34 +1907,34 @@ fonctionnement de | Bailleurs | 80,00 | 200,00 | 110,00 | 390,00
 
 [[START OF PAGE 66]]
 
-Programme | Sous-programme | Actions, Mesures ou | Source de | Programmation
---- | --- | --- | --- | --- | ---
-Projets | Financement | 2014 | 2015 | 2016 | Total
-l'autorité nationale chargée des élections | Montant | 160,00 | 300,00 | 205,00 | 665,00
-LA12111 Reconstitution des fichiers d'état civil (phase 2) | Etat | 100,00 | 150,00 | 0,00 | 250,00
-Bailleurs | 3 000,00 | 1 500,00 | 350,00 | 4 850,00
-Montant | 3 100,00 | 1 650,00 | 350,00 | 5 100,00
-LA12112 Recensement | Etat | 0,00 | 0,00 | 0,00 | 0,00
-Bailleurs | 6 500,00 | 1 250,00 | 500,00 | 8 250,00
-électoral | Montant | 6 500,00 | 1 250,00 | 500,00 | 8 250,00
-LA12113 Production du | Etat | 0,00 | 0,00 | 0,00 | 0,00
-fichier électoral : listes | Bailleurs | 3 000,00 | 2 500,00 | 800,00 | 6 300,00
-électorales provisoire puis définitive | Montant | 3 000,00 | 2 500,00 | 800,00 | 6 300,00
-LA12114 Confection des cartes d'identité nationale | Etat | 0,00 | 0,00 | 0,00 | 0,00
-Bailleurs | 4 500,00 | 1 000,00 | 650,00 | 6 150,00
-biométriques | Montant | 4 500,00 | 1 000,00 | 650,00 | 6 150,00
-LA12115 Confection des | Etat | 0,00 | 0,00 | 0,00 | 0,00
-cartes d'électeurs | Bailleurs | 4 500,00 | 2 000,00 | 650,00 | 7 150,00
-biométriques et des imprimés électoraux | Montant | 4 500,00 | 2 000,00 | 650,00 | 7 150,00
-LA12116 Renforcement des | Etat | 0,00 | 0,00 | 0,00 | 0,00
-capacités nécessaires au bon déroulement du processus électoral (campagnes d'information | Bailleurs | 800,00 | 1 500,00 | 500,00 | 2 800,00
-et d'éducation civique des électeurs, opérations de sécurisation) (phases 2 et 3) | Montant | 800,00 | 1 500,00 | 500,00 | 2 800,00
-LA12117 Campagne et | Etat | 50,00 | 50,00 | 0,00 | 100,00
-organisation du référendum pour l'adoption de la | Bailleurs | 4 500,00 | 890,00 | 0,00 | 5 390,00
-Constitution | Montant | 4 550,00 | 940,00 | 0,00 | 5 490,00
-Etat | 0,00 | 0,00 | 0,00 | 0,00
-LA12110 Organisation des | Bailleurs | 3 500,00 | 3 900,00 | 900,00 | 8 300,00
-élections présidentielles | Montant | 3 500,00 | 3 900,00 | 900,00 | 8 300,00
+Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+ |  | l'autorité nationale chargée des élections | Montant | 160,00 | 300,00 | 205,00 | 665,00
+ |  | LA12111 Reconstitution des fichiers d'état civil (phase 2) | Etat | 100,00 | 150,00 | 0,00 | 250,00
+ |  |  | Bailleurs | 3 000,00 | 1 500,00 | 350,00 | 4 850,00
+ |  |  | Montant | 3 100,00 | 1 650,00 | 350,00 | 5 100,00
+ |  | LA12112 Recensement électoral | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 6 500,00 | 1 250,00 | 500,00 | 8 250,00
+ |  |  | Montant | 6 500,00 | 1 250,00 | 500,00 | 8 250,00
+ |  | LA12113 Production du fichier électoral : listes électorales provisoire puis définitive | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 3 000,00 | 2 500,00 | 800,00 | 6 300,00
+ |  |  | Montant | 3 000,00 | 2 500,00 | 800,00 | 6 300,00
+ |  | LA12114 Confection des cartes d'identité nationale biométriques | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 4 500,00 | 1 000,00 | 650,00 | 6 150,00
+ |  |  | Montant | 4 500,00 | 1 000,00 | 650,00 | 6 150,00
+ |  | LA12115 Confection des cartes d'électeurs biométriques et des imprimés électoraux | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 4 500,00 | 2 000,00 | 650,00 | 7 150,00
+ |  |  | Montant | 4 500,00 | 2 000,00 | 650,00 | 7 150,00
+ |  | LA12116 Renforcement des capacités nécessaires au bon déroulement du processus électoral (campagnes d'information et d'éducation civique des électeurs, opérations de sécurisation) (phases 2 et 3) | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 800,00 | 1 500,00 | 500,00 | 2 800,00
+ |  |  | Montant | 800,00 | 1 500,00 | 500,00 | 2 800,00
+ |  | LA12117 Campagne et organisation du référendum pour l'adoption de la Constitution | Etat | 50,00 | 50,00 | 0,00 | 100,00
+ |  |  | Bailleurs | 4 500,00 | 890,00 | 0,00 | 5 390,00
+ |  |  | Montant | 4 550,00 | 940,00 | 0,00 | 5 490,00
+ |  | LA12110 Organisation des élections présidentielles | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 3 500,00 | 3 900,00 | 900,00 | 8 300,00
+ |  |  | Montant | 3 500,00 | 3 900,00 | 900,00 | 8 300,00
 
 66
 
@@ -1921,32 +1942,32 @@ LA12110 Organisation des | Bailleurs | 3 500,00 | 3 900,00 | 900,00 | 8 300,00
 
 [[START OF PAGE 67]]
 
-Sous-programme | Actions, Mesures ou | Source de | Programmation | Total
---- | --- | --- | --- | --- | --- | ---
-Programme | Projets | Financement | 2014 | 2015 | 2016
-LA12110 Organisation des élections municipales, législatives | Etat | 0,00 | 0,00 | 0,00 | 0,00
-Bailleurs | 6 500,00 | 2 500,00 | 9 000,00
-Montant | 0,00 | 6 500,00 | 2 500,00 | 9 000,00
-LA12118 Participation à l'installation de nouvelles institutions républicaines | Etat | 0,00 | 0,00 | 0,00 | 0,00
-Bailleurs | 700,00 | 150,00 | 850,00
-Montant | 0,00 | 700,00 | 150,00 | 850,00
-Total Mise en œuvre du processus électoral | Etat | 230,00 | 300,00 | 95,00 | 625,00
-Bailleurs | 30 380,00 | 21 940,00 | 7 110,00 | 59 430,00
-Montant | 30 610,00 | 22 240,00 | 7 205,00 | 60 055,00
-Etat | 486,00 | 518,00 | 226,00 | 1 230,00
-Total Sous-programme 1.2.1 | Bailleurs | 30 805,00 | 22 660,00 | 7 255,00 | 60 720,00
-Montant | 31 291,00 | 23 178,00 | 7 481,00 | 61 950,00
-Sous-programme 1.2.2 : Gouvernance judiciaire | LA1221 Réhabilitation et équipement des bâtiments des Cours d'Appel de | Etat | 0,00 | 0,00 | 0,00 | 0,00
-Bailleurs | 1 000,00 | 2 500,00 | 700,00 | 4 200,00
-Bangui, Bamabari et Bouar, des TGI et brigades de gendarmerie en vue de garantir une sécurité judiciaire aux populations | Montant | 1 000,00 | 2 500,00 | 700,00 | 4 200,00
-LA1222 Création des | Etat | 0,00 | 0,00 | 0,00 | 0,00
-centres de détention pour | Bailleurs | 500,00 | 1 500,00 | 1 000,00 | 3 000,00
-mineurs (phases 1 et 2) | Montant | 500,00 | 1 500,00 | 1 000,00 | 3 000,00
-Etat | 35,00 | 25,00 | 20,00 | 80,00
-LA1223 Redynamisation du Conseil des Disciplines pour la sanction des comportements et actes illégaux des magistrats (Phases 1, 2) | Bailleurs | 35,00 | 15,00 | 50,00
-Montant | 70,00 | 40,00 | 20,00 | 130,00
-LA1224 Renforcement des | Etat | 0,00 | 0,00 | 0,00 | 0,00
-capacités humaines et | Bailleurs | 500,00 | 700,00 | 500,00 | 1 700,00
+Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+ |  | LA12110 Organisation des élections municipales, législatives | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs |  | 6 500,00 | 2 500,00 | 9 000,00
+ |  |  | Montant | 0,00 | 6 500,00 | 2 500,00 | 9 000,00
+ |  | LA12118 Participation à l'installation de nouvelles institutions républicaines | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs |  | 700,00 | 150,00 | 850,00
+ |  |  | Montant | 0,00 | 700,00 | 150,00 | 850,00
+ |  | Total Mise en œuvre du processus électoral | Etat | 230,00 | 300,00 | 95,00 | 625,00
+ |  |  | Bailleurs | 30 380,00 | 21 940,00 | 7 110,00 | 59 430,00
+ |  |  | Montant | 30 610,00 | 22 240,00 | 7 205,00 | 60 055,00
+ |  | Total Sous-programme 1.2.1 | Etat | 486,00 | 518,00 | 226,00 | 1 230,00
+ |  |  | Bailleurs | 30 805,00 | 22 660,00 | 7 255,00 | 60 720,00
+ |  |  | Montant | 31 291,00 | 23 178,00 | 7 481,00 | 61 950,00
+ | Sous-programme 1.2.2 : Gouvernance judiciaire | LA1221 Réhabilitation et équipement des bâtiments des Cours d'Appel de Bangui, Bamabari et Bouar, des TGI et brigades de gendarmerie en vue de garantir une sécurité judiciaire aux populations | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 1 000,00 | 2 500,00 | 700,00 | 4 200,00
+ |  |  | Montant | 1 000,00 | 2 500,00 | 700,00 | 4 200,00
+ |  | LA1222 Création des centres de détention pour mineurs (phases 1 et 2) | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 500,00 | 1 500,00 | 1 000,00 | 3 000,00
+ |  |  | Montant | 500,00 | 1 500,00 | 1 000,00 | 3 000,00
+ |  | LA1223 Redynamisation du Conseil des Disciplines pour la sanction des comportements et actes illégaux des magistrats (Phases 1, 2) | Etat | 35,00 | 25,00 | 20,00 | 80,00
+ |  |  | Bailleurs | 35,00 | 15,00 |  | 50,00
+ |  |  | Montant | 70,00 | 40,00 | 20,00 | 130,00
+ |  | LA1224 Renforcement des capacités humaines et | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 500,00 | 700,00 | 500,00 | 1 700,00
 
 67
 
@@ -1954,34 +1975,34 @@ capacités humaines et | Bailleurs | 500,00 | 700,00 | 500,00 | 1 700,00
 
 [[START OF PAGE 68]]
 
-Sous-programme | Actions, Mesures ou | Source de | Programmation
---- | --- | --- | --- | --- | --- | ---
-Programme | Projets | Financement | 2014 | 2015 | 2016 | Total
-matérielles de la Chancellerie et de l'Inspection Générale des Services Judiciaires (Phases 1, 2 et 3) | Montant | 500,00 | 700,00 | 500,00 | 1 700,00
-LA1225 Redéploiement des magistrats et auxiliaires de | Etat | 0,00 | 0,00 | 0,00 | 0,00
-Bailleurs | 500,00 | 600,00 | 700,00 | 1 800,00
-justice (Phase 1) | Montant | 500,00 | 600,00 | 700,00 | 1 800,00
-LA1226 Dotation des juridictions en costume | Etat | 0,00
-Bailleurs | 250,00 | 100,00 | 50,00 | 400,00
-d'audience | Montant | 250,00 | 100,00 | 50,00 | 400,00
-Etat | 0,00
-LA1228 Sécurisation des | Bailleurs | 150,00 | 250,00 | 400,00
-infrastructures judiciaires | Montant | 0,00 | 150,00 | 250,00 | 400,00
-LA1229 Renforcement de la protection des femmes contre les violences sexuelles et basées sur le | Etat | 0,00 | 0,00 | 0,00 | 0,00
-Bailleurs | 15,00 | 50,00 | 100,00 | 165,00
-genre | Montant | 15,00 | 50,00 | 100,00 | 165,00
-LA12210 Vulgarisation du | Etat | 0,00
-code pénal et autre instruments en vue d'aider | Bailleurs | 10,00 | 70,00 | 100,00 | 180,00
-les populations à se protéger et dissuader les hommes en armes à violer les droits des populations | Montant | 10,00 | 70,00 | 100,00 | 180,00
-LA12211 Mise en place des mécanismes d'aide légale | Etat | 0,00
-pour l'accès équitable à la | Bailleurs | 100,00 | 125,00 | 150,00 | 375,00
-justice | Montant | 100,00 | 125,00 | 150,00 | 375,00
-Etat | 0,00
-LA12212 Appui à la mise œuvre des réformes | Bailleurs | 25,00 | 90,00 | 500,00 | 615,00
-judiciaires | Montant | 25,00 | 90,00 | 500,00 | 615,00
-LA12213 Elaboration du code de l'organisation | Etat | 20,85 | 0,00 | 0,00 | 20,85
-Bailleurs | 0,00 | 50,00 | 60,00 | 110,00
-judiciaire | Montant | 20,85 | 50,00 | 60,00 | 130,85
+Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+ |  | matérielles de la Chancellerie et de l'Inspection Générale des Services Judiciaires (Phases 1, 2 et 3) | Montant | 500,00 | 700,00 | 500,00 | 1 700,00
+ |  | LA1225 Redéploiement des magistrats et auxiliaires de justice (Phase 1) | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 500,00 | 600,00 | 700,00 | 1 800,00
+ |  |  | Montant | 500,00 | 600,00 | 700,00 | 1 800,00
+ |  | LA1226 Dotation des juridictions en costume d'audience | Etat |  |  |  | 0,00
+ |  |  | Bailleurs | 250,00 | 100,00 | 50,00 | 400,00
+ |  |  | Montant | 250,00 | 100,00 | 50,00 | 400,00
+ |  | LA1228 Sécurisation des infrastructures judiciaires | Etat |  |  |  | 0,00
+ |  |  | Bailleurs |  | 150,00 | 250,00 | 400,00
+ |  |  | Montant | 0,00 | 150,00 | 250,00 | 400,00
+ |  | LA1229 Renforcement de la protection des femmes contre les violences sexuelles et basées sur le genre | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 15,00 | 50,00 | 100,00 | 165,00
+ |  |  | Montant | 15,00 | 50,00 | 100,00 | 165,00
+ |  | LA12210 Vulgarisation du code pénal et autre instruments en vue d'aider les populations à se protéger et dissuader les hommes en armes à violer les droits des populations | Etat |  |  |  | 0,00
+ |  |  | Bailleurs | 10,00 | 70,00 | 100,00 | 180,00
+ |  |  | Montant | 10,00 | 70,00 | 100,00 | 180,00
+ |  | LA12211 Mise en place des mécanismes d'aide légale pour l'accès équitable à la justice | Etat |  |  |  | 0,00
+ |  |  | Bailleurs | 100,00 | 125,00 | 150,00 | 375,00
+ |  |  | Montant | 100,00 | 125,00 | 150,00 | 375,00
+ |  | LA12212 Appui à la mise œuvre des réformes judiciaires | Etat |  |  |  | 0,00
+ |  |  | Bailleurs | 25,00 | 90,00 | 500,00 | 615,00
+ |  |  | Montant | 25,00 | 90,00 | 500,00 | 615,00
+ |  | LA12213 Elaboration du code de l'organisation judiciaire | Etat | 20,85 | 0,00 | 0,00 | 20,85
+ |  |  | Bailleurs | 0,00 | 50,00 | 60,00 | 110,00
+ |  |  | Montant | 20,85 | 50,00 | 60,00 | 130,85
 
 68
 
@@ -1989,33 +2010,33 @@ judiciaire | Montant | 20,85 | 50,00 | 60,00 | 130,85
 
 [[START OF PAGE 69]]
 
-Programme | Sous-programme | Actions, Mesures ou | Source de | Programmation | Total
---- | --- | --- | --- | --- | ---
-Projets | Financement | 2014 | 2015 | 2016
-LA12214 Spécialisation et formation des magistrats le cadre de l'OHADA pour mieux garantir l'environnement des affaires | Etat | 0,00
-Bailleurs | 50,00 | 180,00 | 230,00
-Montant | 0,00 | 50,00 | 180,00 | 230,00
-LA12215 Renforcement des capacités humaines et matérielles de la Chancellerie et de l'Inspection Générale des Services Judiciaires pour les rendre plus efficaces et plus crédibles | Etat | 30,00 | 0,00 | 0,00 | 30,00
-Bailleurs | 30,00 | 90,00 | 150,00 | 270,00
-Montant | 60,00 | 90,00 | 150,00 | 300,00
-LA12216 Réévaluation à la baisse les frais des actes de justice et contrôler leur application uniforme sur l'intégralité du territoire national | Etat | 5,00 | 0,00 | 0,00 | 5,00
-Bailleurs | 0,00 | 90,00 | 80,00 | 170,00
-Montant | 5,00 | 90,00 | 80,00 | 175,00
-LA12217 Création d'un observatoire indépendant des prisons à composition mixte | Etat | 5,00 | 0,00 | 0,00 | 5,00
-Bailleurs | 0,00 | 50,00 | 160,00 | 210,00
-Montant | 5,00 | 50,00 | 160,00 | 215,00
-LA12218 Réorganisation des services et équipement du Ministère de la Justice LA12219 Formation et | Etat | 0,00 | 0,00
-Bailleurs | 200,00 | 800,00 | 1 000,00
-Montant | 0,00 | 200,00 | 800,00 | 1 000,00
-redéploiement des magistrat et auxiliaires de justice | Etat | 5,00 | 0,00 | 0,00 | 5,00
-Bailleurs | 0,00 | 100,00 | 250,00 | 350,00
-Montant | 5,00 | 100,00 | 250,00 | 355,00
-LA12220 Construction des établissements pénitenciers à travers le territoire | Etat | 0,00
-Bailleurs | 400,00 | 1 150,00 | 1 550,00
-Montant | 0,00 | 400,00 | 1 150,00 | 1 550,00
-Sous-programme 1.2.2 | Etat | 100,85 | 25,00 | 20,00 | 145,85
-Bailleurs | 2 965,00 | 6 930,00 | 6 880,00 | 16 775,00
-Montant | 3 065,85 | 6 955,00 | 6 900,00 | 16 920,85
+Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+ |  | LA12214 Spécialisation et formation des magistrats le cadre de l'OHADA pour mieux garantir l'environnement des affaires | Etat |  |  |  | 0,00
+ |  |  | Bailleurs |  | 50,00 | 180,00 | 230,00
+ |  |  | Montant | 0,00 | 50,00 | 180,00 | 230,00
+ |  | LA12215 Renforcement des capacités humaines et matérielles de la Chancellerie et de l'Inspection Générale des Services Judiciaires pour les rendre plus efficaces et plus crédibles | Etat | 30,00 | 0,00 | 0,00 | 30,00
+ |  |  | Bailleurs | 30,00 | 90,00 | 150,00 | 270,00
+ |  |  | Montant | 60,00 | 90,00 | 150,00 | 300,00
+ |  | LA12216 Réévaluation à la baisse les frais des actes de justice et contrôler leur application uniforme sur l'intégralité du territoire national | Etat | 5,00 | 0,00 | 0,00 | 5,00
+ |  |  | Bailleurs | 0,00 | 90,00 | 80,00 | 170,00
+ |  |  | Montant | 5,00 | 90,00 | 80,00 | 175,00
+ |  | LA12217 Création d'un observatoire indépendant des prisons à composition mixte | Etat | 5,00 | 0,00 | 0,00 | 5,00
+ |  |  | Bailleurs | 0,00 | 50,00 | 160,00 | 210,00
+ |  |  | Montant | 5,00 | 50,00 | 160,00 | 215,00
+ |  | LA12218 Réorganisation des services et équipement du Ministère de la Justice | Etat |  |  | 0,00 | 0,00
+ |  |  | Bailleurs |  | 200,00 | 800,00 | 1 000,00
+ |  |  | Montant | 0,00 | 200,00 | 800,00 | 1 000,00
+ |  | LA12219 Formation et redéploiement des magistrat et auxiliaires de justice | Etat | 5,00 | 0,00 | 0,00 | 5,00
+ |  |  | Bailleurs | 0,00 | 100,00 | 250,00 | 350,00
+ |  |  | Montant | 5,00 | 100,00 | 250,00 | 355,00
+ |  | LA12220 Construction des établissements pénitenciers à travers le territoire | Etat |  |  |  | 0,00
+ |  |  | Bailleurs |  | 400,00 | 1 150,00 | 1 550,00
+ |  |  | Montant | 0,00 | 400,00 | 1 150,00 | 1 550,00
+ |  | Sous-programme 1.2.2 | Etat | 100,85 | 25,00 | 20,00 | 145,85
+ |  |  | Bailleurs | 2 965,00 | 6 930,00 | 6 880,00 | 16 775,00
+ |  |  | Montant | 3 065,85 | 6 955,00 | 6 900,00 | 16 920,85
 
 69
 
@@ -2023,27 +2044,27 @@ Montant | 3 065,85 | 6 955,00 | 6 900,00 | 16 920,85
 
 [[START OF PAGE 70]]
 
-Sous-programme | Actions, Mesures ou | Source de | Programmation
---- | --- | --- | --- | --- | --- | ---
-Programme | Projets | Financement | 2014 | 2015 | 2016 | Total
-Sous-programme 1.2.3 Lutte contre l'impunité | LA1231 Redynamisation des maisons de droit pour permettre aux populations de bénéficier des conseils et informations nécessaires | Etat | 0,00
-Bailleurs | 100,00 | 100,00 | 300,00 | 500,00
-Montant | 100,00 | 100,00 | 300,00 | 500,00
-problèmes LA1232 Interdiction d'amnistie pour les auteurs des crimes de sang et autres exactions contre la population civile (Phases 1, | Etat | 0,00
-Bailleurs | 0,00
-Montant | 0,00 | 0,00 | 0,00 | 0,00
-LA1233 Renforcement des capacités des organisations de défense des droits de l'homme (Phases 1, 2, 3) | Etat | 0,00
-Bailleurs | 150,00 | 350,00 | 100,00 | 600,00
-Montant | 150,00 | 350,00 | 100,00 | 600,00
-LA1234 Renforcement des capacités des acteurs judiciaires et policières sur la détection, la constatation, les techniques d'instruction et la motivation des décisions | Etat | 0,00
-Bailleurs | 50,00 | 100,00 | 200,00 | 350,00
-Montant | 50,00 | 100,00 | 200,00 | 350,00
-judiciaires LA1235 Etablissement d'un plan d'urgence pour la | Etat | 0,00
-protection des mineurs et des femmes | Bailleurs | 10,00 | 60,00 | 70,00
-Montant | 10,00 | 60,00 | 0,00 | 70,00
-LA1236 Création de centre d'information et conseils juridiques pour les populations pour la formalisation des actes de violation dont elles sont victimes et la mise en route des procédures judiciaires | Etat | 0,00
-Bailleurs | 100,00 | 200,00 | 100,00 | 400,00
-Montant | 100,00 | 200,00 | 100,00 | 400,00
+Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+ | Sous-programme 1.2.3 Lutte contre l'impunité | LA1231 Redynamisation des maisons de droit pour permettre aux populations de bénéficier des conseils et informations nécessaires à la résolution de leurs problèmes | Etat |  |  |  | 0,00
+ |  |  | Bailleurs | 100,00 | 100,00 | 300,00 | 500,00
+ |  |  | Montant | 100,00 | 100,00 | 300,00 | 500,00
+ |  | LA1232 Interdiction d'amnistie pour les auteurs des crimes de sang et autres exactions contre la population civile (Phases 1, 2, 3) | Etat |  |  |  | 0,00
+ |  |  | Bailleurs |  |  |  | 0,00
+ |  |  | Montant | 0,00 | 0,00 | 0,00 | 0,00
+ |  | LA1233 Renforcement des capacités des organisations de défense des droits de l'homme (Phases 1, 2, 3) | Etat |  |  |  | 0,00
+ |  |  | Bailleurs | 150,00 | 350,00 | 100,00 | 600,00
+ |  |  | Montant | 150,00 | 350,00 | 100,00 | 600,00
+ |  | LA1234 Renforcement des capacités des acteurs judiciaires et policières sur la détection, la constatation, les techniques d'instruction et la motivation des décisions judiciaires | Etat |  |  |  | 0,00
+ |  |  | Bailleurs | 50,00 | 100,00 | 200,00 | 350,00
+ |  |  | Montant | 50,00 | 100,00 | 200,00 | 350,00
+ |  | LA1235 Etablissement d'un plan d'urgence pour la protection des mineurs et des femmes | Etat |  |  |  | 0,00
+ |  |  | Bailleurs | 10,00 | 60,00 |  | 70,00
+ |  |  | Montant | 10,00 | 60,00 | 0,00 | 70,00
+ |  | LA1236 Création de centre d'information et conseils juridiques pour les populations pour la formalisation des actes de violation dont elles sont victimes et la mise en route des procédures judiciaires | Etat |  |  |  | 0,00
+ |  |  | Bailleurs | 100,00 | 200,00 | 100,00 | 400,00
+ |  |  | Montant | 100,00 | 200,00 | 100,00 | 400,00
 
 70
 
@@ -2051,29 +2072,29 @@ Montant | 100,00 | 200,00 | 100,00 | 400,00
 
 [[START OF PAGE 71]]
 
-Sous-programme | Actions, Mesures ou | Source de | Programmation
---- | --- | --- | --- | --- | --- | ---
-Programme | Projets | Financement | 2014 | 2015 | 2016 | Total
-LA1237 Vulgarisation des nouveaux textes des lois et règlements par leur traduction en sangö et mise en place d'une campagne de sensibilisation pour une meilleure appropriation par | Etat | 0,00
-Bailleurs | 15,00 | 35,00 | 80,00 | 130,00
-Montant | 15,00 | 35,00 | 80,00 | 130,00
-LA1238 Renforcement des capacités de la Commission d'enquête mise en place par le Gouvernement dans la recherche, l'identification et le montage des procédures de poursuite des auteurs des différentes exactions répertoriées | Etat | 0,00
-Bailleurs | 60,00 | 80,00 | 150,00 | 290,00
-Montant | 60,00 | 80,00 | 150,00 | 290,00
-Sous-programme 1.2.3 | Etat | 0,00 | 0,00 | 0,00 | 0,00
-Bailleurs | 485,00 | 925,00 | 930,00 | 2 340,00
-Montant | 485,00 | 925,00 | 930,00 | 2 340,00
-Sous-programme 1.2.4 Lutte contre la corruption | LA1241 Adopter et vulgariser la stratégie nationale de lutte contre la corruption | Etat | 0,00
-Bailleurs | 10,00 | 25,00 | 30,00 | 65,00
-Montant | 10,00 | 25,00 | 30,00 | 65,00
-LA1242 Promouvoir la participation citoyenne à la lutte contre la corruption | Etat | 0,00
-Bailleurs | 20,00 | 35,00 | 70,00 | 125,00
-Montant | 20,00 | 35,00 | 70,00 | 125,00
-LA1243 Rompre avec les pratiques de corruption et éveiller les consciences | Etat | 0,00
-Bailleurs | 35,00 | 35,00 | 70,00
-Montant | 0,00 | 35,00 | 35,00 | 70,00
-LA1244 Rendre l'administration publique | Etat | 0,00
-Bailleurs | 50,00 | 150,00 | 200,00
+Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+ |  | LA1237 Vulgarisation des nouveaux textes des lois et règlements par leur traduction en sangö et mise en place d'une campagne de sensibilisation pour une meilleure appropriation par la population | Etat |  |  |  | 0,00
+ |  |  | Bailleurs | 15,00 | 35,00 | 80,00 | 130,00
+ |  |  | Montant | 15,00 | 35,00 | 80,00 | 130,00
+ |  | LA1238 Renforcement des capacités de la Commission d'enquête mise en place par le Gouvernement dans la recherche, l'identification et le montage des procédures de poursuite des auteurs des différentes exactions répertoriées | Etat |  |  |  | 0,00
+ |  |  | Bailleurs | 60,00 | 80,00 | 150,00 | 290,00
+ |  |  | Montant | 60,00 | 80,00 | 150,00 | 290,00
+ |  | Sous-programme 1.2.3 | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 485,00 | 925,00 | 930,00 | 2 340,00
+ |  |  | Montant | 485,00 | 925,00 | 930,00 | 2 340,00
+ | Sous-programme 1.2.4 Lutte contre la corruption | LA1241 Adopter et vulgariser la stratégie nationale de lutte contre la corruption | Etat |  |  |  | 0,00
+ |  |  | Bailleurs | 10,00 | 25,00 | 30,00 | 65,00
+ |  |  | Montant | 10,00 | 25,00 | 30,00 | 65,00
+ |  | LA1242 Promouvoir la participation citoyenne à la lutte contre la corruption | Etat |  |  |  | 0,00
+ |  |  | Bailleurs | 20,00 | 35,00 | 70,00 | 125,00
+ |  |  | Montant | 20,00 | 35,00 | 70,00 | 125,00
+ |  | LA1243 Rompre avec les pratiques de corruption et éveiller les consciences | Etat |  |  |  | 0,00
+ |  |  | Bailleurs |  | 35,00 | 35,00 | 70,00
+ |  |  | Montant | 0,00 | 35,00 | 35,00 | 70,00
+ |  | LA1244 Rendre l'administration publique | Etat |  |  |  | 0,00
+ |  |  | Bailleurs |  | 50,00 | 150,00 | 200,00
 
 71
 
@@ -2081,28 +2102,28 @@ Bailleurs | 50,00 | 150,00 | 200,00
 
 [[START OF PAGE 72]]
 
-Sous-programme | Actions, Mesures ou | Source de | Programmation
---- | --- | --- | --- | --- | --- | ---
-Projets | Financement | 2014 | 2015 | 2016 | Total
-Programme | attrayante par la motivation des fonctionnaires et agents de l'Etat, dénonciation des pratiques de corruption dans l'administration publique et privée aux niveaux national et décentralisé | Montant | 0,00 | 50,00 | 150,00 | 200,00
-Total Sous-programme 1.2.4 | Etat | 0,00 | 0,00 | 0,00 | 0,00
-Bailleurs | 30,00 | 145,00 | 285,00 | 460,00
-Montant | 30,00 | 145,00 | 285,00 | 460,00
-LA1251 Développer et renforcer les capacités des services de la réconciliation en vue d'une véritable action en faveur de la consolidation de la culture démocratique et la paix | Etat | 0,00 | 0,00 | 0,00 | 0,00
-Bailleurs | 10,00 | 34,75 | 27,80 | 72,55
-Montant | 10,00 | 34,75 | 27,80 | 72,55
-LA1252 Réhabiliter et | Etat | 100,00 | 40,00 | 140,00
-renforcer les équipements | Bailleurs | 40,00 | 250,00 | 150,00 | 440,00
-de Radio Centrafrique pour une couverture totale du territoire | Montant | 40,00 | 350,00 | 190,00 | 580,00
-Sous-programme 1.2.5 : | LA1253 Réhabiliter et | Etat | 75,00 | 52,82 | 127,82
-Réconciliation et | équiper les Radios rurales | Bailleurs | 100,00 | 250,00 | 180,00 | 530,00
-consolidation de | et locales | Montant | 100,00 | 325,00 | 232,82 | 657,82
-la paix | LA1254 Réhabiliter et | Etat | 0,00 | 0,00 | 0 | 0,00
-renforcer les équipements de Télé-Centrafrique pour | Bailleurs | 100,00 | 700,00 | 200,00 | 1 000,00
-une couverture totale du territoire | Montant | 100,00 | 700,00 | 200,00 | 1 000,00
-LA1255 Redynamisation du | Etat | 0,00
-dialogue et social inclusif | Bailleurs | 20,00 | 100,00 | 150,00 | 270,00
-Montant | 20,00 | 100,00 | 150,00 | 270,00
+Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+ |  | attrayante par la motivation des fonctionnaires et agents de l'Etat, dénonciation des pratiques de corruption dans l'administration publique et privée aux niveaux national et décentralisé | Montant | 0,00 | 50,00 | 150,00 | 200,00
+ |  | Total Sous-programme 1.2.4 | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 30,00 | 145,00 | 285,00 | 460,00
+ |  |  | Montant | 30,00 | 145,00 | 285,00 | 460,00
+ | Sous-programme 1.2.5 : Réconciliation et consolidation de la paix | LA1251 Développer et renforcer les capacités des services de la réconciliation en vue d'une véritable action en faveur de la consolidation de la culture démocratique et la paix | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 10,00 | 34,75 | 27,80 | 72,55
+ |  |  | Montant | 10,00 | 34,75 | 27,80 | 72,55
+ |  | LA1252 Réhabiliter et renforcer les équipements de Radio Centrafrique pour une couverture totale du territoire | Etat |  | 100,00 | 40,00 | 140,00
+ |  |  | Bailleurs | 40,00 | 250,00 | 150,00 | 440,00
+ |  |  | Montant | 40,00 | 350,00 | 190,00 | 580,00
+ |  | LA1253 Réhabiliter et équiper les Radios rurales et locales | Etat |  | 75,00 | 52,82 | 127,82
+ |  |  | Bailleurs | 100,00 | 250,00 | 180,00 | 530,00
+ |  |  | Montant | 100,00 | 325,00 | 232,82 | 657,82
+ |  | LA1254 Réhabiliter et renforcer les équipements de Télé-Centrafrique pour une couverture totale du territoire | Etat | 0,00 | 0,00 | 0 | 0,00
+ |  |  | Bailleurs | 100,00 | 700,00 | 200,00 | 1 000,00
+ |  |  | Montant | 100,00 | 700,00 | 200,00 | 1 000,00
+ |  | LA1255 Redynamisation du dialogue et social inclusif | Etat |  |  |  | 0,00
+ |  |  | Bailleurs | 20,00 | 100,00 | 150,00 | 270,00
+ |  |  | Montant | 20,00 | 100,00 | 150,00 | 270,00
 
 72
 
@@ -2110,15 +2131,15 @@ Montant | 20,00 | 100,00 | 150,00 | 270,00
 
 [[START OF PAGE 73]]
 
-Programme | Sous-programme | Actions, Mesures ou | Source de | Programmation | Total
---- | --- | --- | --- | --- | ---
-Projets | Financement | 2014 | 2015 | 2016
-LA1256 Appui à la médiation politique et à la réconciliation | Etat | 0,00 | 0,00 | 0,00 | 0,00
-Bailleurs | 100,00 | 300,00 | 150,00 | 550,00
-Montant | 100,00 | 300,00 | 150,00 | 550,00
-Total Sous-Programme 1.2.5 | Etat | 0,00 | 175,00 | 92,82 | 267,82
-Bailleurs | 370,00 | 1 634,75 | 857,80 | 2 862,55
-Montant | 370,00 | 1 809,75 | 950,62 | 3 130,37
+Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+ |  | LA1256 Appui à la médiation politique et à la réconciliation | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 100,00 | 300,00 | 150,00 | 550,00
+ |  |  | Montant | 100,00 | 300,00 | 150,00 | 550,00
+ |  | Total Sous-Programme 1.2.5 | Etat | 0,00 | 175,00 | 92,82 | 267,82
+ |  |  | Bailleurs | 370,00 | 1 634,75 | 857,80 | 2 862,55
+ |  |  | Montant | 370,00 | 1 809,75 | 950,62 | 3 130,37
 
 73
 
@@ -2136,27 +2157,27 @@ Montant | 370,00 | 1 809,75 | 950,62 | 3 130,37
 
 ### Annexe 3 : Matrice d'actions prioritaires de l'orientation stratégique 2
 
-Actions, Mesures ou | Financement | Programmation
---- | --- | --- | --- | --- | --- | --- | ---
-Programme | Sous-programme | Projets | 2014 | 2015 | 2016 | Total
-OS 2: Renforcement de la Protection civile, rétablissement et réorganisation de l'Administration sur toute l'étendue du territoire
-Programme 2.1 Assistance humanitaire | Sous-programme 2.1.1 Mise en œuvre d'une coordination favorable à l'assistance humanitaire | LA2111 Création d'un Ministère en charge de l'action Humanitaire | Etat | 0,00 | 0,00 | 0,00 | 0,00
-Bailleurs | 150,00 | 50,00 | 0,00 | 200,00
-(Phases 1, 2) | Montant | 150,00 | 50,00 | 0,00 | 200,00
-LA2112 Mise en place de | Etat | 0,00 | 0,00 | 0,00 | 0,00
-dispositifs de protection des Acteurs Humanitaires et d'accès rapide des populations affectées à l'aide humanitaire (Phases | Bailleurs | 1 000,00 | 1 500,00 | 700,00 | 3 200,00
-Montant | 1 000,00 | 1 500,00 | 700,00 | 3 200,00
-2, 3) LA2113 Mise en place d'un mécanisme de | Etat | 100,00 | 150,00 | 70,00 | 320,00
-coordination de la réponse humanitaire entre le Gouvernement et les Acteurs Humanitaires (Phase 2, 3) | Bailleurs | 800,00 | 900,00 | 600,00 | 2 300,00
-Montant | 900,00 | 1 050,00 | 670,00 | 2 620,00
-LA2114 Renforcement des | Etat | 50,00 | 70,00 | 50,00 | 170,00
-capacités du DAD pour le suivi de l'aide humanitaire | Bailleurs | 450,00 | 600,00 | 200,00 | 1 250,00
-et au développement | Montant | 500,00 | 670,00 | 250,00 | 1 420,00
-Etat | 200,00 | 350,00 | 150,00 | 700,00
-LA2115 Evaluation des besoins humanitaires en matière d'infrastructures et de sécurité alimentaire, eau potable, assainissement et hygiène, de santé, d'éducation, de relèvement des communautés vulnérables | Bailleurs | 750,00 | 900,00 | 450,00 | 2 100,00
-Montant | 950,00 | 1 250,00 | 600,00 | 2 800,00
-
 En Millions de FCFA
+
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+OS 2: Renforcement de la Protection civile, rétablissement et réorganisation de l'Administration sur toute l'étendue du territoire |  |  |  |  |  |  |
+Programme 2.1 Assistance humanitaire | Sous-programme 2.1.1 Mise en œuvre d'une coordination favorable à l'assistance humanitaire | LA2111 Création d'un Ministère en charge de l'action Humanitaire (Phases 1, 2) | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 150,00 | 50,00 | 0,00 | 200,00
+ |  |  | Montant | 150,00 | 50,00 | 0,00 | 200,00
+ |  | LA2112 Mise en place de dispositifs de protection des Acteurs Humanitaires et d'accès rapide des populations affectées à l'aide humanitaire (Phases 2, 3) | Etat | 0,00 | 0,00 | 0,00 | 0,00
+ |  |  | Bailleurs | 1 000,00 | 1 500,00 | 700,00 | 3 200,00
+ |  |  | Montant | 1 000,00 | 1 500,00 | 700,00 | 3 200,00
+ |  | LA2113 Mise en place d'un mécanisme de coordination de la réponse humanitaire entre le Gouvernement et les Acteurs Humanitaires (Phase 2, 3) | Etat | 100,00 | 150,00 | 70,00 | 320,00
+ |  |  | Bailleurs | 800,00 | 900,00 | 600,00 | 2 300,00
+ |  |  | Montant | 900,00 | 1 050,00 | 670,00 | 2 620,00
+ |  | LA2114 Renforcement des capacités du DAD pour le suivi de l'aide humanitaire et au développement | Etat | 50,00 | 70,00 | 50,00 | 170,00
+ |  |  | Bailleurs | 450,00 | 600,00 | 200,00 | 1 250,00
+ |  |  | Montant | 500,00 | 670,00 | 250,00 | 1 420,00
+ |  | LA2115 Evaluation des besoins humanitaires en matière d'infrastructures et de sécurité alimentaire, eau potable, assainissement et hygiène, de santé, d'éducation, de relèvement des communautés vulnérables | Etat | 200,00 | 350,00 | 150,00 | 700,00
+ |  |  | Bailleurs | 750,00 | 900,00 | 450,00 | 2 100,00
+ |  |  | Montant | 950,00 | 1 250,00 | 600,00 | 2 800,00
 
 75
 
@@ -2164,9 +2185,9 @@ En Millions de FCFA
 
 [[START OF PAGE 76]]
 
-Actions, Mesures ou | Programmation
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
 --- | --- | --- | --- | --- | --- | --- | ---
-Programme | Sous-programme | Projets | Financement | 2014 | 2015 | 2016 | Total
+ |  |  |  | 2014 | 2015 | 2016 |
 Total Sous-Programme 2.1.1 | Etat | 350,00 | 570,00 | 270,00 | 1 190,00
 Bailleurs | 3 150,00 | 3 950,00 | 1 950,00 | 9 050,00
 Montant | 3 500,00 | 4 520,00 | 2 220,00 | 10 240,00
@@ -2179,21 +2200,21 @@ Nationale (Phases 1 et 2) | Montant | 1 700,00 | 2 750,00 | 3 300,00 | 7 750,00
 LA2123 Renforcement des | Etat | 100,00 | 100,00 | 100,00 | 300,00
 capacités de coordination et de suivi du retour des | Bailleurs | 500,00 | 600,00 | 150,00 | 1 250,00
 déplacés et refugiés | Montant | 600,00 | 700,00 | 250,00 | 1 550,00
-LA2124 - Recensement des | Etat | 350,00 | 250,00 | 0,00 | 600,00
-Sous-programme 2.1.2 Aide au | personnes déplacées internes et réfugiés avec | Bailleurs | 1 000,00 | 1 500,00 | 2 500,00
-retour rapide des des personnes déplacées | l'appui de la communauté internationale (Phases 1, 2, 3) | Montant | 1 350,00 | 1 750,00 | 0,00 | 3 100,00
-internes et | LA2125 Soutien à | Etat | 250,00 | 250,00 | 250,00 | 750,00
-refugiées | l'assistance humanitaire | Bailleurs | 3 500,00 | 10 000,00 | 9 000,00 | 22 500,00
-par la fourniture des kits d'installation | Montant | 3 750,00 | 10 250,00 | 9 250,00 | 23 250,00
+Sous-programme 2.1.2 Aide au retour rapide des personnes déplacées internes et refugiées | LA2124 - Recensement des personnes déplacées internes et réfugiés avec l'appui de la communauté internationale (Phases 1, 2, 3) | Etat | 350,00 | 250,00 | 0,00 | 600,00
+Bailleurs | 1 000,00 | 1 500,00 |  | 2 500,00
+Montant | 1 350,00 | 1 750,00 | 0,00 | 3 100,00
+LA2125 Soutien à l'assistance humanitaire par la fourniture des kits d'installation | Etat | 250,00 | 250,00 | 250,00 | 750,00
+Bailleurs | 3 500,00 | 10 000,00 | 9 000,00 | 22 500,00
+Montant | 3 750,00 | 10 250,00 | 9 250,00 | 23 250,00
 LA2126 Développement | Etat | 500,00 | 700,00 | 400,00 | 1 600,00
 des capacités de résilience | Bailleurs | 25 000,00 | 15 000,00 | 5 000,00 | 45 000,00
 des communautés de base | Montant | 25 500,00 | 15 700,00 | 5 400,00 | 46 600,00
 LA 2127 Construction de | Etat | 0,00 | 0,00 | 0,00 | 0,00
 sites d'accueil pour les | Bailleurs | 2 000,00 | 3 500,00 | 1 500,00 | 7 000,00
 personnes dont les maisons ont été détruites | Montant | 2 000,00 | 3 500,00 | 1 500,00 | 7 000,00
-Etat | 1 485,00 | 1 700,00 | 1 140,00 | 4 325,00
-Total Sous-Programme | Bailleurs | 34 000,00 | 34 000,00 | 19 150,00 | 87 150,00
-2.1.2 | Montant | 35 485,00 | 35 700,00 | 20 290,00 | 91 475,00
+Total Sous-Programme 2.1.2 | Etat | 1 485,00 | 1 700,00 | 1 140,00 | 4 325,00
+Bailleurs | 34 000,00 | 34 000,00 | 19 150,00 | 87 150,00
+Montant | 35 485,00 | 35 700,00 | 20 290,00 | 91 475,00
 
 76
 
@@ -2201,10 +2222,10 @@ Total Sous-Programme | Bailleurs | 34 000,00 | 34 000,00 | 19 150,00 | 87 150,00
 
 [[START OF PAGE 77]]
 
-Sous-programme | Actions, Mesures ou | Programmation
---- | --- | --- | --- | --- | --- | ---
-Projets | Financement | 2014 | 2015 | 2016 | Total
-Programme | En matière de santé
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+En matière de santé
 Sous-programme 2.1.3 Accès aux services sociaux de base (éducation, santé, eau et assainissement) | LA2131 Rééquipement en moyens logistiques des services sanitaires à tous les niveaux pour faciliter le suivi de la remise à niveau d'urgence du système sanitaire | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 2 500,00 | 3 500,00 | 2 000,00 | 8 000,00
 Montant | 2 500,00 | 3 500,00 | 2 000,00 | 8 000,00
@@ -2223,10 +2244,10 @@ médicaments génériques | Montant | 5 650,00 | 7 060,00 | 6 050,00 | 18 760,00
 LA2136 Réhabilitation ou reconstruction des | Etat | 100,00 | 200,00 | 100,00 | 400,00
 Bailleurs | 2 600,00 | 5 500,00 | 2 000,00 | 10 100,00
 formations de santé affectées | Montant | 2 700,00 | 5 700,00 | 2 100,00 | 10 500,00
-LA2137 Réhabilitation et construction des bâtiments | Etat | 100,00 | 100,00 | 100,00 | 300,00
+LA2137 Réhabilitation et construction des bâtiments du PEV | Etat | 100,00 | 100,00 | 100,00 | 300,00
 Bailleurs | 500,00 | 1 000,00 | 500,00 | 2 000,00
-du PEV Total santé | Montant | 600,00 | 1 100,00 | 600,00 | 2 300,00
-Etat | 530,00 | 710,00 | 540,00 | 1 780,00
+Montant | 600,00 | 1 100,00 | 600,00 | 2 300,00
+Total santé | Etat | 530,00 | 710,00 | 540,00 | 1 780,00
 Bailleurs | 17 200,00 | 28 500,00 | 19 700,00 | 65 400,00
 Montant | 17 730,00 | 29 210,00 | 20 240,00 | 67 180,00
 
@@ -2236,9 +2257,9 @@ Montant | 17 730,00 | 29 210,00 | 20 240,00 | 67 180,00
 
 [[START OF PAGE 78]]
 
-Sous-programme | Actions, Mesures ou | Financement | Programmation
---- | --- | --- | --- | --- | ---
-Programme | Projets | 2014 | 2015 | 2016 | Total
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
 En matière d'accès à l'eau potable, à l'assainissement et à l'hygiène
 LA2137 Traitement et fourniture d'eau potable aux populations les plus affectées sur tout le territoire | Etat | 200,00 | 150,00 | 350,00
 Bailleurs | 3 000,00 | 5 000,00 | 8 000,00 | 16 000,00
@@ -2271,35 +2292,35 @@ potabilisation et de distribution d'eau de la SODECA | Montant | 2 500,00 | 4 50
 
 [[START OF PAGE 79]]
 
-Actions, Mesures ou | Programmation
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
 --- | --- | --- | --- | --- | --- | --- | ---
-Programme | Sous-programme | Projets | Financement | 2014 | 2015 | 2016 | Total
+ |  |  |  | 2014 | 2015 | 2016 |
 Total eau potable, assainissement et hygiène | Etat | 0,00 | 200,00 | 150,00 | 350,00
 Bailleurs | 22 300,00 | 31 900,00 | 29 800,00 | 84 000,00
 Montant | 22 300,00 | 32 100,00 | 29 950,00 | 84 350,00
 En matière d'éducation
-LA21315 Réhabilitation des écoles et des bâtiments administratifs et fourniture | Etat | 100,00 | 100,00 | 100,00 | 300,00
+LA21315 Réhabilitation des écoles et des bâtiments administratifs et fourniture tables-bancs et en mobiliers (armoires, bureaux, chaises) sur toute l'étendue du territoire | Etat | 100,00 | 100,00 | 100,00 | 300,00
 Bailleurs | 3 500,00 | 5 000,00 | 2 500,00 | 11 000,00
-tables-bancs et en mobiliers (armoires, bureaux, chaises) sur toute | Montant | 3 600,00 | 5 100,00 | 2 600,00 | 11 300,00
-l'étendue du territoire LA21317 Fournitures de kits scolaires aux | Etat | 180,00 | 200,00 | 200,00 | 580,00
-enseignants et aux élèves | Bailleurs | 3 500,00 | 4 000,00 | 3 000,00 | 10 500,00
-sur tout le territoire | Montant | 3 680,00 | 4 200,00 | 3 200,00 | 11 080,00
+Montant | 3 600,00 | 5 100,00 | 2 600,00 | 11 300,00
+LA21317 Fournitures de kits scolaires aux enseignants et aux élèves sur tout le territoire | Etat | 180,00 | 200,00 | 200,00 | 580,00
+Bailleurs | 3 500,00 | 4 000,00 | 3 000,00 | 10 500,00
+Montant | 3 680,00 | 4 200,00 | 3 200,00 | 11 080,00
 LA21318 Fourniture des établissements et services administratifs en équipements informatiques et bureautiques | Etat | 100,00 | 100,00 | 100,00 | 300,00
 Bailleurs | 3 000,00 | 4 500,00 | 2 700,00 | 10 200,00
 Montant | 3 100,00 | 4 600,00 | 2 800,00 | 10 500,00
-LA21319 Campagne de | Etat | 40,00 | 40,00 | 30,00 | 110,00
+LA21319 Campagne de sensibilisation et mobilisation en faveur du retour à l'école | Etat | 40,00 | 40,00 | 30,00 | 110,00
 Bailleurs | 500,00 | 700,00 | 450,00 | 1 650,00
-sensibilisation et mobilisation en faveur du retour à l'école | Montant | 540,00 | 740,00 | 480,00 | 1 760,00
-Etat | 150,00 | 150,00 | 150,00 | 450,00
-LA213110 Fourniture de cantines scolaires aux établissements les plus | Bailleurs | 2 500,00 | 4 000,00 | 3 500,00 | 10 000,00
-affectés | Montant | 2 650,00 | 4 150,00 | 3 650,00 | 10 450,00
-Etat | 570,00 | 590,00 | 580,00 | 1 740,00
+Montant | 540,00 | 740,00 | 480,00 | 1 760,00
+LA213110 Fourniture de cantines scolaires aux établissements les plus affectés | Etat | 150,00 | 150,00 | 150,00 | 450,00
+Bailleurs | 2 500,00 | 4 000,00 | 3 500,00 | 10 000,00
+Montant | 2 650,00 | 4 150,00 | 3 650,00 | 10 450,00
+Total éducation | Etat | 570,00 | 590,00 | 580,00 | 1 740,00
 Bailleurs | 13 000,00 | 18 200,00 | 12 150,00 | 43 350,00
-Total éducation | 18 790,00
-Montant | 13 570,00 | 12 730,00 | 45 090,00
-En matière | de sécurité | alimentaire
-LA21320 Fournitures des vivres et non vivres aux | Bailleurs | 1 200,00 | 1 500,00 | 800,00 | 3 500,00
-populations vulnérables | Montant | 1 200,00 | 1 500,00 | 800,00 | 3 500,00
+Montant | 13 570,00 | 18 790,00 | 12 730,00 | 45 090,00
+En matière de sécurité alimentaire
+LA21320 Fournitures des vivres et non vivres aux populations vulnérables | Etat | 0,00 | 0,00 | 0,00 | 0,00
+Bailleurs | 1 200,00 | 1 500,00 | 800,00 | 3 500,00
+Montant | 1 200,00 | 1 500,00 | 800,00 | 3 500,00
 
 79
 
@@ -2307,9 +2328,9 @@ populations vulnérables | Montant | 1 200,00 | 1 500,00 | 800,00 | 3 500,00
 
 [[START OF PAGE 80]]
 
-Sous-programme | Actions, Mesures ou | Programmation
---- | --- | --- | --- | --- | --- | ---
-Programme | Projets | Financement | 2014 | 2015 | 2016 | Total
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
 LA21321 Dotation en kits de production afin de redynamiser les organisations à assise communautaire (associations, groupements comité | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 10 000,00 | 8 000,00 | 5 000,00 | 23 000,00
 villageois de développement local) | Montant | 10 000,00 | 8 000,00 | 5 000,00 | 23 000,00
@@ -2341,9 +2362,9 @@ Montant | 34 500,00 | 37 500,00 | 22 700,00 | 94 700,00
 
 [[START OF PAGE 81]]
 
-Actions, Mesures ou | Programmation
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
 --- | --- | --- | --- | --- | --- | --- | ---
-Programme | Sous-programme | Projets | Financement | 2014 | 2015 | 2016 | Total
+ |  |  |  | 2014 | 2015 | 2016 |
 En matière de relèvement communautaire immédiat
 LA21328 Développement de la mobilisation et de la participation communautaire à travers | Etat | 0,00
 Bailleurs | 800,00 | 1 500,00 | 1 000,00 | 3 300,00
@@ -2364,9 +2385,9 @@ Total relèvement communautaire immédiat | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 7 300,00 | 13 000,00 | 8 600,00 | 28 900,00
 Montant | 7 300,00 | 13 000,00 | 8 600,00 | 28 900,00
 En matière de développement du réseau national de communication
-LA21333 Evaluation des besoins d'assistance en | Etat | 0,00
+LA21333 Evaluation des besoins d'assistance en matière de communication, d'information et de | Etat |  |  |  | 0,00
 Bailleurs | 500,00 | 300,00 | 150,00 | 950,00
-matière de communication, | Montant | 500,00 | 300,00 | 150,00 | 950,00
+Montant | 500,00 | 300,00 | 150,00 | 950,00
 
 81
 
@@ -2374,9 +2395,9 @@ matière de communication, | Montant | 500,00 | 300,00 | 150,00 | 950,00
 
 [[START OF PAGE 82]]
 
-Programme | Sous-programme | Actions, Mesures ou | Financement | Programmation | Total
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
 --- | --- | --- | --- | --- | --- | --- | ---
-Projets | 2014 | 2015 | 2016
+ |  |  |  | 2014 | 2015 | 2016 |
 développement des réseaux sociaux
 LA21334 Réhabilitation et extension des radios | Etat | 0,00
 locales | Bailleurs | 1 000,00 | 800,00 | 600,00 | 2 400,00
@@ -2396,9 +2417,9 @@ Montant | 1 650,00 | 2 750,00 | 770,00 | 5 170,00
 LA2212 Protection des personnes vulnérables contre toutes formes de violence et autres violations des droits par l'appui aux ONG de défense des droits de l'homme (Phases 1, 2 et 3) | Etat | 100,00 | 150,00 | 90,00 | 340,00
 Bailleurs | 760,00 | 1 500,00 | 800,00 | 3 060,00
 Montant | 860,00 | 1 650,00 | 890,00 | 3 400,00
-LA2213 Protection des | Etat | 100,00 | 150,00 | 95,00 | 345,00
-droits humains par la création des cellules | Bailleurs | 800,00 | 1 900,00 | 775,00 | 3 475,00
-d'appui aux poursuites | Montant | 900,00 | 2 050,00 | 870,00 | 3 820,00
+LA2213 Protection des droits humains par la création des cellules d'appui aux poursuites judiciaires, campagnes de sensibilisation de civils armés et non armés, etc (Phases 1, 2 et 3). | Etat | 100,00 | 150,00 | 95,00 | 345,00
+Bailleurs | 800,00 | 1 900,00 | 775,00 | 3 475,00
+Montant | 900,00 | 2 050,00 | 870,00 | 3 820,00
 
 82
 
@@ -2406,24 +2427,24 @@ d'appui aux poursuites | Montant | 900,00 | 2 050,00 | 870,00 | 3 820,00
 
 [[START OF PAGE 83]]
 
-Actions, Mesures ou | Financement | Programmation
---- | --- | --- | --- | --- | --- | ---
-Programme | Sous-programme | Projets | 2014 | 2015 | 2016 | Total
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
 LA2214 Protection des civils, personnels et défenseurs des Droits de l'Homme | Etat | 200,00 | 2 500,00 | 150,00 | 2 850,00
 Bailleurs | 800,00 | 1 000,00 | 700,00 | 2 500,00
 Montant | 1 000,00 | 3 500,00 | 850,00 | 5 350,00
-LA2215 Protection du personnel, des locaux, des installations et matériel des organisations internationales et des chancelleries des Etats et | Etat | 0,00 | 0,00 | 0,00
+LA2215 Protection du personnel, des locaux, des installations et matériel des organisations internationales et des chancelleries des Etats et sécurisation des grandes installations du pays | Etat | 0,00 |  | 0,00 | 0,00
 Bailleurs | 800,00 | 1 500,00 | 700,00 | 3 000,00
 Montant | 800,00 | 1 500,00 | 700,00 | 3 000,00
-LA2216 Appui à la protection des civils contre les violations du droit internationale, des Droits de l'Homme, les violences sexuelles, les pillages et les violences confessionnelles | Etat | 0,00 | 0,00 | 0,00
+LA2216 Appui à la protection des civils contre les violations du droit internationale, des Droits de l'Homme, les violences sexuelles, les pillages et les violences confessionnelles | Etat | 0,00 |  | 0,00 | 0,00
 Bailleurs | 1 000,00 | 3 500,00 | 1 500,00 | 6 000,00
 Montant | 1 000,00 | 3 500,00 | 1 500,00 | 6 000,00
 LA2217 Appui à la recherche, l'arrestation des auteurs des violations et leur traduction en justice | Etat | 0,00 | 60,00 | 50,00 | 110,00
 Bailleurs | 1 000,00 | 1 700,00 | 1 000,00 | 3 700,00
 Montant | 1 000,00 | 1 760,00 | 1 050,00 | 3 810,00
-Appui à la | Etat | 0,00 | 166,80 | 0,00 | 166,80
-des cellules | Bailleurs | 900,00 | 1 000,00 | 500,00 | 2 400,00
-poursuites judiciaires | Montant | 900,00 | 1 166,80 | 500,00 | 2 566,80
+LA2218 Appui à la mise en place des cellules d'appui aux poursuites judiciaires | Etat | 0,00 | 166,80 | 0,00 | 166,80
+Bailleurs | 900,00 | 1 000,00 | 500,00 | 2 400,00
+Montant | 900,00 | 1 166,80 | 500,00 | 2 566,80
 LA2219 Construction de centres de secours à travers le pays | Etat | 50,00 | 100,00 | 80,00 | 230,00
 Bailleurs | 1 500,00 | 3 800,00 | 2 500,00 | 7 800,00
 Montant | 1 550,00 | 3 900,00 | 2 580,00 | 8 030,00
@@ -2437,16 +2458,16 @@ Montant | 9 660,00 | 21 776,80 | 9 710,00 | 41 146,80
 
 [[START OF PAGE 84]]
 
-Sous-programme | Actions, Mesures ou | Financement | Programmation
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
 --- | --- | --- | --- | --- | --- | --- | ---
-Projets | 2014 | 2015 | 2016 | Total
-Programme | Sous-programme | LA2221 Renforcement des capacités des ministères impliqués dans le processus électoral (phases 1,2 et 3) | Etat | 25,00 | 25,00 | 0,00 | 50,00
+ |  |  |  | 2014 | 2015 | 2016 |
+Sous-programme 2.2.2 : Administration et services publics | LA2221 Renforcement des capacités des ministères impliqués dans le processus électoral (phases 1,2 et 3) | Etat | 25,00 | 25,00 | 0,00 | 50,00
 Bailleurs | 150,00 | 80,00 | 0,00 | 230,00
 Montant | 175,00 | 105,00 | 0,00 | 280,00
 LA2222 Appui à la décentralisation et redéploiement de l'administration territoriale et des services déconcentrés sur l'ensemble du territoire (phase 1,2) | Etat | 250,00 | 250,00 | 250,00 | 750,00
 Bailleurs | 2 000,00 | 3 500,00 | 1 500,00 | 7 000,00
 Montant | 2 250,00 | 3 750,00 | 1 750,00 | 7 750,00
-Revue-diagnostic des administrations et services publics | Etat | 25,00 | 25,00 | 0,00 | 50,00
+LA2223 Revue-diagnostic des administrations et services publics | Etat | 25,00 | 25,00 | 0,00 | 50,00
 Bailleurs | 150,00 | 300,00 | 75,00 | 525,00
 Montant | 175,00 | 325,00 | 75,00 | 575,00
 LA2224 Redynamisation de l'administration et des | Etat | 15,00 | 50,00 | 25,00 | 90,00
@@ -2465,19 +2486,19 @@ Montant | 300,00 | 250,00 | 90,00 | 640,00
 
 [[START OF PAGE 85]]
 
-Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation | Total
---- | --- | --- | --- | --- | ---
-2014 | 2015 | 2016
-LA2227 Réhabilitation des bâtiments détruits et équipement de l'Administration victime aussi de pillage afin de créer les conditions minimales d'un meilleur service public LA2228 Recycler et perfectionner les agents des services centraux dans le cadre de | Etat | 500,00 | 200,00 | 700,00
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+LA2227 Réhabilitation des bâtiments détruits et équipement de l'Administration victime aussi de pillage afin de créer les conditions minimales d'un meilleur service public | Etat |  | 500,00 | 200,00 | 700,00
 Bailleurs | 1 500,00 | 2 500,00 | 1 000,00 | 5 000,00
 Montant | 1 500,00 | 3 000,00 | 1 200,00 | 5 700,00
-l'administration générale à l'ENAM | Etat | 36,14 | 36,14 | 72,28
+LA2228 Recycler et perfectionner les agents des services centraux dans le cadre de l'administration générale à l'ENAM | Etat |  | 36,14 | 36,14 | 72,28
 Bailleurs | 280 | 500,00 | 300,00 | 1 080,00
 Montant | 280,00 | 536,14 | 336,14 | 1 152,28
 LA2228 Réhabilitation et construction des bureaux des Sous-Préfectures et le Building Administratif | Etat | 625,50 | 625,50 | 0 | 1 251,00
 Bailleurs | 1 000,00 | 1 500,00 | 1 000,00 | 3 500,00
 Montant | 1 625,50 | 2 125,50 | 1 000,00 | 4 751,00
-Etat | 1 040,50 | 1 911,64 | 661,14 | 3 613,28
+Total Sous-programme 2.2.2 | Etat | 1 040,50 | 1 911,64 | 661,14 | 3 613,28
 Bailleurs | 6 280,00 | 10 680,00 | 5 020,00 | 21 980,00
 Montant | 7 320,50 | 12 591,64 | 5 681,14 | 25 593,28
 
@@ -2497,11 +2518,13 @@ Montant | 7 320,50 | 12 591,64 | 5 681,14 | 25 593,28
 
 ### Annexe 4 : Matrice d'actions prioritaires de l'orientation stratégique 3
 
-Sous- | Actions, Mesures ou | Programmation
+En Millions de FCFA
+
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
 --- | --- | --- | --- | --- | --- | --- | ---
-Programme | programme | Projets | Financement | 2014 | 2015 | 2016 | Total
+ |  |  |  | 2014 | 2015 | 2016 |
 #### OS 3 : Relance des activités des secteurs sociaux essentiels, intensification de la lutte contre le Vih-sida et protection de l'environnement
-LA3111 Développement des infrastructures | Etat | 0,00 | 0,00
+LA3111 Développement des infrastructures | Etat |  |  | 0,00 | 0,00
 Bailleurs | 700,00 | 25,00 | 500,00 | 1 225,00
 Montant | 700,00 | 25,00 | 500,00 | 1 225,00
 LA3112 Appui aux enseignants déplacés | Etat | 0,00 | 0,00
@@ -2525,8 +2548,7 @@ Montant | 200,00 | 0,00 | 0,00 | 200,00
 TOTAL Sous- | Etat | 0,00 | 0,00 | 0,00 | 0,00
 programme 3.1.2 | Bailleurs | 445,00 | 175,00 | 800,00 | 1 420,00
 Montant | 445,00 | 175,00 | 800,00 | 1 420,00
-
-En Millions de FCFA
+Sous- | LA3131 Infrastructures | Etat | 0,00 |  |  | 0,00
 
 87
 
@@ -2534,9 +2556,9 @@ En Millions de FCFA
 
 [[START OF PAGE 88]]
 
-Programme | Sous- | Actions, Mesures ou Projets | Financement | Programmation
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
 --- | --- | --- | --- | --- | --- | --- | ---
-programme | 2014 | 2015 | 2016 | Total
+ |  |  |  | 2014 | 2015 | 2016 |
 programme 3.1.3 : Enseignement fondamental 2 et secondaire | et équipements | Bailleurs | 25,00 | 100,00 | 1 000,00 | 1 125,00
 Montant | 25,00 | 100,00 | 1 000,00 | 1 125,00
 LA3132 Appui aux enseignants déplacés | Etat | 0,00
@@ -2548,16 +2570,16 @@ Montant | 100,00 | 0,00 | 0,00 | 100,00
 TOTAL Sous- programme 3.1.3 | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 275,00 | 100,00 | 1 000,00 | 1 375,00
 Montant | 275,00 | 100,00 | 1 000,00 | 1 375,00
-Sous- programme 3.1.4 : Enseignement | Etat | 0,00
-LA3141 Infrastructures et équipements | Bailleurs | 50,00 | 150,00 | 700,00 | 900,00
+Sous-programme 3.1.4 : Enseignement technique et professionnel | LA3141 Infrastructures et équipements | Etat |  |  |  | 0,00
+Bailleurs | 50,00 | 150,00 | 700,00 | 900,00
 Montant | 50,00 | 150,00 | 700,00 | 900,00
-LA3142 Appui aux enseignants déplacés | Etat | 0,00 | 0,00
-Bailleurs | 100,00 | 150,00 | 250,00
+LA3142 Appui aux enseignants déplacés | Etat | 0,00 |  |  | 0,00
+Bailleurs | 100,00 | 150,00 |  | 250,00
 Montant | 100,00 | 150,00 | 0,00 | 250,00
-LA3143 Appui aux élèves déplacés | Etat | 0,00 | 0,00
-technique et | Bailleurs | 50,00 | 200,00 | 250,00
-professionnel | TOTAL Sous- | Montant | 50,00 | 200,00 | 0,00 | 250,00
-Programme 3.1.4 | Etat | 0,00 | 0,00 | 0,00 | 0,00
+LA3143 Appui aux élèves déplacés | Etat | 0,00 |  |  | 0,00
+Bailleurs | 50,00 | 200,00 |  | 250,00
+Montant | 50,00 | 200,00 | 0,00 | 250,00
+TOTAL Sous-Programme 3.1.4 | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 200,00 | 500,00 | 700,00 | 1 400,00
 Montant | 200,00 | 500,00 | 700,00 | 1 400,00
 Programme 3.2 Santé | Sous- programme | LA3211 Réhabilitation et construction de | Etat | 0,00 | 79,17 | 80,78 | 159,95
@@ -2569,17 +2591,17 @@ Bailleurs | 200,00 | 3 298,51 | 5 538,93 | 9 037,43
 
 [[START OF PAGE 89]]
 
-Programme | Sous- | Actions, Mesures ou | Financement | Programmation
---- | --- | --- | --- | --- | --- | ---
-programme | Projets | 2014 | 2015 | 2016 | Total
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
 3.2.1 : Mortalité maternelle et néonatale | structures de santé selon les normes dans le pays et surtout dans les régions les plus pauvres | Montant | 200,00 | 3 377,67 | 5 619,71 | 9 197,38
-LA3212 Equipement des structures sanitaires à tous les niveaux en matériels techniques, médicaments essentiels, vaccins et consommables biomédicaux et chirurgicaux TOTAL Sous- | Etat | 0,00 | 121,17 | 121,17 | 242,35
+LA3212 Equipement des structures sanitaires à tous les niveaux en matériels techniques, médicaments essentiels, vaccins et consommables biomédicaux et chirurgicaux | Etat | 0,00 | 121,17 | 121,17 | 242,35
 Bailleurs | 300,00 | 4 039,14 | 12 117,42 | 16 456,56
 Montant | 300,00 | 4 160,31 | 12 238,59 | 16 698,90
-programme 3.2.1 | Etat | 0,00 | 200,34 | 201,96 | 402,30
+TOTAL Sous-programme 3.2.1 | Etat | 0,00 | 200,34 | 201,96 | 402,30
 Bailleurs | 500,00 | 7 337,65 | 17 656,35 | 25 493,99
 Montant | 500,00 | 7 537,99 | 17 858,30 | 25 896,29
-Sous- programme 3.2.2 : Morbidité et mortalité attribuables aux maladies les plus courantes, les maladies non transmissibles et les situations | LA3231 Amélioration du traitement de paludisme, la prise en charge des cas et la prophylaxie | Etat | 0,00 | 3 263,62 | 0,00 | 3 263,62
+Sous-programme 3.2.2 : Morbidité et mortalité attribuables aux maladies les plus courantes, les maladies non transmissibles et les situations d'urgences | LA3231 Amélioration du traitement de paludisme, la prise en charge des cas et la prophylaxie | Etat | 0,00 | 3 263,62 | 0,00 | 3 263,62
 Bailleurs | 300,00 | 2 758,89 | 8 078,28 | 11 137,17
 Montant | 300,00 | 6 022,52 | 8 078,28 | 14 400,80
 TOTAL Sous- programme 3.2.2 | Etat | 0,00 | 3 263,62 | 0,00 | 3 263,62
@@ -2595,9 +2617,9 @@ Montant | 100,00 | 4 830,00 | 3 412,39 | 8 342,39
 
 [[START OF PAGE 90]]
 
-Programme | Sous- programme | ou Financement | Programmation | Total
---- | --- | --- | --- | --- | --- | ---
-2014 | 2015 | 2016
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
 LA3232 Prévention du paludisme chez les Femmes enceintes par le TPI | Etat | 0,00 | 189,00 | 0,00 | 189,00
 Bailleurs | 1,28 | 188,52 | 1 008,96 | 1 198,76
 Montant | 1,28 | 377,52 | 1 008,96 | 1 387,76
@@ -2613,10 +2635,10 @@ Montant | 50,00 | 570,25 | 798,35 | 1 418,60
 LA3236 Diagnostic du paludisme dans les FOSA et à domicile | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 30,00 | 306,40 | 428,96 | 765,35
 Montant | 30,00 | 306,40 | 428,96 | 765,35
-Etat | 0,00 | 425,00 | 0,00 | 425,00
+LA3237 Renforcement de capacité du PNLP | Etat | 0,00 | 425,00 | 0,00 | 425,00
 Bailleurs | 15,06 | 425,08 | 595,11 | 1 035,24
 Montant | 15,06 | 850,08 | 595,11 | 1 460,24
-Etat | 0,00 | 4 468,00 | 0,00 | 4 468,00
+TOTAL Sous-programme 3.2.3 | Etat | 0,00 | 4 468,00 | 0,00 | 4 468,00
 Bailleurs | 204,92 | 7 092,40 | 10 705,78 | 18 003,10
 Montant | 204,92 | 11 560,40 | 10 705,78 | 22 471,10
 Sous- programme 3.2.4 : Programme Elargi de Vaccination (PEV) | LA3251 Acquisition des vaccins, matériels de chaîne de froid et autres consommables du PEV | Etat | 433,88 | 308,00 | 713,97 | 1 455,86
@@ -2632,31 +2654,31 @@ Montant | 20,00 | 158,59 | 155,31 | 333,89
 
 [[START OF PAGE 91]]
 
-Programme | ou Financement | Programmation | Total
---- | --- | --- | --- | --- | ---
-2014 | 2015 | 2016
-Etat | 0,00 | 0,00 | 0,00
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+LA3253 Campagne de vaccination de masse | Etat |  | 0,00 | 0,00 | 0,00
 Bailleurs | 5,00 | 1 081,86 | 1 980,28 | 3 067,13
 Montant | 5,00 | 1 081,86 | 1 980,28 | 3 067,13
-Etat | 452,40 | 470,16 | 922,57
+LA3254 Réhabilitation et construction des bâtiments du PEV | Etat |  | 452,40 | 470,16 | 922,57
 Bailleurs | 25,00 | 0,00 | 0,00 | 25,00
 Montant | 25,00 | 452,40 | 470,16 | 947,57
-Etat | 433,88 | 871,93 | 1 184,14 | 2 489,95
+TOTAL Sous-programme 3.2.4 | Etat | 433,88 | 871,93 | 1 184,14 | 2 489,95
 Bailleurs | 75,45 | 5 291,90 | 5 587,27 | 10 954,62
 Montant | 509,33 | 6 163,83 | 6 771,41 | 13 444,57
-LA3311 Communication pour le changement de comportement des jeunes hommes et femmes de 15 à 49 ans | Etat | 10,00 | 10,00 | 20,00
+Programme 3.3 VIH et SIDA | Sous-programme 3.3.1 Prévention de la transmission du VIH | LA3311 Communication pour le changement de comportement des jeunes hommes et femmes de 15 à 49 ans | Etat | 10,00 |  | 10,00 | 20,00
 Bailleurs | 90,00 | 220,00 | 315,00 | 625,00
 Montant | 100,00 | 220,00 | 325,00 | 645,00
 LA3312 Subvention des préservatifs masculins et féminins | Etat | 2,00 | 5,00 | 5,00 | 12,00
 Bailleurs | 60,00 | 450,00 | 1 000,00 | 1 510,00
 Montant | 62,00 | 455,00 | 1 005,00 | 1 522,00
-Etat | 0,00 | 660,00 | 0,00 | 660,00
+LA3313 Amélioration de l'offre et la qualité des services de conseils et de dépistage volontaire | Etat | 0,00 | 660,00 | 0,00 | 660,00
 Bailleurs | 100,00 | 400,00 | 1 500,00 | 2 000,00
 Montant | 100,00 | 1 060,00 | 1 500,00 | 2 660,00
-Etat | 12,00 | 665,00 | 15,00 | 692,00
+TOTAL Sous-programme 3.3.1 | Etat | 12,00 | 665,00 | 15,00 | 692,00
 Bailleurs | 250,00 | 1 070,00 | 2 815,00 | 4 135,00
 Montant | 262,00 | 1 735,00 | 2 830,00 | 4 827,00
-Etat | 0,00 | 131,00 | 0,00 | 131,00
+Sous-programme 3.3.2: Renforcement et extension de la PTPE | LA3322 Amélioration de la qualité de l'offre de services de CDV en PTPE | Etat | 0,00 | 131,00 | 0,00 | 131,00
 Bailleurs | 70,00 | 177,25 | 216,25 | 463,50
 Montant | 70,00 | 308,25 | 216,25 | 594,50
 
@@ -2666,10 +2688,10 @@ Montant | 70,00 | 308,25 | 216,25 | 594,50
 
 [[START OF PAGE 92]]
 
-Programme | Sous- | Actions, Mesures ou | Financement | Programmation
---- | --- | --- | --- | --- | --- | ---
-programme | Projets | 2014 | 2015 | 2016 | Total
-LA3323 Intégration du pilier 2 PTPE dans les formations sanitaires | Etat | 58,00 | 0,00 | 58,00
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+LA3323 Intégration du pilier 2 PTPE dans les formations sanitaires | Etat |  | 58,00 | 0,00 | 58,00
 Bailleurs | 15,00 | 90,00 | 105,00 | 210,00
 Montant | 15,00 | 148,00 | 105,00 | 268,00
 TOTAL Sous- programme 3.3.2: | Etat | 0,00 | 189,00 | 0,00 | 189,00
@@ -2681,11 +2703,11 @@ Montant | 90,00 | 8 668,28 | 7 300,00 | 16 058,28
 TOTAL Sous- programme 3.3.3 | Etat | 0,00 | 4 616,00 | 0,00 | 4 616,00
 Bailleurs | 90,00 | 4 052,28 | 7 300,00 | 11 442,28
 Montant | 90,00 | 8 668,28 | 7 300,00 | 16 058,28
-LA3341 Suivi | Etat | 0,00 | 0,00 | 0,00
-Sous- programme 3.3.4 Suivi/évaluation et coordination | évaluation de l'évolution de l'épidémie et de son impact LA3342 Coordination nationale et | Bailleurs
-56,00 | 324,00 | 422,00 | 802,00
-Etat | 0,00 | 975,00 | 0,00 | 975,00
-décentralisée | Bailleurs | 80,00 | 772,00 | 1 458,80 | 2 310,80
+Sous-programme 3.3.4 Suivi/évaluation et coordination | LA3341 Suivi et évaluation de l'évolution de l'épidémie et de son impact | Etat |  | 0,00 | 0,00 | 0,00
+Bailleurs | 56,00 | 324,00 | 422,00 | 802,00
+Montant | 56,00 | 324,00 | 422,00 | 802,00
+LA3342 Coordination nationale et décentralisée | Etat | 0,00 | 975,00 | 0,00 | 975,00
+Bailleurs | 80,00 | 772,00 | 1 458,80 | 2 310,80
 Montant | 80,00 | 1 747,00 | 1 458,80 | 3 285,80
 TOTAL Sous- programme 3.3.4 | Etat | 0,00 | 975,00 | 0,00 | 975,00
 Bailleurs | 136,00 | 1 096,00 | 1 880,80 | 3 112,80
@@ -2700,9 +2722,9 @@ Montant | 50,00 | 200,00 | 350,00 | 600,00
 
 [[START OF PAGE 93]]
 
-Programme | Sous- programme | Actions, Mesures ou Projets | Financement | Programmation | Total
---- | --- | --- | --- | --- | --- | ---
-2014 | 2015 | 2016
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
 LA3412 Lutte contre les IST/VIH en milieu jeune | Etat | 0,00 | 263,00 | 0,00 | 263,00
 Bailleurs | 50,00 | 650,00 | 1 010,00 | 1 710,00
 Montant | 50,00 | 913,00 | 1 010,00 | 1 973,00
@@ -2715,7 +2737,7 @@ Montant | 50,00 | 250,00 | 250,00 | 550,00
 TOTAL Sous- programme 3.4.2 | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 50,00 | 250,00 | 250,00 | 550,00
 Montant | 50,00 | 250,00 | 250,00 | 550,00
-Sous- programme 3.5.1 Renforcement de capacité nationale en matière de gestion et de planification | LA3511 Appui à la mise en place d'un mécanisme de maintenance des ouvrages d'hydraulique et d'assainissement | Etat | 0,00 | 24,23 | 16,16 | 40,39
+Programme 3.5 Eau et assainissement | Sous-programme 3.5.1 Renforcement de capacité nationale en matière de gestion et de planification | LA3511 Appui à la mise en place d'un mécanisme de maintenance des ouvrages d'hydraulique et d'assainissement | Etat | 0,00 | 24,23 | 16,16 | 40,39
 Bailleurs | 100,00 | 105,00 | 218,11 | 423,11
 Montant | 100,00 | 129,23 | 234,27 | 463,50
 TOTAL Sous- programme 3.5.1 | Etat | 0,00 | 24,23 | 16,16 | 40,39
@@ -2731,33 +2753,33 @@ Construction et réhabilitation des ouvrages d'alimentation en eau potable et d'
 
 [[START OF PAGE 94]]
 
-Programme | Sous- | Actions, Mesures ou | Financement | Programmation | Total
---- | --- | --- | --- | --- | --- | ---
-programme | Projets | 2014 | 2015 | 2016
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
 LA3522 réhabilitation et construction des ouvrages d'alimentation en eau et d'assainissement | Etat | 0,00 | 0,00 | 100,00 | 100,00
 Bailleurs | 0,00 | 1 450,00 | 3 200,00 | 4 650,00
 Montant | 0,00 | 1 450,00 | 3 300,00 | 4 750,00
-LA3523 Programme d'eau potable des 3 chefs-lieux des préfectures Bouar et Bossangoa) | Etat | 0,00 | 0,00 | 0,00 | 0,00
+LA3523 Programme d'eau potable des 3 chefs-lieux des préfectures (Berberati, Bouar et Bossangoa) | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 0,00 | 750,00 | 2 190,00 | 2 940,00
-(Berberati, | Montant | 0,00 | 750,00 | 2 190,00 | 2 940,00
+Montant | 0,00 | 750,00 | 2 190,00 | 2 940,00
 LA3524 Projet d'appui au pôle de | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 0,00 | 1 500,00 | 6 000,00 | 7 500,00
 développement, volet Eau et Assainissement | Montant | 0,00 | 1 500,00 | 6 000,00 | 7 500,00
 TOTAL Sous- | Etat | 0,00 | 0,00 | 200,00 | 200,00
 Bailleurs | 50,00 | 4 100,00 | 12 690,00 | 16 840,00
 programme 3.5.2 | Montant | 50,00 | 4 100,00 | 12 890,00 | 17 040,00
-Sous- | LA3611 Participation des femmes aux | Etat | 0,00 | 254,00 | 25,00 | 279,00
-programme | Bailleurs | 15,00 | 250,00 | 414,00 | 679,00
-3.6.1 Mise en œuvre des | instances de négociation et de décision | Montant | 15,00 | 504,00 | 439,00 | 958,00
-réformes et participation au | Etat | 0,00 | 254,00 | 25,00 | 279,00
-processus de | TOTAL Sous- | Bailleurs | 15,00 | 250,00 | 414,00 | 679,00
-consolidation de la paix et de gouvernance | programme 3.6.1 | Montant | 15,00 | 504,00 | 439,00 | 958,00
-démocratique Sous- | LA3621 Mise en place | Etat | 0,00 | 40,39 | 0,00 | 40,39
-programme | d'un dispositif pilote | Bailleurs | 0 | 100,00 | 200,00 | 300,00
-3.6.2 Amélioration de l'accès des | d'assistance juridique et judiciaire aux groupes vulnérables | Montant | 0,00 | 140,39 | 200,00 | 340,39
-groupes | LA3623 Intensification | Etat | 0,00 | 0,00 | 0,00 | 0,00
-vulnérables au droit et à la | de la lutte contre les violences basées sur le | Bailleurs | 50 | 200,00 | 225,00 | 475,00
-justice et intensification | Genre et les droits humains | Montant | 50,00 | 200,00 | 225,00 | 475,00
+Programme 3.6 Genre | Sous-programme 3.6.1 Mise en œuvre des réformes et participation au processus de consolidation de la paix et de gouvernance démocratique | LA3611 Participation des femmes aux instances de négociation et de décision | Etat | 0,00 | 254,00 | 25,00 | 279,00
+Bailleurs | 15,00 | 250,00 | 414,00 | 679,00
+Montant | 15,00 | 504,00 | 439,00 | 958,00
+TOTAL Sous-programme 3.6.1 | Etat | 0,00 | 254,00 | 25,00 | 279,00
+Bailleurs | 15,00 | 250,00 | 414,00 | 679,00
+Montant | 15,00 | 504,00 | 439,00 | 958,00
+Sous-programme 3.6.2 Amélioration de l'accès des groupes vulnérables au droit et à la justice et intensification | LA3621 Mise en place d'un dispositif pilote d'assistance juridique et judiciaire aux groupes vulnérables | Etat | 0,00 | 40,39 | 0,00 | 40,39
+Bailleurs | 0 | 100,00 | 200,00 | 300,00
+Montant | 0,00 | 140,39 | 200,00 | 340,39
+LA3623 Intensification de la lutte contre les violences basées sur le Genre et les droits humains | Etat | 0,00 | 0,00 | 0,00 | 0,00
+Bailleurs | 50 | 200,00 | 225,00 | 475,00
+Montant | 50,00 | 200,00 | 225,00 | 475,00
 
 94
 
@@ -2765,29 +2787,29 @@ justice et intensification | Genre et les droits humains | Montant | 50,00 | 200
 
 [[START OF PAGE 95]]
 
-Programme | Sous- | Actions, Mesures ou | Financement | Programmation | Total
---- | --- | --- | --- | --- | --- | ---
-programme | Projets | 2014 | 2015 | 2016
-de la lutte contre les violences basées sur le genre et | TOTAL Sous- programme 3.6.2 | Etat | 0,00 | 40,39 | 0,00 | 40,39
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+de la lutte contre les violences basées sur le genre et sur la sorcellerie | TOTAL Sous-programme 3.6.2 | Etat | 0,00 | 40,39 | 0,00 | 40,39
 Bailleurs | 50,00 | 300,00 | 425,00 | 775,00
 Montant | 50,00 | 340,39 | 425,00 | 815,39
-sur la sorcellerie Sous- programme 3.7.1 : Mise en place d'un cadre institutionnel et réglementaire incitatif capable de favoriser la création d'emplois décents et | LA3711 Réforme des textes juridiques et | Etat | 0 | 8,08 | 4,04 | 12,12
+Programme 3.7 Emploi et protection sociale | Sous-programme 3.7.1 : Mise en place d'un cadre institutionnel et réglementaire incitatif capable de favoriser la création d'emplois décents et durables | LA3711 Réforme des textes juridiques et institutionnels | Etat | 0 | 8,08 | 4,04 | 12,12
 Bailleurs | 5 | 60,00 | 50,00 | 115,00
-institutionnels | Montant | 5,00 | 68,08 | 54,04 | 127,12
-LA3712 Mise en place des structures d'appuis et d'encadrements des | Etat | 0 | 0,00
-entreprises | Bailleurs | 0 | 70,00 | 400,00 | 470,00
+Montant | 5,00 | 68,08 | 54,04 | 127,12
+LA3712 Mise en place des structures d'appuis et d'encadrements des entreprises | Etat | 0 |  |  | 0,00
+Bailleurs | 0 | 70,00 | 400,00 | 470,00
 Montant | 0,00 | 70,00 | 400,00 | 470,00
-TOTAL Sous- programme 3.7.1 | Etat | 0,00 | 8,08 | 4,04 | 12,12
+TOTAL Sous-programme 3.7.1 | Etat | 0,00 | 8,08 | 4,04 | 12,12
 Bailleurs | 5,00 | 130,00 | 450,00 | 585,00
-durables | Montant | 5,00 | 138,08 | 454,04 | 597,12
-Sous- programme 3.7.2 : Renforcement des institutions de gestion de la politique nationale de l'emploi, de la formation professionnelle et de protection sociale | LA3721 Création/renforcement de capacités des institutions de promotion de l'emploi et de la formation | Etat | 8,08 | 8,08 | 16,16
-professionnelle | Bailleurs | 9,00 | 100,00 | 100,00 | 209,00
+Montant | 5,00 | 138,08 | 454,04 | 597,12
+Sous-programme 3.7.2 : Renforcement des institutions de gestion de la politique nationale de l'emploi, de la formation professionnelle et de protection sociale | LA3721 Création/renforcement de capacités des institutions de promotion de l'emploi et de la formation professionnelle | Etat |  | 8,08 | 8,08 | 16,16
+Bailleurs | 9,00 | 100,00 | 100,00 | 209,00
 Montant | 9,00 | 108,08 | 108,08 | 225,16
-LA3722 Elaboration et mise en œuvre des programmes de formation professionnelle aux besoins du marché de l'emploi TOTAL Sous- | Etat | 8,08 | 8,08 | 16,16
+LA3722 Elaboration et mise en œuvre des programmes de formation professionnelle aux besoins du marché de l'emploi | Etat |  | 8,08 | 8,08 | 16,16
 Bailleurs | 16,00 | 45,00 | 150,00 | 211,00
 Montant | 16,00 | 53,08 | 158,08 | 227,16
-Etat | 0,00
-programme 3.7.2 | Bailleurs | 25,00 | 145,00 | 250,00 | 420,00
+TOTAL Sous-programme 3.7.2 | Etat |  |  |  | 0,00
+Bailleurs | 25,00 | 145,00 | 250,00 | 420,00
 Montant | 25,00 | 145,00 | 250,00 | 420,00
 
 95
@@ -2796,31 +2818,31 @@ Montant | 25,00 | 145,00 | 250,00 | 420,00
 
 [[START OF PAGE 96]]
 
-Programme | Sous- | Actions, Mesures ou | Financement | Programmation
---- | --- | --- | --- | --- | --- | ---
-programme | Projets | 2014 | 2015 | 2016 | Total
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
 Sous- programme 3.7.3 : Mise en place d'un système d'information et de gestion du marché de travail et de la formation professionnelle | LA3731 Mettre en place un dispositif institutionnel de collecte, de traitement et de diffusion des données sur l'emploi et la formation professionnelle | Etat | 0,00 | 40,39 | 28,27 | 68,67
 Bailleurs | 0,00 | 70,00 | 121,17 | 191,17
 Montant | 0,00 | 110,39 | 149,45 | 259,84
 TOTAL Sous- programme 3.7.3 | Etat | 0,00 | 40,39 | 28,27 | 68,67
 Bailleurs | 0,00 | 70,00 | 121,17 | 191,17
 Montant | 0,00 | 110,39 | 149,45 | 259,84
-Programme 3.8 Environnement et changements climatiques | LA3811 | Etat | 0,00
-Développement des | Bailleurs | 0,00 | 60,00 | 121,17 | 181,17
-capacités individuelles | Montant | 0,00 | 60,00 | 121,17 | 181,17
-LA3812 | Etat | 0,00
-Développement des capacités institutionnelles | Bailleurs | 0,00 | 100,00 | 150,00 | 250,00
+Programme 3.8 Environnement et changements climatiques | Sous-programme 3.8.1 : Développement de capacités | LA3811 Développement des capacités individuelles | Etat |  |  |  | 0,00
+Bailleurs | 0,00 | 60,00 | 121,17 | 181,17
+Montant | 0,00 | 60,00 | 121,17 | 181,17
+LA3812 Développement des capacités institutionnelles | Etat |  |  |  | 0,00
+Bailleurs | 0,00 | 100,00 | 150,00 | 250,00
 Montant | 0,00 | 100,00 | 150,00 | 250,00
-LA3813 Elaboration et vulgarisation des textes juridiques règlementant la gestion de | Etat | 0,00
-Bailleurs | 60,00 | 100,00 | 160,00
+LA3813 Elaboration et vulgarisation des textes juridiques règlementant la gestion de l'environnement et les documents de stratégies | Etat |  |  |  | 0,00
+Bailleurs |  | 60,00 | 100,00 | 160,00
 Montant | 0,00 | 60,00 | 100,00 | 160,00
-LA3814 Réalisation des | Etat | 0,00
-Sous- | Etudes d'Impacts | Bailleurs | 0,00 | 300,00 | 400,00 | 700,00
-programme 3.8.1 : Développement de capacités | Environnementales et Sociales de tous les projets de développement | Montant | 0,00 | 300,00 | 400,00 | 700,00
-LA3815 Mise en œuvre | Etat | 0,00
-de la stratégie nationale de | Bailleurs | 0,00 | 50,00 | 200,00 | 250,00
+LA3814 Réalisation des Etudes d'Impacts Environnementales et Sociales de tous les projets de développement | Etat |  |  |  | 0,00
+Bailleurs | 0,00 | 300,00 | 400,00 | 700,00
+Montant | 0,00 | 300,00 | 400,00 | 700,00
+LA3815 Mise en œuvre de la stratégie nationale de communication | Etat |  |  |  | 0,00
+Bailleurs | 0,00 | 50,00 | 200,00 | 250,00
 Montant | 0,00 | 50,00 | 200,00 | 250,00
-TOTAL Sous- programme 3.8.1 | Etat | 0,00 | 0,00 | 0,00 | 0,00
+TOTAL Sous-programme 3.8.1 | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 0,00 | 570,00 | 971,17 | 1 541,17
 Montant | 0,00 | 570,00 | 971,17 | 1 541,17
 
@@ -2830,9 +2852,9 @@ Montant | 0,00 | 570,00 | 971,17 | 1 541,17
 
 [[START OF PAGE 97]]
 
-Programme | Sous- | ou Financement | Programmation
---- | --- | --- | --- | --- | --- | ---
-programme | 2014 | 2015 | 2016 | Total
+Programme | Sous-programme | Actions, Mesures ou Projets | Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
 Sous- programme 3.8.2 : Réhabilitation des sites dégradés | LA3821 Identification et caractérisation des sites dégradés | Etat | 0,00
 Bailleurs | 0,00 | 150,00 | 600,00 | 750,00
 Montant | 0,00 | 150,00 | 600,00 | 750,00
@@ -2868,36 +2890,36 @@ Montant | 0,00 | 294,39 | 1 628,27 | 1 922,67
 
 ### Annexe 5 : Matrice d'actions prioritaires de l'orientation stratégique 4
 
-Sous-programme | Actions, Mesures ou | Source de | Programmation
---- | --- | --- | --- | --- | --- | ---
-Programme | Projets | Financement | 2014 | 2015 | 2016 | Total
+En Millions de FCFA
+
+Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
 #### OS 4 : Poursuite des réformes économiques et financières et promotion d'une croissance vigoureuse et durable
-Programme 4.1 Assistance économique | Sous-programme 4.1.1 Renforcement des capacités des administrations en matière de mise en œuvre et de suivi- évaluation des | LA4111 Décentralisation du dispositif institutionnel de mise en œuvre et de suivi & | Etat | 10,00 | 10,00 | 20,00
-Bailleurs | 0,00
+Programme 4.1 Assistance économique | Sous-programme 4.1.1 Renforcement des capacités des administrations en matière de mise en œuvre et de suivi-évaluation des stratégies de lutte contre la pauvreté | LA4111 Décentralisation du dispositif institutionnel de mise en œuvre et de suivi & évaluation des stratégies de lutte contre la pauvreté à toutes les administrations | Etat |  | 10,00 | 10,00 | 20,00
+Bailleurs |  |  |  | 0,00
 Montant | 0,00 | 10,00 | 10,00 | 20,00
-stratégies de lutte contre la pauvreté | administrations LA4112 Appui au dispositif de mise en œuvre et du suivi- évaluation du DSRP | Etat | 25,00 | 25,00 | 40,00 | 90,00
+LA4112 Appui au dispositif de mise en œuvre et du suivi-évaluation du DSRP | Etat | 25,00 | 25,00 | 40,00 | 90,00
 Bailleurs | 60,00 | 150,00 | 350,00 | 560,00
 Montant | 85,00 | 175,00 | 390,00 | 650,00
 Total Sous-programme 4.1.1 | Etat | 25,00 | 35,00 | 50,00 | 110,00
 Bailleurs | 60,00 | 150,00 | 350,00 | 560,00
 Montant | 85,00 | 185,00 | 400,00 | 670,00
-LA4121 Renforcement du cadre juridique et institutionnel | Etat | 0,00
+Sous-programme 4.1.2 Appui à la Stratégie Nationale de Développement de la Statistique | LA4121 Renforcement du cadre juridique et institutionnel | Etat |  |  |  | 0,00
 Bailleurs | 5,00 | 50,00 | 250,00 | 305,00
 Montant | 5,00 | 50,00 | 250,00 | 305,00
-Sous-programme | LA4122 Développement de la production | Etat | 50,00 | 50,00 | 50,00 | 150,00
+LA4122 Développement de la production statistique | Etat | 50,00 | 50,00 | 50,00 | 150,00
 Bailleurs | 30,00 | 700,00 | 800,00 | 1 530,00
-statistique | Montant | 80,00 | 750,00 | 850,00 | 1 680,00
-LA4123 Promotion de | Etat | 200,00 | 100,00 | 300,00
-4.1.2 Appui à la Stratégie Nationale | l'utilisation des données statistiques et de la | Bailleurs | 10,00 | 100,00 | 200,00 | 310,00
-culture statistique | Montant | 10,00 | 300,00 | 300,00 | 610,00
-de Développement de la Statistique | LA4124 Renforcement | Etat | 0,00
-des capacités en ressources humaines, | Bailleurs | 200,00 | 300,00 | 500,00
+Montant | 80,00 | 750,00 | 850,00 | 1 680,00
+LA4123 Promotion de l'utilisation des données statistiques et de la culture statistique | Etat |  | 200,00 | 100,00 | 300,00
+Bailleurs | 10,00 | 100,00 | 200,00 | 310,00
+Montant | 10,00 | 300,00 | 300,00 | 610,00
+LA4124 Renforcement des capacités en ressources humaines, matérielles et financières | Etat |  |  |  | 0,00
+Bailleurs |  | 200,00 | 300,00 | 500,00
 Montant | 0,00 | 200,00 | 300,00 | 500,00
-Etat | 50,00 | 250,00 | 150,00 | 450,00
-Total Sous-programme 4.1.2 | Bailleurs | 45,00 | 1 050,00 | 1 550,00 | 2 645,00
+Total Sous-programme 4.1.2 | Etat | 50,00 | 250,00 | 150,00 | 450,00
+Bailleurs | 45,00 | 1 050,00 | 1 550,00 | 2 645,00
 Montant | 95,00 | 1 300,00 | 1 700,00 | 3 095,00
-
-En Millions de FCFA
 
 99
 
@@ -2905,29 +2927,29 @@ En Millions de FCFA
 
 [[START OF PAGE 100]]
 
-Actions, Mesures ou | Source de | Programmation | Total
---- | --- | --- | --- | --- | --- | ---
-Programme | Sous-programme | Projets | Financement | 2014 | 2015 | 2016
-Sous-programme 4.1.3 Amélioration de l'efficacité de l'aide en vue d'une grande implication des Partenaires | LA4131 Appui à la coordination de l'aide | Etat | 50,00 | 50,00 | 100,00
+Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement | Programmation |  |  | Total
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2014 | 2015 | 2016 |
+Sous-programme 4.1.3 Amélioration de l'efficacité de l'aide en vue d'une grande implication des Partenaires | LA4131 Appui à la coordination de l'aide | Etat |  | 50,00 | 50,00 | 100,00
 Bailleurs | 10,00 | 100,00 | 90,00 | 200,00
 Montant | 10,00 | 150,00 | 140,00 | 300,00
-LA4132 Sensibilisation des acteurs engagés dans la reconstruction et le développement sur leurs rôles et responsabilités pour une meilleure implication de tous | Etat | 5,00 | 5,00 | 10,00
+LA4132 Sensibilisation des acteurs engagés dans la reconstruction et le développement sur leurs rôles et responsabilités pour une meilleure implication de tous | Etat | 5,00 | 5,00 |  | 10,00
 Bailleurs | 7,00 | 75,00 | 100,00 | 182,00
 Montant | 12,00 | 80,00 | 100,00 | 192,00
-LA4133 Coordination des acteurs et des activités pour optimiser l'utilisation des ressources, renforcer | Etat | 5,00 | 10,00 | 15,00
-Bailleurs | 30,00 | 45,00 | 75,00
+LA4133 Coordination des acteurs et des activités pour optimiser l'utilisation des ressources, renforcer l'efficacité et le bon fonctionnement | Etat | 5,00 | 10,00 |  | 15,00
+Bailleurs |  | 30,00 | 45,00 | 75,00
 Montant | 5,00 | 40,00 | 45,00 | 90,00
-LA4134 Promotion de la transparence et des échanges d'information en vue de renforcer la confiance entre les différents acteurs locaux, nationaux et internationaux Total Sous-programme | Etat | 5,00 | 3,00 | 8,00
+LA4134 Promotion de la transparence et des échanges d'information en vue de renforcer la confiance entre les différents acteurs locaux, nationaux et internationaux | Etat |  | 5,00 | 3,00 | 8,00
 Bailleurs | 10,00 | 40,00 | 60,00 | 110,00
 Montant | 10,00 | 45,00 | 63,00 | 118,00
-Etat | 10,00 | 70,00 | 53,00 | 133,00
-4.1.3 | Bailleurs | 27,00 | 245,00 | 295,00 | 567,00
+Total Sous-programme 4.1.3 | Etat | 10,00 | 70,00 | 53,00 | 133,00
+Bailleurs | 27,00 | 245,00 | 295,00 | 567,00
 Montant | 37,00 | 315,00 | 348,00 | 700,00
-Sous-programme 4.1.4 Relance des secteurs productifs et création d'emplois | LA4141 Etat des lieux de toutes les unités de production détruites ou | Etat | 0,00
+Sous-programme 4.1.4 Relance des secteurs productifs et création d'emplois | LA4141 Etat des lieux de toutes les unités de production détruites ou endommagées | Etat |  |  |  | 0,00
 Bailleurs | 25,00 | 100,00 | 25,00 | 150,00
 Montant | 25,00 | 100,00 | 25,00 | 150,00
-endommagées LA4142 Mesures d'incitations fiscales et d'accompagnement à la relance des activités dans les différents secteurs | Etat | 5 000,00 | 20 000,00 | 35 000,00 | 60 000,00
-Bailleurs | 15 000,00 | 10 000,00 | 25 000,00
+LA4142 Mesures d'incitations fiscales et d'accompagnement à la relance des activités dans les différents secteurs | Etat | 5 000,00 | 20 000,00 | 35 000,00 | 60 000,00
+Bailleurs |  | 15 000,00 | 10 000,00 | 25 000,00
 Montant | 5 000,00 | 35 000,00 | 45 000,00 | 85 000,00
 
 100
@@ -2936,27 +2958,27 @@ Montant | 5 000,00 | 35 000,00 | 45 000,00 | 85 000,00
 
 [[START OF PAGE 101]]
 
-Sous-programme | Actions, Mesures ou | Source de | Programmation | Total
---- | --- | --- | --- | --- | --- | ---
-Projets | Financement | 2014 | 2015 | 2016
-Programme | LA4146 Appui au secteur privé pour la création | Etat | 0,00
-Bailleurs | 1 000,00 | 2 500,00 | 3 500,00
-d'emplois | Montant | 0,00 | 1 000,00 | 2 500,00 | 3 500,00
-Total Sous-programme | Etat | 5 000,00 | 20 000,00 | 35 000,00 | 60 000,00
+Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement | Programmation | Total
+--- | --- | --- | --- | --- | ---
+2014 | 2015 | 2016
+LA4146 Appui au secteur privé pour la création d'emplois | Etat |  |  |  | 0,00
+Bailleurs |  | 1 000,00 | 2 500,00 | 3 500,00
+Montant | 0,00 | 1 000,00 | 2 500,00 | 3 500,00
+Total Sous-programme 4.1.4 | Etat | 5 000,00 | 20 000,00 | 35 000,00 | 60 000,00
 Bailleurs | 25,00 | 16 100,00 | 12 525,00 | 28 650,00
-4.1.4 | Montant | 5 025,00 | 36 100,00 | 47 525,00 | 88 650,00
-LA4151 Paiement des | Etat | 0,00
-salaires, bourses, | Bailleurs | 27 000,00 | 25 000,00 | 16 000,00 | 68 000,00
-pensions et frais de vacations afin de limiter les risques éventuels d'explosion sociale | Montant | 27 000,00 | 25 000,00 | 16 000,00 | 68 000,00
-LA4152 Prise en charge | Etat | 0,00
-des dépenses de sécurité | Bailleurs | 100,00 | 700,00 | 1 000,00 | 1 800,00
-et des Primes Globales d'Alimentation (cantonnement des ex- combattants, redéploiement des FDS (FACA, Gendarmerie et Police) | Montant | 100,00 | 700,00 | 1 000,00 | 1 800,00
-LA4153 Prise en charge | Etat | 0,00
-Sous-programme | du fonctionnement et de | Bailleurs | 50,00 | 150,00 | 150,00 | 350,00
-4.1.5 Aide budgétaire d'urgence | l'équipement des Organes de Transition (CNT et Cour Constitutionnelle de Transition) | Montant | 50,00 | 150,00 | 150,00 | 350,00
-Etat | 0,00
-LA4154 Apurement d'une partie de la dette commerciale des entreprises nationales et étrangères victimes des actes de vandalisme en | Bailleurs | 30,00 | 50,00 | 80,00
-vue de relancer le plus rapidement le secteur productif et préserver les emplois existants | Montant | 30,00 | 50,00 | 0,00 | 80,00
+Montant | 5 025,00 | 36 100,00 | 47 525,00 | 88 650,00
+Sous-programme 4.1.5 Aide budgétaire d'urgence | LA4151 Paiement des salaires, bourses, pensions et frais de vacations afin de limiter les risques éventuels d'explosion sociale | Etat |  |  |  | 0,00
+Bailleurs | 27 000,00 | 25 000,00 | 16 000,00 | 68 000,00
+Montant | 27 000,00 | 25 000,00 | 16 000,00 | 68 000,00
+LA4152 Prise en charge des dépenses de sécurité et des Primes Globales d'Alimentation (cantonnement des ex-combattants, redéploiement des FDS (FACA, Gendarmerie et Police) | Etat |  |  |  | 0,00
+Bailleurs | 100,00 | 700,00 | 1 000,00 | 1 800,00
+Montant | 100,00 | 700,00 | 1 000,00 | 1 800,00
+LA4153 Prise en charge du fonctionnement et de l'équipement des Organes de Transition (CNT et Cour Constitutionnelle de Transition) | Etat |  |  |  | 0,00
+Bailleurs | 50,00 | 150,00 | 150,00 | 350,00
+Montant | 50,00 | 150,00 | 150,00 | 350,00
+LA4154 Apurement d'une partie de la dette commerciale des entreprises nationales et étrangères victimes des actes de vandalisme en vue de relancer le plus rapidement le secteur productif et préserver les emplois existants | Etat |  |  |  | 0,00
+Bailleurs | 30,00 | 50,00 |  | 80,00
+Montant | 30,00 | 50,00 | 0,00 | 80,00
 
 101
 
@@ -2970,29 +2992,30 @@ Programme | Sous-programme | Actions, Mesures ou Projets | Source de Financement
 Total Sous-programme 4.1.5 | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 27 180,00 | 25 900,00 | 17 150,00 | 70 230,00
 Montant | 27 180,00 | 25 900,00 | 17 150,00 | 70 230,00
-Evaluation conjointe des dommages subis par les entreprises privées (Phases 1, 2, 3) | Etat | 10,00 | 15,00 | 25,00
-Bailleurs | 30,00 | 100,00 | 130,00
+Programme 4.2: Amélioration de l'environnement des affaires | Sous-programme 4.2.1 Renforcement du cadre global des affaires | Evaluation conjointe des dommages subis par les entreprises privées (Phases 1, 2, 3) | Etat |  | 10,00 | 15,00 | 25,00
+Bailleurs | 30,00 | 100,00 |  | 130,00
 Montant | 30,00 | 110,00 | 15,00 | 155,00
-Mise en place des mesures d'accompagnement | Etat | 10,00 | 15,00 | 25,00
-Bailleurs | 10 000,00 | 12 000,00 | 22 000,00
-des entreprises sinistrées (Phases 2, 3) | Montant | 0,00 | 10 010,00 | 12 015,00 | 22 025,00
-LA4211 Elaborer et mettre en œuvre la stratégie nationale d'exportation | Etat | 10,00 | 15,00 | 25,00
+Mise en place des mesures d'accompagnement des entreprises sinistrées (Phases 2, 3) | Etat |  | 10,00 | 15,00 | 25,00
+Bailleurs |  | 10 000,00 | 12 000,00 | 22 000,00
+Montant | 0,00 | 10 010,00 | 12 015,00 | 22 025,00
+LA4211 Elaborer et mettre en œuvre la stratégie nationale d'exportation | Etat |  | 10,00 | 15,00 | 25,00
 Bailleurs | 30,00 | 100,00 | 500,00 | 630,00
 Montant | 30,00 | 110,00 | 515,00 | 655,00
-LA4214 Renforcer Les capacités du Guichet Unique de Formalités des Entreprises | Etat | 0,00
-Bailleurs | 200,00 | 300,00 | 500,00
+LA4214 Renforcer Les capacités du Guichet Unique de Formalités des Entreprises | Etat |  |  |  | 0,00
+Bailleurs |  | 200,00 | 300,00 | 500,00
 Montant | 0,00 | 200,00 | 300,00 | 500,00
-LA4.2.1.5 Elaborer et mettre en œuvre un nouveau cadre juridique relatif aux activités commerciales, industrielles et de prestation de service | Etat | 0,00
-Bailleurs | 60,00 | 100,00 | 160,00
+LA4.2.1.5 Elaborer et mettre en œuvre un nouveau cadre juridique relatif aux activités commerciales, industrielles et de prestation de service | Etat |  |  |  | 0,00
+Bailleurs |  | 60,00 | 100,00 | 160,00
 Montant | 0,00 | 60,00 | 100,00 | 160,00
 Total Sous-programme 4.2.1 | Etat | 0,00 | 30,00 | 45,00 | 75,00
 Bailleurs | 60,00 | 10 460,00 | 12 900,00 | 23 420,00
-LA4221 Redynamiser la Chambre de Commerce | Etat | 0,00
-Bailleurs | 125,00 | 160,00 | 285,00
+Montant | 60,00 | 10 490,00 | 12 945,00 | 23 495,00
+Sous-programme 4.2.2 Partenariat Public/privé | LA4221 Redynamiser la Chambre de Commerce | Etat |  |  |  | 0,00
+Bailleurs |  | 125,00 | 160,00 | 285,00
 Montant | 0,00 | 125,00 | 160,00 | 285,00
-LA4222 Renforcement des Capacités de la Chambre d'Agriculture, | Etat | 0,00
-Bailleurs | 100 | 225 | 325,00
-d'Elevage, Eaux, Forêts, Pêche, Chasses et du Tourisme | Montant | 0,00 | 100,00 | 225,00 | 325,00
+LA4222 Renforcement des Capacités de la Chambre d'Agriculture, d'Elevage, Eaux, Forêts, Pêche, Chasses et du Tourisme | Etat |  |  |  | 0,00
+Bailleurs |  | 100 | 225 | 325,00
+Montant | 0,00 | 100,00 | 225,00 | 325,00
 
 102
 
@@ -3040,27 +3063,27 @@ Programme | Sous-programme | Projets | Financement | 2014 | 2015 | 2016 | Total
 Total Sous-programme 4.2.3 | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 45,00 | 400,00 | 960,00 | 1 405,00
 Montant | 45,00 | 400,00 | 960,00 | 1 405,00
-LA4241 Créer une agence d'appui aux entreprises et de promotion des investissements (Maison | Etat | 0,00
-Bailleurs | 300,00 | 800,00 | 1 100,00
+Sous-programme 4.2.4 Amélioration du dispositif de promotion et d'appui au secteur privé | LA4241 Créer une agence d'appui aux entreprises et de promotion des investissements (Maison de l'entreprise) | Etat |  |  |  | 0,00
+Bailleurs |  | 300,00 | 800,00 | 1 100,00
 Montant | 0,00 | 300,00 | 800,00 | 1 100,00
-LA4242 Mettre en place un Centre de Promotion des PME | Etat | 0,00
-Sous-programme | Bailleurs | 20,00 | 160,00 | 300,00 | 480,00
+LA4242 Mettre en place un Centre de Promotion des PME | Etat |  |  |  | 0,00
+Bailleurs | 20,00 | 160,00 | 300,00 | 480,00
 Montant | 20,00 | 160,00 | 300,00 | 480,00
-4.2.4 Amélioration du | Etat | 0,00
-dispositif de promotion et d'appui | LA4243 Mettre en place le Centre de Promotion d'exportation | Bailleurs | 10,00 | 120,00 | 300,00 | 430,00
-au secteur privé | Montant | 10,00 | 120,00 | 300,00 | 430,00
-LA4244 Appuyer le Centre de certification des produits à l'exportation | Etat | 0,00
-Bailleurs | 115,00 | 300,00 | 415,00
+LA4243 Mettre en place le Centre de Promotion d'exportation | Etat |  |  |  | 0,00
+Bailleurs | 10,00 | 120,00 | 300,00 | 430,00
+Montant | 10,00 | 120,00 | 300,00 | 430,00
+LA4244 Appuyer le Centre de certification des produits à l'exportation | Etat |  |  |  | 0,00
+Bailleurs |  | 115,00 | 300,00 | 415,00
 Montant | 0,00 | 115,00 | 300,00 | 415,00
 Total Sous-programme 4.2.4 | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 30,00 | 695,00 | 1 700,00 | 2 425,00
 Montant | 30,00 | 695,00 | 1 700,00 | 2 425,00
-LA4311 Relance du programme de la stratégie de croissance accélérée | Etat | 0,00
-Bailleurs | 700,00 | 600,00 | 1 300,00
+Programme 4.3 : Promotion de la croissance | Sous-programme 4.3.1: Promotion des grappes de croissance | LA4311 Relance du programme de la stratégie de croissance accélérée | Etat |  |  |  | 0,00
+Bailleurs |  | 700,00 | 600,00 | 1 300,00
 Montant | 0,00 | 700,00 | 600,00 | 1 300,00
-LA4312 Promotion des secteurs générateurs d'emplois tels que l'agriculture, la forêt et | Etat | 0,00
-Programme 4.3 Promotion de | : Sous-programme | Bailleurs | 50,00 | 150,00 | 600,00 | 800,00
-croissance | la 4.3.1: Promotion des grappes de croissance | Montant | 50,00 | 150,00 | 600,00 | 800,00
+LA4312 Promotion des secteurs générateurs d'emplois tels que l'agriculture, la forêt et les mines | Etat |  |  |  | 0,00
+Bailleurs | 50,00 | 150,00 | 600,00 | 800,00
+Montant | 50,00 | 150,00 | 600,00 | 800,00
 Total Sous-programme 4.3.1 | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 50,00 | 850,00 | 1 200,00 | 2 100,00
 Montant | 50,00 | 850,00 | 1 200,00 | 2 100,00
@@ -3074,34 +3097,35 @@ Montant | 50,00 | 850,00 | 1 200,00 | 2 100,00
 Sous-programme | Actions, Mesures ou | Source de | Programmation
 --- | --- | --- | --- | --- | --- | ---
 Programme | Projets | Financement | 2014 | 2015 | 2016 | Total
+Sous-programme 4.3.2: Agriculture et développement rural
 Développement des filières végétales
-LA4321 Développement des filières végétales | Etat | 0,00
+LA4321 Développement des filières végétales | Etat |  |  |  | 0,00
 Bailleurs | 200,00 | 14 164,50 | 20 235,00 | 34 599,50
 Montant | 200,00 | 14 164,50 | 20 235,00 | 34 599,50
-LA4322 Développement des filières d'exportation | Etat | 0,00
+LA4322 Développement des filières d'exportation | Etat |  |  |  | 0,00
 Bailleurs | 300,00 | 11 267,20 | 16 096,00 | 27 663,20
 Montant | 300,00 | 11 267,20 | 16 096,00 | 27 663,20
-Etat | 0,00
-LA4323 Infrastructures de gestion de l'eau et désenclavement | Bailleurs | 500,00 | 6 212,50 | 8 875,00 | 15 587,50
+LA4323 Infrastructures de gestion de l'eau et désenclavement | Etat |  |  |  | 0,00
+Bailleurs | 500,00 | 6 212,50 | 8 875,00 | 15 587,50
 Montant | 500,00 | 6 212,50 | 8 875,00 | 15 587,50
-LA4324 | Etat | 0,00
-Approvisionnement des producteurs en intrants et matériels agricoles et d'élevage | Bailleurs | 100,00 | 1 400,00 | 2 000,00 | 3 500,00
+LA4324 Approvisionnement des producteurs en intrants et matériels agricoles et d'élevage | Etat |  |  |  | 0,00
+Bailleurs | 100,00 | 1 400,00 | 2 000,00 | 3 500,00
 Montant | 100,00 | 1 400,00 | 2 000,00 | 3 500,00
-Sous-programme | Total Développement | Etat | 0,00 | 0,00 | 0,00 | 0,00
-4.3.2: Agriculture et développement rural | filières végétales | Bailleurs | 1 100,00 | 33 044,20 | 47 206,00 | 81 350,20
+Total Développement des filières végétales | Etat | 0,00 | 0,00 | 0,00 | 0,00
+Bailleurs | 1 100,00 | 33 044,20 | 47 206,00 | 81 350,20
 Montant | 1 100,00 | 33 044,20 | 47 206,00 | 81 350,20
 Développement des filières animales
-LA4325 Développement | Etat | 0,00
-l'élevage à cycle | Bailleurs | 50,00 | 1 715,00 | 2 450,00 | 4 215,00
-du gros bétail | Montant | 50,00 | 1 715,00 | 2 450,00 | 4 215,00
-LA4326 Elaboration et diffusion des pratiques Agricoles durable | Etat | 0,00
+LA4325 Développement de l'élevage à cycle court et du gros bétail | Etat |  |  |  | 0,00
+Bailleurs | 50,00 | 1 715,00 | 2 450,00 | 4 215,00
+Montant | 50,00 | 1 715,00 | 2 450,00 | 4 215,00
+LA4326 Elaboration et diffusion des pratiques Agricoles durable | Etat |  |  |  | 0,00
 Bailleurs | 153,00 | 1 407,00 | 2 010,00 | 3 570,00
 Montant | 153,00 | 1 407,00 | 2 010,00 | 3 570,00
-LA4327 Développement de l'élevage traditionnel | Etat | 0,00
-Bailleurs | 6 825,00 | 9 750,00 | 16 575,00
+LA4327 Développement de l'élevage traditionnel | Etat |  |  |  | 0,00
+Bailleurs |  | 6 825,00 | 9 750,00 | 16 575,00
 Montant | 0,00 | 6 825,00 | 9 750,00 | 16 575,00
-Etat | 0,00
-LA4328 Développement de filière d'élevages commerciaux | Bailleurs | 500,00 | 5 506,50 | 7 695,00 | 13 701,50
+LA4328 Développement de filière d'élevages commerciaux | Etat |  |  |  | 0,00
+Bailleurs | 500,00 | 5 506,50 | 7 695,00 | 13 701,50
 Montant | 500,00 | 5 506,50 | 7 695,00 | 13 701,50
 
 105
@@ -3120,27 +3144,26 @@ Total Développement des filières animales | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 793,00 | 18 342,75 | 26 032,50 | 45 168,25
 Montant | 793,00 | 18 342,75 | 26 032,50 | 45 168,25
 Sécurité Alimentaire, Nutrition et actions transversales
-LA43210 Mise en œuvre du cadre d'accélération de l'OMD 1 C | Etat | 0,00
+LA43210 Mise en œuvre du cadre d'accélération de l'OMD 1 C | Etat |  |  |  | 0,00
 Bailleurs | 25,00 | 250,00 | 400,00 | 675,00
 Montant | 25,00 | 250,00 | 400,00 | 675,00
 LA4342 Prévention et gestion des crises alimentaires | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 290,00 | 1 925,00 | 2 750,00 | 4 965,00
 Montant | 290,00 | 1 925,00 | 2 750,00 | 4 965,00
-LA43211 Amélioration de la nutrition des populations LA43212 Renforcement des infrastructures communautaires de base LA43213 Gestion | Etat | 0,00 | 0,00 | 0,00 | 0,00
+LA43211 Amélioration de la nutrition des populations | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 193,65 | 1 101,10 | 1 573,00 | 2 867,75
 Montant | 193,65 | 1 101,10 | 1 573,00 | 2 867,75
-Etat | 0,00 | 0,00 | 0,00 | 0,00
+LA43212 Renforcement des infrastructures communautaires de base | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 500,00 | 12 577,25 | 17 967,50 | 31 044,75
-concertée des ressources | Montant | 500,00 | 12 577,25 | 17 967,50 | 31 044,75
-Etat | 0,00 | 0,00 | 0,00 | 0,00
-naturelles | Bailleurs | 282,60 | 659,40 | 942,00 | 1 884,00
-LA43214 Programme | Montant | 282,60 | 659,40 | 942,00 | 1 884,00
-Etat | 60,00 | 140,00 | 200,00 | 400,00
-national de sécurité alimentaire
+Montant | 500,00 | 12 577,25 | 17 967,50 | 31 044,75
+LA43213 Gestion concertée des ressources naturelles | Etat | 0,00 | 0,00 | 0,00 | 0,00
+Bailleurs | 282,60 | 659,40 | 942,00 | 1 884,00
+Montant | 282,60 | 659,40 | 942,00 | 1 884,00
+LA43214 Programme national de sécurité alimentaire | Etat | 60,00 | 140,00 | 200,00 | 400,00
 Bailleurs | 540,00 | 1 260,00 | 1 800,00 | 3 600,00
 Montant | 600,00 | 1 400,00 | 2 000,00 | 4 000,00
-LA43215 Suivi de la | Etat | 15,00 | 35,00 | 50,00 | 100,00
-vulnérabilité et de la sécurité alimentaire | Bailleurs | 18,00 | 325,50 | 465,00 | 808,50
+LA43215 Suivi de la vulnérabilité et de la sécurité alimentaire | Etat | 15,00 | 35,00 | 50,00 | 100,00
+Bailleurs | 18,00 | 325,50 | 465,00 | 808,50
 Montant | 33,00 | 360,50 | 515,00 | 908,50
 
 106
@@ -3152,9 +3175,9 @@ Montant | 33,00 | 360,50 | 515,00 | 908,50
 Actions, Mesures ou | Source de | Programmation | Total
 --- | --- | --- | --- | --- | ---
 Programme | Projets | Financement | 2014 | 2015 | 2016
-Sous-programme | LA43216 Construction des magasins de | Etat | 0,00
-Bailleurs | 540,00 | 1 500,00 | 2 040,00
-stockage | Montant | 0,00 | 540,00 | 1 500,00 | 2 040,00
+LA43216 Construction des magasins de stockage | Etat |  |  |  | 0,00
+Bailleurs |  | 540,00 | 1 500,00 | 2 040,00
+Montant | 0,00 | 540,00 | 1 500,00 | 2 040,00
 Etat | 0,00
 LA43217 Construction | Bailleurs | 1 500,00 | 1 500,00 | 3 000,00
 des abattoirs | Montant | 0,00 | 1 500,00 | 1 500,00 | 3 000,00
@@ -3181,9 +3204,8 @@ technologies améliorées | Montant | 354,75 | 5 677,35 | 8 110,50 | 14 142,60
 Etat | 50,25 | 117,25 | 167,50 | 335,00
 LA43222 Amélioration du | Bailleurs | 2 575,30 | 3 679,00 | 6 254,30
 conseil agricole et rural | Montant | 50,25 | 2 692,55 | 3 846,50 | 6 589,30
-Etat | 146,25 | 341,25 | 487,50 | 975,00
-LA43223 Formation | 375,00 | 897,05 | 1 281,50 | 2 553,55
-agricole et rurale | Bailleurs
+LA43223 Formation agricole et rurale | Etat | 146,25 | 341,25 | 487,50 | 975,00
+Bailleurs | 375,00 | 897,05 | 1 281,50 | 2 553,55
 Montant | 521,25 | 1 238,30 | 1 769,00 | 3 528,55
 
 107
@@ -3216,8 +3238,8 @@ Montant | 0,00 | 300,00 | 900,00 | 1 200,00
 LA4335 Appui à la petite mine | Etat | 0,00
 Bailleurs | 5,00 | 500,00 | 1 200,00 | 1 705,00
 Montant | 5,00 | 500,00 | 1 200,00 | 1 705,00
-LA4335 A ppui a l'amélioration de l'exploitation artisanale et au développement des communautés de base | Etat | 0,00
-Bailleurs | 1 000,00 | 1 600,00 | 2 600,00
+LA4335 Appui a l'amélioration de l'exploitation artisanale et au développement des communautés de base des zones minières | Etat |  |  |  | 0,00
+Bailleurs |  | 1 000,00 | 1 600,00 | 2 600,00
 Montant | 0,00 | 1 000,00 | 1 600,00 | 2 600,00
 
 108
@@ -3238,8 +3260,8 @@ Montant | 0,00 | 300,00 | 600,00 | 900,00
 Total Sous-programme 4.3.3 | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 33,34 | 6 053,34 | 7 628,34 | 13 715,02
 Montant | 33,34 | 6 053,34 | 7 628,34 | 13 715,02
-LA4341 Elaboration et suivi des plans d'Aménagement forestier | Etat | 0,00
-Bailleurs | 600,00 | 560,00 | 1 160,00
+Sous-programme 4.3.4: Forêts | LA4341 Elaboration et suivi des plans d'Aménagement forestier | Etat |  |  |  | 0,00
+Bailleurs |  | 600,00 | 560,00 | 1 160,00
 Montant | 0,00 | 600,00 | 560,00 | 1 160,00
 LA4342 Mettre en œuvre l'Accord de Partenariat Volontaire-FLEGT | Etat | 0,00
 Bailleurs | 400,00 | 720,00 | 1 120,00
@@ -3309,18 +3331,18 @@ Montant | 0,00 | 495,00 | 1 600,00 | 2 095,00
 Etat | 60,75 | 141,75 | 202,50 | 405,00
 Total Sous-programme 4.3.5 | Bailleurs | 223,75 | 1 336,25 | 2 732,50 | 4 292,50
 Montant | 284,50 | 1 478,00 | 2 935,00 | 4 697,50
-LA4361 Postes: Construction et équipement de cinq (5) agences E.M.S à Bouar, | Etat | 0,00
-Bailleurs | 108,00 | 240,00 | 348,00
-Berberati, Bambari et Bangassou | Montant | 0,00 | 108,00 | 240,00 | 348,00
-LA4362 Postes: Réhabilitation et équipement des de postes de Bangui et dans les (08) préfectures | Etat | 0,00
+Sous-programme 4.3.6: Postes, télécommunications et les TIC | LA4361 Postes: Construction et équipement de cinq (5) agences E.M.S à Bouar, Berberati, Bambari et Bangassou | Etat |  |  |  | 0,00
+Bailleurs |  | 108,00 | 240,00 | 348,00
+Montant | 0,00 | 108,00 | 240,00 | 348,00
+LA4362 Postes: Réhabilitation et équipement des bureaux de postes de Bangui et dans les (08) préfectures pour l'offre du service des Chèques Postaux (CCP) | Etat |  |  |  | 0,00
 Bailleurs | 10,00 | 300,00 | 500,00 | 810,00
-bureaux pour l'offre du service des Chèques Postaux | Montant | 10,00 | 300,00 | 500,00 | 810,00
-et les TIC | LA4363 Postes: | Etat | 0,00
-Réhabilitation du Centre National de Tri et de Distribution de Bangui (CNTDB) et Construction de trois centres de tri à Bouar, Bambari et Kaga | Bailleurs | 8,00 | 450,00 | 850,00 | 1 308,00
-Bandoro (CNTDD) | Montant | 8,00 | 450,00 | 850,00 | 1 308,00
-LA4364 | Etat | 0,00
-Télécommunications: Développement de la | Bailleurs | 250,00 | 400,00 | 650,00
-téléphonie rurale | Montant | 0,00 | 250,00 | 400,00 | 650,00
+Montant | 10,00 | 300,00 | 500,00 | 810,00
+LA4363 Postes: Réhabilitation du Centre National de Tri et de Distribution de Bangui (CNTDB) et Construction de trois centres de tri à Bouar, Bambari et Kaga Bandoro (CNTDD) | Etat |  |  |  | 0,00
+Bailleurs | 8,00 | 450,00 | 850,00 | 1 308,00
+Montant | 8,00 | 450,00 | 850,00 | 1 308,00
+LA4364 Télécommunications: Développement de la téléphonie rurale | Etat |  |  |  | 0,00
+Bailleurs |  | 250,00 | 400,00 | 650,00
+Montant | 0,00 | 250,00 | 400,00 | 650,00
 
 111
 
@@ -3337,29 +3359,29 @@ Montant | 0,00 | 300,00 | 600,00 | 900,00
 Total Sous-programme 4.3.6 | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 18,00 | 1 408,00 | 2 590,00 | 4 016,00
 Montant | 18,00 | 1 408,00 | 2 590,00 | 4 016,00
-LA4411 Elaboration d'un plan directeur de la mise en œuvre de la politique énergétique nationale (PEN) | Etat | 0,00
-Bailleurs | 100,00 | 150,00 | 250,00
+Programme 4.4: Promotion des infrastructures de soutien à la croissance | Sous-programme 4.4.1: Energie | LA4411 Elaboration d'un plan directeur de la mise en œuvre de la politique énergétique nationale (PEN) | Etat |  |  |  | 0,00
+Bailleurs |  | 100,00 | 150,00 | 250,00
 Montant | 0,00 | 100,00 | 150,00 | 250,00
-LA4412 Installation de l'usine au pied du barrage de Boali 3 | Etat | 0,00
+LA4412 Installation de l'usine au pied du barrage de Boali 3 | Etat |  |  |  | 0,00
 Bailleurs | 300,00 | 2 500,00 | 12 000,00 | 14 800,00
 Montant | 300,00 | 2 500,00 | 12 000,00 | 14 800,00
-LA4413 Réhabilitation des usines de Boali 1 et 2 | Etat | 0,00
+LA4413 Réhabilitation des usines de Boali 1 et 2 | Etat |  |  |  | 0,00
 Bailleurs | 80,00 | 875,00 | 1 250,00 | 2 205,00
 Montant | 80,00 | 875,00 | 1 250,00 | 2 205,00
-Etat | 147,75 | 344,75 | 492,50 | 985,00
+LA4414 Extension de l'usine de Boali 2 | Etat | 147,75 | 344,75 | 492,50 | 985,00
 Bailleurs | 300,00 | 2 590,00 | 4 432,50 | 7 322,50
 Montant | 447,75 | 2 934,75 | 4 925,00 | 8 307,50
-Etat | 64,28 | 149,98 | 214,25 | 428,50
+LA4415 Réhabilitation et extension du réseau de distribution de Bangui | Etat | 64,28 | 149,98 | 214,25 | 428,50
 Bailleurs | 125,00 | 670,00 | 1 928,25 | 2 723,25
 Montant | 189,28 | 819,98 | 2 142,50 | 3 151,75
-Etat | 0,00
-LA4416 Réhabilitation de la centrale thermique de Bangui | Bailleurs | 100,00 | 472,50 | 675,00 | 1 247,50
+LA4416 Réhabilitation de la centrale thermique de Bangui | Etat |  |  |  | 0,00
+Bailleurs | 100,00 | 472,50 | 675,00 | 1 247,50
 Montant | 100,00 | 472,50 | 675,00 | 1 247,50
-Etat | 6 352,50 | 9 075,00 | 15 427,50
+LA4417 Aménagement hydroélectrique sur la rivière Kotto | Etat |  | 6 352,50 | 9 075,00 | 15 427,50
 Bailleurs | 125,00 | 9 000,00 | 20 000,00 | 29 125,00
 Montant | 125,00 | 15 352,50 | 29 075,00 | 44 552,50
-Etat | 0,00
-Bailleurs | 200,00 | 350,00 | 550,00
+LA4419 Etude de faisabilité du site hydro-électrique de Dimoli | Etat |  |  |  | 0,00
+Bailleurs |  | 200,00 | 350,00 | 550,00
 Montant | 0,00 | 200,00 | 350,00 | 550,00
 
 112
@@ -3372,30 +3394,30 @@ Sous-programme | Actions, Mesures ou | Source de | Programmation
 --- | --- | --- | --- | --- | --- | ---
 Programme | Projets | Financement | 2014 | 2015 | 2016 | Total
 (Sosso Nakombo)
-LA44110 Electrification | Etat | 7,18 | 16,76 | 23,94 | 47,88
-des villages Pata et Pissa par l'énergie solaire | Bailleurs | 64,64 | 150,84 | 215,48 | 430,96
-photovoltaïque | Montant | 71,83 | 167,59 | 239,42 | 478,84
-LA44111 Electrification des villes de Mobaye, Kongbo, Kémbé , Alindao, Ima-Langandji, Pavica et Dimbi à partir | Etat | 0,00 | 0,00 | 0,00 | 0,00
+LA44110 Electrification des villages Pata et Pissa par l'énergie solaire photovoltaïque | Etat | 7,18 | 16,76 | 23,94 | 47,88
+Bailleurs | 64,64 | 150,84 | 215,48 | 430,96
+Montant | 71,83 | 167,59 | 239,42 | 478,84
+LA44111 Electrification des villes de Mobaye, Kongbo, Kémbé , Alindao, Ima-Langandji, Pavica et Dimbi à partir de la Centrale hydroélectrique de Mobayi en RD Congo | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 241,25 | 696,25 | 2 037,50 | 2 975,00
-de la Centrale hydroélectrique de Mobayi en RD Congo | Montant | 241,25 | 696,25 | 2 037,50 | 2 975,00
-Etat | 219,21 | 6 863,98 | 9 805,69 | 16 888,88
-Total Sous-programme | Bailleurs | 1 335,89 | 17 254,59 | 43 038,73 | 61 629,21
-4.4.1 | Montant | 1 555,10 | 24 118,57 | 52 844,42 | 78 518,09
-LA44112 Extension et réaménagement de l'aéroport international | Etat | 103,95 | 242,55 | 346,50 | 693,00
+Montant | 241,25 | 696,25 | 2 037,50 | 2 975,00
+Total Sous-programme 4.4.1 | Etat | 219,21 | 6 863,98 | 9 805,69 | 16 888,88
+Bailleurs | 1 335,89 | 17 254,59 | 43 038,73 | 61 629,21
+Montant | 1 555,10 | 24 118,57 | 52 844,42 | 78 518,09
+Sous-programme 4.4.2: Construction, Réhabilitation et Viabilisation des équipements et Infrastructures des Transports | LA44112 Extension et réaménagement de l'aéroport international de Bangui M'Poko | Etat | 103,95 | 242,55 | 346,50 | 693,00
 Bailleurs | 0,98 | 2 186,49 | 3 123,56 | 5 311,04
-de Bangui M'Poko | Montant | 104,93 | 2 429,04 | 3 470,06 | 6 004,04
-LA44113 Projet de | Etat | 0,00
-Réhabilitation de Cinq (5) | Bailleurs | 125,00 | 800,00 | 2 000,00 | 2 925,00
-Sous-programme 4.4.2: Construction, Réhabilitation et | aérodromes secondaires à Berbérati, Bouar, Bossangoa, Bambari, Bozoum et Bangassou | Montant | 125,00 | 800,00 | 2 000,00 | 2 925,00
-LA44114 Construction de | Etat | 0,00
-Viabilisation des équipements et | trois(3) quais pour | Bailleurs | 75,00 | 300,00 | 275,00 | 650,00
-Infrastructures des Transports | menues embarcations à Ouango Sao, Nola, Mobaye | Montant | 75,00 | 300,00 | 275,00 | 650,00
-L144115 Etude d'une zone industrielle | Etat | 0,00
+Montant | 104,93 | 2 429,04 | 3 470,06 | 6 004,04
+LA44113 Projet de Réhabilitation de Cinq (5) aérodromes secondaires à Berbérati, Bouar, Bossangoa, Bambari, Bozoum et Bangassou | Etat |  |  |  | 0,00
+Bailleurs | 125,00 | 800,00 | 2 000,00 | 2 925,00
+Montant | 125,00 | 800,00 | 2 000,00 | 2 925,00
+LA44114 Construction de trois(3) quais pour menues embarcations à Ouango Sao, Nola, Mobaye | Etat |  |  |  | 0,00
+Bailleurs | 75,00 | 300,00 | 275,00 | 650,00
+Montant | 75,00 | 300,00 | 275,00 | 650,00
+L144115 Etude d'une zone industrielle | Etat |  |  |  | 0,00
 Bailleurs | 70,00 | 200,00 | 1 000,00 | 1 270,00
 Montant | 70,00 | 200,00 | 1 000,00 | 1 270,00
-LA44116 Etude de | Etat | 0,00
-bitumage de la voie | Bailleurs | 110,00 | 400,00 | 1 250,00 | 1 760,00
-Sibut-Nord Soudan | Montant | 110,00 | 400,00 | 1 250,00 | 1 760,00
+LA44116 Etude de bitumage de la voie Sibut-Nord Soudan | Etat |  |  |  | 0,00
+Bailleurs | 110,00 | 400,00 | 1 250,00 | 1 760,00
+Montant | 110,00 | 400,00 | 1 250,00 | 1 760,00
 
 113
 
@@ -3418,10 +3440,10 @@ Montant | 0,00 | 200,00 | 300,00 | 500,00
 LA44120 Construction de cinq(5) plateformes routières à Mbaïki ; Berberati ; Carnot ; Bambari; Bangassou | Etat | 51,60 | 120,40 | 172,00 | 344,00
 Bailleurs | 125,00 | 600,00 | 1 547,00 | 2 272,00
 Montant | 176,60 | 720,40 | 1 719,00 | 2 616,00
-LA44121 Aménagement et bitumage de l'Avenue de la Communauté Economique et Monétaire de l'Afrique Centrale (CEMAC) à Bangui. LA44122 Aménagement et bitumage de l'Avenue | Etat | 40,50 | 94,50 | 135,00 | 270,00
+LA44121 Aménagement et bitumage de l'Avenue de la Communauté Economique et Monétaire de l'Afrique Centrale (CEMAC) à Bangui. | Etat | 40,50 | 94,50 | 135,00 | 270,00
 Bailleurs | 100,00 | 450,00 | 800,00 | 1 350,00
 Montant | 140,50 | 544,50 | 935,00 | 1 620,00
-Benz-Vi.à Bangui | Etat | 27,00 | 63,00 | 90,00 | 180,00
+LA44122 Aménagement et bitumage de l'Avenue Benz-Vi.à Bangui | Etat | 27,00 | 63,00 | 90,00 | 180,00
 Bailleurs | 87,00 | 567,00 | 810,00 | 1 464,00
 Montant | 114,00 | 630,00 | 900,00 | 1 644,00
 LA44123 Aménagement et bitumage de l'Avenue du Général MBAIKOUA. à Bangui | Etat | 49,58 | 115,68 | 165,25 | 330,50
@@ -3500,8 +3522,8 @@ Montant | 0,00 | 150,00 | 200,00 | 350,00
 LA45110 Reprise en régie des opérations de canalisation, de conduite en douane et de dédouanement | Etat | 0,00
 Bailleurs | 200,00 | 350,00 | 550,00
 Montant | 0,00 | 200,00 | 350,00 | 550,00
-LA45111 O pérationnalisation des différentes brigades de surveillance régionale | Etat | 0,00
-Bailleurs | 250,00 | 250,00 | 500,00
+LA45111 Opérationnalisation des différentes brigades de surveillance régionale | Etat |  |  |  | 0,00
+Bailleurs |  | 250,00 | 250,00 | 500,00
 Montant | 0,00 | 250,00 | 250,00 | 500,00
 
 116
@@ -3571,9 +3593,9 @@ Poursuite des réformes douanières engagées
 Etat | 0,00
 LA4528 Réorganisation des bureaux de douanes | Bailleurs | 100,00 | 70,00 | 170,00
 pour mieux répondre aux attentes des opérateurs économiques | Montant | 0,00 | 100,00 | 70,00 | 170,00
-LA4529 D édouanement | Etat | 0,00
-et recouvrement des | Bailleurs | 60,00 | 150,00 | 150,00 | 360,00
-marchandises en transit dans les recettes des douanes | Montant | 60,00 | 150,00 | 150,00 | 360,00
+LA4529 Dédouanement et recouvrement des marchandises en transit dans les recettes des douanes | Etat |  |  |  | 0,00
+Bailleurs | 60,00 | 150,00 | 150,00 | 360,00
+Montant | 60,00 | 150,00 | 150,00 | 360,00
 
 118
 
@@ -3637,11 +3659,13 @@ niveau du Trésor | Montant | 0,00 | 78,00 | 110,00 | 188,00
 Etat | 0,00 | 0,00 | 0,00 | 0,00
 Total Sous-programme | Bailleurs | 85,00 | 563,00 | 600,00 | 1 248,00
 4.5.2 | Montant | 85,00 | 563,00 | 600,00 | 1 248,00
-Sous-programme | Suivi de LA4531 Réalisation d'une Etat | l'exécution des | budgets des entités | publiques | autonomes | 0,00
-4.5.3 Suivi renforcé | étude sur la collecte des | Bailleurs | 15,00 | 20,00 | 35,00
-de la parafiscalité et des recettes affectées | données pour le suivi efficace des entités publiques autonomes. | Montant | 15,00 | 20,00 | 0,00 | 35,00
-LA4532 Mise en application des recommandations de l'étude sur le mécanisme de suivi des fonds publics des entités publiques autonomes. | Etat | 0,00
-Bailleurs | 25,00 | 15,00 | 40,00
+Sous-programme 4.5.3 Suivi renforcé de la parafiscalité et des recettes affectées
+Suivi de l'exécution des budgets des entités publiques autonomes
+LA4531 Réalisation d'une étude sur la collecte des données pour le suivi efficace des entités publiques autonomes. | Etat |  |  |  | 0,00
+Bailleurs | 15,00 | 20,00 |  | 35,00
+Montant | 15,00 | 20,00 | 0,00 | 35,00
+LA4532 Mise en application des recommandations de l'étude sur le mécanisme de suivi des fonds publics des entités publiques autonomes. | Etat |  |  |  | 0,00
+Bailleurs |  | 25,00 | 15,00 | 40,00
 Montant | 0,00 | 25,00 | 15,00 | 40,00
 
 120
@@ -3656,22 +3680,23 @@ Programme | Sous-programme | Projets | Financement | 2014 | 2015 | 2016 | Total
 Total Sous-programme 4.5.3 | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 15,00 | 45,00 | 15,00 | 75,00
 Montant | 15,00 | 45,00 | 15,00 | 75,00
+Sous-programme 4.5.4 Renforcement de l'exécution budgétaire et gestion prudente de la trésorerie publique
 Transparence, crédibilité de la signature de l'Etat et exécution budgétaire claire et fluide
-LA4541 Renforcement des capacités des comités de cadrage macroéconomique et budgétaire en vue d'améliorer la qualité de | Etat | 0,00
-Bailleurs | 40,00 | 40,00 | 80,00
-la préparation et de la présentation du Budget (CBMT et CDMT) | Montant | 0,00 | 40,00 | 40,00 | 80,00
-LA4542 Restauration de | Etat | 0,00
-l'outil informatique dédié à la gestion des finances publiques (Ges-Co | Bailleurs | 50,00 | 100,00 | 150,00 | 300,00
-Sous-programme 4.5.4 Renforcement | Trésor, Module comptabilité publique) | Montant | 50,00 | 100,00 | 150,00 | 300,00
-de l'exécution | LA4543 Développement | Etat | 0,00
-budgétaire et gestion | de l'accès des | Bailleurs | 20,00 | 90,00 | 100,00 | 210,00
-prudente de la trésorerie publique | gestionnaires de crédits au système Ges-co en vue de la saisie directe des demandes d'engagement des départements sectoriels | Montant | 20,00 | 90,00 | 100,00 | 210,00
-LA4544 Développement | Etat | 0,00
-du réseau Intranet entre | Bailleurs | 30,00 | 250,00 | 300,00 | 580,00
-les sites ministériels | Montant | 30,00 | 250,00 | 300,00 | 580,00
-LA4545 Aménagement et | Etat | 0,00
-équipement d'une salle | Bailleurs | 0,00
-de saisie dans les locaux de la DGB | Montant | 0,00 | 0,00 | 0,00 | 0,00
+LA4541 Renforcement des capacités des comités de cadrage macroéconomique et budgétaire en vue d'améliorer la qualité de la préparation et de la présentation du Budget (CBMT et CDMT) | Etat |  |  |  | 0,00
+Bailleurs |  | 40,00 | 40,00 | 80,00
+Montant | 0,00 | 40,00 | 40,00 | 80,00
+LA4542 Restauration de l'outil informatique dédié à la gestion des finances publiques (Ges-Co Trésor, Module comptabilité publique) | Etat |  |  |  | 0,00
+Bailleurs | 50,00 | 100,00 | 150,00 | 300,00
+Montant | 50,00 | 100,00 | 150,00 | 300,00
+LA4543 Développement de l'accès des gestionnaires de crédits au système Ges-co en vue de la saisie directe des demandes d'engagement des départements sectoriels | Etat |  |  |  | 0,00
+Bailleurs | 20,00 | 90,00 | 100,00 | 210,00
+Montant | 20,00 | 90,00 | 100,00 | 210,00
+LA4544 Développement du réseau Intranet entre les sites ministériels | Etat |  |  |  | 0,00
+Bailleurs | 30,00 | 250,00 | 300,00 | 580,00
+Montant | 30,00 | 250,00 | 300,00 | 580,00
+LA4545 Aménagement et équipement d'une salle de saisie dans les locaux de la DGB | Etat |  |  |  | 0,00
+Bailleurs |  |  |  | 0,00
+Montant | 0,00 | 0,00 | 0,00 | 0,00
 
 121
 
@@ -3688,23 +3713,23 @@ Montant | 0,00 | 50,00 | 30,00 | 80,00
 Total Sous-programme 4.5.4 | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 100,00 | 530,00 | 620,00 | 1 250,00
 Montant | 100,00 | 530,00 | 620,00 | 1 250,00
-Programme 4.6: Renforcement de l'intégration économique régionale | Sous-programme 4.6.1 Politiques et négociations commerciales bilatérales régionales et multilatérales | LA4611 Elaboration et mise en œuvre des politiques commerciales | Etat | 0,00
-Bailleurs | 270,00 | 270,00 | 540,00
+Programme 4.6: Renforcement de l'intégration économique régionale | Sous-programme 4.6.1 Politiques et négociations commerciales bilatérales régionales et multilatérales | LA4611 Elaboration et mise en œuvre des politiques commerciales et industrielles | Etat |  |  |  | 0,00
+Bailleurs |  | 270,00 | 270,00 | 540,00
 Montant | 0,00 | 270,00 | 270,00 | 540,00
-et industrielles LA4612 Elaboration et mise en œuvre d'un Plan de Développement | Etat | 0,00
-Bailleurs | 100,00 | 200,00 | 300,00
-Industriel | Montant | 0,00 | 100,00 | 200,00 | 300,00
-LA4613 Elaboration de la cartographie industrielle | Etat | 0,00
-Bailleurs | 100,00 | 200,00 | 300,00
+LA4612 Elaboration et mise en œuvre d'un Plan de Développement Industriel | Etat |  |  |  | 0,00
+Bailleurs |  | 100,00 | 200,00 | 300,00
+Montant | 0,00 | 100,00 | 200,00 | 300,00
+LA4613 Elaboration de la cartographie industrielle | Etat |  |  |  | 0,00
+Bailleurs |  | 100,00 | 200,00 | 300,00
 Montant | 0,00 | 100,00 | 200,00 | 300,00
 Total Sous-programme 4.6.1 | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 0,00 | 470,00 | 670,00 | 1 140,00
 Montant | 0,00 | 470,00 | 670,00 | 1 140,00
-Sous-programme 4.6.2 Programme Economique Régional | LA4622 Etude pour l'Aménagement tronçon routier Bossambélé- Bossangoa-Békay (RCA) et Mbaikoro (Tchad) | Etat | 0,00 | 0,00 | 0,00 | 0,00
+Sous-programme 4.6.2 Programme Economique Régional | LA4622 Etude pour l'Aménagement tronçon routier Bossambélé-Bossangoa-Békay (RCA) et Mbaikoro (Tchad) | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 54,00 | 126,00 | 180,00 | 360,00
 Montant | 54,00 | 126,00 | 180,00 | 360,00
-LA4623 Etude pour l'Aménagement tronçon routier Ouesso- Enyelé (Congo) -Mongoumba- | Etat | 0,00
-Bailleurs | 49,00 | 70,00 | 119,00
+LA4623 Etude pour l'Aménagement tronçon routier Ouesso- Enyelé (Congo) -Mongoumba-Mbaiki (RCA) | Etat |  |  |  | 0,00
+Bailleurs |  | 49,00 | 70,00 | 119,00
 Montant | 0,00 | 49,00 | 70,00 | 119,00
 
 122
@@ -3719,8 +3744,8 @@ Projets | Financement | 2014 | 2015 | 2016
 LA4624 Construction d'un Pont sur l'Oubangui entre Bangui et Zongo | Etat | 0,00 | 0,00 | 0,00 | 0,00
 Bailleurs | 300,00 | 600,00 | 900,00
 Montant | 0,00 | 300,00 | 600,00 | 900,00
-LA4626 Etude du chemin de fer Bangui- Nyala | Etat | 0,00 | 0,00 | 0,00 | 0,00
-Bailleurs | 600,00 | 2 050,00 | 2 650,00
+LA4626 Etude du chemin de fer Bangui-Nyala | Etat | 0,00 | 0,00 | 0,00 | 0,00
+Bailleurs |  | 600,00 | 2 050,00 | 2 650,00
 Montant | 0,00 | 600,00 | 2 050,00 | 2 650,00
 LA4628 Réhabilitation de l'Université agronomique de OUAKOMBO | Etat | 55,00 | 100,00 | 155,00
 Bailleurs | 300,00 | 700,00 | 1 000,00
@@ -3804,22 +3829,23 @@ R2.2. le service rendu à l'usager est amélioré | 2.2. Poursuite des réformes
 
 [[START OF PAGE 127]]
 
-Résultats/Objectif stratégique Domaines | Activités
---- | ---
-2.2.8 renforcer les capacités de CICEFD 2.2.9 maîtriser la fiscalité pétrolière pour une meilleure comptabilisation des recettes
-2.3.1. Disposer en cash des ressources en temps opportun
+Résultats/Objectif stratégique | Domaines d'actions | Activités
+--- | --- | ---
+2.2.8 renforcer les capacités de CICEFD
+2.2.9 maîtriser la fiscalité pétrolière pour une meilleure comptabilisation des recettes
+R.2.3. Les actions de recouvrement sont intensifiées | 2. 3. Poursuite des réformes engagées au niveau du Trésor | 2.3.1. Disposer en cash des ressources en temps opportun
 2.3.2. Suivre rigoureusement les comptes recettes
 2.3.3. Effectuer un rapprochement régulier des recettes bancarisées avec les banques commerciales et combattre l'utilisation des faux bordereaux de banques produits par certains contribuables
-2. 3. Poursuite engagées au | 2.3.4 Respecter le plan de trésorerie
-R.2.3. Les actions de recouvrement sont intensifiées | 2.3.5 Produire les imprimés, notamment les avis de mise en recouvrement
+2.3.4 Respecter le plan de trésorerie
+2.3.5 Produire les imprimés, notamment les avis de mise en recouvrement
 2.3.6 Réhabiliter l'applicatif GESCO en vue de faciliter l'enregistrement des recettes
 2.3.7 activer et maîtriser le circuit du Compte Unique du Trésor (CUT)
 2.3.8 Elaborer un plan de trésorerie prévisionnel annuel, trimestriel, mensuel et hebdomadaire
 #### OS3 : Suivi renforcé de la parafiscalité et des recettes affectées
-R3.1: L'exécution des budgets des entités publiques autonomes est | 3.1.1 Réaliser une étude sur la collecte des données pour le suivi efficace des entités publiques autonomes.
-mieux suivie | 3.1.2 Mettre en application les recommandations de l'étude sur le mécanisme de suivi des fonds publics des entités publiques autonomes.
-#### OS4 : Renforcement de l'exécution budgétaire et gestion prudente de la trésorerie
-4.1 .1 Préparer et adopter un collectif budgétaire 2013 qui prend en compte les effets de la crise ainsi que les nouvelles priorités du gouvernement conformément à l'accord de Libre ville.
+R3.1: L'exécution des budgets des entités publiques autonomes est mieux suivie |  | 3.1.1 Réaliser une étude sur la collecte des données pour le suivi efficace des entités publiques autonomes.
+3.1.2 Mettre en application les recommandations de l'étude sur le mécanisme de suivi des fonds publics des entités publiques autonomes.
+#### OS4 : Renforcement de l'exécution budgétaire et gestion prudente de la trésorerie publique
+4.1.1 Préparer et adopter un collectif budgétaire 2013 qui prend en compte les effets de la crise ainsi que les nouvelles priorités du gouvernement conformément à l'accord de Libre ville.
 
 127
 
