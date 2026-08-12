@@ -1,28 +1,130 @@
 [[START OF PAGE 1]]
-
-#### Citation
-
-- This Constitution may be cited as the Constitution of the Republic of Singapore.
-#### Interpretation
-2. -(1) In this Constitution, unless it is otherwise provided or the context otherwise requires "Cabinet" means the Cabinet constituted under this Constitution; "Civil List" means the provision made under Article 22J for the maintenance of the President; "citizen of Singapore" means any person who, under the provisions of this Constitution, has the status of a citizen of Singapore; "commencement" , used with reference to this Constitution, means 9th August 1965; "Consolidated Fund" means the Consolidated Fund established by this Constitution; "Council of Presidential Advisers" means the Council of Presidential Advisers constituted under Part VA; "existing law" means any law having effect as part of the law of Singapore immediately before the commencement of this Constitution; "Government" means the Government of Singapore; "Judge of the Supreme Court" includes the Chief Justice, a Judge of Appeal and a Judge of the High Court; "law" includes written law and any legislation of the United Kingdom or other enactment or instrument whatsoever which is in operation in Singapore and the common law in so far as it is in operation in Singapore and any custom or usage having the force of law in Singapore; "Legal Service Commission" means the Legal Service Commission constituted under this Constitution; "Legislature" means the Legislature of Singapore; "Minister" means a Minister appointed under this Constitution; "office of profit" means, subject to clause (5), any whole time office in the public service; "Parliament" means the Parliament of Singapore; "President" means the President of Singapore elected under this Constitution and includes any person for the time being exercising the functions of the office of President; "Presidential Elections Committee" means the Presidential Elections Committee constituted under Article 18; "Prime Minister" means the Prime Minister of Singapore appointed under this Constitution; "public office" means, subject to clause (5), an office of emolument in the public service; "public officer" means the holder of any public office; "public seal" means the public seal of Singapore;
-
 # CONSTITUTION OF THE REPUBLIC OF SINGAPORE
 
 ## PART I
 
 ### PRELIMINARY
 
+#### Citation
+
+1. This Constitution may be cited as the Constitution of the Republic of Singapore.
+
+#### Interpretation
+
+2. —(1) In this Constitution, unless it is otherwise provided or the context otherwise requires —
+
+"Cabinet" means the Cabinet constituted under this Constitution;
+
+"Civil List" means the provision made under Article 22J for the maintenance of the President;
+
+"citizen of Singapore" means any person who, under the provisions of this Constitution, has the status of a citizen of Singapore;
+
+"commencement", used with reference to this Constitution, means 9th August 1965;
+
+"Consolidated Fund" means the Consolidated Fund established by this Constitution;
+
+"Council of Presidential Advisers" means the Council of Presidential Advisers constituted under Part VA;
+
+"existing law" means any law having effect as part of the law of Singapore immediately before the commencement of this Constitution;
+
+"Government" means the Government of Singapore;
+
+"Judge of the Supreme Court" includes the Chief Justice, a Judge of Appeal and a Judge of the High Court;
+
+"law" includes written law and any legislation of the United Kingdom or other enactment or instrument whatsoever which is in operation in Singapore and the common law in so far as it is in operation in Singapore and any custom or usage having the force of law in Singapore;
+
+"Legal Service Commission" means the Legal Service Commission constituted under this Constitution;
+
+"Legislature" means the Legislature of Singapore;
+
+"Minister" means a Minister appointed under this Constitution;
+
+"office of profit" means, subject to clause (5), any whole time office in the public service;
+
+"Parliament" means the Parliament of Singapore;
+
+"President" means the President of Singapore elected under this Constitution and includes any person for the time being exercising the functions of the office of President;
+
+"Presidential Elections Committee" means the Presidential Elections Committee constituted under Article 18;
+
+"Prime Minister" means the Prime Minister of Singapore appointed under this Constitution;
+
+"public office" means, subject to clause (5), an office of emolument in the public service;
+
+"public officer" means the holder of any public office;
+
+"public seal" means the public seal of Singapore;
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
 "public service" means service under the Government;
 
-"Public Service Commission" means the Public Service Commission constituted under this Constitution; "register of electors" means any register of electors prepared under the provisions of any written law for the time being in force relating to Parliamentary elections; "remuneration" , in respect of any public officer, means only the emoluments of that officer, the whole or any part of which count for pension in accordance with the provisions of any law relating to the grant of pensions in respect of the public service; "reserves" , in relation to the Government, a statutory board or Government company, means the excess of assets over liabilities of the Government, statutory board or Government company, as the case may be; "session" means the sittings of Parliament commencing when it first meets after being constituted, or after its prorogation or dissolution at any time, and terminating when Parliament is prorogued or is dissolved without having been prorogued; "Singapore" means the Republic of Singapore; "sitting" means a period during which Parliament is sitting continuously without adjournment, including any period during which Parliament is in committee; 'Speaker' and 'Deputy Speaker' mean, respectively, the Speaker and a Deputy Speaker of Parliament; "term of office" , in relation to the Government, means the period (a) commencing on the date the Prime Minister and Ministers first take and subscribe the Oath of Allegiance in accordance with Article 27 after a general election; and (b) ending after the next general election on the date immediately before the Prime Minister and Ministers first take and subscribe the Oath of Allegiance in accordance with Article 27; "terms of service" , in respect of any officer, includes the remuneration to which that officer is entitled by virtue of his office, and any pension, gratuity or other like allowance payable to or in respect of that officer; "written law" means this Constitution and all Acts and Ordinances and subsidiary legislation for the time being in force in Singapore. (2) Except where this Constitution otherwise provides or where the context otherwise requires (a) the person or authority having power to make substantive appointments to any public office may appoint a person to perform the functions of that office during any period when it is vacant or when the holder thereof is unable (whether by reason of absence or infirmity of body or mind or any other cause) to perform those functions; (b) every appointment to perform the functions of an office made under paragraph (a) shall be made in the same manner as and subject to the same conditions as apply to a substantive appointment to that office; (c) any reference in this Constitution to the holder of any office by the term designating his office shall be construed as including a reference to any person for the time being lawfully performing the functions of that office; and (d) any reference in this Constitution to an appointment to any office shall be construed as including a reference to an appointment to perform the functions of that office. (3) Where in this Constitution power is conferred on any person or authority to appoint a person to perform the functions of any office if the holder thereof is unable himself to perform its functions, any such appointment shall not be called in question on the ground that the holder of that office was not unable to perform those functions. (4) For the purposes of this Constitution, the resignation of a member of any body or the holder of any office constituted by this Constitution that is required to be addressed to any person shall be deemed to have effect from the time that it is received by that person: Provided that, in the case of a resignation that is required to be addressed to the Speaker, the resignation shall, if the office of Speaker is vacant or the Speaker is absent from Singapore, be deemed to have effect from the time that it is received by a Deputy Speaker on behalf of the Speaker. (5) For the purposes of this Constitution, a person shall not be considered as holding a public office or an office of profit by reason of the fact that he is in receipt of any remuneration or allowances (including a pension or other like allowance) in respect of his tenure of the office of President, Prime Minister, Chief Justice, Speaker, Deputy Speaker, Minister, Parliamentary Secretary, Political Secretary, Member of Parliament, Ambassador, High Commissioner or such other office as the President may, from time to time, by order, prescribe*. *Offices of Consul-General and Consul have been prescribed by the President See G.N. No. S 212/72 (6) (a) Without prejudice to clause (2) when the holder of any public office is on leave of absence pending relinquishment of that office, the person or authority having power to make appointments to that office may appoint another person thereto. (b) Where 2 or more persons are holding the same office by reason of an appointment made pursuant to paragraph ( a ), the person last appointed shall, in respect of any function conferred on the holder of that office, be deemed to be the sole holder of that office. (7) Where a person is required by this Constitution to take an oath, he shall be permitted, if he so desires, to comply with that requirement by making an affirmation. (8) References in this Constitution to any period shall, so far as the context admits, be construed as including references to a period beginning before the commencement of this Constitution. (9) Subject to this Article, the Interpretation Act (Cap. 1) shall apply for the purpose of interpreting this Constitution and otherwise in relation thereto as it applies for the purpose of interpreting and otherwise in relation to any written law within the meaning of that Act. (10) Unless the context otherwise requires, any reference in this Constitution to a specified Part, Article or Schedule is a reference to that Part or Article of, or that Schedule to, this Constitution; any reference to a specified chapter, clause, section or paragraph is a reference to that chapter of the Part, that clause of the Article, that section of the Schedule, or that paragraph of the clause or section, in which the reference occurs; and any reference to a group of Articles, sections or divisions of Articles or sections shall be construed as including both the first and the last member of the group referred to.
+"Public Service Commission" means the Public Service Commission constituted under this Constitution;
+
+"register of electors" means any register of electors prepared under the provisions of any written law for the time being in force relating to Parliamentary elections;
+
+"remuneration", in respect of any public officer, means only the emoluments of that officer, the whole or any part of which count for pension in accordance with the provisions of any law relating to the grant of pensions in respect of the public service;
+
+"reserves", in relation to the Government, a statutory board or Government company, means the excess of assets over liabilities of the Government, statutory board or Government company, as the case may be;
+
+"session" means the sittings of Parliament commencing when it first meets after being constituted, or after its prorogation or dissolution at any time, and terminating when Parliament is prorogued or is dissolved without having been prorogued;
+
+"Singapore" means the Republic of Singapore;
+
+"sitting" means a period during which Parliament is sitting continuously without adjournment, including any period during which Parliament is in committee;
+
+“Speaker” and “Deputy Speaker” mean, respectively, the Speaker and a Deputy Speaker of Parliament;
+
+"term of office", in relation to the Government, means the period —
+
+(a) commencing on the date the Prime Minister and Ministers first take and subscribe the Oath of Allegiance in accordance with Article 27 after a general election; and
+
+(b) ending after the next general election on the date immediately before the Prime Minister and Ministers first take and subscribe the Oath of Allegiance in accordance with Article 27;
+
+"terms of service", in respect of any officer, includes the remuneration to which that officer is entitled by virtue of his office, and any pension, gratuity or other like allowance payable to or in respect of that officer;
+
+"written law" means this Constitution and all Acts and Ordinances and subsidiary legislation for the time being in force in Singapore.
+
+(2) Except where this Constitution otherwise provides or where the context otherwise requires —
+
+(a) the person or authority having power to make substantive appointments to any public office may appoint a person to perform the functions of that office during any period when it is vacant or when the holder thereof is unable (whether by reason of absence or infirmity of body or mind or any other cause) to perform those functions;
+
+(b) every appointment to perform the functions of an office made under paragraph (a) shall be made in the same manner as and subject to the same conditions as apply to a substantive appointment to that office;
+
+(c) any reference in this Constitution to the holder of any office by the term designating his office shall be construed as including a reference to any person for the time being lawfully performing the functions of that office; and
+
+(d) any reference in this Constitution to an appointment to any office shall be construed as including a reference to an appointment to perform the functions of that office.
+
+(3) Where in this Constitution power is conferred on any person or authority to appoint a person to perform the functions of any office if the holder thereof is unable himself to
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+perform its functions, any such appointment shall not be called in question on the ground that the holder of that office was not unable to perform those functions.
+
+(4) For the purposes of this Constitution, the resignation of a member of any body or the holder of any office constituted by this Constitution that is required to be addressed to any person shall be deemed to have effect from the time that it is received by that person:
+
+Provided that, in the case of a resignation that is required to be addressed to the Speaker, the resignation shall, if the office of Speaker is vacant or the Speaker is absent from Singapore, be deemed to have effect from the time that it is received by a Deputy Speaker on behalf of the Speaker.
+
+(5) For the purposes of this Constitution, a person shall not be considered as holding a public office or an office of profit by reason of the fact that he is in receipt of any remuneration or allowances (including a pension or other like allowance) in respect of his tenure of the office of President, Prime Minister, Chief Justice, Speaker, Deputy Speaker, Minister, Parliamentary Secretary, Political Secretary, Member of Parliament, Ambassador, High Commissioner or such other office as the President may, from time to time, by order, prescribe*.
+
+*Offices of Consul-General and Consul have been prescribed by the President — See G.N. No. S 212/72
+
+(6)
+
+(a) Without prejudice to clause (2) when the holder of any public office is on leave of absence pending relinquishment of that office, the person or authority having power to make appointments to that office may appoint another person thereto.
+
+(b) Where 2 or more persons are holding the same office by reason of an appointment made pursuant to paragraph (a), the person last appointed shall, in respect of any function conferred on the holder of that office, be deemed to be the sole holder of that office.
+
+(7) Where a person is required by this Constitution to take an oath, he shall be permitted, if he so desires, to comply with that requirement by making an affirmation.
+
+(8) References in this Constitution to any period shall, so far as the context admits, be construed as including references to a period beginning before the commencement of this Constitution.
+
+(9) Subject to this Article, the Interpretation Act (Cap. 1) shall apply for the purpose of interpreting this Constitution and otherwise in relation thereto as it applies for the purpose of interpreting and otherwise in relation to any written law within the meaning of that Act.
+
+(10) Unless the context otherwise requires, any reference in this Constitution to a specified Part, Article or Schedule is a reference to that Part or Article of, or that Schedule to, this Constitution; any reference to a specified chapter, clause, section or paragraph is a reference to that chapter of the Part, that clause of the Article, that section of the Schedule, or that paragraph of the clause or section, in which the reference occurs; and any reference to a group of Articles, sections or divisions of Articles or sections shall be construed as including both the first and the last member of the group referred to.
 
 ## PART II THE REPUBLIC AND THE CONSTITUTION
 
@@ -38,13 +140,13 @@
 
 #### Supremacy of Constitution
 
-- This Constitution is the supreme law of the Republic of Singapore and any law enacted by the Legislature after the commencement of this Constitution which is inconsistent with this Constitution shall, to the extent of the inconsistency, be void.
+4. This Constitution is the supreme law of the Republic of Singapore and any law enacted by the Legislature after the commencement of this Constitution which is inconsistent with this Constitution shall, to the extent of the inconsistency, be void.
 
 #### Amendment of Constitution
 
--(1) Subject to this Article and Article 8, the provisions of this Constitution may be amended by a law enacted by the Legislature.
+5. —(1) Subject to this Article and Article 8, the provisions of this Constitution may be amended by a law enacted by the Legislature.
 
-- A Bill seeking to amend any provision in this Constitution shall not be passed by Parliament unless it has been supported on Second and Third Readings by the votes of not less than two-thirds of the total number of the elected Members of Parliament referred to in Article 39 (1) ( a ).
+(2) A Bill seeking to amend any provision in this Constitution shall not be passed by Parliament unless it has been supported on Second and Third Readings by the votes of not less than two-thirds of the total number of the elected Members of Parliament referred to in Article 39 (1) (a).
 
 (*2A) Unless the President, acting in his discretion, otherwise directs the Speaker in writing, a Bill seeking to amend -
 
@@ -62,7 +164,7 @@ shall not be passed by Parliament unless it has also been supported at a nationa
 
 *Article 5 (2A) was not in operation at the date of this Reprint. This Article repeals former Article 5 (2A) (enacted by Act 5/91) which Article was also not in operation at the date of its repeal by Act 41/96.
 
-- In this Article, 'amendment' includes addition and repeal.
+(3) In this Article, “amendment” includes addition and repeal.
 
 #### President may withhold assent to certain constitutional amendments
 
@@ -106,15 +208,17 @@ unless such surrender, transfer or relinquishment has been supported, at a natio
 
 "Singapore Armed Forces" means the Singapore Armed Forces raised and maintained under the Singapore Armed Forces Act (Cap. 295), and includes any civil defence force formed under the Civil Defence Act (Cap. 42) and such other force as the President may, by notification in the Gazette , declare to be an armed force for the purposes of this Article;
 
-"Singapore Police Force" means the Singapore Police Force and the Special Constabulary established under the Police Force Act (Cap. 235) and any Auxiliary Police Force created in accordance with Part IX of that Act, and includes the Vigilante Corps established under the Vigilante Corps Act (Cap. 343) and such other force as the President may, by notification in the Gazette , declare to be a police force for the purposes of this Article.
+"Singapore Police Force" means the Singapore Police Force and the Special Constabulary established under the Police Force Act (Cap. 235) and any Auxiliary Police Force created
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
+in accordance with Part IX of that Act, and includes the Vigilante Corps established under the Vigilante Corps Act (Cap. 343) and such other force as the President may, by notification in the Gazette, declare to be a police force for the purposes of this Article.
+
 #### Participation in co-operative international schemes which are beneficial to Singapore
 
-- Without in any way derogating from the force and effect of Article 6, nothing in that Article shall be construed as precluding Singapore or any association, body or organisation therein from -
+7. Without in any way derogating from the force and effect of Article 6, nothing in that Article shall be construed as precluding Singapore or any association, body or organisation therein from —
 
 (a) participating or co-operating in, or contributing towards, any scheme, venture, project, enterprise or undertaking of whatsoever nature, in conjunction or in concert with any other sovereign state or with any Federation, Confederation, country or countries or any association, body or organisation therein, where such scheme, venture, project, enterprise or undertaking confers, has the effect of conferring or is intended to confer, on Singapore or any association, body or organisation therein, any economic, financial, industrial, social, cultural, educational or other benefit of any kind or is, or appears to be, advantageous in any way to Singapore or any association, body or organisation therein; or
 
@@ -122,9 +226,9 @@ unless such surrender, transfer or relinquishment has been supported, at a natio
 
 #### No amendment to this Part except by referendum
 
--(1) A Bill for making an amendment to this Part shall not be passed by Parliament unless it has been supported, at a national referendum, by not less than two-thirds of the total number of votes cast by the electors registered under the Parliamentary Elections Act (Cap. 218).
+8. —(1) A Bill for making an amendment to this Part shall not be passed by Parliament unless it has been supported, at a national referendum, by not less than two-thirds of the total number of votes cast by the electors registered under the Parliamentary Elections Act (Cap. 218).
 
-- In this Article, 'amendment'includes addition and repeal.
+(2) In this Article, “amendment” includes addition and repeal.
 
 ## PART IV
 
@@ -132,13 +236,13 @@ unless such surrender, transfer or relinquishment has been supported, at a natio
 
 #### Liberty of the person
 
--(1) No person shall be deprived of his life or personal liberty save in accordance with law.
+9. —(1) No person shall be deprived of his life or personal liberty save in accordance with law.
 
-- Where a complaint is made to the High Court or any Judge thereof that a person is being unlawfully detained, the Court shall inquire into the complaint and, unless satisfied that the detention is lawful, shall order him to be produced before the Court and release him.
+(2) Where a complaint is made to the High Court or any Judge thereof that a person is being unlawfully detained, the Court shall inquire into the complaint and, unless satisfied that the detention is lawful, shall order him to be produced before the Court and release him.
 
-- Where a person is arrested, he shall be informed as soon as may be of the grounds of his arrest and shall be allowed to consult and be defended by a legal practitioner of his choice.
+(3) Where a person is arrested, he shall be informed as soon as may be of the grounds of his arrest and shall be allowed to consult and be defended by a legal practitioner of his choice.
 
-- Where a person is arrested and not released, he shall, without unreasonable delay, and in any case within 48 hours (excluding the time of any necessary journey), be produced
+(4) Where a person is arrested and not released, he shall, without unreasonable delay, and in any case within 48 hours (excluding the time of any necessary journey), be produced
 
 [[END OF PAGE 6]]
 
@@ -284,13 +388,15 @@ and the vacancy shall be filled by a new member nominated by the Chairman of the
 
 22. -(1) Notwithstanding any other provision of this Constitution, the President, acting in his discretion, may refuse to make an appointment to any of the following offices or to revoke any such appointment if he does not concur with the advice or recommendation of the authority on whose advice or recommendation he is, by virtue of that other provision of this Constitution or any other written law, to act: (a) the Chief Justice, Judges and Judicial Commissioners of the Supreme Court; (b) the Attorney-General; (c) the Chairman and members of the Presidential Council for Minority Rights; (d) the chairman and members of the Presidential Council for Religious Harmony constituted under the Maintenance of Religious Harmony Act (Cap. 167A); (e) the chairman and members of an advisory board constituted for the purposes of Article 151; (f) the Chairman and members of the Public Service Commission; (fa) a member of the Legal Service Commission, other than an ex-officio member referred to in Article 111 (2) ( a ), ( b ) or ( c ); (g) the Chief Valuer; (h) the Auditor-General; (i) the Accountant-General; (j) the Chief of Defence Force; (k) the Chiefs of the Air Force, Army and Navy; (l) a member (other than an ex-officio member) of the Armed Forces Council established under the Singapore Armed Forces Act (Cap. 295); (m) the Commissioner of Police; and (n) the Director of the Corrupt Practices Investigation Bureau. (2) Where the President, contrary to the recommendation of the Council of Presidential Advisers, refuses to make an appointment or refuses to revoke an appointment under clause (1), Parliament may, by resolution passed by not less than two-thirds of the total number of the elected Members of Parliament referred to in Article 39 (1) (a), overrule the decision of the President. (3) Upon the passing of a resolution under clause (2), the President shall be deemed to have made the appointment or revoked the appointment, as the case may be, on the date
 
-- of the passing of such resolution.
+of the passing of such resolution.
 
 #### Appointment of members of statutory boards
 
-22A. -(1) Notwithstanding any other provision of this Constitution (a) where the President is authorised by any written law to appoint the chairman, member or chief executive officer of any statutory board to which this Article applies, the President, acting in his discretion, may refuse to make any such appointment or to revoke such appointment if he does not concur with the advice or recommendation of the authority on whose advice or recommendation he is required to act; or (b) in any other case, no appointment to the office of chairman, member or chief such appointment shall be made by any appointing authority unless the President, acting
+22A. —(1) Notwithstanding any other provision of this Constitution —
 
-executive officer of any statutory board to which this Article applies and no revocation of in his discretion, concurs therewith.
+(a) where the President is authorised by any written law to appoint the chairman, member or chief executive officer of any statutory board to which this Article applies, the President, acting in his discretion, may refuse to make any such appointment or to revoke such appointment if he does not concur with the advice or recommendation of the authority on whose advice or recommendation he is required to act; or
+
+(b) in any other case, no appointment to the office of chairman, member or chief executive officer of any statutory board to which this Article applies and no revocation of such appointment shall be made by any appointing authority unless the President, acting in his discretion, concurs therewith.
 
 [[END OF PAGE 12]]
 
@@ -298,17 +404,47 @@ executive officer of any statutory board to which this Article applies and no re
 
 (1A) Where the President, contrary to the recommendation of the Council of Presidential Advisers, refuses to make or to concur with an appointment, or refuses to revoke an appointment or to concur with a revocation of an appointment, as the case may be, under clause (1), Parliament may, by resolution passed by not less than two-thirds of the total number of the elected Members of Parliament referred to in Article 39 (1) (a), overrule the decision of the President. (1B) Upon the passing of a resolution under clause (1A), the President shall be deemed to have made or revoked the appointment, or to have concurred with the appointment or revocation of appointment, as the case may be, on the date of the passing of such resolution. (2) (a) The chairman or member of a statutory board to which this Article applies shall be appointed for a term not exceeding 3 years and shall be eligible for reappointment. (b) Any appointment to the office of chairman, member or chief executive officer of a statutory board under clause (1) ( b ) or any revocation thereof shall be void if made without the concurrence of the President. (3) This Article shall apply to the statutory boards specified in Part I of the Fifth Schedule. (4) Subject to clause (5), the President acting in accordance with the advice of the Cabinet may, by order published in the Gazette , add any other statutory board to Part I of the Fifth Schedule; and no statutory board shall be removed from that Part by any such order. (5) No statutory board shall by order under clause (4) be added to Part I of the Fifth Schedule if the total value of the reserves of the statutory board on the date of making of such order is less than $100 million.
 #### Budgets of statutory boards
-whether the statements referred to in sub-paragraphs (i) and (ii) show any drawing on the
+22B. —(1) Every statutory board to which Article 22A applies shall —
 
-22B. -(1) Every statutory board to which Article 22A applies shall (a) before the commencement of its financial year, present to the President for his approval its budget for that financial year, together with a declaration by the chairman and the chief executive officer of the statutory board whether the budget when implemented is likely to draw on the reserves which were not accumulated by the statutory board during the current term of office of the Government; (b) present to the President for his approval every supplementary budget for its financial year together with a declaration referred to in paragraph ( a ) relating to such supplementary budget; and (c) within 6 months after the close of that financial year, present to the President (i) a full and particular audited statement showing the revenue received and expenditure incurred by the statutory board during that financial year; (ii) as far as practicable, an audited statement of the assets and liabilities of the statutory board at the end of that financial year; and (iii) a declaration by the chairman and the chief executive officer of the statutory board reserves which were not accumulated by the statutory board during the current term of office of the Government. (2) The President, acting in his discretion, may refuse to approve any budget or supplementary budget of any such statutory board if, in his opinion, the budget is likely
+(a) before the commencement of its financial year, present to the President for his approval its budget for that financial year, together with a declaration by the chairman and the chief executive officer of the statutory board whether the budget when implemented is likely to draw on the reserves which were not accumulated by the statutory board during the current term of office of the Government;
 
-- to draw on reserves which were not accumulated by the statutory board during the current
+(b) present to the President for his approval every supplementary budget for its financial year together with a declaration referred to in paragraph (a) relating to such supplementary budget; and
+
+(c) within 6 months after the close of that financial year, present to the President —
+
+(i) a full and particular audited statement showing the revenue received and expenditure incurred by the statutory board during that financial year;
+
+(ii) as far as practicable, an audited statement of the assets and liabilities of the statutory board at the end of that financial year; and
+
+(iii) a declaration by the chairman and the chief executive officer of the statutory board whether the statements referred to in sub-paragraphs (i) and (ii) show any drawing on the reserves which were not accumulated by the statutory board during the current term of office of the Government.
+
+(2) The President, acting in his discretion, may refuse to approve any budget or supplementary budget of any such statutory board if, in his opinion, the budget is likely to draw on reserves which were not accumulated by the statutory board during the current
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-term of office of the Government, except that if he approves any such budget notwithstanding his opinion that the budget is likely to so draw on those reserves, the President shall cause his opinion to be published in the Gazette . (3) Where by the first day of the financial year of such statutory board the President has not approved its budget for that financial year, the statutory board (a) shall, within 3 months of the first day of that financial year, present to the President a revised budget for that financial year together with the declaration referred to in clause (1); and (b) may, pending the decision of the President, incur expenditure not exceeding onequarter of the amount provided in the approved budget of the statutory board for the preceding financial year, and if the President does not approve the revised budget, the statutory board may during that financial year incur total expenditure not exceeding the amount provided in the approved budget of the statutory board for the preceding financial year; and the budget for the preceding financial year shall have effect as the approved budget for that financial year. (4) Any amount expended during a financial year under clause (3) ( b ) shall be included in any revised budget subsequently presented to the President under that clause for that financial year. (5) Nothing in this Article shall prevent the taking of any action by the Monetary Authority of Singapore in the management of the Singapore dollar; and a certificate under the hand of the chairman of the board of directors of the Monetary Authority of Singapore shall be conclusive evidence that any action was or was not taken for such purpose. (6) It shall be the duty of every statutory board and its chief executive officer to which this Article applies to inform the President of any proposed transaction of the statutory board which is likely to draw on the reserves accumulated by the statutory board prior to the current term of office of the Government. (7) Where the President has been so informed under clause (6) of any such proposed transaction, the President, acting in his discretion, may disapprove the proposed transaction, except that if he does not disapprove any such proposed transaction even though he is of the opinion that the proposed transaction is likely to draw on the reserves accumulated by the statutory board prior to the current term of office of the Government, the President shall cause his decision and opinion to be published in the Gazette. (8) Where after 30th November 1991 a statutory board is specified in Part I of the Fifth Schedule pursuant to an order made under Article 22A (4), any reference in this Article to the approved budget of a statutory board for the preceding financial year shall, in relation to the first-mentioned statutory board, be read as a reference to the budget for the financial year of the first-mentioned statutory board during which that order was made. (9)   For the purposes of this Article, a proposed transfer or transfer (whether by or under any written law or otherwise) by any statutory board to which this Article applies (referred to in this clause and clause (10) as the transferor board) of any of its reserves to -
+term of office of the Government, except that if he approves any such budget notwithstanding his opinion that the budget is likely to so draw on those reserves, the President shall cause his opinion to be published in the Gazette.
+
+(3) Where by the first day of the financial year of such statutory board the President has not approved its budget for that financial year, the statutory board —
+
+(a) shall, within 3 months of the first day of that financial year, present to the President a revised budget for that financial year together with the declaration referred to in clause (1); and
+
+(b) may, pending the decision of the President, incur expenditure not exceeding one-quarter of the amount provided in the approved budget of the statutory board for the preceding financial year,
+
+and if the President does not approve the revised budget, the statutory board may during that financial year incur total expenditure not exceeding the amount provided in the approved budget of the statutory board for the preceding financial year; and the budget for the preceding financial year shall have effect as the approved budget for that financial year.
+
+(4) Any amount expended during a financial year under clause (3) (b) shall be included in any revised budget subsequently presented to the President under that clause for that financial year.
+
+(5) Nothing in this Article shall prevent the taking of any action by the Monetary Authority of Singapore in the management of the Singapore dollar; and a certificate under the hand of the chairman of the board of directors of the Monetary Authority of Singapore shall be conclusive evidence that any action was or was not taken for such purpose.
+
+(6) It shall be the duty of every statutory board and its chief executive officer to which this Article applies to inform the President of any proposed transaction of the statutory board which is likely to draw on the reserves accumulated by the statutory board prior to the current term of office of the Government.
+
+(7) Where the President has been so informed under clause (6) of any such proposed transaction, the President, acting in his discretion, may disapprove the proposed transaction, except that if he does not disapprove any such proposed transaction even though he is of the opinion that the proposed transaction is likely to draw on the reserves accumulated by the statutory board prior to the current term of office of the Government, the President shall cause his decision and opinion to be published in the Gazette.
+
+(8) Where after 30th November 1991 a statutory board is specified in Part I of the Fifth Schedule pursuant to an order made under Article 22A (4), any reference in this Article to the approved budget of a statutory board for the preceding financial year shall, in relation to the first-mentioned statutory board, be read as a reference to the budget for the financial year of the first-mentioned statutory board during which that order was made.
+
+(9) For the purposes of this Article, a proposed transfer or transfer (whether by or under any written law or otherwise) by any statutory board to which this Article applies (referred to in this clause and clause (10) as the transferor board) of any of its reserves to —
 
 (a) the Government;
 
@@ -322,7 +458,7 @@ term of office of the Government, except that if he approves any such budget not
 #### Appointment of directors of Government companies
 22C. -(1) Notwithstanding the provisions of the memorandum and articles of association of the company, the appointment or removal of any person as a director or chief executive officer of any Government company to which this Article applies shall not be made unless the President, acting in his discretion, concurs with such appointment or removal. (1A) Where the President, contrary to the recommendation of the Council of Presidential Advisers, refuses to concur with an appointment or removal of any person as a director or chief executive officer under clause (1), Parliament may, by resolution passed by not less than two-thirds of the total number of the elected Members of Parliament referred to in Article 39 (1) ( a ), overrule the decision of the President. (1B) Upon the passing of a resolution under clause (1A), the President shall be deemed to have concurred with the appointment or removal of any person as a director or chief executive officer on the date of the passing of such resolution. (2) (a) A director of a Government company to which this Article applies shall be appointed
 
-- for a term not exceeding 3 years and shall be eligible for reappointment.
+for a term not exceeding 3 years and shall be eligible for reappointment.
 
 [[END OF PAGE 15]]
 
@@ -330,17 +466,51 @@ term of office of the Government, except that if he approves any such budget not
 
 (b) Any appointment or removal of any director or chief executive officer of a Government company to which this Article applies without the concurrence of the President shall be void and of no effect. (3) This Article shall apply to the Government companies specified in Part II of the Fifth Schedule. (4) Subject to clause (5), the President acting in accordance with the advice of the Cabinet may, by order published in the Gazette, add any other Government company to Part II of the Fifth Schedule; and no Government company shall be removed from that Part by any such order. (5) No Government company shall by order under clause (4) be added to Part II of the Fifth Schedule unless on the date of making of such order (a) the value of the share holders' funds of the company attributable to the Government's interest in the company is worth $100 million or more; and (b) it is not a subsidiary of any of the Government companies specified in Part II of the Fifth Schedule; and for the purposes of this paragraph, 'subsidiary' shall have the same meaning as in the Companies Act (Cap. 50).
 #### Budgets of Government companies
-22D. -(1) The board of directors of every Government company to which Article 22C applies shall (a) before the commencement of its financial year, present to the President for his approval its budget for that financial year, together with a declaration by the chairman of the board of directors and the chief executive officer of the Government company whether the budget when implemented is likely to draw on the reserves which were not accumulated by the Government company during the current term of office of the Government; (b) present to the President for his approval every supplementary budget for its financial year together with a declaration referred to in paragraph ( a ) relating to such supplementary budget; and (c) within 6 months after the close of that financial year, present to the President (i) a full and particular audited profit and loss account showing the revenue collected and expenditure incurred by the Government company during that financial year, and an audited balance-sheet showing the assets and liabilities of the Government company at the end of that financial year; and (ii) a declaration by the chairman of the board of directors and the chief executive officer of the Government company whether the audited profit and loss account and balancesheet of the Government company show any drawing on the reserves which were not accumulated by the Government company during the current term of office of the Government. (2) The President, acting in his discretion, may disapprove the budget or supplementary budget of any such Government company if, in his opinion, the budget is likely to draw on reserves which were not accumulated by that company during the current term of office of the Government, except that if he approves any such budget notwithstanding his opinion that the budget is likely to so draw on those reserves, the President shall cause his opinion to be published in the Gazette . (3) Where by the first day of the financial year of such Government company the
+22D. —(1) The board of directors of every Government company to which Article 22C applies shall —
 
-- President has not approved its budget for that financial year, the Government company -
+(a) before the commencement of its financial year, present to the President for his approval its budget for that financial year, together with a declaration by the chairman of the board of directors and the chief executive officer of the Government company whether the budget when implemented is likely to draw on the reserves which were not accumulated by the Government company during the current term of office of the Government;
+
+(b) present to the President for his approval every supplementary budget for its financial year together with a declaration referred to in paragraph (a) relating to such supplementary budget; and
+
+(c) within 6 months after the close of that financial year, present to the President —
+
+(i) a full and particular audited profit and loss account showing the revenue collected and expenditure incurred by the Government company during that financial year, and an audited balance-sheet showing the assets and liabilities of the Government company at the end of that financial year; and
+
+(ii) a declaration by the chairman of the board of directors and the chief executive officer of the Government company whether the audited profit and loss account and balance-sheet of the Government company show any drawing on the reserves which were not accumulated by the Government company during the current term of office of the Government.
+
+(2) The President, acting in his discretion, may disapprove the budget or supplementary budget of any such Government company if, in his opinion, the budget is likely to draw on reserves which were not accumulated by that company during the current term of office of the Government, except that if he approves any such budget notwithstanding his opinion that the budget is likely to so draw on those reserves, the President shall cause his opinion to be published in the Gazette.
+
+(3) Where by the first day of the financial year of such Government company the President has not approved its budget for that financial year, the Government company —
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
-(a) shall, within 3 months of the first day of that financial year, present to the President a revised budget for that financial year together with the declaration referred to in clause (1); and (b) may, pending the decision of the President, incur expenditure not exceeding onequarter of the amount provided in the approved budget of the Government company for the preceding financial year, and if the President does not approve the revised budget, the Government company may during that financial year incur a total expenditure not exceeding the amount provided in the approved budget of the Government company for the preceding financial year; and the budget for the preceding financial year shall have effect as the approved budget for that financial year. (4) Any amount expended during a financial year under clause (3) ( b ) shall be included in any revised budget subsequently presented to the President under that clause for that financial year. (5) It shall be the duty of the board of directors and the chief executive officer of every Government company referred to in this Article to inform the President of any proposed transaction of the company which is likely to draw on the reserves accumulated by the company prior to the current term of office of the Government. (6) Where the President has been so informed under clause (5) of any such proposed transaction, the President, acting in his discretion, may disapprove the proposed transaction, except that if he does not disapprove any such proposed transaction even though he is of the opinion that the proposed transaction is likely to draw on the reserves accumulated by the Government company prior to the current term of office of the Government, the President shall cause his decision and opinion to be published in the Gazette . (7) Where after 30th November 1991 a Government company is specified in Part II of the Fifth Schedule pursuant to an order made under Article 22C (4), any reference in this Article to the approved budget of a Government company for the preceding financial year shall, in relation to the first-mentioned Government company, be read as a reference to the budget for the financial year of the first-mentioned Government company immediately preceding the making of that order. (8)   For the purposes of this Article, a proposed transfer or transfer by any Government company to which this Article applies (referred to in this clause and clause (9) as the transferor company) of any of its reserves to (a) the Government; (b) any statutory board specified in Part I of the Fifth Schedule (referred to in this clause and clause (9) as the transferee board); or (c) another such Government company (referred to in this clause and clause (9) as the transferee company), shall not be taken into account in determining whether the reserves accumulated by the transferor company before the current term of office of the Government are likely to be or have been drawn on if (i) in the case of a proposed transfer or transfer of reserves by a transferor company to the reserves of the transferor company to the reserves accumulated by the Government before
+(a) shall, within 3 months of the first day of that financial year, present to the President a revised budget for that financial year together with the declaration referred to in clause (1); and
 
-Government - the Minister responsible for finance undertakes in writing to add those its current term of office;
+(b) may, pending the decision of the President, incur expenditure not exceeding one-quarter of the amount provided in the approved budget of the Government company for the preceding financial year,
+
+and if the President does not approve the revised budget, the Government company may during that financial year incur a total expenditure not exceeding the amount provided in the approved budget of the Government company for the preceding financial year; and the budget for the preceding financial year shall have effect as the approved budget for that financial year.
+
+(4) Any amount expended during a financial year under clause (3) (b) shall be included in any revised budget subsequently presented to the President under that clause for that financial year.
+
+(5) It shall be the duty of the board of directors and the chief executive officer of every Government company referred to in this Article to inform the President of any proposed transaction of the company which is likely to draw on the reserves accumulated by the company prior to the current term of office of the Government.
+
+(6) Where the President has been so informed under clause (5) of any such proposed transaction, the President, acting in his discretion, may disapprove the proposed transaction, except that if he does not disapprove any such proposed transaction even though he is of the opinion that the proposed transaction is likely to draw on the reserves accumulated by the Government company prior to the current term of office of the Government, the President shall cause his decision and opinion to be published in the Gazette.
+
+(7) Where after 30th November 1991 a Government company is specified in Part II of the Fifth Schedule pursuant to an order made under Article 22C (4), any reference in this Article to the approved budget of a Government company for the preceding financial year shall, in relation to the first-mentioned Government company, be read as a reference to the budget for the financial year of the first-mentioned Government company immediately preceding the making of that order.
+
+(8) For the purposes of this Article, a proposed transfer or transfer by any Government company to which this Article applies (referred to in this clause and clause (9) as the transferor company) of any of its reserves to —
+
+(a) the Government;
+
+(b) any statutory board specified in Part I of the Fifth Schedule (referred to in this clause and clause (9) as the transferee board); or
+
+(c) another such Government company (referred to in this clause and clause (9) as the transferee company),
+
+shall not be taken into account in determining whether the reserves accumulated by the transferor company before the current term of office of the Government are likely to be or have been drawn on if —
+
+(i) in the case of a proposed transfer or transfer of reserves by a transferor company to the Government — the Minister responsible for finance undertakes in writing to add those reserves of the transferor company to the reserves accumulated by the Government before its current term of office;
 
 [[END OF PAGE 17]]
 
@@ -352,39 +522,39 @@ Government - the Minister responsible for finance undertakes in writing to add t
 #### President's access to information
 22F. -(1) In the exercise of his functions under this Constitution, the President shall be entitled, at his request, to any information concerning (a) the Government which is available to the Cabinet; and (b) any statutory board or Government company to which Article 22A or 22C, as the case may be, applies which is available to the members of the statutory board or the directors of the Government company. (2) The President may request (a) any Minister, or any senior officer of a Ministry or of a department of the Government; or (b) the chief executive officer and any member of the governing board of any statutory board or the directors of any Government company to which Article 22A or 22C, as the case may be, applies, to furnish any information referred to in clause (1) concerning the reserves of the Government, the statutory board or Government company, as the case may be, and the Minister, member, officer or director concerned shall be under a duty to provide the information.
 #### Concurrence of President for certain investigations
-22G. Notwithstanding that the Prime Minister has refused to give his consent to the Director of the Corrupt Practices Investigation Bureau to make any inquiries or to carry
-
-out any investigations into any information received by the Director touching upon the conduct of any person or any allegation or complaint made against any person, the Director may make such inquiries or carry out investigations into such information, allegation or complaint if the President, acting in his discretion, concurs therewith.
+22G. Notwithstanding that the Prime Minister has refused to give his consent to the Director of the Corrupt Practices Investigation Bureau to make any inquiries or to carry out any investigations into any information received by the Director touching upon the
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
+conduct of any person or any allegation or complaint made against any person, the Director may make such inquiries or carry out investigations into such information, allegation or complaint if the President, acting in his discretion, concurs therewith.
+
 #### President may withhold assent to certain Bills
 
-- 22H. -(1) The President may, acting in his discretion, in writing withhold his assent to any Bill (other than a Bill seeking to amend this Constitution), if the Bill or any provision therein provides, directly or indirectly, for the circumvention or curtailment of the discretionary powers conferred upon the President by this Constitution.
+22H. —(1) The President may, acting in his discretion, in writing withhold his assent to any Bill (other than a Bill seeking to amend this Constitution), if the Bill or any provision therein provides, directly or indirectly, for the circumvention or curtailment of the discretionary powers conferred upon the President by this Constitution.
 
-- The President, acting in accordance with the advice of the Cabinet, may pursuant to Article 100 (and whether before or after his assent has been withheld to a Bill under clause (1)), refer to a tribunal for its opinion the question whether the Bill or any provision therein provides, directly or indirectly, for the circumvention or curtailment of the discretionary powers conferred upon the President by this Constitution; and where such a reference is made to the tribunal, Article 100 shall apply, with the necessary modifications, to that reference.
+(2) The President, acting in accordance with the advice of the Cabinet, may pursuant to Article 100 (and whether before or after his assent has been withheld to a Bill under clause (1)), refer to a tribunal for its opinion the question whether the Bill or any provision therein provides, directly or indirectly, for the circumvention or curtailment of the discretionary powers conferred upon the President by this Constitution; and where such a reference is made to the tribunal, Article 100 shall apply, with the necessary modifications, to that reference.
 
-- Where a reference is made to the tribunal and the tribunal is of the opinion that neither the Bill nor any provision therein provides, directly or indirectly, for the circumvention or curtailment of the discretionary powers conferred upon the President by this Constitution, the President shall be deemed to have assented to the Bill on the day immediately after the day of the pronouncement of the opinion of the tribunal in open court.
+(3) Where a reference is made to the tribunal and the tribunal is of the opinion that neither the Bill nor any provision therein provides, directly or indirectly, for the circumvention or curtailment of the discretionary powers conferred upon the President by this Constitution, the President shall be deemed to have assented to the Bill on the day immediately after the day of the pronouncement of the opinion of the tribunal in open court.
 
-- For the purposes of this Article, where, on the expiration of 30 days after a Bill has been presented to the President for his assent, the President has neither signified the withholding of his assent to the Bill nor referred the Bill to a tribunal pursuant to Article 100, the President shall be deemed to have assented to the Bill on the day immediately following the expiration of the said 30 days.
+(4) For the purposes of this Article, where, on the expiration of 30 days after a Bill has been presented to the President for his assent, the President has neither signified the withholding of his assent to the Bill nor referred the Bill to a tribunal pursuant to Article 100, the President shall be deemed to have assented to the Bill on the day immediately following the expiration of the said 30 days.
 
 #### Restraining order under Maintenance of Religious Harmony Act
 
-- 22I. The President, acting in his discretion, may cancel, vary, confirm or refuse to confirm a restraining order made under the Maintenance of Religious Harmony Act (Cap. 167A) where the advice of the Cabinet is contrary to the recommendation of the Presidential Council for Religious Harmony.
+22I. The President, acting in his discretion, may cancel, vary, confirm or refuse to confirm a restraining order made under the Maintenance of Religious Harmony Act (Cap. 167A) where the advice of the Cabinet is contrary to the recommendation of the Presidential Council for Religious Harmony.
 
 #### Civil List and personal staff of President
 
-- 22J. -(1) The Legislature shall by law provide a Civil List for the maintenance of the President.
+22J. —(1) The Legislature shall by law provide a Civil List for the maintenance of the President.
 
-- Any person exercising the functions of the office of President under Article 22N or 22O shall, during any period in which he exercises those functions, be entitled to such remuneration as the Legislature may by law provide.
+(2) Any person exercising the functions of the office of President under Article 22N or 22O shall, during any period in which he exercises those functions, be entitled to such remuneration as the Legislature may by law provide.
 
-- The Civil List for the maintenance of the President or any person exercising the functions of the office of President shall be charged on and paid out of the Consolidated Fund and shall not be diminished during the continuance in office of the President or that person.
+(3) The Civil List for the maintenance of the President or any person exercising the functions of the office of President shall be charged on and paid out of the Consolidated Fund and shall not be diminished during the continuance in office of the President or that person.
 
-- Subject to clause (5), the appointment, terms of service, disciplinary control, termination of appointment and dismissal of the personal staff of the President shall be matters for the President acting in his discretion.
+(4) Subject to clause (5), the appointment, terms of service, disciplinary control, termination of appointment and dismissal of the personal staff of the President shall be matters for the President acting in his discretion.
 
-- The President may, if he so desires, appoint to his personal staff such public officers as he may select, after consultation with the Prime Minister, from a list of names
+(5) The President may, if he so desires, appoint to his personal staff such public officers as he may select, after consultation with the Prime Minister, from a list of names
 
 [[END OF PAGE 19]]
 
@@ -442,29 +612,29 @@ and setting out full particulars of the allegations made and seeking an inquiry 
 
 [[START OF PAGE 21]]
 
-- A tribunal appointed by the Chief Justice shall consist of not less than 5 Judges of the Supreme Court of whom the Chief Justice shall be one, unless he otherwise decides and such tribunal may regulate its own procedure and make rules for that purpose.
+(5) A tribunal appointed by the Chief Justice shall consist of not less than 5 Judges of the Supreme Court of whom the Chief Justice shall be one, unless he otherwise decides and such tribunal may regulate its own procedure and make rules for that purpose.
 
-- A tribunal shall, after due inquiry at which the President shall have the right to appear and to be heard in person or by counsel, make a report of its determination to the Speaker together with the reasons therefor.
+(6) A tribunal shall, after due inquiry at which the President shall have the right to appear and to be heard in person or by counsel, make a report of its determination to the Speaker together with the reasons therefor.
 
-- Where the tribunal reports to the Speaker that in its opinion the President is permanently incapable of discharging the functions of his office by reason of mental or physical infirmity or that the President has been guilty of any of the other allegations contained in such resolution, Parliament may by a resolution passed by not less than three-quarters of the total number of the elected Members of Parliament referred to in Article 39 (1) (a) remove the President from office.
+(7) Where the tribunal reports to the Speaker that in its opinion the President is permanently incapable of discharging the functions of his office by reason of mental or physical infirmity or that the President has been guilty of any of the other allegations contained in such resolution, Parliament may by a resolution passed by not less than three-quarters of the total number of the elected Members of Parliament referred to in Article 39 (1) (a) remove the President from office.
 
 #### Determination by Election Judge that President was not duly elected or election of President was void
 
-- 22M. -(1) Where the Election Judge in the exercise of his jurisdiction under Article 93A determines -
+22M. —(1) Where the Election Judge in the exercise of his jurisdiction under Article 93A determines —
 
 (a) that the election of the President was void and does not determine that any other person was duly elected, then, a poll for the election of the President shall be taken not later than 6 months from the date of the determination; or
 
 (b) that any other person was duly elected as President, then, such other person shall assume the office of President forthwith after the determination.
 
-- Upon the Election Judge making any determination that the election of the President was void and no other person was duly elected as President, the person who immediately before such determination was exercising the functions of the office of President shall forthwith cease to exercise such functions.
+(2) Upon the Election Judge making any determination that the election of the President was void and no other person was duly elected as President, the person who immediately before such determination was exercising the functions of the office of President shall forthwith cease to exercise such functions.
 
-- The exercise, performance and discharge by any person of the powers, duties and functions of the office of President shall not be invalid by reason only of the fact that the Election Judge subsequently determines that the election of such person as President was void or undue.
+(3) The exercise, performance and discharge by any person of the powers, duties and functions of the office of President shall not be invalid by reason only of the fact that the Election Judge subsequently determines that the election of such person as President was void or undue.
 
 #### Persons to exercise functions of President when office is vacant
 
 22N. -(1) If the office of President becomes vacant, the Chairman of the Council of Presidential Advisers or, if he is unavailable, the Speaker shall exercise the functions of the office of President during the period between the date the office of President becomes vacant and the assumption of office by the person declared elected as President. (2) If neither the Chairman of the Council of Presidential Advisers nor the Speaker is available, Parliament may appoint a person in accordance with clause (3) to exercise the functions of the office of President during the period referred to in clause (1). (3) Parliament shall not appoint any person to exercise the functions of the office of President under clause (2) unless the person is qualified to be elected as President. (4) The provisions of this Chapter relating to immunity from suits shall apply in relation to any person exercising the functions of the office of President pursuant to this Article as if references to the President in those provisions were references to that person. (5) Any person required or appointed to exercise the functions of the office of President
 
-- pursuant to this Article or Article 22O shall, before exercising those functions, take and
+pursuant to this Article or Article 22O shall, before exercising those functions, take and
 
 [[END OF PAGE 21]]
 
@@ -474,27 +644,29 @@ subscribe in the presence of the Chief Justice or another Judge of the Supreme C
 
 #### Temporary disability of President
 
-- 22O. -(1) Subject to clause (2), if the President becomes temporarily unable, whether by reason of ill-health, absence from Singapore or otherwise, to perform his functions under this Constitution or any other written law, one of the persons referred to in Article 22N shall exercise the functions of the office of President during the period of temporary disability, and the provisions of Article 22N shall apply, with the necessary modifications, to that person.
+22O. —(1) Subject to clause (2), if the President becomes temporarily unable, whether by reason of ill-health, absence from Singapore or otherwise, to perform his functions under this Constitution or any other written law, one of the persons referred to in Article 22N shall exercise the functions of the office of President during the period of temporary disability, and the provisions of Article 22N shall apply, with the necessary modifications, to that person.
 
 (2) Parliament shall not appoint any person to exercise the functions of the office of President under this Article unless the President agrees to that person being so appointed. (3) Clause (2) shall not apply if the President is unable for any reason to signify his agreement to a person being appointed under this Article to exercise the functions of the office of President.
 
 #### Grant of pardon, etc.
 
-- 22P. -(1) The President, as occasion shall arise, may, on the advice of the Cabinet (a) grant a pardon to any accomplice in any offence who gives information which leads to the conviction of the principal offender or any one of the principal offenders, if more than one;
+22P. —(1) The President, as occasion shall arise, may, on the advice of the Cabinet —
+
+(a) grant a pardon to any accomplice in any offence who gives information which leads to the conviction of the principal offender or any one of the principal offenders, if more than one;
 
 (b) grant to any offender convicted of any offence in any court in Singapore, a pardon, free or subject to lawful conditions, or any reprieve or respite, either indefinite or for such period as the President may think fit, of the execution of any sentence pronounced on such offender; or
 
 (c) remit the whole or any part of such sentence or of any penalty or forfeiture imposed by law.
 
-- Where any offender has been condemned to death by the sentence of any court and in the event of an appeal such sentence has been confirmed by the appellate court, the President shall cause the reports which are made to him by the Judge who tried the case and the Chief Justice or other presiding Judge of the appellate court to be forwarded to the Attorney-General with instructions that, after the Attorney-General has given his opinion thereon, the reports shall be sent, together with the Attorney-General's opinion, to the Cabinet so that the Cabinet may advise the President on the exercise of the power conferred on him by clause (1).
+(2) Where any offender has been condemned to death by the sentence of any court and in the event of an appeal such sentence has been confirmed by the appellate court, the President shall cause the reports which are made to him by the Judge who tried the case and the Chief Justice or other presiding Judge of the appellate court to be forwarded to the Attorney-General with instructions that, after the Attorney-General has given his opinion thereon, the reports shall be sent, together with the Attorney-General’s opinion, to the Cabinet so that the Cabinet may advise the President on the exercise of the power conferred on him by clause (1).
 
 ### Chapter 2 - The Executive
 
 #### Executive authority of Singapore
 
--(1) The executive authority of Singapore shall be vested in the President and exercisable subject to the provisions of this Constitution by him or by the Cabinet or any Minister authorised by the Cabinet.
+23. —(1) The executive authority of Singapore shall be vested in the President and exercisable subject to the provisions of this Constitution by him or by the Cabinet or any Minister authorised by the Cabinet.
 
-- The Legislature may by law confer executive functions on other persons.
+(2) The Legislature may by law confer executive functions on other persons.
 
 [[END OF PAGE 22]]
 
@@ -502,21 +674,21 @@ subscribe in the presence of the Chief Justice or another Judge of the Supreme C
 
 #### Cabinet
 
--(1) There shall be in and for Singapore a Cabinet which shall consist of the Prime
+24. —(1) There shall be in and for Singapore a Cabinet which shall consist of the Prime Minister and such other Ministers as may be appointed in accordance with Article 25.
 
-Minister and such other Ministers as may be appointed in accordance with Article 25. (2) Subject to the provisions of this Constitution, the Cabinet shall have the general direction and control of the Government and shall be collectively responsible to Parliament.
+(2) Subject to the provisions of this Constitution, the Cabinet shall have the general direction and control of the Government and shall be collectively responsible to Parliament.
 
 #### Appointment of Prime Minister and Ministers
 
--(1) The President shall appoint as Prime Minister a Member of Parliament who in his judgment is likely to command the confidence of the majority of the Members of Parliament, and shall, acting in accordance with the advice of the Prime Minister, appoint other Ministers from among the Members of Parliament:
+25. —(1) The President shall appoint as Prime Minister a Member of Parliament who in his judgment is likely to command the confidence of the majority of the Members of Parliament, and shall, acting in accordance with the advice of the Prime Minister, appoint other Ministers from among the Members of Parliament:
 
 Provided that, if an appointment is made while Parliament is dissolved, a person who was a Member of the last Parliament may be appointed but shall not continue to hold office after the first sitting of the next Parliament unless he is a Member thereof.
 
-- Appointments under this Article shall be made by the President by instrument under the public seal.
+(2) Appointments under this Article shall be made by the President by instrument under the public seal.
 
 #### Tenure of office of Prime Minister and Ministers
 
--(1) The President shall, by writing under the public seal, declare the office of Prime Minister vacant -
+26. —(1) The President shall, by writing under the public seal, declare the office of Prime Minister vacant —
 
 (a) if the Prime Minister resigns his office by writing under his hand addressed to the President; or
 
@@ -524,13 +696,13 @@ Provided that, if an appointment is made while Parliament is dissolved, a person
 
 Provided that, before declaring the office of Prime Minister vacant under this paragraph, the President shall inform the Prime Minister that he is satisfied as aforesaid, and, if the Prime Minister so requests, the President may dissolve Parliament instead of making such a declaration.
 
-- A Minister, other than the Prime Minister, shall vacate his office -
+(2) A Minister, other than the Prime Minister, shall vacate his office —
 
 (a) if his appointment to that office is revoked by the President, acting in accordance with the advice of the Prime Minister, by instrument under the public seal; or
 
 (b) if he resigns his office by writing under his hand addressed to the President.
 
-- A person who has vacated his office as Minister may, if qualified, be again appointed as Minister from time to time.
+(3) A person who has vacated his office as Minister may, if qualified, be again appointed as Minister from time to time.
 
 (4)
 
@@ -538,11 +710,11 @@ Provided that, before declaring the office of Prime Minister vacant under this p
 
 (b) The President may, by instrument under the public seal, revoke any authority given under this clause.
 
-(c) The powers conferred upon the President by this clause shall be exercised by him acting in his discretion, if in his opinion it is impracticable to obtain the advice of the Prime Minister owing to the Prime Minister"s illness or absence, and in any other case shall be exercised by the President in accordance with the advice of the Prime Minister.
+(c) The powers conferred upon the President by this clause shall be exercised by him acting in his discretion, if in his opinion it is impracticable to obtain the advice of the Prime Minister owing to the Prime Minister’s illness or absence, and in any other case shall be exercised by the President in accordance with the advice of the Prime Minister.
 
 #### Oath
 
-- The Prime Minister and every other Minister shall, before entering on the duties of
+27. The Prime Minister and every other Minister shall, before entering on the duties of
 
 [[END OF PAGE 23]]
 
@@ -552,7 +724,7 @@ his office, take and subscribe before the President the Oath of Allegiance and t
 
 #### Summoning of and presiding in Cabinet
 
--(1) The Cabinet shall not be summoned except by the authority of the Prime Minister.
+28. —(1) The Cabinet shall not be summoned except by the authority of the Prime Minister.
 
 (2) The Prime Minister shall, so far as is practicable, attend and preside at meetings of the Cabinet and, in his absence, such other Minister shall preside as the Prime Minister shall appoint.
 
@@ -568,19 +740,19 @@ his office, take and subscribe before the President the Oath of Allegiance and t
 
 31. -(1) The President, acting in accordance with the advice of the Prime Minister, may by instrument under the public seal, appoint Parliamentary Secretaries from among the Members of Parliament to assist Ministers in the discharge of their duties and functions: Provided that, if an appointment is made while Parliament is dissolved, a person who was a Member of the last Parliament may be appointed a Parliamentary Secretary but shall not continue to hold office after the first sitting of the next Parliament unless he is a Member thereof.
 
-- Article 26 (2) and (3) and Article 27 shall apply to Parliamentary Secretaries as they apply to Ministers.
+(2) Article 26 (2) and (3) and Article 27 shall apply to Parliamentary Secretaries as they apply to Ministers.
 
 #### Leave of absence for Ministers and Parliamentary Secretaries
 
-- The President, acting in accordance with the advice of the Prime Minister, may grant leave of absence from his duties to the Prime Minister, to any other Minister and to any Parliamentary Secretary.
+32. The President, acting in accordance with the advice of the Prime Minister, may grant leave of absence from his duties to the Prime Minister, to any other Minister and to any Parliamentary Secretary.
 
 #### Disabilities of Ministers and Parliamentary Secretaries
 
-- A member of the Cabinet or Parliamentary Secretary shall not hold any office of profit and shall not actively engage in any commercial enterprise.
+33. A member of the Cabinet or Parliamentary Secretary shall not hold any office of profit and shall not actively engage in any commercial enterprise.
 
 #### Permanent Secretaries
 
--(1) There shall be for each Ministry one or more Permanent Secretaries who shall be persons who are public officers.
+34. —(1) There shall be for each Ministry one or more Permanent Secretaries who shall be persons who are public officers.
 
 (2)
 
@@ -588,7 +760,7 @@ his office, take and subscribe before the President the Oath of Allegiance and t
 
 (b) The responsibility for the allocation of each Permanent Secretary to a Ministry shall be vested in the Prime Minister.
 
-- Every Permanent Secretary shall, subject to the general direction and control of the Minister, exercise supervision over the department or departments to which he is allocated.
+(3) Every Permanent Secretary shall, subject to the general direction and control of the Minister, exercise supervision over the department or departments to which he is allocated.
 
 [[END OF PAGE 24]]
 
@@ -598,13 +770,13 @@ his office, take and subscribe before the President the Oath of Allegiance and t
 
 35. -(1) The office of Attorney-General is hereby constituted and appointments thereto shall be made by the President, if he, acting in his discretion, concurs with the advice of the Prime Minister, from among persons who are qualified for appointment as a Judge of the Supreme Court. (2) When it is necessary to make an appointment to the office of Attorney-General otherwise than by reason of the death of the holder of that office or his removal from office under clause (6), the Prime Minister shall, before tendering advice to the President under clause (1), consult the person holding the office of Attorney-General or, if that office is then vacant, the person who has last vacated it, and the Prime Minister shall, in every case, before tendering such advice, consult the Chief Justice and the Chairman of the Public Service Commission. (3) The Prime Minister shall not be obliged to consult any person under clause (2) if he is satisfied that by reason of the infirmity of body or mind of that person or for any other reason it is impracticable to do so. (4) The Attorney-General may be appointed for a specific period and, if he was so appointed, shall, subject to clause (6), vacate his office (without prejudice to his eligibility for reappointment) at the expiration of that period, but, subject as aforesaid, shall otherwise hold office until he attains the age of 60 years: Provided that (a) he may at any time resign his office by writing under his hand addressed to the President; and (b) the President, if he, acting in his discretion, concurs with the advice of the Prime Minister, may permit an Attorney-General who has attained the age of 60 years to remain in office for such fixed period as may have been agreed between the Attorney-General and the Government. (5) Nothing done by the Attorney-General shall be invalid by reason only that he has attained the age at which he is required by this Article to vacate his office. (6) (a) The Attorney-General may be removed from office by the President, if he, acting in his discretion, concurs with the advice of the Prime Minister, but the Prime Minister shall not tender such advice except for inability of the Attorney-General to discharge the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour and except with the concurrence of a tribunal consisting of the Chief Justice and 2 other Judges of the Supreme Court nominated for that purpose by the Chief Justice. (b) The tribunal constituted under this clause shall regulate its own procedure and may make rules for that purpose. (7) It shall be the duty of the Attorney-General to advise the Government upon such legal matters and to perform such other duties of a legal character, as may from time to time be referred or assigned to him by the President or the Cabinet and to discharge the functions conferred on him by or under this Constitution or any other written law. (8) The Attorney-General shall have power, exercisable at his discretion, to institute,
 
-- conduct or discontinue any proceedings for any offence.
+conduct or discontinue any proceedings for any offence.
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
-- In the performance of his duties, the Attorney-General shall have the right of audience in, and shall take precedence over any other person appearing before, any court or tribunal in Singapore.
+(9) In the performance of his duties, the Attorney-General shall have the right of audience in, and shall take precedence over any other person appearing before, any court or tribunal in Singapore.
 
 (10) The Attorney-General shall be paid such remuneration and allowances as may from time to time be determined and such remuneration and allowances shall be charged on and paid out of the Consolidated Fund.
 
@@ -614,11 +786,11 @@ his office, take and subscribe before the President the Oath of Allegiance and t
 
 (12) The terms of service of the Attorney-General shall not be altered to his disadvantage during his continuance in office.
 
-(13) For the purposes of clause (12), in so far as the terms of service of the AttorneyGeneral depend upon his option, any terms for which he opts shall be taken to be more advantageous to him than any for which he might have opted.
+(13) For the purposes of clause (12), in so far as the terms of service of the Attorney-General depend upon his option, any terms for which he opts shall be taken to be more advantageous to him than any for which he might have opted.
 
 #### Secretary to Cabinet
 
--(1) The President, acting in accordance with the advice of the Prime Minister, may appoint a public officer to be the Secretary to the Cabinet.
+36. —(1) The President, acting in accordance with the advice of the Prime Minister, may appoint a public officer to be the Secretary to the Cabinet.
 
 (2) The Secretary to the Cabinet shall be responsible, in accordance with such instructions as may be given to him by the Prime Minister, for arranging the business for, and keeping the minutes of, the meetings of the Cabinet and for conveying the decisions of the Cabinet to the appropriate person or authority and shall have such other functions as the Prime Minister may from time to time direct.
 
@@ -626,9 +798,9 @@ his office, take and subscribe before the President the Oath of Allegiance and t
 
 #### Capacity of Government as regards property, contracts and suits
 
--(1) The Government shall have power to acquire, hold and dispose of property of any kind and to make contracts.
+37. —(1) The Government shall have power to acquire, hold and dispose of property of any kind and to make contracts.
 
-- The Government may sue and be sued.
+(2) The Government may sue and be sued.
 
 ## PART VA
 
@@ -738,7 +910,7 @@ Provided that where the conviction is by a court in a foreign country, the perso
 
 37H. -(1) Before any person who has been appointed Chairman or a member enters upon the duties of his office, he shall take and subscribe before a Judge of the Supreme Court the Oath of Allegiance and the Oath of Secrecy in the forms set out respectively in paragraphs 2 and 8 in the First Schedule.
 
-- Clause (1) shall also apply where an alternate member appointed under Article 37C is selected under Article 37C (3) to act in place of and perform the functions of a member appointed under Article 37B (1), except that an alternate member need not be required, during his term of office as an alternate member, to take such an oath more than once in respect of the occasions when he is so selected to act.
+(2) Clause (1) shall also apply where an alternate member appointed under Article 37C is selected under Article 37C (3) to act in place of and perform the functions of a member appointed under Article 37B (1), except that an alternate member need not be required, during his term of office as an alternate member, to take such an oath more than once in respect of the occasions when he is so selected to act.
 
 #### Function of Council
 
@@ -786,7 +958,7 @@ Provided that where the conviction is by a court in a foreign country, the perso
 
 39. -(1) Parliament shall consist of -
 
-(a) such number of elected Members as is required to be returned at a general election by the constituencies prescribed by or under any law made by the Legislature; (b) such other Members, not exceeding 9 in number, who shall be known as nonconstituency Members, as the Legislature may provide in any law relating to Parliamentary elections to ensure the representation in Parliament of a minimum number of Members from a political party or parties not forming the Government; and (c) such other Members not exceeding 9 in number, who shall be known as nominated Members, as may be appointed by the President in accordance with the provisions of the Fourth Schedule.
+(a) such number of elected Members as is required to be returned at a general election by the constituencies prescribed by or under any law made by the Legislature; (b) such other Members, not exceeding 9 in number, who shall be known as non-constituency Members, as the Legislature may provide in any law relating to Parliamentary elections to ensure the representation in Parliament of a minimum number of Members from a political party or parties not forming the Government; and (c) such other Members not exceeding 9 in number, who shall be known as nominated Members, as may be appointed by the President in accordance with the provisions of the Fourth Schedule.
 
 (2) A non-constituency Member or a nominated Member shall not vote in Parliament on any motion pertaining to -
 
@@ -854,11 +1026,11 @@ representation constituencies at a general election; and
 
 #### Speaker
 
--(1) When Parliament first meets after any general election and before it proceeds to the despatch of any other business, it shall elect a person to be Speaker, and, whenever the office of Speaker is vacant otherwise than by reason of a dissolution of Parliament, shall not transact any business other than the election of a person to fill that office.
+40. —(1) When Parliament first meets after any general election and before it proceeds to the despatch of any other business, it shall elect a person to be Speaker, and, whenever the office of Speaker is vacant otherwise than by reason of a dissolution of Parliament, shall not transact any business other than the election of a person to fill that office.
 
-- The Speaker may be elected, in such manner as Parliament may from time to time decide, either from among the Members of Parliament who are neither Ministers nor Parliamentary Secretaries or from among persons who are not Members of Parliament: Provided that a person who is not a Member of Parliament shall not be elected as Speaker if, under any of the provisions of this Constitution, he is not qualified for election as a Member of Parliament.
+(2) The Speaker may be elected, in such manner as Parliament may from time to time decide, either from among the Members of Parliament who are neither Ministers nor Parliamentary Secretaries or from among persons who are not Members of Parliament: Provided that a person who is not a Member of Parliament shall not be elected as Speaker if, under any of the provisions of this Constitution, he is not qualified for election as a Member of Parliament.
 
-- Upon the Speaker being elected and before he enters upon the duties of his office, he shall (unless he has already done so in accordance with Article 61) take and subscribe before Parliament the Oath of Allegiance in the form set out in the First Schedule.
+(3) Upon the Speaker being elected and before he enters upon the duties of his office, he shall (unless he has already done so in accordance with Article 61) take and subscribe before Parliament the Oath of Allegiance in the form set out in the First Schedule.
 
 (4) The Speaker may at any time resign his office by writing under his hand addressed to the Clerk of Parliament, and shall vacate his office -
 
@@ -870,11 +1042,11 @@ representation constituencies at a general election; and
 
 #### Remuneration of Speaker
 
-- The Speaker shall be paid such salary as Parliament may from time to time determine, and that salary, which is hereby charged on the Consolidated Fund, shall not be diminished during his continuance in office.
+41. The Speaker shall be paid such salary as Parliament may from time to time determine, and that salary, which is hereby charged on the Consolidated Fund, shall not be diminished during his continuance in office.
 
 #### Deputy Speaker
 
--(1) Parliament shall from time to time elect 2 Deputy Speakers; and whenever the office of a Deputy Speaker is vacant otherwise than by reason of a dissolution of Parliament, Parliament shall, as soon as convenient, elect a person to that office.
+42. —(1) Parliament shall from time to time elect 2 Deputy Speakers; and whenever the office of a Deputy Speaker is vacant otherwise than by reason of a dissolution of Parliament, Parliament shall, as soon as convenient, elect a person to that office.
 
 (2)
 
@@ -954,7 +1126,7 @@ Provided that this Article shall not be taken to prevent the practice of Parliam
 
 (3) The Clerk of Parliament may at any time resign his office by writing under his hand addressed to the Speaker and, subject to clause (4), may be removed from office by the President after consultation with the Speaker.
 
-(4) The Clerk of Parliament shall not be removed from office under clause (3) unless Parliament, by a resolution which has received the affirmative votes of not less than twothirds of all the Members thereof, has resolved that he ought to be so removed for inability to discharge the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour.
+(4) The Clerk of Parliament shall not be removed from office under clause (3) unless Parliament, by a resolution which has received the affirmative votes of not less than two-thirds of all the Members thereof, has resolved that he ought to be so removed for inability to discharge the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour.
 
 (5) The staff of Parliament shall not be eligible for promotion or transfer to any other office in the public service without the consent of the Speaker.
 
@@ -970,15 +1142,15 @@ Provided that this Article shall not be taken to prevent the practice of Parliam
 
 #### Standing Orders
 
-- Subject to the provisions of this Constitution, Parliament may, from time to time, make, amend and revoke Standing Orders for the regulation and orderly conduct of its own proceedings and the despatch of business.
+52. Subject to the provisions of this Constitution, Parliament may, from time to time, make, amend and revoke Standing Orders for the regulation and orderly conduct of its own proceedings and the despatch of business.
 
 #### Use of languages in Parliament
 
-- Until the Legislature otherwise provides, all debates and discussions in Parliament shall be conducted in Malay, English, Mandarin or Tamil.
+53. Until the Legislature otherwise provides, all debates and discussions in Parliament shall be conducted in Malay, English, Mandarin or Tamil.
 
 #### Presiding in Parliament
 
-- The Speaker shall preside at each sitting of Parliament.
+54. The Speaker shall preside at each sitting of Parliament.
 
 #### Validity of proceedings of Parliament
 
@@ -990,17 +1162,17 @@ Provided that this Article shall not be taken to prevent the practice of Parliam
 
 #### Voting
 
--(1) Subject to this Constitution, all questions proposed for decision in Parliament shall be determined by a majority of the votes of the Members present and voting; and if, upon any question before Parliament, the votes of the Members are equally divided, the motion shall be lost.
+57. —(1) Subject to this Constitution, all questions proposed for decision in Parliament shall be determined by a majority of the votes of the Members present and voting; and if, upon any question before Parliament, the votes of the Members are equally divided, the motion shall be lost.
 
-- If the Speaker has been elected from among persons who are not Members of Parliament, he shall not vote, but subject to this provision, the Speaker or other person presiding shall have an original vote but no casting vote.
+(2) If the Speaker has been elected from among persons who are not Members of Parliament, he shall not vote, but subject to this provision, the Speaker or other person presiding shall have an original vote but no casting vote.
 
 #### Exercise of legislative power
 
--(1) Subject to the provisions of Part VII, the power of the Legislature to make laws shall be exercised by Bills passed by Parliament and assented to by the President. (2) A Bill shall become law on being assented to by the President and such law shall come into operation on the date of its publication in the Gazette or, if it is enacted either in such law or in any other law for the time being in force in Singapore that it shall come into operation on some other date, on that date.
+58. —(1) Subject to the provisions of Part VII, the power of the Legislature to make laws shall be exercised by Bills passed by Parliament and assented to by the President. (2) A Bill shall become law on being assented to by the President and such law shall come into operation on the date of its publication in the Gazette or, if it is enacted either in such law or in any other law for the time being in force in Singapore that it shall come into operation on some other date, on that date.
 
 #### Introduction of Bills
 
--(1) Subject to the provisions of this Constitution and of Standing Orders of Parliament, any Member may introduce any Bill or propose any motion for debate in, or may present any petition to, Parliament, and the same shall be debated and disposed of according to the Standing Orders of Parliament.
+59. —(1) Subject to the provisions of this Constitution and of Standing Orders of Parliament, any Member may introduce any Bill or propose any motion for debate in, or may present any petition to, Parliament, and the same shall be debated and disposed of according to the Standing Orders of Parliament.
 
 [[END OF PAGE 37]]
 
@@ -1072,9 +1244,10 @@ Provided that this Article shall not be taken to prevent the practice of Parliam
 #### Qualifications of members
 71. No person shall be qualified to be appointed as a member unless he (a) is a citizen of Singapore; (b) is not less than 35 years of age; (c) is resident in Singapore; and (d) is not liable to any of the disqualifications provided in Article 72.
 #### Disqualifications of members
-72. A person shall be disqualified for appointment as a member who (a) is or has been found or declared to be of unsound mind; (b) is insolvent or an undischarged bankrupt; (c) has been convicted of an offence by a court of law in Singapore or Malaysia and sentenced to imprisonment for a term of not less than
-
-$2,000 and has not received a free pardon:
+72. A person shall be disqualified for appointment as a member who —
+(a) is or has been found or declared to be of unsound mind;
+(b) is insolvent or an undischarged bankrupt;
+(c) has been convicted of an offence by a court of law in Singapore or Malaysia and sentenced to imprisonment for a term of not less than one year or to a fine of not less than $2,000 and has not received a free pardon:
 
 [[END OF PAGE 40]]
 
@@ -1126,7 +1299,7 @@ foreign country or has made a declaration of allegiance to a foreign country.
 
 [[START OF PAGE 42]]
 
-(3) Whenever after the receipt of an adverse report from the Council, the Bill to which it relates is amended by Parliament, the Speaker shall cause the Bill in its amended form to be sent again to the Council. (4) On the application of the Chairman, the Speaker may extend, as he thinks fit, the period of 30 days prescribed by clause (2), where he considers it proper to do so on account of the length or complexity of any Bill or the number of matters for the time being under consideration by the Council or for any sufficient reason. (5) The Speaker shall cause every report received by him from the Council in pursuance of clause (2) to be presented to Parliament without undue delay. Where the Speaker receives no such report on the Bill within the time provided in clause (2), or any extension thereof granted under clause (4), it shall be conclusively presumed that the Council is of the opinion that no provision of the Bill would, if enacted, be a differentiating measure. (6) No Bill to which this Article applies shall be presented to the President for assent unless it is accompanied by a certificate under the hand of the Speaker stating that (a) in the opinion of the Council no provision of the Bill would, if enacted, be a differentiating measure; (b) no report having been received from the Council within the time prescribed or any extension thereof, the Council is presumed to be of the opinion that no provision of the Bill would, if enacted, be a differentiating measure; or (c) notwithstanding the opinion of the Council that some specified provision of the Bill would, if enacted, be a differentiating measure, a motion for the presentation of the Bill to the President for assent has been passed by the affirmative vote of not less than twothirds of the total membership of Parliament. (7) This Article shall not apply to (a) a Money Bill; (b) a Bill certified by the Prime Minister as being one which affects the defence or the security of Singapore or which relates to public safety, peace or good order in Singapore; or (c) a Bill certified by the Prime Minister to be so urgent that it is not in the public interest to delay its enactment. (8) A Bill shall be deemed to be a Money Bill if the Speaker certifies in writing that, in his opinion, it is a Bill to which the definition of 'Money Bill' contained in Article 68 applies. No Money Bill shall be presented to the President for assent, unless it is accompanied by the Speaker"s certificate which shall be conclusive for all purposes and shall not be open to question in any court.
+(3) Whenever after the receipt of an adverse report from the Council, the Bill to which it relates is amended by Parliament, the Speaker shall cause the Bill in its amended form to be sent again to the Council. (4) On the application of the Chairman, the Speaker may extend, as he thinks fit, the period of 30 days prescribed by clause (2), where he considers it proper to do so on account of the length or complexity of any Bill or the number of matters for the time being under consideration by the Council or for any sufficient reason. (5) The Speaker shall cause every report received by him from the Council in pursuance of clause (2) to be presented to Parliament without undue delay. Where the Speaker receives no such report on the Bill within the time provided in clause (2), or any extension thereof granted under clause (4), it shall be conclusively presumed that the Council is of the opinion that no provision of the Bill would, if enacted, be a differentiating measure. (6) No Bill to which this Article applies shall be presented to the President for assent unless it is accompanied by a certificate under the hand of the Speaker stating that — (a) in the opinion of the Council no provision of the Bill would, if enacted, be a differentiating measure; (b) no report having been received from the Council within the time prescribed or any extension thereof, the Council is presumed to be of the opinion that no provision of the Bill would, if enacted, be a differentiating measure; or (c) notwithstanding the opinion of the Council that some specified provision of the Bill would, if enacted, be a differentiating measure, a motion for the presentation of the Bill to the President for assent has been passed by the affirmative vote of not less than two-thirds of the total membership of Parliament. (7) This Article shall not apply to — (a) a Money Bill; (b) a Bill certified by the Prime Minister as being one which affects the defence or the security of Singapore or which relates to public safety, peace or good order in Singapore; or (c) a Bill certified by the Prime Minister to be so urgent that it is not in the public interest to delay its enactment. (8) A Bill shall be deemed to be a Money Bill if the Speaker certifies in writing that, in his opinion, it is a Bill to which the definition of “Money Bill” contained in Article 68 applies. No Money Bill shall be presented to the President for assent, unless it is accompanied by the Speaker’s certificate which shall be conclusive for all purposes and shall not be open to question in any court.
 #### Functions of Council in regard to Bills enacted on a certificate of urgency
 79. -(1) Where the President assents to a Bill which has been certified as urgent by the Prime Minister under Article 78 (7), it shall nevertheless be the duty of the Speaker to cause an authenticated copy of the Act to be sent as soon as may be to the Council. (2) The Council shall thereupon consider the Act and shall, within 30 days of the date on which the Act was sent to the Council, make a report to the Speaker stating whether or not in the opinion of the Council any and, if so, which provision of the Act is a differentiating measure. (3) The Speaker shall cause any such report to be presented to Parliament as soon as
 
@@ -1138,13 +1311,13 @@ possible.
 
 #### Functions of Council in regard to subsidiary legislation
 
--(1) An authenticated copy of every piece of subsidiary legislation shall be sent to the Council by the appropriate Minister within 14 days of the publication of such subsidiary legislation.
+80. —(1) An authenticated copy of every piece of subsidiary legislation shall be sent to the Council by the appropriate Minister within 14 days of the publication of such subsidiary legislation.
 
-- The Council shall thereupon consider such subsidiary legislation and shall, within 30 days of the date on which the subsidiary legislation was sent to the Council, make a report to the Speaker and to the appropriate Minister, stating whether or not in the opinion of the Council any and, if so, which provision of the subsidiary legislation is a differentiating measure.
+(2) The Council shall thereupon consider such subsidiary legislation and shall, within 30 days of the date on which the subsidiary legislation was sent to the Council, make a report to the Speaker and to the appropriate Minister, stating whether or not in the opinion of the Council any and, if so, which provision of the subsidiary legislation is a differentiating measure.
 
-- The Speaker shall cause every report of the Council on every piece of subsidiary legislation to be presented to Parliament on the next sitting day after receiving the Council"s report.
+(3) The Speaker shall cause every report of the Council on every piece of subsidiary legislation to be presented to Parliament on the next sitting day after receiving the Council’s report.
 
-- Where an adverse report in respect of any provision of any subsidiary legislation is presented to Parliament in pursuance of clause (3), then, within 6 months after the presentation of that report, unless either -
+(4) Where an adverse report in respect of any provision of any subsidiary legislation is presented to Parliament in pursuance of clause (3), then, within 6 months after the presentation of that report, unless either —
 
 (a) the provision has been revoked or amended by the appropriate Minister; or
 
@@ -1152,7 +1325,7 @@ possible.
 
 - the appropriate Minister shall revoke such provision and cause a notice of revocation to be published in the Gazette .
 
-- If no report on any subsidiary legislation is received from the Council within the time provided in clause (2), it shall be conclusively presumed that the Council is of the opinion that no provision in such subsidiary legislation is a differentiating measure.
+(5) If no report on any subsidiary legislation is received from the Council within the time provided in clause (2), it shall be conclusively presumed that the Council is of the opinion that no provision in such subsidiary legislation is a differentiating measure.
 
 #### Functions of Council in regard to certain written law
 
@@ -1168,15 +1341,15 @@ possible.
 
 #### Quorum and voting
 
--(1) The Council shall not transact any business unless a quorum of 8 members, including the Chairman or member presiding, is present.
+83. —(1) The Council shall not transact any business unless a quorum of 8 members, including the Chairman or member presiding, is present.
 
-- Any decision of the Council shall be made by a majority of the votes of the members present and voting.
+(2) Any decision of the Council shall be made by a majority of the votes of the members present and voting.
 
-- The Chairman or member presiding shall have an original vote but not a casting vote. (4) If upon any question before the Council the votes of the members are equally divided, the motion shall be deemed to be lost.
+(3) The Chairman or member presiding shall have an original vote but not a casting vote. (4) If upon any question before the Council the votes of the members are equally divided, the motion shall be deemed to be lost.
 
 #### Proceedings of Council to be in private
 
-- The proceedings of the Council shall be conducted in private and the Council shall
+84. The proceedings of the Council shall be conducted in private and the Council shall
 
 [[END OF PAGE 43]]
 
@@ -1186,7 +1359,7 @@ not be entitled to hear objectors or examine witnesses in regard to any Bill or 
 
 #### Council's report
 
-- In reporting the opinion of the Council under the provisions of this Part, the Council shall state -
+85. In reporting the opinion of the Council under the provisions of this Part, the Council shall state —
 
 (a) either that the report is unanimous or the number of votes for and against it; and
 
@@ -1206,23 +1379,23 @@ not be entitled to hear objectors or examine witnesses in regard to any Bill or 
 
 #### Annual report
 
--(1) Once in every year it shall be the duty of the Council to compile and present to the President a report on the work of the Council during the preceding 12 months.
+89. —(1) Once in every year it shall be the duty of the Council to compile and present to the President a report on the work of the Council during the preceding 12 months.
 
-- The President shall cause such report to be presented to Parliament as soon as possible.
+(2) The President shall cause such report to be presented to Parliament as soon as possible.
 
 #### Salaries and fees
 
--(1) There shall be paid to the Chairman and the other members such salaries and fees as may be determined by the President.
+90. —(1) There shall be paid to the Chairman and the other members such salaries and fees as may be determined by the President.
 
-- The salaries and fees payable under clause (1) shall be defrayed out of moneys provided by Parliament.
+(2) The salaries and fees payable under clause (1) shall be defrayed out of moneys provided by Parliament.
 
 #### Appointment of staff
 
-- The Council shall have power to appoint a Secretary to the Council and such other officers as may be required to enable the Council to carry out its functions under this Part.
+91. The Council shall have power to appoint a Secretary to the Council and such other officers as may be required to enable the Council to carry out its functions under this Part.
 
 #### Power to make rules generally
 
-- The President may make rules for the conduct of business between the Council and Parliament and between the Council and any authority empowered to make subsidiary legislation, and generally for carrying out the purposes of this Part.
+92. The President may make rules for the conduct of business between the Council and Parliament and between the Council and any authority empowered to make subsidiary legislation, and generally for carrying out the purposes of this Part.
 
 ## PART VIII
 
@@ -1230,7 +1403,7 @@ not be entitled to hear objectors or examine witnesses in regard to any Bill or 
 
 #### Judicial power of Singapore
 
-- The judicial power of Singapore shall be vested in a Supreme Court and in such subordinate courts as may be provided by any written law for the time being in force.
+93. The judicial power of Singapore shall be vested in a Supreme Court and in such subordinate courts as may be provided by any written law for the time being in force.
 
 [[END OF PAGE 44]]
 
@@ -1240,29 +1413,29 @@ not be entitled to hear objectors or examine witnesses in regard to any Bill or 
 
 - 93A. -(1) All proceedings relating to the election of the President shall be heard and determined by the Chief Justice or by a Judge of the Supreme Court nominated by the Chief Justice for the purpose (referred to in this Constitution as the Election Judge).
 
-- The Election Judge shall have the power to hear and determine and make such orders as provided by law on proceedings relating to the election of the President, and the decision of the Election Judge in any such proceedings shall be final.
+(2) The Election Judge shall have the power to hear and determine and make such orders as provided by law on proceedings relating to the election of the President, and the decision of the Election Judge in any such proceedings shall be final.
 
-- The procedure and practice in proceedings relating to the election of the President shall be regulated by rules which may be made by the Rules Committee constituted and appointed under section 80 of the Supreme Court of Judicature Act (Cap. 322).
+(3) The procedure and practice in proceedings relating to the election of the President shall be regulated by rules which may be made by the Rules Committee constituted and appointed under section 80 of the Supreme Court of Judicature Act (Cap. 322).
 
 #### Constitution of Supreme Court
 
--(1) The Supreme Court shall consist of the Court of Appeal and the High Court with such jurisdiction and powers as are conferred on those Courts by this Constitution or any written law.
+94. —(1) The Supreme Court shall consist of the Court of Appeal and the High Court with such jurisdiction and powers as are conferred on those Courts by this Constitution or any written law.
 
-- The office of a Judge of the Supreme Court shall not be abolished during his continuance in office.
+(2) The office of a Judge of the Supreme Court shall not be abolished during his continuance in office.
 
-- A person qualified for appointment as a Judge of the Supreme Court or a person who has ceased to hold the office of a Judge of the Supreme Court may be appointed as the Chief Justice in accordance with Article 95, or may sit as a Judge of the High Court or as a Judge of Appeal, if designated for the purpose (as occasion requires) in accordance with Article 95, and such person shall hold office for such period or periods as the President, if the President, acting in his discretion, concurs with the advice of the Prime Minister, shall direct.
+(3) A person qualified for appointment as a Judge of the Supreme Court or a person who has ceased to hold the office of a Judge of the Supreme Court may be appointed as the Chief Justice in accordance with Article 95, or may sit as a Judge of the High Court or as a Judge of Appeal, if designated for the purpose (as occasion requires) in accordance with Article 95, and such person shall hold office for such period or periods as the President, if the President, acting in his discretion, concurs with the advice of the Prime Minister, shall direct.
 
-- In order to facilitate the disposal of business in the Supreme Court, the President, if he, acting in his discretion, concurs with the advice of the Prime Minister, may appoint a person qualified for appointment as a Judge of the Supreme Court to be a Judicial Commissioner of the Supreme Court in accordance with Article 95 for such period or periods as the President thinks fit; and a Judicial Commissioner so appointed may, in respect of such class or classes of cases as the Chief Justice may specify, exercise the powers and perform the functions of a Judge of the High Court. Anything done by a Judicial Commissioner when acting in accordance with the terms of his appointment shall have the same validity and effect as if done by a Judge of that Court and, in respect thereof, he shall have the same powers and enjoy the same immunities as if he had been a Judge of that Court.
+(4) In order to facilitate the disposal of business in the Supreme Court, the President, if he, acting in his discretion, concurs with the advice of the Prime Minister, may appoint a person qualified for appointment as a Judge of the Supreme Court to be a Judicial Commissioner of the Supreme Court in accordance with Article 95 for such period or periods as the President thinks fit; and a Judicial Commissioner so appointed may, in respect of such class or classes of cases as the Chief Justice may specify, exercise the powers and perform the functions of a Judge of the High Court. Anything done by a Judicial Commissioner when acting in accordance with the terms of his appointment shall have the same validity and effect as if done by a Judge of that Court and, in respect thereof, he shall have the same powers and enjoy the same immunities as if he had been a Judge of that Court.
 
-- For the purposes of clause (4), the President may appoint a person qualified for appointment as a Judge of the Supreme Court to be a Judicial Commissioner to hear and determine a specified case only.
+(5) For the purposes of clause (4), the President may appoint a person qualified for appointment as a Judge of the Supreme Court to be a Judicial Commissioner to hear and determine a specified case only.
 
 #### Appointment of Judges of Supreme Court
 
--(1) The Chief Justice, the Judges of Appeal and the Judges of the High Court shall be appointed by the President if he, acting in his discretion, concurs with the advice of the Prime Minister.
+95. —(1) The Chief Justice, the Judges of Appeal and the Judges of the High Court shall be appointed by the President if he, acting in his discretion, concurs with the advice of the Prime Minister.
 
-- Before tendering his advice as to the appointment under clause (1) of a Judge, other than the Chief Justice, the Prime Minister shall consult the Chief Justice.
+(2) Before tendering his advice as to the appointment under clause (1) of a Judge, other than the Chief Justice, the Prime Minister shall consult the Chief Justice.
 
-- This Article shall apply to the designation of a person to sit as a Judge of the High Court or as a Judge of Appeal under Article 94 (3) and to the appointment of a Judicial
+(3) This Article shall apply to the designation of a person to sit as a Judge of the High Court or as a Judge of Appeal under Article 94 (3) and to the appointment of a Judicial
 
 [[END OF PAGE 45]]
 
@@ -1276,29 +1449,29 @@ Commissioner of the Supreme Court under Article 94 (4) as it applies to the appo
 
 #### Oath of Office of Judges and Judicial Commissioners of Supreme Court
 
--(1) The Chief Justice and every person appointed or designated to sit as a Judge of the High Court or a Judge of Appeal or appointed as a Judicial Commissioner of the Supreme Court shall, before he enters on the execution of his office, take, in the presence of the President, the Oath of Office in the form set out in the First Schedule.
+97. —(1) The Chief Justice and every person appointed or designated to sit as a Judge of the High Court or a Judge of Appeal or appointed as a Judicial Commissioner of the Supreme Court shall, before he enters on the execution of his office, take, in the presence of the President, the Oath of Office in the form set out in the First Schedule.
 
-- Notwithstanding clause (1), a Judicial Commissioner who is appointed under Article 94 (5) to hear and determine a specified case need not be required to take the Oath of Office again if a period of less than 12 months intervenes between the date of his judgment in any specified case he is so appointed to hear and determine and the start of hearing for the next specified case.
+(2) Notwithstanding clause (1), a Judicial Commissioner who is appointed under Article 94 (5) to hear and determine a specified case need not be required to take the Oath of Office again if a period of less than 12 months intervenes between the date of his judgment in any specified case he is so appointed to hear and determine and the start of hearing for the next specified case.
 
 #### Tenure of office and remuneration of Judges of Supreme Court
 
--(1) Subject to this Article, a Judge of the Supreme Court shall hold office until he attains the age of 65 years or such later time not being later than 6 months after he attains that age, as the President may approve.
+98. —(1) Subject to this Article, a Judge of the Supreme Court shall hold office until he attains the age of 65 years or such later time not being later than 6 months after he attains that age, as the President may approve.
 
-- A Judge of the Supreme Court may at any time resign his office by writing under his hand addressed to the President, but shall not be removed from office except in accordance with clauses (3), (4) and (5).
+(2) A Judge of the Supreme Court may at any time resign his office by writing under his hand addressed to the President, but shall not be removed from office except in accordance with clauses (3), (4) and (5).
 
-- If the Prime Minister, or the Chief Justice after consulting the Prime Minister, represents to the President that a Judge of the Supreme Court ought to be removed on the ground of misbehaviour or of inability, from infirmity of body or mind or any other cause, to properly discharge the functions of his office, the President shall appoint a tribunal in accordance with clause (4) and shall refer that representation to it; and may on the recommendation of the tribunal remove the Judge from office.
+(3) If the Prime Minister, or the Chief Justice after consulting the Prime Minister, represents to the President that a Judge of the Supreme Court ought to be removed on the ground of misbehaviour or of inability, from infirmity of body or mind or any other cause, to properly discharge the functions of his office, the President shall appoint a tribunal in accordance with clause (4) and shall refer that representation to it; and may on the recommendation of the tribunal remove the Judge from office.
 
-- The tribunal shall consist of not less than 5 persons who hold or have held office as a Judge of the Supreme Court, or, if it appears to the President expedient to make such an appointment, persons who hold or have held equivalent office in any part of the Commonwealth, and the tribunal shall be presided over by the member first in the following order, namely, the Chief Justice according to their precedence among themselves and other members according to the order of their appointment to an office qualifying them for membership (the older coming before the younger of 2 members with appointments of the same date).
+(4) The tribunal shall consist of not less than 5 persons who hold or have held office as a Judge of the Supreme Court, or, if it appears to the President expedient to make such an appointment, persons who hold or have held equivalent office in any part of the Commonwealth, and the tribunal shall be presided over by the member first in the following order, namely, the Chief Justice according to their precedence among themselves and other members according to the order of their appointment to an office qualifying them for membership (the older coming before the younger of 2 members with appointments of the same date).
 
-- Pending any reference and report under clause (3), the President may, if he, acting in his discretion, concurs with the recommendation of the Prime Minister and, in the case of any other Judge, after consulting the Chief Justice, suspend a Judge of the Supreme Court from the exercise of his functions.
+(5) Pending any reference and report under clause (3), the President may, if he, acting in his discretion, concurs with the recommendation of the Prime Minister and, in the case of any other Judge, after consulting the Chief Justice, suspend a Judge of the Supreme Court from the exercise of his functions.
 
-- Parliament shall by law provide for the remuneration of the Judges of the Supreme Court and the remuneration so provided shall be charged on the Consolidated Fund. (7) Subject to this Article, Parliament may by law provide for the terms of office of the Judges of the Supreme Court, other than their remuneration.
+(6) Parliament shall by law provide for the remuneration of the Judges of the Supreme Court and the remuneration so provided shall be charged on the Consolidated Fund. (7) Subject to this Article, Parliament may by law provide for the terms of office of the Judges of the Supreme Court, other than their remuneration.
 
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
 
-- The remuneration and other terms of office (including pension rights) of a Judge of the Supreme Court shall not be altered to his disadvantage after his appointment. (9) Notwithstanding clause (1), the validity of anything done by a Judge of the Supreme Court shall not be questioned on the ground that he had attained the age on which he was required to retire. (10) The President may, in his discretion, grant leave of absence from his duties to the Chief Justice and, acting on the advice of the Chief Justice, to any other Judge of the Supreme Court.
+(8) The remuneration and other terms of office (including pension rights) of a Judge of the Supreme Court shall not be altered to his disadvantage after his appointment. (9) Notwithstanding clause (1), the validity of anything done by a Judge of the Supreme Court shall not be questioned on the ground that he had attained the age on which he was required to retire. (10) The President may, in his discretion, grant leave of absence from his duties to the Chief Justice and, acting on the advice of the Chief Justice, to any other Judge of the Supreme Court.
 #### Restriction on Parliamentary discussion of conduct of a Judge of Supreme Court
 99. The conduct of a Judge of the Supreme Court or a person designated to sit as such a Judge or a Judicial Commissioner shall not be discussed in Parliament except on a substantive motion of which notice has been given by not less than one-quarter of the total number of the Members of Parliament.
 #### Advisory opinion
@@ -1314,7 +1487,7 @@ Commissioner of the Supreme Court under Article 94 (4) as it applies to the appo
 
 #### Public services
 
--(1) For the purposes of this Constitution and except as hereinafter in this Part provided, the public services shall be -
+102. —(1) For the purposes of this Constitution and except as hereinafter in this Part provided, the public services shall be —
 
 (a) the Singapore Armed Forces;
 
@@ -1345,9 +1518,13 @@ in the form set out in the First Schedule.
 
 #### Disqualification for appointment to Commission
 
-106. -(1) A person shall not be appointed to be a member of the Public Service Commission if he is, and shall cease to be a member if he becomes (a) a public officer; (b) an employee of any corporation incorporated by or under the provisions of any law for the time being in force in Singapore other than the Companies Act (Cap. 50) or any corresponding previous written law; or (e) the holder of any office in any political association. (2) Clause (1) (b) shall not apply to any person who is a member of the teaching staff of
-
-(c) a Member of Parliament or a duly nominated candidate for election as such Member; (d) a member of any trade union or of any body or association affiliated to a trade union; any university established by or under any written law.
+106. —(1) A person shall not be appointed to be a member of the Public Service Commission if he is, and shall cease to be a member if he becomes —
+(a) a public officer;
+(b) an employee of any corporation incorporated by or under the provisions of any law for the time being in force in Singapore other than the Companies Act (Cap. 50) or any corresponding previous written law;
+(c) a Member of Parliament or a duly nominated candidate for election as such Member;
+(d) a member of any trade union or of any body or association affiliated to a trade union; or
+(e) the holder of any office in any political association.
+(2) Clause (1) (b) shall not apply to any person who is a member of the teaching staff of any university established by or under any written law.
 #### Tenure of office
 107. -(1) Subject to Article 106, every member of the Public Service Commission shall, unless he earlier resigns his office by writing under his hand addressed to the President or is removed therefrom under this Article, hold office for a period of 5 years from the date of his appointment, but shall be eligible for reappointment: Provided that a member, other than the Chairman, may be appointed to hold office for any shorter period of not less than 3 years. (2) If the Prime Minister, or the Chairman of the Public Service Commission after consulting with the Prime Minister, represents to the President that a member of the Public Service Commission ought to be removed from office for inability to discharge the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, the President shall, if he, acting in his discretion, concurs with that representation, refer that representation to a tribunal consisting of the Chief Justice and 2 other Judges of the Supreme Court nominated for that purpose by the Chief Justice and shall, if that tribunal so recommends, remove that member from office by writing under his hand. (3) The tribunal constituted under clause (2) shall regulate its own procedure and may make rules for that purpose.
 #### Terms of service of Chairman and members of Commission
@@ -1361,19 +1538,19 @@ in the form set out in the First Schedule.
 
 #### Secretary to Commission
 
--(1) There shall be a Secretary to the Public Service Commission who shall be a person who is a public officer and who shall be appointed by the President in accordance with the advice of the Commission.
+109. —(1) There shall be a Secretary to the Public Service Commission who shall be a person who is a public officer and who shall be appointed by the President in accordance with the advice of the Commission.
 
-- The Secretary to the Public Service Commission shall be responsible, in accordance with such instructions as may be given to him by the Chairman of the Commission, for arranging the business for, and keeping the minutes of, the meetings of the Commission and for conveying the decisions of the Commission to the appropriate person or authority and shall have such other functions as the Chairman may, from time to time, direct.
+(2) The Secretary to the Public Service Commission shall be responsible, in accordance with such instructions as may be given to him by the Chairman of the Commission, for arranging the business for, and keeping the minutes of, the meetings of the Commission and for conveying the decisions of the Commission to the appropriate person or authority and shall have such other functions as the Chairman may, from time to time, direct.
 
 #### Appointment, etc., of public officers
 
--(1) Subject to the provisions of this Constitution, it shall be the duty of the Public Service Commission to appoint, confirm, emplace on the permanent or pensionable establishment, promote, transfer, dismiss and exercise disciplinary control over public officers.
+110. —(1) Subject to the provisions of this Constitution, it shall be the duty of the Public Service Commission to appoint, confirm, emplace on the permanent or pensionable establishment, promote, transfer, dismiss and exercise disciplinary control over public officers.
 
-- The promotion of public officers shall be on the basis of official qualifications, experience and merit.
+(2) The promotion of public officers shall be on the basis of official qualifications, experience and merit.
 
-- No public officer shall be dismissed or reduced in rank under this Article without being given a reasonable opportunity of being heard.
+(3) No public officer shall be dismissed or reduced in rank under this Article without being given a reasonable opportunity of being heard.
 
-- Subject to the provisions of Article 110D, no member of any of the services mentioned in Article 102 (1) (b) to (d) shall be dismissed or reduced in rank by an authority subordinate to that which, at the time of the dismissal or reduction, has power to appoint a member of that service of equal rank.
+(4) Subject to the provisions of Article 110D, no member of any of the services mentioned in Article 102 (1) (b) to (d) shall be dismissed or reduced in rank by an authority subordinate to that which, at the time of the dismissal or reduction, has power to appoint a member of that service of equal rank.
 
 (5) In clause (1) -
 
@@ -1395,7 +1572,7 @@ in the form set out in the First Schedule.
 
 110D. -(1) Subject to the provisions of this Article, the President may, on the advice of the Prime Minister and by order published in the Gazette , establish one or more personnel boards to exercise all or any of the powers and functions of the Public Service Commission under Article 110.
 
-- The order under clause (1) shall specify the powers and functions to be exercised by a personnel board and the class or classes of public officers in respect of which those powers and functions may be exercised except the following:
+(2) The order under clause (1) shall specify the powers and functions to be exercised by a personnel board and the class or classes of public officers in respect of which those powers and functions may be exercised except the following:
 
 (a) the power to dismiss and exercise disciplinary control over all public officers of any grade in Division I; and
 
@@ -1445,7 +1622,7 @@ and any power of appointment specified in the order as to be exercised by a pers
 
 [[START OF PAGE 52]]
 
-(8) Nothing in this Article shall affect any direction or delegation issued before 1st October 1994 by the Public Service Commission under Article 116 (3), and this Article shall not apply to any power or function of these Commissions so long it forms the subject of any such direction or delegation.
+(8) Nothing in this Article shall affect any direction or delegation issued before 1st October 1994 by the Public Service Commission under Article 116 (3), and this Article shall not apply to any power or function of these Commissions so long as it forms the subject of any such direction or delegation.
 
 #### Legal Service Commission
 
@@ -1463,11 +1640,11 @@ the Legal Service Commission and for conveying the decisions of the Legal Servic
 
 [[START OF PAGE 54]]
 
-- Commission to the appropriate person or authority and shall have such other functions as the President of the Legal Service Commission may, from time to time, direct.
+Commission to the appropriate person or authority and shall have such other functions as the President of the Legal Service Commission may, from time to time, direct.
 #### Personnel boards of Singapore Legal Service
 111AA. -(1)   Subject to the provisions of this Article, the President may, on the advice of the Prime Minister and by order published in the Gazette , establish one or more personnel boards to exercise all or any of the powers and functions of the Legal Service Commission under Article 111. (2)   An order under clause (1) shall specify the powers and functions to be exercised by a personnel board and the class or classes of officers in the Singapore Legal Service in respect of which those powers and functions may be exercised except the following: (a) the power to dismiss and exercise disciplinary control over officers in the Singapore Legal Service; and (b) all powers of the Legal Service Commission in relation to officers in the Singapore Legal Service who hold appointments of and above a grade prescribed in the order, including the power to nominate officers for appointment or promotion to that grade, and any power of appointment specified in the order as to be exercised by a personnel board shall not include a power to dismiss any person so appointed. (3)   Before tendering his advice as to the grade in the Singapore Legal Service referred to in clause (2) ( b ), the Prime Minister shall consult the President of the Legal Service Commission. (4)   Where the President has by order established a personnel board under clause (1) for the purpose of exercising any of the powers or functions of the Legal Service Commission, such power or function (a) may be exercised by such personnel board notwithstanding anything in Article 111; and (b) shall, so long as it remains a power or function to be exercised by the personnel board pursuant to such order, cease to be exercisable by the Legal Service Commission except to the extent permitted under clause (5). (5)   Subject to any order made under clause (1), any person who is aggrieved by any decision of any personnel board established under this Article may, within such time and in such manner as may be prescribed, appeal to the Legal Service Commission, and the decision of that Commission shall be final. (6)   Subject to clause (7), a personnel board which is established under this Article shall consist of such persons (who may or may not be members of the Legal Service Commission) as the President may, on the advice of the Legal Service Commission, appoint except that the President may, acting in his discretion, refuse to make any such appointment if he does not concur with the advice of the Legal Service Commission. (7)   A person shall not be appointed to be a member of a personnel board established under this Article if he is, and shall cease to be a member if he becomes (a) a Member of Parliament or a duly nominated candidate for election as such Member; (b) a member of any trade union or of any body or association affiliated to a trade union; or (c) the holder of any office in any political association. (8)   An order under clause (1) may also (a) provide for matters relating to the appointment of members of personnel boards
 
-- established under this Article;
+established under this Article;
 
 [[END OF PAGE 54]]
 
@@ -1501,13 +1678,13 @@ the Legal Service Commission and for conveying the decisions of the Legal Servic
 
 (2) Where the amount of any award that may be made to any person is not fixed by law, the amount of the award to be made to him shall be the greatest amount for which he is eligible unless the Public Service Commission or the Legal Service Commission, as the case may be, concurs in the making of an award of a smaller amount.
 
-(3) In this Article, 'award' has the same meaning as in Article 112.
+(3) In this Article, "award" has the same meaning as in Article 112.
 
 #### Pensions, etc., to be charged on Pension Fund or Consolidated Fund
 
 114. -(1) Pensions, gratuities and other like allowances granted in respect of the public service shall be charged on and paid out of, in the first instance, the Pension Fund established by the Pension Fund Act (Cap. 224A) and, if that Fund is deficient, the Consolidated Fund. (2) Notwithstanding clause (1), the Legislature may by law provide that any pension, gratuity or other like allowance granted in respect of public service may be paid out of another Government Fund in lieu of the Pension Fund and the Consolidated Fund.
 #### Pension rights on transfer
-115. -(1) Notwithstanding any provision of this Constitution relating to the circumstances in which a public officer may vacate his office, any public officer may, with the consent of the Government (which consent shall not be unreasonably withheld), relinquish his office for the purpose of transfer to some other public office or to an office in any other public service, and if he so relinquishes his office, his claim to any pension, gratuity or other like allowance shall not thereby be prejudiced. (2) For the purposes of this Article, 'other public service' has the meaning given to it by the Pensions Act (Cap. 225) as in force immediately before 15th September 1963.
+115. -(1) Notwithstanding any provision of this Constitution relating to the circumstances in which a public officer may vacate his office, any public officer may, with the consent of the Government (which consent shall not be unreasonably withheld), relinquish his office for the purpose of transfer to some other public office or to an office in any other public service, and if he so relinquishes his office, his claim to any pension, gratuity or other like allowance shall not thereby be prejudiced. (2) For the purposes of this Article, "other public service" has the meaning given to it by the Pensions Act (Cap. 225) as in force immediately before 15th September 1963.
 #### Regulations regarding public service
 116. -(1) Subject to the provisions of any written law for the time being in force in Singapore, the President may make regulations for all or any of the following matters: (a) the division of public offices into Divisions and Services; (b) the prescribing of Schemes regulating the recruitment, service and promotion of members of such Services; and (c) the conduct and discipline of the public service. (2) The Public Service Commission may, subject to the provisions of this Constitution, regulate its own procedure and make rules for that purpose, and may, in connection with the discharge of its functions, confer powers and impose duties on any person or any authority of the Government. (3) The Public Service Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its functions under Article 110 (1) to any member of the Commission, to any public officer or other person, or to any board consisting of public officers and other persons appointed by it or to any person who is a member of a panel appointed by the Commission for the purposes of representing the public in any disciplinary proceedings in respect of any grade of the public service and that member, officer, board or person shall exercise those functions under the direction and control of the Public Service Commission.
 #### Validation of acts done and rules made by Public Service Commission
@@ -1580,7 +1757,7 @@ the Legal Service Commission and for conveying the decisions of the Legal Servic
 #### Registration of minors
 124. -(1) The Government may if satisfied that a child under the age of 21 years (a) is the child of a citizen of Singapore; and (b) is residing in Singapore, cause such child to be registered as a citizen of Singapore on application being made therefor in the prescribed manner by the parent or guardian of such child. (2) The Government may, in such special circumstances as it thinks fit, cause any child
 
-- under the age of 21 years to be registered as a citizen of Singapore.
+under the age of 21 years to be registered as a citizen of Singapore.
 
 [[END OF PAGE 58]]
 
@@ -1592,15 +1769,15 @@ the Legal Service Commission and for conveying the decisions of the Legal Servic
 
 #### General provisions as to registration
 
--(1) No person shall be registered as a citizen of Singapore under Article 123 until he has taken the Oath of Renunciation, Allegiance and Loyalty in the form set out in the Second Schedule.
+126. -(1) No person shall be registered as a citizen of Singapore under Article 123 until he has taken the Oath of Renunciation, Allegiance and Loyalty in the form set out in the Second Schedule.
 
 (2) Except with the approval of the Government, no person who has renounced or has been deprived of citizenship of Singapore under this Constitution or the Singapore Citizenship Ordinance 1957 (Ord. 35 of 1957) shall be registered as a citizen of Singapore under the provisions of this Constitution.
 
-- Any person who becomes a citizen of Singapore by registration under section 13 of the Singapore Citizenship Ordinance 1957 or Article 124 shall cease to be a citizen of Singapore on attaining the age of 22 years unless within 12 months after he attains the age of 21 years he takes the Oath of Renunciation, Allegiance and Loyalty in the form set out in the Second Schedule.
+(3) Any person who becomes a citizen of Singapore by registration under section 13 of the Singapore Citizenship Ordinance 1957 or Article 124 shall cease to be a citizen of Singapore on attaining the age of 22 years unless within 12 months after he attains the age of 21 years he takes the Oath of Renunciation, Allegiance and Loyalty in the form set out in the Second Schedule.
 
 #### Citizenship by naturalisation
 
--(1) Subject to clause (4), the Government may, upon application made by any person of or over the age of 21 years who is not a citizen of Singapore, grant a certificate of naturalisation to that person if the Government is satisfied -
+127. -(1) Subject to clause (4), the Government may, upon application made by any person of or over the age of 21 years who is not a citizen of Singapore, grant a certificate of naturalisation to that person if the Government is satisfied -
 
 (a) that he has resided in Singapore for the required periods and intends, if the certificate is granted, to do so permanently;
 
@@ -1608,15 +1785,15 @@ the Legal Service Commission and for conveying the decisions of the Legal Servic
 
 (c) that he has an adequate knowledge of the national language.
 
-- The periods of residence in Singapore or the relevant part of it which are required for the grant of a certificate of naturalisation are periods which amount in the aggregate to not less than 10 years in the 12 years immediately preceding the date of the application for the certificate and which include the 12 months immediately preceding that date.
+(2) The periods of residence in Singapore or the relevant part of it which are required for the grant of a certificate of naturalisation are periods which amount in the aggregate to not less than 10 years in the 12 years immediately preceding the date of the application for the certificate and which include the 12 months immediately preceding that date.
 
-- A person to whom a certificate of naturalisation is granted shall be a citizen of Singapore by naturalisation from the date on which the certificate is granted. (4) No certificate of naturalisation shall be granted to any person until he has taken the Oath of Renunciation, Allegiance and Loyalty in the form set out in the Second Schedule.
+(3) A person to whom a certificate of naturalisation is granted shall be a citizen of Singapore by naturalisation from the date on which the certificate is granted. (4) No certificate of naturalisation shall be granted to any person until he has taken the Oath of Renunciation, Allegiance and Loyalty in the form set out in the Second Schedule.
 
 #### Renunciation of citizenship
 
--(1) Any citizen of Singapore of or over the age of 21 years and of sound mind who is also or is about to become a citizen of another country may renounce his citizenship of Singapore by declaration registered by the Government, and shall upon such registration cease to be a citizen of Singapore.
+128. -(1) Any citizen of Singapore of or over the age of 21 years and of sound mind who is also or is about to become a citizen of another country may renounce his citizenship of Singapore by declaration registered by the Government, and shall upon such registration cease to be a citizen of Singapore.
 
-- The Government may withhold the registration of a declaration under this Article -
+(2) The Government may withhold the registration of a declaration under this Article -
 
 (a) if the declaration is made during any war in which Singapore is engaged; or
 
@@ -1636,7 +1813,7 @@ the Legal Service Commission and for conveying the decisions of the Legal Servic
 #### Deprivation of citizenship
 129. -(1) A citizen of Singapore who is a citizen by registration or by naturalisation shall cease to be such a citizen if he is deprived of his citizenship by an order of the Government made in accordance with this Article. (2) The Government may, by order, deprive any such citizen of his citizenship if the Government is satisfied that the registration or the certificate of naturalisation (a) was obtained by means of fraud, false representation or the concealment of any material fact; or (b) was effected or granted by mistake. (3) The Government may, by order, deprive of his citizenship (a) any person who is a citizen of Singapore by naturalisation if the Government is satisfied (i) that he has shown himself by act or speech to be disloyal or disaffected towards Singapore; or (ii) that he has, during any war in which Singapore is or was engaged, unlawfully traded or communicated with an enemy or been engaged in or associated with any business which to his knowledge was carried on in such manner as to assist an enemy in that war; or (b) any citizen of Singapore by registration or by naturalisation if the Government is satisfied (i) that he has, within the period of 5 years after registration or naturalisation, been sentenced in any country to imprisonment for a term of not less than one year or to a fine of not less than $5,000 or the equivalent in the currency of that country, and has not received a free pardon in respect of the offence for which he was so sentenced; or (ii) that he has, at any time after registration or naturalisation, been engaged in any activities which are prejudicial to the security of Singapore, or the maintenance of public order therein, or the maintenance therein of essential services, or in any criminal activities which are prejudicial to the interests of public safety, peace or good order. (4) The Government may, by order, deprive of his citizenship any person who is a citizen of Singapore by naturalisation if the Government is satisfied that, without the Government's approval, he has accepted, served in or performed the duties of any office, post or employment under the government of any foreign country or any political subdivision thereof, or under any agency of such a government, in any case where an oath, affirmation or declaration of allegiance is required in respect of the office, post or employment: Provided that a person shall not be deprived of his citizenship under this clause by reason of anything done before the commencement of this Constitution notwithstanding that he was at the time a citizen of Singapore. (5) The Government may, by order, deprive of his citizenship any person who is a citizen of Singapore by naturalisation if the Government is satisfied that he has been ordinarily resident in foreign countries for a continuous period of 5 years and during that period has neither (a) been at any time in the service of Singapore or of an international organisation of
 
-- which the Government was a member; nor
+which the Government was a member; nor
 
 [[END OF PAGE 60]]
 
@@ -1646,31 +1823,31 @@ the Legal Service Commission and for conveying the decisions of the Legal Servic
 
 #### Deprivation of citizenship of child of person losing citizenship
 
-- Where a person has -
+130. Where a person has -
 
-(a) renounced his citizenship; or (b) been deprived of his citizenship under Article 129 (2) (a) or 134 (1) (a), the Government may, by order, deprive of his citizenship any child of that person under the age of 21 years who has been registered as a citizen of Singapore pursuant to this Constitution and was so registered as being the child of that person or of that person"s
+(a) renounced his citizenship; or (b) been deprived of his citizenship under Article 129 (2) (a) or 134 (1) (a), the Government may, by order, deprive of his citizenship any child of that person under the age of 21 years who has been registered as a citizen of Singapore pursuant to this Constitution and was so registered as being the child of that person or of that person's
 
 wife or husband.
 
 #### General provisions as to loss of citizenship
 
-- Renunciation or deprivation of citizenship of Singapore shall not discharge a person from liability in respect of anything done or omitted to be done before he ceased to be a citizen of Singapore.
+131. Renunciation or deprivation of citizenship of Singapore shall not discharge a person from liability in respect of anything done or omitted to be done before he ceased to be a citizen of Singapore.
 
 #### Cancellation of enrolment as citizen
 
--(1) Where a person has been enrolled as a citizen of Singapore before the commencement of this Constitution and the Government is satisfied that the enrolment (a) was obtained by means of fraud, false representation or the concealment of any material fact; or
+132. -(1) Where a person has been enrolled as a citizen of Singapore before the commencement of this Constitution and the Government is satisfied that the enrolment (a) was obtained by means of fraud, false representation or the concealment of any material fact; or
 
 (b) was effected by mistake,
 
-- the Government may, by order, cancel the enrolment.
+the Government may, by order, cancel the enrolment.
 
-- Where under this Article a person"s enrolment as a citizen of Singapore is cancelled, that shall not discharge him from liability in respect of anything done or omitted to be done before the cancellation.
+(2) Where under this Article a person's enrolment as a citizen of Singapore is cancelled, that shall not discharge him from liability in respect of anything done or omitted to be done before the cancellation.
 
 #### Procedure for deprivation
 
 133. -(1) Before making an order under Article 129, 132, 134 or 135, the Government shall give the person, against whom the order is proposed to be made, notice in writing informing him of the ground on which the order is proposed to be made and of his right to have the case referred to a committee of inquiry under this Article. (2) If any person to whom such notice is given applies within such time as may be prescribed to have the case referred to a committee of inquiry, the Government shall, and in any other case may, refer the case to a committee of inquiry consisting of a Chairman, who shall be a person qualified to be appointed as a Judge of the Supreme Court, and 2 other members chosen from a panel to be appointed by the Government in that behalf. (3) The committee of inquiry shall, on such reference, hold an inquiry in such manner as may be prescribed and submit a report to the Government and the Government shall have
 
-- regard to such report in making the order.
+regard to such report in making the order.
 
 [[END OF PAGE 61]]
 
@@ -1680,11 +1857,11 @@ wife or husband.
 
 134. -(1) The Government may, by order, deprive a citizen of Singapore of his citizenship if the Government is satisfied that (a) he has, while of or over the age of 18 years, at any time after 6th April 1960 acquired by registration, naturalisation or other voluntary and formal act (other than marriage) the citizenship of any country outside Singapore or having so acquired such citizenship before the age of 18 years continues to retain it after that age; or (b) the citizen, being a woman who is a citizen of Singapore by registration under Article 123 (2), has acquired the citizenship of any country outside Singapore by virtue of her marriage to a person who is not a citizen of Singapore. (2) Where the Government has made an order under this Article depriving a citizen of Singapore of his citizenship, he shall cease to be a citizen with effect from the date of the
 
-- order.
+order.
 
 #### Deprivation of citizenship on exercise of rights of foreign nationals, etc.
 
--(1) The Government may, by order, deprive a citizen of Singapore of his citizenship if the Government is satisfied that -
+135. -(1) The Government may, by order, deprive a citizen of Singapore of his citizenship if the Government is satisfied that -
 
 (a) he has, while of or over the age of 18 years, at any time after 6th April 1960 voluntarily claimed and exercised any rights (other than any rights in connection with the use of a passport) available to him under the law of any country outside Singapore being rights accorded exclusively to the citizens or nationals of that country;
 
@@ -1698,7 +1875,7 @@ wife or husband.
 
 (2) For the purposes of clause (1) (a), the exercise of a vote in any political election in a place outside Singapore shall be deemed to be the voluntary claim and exercise of a right available under the law of that place.
 
-- Where the Government has made an order under this Article depriving a citizen of Singapore of his citizenship, he shall cease to be a citizen with effect from the date of the order.
+(3) Where the Government has made an order under this Article depriving a citizen of Singapore of his citizenship, he shall cease to be a citizen with effect from the date of the order.
 
 #### Termination of citizenship of Malaysia
 
@@ -1786,7 +1963,7 @@ shall for the purposes of this Part accrete and be deemed to form part of the pa
 
 (b) if no certificate under clause (3) is made, 50% of the net investment income of the financial year that is derived from the past reserves of the Government not comprised in the relevant assets, shall accrete and be deemed to form part of the past reserves of the Government with effect from the date of the certificate relating to that financial year made under clause (3) or, if no such certificate is made or earlier made, from the date the accounts and statements referred to in Article 147 (5) for that financial year are presented to the President. (3)   The Minister responsible for finance shall, as soon as practicable after the end of FY 2000 and every subsequent financial year, certify to the President in a certificate relating to that financial year, the amount (not being less than 50%) of the net investment income of that financial year derived from the past reserves of the Government not comprised in the relevant assets which is to accrete and be deemed to form part of the past reserves of the Government; and such certificate shall be final and conclusive evidence of the amount. (4)   In this Article "FY 2000" means the financial year beginning on 1st April 2000 and ending on 31st March 2001; "net investment income" , in relation to a financial year, means the balance of (a) the dividends, interest and other income received by the Government during the financial year from investing the reserves of the Government; and (b) the interest received by the Government during the financial year from loans (whenever given) by the Government, after deducting all expenses arising from or incidental to investing and managing those reserves (other than costs of purchasing or disposing of or converting investments) and any interest, sinking fund charges and borrowing charges, but excludes any such income or interest on loans received before the beginning of FY 2000; "net investment income of a financial year that is derived from the past reserves" means the share of the net investment income of the financial year that is attributable to the past reserves; "past reserves of the Government" means the reserves not accumulated by the Government during its current term of office, including accretions thereto deemed under clauses (1C) and (2) to be part thereof, but less such amount that is certified under clause (1A)( b ) or such amount adjusted pro-rata based on the period a financial year falls partially within any current term of office of the Government; "real rate of return" means an annual percentage of return on investment of relevant assets of the Government adjusted for changes in prices due to inflation or deflation and after deducting all expenses arising from or incidental to investing and managing the relevant assets; "realised capital gains" , in relation to any relevant assets, means all proceeds realised from the disposition of the relevant assets less all costs and expenses arising from or incidental to the disposition, purchase or conversion of the relevant assets, and includes any realised capital losses; "relevant assets" means all of the following: (a) the total net assets managed by the Government of Singapore Investment Corporation
 
-Pte. Ltd. and all its wholly-owned subsidiaries (including those with registered offices outside Singapore) as fund managers for the Government, for any company whollyowned by the Government and for all the wholly-owned subsidiaries of such a Government company; (b) such moneys of the Government as the Monetary Authority of Singapore receives from the Government as banker to the Government; and (c) the excess of the assets of the Monetary Authority of Singapore over its liabilities, being assets and liabilities not directly attributable to the Government, and being not already comprised in paragraph ( b ), less the following liabilities: (i) the total liabilities of the Government that is attributable to its borrowings under the Government Securities Act (Cap. 121A) and the Local Treasury Bills Act (Cap. 167); and (ii) the total liabilities of the Government that is represented by any Government Fund (other than a Government Fund required by written law to be held, managed and administered separately from other Government funds) established by a public Act for special purposes and not already comprised in paragraph (i).
+Pte. Ltd. and all its wholly-owned subsidiaries (including those with registered offices outside Singapore) as fund managers for the Government, for any company wholly-owned by the Government and for all the wholly-owned subsidiaries of such a Government company; (b) such moneys of the Government as the Monetary Authority of Singapore receives from the Government as banker to the Government; and (c) the excess of the assets of the Monetary Authority of Singapore over its liabilities, being assets and liabilities not directly attributable to the Government, and being not already comprised in paragraph ( b ), less the following liabilities: (i) the total liabilities of the Government that is attributable to its borrowings under the Government Securities Act (Cap. 121A) and the Local Treasury Bills Act (Cap. 167); and (ii) the total liabilities of the Government that is represented by any Government Fund (other than a Government Fund required by written law to be held, managed and administered separately from other Government funds) established by a public Act for special purposes and not already comprised in paragraph (i).
 #### No taxation unless authorised by law
 143. No tax or rate shall be levied by, or for the purposes of, Singapore except by or under the authority of law.
 #### Restriction on loans, guarantees, etc.
@@ -1853,15 +2030,18 @@ Pte. Ltd. and all its wholly-owned subsidiaries (including those with registered
 
 (a) in relation to accounts maintained in respect of the Consolidated Fund, a full and particular account showing the amounts actually received and spent in that year, and a full and particular statement showing receipts and expenditure of any loan moneys; (b) a statement of receipts and expenditure of moneys accounted in the Development Fund Account; (c) a statement of receipts and expenditure of moneys accounted in any Government fund created by any law; (d) so far as is practicable, a statement of the assets and liabilities of Singapore at the end of the financial year; (e) so far as is practicable, a statement of outstanding guarantees and other financial liabilities of Singapore at the end of the financial year; and (f) such other statements as the Minister may think fit, and, after the accounts and statements referred to in this clause have been audited, present to the President those audited accounts and statements together with another statement stating whether the audited accounts and statements referred to in this clause show any drawing on or likelihood of drawing on the reserves of the Government which were not accumulated by the Government during its current term of office.
 #### Authorisation of expenditure from Consolidated Fund and Development Fund
-148. -(1) The heads of expenditure to be met from the Consolidated Fund and Development Fund (other than statutory expenditure and expenditure to be met by such sums as are mentioned in Article 147 (2) ( b ) (i), (ii) or (iii)) shall be included in a Bill to be known as a Supply Bill, providing for the issue from the Consolidated Fund and Development Fund of the sums necessary to meet that expenditure and the appropriation of those sums for the purposes specified therein. (2) Wherever (a) any moneys are expended or are likely to be expended in any financial year upon any service or purpose which are in excess of the sum provided for that service or purpose by the Supply law relating to that year; or (b) any moneys are expended or are likely to be expended (otherwise than by way of statutory expenditure) in any financial year upon any new service or purpose not provided for by the Supply law relating to that year, supplementary estimates (or, as the case may be, statements of excess) shall be prepared by the Minister responsible for finance and, when approved by the Cabinet, shall be presented to and voted on by Parliament; in respect of all supplementary expenditure so voted, the Minister responsible for finance may, at any time before the end of the financial year, introduce into Parliament a Supplementary Supply Bill containing, under appropriate heads, the estimated sums so voted and shall, as soon as possible after the end of each financial year, introduce into Parliament a Final Supply Bill containing any such sums which have not yet been included in any Supply Bill. (2A) The Minister responsible for finance shall, in presenting to Parliament any stating whether the supplementary estimates or statement of excess, as the case may be, is
-
-supplementary estimates or statement of excess under clause (2), also present a statement likely to draw on the reserves which were not accumulated by the Government during its current term of office.
+148. -(1) The heads of expenditure to be met from the Consolidated Fund and Development Fund (other than statutory expenditure and expenditure to be met by such sums as are mentioned in Article 147 (2) (b) (i), (ii) or (iii)) shall be included in a Bill to be known as a Supply Bill, providing for the issue from the Consolidated Fund and Development Fund of the sums necessary to meet that expenditure and the appropriation of those sums for the purposes specified therein.
+(2) Wherever -
+(a) any moneys are expended or are likely to be expended in any financial year upon any service or purpose which are in excess of the sum provided for that service or purpose by the Supply law relating to that year; or
+(b) any moneys are expended or are likely to be expended (otherwise than by way of statutory expenditure) in any financial year upon any new service or purpose not provided for by the Supply law relating to that year,
+supplementary estimates (or, as the case may be, statements of excess) shall be prepared by the Minister responsible for finance and, when approved by the Cabinet, shall be presented to and voted on by Parliament; in respect of all supplementary expenditure so voted, the Minister responsible for finance may, at any time before the end of the financial year, introduce into Parliament a Supplementary Supply Bill containing, under appropriate heads, the estimated sums so voted and shall, as soon as possible after the end of each financial year, introduce into Parliament a Final Supply Bill containing any such sums which have not yet been included in any Supply Bill.
+(2A) The Minister responsible for finance shall, in presenting to Parliament any supplementary estimates or statement of excess under clause (2), also present a statement stating whether the supplementary estimates or statement of excess, as the case may be, is likely to draw on the reserves which were not accumulated by the Government during its current term of office.
 
 [[END OF PAGE 68]]
 
 [[START OF PAGE 69]]
 
-(3) The part of any estimates of expenditure presented to Parliament which shows statutory expenditure shall not be voted on by Parliament, and such expenditure shall, without further authority of Parliament, be paid out of the Consolidated Fund. (4) For the purposes of this Article, 'statutory expenditure' means expenditure charged on the Consolidated Fund or on the general revenues and assets of Singapore by virtue of Articles 18, 22J (3), 35 (10), 41, 42 (3), 108 (1), 114, 148E and 148F (4) or by virtue of the provisions of any other law for the time being in force in Singapore.
+(3) The part of any estimates of expenditure presented to Parliament which shows statutory expenditure shall not be voted on by Parliament, and such expenditure shall, without further authority of Parliament, be paid out of the Consolidated Fund. (4) For the purposes of this Article, "statutory expenditure" means expenditure charged on the Consolidated Fund or on the general revenues and assets of Singapore by virtue of Articles 18, 22J (3), 35 (10), 41, 42 (3), 108 (1), 114, 148E and 148F (4) or by virtue of the provisions of any other law for the time being in force in Singapore.
 #### Withholding of assent to Supply Bill, etc.
 148A. -(1) The President may, acting in his discretion, withhold his assent to any Supply Bill, Supplementary Supply Bill or Final Supply Bill for any financial year if, in his opinion, the estimates of revenue and expenditure for that year, the supplementary estimates or the statement of excess, as the case may be, are likely to lead to a drawing on the reserves which were not accumulated by the Government during its current term of office, except that if the President assents to any such Bill notwithstanding his opinion that the estimates, supplementary estimates or statement of excess are likely to lead to a drawing on those reserves, the President shall state his opinion in writing addressed to the Speaker and shall cause his opinion to be published in the Gazette . (2) If the President withholds his assent to any Supply Bill, Supplementary Supply Bill or Final Supply Bill relating to any financial year and no resolution to overrule the President is passed by Parliament under Article 148D within 30 days of such withholding of assent, Parliament may by resolution authorise expenditure or supplementary expenditure, as the case may be, (not otherwise authorised by law) from the Consolidated Fund and Development Fund during that financial year: Provided that (a) where the President withholds his assent to a Supply Bill, the expenditure so authorised for any service or purpose for that financial year (which shall include any amount authorised under Article 148B (4)) shall not exceed the total amount appropriated for that service or purpose in the preceding financial year; or (b) where the President withholds his assent to a Supplementary Supply Bill or Final Supply Bill, the expenditure so authorised for any service or purpose shall not exceed the amount necessary to replace an amount advanced from any Contingencies Fund under Article 148C (1) for that service or purpose. (3) For the purposes of paragraph ( a ) of the proviso to clause (2), the total amount appropriated for any service or purpose in any financial year shall be ascertained by adding the sums appropriated for such service or purpose by the Supply law, Supplementary Supply law and Final Supply law (if any) for that financial year. (3A) Upon the passing of a resolution under clause (2), the Minister responsible for finance shall introduce in Parliament a Supply Bill, Supplementary Supply Bill or Final Supply Bill, as the case may be, containing, under appropriate heads, the sums so voted on by Parliament. (4) In forming his opinion under clause (1) in relation to any Supplementary Supply Bill or Final Supply Bill, the President shall not have regard to any amount for any service or purpose included in the Supplementary Supply Bill or Final Supply Bill which is to replace any amount advanced from any Contingencies Fund under Article 148C (1). (5) For the purposes of this Article and Article 148D, where, on the expiration of 30 days after a Supply Bill, Supplementary Supply Bill or Final Supply Bill has been presented to the President for his assent, the President has not signified the withholding of his assent to the Bill, the President shall be deemed to have given his assent to the Bill and the date of such assent shall be deemed to be the day immediately following the expiration of the said 30 days.
 
@@ -1873,9 +2053,9 @@ supplementary estimates or statement of excess under clause (2), also present a 
 
 148B. -(1) Subject to clause (3), Parliament may, by resolution approving estimates containing a vote on account, authorise expenditure for part of any year before the passing of the Supply law for that year, but the aggregate sums so voted shall be included under the appropriate heads, in the Supply law for that year.
 
-- Subject to clause (3), Parliament may, by resolution approving a vote of credit, authorise expenditure for the whole or part of the year, otherwise than in accordance with Articles 147 and 148, if, owing to the magnitude or indefinite character of any service or to circumstances of unusual urgency, it appears to Parliament desirable to do so. (3) No resolution of Parliament made under clause (1) or (2) shall have effect unless the
+(2) Subject to clause (3), Parliament may, by resolution approving a vote of credit, authorise expenditure for the whole or part of the year, otherwise than in accordance with Articles 147 and 148, if, owing to the magnitude or indefinite character of any service or to circumstances of unusual urgency, it appears to Parliament desirable to do so. (3) No resolution of Parliament made under clause (1) or (2) shall have effect unless the
 
-- President, acting in his discretion, concurs therewith.
+President, acting in his discretion, concurs therewith.
 
 (4) If no Supply Bill has become law by the first day of the financial year to which it relates (whether by reason of the President withholding his assent thereto or otherwise), the Minister responsible for finance may, with the prior approval of the Cabinet, authorise such expenditure (not otherwise authorised by law) from the Consolidated Fund, Development Fund or other Government fund as he may consider essential for the continuance of the public services or any purpose of development shown in the estimates until there is a supply law for that financial year:
 
@@ -1883,7 +2063,7 @@ Provided that the expenditure so authorised for any service or purpose shall not
 
 #### Contingencies Funds
 
-- 148C. -(1) The Legislature may by law create a Contingencies Fund each for the Consolidated Fund and for the Development Fund and authorise the Minister responsible for finance to make advances from the appropriate Contingencies Fund if (a) he is satisfied that there is an urgent and unforeseen need for expenditure for which no provision or no sufficient provision has been made by a Supply law; and (b) the President, acting in his discretion, concurs with the making of such advances. (2) Where any advance is made by virtue of the authority conferred under clause (1), a supplementary estimate of the sum required to replace the amount so advanced shall, as soon as practicable, be presented to and voted on by Parliament and the sum shall be included in a Supplementary Supply Bill or Final Supply Bill. (3) If the Minister responsible for finance intends to make any advance from a Contingencies Fund, he shall present to the President a statement stating whether the proposed advance, if replaced, is likely to draw on the reserves which were not accumulated by the Government during its current term of office. (4) The President may, acting in his discretion, refuse to concur with the making of an advance from a Contingencies Fund which in his opinion, if replaced, is likely to draw on the reserves which were not accumulated by the Government during its current term of office.
+148C. -(1) The Legislature may by law create a Contingencies Fund each for the Consolidated Fund and for the Development Fund and authorise the Minister responsible for finance to make advances from the appropriate Contingencies Fund if (a) he is satisfied that there is an urgent and unforeseen need for expenditure for which no provision or no sufficient provision has been made by a Supply law; and (b) the President, acting in his discretion, concurs with the making of such advances. (2) Where any advance is made by virtue of the authority conferred under clause (1), a supplementary estimate of the sum required to replace the amount so advanced shall, as soon as practicable, be presented to and voted on by Parliament and the sum shall be included in a Supplementary Supply Bill or Final Supply Bill. (3) If the Minister responsible for finance intends to make any advance from a Contingencies Fund, he shall present to the President a statement stating whether the proposed advance, if replaced, is likely to draw on the reserves which were not accumulated by the Government during its current term of office. (4) The President may, acting in his discretion, refuse to concur with the making of an advance from a Contingencies Fund which in his opinion, if replaced, is likely to draw on the reserves which were not accumulated by the Government during its current term of office.
 
 #### Parliament may overrule President's withholding of assent to Supply Bill, etc.
 148D. -(1) Where the President withholds his assent under Article 148A to any Supply
@@ -1892,13 +2072,13 @@ Provided that the expenditure so authorised for any service or purpose shall not
 
 [[START OF PAGE 71]]
 
-- Bill, Supplementary Supply Bill or Final Supply Bill relating to any financial year contrary to the recommendation of the Council of Presidential Advisers, Parliament may by resolution passed by not less than two-thirds of the total number of the elected Members of Parliament referred to in Article 39 (1) ( a ) overrule the decision of the President. (2) Upon the passing of a resolution under clause (1), the assent of the President shall be deemed to have been given on the date of the passing of such resolution.
+Bill, Supplementary Supply Bill or Final Supply Bill relating to any financial year contrary to the recommendation of the Council of Presidential Advisers, Parliament may by resolution passed by not less than two-thirds of the total number of the elected Members of Parliament referred to in Article 39 (1) ( a ) overrule the decision of the President. (2) Upon the passing of a resolution under clause (1), the assent of the President shall be deemed to have been given on the date of the passing of such resolution.
 #### Debt charges and moneys required to satisfy judgments
-148E. -(1) The following are hereby charged on the Consolidated Fund: (a) all debt charges for which the Government is liable; and (b) any moneys required to satisfy any judgment, decision or award against the Government by any court or tribunal. (2) For the purposes of this Article, 'debt charges' includes interest, sinking fund charges, repayment or amortisation of debt and all expenditure in connection with the raising of loans on the security of the Consolidated Fund and the service and redemption of debt created thereby.
+148E. -(1) The following are hereby charged on the Consolidated Fund: (a) all debt charges for which the Government is liable; and (b) any moneys required to satisfy any judgment, decision or award against the Government by any court or tribunal. (2) For the purposes of this Article, "debt charges" includes interest, sinking fund charges, repayment or amortisation of debt and all expenditure in connection with the raising of loans on the security of the Consolidated Fund and the service and redemption of debt created thereby.
 #### Appointment of Auditor-General
 148F. -(1) There shall be an Auditor-General who shall be appointed or re-appointed, as the case may be, by the President in accordance with the advice of the Prime Minister unless the President, acting in his discretion, does not concur with that advice. (2) The Prime Minister shall, before tendering any advice under clause (1), consult the Chairman of the Public Service Commission. (3) It shall be the duty of the Auditor-General to audit and report on the accounts of all departments and offices of the Government, the Public Service Commission, the Legal Service Commission, the Supreme Court, all subordinate courts and Parliament. (4) The Auditor-General shall perform such other duties and exercise such other powers in relation to the accounts of the Government and accounts of other public authorities and other bodies administering public funds as may be prescribed by or under any written law. (5)   Subject to clauses (7) and (8), the Auditor-General shall hold office for a term of 6 years and shall cease to hold that office at the end of that term, but without prejudice to his eligibility for re-appointment for further terms of 6 years each. (6) Deleted by Act 2/2001, wef 02/08/2001. (7) The Auditor-General may at any time resign his office by writing under his hand addressed to the President. (8) The Auditor-General may be removed from office by the President, if the President concurs with the advice of the Prime Minister, but the Prime Minister shall not tender such advice except for inability of the Auditor-General to discharge the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour and except with the concurrence of a tribunal consisting of the Chief Justice and 2 other Judges of the Supreme Court nominated for that purpose by the Chief Justice. (9) The tribunal constituted under clause (8) shall regulate its own procedure and may make rules for that purpose. (10) Parliament shall by resolution provide for the remuneration of the Auditor-General
 
-- and the remuneration so provided shall be charged on the Consolidated Fund.
+and the remuneration so provided shall be charged on the Consolidated Fund.
 
 [[END OF PAGE 71]]
 
@@ -1912,7 +2092,7 @@ Provided that the expenditure so authorised for any service or purpose shall not
 #### Transfer of Government's past reserves
 148I. -(1)   Notwithstanding any provision in this Part, a proposed transfer or transfer (whether by or under any written law or otherwise) by the Government of any of its reserves to (a) a Government company specified in Part II of the Fifth Schedule (referred to in this clause and clause (2) as the transferee company); or (b) a statutory board specified in Part I of the Fifth Schedule (referred to in this clause and clause (2) as the transferee board), shall not be taken into account in determining whether the reserves accumulated by the Government before its current term of office are likely to be or have been drawn on if (i) in the case of a proposed transfer or transfer of reserves by the Government to a transferee company - the board of directors of the transferee company by resolution resolves that those reserves of the Government shall be added to the reserves accumulated by the transferee company before the current term of office of the Government; or (ii) in the case of a proposed transfer or transfer of reserves by the Government to a transferee board - the transferee board by resolution resolves, or any written law provides, that those reserves of the Government shall be added to the reserves accumulated by the transferee board before the current term of office of the Government. (2)   Any reserves transferred by the Government together with or under any undertaking,
 
-- resolution or written law referred to in clause (1) shall be deemed to form part of the reserves accumulated by the transferee company or (as the case may be) transferee board before the current term of office of the Government as follows:
+resolution or written law referred to in clause (1) shall be deemed to form part of the reserves accumulated by the transferee company or (as the case may be) transferee board before the current term of office of the Government as follows:
 
 [[END OF PAGE 72]]
 
@@ -1928,7 +2108,7 @@ Provided that the expenditure so authorised for any service or purpose shall not
 
 #### Legislation against subversion
 
--(1) If an Act recites that action has been taken or threatened by any substantial body of persons, whether inside or outside Singapore -
+149. -(1) If an Act recites that action has been taken or threatened by any substantial body of persons, whether inside or outside Singapore -
 
 (a) to cause, or to cause a substantial number of citizens to fear, organised violence against persons or property;
 
@@ -1940,25 +2120,25 @@ Provided that the expenditure so authorised for any service or purpose shall not
 
 (e) which is prejudicial to the security of Singapore,
 
-- any provision of that law designed to stop or prevent that action or any amendment to that law or any provision in any law enacted under clause (3) is valid notwithstanding that it is inconsistent with Article 9, 11, 12, 13 or 14, or would, apart from this Article, be outside the legislative power of Parliament.
+any provision of that law designed to stop or prevent that action or any amendment to that law or any provision in any law enacted under clause (3) is valid notwithstanding that it is inconsistent with Article 9, 11, 12, 13 or 14, or would, apart from this Article, be outside the legislative power of Parliament.
 
-- A law containing such a recital as is mentioned in clause (1) shall, if not sooner repealed, cease to have effect if a resolution is passed by Parliament annulling such law, but without prejudice to anything previously done by virtue thereof or to the power of Parliament to make a new law under this Article.
+(2) A law containing such a recital as is mentioned in clause (1) shall, if not sooner repealed, cease to have effect if a resolution is passed by Parliament annulling such law, but without prejudice to anything previously done by virtue thereof or to the power of Parliament to make a new law under this Article.
 
-- If, in respect of any proceedings whether instituted before or after 27th January 1989, any question arises in any court as to the validity of any decision made or act done in pursuance of any power conferred upon the President or the Minister by any law referred to in this Article, such question shall be determined in accordance with the provisions of any law as may be enacted by Parliament for this purpose; and nothing in Article 93 shall invalidate any law enacted pursuant to this clause.
+(3) If, in respect of any proceedings whether instituted before or after 27th January 1989, any question arises in any court as to the validity of any decision made or act done in pursuance of any power conferred upon the President or the Minister by any law referred to in this Article, such question shall be determined in accordance with the provisions of any law as may be enacted by Parliament for this purpose; and nothing in Article 93 shall invalidate any law enacted pursuant to this clause.
 
 #### Proclamation of Emergency
 
--(1) If the President is satisfied that a grave emergency exists whereby the security or economic life of Singapore is threatened, he may issue a Proclamation of Emergency.
+150. -(1) If the President is satisfied that a grave emergency exists whereby the security or economic life of Singapore is threatened, he may issue a Proclamation of Emergency.
 
-- If a Proclamation of Emergency is issued when Parliament is not sitting, the President shall summon Parliament as soon as practicable, and may, until Parliament is sitting, promulgate ordinances having the force of law, if satisfied that immediate action is required.
+(2) If a Proclamation of Emergency is issued when Parliament is not sitting, the President shall summon Parliament as soon as practicable, and may, until Parliament is sitting, promulgate ordinances having the force of law, if satisfied that immediate action is required.
 
-- A Proclamation of Emergency and any ordinance promulgated under clause (2) shall be presented to Parliament and, if not sooner revoked, shall cease to have effect if a
+(3) A Proclamation of Emergency and any ordinance promulgated under clause (2) shall be presented to Parliament and, if not sooner revoked, shall cease to have effect if a
 
 [[END OF PAGE 73]]
 
 [[START OF PAGE 74]]
 
-resolution is passed by Parliament annulling such Proclamation or ordinance, but without prejudice to anything previously done by virtue thereof or to the power of the President to issue a new Proclamation under clause (1) or promulgate any ordinance under clause (2). (4) Subject to clause (5) ( b ), while a Proclamation of Emergency is in force, Parliament may, notwithstanding anything in this Constitution, make laws with respect to any matter, if it appears to Parliament that the law is required by reason of the emergency; and any provision of this Constitution (except Articles 22E, 22H, 144 (2) and 148A) or of any written law which requires any consent or concurrence to the passing of a law or any consultation with respect thereto, or which restricts the coming into force of a law after it is passed or the presentation of a Bill to the President for his assent, shall not apply to a Bill for such a law or an amendment to such a Bill. (5) (a) Subject to paragraph ( b ), no provision of any ordinance promulgated under this Article, and no provision of any Act which is passed while a Proclamation of Emergency is in force and which declares that the law appears to Parliament to be required by reason of the emergency, shall be invalid on the ground of inconsistency with any provision of this Constitution. (b) Paragraph (a) shall not validate any provision inconsistent with (i) Article 5 (2A); (ii) the provisions in this Constitution specified in Article 5 (2A) conferring discretionary powers on the President; and *( i ) Article 5 (2A) or 5A; *Article 150 ( b ) (i) and (ii) were not in operation at the date of this Reprint. ( ii ) any provision in this Constitution which authorises the President to act in his discretion; and (iii) the provisions of this Constitution relating to religion, citizenship or language. (6) At the expiration of a period of 6 months beginning with the date on which a Proclamation of Emergency ceases to be in force, any ordinance promulgated in pursuance of the Proclamation and, to the extent that it could not have been validly made but for this Article, any law made while the Proclamation was in force, shall cease to have effect, except as to things done or omitted to be done before the expiration of that period.
+resolution is passed by Parliament annulling such Proclamation or ordinance, but without prejudice to anything previously done by virtue thereof or to the power of the President to issue a new Proclamation under clause (1) or promulgate any ordinance under clause (2). (4) Subject to clause (5) ( b ), while a Proclamation of Emergency is in force, Parliament may, notwithstanding anything in this Constitution, make laws with respect to any matter, if it appears to Parliament that the law is required by reason of the emergency; and any provision of this Constitution (except Articles 22E, 22H, 144 (2) and 148A) or of any written law which requires any consent or concurrence to the passing of a law or any consultation with respect thereto, or which restricts the coming into force of a law after it is passed or the presentation of a Bill to the President for his assent, shall not apply to a Bill for such a law or an amendment to such a Bill. (5) (a) Subject to paragraph ( b ), no provision of any ordinance promulgated under this Article, and no provision of any Act which is passed while a Proclamation of Emergency is in force and which declares that the law appears to Parliament to be required by reason of the emergency, shall be invalid on the ground of inconsistency with any provision of this Constitution. (b) Paragraph (a) shall not validate any provision inconsistent with (i) Article 5 (2A); (ii) the provisions in this Constitution specified in Article 5 (2A) conferring discretionary powers on the President; and *( i ) Article 5 (2A) or 5A; *Article 150 (5) (b) (i) and (ii) were not in operation at the date of this Reprint. ( ii ) any provision in this Constitution which authorises the President to act in his discretion; and (iii) the provisions of this Constitution relating to religion, citizenship or language. (6) At the expiration of a period of 6 months beginning with the date on which a Proclamation of Emergency ceases to be in force, any ordinance promulgated in pursuance of the Proclamation and, to the extent that it could not have been validly made but for this Article, any law made while the Proclamation was in force, shall cease to have effect, except as to things done or omitted to be done before the expiration of that period.
 #### Restrictions on preventive detention
 151. -(1) Where any law or ordinance made or promulgated in pursuance of this Part provides for preventive detention (a) the authority on whose order any person is detained under that law or ordinance shall as soon as may be, inform him of the grounds for his detention and, subject to clause (3), the allegations of fact on which the order is based, and shall give him the opportunity of making representations against the order as soon as may be; and (b) no citizen of Singapore shall be detained under that law or ordinance for a period exceeding 3 months unless an advisory board constituted as mentioned in clause (2) has considered any representations made by him under paragraph (a) and made recommendations thereon to the President. (2) An advisory board constituted for the purposes of this Article shall consist of a
 
@@ -1968,15 +2148,15 @@ chairman, who shall be appointed by the President and who shall be or have been,
 
 [[START OF PAGE 75]]
 
-- This Article does not require any authority to disclose facts the disclosure of which would, in its opinion, be against the national interest.
+(3) This Article does not require any authority to disclose facts the disclosure of which would, in its opinion, be against the national interest.
 
-- Where an advisory board constituted for the purposes of this Article recommends the release of any person under any law or ordinance made or promulgated in pursuance of this Part, the person shall not be detained or further detained without the concurrence of the President if the recommendations of the advisory board are not accepted by the authority on whose advice or order the person is detained.
+(4) Where an advisory board constituted for the purposes of this Article recommends the release of any person under any law or ordinance made or promulgated in pursuance of this Part, the person shall not be detained or further detained without the concurrence of the President if the recommendations of the advisory board are not accepted by the authority on whose advice or order the person is detained.
 
 #### Defence and security measures
 
-- 151A. -(1) Articles 22B (7), 22D (6), 148G (2) and (3) and 148H shall not apply to any defence and security measure.
+151A. -(1) Articles 22B (7), 22D (6), 148G (2) and (3) and 148H shall not apply to any defence and security measure.
 
-- For the purposes of clause (1), a defence and security measure means any liability or proposed transaction which the Prime Minister and the Minister responsible for defence, on the recommendations of the Permanent Secretary to the Ministry of Defence and the Chief of Defence Force, certify to be necessary for the defence and security of Singapore, and any certificate under the hands of the Prime Minister and the Minister responsible for defence shall be conclusive evidence of the matters specified therein.
+(2) For the purposes of clause (1), a defence and security measure means any liability or proposed transaction which the Prime Minister and the Minister responsible for defence, on the recommendations of the Permanent Secretary to the Ministry of Defence and the Chief of Defence Force, certify to be necessary for the defence and security of Singapore, and any certificate under the hands of the Prime Minister and the Minister responsible for defence shall be conclusive evidence of the matters specified therein.
 
 ## PART XIII
 
@@ -1984,19 +2164,19 @@ chairman, who shall be appointed by the President and who shall be or have been,
 
 #### Minorities and special position of Malays
 
--(1) It shall be the responsibility of the Government constantly to care for the interests of the racial and religious minorities in Singapore.
+152. -(1) It shall be the responsibility of the Government constantly to care for the interests of the racial and religious minorities in Singapore.
 
-- The Government shall exercise its functions in such manner as to recognise the special position of the Malays, who are the indigenous people of Singapore, and accordingly it shall be the responsibility of the Government to protect, safeguard, support, foster and promote their political, educational, religious, economic, social and cultural interests and the Malay language.
+(2) The Government shall exercise its functions in such manner as to recognise the special position of the Malays, who are the indigenous people of Singapore, and accordingly it shall be the responsibility of the Government to protect, safeguard, support, foster and promote their political, educational, religious, economic, social and cultural interests and the Malay language.
 
 #### Muslim religion
 
-- The Legislature shall by law make provision for regulating Muslim religious affairs and for constituting a Council to advise the President in matters relating to the Muslim religion.
+153. The Legislature shall by law make provision for regulating Muslim religious affairs and for constituting a Council to advise the President in matters relating to the Muslim religion.
 
 #### Official languages and national language
 
-- 153A. -(1) Malay, Mandarin, Tamil and English shall be the 4 official languages in Singapore.
+153A. -(1) Malay, Mandarin, Tamil and English shall be the 4 official languages in Singapore.
 
-- The national language shall be the Malay language and shall be in the Roman script: Provided that -
+(2) The national language shall be the Malay language and shall be in the Roman script: Provided that -
 
 (a) no person shall be prohibited or prevented from using or from teaching or learning any other language; and
 
@@ -2004,7 +2184,7 @@ chairman, who shall be appointed by the President and who shall be or have been,
 
 #### Impartial treatment of Government employees
 
-- Subject to the provisions of this Constitution, all persons of whatever race in the
+154. Subject to the provisions of this Constitution, all persons of whatever race in the
 
 [[END OF PAGE 75]]
 
@@ -2016,10 +2196,10 @@ same grade of the service of the Government shall, subject to the terms and cond
 
 154A. The President, acting in his discretion, may by order published in the Gazette exempt any transaction or class of transactions, from the application of Article 144.
 #### Authorised reprints of Constitution
-155. -(1) The Attorney-General may, with the authority of the President, as soon as may be after 4th May 1979 cause to be printed and published a consolidated reprint of the Constitution of Singapore, as amended from time to time, amalgamated with such of the provisions of the Constitution of Malaysia as are applicable to Singapore, into a single, composite document*. * See Reprint No. 1 of 1980 published on 31st March 1980. (2) The President may, from time to time, authorise the Attorney-General to cause to be printed and published an up-to-date reprint of the Constitution of the Republic of Singapore, incorporating therein all amendments in force at the date of such authorisation. (3) Any reprint of the Constitution of the Republic of Singapore, printed and published under clause (1) or (2), shall be deemed to be and shall be, without any question whatsoever in all courts of justice and for all purposes whatsoever, the authentic text of the Constitution of the Republic of Singapore in force as from the date specified in that reprint until superseded by the next or subsequent reprint. (4) In the preparation and compilation of any reprint under clause (1) or (2), the AttorneyGeneral shall have, with the necessary modifications, the powers conferred upon the Law Revision Commissioners by section 4 of the Revised Edition of the Laws Act (Cap. 275). (5) In the preparation and compilation of the consolidated reprint under clause (1), the Attorney-General shall have the power in his discretion (a) to merge the existing provisions of both Constitutions, making thereto such modifications as may be necessary or expedient in consequence of the independence of Singapore upon separation from Malaysia; (b) to re-arrange the Parts, Articles and provisions of the Constitution of Singapore and of the Constitution of Malaysia in such connected sequence as he thinks fit, omitting inappropriate or inapplicable provisions, in the latter Constitution; (c) where provisions exist in both Constitutions on the same subject-matter, to include in the consolidated reprint the provisions of the Constitution of Singapore on such subjectmatter and to omit the duplicated provisions appearing in the Constitution of Malaysia from the consolidated reprint; and (d) generally, to do all other things necessitated by, or consequential upon, the exercise of the powers conferred upon the Attorney-General by this Article or which may be necessary or expedient for the perfecting of the consolidated reprint of the Constitution of the Republic of Singapore.
+155. -(1) The Attorney-General may, with the authority of the President, as soon as may be after 4th May 1979 cause to be printed and published a consolidated reprint of the Constitution of Singapore, as amended from time to time, amalgamated with such of the provisions of the Constitution of Malaysia as are applicable to Singapore, into a single, composite document*. *See Reprint No. 1 of 1980 published on 31st March 1980. (2) The President may, from time to time, authorise the Attorney-General to cause to be printed and published an up-to-date reprint of the Constitution of the Republic of Singapore, incorporating therein all amendments in force at the date of such authorisation. (3) Any reprint of the Constitution of the Republic of Singapore, printed and published under clause (1) or (2), shall be deemed to be and shall be, without any question whatsoever in all courts of justice and for all purposes whatsoever, the authentic text of the Constitution of the Republic of Singapore in force as from the date specified in that reprint until superseded by the next or subsequent reprint. (4) In the preparation and compilation of any reprint under clause (1) or (2), the Attorney-General shall have, with the necessary modifications, the powers conferred upon the Law Revision Commissioners by section 4 of the Revised Edition of the Laws Act (Cap. 275). (5) In the preparation and compilation of the consolidated reprint under clause (1), the Attorney-General shall have the power in his discretion - (a) to merge the existing provisions of both Constitutions, making thereto such modifications as may be necessary or expedient in consequence of the independence of Singapore upon separation from Malaysia; (b) to re-arrange the Parts, Articles and provisions of the Constitution of Singapore and of the Constitution of Malaysia in such connected sequence as he thinks fit, omitting inappropriate or inapplicable provisions, in the latter Constitution; (c) where provisions exist in both Constitutions on the same subject-matter, to include in the consolidated reprint the provisions of the Constitution of Singapore on such subject-matter and to omit the duplicated provisions appearing in the Constitution of Malaysia from the consolidated reprint; and (d) generally, to do all other things necessitated by, or consequential upon, the exercise of the powers conferred upon the Attorney-General by this Article or which may be necessary or expedient for the perfecting of the consolidated reprint of the Constitution of the Republic of Singapore.
 #### Date of coming into operation of Constitution
 
-156. Omitted .
+156. Omitted.
 
 ## PART XIV
 ### TRANSITIONAL PROVISIONS
@@ -2034,13 +2214,13 @@ same grade of the service of the Government shall, subject to the terms and cond
 
 #### Public officers to continue in office
 
-- Subject to the provisions of this Constitution, every person who immediately before the commencement of this Constitution holds a public office shall on its commencement continue to hold the like office in the public service.
+158. Subject to the provisions of this Constitution, every person who immediately before the commencement of this Constitution holds a public office shall on its commencement continue to hold the like office in the public service.
 
 #### Terms of service of persons who continue in office
 
--(1) Except where other provision is made by this Constitution, any person who holds any office as from the commencement of this Constitution by virtue of having been the holder of any office immediately before its commencement shall, as from its commencement, be entitled to the same terms of service as were applicable to him immediately before its commencement, and those terms, in so far as they relate to remuneration, shall not be altered to his disadvantage during his continuance in the public service thereafter.
+159. -(1) Except where other provision is made by this Constitution, any person who holds any office as from the commencement of this Constitution by virtue of having been the holder of any office immediately before its commencement shall, as from its commencement, be entitled to the same terms of service as were applicable to him immediately before its commencement, and those terms, in so far as they relate to remuneration, shall not be altered to his disadvantage during his continuance in the public service thereafter.
 
-- For the purposes of this Article, in so far as the terms of service of any person depend upon his option, any terms for which he opts shall be taken to be more advantageous to him than any for which he might have opted.
+(2) For the purposes of this Article, in so far as the terms of service of any person depend upon his option, any terms for which he opts shall be taken to be more advantageous to him than any for which he might have opted.
 
 #### Succession to property
 
@@ -2062,9 +2242,9 @@ same grade of the service of the Government shall, subject to the terms and cond
 
 [[START OF PAGE 78]]
 
-- The Act shall not affect the appointment of any person made before 30th November 1991 and that person shall continue to hold his office as if he had been appointed in accordance with the provisions of this Constitution as amended by the Act.
+(2) The Act shall not affect the appointment of any person made before 30th November 1991 and that person shall continue to hold his office as if he had been appointed in accordance with the provisions of this Constitution as amended by the Act.
 
-- This Constitution as amended by the Act shall have effect subject to the following modifications:
+(3) This Constitution as amended by the Act shall have effect subject to the following modifications:
 
 (a) the initial term of office of the Government shall be the period beginning from 30th November 1991 and ending on the date immediately before the Prime Minister and Ministers first take and subscribe the Oath of Allegiance in accordance with Article 27 after the first general election following that date;
 
@@ -2094,7 +2274,7 @@ I, .............................................................................
 
 *Delete where inapplicable.
 
-#### Oath of Allegiance.
+#### 2. Oath of Allegiance.
 
 I, ......................................................................................................, having been appointed
 
@@ -2106,36 +2286,36 @@ to the office of ...............................................................
 
 swear (or affirm) that I will bear true faith and allegiance to the Republic of Singapore and that I will preserve, protect and defend the Constitution of the Republic of Singapore.
 
-#### Oath as Member of Parliament.
+#### 3. Oath as Member of Parliament.
 
 I, ..................................................................................................................., having been elected as a Member of the Parliament of Singapore, do solemnly swear (or affirm) that I will faithfully discharge my duties as such to the best of my ability, that I will bear true faith and allegiance to the Republic of Singapore, and that I will preserve, protect and defend the Constitution of the Republic of Singapore.
 
-#### Oath for due execution of Office of Prime Minister
+#### 4. Oath for due execution of Office of Prime Minister
 
-- I, ..........................................................., being chosen and appointed as Prime Minister of Singapore, do solemnly swear (or affirm) that I will at all times faithfully discharge my duties as Prime Minister according to law, and to the best of my knowledge and ability, without fear or favour, affection or ill-will.
+I, ..........................................................., being chosen and appointed as Prime Minister of Singapore, do solemnly swear (or affirm) that I will at all times faithfully discharge my duties as Prime Minister according to law, and to the best of my knowledge and ability, without fear or favour, affection or ill-will.
 
 #### 4A. Oath for due execution of Office of Minister or Parliamentary Secretary
 I, ..........................................................., being chosen and appointed as
 
 *Minister/Parliamentary Secretary of Singapore, do solemnly swear (or affirm) that I will at all times faithfully discharge my duties as *Minister/Parliamentary Secretary according to law, and to the best of my knowledge and ability, without fear or favour, affection or ill-will.
 
-#### Oath for the due execution of the Office of Chairman or other Member of the Public Service Commission.
+#### 5. Oath for the due execution of the Office of Chairman or other Member of the Public Service Commission.
 
 I, .................................................................................................., having been appointed to be *Chairman/a Member of the Public Service Commission do solemnly swear (or affirm) that I will freely and without fear or favour, affection or ill-will, give my counsel and advice in connection with all matters that may be referred to the Public Service Commission and that I will not, directly or indirectly, reveal any such matters to any unauthorised person or otherwise than in the course of duty. *Delete where inapplicable.
 
-#### Oath of Office of Chief Justice, a Judge of the Supreme Court and a Judicial Commissioner.
+#### 6. Oath of Office of Chief Justice, a Judge of the Supreme Court and a Judicial Commissioner.
 
 I, ................................................................................................................., having been
 
 appointed to the office of ................................................................................................., do solemnly swear (or affirm) that I will faithfully discharge my judicial duties, and I will do right to all manner of people after the laws and usages of the Republic of Singapore without fear or favour, affection or ill-will to the best of my ability, and will preserve, protect and defend the Constitution of the Republic of Singapore.
 
-#### Oath of Secrecy of Chairman or Member of the Presidential Council for Minority Rights.
+#### 7. Oath of Secrecy of Chairman or Member of the Presidential Council for Minority Rights.
 
 I, ................................................................................................................., having been appointed to be *Chairman/a Member of the Presidential Council for Minority Rights, do solemnly swear (or affirm) that I will not, directly or indirectly, reveal any matter considered in the Presidential Council for Minority Rights to any unauthorised person or otherwise than in the course of duty.
 
 *Delete where inapplicable.
 
-#### Oath of Secrecy of Chairman or Member of Council of Presidential Advisers.
+#### 8. Oath of Secrecy of Chairman or Member of Council of Presidential Advisers.
 
 I, ................................................................................................................., having been
 
@@ -2162,19 +2342,19 @@ I, .............................................................................
 
 #### Minister to exercise functions of Government in respect of citizenship
 
-- The functions of the Government under Part X shall be exercised by such Minister as the President may, from time to time, direct and references in this Schedule to the Minister shall be construed accordingly.
+1. The functions of the Government under Part X shall be exercised by such Minister as the President may, from time to time, direct and references in this Schedule to the Minister shall be construed accordingly.
 
 #### Decision not subject to appeal
 
-- A decision of the Government under Part X shall not be subject to appeal or review in any court.
+2. A decision of the Government under Part X shall not be subject to appeal or review in any court.
 
-#### Delegation of Minister's functions to public officer and right of appeal to Minister against public officer"s decision
+#### Delegation of Minister's functions to public officer and right of appeal to Minister against public officer's decision
 
-- The Minister may delegate to any public officer of the Government any of his functions under Part X or under this Schedule relating to citizenship by registration and enrolment and the keeping of registers and, in relation to orders under clauses (1), (2), (3) (b), (6) and (7) of Article 129 or Article 132, any of his functions under Article 133 prior to determining whether to make such an order; but any person aggrieved by the decision of a public officer to whom the functions of the Minister are so delegated may appeal to the Minister.
+3. The Minister may delegate to any public officer of the Government any of his functions under Part X or under this Schedule relating to citizenship by registration and enrolment and the keeping of registers and, in relation to orders under clauses (1), (2), (3) (b), (6) and (7) of Article 129 or Article 132, any of his functions under Article 133 prior to determining whether to make such an order; but any person aggrieved by the decision of a public officer to whom the functions of the Minister are so delegated may appeal to the Minister.
 
 #### Power to make rules
 
-- The Minister may make rules and prescribe forms for the purpose of the exercise of his functions under Part X and of this Schedule and, in particular, may provide for the circumstances (including cases of persons ordinarily resident outside Singapore) under which a committee of inquiry under Article 133 is to proceed by way of written representations.
+4. The Minister may make rules and prescribe forms for the purpose of the exercise of his functions under Part X and of this Schedule and, in particular, may provide for the circumstances (including cases of persons ordinarily resident outside Singapore) under which a committee of inquiry under Article 133 is to proceed by way of written representations.
 
 [[END OF PAGE 80]]
 
@@ -2182,29 +2362,29 @@ I, .............................................................................
 
 #### Extension of time for registration of birth
 
-- The power of the Government under Articles 122 and 141 to allow a longer period for the registration of a birth may be exercised either before or after the registration has been effected.
+5. The power of the Government under Articles 122 and 141 to allow a longer period for the registration of a birth may be exercised either before or after the registration has been effected.
 
 #### How notice to be given
 
-- Any notice to be given by the Minister to any person under Article 133 (1) may be sent to that person at his last known address or, in the case of a person under the age of 18 years (not being a married woman) to his parent or guardian at the last known address of the parent or guardian; and if an address at which the notice may be sent to any person under this paragraph is not known and cannot after reasonable inquiry be ascertained, the notice may be given by publication in the Gazette .
+6. Any notice to be given by the Minister to any person under Article 133 (1) may be sent to that person at his last known address or, in the case of a person under the age of 18 years (not being a married woman) to his parent or guardian at the last known address of the parent or guardian; and if an address at which the notice may be sent to any person under this paragraph is not known and cannot after reasonable inquiry be ascertained, the notice may be given by publication in the Gazette.
 
 #### Registers to be maintained
 
-- It shall be the duty of the Minister to compile and maintain -
+7. It shall be the duty of the Minister to compile and maintain -
 
 (a) a register of citizens of Singapore by registration; (b) a register of citizens of Singapore by naturalisation; (c) a register of persons to whom certificates of citizenship of Singapore have been issued under Article 138; (d) a register of persons who have been deprived or deemed to have been deprived of citizenship under any provision of Part X; (e) a register of citizens of Singapore who have renounced citizenship; (f) a register of persons enrolled as citizens before the commencement of this Constitution under Article 56* of the Constitution of the State of Singapore; *Article 56 of the Constitution of the State of Singapore (G.N. Sp. No. S 1/63) was repealed by G.N. No. S 50/66, with effect from 9th August 1965. (g) a register of persons whose enrolment has been cancelled under the provisions of this Constitution; (h) an alphabetical index of all persons referred to in paragraphs (a) to (g); and (i) a register of persons who have been conferred citizenship under Article 121 (3).
 
 #### Minister may correct any register where necessary
 
-- If the Minister has reason to believe that an error appears in any register compiled under section 7, he shall, after giving notice to the persons concerned and after considering such representations from him as he may choose to make, make such alteration to the register as appears to the Minister to be necessary to correct the error.
+8. If the Minister has reason to believe that an error appears in any register compiled under section 7, he shall, after giving notice to the persons concerned and after considering such representations from him as he may choose to make, make such alteration to the register as appears to the Minister to be necessary to correct the error.
 
 #### Conclusive evidence
 
-- Subject to section 8, the said register shall be conclusive evidence of the matters therein contained.
+9. Subject to section 8, the said register shall be conclusive evidence of the matters therein contained.
 
 #### Offences
 
--(1) It shall be an offence punishable with imprisonment for 2 years or a fine of $1,000 or both for any person -
+10. -(1) It shall be an offence punishable with imprisonment for 2 years or a fine of $1,000 or both for any person -
 
 (a) knowingly to make any false statement with a view to inducing the Minister to grant or refuse any application under Part X;
 
@@ -2216,39 +2396,37 @@ I, .............................................................................
 
 (d) to personate or falsely represent himself to be or not to be a person to whom a certificate has been duly granted.
 
-- In this section, 'certificate' means -
+(2) In this section, “certificate” means -
 
-(a) any certificate of enrolment or registration as a citizen granted under Article 56* of the Constitution of the State of Singapore or under Article 123 or 124; *Article 56 of the Constitution of the State of Singapore (G.N. Sp. No. S 1/63) was repealed by G.N. No. S 50/66, with effect from 9th August 1965. (b) any certificate of registration of birth granted under Article 122 or 140; (c) any certificate of registration or naturalisation granted under the Singapore Citizenship Ordinance 1957 (Ord. 35 of 1957); (d) any certificate of citizenship granted under the Singapore Citizenship Ordinance 1957
-
-- or Article 138.
+(a) any certificate of enrolment or registration as a citizen granted under Article 56* of the Constitution of the State of Singapore or under Article 123 or 124; *Article 56 of the Constitution of the State of Singapore (G.N. Sp. No. S 1/63) was repealed by G.N. No. S 50/66, with effect from 9th August 1965. (b) any certificate of registration of birth granted under Article 122 or 140; (c) any certificate of registration or naturalisation granted under the Singapore Citizenship Ordinance 1957 (Ord. 35 of 1957); (d) any certificate of citizenship granted under the Singapore Citizenship Ordinance 1957 or Article 138.
 
 #### Persons born on ships or aircraft
 
-- For the purposes of Part X, a person born on board a registered ship or aircraft, or on board an unregistered ship or aircraft of the government of any country, shall be deemed to have been born in the place in which the ship or aircraft was registered or, as the case may be, in that country.
+11. For the purposes of Part X, a person born on board a registered ship or aircraft, or on board an unregistered ship or aircraft of the government of any country, shall be deemed to have been born in the place in which the ship or aircraft was registered or, as the case may be, in that country.
 
 #### Posthumous children
 
--(1)   A reference in Part X to the status or description of a parent of a person at the time of the person's birth shall, in the case of a parent who died before the birth of the person, be read as a reference to the status or description of the parent at the time of the parent's death.
+12. -(1) A reference in Part X to the status or description of a parent of a person at the time of the person's birth shall, in the case of a parent who died before the birth of the person, be read as a reference to the status or description of the parent at the time of the parent's death.
 
-- Where the death of a parent of a person occurred before and the birth of the person occurred on or after 16th September 1963, the status or description that would have been applicable to the parent by virtue of subsection (1) if the parent had died after that date shall be deemed to be the status or description applicable to the parent at the time of the parent"s death.
+(2) Where the death of a parent of a person occurred before and the birth of the person occurred on or after 16th September 1963, the status or description that would have been applicable to the parent by virtue of subsection (1) if the parent had died after that date shall be deemed to be the status or description applicable to the parent at the time of the parent's death.
 
 #### Foundlings
 
-- Any new born child found exposed in Singapore of unknown and unascertainable parentage shall, until the contrary is proved, be deemed to be a citizen of Singapore by birth; and the date of finding shall be taken to be the date of birth of such child.
+13. Any new born child found exposed in Singapore of unknown and unascertainable parentage shall, until the contrary is proved, be deemed to be a citizen of Singapore by birth; and the date of finding shall be taken to be the date of birth of such child.
 
 #### Citizenship at birth
 
-- For the purposes of Part X, a person is to be treated as having at birth any citizenship which he acquires within one year afterwards by virtue of any provision corresponding to the proviso to Article 122 (1) or otherwise.
+14. For the purposes of Part X, a person is to be treated as having at birth any citizenship which he acquires within one year afterwards by virtue of any provision corresponding to the proviso to Article 122 (1) or otherwise.
 
 #### Illegitimate children and adopted children
 
--(1) For the purposes of Part X, references to a person's father or to his parent or to one of his parents shall, in relation to a person who is illegitimate, be construed as references to his mother .
+15. -(1) For the purposes of Part X, references to a person's father or to his parent or to one of his parents shall, in relation to a person who is illegitimate, be construed as references to his mother.
 
-- In relation to an adopted child who has been adopted by an order of a court in accordance with the provisions of any law in force in Singapore, references to a person"s father or to his parent or to one of his parents shall be construed as references to the adopter.
+(2) In relation to an adopted child who has been adopted by an order of a court in accordance with the provisions of any law in force in Singapore, references to a person's father or to his parent or to one of his parents shall be construed as references to the adopter.
 
 #### Periods of absence to be treated as periods of residence
 
-16. In calculating for the purposes of Part X, a period of residence in Singapore (a) a period of absence from Singapore of less than 12 months in the aggregate; and
+16. In calculating for the purposes of Part X, a period of residence in Singapore - (a) a period of absence from Singapore of less than 12 months in the aggregate; and
 
 [[END OF PAGE 82]]
 
@@ -2260,7 +2438,7 @@ may be treated as residence in Singapore and a person shall be deemed to be resi
 
 #### Certain period of residence not to be taken into account
 
-- In calculating for the purposes of Part X any period of residence in Singapore, no account shall be taken -
+17. In calculating for the purposes of Part X any period of residence in Singapore, no account shall be taken -
 
 (a) of any period of residence in Singapore whilst a person was or was the member of the family of -
 
@@ -2276,9 +2454,9 @@ may be treated as residence in Singapore and a person shall be deemed to be resi
 
 #### Discretion of Minister
 
--(1) The Minister shall not be required to assign any reason for the grant or refusal of any application under Part X the decision on which is at his discretion; and the decision of the Minister on any such application shall be final.
+18. -(1) The Minister shall not be required to assign any reason for the grant or refusal of any application under Part X the decision on which is at his discretion; and the decision of the Minister on any such application shall be final.
 
-- Deleted by Act 9/2010, wef 01/07/2010.
+(2) Deleted by Act 9/2010, wef 01/07/2010.
 
 ## FOURTH SCHEDULE
 
@@ -2288,23 +2466,23 @@ may be treated as residence in Singapore and a person shall be deemed to be resi
 
 1.
 
-- Deleted by Act 9/2010, wef 01/07/2010.
+(1) Deleted by Act 9/2010, wef 01/07/2010.
 
-- Subject to the provisions of this Constitution, the President shall, within 6 months after Parliament first sits after any General Election, appoint as nominated Members of Parliament the persons nominated by a Special Select Committee of Parliament.
+(2) Subject to the provisions of this Constitution, the President shall, within 6 months after Parliament first sits after any General Election, appoint as nominated Members of Parliament the persons nominated by a Special Select Committee of Parliament.
 
-- The Special Select Committee of Parliament shall consist of the Speaker as Chairman and 7 Members of Parliament to be nominated by the Committee of Selection of Parliament.
+(3) The Special Select Committee of Parliament shall consist of the Speaker as Chairman and 7 Members of Parliament to be nominated by the Committee of Selection of Parliament.
 
-- Subject to Article 46, every person appointed as a nominated Member of Parliament shall serve for a term of 2 1/2 years commencing on the date of his appointment.
+(4) Subject to Article 46, every person appointed as a nominated Member of Parliament shall serve for a term of 2 1/2 years commencing on the date of his appointment.
 
-- The President shall, if advised by the Special Select Committee of Parliament, extend the term of service of every nominated Member of Parliament appointed before
+(5) The President shall, if advised by the Special Select Committee of Parliament, extend the term of service of every nominated Member of Parliament appointed before
 
 [[END OF PAGE 83]]
 
 [[START OF PAGE 84]]
 
-- the date of commencement of section 4 ( a ) of the Constitution of the Republic of Singapore (Amendment) Act 2002 for a further period of 6 months so that the total period of any such nominated Member's term of service shall be 2 1/2 years commencing from the date of his original appointment as such. 2. -(1) In preparing the list of persons to be appointed as nominated Members of Parliament by the President, the Special Select Committee shall invite the general public to submit names of persons who may be considered for nomination by the Committee. (2) Every name submitted under subsection (1) shall be made in such form as the Special Select Committee may determine, and shall be signed by 2 persons as proposer and seconder, respectively, and by not less than 4 other persons, all of whose names shall appear in any current register of electors. (3) Before making any nomination for the appointment of nominated Members of Parliament, the Special Select Committee shall, wherever possible, consult other Members of Parliament in such manner as it thinks fit. 3. -(1) The Special Select Committee shall, from the names of persons submitted to the Committee under section 2, nominate not more than 9 persons for appointment by the President as nominated Members of Parliament. (2) The persons to be nominated shall be persons who have rendered distinguished public service, or who have brought honour to the Republic, or who have distinguished themselves in the field of arts and letters, culture, the sciences, business, industry, the professions, social or community service or the labour movement; and in making any nomination, the Special Select Committee shall have regard to the need for nominated Members to reflect as wide a range of independent and non-partisan views as possible. 4. -(1) Whenever the seat of a nominated Member has become vacant by reason of the expiry of his term of service, the vacancy shall, as soon as practicable, be filled by the President by making an appointment on the nomination of the Special Select Committee referred to in section 1. (2) Whenever the seat of a nominated Member has become vacant for any reason other than a dissolution of Parliament or the expiry of his term of service, the Special Select Committee may, if it thinks fit, nominate a person for the President to appoint as a nominated Member to fill the vacancy. 5. As soon as practicable after 10th September 1990, the President shall on the nomination of the Special Select Committee appoint not more than 6 persons as nominated Members of Parliament. 6. Where under section 3 the Special Select Committee has nominated less than 9 persons for appointment by the President as nominated Members, the Committee may, if it thinks fit, from time to time nominate one or more persons for the President to appoint as nominated Members but the number of persons so nominated together with the number of persons already nominated under section 3 shall not exceed 9. 7. Sections 2 and 3 (2) shall apply to any nomination made by the Special Select Committee under section 4, 5 or 6; and for the purpose of section 4 (1) the Committee
+the date of commencement of section 4 (a) of the Constitution of the Republic of Singapore (Amendment) Act 2002 for a further period of 6 months so that the total period of any such nominated Member's term of service shall be 2 1/2 years commencing from the date of his original appointment as such. 2. -(1) In preparing the list of persons to be appointed as nominated Members of Parliament by the President, the Special Select Committee shall invite the general public to submit names of persons who may be considered for nomination by the Committee. (2) Every name submitted under subsection (1) shall be made in such form as the Special Select Committee may determine, and shall be signed by 2 persons as proposer and seconder, respectively, and by not less than 4 other persons, all of whose names shall appear in any current register of electors. (3) Before making any nomination for the appointment of nominated Members of Parliament, the Special Select Committee shall, wherever possible, consult other Members of Parliament in such manner as it thinks fit. 3. -(1) The Special Select Committee shall, from the names of persons submitted to the Committee under section 2, nominate not more than 9 persons for appointment by the President as nominated Members of Parliament. (2) The persons to be nominated shall be persons who have rendered distinguished public service, or who have brought honour to the Republic, or who have distinguished themselves in the field of arts and letters, culture, the sciences, business, industry, the professions, social or community service or the labour movement; and in making any nomination, the Special Select Committee shall have regard to the need for nominated Members to reflect as wide a range of independent and non-partisan views as possible. 4. -(1) Whenever the seat of a nominated Member has become vacant by reason of the expiry of his term of service, the vacancy shall, as soon as practicable, be filled by the President by making an appointment on the nomination of the Special Select Committee referred to in section 1. (2) Whenever the seat of a nominated Member has become vacant for any reason other than a dissolution of Parliament or the expiry of his term of service, the Special Select Committee may, if it thinks fit, nominate a person for the President to appoint as a nominated Member to fill the vacancy. 5. As soon as practicable after 10th September 1990, the President shall on the nomination of the Special Select Committee appoint not more than 6 persons as nominated Members of Parliament. 6. Where under section 3 the Special Select Committee has nominated less than 9 persons for appointment by the President as nominated Members, the Committee may, if it thinks fit, from time to time nominate one or more persons for the President to appoint as nominated Members but the number of persons so nominated together with the number of persons already nominated under section 3 shall not exceed 9. 7. Sections 2 and 3 (2) shall apply to any nomination made by the Special Select Committee under section 4, 5 or 6; and for the purpose of section 4 (1) the Committee
 
-- may invite the general public to submit names of persons who may be considered for nomination by the Committee before the seat of the nominated Member has become vacant.
+may invite the general public to submit names of persons who may be considered for nomination by the Committee before the seat of the nominated Member has become vacant.
 
 [[END OF PAGE 84]]
 
@@ -2315,25 +2493,25 @@ may be treated as residence in Singapore and a person shall be deemed to be resi
 
 ### KEY STATUTORY BOARDS AND GOVERNMENT COMPANIES
 
-#### PART 1
+#### PART I
 
-- Deleted by Act 24 of 2002, wef 01/10/2002.
+1. Deleted by Act 24 of 2002, wef 01/10/2002.
 
-- Central Provident Fund Board.
+2. Central Provident Fund Board.
 
-- Housing and Development Board.
+3. Housing and Development Board.
 
-- Jurong Town Corporation.
+4. Jurong Town Corporation.
 
-- Monetary Authority of Singapore.
+5. Monetary Authority of Singapore.
 
 #### PART II
 
-- Government of Singapore Investment Corporation Pte. Ltd.
+1. Government of Singapore Investment Corporation Pte. Ltd.
 
-- MND Holdings Pte. Ltd.
+2. MND Holdings Pte. Ltd.
 
-- Temasek Holdings Pte. Ltd.
+3. Temasek Holdings Pte. Ltd.
 
 # LEGISLATIVE SOURCE CONSTITUTION OF THE REPUBLIC OF SINGAPORE
 
@@ -2347,9 +2525,9 @@ Art.
 
 S.I. 1493/63
 
-- Statutory Instruments No. 1493 of 1993 (the Sabah, Sarawak and Singapore (State Constitutions) Order in Council 1963)
+- Statutory Instruments No. 1493 of 1963 (the Sabah, Sarawak and Singapore (State Constitutions) Order in Council 1963)
 
-- Article of the Constitution of Malaysia continued in force in Singapore by virtue of the Republic of Singapore Independence Act 1965 (Act 9/65)
+M. - Article of the Constitution of Malaysia continued in force in Singapore by virtue of the Republic of Singapore Independence Act 1965 (Act 9/65)
 
 S
 
@@ -2399,6 +2577,9 @@ Am. Act 17/93 | 1.7.93
 (5) | Act 7/68 | 17.2.68
 Am. Act 5/91 | 30.11.91
 (9) | Am. S 50/66 | 9.8.65
+## PART II
+### THE REPUBLIC AND THE CONSTITUTION
+
 3. | Republic of Singapore | Act 8/65 | 9.8.65
 Act 9/65*
 
@@ -2408,15 +2589,49 @@ Act 9/65*
 --- | --- | --- | ---
 5. | Amendment of Constitution | Act 10/79 | 4.5.79
 (2) | Am. Act 16/84 | 10.8.84
-( 2A ) | Am. Act 17/94 Act 41/96 | 1.10.94 (not in operation)
+Am. Act 17/94 | 1.10.94
+(2A) | Act 41/96 | (not in operation)
 5A. | President may withhold assent to certain constitutional amendments | Act 41/96 | (not in operation)
+## PART III
+### PROTECTION OF THE SOVEREIGNTY OF THE REPUBLIC OF SINGAPORE
+
 6. | No surrender of sovereignty or relinquishment of control over the Police Force or the Armed Forces except by | Act 25/72 | 13.11.72
 
 [[END OF PAGE 86]]
 
 [[START OF PAGE 87]]
 
-(this page came through the extractor with no text)
+referendum
+7. | Participation in co-operative international schemes which are beneficial to Singapore | Act 25/72 | 13.11.72
+8. | No amendment to this Part except by referendum | Act 25/72 | 13.11.72
+
+## PART IV
+### FUNDAMENTAL LIBERTIES
+
+9. | Liberty of the person | Act 9/65 (M 5) | 9.8.65
+(4) | Am. Act 16/84 | 10.8.84
+(5) | Am. Act 28/86 | 10.11.86
+(6) | Act 5/78 | 10.3.78
+(6) (b) | Am. Act 25/87 | 25.9.87
+10. | Slavery and forced labour prohibited | Act 9/65 (M 6) | 9.8.65
+11. | Protection against retrospective criminal laws and repeated trials | Act 9/65 (M 7) | 9.8.65
+12. | Equal protection | Act 9/65 (M 8) | 9.8.65
+13. | Prohibition of banishment and freedom of movement | Act 9/65 (M 9) | 9.8.65
+14. | Freedom of speech, assembly and association | Act 9/65 (M 10) | 9.8.65
+15. | Freedom of religion | Act 9/65 (M 11) | 9.8.65
+16. | Rights in respect of education | Act 9/65 (M 12) | 9.8.65
+
+## PART V
+### THE GOVERNMENT
+#### Chapter 1 - The President
+
+17. | The President | Act 5/91 | 30.11.91
+(3) | Act 17/94 | 1.10.94
+18. | Presidential Elections Committee | Act 5/91 | 30.11.91
+(1) | Am. Act 17/94 | 1.10.94
+19. | Qualifications and disabilities of President | Act 5/91 | 30.11.91
+20. | Term of office | Act 5/91 | 30.11.91
+21. | Discharge and performance of functions of President | Act 5/91 | 30.11.91
 
 [[END OF PAGE 87]]
 
@@ -2441,7 +2656,7 @@ Act 9/65*
 (6) | Am. Act 17/94 | 1.10.94
 (8) | Act 17/94 | 1.10.94
 22E. | Moneys of the Central Provident Fund | Act 5/91 | 30.11.91
-22F. | President"s access to information | Act 5/91 | 30.11.91
+22F. | President's access to information | Act 5/91 | 30.11.91
 22G. | Concurrence of President for certain investigations | Act 5/91 | 30.11.91
 22H. | President may withhold assent to certain Bills | Act 41/96 | 12.11.96
 22I. | Restraining order under Maintenance of Religious Harmony Act | Act 5/91 | 30.11.91
@@ -2532,9 +2747,8 @@ Am. Act 41/96 | 12.11.96
 Am. Act 17/94 | 1.10.94
 Am. Act 41/96 | 12.11.96
 37L. | Fees | Act 17/94 | 1.10.94
-37M. | Appointment of staff
+37M. | Appointment of staff | Act 17/94 | 1.10.94
 ## PART VI
-| Act 17/94 | 1.10.94
 ### THE LEGISLATURE
 38. | Legislature of Singapore | Art. 22, S.I. 1493/63
 39. | Parliament | Art. 23, S.I. 1493/63
@@ -2545,7 +2759,7 @@ Am. Act 41/96 | 12.11.96
 Am. Act 1/97 | 1.9.97
 (2) | Act 16/84 | 10.8.84
 Am. Act 11/90 | 10.9.90
-(2) (b) | Am Act 17/94 | 1.10.94
+(2) (b) | Am. Act 17/94 | 1.10.94
 (2) (e) | Act 17/94 | 1.10.94
 (3) | Act 16/84 | 10.8.84
 Am. Act 9/88 | 31.5.88
@@ -2699,7 +2913,7 @@ Am. Act 17/93 | 1.7.93
 ## PART IX
 ### THE PUBLIC SERVICE
 102. | Public services | Act 13/70 (Art. 70) | 19.6.70
-(2) | Act 9/65 (M132 (2)) | 9.8.65
+(2) | Act 9/65 (M 132 (2)) | 9.8.65
 103. | Interpretation of this Part | Act 13/70 (Art. 71) | 19.6.70
 103 (b) (iv) | Act 12/90 | 1.7.90
 Am. Act 11/98 | 1.4.98
@@ -2720,203 +2934,32 @@ Am. Act 5/91 | 30.11.91
 
 [[START OF PAGE 97]]
 
-(2)
-
-107.
-
-(1)
-
-(2)
-
-108.
-
-109.
-
-110.
-
-(4)
-
-110A.
-
-110B.
-
-110C.
-
-110D.
-
-(1)
-
-(3)
-
-(4)
-
-(7) (d)
-
-(8)
-
-111.
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-111A.
-
-112.
-
-Tenure of office
-
-Terms of service of Chairman and
-
-members of Commission
-
-Secretary to Commission
-
-Appointment, etc., of public officers
-
-Education Service Commission
-
-Police and Civil Defence Services
-
-Commission
-
-Provisions applicable to Education
-
-Service Commission and Police and Civil
-
-Defence Services Commission
-
-Personnel boards
-
-Legal Service Commission
-
-Promotion to significant grade
-
-Protection of pension rights Act 7/81
-
-Am. Act 5/91
-
-Act 13/70
-
-(Art. 75)
-
-Am. Act 7/81
-
-Am. Act 5/91
-
-Act 13/70
-
-(Art. 76)
-
-Act 13/70
-
-(Art. 77)
-
-Act 13/70
-
-(Art. 78)
-
-Am. Act 17/94
-
-)))
-
-)
-
-)
-
-Repealed by
-
-)
-
-Act 11/98
-
-Act 17/94
-
-Am. Act 11/98
-
-Am. Act 11/98
-
-Am. Act 11/98
-
-Am. Act 11/98
-
-Am. Act 11/98
-
-Act 9/65
-
-(M 138)
-
-Act 9/65
-
-(M 138)
-
-Act 9/65
-
-(M 144 (1))
-
-Act 9/65
-
-(M 144 (6))
-
-Act 9/65
-
-(M 138 (3))
-
-Act 5/94
-
-Act 13/70
-
-24.4.81
-
-1.2.91
-
-19.6.70
-
-24.4.81
-
-30.11.91
-
-19.6.70
-
-19.6.70
-
-19.6.70
-
-1.10.94
-
-1.4.98
-
-1.10.94
-
-1.4.98
-
-1.4.98
-
-1.4.98
-
-1.4.98
-
-1.4.98
-
-9.8.65
-
-9.8.65
-
-9.8.65
-
-9.8.65
-
-9.8.65
-
-31.3.94
-
-19.6.70
+(2) | Act 7/81 | 24.4.81
+Am. Act 5/91 | 1.2.91
+107. | Tenure of office | Act 13/70 (Art. 75) | 19.6.70
+(1) | Am. Act 7/81 | 24.4.81
+(2) | Am. Act 5/91 | 30.11.91
+108. | Terms of service of Chairman and members of Commission | Act 13/70 (Art. 76) | 19.6.70
+109. | Secretary to Commission | Act 13/70 (Art. 77) | 19.6.70
+110. | Appointment, etc., of public officers | Act 13/70 (Art. 78) | 19.6.70
+(4) | Am. Act 17/94 | 1.10.94
+110A. | Education Service Commission
+110B. | Police and Civil Defence Services Commission
+110C. | Provisions applicable to Education Service Commission and Police and Civil Defence Services Commission | Repealed by Act 11/98 | 1.4.98
+110D. | Personnel boards | Act 17/94 | 1.10.94
+(1) | Am. Act 11/98 | 1.4.98
+(3) | Am. Act 11/98 | 1.4.98
+(4) | Am. Act 11/98 | 1.4.98
+(7) (d) | Am. Act 11/98 | 1.4.98
+(8) | Am. Act 11/98 | 1.4.98
+111. | Legal Service Commission
+(1) | Act 9/65 (M 138) | 9.8.65
+(2) | Act 9/65 (M 138) | 9.8.65
+(3) | Act 9/65 (M 144 (1)) | 9.8.65
+(4) | Act 9/65 (M 144 (6)) | 9.8.65
+(5) | Act 9/65 (M 138 (3)) | 9.8.65
+111A. | Promotion to significant grade | Act 5/94 | 31.3.94
+112. | Protection of pension rights | Act 13/70 | 19.6.70
 
 [[END OF PAGE 97]]
 
@@ -2924,32 +2967,27 @@ Act 13/70
 
 (Art. 79)
 --- | --- | --- | ---
-113. | Power of Public Service Commission and Legal Service Commission in relation to | Act 13/70 (Art. 80) | 19.6.70
-pensions, etc.
+113. | Power of Public Service Commission and Legal Service Commission in relation to pensions, etc. | Act 13/70 (Art. 80) | 19.6.70
 Am. Act 11/98 | 1.4.98
 (1) | Am. Act 41/96 | 12.11.96
 Am. Act 11/98 | 1.4.98
 (2) | Am. Act 41/96 | 12.11.96
 Am. Act 11/98 | 1.4.98
 114. | Pensions, etc., to be charged on Pension Fund or Consolidated Fund | Act 7/95 | 1.4.95
-31.3.98
-(2) | Act 11/98
-115. | Pension rights on transfer | Act 13/70 80B) | 19.6.70
-116. | Regulations regarding public service | (Art. Act 13/70 | 19.6.70
-117. | Validation of acts done and rules made by | - | -
-(Art. 80C)
-118. | Public Service Commission - Omitted Performance by Public Service Commission of other functions | Act 13/70 | 19.6.70
-119. | Reports of Commissions | (Art. 81) Act 9/65 | 9.8.65
-(M 146 (1))
+(2) | Act 11/98 | 31.3.98
+115. | Pension rights on transfer | Act 13/70 (Art. 80B) | 19.6.70
+116. | Regulations regarding public service | Act 13/70 (Art. 80C) | 19.6.70
+117. | Validation of acts done and rules made by Public Service Commission — Omitted | — | —
+118. | Performance by Public Service Commission of other functions | Act 13/70 (Art. 81) | 19.6.70
+119. | Reports of Commissions | Act 9/65 (M 146 (1)) | 9.8.65
 ## PART X
 ### CITIZENSHIP
 120. | Status of citizen of Singapore | Art. 53, S.I. 1493/63
 (2) (c) | Am. S 50/66 | 9.8.65
 (2) (d) | Am. S 50/66 | 9.8.65
-121. | Citizenship by birth | Art. 54, S.I.
-(2) | 1493/63 | 9.8.65
-(a) | Am. S 50/66 S 58/67
-(2) (c) | 17.3.67
+121. | Citizenship by birth | Art. 54, S.I. 1493/63
+(2) (a) | Am. S 50/66 | 9.8.65
+(2) (c) | S 58/67 | 17.3.67
 (3) | S 58/67 | 17.3.67
 122. | Citizenship by descent | Art. 55, S.I. 1493/63
 (1) | Am. S 50/66 | 9.8.65
@@ -2996,7 +3034,7 @@ Am. Act 21/68 | 15.8.68
 (M 26 (2))
 --- | --- | --- | ---
 (7) | Art. 61 (4), S.I. 1493/63
-Am. S163/80 | 31.3.80
+Am. S 163/80 | 31.3.80
 130. | Deprivation of citizenship of child of person losing citizenship | Act 9/65 (M 26A) | 9.8.65
 Am. Act 10/85 | 2.1.86
 131. | General provisions as to loss of citizenship | Act 9/65 (M 26B (1)) | 9.8.65
@@ -3049,7 +3087,7 @@ Am. Act 21/68 | 15.8.68
 148C. | Contingencies Funds | Act 5/91 | 30.11.91
 (3) | Act 17/94 | 1.10.94
 (4) | Act 17/94 | 1.10.94
-148D. | Parliament may overrule President"s withholding of assent to Supply Bill, etc. | Act 5/91 | 30.11.91
+148D. | Parliament may overrule President's withholding of assent to Supply Bill, etc. | Act 5/91 | 30.11.91
 (1) | Am. Act 17/94 | 1.10.94
 148E. | Debt charges and moneys required to satisfy judgments | Act 5/91 | 30.11.91
 148F. | Appointment of Auditor-General | Act 5/91 | 30.11.91
@@ -3064,10 +3102,9 @@ Am. Act 21/68 | 15.8.68
 --- | --- | --- | ---
 148G. | Duty to inform President of certain transactions | Act 5/91 | 30.11.91
 (3) | Act 17/94 | 1.10.94
-148H. | Publication of President"s opinion regarding certain liabilities of the Government
+148H. | Publication of President's opinion regarding certain liabilities of the Government | Act 5/91 | 30.11.91
 ## PART XII
 ### SPECIAL POWERS AGAINST SUBVERSION AND EMERGENCY POWERS
-| Act 5/91 | 30.11.91
 149. | Legislation against subversion | Act 9/65 (M 149) | 9.8.65
 (1) | Am. Act 1/89 | 27.1.89
 (3) | Act 1/89 | 27.1.89
@@ -3077,10 +3114,9 @@ Am. Act 21/68 | 15.8.68
 (5) (b) (i) and (ii) | Act 41/96 | (not in operation)
 151. | Restrictions on preventive detention | Act 9/65 (M 151) | 9.8.65
 (4) | Act 5/91 | 30.11.91
-151A. | Defence and security measures
+151A. | Defence and security measures | Act 17/94 | 1.10.94
 ## PART XIII
 ### GENERAL PROVISIONS
-| Act 17/94 | 1.10.94
 152. | Minorities and special position of Malays | Art. 89, S.I. 1493/63
 153. | Muslim religion | Art. 6, S.I. 1493/63
 Am. S 50/66 | 9.8.65
@@ -3094,7 +3130,31 @@ Am. S 50/66 | 9.8.65
 
 [[START OF PAGE 103]]
 
-Constitution - Omitted
+Constitution — Omitted
+## PART XIV
+### TRANSITIONAL PROVISIONS
+157. | Existing Standing Orders | Art. 97, S.I. 1493/63
+158. | Public officers to continue in office | Art. 100, S.I. 1493/63
+159. | Terms of service of persons who continue in office | Art. 101, S.I. 1493/63
+160. | Succession to property | Art. 103, S.I. 1493/63
+(2) | Omitted
+(3) | Omitted
+161. | Rights, liabilities and obligations — Omitted | — | —
+162. | Existing laws | Art. 105 (1), S.I. 1493/63
+163. | Person holding office of President immediately prior to 30th November 1991 to continue to hold such office | Act 5/91 | 30.11.91
+## FIRST SCHEDULE
+### FORMS OF OATHS
+S.I. 1493/63
+1. | Oath of Office of President | Act 17/94 | 1.10.94
+1A. | Oath of Office of Person Exercising Functions of Office of President | Act 17/94 | 1.10.94
+2. | Oath of Allegiance | Am. S 50/66 | 9.8.65
+3. | Oath as Member of Parliament | Am. S 50/66 | 9.8.65
+4. | Oath for due execution of Office of Prime Minister | Act 17/94 | 1.10.94
+4A. | Oath for due execution of Office of Minister or Parliamentary Secretary | Act 17/94 | 1.10.94
+5. | Oath for the due execution of the Office of Chairman or other Member of the Public Service Commission
+6. | Oath of Office of Chief Justice, a Judge of the Supreme Court and a Judicial Commissioner | Act 19/69 | 9.1.70
+Am. Act 10/79 | 4.5.79
+7. | Oath of Secrecy of Chairman or Member | Act 19/69 | 9.1.70
 
 [[END OF PAGE 103]]
 
@@ -3108,7 +3168,7 @@ Am. Act 3/73 | 14.7.73
 SECOND SCHEDULE - Oath of Renunciation, Allegiance and Loyalty | S 259/66 | 9.8.65
 Am. S 88/67 | 5.5.67
 THIRD SCHEDULE - Citizenship | S.I. 1493/63
-Am. S 88/67 | 9.8.65
+Am. S 50/66 | 9.8.65
 4. | Power to make rules | Am. Act 10/85 | 2.1.86
 6. | How notice to be given | Am. Act 10/85 | 2.1.86
 7. | Registers to be maintained | Am. S 50/66 | 9.8.65
@@ -3125,7 +3185,7 @@ PART II | Am. Act 17/94 | 1.10.94
 
 # LEGISLATION HISTORY
 
-(1 Malaysia Act 19 of 1964 - Constitution (Amendment) Act 1964 Malaysia Act 19 of 1964 - Constitution (Amendment) Act 1964)
+(1 Malaysia Act 19 of 1964 - Constitution (Amendment) Act 1964)
 
 Date of First Reading :
 
@@ -3147,7 +3207,7 @@ Dates of commencement :
 
 30.7.64 (except section 5) 16.9.63 (section 5) Section 4 not in operation
 
-(2 Act 8 of 1965 -Constitution (Amendment) Act 1965 Act 8 of 1965 -Constitution (Amendment) Act 1965)
+(2 Act 8 of 1965 - Constitution (Amendment) Act 1965)
 
 Date of First Reading :
 
@@ -3163,7 +3223,7 @@ Date of commencement :
 
 9.8.65
 
-(3 Act 9 of 1965 -Republic of Singapore Independence Act 1965 Act 9 of 1965 -Republic of Singapore Independence Act 1965)
+(3 Act 9 of 1965 - Republic of Singapore Independence Act 1965)
 
 Date of First Reading :
 
@@ -3179,7 +3239,7 @@ Date of commencement :
 
 9.8.65
 
-(4 Act 7 of 1968 -Constitution (Amendment) Act 1968 Act 7 of 1968 -Constitution (Amendment) Act 1968)
+(4 Act 7 of 1968 - Constitution (Amendment) Act 1968)
 
 Date of First Reading :
 
@@ -3195,7 +3255,7 @@ Dates of commencement :
 
 17.2.68 (sections 2 and 4)
 
-(5 Act 21 of 1968 -Constitution (Amendment No. 2) Act 1968 Act 21 of 1968 -Constitution (Amendment No. 2) Act 1968)
+(5 Act 21 of 1968 - Constitution (Amendment No. 2) Act 1968)
 
 Date of First Reading :
 
@@ -3211,7 +3271,7 @@ Date of commencement :
 
 This Legislative History is provided for the convenience of users of the Reprint. It is not part of the Reprint
 
-(6 Act 19 of 1969 -Constitution (Amendment) Act 1969 Act 19 of 1969 -Constitution (Amendment) Act 1969)
+(6 Act 19 of 1969 - Constitution (Amendment) Act 1969)
 
 Date of First Reading :
 
@@ -3547,7 +3607,7 @@ Date of commencement :
 
 1.7.90
 
-(2 5 Act 5 of 1991 - Constitution of the Republic of Singapore (Amendment) Act 1991)
+(25 Act 5 of 1991 - Constitution of the Republic of Singapore (Amendment) Act 1991)
 
 Date of First Reading :
 
