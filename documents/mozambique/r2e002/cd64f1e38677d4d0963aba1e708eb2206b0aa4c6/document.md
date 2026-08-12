@@ -1,6 +1,7 @@
 [[START OF PAGE 1]]
 
-REPÚBLICA DE MOÇAMBIQUE CONSELHO DE MINISTROS
+REPÚBLICA DE MOÇAMBIQUE
+CONSELHO DE MINISTROS
 
 # Estratégia do Ensino Secundário Geral 2009 - 2015
 
@@ -14,17 +15,90 @@ Aprovada na XXI Sessão Ordinária do Conselho de Ministros, aos 24/11/09
 
 ## Índice
 
+Acrónimos ..................................................................................................................................v
+Sumário Executivo............................................................................................................... vi
+1. Introdução...................................................................................................................... 1
+1.1 Contexto........................................................................................................................2
+1.2 Objectivos .....................................................................................................................3
+Missão do Ensino Secundário.................................................................................................4
+2. O Ensino Secundário Geral............................................................................................ 5
+2.1 O Desenvolvimento do Ensino Secundário Geral em Moçambique...............5
+2.2 O papel do Ensino Pós Primário no desenvolvimento do país. .........................6
+2.3 O Ensino Secundário Geral e integração internacional.....................................7
+2.4 A visão do Ensino Secundário Geral .......................................................................9
+2.5 Ligação com os outros subsistemas de ensino...................................................10
+2.6 Diagnóstico do Ensino Secundário Geral em Moçambique...........................11
+2.6.1 Acesso .............................................................................................................................12
+2.6.1.1 O crescimento e a conclusão do Ensino Primário..........................................12
+2.6.1.2 Evolução das taxas de conclusão do ESG ......................................................14
+2.6.1.3 O Ensino à Distância.........................................................................................16
+2.6.1.4 O Ensino Particular ............................................................................................17
+2.6.2 Qualidade do ensino ...................................................................................................18
+2.6.2.1 Professores no ESG.................................................................................................18
+2.6.2.2 Rácio alunos por turma ........................................................................................19
+2.6.2.3 Rácio turma por professor....................................................................................20
+2.6.2.3.1 Professores com formação pedagógica......................................................21
+2.6.2.4 Tempo lectivo .........................................................................................................23
+2.6.2.5 Materiais de ensino................................................................................................24
+2.6.2.6 Taxas de reprovação e repetição.....................................................................24
+
 i
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
+2.6.5 Financiamento do Ensino Secundário ..............................................................28
+2.7 O Problema do Ensino Secundário........................................................................29
+3. Principais Acções Estratégicas..................................................................................... 30
+3.1 Acesso..........................................................................................................................32
+3.1.2 Transição do Ensino Primário para o Ensino Secundário Geral ...................32
+3.1.3 Abertura de novas escolas secundárias..........................................................33
+3.1.4 Definição de modelos de escolas secundárias e construção escolar .....34
+3.1.5 Educação Aberta à Distância ...........................................................................37
+3.1.6 Cursos Nocturnos...................................................................................................37
+3.1.7 Melhoria da eficiência interna no ESG.............................................................38
+3.1.8 Outras formas de educação e formação dos jovens ..................................38
+3.1.9 Internamento..........................................................................................................39
+3.1.10 Jovens desfavorecidos e com necessidades educativas especiais.....40
+3.1.11 O papel do Ensino particular..........................................................................40
+3.2 Qualidade...................................................................................................................45
+3.2.1 Novo currículo........................................................................................................46
+3.2.2 Formação e contratação de professores........................................................51
+3.2.3 Programas de formação de professores à distância....................................52
+3.2.4 Políticas de materiais de ensino.........................................................................53
+3.2.4.1 Livro escolar.............................................................................................................54
+3.2.4.2 Ensino das Ciências Naturais...............................................................................56
+3.2.4.3 Ensino das TICs........................................................................................................58
+3.2.4.4 Alunos com necessidades educativas especiais...........................................60
+3.2.5 Aumento do tempo lectivo ................................................................................61
+3.2.6 Reforma do sistema de exames e registo escolar.........................................61
+3.2.7 Sistema de supervisão e apoio pedagógico..................................................62
+3.2.8 Avaliação do sistema de ensino........................................................................63
+
 ii
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+3.3 Desenvolvimento Institucional............................................................................67
+3.4 Questões transversais............................................................................................70
+3.4.1 Género.........................................................................................................................70
+3.4.2 HIV/SIDA.......................................................................................................................70
+3.4.3 Educação ambiental ...............................................................................................71
+3.5 Financiamento ...........................................................................................................73
+3.5.1 Pressupostos de financiamento .........................................................................73
+3.5.2 Financiamento às Escolas ...................................................................................76
+3.5.3 Envolvimento dos pais e encarregados de educação................................76
+3.5.4 Despesas do Ensino Secundário Geral .............................................................78
+3.5.5 Prestação de contas............................................................................................79
+3.5.6 Divulgação .............................................................................................................80
+3.5.7 Acções Estratégicas de curto e médio prazo ................................................80
+4. Condições para o sucesso da Estratégia........................................................................ 82
+5. Órgão implementador .................................................................................................. 84
+6. Cronograma de Implementação 2009-2015 .................................................................. 85
+7. Bibliografia.................................................................................................................. 86
 
 iii
 
@@ -56,6 +130,48 @@ iv
 
 ## Acrónimos
 
+ADE Apoio Directo às Escolas
+AEA Alfabetização e Educação de Adultos
+CALE Comissão de Avaliação do Livro Escolar
+CMC Centros Multimédia Comunitários
+CPRD Centros Provinciais de Recursos Digitais
+DPEC Direcção Provincial de Educação e Cultura
+EAD Educação Aberta e à Distância
+EFA Educação Para Todos
+EFA-FTI Iniciativa Acelerada de Educação Para Todos
+EP Ensino Primário
+EP1 Ensino Primário do Primeiro Grau
+EP2 Ensino Primário do Segundo Grau
+EPC Escola Primária Completa
+ESG Ensino Secundário Geral
+ESG1 Ensino Secundário Geral do Primeiro Ciclo
+ESG2 Ensino Secundário Geral do Segundo Ciclo
+ETPV Ensino Técnico Profissional e Vocacional
+FUNDEC Fundo de Desenvolvimento de Competências
+HIV/SIDA Vírus de Imuno-deficiência Humana / Sindroma de Imuno-deficiência Adquirida
+IDH Índice de Desenvolvimento Humano
+IDS Inquérito Demográfico de Saúde
+IFP Instituição de Formação de Professores
+IMAP Instituto do Magistério Primário
+MEC Ministério da Educação e Cultura
+MESCT Ministério do Ensino Superior, Ciência e Tecnologia
+MF Ministério das Finanças
+MINTRAB Ministério do Trabalho
+NEPAD Nova Parceria para o Desenvolvimento de África
+PARPA Plano de Acção para a Redução da Pobreza Absoluta
+PCESG Plano Curricular do Ensino Secundário Geral
+PEEC Plano Estratégico da Educação e Cultura
+PIREP Programa Integrado da Reforma do Ensino Técnico e Profissional
+SADC Comunidade de Desenvolvimento da África Austral
+SDEJT Serviços Distritais de Educação Juventude e Tecnologia
+SNE Sistema Nacional de Educação
+TIC Tecnologias de Informação e Comunicação
+UEM Universidade Eduardo Mondlane
+UNAIDS Programa Conjunto das Nações Unidas para o SIDA
+UNESCO Organização das Nações Unidas para a Educação Ciência e Cultura
+UNICEF Fundo das Nações Unidas para a Infância
+UP Universidade Pedagógica
+
 v
 
 [[END OF PAGE 6]]
@@ -64,19 +180,19 @@ v
 
 ## Sumário Executivo
 
-- O Plano Estratégico da Educação e Cultura (PEEC 2006 - 2011), aprovado pelo Conselho de Ministros, proporciona uma visão global sobre o sector da educação e traça um claro roteiro para a universalização do Ensino Primário (EP), rumo ao alcance dos Objectivos de Desenvolvimento do Milénio, como também, reconhece a necessidade de planificação e desenvolvimento da educação pós-primária. Dando seguimento aos objectivos do PEEC, o Ministério da Educação e Cultura (MEC) desencadeou, em 2007, um processo de revisão da estratégia do Ensino Secundário Geral (ESG), aprovada em 2001.
+1. O Plano Estratégico da Educação e Cultura (PEEC 2006 – 2011), aprovado pelo Conselho de Ministros, proporciona uma visão global sobre o sector da educação e traça um claro roteiro para a universalização do Ensino Primário (EP), rumo ao alcance dos Objectivos de Desenvolvimento do Milénio, como também, reconhece a necessidade de planificação e desenvolvimento da educação pós-primária. Dando seguimento aos objectivos do PEEC, o Ministério da Educação e Cultura (MEC) desencadeou, em 2007, um processo de revisão da estratégia do Ensino Secundário Geral (ESG), aprovada em 2001.
 
-- A presente estratégia do ESG tem por objectivo dar resposta aos desafios do acesso, da qualidade de ensino, da capacidade institucional e do financiamento, que ganham maior contorno num contexto do crescimento acelerado da procura por este nível de ensino.
+2. A presente estratégia do ESG tem por objectivo dar resposta aos desafios do acesso, da qualidade de ensino, da capacidade institucional e do financiamento, que ganham maior contorno num contexto do crescimento acelerado da procura por este nível de ensino.
 
-- O processo  de  elaboração  da  nova  estratégia  do  ESG  incluiu  uma  série  de  actividades, dentre  as  quais  se  destacam  as  consultas  feitas  aos  diferentes  intervenientes  na  área  da educação  nomeadamente,  às  instituições  de  formação  de  professores,  aos  directores  e professores de escolas secundárias, aos gestores de educação ao nível dos órgãos centrais, provinciais  e  distritais,  às  instituições  de  ensino  superior,  à  sociedade  civil,  ao  sector privado, aos parceiros de cooperação e à Organização Nacional dos Professores.
+3. O processo de elaboração da nova estratégia do ESG incluiu uma série de actividades, dentre as quais se destacam as consultas feitas aos diferentes intervenientes na área da educação nomeadamente, às instituições de formação de professores, aos directores e professores de escolas secundárias, aos gestores de educação ao nível dos órgãos centrais, provinciais e distritais, às instituições de ensino superior, à sociedade civil, ao sector privado, aos parceiros de cooperação e à Organização Nacional dos Professores.
 
 ### O contexto
 
-- Entre 2005 e 2007 o crescimento do número de alunos no ESG1 público, diurno, foi de 50%, tendo este atingido os 300 mil. Com a inclusão dos alunos do turno nocturno e do ensino particular, o total de alunos neste nível de ensino atingiu cerca de 520 mil em 2007.
+4. Entre 2005 e 2007 o crescimento do número de alunos no ESG1 público, diurno, foi de 50%, tendo este atingido os 300 mil. Com a inclusão dos alunos do turno nocturno e do ensino particular, o total de alunos neste nível de ensino atingiu cerca de 520 mil em 2007.
 
-- O  crescimento  do  ESG1  é  resultado  da  expansão  acelerada  do  Ensino  Primário  e  do aumento das graduações neste nível, devido à introdução de um novo currículo e de novas modalidades de avaliação, entre as quais se destaca a promoção por ciclos de aprendizagem.  A  distribuição  gratuita  de  livros  e  manuais  escolares,  a  formação  de professores, a introdução do Apoio Directo às Escolas (ADE) primárias e o incremento da participação  da  comunidade  no  processo  educativo,  através  dos  Conselhos  de  Escolas, contribuíram para a melhoria da qualidade de ensino e o consequente aumento das taxas de aprovação e de conclusão neste nível de ensino. Com efeito, a taxa bruta de conclusão do EP (7ª classe) alcançou mais de 34% em 2005, contra os 12% em 2000.
+5. O crescimento do ESG1 é resultado da expansão acelerada do Ensino Primário e do aumento das graduações neste nível, devido à introdução de um novo currículo e de novas modalidades de avaliação, entre as quais se destaca a promoção por ciclos de aprendizagem. A distribuição gratuita de livros e manuais escolares, a formação de professores, a introdução do Apoio Directo às Escolas (ADE) primárias e o incremento da participação da comunidade no processo educativo, através dos Conselhos de Escolas, contribuíram para a melhoria da qualidade de ensino e o consequente aumento das taxas de aprovação e de conclusão neste nível de ensino. Com efeito, a taxa bruta de conclusão do EP (7ª classe) alcançou mais de 34% em 2005, contra os 12% em 2000.
 
-- Tudo isto concorreu para o crescimento acelerado das graduações no EP, fenómeno que tem  estado  a  contribuir  para  aumentar  a  pressão,  sobre  o  ESG  em  todo  o  país.  Em contrapartida, a construção de salas de aula, e a formação de professores para o ESG, não acompanharam  devidamente,  o  crescimento  da  procura  escolar.  A  situação  do  ESG1  é agravada pelas elevadas taxas de repetição que reduzem os espaços disponíveis para os novos ingressos e elevam os custos unitários por graduado. Por outro lado, os orçamentos para  o  sector  da  educação  em  geral,  e  para  o  ensino  secundário  em  particular,  não aumentam na mesma proporção que o crescimento das necessidades, o que contribui para agravar as condições e o desempenho do sistema.
+6. Tudo isto concorreu para o crescimento acelerado das graduações no EP, fenómeno que tem estado a contribuir para aumentar a pressão, sobre o ESG em todo o país. Em contrapartida, a construção de salas de aula, e a formação de professores para o ESG, não acompanharam devidamente, o crescimento da procura escolar. A situação do ESG1 é agravada pelas elevadas taxas de repetição que reduzem os espaços disponíveis para os novos ingressos e elevam os custos unitários por graduado. Por outro lado, os orçamentos para o sector da educação em geral, e para o ensino secundário em particular, não aumentam na mesma proporção que o crescimento das necessidades, o que contribui para agravar as condições e o desempenho do sistema.
 
 vi
 
@@ -86,27 +202,27 @@ vi
 
 ### Objectivos da Estratégia
 
-- Com a presente estratégia pretende-se alcançar os seguintes objectivos:
+7. Com a presente estratégia pretende-se alcançar os seguintes objectivos:
 
-- Diagnosticar,  exaustivamente,  o  ESG  nas  vertentes  de  acesso,  qualidade  e desenvolvimento institucional;
+- Diagnosticar, exaustivamente, o ESG nas vertentes de acesso, qualidade e desenvolvimento institucional;
 
-- Propor  acções  estratégicas,  a  curto,  médio  e  longo  prazos,  para  atender  aos principais problemas;
+- Propor acções estratégicas, a curto, médio e longo prazos, para atender aos principais problemas;
 
-- Desenvolver um quadro financeiro indicativo de médio e longo prazos, com vista a responder  aos desafios deste nível de ensino, considerando  as limitações nacionais,  assim  como  os  constrangimentos originados pelas necessidades dos outros subsistemas e níveis de ensino;
+- Desenvolver um quadro financeiro indicativo de médio e longo prazos, com vista a responder aos desafios deste nível de ensino, considerando as limitações nacionais, assim como os constrangimentos originados pelas necessidades dos outros subsistemas e níveis de ensino;
 
 ### O papel do Ensino Secundário para o desenvolvimento do Capital Humano
 
-- Vários estudos mostram uma correlação positiva entre o ensino pós primário, a formação do  capital  humano  e  o  desenvolvimento  dos  países.  O  ensino  secundário  tem  efeitos multiplicadores para o desenvolvimento socio-económico, combate à pobreza e melhoria das condições de vida dos cidadãos.
+8. Vários estudos mostram uma correlação positiva entre o ensino pós primário, a formação do capital humano e o desenvolvimento dos países. O ensino secundário tem efeitos multiplicadores para o desenvolvimento socio-económico, combate à pobreza e melhoria das condições de vida dos cidadãos.
 
-- Os grandes desafios da globalização e da integração regional exigem a formação de jovens e adultos que possam interagir num mundo cada vez mais interdependente. Os desafios da globalização exigem um ensino geral que promova uma educação de qualidade, orientada para os valores universais como o respeito pela democracia, pelos direitos humanos e pelo meio ambiente. Os jovens deverão ser capazes de se comunicar tanto dentro como fora do país, de modo a participarem num mundo cada vez mais aberto e interactivo, fazendo um melhor uso e aproveitamento das novas tecnologias de informação e comunicação.
+9. Os grandes desafios da globalização e da integração regional exigem a formação de jovens e adultos que possam interagir num mundo cada vez mais interdependente. Os desafios da globalização exigem um ensino geral que promova uma educação de qualidade, orientada para os valores universais como o respeito pela democracia, pelos direitos humanos e pelo meio ambiente. Os jovens deverão ser capazes de se comunicar tanto dentro como fora do país, de modo a participarem num mundo cada vez mais aberto e interactivo, fazendo um melhor uso e aproveitamento das novas tecnologias de informação e comunicação.
 
-- Entende-se por  Ensino  Secundário  Geral Profissionalizante, o ensino  baseado  na abordagem transversal e  multidisciplinar de conteúdos,  com integração  de  componentes práticas do saber fazer , com o objectivo de desenvolver nos jovens competências práticas que lhes possam ser úteis para a vida laboral, desenvolvendo uma profissão ou ofício e para o auto-emprego.
+10. Entende-se por Ensino Secundário Geral Profissionalizante, o ensino baseado na abordagem transversal e multidisciplinar de conteúdos, com integração de componentes práticas do saber fazer, com o objectivo de desenvolver nos jovens competências práticas que lhes possam ser úteis para a vida laboral, desenvolvendo uma profissão ou ofício e para o auto-emprego.
 
-- A  reforma  do  currículo  do  ESG,  ora  em  curso,  tem  em  vista  a  profissionalização  do ensino, que será feita através da introdução de disciplinas profissionalizantes e de módulos de formação profissional de curta duração, da abordagem integrada do processo de ensino e aprendizagem, da integração de conteúdos de interesse local e das línguas moçambicanas, para além dos temas transversais e actividades co-curriculares.
+11. A reforma do currículo do ESG, ora em curso, tem em vista a profissionalização do ensino, que será feita através da introdução de disciplinas profissionalizantes e de módulos de formação profissional de curta duração, da abordagem integrada do processo de ensino e aprendizagem, da integração de conteúdos de interesse local e das línguas moçambicanas, para além dos temas transversais e actividades co-curriculares.
 
 ### A missão e a visão do ESG
 
-- O  PEEC  identifica  a  missão  do  sector  como  a  necessidade  de  promover  serviços educativos de qualidade para formar cidadãos com elevada auto-estima e sentido patriótico e capazes de intervir activamente no combate à pobreza e na promoção do desenvolvimento do país. O PEEC, também, prevê promover e facilitar a acção dos vários intervenientes na área da Cultura.
+12. O PEEC identifica a missão do sector como a necessidade de promover serviços educativos de qualidade para formar cidadãos com elevada auto-estima e sentido patriótico e capazes de intervir activamente no combate à pobreza e na promoção do desenvolvimento do país. O PEEC, também, prevê promover e facilitar a acção dos vários intervenientes na área da Cultura.
 
 vii
 
@@ -114,19 +230,19 @@ vii
 
 [[START OF PAGE 9]]
 
-- Formar  cidadãos  competentes,  com  elevado  espírito  patriótico  e  humanístico,  com domínio  da  comunicação  nas  línguas  moçambicanas,  portuguesa  e,  pelo  menos,  uma língua internacional, aptos para enfrentarem e solucionarem problemas com criatividade, aprender ao longo da vida, e para se inserirem na vida das suas comunidades e no mercado de trabalho e preparados para prosseguir os seus estudos.
+13. Formar cidadãos competentes, com elevado espírito patriótico e humanístico, com domínio da comunicação nas línguas moçambicanas, portuguesa e, pelo menos, uma língua internacional, aptos para enfrentarem e solucionarem problemas com criatividade, aprender ao longo da vida, e para se inserirem na vida das suas comunidades e no mercado de trabalho e preparados para prosseguir os seus estudos.
 
-- A estratégia tem como visão universalizar, a médio e longo prazos, o acesso a um ensino básico de qualidade e de 10 classes, centrado no aluno, que permita dotar os jovens de competências  para  a  sua  inserção  no  mercado  de  trabalho  e  continuação  de  estudos  a outros níveis
+14. A estratégia tem como visão universalizar, a médio e longo prazos, o acesso a um ensino básico de qualidade e de 10 classes, centrado no aluno, que permita dotar os jovens de competências para a sua inserção no mercado de trabalho e continuação de estudos a outros níveis
 
-- Para assegurar cumprimento da missão e da visão do Ensino Secundário será importante contar  com  o  envolvimento  de  todos  os  intervenientes.  As  direcções  das  escolas  e  os professores terão a responsabilidade de preparar um ambiente seguro e saudável para os alunos.  Os  professores  deverão  desenvolver  as  suas  actividades  com  profissionalismo  e acompanhar, sistematicamente, os seus alunos no processo de ensino e aprendizagem. Os pais  e  encarregados  de  educação  deverão  assegurar  que  os  seus  educandos  empreguem mais tempo para as actividades académicas, apoiando-os e acompanhando-os permanentemente.  Os  alunos  deverão  cumprir  com  os  seus  deveres  escolares  tanto  no período  de  aulas  como  fora  deste.  Este  mecanismo  de  articulação  entre  a  escola  e  as famílias permitirá aumentar a eficiência e reduzir o desperdício escolar. A participação das famílias no processo de ensino é fundamental para o alcance dos objectivos programados no ensino secundário.
+15. Para assegurar cumprimento da missão e da visão do Ensino Secundário será importante contar com o envolvimento de todos os intervenientes. As direcções das escolas e os professores terão a responsabilidade de preparar um ambiente seguro e saudável para os alunos. Os professores deverão desenvolver as suas actividades com profissionalismo e acompanhar, sistematicamente, os seus alunos no processo de ensino e aprendizagem. Os pais e encarregados de educação deverão assegurar que os seus educandos empreguem mais tempo para as actividades académicas, apoiando-os e acompanhando-os permanentemente. Os alunos deverão cumprir com os seus deveres escolares tanto no período de aulas como fora deste. Este mecanismo de articulação entre a escola e as famílias permitirá aumentar a eficiência e reduzir o desperdício escolar. A participação das famílias no processo de ensino é fundamental para o alcance dos objectivos programados no ensino secundário.
 
-- A qualidade e a equidade do ensino secundário estão fortemente dependentes da forma como  estas  questões  serão  resolvidas  no  ensino  primário.  Por  sua  vez,  a  qualidade  no ensino secundário determinará a qualidade dos estudantes do ensino superior.
+16. A qualidade e a equidade do ensino secundário estão fortemente dependentes da forma como estas questões serão resolvidas no ensino primário. Por sua vez, a qualidade no ensino secundário determinará a qualidade dos estudantes do ensino superior.
 
 ### O Diagnóstico do Ensino Secundário Geral
 
-- O aumento vertiginoso das graduações no EP e o facto dos graduados deste nível serem cada vez mais jovens, não podendo, portanto, integrar-se em outras actividades que não a estudantil,  aumenta a pressão sobre o ensino pós primário que se vê na contingência de absorver mais e mais jovens. É assim que a taxa bruta de escolarização no ESG1 passou de 8% em 2000, para 35% em 2007. Isto significa que o sistema matriculou cerca de 520 mil alunos em todas as escolas do ESG1 em 2007, incluído o curso nocturno, contra os 91 mil alunos em 2000.
+17. O aumento vertiginoso das graduações no EP e o facto dos graduados deste nível serem cada vez mais jovens, não podendo, portanto, integrar-se em outras actividades que não a estudantil, aumenta a pressão sobre o ensino pós primário que se vê na contingência de absorver mais e mais jovens. É assim que a taxa bruta de escolarização no ESG1 passou de 8% em 2000, para 35% em 2007. Isto significa que o sistema matriculou cerca de 520 mil alunos em todas as escolas do ESG1 em 2007, incluído o curso nocturno, contra os 91 mil alunos em 2000.
 
-- Paralelamente, este crescimento dos efectivos escolares do ESG tem acontecido à custa da deterioração de alguns indicadores de qualidade, entre os quais se destacam:
+18. Paralelamente, este crescimento dos efectivos escolares do ESG tem acontecido à custa da deterioração de alguns indicadores de qualidade, entre os quais se destacam:
 
 - Aumento do número de alunos por escola;
 
@@ -134,7 +250,7 @@ vii
 
 - Utilização de professores e escolas do EP para leccionar o ESG1.
 
-- Este último elemento pode comprometer o progresso que o país já alcançou em termos de universalização  do  acesso  a  uma  educação  primária  de  qualidade,  pois  por  vezes  as melhores escolas do EP são ocupadas pelo ESG1.
+19. Este último elemento pode comprometer o progresso que o país já alcançou em termos de universalização do acesso a uma educação primária de qualidade, pois por vezes as melhores escolas do EP são ocupadas pelo ESG1.
 
 viii
 
@@ -142,23 +258,23 @@ viii
 
 [[START OF PAGE 10]]
 
-- O Governo, reconhecendo  que a expansão  do acesso à educação em  Moçambique  não pode ser resolvida apenas com a construção de novas escolas e formação de professores lançou o Projecto-piloto de Ensino Secundário à Distância (PESD) para cobrir o ESG1 (8ª, 9ª e 10ª classes).
+20. O Governo, reconhecendo que a expansão do acesso à educação em Moçambique não pode ser resolvida apenas com a construção de novas escolas e formação de professores lançou o Projecto-piloto de Ensino Secundário à Distância (PESD) para cobrir o ESG1 (8ª, 9ª e 10ª classes).
 
-- O ensino particular constitui igualmente uma alternativa para expandir o acesso ao ESG. Neste momento, 45 mil alunos frequentam 115 escolas privadas e comunitárias do ESG1 e mais  de  10  mil  alunos  encontram-se  matriculados  em  62  escolas  do  ESG2,  o  que representa 13% e 20% do total dos alunos matriculados nestes níveis de ensino.
+21. O ensino particular constitui igualmente uma alternativa para expandir o acesso ao ESG. Neste momento, 45 mil alunos frequentam 115 escolas privadas e comunitárias do ESG1 e mais de 10 mil alunos encontram-se matriculados em 62 escolas do ESG2, o que representa 13% e 20% do total dos alunos matriculados nestes níveis de ensino.
 
-- Face ao crescimento rápido dos efectivos escolares aliado à fraca capacidade de formação de professores, o sector vê-se, em algumas situações, obrigado a contratar professores sem formação apropriada para leccionarem, sobretudo no ESG1 público.
+22. Face ao crescimento rápido dos efectivos escolares aliado à fraca capacidade de formação de professores, o sector vê-se, em algumas situações, obrigado a contratar professores sem formação apropriada para leccionarem, sobretudo no ESG1 público.
 
-- No ESG1 a média nacional de professores por turma situa-se em pouco menos de 1,3 e no ESG2,  pouco  menos  de  1,6  professores  por  cada  turma,  sendo  que  se  verificam disparidades  entre  as  diferentes  províncias  e  dentro  dos  distritos.  Denota-se  a  falta  de professores  sobretudo  para  as  áreas  de  Ciências  Naturais  e  Desenho,  havendo  ainda registos de províncias que têm professores com cargas horárias excessivas, ultrapassando o permitido pelo regulamento.
+23. No ESG1 a média nacional de professores por turma situa-se em pouco menos de 1,3 e no ESG2, pouco menos de 1,6 professores por cada turma, sendo que se verificam disparidades entre as diferentes províncias e dentro dos distritos. Denota-se a falta de professores sobretudo para as áreas de Ciências Naturais e Desenho, havendo ainda registos de províncias que têm professores com cargas horárias excessivas, ultrapassando o permitido pelo regulamento.
 
-- No ESG1, em 2007, a proporção de professores com formação pedagógica é de 52,7% no ESG2 é de 80%, uma diferença significativa entre os dois níveis. A expansão do ESG1, sobretudo nos distritos, está sendo feita, em parte, com recurso a professores do EP, que mesmo  tendo  formação  pedagógica,  não  estão  habilitados  para  leccionar  este  nível  de ensino.
+24. No ESG1, em 2007, a proporção de professores com formação pedagógica é de 52,7% no ESG2 é de 80%, uma diferença significativa entre os dois níveis. A expansão do ESG1, sobretudo nos distritos, está sendo feita, em parte, com recurso a professores do EP, que mesmo tendo formação pedagógica, não estão habilitados para leccionar este nível de ensino.
 
-- A  formação  de  professores  para  ESG  é  uma  questão  fundamental  para  assegurar  a melhoria da qualidade de ensino, pois a procura continuará a crescer devido ao aumento do número dos novos ingressos neste nível.
+25. A formação de professores para ESG é uma questão fundamental para assegurar a melhoria da qualidade de ensino, pois a procura continuará a crescer devido ao aumento do número dos novos ingressos neste nível.
 
-- O tempo lectivo em Moçambique é reduzido quando comparado com os países da região. Pesquisas mostram que o tempo médio varia entre 39 a 40 semanas lectivas por ano com 5 a 6 horas por dia. No caso de Moçambique, por ano, o tempo lectivo situa-se entre 619 horas no curso nocturno e 780 horas no curso diurno. Considerando este quadro, torna-se evidente  que  em  Moçambique  o  número  de aulas  deve  ser  incrementado  criando,  deste modo, condições que permitam maior interacção entre o professor e o aluno para o alcance dos resultados previstos no currículo.
+26. O tempo lectivo em Moçambique é reduzido quando comparado com os países da região. Pesquisas mostram que o tempo médio varia entre 39 a 40 semanas lectivas por ano com 5 a 6 horas por dia. No caso de Moçambique, por ano, o tempo lectivo situa-se entre 619 horas no curso nocturno e 780 horas no curso diurno. Considerando este quadro, torna-se evidente que em Moçambique o número de aulas deve ser incrementado criando, deste modo, condições que permitam maior interacção entre o professor e o aluno para o alcance dos resultados previstos no currículo.
 
-- A  reforma  curricular  do  EP  introduziu  novas  estratégias  para  a  provisão  de  livros escolares neste nível. No EP os livros são aprovados pela Comissão de Avaliação do Livro Escolar (CALE) e são distribuídos gratuitamente para os professores e alunos em todo o país. No entanto, no ESG não há livros aprovados e uma política sobre esta matéria precisa de  ser  estabelecida.  À  semelhança  do  que  acontece  com  os  livros,  os  materiais  e equipamentos para laboratórios são insuficientes. As escolas das cidades foram construídas com salas para laboratórios. Os laboratórios exigem, para o seu funcionamento,  a  instalação  de  água,  gás  ou  energia  eléctrica  que  nem  sempre  está disponível nos distritos.
+27. A reforma curricular do EP introduziu novas estratégias para a provisão de livros escolares neste nível. No EP os livros são aprovados pela Comissão de Avaliação do Livro Escolar (CALE) e são distribuídos gratuitamente para os professores e alunos em todo o país. No entanto, no ESG não há livros aprovados e uma política sobre esta matéria precisa de ser estabelecida. À semelhança do que acontece com os livros, os materiais e equipamentos para laboratórios são insuficientes. As escolas das cidades foram construídas com salas para laboratórios. Os laboratórios exigem, para o seu funcionamento, a instalação de água, gás ou energia eléctrica que nem sempre está disponível nos distritos.
 
-- No  ESG1  público,  em  2006,  as  taxas  de  reprovação  (26,8%)  e  de  desistência  (5,3%) ultrapassaram os 30% no turno diurno e 40% no turno nocturno. No mesmo ano, o ESG2 público  registou  uma  taxa  média  de  reprovação  (22,3%)  e  de  desistência  (9,8%),  com
+28. No ESG1 público, em 2006, as taxas de reprovação (26,8%) e de desistência (5,3%) ultrapassaram os 30% no turno diurno e 40% no turno nocturno. No mesmo ano, o ESG2 público registou uma taxa média de reprovação (22,3%) e de desistência (9,8%), com
 
 ix
 
@@ -166,23 +282,23 @@ ix
 
 [[START OF PAGE 11]]
 
-- maior  incidência  na  12ª  (40%).  No  ESG2,  turno  nocturno,  estas  taxas  atingiram  níveis elevadíssimos, tendo superado os 45% e na 12ª classe 69%.
+maior incidência na 12ª (40%). No ESG2, turno nocturno, estas taxas atingiram níveis elevadíssimos, tendo superado os 45% e na 12ª classe 69%.
 
-- Em  2006,  o  ESG  público  diurno  e  nocturno  registou  elevadas  taxas  de  repetição  que variaram entre os 19% e 8% no ESG1 e ESG2, respectivamente. As taxas de reprovação contribuem  para  o  aumento  das  desistências,  enquanto  que  as  de  repetição  reduzem  a capacidade de aumentar a oferta de lugares para novos ingressos. De um modo geral, quer a  desistência,  quer  a  repetência  encarecem  os  custos  unitários  por  aluno  graduado,  pois não contribuem para a maximização dos recursos financeiros alocados para o funcionamento do sistema educativo.
+29. Em 2006, o ESG público diurno e nocturno registou elevadas taxas de repetição que variaram entre os 19% e 8% no ESG1 e ESG2, respectivamente. As taxas de reprovação contribuem para o aumento das desistências, enquanto que as de repetição reduzem a capacidade de aumentar a oferta de lugares para novos ingressos. De um modo geral, quer a desistência, quer a repetência encarecem os custos unitários por aluno graduado, pois não contribuem para a maximização dos recursos financeiros alocados para o funcionamento do sistema educativo.
 
-- Num contexto de cada vez maior descentralização, um dos desafios do ESG será o de assegurar  uma contínua melhoria  da  capacidade de planificação  e  gestão  deste  nível  de ensino.  Os  distritos  deverão  ser  capazes  de  preparar  planos  de  expansão  do  ESG  em perfeita articulação com a capacidade de absorção dos graduados do EP. A melhoria da qualidade do ensino obriga a uma maior disponibilidade de materiais de ensino que terão que  ser  distribuídos  pelos  distritos  e  administrados  a  nível  da  escola.  A  capacidade  de apoio  e  supervisão  instalada  nos  SDEJT  deverá  ser  reforçada  para  permitir  um  melhor acompanhamento  deste  nível  de  ensino.  A  área  das  construções  escolares  deverá, igualmente, ser melhorada para assegurar que os distritos possam administrar programas a nível local, à semelhança do que já vem sendo feito no EP.
+30. Num contexto de cada vez maior descentralização, um dos desafios do ESG será o de assegurar uma contínua melhoria da capacidade de planificação e gestão deste nível de ensino. Os distritos deverão ser capazes de preparar planos de expansão do ESG em perfeita articulação com a capacidade de absorção dos graduados do EP. A melhoria da qualidade do ensino obriga a uma maior disponibilidade de materiais de ensino que terão que ser distribuídos pelos distritos e administrados a nível da escola. A capacidade de apoio e supervisão instalada nos SDEJT deverá ser reforçada para permitir um melhor acompanhamento deste nível de ensino. A área das construções escolares deverá, igualmente, ser melhorada para assegurar que os distritos possam administrar programas a nível local, à semelhança do que já vem sendo feito no EP.
 
-- As disparidades  de  género  no  ESG  são, ainda, elevadas,  favorecendo  maior  frequência escolar  dos  rapazes  comparativamente  às  raparigas.  Nas  províncias  de  Maputo,  Gaza  e Cidade, de Maputo a proporção de raparigas, no ESG1, é superior a 50%, enquanto que nas províncias do centro e norte a proporção das raparigas é inferior à dos rapazes.
+31. As disparidades de género no ESG são, ainda, elevadas, favorecendo maior frequência escolar dos rapazes comparativamente às raparigas. Nas províncias de Maputo, Gaza e Cidade, de Maputo a proporção de raparigas, no ESG1, é superior a 50%, enquanto que nas províncias do centro e norte a proporção das raparigas é inferior à dos rapazes.
 
-- Igualmente,  a  proporção  de  professoras  continua  baixa,  apesar  de  manifestar  uma tendência  positiva  nos  dois  ciclos  do  ESG.  Em  2004  apurou-se  uma  proporção  de professoras na ordem dos 15% no ESG1, cifra que aumentou para 16% em 2007.
+32. Igualmente, a proporção de professoras continua baixa, apesar de manifestar uma tendência positiva nos dois ciclos do ESG. Em 2004 apurou-se uma proporção de professoras na ordem dos 15% no ESG1, cifra que aumentou para 16% em 2007.
 
-- A saúde escolar afigura-se como um grande problema no ESG. Com efeito, as escolas não dispõem  de  espaços  apropriados  para  a  assistência  e  primeiros  socorros  aos  alunos  e centros de aconselhamento. Os professores não são formados em matéria de saúde, o que torna ainda mais difícil o apoio aos alunos. O HIV constitui uma ameaça para os alunos, professores e outros funcionários do ESG.
+33. A saúde escolar afigura-se como um grande problema no ESG. Com efeito, as escolas não dispõem de espaços apropriados para a assistência e primeiros socorros aos alunos e centros de aconselhamento. Os professores não são formados em matéria de saúde, o que torna ainda mais difícil o apoio aos alunos. O HIV constitui uma ameaça para os alunos, professores e outros funcionários do ESG.
 
-- O  ensino  secundário  é  financiado  por  duas  fontes  fundamentais,  o  Governo  e  os encarregados de educação. O Governo é responsável pela maior parte do financiamento ao ensino público (salários dos professores, e outras despesas correntes), custeando ainda as despesas salariais em algumas escolas comunitárias sem fins lucrativos. O internamento é também  custeado fundamentalmente pelo Governo no que respeita a salários e funcionamento.
+34. O ensino secundário é financiado por duas fontes fundamentais, o Governo e os encarregados de educação. O Governo é responsável pela maior parte do financiamento ao ensino público (salários dos professores, e outras despesas correntes), custeando ainda as despesas salariais em algumas escolas comunitárias sem fins lucrativos. O internamento é também custeado fundamentalmente pelo Governo no que respeita a salários e funcionamento.
 
-- Os  encarregados  de  educação  financiam,  através  das  propinas,  parte  das  despesas  das escolas públicas e comunitárias, assim como o total das despesas das escolas privadas. Nas escolas públicas as contribuições dos pais destinam-se ao pagamento de trabalhadores que possam ser eventualmente contratados (guardas, outro pessoal auxiliar), energia e água.
+35. Os encarregados de educação financiam, através das propinas, parte das despesas das escolas públicas e comunitárias, assim como o total das despesas das escolas privadas. Nas escolas públicas as contribuições dos pais destinam-se ao pagamento de trabalhadores que possam ser eventualmente contratados (guardas, outro pessoal auxiliar), energia e água.
 
-- O custo corrente unitário por aluno/ano do ESG1 nas escolas públicas está estimado em 2.000,00 Mt e no ESG2 4.600,00 Mt. No ESG1 os custos salariais representam cerca de 72% do total da despesa e no ESG2 são de 60%. Estes custos foram estimados, na base do
+36. O custo corrente unitário por aluno/ano do ESG1 nas escolas públicas está estimado em 2.000,00 Mt e no ESG2 4.600,00 Mt. No ESG1 os custos salariais representam cerca de 72% do total da despesa e no ESG2 são de 60%. Estes custos foram estimados, na base do
 
 x
 
@@ -190,23 +306,23 @@ x
 
 [[START OF PAGE 12]]
 
-modelo  de  simulação,  considerando  uma  certa  proporção  de  professores  por  tipo  de formação e as demais despesas administrativas e de funcionamento (energia, água). Nestes cálculos não estão incluídas as contribuições dos pais devido à insuficiência de informação.
+modelo de simulação, considerando uma certa proporção de professores por tipo de formação e as demais despesas administrativas e de funcionamento (energia, água). Nestes cálculos não estão incluídas as contribuições dos pais devido à insuficiência de informação.
 
 ### Os problemas do Ensino Secundário
 
-- A médio prazo, o Governo deverá procurar dar resposta aos seguintes problemas:
+37. A médio prazo, o Governo deverá procurar dar resposta aos seguintes problemas:
 
 - Como assegurar a expansão do ensino secundário e garantir a qualidade de ensino?
 
 - Como adequar o currículo às novas exigências do desenvolvimento socio-económico do país e da integração regional?
 
-- Como  reduzir  o  desperdício  escolar  (reduzir  as  altas  taxas  de  reprovação  e  de desistência)?
+- Como reduzir o desperdício escolar (reduzir as altas taxas de reprovação e de desistência)?
 
-- Como atender  às  necessidades  dos  alunos  que  não  encontram  lugar  nas  escolas  do ensino secundário?
+- Como atender às necessidades dos alunos que não encontram lugar nas escolas do ensino secundário?
 
-- Como  promover  a  participação  do  sector  privado  e  da  sociedade  civil,  pais  e encarregados de educação no financiamento da educação?
+- Como promover a participação do sector privado e da sociedade civil, pais e encarregados de educação no financiamento da educação?
 
-- Como  aumentar  o  financiamento  ao  ensino  secundário  sem  prejuízo  dos  demais subsistemas e níveis de ensino.
+- Como aumentar o financiamento ao ensino secundário sem prejuízo dos demais subsistemas e níveis de ensino.
 
 ### Objectivos e Metas
 
@@ -214,13 +330,13 @@ modelo  de  simulação,  considerando  uma  certa  proporção  de  professores
 
 - Aumentar a actual taxa bruta de escolarização de 35% para 70% em 2015, incluindo os alunos do Ensino particular (15% do total dos alunos matriculados);
 
-- Alcançar, no ESG1, cerca de 1,2 milhões, dos quais 1,1 Milhões no ensino público e 180  mil  no  privado,  o  que  significa  incrementar  o  número  médio  de  alunos  a  um ritmo anual de 11%.
+- Alcançar, no ESG1, cerca de 1,2 milhões, dos quais 1,1 Milhões no ensino público e 180 mil no privado, o que significa incrementar o número médio de alunos a um ritmo anual de 11%.
 
-- Alcançar  no  ESG2,  a  meta  de  37%  de  escolarização  bruta  em  2015,  partindo  dos actuais  7%.  O  ESG2  público  alcançará  os  cerca  de  390  mil  alunos  e  o  ensino particular irá matricular 80 mil alunos. O crescimento anual médio será de cerca de 20%.
+- Alcançar no ESG2, a meta de 37% de escolarização bruta em 2015, partindo dos actuais 7%. O ESG2 público alcançará os cerca de 390 mil alunos e o ensino particular irá matricular 80 mil alunos. O crescimento anual médio será de cerca de 20%.
 
-- Melhorar  a  qualidade  de  ensino,  particularmente  no  que  respeita  às  áreas  da comunicação, matemática, ciências e informática.
+- Melhorar a qualidade de ensino, particularmente no que respeita às áreas da comunicação, matemática, ciências e informática.
 
-- Assegurar  oportunidades  de formação  para  os  alunos  que  não  completem  o  ESG1, assim como para aqueles que concluem o ESG1 e não ingressam no ESG2.
+- Assegurar oportunidades de formação para os alunos que não completem o ESG1, assim como para aqueles que concluem o ESG1 e não ingressam no ESG2.
 
 xi
 
@@ -230,11 +346,11 @@ xi
 
 ### Principais Acções Estratégicas
 
-- Com vista a atingir as metas traçadas, o Governo propõe-se a implementar as seguintes acções estratégicas a curto, médio e longo prazos:
+39. Com vista a atingir as metas traçadas, o Governo propõe-se a implementar as seguintes acções estratégicas a curto, médio e longo prazos:
 
 #### A admissão na 8ª e 11ª classes
 
-- A admissão à 8ª e à 11ª classes será feita com base em quotas definidas anualmente nas reuniões de planificação. As direcções provinciais deverão assegurar o cumprimento das metas definidas. Com base nas metas estabelecidas e em critérios de equidade de género, serão seleccionados para ingresso na 8ª e na 11ª classe, tanto no ensino presencial como à distância, os alunos e alunas que cumpram com os seguintes requisitos:
+40. A admissão à 8ª e à 11ª classes será feita com base em quotas definidas anualmente nas reuniões de planificação. As direcções provinciais deverão assegurar o cumprimento das metas definidas. Com base nas metas estabelecidas e em critérios de equidade de género, serão seleccionados para ingresso na 8ª e na 11ª classe, tanto no ensino presencial como à distância, os alunos e alunas que cumpram com os seguintes requisitos:
 
 - Alunos de menor idade;
 
@@ -242,19 +358,19 @@ xi
 
 Entre os critérios para o ingresso estão também a necessidade do equilíbrio de género nas escolas. As turmas do ensino secundário não deverão exceder os 55 alunos. Esta norma permitirá um ambiente de trabalho propício para o processo de ensino e aprendizagem.
 
-- Entre os alunos admitidos no ESG1 e ESG2 os mais novos, sempre que possível, deverão preencher as vagas dos cursos diurnos e os de maior idade serão encaminhados para os cursos nocturnos ou beneficiar de outras formas de educação e formação.
+41. Entre os alunos admitidos no ESG1 e ESG2 os mais novos, sempre que possível, deverão preencher as vagas dos cursos diurnos e os de maior idade serão encaminhados para os cursos nocturnos ou beneficiar de outras formas de educação e formação.
 
 #### Medidas para a abertura de novas escolas e construção escolar
 
-- A abertura de novas escolas secundárias deverá obedecer às prioridades definidas na carta escolar para melhorar a equidade regional. A construção das novas escolas será feita com base nos protótipos a serem definidos a curto prazo, priorizando os distritos com elevada procura escolar.
+42. A abertura de novas escolas secundárias deverá obedecer às prioridades definidas na carta escolar para melhorar a equidade regional. A construção das novas escolas será feita com base nos protótipos a serem definidos a curto prazo, priorizando os distritos com elevada procura escolar.
 
-- A construção de novas salas de aula em escolas do EPC será uma das formas para  a  expansão  do  ESG1,  acompanhada  da  formação  de  professores, aquisição de materiais escolares e criação de condições infraestruturais;
+- A construção de novas salas de aula em escolas do EPC será uma das formas para a expansão do ESG1, acompanhada da formação de professores, aquisição de materiais escolares e criação de condições infraestruturais;
 
 - Tendo em conta a possível redução do número de alunos do Ensino Primário, (prevê-se a redução das taxas brutas de escolarização dos actuais 169% para os 100% em 2011), algumas escolas do EPC poderão acolher o ESG.
 
-- A construção de novas salas de aula em Escolas Primárias Completas (EPC) deverá ser a principal estratégia para a expansão da rede escolar do ESG, o que vai permitir a evolução das EPC para integrarem o ESG1. A expansão do programa de construções escolares no ensino  secundário  vai  garantir  a  promoção  do  acesso,  a  redução,  não  só  do  número  de alunos  por  turma,  mas  também  das  distâncias  entre  casa  e  a  escola,  a  redução  da necessidade  de  internamento  dos  alunos  e  a  redução  do  tamanho  de  escolas,  o  que permitirá melhorar a gestão escolar.
+43. A construção de novas salas de aula em Escolas Primárias Completas (EPC) deverá ser a principal estratégia para a expansão da rede escolar do ESG, o que vai permitir a evolução das EPC para integrarem o ESG1. A expansão do programa de construções escolares no ensino secundário vai garantir a promoção do acesso, a redução, não só do número de alunos por turma, mas também das distâncias entre casa e a escola, a redução da necessidade de internamento dos alunos e a redução do tamanho de escolas, o que permitirá melhorar a gestão escolar.
 
-- Durante o período da implementação  da  estratégia o Governo  vai concentrar-se fundamentalmente na construção de salas de aula com sanitários e bloco administrativo essencialmente para acomodar os alunos. A construção escolar com apoio das comunidades  e  a  custos  comportáveis  (custo  máximo  de  400  mil  Meticais  por  sala  de
+44. Durante o período da implementação da estratégia o Governo vai concentrar-se fundamentalmente na construção de salas de aula com sanitários e bloco administrativo essencialmente para acomodar os alunos. A construção escolar com apoio das comunidades e a custos comportáveis (custo máximo de 400 mil Meticais por sala de
 
 xii
 
@@ -262,25 +378,25 @@ xii
 
 [[START OF PAGE 14]]
 
-aula), respeitando ainda o uso racional e eficiente dos recursos financeiros disponíveis, à semelhança  do  que  já  vem  acontecendo  no  Ensino  Primário,  permitirá  acomodar  a expansão.
+aula), respeitando ainda o uso racional e eficiente dos recursos financeiros disponíveis, à semelhança do que já vem acontecendo no Ensino Primário, permitirá acomodar a expansão.
 
-- A estratégia define padrões mínimos de infra-estruturas que devem ser observados e que são essenciais para se estabelecer um  equilíbrio na construção de novas escolas secundárias.  As  infra-estruturas  escolares  devem  ser  de  construção  evolutiva,  devendo obedecer às normas para o atendimento a pessoas com necessidades educativas especiais, priorizando a construção de salas de aula e casas de banho para os utentes.
+45. A estratégia define padrões mínimos de infra-estruturas que devem ser observados e que são essenciais para se estabelecer um equilíbrio na construção de novas escolas secundárias. As infra-estruturas escolares devem ser de construção evolutiva, devendo obedecer às normas para o atendimento a pessoas com necessidades educativas especiais, priorizando a construção de salas de aula e casas de banho para os utentes.
 
 #### O Ensino à Distância como estratégia para a expansão
 
-- O MEC vai promover, através do Instituto de Educação Aberta à Distância (IEDA) e do Instituto  Nacional  de  Educação  à  Distância  (INED),  esta  modalidade  de  ensino,  como forma de contribuir para a expansão do acesso ao ESG. Neste sentido, e como primeira acção, será desenvolvida a regulamentação da EAD, incluindo um sistema de avaliação, para flexibilizar o processo da sua implementação.
+46. O MEC vai promover, através do Instituto de Educação Aberta à Distância (IEDA) e do Instituto Nacional de Educação à Distância (INED), esta modalidade de ensino, como forma de contribuir para a expansão do acesso ao ESG. Neste sentido, e como primeira acção, será desenvolvida a regulamentação da EAD, incluindo um sistema de avaliação, para flexibilizar o processo da sua implementação.
 
-- A  implementação  do  programa  de  EAD  implica  disponibilizar  tutores  formados  e  a construção e apetrechamento de 500 Centros de Recursos (1 centro de recurso para 240 alunos em média). O EAD deverá acomodar cerca de 10% de alunos do ESG até 2015. O financiamento deste será feito tendo em conta a partilha de custos com os beneficiários.
+47. A implementação do programa de EAD implica disponibilizar tutores formados e a construção e apetrechamento de 500 Centros de Recursos (1 centro de recurso para 240 alunos em média). O EAD deverá acomodar cerca de 10% de alunos do ESG até 2015. O financiamento deste será feito tendo em conta a partilha de custos com os beneficiários.
 
-- O Ministério deverá considerar a necessidade de avaliar a eficiência (custo por aluno) dos cursos à distância de modo a verificar as melhores formas de os implementar.
+48. O Ministério deverá considerar a necessidade de avaliar a eficiência (custo por aluno) dos cursos à distância de modo a verificar as melhores formas de os implementar.
 
 #### Respondendo à qualidade e reduzindo a reprovação
 
-- As reprovações e desistências constituem um grande desperdício de recursos no sistema de  ensino em Moçambique e a sua redução constitui uma das prioridades do MEC. No ESG, cerca de 25% dos alunos reprovam anualmente. O MEC prevê introduzir medidas para melhorar a aprendizagem dos alunos. Em paralelo serão introduzidas medidas para desencorajar  a  reprovação,  designadamente,  a  redução  para  apenas  uma  reprovação permitida em cada ciclo e a duplicação da taxa de propinas para os alunos que reprovem.
+49. As reprovações e desistências constituem um grande desperdício de recursos no sistema de ensino em Moçambique e a sua redução constitui uma das prioridades do MEC. No ESG, cerca de 25% dos alunos reprovam anualmente. O MEC prevê introduzir medidas para melhorar a aprendizagem dos alunos. Em paralelo serão introduzidas medidas para desencorajar a reprovação, designadamente, a redução para apenas uma reprovação permitida em cada ciclo e a duplicação da taxa de propinas para os alunos que reprovem.
 
 #### Outras formas de educação e formação
 
-- Serão desenvolvidas outras formas para a educação e formação dos jovens, nomeadamente o ensino particular, o ensino à distância, programas de formação técnica e profissional a serem estabelecidos conjuntamente com o ETP, o Ministério do Trabalho e o Programa Integrado de Reforma do Ensino Técnico Profissional (PIREP).
+50. Serão desenvolvidas outras formas para a educação e formação dos jovens, nomeadamente o ensino particular, o ensino à distância, programas de formação técnica e profissional a serem estabelecidos conjuntamente com o ETP, o Ministério do Trabalho e o Programa Integrado de Reforma do Ensino Técnico Profissional (PIREP).
 
 xiii
 
@@ -290,19 +406,19 @@ xiii
 
 #### Reduzindo o internamento através da expansão do sistema
 
-- Tendo em conta que o internamento é muito oneroso, o Governo deverá reduzi-lo, sempre que  possível,  transferindo  paulatinamente  a  responsabilidade  deste  para  as  entidades privadas e comunitárias.
+51. Tendo em conta que o internamento é muito oneroso, o Governo deverá reduzi-lo, sempre que possível, transferindo paulatinamente a responsabilidade deste para as entidades privadas e comunitárias.
 
 #### Respondendo aos alunos vulneráveis e com necessidades educativas especiais
 
-- O  acesso  de  jovens  desfavorecidos  e  talentosos,  assim  como  o  acesso  de  jovens  com necessidades educativas especiais será assegurado, por um lado, através do estabelecimento de mecanismos de isenção do pagamento de propinas e por outro lado, da adequação  das  infra-estruturas  e  aquisição  de  materiais  escolares  apropriados  para  os jovens  portadores  de  deficiências.  O  envolvimento  da  comunidade  será  crucial  na definição das modalidades, níveis de assistência e dos respectivos beneficiários.
+52. O acesso de jovens desfavorecidos e talentosos, assim como o acesso de jovens com necessidades educativas especiais será assegurado, por um lado, através do estabelecimento de mecanismos de isenção do pagamento de propinas e por outro lado, da adequação das infra-estruturas e aquisição de materiais escolares apropriados para os jovens portadores de deficiências. O envolvimento da comunidade será crucial na definição das modalidades, níveis de assistência e dos respectivos beneficiários.
 
 #### Estimulando o desenvolvimento do Ensino particular
 
-- A  estratégia  prevê  manter  a  proporção  de  alunos  no  ESG1  e  ESG2  em  15  e  20% respectivamente,  até  2015.  Esta  proporção  significará  um  aumento  considerável  do número total de alunos matriculados no ensino particular até 2015. Para que este aumento aconteça,  deverão  ser  tomadas medidas tendentes a simplificar os procedimentos para a abertura de escolas privadas, adoptar medidas de financiamento estatal às escolas privadas e  comunitárias  (pagamento  de  propinas  para  os  alunos  mais  necessitados,  a  redução  ou eliminação das imposições aduaneiras e fiscais, o financiamento à construção de escolas).
+53. A estratégia prevê manter a proporção de alunos no ESG1 e ESG2 em 15 e 20% respectivamente, até 2015. Esta proporção significará um aumento considerável do número total de alunos matriculados no ensino particular até 2015. Para que este aumento aconteça, deverão ser tomadas medidas tendentes a simplificar os procedimentos para a abertura de escolas privadas, adoptar medidas de financiamento estatal às escolas privadas e comunitárias (pagamento de propinas para os alunos mais necessitados, a redução ou eliminação das imposições aduaneiras e fiscais, o financiamento à construção de escolas).
 
 #### Melhorando a qualidade de ensino
 
-- A  Estratégia  do  Ensino  Secundário  identifica  a  qualidade  do  ensino  como  um  dos principais  constrangimentos  do  sistema  e  que  necessita  de  ser  melhorada  de  forma imediata. A solução do problema da qualidade de ensino no nível secundário requer um investimento  importante cujos benefícios se  prevê  que  sejam  reflectidos  no  aumento  da eficiência  do  sistema,  através  da  redução  da  reprovação,  repetição,  e  desistência  e  no aumento das taxas de conclusão e que certamente compensarão o investimento realizado. A  continuidade  das  reformas  curriculares,  a  formação  de  professores,  a  política  do material escolar e o aumento do tempo lectivo, constituem os aspectos mais importantes para garantir a qualidade no ESG.
+54. A Estratégia do Ensino Secundário identifica a qualidade do ensino como um dos principais constrangimentos do sistema e que necessita de ser melhorada de forma imediata. A solução do problema da qualidade de ensino no nível secundário requer um investimento importante cujos benefícios se prevê que sejam reflectidos no aumento da eficiência do sistema, através da redução da reprovação, repetição, e desistência e no aumento das taxas de conclusão e que certamente compensarão o investimento realizado. A continuidade das reformas curriculares, a formação de professores, a política do material escolar e o aumento do tempo lectivo, constituem os aspectos mais importantes para garantir a qualidade no ESG.
 
 xiv
 
@@ -312,19 +428,19 @@ xiv
 
 #### Implementando o Novo Currículo
 
-- A estrutura curricular do ESG está orientada para uma formação integral e harmoniosa do aluno.  O  currículo  integra  os  saberes  locais,  a  educação  cívica  e  para  a  cidadania,  com vista a desenvolver nos jovens o espírito de tolerância e resolução pacífica de conflitos, num contexto de emergência de uma sociedade multicultural e diversa como resultado da grande  mobilidade  das  pessoas.  As  novas  Tecnologias  de  Comunicação  e  Informação (TIC) e a necessidade da utilização racional dos recursos naturais, bem como a protecção do meio ambiente, face às mudanças climáticas, constituem outras áreas actuais de vital importância tratadas no novo  currículo. A  introdução das disciplinas opcionais e profissionalizantes  constitui  uma  mais  valia  do  novo  currículo,  pois  vai  permitir  que  os graduados obtenham uma formação mais orientada para o trabalho.
+55. A estrutura curricular do ESG está orientada para uma formação integral e harmoniosa do aluno. O currículo integra os saberes locais, a educação cívica e para a cidadania, com vista a desenvolver nos jovens o espírito de tolerância e resolução pacífica de conflitos, num contexto de emergência de uma sociedade multicultural e diversa como resultado da grande mobilidade das pessoas. As novas Tecnologias de Comunicação e Informação (TIC) e a necessidade da utilização racional dos recursos naturais, bem como a protecção do meio ambiente, face às mudanças climáticas, constituem outras áreas actuais de vital importância tratadas no novo currículo. A introdução das disciplinas opcionais e profissionalizantes constitui uma mais valia do novo currículo, pois vai permitir que os graduados obtenham uma formação mais orientada para o trabalho.
 
-- Numa  primeira  fase,  nem  todas  as  escolas  terão  condições  para  a  implementação  do currículo no seu formato actual por falta de professores formados para as novas disciplinas e por não disporem de espaços para leccionar as horas adicionais do novo plano curricular. Para  estes  casos,  as  escolas  deverão  dispor  de  autonomia  para  voltarem  ao  formato  do currículo anterior assegurando a ocupação plena dos alunos e professores.
+56. Numa primeira fase, nem todas as escolas terão condições para a implementação do currículo no seu formato actual por falta de professores formados para as novas disciplinas e por não disporem de espaços para leccionar as horas adicionais do novo plano curricular. Para estes casos, as escolas deverão dispor de autonomia para voltarem ao formato do currículo anterior assegurando a ocupação plena dos alunos e professores.
 
 #### Formando os professores para o ESG
 
-- O  sucesso  da  implementação  do  novo  currículo  dependerá,  em  grande  medida,  da formação e contratação de professores, para todas as disciplinas, em quantidade suficiente. Entretanto, tendo em conta que o ESG1 está sendo introduzido gradualmente nas Escolas Primárias  Completas  (EPC),  torna-se,  também  importante  que  o  programa  de  formação incorpore a capacitação dos professores das EPC, para leccionarem o ESG1.
+57. O sucesso da implementação do novo currículo dependerá, em grande medida, da formação e contratação de professores, para todas as disciplinas, em quantidade suficiente. Entretanto, tendo em conta que o ESG1 está sendo introduzido gradualmente nas Escolas Primárias Completas (EPC), torna-se, também importante que o programa de formação incorpore a capacitação dos professores das EPC, para leccionarem o ESG1.
 
-- Tanto os professores para o ESG1 como para o ESG2 deverão ser formados em cursos bi ou polivalentes a partir de 2009. Os professores do ESG1 serão formados em cursos de 12ª + 1 até 2012, altura em que será avaliado o programa para definição de novas perspectivas. Para  o  ESG2  serão  formados  professores  com  o  nível  de  bacharelato,  através  de instituições do ensino superior.
+58. Tanto os professores para o ESG1 como para o ESG2 deverão ser formados em cursos bi ou polivalentes a partir de 2009. Os professores do ESG1 serão formados em cursos de 12ª + 1 até 2012, altura em que será avaliado o programa para definição de novas perspectivas. Para o ESG2 serão formados professores com o nível de bacharelato, através de instituições do ensino superior.
 
-- A formação dos professores para as novas disciplinas e para a área das Ciências Naturais e das disciplinas de Desenho  e  Inglês,  identificadas como  as  mais  críticas, será fundamental para o desenvolvimento do sistema. O desenvolvimento profissional contínuo será  um  instrumento  importante  para  assegurar  que  os  professores  do  ESG  estejam capacitados e actualizados para leccionar este nível de ensino.
+59. A formação dos professores para as novas disciplinas e para a área das Ciências Naturais e das disciplinas de Desenho e Inglês, identificadas como as mais críticas, será fundamental para o desenvolvimento do sistema. O desenvolvimento profissional contínuo será um instrumento importante para assegurar que os professores do ESG estejam capacitados e actualizados para leccionar este nível de ensino.
 
-- O  MEC  poderá  avaliar  a  possibilidade  de  transferir  gradualmente  os  programas  de formação de professores à distância para os IFP como forma de sustentar a expansão de um ESG1 de qualidade e numa perspectiva da introdução da escolarização universal de 9/10  classes  em  Moçambique.  Esta  transferência  vai  permitir  que  as  IFP,  para  além  de formarem e assistirem os professores, possam proporcionar apoio pedagógico permanente e sistemático às ESG1.
+60. O MEC poderá avaliar a possibilidade de transferir gradualmente os programas de formação de professores à distância para os IFP como forma de sustentar a expansão de um ESG1 de qualidade e numa perspectiva da introdução da escolarização universal de 9/10 classes em Moçambique. Esta transferência vai permitir que as IFP, para além de formarem e assistirem os professores, possam proporcionar apoio pedagógico permanente e sistemático às ESG1.
 
 xv
 
@@ -334,25 +450,25 @@ xv
 
 #### Providenciando materiais de ensino no ESG
 
-- Uma política do livro escolar será desenvolvida para assegurar o fornecimento de livros, e manuais  e  outros  materiais  escolares  para  os  alunos,  professores  e  escolas  (bibliotecas, laboratórios).  O  envolvimento  das  famílias  e  dos  parceiros  do  sector  no  financiamento deste programa será fundamental.
+61. Uma política do livro escolar será desenvolvida para assegurar o fornecimento de livros, e manuais e outros materiais escolares para os alunos, professores e escolas (bibliotecas, laboratórios). O envolvimento das famílias e dos parceiros do sector no financiamento deste programa será fundamental.
 
 #### Desenvolvendo as TICs no ESG
 
-- O ensino das Tecnologias de Informação e Comunicação (TICs) deverá ser introduzido em 2010 no ESG1, segundo o plano curricular. Tendo em conta o enorme esforço que o MEC deverá realizar para a efectivação deste programa, a implementação plena das TIC's, sobretudo no ESG1, será feita de forma gradual, em escolas que detenham condições para a sua introdução, devendo iniciar-se no ESG2.
+62. O ensino das Tecnologias de Informação e Comunicação (TICs) deverá ser introduzido em 2010 no ESG1, segundo o plano curricular. Tendo em conta o enorme esforço que o MEC deverá realizar para a efectivação deste programa, a implementação plena das TIC’s, sobretudo no ESG1, será feita de forma gradual, em escolas que detenham condições para a sua introdução, devendo iniciar-se no ESG2.
 
 #### Respondendo aos jovens com necessidades educativas especiais
 
-- O crescimento de efectivos escolares no ESG vai, certamente, permitir que mais alunos com necessidades educativas especiais tenham acesso a este nível de ensino. O sucesso escolar  destes  alunos  dependerá,  em  grande  medida,  da  capacidade  dos  professores  de comunicarem efectivamente com eles, assim como de materiais de ensino adequados às suas  condições.  O  MEC  vai  desenvolver  um  sistema  de  informação  para  identificar  os alunos  com  necessidades educativas especiais de forma  a assegurar-lhes o apoio necessário. Este apoio poderá ser financiado através do ADE.
+63. O crescimento de efectivos escolares no ESG vai, certamente, permitir que mais alunos com necessidades educativas especiais tenham acesso a este nível de ensino. O sucesso escolar destes alunos dependerá, em grande medida, da capacidade dos professores de comunicarem efectivamente com eles, assim como de materiais de ensino adequados às suas condições. O MEC vai desenvolver um sistema de informação para identificar os alunos com necessidades educativas especiais de forma a assegurar-lhes o apoio necessário. Este apoio poderá ser financiado através do ADE.
 
 #### Aumentando o tempo lectivo
 
-- O  número  de  horas  lectivas  no  ESG  é  insuficiente  para  assegurar  que  os  conteúdos programados sejam  leccionados  com  os  padrões  de  qualidade  exigidos.  O  MEC  deverá adoptar mecanismos para aumentar, gradualmente, o ano lectivo escolar, passando de 35 para 40 semanas anuais.
+64. O número de horas lectivas no ESG é insuficiente para assegurar que os conteúdos programados sejam leccionados com os padrões de qualidade exigidos. O MEC deverá adoptar mecanismos para aumentar, gradualmente, o ano lectivo escolar, passando de 35 para 40 semanas anuais.
 
 #### Melhorando a supervisão e o sistema de avaliação escolar
 
-- O  sistema  de  supervisão  escolar,  com  apoio  das  IFP's,  deverá  desempenhar  um  papel importante no apoio pedagógico às escolas secundárias, particularmente no domínio das Ciências  Naturais  e  nas  disciplinas  de  Desenho  e  Matemática,  onde  se  verificam  as maiores dificuldades em escolas rurais.
+65. O sistema de supervisão escolar, com apoio das IFP’s, deverá desempenhar um papel importante no apoio pedagógico às escolas secundárias, particularmente no domínio das Ciências Naturais e nas disciplinas de Desenho e Matemática, onde se verificam as maiores dificuldades em escolas rurais.
 
-- O MEC irá introduzir, a partir de 2010, um sistema para avaliar a qualidade da formação no Ensino Secundário que vai incluir também a avaliação das escolas.
+66. O MEC irá introduzir, a partir de 2010, um sistema para avaliar a qualidade da formação no Ensino Secundário que vai incluir também a avaliação das escolas.
 
 xvi
 
@@ -362,21 +478,21 @@ xvi
 
 #### Desenvolvendo a capacidade do sistema
 
-- No âmbito do desenvolvimento da capacidade institucional será fundamental a formação de directores de escolas e quadros para a supervisão e inspecção, uma vez que este aspecto é  essencial  para  assegurar  uma  gestão  escolar  eficiente  e  centrada  na  qualidade  da educação. O desenho e implementação de um sistema de supervisão e inspecção escolar descentralizado têm um papel preponderante no acompanhamento e monitoria do sistema.
+67. No âmbito do desenvolvimento da capacidade institucional será fundamental a formação de directores de escolas e quadros para a supervisão e inspecção, uma vez que este aspecto é essencial para assegurar uma gestão escolar eficiente e centrada na qualidade da educação. O desenho e implementação de um sistema de supervisão e inspecção escolar descentralizado têm um papel preponderante no acompanhamento e monitoria do sistema.
 
 #### Atendendo às disparidades de género no ESG
 
-- O objectivo do sector, no âmbito do género, é de alcançar a paridade em 2015 no ESG1. Neste  sentido,  deverão  ser  desenvolvidas  acções  para  assegurar  que  a  paridade  na conclusão  do  EP2  seja  alcançada,  através  da  construção  de  escolas  secundárias  nas comunidades e da implementação de um sistema de incentivos à frequência do ESG1 por parte das raparigas. O equilíbrio de género em termos de professoras a leccionar no ESG é, igualmente um objectivo a atingir. Para o efeito, o MEC assegura a criação de incentivos, como bolsas de estudo para que estas frequentem os IFP, sobretudo para as disciplinas de Ciências Naturais e Desenho.
+68. O objectivo do sector, no âmbito do género, é de alcançar a paridade em 2015 no ESG1. Neste sentido, deverão ser desenvolvidas acções para assegurar que a paridade na conclusão do EP2 seja alcançada, através da construção de escolas secundárias nas comunidades e da implementação de um sistema de incentivos à frequência do ESG1 por parte das raparigas. O equilíbrio de género em termos de professoras a leccionar no ESG é, igualmente um objectivo a atingir. Para o efeito, o MEC assegura a criação de incentivos, como bolsas de estudo para que estas frequentem os IFP, sobretudo para as disciplinas de Ciências Naturais e Desenho.
 
 #### Respondendo ao HIV/SIDA
 
-- O HIV/SIDA é um grande factor de risco para o desenvolvimento harmonioso do sistema de educação, uma vez que, por um lado os alunos deste nível estão numa faixa etária que os torna mais susceptíveis de serem infectados pelo HIV e os professores estão também expostos ao HIV e aos seus efeitos. A criação de centros de atendimento à pandemia a nível  das  escolas  e  a  implementação  da  política  sobre  a  pandemia  do  HIV  no  local  de trabalho  vai  minorar  os  efeitos  do  HIV  no  seio  alunos  e  dos  docentes.  O  MEC  deverá assegurar a substituição dos professores falecidos, tratamento e apoio aos infectados, bem como  a  formação  dos  professores  em  matérias  relacionadas  com  a  Saúde  Escolar, incluindo o HIV/SIDA.
+69. O HIV/SIDA é um grande factor de risco para o desenvolvimento harmonioso do sistema de educação, uma vez que, por um lado os alunos deste nível estão numa faixa etária que os torna mais susceptíveis de serem infectados pelo HIV e os professores estão também expostos ao HIV e aos seus efeitos. A criação de centros de atendimento à pandemia a nível das escolas e a implementação da política sobre a pandemia do HIV no local de trabalho vai minorar os efeitos do HIV no seio alunos e dos docentes. O MEC deverá assegurar a substituição dos professores falecidos, tratamento e apoio aos infectados, bem como a formação dos professores em matérias relacionadas com a Saúde Escolar, incluindo o HIV/SIDA.
 
 #### Financiando o ESG
 
-- O financiamento às escolas secundárias continuará a ser feito, fundamentalmente através do  Estado  e  dos  pais  e  encarregados  de  educação.  O  Governo  deverá  continuar  a disponibilizar  20%  do  Orçamento  do  Estado  para  o  sector  da  Educação.  A  parte  do Orçamento da Educação dedicada ao Ensino Secundário Geral deverá crescer dos actuais cerca  de  15%  para os  35% em 2015, o que significará, de acordo com as projecções, a duplicação (de 5,4 mil milhões de Mt para 8,2 mil milhões de Mt) do financiamento ao ESG durante o período.
+70. O financiamento às escolas secundárias continuará a ser feito, fundamentalmente através do Estado e dos pais e encarregados de educação. O Governo deverá continuar a disponibilizar 20% do Orçamento do Estado para o sector da Educação. A parte do Orçamento da Educação dedicada ao Ensino Secundário Geral deverá crescer dos actuais cerca de 15% para os 35% em 2015, o que significará, de acordo com as projecções, a duplicação (de 5,4 mil milhões de Mt para 8,2 mil milhões de Mt) do financiamento ao ESG durante o período.
 
-- Portanto, os custos do ESG1 deverão aumentar como indicado na tabela 19, de 4.027,0 Milhões de Mt para cerca de 5.558,7 Milhões de Mt em 2015. Os custos correntes por aluno irão aumentar paulatinamente dos actuais cerca de 2.000 Mt para os 3.300 Mt, em resultado  do  aumento  do  financiamento  às  escolas  (ADE).  Destes,  cerca  de  45% representarão despesas não salariais, o que indica o aumento das despesas para a melhoria da qualidade de ensino.
+71. Portanto, os custos do ESG1 deverão aumentar como indicado na tabela 19, de 4.027,0 Milhões de Mt para cerca de 5.558,7 Milhões de Mt em 2015. Os custos correntes por aluno irão aumentar paulatinamente dos actuais cerca de 2.000 Mt para os 3.300 Mt, em resultado do aumento do financiamento às escolas (ADE). Destes, cerca de 45% representarão despesas não salariais, o que indica o aumento das despesas para a melhoria da qualidade de ensino.
 
 xvii
 
@@ -384,21 +500,21 @@ xvii
 
 [[START OF PAGE 19]]
 
-- No ESG2, os custos irão aumentar dos 1.461,7 Milhões de Mt para os 2.605,6 Milhões de Mt em 2015.  As  despesas  de  investimento  aumentarão  até  2012,  altura  em  que  haverá maiores  crescimentos  do  ESG2,  prevendo-se  que  irão  reduzir  após  esta  altura,  o  que resultará numa redução do crescimento das despesas totais deste nível de ensino em 2013. Assim, as despesas correntes por aluno deverão aumentar dos 4.622 Mt em 2006, para os 6.240 Mt por aluno em 2015.
+72. No ESG2, os custos irão aumentar dos 1.461,7 Milhões de Mt para os 2.605,6 Milhões de Mt em 2015. As despesas de investimento aumentarão até 2012, altura em que haverá maiores crescimentos do ESG2, prevendo-se que irão reduzir após esta altura, o que resultará numa redução do crescimento das despesas totais deste nível de ensino em 2013. Assim, as despesas correntes por aluno deverão aumentar dos 4.622 Mt em 2006, para os 6.240 Mt por aluno em 2015.
 
-- O ADE e as contribuições dos pais deverão ser gradualmente aumentadas com o fim de financiar programas relacionados com a promoção da qualidade de ensino, funcionamento, manutenção e segurança das escolas.
+73. O ADE e as contribuições dos pais deverão ser gradualmente aumentadas com o fim de financiar programas relacionados com a promoção da qualidade de ensino, funcionamento, manutenção e segurança das escolas.
 
-- O MEC vai desenvolver e introduzir em 2009, instrumentos para o controlo de fundos nas escolas,  sobretudo  os  fundos  da  Acção  Social  Escolar  (ASE),  do  ADE  e  das  propinas, formando igualmente as direcções de escolas em matéria de planificação, orçamentação e gestão escolar e prestação de contas e promovendo auditorias anualmente em, pelo menos, 10% das escolas estatais, cujos resultados serão divulgados para assegurar o funcionamento adequado dos Conselhos de Escola.
+74. O MEC vai desenvolver e introduzir em 2009, instrumentos para o controlo de fundos nas escolas, sobretudo os fundos da Acção Social Escolar (ASE), do ADE e das propinas, formando igualmente as direcções de escolas em matéria de planificação, orçamentação e gestão escolar e prestação de contas e promovendo auditorias anualmente em, pelo menos, 10% das escolas estatais, cujos resultados serão divulgados para assegurar o funcionamento adequado dos Conselhos de Escola.
 
 #### Mecanismos de comunicação e de informação
 
-- A  sociedade,  como  principal  beneficiária  e  parceira  do  Governo  no  processo  de implementação  da  Estratégia  do  ESG,  deverá  ser  permanentemente  informada  sobre  o programa do sector para este nível de ensino.
+75. A sociedade, como principal beneficiária e parceira do Governo no processo de implementação da Estratégia do ESG, deverá ser permanentemente informada sobre o programa do sector para este nível de ensino.
 
 ### Condições para o sucesso da estratégia
 
-- Existem  condições  apropriadas  para  a  implementação,  com  sucesso,  da  estratégia  do ensino  secundário,  entre  as  quais  se  destacam  a  estabilidade  interna  e  o  crescimento  da economia, o compromisso do Governo para com a educação e o apoio externo ao país em geral e ao sector em particular.
+76. Existem condições apropriadas para a implementação, com sucesso, da estratégia do ensino secundário, entre as quais se destacam a estabilidade interna e o crescimento da economia, o compromisso do Governo para com a educação e o apoio externo ao país em geral e ao sector em particular.
 
-- A  definição  de  acções  estratégicas  de  curto  e  médio  prazo,  dentro  de  um  contexto  de desenvolvimento  do  sistema  de  educação,  a  melhoria  da  capacidade  de  administração deste nível de ensino, o aumento da capacidade de construção de salas de aula a custos sustentáveis, a capacidade de formação de professores e de aprovisionamento de materiais de ensino, assim como a capacidade de gestão do impacto do HIV/SIDA serão elementos importantes  para  o  êxito  da  estratégia.  Um  sistema  de  monitoria  e  avaliação  deverá identificar e disseminar as experiências positivas assim como corrigir eventuais aspectos negativos constatados no processo de implementação da estratégia.
+77. A definição de acções estratégicas de curto e médio prazo, dentro de um contexto de desenvolvimento do sistema de educação, a melhoria da capacidade de administração deste nível de ensino, o aumento da capacidade de construção de salas de aula a custos sustentáveis, a capacidade de formação de professores e de aprovisionamento de materiais de ensino, assim como a capacidade de gestão do impacto do HIV/SIDA serão elementos importantes para o êxito da estratégia. Um sistema de monitoria e avaliação deverá identificar e disseminar as experiências positivas assim como corrigir eventuais aspectos negativos constatados no processo de implementação da estratégia.
 
 xviii
 
@@ -478,13 +594,13 @@ A abordagem do ESG neste capítulo inicia-se com uma breve caracterização hist
 
 ### 2.1 O Desenvolvimento do Ensino Secundário Geral em Moçambique
 
-Após a Independência Nacional, em 1975, o nível de analfabetismo era de 93%. Com vista a acelerar os níveis de formação da população moçambicana, o Governo decidiu nacionalizar o ensino,  tendo,  a  Lei  nº4/83  determinado  a  escolarização  obrigatória  e  gratuita  do  ensino primário  de  7  classes 1 .  A  institucionalização  da  escolaridade  obrigatória  tinha  em  vista facultar,  a  todos  os  cidadãos,  a  oportunidade  de  frequentarem  o  ensino,  na  perspectiva  de aumentar  a  capacidade  do  capital  humano  e  reduzir  o  alto  índice  de  analfabetismo.  Esta medida surtiu impacto imediato, aumentando, de forma acelerada, o número de alunos em todos os níveis de ensino. Os programas de alfabetização e as campanhas de escolarização constituíram  estratégias  de  sucesso  que  levaram  ao  aumento  acentuado  do  número  de efectivos escolares. Estas medidas permitiram reduzir, em  todo o país, a taxa de analfabetismo de 93% 2 para 51,8% em 2006, fenómeno apurado pelo Conselho Coordenador do Recenseamento, População e Escolarização.
+Após a Independência Nacional, em 1975, o nível de analfabetismo era de 93%. Com vista a acelerar os níveis de formação da população moçambicana, o Governo decidiu nacionalizar o ensino, tendo, a Lei nº4/83 determinado a escolarização obrigatória e gratuita do ensino primário de 7 classes¹. A institucionalização da escolaridade obrigatória tinha em vista facultar, a todos os cidadãos, a oportunidade de frequentarem o ensino, na perspectiva de aumentar a capacidade do capital humano e reduzir o alto índice de analfabetismo. Esta medida surtiu impacto imediato, aumentando, de forma acelerada, o número de alunos em todos os níveis de ensino. Os programas de alfabetização e as campanhas de escolarização constituíram estratégias de sucesso que levaram ao aumento acentuado do número de efectivos escolares. Estas medidas permitiram reduzir, em todo o país, a taxa de analfabetismo de 93%² para 51,8% em 2006, fenómeno apurado pelo Conselho Coordenador do Recenseamento, População e Escolarização.
 
 O crescimento dos efectivos escolares, conjugado com o êxodo de uma porção significativa dos professores  portugueses,  no  período  pós  Independência,  obrigou  à  tomada  de  medidas com vista a acelerar a formação de professores nacionais para todos os níveis de ensino. Foi neste  contexto  que  em  1977  o  Governo  decidiu  orientar  os  graduados  da  9ª  classe,  assim como os alunos das 10 e 11ª classe, para o Centro 8 de Março, onde prosseguiriam os seus estudos  em  programas  considerados  prioritários  para  o  desenvolvimento  do  país,  entre  os quais, se destacavam os cursos de formação de professores.
 
-Em 1983 a  Assembleia  da  Republica  aprovou  a  lei  do  Sistema  Nacional  da  Educação.  O sistema de ensino foi reorganizado em 12 classes, 5 subsistemas (Educação Geral, Educação de Adultos, Educação Técnico-Profissional, Formação de Professores e Educação Superior) e 4 níveis, nomeadamente Primário, Secundário, Médio e Superior. O subsistema de Educação Geral foi estruturado em EP com a duração de 7 anos, dos quais 5 para o 1º grau e 2 para o 2º grau, ESG com a duração de 5 anos e subdivide-se em dois ciclos, dos quais o 1º ciclo (8ª à 10ª classes) e o 2º ciclo (11ª e 12ª classe). Foram igualmente introduzidos novos programas de ensino.
+Em 1983 a Assembleia da Republica aprovou a lei do Sistema Nacional da Educação. O sistema de ensino foi reorganizado em 12 classes, 5 subsistemas (Educação Geral, Educação de Adultos, Educação Técnico-Profissional, Formação de Professores e Educação Superior) e 4 níveis, nomeadamente Primário, Secundário, Médio e Superior. O subsistema de Educação
 
-> 1 Lei  nº  4/83,  'Aprova  a  Lei  do  Sistema  Nacional  de  Educação  e  define  os  princípios  fundamentais  da  sua aplicação.
+> 1 Lei nº 4/83, “Aprova a Lei do Sistema Nacional de Educação e define os princípios fundamentais da sua aplicação.
 
 > 2 Conselho Coordenador do Recenseamento, População e Escolarização, Análise Nacional, Volume 4, Tomo 1, pág. 2, 1982
 
@@ -494,7 +610,9 @@ Em 1983 a  Assembleia  da  Republica  aprovou  a  lei  do  Sistema  Nacional  da
 
 [[START OF PAGE 25]]
 
-De 1982 a 1986 a economia moçambicana degradou-se, progressivamente, como consequência  de  vários  factores,  entre  os  quais  se  destacam  a  guerra  e  as  calamidades naturais.  A  partir  de  1987  foram  introduzidas  algumas  alterações  importantes  à  economia nacional,  foi  autorizada  a  propriedade  privada  e  introduzidas  as  propinas  no  ensino.  Estas afectaram, sobretudo o ESG e Técnico Profissional, já que no EP existiam apenas as taxas de Acção  Social  Escolar.  Em  1990,  através  do  decreto  11/90,  de  1  de  Junho  de  1990  foi autorizado o exercício da actividade lectiva a título privado.
+Geral foi estruturado em EP com a duração de 7 anos, dos quais 5 para o 1º grau e 2 para o 2º grau, ESG com a duração de 5 anos e subdivide-se em dois ciclos, dos quais o 1º ciclo (8ª à 10ª classes) e o 2º ciclo (11ª e 12ª classe). Foram igualmente introduzidos novos programas de ensino.
+
+De 1982 a 1986 a economia moçambicana degradou-se, progressivamente, como consequência de vários factores, entre os quais se destacam a guerra e as calamidades naturais. A partir de 1987 foram introduzidas algumas alterações importantes à economia nacional, foi autorizada a propriedade privada e introduzidas as propinas no ensino. Estas afectaram, sobretudo o ESG e Técnico Profissional, já que no EP existiam apenas as taxas de Acção Social Escolar. Em 1990, através do decreto 11/90, de 1 de Junho de 1990 foi autorizado o exercício da actividade lectiva a título privado.
 
 Com a assinatura do Acordo Geral de Paz, em 1992, iniciou-se o processo de recuperação económica. A partir de então a economia moçambicana tem vindo a crescer a um ritmo de aproximadamente 7% ao ano. Esta recuperação é fruto da paz e das medidas macroeconómicas, que têm contribuído para acelerar o investimento nacional e estrangeiro no país.  Nesse  ano  foi  feita  uma  nova  revisão  à  lei  do  Sistema  Nacional  de  Educação  que resultou  na  Lei  nº6/92.  As  alterações  introduzidas  à  nova  Lei  do  SNE  não  afectaram  a estrutura da Educação Geral.
 
@@ -504,9 +622,9 @@ O sector da educação contribui de forma significativa para o crescimento do pa
 
 Vários estudos mostram uma correlação positiva entre o ensino pós primário, a formação do capital humano  e o desenvolvimento dos países. O  ensino secundário tem efeitos multiplicadores para o desenvolvimento socio-económico, combate à pobreza e melhoria das condições de vida dos cidadãos.
 
-Apesar dos progressos alcançados após a assinatura do Acordo Geral de Paz em 1992, o país continua  a  ser  afectado  pela  pobreza  que,  segundo  os  dados  do  PARPA,  atinge  parte considerável  da  população,  com  destaque  para  as  zonas  rurais.  Em  1997,  estimava-se  que 62% da população urbana e 71% da população rural eram assoladas pelos efeitos da pobreza absoluta. O relatório do Desenvolvimento Humano de 2001 colocava Moçambique como o sexto país com menor Índice de Desenvolvimento Humano (0.323, em 1999). 3
+Apesar dos progressos alcançados após a assinatura do Acordo Geral de Paz em 1992, o país continua a ser afectado pela pobreza que, segundo os dados do PARPA, atinge parte considerável da população, com destaque para as zonas rurais. Em 1997, estimava-se que 62% da população urbana e 71% da população rural eram assoladas pelos efeitos da pobreza absoluta. O relatório do Desenvolvimento Humano de 2001 colocava Moçambique como o sexto país com menor Índice de Desenvolvimento Humano (0.323, em 1999).³
 
-A situação da pobreza está a regredir gradualmente, graças ao desenvolvimento económico que  se  tem  observado  nos  últimos  anos.  Com  efeito,  em  2003,  54%  da  população moçambicana  vivia  abaixo  da  linha  da  pobreza,  sendo  que  desta  51,5%  vivia  nas  zonas urbanas  e  55,3%  nas  zonas  rurais,  de  acordo  com  o  Inquérito  Demográfico  de  Saúde realizado naquele ano.
+A situação da pobreza está a regredir gradualmente, graças ao desenvolvimento económico que se tem observado nos últimos anos. Com efeito, em 2003, 54% da população moçambicana vivia abaixo da linha da pobreza, sendo que desta 51,5% vivia nas zonas
 
 > 3 Relatório do Desenvolvimento Humano, 2001
 
@@ -515,12 +633,13 @@ A situação da pobreza está a regredir gradualmente, graças ao desenvolviment
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+urbanas e 55,3% nas zonas rurais, de acordo com o Inquérito Demográfico de Saúde realizado naquele ano.
 
 O Índice de Desenvolvimento Humano (IDH) tem vindo a melhorar, à semelhança de outros indicadores de pobreza. Segundo os dados de 2006, o país estava no 168º lugar em termos de IDH, tendo melhorado o seu posicionamento em mais três 3 lugares em relação a 2001.
 
 O Plano de Acção para a Redução da Pobreza Absoluta (PARPA II) contém vários cenários de redução da pobreza e estima que a mesma seja reduzida entre 10 e 15% até 2010. Para a concretização desta perspectiva, o PARPA  prevê  aumentar  os  investimentos  para o desenvolvimento  do  capital  humano,  sobretudo  na  Educação,  por  considerar  o  seu  efeito positivo na vida das pessoas e da sociedade em geral. De acordo com o PARPA, a previsão de recursos para a educação deverá manter-se na ordem dos 20% do Orçamento do Estado, incluindo o ensino  superior, elemento  que  vai  permitir que  a  educação  beneficie  o crescimento económico nacional.
 
-O UNICEF, no seu estudo sobre 'A Pobreza na Infância em Moçambique' demonstrou que nas famílias moçambicanas onde o chefe do agregado tem o ensino secundário ou superior concluído  existem  menores  taxas  de  desnutrição  e  mortalidade  infantil.  De  igual  forma  as crianças destes agregados familiares são menos propensas à privação de educação. O mesmo estudo  mostra  ainda  que  as  jovens  do  sexo  feminino  com  maior  escolaridade  têm  uma tendência a atrasar o  início  da actividade sexual  e  a  melhorar  a  prevenção  das  doenças  de transmissão sexual, reduzindo os riscos de contágio pelo HIV em comparação com as jovens menos  escolarizadas.  Por  este  motivo,  o  investimento  no  ensino  secundário  é  de  grande importância no combate aos efeitos da pobreza e para a melhoria da qualidade de vida das pessoas e da sociedade.
+O UNICEF, no seu estudo sobre “A Pobreza na Infância em Moçambique” demonstrou que nas famílias moçambicanas onde o chefe do agregado tem o ensino secundário ou superior concluído existem menores taxas de desnutrição e mortalidade infantil. De igual forma as crianças destes agregados familiares são menos propensas à privação de educação. O mesmo estudo mostra ainda que as jovens do sexo feminino com maior escolaridade têm uma tendência a atrasar o início da actividade sexual e a melhorar a prevenção das doenças de transmissão sexual, reduzindo os riscos de contágio pelo HIV em comparação com as jovens menos escolarizadas. Por este motivo, o investimento no ensino secundário é de grande importância no combate aos efeitos da pobreza e para a melhoria da qualidade de vida das pessoas e da sociedade.
 
 ### 2.3 O Ensino Secundário Geral e integração internacional
 
@@ -536,7 +655,7 @@ O Protocolo da Educação da Comunidade de Desenvolvimento da África Austral (S
 
 A nível global, a UNESCO definiu que se deverão reestruturar os sistemas de educação de modo a torná-los mais flexíveis, integrando as habilidades e valores necessários para a vida e para inserção laboral dos  jovens, reforçando  as  componentes  práticas  e  vocacionais, educando os adolescentes para adoptarem comportamentos responsáveis face à pandemia do HIV-SIDA. A acção das direcções de escolas, dos professores e de outros actores do processo de ensino e aprendizagem, neste nível de ensino, será fundamental para que estes objectivos sejam  alcançados.  Por  isso,  torna-se  necessário,  por  um  lado,  dar  estabilidade  aos  corpos directivos  das  instituições  de  ensino  e  assegurar  a  sua  capacitação  permanente  e  por  outro formar continuamente os professores com vista a promover nos jovens valores e competências essenciais para a vida numa sociedade cada vez mais globalizada.
 
-A reforma do currículo do ESG, ora em curso, tem em vista a profissionalização do currículo, que  será  feita  através  da  introdução  de  disciplinas  profissionalizantes  e  de  módulos  de formação  profissional  de  curta  duração,  da  abordagem  integrada  do  processo  de  ensino  e aprendizagem, da integração  de  conteúdos  de  interesse  local  e  das  línguas  moçambicanas, para além dos temas transversais e actividades co-curriculares.4
+A reforma do currículo do ESG, ora em curso, tem em vista a profissionalização do currículo, que será feita através da introdução de disciplinas profissionalizantes e de módulos de formação profissional de curta duração, da abordagem integrada do processo de ensino e aprendizagem, da integração de conteúdos de interesse local e das línguas moçambicanas, para além dos temas transversais e actividades co-curriculares.⁴
 
 Deste  modo,  o  sistema  educativo  deverá  desenvolver  esforços  que  visam  aprimorar  o currículo do ESG, privilegiando o desenvolvimento de competências e habilidades práticas que permitam a inserção do graduado num mercado de trabalho globalizado e competitivo.
 
@@ -562,13 +681,15 @@ Os  graduados  do  segundo  ciclo  do  ensino  geral  deverão  consolidar  e  d
 
 Um ensino  de  qualidade  pressupõe  a  redução  das  desistências  e  das  reprovações  e  o aumento  da  eficiência  na  utilização  dos  recursos  da  Educação.  O  Governo  pretende aumentar os níveis de graduação em todos os níveis de ensino geral. Actualmente, de cada 1000 alunos que entram no sistema, apenas 653 terminam o EP2, 336 completam o ESG1 e 216 concluem o ESG2 o que mostra um sistema extremamente ineficiente. O PEEC  indica  a  necessidade  de  se  reduzirem  as  taxas  de  reprovação  e  desistência  de modo a aumentar os níveis de graduação. O objectivo da Estratégia do ESG é de reduzir o desperdício escolar até 2011. Assim, de cada 1000 alunos que ingressem na 1ª classe, 735 alunos deverão completar o EP2, 630 terminar o ESG1 e 570 concluir o ESG2, mais do  que  duplicando  a  conclusão  neste  último  nível,  em  relação  a  2007.  As  taxas  de reprovação  e  desistência  deverão  manter-se  em  cerca  de  5%  em  todos  os  níveis  de ensino.
 
-Para assegurar o desenvolvimento de um ensino de qualidade será importante o envolvimento de todos os intervenientes. As direcções das escolas e os professores terão a responsabilidade de  preparar  um  ambiente  seguro  e  saudável  para  os  alunos.  Os  professores  deverão desenvolver  com  profissionalismo  as  suas  actividades  de  ensino  e  propor  trabalho  de  casa para os alunos, por forma a aumentar o seu tempo de trabalho. Além disto, deverão assegurar um acompanhamento sistemático  da  situação  de  cada  aluno.  Para  que  isto  seja  possível  é necessário que o número de alunos por turma não seja excessivamente elevado.
+Para assegurar o desenvolvimento de um ensino de qualidade será importante o envolvimento de todos os intervenientes. As direcções das escolas e os professores terão a responsabilidade
 
 9
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+
+de preparar um ambiente seguro e saudável para os alunos. Os professores deverão desenvolver com profissionalismo as suas actividades de ensino e propor trabalho de casa para os alunos, por forma a aumentar o seu tempo de trabalho. Além disto, deverão assegurar um acompanhamento sistemático da situação de cada aluno. Para que isto seja possível é necessário que o número de alunos por turma não seja excessivamente elevado.
 
 Os pais e encarregados de educação deverão assegurar que os seus educandos empreguem mais tempo para as actividades académicas, apoiando-os e acompanhando-os permanentemente. Os alunos deverão cumprir com os seus deveres escolares tanto no período de aulas como fora deste. Este mecanismo de articulação entre a escola e as famílias permitirá aumentar a eficiência e reduzir o desperdício escolar. A participação das famílias no processo de ensino é fundamental para o alcance dos objectivos programados no ensino secundário.
 
@@ -616,9 +737,9 @@ Nesta secção é analisada a problemática do acesso, nas vertentes do crescime
 
 ##### 2.6.1.1 O crescimento e a conclusão do Ensino Primário
 
-Na sequência da introdução do currículo do EP em 2004 que, entre outras estratégias, inclui a progressão  por  ciclos  de  aprendizagem,  o  fluxo  de  alunos  no  Ensino  Primário  melhorou consideravelmente,  afectando  positivamente  as  graduações  deste  nível  de  ensino.  Como consequência, a procura pelo ESG1 tem vindo a crescer de forma acentuada. O gráfico abaixo mostra que em 2006 o sistema graduou mais de 170 mil alunos no EP. Contudo, a taxa de conclusão 5 no Ensino Primário do 2º Grau (EP2) manteve-se em cerca 35%.
+Na sequência da introdução do currículo do EP em 2004 que, entre outras estratégias, inclui a progressão por ciclos de aprendizagem, o fluxo de alunos no Ensino Primário melhorou consideravelmente, afectando positivamente as graduações deste nível de ensino. Como consequência, a procura pelo ESG1 tem vindo a crescer de forma acentuada. O gráfico abaixo mostra que em 2006 o sistema graduou mais de 170 mil alunos no EP. Contudo, a taxa de conclusão⁵ no Ensino Primário do 2º Grau (EP2) manteve-se em cerca 35%.
 
-Gráfico 1 . Evolução do número de graduados e da taxa de conclusão na 7ª classe, 1997/2006
+Gráfico 1. Evolução do número de graduados e da taxa de conclusão na 7ª classe, 1997/2006
 
 0
 
@@ -818,7 +939,7 @@ De acordo com o gráfico 3, as taxas médias de conclusão no ESG têm estado a 
 
 A taxa de conclusão no ESG1 aumentou de 2,6% em 2000 para se situar acima dos 8,5% em 2006.  O  mesmo  fenómeno  está  acontecendo  com  as  taxas  de  conclusão  do  ESG2  que atingiram os 2% em 2006. Isto significa que em 2006 foi apurado um total correspondente a 41,3 mil graduados do ESG1 e 8,9 mil alunos do ESG2, cifras que o sistema, de momento, não tem capacidade de acomodar nos níveis subsequentes.
 
-Gráfico 4 : Evolução das taxas brutas de conclusão por nível de ensino
+Gráfico 4: Evolução das taxas brutas de conclusão por nível de ensino
 
 0,0
 
@@ -880,9 +1001,11 @@ Assim, urge corrigir estas disparidades por forma a equilibrar o desenvolvimento
 
 [[START OF PAGE 34]]
 
-Província | ESG1 | ESG2
+Tabela 1: Taxas de conclusão por sexo e nível de ensino, 2006
+
+Província | ESG1 |  |  | ESG2 |  |
 --- | --- | --- | --- | --- | --- | ---
-H | M | HM | H | M | HM
+ | H | M | HM | H | M | HM
 Cabo Delgado | 9,4 | 4,1 | 6,7 | 1,6 | 0,5 | 1,1
 Gaza | 8,2 | 8,0 | 8,1 | 2,3 | 1,5 | 1,9
 Inhambane | 12,2 | 7,8 | 9,9 | 2,7 | 1,4 | 2,1
@@ -896,9 +1019,7 @@ Zambézia | 7,3 | 2,6 | 4,9 | 1,3 | 0,6 | 1,0
 Cidade de Maputo | 38,9 | 42,1 | 40,5 | 10,4 | 11,2 | 10,8
 Total | 10,5 | 6,6 | 8,5 | 2,3 | 1,5 | 1,9
 
-Tabela 1 : Taxas de conclusão por sexo e nível de ensino, 2006
-
-M - Mulheres; HM - Homens e Mulheres
+M – Mulheres; HM – Homens e Mulheres
 
 Fonte: MEC
 
@@ -914,7 +1035,7 @@ O número de graduados do primeiro ciclo do ensino secundário público foi de c
 
 [[START OF PAGE 35]]
 
-Gráfico 5 : Graduados da 10ª classe do curso diurno, por província e sexo em 2006 - Ensino público
+Gráfico 5: Graduados da 10ª classe do curso diurno, por província e sexo em 2006 – Ensino público
 
 0
 
@@ -1006,15 +1127,15 @@ Ao longo do período da implementação da Estratégia o MEC deverá consolidar 
 
 [[START OF PAGE 37]]
 
-Ano | ESG1 | ESG2
+Tabela 2: Evolução da proporção de efectivos escolares por tipo de ensino
+
+Ano | ESG1 |  |  | ESG2 |  |
 --- | --- | --- | --- | --- | --- | ---
 Lectivo | Comunitário | Privado | Público | Comunitário | Privado | Público
 2004 | 11,9 | 3,3 | 84,8 | 20,4 | 4,3 | 75,3
 2005 | 12,4 | 2,8 | 84,8 | 17,4 | 3,2 | 79,4
 2006 | 10,4 | 3,1 | 86,4 | 15,2 | 4,3 | 80,6
 2007 | 9,8 | 2,9 | 87,3 | 13,7 | 4,1 | 82,2
-
-Tabela 2 : Evolução da proporção de efectivos escolares por tipo de ensino
 
 Fonte: MEC
 
@@ -1036,7 +1157,7 @@ A raiz deste fenómeno prende-se com a insuficiência de espaços educativos par
 
 ##### 2.6.2.1 Professores no ESG
 
-Face ao crescimento rápido dos efectivos escolares aliado à fraca capacidade de formação de professores,  o  sector  vê-se,  em  algumas  situações,  obrigado  à  contratar  professores  sem formação apropriada para leccionarem, sobretudo no ESG1 público. Por esta razão, este nível de  ensino  tinha,  em  2007,  cerca  de  46,6%,  em  média,  de  professores  sem  formação apropriada. Por província, a situação é mais crítica na Zambézia, onde 70,3% dos professores do  ESG1  não  têm  formação  adequada,  contrariamente  à  Cidade  de  Maputo  com  uma proporção  de  17,8%.  No  ESG2  cerca  de  16%  dos  professores  do  ensino  público  não  têm formação.
+Face ao crescimento rápido dos efectivos escolares aliado à fraca capacidade de formação de professores, o sector vê-se, em algumas situações, obrigado à contratar professores sem formação apropriada para leccionarem, sobretudo no ESG1 público. Por esta razão, este nível
 
 18
 
@@ -1044,7 +1165,9 @@ Face ao crescimento rápido dos efectivos escolares aliado à fraca capacidade d
 
 [[START OF PAGE 38]]
 
-Gráfico 6 : Proporção de professores do ESG1 sem formação por província
+de ensino tinha, em 2007, cerca de 46,6%, em média, de professores sem formação apropriada. Por província, a situação é mais crítica na Zambézia, onde 70,3% dos professores do ESG1 não têm formação adequada, contrariamente à Cidade de Maputo com uma proporção de 17,8%. No ESG2 cerca de 16% dos professores do ensino público não têm formação.
+
+Gráfico 6: Proporção de professores do ESG1 sem formação por província
 
 53,0
 
@@ -1130,7 +1253,7 @@ Este crescimento, significa também, que a oferta escolar que o sistema educativ
 
 [[START OF PAGE 39]]
 
-Gráfico 7 : Evolução do rácio alunos por turma e nível de ensino no ESG
+Gráfico 7: Evolução do rácio alunos por turma e nível de ensino no ESG
 
 0
 
@@ -1192,9 +1315,9 @@ Para melhor compreensão deste indicador, é importante referir que no EP1, por 
 
 No EP2 e ESG, onde a organização do processo de ensino e aprendizagem é feita por horas lectivas e por disciplina, a relação turma por professor assume um comportamento diferente, não podendo, portanto, ser de 1:1.
 
-No ESG1 os professores leccionam 24 tempos lectivos 6 por semana e no ESG2 leccionam 20 tempos lectivos, contra os 30 tempos lectivos de aulas por semana que cada turma tem. Neste sentido, a relação ideal de professores por turma no ESG1 deve ser de 30/24, ou seja 1,25 professores por turma e, no ESG2, 30/20, ou seja, 1,5 professores para cada turma.
+No ESG1 os professores leccionam 24 tempos lectivos⁶ por semana e no ESG2 leccionam 20 tempos lectivos, contra os 30 tempos lectivos de aulas por semana que cada turma tem. Neste sentido, a relação ideal de professores por turma no ESG1 deve ser de 30/24, ou seja 1,25 professores por turma e, no ESG2, 30/20, ou seja, 1,5 professores para cada turma.
 
-No  ESG1  a  média  nacional  situa-se  em  pouco  menos  de  1,3  professores  por  turma  e  no ESG2, pouco menos de 1,6 professores por cada turma. Porém, esta situação não reflecte as disparidades existentes no país, pois no ESG os professores leccionam por disciplina e, em certas  províncias  verificam-se  faltas  de  professores,  sobretudo  para  as  áreas  de  Ciências Naturais  e  Desenho.  Há  registos  de  províncias  que  têm  professores  com  cargas  horárias excessivas, ultrapassando o permitido pelo regulamento. Os professores nestas condições não podem receber a remuneração de todas as horas extras leccionadas, o que contribui para a sua desmotivação.  Pelo  contrário,  ao  nível  dos  grandes  centros  urbanos,  existem  casos  de professores que não completam as cargas horárias.
+No ESG1 a média nacional situa-se em pouco menos de 1,3 professores por turma e no ESG2, pouco menos de 1,6 professores por cada turma. Porém, esta situação não reflecte as disparidades existentes no país, pois no ESG os professores leccionam por disciplina e, em certas províncias verificam-se faltas de professores, sobretudo para as áreas de Ciências Naturais e Desenho. Há registos de províncias que têm professores com cargas horárias excessivas, ultrapassando o permitido pelo regulamento. Os professores nestas condições não podem receber a remuneração de todas as horas extras leccionadas, o que contribui para a sua
 
 > 6 Um tempo lectivo equivale a 45 minutos.
 
@@ -1204,7 +1327,9 @@ No  ESG1  a  média  nacional  situa-se  em  pouco  menos  de  1,3  professores 
 
 [[START OF PAGE 40]]
 
-Gráfico 8 : Evolução do rácio professor por turma e nível de ensino no ESG
+desmotivação. Pelo contrário, ao nível dos grandes centros urbanos, existem casos de professores que não completam as cargas horárias.
+
+Gráfico 8: Evolução do rácio professor por turma e nível de ensino no ESG
 
 0,0
 
@@ -1276,7 +1401,7 @@ Conforme o gráfico 9, o comportamento da proporção de professores com formaç
 
 [[START OF PAGE 41]]
 
-Gráfico 9 : Evolução da proporção de professores com formação pedagógica 7
+Gráfico 9: Evolução da proporção de professores com formação pedagógica⁷
 
 0,0
 
@@ -1358,11 +1483,11 @@ Decorrem, em várias universidades do país, cursos de formação de professores
 
 ##### 2.6.2.4 Tempo lectivo
 
-O Fast Track Iniciative (FTI) 8 , assim como o PEEC, identificaram a insuficiência do tempo lectivo  como  um  dos  principais  constrangimentos  para  se  atingir  a  qualidade  de  ensino desejada, sobretudo no Ensino Primário, apesar do mesmo fenómeno também se verificar no ensino secundário. O tempo lectivo tem um efeito importante na interacção entre os alunos e os professores e permite que os professores possam cumprir integralmente os programas de ensino,  desenvolver  actividades  práticas  e  outras,  com  vista  a  elevar  a  qualidade  da aprendizagem na escola.
+O Fast Track Iniciative (FTI)⁸, assim como o PEEC, identificaram a insuficiência do tempo lectivo como um dos principais constrangimentos para se atingir a qualidade de ensino desejada, sobretudo no Ensino Primário, apesar do mesmo fenómeno também se verificar no ensino secundário. O tempo lectivo tem um efeito importante na interacção entre os alunos e os professores e permite que os professores possam cumprir integralmente os programas de ensino, desenvolver actividades práticas e outras, com vista a elevar a qualidade da aprendizagem na escola.
 
 O tempo lectivo nas escolas moçambicanas depende de dois elementos essenciais. Por um lado, do calendário escolar, que varia de ano para ano e do sistema de avaliação, sobretudo no que diz respeito aos exames e ao período de matrículas, que consomem cerca de 3 meses. O calendário escolar de 2007 era de 33 semanas para as classes com exames e 35 semanas para as classes sem exames. Por outro lado, o período de aulas é de 4,5 horas diárias, ou seja, 6 tempos  lectivos  de  45  minutos  cada,  nos  cursos  diurnos.  Os cursos  nocturnos  têm, diariamente, um tempo lectivo a menos, devendo cumprir com o mesmo programa de ensino, o que agrava a sua situação.
 
-O tempo lectivo em Moçambique é reduzido, quando comparado com os países da região. Pesquisas mostram que o tempo médio varia entre 39 a 40 semanas lectivas por ano com 5 a 6 horas por dia. Comparando estes dados com os outros países, sobretudo ao nível da SADC, constata-se que o número de horas lectivas anuais, incluindo o tempo para os exames, varia entre 950 e 1025, sendo a norma aproximadamente igual a 970 9 . Esta média é equivalente a 39 semanas de aulas com 25 horas semanais (5 horas por dia). No caso de Moçambique, o tempo  lectivo  situa-se  entre  619  horas  no  curso  nocturno  e  780  horas  por  ano  no  curso diurno 10 .
+O tempo lectivo em Moçambique é reduzido, quando comparado com os países da região. Pesquisas mostram que o tempo médio varia entre 39 a 40 semanas lectivas por ano com 5 a 6 horas por dia. Comparando estes dados com os outros países, sobretudo ao nível da SADC, constata-se que o número de horas lectivas anuais, incluindo o tempo para os exames, varia entre 950 e 1025, sendo a norma aproximadamente igual a 970⁹. Esta média é equivalente a 39 semanas de aulas com 25 horas semanais (5 horas por dia). No caso de Moçambique, o tempo lectivo situa-se entre 619 horas no curso nocturno e 780 horas por ano no curso diurno¹⁰.
 
 Considerando este quadro, torna-se evidente que o número de aulas deve ser incrementado, criando condições que permitam maior interacção entre o professor e o aluno para o alcance dos resultados previstos no currículo. Esta medida vai exigir a introdução de alterações no calendário escolar, concretizando, desta forma, um dos objectivos traçados no PEEC.
 
@@ -1388,7 +1513,7 @@ No entanto, no ESG não há livros aprovados e a política sobre esta matéria p
 
 Verifica-se que a maior parte dos alunos do ESG não dispõem de livros e de outros materiais de ensino, mesmo em escolas da Cidade de Maputo. A situação dos livros é mais crítica nas províncias  e  nos  distritos,  pois  as  famílias  não  dispõem  de  fundos  para  os  adquirir.  Nas cidades,  grande  parte  das  escolas  dispõem  de  bibliotecas  escolares  que  lhes  permitem conservar  algum  material  para  consulta,  facto  que  não  acontece  nos  distritos,  em  virtude destas enfrentarem mais dificuldades para obter e conservar o referido material.
 
-À semelhança do que acontece com os livros, os materiais e equipamentos para laboratórios são insuficientes. As escolas das cidades foram construídas com salas para laboratórios. Os laboratórios exigem, para o seu funcionamento, a instalação de água, gás ou energia eléctrica que nem sempre está disponível nas regiões distantes dos centros urbanos. A sua manutenção é onerosa e muitas escolas não conseguem utilizar estes espaços para os fins para que foram construídos.  Por  este  motivo,  os  alunos  não  realizam  as  actividades  práticas  exigidas  pelas disciplinas  de  Ciências  Naturais,  constatação  feita  através  do  estudo  realizado  pelo  então Ministério do Ensino Superior, Ciência e Tecnologia (MESCT), que indica a existência de 'uma fraca cultura de ciência e tecnologia nas escolas secundárias' 11 .
+À semelhança do que acontece com os livros, os materiais e equipamentos para laboratórios são insuficientes. As escolas das cidades foram construídas com salas para laboratórios. Os laboratórios exigem, para o seu funcionamento, a instalação de água, gás ou energia eléctrica que nem sempre está disponível nas regiões distantes dos centros urbanos. A sua manutenção é onerosa e muitas escolas não conseguem utilizar estes espaços para os fins para que foram construídos. Por este motivo, os alunos não realizam as actividades práticas exigidas pelas disciplinas de Ciências Naturais, constatação feita através do estudo realizado pelo então Ministério do Ensino Superior, Ciência e Tecnologia (MESCT), que indica a existência de “uma fraca cultura de ciência e tecnologia nas escolas secundárias”¹¹.
 
 A Estratégia para a solução destes problemas exige alternativas inovadoras que vão desde a formação  dos  professores  até  à  colocação  de  livros  e  manuais  escolares,  materiais  e equipamentos de laboratório menos onerosos, partilha de custos e ainda um currículo e uma gestão escolar flexíveis.
 
@@ -1406,7 +1531,7 @@ No ESG1 público, as taxas de reprovação (26,8%) e de desistência (5,3%) ultr
 
 Em 2006,  o  ESG  público,  diurno  e  nocturno,  registaram  elevadas  taxas  de  repetição,  que variaram entre  os  19%  e  8%,  no  ESG1  e  ESG2,  respectivamente.  As  taxas  de  reprovação contribuem  para  o  aumento  das  desistências,  enquanto  que  as  de  repetição  reduzem  a capacidade de aumentar a oferta de lugares para novos ingressos. De um modo geral, quer a desistência,  quer  a  repetência  encarecem  os  custos  unitários  por  aluno  graduado,  pois  não contribuem para a maximização dos recursos financeiros alocados para o funcionamento do sistema educativo.
 
-Este  desperdício  escolar  é  consequência  de  vários  factores  entre  os  quais  se  destacam  o currículo,  o  sistema  de  avaliação,  a  insuficiência  de  professores  com  formação  psicopedagógica, métodos de ensino expositivos, a falta de materiais de ensino, que aliados a uma fraca supervisão e apoio pedagógico tornam este nível de ensino ineficiente.
+Este desperdício escolar é consequência de vários factores entre os quais se destacam o currículo, o sistema de avaliação, a insuficiência de professores com formação psico-pedagógica, métodos de ensino expositivos, a falta de materiais de ensino, que aliados a uma fraca supervisão e apoio pedagógico tornam este nível de ensino ineficiente.
 
 #### 2.6.3 Capacidade Institucional
 
@@ -1434,7 +1559,7 @@ A  problemática  das  disparidades  de  género  e  de  saúde  escolar  no  ES
 
 As disparidades de género no ESG são ainda elevadas, favorecendo uma maior frequência escolar  dos  rapazes  comparativamente  às  raparigas.  Nas  províncias  de  Maputo,  Gaza  e Maputo  cidade,  a  proporção  de  raparigas,  no  ESG1,  é  superior  a  50%,  enquanto  que  nas províncias do centro e norte a proporção das raparigas é inferior à dos rapazes, ou seja, as oportunidades de frequência e retenção escolar favorecem os rapazes. Contudo, no ESG1, em média, a proporção de raparigas passou de 41% em 2004, para 43,3% em 2007.
 
-Gráfico 10 : Evolução da proporção de raparigas no ESG1, 2004/2007
+Gráfico 10: Evolução da proporção de raparigas no ESG1, 2004/2007
 
 0
 
@@ -1492,7 +1617,7 @@ A proporção de professoras é igualmente baixa, apesar de manifestar uma tend�
 
 [[START OF PAGE 46]]
 
-Gráfico 11 : Evolução da proporção de raparigas no ESG2, 2004/2007
+Gráfico 11: Evolução da proporção de raparigas no ESG2, 2004/2007
 
 0
 
@@ -1566,13 +1691,13 @@ Os professores também correm grandes riscos de serem afectados. Estimativas do 
 
 O ensino secundário é financiado por duas fontes fundamentais: o Estado e os encarregados de educação. O Estado participa com a maior parte do financiamento para o ensino público (salários dos professores, e outras despesas correntes), custeando ainda as despesas salariais em  algumas  escolas  comunitárias  sem  fins  lucrativos.  Os  encarregados  de  educação financiam, através das propinas, parte das despesas das escolas públicas e comunitárias assim como o total  das  despesas  das  escolas  privadas.  Nas  escolas  públicas  as  contribuições  dos pais servem para o pagamento de eventuais trabalhadores (guardas, outro pessoal auxiliar), energia e água.
 
-Embora exista o regulamento de propinas, o mesmo encontra-se desactualizado e, portanto é pouco utilizado.  As taxas  de  matrícula e  de  propinas  são acordadas  entre  os Conselhos  de Escolas e as respectivas direcções para posterior aprovação pelas DPEC's. As contribuições variam entre 100 a 350 Mt por ano, consoante o nível, o turno e a localização da escola.
+Embora exista o regulamento de propinas, o mesmo encontra-se desactualizado e, portanto é pouco utilizado. As taxas de matrícula e de propinas são acordadas entre os Conselhos de Escolas e as respectivas direcções para posterior aprovação pelas DPEC’s. As contribuições variam entre 100 a 350 Mt por ano, consoante o nível, o turno e a localização da escola.
 
 Nas escolas comunitárias e privadas estes valores são mais elevados chegando a atingir cerca de  45.500,00  Mt  por  ano  (1820,00  USD).  Estes  valores  são  pagos  pelos  pais  e  financiam todos os custos operacionais das mesmas.
 
 O custo  corrente  anual  por  aluno  nas  escolas  secundárias  públicas  varia  de  acordo  com  a qualificação  dos  professores  e  o  tamanho  das  turmas,  sendo  que  os  encargos  salariais representam a maior proporção das despesas do Estado.
 
-O  custo  corrente  unitário  por  aluno/ano  do  ESG1  nas  escolas  públicas  está  estimado  em 2.000,00 Mt e no ESG2 4.600,00 Mt. No ESG1 os custos salariais representam cerca de 72% do total da despesa e no ESG2 são de 60%. Estes custos foram estimados, na base do modelo de simulação, considerando uma certa proporção de professores por tipo de formação 12 ,  as demais  despesas  administrativas  e  de  funcionamento  (energia,  água).  Nestes  cálculos  não foram incluídas as contribuições dos pais devido à insuficiência de informação.
+O custo corrente unitário por aluno/ano do ESG1 nas escolas públicas está estimado em 2.000,00 Mt e no ESG2 4.600,00 Mt. No ESG1 os custos salariais representam cerca de 72% do total da despesa e no ESG2 são de 60%. Estes custos foram estimados, na base do modelo de simulação, considerando uma certa proporção de professores por tipo de formação¹², as demais despesas administrativas e de funcionamento (energia, água). Nestes cálculos não foram incluídas as contribuições dos pais devido à insuficiência de informação.
 
 Normalmente, as escolas funcionam com os dois níveis de ensino, o que torna complexa a separação  de  custos  pelo  ESG1  e  ESG2.  É  ainda  importante  salientar  que  neste  momento algumas  despesas  do  ensino  secundário,  como  livros  e  materiais  para  laboratório,  não  são suportadas pelo Estado de uma maneira sistemática.
 
@@ -1580,7 +1705,7 @@ O internamento é também financiado pelo Estado, sobretudo no que se refere ao 
 
 Para além da contribuição do Estado e das famílias no funcionamento das escolas públicas tem havido, embora em pequena escala, iniciativas locais de cooperação entre as escolas e o empresariado  local,  resultando  desta  a  intervenção  na  manutenção,  aquisição  de  bens  e equipamentos para as escolas secundárias. As escolas públicas também obtêm fundos através do aluguer de centros sociais e outras instalações a privados. Finalmente, tem havido acções de  gemelagem  entre  escolas  moçambicanas  e  escolas  fora  do  país  que  têm  resultado  na concessão de apoios para as primeiras.
 
-> 12 Segundo o modelo de simulação, em 2006, o ESG1 tinha 80% de professores de nível médio ou inferior, 8% de professores bachareis e 12% de licenciados, enquanto que no ESG2 41% dos professores eram de nível médio, 15% bachareis e 44% eram licenciados .
+> 12 Segundo o modelo de simulação, em 2006, o ESG1 tinha 80% de professores de nível médio ou inferior, 8% de professores bachareis e 12% de licenciados, enquanto que no ESG2 41% dos professores eram de nível médio, 15% bachareis e 44% eram licenciados.
 
 28
 
@@ -1644,9 +1769,9 @@ No  sentido  de  se  alcançarem  as  metas  definidas  o  Governo  deverá  con
 
 O alcance das metas depende:
 
--Das condições de evolução dos novos ingressos na primeira classe
+- Das condições de evolução dos novos ingressos na primeira classe
 
--Da  eficácia  interna  do  Ensino  Primário  (reprovação,  repetição,  desistência)  e  da taxa de transição entre o EP1 e EP2.
+- Da eficácia interna do Ensino Primário (reprovação, repetição, desistência) e da taxa de transição entre o EP1 e EP2.
 
 Assumindo que (i) a taxa bruta de escolarização no EP1 vai reduzir dos actuais 169% em 2007 para os 100% em 2011, (ii) que haverá melhorias no aproveitamento escolar e que as taxas de aprovação definidas no PEEC II atingirão efectivamente os 90% no EP, o total de alunos  matriculados  na  7ª  classe  poderá  alcançar  os  520  mil  ou  670  mil,  caso  as  taxas atinjam os 95%. Isto significará duplicar, em 2011, o número de alunos matriculados na 7ª classe em 2007 (307 mil alunos).
 
@@ -1680,18 +1805,18 @@ No âmbito da constituição das turmas, os alunos mais novos, sempre que possí
 
 A  redução  do  desperdício  escolar  terá  um  impacto  positivo  no  funcionamento  do  sistema educativo  porque  vai  promover  um  maior  fluxo  de  alunos  entre  as  diferentes  classes  e permitir que mais graduados do EP2 tenham acesso ao ESG1. Para assegurar a redução do desperdício escolar, o aluno só pode reprovar uma vez em cada ciclo do ESG. Esta medida visa melhorar o desempenho escolar dos alunos e responsabilizar os pais e ou encarregados de educação no acompanhamento dos seus educandos.
 
-A  tabela  3,  abaixo  mostra  o  número  de  alunos  a  matricular  anualmente  em  cada  um  dos níveis de ensino.
+A tabela 3, abaixo mostra o número de alunos a matricular anualmente em cada um dos níveis de ensino.
+
+Tabela 3: Número de alunos previsto no ESG1 e ESG2 entre 2009-2015
 
 Descrição | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | ---
-ESG1 Público | 722.46 9 | 805.89 1 | 898.006 | 954.121 | 1.032.67 4 | 1.065.48 4 | 1.069.23 8
-ESG1 Privado | 103.93 8 | 119.94 1 | 137.945 | 150.519 | 167.300 | 176.823 | 181.723
-Total ESG1 | 826.40 7 | 925.83 2 | 1.035.95 1 | 1.104.64 0 | 1.199.97 4 | 1.242.30 7 | 1.250.96 1
-ESG2 Público | 161.11 0 | 212.91 6 | 266.327 | 307.467 | 340.275 | 369.888 | 387.382
+ESG1 Público | 722.469 | 805.891 | 898.006 | 954.121 | 1.032.674 | 1.065.484 | 1.069.238
+ESG1 Privado | 103.938 | 119.941 | 137.945 | 150.519 | 167.300 | 176.823 | 181.723
+Total ESG1 | 826.407 | 925.832 | 1.035.951 | 1.104.640 | 1.199.974 | 1.242.307 | 1.250.961
+ESG2 Público | 161.110 | 212.916 | 266.327 | 307.467 | 340.275 | 369.888 | 387.382
 ESG2 Privado | 30.056 | 40.585 | 51.495 | 59.982 | 66.910 | 73.225 | 77.102
-Total ESG2 | 191.16 6 | 253.50 1 | 317.822 | 367.449 | 407.185 | 443.113 | 464.484
-
-Tabela 3: Número de alunos previsto no ESG1 e ESG2 entre 2009-2015
+Total ESG2 | 191.166 | 253.501 | 317.822 | 367.449 | 407.185 | 443.113 | 464.484
 
 #### 3.1.2 Transição do Ensino Primário para o Ensino Secundário Geral
 
@@ -1713,7 +1838,7 @@ A abertura de novas escolas secundárias deverá obedecer a certos mecanismos e 
 
 - A construção de novas salas de aula em escolas do EPC será uma das formas para a expansão  do  ESG1,  devendo,  para  o  efeito,  serem  criadas  condições  para  o funcionamento  deste  nível  de  ensino,  nomeadamente  a  formação  de  professores, materiais escolares e criação de condições infra-estruturais.
 
-- Tendo em conta a possível redução do número de alunos do Ensino Primário, (prevêse a redução das taxas brutas de escolarização dos actuais 169% para os 100% em 2011), algumas escolas do EPC poderão albergar o ESG.
+- Tendo em conta a possível redução do número de alunos do Ensino Primário, (prevê-se a redução das taxas brutas de escolarização dos actuais 169% para os 100% em 2011), algumas escolas do EPC poderão albergar o ESG.
 
 A construção  de  novas  salas  de  aula  em  Escolas  Primárias  Completas  (EPC)  deverá  ser  a principal estratégia para a expansão da rede escolar do ESG, pois vai permitir a evolução das EPC para posterior integração do ESG1. A expansão do programa de construções escolares no ensino secundário vai garantir a:
 
@@ -1749,7 +1874,7 @@ Durante o período da implementação da estratégia o Governo vai concentrar-se
 
 #### 3.1.4 Definição de modelos de escolas secundárias e construção escolar
 
-A necessidade de uma rápida expansão do ensino secundário exige a construção acelerada e a custos  sustentáveis  de  escolas  pequenas  e  junto  das  comunidades,  com  vista  a  reduzir  as distâncias entre o domicílio e a escola. Entende-se por escolas pequenas aqueles que tem 10 a 12 salas de aulas, o que corresponde entre 500 a 1500 alunos. Escolas com estas dimensões permitem uma melhor gestão pedagógica e administrativa, condições importantes para elevar a qualidade e a eficiência do ensino.
+A necessidade de uma rápida expansão do ensino secundário exige a construção acelerada e a custos sustentáveis de escolas pequenas e junto das comunidades, com vista a reduzir as distâncias entre o domicílio e a escola. Entende-se por escolas pequenas aqueles que tem 10 a 12 salas de aulas, o que corresponde entre 500 a 1500 alunos. Escolas com estas dimensões
 
 > 13 A  introdução  de  um  custo  por  sala  permite  calcular  o  custo  total  dos  investimentos  necessários  para  a expansão do Ensino secundário, tendo em conta as metas estabelecidas para os novos ingressos no ESG1 e os parâmetros de qualidade definidos pela estratégia
 
@@ -1759,7 +1884,9 @@ A necessidade de uma rápida expansão do ensino secundário exige a construçã
 
 [[START OF PAGE 54]]
 
-A definição  de  padrões  mínimos de infra-estruturas  que  devem  ser  observados  é  essencial para  se  estabelecer  um  equilíbrio  na  construção  de  novas  escolas  secundárias.  As  infraestruturas escolares  devem  ser  de  construção  evolutiva,  tendo  em  vista  a  concretização  do desígnio da transformação de escolas do ESG em politécnicas. Igualmente, a construção deve obedecer  às  normas  para  o  atendimento  a  alunos  com  necessidades  educativas  especiais. Assim,  a  Estratégia  define  como  instalações  básicas  para  o  funcionamento  de  uma  escola secundária:
+permitem uma melhor gestão pedagógica e administrativa, condições importantes para elevar a qualidade e a eficiência do ensino.
+
+A definição de padrões mínimos de infra-estruturas que devem ser observados é essencial para se estabelecer um equilíbrio na construção de novas escolas secundárias. As infra-estruturas escolares devem ser de construção evolutiva, tendo em vista a concretização do desígnio da transformação de escolas do ESG em politécnicas. Igualmente, a construção deve obedecer às normas para o atendimento a alunos com necessidades educativas especiais. Assim, a Estratégia define como instalações básicas para o funcionamento de uma escola secundária:
 
 - Salas  de  aulas  com  mobiliário  escolar  adequado  e  casas  de  banho  em  função  do número de alunos e alunas existente. As escolas, em parceria com as comunidades, poderão  aumentar  o  número  de  salas  e  de  outras  infra-estruturas  para  atender  às necessidades específicas e ao crescimento dos efectivos escolares;
 
@@ -1787,21 +1914,21 @@ Numa  primeira  fase,  entre  2009  e  2012,  há  uma  necessidade  imperiosa  
 
 Até 2012, as construções de infra-estruturas de elevado custo devem  ser evitadas privilegiando apenas a construção de salas de aula e blocos sanitários. A partir de 2012 novas políticas de construções poderão ser adoptadas e infra-estruturas adicionais construídas para acomodar outras necessidades (salas especializadas, casas e outras).
 
+Tabela 4: Média anual de salas de aula necessárias para todos os níveis da Educação Geral
+
 Nível de ensino | Média anual de salas necessárias 2007-2015 | Custo médio por sala de aula (mil Mt) | Custo Médio Anual Total (Milhões de Mt)
 --- | --- | --- | ---
 EP1 | 800 | 300 | 240
 EP2 | 1220 | 300 | 366
 ESG1 | 930 | 400 | 372
 ESG2 | 350 | 400 | 140
-Total | 3.300 | 1.118
-
-Tabela 4 : Média anual de salas de aula necessárias para todos os níveis da Educação Geral
+Total | 3.300 |  | 1.118
 
 Deverá ser  mantida uma  certa  proporcionalidade  entre as  áreas  destinadas  à  administração escolar e as áreas para leccionação.
 
 A  construção  de  casas  para  os  directores  e  adjuntos  pedagógicos  e  residências  para  os professores visa assegurar que os professores qualificados possam ser colocados em regiões mais recônditas, por forma a assegurar a equidade no desenvolvimento deste nível de ensino.
 
-Tendo em conta que algumas escolas secundárias do ESG já estão a funcionar em Escolas Primárias Completas, é necessário assegurar que as condições nelas existentes beneficiem, de forma equitativa, tanto os alunos do EP como do secundário. Para o efeito, a introdução do nível  secundário  em  escolas  primárias  (salas  anexas)  deve  ser  antecedida  da  criação  de condições adequadas para o funcionamento de ambos os níveis, sobretudo de construção de salas de aula adicionais, salas especializadas para as novas disciplinas do ESG e outras infraestruturas.
+Tendo em conta que algumas escolas secundárias do ESG já estão a funcionar em Escolas Primárias Completas, é necessário assegurar que as condições nelas existentes beneficiem, de forma equitativa, tanto os alunos do EP como do secundário. Para o efeito, a introdução do nível secundário em escolas primárias (salas anexas) deve ser antecedida da criação de condições adequadas para o funcionamento de ambos os níveis, sobretudo de construção de salas de aula adicionais, salas especializadas para as novas disciplinas do ESG e outras infra-estruturas.
 
 Espera-se  que  a  partir  de  2012,  a  pressão  sobre  as  necessidades  de  construção  reduza  e  o Governo inicie um novo programa de construção de infra-estruturas adicionais, reabilitação e manutenção,  melhorando  as  condições  das  infra-estruturas  já  existentes.  Prevê-se  que  a manutenção e a reabilitação das salas de aula construídas a custos reduzidos varie entre os 3 e os  6%  do  total  de  salas  existentes,  o  que  significará  um  incremento  do  número  de  salas  a reabilitar de 2.380 para as 4.570 salas.
 
@@ -1815,7 +1942,7 @@ Para o efeito, o MEC deverá desenvolver os protótipos de escolas assim como a 
 
 #### 3.1.5 Educação Aberta à Distância
 
-A Educação Aberta à Distância (EAD) afigura-se como uma modalidade para os jovens e adultos que pretendam continuar os estudos, incluindo aqueles que se encontram em l ocais distantes  dos  centros  urbanos  em  que  a  procura  não  justifica  a  construção  de  uma  escola mesmo que pequena.
+A Educação Aberta à Distância (EAD) afigura-se como uma modalidade para os jovens e adultos que pretendam continuar os estudos, incluindo aqueles que se encontram em locais distantes dos centros urbanos em que a procura não justifica a construção de uma escola mesmo que pequena.
 
 O  MEC  vai  promover,  através  do  Instituto  de  Educação  Aberta  à  Distância  (IEDA)  e  do Instituto Nacional de Educação à Distância (INED), esta modalidade de ensino como forma de contribuir para a expansão do acesso ao ESG. Neste sentido, e como primeira acção, será desenvolvida a regulamentação da EAD, incluindo um sistema de avaliação, para flexibilizar o processo da sua implementação.
 
@@ -1861,11 +1988,11 @@ Ao mesmo tempo, o Governo será chamado a atender a jovens que não tenham concl
 
 [[START OF PAGE 58]]
 
-Para a concretização desta acção, o MEC, conjuntamente com outras instituições do Governo, da  sociedade  civil  e  do  sector  privado  deverão  adoptar  mecanismos  para  a  oferta  de oportunidades  de  educação  e  formação  profissional.  Assim,  é  necessário  consolidar  a articulação  entre  as  estratégias  do  ESG,  ETPV  (PIREP,  Fundo  de  Desenvolvimento  de Competências-FUNDEC) e Educação de Adultos (Educação Não Formal), de modo a definirse acções comuns de enquadramento dos jovens em questão.
+Para a concretização desta acção, o MEC, conjuntamente com outras instituições do Governo, da sociedade civil e do sector privado deverão adoptar mecanismos para a oferta de oportunidades de educação e formação profissional. Assim, é necessário consolidar a articulação entre as estratégias do ESG, ETPV (PIREP, Fundo de Desenvolvimento de Competências-FUNDEC) e Educação de Adultos (Educação Não Formal), de modo a definir-se acções comuns de enquadramento dos jovens em questão.
 
 O  subsistema  da  educação  técnico  profissional  e  vocacional,  que  neste  momento  absorve cerca  de  5%  dos  graduados  do  EP,  deverá  aumentar  a  sua  contribuição  na  educação  e formação  profissional  de  uma  força  de  trabalho  qualificada  para  reforçar  o  crescimento económico e tirar os cidadãos e as comunidades da pobreza. Para o efeito, a estratégia do desenvolvimento  do  ETP  compreende  o  programa  integrado  da  reforma  de  educação profissional (PIREP) e prevê, entre várias actividades, a construção de 22 escolas de Artes e Ofícios, 6 institutos técnicos, reabilitação e apetrechamento da rede de instituições de ETP e formação de 340 novos professores no novo currículo baseado em padrões de competência.
 
-No  âmbito  da  educação  técnico  profissional,  particular  destaque  vai  para  o  'FUNDEC, instrumento para apoiar a emergência de programas de Educação Profissional orientados para a procura, no âmbito do Programa Integrado da Reforma da Educação Profissional (PIREP). Assim, o FUNDEC é um programa de carácter competitivo e vocacionado para dar resposta à demanda do mercado.
+No âmbito da educação técnico profissional, particular destaque vai para o “FUNDEC, instrumento para apoiar a emergência de programas de Educação Profissional orientados para a procura, no âmbito do Programa Integrado da Reforma da Educação Profissional (PIREP). Assim, o FUNDEC é um programa de carácter competitivo e vocacionado para dar resposta à demanda do mercado.
 
 Neste  sentido,  a  missão  do  FUNDEC  é  estimular  a  criação  de  programas  de  formação profissional  inovadores  que  respondam  de  forma  cabal  às  necessidades  do  mercado  de trabalho. A perspectiva, a médio prazo, é de aumentar a capacidade de cobertura de jovens, o que significa passar dos actuais 14 000 beneficiários directos para o dobro
 
@@ -1927,15 +2054,15 @@ Em paralelo, o Governo deverá definir critérios para o financiamento das entid
 
 [[START OF PAGE 61]]
 
+Tabela 5 - Acesso
+
 Objectivos Estratégicos | Acções Estratégicas | Indicadores e Metas | Pressupostos de reformas
 --- | --- | --- | ---
-Expandir rapidamente o acesso ao ESG1 com vista a tornar este nível de ensino acessível a todos os graduados do Ensino | Implementar a estratégia do ESG | Atingir a TBE de 70% no ESG1 em 2015; Atingir a TBE de 35% no ESG2 em 2015; | Adopção das medidas constantes da estratégia, construção e apetrechamento de escolas e formação e recrutamento de professores
-Primário e assegurar gradualmente a introdução do ensino básico de 10 classes. | Desenvolver planos distritais para a expansão do ESG | Todos os distritos têm planos de desenvolvimento do ESG em 2010
-Assegurar o acesso equitativo ao ESG dando atenção especial às raparigas, jovens com necessidades educativas especiais e das regiões mais distantes. | Construção de novas salas de aula, com apoio das comunidades priorizando os distritos sem ESG1. | Todos os distritos têm, pelo menos uma escola do ESG1 pública ou privada em 2010; 60% dos distritos têm ESG2 em 2012
-Atribuir bolsas de estudo para garantir que crianças carentes não sejam excluídas por dificuldades de pagamento das taxas de matrícula | Duplicar no ESG1 a proporção de crianças dos agregados familiares mais pobres até 20% em 2015 | Monitoria a partir dos dados do Inquérito Demográfico de Saúde. (IDS).
-Apoiar as raparigas que se mantêm no sistema (EP2) com vista a melhorar o desempenho escolar; | Aumentar a proporção das raparigas no ESG1 até 50% em 2015;
-
-Tabela 5 - Acesso
+Expandir rapidamente o acesso ao ESG1 com vista a tornar este nível de ensino acessível a todos os graduados do Ensino Primário e assegurar gradualmente a introdução do ensino básico de 10 classes. | Implementar a estratégia do ESG | Atingir a TBE de 70% no ESG1 em 2015; Atingir a TBE de 35% no ESG2 em 2015; | Adopção das medidas constantes da estratégia, construção e apetrechamento de escolas e formação e recrutamento de professores
+ | Desenvolver planos distritais para a expansão do ESG | Todos os distritos têm planos de desenvolvimento do ESG em 2010 | 
+Assegurar o acesso equitativo ao ESG dando atenção especial às raparigas, jovens com necessidades educativas especiais e das regiões mais distantes. | Construção de novas salas de aula, com apoio das comunidades priorizando os distritos sem ESG1. | Todos os distritos têm, pelo menos uma escola do ESG1 pública ou privada em 2010; 60% dos distritos têm ESG2 em 2012 | 
+ | Atribuir bolsas de estudo para garantir que crianças carentes não sejam excluídas por dificuldades de pagamento das taxas de matrícula | Duplicar no ESG1 a proporção de crianças dos agregados familiares mais pobres até 20% em 2015 | Monitoria a partir dos dados do Inquérito Demográfico de Saúde. (IDS).
+ | Apoiar as raparigas que se mantêm no sistema (EP2) com vista a melhorar o desempenho escolar; | Aumentar a proporção das raparigas no ESG1 até 50% em 2015; |
 
 42
 
@@ -1945,11 +2072,10 @@ Tabela 5 - Acesso
 
 Objectivos Estratégicos | Acções Estratégicas | Indicadores e Metas | Pressupostos de reformas
 --- | --- | --- | ---
-Identificar crianças com necessidades educativas especiais, tipo de necessidades e providenciar-lhes oportunidade aprendizagem | Aumento da proporção de crianças com necessidades educativas especiais matriculadas no ESG; | Determinação dos dados de base em 2009 através do inquérito de 3 de Março; Avaliação de impacto em 2014;
+ | Identificar crianças com necessidades educativas especiais, tipo de necessidades e providenciar-lhes oportunidade aprendizagem | Aumento da proporção de crianças com necessidades educativas especiais matriculadas no ESG; | Determinação dos dados de base em 2009 através do inquérito de 3 de Março; Avaliação de impacto em 2014;
 Aumentar a construção de escolas para reduzir o tamanho das turmas, assegurando que os alunos estudem em condições adequadas de aprendizagem | Adoptar um programa de construções a custos sustentáveis com apoio das comunidades | Até 2012 construir anualmente cerca de 4.200 salas para o subsistema de educação geral, das quais 1.280 para o ESG De 2013 a 2015 construir por ano cerca de 1.300 salas EP1/EP2/ESG1/ESG2 | As construções muito onerosas devem ser evitadas
-Expandir as EPCs para acomoda r o ESG1 | EPCs introduzem gradualmente novas salas para o ESG1 | Reforma do SNE
-Estabelecer mecanismos para estimular a provisão do ensino secundário por provedores privados e comunitários Estabelecer critérios para financiamento à construção de escolas privadas e | Proporção de alunos em escolas privadas ou comunitárias mantém-se em 15 % no ESG1 e ESG2 | Revisão do regulamento para a abertura e financiamento às escolas privadas e comunitárias
-comunitárias
+ | Expandir as EPCs para acomodar o ESG1 | EPCs introduzem gradualmente novas salas para o ESG1 | Reforma do SNE
+ | Estabelecer mecanismos para estimular a provisão do ensino secundário por provedores privados e comunitários Estabelecer critérios para financiamento à construção de escolas privadas e comunitárias | Proporção de alunos em escolas privadas ou comunitárias mantém-se em 15 % no ESG1 e ESG2 | Revisão do regulamento para a abertura e financiamento às escolas privadas e comunitárias
 
 43
 
@@ -1959,7 +2085,7 @@ comunitárias
 
 Objectivos Estratégicos | Acções Estratégicas | Indicadores e Metas | Pressupostos de reformas
 --- | --- | --- | ---
-Definir metas anuais de ingresso no ESG1 e ESG2 tendo em conta a equidade de género, número de alunos por turma, assegurando que os alunos mais novos e os melhores qualificados tenham acesso. | Relação alunos/turma decresce até 55 em média, em 2015 | Revisão do sistema de ingresso no ESG1 e ESG2
+ | Definir metas anuais de ingresso no ESG1 e ESG2 tendo em conta a equidade de género, número de alunos por turma, assegurando que os alunos mais novos e os melhores qualificados tenham acesso. | Relação alunos/turma decresce até 55 em média, em 2015 | Revisão do sistema de ingresso no ESG1 e ESG2
 Providenciar oportunidades de educação para jovens | Concluir a elaboração dos módulos e criar centros de recursos para o funcionamento do programa de EAD no ESG | Materiais do EAD produzidos e centros de recursos e criados e equipados; Tutores formados em 50% dos distritos em 2012 10% de alunos do ESG matriculados em cursos de EAD em 2015 | Estratégia para atender aos jovens desenvolvida e implementada; Estratégia e regulamentação da EAD desenvolvida e aplicada Finalizar a elaboração dos materiais compatíveis com o novo currículo Partilha de custos entre as partes envolvidas no EAD
 
 44
@@ -1970,7 +2096,7 @@ Providenciar oportunidades de educação para jovens | Concluir a elaboração d
 
 Objectivos Estratégicos | Acções Estratégicas | Indicadores e Metas | Pressupostos de reformas
 --- | --- | --- | ---
-5% dos jovens frequentam cursos vocacionais de curto prazo em 2015; 5% dos jovens frequentam cursos de educação não formal (adultos) | Política de assistência social aprovada e implementada Sinergias com outros Ministérios, sector privado e com o PIREP estabelecidas Desenvolvimento de um sistema de financiamento de formação profissional e vocacional
+ |  | 5% dos jovens frequentam cursos vocacionais de curto prazo em 2015; 5% dos jovens frequentam cursos de educação não formal (adultos) | Política de assistência social aprovada e implementada Sinergias com outros Ministérios, sector privado e com o PIREP estabelecidas Desenvolvimento de um sistema de financiamento de formação profissional e vocacional
 
 ### 3.2 Qualidade
 
@@ -1990,7 +2116,7 @@ Assim, o Governo estimula o surgimento de escolas de excelência. na base de um 
 
 O Programa do Governo e o PEEC orienta o MEC para a revisão curricular do ESG, de modo a torná-lo mais relevante e profissionalizante, ajustando-o às mudanças político-económicas e sócio-culturais ocorridas nos últimos tempos e como resposta às exigências da sociedade para o desenvolvimento de novas competências e habilidades para a vida por parte  dos graduados, sobretudo os do ESG1.
 
-Como  forma  de  adequar  o  currículo  às  novas  exigências  do  desenvolvimento  socioeconómico do país e da integração regional, a estrutura curricular do ESG foi orientada para dotar o aluno de uma formação integral e harmoniosa através do:
+Como forma de adequar o currículo às novas exigências do desenvolvimento socio-económico do país e da integração regional, a estrutura curricular do ESG foi orientada para dotar o aluno de uma formação integral e harmoniosa através do:
 
 - Desenvolvimento de competências consubstanciadas na introdução progressiva das línguas nacionais, nas disciplinas de Língua Portuguesa, Língua Inglesas e na Língua Francesa;
 
@@ -2004,7 +2130,7 @@ A alternância entre o trabalho dentro e fora da sala de aula, através de círc
 
 O  currículo  do  ESG  está  organizado  em  áreas  que,  no  ESG1,  seguem  a  estrutura  do  EP, nomeadamente as áreas da Comunicação e Ciências Sociais, Matemática e Ciências Naturais e Actividade Práticas e Tecnológicas, que integram as várias disciplinas do ciclo. No ESG2 o currículo organiza-se de forma similar à do 1º ciclo, diferindo apenas na área das Actividades Práticas e Tecnológicas que é substituída pela de Artes Visuais e Cénicas.
 
-O  novo  currículo  do  ESG  propõe  a  introdução  de  mudanças  importantes  no  processo  de ensino  e  aprendizagem,  com  incidência  no  ensino  centrado  no  aluno  e  para  disciplinas opcionais e profissionalizantes, medidas de grande impacto para o sistema educativo. Assim, no  currículo  moçambicano,  entende-se  por  Ensino  Secundário  Geral  Profissionalizante,  ao ensino baseado na abordagem transversal e multidisciplinar de conteúdos, com integração de componentes práticas do saber fazer , com  o objectivo de desenvolver nos jovens competências  práticas  que  lhes  possam  ser  úteis  para  a  vida  laboral,  desenvolvendo  uma profissão ou ofício e para o auto-emprego.
+O novo currículo do ESG propõe a introdução de mudanças importantes no processo de ensino e aprendizagem, com incidência no ensino centrado no aluno e para disciplinas opcionais e profissionalizantes, medidas de grande impacto para o sistema educativo. Assim, no currículo moçambicano, entende-se por Ensino Secundário Geral Profissionalizante, ao ensino baseado na abordagem transversal e multidisciplinar de conteúdos, com integração de componentes práticas do saber fazer, com o objectivo de desenvolver nos jovens
 
 46
 
@@ -2012,7 +2138,9 @@ O  novo  currículo  do  ESG  propõe  a  introdução  de  mudanças  important
 
 [[START OF PAGE 66]]
 
-No âmbito das disciplinas profissionalizantes as escolas devem privilegiar o envolvimento de empreendedores e profissionais por forma a permitir a transmissão da sua experiência prática aos  alunos  e  professores.  Este  envolvimento  vai  contribuir  para  potenciar  a  ligação  teoriaprática .
+competências práticas que lhes possam ser úteis para a vida laboral, desenvolvendo uma profissão ou ofício e para o auto-emprego.
+
+No âmbito das disciplinas profissionalizantes as escolas devem privilegiar o envolvimento de empreendedores e profissionais por forma a permitir a transmissão da sua experiência prática aos alunos e professores. Este envolvimento vai contribuir para potenciar a ligação teoria-prática.
 
 Contudo,  a  introdução  das  novas  disciplinas  vai  exigir  redução  da  carga  horária  das disciplinas gerais no ESG1, a formação e colocação de professores e a melhoria da gestão escolar para as acomodar.
 
@@ -2022,27 +2150,27 @@ A  implementação  das  disciplinas  opcionais  e  profissionalizantes  será  
 
 - A introdução de mais um ano para cada um dos ciclos do ESG nocturno;
 
-ÁREAS | DISCIPLINAS | Horas por disciplina | Total 8ª 10ª | % de
---- | --- | --- | --- | --- | --- | --- | ---
-8ª Classe | 9ª Classe | 10ª Classe | Classe | tempo | Opcionais
-Comunicaç ão e Ciências Sociais (40%) | Português | 5 | 4 | 4 | 13 | 13,4% | Escolhe uma no ciclo entre: Línguas Moçambicana s, Artes Cénicas, Francês
-Inglês | 3 | 3 | 2 | 8 | 8,2%
-História | 2 | 2 | 2 | 6 | 6,2%
-Geografia | 2 | 2 | 2 | 6 | 6,2%
-Artes Cénicas,_Francês, Línguas Moçambicanas | 2 | 2 | 2 | 6 | 6,2%
-Matemátic a e Ciências Naturais (32%) | Matemática | 5 | 4 | 4 | 13 | 13,4%
-Física | 2 | 2 | 2 | 6 | 6,2%
-Biologia | 2 | 2 | 2 | 6 | 6,2%
-Química | 2 | 2 | 2 | 6 | 6,2%
-Actividade s Práticas e Tecnológic | Educação Visual | 2 | 2 | 2 | 6 | 6,2%
-Educação Física | 2 | 2 | 2 | 6 | 6,2%
-TIC (na 10ª classe) | 2 | 2 | 2,1%
-as (28%) | Noções de Empreendedorismo | 2 | 2 | 4 | 4,1%
-Agro-pecuária, etc | 2 | 2 | 2 | 6 | 6,2%
-Reunião de Turma | 1 | 1 | 1 | 3 | 3,1%
-Total | 32 | 32 | 33 | 97 | 1,00
-
 Tabela 6: Plano Curricular do ESG1
+
+ÁREAS | DISCIPLINAS | Horas por disciplina |  |  | Total 8ª 10ª Classe | % de tempo | Opcionais
+ |  | 8ª Classe | 9ª Classe | 10ª Classe |  |  | 
+--- | --- | --- | --- | --- | --- | --- | ---
+Comunicação e Ciências Sociais (40%) | Português | 5 | 4 | 4 | 13 | 13,4% | Escolhe uma no ciclo entre: Línguas Moçambicanas, Artes Cénicas, Francês
+ | Inglês | 3 | 3 | 2 | 8 | 8,2% | 
+ | História | 2 | 2 | 2 | 6 | 6,2% | 
+ | Geografia | 2 | 2 | 2 | 6 | 6,2% | 
+ | Artes Cénicas, Francês, Línguas Moçambicanas | 2 | 2 | 2 | 6 | 6,2% | 
+Matemática e Ciências Naturais (32%) | Matemática | 5 | 4 | 4 | 13 | 13,4% | 
+ | Física | 2 | 2 | 2 | 6 | 6,2% | 
+ | Biologia | 2 | 2 | 2 | 6 | 6,2% | 
+ | Química | 2 | 2 | 2 | 6 | 6,2% | 
+Actividades Práticas e Tecnológicas (28%) | Educação Visual | 2 | 2 | 2 | 6 | 6,2% | 
+ | Educação Física | 2 | 2 | 2 | 6 | 6,2% | 
+ | TIC (na 10ª classe) |  |  | 2 | 2 | 2,1% | 
+ | Noções de Empreendedorismo |  | 2 | 2 | 4 | 4,1% | 
+ | Agro-pecuária, etc | 2 | 2 | 2 | 6 | 6,2% | 
+ | Reunião de Turma | 1 | 1 | 1 | 3 | 3,1% | 
+Total |  | 32 | 32 | 33 | 97 | 1,00 | 
 
 Fonte: Plano Curricular do Ensino Secundário Geral, Documento Orientador, Maputo, 2007
 
@@ -2062,45 +2190,46 @@ Para  cada  uma  das  opções  do  Plano  Curricular  do  ESG2  os  alunos  ter
 
 [[START OF PAGE 68]]
 
-ÁREAS | Disciplinas | Horas por disciplina | Nº horas | % de
---- | --- | --- | --- | --- | ---
-11ª Classe | 12ª Classe | 11a-12a classe | tempo
-Tronco Comum (67,2%) | Português | 5 | 5 | 10 | 16,4%
-Inglês | 5 | 5 | 10 | 16,4%
-Filosofia | 3 | 3 | 6 | 9,8%
-Matemática | 3,5 3/4 | 3,5 ¾ | 7 | 11,5%
-TICs | 2 | 2 | 4 | 6,6%
-Educação Física | 2 | 2 | 4 | 6,6%
-Opção A | História | 3 | 3 | 6
-(Comunicação e Ciências Sociais (Escolhe 3 disciplinas) (10,9%) | Geografia | 3 | 3 | 6
-Artes | 2 | 2 | 4 | 3,3%
-Cénicas
-Línguas Moçambicanas | 3 | 3 | 6 | 3,3%
-Francês | 4 5/3 | 4 5/3 | 8 | 4,4%
-Opção B (Matemática e Ciências Naturais (Escolhe 3 disciplinas) (10,2%) | Geografia | 3 | 3 | 6
-Química | 3 | 3 | 6 | 3,4%
-Física | 3 | 3 | 6 | 3,4%
-Biologia | 3 | 3 | 6 | 3,4%
-Opção C (Artes Visuais e Cénicas (Escolhe 3 | Desenho e Geometria Descritiva | 3 | 3 | 6 | 3,9%
-Artes Cénicas | 3 | 2 | 5 | 3,3%
-disciplinas) (10,5%) | Educação Visual | 2 | 3 | 5 | 3,3%
-Disciplinas Profissionalizantes (1,3%) | Noções de Empreendedorismo, Agro- pecuária, Introdução à Psico Pedagogia | 1 | 1 | 2 | 1,3%
-1,3% | Reunião de Turma* | 1 | 1 | 2 | 1,3%
-Total | 51 | 100%
+Tabela 7 – Plano Curricular do ESG2
 
-Tabela 7  - Plano Curricular do ESG2
+ÁREAS | Disciplinas | Horas por disciplina |  | Nº horas 11ª-12ª classe | % de tempo
+ |  | 11ª Classe | 12ª Classe |  | 
+--- | --- | --- | --- | --- | ---
+Tronco Comum (67,2%) | Português | 5 | 5 | 10 | 16,4%
+ | Inglês | 5 | 5 | 10 | 16,4%
+ | Filosofia | 3 | 3 | 6 | 9,8%
+ | Matemática | 3,5 3/4 | 3,5 ¾ | 7 | 11,5%
+ | TICs | 2 | 2 | 4 | 6,6%
+ | Educação Física | 2 | 2 | 4 | 6,6%
+Opção A (Comunicação e Ciências Sociais (Escolhe 3 disciplinas) (10,9%) | História | 3 | 3 | 6 | 
+ | Geografia | 3 | 3 | 6 | 3,3%
+ | Artes Cénicas | 2 | 2 | 4 | 
+ | Línguas Moçambicanas | 3 | 3 | 6 | 3,3%
+ | Francês | 4 5/3 | 4 5/3 | 8 | 4,4%
+Opção B (Matemática e Ciências Naturais (Escolhe 3 disciplinas) (10,2%) | Geografia | 3 | 3 | 6 | 
+ | Química | 3 | 3 | 6 | 3,4%
+ | Física | 3 | 3 | 6 | 3,4%
+ | Biologia | 3 | 3 | 6 | 3,4%
+Opção C (Artes Visuais e Cénicas (Escolhe 3 disciplinas) (10,5%) | Desenho e Geometria Descritiva | 3 | 3 | 6 | 3,9%
+ | Artes Cénicas | 3 | 2 | 5 | 3,3%
+ | Educação Visual | 2 | 3 | 5 | 3,3%
+Disciplinas Profissionalizantes (1,3%) | Noções de Empreendedorismo, Agro-pecuária, Introdução à Psico Pedagogia | 1 | 1 | 2 | 1,3%
+1,3% | Reunião de Turma* | 1 | 1 | 2 | 1,3%
+Total |  |  |  | 51 | 100%
 
 * A aula de reunião de turma não tem efeitos para a formação de professores
 
 Fonte: Plano Curricular do Ensino Secundário Geral, Documento Orientador, Maputo, 2007
 
-O sucesso da implementação do novo currículo dependerá, segundo o Plano Curricular do Ensino Secundário Geral (PCESG), de vários factores, entre os quais se destacam os sócioeconómicos e políticos. Um aspecto importante para uma implementação adequada do novo currículo  é,  ainda  segundo  o  PCESG,  a  'mudança  na  maneira  de  ensinar'  que,  'é  mais importante que qualquer manipulação estrutural ou de conteúdos do currículo' 14 .  Assim,  a implementação do novo currículo do ESG exige:
+O sucesso da implementação do novo currículo dependerá, segundo o Plano Curricular do Ensino Secundário Geral (PCESG), de vários factores, entre os quais se destacam os sócio-económicos e políticos. Um aspecto importante para uma implementação adequada do novo currículo é, ainda segundo o PCESG, a “mudança na maneira de ensinar” que, “é mais
 
 49
 
 [[END OF PAGE 68]]
 
 [[START OF PAGE 69]]
+
+importante que qualquer manipulação estrutural ou de conteúdos do currículo”14. Assim, a implementação do novo currículo do ESG exige:
 
 - Melhorar e consolidar a formação de professores, em regime presencial e a distância, para todos os subsistemas, tanto inicial como em serviço, incluindo a formação dos professores para as novas disciplinas;
 
@@ -2134,13 +2263,13 @@ O sucesso da implementação do novo currículo dependerá, em grande medida, da
 
 Como mostra a tabela 8, o país vai necessitar nos próximos anos de uma média anual de cerca de  2.630  professores  para  o  ESG1  e  cerca  de  1.200  professores  para  o  ESG2  no  ensino público, o que significa que o ESG vai precisar, em média, de cerca de 3.800 professores por ano.  O  número  de  professores  necessários  para  os  dois  níveis  varia  de  4.000  em  2009  e atingirá o pico em 2011 com 4.720 professores necessários, seguido de um decréscimo nas necessidades de formação.
 
-2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
+Tabela 8: Professores necessários para o ESG público no período 2009-2015
+
+ | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | ---
 ESG1 | 3.730 | 2.771 | 3.068 | 2.324 | 2.923 | 1.936 | 1.297
 ESG2 | 904 | 1.519 | 1.653 | 1.581 | 1.183 | 948 | 717
 Total | 4.634 | 4.289 | 4.721 | 3.905 | 4.106 | 2.884 | 2.014
-
-Tabela 8 : Professores necessários para o ESG público no período 2009-2015
 
 A contratação  de  professores  suficientes,  em  função  das  necessidades  e  das  exigências  do processo  de  ensino  e  aprendizagem,  é  fundamental,  pois  vai  contribuir  para  a  redução  do rácio de alunos por professor e melhorar a interacção entre ambos, aspectos importantes para a melhoria da qualidade de ensino. A proporção de professores necessários por disciplina e níveis de ensino está indicada nas tabelas 6 e 7 referente ao plano curricular, na coluna '% de tempo'.
 
@@ -2148,13 +2277,15 @@ Os professores do ESG1 serão formados em cursos de 12ª + 1 até 2012, altura e
 
 Para  além  da  formação  profissional,  a  formação  dos  professores  vai  ainda  abranger  outras áreas, dando a estes a possibilidade de uma melhor interacção com os alunos, em contextos diversos,  de  forma  a  responder  às  questões  de  género  e  aos  alunos  com  necessidades educativas especiais.  A  gestão  de  turmas  numerosas  será,  numa  primeira  fase,  um aspecto importante da formação, uma vez que até 2012 não se prevêem grandes reduções no número de alunos por turma.
 
-As  áreas  das  Ciências  Naturais  e  das  disciplinas  de  Desenho  e  Inglês  foram  identificadas como críticas no que respeita ao desempenho escolar dos alunos. As estatísticas demonstram que  há  falta  de  professores  para  estas  áreas,  com  particular  destaque  nas  zonas  rurais.  A solução deste problema constituirá um dos grandes desafios do MEC e seus parceiros.
+As áreas das Ciências Naturais e das disciplinas de Desenho e Inglês foram identificadas como críticas no que respeita ao desempenho escolar dos alunos. As estatísticas demonstram
 
 51
 
 [[END OF PAGE 70]]
 
 [[START OF PAGE 71]]
+
+que há falta de professores para estas áreas, com particular destaque nas zonas rurais. A solução deste problema constituirá um dos grandes desafios do MEC e seus parceiros.
 
 Assim, a Estratégia de Formação de Professores deverá adoptar mecanismos que assegurem o incremento da formação de professores para as novas disciplinas, com maior incidência para Ciências Naturais, Desenho, Inglês e das disciplinas profissionalizantes.
 
@@ -2226,11 +2357,11 @@ As DPECs devem identificar, anualmente, as escolas primárias que vão passar a 
 
 Os livros escolares para o ensino secundário serão financiados conjuntamente pelo Governo, os parceiros de cooperação e os alunos. O objectivo será assegurar o fornecimento de 7 títulos numa proporção variável de livros por aluno. As disciplinas de Português e Matemática terão uma  relação  de  um  livro  por  aluno,  as  disciplinas  de  Francês,  Inglês,  História,  Geografia Física, Química, Biologia e Desenho terão uma relação de 1 livro para cada dois alunos. As restantes disciplinas terão uma relação de 1/5. Para se atingir esta meta o Governo adoptará as seguintes medidas:
 
-- Lançamento de um concurso, nos meados de 2009, para a produção de todos os livros do ESG.
+a) Lançamento de um concurso, nos meados de 2009, para a produção de todos os livros do ESG.
 
-- Financiamento  da  aquisição  e  da  distribuição  do stock inicial  de  livros produzidos;
+b) Financiamento da aquisição e da distribuição do stock inicial de livros produzidos;
 
-- Avaliação  e  adopção  de  um  título  para  as  disciplinas  de  Educação  Visual, Artes  Cénicas,  Desenho  e  Geometria  Descritiva  e  Agropecuária  que  será
+c) Avaliação e adopção de um título para as disciplinas de Educação Visual, Artes Cénicas, Desenho e Geometria Descritiva e Agropecuária que será
 
 54
 
@@ -2238,29 +2369,29 @@ Os livros escolares para o ensino secundário serão financiados conjuntamente p
 
 [[START OF PAGE 74]]
 
-adquirido  para  apetrechar  as  bibliotecas  escolares.  Para  as  restantes  o  MEC deverá  adoptar  até  3  títulos  por  disciplina  e  por  classe,  uma  vez  que  nestas disciplinas se prevê maior número de alunos.
+adquirido para apetrechar as bibliotecas escolares. Para as restantes o MEC deverá adoptar até 3 títulos por disciplina e por classe, uma vez que nestas disciplinas se prevê maior número de alunos.
 
-- Elaboração de um manual para a gestão do livro nas escolas;
+d) Elaboração de um manual para a gestão do livro nas escolas;
 
-- Financiamento e incentivo para as escolas de forma a prepararem as condições para a recepção  dos  livros (formação  de  bibliotecários e aquisição de mobiliário para as escolas);
+e) Financiamento e incentivo para as escolas de forma a prepararem as condições para a recepção dos livros (formação de bibliotecários e aquisição de mobiliário para as escolas);
 
-- Definição de uma taxa do livro, a ser paga anualmente, pelos alunos no acto da matrícula. Esta taxa deverá criar na escola um fundo do livro para financiar parte  das  despesas  com  o  livro  escolar;  Aquisição  e  distribuição  de  livros escolares  entre  2009  e  2010  em  todas  escolas  secundárias  nas  proporções indicadas;
+f) Definição de uma taxa do livro, a ser paga anualmente, pelos alunos no acto da matrícula. Esta taxa deverá criar na escola um fundo do livro para financiar parte das despesas com o livro escolar; Aquisição e distribuição de livros escolares entre 2009 e 2010 em todas escolas secundárias nas proporções indicadas;
 
-- Implementação de um programa de Apoio Directo às Escolas e de financiamento  pelos  pais  para  a  aquisição  dos  livros  de  reposição  anual;  (a responsabilidade pela aquisição dos livros será das escolas);
+g) Implementação de um programa de Apoio Directo às Escolas e de financiamento pelos pais para a aquisição dos livros de reposição anual; (a responsabilidade pela aquisição dos livros será das escolas);
 
-- Formação  de  pessoal  para  a  gestão  do  livro  escolar  a  nível  da  escola, considerando que o livro, numa primeira fase, ficará armazenado nas escolas.
+h) Formação de pessoal para a gestão do livro escolar a nível da escola, considerando que o livro, numa primeira fase, ficará armazenado nas escolas.
 
 O  custo  do stock inicial  de  um  programa  desta  natureza  está  estimado  em  cerca  de  120 Milhões de Meticais, ou seja 4,8 a 5 milhões de dólares americanos em 2010, considerando o número de alunos previstos e um custo de 150 Meticais por livro. O crescimento anual das matrículas, a duração do livro e a necessidade de reposição num total conjugado de 32% do stock anual, obrigarão o Governo a financiar parte dos fundos indicados na tabela abaixo:
 
+Tabela 9: Projecção do custo do livro escolar entre 2010-2015 (Milhões de Meticais)
+
 Descrição | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | ---
-Alunos ESG1 | 925.832 | 1.035.95 1 | 1.104.64 0 | 1.199.97 4 | 1.242.30 7 | 1.250.96 1
+Alunos ESG1 | 925.832 | 1.035.951 | 1.104.640 | 1.199.974 | 1.242.307 | 1.250.961
 Custo do livro do ESG1 | 100,5 | 112,5 | 120,0 | 130,3 | 134,9 | 135,8
 Alunos ESG2 | 158.164 | 191.166 | 253.501 | 317.822 | 367.449 | 407.185
 Custo do livro do ESG2 | 19,3 | 23,3 | 30,9 | 38,8 | 44,8 | 49,7
 Custo total do livro ESG1 e ESG2 | 119,8 | 135,8 | 150,9 | 169,1 | 179,7 | 185,5
-
-Tabela 9 : Projecção do custo do livro escolar entre 2010-2015 (Milhões de Meticais)
 
 Estes custos representam um investimento de menos de 110 Mt por aluno / ano. Parte deste valor pode ser financiado pelo ADE e a outra pelos pais.
 
@@ -2282,17 +2413,17 @@ Os materiais para o funcionamento e manutenção dos laboratórios são onerosos
 
 Assim, o ensino das ciências naturais passa pela tomada de medidas que possam assegurar a sua concretização, nomeadamente:
 
-- A formação inicial dos professores para leccionarem aulas práticas de ciências;
+1. A formação inicial dos professores para leccionarem aulas práticas de ciências;
 
-- A capacitação em serviço dos professores existentes;
+2. A capacitação em serviço dos professores existentes;
 
-- A  criação  e  apetrechamento  de  uma  sala  para  o  funcionamento  do  grupo  de professores das ciências naturais onde tais salas não existam;
+3. A criação e apetrechamento de uma sala para o funcionamento do grupo de professores das ciências naturais onde tais salas não existam;
 
-- A adequação de, pelo menos, uma sala de aula para a o ensino das ciências naturais, com condições para o armazenamento dos respectivos kits e livros de trabalho.
+4. A adequação de, pelo menos, uma sala de aula para a o ensino das ciências naturais, com condições para o armazenamento dos respectivos kits e livros de trabalho.
 
-- Adopção e aquisição de kits para as aulas práticas de ciências;
+5. Adopção e aquisição de kits para as aulas práticas de ciências;
 
-- Apoio financeiro às escolas para que estas possam suportar as despesas de aquisição dos kits de ciências;
+6. Apoio financeiro às escolas para que estas possam suportar as despesas de aquisição dos kits de ciências;
 
 O MEC deverá identificar, por classe, as principais experiências de natureza obrigatória, com base nas quais seriam definidos os materiais e equipamentos para estas disciplinas e normas para a sua aquisição. Ao mesmo tempo, deverá proporcionar às escolas os fundos necessários para a sua aquisição, via apoio directo às escolas secundárias.
 
@@ -2302,27 +2433,29 @@ O MEC deverá identificar, por classe, as principais experiências de natureza o
 
 [[START OF PAGE 76]]
 
-Micro ciência | Distribuição por aluno por | Custo por aluno por
+Tabela 10: Kits de Micro ciência para o ESG1 e ESG2
+
+Área Científica | Micro ciência |  | Distribuição por aluno por ano | Custo por aluno por ano
 --- | --- | --- | --- | ---
-Área Científica | Nº de workstations por Kit | Custo aproximado do kit (USD) | ano | ano
+ | Nº de workstations por Kit | Custo aproximado do kit(USD) |  | 
 ESG1 Kit de Química Geral e Biologia | 1 | 24 | 0,2 | 4,8
 ESG1 Kit de electricidade (pilhas não incluídas) | 1 | 20 | 0,2 | 4
-ESG1/2 Kit de Electromagnetismo | 0
+ESG1/2 Kit de Electromagnetismo |  |  |  | 0
 ESG1 Kit de Dinâmica (trolleys) | 1 | 302 | 0,01 | 3,02
 ESG1 Kit de Óptica | 1 | 110 | 0,02 | 2,2
-Total do ESG1 | 14,02
-ESG2
+Total do ESG1 |  |  |  | 14,02
+ESG2 |  |  |  | 
 ESG2 Kit de Química | 1 | 17 | 0,2 | 3,4
 ESG2 Kit de Biologia* | 1 | 20 | 0,2 | 4
 ESG2 Kit de Física (ondas, luz e som) | 1 | 240 | 0,01 | 2,4
 Microscópio e Kit incluem slides pré seleccionados | 1 | 24 | 0,2 | 4,8
-Total do ESG2 | 14,6
-
-Tabela 10 : Kits de Micro ciência para o ESG1 e ESG2
+Total do ESG2 |  |  |  | 14,6
 
 Os custos dos kits para os alunos do ESG1 e ESG2 foram estimados com base na informação existente dos kits da empresa RADMASTE e aproximadamente iguais.
 
-2010 | 2011 | 2012 | 2013 | 2014 | 2015
+Tabela 11: Previsão de custo dos kits de Ciências (Milhões de MT)
+
+ | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | ---
 Alunos ESG1 | 925.832 | 1.035.951 | 1.104.640 | 1.199.974 | 1.242.307 | 1.250.961
 Custo total dos kits de ciências no ESG1 | 324.504 | 363.101 | 387.176 | 420.591 | 435.429 | 438.462
@@ -2330,15 +2463,15 @@ Alunos ESG2 | 253.501 | 317.822 | 367.449 | 407.185 | 443.113 | 464.484
 Custo total dos kits de ciências no ESG2 | 92.528 | 116.005 | 134.119 | 148.623 | 161.736 | 169.537
 Custo Total (Mil de Mt) | 417.032 | 479.106 | 521.295 | 569.213 | 597.165 | 607.998
 
-Tabela 11 : Previsão de custo dos kits de Ciências (Milhões de MT)
-
-A tabela acima mostra os custos dos kits de ciências para o ESG1 e para o ESG2. O custo médio por aluno / ano, no ESG1, está estimado em 350 Mt por aluno o equivalente a cerca de 14  dólares,  enquanto  o  custo  médio  do  kit  do  ESG2  está  estimado  em  265,00  Mt  por aluno/ano, o equivalente a cerca de 10,5 USD Estes custos estimam uma relação kit por aluno indicada na tabela anterior.
+A tabela acima mostra os custos dos kits de ciências para o ESG1 e para o ESG2. O custo médio por aluno / ano, no ESG1, está estimado em 350 Mt por aluno o equivalente a cerca de 14 dólares, enquanto o custo médio do kit do ESG2 está estimado em 265,00 Mt por
 
 57
 
 [[END OF PAGE 76]]
 
 [[START OF PAGE 77]]
+
+aluno/ano, o equivalente a cerca de 10,5 USD Estes custos estimam uma relação kit por aluno indicada na tabela anterior.
 
 ##### 3.2.4.3 Ensino das TICs
 
@@ -2364,9 +2497,11 @@ O  MEC  vai  priorizar,  até  2015,  o  programa  de  uso  das  TICs  no  ESG2.
 
 [[START OF PAGE 78]]
 
+Tabela 12: Previsão do custo de provisão de computadores para a 10ª classe (Milhões de Mt)
+
 Descrição | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | ---
-Alunos da 10a classe (público diurno) | 162.254 | 202.705 | 221.574 | 252.462 | 264.657 | 297.745
+Alunos da 10ª classe (público diurno) | 162.254 | 202.705 | 221.574 | 252.462 | 264.657 | 297.745
 Stock de Computadores | 6.491,0 | 8.109,0 | 8.863,0 | 10.099,0 | 10.587,0 | 11.910,0
 Computadores a adquirir anualmente | 6.491,0 | 2.916,2 | 2.375,8 | 3.008,6 | 2.507,8 | 3.440,4
 Custo dos computadores (milhões Mt) | 162,3 | 72,9 | 59,4 | 75,2 | 62,7 | 86,0
@@ -2375,8 +2510,6 @@ Custo das impressoras (1/25 computadores) | 6,5 | 2,9 | 2,4 | 3,0 | 2,5 | 3,4
 Total (computadores+impressoras) | 331,0 | 108,3 | 102,3 | 122,5 | 115,7 | 142,4
 Manutenção (10%) | 33,1 | 10,8 | 10,2 | 12,3 | 11,6 | 14,2
 Custo total (Milhões de Mt) | 364,1 | 119,1 | 112,5 | 134,8 | 127,3 | 156,6
-
-Tabela 12 : Previsão do custo de provisão de computadores para a 10ª classe (Milhões de Mt)
 
 Os  custos  de  aquisição  de  equipamentos  informáticos  para  todas  as  escolas  no  ESG1 constituirão um elevado encargo adicional para o Estado, considerando o número crescente de alunos. Estes custos foram calculados tendo como base as 10 horas e 5 dias por semana de utilização dos computadores. Também foi tomada em conta a aquisição de impressoras numa base de 1 por cada 25 computadores e construção e apetrechamento das salas de informática. Anualmente, o MEC deverá adquirir computadores para os novos alunos e substituir 20% dos equipamentos antigos.
 
@@ -2392,6 +2525,8 @@ Os custos previstos para a introdução das TICs no ESG2 estão indicados na tab
 
 [[START OF PAGE 79]]
 
+Tabela 13: Previsão do custo de provisão de computadores para o ESG2 (Milhões de MT)
+
 Descrição | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | ---
 Alunos ESG2 | 253.501 | 317.822 | 367.449 | 407.185 | 443.113 | 464.484
@@ -2403,8 +2538,6 @@ Custo de impressoras (1 p cada 25 computadores) | 10,1 | 4,6 | 4,5 | 4,5 | 4,7 |
 Total (salas+computadores+impressoras) | 517,2 | 170,3 | 181,3 | 191,3 | 203,5 | 203,0
 Manutenção (10%) | 51,7 | 17,0 | 18,1 | 19,1 | 20,3 | 20,3
 Custo total | 568,9 | 187,3 | 199,4 | 210,4 | 223,8 | 223,3
-
-Tabela 13 : Previsão do custo de provisão de computadores para o ESG2 (Milhões de MT)
 
 O MEC poderá explorar outras alternativas de aquisição de computadores mais baratos, como a  nova  parceria  para  montagem  de  computadores  nas  escolas  do  Ensino  Técnico  e Profissional e a aquisição de computadores do projecto OLPC (One Laptop Per Child, um projecto  internacional  para  montagem  de  computadores  acessíveis  nos  países  com  menos recursos), alternativa viável para a redução dos custos do programa.
 
@@ -2468,11 +2601,11 @@ Os  IFP's  podem  desempenhar  um  papel  importante  no  apoio  pedagógico  à
 
 O MEC deverá introduzir, a partir de 2010, um sistema para avaliar a qualidade da formação no ensino secundário. Esta avaliação deverá incluir também a avaliação das escolas. Através deste exercício de avaliação o MEC poderá verificar de forma sistemática o funcionamento das  escolas  e  do  sistema  de  educação,  bem  como  os  seus  constrangimentos  e  criar mecanismos para a tomada de medidas correctivas para resolver os problemas encontrados.
 
+Tabela 14: Qualidade
+
 Objectivos estratégicos | Acções Estratégicas | Indicadores e metas | Pressupostos de reformas
 --- | --- | --- | ---
 Melhorar a qualidade e relevância da educação secundária | Reduzir a relação alunos professor; Providenciar materiais escolares para alunos e professores Aumentar o tempo lectivo | Aumentar a taxa de aprovação para 90% em 2012 Reduzir a taxa de repetição e de desistência para 10% em 2012 Sistema de avaliação da aprendizagem introduzido em 2012 | Reforma do currículo e do sistema de avaliação
-
-Tabela 14: Qualidade
 
 63
 
@@ -2480,9 +2613,9 @@ Tabela 14: Qualidade
 
 [[START OF PAGE 83]]
 
-Objectivos estratégicos | Acções Estratégicas | Indicadores e metas | Pressupostos reformas | de
---- | --- | --- | --- | ---
-Formar e recrutar professores em número suficiente | Expandir os cursos de formação de professores Formar professores do ensino primário e de 12+0, através do EAD para leccionar o ESG1 Formar um número suficiente de professores para atender à procura em todas as disciplinas do ESG | 70% dos professores do ESG1 formados nos IFPs em 2012 2.700 professores graduados em 2010 nos IFP 90% dos professores do ESG2 formados em 2012 1.000 professores primários formados, através do cursos à distância até 2012; A partir de 2012, 2.000 professores de 12+0 certificados anualmente pelo curso de 12+1 40% dos professores do ESG2 são bacharéis e 20% licenciados. Os restantes 40% são professores de N3. | Implementar estratégia formação recrutamento professores | a de e dos
+Objectivos estratégicos | Acções Estratégicas | Indicadores e metas | Pressupostos de reformas
+--- | --- | --- | ---
+Formar e recrutar professores em número suficiente | Expandir os cursos de formação de professores Formar professores do ensino primário e de 12+0, através do EAD para leccionar o ESG1 Formar um número suficiente de professores para atender à procura em todas as disciplinas do ESG | 70% dos professores do ESG1 formados nos IFPs em 2012 2.700 professores graduados em 2010 nos IFP 90% dos professores do ESG2 formados em 2012 1.000 professores primários formados, através do cursos à distância até 2012; A partir de 2012, 2.000 professores de 12+0 certificados anualmente pelo curso de 12+1 40% dos professores do ESG2 são bacharéis e 20% licenciados. Os restantes 40% são professores de N3. | Implementar a estratégia de formação e recrutamento dos professores
 
 64
 
@@ -2490,12 +2623,11 @@ Formar e recrutar professores em número suficiente | Expandir os cursos de form
 
 [[START OF PAGE 84]]
 
-Objectivos estratégicos | Acções Estratégicas | Indicadores e metas | Pressupostos reformas | de
---- | --- | --- | --- | ---
-Desenvolver um sistema de incentivos para que os professores de 12ª+1 se formem numa segunda disciplina via EAD Formar professores em duas disciplinas no ESG2 (cursos de bacharelados). | 50% dos professores formados numa segunda disciplina até 2015 50% dos bacharéis formados para leccionar uma 2ª disciplina até 2015
-Formar professores para as novas disciplinas do novo currículo | 1.000 professores formados para leccionarem as novas disciplinas como disciplina segunda 20% dos estudantes dos IFP formados em disciplinas de ciências, desenho e inglês em 2012
-Desenvolver um sistema de incentivos que motive os alunos a formarem-se em disciplinas com maiores carências de professores, (ciências naturais, desenho e inglês) Formar professores para atender crianças com necessidades educativas especiais (NEE). | 10% dos professores formados para atender crianças com necessidades educativas especiais (NEE)
-Lançar um programa de EAD para a Formação de professores. | Desenvolver programas de EAD para a formação de professores Formar tutores. | Programas desenvolvidos e lançados em 2010 300 tutores (2 por distrito) formados
+Objectivos estratégicos | Acções Estratégicas | Indicadores e metas | Pressupostos de reformas
+--- | --- | --- | ---
+ | Desenvolver um sistema de incentivos para que os professores de 12ª+1 se formem numa segunda disciplina via EAD Formar professores em duas disciplinas no ESG2 (cursos de bacharelados). | 50% dos professores formados numa segunda disciplina até 2015 50% dos bacharéis formados para leccionar uma 2ª disciplina até 2015 | 
+ | Formar professores para as novas disciplinas do novo currículo Desenvolver um sistema de incentivos que motive os alunos a formarem-se em disciplinas com maiores carências de professores, (ciências naturais, desenho e inglês) Formar professores para atender crianças com necessidades educativas especiais (NEE). | 1.000 professores formados para leccionarem as novas disciplinas como disciplina segunda 20% dos estudantes dos IFP formados em disciplinas de ciências, desenho e inglês em 2012 10% dos professores formados para atender crianças com necessidades educativas especiais (NEE) | 
+Lançar um programa de EAD para a Formação de professores. | Desenvolver programas de EAD para a formação de professores Formar tutores. | Programas desenvolvidos e lançados em 2010 300 tutores (2 por distrito) formados | 
 
 65
 
@@ -2503,10 +2635,10 @@ Lançar um programa de EAD para a Formação de professores. | Desenvolver progr
 
 [[START OF PAGE 85]]
 
-Objectivos estratégicos | Acções Estratégicas | Indicadores e metas | Pressupostos reformas | de
---- | --- | --- | --- | ---
-Aumentar o tempo lectivo de ensino e aprendizagem. | Aumentar o ano escolar em uma semana anualmente até atingir as 39/40 semanas de aulas por ano Reduzir o número de conselhos de nota de 3 para 1 por ano. | Aumentado o número de horas lectivas das actuais 650/700 para 850 horas por ano em 2015. | Revisão calendário escolar | do
-Disponibilizar livros e outros materiais instrucionais | Elaborar livros escolares para os alunos e manuais para os professores Adoptar e implementar procedimentos que assegurem a existência de materiais instrucionais e equipamento nas bibliotecas escolares e laboratórios | Português e matemática 1:1; restantes disciplinas 1:3 em 2010; 95% das escolas têm bibliotecas com livros de leitura e referência até 2010 | Currículo desenvolvido aprovado Política do escolar e de materiais de elaborada aprovada | e livro outros ensino e
+Objectivos estratégicos | Acções Estratégicas | Indicadores e metas | Pressupostos de reformas
+--- | --- | --- | ---
+Aumentar o tempo lectivo de ensino e aprendizagem. | Aumentar o ano escolar em uma semana anualmente até atingir as 39/40 semanas de aulas por ano Reduzir o número de conselhos de nota de 3 para 1 por ano. | Aumentado o número de horas lectivas das actuais 650/700 para 850 horas por ano em 2015. | Revisão do calendário escolar
+Disponibilizar livros e outros materiais instrucionais | Elaborar livros escolares para os alunos e manuais para os professores Adoptar e implementar procedimentos que assegurem a existência de materiais instrucionais e equipamento nas bibliotecas escolares e laboratórios | Português e matemática 1:1; restantes disciplinas 1:3 em 2010; 95% das escolas têm bibliotecas com livros de leitura e referência até 2010 | Currículo desenvolvido e aprovado Política do livro escolar e de outros materiais de ensino elaborada e aprovada
 Melhorar as habilidades pedagógicas dos professores | Implementar programas de formação em serviço de professores | 100% dos professores participam em cursos de formação em serviço até 2012. | Descentralizar o apoio e supervisão pedagógica para escola e distritos
 
 66
@@ -2549,11 +2681,11 @@ A formação de directores de escolas e quadros para a supervisão e inspecção
 
 Considerando  a  complexidade  das  tarefas  e  responsabilidades  dos  directores  de  escola,  a estratégia preconiza a criação da carreira de gestores escolares e a redefinição do perfil do director de escola, pelo que será necessário aprovar qualificadores para o efeito.
 
-Objectivos estratégicos | Acções Estratégicas | Indicadores e metas | Pressupostos reformas | de
---- | --- | --- | --- | ---
-Melhorar a gestão e garantir a transparência do sistema educativo a todos os níveis | Formar gestores escolares a todos níveis, em técnicas de gestão escolar Promover o uso das TICs para a administração escolar Promover auditorias regulares do sistema financeiro escolar | Capacidade de liderança escolar melhorada a todos os níveis Introduzido sistema de gestão escolar informatizada em 50% de escolas em funcionamento até 2015 100% das escolas com Conselhos de Escola Todas as escolas prestam contas publicamente; 10% de escolas auditadas anualmente a partir de 2010 | Programa desenvolvimento institucional MEC implementado. | de do
-
 Tabela 15: Desenvolvimento Institucional
+
+Objectivos estratégicos | Acções Estratégicas | Indicadores e metas | Pressupostos de reformas
+--- | --- | --- | ---
+Melhorar a gestão e garantir a transparência do sistema educativo a todos os níveis | Formar gestores escolares a todos níveis, em técnicas de gestão escolar Promover o uso das TICs para a administração escolar Promover auditorias regulares do sistema financeiro escolar | Capacidade de liderança escolar melhorada a todos os níveis Introduzido sistema de gestão escolar informatizada em 50% de escolas em funcionamento até 2015 100% das escolas com Conselhos de Escola Todas as escolas prestam contas publicamente; 10% de escolas auditadas anualmente a partir de 2010 | Programa de desenvolvimento institucional do MEC implementado.
 
 68
 
@@ -2561,11 +2693,10 @@ Tabela 15: Desenvolvimento Institucional
 
 [[START OF PAGE 88]]
 
-Desenvolver um sistema efectivo de comunicação | Manter a sociedade informada sobre o desenvolvimento da educação | Estratégia de Comunicação desenvolvida e implementada
---- | --- | --- | ---
-Descentralizar a alocação de recursos às escolas | Estabelecer Comités de Gestão Escolar (CGE) | Em todas escolas funciona o Conselho de Escola e o Comité de Gestão Escolar | Regulamentos sobre o financiamento às escolas secundárias estabelecidos; Definidos e aplicados a composição e responsabilidades dos Conselhos de
-Reforçar a capacidade para a implementação descentralizada de um programa de construção de salas de aula a custos sustentáveis | Directores de escolas e distrito e presidentes e membros dos conselhos de escola e pessoal técnico formado
-Descentralizar o, apoio e supervisão para o distrito e escolas | Visitadas todas as escolas, anualmente, pelos SDEJT. | Política de descentralização implementada
+Desenvolver um sistema efectivo de comunicação | Manter a sociedade informada sobre o desenvolvimento da educação | Estratégia de Comunicação desenvolvida e implementada | 
+Descentralizar a alocação de recursos às escolas | Estabelecer Comités de Gestão Escolar (CGE) | Em todas escolas funciona o Conselho de Escola e o Comité de Gestão Escolar | Regulamentos sobre o financiamento às escolas secundárias estabelecidos; Definidos e aplicados a composição e responsabilidades dos Conselhos de Escola
+ | Reforçar a capacidade para a implementação descentralizada de um programa de construção de salas de aula a custos sustentáveis | Directores de escolas e distrito e presidentes e membros dos conselhos de escola e pessoal técnico formado | 
+ | Descentralizar o, apoio e supervisão para o distrito e escolas | Visitadas todas as escolas, anualmente, pelos SDEJT. | Política de descentralização implementada
 
 69
 
@@ -2581,11 +2712,11 @@ Na Educação as questões transversais são de extrema importância para o dese
 
 O objectivo do sector é de alcançar a paridade de género no ESG1 em 2015, o que pressupõe que o mesmo seja atingido no EP2. Para a concretização deste objectivo serão realizadas as seguintes acções:
 
-- Implementar medidas para assegurar que mais meninas concluam a 7ª classe e possam ingressar no ESG1.
+1. Implementar medidas para assegurar que mais meninas concluam a 7ª classe e possam ingressar no ESG1.
 
-- Implantar mais escolas secundárias junto às comunidades;
+2. Implantar mais escolas secundárias junto às comunidades;
 
-- Implementar  um  sistema  de  incentivos  à  frequência  do  ESG1  por  parte  das meninas;
+3. Implementar um sistema de incentivos à frequência do ESG1 por parte das meninas;
 
 A reforma do currículo do ensino secundário prevê que os materiais a serem desenvolvidos incorporem os aspectos de género, de modo a promover a igualdade de oportunidades para rapazes e raparigas. O processo de ensino na sala de aula deve privilegiar métodos de ensino que promovam a participação efectiva de rapazes e raparigas, encorajando, em particular, as raparigas a melhorarem o seu desempenho escolar.
 
@@ -2593,7 +2724,7 @@ A formação de mais professoras para o ESG, sobretudo para a área das ciência
 
 #### 3.4.2 HIV/SIDA
 
-O HIV/SIDA é um grande factor de risco para o desenvolvimento harmonioso do sistema de educação,  principalmente  do  ESG,  cujos  alunos  têm  idades  susceptíveis  de  infecção  pelo HIV. Neste contexto, particular atenção deverá ser prestada ao ESG, através de um currículo que  permita  desenvolver  nos  jovens  comportamentos  e  atitudes  responsáveis  perante  a pandemia, incluindo  outras  formas  de  prevenção  e  disseminação  do  conhecimento  sobre  o HIV/SIDA.
+O HIV/SIDA é um grande factor de risco para o desenvolvimento harmonioso do sistema de educação, principalmente do ESG, cujos alunos têm idades susceptíveis de infecção pelo HIV. Neste contexto, particular atenção deverá ser prestada ao ESG, através de um currículo que permita desenvolver nos jovens comportamentos e atitudes responsáveis perante a
 
 70
 
@@ -2601,9 +2732,11 @@ O HIV/SIDA é um grande factor de risco para o desenvolvimento harmonioso do sis
 
 [[START OF PAGE 90]]
 
-A implementação da política sobre a pandemia do HIV no local de trabalho vai minorar os efeitos  da  pandemia  no  seio  dos  docentes.  Neste  contexto,  serão  realizadas  as  seguintes acções:
+pandemia, incluindo outras formas de prevenção e disseminação do conhecimento sobre o HIV/SIDA.
 
-- Substituição dos professores falecidos devido à pandemia e outras causas. Estimase que cerca de 16% a 17% do corpo docente do ESG poderá estar afectado pela pandemia, sendo a taxa de mortalidade anual estimada entre 1,5 e 1,7% ao longo do período;
+A implementação da política sobre a pandemia do HIV no local de trabalho vai minorar os efeitos da pandemia no seio dos docentes. Neste contexto, serão realizadas as seguintes acções:
+
+- Substituição dos professores falecidos devido à pandemia e outras causas. Estima-se que cerca de 16% a 17% do corpo docente do ESG poderá estar afectado pela pandemia, sendo a taxa de mortalidade anual estimada entre 1,5 e 1,7% ao longo do período;
 
 - Tratamento e apoio dos professores infectados;
 
@@ -2619,11 +2752,11 @@ A  conservação  do  meio  ambiente  é  um  dever  de  todo  o  cidadão.  Par
 
 Os  objectivos e acções estratégicas, indicadores e pressupostos de reformas para a materialização das questões transversais estão sistematizados na tabela que se segue.
 
+Tabela 16: Questões transversais
+
 Objectivos estratégicos | Acções Estratégicas | Indicadores e metas | Pressupostos de reformas
 --- | --- | --- | ---
 Assegurar o acesso equitativo ao ESG | Alcançar a paridade de género em termos de graduações no EP2 Reduzir as disparidades | 50% dos graduados do EP2 são mulheres até 2012; Aumentar a frequência | Estratégia de Género implementada
-
-Tabela 16: Questões transversais
 
 71
 
@@ -2633,7 +2766,7 @@ Tabela 16: Questões transversais
 
 Objectivos estratégicos | Acções Estratégicas | Indicadores e metas | Pressupostos de reformas
 --- | --- | --- | ---
-regionais e de género no ESG Formar professoras particularmente para a área das ciências | feminina até 50% em 2015; Atingir 50% de vagas para mulheres na FP até 2012.
+ | regionais e de género no ESG Formar professoras particularmente para a área das ciências | feminina até 50% em 2015; Atingir 50% de vagas para mulheres na FP até 2012. | 
 Assegurar um ambiente escolar saudável | Implementar um programa de prevenção e mitigação do HIV e doenças endémicas Formar estudantes dos IFP em assuntos relacionados com a saúde escolar Promover e disseminar informação sobre a prevenção de doenças endémicas; Formar estudantes em assuntos relacionados com a conservação do meio ambiente, com vista ao desenvolvimento sustentável. Consolidar os materiais desenvolvidos sobre educação ambiental | 100% das escolas oferecem serviços de aconselhamento em Infecções de Transmissão Sexual (ITS) e outras doenças até 2009 85% dos professores do ESG formados em matérias de saúde escolar até 2012 Currículo das IFP contém matérias relacionadas com a saúde escolar e HIV | Consolidar parcerias com o MISAU e MICOA
 
 72
@@ -2650,19 +2783,19 @@ O financiamento ao ensino secundário geral continuará a ser feito, fundamental
 
 Para a estimativa dos custos da Estratégia assumiram-se os seguintes pressupostos:
 
-- Que a economia do país continuará a crescer a um ritmo de 7% ao ano;
+1. Que a economia do país continuará a crescer a um ritmo de 7% ao ano;
 
-- Que o financiamento do Estado (Orçamento do Estado) ao sector da educação vai aumentar dos actuais 16 para os 20% a partir de 2009, mantendo-se nesse nível até 2015;
+2. Que o financiamento do Estado (Orçamento do Estado) ao sector da educação vai aumentar dos actuais 16 para os 20% a partir de 2009, mantendo-se nesse nível até 2015;
 
-- Que o financiamento ao Ensino Secundário vai aumentar dos actuais 16% para os 35%;
+3. Que o financiamento ao Ensino Secundário vai aumentar dos actuais 16% para os 35%;
 
-- Que  o  financiamento  ao  Ensino  Primário  vai  decrescer,  em  parte  devido  à redução de alunos neste subsistema como fruto da estabilização dos efectivos neste nível do Educação Geral;
+4. Que o financiamento ao Ensino Primário vai decrescer, em parte devido à redução de alunos neste subsistema como fruto da estabilização dos efectivos neste nível do Educação Geral;
 
-- Que,  ao  longo  do  período  da  implementação  da  estratégia,  vai-se  manter  a proporção  do  financiamento  ao  Ensino  Superior  em  15%  do  Orçamento  da Educação;
+5. Que, ao longo do período da implementação da estratégia, vai-se manter a proporção do financiamento ao Ensino Superior em 15% do Orçamento da Educação;
 
-- Que haverá um incremento  no financiamento  do Estado às escolas  públicas através do ADE;
+6. Que haverá um incremento no financiamento do Estado às escolas públicas através do ADE;
 
-- Que os pais e encarregados  de  educação,  progressivamente,  vão  aumentar  a sua contribuição para o funcionamento das escolas secundárias.
+7. Que os pais e encarregados de educação, progressivamente, vão aumentar a sua contribuição para o funcionamento das escolas secundárias.
 
 73
 
@@ -2670,14 +2803,14 @@ Para a estimativa dos custos da Estratégia assumiram-se os seguintes pressupost
 
 [[START OF PAGE 93]]
 
+Tabela 17: Financiamento da Estratégia
+
 Objectivos estratégicos | Acções Estratégicas | Indicadores e metas | Pressupostos de reformas
 --- | --- | --- | ---
-Assegurar financiamento adequado ao ESG . | Incrementar a proporção do orçamento da Educação para o Ensino Secundário. | 20% do Orçamento do Estado, incluindo o apoio externo é destinado ao sector da Educação a partir de 2009; 35% do orçamento da Educação financia o ESG em 2015. | Política do Governo continua a privilegiar a Educação e o Cenário Fiscal de Médio Prazo (CFMP) reflecte estas prioridades.
-Reforçar o financiamento às escolas secundárias através do ADE. | A partir de 2010, 100% das escolas recebem entre 750 Mt e 1000 Mt por aluno no ESG1 e ESG2 respectivamente. | Regulamentação do ADE para financiar materiais de ensino no ESG aprovada e implementada.
-Os pais e encarregados de educação com capacidade contribuem para as despesas das escolas. | 90% dos alunos pagam propinas que variam entre os 450 Mt e 900 Mt anuais até 2010; Sistema de isenção de propinas para alunos carentes desenvolvido e implementado. | Regulamento de propinas aprovado e implementado ao longo da vigência da Estratégia. Conselhos de Escola monitoram a implementação do regulamento.
+Assegurar financiamento adequado ao ESG. | Incrementar a proporção do orçamento da Educação para o Ensino Secundário. | 20% do Orçamento do Estado, incluindo o apoio externo é destinado ao sector da Educação a partir de 2009; 35% do orçamento da Educação financia o ESG em 2015. | Política do Governo continua a privilegiar a Educação e o Cenário Fiscal de Médio Prazo (CFMP) reflecte estas prioridades.
+ | Reforçar o financiamento às escolas secundárias através do ADE. | A partir de 2010, 100% das escolas recebem entre 750 Mt e 1000 Mt por aluno no ESG1 e ESG2 respectivamente. | Regulamentação do ADE para financiar materiais de ensino no ESG aprovada e implementada.
+ | Os pais e encarregados de educação com capacidade contribuem para as despesas das escolas. | 90% dos alunos pagam propinas que variam entre os 450 Mt e 900 Mt anuais até 2010; Sistema de isenção de propinas para alunos carentes desenvolvido e implementado. | Regulamento de propinas aprovado e implementado ao longo da vigência da Estratégia. Conselhos de Escola monitoram a implementação do regulamento.
 Incrementar a eficiência da utilização dos recursos | Formar professores bi e polivalentes. Contratar em sistema de tempo parcial os professores especializados apenas numa disciplina e com número de horas reduzido. Priorizar a construção de novas escolas a custos reduzidos e sustentáveis. | 50% dos professores têm qualificações em pelo menos 2 disciplinas em 2012. Recursos para contratação de professores a tempo parcial disponibilizados às escolas rurais (pequenas). Construções de novas escolas secundárias realizadas com o apoio das comunidades a partir de 2010. | Estratégia de construções de escolas do EP a custos sustentáveis adoptada para a construção de novas escolas
-
-Tabela 17: Financiamento da Estratégia
 
 74
 
@@ -2687,19 +2820,19 @@ Tabela 17: Financiamento da Estratégia
 
 Objectivos estratégicos | Acções Estratégicas | Indicadores e metas | Pressupostos de reformas
 --- | --- | --- | ---
-Construções a custos reduzidos realizadas também nas zonas urbanas. | secundárias.
-Promover parcerias com os privados e comunidades para assegurar o ensino e outros serviços. | Providenciar incentivos ao investimento privado e comunitário para abertura de novas escolas secundárias. | 15% dos estudantes do ESG1 e 20% dos do ESG2 frequentam escolas privadas e comunitárias em 2012. | Simplificar o regulamento para abertura e registo de escolas e centros de internamento privados e comunitários. Sistema
-Contratar entidades privadas e comunitárias para operar e construir centros internatos. | Reduzido o número de alunos que vivem nos centros internatos até 2015. Regulamento das escolas privadas e comunitárias desenvolvido e aplicado. | de financiamento às instituições de ensino privadas estabelecido e implementado.
+ |  | Construções a custos reduzidos realizadas também nas zonas urbanas. | secundárias.
+Promover parcerias com os privados e comunidades para assegurar o ensino e outros serviços. | Providenciar incentivos ao investimento privado e comunitário para abertura de novas escolas secundárias. | 15% dos estudantes do ESG1 e 20% dos do ESG2 frequentam escolas privadas e comunitárias em 2012. | Simplificar o regulamento para abertura e registo de escolas e centros de internamento privados e comunitários. Sistema de financiamento às instituições de ensino privadas estabelecido e implementado.
+ | Contratar entidades privadas e comunitárias para operar e construir centros internatos. | Reduzido o número de alunos que vivem nos centros internatos até 2015. Regulamento das escolas privadas e comunitárias desenvolvido e aplicado. | 
 
 Considerando estas condições e usando o modelo de simulação financeira, foi possível obter os custos totais do programa da Educação assim como o défice financeiro do sector ao longo do período da implementação da estratégia, como mostra a tabela 18. Com efeito, prevê-se uma redução do défice financeiro, em termos relativos, dos 17% em 2007 para 1% em 2015, o que significa, em termos absolutos, uma redução dos 3,2 Mil Milhões de Mt em 2009, para os 208,6 Milhões de Mt em 2015.
+
+Tabela 18: Previsão de despesa do sector da Educação (em Milhões de Mt)
 
 Descrição | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | ---
 Custos da Educação | 18.278,0 | 19.533,3 | 20.620,6 | 21.069,8 | 21.069,3 | 21.573,5 | 22.814,3
 Financiamento Interno | 15.084,1 | 16.136,2 | 17.261,8 | 18.465,8 | 19.753,9 | 21.131,7 | 22.605,7
 Défice Financeiro | 3.193,9 | 3.397,1 | 3.358,9 | 2.604,0 | 1.315,4 | 441,8 | 208,6
-
-Tabela 18 : Previsão de despesa do sector da Educação (em Milhões de Mt)
 
 O  gráfico  12  torna  mais  visível  a  previsão  das  despesas  para  o  sector  da  Educação,  não incluindo a área da Cultura.
 
@@ -2747,9 +2880,9 @@ O sucesso da implementação da Estratégia está assente na utilização eficie
 
 #### 3.5.2 Financiamento às Escolas
 
-- O  Apoio  Directo  às  Escolas  (ADE)  foi  introduzido  em  2008  como  forma  de  aumentar  o financiamento  às  escolas  para  a  aquisição  de  livros,  materiais  e  equipamentos  para  as ciências, TICs, formação em serviço dos professores, manutenção e despesas com material desportivo  e  material  para  os  jovens  com  necessidades  educativas  especiais,  para  além  de outros elementos necessários ao funcionamento das escolas secundárias.
+O Apoio Directo às Escolas (ADE) foi introduzido em 2008 como forma de aumentar o financiamento às escolas para a aquisição de livros, materiais e equipamentos para as ciências, TICs, formação em serviço dos professores, manutenção e despesas com material desportivo e material para os jovens com necessidades educativas especiais, para além de outros elementos necessários ao funcionamento das escolas secundárias.
 
-- O ADE deverá contribuir, anualmente, com 750,00 Mt por aluno no ESG1 e 1000,00 Mt por aluno  no  ESG2,  como  forma  de  financiar  as  actividades  relacionadas  com  a  melhoria  da qualidade de ensino.
+O ADE deverá contribuir, anualmente, com 750,00 Mt por aluno no ESG1 e 1000,00 Mt por aluno no ESG2, como forma de financiar as actividades relacionadas com a melhoria da qualidade de ensino.
 
 #### 3.5.3 Envolvimento dos pais e encarregados de educação
 
@@ -2785,14 +2918,14 @@ As novas taxas de matrícula devem entrar em vigor em 2010 e será implementada 
 
 [[START OF PAGE 97]]
 
-Taxa de matrícula | Taxa de propinas
---- | --- | --- | --- | --- | --- | ---
-Nível | Diurno | Nocturno | Escolas urbanas | Escolas rurais
-Diurno | Nocturno | Diurno | Nocturno
-ESG1 100-150 | 150-200 | 150-200 | 200-250 | 100-150 | 150-200
-ESG2 | 150-200 | 200-300 | 200-250 | 250-300 | 150-200 | 200-250
-
 Tabela 19: Taxas de matrícula (Meticais)
+
+Nível | Taxa de matrícula |  | Taxa de propinas |  |  | 
+ | Diurno | Nocturno | Escolas urbanas |  | Escolas rurais | 
+ |  |  | Diurno | Nocturno | Diurno | Nocturno
+--- | --- | --- | --- | --- | --- | ---
+ESG1 | 100-150 | 150-200 | 150-200 | 200-250 | 100-150 | 150-200
+ESG2 | 150-200 | 200-300 | 200-250 | 250-300 | 150-200 | 200-250
 
 #### 3.5.4 Despesas do Ensino Secundário Geral
 
@@ -2800,19 +2933,15 @@ Para a concretização da Estratégia, deve ser aumentada a proporção do finan
 
 Entretanto,  os custos  do  ESG1  deverão  aumentar,  como  indicado  na  tabela  20,  de  4,027,0 Milhões de Mt para cerca de 5.558,7 Milhões de Mt em 2015. Contudo, os custos correntes por aluno irão aumentar paulatinamente dos actuais cerca de 2.000 Mt para os 3.300 Mt, em resultado do aumento do financiamento às escolas (ADE). Destes, cerca de  45% representarão despesas não salariais, o que indica o aumento das despesas para a melhoria da qualidade de ensino.
 
+Tabela 20: Previsão de despesas do ESG1 (Milhões de Mt)
+
 Descrição | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | ---
-Custos totais do ESG1 despesas | 4.027, 0 | 4.321, 1 | 4.752, 8 | 5.060, 1 | 4.890, 9 | 5.155, 6 | 5.558, 7
-Total de | 2.188, | 2.442, 9 | 2.771, 4 | 2.985, 7 | 3.298, | 3.452, | 3.516, 5
-correntes | 7 | 6 | 3
-1.148, | 1.313, | 1.500, | 1.630, | 1.805, | 1.902, | 1.945,
-Pessoal | 5 | 8 | 7 | 1 | 8 | 0 | 8
-Outras despesas | 1.040, | 1.129, | 1.270, | 1.355, | 1.492, | 1.550, | 1.570,
-correntes | 2 | 1 | 7 | 6 | 8 | 3 | 7
-1.838, | 1.878, | 1.981, | 2.074, | 1.592, | 1.703, | 2.042,
-Investimento | 3 | 2 | 4 | 4 | 3 | 4 | 2
-
-Tabela 20 : Previsão de despesas do ESG1 (Milhões de Mt)
+Custos totais do ESG1 | 4.027,0 | 4.321,1 | 4.752,8 | 5.060,1 | 4.890,9 | 5.155,6 | 5.558,7
+Total de despesas correntes | 2.188,7 | 2.442,9 | 2.771,4 | 2.985,7 | 3.298,6 | 3.452,3 | 3.516,5
+Pessoal | 1.148,5 | 1.313,8 | 1.500,7 | 1.630,1 | 1.805,8 | 1.902,0 | 1.945,8
+Outras despesas correntes | 1.040,2 | 1.129,1 | 1.270,7 | 1.355,6 | 1.492,8 | 1.550,3 | 1.570,7
+Investimento | 1.838,3 | 1.878,2 | 1.981,4 | 2.074,4 | 1.592,3 | 1.703,4 | 2.042,2
 
 No ESG2, os custos irão aumentar dos 1.461,7 Milhões de Mt para os 2.605,6 Milhões de Mt em 2015. As despesas de investimento aumentarão até 2012, altura em que haverá maiores crescimentos do ESG2, seguidos de um período de redução, o que resultará numa diminuição do  crescimento  das  despesas  totais  deste  nível  de  ensino  em  2013.  Assim,  as  despesas correntes, em média, por aluno deverão aumentar dos 4.622 Mt em 2006, para os 6.240 Mt em 2015.
 
@@ -2822,14 +2951,15 @@ No ESG2, os custos irão aumentar dos 1.461,7 Milhões de Mt para os 2.605,6 Mil
 
 [[START OF PAGE 98]]
 
+Tabela 21: Previsão de despesas do ESG2 (Milhões de Mt)
+
 Descrição | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | ---
-Custos totais do ESG2 Total de despesas correntes | 1.461, 7 749,0 | 1.741, 8 1.013, 7 | 2.074, 6 1.306, 5 | 2.398, 9 1.583, 6 | 2.208, 1 1.783, 4 | 2.392, 6 1.938, 0 | 2.605, 6 2.044, 1
-Pessoal | 398,9 | 548,9 | 717,4 | 879,4 | 1.001, 6 | 1.098, 8 | 1.170, 6
+Custos totais do ESG2 | 1.461,7 | 1.741,8 | 2.074,6 | 2.398,9 | 2.208,1 | 2.392,6 | 2.605,6
+Total de despesas correntes | 749,0 | 1.013,7 | 1.306,5 | 1.583,6 | 1.783,4 | 1.938,0 | 2.044,1
+Pessoal | 398,9 | 548,9 | 717,4 | 879,4 | 1.001,6 | 1.098,8 | 1.170,6
 Outras despesas correntes | 350,1 | 464,8 | 589,2 | 704,2 | 781,8 | 839,2 | 873,5
 Investimento | 712,6 | 728,1 | 768,1 | 815,2 | 424,7 | 454,6 | 561,5
-
-Tabela 21 : Previsão de despesas do ESG2 (Milhões de Mt)
 
 O  gráfico  13  mostra  a  previsão  das  despesas  para  o  primeiro  e  segundo  ciclo  do  ensino secundário.
 
@@ -2899,19 +3029,19 @@ A sociedade, como principal beneficiária e parceira do Governo no processo de i
 
 Para a implementação da Estratégia foram definidas as seguintes acções estratégicas a curto e médio e longo prazo:
 
+Tabela 22: Acções estratégicas
+
 Acções de curto prazo (com início em 2009) | Acções de médio prazo (com início em 2012)
 --- | ---
-Provisão de manuais escolares (regulamentação e definição dos rácios e custos no ESG1 e no ESG2).
-Aplicar os critérios de admissão de novos ingressos ao ESG1 baseada em competências, acompanhada de medidas para garantir que as meninas e os jovens com necessidades educativas especiais não sejam descriminados.
-Criação de quadro de legislação para estimular o desenvolvimento da parceria público-privada.
-Estabelecimento de um regulamento de propinas que permita aumentar a contribuição dos que têm capacidade financeira para pagar, sem descriminar os que têm menos posses.
-Generalização de um programa de construção de escolas de baixo custo com apoio das comunidades.
-Estabelecimento do Apoio Directo às Escolas (num valor de 750 Mt por aluno das ESG1 e 1000 para os alunos das ESG2).
-Limitação da contratação anual de professores formados no nível de bacharel e licenciatura para assegurar a sustentabilidade da estratégia (1.000 por ano para o ESG1 e ESG2).
-Desenvolvimentos de sistema para a formação dos jovens que não entram ou não concluem o ESG1.
-Aumento do ano lectivo escolar em 4/5 semanas entre 2009 e 2015.
-
-Tabela 22: Acções estratégicas
+Provisão de manuais escolares (regulamentação e definição dos rácios e custos no ESG1 e no ESG2). | 
+Aplicar os critérios de admissão de novos ingressos ao ESG1 baseada em competências, acompanhada de medidas para garantir que as meninas e os jovens com necessidades educativas especiais não sejam descriminados. | 
+ | Criação de quadro de legislação para estimular o desenvolvimento da parceria público-privada.
+Estabelecimento de um regulamento de propinas que permita aumentar a contribuição dos que têm capacidade financeira para pagar, sem descriminar os que têm menos posses. | 
+Generalização de um programa de construção de escolas de baixo custo com apoio das comunidades. | 
+Estabelecimento do Apoio Directo às Escolas (num valor de 750 Mt por aluno das ESG1 e 1000 para os alunos das ESG2). | 
+Limitação da contratação anual de professores formados no nível de bacharel e licenciatura para assegurar a sustentabilidade da estratégia (1.000 por ano para o ESG1 e ESG2). | 
+ | Desenvolvimentos de sistema para a formação dos jovens que não entram ou não concluem o ESG1.
+Aumento do ano lectivo escolar em 4/5 semanas entre 2009 e 2015. | 
 
 80
 
@@ -2919,21 +3049,21 @@ Tabela 22: Acções estratégicas
 
 [[START OF PAGE 100]]
 
+Tabela 23: Acções estratégicas no período 2009-2015
+
 Acções de curto prazo (com início em 2009) | Acções de médio prazo (com início em 2012)
 --- | ---
 Estabelecimento de um programa de ensino à distância para professores formados em cursos de 10+2 e para a formação dos professores de 12+1 numa segunda disciplina). | Avaliação do programa de Formação de Professores de 12ª + 1 para a introdução de reformas.
 Desenvolvimento de programas de formação profissional e EAD para jovens que não entrem ou não concluam o ESG1. | Expansão da formação e recrutamento de professores com 12ª+1.
-Avaliação de meio-termo e revisão da Estratégia do ESG em articulação com a estratégia do ETP.
-Revisão do programa de EAD do ESG1.
-Encorajar a provisão do ESG pelos privados.
-Desenvolvimento de uma política sustentável para providenciar materiais escolares para as ciências e para a implementação das TICs no ESG.
-Revisão do currículo do ESG para assegurar a integração das disciplinas.
-Revisão do currículo de Formação de Professores para dar mais atenção às questões de género e ao HIV.
-Implementação de um plano de formação de professores, construção de escolas e provisão de livros e outros materiais escolares.
-Desenho e implementação de um programa de formação de directores de escolas.
-Reforço da supervisão e do apoio pedagógico e administrativo às escolas.
-
-Tabela 23: Acções estratégicas no período 2009-2015
+ | Avaliação de meio-termo e revisão da Estratégia do ESG em articulação com a estratégia do ETP.
+Revisão do programa de EAD do ESG1. | 
+Encorajar a provisão do ESG pelos privados. | 
+Desenvolvimento de uma política sustentável para providenciar materiais escolares para as ciências e para a implementação das TICs no ESG. | 
+ | Revisão do currículo do ESG para assegurar a integração das disciplinas.
+ | Revisão do currículo de Formação de Professores para dar mais atenção às questões de género e ao HIV.
+Implementação de um plano de formação de professores, construção de escolas e provisão de livros e outros materiais escolares. | 
+Desenho e implementação de um programa de formação de directores de escolas. | 
+Reforço da supervisão e do apoio pedagógico e administrativo às escolas. | 
 
 81
 
@@ -2947,13 +3077,13 @@ A Estratégia do Ensino Secundário Geral fundamenta-se na necessidade da gestã
 
 Existem condições apropriadas para a implementação com sucesso da estratégia do ensino secundário entre as quais se destacam:
 
-- A nível nacional, o ambiente de estabilidade e de paz que o país vive, conjugados com o crescimento económico (entre 7 - 8% anualmente), permitirá aumentar a receita do Governo e o consequente aumento dos investimentos para o sector da Educação e, em particular para o Ensino Secundário.
+- A nível nacional, o ambiente de estabilidade e de paz que o país vive, conjugados com o crescimento económico (entre 7 – 8% anualmente), permitirá aumentar a receita do Governo e o consequente aumento dos investimentos para o sector da Educação e, em particular para o Ensino Secundário.
 
 - A nível internacional, o país tem vindo a granjear a atenção dos parceiros, que têm apoiado  de  forma  multifacetada  o  desenvolvimento  nacional,  incluindo  o  sector  da Educação. O apoio ao orçamento do Estado e as parcerias com o sector da Educação mostram o cometimento dos parceiros de cooperação para com o desenvolvimento do país  em  geral  e  da  Educação  em  particular.  Em  2007  a  comunidade  internacional, através da parceria do FTI, comprometeu-se a aumentar o apoio financeiro ao sector da  educação  para  assegurar  a  implementação  do  PEEC,  o  qual  terá  um  impacto positivo para o desenvolvimento do ensino secundário.
 
 As  reformas  do  Ensino  Secundário  não  poderão  ser  feitas  sem  uma  visão  de  longo  prazo, partilhada  entre  as  autoridades  centrais,  provinciais  e  locais  do  Governo  e  a  sociedade  em geral. Para o alcance dos objectivos propostos, o Governo, a todos os níveis, e em particular a nível  das  províncias,  deverá  dinamizar  o  processo  de  reforma  do  ensino  secundário  em parceria com  a sociedade civil. A  liderança política do Governo e a partilha de responsabilidades entre este e a sociedade (incluindo o sector privado) será fundamental para assegurar a expansão de um ensino secundário relevante e de qualidade em todo o país.
 
-Considerando o princípio de que ' a educação é tarefa de todos ',  o  Governo  estimula  que iniciativas  de  outros  sectores  concorram  para  reforçar  a  educação  formal  através  de programas que contribuam para a melhoria da qualidade.
+Considerando o princípio de que “a educação é tarefa de todos”, o Governo estimula que iniciativas de outros sectores concorram para reforçar a educação formal através de programas que contribuam para a melhoria da qualidade.
 
 ### 4.1 Mobilização de recursos financeiros internos e externos
 
@@ -3023,10 +3153,11 @@ Ano | Actividade
 --- | ---
 2009 | Divulgação da Estratégia do ESG
 2010 | Elaboração do Plano Operacional e Cronograma (Março); Reorganização curricular, tornando o currículo mais integrado e com forte componente profissionalizante; Fortalecimento da formação de professores para a componente profissionalizante, com envolvimento de várias instituições (Ex. UP, UEM e sector privado); Contratação de professores especializados para a componente profissionalizante Introdução do Ensino a Distância para o ESG2 Formação de gestores escolares Construção de escolas secundárias pequenas e seu apetrechamento (equipamento); Realização de acções de monitoria (Permanente) Identificação de escolas com potencial para excelência;
+ | Apetrechamento das bibliotecas escolares;
 2011 | Criação de escolas de excelência
 2012 | Implementação do currículo integrado
-Avaliação de meio-termo da implementação da estratégia do
-2013 | ESG Formação de todos os gestores das escolas secundárias
+2013 | Avaliação de meio-termo da implementação da estratégia do ESG
+ | Formação de todos os gestores das escolas secundárias
 2014 | Avaliação preliminar da implementação do currículo integrado do ESG
 2015 | Avaliação da Estratégia do ESG
 
@@ -3038,29 +3169,29 @@ Avaliação de meio-termo da implementação da estratégia do
 
 ## 7. Bibliografia
 
-Lei 4/83 'Aprova  a  Lei do Sistema Nacional de Educação  e  define os princípios fundamentais na sua aplicação', BR. 12, I Série de 23 de Março de 1983.
+Lei 4/83 “Aprova a Lei do Sistema Nacional de Educação e define os princípios fundamentais na sua aplicação”, BR. 12, I Série de 23 de Março de 1983.
 
-Decreto  11/90,  de  1  de  Junho  de  1990  'Autoriza  o  exercício  de  actividades  de  ensino particular e de explicador e revoga os artigos 1 e 6 do Decreto nº 12/75, de 6 de Setembro'.
+Decreto 11/90, de 1 de Junho de 1990 “Autoriza o exercício de actividades de ensino particular e de explicador e revoga os artigos 1 e 6 do Decreto nº 12/75, de 6 de Setembro”.
 
-Diploma ministerial 61/2003 de 11 de Junho, 'Regulamenta o Ensino Secundário Geral', BR. 24, I série, de 11 de Junho 2003.
+Diploma ministerial 61/2003 de 11 de Junho, “Regulamenta o Ensino Secundário Geral”, BR. 24, I série, de 11 de Junho 2003.
 
-Diploma Ministerial 68/96 de 7 de Agosto, 'Reformula o Plano de Estudos do 2º ciclo do ESG', BR 35, I série de 7 de Agosto de 1996.
+Diploma Ministerial 68/96 de 7 de Agosto, “Reformula o Plano de Estudos do 2º ciclo do ESG”, BR 35, I série de 7 de Agosto de 1996.
 
-Diploma Ministerial 79/96, de 28 de Agosto, 'Aprova o Regulamento de Avaliação do ESG', BR. 35, I série. de 28 de Agosto de 1996.
+Diploma Ministerial 79/96, de 28 de Agosto, “Aprova o Regulamento de Avaliação do ESG”, BR. 35, I série. de 28 de Agosto de 1996.
 
-Lei 6/92, 'Reajusta o quadro geral do SNE e adequa as disposições nele contidas', BR. 19, I série, de 6 de Maio de 1992.
+Lei 6/92, “Reajusta o quadro geral do SNE e adequa as disposições nele contidas”, BR. 19, I série, de 6 de Maio de 1992.
 
-Diploma  Ministerial  126/94,  'Procede  à  revisão  do  Regulamento  do  Ensino  Particular  e revoga  o  Diploma  Ministerial  63/91',  de  26  de  Junho  de  1991,  BR.  40,  I  série,  de  5  de Outubro de 1994.
+Diploma Ministerial 126/94, “Procede à revisão do Regulamento do Ensino Particular e revoga o Diploma Ministerial 63/91”, de 26 de Junho de 1991, BR. 40, I série, de 5 de Outubro de 1994.
 
-Diploma Ministerial 6/86, de 22 de Janeiro de 1986, 'Aprova o Regulamento de Propinas e Taxas de Internamento no SNE.
+Diploma Ministerial 6/86, de 22 de Janeiro de 1986, “Aprova o Regulamento de Propinas e Taxas de Internamento no SNE.
 
-Diploma Ministerial 153/87, de 9 Dezembro 1987, 'Introduz alterações ao Regulamento de Propinas e taxas e internamento aprovado pelo Diploma Ministerial 6/86 de 22 de Janeiro'.
+Diploma Ministerial 153/87, de 9 Dezembro 1987, “Introduz alterações ao Regulamento de Propinas e taxas e internamento aprovado pelo Diploma Ministerial 6/86 de 22 de Janeiro”.
 
 Plano Estratégico da Educação e Cultura, Aprovado pela 14ª Sessão Ordinária do Conselho de Ministros, Maputo, Junho 2006.
 
 Orientações  e  Tarefas  Escolares  Obrigatórias  para  o  período  de  2007  a  2009,  Maputo, Novembro 2006.
 
-Lei 4/94 'Lei do Mecenato' de 13 de Setembro de 1994.
+Lei 4/94 “Lei do Mecenato” de 13 de Setembro de 1994.
 
 Estatísticas da Educação, Ministério da Educação e Cultura.
 
@@ -3072,7 +3203,7 @@ Protocol of Education and Training SADC.
 
 A Pobreza na Infância em Moçambique, Uma análise da situação e das tendências. UNICEF, Maputo, 2006.
 
-Sub-Saharan Africa - 2007 AIDS epidemic update, Regional Summary, UNAIDS, 2007.
+Sub-Saharan Africa – 2007 AIDS epidemic update, Regional Summary, UNAIDS, 2007.
 
 Science  Teaching  and  Learning  in  Mozambique  -  A  Report  to  the  Secondary  Education Working Group Ministry of Education Mozambique, Andrew Clegg, Dezembro 2007.
 
