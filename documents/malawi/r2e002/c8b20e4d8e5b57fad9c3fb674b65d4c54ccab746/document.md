@@ -6,7 +6,7 @@ constituteproject.org
 
 # Malawi's Constitution of 1994 with Amendments through 2017
 
-This  complete  constitution  has  been  generated  from  excerpts  of  texts  from  the  repository  of  the Comparative Constitutions Project, and distributed on constituteproject.org .
+This complete constitution has been generated from excerpts of texts from the repository of the Comparative Constitutions Project, and distributed on constituteproject.org.
 
 [[END OF PAGE 1]]
 
@@ -18,10 +18,47 @@ PDF generated: 30 Jul 2018, 21:47
 
 ## Table of contents
 
+Preamble . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+CHAPTER I: THE REPUBLIC OF MALAWI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+1. Malawi a sovereign state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+2. The national flag, etc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+3. The national territory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+4. Protection of the people of Malawi under this constitution . . . . . . . . . . . . . . . . . . . . . . . . . 9
+5. Supremacy of this Constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+6. Authority to govern, universal and equal suffrage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+7. The separate status, function and duty of the executive . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+8. The separate status, function and duty of the legislature . . . . . . . . . . . . . . . . . . . . . . . . . 10
+9. The separate status, function and duty of the judiciary . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+CHAPTER II: APPLICATION AND INTERPRETATION . . . . . . . . . . . . . . . . . . . 10
+10. Application of this Constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+11. Interpretation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+CHAPTER III: FUNDAMENTAL PRINCIPLES . . . . . . . . . . . . . . . . . . . . . . . . . 11
+12. Constitutional principles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+13. Principles of national policy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+14. Application of the principles of national policy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+CHAPTER IV: HUMAN RIGHTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+15. Protection of human rights and freedoms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+16. The right to life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+17. Genocide . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+18. Liberty . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+19. Human dignity and personal freedoms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+20. Equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+21. Privacy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+22. Family and marriage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+23. Rights of children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+24. Rights of women . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+25. Education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+26. Culture and language . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+27. Slavery, servitude and forced labour . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+28. Property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+29. Economic activity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+30. Right to development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+31. Labour . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+32. Freedom of association . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+
 Malawi 1994 (rev. 2017)
 
 Page 2
-
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -30,10 +67,48 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:47
 
+33. Freedom of conscience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+34. Freedom of opinion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+35. Freedom of expression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+36. Freedom of the press . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+37. Acess to information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+38. Freedom of Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+39. Freedom of movement and residence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+40. Political rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+41. Access to justice and legal remedies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+42. Arrest, detention and fair trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+43. Administrative justice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+44. Limitations on rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+45. Derogation and public emergency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+46. Enforcement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+CHAPTER V: CITIZENSHIP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+47. Citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+CHAPTER VI: THE LEGISLATURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+48. Parliament . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+49. Definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+50. Quorum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+51. Qualifications of members of Parliament . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+52. Oath of allegiance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+53. The Speaker and Deputy Speakers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+54. Casting vote . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+55. The Clerk . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+56. The right to regulate procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+57. Money bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+58. Subsidiary legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+59. Sessions, meetings and sittings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+60. Privileges and immunities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+61. Member’s interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+62. Composition of the National Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+63. Vacancies in the National Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+65. Crossing the floor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+66. Functions and powers of the National Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+67. Dissolution of the National Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+73. Presidential assent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+74. The coming into force of laws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
 Malawi 1994 (rev. 2017)
 
 Page 3
-
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
@@ -42,10 +117,48 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:47
 
+CHAPTER VII: ELECTIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+75. The Electoral Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+76. Powers and functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+77. The franchise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+CHAPTER VIII: THE EXECUTIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+78. The President . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+79. The Vice-President . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+80. Election of the President and the First Vice-President . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+81. Oath of office . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+82. Renumeration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+83. Tenure of office . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+84. Death or resignation of a Vice-President . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+85. Vacancy of office of President and Vice-President . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+86. Removal from office . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+87. Incapacity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+88. Responsibility of the President . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+88A. Prevention of conflicts of interests of the President and Cabinet . . . . . . . . . . . . . . . . . 41
+89. Powers and duties of the President . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+90. Confirmation of decisions etc., of the President . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+91. Immunity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+92. Cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+93. Government departments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+94. Appointment of ministers and Deputy Ministers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+95. Oath of office and removal of Minister or Deputy Minister . . . . . . . . . . . . . . . . . . . . . . 44
+96. Duties and functions of the Cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+97. Ministerial accountability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+98. The Attorney General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+99. The Director of Public Prosecution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+100. Delegation of powers to prosecute . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+101. Appointment of the Director of Public Prosecutions . . . . . . . . . . . . . . . . . . . . . . . . 47
+102. Removal of the Director of Public Prosecutions . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+CHAPTER IX: THE JUDICATURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+103. The independence and jurisdiction of the courts and the judiciary . . . . . . . . . . . . . . . 47
+104. The Supreme Court of Appeal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+105. Composition of the Supreme Court of Appeal . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+106. Acting Justices of Appeal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+107. Relief from duties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+108. The High Court . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+
 Malawi 1994 (rev. 2017)
 
 Page 4
-
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
@@ -54,10 +167,48 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:47
 
+109. Composition of the High Court . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+110. Subordinate courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+111. Appointment of the Judiciary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+112. Qualification of Judicial officers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+113. Vacancy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+114. Remuneration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+115. The Judicial oath . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+116. The Judicial Service Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+117. Composition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+118. Powers of the Judicial Service Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+119. Tenure of office of Judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+CHAPTER X: THE OMBUDSMAN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+120. The office of the Ombudsman . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+121. Independence of the Ombudsman . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+122. Appointment of Ombudsman . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+123. Functions and powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+124. Powers of investigation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+125. Priviledges and immunities of the Ombudsman . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+126. Remedies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+127. Reports of the Ombudsman . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+128. Removal from office . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+CHAPTER XI: HUMAN RIGHTS COMMISSION . . . . . . . . . . . . . . . . . . . . . . . . . 56
+129. Establishment of the Human Rights Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+130. Powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+131. Composition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+CHAPTER XII: LAW COMMISSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+132. Establishment of the Law Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+133. Composition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+134. Removal of the Law Commissioner . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+135. Powers and functions of the Law Commissioner . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+136. Independence of the Law Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+CHAPTER XIII: NATIONAL COMPENSATION TRIBUNAL . . . . . . . . . . . . . . . . . 58
+137. The National Compensation Tribunal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+138. Exclusive original jurisdiction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+139. Composition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+140. Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+141. Protection of third party rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+142. Jurisdiction of ordinary courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+
 Malawi 1994 (rev. 2017)
 
 Page 5
-
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
@@ -66,10 +217,48 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:47
 
+143. Power to waive statutory limitations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+144. National Compensation Fund . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+145. Winding-up of the National Compensation Fund . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+CHAPTER XIV: LOCAL GOVERNMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+146. Local Government authorities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+147. Composition of local government authorities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+148. Jurisdiction of local government authorities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+149. National Local Government Finance Committee, its establishment, powers and functions . . 63
+150. Duty to provide adequate resources for local government functions . . . . . . . . . . . . . . . 63
+151. Composition of the National Local Government Finance Committee . . . . . . . . . . . . . . . 63
+CHAPTER XV: THE POLICE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+152. The Malawi Police Service . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+153. Powers and functions of the Police . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+154. The Inspector General of Police . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+155. The Police Service Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+156. Power to delegate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+157. Composition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+158. Political independence of the Malawi Police Service . . . . . . . . . . . . . . . . . . . . . . . . 67
+CHAPTER XVI: THE DEFENCE FORCE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
+159. The Defence Force of Malawi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
+160. Constitutional position of the Defence Force of Malawi . . . . . . . . . . . . . . . . . . . . . 68
+161. Responsibility for the Defence Force of Malawi . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+162. The Defence and Security Committee of the National Assembly . . . . . . . . . . . . . . . . 70
+CHAPTER XVII: PRISONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+163. The Malawi Prisons Service . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+164. The Chief Commissioner for Prisons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+165. Power to delegate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+166. Appointment of the Chief Commissioner for Prisons . . . . . . . . . . . . . . . . . . . . . . . . 71
+167. The Prisons Service Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+168. Composition of Prisons Service Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+169. The Inspectorate of Prisons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+170. Composition of the Inspectorate of Prisons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+CHAPTER XVIII: FINANCE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+171. Revenue . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+172. The Consolidated Fund . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+173. Withdrawal of money from the Consolidated Fund . . . . . . . . . . . . . . . . . . . . . . . . . 74
+174. Expenditure charged on the Consolidateed Fund . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+175. Annual estimates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+
 Malawi 1994 (rev. 2017)
 
 Page 6
-
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
@@ -78,10 +267,48 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:47
 
+176. Appropriation Bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+177. Supplementary appropriations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+178. Authorization of expenditure in advance of appropriation . . . . . . . . . . . . . . . . . . . . 77
+179. Contingency Fund . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+180. Raising of loans by the Government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+181. Special funds and trust moneys . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+182. The Development Fund . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+183. The Protected Expenditure Fund . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+184. Auditor General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+CHAPTER XIX: THE RESERVE BANK OF MALAWI . . . . . . . . . . . . . . . . . . . . . . 80
+185. The Reserve Bank of Malawi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+CHAPTER XX: CIVIL SERVICE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+186. The Civil Service Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+187. Powers and functions of the Civil Service Commission . . . . . . . . . . . . . . . . . . . . . . . 80
+188. Delegation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+189. Offices to which this Chapter does not apply . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+190. The appointment of Diplomatic staff . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+191. Appointment of members of the Civil Service Commission . . . . . . . . . . . . . . . . . . . . 82
+192. Vacancy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+193. Independence of the Civil Service . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+194. Chairing of boards, commissions, etc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+CHAPTER XXI: AMENDMENT OF THIS CONSTITUTION . . . . . . . . . . . . . . . . . 84
+195. Power to amend . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+196. Restrictions on amendments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+197. Amendments by Parliament . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+CHAPTER XXII: TRANSITIONAL ISSUES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+198. Republic, etc., to be constituted in accordance with this Constitution . . . . . . . . . . . . 85
+199. Status of this Constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+200. Saving of laws in force . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+201. Elections to the National Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+202. Election to the office of President . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+203. Saving of judicial power . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+204. Pending legal actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+205. Judgments and sentences pending execution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86
+206. Existing appointments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86
+207. Vesting of lands, etc., in the Republic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86
+208. Savings of rights of Government in property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+209. Continuation of rights of persons in property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+
 Malawi 1994 (rev. 2017)
 
 Page 7
-
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
@@ -90,10 +317,17 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:47
 
+211. International law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+CHAPTER XXIII: MISCELLANEOUS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+212. Coming into force of this Constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+213. Disclosure of assets by holders of certain offices . . . . . . . . . . . . . . . . . . . . . . . . . . . 89
+214. Short title of this Constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+215. Definition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+SCHEDULE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+
 Malawi 1994 (rev. 2017)
 
 Page 8
-
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
@@ -118,8 +352,6 @@ PDF generated: 30 Jul 2018, 21:47
 
 - Duty to obey the constitution
 
-·
-
 - General guarantee of equality
 
 - Constitutionality of legislation
@@ -128,7 +360,7 @@ PDF generated: 30 Jul 2018, 21:47
 
 ## Preamble
 
-THE PEOPLE OF MALAWI-
+THE PEOPLE OF MALAWI—
 
 - recognizing the sanctity of human life and the unity of all mankind;
 
@@ -216,7 +448,7 @@ The judiciary shall have the responsibility of interpreting, protecting and enfo
 
 - Appropriate principles of interpretation of this Constitution shall be developed and employed by the courts to reflect the unique character and supreme status of this Constitution.
 
-- In interpreting the provisions of this Constitution a court of law shall-
+- In interpreting the provisions of this Constitution a court of law shall—
 
 - promote the values which underlie an open and democratic society;
 
@@ -248,7 +480,7 @@ constituteproject.org
 
 ### 12. Constitutional principles
 
-- This Constitution is founded upon the following underlying principles-
+- This Constitution is founded upon the following underlying principles—
 
 - all  legal  and  political  authority  of  the  State  derives  from  the  people  of Malawi and shall be exercised in accordance with this Constitution solely to serve and protect their interests;
 
@@ -266,11 +498,11 @@ constituteproject.org
 
 ### 13. Principles of national policy
 
-The  State  shall  actively  promote  the  welfare  and  development  of  the  people  of Malawi by progressively adopting and implementing policies and legislation aimed at achieving the following goals-
+The  State  shall  actively  promote  the  welfare  and  development  of  the  people  of Malawi by progressively adopting and implementing policies and legislation aimed at achieving the following goals—
 
 #### Gender Equality
 
-To obtain gender equality through-
+To obtain gender equality through—
 
 - full  participation of women in all spheres of Malawian society on the basis of equal opportunities with men;
 
@@ -314,7 +546,7 @@ To provide adequate health care, commensurate with the health needs of Malawian 
 
 #### The Environment
 
-To manage the environment responsibly in order to-
+To manage the environment responsibly in order to—
 
 - prevent the degradation of the environment;
 
@@ -330,7 +562,7 @@ To enhance the quality of life in rural communities and to recognize rural stand
 
 #### Education
 
-To provide adequate  resources  to the education sector  and  devise programmes in order to-
+To provide adequate  resources  to the education sector  and  devise programmes in order to—
 
 - eliminate illiteracy in Malawi;
 
@@ -342,7 +574,7 @@ To provide adequate  resources  to the education sector  and  devise programmes 
 
 #### Persons with Disabilities
 
-To  enhance  the  dignity  and  quality  of  life  of  persons  with  disabilities  by providing-
+To  enhance  the  dignity  and  quality  of  life  of  persons  with  disabilities  by providing—
 
 - adequate and suitable access to public places;
 
@@ -454,7 +686,9 @@ constituteproject.org
 
 - Equality regardless of social status
 
-- Equality regardless of financial status · Equality regardless of political party
+- Equality regardless of financial status
+
+- Equality regardless of political party
 
 - Equality regardless of parentage
 
@@ -494,7 +728,7 @@ Every person has the right to personal liberty.
 
 - No person shall be subjected to medical or scientific experimentation without his or her consent.
 
-- Subject to this Constitution, every person shall have the right to freedom and security of person, which shall include the right not to be-
+- Subject to this Constitution, every person shall have the right to freedom and security of person, which shall include the right not to be—
 
 - detained without trial;
 
@@ -544,7 +778,7 @@ PDF generated: 30 Jul 2018, 21:47
 
 ### 21. Privacy
 
-Every person shall have the right to personal privacy, which shall include the right not to be subject to-
+Every person shall have the right to personal privacy, which shall include the right not to be subject to—
 
 - searches of his or her person, home or property;
 
@@ -580,7 +814,7 @@ Every person shall have the right to personal privacy, which shall include the r
 
 - All  children  shall  be  entitled  to  reasonable  maintenance  from  their  parents, whether  such  parents  are  married,  unmarried  or  divorced,  and  from  their guardians; and, in addition, all children, and particularly orphans, children with disabilities and other children in situations of disadvantage shall be entitled to live in safety and security and, where appropriate, to State assistance.
 
-- Children  are  entitled  to  be  protected  from  economic  exploitation  or  any treatment, work or punishment that is, or is likely to-
+- Children  are  entitled  to  be  protected  from  economic  exploitation  or  any treatment, work or punishment that is, or is likely to—
 
 - be hazardous;
 
@@ -610,9 +844,9 @@ PDF generated: 30 Jul 2018, 21:47
 
 ### 24. Rights of women
 
-- Women have the right to full and equal protection by the law, and have the right not  to  be  discriminated  against  on  the  basis  of  their  gender  or  marital  status which includes the right-
+- Women have the right to full and equal protection by the law, and have the right not  to  be  discriminated  against  on  the  basis  of  their  gender  or  marital  status which includes the right—
 
-- to  be  accorded  the  same  rights  as  men  in  civil  law,  including  equal capacity-
+- to  be  accorded  the  same  rights  as  men  in  civil  law,  including  equal capacity—
 
 - to enter into contracts;
 
@@ -622,7 +856,7 @@ PDF generated: 30 Jul 2018, 21:47
 
 - to acquire and retain citizenship and nationality.
 
-- on the dissolution of marriage, howsoever entered into-
+- on the dissolution of marriage, howsoever entered into—
 
 - to a fair disposition of property that is held jointly with a husband; and
 
@@ -642,7 +876,7 @@ PDF generated: 30 Jul 2018, 21:47
 
 - Primary education shall consist of at least five years of education.
 
-- Private  schools  and  other  private  institutions  of  higher  learning  shall  be permissible, provided that-
+- Private  schools  and  other  private  institutions  of  higher  learning  shall  be permissible, provided that—
 
 - such  schools  or  institutions  are  registered  with  a  State  department  in accordance with the law;
 
@@ -764,8 +998,6 @@ PDF generated: 30 Jul 2018, 21:47
 
 - Right to information
 
-·
-
 - Freedom of press
 
 - Right to information
@@ -810,7 +1042,7 @@ Every  person  shall  have  the  right  to  assemble  and  demonstrate  with  ot
 
 ### 40. Political rights
 
-- Subject to this Constitution, every person shall have the right-
+- Subject to this Constitution, every person shall have the right—
 
 - to form, to join, to participate in the activities of, and to recruit members for, a political party;
 
@@ -864,7 +1096,7 @@ PDF generated: 30 Jul 2018, 21:47
 
 ### 42. Arrest, detention and fair trial
 
-- Every person who is detained, including every sentenced prisoner, shall have the right-
+- Every person who is detained, including every sentenced prisoner, shall have the right—
 
 - to  be  informed  of  the  reason  for  his  or  her  detention  promptly,  and  in  a language which he or she understands;
 
@@ -878,7 +1110,7 @@ PDF generated: 30 Jul 2018, 21:47
 
 - to be released if such detention is unlawful.
 
-- Every person arrested for, or accused of, the alleged commission of an offence shall, in addition to the rights which he or she has as a detained person, have the right-
+- Every person arrested for, or accused of, the alleged commission of an offence shall, in addition to the rights which he or she has as a detained person, have the right—
 
 - promptly to be informed, in a language which he or she understands, that he  or  she  has  the  right  to  remain  silent  and  to  be  warned  of  the consequences of making any statement;
 
@@ -926,7 +1158,7 @@ constituteproject.org
 
 - to be released from detention, with or without bail unless the interests of justice require otherwise;
 
-- as an accused person, to a fair trial, which shall include the right-
+- as an accused person, to a fair trial, which shall include the right—
 
 - to public trial before an independent and impartial court of law within a reasonable time after having been charged;
 
@@ -968,7 +1200,7 @@ PDF generated: 30 Jul 2018, 21:47
 
 - to be sentenced within a reasonable time after conviction;
 
-- in  addition,  if  that  person  is  a  person  under  the  age  of  eighteen  years,  to treatment consistent with the special needs of children, which shall include the right-
+- in  addition,  if  that  person  is  a  person  under  the  age  of  eighteen  years,  to treatment consistent with the special needs of children, which shall include the right—
 
 - not to be sentenced to life imprisonment without possibility of release;
 
@@ -986,7 +1218,7 @@ PDF generated: 30 Jul 2018, 21:47
 
 ### 43. Administrative justice
 
-Every person shall have the right to-
+Every person shall have the right to—
 
 - lawful  and  procedurally  fair  administrative  action,  which  is  justifiable  in relation  to  reasons  given  where  his  or  her  rights,  freedoms,  legitimate expectations or interests are affected or threatened; and
 
@@ -1020,7 +1252,7 @@ constituteproject.org
 
 - No derogation from rights contained in this Chapter shall be permissible save to the  extent  provided  for  by  this  section  and  no  such  derogation  shall  be  made unless there has been a declaration of a state of emergency within the meaning of this section.
 
-- There shall be no derogation with regard to-
+- There shall be no derogation with regard to—
 
 - the right to life;
 
@@ -1040,7 +1272,7 @@ constituteproject.org
 
 - the right to habeas corpus.
 
-- The President may declare a state of emergency-
+- The President may declare a state of emergency—
 
 - only to the extent that it is provided for in this section;
 
@@ -1070,11 +1302,11 @@ PDF generated: 30 Jul 2018, 21:47
 
 - only after the state of emergency has been publicly announced.
 
-- Derogation from the rights contained in this Chapter, other than the rights listed in  subsection  (2),  shall  be  permissible  during  a  state  of  emergency  within  the meaning of this section and to the extent that-
+- Derogation from the rights contained in this Chapter, other than the rights listed in  subsection  (2),  shall  be  permissible  during  a  state  of  emergency  within  the meaning of this section and to the extent that—
 
 - such derogation  is consistent with the  obligations  of  Malawi  under international law; and
 
-- in the case of-
+- in the case of—
 
 - war  or  threat  of  war,  it  is  strictly  required  to  prevent  the  lives  of defensive  combatants  and  civilians  as  well  as  legitimate  military objectives from being placed in direct jeopardy; or
 
@@ -1084,13 +1316,13 @@ PDF generated: 30 Jul 2018, 21:47
 
 - The High Court shall be competent to hear applications challenging the validity of a declaration of a state of emergency, any extension thereof, and any action taken, including any regulation enacted, under such declaration.
 
-- Where a person is detained under a state of emergency such detention shall be subject to the following conditions-
+- Where a person is detained under a state of emergency such detention shall be subject to the following conditions—
 
 - an  adult  family  member  or  friend  of  the  detainee  shall  be  notified  of  the detention as soon as is reasonably possible and in any case not later than forty-eight hours of detention;
 
 - the  name  of  every  detainee  and  a  reference  to  the  measures  in  terms  of which he or she is being detained shall be published in the Gazette within five days of his or her detention;
 
-- when rights entrenched in section 19 (6) (a) or section 42 (2) (b) have been suspended-
+- when rights entrenched in section 19 (6) (a) or section 42 (2) (b) have been suspended—
 
 Malawi 1994 (rev. 2017)
 
@@ -1124,7 +1356,7 @@ PDF generated: 30 Jul 2018, 21:47
 
 - Save in so far as it may be authorized to do so by this Constitution, the National Assembly or any subordinate legislative authority shall not make any law, and the executive and the agencies of Government shall not take any action, which abolishes or abridges the rights and freedoms enshrined in this Chapter, and any law or action in contravention thereof shall, to the extent of the contravention, be invalid.
 
-- Any person who claims that a right or freedom guaranteed by this Constitution has been infringed or threatened shall be entitled-
+- Any person who claims that a right or freedom guaranteed by this Constitution has been infringed or threatened shall be entitled—
 
 - to make application to a competent court to enforce or protect such a right or freedom; and
 
@@ -1174,11 +1406,11 @@ PDF generated: 30 Jul 2018, 21:47
 
 - An  Act  of  Parliament  may  make  provision  for  the  acquisition  or  loss  of citizenship of Malawi by any person after the appointed day, but citizenship shall not be arbitrarily denied or deprived.
 
-- In this section, the expression-
+- In this section, the expression—
 
-'acquisition of citizenship' includes acquisition by birth, descent, marriage, registration,  naturalization  or  any  other  means  prescribed  by  an  Act  of Parliament; and
+“acquisition of citizenship” includes acquisition by birth, descent, marriage, registration,  naturalization  or  any  other  means  prescribed  by  an  Act  of Parliament; and
 
-'loss of citizenship' includes loss by deprivation, renunciation or any other means prescribed by an Act of Parliament.
+“loss of citizenship” includes loss by deprivation, renunciation or any other means prescribed by an Act of Parliament.
 
 ## CHAPTER VI: THE LEGISLATURE
 
@@ -1192,9 +1424,9 @@ PDF generated: 30 Jul 2018, 21:47
 
 ### 49. Definitions
 
-- For the purposes of this Constitution, unless otherwise provided, 'Parliament' consists of the National Assembly and the President as Head of State.
+- For the purposes of this Constitution, unless otherwise provided, “Parliament” consists of the National Assembly and the President as Head of State.
 
-- An Act of Parliament shall be a Bill which has-
+- An Act of Parliament shall be a Bill which has—
 
 - been laid before the National Assembly;
 
@@ -1202,7 +1434,7 @@ PDF generated: 30 Jul 2018, 21:47
 
 - been assented to by the President in accordance with this Chapter.
 
-'Chamber' means the Chamber of the National Assembly.
+“Chamber” means the Chamber of the National Assembly.
 
 ### 50. Quorum
 
@@ -1532,7 +1764,7 @@ Provided that-
 
 - The  Speaker  may,  upon  a  motion  of  the  National  Assembly,  postpone  the declaration of a vacant seat for such period as that motion prescribes so as to permit any member to appeal to a court or other body to which an appeal lies against a decision which would require that member to vacate his or her seat in accordance with this section.
 
-### [Repealed by Act No. 6 of 1995]
+### 64. [Repealed by Act No. 6 of 1995]
 
 ### 65. Crossing the floor
 
@@ -2576,14 +2808,6 @@ PDF generated: 30 Jul 2018, 21:48
 
 · Establishment of judicial council
 
-· Protection of judges' salaries
-
-· Oaths to abide by constitution
-
-· Establishment of judicial council
-
-· Establishment of judicial council
-
 ### 113. Vacancy
 
 - If the office of Chief Justice is vacant, or if the Chief Justice for any reason will not  perform  the  functions  of  his  or  her  office,  then,  until  a  person  has  been appointed to and has assumed the functions of that office, or until the person holding  that  office  has  resumed  those  functions,  as  the  case  may  be,  those functions  shall  be  performed  by  the  most  senior  judge  then  sitting  on  the Supreme  Court  of  Appeal,  or  in  the  event  that  a  Supreme  Court  judge  is  not available, then, by the most senior judge sitting on the High Court, appointed by the President after consultation with the Judicial Service Commission.
@@ -2596,13 +2820,21 @@ PDF generated: 30 Jul 2018, 21:48
 
 - The salary, any allowance and other employment benefits of a holder of judicial office shall not without his or her consent be reduced during his or her period of office  and  shall  be  increased  at  intervals  so  as  to  retain  its  original  value  and shall be a charge upon the Consolidated Fund.
 
+· Protection of judges' salaries
+
+· Oaths to abide by constitution
+
 ### 115. The Judicial oath
 
 A person holding judicial office shall not enter upon the duties of his or her office unless  that  officer  has  taken  and  subscribed  the  oath  of  allegiance  for  the  due execution of his or her office in such manner and form as may be prescribed by an Act of Parliament.
 
+· Establishment of judicial council
+
 ### 116. The Judicial Service Commission
 
 There shall  be  a  Judicial  Service  Commission  for  the  regulation  of  judicial  officers and which shall have such jurisdiction and powers as may be conferred on it by this Constitution or, subject to this Constitution, by any Act of Parliament.
+
+· Establishment of judicial council
 
 ### 117. Composition
 
@@ -2626,15 +2858,11 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
-· Establishment of judicial council
 
-· Establishment of judicial council
-
-· Supreme/ordinary court judge removal
-
-· Mandatory retirement age for judges
 
 - such  legal  practitioner  and  such  magistrate  as  may  for  the  time  being  be designated in that behalf by the President acting after consultation with the Chief Justice.
+
+· Establishment of judicial council
 
 ### 118. Powers of the Judicial Service Commission
 
@@ -2652,9 +2880,15 @@ The Judicial Service Commission shall have the authority to-
 
 Provided that nothing in this section shall prejudice the right of any person in judicial office  who  was  the  subject  of  any  decision  by  the  Judicial  Service  Commission  to appeal to the High Court against that decision.
 
+· Establishment of judicial council
+
 ### 119. Tenure of office of Judges
 
+· Supreme/ordinary court judge removal
+
 - Subject  to  this  section,  a  person  holding  the  office  of  Judge  shall  vacate  that office on attaining the age prescribed in subsection (6):
+
+· Mandatory retirement age for judges
 
 Provided  that  the  President, after consultation  with  the Judicial  Service Commission, may permit a Judge who has attained that age to continue in office for such period as may be necessary to enable him or her to deliver judgment or to  do  any  other thing in relation to proceedings that were commenced before him or her before he or she attained that age.
 
@@ -2680,9 +2914,6 @@ Page 52
 
 constituteproject.org
 
-· Mandatory retirement age for judges
-
-· Ombudsman
 
 PDF generated: 30 Jul 2018, 21:48
 
@@ -2691,6 +2922,8 @@ PDF generated: 30 Jul 2018, 21:48
 - The suspension of a Judge under subsection (4) may at any time be revoked by the President, after consultation with the Judicial Service Commission, and shall in  any  case  cease  to  have  effect  where  the  motion  is  withdrawn  before  being debated  in  the  National  Assembly  or,  upon  being  debated,  is  not  passed  by  a majority thereof.
 
 - The prescribed age for purposes of subsection (1) shall be the age of sixty-five years or such other age as may be prescribed by Parliament:
+
+· Mandatory retirement age for judges
 
 Provided that a law made by Parliament, to the extent that it alters the age at which a Judge shall vacate his or her office, shall not have effect in relation to a Judge after his or her appointment unless he or she consents to its having effect.
 
@@ -2701,6 +2934,8 @@ Provided that a law made by Parliament, to the extent that it alters the age at 
 - the  resumption by that person of the duties of his or her office as Judge shall not require formal re-appointment;
 
 - the retirement age of that person shall be that prescribed for Judges under subsection (1).
+
+· Ombudsman
 
 ## CHAPTER X: THE OMBUDSMAN
 
@@ -2816,7 +3051,6 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
-· Human rights commission
 
 - A person appointed to the office of Ombudsman shall not be removed by the Public Appointments Committee, except-
 
@@ -2825,6 +3059,8 @@ PDF generated: 30 Jul 2018, 21:48
 - for gross misconduct; or
 
 - on reaching the age of sixty-five years.
+
+· Human rights commission
 
 ## CHAPTER XI: HUMAN RIGHTS COMMISSION
 
@@ -2860,9 +3096,6 @@ Page 56
 
 constituteproject.org
 
-· Establishment of judicial council
-
-· Establishment of judicial council
 
 PDF generated: 30 Jul 2018, 21:48
 
@@ -2880,6 +3113,8 @@ PDF generated: 30 Jul 2018, 21:48
 
 There shall be a Law Commission which shall have the power to review and make recommendations  relating  to  the  repeal  and  amendment  of  laws  and  which  shall have such powers and functions as are conferred on it by this Constitution and any Act of Parliament.
 
+· Establishment of judicial council
+
 ### 133. Composition
 
 The Law Commission shall consist of-
@@ -2887,6 +3122,8 @@ The Law Commission shall consist of-
 - a  salaried Law Commissioner who shall be appointed by the President on the recommendation of the Judicial Service Commission and who shall be a legal practitioner or a person qualified to be a judge; and
 
 - such  number  of  other  persons  as  the  Law  Commissioner  in  consultation with the Judicial Service Commission may appoint from time to time and for such time as they are required on account of their expert knowledge of a matter  of  law  being  then  under  review  by  the  Law  Commissioner,  or  on account of their expert knowledge of other matters relating to a legal issue being then under review.
+
+· Establishment of judicial council
 
 ### 134. Removal of the Law Commissioner
 
@@ -2906,15 +3143,14 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
-· International law
-
-· Reference to country's history · Crimes of the previous regime
 
 ### 135. Powers and functions of the Law Commissioner
 
 The Law Commission shall have the powers-
 
 - to review and make recommendations regarding any matter pertaining to the  laws  of  Malawi  and  their  conformity  with  this  Constitution  and applicable international law;
+
+· International law
 
 - to review and make recommendations regarding any matter pertaining to this Constitution;
 
@@ -2925,6 +3161,9 @@ The Law Commission shall have the powers-
 ### 136. Independence of the Law Commission
 
 The  Law  Commission  shall  exercise  its  functions  and  powers  independent  of  the direction or interference of any other person or authority.
+
+· Reference to country's history
+· Crimes of the previous regime
 
 ## CHAPTER XIII: NATIONAL COMPENSATION TRIBUNAL
 
@@ -2952,13 +3191,14 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
-· Establishment of judicial council
 
 ### 139. Composition
 
 - There shall be a Chairman of the National Compensation Tribunal who shall be a judge and who shall-
 
 - be appointed in that behalf by the Chief Justice on the nomination of the Judicial Service Commission; and
+
+· Establishment of judicial council
 
 - hold the office of Chairman of the National Compensation Tribunal for not more than three years or until such time as that person ceases to be a judge whichever is sooner.
 
@@ -3046,7 +3286,6 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
-· Municipal government
 
 - Trustees  of  the  National  Compensation  Fund  shall  exercise  their  functions independent of any direction or interference by any body or authority, save as is provided by this section.
 
@@ -3069,6 +3308,8 @@ PDF generated: 30 Jul 2018, 21:48
 - Where  the  National  Compensation  Tribunal  has  been  dissolved,  for  the remaining duration of the period prescribed in subsection (1) the uncommitted residue  of  the  Fund  shall  remain  a  separate  fund  within  the  accounts  of  the Consolidated Fund which shall be drawn upon by the Minister responsible for Finance in respect of awards made by the High Court in relation to claims that would otherwise have been determined by the National Compensation Tribunal.
 
 - The  National  Compensation  Fund  shall  continue  until  there  is  no  longer  a committed residue.
+
+· Municipal government
 
 ## CHAPTER XIV: LOCAL GOVERNMENT
 
@@ -3260,7 +3501,6 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
-· Establishment of judicial council
 
 ### 155. The Police Service Commission
 
@@ -3293,6 +3533,8 @@ Provided that nothing in this section shall prejudice the right of any person wh
 - The Police Service Commission shall consist of the following members-
 
 - such Justice of Appeal or Judge as may for the time being be nominated in that  behalf  by  the  Judicial  Service  Commission  and  who  shall  be  the Chairman of the Police Service Commission;
+
+· Establishment of judicial council
 
 - such member of the Civil Service Commission as may for the time being be nominated in that behalf by the Civil Service Commission;
 
@@ -3388,27 +3630,15 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
-· International law
 
-· Designation of commander in chief
-
-· Selection of active-duty commanders
-
-· Advisory bodies to the head of state
-
-· Selection of active-duty commanders
-
-· Advisory bodies to the head of state
-
-· Power to declare/approve war
-
-Power to declare/approve war
-
-Power to declare/approve war
 
 - perform  such  other  duties  outside  the  territory  of  Malawi  as  may  be required of them by any treaty entered into by Malawi in accordance with the prescriptions of international law, but no part of the Defence Force of Malawi shall  be  employed  outside  the  territory  of  the  Republic  for  more than ninety days without the approval of the National Assembly.
 
+· International law
+
 - No person or authority may direct or deploy the Defence orce of Malawi to act in contravention of this Constitution.
+
+· Designation of commander in chief
 
 ### 161. Responsibility for the Defence Force of Malawi
 
@@ -3416,13 +3646,19 @@ Power to declare/approve war
 
 - There  shall  be  a  Commander  of  the  Defence  Force  of  Malawi  who  shall  be appointed by the President.
 
+· Selection of active-duty commanders
+
 - The  Commander  of  the  Defence  Force  of  Malawi  shall,  in  the  day  to  day management of the Defence Force, be accountable to the Minister responsible for defence in whom shall vest political responsibility for the Defence Force of Malawi.
 
 - Any power conferred on the President by virtue of this Chapter shall only be exercised on the recommendation of Defence Council which shall be constituted under an Act of Parliament and which shall include the Minister responsible for Defence and the High Command of the Defence Force of Malawi and which shall have-
 
+· Advisory bodies to the head of state
+
 - the  power  to  determine  the  operational  use  of  the  Defence  Force  of Malawi;
 
 - the  power  to  appoint  and  remove  from  office  senior  officers  and  other members of the Defence Force of Malawi; and
+
+· Selection of active-duty commanders
 
 - such other powers and duties as may be prescribed by an Act of Parliament.
 
@@ -3430,11 +3666,19 @@ Power to declare/approve war
 
 - The Defence Council may, by directions in writing and subject to such conditions as may be laid down by an Act of Parliament or as are adopted by the National Assembly on the recommendation of the Defence and Security Committee of the National Assembly, delegate to any member of the Defence Force of Malawi any of the powers conferred on the Defence Council by an Act of Parliament.
 
+· Advisory bodies to the head of state
+
 - Where  it  is  necessary  to  deploy  any  part  of  the  Defence  Force  of  Malawi  to counter a threat to Malawi or to any of its allies, the President shall declare a state of national defence and shall inform the National Assembly promptly and in appropriate detail.
+
+· Power to declare/approve war
 
 - If  a  declaration of a state of national defence made under subsection (7) is not approved by the National Assembly within seven days after the declaration, the state of national defence shall lapse immediately after fourteen days.
 
+· Power to declare/approve war
+
 - Where the National Assembly is not sitting at the time of the declaration of a state of national defence, the President shall summon an extraordinary meeting of the National Assembly within seven days to inform the National Assembly of the declaration.
+
+· Power to declare/approve war
 
 Malawi 1994 (rev. 2017)
 
@@ -3448,9 +3692,10 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
-· Legislative committees
 
 ### 162. The Defence and Security Committee of the National Assembly
+
+· Legislative committees
 
 - There  shall  be  a  Defence  and  Security  Committee  of  the  National  Assembly which  shall  represent  proportionally  the  political  parties  having  seats  in  the National  Assembly,  and  shall  have  such  powers  and  functions  as  may  be conferred upon it by this Constitution and an Act of Parliament.
 
@@ -3534,7 +3779,6 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
-· Establishment of judicial council
 
 - The Prisons Service Commission shall have the power to appoint persons to hold or  act  in  offices  in  the  Prisons  Service  of  Malawi,  other  than  the  Chief Commissioner for Prisons, including the power to confirm appointments and to remove such persons from office.
 
@@ -3561,6 +3805,8 @@ Provided that nothing in this section shall prejudice the right of any person wh
 - The Prisons Service Commission shall consist of the following members-
 
 - such Justice of Appeal or Judge as may for the time being be nominated in that behalf by the Judicial Service Commission, who shall be chairman;
+
+· Establishment of judicial council
 
 - such member of the Civil Service Commission as may for the time being be nominated in that behalf by the Civil Service Commission;
 
@@ -3626,17 +3872,14 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
-· Establishment of judicial council
-
-· International organizations
-
-· Municipal government
 
 ### 170. Composition of the Inspectorate of Prisons
 
 - The Inspectorate of Prisons shall consist of the following members-
 
 - such Justice of Appeal or Judge as shall from time to time be nominated in that behalf by the Judicial Service Commission, who shall be chairman;
+
+· Establishment of judicial council
 
 - the  Chief  Commissioner  for  Prisons  or  such  person  as  he  or  she  may nominate  in  that  behalf  being  a  senior  member  of  the  Malawi  Prisons Service;
 
@@ -3648,9 +3891,13 @@ PDF generated: 30 Jul 2018, 21:48
 
 - The Inspectorate of Prisons shall have power to co-opt persons as representatives  of  any  local  or  international  organizations  having  an  office  in Malawi involved in the monitoring of human rights or more generally concerned with  the  welfare  of  offenders  as  may  be  approved  by  the  membership  of  the Inspectorate of Prisons.
 
+· International organizations
+
 - For the purposes of exercising its powers of nomination under subsection (1) (c), the quorum of the Prisons Service Commission shall consist of the majority of those in office at the time of the nomination.
 
 ## CHAPTER XVIII: FINANCE
+
+· Municipal government
 
 ### 171. Revenue
 
@@ -3722,13 +3969,13 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
+- any moneys required to satisfy any judgment, decision or award made or given against the Government by any court or tribunal other than those provided for in the National Compensation Fund; and
+
+- all moneys or debt charges charged before the appointed day upon the revenues or public funds of Malawi.
+
+- For the purposes of this section, 'debt charges' includes interest, sinking fund charges, the repayment or amortization of debt, and all expenditure in connexion with the raising of loans on the security of the Consolidated Fund and the service and redemption of debt thereby created.
+
 · Budget bills
-
-- any moneys required to satisfy any judgment, decision or award made or given  against  the  Government  by  any  court  or  tribunal  other  than  those provided for in the National Compensation Fund; and
-
-- all  moneys  or  debt  charges  charged  before  the  appointed  day  upon  the revenues or public funds of Malawi.
-
-- For the purposes of this section, 'debt charges' includes interest, sinking fund charges, the repayment  or  amortization  of debt, and all expenditure  in connexion with the raising of loans on the security of the Consolidated Fund and the service and redemption of debt thereby created.
 
 ### 175. Annual estimates
 
@@ -3768,11 +4015,11 @@ PDF generated: 30 Jul 2018, 21:48
 
 · Spending bills
 
-· Spending bills
-
 ### 176. Appropriation Bills
 
-When the estimates of expenditure to be met from the Consolidated Fund, but not charged thereon, have been approved by the National Assembly, a Bill, to be known as an Appropriation Bill, shall be introduced in the Assembly providing for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation  of  those  sums,  under  separate  votes  for  the  several  heads  of expenditure approved, to the purposes specified in the Bill.
+When the estimates of expenditure to be met from the Consolidated Fund, but not charged thereon, have been approved by the National Assembly, a Bill, to be known as an Appropriation Bill, shall be introduced in the Assembly providing for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums, under separate votes for the several heads of expenditure approved, to the purposes specified in the Bill.
+
+· Spending bills
 
 ### 177. Supplementary appropriations
 
@@ -3896,9 +4143,9 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
-· Central bank
-
 ## CHAPTER XIX: THE RESERVE BANK OF MALAWI
+
+· Central bank
 
 ### 185. The Reserve Bank of Malawi
 
@@ -3920,7 +4167,7 @@ There shall be a Civil Service Commission which shall have the powers and functi
 
 ### 188. Delegation
 
-- The  Civil  Service  Commission  may,  subject  to  such  conditions  as  maybe  laid down ban Act of Parliament, delegate powers under this section by directions in writing to any member of the Commission or to any civil servant or public body.
+- The Civil Service Commission may, subject to such conditions as may be laid down by an Act of Parliament, delegate powers under this section by directions in writing to any member of the Commission or to any civil servant or public body.
 
 - Where any person or body may from time to time exercise powers under this section on behalf of the Civil Service Commission, in accordance with subsection (1), the Civil Service Commission shall-
 
@@ -4066,13 +4313,11 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
-· Constitution amendment procedure
-
-· Referenda
-
 ### 194. Chairing of boards, commissions, etc
 
-Where a law confers power to appoint a board, commission, council, committee or similar body and to appoint, elect or designate the chairperson thereof, no person shall  be  appointed,  elected  or  designated  as  chairperson  of  more  than  one  such board, commission, council, committee or similar body.
+Where a law confers power to appoint a board, commission, council, committee or similar body and to appoint, elect or designate the chairperson thereof, no person shall be appointed, elected or designated as chairperson of more than one such board, commission, council, committee or similar body.
+
+· Constitution amendment procedure
 
 ## CHAPTER XXI: AMENDMENT OF THIS CONSTITUTION
 
@@ -4084,9 +4329,11 @@ Parliament may amend this Constitution in accordance with this Chapter.
 
 - Subject to this section, Parliament may amend this Chapter and the sections of this Constitution listed in the Schedule only if-
 
-- the provision to be amended and the proposed amendment to it have been put  to  a  referendum  of  the  people  of  Malawi  and  the  majority  of  those voting have voted for the amendment; and
+- the provision to be amended and the proposed amendment to it have been put to a referendum of the people of Malawi and the majority of those voting have voted for the amendment; and
 
-- the  Electoral  Commission  has  so  certified  to  the  Speaker  of  the  National Assembly.
+· Referenda
+
+- the Electoral Commission has so certified to the Speaker of the National Assembly.
 
 - The Parliament may pass a Bill proposing an amendment to which the conditions set out in subsection (1) have been satisfied by a simple majority.
 
@@ -4200,23 +4447,15 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
-- International law
-
-Legal status of treaties
-
-Legal status of treaties
-
-Customary international law
-
 ### 208. Savings of rights of Government in property
 
-The  Government  shall  have  title  to  all  rights  in  property  which  are  vested  in  the Government of Malawi on the date of the commencement of this Constitution save as otherwise provided by section 209 (2) and provided that the disposal of rights in property where title is vested in the Government shall be made in accordance with an Act of Parliament.
+The Government shall have title to all rights in property which are vested in the Government of Malawi on the date of the commencement of this Constitution save as otherwise provided by section 209 (2) and provided that the disposal of rights in property where title is vested in the Government shall be made in accordance with an Act of Parliament.
 
 ### 209. Continuation of rights of persons in property
 
 - All persons who have rights in property at the date of the commencement of this Constitution shall continue to have such rights under this Constitution and any other law.
 
-- This  section  shall  not  apply  in  respect  of  rights  in  property  that  have  been acquired or vested by or on behalf of the Government where that property was acquired  or  vested  at  any  time  since  6th  July,  1964,  and  where  that  right  in property was obtained from citizens or permanent residents of Malawi-
+- This section shall not apply in respect of rights in property that have been acquired or vested by or on behalf of the Government where that property was acquired or vested at any time since 6th July, 1964, and where that right in property was obtained from citizens or permanent residents of Malawi-
 
 - unlawfully according to the laws then in force in Malawi;
 
@@ -4224,21 +4463,29 @@ The  Government  shall  have  title  to  all  rights  in  property  which  are  
 
 - through abandonment by reason of duress of circumstances.
 
-- For  the  purposes  of  this  section  'Government'  shall  mean  the  President,  the Cabinet,  the  Ministries,  other  organs  of  the  President  and  Cabinet  and  their agents, including individuals and bodies under the authority of the President, the Cabinet or the Ministries.
+- For the purposes of this section 'Government' shall mean the President, the Cabinet, the Ministries, other organs of the President and Cabinet and their agents, including individuals and bodies under the authority of the President, the Cabinet or the Ministries.
 
-- Rights  in  property  which  are  not  recognized  by  virtue  of  this  section  shall  be vested  in  the  National  Compensation  Fund  and  shall  be  disposed  of  in accordance with the principles, procedures and rules of the National Compensation Tribunal.
+- Rights in property which are not recognized by virtue of this section shall be vested in the National Compensation Fund and shall be disposed of in accordance with the principles, procedures and rules of the National Compensation Tribunal.
 
 - Persons occupying or using property vested in the National Compensation Fund shall continue to occupy and use that property, as if they retained full legal and equitable title until such time as the National Compensation Tribunal otherwise orders.
 
-### [Repealed by Act No. 4 of 2001]
+### 210. [Repealed by Act No. 4 of 2001]
+
+· International law
 
 ### 211. International law
 
-- Any  international  agreement  entered  into  after  the  commencement  of  this Constitution shall form part of the law of the Republic if so provided by an Act of Parliament.
+- Any international agreement entered into after the commencement of this Constitution shall form part of the law of the Republic if so provided by an Act of Parliament.
 
-- Binding  international  agreements  entered  into  before  the  commencement  of this Constitution shall continue to bind the Republic unless otherwise provided by an Act of Parliament.
+· Legal status of treaties
 
-- Customary  international  law,  unless  inconsistent  with  this  Constitution  or  an Act of Parliament, shall form part of the law of the Republic.
+- Binding international agreements entered into before the commencement of this Constitution shall continue to bind the Republic unless otherwise provided by an Act of Parliament.
+
+· Legal status of treaties
+
+- Customary international law, unless inconsistent with this Constitution or an Act of Parliament, shall form part of the law of the Republic.
+
+· Customary international law
 
 Malawi 1994 (rev. 2017)
 
@@ -4294,17 +4541,17 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
-· Earnings disclosure requirement
+- A Bill under this section to amend or to repeal and replace this Constitution shall be passed only if supported by not less than a two-thirds majority of all the members of the National Assembly.
 
-- A Bill under this section to amend or to repeal and replace this Constitution shall be  passed  only  if  supported  by  not  less  than  a  two-thirds  majority  of  all  the members of the National Assembly.
+- Unless this Constitution is being repealed and replaced, this section shall not be amended but shall lapse on the expiry of the period of provisional application, save only to the extent necessary to bring this Constitution definitively into force in the circumstances of subsection (9).
 
-- Unless this Constitution is being repealed and replaced, this section shall not be amended but shall lapse on the expiry of the period of provisional application, save  only  to  the  extent  necessary  to  bring  this  Constitution  definitively  into force in the circumstances of subsection (9).
-
-- If Parliament defaults to act in terms of subsection (6) this Constitution shall be deemed  to  have  definitively  come  into  force  on  the  expiry  of  the  period  of provisional application.
+- If Parliament defaults to act in terms of subsection (6) this Constitution shall be deemed to have definitively come into force on the expiry of the period of provisional application.
 
 ### 213. Disclosure of assets by holders of certain offices
 
 - In addition to the President and members of the Cabinet as provided by section 88 (3), the holders of the following offices, that is to say-
+
+· Earnings disclosure requirement
 
 - a member of the National Assembly;
 
@@ -4334,11 +4581,9 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
-· Constitution amendment procedure
-
 - from the date of the publication of the resolution under subsection (2), in the case of others.
 
-- There shall be a Committee of Parliament appointed by the National Assembly which shall have the function of monitoring the compliance with the requirement  on  the  disclosure  of  assets  under  section  88  (3)  and  under  this section and the Committee shall have all the powers necessary to perform its function.
+- There shall be a Committee of Parliament appointed by the National Assembly which shall have the function of monitoring the compliance with the requirement on the disclosure of assets under section 88 (3) and under this section and the Committee shall have all the powers necessary to perform its function.
 
 ### 214. Short title of this Constitution
 
@@ -4350,7 +4595,9 @@ In this Constitution, unless the context otherwise requires-
 
 'appointed day' means 18th May, 1994, being the date on which this Constitution shall come into operation;
 
-'age  prescribed  for  retirement'  is  such  age  as  may  be  prescribed  in  an  Act  of Parliament for the retirement of a person holding public office.
+'age prescribed for retirement' is such age as may be prescribed in an Act of Parliament for the retirement of a person holding public office.
+
+· Constitution amendment procedure
 
 ## SCHEDULE
 
@@ -4403,9 +4650,75 @@ constituteproject.org
 PDF generated: 30 Jul 2018, 21:48
 
 ### CHAPTER IV HUMAN RIGHTS
-15. Protection of human rights and freedoms 16. The right to life 17. Genocide 18. Liberty 19. Human dignity and personal freedoms 20. Equality 21. Privacy 22. Family and marriage 23. Rights of children 24. Rights of women 25. Education 26. Culture and language 27. Slavery, servitude and forced labour 28. Property 29. Economic activity 30. The right to development 31. Labour 32. Freedom of association 33. Freedom of conscience 34. Freedom of opinion 35. Freedom of expression 36. Freedom of the press 37. Access to information 38. Freedom of assembly 39. Freedom of movement and residence 40. Political rights 41. Access to justice and legal remedies 42. Arrest, detention and fair trial 43. Administrative justice 44. Limitations on rights 45. Derogation and public emergency 46. Enforcement
+
+- Protection of human rights and freedoms
+
+- The right to life
+
+- Genocide
+
+- Liberty
+
+- Human dignity and personal freedoms
+
+- Equality
+
+- Privacy
+
+- Family and marriage
+
+- Rights of children
+
+- Rights of women
+
+- Education
+
+- Culture and language
+
+- Slavery, servitude and forced labour
+
+- Property
+
+- Economic activity
+
+- The right to development
+
+- Labour
+
+- Freedom of association
+
+- Freedom of conscience
+
+- Freedom of opinion
+
+- Freedom of expression
+
+- Freedom of the press
+
+- Access to information
+
+- Freedom of assembly
+
+- Freedom of movement and residence
+
+- Political rights
+
+- Access to justice and legal remedies
+
+- Arrest, detention and fair trial
+
+- Administrative justice
+
+- Limitations on rights
+
+- Derogation and public emergency
+
+- Enforcement
+
 ### CHAPTER V CITIZENSHIP
-47. Citizenship
+
+- Citizenship
+
 ### CHAPTER VII ELECTIONS
 
 Malawi 1994 (rev. 2017)
@@ -4420,11 +4733,17 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
+- The franchise
+
+### CHAPTER IX THE JUDICATURE
+
 - The independence and jurisdiction of the courts and the judiciary
 
-77. The franchise
-### CHAPTER IX THE JUDICATURE
-111. Appointment of the judiciary 114. Remuneration 119. Tenure of judges
+- Appointment of the judiciary
+
+- Remuneration
+
+- Tenure of judges
 
 Malawi 1994 (rev. 2017)
 
@@ -4440,6 +4759,54 @@ PDF generated: 30 Jul 2018, 21:48
 
 ## Topic index
 
+A
+
+Access to higher education 12
+Accession of territory 9
+Advisory bodies to the head of state 42, 69
+Approval of general legislation 33
+Attorney general 45, 47
+
+B
+
+Binding effect of const rights 13
+Budget bills 44, 76
+
+C
+
+Cabinet removal 44
+Cabinet selection 43
+Campaign financing 19
+Central bank 80
+Claim of universal suffrage 9, 19, 36
+Compulsory education 12
+Conditions for revoking citizenship 25
+Constitution amendment procedure 84, 90
+Constitutional interpretation 10, 49
+Constitutionality of legislation 9, 10, 41
+Crimes of the previous regime 58
+Customary international law 9, 10, 13, 87
+
+D
+
+Deputy executive 36
+Designation of commander in chief 36, 69
+Dismissal of the legislature 31
+Duty to obey the constitution 9, 11, 40
+
+E
+
+Earnings disclosure requirement 89
+Economic plans 44
+Electoral commission 30, 34
+Electoral districts 34, 35
+Eligibility for cabinet 26, 43, 44
+Eligibility for first chamber 26
+Eligibility for head of state 37
+Eligibility for ordinary court judges 50
+Eligibility for supreme court judges 50
+Emergency provisions 22
+
 Malawi 1994 (rev. 2017)
 
 Page 93
@@ -4451,6 +4818,54 @@ Page 93
 constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
+
+Equality for persons with disabilities 14
+Equality regardless of creed or belief 14
+Equality regardless of financial status 14
+Equality regardless of gender 11, 14, 16
+Equality regardless of language 14
+Equality regardless of origin 14
+Equality regardless of parentage 14
+Equality regardless of political party 14
+Equality regardless of race 14
+Equality regardless of religion 14
+Equality regardless of skin color 14
+Equality regardless of social status 14
+Establishment of cabinet/ministers 43
+Establishment of judicial council 34, 48, 49, 50, 51, 52, 57, 59, 66, 72, 74
+Establishment of labor courts 49
+Extraordinary legislative sessions 29
+
+F
+
+First chamber selection 30
+Foreign affairs representative 41
+Free education 12
+Freedom of assembly 18
+Freedom of association 17
+Freedom of expression 18
+Freedom of movement 18
+Freedom of opinion/thought/conscience 18
+Freedom of press 18
+Freedom of religion 18
+
+G
+
+General guarantee of equality 9, 14
+God or other deities 37
+
+H
+
+Head of state decree power 29
+Head of state immunity 42
+Head of state powers 41, 82
+Head of state removal 32, 38, 40
+Head of state replacement 38
+Head of state selection 36
+Head of state term length 38
+Head of state term limits 38
+Human dignity 11, 14, 19, 21
+Human rights commission 56
 
 Malawi 1994 (rev. 2017)
 
@@ -4464,6 +4879,59 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
+I
+
+Immunity of legislators 30
+Initiation of general legislation 10, 32, 44
+International law 10, 13, 23, 41, 45, 58, 69, 87
+International organizations 74
+
+J
+
+Judicial independence 10, 47
+
+L
+
+Leader of first chamber 27
+Legal status of treaties 87
+Legislative committees 28, 30, 39, 70
+Legislative oversight of the executive 30, 42, 45
+Length of legislative sessions 30
+Limits on employment of children 15
+
+M
+
+Mandatory retirement age for judges 50, 52, 53
+Mentions of social class 17
+Minimum age for first chamber 26
+Minimum age of head of state 37
+Motives for writing constitution 9
+Municipal government 61, 74
+
+N
+
+Name/structure of executive(s) 36
+National anthem 9
+National flag 9
+
+O
+
+Oaths to abide by constitution 27, 37, 51
+Official or national languages 28
+Ombudsman 53
+Ordinary court selection 49, 50
+Outside professions of legislators 26, 31
+
+P
+
+Power to declare/approve war 69
+Power to pardon 42
+Powers of cabinet 44
+Presumption of innocence in trials 20
+Principle of no punishment without law 20
+Prison registry 23
+Privileges for juveniles in criminal process 21
+
 Malawi 1994 (rev. 2017)
 
 Page 95
@@ -4476,6 +4944,53 @@ constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
 
+Prohibition of corporal punishment 14
+Prohibition of cruel treatment 14
+Prohibition of double jeopardy 20
+Prohibition of slavery 17
+Prohibition of torture 14
+Protection from ex post facto laws 20
+Protection from expropriation 17, 22
+Protection from self-incrimination 19, 20
+Protection from unjustified restraint 20
+Protection of environment 12
+Protection of judges' salaries 51
+Protection of language use 17
+Provision for matrimonial equality 15, 16
+Publication of deliberations 30
+
+Q
+
+Quorum for legislative sessions 25
+
+R
+
+Reference to country's history 58
+Reference to science 14
+Referenda 35, 42, 84
+Regulation of evidence collection 15
+Removal of individual legislators 31
+Replacement of legislators 31
+Requirements for birthright citizenship 25
+Requirements for naturalization 25
+Restrictions on the armed forces 26, 37, 44
+Restrictions on voting 35
+Right to academic freedom 18
+Right to appeal judicial decisions 20, 48, 49
+Right to choose occupation 17
+Right to counsel 19, 20
+Right to culture 17
+Right to equal pay for work 17
+Right to establish a business 17
+Right to examine evidence/ witnesses 20
+Right to fair trial 20
+Right to form political parties 18
+Right to found a family 13, 15
+Right to health care 12
+Right to information 18
+Right to join trade unions 17
+Right to life 14
+
 Malawi 1994 (rev. 2017)
 
 Page 96
@@ -4487,6 +5002,53 @@ Page 96
 constituteproject.org
 
 PDF generated: 30 Jul 2018, 21:48
+
+Right to marry 15
+Right to own property 17
+Right to pre-trial release 20
+Right to privacy 15
+Right to public trial 20
+Right to renounce citizenship 25
+Right to safe work environment 17
+Right to speedy trial 20
+Right to strike 17
+Right to transfer property 16
+Right to work 17
+Rights of children 15
+Rights of debtors 14
+
+S
+
+Scheduling of elections 33, 36
+Secret ballot 19
+Selection of active-duty commanders 69
+Size of first chamber 30
+Source of constitutional authority 9
+Spending bills 29, 77
+State support for children 13, 15
+State support for the disabled 12
+State support for the elderly 13
+Structure of legislative chamber(s) 25
+Structure of the courts 48, 49
+Supreme court selection 49
+Supreme/ordinary court judge removal 52
+
+T
+
+Tax bills 29
+Telecommunications 15
+Term length for first chamber 33
+Treaty ratification 41, 45
+Trial in native language of accused 19, 21
+Type of government envisioned 9
+
+U
+
+Ultra-vires administrative actions 13, 19, 24
+
+V
+
+Veto override procedure 33
 
 Malawi 1994 (rev. 2017)
 
