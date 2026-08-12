@@ -6,8 +6,7 @@ _________________________________________________________________
 
 ## Universal Basic Education Plan 2010 - 2019
 
-National Executive Council
-December 2009
+National Executive Council December 2009
 
 Papua New Guinea
 Department of Education
@@ -93,7 +92,6 @@ List of Tables .................................................................
 List of Figures .................................................................................................................................... vii
 Acronyms .......................................................................................................................................... viii
 Definitions ........................................................................................................................................... ix
-
 CHAPTER 1 INTRODUCTION .................................................................................................. 1
 1.1 Rationale ..................................................................................................................................... 1
 1.2 Definition of UBE in the Papua New Guinea Context................................................................ 1
@@ -108,7 +106,6 @@ CHAPTER 1 INTRODUCTION .........................................................
 1.5.4 Government .......................................................................................................................... 5
 1.5.5 Other Social Issues ................................................................................................................ 5
 1.6 Terminology ................................................................................................................................ 6
-
 CHAPTER 2 SITUATIONAL ANALYSIS ................................................................................. 7
 2.1 Introduction ................................................................................................................................. 7
 2.2 The Status of the Structural Reform of the Education System ................................................... 8
@@ -120,12 +117,10 @@ CHAPTER 2 SITUATIONAL ANALYSIS .................................................
 2.8 Quality of Learning ................................................................................................................... 17
 2.9 Education Management ............................................................................................................. 19
 2.10 Equity Issues ............................................................................................................................. 21
-
 CHAPTER 3 THE UBE GOAL - RESPONSE TO SITUATION ........................................... 24
 3.1 Vision ........................................................................................................................................ 24
 3.2 Mission ...................................................................................................................................... 24
 3.3 Main UBE Goals and Objectives .............................................................................................. 24
-
 CHAPTER 4 RESULTS, OUTPUTS AND ACTIVITIES ....................................................... 26
 4.1 Access Improved ....................................................................................................................... 28
 4.1.1 Expansion of Elementary School Infrastructure ................................................................. 28
@@ -165,7 +160,6 @@ UBE Plan 2010-2019
 4.5.4 Most Vulnerable Children................................................................................................... 44
 4.5.5 Remote and Over-crowded Schools .................................................................................... 44
 4.6 Implications for Post Primary Education .................................................................................. 45
-
 CHAPTER 5 BUDGET OF UBE ............................................................................................... 47
 5.1 Access Improved ....................................................................................................................... 47
 5.1.1 Expansion of Elementary School Infrastructure ................................................................. 47
@@ -208,11 +202,9 @@ UBE Plan 2010-2019
 5.6.2 Leave Fares ......................................................................................................................... 61
 5.7 Department and Provincial Administrative Costs ..................................................................... 61
 5.8 Total Costs ................................................................................................................................ 62
-
 CHAPTER 6 FINANCING OF UBE ......................................................................................... 63
 6.1 UBE Financing Gap .................................................................................................................. 63
 6.2 Existing Funding ....................................................................................................................... 63
-
 CHAPTER 7 MANAGEMENT AND IMPLEMENTATION ................................................. 65
 7.1 Introduction ............................................................................................................................... 65
 7.2 National Management and Administration ............................................................................... 65
@@ -222,7 +214,6 @@ CHAPTER 7 MANAGEMENT AND IMPLEMENTATION ........................................
 7.5.1 Provincial and District Education Structures ...................................................................... 68
 7.5.2 Teacher Management .......................................................................................................... 68
 7.6 Consultative and Reporting Processes ...................................................................................... 68
-
 CHAPTER 8 MONITORING AND EVALUATION ............................................................... 70
 8.1 Monitoring ................................................................................................................................ 70
 8.2 UBE Progress Indicators ........................................................................................................... 70
@@ -253,40 +244,40 @@ Table 6. Grade 1 Enrolment and Gross Admission Rates, 2000-2007 ................
 Table 7. School Entrants by Type of School, 2000-2007 ...........................................................10
 Table 8. Elementary Prep Enrolment by Age, 2007 ...................................................................11
 Table 9. Net Admission Ratios by Province, 2007 .....................................................................12
-Table 10. Grade 1 to 6 Retention Rates by Gender for Cohorts, 1995-2001 ................................13
-Table 11. Grade 1 to 6 Completion Rates by Province and Gender for Cohort Completing, 2007 13
-Table 12. Gross Enrolments Ratios by year, 2000-2006 ..............................................................15
-Table 13. Net and Gross Enrolment Ratios by Province, 2007 ....................................................16
-Table 14. Gender Parity Indices for Net and Gross Enrolment Rates by Province, 2007 ............16
+Table 10. Grade 1 to 6 Retention Rates by Gender for Cohorts, 1995-2001 ..............................13
+Table 11. Grade 1 to 6 Completion Rates by Province and Gender for Cohort Completing, 2007 .............................................................................................................................................13
+Table 12. Gross Enrolments Ratios by year, 2000-2006 ............................................................15
+Table 13. Net and Gross Enrolment Ratios by Province, 2007 ..................................................16
+Table 14. Gender Parity Indices for Net and Gross Enrolment Rates by Province, 2007 ..........16
 Table 15. Numbers of School-aged Children In- and Out of School, 2007 .................................17
-Table 16. Student Performance Grade 8, 2006 .............................................................................18
-Table 17. Responsibilities in the PNG Education Sector by Level of Government .....................20
-Table 18. Gross & Net Admission and Enrolment Rates, 2010-2019 ..........................................26
-Table 19. Elementary School Enrolments by Grade, 2010-2019 .................................................29
-Table 20. Elementary School Staffing by Grade, 2010-2019 .......................................................30
-Table 21. Primary School Enrolment by Grade, 2010-2019 ........................................................31
-Table 22. Primary School Staffing by Grade, 2010-2019 ............................................................31
-Table 23. Grade 1 to 6 Retention by Year and Gender. ...............................................................32
-Table 24. Grade 8 completion rates by Year and Gender. ............................................................33
-Table 25. Basic Education Teacher Requirements by Year, 2010-2019 ......................................36
-Table 26. Secondary School Enrolments by Grade, 2010-2019 ...................................................45
-Table 27. Secondary School Staffing, 2010-2019 ........................................................................45
-Table 28. Vocational Education Enrolments and Staffing, 2010 to 2019 ....................................46
-Table 29. Cost of Elementary School Classrooms, 2010-2019 ....................................................47
-Table 30. Cost of Primary School Classrooms, 2010-2019 ..........................................................48
-Table 31. Primary School Teacher Housing Construction, 2010-2019 ........................................48
-Table 32. Cost for Basic Education for Over-age Children, 2010-2019 ......................................49
-Table 33. Total Costs for Improved Access Interventions, 2010-2019 ........................................49
-Table 34. Enrolments of Pupils by Sector, 2010-2019 .................................................................50
-Table 35. Subsidy per Pupil by Sector, 2010-2019 ......................................................................50
-Table 36. Total Subsidies by Sector, 2010-2019 ..........................................................................50
-Table 37. Grants to Districts for Primary Schools, 2010-2019 ....................................................51
-Table 38. Advocacy and Awareness Raising, 2010-2019 ............................................................51
-Table 39. Provision of Water and Sanitation Facilities, 2010-2019 .............................................52
-Table 40. Total Costs for Enhanced Retention Interventions, 2010-2019 ....................................52
-Table 41. Elementary Pre service Teacher Education, 2010-2019 ...............................................53
-Table 42. Primary Pre-service Teacher Education, 2010-2019 ....................................................53
-Table 43. In-Service Training Cost, 2010-2019 ...........................................................................53
+Table 16. Student Performance Grade 8, 2006 ...........................................................................18
+Table 17. Responsibilities in the PNG Education Sector by Level of Government ...................20
+Table 18. Gross & Net Admission and Enrolment Rates, 2010-2019 ........................................26
+Table 19. Elementary School Enrolments by Grade, 2010-2019 ...............................................29
+Table 20. Elementary School Staffing by Grade, 2010-2019 .....................................................30
+Table 21. Primary School Enrolment by Grade, 2010-2019 .......................................................31
+Table 22. Primary School Staffing by Grade, 2010-2019 ...........................................................31
+Table 23. Grade 1 to 6 Retention by Year and Gender. ..............................................................32
+Table 24. Grade 8 completion rates by Year and Gender. ...........................................................33
+Table 25. Basic Education Teacher Requirements by Year, 2010-2019 .....................................36
+Table 26. Secondary School Enrolments by Grade, 2010-2019 ..................................................45
+Table 27. Secondary School Staffing, 2010-2019 .......................................................................45
+Table 28. Vocational Education Enrolments and Staffing, 2010 to 2019 ...................................46
+Table 29. Cost of Elementary School Classrooms, 2010-2019 ...................................................47
+Table 30. Cost of Primary School Classrooms, 2010-2019 .........................................................48
+Table 31. Primary School Teacher Housing Construction, 2010-2019 .......................................48
+Table 32. Cost for Basic Education for Over-age Children, 2010-2019 .....................................49
+Table 33. Total Costs for Improved Access Interventions, 2010-2019 .......................................49
+Table 34. Enrolments of Pupils by Sector, 2010-2019 ...............................................................50
+Table 35. Subsidy per Pupil by Sector, 2010-2019 .....................................................................50
+Table 36. Total Subsidies by Sector, 2010-2019 .........................................................................50
+Table 37. Grants to Districts for Primary Schools, 2010-2019 ...................................................51
+Table 38. Advocacy and Awareness Raising, 2010-2019 ...........................................................51
+Table 39. Provision of Water and Sanitation Facilities, 2010-2019 ...........................................52
+Table 40. Total Costs for Enhanced Retention Interventions, 2010-2019 .................................52
+Table 41. Elementary Pre service Teacher Education, 2010-2019 .............................................53
+Table 42. Primary Pre-service Teacher Education, 2010-2019 ..................................................53
+Table 43. In-Service Training Cost, 2010-2019 .........................................................................53
 
 vi
 
@@ -301,11 +292,11 @@ Table 45. School Library Facilities and Books, 2010-2019 .......................
 Table 46. Maintenance and Upgrading Cost, 2010-2019 .............................................................55
 Table 47. Total Costs Improved Quality of Education Interventions, 2010-2019 .......................55
 Table 48. Training of Headteachers, 2010-2019 ..........................................................................56
-Table 49. Support to District Education Administrators, 2010-2019 ...........................................56
+Table 49. Support to District Education Administrators, 2010-2019 ..........................................56
 Table 50. Support to School Inspectors, 2010-2019 .....................................................................57
-Table 51. Capacity building for Provincial and National Education Authorities, 2010-2019 ......57
+Table 51. Capacity building for Provincial and National Education Authorities, 2010-2019 .....57
 Table 52. Total Costs for Research Studies, 2010-2019 ..............................................................58
-Table 53. Total Costs for Improved Basic Education Management Interventions, 2010-2019....58
+Table 53. Total Costs for Improved Basic Education Management Interventions, 2010-2019 ...58
 Table 54. Special Needs Education Requirements, 2010-2019 ....................................................59
 Table 55. Remote and Over-crowded Schools Requirements, 2010-2019 ...................................59
 Table 56. Total Costs for Equity Interventions, 2010-2019 .........................................................60
@@ -614,7 +605,7 @@ Today's children and urban youths increasingly grow up alienated from their comm
 
 HIV/Aids is one of the most significant threats to the health of PNG.  First identified in 1987 HIV has spread rapidly and is already a major cause of hospital admission.  Current estimates from the National AIDS Council Report for 2007 put the prevalence rate at just over 2% with over 80,000 people infected.
 
-There is also an epidemic of sexually transmitted diseases.  Young women are particularly at risk and gender issues are major drivers of the epidemic.  The national response has lagged behind the epidemic, particularly in rural areas, although the DoE’s response stands out as one area of success.  However, HIV/Aids remains a huge challenge for PNG and its development partners and the impact of the epidemic on the education system is expected to remain significant for the years to come.
+There is also an epidemic of sexually transmitted diseases.  Young women are particularly at risk and gender issues are major drivers of the epidemic.  The national response has lagged behind the epidemic, particularly in rural areas, although the DoE's response stands out as one area of success.  However, HIV/Aids remains a huge challenge for PNG and its development partners and the impact of the epidemic on the education system is expected to remain significant for the years to come.
 
 5
 
@@ -662,11 +653,11 @@ As a result of the restructure students are to receive nine years of basic educa
 Figure 3. The Old Education Structure
 
 Community School
-1 2 3 4 5 6
+1 | 2 | 3 | 4 | 5 | 6
 High School
-7 8 9 10
+7 | 8 | 9 | 10
 National High School
-11 12
+11 | 12
 University
 Vocational Centres
 Distance education
@@ -678,11 +669,11 @@ Figure 4. The New Education Structure
 Flexible, Open and Distance Education
 Basic Education
 Elementary
-P 1 2
+P | 1 | 2
 Primary
-3 4 5 6 7 8
+3 | 4 | 5 | 6 | 7 | 8
 Secondary
-9 10 11 12
+9 | 10 | 11 | 12
 Tertiary
 Technical & Teacher Colleges
 Vocational Centres
@@ -700,7 +691,7 @@ The church agencies continue to make a huge contribution to education in the cou
 
 Table 4. Number of Schools and Enrolment by Administering Agency, 2006
 
- | Government Agency |  | Church Agency | 
+ | Government Agency | | Church Agency |
 Type of School | Number of Schools | Total Enrolment | Number of Schools | Total Enrolment
 --- | --- | --- | --- | ---
 Elementary Schools | 2,851 | 175,439 | 2,622 | 155,274
@@ -755,7 +746,7 @@ Retention rates have also been calculated for monitoring purposes along with ind
 
 Under the PNG definition of Universal Basic Education:
 
-"All children of school age must enrol in school, complete nine years of basic education and should have learnt skills, knowledge and values covered in the basic education curriculum "
+"All children of school age must enrol in school, complete nine years of basic education and should have learnt skills, knowledge and values covered in the basic education curriculum"
 
 the key indicators used and what they measure are:
 
@@ -785,7 +776,7 @@ There is a number of ways of looking at admission rates especially given that ag
 
 Table 6 shows total enrolment in Grade 1 for the years 2000 through to 2007.  These figures include children enrolled in both the elementary and primary schools.  The third last column shows this figure as a percentage of the 7 year old population.
 
-The second last column shows the Gross Admission Rate - the number enrolled in elementary prep as a percentage of the 6 year age group.  This is the figure that will become increasingly more important as greater percentages of children enrol in elementary schools as opposed to Grade 1 in the old community schools.
+The second last column shows the Gross Admission Rate - the number enrolled in elementary prep as a percentage of the 6 year age group.  This is the figure that will become increasingly more important as
 
 9
 
@@ -794,6 +785,8 @@ The second last column shows the Gross Admission Rate - the number enrolled in e
 [[START OF PAGE 21]]
 
 UBE Plan 2010-2019
+
+greater percentages of children enrol in elementary schools as opposed to Grade 1 in the old community schools.
 
 Table 6. Grade 1 Enrolment and Gross Admission Rates, 2000-2007
 
@@ -845,8 +838,8 @@ UBE Plan 2010-2019
 
 Table 8. Elementary Prep Enrolment by Age, 2007
 
-Age in Years | Enrolment |  |  | Age Group % age | Population | Age Specific Admission Rate (%)
- | Boys | Girls | Totals |  |  | 
+Age in Years | Enrolment | | | Age Group % age | Population | Age Specific Admission Rate (%)
+ | Boys | Girls | Totals | | |
 --- | --- | --- | --- | --- | --- | ---
 5 | 5,430 | 5,273 | 10,702 | 7.7 | 180,431 | 5.9
 6 | 10,484 | 10,169 | 20,661 | 14.9 | 175,685 | 11.8
@@ -873,7 +866,7 @@ Number
 10,000
 5,000
 0
-5 6 7 8 9 10 11 12 13 14 15 16 17 18
+5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18
 Age in Years
 
 There is an enormous variation across provinces as shown in table 9.  East Sepik Province has the lowest Net Admission Rate of 2.8% whilst Simbu has the highest with 30.5%.  It is equally varied across districts within the same province.
@@ -882,7 +875,7 @@ Evidence would suggest that most, if not all, children who do not enter at the c
 
 First, for effective teaching and learning, it is desirable for children in a class to be at a similar developmental level.  This makes it easier for teachers to prepare and deliver lessons appropriate for the majority of the children in a class.  The textbooks developed for use in a particular grade assume that the children are of a particular age group and are structured at that particular level.  In PNG class sizes can be large and this makes it even more difficult to cater for a wide range of children at different levels of aptitude and development.
 
-Second, it is particularly important for girls to enrol at elementary prep when aged six.  They are likely to remain in school longer if they do so.  If girls enrol in elementary prep at age ten then by the time they reach primary school in Grade 3 they will be 14 years of age.  There is the danger that as girls mature during puberty they can be the target of adult males.  Parents in rural areas are more likely to take them out of school for their protection and maybe even marry them off to suitors.  If however, they enrol in elementary prep aged six, they will have completed primary school by the time they reach the age of 14.
+Second, it is particularly important for girls to enrol at elementary prep when aged six.  They are likely to remain in school longer if they do so.  If girls enrol in elementary prep at age ten then by the time they
 
 11
 
@@ -892,14 +885,16 @@ Second, it is particularly important for girls to enrol at elementary prep when 
 
 UBE Plan 2010-2019
 
+reach primary school in Grade 3 they will be 14 years of age.  There is the danger that as girls mature during puberty they can be the target of adult males.  Parents in rural areas are more likely to take them out of school for their protection and maybe even marry them off to suitors.  If however, they enrol in elementary prep aged six, they will have completed primary school by the time they reach the age of 14.
+
 Third, there is inadequate school capacity in some parts of the country, most usually in the urban areas.
 
 A major challenge for this UBE Plan is to ensure that over the plan period the wide age range of those entering school will be reduced.  It is planned that by 2012, all 6-year olds will be entering Elementary Prep although it is also recognised that there will still be some older children also enrolling.
 
 Table 9. Net Admission Ratios by Province, 2007
 
-Province | Net Admission Ratio |  |  | GPI
- | M (%) | F (%) | T (%) | 
+Province | Net Admission Ratio | | | GPI
+ | M (%) | F (%) | T (%) |
 --- | --- | --- | --- | ---
 Western | 13.1 | 11.7 | 12.4 | 0.89
 Gulf | 5.6 | 5.3 | 5.5 | 0.95
@@ -1099,6 +1094,7 @@ Year | Gr 1-6 (%) | GP to 8 (%) | Gr 3-8 (%)
 2004 | 78.5 | 70.2 | 61.3
 2005 | 79.8 | 71.5 | 63.1
 2006 | 78.3 | 71.4 | 62.8
+
 #### What is the Current Status?
 
 The 2007 school census collected data of actual age of children in school.  The net enrolment or the actual age of children enrolled can be used as a percentage of the school aged population to indicate the percentage of school aged children in school and the percentage, out of school.  This is known as the Net Enrolment Ratio and will be used for the monitoring of the plan implementation.
@@ -1117,9 +1113,9 @@ Table 13 presents both the Net Enrolment Ratio and Gross Enrolment Ratio measure
 
 Table 13. Net and Gross Enrolment Ratios by Province, 2007
 
-Province | Gr 1-6 NER | Gr 1-6 GER | Prep-Gr 8 NER | Prep-Gr 8 GER
+Province | Gr 1-6 NER |  |  | Gr 1-6 GER |  |  | Prep-Gr 8 NER |  |  | Prep-Gr 8 GER |  |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-M (%) | F (%) | T (%) | M (%) | F (%) | T (%) | M (%) | F (%) | T (%) | M (%) | F (%) | T (%)
+ | M (%) | F (%) | T (%) | M (%) | F (%) | T (%) | M (%) | F (%) | T (%) | M (%) | F (%) | T (%)
 Western | 49.2 | 48.6 | 48.9 | 62.5 | 60.7 | 61.6 | 61.0 | 60.1 | 60.6 | 76.8 | 74.1 | 75.5
 Gulf | 36.3 | 35.9 | 36.2 | 63.8 | 54.4 | 59.2 | 43.0 | 40.5 | 41.8 | 61.1 | 53.8 | 57.6
 National Capital | 54.6 | 57.0 | 55.7 | 76.1 | 75.2 | 75.7 | 65.3 | 67.6 | 66.4 | 75.6 | 75.3 | 75.5
@@ -1142,6 +1138,7 @@ West New Britain | 47.6 | 46.0 | 46.8 | 85.6 | 79.5 | 82.7 | 61.2 | 59.7 | 60.5 
 AR Bougainville | 44.5 | 48.3 | 46.3 | 106.9 | 109.7 | 108.2 | 66.5 | 70.5 | 68.4 | 108.8 | 110.2 | 109.5
 Kiunga Lake Murray | 54.5 | 50.5 | 52.5 | 95.8 | 84.1 | 90.1 | 68.2 | 63.7 | 66.0 | 95.7 | 82.1 | 89.1
 PNG | 45.7 | 43.4 | 44.6 | 78.2 | 70.2 | 74.4 | 54.3 | 51.4 | 52.9 | 73.3 | 66.1 | 69.8
+
 Table 14. Gender Parity Indices for Net and Gross Enrolment Rates by Province, 2007
 
 Province | G1 to 6 NER | G1 to 6 GER | P to G8 NER | P to G8 GER
@@ -1168,6 +1165,7 @@ West New Britain | 0.97 | 0.93 | 0.98 | 0.94
 AR Bougainville | 1.09 | 1.03 | 1.06 | 1.01
 Kiunga Lake Murray | 0.93 | 0.88 | 0.93 | 0.86
 PNG | 0.95 | 0.90 | 0.95 | 0.90
+
 16
 
 [[END OF PAGE 27]]
@@ -1180,9 +1178,9 @@ The Net Enrolment Ratio expressed as a percentage at times may not indicate the 
 
 Table 15. Numbers of School-aged Children In- and Out of School, 2007
 
-Province | In School | Out of School
+Province | In School |  |  | Out of School |  |
 --- | --- | --- | --- | --- | --- | ---
-M | F | T | M | F | T
+ | M | F | T | M | F | T
 Western | 9,807 | 9,171 | 18,978 | 6,265 | 6,082 | 12,347
 Gulf | 7,622 | 6,518 | 14,140 | 9,252 | 8,862 | 18,114
 National Capital | 21,511 | 20,052 | 41,563 | 11,442 | 9,600 | 21,042
@@ -1205,6 +1203,7 @@ West New Britain | 21,560 | 19,496 | 41,055 | 7,922 | 7,213 | 15,135
 AR Bougainville | 16,821 | 16,120 | 32,941 | 8,482 | 6,733 | 15,215
 Kiunga Lake Murray | 5,221 | 4,625 | 9,846 | 2,624 | 2,820 | 5,444
 PNG | 422,136 | 361,344 | 784,539 | 341,864 | 333,364 | 674,169
+
 ### 2.8 Quality of Learning
 
 In order to achieve true UBE it is not enough for all children to enrol in school and to complete the nine years of basic education.  It must also be demonstrated that these children have acquired the knowledge, skills and values as is clearly outlined in the curriculum.
@@ -1247,16 +1246,17 @@ Eastern Highlands | 23.7 | 23.1 | 24.1 | 16.2
 Simbu | 23.2 | 21.5 | 22.5 | 16.4
 Western Highlands | 26.1 | 22.7 | 24.0 | 16.1
 Enga | 25.6 | 21.0 | 22.4 | 14.3
-Morobe | (n/a)
+Morobe | (n/a) |  |  |
 Madang | 18.8 | 18.7 | 20.4 | 14.5
 West Sepik | 21.5 | 20.7 | 20.5 | 11.2
 East Sepik | 16.9 | 16.4 | 18.1 | 11.1
 Manus | 21.2 | 21.1 | 24.1 | 15.2
 New Ireland | 17.1 | 19.4 | 19.8 | 14.5
 East New Britain | 18.5 | 20.3 | 20.3 | 15.1
-West New Britain | (n/a)
+West New Britain | (n/a) |  |  |
 AR Bougainville | 16.9 | 18.1 | 17.1 | 12.6
 PNG | 19.3 | 19.6 | 19.9 | 13.6
+
 All highlands provinces performed above average in all subjects but the highlands region also has a low retention rate so it could be that only the brighter ones stay on and complete the primary school cycle whilst the weak ones had dropped out.
 
 Within provinces, there is wide variation between districts with some of the remote districts having very low marks. This is also the case when the provincial average might be well above the national mean.
@@ -1334,7 +1334,8 @@ ACTIVITY | NATIONAL GOVERNMENT | PROVINCIAL GOVERNMENT | LOCAL LEVEL GOVERNMENT
 Policy & Planning | • National Education Board and Teaching Services Commission • Develop curriculum | • Develop Provincial Education Plan | • Identify local priorities
 Elementary education | • Set maximum school fee limits • Pay school fees subsidy in 1st and 3rd quarter • Curriculum development (some locally based curriculum developed at community/school level) • Deliver new curriculum materials to Provincial Government HQ • Pre-service teacher training and registration | • Decide to recognise new schools • Provide support through the Education Function Grant • Distribute curriculum in province and acquire additional education materials • Assist with logistics of teacher training (eg, venues, transport) | • Assist in securing land for new schools and community with construction • Maintain schools; inspect buildings that are LLG funded
 Primary education | • Curriculum development and delivery to Provincial Government HQ • Pay school fees subsidy in 1st and 3rd quarter • Provide Grade 8 exams to Provincial Government and collate results across PNG • Teacher training and in-service training • Inspect schools | • Store, then distribute curriculum throughout province • Provide support through the Education Function Grant • Administer Grade 8 exams and send results to DoE • Compile district monthly reports and submit quarterly to DoE • Logistical support for school inspections • Payroll administration (in some provinces) | • Construction and maintenance of primary schools • Maintain schools; inspect buildings that are LLG funded
-Secondary and Vocational | • Run the National High Schools • Grade 9 and 11 selection criteria • Grade 10 and 12 exams prepared and delivered to Provincial headquarters; marking exams • Granting of school certificate and higher school certificate • Develop curriculum and deliver to Provincial headquarters • Teacher training (vocational), admission and registration • Inspections | • Run and maintain Provincial High Schools • Distribution of grade 10 and 12 exams and supervision • Compile district monthly reports and submit quarterly • Prepare storage plan and distribute curriculum to schools • Determines applications for in service training, organise venues and logistics (also District involvement) • Payroll administration • Some school inspections and logistic support for National inspections
+Secondary and Vocational | • Run the National High Schools • Grade 9 and 11 selection criteria • Grade 10 and 12 exams prepared and delivered to Provincial headquarters; marking exams • Granting of school certificate and higher school certificate • Develop curriculum and deliver to Provincial headquarters • Teacher training (vocational), admission and registration • Inspections | • Run and maintain Provincial High Schools • Distribution of grade 10 and 12 exams and supervision • Compile district monthly reports and submit quarterly • Prepare storage plan and distribute curriculum to schools • Determines applications for in service training, organise venues and logistics (also District involvement) • Payroll administration • Some school inspections and logistic support for National inspections |
+
 20
 
 [[END OF PAGE 31]]
@@ -1409,23 +1410,31 @@ Low Admission
 
 Rates
 
-Low Completion
-
-Rates
-
-Quality
-
 Elementary
 
 Schools
 
+Limited nr.of
+
+Classrooms in
+
+Existing Elementary
+
+Schools
+
+Lack of Nearby
+
+Elementary Schools
+
+and Classrooms
+
+Other Reasons
+
+Low Completion
+
+Rates
+
 In School Factors
-
-Out of School
-
-Factors
-
-Teaching Quality
 
 School Fees too
 
@@ -1440,6 +1449,20 @@ Materials
 Lack of School
 
 Infrastructure
+
+Poor Teacher
+
+Attitude &
+
+Attendance
+
+Negative Student
+
+Behaviour
+
+Out of School
+
+Factors
 
 Lack of Parental
 
@@ -1459,29 +1482,9 @@ Schooling
 
 Tribal Fights
 
-Limited nr.of
+Quality
 
-Classrooms in
-
-Existing Elementary
-
-Schools
-
-Lack of Nearby
-
-Elementary Schools
-
-and Classrooms
-
-Poor Teacher
-
-Attitude &
-
-Attendance
-
-Negative Student
-
-Behaviour
+Teaching Quality
 
 Poor Quality of
 
@@ -1491,8 +1494,6 @@ Lack of Teacher
 
 Motivation
 
-Other Reasons
-
 Quality of
 
 Curricula
@@ -1500,6 +1501,7 @@ Curricula
 CROSS - CUTTING CONSTRAINTS
 --- | ---
 Lack of Equity • Gender • HIV/Aids • Special Needs Education • Adult Education | Limited Basic Education Management Capacity • Headteachers and Site Leaders • District Education Administrators • School Inspectorate • Provincial and National Education Authorities
+
 23
 
 [[END OF PAGE 34]]
@@ -1568,29 +1570,29 @@ The overall indicator for the UBE could therefore be described as
 
 In order to achieve the UBE goal, three inter-related specific results have been identified:
 
-- Access improved
+1. Access improved
 
-- Retention enhanced
+2. Retention enhanced
 
-- Quality of education improved
+3. Quality of education improved
 
 and two cross-cutting or underlying results that will contribute to achieving the specific results
 
-- Basic Education Management enhanced
+4. Basic Education Management enhanced
 
-- Equity enhanced
+5. Equity enhanced
 
 These results are elaborated upon in Chapter 4
 
 In the NEP these results (or minor outcomes) are largely the same but given a different weight:
 
-- Access
+1. Access
 
-- Quality curriculum and monitoring
+2. Quality curriculum and monitoring
 
-- Quality teacher education and training
+3. Quality teacher education and training
 
-- Management.
+4. Management.
 
 Retention is covered under access.  Quality curriculum and quality teacher education are considered separately whereas in this plan they have been combined under quality of education.  In the National Education Plan, equity is treated as a cross cutting issue rather than being specifically addressed.
 
@@ -1604,7 +1606,7 @@ UBE Plan 2010-2019
 
 ## CHAPTER 4 RESULTS, OUTPUTS AND ACTIVITIES
 
-In this chapter the Results required to achieve the UBE Goal are described.  For each Result to be achieved, a number of Outputs need to be realized through specific Activities , which are also described in this chapter.  At activity level, the required Inputs are given in broad terms. Indicators are given for both the results as well as the outputs.  Furthermore, it is indicated which institution/position has the main responsibility for Implementation. The Reporting functions relate to the flows of information on progress made.  The information that should also link up to the Education Management Information System (EMIS) will need to be further developed.
+In this chapter the Results required to achieve the UBE Goal are described.  For each Result to be achieved, a number of Outputs need to be realized through specific Activities, which are also described in this chapter.  At activity level, the required Inputs are given in broad terms. Indicators are given for both the results as well as the outputs.  Furthermore, it is indicated which institution/position has the main responsibility for Implementation. The Reporting functions relate to the flows of information on progress made.  The information that should also link up to the Education Management Information System (EMIS) will need to be further developed.
 
 It should be kept in mind that the UBE plan covers a period of 10 years, during which the Goal and Results are not likely to change.  However, the progress made, constraints encountered, possible unforeseen developments, and lessons learnt along the way will affect implementation.  Detailed and inter-linked planning on an annual basis as well as regular reporting is required at all levels, in order to implement the UBE plan.  All schools will be required to produce and use a School Learning Improvement Plan which will cover all of the results addressed in this UBE plan.  All schools know their own needs and will be expected to prioritise following their own action research.
 
@@ -1638,6 +1640,7 @@ Year | Gross Admission Rate (%) | Gross Elementary Enrolment Rate(%) | Gross Pre
 2017 | 104.0 | 103.9 | 92.0 | 100.0 | 96.0 | 79.6
 2018 | 102.0 | 101.9 | 94.7 | 100.0 | 96.0 | 82.3
 2019 | 100.0 | 99.9 | 96.0 | 100.0 | 96.0 | 85.1
+
 26
 
 [[END OF PAGE 37]]
@@ -1728,7 +1731,7 @@ Elementary and
 
 Primary Schools
 
-CROSS - CUTTING  INTERVENTIONS
+CROSS - CUTTING INTERVENTIONS
 
 Equity Enhanced
 
@@ -1738,9 +1741,9 @@ Equity Enhanced
 
 - Special Needs Educations
 
-  - Study on Special Needs Education Requirements
+- Study on Special Needs Education Requirements
 
-  - Implementation of Special Needs Education
+- Implementation of Special Needs Education
 
 - Most vulnerable children
 
@@ -1830,6 +1833,7 @@ Year | Prep | Grade 1 | Grade 2 | Totals | Gross Admission Rate (%)
 2017 | 238,178 | 231,505 | 224,939 | 694,623 | 104.0
 2018 | 240,054 | 233,415 | 226,875 | 700,344 | 102.0
 2019 | 241,851 | 235,253 | 228,746 | 705,850 | 100.0
+
 Applying an assumed elementary prep class size of 35, which is based upon historical figures, provides us with the staffing figures, as given in table 20.  It is assumed that there will be a 2% attrition rate for elementary school teachers.
 
 Annex A provides the enrolments rates of elementary, lower and upper primary school by gender.
@@ -1856,6 +1860,7 @@ Year | Prep (#) | Grade 1 (#) | Grade 2 (#) | Totals (#) | Pupil Teacher Ratio (
 2017 | 6,805 | 6,749 | 6,692 | 20,246 | 34.3
 2018 | 6,859 | 6,805 | 6,749 | 20,413 | 34.3
 2019 | 6,910 | 6,859 | 6,805 | 20,574 | 34.3
+
 #### 4.1.2 Expansion of Primary School Infrastructure
 
 New classrooms will need to be built for new primary school classes.  It was initially anticipated that the phasing put of Grade 1 and 2 classes would free up sufficient classrooms for use in the upper grades but most of this excess capacity has now been used up.  Forward planning must take place to ensure additional new Primary schools and classrooms are provided to accommodate any surplus of pupils completing Elementary schools.  These implementation schedules will be included in the District Education Plans.
@@ -1896,6 +1901,7 @@ Year | Grade 1 | Grade 2 | Grade 3 | Grade 4 | Grade 5 | Grade 6 | Grade 7 | Gra
 2017 | 0 | 0 | 218,484 | 203,882 | 187,583 | 156,889 | 134,291 | 108,651 | 1,009,78
 2018 | 0 | 0 | 220,440 | 213,397 | 198,983 | 184,419 | 153,751 | 131,605 | 1,102,59
 2019 | 0 | 0 | 222,338 | 215,307 | 208,269 | 195,626 | 180,730 | 150,676 | 1,172,94
+
 As per the National Education Plan generalist teaching will become the norm in the upper primary grades. Applying these criteria is expected to result in staffing requirements as presented below.  It is assumed that there will be a 4% attrition rate for primary school teachers.  Table 22 shows the anticipated staffing numbers by grade.
 
 Table 22. Primary School Staffing by Grade, 2010-2019
@@ -1912,6 +1918,7 @@ Year | Grade 1 | Grade 2 | Grade 3 | Grade 4 | Grade 5 | Grade 6 | Grade 7/8 | T
 2017 | 0 | 0 | 5,905 | 5,642 | 5,388 | 4,767 | 6,941 | 28,644 | 35.0
 2018 | 0 | 0 | 5,958 | 5,905 | 5,642 | 5,388 | 8,153 | 31,046 | 35.3
 2019 | 0 | 0 | 6,009 | 5,958 | 5,905 | 5,642 | 9,469 | 32,982 | 31.6
+
 #### 4.1.3 Construction of Primary School Teacher Housing
 
 There are many primary schools in remote areas that do not have teachers, often the reason being that no adequate housing is available.  There is a need for teacher housing in these schools in order to provide an incentive for teachers to teach in these areas and to improve teacher time on task.
@@ -2145,6 +2152,7 @@ Year | Elementary Level (#) | Primary Level (#)
 2017 | 574 | 3,147
 2018 | 572 | 3,548
 2019 | 569 | 3,178
+
 At the elementary level it is assumed that the process of institutionalising the Elementary Teacher Training course will continue and this is one of the main activities in this plan.  It is further acknowledged that this process will take a number of years and hence the mixed mode delivery of teacher education for elementary teachers will continue during the interim.
 
 The elementary teacher training has been grossly under-funded in recent years, in particular the opportunities for the trainers to visit their trainees on a regular basis.  This under-funding will be addressed in the early years of the plan.
@@ -2833,13 +2841,13 @@ Year | Production of Materials K'000s | Delivery of Campaign K'000s | Totals K'0
 2010 | 5,970 | 4,653 | 10,623
 2011 | 6,173 | 4,812 | 10,985
 2012 | 6,383 | 4,975 | 11,358
-2013
-2014
-2015
-2016
-2017
-2018
-2019
+2013 |  |  |
+2014 |  |  |
+2015 |  |  |
+2016 |  |  |
+2017 |  |  |
+2018 |  |  |
+2019 |  |  |
 Totals | 18,526 | 14,440 | 32,966
 
 #### 5.2.3 Provision of Water and Sanitation Facilities in All Schools
@@ -3438,7 +3446,7 @@ Table 61 gives an overview of all the cost for the UBE implementation.
 
 Table 61. All Cost for UBE plan Implementation
 
-Year | UBE Interventions K'000s | Salaries K'000 s | Leave Fares K'000s | Admin. Requirements K'000s | Totals K'000s
+Year | UBE Interventions K'000s | Salaries K'000s | Leave Fares K'000s | Admin. Requirements K'000s | Totals K'000s
 --- | --- | --- | --- | --- | ---
 2010 | 364,491 | 476,150 | 18,029 | 73,629 | 932,299
 2011 | 464,644 | 520,386 | 19,216 | 83,265 | 1,087,511
@@ -3550,7 +3558,7 @@ Some of the specific tasks that will need to be carried out by the DoE are:
 
 - The establishment of a cadre of officers responsible for particular aspects of UBE in key divisions of the Department coordinated through the Policy and Planning Wing of the Department.  These divisions and indicative key functions to be performed include:
 
--Policy, Planning and Research in the planning and monitoring sections to, inter alia, develop standardised reporting formats for use at the sub-national levels and school levels;
+-Policy, Planning and Research in the planning and monitoring sections to, inter alia , develop standardised reporting formats for use at the sub-national levels and school levels;
 
 -Teacher education for teacher upgrading, the implementation of refresher courses for those teaching the over age-children and the implementation of courses to provide headteachers with the skills required to implement their School Learning Improvement Plans;
 
@@ -3855,7 +3863,7 @@ Secretary Staff Meeting (SSM)
 Chair: Education Secretary
 
 Policy and Implementation Technical Committee
-Chair: Deputy Secretary-Policy and Corporate Services
+Chair: Deputy Secretary- Policy and Corporate Services
 Membership: NDoE, Donors, Churches, NGOs
 - Consolidation of technical and financial workplans & reports
 - Monitoring of performance assessment framework
@@ -3873,19 +3881,19 @@ NDoE Structures
 - Organizational Review Team
 - Procurement Committee
 
-Joint Structure
-
-Finance, Budget&Audit Committee
+Finance, Budget & Audit Committee
 Chair:
 FAS Corporate Services
 
 Planning & Monitoring Committee
 Chair:
-FAS Policy& Planning
+FAS Policy & Planning
 
 Procurement Committee
 Chair:
 FAS Corporate Services
+
+Joint Structure
 
 Development Partners and other stakeholders that support the education sector are expected to increasingly rely upon the GoPNG financial reporting and monitoring systems.  The monitoring system shall be strengthened, focusing on
 
@@ -3939,12 +3947,12 @@ UBE Plan 2010-2019
 
 #### 8.6.1 Education Indicators
 
-OUTCOME | INDICATOR | BASELINE 2007 | TARGET 2019 | ACTIVITIES | LEAD AGENCY
+ | OUTCOME | INDICATOR | BASELINE 2007 |  |  | TARGET 2019 | ACTIVITIES | LEAD AGENCY
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-A | ACCESS | Male | Female | Total
+A | ACCESS |  | Male | Female | Total |  |  | 
 1 | Every 6 year old child enrolled at elementary prep | Net Admission Rate | 11.2% | 11.9% | 11.5% | 100% | Establish sufficient schools | Districts
 2 | All children enrol at elementary prep. | Gross Admission Rate | 80.7% | 79.0% | 79.8% | 100% | Establish sufficient schools | Districts
-B | RETENTION | Male | Female | Total
+B | RETENTION |  | Male | Female | Total |  |  | 
 3 | A greater number of children remain in school to complete the primary cycle. | Retention Rate 3 | 45.8% | 42.0% | 44.1% | 71% | Awareness Abolition of school fees | DOE
 4 | A greater number of children completing a full basic education. | Completion Rate | 48.5% | 41.8% | 45.3% | 77% | Awareness Abolition of school fees | DOE
 5 | All children have the opportunity to complete a full quality primary education of 6 years to Grade 8 | Prep to Gr 8 Gross Enrolment Rate | 75.3% | 67.2% | 71.3% | 96% | Establish sufficient schools | Districts
@@ -3960,15 +3968,15 @@ B | RETENTION | Male | Female | Total
 
 UBE Plan 2010-2019
 
-OUTCOME | INDICATOR | BASELINE 2007 | TARGET 2019 | ACTIVITIES | LEAD AGENCY
+ | OUTCOME | INDICATOR | BASELINE 2007 |  |  | TARGET 2019 | ACTIVITIES | LEAD AGENCY
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-education
-C | QUALITY | Male | Female | Total
-7 | All children should reach a required standard of literacy, numeracy and general knowledge as prescribed in the curriculum. | Percentage of pupils who receive a satisfactory standard as measured by the Curriculum Standards Monitoring Test 4 | TBD 5 | TBD | DOE
-All children should reach a required standard of literacy, numeracy and general knowledge as measured in the national Certificate of Basic Education Examination. | Percentage of pupils completing Grade 8 who receive a satisfactory passing mark in the national exams
-8 | All schools supplied with relevant textbooks | Pupil Text Book Ratio (PTBR) | Not known | 1:1 | Text book supply | DOE - CDAD, Provinces
-9 | Effective monitoring of primary schools. | Percentage of schools receiving Standard Officers Visits Reports (SVR) | 40% | 80% | Reporting on schools | DOE - SGD
-D | MANAGEMENT | Male | Female | Total
+ | education |  |  |  |  |  |  | 
+C | QUALITY |  | Male | Female | Total |  |  | 
+7 | All children should reach a required standard of literacy, numeracy and general knowledge as prescribed in the curriculum. | Percentage of pupils who receive a satisfactory standard as measured by the Curriculum Standards Monitoring Test 4 |  |  |  | TBD 5 | TBD | DOE
+ | All children should reach a required standard of literacy, numeracy and general knowledge as measured in the national Certificate of Basic Education Examination. | Percentage of pupils completing Grade 8 who receive a satisfactory passing mark in the national exams |  |  |  |  |  | 
+8 | All schools supplied with relevant textbooks | Pupil Text Book Ratio (PTBR) | Not known |  |  | 1:1 | Text book supply | DOE - CDAD, Provinces
+9 | Effective monitoring of primary schools. | Percentage of schools receiving Standard Officers Visits Reports (SVR) | 40% |  |  | 80% | Reporting on schools | DOE - SGD
+D | MANAGEMENT |  | Male | Female | Total |  |  | 
 10 | Appropriately qualified teachers in all classrooms | Percentage of Primary School teachers with a | 66.3% | 71.6% | 68.7% | 100% | In Service and Pre Service Teacher | DOE - TED
 
 > 4 Until such time as the CSMT is fully institutionalised the Grade 8 examination results will be used as a proxy
@@ -4006,7 +4014,7 @@ UBE Plan 2010-2019
 
 OUTCOME | INDICATOR | BASELINE 2007 | TARGET 2019 | ACTIVITIES | LEAD AGENCY
 --- | --- | --- | --- | --- | --- | ---
-18 | Education provided with sufficient funds. | Public Expenditure on Education as % of total Government Expenditure | Submit budget estimates | DOE - F and B
+18 | Education provided with sufficient funds. | Public Expenditure on Education as % of total Government Expenditure |  |  | Submit budget estimates | DOE - F and B
 E | EQUITY
 19 | Equal opportunities for both boys and girls | Gender Parity Index in basic education | 0.91 | 1.00 | Awareness | DOE
 20 | Equal opportunities for all Papua New Guineans regardless of disability. | Percentage of Children with Special Educational Needs enrolled in schools. | TBD 7 | TBD | Provision of teacher education opportunities | DOE - TED
@@ -4075,7 +4083,7 @@ M | F | T | M | F | T | M | F | T | M | F | T | M | F | T
 
 UBE Plan 2010-2019
 
-### Upper Primary School Enrolments by Gender, 2010 -2019
+### Upper Primary School Enrolments by Gender , 2010 -2019
 
 Year | Grade 6 | Grade 7 | Grade 8 | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
