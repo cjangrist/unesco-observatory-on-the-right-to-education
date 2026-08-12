@@ -28,7 +28,7 @@ This is a compilation of the Australian Human Rights Commission Act 1986 as amen
 
 This compilation was prepared on 28 May 2013.
 
-The notes at the end of this compilation (the endnotes ) include information about amending Acts and instruments and the amendment history of each amended provision.
+The notes at the end of this compilation (the endnotes) include information about amending Acts and instruments and the amendment history of each amended provision.
 
 ### Uncommenced provisions and amendments
 
@@ -52,10 +52,45 @@ ComLaw Authoritative Act C2013C00274
 
 [[START OF PAGE 3]]
 
-## Contents
-
 Australian Human Rights Commission Act 1986       i
-
+## Contents
+Part I—Preliminary 1
+1 Short title...........................................................................................1
+2 Commencement.................................................................................1
+3 Interpretation .....................................................................................1
+4 Operation of State and Territory laws..............................................10
+5 Extension to external Territories .....................................................10
+6 Extent to which Act binds the Crown ..............................................10
+6A Application of the Criminal Code ...................................................11
+Part II—Australian Human Rights Commission 12
+Division 1—Establishment and Constitution of Commission 12
+7 Australian Human Rights Commission ...........................................12
+8 Constitution of Commission............................................................12
+8A The President...................................................................................13
+8B The Human Rights Commissioner...................................................13
+9 Arrangement for appointment of the holder of a judicial
+office of a State................................................................................14
+10 Appointment of Judge as member not to affect tenure etc...............14
+Division 2—Duties, functions and powers of Commission 15
+10A Duties of Commission .....................................................................15
+11 Functions of Commission................................................................15
+13 Powers of Commission....................................................................18
+14 Form of examinations or inquiries to be at discretion of
+Commission etc. ..............................................................................18
+15 Commission may engage in consultations.......................................20
+16 Inter-governmental arrangements....................................................20
+18 Declarations by Minister .................................................................21
+19 Delegation .......................................................................................21
+Division 3—Functions relating to human rights 23
+19A Division applies to victimisation offences.......................................23
+20 Performance of functions relating to human rights..........................23
+21 Power to obtain information and documents ...................................26
+22 Power to examine witnesses............................................................27
+23 Failure to comply with requirement.................................................27
+24 Disclosure of information or contents of documents.......................28
+26 Offences relating to administration of Act.......................................31
+27 Commission to give opportunity for making of submissions ..........32
+28 Nature of settlements.......................................................................32
 ComLaw Authoritative Act C2013C00274
 
 [[END OF PAGE 3]]
@@ -63,7 +98,45 @@ ComLaw Authoritative Act C2013C00274
 [[START OF PAGE 4]]
 
 ii       Australian Human Rights Commission Act 1986
-
+29 Reports to contain recommendations...............................................32
+Division 4—Functions relating to equal opportunity in
+employment 35
+30 Interpretation etc..............................................................................35
+31 Functions of Commission relating to equal opportunity..................35
+32 Performance of functions relating to equal opportunity...................37
+33 Application of certain provisions of Division 3...............................38
+34 Nature of settlements.......................................................................39
+35 Reports to contain recommendations...............................................39
+Division 5—Administrative provisions 42
+36 Acting President and Human Rights Commissioner........................42
+37 Terms and conditions of appointment .............................................42
+38 Remuneration and allowances.........................................................43
+39 Leave of absence .............................................................................43
+40 Resignation......................................................................................43
+41 Termination of appointment ............................................................44
+42 Disclosure of interests .....................................................................44
+43 Staff.................................................................................................45
+43A Commission may make administrative services available to
+the Information Commissioner........................................................45
+44 Meetings of the Commission ...........................................................45
+45 Annual report...................................................................................46
+46 Reports to be tabled in Parliament...................................................46
+Division 6—Corporate plan 47
+46AA Corporate plan .................................................................................47
+46AB Matters to be included in corporate plan..........................................47
+46AC Corporate plans to be given to Minister...........................................47
+Part IIA—Aboriginal and Torres Strait Islander Social Justice
+Commissioner 48
+Division 1—Establishment and functions 48
+46A Interpretation ...................................................................................48
+46B Aboriginal and Torres Strait Islander Social Justice
+Commissioner..................................................................................48
+46C Functions of the Commission that are to be performed by the
+Commissioner..................................................................................48
+Division 2—Administrative provisions 51
+46D Terms and conditions of appointment .............................................51
+46E Remuneration ..................................................................................51
+46F Leave of absence .............................................................................51
 ComLaw Authoritative Act C2013C00274
 
 [[END OF PAGE 4]]
@@ -71,7 +144,44 @@ ComLaw Authoritative Act C2013C00274
 [[START OF PAGE 5]]
 
 Australian Human Rights Commission Act 1986       iii
-
+46G Outside employment........................................................................51
+46H Resignation......................................................................................52
+46I Termination of appointment ............................................................52
+46J Acting Commissioner......................................................................52
+Division 3—Miscellaneous 53
+46K Commissioner may obtain information from government
+agencies...........................................................................................53
+46L Commissioner must give information to the Commission...............54
+46M Minister must table etc. report of Commissioner.............................54
+Part IIAA—National Children’s Commissioner 55
+Division 1—Establishment and functions 55
+46MA National Children’s Commissioner .................................................55
+46MB Functions of Commission that are to be performed by
+National Children’s Commissioner .................................................55
+Division 2—Appointment 58
+46MC Appointment of National Children’s Commissioner .......................58
+46MD Period of appointment .....................................................................58
+46ME Acting appointment .........................................................................58
+Division 3—Terms and conditions 59
+46MF Remuneration and allowances.........................................................59
+46MG Leave of absence .............................................................................59
+46MH Outside employment........................................................................59
+46MI Resignation......................................................................................59
+46MJ Termination of appointment ............................................................60
+46MK Other terms and conditions..............................................................60
+Division 4—Miscellaneous 61
+46ML National Children’s Commissioner may obtain information
+from Commonwealth government agencies ....................................61
+46MM National Children’s Commissioner must give information to
+the Commission...............................................................................62
+46MN Minister must table reports of National Children’s
+Commissioner..................................................................................62
+Part IIB—Redress for unlawful discrimination 63
+Division 1—Conciliation by the President 63
+46P Lodging a complaint........................................................................63
+46PA Amendment of complaint ................................................................64
+46PB Conditions for lodging a representative complaint ..........................64
+46PC Additional rules applying to representative complaints...................64
 ComLaw Authoritative Act C2013C00274
 
 [[END OF PAGE 5]]
@@ -79,15 +189,65 @@ ComLaw Authoritative Act C2013C00274
 [[START OF PAGE 6]]
 
 iv       Australian Human Rights Commission Act 1986
-
+46PD Referral of complaint to President...................................................65
+46PE Complaints against the President, Commission or a
+Commissioner..................................................................................65
+46PF Inquiry by President ........................................................................65
+46PG Withdrawal of complaint.................................................................66
+46PH Termination of complaint ................................................................66
+46PI President’s power to obtain information..........................................67
+46PJ Directions to attend compulsory conference....................................68
+46PK Proceedings at compulsory conference............................................69
+46PL Failure to attend compulsory conference .........................................70
+46PM Failure to give information or produce documents..........................70
+46PN False or misleading information ......................................................71
+Division 2—Proceedings in the Federal Court and the Federal
+Circuit Court 72
+46PO Application to court if complaint is terminated ...............................72
+46PP Interim injunction to maintain status quo etc...................................73
+46PQ Right of representation ....................................................................74
+46PR Court not bound by technicalities....................................................74
+46PS Report by President to court ............................................................74
+46PT Assistance by Commission..............................................................75
+46PU Assistance in proceedings before the court......................................75
+46PV Amicus curiae function of Commission members...........................75
+Part IIC—Referral of discriminatory awards and
+determinations to other bodies 77
+46PW Referral of discriminatory industrial instruments to the Fair
+Work Commission...........................................................................77
+46PX Referral of discriminatory determinations to the
+Remuneration Tribunal....................................................................78
+46PY Referral of discriminatory determinations to the Defence
+Force Remuneration Tribunal..........................................................79
+Part III—Miscellaneous 82
+47 Declaration of international instruments..........................................82
+48 Protection from civil actions............................................................82
+49 Non-disclosure of private information.............................................83
+49A Information stored otherwise than in written form ..........................85
+49B Jurisdiction of Federal Court and Federal Circuit Court..................85
+49C Compensation for acquisition of property .......................................85
+50 Regulations......................................................................................86
 ComLaw Authoritative Act C2013C00274
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-> Australian Human Rights Commission Act 1986       v
-
+Australian Human Rights Commission Act 1986       v
+Schedule 1—Convention concerning Discrimination in
+respect of Employment and Occupation 87
+Schedule 2—International Covenant on Civil and
+Political Rights 92
+Schedule 3—Declaration of the Rights of the Child 113
+Schedule 4—Declaration on the Rights of Mentally
+Retarded Persons 116
+Schedule 5—Declaration on the Rights of Disabled
+Persons 118
+Endnotes 121
+Endnote 1—Legislation history 121
+Endnote 2—Amendment history 131
+Endnote 3—Uncommenced amendments 137
+Endnote 4—Misdescribed amendments [none] 138
 ComLaw Authoritative Act C2013C00274
 
 [[END OF PAGE 7]]
@@ -106,11 +266,11 @@ Section 1
 
 ## An Act to establish the Australian Human Rights Commission, to make provision in relation to human rights and in relation to equal opportunity in employment, and for related purposes
 
-## Part I-Preliminary
+## Part I—Preliminary
 
 #### 1  Short title
 
-This Act may be cited as the Australian Human Rights Commission Act 1986 .
+This Act may be cited as the Australian Human Rights Commission Act 1986.
 
 #### 2  Commencement
 
@@ -132,11 +292,44 @@ Part I Preliminary
 
 Section 3
 
-alleged unlawful discrimination means: (a)  in relation to a complaint-the acts, omissions or practices that are alleged in the complaint and that would, if proven, constitute unlawful discrimination; and (b)  in relation to an application to the Federal Court or the Federal Circuit Court under Division 2 of Part IIB-the acts, omissions or practices that are alleged in the application and that would, if proven, constitute unlawful discrimination. appointed member means the President or the Human Rights Commissioner. Australia includes the external Territories. Australian Capital Territory enactment means an enactment of the Australian Capital Territory within the meaning of the Australian Capital Territory (Self-Government) Act 1988 , or an instrument made under such an enactment. authority means: (iii)  a person holding or performing the duties of an office or or a Minister of the Commonwealth (not being an office regulations to be an authority of the Commonwealth for
-
-(a)  in relation to the Commonwealth: (i)  a body (whether incorporated or unincorporated) established for a purpose of the Commonwealth by or under a Commonwealth enactment; (ii)  an incorporated company over which the Commonwealth is in a position to exercise control; appointment established or made under a Commonwealth enactment or by the Governor-General or appointment referred to in subparagraph (c)(iii)); (iv)  a body, or a person holding or performing the duties of an office or appointment, that is declared by the the purposes of this Act; (b)  in relation to a State: (i)  a body (whether incorporated or unincorporated) established for a purpose of the State by or under a law of the State; (ii)  an incorporated company over which the State is in a position to exercise control;
-
-> 2            Australian Human Rights Commission Act 1986
+alleged unlawful discrimination means:
+(a)  in relation to a complaint—the acts, omissions or practices
+that are alleged in the complaint and that would, if proven,
+constitute unlawful discrimination; and
+(b)  in relation to an application to the Federal Court or the
+Federal Circuit Court under Division 2 of Part IIB—the acts,
+omissions or practices that are alleged in the application and
+that would, if proven, constitute unlawful discrimination.
+appointed member means the President or the Human Rights
+Commissioner.
+Australia includes the external Territories.
+Australian Capital Territory enactment means an enactment of the
+Australian Capital Territory within the meaning of the Australian
+Capital Territory (Self-Government) Act 1988, or an instrument
+made under such an enactment.
+authority means:
+(a)  in relation to the Commonwealth:
+(i)  a body (whether incorporated or unincorporated)
+established for a purpose of the Commonwealth by or
+under a Commonwealth enactment;
+(ii)  an incorporated company over which the
+Commonwealth is in a position to exercise control;
+(iii)  a person holding or performing the duties of an office or
+appointment established or made under a
+Commonwealth enactment or by the Governor-General
+or a Minister of the Commonwealth (not being an office
+or appointment referred to in subparagraph (c)(iii));
+(iv)  a body, or a person holding or performing the duties of
+an office or appointment, that is declared by the
+regulations to be an authority of the Commonwealth for
+the purposes of this Act;
+(b)  in relation to a State:
+(i)  a body (whether incorporated or unincorporated)
+established for a purpose of the State by or under a law
+of the State;
+(ii)  an incorporated company over which the State is in a
+position to exercise control;
+2            Australian Human Rights Commission Act 1986
 
 ComLaw Authoritative Act C2013C00274
 
@@ -210,9 +403,9 @@ member means a member of the Commission, and includes the President.
 
 Minister means:
 
-(a)  in relation to a State-a Minister of the Crown of that State; and
+(a)  in relation to a State—a Minister of the Crown of that State; and
 
-(b)  in relation to the Australian Capital Territory or the Northern Territory-a Minister of that Territory.
+(b)  in relation to the Australian Capital Territory or the Northern Territory—a Minister of that Territory.
 
 National Children's Commissioner means the National Children's Commissioner referred to in section 46MA.
 
@@ -220,7 +413,7 @@ Northern Territory enactment means an enactment of the Northern Territory within
 
 practice means a practice engaged in:
 
-(a)  by or behalf of the Commonwealth or an authority of the Commonwealth;
+(a)  by or on behalf of the Commonwealth or an authority of the Commonwealth;
 
 (b)  under an enactment;
 
@@ -258,9 +451,42 @@ Part I Preliminary
 
 Section 3
 
-Territory enactment means a Territory Act, an Ordinance of a Territory or an instrument made under such an Act or Ordinance, and includes any other legislation applied as a law of the Commonwealth, to the extent that it operates as such a law. Torres Strait Islander means a descendant of an indigenous inhabitant of the Torres Strait Islands. trade union means: (a)  an association of employees that is registered as an organisation, or recognised, under the Fair Work (Registered Organisations) Act 2009 ; or (b)  a trade union within the meaning of any State Act or law of a Territory; or (c)  any other similar body. unlawful discrimination means any acts, omissions or practices that are unlawful under: (aa)  Part 4 of the Age Discrimination Act 2004 ; or (a)  Part 2 of the Disability Discrimination Act 1992 ; or (b)  Part II or IIA of the Racial Discrimination Act 1975 ; or (c)  Part II of the Sex Discrimination Act 1984 ; and includes any conduct that is an offence under: (ca)  Division 2 of Part 5 of the Age Discrimination Act 2004 (other than section 52); or (d)  Division 4 of Part 2 of the Disability Discrimination Act 1992 ; or (e)  subsection 27(2) of the Racial Discrimination Act 1975 ; or (f)  section 94 of the Sex Discrimination Act 1984 . (2)  In this Act, a reference to the Governor of a State shall, in relation to the Northern Territory, be construed as a reference to the Administrator of the Northern Territory. (3)  In this Act: (a)  a reference to, or to the doing of, an act includes a reference to a refusal or failure to do an act; and (b)  a reference, in relation to the doing of an act or the engaging in of a practice, to the person who did the act or engaged in the practice shall, in the case of an act done or practice engaged in by an unincorporated body of persons, be read as a reference to that body. (4)  In the definition of human rights in subsection (1): (a)  the reference to the rights and freedoms recognised in the Covenant shall be read as a reference to the rights and freedoms recognised in the Covenant as it applies to Australia; and (b)  the reference to the rights and freedoms recognised or declared by any relevant international instrument shall: (i)  in the case of an instrument (not being a declaration referred to in subparagraph (ii)) that applies to Australia-be read as a reference to the rights and freedoms recognised or declared by the instrument as it applies to Australia; or (ii)  in the case of an instrument being a declaration made by an international organisation that was adopted by Australia-be read as a reference to the rights and freedoms recognised or declared by the declaration as it was adopted by Australia. (5)  A reference in this Act to the making of a declaration by an international organisation shall be read as a reference to the making or adopting of a declaration, proclamation or other statement by such an organisation in any way, whether by the passing of a resolution, the issuing of an instrument or otherwise. (6)  A reference in this Act to the adoption by Australia of an international instrument being a declaration made by an international organisation shall be read as a reference to the casting by Australia of a vote in favour of the making of the declaration by the organisation at the meeting of the organisation at which the declaration was made or to the giving of some other public notification by Australia expressing its support for the declaration. (7)  A reference in this Act to a person acting on behalf of the Commission is a reference to: (a)  a person, or each of a body of persons, acting pursuant to a delegation under section 19; or (b)  an instrumentality of a State performing a function of the Commission pursuant to an arrangement in force under section 16.
-
-> 8            Australian Human Rights Commission Act 1986
+Territory enactment means a Territory Act, an Ordinance of a
+Territory or an instrument made under such an Act or Ordinance,
+and includes any other legislation applied as a law of the
+Commonwealth, to the extent that it operates as such a law.
+Torres Strait Islander means a descendant of an indigenous
+inhabitant of the Torres Strait Islands.
+trade union means:
+(a)  an association of employees that is registered as an
+organisation, or recognised, under the Fair Work (Registered
+Organisations) Act 2009; or
+(b)  a trade union within the meaning of any State Act or law of a
+Territory; or
+(c)  any other similar body.
+unlawful discrimination means any acts, omissions or practices
+that are unlawful under:
+(aa)  Part 4 of the Age Discrimination Act 2004; or
+(a)  Part 2 of the Disability Discrimination Act 1992; or
+(b)  Part II or IIA of the Racial Discrimination Act 1975; or
+(c)  Part II of the Sex Discrimination Act 1984;
+and includes any conduct that is an offence under:
+(ca)  Division 2 of Part 5 of the Age Discrimination Act 2004
+(other than section 52); or
+(d)  Division 4 of Part 2 of the Disability Discrimination Act
+1992; or
+(e)  subsection 27(2) of the Racial Discrimination Act 1975; or
+(f)  section 94 of the Sex Discrimination Act 1984.
+(2)  In this Act, a reference to the Governor of a State shall, in relation
+to the Northern Territory, be construed as a reference to the
+Administrator of the Northern Territory.
+(3)  In this Act:
+(a)  a reference to, or to the doing of, an act includes a reference
+to a refusal or failure to do an act; and
+(b)  a reference, in relation to the doing of an act or the engaging
+in of a practice, to the person who did the act or engaged in
+the practice shall, in the case of an act done or practice
+8            Australian Human Rights Commission Act 1986
 
 ComLaw Authoritative Act C2013C00274
 
@@ -272,6 +498,44 @@ Preliminary Part I
 
 Section 3
 
+engaged in by an unincorporated body of persons, be read as
+a reference to that body.
+(4)  In the definition of human rights in subsection (1):
+(a)  the reference to the rights and freedoms recognised in the
+Covenant shall be read as a reference to the rights and
+freedoms recognised in the Covenant as it applies to
+Australia; and
+(b)  the reference to the rights and freedoms recognised or
+declared by any relevant international instrument shall:
+(i)  in the case of an instrument (not being a declaration
+referred to in subparagraph (ii)) that applies to
+Australia—be read as a reference to the rights and
+freedoms recognised or declared by the instrument as it
+applies to Australia; or
+(ii)  in the case of an instrument being a declaration made by
+an international organisation that was adopted by
+Australia—be read as a reference to the rights and
+freedoms recognised or declared by the declaration as it
+was adopted by Australia.
+(5)  A reference in this Act to the making of a declaration by an
+international organisation shall be read as a reference to the making
+or adopting of a declaration, proclamation or other statement by
+such an organisation in any way, whether by the passing of a
+resolution, the issuing of an instrument or otherwise.
+(6)  A reference in this Act to the adoption by Australia of an
+international instrument being a declaration made by an
+international organisation shall be read as a reference to the casting
+by Australia of a vote in favour of the making of the declaration by
+the organisation at the meeting of the organisation at which the
+declaration was made or to the giving of some other public
+notification by Australia expressing its support for the declaration.
+(7)  A reference in this Act to a person acting on behalf of the
+Commission is a reference to:
+(a)  a person, or each of a body of persons, acting pursuant to a
+delegation under section 19; or
+(b)  an instrumentality of a State performing a function of the
+Commission pursuant to an arrangement in force under
+section 16.
 Australian Human Rights Commission Act 1986                    9
 
 ComLaw Authoritative Act C2013C00274
@@ -334,9 +598,9 @@ Division 1 Establishment and Constitution of Commission
 
 Section 7
 
-## Part II-Australian Human Rights Commission
+## Part II—Australian Human Rights Commission
 
-### Division 1-Establishment and Constitution of Commission
+### Division 1—Establishment and Constitution of Commission
 
 #### 7  Australian Human Rights Commission
 
@@ -408,7 +672,7 @@ Duties, functions and powers of Commission Division 2
 
 Section 10A
 
-### Division 2-Duties, functions and powers of Commission
+### Division 2—Duties, functions and powers of Commission
 
 #### 10A  Duties of Commission
 
@@ -416,7 +680,26 @@ Section 10A
 
 #### 11  Functions of Commission
 
-(1)  The functions of the Commission are: (a)  such functions as are conferred on the Commission by the Age Discrimination Act 2004 , the Disability Discrimination Act 1992 , the Racial Discrimination Act 1975 , the Sex Discrimination Act 1984 or any other enactment; and (aa)  to inquire into, and attempt to conciliate, complaints of unlawful discrimination; and (ab)  to deal with complaints lodged under Part IIC; and (b)  such functions as are to be performed by the Commission pursuant to an arrangement in force under section 16; and (c)  such functions as are expressed to be conferred on the Commission by any State enactment, being functions in relation to which the Minister has made a declaration under section 18; and (d)  the functions conferred on the Commission by section 31; and (e)  to examine enactments, and (when requested to do so by the Minister) proposed enactments, for the purpose of ascertaining whether the enactments or proposed enactments, as the case may be, are, or would be, inconsistent with or contrary to any human right, and to report to the Minister the results of any such examination; and (f)  to inquire into any act or practice that may be inconsistent with or contrary to any human right, and: (i)  where the Commission considers it appropriate to do so-to endeavour, by conciliation, to effect a settlement of the matters that gave rise to the inquiry; and (ii)  where the Commission is of the opinion that the act or practice is inconsistent with or contrary to any human right, and the Commission has not considered it appropriate to endeavour to effect a settlement of the matters that gave rise to the inquiry or has endeavoured without success to effect such a settlement-to report to the Minister in relation to the inquiry; and (g)  to promote an understanding and acceptance, and the public discussion, of human rights in Australia; and (h)  to undertake research and educational programs and other programs, on behalf of the Commonwealth, for the purpose of promoting human rights, and to co-ordinate any such programs undertaken by any other persons or authorities on behalf of the Commonwealth; and (j)  on its own initiative or when requested by the Minister, to report to the Minister as to the laws that should be made by the Parliament, or action that should be taken by the Commonwealth, on matters relating to human rights; and (k)  on its own initiative or when requested by the Minister, to report to the Minister as to the action (if any) that, in the opinion of the Commission, needs to be taken by Australia in order to comply with the provisions of the Covenant, of the Declarations or of any relevant international instrument; and (m)  on its own initiative or when requested by the Minister, to examine any relevant international instrument for the purpose of ascertaining whether there are any inconsistencies between that instrument and the Covenant, the Declarations or any other relevant international instrument, and to report to the Minister the results of any such examination; and (n)  to prepare, and to publish in such manner as the Commission considers appropriate, guidelines for the avoidance of acts or practices of a kind in respect of which the Commission has a function under paragraph (f); and
+(1)  The functions of the Commission are:
+(a)  such functions as are conferred on the Commission by the
+Age Discrimination Act 2004, the Disability Discrimination
+Act 1992, the Racial Discrimination Act 1975, the Sex
+Discrimination Act 1984 or any other enactment; and
+(aa)  to inquire into, and attempt to conciliate, complaints of
+unlawful discrimination; and
+(ab)  to deal with complaints lodged under Part IIC; and
+(b)  such functions as are to be performed by the Commission
+pursuant to an arrangement in force under section 16; and
+(c)  such functions as are expressed to be conferred on the
+Commission by any State enactment, being functions in
+relation to which the Minister has made a declaration under
+section 18; and
+(d)  the functions conferred on the Commission by section 31;
+and
+(e)  to examine enactments, and (when requested to do so by the
+Minister) proposed enactments, for the purpose of
+ascertaining whether the enactments or proposed enactments,
+as the case may be, are, or would be, inconsistent with or
 
 Australian Human Rights Commission Act 1986                    15
 
@@ -432,6 +715,46 @@ Division 2 Duties, functions and powers of Commission
 
 Section 11
 
+contrary to any human right, and to report to the Minister the
+results of any such examination; and
+(f)  to inquire into any act or practice that may be inconsistent
+with or contrary to any human right, and:
+(i)  where the Commission considers it appropriate to do
+so—to endeavour, by conciliation, to effect a settlement
+of the matters that gave rise to the inquiry; and
+(ii)  where the Commission is of the opinion that the act or
+practice is inconsistent with or contrary to any human
+right, and the Commission has not considered it
+appropriate to endeavour to effect a settlement of the
+matters that gave rise to the inquiry or has endeavoured
+without success to effect such a settlement—to report to
+the Minister in relation to the inquiry; and
+(g)  to promote an understanding and acceptance, and the public
+discussion, of human rights in Australia; and
+(h)  to undertake research and educational programs and other
+programs, on behalf of the Commonwealth, for the purpose
+of promoting human rights, and to co-ordinate any such
+programs undertaken by any other persons or authorities on
+behalf of the Commonwealth; and
+(j)  on its own initiative or when requested by the Minister, to
+report to the Minister as to the laws that should be made by
+the Parliament, or action that should be taken by the
+Commonwealth, on matters relating to human rights; and
+(k)  on its own initiative or when requested by the Minister, to
+report to the Minister as to the action (if any) that, in the
+opinion of the Commission, needs to be taken by Australia in
+order to comply with the provisions of the Covenant, of the
+Declarations or of any relevant international instrument; and
+(m)  on its own initiative or when requested by the Minister, to
+examine any relevant international instrument for the purpose
+of ascertaining whether there are any inconsistencies between
+that instrument and the Covenant, the Declarations or any
+other relevant international instrument, and to report to the
+Minister the results of any such examination; and
+(n)  to prepare, and to publish in such manner as the Commission
+considers appropriate, guidelines for the avoidance of acts or
+practices of a kind in respect of which the Commission has a
+function under paragraph (f); and
 16            Australian Human Rights Commission Act 1986
 
 ComLaw Authoritative Act C2013C00274
@@ -446,7 +769,44 @@ Duties, functions and powers of Commission Division 2
 
 Section 11
 
-(o)  where the Commission considers it appropriate to do so, with the leave of the court hearing the proceedings and subject to any conditions imposed by the court, to intervene in proceedings that involve human rights issues; and (p)  to do anything incidental or conducive to the performance of any of the preceding functions. (2)  The Commission shall not: (a)  regard an enactment or proposed enactment as being inconsistent with or contrary to any human right for the purposes of paragraph (1)(e) by reason of a provision of the enactment or proposed enactment that is included solely for the purpose of securing adequate advancement of particular persons or groups of persons in order to enable them to enjoy or exercise human rights equally with other persons; or (b)  regard an act or practice as being inconsistent with or contrary to any human right for the purposes of paragraph (1)(f) where the act or practice is done or engaged in solely for the purpose referred to in paragraph (a) of this subsection. (3)  Notwithstanding paragraphs (1)(a), (d) and (f), the functions of the Commission do not include inquiring into an act or practice of an intelligence agency, and, where a complaint is made to the Commission alleging that an act or practice of such an agency is inconsistent with or contrary to any human right, constitutes discrimination, or is unlawful under the Racial Discrimination Act 1975 , the Sex Discrimination Act 1984 , the Disability Discrimination Act 1992 , or the Age Discrimination Act 2004 , the Commission shall refer the complaint to the Inspector-General of Intelligence and Security. (4)  A reference in subsection (3) to an intelligence agency is a reference to the Australian Secret Intelligence Service, the Australian Security Intelligence Organisation, the Office of National Assessments, that part of the Defence Department known as the Defence Signals Directorate (including any part of the Defence Force that performs functions on behalf of that part of the Department), that part of the Defence Department known as the Defence Imagery and Geospatial Organisation (including any part of the Defence Force that performs functions on behalf of that part Section 13
+(o)  where the Commission considers it appropriate to do so, with
+the leave of the court hearing the proceedings and subject to
+any conditions imposed by the court, to intervene in
+proceedings that involve human rights issues; and
+(p)  to do anything incidental or conducive to the performance of
+any of the preceding functions.
+(2)  The Commission shall not:
+(a)  regard an enactment or proposed enactment as being
+inconsistent with or contrary to any human right for the
+purposes of paragraph (1)(e) by reason of a provision of the
+enactment or proposed enactment that is included solely for
+the purpose of securing adequate advancement of particular
+persons or groups of persons in order to enable them to enjoy
+or exercise human rights equally with other persons; or
+(b)  regard an act or practice as being inconsistent with or
+contrary to any human right for the purposes of
+paragraph (1)(f) where the act or practice is done or engaged
+in solely for the purpose referred to in paragraph (a) of this
+subsection.
+(3)  Notwithstanding paragraphs (1)(a), (d) and (f), the functions of the
+Commission do not include inquiring into an act or practice of an
+intelligence agency, and, where a complaint is made to the
+Commission alleging that an act or practice of such an agency is
+inconsistent with or contrary to any human right, constitutes
+discrimination, or is unlawful under the Racial Discrimination Act
+1975, the Sex Discrimination Act 1984, the Disability
+Discrimination Act 1992, or the Age Discrimination Act 2004, the
+Commission shall refer the complaint to the Inspector-General of
+Intelligence and Security.
+(4)  A reference in subsection (3) to an intelligence agency is a
+reference to the Australian Secret Intelligence Service, the
+Australian Security Intelligence Organisation, the Office of
+National Assessments, that part of the Defence Department known
+as the Defence Signals Directorate (including any part of the
+Defence Force that performs functions on behalf of that part of the
+Department), that part of the Defence Department known as the
+Defence Imagery and Geospatial Organisation (including any part
+of the Defence Force that performs functions on behalf of that part
 
 Australian Human Rights Commission Act 1986                    17
 
@@ -459,6 +819,8 @@ ComLaw Authoritative Act C2013C00274
 Part II Australian Human Rights Commission
 
 Division 2 Duties, functions and powers of Commission
+
+Section 13
 
 of the Department) or that part of the Defence Department known as the Defence Intelligence Organisation.
 
@@ -510,7 +872,7 @@ For the purposes of the performance of its functions, the Commission may work wi
 
 (1)  The Minister may make an arrangement with a Minister of a State for or in relation to: (a)  the performance on a joint basis of any functions of the Commission; (b)  the performance by that State or by an instrumentality of that State on behalf of the Commonwealth of any functions of the Commission; or (c)  the performance by the Commission of functions on behalf of that State relating to human rights or to discrimination in employment or occupation. (2)  An arrangement under this section may contain such incidental or supplementary provisions as the Minister and the Minister of the State with whom the arrangement is made think necessary.
 
-> 20            Australian Human Rights Commission Act 1986
+20            Australian Human Rights Commission Act 1986
 
 ComLaw Authoritative Act C2013C00274
 
@@ -566,7 +928,7 @@ Functions relating to human rights Division 3
 
 Section 19A
 
-### Division 3-Functions relating to human rights
+### Division 3—Functions relating to human rights
 
 #### 19A  Division applies to victimisation offences
 
@@ -590,7 +952,7 @@ Division 3 Functions relating to human rights
 
 Section 20
 
-(iii)  where some other remedy has been sought in relation to the subject matter of the complaint-the Commission is of the opinion that the subject matter of the complaint has been adequately dealt with; or (iv)  the Commission is of the opinion that some other more appropriate remedy in relation to the subject matter of the complaint is reasonably available to the person aggrieved by the act or practice; or (v)  where the subject matter of the complaint has already been dealt with by the Commission or by another statutory authority-the Commission is of the opinion that the subject matter of the complaint has been adequately dealt with; or (vi)  the Commission is of the opinion that the subject matter of the complaint could be more effectively or conveniently dealt with by another statutory authority; or (vii)  the Commission is satisfied that the complaint has been settled or resolved. (3)  The Commission shall, before the expiration of the period of 2 months commencing when a complaint is made to the Commission in respect of an act or practice, decide whether or not to inquire into the act or practice. (4)  Where the Commission decides not to inquire into, or not to continue to inquire into, an act or practice in respect of which a complaint was made to the Commission, the Commission shall, unless the complaint has been transferred under subsection (4A), forthwith give notice in writing to the complainant of that decision and of the reasons for that decision. (4A)  Where: (a)  a complaint has been made to the Commission in relation to an act or practice; and (b)  because the Commission is of the opinion that the subject-matter of the complaint could be more effectively or conveniently dealt with by the Information Commissioner in the performance of the functions referred to in paragraph 27(1)(a) or 28(1)(b) or (c) of the Privacy Act 1988 , the Commission decides not to inquire, or not to continue to inquire, into that act or practice;
+(iii)  where some other remedy has been sought in relation to the subject matter of the complaint—the Commission is of the opinion that the subject matter of the complaint has been adequately dealt with; or (iv)  the Commission is of the opinion that some other more appropriate remedy in relation to the subject matter of the complaint is reasonably available to the person aggrieved by the act or practice; or (v)  where the subject matter of the complaint has already been dealt with by the Commission or by another statutory authority—the Commission is of the opinion that the subject matter of the complaint has been adequately dealt with; or (vi)  the Commission is of the opinion that the subject matter of the complaint could be more effectively or conveniently dealt with by another statutory authority; or (vii)  the Commission is satisfied that the complaint has been settled or resolved. (3)  The Commission shall, before the expiration of the period of 2 months commencing when a complaint is made to the Commission in respect of an act or practice, decide whether or not to inquire into the act or practice. (4)  Where the Commission decides not to inquire into, or not to continue to inquire into, an act or practice in respect of which a complaint was made to the Commission, the Commission shall, unless the complaint has been transferred under subsection (4A), forthwith give notice in writing to the complainant of that decision and of the reasons for that decision. (4A)  Where: (a)  a complaint has been made to the Commission in relation to an act or practice; and (b)  because the Commission is of the opinion that the subject-matter of the complaint could be more effectively or conveniently dealt with by the Information Commissioner in the performance of the functions referred to in paragraph 27(1)(a) or 28(1)(b) or (c) of the Privacy Act 1988, the Commission decides not to inquire, or not to continue to inquire, into that act or practice;
 
 24            Australian Human Rights Commission Act 1986
 
@@ -606,7 +968,7 @@ Functions relating to human rights Division 3
 
 Section 20
 
-the Commission shall: (c)  transfer the complaint to the Information Commissioner; (d)  forthwith give notice in writing to the complainant stating that the complaint has been so transferred; and (e)  give to the Information Commissioner any information or documents that relate to the complaint and are in the possession, or under the control, of the Commission. (4B)  A complaint transferred under subsection (4A) shall be taken to be a complaint made to the Information Commissioner under Part V of the Privacy Act 1988 . (5)  Where it appears to the Commission that: (a)  a person wishes to make a complaint to the effect that another person has done an act, or engaged in a practice, that is inconsistent with or contrary to any human right; and (b)  that person requires assistance to formulate the complaint or to reduce it to writing; it is the duty of the Commission to take reasonable steps to provide appropriate assistance to that person. (6)  A person who is detained in custody (in this subsection and subsection (7) referred to as the detainee ) is entitled: (a)  upon making a request to the person (in this subsection and subsection (7) referred to as the custodian ) in whose custody the detainee is detained, or to any other person (in this subsection and subsection (7) referred to as a custodial officer ) performing duties in connection with the detention: (i)  to be provided with facilities for preparing a complaint in writing under this Division, for giving in writing to the Commission, after the complaint has been made, any other relevant information and for enclosing the complaint or the other information (if any) in a sealed envelope; and (ii)  to have sent to the Commission, without undue delay, a sealed envelope delivered by the detainee to the custodian or to a custodial officer and addressed to the Commission; and (b)  to have delivered to the detainee, without undue delay, any sealed envelope, addressed to the detainee and sent by the Commission, that comes into the possession or under the control of the custodian or of a custodial officer. (7)  Where a sealed envelope addressed to the Commission is delivered by the detainee to the custodian or to a custodial officer for sending to the Commission, or a sealed envelope addressed to the detainee and sent by the Commission comes into the possession or under the control of the custodian or of a custodial officer, neither the custodian nor any custodial officer is entitled to open the envelope or to inspect any document enclosed in the envelope. (8)  For the purposes of subsections (6) and (7), the Commission may make arrangements with the appropriate authority of a State or Territory for the identification and delivery of sealed envelopes sent by the Commission to persons detained in custody in that State or Territory.
+the Commission shall: (c)  transfer the complaint to the Information Commissioner; (d)  forthwith give notice in writing to the complainant stating that the complaint has been so transferred; and (e)  give to the Information Commissioner any information or documents that relate to the complaint and are in the possession, or under the control, of the Commission. (4B)  A complaint transferred under subsection (4A) shall be taken to be a complaint made to the Information Commissioner under Part V of the Privacy Act 1988. (5)  Where it appears to the Commission that: (a)  a person wishes to make a complaint to the effect that another person has done an act, or engaged in a practice, that is inconsistent with or contrary to any human right; and (b)  that person requires assistance to formulate the complaint or to reduce it to writing; it is the duty of the Commission to take reasonable steps to provide appropriate assistance to that person. (6)  A person who is detained in custody (in this subsection and subsection (7) referred to as the detainee) is entitled: (a)  upon making a request to the person (in this subsection and subsection (7) referred to as the custodian) in whose custody the detainee is detained, or to any other person (in this subsection and subsection (7) referred to as a custodial officer) performing duties in connection with the detention: (i)  to be provided with facilities for preparing a complaint in writing under this Division, for giving in writing to the Commission, after the complaint has been made, any other relevant information and for enclosing the complaint or the other information (if any) in a sealed envelope; and (ii)  to have sent to the Commission, without undue delay, a sealed envelope delivered by the detainee to the custodian or to a custodial officer and addressed to the Commission; and (b)  to have delivered to the detainee, without undue delay, any sealed envelope, addressed to the detainee and sent by the
 
 Australian Human Rights Commission Act 1986                    25
 
@@ -621,6 +983,8 @@ Part II Australian Human Rights Commission
 Division 3 Functions relating to human rights
 
 Section 21
+
+Commission, that comes into the possession or under the control of the custodian or of a custodial officer. (7)  Where a sealed envelope addressed to the Commission is delivered by the detainee to the custodian or to a custodial officer for sending to the Commission, or a sealed envelope addressed to the detainee and sent by the Commission comes into the possession or under the control of the custodian or of a custodial officer, neither the custodian nor any custodial officer is entitled to open the envelope or to inspect any document enclosed in the envelope. (8)  For the purposes of subsections (6) and (7), the Commission may make arrangements with the appropriate authority of a State or Territory for the identification and delivery of sealed envelopes sent by the Commission to persons detained in custody in that State or Territory.
 
 #### 21  Power to obtain information and documents
 
@@ -686,7 +1050,7 @@ Division 3
 
 Section 24
 
-and a Minister of a State, being a disclosure that would prejudice relations between the Commonwealth Government and the Government of a State; or (c)  by reason that it would involve the disclosure of deliberations or decisions of the Cabinet or of a Committee of the Cabinet; or (d)  by reason that it would involve the disclosure of deliberations or advice of the Executive Council; or (e)  by reason that it would prejudice the conduct of an investigation or inquiry into crime or criminal activity that is currently being pursued or would prejudice the fair trial of any person; or (f)  by reason that it would disclose, or enable a person to ascertain, the existence or identity of a confidential source of information in relation to the enforcement of the criminal law; or (g)  by reason that it would prejudice the effectiveness of the operational methods or investigative practices or techniques of agencies responsible for the enforcement of the criminal law; or (h)  by reason that it would endanger the life or physical safety of any person; neither the Commission nor any other person is entitled to require a person to give any information concerning the matter or to produce the document. (1A)  In relation to the performance of functions by the Aboriginal and Torres Strait Islander Social Justice Commissioner under Part IIA, subsection (1) (other than paragraphs (1)(a) and (b)) has effect in relation to a certificate given by the Attorney-General of a State or Territory in the same way as it has effect in relation to a certificate given by the Attorney-General of the Commonwealth. For the purposes of this additional effect, references to the Cabinet, a Committee of the Cabinet or the Executive Council are to be treated as references to the corresponding body or committee of the State or Territory concerned. (2)  Without limiting the operation of subsection (1), where the Attorney-General furnishes to the Commission a certificate certifying that the giving to the Commission, or to a person acting for or on behalf of the Commission, of information as to the Part II
+and a Minister of a State, being a disclosure that would prejudice relations between the Commonwealth Government and the Government of a State; or (c)  by reason that it would involve the disclosure of deliberations or decisions of the Cabinet or of a Committee of the Cabinet; or (d)  by reason that it would involve the disclosure of deliberations or advice of the Executive Council; or (e)  by reason that it would prejudice the conduct of an investigation or inquiry into crime or criminal activity that is currently being pursued or would prejudice the fair trial of any person; or (f)  by reason that it would disclose, or enable a person to ascertain, the existence or identity of a confidential source of information in relation to the enforcement of the criminal law; or (g)  by reason that it would prejudice the effectiveness of the operational methods or investigative practices or techniques of agencies responsible for the enforcement of the criminal law; or (h)  by reason that it would endanger the life or physical safety of any person; neither the Commission nor any other person is entitled to require a person to give any information concerning the matter or to produce the document. (1A)  In relation to the performance of functions by the Aboriginal and Torres Strait Islander Social Justice Commissioner under Part IIA, subsection (1) (other than paragraphs (1)(a) and (b)) has effect in relation to a certificate given by the Attorney-General of a State or Territory in the same way as it has effect in relation to a certificate given by the Attorney-General of the Commonwealth. For the purposes of this additional effect, references to the Cabinet, a Committee of the Cabinet or the Executive Council are to be treated as references to the corresponding body or committee of the State or Territory concerned. (2)  Without limiting the operation of subsection (1), where the Attorney-General furnishes to the Commission a certificate certifying that the giving to the Commission, or to a person acting for or on behalf of the Commission, of information as to the
 
 Australian Human Rights Commission Act 1986                    29
 
@@ -696,9 +1060,9 @@ ComLaw Authoritative Act C2013C00274
 
 [[START OF PAGE 38]]
 
-Division 3 Functions relating to human rights
+Part II Australian Human Rights Commission
 
-Australian Human Rights Commission
+Division 3 Functions relating to human rights
 
 Section 24
 
@@ -720,7 +1084,7 @@ Section 26
 
 #### 26  Offences relating to administration of Act
 
-(1)  A person shall not hinder, obstruct, molest or interfere with: (a)  a member participating in an inquiry or examination under this Act; or (b)  a person acting for or on behalf of the Commission, while that person is holding an inquiry or carrying out an investigation under this Act. Penalty:  10 penalty units. (2)  A person who: (a)  refuses to employ another person; or (b)  dismisses, or threatens to dismiss, another person from the other person's employment; or (c)  prejudices, or threatens to prejudice, another person in the other person's employment; or (d)  intimidates or coerces, imposes any pecuniary or other penalty upon, or takes any other disciplinary action in relation to, another person; by reason that the other person: (e)  has made, or proposes to make, a complaint to the Commission; or (f)  has alleged, or proposes to allege, that a person has done an act or engaged in a practice that is inconsistent with or contrary to any human right; or (g)  has furnished, or proposes to furnish, any information or documents to the Commission or to a person acting for or on behalf of the Commission; or (h)  has given or proposes to give evidence before the Commission or to a person acting on behalf of the Commission; is guilty of an offence punishable upon conviction: (j)  in the case of a natural person-by a fine not exceeding 25 penalty units or imprisonment for a period not exceeding 3 months, or both; or (k)  in the case of a body corporate-by a fine not exceeding 100 penalty units. (3)  It is a defence to a prosecution for an offence under subsection (2) constituted by subjecting, or threatening to subject, a person to a detriment specified in paragraph (2)(a), (b), (c) or (d) on the ground that the person has alleged that another person has done an act or engaged in a practice that is inconsistent with or contrary to any human right if it is proved that the allegation was false and was not made in good faith. Note: Sections 136.1, 137.1 and 137.2 of the Criminal Code deal with making false or misleading statements, giving false or misleading information and producing false or misleading documents.
+(1)  A person shall not hinder, obstruct, molest or interfere with: (a)  a member participating in an inquiry or examination under this Act; or (b)  a person acting for or on behalf of the Commission, while that person is holding an inquiry or carrying out an investigation under this Act. Penalty:  10 penalty units. (2)  A person who: (a)  refuses to employ another person; or (b)  dismisses, or threatens to dismiss, another person from the other person's employment; or (c)  prejudices, or threatens to prejudice, another person in the other person's employment; or (d)  intimidates or coerces, imposes any pecuniary or other penalty upon, or takes any other disciplinary action in relation to, another person; by reason that the other person: (e)  has made, or proposes to make, a complaint to the Commission; or (f)  has alleged, or proposes to allege, that a person has done an act or engaged in a practice that is inconsistent with or contrary to any human right; or (g)  has furnished, or proposes to furnish, any information or documents to the Commission or to a person acting for or on behalf of the Commission; or (h)  has given or proposes to give evidence before the Commission or to a person acting on behalf of the Commission; is guilty of an offence punishable upon conviction: (j)  in the case of a natural person—by a fine not exceeding 25 penalty units or imprisonment for a period not exceeding 3 months, or both; or (k)  in the case of a body corporate—by a fine not exceeding 100 penalty units. (3)  It is a defence to a prosecution for an offence under subsection (2) constituted by subjecting, or threatening to subject, a person to a
 
 Australian Human Rights Commission Act 1986                    31
 
@@ -736,6 +1100,8 @@ Division 3 Functions relating to human rights
 
 Section 27
 
+detriment specified in paragraph (2)(a), (b), (c) or (d) on the ground that the person has alleged that another person has done an act or engaged in a practice that is inconsistent with or contrary to any human right if it is proved that the allegation was false and was not made in good faith. Note: Sections 136.1, 137.1 and 137.2 of the Criminal Code deal with making false or misleading statements, giving false or misleading information and producing false or misleading documents.
+
 #### 27  Commission to give opportunity for making of submissions
 
 Where it appears to the Commission as a result of an inquiry into
@@ -750,7 +1116,7 @@ The Commission shall, in endeavouring to effect a settlement of a matter that ga
 
 (1)  Where, after an examination of an enactment or proposed enactment, the Commission finds that the enactment is, or the proposed enactment would be, inconsistent with or contrary to any human right, the Commission shall include in its report to the Minister relating to the results of the examination any recommendations by the Commission for amendment of the enactment or proposed enactment to ensure that the enactment is not, or the proposed enactment would not be, inconsistent with or contrary to any human right.
 
-> 32            Australian Human Rights Commission Act 1986
+32            Australian Human Rights Commission Act 1986
 
 ComLaw Authoritative Act C2013C00274
 
@@ -764,7 +1130,7 @@ Functions relating to human rights Division 3
 
 Section 29
 
-(2)  Where, after an inquiry into an act done or practice engaged in by a person, the Commission finds that the act or practice is inconsistent with or contrary to any human right, the Commission: (a)  shall serve notice in writing on the person setting out its findings and the reasons for those findings; (b)  may include in the notice any recommendations by the Commission for preventing a repetition of the act or a continuation of the practice; (c)  may include in the notice any recommendation by the Commission for either or both of the following: (i)  the payment of compensation to, or in respect of, a person who has suffered loss or damage as a result of the act or practice; (ii)  the taking of other action to remedy or reduce loss or damage suffered by a person as a result of the act or practice; (d)  shall include in any report to the Minister relating to the results of the inquiry particulars of any recommendations that it has made pursuant to paragraph (b) or (c); (e)  shall state in that report whether, to the knowledge of the Commission, the person has taken or is taking any action as a result of the findings, and recommendations (if any), of the Commission and, if the person has taken or is taking any such action, the nature of that action; and (f)  shall serve a copy of that report on the person and, if a complaint was made to the Commission in relation to the act or practice: (i)  where the complaint was made by a person affected by the act or practice-shall serve a copy of that report on the complainant; or (ii)  if the complaint was made by another person-may serve a copy of that report on the complainant. (3)  Where: (a)  a complaint is made to the Commission in relation to an act or practice; and (b)  after an inquiry into the act or practice, the Commission finds that: (i)  the existence of the act or practice has not been established; or
+(2)  Where, after an inquiry into an act done or practice engaged in by a person, the Commission finds that the act or practice is inconsistent with or contrary to any human right, the Commission: (a)  shall serve notice in writing on the person setting out its findings and the reasons for those findings; (b)  may include in the notice any recommendations by the Commission for preventing a repetition of the act or a continuation of the practice; (c)  may include in the notice any recommendation by the Commission for either or both of the following: (i)  the payment of compensation to, or in respect of, a person who has suffered loss or damage as a result of the act or practice; (ii)  the taking of other action to remedy or reduce loss or damage suffered by a person as a result of the act or practice; (d)  shall include in any report to the Minister relating to the results of the inquiry particulars of any recommendations that it has made pursuant to paragraph (b) or (c); (e)  shall state in that report whether, to the knowledge of the Commission, the person has taken or is taking any action as a result of the findings, and recommendations (if any), of the Commission and, if the person has taken or is taking any such action, the nature of that action; and (f)  shall serve a copy of that report on the person and, if a complaint was made to the Commission in relation to the act or practice: (i)  where the complaint was made by a person affected by the act or practice—shall serve a copy of that report on the complainant; or (ii)  if the complaint was made by another person—may serve a copy of that report on the complainant. (3)  Where: (a)  a complaint is made to the Commission in relation to an act or practice; and (b)  after an inquiry into the act or practice, the Commission finds that: (i)  the existence of the act or practice has not been established; or
 
 Australian Human Rights Commission Act 1986                    33
 
@@ -778,7 +1144,7 @@ Part II Australian Human Rights Commission Division 3 Functions relating to huma
 
 Section 29
 
-(ii)  the act or practice is not inconsistent with or contrary to any human right; the Commission shall give a copy of a report setting out its findings, and the reasons for those findings, to the complainant and: (c)  in a case to which subparagraph (b)(i) applies-to the person alleged to have done the act or engaged in the practice; or (d)  in a case to which subparagraph (b)(ii) applies-to the person who did the act or engaged in the practice. (4)  In setting out findings and reasons in a notice to be served or a report to be given under this section the Commission may exclude any matter if the Commission considers it desirable to do so having regard to any of the matters mentioned in subsection 14(5) and to the obligations of the Commission under subsection 14(6). (5)  Where, under subsection (4), the Commission excludes any matter from a report, the Commission shall prepare a report setting out the excluded matter and its reasons for excluding the matter and shall furnish the report to the Minister.
+(ii)  the act or practice is not inconsistent with or contrary to any human right; the Commission shall give a copy of a report setting out its findings, and the reasons for those findings, to the complainant and: (c)  in a case to which subparagraph (b)(i) applies—to the person alleged to have done the act or engaged in the practice; or (d)  in a case to which subparagraph (b)(ii) applies—to the person who did the act or engaged in the practice. (4)  In setting out findings and reasons in a notice to be served or a report to be given under this section the Commission may exclude any matter if the Commission considers it desirable to do so having regard to any of the matters mentioned in subsection 14(5) and to the obligations of the Commission under subsection 14(6). (5)  Where, under subsection (4), the Commission excludes any matter from a report, the Commission shall prepare a report setting out the excluded matter and its reasons for excluding the matter and shall furnish the report to the Minister.
 
 34            Australian Human Rights Commission Act 1986
 
@@ -794,7 +1160,7 @@ Functions relating to equal opportunity in employment Division 4
 
 Section 30
 
-### Division 4-Functions relating to equal opportunity in employment
+### Division 4—Functions relating to equal opportunity in employment
 
 #### 30  Interpretation etc.
 
@@ -818,7 +1184,7 @@ Division 4 Functions relating to equal opportunity in employment
 
 Section 31
 
-(b)  to inquire into any act or practice, including any systemic practice, that may constitute discrimination and: (i)  where the Commission considers it appropriate to do so-to endeavour, by conciliation, to effect a settlement of the matters that gave rise to the inquiry; and (ii)  where the Commission is of the opinion that the act or practice constitutes discrimination, and the Commission has not considered it appropriate to endeavour to effect a settlement of the matters that gave rise to the inquiry or has endeavoured without success to effect such a settlement-to report to the Minister in relation to the inquiry; (c)  to promote an understanding and acceptance, and the public discussion, of equality of opportunity and treatment in employment and occupation in Australia; (d)  to undertake research and educational programs and other programs, on behalf of the Commonwealth, for the purpose of promoting equality of opportunity and treatment in employment and occupation, and to co-ordinate any such programs undertaken by any other persons or authorities on behalf of the Commonwealth; (e)  on its own initiative or when requested by the Minister, to report to the Minister as to the laws that should be made by the Parliament, or action that should be taken by the Commonwealth, on matters relating to equality of opportunity and treatment in employment and occupation; (f)  when requested by the Minister, to report to the Minister as to the action (if any) that, in the opinion of the Commission, needs to be taken by Australia in order to comply with the provisions of the Convention; (g)  on its own initiative or when requested by the Minister, to examine any relevant international instrument for the purpose of ascertaining whether there are any inconsistencies between that instrument and the Convention, and to report to the Minister the results of any such examination; (h)  to prepare, and to publish in such manner as the Commission considers appropriate, guidelines for the avoidance of acts or practices of a kind in respect of which the Commission has a function under paragraph (b); (j)  where the Commission considers it appropriate to do so, with the leave of the court hearing the proceedings and subject to any conditions imposed by the court, to intervene in proceedings that involve discrimination issues; (k)  to do anything incidental or conducive to the performance of any of the preceding functions.
+(b)  to inquire into any act or practice, including any systemic practice, that may constitute discrimination and: (i)  where the Commission considers it appropriate to do so—to endeavour, by conciliation, to effect a settlement of the matters that gave rise to the inquiry; and (ii)  where the Commission is of the opinion that the act or practice constitutes discrimination, and the Commission has not considered it appropriate to endeavour to effect a settlement of the matters that gave rise to the inquiry or has endeavoured without success to effect such a settlement—to report to the Minister in relation to the inquiry; (c)  to promote an understanding and acceptance, and the public discussion, of equality of opportunity and treatment in employment and occupation in Australia; (d)  to undertake research and educational programs and other programs, on behalf of the Commonwealth, for the purpose of promoting equality of opportunity and treatment in employment and occupation, and to co-ordinate any such programs undertaken by any other persons or authorities on behalf of the Commonwealth; (e)  on its own initiative or when requested by the Minister, to report to the Minister as to the laws that should be made by the Parliament, or action that should be taken by the Commonwealth, on matters relating to equality of opportunity and treatment in employment and occupation; (f)  when requested by the Minister, to report to the Minister as to the action (if any) that, in the opinion of the Commission, needs to be taken by Australia in order to comply with the provisions of the Convention; (g)  on its own initiative or when requested by the Minister, to examine any relevant international instrument for the purpose of ascertaining whether there are any inconsistencies between that instrument and the Convention, and to report to the Minister the results of any such examination; (h)  to prepare, and to publish in such manner as the Commission considers appropriate, guidelines for the avoidance of acts or practices of a kind in respect of which the Commission has a function under paragraph (b); (j)  where the Commission considers it appropriate to do so, with the leave of the court hearing the proceedings and subject to
 
 36            Australian Human Rights Commission Act 1986
 
@@ -833,6 +1199,8 @@ Australian Human Rights Commission Part II
 Functions relating to equal opportunity in employment Division 4
 
 Section 32
+
+any conditions imposed by the court, to intervene in proceedings that involve discrimination issues; (k)  to do anything incidental or conducive to the performance of any of the preceding functions.
 
 #### 32  Performance of functions relating to equal opportunity
 
@@ -852,11 +1220,11 @@ Division 4 Functions relating to equal opportunity in employment
 
 Section 33
 
-(iii)  where some other remedy has been sought in relation to the subject matter of the complaint-the Commission is of the opinion that the subject matter of the complaint has been adequately dealt with; or (iv)  the Commission is of the opinion that some other more appropriate remedy in relation to the subject matter of the complaint is reasonably available to the complainant; or (v)  where the subject matter of the complaint has already been dealt with by the Commission or by another statutory authority-the Commission is of the opinion that the subject matter of the complaint has been adequately dealt with; or (vi)  the Commission is of the opinion that the subject matter of the complaint could be more effectively or conveniently dealt with by another statutory authority; or (vii)  the Commission is satisfied that the complaint has been settled or resolved.
+(iii)  where some other remedy has been sought in relation to the subject matter of the complaint—the Commission is of the opinion that the subject matter of the complaint has been adequately dealt with; or (iv)  the Commission is of the opinion that some other more appropriate remedy in relation to the subject matter of the complaint is reasonably available to the complainant; or (v)  where the subject matter of the complaint has already been dealt with by the Commission or by another statutory authority—the Commission is of the opinion that the subject matter of the complaint has been adequately dealt with; or (vi)  the Commission is of the opinion that the subject matter of the complaint could be more effectively or conveniently dealt with by another statutory authority; or (vii)  the Commission is satisfied that the complaint has been settled or resolved.
 
 #### 33  Application of certain provisions of Division 3
 
-Subsections 20(3), (4) and (5) and sections 21, 22, 23, 24, 26 and 27 apply in relation to the functions of the Commission set out in section 31, and in relation to the performance of those functions, as if: (a)  references in those provisions to acts or practices were references to acts or practices within the meaning of this Division; (b)  the words -is inconsistent with or contrary to any human right‖ were omitted from subsection 20(5) and the words -constitutes discrimination‖ were substituted; (c)  references in section 21 to a matter under examination or inquiry under Division 3 were references to a matter under examination or inquiry under this Division, not being an act mentioned in paragraph (a), (b), (c) or (d) of the definition of act in subsection 30(1) or a practice mentioned in paragraph (a), (b), (c) or (d) of the definition of practice in that subsection;
+Subsections 20(3), (4) and (5) and sections 21, 22, 23, 24, 26 and 27 apply in relation to the functions of the Commission set out in section 31, and in relation to the performance of those functions, as if: (a)  references in those provisions to acts or practices were references to acts or practices within the meaning of this Division; (b)  the words “is inconsistent with or contrary to any human right” were omitted from subsection 20(5) and the words “constitutes discrimination” were substituted; (c)  references in section 21 to a matter under examination or inquiry under Division 3 were references to a matter under examination or inquiry under this Division, not being an act mentioned in paragraph (a), (b), (c) or (d) of the definition of act in subsection 30(1) or a practice mentioned in paragraph (a), (b), (c) or (d) of the definition of practice in that subsection;
 
 38            Australian Human Rights Commission Act 1986
 
@@ -872,7 +1240,7 @@ Functions relating to equal opportunity in employment Division 4
 
 Section 34
 
-(d)  the words -is inconsistent with or contrary to any human right‖ were omitted from sections 26 and 27 and the words -constitutes discrimination‖ were substituted; and (e)  a reference in any of those provisions to another of those provisions were a reference to that other provision as applied by this section.
+(d)  the words “is inconsistent with or contrary to any human right” were omitted from sections 26 and 27 and the words “constitutes discrimination” were substituted; and (e)  a reference in any of those provisions to another of those provisions were a reference to that other provision as applied by this section.
 
 #### 34  Nature of settlements
 
@@ -890,15 +1258,13 @@ ComLaw Authoritative Act C2013C00274
 
 [[START OF PAGE 48]]
 
+Part II Australian Human Rights Commission
+
 Division 4 Functions relating to equal opportunity in employment
-
-Part II
-
-Australian Human Rights Commission
 
 Section 35
 
-(i)  the payment of compensation to, or in respect of, a person who has suffered loss or damage as a result of the act or practice; (ii)  the taking of other action to remedy or reduce loss or damage suffered by a person as a result of the act or practice; (d)  shall include in any report to the Minister relating to the results of the inquiry particulars of any recommendations that it has made pursuant to paragraph (b) or (c); (e)  shall state in that report whether, to the knowledge of the Commission, the person has taken or is taking any action as a result of the findings, and recommendations (if any), of the Commission and, if the person has taken or is taking any such action, the nature of that action; and (f)  shall serve a copy of that report on the person and, if a complaint was made to the Commission in relation to the act or practice: (i)  where the complaint was made by a person affected by the act or practice-shall serve a copy of that report on the complainant; or (ii)  if the complaint was made by another person-may serve a copy of that report on the complainant. (3)  Where: (a)  a complaint is made to the Commission in relation to an act or practice; and (b)  after an inquiry into the act or practice, the Commission finds that: (i)  the existence of the act or practice has not been established; or (ii)  the act or practice does not constitute discrimination; the Commission shall give a copy of a report setting out its findings, and the reasons for those findings, to the complainant and: (c)  in a case to which subparagraph (b)(i) applies-to the person alleged to have done the act or engaged in the practice; or (d)  in a case to which subparagraph (b)(ii) applies-to the person who did the act or engaged in the practice.
+(i)  the payment of compensation to, or in respect of, a person who has suffered loss or damage as a result of the act or practice; (ii)  the taking of other action to remedy or reduce loss or damage suffered by a person as a result of the act or practice; (d)  shall include in any report to the Minister relating to the results of the inquiry particulars of any recommendations that it has made pursuant to paragraph (b) or (c); (e)  shall state in that report whether, to the knowledge of the Commission, the person has taken or is taking any action as a result of the findings, and recommendations (if any), of the Commission and, if the person has taken or is taking any such action, the nature of that action; and (f)  shall serve a copy of that report on the person and, if a complaint was made to the Commission in relation to the act or practice: (i)  where the complaint was made by a person affected by the act or practice—shall serve a copy of that report on the complainant; or (ii)  if the complaint was made by another person—may serve a copy of that report on the complainant. (3)  Where: (a)  a complaint is made to the Commission in relation to an act or practice; and (b)  after an inquiry into the act or practice, the Commission finds that: (i)  the existence of the act or practice has not been established; or (ii)  the act or practice does not constitute discrimination; the Commission shall give a copy of a report setting out its findings, and the reasons for those findings, to the complainant and: (c)  in a case to which subparagraph (b)(i) applies—to the person alleged to have done the act or engaged in the practice; or (d)  in a case to which subparagraph (b)(ii) applies—to the person who did the act or engaged in the practice.
 
 40            Australian Human Rights Commission Act 1986
 
@@ -912,9 +1278,9 @@ Australian Human Rights Commission Part II Functions relating to equal opportuni
 
 Section 35
 
-- In setting out findings and reasons in a notice to be served or a report to be given under this section the Commission may exclude any matter if the Commission considers it desirable to do so having regard to any of the matters mentioned in subsection 14(5) and to the obligations of the Commission under subsection 14(6).
+(4)  In setting out findings and reasons in a notice to be served or a report to be given under this section the Commission may exclude any matter if the Commission considers it desirable to do so having regard to any of the matters mentioned in subsection 14(5) and to the obligations of the Commission under subsection 14(6).
 
-- Where, under subsection (4), the Commission excludes any matter from a report, the Commission shall prepare a report setting out the excluded matter and its reasons for excluding the matter and shall furnish the report to the Minister.
+(5)  Where, under subsection (4), the Commission excludes any matter from a report, the Commission shall prepare a report setting out the excluded matter and its reasons for excluding the matter and shall furnish the report to the Minister.
 
 Australian Human Rights Commission Act 1986                    41
 
@@ -930,7 +1296,7 @@ Division 5 Administrative provisions
 
 Section 36
 
-### Division 5-Administrative provisions
+### Division 5—Administrative provisions
 
 #### 36  Acting President and Human Rights Commissioner
 
@@ -1006,6 +1372,10 @@ Administrative provisions Division 5
 
 Section 43
 
+(a)  be present during any deliberation of the Commission with respect to that matter; or
+
+(b)  take part in any decision of the Commission with respect to that matter.
+
 #### 43  Staff
 
 (1)  The staff necessary to assist the Commission shall be persons engaged under the Public Service Act 1999 . (2)  For the purposes of the Public Service Act 1999 : (a)  the President and the APS employees assisting the President together constitute a Statutory Agency; and (b)  the President is the Head of that Statutory Agency.
@@ -1017,10 +1387,6 @@ The Commission may make administrative services available to the Information Com
 #### 44  Meetings of the Commission
 
 (1)  The Minister or the President may, at any time, convene a meeting of the Commission. (2)  The President shall convene such meetings of the Commission as, in the President's opinion, are necessary for the efficient performance of its functions. (3)  At a meeting of the Commission a quorum is constituted by a number of members that is not less than one-half of the number of members for the time being holding office under section 8. (4)  The President shall preside at all meetings of the Commission at which the President is present. (5)  If the President is not present at a meeting of the Commission, the members present are to elect one of their number to preside at the meeting.
-
-(a)  be present during any deliberation of the Commission with respect to that matter; or
-
-(b)  take part in any decision of the Commission with respect to that matter.
 
 Australian Human Rights Commission Act 1986                    45
 
@@ -1060,7 +1426,7 @@ Corporate plan Division 6
 
 Section 46AA
 
-### Division 6-Corporate plan
+### Division 6—Corporate plan
 
 #### 46AA  Corporate plan
 
@@ -1086,9 +1452,9 @@ Part IIA Aboriginal and Torres Strait Islander Social Justice Commissioner Divis
 
 Section 46A
 
-## Part IIA-Aboriginal and Torres Strait Islander Social Justice Commissioner
+## Part IIA—Aboriginal and Torres Strait Islander Social Justice Commissioner
 
-### Division 1-Establishment and functions
+### Division 1—Establishment and functions
 
 #### 46A  Interpretation
 
@@ -1102,7 +1468,7 @@ Commissioner means the Aboriginal and Torres Strait Islander Social Justice Comm
 
 #### 46C  Functions of the Commission that are to be performed by the Commissioner
 
-(1)  The following functions are conferred on the Commission: (a)  to submit a report to the Minister, as soon as practicable after 30 June in each year, regarding the enjoyment and exercise of human rights by Aboriginal persons and Torres Strait Islanders, and including recommendations as to the action that should be taken to ensure the enjoyment and exercise of human rights by those persons; (b)  to promote discussion and awareness of human rights in relation to Aboriginal persons and Torres Strait Islanders; (c)  to undertake research and educational programs, and other programs, for the purpose of promoting respect for the human rights of Aboriginal persons and Torres Strait Islanders and promoting the enjoyment and exercise of human rights by Aboriginal persons and Torres Strait Islanders; (d)  to examine enactments, and proposed enactments, for the purpose of ascertaining whether they recognise and protect the human rights of Aboriginal persons and Torres Strait Islanders, and to report to the Minister the results of any such examination. Note: Functions are also conferred on the Commission under section 209 of the Native Title Act 1993 . (2)  The functions of the Commission under subsection (1) are to be performed by the Commissioner on behalf of the Commission. (3)  In the performance of functions under this section, the Commissioner may consult any of the following: (a)  organisations established by Aboriginal or Torres Strait Islander communities; (b)  organisations of indigenous peoples in other countries; (c)  international organisations and agencies; (d)  such other organisations, agencies or persons as the Commissioner considers appropriate. (4)  In the performance of functions under this section, the Commissioner must, as appropriate, have regard to: (a)  the Universal Declaration of Human Rights, the International Covenant on Civil and Political Rights, the International Covenant on Economic, Social and Cultural Rights, the Convention on the Elimination of All Forms of Racial Discrimination and the Convention on the Rights of the Child; and (b)  such other instruments relating to human rights as the Commissioner considers relevant; and
+(1)  The following functions are conferred on the Commission: (a)  to submit a report to the Minister, as soon as practicable after 30 June in each year, regarding the enjoyment and exercise of human rights by Aboriginal persons and Torres Strait
 
 48            Australian Human Rights Commission Act 1986
 
@@ -1115,6 +1481,8 @@ ComLaw Authoritative Act C2013C00274
 Aboriginal and Torres Strait Islander Social Justice Commissioner Part IIA Establishment and functions Division 1
 
 Section 46C
+
+Islanders, and including recommendations as to the action that should be taken to ensure the enjoyment and exercise of human rights by those persons; (b)  to promote discussion and awareness of human rights in relation to Aboriginal persons and Torres Strait Islanders; (c)  to undertake research and educational programs, and other programs, for the purpose of promoting respect for the human rights of Aboriginal persons and Torres Strait Islanders and promoting the enjoyment and exercise of human rights by Aboriginal persons and Torres Strait Islanders; (d)  to examine enactments, and proposed enactments, for the purpose of ascertaining whether they recognise and protect the human rights of Aboriginal persons and Torres Strait Islanders, and to report to the Minister the results of any such examination. Note: Functions are also conferred on the Commission under section 209 of the Native Title Act 1993. (2)  The functions of the Commission under subsection (1) are to be performed by the Commissioner on behalf of the Commission. (3)  In the performance of functions under this section, the Commissioner may consult any of the following: (a)  organisations established by Aboriginal or Torres Strait Islander communities; (b)  organisations of indigenous peoples in other countries; (c)  international organisations and agencies; (d)  such other organisations, agencies or persons as the Commissioner considers appropriate. (4)  In the performance of functions under this section, the Commissioner must, as appropriate, have regard to: (a)  the Universal Declaration of Human Rights, the International Covenant on Civil and Political Rights, the International Covenant on Economic, Social and Cultural Rights, the Convention on the Elimination of All Forms of Racial Discrimination and the Convention on the Rights of the Child; and (b)  such other instruments relating to human rights as the Commissioner considers relevant; and
 
 Australian Human Rights Commission Act 1986                    49
 
@@ -1142,7 +1510,7 @@ Aboriginal and Torres Strait Islander Social Justice Commissioner Part IIA Admin
 
 Section 46D
 
-### Division 2-Administrative provisions
+### Division 2—Administrative provisions
 
 #### 46D  Terms and conditions of appointment
 
@@ -1196,7 +1564,7 @@ Aboriginal and Torres Strait Islander Social Justice Commissioner Part IIA Misce
 
 Section 46K
 
-### Division 3-Miscellaneous
+### Division 3—Miscellaneous
 
 #### 46K  Commissioner may obtain information from government agencies
 
@@ -1214,9 +1582,7 @@ Part IIA Aboriginal and Torres Strait Islander Social Justice Commissioner Divis
 
 Section 46L
 
-(5)  In this section: government agency means: (a)  an authority of the Commonwealth, or of a State or Territory; or (b)  a person who performs the functions of, or performs functions within, an authority of the Commonwealth, or of a
-
-- State or Territory.
+(5)  In this section: government agency means: (a)  an authority of the Commonwealth, or of a State or Territory; or (b)  a person who performs the functions of, or performs functions within, an authority of the Commonwealth, or of a State or Territory.
 
 #### 46L  Commissioner must give information to the Commission
 
@@ -1240,9 +1606,9 @@ Establishment and functions Division 1
 
 Section 46MA
 
-## Part IIAA-National Children's Commissioner
+## Part IIAA—National Children's Commissioner
 
-### Division 1-Establishment and functions
+### Division 1—Establishment and functions
 
 #### 46MA  National Children's Commissioner
 
@@ -1264,7 +1630,7 @@ Part IIAA National Children's Commissioner Division 1 Establishment and function
 
 Section 46MB
 
-(4)  In performing functions under this section, the National Children's Commissioner may give particular attention to children who are at risk or vulnerable. (5)  In performing functions under this section, the National Children's Commissioner may consult any of the following: (a)  children; (b)  Departments and authorities of the Commonwealth, and of the States and Territories; (c)  non-governmental organisations; (d)  international organisations and agencies; (e)  such other organisations, agencies or persons as the Commissioner considers appropriate. (6)  In performing functions under this section, the National Children's Commissioner must, as appropriate, have regard to: (a)  the Universal Declaration of Human Rights (United Nations General Assembly Resolution A/RES/217(III) A (1948); and (b)  the following, as amended and in force for Australia from time to time: (i)  the International Convention on the Elimination of all Forms of Racial Discrimination done at New York on 21 December 1965 ([1975] ATS 40); (ii)  the International Covenant on Economic, Social and Cultural Rights done at New York on 16 December 1966 ([1976] ATS 5); (iii)  the International Covenant on Civil and Political Rights done at New York on 16 December 1966 ([1980] ATS 23); (iv)  the Convention on the Elimination of All Forms of Discrimination Against Women done at New York on 18 December 1979 ([1983] ATS 9); (v)  the Convention on the Rights of the Child done at New York on 20 November 1989 ([1991] ATS 4); (vi)  the Convention on the Rights of Persons with Disabilities done at New York on 13 December 2006 ([2008] ATS 12); and (c)  such other instruments relating to human rights as the Commissioner considers relevant.
+(4)  In performing functions under this section, the National Children's Commissioner may give particular attention to children who are at risk or vulnerable. (5)  In performing functions under this section, the National Children's Commissioner may consult any of the following: (a)  children; (b)  Departments and authorities of the Commonwealth, and of the States and Territories; (c)  non-governmental organisations; (d)  international organisations and agencies; (e)  such other organisations, agencies or persons as the Commissioner considers appropriate. (6)  In performing functions under this section, the National Children's Commissioner must, as appropriate, have regard to: (a)  the Universal Declaration of Human Rights (United Nations General Assembly Resolution A/RES/217(III) A (1948)); and (b)  the following, as amended and in force for Australia from time to time: (i)  the International Convention on the Elimination of all Forms of Racial Discrimination done at New York on 21 December 1965 ([1975] ATS 40); (ii)  the International Covenant on Economic, Social and Cultural Rights done at New York on 16 December 1966 ([1976] ATS 5); (iii)  the International Covenant on Civil and Political Rights done at New York on 16 December 1966 ([1980] ATS 23); (iv)  the Convention on the Elimination of All Forms of Discrimination Against Women done at New York on 18 December 1979 ([1983] ATS 9); (v)  the Convention on the Rights of the Child done at New York on 20 November 1989 ([1991] ATS 4); (vi)  the Convention on the Rights of Persons with Disabilities done at New York on 13 December 2006 ([2008] ATS 12); and (c)  such other instruments relating to human rights as the Commissioner considers relevant.
 
 56            Australian Human Rights Commission Act 1986
 
@@ -1294,7 +1660,7 @@ Part IIAA National Children's Commissioner Division 2 Apppointment
 
 Section 46MC
 
-### Division 2-Apppointment
+### Division 2—Apppointment
 
 #### 46MC  Appointment of National Children's Commissioner
 
@@ -1312,11 +1678,9 @@ Note: For re-appointment, see section 33AA of the Acts Interpretation Act 1901 .
 
 #### 46ME  Acting appointment
 
-The Minister may, by written instrument, appoint a person to act as
+The Minister may, by written instrument, appoint a person to act as the National Children's Commissioner: (a)  during a vacancy in the office of the Commissioner (whether or not an appointment has previously been made to the office); or (b)  during any period, or during all periods, when the Commissioner: (i)  is absent from duty or from Australia; or (ii)  is, for any reason, unable to perform the duties of the office.
 
-the National Children's Commissioner: (a)  during a vacancy in the office of the Commissioner (whether or not an appointment has previously been made to the office); or (b)  during any period, or during all periods, when the Commissioner: (i)  is absent from duty or from Australia; or (ii)  is, for any reason, unable to perform the duties of the office. Acts Interpretation Act
-
-Note: See also sections 20, 33AB and 33A of the 1901 .
+Note: See also sections 20, 33AB and 33A of the Acts Interpretation Act 1901.
 
 58            Australian Human Rights Commission Act 1986
 
@@ -1332,7 +1696,7 @@ Terms and conditions Division 3
 
 Section 46MF
 
-### Division 3-Terms and conditions
+### Division 3—Terms and conditions
 
 #### 46MF  Remuneration and allowances
 
@@ -1386,7 +1750,7 @@ Miscellaneous Division 4
 
 Section 46ML
 
-### Division 4-Miscellaneous
+### Division 4—Miscellaneous
 
 #### 46ML  National Children's Commissioner may obtain information from Commonwealth government agencies
 
@@ -1436,9 +1800,9 @@ Redress for unlawful discrimination Part IIB Conciliation by the President Divis
 
 Section 46P
 
-## Part IIB-Redress for unlawful discrimination
+## Part IIB—Redress for unlawful discrimination
 
-### Division 1-Conciliation by the President
+### Division 1—Conciliation by the President
 
 #### 46P  Lodging a complaint
 
@@ -1492,7 +1856,7 @@ If a complaint is made to the Commission under section 46P, the Commission must 
 
 #### 46PF  Inquiry by President
 
-(1)  Subject to subsection (5), if a complaint is referred to the President under section 46PD, the President must inquire into the complaint and attempt to conciliate the complaint. (2)  If the President thinks that 2 or more complaints arise out of the same or substantially the same circumstances or subject, the President may hold a single inquiry, or conduct a single conciliation, in relation to those complaints. (3)  With the leave of the President, any complainant or respondent may amend the complaint to add, as a respondent, a person who is alleged to have done the alleged unlawful discrimination. Note: In some cases, a person is regarded as having done unlawful discrimination by being treated as responsible for the acts and omissions of another person. See sections 56 and 57 of the Age Discrimination Act 2004 , sections 122 and 123 of the Disability Part IIB Redress for unlawful discrimination Division 1 Conciliation by the President Section 46PG
+(1)  Subject to subsection (5), if a complaint is referred to the President under section 46PD, the President must inquire into the complaint and attempt to conciliate the complaint. (2)  If the President thinks that 2 or more complaints arise out of the same or substantially the same circumstances or subject, the President may hold a single inquiry, or conduct a single conciliation, in relation to those complaints. (3)  With the leave of the President, any complainant or respondent may amend the complaint to add, as a respondent, a person who is alleged to have done the alleged unlawful discrimination. Note: In some cases, a person is regarded as having done unlawful discrimination by being treated as responsible for the acts and omissions of another person. See sections 56 and 57 of the Age Discrimination Act 2004, sections 122 and 123 of the Disability
 
 Australian Human Rights Commission Act 1986                    65
 
@@ -1502,7 +1866,13 @@ ComLaw Authoritative Act C2013C00274
 
 [[START OF PAGE 74]]
 
-Discrimination Act 1992 , sections 18A and 18E of the Racial Discrimination Act 1975 and sections 105, 106 and 107 of the Sex Discrimination Act 1984 . (4)  A complaint cannot be amended after it is terminated by the President under section 46PH. (5)  The President may decide not to inquire into the complaint, or, if the President has started inquiring into the complaint, may decide not to continue to inquire into the complaint, if: (a)  the President is satisfied that the person aggrieved by the alleged unlawful discrimination does not want the President to inquire, or to continue to inquire, into the complaint; or (b)  the President is satisfied that the complaint has been settled or resolved.
+Part IIB Redress for unlawful discrimination
+
+Division 1 Conciliation by the President
+
+Section 46PG
+
+Discrimination Act 1992, sections 18A and 18E of the Racial Discrimination Act 1975 and sections 105, 106 and 107 of the Sex Discrimination Act 1984. (4)  A complaint cannot be amended after it is terminated by the President under section 46PH. (5)  The President may decide not to inquire into the complaint, or, if the President has started inquiring into the complaint, may decide not to continue to inquire into the complaint, if: (a)  the President is satisfied that the person aggrieved by the alleged unlawful discrimination does not want the President to inquire, or to continue to inquire, into the complaint; or (b)  the President is satisfied that the complaint has been settled or resolved.
 
 #### 46PG  Withdrawal of complaint
 
@@ -1510,7 +1880,7 @@ Discrimination Act 1992 , sections 18A and 18E of the Racial Discrimination Act 
 
 #### 46PH  Termination of complaint
 
-(1)  The President may terminate a complaint on any of the following grounds: (a)  the President is satisfied that the alleged unlawful discrimination is not unlawful discrimination; (b)  the complaint was lodged more than 12 months after the alleged unlawful discrimination took place; (c)  the President is satisfied that the complaint was trivial, vexatious, misconceived or lacking in substance; (d)  in a case where some other remedy has been sought in relation to the subject matter of the complaint-the President is satisfied that the subject matter of the complaint has been adequately dealt with; (e)  the President is satisfied that some other more appropriate remedy in relation to the subject matter of the complaint is reasonably available to each affected person;
+(1)  The President may terminate a complaint on any of the following grounds: (a)  the President is satisfied that the alleged unlawful discrimination is not unlawful discrimination; (b)  the complaint was lodged more than 12 months after the alleged unlawful discrimination took place; (c)  the President is satisfied that the complaint was trivial, vexatious, misconceived or lacking in substance; (d)  in a case where some other remedy has been sought in relation to the subject matter of the complaint—the President is satisfied that the subject matter of the complaint has been adequately dealt with; (e)  the President is satisfied that some other more appropriate remedy in relation to the subject matter of the complaint is reasonably available to each affected person;
 
 66            Australian Human Rights Commission Act 1986
 
@@ -1526,7 +1896,7 @@ Conciliation by the President Division 1
 
 Section 46PI
 
-(f)  in a case where the subject matter of the complaint has already been dealt with by the Commission or by another statutory authority-the President is satisfied that the subject matter of the complaint has been adequately dealt with; (g)  the President is satisfied that the subject matter of the complaint could be more effectively or conveniently dealt with by another statutory authority; (h)  the President is satisfied that the subject matter of the complaint involves an issue of public importance that should be considered by the Federal Court or the Federal Circuit Court; (i)  the President is satisfied that there is no reasonable prospect of the matter being settled by conciliation. (2)  If the President decides to terminate a complaint, the President must notify the complainants in writing of that decision and of the reasons for that decision. (3)  On request by an affected person who is not a complainant, the President must give the affected person a copy of the notice that was given to the complainants under subsection (2). (4)  The President may revoke the termination of a complaint, but not after an application is made to the Federal Court or the Federal Circuit Court under section 46PO in relation to the complaint.
+(f)  in a case where the subject matter of the complaint has already been dealt with by the Commission or by another statutory authority—the President is satisfied that the subject matter of the complaint has been adequately dealt with; (g)  the President is satisfied that the subject matter of the complaint could be more effectively or conveniently dealt with by another statutory authority; (h)  the President is satisfied that the subject matter of the complaint involves an issue of public importance that should be considered by the Federal Court or the Federal Circuit Court; (i)  the President is satisfied that there is no reasonable prospect of the matter being settled by conciliation. (2)  If the President decides to terminate a complaint, the President must notify the complainants in writing of that decision and of the reasons for that decision. (3)  On request by an affected person who is not a complainant, the President must give the affected person a copy of the notice that was given to the complainants under subsection (2). (4)  The President may revoke the termination of a complaint, but not after an application is made to the Federal Court or the Federal Circuit Court under section 46PO in relation to the complaint.
 
 #### 46PI  President's power to obtain information
 
@@ -1624,7 +1994,7 @@ Part IIB Redress for unlawful discrimination Division 2 Proceedings in the Feder
 
 Section 46PO
 
-### Division 2-Proceedings in the Federal Court and the Federal Circuit Court
+### Division 2—Proceedings in the Federal Court and the Federal Circuit Court
 
 #### 46PO  Application to court if complaint is terminated
 
@@ -1732,7 +2102,7 @@ Referral of discriminatory awards and determinations to other bodies Part IIC
 
 Section 46PW
 
-## Part IIC-Referral of discriminatory awards and determinations to other bodies
+## Part IIC—Referral of discriminatory awards and determinations to other bodies
 
 #### 46PW  Referral of discriminatory industrial instruments to the Fair Work Commission
 
@@ -1750,9 +2120,9 @@ Part IIC Referral of discriminatory awards and determinations to other bodies
 
 Section 46PX
 
-(6)  The President may obtain documents or information under section 46PI for the purposes of this section. (7)  In this section: discriminatory act under an industrial instrument means an act that would be unlawful under: (a)  Part 4 of the Age Discrimination Act 2004 ; or (b)  Part 2 of the Disability Discrimination Act 1992 ; or (c)  Part II of the Sex Discrimination Act 1984 ; but for the fact that the act was done in direct compliance with an industrial instrument. industrial instrument means: (a)  a fair work instrument (within the meaning of the Fair Work Act 2009 ); or (b)  a transitional instrument, or a Division 2B State instrument, (within the meaning of the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 ). discriminatory act under an industrial instrument in subsection (7), the fact that an act is done in direct compliance with the industrial instrument does not of
+(6)  The President may obtain documents or information under section 46PI for the purposes of this section. (7)  In this section: discriminatory act under an industrial instrument means an act that would be unlawful under: (a)  Part 4 of the Age Discrimination Act 2004; or (b)  Part 2 of the Disability Discrimination Act 1992; or (c)  Part II of the Sex Discrimination Act 1984; but for the fact that the act was done in direct compliance with an industrial instrument. industrial instrument means: (a)  a fair work instrument (within the meaning of the Fair Work Act 2009); or (b)  a transitional instrument, or a Division 2B State instrument, (within the meaning of the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009).
 
-(8)  For the purposes of the definition of itself mean that the act is reasonable.
+(8)  For the purposes of the definition of discriminatory act under an industrial instrument in subsection (7), the fact that an act is done in direct compliance with the industrial instrument does not of itself mean that the act is reasonable.
 
 #### 46PX  Referral of discriminatory determinations to the Remuneration Tribunal
 
@@ -1818,7 +2188,7 @@ Part III Miscellaneous
 
 Section 47
 
-## Part III-Miscellaneous
+## Part III—Miscellaneous
 
 #### 47  Declaration of international instruments
 
@@ -1844,7 +2214,7 @@ Section 49
 
 #### 49  Non-disclosure of private information
 
-(1)  A person who is, or has at any time been, a member of the Commission or a member of the staff referred to in section 43 or is acting, or has at any time acted, for or on behalf of the Commission shall not, either directly or indirectly: (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first-mentioned person by reason of that person's office or employment under or for the purposes of this Act or by reason of that person acting, or having acted, for or on behalf of the Commission; or (b)  make use of any such information as is mentioned in paragraph (a); or (c)  produce to any person a document relating to the affairs of another person furnished for the purposes of this Act. Penalty:  50 penalty units or imprisonment for 1 year, or both. (2)  A person who is, or has at any time been, a member of the Commission or a member of the staff referred to in section 43 or is acting, or has at any time acted, for or on behalf of the Commission shall not be required: (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the first-mentioned person by reason of that person's office or employment under or for the purposes of this Act or by reason of that person acting, or having acted, for or on behalf of the Commission; or Part III
+(1)  A person who is, or has at any time been, a member of the Commission or a member of the staff referred to in section 43 or is acting, or has at any time acted, for or on behalf of the Commission shall not, either directly or indirectly: (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first-mentioned person by reason of that person's office or employment under or for the purposes of this Act or by reason of that person acting, or having acted, for or on behalf of the Commission; or (b)  make use of any such information as is mentioned in paragraph (a); or (c)  produce to any person a document relating to the affairs of another person furnished for the purposes of this Act. Penalty:  50 penalty units or imprisonment for 1 year, or both. (2)  A person who is, or has at any time been, a member of the Commission or a member of the staff referred to in section 43 or is acting, or has at any time acted, for or on behalf of the Commission shall not be required: (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the first-mentioned person by reason of that person's office or employment under or for the purposes of this Act or by reason of that person acting, or having acted, for or on behalf of the Commission; or
 
 Australian Human Rights Commission Act 1986                    83
 
@@ -1854,7 +2224,7 @@ ComLaw Authoritative Act C2013C00274
 
 [[START OF PAGE 92]]
 
-Miscellaneous
+Part III Miscellaneous
 
 Section 49
 
@@ -1918,7 +2288,7 @@ Convention concerning Discrimination in respect of Employment and Occupation Sch
 
 Section 50
 
-## Schedule 1-Convention concerning Discrimination in respect of Employment and Occupation
+## Schedule 1—Convention concerning Discrimination in respect of Employment and Occupation
 
 Section 3
 
@@ -1938,7 +2308,7 @@ adopts this twenty-fifth day of June of the year one thousand nine hundred and f
 
 #### Article 1
 
-1. For the purpose of this Convention the term -discrimination‖ includes-
+1. For the purpose of this Convention the term ―discrimination‖ includes—
 
 ( a ) any  distinction,  exclusion  or  preference  made  on  the  basis  of  race, colour,  sex,  religion,  political  opinion,  national  extraction  or  social origin,  which  has  the  effect  of  nullifying  or  impairing  equality  of opportunity or treatment in employment or occupation;
 
@@ -1958,7 +2328,7 @@ Section 50
 
 2. Any distinction, exclusion or preference in respect of a particular job based on the inherent  requirements thereof shall not be  deemed  to  be discrimination.
 
-3. For  the  purpose  of  this  Convention  the  terms  -employment‖  and -occupation‖ include access to vocational training, access to employment and to particular occupations, and terms and conditions of employment.
+3. For the purpose of this Convention the terms ―employment‖ and ―occupation‖ include access to vocational training, access to employment and to particular occupations, and terms and conditions of employment.
 
 #### Article 2
 
@@ -1966,7 +2336,7 @@ Each Member for which this Convention is in force undertakes to declare and  pur
 
 #### Article 3
 
-Each  Member  for  which  this  Convention  is  in  force  undertakes,  by methods appropriate to national conditions and practice-
+Each  Member  for  which  this  Convention  is  in  force  undertakes,  by methods appropriate to national conditions and practice—
 
 ( a ) to seek the co-operation of employers' and workers' organisations and other appropriate bodies in promoting the acceptance and observance of this policy;
 
@@ -2066,7 +2436,7 @@ At  such  times  as  it  may  consider  necessary  the  Governing  Body  of  the
 
 #### Article 13
 
-1. Should the Conference adopt a new Convention revising this Convention  in  whole  or  in  part,  then,  unless  the  new  Convention  otherwise provides-
+1. Should the Conference adopt a new Convention revising this Convention  in  whole  or  in  part,  then,  unless  the  new  Convention  otherwise provides—
 
 ( a ) the  ratification  by  a  Member  of  the  new  revising  Convention  shall ipso  jure involve  the  immediate  denunciation  of  this  Convention, notwithstanding  the  provisions  of  Article  9  above,  if  and  when  the new revising Convention shall have come into force;
 
@@ -2090,7 +2460,7 @@ Schedule 2 International Covenant on Civil and Political Rights
 
 Section 50
 
-## Schedule 2-International Covenant on Civil and Political Rights
+## Schedule 2—International Covenant on Civil and Political Rights
 
 Section 3
 
@@ -2182,7 +2552,7 @@ Section 50
 
 1. Every human being has the inherent right to life. This right shall be protected by law. No one shall be arbitrarily deprived of his life.
 
-2. In countries which have not abolished the death penalty, sentence of death may be imposed only for the most serious crimes in accordance with the law in force at the time of the commission of the crime and not contrary to the provisions of the present Covenant and to the Convention on the Prevention and Punishment  of  the  Crime  of  Genocide.  This  penalty  can  only  be  carried  out pursuant to a final judgment rendered by a competent court.
+2. In countries which have not abolished the death penalty, sentence of death may be imposed only for the most serious crimes in accordance with the law in force at the time of the commission of the crime and not contrary to the provisions of the present Covenant and to the Convention on the Prevention and
 
 94            Australian Human Rights Commission Act 1986
 
@@ -2196,7 +2566,9 @@ International Covenant on Civil and Political Rights Schedule 2
 
 Section 50
 
-3. When  deprivation  of  life  constitutes  the  crime  of  genocide,  it  is understood  that  nothing  in  this  article  shall  authorize  any  State  Party  to  the present Covenant to derogate in any way from any obligation assumed under the provisions of the Convention on the Prevention and Punishment of the Crime of Genocide.
+Punishment of the Crime of Genocide. This penalty can only be carried out pursuant to a final judgment rendered by a competent court.
+
+3. When deprivation of life constitutes the crime of genocide, it is understood that nothing in this article shall authorize any State Party to the present Covenant to derogate in any way from any obligation assumed under the provisions of the Convention on the Prevention and Punishment of the Crime of Genocide.
 
 4. Anyone  sentenced  to  death  shall  have  the  right  to  seek  pardon  or commutation of the sentence. Amnesty, pardon or commutation of the sentence of death may be granted in all cases.
 
@@ -2218,7 +2590,7 @@ No  one  shall  be  subjected  to  torture  or  to  cruel,  inhuman  or  degradi
 
 ( b ) Paragraph 3( a ) shall not be held to preclude, in countries where imprisonment with hard labour may be imposed as a punishment for a crime, the performance of hard labour in pursuance of a sentence to such punishment by a competent court;
 
-( c ) For the purpose of this paragraph the term -forced or compulsory labour‖ shall not include:
+( c ) For the purpose of this paragraph the term “forced or compulsory labour” shall not include:
 
 (i)  Any work or service, not referred to in sub-paragraph ( b ), normally required of a person who is under detention in consequence of a lawful order of a court, or of a person during conditional release from such detention;
 
@@ -2238,7 +2610,7 @@ Section 50
 
 (iii)  Any service exacted in cases of emergency or calamity
 
-- threatening the life or well-being of the community;
+threatening the life or well-being of the community;
 
 (iv)  Any work or service which forms part of normal civil obligations.
 
@@ -2296,7 +2668,7 @@ An alien lawfully in the territory of a State Party to the present Covenant may 
 
 #### Article 14
 
-1. All  persons  shall  be  equal  before  the  courts  and  tribunals.  In  the determination  of  any  criminal  charge  against  him,  or of his rights  and obligations  in  a  suit  at  law,  everyone  shall  be  entitled  to  a  fair  and  public hearing by a competent, independent and impartial tribunal established by law. The Press and the public may be excluded from all or part of a trial for reasons of  morals,  public  order  ( ordre  public )  or  national  security  in  a  democratic society, or when the interest of the private lives of the parties so requires, or to the extent strictly necessary in the opinion of the court in special circumstances where  publicity  would  prejudice  the  interests  of  justice;  but  any  judgment rendered in a criminal case or in a suit at law shall be made public except where the interest  of  juvenile  persons  otherwise requires or  the  proceedings  concern matrimonial disputes or the guardianship of children.
+1. All persons shall be equal before the courts and tribunals. In the determination of any criminal charge against him, or of his rights and obligations in a suit at law, everyone shall be entitled to a fair and public hearing by a competent, independent and impartial tribunal established by law. The Press and the public may be excluded from all or part of a trial for reasons of morals, public order (ordre public) or national security in a democratic
 
 Australian Human Rights Commission Act 1986                    97
 
@@ -2309,6 +2681,8 @@ ComLaw Authoritative Act C2013C00274
 Schedule 2 International Covenant on Civil and Political Rights
 
 Section 50
+
+society, or when the interest of the private lives of the parties so requires, or to the extent strictly necessary in the opinion of the court in special circumstances where publicity would prejudice the interests of justice; but any judgment rendered in a criminal case or in a suit at law shall be made public except where the interest of juvenile persons otherwise requires or the proceedings concern matrimonial disputes or the guardianship of children.
 
 2. Everyone charged with a criminal offence shall have the right to be presumed innocent until proved guilty according to law.
 
@@ -2388,9 +2762,9 @@ Section 50
 
 #### Article 19
 
-- Everyone shall have the right to hold opinions without interference.
+1. Everyone shall have the right to hold opinions without interference.
 
-- Everyone shall have the right to freedom of expression; this right shall include freedom to seek, receive and impart information and ideas of all kinds, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of his choice.
+2. Everyone shall have the right to freedom of expression; this right shall include freedom to seek, receive and impart information and ideas of all kinds, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of his choice.
 
 3. The exercise of the rights provided for in paragraph 2 of this article carries with it special duties and responsibilities. It may therefore be subject to certain restrictions, but these shall only be such as are provided by law and are necessary:
 
@@ -2400,7 +2774,7 @@ Section 50
 
 #### Article 20
 
-- Any propaganda for war shall be prohibited by law.
+1. Any propaganda for war shall be prohibited by law.
 
 2. Any  advocacy  of  national,  racial  or  religious  hatred  that  constitutes incitement to discrimination, hostility or violence shall be prohibited by law.
 
@@ -2444,9 +2818,9 @@ Section 50
 
 2. Every child shall be registered immediately after birth and shall have a name.
 
-ComLaw Authoritative Act C2013C00274
-
 Australian Human Rights Commission Act 1986                    101
+
+ComLaw Authoritative Act C2013C00274
 
 [[END OF PAGE 109]]
 
@@ -2456,7 +2830,7 @@ Schedule 2 International Covenant on Civil and Political Rights
 
 Section 50
 
-- Every child has the right to acquire a nationality.
+3. Every child has the right to acquire a nationality.
 
 #### Article 25
 
@@ -2628,9 +3002,9 @@ Section 50
 
 1. A State Party to the present Covenant may at any time declare under this article that it recognizes the competence of the Committee to receive and consider  communications  to  the  effect  that  a  State  Party  claims  that  another State Party is not fulfilling its obligations under the present  Covenant. Communications  under  this  article  may  be  received  and  considered  only  if submitted by a State Party which has made a declaration recognizing in regard to  itself  the  competence  of  the  Committee.  No  communications  shall  be received by the Committee if it concerns a State Party which has not made such a declaration. Communications received under this article shall be dealt with in accordance with the following procedure:
 
-( a ) If  a  State  Party  to  the  present  Covenant  considers  that  another  State Party is not giving effect to the provisions of the present Covenant, it may, by written  communication,  bring  the  matter  to  the  attention  of  that  State  Party. Within three months after the receipt of the communication, the receiving State shall afford the State which sent the communication an explanation or any other statement  in  writing  clarifying  the  matter  which  should  include,  to  the  extent possible  and  pertinent,  reference  to  domestic  procedures  and  remedies  taken,
+( a ) If a State Party to the present Covenant considers that another State Party is not giving effect to the provisions of the present Covenant, it may, by written communication, bring the matter to the attention of that State Party. Within three months after the receipt of the communication, the receiving State
 
-> 106            Australian Human Rights Commission Act 1986
+106            Australian Human Rights Commission Act 1986
 
 ComLaw Authoritative Act C2013C00274
 
@@ -2642,13 +3016,29 @@ International Covenant on Civil and Political Rights Schedule 2
 
 Section 50
 
-- pending, or available in the matter. ( b ) If  the  matter is not adjusted to the satisfaction of both States Parties concerned within six months after the receipt by the receiving State of the initial communication,  either  State  shall  have  the  right  to  refer  the  matter  to  the Committee, by notice given to the Committee and to the other State. ( c ) The Committee shall deal with a matter referred to it only after it has ascertained that all  available  domestic  remedies  have  been  invoked  and exhausted in the matter, in conformity with the generally recognized principles of  international  law.  This  shall  not  be  the  rule  where  the  application  of  the remedies is unreasonably prolonged. ( d ) The Committee shall hold closed meetings when examining communications under this article. ( e ) Subject  to  the  provisions  of  sub-paragraph ( c ),  the  Committee  shall make available its good offices to the States Parties concerned with a view to a friendly  solution  of  the  matter  on  the  basis  of  respect  for  human  rights  and fundamental freedoms as recognized in the present Covenant. ( f ) In any matter referred to it, the Committee may call upon the States Parties  concerned,  referred  to  in  sub-paragraph ( b ),  to  supply  any  relevant information. ( g ) The  States  Parties  concerned,  referred  to  in  sub-paragraph ( b ),  shall have  the  right  to  be  represented  when  the  matter  is  being  considered  in  the Committee and to make submissions orally and/or in writing. ( h ) The Committee shall, within twelve months after the date of receipt of notice under sub-paragraph ( b ), submit a report: (i) If a solution within the terms of sub-paragraph ( e ) is reached, the Committee shall confine its report to a brief statement of the facts and of the solution reached; ) is not reached, the Committee shall confine its report to a brief statement of the facts; the written submissions and record of the oral submissions made  by  the  States  Parties  concerned  shall  be  attached  to  the
+shall afford the State which sent the communication an explanation or any other statement in writing clarifying the matter which should include, to the extent possible and pertinent, reference to domestic procedures and remedies taken, pending, or available in the matter.
 
-(ii) If a solution within the terms of sub-paragraph ( e report.
+( b ) If the matter is not adjusted to the satisfaction of both States Parties concerned within six months after the receipt by the receiving State of the initial communication, either State shall have the right to refer the matter to the Committee, by notice given to the Committee and to the other State.
 
-In  every  matter,  the  report  shall  be  communicated  to  the  States  Parties concerned.
+( c ) The Committee shall deal with a matter referred to it only after it has ascertained that all available domestic remedies have been invoked and exhausted in the matter, in conformity with the generally recognized principles of international law. This shall not be the rule where the application of the remedies is unreasonably prolonged.
 
-2. The  provisions  of  this  article  shall  come  into  force  when  ten  States Parties  to  the  present  Covenant  have  made  declarations  under  paragraph 1  of this article.
+( d ) The Committee shall hold closed meetings when examining communications under this article.
+
+( e ) Subject to the provisions of sub-paragraph ( c ), the Committee shall make available its good offices to the States Parties concerned with a view to a friendly solution of the matter on the basis of respect for human rights and fundamental freedoms as recognized in the present Covenant.
+
+( f ) In any matter referred to it, the Committee may call upon the States Parties concerned, referred to in sub-paragraph ( b ), to supply any relevant information.
+
+( g ) The States Parties concerned, referred to in sub-paragraph ( b ), shall have the right to be represented when the matter is being considered in the Committee and to make submissions orally and/or in writing.
+
+( h ) The Committee shall, within twelve months after the date of receipt of notice under sub-paragraph ( b ), submit a report:
+
+(i) If a solution within the terms of sub-paragraph ( e ) is reached, the Committee shall confine its report to a brief statement of the facts and of the solution reached;
+
+(ii) If a solution within the terms of sub-paragraph ( e ) is not reached, the Committee shall confine its report to a brief statement of the facts; the written submissions and record of the oral submissions made by the States Parties concerned shall be attached to the report.
+
+In every matter, the report shall be communicated to the States Parties concerned.
+
+2. The provisions of this article shall come into force when ten States Parties to the present Covenant have made declarations under paragraph 1 of this article.
 
 Australian Human Rights Commission Act 1986                    107
 
@@ -2826,7 +3216,7 @@ Declaration of the Rights of the Child Schedule 3
 
 Section 50
 
-## Schedule 3-Declaration of the Rights of the Child
+## Schedule 3—Declaration of the Rights of the Child
 
 Section 3
 
@@ -2848,7 +3238,7 @@ Proclaims this Declaration of the Rights of the Child to the end that he may hav
 
 ### Principle 1
 
-The child shall enjoy all the rights set forth in this Declaration. Every child, without  any  exception  whatsoever,  shall  be  entitled  to  these  rights,  without distinction or discrimination on account of race, colour, sex, language, religion, political  or  other  opinion,  national  or  social  origin,  property,  birth  or  other status, whether of himself or of his family.
+The child shall enjoy all the rights set forth in this Declaration. Every child, without any exception whatsoever, shall be entitled to these rights, without distinction or discrimination on account of race, colour, sex, language, religion,
 
 Australian Human Rights Commission Act 1986                    113
 
@@ -2861,6 +3251,8 @@ ComLaw Authoritative Act C2013C00274
 Schedule 3 Declaration of the Rights of the Child
 
 Section 50
+
+political or other opinion, national or social origin, property, birth or other status, whether of himself or of his family.
 
 ### Principle 2
 
@@ -2884,9 +3276,9 @@ The  child,  for  the  full  and  harmonious  development  of  his  personality,
 
 ### Principle 7
 
-The  child  is  entitled  to  receive  education,  which  shall  be  free  and compulsory, at least in the elementary stages. He shall be given an education which  will  promote  his  general  culture  and  enable  him,  on  a  basis  of  equal opportunity, to develop his abilities, his individual judgment, and his sense of moral and social responsibility, and to become a useful member of society.
+The child is entitled to receive education, which shall be free and compulsory, at least in the elementary stages. He shall be given an education
 
-> 114            Australian Human Rights Commission Act 1986
+114            Australian Human Rights Commission Act 1986
 
 ComLaw Authoritative Act C2013C00274
 
@@ -2898,7 +3290,9 @@ Declaration of the Rights of the Child Schedule 3
 
 Section 50
 
-The  best  interests  of  the  child  shall  be  the  guiding  principle  of  those responsible for his education and guidance; that responsibility lies  in the first place with his parents.
+which will promote his general culture and enable him, on a basis of equal opportunity, to develop his abilities, his individual judgment, and his sense of moral and social responsibility, and to become a useful member of society.
+
+The best interests of the child shall be the guiding principle of those responsible for his education and guidance; that responsibility lies in the first place with his parents.
 
 The child shall have full opportunity for play and recreation, which should be directed to the same purposes as education; society and the public authorities shall endeavour to promote the enjoyment of this right.
 
@@ -2928,7 +3322,7 @@ Schedule 4 Declaration on the Rights of Mentally Retarded Persons
 
 Section 50
 
-## Schedule 4-Declaration on the Rights of Mentally Retarded Persons
+## Schedule 4—Declaration on the Rights of Mentally Retarded Persons
 
 Section 3
 
@@ -2986,7 +3380,7 @@ Schedule 5 Declaration on the Rights of Disabled Persons
 
 Section 50
 
-## Schedule 5-Declaration on the Rights of Disabled Persons
+## Schedule 5—Declaration on the Rights of Disabled Persons
 
 Section 3
 
@@ -3020,7 +3414,7 @@ Declaration on the Rights of Disabled Persons Schedule 5
 
 Section 50
 
-1. The  term  -disabled  person‖  means  any  person  unable  to  ensure  by himself  or  herself,  wholly  or  partly,  the  necessities  of  a  normal  individual and/or social life, as a result of deficiency, either congenital or not, in his or her physical or mental capabilities.
+1. The term “disabled person” means any person unable to ensure by himself or herself, wholly or partly, the necessities of a normal individual and/or social life, as a result of deficiency, either congenital or not, in his or her physical or mental capabilities.
 
 2. Disabled persons shall enjoy all the rights set forth in this Declaration. These  rights  shall  be  granted  to  all  disabled  persons  without  any  exception whatsoever  and  without  distinction  or  discrimination  on  the  basis  of  race, colour,  sex,  language,  religion,  political  or  other  opinions,  national  or  social origin,  state  of  wealth,  birth  or  any  other  situation  applying  either  to  the disabled person himself or herself or to his or her family.
 
@@ -3036,7 +3430,7 @@ Section 50
 
 8. Disabled  persons  are  entitled  to  have  their  special  needs  taken  into consideration at all stages of economic and social planning.
 
-9. Disabled  persons  have  the  right  to  live  with  their  families  or  with foster parents and to participate in all social, creative or recreational activities. No  disabled  person  shall  be  subjected,  as  far  as  his  or  her  residence  is concerned,  to  differential  treatment  other  than  that  required  by  his  or  her condition or by the improvement which he or she may derive therefrom. If the stay  of  a  disabled  person  in  a  specialized  establishment  is  indispensable,  the environment and living conditions therein shall be as close as possible to those of the normal life of a person of his or her age.
+9. Disabled persons have the right to live with their families or with foster parents and to participate in all social, creative or recreational activities. No disabled person shall be subjected, as far as his or her residence is concerned, to differential treatment other than that required by his or her
 
 Australian Human Rights Commission Act 1986                    119
 
@@ -3050,7 +3444,9 @@ Schedule 5 Declaration on the Rights of Disabled Persons
 
 Section 50
 
-10. Disabled  persons  shall be protected against all exploitation, all regulations and all treatment of a discriminatory, abusive or degrading nature.
+condition or by the improvement which he or she may derive therefrom. If the stay of a disabled person in a specialized establishment is indispensable, the environment and living conditions therein shall be as close as possible to those of the normal life of a person of his or her age.
+
+10. Disabled persons shall be protected against all exploitation, all regulations and all treatment of a discriminatory, abusive or degrading nature.
 
 11. Disabled persons shall be able to avail themselves of qualified legal aid when such aid proves indispensable for the protection of their persons and property. If judicial proceedings are instituted against them, the legal procedure applied shall take their physical and mental condition fully into account.
 
@@ -3068,22 +3464,22 @@ ComLaw Authoritative Act C2013C00274
 
 Endnotes
 
-Endnote 1-Legislation history
+Endnote 1—Legislation history
 
 ## Endnotes
 
-### Endnote 1-Legislation history
+### Endnote 1—Legislation history
 
 This endnote sets out details of the legislation history of the Australian Human Rights Commission Act 1986.
 
 Act | Number and year | Assent date | Commencement date | Application, saving and transitional provisions
 --- | --- | --- | --- | ---
-Human Rights and Equal Opportunity Commission Act 1986 | 125, 1986 | 6 Dec 1986 | 10 Dec 1986 ( see Gazette 1986, No. S631)
+Human Rights and Equal Opportunity Commission Act 1986 | 125, 1986 | 6 Dec 1986 | 10 Dec 1986 (see Gazette 1986, No. S631) | —
 Statute Law (Miscellaneous Provisions) Act 1987 | 141, 1987 | 18 Dec 1987 | s. 3: 1 Feb 1987 (a) | s. 5(1)
 Statute Law (Miscellaneous Provisions) Act 1988 | 38, 1988 | 3 June 1988 | s. 3: Royal Assent (b) | s. 5(1)
-Statutory Instruments (Tabling and Disallowance) Legislation Amendment | 99, 1988 | 2 Dec 1988 | 2 Dec 1988 | -
-Privacy Act 1988 | 119, 1988 | 14 Dec 1988 | 1 Jan 1989 ( see Gazette 1988, No. S399) | -
-Defence Legislation Amendment Act 1990 | 75, 1990 | 22 Oct 1990 | s. 5: Royal Assent (c) | -
+Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988 | 99, 1988 | 2 Dec 1988 | 2 Dec 1988 | —
+Privacy Act 1988 | 119, 1988 | 14 Dec 1988 | 1 Jan 1989 (see Gazette 1988, No. S399) | —
+Defence Legislation Amendment Act 1990 | 75, 1990 | 22 Oct 1990 | s. 5: Royal Assent (c) | —
 
 Australian Human Rights Commission Act 1986                   121
 
@@ -3093,17 +3489,20 @@ ComLaw Authoritative Act C2013C00274
 
 [[START OF PAGE 130]]
 
+Endnotes
+
+Endnote 1—Legislation history
+
 Act | Number and year | Assent date | Commencement date | Application, saving and transitional provisions
 --- | --- | --- | --- | ---
-Law and Justice Legislation Amendment Act 1990 | 115, 1990 | 21 Dec 1990 | Part 1 (ss. 1, 2), Parts 3 and 4 (ss. 40-49): 21 Dec 1990 ss. 3, 5, 6, 8, 9, 16, 17, 20-23, 28, 30, 32, 33, 38 and 39: 4 Feb 1991 ( see Gazette 1991, GN3, p. 278) Remainder: 21 June 1991 | -
-Industrial Relations Legislation Amendment Act 1991 | 122, 1991 | 27 June 1991 | ss. 4(1), 10(b) and 15- 20: 1 Dec 1988 ss. 28(b)-(e), 30 and 31: 10 Dec 1991 ( see Gazette 1991, No. S332) Remainder: Royal Assent | s. 31(2)
-Human Rights and Equal Opportunity Legislation Amendment Act 1992 | 132, 1992 | 30 Oct 1992 | 26 Nov 1992 ( see s. 2 and Gazette 1992, No. S346) | -
-Human Rights Legislation Amendment Act 1995 | 59, 1995 | 28 June 1995 | ( see 59, 1995 below) | -
+Law and Justice Legislation Amendment Act 1990 | 115, 1990 | 21 Dec 1990 | Part 1 (ss. 1, 2), Parts 3 and 4 (ss. 40–49): 21 Dec 1990; ss. 3, 5, 6, 8, 9, 16, 17, 20–23, 28, 30, 32, 33, 38 and 39: 4 Feb 1991 (see Gazette 1991, GN3, p. 278); Remainder: 21 June 1991 | —
+Industrial Relations Legislation Amendment Act 1991 | 122, 1991 | 27 June 1991 | ss. 4(1), 10(b) and 15–20: 1 Dec 1988; ss. 28(b)–(e), 30 and 31: 10 Dec 1991 (see Gazette 1991, No. S332); Remainder: Royal Assent | s. 31(2)
+Human Rights and Equal Opportunity Legislation Amendment Act 1992 | 132, 1992 | 30 Oct 1992 | 26 Nov 1992 (see s. 2 and Gazette 1992, No. S346) | —
+as amended by
+Human Rights Legislation Amendment Act 1995 | 59, 1995 | 28 June 1995 | (see 59, 1995 below) | —
 Sex Discrimination and other Legislation Amendment Act 1992 | 179, 1992 | 16 Dec 1992 | 13 Jan 1993 | ss. 2(2) and 4
-Human Rights and Equal Opportunity Legislation Amendment Act (No. 2) 1992 | 180, 1992 | 16 Dec 1992 | 13 Jan 1993 | -
+Human Rights and Equal Opportunity Legislation Amendment Act (No. 2) 1992 | 180, 1992 | 16 Dec 1992 | 13 Jan 1993 | —
 Qantas Sale Act 1992 | 196, 1992 | 21 Dec 1992 | Schedule (Parts 3, 6): (d) | s. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)
-
-Endnotes Endnote 1-Legislation history
 
 122            Australian Human Rights Commission Act 1986
 
@@ -3115,20 +3514,20 @@ ComLaw Authoritative Act C2013C00274
 
 Endnotes
 
+Endnote 1—Legislation history
+
 Act | Number and year | Assent date | Commencement date | Application, saving and transitional provisions
 --- | --- | --- | --- | ---
 as amended by
-Qantas Sale Amendment Act 1993 | 60, 1993 | 3 Nov 1993 | 10 Mar 1993 | -
-Qantas Sale Amendment Act 1994 | 168, 1994 | 16 Dec 1994 | Schedule (item 17): Royal Assent (e) | -
-Human Rights Legislation Amendment Act 1995 | 59, 1995 | 28 June 1995 | Schedule (item 25): 30 Oct 1992 Remainder: Royal Assent | ss. 4 and 5
-Human Rights Legislation Amendment Act (No. 1) 1999 | 133, 1999 | 13 Oct 1999 | ss. 1-3 and 21: Royal Assent s. 22 and Schedule 1 (items 53, 60): 10 Dec 1999 ( see Gazette 1999, No. S598) | ss. 4-22
-Public Employment (Consequential and Transitional) Amendment Act 1999 | 146, 1999 | 11 Nov 1999 | Schedule 1 (items 520- 523): 5 Dec 1999 ( see Gazette 1999, No. S584) (f) | -
-Australian Security Intelligence Organisation Legislation Amendment Act 1999 | 161, 1999 | 10 Dec 1999 | Schedule 3 (items 1, 29): (g) | -
-Federal Magistrates (Consequential Amendments) Act 1999 | 194, 1999 | 23 Dec 1999 | Schedule 16: (h) | -
-Privacy Amendment (Office of the Privacy Commissioner) Act 2000 | 2, 2000 | 29 Feb 2000 | 1 July 2000 ( see Gazette 2000, No. S229) | -
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 | 137, 2000 | 24 Nov 2000 | ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9-11, 32): Royal Assent Remainder: 24 May 2001 | Sch. 2 (items 418, 419)
-
-Endnote 1-Legislation history
+Qantas Sale Amendment Act 1993 | 60, 1993 | 3 Nov 1993 | 10 Mar 1993 | —
+Qantas Sale Amendment Act 1994 | 168, 1994 | 16 Dec 1994 | Schedule (item 17): Royal Assent (e) | —
+Human Rights Legislation Amendment Act 1995 | 59, 1995 | 28 June 1995 | Schedule (item 25): 30 Oct 1992; Remainder: Royal Assent | ss. 4 and 5
+Human Rights Legislation Amendment Act (No. 1) 1999 | 133, 1999 | 13 Oct 1999 | ss. 1–3 and 21: Royal Assent; s. 22 and Schedule 1 (items 53, 60): 10 Dec 1999 (see Gazette 1999, No. S598); Remainder: 13 Apr 2000 | ss. 4–22
+Public Employment (Consequential and Transitional) Amendment Act 1999 | 146, 1999 | 11 Nov 1999 | Schedule 1 (items 520–523): 5 Dec 1999 (see Gazette 1999, No. S584) (f) | —
+Australian Security Intelligence Organisation Legislation Amendment Act 1999 | 161, 1999 | 10 Dec 1999 | Schedule 3 (items 1, 29): (g) | —
+Federal Magistrates (Consequential Amendments) Act 1999 | 194, 1999 | 23 Dec 1999 | Schedule 16: (h) | —
+Privacy Amendment (Office of the Privacy Commissioner) Act 2000 | 2, 2000 | 29 Feb 2000 | 1 July 2000 (see Gazette 2000, No. S229) | —
+Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 | 137, 2000 | 24 Nov 2000 | ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent; Remainder: 24 May 2001 | Sch. 2 (items 418, 419)
 
 Australian Human Rights Commission Act 1986                   123
 
@@ -3140,19 +3539,19 @@ ComLaw Authoritative Act C2013C00274
 
 Endnotes
 
-Endnote 1-Legislation history
+Endnote 1—Legislation history
 
 Act | Number and year | Assent date | Commencement date | Application, saving and transitional provisions
 --- | --- | --- | --- | ---
 Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 | 24, 2001 | 6 Apr 2001 | s. 4(1), (2) and Schedule 32: (i) | s. 4(1), (2)
-Human Rights and Equal Opportunity Commission | 22, 2002 | 4 Apr 2002 | 13 Apr 2000 | -
-Statute Law Revision Act 2002 | 63, 2002 | 3 July 2002 | Schedule 1 (item 21): (j) | -
-Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential | 105, 2002 | 14 Nov 2002 | Schedule 3 (item 50): 12 May 2003 ( see s. 2 and Gazette 2002, No. GN49) | -
-Australian Crime Commission Establishment Act 2002 | 125, 2002 | 10 Dec 2002 | Schedule 2 (item 77): 1 Jan 2003 | -
-Age Discrimination (Consequential Provisions) Act 2004 | 40, 2004 | 21 Apr 2004 | Schedule 1 (items 1-8): 23 June 2004 ( see s. 2) Schedule 2 (items 22- 25): (k) | -
-Law and Justice Legislation Amendment Act 2004 | 62, 2004 | 26 May 2004 | Schedule 1 (item 38): 27 May 2004 | -
-Aboriginal and Torres Strait Islander Commission | 32, 2005 | 22 Mar 2005 | Schedule 4 (item 24): 24 Mar 2005 | -
-Statute Law Revision Act 2005 | 100, 2005 | 6 July 2005 | Schedule 1 (item 26): Royal Assent | -
+Human Rights and Equal Opportunity Commission Amendment Act 2002 | 22, 2002 | 4 Apr 2002 | 13 Apr 2000 | —
+Statute Law Revision Act 2002 | 63, 2002 | 3 July 2002 | Schedule 1 (item 21): (j) | —
+Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002 | 105, 2002 | 14 Nov 2002 | Schedule 3 (item 50): 12 May 2003 (see s. 2 and Gazette 2002, No. GN49) | —
+Australian Crime Commission Establishment Act 2002 | 125, 2002 | 10 Dec 2002 | Schedule 2 (item 77): 1 Jan 2003 | —
+Age Discrimination (Consequential Provisions) Act 2004 | 40, 2004 | 21 Apr 2004 | Schedule 1 (items 1–8): 23 June 2004 (see s. 2); Schedule 2 (items 22–25): (k) | —
+Law and Justice Legislation Amendment Act 2004 | 62, 2004 | 26 May 2004 | Schedule 1 (item 38): 27 May 2004 | —
+Aboriginal and Torres Strait Islander Commission Amendment Act 2005 | 32, 2005 | 22 Mar 2005 | Schedule 4 (item 24): 24 Mar 2005 | —
+Statute Law Revision Act 2005 | 100, 2005 | 6 July 2005 | Schedule 1 (item 26): Royal Assent | —
 
 124            Australian Human Rights Commission Act 1986
 
@@ -3164,19 +3563,19 @@ ComLaw Authoritative Act C2013C00274
 
 Endnotes
 
-Endnote 1-Legislation history
+Endnote 1—Legislation history
 
 Act | Number and year | Assent date | Commencement date | Application, saving and transitional provisions
 --- | --- | --- | --- | ---
-Intelligence Services Legislation Amendment Act 2005 | 128, 2005 | 4 Nov 2005 | Schedule 8 (items 13,14): 2 Dec 2005 | -
-Fair Work (State Referral and Consequential and Other | 54, 2009 | 25 June 2009 | Schedule 5 (items 32, 73-75): (l) | -
-Disability Discrimination and Other Human Rights Legislation Amendment | 70, 2009 | 8 July 2009 | Schedule 2 (items 91, 92) and Schedule 3 (items 34-38, 119-166): 5 Aug 2009 | Sch. 3 (items 130, 148, 153, 155, 158)
-Fair Work Amendment (State Referrals and Other Measures) Act 2009 | 124, 2009 | 9 Dec 2009 | Schedule 2 (item 123): 1 Jan 2010 | -
-Freedom of Information Amendment (Reform) Act 2010 | 51, 2010 | 31 May 2010 | Schedule 5 (items 4-8) and Schedule 7: (m) | Sch. 7
+Intelligence Services Legislation Amendment Act 2005 | 128, 2005 | 4 Nov 2005 | Schedule 8 (items 13,14): 2 Dec 2005 | —
+Fair Work (State Referral and Consequential and Other Amendments) Act 2009 | 54, 2009 | 25 June 2009 | Schedule 5 (items 32, 73–75): (l) | —
+Disability Discrimination and Other Human Rights Legislation Amendment Act 2009 | 70, 2009 | 8 July 2009 | Schedule 2 (items 91, 92) and Schedule 3 (items 34–38, 119–166): 5 Aug 2009 | Sch. 3 (items 130, 148, 153, 155, 158)
+Fair Work Amendment (State Referrals and Other Measures) Act 2009 | 124, 2009 | 9 Dec 2009 | Schedule 2 (item 123): 1 Jan 2010 | —
+Freedom of Information Amendment (Reform) Act 2010 | 51, 2010 | 31 May 2010 | Schedule 5 (items 4–8) and Schedule 7: (m) | Sch. 7
 Financial Framework Legislation Amendment Act 2010 | 148, 2010 | 17 Dec 2010 | Schedule 1: 18 Dec 2010 | Sch. 1
-Statute Law Revision Act 2011 | 5, 2011 | 22 Mar 2011 | Schedule 6 (items 7-9): 19 Apr 2011 | -
-Sex and Age Discrimination Legislation Amendment Act 2011 | 40, 2011 | 20 June 2011 | Schedule 2 (items 7-10, 14): 29 July 2011 ( see F2011L01552) | Sch. 2 (item 14)
-Acts Interpretation Amendment Act 2011 | 46, 2011 | 27 June 2011 | Schedule 2 (items 163- 167) and Schedule 3 (items 10, 11): 27 Dec 2011 | Sch. 3 (items 10, 11)
+Statute Law Revision Act 2011 | 5, 2011 | 22 Mar 2011 | Schedule 6 (items 7–9): 19 Apr 2011 | —
+Sex and Age Discrimination Legislation Amendment Act 2011 | 40, 2011 | 20 June 2011 | Schedule 2 (items 7–10, 14): 29 July 2011 (see F2011L01552) | Sch. 2 (item 14)
+Acts Interpretation Amendment Act 2011 | 46, 2011 | 27 June 2011 | Schedule 2 (items 163–167) and Schedule 3 (items 10, 11): 27 Dec 2011 | Sch. 3 (items 10, 11)
 
 Australian Human Rights Commission Act 1986                   125
 
@@ -3188,27 +3587,27 @@ ComLaw Authoritative Act C2013C00274
 
 Endnotes
 
-Endnote 1-Legislation history
+Endnote 1—Legislation history
 
 Act | Number and year | Assent date | Commencement date | Application, saving and transitional provisions
 --- | --- | --- | --- | ---
-Australian Human Rights Commission Amendment (National Children's Commissioner) Act 2012 | 89, 2012 | 28 June 2012 | Schedule 1: 1 July 2012 Remainder: Royal Assent | Sch. 1 (items 7, 8)
-Statute Law Revision Act 2012 | 136, 2012 | 22 Sept 2012 | Schedule 1 (items 15, 16): Royal Assent | -
-Fair Work Amendment Act 2012 | 174, 2012 | 4 Dec 2012 | Schedule 9 (items 1260, 1261): 1 Jan 2013 | -
-Privacy Amendment (Enhancing Privacy Protection) Act 2012 | 197, 2012 | 12 Dec 2012 | Schedule 5 (item 147): [ see Endnote 3] | -
-Federal Circuit Court of Australia (Consequential Amendments) Act 2013 | 13, 2013 | 14 Mar 2013 | Schedule 1 (items 48- 50): 12 Apr 2013 Schedule 2 (item 1): (n) | -
+Australian Human Rights Commission Amendment (National Children’s Commissioner) Act 2012 | 89, 2012 | 28 June 2012 | Schedule 1: 1 July 2012; Remainder: Royal Assent | Sch. 1 (items 7, 8)
+Statute Law Revision Act 2012 | 136, 2012 | 22 Sept 2012 | Schedule 1 (items 15, 16): Royal Assent | —
+Fair Work Amendment Act 2012 | 174, 2012 | 4 Dec 2012 | Schedule 9 (items 1260, 1261): 1 Jan 2013 | —
+Privacy Amendment (Enhancing Privacy Protection) Act 2012 | 197, 2012 | 12 Dec 2012 | Schedule 5 (item 147): [see Endnote 3] | —
+Federal Circuit Court of Australia (Consequential Amendments) Act 2013 | 13, 2013 | 14 Mar 2013 | Schedule 1 (items 48–50): 12 Apr 2013; Schedule 2 (item 1): (n) | —
 
 Number and year | Gazettal or FRLI registration date | Commencement date | Application, saving and transitional provisions
 --- | --- | --- | ---
-2006 No. 50 | 17 Mar 2006 | Schedule 37: 27 Mar 2006 ( see r. 2(b)) | -
+2006 No. 50 | 17 Mar 2006 | Schedule 37: 27 Mar 2006 (see r. 2(b)) | —
 
-(a) The Australian Human Rights Commission Act 1986 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1987 , subsection 2(17) of which provides as follows:
+(a) The Australian Human Rights Commission Act 1986 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1987, subsection 2(17) of which provides as follows:
 
-- The amendment of the Human Rights and Equal Opportunity Commission Act 1986 made by this Act shall be deemed to have come into operation on the commencement of the Inspector-General of Intelligence and Security Act 1986 .
+(17) The amendment of the Human Rights and Equal Opportunity Commission Act 1986 made by this Act shall be deemed to have come into operation on the commencement of the Inspector-General of Intelligence and Security Act 1986.
 
-(b) The Australian Human Rights Commission Act 1986 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1988 , subsection 2(1) of which provides as follows:
+(b) The Australian Human Rights Commission Act 1986 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1988, subsection 2(1) of which provides as follows:
 
-- Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+(1) Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
 126            Australian Human Rights Commission Act 1986
 
@@ -3220,7 +3619,7 @@ ComLaw Authoritative Act C2013C00274
 
 Endnotes
 
-Endnote 1-Legislation history
+Endnote 1—Legislation history
 
 (c) The Australian Human Rights Commission Act 1986 was amended by section 5 only of the Defence Legislation Amendment Act 1990 , subsection 2(1) of which provides as follows: (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent. (d) The Australian Human Rights Commission Act 1986 was amended by the Qantas Sale Act 1992 , subsections 2(2), (5) and (6) of which provide as follows: (2)  Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation. (5)  If, on the 100% sale day, Part 3 of the Schedule has not commenced, then, on the day on which Part 7 of the Schedule commences, Parts 3 and 6 of the Schedule are taken to have been repealed. (6)  If a provision of this Act has not commenced before 31 August 1995, the provision is taken to have been repealed on that day. The Schedule (Parts 3 and 6) are taken to have been repealed on 31 August 1995. (e) The Qantas Sale Act 1992 was amended by the Schedule (item 17) only of the Qantas Sale Amendment Act 1994 , subsection 2(1) of which provides as follows: (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent. (f) The Australian Human Rights Commission Act 1986 was amended by Schedule 1 (items 520-523) only of the Public Employment (Consequential and Transitional) Amendment Act 1999 , subsections 2(1) and (2) of which provide as follows: (1)  In this Act, commencing time means the time when the Public Service Act 1999 commences. (2)  Subject to this section, this Act commences at the commencing time. (g) The Australian Human Rights Commission Act 1986 was amended by Schedule 3 (item 29) only of the Australian Security Intelligence Organisation Legislation Amendment Act 1999 , subsection 2(2) of which provides as follows: (2)  Subject to subsections (3) to (6), Schedule 3 commences immediately after the commencement of the other Schedules to this Act. The other Schedules to this Act commenced on Royal Assent. (h) The Australian Human Rights Commission Act 1986 was amended by Schedule 16 only of the Federal Magistrates (Consequential Amendments) Act 1999 , subsection 2(3) of which provides as follows:
 
@@ -3234,32 +3633,34 @@ ComLaw Authoritative Act C2013C00274
 
 Endnotes
 
-Endnote 1-Legislation history
+Endnote 1—Legislation history
 
-(i)
+(3) If Schedule 1 to the Human Rights Legislation Amendment Act (No. 1) 1999 commences after the commencement of section 1 of this Act, Schedule 16 to this Act commences immediately after the commencement of Schedule 1 to the Human Rights Legislation Amendment Act (No. 1) 1999.
 
-(j)
+Schedule 1 to the Human Rights Legislation Amendment Act (No. 1) 1999 commenced on 13 April 2000.
 
-(3)  If Schedule 1 to the Human Rights Legislation Amendment Act (No. 1) 1999 commences after the commencement of section 1 of this Act, Schedule 16 to this Act commences immediately after the commencement of Schedule 1 to the Human Rights Legislation Amendment Act (No. 1) 1999 . Schedule 1 to the Human Rights Legislation Amendment Act (No. 1) 1999 commenced on 13 April 2000. The Australian Human Rights Commission Act 1986 was amended by Schedule 32 only of the Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 , subsection 2(1)(a) of which provides as follows: (1)  Subject to this section, this Act commences at the later of the following times: (a)  immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 ; Item 15 commenced on 24 May 2001. The Australian Human Rights Commission Act 1986 was amended by Schedule 1 (item 21) only of the Statute Law Revision Act 2002 , subsection 2(1) (item 16) of which provides as follows: (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in
+(i) The Australian Human Rights Commission Act 1986 was amended by Schedule 32 only of the Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(1)(a) of which provides as follows:
 
-- column 2 of the table.
+(1) Subject to this section, this Act commences at the later of the following times:
+
+(a) immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
+
+Item 15 commenced on 24 May 2001.
+
+(j) The Australian Human Rights Commission Act 1986 was amended by Schedule 1 (item 21) only of the Statute Law Revision Act 2002, subsection 2(1) (item 16) of which provides as follows:
+
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
 #### Commencement information
---- | --- | ---
+
 Column 1 | Column 2 | Column 3
+Provision(s) | Commencement | Date/Details
+--- | --- | ---
 16. Schedule 1, item 21 | Immediately after item 15 of Schedule 16 to the Federal Magistrates (Consequential Amendments) Act 1999 commenced | 13 April 2000
 
-(k)
+(k) Subsection 2(1) (items 6 and 7) and (4) of the Age Discrimination (Consequential Provisions) Act 2004 provides as follows:
 
-Subsection 2(1) (items 6 and 7) and (4) of the
-
-(Consequential Provisions) Act 2004
-
-Age Discrimination
-
-provides as follows:
-
-- Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
 128            Australian Human Rights Commission Act 1986
 
@@ -3271,29 +3672,29 @@ ComLaw Authoritative Act C2013C00274
 
 Endnotes
 
-Endnote 1-Legislation history
+Endnote 1—Legislation history
 
 Provision(s) | Commencement | Date/Details
 --- | --- | ---
-6. Schedule 2, item 22 | Immediately after the commencement of Schedule 1 to the Australian Human Rights Commission Legislation Act 2004 , subject to subsection (4)
-7. Schedule 2, items 23 to 28 | The later of: (a) immediately after the commencement of the Age Discrimination Act 2004 ; and (b) immediately after the commencement of Schedule 1 to the Australian Human Rights Commission Legislation Act 2004
+6. Schedule 2, item 22 | Immediately after the commencement of Schedule 1 to the Australian Human Rights Commission Legislation Act 2004, subject to subsection (4) |
+7. Schedule 2, items 23 to 28 | The later of: (a) immediately after the commencement of the Age Discrimination Act 2004; and (b) immediately after the commencement of Schedule 1 to the Australian Human Rights Commission Legislation Act 2004 |
 
-- If the Age Discrimination Act 2004 does not commence before the commencement of item 21 of Schedule 1 to the Australian Human Rights Commission Legislation Act 2004 , item 22 of Schedule 2 to this Act does not commence at all.
+(4) If the Age Discrimination Act 2004 does not commence before the commencement of item 21 of Schedule 1 to the Australian Human Rights Commission Legislation Act 2004, item 22 of Schedule 2 to this Act does not commence at all.
 
-The Australian Human Rights Commission Legislation Bill 2004 was not enacted. Therefore the amendments made by Schedule 1 (items 22-25) did not commence.
+The Australian Human Rights Commission Legislation Bill 2004 was not enacted. Therefore the amendments made by Schedule 1 (items 22–25) did not commence.
 
 (l) Subsection 2(1) (items 13 and 17) of the Fair Work (State Referral and Consequential and Other Amendments) Act 2009 provides as follows:
 
-- Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-(m) Subsection 2(1) (item 7) of the Freedom of Information Amendment (Reform) Act 2010 provides as follows:
-
-- Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 Provision(s) | Commencement | Date/Details
 --- | --- | ---
-13. Schedule 5, items 32 to 64 | Immediately after the commencement of Part 2-4 of the Fair Work Act 2009 . | 1 July 2009
-17. Schedule 5, items 70 to 79 | Immediately after the commencement of Part 2-4 of the Fair Work Act 2009 . | 1 July 2009
+13. Schedule 5, items 32 to 64 | Immediately after the commencement of Part 2-4 of the Fair Work Act 2009. | 1 July 2009
+17. Schedule 5, items 70 to 79 | Immediately after the commencement of Part 2-4 of the Fair Work Act 2009. | 1 July 2009
+
+(m) Subsection 2(1) (item 7) of the Freedom of Information Amendment (Reform) Act 2010 provides as follows:
+
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 Provision(s) | Commencement | Date/Details
 --- | --- | ---
@@ -3309,12 +3710,19 @@ ComLaw Authoritative Act C2013C00274
 
 Endnotes
 
-Endnote 1-Legislation history
+Endnote 1—Legislation history
 
 Provision(s) | Commencement | Date/Details
 --- | --- | ---
-(n) | Subsection 2(1) (items 2 and 3) of the Federal Circuit Court of Australia (Consequential Amendments) Act 2013 provides as follows: (1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+2010.
+However, if section 3 of the Australian Information Commissioner Act 2010 does not commence, the provision(s) do not commence at all.
+
+(n) Subsection 2(1) (items 2 and 3) of the Federal Circuit Court of Australia (Consequential Amendments) Act 2013 provides as follows:
+
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
 Provision(s) | Commencement | Date/Details
+--- | --- | ---
 2. Schedule 1 | At the same time as item 1 of Schedule 1 to the Federal Circuit Court of Australia Legislation Amendment Act 2012 commences. | 12 April 2013
 3. Schedule 2 | Immediately after the commencement of the provision(s) covered by table item 2. | 12 April 2013
 
@@ -3328,9 +3736,9 @@ ComLaw Authoritative Act C2013C00274
 
 Endnotes
 
-Endnote 2-Amendment history
+Endnote 2—Amendment history
 
-### Endnote 2-Amendment history
+### Endnote 2—Amendment history
 
 This endnote sets out the amendment history of the Australian Human Rights Commission Act 1986.
 
@@ -3351,7 +3759,9 @@ Heading to s. 7 ............................... | rs. No. 70, 2009
 s. 7 ................................................. | am. No. 70, 2009; No. 148, 2010
 s. 8 ................................................. | am. No. 119, 1988; Nos. 132 and 180, 1992; No. 59, 1995; No. 133, 1999; No. 2, 2000; No. 40, 2011; No. 89, 2012
 s. 8A .............................................. | ad. No. 59, 1995
+am. No. 133, 1999
 s. 8B .............................................. | ad. No. 59, 1995
+am. No. 70, 2009
 Division 2
 Heading to Div. 2 of Part II ........... | rs. No. 59, 1995
 s. 10A ............................................ | ad. No. 59, 1995
@@ -3367,6 +3777,8 @@ ComLaw Authoritative Act C2013C00274
 [[START OF PAGE 140]]
 
 Endnotes
+
+Endnote 2—Amendment history
 
 ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted exp. = expired or ceased to have effect
 --- | ---
@@ -3402,8 +3814,6 @@ Heading to s. 43A .......................... | am. No. 2, 2000; No. 51, 2010
 s. 43A ............................................ | ad. No. 59, 1995
 am. No. 2, 2000; No. 51, 2010
 
-Endnote 2-Amendment history
-
 132            Australian Human Rights Commission Act 1986
 
 ComLaw Authoritative Act C2013C00274
@@ -3414,9 +3824,9 @@ ComLaw Authoritative Act C2013C00274
 
 Endnotes
 
-Endnote 2-Amendment history
+Endnote 2—Amendment history
 
-ad. = added or inserted am. = amended rep. = repealed exp. = expired or ceased to have effect
+ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted exp. = expired or ceased to have effect
 --- | ---
 Provision affected | How affected
 s. 44 ............................................... | am. No. 59, 1995
@@ -3460,33 +3870,41 @@ ComLaw Authoritative Act C2013C00274
 
 Endnotes
 
-Endnote 2-Amendment history
+Endnote 2—Amendment history
 
-ad. = added or inserted am. exp. = expired or ceased to | = amended rep. = repealed rs. = repealed have effect
+ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted exp. = expired or ceased to have effect
 --- | ---
+Provision affected | How affected
 s. 46MD ......................................... | ad. No. 89, 2012
 s. 46ME ......................................... | ad. No. 89, 2012
-Division 3 s. 46MF | ......................................... ad. No. 89, 2012
-s. 46MG ......................................... s. 46MH ......................................... s. 46MI .......................................... s. 46MJ .......................................... s. 46MK ......................................... Division 4 | ad. No. 89, 2012 ad. No. 89, 2012
-ad. No. 89, 2012
-ad. No. 89, 2012
-ad. No. 89, 2012
-s. 46MN Part IIB Part IIB Division 1 | ad. No. 89, 2012 ......................................... ad. No. 89, 2012
-s. 46ML ......................................... s. 46MM ........................................ | ad. No. 89, 2012
-......................................... | ad. No. 133, 1999
-ss. 46P, 46PA-46PE ...................... s. 46PF ........................................... | ad. No. 133, 1999 ad. No. 133, 1999
-Note to s. 49PF(3) ......................... s. 46PG .......................................... | am. No. 70, 2009 am. No. 40, 2004
-s. 46PH .......................................... | ad. No. 133, 1999 ad. No. 133, 1999 am. No. 194, 1999; No. 13, 2013
-ss. 46PI-46PK | ............................... ad. No. 133, 1999 ad. No. 133, 1999
-ss. 46PL, 46PM | am. No. 24, 2001
-s. 46PN | ad. No. 133, 1999
-Division 2 | rs. No. 194, 1999; No. 13, 2013
-Heading to Div. 2 of Part IIB
-Heading to s. 46PO | am. No. 194, 1999
-........................
-.........
-..........................................
-.............................
+Division 3
+s. 46MF ......................................... | ad. No. 89, 2012
+s. 46MG ......................................... | ad. No. 89, 2012
+s. 46MH ......................................... | ad. No. 89, 2012
+s. 46MI .......................................... | ad. No. 89, 2012
+s. 46MJ .......................................... | ad. No. 89, 2012
+s. 46MK ......................................... | ad. No. 89, 2012
+Division 4
+s. 46ML ......................................... | ad. No. 89, 2012
+s. 46MM ........................................ | ad. No. 89, 2012
+s. 46MN ......................................... | ad. No. 89, 2012
+Part IIB
+Part IIB ......................................... | ad. No. 133, 1999
+Division 1
+ss. 46P, 46PA–46PE ...................... | ad. No. 133, 1999
+s. 46PF ........................................... | ad. No. 133, 1999
+am. No. 70, 2009
+Note to s. 49PF(3) ......................... | am. No. 40, 2004
+s. 46PG .......................................... | ad. No. 133, 1999
+s. 46PH .......................................... | ad. No. 133, 1999
+am. No. 194, 1999; No. 13, 2013
+ss. 46PI–46PK ............................... | ad. No. 133, 1999
+ss. 46PL, 46PM ............................. | ad. No. 133, 1999
+am. No. 24, 2001
+s. 46PN .......................................... | ad. No. 133, 1999
+Division 2
+Heading to Div. 2 of Part IIB......... | rs. No. 194, 1999; No. 13, 2013
+Heading to s. 46PO........................ | am. No. 194, 1999
 
 134            Australian Human Rights Commission Act 1986
 
@@ -3498,7 +3916,7 @@ ComLaw Authoritative Act C2013C00274
 
 Endnotes
 
-Endnote 2-Amendment history
+Endnote 2—Amendment history
 
 ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted exp. = expired or ceased to have effect
 --- | ---
@@ -3544,7 +3962,7 @@ ComLaw Authoritative Act C2013C00274
 
 Endnotes
 
-Endnote 2-Amendment history
+Endnote 2—Amendment history
 
 ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted exp. = expired or ceased to have effect
 --- | ---
@@ -3569,9 +3987,9 @@ ComLaw Authoritative Act C2013C00274
 
 Endnotes
 
-Endnote 3-Uncommenced amendments
+Endnote 3—Uncommenced amendments
 
-### Endnote 3-Uncommenced amendments
+### Endnote 3—Uncommenced amendments
 
 This endnote sets out amendments of the Australian Human Rights Commission Act 1986 that have not yet commenced.
 
@@ -3581,7 +3999,7 @@ This endnote sets out amendments of the Australian Human Rights Commission Act 1
 
 ###### 147  Paragraph 20(4A)(b)
 
-Omit -in the performance of the functions referred to in paragraph 27(1)(a) or 28(1)(b) or (c) of the Privacy Act 1988 ‖, substitute -under the Privacy Act 1988 as an interference with the privacy of an individual under subsection 13(1) or (4) of that Act‖.
+Omit “in the performance of the functions referred to in paragraph 27(1)(a) or 28(1)(b) or (c) of the Privacy Act 1988”, substitute “under the Privacy Act 1988 as an interference with the privacy of an individual under subsection 13(1) or (4) of that Act”.
 
 Australian Human Rights Commission Act 1986                   137
 
@@ -3593,9 +4011,9 @@ ComLaw Authoritative Act C2013C00274
 
 Endnotes
 
-Endnote 4-Misdescribed amendments [none]
+Endnote 4—Misdescribed amendments [none]
 
-### Endnote 4-Misdescribed amendments [none]
+### Endnote 4—Misdescribed amendments [none]
 
 There are no misdescribed amendments.
 
