@@ -80,8 +80,6 @@ I look forward to seeing Irish higher education realise its rich potential and c
 
 Yours sincerely
 
-Yours sincerely
-
 Colin Hunt, Chairman
 
 3
@@ -96,7 +94,7 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 The current report presents a vision of an Irish higher education sector that can successfully meet the many social, economic and cultural challenges that face us over the coming decades, and meet its key roles of teaching and learning, research, scholarship, and engagement with wider society.
 
-For a variety of reasons, Irish higher education is now at a point of transition: the number of people entering the system is growing and the profile of students is changing. Unemployment and changing patterns of work bring new urgency and a much greater emphasis on lifelong learning and upskilling. A high proportion of the skills that we need now in the workforce are high-order knowledge-based skills,  many of which can be acquired only in higher education institutions. The importance of highquality research to the teaching mission and to underpinning socio-economic development has grown significantly over the past decade and will continue to do so over the next decade. These changes also pose additional challenges to staff, and in some cases the physical infrastructure is under pressure.
+For a variety of reasons, Irish higher education is now at a point of transition: the number of people entering the system is growing and the profile of students is changing. Unemployment and changing patterns of work bring new urgency and a much greater emphasis on lifelong learning and upskilling. A high proportion of the skills that we need now in the workforce are high-order knowledge-based skills, many of which can be acquired only in higher education institutions. The importance of high-quality research to the teaching mission and to underpinning socio-economic development has grown significantly over the past decade and will continue to do so over the next decade. These changes also pose additional challenges to staff, and in some cases the physical infrastructure is under pressure.
 
 In the face of these major challenges, doing nothing is not an option and leaving it too late is not an option either.  We now have a generational opportunity to transform the Irish higher education landscape, to widen participation to include those previously excluded, to leverage the traditionally high value we place on education, to get ready for the job opportunities that will come with economic recovery, and to deliver knowledge and learning of lasting cultural and social significance.
 
@@ -126,11 +124,11 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 PART 2: The mission of higher education in Ireland, looks primarily at how we can pursue ambitious objectives in relation to the three core roles of higher education - teaching and learning, research, and engagement - and at how, collectively, these can frame a realisable vision for the future of higher education.
 
-■ ■ Chapter 3, Teaching and learning, deals with the first of the three interconnected core roles of higher education (teaching and learning) and explores how we can ensure that higher education students can continue to have an excellent teaching and learning experience, informed by up-todate research and facilitated by a high-quality learning environment, with state-of-the-art learning resources.
+■ ■ Chapter 3, Teaching and learning, deals with the first of the three interconnected core roles of higher education (teaching and learning) and explores how we can ensure that higher education students can continue to have an excellent teaching and learning experience, informed by up-to-date research and facilitated by a high-quality learning environment, with state-of-the-art learning resources.
 
 ■ ■ Chapter 4, Research, deals with the second of the three core roles - research. It sets out the vision for research in Irish higher education for the years ahead, and details what we will need to realise that vision, in terms of investment and capacity-building. It also describes the intimate relationship between research and teaching, and the economic importance of linkages between research and enterprise.
 
-■ ■ Chapter 5, Engagement with wider society, examines the third of the three core roles engagement - how the higher education system addresses the full range of its responsibilities towards society, including business, local communities, the wider education sector and the wider international world. It also deals with the education sector's role in providing intellectual leadership and acting as a source of authoritative opinion.
+■ ■ Chapter 5, Engagement with wider society, examines the third of the three core roles – engagement – how the higher education system addresses the full range of its responsibilities towards society, including business, local communities, the wider education sector and the wider international world. It also deals with the education sector's role in providing intellectual leadership and acting as a source of authoritative opinion.
 
 ■ ■ Chapter 6, Internationalising higher education, describes how higher education increasingly involves collaboration between institutions in different countries, students following all or parts of their studies abroad, and staff movements between institutions. It outlines the opportunities for Irish educational institutions in responding to this global trend.
 
@@ -144,7 +142,7 @@ PART 3: Governance, Structures and Funding, examines the structural reforms that
 
 - Appendix A expands the acronyms and abbreviations used in this document.
 
-- Appendix B sets out the  T erms of Reference for the Strategy Group.
+- Appendix B sets out the Terms of Reference for the Strategy Group.
 
 - Appendix C lists the membership of the Strategy Group.
 
@@ -160,6 +158,38 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 # Contents
 
+Executive summary. . . . . . . . . . . . . . . . . . . . . . . . .9
+Summary of recommendations . . . . . . . . . . . . . . . . . . . 17
+The vision for higher education in Ireland . . . . . . . . . . . . . . 26
+PART 1: The context for a new national strategy for higher education . 29
+1. Higher education in a changing society . . . . . . . . . . . . . . 30
+1.1 Higher education and economic renewal. . . . . . . . . . . . . . . . . . .30
+1.2 Increasing participation – why we need more graduates. . . . . . . . . . . .33
+1.3 Broadening participation in Irish higher education . . . . . . . . . . . . . 34
+1.4 Future skills: graduates for the 21st century. . . . . . . . . . . . . . . . . .35
+1.5 Research performance. . . . . . . . . . . . . . . . . . . . . . . . . . . .37
+1.6 New challenges: new approaches. . . . . . . . . . . . . . . . . . . . . . .39
+1.7 Efficiency and productivity . . . . . . . . . . . . . . . . . . . . . . . . 40
+1.8 Sustainable funding . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+2. Planning for future demand. . . . . . . . . . . . . . . . . . . . . 44
+2.1 Quantifying the demand for higher education . . . . . . . . . . . . . . . 44
+2.2 The upskilling challenge. . . . . . . . . . . . . . . . . . . . . . . . . .45
+2.3 Improving the interface between higher education and further
+education & training. . . . . . . . . . . . . . . . . . . . . . . . . . . . .48
+PART 2: The mission of higher education . . . . . . . . . . . . . . 51
+3. Teaching and learning. . . . . . . . . . . . . . . . . . . . . . . 52
+3.1 Teaching and learning: changes and challenges . . . . . . . . . . . . . . . 52
+3.2 Involvement of students in course planning, feedback and evaluation. . . . . .53
+3.3 Integrating research with teaching and learning. . . . . . . . . . . . . . . .53
+3.4 Flexibility of provision. . . . . . . . . . . . . . . . . . . . . . . . . . .54
+3.5 Transition into higher education – access and induction. . . . . . . . . . . .55
+3.6 The first-year experience . . . . . . . . . . . . . . . . . . . . . . . . 56
+3.7 Learning outcomes – the inclusion of generic skills. . . . . . . . . . . . . .56
+3.8 Learning outcomes and quality assurance. . . . . . . . . . . . . . . . . . .58
+3.9 Transition to work – work placement and service learning . . . . . . . . . 58
+3.10 Development of teaching skills. . . . . . . . . . . . . . . . . . . . . . . .59
+3.11 Postgraduate curriculum and PhD training. . . . . . . . . . . . . . . . . .60
+3.12 Teaching and learning: summary of recommendations. . . . . . . . . . . . .61
 6
 
 [[END OF PAGE 8]]
@@ -168,6 +198,41 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
+4. Research . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+4.1 Context. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .63
+4.2 The Strategy for Science, Technology and Innovation 2006-13 . . . . . . . 64
+4.3 The Innovation Task Force Report (2010) . . . . . . . . . . . . . . . . 65
+4.4 The next steps. . . . . . . . . . . . . . . . . . . . . . . . . . . .66
+4.5 Priority for higher education research . . . . . . . . . . . . . . . . . . 67
+4.6 Research: summary of recommendations. . . . . . . . . . . . . . . . . . .72
+5. Engagement with the wider society. . . . . . . . . . . . . . . . . 74
+5.1 What do we mean by ‘engagement’?. . . . . . . . . . . . . . . . . . . . .74
+5.2 Engaging with enterprise . . . . . . . . . . . . . . . . . . . . . . . . 75
+5.3 Engagement with community. . . . . . . . . . . . . . . . . . . . . . .76
+5.4 Engagement with other education and training providers. . . . . . . . . . .77
+5.5 Engagement as a core mission element. . . . . . . . . . . . . . . . . . . .77
+5.6 Engagement with the wider society: summary of recommendations.. . . . . .79
+6. Internationalising higher education . . . . . . . . . . . . . . . . 80
+6.1 Context. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .80
+6.2 What the internationalisation of higher education involves . . . . . . . . . 81
+6.3 The benefits of enhanced internationalisation. . . . . . . . . . . . . . . . .81
+6.4 A challenging and competitive global environment. . . . . . . . . . . . . .82
+6.5 The opportunity for Ireland. . . . . . . . . . . . . . . . . . . . . . . .82
+6.6 Globally oriented and internationally competitive institutions. . . . . . . . .83
+6.7 Integration and student supports. . . . . . . . . . . . . . . . . . . . . .84
+6.8 Growth and sustainability . . . . . . . . . . . . . . . . . . . . . . . . 84
+6.9 Inter-institutional collaboration . . . . . . . . . . . . . . . . . . . . . 84
+6.10 Funding. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .85
+6.11 Internationalising higher education: summary of recommendations . . . . . 85
+PART 3: Governance, structures and funding . . . . . . . . . . . . . . 87
+7. System governance. . . . . . . . . . . . . . . . . . . . . . . . . 88
+7.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+7.2 Role of Government and of the Minister. . . . . . . . . . . . . . . . . . .88
+7.3 The whole of government agenda. . . . . . . . . . . . . . . . . . . . . .89
+7.4 The Higher Education Authority . . . . . . . . . . . . . . . . . . . . . 89
+7.5 Governance structures of higher education institutions . . . . . . . . . . . 92
+7.6 The role and responsibilities of Qualifications and Quality Assurance Ireland. .93
+7.7 System governance: summary of recommendations. . . . . . . . . . . . . .95
 7
 
 [[END OF PAGE 9]]
@@ -176,6 +241,32 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
+8. Developing a coherent framework for higher education in Ireland . . 96
+8.1 Context: developing policy . . . . . . . . . . . . . . . . . . . . . . 96
+8.2 Framework for change. . . . . . . . . . . . . . . . . . . . . . . . . .97
+8.3 Retaining institutional diversity . . . . . . . . . . . . . . . . . . . . 98
+8.4 Regional cluster approach. . . . . . . . . . . . . . . . . . . . . . . .98
+8.5 Consolidation across the higher education system. . . . . . . . . . . . . .99
+8.6 The evolution of the university sector . . . . . . . . . . . . . . . . . . 100
+8.7 The evolution of the institutes of technology. . . . . . . . . . . . . . . .101
+8.8 System safeguards and review mechanisms . . . . . . . . . . . . . . . . 106
+8.9 Engagement between the HEA and the individual institutions. . . . . . . . .106
+8.10 Rationalisation of provision . . . . . . . . . . . . . . . . . . . . . . 107
+8.11 Independent and private providers. . . . . . . . . . . . . . . . . . . . .107
+8.12 Coherent framework: summary of recommendations. . . . . . . . . . . . .109
+9. Establishing a sustainable and equitable funding model . . . . . . . 110
+9.1 The funding implications of the scale of future demand. . . . . . . . . . . .110
+9.2 Widening the funding base for higher education . . . . . . . . . . . . . . 111
+9.3 Aligning public investment with strategic objectives. . . . . . . . . . . . . .114
+9.4 Additional income streams. . . . . . . . . . . . . . . . . . . . . . . .117
+9.5 Effective deployment of resources in higher education . . . . . . . . . . . 117
+9.6 Sustainable and equitable funding model: summary of recommendations. . . .120
+Implementation. . . . . . . . . . . . . . . . . . . . . . . . . . . 123
+Appendices . . . . . . . . . . . . . . . . . . . . . . . . . . . . 125
+Appendix A: Acronyms and abbreviations. . . . . . . . . . . . . . . . . . . . .126
+Appendix B: Terms of reference . . . . . . . . . . . . . . . . . . . . . . . 128
+Appendix C: Membership of the Strategy Group. . . . . . . . . . . . . . . . .129
+Appendix D: Consultation process. . . . . . . . . . . . . . . . . . . . . . .130
 8
 
 [[END OF PAGE 10]]
@@ -194,7 +285,7 @@ The development of the higher education system in the years to 2030 will take pl
 
 Higher education is  central  to  the  economic  renewal  we  need  to  support individual well-being and social development. But it also plays a fundamental role in fostering a spirit of inquiry and a strong sense of the value of learning among students; it is the positive engagement that students have with higher education that stimulates the imagination and makes innovation possible. The quality of their learning experiences and the environment in which students learn will shape the future development of our society.  The people who enter higher education in the coming decades are the job creators, policy-makers, social innovators and business leaders of the future.  They are also citizens who will add to the richness of society - as parents, community leaders and teachers - and in their chosen area of work they will be the productive engine of a vibrant and prosperous economy.
 
-Irish higher education has seen exceptional development in the recent past moving from a system that was confined to a social elite to one of widespread participation.  Our  graduates  are  highly  regarded  and  are  among  the  most employable  in  Europe. The  scale  of  investment  in  research  has  expanded considerably and the quality and reputation of Irish research is now achieving impact  internationally.  These  developments  have  all  had  an  enormously positive impact across all social groups, to the benefit of individuals, society and the wider economy.
+Irish higher education has seen exceptional development in the recent past – moving from a system that was confined to a social elite to one of widespread participation. Our graduates are highly regarded and are among the most employable in Europe. The scale of investment in research has expanded considerably and the quality and reputation of Irish research is now achieving
 
 9
 
@@ -203,6 +294,8 @@ Irish higher education has seen exceptional development in the recent past movin
 [[START OF PAGE 12]]
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
+
+impact internationally. These developments have all had an enormously positive impact across all social groups, to the benefit of individuals, society and the wider economy.
 
 This strategy is framed against a range of new challenges that are facing higher education.  The capacity of higher education has doubled over the past twenty years and will have to double again over the next twenty. Those entering the system now and in the future will have very diverse learning needs, and many will be 'mature' students. Higher education itself will need to innovate and develop if it is to provide flexible opportunities for larger and more diverse student cohorts. It will need to do this while simultaneously enhancing quality and relevance, and connecting better with the wider needs of society and the economy, while operating in a more competitive globalised environment.
 
@@ -214,7 +307,7 @@ Higher education will support these changes through innovative approaches to res
 
 ## Participation
 
-If  Ireland  is  to  achieve  its  ambitions  for  recovery  and  development  within an innovation-driven economy, it is essential to create and enhance human capital  by  expanding  participation  in  higher  education. The  scale  of  the projected widening and growth in participation over the period of this strategy demands that Ireland's higher education system become much more flexible in provision in both time and place, and that it facilitates transfer and progression through all levels of the system. There remain significant challenges in this area: successive reports have recognised the relatively poor performance of our system in the area of lifelong learning, while the requirement for upgrading and changing of employee skills and competencies is becoming ever greater. Changes to system funding and operation will be needed in order to enable the institutions to respond to these needs by increasing the variety and diversity of their provision and improvements in the interface between higher education and  further  education  and  training  will  be  necessary  to  support  enhanced progression opportunities.
+If Ireland is to achieve its ambitions for recovery and development within an innovation-driven economy, it is essential to create and enhance human capital by expanding participation in higher education. The scale of the
 
 10
 
@@ -223,6 +316,8 @@ If  Ireland  is  to  achieve  its  ambitions  for  recovery  and  development  w
 [[START OF PAGE 13]]
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
+
+projected widening and growth in participation over the period of this strategy demands that Ireland's higher education system become much more flexible in provision in both time and place, and that it facilitates transfer and progression through all levels of the system. There remain significant challenges in this area: successive reports have recognised the relatively poor performance of our system in the area of lifelong learning, while the requirement for upgrading and changing of employee skills and competencies is becoming ever greater. Changes to system funding and operation will be needed in order to enable the institutions to respond to these needs by increasing the variety and diversity of their provision and improvements in the interface between higher education and further education and training will be necessary to support enhanced progression opportunities.
 
 ## Quality of the student experience
 
@@ -254,7 +349,7 @@ Future research funding should be allocated according to these principles, and a
 
 ## Engagement
 
-Higher  education  institutions  should  have  open  engagement  with  their community and wider society and this should infuse every aspect of their mission.  Outward-facing  systems  and  structures  should  be  embedded  into institutional activity , so that there are inward and outward flows of knowledge, staff, students and ideas between each institution and its external community.
+Higher education institutions should have open engagement with their community and wider society and this should infuse every aspect of their mission. Outward-facing systems and structures should be embedded into
 
 12
 
@@ -264,7 +359,9 @@ Higher  education  institutions  should  have  open  engagement  with  their com
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-Higher education has the capacity to engage more intensely than heretofore with  wider  society  by  providing  intellectual  leadership  and  authoritative opinion  across  a  range  of  academic  disciplines,  the  arts,  business  and  areas of  public  discourse. W orking  in  our  higher  education  institutions,  we  have a great number of people who can make very valuable contributions to the community  and  to  wider  civic  life  in  many  different  ways. These  include scientists,  engineers,  artists,  and  expert  practitioners  in  the  humanities  and social sciences. We need to ensure that the intellectual autonomy that makes such engagement possible remains in place.
+institutional activity, so that there are inward and outward flows of knowledge, staff, students and ideas between each institution and its external community.
+
+Higher education has the capacity to engage more intensely than heretofore with wider society by providing intellectual leadership and authoritative opinion across a range of academic disciplines, the arts, business and areas of public discourse. Working in our higher education institutions, we have a great number of people who can make very valuable contributions to the community and to wider civic life in many different ways. These include scientists, engineers, artists, and expert practitioners in the humanities and social sciences. We need to ensure that the intellectual autonomy that makes such engagement possible remains in place.
 
 ## Internationalisation
 
@@ -276,7 +373,7 @@ The ambitious vision and objectives set out for the development of Irish higher 
 
 ## Governance and leadership
 
-At the heart of this strategy is the recognition that a diverse range of strong, autonomous institutions is essential if the overall system is to respond effectively to  evolving  and  unpredictable  societal  needs.  Funding  and  operational  autonomy must be matched by a corresponding level of accountability for performance against clearly articulated expectations.  This requires well-developed structures to enable national priorities to be identified and communicated, as well as strong  mechanisms  for  ongoing  review  and  evaluation  of  performance  at system and institutional levels.
+At the heart of this strategy is the recognition that a diverse range of strong, autonomous institutions is essential if the overall system is to respond effectively
 
 13
 
@@ -286,6 +383,8 @@ At the heart of this strategy is the recognition that a diverse range of strong,
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
+to evolving and unpredictable societal needs. Funding and operational autonomy must be matched by a corresponding level of accountability for performance against clearly articulated expectations. This requires well-developed structures to enable national priorities to be identified and communicated, as well as strong mechanisms for ongoing review and evaluation of performance at system and institutional levels.
+
 A new contractual relationship or service level agreement between the State and the higher education institutions should be established, as part of a wider strategic dialogue, and this should be used to ensure that the requirements for performance, autonomy and accountability are aligned. Through this process, institutional strategies will be defined and aligned with national priorities.
 
 Appropriate  cross-government  structures  should  be  used  to  develop  the national priorities for higher education and to oversee their implementation. A reformed Higher Education Authority should have responsibility, on behalf of  Government,  for  engaging  with  institutions  to  enable  them  collectively to  meet  the  national  priorities,  without  wasteful  duplication. This  will  be supported by the collection of full, transparent and comparative data across the system which will form the basis for enlightened engagement with the institutions.  The  quality  assurance  system  overseen  and  regulated  by  the new Qualifications  and  Quality Assurance  Ireland  agency  will  also  inform this  engagement.  Funding decisions should be made in the context of the institutions' performance against identified and agreed targets as part of the service level agreement or contract.
@@ -294,7 +393,7 @@ The new roles and relationships will require enhanced institutional capacity for
 
 ## Structure of the system
 
-The  structure  of  higher  education  is  already  evolving  as  institutions  seek to  respond  more  effectively  to  Ireland's  innovation  requirements.  These developments have the potential to create new system strength through the pooling of expertise, knowledge and resources, and through the exploitation of synergies to realise the full potential of Irish talent and innovation. This energy now needs to be harnessed to address the goals of this strategy. The system needs to evolve within a clear framework that is aimed at developing a coherent set of higher education institutions, each of significant strength, scale and capacity and with complementary and diverse missions that together meet individual, enterprise and societal needs.
+The structure of higher education is already evolving as institutions seek to respond more effectively to Ireland's innovation requirements. These developments have the potential to create new system strength through the pooling of expertise, knowledge and resources, and through the exploitation of synergies to realise the full potential of Irish talent and innovation. This energy now needs to be harnessed to address the goals of this strategy. The system needs to evolve within a clear framework that is aimed at developing a
 
 14
 
@@ -304,6 +403,8 @@ The  structure  of  higher  education  is  already  evolving  as  institutions  
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
+coherent set of higher education institutions, each of significant strength, scale and capacity and with complementary and diverse missions that together meet individual, enterprise and societal needs.
+
 The system should be strengthened by the development of regional clusters of collaborating institutions (universities, institutes of technology and other providers), and by institutional consolidation that will result in a smaller number of larger institutions. There should be a particular focus on encouraging the emergence of stronger amalgamated institutes of technology. Central to the envisaged regional cluster model will be universities and amalgamated institutes of technology operating as collaborative partners to deliver on jointly agreed strategic objectives. The diversity of mission that has served Ireland well to date should be maintained.
 
 The development and evolution  of  institutes  of  technology  into  a  smaller number of stronger amalgamated institutes should be promoted in order to advance  system  capacity  and  performance.  Performance  criteria  for  these amalgamated  institutes  should  focus  on  their  distinct  mission,  and,  based on  demonstrated  strong  performance  against  mission-relevant  criteria,  it  is envisaged that some could apply for redesignation as technological universities. However, there  is  no  case  for  approval  of  any  new  universities  within  the meaning  of  the  Universities Act  1997. Any  such  move  would  reduce  the diversity  in  the  overall  system  and  have  a  negative  impact  on  its  ability  to respond to the country's innovation needs and development opportunities.
@@ -312,7 +413,7 @@ The development and evolution  of  institutes  of  technology  into  a  smaller 
 
 Developing the Irish higher education system to meet the identified need for increased capacity and improved performance raises the major issue of funding. The required growth in capacity cannot be achieved without compromising the  equally  necessary  quality  objectives,  unless  it  is  aligned  with  efficiency reforms, a broadening of the funding base, and reforms in funding approaches.
 
-Consolidation, economies of scale, greater productivity and commercial activity can help to make the current levels of funding go further, but international experience suggests that their impact would be relatively minor. Nor, given the scale of our ambitions and current budgetary constraints, can we reasonably expect the required level of costs to be met solely by increased exchequer funding. The only realistic  option  to  support  growth  in  participation  is  to require students or graduates to directly share in the cost of their education, reflecting  the  considerable  private  returns  that  they  can  expect  to  enjoy . A
+Consolidation, economies of scale, greater productivity and commercial activity can help to make the current levels of funding go further, but international experience suggests that their impact would be relatively minor. Nor, given the scale of our ambitions and current budgetary constraints, can we reasonably expect the required level of costs to be met solely by increased exchequer funding. The only realistic option to support growth in participation is to require students or graduates to directly share in the cost of their education, reflecting the considerable private returns that they can expect to enjoy. A
 
 15
 
@@ -326,9 +427,9 @@ direct student contribution, based on a combination of upfront fees and an incom
 
 Higher education institutions need to identify and engage with a broader base of  funding  sources,  and  reduce  their  strong  relative  reliance  on  exchequer funding while improving the relevance and quality of their education and research. This should be linked to a more responsive and open engagement with key stakeholders, particularly students and enterprise, and a drive to find new ways to link higher education research and innovation capacity to the needs of the public and private sectors.
 
-To enable institutions to meet participation, quality and sustainability objectives, it  will  be  necessary  to  reform  the  core  grant  funding  model  for  higher  education institutions.  In  future,  all  higher  education  institutions  should  be  funded through an allocation formula that provides core funding for all students full- or part-time, on- or off-campus. This should be complemented by more flexible working arrangements and an annualised delivery of contracted work loads by academics as a means of advancing both responsiveness and efficiency.
+To enable institutions to meet participation, quality and sustainability objectives, it will be necessary to reform the core grant funding model for higher education institutions. In future, all higher education institutions should be funded through an allocation formula that provides core funding for all students – full- or part-time, on- or off-campus. This should be complemented by more flexible working arrangements and an annualised delivery of contracted work loads by academics as a means of advancing both responsiveness and efficiency.
 
-Continued  expansion  of  student  numbers  should  be  contingent  on  the introduction  of  additional  revenue  streams  and  new  ways  of  working. The faster the pace of delivery of the required reforms, the stronger will be the prospects of maintaining quality while growing enrolment.  An increase in nonexchequer funding through student contributions will alleviate this pressure; but before the introduction of such a model, it is very important to ensure the overall sustainability of the system and to manage growth in such a way that the quality is maintained in the educational and research outcomes and in the student experience.
+Continued expansion of student numbers should be contingent on the introduction of additional revenue streams and new ways of working. The faster the pace of delivery of the required reforms, the stronger will be the prospects of maintaining quality while growing enrolment. An increase in non-exchequer funding through student contributions will alleviate this pressure; but before the introduction of such a model, it is very important to ensure the overall sustainability of the system and to manage growth in such a way that the quality is maintained in the educational and research outcomes and in the student experience.
 
 ## The importance of implementation
 
@@ -436,8 +537,6 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-13
-
 Research
 
 ### 12 Public research funding should be prioritised and better coordinated and  underpinned  by  effective  foresight,  review  and  performance measurement systems.
@@ -456,7 +555,7 @@ Research
 
 ■ ■ Ensure a balance between different types of research from fundamental to strategic and applied, and from single investigator to large multi-disciplinary teams working in partnership with other relevant players .
 
-### Knowledge  transfer  should  be  better  embedded  into  institutional activity and rewarded accordingly.  The commercialisation of intellectual property  from  publicly-funded  research  should  primarily  provide  a gross return to the economy.
+### 13 Knowledge transfer should be better embedded into institutional activity and rewarded accordingly. The commercialisation of intellectual property from publicly-funded research should primarily provide a gross return to the economy.
 
 ■ ■ A national IP protocol should be developed and structures agreed to facilitate speedy commercialisation of IP from all higher education institutions.
 
@@ -500,8 +599,6 @@ In addition to these actions, a national survey of employers should be taken by 
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-18
-
 ## System governance
 
 ### 17 Ireland's  autonomous  institutions  should  be  held  accountable  for  their performance to the State on behalf of Irish citizens.
@@ -514,7 +611,7 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 ■ ■ The  accountability  framework  for  the  system  should  be  underpinned  by  the availability of a fully comparable system database with data on student and staff profiles, efficiency and other indicators that will aid in research on and evaluation of public policy in higher education and inform the HEA during the strategic dialogue process.
 
-### Governance structures should be reformed at both institutional and system levels.
+### 18 Governance structures should be reformed at both institutional and system levels.
 
 ■ ■ The size of the governing authorities of higher education institutions in Ireland should be reduced to no more than 18; the majority of members should be lay members with expertise relevant to the governance of higher education; and
 
@@ -654,7 +751,7 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 In  the  decades  ahead,  higher  education  will  play  a  central role in making Ireland a country recognised for innovation, competitive enterprise and continuing academic excellence, and an attractive place to live and work with a high quality of life, cultural vibrancy and inclusive social structures. At its heart, however, it will still be about people and ideas: higher education institutions will have a strong engagement with individual  students,  communities,  society  and  enterprise, will give students a sense of Irish place and identity, and will equip them with the skills to play a strong part on the world stage; they will be the source of new ideas through excellent research.
 
-The  nature  of  the  learning  community  and  the  modes  of teaching  and  learning  will  also  change  significantly  over the coming years. These changes will be supported through innovative approaches to research-led teaching and learning, programme design, student  assessment  and  a  quality  assurance system - all of which will reflect a new emphasis on nurturing creative and innovative minds. Irish higher education will have a strong international presence, attracting overseas students and academics, and across all disciplines it will engage in highquality research that will distinguish Ireland internationally.
+The nature of the learning community and the modes of teaching and learning will also change significantly over the coming years. These changes will be supported through innovative approaches to research-led teaching and learning, programme design, student assessment and a quality assurance system - all of which will reflect a new emphasis on nurturing creative and innovative minds. Irish higher education will have a strong international presence, attracting overseas students and academics, and across all disciplines it will engage in high-quality research that will distinguish Ireland internationally.
 
 26
 
@@ -738,7 +835,7 @@ Education in general, and higher education in particular, is a force for individ
 
 #### The role of higher education in national economic development
 
-The ultimate purpose of economic development is to support individual wellbeing, to promote social equity and to enable the State to deliver on the aspirations of its citizens.  These are also system-level goals that the Irish higher education system pursues in partnership with Government, business, and the broader society. Higher education is most effective in delivering on its mission when there is public attachment and commitment to it and to the value of its endeavours.
+The ultimate purpose of economic development is to support individual well-being, to promote social equity and to enable the State to deliver on the aspirations of its citizens. These are also system-level goals that the Irish higher education system pursues in partnership with Government, business, and the broader society. Higher education is most effective in delivering on its mission when there is public attachment and commitment to it and to the value of its endeavours.
 
 30
 
@@ -752,17 +849,17 @@ Higher education has been a key component in broader national development strate
 
 Ireland has moved rapidly up the ranks of OECD countries in terms of the higher educational attainment levels of its adult population and, with one third of adults qualified to higher education level, Ireland now ranks between 9th and 12th in OECD terms. Our rapid expansion and improvement over time is reflected in the fact that we were 5th highest of all OECD countries in terms of the higher educational attainment levels of young adults aged 25 to 34 in 2007.
 
-This expansion of higher education opportunities has been critical in generating the supply of skilled graduates that underpinned the significant increases in productivity, employment and exportoriented growth achieved from the mid 1990s to the early years of the current century.
+This expansion of higher education opportunities has been critical in generating the supply of skilled graduates that underpinned the significant increases in productivity, employment and export-oriented growth achieved from the mid 1990s to the early years of the current century.
 
-The economic climate within which higher education operates in 2010 is very different, however, highlighting more than ever the need to develop the necessary skills and competencies in the workforce and stressing the value of education, and higher education in particular, for national development. 2 In an age of international rankings and league tables, higher education is increasingly seen as a shop window for national attainment and achievements in the sciences, the arts and business. International investors and multinational corporations pay serious attention to the quality of learning and, in particular, to the quality of graduates that higher education systems produce in different countries. For that reason, as the intimate connection between advances in knowledge, innovation and economic wellbeing becomes more appreciated, public expectations from higher education have grown enormously.
+The economic climate within which higher education operates in 2010 is very different, however, highlighting more than ever the need to develop the necessary skills and competencies in the workforce and stressing the value of education, and higher education in particular, for national development. 2 In an age of international rankings and league tables, higher education is increasingly seen as a shop window for national attainment and achievements in the sciences, the arts and business. International investors and multinational corporations pay serious attention to the quality of learning and, in particular, to the quality of graduates that higher education systems produce in different countries. For that reason, as the intimate connection between advances in knowledge, innovation and economic well-being becomes more appreciated, public expectations from higher education have grown enormously.
 
-> 1 The OECD (Organisation for Economic Cooperation and Development) is an international organisation of 30 countries. A key output from the cooperation in the field of education is the annual publication Education at a Glance. Eurostat coordinates the statistics of EU countries.  The most recent volume is available at www.oecd.org/document/24/0,3343, en_2649_39263238_43586328_1_1_1_1,00.html
+> 1 The OECD (Organisation for Economic Cooperation and Development) is an international organisation of 30 countries. A key output from the cooperation in the field of education is the annual publication Education at a Glance. Eurostat coordinates the statistics of EU countries. The most recent volume is available at www.oecd.org/document/24/0,3343,en_2649_39263238_43586328_1_1_1_1,00.html
 
 #### Global challenges
 
 In the intensely competitive global environment, the economic fortunes of every country are increasingly determined by the quality of its national education and innovation systems. Each aspect of higher education's mission - teaching, research and engagement with the wider community - is central to economic development. Higher education's most direct contribution to enterprise development is through the provision of graduate labour from undergraduate and postgraduate programmes, which results in substantial knowledge transfer from higher education to enterprise.
 
-In future, higher education will need to be more proactive in commercialisation and knowledge transfer, and will have to pursue this in collaboration with others in enterprise and the wider society. A renewal and transformation of the relationships between higher education and enterprise can position Ireland at the leading edge in the competitive global environment. This is the only way to ensure an effective return on sustained public investment in higher education and research over the next decade and for ensuring success in the application and commercialisation of new knowledge.
+In future, higher education will need to be more proactive in commercialisation and knowledge transfer, and will have to pursue this in collaboration with others in enterprise and the wider society. A renewal and transformation of the relationships between higher education and enterprise
 
 > 2 European Commission (2010) New Skills for New Jobs: Action Now, a report by the Expert Group on New Skills for New Jobs prepared for the European Commission, p.4.
 
@@ -774,21 +871,23 @@ In future, higher education will need to be more proactive in commercialisation 
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
+can position Ireland at the leading edge in the competitive global environment. This is the only way to ensure an effective return on sustained public investment in higher education and research over the next decade and for ensuring success in the application and commercialisation of new knowledge.
+
 Irish higher education institutions now operate on a global stage on which the competition, the scope of collaboration and the benchmarks for success are all international. 3 Over recent decades, there has been increased competition for developing talent in Ireland and also for attracting the most talented students, academics, scientists and researchers into Ireland. In the words of Harvard President Drew Faust: 'In a digital age, ideas and aspirations respect few boundaries. The new knowledge economy is necessarily global and the reach of universities must be so as well'. 4 The Glion Colloquium on the Future of the Research University also calls on higher education to lead and respond to the global challenges it faces:
 
 Navigating our collective way toward some new equilibrium will require new approaches, new thinking, new partnerships and new technology. And this, in turn, will require a change in outlook and a degree of innovation whose very boldness will be disruptive of much conventional thinking and many established practices. 5
 
 Increasingly, all human endeavour is interconnected. Over the coming years, Ireland will face economic and social challenges, but most of these will have global causes and will require international, collaborative solutions.  The global capacity to confront such challenges will continue to expand in line with the growth of the technology to enable collaboration and innovation.
 
-> 3 Schleicher, A. (2010). 'The New Global Landscape of Educational Achievement', Issues in Science and T echnology, Spring 2010.
+> 3 Schleicher, A. (2010). 'The New Global Landscape of Educational Achievement', Issues in Science and Technology, Spring 2010.
 
 > 4 Remarks at the Royal Irish Academy, 30th June 2010.
 
-> 5 Glion Declaration II (2009), available at: http://www.glion. org/glion_declaration_2010.html
+> 5 Glion Declaration II (2009), available at: http://www.glion.org/glion_declaration_2010.html
 
 #### Changing employment patterns
 
-Ireland has a young population compared with the EU and the US, and for those young people the nature of employment will change and their jobs will be less tied to place.  T o deliver a competitive economic advantage for Ireland, people at work will need more and better opportunities for skill and knowledge development. In addition, the capacity of the economy will be very dependent on the targeted expansion of research and development in support of innovation and enterprise - particularly within indigenous businesses that have the potential for global reach.  The Government's 2008 Smart Economy report outlined the prerequisites for a research, innovation and commercialisation ecosystem:
+Ireland has a young population compared with the EU and the US, and for those young people the nature of employment will change and their jobs will be less tied to place. To deliver a competitive economic advantage for Ireland, people at work will need more and better opportunities for skill and knowledge development. In addition, the capacity of the economy will be very dependent on the targeted expansion of research and development in support of innovation and enterprise - particularly within indigenous businesses that have the potential for global reach. The Government's 2008 Smart Economy report outlined the prerequisites for a research, innovation and commercialisation ecosystem:
 
 The objective is to make Ireland an innovation and commercialisation hub in Europe - a country that combines the features of an attractive home for innovative R&D-intensive multinationals while also being a highly-attractive incubation environment for the best entrepreneurs in Europe and beyond.  This will be the successful formula for the next phase of the development of the Irish economy and for delivering quality and well-paid jobs. 6
 
@@ -804,9 +903,9 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 ### 1.2	 Increasing participation - why we need more graduates
 
-Across Europe, jobs are becoming increasingly skill-intensive and this trend is certain to continue.  The most recent employment forecasts to 2015 highlight the fact that 'the recovery is not expected to be uniform across occupational groups and is likely to create greater employment opportunities for high skilled'. 7 Global competition, from Asia in particular, has intensified and this has undermined Europe's ability to compete on cost and price. The only way that European standards of living can be maintained into the future is through the development and production of higher quality and more innovative products and services.  This has been recognised by the European Commission - 'The crisis, and the recovery from it, is also accelerating the pace of economic restructuring, with a lasting structural effect on the volume and types of skills needed. ' 8
+Across Europe, jobs are becoming increasingly skill-intensive and this trend is certain to continue. The most recent employment forecasts to 2015 highlight the fact that 'the recovery is not expected to be uniform across occupational groups and is likely to create greater employment opportunities for high skilled'. 7 Global competition, from Asia in particular, has intensified and this has undermined Europe's ability to compete on cost and price. The only way that European standards of living can be maintained into the future is through the development and production of higher quality and more innovative products and services. This has been recognised by the European Commission - 'The crisis, and the recovery from it, is also accelerating the pace of economic restructuring, with a lasting structural effect on the volume and types of skills needed.' 8
 
-The further expansion of higher education is inevitable and essential if we are to fulfil our aspirations as an innovative and knowledgebased economy, and we must ensure that this happens within a coherent policy environment that serves the advancement of knowledge, wider national development and the public good.
+The further expansion of higher education is inevitable and essential if we are to fulfil our aspirations as an innovative and knowledge-based economy, and we must ensure that this happens within a coherent policy environment that serves the advancement of knowledge, wider national development and the public good.
 
 The economic returns that individuals derive from higher education are well known, 9  but there are also wider economic benefits - for example, where those with higher education benefit from increased wages, it is likely that the wages of people in the same region without higher education will also rise. 10 Other research has pointed to a range of less tangible social and civic benefits such as reduced crime, improved health, better social cohesion and higher voter participation. 11
 
@@ -826,7 +925,7 @@ In recent years, Ireland has made great strides in increasing the number of peop
 
 ■ ■ Increase the number of higher quality and better paid jobs, with consequent improvements in living standards.
 
-> 10 Enrico Moretti (2004) 'Estimating the social return to higher education: evidence from longitudinal and repeated crosssectional data' Journal of Econometrics 121 (2004), 175 - 212.
+> 10 Enrico Moretti (2004) 'Estimating the social return to higher education: evidence from longitudinal and repeated cross-sectional data' Journal of Econometrics 121 (2004), 175 - 212.
 
 > 11 Returns to investment in higher education a European Survey, George Psacharopoulos, 2009.
 
@@ -840,7 +939,7 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 #### Ireland's long-term enterprise strategy
 
-Investment in increasing levels of educational attainment has yielded clear returns to individuals, to enterprises and to the State. 12 IDA Ireland sees continual enhancement of our education and research system and training programmes as key to our capacity to attract foreign investment, and has highlighted the need 'to ensure we have a workforce with relevant skills and that supports advanced research, development and innovation activities. ' 13 Ireland's longterm enterprise strategy is to achieve sustainability through commercialising and exporting goods, services and ideas. The current economic downturn must not deflect attention from the necessity of ensuring that the right infrastructure is in place to develop the increasingly high skills required by Ireland's enterprise base.
+Investment in increasing levels of educational attainment has yielded clear returns to individuals, to enterprises and to the State. 12 IDA Ireland sees continual enhancement of our education and research system and training programmes as key to our capacity to attract foreign investment, and has highlighted the need 'to ensure we have a workforce with relevant skills and that supports advanced research, development and innovation activities.' 13 Ireland's long-term enterprise strategy is to achieve sustainability through commercialising and exporting goods, services and ideas. The current economic downturn must not deflect attention from the necessity of ensuring that the right infrastructure is in place to develop the increasingly high skills required by Ireland's enterprise base.
 
 The 2007 National Skills Strategy 14 highlighted how virtually all jobs now require an increasing breadth of knowledge, greater technical qualifications and continual learning and even with the recent rise in unemployment, skills shortages persist in the economy. With globalisation, human capital has become highly mobile and world competition for skills in areas such as ICT and life sciences remains acute. New and emerging technologies require continuous responsiveness to realise their potential, and Ireland needs the ability to respond to these technologies in order to compete at the highest levels. Indeed, in Recovery Scenarios for Ireland (2009), the ESRI stressed that increased policy attention to enhancing productivity and innovation in the tradeable sector of the economy would accelerate recovery. 15
 
@@ -848,7 +947,7 @@ The 2007 National Skills Strategy 14 highlighted how virtually all jobs now requ
 
 > 13 IDA Ireland (2010) Horizon 2020.
 
-> 14 Expert Group on Future Skills Needs (2007). T omorrow's Skills:  T owards a National Skills Strategy .
+> 14 Expert Group on Future Skills Needs (2007). Tomorrow's Skills: Towards a National Skills Strategy.
 
 > 15 ESRI (May 2009) Recovery Scenarios for Ireland.
 
@@ -860,11 +959,11 @@ Ireland's capacity to generate jobs - both in indigenous enterprise and via fore
 
 #### Building towards socioeconomic equality
 
-Despite the expanded opportunities for higher education in recent decades, inequality persists in Irish higher education. 16 For the past 15 years, additional funding has been made available from both public and private sources to support initiatives aimed at improving the participation of students from lower socio-economic backgrounds in higher education, and much has been achieved in improving participation among under-represented groups. Nevertheless, significant inequalities persist in the extent to which young people from different socioeconomic backgrounds access and derive benefit from higher education.
+Despite the expanded opportunities for higher education in recent decades, inequality persists in Irish higher education. 16 For the past 15 years, additional funding has been made available from both public and private sources to support initiatives aimed at improving the participation of students from lower socio-economic backgrounds in higher education, and much has been achieved in improving participation among under-represented groups. Nevertheless, significant inequalities persist in the extent to which young people from different socio-economic backgrounds access and derive benefit from higher education.
 
-Table 2.1 presents data on the estimated proportions of 18 year olds from households in each socio-economic group who entered higher education in 2004. The entry rates ranged from 100 per cent in households headed by a higher professional to just over one quarter from lower middleincome households (the 'non-manual' socio-economic group). 17  This presents a fundamental challenge for Irish education policy.
+Table 2.1 presents data on the estimated proportions of 18 year olds from households in each socio-economic group who entered higher education in 2004. The entry rates
 
-> 16 See National Plan for Equity of Access to Higher Education 20082013.
+> 16 See National Plan for Equity of Access to Higher Education 2008-2013.
 
 34
 
@@ -873,6 +972,8 @@ Table 2.1 presents data on the estimated proportions of 18 year olds from househ
 [[START OF PAGE 37]]
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
+
+ranged from 100 per cent in households headed by a higher professional to just over one quarter from lower middle-income households (the 'non-manual' socio-economic group). 17 This presents a fundamental challenge for Irish education policy.
 
 Socio economic group | %
 --- | ---
@@ -888,17 +989,17 @@ Total | 55
 
 Table 2.1: Entry rates to higher education by socio-economic group
 
-The pursuit of equality has been a mainstream concern of Irish education policy since the 1966 Investment in Education report .  New and innovative routes of access have been developed and a range of supports has been established to improve access and participation for students from low income backgrounds and for students with disabilities. 18
+The pursuit of equality has been a mainstream concern of Irish education policy since the 1966 Investment in Education report. New and innovative routes of access have been developed and a range of supports has been established to improve access and participation for students from low income backgrounds and for students with disabilities. 18
 
 ### 1.4	 Future skills: graduates for the 21st century
 
 One of the most fundamental questions in planning for the future is: what are the right skills for the graduates of 2015 and of 2030 and what mix of skills should we pursue as learning outcomes of higher education?
 
-> 17 A detailed analysis of these data is presented in the current National Plan for Equity of Access to Higher Education 2008-2013. Available at http://www.hea.ie/files/files/file/New_pdf/ National_Access_Plan_2008-2013_(English).pdf
+> 17 A detailed analysis of these data is presented in the current National Plan for Equity of Access to Higher Education 2008-2013. Available at http://www.hea.ie/files/files/file/New_pdf/National_Access_Plan_2008-2013_(English).pdf
 
 > 18 Significant developments include the establishment of the National Access Office within the HEA, Funds for Students with disabilities, innovative entry routes HEAR and DARE, and improving the FE-HE interface.
 
-To address the societal needs over the coming years, increased attention must be paid to core skills such as quantitative reasoning, critical thinking, communication skills,  team-working skills and the effective use of information technology. The emphasis has switched from over-specialisation towards deeper and broader disciplinary foundations, with learning objectives that explicitly seek to nurture in students the creativity , enthusiasm and skills required for continual engagement with learning. In this context, the arts, humanities and social sciences have a key role to play. The Innovation Taskforce emphasised the importance of independent thinking and 'the development of creative, high-skilled graduates as well as lifelong learning, mentoring and continuous professional development'. 19
+To address the societal needs over the coming years, increased attention must be paid to core skills such as quantitative reasoning, critical thinking, communication skills, team-working skills and the effective use of information technology. The emphasis has switched from over-specialisation towards deeper and broader disciplinary foundations, with learning objectives that explicitly seek to nurture in students the creativity, enthusiasm and skills required for continual engagement with learning. In this context, the arts, humanities and social sciences have a key role to play. The Innovation Taskforce emphasised the importance of independent thinking and 'the development of creative, high-skilled graduates as well as lifelong learning, mentoring and continuous professional development'. 19
 
 #### Continual engagement and responsiveness
 
@@ -906,9 +1007,9 @@ The importance of continual engagement with learning arises because of the neces
 
 #### The importance of flexibility in provision
 
-There is an increasing need for the provision of educational opportunities that differ significantly from the traditional model, in which a student enters higher education directly after finishing secondary school, stays there for three or four years, enters employment and never again engages with the education system. In many professions and occupations there is already a requirement for continuous professional development, and this creates a demand for part-time and short courses at any time of the year, on any day of the week, at any time of the day. People want to study from home or from their workplace. People want to - and need to - move between employment and education several times during their lives. People want to pursue education in parallel with employment, so that their path to any particular educational goal could be considerably longer than that of a full-time student and people want to progressively build on their knowledge and experience, and want their achievements to be recognised.
+There is an increasing need for the provision of educational opportunities that differ significantly from the traditional model, in which a student enters higher education directly after finishing secondary school, stays there for three or four years, enters employment and never again engages
 
-> 19 Innovation Ireland ,  Report of the Innovation Taskforce, March 201 0, p.24.
+> 19 Innovation Ireland, Report of the Innovation Taskforce, March 2010, p.24.
 
 35
 
@@ -918,23 +1019,23 @@ There is an increasing need for the provision of educational opportunities that 
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
+with the education system. In many professions and occupations there is already a requirement for continuous professional development, and this creates a demand for part-time and short courses at any time of the year, on any day of the week, at any time of the day. People want to study from home or from their workplace. People want to - and need to - move between employment and education several times during their lives. People want to pursue education in parallel with employment, so that their path to any particular educational goal could be considerably longer than that of a full-time student and people want to progressively build on their knowledge and experience, and want their achievements to be recognised.
+
 The recent economic downturn has magnified the importance of lifelong learning and workforce development 20  and there is now a clear demand for higher education to engage more directly with the upskilling challenges and to help ensure the adaptability of the Irish workforce to technological and social change.
 
-The National Framework of Qualifications has provided opportunities for improving the interface between further education and higher education. In the past decade, there have been significant improvements in transfer and progression arrangements for students into and within higher education. 21 The introduction of the European Credit Transfer System (ECTS) 22 , and of modularisation and semesterisation (under the Bologna process) will provide opportunities for greater flexibility and progression for students, but the Irish higher education does not currently fully support the kinds of flexible learning that the ECTS facilitates. There is considerable inflexibility in the system, which has been encouraged (inadvertently) by the public funding system. 23 There is very little public funding available for part-time or online students, either through the free fees initiative or through the funding system for institutions, and this has militated against the development of flexible learning programmes.
+The National Framework of Qualifications has provided opportunities for improving the interface between further education and higher education. In the past decade, there have been significant improvements in transfer and progression arrangements for students into and within higher education. 21 The introduction of the European Credit Transfer System (ECTS) 22, and of modularisation and semesterisation (under the Bologna process) will provide opportunities for greater flexibility and progression for students, but the Irish higher education does not currently fully support the kinds of flexible learning that the ECTS facilitates. There is considerable inflexibility in the system, which has been encouraged (inadvertently) by the public funding system. 23 There is very little public funding available for part-time or online students, either through the free fees initiative or through the funding system for institutions, and this has militated against the development of flexible learning programmes.
 
 > 20 See Thematic Synthesis of  Written Submissions to the Strategy Group available at http://www.hea.ie/en/node/1303
 
 > 21 Higher education institutions are increasingly recognising FETAC qualifications at levels 5 and 6 as meeting the entry requirements for higher education. The proportion of students entering higher education who were accepted on the basis of further education awards grew from less than 3 per cent in 2005 to 10 per cent in 2007. In 2008, forty higher education institutions, including universities, institutes of technology and private colleges, offered places on a variety of courses for applicants with a FETAC qualification.
 
-> 22 European Credit Transfer System, a student-centred system based on the student workload required to achieve the
+> 22 European Credit Transfer System, a student-centred system based on the student workload required to achieve the objectives of a programme.
 
 #### Building on the centrality of mathematics and science
 
-The central importance of mathematics and science arises because of the technological orientation of our leading companies and the growing importance of these subjects in addressing future skills needs.  While there has been some increase in the numbers of students accessing higher education courses in science, technology, engineering and mathematics in the past two years, there continues to be a relatively low level of takeup at a time when the importance of these disciplines for enterprise strategy is growing. Of particular concern is the persistently low number of upper second-level students taking higher-level mathematics, which undermines the preparedness of students for engagement with engineering and the physical sciences.
+The central importance of mathematics and science arises because of the technological orientation of our leading companies and the growing importance of these subjects in addressing future skills needs. While there has been some increase in the numbers of students accessing higher education courses in science, technology, engineering and mathematics in the past two years, there continues to be a relatively low level of take-up at a time when the importance of these disciplines for enterprise strategy is growing. Of particular concern is the persistently low number of upper second-level students taking higher-level mathematics, which undermines the preparedness of students for engagement with engineering and the physical sciences.
 
 Historically, Irish higher education has been relatively good at meeting demand for science graduates, but not quite so good when it comes to engineering, as a result of
-
-objectives of a programme.
 
 > 23 The Strategy Group is aware that there are isolated examples of programmes and courses in Irish higher education that are available on a flexible and online basis, but these are the exception rather than the rule.
 
@@ -946,9 +1047,9 @@ objectives of a programme.
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-lower student demand for these courses. In 2006, for example, science, mathematics and computing graduates accounted for 13.8 per cent of all graduates, well ahead of the EU27 average of 9.9 per cent, but engineering, manufacturing and construction graduates accounted for 12.1 per cent, just below the EU-27 average of 12.5 per cent. 24
+lower student demand for these courses. In 2006, for example, science, mathematics and computing graduates accounted for 13.8 per cent of all graduates, well ahead of the EU-27 average of 9.9 per cent, but engineering, manufacturing and construction graduates accounted for 12.1 per cent, just below the EU-27 average of 12.5 per cent. 24
 
-Just managing to achieve average performance in these vital domains is not good enough: it threatens our aspirations for economic renewal and will undermine our national enterprise strategy of targeting technologically-based domains such as information technology, nanotechnology, biotechnology and alternative energy. Mathematical concepts, models and techniques are central to working in all sectors of employment and the proficiency level of students in mathematics is a key factor influencing the domestic supply of graduates for sectors with growth potential. 25 It is one of the key demands of business that we produce graduates who are highly literate in mathematics and science and who have the ability to think, learn and apply their skills flexibly .
+Just managing to achieve average performance in these vital domains is not good enough: it threatens our aspirations for economic renewal and will undermine our national enterprise strategy of targeting technologically-based domains such as information technology, nanotechnology, biotechnology and alternative energy. Mathematical concepts, models and techniques are central to working in all sectors of employment and the proficiency level of students in mathematics is a key factor influencing the domestic supply of graduates for sectors with growth potential. 25 It is one of the key demands of business that we produce graduates who are highly literate in mathematics and science and who have the ability to think, learn and apply their skills flexibly.
 
 #### The need to foster entrepreneurial imagination
 
@@ -956,7 +1057,7 @@ Some of the jobs that people will do in 2015 and 2030 do not exist now, and some
 
 > 24 Eurostat yearbook 2009, Table 4.6 (2006 data).
 
-> 25 As identified by the Expert Group on Future Skills Needs (EGFSN). See EGFSN (2008) Statement on Raising National Mathematical Achievement, November 2008, available at http://www.egfsn.ie/media/egfsn081215_raising_ mathematical_achievement.pdf
+> 25 As identified by the Expert Group on Future Skills Needs (EGFSN). See EGFSN (2008) Statement on Raising National Mathematical Achievement, November 2008, available at http://www.egfsn.ie/media/egfsn081215_raising_mathematical_achievement.pdf
 
 ### 1.5	 Research performance
 
@@ -964,13 +1065,13 @@ Ireland has increased significantly its investment in research in higher educati
 
 > 26 The term 'job shaper' is taken from European Commission (2010) New Skills for New Jobs: Action Now, A report by the Expert Group on New Skills for New Jobs prepared for the European Commission (February 2010), p.9.
 
-> 27 The metric referred to here is the HERD intensity ratio. See Department of Enterprise, Trade & Employment (2009) Science,  T echnology and Innovation: Delivering the Smart Economy , p.3.
+> 27 The metric referred to here is the HERD intensity ratio. See Department of Enterprise, Trade & Employment (2009) Science, Technology and Innovation: Delivering the Smart Economy, p.3.
 
-> 28 Publications per million by Irish researchers have grown from below EU average in 2005 to 34 per cent above EU average at the end of 2007. The quality of research output (as measured by citation impact) has also increased. In 2008, Ireland entered the top 20 list for citations in all fields for the first time. Data source: Department of Enterprise, Trade & Employment (2009), Science,  T echnology and Innovation: Delivering the Smart Economy, p.5.
+> 28 Publications per million by Irish researchers have grown from below EU average in 2005 to 34 per cent above EU average at the end of 2007. The quality of research output (as measured by citation impact) has also increased. In 2008, Ireland entered the top 20 list for citations in all fields for the first time. Data source: Department of Enterprise, Trade & Employment (2009), Science, Technology and Innovation: Delivering the Smart Economy, p.5.
 
-> 29 St. Aubyn, M., Pina, A., Garcia, F . & Pais, J. (2009) Study on the efficiency and effectiveness of public spending on tertiary education, European Economy, Economics Papers 390, November 2009, ECOFIN, European Commission.
+> 29 St. Aubyn, M., Pina, A., Garcia, F. & Pais, J. (2009) Study on the efficiency and effectiveness of public spending on tertiary education, European Economy, Economics Papers 390, November 2009, ECOFIN, European Commission.
 
-> 30 Department of Enterprise, Trade & Employment (2009), Science,  T echnology and Innovation: Delivering the Smart Economy ,
+> 30 Department of Enterprise, Trade & Employment (2009), Science, Technology and Innovation: Delivering the Smart Economy,
 
 37
 
@@ -982,27 +1083,25 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 The increase in research investment has transformed the national higher education research landscape and has raised Ireland's reputation as a country of science and technology. Public investment in R&D has impacted positively on the commitment to research and innovation in the business sector.  This is reflected in the increasing number of firms engaging with research and in the increasing investments being made by IDA Ireland-supported companies in research, development and innovation. 31 It is also apparent in the expanding range of collaborations between higher education researchers and enterprise. 32
 
-Ireland also continues to perform well in European funding allocations. In the EU's current FP7 33  programme, Ireland's drawdown has exceeded that of the previous programme and is higher than the EU average. Furthermore, there are indications of increasing success in drawing down funding for larger multinational collaborative projects.
+Ireland also continues to perform well in European funding allocations. In the EU's current FP7 33 programme, Ireland's draw-down has exceeded that of the previous programme and is higher than the EU average. Furthermore, there are indications of increasing success in drawing down funding for larger multinational collaborative projects.
 
-As the OECD noted in 2004, this record of investment in research and development represents a remarkable attempt to change the fundamentals of the Irish economy. 34 The overall conclusion is that the investment to date has resulted in a strong base of high-quality researchers and good facilities, an increase in publications, new PhD and undergraduate courses, and the beginning
+As the OECD noted in 2004, this record of investment in research and development represents a remarkable attempt to change the fundamentals of the Irish economy. 34 The overall conclusion is that the investment to date has resulted in a strong base of high-quality researchers and good facilities, an increase in publications, new PhD and undergraduate courses, and the beginning of a new and more open engagement with enterprise. It is expected that over the next ten years, further investment in research will continue to impact on enterprise, on economic and social policy and on Ireland's competitive position with respect to the rest of the world.
 
-p.5.
-
-> 31 The number of firms performing significant R&D (> € 2 million per annum) rose to 164 in 2007 compared to 118 in 2005. Over 40% of investments by IDA Ireland in 2008 were in RD&I with approximately € 420 million of investmenta 22% increase in the level of RD&I investments in IDA Ireland-supported companies over that of 2007. Data source: Department of Enterprise, Trade & Employment (2009), Science,  T echnology and Innovation: Delivering the Smart Economy , p.5-6.
-
-> 32 Department of Enterprise, Trade & Employment (2009), Science,  T echnology and Innovation: Delivering the Smart Economy .
-
-> 33 Seventh Framework Programme for Research and Technological Development. This is the EU's main instrument for funding research in Europe and it will run from 20072013.
-
-> 34 Review of National Policies for Education: Review of Higher Education in Ireland, Examiners' Report, OECD, 2004:34.
-
-of a new and more open engagement with enterprise. It is expected that over the next ten years, further investment in research will continue to impact on enterprise, on economic and social policy and on Ireland's competitive position with respect to the rest of the world.
-
-While most discussion of research focuses on the hard sciences, it is the arts, humanities and social sciences that have consistently attracted the largest numbers of students, and these are the domains in which Ireland has made a real global impact. This can be seen in the achievements of Irish people in literature, music, and the arts, and in the extent to which Ireland benefits from its reputation in these areas.  There are also very compelling social and economic reasons to develop our capabilities in these areas, including advancement of our understanding of the very rapid changes taking place in the Irish economy and society, better-informed public policy-making, and development of the creative and analytical skills that will be valuable in a global economy that is increasingly dominated by knowledge-based services.
+While most discussion of research focuses on the hard sciences, it is the arts, humanities and social sciences that have consistently attracted the largest numbers of students, and these are the domains in which Ireland has made a real global impact. This can be seen in the achievements of Irish people in literature, music, and the arts, and in the extent to which Ireland benefits from its reputation in these areas. There are also very compelling social and economic reasons to develop our capabilities in these areas, including advancement of our understanding of the very rapid changes taking place in the Irish economy and society, better-informed public policy-making, and development of the creative and analytical skills that will be valuable in a global economy that is increasingly dominated by knowledge-based services.
 
 #### Delivering on research investment
 
 Research has strong potential to create the new knowledge that can be used to create new enterprise opportunities, and to improve quality of life throughout society. While to date much of the focus of research investment has been on establishing the research base, it is now essential that higher education improves the flow of knowledge from institutions to wider society. Higher education institutions must become more active agents in knowledge transfer than before and gain greater value from inherent intellectual property by engaging more effectively with enterprise, and by incubating new companies.
+
+p.5.
+
+> 31 The number of firms performing significant R&D (>€2 million per annum) rose to 164 in 2007 compared to 118 in 2005. Over 40% of investments by IDA Ireland in 2008 were in RD&I with approximately €420 million of investment - a 22% increase in the level of RD&I investments in IDA Ireland-supported companies over that of 2007. Data source: Department of Enterprise, Trade & Employment (2009), Science, Technology and Innovation: Delivering the Smart Economy, p.5-6.
+
+> 32 Department of Enterprise, Trade & Employment (2009), Science, Technology and Innovation: Delivering the Smart Economy.
+
+> 33 Seventh Framework Programme for Research and Technological Development. This is the EU's main instrument for funding research in Europe and it will run from 2007-2013.
+
+> 34 Review of National Policies for Education: Review of Higher Education in Ireland, Examiners' Report, OECD, 2004:34.
 
 38
 
@@ -1028,9 +1127,9 @@ Ireland is entering a new era in terms of higher education and national developm
 
 Institutional autonomy is regarded internationally as the key principle that characterises high-performing higher education institutions.  There is a positive relationship between the performance and innovation capacity of higher education institutions and the extent of their autonomy. 35
 
-In Ireland, the high level of legal autonomy enjoyed by higher education institutions is a major strength of the system. The principle is enshrined in the Universities Act of 1997, and the Institutes of  T echnology Act of 2006 grants limited autonomy to the institutes of technology. Academic freedom of individual staff is central to higher education and this principle is also enshrined in both the Universities Act of 1997 and the Institutes of Technology Act of 2006 .
+In Ireland, the high level of legal autonomy enjoyed by higher education institutions is a major strength of the system. The principle is enshrined in the Universities Act of 1997, and the Institutes of Technology Act of 2006 grants limited autonomy to the institutes of technology. Academic freedom of individual staff is central to higher education and this principle is also enshrined in both the Universities Act of 1997 and the Institutes of Technology Act of 2006.
 
-> 35 P .  Santiago et al (2008) Tertiary Education for the Knowledge Society ,   V ol.  1, Paris: OECD.
+> 35 P. Santiago et al (2008) Tertiary Education for the Knowledge Society, Vol. 1, Paris: OECD.
 
 39
 
@@ -1048,9 +1147,9 @@ Higher education institutions are required by legislation to prepare strategic d
 
 Ireland is regarded as a leader in the advancement and implementation of the Bologna Declaration 37 and its higher education structures and national guiding principles resonate well with the values of institutional autonomy, academic freedom and social equity highlighted in the Bologna Declaration and in subsequent communiqués. 38
 
-Ireland has built upon this alignment over the last decade.  T o facilitate student transfer, flexibility and mobility, the European Credit Transfer System (ECTS) has been put in place as well as a system of modularisation and semesterisation. In line with the Bologna process, modules, courses and programmes in Irish higher education institutions have been or are being rewritten with greater emphasis on learning outcomes. This is improving their capacity to innovate in the delivery of higher education. The learning outcomes approach is also guiding ongoing reform of doctoral education, which is being transformed to include training in the broader, more generic and transferable skills that will be core workplace competencies over the coming decades.
+Ireland has built upon this alignment over the last decade. To facilitate student transfer, flexibility and mobility, the European Credit Transfer System (ECTS) has been put in place as well as a system of modularisation and semesterisation. In line with the Bologna process, modules, courses and programmes in Irish higher education institutions have been or are being re-written with greater emphasis on learning outcomes. This is improving their capacity to innovate in the delivery of higher education. The learning outcomes approach is also guiding ongoing reform of doctoral education, which is being transformed to include training in the broader, more generic and transferable skills that will be core workplace competencies over the coming decades.
 
-> 36 Universities Act of 1997, Institutes of  T echnology Act, 2006.
+> 36 Universities Act of 1997, Institutes of Technology Act, 2006.
 
 > 37 The Bologna Declaration was signed by the Ministers for Education of the 26 countries in the European Higher Education Area in 1999. The Declaration set out to modernise and to align the content and practices of higher education in the European Union member states and its neighbouring countries.
 
@@ -1058,11 +1157,11 @@ Ireland has built upon this alignment over the last decade.  T o facilitate stud
 
 ### 1.7	 Efficiency and productivity
 
-Relative to other countries, the Irish higher education system is comparatively efficient in its use of resources - it produces graduates for lower than average costs. A recent comprehensive survey of the efficiency and effectiveness of higher education spending conducted for ECOFIN 39  confirmed the quality and efficiency of Irish higher education. 40  Over the past decade and particularly in more recent years, Ireland has expanded higher education opportunities while seeing further reductions in investment per student 41 -investment in higher education has not kept pace with the expansion in student numbers. Despite this, Ireland's performance in the specific measures of quality has been impressive. For example, Ireland was ranked highest of all countries in the international recruiter reviews of graduate employability and second highest of 28 countries in the international peer review of graduate quality. 42 A challenge in responding to the scale of growing demand over the next twenty years will be to continue to create maximum learning opportunities from the available resources.
+Relative to other countries, the Irish higher education system is comparatively efficient in its use of resources - it produces graduates for lower than average costs. A recent comprehensive survey of the efficiency and effectiveness of higher education spending conducted for ECOFIN 39 confirmed the quality and efficiency of Irish higher education. 40 Over the past decade and particularly in more recent years, Ireland has expanded higher education opportunities while seeing further reductions in investment per student 41 - investment in higher education has not kept pace with the expansion in student numbers. Despite this, Ireland's performance
 
-> 39 The EU Economic and Financial Affairs Council is commonly known as the Ecofin Council, or simply 'Ecofin' and is composed of the Economics and Finance Ministers of the Member States , as well as Budget Ministers when budgetary issues are discussed.
+> 39 The EU Economic and Financial Affairs Council is commonly known as the Ecofin Council, or simply 'Ecofin' and is composed of the Economics and Finance Ministers of the Member States, as well as Budget Ministers when budgetary issues are discussed.
 
-> 40 St. Aubyn, M., Pina, A., Garcia, F . & Pais, J. Study on the efficiency and effectiveness of public spending on tertiary education, European Economy, Economics Papers 390, November 2009, ECOFIN, European Commission. This study employs a range of variables to measure the quality of output including PISA scores, academic perceptions of graduate quality, recruiter perceptions of graduate employability, research output and citation indices.
+> 40 St. Aubyn, M., Pina, A., Garcia, F. & Pais, J. Study on the efficiency and effectiveness of public spending on tertiary education, European Economy, Economics Papers 390, November 2009, ECOFIN, European Commission. This study employs a range of variables to measure the quality of output including PISA scores, academic perceptions of graduate quality, recruiter perceptions of graduate employability, research output and citation indices.
 
 > 41 Data source: OECD (2009) Education at a Glance, Table B1.5. Change in expenditure on educational institutions for all services per student relative to different factors, by level of education (1995, 2000, 2006).
 
@@ -1074,13 +1173,15 @@ Relative to other countries, the Irish higher education system is comparatively 
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
+in the specific measures of quality has been impressive. For example, Ireland was ranked highest of all countries in the international recruiter reviews of graduate employability and second highest of 28 countries in the international peer review of graduate quality. 42 A challenge in responding to the scale of growing demand over the next twenty years will be to continue to create maximum learning opportunities from the available resources.
+
 #### Improving work practices
 
 There is considerable potential for changing work practices to improve flexibility, efficiency and responsiveness to new needs.
 
 In the university sector, there is a lack of transparency regarding staff workloads, and no specific provision is made in relation to overall hours of work. In other countries, the contracts of academic staff can vary from inclusive contracts (where the contract specifies the total number of hours during which an academic is required to be on campus) 43 to contracts that specify the total number of hours an academic is required to teach. 44 In Ireland, the transparency and content of academic contracts needs to be addressed to ensure that productivity is optimized.
 
-In the institutes of technology, the academic contract provides for an annual teaching commitment of 560 hours (equivalent to a weekly norm of 16 hours per week for 35 weeks) for an academic year that runs from
+In the institutes of technology, the academic contract provides for an annual teaching commitment of 560 hours (equivalent to a weekly norm of 16 hours per week for 35 weeks) for an academic year that runs from 1 September to 20 June 45, during which all work including exam boards and appeals must be done. The contract is normally interpreted as requiring staff to be engaged in face-to-face on-campus teaching for all contracted hours, and that makes it difficult to provide more flexible engagement in open and distance education or in teaching outside the academic term. It can also constrain the redeployment of staff and resources, and the introduction of new and innovative forms of teaching, learning and assessment.
 
 > 42 These data were constructed from the Times Higher Education Supplement - THES - QS World University Rankings Database and standardised to account for the size of countries and their higher education systems.
 
@@ -1088,13 +1189,11 @@ In the institutes of technology, the academic contract provides for an annual te
 
 > 44 The number of contracted teaching hours of an academic varies from 60 hours per annum in Italy to 192 hours in France. (However, in France, each one hour lecture is calculated at 1.5 hours, so that the actual number of hours taught in lecture mode is 122 per annum).
 
-1 September to 20 June 45 ,  during which all work including exam boards and appeals must be done. The contract is normally interpreted as requiring staff to be engaged in face-to-face on-campus teaching for all contracted hours, and that makes it difficult to provide more flexible engagement in open and distance education or in teaching outside the academic term. It can also constrain the redeployment of staff and resources, and the introduction of new and innovative forms of teaching, learning and assessment.
-
 #### Building efficiencies: concentrating expertise
 
 By international standards, Ireland has a relatively large number of third-level institutions, offering a very rich provision of learning, teaching and research. Approximately 40 higher education institutions are in receipt of some degree of public funding; of these, seven are universities, fourteen are institutes of technology, seven are colleges of education and the remainder are small independent institutions (many with fewer than 500 students). In some institutions, the range of programmes provided is extensive for the relatively small number of students enrolled, and there has been growing duplication of provision over recent years, with concomitant cost implications.
 
-There are now opportunities to become more efficient in how we deploy resources by realising greater economies of scale, and by rationalising programmes and offering them in fewer institutions. In the area of research, international experience shows that 'the concentration of investment in research and development is important in advancing research innovation ... and the next phase of economic development will require an even greater concentration of resources and expertise'. 46 As well as achieving value for money, however, such concentration of expertise must also ensure continued quality standards and must be consistent with current regional and spatial strategies.  This will need to be accompanied by enhanced trans-institutional collaboration and student/staff mobility, especially in highly specialised disciplines and those that attract low numbers of students.
+There are now opportunities to become more efficient in how we deploy resources - by realising greater economies of scale, and by rationalising programmes and offering them in fewer institutions. In the area of research, international experience shows that 'the concentration of investment in research and development is important in advancing
 
 > 45 An additional difficulty is that the shorter academic year resulting from the introduction of semesterisation (25 weeks) precludes the full delivery of contracted hours if the weekly limit is also applied rigorously.
 
@@ -1105,6 +1204,8 @@ There are now opportunities to become more efficient in how we deploy resources 
 [[START OF PAGE 44]]
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
+
+research innovation ... and the next phase of economic development will require an even greater concentration of resources and expertise'. 46 As well as achieving value for money, however, such concentration of expertise must also ensure continued quality standards and must be consistent with current regional and spatial strategies. This will need to be accompanied by enhanced trans-institutional collaboration and student/staff mobility, especially in highly specialised disciplines and those that attract low numbers of students.
 
 #### Quality assurance processes
 
@@ -1118,19 +1219,19 @@ The quality assurance processes in higher education in Ireland are held in high 
 
 Within the general area of quality assurance, however, concern has been expressed regarding perceived grade inflation over time in some programmes and institutions. In many cases the improvement in results is probably a valid reflection of better and more motivated student performance, more transparent course documentation, clarity of learning outcomes, improved assessment practices, better teaching, and access to a wider range of learning resources. In other cases, the misgivings of employers and others may be well founded, and we cannot afford to ignore concerns on this issue.
 
-> 46 Government of Ireland (2008) Building Ireland' s Smart Economy: A Framework for Sustainable Economic Renewal, page 75.
+> 46 Government of Ireland (2008) Building Ireland's Smart Economy: A Framework for Sustainable Economic Renewal, page 75.
 
 > 47 European Commission report of 21 Sep 2009 to the Council, the European Parliament, the European Economic and Social Committee and the Committee of the Regions on progress in quality assurance in higher education. COM (2009) 487 final.
 
-> 48 Bologna Process Stocktaking Report. http://www. ond.vlaanderen.be/hogeronderwijs/bologna/ conference/documents/Stocktaking_report_2009_ FINAL.pdf
+> 48 Bologna Process Stocktaking Report. http://www.ond.vlaanderen.be/hogeronderwijs/bologna/conference/documents/Stocktaking_report_2009_FINAL.pdf
 
 #### Output performance
 
-In international comparisons, Ireland is in the top decile for output of Higher Certificates and Ordinary Degrees/ Diplomas (NFQ levels 6 and 7). While this is a clear strength, our relative performance is more modest in relation to higher qualifications (Levels 8 and above). At Level 8 Degrees and Level 9 Masters, the performance of young Irish adults is closer to the OECD average. Ireland has traditionally been below OECD averages in terms of the numbers of completed PhDs (Level 10). It is anticipated that this position will improve in the coming years as a result of sustained investment in research and postgraduate capacity.
+In international comparisons, Ireland is in the top decile for output of Higher Certificates and Ordinary Degrees/Diplomas (NFQ levels 6 and 7). While this is a clear strength, our relative performance is more modest in relation to higher qualifications (Levels 8 and above). At Level 8 Degrees and Level 9 Masters, the performance of young Irish adults is closer to the OECD average. Ireland has traditionally been below OECD averages in terms of the numbers of completed PhDs (Level 10). It is anticipated that this position will improve in the coming years as a result of sustained investment in research and post-graduate capacity.
 
 ### 1.8	 Sustainable funding
 
-Irish higher education has displayed strong levels of efficiency, productivity and quality within its funding constraints. 49 T o continue our positive development, however, Ireland must now sustain an ongoing expansion of opportunities for higher education, and sourcing funding for this expansion will not be easy: the quantum of public funding that is available is unlikely to grow significantly pending the economic recovery; and (against international trends 50 ) private investment in higher education in Ireland has declined in recent years.
+Irish higher education has displayed strong levels of efficiency, productivity and quality within its funding constraints. 49 To continue our positive development, however, Ireland must now sustain an ongoing expansion of opportunities for higher education, and sourcing funding for this expansion will not be easy: the quantum of public funding that is available is unlikely to grow significantly pending the economic
 
 > 49 St. Aubyn, M., Pina, A., Garcia, F . & Pais, J. (2009) Study on the efficiency and effectiveness of public spending on tertiary education, European Economy, Economics Papers 390, November 2009, ECOFIN, European Commission.
 
@@ -1142,13 +1243,15 @@ Irish higher education has displayed strong levels of efficiency, productivity a
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
+recovery; and (against international trends 50) private investment in higher education in Ireland has declined in recent years.
+
 This being the case, and in the absence of strategies to attract greater levels of private investment into higher education, the current funding model for Irish higher education is unsustainable, and this issue needs to be addressed with some urgency.
 
 The vital importance of education is widely appreciated in the context of the knowledge society and all countries are actively working to improve the qualification and skills levels of their citizens.  While almost all OECD countries provide education as a right up to upper second-level education, countries differ significantly in their approaches to funding higher education (see Table 2.2).
 
-Modest levels of investment in higher education, combined with pay levels that are high by international standards, albeit with recent reductions, have resulted in inadequate investment in learning resources and system development infrastructure. Salaries account for three-quarters of total current expenditure on higher education in Ireland - compared with an international average of two-thirds. This means that Irish higher education operates with lower (nonpay) recurrent expenditure than is typical in other countries.
+Modest levels of investment in higher education, combined with pay levels that are high by international standards, albeit with recent reductions, have resulted in inadequate investment in learning resources and system development infrastructure. Salaries account for three-quarters of total current expenditure on higher education in Ireland - compared with an international average of two-thirds. This means that Irish higher education operates with lower (non-pay) recurrent expenditure than is typical in other countries.
 
-> 50 Interestingly, in the international statistics on total expenditure on higher education as a percentage of GDP (for 2006), Ireland is equivalent to OECD averages in terms of the level of public investment in higher education (c.1% of GDP) but at 0.2% of GDP , the level of private investment in higher education is significantly below the OECD average levels of 0.5% of GDP . See OECD (2009) Education at a Glance, Table B2.4, p.221.
+> 50 Interestingly, in the international statistics on total expenditure on higher education as a percentage of GDP (for 2006), Ireland is equivalent to OECD averages in terms of the level of public investment in higher education (c.1% of GDP) but at 0.2% of GDP, the level of private investment in higher education is significantly below the OECD average levels of 0.5% of GDP. See OECD (2009) Education at a Glance, Table B2.4, p.221.
 
 Country | %
 --- | ---
@@ -1211,14 +1314,14 @@ In 2009, the number of new entrants into Irish higher education stood at 42,500.
 
 The key driver of growth in higher education over recent decades in Ireland and right across the OECD has been the expansion of second-level education. Qualifications obtained at the end of second-level education provide a vital platform for participation in higher education and for future engagement with learning, and this reinforces the importance of students completing upper second-level education.
 
-2009 | 2015 | 2025 | 2030
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Number | % of total | Number | % of total | Number | % of total | Number | % of total
-Direct | 29,982 | 70 | 30,621 | 61.8 | 34,277 | 52.8 | 33,558 | 52.3
-Late | 3,855 | 9 | 4,459 | 9 | 5.843 | 9 | 5,775 | 9
-Mature | 5.568 | 13 | 8.919 | 18 | 16,229 | 25 | 16,041 | 25
-International | 3.426 | 8 | 5,500 | 14.2 | 8,569 | 13.2 | 8,790 | 13.7
-Total | 42,831 | 100 | 49,549 | 100 | 64,918 | 100 | 64,164 | 100
+| | 2009 | | 2015 | | 2025 | | 2030 | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Number | % of total | Number | % of total | Number | % of total | Number | % of total |
+| Direct | 29,982 | 70 | 30,621 | 61.8 | 34,277 | 52.8 | 33,558 | 52.3 |
+| Late | 3,855 | 9 | 4,459 | 9 | 5,843 | 9 | 5,775 | 9 |
+| Mature | 5,568 | 13 | 8,919 | 18 | 16,229 | 25 | 16,041 | 25 |
+| International | 3,426 | 8 | 5,500 | 14.2 | 8,569 | 13.2 | 8,790 | 13.7 |
+| Total | 42,831 | 100 | 49,549 | 100 | 64,918 | 100 | 64,164 | 100 |
 
 Table 3.1: Source of new entrants to higher education, current and projected demand
 
@@ -1232,27 +1335,25 @@ Table 3.1: Source of new entrants to higher education, current and projected dem
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-The link between initial levels of educational attainment and likely participation in further and continuing education is evident right across the OECD and is particularly marked in countries with low levels of overall public provision of adult and second-chance education. It is estimated that Irish adults with third-level qualifications are four times more likely to participate in continuing education than their peers with less than lower second-level qualifications (no Junior/ Inter Certificate). 53
+The link between initial levels of educational attainment and likely participation in further and continuing education is evident right across the OECD and is particularly marked in countries with low levels of overall public provision of adult and second-chance education. It is estimated that Irish adults with third-level qualifications are four times more likely to participate in continuing education than their peers with less than lower second-level qualifications (no Junior/Inter Certificate). 53
 
-The introduction of free second-level education was adopted as a key element of post-World War II regeneration in most European and many OECD countries in the late 1940s. In Ireland free second-level education was introduced from 1967 as part of a fundamental shift in economic policy and broader national development policy.  The immediate impact of this educational policy reform was to unlock a very significant appetite for learning across the Irish population, with the numbers of students completing second-level increasing from 12,000 in 1967 to a peak of over
-
-60,000 in 1998, and falling back (in line with demographic changes) to 50,000 in 2008.
+The introduction of free second-level education was adopted as a key element of post-World War II regeneration in most European and many OECD countries in the late 1940s. In Ireland free second-level education was introduced from 1967 as part of a fundamental shift in economic policy and broader national development policy. The immediate impact of this educational policy reform was to unlock a very significant appetite for learning across the Irish population, with the numbers of students completing second-level increasing from 12,000 in 1967 to a peak of over 60,000 in 1998, and falling back (in line with demographic changes) to 50,000 in 2008.
 
 ### 2.2	 The upskilling challenge
 
-Just 21 per cent of Irish adults have qualifications at NFQ level 8 and above, and a further 12 per cent have qualifications at levels 6 and 7.  The percentages change depending on age, but younger people are more likely to have higher education attainments than older people - of people in the 55-64 age range, 56 per cent fall into the category of what would now be termed 'early school leavers'.
+Just 21 per cent of Irish adults have qualifications at NFQ level 8 and above, and a further 12 per cent have qualifications at levels 6 and 7. The percentages change depending on age, but younger people are more likely to have higher education attainments than older people - of people in the 55–64 age range, 56 per cent fall into the category of what would now be termed 'early school leavers'.
 
-The more immediate source of growing demand for higher education is likely to come from the significant numbers within each age group whose current highest level of attainment is NFQ level 4, 5 or 6, achieved either via second-level or further education. The Skills Strategy noted the scale of the upskilling challenge in the midranges of the NFQ, and this is borne out by the education attainment levels presented in
+The more immediate source of growing demand for higher education is likely to come from the significant numbers within each age group whose current highest level of attainment is NFQ level 4, 5 or 6, achieved either via second-level or further education. The Skills Strategy noted the scale of the upskilling challenge in the mid-ranges of the NFQ, and this is borne out by the education attainment levels presented in
 
-Age Group
---- | --- | --- | --- | --- | ---
-25-34 | 35-44 | 45-54 | 55-64 | 25-64
-Higher Education NFQ levels 8-10 | 30% | 23% | 17% | 12% | 21%
-Higher Education NFQ levels 6-7 | 15% | 14% | 10% | 7% | 12%
-Post Leaving Cert, NFQ levels 4-6 | 12% | 12% | 9% | 8% | 11%
-Upper Secondary, NFQ levels 4-6 | 28% | 26% | 25% | 18% | 24%
-Lower Secondary, NFQ level 3 | 11% | 18% | 23% | 20% | 17%
-Primary NFQ level 1-2 | 5% | 8% | 16% | 36% | 15%
+| | Age Group | | | | |
+| --- | --- | --- | --- | --- | --- |
+| | 25–34 | 35–44 | 45–54 | 55–64 | 25–64 |
+| Higher Education NFQ levels 8–10 | 30% | 23% | 17% | 12% | 21% |
+| Higher Education NFQ levels 6–7 | 15% | 14% | 10% | 7% | 12% |
+| Post Leaving Cert, NFQ levels 4–6 | 12% | 12% | 9% | 8% | 11% |
+| Upper Secondary, NFQ levels 4–6 | 28% | 26% | 25% | 18% | 24% |
+| Lower Secondary, NFQ level 3 | 11% | 18% | 23% | 20% | 17% |
+| Primary NFQ level 1–2 | 5% | 8% | 16% | 36% | 15% |
 
 Table 3.2: Educational attainment in the Irish adult population, 2008
 
@@ -1272,11 +1373,11 @@ Table 3.2 - the scale of potential demand for higher education from adults is ve
 
 The already growing demand from adults for higher educational opportunities will become stronger with higher unemployment and the increasing vulnerability of employment. The knowledge economy needs people who can renew and refresh their skills and competencies over the course of their lives. Adults who become unemployed will require opportunities to re-engage with learning and to advance and update their knowledge and skills; while those in employment will also require upskilling and retraining opportunities. Whole companies will need to re-assess the adequacy and relevance of their skills base, and those in the public sector will require training to adopt new and more effective ways of working.
 
-Notwithstanding the comparatively modest educational profile of the current adult population, Ireland has had only limited success in achieving participation in lifelong learning compared with other countries see  Table 3.3.
+Notwithstanding the comparatively modest educational profile of the current adult population, Ireland has had only limited success in achieving participation in lifelong learning compared with other countries - see Table 3.3.
 
 Ireland's current low level of part-time study opportunities limits the accessibility of higher education for working adults and adults with caring responsibilities. It also limits the study options available to traditional school leavers, who may prefer or need to combine work and part-time study. 54
 
-> 54 National Access Plan 2008-2013, p.33. See http://www.hea. ie/files/files/file/New_pdf/National_Access_Plan_2008-2013_%28English%29.pdf
+> 54 National Access Plan 2008-2013, p.33. See http://www.hea.ie/files/files/file/New_pdf/National_Access_Plan_2008-2013_%28English%29.pdf
 
 Country | %
 --- | ---
@@ -1296,15 +1397,15 @@ Ireland | 7
 Italy | 7
 Portugal | 6
 
-Table 3.3: Percentage of adults (aged 25-64) participating in education and training, 2008
+Table 3.3: Percentage of adults (aged 25–64) participating in education and training, 2008
 
-Ireland's poor performance in lifelong learning and the inflexibility of higher education were among the strongest concerns to emerge through the consultations and the submissions received by the Strategy Group. 55 While there has been considerable expansion of higher education opportunities in recent years, this expansion has mainly been in the provision of full-time opportunities focused primarily on entrants from upper secondlevel education. Irish higher education students have the narrowest age range across all OECD countries, 56 reflecting the current unresponsiveness of Irish higher education to the skills needs of adults in the population. Only 12 per cent of current undergraduate provision was part-time in 2007-08. 57 This low level of part-time and flexible opportunities, particularly at undergraduate level, limits the accessibility, relevance and responsiveness of higher education to adults in the labour force.  This is inappropriate in the context of the huge potential demand for higher education from adults in the 21st century.
+Ireland's poor performance in lifelong learning and the inflexibility of higher education were among the strongest concerns to emerge through the consultations and the submissions received by the Strategy Group. 55 While there has been considerable expansion of higher education opportunities in recent years, this expansion has mainly been in the provision of full-time opportunities focused primarily on entrants from upper second-level education. Irish higher education students have the narrowest age range across all OECD countries, 56 reflecting the current unresponsiveness of Irish higher education to the skills needs of adults in the population. Only 12 per cent of current undergraduate provision was part-time in 2007-08. 57 This low level of part-time and flexible opportunities, particularly at undergraduate level, limits the accessibility, relevance and responsiveness of higher
 
 > 55 See Appendix D.
 
 > 56 See OECD (2009) Education at a Glance.
 
-> 57 This figure refers to the proportion of new entrants to public higher education that were part-time students. Only 3 per cent of the 72,600 undergraduate degree students (Level 8) in Irish universities are categorised as part-time.  The situation is somewhat better in the Institutes of T echnology sector where 16 per cent of undergraduate students are categorised as parttime.
+> 57 This figure refers to the proportion of new entrants to public higher education that were part-time students. Only 3 per cent of the 72,600 undergraduate degree students (Level 8) in Irish universities are categorised as part-time. The situation is somewhat better in the Institutes of Technology sector where 16 per cent of undergraduate students are categorised as part-time.
 
 46
 
@@ -1314,15 +1415,17 @@ Ireland's poor performance in lifelong learning and the inflexibility of higher 
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
+education to adults in the labour force. This is inappropriate in the context of the huge potential demand for higher education from adults in the 21st century.
+
 Although Ireland is still at an early stage of exploiting the opportunities that the Bologna process provides, in principle, students can now accumulate credits at any level on a part-time or flexible basis and will be able to build up these credits over time and across institutions to achieve higher education qualifications. 58 This will provide a particular opportunity for students who have not previously benefited from higher education, as well as for those who wish to upskill from level 6 or 7 to level 8 or from level 8 to level 9.
 
 #### Growing emphasis on flexible learning
 
-Over the coming years, the demand for higher education opportunities from the adult population will increase.  Their needs can be met only by an increase in flexible learning opportunities, part-time provision, work-based learning and short, intensive skills programmes. T o ensure greater flexibility and responsiveness from the higher education system, flexible learning will need to have full parity within Irish higher education funding policy, and this would begin the broader transformation that is urgently needed in the responsiveness and accessibility of higher education to the needs of adults in the labour force.
+Over the coming years, the demand for higher education opportunities from the adult population will increase. Their needs can be met only by an increase in flexible learning opportunities, part-time provision, work-based learning and short, intensive skills programmes. To ensure greater flexibility and responsiveness from the higher education system, flexible learning will need to have full parity within Irish higher education funding policy, and this would begin the broader transformation that is urgently needed in the responsiveness and accessibility of higher education to the needs of adults in the labour force.
 
 A recent US report on the development of online learning as a strategic asset, emphasised the central importance of the 'institutional leadership imperative' in flexible learning initiatives:
 
-For most institutions, launching online learning courses and programs represents a significant cultural and operational challenge. Online learning has the capacity to alter an institution' s administrative decision-making processes and structures, as well as its methods and modes of teaching and learning. As with any largescale change - especially one that requires the enthusiastic engagement of faculty - a critical and ongoing task for campus leaders is to provide effective leadership and communication of institutional plans and decisions. 59
+For most institutions, launching online learning courses and programs represents a significant cultural and operational challenge. Online learning has the capacity to alter an institution's administrative decision-making processes and structures, as well as its methods and modes of teaching and learning. As with any large-scale change - especially one that requires the enthusiastic engagement of faculty - a critical and ongoing task for campus leaders is to provide effective leadership and communication of institutional plans and decisions. 59
 
 > 58	  HEA Position Paper on Open and Flexible Learning Dec. 2009.
 
@@ -1332,7 +1435,7 @@ The development of open and flexible learning presents administrative and instit
 
 The flexible learning portal 61  developed collectively by the institutes of technology will promote flexible learning opportunities in Irish higher education. The flexible learning agenda dovetails with the deeper and more systematic supports that are necessary for continuing professional development and career progression within academic life. It also has a role to play in furthering how higher education can engage more thoroughly with the wider community.
 
-> 59 APLU/Sloan National Commission on Online Learning (August 2009) Online Learning as a Strategic Asset:  Volume 1, p.41.  W ebsite: http://www.aplu.org/NetCommunity/ Document.Doc?id=1877
+> 59 APLU/Sloan National Commission on Online Learning (August 2009) Online Learning as a Strategic Asset: Volume 1, p.41. Website: http://www.aplu.org/NetCommunity/Document.Doc?id=1877
 
 > 60 See Higher Education Authority (2009), Open and Flexible Learning, paragraphs 18 and 30.
 
@@ -1346,15 +1449,13 @@ The flexible learning portal 61  developed collectively by the institutes of tec
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-In parallel with greater flexibility in provision, higher education needs to ensure wider adoption of best practice particularly in the quality of orientation, study support, and engagement with academic staff.  There are also some inconsistencies between institutions relating to transfer and progression and the recognition of prior learning and experience; such inconsistencies can present difficulties for students trying to access or re-enter higher education.
+In parallel with greater flexibility in provision, higher education needs to ensure wider adoption of best practice - particularly in the quality of orientation, study support, and engagement with academic staff. There are also some inconsistencies between institutions relating to transfer and progression and the recognition of prior learning and experience; such inconsistencies can present difficulties for students trying to access or re-enter higher education.
 
 #### Opportunities provided by new technology
 
 Developments in information and communications technologies enable higher education to be delivered in ways never before possible, and allow students to access a wide range of resources, free from limitations of space and time. Access to learning has become very flexible, and students can choose from a blend of different approaches. The current trend in education and training identifies methods and tools for delivering just-in-time, on-demand learning opportunities tailored to individual students, taking into consideration their differences in skills level, perspectives, culture and other educational contexts. The opportunities which will open up in the years ahead as technology advances will be vast and some of them can only be imagined at this stage. The challenges and opportunities presented by technological advances are under active consideration in higher education systems across the developed and developing world. In the words of one commentator:
 
-Technology is at the heart of this story of institutional change. Universities are now just one source among many for ideas, knowledge and innovation, that seems to threaten their core position and role, but in this new world of learning and research, there are also great opportunities.
-
-The internet, social networks, collaborative online tools that allow people to work together more easily , and open access to content are both the cause of change for universities, and a tool with which they can respond. 62
+Technology is at the heart of this story of institutional change. Universities are now just one source among many for ideas, knowledge and innovation, that seems to threaten their core position and role, but in this new world of learning and research, there are also great opportunities. The internet, social networks, collaborative online tools that allow people to work together more easily, and open access to content are both the cause of change for universities, and a tool with which they can respond. 62
 
 ### 2.3	 Improving the interface between higher education and further education & training
 
@@ -1362,9 +1463,9 @@ In the Leuven Communiqué of April 2009, and the Budapest-Vienna Declaration of 
 
 #### The National Framework of Qualifications as a platform
 
-The establishment of the National Framework of Qualifications (NFQ) in 2001 and the expansion of further education and training have transformed access, transfer and progression for students, and have provided new opportunities for higher education and further education to work much more closely together for the benefit of students.  There are already a number of instances where colleges in both sectors are collaborating to offer joint access provision to students. By expanding this approach and clarifying the progression routes into higher education, many more students who wish to progress will be enabled to make the transition from NFQ Levels 4 and 5 to Levels 6, 7, 8 and beyond. The NFQ also provides a strong platform for delivering on our lifelong learning objectives.
+The establishment of the National Framework of Qualifications (NFQ) in 2001 and the expansion of further education and training have transformed access,
 
-> 62 Peter Bradwell The Edgeless University -  Why Higher Education must Embrace  T echnology London: Demos 2009, p.8. See http:// www.jisc.ac.uk/media/documents/publications/ edgelessuniversity.pdf
+> 62 Peter Bradwell The Edgeless University - Why Higher Education must Embrace Technology London: Demos 2009, p.8. See http://www.jisc.ac.uk/media/documents/publications/edgelessuniversity.pdf
 
 48
 
@@ -1374,13 +1475,15 @@ The establishment of the National Framework of Qualifications (NFQ) in 2001 and 
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
+transfer and progression for students, and have provided new opportunities for higher education and further education to work much more closely together for the benefit of students. There are already a number of instances where colleges in both sectors are collaborating to offer joint access provision to students. By expanding this approach and clarifying the progression routes into higher education, many more students who wish to progress will be enabled to make the transition from NFQ Levels 4 and 5 to Levels 6, 7, 8 and beyond. The NFQ also provides a strong platform for delivering on our lifelong learning objectives.
+
 In this context, the consolidation of quality and qualifications assurance agencies across the further and higher education sectors that is currently under way is very welcome. This will help to establish agreed learning outcomes, clearer routes of transfer and progression, and binding standards of quality assurance in the upper half of Ireland's National Framework of Qualifications. It will also improve access to further and higher education opportunities for people throughout their lives.
 
 In the area of upskilling, there have been a number of improvements over recent years, particularly in the proportion of new entrants who are accessing higher education via further education. It is vital that these developments are expanded for apprentices and for the broader range of further education graduates.
 
 #### Changing demand for apprenticeship training
 
-The apprenticeship system is a specific training pathway designed for those who wish to work in one of the 26 recognised trades in Ireland.  Training is undertaken in a series of phases which take place in FÁS centres, in institutes of technology and onthe-job with employers. The management of the process has historically been undertaken by FÁS in consultation with the Department of Education & Skills. As an employer-led scheme, the apprenticeship model is particularly sensitive to sudden changes in economic activity, particularly in the construction sector.  The fall-off in recruitment to apprenticeship programmes in the past three years presents serious challenges because the apprentice model has a very strong track record in addressing skills needs in the economy and in creating educational mobility in social groups which have been under-represented in higher education.
+The apprenticeship system is a specific training pathway designed for those who wish to work in one of the 26 recognised trades in Ireland. Training is undertaken in a series of phases which take place in FÁS centres, in institutes of technology and on-the-job with employers. The management of the process has historically been undertaken by FÁS in consultation with the Department of Education & Skills. As an employer-led scheme, the apprenticeship model is particularly sensitive to sudden changes in economic activity, particularly in the construction sector. The fall-off in recruitment to apprenticeship programmes in the past three years presents serious challenges because the apprentice model has a very strong track record in addressing skills needs in the economy and in creating educational mobility in social groups which have been under-represented in higher education.
 
 Apprenticeship training is provided in nine of the institutes of technology and the nature of the programmes provides strong spin-off benefits to the institutes. Many staff members teach across apprentice and degree programmes, enriching all programmes with shared real industrial experience. Linkage with industry is facilitated and promoted, both through employee training and through staff expertise and advisory services. Exposure of industry employees to institute programmes supports and facilitates progression and the raising of NFQ levels of the workforce. Progression of craftspersons to Level 7 and Level 8 programmes brings mature students with industrial experience directly into contact with all students, improving and enriching the campus.
 
@@ -1414,13 +1517,13 @@ In the advancement of human knowledge and understanding, Ireland has its own dis
 
 The mission of higher education institutions encompasses three inter-connected elements, which are dealt with in the following chapters:
 
-■ ■ Teaching and learning (chapter 3);
+■ Teaching and learning (chapter 3);
 
-■ ■ Research (chapter 4); and
+■ Research (chapter 4); and
 
-■ ■ Engagement with wider society (chapter 5) and internationally (chapter 6).
+■ Engagement with wider society (chapter 5) and internationally (chapter 6).
 
-To deliver the  Vision for higher education in 2030, it is necessary to reaffirm the relationship between research, teaching and learning and engagement with the community; social, cultural professional, enterprise and international.  T o implement its mission, the higher education system will need to be ever more creative, imaginative and responsive. Innovation is at the centre of the mission of Irish higher education; innovation in the interactions and exchanges of ideas and in the fusion of its core elements.
+To deliver the Vision for higher education in 2030, it is necessary to reaffirm the relationship between research, teaching and learning and engagement with the community; social, cultural professional, enterprise and international. To implement its mission, the higher education system will need to be ever more creative, imaginative and responsive. Innovation is at the centre of the mission of Irish higher education; innovation in the interactions and exchanges of ideas and in the fusion of its core elements.
 
 51
 
@@ -1434,7 +1537,7 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 ### In this chapter
 
-This chapter deals with the first of the three interconnected core roles of higher education - that of providing teaching and facilitating learning .  It describes how the system must respond over the coming years to changes in the composition of the student body, to new technologies and their potential for enhancing the learning experience, and to changes in the external environment.
+This chapter deals with the first of the three interconnected core roles of higher education - that of providing teaching and facilitating learning. It describes how the system must respond over the coming years to changes in the composition of the student body, to new technologies and their potential for enhancing the learning experience, and to changes in the external environment.
 
 Appropriate response to these changes will ensure that higher education students of the future will have an excellent learning experience, informed by up-to-date research and facilitated by a high-quality learning environment, with state-of-the-art learning resources, such as libraries, laboratories, and e-learning facilities.
 
@@ -1444,27 +1547,27 @@ As we seek to engage and to support citizens in their pursuit of advanced levels
 
 The past decade has seen significant advances in teaching and learning in Irish higher education, such as:
 
-■ ■ The establishment of centres for educational development and academic practice;
+■ The establishment of centres for educational development and academic practice;
 
-■ ■ The availability of professional programmes on teaching and learning;
+■ The availability of professional programmes on teaching and learning;
 
-■ ■ Developments in technology-supported learning;
+■ Developments in technology-supported learning;
 
-■ ■ The adoption of new forms of pedagogy for greater student engagement; and
+■ The adoption of new forms of pedagogy for greater student engagement; and
 
-■ ■ An increasing emphasis on teaching in the tenure and promotion processes.
+■ An increasing emphasis on teaching in the tenure and promotion processes.
 
 Such developments are evidence of the commitment and dedication of academic and support staff to the teaching mission.
 
 However, they are not uniform or consistent across higher education, and the challenge now is to convert best practice into standard practice.
 
-The increasing diversity of students, including those from overseas, will have to be matched by teaching and assessment methods that will enable students from a range of backgrounds to discover, exploit and build on their strengths.  T eaching in higher education should reflect different learning styles and different disciplinary areas. 63
+The increasing diversity of students, including those from overseas, will have to be matched by teaching and assessment methods that will enable students from a range of backgrounds to discover, exploit and build on their strengths. Teaching in higher education should reflect different learning styles and different disciplinary areas. 63
 
 While large group teaching, supplemented by tutorials and laboratory sessions, will continue to be the bedrock of instruction in higher education, it will increasingly be complemented by e-learning (including podcasting and online discussion groups), self-directed learning, problem-based learning, and collaborative projects.
 
-Teachers in higher education 'need to stimulate active, not passive learning, and to encourage students to be critical, creative thinkers, with the capacity to go on learning after their college days are over. ' 64 They need to 'create a process of active learning by posing problems, challenging student answers, and encouraging (students) to apply the information and concepts in assigned readings to a variety of new situations'. 65
+Teachers in higher education 'need to stimulate active, not passive learning, and to encourage students to be critical, creative
 
-> 63 See Huber, M.T. & Morreale, S.P . (Eds) (2002) Disciplinary Styles in the Scholarship of  T eaching and Learning - Exploring Common Ground, The Carnegie Foundation for the Advancement of Teaching and the American Association for Higher Education.
+> 63 See Huber, M.T. & Morreale, S.P. (Eds) (2002) Disciplinary Styles in the Scholarship of Teaching and Learning - Exploring Common Ground, The Carnegie Foundation for the Advancement of Teaching and the American Association for Higher Education.
 
 52
 
@@ -1473,6 +1576,8 @@ Teachers in higher education 'need to stimulate active, not passive learning, an
 [[START OF PAGE 55]]
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
+
+thinkers, with the capacity to go on learning after their college days are over.' 64 They need to 'create a process of active learning by posing problems, challenging student answers, and encouraging (students) to apply the information and concepts in assigned readings to a variety of new situations'. 65
 
 ### 3.2	 Involvement of students in course planning, feedback and evaluation
 
@@ -1498,11 +1603,11 @@ Teaching in higher education is distinguished from teaching at other levels by i
 
 The integration of research with teaching and learning can take many forms. 68 Teaching and learning can be:
 
-> 66 Ernest Boyer (1995) 'Scholarship - a Personal Journey' in C. Glassick, M. Taylor Huber and G. Maeroff ,  Scholarship Assessed: Evaluation of the Professoriate (Carnegie Foundation for the Advancement of Teaching).
+> 66 Ernest Boyer (1995) 'Scholarship - a Personal Journey' in C. Glassick, M. Taylor Huber and G. Maeroff, Scholarship Assessed: Evaluation of the Professoriate (Carnegie Foundation for the Advancement of Teaching).
 
-> 67 See the Thematic Synthesis of  Written Submissions to the Strategy Group available at http://www.hea.ie/en/node/1303
+> 67 See the Thematic Synthesis of Written Submissions to the Strategy Group available at http://www.hea.ie/en/node/1303
 
-> 68 Angela Brew (2006) Research and  T eaching: Beyond the Divide. London: Palgrave MacMillan, and NAIRTL (2010) Guidelines for Awards for Excellence in  T eaching.
+> 68 Angela Brew (2006) Research and Teaching: Beyond the Divide. London: Palgrave MacMillan, and NAIRTL (2010) Guidelines for Awards for Excellence in Teaching.
 
 53
 
@@ -1512,13 +1617,13 @@ The integration of research with teaching and learning can take many forms. 68 T
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-■ ■ Research-led: the curriculum is informed by the research interests of the teachers;
+■ Research-led: the curriculum is informed by the research interests of the teachers;
 
-■ ■ Research-oriented: the curriculum emphasises the processes by which knowledge is produced;
+■ Research-oriented: the curriculum emphasises the processes by which knowledge is produced;
 
-■ ■ Research-based: the curriculum includes activities in which students actually conduct research, through projects and other course work; or
+■ Research-based: the curriculum includes activities in which students actually conduct research, through projects and other course work; or
 
-■ ■ Research-informed: the curriculum is informed by systematic enquiry into the teaching and learning process itself.
+■ Research-informed: the curriculum is informed by systematic enquiry into the teaching and learning process itself.
 
 In essence, the integration of research with teaching and learning occurs in an environment and in a context where a spirit of enquiry and questioning prevails and where staff and students are committed to an evidence-based approach to their work, and to creating new knowledge as well as to transmitting and critiquing existing knowledge. 69 While not all academics in higher education institutions will be engaged in research, a culture of enquiry and engaged scholarship should permeate the work of all higher education institutions, and all students in Irish higher education - both undergraduate and postgraduate - should learn in an environment where research and teaching are closely linked.
 
@@ -1536,7 +1641,7 @@ In the coming decades, the delivery of higher education in Ireland must be chara
 
 People can learn in a variety of different ways, and the higher education system needs to be flexible in supporting and accrediting them all.  While campus-based learning will continue to play a major role in higher education, the institutions will have to accommodate and serve the needs of an increasingly diverse student body, many of whom will need to engage flexibly with higher education.
 
-In the years ahead, students will choose to learn in a variety of ways - full-time or parttime; on campus or off campus; classroombased, blended, online or accelerated learning. Some of this learning will take place through open and distance learning; some will take place in the workplace; and some will take place in outreach centres. Resources allocated to and within institutions should support all students equally, whether they are full-time or parttime, on-campus or off-campus.
+In the years ahead, students will choose to learn in a variety of ways - full-time or part-time; on campus or off campus; classroom-based, blended, online or accelerated learning. Some of this learning will take place through open and distance learning; some will take place in the workplace; and some will take place in outreach centres. Resources allocated to and within institutions should support all students equally, whether they are full-time or part-time, on-campus or off-campus.
 
 #### Routes of access and progression
 
@@ -1556,13 +1661,13 @@ Recognition of Prior Learning (RPL) is particularly important as flexible and wo
 
 Progress in implementing the NFQ is a distinct strength of Irish education, and one on which we can continue to build. In the near future, all higher education programmes will be modularised and semesterised, and will be described in terms of learning outcomes. Programme and module descriptions will articulate the learning outcomes that the students will be required to achieve in order to graduate. This will provide a greater degree of flexibility for students, and considerable potential for the creation of customised programmes, which could include modules from different institutions and different disciplines.
 
-### 3.5	 Transition into higher education access and induction
+### 3.5	 Transition into higher education - access and induction
 
 Many people believe that second-level education does not prepare students adequately for the challenges of higher education. 71 Students entering higher education directly from school often lack the critical thinking, problem solving and independent learning skills required for successful engagement in higher education. 72
 
 > 70 A project sponsored jointly by EGFSN and NQAI has been established to explore this issue.
 
-> 71 See, for example, Report of the Points Commission ( 1999).
+> 71 See, for example, Report of the Points Commission (1999).
 
 > 72 See the Report of Focus Group meeting of the Strategy Group with students, Nov 09.
 
@@ -1572,7 +1677,7 @@ Higher education cannot solve this problem alone; there needs to be complementar
 
 Pending such reform, higher education providers should address identified shortfalls in students' skills during their first year in higher education. This can be done by expanding the availability of induction and preparation courses for first-year students, covering skills such as self-directed learning, time management, information literacy   and critical analysis, and by providing additional support for students in subject areas where they are experiencing difficulties.
 
-> 73 The percentage of Leaving Certificate candidates taking higher-level mathematics in the Leaving Certificate was as follows: 1995 - 17%, 2000 - 18%, 2001 - 18%, 2002 - 18%, 2003 - 17%, 2004 - 18%, 2005 - 19%, 2006 - 18%, 2007 17%, 2008 - 17%, 2009 - 16%.
+> 73 The percentage of Leaving Certificate candidates taking higher-level mathematics in the Leaving Certificate was as follows: 1995 - 17%, 2000 - 18%, 2001 - 18%, 2002 - 18%, 2003 - 17%, 2004 - 18%, 2005 - 19%, 2006 - 18%, 2007 - 17%, 2008 - 17%, 2009 - 16%.
 
 55
 
@@ -1592,7 +1697,7 @@ At present, Irish higher education requires students to choose a specialised are
 
 Greater interdisciplinarity is also needed at undergraduate level. Some institutions have already begun to address this issue, by enabling and encouraging students to choose modules outside the area of their chosen specialisation. 76   The implementation of modularisation and semesterisation, introduced under the Bologna process, provides the opportunity for greater interdisciplinarity in student learning - an opportunity that has not yet been fully exploited by Irish higher education institutions.
 
-> 74 Bill Johnston (2010) The First  Year at University:  T eaching Students in  T ransition (Open University Press) p 31.
+> 74 Bill Johnston (2010) The First Year at University: Teaching Students in Transition (Open University Press) p 31.
 
 > 75 For example, one institution offers 14 separate specialised Business Programmes at Level 8, and requires applicants to indicate on their CAO form (six months in advance of entering higher education) which of these programmes they intend to pursue.
 
@@ -1600,7 +1705,7 @@ Greater interdisciplinarity is also needed at undergraduate level. Some institut
 
 Measuring learning outcomes is more difficult than measuring inputs or processes. It requires enhanced capacity for measurement and evaluation, and this needs resources. Changing the focus from inputs to learning outcomes also requires changes in the way academics conceive of and organise their teaching and assessment.
 
-The undergraduate curriculum needs to place more emphasis on generic skills, especially those required for the workplace and for active citizenship. Creativity and entrepreneurship must be encouraged to a much greater extent; and institutions should facilitate reflective learning, applied knowledge, practical laboratory experience, and scientific skills.  V arious surveys, nationally and internationally, show that students, academics and employers believe that higher education has an important role to play in preparing students for the workplace and for their role as citizens, and that undergraduate education should explicitly address the generic skills required for effective engagement in society and the workplace. 77
+The undergraduate curriculum needs to place more emphasis on generic skills, especially those required for the workplace and for active citizenship. Creativity and entrepreneurship must be encouraged to a much greater extent; and institutions should facilitate reflective learning, applied knowledge, practical laboratory experience, and scientific skills. Various surveys, nationally and internationally, show that students, academics and employers believe that higher education has an important role to play in preparing students for the workplace and for their role as citizens, and that undergraduate education should explicitly address the generic skills required for effective engagement in society and the workplace. 77
 
 > 76 See, for example, the Horizons project in UCD and the Broad Curriculum in Trinity College Dublin.
 
@@ -1618,23 +1723,23 @@ Ireland is one of the most successful European countries in implementing the Bol
 
 While semesterisation and modularisation have enabled greater flexibility and responsiveness to students needs, they have produced some new problems. Some undergraduate programmes have become fragmented and now consist of a large number of small modules. For example, a one-year 60-credit course might consist of 12 separate five-credit modules. Such programmes are regarded by students as over-taught and over-assessed; they impose an undue and unnecessary burden on both students and staff. In some cases, they are so heavily timetabled that students' opportunity for independent and self-directed learning is significantly curtailed. Other programmes, by contrast, have very low lecture requirements, and there is some concern that they offer insufficient formal teaching.
 
-> 77 See, for example, the survey of almost 2,700 students, HEI staff and employers in Ireland, carried out by NAIRTL in April 2009 (Investigating Graduate Competencies, www.nairtl. ie June 2009), and the Europe-wide survey of almost 15,000 students carried out in the 27 Member States, Croatia, Iceland, Norway and Turkey in March 2009.
+> 77 See, for example, the survey of almost 2,700 students, HEI staff and employers in Ireland, carried out by NAIRTL in April 2009 (Investigating Graduate Competencies, www.nairtl.ie June 2009), and the Europe-wide survey of almost 15,000 students carried out in the 27 Member States, Croatia, Iceland, Norway and Turkey in March 2009.
 
-> 78 OECD AHELO project: see http://www.oecd. org/document/41/ .  See also Derek Bok (2006), Our Underachieving Colleges (Princeton University Press) and Frank Rhodes (2001) The Creation of the Future (Cornell University Press).
+> 78 OECD AHELO project: see http://www.oecd.org/document/41/. See also Derek Bok (2006), Our Underachieving Colleges (Princeton University Press) and Frank Rhodes (2001) The Creation of the Future (Cornell University Press).
 
 > 79 Environmental literacy might also be included: see H. Reynolds, E. Brondizio and J. Meta Robinson (2010) Teaching Environmental Literacy: Across Campus and Across the Curriculum, Indiana University Press.
 
-> 80 See A. Rauhvargers, C. Deane and W . Pauwels Bologna Process Stocktaking Report 2009. Brussels: EU 2009.
+> 80 See A. Rauhvargers, C. Deane and W. Pauwels Bologna Process Stocktaking Report 2009. Brussels: EU 2009.
 
 > 81 See, for example, University Awards and the NFQ: Issues around the Design of Programmes and the Use and Assessment of Learning Outcomes: The University Sector Framework Implementation Network (FIN), (IUA December 2009) and Framework Implementation and Impact Study Sep. 2009.
 
-The recent Framework Implementation and Impact Study carried out by National Qualifications Authority of Ireland on the National Framework of Qualifications 82 noted international evidence that 'points to the need … to align learning outcomes with assessment practice. There is a risk that in the initial stages of Framework implementation, there could be 'overassessment' to compensate for any perceived shift in reliance on traditional assessment stages or methods'. 83 The review stressed that all relevant stakeholders should continuously monitor the impact of Framework implementation on teaching, learning and the student experience.
+The recent Framework Implementation and Impact Study carried out by National Qualifications Authority of Ireland on the National Framework of Qualifications 82 noted international evidence that 'points to the need … to align learning outcomes with assessment practice. There is a risk that in the initial stages of Framework implementation, there could be 'over-assessment' to compensate for any perceived shift in reliance on traditional assessment stages or methods'. 83 The review stressed that all relevant stakeholders should continuously monitor the impact of Framework implementation on teaching, learning and the student experience.
 
 In line with the recommendations of the recent European Commission document, 84 higher education institutions, in the design of courses and programmes, should ensure alignment and balance between learning outcomes, pedagogy and assessment, and institutions should have the capacity to deliver the outcomes-based approach, in terms of environmental conditions and staff preparedness and expertise.
 
 > 82 http://www.nqai.ie/framework_study.html
 
-> 83 Framework Implementation and Impact Study, Report of the Study T eam, September 2009, p.38.
+> 83 Framework Implementation and Impact Study, Report of the Study Team, September 2009, p.38.
 
 > 84 New Skills for New Jobs: Action Now. A Report by the Expert Group on New Skills for New Jobs. (2010) European Commission.
 
@@ -1656,11 +1761,11 @@ The Bologna Process Stocktaking Report 2009 86 confirms that Irish higher educat
 
 > 85 Commission of the European Communities Report on progress in quality assurance in higher education. Brussels 21 Sep 2009, COM (2009) 487.
 
-> 86 http://www.ond.vlaanderen.be/hogeronderwijs/ bologna/conference/documents/Stocktaking_ report_2009_FINAL.pdf
+> 86 http://www.ond.vlaanderen.be/hogeronderwijs/bologna/conference/documents/Stocktaking_report_2009_FINAL.pdf
 
 The emphasis to date has been on the process of quality assurance; in future this should be complemented by a focus on standards across the sector. A national approach to subject guidelines could draw on the experience of the EU Tuning project which served as a forum for developing reference points (expressed in terms of intended learning outcomes   ) at subject area level during the past decade. 87 In the Irish context, subject guidelines should be developed as a supporting academic infrastructure to the National Framework of Qualifications.  This work should be progressed by subject experts from the academic community and coordinated by the new Qualifications and Quality Assurance Ireland agency. Care must be taken to demonstrate that this project does not create an excessively bureaucratic or costly system. In addition, a comprehensive and independent review should be undertaken of the external examiner system and the grading system more generally.
 
-### 3.9	 Transition to work work placement and service learning
+### 3.9	 Transition to work - work placement and service learning
 
 Many undergraduate programmes in Irish higher education institutions already include work placement or internship, but more such opportunities should be provided. In the University of Limerick, for example, all undergraduate students, regardless of discipline, are required to spend eight months on work placement or in cooperative learning.
 
@@ -1680,7 +1785,7 @@ One solution to the challenge of finding suitable work placement for students is
 
 There is significant merit in expanding work placement and service learning opportunities across a broad range of higher education programmes. This being the case, wherever appropriate, undergraduate students should be encouraged to spend some time in a work or service situation, and this should be formally acknowledged by their institution either through accreditation or by inclusion in the student's Diploma Supplement.
 
-> 88 What is Service Learning? ETR Associates on http://www. servicelearning.org
+> 88 What is Service Learning? ETR Associates on http://www.servicelearning.org
 
 > 89 See Lorraine McIlrath and Iain MacLabhrainn (ed.) (2007) Higher Education and Civic Engagement: International Perspectives Ashgate Publishing Co.
 
@@ -1688,11 +1793,11 @@ There is significant merit in expanding work placement and service learning oppo
 
 It is not sufficient for academics to be experts in their disciplinary area; they also need to know how best to teach that discipline. They need to have an understanding of learning theories, and to know how to apply these theories to their practice.  They need to appreciate what teaching and learning approaches work best for different students in different situations.
 
-There are exciting and dynamic teaching and learning initiatives in many Irish higher education institutions which take the learning styles of individual students in various disciplines into account 90  and which recognise that there is no one best way to teach in higher education. 91  NAIRTL - the National Academy for the Integration of Research, T eaching and Learning - has done much valuable work in this area by promoting research-based teaching practices in academic professional development. This work needs to continue, and to be disseminated, supported and developed at institutional and national levels, so that Ireland's higher education system can provide an exemplary teaching and learning environment. The dissemination of good practice through national networks for teaching and learning, and the recognition of excellence in teaching should underpin strategy for the ongoing development of higher education.
+There are exciting and dynamic teaching and learning initiatives in many Irish higher education institutions which take the learning styles of individual students in various disciplines into account 90 and which recognise that there is no one best way to teach in higher education. 91 NAIRTL - the National Academy for the Integration of Research, Teaching and Learning - has done much valuable work in this area by promoting research-based teaching practices in academic professional development. This work needs to continue, and to be disseminated, supported and developed at institutional and national levels, so that Ireland's higher education system can provide an exemplary teaching and learning environment. The dissemination of good practice through national networks for teaching and learning, and the recognition of excellence in teaching should underpin strategy for the ongoing development of higher education.
 
-> 90 See, for example, N. Lyons et al (2002) Advancing the Scholarship of  T eaching and Learning through a Reflective Portfolio Process: the UCC Experience; A Hyland (2004) University College Cork as a Learning Organisation; G. O'Neill, S. Moore & B. McMullin (2005) Emerging Issues in the Practice of University Learning and Teaching; T .  Barrett et al (2005) Handbook of Enquiry and ProblemBased Learning: Irish Case Studies and International Perspectives; Ciara O'Farrell (ed) (2007) Teaching Portfolio Practice in Ireland: a Handbook; B. Higgs and M. McCarthy (2008) Emerging Issues II: The Changing Roles and Identities of  T eachers and Learners in Higher Education; Norma Ryan NAIRTL 1: J. Murphy and B. Higgs (2009) T eaching and Learning in Higher Education: Challenging Assumptions.
+> 90 See, for example, N. Lyons et al (2002) Advancing the Scholarship of Teaching and Learning through a Reflective Portfolio Process: the UCC Experience; A Hyland (2004) University College Cork as a Learning Organisation; G. O'Neill, S. Moore & B. McMullin (2005) Emerging Issues in the Practice of University Learning and Teaching; T. Barrett et al (2005) Handbook of Enquiry and Problem-Based Learning: Irish Case Studies and International Perspectives; Ciara O'Farrell (ed) (2007) Teaching Portfolio Practice in Ireland: a Handbook; B. Higgs and M. McCarthy (2008) Emerging Issues II: The Changing Roles and Identities of Teachers and Learners in Higher Education; Norma Ryan NAIRTL 1: J. Murphy and B. Higgs (2009) Teaching and Learning in Higher Education: Challenging Assumptions.
 
-> 91 See, for example, Huber, M.T. & Morreale, S.P . (Eds) (2002) Disciplinary Styles in the Scholarship of  T eaching and Learning Exploring Common Ground, The Carnegie Foundation for the Advancement of Teaching and the American Association for Higher Education.
+> 91 See, for example, Huber, M.T. & Morreale, S.P. (Eds) (2002) Disciplinary Styles in the Scholarship of Teaching and Learning - Exploring Common Ground, The Carnegie Foundation for the Advancement of Teaching and the American Association for Higher Education.
 
 59
 
@@ -1702,7 +1807,7 @@ There are exciting and dynamic teaching and learning initiatives in many Irish h
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-Teachers at other levels of the education system, from primary to further education, are required to have a professional qualification. Professions such as medicine, dentistry, law and engineering have rigorous entry standards and a requirement for continuing professional development. Internationally, there is increased recognition of the need for higher education to meet similar standards.  The European Standards and Guidelines for Quality Assurance offer a very clear direction in this regard and should form the standard for Irish policy in this regard.  They provide that all institutions 'satisfy themselves that staff involved with the teaching of students are qualified and competent to do so' and further that 'Institutions should ensure that their staff recruitment and appointment procedures include a means of making certain that all new staff have at least the minimum necessary level of competence. T eaching staff should be given opportunities to develop and extend their teaching capacity and should be encouraged to value their skills. Institutions should provide poor teachers with opportunities to improve their skills to an acceptable level and should have the means to remove them from their teaching duties if they continue to be demonstrably ineffective.
+Teachers at other levels of the education system, from primary to further education, are required to have a professional qualification. Professions such as medicine, dentistry, law and engineering have rigorous entry standards and a requirement for continuing professional development. Internationally, there is increased recognition of the need for higher education to meet similar standards. The European Standards and Guidelines for Quality Assurance offer a very clear direction in this regard and should form the standard for Irish policy in this regard. They provide that all institutions 'satisfy themselves that staff involved with the teaching of students are qualified and competent to do so' and further that 'Institutions should ensure that their staff recruitment and appointment procedures include a means of making certain that all new staff have at least the minimum necessary level of competence. Teaching staff should be given opportunities to develop and extend their teaching capacity and should be encouraged to value their skills. Institutions should provide poor teachers with opportunities to improve their skills to an acceptable level and should have the means to remove them from their teaching duties if they continue to be demonstrably ineffective.
 
 ### 3.11	 Postgraduate curriculum and PhD training
 
@@ -1722,29 +1827,29 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 #### Teaching and learning
 
-##### 1 Higher education students of the future should have an excellent teaching and learning experience, informed by up-to-date research and facilitated by  a  high-quality  learning  environment,  with  state-of-the-art  learning resources, such as libraries, laboratories, and e-learning facilities.
+##### 1 Higher education students of the future should have an excellent teaching and learning experience, informed by up-to-date research and facilitated by a high-quality learning environment, with state-of-the-art learning resources, such as libraries, laboratories, and e-learning facilities.
 
-##### 2 Higher  education  institutions  should  put  in  place  systems  to  capture feedback from students, and use this feedback to inform institutional and programme management, as well as national policy.
+##### 2 Higher education institutions should put in place systems to capture feedback from students, and use this feedback to inform institutional and programme management, as well as national policy.
 
-■ ■ A national student survey system should be put in place and the results published.
+■ A national student survey system should be put in place and the results published.
 
-■ ■ Every higher education institution should put in place a comprehensive anonymous student feedback system, coupled with structures to ensure that action is taken promptly in response to student concerns.
+■ Every higher education institution should put in place a comprehensive anonymous student feedback system, coupled with structures to ensure that action is taken promptly in response to student concerns.
 
 ##### 3 Every student should learn in an environment that is informed by research, scholarship and up-to-date practice and knowledge.
 
-■ ■ The roles of teaching and research should be afforded parity of esteem.  This should be reflected in resource allocation, in promotion criteria, and in the metrics used to assess performance at individual, institution and system level.
+■ The roles of teaching and research should be afforded parity of esteem. This should be reflected in resource allocation, in promotion criteria, and in the metrics used to assess performance at individual, institution and system level.
 
 ##### 4 The Irish higher education system must continue to develop clear routes of progression and transfer, as well as non-traditional entry routes.
 
-■ ■ In  the  coming  decades,  the  delivery  of  higher  education  in  Ireland  must  be characterised by flexibility and innovation.
+■ In the coming decades, the delivery of higher education in Ireland must be characterised by flexibility and innovation.
 
-■ ■ All students, whether full-time or part-time, on-campus or off-campus, should be equally supported by the funding model used to allocate resources to and within institutions.
+■ All students, whether full-time or part-time, on-campus or off-campus, should be equally supported by the funding model used to allocate resources to and within institutions.
 
-■ ■ Undergraduate students should be encouraged to spend some time in a work or service situation, and formally acknowledge such work through accreditation or inclusion in the student's Diploma Supplement.
+■ Undergraduate students should be encouraged to spend some time in a work or service situation, and formally acknowledge such work through accreditation or inclusion in the student's Diploma Supplement.
 
-■ ■ Routes of progression should be flexible into, within and across higher education institutions.
+■ Routes of progression should be flexible into, within and across higher education institutions.
 
-■ ■ A  national  framework  for  the  recognition  of  prior  learning  (RPL)  must  be developed and recognised by all higher education institutions.
+■ A national framework for the recognition of prior learning (RPL) must be developed and recognised by all higher education institutions.
 
 61
 
@@ -1756,23 +1861,23 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 ##### 5 Higher education institutions should prepare first-year students better for their learning experience, so that they can engage with it more successfully.
 
-■ ■ Higher  education  institutions  should  expand  the  provision  of  induction  and preparation programmes for first-year students.
+■ Higher education institutions should expand the provision of induction and preparation programmes for first-year students.
 
-■ ■ Higher  education  institutions should offer broad-based courses  and  more interdisciplinary  learning  opportunities  for  students  in  the  first  year  of  their undergraduate studies.
+■ Higher education institutions should offer broad-based courses and more interdisciplinary learning opportunities for students in the first year of their undergraduate studies.
 
 ##### 6 Both undergraduate and taught postgraduate programmes should develop the generic skills needed for effective engagement in society and in the workplace.
 
-■ ■ Undergraduate and postgraduate education should explicitly address the generic skills required for effective engagement in society and in the workplace.
+■ Undergraduate and postgraduate education should explicitly address the generic skills required for effective engagement in society and in the workplace.
 
-■ ■ In  the  design  of  courses  and  programmes,  higher  education  institutions  should ensure alignment and balance between learning outcomes, pedagogy and assessment.
+■ In the design of courses and programmes, higher education institutions should ensure alignment and balance between learning outcomes, pedagogy and assessment.
 
 ##### 7 In light of the scale of transformation in teaching and learning that is under way in Irish higher education, the quality assurance framework must be reviewed and further developed.
 
-■ ■ Subject  guidelines  should  be  developed  to  support  the  National  Framework of  Qualifications. This  work  should  be  progressed  by  subject  experts  from  the academic  community  and  coordinated  by  the  new  Qualifications  and  Quality Assurance Ireland agency.
+■ Subject guidelines should be developed to support the National Framework of Qualifications. This work should be progressed by subject experts from the academic community and coordinated by the new Qualifications and Quality Assurance Ireland agency.
 
-■ ■ A full and comprehensive review should be undertaken of the external examiner system and the grading system more generally.
+■ A full and comprehensive review should be undertaken of the external examiner system and the grading system more generally.
 
-##### 8 All  higher  education  institutions  must  ensure  that  all  teaching  staff  are both qualified and competent in teaching and learning, and should support ongoing development and improvement of their skills.
+##### 8 All higher education institutions must ensure that all teaching staff are both qualified and competent in teaching and learning, and should support ongoing development and improvement of their skills.
 
 62
 
@@ -1786,17 +1891,15 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 ### In this chapter
 
-This chapter deals with the second of the three interconnected core roles of higher education - that of research .
+This chapter deals with the second of the three interconnected core roles of higher education - that of research.
 
-Ten years ago, the Irish Government took a series of decisions that recognised the imperative to invest in research in order to sustain Ireland's economic and social progress. It also decided to concentrate a large part of that research in higher education institutions, and particularly in the universities. In recent years, the roadmap for research in terms of economic impact was set out in the Strategy for Science,  T echnology and Innovation (SSTI) and further elaborated in the Innovation  T ask Force Report. The strategy set out in this document fully endorses the thrust of the SSTI and the recommendations of the Innovation Task Force.
+Ten years ago, the Irish Government took a series of decisions that recognised the imperative to invest in research in order to sustain Ireland's economic and social progress. It also decided to concentrate a large part of that research in higher education institutions, and particularly in the universities. In recent years, the roadmap for research in terms of economic impact was set out in the Strategy for Science, Technology and Innovation (SSTI) and further elaborated in the Innovation Task Force Report. The strategy set out in this document fully endorses the thrust of the SSTI and the recommendations of the Innovation Task Force.
 
 ### 4.1	 Context
 
-The pathway between investment in research and discernible economic impact is complex and often indirect. This can give rise to an overestimate of the return in the short term and an underestimate in the long term. It can lead to arguments about the types of research to be supported, from fundamental/basic, or oriented/strategic, to applied/ development. For Ireland, a salient fact is that significant investment in research began only a decade ago, and while clear, identifiable outputs are already emerging in respect of both research and its commercialisation, it will take another decade to show the full impact of the investment. In the debate on the return on investment in research, a large emphasis is placed on the knowledge created and the intellectual property that can be quantified for deployment. While this is correct, the importance of qualified people to effect this deployment should not be ignored this is the special value of research within higher education, and it fully justifies the decision of Government to significantly concentrate its investment in higher education institutions.
+The pathway between investment in research and discernible economic impact is complex and often indirect. This can give rise to an overestimate of the return in the short term and an underestimate in the long term. It can lead to arguments about the types of research to be supported, from fundamental/basic, or oriented/strategic, to applied/development. For Ireland, a salient fact is that significant investment in research began only a decade ago, and while clear, identifiable outputs are already emerging in respect of both research and its commercialisation, it will take another decade to show the full impact of the investment. In the debate on the return on investment in research, a large emphasis is placed on the knowledge created and the intellectual property that can be quantified for deployment. While this is correct, the importance of qualified people to effect this deployment should not be ignored - this is the special value of research within higher education, and it fully justifies the decision of Government to significantly concentrate its investment in higher education institutions.
 
-Research carried out in higher education
-
-has direct bearing on the formation of our students.  This is most obvious at the postgraduate level, as students learn the art of research and participate in the advancement of knowledge. These students will be the primary engine for transferring that knowledge to the wider society, either by jobshaping and entrepreneurship or as innovators within their chosen careers. Research also informs the curriculum for undergraduates - the exposure of all students to the passion and insights of research-active academic staff can be a special force for personal development and creativity.
+Research carried out in higher education has direct bearing on the formation of our students. This is most obvious at the postgraduate level, as students learn the art of research and participate in the advancement of knowledge. These students will be the primary engine for transferring that knowledge to the wider society, either by job-shaping and entrepreneurship or as innovators within their chosen careers. Research also informs the curriculum for undergraduates - the exposure of all students to the passion and insights of research-active academic staff can be a special force for personal development and creativity.
 
 Research in a higher education environment can draw on a wide variety of disciplines to address the grand challenges facing Ireland and the world, and whose resolution within an Irish context could place Ireland at the forefront of international developments. The ready access to this wide array of disciplines is unique to higher education institutions, and one of their main strengths.  Thus, simultaneous investment is needed across disciplines to create a broad base of knowledge, and in specific themes that build on this base. The themes will be multi-disciplinary, and will involve national and international partnership with other institutions, industry, other relevant agencies and Government.
 
@@ -1812,19 +1915,19 @@ Finally, research in higher education has an important role in informing public 
 
 ### 4.2	 The Strategy for Science, Technology and Innovation 2006-13
 
-The Strategy for Science, T echnology and Innovation (SSTI) was developed to address the future needs of the country based on a set of observations at the time. R&D in science, technology and engineering was seen as key to global economic growth. S&T-based industries, such as ICT and pharmaceuticals, aerospace and automotives, were among the main drivers of the world economy for decades. 92 In Ireland, the four sectors of Electrical & Optical Equipment (which includes ICT and Medical Devices), Chemicals & Pharmaceuticals, Food & Drink, and Print & Recorded Media accounted for the largest part of manufacturing output. 93 However, for a country whose economy was dominated by high-technology industry, there was a disjunction between this impressive performance and the level of R&D conducted by firms and higher education institutions (HEIs) in Ireland. 94 The SSTI set out how high-quality innovative research in science, engineering and technology aligned with the principal manufacturing sectors in Ireland could result in economic and social benefits for the country as a whole. These benefits can be economic, such as creating employment in the production of ICT products and the creation of spin-off companies in the pharmaceuticals sector, or they can be more complex benefits related to a healthier population, an improvement in the environment, or further enhancement of Ireland's reputation in science, engineering and technology, leading to increased foreign investment. 95
+The Strategy for Science, Technology and Innovation (SSTI) was developed to address the future needs of the country based on a set of observations at the time. R&D in science, technology and engineering was seen as key to global economic growth. S&T-based industries, such as ICT and pharmaceuticals, aerospace and automotives, were among the main drivers of the world economy for decades. 92 In Ireland, the four sectors of Electrical & Optical Equipment (which includes ICT and Medical Devices), Chemicals & Pharmaceuticals, Food & Drink, and Print & Recorded Media accounted for the largest part of manufacturing output. 93 However, for a country whose economy was dominated by high-technology industry, there was a disjunction between this impressive performance and the level of R&D conducted by firms and higher education institutions (HEIs) in Ireland. 94 The SSTI set out how high-quality innovative research in science, engineering and technology aligned with the principal manufacturing sectors in Ireland could result in economic and social benefits for the country as a whole. These benefits can be economic, such as creating employment in the production of ICT products and the creation of spin-off companies in the pharmaceuticals sector, or they can be more complex benefits related to a healthier population, an improvement in the environment, or further enhancement of Ireland's reputation in science, engineering and technology, leading to increased foreign investment. 95
 
 > 92 Peter Dicken, Global Shift: Mapping the Changing Contours of the World Economy, London : Sage Publications, 2007.
 
 The performance of the Irish system in the last 10 years is impressive.
 
-■ ■ Science Foundation Ireland (SFI) is focusing on investing in high-quality research relevant to the Irish economy. The economic return on this investment is seen particularly in the associated company collaborations, primarily with larger projects such as the Centres for Science, Engineering and Technology (CSETs) and the Strategic Research Clusters (SRCs). 96
+■ Science Foundation Ireland (SFI) is focusing on investing in high-quality research relevant to the Irish economy. The economic return on this investment is seen particularly in the associated company collaborations, primarily with larger projects such as the Centres for Science, Engineering and Technology (CSETs) and the Strategic Research Clusters (SRCs). 96
 
 > 93 Report of the High Level Group on Manufacturing, Department of Enterprise, Trade & Employment, Forfás, 2008:4.
 
-> 94 Enterprise Strategy Group: Ahead of the Curve, Ireland' s Place in the Global Economy, Forfás, 2004:26.
+> 94 Enterprise Strategy Group: Ahead of the Curve, Ireland's Place in the Global Economy, Forfás, 2004:26.
 
-> 95 Strategy for Science,  T echnology and Innovation 2006-2013, Department of Enterprise, Trade & Employment, 2006:8ff.
+> 95 Strategy for Science, Technology and Innovation 2006-2013, Department of Enterprise, Trade & Employment, 2006:8ff.
 
 > 96 Examples of the companies engaged with SFI through the CSETs and SRCs include: Alimentary Health, Amic AB, Analog Devices, Becton Dickinson, Biosurfit, Celtrack,
 
@@ -1836,19 +1939,19 @@ The performance of the Irish system in the last 10 years is impressive.
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-■ ■ The Programme for Research in Third Level Institutions (PRTLI) has engendered a culture of strategic collaboration in higher education institutions, so as to develop critical mass around research activity and education provision across all disciplines especially in the areas of science and technology but also including the Arts, Humanities and Social Science. There are many examples of this, such as Molecular Medicine Ireland, and the Integrated Nanoscience Platform for Ireland (INSPIRE), which brings together all the higher education institutions in Ireland with leading international research capability in nanoscience and nanotechnology, including the Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN) and the Tyndall National Institute.  The Humanities Serving Irish Society (HSIS) is an example of how several institutions across the country have come together to enable the humanities play their role in national development including in particular the use of the power of digital technology. The recent announcement by University College Dublin and Trinity College Dublin on the formation of an Innovation Alliance is a direct consequence of this policy emphasis on institutional cooperation which is at the heart of PRTLI and the Strategic Innovation Fund.
+■ The Programme for Research in Third Level Institutions (PRTLI) has engendered a culture of strategic collaboration in higher education institutions, so as to develop critical mass around research activity and education provision across all disciplines especially in the areas of science and technology but also including the Arts, Humanities and Social Science. There are many examples of this, such as Molecular Medicine Ireland, and the Integrated Nanoscience Platform for Ireland (INSPIRE), which brings together all the higher education institutions in Ireland with leading international research capability in nanoscience and nanotechnology, including the Centre for Research on Adaptive Nanostructures and Nanodevices (CRANN) and the Tyndall National Institute. The Humanities Serving Irish Society (HSIS) is an example of how several institutions across the country have come together to enable the humanities play their role in national development including in particular the use of the power of digital technology. The recent announcement by University College Dublin and Trinity College Dublin on the formation of an Innovation Alliance is a direct consequence of this policy emphasis on institutional cooperation which is at the heart of PRTLI and the Strategic Innovation Fund.
 
-■ ■ In 2008, Ireland was placed for the first time in the top 20 most cited countries in the world (in 2003 Ireland was ranked only 36th). 97
+■ In 2008, Ireland was placed for the first time in the top 20 most cited countries in the world (in 2003 Ireland was ranked only 36th). 97
 
-> Cisco, Cyntelix, Enfer T echnologies, Ericsson, Fidelity, GlaxoSmithKline, Hewlett-Packard, Hospira, IBM, Intel, Inverness Medical Innovations, Lucent T echnologies (Bell Labs), Medtronic  Vascular, NEC Communications Systems, Nortel, OpenLink, Proctor & Gamble, Robert Bosch, Smith & Nephew, Socowave, Storm Technologies, TDK, and Xilinx Research Lab.
+> Cisco, Cyntelix, Enfer Technologies, Ericsson, Fidelity, GlaxoSmithKline, Hewlett-Packard, Hospira, IBM, Intel, Inverness Medical Innovations, Lucent Technologies (Bell Labs), Medtronic Vascular, NEC Communications Systems, Nortel, OpenLink, Proctor & Gamble, Robert Bosch, Smith & Nephew, Socowave, Storm Technologies, TDK, and Xilinx Research Lab.
 
 > 97 Research strengths in Ireland: A bibliometric study of the public research base 2009 HEA Forfás.
 
-■ ■ The way in which Ireland is transforming the PhD programme by a more structured approach and incorporating generic as well as discipline-specific courses is regarded by Europe as leading the way. The number of PhDs employed in industry has almost trebled, from 420 in 2001 to 1,179 in 2007. 98
+■ The way in which Ireland is transforming the PhD programme by a more structured approach and incorporating generic as well as discipline-specific courses is regarded by Europe as leading the way. The number of PhDs employed in industry has almost trebled, from 420 in 2001 to 1,179 in 2007. 98
 
-■ ■ Ireland's commitment to scientific research and to producing world-class graduates is a major attraction for overseas investors and is resulting in a series of significant industrial and academic research collaborations. Forty per cent of the 114 new projects negotiated by IDA Ireland in 2007 were R&D investments, and 43 per cent in 2008. These investments are valued at € 420 million. SFI groups were an important influence on at least a third of these investments in 2008.
+■ Ireland's commitment to scientific research and to producing world-class graduates is a major attraction for overseas investors and is resulting in a series of significant industrial and academic research collaborations. Forty per cent of the 114 new projects negotiated by IDA Ireland in 2007 were R&D investments, and 43 per cent in 2008. These investments are valued at €420 million. SFI groups were an important influence on at least a third of these investments in 2008.
 
-■ ■ Investment in research is also beginning to bear fruit through the commercialisation activities supported by Enterprise Ireland. Higher education researchers are contributing significantly to the increase in commercialisation activities (invention disclosures, patent applications and approvals, license agreements, spin out companies, etc.) undertaken by the Technology Transfer Offices supported by Enterprise Ireland in the higher education sector.
+■ Investment in research is also beginning to bear fruit through the commercialisation activities supported by Enterprise Ireland. Higher education researchers are contributing significantly to the increase in commercialisation activities (invention disclosures, patent applications and approvals, license agreements, spin out companies, etc.) undertaken by the Technology Transfer Offices supported by Enterprise Ireland in the higher education sector.
 
 ### 4.3	 The Innovation Task Force Report (2010)
 
@@ -1864,17 +1967,17 @@ The Innovation Task Force report published in 2010 has taken the goals of the SS
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-The Innovation Task Force Report should be seen in light of the Government's policy on Building Ireland's Smart Economy(2008) which highlighted the central importance of 'building the innovation or 'ideas' component of the economy through the utilisation of human capital - the knowledge, skills and creativity of people - and the ability and effectiveness of that human capital to translate ideas into valuable processes, products and services.' 99
+The Innovation Task Force Report should be seen in light of the Government's policy on Building Ireland's Smart Economy (2008) which highlighted the central importance of 'building the innovation or 'ideas' component of the economy through the utilisation of human capital - the knowledge, skills and creativity of people - and the ability and effectiveness of that human capital to translate ideas into valuable processes, products and services.' 99
 
 ### 4.4	 The next steps
 
 Investment in high-quality research in higher education is vital for our future economic and social development. The trajectory on which Ireland has embarked is the right one. Over the past decade, starting from a very low base, we have begun the task of building serious research capacity. It is vital that we now renew our vision for research in higher education to ensure that past and future investment contributes in a tangible way to Ireland's future social, economic and cultural development. For higher education to play its role in meeting the challenges of the years ahead, its research must:
 
-> 99 Innovation Ireland ,  Report of the Innovation Taskforce, March 2010.
+> 99 Innovation Ireland, Report of the Innovation Taskforce, March 2010.
 
-■ ■ Be of international standard, with a broad base of research and scholarship across a wide range of disciplines. This will ensure the vibrancy of Ireland's higher education system, promote creative teaching and learning, and enhance Ireland's ability to meet large and complex challenges.
+■ Be of international standard, with a broad base of research and scholarship across a wide range of disciplines. This will ensure the vibrancy of Ireland's higher education system, promote creative teaching and learning, and enhance Ireland's ability to meet large and complex challenges.
 
-■ ■ Focus additional priority resources on a smaller number of challenges in strategically important domains that we can address effectively and in which we can make a difference. Priority should be given to research areas with the greatest potential for national economic and social returns and which will be characterised by partnership across disciplines, across the sciences and humanities, across institutions, and with industry and other relevant agencies nationally and internationally. Such research will usually encompass the whole spectrum from basic to applied and will generate highly skilled graduates and intellectual property both of which will be the basis for new enterprises, or innovation within existing enterprise.■
+■ Focus additional priority resources on a smaller number of challenges in strategically important domains that we can address effectively and in which we can make a difference. Priority should be given to research areas with the greatest potential for national economic and social returns and which will be characterised by partnership across disciplines, across the sciences and humanities, across institutions, and with industry and other relevant agencies nationally and internationally. Such research will usually encompass the whole spectrum from basic to applied and will generate highly skilled graduates and intellectual property both of which will be the basis for new enterprises, or innovation within existing enterprise.
 
 Researchers in Ireland should be connected with leading researchers internationally in these priority areas. This is consistent with the recommendation in the Government's Infrastructure Investment Priorities framework that additional steps should be taken to ensure that investment in basic research is expended on projects which are demonstrably world class and can attract
 
@@ -1886,35 +1989,29 @@ Researchers in Ireland should be connected with leading researchers internationa
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-■
-
-■
-
 international researchers of the very highest quality.
 
-- Embrace the arts, humanities and social sciences as well as science, technology, engineering and mathematics. Research in the arts, humanities and social sciences (AHSS) addresses areas of fundamental importance to society - areas that impact on enterprise, job creation and public policy. In the Irish context, these disciplines study values and practices that are central to our national identity, our sense of self, and to how we progress as a society.  They are important drivers of economic and social innovation, promote ways in which the economy is managed and developed, and suggest how individuals can engage and participate in civil society. Concrete examples of the social and economic impact of research in AHSS include the performing arts, creative industries, financial services, and tourism.
+■ Embrace the arts, humanities and social sciences as well as science, technology, engineering and mathematics. Research in the arts, humanities and social sciences (AHSS) addresses areas of fundamental importance to society - areas that impact on enterprise, job creation and public policy. In the Irish context, these disciplines study values and practices that are central to our national identity, our sense of self, and to how we progress as a society. They are important drivers of economic and social innovation, promote ways in which the economy is managed and developed, and suggest how individuals can engage and participate in civil society. Concrete examples of the social and economic impact of research in AHSS include the performing arts, creative industries, financial services, and tourism.
 
-■ ■ Connect with enterprise and with society in new and innovative ways to harness the potential of new knowledge for economic and social well-being. Higher education must position itself as a central player in developing Ireland's culture of innovation.
+■ Connect with enterprise and with society in new and innovative ways to harness the potential of new knowledge for economic and social well-being. Higher education must position itself as a central player in developing Ireland's culture of innovation.
 
-■ ■ Be characterised by critical mass within institutions and further enhanced by collaboration.
+■ Be characterised by critical mass within institutions and further enhanced by collaboration.
 
-■ ■ Include research and innovation activities across the entire spectrum of innovation activities from basic through applied research to development and consulting activities, and institutions should reward all of these.
+■ Include research and innovation activities across the entire spectrum of innovation activities from basic through applied research to development and consulting activities, and institutions should reward all of these.
 
-■ ■ Be supported by policies and regulations which are fully conducive to the capture, protection and exploitation of Intellectual
-
-Property and enhanced enterprise competitiveness.
+■ Be supported by policies and regulations which are fully conducive to the capture, protection and exploitation of Intellectual Property and enhanced enterprise competitiveness.
 
 ### 4.5	 Priority for higher education research
 
 Ireland's gross expenditure on R&D (GERD) as a percentage of GNP has risen from 1.41 per cent in 1998 to an estimated 1.68 per cent in 2008 100 and is approaching the EU-27 average. As part of the Lisbon agenda, Ireland committed to investing 2.5 per cent of GNP in R&D by 2013; the current Programme for Government has increased this commitment to 3 per cent of GDP.
 
-Notwithstanding the pressure on public finances for the foreseeable future, delivering on this commitment to investment in R&D will be vital to the future well-being of the country.  The recently published Infrastructure Investment Priorities 20102016 sets out the government's investment plans in this regard.
+Notwithstanding the pressure on public finances for the foreseeable future, delivering on this commitment to investment in R&D will be vital to the future well-being of the country. The recently published Infrastructure Investment Priorities 2010-2016 sets out the government's investment plans in this regard.
 
 #### Continue to build research capacity
 
 Institutions should maintain research capacity across the broad spectrum of disciplines, both to inform teaching and to ensure a platform for strong research in strategic priority areas. Multidisciplinary research should be encouraged and especially initiatives that connect the AHSS and STEM. All research-active academic staff should as a matter of course engage with undergraduate teaching and the most senior academic researchers with introductory teaching.  This will ensure that undergraduate students in all disciplines will be introduced to the excitement of research from an early stage. Insofar as possible, all research staff should be afforded opportunities to engage in teaching provided the student experience is enhanced.
 
-> 100 Research and Development Statistics in Ireland 2009 - At a Glance ,  Forfás, 2009:11.
+> 100 Research and Development Statistics in Ireland 2009 - At a Glance, Forfás, 2009:11.
 
 67
 
@@ -1934,7 +2031,7 @@ The effective doubling of doctoral graduate output is part of a strategy to buil
 
 Demand for doctoral graduates is increasing and meeting this demand has a catalytic affect on the ability and willingness of diverse sectors of the economy to conduct research and development. Doctoral graduates working in a research and development capacity in the private sector has almost trebled between 2001 and 2007, from 420 to 1,191. 101
 
-Initiatives arising from the SSTI have supported the doctoral education strategy and the move to structured PhDs. The Advisory Council for Science, T echnology & Innovation has recommended that structured PhD programmes should both deepen the students' understanding of their discipline and develop in-depth knowledge of research approaches, techniques and methods that are critical to the value of the PhDs for enterprise. 102 Similar approaches are being adopted across Europe and the U.S. Irish higher education participation in, and contribution to, European initiatives through the Framework Programmes continue to inform our practice and provide financial support.
+Initiatives arising from the SSTI have supported the doctoral education strategy and the move to structured PhDs. The Advisory Council for Science, Technology & Innovation has recommended that structured PhD programmes should both deepen the students' understanding of their discipline and develop in-depth knowledge of research approaches, techniques and methods that are critical to the value of the PhDs for enterprise. 102 Similar approaches are being adopted across Europe and the U.S. Irish higher education participation in, and contribution to, European initiatives through the Framework Programmes continue to inform our practice and provide financial support.
 
 > 101	 CSO-Forfás, Business and expenditure on research and development, 2007-2008.
 
@@ -1944,7 +2041,7 @@ In addition to the competence element, the following components of the structure
 
 These developments are designed to ensure that doctoral graduates are broadly employable within the economy, both within their discipline but also in sectors and roles not directly linked to their academic background. This is consistent with the emphasis on Human Capital in the SSTI and the Smart Economy plan. A recent US report by senior industrialists and academics, that is setting the agenda for the future of graduate education in the US, has affirmed that 'the ultimate product of graduate education is a knowledgeable, productive, and innovative worker.' 103
 
-> 102 The Role of PhDs in the Smart Economy, Advisory Council for Science,  T echnology & Innovation, Forfás, 2009:52.
+> 102 The Role of PhDs in the Smart Economy, Advisory Council for Science, Technology & Innovation, Forfás, 2009:52.
 
 68
 
@@ -1960,7 +2057,7 @@ Building on these developments, a framework for PhD education needs to be establ
 
 Irish higher education should be characterised by research-performing institutions that interact effectively with enterprise and society within an open innovation system.
 
-There is a need to find new ways to link higher education research and innovation capacity to the needs of the public and private sectors.  T o promote such linkages, mechanisms should be devised to facilitate the movement of staff between higher education and the enterprise and public sectors. Such movement would benefit both sides: industry and the public sector would benefit from the new knowledge and theoretical understanding developed in the education and research system, education would benefit from the practical knowhow and constraints experienced by the enterprise and the public sectors.
+There is a need to find new ways to link higher education research and innovation capacity to the needs of the public and private sectors. To promote such linkages, mechanisms should be devised to facilitate the movement of staff between higher education and the enterprise and public sectors. Such movement would benefit both sides: industry and the public sector would benefit from the new knowledge and theoretical understanding developed in the education and research system, education would benefit from the practical know-how and constraints experienced by the enterprise and the public sectors.
 
 > 103	US council of Graduate Schools, The path forward, p. 35.
 
@@ -1972,11 +2069,11 @@ To ensure a more effective level of collaboration with enterprise, funding agenc
 
 A key feature of knowledge-based economies is their ability to convert knowledge from the research base into products for economic and social benefit. This is dependent on an effective technology transfer process from the higher education sector, and on collaborative research between industry and academia. 105
 
-The issues of intellectual property (IP) and the commercialisation of Statesponsored R&D have been considered by the Innovation Taskforce, who have made a number of recommendations as outlined below 106 and are the subject of a review recently published by Forfás. 107
+The issues of intellectual property (IP) and the commercialisation of State-sponsored R&D have been considered by the Innovation Taskforce, who have made a number of recommendations as outlined below 106 and are the subject of a review recently published by Forfás. 107
 
 > 104 Innovation Ireland, Report of the Innovation Taskforce, March 2010, p.37.
 
-> 105 Building Ireland' s Knowledge Economy, Report to the Inter Departmental Committee on Science,  T echnology and Innovation, Forfás, 2004: 16.
+> 105 Building Ireland's Knowledge Economy, Report to the Inter Departmental Committee on Science, Technology and Innovation, Forfás, 2004: 16.
 
 > 106 Innovation Ireland, Report of the Innovation Taskforce, March 2010, p39.
 
@@ -1990,7 +2087,7 @@ The issues of intellectual property (IP) and the commercialisation of Statespons
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-This review shows that Ireland's national policies and guidelines for IP are in line with international good practice, and that the system for commercialising IP from the higher education institutions is making strong progress. It also found that national measures, such as Enterprise Ireland's  T echnology  Transfer Support Initiative (TTSI), whilst relatively new and still evolving, were performing well and represented good value for money. However, further improvements are needed to ensure sustainability and quality of outcomes.
+This review shows that Ireland's national policies and guidelines for IP are in line with international good practice, and that the system for commercialising IP from the higher education institutions is making strong progress. It also found that national measures, such as Enterprise Ireland's Technology Transfer Support Initiative (TTSI), whilst relatively new and still evolving, were performing well and represented good value for money. However, further improvements are needed to ensure sustainability and quality of outcomes.
 
 The key consideration in deciding how IP from publicly-funded research is commercialised should be the gross return to the economy, and not solely the return to the higher education institution or institutions involved. At the same time, it is important to ensure that the individual researchers involved have the incentive to continue their work.
 
@@ -2004,7 +2101,7 @@ In building a sustainable and responsive research system, Ireland needs a divers
 
 Some of our higher education institutions should be highly research-intensive; others should focus almost entirely on teaching. In the former, a large majority of academic staff should be research-active and productive; in the latter all academic staff should be fully abreast of the latest in scholarship as a means of ensuring that their teaching is relevant and up to date. The spectrum between these poles would include institutions with excellence in research in some disciplines only.
 
-While both universities and institutes of technology may be active across the spectrum of research and innovation activities, they should have different emphases. While all institutions will be expected to maximise the impact of their activities on business, the public sector and the wider community, universities should specialise in basic and applied research, and institutes of technology should concentrate more on applied research and closerto-market development and enterprise support, with a critical regional support dimension. This is broadly in line with the recommendation of the OECD Review of Higher Education in Ireland that the research missions of the universities and the institutes of technology should be distinct but complementary.
+While both universities and institutes of technology may be active across the spectrum of research and innovation activities, they should have different emphases. While all institutions will be expected to maximise the impact of their activities on business, the public sector and the wider community, universities should specialise in basic and applied research, and institutes of technology should concentrate more on applied research and closer-to-market development and enterprise support, with a critical regional support dimension. This is broadly in line with the recommendation of the OECD Review of Higher Education in Ireland that the research missions of the universities and the institutes of technology should be distinct but complementary.
 
 Universities and institutes of technology should collaborate on research where such collaboration will ensure the maximum societal return on public investment.
 
@@ -2020,29 +2117,29 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 Funding for research will need to:
 
-■ ■ Enable research across a wide range of disciplines;
+■ Enable research across a wide range of disciplines;
 
-■ ■ Ensure that Ireland develops in specific niche areas of world-class standing;
+■ Ensure that Ireland develops in specific niche areas of world-class standing;
 
-■ ■ Support research across the full spectrum of innovation activities, from basic research outwards;
+■ Support research across the full spectrum of innovation activities, from basic research outwards;
 
-■ ■ Offer incentives for cross-disciplinary research;
+■ Offer incentives for cross-disciplinary research;
 
-■ ■ Encourage open knowledge flows, through undergraduate and postgraduate teaching, through open collaborative interactions with enterprise and society, through publications, and through commercialisation of research findings; and
+■ Encourage open knowledge flows, through undergraduate and postgraduate teaching, through open collaborative interactions with enterprise and society, through publications, and through commercialisation of research findings; and
 
-■ ■ Have a clear set of metrics, and an associated system of data gathering, through which effectiveness, value for money and impact can be monitored and assessed.
+■ Have a clear set of metrics, and an associated system of data gathering, through which effectiveness, value for money and impact can be monitored and assessed.
 
 To enable this, the current structures for funding research should be reformed 108 in order to:
 
-■ ■ Consolidate funding streams and enhance coordination to deliver optimum valuefor-money;
+■ Consolidate funding streams and enhance coordination to deliver optimum value-for-money;
 
-■ ■ Ensure that the government funding mechanisms for research are coherent with all of the other government funding streams for higher education;
+■ Ensure that the government funding mechanisms for research are coherent with all of the other government funding streams for higher education;
 
-■ ■ Ensure that research has an identified funding pathway and a single lead responsible agency, underpinned by commercialisation supports; and
+■ Ensure that research has an identified funding pathway and a single lead responsible agency, underpinned by commercialisation supports; and
 
 > 108	The following builds on the recommendations on research funding structures in Innovation Ireland, Report of the Innovation Taskforce, March 2010
 
-■ ■ Ensure that research focused on identified priority opportunities for industry in Ireland is increased.
+■ Ensure that research focused on identified priority opportunities for industry in Ireland is increased.
 
 Implementation of these recommendations has already been advanced through recent Government decisions for the consolidation of certain research funding streams and the transfer of funding responsibility for the PRTLI to the Minister for Enterprise, Trade & Innovation.
 
@@ -2066,23 +2163,21 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 ##### 9 Investment in R&D should be increased.
 
-
-
-■ ■ Investment in R&D target should be increased to 3 per cent of GDP , in line with the renewed Programme for Government, and the Innovation  Taskforce report,  which  recommends  a  timeframe  for  delivery  of  investment  in  an updated SSTI for the 2014-2020 period.
+■ Investment in R&D target should be increased to 3 per cent of GDP, in line with the renewed Programme for Government, and the Innovation Taskforce report, which recommends a timeframe for delivery of investment in an updated SSTI for the 2014-2020 period.
 
 ##### 10 The researcher's role should be afforded a wider focus, better mobility and increased career opportunities.
 
-■ ■ A clear career path should be established for researchers that develops their talents and rewards them appropriately.
+■ A clear career path should be established for researchers that develops their talents and rewards them appropriately.
 
-■ ■ In addition to all research-active staff normally  participating fully in undergraduate  teaching,  researchers  should,  where  possible,  be  afforded opportunities to participate in teaching such as laboratory supervision and tutorials.
+■ In addition to all research-active staff normally participating fully in undergraduate teaching, researchers should, where possible, be afforded opportunities to participate in teaching such as laboratory supervision and tutorials.
 
-■ ■ Greater mobility of staff should be facilitated between higher education on the one hand and enterprise and the public service on the other, to promote knowledge flows and to capitalise on the expertise within higher education for the benefit of society and the economy. This could be through full-time or part-time secondments for up to six months at a time or by consultancy by academics where this is of mutual benefit to the individual, the institution and society.
+■ Greater mobility of staff should be facilitated between higher education on the one hand and enterprise and the public service on the other, to promote knowledge flows and to capitalise on the expertise within higher education for the benefit of society and the economy. This could be through full-time or part-time secondments for up to six months at a time or by consultancy by academics where this is of mutual benefit to the individual, the institution and society.
 
-■ ■ To ensure  a  more  effective  level  of  collaboration  with  enterprise,  funding agencies and higher education institutions should develop review mechanisms, performance metrics and promotional criteria to ensure parity of esteem for differentiated research missions across disciplines and across types of research and innovation activities, including knowledge transfer and commercialisation.
+■ To ensure a more effective level of collaboration with enterprise, funding agencies and higher education institutions should develop review mechanisms, performance metrics and promotional criteria to ensure parity of esteem for differentiated research missions across disciplines and across types of research and innovation activities, including knowledge transfer and commercialisation.
 
-##### 11 A consistent  quality  framework  should  be  developed  for  Irish  PhD education, based on critical mass.
+##### 11 A consistent quality framework should be developed for Irish PhD education, based on critical mass.
 
-■ ■ A demanding framework that meets or exceeds international standards for PhD education  should  be  applied  consistently  across  all  higher  education institutions, as an essential underpinning of the Irish PhD brand. This should lead to greater consolidation and collaboration among providers, with stronger offerings for students.
+■ A demanding framework that meets or exceeds international standards for PhD education should be applied consistently across all higher education institutions, as an essential underpinning of the Irish PhD brand. This should lead to greater consolidation and collaboration among providers, with stronger offerings for students.
 
 72
 
@@ -2092,25 +2187,25 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-##### 12 Public research funding should be prioritised and better coordinated and  underpinned  by  effective  foresight,  review  and  performance measurement systems.
+##### 12 Public research funding should be prioritised and better coordinated and underpinned by effective foresight, review and performance measurement systems.
 
-■ ■ Research across all disciplines should be supported both to inform teaching and to ensure a platform for strong research in strategic priority areas.
+■ Research across all disciplines should be supported both to inform teaching and to ensure a platform for strong research in strategic priority areas.
 
-■ ■ Focused  research  funding  should  be  based  on  national  priority-setting exercises.  Such  exercises  identify  a  number  of  thematic  areas  in  which Ireland can excel, make its mark internationally and maximise economic and social return. Priorities should be reviewed and modified to ensure Ireland's research system remains responsive to the changing national and international environments.
+■ Focused research funding should be based on national priority-setting exercises. Such exercises identify a number of thematic areas in which Ireland can excel, make its mark internationally and maximise economic and social return. Priorities should be reviewed and modified to ensure Ireland's research system remains responsive to the changing national and international environments.
 
-■ ■ In selecting priorities, particular attention should be paid to the opportunities for research spanning AHSS and STEM.
+■ In selecting priorities, particular attention should be paid to the opportunities for research spanning AHSS and STEM.
 
-■ ■ Structures for delivering research funding should be reformed in order to:
+■ Structures for delivering research funding should be reformed in order to:
 
-■ ■ Fully coordinate funding across all government agencies;
+■ Fully coordinate funding across all government agencies;
 
-■ ■ Ensure that funded research has an identified funding pathway and a single lead responsible agency, underpinned by commercialisation supports; and
+■ Ensure that funded research has an identified funding pathway and a single lead responsible agency, underpinned by commercialisation supports; and
 
-■ ■ Ensure a balance between different types of research from fundamental to strategic and applied, and from single investigator to large multi-disciplinary teams working in partnership with other relevant players .
+■ Ensure a balance between different types of research from fundamental to strategic and applied, and from single investigator to large multi-disciplinary teams working in partnership with other relevant players.
 
-##### 13 Knowledge  transfer  should  be  better  embedded  into  institutional activity and rewarded accordingly.  The commercialisation of intellectual property  from  publicly-funded  research  should  primarily  provide  a gross return to the economy.
+##### 13 Knowledge transfer should be better embedded into institutional activity and rewarded accordingly. The commercialisation of intellectual property from publicly-funded research should primarily provide a gross return to the economy.
 
-■ ■ A national IP protocol should be developed and structures agreed to facilitate speedy commercialisation of IP from all higher education institutions.
+■ A national IP protocol should be developed and structures agreed to facilitate speedy commercialisation of IP from all higher education institutions.
 
 73
 
@@ -2164,15 +2259,15 @@ Central to the ability of academics to engage with the community in these ways i
 
 #### Working with community, regional and enterprise needs
 
-In the coming decades, Irish higher education institutions will engage with the communities they serve in a more connected manner - identifying community, regional and enterprise needs and proactively responding to them. At institutional and regional level there is much to be done to articulate the most appropriate and most practical means by which meaningful engagement might take place. The engagement mission combines very well with the expansion of flexible learning, the promotion of work placement and upskilling, and the closer involvement of external stakeholders in curriculum design; and it is also complemented by key reforms in the teaching and research missions.
+In the coming decades, Irish higher education institutions will engage with the communities they serve in a more connected manner - identifying community, regional and enterprise needs and pro-actively responding to them. At institutional and regional level there is much to be done to articulate the most appropriate and most practical means by which meaningful engagement might take place. The engagement mission combines very well with the expansion of flexible learning, the promotion of work placement and upskilling, and the closer involvement of external stakeholders in curriculum design; and it is also complemented by key reforms in the teaching and research missions.
 
-Research commitments to enhancing knowledge flows between higher education and enterprise and society and the growing emphasis on the application of knowledge for social and economic impact both advance the engagement mission of higher education. In addition, the new approach to Intellectual Property (IP) that underpins the national IP protocol proposed by the Innovation Taskforce emphasises open innovation and the creation of longerterm value for the wider community and economy. This is consistent with the renewal of engagement proposed here and with the theme of innovation through interaction that runs through the report of the Innovation Taskforce. 112
+Research commitments to enhancing knowledge flows between higher education and enterprise and society and the growing emphasis on the application of knowledge for social and economic impact both advance the engagement mission of higher education. In addition, the new approach to Intellectual Property (IP) that underpins the national IP protocol proposed by the Innovation Taskforce emphasises open innovation and the creation of longer-term value for the wider community and economy. This is consistent with the renewal of engagement proposed here and with the theme of innovation through interaction that runs through the report of the Innovation Taskforce. 112
 
 ### 5.2	 Engaging with enterprise
 
 A strong engagement between higher education and enterprise has the potential to play a vital role in enhancing Ireland's economic competitiveness. 113  Innovation must be the driving force behind such engagement: innovation in teaching, learning and research from higher education; and innovation in taking advantage of learning opportunities from the business community. In many cases, higher education institutions have developed close relations with business and industry.  This is not universally the case and submissions from representatives of business and enterprise to the Strategy Group suggest that higher education institutions could be more dynamic and coherent in their approach to collaboration.
 
-The Education in Employment (EIE) and Roadmap for Employment-Academic Partnership (REAP) projects have uncovered a number of examples of good practice in Irish higher education. However, both projects have also highlighted the lack of coordinated leadership of external partnership and engagement across the range of activities in all academic partner institutions.  The work initiated under EIE and REAP 114  highlights the potential of collaborative approaches to advance our understanding of business-academic partnership. Participants have quickly recognised the need for institutional change, as exemplified in a recent strategy document on engagement produced by Cork Institute of  T echnology (CIT) which identifies 'a clear need to create a single identity for CIT as an 'engaged institute' and to support and streamline an end-to-end service model which proactively identifies regional needs and delivers a coordinated Institute response to same'. 115
+The Education in Employment (EIE) and Roadmap for Employment-Academic Partnership (REAP) projects have uncovered a number of examples of good practice in Irish higher education. However, both projects have also highlighted the lack of coordinated leadership of external
 
 > 112 Innovation Ireland, Report of the Innovation Taskforce, March 2010.
 
@@ -2186,21 +2281,23 @@ The Education in Employment (EIE) and Roadmap for Employment-Academic Partnershi
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
+partnership and engagement across the range of activities in all academic partner institutions. The work initiated under EIE and REAP 114 highlights the potential of collaborative approaches to advance our understanding of business–academic partnership. Participants have quickly recognised the need for institutional change, as exemplified in a recent strategy document on engagement produced by Cork Institute of Technology (CIT) which identifies ‘a clear need to create a single identity for CIT as an ‘engaged institute’ and to support and streamline an end-to-end service model which proactively identifies regional needs and delivers a coordinated Institute response to same’. 115
+
 #### The nature of the engagement
 
-Activities that can be progressed in business-academic partnerships range from knowledge transfer and the creation of joint research projects, to the development and provision of education and training for employees, and problem-solving and consulting services. Employment-academic partnership can also facilitate high-quality internships and work-placements for students and can be particularly useful as a way of enabling employer feedback on graduate employability and in facilitating employer input into curriculum design and development as well as course supply.
+Activities that can be progressed in business–academic partnerships range from knowledge transfer and the creation of joint research projects, to the development and provision of education and training for employees, and problem-solving and consulting services. Employment–academic partnership can also facilitate high-quality internships and work-placements for students and can be particularly useful as a way of enabling employer feedback on graduate employability and in facilitating employer input into curriculum design and development as well as course supply.
 
 Ireland has many advantages in terms of the good relations between higher education and enterprise at the highest levels and Ireland's small size accommodates frequent informal interaction. For example, industry and academic representatives have worked in partnership in developing the national policy framework around the innovation strategy and in developing this report. A key priority in the immediate future will be to complement this high-level engagement with more routine, proactive, two-way engagement at operational level and in particular in regional clusters.  There is significant potential for higher education institutions to influence national and regional competitiveness and to play a key role in the development of industry clusters and networks.
 
-> 114	Education in Employment project and Roadmap for Employment-Academic Partnerships are two Strategic Innovation Funded projects being led by Cork Institute at Technology. EIE, is a project whose focus is on offering relvant education and progression opportunities to those in employment and to provide access routes for the non traditional student. REAP is a collaborative project involving eight HEI partners for the research, development and validation of a model for partnership between employers and HEI's.
+> 114	Education in Employment project and Roadmap for Employment-Academic Partnerships are two Strategic Innovation Funded projects being led by Cork Institute of Technology. EIE, is a project whose focus is on offering relevant education and progression opportunities to those in employment and to provide access routes for the non traditional student. REAP is a collaborative project involving eight HEI partners for the research, development and validation of a model for partnership between employers and HEI's.
 
-> 115	CIT (2010) Campus Extension Centre & Framework - Proposals for a Centre for the development, support and marketing of CIT' s external services, p.3.
+> 115	CIT (2010) Campus Extension Centre & Framework - Proposals for a Centre for the development, support and marketing of CIT's external services, p.3.
 
 ### 5.3	 Engagement with community
 
 Links between higher education institutions and their local communities include educational, cultural, sports-related and civic activities, and support for Irish-language development activities. Over the coming decades, these links and activities will be strengthened, extended and formalised, and (where this is not already the case) they will be recognised as part of the strategic mission of the institution.
 
-The relationship between the institution and the community is particularly important in the context of the promotion and achievement of greater equality in higher education. Greater engagement and partnership between higher education institutions and community and voluntary groups offers significant potential to progress equality and community development and to further social innovation. Community education strategies have proven very effective in reaching out to non-traditional students and are purposely designed to build up and maintain resources within communities. 116 Partnerships with community groups 'can contribute to the creation of an academic community engagement model that builds academic community partnerships to create long-term cultural and social change'. 117  Examples of best practice in the Irish context include the active involvement of the Shannon Consortium institutions 118  in Limerick regeneration, Dublin City University's involvement in Ballymun regeneration and Dublin Institute of T echnology's Community Links Programme.
+The relationship between the institution and the community is particularly important in the context of the promotion and achievement of greater equality in higher education. Greater engagement and partnership between higher education institutions and community and voluntary groups offers significant potential to progress equality and community development and to further social innovation. Community education strategies have proven very effective in reaching out to non-traditional students and are purposely designed to build up and maintain resources
 
 76
 
@@ -2210,13 +2307,15 @@ The relationship between the institution and the community is particularly impor
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
+within communities. 116 Partnerships with community groups ‘can contribute to the creation of an academic community engagement model that builds academic community partnerships to create long-term cultural and social change’. 117 Examples of best practice in the Irish context include the active involvement of the Shannon Consortium institutions 118 in Limerick regeneration, Dublin City University's involvement in Ballymun regeneration and Dublin Institute of Technology's Community Links Programme.
+
 ### 5.4	 Engagement with other education and training providers
 
 Across the various levels of education and training, there is a clearly identified need for more community-based approaches and for greater coordination between institutions and sectors. Services need to be more appropriate and locally responsive. This is particularly the case in the relationships between higher education, schools, further education and training providers and the wider community, where there is now much greater emphasis on principles of partnership, empowerment, participation and capacity building. 119
 
-The graduate is the product of the entire education system, and skills and aptitudes that are nurtured and developed at the various levels of education must complement and build on each other. T o achieve this will require greater coordination across the entire education system; and this, in turn, will assist in the development and implementation of 'whole of education' strategies for active learning, continuous professional development and economic competitiveness. Better engagement between higher education and other areas of the education system also has a role to play in addressing regional skills needs.
+The graduate is the product of the entire education system, and skills and aptitudes that are nurtured and developed at the various levels of education must complement and build on each other. To achieve this will require greater coordination across the entire education system; and this, in turn, will assist in the development and implementation of 'whole of education' strategies for active learning, continuous professional development and economic competitiveness. Better engagement between higher education and other areas of the education system also has a role to play in addressing regional skills needs.
 
-> 116	 See Department of Education & Science, (2000), Learning for Life -  White Paper on Adult Education .
+> 116	See Department of Education & Science, (2000), Learning for Life – White Paper on Adult Education.
 
 > 117	 Avila, M. (2010) Community Organizing Practices in Academia: A model, and Stories of Partnerships in Journal of Higher Education Outreach and Engagement, Volume 14, Number 2.
 
@@ -2230,7 +2329,7 @@ Over the years, higher education institutions have undertaken a wide range of en
 
 Professor John Goddard has argued that all publicly-funded higher education institutions have a civic duty to engage with the wider society at local, national and international levels. He stresses the importance of institution-wide approaches:
 
-Engagement has to be an institution wide commitment, not confined to individual academics or projects. It has to embrace teaching as well as research, students as well as academics, and the full range of support services. All universities need to develop strategies to guide their engagement with wider society , to manage themselves accordingly and to work with external partners to gauge their success. 120
+Engagement has to be an institution wide commitment, not confined to individual academics or projects. It has to embrace teaching as well as research, students as well as academics, and the full range of
 
 77
 
@@ -2240,7 +2339,9 @@ Engagement has to be an institution wide commitment, not confined to individual 
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-The move beyond piecemeal or disparate activity to a 'comprehensive set of missiondriven interventions to support civic engagement' 121 is a recurring theme in the most recent literature on engagement by higher education institutions. The level and nature of engagement will vary across institutions according to their historical missions, academic strengths, scholarly culture and knowledge resources and capabilities.
+support services. All universities need to develop strategies to guide their engagement with wider society, to manage themselves accordingly and to work with external partners to gauge their success. 120
+
+The move beyond piecemeal or disparate activity to a 'comprehensive set of mission-driven interventions to support civic engagement' 121 is a recurring theme in the most recent literature on engagement by higher education institutions. The level and nature of engagement will vary across institutions according to their historical missions, academic strengths, scholarly culture and knowledge resources and capabilities.
 
 #### Internally adaptive; externally responsive
 
@@ -2262,7 +2363,7 @@ Higher education institutions need to become more firmly embedded in the social 
 
 > 122	See Crow, M. (2009), The Research University as Comprehensive Knowledge Enterprise: A Prototype for a New American University, in University Research for Innovation, Weber, L.E. & Duderstadt, J.J. (eds), Economica, Glion Colloquium Series No. 6.
 
-> 123	 See Holland, B. A. (2005) Scholarship and Mission in the 21 st Century University:  The Role of Engagement.
+> 123	See Holland, B. A. (2005) Scholarship and Mission in the 21st Century University: The Role of Engagement.
 
 78
 
@@ -2316,13 +2417,13 @@ Worldwide demand for higher education has grown at a phenomenal rate 124 and in 
 
 ■ ■ Cross-border partnerships and collaboration are changing the way that institutions work, and are redefining the nature of delivery; and
 
-■ ■ International experience and intercultural expertise are regarded as core competencies for graduates in an exportdriven and innovation-based economy.
+■ ■ International experience and inter-cultural expertise are regarded as core competencies for graduates in an export-driven and innovation-based economy.
 
 > 124	UNESCO recorded an increase from 101 million tertiary education students. students worldwide in 2000 to 152.5 million in 2007. Source: Global Education Digest, UNESCO (2009)
 
 > 125	UNESCO estimated that there were 2.8 million international students in 2009; Source: Global Education Digest, UNESCO (2009).
 
-Notions of ambition and scale are being redefined as emerging global economies place greater emphasis on higher education: some institutions count enrolments in the hundreds of thousands, while others, including new institutions, have endowments which can reach billions of euro. Transnational education is becoming ever more important, and is based on innovations such as branch campuses, e-learning/distance learning, and joint degree programmes - in some countries it has become more important than the teaching of international students on home campuses. 126
+Notions of ambition and scale are being redefined as emerging global economies place greater emphasis on higher education: some institutions count enrolments in the hundreds of thousands, while others, including new institutions, have endowments which can reach billions of euro. Trans-national education is becoming ever more important, and is based on innovations such as branch campuses, e-learning/distance learning, and joint degree programmes - in some countries it has become more important than the teaching of international students on home campuses. 126
 
 This is the stage on which Irish higher education institutions operate and it clearly demands a strategic approach to internationalisation and global engagement. In this regard, it is crucial that internationalisation in higher education in Ireland is understood in its broadest context, and not just from a revenue-generating point of view.
 
@@ -2362,11 +2463,11 @@ The presence of overseas students gives an international flavour to a campus, an
 
 #### Benefits at home and abroad
 
-From the national perspective, international education can be seen as an investment in Ireland's global relationships.  W e are a small and open European economy whose prosperity fundamentally depends on innovation-driven industry and exports. The higher education system has a crucial role to play in promoting Ireland's international profile, forging strategic links with partners overseas, reinforcing ties with Ireland's diaspora and developing a new global network of influence among Irish-educated alumni who will act as advocates and agents for Irish interests in parts of the world where we have not traditionally had strong links. It can also be a crucial part of Ireland's 'soft power' in projecting Irish culture and values to a global audience.
+From the national perspective, international education can be seen as an investment in Ireland's global relationships. We are a small and open European economy whose prosperity fundamentally depends on innovation-driven industry and exports. The higher education system has a crucial role to play in promoting Ireland's international profile, forging strategic links with partners overseas, reinforcing ties with Ireland's diaspora and developing a new global network of influence among Irish-educated alumni who will act as advocates and agents for Irish interests in parts of the world where we have not traditionally had strong links. It can also be a crucial part of Ireland's 'soft power' in projecting Irish culture and values to a global audience.
 
-At home, internationalisation can contribute to the development of an internationally experienced, inter-culturally adept and skilled population as well as to public and private institutions which are internationally oriented, equipped for such engagement and attractive to global talent. From a wider perspective, it has a role to play in contributing to the development of knowledge and expertise in partner countries and in fostering international development, peace and prosperity.
+At home, internationalisation can contribute to the development of an internationally experienced, inter-culturally adept and skilled population as well as to public and private institutions which are internationally oriented, equipped for such engagement and attractive to global talent. From a wider perspective, it has a role to play in contributing to the development
 
-> 127	 OECD (2008) T ertiary Education for the Knowledge Society (Volume 2: Special features: Equity , Innovation, Labour Market, Internationalisation).
+> 127	OECD (2008) Tertiary Education for the Knowledge Society (Volume 2: Special features: Equity, Innovation, Labour Market, Internationalisation).
 
 81
 
@@ -2376,17 +2477,19 @@ At home, internationalisation can contribute to the development of an internatio
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
+of knowledge and expertise in partner countries and in fostering international development, peace and prosperity.
+
 Most importantly of all, perhaps, the international education experience can have a profound and transformational effect on the students involved. In many cases, the families of international students are making the most significant investment of their lives on the understanding and expectation that an overseas education will significantly enhance the personal and professional development, and crucially, the career outcomes of graduates.
 
 #### Ireland's advantages
 
-Ireland has unique strengths that potentially provide us with a competitive advantage in becoming a leading centre of international education. We are a small, safe and friendly country. Our people are renowned for strengths in innovation, creativity and collaboration.  We are a member of the European Union, and have extensive global links through our diaspora. We are an English-speaking country with a unique cultural heritage.  W e have an education system that has had a long history of international engagement and which is globally respected.
+Ireland has unique strengths that potentially provide us with a competitive advantage in becoming a leading centre of international education. We are a small, safe and friendly country. Our people are renowned for strengths in innovation, creativity and collaboration. We are a member of the European Union, and have extensive global links through our diaspora. We are an English-speaking country with a unique cultural heritage. We have an education system that has had a long history of international engagement and which is globally respected.
 
 ### 6.4	 A challenging and competitive global environment
 
 Competition for the attraction of talented international students and the development of mutually beneficial partnerships with globally-ranked and respected institutions overseas is fierce.  The optimistic projections of growth in global international student mobility, and consequent policies based primarily on mass recruitment of overseas students, are being reconsidered in many countries. 128
 
-Added to this, more and more countries are seeking to recruit international students; and countries that have traditionally sent large numbers of students abroad are now seeking to develop their own indigenous capacity, in some cases through the establishment of cross-border partnerships with longerestablished higher education institutions. Ireland's inherent advantage in having an English-speaking education is also being diminished by the global rise in English as a medium of education. As high-quality opportunities become available to students in their own countries and regions, they are increasingly deciding to study closer to home.
+Added to this, more and more countries are seeking to recruit international students; and countries that have traditionally sent large numbers of students abroad are now seeking to develop their own indigenous capacity, in some cases through the establishment of cross-border partnerships with longer-established higher education institutions. Ireland's inherent advantage in having an English-speaking education is also being diminished by the global rise in English as a medium of education. As high-quality opportunities become available to students in their own countries and regions, they are increasingly deciding to study closer to home.
 
 ### 6.5	 The opportunity for Ireland
 
@@ -2394,7 +2497,7 @@ For Ireland to make the most of our inherent advantages will require strong comm
 
 The internationalisation of Irish higher education needs to happen as part of a long-term and sustainable process, based on high-quality, holistic and balanced engagement with international partners. There is ample evidence in other countries of the reputational damage that can accrue when commitment to internationalisation is not adequately supported by appropriate planning and implementation actions.
 
-> 128	See, for example: Bone, D: Internationalisation of UK Higher Education: a  T en-Year  View (report for the UK Department of Innovation, Universities and Skills), November 2008; Bradley, D. (chair) & Expert Panel, Review of Australian Higher Education System, 2008.
+> 128	See, for example: Bone, D: Internationalisation of UK Higher Education: a Ten-Year View (report for the UK Department of Innovation, Universities and Skills), November 2008; Bradley, D. (chair) & Expert Panel, Review of Australian Higher Education System, 2008.
 
 82
 
@@ -2404,7 +2507,7 @@ The internationalisation of Irish higher education needs to happen as part of a 
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-The Government has established a HighLevel Group on International Education to coordinate Ireland's national approach to internationalisation.  The High-Level Group is responsible for a five-year strategy 129 setting out the measures that are necessary to enhance the internationalisation of Irish education providers and to consolidate Ireland's reputation as a high-quality centre of international education.
+The Government has established a High-Level Group on International Education to coordinate Ireland's national approach to internationalisation. The High-Level Group is responsible for a five-year strategy 129 setting out the measures that are necessary to enhance the internationalisation of Irish education providers and to consolidate Ireland's reputation as a high-quality centre of international education.
 
 #### The importance of partnership between Government and the institutions
 
@@ -2420,17 +2523,17 @@ Internationalisation requires a strong partnership between Government and the hi
 
 ■ ■ The creation of a strong national educational brand to raise awareness of the quality of Ireland and its higher education institutions.
 
-> 129 Investing in Global Relationships: Ireland' s International Education Strategy 2010-2015, Department of Education & Skills.
+> 129 Investing in Global Relationships: Ireland's International Education Strategy 2010-2015, Department of Education & Skills.
 
 ### 6.6	 Globally oriented and internationally competitive institutions
 
 Effective internationalisation within institutions requires the articulation of a vision, the definition of objectives and targets, leadership at senior level, engagement throughout the organisation and appropriate implementation structures. These should be set out in an institutional strategy that considers internationalisation and global engagement in the widest perspective.  The nature and level of internationalisation will vary depending on the overall mission and strategic goals of each institution, but it will need to take place within a coherent strategic framework.
 
-Competitiveness in the international area, and capacity for global engagement, may benefit from institutional adaptations and reform. These include more flexible deployment of staff, a more diverse and internationally experienced staff cohort, more intensive use of resources, increased use of innovative forms of delivery (such as e-learning), changes to programme structures (including full semesterisation and full calendar year programmes) and increased overseas delivery of programmes (for example, in Irish-linked, or Irishadministered institutions overseas).
+Competitiveness in the international area, and capacity for global engagement, may benefit from institutional adaptations and reform. These include more flexible deployment of staff, a more diverse and internationally experienced staff cohort, more intensive use of resources, increased use of innovative forms of delivery (such as e-learning), changes to programme structures (including full semesterisation and full calendar year programmes) and increased overseas delivery of programmes (for example, in Irish-linked, or Irish-administered institutions overseas).
 
 #### Outward mobility of Irish staff and students
 
-A balanced and sustainable process of internationalisation should also include outward mobility of Irish staff and students. This is increasingly regarded as an expected part of international partnerships and, as international experience and intercultural expertise are increasingly valued by employers, the potential for mobility opportunities will likely become a more important factor in student choice.
+A balanced and sustainable process of internationalisation should also include outward mobility of Irish staff and students. This is increasingly regarded as an expected part of international partnerships and, as international experience and inter-cultural expertise are increasingly valued
 
 83
 
@@ -2439,6 +2542,8 @@ A balanced and sustainable process of internationalisation should also include o
 [[START OF PAGE 86]]
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
+
+by employers, the potential for mobility opportunities will likely become a more important factor in student choice.
 
 One of the features of Ireland's participation in Erasmus has been a relative reluctance of Irish students to engage with opportunities of the programme. The HEA should examine the reasons behind this reluctance and bring forward some measures to alleviate it.
 
@@ -2542,9 +2647,9 @@ The combination of increased demand and contracting resources gives urgency to t
 
 The three major elements where change is necessary are:
 
-■ ■ Change in the governance and leadership structures within higher education see chapter 7.
+■ ■ Change in the governance and leadership structures within higher education - see chapter 7.
 
-■ ■ Change in the structural framework within which higher education operates see chapter 8; and
+■ ■ Change in the structural framework within which higher education operates - see chapter 8; and
 
 ■ ■ Change in the ways in which higher education is funded - see chapter 9.
 
@@ -2566,7 +2671,7 @@ In particular, it sets out the case for retaining a reformed Higher Education Au
 
 ### 7.1	 Introduction
 
-Over the past ten or twenty years, higher education institutions have grown very significantly and the job of managing them has become much more complex. Undergraduate numbers have increased, course provision has been modernised through modularisation and new methods of delivery, and there has been substantial internal rationalisation - particularly through the move to the school/collegebased system. The scale of research has also grown enormously, as has doctoral education. Institutions are increasingly connected and engaged with the social and economic challenges of their localities and regions. In addition, Irish higher education now operates in a global context and its international linkages will continue to grow over the coming decades.
+Over the past ten or twenty years, higher education institutions have grown very significantly and the job of managing them has become much more complex. Undergraduate numbers have increased, course provision has been modernised through modularisation and new methods of delivery, and there has been substantial internal rationalisation - particularly through the move to the school/college-based system. The scale of research has also grown enormously, as has doctoral education. Institutions are increasingly connected and engaged with the social and economic challenges of their localities and regions. In addition, Irish higher education now operates in a global context and its international linkages will continue to grow over the coming decades.
 
 All of these developments have placed greater emphasis on management and leadership skills, and the proposals for structural change outlined in this strategy will present new management challenges to the institutions.  This chapter sets out the roles and responsibilities of those entrusted with key leadership and management functions, including:
 
@@ -2616,7 +2721,7 @@ The best way to achieve this is through a Cabinet Committee chaired by the Minis
 
 ### 7.4	 The Higher Education Authority
 
-The multiplicity of roles for and expectations of the higher education system will require a strong central driving mechanism. Since the Higher Education Authority Act of 1971, funding and policy advisory responsibility have been vested in the HEA. This responsibility was widened to include the Institute of  T echnology sector in 2006. The Report of the Special Group on Public Service Numbers and Expenditure Programmes (2009) recommended that the HEA be abolished and its staff and functions be merged back into the Department of Education & Skills. However, there are alternative views on this issue.
+The multiplicity of roles for and expectations of the higher education system will require a strong central driving mechanism. Since the Higher Education Authority Act of 1971, funding and policy advisory responsibility have been vested in the HEA. This responsibility was widened to include the Institute of Technology sector in 2006. The Report of the Special Group on Public Service Numbers and Expenditure Programmes (2009) recommended that the HEA be abolished and its staff and functions be merged back into the Department of Education & Skills. However, there are alternative views on this issue.
 
 The analysis of the Strategy Group, informed by international experience, is that successful delivery of the strategic agenda will require a strong central oversight role. An earlier review that examined the role of the Department strongly recommended that the Department should remove itself from an operational role and focus more strongly on strategy and policy development. 131 This finding was reiterated by the OECD in its Review of Higher Education in Ireland in 2004.
 
@@ -2734,9 +2839,9 @@ In the decades ahead, higher education institutions will require effective leade
 
 Governance of higher education institutions in Ireland is shared across the following:
 
-■ ■ A Governing Authority: the decisionmaking body;
+■ ■ A Governing Authority: the decision-making body;
 
-■ ■ A Chief Officer (President/Provost/ Director): the executive management; and
+■ ■ A Chief Officer (President/Provost/Director): the executive management; and
 
 ■ ■ An Academic Council: representing the academic community.
 
@@ -2744,7 +2849,7 @@ These three elements are mutually dependent and each plays an important role.
 
 A Governing Authority cannot, on its own, fulfil the requirement of a company board because it needs the involvement of senior representatives of the academic community in the governance of the institution for it to be effective. A strong academic board working jointly with the Governing Authority in areas such as strategy and resource allocation brings together the vital constituents of good governance in a university context. 133
 
-It is widely recognised internationally that the most appropriate governance system for higher education is one that supports institutional autonomy within a clear accountability framework. This is recognised in the main statutory frameworks for Irish higher education: the Universities Act of 1997 and the Institutes of T echnology Acts 1992 to 2006. A key development under those Acts was the introduction and progressive strengthening of formal Codes of Governance.
+It is widely recognised internationally that the most appropriate governance system for higher education is one that supports institutional autonomy within a clear accountability framework. This is recognised in the main statutory frameworks for Irish higher education: the Universities Act of 1997 and the Institutes of Technology Acts 1992 to 2006. A key development under those Acts was the introduction and progressive strengthening of formal Codes of Governance.
 
 > 132	J. Salmi 'Autonomy from the State versus Responsiveness to Markets' in Higher Education Policy 2007, 20.
 
@@ -2858,7 +2963,7 @@ If the higher education system as a whole is to succeed in meeting the needs of 
 
 Only a coherent system, made up of diverse, responsive and sustainable institutions, will be able to deliver on the ambitious goals set out in this strategy .  The clarity that such a framework will bring will help to ensure that society's expectations of the system are realistic, that they are met, and that funding allocations are more closely aligned with policy goals.
 
-Institutions are already seeking to define their roles more precisely, and to reposition themselves in response to Ireland's innovation requirements. New strategic alliances between institutions are being developed, aimed at pooling expertise, knowledge and resources, and increasing the capacity for innovation.
+Institutions are already seeking to define their roles more precisely, and to reposition
 
 96
 
@@ -2867,6 +2972,8 @@ Institutions are already seeking to define their roles more precisely, and to re
 [[START OF PAGE 99]]
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
+
+themselves in response to Ireland's innovation requirements. New strategic alliances between institutions are being developed, aimed at pooling expertise, knowledge and resources, and increasing the capacity for innovation.
 
 The task for policy makers is to harness and steer this energy towards the goals outlined in previous chapters.  They must articulate policy clearly, so that changes in Irish higher education support the objectives of advancing the country's innovation capacity and broader development goals. Policy needs to protect and enhance diversity, accommodate the ambitions of institutions, and support the national imperative for advanced levels of performance.
 
@@ -2896,7 +3003,7 @@ In particular, the proposals aim to:
 
 ■ ■ Develop system capacity according to national and regional needs.
 
-Change of this type is best achieved in the first instance through organic bottomup development within and between institutions; the proposals presented here are intended to elicit the appropriate response from the institutions, building on the very positive initiatives that have already emerged.
+Change of this type is best achieved in the first instance through organic bottom-up development within and between institutions; the proposals presented here are intended to elicit the appropriate response from the institutions, building on the very positive initiatives that have already emerged.
 
 Change can also be promoted and accelerated by incorporating appropriate incentives into the funding model for the institutions, aimed at eliminating overlap and pooling strength. Such incentives should be used to encourage the development of regional clusters and institutional consolidation. This would result in a smaller number of institutions and a greater level of collaboration across the system.
 
@@ -2922,13 +3029,13 @@ Diversity is one of the major factors associated with the positive performance o
 
 ■ ■ It can enhance innovation by allowing individual institutions to experiment; unsuccessful experiments have only localised costs, while successful innovations can be rolled out across the system. 140
 
-The system in Ireland is relatively diverse institutes of technology and universities each play different and complementary roles to meet the diverse need of students, society and the economy.
+The system in Ireland is relatively diverse - institutes of technology and universities each play different and complementary roles to meet the diverse need of students, society and the economy.
 
 ### 8.4	 Regional cluster approach
 
 One of the strengths of higher education in Ireland is the extent to which collaborative behaviour has already developed. This is reflected in the recently formed university alliances, regionally based collaborations between universities and institutes of technology, and national level collaborations on particular research programmes.
 
-> 139	van  Vught, F .A., Kaiser, F ., File, J.M., Gaethgens, C., Peter, R. Westerheijden, D.F . The European Classification of Higher Education Institutions 2010.
+> 139	van Vught, F.A., Kaiser, F., File, J.M., Gaethgens, C., Peter, R. Westerheijden, D.F. The European Classification of Higher Education Institutions 2010.
 
 > 140	 Birnbaum, R. (1983). Maintaining Diversity in Higher Education; Huisman, J. (1995) Differentiation, Diversity and Dependency in Higher Education.
 
@@ -2942,7 +3049,7 @@ The regional cluster model should be more generally applied, as it brings partic
 
 ■ ■ A coordinated approach to enterprise and other stakeholders at regional level.
 
-Clusters will be characterised by close coordination and cooperation between various types of independent higher education institutions.  T ogether they will determine and meet the needs of a wide range of students, communities and enterprises in their region.  This will require joint programme planning, collaborative research and outreach initiatives, agreements on mutual recognition and progression, and joint strategies for advancing regional economic and social development. The institutions will also engage with other statutory providers of education and training, such as FÁS and the  VECs, to develop integrated regional learning strategies.
+Clusters will be characterised by close coordination and cooperation between various types of independent higher education institutions. Together they will determine and meet the needs of a wide range of students, communities and enterprises in their region. This will require joint programme planning, collaborative research and outreach initiatives, agreements on mutual recognition and progression, and joint strategies for advancing regional economic and social development. The institutions will also engage with other statutory providers of education and training, such as FÁS and the VECs, to develop integrated regional learning strategies.
 
 The HEA should promote such regional clusters by providing incentives and by requiring institutions to build regional collaboration into their strategic plans.
 
@@ -2968,7 +3075,7 @@ Universities could also derive benefits in that their applied research, opportun
 
 Ireland has a large number of higher education institutions, some of which are relatively small.  This has facilitated widespread access to higher education. However, over the next twenty years, smaller stand-alone institutions will lack the scale required to deliver the necessary advances in quality and efficiency. A framework should also be put in place to encourage and facilitate institutional mergers.
 
-Alliances or mergers within the institute of technology sector on the one hand and within the university sector on the other will be supported where they can deliver greater institutional quality. However, formal mergers between institutes of technology and universities should not in general be considered: this would be more likely to dilute the diversity of the system. Instead, universities and institutes of technology should work together as distinct and complementary parts of the regional clusters described above. An exception would be the formation of alliances on a crossborder basis.  These would be potentially very exciting and creative ways to align the higher education resources of those regions with the needs of students, enterprise and other stakeholders and should be encouraged where possible.
+Alliances or mergers within the institute of technology sector on the one hand and within the university sector on the other will be supported where they can deliver greater institutional quality. However, formal mergers between institutes of technology and universities should not in general be considered: this would be more likely to dilute the diversity of the system. Instead, universities and institutes of technology should work together as distinct and complementary parts of the regional clusters described above. An exception would be the formation of alliances on a cross-border basis. These would be potentially very exciting and creative ways to align the higher education resources of those regions with the needs of students, enterprise and other stakeholders and should be encouraged where possible.
 
 Smaller publicly funded institutions, that are not institutes of technology or universities, should be encouraged to align with or be incorporated into institutions of sufficient scale to enable overall quality and efficiency objectives to be met.
 
@@ -3010,11 +3117,11 @@ The test for critical mass is whether the activity is at the level where it can 
 
 #### Achieving critical mass through institutional cooperation and collaboration
 
-Critical mass can be created or enhanced through institutional cooperation and collaboration. For example, the TCDUCD alliance focuses on the benefits for PhD preparation that arise from the two institutions working together. The new fourth-level TCD-UCD Innovation Academy will begin the process of defining and mainstreaming innovation as a central element in the universities' mission. It is intended to focus particularly on PhD training, positioning innovation at the heart of their courses, facilitating student mobility between campuses, and ensuring that the breadth and depth of expertise and resources at UCD and TCD are available to Ireland's future entrepreneurs.
+Critical mass can be created or enhanced through institutional cooperation and collaboration. For example, the TCD-UCD alliance focuses on the benefits for PhD preparation that arise from the two institutions working together. The new fourth-level TCD-UCD Innovation Academy will begin the process of defining and mainstreaming innovation as a central element in the universities' mission. It is intended to focus particularly on PhD training, positioning innovation at the heart of their courses, facilitating student mobility between campuses, and ensuring that the breadth and depth of expertise and resources at UCD and TCD are available to Ireland's future entrepreneurs.
 
 Similarly, the recent agreement between NUIG and UL proposes to leverage the competencies of both universities working together to develop structured PhD programmes, create a new joint medical academy, and make joint academic appointments to maximise student choice.
 
-These recent developments demonstrate the potential for Irish universities to improve performance for students, business, and other stakeholders by creating new or deepening existing alliances. Much of this activity to date has focused on postgraduates; in future it should be extended to undergraduate activity .
+These recent developments demonstrate the potential for Irish universities to improve performance for students, business, and other stakeholders by creating new or deepening existing alliances. Much of this activity to
 
 100
 
@@ -3024,6 +3131,8 @@ These recent developments demonstrate the potential for Irish universities to im
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
+date has focused on postgraduates; in future it should be extended to undergraduate activity.
+
 The benefits of increased cooperation, in terms of efficiency and quality demand that it be continued and extended. Strategic alliances that are formed around a particular research area or project may broaden to include other disciplines, or deepen to include more far-reaching cooperation. Ultimately, full mergers of institutions may be considered.
 
 Into the future, the strategic dialogue between the HEA and the universities should examine the extent to which the institutions are exploring and exploiting the potential for inter-institutional collaboration.
@@ -3032,7 +3141,7 @@ Into the future, the strategic dialogue between the HEA and the universities sho
 
 In addition to the challenges outlined above for the university sector, the challenges of scale and the rationale for change in the institutes of technology are more immediate. The envisaged changes to the funding model for higher education will create a stronger link between student numbers and funding allocations, and this will have implications for all institutes and particularly for the smaller ones.
 
-Significant reforms are needed in the sector in order to position it to meet national strategic objectives relating to participation, access, quality , and research and development. In particular, consolidation should be promoted to create amalgamated institutes of technology that:
+Significant reforms are needed in the sector in order to position it to meet national strategic objectives relating to participation, access, quality, and research and development. In particular, consolidation should be promoted to create amalgamated institutes of technology that:
 
 ■ ■ Participate in regional clusters with partner universities of a similar scale in
 
@@ -3056,7 +3165,7 @@ There is no case for the establishment of any new universities in Ireland on the
 
 Similarly, the proposal recently put forward by a number of institutes of technology for the creation of a single federal national technological university runs counter to the regional cluster approach outlined above.
 
-However, there may be a case for facilitating the evolution of some existing institutes following a process of consolidation, into a form of university that is different in mission from the existing Irish universities.
+However, there may be a case for facilitating the evolution of some existing institutes
 
 101
 
@@ -3066,21 +3175,23 @@ However, there may be a case for facilitating the evolution of some existing ins
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
+following a process of consolidation, into a form of university that is different in mission from the existing Irish universities.
+
 There are strong arguments against simply making changes to the names of institutions. Any such changes could, if allowed, lead to confusion internationally as to the roles and mission of Irish institutions. From an international perspective, the designation of an institution as a 'university' or as an 'institute of technology' does not confer any obvious distinction of status - two of the ten internationally highest-ranked institutions are institutes of technology. More generally, title changes are often seen as inevitable precursors to changes of mission, and this carries the risk that important parts of the particular mission of the institutes of technology will be lost. For example, institutes of technology currently provide the overwhelming majority of Level 6 and 7 courses; they have an important role in key disciplines such as science and technology; and they enrol a very diverse student base. Any loss of this mission would be detrimental to the breadth of Irish higher education provision and would not serve our longer-term societal needs.
 
 For this reason, the Group has carefully considered the performance demands that should be associated with any process for the evolution of institutes of technology into a form of university that is different in mission to the existing Irish universities, as described below.
 
-Teaching | Continued strong orientation on labour market outcomes and programmes at levels 6 to 8. Higher quality through improved linkages with workplaces and research-informed curriculum. Greater specialisation around particular niches to improve quality of offerings.
---- | ---
-Research | Particular focus on meeting the national research agenda of supporting local and regional small and medium-sized enterprises.
-
 #### Meeting new performance challenges
 
-In the context of the very ambitious goals set out in this strategy , and the key role of the institutes of technology in achieving many of these goals, new performance challenges should be set for the sector.  These must combine a clearer sense of mission and direction for the sector that will allow and encourage the institutions to improve their performance against national objectives.
+In the context of the very ambitious goals set out in this strategy, and the key role of the institutes of technology in achieving many of these goals, new performance challenges should be set for the sector. These must combine a clearer sense of mission and direction for the sector that will allow and encourage the institutions to improve their performance against national objectives.
 
 While a number of institutes of technology have made significant advances in recent years in delivering on their academic, social and economic responsibilities, stronger, consolidated institutes of technology, created through mergers, will perform better to their traditional missions and values, and also be better able to respond to changed economic and social circumstances.
 
 The new amalgamated institutes of technology will be expected to meet the following objectives:
+
+Teaching | Continued strong orientation on labour market outcomes and programmes at levels 6 to 8. Higher quality through improved linkages with workplaces and research-informed curriculum. Greater specialisation around particular niches to improve quality of offerings.
+--- | ---
+Research | Particular focus on meeting the national research agenda of supporting local and regional small and medium-sized enterprises.
 
 102
 
@@ -3092,7 +3203,7 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 Student body | While retaining diversity of current school leaver population, significant increases in the numbers of part-time students to facilitate upskilling. Provision of evening, weekend and summertime campus learning, open distance e-learning and work-based learning.
 --- | ---
-Engagement with enterprise | Very strong links with enterprise to create programmes informed by enterprise needs, co- taught by practitioners and academics, with constant renewal and change to ensure relevance. R&D activity to be integrated into undergraduate learning to prepare students better for the labour market.
+Engagement with enterprise | Very strong links with enterprise to create programmes informed by enterprise needs, co-taught by practitioners and academics, with constant renewal and change to ensure relevance. R&D activity to be integrated into undergraduate learning to prepare students better for the labour market.
 Internationalisation | Increase in internationalisation of student intake based on strategic targeting of particular countries and disciplines; increased linkages and networks with other institutions of similar focus.
 Funding sources | Significant increase in the proportion of non-core grants funding. Other sources of funding to include fee income and national training fund income in respect of upskilling provision, local enterprise contribution in respect of focused R&D, in-company training, international student tuition and sale of services.
 Governance and management | Demonstrated capacity to prioritise institutional goals, and to put in place strategic, management and financial allocation systems to achieve those goals.
@@ -3185,7 +3296,7 @@ A technological university will also be expected to play a pivotal role in facil
 
 In a technological university, the fields of learning will be closely related to labour market skill needs with a particular focus on programmes at levels 6 to 8 in science, engineering and technology and including an emphasis on workplace learning. The concentration of provision at these levels is an important distinction between the existing universities and new technological universities.
 
-A number of institutes of technology have already been granted the power to award PhDs, and it is envisaged that technological universities will have involvement at levels 9 and 10 appropriate to their mission. However, the major proportion of activity at these levels will be concentrated within the existing university sector, and given the demanding nature of PhD education, programmes at this level should be delivered on a structured collaborative basis that leverages the strengths of partnering institutions. Existing universities should continue to lead the development of new structured PhD programmes at level 10.
+A number of institutes of technology have already been granted the power to award PhDs, and it is envisaged that technological universities will have involvement at levels 9 and 10 appropriate to their mission. However, the major proportion of activity at these levels will be concentrated within the existing university sector, and given the demanding nature of PhD education, programmes at this level should be delivered on a structured collaborative basis that leverages the strengths of partnering institutions. Existing universities should
 
 105
 
@@ -3194,6 +3305,8 @@ A number of institutes of technology have already been granted the power to awar
 [[START OF PAGE 108]]
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
+
+continue to lead the development of new structured PhD programmes at level 10.
 
 ### 8.8	 System safeguards and review mechanisms
 
@@ -3237,7 +3350,7 @@ The HEA will be required to critically review the institution's strategy, with p
 
 ■ ■ Extent to which the strategy sets ambitious and challenging goals for improvement, both internally in the way in which the institution governs and manages itself, and in its external engagement with local, regional and national communities.
 
-The review should assess whether the institution, in preparing its strategy , has been robust in its analysis, comprehensive in its engagement with key stakeholders, and sufficiently ambitious in its goals.
+The review should assess whether the institution, in preparing its strategy, has been robust in its analysis, comprehensive in its engagement with key stakeholders, and sufficiently ambitious in its goals.
 
 The HEA should also have regard to the collective impact of the individual strategies on system coherence. This is particularly important in ensuring that overall system diversity is maintained.
 
@@ -3371,9 +3484,9 @@ In the coming years, Ireland will face some hard strategic choices as we try to 
 
 As pointed out in chapter 2, the Department of Education & Skills currently projects that the demand for places in higher education will rise to 68,000 in 2027, from a 2009 base of 42,500. If the higher education system enters into a period of more intensive engagement with enterprise and wider society, it is likely that a proportion of projected full-time demand can be met through more diverse and flexible provision rather than by traditional full-time provision. This will require resolution of a number of features of a funding system that, to date, has undermined Ireland's performance in lifelong learning.
 
-It is also likely that the private education sector in Ireland, currently small relative to the public sector, may grow to meet some demand, particularly in the context of increased requirements for nontraditional modes of provision and learning. Nonetheless, the scale of the projected growth suggests that a significant supply challenge will need to be faced within the publicly-funded system.
+It is also likely that the private education sector in Ireland, currently small relative to the public sector, may grow to meet some demand, particularly in the context of increased requirements for non-traditional modes of provision and learning. Nonetheless, the scale of the projected growth suggests that a significant supply challenge will need to be faced within the publicly-funded system.
 
-The current system, when benchmarked against the OECD, is delivering above average outcomes at funding levels that are slightly below average. Even taking account of the potential to extract even more efficiency from the system it is clear that if the anticipated levels and changing patterns of demand are to be met, a radically different approach to the funding of the system will have to be taken.
+The current system, when benchmarked against the OECD, is delivering above average outcomes at funding levels that are slightly below average. Even taking account of the potential to extract even more efficiency from the system it is clear that if the anticipated levels and changing patterns
 
 110
 
@@ -3383,9 +3496,11 @@ The current system, when benchmarked against the OECD, is delivering above avera
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
+of demand are to be met, a radically different approach to the funding of the system will have to be taken.
+
 #### Estimating the future funding needs of higher education
 
-Estimating the future funding needs of the higher education system is challenging. Even without prejudice to its adequacy or otherwise, a simple linear calculation based on current per-student costs matched against projected demand leads to growth becoming rapidly unsustainable. Recurrent annual funding is currently at € 1.3 billion, and in today's values this would need to rise to € 1.8 billion by 2020, and to € 2.25 billion 143 by 2030 just to maintain current levels of resource per-student.
+Estimating the future funding needs of the higher education system is challenging. Even without prejudice to its adequacy or otherwise, a simple linear calculation based on current per-student costs matched against projected demand leads to growth becoming rapidly unsustainable. Recurrent annual funding is currently at €1.3 billion, and in today's values this would need to rise to €1.8 billion by 2020, and to €2.25 billion 143 by 2030 just to maintain current levels of resource per-student.
 
 Increased enrolment will also put pressure on student support budgets - at present, more than a third of all higher education full-time students are eligible for some form of student support grant, and if this ratio were maintained into the future, there would be a proportionate funding requirement.
 
@@ -3393,7 +3508,9 @@ The most recent available data 144 for international expenditure on higher educa
 
 The growth in the numbers of entrants to higher education is not the only source of financial pressure.  This strategy commits to ongoing improvements in quality as a key part of its vision, and has already identified a range of recommendations to enhance quality of delivery.  This further intensifies the pressure on the current funding base as does the financial cost involved in the ongoing maintenance of the capital stock of the sector, the costs of which are explored fully in a recent HEA report. 145
 
-> 143	This figure is not inflation adjusted but reflects current prices. 144	OECD (2009) Education at a Glance ,   T able B1 1a (2006 data).
+> 143	This figure is not inflation adjusted but reflects current prices.
+
+> 144	OECD (2009) Education at a Glance, Table B1.1a (2006 data).
 
 If Ireland is to meet the scale of this challenge, it must ensure that higher education effectively deploys all of the resources available to it; that the funding base is widened and increased and that there is an alignment between institutional performance and national strategic priorities. The proportion of the total costs met through non-exchequer investment will need to increase to international norms.
 
@@ -3413,7 +3530,7 @@ Higher education in Ireland is currently heavily reliant on exchequer funding - 
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-If Ireland wishes to build on existing strengths, to meet forthcoming demand and to retain quality, it needs to broaden its funding base. It is notable, for example, that Ireland and the US have exactly the same public expenditure on higher education as a proportion of GDP 146  - 1 per cent. In overall spending, however, the US trebles this proportion of GDP , with further spending to the value of 1.9 per cent of GDP coming from private sources, while in Ireland only 0.2 per cent of GDP is added.
+If Ireland wishes to build on existing strengths, to meet forthcoming demand and to retain quality, it needs to broaden its funding base. It is notable, for example, that Ireland and the US have exactly the same public expenditure on higher education as a proportion of GDP 146 - 1 per cent. In overall spending, however, the US trebles this proportion of GDP, with further spending to the value of 1.9 per cent of GDP coming from private sources, while in Ireland only 0.2 per cent of GDP is added.
 
 Admittedly, this pattern is not unique to Ireland. Eurostat data from 2004 shows that average public investment in higher education by the EU-27 is only just below that of US and far higher than Japan. In these two countries, private expenditure is much higher. As a result, total investment in Europe for all activities, including education and research, is much lower than in the US. 147 In our case, the combination of low levels of private investment, high levels of anticipated demand and constraints on the public finances require a new approach based on the following key components:
 
@@ -3427,7 +3544,7 @@ These two key strategic changes will be supplemented by:
 
 ■ ■ Structural reforms to enhance efficiency and effectiveness, leading to better deployment of the total resources available.
 
-> 146	OECD (2009) Education at a Glance ,   T able B2.4 (2006 data).
+> 146	OECD (2009) Education at a Glance, Table B2.4 (2006 data).
 
 > 147	Commission Staff working paper, Report from the Commission to the Council on Resolution, 23 Nov 2007 on modernising universities for Europe's competitiveness in a global knowledge economy, COM 2008 (680 final).
 
@@ -3435,11 +3552,11 @@ These two key strategic changes will be supplemented by:
 
 The State makes a very significant investment in higher education, and this is justified because of the indirect, yet substantial, societal benefits from higher education.
 
-In addition to the societal benefits, there is unambiguous evidence that higher education confers lifetime advantages on those who complete it, most tangibly in terms of success in the labour market and career earnings potential; in Ireland, those in the labour force with tertiary education (25-64-year-olds in employment) could, over their working lives, expect to earn 69 per cent more than those with upper and post secondary (non-tertiary) levels of educational attainment. 148 When allied with continuing evidence of persistent socioeconomic disparities in participation rates, the individual benefits that higher education tends to confer supports a case for increased individual contributions towards the cost of provision.
+In addition to the societal benefits, there is unambiguous evidence that higher education confers lifetime advantages on those who complete it, most tangibly in terms of success in the labour market and career earnings potential; in Ireland, those in the labour force with tertiary education (25-64-year-olds in employment) could, over their working lives, expect to earn 69 per cent more than those with upper and post secondary (non-tertiary) levels of educational attainment. 148 When allied with continuing evidence of persistent socio-economic disparities in participation rates, the individual benefits that higher education tends to confer supports a case for increased individual contributions towards the cost of provision.
 
-In making the case for an increased contribution from students towards the costs of higher education, it is necessary to highlight the importance of the public funding base and to reiterate the vital importance of a continuation of the State's commitment to investment in Irish higher education into the future. The international evidence is that outside of private education systems, student contributions only ever represent a modest percentage of the underlying costs of delivering higher education. In Ireland, when tuition fees previously applied, this percentage ranged from approximately a quarter to a half of the underlying costs.  Therefore, any system of individual contributions must be supplemental to the State's investment and not a substitute for it.
+In making the case for an increased contribution from students towards the costs of higher education, it is necessary to highlight the importance of the public funding base and to reiterate the vital importance of a continuation of the State's commitment to investment in Irish higher education into the future. The international evidence is that outside of private education systems, student contributions only ever represent a modest percentage of the underlying costs of delivering higher education. In Ireland, when tuition fees previously applied, this percentage ranged from approximately a quarter to a half of the underlying costs. Therefore, any system of individual contributions must be
 
-> 148	OECD (2008) Education at a Glance, T able A91a (2004 data for Ireland).
+> 148	OECD (2008) Education at a Glance, Table A9.1a (2004 data for Ireland).
 
 112
 
@@ -3449,7 +3566,9 @@ In making the case for an increased contribution from students towards the costs
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-As well as pure budgetary logic, there are strong arguments in favour of individual contributions, including the expectation that the introduction of increased tuition fees will lead to a more responsive studentoriented approach among educational institutions, greater variety and flexibility of provision, and improved quality of teaching and learning - all of which enrich the student experience.
+supplemental to the State's investment and not a substitute for it.
+
+As well as pure budgetary logic, there are strong arguments in favour of individual contributions, including the expectation that the introduction of increased tuition fees will lead to a more responsive student-oriented approach among educational institutions, greater variety and flexibility of provision, and improved quality of teaching and learning - all of which enrich the student experience.
 
 #### A model for private contributions
 
@@ -3457,7 +3576,7 @@ The Department of Education & Skills' report on Policy Options for New Student C
 
 The question of affordability must also be seriously considered in the context of the setting of fee rates, so that individuals are not left with unmanageable debts. The setting of fee rates should occur within a national framework that will regulate the maximum level of fees, with periodic review.
 
-> 149 Policy Options for New Student Contribution, Report to Minister for Education and Science, July 2009 http://www. education.ie/servlet/blobservlet/des_publication_ listing.htm
+> 149 Policy Options for New Student Contribution, Report to Minister for Education and Science, July 2009 http://www.education.ie/servlet/blobservlet/des_publication_listing.htm
 
 The Strategy Group did not consider the technical details of how any such scheme might work. Implementation of this will require the Department of Education & Skills to establish an expert group (with international representation) to design the appropriate loan system for Ireland, taking into account the attendant implementation issues.
 
@@ -3467,7 +3586,7 @@ The introduction of a student contribution should not inhibit participation in h
 
 It is therefore proposed that the individual contributions system should be complemented by a reformed grant support system for disadvantaged students.
 
-The State invests considerable public funding in means-tested student grants for approximately 40 per cent of all fulltime students. However, the absence of any consideration of assets and wealth in the means test model has limited the scope of the State to target these scarce resources towards those students most in need of support. This has impacted negatively on potential growth of participation in higher education from the large numbers of households at lower middle-income levels for which affordability considerations play a significant role in the choice of entering higher education.
+The State invests considerable public funding in means-tested student grants for approximately 40 per cent of all full-time students. However, the absence of any consideration of assets and wealth in the means test model has limited the scope of the State to target these scarce resources
 
 113
 
@@ -3476,6 +3595,8 @@ The State invests considerable public funding in means-tested student grants for
 [[START OF PAGE 116]]
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
+
+towards those students most in need of support. This has impacted negatively on potential growth of participation in higher education from the large numbers of households at lower middle-income levels for which affordability considerations play a significant role in the choice of entering higher education.
 
 The very considerable inefficiencies in the current arrangements for administering student grants reflect the incremental and sector-based growth of higher education in Ireland, and the current means assessment model does not command public confidence. For these reasons, the means assessment model must be reformed, and the processes relating to higher education grants must become more streamlined and timely, and must be delivered by a single agency. Such reform is essential to supporting equity of access to higher education and to wider social inclusion goals.
 
@@ -3501,9 +3622,9 @@ State investment must be used as effectively as possible to promote higher perfo
 
 Currently exchequer resource for higher education is distributed on the basis of a core grant to institutions and a grant in lieu of fees.  There are important differences between the manner in which the core grant is allocated to the universities relative to the other institutions.
 
-In the case of the universities and some other smaller institutions, 150 the grant is distributed on the basis of the number of students and the subject-weighted price groups occupied by the students the Recurrent Grant Allocation Model (RGAM). In the case of the other institutions, the grant reflects historical costs, although the HEA has begun to phase in a model similar to the RGAM used in the university sector.
+In the case of the universities and some other smaller institutions, 150 the grant is distributed on the basis of the number of students and the subject-weighted price groups occupied by the students - the Recurrent Grant Allocation Model (RGAM). In the case of the other institutions, the grant reflects historical costs, although the HEA has begun to phase in a model similar to the RGAM used in the university sector.
 
-The introduction of the RGAM has brought important benefits of transparency and equity in the way that funding is allocated to the different universities. It is therefore proposed to extend this model progressively to all institutions. It is also proposed to further develop the model to make it more representative of disadvantaged and part-time students.
+The introduction of the RGAM has brought important benefits of transparency
 
 > 150	The other institutions are St Patrick's College Drumcondra, Mary Immaculate College Limerick, National College of Art & Design, and the Mater Dei Institute.
 
@@ -3515,9 +3636,11 @@ The introduction of the RGAM has brought important benefits of transparency and 
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
-Within current funding policies, the takeup of full-time on-campus programmes is given priority over more flexible modes of delivery. 151 With the introduction of individual contributions, part-time students will achieve parity of treatment with full-time students in relation to fees and eligibility for loans.
+and equity in the way that funding is allocated to the different universities. It is therefore proposed to extend this model progressively to all institutions. It is also proposed to further develop the model to make it more representative of disadvantaged and part-time students.
 
-The funding model for institutions should be neutral in respect of mode of delivery (full-time, part-time, on-campus, offcampus) and should focus on the 'quantum of learning' delivered by each institution.
+Within current funding policies, the take-up of full-time on-campus programmes is given priority over more flexible modes of delivery. 151 With the introduction of individual contributions, part-time students will achieve parity of treatment with full-time students in relation to fees and eligibility for loans.
+
+The funding model for institutions should be neutral in respect of mode of delivery (full-time, part-time, on-campus, off-campus) and should focus on the 'quantum of learning' delivered by each institution.
 
 Such a reform would also help to shift away from an input-centred mindset to one focused more on learning outcomes, and it would also signal a high-level strategic endorsement of innovation in the design and delivery of higher learning. 152
 
@@ -3527,7 +3650,7 @@ At present, the budget for higher education as a whole is determined by Governme
 
 > 151	HEA (2009) Position paper on Open and Flexible Learning, paragraph 21.
 
-> 152	HEA (2009) op.cit. ,  paragraph 33, p.12.
+> 152	HEA (2009) op.cit., paragraph 33, p.12.
 
 An increase in non-exchequer funding through student contributions will alleviate this pressure; but before the introduction of such a model, it is very important to ensure the overall sustainability of the system and to manage growth in such a way that the quality is maintained in the educational and research outcomes and in the student experience.
 
@@ -3565,7 +3688,7 @@ We propose that two important performance enhancing mechanisms be included in th
 
 As a corollary to the performance incentive system, institutions that fail to deliver on their commitments can expect to suffer financial penalties.
 
-- II Dedicated performance funding will be used to promote performance on key national priorities. Such funding can be sourced through topslicing of the recurrent grant, as the overall level of funding allows; or through targeted competitive funds to be bid for and allocated on a competitive, externally-reviewed basis, following the example of the Strategic Innovation Fund.
+- II Dedicated performance funding will be used to promote performance on key national priorities. Such funding can be sourced through top-slicing of the recurrent grant, as the overall level of funding allows; or through targeted competitive funds to be bid for and allocated on a competitive, externally-reviewed basis, following the example of the Strategic Innovation Fund.
 
 116
 
@@ -3599,11 +3722,11 @@ Philanthropic donations are a significant source of higher education funding in 
 
 ### 9.5	 Effective deployment of resources in higher education
 
-Irish higher education displays comparatively high levels of efficiency, productivity, effectiveness and quality when compared to other developed countries. 156 Nevertheless, there are some areas within higher education where resources could be more effectively deployed. The key message emerging from the recent ECOFIN study emphasises the importance of efficiency in higher education spending not just as a matter of public finance 'but also [as] a way of promoting innovation and growth'. 157  Small incremental changes in productivity will not be enough: Ireland now needs to develop and support a culture of continuous improvement both in terms of quality and in terms of productivity.
+Irish higher education displays comparatively high levels of efficiency, productivity, effectiveness and quality when compared to other developed countries. 156 Nevertheless,
 
 > 155	HE Space Survey, Preliminary Results and Indicative Capital Investment demands, March 2010.
 
-> 156	St. Aubyn, M., Pina, A., Garcia, F . & Pais, J. (2009) Study on the efficiency and effectiveness of public spending on tertiary education, European Economy, Economics Papers 390, November 2009, ECOFIN, European Commission.
+> 156	St. Aubyn, M., Pina, A., Garcia, F. & Pais, J. (2009) Study on the efficiency and effectiveness of public spending on tertiary education, European Economy, Economics Papers 390, November 2009, ECOFIN, European Commission.
 
 117
 
@@ -3612,6 +3735,8 @@ Irish higher education displays comparatively high levels of efficiency, product
 [[START OF PAGE 120]]
 
 National Strategy for Higher Education to 2030 - Report of the Strategy Group
+
+there are some areas within higher education where resources could be more effectively deployed. The key message emerging from the recent ECOFIN study emphasises the importance of efficiency in higher education spending not just as a matter of public finance 'but also [as] a way of promoting innovation and growth'. 157 Small incremental changes in productivity will not be enough: Ireland now needs to develop and support a culture of continuous improvement both in terms of quality and in terms of productivity.
 
 #### Human resources
 
@@ -3697,7 +3822,7 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 #### Physical resources
 
-The more effective deployment of physical infrastructure in the higher education system would also have an impact beyond saving money or increasing efficiency. The space usage rate in Irish higher education is estimated by HEA to be roughly 63 per cent, 160 which is high by international standards.  The length of Ireland's academic year in international terms is not unusual, and it is recognised that the universities' research activity is year-round. In the same report, however, the HEA recommends that consideration be given to an increase in the academic operational year or day/ week/semester with a view to increasing the efficiency of space usage in the sector.
+The more effective deployment of physical infrastructure in the higher education system would also have an impact beyond saving money or increasing efficiency. The space usage rate in Irish higher education is estimated by HEA to be roughly 63 per cent, 160 which is high by international standards. The length of Ireland's academic year in international terms is not unusual, and it is recognised that the universities' research activity is year-round. In the same report, however, the HEA recommends that consideration be given to an increase in the academic operational year or day/week/semester with a view to increasing the efficiency of space usage in the sector.
 
 This is one way that institutions could make themselves more attractive to international students.
 
@@ -3781,7 +3906,7 @@ This will involve:
 
 ■ ■ Widening  access  to  higher  education  by  people  from  lower  socio-economic backgrounds or other under-represented groups (by additional weighting);
 
-■ ■ Recurrent grant allocation that achieves parity between all students, whether fullor part-time, on- or off-campus;
+■ ■ Recurrent grant allocation that achieves parity between all students, whether full- or part-time, on- or off-campus;
 
 ■ ■ An element of reward to match private donations sourced through philanthropy;
 
@@ -3935,7 +4060,7 @@ Peter Cassells, Chair, National Centre for Partnership and Performance
 
 John Casteen*, President, University of  Virginia, USA
 
-Marion Coy, President, Galway-Mayo Institute of T echnology
+Marion Coy, President, Galway-Mayo Institute of Technology
 
 Mary Doyle, Assistant Secretary, Department of the Taoiseach
 
@@ -3971,7 +4096,7 @@ National Strategy for Higher Education to 2030 - Report of the Strategy Group
 
 ## Appendix D: Consultation process
 
-The Strategy Group is very grateful to all the organisations and individuals who made written submissions. A thematic summary of the submissions is available at: www.hea.ie/en/ node/1303
+The Strategy Group is very grateful to all the organisations and individuals who made written submissions. A thematic summary of the submissions is available at: www.hea.ie/en/node/1303
 
 In addition the Group is very grateful to those who took part in the focus groups which helped inform the Group in their considerations. Further details of the groups can also be found at www.hea.ie/en/node/1303
 
@@ -3979,9 +4104,9 @@ The Strategy Group were assisted in their work by an international panel of high
 
 ### International Panel of Experts
 
-Prof Peter Coaldrake,  Vice Chancellor Queensland University of T echnology, Australia
+Prof Peter Coaldrake, Vice Chancellor Queensland University of Technology, Australia
 
-Professor Sir Graeme Davis, Chair of Northern Ireland HE Strategy Group
+Professor Sir Graeme Davies, Chair of Northern Ireland HE Strategy Group
 
 Prof Malcolm Grant, Provost, University College London
 
@@ -3991,11 +4116,11 @@ Aims McGuinness, Snr Associate National Centre for Higher Education Management S
 
 Paul Ramsden, Former Chief Executive of Higher Education Academy, UK
 
-Jamil Salmi,  T ertiary Education Co-ordinator,  World Bank
+Jamil Salmi, Tertiary Education Co-ordinator, World Bank
 
-Dirk  V an Damme, Head of Centre for Educational Research and Innovation, OECD
+Dirk Van Damme, Head of Centre for Educational Research and Innovation, OECD
 
-Prof. Frans van  Vught, President of the European Centre for Strategic Management o f Universities and Member of the EC Group of Societal Policy Advisors
+Prof. Frans van Vught, President of the European Centre for Strategic Management of Universities and Member of the EC Group of Societal Policy Advisors
 
 130
 
@@ -4009,6 +4134,11 @@ www.boydfreeman.ie
 
 [[START OF PAGE 134]]
 
-(this page came through the extractor with no text)
+AN ROINN | DEPARTMENT OF
+OIDEACHAIS | EDUCATION
+AGUS SCILEANNA | AND SKILLS
+
+ISBN 978-1-4064-2542-0
+9 781406 425420
 
 [[END OF PAGE 134]]
