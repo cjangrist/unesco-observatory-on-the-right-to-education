@@ -24,15 +24,16 @@ Printed under the power conferred on the Attorney General by section 18A of the 
 
 PERLEMBAGAAN NEGARA BRUNEI DARUSSALAM
 
-## CONSTITUTIONAL MATTERS I
+________________
 
+## CONSTITUTIONAL MATTERS I
 CONSTITUTION OF BRUNEI DARUSSALAM
 
 **************
 
 ## PERKARA-PERKARA PERLEMBAGAAN II
 
-PEMASYHURAN MENGANGKAT RAJA DAN MELANTIK PEMANGKU RAJA, 1959
+________________ PEMASYHURAN MENGANGKAT RAJA DAN MELANTIK PEMANGKU RAJA, 1959
 
 ## CONSTITUTIONAL MATTERS II
 
@@ -42,13 +43,11 @@ SUCCESSION AND REGENCY PROCLAMATION, 1959
 
 ## PERKARA-PERKARA PERLEMBAGAAN III
 
-PERINTAH PERLEMBAGAAN
-(PROSEDUR KEWANGAN)
-
-## CONSTITUTIONAL MATTERS III
+________________ PERINTAH PERLEMBAGAAN (PROSEDUR KEWANGAN)
 
 CONSTITUTION (FINANCIAL PROCEDURE)
-ORDER
+
+## CONSTITUTIONAL MATTERS III ORDER
 
 [[END OF PAGE 3]]
 
@@ -62,69 +61,41 @@ ORDER
 
 ## ISI KANDUNGAN CONTENTS
 
-Mukasurat
-Page
-
-Perlembagaan Negara Brunei Darussalam .................................... 18
-
-Constitution of Brunei Darussalam ............................................. 19
-
-Pemasyhuran Mengangkat Raja dan Melantik Pemangku
-Raja, 1959 .................................................................................... 192
-
-Succession and Regency Proclamation, 1959 ............................ 193
-
-Perintah Perlembagaan (Prosedur Kewangan) ........................... 292
-
-Constitution (Financial Procedure) Order .................................. 293
-
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-## TITAH KEBAWAH DULI YANG MAHA MULIA PADUKA SERI BAGINDA SULTAN HAJI HASSANAL BOLKIAH MU’IZZADDIN WADDAULAH IBNI AL-MARHUM SULTAN HAJI OMAR ‘ALI SAIFUDDIEN SA’ADUL KHAIRI WADDIEN, SULTAN DAN YANG DI-PERTUAN NEGARA BRUNEI DARUSSALAM
+## TITAH KEBAWAH DULI YANG MAHA MULIA PADUKA SERI BAGINDA SULTAN HAJI HASSANAL BOLKIAH MU'IZZADDIN WA  D  DAULAH IBNI A  L  -  M  A  R  H  U  M S  U  LTAN HAJI OMAR 'ALI SAIFUDDIEN SA'ADUL KHAIRI WA  D  D  I  E  N  , S  U  LTAN DAN YA  N  G DI-PERTUAN NEGARA BRUNEI DARUSSALAM
 
-DI ISTIADAT PEMBUKAAN RASMI MAJLIS MESYUARAT NEGARA DI PUSAT PERSIDANGAN ANTARABANGSA, BERAKAS, NEGARA BRUNEI DARUSSALAM PADA HARI SABTU 10 SYA’ABAN 1425 BERSAMAAN DENGAN 25 SEPTEMBER 2004
+DI ISTIADAT PEMBUKAAN RASMI MAJLIS MESYUARAT NEGARA DI PUSAT PERSIDANGAN ANTARABANGSA, BERAKAS, NEGARA BRUNEI DARUSSALAM PADA HARI SABTU 10 SYA'ABAN 1425 BERSAMAAN DENGAN 25 SEPTEMBER 2004
 
 Assalamualaikum Warahmatullahi Wabarakatuh
 
 Bismillahir Rahmanir Rahim
 
-ALHAMDULILLAHI Rabbil ‘Aalameen, Wabihee Nasta’eenu ‘Alaa Umuuriddunya Waddeen, Wassalaatu Wassalaamu ‘Ala Asyrafil Mursaleen, Sayyidina Muhammaddin, Wa’alaa Aalihiee Wasahbihee Ajma’een, Waba’du.
+ALHAMDULILLAHI  Rabbil 'Aalameen,  Wabihee  Nasta'eenu 'Alaa  Umuuriddunya  Waddeen, Wa  s  s  a  l  a  atu  Wa  s  s  a  l  a  a  mu  ' Ala  Asyrafil  Mursaleen,  Sayyidina  Muhammaddin,  Wa'alaa  A  a  l  i  h  i  e  e Wasahbihee Ajma'een, Waba'du. Syukur ke hadrat Allah yang telah mengizinkan kita dapat berhimpun pada hari ini, sempena perasmian sidang Majlis Mesyuarat Negara yang pertama. Yang Dipertua Majlis Mesyuarat Negara dan Ahli-ahli Yang Berhormat. Pada  15  Julai  yang  lalu,  Beta  telah  memaklumkan  mengenai  dengan  penubuhan  sebu  a  h jawatankuasa yang ditugaskan mengkaji semula Perlembagaan dan undang-undang negara, supaya ianya benar-benar selaras dengan keadaan yang penuh dengan cabaran ini. Jaw  atankuasa berkenaan  telah  mengenal  pasti  peru  b  a  h  a  n  -  p  e  rubahan yang  perlu  untuk mengukuhkan lagi institusi pemerintahan beraja dan meningkatkan keberkesanan hubungan kerajaan dengan rakyat. Perubahan-perubahan ini akan membolehkan kita dengan sebaik-baiknya melindungi dan memelihara kepentingan rakyat dan negara. Dengannya juga, dapatlah Beta memikirkan, bagaimana rak yat - dengan pelbagai cara - dapat melibatkan diri dalam pembangunan Negara Brunei Darussalam. Ini, telah Beta bayangkan di dalam titah  sambutan  hari  keputeraan  yang  lalu,  bahawa  Beta  berhasrat  untuk  mewujudkan  struktur p  e  ru  n  d  i  n  gan  yang  lebih  fo  rmal,  iaitu  dengan  mengadakan  semula  Majlis  Mesyuarat  Nega  r  a  . Persidangan hari ini adalah merupakan per mulaan proses ke arah yang Beta hasratkan. Kita  sedia  maklum,  orang  Brunei  mempunyai cara mereka menyalurkan  harapan  dan  masalah melalui  pelbagai  peringkat  peru  n  d  i  n  gan. Sudah  barang  tentu  mereka  akan  menga  l  u  -  a  l  u  k  a  n penubuhan semula Majlis Mesyuarat Negara ini, yang penubuhannya menambahkan lagi forum atau wadah tempat menyalurkan pendapat dan pandangan. Bagaimanapun,  penubuhan  semula  majlis  ini,  dalam  apa  jua  suasana  sekalipun,  tidak  akan menggugat kestabilan dan kesejahteraan yang kita nikmati selama ini.  Begitu  juga  kewujudannya bukan  untuk  menimbulkan  kacau-bilau  atau  ke  b  i  m  b  a  n  gan  di  kalangan  masya  r  a  k  at.  Sebarang kesilapan  akan  mengundang  risiko,  di  mana  untuk  memperbaikinya  semula  akan  mengambil  masa yang lama. Oleh itu, kita memulakan proses ini dengan cara yang amat berhati-hati. Beta akan melihat kerja-kerja dan kesan dari kewujudan majlis ini dan seterusnya akan membuat keputusan sama ada
 
-Syukur ke hadrat Allah yang telah mengizinkan kita dapat berhimpun pada hari ini, sempena perasmian sidang Majlis Mesyuarat Negara yang pertama.
-
-Yang Dipertua Majlis Mesyuarat Negara dan Ahli-ahli Yang Berhormat.
-
-Pada 15 Julai yang lalu, Beta telah memaklumkan mengenai dengan penubuhan sebuah jawatankuasa yang ditugaskan mengkaji semula Perlembagaan dan undang-undang negara, supaya ianya benar-benar selaras dengan keadaan yang penuh dengan cabaran ini.
-
-Jawatankuasa berkenaan telah mengenal pasti perubahan-perubahan yang perlu untuk mengukuhkan lagi institusi pemerintahan beraja dan meningkatkan keberkesanan hubungan kerajaan dengan rakyat. Perubahan-perubahan ini akan membolehkan kita dengan sebaik-baiknya melindungi dan memelihara kepentingan rakyat dan negara.
-
-Dengannya juga, dapatlah Beta memikirkan, bagaimana rakyat - dengan pelbagai cara - dapat melibatkan diri dalam pembangunan Negara Brunei Darussalam. Ini, telah Beta bayangkan di dalam titah sambutan hari keputeraan yang lalu, bahawa Beta berhasrat untuk mewujudkan struktur perundingan yang lebih formal, iaitu dengan mengadakan semula Majlis Mesyuarat Negara. Persidangan hari ini adalah merupakan permulaan proses ke arah yang Beta hasratkan.
-
-Kita sedia maklum, orang Brunei mempunyai cara mereka menyalurkan harapan dan masalah melalui pelbagai peringkat perundingan. Sudah barang tentu mereka akan mengalu-alukan penubuhan semula Majlis Mesyuarat Negara ini, yang penubuhannya menambahkan lagi forum atau wadah tempat menyalurkan pendapat dan pandangan.
-
-Bagaimanapun, penubuhan semula majlis ini, dalam apa jua suasana sekalipun, tidak akan menggugat kestabilan dan kesejahteraan yang kita nikmati selama ini. Begitu juga kewujudannya bukan untuk menimbulkan kacau-bilau atau kebimbangan di kalangan masyarakat. Sebarang kesilapan akan mengundang risiko, di mana untuk memperbaikinya semula akan mengambil masa yang lama. Oleh itu, kita memulakan proses ini dengan cara yang amat berhati-hati. Beta akan melihat kerja-kerja dan kesan dari kewujudan majlis ini dan seterusnya akan membuat keputusan sama ada proses ini boleh diteruskan dengan menambah lagi bilangan ahlinya.
+proses ini boleh diteruskan dengan menambah lagi bilangan ahlinya.
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-Hari ini, ahli-ahli Majlis Mesyuarat akan memulakan tugas pertama mereka dengan diberi penghormatan untuk membahaskan masa depan Perlembagaan dan negara.
+Hari  ini,  ahli-ahli  Majlis  Mesyuarat  akan  memulakan  tugas  pertama  mereka  dengan  diberi penghormatan untuk membahaskan masa depan Perlembagaan dan negara.
 
-Perlu diingat, penghormatan ini sangatlah berat. Ahli-ahli mempunyai tanggungjawab untuk memartabatkan Majlis Mesyuarat Negara sebagai institusi yang dihormati serta boleh berfungsi sebagai forum perbincangan yang betul-betul membina.
+Perlu  diingat,  penghormatan  ini  sangatlah  berat.  Ahli-ahli  mempunyai tanggungjawab untuk memartabatkan  Majlis  Mesyuarat  Negara  sebagai  institusi  yang  dihormati  serta  boleh  berfungsi sebagai forum perbincangan yang betul-betul membina.
 
-Ahli-ahli juga menjadi contoh untuk menunjukkan yang masyarakat Brunei adalah cukup memahami serta menghargai ciri-ciri bernegara; ciri-ciri istimewa dalam sistem kerajaan; sentiasa mengamalkan sikap muafakat dan mengutamakan kepentingan bersama lebih daripada kepentingan diri sendiri.
+Ahli-ahli  juga  menjadi  contoh  untuk  menunjukkan  yang  masyarakat  Brunei  adalah  cukup memahami serta menghargai  ciri-ciri  bernegara;  ciri-ciri  istimewa  dalam  sistem  kerajaan;  sentiasa mengamalkan sikap muafakat dan mengutamakan kepentingan bersama lebih daripada kepentingan diri sendiri.
 
-Masyarakat Brunei juga adalah menolak perbalahan dan permusuhan; menghindari daripada memikirkan perkara-perkara remeh-temeh serta berusaha menjauhi pemikiran sempit.
+Masyarakat  Brunei  juga  adalah  menolak  perbalahan  dan  permusuhan;  menghindari  daripada memikirkan perkara-perkara remeh-temeh serta berusaha menjauhi pemikiran sempit.
 
-Ahli-ahli Majlis perlu menyedari, bahawa perhatian rakyat dan masyarakat antarabangsa adalah tertumpu kepada mereka. Mereka sedang disuluh sehingga kepada tingkah laku mereka. Oleh itu, sayugialah mereka jangan sekali-kali mengabaikan faktor-faktor akhlak di samping juga yang lain-lain.
+Ahli-ahli Majlis perlu menyedari, bahawa perhatian rak yat dan masyarakat antarabangsa adalah tertumpu kepada mereka. Mereka sedang disuluh sehingga kepada tingkah laku mereka. Oleh itu, sayugialah mereka jangan sekali-kali mengabaikan faktor-faktor akhlak di samping juga yang lain- lain.
 
 Berusahalah membentuk satu model yang boleh dibanggakan, yang mencerminkan budaya kita orang Brunei yang palikat dengan agama serta kukuh dengan adat resam yang tinggi.
 
-Pada hari ini adalah merupakan satu detik bersejarah bagi Negara Brunei Darussalam. Beta penuh yakin, semua ahli akan dapat melaksanakan tugas mereka dengan penuh tanggungjawab, demi kepentingan rakyat dan penduduk.
+Pada  hari  ini  adalah  merupakan  satu  detik  bersejarah  bagi  Negara  Brunei  Darussalam.  Beta penuh yakin, semua ahli akan dapat melaksanakan tugas mereka dengan penuh tanggungjawa b, demi kepentingan rakyat dan penduduk.
 
-Beta dan rakyat adalah sedang menunggu hasil perundingan ini, Beta percaya, institusi ini akan lebih mendekatkan Beta dan kerajaan dengan rakyat serta dapat membantu memenuhi cita-cita dan harapan kita semua.
+Beta dan rak yat adalah sedang menunggu hasil perundingan ini, Beta percaya, institusi ini akan lebih mendekatkan Beta dan kerajaan dengan rakyat serta dapat membantu memenuhi cita-cita dan harapan kita semua.
 
 Sekian, Wabillahit Taufik Walhidayah, Wassalamualaikum Warahmatullahi Wabarakatuh.
 
@@ -132,95 +103,83 @@ Sekian, Wabillahit Taufik Walhidayah, Wassalamualaikum Warahmatullahi Wabarakatu
 
 [[START OF PAGE 8]]
 
-## SPEECH BY HIS MAJESTY SULTAN HAJI HASSANAL BOLKIAH MU’IZZADDIN WADDAULAH IBNI AL-MARHUM SULTAN HAJI OMAR ‘ALI SAIFUDDIEN SA’ADUL KHAIRI WADDIEN, SULTAN AND YANG DI-PERTUAN OF BRUNEI DARUSSALAM
+## SPEECH BY HIS MAJESTY SULTAN HAJI HASSANAL BOLKIAH MU'IZZADDIN WADDAULAH IBNI AL-MARHUM SULTAN HAJI OMAR 'ALI SAIFUDDIEN SA'ADUL KHAIRI WADDIEN, SULTAN AND YANG DI-PERTUAN OF BRUNEI DARUSSALAM
 
-AT THE OFFICIAL OPENING CEREMONY OF THE LEGISLATIVE COUNCIL AT THE INTERNATIONAL CONVENTION CENTRE, BERAKAS, BRUNEI DARUSSALAM ON SATURDAY 10 SYA’ABAN 1425 CORRESPONDING TO 25 SEPTEMBER 2004
+AT THE OFFICIAL OPENING CEREMONY OF THE LEGISLATIVE COUNCIL AT THE INTERNATIONAL CONVENTION CENTRE, BERAKAS, BRUNEI DARUSSALAM ON SATURDAY 10 SYA'ABAN 1425 CORRESPONDING TO 25 SEPTEMBER 2004
 
-Assalamualaikum Warahmatullahi Wabarakatuh
+A  s  s  a  l  a  mualaikum Wa  r  a  h  m  atullahi Wab  a  r  a  k  at  u  h
 
 Bismillahir Rahmanir Rahim
 
-ALHAMDULILLAHI Rabbil ‘Aalameen, Wabihee Nasta’eenu ‘Alaa Umuuriddunya Waddeen, Wassalaatu Wassalaamu ‘Ala Asyrafil Mursaleen, Sayyidina Muhammaddin, Wa’alaa Aalihiee Wasahbihee Ajma’een, Waba’du.
+ALHAMDULILLAHI Rabbil 'Aalameen, Wabihee  Nasta'eenu 'Alaa Umu  u  r  i  d  d  u  nya Wa  d  d  e  e  n  , Wa  s  s  a  l  a  atu  Wa  s  s  a  l  a  a  mu  ' Ala  Asyrafil  Mursaleen,  Sayyidina  Muhammaddin,  Wa'alaa  A  a  l  i  h  i  e  e Wasahbihee Ajma'een, Wab  a  'd  u  .
 
-All praise be to Allah for His will to enable us to gather today, in conjunction with the official opening of the first Legislative Council Session.
+All praise be to Allah for His will to enable us to gather today, in conjunction with the off  i  c  i  a  l opening of  the first Legislat  ive Council Session.
 
-The Honourable Mr. Speaker and Honourable Members, last July 15th I announced the establishment of a committee to review the Constitution and the laws of the country so as to be in line with the current challenging environment.
+The  Honourable  Mr.  Speaker  and  Honourable  Members,  last  Ju  ly  15th  I  announced  the e  s  t  ablishment of  a committee to review the Constitution and the laws of  the country so as to be in line with the current challenging env  i  ro  n  m  e  n  t  .
 
-The committee has identified the changes that are necessary in order to strengthen the institution of the Monarchy system of government and improve the effectiveness of the relationship between the Government and the people. These changes will enable us to safeguard and preserve the interests of the people and the country.
+The  committee  has  identified  the  changes  that  are  necessary  in  order  to  strengthen  the institution of  the Monarc  hy system of  gove  rnment and improve the eff  e  c  t  iveness of  the re  l  at  i  o  n  s  h  i  p b  e  t  ween the Gove  rnment and the people. These changes will enable us to safeguard and pre  s  e  r  ve the i  n  t  e  rests of  the people and the country.
 
-This will also enable me to consider how the people, through various means, could participate in the development of Brunei Darussalam. This I have indicated in my speech during the recent birthday celebrations that I wished to establish a more formal consultative structure, that is to reconvene the Legislative Council. Today’s meeting marks the beginning of a process towards achieving that wish.
+This will also enable me to consider how the people, through various means, could participat  e in  the  development  of  B  runei  Darussalam. This  I  have  indicated  in  my  speech  during  the  re  c  e  n  t b  i  r  t  h  d  ay  celebrations  that  I  wished  to  establish  a  more  fo  rmal  consultat  ive  stru  c  t  u  re,  that  is  to re  c  o  nvene  the  Legislat  ive  Council. To  d  ay  ' s  meeting  marks  the  beginning  of a  process  tow  a  rd  s a  c  h  i  eving that wish.
 
-As we are all aware, Bruneians have their own way of expressing their hopes and problems through various consultations. They will surely look forward to the re-establishment of the Legislative Council which will provide a wider forum or platform to express opinions and views.
+As  we  are  all  aw  a  re,  Bruneians  have  their  own  way  of e  x  p  ressing  their  hopes  and  pro  bl  e  m  s t  h  rough  various  consultat  i  o  n  s.  Th  ey will  sure  ly  look  fo  r  w  a  rd to  the  re  -  e  s  t  ablishment  of t  h  e L  e  g  i  s  l  at  ive Council which will provide a wider fo  rum or plat  fo  rm to express opinions and views.
 
-However, the re-establishment of the Council in any situation will not threaten the stability and prosperity which we have long enjoyed. Its existence is also not to create disorder or anxiety among the community. Any mistake will invite risks which will take time to rectify. Therefore, we embark on this process very carefully. I will observe the work and impact brought about by the existence of this Council and will decide whether this process can proceed further by the addition of more Members.
+H  oweve  r, the re  -  e  s  t  ablishment of  the Council in any situation will not thre  aten the stability and p  rosperity which we have long enjoyed. Its existence is also not to cre  ate disorder or anxiety among the commu  n  i  t  y . A  ny mistake will invite risks which will take time to re  c  t  i  f  y . Th  e  re  fo  re,  we embark on this process very care  f  u  l  ly . I will observe the wo  rk and impact brought about by the existence of this  Council  and  will  decide  whether  this  process  can  proceed  further  by  the  addition  of m  o  re M  e  m  b  e  rs.
 
-Today, Members of the Legislative Council will begin their first task and are given the honour to debate the future of the Constitution and the country.
+To  d  ay , Members of  the Legislat  ive Council will begin their first task and are given the honour to debate the future of  the Constitution and the country.
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-We must also remember that this is a heavy responsibility. Members have the task to uplift the Legislative Council as a well-respected institution as well as being able to function as a truly constructive forum for discussion.
+We must also remember that this is a heavy re  s  p  o  n  s  i  b  i  l  i  t  y . Members have the  task  to uplift  the L  e  g  i  s  l  at  ive  Council  as  a  we  l  l  -  respected  institution  as  well  as  being  able  to  function  as  a  tru  ly c  o  n  s  t  ru  c  t  ive fo  rum for discussion.
 
-Members will also serve as an example to show that the Brunei society fully understands and appreciates the characteristics of a nation; the special characteristics within the government system; always practising consensus and upholding the public interest more than individual interest.
+M  e  m  b  e  rs  will  also  serve  as  an  example  to  show that  the  Brunei  society  fully understands  and a  p  p  re  c  i  ates the characteristics of  a nation; the special characteristics within the gove  rnment system; a  lw  ays practising consensus and upholding the public interest more than individual intere  s  t  .
 
-Brunei society also rejects rift and discord; avoids pondering over trivial matters as well as keeping at bay a narrow outlook.
+B  runei  society  also  rejects  rift  and  discord;  avoids  pondering  over  trivial  mat  t  e  rs  as  well  as ke  eping at bay a narrow outlook.
 
-Members of the Council should realise that the attention of the people and the international community at large is focused on them. Their every move is being watched. Therefore they must never neglect moral values as well as other factors.
+M  e  m  b  e  rs  of  the Council should realise that the attention of  the people and the intern  at  i  o  n  a  l c  o  m  munity at large is focused on them. Their every move is being watched. Th  e  re  fo  re they must neve  r neglect moral values as well as other factors.
 
-Do make an effort to establish a model that we can be proud of, that reflects our Brunei culture which is imbued in religion and steadfast with rich custom.
+Do make an effort to establish a model that we can be proud of, that re  flects our Brunei culture which is imbued in religion and steadfast with rich custom.
 
-Today is a historic moment for Brunei Darussalam. I have every confidence that all Members will be able to execute their duties with full responsibility for the interest of the people.
+To  d  ay is a historic moment for Brunei Darussalam. I have every confidence that all Members will be able to execute their duties with full responsibility for the interest of  the people.
 
-Both the people and I are looking forward to the outcome of this meeting which I believe will serve to draw the Government and myself closer to the people as well as being able to attain the fulfilment of the aspirations and hopes of us all.
+Both the people and I are looking fo  r  w  a  rd to the outcome of  this meeting which I believe will s  e  r  ve  to  draw  the  Gove  rnment and  my  s  e  l  f  closer  to  the  people  as  well  as  being able  to  attain  the fulfilment of  the aspirations and hopes of  us all.
 
-Wabillahit Taufiq Walhidayah, Wassalamualaikum Warahmatullahi Wabarakatuh.
+Wabillahit Taufiq Wa  l  h  i  d  ayah, Wassalamualaikum Wa  r  a  h  m  atullahi Wab  a  r  a  k  atuh.
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-## TITAH KEBAWAH DULI YANG MAHA MULIA PADUKA SERI BAGINDA SULTAN HAJI HASSANAL BOLKIAH MU’IZZADDIN WADDAULAH IBNI AL-MARHUM SULTAN HAJI OMAR ‘ALI SAIFUDDIEN SA’ADUL KHAIRI WADDIEN, SULTAN DAN YANG DI-PERTUAN NEGARA BRUNEI DARUSSALAM
+## TITAH KEBAWAH DULI YANG MAHA MULIA PADUKA SERI BAGINDA SULTAN HAJI HASSANAL BOLKIAH MU'IZZADDIN WA  D  DAULAH IBNI A  L  -  M  A  R  H  U  M S  U  LTAN HAJI OMAR 'ALI SAIFUDDIEN SA'ADUL KHAIRI WADDIEN, S  U  LTAN DAN YA  N  G DI-PERTUAN NEGARA BRUNEI DARUSSALAM
 
 DI MAJLIS PENANDATANGANAN PEMASYHURAN PERLEMBAGAAN NEGARA BRUNEI DARUSSALAM (PINDAAN), 2004
 
-DI LAPAU, BANDAR SERI BEGAWAN, NEGARA BRUNEI DARUSSALAM PADA HARI RABU 14 SYA’ABAN 1425 BERSAMAAN DENGAN 29 SEPTEMBER 2004
+DI LAPAU, BANDAR SERI BEGAWAN, NEGARA BRUNEI DARUSSALAM PADA HARI RABU 14 SYA'ABAN 1425 BERSAMAAN DENGAN 29 SEPTEMBER 2004
 
 Assalamualaikum Warahmatullahi Wabarakatuh
 
 Bismillahir Rahmanir Rahim
 
-ALHAMDULILLAHI Rabbil ‘Aalameen, Wabihee Nasta’eenu ‘Alaa Umuuriddunya Waddeen, Wassalaatu Wassalaamu ‘Ala Asyrafil Mursaleen, Sayyidina Muhammaddin, Wa’alaa Aalihiee Wasahbihee Ajma’een, Waba’du.
+ALHAMDULILLAHI  Rabbil 'Aalameen,  Wabihee  Nasta'eenu 'Alaa  Umuuriddunya  Waddeen, Wa  s  s  a  l  a  atu  Wa  s  s  a  l  a  a  mu  ' Ala  Asyrafil  Mursaleen,  Sayyidina  Muhammaddin,  Wa'alaa  A  a  l  i  h  i  e  e Wasahbihee Ajma'een, Waba'du.
 
-Syukur ke hadrat Allah Yang Maha Pemurah Lagi Maha Mengasihani, kerana dengan kemurahan dan rahmatNya jua kita dapat berhimpun di hari yang mulia ini dan telah selamat sempurna menandatangani pemasyhuran pindaan Perlembagaan Negara Brunei Darussalam 2004.
+Syukur ke hadrat Allah Yang Maha Pemurah Lagi Maha Mengasihani, kerana dengan kemurahan dan  rahmatNya  jua  kita  dapat  berhimpun  di  hari  yang  mulia  ini  dan  telah  selamat  sempurna menandatangani pemasyhuran pindaan Perlembagaan Negara Brunei Darussalam 2004.
 
-45 tahun yang lalu, Ayahanda Beta Al-Marhum Sultan Haji Omar ‘Ali Saifuddien Sa’adul Khairi Waddien, telah mengisytiharkan Perlembagaan Negara Brunei Darussalam atas nama Baginda dan bagi pihak pengganti-pengganti Baginda. Orang-orang tua kita telah bekerja keras dan mengambil masa yang lama untuk mendapatkan semua hak menentukan masa depan kita sendiri. Ianya adalah satu perjuangan adil dan suci. Keazaman mereka telah membolehkan kita mencapai pemerintahan sendiri pada tahun 1959.
+45 tahun yang lalu, A yahanda Beta Al-Marhum Sultan Haji Omar ' Ali Saifuddien Sa'adul Khairi Waddien, telah mengisytiharkan Pe  rl  e  m  b  agaan Negara Brunei Darussalam atas nama Baginda dan bag  i pihak pengga  n  t  i  -  p  e  n  g  ganti  Baginda.  Orang-orang  tua  kita  telah  bekerja  keras dan  mengambil  masa yang  lama  untuk  mendapatkan  semua  hak  menentukan  masa  depan  kita  sendiri.  Ianya  adalah  sat  u p  e  r  j  u  a  n  gan adil dan suci. Keazaman mereka telah membolehkan kita mencapai pemerintahan sendiri pada tahun 1959.
 
-Peristiwa bersejarah ini telah diperingati dengan Pemasyhuran Perlembagaan yang bukan saja mewujudkan sistem pentadbiran kerajaan tetapi juga merupakan langkah permulaan ke arah negara mencapai kemerdekaan penuh. Semangat perpaduan serta keyakinan orang-orang Brunei telah mendorong kita mencapai kedaulatan negara pada tahun 1984.
+Peristiwa bersejarah ini telah diperingati dengan Pemasyhuran Perlembagaan yang bukan saja mewujudkan sistem pentadbiran kerajaan tetapi juga merupakan langkah permulaan ke arah negara mencapai  kemerdekaan  penuh.  Semangat  perpaduan  serta  keyakinan  orang-orang  Brunei  telah mendorong kita mencapai kedaulatan negara pada tahun 1984.
 
-Kemerdekaan memberikan kita tanggungjawab. Beta sendiri dengan rela hati serta bertawakal kepada Allah menerima tanggungjawab ini untuk membentuk masa depan negara dengan penumpuan di bidang ekonomi, penyediaan pekerjaan bagi rakyat, peningkatan pendidikan dan kesihatan. Terkandung juga tanggungjawab itu ialah meningkatkan kualiti perkhidmatan awam dan menyediakan infrastruktur pembangunan.
+Kemerdekaan memberikan kita tanggungjawab. Beta sendiri dengan rela hati serta bertawakal kepada Allah menerima tanggungjawab ini untuk membentuk masa depan negara dengan penumpuan di  bidang  ekonomi,  penyediaan  pekerjaan  bagi  rakyat,  peningkatan  pendidikan  dan  kesihatan. Te  rkandung  juga  tanggungjaw  ab  itu  ialah  meningkatkan  kualiti  perk  h  i  d  m  atan  awam  dan menyediakan infrastruktur pembangunan.
 
-Hubungan diplomatik dengan negara-negara sahabat juga ditubuhkan di seluruh dunia. Pada waktu yang sama, keutamaan juga diberikan dalam memelihara keamanan dengan menguatkan lagi undang-undang dan peraturan. Rakyat telah diseru supaya berdiri teguh menentang sebarang percubaan untuk menggugat kestabilan dan kesejahteraan yang dinikmati selama ini.
+Hubungan diplomatik dengan negara-negara sahabat juga ditubuhkan di seluruh dunia. Pada waktu yang sama, keutamaan juga diberikan dalam memelihara keamanan dengan menguatkan lagi undang-undang  dan  peraturan.  Rakyat  telah  diseru  supaya  berdiri  teguh  menentang  sebarang percubaan untuk menggugat kestabilan dan kesejahteraan yang dinikmati selama ini.
 
-Tidak syak lagi, dasar ini telah membolehkan rakyat memperbaiki taraf ekonomi mereka serta mendapatkan peluang-peluang terbaik ke arah menikmati kehidupan yang benar-benar senang lagi bahagia.
+Tidak syak lagi, dasar ini telah membolehkan rakyat memperbaiki taraf  ekonomi mereka serta mendapatkan peluang-peluang terbaik ke arah menikmati kehidupan yang benar-benar senang lagi bahagia.
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-Amalan ‘mesra rakyat’ juga, alhamdulillah, telah dapat Beta lakukan dengan meneruskan perjumpaan demi perjumpaan dengan rakyat melalui cara tradisi kita. Cara ini sesungguhnya menjadi pengukuh lagi kepada hubungan yang sangat baik dan istimewa di antara Raja dan rakyat.
-
-Bagi kepentingan negara dan rakyat, Beta sangatlah berhasrat untuk memperkenalkan struktur perundingan yang formal, di mana dengan itu, Jawatankuasa Meneliti Semula Perlembagaan 1959 telah mencadangkan beberapa perubahan terhadap Perlembagaan. Ahli-ahli Majlis Mesyuarat Di-Raja dan Majlis Mesyuarat Negara sebulat suara berpendapat, bahawa pindaan-pindaan berkenaan adalah mampu untuk mencerminkan kedudukan kita sebagai sebuah negara merdeka dan berdaulat yang mengamalkan sistem pemerintahan beraja yang telah kita amalkan semenjak 600 tahun. Dengan pindaan-pindaan tersebut, Perlembagaan akan menjadi asas yang lebih kuat untuk memenuhi wawasan Beta terhadap negara ini. Dengannya, Negara Brunei Darussalam dapat diterajui menuju ke suatu hala yang mantap dan berkeupayaan yang sebenar-benarnya.
-
-Kita telah mencapai satu tahap ekonomi yang baik. Orang-orang Brunei memang suka bekerja keras untuk sampai kepada tahap tersebut. Tetapi ini saja belumlah memadai. Masih banyak lagi yang mahu dilakukan. Kita adalah bangsa yang mempunyai kebolehan, cita-cita dan keupayaan. Kita mesti sanggup berkorban dan bekerja lebih keras, demi masa depan yang gemilang, khasnya bagi generasi akan datang. Memang ada banyak lagi yang perlu kita lakukan. Perlembagaan ini boleh membantu kita untuk menuju kegemilangan tersebut.
-
-Pada waktu yang sama, Perlembagaan juga akan menyediakan lebih banyak peluang bagi rakyat untuk melibatkan diri dalam perundingan serta menyumbang secara membina kepada kemajuan negara. Perkara sedemikian akan lebih mengukuhkan lagi sistem kerajaan serta perpaduan di antara kita.
-
-Mengenai dengan Majlis Mesyuarat Negara yang telah mengadakan persidangannya, Beta adalah gembira, kerana perbincangan-perbincangan di dalamnya berjalan dengan baik dan membina, seperti yang dihasratkan. Beta harap, Majlis ini akan menjadi sebuah institusi yang teguh dan setia, demi masa depan negara.
-
-Dalam perkara melaksanakan sistem perwakilan yang dicadangkan, Beta ingin mengingatkan supaya lebih berhati-hati, demi kepentingan rakyat dan masa depan negara. Ianya tidak diragukan lagi memerlukan kajian lebih teliti, serta juga infrastruktur bagi proses pemilihan perwakilan, sehingga ianya benar-benar dapat diadakan dengan teratur dan aman.
-
-Beta percaya rakyat dan penduduk Negara Brunei Darussalam menaruh harapan tinggi kepada kerajaan dalam apa jua yang berkaitan dengan masa depan mereka. Oleh itu marilah, kita sama-sama memelihara keamanan dan meningkatkan kesejahteraan serta sentiasa pula mempastikan yang kestabilan yang dinikmati selama ini adalah terus terpelihara dengan baiknya.
+Amalan  'mesra  rakyat' juga,  alhamdulillah,  telah  dapat  Beta  lakukan  dengan  meneruskan perjumpaan demi perjumpaan dengan rakyat melalui cara tradisi kita. Cara ini sesungguhnya menjadi pengukuh lagi kepada hubungan yang sangat baik dan istimewa di antara Raja dan rakyat. Bagi kepentingan negara dan rakyat, Beta sangatlah berhasrat untuk memperkenalkan struktur perundingan yang formal, di mana dengan itu, Jawatankuasa Meneliti Semula Perlembagaan 1959 telah  mencadangkan  beberapa  perubahan  terhadap  Pe  rl  e  m  b  agaan. Ahli-ahli  Majlis  Mesyuarat Di-Raja  dan  Majlis  Mesyuarat  Negara  sebu  l  at  suara  berp  e  n  d  a  p  at,  bahawa  pindaan-pindaan berkenaan adalah mampu untuk mencerminkan kedudukan kita sebagai sebuah negara merdeka dan berdaulat  yang  mengamalkan  sistem  pemerintahan  beraja  yang  telah  kita  amalkan  semenjak  600 tahun. Dengan pindaan-pindaan tersebut, Perlembagaan akan menjadi asas yang lebih kuat untuk memenuhi wawasan Beta terhadap negara ini. Dengannya, Negara Brunei Darussalam dapat diterajui menuju ke suatu hala yang mantap dan berkeupayaan yang sebenar-benarnya. Kita telah mencapai satu tahap ekonomi yang baik. Orang-orang Brunei memang suka bekerja keras untuk sampai kepada tahap tersebut. Tetapi ini saja belumlah memadai. Masih banyak lagi yang mahu dilakukan. Kita adalah bangsa yang mempunyai kebolehan, cita-cita dan keupayaan. Kita mesti sanggup berkorban dan bekerja lebih keras, demi masa depan yang gemilang, khasnya bagi generasi akan datang. Memang ada banyak lagi yang perlu kita lakukan. Perlembagaan ini boleh membantu kita untuk menuju kegemilangan tersebut. Pada waktu yang sama, Perlembagaan juga akan menyediakan lebih banyak peluang bagi rakyat untuk  melibatkan  diri  dalam  perundingan  serta  menyumbang  secara  membina  kepada  kemajuan negara. Perkara sedemikian akan lebih mengukuhkan lagi sistem kerajaan serta perpaduan di antara kita. Mengenai dengan Majlis Mesyuarat Negara yang telah mengadakan persidangannya, Beta adalah gembira, kerana perbincangan-perbincangan di dalamnya berjalan dengan baik dan membina, seperti yang dihasratkan.  Beta harap, Majlis ini akan menjadi sebuah institusi yang teguh dan setia, demi masa depan negara. Dalam perkara  melaksanakan  sistem  perwakilan  yang  dicadangkan,  Beta  ingin  mengingatkan supaya lebih berhati-hati, demi kepentingan rakyat dan masa depan negara. Ianya tidak diragukan lagi  memerlukan  kajian  lebih  teliti,  serta  juga  infrastruktur  bagi  proses  pemilihan  perwakilan, sehingga ianya benar-benar dapat diadakan dengan teratur dan aman. Beta percaya rakyat dan penduduk Negara Brunei Darussalam menaruh harapan tinggi kepada kerajaan dalam apa jua yang berkaitan dengan masa depan mereka. Oleh itu marilah, kita sama-sama memelihara  keamanan  dan  meningkatkan  kesejahteraan  serta  sentiasa  pula  mempastikan  ya  n  g kestabilan yang dinikmati selama ini adalah terus terpelihara dengan baiknya.
 
 Sekian, Wabillahit Taufeq Walhidayah, Wassalamualaikum Warahmatullahi Wabarakatuh.
 
@@ -228,45 +187,45 @@ Sekian, Wabillahit Taufeq Walhidayah, Wassalamualaikum Warahmatullahi Wabarakatu
 
 [[START OF PAGE 12]]
 
-## SPEECH BY HIS MAJESTY SULTAN HAJI HASSANAL BOLKIAH MU’IZZADDIN WADDAULAH IBNI AL-MARHUM SULTAN HAJI OMAR ‘ALI SAIFUDDIEN SA’ADUL KHAIRI WADDIEN, SULTAN AND YANG DI-PERTUAN OF BRUNEI DARUSSALAM
+## SPEECH BY HIS MAJESTY SULTAN HAJI HASSANAL BOLKIAH MU'IZZADDIN WADDAULAH IBNI AL-MARHUM SULTAN HAJI OMAR 'ALI SAIFUDDIEN SA'ADUL KHAIRI WADDIEN, SULTAN AND YANG DI-PERTUAN OF BRUNEI DARUSSALAM
 
-AT THE OFFICIAL SIGNING CEREMONY OF THE CONSTITUTION OF BRUNEI DARUSSALAM (AMENDMENT) PROCLAMATION, 2004 AT THE LAPAU, BANDAR SERI BEGAWAN, BRUNEI DARUSSALAM ON WEDNESDAY 14 SYA’ABAN 1425 CORRESPONDING TO 29 SEPTEMBER 2004
+AT THE OFFICIAL SIGNING CEREMONY OF THE CONSTITUTION OF BRUNEI DARUSSALAM (AMENDMENT) PROCLAMATION, 2004 AT THE LAPAU, BANDAR SERI BEGAWAN, BRUNEI DARUSSALAM ON WEDNESDAY 14 SYA'ABAN 1425 CORRESPONDING TO 29 SEPTEMBER 2004
 
 Assalamualaikum Warahmatullahi Wabarakatuh
 
 Bismillahir Rahmanir Rahim
 
-ALHAMDULILLAHI Rabbil ‘Aalameen, Wabihee Nasta’eenu ‘Alaa Umuuriddunya Waddeen, Wassalaatu Wassalaamu ‘Ala Asyrafil Mursaleen, Sayyidina Muhammaddin, Wa’alaa Aalihiee Wasahbihee Ajma’een, Waba’du.
+ALHAMDULILLAHI  Rabbil 'Aalameen,  Wabihee  Nasta'eenu 'Alaa  Umuuriddunya  Waddeen, Wa  s  s  a  l  a  atu  Wa  s  s  a  l  a  a  mu  ' Ala  Asyrafil  Mursaleen,  Sayyidina  Muhammaddin,  Wa'alaa  A  a  l  i  h  i  e  e Wasahbihee Ajma'een, Waba'du.
 
-All praise be to Allah the Almighty, the Most Gracious and the Most Merciful, for His Blessings that we are able to gather on this auspicious day and have duly signed the amendment to the Constitution of Brunei Darussalam 2004.
+All praise be to Allah the Almighty, the Most Gracious and the Most Merciful, for His Blessings that  we  are  able  to  gather  on  this  auspicious  day  and  have  duly  signed  the  amendment  to  the Constitution of  Brunei Darussalam 2004.
 
-45 years ago, my late father, Al-Marhum Sultan Haji Omar ‘Ali Saifuddien Sa’adul Khairi Waddien proclaimed the Constitution of Brunei Darussalam in his name and for and on behalf of his Successors. Our elders had worked hard and had taken a long time to secure all rights to determine our future. It was an honest and noble fight. Their determination enabled us to achieve self-government in the year 1959.
+45 years ago, my late father ,Al-Marhum Sultan Haji Omar  'Ali Saifuddien Sa'adul Khairi  Waddien proclaimed  the  Constitution  of Brunei  Darussalam  in  his  name  and  for  and  on  behalf of his Successors. Our elders had worked hard and had taken a long time to secure all rights to determine our future. It was an honest and noble fight. Their determination enabled us to achieve self-government in the year 1959.
 
-That historical event is commemorated with the Proclamation of the Constitution which not only brought into existence the government administrative system but also formed the initial step towards the country achieving complete independence. The spirit of solidarity as well as the confidence of the Bruneian people encouraged us to achieve sovereignty in the year 1984.
+That historical event is commemorated with the Proclamation of the Constitution which not only brought into existence the government administrative system but also formed the initial step towards the country achieving complete independence. The spirit of  solidarity as well as the confidence of  the Bruneian people encouraged us to achieve sovereignty in the year 1984.
 
-Independence has given us responsibility. I willingly, and by placing my trust in Allah the Almighty, accept this responsibility in order to shape the country’s future by focussing on the economy, the securing of employment for the people, and improving the education and health. That responsibility also involves the improvement of the quality of the public service and the development of infrastructure.
+Independence has given us responsibility. I willingly, and by placing my trust in Allah the Almighty, accept  this  responsibility  in  order  to  shape  the  country's  future  by  focussing  on  the  economy,  the securing of  employment for the people, and improving the education and health. That responsibility also  invol  ves  the  improvement  of the  quality  of the  public  service  and  the  development  of infrastructure.
 
-Diplomatic relations have been established with neighbouring countries and also all around the world. At the same time, priority has been given to maintain peace by further enforcement of the laws and regulations. The people have been urged to stand firm to defy any attempt to jeopardise the stability and tranquillity that we have enjoyed all this time.
+Diplomatic relations have been established with neighbouring countries and also all around the world. At the same time, priority has been given to maintain peace by further enforcement of  the laws and  regulations. The  people  have  been  urged  to  stand  firm  to  defy  any  attempt  to  jeopardise  the stability and tranquillity that we have enjoyed all this time.
 
 This policy has undoubtedly made it possible for the people to improve their economic status as well as to get the best opportunity towards a very comfortable and happier life.
 
-I have managed, ‘alhamdullilah’, to practice ‘mesra rakyat’ by continuing to hold meetings with the people in accordance with our tradition. This method strengthens the good and special relationship between the ruler and the people.
+I have managed,'alhamdullilah', to practice  'mesra rakyat  'by continuing to hold meetings with the people in accordance with our tradition. This method strengthens the good and special re  l  at  i  o  n  s  h  i  p b  e  t  ween the ruler and the people.
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-In the interest of the country and the people, it is my most sincere intention to introduce a formal structure for consultation, whereby in that respect, a Committee to Review the 1959 Constitution has proposed a few amendments to the Constitution. Members of the Legislative Council and the Privy Council unanimously were of the opinion that such amendments are able to reflect our position as an independent and sovereign country that has practised a monarchy government system for the past 600 years. With the amendments, the Constitution will become a stronger foundation to fulfil my vision towards the country. With this, Negara Brunei Darussalam can be lead towards a truly stable and capable direction.
+In the interest of  the country and the people, it is my most sincere intention to introduce a formal structure for consultation, whereby in that respect, a Committee to Review the 1959 Constitution has proposed a few amendments to the Constitution. Members of  the Legislative Council and the Privy Council unanimously were of  the opinion that such amendments are a ble to reflect our position as an independent and sovereign country that has practised a monarchy government system for the past 600 years. With the amendments, the Constitution will become a stronger foundation to fulfil my vision towards the country. With this, Negara Brunei Darussalam can be lead towards a truly stable and capable direction.
 
-We have reached a stage where our economy is in good shape. Bruneians have certainly liked to work hard to reach that stage. But this alone is not sufficient. There is still plenty to do. We are a nation that have potential, ambition and capabilities. We have to be prepared to make sacrifices and work harder for a resplendent future, especially for the future generation. There is certainly a lot more to be done. This Constitution will help us achieve that.
+We have reached a stage where our economy is in good shape. Bruneians have certainly liked to work hard to reach that stage. But this alone is not sufficient.  There is still plenty to do.We are a nation that have potential, ambition and capabilities. We have to be prepared to make sacrifices and work harder for a resplendent future, especially for the future generation. There is certainly a lot more to be done. This Constitution will help us achie ve that.
 
-At the same time, the Constitution will provide more opportunities for the people to be involved in discussions as well as to contribute constructively towards the development of the country. This will further strengthen our system of government as well as unity amongst ourselves.
+At the same time, the Constitution will provide more opportunities for the people to be involved in discussions as well as to contribute constructively towards the development of  the country . This will further strengthen our system of  government as well as unity amongst ourselves.
 
-With respect to the recent session of the Legislative Council, I am happy that the discussions went on well and were constructive as intended. I hope that this Council will become a strong and loyal institution, for the future of the country.
+With respect to the recent session of  the Legislative Council, I am happy that the discussions went on well and were constructive as intended. I hope that this Council will become a strong and loyal institution, for the future of  the country.
 
-In implementing the representative system that has been proposed, I wish to remind everyone to exercise more caution, in the interests of the people and the future of the country. No doubt this requires thorough research as well as infrastructure for the process of selecting representatives until it could truly be made available by proper and peaceful means.
+In implementing the representative system that has been proposed, I wish to remind everyone to exercise more caution, in the interests of  the  people  and  the  future  of  the country. No doubt this requires thorough research as well as infrastructure for the process of  selecting representatives until it could truly be made available by proper and peaceful means.
 
-I believe that the people and the residents of Brunei Darussalam have high hopes for the Government on anything that concerns their future. Due to this, let us all maintain the peace and enhance the tranquillity, in addition, to ensure that the stability we enjoy all this time prevails.
+I  believe  that  the  people  and  the  residents  of Brunei  Darussalam  have  high  hopes  for  the Government on anything that concerns their future. Due to this, let us all maintain the peace and enhance the tranquillity, in addition, to ensure that the stability we enjoy all this time prevails.
 
 Wabillahi Taufeq Walhidayah, Wassalamualaikum Warahmatullahi Wabarakatuh.
 
@@ -358,27 +317,27 @@ Mukadimah.
 
 Perkara
 
+- Gelaran.
+
+- Tafsiran.
+
 #### BAHAGIAN I
 
 PERMULAAN
-
-1. Gelaran.
-
-2. Tafsiran.
 
 #### BAHAGIAN II
 
 UGAMA DAN ADAT ISTIADAT
 
-3. Ugama rasmi Negara Brunei Darussalam dan cara beribadat.
+- Ugama rasmi Negara Brunei Darussalam dan cara beribadat.
 
-3A. Majlis Mesyuarat Adat Istiadat.
+- 3A. Majlis Mesyuarat Adat Istiadat.
 
 #### BAHAGIAN III
 
 KUASA MEMERINTAH
 
-4. Kuasa memerintah dan pegawai-pegawai utama.
+- Kuasa memerintah dan pegawai-pegawai utama.
 
 18
 
@@ -392,34 +351,6 @@ CONSTITUTIONAL MATTERS I CONSTITUTION OF BRUNEI DARUSSALAM
 
 ### ARRANGEMENT OF ARTICLES
 
-Invocation.
-
-Preamble.
-
-Article
-
-#### PART I
-
-PRELIMINARY
-
-1. Citation.
-
-2. Interpretation.
-
-#### PART II
-
-RELIGION AND ADAT ISTIADAT
-
-3. Official religion of Brunei Darussalam and religious observance.
-
-3A. Majlis Mesyuarat Adat Istiadat.
-
-#### PART III
-
-EXECUTIVE AUTHORITY
-
-4. Executive authority and principal officers.
-
 19
 
 [[END OF PAGE 19]]
@@ -430,43 +361,43 @@ EXECUTIVE AUTHORITY
 
 MAJLIS MESYUARAT DI-RAJA
 
-5. Penubuhan Majlis Mesyuarat Di-Raja.
+- Penubuhan Majlis Mesyuarat Di-Raja.
 
-6. Tugas-tugas Majlis Mesyuarat Di-Raja.
+- Tugas-tugas Majlis Mesyuarat Di-Raja.
 
-7. Memanggil mesyuarat dan korum.
+- Memanggil mesyuarat dan korum.
 
-8. Mempengerusikan Majlis Mesyuarat Di-Raja.
+- Mempengerusikan Majlis Mesyuarat Di-Raja.
 
 #### BAHAGIAN IVA
 
 JEMAAH PENGAMPUNAN
 
-8A. Penubuhan Jemaah Pengampunan.
+- 8A. Penubuhan Jemaah Pengampunan.
 
-9. Hak Pengampunan.
+- Hak Pengampunan.
 
 #### BAHAGIAN V
 
 MAJLIS MESYUARAT MENTERI-MENTERI
 
-10. Penubuhan Majlis Mesyuarat Menteri-Menteri.
+- Penubuhan Majlis Mesyuarat Menteri-Menteri.
 
-11. Keahlian Majlis Mesyuarat Menteri-Menteri.
+- Keahlian Majlis Mesyuarat Menteri-Menteri.
 
-12. Tempoh memegang jawatan dan pengosongan kerusi.
+- Tempoh memegang jawatan dan pengosongan kerusi.
 
-13. Dimansuhkan.
+- Dimansuhkan .
 
-14. Kehadiran orang-orang bukan Ahli dalam Majlis Mesyuarat Menteri-Menteri.
+- Kehadiran orang-orang bukan Ahli dalam Majlis Mesyuarat MenteriMenteri.
 
-15. Tertib tarafnya.
+- Tertib tarafnya.
 
-16. Memanggil mesyuarat dan korum.
+- Memanggil mesyuarat dan korum.
 
-17. Mempengerusikan Majlis Mesyuarat Menteri-Menteri.
+- Mempengerusikan Majlis Mesyuarat Menteri-Menteri.
 
-18. Perundingan dengan Majlis Mesyuarat Menteri-Menteri.
+- Perundingan dengan Majlis Mesyuarat Menteri-Menteri.
 
 20
 
@@ -478,43 +409,43 @@ MAJLIS MESYUARAT MENTERI-MENTERI
 
 PRIVY COUNCIL
 
-5. Establishment of Privy Council.
+- Establishment of Privy Council.
 
-6. Functions of Privy Council.
+- Functions of Privy Council.
 
-7. Summoning and quorum.
+- Summoning and quorum.
 
-8. Presiding in Privy Council.
+- Presiding in Privy Council.
 
 #### PART IVA
 
 PARDONS BOARD
 
-8A. Establishment of Pardons Board.
+- 8A. Establishment of Pardons Board.
 
-9. Prerogative of Mercy.
+- Prerogative of Mercy.
 
 #### PART V
 
 COUNCIL OF MINISTERS
 
-10. Establishment of Council of Ministers.
+- Establishment of Council of Ministers.
 
-11. Constitution of Council of Ministers.
+- Constitution of Council of Ministers.
 
-12. Tenure of office and vacation of seats.
+- Tenure of office and vacation of seats.
 
-13. Repealed.
+- Repealed .
 
-14. Attendance at Council of Ministers of non-Members.
+- Attendance at Council of Ministers of non-Members.
 
-15. Precedence.
+- Precedence.
 
-16. Summoning and quorum.
+- Summoning and quorum.
 
-17. Presiding in Council of Ministers.
+- Presiding in Council of Ministers.
 
-18. Consultation with Council of Ministers.
+- Consultation with Council of Ministers.
 
 21
 
@@ -522,49 +453,49 @@ COUNCIL OF MINISTERS
 
 [[START OF PAGE 22]]
 
-19. Kebawah Duli Yang Maha Mulia tidak terikat untuk bertindak menurut nasihat Majlis Mesyuarat Menteri-Menteri.
+- Kebawah  Duli  Yang  Maha  Mulia  tidak  terikat  untuk  bertindak menurut nasihat Majlis Mesyuarat Menteri-Menteri.
 
-19A. Keputusan Majlis Mesyuarat Menteri-Menteri.
+- 19A. Keputusan Majlis Mesyuarat Menteri-Menteri.
 
-20. Minit-minit mesyuarat.
+- Minit-minit mesyuarat.
 
-21. Sumpah yang diangkat oleh Ahli-Ahli.
+- Sumpah yang diangkat oleh Ahli-Ahli.
 
-22. Setiausaha kepada Majlis Mesyuarat Menteri-Menteri.
+- Setiausaha kepada Majlis Mesyuarat Menteri-Menteri.
 
 #### BAHAGIAN VI
 
 MAJLIS MESYUARAT NEGARA
 
-23. Penubuhan Majlis Mesyuarat Negara.
+- Penubuhan Majlis Mesyuarat Negara.
 
-24. Keanggotaan Majlis Mesyuarat Negara dan Ahli-Ahlinya.
+- Keanggotaan Majlis Mesyuarat Negara dan Ahli-Ahlinya.
 
-25. Dimansuhkan.
+- Dimansuhkan .
 
-26. Dimansuhkan.
+- Dimansuhkan .
 
-27. Dimansuhkan.
+- Dimansuhkan .
 
-28. Dimansuhkan.
+- Dimansuhkan .
 
-29. Kelayakan-kelayakan bagi Ahli-Ahli.
+- Kelayakan-kelayakan bagi Ahli-Ahli.
 
-30. Pembatalan kelayakan bagi Ahli-Ahli.
+- Pembatalan kelayakan bagi Ahli-Ahli.
 
-31. Tempoh memegang jawatan dan pengosongan kerusi.
+- Tempoh memegang jawatan dan pengosongan kerusi.
 
-32. Keputusan tentang persoalan mengenai keahlian Majlis Mesyuarat Negara.
+- Keputusan  tentang  persoalan  mengenai  keahlian  Majlis  Mesyuarat Negara.
 
-33. Lantikan-lantikan sementara.
+- Lantikan-lantikan sementara.
 
-34. Kehadiran orang-orang bukan Ahli dalam Majlis Mesyuarat Negara.
+- Kehadiran orang-orang bukan Ahli dalam Majlis Mesyuarat Negara.
 
-35. Dimansuhkan.
+- Dimansuhkan.
 
-36. Dimansuhkan.
+- Dimansuhkan.
 
-37. Yang Di-Pertua dan Timbalan Yang Di-Pertua.
+- Yang Di-Pertua dan Timbalan Yang Di-Pertua.
 
 22
 
@@ -572,49 +503,49 @@ MAJLIS MESYUARAT NEGARA
 
 [[START OF PAGE 23]]
 
-19. His Majesty not bound to act in accordance with the advice of Council of Ministers.
+- His  Majesty  not  bound  to  act  in  accordance  with  the  advice  of Council of Ministers.
 
-19A. Decision of Council of Ministers.
+- 19A. Decision of Council of Ministers.
 
-20. Minutes.
+- Minutes.
 
-21. Oath to be taken by Members.
+- Oath to be taken by Members.
 
-22. Secretary to Council of Ministers.
+- Secretary to Council of Ministers.
 
 #### PART VI
 
 LEGISLATIVE COUNCIL
 
-23. Establishment of Legislative Council.
+- Establishment of Legislative Council.
 
-24. Composition and Membership of Legislative Council.
+- Composition and Membership of Legislative Council.
 
-25. Repealed.
+- Repealed .
 
-26. Repealed.
+- Repealed .
 
-27. Repealed.
+- Repealed .
 
-28. Repealed.
+- Repealed .
 
-29. Qualifications for Members.
+- Qualifications for Members.
 
-30. Disqualification for Members.
+- Disqualification for Members.
 
-31. Tenure of office and vacation of seats.
+- Tenure of office and vacation of seats.
 
-32. Decisions of questions as to membership of Legislative Council.
+- Decisions of questions as to membership of Legislative Council.
 
-33. Temporary appointments.
+- Temporary appointments.
 
-34. Attendance at Legislative Council of non-Members.
+- Attendance at Legislative Council of non-Members.
 
-35. Repealed.
+- Repealed.
 
-36. Repealed.
+- Repealed.
 
-37. Speaker and Deputy Speaker.
+- Speaker and Deputy Speaker.
 
 23
 
@@ -628,39 +559,39 @@ LEGISLATIVE COUNCIL
 
 PENGGUBALAN UNDANG-UNDANG DAN PERATURAN DALAM MAJLIS MESYUARAT NEGARA
 
-39. Kuasa untuk membuat undang-undang.
+- Kuasa untuk membuat undang-undang.
 
-40. Mengemukakan Rang Undang-Undang.
+- Mengemukakan Rang Undang-Undang.
 
-41. Penyiaran Rang Undang-Undang.
+- Penyiaran Rang Undang-Undang.
 
-42. Jenis Rang Undang-Undang, usul dan petisyen yang tidak boleh dibahaskan tanpa titah perkenan.
+- Jenis  Rang  Undang-Undang,  usul  dan  petisyen  yang  tidak  boleh dibahaskan tanpa titah perkenan.
 
-43. Pengundian.
+- Pengundian.
 
-44. Tempat-tempat kosong dan korum.
+- Tempat-tempat kosong dan korum.
 
-45. Memperkenankan Rang Undang-Undang.
+- Memperkenankan Rang Undang-Undang.
 
-46. Gelaran kepada undang-undang dan perkataan-perkataan memperbuatnya.
+- Gelaran kepada undang-undang dan perkataan-perkataan memperbuatnya.
 
-47. Kuasa-kuasa yang tersimpan.
+- Kuasa-kuasa yang tersimpan.
 
-48. Peraturan-Peraturan Mesyuarat.
+- Peraturan-Peraturan Mesyuarat.
 
-49. Sumpah yang diangkat oleh Ahli-Ahli.
+- Sumpah yang diangkat oleh Ahli-Ahli.
 
-50. Jurutulis kepada Majlis Mesyuarat Negara.
+- Jurutulis kepada Majlis Mesyuarat Negara.
 
-51. Minit-minit mesyuarat.
+- Minit-minit mesyuarat.
 
-52. Persidangan-persidangan Majlis Mesyuarat Negara.
+- Persidangan-persidangan Majlis Mesyuarat Negara.
 
-53. Keistimewaan-keistimewaan Ahli Majlis Mesyuarat Negara.
+- Keistimewaan-keistimewaan Ahli Majlis Mesyuarat Negara.
 
-54. Hak Kebawah Duli Yang Maha Mulia untuk bertitah dalam Majlis Mesyuarat Negara.
+- Hak Kebawah Duli Yang Maha Mulia untuk bertitah dalam Majlis Mesyuarat Negara.
 
-55. Penamatan Musim Permesyuaratan bagi dan pembubaran Majlis Mesyuarat Negara.
+- Penamatan  Musim  Permesyuaratan  bagi  dan  pembubaran  Majlis Mesyuarat Negara.
 
 24
 
@@ -668,45 +599,45 @@ PENGGUBALAN UNDANG-UNDANG DAN PERATURAN DALAM MAJLIS MESYUARAT NEGARA
 
 [[START OF PAGE 25]]
 
-38. Speaker or Deputy Speaker to attend and preside.
+- Speaker or Deputy Speaker to attend and preside.
 
 #### PART VII
 
 LEGISLATION AND PROCEDURE IN THE LEGISLATIVE COUNCIL
 
-39. Power to make laws.
+- Power to make laws.
 
-40. Introduction of Bills.
+- Introduction of Bills.
 
-41. Publication of Bills.
+- Publication of Bills.
 
-42. Description of Bills, motions and petitions not to proceed without approval.
+- Description  of  Bills,  motions  and  petitions  not  to  proceed  without approval.
 
-43. Voting.
+- Voting.
 
-44. Vacancies and quorum.
+- Vacancies and quorum.
 
-45. Assent to Bills.
+- Assent to Bills.
 
-46. Style of laws and enacting words.
+- Style of laws and enacting words.
 
-47. Reserved powers.
+- Reserved powers.
 
-48. Standing Orders.
+- Standing Orders.
 
-49. Oath to be taken by Members.
+- Oath to be taken by Members.
 
-50. Clerk to the Legislative Council.
+- Clerk to the Legislative Council.
 
-51. Minutes.
+- Minutes.
 
-52. Sessions of Legislative Council.
+- Sessions of Legislative Council.
 
-53. Privileges of Members of Legislative Council.
+- Privileges of Members of Legislative Council.
 
-54. Right of His Majesty to address Legislative Council.
+- Right of His Majesty to address Legislative Council.
 
-55. Prorogation and dissolution.
+- Prorogation and dissolution.
 
 25
 
@@ -718,43 +649,43 @@ LEGISLATION AND PROCEDURE IN THE LEGISLATIVE COUNCIL
 
 KEWANGAN
 
-56. Tiada cukai boleh dikenakan melainkan jika dibenarkan oleh undang-undang.
+- Tiada cukai boleh dikenakan melainkan jika dibenarkan oleh undang­ undang.
 
-57. Peruntukan Di-Raja bagi Kebawah Duli Yang Maha Mulia, Permaisuri Baginda dan Kerabat Di-Raja.
+- Peruntukan Di-Raja bagi Kebawah Duli Yang Maha Mulia, Permaisuri Baginda dan Kerabat Di-Raja.
 
-58. Kumpulanwang Yang Disatukan.
+- Kumpulanwang Yang Disatukan.
 
-59. Perbelanjaan yang dikenakan ke atas Kumpulanwang Yang Disatukan.
+- Perbelanjaan yang dikenakan ke atas Kumpulanwang Yang Disatukan.
 
-60. Anggaran-anggaran wang masuk dan perbelanjaan tahunan.
+- Anggaran-anggaran wang masuk dan perbelanjaan tahunan.
 
-61. Rang Undang-Undang Perbekalan.
+- Rang Undang-Undang Perbekalan.
 
-62. Perbelanjaan tambahan dan berlebihan.
+- Perbelanjaan tambahan dan berlebihan.
 
-63. Kuasa untuk membenarkan perbelanjaan ke atas akaun atau bagi maksud-maksud yang tidak ditentukan.
+- Kuasa  untuk  membenarkan  perbelanjaan  ke  atas  akaun  atau  bagi maksud-maksud yang tidak ditentukan.
 
-64. Kumpulanwang Luarjangka.
+- Kumpulanwang Luarjangka.
 
-65. Pengeluaran wang dari Kumpulanwang Yang Disatukan.
+- Pengeluaran wang dari Kumpulanwang Yang Disatukan.
 
-66. Juruaudit Agung.
+- Juruaudit Agung.
 
-67. Kuasa-kuasa dan kewajipan-kewajipan Juruaudit Agung.
+- Kuasa-kuasa dan kewajipan-kewajipan Juruaudit Agung.
 
-68. Laporan Juruaudit Agung.
+- Laporan Juruaudit Agung.
 
-69. Pengecualian hasil dan wang Tabung Ugama Islam.
+- Pengecualian hasil dan wang Tabung Ugama Islam.
 
 #### BAHAGIAN IX
 
 PERKHIDMATAN AWAM
 
-70. Tempoh memegang jawatan dalam perkhidmatan awam.
+- Tempoh memegang jawatan dalam perkhidmatan awam.
 
-71. Suruhanjaya Perkhidmatan Awam.
+- Suruhanjaya Perkhidmatan Awam.
 
-72. Setiausaha kepada Suruhanjaya Perkhidmatan Awam.
+- Setiausaha kepada Suruhanjaya Perkhidmatan Awam.
 
 26
 
@@ -766,43 +697,43 @@ PERKHIDMATAN AWAM
 
 FINANCE
 
-56. No taxation unless authorised by law.
+- No taxation unless authorised by law.
 
-57. Civil List of His Majesty, His Consort and the Royal Family.
+- Civil List of His Majesty, His Consort and the Royal Family.
 
-58. Consolidated Fund.
+- Consolidated Fund.
 
-59. Expenditure charged on Consolidated Fund.
+- Expenditure charged on Consolidated Fund.
 
-60. Annual estimates of receipts and expenditure.
+- Annual estimates of receipts and expenditure.
 
-61. Supply Bill.
+- Supply Bill.
 
-62. Supplementary and excess expenditure.
+- Supplementary and excess expenditure.
 
-63. Power to authorise expenditure on account or for unspecified purposes.
+- Power  to authorise expenditure on account or for unspecified purposes.
 
-64. Contingencies Fund.
+- Contingencies Fund.
 
-65. Withdrawals from Consolidated Fund.
+- Withdrawals from Consolidated Fund.
 
-66. Auditor General.
+- Auditor General.
 
-67. Powers and duties of Auditor General.
+- Powers and duties of Auditor General.
 
-68. Reports of Auditor General.
+- Reports of Auditor General.
 
-69. Exclusion of Muslim revenues and funds.
+- Exclusion of Muslim revenues and funds.
 
 #### PART IX
 
 PUBLIC SERVICE
 
-70. Tenure of office in public service.
+- Tenure of office in public service.
 
-71. Public Service Commission.
+- Public Service Commission.
 
-72. Secretary to Public Service Commission.
+- Secretary to Public Service Commission.
 
 27
 
@@ -810,47 +741,47 @@ PUBLIC SERVICE
 
 [[START OF PAGE 28]]
 
-73. Gaji ahli Suruhanjaya Perkhidmatan Awam.
+- Gaji ahli Suruhanjaya Perkhidmatan Awam.
 
-74. Lantikan dalam perkhidmatan awam.
+- Lantikan dalam perkhidmatan awam.
 
-75. Peraturan-peraturan.
+- Peraturan-peraturan.
 
-76. Kebawah Duli Yang Maha Mulia menghendaki pengangkatan sumpah.
+- Kebawah Duli Yang Maha Mulia menghendaki pengangkatan sumpah.
 
-77. Dimansuhkan.
+- Dimansuhkan .
 
-78. Dimansuhkan.
+- Dimansuhkan .
+
+- Mohor Kerajaan.
 
 #### BAHAGIAN X
 
 MOHOR KERAJAAN
 
-79. Mohor Kerajaan.
-
 #### BAHAGIAN XI
 
 RAMPAIAN
 
-80. Peruntukan-peruntukan untuk menguatkuasakan Perlembagaan.
+- Peruntukan-peruntukan untuk menguatkuasakan Perlembagaan.
 
-81. Peguam Negara dan tugas-tugasnya.
+- Peguam Negara dan tugas-tugasnya.
 
-82. Bahasa rasmi.
+- Bahasa rasmi.
 
-83. Keadaan Darurat.
+- Keadaan Darurat.
 
-83A. Perkecualian Akta-Akta, Pemasyhuran-Pemasyhuran dan Perintah-Perintah.
+- 83A. Perkecualian  Akta-Akta,  Pemasyhuran-Pemasyhuran  dan  PerintahPerintah.
 
-84. Kesan Perlembagaan ke atas Hak Kedaulatan Kebawah Duli Yang Maha Mulia.
+- Kesan  Perlembagaan  ke  atas  Hak  Kedaulatan  Kebawah  Duli  Yang Maha Mulia.
 
-84A. Lantikan ke jawatan-jawatan tertentu.
+- 84A. Lantikan ke jawatan-jawatan tertentu.
 
-84B. Kekebalan.
+- 84B. Kekebalan.
 
-84C. Tiada kajian semula kehakiman.
+- 84C. Tiada kajian semula kehakiman.
 
-84D. Kuatkuasa undang-undang di luar negeri.
+- 84D. Kuatkuasa undang-undang di luar negeri.
 
 28
 
@@ -858,47 +789,47 @@ RAMPAIAN
 
 [[START OF PAGE 29]]
 
-73. Salaries of members of Public Service Commission.
+- Salaries of members of Public Service Commission.
 
-74. Appointments in public service.
+- Appointments in public service.
 
-75. Regulations.
+- Regulations.
 
-76. His Majesty to require oaths.
+- His Majesty to require oaths.
 
-77. Repealed.
+- Repealed .
 
-78. Repealed.
+- Repealed .
+
+- State Seal.
 
 #### PART X
 
 STATE SEAL
 
-79. State Seal.
-
 #### PART XI
 
 MISCELLANEOUS
 
-80. Provisions to give effect to Constitution.
+- Provisions to give effect to Constitution.
 
-81. Attorney General and his functions.
+- Attorney General and his functions.
 
-82. Official language.
+- Official language.
 
-83. State of Emergency.
+- State of Emergency.
 
-83A. Saving of Acts, Proclamations and Orders.
+- 83A. Saving of Acts, Proclamations and Orders.
 
-84. Effect of Constitution on His Majesty’s Prerogatives.
+- Effect of Constitution on His Majesty's Prerogatives.
 
-84A. Appointment to specified offices.
+- 84A. Appointment to specified offices.
 
-84B. Immunity.
+- 84B. Immunity.
 
-84C. No judicial review.
+- 84C. No judicial review.
 
-84D. Extra-territorial effect of laws.
+- 84D. Extra-territorial effect of laws.
 
 29
 
@@ -906,28 +837,33 @@ MISCELLANEOUS
 
 [[START OF PAGE 30]]
 
-________________________
 #### BAHAGIAN XII
 
 PINDAAN DAN TAFSIRAN PERLEMBAGAAN
 
-85. Pindaan Perlembagaan.
+________________________
 
-86. Tribunal Tafsiran.
+- Pindaan Perlembagaan.
 
-87. Pencetakan semula Perlembagaan yang dibenarkan.
+- Tribunal Tafsiran.
+
+- Pencetakan semula Perlembagaan yang dibenarkan.
 
 #### JADUAL PERTAMA
 
-— BORANG-BORANG
+-
+
+BORANG-BORANG
 
 #### JADUAL KEDUA
 
-— PERUNTUKAN-PERUNTUKAN BERKENAAN DENGAN MAJLIS MESYUARAT NEGARA
+-
+
+PERUNTUKAN-PERUNTUKAN BERKENAAN DENGAN MAJLIS MESYUARAT NEGARA
 
 #### JADUAL KETIGA
 
-— SENARAI JAWATAN-JAWATAN TERTENTU
+- SENARAI JAWATAN-JAWATAN TERTENTU
 
 Pengesahan.
 
@@ -939,28 +875,29 @@ Ucapan doa.
 
 [[START OF PAGE 31]]
 
-________________________
 #### PART XII
 
 AMENDMENT AND INTERPRETATION OF CONSTITUTION
 
-85. Amendment of Constitution.
+________________________
 
-86. Interpretation Tribunal.
+- Amendment of Constitution.
 
-87. Authorised reprints of Constitution.
+- Interpretation Tribunal.
+
+- Authorised reprints of Constitution.
 
 #### FIRST SCHEDULE
 
-— FORMS
+-  FORMS
 
 #### SECOND SCHEDULE
 
-— PROVISIONS RELATING TO LEGISLATIVE COUNCIL
+-  PROVISIONS RELATING TO LEGISLATIVE COUNCIL
 
 #### THIRD SCHEDULE
 
-— LIST OF SPECIFIED OFFICES
+-  LIST OF SPECIFIED OFFICES
 
 Confirmation.
 
@@ -994,13 +931,13 @@ BAHAGIAN IX  1hb Januari 1962
 
 ### Ucapan doa.
 
-Bismillahhir Rahmanir Rahim, Alhamdulillahi Rabbil ‘Alamin, Wassalatu Wassalamu ‘Ala Saiyidina Muhammad Wa’ala Alihi Wasahbihi Ajma’in.
+Bismillahhir Rahmanir Rahim, Alhamdulillahi Rabbil 'Alamin, Wassalatu Wassalamu 'Ala Saiyidina Muhammad Wa'ala Alihi Wasahbihi Ajma'in.
 
-DENGAN KURNIA ALLAH, BETA, SULTAN OMAR ALI SAIFUDDIN SA’ADUL KHAIRI WADDIN IBNI AL-MARHUM SULTAN MOHAMED JAMALUL-ALAM RAJA DAN KEPALA BAGI DARJAH KERABAT YANG AMAT DIHORMATI, RAJA DAN KEPALA BAGI MAHKOTA BRUNEI YANG AMAT MULIA, DARJAH UTAMA SRI MAHKOTA NEGARA, DARJAH KERABAT YANG UTAMA (KELANTAN), HONORARY KNIGHT COMMANDER OF THE MOST DISTINGUISHED ORDER OF SAINT MICHAEL AND SAINT GEORGE, SULTAN DAN YANG DI-PERTUAN NEGARA BRUNEI DARUSSALAM serta sekalian Jajahan Takluk Rantau dan Pesisirnya.
+DENGAN  KURNIA  ALLAH,  BETA,  SULTAN  OMAR  ALI SAIFUDDIN SA'ADUL KHAIRI WADDIN IBNI AL-MARHUM SULTAN MOHAMED JAMALUL-ALAM RAJA DAN KEPALA BAGI DARJAH KERABAT  YANG  AMAT  DIHORMATI,  RAJA  DAN  KEPALA  BAGI MAHKOTA  BRUNEI  YANG  AMAT  MULIA,  DARJAH  UTAMA  SRI MAHKOTA NEGARA, DARJAH KERABAT YANG UTAMA (KELANTAN), HONORARY KNIGHT COMMANDER OF THE MOST DISTINGUISHED ORDER OF SAINT MICHAEL AND SAINT GEORGE,  SULTAN  DAN  YANG  DI-PERTUAN  NEGARA  BRUNEI DARUSSALAM serta sekalian Jajahan Takluk Rantau dan Pesisirnya.
 
 ### Mukadimah.
 
-BAHAWASANYA peruntukan telah dibuat dalam suatu Pemasyhuran (dalam Perlembagaan ini disebut sebagai “Pemasyhuran Mengangkat Raja dan Melantik Pemangku Raja, 1959”) bagi beberapa perkara yang mengenai Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, Pengganti Sultan dan Kerabat Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan;
+BAHAWASANYA peruntukan telah dibuat dalam suatu Pemasyhuran  (dalam  Perlembagaan  ini  disebut  sebagai  'Pemasyhuran Mengangkat  Raja  dan  Melantik  Pemangku  Raja,  1959')  bagi  beberapa perkara  yang  mengenai  Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri Baginda  Sultan dan Yang  Di-Pertuan, Pengganti Sultan dan Kerabat Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri  Baginda  Sultan  dan  Yang Di-Pertuan;
 
 32
 
@@ -1010,7 +947,7 @@ BAHAWASANYA peruntukan telah dibuat dalam suatu Pemasyhuran (dalam Perlembagaan 
 
 ## CONSTITUTION OF BRUNEI DARUSSALAM
 
-Commencement: 29th September 1959 for Parts I, II, III, X, XI and XII [S 105/59] 18th October 1959 for Parts IV, V, VI and VII [S 120/59] 1st January 1960 for Part VIII [S 155/59] 1st January 1962 for Part IX
+Commencement: 29th September 1959 for Parts I, II, III, X, XI and X11 [S 105/59] 18th October 1959 for Parts IV, V, VI and VII [S 120/59] 1st January 1960 for Part VIII [S 155/59] 1st January 1962 for Part IX
 
 [S 108/62]
 
@@ -1018,11 +955,11 @@ Commencement: 29th September 1959 for Parts I, II, III, X, XI and XII [S 105/59]
 
 In the name of ALLAH, the Compassionate, the Merciful, PRAISE be to ALLAH, the Lord of the Universe, and may the benediction and peace of ALLAH be upon Our Leader Muhammad and upon all his Relations  and Friends.
 
-BY THE GRACE OF ALLAH, OMAR ALI SAIFUDDIN SA’ADUL KHAIRI WADDIN IBNI AL-MARHUM MOHAMED JAMALUL-ALAM of Brunei Darussalam and all its Dependencies, the Sultan and Yang Di-Pertuan, SOVEREIGN AND CHIEF OF THE MOST ESTEEMED FAMILY ORDER, SOVEREIGN AND CHIEF OF THE MOST HONOURABLE ORDER OF THE CROWN OF BRUNEI, ORDER OF SRI MAHKOTA NEGARA, MOST ESTEEMED FAMILY ORDER (FIRST CLASS) KELANTAN, HONORARY KNIGHT COMMANDER OF THE MOST DISTINGUISHED ORDER OF SAINT MICHAEL AND SAINT GEORGE.
+BY THE GRACE OF ALLAH, OMAR ALI SAIFUDDIN SA'ADUL KHAIRI WADDIN IBNI AL-MARHUM MOHAMED JAMALUL-ALAM of  Brunei  Darussalam  and  all  its  Dependencies,  the  Sultan  and  Yang Di-Pertuan,  SOVEREIGN  AND  CHIEF  OF  THE  MOST  ESTEEMED FAMILY ORDER, SOVEREIGN AND CHIEF OF THE MOST HONOURABLE ORDER OF THE CROWN OF BRUNEI, ORDER OF SRI MAHKOTA  NEGARA,  MOST  ESTEEMED  FAMILY  ORDER  (FIRST CLASS) KELANTAN, HONORARY KNIGHT COMMANDER OF THE MOST DISTINGUISHED ORDER OF SAINT MICHAEL AND SAINT GEORGE.
 
 ### Preamble.
 
-WHEREAS provision is being made in a separate Proclamation (in this Constitution referred to as “the Succession and Regency Proclamation, 1959”) for certain matters affecting His Majesty the Sultan and Yang Di-Pertuan, the Succession to the Sultanate and His Majesty the Sultan and Yang Di-Pertuan’s family;
+WHEREAS provision is being made in a separate Proclamation (in this Constitution referred to as 'the Succession and Regency Proclamation, 1959')  for  certain  matters  affecting  His  Majesty  the  Sultan  and  Yang Di-Pertuan, the Succession to the Sultanate and His Majesty the Sultan and Yang Di-Pertuan's family;
 
 33
 
@@ -1034,7 +971,7 @@ BAHAWASANYA  BETA  berhajat  hendak  memerintah  menurut peruntukan-peruntukan P
 
 DAN  BAHAWASANYA  BETA  dengan  nasihat  dan  persetujuan Kerabat-Kerabat  Di-Raja  dan  Pembesar-Pembesar  menurut  adat  istiadat telah  memutuskan  supaya  pemerintahan  Negara  Brunei  Darussalam  ke hadapan kelak hendaklah dijalankan seperti yang tersebut di bawah ini;
 
-OLEH YANG DEMIKIAN MAKA, BETA, dengan hak-hak dan kuasa-kuasa Beta sebagai Sultan dan Yang Di-Pertuan Negara Brunei Darussalam Yang Berdaulat dan Wilayahnya serta sekalian Jajahan Takluk Rantau dan Pesisirnya, DENGAN INI MEMASYHURKAN dengan nama BETA dan bagi pihak diri BETA dan bagi pihak PENGGANTI-PENGGANTI BETA sebagaimana yang tersebut di bawah ini:
+OLEH  YANG  DEMIKIAN  MAKA,  BETA,  dengan  hak-hak  dan kuasa-kuasa  Beta  sebagai  Sultan  dan  Yang  Di-Pertuan  Negara  Brunei Darussalam Yang Berdaulat dan Wilayahnya serta sekalian Jajahan Takluk Rantau dan Pesisirnya,  DENGAN INI MEMASYHURKAN dengan nama BETA dan bagi pihak diri BETA dan bagi pihak PENGGANTI­ PENGGANTI BETA sebagaimana yang tersebut di bawah ini:
 
 ### BAHAGIAN I
 
@@ -1042,23 +979,21 @@ PERMULAAN
 
 #### Gelaran.
 
-1. Perlembagaan ini boleh digelar sebagai Perlembagaan Negara Brunei Darussalam.
+- Perlembagaan ini boleh digelar sebagai Perlembagaan Negara Brunei Darussalam.
 
 #### Tafsiran.
 
-2. (1) Dalam Perlembagaan ini, melainkan jika maksudnya berkehendakkan makna yang lain —
+(1)  Dalam Perlembagaan ini, melainkan jika maksudnya berkehendakkan makna yang lain -
 
-“Peguam Negara” bermakna pegawai yang dilantik di bawah Fasal (1) Perkara 81;
-
-[S 65/04]
-
-“Juruaudit Agung” bermakna pegawai yang dilantik di bawah Fasal (1) Perkara 66;
+'Peguam  Negara'  bermakna  pegawai  yang  dilantik  di  bawah Fasal (1) Perkara 81;
 
 [S 65/04]
 
-“Agensi Pelaburan Brunei” bermakna badan korporat yang ditubuhkan oleh Akta Agensi Pelaburan Brunei (Penggal 137);
+'Juruaudit  Agung'  bermakna  pegawai  yang  dilantik  di  bawah Fasal (1) Perkara 66;
 
 [S 65/04]
+
+'Agensi  Pelaburan  Brunei'  bermakna  badan  korporat  yang ditubuhkan oleh Akta Agensi Pelaburan Brunei (Penggal 137); [S 65/04]
 
 34
 
@@ -1078,23 +1013,21 @@ PRELIMINARY
 
 #### Citation.
 
-1. This Constitution may be cited as the Constitution of Brunei Darussalam.
+- This Constitution may  be  cited as the Constitution of  Brunei Darussalam.
 
 #### Interpretation.
 
-2. (1) In this Constitution, unless the context otherwise requires —
+(1) In this Constitution, unless the context otherwise requires -
 
-“Attorney General” means the officer appointed under Clause (1) of Article 81;
-
-[S 65/04]
-
-“Auditor General” means the officer appointed under Clause (1) of Article 66;
+'Attorney General' means the officer appointed under Clause (1) of Article 81;
 
 [S 65/04]
 
-“Brunei Investment Agency” means the body corporate established by the Brunei Investment Agency Act (Chapter 137);
+'Auditor General' means the officer appointed under Clause (1) of Article 66;
 
 [S 65/04]
+
+'Brunei Investment Agency' means the body corporate established by the Brunei Investment Agency Act (Chapter 137); [S 65/04]
 
 35
 
@@ -1102,33 +1035,33 @@ PRELIMINARY
 
 [[START OF PAGE 36]]
 
-“Ketua Hakim Syar’ie” bermakna Ketua Hakim Syar’ie yang dilantik di bawah Akta Mahkamah-Mahkamah Syariah (Penggal 184);
+'Ketua  Hakim  Syar'ie'  bermakna  Ketua  Hakim  Syar'ie  yang dilantik di bawah Akta Mahkamah-Mahkamah Syariah (Penggal 184);
 
 [S 65/04]
 
-“warganegara Negara Brunei Darussalam” bermakna rakyat Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan menurut peruntukan-peruntukan sebarang undang-undang bertulis berkenaan dengan kerakyatan;
+'warganegara  Negara  Brunei  Darussalam'  bermakna  rakyat Kebawah Duli Yang Maha Mulia Paduka Seri  Baginda  Sultan dan Yang Di-Pertuan menurut peruntukan-peruntukan sebarang undang-undang bertulis berkenaan dengan kerakyatan;
 
 [S 65/04]
 
-“Peruntukan Di-Raja” bermakna peruntukan yang diberi untuk tanggungan Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, Permaisuri Baginda dan ahli-ahli Kerabat Di-Raja yang lain daripada wang negara;
+'Peruntukan  Di-Raja'  bermakna  peruntukan  yang  diberi  untuk tanggungan  Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri Baginda  Sultan  dan  Yang  Di-Pertuan,  Permaisuri  Baginda  dan ahli-ahli Kerabat Di-Raja yang lain daripada wang negara;
 
 [S 65/04]
 
-“Jurutulis kepada Majlis Mesyuarat Negara” termasuk mana-mana orang yang dilantik oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan untuk menjadi Timbalan Jurutulis kepada Majlis itu;
+'Jurutulis  kepada  Majlis  Mesyuarat  Negara'  termasuk  mana­ mana orang yang dilantik oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan untuk menjadi Timbalan Jurutulis kepada Majlis itu;
 
-“Jurutulis kepada Majlis Mesyuarat Di-Raja” termasuk mana-mana orang yang dilantik oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan untuk menjadi Timbalan Jurutulis kepada Majlis itu;
+'Jurutulis  kepada  Majlis  Mesyuarat  Di-Raja'  termasuk  mana­ mana orang yang dilantik oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan untuk menjadi Timbalan Jurutulis kepada Majlis itu;
 
-“Majlis Mesyuarat Menteri-Menteri” bermakna Majlis Mesyuarat Menteri-Menteri yang ditubuhkan menurut Perkara 10;
-
-[S 65/04]
-
-“Jemaah Pemangku Raja” bermakna Jemaah Pemangku Raja yang dilantik di bawah Pemasyhuran Mengangkat Raja dan Melantik Pemangku Raja, 1959;
+'Majlis Mesyuarat Menteri-Menteri' bermakna Majlis Mesyuarat  Menteri-Menteri  yang  ditubuhkan  menurut  Perkara 10;
 
 [S 65/04]
 
-“hutang” termasuk apa jua tanggungan berhubung dengan tanggungan membayar balik jumlah-jumlah modal dengan bayaran tiap-tiap tahun dan apa jua tanggungan di bawah sebarang jaminan;
+'Jemaah  Pemangku  Raja'  bermakna  Jemaah  Pemangku  Raja yang  dilantik  di  bawah  Pemasyhuran  Mengangkat  Raja  dan Melantik Pemangku Raja, 1959;
 
-“Timbalan Menteri” bermakna mana-mana orang yang dilantik di bawah Fasal (3) Perkara 4;
+[S 65/04]
+
+'hutang' termasuk apa jua tanggungan berhubung  dengan tanggungan membayar balik jumlah-jumlah modal dengan bayaran  tiap-tiap  tahun  dan  apa  jua  tanggungan  di  bawah sebarang jaminan;
+
+'Timbalan Menteri' bermakna mana-mana orang yang dilantik di bawah Fasal (3) Perkara 4;
 
 [S 65/04]
 
@@ -1138,33 +1071,25 @@ PRELIMINARY
 
 [[START OF PAGE 37]]
 
-“Chief Syar’ie Judge” means the Chief Syar’ie Judge appointed under the Syariah Courts Act (Chapter 184);
+'Chief Syar'ie Judge' means the Chief Syar'ie Judge appointed under the Syariah Courts Act (Chapter 184); [S 65/04]
+
+'citizen of Brunei Darussalam' means a subject of His Majesty the Sultan and Yang Di-Pertuan by virtue of the provisions of any written law relating to nationality;
+
+'Civil  List'  means  the  provision  made  for  the  maintenance  of His Majesty the Sultan and Yang Di-Pertuan, His Consort and other members of the Royal Family out of public funds;
+
+'Clerk to the Legislative Council' includes any person appointed by  His  Majesty  the  Sultan  and  Yang  Di-Pertuan  to  be  Deputy Clerk to that Council;
+
+'Clerk to the Privy Council' includes any person appointed by His Majesty the Sultan and Yang Di-Pertuan to be Deputy Clerk to that Council;
+
+'Council of Ministers' means the Council of Ministers established by Article 10;
 
 [S 65/04]
 
-“citizen of Brunei Darussalam” means a subject of His Majesty the Sultan and Yang Di-Pertuan by virtue of the provisions of any written law relating to nationality;
+'Council of Regency' means the Council of Regency appointed under the Succession and Regency Proclamation, 1959; [S 65/04]
 
-[S 65/04]
+'debt' includes any liability in respect of any obligation to repay capital  sums  by  way  of  annuities  and  any  liability  under  any guarantee;
 
-“Civil List” means the provision made for the maintenance of His Majesty the Sultan and Yang Di-Pertuan, His Consort and other members of the Royal Family out of public funds;
-
-[S 65/04]
-
-“Clerk to the Legislative Council” includes any person appointed by His Majesty the Sultan and Yang Di-Pertuan to be Deputy Clerk to that Council;
-
-“Clerk to the Privy Council” includes any person appointed by His Majesty the Sultan and Yang Di-Pertuan to be Deputy Clerk to that Council;
-
-“Council of Ministers” means the Council of Ministers established by Article 10;
-
-[S 65/04]
-
-“Council of Regency” means the Council of Regency appointed under the Succession and Regency Proclamation, 1959;
-
-[S 65/04]
-
-“debt” includes any liability in respect of any obligation to repay capital sums by way of annuities and any liability under any guarantee;
-
-“Deputy Minister” means any person appointed under Clause (3) of Article 4;
+'Deputy Minister' means any person appointed under Clause (3) of Article 4;
 
 [S 65/04]
 
@@ -1174,27 +1099,27 @@ PRELIMINARY
 
 [[START OF PAGE 38]]
 
-“Timbalan Sultan dan Yang Di-Pertuan” bermakna orang yang dilantik oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan di bawah Pemasyhuran Mengangkat Raja dan Melantik Pemangku Raja, 1959;
+'Timbalan Sultan dan Yang Di-Pertuan' bermakna orang yang dilantik  oleh  Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri Baginda  Sultan  dan  Yang  Di-Pertuan  di  bawah  Pemasyhuran Mengangkat Raja dan Melantik Pemangku Raja, 1959;
 
 [S 65/04]
 
-“Kerajaan” bermakna Kerajaan Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan;
+'Kerajaan' bermakna Kerajaan Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan;
 
 [S 65/04]
 
-“jawatan kehakiman yang tinggi” bermakna jawatan Hakim Mahkamah Besar, atau sesebuah mahkamah yang mempunyai bidang kuasa yang tidak terhad dalam perkara-perkara sivil atau jenayah, atau sesebuah mahkamah yang mempunyai bidang kuasa dalam rayuan-rayuan dari mana-mana mahkamah tersebut;
+'jawatan  kehakiman  yang  tinggi'  bermakna  jawatan  Hakim Mahkamah  Besar,  atau  sesebuah  mahkamah  yang  mempunyai bidang kuasa yang tidak terhad dalam perkara-perkara sivil atau jenayah,  atau  sesebuah  mahkamah  yang  mempunyai  bidang kuasa dalam rayuan-rayuan dari mana-mana mahkamah tersebut;
 
-“Kebawah Duli Yang Maha Mulia” atau “Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan” bermakna —
+'Kebawah Duli Yang Maha Mulia' atau 'Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan' bermakna -
 
-(a) Sultan yang baharu dimasyhurkan telah menaiki takhta Kerajaan sama ada atau tidak Baginda telah dipuspakan atau ditabalkan sebagai Sultan dan Yang Di-Pertuan;
+(a) Sultan yang baharu dimasyhurkan telah menaiki takhta Kerajaan sama ada atau tidak Baginda telah dipuspakan atau ditabalkan sebagai Sultan dan  Yang Di-Pertuan;
 
 (b) jika ada, sebuah Jemaah Pemangku Raja; dan
 
-(c) setakat mana seseorang Timbalan kepada Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan itu diberi kuasa untuk menjalankan tanggungjawab, Timbalan itu;
+(c) setakat mana seseorang Timbalan kepada Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri  Baginda Sultan dan Yang Di-Pertuan itu diberi kuasa untuk menjalankan tanggungjawab, Timbalan itu;
 
 [S 65/04]
 
-“Kebawah Duli Yang Maha Mulia dalam Majlis Mesyuarat” atau “Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan dalam Majlis Mesyuarat” bermakna Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan bertindak setelah berunding dengan Majlis Mesyuarat Menteri-Menteri, tetapi tidak perlu menurut nasihat Majlis itu atau pun semasa Majlis itu bersidang;
+'Kebawah Duli Yang Maha Mulia dalam Majlis Mesyuarat' atau 'Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan dalam Majlis Mesyuarat' bermakna Kebawah Duli Yang Maha Mulia Paduka Seri  Baginda  Sultan dan Yang Di-Pertuan bertindak setelah berunding dengan Majlis Mesyuarat  Menteri-Menteri,  tetapi  tidak  perlu  menurut  nasihat Majlis itu atau pun semasa Majlis itu bersidang;
 
 [S 65/04]
 
@@ -1204,27 +1129,27 @@ PRELIMINARY
 
 [[START OF PAGE 39]]
 
-“Deputy Sultan and Yang Di-Pertuan” means the person appointed by His Majesty the Sultan and Yang Di-Pertuan under the Succession and Regency Proclamation, 1959;
+'Deputy Sultan and Yang Di-Pertuan' means the person appointed by His Majesty the Sultan and Yang Di-Pertuan under the Succession and Regency Proclamation, 1959;
 
 [S 65/04]
 
-“Government” means the Government of His Majesty the Sultan and Yang Di-Pertuan;
+'Government' means the Government of His Majesty the Sultan and Yang Di-Pertuan;
 
 [S 65/04]
 
-“high judicial office” means the office of a Judge of the Supreme Court, or of a court having unlimited jurisdiction in civil or criminal matters, or of a court having jurisdiction in appeals from any such court;
+'high judicial office' means the office of a Judge of the Supreme Court,  or  of  a  court  having  unlimited  jurisdiction  in  civil  or criminal matters, or of a court having jurisdiction in appeals from any such court;
 
-“His Majesty” or “His Majesty the Sultan and Yang Di-Pertuan” means —
+'His Majesty' or 'His Majesty the Sultan and Yang Di-Pertuan' means -
 
-(a) a Sultan whose accession to the throne has been proclaimed whether or not he has been crowned as the Sultan and Yang Di-Pertuan;
+(a) a Sultan whose accession to the throne has been proclaimed  whether  or  not  he  has  been  crowned  as  the Sultan and Yang Di-Pertuan;
 
-(b) where appropriate, a Council of Regency; and
+(b) where appropriate, a Council of Regency;  and
 
-(c) to the extent to which a Deputy to His Majesty the Sultan and Yang Di-Pertuan is authorised to act, that Deputy;
+(c) to  the  extent  to  which  a  Deputy  to  His  Majesty the  Sultan  and  Yang  Di-Pertuan  is  authorised  to  act,  that Deputy;
 
 [S 65/04]
 
-“His Majesty in Council” or “His Majesty the Sultan and Yang Di-Pertuan in Council” means His Majesty the Sultan and Yang Di-Pertuan acting after consultation with the Council of Ministers, but not necessarily in accordance with the advice of that Council nor necessarily in that Council assembled;
+'His Majesty in Council' or 'His Majesty the Sultan and Yang Di-Pertuan in Council' means His Majesty the Sultan and Yang Di-Pertuan acting after consultation with the Council of Ministers, but not necessarily in accordance with the advice of that Council nor necessarily in that Council assembled;
 
 [S 65/04]
 
@@ -1234,31 +1159,31 @@ PRELIMINARY
 
 [[START OF PAGE 40]]
 
-“Surat Perintah” termasuk apa jua siaran dalam Warta Kerajaan, sama ada atau tidak siaran itu cuma bermaksud untuk menyiarkan sesuatu perbuatan yang dilakukan atau terjadinya sesuatu hal atau kejadian, atau pun selainnya menyampaikan atau bermaksud untuk menyampaikan maklumat;
+'Surat Perintah' termasuk apa jua siaran dalam Warta Kerajaan , sama ada atau tidak siaran itu cuma bermaksud untuk menyiarkan  sesuatu  perbuatan  yang  dilakukan  atau  terjadinya sesuatu hal atau kejadian, atau pun selainnya menyampaikan atau bermaksud untuk menyampaikan maklumat;
 
-“Ugama Islam” bermakna Ugama Islam menurut Ahlis Sunnah Waljamaah mengikut Mazhab Shafi’ee;
+'Ugama Islam' bermakna Ugama Islam menurut Ahlis Sunnah Waljamaah mengikut Mazhab Shafi'ee;
 
 [S 32/04; S 65/04]
 
-“Kepala Wazir” bermakna orang yang bertaraf dan masyhur lagi ternama yang dikenali sebagai Duli Pengiran Perdana Wazir Sahibul Himmah Wal-Waqar;
+'Kepala Wazir' bermakna orang yang bertaraf dan masyhur lagi ternama  yang  dikenali  sebagai  Duli  Pengiran  Perdana  Wazir Sahibul Himmah Wal-Waqar;
 
 [S 65/04]
 
-“Majlis Mesyuarat Negara” bermakna Majlis Mesyuarat Negara yang ditubuhkan menurut Perkara 23;
+'Majlis Mesyuarat Negara' bermakna Majlis Mesyuarat Negara yang ditubuhkan menurut Perkara 23;
 
 [S 65/04]
 
-“mesyuarat”, berhubung dengan Majlis Mesyuarat Negara, bermakna semua persidangan Majlis itu yang diadakan dari tempoh Majlis itu mula bersidang selepas dipanggil pada bila-bila masa sehingga masa Majlis itu ditangguhkan dengan tiada ditetapkan masa mesyuarat yang akan datang atau pun sampai masa Majlis itu ditamatkan Musim Permesyuaratannya atau sampai masa Majlis itu dibubarkan dengan tiada ditamatkan Musim Permesyuaratannya;
+'mesyuarat', berhubung dengan Majlis Mesyuarat Negara, bermakna  semua  persidangan  Majlis  itu  yang  diadakan  dari tempoh Majlis itu mula bersidang selepas dipanggil pada bila­ bila  masa sehingga masa Majlis itu ditangguhkan dengan tiada ditetapkan masa mesyuarat yang akan  datang  atau  pun  sampai masa   Majlis   itu   ditamatkan  Musim Permesyuaratannya atau sampai  masa  Majlis  itu  dibubarkan  dengan  tiada  ditamatkan Musim Permesyuaratannya;
 
-“Menteri” bermakna seseorang yang dilantik di bawah Fasal (3) Perkara 4;
-
-[S 65/04]
-
-“Mufti Kerajaan” bermakna orang yang dilantik sedemikian oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan di bawah Akta Majlis Ugama Islam dan Mahkamah-Mahkamah Kadi (Penggal 77);
+'Menteri' bermakna seseorang yang dilantik di bawah Fasal (3) Perkara 4;
 
 [S 65/04]
 
-“hasil dan wang-wang tabung Ugama Islam” bermakna segala hasil dan wang tabung terhadap mana Bahagian IV dari Akta Majlis Ugama Islam dan Mahkamah-Mahkamah Kadi (Penggal 77) ada berkenaan;
+'Mufti Kerajaan' bermakna orang yang dilantik sedemikian oleh Kebawah Duli Yang Maha Mulia Paduka Seri  Baginda  Sultan dan  Yang  Di-Pertuan  di  bawah  Akta  Majlis  Ugama  Islam  dan Mahkamah-Mahkamah Kadi (Penggal 77);
+
+[S 65/04]
+
+'hasil  dan  wang-wang  tabung  Ugama  Islam'  bermakna  segala hasil  dan  wang  tabung  terhadap  mana  Bahagian  IV  dari  Akta Majlis Ugama Islam dan Mahkamah-Mahkamah Kadi (Penggal 77) ada berkenaan;
 
 [S 65/04]
 
@@ -1268,31 +1193,29 @@ PRELIMINARY
 
 [[START OF PAGE 41]]
 
-“instrument” includes any publication in the Gazette, whether or not such publication merely purports to publish the doing of an act or the occurrence of a fact or event, or otherwise conveys or purports to convey information;
+'instrument' includes any publication in the Gazette , whether or not such publication merely purports to publish the doing of an act or the occurrence of a fact or event, or otherwise conveys or purports to convey information;
 
-“Islamic Religion” means the Islamic Religion according to the Shafeite sect of Ahlis Sunnah Waljamaah;
+'Islamic Religion' means the Islamic Religion according to the Shafeite sect of Ahlis Sunnah Waljamaah;
 
-[S 32/04; S 65/04]
-
-“Kepala Wazir” means the noble and illustrious personage known as the Duli Pengiran Perdana Wazir Sahibul Himmah Wal-Waqar;
+'Kepala  Wazir'  means  the  noble  and  illustrious  personage known  as  the  Duli  Pengiran  Perdana  Wazir  Sahibul  Himmah Wal-Waqar;
 
 [S 65/04]
 
-“Legislative Council” means the Legislative Council established by Article 23;
+'Legislative Council' means the Legislative Council established by Article 23;
 
 [S 65/04]
 
-“meeting”, in relation to the Legislative Council, means all sittings of that Council held during a period beginning when that Council first meets after being summoned at any time and ending when that Council is next thereafter either adjourned sine die or prorogued or dissolved without having been prorogued;
+'meeting',  in  relation  to  the  Legislative  Council,  means  all sittings of that Council held during a period beginning when that Council first meets after being summoned at any time and ending when that Council is next thereafter either adjourned sine die or prorogued or dissolved without having been prorogued;
 
-“Minister” means a person appointed under Clause (3) of Article 4;
-
-[S 65/04]
-
-“Mufti Kerajaan” means the person appointed as such by His Majesty the Sultan and Yang Di-Pertuan under the Religious Council and Kadis Courts Act (Chapter 77);
+'Minister' means a person appointed under Clause (3) of Article 4;
 
 [S 65/04]
 
-“Muslim revenue and funds” means all revenues and funds to which Part IV of the Religious Council and Kadis Courts Act (Chapter 77) applies;
+'Mufti  Kerajaan'  means  the  person  appointed  as  such  by  His Majesty  the  Sultan  and  Yang  Di-Pertuan  under  the  Religious Council and Kadis Courts Act (Chapter 77);
+
+[S 65/04]
+
+'Muslim revenue and funds' means all  revenues  and  funds  to which Part  IV  of  the  Religious  Council  and  Kadis  Courts  Act (Chapter 77) applies;
 
 [S 65/04]
 
@@ -1302,27 +1225,27 @@ PRELIMINARY
 
 [[START OF PAGE 42]]
 
-“hak-hak pencen” termasuk hak-hak menerima pencen setelah sampai umur menerima pencen dan hak-hak menerima wang dari kumpulanwang simpanan;
+'hak-hak  pencen'  termasuk  hak-hak  menerima  pencen  setelah sampai umur menerima pencen dan hak-hak menerima wang dari kumpulanwang simpanan;
 
-“Majlis Mesyuarat Di-Raja” bermakna Majlis Mesyuarat Di-Raja yang ditubuhkan menurut Fasal (1) Perkara 5;
-
-[S 65/04]
-
-“jawatan Kerajaan” bermakna apa jua jawatan yang mempunyai gaji, saraan atau elaun (termasuk pencen atau elaun lain yang sama) berkaitan dengan tempohnya memegang jawatan dalam Kerajaan tetapi tidaklah termasuk Sultan, jawatan Pemangku Raja, Kepala Wazir, Wazir, Ketua Hakim, Yang Di-Pertua Majlis Mesyuarat Negara, Timbalan Yang Di-Pertua Majlis Mesyuarat Negara, Menteri, Timbalan Menteri, Setiausaha Parlimen, Setiausaha Politik, Ahli Majlis Mesyuarat Negara, Duta, Pesuruhjaya Tinggi, Hakim Mahkamah Besar, Konsul Agung, Konsul atau jawatan lain sebagaimana yang mungkin ditetapkan dengan Perintah yang disiarkan dalam Warta Kerajaan oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan;
+'Majlis Mesyuarat Di-Raja' bermakna Majlis Mesyuarat Di-Raja yang ditubuhkan menurut Fasal (1) Perkara 5;
 
 [S 65/04]
 
-“pegawai Kerajaan” bermakna pemegang mana-mana jawatan Kerajaan dan termasuk sesiapa jua yang dilantik untuk memangku dalam mana-mana jawatan itu;
-
-“Pemangku Raja” bermakna Pemangku Raja yang dilantik di bawah atau disebut dalam Pemasyhuran Mengangkat Raja dan Melantik Pemangku Raja, 1959;
+'jawatan Kerajaan' bermakna apa jua jawatan yang mempunyai gaji,  saraan  atau  elaun  (termasuk  pencen  atau  elaun  lain  yang sama)  berkaitan  dengan  tempohnya  memegang  jawatan  dalam Kerajaan  tetapi  tidaklah  termasuk  Sultan,  jawatan  Pemangku Raja, Kepala Wazir, Wazir, Ketua Hakim, Yang Di-Pertua Majlis Mesyuarat Negara, Timbalan Yang Di-Pertua Majlis Mesyuarat Negara, Menteri, Timbalan Menteri, Setiausaha Parlimen,  Setiausaha  Politik,  Ahli  Majlis  Mesyuarat  Negara, Duta,  Pesuruhjaya  Tinggi,  Hakim  Mahkamah  Besar,  Konsul Agung,  Konsul  atau  jawatan  lain  sebagaimana  yang  mungkin ditetapkan dengan Perintah yang disiarkan dalam Warta Kerajaan oleh  Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri Baginda Sultan dan Yang Di-Pertuan;
 
 [S 65/04]
 
-“Majlis Ugama Islam” bermakna Majlis Ugama Islam yang ditubuhkan menurut Bahagian II dari Akta Majlis Ugama Islam dan Mahkamah-Mahkamah Kadi (Penggal 77);
+'pegawai  Kerajaan'  bermakna  pemegang  mana-mana  jawatan Kerajaan dan termasuk sesiapa jua yang dilantik untuk memangku dalam mana-mana jawatan itu;
+
+'Pemangku  Raja'  bermakna  Pemangku  Raja  yang  dilantik  di bawah atau disebut dalam Pemasyhuran Mengangkat Raja dan Melantik Pemangku Raja, 1959;
 
 [S 65/04]
 
-“Setiausaha kepada Majlis Mesyuarat Menteri-Menteri” bermakna orang yang dilantik di bawah Perkara 22 dan termasuk mana-mana orang yang dilantik oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan untuk menjadi Timbalan Setiausaha kepada Majlis itu;
+'Majlis  Ugama  Islam'  bermakna  Majlis  Ugama  Islam  yang ditubuhkan menurut Bahagian II dari Akta Majlis Ugama Islam dan Mahkamah-Mahkamah Kadi (Penggal 77);
+
+[S 65/04]
+
+'Setiausaha kepada Majlis Mesyuarat Menteri-Menteri' bermakna orang yang dilantik di bawah Perkara 22 dan termasuk mana-mana orang yang dilantik oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan untuk menjadi Timbalan Setiausaha kepada Majlis itu;
 
 [S 65/04]
 
@@ -1332,27 +1255,27 @@ PRELIMINARY
 
 [[START OF PAGE 43]]
 
-“pension rights” includes superannuation rights and provident funds rights;
+'pension  rights'  includes  superannuation  rights  and  provident funds rights;
 
-“Privy Council” means the Privy Council established by Clause (1) of Article 5;
-
-[S 65/04]
-
-“public office” means any office of emolument, remuneration or allowance (including pension or other like allowance) in respect of his tenure in the Government but does not include the Sultanate, the office of Regent, Kepala Wazir, Wazir, Chief Justice, Speaker of the Legislative Council, Deputy Speaker of the Legislative Council, Minister, Deputy Minister, Parliamentary Secretary, Political Secretary, Member of the Legislative Council, Ambassador, High Commissioner, Judge of the Supreme Court, Consul-General, Consul or such other office as His Majesty the Sultan and Yang Di-Pertuan may by Order published in the Gazette, prescribe;
+'Privy Council' means the Privy Council established by Clause (1) of Article 5;
 
 [S 65/04]
 
-“public officer” means the holder of any public office and includes any person appointed to act in any such office;
-
-“Regent” means a Regent duly appointed under or referred to in the Succession and Regency Proclamation, 1959;
+'public office' means any office of emolument, remuneration or allowance (including pension or other like allowance) in respect of  his  tenure  in  the  Government  but  does  not  include  the Sultanate,  the  office  of  Regent,  Kepala  Wazir,  Wazir,  Chief Justice, Speaker of the Legislative Council, Deputy Speaker of the Legislative Council, Minister, Deputy Minister, Parliamentary  Secretary,  Political  Secretary,  Member  of  the Legislative Council, Ambassador, High Commissioner, Judge of the Supreme Court, Consul-General, Consul or such other office as  His  Majesty  the  Sultan  and  Yang  Di-Pertuan  may  by  Order published in the Gazette , prescribe;
 
 [S 65/04]
 
-“Religious Council” means the Religious Council constituted by Part II of the Religious Council and Kadis Courts Act (Chapter 77);
+'public  officer'  means  the  holder  of  any  public  office  and includes any person appointed to act in any such office;
+
+'Regent' means a Regent duly appointed under or referred to in the Succession and Regency Proclamation, 1959;
 
 [S 65/04]
 
-“Secretary to the Council of Ministers” means the person appointed under Article 22 and includes any person appointed by His Majesty the Sultan and Yang Di-Pertuan to be Deputy Secretary to that Council;
+'Religious Council' means the Religious Council constituted by Part II of the Religious Council and Kadis Courts Act (Chapter 77);
+
+[S 65/04]
+
+'Secretary  to  the  Council  of  Ministers'  means  the  person appointed under Article 22 and includes any person appointed by His  Majesty  the  Sultan  and  Yang  Di-Pertuan  to  be  Deputy Secretary to that Council;
 
 [S 65/04]
 
@@ -1362,31 +1285,27 @@ PRELIMINARY
 
 [[START OF PAGE 44]]
 
-“Musim Permesyuaratan”, berhubung dengan Majlis Mesyuarat Negara, bermakna mesyuarat-mesyuarat yang diadakan oleh Majlis itu mulai dari masa Majlis itu bermesyuarat pada kali pertama selepas Majlis itu ditubuhkan di bawah Perlembagaan ini, atau selepas Musim Permesyuaratannya ditamatkan atau selepas Majlis itu dibubarkan pada bila-bila masa, sampai Majlis itu ditamatkan Musim Permesyuaratannya atau sampai Majlis itu dibubarkan dengan tiada ditamatkan Musim Permesyuaratannya;
+'Musim Permesyuaratan', berhubung dengan Majlis Mesyuarat Negara,  bermakna  mesyuarat-mesyuarat  yang  diadakan  oleh Majlis  itu  mulai  dari  masa  Majlis  itu  bermesyuarat  pada  kali pertama selepas Majlis itu  ditubuhkan  di  bawah  Perlembagaan ini,  atau  selepas  Musim  Permesyuaratannya  ditamatkan  atau selepas Majlis itu dibubarkan pada bila-bila masa, sampai Majlis itu ditamatkan Musim Permesyuaratannya atau sampai Majlis itu dibubarkan dengan tiada ditamatkan Musim Permesyuaratannya; [S 65/04]
+
+'persidangan',  berhubung  dengan  Majlis  Mesyuarat  Negara, bermakna masa Majlis itu bersidang terus-menerus tanpa penangguhan, dan termasuk sebarang masa Majlis itu bersidang sebagai Jawatankuasa;
 
 [S 65/04]
 
-“persidangan”, berhubung dengan Majlis Mesyuarat Negara, bermakna masa Majlis itu bersidang terus-menerus tanpa penangguhan, dan termasuk sebarang masa Majlis itu bersidang sebagai Jawatankuasa;
+'Yang  Di-Pertua'  bermakna  Yang  Di-Pertua  Majlis  Mesyuarat Negara yang dilantik di bawah Fasal (1) Perkara 37 dan termasuk mana-mana orang yang dilantik untuk menjadi Timbalannya; [S 65/04]
+
+'Peraturan-Peraturan Mesyuarat' bermakna Peraturan-Peraturan Perkara 48;
+
+Mesyuarat bagi Majlis Mesyuarat Negara yang dibuat menurut [S 65/04]
+
+'Mohor Kerajaan' bermakna Mohor Negara Brunei Darussalam
+
+yang disebut dalam Perkara 79; [S 65/04]
+
+'Mahkamah  Besar'  bermakna  Mahkamah  Besar  bagi  Negara Brunei Darussalam yang ditubuhkan di bawah Akta Mahkamah Besar (Penggal 5);
 
 [S 65/04]
 
-“Yang Di-Pertua” bermakna Yang Di-Pertua Majlis Mesyuarat Negara yang dilantik di bawah Fasal (1) Perkara 37 dan termasuk mana-mana orang yang dilantik untuk menjadi Timbalannya;
-
-[S 65/04]
-
-“Peraturan-Peraturan Mesyuarat” bermakna Peraturan-Peraturan Mesyuarat bagi Majlis Mesyuarat Negara yang dibuat menurut Perkara 48;
-
-[S 65/04]
-
-“Mohor Kerajaan” bermakna Mohor Negara Brunei Darussalam yang disebut dalam Perkara 79;
-
-[S 65/04]
-
-“Mahkamah Besar” bermakna Mahkamah Besar bagi Negara Brunei Darussalam yang ditubuhkan di bawah Akta Mahkamah Besar (Penggal 5);
-
-[S 65/04]
-
-“cukai” termasuk sesuatu pengenaan bayaran cukai import atau sesuatu cukai bea tetapi tidak termasuk cukai pintu yang dikutip bagi maksud pihak berkuasa tempatan atau sesuatu bayaran bagi perkhidmatan-perkhidmatan yang diberikan;
+'cukai' termasuk sesuatu pengenaan bayaran cukai import atau sesuatu cukai bea tetapi tidak termasuk cukai pintu yang dikutip bagi maksud pihak berkuasa tempatan atau sesuatu bayaran bagi perkhidmatan-perkhidmatan yang diberikan;
 
 44
 
@@ -1394,31 +1313,31 @@ PRELIMINARY
 
 [[START OF PAGE 45]]
 
-“session”, in relation to the Legislative Council, means the meeting of that Council commencing when it first meets after being constituted under this Constitution, or after its prorogation or dissolution at any time, and terminating when that Council is prorogued or is dissolved without having been prorogued;
+'session',  in  relation  to  the  Legislative  Council,  means  the meeting  of  that  Council  commencing  when  it  first  meets  after being constituted under this Constitution, or after its prorogation or dissolution at any time, and terminating when that Council is prorogued or is dissolved without having been prorogued;
 
 [S 65/04]
 
-“sitting”, in relation to the Legislative Council, means the period during which that Council is sitting continuously without adjournment, and includes any period during which that Council is in Committee;
+'sitting', in relation to the Legislative Council, means the period during which  that Council is sitting continuously without adjournment, and includes any period during which that Council is in Committee;
 
 [S 65/04]
 
-“Speaker” means the Speaker of the Legislative Council appointed under Clause (1) of Article 37 and includes any person appointed to be his Deputy;
+'Speaker' means the Speaker of the Legislative Council appointed under Clause (1) of Article 37 and includes any person appointed to be his Deputy;
 
 [S 65/04]
 
-“Standing Orders” means the Standing Orders of the Legislative Council made pursuant to Article 48;
+'Standing Orders' means the Standing Orders of the Legislative Council made pursuant to Article 48;
 
 [S 65/04]
 
-“State Seal” means the Seal of Brunei Darussalam referred to in Article 79;
+'State Seal' means the Seal of Brunei Darussalam referred to in Article 79;
 
 [S 65/04]
 
-“Supreme Court” means the Supreme Court of Brunei Darussalam established under the Supreme Court Act (Chapter 5);
+'Supreme Court' means the Supreme Court of Brunei Darussalam established under the Supreme Court Act (Chapter 5);
 
 [S 65/04]
 
-“tax” includes an impost or a duty but does not include a rate levied for local purposes or a fee for services rendered;
+'tax'  includes  an  impost  or  a  duty  but  does  not  include  a  rate levied for local purposes or a fee for services rendered;
 
 45
 
@@ -1426,29 +1345,33 @@ PRELIMINARY
 
 [[START OF PAGE 46]]
 
-“Wazir-Wazir” bermakna Duli Pengiran Perdana Wazir Sahibul Himmah Wal-Waqar, Pengiran Bendahara Seri Maharaja Permaisuara, Pengiran Digadong Sahibul Mal, Pengiran Pemancha Sahibul Rae’ Wal-Mashuarah dan Pengiran Temanggong Sahibul Bahar;
+'Wazir-Wazir' bermakna Duli Pengiran Perdana Wazir Sahibul Himmah Wal-Waqar, Pengiran Bendahara Seri Maharaja Permaisuara, Pengiran Digadong Sahibul Mal, Pengiran Pemancha Sahibul Rae' Wal-Mashuarah dan Pengiran Temanggong Sahibul Bahar;
 
 [S 65/04]
 
-“undang-undang bertulis” termasuk semua Akta, Perintah, Pemasyhuran dan undang-undang tambahan, atau mana-mana bahagiannya, tetapi tidak termasuk mana-mana Akta Parlimen United Kingdom, atau mana-mana Perintah Seri Baginda Queen dalam Majlis Mesyuarat, atau mana-mana Undang-Undang yang tidak boleh dipinda oleh mana-mana pihak berkuasa di dalam Negara Brunei Darussalam;
+'undang-undang bertulis' termasuk semua Akta, Perintah, Pemasyhuran  dan  undang-undang  tambahan,  atau  mana-mana bahagiannya,  tetapi  tidak  termasuk  mana-mana  Akta  Parlimen United Kingdom, atau mana-mana Perintah Seri Baginda Queen dalam Majlis Mesyuarat, atau mana-mana Undang-Undang yang tidak  boleh  dipinda  oleh  mana-mana  pihak  berkuasa  di  dalam Negara Brunei Darussalam;
 
 [S 65/04]
 
-“Yang Di-Pertua Adat Istiadat” bermakna orang yang bertaraf dan termasyhur lagi ternama yang dikenali sebagai Duli Pengiran Pemancha atau orang yang dilantik di bawah Fasal (3) Perkara 3A oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan.
+'Yang  Di-Pertua  Adat  Istiadat'  bermakna  orang  yang  bertaraf dan termasyhur lagi ternama yang dikenali sebagai Duli Pengiran Pemancha atau orang yang dilantik di bawah Fasal (3) Perkara 3A oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan.
 
 [S 65/04]
 
-(2) Jika dalam Perlembagaan ini sebutan dibuat mengenai mana-mana pegawai Kerajaan dengan gelaran jawatannya, maka sebutan itu hendaklah diertikan sebagai suatu sebutan mengenai pegawai yang pada masa itu melakukan tugas-tugas jawatan itu.
+(2) Jika  dalam  Perlembagaan  ini  sebutan  dibuat  mengenai  mana­ mana  pegawai  Kerajaan  dengan  gelaran  jawatannya,  maka  sebutan  itu hendaklah  diertikan  sebagai  suatu  sebutan  mengenai  pegawai  yang  pada masa itu melakukan tugas-tugas jawatan itu.
 
-(3) Dimansuhkan. [S 65/04]
+- Dimansuhkan .
 
-(4) Dimansuhkan. [S 65/04]
-
-(5) Sebutan-sebutan dalam Perlembagaan ini kepada “Perlembagaan ini” hendaklah, melainkan jika maksudnya berkehendakkan makna yang lain, diertikan sebagai menyebut mengenai undang-undang tambahan yang dibuat di bawah Perlembagaan ini.
+- Dimansuhkan .
 
 [S 65/04]
 
-(6) Kecuali sebagaimana yang diperuntukkan sebaliknya dalam Perlembagaan ini atau dikehendaki mengikut maksudnya, Akta Tafsiran dan Perkara-Perkara Am (Penggal 4) hendaklah dipakai bagi mentafsirkan Perlembagaan ini sebagaimana ianya dipakai bagi mentafsirkan semua undang-undang bertulis lain.
+[S 65/04]
+
+(5) Sebutan-sebutan dalam Perlembagaan ini kepada 'Perlembagaan ini'  hendaklah,  melainkan  jika  maksudnya  berkehendakkan  makna  yang lain, diertikan sebagai menyebut mengenai undang-undang tambahan yang dibuat di bawah Perlembagaan ini.
+
+[S 65/04]
+
+(6) Kecuali  sebagaimana  yang  diperuntukkan  sebaliknya  dalam Perlembagaan ini atau dikehendaki mengikut maksudnya, Akta Tafsiran dan Perkara-Perkara  Am  (Penggal  4)  hendaklah  dipakai  bagi  mentafsirkan Perlembagaan  ini  sebagaimana  ianya  dipakai  bagi  mentafsirkan  semua undang-undang bertulis lain.
 
 [S 65/04]
 
@@ -1458,25 +1381,29 @@ PRELIMINARY
 
 [[START OF PAGE 47]]
 
-“Wazirs” means the Duli Pengiran Perdana Wazir Sahibul Himmah Wal-Waqar, the Pengiran Bendahara Seri Maharaja Permaisuara, the Pengiran Digadong Sahibul Mal, the Pengiran Pemancha Sahibul Rae’ Wal-Mashuarah and the Pengiran Temanggong Sahibul Bahar;
+'Wazirs'  means  the  Duli  Pengiran  Perdana  Wazir  Sahibul Himmah  Wal-Waqar,  the  Pengiran  Bendahara  Seri  Maharaja Permaisuara, the Pengiran Digadong Sahibul Mal, the Pengiran Pemancha  Sahibul Rae' Wal-Mashuarah and the Pengiran Temanggong Sahibul Bahar;
 
 [S 65/04]
 
-“written law” includes all Acts, Orders, Proclamations and subsidiary legislation, or any part thereof, but does not include any Act of Parliament of the United Kingdom or any Order of Her Britannic Majesty in Council or any Law which no authority in Brunei Darussalam is empowered to amend;
+'written  law'  includes  all  Acts,  Orders,  Proclamations  and subsidiary legislation, or any part thereof, but does not include any Act of Parliament of the United Kingdom or any Order of Her Britannic Majesty in Council or any Law which no authority in Brunei Darussalam is empowered to amend;
 
 [S 65/04]
 
-“Yang Di-Pertua Adat Istiadat” means the noble and illustrious personage known as the Duli Pengiran Pemancha or the person appointed under Clause (3) of Article 3A by His Majesty the Sultan and Yang Di-Pertuan.
+'Yang Di-Pertua Adat Istiadat' means the noble and illustrious personage known as the Duli Pengiran Pemancha or the person appointed  under  Clause  (3)  of  Article  3A  by  His  Majesty  the Sultan and Yang Di-Pertuan.
 
 [S 65/04]
 
-(2) Where in this Constitution reference is made to any public officer by the term designating his office, such reference shall be construed as a reference to the officer for the time being discharging the functions of that office.
+(2) Where  in  this  Constitution  reference  is  made  to  any  public officer by the term designating his office, such reference shall be construed as a reference to the officer for the time being discharging the functions of that office.
 
-(3) Repealed. [S 65/04]
+- Repealed .
 
-(4) Repealed. [S 65/04]
+- Repealed .
 
-(5) References in this Constitution to “this Constitution” shall, unless the context otherwise requires, be construed as referring to subsidiary legislation made under this Constitution.
+[S 65/04]
+
+[S 65/04]
+
+(5) References  in  this  Constitution  to  'this  Constitution'  shall, unless the context otherwise requires, be construed as referring to subsidiary legislation made under this Constitution.
 
 [S 65/04]
 
@@ -1540,7 +1467,7 @@ Provided that all other religions may be practised in peace and harmony by the p
 
 #### Majlis Mesyuarat Adat Istiadat. [S 65/04]
 
-3A. (1) There shall be established a Majlis Mesyuarat Adat Istiadat (to be known in English as the Adat Istiadat Council) which shall consist of a Chairman and other members, all of whom shall be appointed by His Majesty the Sultan and Yang Di-Pertuan and hold office during His Majesty the Sultan and Yang Di-Pertuan’s pleasure.
+3A. (1) There shall be established a Majlis Mesyuarat Adat Istiadat (to be known in English as the Adat Istiadat Council) which shall consist of a Chairman  and  other  members,  all  of  whom  shall  be  appointed  by  His Majesty the Sultan and Yang Di-Pertuan and hold office during His Majesty the Sultan and Yang Di-Pertuan's pleasure.
 
 (2) The Adat Istiadat Council shall be the authority responsible for advising His Majesty the Sultan and Yang Di-Pertuan on matters relating to Adat Istiadat or State custom:
 
@@ -1552,9 +1479,7 @@ Provided that all other religions may be practised in peace and harmony by the p
 
 Dengan  syarat  bahawa  Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri Baginda Sultan dan Yang Di-Pertuan tidak terikat untuk bertindak menurut nasihat Majlis Mesyuarat Adat Istiadat.
 
-(3) Yang Di-Pertua Adat Istiadat akan memegang jawatan selama tempoh selagi diperkenankan oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan.
-
-[S 14/06]
+(3) Yang  Di-Pertua  Adat  Istiadat  akan  memegang  jawatan  selama tempoh selagi diperkenankan oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan.
 
 ### BAHAGIAN III
 
@@ -1564,21 +1489,23 @@ Dengan  syarat  bahawa  Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri Baginda S
 
 4. (1) Kuasa memerintah yang tertinggi bagi Negara Brunei Darussalam adalah terletak dalam tangan Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan.
 
-(1A) Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan adalah Perdana Menteri.
+(1A) Kebawah Duli Yang Maha Mulia Paduka Seri  Baginda  Sultan dan Yang Di-Pertuan adalah Perdana Menteri.
 
 [S 65/04]
 
-(1B) Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan adalah Pemerintah Tertinggi Angkatan Bersenjata Diraja Brunei.
+(1B) Kebawah Duli Yang Maha Mulia Paduka Seri  Baginda  Sultan dan  Yang  Di-Pertuan  adalah  Pemerintah  Tertinggi  Angkatan  Bersenjata Diraja Brunei.
 
 [S 65/04]
 
-(2) Kuasa memerintah hendaklah dijalankan oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan.
+(2) Kuasa  memerintah  hendaklah  dijalankan  oleh  Kebawah  Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan.
 
 [S 65/04]
 
-(3) Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan boleh melantik sebilangan orang Menteri dan Timbalan Menteri dari kalangan warganegara Negara Brunei Darussalam yang akan bertanggungjawab hanya kepada Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan sahaja bagi menjalankan kuasa memerintah dan yang akan membantu dan menasihatkan Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan dalam menunaikan kuasa memerintah Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan.
+(3) Kebawah Duli Yang Maha Mulia Paduka Seri  Baginda  Sultan dan Yang Di-Pertuan boleh melantik sebilangan orang Menteri dan Timbalan  Menteri  dari  kalangan  warganegara  Negara  Brunei  Darussalam yang  akan  bertanggungjawab  hanya  kepada  Kebawah  Duli  Yang  Maha Mulia  Paduka  Seri  Baginda  Sultan  dan  Yang  Di-Pertuan  sahaja  bagi menjalankan kuasa memerintah dan yang akan membantu dan menasihatkan Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri  Baginda  Sultan  dan  Yang Di-Pertuan dalam menunaikan kuasa memerintah Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan.
 
 [S 65/04]
+
+[S 14/06]
 
 50
 
@@ -1588,7 +1515,7 @@ Dengan  syarat  bahawa  Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri Baginda S
 
 Provided that His Majesty the Sultan and Yang Di-Pertuan is not bound to act in accordance with the advice of the Adat Istiadat Council.
 
-(3) The  Yang  Di-Pertua  Adat  Istiadat  shall  hold  office  during  His Majesty the Sultan and Yang Di-Pertuan's pleasure.
+(3) The Yang Di-Pertua Adat Istiadat shall hold office during His Majesty the Sultan and Yang Di-Pertuan’s pleasure.
 
 [S 14/06]
 
@@ -1612,7 +1539,7 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan is not bound to act in 
 
 [S 65/04]
 
-(3) His Majesty the Sultan and Yang Di-Pertuan may appoint from among citizens of Brunei Darussalam any number of Ministers and Deputy Ministers who shall be responsible solely to His Majesty the Sultan and Yang Di-Pertuan for the exercise of executive authority and who shall assist and advise His Majesty the Sultan and Yang Di-Pertuan in the discharge of His Majesty the Sultan and Yang Di-Pertuan's executive authority.
+(3) His Majesty the Sultan and Yang Di-Pertuan may appoint from among citizens of Brunei Darussalam any number of Ministers and Deputy Ministers who shall be responsible solely to His Majesty the Sultan and Yang Di-Pertuan for the exercise of executive authority and who shall assist and advise His Majesty the Sultan and Yang Di-Pertuan in the discharge of His Majesty the Sultan and Yang Di-Pertuan’s executive authority.
 
 [S 65/04]
 
@@ -1690,7 +1617,7 @@ Dengan syarat bahawa Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan
 
 (b) Pemangku-Pemangku  Raja,  sekiranya  Jemaah  Pemangku Raja telah dilantik;
 
-(c) Ahli-Ahli  Rasmi  Kerana  Jawatan,  iaitu,  Kepala  Wazir, Wazir-Wazir,  Ahli-Ahli  Majlis  Mesyuarat  Menteri-Menteri,  Mufti Kerajaan,  Ketua  Hakim  Syar'ie,  Peguam  Negara,  Yang  Di-Pertua Adat Istiadat dan orang yang memegang jawatan lain yang dari masa ke  semasa  diisytiharkan  oleh  Kebawah  Duli  Yang  Maha  Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan dengan Pemasyhuran dalam Warta Kerajaan ; dan
+(c) Ahli-Ahli Rasmi Kerana Jawatan, iaitu, Kepala Wazir, Wazir-Wazir, Ahli-Ahli Majlis Mesyuarat Menteri-Menteri, Mufti Kerajaan, Ketua Hakim Syar’ie, Peguam Negara, Yang Di-Pertua Adat Istiadat dan orang yang memegang jawatan lain yang dari masa ke semasa diisytiharkan oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan dengan Pemasyhuran dalam Warta Kerajaan; dan
 
 (d) orang-orang  lain  (yang  akan  dinamakan  Ahli-Ahli  Yang Dilantik) yang dilantik oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan dengan Surat Perintah yang dicap dengan Mohor Kerajaan.
 
@@ -1718,19 +1645,19 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may transfer any functi
 
 [S 65/04]
 
-(2) The Privy Council, the Members of which shall be styled Privy Councillors, shall consist of -
+(2) The Privy Council, the Members of which shall be styled Privy Councillors, shall consist of —
 
-(a) if  such  an  appointment  has been made, the Deputy Sultan and Yang Di-Pertuan;
+(a) if such an appointment has been made, the Deputy Sultan and Yang Di-Pertuan;
 
 (b) the Regents, if a Council of Regency has been appointed;
 
-(c) ex-officio Members, namely the Kepala Wazir, the Wazirs, Members of the Council of Ministers, Mufti Kerajaan, Chief Syar'ie Judge, Attorney General, Yang Di-Pertua Adat Istiadat and the person who holds such other office as may from time to time be designated by His Majesty the Sultan and Yang Di-Pertuan by Proclamation in the Gazette ; and
+(c) ex-officio Members, namely the Kepala Wazir, the Wazirs, Members of the Council of Ministers, Mufti Kerajaan, Chief Syar’ie Judge, Attorney General, Yang Di-Pertua Adat Istiadat and the person who holds such other office as may from time to time be designated by His Majesty the Sultan and Yang Di-Pertuan by Proclamation in the Gazette; and
 
 (d) such other persons (who shall be styled Appointed Members) as His Majesty the Sultan and Yang Di-Pertuan may, by Instrument under the State Seal, appoint.
 
 [S 65/04]
 
-(3) Every Appointed Member of the Privy Council shall hold office during His Majesty the Sultan and Yang Di-Pertuan's pleasure and subject thereto for such period and upon such conditions as may be specified in the Instrument appointing him.
+(3) Every Appointed Member of the Privy Council shall hold office during His Majesty the Sultan and Yang Di-Pertuan’s pleasure and subject thereto for such period and upon such conditions as may be specified in the Instrument appointing him.
 
 55
 
@@ -1754,7 +1681,7 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may transfer any functi
 
 (b) hendaklah, tertakluk kepada sebarang undang-undang bertulis, menasihatkan Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan tentang lantikan orang-orang ke pangkat-pangkat, gelaran-gelaran, kehormatan-kehormatan dan kebesaran adat istiadat  Melayu Brunei dan menentukan tugas-tugas yang berhubung dengannya; dan
 
-* (c) hendaklah  menjalankan  tugas-tugas  lain  yang  diberikan kepadanya oleh Pemasyhuran Mengangkat Raja dan Melantik Pemangku  Raja,  1959,  sebarang  undang-undang  bertulis  lain  atau oleh  Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan.
+*(c) hendaklah menjalankan tugas-tugas lain yang diberikan kepadanya oleh Pemasyhuran Mengangkat Raja dan Melantik Pemangku Raja, 1959, sebarang undang-undang bertulis lain atau oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan.
 
 [S 65/04]
 
@@ -1782,11 +1709,11 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may transfer any functi
 
 (b) shall,  subject  to  any  written  law,  advise  His  Majesty  the Sultan and Yang Di-Pertuan on the appointment of persons to Malay customary ranks, titles, honours and dignities and the designation of the functions appertaining thereto; and
 
-* (c) shall perform such other functions as may be conferred on it by the Succession and Regency Proclamation, 1959, any other written law or by His Majesty the Sultan and Yang Di-Pertuan.
+*(c) shall perform such other functions as may be conferred on it by the Succession and Regency Proclamation, 1959, any other written law or by His Majesty the Sultan and Yang Di-Pertuan.
 
 [S 65/04]
 
-*As at the time of this Reprint, His Majesty the Sultan and Yang Di-Pertuan has, pursuant to the Constitution of Brunei Darussalam (Suspension) Order, 2006, conferred on the Privy Council the function to advise His Majesty in connection with the exercise of His Majesty's powers under Clause (1) of Article 9 of the Constitution of Brunei Darussalam.
+*As at the time of this Reprint, His Majesty the Sultan and Yang Di-Pertuan has, pursuant to the Constitution of Brunei Darussalam (Suspension) Order, 2006, conferred on the Privy Council the function to advise His Majesty in connection with the exercise of His Majesty’s powers under Clause (1) of Article 9 of the Constitution of Brunei Darussalam.
 
 57
 
@@ -1852,7 +1779,7 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may transfer any functi
 
 8. (1) Kebawah Duli Yang Maha Mulia Paduka Seri  Baginda  Sultan dan Yang Di-Pertuan hendaklah, seboleh-bolehnya, mempengerusikan mesyuarat-mesyuarat Majlis Mesyuarat Di-Raja.
 
-(2) Jika  Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri  Baginda Sultan dan Yang Di-Pertuan tidak hadir, maka orang yang akan mempengerusikan  mesyuarat  itu  hendaklah  mengikut  susunan  keutamaan yang berikut -
+(2) Jika Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan tidak hadir, maka orang yang akan mempengerusikan mesyuarat itu hendaklah mengikut susunan keutamaan yang berikut —
 
 (a) jika lantikan telah dibuat, Timbalan  Sultan  dan  Yang Di-Pertuan;
 
@@ -1876,7 +1803,7 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may transfer any functi
 
 8. (1) His  Majesty  the  Sultan  and  Yang  Di-Pertuan  shall,  so  far  as practicable, preside at meetings of the Privy Council.
 
-(2) In the absence of His Majesty the Sultan and Yang Di-Pertuan, the person who shall preside shall be in the following priority -
+(2) In the absence of His Majesty the Sultan and Yang Di-Pertuan, the person who shall preside shall be in the following priority —
 
 (a) if  such  an  appointment  has been made, the Deputy Sultan and Yang Di-Pertuan;
 
@@ -1894,6 +1821,8 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may transfer any functi
 
 ### BAHAGIAN IVA
 
+[S 65/04]
+
 ### JEMAAH PENGAMPUNAN
 
 #### Penubuhan Jemaah Pengampunan. [S 65/04; S 15/06]
@@ -1906,7 +1835,7 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may transfer any functi
 
 #### Hak Pengampunan.
 
-9. **(1)  Kebawah Duli Yang Maha Mulia Paduka Seri  Baginda  Sultan dan Yang Di-Pertuan boleh menjalankan, atas budi bicara mutlak Baginda, berhubung dengan mana-mana kesalahan yang atasnya seseorang pesalah itu boleh atau telah dibicarakan di dalam Negara Brunei Darussalam, satu atau lebih dari kuasa-kuasa yang berikut -
+9. **(1) Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan boleh menjalankan, atas budi bicara mutlak Baginda, berhubung dengan mana-mana kesalahan yang atasnya seseorang pesalah itu boleh atau telah dibicarakan di dalam Negara Brunei Darussalam, satu atau lebih dari kuasa-kuasa yang berikut —
 
 [S 65/04]
 
@@ -1926,23 +1855,25 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may transfer any functi
 
 ### PART IVA
 
+[S 65/04]
+
 ### PARDONS BOARD
 
 #### Establishment of Pardons Board. [S 65/04; S 15/06]
 
 *8A. (1) For  the  purposes  of  this  Part,  there  shall  be  established  a Pardons  Board  which  shall  consist  of  the  Attorney  General,  the  Mufti Kerajaan and not more than 3 other members.
 
-(2) The  3  other  members  shall  be  appointed  by  His  Majesty  the Sultan  and  Yang  Di-Pertuan  and  shall  hold  office  during  His  Majesty  the Sultan and Yang Di-Pertuan's pleasure.
+(2) The 3 other members shall be appointed by His Majesty the Sultan and Yang Di-Pertuan and shall hold office during His Majesty the Sultan and Yang Di-Pertuan’s pleasure.
 
 *Article 8A was not in operation at the date of this Reprint. This Article was suspended  by  the  Constitution  of  Brunei  Darussalam  (Suspension)  Order, 2006, with effect from 21st February 2006.
 
 #### Prerogative of Mercy.
 
-9. **(1) His Majesty the Sultan and Yang Di-Pertuan may exercise in his absolute discretion, in respect of any offence for which an offender may be or has been tried in Brunei Darussalam, such one or more of the following powers -
+9. **(1) His Majesty the Sultan and Yang Di-Pertuan may exercise in his absolute discretion, in respect of any offence for which an offender may be or has been tried in Brunei Darussalam, such one or more of the following powers —
 
 [S 65/04]
 
-**As at the time of this Reprint, His Majesty the Sultan and Yang Di-Pertuan has, pursuant to the Constitution of Brunei Darussalam (Suspension) Order, 2006, conferred on the Privy Council the function to advise His Majesty in connection with the exercise of His Majesty's powers under Clause (1) of Article 9 of the Constitution of Brunei Darussalam.
+**As at the time of this Reprint, His Majesty the Sultan and Yang Di-Pertuan has, pursuant to the Constitution of Brunei Darussalam (Suspension) Order, 2006, conferred on the Privy Council the function to advise His Majesty in connection with the exercise of His Majesty’s powers under Clause (1) of Article 9 of the Constitution of Brunei Darussalam.
 
 (a) grant to any person concerned in, or convicted of, any such offence a pardon either free or subject to conditions;
 
@@ -2064,7 +1995,7 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may transfer any functi
 
 #### Tenure of office and vacation of seats.
 
-12. Subject to this Constitution, every Minister shall hold his seat in the Council of Ministers during His Majesty the Sultan and Yang Di-Pertuan's pleasure.
+12. Subject to this Constitution, every Minister shall hold his seat in the Council of Ministers during His Majesty the Sultan and Yang Di-Pertuan’s pleasure.
 
 [S 65/04]
 
@@ -2090,19 +2021,19 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may transfer any functi
 
 #### Memanggil mesyuarat dan korum.
 
-16. (1) Majlis Mesyuarat Menteri-Menteri tidak boleh dipanggil bermesyuarat kecuali dengan titah perkenan Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan.
+16. (1) Majlis Mesyuarat Menteri-Menteri tidak boleh dipanggil bermesyuarat  kecuali  dengan  titah  perkenan  Kebawah  Duli  Yang  Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan.
 
-(2) Tiada sebarang urusan pun boleh dijalankan pada mana-mana mesyuarat Majlis Mesyuarat Menteri-Menteri jika Ahli-Ahli Majlis yang hadir pada mesyuarat itu, selain dari Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan atau orang lain yang mempengerusikan mesyuarat, kurang daripada 5 orang bilangannya, dan Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan atau orang lain yang mempengerusikan mesyuarat tersebut tidak bersetuju urusan tersebut dijalankan oleh kerana Ahli-Ahli yang hadir itu tidak cukup bilangannya.
+(2) Tiada  sebarang  urusan  pun  boleh  dijalankan  pada  mana-mana mesyuarat  Majlis  Mesyuarat  Menteri-Menteri  jika  Ahli-Ahli  Majlis  yang hadir  pada  mesyuarat  itu,  selain  dari  Kebawah  Duli  Yang  Maha  Mulia Paduka  Seri  Baginda  Sultan  dan  Yang  Di-Pertuan  atau  orang  lain  yang mempengerusikan  mesyuarat,  kurang  daripada  5  orang  bilangannya,  dan Kebawah Duli Yang Maha  Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan atau orang lain yang mempengerusikan mesyuarat tersebut tidak bersetuju  urusan  tersebut  dijalankan  oleh  kerana  Ahli-Ahli  yang  hadir  itu tidak cukup bilangannya.
 
 [S 65/04]
 
-(3) Majlis Mesyuarat Menteri-Menteri tidak boleh hilang kelayakannya dari menjalankan urusan disebabkan oleh sebarang kekosongan di kalangan Ahli-Ahlinya, termasuk mana-mana kekosongan yang tidak dipenuhi apabila Majlis itu mula-mula ditubuhkan atau ditubuhkan semula pada bila-bila masa; dan mana-mana mesyuarat dan keputusannya adalah sah meskipun ada orang yang tidak berhak berbuat sedemikian mengambil bahagian dalam mesyuarat itu.
+(3) Majlis Mesyuarat Menteri-Menteri tidak boleh hilang kelayakannya dari menjalankan urusan disebabkan oleh sebarang kekosongan  di  kalangan  Ahli-Ahlinya,  termasuk  mana-mana  kekosongan yang tidak dipenuhi apabila Majlis itu mula-mula ditubuhkan atau ditubuhkan  semula  pada  bila-bila  masa;  dan  mana-mana  mesyuarat  dan keputusannya  adalah  sah  meskipun  ada  orang  yang  tidak  berhak  berbuat sedemikian mengambil bahagian dalam mesyuarat itu.
 
 [S 65/04]
 
 #### Mempengerusikan Majlis Mesyuarat Menteri-Menteri.
 
-17. Jika Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan tidak hadir, maka orang yang akan mempengerusikan mesyuarat itu hendaklah Ahli Majlis Mesyuarat Menteri-Menteri yang hadir yang terdahulu dalam susunan keutamaan menurut Perkara 15.
+17. Jika  Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan tidak hadir, maka orang yang akan mempengerusikan mesyuarat itu hendaklah Ahli Majlis Mesyuarat Menteri-Menteri yang hadir yang terdahulu dalam susunan keutamaan menurut Perkara 15.
 
 [S 65/04]
 
@@ -2122,17 +2053,17 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may transfer any functi
 
 16. (1) The Council of Ministers shall not be summoned except by the authority of His Majesty the Sultan and Yang Di-Pertuan.
 
-(2) No business shall be transacted at any meeting of the Council of Ministers if there are less than 5 Members of the Council, besides His Majesty the Sultan and Yang Di-Pertuan or other person presiding, present at the meeting, and His Majesty the Sultan and Yang Di-Pertuan or other person presiding at the meeting has objected to the transaction of business on that account.
+(2) No business shall be transacted at any meeting of the Council of Ministers  if  there  are  less  than  5  Members  of  the  Council,  besides  His Majesty the Sultan and Yang Di-Pertuan or other person presiding, present at the  meeting,  and  His  Majesty  the  Sultan  and  Yang  Di-Pertuan  or  other person presiding at the meeting has objected to the transaction of business on that account.
 
 [S 65/04]
 
-(3) The Council of Ministers shall not be disqualified from the transaction of business by reason of any vacancy amongst its Members, including any vacancy not filled when that Council is first constituted or is reconstituted at any time; and any proceedings therein and decisions taken therefrom shall be valid notwithstanding that some person who was not entitled to do so took part in the proceedings.
+(3) The  Council  of  Ministers  shall  not  be  disqualified  from  the transaction  of  business  by  reason  of  any  vacancy  amongst  its  Members, including any vacancy not filled when that Council is first constituted or is reconstituted at any time; and any proceedings therein and decisions taken therefrom  shall  be  valid  notwithstanding  that  some  person  who  was  not entitled to do so took part in the proceedings.
 
 [S 65/04]
 
 #### Presiding in Council of Ministers.
 
-17. In the absence of His Majesty the Sultan and Yang Di-Pertuan, the person who shall preside shall be the Member of the Council of Ministers present who stands first in order of precedence according to Article 15.
+17. In  the  absence of His Majesty the Sultan and Yang Di-Pertuan, the person who shall preside shall be the Member of the Council of Ministers present who stands first in order of precedence according to Article 15.
 
 [S 65/04]
 
@@ -2152,7 +2083,7 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may transfer any functi
 
 [S 65/04]
 
-(3) Dengan  tidak  menghiraukan  Fasal  (1),  Kebawah  Duli  Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan adalah tidak dikehendaki  untuk  berunding  dengan  Majlis  Mesyuarat  Menteri-Menteri dalam hal-hal -
+(3) Dengan tidak menghiraukan Fasal (1), Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan adalah tidak dikehendaki untuk berunding dengan Majlis Mesyuarat Menteri-Menteri dalam hal-hal —
 
 [S 65/04]
 
@@ -2180,7 +2111,7 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may transfer any functi
 
 [S 65/04]
 
-(3) Notwithstanding  Clause  (1),  His  Majesty  the  Sultan  and  Yang Di-Pertuan  shall  not  be  obliged  to  consult  the  Council  of  Ministers  in cases -
+(3) Notwithstanding Clause (1), His Majesty the Sultan and Yang Di-Pertuan shall not be obliged to consult the Council of Ministers in cases —
 
 [S 65/04]
 
@@ -2198,7 +2129,7 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may transfer any functi
 
 [[START OF PAGE 72]]
 
-Dengan  syarat  bahawa,  dalam  setiap  hal  yang  termasuk  di  bawah perenggan (c) , Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan hendaklah, dengan seberapa segeranya, memberitahu Majlis  Mesyuarat  Menteri-Menteri  mengenai  langkah-langkah  yang  telah diambil oleh Baginda serta sebab langkah-langkah itu diambil.
+Dengan syarat bahawa, dalam setiap hal yang termasuk di bawah perenggan (c), Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan hendaklah, dengan seberapa segeranya, memberitahu Majlis Mesyuarat Menteri-Menteri mengenai langkah-langkah yang telah diambil oleh Baginda serta sebab langkah-langkah itu diambil.
 
 (4) Kebawah Duli Yang Maha Mulia Paduka Seri  Baginda  Sultan dan  Yang  Di-Pertuan  hendaklah  mempunyai  kuasa  untuk  menetapkan agenda Majlis Mesyuarat Menteri-Menteri.
 
@@ -2228,7 +2159,7 @@ Dengan  syarat  bahawa,  dalam  setiap  hal  yang  termasuk  di  bawah perenggan
 
 [[START OF PAGE 73]]
 
-Provided that, in every case falling within paragraph (c) , His Majesty the Sultan and Yang Di-Pertuan shall, as soon as practicable, inform the Council of Ministers of the measures which he has adopted with the reasons therefor.
+Provided that, in every case falling within paragraph (c), His Majesty the Sultan and Yang Di-Pertuan shall, as soon as practicable, inform the Council of Ministers of the measures which he has adopted with the reasons therefor.
 
 (4) His  Majesty  the  Sultan  and  Yang  Di-Pertuan  shall  have  the power to set the agenda of the Council of Ministers.
 
@@ -2292,7 +2223,7 @@ Provided that any person who, having previously been a Member of that Council, a
 
 #### Secretary to Council of Ministers. [S 65/04]
 
-22. (1) His Majesty the Sultan and Yang Di-Pertuan shall appoint some fit  and  proper  person  to  be  the  Secretary  to  the  Council  of  Ministers,  and such  person  shall  hold  office  during  His  Majesty  the  Sultan  and  Yang Di-Pertuan's pleasure.
+22. (1) His Majesty the Sultan and Yang Di-Pertuan shall appoint some fit and proper person to be the Secretary to the Council of Ministers, and such person shall hold office during His Majesty the Sultan and Yang Di-Pertuan’s pleasure.
 
 (2) Before entering upon the duties of the office, the Secretary shall take  and  subscribe  before  His  Majesty  the  Sultan  and  Yang  Di-Pertuan  or other Member presiding, an oath in the form set out as Form II in the First Schedule.
 
@@ -2968,7 +2899,7 @@ among the Members of the Legislative Council, shall vacate his office if he ceas
 
 (d) sebarang Rang Undang-Undang, usul, petisyen atau urusan yang  mungkin  mempunyai  kesan  merendahkan  atau  menjejaskan secara langsung atau tidak langsung hak-hak, kedudukan, budibicara, kuasa-kuasa, keistimewaan-keistimewaan, kedaulatan atau hak mutlak Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang  Di-Pertuan, Pengganti-Pengganti Baginda, Permaisuri Baginda atau ahli-ahli Kerabat Di-Raja yang lain;
 
-(e) sebarang Rang Undang-Undang, usul, petisyen atau urusan yang  mungkin  mempunyai  kesan  merendahkan  atau  menjejaskan secara  langsung  atau  tidak  langsung  kedudukan  atau  keunggulan Falsafah Negara Melayu  Islam Beraja (dikenali dalam bahasa Inggeris sebagai Malay Islamic Monarchy );
+(e) sebarang Rang Undang-Undang, usul, petisyen atau urusan yang mungkin mempunyai kesan merendahkan atau menjejaskan secara langsung atau tidak langsung kedudukan atau keunggulan Falsafah Negara Melayu Islam Beraja (dikenali dalam bahasa Inggeris sebagai Malay Islamic Monarchy);
 
 (f) sebarang Rang Undang-Undang, usul, petisyen atau urusan yang akan memperuntukkan atau secara langsung atau tidak langsung menyentuh kewangan atau matawang Negara Brunei Darussalam;
 
@@ -3064,7 +2995,7 @@ among the Members of the Legislative Council, shall vacate his office if he ceas
 
 [S 65/04]
 
-(5) Kebawah Duli Yang Maha Mulia Paduka Seri  Baginda  Sultan dan Yang Di-Pertuan, setelah menimbangkan  laporan daripada Yang Di-Pertua, boleh, walaupun terdapat ketetapan menolak tersebut, mengisytiharkan bahawa Rang Undang-Undang itu hendaklah berkuatkuasa sebagai suatu  Akta sama ada dalam bentuk ia telah dicadangkan atau dengan pindaan-pindaan  sebagaimana  yang  difikirkan  patut  oleh  Kebawah  Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, mulai dari suatu tarikh yang akan ditentukan dalam Warta Kerajaan .
+(5) Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, setelah menimbangkan laporan daripada Yang Di-Pertua, boleh, walaupun terdapat ketetapan menolak tersebut, mengisytiharkan bahawa Rang Undang-Undang itu hendaklah berkuatkuasa sebagai suatu Akta sama ada dalam bentuk ia telah dicadangkan atau dengan pindaan-pindaan sebagaimana yang difikirkan patut oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, mulai dari suatu tarikh yang akan ditentukan dalam Warta Kerajaan.
 
 [S 65/04]
 
@@ -3084,7 +3015,7 @@ among the Members of the Legislative Council, shall vacate his office if he ceas
 
 [S 65/04]
 
-(3) If, having debated a Bill, the Legislative Council resolves that the Bill shall be rejected (such resolution shall hereinafter be referred to as a “negative resolution”) then Clause (4) shall apply.
+(3) If,  having  debated  a  Bill,  the  Legislative  Council  resolves  that the Bill shall be rejected (such resolution shall hereinafter be referred to as a “negative resolution”) then Clause (4) shall apply.
 
 [S 65/04]
 
@@ -3104,7 +3035,7 @@ among the Members of the Legislative Council, shall vacate his office if he ceas
 
 #### Tempat-tempat kosong dan korum.
 
-44. (1) Majlis Mesyuarat Negara tidak akan hilang kelayakannya dari menjalankan urusan disebabkan ada kekosongan di antara Ahli-Ahlinya, termasuk sebarang kekosongan yang tidak dipenuhi ketika Majlis itu mula-mula ditubuhkan atau ditubuhkan semula pada bila-bila masa; dan sebarang persidangannya adalah sah meskipun ada orang yang tidak berhak berbuat demikian telah duduk atau mengundi dalam Majlis itu, atau pun selainnya mengambil bahagian dalam persidangannya itu.
+44. (1) Majlis  Mesyuarat  Negara  tidak  akan  hilang  kelayakannya  dari menjalankan  urusan  disebabkan  ada  kekosongan  di  antara  Ahli-Ahlinya, termasuk sebarang kekosongan yang tidak dipenuhi ketika Majlis itu mula-mula ditubuhkan atau ditubuhkan semula pada bila-bila masa; dan sebarang persidangannya adalah sah meskipun ada orang yang tidak berhak berbuat demikian telah duduk atau mengundi dalam Majlis itu, atau pun selainnya mengambil bahagian dalam persidangannya itu.
 
 [S 65/04]
 
@@ -3158,13 +3089,13 @@ among the Members of the Legislative Council, shall vacate his office if he ceas
 
 #### Gelaran kepada undang-undang dan perkataan-perkataan memperbuatnya.
 
-46. Semua undang-undang hendaklah digelar Akta dan perkataan-perkataan memperbuatnya hendaklah “Adalah diperbuat undang-undang oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan dengan nasihat dan persetujuan Majlis Mesyuarat Negara seperti berikut:”.
+46. Semua  undang-undang hendaklah digelar Akta dan perkataan-perkataan  memperbuatnya  hendaklah  “Adalah  diperbuat  undang-undang oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan dengan nasihat dan persetujuan Majlis Mesyuarat Negara seperti berikut:”.
 
 [S 65/04]
 
 #### Kuasa-kuasa yang tersimpan. [S 65/04]
 
-47. (1) Jika bagi kepentingan ketenteraman awam, kepercayaan baik atau pemerintahan yang baik bagi Negara Brunei Darussalam, atau kerana sebarang alasan lain apa pun, Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan menganggap patut bahawa sebarang Rang Undang-Undang yang dikemukakan, atau sebarang usul, petisyen atau urusan yang disyorkan di dalam Majlis Mesyuarat Negara hendaklah berkuatkuasa, jika Majlis itu tiada meluluskan Rang Undang-Undang itu atau tiada mengesahkan usul, petisyen atau urusan itu dalam masa dan dalam bentuk atau dengan cara yang difikirkan munasabah dan patut oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, maka Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan boleh, pada bila-bila masa, dengan tidak menghiraukan sebarang peruntukan Perlembagaan ini atau Peraturan-Peraturan Mesyuarat, mengisytiharkan bahawa Rang Undang-Undang atau usul, petisyen atau urusan itu mempunyai kuatkuasa seolah-olah ia telah diluluskan atau disahkan oleh Majlis itu baik dalam bentuknya sebagaimana yang telah dikemukakan atau disyorkan itu atau dengan pindaan-pindaan yang difikirkan patut oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan yang telah dicadang atau disyorkan dalam Majlis Mesyuarat Negara atau dalam mana-mana Jawatankuasanya;
+47. (1) Jika  bagi  kepentingan  ketenteraman  awam,  kepercayaan  baik atau pemerintahan yang baik bagi Negara Brunei Darussalam, atau kerana sebarang alasan lain apa pun, Kebawah Duli Yang Maha Mulia Paduka Seri Baginda  Sultan  dan  Yang  Di-Pertuan  menganggap  patut  bahawa  sebarang Rang Undang-Undang yang dikemukakan, atau sebarang usul, petisyen atau urusan  yang  disyorkan  di  dalam  Majlis  Mesyuarat  Negara  hendaklah berkuatkuasa, jika Majlis itu tiada meluluskan Rang Undang-Undang itu atau tiada  mengesahkan  usul,  petisyen  atau  urusan  itu  dalam  masa  dan  dalam bentuk atau dengan  cara yang difikirkan munasabah  dan  patut oleh Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri  Baginda  Sultan  dan  Yang Di-Pertuan,  maka  Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri  Baginda Sultan  dan  Yang  Di-Pertuan  boleh,  pada  bila-bila  masa,  dengan  tidak menghiraukan sebarang peruntukan Perlembagaan ini atau Peraturan-Peraturan Mesyuarat, mengisytiharkan bahawa Rang Undang-Undang atau usul,  petisyen  atau  urusan  itu  mempunyai  kuatkuasa  seolah-olah  ia  telah diluluskan atau disahkan oleh Majlis itu baik dalam bentuknya sebagaimana yang  telah  dikemukakan  atau  disyorkan  itu  atau  dengan  pindaan-pindaan yang  difikirkan  patut  oleh  Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri Baginda Sultan dan  Yang  Di-Pertuan  yang  telah  dicadang  atau  disyorkan dalam Majlis  Mesyuarat  Negara  atau dalam mana-mana  Jawatankuasanya;
 
 104
 
@@ -3198,7 +3129,7 @@ dan Rang Undang-Undang atau usul atau petisyen itu hendaklah selepas itu diangga
 
 #### Peraturan-Peraturan Mesyuarat.
 
-48. (1) Tertakluk kepada Perlembagaan ini, Majlis Mesyuarat Negara boleh dari masa ke semasa membuat, meminda dan membatalkan Peraturan-Peraturan Mesyuarat untuk mengatur dan menjalankan dengan sempurna mesyuarat-mesyuaratnya sendiri dan melaksanakan urusannya, termasuk kuasa untuk mengenakan hukuman.
+48. (1) Tertakluk  kepada  Perlembagaan  ini,  Majlis  Mesyuarat  Negara boleh dari masa ke semasa membuat, meminda dan membatalkan Peraturan-Peraturan  Mesyuarat  untuk  mengatur  dan  menjalankan  dengan  sempurna mesyuarat-mesyuaratnya  sendiri  dan  melaksanakan  urusannya,  termasuk kuasa untuk mengenakan hukuman.
 
 [S 65/04]
 
@@ -3206,7 +3137,7 @@ dan Rang Undang-Undang atau usul atau petisyen itu hendaklah selepas itu diangga
 
 [S 65/04]
 
-(3) Peraturan-Peraturan Mesyuarat tidak boleh digantung tanpa kebenaran daripada Yang Di-Pertua dan kebenaran sedemikian hanya boleh diberikan olehnya jika dia berpuashati bahawa penggantungan itu adalah perlu untuk melaksanakan urusan Majlis Mesyuarat Negara dengan sempurna dan cepat.
+(3) Peraturan-Peraturan Mesyuarat  tidak boleh digantung tanpa kebenaran daripada Yang Di-Pertua dan kebenaran sedemikian hanya boleh diberikan  olehnya  jika  dia  berpuashati  bahawa  penggantungan  itu  adalah perlu untuk melaksanakan urusan Majlis Mesyuarat Negara dengan sempurna dan cepat.
 
 [S 65/04]
 
@@ -3224,11 +3155,13 @@ and the Bill or motion or petition shall be deemed thereupon to have been so pas
 
 #### Standing Orders.
 
-48. (1) Subject to this Constitution, the Legislative Council may from time to time make, amend and revoke Standing Orders for the regulation and orderly conduct of its own proceedings and the dispatch of business, including the power to impose sanctions.
+48. (1) Subject to  this  Constitution,  the  Legislative  Council  may  from time to time make, amend and revoke Standing Orders for the regulation and orderly  conduct  of  its  own  proceedings  and  the  dispatch  of  business, including the power to impose sanctions.
 
 [S 65/04]
 
-(2) Repealed. [S 65/04]
+(2) Repealed.
+
+[S 65/04]
 
 (3) No Standing Order shall be suspended without the approval of the Speaker and such approval shall only be granted by him if he is satisfied that such suspension is necessary for the proper and expeditious dispatch of the business of the Legislative Council.
 
@@ -3264,19 +3197,19 @@ Dengan syarat bahawa mana-mana orang yang, sebelumnya telah menjadi seorang Ahli
 
 [[START OF PAGE 109]]
 
-(4) No Standing Orders made by the Legislative Council and no amendments, suspension or revocation of the Standing Orders shall have effect unless approved by His Majesty the Sultan and Yang Di-Pertuan.
+(4) No  Standing  Orders  made  by  the  Legislative  Council  and  no amendments,  suspension  or  revocation  of  the  Standing  Orders  shall  have effect unless approved by His Majesty the Sultan and Yang Di-Pertuan.
 
 [S 65/04]
 
 #### Oath to be taken by Members. [S 65/04]
 
-49. Every Member of the Legislative Council shall, before entering upon the duties of his office and taking his seat, take or make and subscribe before the Speaker or Deputy Speaker or other Member presiding an oath or declaration in the form set out as Form IV in the First Schedule:
+49. Every Member of the Legislative Council shall, before entering upon the duties of his office and taking his seat, take or make and subscribe before the  Speaker  or  Deputy  Speaker  or  other  Member  presiding  an  oath  or declaration in the form set out as Form IV in the First Schedule:
 
 Provided that any person who, having previously been a Member of the Legislative  Council,  again  becomes  a  Member  of  that  Council  within  one month after the termination of his previous membership thereof may enter upon the duties of his office and take his seat without again taking or making and subscribing such oath or declaration.
 
 #### Clerk to the Legislative Council. [S 65/04]
 
-50. His Majesty the Sultan and Yang Di-Pertuan shall appoint some fit and proper person to be the Clerk to the Legislative Council, and who shall hold the office during His Majesty the Sultan and Yang Di-Pertuan’s pleasure, and such person shall, before entering upon the duties of his office, take before the Speaker or other Member presiding an oath in the form set out as Form V in the First Schedule.
+50. His Majesty the Sultan and Yang Di-Pertuan shall appoint some fit and proper person to be the Clerk to the Legislative Council, and who shall hold  the  office  during  His  Majesty  the  Sultan  and  Yang  Di-Pertuan’s pleasure, and such person shall, before entering upon the duties of his office, take before the Speaker or other Member presiding an oath in the form set out as Form V in the First Schedule.
 
 #### Minutes.
 
@@ -3294,7 +3227,7 @@ Provided that any person who, having previously been a Member of the Legislative
 
 #### Persidangan-persidangan Majlis Mesyuarat Negara. [S 65/04]
 
-52. (1) Melainkan jika dititahkan selainnya oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, hendaklah diadakan Musim Permesyuaratan bagi Majlis Mesyuarat Negara sekurang-kurangnya sekali dalam setahun, tetapi jarak tempoh antara persidangan yang terakhir pada satu Musim Permesyuaratan dengan tarikh yang ditetapkan bagi persidangan pada Musim Permesyuaratan yang berikutnya hendaklah tidak melebihi dari 12 bulan.
+52. (1) Melainkan  jika  dititahkan  selainnya  oleh  Kebawah  Duli  Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, hendaklah diadakan Musim Permesyuaratan bagi Majlis Mesyuarat Negara sekurang-kurangnya  sekali  dalam  setahun,  tetapi  jarak  tempoh  antara  persidangan yang terakhir pada satu Musim  Permesyuaratan dengan tarikh yang ditetapkan bagi persidangan pada Musim Permesyuaratan yang berikutnya hendaklah tidak melebihi dari 12 bulan.
 
 [S 65/04]
 
@@ -3308,7 +3241,7 @@ Provided that any person who, having previously been a Member of the Legislative
 
 [S 65/04]
 
-(1A) Ahli Majlis Mesyuarat Negara tidaklah boleh bercakap atau membuat sebarang ulasan —
+(1A) Ahli  Majlis  Mesyuarat  Negara  tidaklah  boleh  bercakap  atau membuat sebarang ulasan —
 
 (a) yang  secara  langsung  atau  tidak  langsung  mengurangkan hak-hak, taraf, kedudukan, kuasa-kuasa, keistimewaan-keistimewaan, kedaulatan atau hak mutlak Kebawah Duli Yang Maha Mulia Paduka Seri  Baginda  Sultan  dan  Yang  Di-Pertuan,  Pengganti-Pengganti Baginda, Permaisuri Baginda atau ahli-ahli Kerabat Di-Raja yang lain atau Falsafah Negara Melayu Islam Beraja; atau
 
@@ -3414,7 +3347,7 @@ Provided that any person who, having previously been a Member of the Legislative
 
 #### Tiada cukai boleh dikenakan melainkan jika dibenarkan oleh undang-undang.
 
-56. Cukai atau cukai pintu tidak boleh dikutip oleh atau bagi maksud-maksud Negara Brunei Darussalam kecuali dengan atau menurut kuatkuasa undang-undang.
+56. Cukai  atau  cukai  pintu  tidak  boleh  dikutip  oleh  atau  bagi  maksud-maksud Negara Brunei Darussalam kecuali dengan atau menurut kuatkuasa undang-undang.
 
 #### Peruntukan Di-Raja bagi Kebawah Duli Yang Maha Mulia, Permaisuri Baginda dan Kerabat Di-Raja. [S 65/04]
 
@@ -3444,7 +3377,7 @@ Provided that any person who, having previously been a Member of the Legislative
 
 57. (1) There shall be provided by law a Civil List making provision for His  Majesty  the  Sultan  and  Yang  Di-Pertuan,  His  Consort  and  other members  of  the  Royal  Family,  which  Civil  List  shall  be  a  charge  on  the Consolidated Fund.
 
-(2) The Civil List shall be reasonable, adequate and suitable to the rank, position and dignity of His Majesty the Sultan and Yang Di-Pertuan, His Consort and other members of the Royal Family, and shall not be directly or indirectly diminished during His Majesty the Sultan and Yang Di-Pertuan’s reign.
+(2) The Civil List shall be reasonable, adequate and suitable to the rank, position and dignity of His Majesty the Sultan and Yang Di-Pertuan, His  Consort  and  other  members  of  the  Royal  Family,  and  shall  not  be directly  or  indirectly  diminished  during  His  Majesty  the  Sultan  and  Yang Di-Pertuan’s reign.
 
 (3) In assessing the Civil List, it shall not be permissible to take into account  any  income  of  His  Majesty  the  Sultan  and  Yang  Di-Pertuan,  His Consort and other members of the Royal Family which is derived from the personal  estates  and  properties  of  His  Majesty  the  Sultan  and  Yang Di-Pertuan, His Consort and other members of the Royal Family and those which are not the property of Brunei Darussalam.
 
@@ -3456,17 +3389,17 @@ Provided that any person who, having previously been a Member of the Legislative
 
 [[START OF PAGE 116]]
 
-(5) Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan boleh membatalkan, menggantung atau mengurangkan sebarang belanja santapan kepada mana-mana ahli Kerabat Di-Raja yang sepatutnya dibayar belanja santapan tersebut di bawah Perkara ini.
+(5) Kebawah Duli Yang Maha Mulia Paduka Seri  Baginda  Sultan dan Yang Di-Pertuan boleh membatalkan, menggantung atau mengurangkan sebarang  belanja  santapan  kepada  mana-mana  ahli  Kerabat  Di-Raja  yang sepatutnya dibayar belanja santapan tersebut di bawah Perkara ini.
 
 #### Kumpulanwang Yang Disatukan.
 
-58. Semua hasil dan wang walau bagaimana sekali didapati atau diterima oleh Kerajaan dari apa jua sumber pun hendaklah, tertakluk kepada Perlembagaan ini dan sebarang undang-undang bertulis, dimasukkan ke dalam dan dijadikan satu kumpulanwang yang dikenali sebagai “Kumpulanwang Yang Disatukan”.
+58. Semua hasil dan wang walau bagaimana sekali didapati atau diterima oleh Kerajaan  dari apa jua  sumber  pun  hendaklah,  tertakluk  kepada Perlembagaan  ini  dan  sebarang  undang-undang  bertulis,  dimasukkan  ke dalam dan dijadikan satu kumpulanwang yang dikenali sebagai “Kumpulanwang Yang Disatukan”.
 
 [S 65/04]
 
 #### Perbelanjaan yang dikenakan ke atas Kumpulanwang Yang Disatukan.
 
-59. (1) Hendaklah dikenakan ke atas Kumpulanwang Yang Disatukan sebagai tambahan kepada sebarang pengurniaan, saraan atau wang lain yang dikenakan oleh sebarang peruntukan Perlembagaan ini atau oleh sebarang undang-undang bertulis —
+59. (1) Hendaklah  dikenakan  ke  atas  Kumpulanwang  Yang  Disatukan sebagai tambahan kepada sebarang pengurniaan, saraan atau wang lain yang dikenakan  oleh  sebarang  peruntukan  Perlembagaan  ini  atau  oleh  sebarang undang-undang bertulis —
 
 [S 65/04]
 
@@ -3482,7 +3415,7 @@ Provided that any person who, having previously been a Member of the Legislative
 
 [S 65/04]
 
-(d) semua wang yang dikehendaki untuk membayar sebarang penghakiman, keputusan atau award terhadap Kerajaan oleh mana-mana mahkamah atau tribunal.
+(d) semua  wang  yang  dikehendaki  untuk  membayar  sebarang penghakiman,  keputusan  atau  award  terhadap  Kerajaan  oleh  mana-mana mahkamah atau tribunal.
 
 [S 65/04]
 
@@ -3496,7 +3429,7 @@ Provided that any person who, having previously been a Member of the Legislative
 
 #### Consolidated Fund.
 
-58. All revenues and moneys howsoever raised or received by the Government from whatsoever source shall, subject to this Constitution and any written law, be paid into and form one fund to be known as the “Consolidated Fund”.
+58. All  revenues  and  moneys  howsoever  raised  or  received  by  the Government from whatsoever source shall, subject to this Constitution and any  written  law,  be  paid  into  and  form  one  fund  to  be  known  as  the “Consolidated Fund”.
 
 [S 65/04]
 
@@ -3524,7 +3457,7 @@ Provided that any person who, having previously been a Member of the Legislative
 
 [[START OF PAGE 118]]
 
-(2) Bagi maksud-maksud Perkara ini, “bayaran-bayaran hutang” termasuk faedah, bayaran-bayaran kumpulanwang penjelas, pembayaran balik atau penjelasan hutang, dan semua perbelanjaan berhubung dengan mendapatkan pinjaman atas jaminan Kumpulanwang Yang Disatukan dan pembayaran perbelanjaan hutang dan penebusan hutang yang disebabkan oleh pinjaman itu.
+(2) Bagi  maksud-maksud  Perkara  ini,  “bayaran-bayaran  hutang” termasuk  faedah,  bayaran-bayaran  kumpulanwang  penjelas,  pembayaran balik  atau  penjelasan  hutang,  dan  semua  perbelanjaan  berhubung  dengan mendapatkan  pinjaman  atas  jaminan  Kumpulanwang  Yang  Disatukan  dan pembayaran  perbelanjaan  hutang  dan  penebusan  hutang  yang  disebabkan oleh pinjaman itu.
 
 [S 65/04]
 
@@ -3542,7 +3475,7 @@ Provided that any person who, having previously been a Member of the Legislative
 
 [S 65/04]
 
-(3) Wang-wang yang hendak ditunjukkan di bawah perenggan (b) Fasal (2) tidak boleh mengandungi —
+(3) Wang-wang yang hendak ditunjukkan  di  bawah  perenggan (b) Fasal (2) tidak boleh mengandungi —
 
 (a) wang-wang  yang  merupakan  pendapatan  dari  sebarang pinjaman  yang  didapatkan  oleh  Kerajaan  bagi  sebarang  maksud tertentu  dan  diperuntukkan  bagi  maksud  itu  oleh  atau  di  bawah undang-undang bertulis atau Akta yang membenarkan pinjaman itu didapatkan; dan
 
@@ -3552,7 +3485,7 @@ Provided that any person who, having previously been a Member of the Legislative
 
 [[START OF PAGE 119]]
 
-(2) For the purposes of this Article, “debt charges” include interest, sinking fund charges, the repayment or amortization of debt, and all expenditure in connection with the raising of loans on the security of the Consolidated Fund and the service and redemption of debt created thereby.
+(2) For the purposes of this Article, “debt charges” include interest, sinking  fund  charges,  the  repayment  or  amortization  of  debt,  and  all expenditure  in  connection  with  the  raising  of  loans  on  the  security  of  the Consolidated Fund and the service and redemption of debt created thereby.
 
 [S 65/04]
 
@@ -3584,13 +3517,13 @@ Provided that any person who, having previously been a Member of the Legislative
 
 [S 65/04]
 
-(4) Penyata itu hendaklah juga menunjukkan, setakat yang boleh, aset dan liabiliti Kerajaan, selain dari aset dan liabiliti Agensi Pelaburan Brunei, pada penghujung tahun kewangan yang lalu, cara bagaimana aset itu dilaburkan atau disimpan dan tajuk-tajuk am yang berkaitan dengannya liabiliti itu masih belum dijelaskan.
+(4) Penyata  itu  hendaklah  juga  menunjukkan,  setakat  yang  boleh, aset  dan  liabiliti  Kerajaan,  selain  dari  aset  dan  liabiliti  Agensi  Pelaburan Brunei, pada penghujung tahun kewangan yang lalu, cara bagaimana aset itu dilaburkan  atau  disimpan  dan  tajuk-tajuk  am  yang  berkaitan  dengannya liabiliti itu masih belum dijelaskan.
 
 [S 20/85; S 65/04]
 
 #### Rang Undang-Undang Perbekalan. [S 65/04]
 
-61. Tajuk-tajuk perbelanjaan yang hendak dijelaskan dari Kumpulanwang Yang Disatukan tetapi tidak dikenakan ke atasnya selain dari perbelanjaan yang hendak dijelaskan dengan wang-wang yang disebutkan dalam Fasal (3) Perkara 60, hendaklah dimasukkan ke dalam suatu Rang Undang-Undang, yang dikenali sebagai Rang Undang-Undang Perbekalan Tahunan, yang memperuntukkan pengeluaran dari Kumpulanwang Yang Disatukan wang-wang yang dikehendaki untuk membiayai perbelanjaan dan penggunaan wang-wang itu bagi maksud-maksud yang ditentukan dalam Rang Undang-Undang itu.
+61. Tajuk-tajuk perbelanjaan yang hendak dijelaskan dari Kumpulanwang  Yang  Disatukan  tetapi  tidak  dikenakan  ke  atasnya  selain dari perbelanjaan yang hendak dijelaskan dengan wang-wang yang disebutkan  dalam  Fasal  (3)  Perkara  60,  hendaklah  dimasukkan  ke  dalam suatu Rang Undang-Undang, yang dikenali sebagai Rang Undang-Undang Perbekalan Tahunan, yang memperuntukkan pengeluaran dari Kumpulanwang  Yang  Disatukan wang-wang  yang dikehendaki untuk membiayai  perbelanjaan  dan  penggunaan  wang-wang  itu  bagi  maksud-maksud yang ditentukan dalam Rang Undang-Undang itu.
 
 [S 65/04]
 
@@ -3644,7 +3577,7 @@ maka  suatu  Anggaran  Tambahan  yang  menunjukkan  wang-wang  yang dikehendaki 
 
 #### Kuasa  untuk  membenarkan  perbelanjaan  ke  atas  akaun  atau  bagi maksud-maksud yang tidak ditentukan.
 
-63. Majlis Mesyuarat Negara hendaklah mempunyai kuasa berhubung dengan mana-mana tahun kewangan —
+63. Majlis  Mesyuarat  Negara  hendaklah  mempunyai  kuasa  berhubung dengan mana-mana tahun kewangan —
 
 [S 65/04]
 
@@ -3730,7 +3663,7 @@ a  Supplementary  Estimate  showing  the  sums  required  or  spent  shall  be c
 
 [S 65/04]
 
-(4) Majlis Mesyuarat Negara hendaklah membuat peruntukan bagi saraan Juruaudit Agung dan saraan yang diperuntukkan itu hendaklah dikenakan ke atas Kumpulanwang Yang Disatukan.
+(4) Majlis Mesyuarat Negara hendaklah membuat peruntukan bagi saraan  Juruaudit  Agung  dan  saraan  yang  diperuntukkan  itu  hendaklah dikenakan ke atas Kumpulanwang Yang Disatukan.
 
 [S 65/04]
 
@@ -3770,7 +3703,7 @@ a  Supplementary  Estimate  showing  the  sums  required  or  spent  shall  be c
 
 [S 65/04]
 
-(3) The Auditor General shall hold office during His Majesty the Sultan and Yang Di-Pertuan’s pleasure, but he may at any time resign his office.
+(3) The  Auditor  General  shall  hold  office  during  His  Majesty  the Sultan and Yang Di-Pertuan’s pleasure, but he may at any time resign his office.
 
 [S 65/04]
 
@@ -3778,7 +3711,9 @@ a  Supplementary  Estimate  showing  the  sums  required  or  spent  shall  be c
 
 [S 65/04]
 
-(5) Repealed. [S 65/04]
+(5) Repealed.
+
+[S 65/04]
 
 125
 
@@ -3828,15 +3763,15 @@ a  Supplementary  Estimate  showing  the  sums  required  or  spent  shall  be c
 
 #### Powers and duties of Auditor General.
 
-67. (1) The accounts of Brunei Darussalam shall, subject to this Constitution and any written law, be audited and reported upon by the Auditor General, who, with his subordinate staff, shall at all times be entitled to have access to all books, records, returns and reports relating to such accounts.
+67. (1) The  accounts of Brunei Darussalam  shall, subject to this Constitution  and  any  written  law,  be  audited  and  reported  upon  by  the Auditor General, who, with his subordinate staff, shall at all times be entitled to  have  access  to  all  books,  records,  returns  and  reports  relating  to  such accounts.
 
 [S 65/04]
 
-(2) The Auditor General shall perform such other duties and exercise such powers in relation to the accounts of Brunei Darussalam and to the accounts of other public authorities and bodies administering public funds as may be provided by any written law.
+(2) The Auditor General shall perform such other duties and exercise such  powers  in  relation  to  the  accounts  of  Brunei  Darussalam  and  to  the accounts of other public authorities and bodies administering public funds as may be provided by any written law.
 
 #### Reports of Auditor General.
 
-68. The Auditor General shall submit his reports to His Majesty the Sultan and Yang Di-Pertuan who may cause the reports to be laid before the Legislative Council.
+68. The  Auditor  General  shall  submit  his  reports  to  His  Majesty  the Sultan and Yang Di-Pertuan who may cause the reports to be laid before the Legislative Council.
 
 [S 65/04]
 
@@ -3912,9 +3847,7 @@ a  Supplementary  Estimate  showing  the  sums  required  or  spent  shall  be c
 
 (4) His Majesty the Sultan and Yang Di-Pertuan may grant leave of absence from his duties to any member of the Public Service Commission, and may appoint a person to be a temporary member for the period of such leave.
 
-(5) The procedure of the Public Service Commission shall, subject to any regulations made under Article 75, be as determined by the Commission.
-
-[S 65/04]
+(5) The procedure of the Public Service Commission shall, subject to any regulations made under Article 75, be as determined by the Commission. [S 65/04]
 
 (6) For the purposes of the Penal Code (Chapter 22), a member of the Public Service Commission shall be deemed to be a public servant.
 
@@ -3934,9 +3867,7 @@ a  Supplementary  Estimate  showing  the  sums  required  or  spent  shall  be c
 
 #### Gaji ahli Suruhanjaya Perkhidmatan Awam.
 
-73. Tiap-tiap orang yang dilantik menjadi ahli Suruhanjaya Perkhidmatan Awam hendaklah dibayar suatu gaji atau elaun-elaun, atau kedua-duanya, sebagaimana yang mungkin ditetapkan oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan; dan semua gaji dan elaun tersebut hendaklah dikenakan ke atas Kumpulanwang Yang Disatukan.
-
-[S 65/04]
+73. Tiap-tiap orang yang dilantik menjadi ahli Suruhanjaya Perkhidmatan Awam hendaklah dibayar suatu gaji atau elaun-elaun, atau kedua-duanya, sebagaimana yang mungkin ditetapkan oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan; dan semua gaji dan elaun tersebut hendaklah dikenakan ke atas Kumpulanwang Yang Disatukan. [S 65/04]
 
 #### Lantikan dalam perkhidmatan awam.
 
@@ -3956,7 +3887,7 @@ a  Supplementary  Estimate  showing  the  sums  required  or  spent  shall  be c
 
 [S 65/04]
 
-(a) perjalanan mana-mana tugas Suruhanjaya Perkhidmatan Awam; atau
+(a) perjalanan  mana-mana  tugas  Suruhanjaya  Perkhidmatan Awam; atau
 
 130
 
@@ -3996,13 +3927,13 @@ a  Supplementary  Estimate  showing  the  sums  required  or  spent  shall  be c
 
 [[START OF PAGE 132]]
 
-(b) perjalanan oleh Suruhanjaya Perkhidmatan Awam atau oleh mana-mana orang, tertakluk kepada syarat-syarat yang mungkin ditetapkan, mana-mana kuasa yang terletak dalam tangan Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan oleh Perkara 74 dan boleh memperuntukkan selanjutnya bahawa mana-mana orang itu hendaklah bebas dari sekatan yang dikenakan oleh Fasal (2) Perkara 74.
+(b) perjalanan oleh Suruhanjaya Perkhidmatan Awam atau oleh mana-mana  orang,  tertakluk  kepada  syarat-syarat  yang  mungkin ditetapkan,  mana-mana kuasa yang terletak dalam tangan Kebawah Duli  Yang  Maha  Mulia  Paduka  Seri  Baginda  Sultan  dan  Yang Di-Pertuan oleh Perkara 74 dan boleh memperuntukkan selanjutnya bahawa  mana-mana  orang  itu  hendaklah  bebas  dari  sekatan  yang dikenakan oleh Fasal (2) Perkara 74.
 
 [S 65/04]
 
 #### Kebawah Duli Yang Maha Mulia menghendaki pengangkatan sumpah. [S 65/04]
 
-76. Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan boleh, apabila difikirkan patut oleh Baginda, menghendaki mana-mana orang dalam perkhidmatan awam Negara Brunei Darussalam mengangkat atau membuat di hadapan Baginda atau orang yang mungkin dilantik oleh Baginda, suatu sumpah atau pengakuan taat setia dalam bentuk yang dinyatakan sebagai Borang VI di dalam Jadual Pertama.
+76. Kebawah Duli  Yang  Maha  Mulia  Paduka  Seri  Baginda  Sultan  dan Yang Di-Pertuan boleh, apabila difikirkan patut oleh Baginda, menghendaki mana-mana  orang  dalam  perkhidmatan  awam  Negara  Brunei  Darussalam mengangkat atau membuat di hadapan Baginda atau orang yang mungkin dilantik oleh Baginda, suatu sumpah atau pengakuan taat setia dalam bentuk yang dinyatakan sebagai Borang VI di dalam Jadual Pertama.
 
 [S 65/04]
 
@@ -4018,7 +3949,7 @@ a  Supplementary  Estimate  showing  the  sums  required  or  spent  shall  be c
 
 #### Mohor Kerajaan. [S 65/04]
 
-79. Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan hendaklah menyimpan dan menggunakan Mohor Kerajaan bagi memeterai segala barang apa pun jua yang perlu dimeterai dengan Mohor Kerajaan itu.
+79. Kebawah Duli  Yang  Maha  Mulia  Paduka  Seri  Baginda  Sultan  dan Yang Di-Pertuan hendaklah menyimpan dan menggunakan Mohor Kerajaan bagi  memeterai  segala  barang  apa  pun  jua  yang  perlu  dimeterai  dengan Mohor Kerajaan itu.
 
 [S 65/04]
 
@@ -4170,13 +4101,13 @@ Provided that, except in so far as may be necessary to give effect to the provis
 
 [S 65/04]
 
-(5) Suatu Perintah yang dibuat di bawah Perkara ini boleh dipinda atau dibatalkan oleh satu Perintah selanjutnya dan boleh diberikan kuatkuasa secara  kebelakangan  pada  suatu  tarikh  yang  tidak  lebih  awal  dari  tarikh Perlembagaan ini disiarkan dalam Warta Kerajaan .
+(5) Suatu Perintah yang dibuat di bawah Perkara ini boleh dipinda atau dibatalkan oleh satu Perintah selanjutnya dan boleh diberikan kuatkuasa secara kebelakangan pada suatu tarikh yang tidak lebih awal dari tarikh Perlembagaan ini disiarkan dalam Warta Kerajaan.
 
 [S 65/04]
 
 #### Peguam Negara dan tugas-tugasnya. [S 65/04]
 
-81. (1) Hendaklah ada seorang Peguam Negara yang akan dilantik oleh Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri  Baginda  Sultan  dan  Yang Di-Pertuan dengan kenyataan yang disiarkan dalam Warta Kerajaan .
+81. (1) Hendaklah ada seorang Peguam Negara yang akan dilantik oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan dengan kenyataan yang disiarkan dalam Warta Kerajaan.
 
 (2) Peguam Negara hendaklah menasihatkan tentang segala perkara undang-undang  yang  berhubungkait  dengan  hal  ehwal  Negara  Brunei Darussalam  yang  dirujukkan  kepadanya  oleh  Kebawah  Duli  Yang  Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan atau oleh Kerajaan.
 
@@ -4204,7 +4135,7 @@ Provided that, except in so far as may be necessary to give effect to the provis
 
 #### Attorney General and his functions. [S 65/04]
 
-81. (1) There shall be an Attorney General who shall be appointed by His Majesty the Sultan and Yang Di-Pertuan by notification published in the Gazette .
+81. (1) There shall be an Attorney General who shall be appointed by His Majesty the Sultan and Yang Di-Pertuan by notification published in the Gazette.
 
 (2) The Attorney General shall advise on all legal matters connected with the affairs  of  Brunei  Darussalam referred  to  him  by  His  Majesty  the Sultan and Yang Di-Pertuan or by the Government.
 
@@ -4285,6 +4216,7 @@ Provided that, except in so far as may be necessary to give effect to the provis
 [S 65/04]
 
 (4) Tanpa menjejaskan keluasan makna Fasal (3), Perintah-Perintah sedemikian boleh dibuat berhubung dengan sebarang perkara yang termasuk dalam jenis-jenis perkara yang disebutkan satu persatu selepas ini, iaitu —
+
 [S 65/04]
 
 (a) penapisan, kawalan dan penahanan penerbitan-penerbitan, tulisan-tulisan, peta-peta, pelan-pelan, gambar-gambar, perhubungan-perhubungan dan alat-alat perhubungan;
@@ -4471,7 +4403,7 @@ Provided that if, while a Proclamation of Emergency is in force in any part of  
 
 83A. (1) Adalah dengan ini diisytiharkan bagi mengelakkan kewahaman bahawa setiap undang-undang yang ada termasuk —
 
-(a) tiap-tiap satu Pemasyhuran Darurat yang mengisytiharkan suatu keadaan Darurat di dalam Negara Brunei Darussalam yang dibuat di bawah Perkara 83, bermula dengan Pemasyhuran Darurat yang dibuat pada 12hb Disember 1962 dan selepas itu tiap-tiap 2 tahun dan berakhir dengan Pemasyhuran Darurat yang dibuat pada 16 haribulan Muharram Tahun Hijrah 1425 bersamaan dengan 8 haribulan Mac 2004; dan
+(a) tiap-tiap  satu  Pemasyhuran  Darurat  yang  mengisytiharkan suatu  keadaan  Darurat  di  dalam  Negara  Brunei  Darussalam  yang dibuat  di  bawah  Perkara  83,  bermula  dengan  Pemasyhuran  Darurat yang  dibuat  pada  12hb  Disember  1962  dan  selepas  itu  tiap-tiap  2 tahun dan berakhir dengan Pemasyhuran Darurat yang dibuat pada 16 haribulan Muharram  Tahun Hijrah 1425 bersamaan dengan 8 haribulan Mac 2004; dan
 
 (b) tiap-tiap satu Perintah, Surat Perintah, Akta, Undang-Undang atau undang-undang bertulis lain yang dibuat di bawah Perkara 83 sepanjang tempoh darurat yang tersebut itu,
 
@@ -4607,7 +4539,7 @@ Provided that, subject to Article 84C, provision may be made by written law for 
 
 [[START OF PAGE 154]]
 
-(d) mana-mana  guaman  atau  tindakan  lain  berhubung  dengan atau berbangkit dari apa-apa perbuatan, keputusan, pemberian, pembatalan atau penggantungan, atau keengganan atau peninggalan daripada berbuat demikian, sebarang perjalanan atau keengganan atau peninggalan  daripada  menjalankan  sebarang  kuasa,  autoriti  atau budibicara yang diberikan kepada Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, atau mana-mana pihak yang bertindak bagi pihak Baginda atau dengan titah perkenan Baginda atau dalam melaksanakan sebarang tugas awam, di bawah peruntukan-peruntukan  Perlembagaan  ini  atau  sebarang  undang-undang bertulis atau pun selainnya.
+(d) mana-mana guaman atau tindakan lain berhubung dengan atau berbangkit dari apa-apa perbuatan, keputusan, pemberian, pembatalan atau penggantungan, atau keengganan atau peninggalan daripada berbuat demikian, sebarang perjalanan atau keengganan atau peninggalan daripada menjalankan sebarang kuasa, autoriti atau budibicara yang diberikan kepada Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, atau mana-mana pihak yang bertindak bagi pihak Baginda atau dengan titah perkenan Baginda atau dalam melaksanakan sebarang tugas awam, di bawah peruntukan-peruntukan Perlembagaan ini atau sebarang undang-undang bertulis atau pun selainnya.
 
 (4) Kecuali sebagaimana yang diperuntukkan dalam Perlembagaan ini, Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan tidak boleh  dikehendaki untuk memberi sebarang alasan kerana apa-apa perbuatan, keputusan, pemberian, pembatalan atau penggantungan, atau  keengganan  atau  peninggalan  daripada  berbuat  demikian,  sebarang perjalanan atau keengganan atau peninggalan daripada menjalankan sebarang  kuasa,  autoriti  atau  budibicara  di  bawah  peruntukan-peruntukan Perlembagaan ini atau sebarang undang-undang bertulis atau pun selainnya.
 
@@ -4623,7 +4555,7 @@ Provided that, subject to Article 84C, provision may be made by written law for 
 
 #### Pindaan Perlembagaan.
 
-85. (1) Kebawah Duli Yang Maha Mulia Paduka Seri  Baginda  Sultan dan  Yang  Di-Pertuan  boleh,  dengan  Pemasyhuran,  meminda,  menambah atau membatalkan sebarang peruntukan Perlembagaan ini termasuk Perkara ini;  dan  Perlembagaan  ini  tidak  boleh  dipinda,  ditambah  atau  dibatalkan dengan cara lain.
+85. (1) Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan boleh, dengan Pemasyhuran, meminda, menambah atau membatalkan sebarang peruntukan Perlembagaan ini termasuk Perkara ini; dan Perlembagaan ini tidak boleh dipinda, ditambah atau dibatalkan dengan cara lain.
 
 [S 65/04]
 
@@ -4649,7 +4581,7 @@ Provided that, subject to Article 84C, provision may be made by written law for 
 
 #### Amendment of Constitution.
 
-85. (1) His Majesty the Sultan and Yang Di-Pertuan may, by Proclamation,  amend,  add  to  or  revoke  any  of  the  provisions  of  this Constitution including this Article; and this Constitution shall not otherwise be amended, added to or revoked.
+85. (1) His Majesty the Sultan and Yang Di-Pertuan may, by Proclamation, amend, add to or revoke any of the provisions of this Constitution including this Article; and this Constitution shall not otherwise be amended, added to or revoked.
 
 [S 65/04]
 
@@ -4671,7 +4603,7 @@ Provided that, subject to Article 84C, provision may be made by written law for 
 
 [S 65/04]
 
-(5) Kebawah Duli Yang Maha Mulia Paduka Seri  Baginda  Sultan dan Yang Di-Pertuan setelah memberi pertimbangan kepada laporan Yang Di-Pertua boleh mengisytiharkan bahawa Pemasyhuran itu hendaklah berkuatkuasa di bawah Fasal (1) sama ada dalam bentuk ia telah dibentangkan  di  hadapan  Majlis  Mesyuarat  Negara  atau  dengan  pindaan-pindaan sebagaimana yang difikirkan patut oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan.
+(5) Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan setelah memberi pertimbangan kepada laporan Yang Di-Pertua boleh mengisytiharkan bahawa Pemasyhuran itu hendaklah berkuatkuasa di bawah Fasal (1) sama ada dalam bentuk ia telah dibentangkan di hadapan Majlis Mesyuarat Negara atau dengan pindaan-pindaan sebagaimana yang difikirkan patut oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan.
 
 [S 65/04]
 
@@ -4719,7 +4651,7 @@ Dengan  syarat  bahawa  mahkamah  itu  tidak  boleh  merujukkan  perkara tersebu
 
 [S 65/04]
 
-(4) Keputusan dari kebanyakan ahli Tribunal Tafsiran ke atas apa jua perkara yang dirujukkan kepadanya  di bawah  Perkara ini hendaklah dianggap sebagai suatu keputusan Tribunal itu; dan mana-mana keputusan Tribunal itu hendaklah dibuat secara bertulis dan hendaklah disiarkan dalam Warta Kerajaan, dan boleh dibuktikan dalam mahkamah dengan menunjukkan Warta Kerajaan itu.
+(4) Keputusan dari kebanyakan ahli Tribunal Tafsiran ke atas apa jua perkara yang dirujukkan kepadanya di bawah Perkara ini hendaklah dianggap sebagai suatu keputusan Tribunal itu; dan mana-mana keputusan Tribunal itu hendaklah dibuat secara bertulis dan hendaklah disiarkan dalam Warta Kerajaan, dan boleh dibuktikan dalam mahkamah dengan menunjukkan Warta Kerajaan itu.
 
 [S 65/04]
 
@@ -4741,11 +4673,11 @@ Provided that the court shall not refer such question which has already been dec
 
 [S 65/04]
 
-(3) If  His  Majesty  the  Sultan  and  Yang  Di-Pertuan  does  not  refer such  question  to  the  Interpretation  Tribunal,  he  shall  cause  the  court  by whom the reference thereof was made to be so informed, and the court shall thereupon proceed with the determination of the legal proceedings before it.
+(3) If His Majesty the Sultan and Yang Di-Pertuan does not refer such question to the Interpretation Tribunal, he shall cause the court by whom the reference thereof was made to be so informed, and the court shall thereupon proceed with the determination of the legal proceedings before it.
 
 [S 65/04]
 
-(4) The decision  of  a  majority  of  the  Interpretation  Tribunal  upon any question referred to it under this Article shall be deemed to be a decision of the Tribunal; and any decision of the Tribunal shall be in writing and shall be published in the Gazette, and may be proved by production of the Gazette.
+(4) The decision of a majority of the Interpretation Tribunal upon any question referred to it under this Article shall be deemed to be a decision of the Tribunal; and any decision of the Tribunal shall be in writing and shall be published in the Gazette, and may be proved by production of the Gazette.
 
 [S 65/04]
 
@@ -4763,9 +4695,9 @@ Provided that the court shall not refer such question which has already been dec
 
 [S 65/04]
 
-(7) Tribunal  Tafsiran  hendaklah  terdiri  daripada 3  orang ahli —
+(7) Tribunal Tafsiran hendaklah terdiri daripada 3 orang ahli —
 
-(a) seorang Pengerusi yang merupakan orang yang memegang atau telah memegang jawatan kehakiman yang tinggi di mana-mana negara,  atau  telah  menjalankan  amalan  undang-undang  sekurang-kurangnya selama 20 tahun di mana-mana negara;
+(a) seorang Pengerusi yang merupakan orang yang memegang atau telah memegang jawatan kehakiman yang tinggi di mana-mana negara, atau telah menjalankan amalan undang-undang sekurang-kurangnya selama 20 tahun di mana-mana negara;
 
 (b) seorang ahli yang merupakan orang yang telah menjalankan amalan  undang-undang  sekurang-kurangnya  selama  10  tahun  di mana-mana negara; dan
 
@@ -4791,13 +4723,13 @@ Pengerusi dan ahli-ahli lain itu hendaklah dilantik oleh Kebawah Duli Yang Maha 
 
 (7) The Interpretation Tribunal shall consist of 3 members —
 
-(a) a  Chairman who shall be a person who holds or has held high judicial office in any country, or has for at least 20 years been engaged in legal practice in any country;
+(a) a Chairman who shall be a person who holds or has held high judicial office in any country, or has for at least 20 years been engaged in legal practice in any country;
 
 (b) one member who shall be a person who has for at least 10 years been engaged in legal practice in any country; and
 
 (c) one member who shall be a person from any country who professes the Islamic Religion who holds or has held office in Islamic law or is an expert in Islamic law and jurisprudence.
 
-The  Chairman  and  other  members  shall  be  appointed  by  His  Majesty  the Sultan and Yang Di-Pertuan by Instrument under the State Seal, and shall hold office during His Majesty the Sultan and Yang Di-Pertuan’s pleasure.
+The Chairman and other members shall be appointed by His Majesty the Sultan and Yang Di-Pertuan by Instrument under the State Seal, and shall hold office during His Majesty the Sultan and Yang Di-Pertuan’s pleasure.
 
 [S 65/04]
 
@@ -4851,6 +4783,8 @@ The  Chairman  and  other  members  shall  be  appointed  by  His  Majesty  the 
 
 [[START OF PAGE 164]]
 
+_________________________________________________________________________
+
 #### JADUAL PERTAMA
 
 [S 65/04]
@@ -4889,6 +4823,8 @@ Tandatangan
 [[END OF PAGE 164]]
 
 [[START OF PAGE 165]]
+
+_________________________________________________________________________
 
 #### FIRST SCHEDULE
 
@@ -4929,6 +4865,8 @@ Signature
 
 [[START OF PAGE 166]]
 
+_________________________________________________________________________
+
 ###### BORANG II
 
 [S 65/04]
@@ -4940,13 +4878,17 @@ Signature
 WALLAHI WA-BILLAHI WA-TAALLAHI
 
 Saya, …………………..…...……..….........… setelah dilantik menjadi
-Jurutulis¹ Majlis Mesyuarat Di-Raja¹
+Jurutulis¹
+Setiausaha¹
 kepada
-Setiausaha¹ Majlis Mesyuarat Menteri-Menteri Kabinet¹
+Majlis Mesyuarat Di-Raja¹
+Majlis Mesyuarat Menteri-Menteri Kabinet¹
 bersumpah dengan nama ALLAH Yang Maha Kuasa bahawa saya tidak akan memberitahu secara langsung atau tidak langsung perkara-perkara yang akan dibahaskan dalam Majlis itu dan dirahsiakan kepada saya, sebaliknya saya akan berkhidmat dengan sebaiknya dan sebenarnya dalam jawatan tersebut sebagai
-Jurutulis¹ Majlis Mesyuarat Di-Raja¹
+Jurutulis¹
+Setiausaha¹
 kepada
-Setiausaha¹ Majlis Mesyuarat Menteri-Menteri Kabinet¹
+Majlis Mesyuarat Di-Raja¹
+Majlis Mesyuarat Menteri-Menteri Kabinet¹
 
 Bertarikh pada hari ini ………. haribulan ……………………. 20 …....
 
@@ -4962,6 +4904,8 @@ Tandatangan
 
 [[START OF PAGE 167]]
 
+_________________________________________________________________________
+
 ###### FORM II
 
 [S 65/04]
@@ -4973,13 +4917,17 @@ Tandatangan
 WALLAHI WA-BILLAHI WA-TAALLAHI
 
 I, ………………………..................................... having been appointed
-Clerk¹ Privy Council¹
+Clerk¹
+Secretary¹
 to the
-Secretary¹ Council of Ministers¹
+Privy Council¹
+Council of Ministers¹
 swear by Almighty ALLAH that I will not directly or indirectly reveal such matters as shall be debated in the Council and committed to my secrecy but that I will well and truly serve in the said office as
-Clerk¹ Privy Council¹
+Clerk¹
+Secretary¹
 to the
-Secretary¹ Council of Ministers¹
+Privy Council¹
+Council of Ministers¹
 
 Dated this ………………… day of …...…………........…….. 20 .…....
 
@@ -4994,6 +4942,8 @@ Signature
 [[END OF PAGE 167]]
 
 [[START OF PAGE 168]]
+
+_________________________________________________________________________
 
 ###### BORANG III
 
@@ -5032,6 +4982,8 @@ Tandatangan
 
 [[START OF PAGE 169]]
 
+_________________________________________________________________________
+
 ###### FORM III
 
 (Article 21)
@@ -5069,6 +5021,8 @@ Signature
 
 [[START OF PAGE 170]]
 
+_________________________________________________________________________
+
 ###### BORANG IV
 
 (Perkara 49)
@@ -5105,6 +5059,8 @@ Tandatangan
 [[END OF PAGE 170]]
 
 [[START OF PAGE 171]]
+
+_________________________________________________________________________
 
 ###### FORM IV
 
@@ -5203,6 +5159,8 @@ Signature
 
 [[START OF PAGE 174]]
 
+_________________________________________________________________________
+
 ###### BORANG VI
 
 (Perkara 76)
@@ -5237,6 +5195,8 @@ Tandatangan
 [[END OF PAGE 174]]
 
 [[START OF PAGE 175]]
+
+_________________________________________________________________________
 
 ###### FORM VI
 
@@ -5329,7 +5289,7 @@ Signature
 
 [[START OF PAGE 178]]
 
-(b) sehingga  15  orang  wakil,  bilangan  sebenarnya  hendaklah ditentukan  oleh  Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri Baginda  Sultan  dan  Yang  Di-Pertuan,  dari  Daerah  Brunei  Muara, Daerah  Belait,  Daerah  Tutong  dan  Daerah  Temburong  yang  akan dipilih menurut undang-undang berkenaan dengan pilihan raya yang berkuatkuasa di dalam Negara Brunei Darussalam.
+(b) sehingga 15 orang wakil, bilangan sebenarnya hendaklah ditentukan oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, dari Daerah Brunei Muara, Daerah Belait, Daerah Tutong dan Daerah Temburong yang akan dipilih menurut undang-undang berkenaan dengan pilihan raya yang berkuatkuasa di dalam Negara Brunei Darussalam.
 
 ##### Surat Perintah lantikan.
 
@@ -5359,7 +5319,7 @@ Signature
 
 [[START OF PAGE 179]]
 
-(b) up to 15 representatives, the exact number of which shall be determined  by  His  Majesty  the  Sultan  and  Yang  Di-Pertuan,  from Brunei  and  Muara  District,  Belait  District,  Tutong  District  and Temburong District who shall be elected in accordance with the laws relating to elections in force in Brunei Darussalam.
+(b) up to 15 representatives, the exact number of which shall be determined by His Majesty the Sultan and Yang Di-Pertuan, from Brunei and Muara District, Belait District, Tutong District and Temburong District who shall be elected in accordance with the laws relating to elections in force in Brunei Darussalam.
 
 ##### Instrument of appointment.
 
@@ -6078,9 +6038,9 @@ tuntutan-tuntutan  yang  sama  kuatnya,  maka  bermakna isteri yang Kebawah Duli
 
 [S 49/04]
 
-Dengan syarat selanjutnya bahawa -
+Dengan syarat selanjutnya bahawa —
 
-(i) mana-mana isteri tidak boleh menjadi atau tidaklah boleh dianggap sebagai Permaisuri Kebawah  Duli  Yang  Maha  Mulia  Paduka Seri  Baginda  Sultan  dan  Yang  Di-Pertuan melainkan jika dia menganut Ugama Islam dan Kebawah Duli Yang Maha  Mulia Paduka Seri Baginda Sultan  dan  Yang Di-Pertuan  telah,  dengan Pemasyhuran yang disiarkan dalam Warta Kerajaan , memasyhurkannya sebagai Permaisuri Kebawah  Duli  Yang  Maha  Mulia  Paduka Seri Baginda Sultan dan Yang Di-Pertuan; dan
+(i) mana-mana isteri tidak boleh menjadi atau tidaklah boleh dianggap sebagai Permaisuri Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan melainkan jika dia menganut Ugama Islam dan Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan telah, dengan Pemasyhuran yang disiarkan dalam Warta Kerajaan, memasyhurkannya sebagai Permaisuri Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan; dan
 
 [S 49/04; S 16/06]
 
@@ -6106,9 +6066,9 @@ with equal claims, then of those wives, the wife whom His Majesty  the  Sultan  
 
 [S 49/04]
 
-Provided further that -
+Provided further that —
 
-(i) no wife shall be or deemed to be a Consort of His Majesty the Sultan and Yang Di-Pertuan unless she professes the Islamic Religion  and  His  Majesty  the  Sultan  and Yang Di-Pertuan has, by Proclamation published in the Gazette , proclaimed her as a  Consort  of  His  Majesty  the  Sultan  and Yang Di-Pertuan; and
+(i) no wife shall be or deemed to be a Consort of His Majesty the Sultan and Yang Di-Pertuan unless she professes the Islamic Religion and His Majesty the Sultan and Yang Di-Pertuan has, by Proclamation published in the Gazette, proclaimed her as a Consort of His Majesty the Sultan and Yang Di-Pertuan; and
 
 [S 49/04; S 16/06]
 
@@ -6340,11 +6300,11 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may from time to time, 
 
 (3) Maka adalah dengan ini diisytiharkan bahawa setelah Duli Yang Teramat Mulia Paduka Seri Pengiran Muda Mahkota Pengiran Muda Haji Al-Muhtadee  Billah  ibni  Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri Baginda  Sultan  Haji  Hassanal  Bolkiah  Mu'izzaddin  Waddaulah  menaiki takhta atau atas apa-apa alasan pun tidak dapat menduduki takhta Kerajaan Negara  Brunei  Darussalam,  putera  tertua  yang  sah  kepadanya  adalah Pengganti  yang  sah  untuk  menduduki  takhta  Kerajaan  Negara  Brunei Darussalam, dan selepas itu, hak untuk menduduki takhta Kerajaan Negara Brunei  Darussalam  hendaklah  diturunkan  kepada  putera  tertua  yang  sah kepada Pengganti yang sah itu dan setiap Pengganti kemudiannya yang sah. [S 79/04]
 
-(4) Sekiranya Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan  Haji  Hassanal  Bolkiah  Mu'izzaddin  Waddaulah  ibni  Al-Marhum Sultan  Haji  Omar  'Ali  Saifuddien  Sa'adul  Khairi  Waddien  tidak  lagi menduduki  takhta  Kerajaan  Negara  Brunei  Darussalam,  dan  Duli  Yang Teramat Mulia Paduka Seri Pengiran Muda Mahkota Pengiran Muda Haji Al-Muhtadee  Billah  ibni  Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri Baginda Sultan Haji Hassanal Bolkiah Mu'izzaddin Waddaulah atas apa-apa alasan pun tidak dapat menaiki takhta, atau setelah menaiki takhta tidak lagi menduduki takhta Kerajaan Negara Brunei Darussalam tanpa meninggalkan Pengganti yang sah, maka Pengganti Baginda akan dipilih -
+(4) Sekiranya Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan Haji Hassanal Bolkiah Mu’izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar ‘Ali Saifuddien Sa’adul Khairi Waddien tidak lagi menduduki takhta Kerajaan Negara Brunei Darussalam, dan Duli Yang Teramat Mulia Paduka Seri Pengiran Muda Mahkota Pengiran Muda Haji Al-Muhtadee Billah ibni Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan Haji Hassanal Bolkiah Mu’izzaddin Waddaulah atas apa-apa alasan pun tidak dapat menaiki takhta, atau setelah menaiki takhta tidak lagi menduduki takhta Kerajaan Negara Brunei Darussalam tanpa meninggalkan Pengganti yang sah, maka Pengganti Baginda akan dipilih —
 
 [S 79/04]
 
-(a) pertamanya,  dari  Waris-Waris  yang  sah  kepada  Kebawah Duli  Yang  Maha  Mulia  Paduka  Seri  Baginda  Sultan  Haji  Hassanal Bolkiah Mu'izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar 'Ali  Saifuddien  Sa'adul  Khairi  Waddien  mengikut  susunan  yang berikut -
+(a) pertamanya, dari Waris-Waris yang sah kepada Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan Haji Hassanal Bolkiah Mu’izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar ‘Ali Saifuddien Sa’adul Khairi Waddien mengikut susunan yang berikut —
 
 (i) Yang Teramat Mulia Paduka Seri Duli Pengiran Muda Haji  'Abdul  Azim  ibni  Kebawah  Duli  Yang  Maha Mulia  Paduka  Seri  Baginda  Sultan  Haji  Hassanal Bolkiah Mu'izzaddin Waddaulah, dan setelah menaiki takhta atau atas apa-apa alasan pun tidak dapat menaiki takhta  Kerajaan  Negara  Brunei  Darussalam,  putera tertua yang sah kepadanya adalah Pengganti yang sah untuk menduduki  takhta Kerajaan Negara Brunei Darussalam,  dan  selepas  itu,  hak  untuk  menduduki takhta Kerajaan Negara Brunei Darussalam hendaklah diturunkan  kepada  putera  tertua  yang  sah  kepada Pengganti yang sah itu dan setiap Pengganti kemudiannya yang sah;
 
@@ -6360,11 +6320,11 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may from time to time, 
 
 [S 79/04]
 
-(4) In  the  event  that  His  Majesty  Sultan  Haji  Hassanal  Bolkiah Mu'izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar 'Ali Saifuddien Sa'adul Khairi Waddien ceases to occupy the throne of Brunei Darussalam, and  Duli  Yang  Teramat  Mulia  Paduka  Seri  Pengiran  Muda  Mahkota Pengiran  Muda  Haji  Al-Muhtadee  Billah  ibni  Kebawah  Duli  Yang  Maha Mulia  Paduka  Seri  Baginda  Sultan  Haji  Hassanal  Bolkiah  Mu'izzaddin Waddaulah for any reason whatsoever being unable to ascend to, or having ascended  to  ceasing  to  occupy,  the  throne  of  Brunei  Darussalam  without leaving a lawful Successor, the succession thereto is hereby vested -
+(4) In the event that His Majesty Sultan Haji Hassanal Bolkiah Mu’izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar ‘Ali Saifuddien Sa’adul Khairi Waddien ceases to occupy the throne of Brunei Darussalam, and Duli Yang Teramat Mulia Paduka Seri Pengiran Muda Mahkota Pengiran Muda Haji Al-Muhtadee Billah ibni Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan Haji Hassanal Bolkiah Mu’izzaddin Waddaulah for any reason whatsoever being unable to ascend to, or having ascended to ceasing to occupy, the throne of Brunei Darussalam without leaving a lawful Successor, the succession thereto is hereby vested —
 
 [S 79/04]
 
-(a) first, in the lawful Heirs of the body of His Majesty Sultan Haji  Hassanal  Bolkiah  Mu'izzaddin  Waddaulah  ibni  Al-Marhum Sultan  Haji  Omar  'Ali  Saifuddien  Sa'adul  Khairi  Waddien  in  the following order -
+(a) first, in the lawful Heirs of the body of His Majesty Sultan Haji Hassanal Bolkiah Mu’izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar ‘Ali Saifuddien Sa’adul Khairi Waddien in the following order —
 
 (i) Yang Teramat Mulia Paduka Seri Duli Pengiran Muda Haji  'Abdul  Azim  ibni  Kebawah  Duli  Yang  Maha Mulia  Paduka  Seri  Baginda  Sultan  Haji  Hassanal Bolkiah Mu'izzaddin Waddaulah, and upon his ascending or for any reason whatsoever being unable to  ascend  to  the  throne  of  Brunei  Darussalam,  his eldest lawful son shall be the lawful Successor to the throne of Brunei Darussalam, and thereafter, the right to  succeed  to  the  throne  of  Brunei  Darussalam  shall vest in the eldest lawful son of that and each subsequent lawful Successor;
 
@@ -6424,7 +6384,7 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may from time to time, 
 
 #### Aturan-aturan  yang  akan  dipakai  bagi  menentukan  Waris  yang  sah yang akan menggantikan Sultan. [S 49/04]
 
-5. (1) Apabila Sultan telah mangkat, aturan-aturan yang berikut hendaklah dipakai bagi menentukan keturunan Baginda yang akan menjadi Pengganti Baginda -
+5. (1) Apabila Sultan telah mangkat, aturan-aturan yang berikut hendaklah dipakai bagi menentukan keturunan Baginda yang akan menjadi Pengganti Baginda —
 
 [S 49/04]
 
@@ -6436,7 +6396,7 @@ Provided that His Majesty the Sultan and Yang Di-Pertuan may from time to time, 
 
 (c) putera yang bonda serta ayahandanya adalah dari keturunan darah Sultan-Sultan Negara Brunei Darussalam hendaklah diutamakan  dari  putera  yang  ayahandanya  sahaja  dari  keturunan darah yang disebutkan di atas:
 
-Dengan syarat bahawa -
+Dengan syarat bahawa —
 
 (i) putera isteri Sultan yang telah diangkat menjadi Duli Raja Isteri atau Pengiran Isteri menurut peruntukan-peruntukan bab 22 hendaklah diutamakan dari putera isteri Sultan yang tidak diangkat sedemikian; dan
 
@@ -6470,7 +6430,7 @@ Dengan syarat bahawa -
 
 (c) a son whose mother as well as his father is of the blood of the Sultans of Brunei Darussalam shall be preferred to a son whose father only is of such blood as aforesaid:
 
-Provided that -
+Provided that —
 
 (i) the son of a wife of the Sultan who was appointed Duli Raja  Isteri  or  Pengiran  Isteri  in  accordance  with  the provisions of section 22 shall be preferred to the son of a wife of the Sultan who was not so appointed; and
 
@@ -6484,7 +6444,7 @@ Provided that -
 
 (d) putera kepada seorang putera yang tua hendaklah diutamakan dari putera kepada seorang putera yang muda:
 
-Dengan syarat bahawa -
+Dengan syarat bahawa —
 
 (i) jika  ayahanda  kepada  putera  yang  tua  itu  sahaja  dari keturunan darah Sultan-Sultan Negara Brunei Darussalam  atau  dari  keturunan  darah  Raja  Negara Islam  yang  lain  dan  jika  bonda  dan  juga  ayahanda kepada  putera  yang  muda  itu  adalah  dari  keturunan darah  yang  disebutkan  di  atas,  maka,  putera  kepada putera  yang  muda  itu  hendaklah  diutamakan  dari putera kepada putera yang tua itu; dan
 
@@ -6492,7 +6452,7 @@ Dengan syarat bahawa -
 
 (2) Aturan-aturan  yang  dinyatakan  dalam  ceraian  (1)  hendaklah, tertakluk kepada pengubahsuaian-pengubahsuaian sebagaimana yang mungkin  diperlukan untuk menyesuaikannya dengan keadaan sesuatu perkara, dikenakan kepada zuriat yang lebih jauh dari yang dinyatakan dalam ceraian itu.
 
-(3) Dengan  tidak  menghiraukan  ceraian-ceraian  (1)  dan  (2),  jika Sultan mangkat dengan meninggalkan -
+(3) Dengan tidak menghiraukan ceraian-ceraian (1) dan (2), jika Sultan mangkat dengan meninggalkan —
 
 (a) seorang adinda atau adinda tiri dari keturunan darah Sultan-Sultan Negara Brunei Darussalam atau dari keturunan darah Raja Negara Islam yang lain; dan
 
@@ -6510,7 +6470,7 @@ maka hak adinda atau adinda tiri itu untuk menjadi Pengganti Sultan adalah lebih
 
 (d) the  son  of  an  older  son  shall  be  preferred  to  the  son  of  a younger son:
 
-Provided that -
+Provided that —
 
 (i) if the father only of such older son is of the blood of the Sultans of Brunei Darussalam or of the blood of the ruling house of another Muslim State and if both the mother and the father of such younger son are of such blood  as  aforesaid,  then,  the  son  of  the  younger  son shall be preferred to the son of the older son; and
 
@@ -6574,7 +6534,7 @@ If a Sultan has 3 wives, A a commoner and B and C of princely blood married in t
 
 ###### Misalan 3.
 
-Jika,  atas  fakta-fakta  yang  dinyatakan  dalam  Misalan  2,  ketiga-tiga putera itu mangkat terlebih dahulu daripada Sultan tetapi tiap-tiap putera itu meninggalkan putera-putera seperti berikut -
+Jika, atas fakta-fakta yang dinyatakan dalam Misalan 2, ketiga-tiga putera itu mangkat terlebih dahulu daripada Sultan tetapi tiap-tiap putera itu meninggalkan putera-putera seperti berikut —
 
 (a)  D meninggalkan  seorang  putera G yang  dilahirkan  pada tahun 1960 oleh isteri dari keturunan darah Raja;
 
@@ -6600,7 +6560,7 @@ Jika ayahanda Sultan itu mempunyai seorang lagi putera iaitu J dan putera itu me
 
 ###### Example 3.
 
-If,  on  the  facts  as  set  out  in  Example  2,  all  3  sons  predecease  the Sultan but each of those sons leaves issue as follows -
+If, on the facts as set out in Example 2, all 3 sons predecease the Sultan but each of those sons leaves issue as follows —
 
 (a)  D a son G born in 1960 by a wife of princely blood;
 
@@ -6698,7 +6658,7 @@ A Sultan dies leaving 3 sons by one wife, 2 grandsons by another wife and a youn
 
 (a) mesyuarat  tidaklah  boleh  dijalankan  oleh  Majlis  itu  jika bilangan  Ahli-Ahli  yang  hadir  sebagaimana  yang  diperuntukkan dalam  perenggan (b) tidak  cukup  pada  masa  mesyuarat  Majlis  itu hendak dimulakan;
 
-(b) mesyuarat Majlis itu tidaklah sah melainkan ada separuh dari bilangan Ahli-Ahlinya hadir dan termasuk dalam Ahli-Ahli yang hadir itu tidak kurang dari 4 orang Ahli Majlis Mesyuarat Menteri-Menteri dan tidak kurang dari 3 orang Ahli Majlis Ugama Islam;
+(b) mesyuarat  Majlis  itu  tidaklah  sah  melainkan  ada  separuh dari bilangan Ahli-Ahlinya hadir dan termasuk dalam Ahli-Ahli yang hadir itu tidak kurang dari 4 orang Ahli Majlis Mesyuarat Menteri-Menteri dan tidak kurang dari 3 orang Ahli Majlis Ugama Islam;
 
 226
 
@@ -6840,7 +6800,7 @@ Provided that, even if no notice has been issued under this subsection, it shall
 
 [[START OF PAGE 232]]
 
-(4) Melainkan  jika  telah  dibuat  ketetapan  berdasarkan  ceraian  (3), Majlis  Mesyuarat  Mengangkat  Raja  hendaklah  tanpa  bertangguh-tangguh terus menyiasat hak orang-orang yang berhak menjadi Pengganti Sultan serta memutuskan perkara itu tanpa menunggu untuk mengetahui sama ada hak Pengiran Muda akan terhapus oleh hak orang-orang yang harus dizahirkan. Majlis itu hendaklah juga membuat siasatan penuh dan lengkap tentang sama ada  mana-mana  orang  yang  dipersetujuinya  menjadi  Pengganti  Sultan mempunyai apa-apa kecacatan yang besar dan berat yang akan menjatuhkan sifat seorang Sultan, umpamanya  lemah  tubuh badan,  buta atau bisu,  atau mempunyai  apa-apa  sifat  yang  hina  dan  oleh  sebab  itu  dia  tidak  boleh dibenarkan menurut Hukum  Syara ' menjadi Sultan. Jika Majlis itu memutuskan  bahawa  seseorang  itu  tidak  boleh  dibenarkan  atau  disahkan menjadi  Sultan,  maka  Majlis  itu  hendaklah  terus  bermesyuarat  untuk menjalankan kuasa-kuasa yang diberikan oleh ceraian ini sehingga diputuskan siapakah yang akan diangkat menjadi Sultan yang baru.
+(4) Melainkan  jika  telah  dibuat  ketetapan  berdasarkan  ceraian  (3), Majlis  Mesyuarat  Mengangkat  Raja  hendaklah  tanpa  bertangguh-tangguh terus menyiasat hak orang-orang yang berhak menjadi Pengganti Sultan serta memutuskan perkara itu tanpa menunggu untuk mengetahui sama ada hak Pengiran Muda akan terhapus oleh hak orang-orang yang harus dizahirkan. Majlis itu hendaklah juga membuat siasatan penuh dan lengkap tentang sama ada  mana-mana  orang  yang  dipersetujuinya  menjadi  Pengganti  Sultan mempunyai apa-apa kecacatan yang besar dan berat yang akan menjatuhkan sifat seorang Sultan, umpamanya  lemah  tubuh badan,  buta atau bisu,  atau mempunyai  apa-apa  sifat  yang  hina  dan  oleh  sebab  itu  dia  tidak  boleh dibenarkan menurut Hukum  Syara’ menjadi Sultan. Jika Majlis itu memutuskan  bahawa  seseorang  itu  tidak  boleh  dibenarkan  atau  disahkan menjadi  Sultan,  maka  Majlis  itu  hendaklah  terus  bermesyuarat  untuk menjalankan kuasa-kuasa yang diberikan oleh ceraian ini sehingga diputuskan siapakah yang akan diangkat menjadi Sultan yang baru.
 
 [S 49/04]
 
@@ -6908,7 +6868,7 @@ dan, setelah rayuan atau kajian semula dibuat oleh Mahkamah, penghakiman yang me
 
 #### Right  to  the  succession  may  be  forfeited  and  privileges  may  cease  in certain circumstances. [S 49/04]
 
-10. (1) If any Heir of the body of Al-Marhum Sultan Hashim Jalilul-alam Akamuddin is convicted -
+10. (1) If  any  Heir  of  the  body  of  Al-Marhum  Sultan  Hashim  Jalilul-alam Akamuddin is convicted -
 
 [S 49/04]
 
@@ -6972,7 +6932,7 @@ and such conviction is not set aside on appeal or revision, then, in addition to
 
 [S 79/04]
 
-(2) If the next eldest surviving son of His Majesty Sultan Haji Hassanal Bolkiah Mu'izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar 'Ali Saifuddien Sa'adul Khairi Waddien is upon his death or occurrence of any other event by reason of which he shall be unable to
+(2) If  the  next  eldest  surviving  son  of  His  Majesty  Sultan  Haji Hassanal  Bolkiah  Mu'izzaddin  Waddaulah  ibni  Al-Marhum  Sultan  Haji Omar  'Ali  Saifuddien  Sa'adul  Khairi  Waddien  is  upon  his  death  or occurrence of  any  other  event  by  reason  of  which  he  shall  be  unable  to
 
 237
 
@@ -6980,13 +6940,13 @@ and such conviction is not set aside on appeal or revision, then, in addition to
 
 [[START OF PAGE 238]]
 
-dapat menjalankan tugas-tugas Negara, maka putera kepada Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan Haji Hassanal Bolkiah Mu'izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar 'Ali Saifuddien Sa'adul Khairi Waddien, selepasnya yang masih hidup, adalah Pemangku Raja dan hendaklah menjalankan tugas-tugas Negara atas nama dan bagi pihak Pengganti baru, sehingga Pengganti baru mencapai umur 18 tahun.
+dapat menjalankan tugas-tugas Negara, maka putera kepada Kebawah Duli Yang  Maha  Mulia  Paduka  Seri  Baginda  Sultan  Haji  Hassanal  Bolkiah Mu'izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar 'Ali Saifuddien Sa'adul  Khairi  Waddien,  selepasnya  yang  masih  hidup,  adalah  Pemangku Raja  dan  hendaklah  menjalankan  tugas-tugas  Negara  atas  nama  dan  bagi pihak Pengganti baru, sehingga Pengganti baru mencapai umur 18 tahun.
 
 (3)  Sekiranya  seorang  putera  kepada  Kebawah  Duli  Yang  Maha Mulia  Paduka  Seri  Baginda  Sultan  Haji  Hassanal  Bolkiah  Mu'izzaddin Waddaulah  ibni  Al-Marhum  Sultan  Haji  Omar  'Ali  Saifuddien  Sa'adul Khairi  Waddien  selain  daripada  Duli  Yang  Teramat  Mulia  Paduka  Seri Pengiran  Muda  Mahkota  Pengiran  Muda  Haji  Al-Muhtadee  Billah  ibni Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan Haji Hassanal Bolkiah Mu'izzaddin Waddaulah mewarisi takhta Kerajaan Negara Brunei Darussalam menurut perenggan (a) ceraian (4) bab 3, maka ceraian-ceraian (1) dan (2) hendaklah dipakai seolah-olah putera itu disebut dalam ceraian (1)  menggantikan  Duli  Yang  Teramat  Mulia  Paduka  Seri  Pengiran  Muda Mahkota Pengiran Muda Haji Al-Muhtadee Billah ibni Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan Haji Hassanal Bolkiah Mu'izzaddin Waddaulah.
 
 (4) Jika tiada seorang pun daripada putera-putera kepada Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan Haji Hassanal Bolkiah Mu'izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar 'Ali Saifuddien Sa'adul Khairi Waddien, yang masih hidup, dapat menjalankan tugas-tugas Negara, maka tugas-tugas Negara hendaklah dijalankan atas nama dan bagi pihak Pengganti baru oleh Jemaah Pemangku Raja yang dilantik oleh Majlis Mesyuarat Di-Raja.
 
-(5) Tertakluk kepada ceraian-ceraian yang terdahulu, dalam semua hal lain jika Sultan semasa Baginda menaiki takhta Kerajaan, berumur kurang dari 18 tahun, maka, sehingga Baginda mencapai umur itu, tugas-tugas Negara hendaklah dijalankan atas nama dan bagi pihak Sultan oleh Jemaah Pemangku Raja.
+(5) Tertakluk kepada ceraian-ceraian yang terdahulu, dalam semua hal  lain  jika  Sultan  semasa  Baginda  menaiki  takhta  Kerajaan,  berumur kurang dari  18  tahun,  maka,  sehingga  Baginda  mencapai  umur  itu,  tugas-tugas  Negara  hendaklah  dijalankan  atas  nama  dan  bagi  pihak  Sultan  oleh Jemaah Pemangku Raja.
 
 (6) Bagi maksud sebarang undang-undang bertulis yang menghendaki supaya Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan  dan  Yang  Di-Pertuan  mengangkat,  membuat  atau  menandatangani sumpah atau pengakuan pada atau selepas Baginda menaiki takhta Kerajaan, maka tarikh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan mencapai umur 18 tahun hendaklah dianggap sebagai tarikh Baginda menaiki takhta Kerajaan.
 
@@ -7050,7 +7010,7 @@ perform  the  State  functions,  then  the  next  surviving  son  of  His  Majes
 
 (3) Ceraian (1) hendaklah dikenakan kepada Pemangku Raja dengan pengubahsuaian-pengubahsuaian yang berikut -
 
-(a) perisytiharan tentang tidak berdaya menjalankan tugas-tugas Negara hendaklah dibuat oleh Majlis Mesyuarat Di-Raja; dan
+(a) perisytiharan  tentang  tidak  berdaya  menjalankan  tugas-tugas Negara hendaklah dibuat oleh Majlis Mesyuarat Di-Raja; dan
 
 (b) pulihnya kesihatan Pemangku Raja yang telah diisytiharkan tidak berdaya menjalankan tugas-tugas Negara tidaklah menghendaki sebarang  perisytiharan  atau  menjejaskan  lantikan  Pemangku  Raja yang lain.
 
@@ -7088,7 +7048,7 @@ perform  the  State  functions,  then  the  next  surviving  son  of  His  Majes
 
 (2) Whenever  (under his Proclamation or otherwise) there is occasion for a Council of Regency or a Regent to be appointed otherwise than by His Majesty the Sultan and Yang Di-Pertuan, such appointment shall be  made  by  the  Privy  Council  and  shall  be  notified  by  a  Proclamation published in such manner as the Privy Council sees fit.
 
-(3) A Council of Regency shall consist of the Consort of His Majesty the Sultan and Yang Di-Pertuan and 2 other Regents or, if His Majesty the Sultan and Yang Di-Pertuan is not then married, or if there is no
+(3) A  Council  of  Regency  shall  consist  of  the  Consort  of  His Majesty  the  Sultan  and  Yang  Di-Pertuan  and  2  other  Regents  or,  if  His Majesty the Sultan and Yang Di-Pertuan is not then married, or if  there is  no
 
 243
 
@@ -7096,7 +7056,7 @@ perform  the  State  functions,  then  the  next  surviving  son  of  His  Majes
 
 [[START OF PAGE 244]]
 
-beristeri, atau jika Permaisuri Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan telah mangkat, atau jika Permaisuri Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan oleh kerana sesuatu sebab tidak berdaya menjadi Pemangku Raja, maka Jemaah Pemangku Raja hendaklah mengandungi 3 orang Pemangku Raja tidak termasuk Permaisuri Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan:
+beristeri, atau jika Permaisuri Kebawah Duli Yang Maha Mulia Paduka Seri Baginda  Sultan  dan  Yang  Di-Pertuan  telah  mangkat,  atau  jika  Permaisuri Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri  Baginda  Sultan  dan  Yang Di-Pertuan oleh kerana sesuatu sebab tidak berdaya menjadi Pemangku Raja, maka Jemaah Pemangku Raja hendaklah mengandungi 3 orang Pemangku Raja  tidak  termasuk  Permaisuri  Kebawah  Duli  Yang  Maha  Mulia  Paduka Seri Baginda Sultan dan Yang Di-Pertuan:
 
 Dengan syarat bahawa -
 
@@ -7196,7 +7156,7 @@ Dengan syarat bahawa tiada sebarang apa pun yang terkandung dalam bab ini  boleh
 
 [S 49/04]
 
-(a) on the appointment of another Regent in his place in accordance with this section;
+(a) on  the  appointment  of  another  Regent  in  his  place  in accordance with this section;
 
 (b) upon a declaration of incapacity in respect of such Regent under section 12; and
 
@@ -7382,7 +7342,7 @@ Provided that -
 
 [[START OF PAGE 256]]
 
-(8) Melainkan jika ketetapan telah diambil supaya siasatan lanjut dibuat, dalam hal itu Majlis Mesyuarat Di-Raja hendaklah menimbangkan semula perkara itu apabila siasatan tersebut telah selesai, maka segala ketetapan yang telah diambil menurut ceraian (7) hendaklah disembahkan kepada Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan untuk makluman Baginda mengikut cara yang difikirkan patut oleh Majlis Mesyuarat Di-Raja.
+(8) Melainkan  jika  ketetapan  telah  diambil  supaya  siasatan  lanjut dibuat,  dalam  hal  itu  Majlis  Mesyuarat  Di-Raja  hendaklah  menimbangkan semula  perkara  itu  apabila  siasatan  tersebut  telah  selesai,  maka  segala ketetapan  yang  telah  diambil  menurut  ceraian  (7)  hendaklah  disembahkan kepada Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan untuk makluman Baginda mengikut cara yang difikirkan patut oleh Majlis Mesyuarat Di-Raja.
 
 [S 49/04]
 
@@ -7396,7 +7356,7 @@ Provided that -
 
 [S 49/04]
 
-maka dan dalam sebarang hal tersebut, Majlis Mesyuarat Di-Raja boleh dengan Perintah yang disiarkan dalam Warta Kerajaan mengisytiharkan bahawa Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan hendaklah dianggap telah turun takhta; dan Perintah tersebut hendaklah, tertakluk kepada bab 21, mempunyai kuatkuasa yang sama bagi segala maksud seolah-olah Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan telah menyempurnakan Surat Perintah Turun Takhta yang sah yang berkuatkuasa pada tarikh Perintah itu disiarkan dalam Warta Kerajaan.
+maka  dan  dalam  sebarang  hal  tersebut,  Majlis  Mesyuarat  Di-Raja  boleh dengan  Perintah  yang  disiarkan  dalam Warta  Kerajaan mengisytiharkan bahawa Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang  Di-Pertuan  hendaklah  dianggap  telah  turun  takhta;  dan  Perintah tersebut  hendaklah,  tertakluk  kepada  bab  21,  mempunyai  kuatkuasa  yang sama  bagi  segala  maksud  seolah-olah  Kebawah  Duli  Yang  Maha  Mulia Paduka  Seri  Baginda  Sultan  dan  Yang  Di-Pertuan  telah  menyempurnakan Surat  Perintah  Turun  Takhta  yang  sah  yang  berkuatkuasa  pada  tarikh Perintah itu disiarkan dalam Warta Kerajaan .
 
 [S 49/04]
 
@@ -7424,7 +7384,7 @@ maka dan dalam sebarang hal tersebut, Majlis Mesyuarat Di-Raja boleh dengan Peri
 
 [S 49/04]
 
-then and in any such case, the Privy Council may by Order signified in the Gazette declare that His Majesty the Sultan and Yang Di-Pertuan shall be deemed to have abdicated; and such Order shall, subject to section 21, have the same effect for all purposes as if His Majesty the Sultan and Yang Di-Pertuan had executed a valid Instrument of Abdication having effect on the date of publication of the Order in the Gazette.
+then and in any such case, the Privy Council may by Order signified in the Gazette declare  that  His  Majesty  the  Sultan  and  Yang  Di-Pertuan  shall  be deemed to have abdicated; and such Order shall, subject to section 21, have the  same  effect  for  all  purposes  as  if  His  Majesty  the  Sultan  and  Yang Di-Pertuan had executed a valid Instrument of Abdication having effect on the date of publication of the Order in the Gazette .
 
 [S 49/04]
 
@@ -7612,11 +7572,11 @@ Provided that -
 
 [S 16/06]
 
-(a) jika dia telah ditabalkan, melantik Permaisuri itu menjadi “Duli Raja Isteri”; atau
+(a) jika  dia  telah  ditabalkan,  melantik  Permaisuri  itu  menjadi 'Duli Raja Isteri'; atau
 
-(b) jika dia belum ditabalkan, melantiknya menjadi “Pengiran Isteri”.
+(b) jika  dia  belum  ditabalkan,  melantiknya  menjadi  'Pengiran Isteri'.
 
-(2) Jika Permaisuri Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, sama ada ditabalkan atau tidak, bukan berbangsa Melayu atau bukan dari keturunan darah yang disebutkan di bawah ceraian (1), maka dia hanya boleh digelar “Pengiran Isteri” atau gelaran lain sebagaimana yang mungkin dikurniakan oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan atas budibicara mutlak Baginda.
+(2) Jika  Permaisuri  Kebawah  Duli  Yang  Maha  Mulia  Paduka  Seri Baginda Sultan dan Yang Di-Pertuan, sama ada ditabalkan atau tidak, bukan berbangsa  Melayu  atau  bukan  dari  keturunan  darah  yang  disebutkan  di bawah  ceraian  (1),  maka  dia  hanya  boleh  digelar  'Pengiran  Isteri'  atau gelaran  lain  sebagaimana  yang  mungkin  dikurniakan  oleh  Kebawah  Duli Yang  Maha  Mulia  Paduka  Seri  Baginda  Sultan  dan  Yang  Di-Pertuan  atas budibicara mutlak Baginda.
 
 [S 79/04; S 16/06]
 
@@ -7642,11 +7602,11 @@ Provided that -
 
 [S 16/06]
 
-(a) if she has been crowned, appoint her to be the “Duli Raja Isteri”; or
+(a) if  she  has  been crowned, appoint her to be the 'Duli Raja Isteri'; or
 
-(b) if she has not been crowned, appoint her to be the “Pengiran Isteri”.
+(b) if she has not been crowned, appoint her to be the 'Pengiran Isteri'.
 
-(2) If the Consort of His Majesty the Sultan and Yang Di-Pertuan, whether crowned or not, is not of the race or blood aforesaid, the appropriate title shall be the “Pengiran Isteri” or such other title as His Majesty the Sultan and Yang Di-Pertuan may confer in his absolute discretion.
+(2) If  the  Consort of His Majesty the Sultan and Yang Di-Pertuan, whether crowned or not, is not of the race or blood aforesaid, the appropriate title  shall  be  the  'Pengiran  Isteri'  or  such  other  title  as  His  Majesty  the Sultan and Yang Di-Pertuan may confer in his absolute discretion.
 
 [S 79/04; S 16/06]
 
@@ -7718,7 +7678,7 @@ Provided that -
 
 [[START OF PAGE 268]]
 
-(3) Bagi maksud-maksud bab ini, “wang hasil” bermakna wang pajakan yang dibayar kepada Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, Kerajaan Negara Brunei Darussalam, atau mana-mana Wazir atau Menteri menurut perjanjian-perjanjian dengan Kerajaan Sarawak atau North Borneo berkenaan dengan tanah-tanah yang telah dipajakkan kepada Kerajaan Sarawak atau North Borneo.
+(3) Bagi  maksud-maksud  bab  ini,  'wang  hasil'  bermakna  wang pajakan yang dibayar kepada Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, Kerajaan Negara Brunei Darussalam, atau  mana-mana Wazir atau Menteri menurut perjanjian-perjanjian dengan Kerajaan Sarawak atau North Borneo berkenaan dengan tanah-tanah yang telah dipajakkan kepada Kerajaan Sarawak atau North Borneo.
 
 (4) Sebarang perbuatan atau perkara yang dilakukan atau dikatakan telah  dilakukan  yang  melanggar  bab  ini  adalah  batal  dan  tidak  sah,  dan tidaklah mempunyai kuatkuasa.
 
@@ -7748,7 +7708,7 @@ Dengan syarat bahawa peruntukan boleh dibuat dengan undang-undang yang digubal d
 
 [[START OF PAGE 269]]
 
-(3) For the purposes of this section, “cession money” means any money paid to His Majesty the Sultan and Yang Di-Pertuan, the Government of Brunei Darussalam, or to any Wazir or Minister by the Government of Sarawak or North Borneo by virtue of any agreements relating to lands which have been leased to either of those Governments.
+(3) For  the  purposes  of  this  section,  'cession  money'  means  any money paid to His Majesty the Sultan and Yang Di-Pertuan, the Government of  Brunei  Darussalam, or to any Wazir or Minister by the Government of Sarawak  or  North  Borneo  by  virtue  of  any  agreements  relating  to  lands which have been leased to either of those Governments.
 
 (4) Any act or thing done or purported to be done which contravenes this section shall be null and void, and shall have no effect.
 
@@ -7990,7 +7950,7 @@ Dengan syarat bahawa mahkamah itu tidak boleh merujukkan perkara tersebut kepada
 
 #### Amendment. [S 49/04]
 
-31. It shall be lawful for His Majesty the Sultan and Yang Di-Pertuan to, by Proclamation published in the Gazette , add to, amend or revoke all or any of  the  provisions  of  this  Proclamation,  including  this  section,  and  this Proclamation shall not otherwise be added to, amended or revoked.
+31. It shall be lawful for His Majesty the Sultan and Yang Di-Pertuan to, by Proclamation published in the Gazette, add to, amend or revoke all or any of the provisions of this Proclamation, including this section, and this Proclamation shall not otherwise be added to, amended or revoked.
 
 #### Interpretation Tribunal. [S 49/04]
 
@@ -8014,7 +7974,7 @@ Provided that the court shall not refer such question which has already been dec
 
 [S 49/04]
 
-(4) Keputusan dari kebanyakan ahli Tribunal Tafsiran ke atas apa jua perkara  yang  dirujukkan  kepadanya  di  bawah  bab  ini  hendaklah  dianggap sebagai  suatu  keputusan  Tribunal  Tafsiran;  dan  mana-mana  keputusan Tribunal Tafsiran itu hendaklah  dibuat  secara bertulis  dan  hendaklah disiarkan  dalam Warta  Kerajaan ,  dan  boleh  dibuktikan  dalam  mahkamah dengan menunjukkan Warta Kerajaan itu.
+(4) Keputusan dari kebanyakan ahli Tribunal Tafsiran ke atas apa jua perkara yang dirujukkan kepadanya di bawah bab ini hendaklah dianggap sebagai suatu keputusan Tribunal Tafsiran; dan mana-mana keputusan Tribunal Tafsiran itu hendaklah dibuat secara bertulis dan hendaklah disiarkan dalam Warta Kerajaan, dan boleh dibuktikan dalam mahkamah dengan menunjukkan Warta Kerajaan itu.
 
 [S 49/04]
 
@@ -8038,7 +7998,7 @@ Provided that the court shall not refer such question which has already been dec
 
 (3) If  His  Majesty  the  Sultan  and  Yang  Di-Pertuan  does  not  refer such  question  to  the  Interpretation  Tribunal,  he  shall  cause  the  court  by whom the reference thereof was made to be so informed, and the court shall thereupon proceed with the determination of the legal proceedings before it. [S 49/04]
 
-(4) The decision  of  a  majority  of  the  Interpretation  Tribunal  upon any question referred to it under this section shall be deemed to be a decision of that Tribunal; and any decision of the Interpretation Tribunal shall be in writing  and  shall  be  published  in  the Gazette ,  and  may  be  proved  by production of the Gazette .
+(4) The decision of a majority of the Interpretation Tribunal upon any question referred to it under this section shall be deemed to be a decision of that Tribunal; and any decision of the Interpretation Tribunal shall be in writing and shall be published in the Gazette, and may be proved by production of the Gazette.
 
 [S 49/04]
 
@@ -8074,13 +8034,13 @@ Provided that the court shall not refer such question which has already been dec
 
 (2) Bagi mengelakkan kewahaman, kajian semula kehakiman tiada dan tidak boleh diadakan di dalam mana-mana mahkamah mengenai apa-apa perbuatan,  keputusan,  pemberian,  pembatalan  atau  penggantungan,  atau keengganan atau peninggalan daripada berbuat demikian, sebarang perjalanan atau keengganan atau peninggalan daripada menjalankan sebarang  kuasa,  autoriti  atau  budibicara  oleh  Kebawah  Duli  Yang  Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, atau mana-mana pihak  yang  bertindak  bagi  pihak  Baginda  atau  dengan  titah  perkenan Baginda atau dalam melaksanakan sebarang tugas awam, di bawah peruntukan-peruntukan  Pemasyhuran  ini,  termasuk  apa  jua  perkara  yang berhubung dengan pematuhan sebarang kehendak prosedur yang mengawal perbuatan atau keputusan tersebut.
 
-(3)  Dalam bab ini, 'kajian semula kehakiman' bermakna perbicaraan yang dimulakan dengan apa jua cara pun termasuk, tetapi tidak terhad kepada, perbicaraan dengan cara -
+(3) Dalam bab ini, “kajian semula kehakiman” bermakna perbicaraan yang dimulakan dengan apa jua cara pun termasuk, tetapi tidak terhad kepada, perbicaraan dengan cara —
 
-(a) suatu permohonan bagi sebarang perintah prerogatif mandamus , larangan dan certiorari ;
+(a) suatu permohonan bagi sebarang perintah prerogatif mandamus, larangan dan certiorari;
 
 (b) suatu permohonan bagi suatu pengisytiharan atau injunksi;
 
-(c) suatu writ habeas corpus ; dan
+(c) suatu writ habeas corpus; dan
 
 280
 
@@ -8102,13 +8062,13 @@ Provided that the court shall not refer such question which has already been dec
 
 (2) For  the  avoidance  of  doubt,  there  is  and  shall  be  no  judicial review in any court of any act, decision, grant, revocation or suspension, or refusal  or  omission  to  do  so,  any  exercise  of  or  refusal  or  omission  to exercise any power, authority or discretion by His Majesty the Sultan and Yang Di-Pertuan, or any party acting on his behalf or under his authority or in  the  performance  of  any  public  function,  under  the  provisions  of  this Proclamation,  including  any  question  relating  to  compliance  with  any procedural requirement governing such act or decision.
 
-(3) In this section, 'judicial review' means proceedings instituted by any manner whatsoever including, but  not limited to, proceedings  by  way of -
+(3) In this section, “judicial review” means proceedings instituted by any manner whatsoever including, but not limited to, proceedings by way of —
 
-(a) an application for any of the prerogative orders of mandamus , prohibition and certiorari ;
+(a) an application for any of the prerogative orders of mandamus, prohibition and certiorari;
 
 (b) an application for a declaration or an injunction;
 
-(c) a writ of habeas corpus ; and
+(c) a writ of habeas corpus; and
 
 281
 
@@ -8132,6 +8092,7 @@ Provided that the court shall not refer such question which has already been dec
 
 [[START OF PAGE 284]]
 
+_________________________________________________________________________
 #### JADUAL
 
 (bab 14)
@@ -8139,8 +8100,6 @@ Provided that the court shall not refer such question which has already been dec
 ###### SUMPAH YANG DIANGKAT DAN DITANDATANGANI OLEH PEMANGKU RAJA
 
 ###### WALLAHI WA-BILLAHI WA-TAALLAHI
-
-_________________________________________________________________________
 
 1. Saya, ....………………………..…….........… bersumpah dengan nama ALLAH Yang Maha Kuasa bahawa saya akan taat dan menumpahkan kesetiaan yang sesungguhnya kepada Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan* ………………….....……………… Sultan dan Yang Di-Pertuan, Waris-Waris dan Pengganti-Pengganti Baginda menurut undang-undang.
 
@@ -8154,7 +8113,9 @@ _________________________________________________________________________
 
 [S 32/04; S 49/04]
 
-Bertarikh pada hari ini .............. haribulan ................................ 20........ [S 49/04]
+Bertarikh pada hari ini .............. haribulan ................................ 20........
+
+[S 49/04]
 
 .......................................
 
@@ -8168,6 +8129,7 @@ Bertarikh pada hari ini .............. haribulan ...............................
 
 [[START OF PAGE 285]]
 
+_________________________________________________________________________
 #### SCHEDULE
 
 (section 14)
@@ -8176,7 +8138,9 @@ Bertarikh pada hari ini .............. haribulan ...............................
 
 ###### WALLAHI WA-BILLAHI WA-TAALLAHI
 
-1. I, ............................ swear by Almighty ALLAH that I will be faithful and bear true allegiance to His Majesty the Sultan and Yang Di-Pertuan* ................................. his Heirs and Successors according to law. [S 49/04]
+1. I, ............................ swear by Almighty ALLAH that I will be faithful and bear true allegiance to His Majesty the Sultan and Yang Di-Pertuan* ................................. his Heirs and Successors according to law.
+
+[S 49/04]
 
 2. I, ......................................... swear by Almighty ALLAH that I will truly and faithfully execute the office of Regent, and that I will govern according to law, and will, in all things, to the utmost of my power and ability, consult and maintain the safety, honour and dignity of His Majesty the Sultan and Yang Di-Pertuan* .............................. and the welfare of his people.
 
@@ -8186,13 +8150,13 @@ Bertarikh pada hari ini .............. haribulan ...............................
 
 [S 32/04; S 49/04]
 
-Dated this ........................ day of .............................................. 20......... [S 49/04]
+Dated this ........................ day of .............................................. 20.........
+
+[S 49/04]
 
 .......................................
 
 (Signature)
-
-_________________________________________________________________________
 
 * Here insert the name of His Majesty the Sultan and Yang Di-Pertuan
 
@@ -8208,25 +8172,25 @@ Demikianlah kandungannya Pemasyhuran Mengangkat Raja dan Melantik Pemangku Raja.
 
 #### Ucapan doa.
 
-Barang  dirahmati  ALLAH  Subhanahu  Wata'ala  Malikul  Mulk  dan diberkati Nabi Muhammad Salallahu Alaihi Wasallam akan Pemasyhuran ini kekal selama-lamanya, Amin Ya Rabbal 'Alamin.
+Barang dirahmati ALLAH Subhanahu Wata’ala Malikul Mulk dan diberkati Nabi Muhammad Salallahu Alaihi Wasallam akan Pemasyhuran ini kekal selama-lamanya, Amin Ya Rabbal ‘Alamin.
 
 Diperbuat di Lapau, di Brunei pada 26 haribulan Rabiulawal Hijrah Nabi Sallallahu Alaihi Wasallam Seribu tiga ratus tujuh puluh sembilan, bersamaan dengan hitungan Masihi 29 haribulan September Seribu sembilan ratus lima puluh sembilan, iaitu tahun yang kesepuluh Beta di atas Takhta Kerajaan Brunei Darul Salam.
 
-PADA  MENYAKSIKAN  pengurniaan  dan  pengesahan  Pemasyhuran Mengangkat  Raja  dan  Melantik  Pemangku  Raja  ini  dan  persetujuan  dari Penasihat-Penasihat  menurut  Adat  Istiadat,  maka  kami  telah  menurunkan tandatangan-tandatangan kami masing-masing di bawah ini:
+PADA MENYAKSIKAN pengurniaan dan pengesahan Pemasyhuran Mengangkat Raja dan Melantik Pemangku Raja ini dan persetujuan dari Penasihat-Penasihat menurut Adat Istiadat, maka kami telah menurunkan tandatangan-tandatangan kami masing-masing di bawah ini:
 
-Duli  Pengiran  Bendahara,  Dato'  Paduka  Muda  Hashim  ibni  Pengiran Anak Abdul Rahman, D.P.M.B., P.O.A.S.
+Duli Pengiran Bendahara, Dato’ Paduka Muda Hashim ibni Pengiran Anak Abdul Rahman, D.P.M.B., P.O.A.S.
 
-- Duli  Pengiran  Pemancha,  Dato'  Paduka  Haji  Mohammed  Alam  ibni Pengiran Anak Abdul Rahman, D.K., D.P.M.B., P.O.A.S., O.B.E.
+Duli Pengiran Pemancha, Dato’ Paduka Haji Mohammed Alam ibni Pengiran Anak Abdul Rahman, D.K., D.P.M.B., P.O.A.S., O.B.E.
 
-- Pengiran  Shahbandar  Sahibul  Bandar,  Dato'  Paduka  Haji  Mohammed Salleh bin Pengiran Haji Mohammed, D.P.M.B., P.O.A.S.
+Pengiran Shahbandar Sahibul Bandar, Dato’ Paduka Haji Mohammed Salleh bin Pengiran Haji Mohammed, D.P.M.B., P.O.A.S.
 
-- Pehin Dato' Perdana Menteri, Dato' Paduka Haji Ibrahim bin Mohammed Jahfar, D.K., D.P.M.B., O.B.E., P.O.A.S.
+Pehin Dato’ Perdana Menteri, Dato’ Paduka Haji Ibrahim bin Mohammed Jahfar, D.K., D.P.M.B., O.B.E., P.O.A.S.
 
-- Pehin  Orang  Kaya  Di-Gadong,  Awang  Haji  Mohammed  Yussof  bin Awang Haji Husain, P.O.A.S.
+Pehin Orang Kaya Di-Gadong, Awang Haji Mohammed Yussof bin Awang Haji Husain, P.O.A.S.
 
-- Pehin  Orang  Kaya  Shahbandar,  Haji  Ahmad  bin  Mohammed  Daud, P.O.A.S., M.B.E.
+Pehin Orang Kaya Shahbandar, Haji Ahmad bin Mohammed Daud, P.O.A.S., M.B.E.
 
-- Pehin  Jawatan  Dalam,  Awang  Haji  Mohammed  Noor  bin  Haji  Abdul Razak, P.O.A.S.
+Pehin Jawatan Dalam, Awang Haji Mohammed Noor bin Haji Abdul Razak, P.O.A.S.
 
 Pengiran Ali bin Pengiran Haji Mohammed Daud, S.M.B.
 
@@ -8238,29 +8202,29 @@ Pengiran Ali bin Pengiran Haji Mohammed Daud, S.M.B.
 
 #### Confirmation.
 
-So  be it. Such  are the contents of the  Succession  and  Regency Proclamation.
+So be it. Such are the contents of the Succession and Regency Proclamation.
 
 #### Invocation.
 
-May ALLAH, to Whom be praise and Whose name be exalted, the King of Kings, vouchsafe His grace and may the Prophet Muhammad (on whom be  the  benediction  and  peace  of  ALLAH)  grant  His  Blessing  to  this Constitution, for ever and ever. Amen! O Lord of the Universe!
+May ALLAH, to Whom be praise and Whose name be exalted, the King of Kings, vouchsafe His grace and may the Prophet Muhammad (on whom be the benediction and peace of ALLAH) grant His Blessing to this Constitution, for ever and ever. Amen! O Lord of the Universe!
 
-Done at the Lapau, at Brunei this 26th day of Rabiulawal the Hijrah of the Prophet (on Whom be the benediction and peace of ALLAH) One thousand three hundred and seventy-nine corresponding to the 29th day of September, One  thousand  nine  hundred  and  fifty-nine  of  the  Christian  era,  being  the tenth year of the reign of His Highness.
+Done at the Lapau, at Brunei this 26th day of Rabiulawal the Hijrah of the Prophet (on Whom be the benediction and peace of ALLAH) One thousand three hundred and seventy-nine corresponding to the 29th day of September, One thousand nine hundred and fifty-nine of the Christian era, being the tenth year of the reign of His Highness.
 
-IN  WITNESS  of  the  granting  and  confirmation  of  the  Succession  and Regency Proclamation and of the concurrence and assent of the Traditional Advisers, we hereunder affixed our respective signatures:
+IN WITNESS of the granting and confirmation of the Succession and Regency Proclamation and of the concurrence and assent of the Traditional Advisers, we hereunder affixed our respective signatures:
 
-- Duli  Pengiran  Bendahara,  Dato'  Paduka  Muda  Hashim  ibni  Pengiran Anak Abdul Rahman, D.P.M.B., P.O.A.S.
+Duli Pengiran Bendahara, Dato’ Paduka Muda Hashim ibni Pengiran Anak Abdul Rahman, D.P.M.B., P.O.A.S.
 
-- Duli  Pengiran  Pemancha,  Dato'  Paduka  Haji  Mohammed  Alam  ibni Pengiran Anak Abdul Rahman, D.K., D.P.M.B., P.O.A.S., O.B.E.
+Duli Pengiran Pemancha, Dato’ Paduka Haji Mohammed Alam ibni Pengiran Anak Abdul Rahman, D.K., D.P.M.B., P.O.A.S., O.B.E.
 
-- Pengiran  Shahbandar  Sahibul  Bandar,  Dato'  Paduka  Haji  Mohammed Salleh bin Pengiran Haji Mohammed, D.P.M.B., P.O.A.S.
+Pengiran Shahbandar Sahibul Bandar, Dato’ Paduka Haji Mohammed Salleh bin Pengiran Haji Mohammed, D.P.M.B., P.O.A.S.
 
-- Pehin Dato' Perdana Menteri, Dato' Paduka Haji Ibrahim bin Mohammed Jahfar, D.K., D.P.M.B., O.B.E., P.O.A.S.
+Pehin Dato’ Perdana Menteri, Dato’ Paduka Haji Ibrahim bin Mohammed Jahfar, D.K., D.P.M.B., O.B.E., P.O.A.S.
 
-- Pehin  Orang  Kaya  Di-Gadong,  Awang  Haji  Mohammed  Yussof  bin Awang Haji Husain, P.O.A.S.
+Pehin Orang Kaya Di-Gadong, Awang Haji Mohammed Yussof bin Awang Haji Husain, P.O.A.S.
 
-- Pehin  Orang  Kaya  Shahbandar,  Haji  Ahmad  bin  Mohammed  Daud, P.O.A.S., M.B.E.
+Pehin Orang Kaya Shahbandar, Haji Ahmad bin Mohammed Daud, P.O.A.S., M.B.E.
 
-- Pehin  Jawatan  Dalam,  Awang  Haji  Mohammed  Noor  bin  Haji  Abdul Razak, P.O.A.S.
+Pehin Jawatan Dalam, Awang Haji Mohammed Noor bin Haji Abdul Razak, P.O.A.S.
 
 Pengiran Ali bin Pengiran Haji Mohammed Daud, S.M.B.
 
@@ -8274,11 +8238,11 @@ Pehin Laksamana, Haji Mohammed Taha bin Awang Mohammed Husain, P.O.A.S.
 
 Pengiran Mohammed Yussof bin Pengiran Haji Abdul Rahim, S.M.B.
 
-Marsal bin Ma'un, S.M.B.
+Marsal bin Ma’un, S.M.B.
 
 Pengiran Haji Abu Bakar bin Pengiran Mohammed Salleh, P.O.A.S.
 
-Pehin Dato' Temanggong, Lim Cheng Choo.
+Pehin Dato’ Temanggong, Lim Cheng Choo.
 
 Pengiran Anak Safar ibni Al-Marhum Sultan Hashim, P.O.A.S.
 
@@ -8294,11 +8258,11 @@ Pehin Laksamana, Haji Mohammed Taha bin Awang Mohammed Husain, P.O.A.S.
 
 Pengiran Mohammed Yussof bin Pengiran Haji Abdul Rahim, S.M.B.
 
-Marsal bin Ma'un, S.M.B.
+Marsal bin Ma’un, S.M.B.
 
 Pengiran Haji Abu Bakar bin Pengiran Mohammed Salleh, P.O.A.S.
 
-Pehin Dato' Temanggong, Lim Cheng Choo.
+Pehin Dato’ Temanggong, Lim Cheng Choo.
 
 Pengiran Anak Safar ibni Al-Marhum Sultan Hashim, P.O.A.S.
 
@@ -8352,17 +8316,17 @@ Amended by S 20/85 S 39/03 S 63/04 S 70/04 S 14/08 S 36/08
 
 ## (PROSEDUR KEWANGAN)
 
-## SUSUNAN BAB-BAB
-
 Bab
-
-### BAHAGIAN I
-
-### PERMULAAN
 
 1. Gelaran.
 
 2. Tafsiran.
+
+## SUSUNAN BAB-BAB
+
+### BAHAGIAN I
+
+### PERMULAAN
 
 ### BAHAGIAN II
 
@@ -8434,6 +8398,7 @@ Section
 
 [[START OF PAGE 294]]
 
+________________________
 9. Dana amanah Kerajaan.
 
 10. Kumpulanwang Luarjangka.
@@ -8466,15 +8431,9 @@ Section
 
 20. Peraturan-peraturan.
 
-JADUAL PERTAMA
+JADUAL PERTAMA — PELABURAN-PELABURAN YANG DIBENARKAN
 
-- PELABURAN-PELABURAN YANG DIBENARKAN
-
-JADUAL KEDUA
-
-- DANA AMANAH KERAJAAN
-
-________________________
+JADUAL KEDUA — DANA AMANAH KERAJAAN
 
 294
 
@@ -8483,7 +8442,6 @@ ________________________
 [[START OF PAGE 295]]
 
 ________________________
-
 9. Government trust funds.
 
 10. Contingencies Fund.
@@ -8516,13 +8474,9 @@ ________________________
 
 20. Regulations.
 
-FIRST SCHEDULE
+FIRST SCHEDULE — AUTHORISED INVESTMENTS
 
--  AUTHORISED INVESTMENTS
-
-SECOND SCHEDULE
-
--  GOVERNMENT TRUST FUNDS
+SECOND SCHEDULE — GOVERNMENT TRUST FUNDS
 
 295
 
@@ -8704,7 +8658,6 @@ buku-buku  dan  menyediakan  akaun-akaun  sebagaimana  yang  mungkin ditetapkan 
 
 [[START OF PAGE 301]]
 keep such books and render such accounts as may be prescribed by or under this Order or by instructions issued by His Majesty the Sultan and Yang Di-Pertuan in matters of financial and accounting procedure not inconsistent therewith.
-
 [S 63/04]
 
 #### Bank accounts. [S 63/04]
@@ -8725,7 +8678,7 @@ keep such books and render such accounts as may be prescribed by or under this O
 
 #### Consolidated Fund accounts.
 
-6. There shall be maintained by the Treasury in respect of the Consolidated Fund 3 separate accounts —
+6. There shall be maintained by the Treasury in respect of the Consolidated Fund 3 separate accounts -
 
 301
 
@@ -8755,7 +8708,7 @@ keep such books and render such accounts as may be prescribed by or under this O
 
 [S 20/85; S 63/04]
 
-(3) Wang-wang yang ada dalam kredit Kerajaan dengan mana-mana bank atau pun selainnya dipegang oleh Kerajaan boleh, dengan titah perkenan Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, dilaburkan oleh Menteri —
+(3) Wang-wang yang ada dalam kredit Kerajaan dengan mana-mana bank atau pun selainnya dipegang oleh Kerajaan boleh, dengan titah perkenan Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, dilaburkan oleh Menteri -
 
 (a) untuk didepositkan di dalam mana-mana bank; atau
 
@@ -8949,9 +8902,9 @@ Provided  that  it  shall  be  lawful  for  His  Majesty  the  Sultan  and  Yang
 
 #### Dana amanah Kerajaan.
 
-9. (1) Hendaklah dibayar dari Kumpulanwang Yang Disatukan ke dalam setiap dana yang dinyatakan dalam Jadual Kedua sejumlah wang sebagaimana yang mungkin dari masa ke semasa diperuntukkan bagi maksud-maksud dana itu oleh sebarang undang-undang bertulis.
+9. (1) Hendaklah  dibayar  dari  Kumpulanwang  Yang  Disatukan  ke dalam  setiap  dana  yang  dinyatakan  dalam  Jadual  Kedua  sejumlah  wang sebagaimana  yang  mungkin  dari  masa  ke  semasa  diperuntukkan  bagi maksud-maksud dana itu oleh sebarang undang-undang bertulis.
 
-(2) Menteri, dengan titah perkenan Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan dan tertakluk kepada sebarang undang-undang bertulis, boleh dari masa ke semasa menggunakan dana itu bagi maksud-maksud am atau bagi sebarang maksud tertentu sebagaimana yang mungkin dari masa ke semasa ditentukan dengan ketetapan Majlis Mesyuarat Negara.
+(2) Menteri, dengan titah perkenan Kebawah Duli Yang Maha Mulia Paduka  Seri  Baginda  Sultan  dan  Yang  Di-Pertuan  dan  tertakluk  kepada sebarang undang-undang bertulis, boleh dari masa ke semasa menggunakan dana  itu  bagi  maksud-maksud  am  atau  bagi  sebarang  maksud  tertentu sebagaimana  yang  mungkin  dari  masa  ke semasa  ditentukan  dengan ketetapan Majlis Mesyuarat Negara.
 
 [S 63/04]
 
@@ -9171,7 +9124,7 @@ Provided  that  the  aggregate  of  such  sums  under  each  head  of expenditur
 
 (d) suatu penyata mengenai akaun-akaun sebarang kumpulanwang yang diwujudkan oleh Perlembagaan atau oleh bab 10 dan tidak dimasukkan ke dalam Akaun Amanah Yang Disatukan;
 
-(e) setakat yang boleh, suatu penyata mengenai aset dan liabiliti Kerajaan selain dari aset dan liabiliti Agensi Pelaburan Brunei pada penghujung tahun kewangan, cara bagaimana aset tersebut dilaburkan atau dipegang, dan tajuk-tajuk am jika liabiliti tersebut belum dijelaskan;
+(e) setakat yang boleh, suatu penyata mengenai aset dan liabiliti Kerajaan selain dari aset dan liabiliti Agensi Pelaburan Brunei pada penghujung tahun kewangan, cara bagaimana aset tersebut dilaburkan atau dipegang, dan tajuk-tajuk am  jika liabiliti tesebut  belum dijelaskan;
 
 [S 20/85; S 63/04]
 
@@ -9263,7 +9216,7 @@ Provided that where the Minister is His Majesty the Sultan and Yang Di-Pertuan, 
 
 #### Write-off.
 
-15. The Minister, with the approval of His Majesty the Sultan and Yang Di-Pertuan, shall, in respect of public moneys, revenue and stores of Brunei Darussalam, have power —
+15. The Minister, with the approval of His Majesty the Sultan and Yang Di-Pertuan, shall, in respect of public moneys, revenue and stores of Brunei Darussalam, have power -
 
 [S 63/04]
 
@@ -9355,7 +9308,7 @@ and  if  a  satisfactory  explanation  is  not,  within  a  period  specified  b
 
 #### Mendapatkan kembali surcaj.
 
-19. Jumlah sebarang surcaj yang dibuat di bawah bab 16, dan tidak ditarik balik di bawah bab 18, adalah suatu hutang yang kena dibayar kepada Kerajaan oleh orang yang terhadapnya surcaj itu dibuat, dan orang itu boleh didakwa dan surcaj itu didapatkan kembali, di dalam mana-mana mahkamah berbidang kuasa yang layak dengan tindakan guaman Kerajaan; dan Menteri boleh mengarahkan bahawa jumlah sebarang surcaj hendaklah didapatkan kembali dengan bayaran ansuran bulanan yang sama, dengan potongan dari gaji atau pencen orang yang didakwa itu, dalam jumlah yang tidak melebihi satu per empat dari jumlah gaji atau pencen bulanan, mengikut mana yang berkenaan, orang yang didakwa itu.
+19. Jumlah sebarang surcaj yang dibuat di bawah bab 16, dan tidak ditarik balik  di  bawah  bab  18,  adalah  suatu  hutang  yang  kena  dibayar  kepada Kerajaan oleh orang yang terhadapnya surcaj itu dibuat, dan orang itu boleh didakwa dan surcaj itu didapatkan kembali, di dalam mana-mana mahkamah berbidang kuasa yang layak dengan tindakan guaman Kerajaan; dan Menteri boleh  mengarahkan  bahawa  jumlah  sebarang  surcaj  hendaklah  didapatkan kembali dengan bayaran ansuran bulanan yang sama, dengan potongan dari gaji atau pencen orang yang didakwa itu, dalam jumlah yang tidak melebihi satu per empat dari jumlah gaji atau pencen bulanan, mengikut mana yang berkenaan, orang yang didakwa itu.
 
 [S 63/04]
 
@@ -9365,7 +9318,7 @@ and  if  a  satisfactory  explanation  is  not,  within  a  period  specified  b
 
 #### Peraturan-peraturan.
 
-20. (1) Menteri, dengan titah perkenan Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, boleh membuat peraturan-peraturan, yang dipanggil “Peraturan-Peraturan Kewangan” yang tidak bertentangan dengan peruntukan-peruntukan Perintah ini, bagi maksud menjalankan pada amnya peruntukan-peruntukan Perintah ini dan, khasnya, peraturan-peraturan tersebut boleh mengadakan peruntukan bagi —
+20. (1) Menteri, dengan titah perkenan Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan, boleh membuat peraturan-peraturan, yang dipanggil “Peraturan-Peraturan Kewangan” yang tidak bertentangan dengan peruntukan-peruntukan Perintah ini, bagi maksud menjalankan pada amnya peruntukan-peruntukan Perintah ini dan, khasnya, peraturan-peraturan tersebut boleh mengadakan peruntukan bagi -
 
 [S 63/04]
 
@@ -9395,7 +9348,7 @@ and  if  a  satisfactory  explanation  is  not,  within  a  period  specified  b
 
 #### Regulations.
 
-20. (1) The Minister, with the approval of His Majesty the Sultan and Yang Di-Pertuan, may make regulations, to be called “Financial Regulations”, that are not inconsistent with the provisions of this Order, for the general purpose of carrying out the provisions of this Order and, in particular, such regulations may provide for —
+20. (1) The Minister, with the approval of His Majesty the Sultan and Yang Di-Pertuan, may make regulations, to be called “Financial Regulations”, that are not inconsistent with the provisions of this Order, for the general purpose of carrying out the provisions of this Order and, in particular, such regulations may provide for -
 
 [S 63/04]
 
@@ -9471,7 +9424,7 @@ and  if  a  satisfactory  explanation  is  not,  within  a  period  specified  b
 
 [S 63/04]
 
-(b) Pelaburan-pelaburan di mana-mana negara lain dan dalam matawangmatawang yang diperkenankan oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan termasuk -
+(b) Pelaburan-pelaburan di mana-mana negara lain dan dalam matawang-matawang yang diperkenankan oleh Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultan dan Yang Di-Pertuan termasuk —
 
 (i) Sekuriti-sekuriti  dengan  faedah  tetap  yang  dikeluarkan  oleh atau dijamin oleh kerajaan-kerajaan, negara-negara atau perbandaran-perbandaran atau oleh institusi-institusi antarabangsa yang dijamin oleh kerajaan-kerajaan;
 
@@ -9491,15 +9444,17 @@ and  if  a  satisfactory  explanation  is  not,  within  a  period  specified  b
 
 (section 7(5))
 
+[S 63/04]
+
 ##### AUTHORISED INVESTMENTS
 
-(a) Any stocks, funds, shares or securities of companies incorporated in Brunei  Darussalam  approved  by  His  Majesty  the  Sultan  and  Yang Di-Pertuan;
+(a) Any stocks, funds, shares or securities of companies incorporated in Brunei Darussalam approved by His Majesty the Sultan and Yang Di-Pertuan;
 
 [S 63/04]
 
-(b) Investments in any other countries and currencies approved by His Majesty the Sultan and Yang Di-Pertuan including -
+(b) Investments in any other countries and currencies approved by His Majesty the Sultan and Yang Di-Pertuan including —
 
-(i) Fixed interest securities issued by or guaranteed by governments,  states  or  municipalities  or  by  international institutions guaranteed by governments;
+(i) Fixed interest securities issued by or guaranteed by governments, states or municipalities or by international institutions guaranteed by governments;
 
 (ii) Securities issued by companies of which the total issued and paid up capital is not less than the equivalent of one million pounds sterling;
 
@@ -9507,23 +9462,21 @@ and  if  a  satisfactory  explanation  is  not,  within  a  period  specified  b
 
 (iv) Real estate.
 
-[S 63/04]
-
 327
 
 [[END OF PAGE 327]]
 
 [[START OF PAGE 328]]
 
-[S 63/04]
-
 #### JADUAL KEDUA
+
+[S 63/04]
 
 (bab 9(1))
 
 ##### DANA AMANAH KERAJAAN
 
-###### Pinjaman dan Pendahuluan -
+###### Pinjaman dan Pendahuluan —
 
 Kumpulanwang Luarjangka
 
@@ -9549,7 +9502,7 @@ Skim Pembiayaan Perniagaan Kecil dan Sederhana
 
 Dana Penyelesaian Jabatan
 
-###### Akaun Semasa Antara Pentadbiran dan Agensi -
+###### Akaun Semasa Antara Pentadbiran dan Agensi —
 
 Kerajaan Negeri Sabah
 
@@ -9567,11 +9520,47 @@ Kerajaan Singapura
 
 #### SECOND SCHEDULE
 
+[S 63/04]
+
 (section 9(1))
 
 ##### GOVERNMENT TRUST FUNDS
 
-[S 63/04]
+###### Loan and Advances —
+
+Contingencies Fund
+
+Housing Loans Fund
+
+Shophouses Loans Fund
+
+Development Loans Fund
+
+Livestock Loans Fund
+
+Personal Loans Fund
+
+Conveyance Advance Fund
+
+Personal Advance (Public Officers) Fund
+
+Miscellaneous Advances Fund
+
+Petty Cash Imprest Fund
+
+Small and Medium Business Financing Scheme
+
+Departmental Clearance Fund
+
+###### Inter Administration and Agency Current Accounts —
+
+Government of the State of Sabah
+
+Government of Malaysia
+
+Government of the State of Sarawak
+
+Government of Singapore
 
 329
 
@@ -9579,9 +9568,9 @@ Kerajaan Singapura
 
 [[START OF PAGE 330]]
 
-#### JADUAL KEDUA (sambungan)
+#### JADUAL KEDUA — (sambungan)
 
-###### Akaun Deposit -
+###### Akaun Deposit —
 
 Dana Orang Islam
 
@@ -9591,21 +9580,31 @@ Dana Hadiah Polis
 
 Peruntukan Rumah
 
-###### Stok dan Perdagangan -
+###### Stok dan Perdagangan —
 
 Jabatan Elektrik
 
-Jabatan Kerja Raya Barang-Barang Stor Yang Tidak Diperuntukkan Akaun Perdagangan Kerja Kecil Barang-Barang Stor Yang Tidak Diperuntukkan - Akaun Batu Akaun Perdagangan Produk Bitumen dan Konkrit Akaun Perdagangan Bengkel Barang-Barang Stor Yang Tidak Diperuntukkan - Akaun Petrol, Minyak dan Pelincir
+Barang-Barang Stor Yang Tidak Diperuntukkan
+
+Jabatan Kerja Raya
+
+Akaun Perdagangan Kerja Kecil
+
+Barang-Barang Stor Yang Tidak Diperuntukkan – Akaun Batu
+
+Akaun Perdagangan Produk Bitumen dan Konkrit
+
+Akaun Perdagangan Bengkel
+
+Barang-Barang Stor Yang Tidak Diperuntukkan – Akaun Petrol, Minyak dan Pelincir
 
 Barang-Barang Stor dan Perbekalan Negara
 
-Barang-Barang Stor Yang Tidak Diperuntukkan - Barang Makanan
-
-Perlu
+Barang-Barang Stor Yang Tidak Diperuntukkan – Barang Makanan Perlu
 
 Barang-Barang Stor Yang Tidak Diperuntukkan
 
-Barang-Barang Stor Yang Tidak Diperuntukkan - Bengkel (Alat Ganti)
+Barang-Barang Stor Yang Tidak Diperuntukkan – Bengkel (Alat Ganti)
 
 Akaun Perdagangan Pusat Kesenian dan Pertukangan Tangan
 
@@ -9617,9 +9616,9 @@ Akaun Perdagangan Perbekalan Syarikat Kerjasama
 
 [[START OF PAGE 331]]
 
-#### SECOND SCHEDULE (continued)
+#### SECOND SCHEDULE — (continued)
 
-###### Deposit Accounts -
+###### Deposit Accounts —
 
 Muslim Fund
 
@@ -9629,7 +9628,7 @@ Police Reward Fund
 
 Home Allotment
 
-###### Stocks and Trading -
+###### Stocks and Trading —
 
 Electricity Department
 
@@ -9639,21 +9638,21 @@ Public Works Department
 
 Small Works Trading Account
 
-Unallocated Stores - Stone Account
+Unallocated Stores – Stone Account
 
 Bitumen and Concrete Products Trading Account
 
 Workshop Trading Account
 
-Unallocated Stores - Petrol, Oil and Lubricants Account
+Unallocated Stores – Petrol, Oil and Lubricants Account
 
 State Stores and Supplies
 
-Unallocated Stores - Essential Foodstuffs
+Unallocated Stores – Essential Foodstuffs
 
 Unallocated Stores
 
-Unallocated Stores - Workshop (Spare Parts)
+Unallocated Stores – Workshop (Spare Parts)
 
 Arts and Crafts Centre Trading Account
 
@@ -9665,7 +9664,23 @@ Cooperative Supply Trading Account
 
 [[START OF PAGE 332]]
 
-#### JADUAL KEDUA (sambungan)
+#### JADUAL KEDUA — (sambungan)
+
+###### Dana Amanah —
+
+Dana Sustainabiliti
+
+[S 36/08]
+
+###### Sub-Dana Amanah —
+
+Dana Rizab Penstabilan Fiskal
+
+Dana Persaraan
+
+Dana Modal Pembangunan Strategik
+
+[S 36/08]
 
 332
 
@@ -9673,7 +9688,23 @@ Cooperative Supply Trading Account
 
 [[START OF PAGE 333]]
 
-#### SECOND SCHEDULE (continued)
+#### SECOND SCHEDULE — (continued)
+
+###### Trust Fund —
+
+the Sustainability Fund
+
+[S 36/08]
+
+###### Trust Sub-Funds —
+
+the Fiscal Stabilisation Reserve Fund
+
+the Retirement Fund
+
+the Strategic Development Capital Fund
+
+[S 36/08]
 
 333
 
