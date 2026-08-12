@@ -1,6 +1,7 @@
 [[START OF PAGE 1]]
-
-Start Dokument & lagar Skollag (2010:800) / /
+SVERIGES
+RIKSDAG
+Start / Dokument & lagar / Skollag (2010:800)
 
 # Skollag (2010:800)
 
@@ -106,9 +107,9 @@ Källa
 
 ### Skolväsendet
 
-Utbildning inom skolväsendet anordnas av det allmänna och av enskilda enligt 2
+1 § Denna lag innehåller bestämmelser om skolväsendet.
 
-- 1 § Denna lag innehåller bestämmelser om skolväsendet. kap. 2-6 §§.
+Utbildning inom skolväsendet anordnas av det allmänna och av enskilda enligt 2 kap. 2-6 §§.
 
 Skolväsendet omfattar skolformerna
 
@@ -306,11 +307,11 @@ Lag (2019:947) .
 
 Godkännande ska lämnas om den enskilde
 
-- genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för verksamheten,
+1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för verksamheten,
 
-- har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och
+2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och
 
-- i övrigt har förutsättningar att följa de föreskrifter som gäller för utbildningen.
+3. i övrigt har förutsättningar att följa de föreskrifter som gäller för utbildningen.
 
 Vidare krävs att den enskilde i övrigt bedöms lämplig. I fråga om en juridisk person krävs att samtliga som anges i 5 a § 1-4 bedöms lämpliga. Vid lämplighetsbedömningen ska viljan och förmågan att fullgöra sina skyldigheter mot det allmänna, laglydnad i övrigt och andra omständigheter av betydelse beaktas.
 
@@ -318,15 +319,15 @@ För att godkännande ska lämnas krävs därutöver att utbildningen inte inneb
 
 Ett godkännande ska avse viss utbildning vid en viss skolenhet eller förskoleenhet. Lag (2018:1158) .
 
-- 5 a § I fråga om en juridisk person ska prövningen enligt 5 § andra stycket 1 och tredje stycket sammantaget avse
+5 a § I fråga om en juridisk person ska prövningen enligt 5 § andra stycket 1 och tredje stycket sammantaget avse
 
-- den verkställande direktören och andra som genom en ledande ställning eller på annat sätt har ett bestämmande inflytande över verksamheten,
+1. den verkställande direktören och andra som genom en ledande ställning eller på annat sätt har ett bestämmande inflytande över verksamheten,
 
-- styrelseledamöter och styrelsesuppleanter,
+2. styrelseledamöter och styrelsesuppleanter,
 
-- bolagsmännen i kommanditbolag eller andra handelsbolag, och
+3. bolagsmännen i kommanditbolag eller andra handelsbolag, och
 
-- personer som genom ett direkt eller indirekt ägande har ett väsentligt inflytande över verksamheten. Lag (2018:1158) .
+4. personer som genom ett direkt eller indirekt ägande har ett väsentligt inflytande över verksamheten. Lag (2018:1158) .
 
 - 5 b § Enskilda huvudmän ska anmäla förändringar i den krets av personer som avses i 5 a § till den som godkänt den enskilde som huvudman senast en månad efter förändringen.
 
@@ -334,11 +335,11 @@ Lag (2018:1158) .
 
 - 5 c § Statens skolinspektion eller den kommun som handlägger ärenden om godkännande av en enskild som huvudman får ta ut en avgift för ansökningar om godkännande enligt 2 kap. 5 §. Lag (2018:1158) .
 
-- 5 d § Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om
+5 d § Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om
 
-- villkor för godkännande enligt 5 § andra stycket 1 och 2 och tredje stycket, samt
+1. villkor för godkännande enligt 5 § andra stycket 1 och 2 och tredje stycket, samt
 
-- avgifter för ansökningar hos Statens skolinspektion enligt 5 c §. Lag (2018:1158) .
+2. avgifter för ansökningar hos Statens skolinspektion enligt 5 c §. Lag (2018:1158) .
 
 /
 
@@ -474,17 +475,15 @@ Lag (2011:189) .
 
 Regeringen får meddela föreskrifter om avgifter i samband med ansökan om legitimation och komplettering av legitimation.
 
-Lag (2014:417)
+Lag (2014:417).
 
-.
+17 § Lärare som inte uppfyller kraven i 13 § får trots det bedriva
 
-- 17 § Lärare som inte uppfyller kraven i 13 § får trots det bedriva
+1. annan undervisning på ett främmande språk än språkundervisning om de har
 
-- annan undervisning på ett främmande språk än språkundervisning om de har
+a) en utländsk lärarutbildning som motsvarar en svensk lärarexamen, och
 
-- en utländsk lärarutbildning som motsvarar en svensk lärarexamen, och
-
-- kompetens att undervisa på det främmande språket, och
+b) kompetens att undervisa på det främmande språket, och
 
 2. undervisning i fristående skolor och fristående fritidshem med särskild pedagogisk inriktning.
 
@@ -492,15 +491,15 @@ Förskollärare som inte uppfyller kraven i 13 § får trots det bedriva undervi
 
 Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om vilka språk som avses i första stycket 1 och vilka särskilda pedagogiska inriktningar som avses i första stycket 2 och andra stycket. Lag (2018:1303) .
 
-- 18 § Om det inte finns någon att tillgå inom huvudmannens organisation som uppfyller kraven enligt 13 § eller om det finns något annat särskilt skäl med hänsyn till eleverna eller barnen, får en annan lärare eller förskollärare bedriva undervisningen. En sådan lärare eller förskollärare ska
+18 § Om det inte finns någon att tillgå inom huvudmannens organisation som uppfyller kraven enligt 13 § eller om det finns något annat särskilt skäl med hänsyn till eleverna eller barnen, får en annan lärare eller förskollärare bedriva undervisningen. En sådan lärare eller förskollärare ska
 
-- vara lämplig att bedriva undervisningen, och
+1. vara lämplig att bedriva undervisningen, och
 
-- i så stor utsträckning som möjligt ha en utbildning som motsvarar den utbildning som är behörighetsgivande.
+2. i så stor utsträckning som möjligt ha en utbildning som motsvarar den utbildning som är behörighetsgivande.
 
 En person som avses i första stycket får bedriva undervisning under högst ett år i sänder. Detta gäller dock inte om undervisningen avser
 
-- modersmål,
+1. modersmål,
 
 2. yrkesämne i gymnasieskola, gymnasiesärskola, kommunal vuxenutbildning på gymnasial nivå eller särskild utbildning för vuxna på gymnasial nivå, eller
 
@@ -514,7 +513,7 @@ En person som avses i första stycket får bedriva undervisning under högst ett
 
 Den som inte har legitimation som lärare får dock anställas som lärare i skolväsendet utan tidsbegränsning, om han eller hon ska undervisa i modersmål eller i ett yrkesämne i gymnasieskolan, gymnasiesärskolan, kommunal vuxenutbildning på gymnasial nivå eller särskild utbildning för vuxna på gymnasial nivå, eller individuella kurser eller orienteringskurser i kommunal vuxenutbildning. Detta gäller bara om
 
-- det saknas sökande som har legitimation,
+1. det saknas sökande som har legitimation,
 
 /
 
@@ -522,17 +521,17 @@ Den som inte har legitimation som lärare får dock anställas som lärare i sko
 
 [[START OF PAGE 12]]
 
-- den sökande har tillräcklig kompetens för att undervisa i det aktuella ämnet eller på den aktuella kursen, och
+2. den sökande har tillräcklig kompetens för att undervisa i det aktuella ämnet eller på den aktuella kursen, och
 
-- det finns skäl att anta att den sökande är lämplig att bedriva undervisningen.
+3. det finns skäl att anta att den sökande är lämplig att bedriva undervisningen.
 
 Även en lärare som är undantagen från krav på legitimation enligt föreskrifter som meddelats med stöd av 13 § tredje stycket och den som ska bedriva undervisning som avses i 17 § får anställas som lärare eller förskollärare i skolväsendet utan tidsbegränsning. Lag (2017:1104) .
 
 21 § I fråga om tidsbegränsning av en anställning som lärare eller förskollärare i skolväsendet gäller, utöver bestämmelserna i lagen (1982:80) om anställningsskydd, att den som ska bedriva undervisning
 
-- enligt 18 § får anställas för högst ett år i sänder,
+1. enligt 18 § får anställas för högst ett år i sänder,
 
-- inom ramen för en sådan försöksverksamhet som avses i 22 b § får anställas för högst två år.
+2. inom ramen för en sådan försöksverksamhet som avses i 22 b § får anställas för högst två år.
 
 I fall som avses i första stycket 2 får anställningstiden förlängas till högst tre år, om det finns särskilda skäl. Lag (2016:15) .
 
@@ -560,39 +559,39 @@ Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrif
 
 [[START OF PAGE 13]]
 
-- ska bedriva undervisning som lärare i skolväsendet i ett eller flera ämnen där det råder brist på legitimerade och behöriga lärare,
+1. ska bedriva undervisning som lärare i skolväsendet i ett eller flera ämnen där det råder brist på legitimerade och behöriga lärare,
 
-- har ämneskunskaper som motsvarar de ämneskunskaper som krävs för en behörighetsgivande lärarexamen i det eller de ämnen som personerna ska bedriva undervisning i, och
+2. har ämneskunskaper som motsvarar de ämneskunskaper som krävs för en behörighetsgivande lärarexamen i det eller de ämnen som personerna ska bedriva undervisning i, och
 
-- genomför en kompletterande pedagogisk utbildning för att uppnå en behörighetsgivande lärarexamen i det eller de ämnena. Lag (2016:15) .
+3. genomför en kompletterande pedagogisk utbildning för att uppnå en behörighetsgivande lärarexamen i det eller de ämnena. Lag (2016:15) .
 
 #### Varning och återkallelse av legitimation
 
-- 23 § Lärarnas ansvarsnämnd ska meddela en legitimerad lärare eller förskollärare en varning, om han eller hon
+23 § Lärarnas ansvarsnämnd ska meddela en legitimerad lärare eller förskollärare en varning, om han eller hon
 
-- varit oskicklig i sin yrkesutövning,
+1. varit oskicklig i sin yrkesutövning,
 
-- i eller i samband med yrkesutövningen gjort sig skyldig till brott som gör att hans eller hennes lämplighet att verka som lärare eller förskollärare kan sättas i fråga, eller
+2. i eller i samband med yrkesutövningen gjort sig skyldig till brott som gör att hans eller hennes lämplighet att verka som lärare eller förskollärare kan sättas i fråga, eller
 
-- på annat sätt visat sig mindre lämplig att bedriva undervisning.
+3. på annat sätt visat sig mindre lämplig att bedriva undervisning.
 
 Lärarnas ansvarsnämnd ska återkalla en legitimation, om den legitimerade
 
-- har varit grovt oskicklig i sin yrkesutövning,
+1. har varit grovt oskicklig i sin yrkesutövning,
 
-- i eller utanför yrkesutövningen har gjort sig skyldig till ett allvarligt brott som gör att hans eller hennes lämplighet att verka som lärare eller förskollärare kan sättas i fråga,
+2. i eller utanför yrkesutövningen har gjort sig skyldig till ett allvarligt brott som gör att hans eller hennes lämplighet att verka som lärare eller förskollärare kan sättas i fråga,
 
-- på grund av sjukdom eller någon liknande omständighet inte kan utöva yrket tillfredsställande,
+3. på grund av sjukdom eller någon liknande omständighet inte kan utöva yrket tillfredsställande,
 
-- på annat sätt är särskilt olämplig att bedriva undervisning,
+4. på annat sätt är särskilt olämplig att bedriva undervisning,
 
-- inte följt ett föreläggande om läkarundersökning enligt 27 kap. 13 §, eller
+5. inte följt ett föreläggande om läkarundersökning enligt 27 kap. 13 §, eller
 
-- begär att legitimationen ska återkallas.
+6. begär att legitimationen ska återkallas.
 
 Om det finns särskilda skäl i fall som avses i första stycket 2 eller andra stycket 2, får Lärarnas ansvarsnämnd avstå från att meddela en varning eller återkallelse av legitimationen.
 
-Om Lärarnas ansvarsnämnd meddelar en varning eller beslutar att återkalla en legitimation, ska nämnden underrätta Statens§ skolverk och den legitimerades arbetsgivare om detta. Detsamma gäller om en allmän förvaltningsdomstol efter överklagande beslutar att meddela en varning, återkalla legitimationen eller undanröja nämndens beslut om varning eller återkallelse. Lag (2011:189) .
+Om Lärarnas ansvarsnämnd meddelar en varning eller beslutar att återkalla en legitimation, ska nämnden underrätta Statens skolverk och den legitimerades arbetsgivare om detta. Detsamma gäller om en allmän förvaltningsdomstol efter överklagande beslutar att meddela en varning, återkalla legitimationen eller undanröja nämndens beslut om varning eller återkallelse. Lag (2011:189) .
 
 24 § Om ansvarsnämnden eller en allmän förvaltningsdomstol beslutar att återkalla en legitimation, ska ansvarsnämnden besluta att underrätta de behöriga myndigheterna i övriga stater inom Europeiska ekonomiska samarbetsområdet (EES) och i Schweiz om beslutet eller domen. Myndigheterna ska underrättas senast tre dagar efter den dag då det beslut eller den dom som underrättelsen avser har meddelats. Om detta beslut eller denna dom senare upphör att gälla, ska ansvarsnämnden utan dröjsmål underrätta de behöriga myndigheterna i övriga stater inom EES och i Schweiz.
 
@@ -654,11 +653,11 @@ Den som inte uppfyller kravet enligt första stycket får anställas för studie
 
 Registerutdrag som avses i första stycket ska lämnas även av den som
 
-- erbjuds eller tilldelas arbete inom sådan verksamhet som avses i första stycket under omständigheter liknande dem som förekommer i ett anställningsförhållande inom verksamheten, om det sker genom uppdrag, anställning hos någon som ingått avtal med den som bedriver verksamheten eller anställning inom annan kommunal verksamhet,
+1. erbjuds eller tilldelas arbete inom sådan verksamhet som avses i första stycket under omständigheter liknande dem som förekommer i ett anställningsförhållande inom verksamheten, om det sker genom uppdrag, anställning hos någon som ingått avtal med den som bedriver verksamheten eller anställning inom annan kommunal verksamhet,
 
-- under utbildning till en lärar- eller förskollärarexamen enligt högskolelagen (1992:1434) eller yrkesutbildning inom kommunal vuxenutbildning tilldelas plats för verksamhetsförlagd del av utbildningen inom sådan verksamhet som avses i första stycket, eller
+2. under utbildning till en lärar- eller förskollärarexamen enligt högskolelagen (1992:1434) eller yrkesutbildning inom kommunal vuxenutbildning tilldelas plats för verksamhetsförlagd del av utbildningen inom sådan verksamhet som avses i första stycket, eller
 
-- genom deltagande i ett arbetsmarknadspolitiskt program tilldelas plats för arbetspraktik eller annan programinsats inom sådan verksamhet som avses i första stycket.
+3. genom deltagande i ett arbetsmarknadspolitiskt program tilldelas plats för arbetspraktik eller annan programinsats inom sådan verksamhet som avses i första stycket.
 
 Registerutdraget ska i de fall som avses i andra stycket lämnas till den inom verksamheten som beslutar om att anlita eller ta emot någon på ett sådant sätt som avses där. Den som inte har lämnat ett sådant registerutdrag får inte anlitas eller tas emot i verksamheten.
 
@@ -680,7 +679,7 @@ Registerutdraget ska i de fall som avses i andra stycket lämnas till den inom v
 
 [[START OF PAGE 16]]
 
-Huvudmannen ska se till att förskollärare, lärare och annan personal vid förskoleoch skolenheterna har nödvändiga insikter i de föreskrifter som gäller för skolväsendet.
+Huvudmannen ska se till att förskollärare, lärare och annan personal vid förskole- och skolenheterna har nödvändiga insikter i de föreskrifter som gäller för skolväsendet.
 
 ### Lokaler och utrustning och tillgång till skolbibliotek
 
@@ -744,13 +743,13 @@ Det behöver inte göras någon särskild bedömning om förutsättningarna i 5 
 
 #### Samråd med personal med specialpedagogisk kompetens
 
-- 4 a § Ansvarig förskollärare eller lärare ska samråda med personal med specialpedagogisk kompetens vid
+4 a § Ansvarig förskollärare eller lärare ska samråda med personal med specialpedagogisk kompetens vid
 
-- en särskild bedömning enligt 4 §,
+1. en särskild bedömning enligt 4 §,
 
-- planering av stöd som anges i 5 § när det i förskoleklassen eller lågstadiet upptäcks att sådant stöd behöver ges i svenska, svenska som andraspråk eller matematik, och
+2. planering av stöd som anges i 5 § när det i förskoleklassen eller lågstadiet upptäcks att sådant stöd behöver ges i svenska, svenska som andraspråk eller matematik, och
 
-- uppföljning enligt 4 b §.
+3. uppföljning enligt 4 b §.
 
 Sådant samråd behöver inte genomföras om den ansvariga förskolläraren eller läraren har specialpedagogisk kompetens. Lag (2018:1098) .
 
@@ -826,13 +825,13 @@ Rektorn ansvarar för att en elev med anpassad studiegång får en utbildning so
 
 #### Definition av nyanländ
 
-- 12 a § Med nyanländ avses i denna lag den som
+12 a § Med nyanländ avses i denna lag den som
 
-- har varit bosatt utomlands,
+1. har varit bosatt utomlands,
 
-- nu är bosatt i landet, och
+2. nu är bosatt i landet, och
 
-- har påbörjat sin utbildning här senare än höstterminens start det kalenderår då han eller hon fyller sju år.
+3. har påbörjat sin utbildning här senare än höstterminens start det kalenderår då han eller hon fyller sju år.
 
 En elev ska inte längre anses vara nyanländ efter fyra års skolgång här i landet.
 
@@ -854,9 +853,9 @@ Som bosatt utomlands anses den som inte anses bosatt i landet enligt 29 kap. 2 �
 
 Om det behövs ska en sådan bedömning göras även för en elev som
 
-- har varit bosatt utomlands och som har påbörjat sin utbildning här senast vid höstterminens start det kalenderår då han eller hon fyller sju år, eller
+1. har varit bosatt utomlands och som har påbörjat sin utbildning här senast vid höstterminens start det kalenderår då han eller hon fyller sju år, eller
 
-- efter skolgång i Sverige har varit bosatt utomlands och därefter har återvänt till Sverige för att återuppta sin utbildning här.
+2. efter skolgång i Sverige har varit bosatt utomlands och därefter har återvänt till Sverige för att återuppta sin utbildning här.
 
 Rektorn ansvarar för att bedömningar görs enligt första och andra styckena.
 
@@ -896,19 +895,19 @@ Studieplanen ska revideras löpande utifrån de bedömningar som görs av eleven
 
 #### Anpassad timplan
 
-- 12 h § Rektorn får besluta att en nyanländ elev som har tagits emot inom skolväsendet i högstadiet i grundskolan eller specialskolan, ska ges undervisning som avviker från den timplan samt de ämnen och mål som annars gäller för utbildningen (anpassad timplan), om
+12 h § Rektorn får besluta att en nyanländ elev som har tagits emot inom skolväsendet i högstadiet i grundskolan eller specialskolan, ska ges undervisning som avviker från den timplan samt de ämnen och mål som annars gäller för utbildningen (anpassad timplan), om
 
 1. rektorn efter att elevens kunskaper har bedömts enligt 12 c § eller senare, bedömer att eleven kommer att ha svårt att nå behörighet till ett nationellt program i gymnasieskolan inom ramen för skolplikten eller motsvarande rätt till utbildning enligt 7 kap. 2 §, och
 
-- eleven och elevens vårdnadshavare har samtyckt till den anpassade timplanen.
+2. eleven och elevens vårdnadshavare har samtyckt till den anpassade timplanen.
 
 En anpassad timplan ska utformas så att
 
-- eleven ges undervisning i sådana ämnen och minst det antal ämnen som krävs för att nå behörighet till ett nationellt program i gymnasieskolan,
+1. eleven ges undervisning i sådana ämnen och minst det antal ämnen som krävs för att nå behörighet till ett nationellt program i gymnasieskolan,
 
-- ett av de ämnen som avses i 1 är idrott och hälsa, och
+2. ett av de ämnen som avses i 1 är idrott och hälsa, och
 
-- eleven ges minst den totala undervisningstid som återstår för övriga elever i den årskursen hos huvudmannen under den kvarvarande skoltiden. Lag (2018:1303) .
+3. eleven ges minst den totala undervisningstid som återstår för övriga elever i den årskursen hos huvudmannen under den kvarvarande skoltiden. Lag (2018:1303) .
 
 #### Studiehandledning på modersmålet
 
@@ -982,11 +981,11 @@ Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrif
 
 Ändring enligt första stycket ska göras av rektorn om
 
-- den som har fattat det ursprungliga beslutet inte längre är anställd av huvudmannen eller är förhindrad på grund av något annat liknande skäl,
+1. den som har fattat det ursprungliga beslutet inte längre är anställd av huvudmannen eller är förhindrad på grund av något annat liknande skäl,
 
-- det ursprungliga beslutet har fattats av flera personer och någon eller några av dem inte längre är anställda av huvudmannen eller är förhindrade på grund av något annat liknande skäl, eller
+2. det ursprungliga beslutet har fattats av flera personer och någon eller några av dem inte längre är anställda av huvudmannen eller är förhindrade på grund av något annat liknande skäl, eller
 
-- det ursprungliga beslutet har fattats av flera personer och dessa inte kan enas.
+3. det ursprungliga beslutet har fattats av flera personer och dessa inte kan enas.
 
 #### Prövning för betyg
 
@@ -1028,9 +1027,7 @@ Kvalitetsarbetet på enhetsnivå ska genomföras under medverkan av lärare, fö
 
 Rektorn ansvarar för att kvalitetsarbete vid enheten genomförs enligt första och andra styckena.
 
-.
-
-Lag (2018:1303)
+Lag (2018:1303).
 
 #### Inriktningen på det systematiska kvalitetsarbetet
 
@@ -1650,9 +1647,7 @@ Om förutsättningarna för en utredning om särskilt stöd enligt 3 kap. 7 § �
 
 När en utredning om en elevs frånvaro har inletts ska rektorn se till att frånvaron snarast anmäls till huvudmannen.
 
-.
-
-Lag (2018:1098)
+Lag (2018:1098).
 
 ### Ansvar för att skolplikten fullgörs
 
@@ -2230,7 +2225,7 @@ Utvecklingssamtal ska i vissa fall resultera i ett sådant åtgärdsprogram som 
 
 - 13 § I årskurs 1-5 ska läraren en gång per läsår, vid ett av utvecklingssamtalen, i en skriftlig individuell utvecklingsplan
 
-- ge omdömen om elevens kunskapsutveckling i förhållande till kunskapskraven i
+1. ge omdömen om elevens kunskapsutveckling i förhållande till kunskapskraven i
 
 /
 
@@ -2240,7 +2235,7 @@ Utvecklingssamtal ska i vissa fall resultera i ett sådant åtgärdsprogram som 
 
 de ämnen som eleven får undervisning i, och
 
-- sammanfatta vilka insatser som behövs för att eleven ska nå kunskapskraven och i övrigt utvecklas så långt som möjligt inom ramen för läroplanen.
+2. sammanfatta vilka insatser som behövs för att eleven ska nå kunskapskraven och i övrigt utvecklas så långt som möjligt inom ramen för läroplanen.
 
 Den individuella utvecklingsplanen får även innehålla omdömen om elevens utveckling i övrigt inom ramen för läroplanen, om rektorn beslutar det. Överenskommelser mellan läraren, eleven och elevens vårdnadshavare vid utvecklingssamtalet ska alltid dokumenteras i utvecklingsplanen. Rektorn beslutar om utformningen av sådan skriftlig information som ges i utvecklingsplanen.
 
@@ -2386,9 +2381,9 @@ omfattar dock inte elever som med stöd av 25-27 §§ går i en annan kommuns gr
 
 Kommunen får annars frångå elevens vårdnadshavares önskemål endast om
 
-- den önskade placeringen skulle medföra betydande organisatoriska eller ekonomiska svårigheter för kommunen, eller
+1. den önskade placeringen skulle medföra betydande organisatoriska eller ekonomiska svårigheter för kommunen, eller
 
-- det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
+2. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
 
 Beslut enligt andra stycket 2 gäller omedelbart, om inte annat beslutas.
 
@@ -2430,11 +2425,11 @@ Den kommun som anordnar utbildningen ska ombesörja att skolskjuts anordnas enli
 
 - 35 § Varje fristående grundskola ska vara öppen för alla elever som har rätt till utbildning i grundskolan. Utbildningen får dock begränsas till att avse
 
-- vissa årskurser,
+1. vissa årskurser,
 
-- elever som är i behov av särskilt stöd, och
+2. elever som är i behov av särskilt stöd, och
 
-- vissa elever som utbildningen är speciellt anpassad för.
+3. vissa elever som utbildningen är speciellt anpassad för.
 
 Huvudmannen behöver inte ta emot eller ge fortsatt utbildning åt en elev om hemkommunen har beslutat att inte lämna bidrag för eleven enligt 39 § tredje stycket.
 
@@ -2444,11 +2439,11 @@ Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrif
 
 - 36 § Om det inte finns plats för alla sökande, ska urvalet göras på grunder som är förenliga med 35 § första stycket och som Statens skolinspektion godkänner, om inte annat följer av
 
-- föreskrifter som meddelats med stöd av 9 § tredje stycket,
+1. föreskrifter som meddelats med stöd av 9 § tredje stycket,
 
-- andra föreskrifter som avser fristående skolor med särskild pedagogisk inriktning eller särskilda utbildningar, eller
+2. andra föreskrifter som avser fristående skolor med särskild pedagogisk inriktning eller särskilda utbildningar, eller
 
-- ett beslut som har fattats med stöd av 9 a §.
+3. ett beslut som har fattats med stöd av 9 a §.
 
 Regeringen kan med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter som innebär ytterligare undantag för vissa elever. Lag (2016:911) .
 
@@ -2468,29 +2463,29 @@ Första stycket gäller inte om statsbidrag lämnas för en elevs utbildning på
 
 - 38 § Grundbeloppet ska avse ersättning för
 
-- undervisning,
+1. undervisning,
 
-- lärverktyg,
+2. lärverktyg,
 
-- elevhälsa,
+3. elevhälsa,
 
-- måltider,
+4. måltider,
 
-- administration,
+5. administration,
 
-- mervärdesskatt, och
+6. mervärdesskatt, och
 
-- lokalkostnader.
+7. lokalkostnader.
 
 Grundbeloppet ska bestämmas efter samma grunder som hemkommunen tillämpar vid fördelning av resurser till den egna grundskolan.
 
 - 39 § Tilläggsbelopp ska lämnas för elever som
 
-- har ett omfattande behov av särskilt stöd,
+1. har ett omfattande behov av särskilt stöd,
 
-- ska erbjudas modersmålsundervisning, eller
+2. ska erbjudas modersmålsundervisning, eller
 
-- deltar i lovskola.
+3. deltar i lovskola.
 
 Tilläggsbeloppet för en elev i behov av särskilt stöd ska vara individuellt bestämt utifrån elevens behov.
 
@@ -2628,19 +2623,19 @@ Samråd med elevens vårdnadshavare ska ske innan beslut fattas.
 
 9 § Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om
 
-- undervisningstid utöver vad som följer av 7 §,
+1. undervisningstid utöver vad som följer av 7 §,
 
-- avvikelser från 6 § och från timplanen utöver vad som följer av 3 kap. 12 § (anpassad studiegång) eller 7 kap. 9 § andra stycket (integrerad undervisning), om det behövs med hänsyn till elevernas förmåga, och
+2. avvikelser från 6 § och från timplanen utöver vad som följer av 3 kap. 12 § (anpassad studiegång) eller 7 kap. 9 § andra stycket (integrerad undervisning), om det behövs med hänsyn till elevernas förmåga, och
 
-- andra begränsade avvikelser från 6 § och från timplanen.
+3. andra begränsade avvikelser från 6 § och från timplanen.
 
 #### Modersmålsundervisning
 
 - 10 § En elev som har en vårdnadshavare med ett annat modersmål än svenska ska erbjudas modersmålsundervisning i detta språk om
 
-- språket är elevens dagliga umgängesspråk i hemmet, och
+1. språket är elevens dagliga umgängesspråk i hemmet, och
 
-- eleven har grundläggande kunskaper i språket.
+2. eleven har grundläggande kunskaper i språket.
 
 En elev som tillhör någon av de nationella minoriteterna ska erbjudas modersmålsundervisning i elevens nationella minoritetsspråk.
 
@@ -2744,9 +2739,9 @@ För den elev som inte uppnår kraven för betyget E, ska betyg inte sättas i �
 
 Vid bedömningen ska elevens kunskaper
 
-- i årskurs 6 ställas i relation till de kunskaper en elev ska ha uppnått vid betygstillfället i förhållande till kunskapskraven i årskurs 6, och
+1. i årskurs 6 ställas i relation till de kunskaper en elev ska ha uppnått vid betygstillfället i förhållande till kunskapskraven i årskurs 6, och
 
-- efter årskurs 6 ställas i relation till de kunskaper en elev ska ha uppnått vid betygstillfället i förhållande till kunskapskraven i årskurs 9. Lag (2010:2022) .
+2. efter årskurs 6 ställas i relation till de kunskaper en elev ska ha uppnått vid betygstillfället i förhållande till kunskapskraven i årskurs 9. Lag (2010:2022) .
 
 #### Betyg när ett ämne har avslutats
 
@@ -2772,9 +2767,9 @@ Utvecklingsstörningen får dock beaktas om det finns synnerliga skäl. Lag (201
 
 Skyldigheten enligt första stycket ska fullgöras genom att hemkommunen
 
-- anordnar grundsärskola i den omfattning som krävs för att bereda utbildning för alla i kommunen som är berörda, eller
+1. anordnar grundsärskola i den omfattning som krävs för att bereda utbildning för alla i kommunen som är berörda, eller
 
-- kommer överens med en annan kommun att den i sin grundsärskola ska ta emot de elever som hemkommunen ansvarar för.
+2. kommer överens med en annan kommun att den i sin grundsärskola ska ta emot de elever som hemkommunen ansvarar för.
 
 #### Mottagande i en annan kommun
 
@@ -2854,11 +2849,11 @@ Den kommun som anordnar utbildningen ska ombesörja att skolskjuts anordnas enli
 
 Utbildningen får dock begränsas till att avse
 
-- vissa årskurser,
+1. vissa årskurser,
 
-- elever som är i behov av särskilt stöd, och
+2. elever som är i behov av särskilt stöd, och
 
-- vissa elever som utbildningen är speciellt anpassad för.
+3. vissa elever som utbildningen är speciellt anpassad för.
 
 Huvudmannen behöver inte ta emot eller ge fortsatt utbildning åt en elev, om hemkommunen har beslutat att inte lämna bidrag för eleven enligt 38 § andra stycket.
 
@@ -2890,19 +2885,19 @@ Lag (2015:73) .
 
 - 37 § Grundbeloppet ska avse ersättning för
 
-- undervisning,
+1. undervisning,
 
-- lärverktyg,
+2. lärverktyg,
 
-- elevhälsa,
+3. elevhälsa,
 
-- måltider,
+4. måltider,
 
-- administration,
+5. administration,
 
-- mervärdesskatt, och
+6. mervärdesskatt, och
 
-- lokalkostnader.
+7. lokalkostnader.
 
 Grundbeloppet ska bestämmas efter samma grunder som hemkommunen tillämpar vid fördelning av resurser till den egna grundsärskolan.
 
@@ -3004,19 +2999,19 @@ Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap.
 
 - 6 § Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om
 
-- undervisningstid utöver vad som följer av 5 §,
+1. undervisningstid utöver vad som följer av 5 §,
 
-- begränsade avvikelser från 4 § utöver vad som följer av 3 kap. 12 § (anpassad studiegång), om det finns särskilda skäl, och
+2. begränsade avvikelser från 4 § utöver vad som följer av 3 kap. 12 § (anpassad studiegång), om det finns särskilda skäl, och
 
-- avvikelser för elever med utvecklingsstörning från den ämnesindelning som anges i 4 §.
+3. avvikelser för elever med utvecklingsstörning från den ämnesindelning som anges i 4 §.
 
 #### Modersmålsundervisning
 
 - 7 § En elev som har en vårdnadshavare med ett annat modersmål än svenska ska erbjudas modersmålsundervisning i detta språk om
 
-- språket är elevens dagliga umgängesspråk i hemmet, och
+1. språket är elevens dagliga umgängesspråk i hemmet, och
 
-- eleven har grundläggande kunskaper i språket.
+2. eleven har grundläggande kunskaper i språket.
 
 En elev som tillhör någon av de nationella minoriteterna ska erbjudas modersmålsundervisning i elevens nationella minoritetsspråk.
 
@@ -3086,9 +3081,9 @@ Om ett åtgärdsprogram utarbetas behöver inte den skriftliga individuella utve
 
 - 13 a § I årskurs 7-10 ska, om grundsärskolans kursplaner tillämpas och eleven får undervisning i ett ämnesområde eller ett ämne som eleven eller vårdnadshavaren inte begär betyg i, läraren en gång per läsår vid ett av utvecklingssamtalen i en skriftlig individuell utvecklingsplan
 
-- ge omdömen om elevens kunskapsutveckling i förhållande till kunskapskraven i ämnesområdet eller ämnet, och
+1. ge omdömen om elevens kunskapsutveckling i förhållande till kunskapskraven i ämnesområdet eller ämnet, och
 
-- sammanfatta vilka insatser som behövs för att eleven ska nå kunskapskraven och i övrigt utvecklas så långt som möjligt inom ramen för läroplanen i det ämnesområdet eller ämnet.
+2. sammanfatta vilka insatser som behövs för att eleven ska nå kunskapskraven och i övrigt utvecklas så långt som möjligt inom ramen för läroplanen i det ämnesområdet eller ämnet.
 
 Rektorn beslutar om utformningen av sådan skriftlig information som ges i utvecklingsplanen.
 
@@ -3130,9 +3125,9 @@ Om undervisningen i naturorienterande ämnen och samhällsorienterande ämnen i 
 
 Vid bedömningen ska elevens kunskaper
 
-- i årskurs 7 ställas i relation till de kunskaper en elev ska ha uppnått vid betygstillfället i förhållande till kunskapskraven i årskurs 7, och
+1. i årskurs 7 ställas i relation till de kunskaper en elev ska ha uppnått vid betygstillfället i förhållande till kunskapskraven i årskurs 7, och
 
-- efter årskurs 7 ställas i relation till de kunskaper en elev ska ha uppnått vid betygstillfället i förhållande till kunskapskraven i årskurs 10. Lag (2010:2022) .
+2. efter årskurs 7 ställas i relation till de kunskaper en elev ska ha uppnått vid betygstillfället i förhållande till kunskapskraven i årskurs 10. Lag (2010:2022) .
 
 #### Betyg när ett ämne har avslutats
 
@@ -3262,19 +3257,17 @@ Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap.
 
 - 6 § Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om
 
-- undervisningstid utöver vad som följer av 5 §, och
+1. undervisningstid utöver vad som följer av 5 §, och
 
-- begränsade avvikelser från 4 § och från timplanen utöver vad som följer av 3
-
-- kap. 11 § (anpassad studiegång), om det finns särskilda skäl.
+2. begränsade avvikelser från 4 § och från timplanen utöver vad som följer av 3 kap. 11 § (anpassad studiegång), om det finns särskilda skäl.
 
 #### Modersmålsundervisning
 
 - 7 § En elev som har en vårdnadshavare med ett annat modersmål än svenska ska erbjudas modersmålsundervisning i detta språk om
 
-- språket är elevens dagliga umgängesspråk i hemmet, och
+1. språket är elevens dagliga umgängesspråk i hemmet, och
 
-- eleven har grundläggande kunskaper i språket.
+2. eleven har grundläggande kunskaper i språket.
 
 En elev som tillhör någon av de nationella minoriteterna ska erbjudas modersmålsundervisning i elevens nationella minoritetsspråk.
 
@@ -4531,9 +4524,9 @@ Vad som gäller för urval bland mottagna sökande och antagning till utbildning
 
 Bidraget består av
 
-- bidrag för den del av utbildningen som motsvarar det nationella program som det programinriktade valet är inriktat mot, och
+1. bidrag för den del av utbildningen som motsvarar det nationella program som det programinriktade valet är inriktat mot, och
 
-- bidrag för den del av utbildningen som avser det stöd som eleven behöver för att uppnå behörighet för det nationella programmet.
+2. bidrag för den del av utbildningen som avser det stöd som eleven behöver för att uppnå behörighet för det nationella programmet.
 
 Bidrag enligt andra stycket 2 ska lämnas under högst ett år.
 
@@ -4579,9 +4572,9 @@ Lag (2014:530) .
 
 - 4 § Vidareutbildningen ska vara öppen endast för den som har genomgått utbildning på teknikprogrammet eller har likvärdiga kunskaper och som påbörjar vidareutbildningen
 
-- terminen efter det att han eller hon har avslutat utbildningen på teknikprogrammet eller motsvarande utbildning, eller
+1. terminen efter det att han eller hon har avslutat utbildningen på teknikprogrammet eller motsvarande utbildning, eller
 
-- senast det kalenderår då han eller hon fyller 22 år. Lag (2014:530) .
+2. senast det kalenderår då han eller hon fyller 22 år. Lag (2014:530) .
 
 ### Utbildningens utformning och innehåll
 
@@ -4655,9 +4648,7 @@ Regeringen eller den myndighet som regeringen bestämmer meddelar närmare före
 
 Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om behörighetsvillkor.
 
-Lag (2014:530)
-
-.
+Lag (2014:530).
 
 #### Ansökan och ansökningsförfarandet
 
@@ -4709,11 +4700,7 @@ Av 29 kap. 8 § följer att det som sägs i denna lag om ungdomar med utveckling
 
 #### Samverkan
 
-- Huvudmannen för gymnasiesärskolan ska samverka med samhället i övrigt.
-
-- 3 §
-
-- Lag (2012:109) .
+- 3 § Huvudmannen för gymnasiesärskolan ska samverka med samhället i övrigt. Lag (2012:109) .
 
 #### Målgrupp
 
@@ -4783,9 +4770,7 @@ Om en elev i gymnasiesärskolan utan giltigt skäl uteblir från den verksamhet 
 
 Vid upprepad eller längre frånvaro ska rektorn, oavsett om det är fråga om giltig eller ogiltig frånvaro, se till att frånvaron skyndsamt utreds om det inte är obehövligt. Om förutsättningarna för en utredning om särskilt stöd enligt 3 kap. 7 § är uppfyllda ska även en sådan utredning inledas.
 
-.
-
-Lag (2018:1098)
+Lag (2018:1098).
 
 #### Avgifter
 
@@ -4811,9 +4796,9 @@ Lag (2012:109) .
 
 - 19 § En elev som har en vårdnadshavare med ett annat modersmål än svenska ska erbjudas modersmålsundervisning i detta språk om
 
-- språket är elevens dagliga umgängesspråk i hemmet, och
+1. språket är elevens dagliga umgängesspråk i hemmet, och
 
-- eleven har goda kunskaper i språket.
+2. eleven har goda kunskaper i språket.
 
 En elev som tillhör någon av de nationella minoriteterna ska erbjudas modersmålsundervisning i elevens nationella minoritetsspråk om eleven har goda kunskaper i språket.
 
@@ -4983,11 +4968,7 @@ Elevens hemkommun ska ombesörja att skolskjuts anordnas enligt första stycket.
 
 #### De nationella programmen
 
-- 2 §
-
-Lag (2018:749)
-
-- Vilka de nationella programmen är framgår av bilaga 3. .
+- 2 § Vilka de nationella programmen är framgår av bilaga 3. Lag (2018:749) .
 
 - 3 § I de nationella programmen ska följande ämnen ingå:
 
@@ -5019,11 +5000,7 @@ Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligar
 
 #### Programmål
 
-- 5 §
-
-Lag (2012:109)
-
-- För varje nationellt program ska det finnas programmål. .
+- 5 § För varje nationellt program ska det finnas programmål. Lag (2012:109) .
 
 #### Nationella inriktningar och särskilda varianter
 
@@ -5059,13 +5036,13 @@ Om eleven är under 18 år ska även elevens vårdnadshavare underteckna utbildn
 
 I utbildningskontraktet ska det anges
 
-- vilka delar av utbildningen som ska genomföras på arbetsplatsen, hur många veckor av utbildningen som ska genomföras där varje termin och vilka tider som ska gälla för utbildningen på arbetsplatsen,
+1. vilka delar av utbildningen som ska genomföras på arbetsplatsen, hur många veckor av utbildningen som ska genomföras där varje termin och vilka tider som ska gälla för utbildningen på arbetsplatsen,
 
-- hur kostnaderna för de skador som eleven kan orsaka under den arbetsplatsförlagda delen av utbildningen ska fördelas mellan skolhuvudmannen och den juridiska eller fysiska person som avses i första stycket,
+2. hur kostnaderna för de skador som eleven kan orsaka under den arbetsplatsförlagda delen av utbildningen ska fördelas mellan skolhuvudmannen och den juridiska eller fysiska person som avses i första stycket,
 
-- avtalstiden och grunderna för att avtalet ska kunna upphöra innan avtalstiden löpt ut, och
+3. avtalstiden och grunderna för att avtalet ska kunna upphöra innan avtalstiden löpt ut, och
 
-- vilken lärare på skolenheten och vilken handledare på arbetsplatsen som ska vara kontaktpersoner för den arbetsplatsförlagda delen av utbildningen. Lag (2018:105) .
+4. vilken lärare på skolenheten och vilken handledare på arbetsplatsen som ska vara kontaktpersoner för den arbetsplatsförlagda delen av utbildningen. Lag (2018:105) .
 
 #### Erbjudande av viss utbildning
 
@@ -5151,9 +5128,7 @@ Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrif
 
 Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om poängplanen.
 
-Lag (2018:749)
-
-.
+Lag (2018:749).
 
 #### Ämnesplaner, ämnesområdesplaner, gymnasiesärskolearbete och kurser
 
@@ -5255,17 +5230,17 @@ jämställas med den som är hemmahörande i kommunen eller samverkansområdet f
 
 - 36 § Utöver det som följer av 35 § ska sådana sökande som inte är hemmahörande i kommunen eller inom samverkansområdet för utbildningen tas emot i första hand om de har sökt till
 
-- sådan utbildning som avses i 35 § och med hänsyn till sina personliga förhållanden har särskilda skäl att få gå i den gymnasiesärskola dit de har sökt,
+1. sådan utbildning som avses i 35 § och med hänsyn till sina personliga förhållanden har särskilda skäl att få gå i den gymnasiesärskola dit de har sökt,
 
-- ett nationellt program eller till en nationell inriktning som börjar det första läsåret och är hemmahörande i en kommun som inte erbjuder den sökta utbildningen,
+2. ett nationellt program eller till en nationell inriktning som börjar det första läsåret och är hemmahörande i en kommun som inte erbjuder den sökta utbildningen,
 
-- gymnasial lärlingsutbildning i gymnasiesärskolan som börjar det första läsåret och är hemmahörande i en kommun som inte erbjuder någon utbildning på det aktuella programmet,
+3. gymnasial lärlingsutbildning i gymnasiesärskolan som börjar det första läsåret och är hemmahörande i en kommun som inte erbjuder någon utbildning på det aktuella programmet,
 
-- ett nationellt program och har åberopat att huvudmannen inom det sökta programmet anordnar en nationell inriktning som börjar senare än första läsåret och som hemkommunen inte erbjuder,
+4. ett nationellt program och har åberopat att huvudmannen inom det sökta programmet anordnar en nationell inriktning som börjar senare än första läsåret och som hemkommunen inte erbjuder,
 
 5. ett nationellt program som saknar nationella inriktningar och har åberopat att huvudmannen anordnar programmet i huvudsak skolförlagt, vilket hemkommunen inte erbjuder, eller
 
-- en utbildning som det har fattats beslut om riksrekrytering för enligt 37 §. Lag (2012:109) .
+6. en utbildning som det har fattats beslut om riksrekrytering för enligt 37 §. Lag (2012:109) .
 
 #### Riksrekryterande utbildning
 
@@ -5323,7 +5298,7 @@ Erbjuder hemkommunen inte den aktuella utbildningen, har eleven rätt att efter 
 
 Lag (2019:947) .
 
-#### Interkommunal ersättning",
+#### Interkommunal ersättning
 
 - 43 § En kommun som på ett nationellt program har antagit en elev som inte är hemmahörande i kommunen eller i samverkansområdet för utbildningen ska ersättas för sina kostnader för elevens utbildning av hans eller hennes hemkommun (interkommunal ersättning).
 
@@ -5361,19 +5336,19 @@ Lag (2015:73) .
 
 - 46 § Grundbeloppet ska avse ersättning för
 
-- undervisning,
+1. undervisning,
 
-- lärverktyg,
+2. lärverktyg,
 
-- elevhälsa,
+3. elevhälsa,
 
-- måltider,
+4. måltider,
 
-- administration,
+5. administration,
 
-- mervärdesskatt, och
+6. mervärdesskatt, och
 
-- lokalkostnader.
+7. lokalkostnader.
 
 Lag (2012:109) .
 
@@ -5402,10 +5377,9 @@ Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrif
 - bestämmelser om kommunal vuxenutbildning på gymnasial nivå (16-23 §§),
 
 - bestämmelser om kommunal vuxenutbildning i svenska för invandrare (24-33
+§§),
 
 /
-
-§§),
 
 [[END OF PAGE 123]]
 
@@ -5445,7 +5419,7 @@ Utbildning på gymnasial nivå syftar till att ge vuxna kunskaper på en nivå s
 
 Utbildning i svenska för invandrare syftar till att ge vuxna invandrare grundläggande kunskaper i svenska språket.
 
-Utbildningen syftar också till att ge vuxna invandrare som saknar grundläggande läsoch skrivfärdigheter möjlighet att förvärva sådana färdigheter. Utbildningen får ske på elevens modersmål eller något annat språk som eleven behärskar. Lag (2015:482) .
+Utbildningen syftar också till att ge vuxna invandrare som saknar grundläggande läs- och skrivfärdigheter möjlighet att förvärva sådana färdigheter. Utbildningen får ske på elevens modersmål eller något annat språk som eleven behärskar. Lag (2015:482) .
 
 #### Kurser och gymnasiepoäng
 
@@ -5837,7 +5811,7 @@ Regeringen eller den myndighet som regeringen bestämmer meddelar ytterligare f�
 
 [[START OF PAGE 134]]
 
-2 § Målet för den särskilda utbildningen för vuxna är att vuxna med utvecklingsstörning ska stödjas och stimuleras i sitt lärande. De ska ges möjlighet att utveckla sina kunskaper och sin kompetens i syfte att stärka sin ställning i arbetsoch samhällslivet samt att främja sin personliga utveckling.
+2 § Målet för den särskilda utbildningen för vuxna är att vuxna med utvecklingsstörning ska stödjas och stimuleras i sitt lärande. De ska ges möjlighet att utveckla sina kunskaper och sin kompetens i syfte att stärka sin ställning i arbets- och samhällslivet samt att främja sin personliga utveckling.
 
 Utgångspunkten för utbildningen ska vara den enskildes behov och förutsättningar.
 
@@ -6578,15 +6552,17 @@ Om det vid tillsynen av verksamheten vid en skolenhet konstateras återkommande 
 
 #### Tillsynens omfattning
 
-- 3 § Statens skolinspektion har tillsyn över
+3 § Statens skolinspektion har tillsyn över
 
 1. skolväsendet, särskilda utbildningsformer och annan pedagogisk verksamhet enligt denna lag,
 
-- utbildning som avses i 29 kap. 17 §,
+2. utbildning som avses i 29 kap. 17 §,
 
-- hur en kommun uppfyller sina skyldigheter enligt 7 kap. 21 och 22 §§, 24 kap. 23 och 24 §§ samt 29 kap. 9 §,
+3. hur en kommun uppfyller sina skyldigheter enligt 7 kap. 21 och 22 §§, 24 kap. 23 och 24 §§ samt 29 kap. 9 §,
 
-- hur en kommun uppfyller sitt tillsynsansvar enligt 4 §, och 5. att enskilda som godkänts av Skolinspektionen fortlöpande uppfyller kraven i 2 kap. 5 och 5 b §§.
+4. hur en kommun uppfyller sitt tillsynsansvar enligt 4 §, och
+
+5. att enskilda som godkänts av Skolinspektionen fortlöpande uppfyller kraven i 2 kap. 5 och 5 b §§.
 
 /
 
@@ -6606,7 +6582,7 @@ Första stycket gäller inte om tillsynen är en särskild uppgift för en annan
 
 Kommunens tillsyn enligt första stycket omfattar inte tillsyn över att bestämmelserna i 6 kap. följs. Lag (2018:1158) .
 
-5 § Inspektionen för vård och omsorg utövar tillsyn över elevhemsboende vid Rhanpassad utbildning, specialskolan och viss utbildning för elever med utvecklingsstörning som bedrivs enligt avtal med staten. Lag (2012:958) .
+5 § Inspektionen för vård och omsorg utövar tillsyn över elevhemsboende vid Rh-anpassad utbildning, specialskolan och viss utbildning för elever med utvecklingsstörning som bedrivs enligt avtal med staten. Lag (2012:958) .
 
 #### Tillträde till lokaler och andra utrymmen
 
@@ -6652,27 +6628,27 @@ Ett föreläggande ska ange de åtgärder som tillsynsmyndigheten anser nödvän
 
 #### Avstående från ingripande
 
-- 12 § En tillsynsmyndighet får avstå från att ingripa om
+12 § En tillsynsmyndighet får avstå från att ingripa om
 
-- överträdelsen är ringa,
+1. överträdelsen är ringa,
 
-- den vars verksamhet granskas vidtar nödvändig rättelse, eller
+2. den vars verksamhet granskas vidtar nödvändig rättelse, eller
 
-- det i övrigt med hänsyn till omständigheterna finns särskilda skäl mot ett ingripande.
+3. det i övrigt med hänsyn till omständigheterna finns särskilda skäl mot ett ingripande.
 
 #### Återkallelse
 
-- 13 § En tillsynsmyndighet får återkalla ett godkännande, ett medgivande eller ett beslut om rätt till bidrag som myndigheten har meddelat enligt denna lag, om
+13 § En tillsynsmyndighet får återkalla ett godkännande, ett medgivande eller ett beslut om rätt till bidrag som myndigheten har meddelat enligt denna lag, om
 
-- ett föreläggande enligt 10 § inte har följts, och
+1. ett föreläggande enligt 10 § inte har följts, och
 
-- missförhållandet är allvarligt.
+2. missförhållandet är allvarligt.
 
 Ett godkännande eller beslut enligt första stycket får också återkallas om
 
-- ett föreläggande enligt 10 § inte har följts, och
+1. ett föreläggande enligt 10 § inte har följts, och
 
-- den enskilde vid den etableringskontroll som avses i 9 a § inte kan visa att rimliga åtgärder har vidtagits för att få till stånd ett samråd enligt 2 kap. 6 a §. Lag (2018:1158) .
+2. den enskilde vid den etableringskontroll som avses i 9 a § inte kan visa att rimliga åtgärder har vidtagits för att få till stånd ett samråd enligt 2 kap. 6 a §. Lag (2018:1158) .
 
 - 14 § Ett godkännande av en enskild som huvudman inom skolväsendet får återkallas om den enskilde inte längre uppfyller förutsättningarna för godkännande enligt 2 kap. 5 § andra stycket 1 och 2, tredje stycket och 6 §. Lag (2018:1158) .
 
@@ -6690,9 +6666,9 @@ Ett godkännande eller beslut enligt första stycket får också återkallas om
 
 17 § Statens skolinspektion får när det gäller en verksamhet som bedrivs av en kommun eller en region besluta att staten på kommunens eller regionens bekostnad ska vidta de åtgärder som behövs för att åstadkomma rättelse, om kommunen eller regionen
 
-- inte har följt ett föreläggande enligt 10 §, och
+1. inte har följt ett föreläggande enligt 10 §, och
 
-- missförhållandet är allvarligt.
+2. missförhållandet är allvarligt.
 
 Har staten haft kostnader för en åtgärd som vidtagits med stöd av denna paragraf, får denna kostnad kvittas mot belopp som staten annars skulle ha betalat ut till kommunen eller regionen. Lag (2019:947) .
 
@@ -6812,35 +6788,35 @@ För myndigheter och vissa andra organ finns det bestämmelser om behandling av 
 
 huvudman för
 
-- grundsärskola,
+1. grundsärskola,
 
-- specialskolan,
+2. specialskolan,
 
-- gymnasiesärskola,
+3. gymnasiesärskola,
 
-- särskild utbildning för vuxna,
+4. särskild utbildning för vuxna,
 
-- gymnasieskola med Rh-anpassad utbildning,
+5. gymnasieskola med Rh-anpassad utbildning,
 
-- utbildning i gymnasieskolan för elever som är döva, hörselskadade eller dövblinda eller har en språkstörning, och
+6. utbildning i gymnasieskolan för elever som är döva, hörselskadade eller dövblinda eller har en språkstörning, och
 
-- förskola, förskoleklass eller skola som har begränsats till att avse elever som är i behov av särskilt stöd.
+7. förskola, förskoleklass eller skola som har begränsats till att avse elever som är i behov av särskilt stöd.
 
 Regeringen får också meddela föreskrifter om undantag från sökbegränsningen i 3 kap. 3 § andra stycket dataskyddslagen i fråga om personuppgifter om
 
-- etniskt ursprung i verksamhet hos en huvudman för sameskolan, och
+1. etniskt ursprung i verksamhet hos en huvudman för sameskolan, och
 
-- hälsa och etniskt ursprung i verksamhet hos en kommun.
+2. hälsa och etniskt ursprung i verksamhet hos en kommun.
 
 Lag (2018:1354) .
 
 ### Personuppgifter som rör lagöverträdelser
 
-- 6 § Personuppgifter som avses i artikel 10 i EU:s dataskyddsförordning får behandlas i verksamhet hos en huvudman för en fristående skola om behandlingen är nödvändig i verksamheten och inte innebär ett otillbörligt intrång i den registrerades personliga integritet
+6 § Personuppgifter som avses i artikel 10 i EU:s dataskyddsförordning får behandlas i verksamhet hos en huvudman för en fristående skola om behandlingen är nödvändig i verksamheten och inte innebär ett otillbörligt intrång i den registrerades personliga integritet
 
-- i löpande text inom elevhälsan, och
+1. i löpande text inom elevhälsan, och
 
-- i skriftlig dokumentation som ska föras enligt 5 kap. 24 §.
+2. i skriftlig dokumentation som ska föras enligt 5 kap. 24 §.
 
 För myndigheter finns det bestämmelser om behandling av personuppgifter som avses i artikel 10 i EU:s dataskyddsförordning i 3 kap. 8 § dataskyddslagen. Där finns det även bestämmelser för andra än myndigheter som är skyldiga att följa föreskrifter om arkiv. Lag (2018:1354) .
 
@@ -6863,19 +6839,19 @@ För myndigheter finns det bestämmelser om behandling av personuppgifter som av
 
 ### Lärarnas ansvarsnämnd
 
-- 4 § Lärarnas ansvarsnämnd prövar efter anmälan av Statens skolinspektion frågor om lärares och förskollärares fortsatta rätt att inneha legitimation och om varning ska meddelas.
+4 § Lärarnas ansvarsnämnd prövar efter anmälan av Statens skolinspektion frågor om lärares och förskollärares fortsatta rätt att inneha legitimation och om varning ska meddelas.
 
 Nämnden prövar dessutom efter ansökan
 
-- av en legitimerad om hans eller hennes legitimation ska återkallas, och
+1. av en legitimerad om hans eller hennes legitimation ska återkallas, och
 
-- av en tidigare legitimerad om en ny legitimation ska meddelas.
+2. av en tidigare legitimerad om en ny legitimation ska meddelas.
 
 Vid en prövning av en ansökan enligt andra stycket 2 ska en ny legitimation meddelas om kraven i 2 kap. 16 § är uppfyllda. Lag (2014:417) .
 
 #### Sammansättning
 
-- 5 § Lärarnas ansvarsnämnd består av en ordförande och åtta andra ledamöter. De utses av regeringen för tre år. Ordföranden ska vara eller ha varit ordinarie domare. Övriga ledamöter ska ha särskild sakkunskap om och praktisk erfarenhet av skoleller förskoleverksamhet och lärares eller förskollärares uppdrag.
+5 § Lärarnas ansvarsnämnd består av en ordförande och åtta andra ledamöter. De utses av regeringen för tre år. Ordföranden ska vara eller ha varit ordinarie domare. Övriga ledamöter ska ha särskild sakkunskap om och praktisk erfarenhet av skol- eller förskoleverksamhet och lärares eller förskollärares uppdrag.
 
 För ordföranden ska för samma tid utses en eller flera ställföreträdare. En sådan ställföreträdare ska vara eller ha varit ordinarie domare. För varje annan ledamot ska det finnas ett tillräckligt antal ersättare som ska utses för samma tid som ledamoten. Lag (2011:189) .
 
@@ -6887,15 +6863,15 @@ I fråga om omröstning i ansvarsnämnden ska bestämmelserna i 29 kap. rätteg�
 
 #### Beslut av ordföranden
 
-- 7 § Ordföranden får ensam fatta beslut
+7 § Ordföranden får ensam fatta beslut
 
-- som inte innefattar slutligt avgörande i sak, dock inte beslut om föreläggande att genomgå läkarundersökning enligt 27 kap. 13 §,
+1. som inte innefattar slutligt avgörande i sak, dock inte beslut om föreläggande att genomgå läkarundersökning enligt 27 kap. 13 §,
 
-- om återkallelse på egen begäran av legitimation,
+2. om återkallelse på egen begäran av legitimation,
 
-- om återkallelse av legitimation när den legitimerade inte följt föreläggande om läkarundersökning, eller
+3. om återkallelse av legitimation när den legitimerade inte följt föreläggande om läkarundersökning, eller
 
-- om underrättelse enligt 2 kap. 24 §.
+4. om underrättelse enligt 2 kap. 24 §.
 
 Ärenden som har avgjorts enligt första stycket ska anmälas vid nästa sammanträde med nämnden. Lag (2016:151) .
 
@@ -6909,9 +6885,9 @@ I fråga om omröstning i ansvarsnämnden ska bestämmelserna i 29 kap. rätteg�
 
 [[START OF PAGE 159]]
 
-- vad som yrkas i ärendet, och
+2. vad som yrkas i ärendet, och
 
-- de omständigheter som åberopas till stöd för anmälan eller ansökan.
+3. de omständigheter som åberopas till stöd för anmälan eller ansökan.
 
 Om en part företräds av ombud ska fullmakt ges in. Lag (2011:189) .
 
@@ -6999,47 +6975,47 @@ Regeringen meddelar närmare föreskrifter om ersättning och förskott. Lag (20
 
 [[START OF PAGE 161]]
 
-- medgivande enligt 24 kap. 4 a § eller återkallelse av sådant medgivande enligt 26 kap. 13 §,
+2. medgivande enligt 24 kap. 4 a § eller återkallelse av sådant medgivande enligt 26 kap. 13 §,
 
-- förklaring om rätt till bidrag enligt 24 kap. 6 § eller återkallelse av sådan rätt enligt 26 kap. 13 §,
+3. förklaring om rätt till bidrag enligt 24 kap. 6 § eller återkallelse av sådan rätt enligt 26 kap. 13 §,
 
-- statliga åtgärder för rättelse enligt 26 kap. 17 §,
+4. statliga åtgärder för rättelse enligt 26 kap. 17 §,
 
-- tillfälligt verksamhetsförbud enligt 26 kap. 18 §, eller
+5. tillfälligt verksamhetsförbud enligt 26 kap. 18 §, eller
 
-- vitesföreläggande enligt 26 kap. 27 §.
+6. vitesföreläggande enligt 26 kap. 27 §.
 
 Lag (2015:802) .
 
 #### Beslut av Statens skolverk
 
-- 3 § Beslut av Statens skolverk får överklagas hos allmän förvaltningsdomstol om beslutet gäller
+3 § Beslut av Statens skolverk får överklagas hos allmän förvaltningsdomstol om beslutet gäller
 
-- vitesföreläggande enligt 26 kap. 27 §,
+1. vitesföreläggande enligt 26 kap. 27 §,
 
-- avslag på en ansökan om lärar- eller förskollärarlegitimation enligt 2 kap. 16 § eller enligt föreskrifter som meddelats med stöd av 2 kap. 16 b § första stycket, eller
+2. avslag på en ansökan om lärar- eller förskollärarlegitimation enligt 2 kap. 16 § eller enligt föreskrifter som meddelats med stöd av 2 kap. 16 b § första stycket, eller
 
-- avslag på en ansökan om komplettering av legitimation enligt 2 kap. 16 §. Lag (2014:417) .
+3. avslag på en ansökan om komplettering av legitimation enligt 2 kap. 16 §. Lag (2014:417) .
 
 #### Beslut av Lärarnas ansvarsnämnd
 
-- 4 § Beslut av Lärarnas ansvarsnämnd får överklagas hos allmän förvaltningsdomstol.
+4 § Beslut av Lärarnas ansvarsnämnd får överklagas hos allmän förvaltningsdomstol.
 
 Lärarnas ansvarsnämnds beslut får överklagas endast av
 
-- Statens skolinspektion för att tillvarata allmänna intressen, och
+1. Statens skolinspektion för att tillvarata allmänna intressen, och
 
-- den lärare eller förskollärare som beslutet riktar sig mot.
+2. den lärare eller förskollärare som beslutet riktar sig mot.
 
 Beslut av Lärarnas ansvarsnämnd som inte innebär att ett ärende avgörs, får överklagas endast i samband med överklagande av det slutliga beslutet i ärendet. Ett beslut som inte är slutligt får dock överklagas särskilt när nämnden
 
-- ogillat en invändning om jäv mot en ledamot av nämnden eller en invändning om att det finns hinder mot prövningen,
+1. ogillat en invändning om jäv mot en ledamot av nämnden eller en invändning om att det finns hinder mot prövningen,
 
-- avvisat ett ombud eller ett biträde,
+2. avvisat ett ombud eller ett biträde,
 
-- förelagt någon att genomgå läkarundersökning, eller
+3. förelagt någon att genomgå läkarundersökning, eller
 
-- förordnat om ersättning för någons medverkan i ärendet.
+4. förordnat om ersättning för någons medverkan i ärendet.
 
 Statens skolinspektion ska vara motpart till den lärare eller förskollärare som överklagat Lärarnas ansvarsnämnds eller en domstols slutliga beslut enligt denna lag.
 
@@ -7047,11 +7023,11 @@ Beslut av Lärarnas ansvarsnämnd gäller omedelbart om inte annat anges i beslu
 
 #### Beslut av en kommun eller en region
 
-- 5 § Beslut av en kommun eller en region får överklagas till allmän förvaltningsdomstol i fråga om
+5 § Beslut av en kommun eller en region får överklagas till allmän förvaltningsdomstol i fråga om
 
-- godkännande enligt 2 kap. 5 § eller återkallelse av sådant godkännande enligt 26 kap. 13 eller 14 §,
+1. godkännande enligt 2 kap. 5 § eller återkallelse av sådant godkännande enligt 26 kap. 13 eller 14 §,
 
-- bidrag enligt 8 kap. 21 §, 9 kap. 19 §, 10 kap. 37 §, 11 kap. 36 §, 14 kap. 15 §, 16 kap. 52 §, 17 kap. 35 § eller 19 kap. 45 §,
+2. bidrag enligt 8 kap. 21 §, 9 kap. 19 §, 10 kap. 37 §, 11 kap. 36 §, 14 kap. 15 §, 16 kap. 52 §, 17 kap. 35 § eller 19 kap. 45 §,
 
 /
 
@@ -7059,27 +7035,23 @@ Beslut av Lärarnas ansvarsnämnd gäller omedelbart om inte annat anges i beslu
 
 [[START OF PAGE 162]]
 
-- avstängning enligt 5 kap. 17 eller 19 §,
+3. avstängning enligt 5 kap. 17 eller 19 §,
 
-- föreläggande för vårdnadshavare att fullgöra sina skyldigheter enligt 7 kap. 23 §,
+4. föreläggande för vårdnadshavare att fullgöra sina skyldigheter enligt 7 kap. 23 §,
 
-- skolskjuts enligt 9 kap. 15 b § första stycket, 9 kap. 15 c § första stycket, 10 kap.
+5. skolskjuts enligt 9 kap. 15 b § första stycket, 9 kap. 15 c § första stycket, 10 kap. 32 § första stycket, 10 kap. 33 § första stycket, 11 kap. 31 § första stycket, 11 kap. 32 § första stycket, 18 kap. 30 § första stycket eller 18 kap. 31 § första stycket,
 
-- 32 § första stycket, 10 kap. 33 § första stycket, 11 kap. 31 § första stycket, 11 kap.
+6. ekonomiskt stöd till inackordering enligt 15 kap. 32 § eller 18 kap. 32 § första stycket,
 
-- 32 § första stycket, 18 kap. 30 § första stycket eller 18 kap. 31 § första stycket,
+7. medgivande att fullgöra skolplikten på annat sätt eller återkallelse av sådant medgivande enligt 24 kap. 23 eller 24 §,
 
-- ekonomiskt stöd till inackordering enligt 15 kap. 32 § eller 18 kap. 32 § första stycket,
+8. rätt till bidrag enligt 25 kap. 10 eller 15 § eller återkallelse av sådan rätt enligt 26 kap. 13 §,
 
-- medgivande att fullgöra skolplikten på annat sätt eller återkallelse av sådant medgivande enligt 24 kap. 23 eller 24 §,
+9. bidrag enligt 25 kap. 11 §,
 
-- rätt till bidrag enligt 25 kap. 10 eller 15 § eller återkallelse av sådan rätt enligt 26 kap. 13 §,
+10. tillfälligt verksamhetsförbud enligt 26 kap. 18 §, eller
 
-- bidrag enligt 25 kap. 11 §,
-
-- tillfälligt verksamhetsförbud enligt 26 kap. 18 §, eller
-
-- vitesföreläggande enligt 26 kap. 27 §.
+11. vitesföreläggande enligt 26 kap. 27 §.
 
 Lag (2019:947) .
 
@@ -7089,27 +7061,29 @@ Lag (2019:947) .
 
 #### Beslut av Specialpedagogiska skolmyndigheten
 
-- 7 § Beslut av Specialpedagogiska skolmyndigheten får överklagas hos allmän förvaltningsdomstol i fråga om
+7 § Beslut av Specialpedagogiska skolmyndigheten får överklagas hos allmän förvaltningsdomstol i fråga om
 
-- föreläggande för vårdnadshavare att fullgöra sina skyldigheter enligt 7 kap. 23 §,
+1. föreläggande för vårdnadshavare att fullgöra sina skyldigheter enligt 7 kap. 23 §,
 
-- kostnadsfria resor enligt 9 kap. 15 d § första stycket eller 12 kap. 25 § första stycket, eller
+2. kostnadsfria resor enligt 9 kap. 15 d § första stycket eller 12 kap. 25 § första stycket, eller
 
-- medgivande att fullgöra skolplikten på annat sätt eller återkallelse av sådant medgivande enligt 24 kap. 23 eller 24 §. Lag (2017:1115) .
+3. medgivande att fullgöra skolplikten på annat sätt eller återkallelse av sådant medgivande enligt 24 kap. 23 eller 24 §. Lag (2017:1115) .
 
 #### Beslut av Sameskolstyrelsen
 
-- 8 § Beslut av Sameskolstyrelsen får överklagas hos allmän förvaltningsdomstol i fråga om
+8 § Beslut av Sameskolstyrelsen får överklagas hos allmän förvaltningsdomstol i fråga om
 
-- föreläggande för vårdnadshavare att fullgöra sina skyldigheter enligt 7 kap. 23 §, eller
+1. föreläggande för vårdnadshavare att fullgöra sina skyldigheter enligt 7 kap. 23 §, eller
 
-- kostnadsfria resor enligt 9 kap. 15 d § första stycket eller 13 kap. 23 § första stycket. Lag (2017:1115) .
+2. kostnadsfria resor enligt 9 kap. 15 d § första stycket eller 13 kap. 23 § första stycket. Lag (2017:1115) .
 
 #### Beslut av en rektor
 
-- 9 § Beslut av en rektor får överklagas hos allmän förvaltningsdomstol i fråga om 1. avstängning av en elev enligt 5 kap. 14 §, 17 § tredje stycket eller 19 § tredje stycket, och
+9 § Beslut av en rektor får överklagas hos allmän förvaltningsdomstol i fråga om
 
-- befrielse från skyldighet att delta i obligatoriska inslag i undervisningen enligt 7 kap. 19 §.
+1. avstängning av en elev enligt 5 kap. 14 §, 17 § tredje stycket eller 19 § tredje stycket, och
+
+2. befrielse från skyldighet att delta i obligatoriska inslag i undervisningen enligt 7 kap. 19 §.
 
 /
 
@@ -7131,35 +7105,33 @@ Om det överklagade beslutet har fattats av en rektor i en fristående skola ska
 
 #### Beslut av en kommun eller en region
 
-- 12 § Beslut av en kommun eller en region får överklagas hos Skolväsendets överklagandenämnd i fråga om
+12 § Beslut av en kommun eller en region får överklagas hos Skolväsendets överklagandenämnd i fråga om
 
-- barns mottagande i grundsärskolan enligt 7 kap. 5 § eller tillhörighet till grundsärskolans målgrupp enligt 7 kap. 5 b §,
+1. barns mottagande i grundsärskolan enligt 7 kap. 5 § eller tillhörighet till grundsärskolans målgrupp enligt 7 kap. 5 b §,
 
-- uppskjuten skolplikt enligt 7 kap. 10 § andra stycket,
+2. uppskjuten skolplikt enligt 7 kap. 10 § andra stycket,
 
-- skolpliktens förlängning enligt 7 kap. 13 § eller skolpliktens upphörande enligt 7 kap. 14 §,
+3. skolpliktens förlängning enligt 7 kap. 13 § eller skolpliktens upphörande enligt 7 kap. 14 §,
 
-- mottagande av en elev från en annan kommun enligt 9 kap. 13 §, 10 kap. 25 § eller 11 kap. 25 §,
+4. mottagande av en elev från en annan kommun enligt 9 kap. 13 §, 10 kap. 25 § eller 11 kap. 25 §,
 
-- åtgärder enligt 10 kap. 29 § tredje stycket för en elev som inte bor hemma,
+5. åtgärder enligt 10 kap. 29 § tredje stycket för en elev som inte bor hemma,
 
-- placering vid en annan skolenhet än den vårdnadshavaren önskar enligt 9 kap.
+6. placering vid en annan skolenhet än den vårdnadshavaren önskar enligt 9 kap. 15 § andra stycket, 10 kap. 30 § andra stycket eller 11 kap. 29 § andra stycket,
 
-- 15 § andra stycket, 10 kap. 30 § andra stycket eller 11 kap. 29 § andra stycket,
+7. mottagande i första hand enligt 16 kap. 36 §, mottagande enligt 17 kap. 14 § när det gäller en utbildning i gymnasieskolan som utformats för en grupp elever, mottagande enligt 17 a kap. 18 § eller mottagande i första hand enligt 19 kap. 29 § första stycket,
 
-- mottagande i första hand enligt 16 kap. 36 §, mottagande enligt 17 kap. 14 § när det gäller en utbildning i gymnasieskolan som utformats för en grupp elever, mottagande enligt 17 a kap. 18 § eller mottagande i första hand enligt 19 kap. 29 § första stycket,
+8. tillhörighet till målgruppen för gymnasiesärskolan enligt 18 kap. 5 eller 7 §,
 
-- tillhörighet till målgruppen för gymnasiesärskolan enligt 18 kap. 5 eller 7 §,
+9. mottagande till kommunal vuxenutbildning enligt 20 kap. 13 §, 14 § andra stycket, 22 § eller 33 § eller till särskild utbildning för vuxna enligt 21 kap. 7 § tredje stycket,
 
-- mottagande till kommunal vuxenutbildning enligt 20 kap. 13 §, 14 § andra stycket, 22 § eller 33 § eller till särskild utbildning för vuxna enligt 21 kap. 7 § tredje stycket,
+10. upphörande av utbildningen för en elev i kommunal vuxenutbildning enligt 20 kap. 9 § andra stycket eller i särskild utbildning för vuxna enligt 21 kap. 9 § andra stycket,
 
-- upphörande av utbildningen för en elev i kommunal vuxenutbildning enligt 20 kap. 9 § andra stycket eller i särskild utbildning för vuxna enligt 21 kap. 9 § andra stycket,
+11. att på nytt bereda kommunal vuxenutbildning enligt 20 kap. 9 § tredje eller fjärde stycket eller särskild utbildning för vuxna enligt 21 kap. 9 § tredje stycket,
 
-- att på nytt bereda kommunal vuxenutbildning enligt 20 kap. 9 § tredje eller fjärde stycket eller särskild utbildning för vuxna enligt 21 kap. 9 § tredje stycket,
+12. åtagande om interkommunal ersättning enligt 20 kap. 21 § tredje stycket, eller
 
-- åtagande om interkommunal ersättning enligt 20 kap. 21 § tredje stycket, eller
-
-- rätt till utbildning eller annan verksamhet för någon som avses i 29 kap. 2 § andra stycket 3.
+13. rätt till utbildning eller annan verksamhet för någon som avses i 29 kap. 2 § andra stycket 3.
 
 Beslut som avses i första stycket 1, 4 och 7-12 får överklagas endast av barnet, eleven eller den sökande. Lag (2019:947) .
 
@@ -7171,49 +7143,49 @@ Beslut som avses i första stycket 1, 4 och 7-12 får överklagas endast av barn
 
 [[START OF PAGE 164]]
 
-- 13 § Beslut av en enskild huvudman får överklagas hos Skolväsendets överklagandenämnd i fråga om
+13 § Beslut av en enskild huvudman får överklagas hos Skolväsendets överklagandenämnd i fråga om
 
-- mottagande enligt 16 kap. 36 §, mottagande enligt 17 kap. 14 § när det gäller en utbildning i gymnasieskolan som utformats för en grupp elever, mottagande enligt 17 a kap. 18 § eller mottagande enligt 19 kap. 29 § första stycket, eller
+1. mottagande enligt 16 kap. 36 §, mottagande enligt 17 kap. 14 § när det gäller en utbildning i gymnasieskolan som utformats för en grupp elever, mottagande enligt 17 a kap. 18 § eller mottagande enligt 19 kap. 29 § första stycket, eller
 
-- rätt till utbildning eller annan verksamhet för någon som avses i 29 kap. 2 § andra stycket 3.
+2. rätt till utbildning eller annan verksamhet för någon som avses i 29 kap. 2 § andra stycket 3.
 
 Beslut som avses i första stycket 1 får överklagas endast av den sökande. Lag (2014:530) .
 
 #### Beslut av Specialpedagogiska skolmyndigheten
 
-- 14 § Beslut av Specialpedagogiska skolmyndigheten får överklagas hos Skolväsendets överklagandenämnd i fråga om
+14 § Beslut av Specialpedagogiska skolmyndigheten får överklagas hos Skolväsendets överklagandenämnd i fråga om
 
-- barns mottagande i specialskolan enligt 7 kap. 6 §,
+1. barns mottagande i specialskolan enligt 7 kap. 6 §,
 
-- skolpliktens förlängning enligt 7 kap. 13 § eller skolpliktens upphörande enligt 7 kap. 14 §,
+2. skolpliktens förlängning enligt 7 kap. 13 § eller skolpliktens upphörande enligt 7 kap. 14 §,
 
-- åtgärder enligt 9 kap. 15 d § andra stycket eller 12 kap. 25 § andra stycket för en elev som inte bor hemma, eller
+3. åtgärder enligt 9 kap. 15 d § andra stycket eller 12 kap. 25 § andra stycket för en elev som inte bor hemma, eller
 
-- rätt till utbildning för någon som avses i 29 kap. 2 § andra stycket 3.
+4. rätt till utbildning för någon som avses i 29 kap. 2 § andra stycket 3.
 
 Beslut som avses i första stycket 1 får överklagas endast av barnet. Lag (2017:1115) .
 
 #### Beslut av Sameskolstyrelsen
 
-- 15 § Beslut av Sameskolstyrelsen får överklagas hos Skolväsendets överklagandenämnd i fråga om
+15 § Beslut av Sameskolstyrelsen får överklagas hos Skolväsendets överklagandenämnd i fråga om
 
-- barns mottagande i sameskolan enligt 7 kap. 7 §,
+1. barns mottagande i sameskolan enligt 7 kap. 7 §,
 
-- åtgärder enligt 9 kap. 15 d § andra stycket eller 13 kap. 23 § andra stycket för en elev som inte bor hemma, eller
+2. åtgärder enligt 9 kap. 15 d § andra stycket eller 13 kap. 23 § andra stycket för en elev som inte bor hemma, eller
 
-- rätt till utbildning för någon som avses i 29 kap. 2 § andra stycket 3.
+3. rätt till utbildning för någon som avses i 29 kap. 2 § andra stycket 3.
 
 Beslut som avses i första stycket 1 får överklagas endast av barnet. Lag (2017:1115) .
 
 #### Beslut av en rektor
 
-- 16 § Beslut av en rektor får överklagas hos Skolväsendets överklagandenämnd i fråga om
+16 § Beslut av en rektor får överklagas hos Skolväsendets överklagandenämnd i fråga om
 
-- åtgärdsprogram enligt 3 kap. 9 §,
+1. åtgärdsprogram enligt 3 kap. 9 §,
 
-- särskilt stöd i en särskild undervisningsgrupp eller enskilt enligt 3 kap. 11 §, eller
+2. särskilt stöd i en särskild undervisningsgrupp eller enskilt enligt 3 kap. 11 §, eller
 
-- anpassad studiegång enligt 3 kap. 12 §.
+3. anpassad studiegång enligt 3 kap. 12 §.
 
 Vid prövning av ett överklagande enligt första stycket 1 ska nämnden antingen fastställa eller upphäva det överklagade beslutet. Om det överklagade beslutet upphävs ska ärendet, om det behövs, visas åter till rektorn för ny prövning.
 
@@ -7271,15 +7243,15 @@ Lag (2019:947) .
 
 ### Bosättning
 
-- 2 § Med bosatt i landet avses i denna lag den som ska vara folkbokförd här enligt folkbokföringslagen (1991:481).
+2 § Med bosatt i landet avses i denna lag den som ska vara folkbokförd här enligt folkbokföringslagen (1991:481).
 
 Som bosatt i landet ska vid tillämpningen av denna lag anses även den som inte är folkbokförd här men som
 
-- omfattas av 1 § första stycket eller 1 a § första stycket lagen (1994:137) om mottagande av asylsökande m.fl.,
+1. omfattas av 1 § första stycket eller 1 a § första stycket lagen (1994:137) om mottagande av asylsökande m.fl.,
 
-- vistas här med stöd av tidsbegränsat uppehållstillstånd enligt 5 kap. 15 § utlänningslagen (2005:716),
+2. vistas här med stöd av tidsbegränsat uppehållstillstånd enligt 5 kap. 15 § utlänningslagen (2005:716),
 
-- har rätt till utbildning eller annan verksamhet enligt denna lag till följd av EUrätten, avtalet om Europeiska ekonomiska samarbetsområdet (EES) eller avtalet mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Schweiz, å andra sidan, om fri rörlighet för personer,
+3. har rätt till utbildning eller annan verksamhet enligt denna lag till följd av EU-rätten, avtalet om Europeiska ekonomiska samarbetsområdet (EES) eller avtalet mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Schweiz, å andra sidan, om fri rörlighet för personer,
 
 /
 
@@ -7287,9 +7259,9 @@ Som bosatt i landet ska vid tillämpningen av denna lag anses även den som inte
 
 [[START OF PAGE 166]]
 
-- är familjemedlem till en person som tillhör en främmande makts beskickning eller lönade konsulat eller dess betjäning eller som avses i 4 § lagen (1976:661) om immunitet och privilegier i vissa fall och som inte omfattas av 3, eller
+4. är familjemedlem till en person som tillhör en främmande makts beskickning eller lönade konsulat eller dess betjäning eller som avses i 4 § lagen (1976:661) om immunitet och privilegier i vissa fall och som inte omfattas av 3, eller
 
-- vistas här utan stöd av myndighetsbeslut eller författning.
+5. vistas här utan stöd av myndighetsbeslut eller författning.
 
 Har ett beslut om avvisning eller utvisning meddelats mot någon som avses i andra stycket 1 ska denne fortfarande anses vara bosatt i Sverige på den grunden till dess att han eller hon lämnar landet. Om den som avvisats eller utvisats håller sig undan så att beslutet inte kan verkställas ska personen dock anses som bosatt i Sverige på den grund som anges i andra stycket 5.
 
@@ -7309,9 +7281,7 @@ De personer som avses i 2 § andra stycket 5 har endast rätt till utbildning i 
 
 - 6 § Med en persons hemkommun avses i denna lag den kommun som personen är folkbokförd i.
 
-För den som är bosatt i landet utan att vara folkbokförd här avses med hemkommun den kommun som han eller hon stadigvarande vistas i eller, om han eller hon saknar stadigvarande vistelseort, den kommun som han eller hon för tillfället uppehåller sig
-
-- Detsamma gäller den som har skyddad folkbokföring enligt 16 § folkbokföringslagen (1991:481).
+För den som är bosatt i landet utan att vara folkbokförd här avses med hemkommun den kommun som han eller hon stadigvarande vistas i eller, om han eller hon saknar stadigvarande vistelseort, den kommun som han eller hon för tillfället uppehåller sig i. Detsamma gäller den som har skyddad folkbokföring enligt 16 § folkbokföringslagen (1991:481).
 
 Med hemregion avses den region som hemkommunen hör till. Lag (2019:947) .
 
@@ -7337,19 +7307,19 @@ I lagen (1993:387) om stöd och service till vissa funktionshindrade finns best�
 
 ### Kommunernas aktivitetsansvar för ungdomar
 
-- 9 § En hemkommun ska löpande under året hålla sig informerad om hur de ungdomar i kommunen är sysselsatta som
+9 § En hemkommun ska löpande under året hålla sig informerad om hur de ungdomar i kommunen är sysselsatta som
 
-- inte har fyllt 20 år,
+1. inte har fyllt 20 år,
 
-- har fullgjort sin skolplikt eller har blivit folkbokförda i landet vid en tidpunkt då de inte har skolplikt,
+2. har fullgjort sin skolplikt eller har blivit folkbokförda i landet vid en tidpunkt då de inte har skolplikt,
 
-- inte genomför utbildning i gymnasieskola eller gymnasiesärskola eller motsvarande utbildning,
+3. inte genomför utbildning i gymnasieskola eller gymnasiesärskola eller motsvarande utbildning,
 
-- inte har en gymnasieexamen,
+4. inte har en gymnasieexamen,
 
-- inte har ett gymnasiesärskolebevis, och
+5. inte har ett gymnasiesärskolebevis, och
 
-- inte har fullföljt utbildning som motsvarar gymnasieskolan eller gymnasiesärskolan med godkänt resultat.
+6. inte har fullföljt utbildning som motsvarar gymnasieskolan eller gymnasiesärskolan med godkänt resultat.
 
 Hemkommunen ska erbjuda de ungdomar som avses i första stycket lämpliga individuella åtgärder. Åtgärderna ska i första hand syfta till att motivera den enskilde att påbörja eller återuppta en utbildning. Kommunen ska dokumentera sina insatser på lämpligt sätt.
 
@@ -7539,7 +7509,7 @@ Denna lag träder i kraft den 1 juli 2011 och tillämpas första gången på utb
 
 2011:189
 
-- Denna lag träder i kraft den 1 juli 2011. Lag (2012:493) .
+1. Denna lag träder i kraft den 1 juli 2011. Lag (2012:493) .
 
 2. Bestämmelserna i 2 kap. 17, 18 och 22 §§ i sina nya lydelser tillämpas från och med den 1 juli 2012. För tid dessförinnan gäller dessa bestämmelser i deras äldre lydelse.
 
@@ -7569,15 +7539,15 @@ Lag (2012:493) .
 
 [[START OF PAGE 173]]
 
-- det saknas sökande som har utbildning som är avsedd för undervisning på den aktuella kursen,
+a) det saknas sökande som har utbildning som är avsedd för undervisning på den aktuella kursen,
 
-- den sökande har tillräcklig kompetens för att undervisa på den aktuella kursen, och
+b) den sökande har tillräcklig kompetens för att undervisa på den aktuella kursen, och
 
-- det finns skäl att anta att den sökande är lämplig att bedriva undervisningen.
+c) det finns skäl att anta att den sökande är lämplig att bedriva undervisningen.
 
 Lag (2012:493) .
 
-2011:876 1. Denna lag träder i kraft den 1 juli 2011. 2. Bestämmelsen i 11 kap. 23 a § ska tillämpas vid betygssättning i årskurs 8 från och med höstterminen 2011 och i övrigt från och med höstterminen 2012. 3. Bestämmelserna i 10 kap. 21 §, 12 kap. 21 § och 13 kap. 21 a § ska tilllämpas från och med höstterminen 2012.
+2011:876 1. Denna lag träder i kraft den 1 juli 2011. 2. Bestämmelsen i 11 kap. 23 a § ska tillämpas vid betygssättning i årskurs 8 från och med höstterminen 2011 och i övrigt från och med höstterminen 2012. 3. Bestämmelserna i 10 kap. 21 §, 12 kap. 21 § och 13 kap. 21 a § ska tillämpas från och med höstterminen 2012.
 
 - 2012:109 1. Denna lag träder i kraft den 1 april 2012 och tillämpas på utbildning som påbörjas efter den 30 juni 2013. 2. De nya bestämmelserna i 29 kap. 24 § tillämpas dock för tid från och med den 1 juli 2011. De nya bestämmelserna i 20 kap. 6, 27, 28 och 30 §§ samt 22 kap. 21, 22 och 24 §§ ska dock tillämpas på utbildning som påbörjas efter den 30 juni 2012. 3. Äldre föreskrifter gäller dock fortfarande för utbildning som har påbörjats före den 1 juli 2011 i fråga om 29 kap. 24 § och före den 1 juli 2012 i fråga om 20 kap. 6, 27, 28 och 30 §§ samt 22 kap. 21, 22 och 24 §§ och i övrigt för utbildning som har påbörjats före den 1 juli 2013, om inte annat följer av 4 eller av föreskrifter som har meddelats med stöd av 5. 4. För utbildning som har påbörjats före den 1 juli 2013 ska dock de nya bestämmelserna i 18 kap. 32 § tillämpas från och med den 1 juli 2013. 5. Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om att elever som har påbörjat sin utbildning före den 1 juli 2013 och som fullföljer denna senare än fem år från det att den påbörjades, ska fullfölja utbildningen enligt de bestämmelser som gäller för utbildning som har påbörjats efter den 30 juni 2013. 2012:493 Denna lag träder i kraft den 1 december 2013 i fråga om 3 kap. 16 § och i övrigt den 30 juni 2012. 2013:248 1. Denna lag träder i kraft den 1 juli 2013 och tillämpas första gången höstterminen 2013 för elever som påbörjar årskurs 1 i grundskolan, grundsärskolan, specialskolan och sameskolan. 2. För elever i grundskolan som höstterminen 2013 påbörjar årskurs 2 respektive årskurs 3 gäller följande: - den totala undervisningstiden ska vara minst 6 745 timmar respektive 6 705 timmar, - undervisningstiden i matematik ska vara minst 980 timmar respektive 940 timmar, och - undervisningstiden i matematik samt antalet timmar i timplanen för svenska eller
 
@@ -7589,27 +7559,27 @@ Lag (2012:493) .
 
 svenska som andraspråk och engelska får inte minskas vid skolans val.
 
-- För elever i grundsärskolan som höstterminen 2013 påbörjar årskurs 2 respektive 3 ska den totala undervisningstiden vara minst 6 745 timmar respektive 6 705 timmar. Detta gäller inte elever i träningsskolan.
+3. För elever i grundsärskolan som höstterminen 2013 påbörjar årskurs 2 respektive 3 ska den totala undervisningstiden vara minst 6 745 timmar respektive 6 705 timmar. Detta gäller inte elever i träningsskolan.
 
-- För elever i specialskolan som höstterminen 2013 påbörjar årskurs 2, 3 respektive 4 ska den totala undervisningstiden vara minst 7 935 timmar, 7 905 timmar respektive 7 875 timmar.
+4. För elever i specialskolan som höstterminen 2013 påbörjar årskurs 2, 3 respektive 4 ska den totala undervisningstiden vara minst 7 935 timmar, 7 905 timmar respektive 7 875 timmar.
 
-- För elever i sameskolan som höstterminen 2013 påbörjar årskurs 2 respektive 3 ska den totala undervisningstiden vara minst 4 280 timmar respektive 4 240 timmar.
+5. För elever i sameskolan som höstterminen 2013 påbörjar årskurs 2 respektive 3 ska den totala undervisningstiden vara minst 4 280 timmar respektive 4 240 timmar.
 
-- Äldre föreskrifter gäller fortfarande för elever som höstterminen 2013 påbörjar årskurs 4 eller en högre årskurs i grundskolan, grundsärskolan eller sameskolan eller årskurs 5 eller en högre årskurs i specialskolan.
+6. Äldre föreskrifter gäller fortfarande för elever som höstterminen 2013 påbörjar årskurs 4 eller en högre årskurs i grundskolan, grundsärskolan eller sameskolan eller årskurs 5 eller en högre årskurs i specialskolan.
 
 2013:298
 
-- Denna lag träder i kraft den 1 juli 2013.
+1. Denna lag träder i kraft den 1 juli 2013.
 
-- Bestämmelserna i 28 kap. 8 och 15 §§ i sina nya lydelser tillämpas för tid från och med den 1 juli 2011.
+2. Bestämmelserna i 28 kap. 8 och 15 §§ i sina nya lydelser tillämpas för tid från och med den 1 juli 2011.
 
 2013:530
 
-- Denna lag träder i kraft den 1 juli 2013.
+1. Denna lag träder i kraft den 1 juli 2013.
 
-- De upphävda bestämmelserna i 2 kap. 24 § första, andra och fjärde styckena gäller fortfarande för ansökningar som har getts in till Statens skolverk före ikraftträdandet.
+2. De upphävda bestämmelserna i 2 kap. 24 § första, andra och fjärde styckena gäller fortfarande för ansökningar som har getts in till Statens skolverk före ikraftträdandet.
 
-- Bestämmelsen i 28 kap. 3 § i sin äldre lydelse gäller fortfarande för ansökningar som har getts in till Statens skolverk före ikraftträdandet.
+3. Bestämmelsen i 28 kap. 3 § i sin äldre lydelse gäller fortfarande för ansökningar som har getts in till Statens skolverk före ikraftträdandet.
 
 2013:823
 
@@ -7621,17 +7591,17 @@ Denna lag träder i kraft den 1 juli 2014 i fråga om 2 kap. 1, 8 a, 10, 17 och 
 
 2014:530
 
-- Denna lag träder i kraft den 1 augusti 2014.
+1. Denna lag träder i kraft den 1 augusti 2014.
 
-- Lagen tillämpas på utbildning som påbörjats efter den 1 juli 2015.
+2. Lagen tillämpas på utbildning som påbörjats efter den 1 juli 2015.
 
 2014:903
 
-- Denna lag träder i kraft den 1 juli 2015 i fråga om 29 kap. 19 § och i övrigt den 1 januari 2015.
+1. Denna lag träder i kraft den 1 juli 2015 i fråga om 29 kap. 19 § och i övrigt den 1 januari 2015.
 
-- Bestämmelserna i 2 kap. 5 a § och 26 kap. 13 § ska tillämpas på huvudmän som har ansökt om godkännande efter den 1 oktober 2014.
+2. Bestämmelserna i 2 kap. 5 a § och 26 kap. 13 § ska tillämpas på huvudmän som har ansökt om godkännande efter den 1 oktober 2014.
 
-- Bestämmelserna i 29 kap. 19 § ska tillämpas på utbildningar som påbörjas efter utgången av juni 2015.
+3. Bestämmelserna i 29 kap. 19 § ska tillämpas på utbildningar som påbörjas efter utgången av juni 2015.
 
 /
 
@@ -7641,9 +7611,9 @@ Denna lag träder i kraft den 1 juli 2014 i fråga om 2 kap. 1, 8 a, 10, 17 och 
 
 2014:1002
 
-- Denna lag träder i kraft den 1 januari 2015.
+1. Denna lag träder i kraft den 1 januari 2015.
 
-- Kommunernas ansvar enligt 29 kap. 9 § gäller inte ungdomar som genomför eller har fullföljt utbildning på ett specialutformat program i gymnasiesärskola, som har påbörjats före den 1 juli 2013.
+2. Kommunernas ansvar enligt 29 kap. 9 § gäller inte ungdomar som genomför eller har fullföljt utbildning på ett specialutformat program i gymnasiesärskola, som har påbörjats före den 1 juli 2013.
 
 2015:73
 
@@ -7651,41 +7621,39 @@ Denna lag träder i kraft den 1 januari 2016 i fråga om 29 kap. 1, 15 och 16 §
 
 2015:482
 
-- Denna lag träder i kraft den 1 januari 2016.
+1. Denna lag träder i kraft den 1 januari 2016.
 
-- Lagen tillämpas från och med den 1 juli 2016.
+2. Lagen tillämpas från och med den 1 juli 2016.
 
-- Äldre bestämmelser ska fortsätta att gälla till utgången av juni 2016.
+3. Äldre bestämmelser ska fortsätta att gälla till utgången av juni 2016.
 
-- Den som mottagits till utbildning i svenska för invandrare enligt äldre
-
-bestämmelser ska anses mottagen till kommunal vuxenutbildning i svenska för invandrare enligt de nya bestämmelserna.
+4. Den som mottagits till utbildning i svenska för invandrare enligt äldre bestämmelser ska anses mottagen till kommunal vuxenutbildning i svenska för invandrare enligt de nya bestämmelserna.
 
 2015:802
 
-- Denna lag träder i kraft den 1 januari 2016.
+1. Denna lag träder i kraft den 1 januari 2016.
 
-- Ett godkännande av en internationell skola på grundskolenivå enligt 24 kap. 2 § andra stycket i den äldre lydelsen ska, om det gäller vid utgången av december 2015, anses som ett godkännande som huvudman för en sådan skola enligt 24 kap. 3 a §, om huvudmannen har förklarats berättigad till sådant bidrag som avses i 24 kap. 4 § i den äldre lydelsen. I annat fall ska godkännandet upphöra att gälla den 1 januari 2016.
+2. Ett godkännande av en internationell skola på grundskolenivå enligt 24 kap. 2 § andra stycket i den äldre lydelsen ska, om det gäller vid utgången av december 2015, anses som ett godkännande som huvudman för en sådan skola enligt 24 kap. 3 a §, om huvudmannen har förklarats berättigad till sådant bidrag som avses i 24 kap. 4 § i den äldre lydelsen. I annat fall ska godkännandet upphöra att gälla den 1 januari 2016.
 
-- En elev som har skolplikt och som före ikraftträdandet har påbörjat utbildning i en godkänd internationell skola på grundskolenivå eller fått ett beslut om att han eller hon kommer att tas emot i en sådan skola får fullgöra skolplikten i en internationell skola på grundskolenivå vars huvudman har fått ett godkännande enligt 24 kap. 3 a § eller ett medgivande enligt 24 kap. 4 a §.
+3. En elev som har skolplikt och som före ikraftträdandet har påbörjat utbildning i en godkänd internationell skola på grundskolenivå eller fått ett beslut om att han eller hon kommer att tas emot i en sådan skola får fullgöra skolplikten i en internationell skola på grundskolenivå vars huvudman har fått ett godkännande enligt 24 kap. 3 a § eller ett medgivande enligt 24 kap. 4 a §.
 
-- Ett beslut av regeringen enligt 24 kap. 2 § tredje stycket i den äldre lydelsen ska gälla som ett beslut enligt 24 kap. 3 § andra stycket i den nya lydelsen.
+4. Ett beslut av regeringen enligt 24 kap. 2 § tredje stycket i den äldre lydelsen ska gälla som ett beslut enligt 24 kap. 3 § andra stycket i den nya lydelsen.
 
-- En förklaring om rätt till bidrag enligt 24 kap. 5 § i den äldre lydelsen ska, om den gäller vid utgången av december 2015, fortsätta att gälla som en förklaring om rätt till bidrag enligt 24 kap. 6 § i den nya lydelsen.
+5. En förklaring om rätt till bidrag enligt 24 kap. 5 § i den äldre lydelsen ska, om den gäller vid utgången av december 2015, fortsätta att gälla som en förklaring om rätt till bidrag enligt 24 kap. 6 § i den nya lydelsen.
 
 2016:550
 
-- Denna lag träder i kraft den 1 juli 2016.
+1. Denna lag träder i kraft den 1 juli 2016.
 
-- Bestämmelserna i 21 kap. 4 § i den nya lydelsen tillämpas första gången på utbildning som påbörjas efter ikraftträdandet.
+2. Bestämmelserna i 21 kap. 4 § i den nya lydelsen tillämpas första gången på utbildning som påbörjas efter ikraftträdandet.
 
-- För utbildning som har påbörjats före ikraftträdandet gäller 21 kap. 4 § i den äldre lydelsen.
+3. För utbildning som har påbörjats före ikraftträdandet gäller 21 kap. 4 § i den äldre lydelsen.
 
 2016:553
 
-- Denna lag träder i kraft den 1 juli 2016.
+1. Denna lag träder i kraft den 1 juli 2016.
 
-- Lagen tillämpas första gången höstterminen 2016 för elever som påbörjar årskurs 4 i grundskolan, sameskolan och grundsärskolan respektive årskurs 5 i specialskolan.
+2. Lagen tillämpas första gången höstterminen 2016 för elever som påbörjar årskurs 4 i grundskolan, sameskolan och grundsärskolan respektive årskurs 5 i specialskolan.
 
 /
 
@@ -7693,9 +7661,57 @@ bestämmelser ska anses mottagen till kommunal vuxenutbildning i svenska för in
 
 [[START OF PAGE 176]]
 
-3. För elever i grundskolan som höstterminen 2016 påbörjar årskurs 5 respektive årskurs 6 gäller följande: - den totala undervisningstiden ska vara minst 6 855 timmar respektive 6 820 timmar, och - undervisningstiden i ämnet matematik ska vara minst 1 090 timmar respektive 1 055 timmar. 4. För elever i grundsärskolan som höstterminen 2016 påbörjar årskurs 5 respektive 6 ska den totala undervisningstiden vara minst 6 855 timmar respektive 6 820 timmar. Detta gäller inte elever i träningsskolan. 5. För elever i specialskolan som höstterminen 2016 påbörjar årskurs 6 respektive 7 ska den totala undervisningstiden vara minst 8 035 timmar respektive 8 000 timmar. ska den totala undervisningstiden vara minst 4 390 timmar respektive 4 355 timmar. 7. Äldre föreskrifter gäller fortfarande för elever som höstterminen 2016 a) påbörjar årskurs 7 eller en högre årskurs i grundskolan eller grundsärskolan eller b) årskurs 8 eller en högre årskurs i specialskolan.
+3. För elever i grundskolan som höstterminen 2016 påbörjar årskurs 5 respektive årskurs 6 gäller följande:
+- den totala undervisningstiden ska vara minst 6 855 timmar respektive 6 820 timmar, och
+- undervisningstiden i ämnet matematik ska vara minst 1 090 timmar respektive 1 055 timmar.
 
-6. För elever i sameskolan som höstterminen 2016 påbörjar årskurs 5 respektive 6 2017:595 1. Denna lag träder i kraft den 1 januari 2018. 2. Äldre föreskrifter gäller fortfarande när en nyanländ invandrare har en etableringsplan enligt den upphävda lagen (2010:197) om etableringsinsatser för vissa nyanlända invandrare, så länge den planen gäller. 2017:620 1. Denna lag träder i kraft den 1 augusti 2017 i fråga om 12 kap. 5 § och i övrigt den 1 juli 2018. 2. Den upphävda bilagan gäller fortfarande för elever som höstterminen 2018 påbörjar årskurs 7 eller en högre årskurs i grundskolan. 2017:759 1. Denna lag träder i kraft den 1 januari 2018. 2. Äldre bestämmelser gäller fortfarande för överklagande av beslut som har tillkännagetts före ikraftträdandet. 2017:1104 Denna lag träder i kraft den 1 januari 2018 i fråga om 2 kap. 20 §, 15 kap. 32 §, 20 kap. 21 och 29 kap. 3 och 12 §§ och i övrigt den 29 juni 2018. 2017:1115 1. Denna lag träder i kraft den 1 januari 2018. 2. Lagen tillämpas på utbildning från och med höstterminen 2018. 3. Om eleven börjat fullgöra skolplikten före höstterminen 2018 gäller 7 kap. 12 § i den äldre lydelsen. 2018:105 1. Denna lag träder i kraft den 1 juli 2018. 2. Bestämmelserna i 10 kap. 8 a § och 12 kap. 8 a § ska läsåret 2018/19 inte
+4. För elever i grundsärskolan som höstterminen 2016 påbörjar årskurs 5 respektive 6 ska den totala undervisningstiden vara minst 6 855 timmar respektive 6 820 timmar. Detta gäller inte elever i träningsskolan.
+
+5. För elever i specialskolan som höstterminen 2016 påbörjar årskurs 6 respektive 7 ska den totala undervisningstiden vara minst 8 035 timmar respektive 8 000 timmar.
+
+6. För elever i sameskolan som höstterminen 2016 påbörjar årskurs 5 respektive 6 ska den totala undervisningstiden vara minst 4 390 timmar respektive 4 355 timmar.
+
+7. Äldre föreskrifter gäller fortfarande för elever som höstterminen 2016
+
+a) påbörjar årskurs 7 eller en högre årskurs i grundskolan eller grundsärskolan eller
+
+b) årskurs 8 eller en högre årskurs i specialskolan.
+
+2017:595
+
+1. Denna lag träder i kraft den 1 januari 2018.
+
+2. Äldre föreskrifter gäller fortfarande när en nyanländ invandrare har en etableringsplan enligt den upphävda lagen (2010:197) om etableringsinsatser för vissa nyanlända invandrare, så länge den planen gäller.
+
+2017:620
+
+1. Denna lag träder i kraft den 1 augusti 2017 i fråga om 12 kap. 5 § och i övrigt den 1 juli 2018.
+
+2. Den upphävda bilagan gäller fortfarande för elever som höstterminen 2018 påbörjar årskurs 7 eller en högre årskurs i grundskolan.
+
+2017:759
+
+1. Denna lag träder i kraft den 1 januari 2018.
+
+2. Äldre bestämmelser gäller fortfarande för överklagande av beslut som har tillkännagetts före ikraftträdandet.
+
+2017:1104
+
+Denna lag träder i kraft den 1 januari 2018 i fråga om 2 kap. 20 §, 15 kap. 32 §, 20 kap. 21 och 29 kap. 3 och 12 §§ och i övrigt den 29 juni 2018.
+
+2017:1115
+
+1. Denna lag träder i kraft den 1 januari 2018.
+
+2. Lagen tillämpas på utbildning från och med höstterminen 2018.
+
+3. Om eleven börjat fullgöra skolplikten före höstterminen 2018 gäller 7 kap. 12 § i den äldre lydelsen.
+
+2018:105
+
+1. Denna lag träder i kraft den 1 juli 2018.
+
+2. Bestämmelserna i 10 kap. 8 a § och 12 kap. 8 a § ska läsåret 2018/19 inte
 
 /
 
@@ -7707,27 +7723,23 @@ tillämpas för elever som höstterminen 2018 påbörjar årskurs 9 i grundskola
 
 2018:608
 
-- Denna lag träder i kraft den 1 juli 2018.
+1. Denna lag träder i kraft den 1 juli 2018.
 
-- De nya bestämmelserna i 2 kap. 8 a § och bestämmelserna i 26 kap. 17 § i den nya lydelsen tillämpas första gången för verksamhet som bedrivs efter utgången av 2018.
+2. De nya bestämmelserna i 2 kap. 8 a § och bestämmelserna i 26 kap. 17 § i den nya lydelsen tillämpas första gången för verksamhet som bedrivs efter utgången av 2018.
 
 2018:749
 
-- Denna lag träder i kraft den 1 juli 2018 i fråga om 3 kap. 1, 3, 5 a, 8 och 12 g §§,
+1. Denna lag träder i kraft den 1 juli 2018 i fråga om 3 kap. 1, 3, 5 a, 8 och 12 g §§, 15 kap. 11, 16 och 33 §§, 16 kap. 5, 20, 30, 31 och 33 §§, 17 kap. 2-4, 6, 8, 10, 13-17, 19-21, 23-25, 26 a, 28-30 och 35 §§, 18 kap. 1, 14, 16, 22 och 26 a §§, 19 kap. 2 och 21 §§, 28 kap. 5 § och 29 kap. 9, 26 och 27 §§ och i övrigt den 1 juli 2019.
 
-- 15 kap. 11, 16 och 33 §§, 16 kap. 5, 20, 30, 31 och 33 §§, 17 kap. 2-4, 6, 8, 10, 13-
+2. Bestämmelserna i 15 kap. 11 och 33 §§, 17 kap. 2-4, 8, 10, 13, 14, 16, 17, 19-21, 23-25, 26 a, 28-30 och 35 §§, 28 kap. 5 § och 29 kap. 26 och 27 §§ i den nya lydelsen och bestämmelserna i den nya 17 kap. 14 a § tillämpas på utbildning som påbörjas efter den 30 juni 2019.
 
-- 17, 19-21, 23-25, 26 a, 28-30 och 35 §§, 18 kap. 1, 14, 16, 22 och 26 a §§, 19 kap. 2 och 21 §§, 28 kap. 5 § och 29 kap. 9, 26 och 27 §§ och i övrigt den 1 juli 2019.
+3. För utbildning som påbörjats före den 1 juli 2019 gäller 15 kap. 11 och 33 §§, 17 kap. 2-4, 8, 10, 13, 14, 16, 17, 19-21, 23-25, 26 a, 28-30 och 35 §§, 28 kap. 5 § och 29 kap. 26 och 27 §§ i den äldre lydelsen.
 
-- Bestämmelserna i 15 kap. 11 och 33 §§, 17 kap. 2-4, 8, 10, 13, 14, 16, 17, 1921, 23-25, 26 a, 28-30 och 35 §§, 28 kap. 5 § och 29 kap. 26 och 27 §§ i den nya lydelsen och bestämmelserna i den nya 17 kap. 14 a § tillämpas på utbildning som påbörjas efter den 30 juni 2019.
-
-- För utbildning som påbörjats före den 1 juli 2019 gäller 15 kap. 11 och 33 §§, 17 kap. 2-4, 8, 10, 13, 14, 16, 17, 19-21, 23-25, 26 a, 28-30 och 35 §§, 28 kap. 5 § och 29 kap. 26 och 27 §§ i den äldre lydelsen.
-
-- De upphävda bestämmelserna i 17 kap. 5, 9, 22 och 31-34 §§ gäller fortfarande för utbildning som påbörjats före den 1 juli 2019.
+4. De upphävda bestämmelserna i 17 kap. 5, 9, 22 och 31-34 §§ gäller fortfarande för utbildning som påbörjats före den 1 juli 2019.
 
 2018:1303
 
-Denna lag träder i kraft den 1 augusti 2018 i fråga om 3 kap. 1, 12 b, 12 d och 12 g12 j §§ och i övrigt den 1 juli 2019.
+Denna lag träder i kraft den 1 augusti 2018 i fråga om 3 kap. 1, 12 b, 12 d och 12 g–12 j §§ och i övrigt den 1 juli 2019.
 
 ## Bilaga 1
 ### Nationella program
@@ -7775,7 +7787,10 @@ Naturvetenskapsprogrammet
 
 Samhällsvetenskapsprogrammet
 
-Teknikprogrammet Lag (2017:620) .
+Teknikprogrammet Lag (2017:620).
+
+## Bilaga 2
+### Poängplan för nationella program i gymnasieskolan
 
 Ämne | Gymnasiepoäng
 --- | ---
@@ -7799,16 +7814,13 @@ Historia | 50/100/200**
 Samhällskunskap | 100/200***
 Religionskunskap | 50
 
-## Bilaga 2
-### Poängplan för nationella program i gymnasieskolan
-
 /
 
 [[END OF PAGE 178]]
 
 [[START OF PAGE 179]]
 
-Naturkunskap                                    100****
+Naturkunskap | 100****
 
 #### Ämnen genom vilket programmet får sin karaktär
 
@@ -7827,7 +7839,7 @@ Summa gymnasiepoäng | 2 500
 
 ****På naturvetenskapsprogrammet ersätts naturkunskap med karaktärsämnena biologi, fysik och kemi och på teknikprogrammet med karaktärsämnena fysik och kemi.
 
-*****Ekonomiprogrammet 950, teknikprogrammet 1 100 samt estetiska, humanistiska, samhällsvetenskaps- och naturvetenskapsprogrammen 1 050. Lag (2017:620) .
+*****Ekonomiprogrammet 950, teknikprogrammet 1 100 samt estetiska, humanistiska, samhällsvetenskaps- och naturvetenskapsprogrammen 1 050. Lag (2017:620).
 
 ## Bilaga 3
 
@@ -7851,7 +7863,7 @@ De nationella programmen i gymnasiesärskolan är
 
 - Programmet för samhälle, natur och språk, och
 
-- Programmet för skog, mark och djur. Lag (2017:620) .
+- Programmet för skog, mark och djur. Lag (2017:620).
 
 ## Bilaga 4
 
@@ -7884,9 +7896,11 @@ Individuellt val | 200
 Gymnasiesärskolearbete | 100
 Summa gymnasiesärskolepoäng | 2 500
 
-Lag (2017:620) .
+Lag (2017:620).
 
-## Bilaga 5 Har upphävts genom lag (2017:620) .
+## Bilaga 5 Har upphävts genom lag (2017:620).
+
+SVERIGES RIKSDAG
 
 All offentlig makt i Sverige utgår från folket och riksdagen är folkets främsta företrädare.
 
