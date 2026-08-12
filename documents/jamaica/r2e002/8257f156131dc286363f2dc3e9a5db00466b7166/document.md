@@ -28,6 +28,24 @@ Edited October 2009
 
 # Table of Contents
 
+Page #
+
+Section 1 - Introduction 3
+Section 2 – Situational Analysis 6
+Background and Context 6
+Major Achievements in Education 8
+Key Issues and Challenges 9
+Financing Education 10
+Population and Demographics of the Education System 14
+The Institutional and Legislative Framework 17
+Analysis of the Education System by Level 18
+Section 3 – SWOT Analysis 39
+Section 4 – Strategic Vision and Planning Framework 44
+Section 5 – Implementation Framework and Action Plan 47
+Section 6 - Monitoring and Evaluation Framework 71
+List of Acronyms 75
+Appendices 77
+
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
@@ -40,7 +58,7 @@ The  world  is  characterised  by  rapid  change,  increasing  globalisation  an
 
 The  educational  level  of  a  country  is  a  determinant  of  the  stage  of  its  economic development  and  potential  for  future  growth.  Investment  in  education  is  important, enabling  the  development  of  each  person's  full  potential  and  consequently  creating  a competitive workforce. Education is therefore a social indicator of a country's economic development  and  the  stock  and  quality  of  its  human  capital.  On  an  individual  level, formal education is one of several important contributors to the skills and socialisation of an individual and helps citizens to learn how to function in society and be successful in life.
 
-The Sector Plan for Education is influenced by the guiding principles in the Vision 2030 Jamaica -National Development Plan and is based on a shared vision of placing Jamaica prominently on the global map in terms of excellence in education. The Plan will build on work already undertaken by the Task Force on Education Transformation. It recognizes the importance of the integration between education and training. However, the analysis in  this  plan  focuses  on  the  formal  and  non-formal  educational  programmes  from  preprimary  to  tertiary.  Another  plan,  focusing  on  Training  and  Workforce  Development, targets the training institutions and programmes including training activities of secondary schools, post-secondary and tertiary institutions in preparation for the labour market.
+The Sector Plan for Education is influenced by the guiding principles in the Vision 2030 Jamaica -National Development Plan and is based on a shared vision of placing Jamaica prominently on the global map in terms of excellence in education. The Plan will build on work already undertaken by the Task Force on Education Transformation. It recognizes the importance of the integration between education and training. However, the analysis
 
 > 1 World Economic Forum, Global Competitiveness Report 2006
 
@@ -50,7 +68,9 @@ The Sector Plan for Education is influenced by the guiding principles in the Vis
 
 [[START OF PAGE 5]]
 
-This  Sector  Plan  is  one  of  thirty  one  that  form  the  foundation  for  the  development  of Vision  2030  Jamaica  National  Development  Plan  -  a  long  term  Plan  designed  to  put Jamaica in a position to achieve developed country status by 2030. Vision 2030 Jamaica is  based  on  a  fundamental vision to make 'Jamaica the place of choice to, live, work, raise  families  and  do  business', and  on  guiding  principles  which  put  'people'  at  the centre  of  Jamaica's  transformation.  Twelve  strategic  priorities  have  been  identified  as critical  elements  in  fulfilling  the  objectives  of  the  plan.  The  Vision  statement  for  this Sector  Plan  is:  ' Well  resourced,  internationally  recognised,  values  based  system  that develops  critical  thinking,  life-long  learners  who  are  productive  and  successful  and effectively contribute to an improved quality of life at the personal, national and global levels'. This Vision focuses on facilitating equality of opportunities, social cohesion and partnerships.    The  Plan  envisages  that  the  average  beneficiary  of  our  education  and training  system  will  have  completed  the  secondary  level  of  education,  acquired  a vocational skill, be proficient in the English Language, a foreign language, Mathematics, a science subject, Information Technology, participated in sports and the arts, be aware and proud of our local culture and possess excellent interpersonal skills and workplace attitudes.
+in this plan focuses on the formal and non-formal educational programmes from pre-primary to tertiary. Another plan, focusing on Training and Workforce Development, targets the training institutions and programmes including training activities of secondary schools, post-secondary and tertiary institutions in preparation for the labour market.
+
+This Sector Plan is one of thirty one that form the foundation for the development of Vision 2030 Jamaica National Development Plan - a long term Plan designed to put Jamaica in a position to achieve developed country status by 2030. Vision 2030 Jamaica is based on a fundamental vision to make “Jamaica the place of choice to, live, work, raise families and do business”, and on guiding principles which put ‘people’ at the centre of Jamaica’s transformation. Twelve strategic priorities have been identified as critical elements in fulfilling the objectives of the plan. The Vision statement for this Sector Plan is: “Well resourced, internationally recognised, values based system that develops critical thinking, life-long learners who are productive and successful and effectively contribute to an improved quality of life at the personal, national and global levels”. This Vision focuses on facilitating equality of opportunities, social cohesion and partnerships. The Plan envisages that the average beneficiary of our education and training system will have completed the secondary level of education, acquired a vocational skill, be proficient in the English Language, a foreign language, Mathematics, a science subject, Information Technology, participated in sports and the arts, be aware and proud of our local culture and possess excellent interpersonal skills and workplace attitudes.
 
 The  preparation  of  the  Education  Sector  Plan  has  been  supported  by  a  quantitative systems  dynamics  model  -  Threshold  21  Jamaica  (T21  Jamaica)  -  which  supports comprehensive,  integrated  planning  that  enables  the  integration  of  a  broad  range  of interconnected  factors  inclusive  of  economic,  social  and  environmental  considerations. The T21 Jamaica is able to project future consequences of different strategies across a range of indicators. In addition, it will enable planners to trace causes of changes in any variable or indicator back to the assumptions.
 
@@ -70,7 +90,7 @@ The first draft of this Sector Plan was developed using the following processes:
 
 - a strategic meeting between the Chair of the Task Force, Chairman of the PAG, the consultant and the Technical Secretary of the PIOJ;
 
-- a strategic meeting with the Chair of the Education Task Force and the Chair of the  Training  &  Workforce  Development  Task  Force  towards  identifying  crosscutting issues and synchronization of the planning process; and
+- a strategic meeting with the Chair of the Education Task Force and the Chair of the Training & Workforce Development Task Force towards identifying cross-cutting issues and synchronization of the planning process; and
 
 - a strategic meeting with the Executive Director of the Transformation Team and his work stream leaders as well as members of the PIOJ's National Development Planning  team  towards  integrating  activities  of  the  Education  Transformation programme with the National Development planning process.
 
@@ -234,7 +254,7 @@ Government continues to grapple with the aforementioned issues and how to correc
 
 ## Financing Education
 
-Widening participation at higher levels of education as well as maintaining equity and education quality have important implications for education spending 6 . The Government of Jamaica currently spends over $40 billion (2006/07 fiscal year, representing 11.4 % of the  budget  or  28.0  %  of  the  non-debt  portion  of  the  budget)  on  education,  with households  estimated  to  spend  an  additional  $19  billion.  Household  expenditure  on education  include  payments  for  tuition,  exam  and  other  fees,  extra  lessons,  books, transportation, lunch & snacks and uniforms. According to the Jamaica Survey of Living Conditions  (JSLC)  2006,  each  household  was  spending  an  average  of  $67,591.56  on education  expenses.  The  Table  below  presents  a  breakdown  of  annual  education expenditure of households between 2002 and 2006.
+Widening participation at higher levels of education as well as maintaining equity and education quality have important implications for education spending 6. The Government of Jamaica currently spends over $40 billion (2006/07 fiscal year, representing 11.4 % of
 
 > 4 Under this policy, no child attending a government funded institution should be refused entry on the basis of inability to pay the shared cost.
 
@@ -250,9 +270,13 @@ Widening participation at higher levels of education as well as maintaining equi
 
 [[START OF PAGE 12]]
 
-Category | 2002 | 2004 r | 2006
+the budget or 28.0 % of the non-debt portion of the budget) on education, with households estimated to spend an additional $19 billion. Household expenditure on education include payments for tuition, exam and other fees, extra lessons, books, transportation, lunch & snacks and uniforms. According to the Jamaica Survey of Living Conditions (JSLC) 2006, each household was spending an average of $67,591.56 on education expenses. The Table below presents a breakdown of annual education expenditure of households between 2002 and 2006.
+
+Table 1: ANNUAL EDUCATION EXPENDITURE ($), 2002- 2006
+
+Category | 2002 |  | 2004r |  | 2006 |
 --- | --- | --- | --- | --- | --- | ---
-Nominal | Real (1990 prices) | Nominal | Real (1990 prices) | Nominal | Real (1990 prices)
+ | Nominal | Real (1990 prices) | Nominal | Real (1990 prices) | Nominal | Real (1990 prices)
 Tuition | 7,379.93 | 641.72 | 7,294.18 | 323.60 | 9,317.17 | 327.10
 Exam and other Fees | 7,040.2 | 6,12.2 | 8,315.10 | 285.80 | 6,009.54 | 211.00
 Extra Lessons | 7,545.20 | 406.3 | 10,585.20 | 441.78 | 12,155.33 | 426.72
@@ -263,9 +287,7 @@ Uniforms | 2,231.90 | 215.2 | 2,601.40 | 235.68 | 3,140.54 | 251.65
 Other | 1,281.90 | 122.5 | 1,241.90 | 94.69 | 1,321.61 | 80.47
 Total | 50,065.93 | 4,161.02 | 60,065.48 | 3,629.36 | 67,591.56 | 3,391.82
 
-Table 1: ANNUAL EDUCATION EXPENDITURE ($), 2002- 2006
-
-> r - revised data.  Adapted from the Estimates of Expenditure, 2002-2006
+> r - revised data. Adapted from the Estimates of Expenditure, 2002-2006
 
 There also is substantial private investment in education from institutions, particularly the Church.  This  budget  for  education  is  supplemented  by  other  Government  expenditure such  as  deferred  financing  for  school  building  and  funding  from  the  Jamaica  Social Investment  Fund  (JSIF),  as  well  as  the  Culture,  Health,  Arts,  Sports  and  Education (CHASE) Fund. In addition, the Government has begun to foster new private and public sector partnerships using deferred financing to create new school places at all levels. This arrangement  is  currently  initiated  with  private  companies  such  as  WHICON  and  Gore Developments Ltd.
 
@@ -309,14 +331,13 @@ Although Jamaica spends a fairly high percentage of its resources on education, 
 Table  3  compares  the  expenditure  per  student  at  the  various  levels  of  the  education system for Jamaica, Barbados and Trinidad and Tobago. The results indicate that Jamaica lags behind its CARICOM partners at all three levels.
 
 Table 3: Expenditure per Student for Selected Countries (US$) for year 2000 and
+CXC Performance for Three Key Subjects - 2003
 
 Country | Primary | Secondary | Tertiary | GDP per Capita | Literacy Rate | English (%) | Maths (%) | Physics (%)
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Jamaica | 323 | 508 | 1,703 | 3,561 | 86.4 | 45 | 36 | 59
 Trinidad | 816 | 734 | - | 8,176 | 93.5 | 55.3 | 50.3 | 60.7
 Barbados | 1,871 | 2,432 | 5,634 | 14,553 | 97 | 68.3 | 53.3 | 67.3
-
-CXC Performance for Three Key Subjects - 2003
 
 Source: UNESCO
 
@@ -334,13 +355,13 @@ The  high  level  of  literacy  in  Barbados  as  well  as  its  economic  perfo
 
 An  estimated  72.9  per  cent  of  the  3-24  year  old  (school-age  cohort)  were  enrolled  in educational  institutions  in  2006.  The  total  number  of  students  enrolled  in  the  public education system at the pre-primary, primary and secondary levels stood at 788,490, with primary education accounting for 38.0 per cent of the total. By 2007, the percentage of the eligible cohort enrolled in school had risen to 74.2 per cent. Just under 86 per cent were enrolled in public schools. The Gross enrolment rates for the Pre-Primary, Primary, Secondary and Tertiary level educational institutions were 95 per cent, 95 per cent, 90.7 per cent and 29.0 per cent respectively in 2005. These figures, except for pre-primary and primary,  do  not  compare  favourably  with  developed  countries  such  as  the  United Kingdom and Japan and with some Caribbean countries such as Barbados (see Table 4 below).    It  should  be  noted  that  while  enrolment  rates  are  relatively  high,  it  does  not speak to important differences in the quality of education. The target for the system is the achievement  of universal enrolment at the upper secondary level  and  improved attendance at all levels. It should be noted that by 2007, the respective outputs had risen (except for primary which declined marginally) to 99.4 per cent (Pre-Primary), 94.5 per cent (Primary), 93.4 per cent (Secondary), and 29.5 per cent (Tertiary).
 
+Table 4: Educational Indicators for Selected Countries, 2005
+
 Indicators (2005) | Countries
 --- | --- | --- | --- | --- | --- | ---
 Jamaica | Singapore | Barbados | Japan | UK | Trinidad
 Enrolment (Gross)
 Pre-Primary | 95% | 43% | 93% | 85% | 59% | 87%
-
-Table 4: Educational Indicators for Selected Countries, 2005
 
 14
 
@@ -364,6 +385,8 @@ Source: UNESCO
 
 Information garnered from the MOE estimates an 80.5 per cent average daily attendance rate for the period 2003-2005 with males averaging 78.8 per cent and females 82.1 per cent. As shown in Table 5, in 2005, the average daily attendance have improved compared with previous years and was highest in Technical High Schools, 84.8 per cent and lowest in All-Age schools at 75.9 per cent. The implication is that achieving quality education is negatively impacted as on any given day some 19.1 per cent of the students were absent from school.
 
+TABLE 5: Percentage Attendance by School Type and Sex, Academic Year 2003 to 2005
+
 Percentage
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 2003/2004 | 2004/2005 | 2005/2006
@@ -377,11 +400,9 @@ Technical High | 85.6 | 82.8 | 84.2 | 83.3 | 85.7 | 84.5 | 84.1 | 85.5 | 84.8
 Agricultural High | 94.2 | 90.9 | 92.9 | 90.5 | 92.5 | 91.3 | 84.6 | 84.0 | 84.4
 Grand Total | 78.7 | 82.1 | 80.4 | 78.5 | 81.7 | 80.1 | 79.1 | 82.6 | 80.9
 
-TABLE 5:  Percentage Attendance by School Type and Sex, Academic Year 2003 to 2005
-
 Source: Ministry of Education, Statistics Unit
 
-The impact of the length of instructional time on student performance also has been the focus of attention in education systems globally. In contrast to many countries where 12 or 13 years of formal schooling is provided, Jamaica provides 11 years from Grades 1-11. However,  research  indicates  that  extending  time  without  improved  teaching  methods does  not  add  value.  With  respect  to  the  length  of  the  school  year,  Table  4  shows  that Jamaica  has  the  shortest  number  of  days  per  school  year  compared  to  all  the  other countries - Japan for example has 22 per cent more days and Barbados has 5 per cent more days. In Jamaica the number of instructional hours per school day as stipulated by the  Regulations  should  be  no  less  than  4  ½  at  the  Primary,  All  Age  and  Secondary schools  on  a  shift  system,  and  5  hours  for  whole-day  schools.  One  recommendation would  be  to  increase  the  number  of  instructional  hours  to  compare  with  those  of  the United States, for example, which is 6 hours per day. The hours of instruction refer to the hours that a teacher and students are present together imparting and receiving educational instruction respectively 8.
+The impact of the length of instructional time on student performance also has been the focus of attention in education systems globally. In contrast to many countries where 12 or 13 years of formal schooling is provided, Jamaica provides 11 years from Grades 1-11. However, research indicates that extending time without improved teaching methods does not add value. With respect to the length of the school year, Table 4 shows that
 
 15
 
@@ -389,13 +410,19 @@ The impact of the length of instructional time on student performance also has b
 
 [[START OF PAGE 17]]
 
+Jamaica has the shortest number of days per school year compared to all the other countries – Japan for example has 22 per cent more days and Barbados has 5 per cent more days. In Jamaica the number of instructional hours per school day as stipulated by the Regulations should be no less than 4 ½ at the Primary, All Age and Secondary schools on a shift system, and 5 hours for whole-day schools. One recommendation would be to increase the number of instructional hours to compare with those of the United States, for example, which is 6 hours per day. The hours of instruction refer to the hours that a teacher and students are present together imparting and receiving educational instruction respectively 8.
+
 ### Teacher Complement
 
-The  public  education  system  currently  employs  over  25,000  teachers  in  over  1,000 schools (see Table 6).
+The public education system currently employs over 25,000 teachers in over 1,000 schools (see Table 6).
 
-SCHOOL TYPE | TRAINED | UNTRAINED | NUMBER OF
+TABLE 6: SUMMARY OF TEACHING STAFF BY TYPE OF EDUCATIONAL INSTITUTION
+
+2006/2007
+
+SCHOOL TYPE | INSTITUTIONS* | TRAINED TEACHERS | UNTRAINED TEACHERS | NUMBER OF TEACHERS
 --- | --- | --- | --- | ---
-PUBLIC INSTITUTIONS | INSTITUTIONS* | TEACHERS | TEACHERS | TEACHERS
+PUBLIC INSTITUTIONS |  |  |  |
 INFANT SCHOOLS | 30 | 322 | 25 | 347
 PRIMARY (Inclusive of Infant Departments) | 445 | 6,639 | 728 | 77,367
 ALL AGE (Grades 1-9 & Inclusive of Infant Departments) | 261 | 2,472 | 312 | 2,784
@@ -414,19 +441,21 @@ G.C. FOSTER COLLEGE PF PHYSICAL EDUCATION & SPORTS | 1 | …. | ….. | …..
 UNIVERSITY OF TECHNOLOGY | 1 | …. | ….. | …..
 UNIVERSITY OF THE WEST INDIES (MONA) | 1 | 283 | 266 | 549
 SUBTOTAL | 1,019 | 22,172 | 4,052 | 26,224
-INDEPENDENT INSTITUTIONS
+INDEPENDENT INSTITUTIONS |  |  |  |
 BASIC SCHOOLS (RECOGNISED) | …. | …. | …. | …..
 BASIC SCHOOLS (UNRECOGNISED) | …. | …. | ….. | …..
 KINDERGARTEN/ PREPARATORY | 185 | …. | …. | …..
-SECONDARY HIGH with PREPARATORY DEPARTMENT | 31
+SECONDARY HIGH with PREPARATORY DEPARTMENT | 31 |  |  |
 SECONDARY HIGH | 17 | …. | …. | …..
-8 Education Task Force Report VOCATTIONAL HIGH | 62 | …. | …. | …..
+VOCATTIONAL HIGH | 62 | …. | …. | …..
 COMMERCIAL/BUSINESS COLLEGE | 103 | …. | …. | …..
 SPECIAL | 29 | 36 | 78 | 114
-SUB-TOTAL | 427 | 36 | 78 | 16 114
+SUB-TOTAL | 427 | 36 | 78 | 114
 Source: Adapted from Jamaica Education Statistics 2006- 2007 p.9
 
-TABLE 6: SUMMARY OF TEACHING STAFF BY TYPE OF EDUCATIONAL INSTITUTION
+> 8 Education Task Force Report
+
+16
 
 [[END OF PAGE 17]]
 
@@ -574,7 +603,7 @@ The  uneven  delivery  of  early  childhood  education  and  development  progra
 
 ### Primary Education
 
-Primary education programmes are delivered in Primary, Primary and Junior High, All Age and Preparatory Schools covering children ages 6-11.  Primary school enrolment in 2007/08  was  315,130,  1.6  per  cent  higher  than  the  number  enrolled  in  2006/07. Enrolment in public schools was 292,417 and an estimated 26,317 or 9.0 per cent 10 were enrolled in 217 private schools. The MOE reported that the gross enrolment rate for the primary level was 94.5 per cent - 96.3 per cent for males and 92.8 per cent for females. In the public school system, males accounted for 51.2 per cent of total enrolment. The average teacher to pupil ratio was 1:30 compared to 1:27 in 2006/07. This compares with the Education Task Force recommendation of 1:20 for Kindergarten to Grade Three and 1:30 for Grades Four to Six.
+Primary education programmes are delivered in Primary, Primary and Junior High, All Age and Preparatory Schools covering children ages 6-11. Primary school enrolment in 2007/08 was 315,130, 1.6 per cent higher than the number enrolled in 2006/07. Enrolment in public schools was 292,417 and an estimated 26,317 or 9.0 per cent 10 were enrolled in 217 private schools. The MOE reported that the gross enrolment rate for the
 
 > 10 2006 JSLC.
 
@@ -584,13 +613,19 @@ Primary education programmes are delivered in Primary, Primary and Junior High, 
 
 [[START OF PAGE 23]]
 
+primary level was 94.5 per cent - 96.3 per cent for males and 92.8 per cent for females. In the public school system, males accounted for 51.2 per cent of total enrolment.
+
+The average teacher to pupil ratio was 1:30 compared to 1:27 in 2006/07. This compares with the Education Task Force recommendation of 1:20 for Kindergarten to Grade Three and 1:30 for Grades Four to Six.
+
 #### Performance
 
-Available data on the Grade One Readiness Inventory showed that in May 2002 some 28,895 students (51.1%) sat the examination. Of the total sitting, some 31.4 per cent of the students mastered all four of the Cognitive Skill areas. The proportion of girls mastering all four was 36.9 per cent compared to 26.3 per cent of boys.  By 2006, a total of 44,865 students sat the examination, (51.8 % males) and females continued to outperform males. The score for girls was 49.1 per cent compared to 36.1 per cent for boys.  In 2007/2008, the Grade One Individual Learning Profile was introduced to replace the Grade One Readiness Inventory.  Of the six tests administered under the new assessment, 18.5 per cent (22.8 % of males and 13.9 % of females) of the students showed no mastery of any area.  The highest rate of mastery was 29 per cent of females for the Writing and Drawing Test (18.3 % of males).
+Available data on the Grade One Readiness Inventory showed that in May 2002 some 28,895 students (51.1%) sat the examination. Of the total sitting, some 31.4 per cent of the students mastered all four of the Cognitive Skill areas. The proportion of girls mastering all four was 36.9 per cent compared to 26.3 per cent of boys. By 2006, a total of 44,865 students sat the examination, (51.8 % males) and females continued to outperform males. The score for girls was 49.1 per cent compared to 36.1 per cent for boys. In 2007/2008, the Grade One Individual Learning Profile was introduced to replace the Grade One Readiness Inventory. Of the six tests administered under the new assessment, 18.5 per cent (22.8 % of males and 13.9 % of females) of the students showed no mastery of any area. The highest rate of mastery was 29 per cent of females for the Writing and Drawing Test (18.3 % of males).
+
+TABLE 7: PERFORMANCE AT THE MASTERY LEVEL Grade Three Diagnostic Test, 2004-006
 
 Language Arts | 2004 | 2005 | 2006
 --- | --- | --- | ---
-S Phonics | 53.1 | 37 | 39.6
+Phonics S | 53.1 | 37 | 39.6
 Structure & Mechanics | 27.5 | 48 | 39.7
 Vocabulary | 39.6 | 40.4 | 42.4
 Study Skills | 28.8 | 41.3 | 34.8
@@ -601,8 +636,6 @@ Estimation & Measurement | 15.5 | 41.3 | 25.1
 Geometry | 36.5 | 49.5 | 56.1
 Algebra | 16.3 | 22.8 | 56.8
 Statistics | 20.9 | 30.1 | 57.5
-
-TABLE 7: PERFORMANCE AT THE MASTERY LEVEL Grade Three Diagnostic Test, 2004-006
 
 Source: Ministry of Education Statistics Unit
 
@@ -616,19 +649,24 @@ Mastery of key subjects (Language Arts, Mathematics and Communication Tasks) is 
 
 Table  8  shows  the  performance  of  students  in  the  Grade  Four  Literacy  Test  over  the period 2004 - 2008.  In May 2006, 47,325 students or 93.7 per cent of the cohort sat the test. Of the total, 30,674 or 64.8 per cent mastered all three subjects (17,926 females and 12,748 males) compared with the 63.9 per cent in 2005.  Although the percentage that mastered literacy at the grade four level declined in 2007, the number increased to 48,289 or  99  per  cent  of  the  eligible  cohort  in  2008,  and  the  percentage  that  gained  mastery increased to 68.9.
 
+TABLE 8: PERFORMANCE AT THE MASTERY LEVEL Grade Four Literacy Test 2004-2008
+
 Years | 2004 | 2005 | 2006 | 2007 | 2008
 --- | --- | --- | --- | --- | ---
 Percentage achieving mastery | 57 | 63.9 | 64.8 | 63.5 | 68.9
 
-TABLE 8: PERFORMANCE AT THE MASTERY LEVEL Grade Four Literacy Test 2004-2008
-
-The  Grade  Six  Achievement  Test  (GSAT)  is  designed  to  measure  the  academic development of children at the primary level and serves as a mechanism to facilitate the placement  of  students  at  secondary  level  schools  (Table  9).  This  curriculum-based examination had 53,017 (26,599 females) students registered with 96.5 per cent sitting in 2006. The mean percentage scores were Mathematics 53.0 (57.8 in 2005); Language Arts 54.0 (53.9 in 2005); Social Studies 51.0 (56.9 in 2005); Science 55.0 (51.6 in 2005); and Communication Tasks 50.0 per cent (40.0 per cent in 2005). Girls outperformed boys in all subject areas and on average students from preparatory schools did better than those from public schools at the primary level. In the succeeding years 2007 and 2008, despite fluctuations  (lower  performance  in  2007  and  improved  performance  in  2008),    a relatively low percentage of students showed mastery in the critical areas of Mathematics,  Science,  Language  Arts,  Communication  Tasks  and  Social  Studies.  The success rate for Language Arts and Mathematics never exceeded 58 per cent in any year. The highest success rate for any area was 66 per cent for Communication Tasks in 2007.
+The Grade Six Achievement Test (GSAT) is designed to measure the academic development of children at the primary level and serves as a mechanism to facilitate the placement of students at secondary level schools (Table 9). This curriculum-based examination had 53,017 (26,599 females) students registered with 96.5 per cent sitting in 2006. The mean percentage scores were Mathematics 53.0 (57.8 in 2005); Language Arts 54.0 (53.9 in 2005); Social Studies 51.0 (56.9 in 2005); Science 55.0 (51.6 in 2005); and Communication Tasks 50.0 per cent (40.0 per cent in 2005). Girls outperformed boys in all subject areas and on average students from preparatory schools did better than those from public schools at the primary level. In the succeeding years 2007 and 2008, despite fluctuations (lower performance in 2007 and improved performance in 2008), a relatively low percentage of students showed mastery in the critical areas of Mathematics, Science, Language Arts, Communication Tasks and Social Studies. The
 
 23
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
+
+success rate for Language Arts and Mathematics never exceeded 58 per cent in any year. The highest success rate for any area was 66 per cent for Communication Tasks in 2007.
+
+Table 9: PERFORMANCE AT THE MASTERY LEVEL
+Grade Six Achievement Test (GSAT) 2004-2008
 
 SUBJECTS | 2004 | 2005 | 2006 | 2007 | 2008
 --- | --- | --- | --- | --- | ---
@@ -637,8 +675,6 @@ Science | 46.09 | 51.6 | 55 | 52 | 56
 Language Arts | 47.98 | 53.9 | 54 | 48 | 53
 Communication Tasks | 64.1 | 40 | 50 | 66 | 58.3
 Social Studies | 50.24 | 56.9 | 51 | 51 | 56
-
-Table 9:  PERFORMANCE AT THE MASTERY LEVEL Grade Six Achievement Test (GSAT) 2004-2008
 
 Source Ministry of Education Statistics Unit
 
@@ -743,10 +779,9 @@ Initiatives undertaken to improve the outcomes for persons with special needs in
 - GSAT examinations;
 
 Table 10:
---- | --- | --- | ---
 ENROLMENT IN GOVERNMENT AND NON-GOVERNMENT SPECIAL EDUCATION PROGRAMMES, 2005/06
-PROGRAMMES
-Male | Female | TOTAL
+PROGRAMMES | Male | Female | TOTAL
+--- | --- | --- | ---
 Schools for the Mentally Challenged | 836 | 469 | 1 305
 Schools for the Blind | 72 | 53 | 125
 Schools for the Deaf | 227 | 230 | 457
@@ -754,7 +789,7 @@ Government Special Education Unit | 237 | 110 | 347
 Resource Room Programme | 1 442 | 717 | 2 159
 Centre-based Programmes | 352 | 137 | 489
 Home-based Programmes | 259 | 202 | 461
-Total number of children seen in Clinics | 443
+Total number of children seen in Clinics |  |  | 443
 Total number of children in Special Schools and Programmes | 3 425 | 1 918 | 5 786
 Source: Special Education Unit, MOE
 
@@ -794,9 +829,10 @@ In  June  2008,  a  total  of  31,604  public  school  candidates  sat  the  Car
 
 subjects was 58.1 per cent compared with 40.1 per cent in 2006.  In June 2006, 22.1 per cent did not pass any subject, compared with 23.9 per cent in 2005.  The proportion fell to 19 per cent in 2008. The performance in the core subjects of Mathematics and English Language has continued to be poor despite fluctuations.
 
-Table 11 shows the performance of children by subject for the period 2003 to 2007. In 2006 the proportion that passed English Language fell to 50.1 per cent from a high of 60.2 per cent in 2005. In Mathematics, the percentage of students who attained passing grades also fell to 35.7 per cent from 39.4 per cent.   The basic requirement for tertiary institutions is five CSEC subjects including English Language and Mathematics. Of the 30,063 Jamaican students who sat the 2006 CSEC examination, 7,901 (26.0 %) attained Grades 1-lll in five or more subjects including Mathematics and English Language.  In 2007, the number fell to 5,060 and then rose to 5,866 (18.6 %) in 2008 (data for years 2003 to 2007 shown in Table 11).
+Table 11 shows the performance of children by subject for the period 2003 to 2007. In 2006 the proportion that passed English Language fell to 50.1 per cent from a high of 60.2 per cent in 2005. In Mathematics, the percentage of students who attained passing grades also fell to 35.7 per cent from 39.4 per cent.   The basic requirement for tertiary institutions is five CSEC subjects including English Language and Mathematics. Of the 30,063 Jamaican students who sat the 2006 CSEC examination, 7,901 (26.0 %) attained Grades 1-III in five or more subjects including Mathematics and English Language.  In 2007, the number fell to 5,060 and then rose to 5,866 (18.6 %) in 2008 (data for years 2003 to 2007 shown in Table 11).
 
-Subjects | Number Sitting | Percentage Attaining Grades 1-lll
+Table 11:   Performance of Public Secondary School Students in the CSEC Examination by Subject (General and Technical Proficiency) 2003-2007
+Subjects | Number Sitting | Percentage Attaining Grades 1-III
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 2003 | 2004 | 2005 | 2006 | 2007 | 2003 | 2004 | 2005 | 2006 | 2007
 Arts
@@ -821,22 +857,20 @@ Agri. Science (DA) | 295 | 324 | 358 | 338 | 434 | 77.6 | 83.3 | 91.9 | 85.8 | 9
 Agri. Science (AS) | 594 | 653 | 676 | 828 | 1887 | 95.1 | 89.3 | 74.1 | 79 | 54.5
 Agri. Science (CS) | 583 | 720 | 946 | 925 | - | 89.9 | 84.9 | 63.7 | 75.9 | -
 
-Table 11:   Performance of Public Secondary School Students in the CSEC Examination by Subject (General and Technical Proficiency) 2003-2007
-
 29
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-Subjects | Number Sitting | Percentage Attaining Grades 1-lll
+Subjects | Number Sitting | Percentage Attaining Grades 1-III
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Visual Arts | 1831 | 1762 | 1685 | 1766 | 2074 | 57.8 | 47 | 62.9 | 68.3 | 73.9
 Building Technology Construction | 428 | 451 | 462 | 441 | 551 | 85.3 | 80.7 | 79.2 | 79.1 | 70.2
 Building Technology Woods | 740 | 775 | 818 | 778 | 732 | 74.6 | 73 | 27.8 | 55.5 | 56.6
 Clothing & Textiles | 1265 | 1212 | 1115 | 1265 | 1381 | 92.6 | 80 | 81.6 | 83.0 | 79.6
 Electrical Technology | 1744 | 1565 | 1786 | 1754 | 1779 | 67.7 | 83.1 | 49.8 | 39.1 | 66.7
-Electronic Document Prep. & Mgmt. | 814 | 1819 | 2282 | n/a | n/a | 89.2 | 94.6 | 92.9
+Electronic Document Prep. & Mgmt. |  |  | 814 | 1819 | 2282 | n/a | n/a | 89.2 | 94.6 | 92.9
 Food & Nutrition | 3282 | 3350 | 3523 | 3878 | 4154 | 84.1 | 82.8 | 84.9 | 83.3 | 87.2
 Home Management | 2291 | 2548 | 2837 | 2799 | 2918 | 86.8 | 96.2 | 88.6 | 87.5 | 87.8
 Information Technology | 6018 | 5360 | 6545 | 7466 | 8134 | 58.9 | 46.2 | 69 | 58.4 | 72.4
@@ -850,6 +884,7 @@ Principles of Accounts | 6345 | 5694 | 6408 | 6813 | 7043 | 74.1 | 64.1 | 69.8 |
 Principles of Business | 6967 | 6607 | 7366 | 7993 | 8019 | 75.6 | 76.3 | 74.8 | 67.7 | 75.7
 Typewriting | 1406 | 1125 | 435 | 56 | 24 | 40.8 | 33.8 | 46.7 | 48.2 | 12.5
 Economics | n/a | n/a | n/a | n/a | 378 | n/a | n/a | n/a | n/a | 53.2
+Source: Adapted from data included in the Economic and Social Survey Jamaica, 2003-2008
 
 The  foregoing  data  illustrate  that  despite  improvement  in  the  general  performance  of students  from  the  Primary  to  Secondary  levels  and  in  some  instances,  marginal improvements, the performance of our children, particularly in public schools, continues to be below the desired level.
 
@@ -859,7 +894,7 @@ There  are  a  number  of  programmes  geared  towards  improving  the  Secondar
 
 - GOJ/IBRD The Reform of Secondary Education Project (ROSE -  now  in  its second phase) - Components under this programme include measures to improve literacy  and  numeracy  among students, expanded access to schools for students and institutional strengthening.
 
-- The  MOEY/HEART Trust/NTA Technical  High  School  Development  Project (THSDP) This project seeks to improve the programmes, facilities and curricula of the 14 Technical High Schools and Papine High School. Emphasis is placed on
+- The  MOEY/HEART Trust/NTA Technical  High  School  Development  Project (THSDP) - This project seeks to improve the programmes, facilities and curricula of the 14 Technical High Schools and Papine High School. Emphasis is placed on
 
 30
 
@@ -867,9 +902,9 @@ There  are  a  number  of  programmes  geared  towards  improving  the  Secondar
 
 [[START OF PAGE 32]]
 
-- improving the performance of students in Reading, the Sciences, Mathematics and English. The programme involves interventions relating to the training of teachers and school administrators.
+improving the performance of students in Reading, the Sciences, Mathematics and English. The programme involves interventions relating to the training of teachers and school administrators.
 
-- The  School  Feeding  Programme  (SFP)  Nutribun: Approximately  136,000 children  benefit  from  this  programme  on  a  daily  basis.  The  programme  was feeding  195,000  in  2004  but  was  forced  to  scale  down  due  to  budgetary constraints.
+- The  School  Feeding  Programme  (SFP) – Nutribun: Approximately  136,000 children  benefit  from  this  programme  on  a  daily  basis.  The  programme  was feeding  195,000  in  2004  but  was  forced  to  scale  down  due  to  budgetary constraints.
 
 - Traditional/cooked  lunch  programme -This  programme  facilitates  the  daily feeding of over 175,000 beneficiaries.
 
@@ -885,7 +920,7 @@ There  are  a  number  of  programmes  geared  towards  improving  the  Secondar
 
 [[START OF PAGE 33]]
 
-- National Textbook Loan Scheme in 2006 , the National Textbook Loan Scheme provided  approximately  590,000  free  textbooks  valued  at  $611.9  million  to students at Grade 7-11 across 270 secondary level schools island-wide.
+- National Textbook Loan Scheme – in 2006, the National Textbook Loan Scheme provided  approximately  590,000  free  textbooks  valued  at  $611.9  million  to students at Grade 7-11 across 270 secondary level schools island-wide.
 
 - The  Educate,  Assess  and  Socialize  the  Youth  (EASY)  Programme ,  a  project within  the Programme for Alternative Student Support (PASS), assisted schools to deal with students who display high levels of anti-social behaviour.  The EASY Programme developed and delivered by a psychologist included assessment and treatment of 48 students with chronic maladaptive behaviour. Under the general guidance and counselling programmes, an additional 540 students were referred for specialized counselling.
 
@@ -900,18 +935,6 @@ There  are  a  number  of  programmes  geared  towards  improving  the  Secondar
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
-
-#### Career Guidance - An Emerging Issue at the Secondary Level
-
-Career development in Jamaica is a fairly new phenomenon compared with the growth and development of this discipline  in  other  countries.  The  activities  are  generally  focused  on  career  day/career  week  in  schools  at  the secondary level with some schools not having even this minimal exercise. During this period, resource persons are invited into the schools to address students on various topics related to career choices.
-
-There are over 900 counsellors working in the school system (primary, all-age, junior high and high schools), however the focus in most schools has been on the psycho-social, as most training programmes for counsellors allot 40-50 hours to career counselling as a module or topic. Counselling in the school system is seen primarily as the function of the guidance counsellors and not that of the teacher.  The ROSE Programme attempted to get the teachers involved by infusing career development concepts into the curriculum. However, in-service training in career development provided for teachers was inadequate in preparing them to deliver the curriculum.
-
-The Guidance Unit of the Ministry of Education & Youth has been reviewing the curricula used in the guidance programme in an effort to include more career-related information and to address the lack of information on employability skills included in these documents. The plan is to have one curriculum providing information on both  psycho-social  and  career  development  aspects  of  counselling.  The  Vocational  Training  Development Institute  has  been  since  1999,  offering  training  in  career  development  through  two  programmes  -  Career Development Diploma and Degree Programmes.
-
-##### Related Issues
-
-There is a need for the development of a comprehensive Career Development policy in Jamaica; the training and placement of Career Guidance Counsellor in educational institutions and the integration and infusion of career development in academic and vocational training programmes.
 
 #### Key Issues Impacting Secondary Education:
 
@@ -933,6 +956,18 @@ There is a need for the development of a comprehensive Career Development policy
 
 - public  perception  that  a  significant  number  of  children  are  leaving  the  school system functionally illiterate;
 
+#### Career Guidance - An Emerging Issue at the Secondary Level
+
+Career development in Jamaica is a fairly new phenomenon compared with the growth and development of this discipline  in  other  countries.  The  activities  are  generally  focused  on  career  day/career  week  in  schools  at  the secondary level with some schools not having even this minimal exercise. During this period, resource persons are invited into the schools to address students on various topics related to career choices.
+
+There are over 900 counsellors working in the school system (primary, all-age, junior high and high schools), however the focus in most schools has been on the psycho-social, as most training programmes for counsellors allot 40-50 hours to career counselling as a module or topic. Counselling in the school system is seen primarily as the function of the guidance counsellors and not that of the teacher.  The ROSE Programme attempted to get the teachers involved by infusing career development concepts into the curriculum. However, in-service training in career development provided for teachers was inadequate in preparing them to deliver the curriculum.
+
+The Guidance Unit of the Ministry of Education & Youth has been reviewing the curricula used in the guidance programme in an effort to include more career-related information and to address the lack of information on employability skills included in these documents. The plan is to have one curriculum providing information on both  psycho-social  and  career  development  aspects  of  counselling.  The  Vocational  Training  Development Institute  has  been  since  1999,  offering  training  in  career  development  through  two  programmes  -  Career Development Diploma and Degree Programmes.
+
+##### Related Issues
+
+There is a need for the development of a comprehensive Career Development policy in Jamaica; the training and placement of Career Guidance Counsellor in educational institutions and the integration and infusion of career development in academic and vocational training programmes.
+
 33
 
 [[END OF PAGE 34]]
@@ -953,7 +988,7 @@ There is a need for the development of a comprehensive Career Development policy
 
 In the past two decades, higher education around the globe has undergone a remarkable transformation. Tertiary education in Jamaica refers to programme offerings that provides both  post-secondary  and  tertiary  programmes.  The  University  of  the  West  Indies  is subsidised  by  the  Government  to  the  tune  of  80.0  per  cent,  teachers  colleges  and community colleges, 65 per cent and University of Technology, 45 per cent. It has been argued, in the Jamaican context, that the numerous public benefits of higher education continue to justify substantial government support, despite competing priorities such as health care, primary and secondary education, housing and infrastructure.  Not least is the fact  that  the  return  on  investment  in  tertiary  level  education  is  more  immediate  for  the individual and the society than for any other level of education.
 
-Post secondary education is provided by eight community colleges namely, Moneague, Montego  Bay,  Brown's  Town,  EXED  and  the  College  of  Agriculture,  Science  and Education  (CASE).    Moneague  and  Bethlehem  College  as  well  as  CASE  are  multidisciplinary  institutions  that  also  serve  as  teacher  training  institutions.    Most  of  these institutions are offering degrees at the bachelor's level or associate degrees in association with  UTECH  and  the  UWI  under  a  franchised  arrangement.  Enrolment  in  Multidisciplinary Institutions/Community Colleges decreased by 19.4 per cent to 6 749 (66.7 per  cent  females)  and  2,211  (70.4  per  cent  female)  graduated.  A  mandate  from Government states that 75% of programmes offered at Community Colleges are to be at the tertiary level.
+Post secondary education is provided by eight community colleges namely, Moneague, Montego  Bay,  Brown's  Town,  EXED  and  the  College  of  Agriculture,  Science  and Education  (CASE).    Moneague  and  Bethlehem  College  as  well  as  CASE  are  multi-disciplinary  institutions  that  also  serve  as  teacher  training  institutions.    Most  of  these institutions are offering degrees at the bachelor's level or associate degrees in association with  UTECH  and  the  UWI  under  a  franchised  arrangement.  Enrolment  in  Multi-disciplinary Institutions/Community Colleges decreased by 19.4 per cent to 6 749 (66.7 per  cent  females)  and  2,211  (70.4  per  cent  female)  graduated.  A  mandate  from Government states that 75% of programmes offered at Community Colleges are to be at the tertiary level.
 
 34
 
@@ -979,6 +1014,7 @@ Enrolment at UTech for all programmes increased in 2006 by 0.80 per cent to 8,80
 
 [[START OF PAGE 37]]
 
+TABLE 12: ENROLMENT IN SELECTED TERTIARY INSTITUTIONS BY GENDER, 2005/06
 INSTITUTION | MALE | FEMALE | TOTAL
 --- | --- | --- | ---
 B & B | 21 | 178 | 199
@@ -1020,8 +1056,6 @@ Britain | 140 | 258 | 398
 SUBTOTAL | 715 | 1,278 | 1,993
 TOTAL | 21,942 | 39,188 | 61,130
 
-TABLE 12: ENROLMENT IN SELECTED TERTIARY INSTITUTIONS BY GENDER, 2005/06
-
 Source: Listed Tertiary Institutions in Jamaica, United States Embassy  and the Canadian High Commission
 
 The number of graduates increased in 2008 by 19.2 per cent to 1,897 (55.1 % female). Thus while the UWI has shown decline in its enrolment, UTech has been showing some growth
@@ -1032,7 +1066,7 @@ The number of graduates increased in 2008 by 19.2 per cent to 1,897 (55.1 % fema
 
 [[START OF PAGE 38]]
 
-#### . Teachers Colleges
+#### .Teachers Colleges
 
 Apart from the Universities, the Government institutions offering teacher training include the Mico Teachers College, Moneague Multi-disciplinary College, College of Agriculture, Science and Education (CASE), Shortwood Teachers College, G.C. Foster College,  Sam  Sharpe  Teachers  College,  Edna  Manley  College  of  the  Visual  and Performing Arts, St. Joseph's Teachers College, Church Teachers College and Bethlehem Moravian College.
 
@@ -1118,71 +1152,25 @@ undertake higher levels of education or obtain employment they choose
 
 elsewhere in the world.
 
-Following more than a year of consultation, the Strategic Plan has
+Following more than a year of consultation, the Strategic Plan has established the following priorities for the period 2006-10:
 
-established the following priorities for the period 2006-10:
+- Establishment of a Tertiary Commission to manage the tertiary system
 
-boxshadowdwn
+- Upgrading of tertiary institutions to offer undergraduate degrees in their own right
 
-Establishment of  a Tertiary Commission to
+- Improved and strengthened use of technology in instruction and management in the tertiary system
 
-manage the tertiary system
+- Development of a harmonised articulation system to allow for seamless movement between and among institutions
 
-boxshadowdwn
+- Focused effort placed on research and the dissemination of research results to potential users
 
-Upgrading of tertiary institutions to offer
+- One-third increase in 2005/06 enrolment by 2010 in the tertiary sector
 
-undergraduate degrees in their own right
+- Focus on improving entrepreneurship skills of graduates
 
-boxshadowdwn
+- Improved and strengthened funding for tertiary education
 
-Improved and strengthened use of
-
-technology in instruction and management in
-
-the tertiary system
-
-boxshadowdwn
-
-Development of a harmonised articulation
-
-system to allow for seamless movement
-
-between and among institutions
-
-boxshadowdwn
-
-Focused effort placed on research and the
-
-dissemination of research results to potential
-
-users
-
-boxshadowdwn
-
-One-third increase in 2005/06 enrolment by
-
-2010 in the tertiary sector
-
-boxshadowdwn
-
-Focus on improving entrepreneurship skills of
-
-graduates
-
-boxshadowdwn
-
-Improved and strengthened funding for
-
-tertiary education
-
-boxshadowdwn
-
-Strengthened marketing of tertiary
-
-programmes nationally, regionally and
-
-internationally
+- Strengthened marketing of tertiary programmes nationally, regionally and internationally
 
 The initial priorities in implementing the Strategic Plan should be the
 
@@ -1242,7 +1230,7 @@ Quality Education | Access and Equity | Policy and Legislation | Infrastructure 
 
 Quality Education | Access and Equity | Policy and Legislation | Infrastructure | Capacity and Resources | Systemic
 --- | --- | --- | --- | --- | ---
-lower and upper secondary appears weak, making it difficult for children to consolidate prior learning experiences • Unsatisfactory attendance averaging below 80 per cent at all levels • Unsatisfactory academic performance of males in all national examinations • Not enough secondary school leavers having requisite certification • Pupil-teacher ratio in schools in urban is below international standards • Inadequate number of teachers trained in content area and requisite pedagogical skills • Inadequate strategies for remediation • Limited contact time, both in terms of the number | schools lack adequate ventilation lighting, water supply and space for play areas and co- curricular activities are not provided in many private and public schools • Insufficient number of schools with clean, and green environment | packages for teachers • Insufficient numbers of trained and qualified managerial staff in the schools' administration (principals, etc) • Absenteeism of teachers (urban/rural public/private)
+lower and upper secondary appears weak, making it difficult for children to consolidate prior learning experiences • Unsatisfactory attendance averaging below 80 per cent at all levels • Unsatisfactory academic performance of males in all national examinations • Not enough secondary school leavers having requisite certification • Pupil-teacher ratio in schools in urban is below international standards • Inadequate number of teachers trained in content area and requisite pedagogical skills • Inadequate strategies for remediation • Limited contact time, both in terms of the number |  |  | schools lack adequate ventilation lighting, water supply and space for play areas and co-curricular activities are not provided in many private and public schools • Insufficient number of schools with clean, and green environment | packages for teachers • Insufficient numbers of trained and qualified managerial staff in the schools' administration (principals, etc) • Absenteeism of teachers (urban/rural public/private) |
 
 41
 
@@ -1252,9 +1240,9 @@ lower and upper secondary appears weak, making it difficult for children to cons
 
 Quality Education | Access and Equity | Policy and Legislation | Infrastructure | Capacity and Resources | Systemic
 --- | --- | --- | --- | --- | ---
-of hours per day, and the length of the total schooling experience • The potency of the visual and performing arts as disciplines in their own rights, as well as vehicles for teaching and learning are undervalued in the curriculum development
+of hours per day, and the length of the total schooling experience • The potency of the visual and performing arts as disciplines in their own rights, as well as vehicles for teaching and learning are undervalued in the curriculum development and delivery |  |  |  |  |
 Opportunities
-• Articulated system which starts at Early Childhood and continues to Tertiary • Strategic Planning Framework for Tertiary Education 2006-11 developed and agreed by stakeholders • Planned migration programmes whereby teachers are trained in Jamaica, provided with international experience and transfer of new knowledge (social | • Transformation Task Force Report | • The increased availability of Information and Communicat ions Technology, including Internet access in both the Ministry and in schools for student learning | • Restructuring of the Ministry to become a policy Ministry in tandem with the recommendations of the Education Task Force and the Public Sector Reform Programme • Planned programmes for lifelong learning • Globalization
+• Articulated system which starts at Early Childhood and continues to Tertiary • Strategic Planning Framework for Tertiary Education 2006-11 developed and agreed by stakeholders • Planned migration programmes whereby teachers are trained in Jamaica, provided with international experience and transfer of new knowledge (social |  | • Transformation Task Force Report |  | • The increased availability of Information and Communications Technology, including Internet access in both the Ministry and in schools for student learning | • Restructuring of the Ministry to become a policy Ministry in tandem with the recommendations of the Education Task Force and the Public Sector Reform Programme • Planned programmes for lifelong learning • Globalization
 
 42
 
@@ -1264,9 +1252,9 @@ Opportunities
 
 Quality Education | Access and Equity | Policy and Legislation | Infrastructure | Capacity and Resources | Systemic
 --- | --- | --- | --- | --- | ---
-remittances) to the local classroom • Recognition by the Ministry of the role of students and parents in the delivery of education
+remittances) to the local classroom • Recognition by the Ministry of the role of students and parents in the delivery of education |  |  |  |  |
 Threats
-• Negative influences (anti- academic) from external such as the media | • Access to schools is sometimes impeded because of lack of an integrated National planning and approval process. | Poverty | • Vending of junk food and the peddling of illegal drugs on or near school premises • Anti-social and violent behaviour is a social phenomenon, which has permeated all sectors of society, and the school is no exception. • Insufficient male role models in schools • Breakdown of families, migration and caregivers • Natural Disasters, impacting contact time, attendance etc.
+• Negative influences (anti-academic) from external such as the media | • Access to schools is sometimes impeded because of lack of an integrated National planning and approval process. |  |  | Poverty | • Vending of junk food and the peddling of illegal drugs on or near school premises • Anti-social and violent behaviour is a social phenomenon, which has permeated all sectors of society, and the school is no exception. • Insufficient male role models in schools • Breakdown of families, migration and caregivers • Natural Disasters, impacting contact time, attendance etc.
 
 43
 
@@ -1276,36 +1264,38 @@ Threats
 
 # SECTION 4 - Strategic Vision and Planning Framework for the Education Sector
 
-he  long-term  process  of  planning  for  the  Education  Sector  is  guided  by  a  Vision  that describes a future that is desirable for its stakeholders and that can be achieved through their own efforts within a realistic time frame.  The Sector Plan presents an overall Vision for the Sector, and reflects  the  contributions  of  the  stakeholders  represented  on  the  Education  Task  Force  and  at stakeholder consultations held during the Vision 2030 Jamaica planning process. T
+The  long-term  process  of  planning  for  the  Education  Sector  is  guided  by  a  Vision  that describes a future that is desirable for its stakeholders and that can be achieved through their own efforts within a realistic time frame.  The Sector Plan presents an overall Vision for the Sector, and reflects  the  contributions  of  the  stakeholders  represented  on  the  Education  Task  Force  and  at stakeholder consultations held during the Vision 2030 Jamaica planning process.
 
 ## Proposed Vision Statement for Education
 
 In  developing  the  sector  vision,  the  Education  Task  Force  of  the  NDP  was  guided  by  the  current imperative to create a  globally  competitive  high  quality  workforce  that  will  meet  the  needs  of  an increasingly  knowledge-based  economy  and  society.    To  this  end,  the  Vision  Statement  was developed was as follows:
 
-'Well - resourced, internationally recognized, values-based system that develops critical thinking, life-long learners who are productive and successful and can effectively contribute to an improved quality of life at the personal, national and global levels'
+“Well - resourced, internationally recognized, values-based system that develops critical thinking, life-long learners who are productive and successful and can effectively contribute to an improved quality of life at the personal, national and global levels”
 
-This vision is consistent with the national vision statement: 'Jamaica the place of choice, to raise families, live, work and do business' .  The goals and desired outcome are listed in the matrix below.
+This vision is consistent with the national vision statement: “Jamaica the place of choice, to raise families, live, work and do business”.  The goals and desired outcome are listed in the matrix below.
 
 ## Strategic approach
 
-The Education Task Force recognised that there was no simple solution to the problems attendant on our education system. Consequently, in the development of this sector plan, a comprehensive overview was taken of the system starting from the earliest interventions at the early childhood level to the final stages of our formal educational processes at the tertiary level.  It was recognised that development of the educational system had not been stagnant but that programmes such as the Education Transformation and the New Horizons programmes had been having positive, though incremental impact on our educational system.  The Sector Plan includes the strategies and actions that are currently being implemented under programmes such as these and introduces new strategies and actions under the broad umbrella of four goals and fifteen outcomes. These goals revolve around teaching and learning systems, the school environment in its broadest sense, the learners (taking cognizance of issues such as access and inclusiveness), and accountability and management of the school system.  The Plan also recognises the importance of ensuring that children are able to experience a stimulating and balanced environment that promotes age appropriate learning at the early childhood level. It acknowledges that failure to fully support the development of children at home, in institutions and in the community is likely to result in under achievement at higher levels of the educational system.  Early Childhood Development is therefore seen as a critical area for early attention under the Plan. The Goals and Outcomes under the plan are outlined in the matrix below.
+The Education Task Force recognised that there was no simple solution to the problems attendant on our education system. Consequently, in the development of this sector plan, a comprehensive overview was taken of the system starting from the earliest interventions at the early childhood level to the final stages of our formal educational processes at the tertiary level.  It was recognised that development of the educational system had not been stagnant but that programmes such as the Education Transformation and the New Horizons programmes had been having positive, though
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
+
+incremental impact on our educational system.  The Sector Plan includes the strategies and actions that are currently being implemented under programmes such as these and introduces new strategies and actions under the broad umbrella of four goals and fifteen outcomes. These goals revolve around teaching and learning systems, the school environment in its broadest sense, the learners (taking cognizance of issues such as access and inclusiveness), and accountability and management of the school system.  The Plan also recognises the importance of ensuring that children are able to experience a stimulating and balanced environment that promotes age appropriate learning at the early childhood level. It acknowledges that failure to fully support the development of children at home, in institutions and in the community is likely to result in under achievement at higher levels of the educational system.  Early Childhood Development is therefore seen as a critical area for early attention under the Plan. The Goals and Outcomes under the plan are outlined in the matrix below.
 
 ## Goals and Outcomes
 
 GOALS | OUTCOMES
 --- | ---
 1. Teaching and Learning Systems that are of International Standards | Quality educators are attracted and retained
-A standards based education system that is internationally recognized is instituted
-Readiness of Schools, Children and Communities for Early Childhood
-Each Primary School Graduate has achieved his/her fullest potential/talents and is fully prepared and ready to access Secondary Education
-Secondary school leavers attain standards necessary to access further education, training and/or decent work and be productive and successful Jamaicans
-Adequate and high quality tertiary education provided with emphasis on interface with work and school
+ | A standards based education system that is internationally recognized is instituted
+ | Readiness of Schools, Children and Communities for Early Childhood
+ | Each Primary School Graduate has achieved his/her fullest potential/talents and is fully prepared and ready to access Secondary Education
+ | Secondary school leavers attain standards necessary to access further education, training and/or decent work and be productive and successful Jamaicans
+ | Adequate and high quality tertiary education provided with emphasis on interface with work and school
 2 : World Class School Environment | All schools (public and private) meet international standards
-School environments are safe, alcohol and drug-free, and individuals there are disciplined abhor violence, demonstrate respect for others and uphold equal rights
+ | School environments are safe, alcohol and drug-free, and individuals there are disciplined abhor violence, demonstrate respect for others and uphold equal rights
 
 45
 
@@ -1313,28 +1303,26 @@ School environments are safe, alcohol and drug-free, and individuals there are d
 
 [[START OF PAGE 47]]
 
-Accountability Mechanisms are institutionalized at all levels of the education system
---- | ---
+ | Accountability Mechanisms are institutionalized at all levels of the education system
 3. Attainment of equal and inclusive access and retention to ensure completion of secondary education and continuation to the Tertiary level | Adequate number of school places are available to meet all needs and reflect emerging population trends
-Compulsory education is enforced at three levels (early childhood, primary and secondary)
+ | Compulsory education is enforced at three levels (early childhood, primary and secondary)
 4. Decentralised systems for quality leadership, management and resourcing | Networking, linkages, exchange, partnerships and interaction among stakeholders in education
-Sustained international partnerships for supporting decentralised systems
-An adequately managed and financed education system assured
+ | Sustained international partnerships for supporting decentralised systems
+ | An adequately managed and financed education system assured
 
 ## Sector Indicators and Targets
 
 The proposed indicators and targets for the Education Sector Plan over the period 2009 -2030 are presented in Table 13 below.
 
-Sector Indicators | Baseline | Targets | Comments
---- | --- | --- | --- | ---
-2007 or Most Current | 2012 | 2015 | 2030
-1. % of Grade 1 age cohort achieving mastery in Grade 1 readiness test | 48.40% | 55% | 60% | 90%
-2. GSAT Mean Score in Mathematics | 46% | 63% (L) | 70% | 85%
-3. GSAT Mean Score in | 48% | 60% (L) | 66% | 84%
-Language Arts 4. Primary School Completion rate (Graduates from last grade of primary schools /age cohort) | 99.40% | 100% | 100% | 100%
-% of illiterate population enrolled in an adult literacy programmes | 3% | - | - | -
-
-Table 13: Education Sector Plan - Proposed Indicators and Targets
+Table 13: Education Sector Plan – Proposed Indicators and Targets
+Sector Indicators | Baseline | Targets |  |  | Comments
+--- | --- | --- | --- | --- | ---
+ | 2007 or Most Current | 2012 | 2015 | 2030 |
+1. % of Grade 1 age cohort achieving mastery in Grade 1 readiness test | 48.40% | 55% | 60% | 90% |
+2. GSAT Mean Score in Mathematics | 46% | 63% (L) | 70% | 85% |
+3. GSAT Mean Score in Language Arts | 48% | 60% (L) | 66% | 84% |
+4. Primary School Completion rate (Graduates from last grade of primary schools /age cohort) | 99.40% | 100% | 100% | 100% |
+% of illiterate population enrolled in an adult literacy programmes | 3% | - | - | - |
 
 46
 
@@ -1358,15 +1346,17 @@ The Cabinet, as the principal body with responsibility for policy and the direct
 
 The Vision 2030 Jamaica-National Development Plan has three (3) components:
 
-- Integrated National Development Plan:
+1. Integrated National Development Plan:
 
-- The integrated National Development Plan presents the overall plan for Vision 2030 Jamaica,  integrating  all  31  sector  plans  into  a single comprehensive plan for long-term national  development.    The  integrated  National Development Plan presents the National Vision, the  four  National  Goals  and  fifteen  National Outcomes,  and  the  National  Strategies  required
+The integrated National Development Plan presents the overall plan for Vision 2030 Jamaica,  integrating  all  31  sector  plans  into  a single comprehensive plan for long-term national  development.    The  integrated  National Development Plan presents the National Vision, the  four  National  Goals  and  fifteen  National Outcomes,  and  the  National  Strategies  required to achieve the national goals and outcomes.
 
-to achieve the national goals and outcomes.
+2. Medium Term Socio-Economic Policy Framework (MTF):
 
-- Medium Term Socio-Economic Policy Framework (MTF): The Medium Term Socio-Economic Policy Framework  (MTF),  is  a  3-yearly  plan  which summarizes the national priorities and targets for the  country  and  identifies  the  key  actions  to achieve  those  targets  over  each  3-year  period from FY2009/2010 to FY2029/2030.
+The Medium Term Socio-Economic Policy Framework  (MTF),  is  a  3-yearly  plan  which summarizes the national priorities and targets for the  country  and  identifies  the  key  actions  to achieve  those  targets  over  each  3-year  period from FY2009/2010 to FY2029/2030.
 
-- Thirty-one (31) Sector Plans: At the sectoral level Vision 2030 Jamaica will be implemented  through  the  strategic  frameworks and action plans for each sector as contained in the respective sector plans.  Vision 2030 Jamaica includes  a  total  of  thirty-one  (31)  sector  plans covering the main economic, social, environmental  and  governance  sectors  relevant to national development.
+3. Thirty-one (31) Sector Plans:
+
+At the sectoral level Vision 2030 Jamaica will be implemented  through  the  strategic  frameworks and action plans for each sector as contained in the respective sector plans.  Vision 2030 Jamaica includes  a  total  of  thirty-one  (31)  sector  plans covering the main economic, social, environmental  and  governance  sectors  relevant to national development.
 
 47
 
@@ -1406,9 +1396,9 @@ The Action Plan contains the elements presented below.
 
 ### Goals, Outcomes, strategies and actions
 
-The goals, outcomes, strategies and actions in this Sector Plan - as outlined in the matrix overleafare  drawn  from  appropriate  best  practices  and  experiences  of  other  developed  and  developing countries  including  Australia,  New  Zealand,  Japan,  Cuba,  Malaysia,  Singapore,  Barbados,  the United  Kingdom  and  the  United  States  of  America.    They  are  therefore  designed  to  ensure  that education plays the critical step in enabling Jamaica to achieve developed country status by 2030. They  also  conform  to  the  ideals  expressed  by  The  Jamaica  Social  Policy  Evaluation  Programme ( JASPEV) (see Textbox below). .
+The goals, outcomes, strategies and actions in this Sector Plan – as outlined in the matrix overleaf–are  drawn  from  appropriate  best  practices  and  experiences  of  other  developed  and  developing countries  including  Australia,  New  Zealand,  Japan,  Cuba,  Malaysia,  Singapore,  Barbados,  the United  Kingdom  and  the  United  States  of  America.    They  are  therefore  designed  to  ensure  that education plays the critical step in enabling Jamaica to achieve developed country status by 2030. They  also  conform  to  the  ideals  expressed  by  The  Jamaica  Social  Policy  Evaluation  Programme (JASPEV) (see Textbox below). .
 
-The Jamaica Social Policy Evaluation Programme ( JASPEV) National Social Policy Goals for 2015 postulates that: 'education is required to go beyond equipping students with appropriate occupational and academic skills.' It should mould citizens who can play an active and constructive role in society and develop educable individuals who have the creative and analytical skills, the attitudes to learning, and the emotional intelligence, that equip them for on-the-job training and lifelong learning'. The Task Force on Educational Reform Report speaks to a 'system that will produce full literacy and numeracy, a globally competitive, quality workforce and a disciplined, culturally aware and ethical Jamaica citizenry.'
+The Jamaica Social Policy Evaluation Programme (JASPEV) National Social Policy Goals for 2015 postulates that: “education is required to go beyond equipping students with appropriate occupational and academic skills.” It should mould citizens who can play an active and constructive role in society and develop educable individuals who have the creative and analytical skills, the attitudes to learning, and the emotional intelligence, that equip them for on-the-job training and lifelong learning”. The Task Force on Educational Reform Report speaks to a “system that will produce full literacy and numeracy, a globally competitive, quality workforce and a disciplined, culturally aware and ethical Jamaica citizenry.”
 
 49
 
@@ -1429,7 +1419,7 @@ OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | REPONSIBILITY
 
 [[START OF PAGE 52]]
 
-1.1.3. Establish frameworks for improving the quality stock of teachers (this would include among other actions - raising the minimum qualification requirements of teachers; all teachers will have access to pre-service teacher education and continuing professional development activities that will provide such teachers with the knowledge and skills needed to teach to an increasingly diverse student population; all teachers will have continuing opportunities to acquire additional knowledge and skills and to use emerging new methods, forms of assessment, and technologies | 1.1.2.2. Institute a rigorous performance management system for teachers 1.1.3.1. Continue programs to ensure quality assurance mechanisms for all teacher education programs 1.1.3.2. Enforce mechanisms for all teachers to have professional training as well as an undergraduate degree in the area of specialization 1.1.3.3. Require that all new teachers undergo a two-year induction programme at the school which would be regularly assessed as part of quality assurance 1.1.3.4. Ensure an entitlement to high quality professional development 1.1.3.5. Operationalize the Teaching Council to continue the transformation process 1.1.3.6. Maintain a comprehensive registration and licensing scheme for all teachers 1.1.3.7. Create a national inspection agency, a national curriculum assessment agency and a national teaching council 1.1.3.8. Build a cadre of educational innovators | 2008 -2010 2008-2010 2008 -2016 2008 -2010 On-going 2008 -2010 2009-2011 2009-2012 On-going 2009-2012 2010-2011 | MOE MOE/JBTE MOE/JBTE MOE MOE/JTA MOE/ETT/JTC JTC MOE MOE and partners
+1.1.3. Establish frameworks for improving the quality stock of teachers (this would include among other actions - raising the minimum qualification requirements of teachers; all teachers will have access to pre-service teacher education and continuing professional development activities that will provide such teachers with the knowledge and skills needed to teach to an increasingly diverse student population; all teachers will have continuing opportunities to acquire additional knowledge and skills and to use emerging new methods, forms of assessment, and technologies | 1.1.2.2. Institute a rigorous performance management system for teachers 1.1.3.1. Continue programs to ensure quality assurance mechanisms for all teacher education programs 1.1.3.2. Enforce mechanisms for all teachers to have professional training as well as an undergraduate degree in the area of specialization 1.1.3.3. Require that all new teachers undergo a two-year induction programme at the school which would be regularly assessed as part of quality assurance 1.1.3.4. Ensure an entitlement to high quality professional development 1.1.3.5. Operationalize the Teaching Council to continue the transformation process 1.1.3.6. Maintain a comprehensive registration and licensing scheme for all teachers 1.1.3.7. Create a national inspection agency, a national curriculum assessment agency and a national teaching council 1.1.3.8. Build a cadre of educational innovators who work in a special forum to generate ideas and suggestions regarding teaching | 2008 -2010 2008-2010 2008 -2016 2008 -2010 On-going 2008 -2010 2009-2011 2009-2012 On-going 2009-2012 2010-2011 | MOE MOE/JBTE MOE/JBTE MOE MOE/JTA MOE/ETT/JTC JTC MOE MOE and partners
 --- | --- | --- | --- | ---
 1.2. A standards- based education system that is internationally recognized is | 1.2.1. Introduce a competency based approach to education at all levels based on international best | 1.2.1.1. Encourage Co- operative-learning 1.2.1.2. Determine standard competencies at | 2008-2012 2008-2013 | Tertiary Institutions/MOE MOE/ETT
 
@@ -1463,7 +1453,7 @@ OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 --- | --- | --- | --- | ---
 1.2.5 Career guidance integrated in all curricula at all levels | 1.2.5.1 Integrate Career education in all subjects at every educational level 1.2.5.2 Practice early career selection and regular modelling of careers | 2008-2012 2008-201 | MOE/ETT MOE/ETT
-1.3. Schools, Communities and Children are ready for Early Childhood Development Programmes | 1.3.1 Establish an environment for all children 0-8 yrs to access high quality and developmentally appropriate programs | 1.3.1.1. Create a safe learner centred and well maintained Early Childhood Centre 1.3.1.2. Develop programmes for inspection and certification of early children at the early childhood stage 1.3.1.3. Implement screening as early intervention for children (0- 8yrs) 1.3.1.4. Establish health and safety standards as well as improve child health care practices 1.3.1.5. Ensure that institutions meet the health and safety standards 1.3.1.6. Ensure each school at least one Level IV practitioner 1.3.1.7. Develop a public education and awareness | FY 2008-2012 FY 2008-2012 FY 2008-2012 FY 2008-2012 FY 2008-2012 FY 2008-2012 FY 2008-2012 | ECC/MOE
+1.3. Schools, Communities and Children are ready for Early Childhood Development Programmes | 1.3.1 Establish an environment for all children 0-8 yrs to access high quality and developmentally appropriate programs | 1.3.1.1. Create a safe learner centred and well maintained Early Childhood Centre 1.3.1.2. Develop programmes for inspection and certification of early children at the early childhood stage 1.3.1.3. Implement screening as early intervention for children (0- 8yrs) 1.3.1.4. Establish health and safety standards as well as improve child health care practices 1.3.1.5. Ensure that institutions meet the health and safety standards 1.3.1.6. Ensure each school at least one Level IV practitioner 1.3.1.7. Develop a public education and awareness strategy | FY 2008-2012 FY 2008-2012 FY 2008-2012 FY 2008-2012 FY 2008-2012 FY 2008-2012 FY 2008-2012 | ECC/MOE
 
 54
 
@@ -1485,7 +1475,7 @@ OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 --- | --- | --- | --- | ---
 1.3.3.5. Develop and implement Nutrition Support Strategy 1.3.3.6. Ensure effective curriculum delivery 1.3.3.7. Improve technical skills of early children practitioners 1.3.3.8. Develop a Human Resource strategy for the sector -train teachers for the sector | FY 2008-2012 FY 2008-2016 FY 2008-2013 FY 2008-2016
-1.3.4. Facilitate effective preventative health care | 1.3.4.1. Support the accreditation of Clinics and invest in Child -focused Clinics 1.3.4.2. Promote service delivery model and manpower strategy 1.3.4.3. Empowerment of parents to provide effective | FY 2008-2012 FY 2008-2012 FY 2008-2012 | ECC/MOE
+1.3.4. Facilitate effective preventative health care | 1.3.4.1. Support the accreditation of Clinics and invest in Child -focused Clinics 1.3.4.2. Promote service delivery model and manpower strategy 1.3.4.3. Empowerment of parents to provide effective child care practices | FY 2008-2012 FY 2008-2012 FY 2008-2012 | ECC/MOE
 1.3.5. Improve Governance, Management, Monitoring and Evaluation system | 1.3.5.1. Strengthen parish and community government systems for EC 1.3.5.2. Co-ordinate NGOs, Capacity building, systems established with support agencies | FY 2008-2012 FY 2008-2012 | ECC/MOE
 1.4. Each primary school graduate has achieved his/her fullest potential/talents and is fully prepared and ready to access Secondary Education | 1.4.1 Develop an integrated and comprehensive curriculum that fosters an enquiry-based approach to learning, cultivates the skills and attitudes of reflective learning and self- disciplined study, effectively addressing new and emerging issues at both local and global levels | 1.4.1.1 Encourage learning outcomes to include the skills necessary for problem solving, reflective learning and socially accepted behaviours | FY 2008/09 ongoing | MOE
 1.4.2 Institutionalize a system of support to provide services to | 1.4.2.1. Remunerate competent and experienced teachers to develop and | FY 2008/09 ongoing | MOE
@@ -1511,7 +1501,7 @@ students (public/private schools) towards addressing any deficiencies or challen
 
 OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 --- | --- | --- | --- | ---
-1.5.2. Create mechanisms that would enable the school system to integrate new and emerging technologies and ideas to improve the teaching and learning process. 1.5.3. Create opportunities and programmes to enable students to be responsible, caring and recognize the importance for contributing to the community, committing to service in the wider community in which they live. | 1.5.1.6. Continue the curriculization of the CSEC syllabus 1.5.2.1.Maintain ICT training and certification programme for the secondary school community (students, teachers/administrators) 1.5.2.2. Establish Monitoring and Evaluation and Quality Assurance measures (e.g. establish M&E services at each Regional Education Authority) 1.5.3.1. Institutionalize a structured Citizenship Education (Character Education/Values and Attitude Programme) within the curriculum for implementation in all secondary schools 1.5.3.2.Train and equip teachers with the necessary skill for implantation 1.5.3.3. Provide adequate instructional and resource manuals and materials to support this programme. 1.5.3.4. Institutionalize a | 2008-2012 2008 - ongoing 2008 - ongoing 2008-2012 2008-2012 2008-2012 | MOE Ministry of Education Ministry of Education ECC/MOE MOE/ECC ECC/MOE
+1.5.2. Create mechanisms that would enable the school system to integrate new and emerging technologies and ideas to improve the teaching and learning process. 1.5.3. Create opportunities and programmes to enable students to be responsible, caring and recognize the importance for contributing to the community, committing to service in the wider community in which they live. | 1.5.1.6. Continue the curriculization of the CSEC syllabus 1.5.2.1.Maintain ICT training and certification programme for the secondary school community (students, teachers/administrators) 1.5.2.2. Establish Monitoring and Evaluation and Quality Assurance measures (e.g. establish M&E services at each Regional Education Authority) 1.5.3.1. Institutionalize a structured Citizenship Education (Character Education/Values and Attitude Programme) within the curriculum for implementation in all secondary schools 1.5.3.2.Train and equip teachers with the necessary skill for implantation 1.5.3.3. Provide adequate instructional and resource manuals and materials to support this programme. 1.5.3.4. Institutionalize a Learning Mentorship programme | 2008-2012 2008 - ongoing 2008 - ongoing 2008-2012 2008-2012 2008-2012 2008-2012 | MOE Ministry of Education Ministry of Education ECC/MOE MOE/ECC ECC/MOE ECC/MOE
 1.6. Adequate and high quality tertiary education provided with emphasis on interface with work and school | 1.6.1. Develop a broad- based, relevant curricula capturing new and emerging trends that enable the student to access the labour market (national, regional, global) readily upon completion | 1.6.1.1. Establish, staff and fund Tertiary Education Commission (TEC) with mandate to include the collection/analysis of institutional research data 1.6.1.2. Integrate authentic (real world experience) into the curriculum 1.6.1.3. Introduce standards-based curriculum design for tertiary education | FY 2008/09 FY 2009/2012 FY 2008/09 | MOE MOE/Curriculum and Assessment Agency/JBTE TEC through Boards of Studies for areas of concentration
 
 58
@@ -1527,7 +1517,7 @@ OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 1.6.3. Open tertiary education system to the wider world (including use of non- traditional education products, Prior Learning Assessment) | 1.6.3.1. Develop education products to attract adult learners wishing to continue their education and professional development (JFLL) | FY 2009/10 ongoing | Tertiary Institutions, JFLL
 1.6.4. Create platforms to facilitate alternative methods of accessing tertiary education | 1.6.4.1. Strengthen institutional capacity (infrastructure, personnel) to offer blended and on-line courses 1.6.4.2. Create platforms to facilitate alternative methods for accessing tertiary education (technology) | FY 2009/10 ongoing 2010 onwards | MOE/ Teacher Training Institutions MOE, UCJ, tertiary institutions
 1.6.5. Increase the use of co-operative education | 1.6.5.1. Establish inter- institutional Working Group (tertiary institutions and business/ industry representation) to develop/ monitor/refine co-operative education in the curriculum as a means of producing graduates with employability skills and experience in their specialisations 1.6.5.2. Adopt co-operative education as component of 80% of tertiary programmes | FY 2008/10 ongoing 2008-2021 | Tertiary Institutions/TEC Tertiary Institutions/ TEC/UCJ
-1.6.6. Create mechanisms for provision of cost- sharing in higher education. , etc. | 1.6.6.1.Develop innovative programmes for expanding institutional financing to meet national development needs 1.6.6.2. Use private finance as a conduit for investment | FY 2008/10 ongoing 2010 ongoing | Tertiary Institutions/TEC/Minis tries/private sector
+1.6.6. Create mechanisms for provision of cost- sharing in higher education. , etc. | 1.6.6.1.Develop innovative programmes for expanding institutional financing to meet national development needs 1.6.6.2. Use private finance as a conduit for investment | FY 2008/10 ongoing 2010 ongoing | Tertiary Institutions/TEC/Ministries/private sector
 
 59
 
@@ -1640,7 +1630,7 @@ OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIME FRAME | RESPONSIBILITY
 --- | --- | --- | --- | ---
 #### GOAL 4: DECENTRALISED SYSTEMS FOR QUALITY LEADERSHIP, MANAGEMENT AND RESOURCING
-4.1. Networking, linkages, exchange, partnerships and interaction among stakeholders in Education | 4.1.1. Strengthen shared approach to the use of educational plant for other purposes (for example introducing a lifelong learning programme wherein members of the community will be permitted to use the schools computer labs for their enrichment.) | 4.1.1. Establish system of shared use and maintenance of School facilities with community | FY 2008/010 | MOE/Schools/Comm unity Organizations/ Service Clubs
+4.1. Networking, linkages, exchange, partnerships and interaction among stakeholders in Education | 4.1.1. Strengthen shared approach to the use of educational plant for other purposes (for example introducing a lifelong learning programme wherein members of the community will be permitted to use the schools computer labs for their enrichment.) | 4.1.1. Establish system of shared use and maintenance of School facilities with community | FY 2008/010 | MOE/Schools/Community Organizations/ Service Clubs
 4.1.2. Forge partnership with | 4.1.2.1. Develop policy and establish linkages | FY 2008/09 ongoing | MOE,MLSS
 
 65
@@ -1649,8 +1639,8 @@ OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIME FRAME | RESPONSIBILITY
 
 [[START OF PAGE 67]]
 
-STRATEGIES | SPECIFIC ACTIONS | TIME FRAME | RESPONSIBILITY
---- | --- | --- | ---
+OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIME FRAME | RESPONSIBILITY
+--- | --- | --- | --- | ---
 relevant Government entities and programmes (for example poverty programmes) to ensure that children in need will receive the nutrition, physical activity, experiences, and health care needed to arrive at school with healthy minds and bodies | with social support agencies to co-ordinate and deliver services (counselling, nutrition, behaviour management, parent education)
 4.1.3. Institutionalize a system of support to provide services to students (e.g. coordination and management of sports development, counselling, behaviour management and parenting education) of both public and private schools | 4.1.3.1. Develop policy for the establishment of National Sports Agency for the co-ordination of sports development in public and private educational institutions | FY 2009/10 ongoing | Tertiary Institutions, JFLL
 4.1.4. Forge new public-private sector partnerships and expand existing ones by providing incentives. (e.g. tax holidays, waivers, seed funding) for the Private Sector, Church and NGO's to create new school places of quality at all levels | 4.1.4.1. Partnership with other countries in providing training of educational professionals offer blended and on-line courses | FY 2009/10 ongoing | MOE/ Teacher Training Institutions
@@ -1676,8 +1666,8 @@ motivating parents and monitoring school attendance
 
 [[START OF PAGE 69]]
 
-STRATEGIES | SPECIFIC ACTIONS | TIME FRAME | RESPONSIBILITY
---- | --- | --- | ---
+OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIME FRAME | RESPONSIBILITY
+--- | --- | --- | --- | ---
 SWAP approach to Educational Sector Financing
 4.3.2. Build Capacity of School Management system to support effective and sustained school - based management, paying attention to International Standards Organisation (ISO) quality management system | 4.3.2.1. Systematic training in school management and (Total) ISO quality management provided for all managerial staff, - (effective school & teacher development models) 4.3.2.2. Staff Exchange programmes and Twinning programmes established with schools in the local, regional, international arena and best practices customised 4.3.2.3. Create REAs to bring the administration of education closer to schools and communities 4.3.2.4. Establish 3 new support agencies to drive the transformation process (JTC, CAA and the National Inspectorate) 4.3.2.5. Restructure and streamline the MOE to enable it to focus on policy and strategy | FY 2008/09 ongoing FY 2009-2010 On-going FY 2009-2010 On-going FY 2008-2010 On-going FY 2008-2010 On-going | MOE,MIND/ Teachers' Colleges/Training Institutions Industry/MOE/ Schools ETT/MOE ETT/MOE ETT/MOE
 4.3.3. Create mechanisms to ensure the efficient use of resources | 4 .3.3.1. Develop programme for school community for the sensitization and implementation of environmental and conservational practices | FY 2008-2010 On-going | MOE/Educational Institutions
@@ -1688,8 +1678,8 @@ SWAP approach to Educational Sector Financing
 
 [[START OF PAGE 70]]
 
-STRATEGIES | SPECIFIC ACTIONS | TIME FRAME | RESPONSIBILITY
---- | --- | --- | ---
+OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIME FRAME | RESPONSIBILITY
+--- | --- | --- | --- | ---
 4.3.3.2. Establish criteria for selection and training of members of school boards 4.3.3.3. Establish at the school level, broad based Committees to monitor the effective use of resources | FY 2008-2010 On-going FY 2008/09 | MOE/NCE MOE/Educational Institutions/REAs
 4.3.4. Introduce Results-Based Management System within education and build capacity for the collection and analysis of relevant data to support continuous improvement | 4.3.4.1. All personnel in institutions trained in Results-Based Management System 4.3.4.2. Training in Project Management and School Improvement Planning provided for all managerial staff 4.3.4.3. Modernize the institution supporting education in Jamaica (e.g JFLL) 4.3.4.4. Develop modern IT systems across the Ministry and REAs. 4.3.4.5. Support institutions and schools 4.3.4.6. Train principals to enable them to provide educational leadership and to manage new delegated responsibilities 4.3.4.6. Implement system of self- evaluation and school improvement planning in all schools | FY 2008-2010 On-going AY 2008/2012 FY 2008-2016 AY 2008-2012 FY 2008-2010 On-going FY 2008-2010 On-going FY 2008-2016 | MOE/ETT MOE/Educational Institutions/REAs ETT/MOE ETT/MOE ETT/MOE ETT/MOE ETT/MOE
 
@@ -1699,8 +1689,8 @@ STRATEGIES | SPECIFIC ACTIONS | TIME FRAME | RESPONSIBILITY
 
 [[START OF PAGE 71]]
 
-STRATEGIES | SPECIFIC ACTIONS | TIME FRAME | RESPONSIBILITY
---- | --- | --- | ---
+OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIME FRAME | RESPONSIBILITY
+--- | --- | --- | --- | ---
 4.3.4.7. Revise education regulations to reflect transformed education system Establish National EMIS | FY 2008-2010 On-going | ETT/MOE
 4.3.5. Establish financial planning mechanisms in all schools-Business Plan Approach | 4.3.5.1. Partnerships established with Industry for the exchange of best practices, mentoring of administration and furloughing of expertise | FY 2008/09 On-going | Industry/MOE/ Schools
 4.3.6. Encourage schools of international standard to recruit students from overseas to increase earnings | 4.3.6.1. Create flexibility in fee arrangements to allow schools to recruit international students and charge economic cost to them | FY 2010 onwards | MOE Cabinet Schools
@@ -1718,15 +1708,15 @@ STRATEGIES | SPECIFIC ACTIONS | TIME FRAME | RESPONSIBILITY
 
 A number of institutions and agencies, including the following, will be involved in the monitoring and evaluation framework for the National Development Plan and the Education Sector Plan:
 
-- Parliament : The Vision 2030 Jamaica Annual Progress Report, will be presented to the Parliament for deliberations and discussion.
+1. Parliament: The Vision 2030 Jamaica Annual Progress Report, will be presented to the Parliament for deliberations and discussion.
 
-- The Economic Development Committee (EDC) is  a  committee of Cabinet chaired by the Prime  Minister.  The  EDC  will  review  progress  and  emerging  policy  implications  on  the implementation of Vision 2030 Jamaica and the relevant sector plans.
+2. The Economic Development Committee (EDC) is a committee of Cabinet chaired by the Prime Minister. The EDC will review progress and emerging policy implications on the implementation of Vision 2030 Jamaica and the relevant sector plans.
 
-- The Vision 2030 Jamaica Technical Monitoring Committee (TMC) , or Steering Committee, is to be chaired by the Office of the Prime Minister and will provide oversight for the technical coordination and monitoring of the Plan and reporting on the progress of implementation.
+3. The Vision 2030 Jamaica Technical Monitoring Committee (TMC), or Steering Committee, is to be chaired by the Office of the Prime Minister and will provide oversight for the technical coordination and monitoring of the Plan and reporting on the progress of implementation.
 
-- The Vision 2030 Jamaica Technical Secretariat to be institutionalized within the PIOJ will play a leading role in coordinating implementation, analyzing social and economic data and information, consolidating sectoral information into comprehensive reports on Vision 2030 Jamaica's achievements and results, maintaining liaisons with sectoral focal points in MDAs, and supporting the establishment and operation of Thematic Working Groups.
+4. The Vision 2030 Jamaica Technical Secretariat to be institutionalized within the PIOJ will play a leading role in coordinating implementation, analyzing social and economic data and information, consolidating sectoral information into comprehensive reports on Vision 2030 Jamaica's achievements and results, maintaining liaisons with sectoral focal points in MDAs, and supporting the establishment and operation of Thematic Working Groups.
 
-- Ministries, Departments and Agencies (MDAs) represent very important bodies within the implementation, monitoring and evaluation system. They are the Sectoral Focal Points that will provide data/information on a timely basis on the selected sector indicators and action plans, and be responsible for the timely preparation of sector reports that will feed into the Vision 2030 Jamaica Annual Progress Report. For the Education Sector Plan, the main
+5. Ministries, Departments and Agencies (MDAs) represent very important bodies within the implementation, monitoring and evaluation system. They are the Sectoral Focal Points that will provide data/information on a timely basis on the selected sector indicators and action plans, and be responsible for the timely preparation of sector reports that will feed into the Vision 2030 Jamaica Annual Progress Report. For the Education Sector Plan, the main
 
 71
 
@@ -1736,7 +1726,7 @@ A number of institutions and agencies, including the following, will be involved
 
 MDAs comprising the relevant Sectoral Focal Point will include the Ministry of Education, the University Council of Jamaica, the various boards of tertiary institutions including universities and colleges and various examination and accreditation bodies.
 
-- Thematic Working Groups  (TWGs) are consultative bodies aimed at providing multistakeholder participation in improving the coordination, planning, implementation and monitoring of programmes and projects relevant to the NDP and sector plans, including the Education Sector Plan. TWGs will be chaired by Permanent Secretaries or senior Government officials and shall comprise technical representatives of MDAs, National Focal Points, the private sector, Civil Society Organizations and International Development Partners.  TWGs will meet a minimum of twice annually.
+6. Thematic Working Groups (TWGs) are consultative bodies aimed at providing multi-stakeholder participation in improving the coordination, planning, implementation and monitoring of programmes and projects relevant to the NDP and sector plans, including the Education Sector Plan. TWGs will be chaired by Permanent Secretaries or senior Government officials and shall comprise technical representatives of MDAs, National Focal Points, the private sector, Civil Society Organizations and International Development Partners. TWGs will meet a minimum of twice annually.
 
 ## Indicator Framework and Data Sources
 
@@ -1772,21 +1762,23 @@ The timely preparation and submission of progress reports and other monitoring a
 
 The main reports/outputs of the performance monitoring system are listed below.
 
-- The Vision 2030 Jamaica Annual Progress Report will be the main output of the performance monitoring and evaluation system.
+1. The Vision 2030 Jamaica Annual Progress Report will be the main output of the performance monitoring and evaluation system.
 
-- The annual sectoral reports compiled by the Sectoral Focal Points for submission to the Vision 2030 Jamaica Technical Monitoring Committee. These will be integrated into the Annual Progress Report.
+2. The annual sectoral reports compiled by the Sectoral Focal Points for submission to the Vision 2030 Jamaica Technical Monitoring Committee. These will be integrated into the Annual Progress Report.
 
-- Other products of the performance monitoring system include issues/sector briefs and research reports.
+3. Other products of the performance monitoring system include issues/sector briefs and research reports.
 
 ## Capacity Development
 
-There is recognition that building and strengthening technical and institutional capacity for the effective implementation, monitoring and evaluation of the NDP and the Education Sector Plan is critical for success. This calls for substantial resources, partnership and long-term commitment to training MDA staff. Training needs will have to be identified at all levels of the system; a reorientation of work processes, instruments, procedures and systems development will have to be undertaken; and staffing and institutional arrangements will need to be put in place. Partnership with the Management Institute for National Development (MIND) and other institutions will also be required to provide training in critical areas such as results-based project management and analysis, monitoring and evaluation, and data management to public sector staff and others.
+There is recognition that building and strengthening technical and institutional capacity for the effective implementation, monitoring and evaluation of the NDP and the Education Sector Plan is critical for success. This calls for substantial resources, partnership and long-term commitment to training MDA staff. Training needs will have to be identified at all levels of the system; a reorientation of work processes, instruments, procedures and systems development will have to be undertaken; and staffing and institutional arrangements will need to be put in place. Partnership with
 
 73
 
 [[END OF PAGE 74]]
 
 [[START OF PAGE 75]]
+
+the Management Institute for National Development (MIND) and other institutions will also be required to provide training in critical areas such as results-based project management and analysis, monitoring and evaluation, and data management to public sector staff and others.
 
 74
 
@@ -1870,6 +1862,39 @@ VTDI | Vocational Training Development Institute
 # APPENDIX 1
 ## Members of Education Task Force
 
+Dr. Rae Davis (Chair)
+Mr. Frank Weeple (Transformation Team)
+Ms Elaine Brouers (National Parent Teacher Association)
+Ms Dawnett Turner (Transformation Team)
+Dr. Jean Beaumont (Ministry of Education and Youth)
+Ms Barbara Allen (Ministry of Education and Youth)
+Mr. Michael Brown (Jessie Ripoll)
+Mr. Burchell Duhaney (Edna Manley School for the Performing Arts)
+Mrs Carol Wilson (Ardenne Prep and Extension High)
+Dr. Nancy George (University Of Technology)
+Mr. Ray Howell (Edith Dalton James High)
+Mr. Jasper Lawrence (Ministry of Education and Youth)
+Mr. Linton Smith (Profitable Corporate Solutions)
+Mr. Patrick Smith (Jamaica Teachers Association)
+Dr. Ralph Thompson (CD Alexander)
+Dr. Teran Milford (Northern Caribbean University)
+Ms Suzanne Williams (Liberty Academy at Priory)
+Mr. Noel Stennett (Council of Community Colleges of Jamaica)
+Professor Stafford Griffith (Institute of Education, University of the West Indies)
+Dr. Maureen Samms-Vaughn (Early Childhood Commission)
+Dr. Hyacinth Evans (UWI)
+Dr. Gordon Cowan (Knox Community College)
+Mr. Paolo Fontani (UNESCO)
+Ms Ushio Muira (UNESCO)
+Mrs Irene Walter (NCB Foundation)
+Ms Ruth Morris (National Council on Education)
+Mr. Robert Kerr (National Youth Service)
+Mr. Charles Clayton (PIOJ)
+Ms. Marsha Woolcock (PIOJ)
+Ms. Grace Munroe (PIOJ)
+Mr. Steven Kerr (PIOJ)
+Ms. Natalie Leiba (PIOJ/UWI)
+
 77
 
 [[END OF PAGE 78]]
@@ -1946,6 +1971,8 @@ The CETT has brought notable improvements in reading in the Caribbean countries 
 
 [[START OF PAGE 82]]
 
+# APPENDIX 4
+
 ## ICT Policy Positions
 
 - Equity of access is an overriding consideration. The Ministry of Education will therefore work collaboratively with educational institutions to make available facilities, equipment and personnel to permit access to ITC for all students.
@@ -1990,8 +2017,6 @@ The CETT has brought notable improvements in reading in the Caribbean countries 
 
 - advising on the appropriateness of hardware;
 
-# APPENDIX 4
-
 81
 
 [[END OF PAGE 82]]
@@ -2020,21 +2045,21 @@ The Ministry of Education also will work with the Ministries of Finance & the Pu
 
 - Financing of ICT within the education sector will remain as a partnership exercise. The partners will include:
 
-- xrhombus The Government of Jamaica through the Ministry of Education and its agencies
+- The Government of Jamaica through the Ministry of Education and its agencies
 
-- xrhombus Public Corporations and Statutory Bodies
+- Public Corporations and Statutory Bodies
 
-- xrhombus Private Enterprise
+- Private Enterprise
 
-- xrhombus Local and International Foundations
+- Local and International Foundations
 
-- xrhombus Bilateral and Multilateral Organisations
+- Bilateral and Multilateral Organisations
 
-- xrhombus Community Organisations
+- Community Organisations
 
-- xrhombus The educational institutions through income-generating activities
+- The educational institutions through income-generating activities
 
-- xrhombus Parents through the cost-sharing mechanisms in secondary and tertiary institutions
+- Parents through the cost-sharing mechanisms in secondary and tertiary institutions
 
 - All policies and provisions in respect of copyright, professional conduct, confidentiality, rights and responsibilities of lecturers, teachers, instructors, trainees and students will apply to the conduct of ICT programmes.
 
@@ -2052,9 +2077,9 @@ Ministry of Education. Jamaica Education Statistics , 2005/06 - 2007/08
 
 Planning Institute of Jamaica/Statistical Institute of Jamaica. Jamaica Survey of Living Conditions, 2005, 2007
 
-Planning Institute of Jamaica. Economic and Social Survey Jamaica, 2003 - 2008
+Planning Institute of Jamaica. Economic and Social Survey Jamaica, 2003 – 2008
 
-UNESCO Institute for Statistics
+UNESCO – Institute for Statistics
 
 World Economic Forum. Global Competitiveness Report and Index, 2006
 
