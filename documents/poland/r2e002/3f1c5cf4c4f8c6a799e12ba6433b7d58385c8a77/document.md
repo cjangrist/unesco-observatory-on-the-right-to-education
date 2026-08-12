@@ -12,7 +12,7 @@ z dnia 14 grudnia 2016 r.
 
 ## Prawo oświatowe
 
-Oświata w Rzeczypospolitej Polskiej stanowi wspólne dobro całego społeczeństwa;  kieruje  się  zasadami  zawartymi  w Konstytucji  Rzeczypospolitej Polskiej, a także wskazaniami zawartymi w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym  Pakcie  Praw  Obywatelskich  i Politycznych  oraz  Konwencji o Prawach  Dziecka.  Nauczanie  i wychowanie  -  respektując  chrześcijański  system wartości -za podstawę przyjmuje uniwersalne zasady etyki. Kształcenie i wychowanie  służy  rozwijaniu  u młodzieży  poczucia  odpowiedzialności,  miłości Ojczyzny oraz poszanowania dla polskiego dziedzictwa kulturowego, przy jednoczesnym otwarciu się na wartości kultur Europy i świata. Szkoła winna zapewnić każdemu  uczniowi  warunki  niezbędne  do  jego rozwoju,  przygotować  go  do wypełniania obowiązków rodzinnych i obywatelskich w oparciu o zasady solidarności, demokracji, tolerancji, sprawiedliwości i wolności.
+Oświata w Rzeczypospolitej Polskiej stanowi wspólne dobro całego społeczeństwa; kieruje się zasadami zawartymi w Konstytucji Rzeczypospolitej Polskiej, a także wskazaniami zawartymi w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich i Politycznych oraz Konwencji o Prawach Dziecka. Nauczanie i wychowanie – respektując chrześcijański system wartości – za podstawę przyjmuje uniwersalne zasady etyki. Kształcenie i wychowanie służy rozwijaniu u młodzieży poczucia odpowiedzialności, miłości Ojczyzny oraz poszanowania dla polskiego dziedzictwa kulturowego, przy jednoczesnym otwarciu się na wartości kultur Europy i świata. Szkoła winna zapewnić każdemu uczniowi warunki niezbędne do jego rozwoju, przygotować go do wypełniania obowiązków rodzinnych i obywatelskich w oparciu o zasady solidarności, demokracji, tolerancji, sprawiedliwości i wolności.
 
 ### Rozdział 1
 
@@ -21,13 +21,13 @@ Oświata w Rzeczypospolitej Polskiej stanowi wspólne dobro całego społeczeńs
 ##### Art. 1.
 System oświaty zapewnia w szczególności:
 
-- realizację prawa każdego obywatela Rzeczypospolitej Polskiej do kształcenia się oraz prawa dzieci i młodzieży do wychowania i opieki, odpowiednich do wieku i osiągniętego rozwoju;
+1) realizację prawa każdego obywatela Rzeczypospolitej Polskiej do kształcenia się oraz prawa dzieci i młodzieży do wychowania i opieki, odpowiednich do wieku i osiągniętego rozwoju;
 
-- wspomaganie przez szkołę wychowawczej roli rodziny;
+2) wspomaganie przez szkołę wychowawczej roli rodziny;
 
-- wychowanie rozumiane jako wspieranie dziecka w rozwoju ku pełnej dojrzałości w sferze fizycznej, emocjonalnej, intelektualnej, duchowej i społecznej, wzmacniane  i uzupełniane  przez  działania  z zakresu  profilaktyki  problemów dzieci i młodzieży;
+3) wychowanie rozumiane jako wspieranie dziecka w rozwoju ku pełnej dojrzałości w sferze fizycznej, emocjonalnej, intelektualnej, duchowej i społecznej, wzmacniane i uzupełniane przez działania z zakresu profilaktyki problemów dzieci i młodzieży;
 
-- możliwość zakładania i prowadzenia szkół i placówek przez różne podmioty;
+4) możliwość zakładania i prowadzenia szkół i placówek przez różne podmioty;
 
 Opracowano na podstawie: t.j. Dz.  U.  z  2019  r. poz.  1148,  1078, 1287, 1680, 1681, 1818, 2197, 2248.
 
@@ -41,31 +41,31 @@ Opracowano na podstawie: t.j. Dz.  U.  z  2019  r. poz.  1148,  1078, 1287, 1680
 
 s. 2/216
 
-- dostosowanie treści, metod i organizacji nauczania do możliwości psychofizycznych uczniów, a także możliwość korzystania z pomocy psychologiczno-pedagogicznej i specjalnych form pracy dydaktycznej;
+5) dostosowanie treści, metod i organizacji nauczania do możliwości psychofizycznych uczniów, a także możliwość korzystania z pomocy psychologiczno-pedagogicznej i specjalnych form pracy dydaktycznej;
 
-- możliwość pobierania nauki we wszystkich typach szkół przez dzieci i młodzież niepełnosprawną,  niedostosowaną  społecznie  i zagrożoną  niedostosowaniem społecznym, zgodnie z indywidualnymi potrzebami rozwojowymi i edukacyjnymi oraz predyspozycjami;
+6) możliwość pobierania nauki we wszystkich typach szkół przez dzieci i młodzież niepełnosprawną, niedostosowaną społecznie i zagrożoną niedostosowaniem społecznym, zgodnie z indywidualnymi potrzebami rozwojowymi i edukacyjnymi oraz predyspozycjami;
 
-- opiekę  nad  uczniami  niepełnosprawnymi  przez  umożliwianie  realizowania zindywidualizowanego procesu kształcenia, form i programów nauczania oraz zajęć rewalidacyjnych;
+7) opiekę nad uczniami niepełnosprawnymi przez umożliwianie realizowania zindywidualizowanego procesu kształcenia, form i programów nauczania oraz zajęć rewalidacyjnych;
 
-- opiekę nad uczniami szczególnie uzdolnionymi poprzez umożliwianie realizowania  indywidualnych  programów  nauczania  oraz  ukończenia  szkoły każdego typu w skróconym czasie;
+8) opiekę nad uczniami szczególnie uzdolnionymi poprzez umożliwianie realizowania indywidualnych programów nauczania oraz ukończenia szkoły każdego typu w skróconym czasie;
 
-- upowszechnianie  dostępu  do  szkół,  których  ukończenie  umożliwia  dalsze kształcenie w szkołach wyższych;
+9) upowszechnianie dostępu do szkół, których ukończenie umożliwia dalsze kształcenie w szkołach wyższych;
 
-- możliwość uzupełniania przez osoby dorosłe wykształcenia ogólnego, zdobywania lub zmiany kwalifikacji zawodowych i specjalistycznych;
+10) możliwość uzupełniania przez osoby dorosłe wykształcenia ogólnego, zdobywania lub zmiany kwalifikacji zawodowych i specjalistycznych;
 
-- zmniejszanie  różnic  w warunkach  kształcenia,  wychowania  i opieki  między poszczególnymi regionami kraju, a zwłaszcza ośrodkami wielkomiejskimi i wiejskimi;
+11) zmniejszanie różnic w warunkach kształcenia, wychowania i opieki między poszczególnymi regionami kraju, a zwłaszcza ośrodkami wielkomiejskimi i wiejskimi;
 
-- kształtowanie  u uczniów  postaw  prospołecznych,  w tym  poprzez  możliwość udziału w działaniach z zakresu wolontariatu, sprzyjających aktywnemu uczestnictwu uczniów w życiu społecznym;
+12) kształtowanie u uczniów postaw prospołecznych, w tym poprzez możliwość udziału w działaniach z zakresu wolontariatu, sprzyjających aktywnemu uczestnictwu uczniów w życiu społecznym;
 
-- upowszechnianie wśród dzieci i młodzieży wiedzy i umiejętności niezbędnych do aktywnego uczestnictwa w kulturze i sztuce narodowej i światowej;
+13) upowszechnianie wśród dzieci i młodzieży wiedzy i umiejętności niezbędnych do aktywnego uczestnictwa w kulturze i sztuce narodowej i światowej;
 
-- utrzymywanie  bezpiecznych  i higienicznych  warunków  nauki,  wychowania i opieki w szkołach i placówkach;
+14) utrzymywanie bezpiecznych i higienicznych warunków nauki, wychowania i opieki w szkołach i placówkach;
 
-- upowszechnianie wśród dzieci i młodzieży wiedzy o zasadach zrównoważonego rozwoju  oraz  kształtowanie  postaw  sprzyjających  jego  wdrażaniu  w skali lokalnej, krajowej i globalnej;
+15) upowszechnianie wśród dzieci i młodzieży wiedzy o zasadach zrównoważonego rozwoju oraz kształtowanie postaw sprzyjających jego wdrażaniu w skali lokalnej, krajowej i globalnej;
 
-- 15a) upowszechnianie  wśród  dzieci  i młodzieży  wiedzy  o zasadach  racjonalnego odżywiania oraz przeciwdziałaniu marnowaniu żywności;
+15a) upowszechnianie wśród dzieci i młodzieży wiedzy o zasadach racjonalnego odżywiania oraz przeciwdziałaniu marnowaniu żywności;
 
-- opiekę uczniom pozostającym w trudnej sytuacji materialnej i życiowej;
+16) opiekę uczniom pozostającym w trudnej sytuacji materialnej i życiowej;
 
 02.12.2019
 
@@ -77,28 +77,28 @@ s. 2/216
 
 s. 3/216
 
-- dostosowywanie kierunków i treści kształcenia do wymogów rynku pracy;
+17) dostosowywanie kierunków i treści kształcenia do wymogów rynku pracy;
 
-- kształtowanie u uczniów postaw przedsiębiorczości i kreatywności sprzyjających aktywnemu uczestnictwu w życiu gospodarczym, w tym poprzez stosowanie  w procesie  kształcenia  innowacyjnych  rozwiązań  programowych, organizacyjnych lub metodycznych;
+18) kształtowanie u uczniów postaw przedsiębiorczości i kreatywności sprzyjających aktywnemu uczestnictwu w życiu gospodarczym, w tym poprzez stosowanie w procesie kształcenia innowacyjnych rozwiązań programowych, organizacyjnych lub metodycznych;
 
-- przygotowywanie uczniów do wyboru zawodu i kierunku kształcenia;
+19) przygotowywanie uczniów do wyboru zawodu i kierunku kształcenia;
 
-- warunki  do  rozwoju  zainteresowań  i uzdolnień  uczniów  przez  organizowanie zajęć pozalekcyjnych i pozaszkolnych oraz kształtowanie aktywności społecznej i umiejętności spędzania czasu wolnego;
+20) warunki do rozwoju zainteresowań i uzdolnień uczniów przez organizowanie zajęć pozalekcyjnych i pozaszkolnych oraz kształtowanie aktywności społecznej i umiejętności spędzania czasu wolnego;
 
-- upowszechnianie  wśród  dzieci  i młodzieży  wiedzy  o bezpieczeństwie  oraz kształtowanie właściwych postaw wobec zagrożeń, w tym związanych z korzystaniem z technologii informacyjno-komunikacyjnych, i sytuacji nadzwyczajnych;
+21) upowszechnianie wśród dzieci i młodzieży wiedzy o bezpieczeństwie oraz kształtowanie właściwych postaw wobec zagrożeń, w tym związanych z korzystaniem z technologii informacyjno-komunikacyjnych, i sytuacji nadzwyczajnych;
 
-- kształtowanie u uczniów umiejętności sprawnego posługiwania się technologiami informacyjno-komunikacyjnymi;
+22) kształtowanie u uczniów umiejętności sprawnego posługiwania się technologiami informacyjno-komunikacyjnymi;
 
-- wspomaganie  nauczania  języka  polskiego  i w języku  polskim  wśród  Polonii i Polaków zamieszkałych za granicą oraz dzieci pracowników migrujących.
+23) wspomaganie nauczania języka polskiego i w języku polskim wśród Polonii i Polaków zamieszkałych za granicą oraz dzieci pracowników migrujących.
 
 ##### Art. 2.
 System oświaty obejmuje:
 
-- przedszkola,  w tym:  specjalne,  integracyjne,  z oddziałami  specjalnymi  lub integracyjnymi, a także inne formy wychowania przedszkolnego;
+1) przedszkola, w tym: specjalne, integracyjne, z oddziałami specjalnymi lub integracyjnymi, a także inne formy wychowania przedszkolnego;
 
-- szkoły:
+2) szkoły:
 
-- podstawowe, w tym: specjalne, integracyjne, z oddziałami przedszkolnymi, integracyjnymi, specjalnymi, przysposabiającymi do pracy, dwujęzycznymi, sportowymi i mistrzostwa sportowego, sportowe i mistrzostwa sportowego,
+a) podstawowe, w tym: specjalne, integracyjne, z oddziałami przedszkolnymi, integracyjnymi, specjalnymi, przysposabiającymi do pracy, dwujęzycznymi, sportowymi i mistrzostwa sportowego, sportowe i mistrzostwa sportowego,
 
 [b) ponadpodstawowe, w tym: specjalne, integracyjne, dwujęzyczne, z oddziałami integracyjnymi, specjalnymi, dwujęzycznymi, sportowymi i mistrzostwa  sportowego,  sportowe,  mistrzostwa  sportowego,  rolnicze, leśne, morskie, żeglugi śródlądowej oraz rybołówstwa,]
 
@@ -116,29 +116,29 @@ Nowe brzmienie lit.  b  w  pkt  2  w art.  2  wejdzie  w życie z dn. 1.01.2020 
 
 s. 4/216
 
-sportowe,  mistrzostwa  sportowego,  rolnicze,  leśne,  morskie,  żeglugi śródlądowej oraz rybołówstwa,>
+sportowe, mistrzostwa sportowego, rolnicze, leśne, morskie, żeglugi śródlądowej oraz rybołówstwa,>
 
-- artystyczne;
+c) artystyczne;
 
-- placówki  oświatowo-wychowawcze,  w tym  szkolne  schroniska  młodzieżowe, umożliwiające rozwijanie zainteresowań i uzdolnień oraz korzystanie z różnych form wypoczynku i organizacji czasu wolnego;
+3) placówki oświatowo-wychowawcze, w tym szkolne schroniska młodzieżowe, umożliwiające rozwijanie zainteresowań i uzdolnień oraz korzystanie z różnych form wypoczynku i organizacji czasu wolnego;
 
-[4) placówki  kształcenia  ustawicznego,  placówki  kształcenia  praktycznego  oraz ośrodki  dokształcania  i doskonalenia  zawodowego,  umożliwiające  uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych;]
+[4) placówki kształcenia ustawicznego, placówki kształcenia praktycznego oraz ośrodki dokształcania i doskonalenia zawodowego, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych;]
 
-<4)  placówki  kształcenia  ustawicznego  oraz  centra  kształcenia  zawodowego, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych;>
+<4) placówki kształcenia ustawicznego oraz centra kształcenia zawodowego, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych;>
 
-- placówki artystyczne -ogniska artystyczne umożliwiające rozwijanie zainteresowań i uzdolnień artystycznych;
+5) placówki artystyczne – ogniska artystyczne umożliwiające rozwijanie zainteresowań i uzdolnień artystycznych;
 
-- poradnie psychologiczno-pedagogiczne, w tym poradnie specjalistyczne udzielające dzieciom, młodzieży, rodzicom i nauczycielom pomocy psychologiczno-pedagogicznej,  a także  pomocy  uczniom  w wyborze  kierunku kształcenia i zawodu;
+6) poradnie psychologiczno-pedagogiczne, w tym poradnie specjalistyczne udzielające dzieciom, młodzieży, rodzicom i nauczycielom pomocy psychologiczno-pedagogicznej, a także pomocy uczniom w wyborze kierunku kształcenia i zawodu;
 
-- młodzieżowe ośrodki wychowawcze, młodzieżowe ośrodki socjoterapii, specjalne ośrodki szkolno-wychowawcze oraz specjalne ośrodki wychowawcze dla dzieci i młodzieży wymagających stosowania specjalnej organizacji nauki, metod pracy i wychowania, a także ośrodki rewalidacyjno-wychowawcze umożliwiające dzieciom i młodzieży, o których mowa w art. 36 ust. 17, a także dzieciom  i młodzieży  z niepełnosprawnościami  sprzężonymi,  z których  jedną z niepełnosprawności jest niepełnosprawność intelektualna, realizację odpowiednio obowiązku, o którym mowa w art. 31 ust. 4, obowiązku szkolnego i obowiązku nauki;
+7) młodzieżowe ośrodki wychowawcze, młodzieżowe ośrodki socjoterapii, specjalne ośrodki szkolno-wychowawcze oraz specjalne ośrodki wychowawcze dla dzieci i młodzieży wymagających stosowania specjalnej organizacji nauki, metod pracy i wychowania, a także ośrodki rewalidacyjno-wychowawcze umożliwiające dzieciom i młodzieży, o których mowa w art. 36 ust. 17, a także dzieciom i młodzieży z niepełnosprawnościami sprzężonymi, z których jedną z niepełnosprawności jest niepełnosprawność intelektualna, realizację odpowiednio obowiązku, o którym mowa w art. 31 ust. 4, obowiązku szkolnego i obowiązku nauki;
 
-- placówki  zapewniające  opiekę  i wychowanie  uczniom  w okresie  pobierania nauki poza miejscem stałego zamieszkania;
+8) placówki zapewniające opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania;
 
-- placówki doskonalenia nauczycieli;
+9) placówki doskonalenia nauczycieli;
 
-- biblioteki pedagogiczne;
+10) biblioteki pedagogiczne;
 
-- kolegia pracowników służb społecznych.
+11) kolegia pracowników służb społecznych.
 
 02.12.2019
 
@@ -164,13 +164,13 @@ s. 5/216
 ##### Art. 4.
 Ilekroć w dalszych przepisach jest mowa bez bliższego określenia o:
 
-- szkole - należy przez to rozumieć także przedszkole;
+1) szkole – należy przez to rozumieć także przedszkole;
 
-- szkole specjalnej lub oddziale specjalnym -należy przez to rozumieć odpowiednio:
+2) szkole specjalnej lub oddziale specjalnym – należy przez to rozumieć odpowiednio:
 
-- szkołę  lub  oddział  dla  uczniów  posiadających  orzeczenie  o potrzebie kształcenia specjalnego, zorganizowane zgodnie z przepisami wydanymi na podstawie art. 127 ust. 19 pkt 2,
+a) szkołę lub oddział dla uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego, zorganizowane zgodnie z przepisami wydanymi na podstawie art. 127 ust. 19 pkt 2,
 
-- szkołę  lub  oddział  zorganizowane  w podmiocie  leczniczym,  o którym mowa  w przepisach  o działalności  leczniczej,  oraz  w jednostce  pomocy społecznej,  w celu  kształcenia  dzieci  i młodzieży  przebywających  w tym podmiocie  lub  jednostce,  w których  stosuje  się  odpowiednią  organizację kształcenia oraz specjalne działania opiekuńczo-wychowawcze,
+b) szkołę lub oddział zorganizowane w podmiocie leczniczym, o którym mowa w przepisach o działalności leczniczej, oraz w jednostce pomocy społecznej, w celu kształcenia dzieci i młodzieży przebywających w tym podmiocie lub jednostce, w których stosuje się odpowiednią organizację kształcenia oraz specjalne działania opiekuńczo-wychowawcze,
 
 02.12.2019
 
@@ -184,21 +184,21 @@ s. 6/216
 
 zorganizowane zgodnie z przepisami wydanymi na podstawie art. 128 ust. 3;
 
-- oddziale integracyjnym - należy przez to rozumieć oddział szkolny, w którym uczniowie posiadający orzeczenie o potrzebie kształcenia specjalnego uczą się i wychowują razem z pozostałymi uczniami, zorganizowany zgodnie z przepisami wydanymi na podstawie art. 127 ust. 19 pkt 2;
+3) oddziale integracyjnym – należy przez to rozumieć oddział szkolny, w którym uczniowie posiadający orzeczenie o potrzebie kształcenia specjalnego uczą się i wychowują razem z pozostałymi uczniami, zorganizowany zgodnie z przepisami wydanymi na podstawie art. 127 ust. 19 pkt 2;
 
-- oddziale dwujęzycznym - należy przez to rozumieć oddział szkolny, w którym nauczanie jest prowadzone w dwóch językach: polskim oraz obcym nowożytnym  będącym  drugim  językiem  nauczania,  przy  czym  prowadzone w dwóch językach są co najmniej dwa zajęcia edukacyjne, z wyjątkiem zajęć obejmujących  język  polski,  część  historii  dotyczącą  historii  Polski  i część geografii dotyczącą geografii Polski, w tym co najmniej jedne zajęcia edukacyjne wybrane spośród zajęć obejmujących: biologię, chemię, fizykę, część geografii odnoszącą  się  do  geografii  ogólnej,  część  historii  odnoszącą  się  do  historii powszechnej lub matematykę;
+4) oddziale dwujęzycznym – należy przez to rozumieć oddział szkolny, w którym nauczanie jest prowadzone w dwóch językach: polskim oraz obcym nowożytnym będącym drugim językiem nauczania, przy czym prowadzone w dwóch językach są co najmniej dwa zajęcia edukacyjne, z wyjątkiem zajęć obejmujących język polski, część historii dotyczącą historii Polski i część geografii dotyczącą geografii Polski, w tym co najmniej jedne zajęcia edukacyjne wybrane spośród zajęć obejmujących: biologię, chemię, fizykę, część geografii odnoszącą się do geografii ogólnej, część historii odnoszącą się do historii powszechnej lub matematykę;
 
-<4a) oddziale  przygotowania  wojskowego  -  należy  przez  to  rozumieć  oddział szkolny,  w którym  nauczanie  jest  zorganizowane  zgodnie  z przepisami wydanymi na podstawie art. 18 ust. 6;>
+<4a) oddziale przygotowania wojskowego – należy przez to rozumieć oddział szkolny, w którym nauczanie jest zorganizowane zgodnie z przepisami wydanymi na podstawie art. 18 ust. 6;>
 
-- szkole  integracyjnej  -  należy  przez  to  rozumieć  szkołę,  w której  wszystkie oddziały są oddziałami integracyjnymi;
+5) szkole integracyjnej – należy przez to rozumieć szkołę, w której wszystkie oddziały są oddziałami integracyjnymi;
 
-- szkole  dwujęzycznej  -  należy  przez  to  rozumieć  szkołę,  w której  wszystkie oddziały są oddziałami dwujęzycznymi;
+6) szkole dwujęzycznej – należy przez to rozumieć szkołę, w której wszystkie oddziały są oddziałami dwujęzycznymi;
 
-- szkole rolniczej - należy przez to rozumieć szkołę ponadpodstawową kształcącą wyłącznie  w zawodach  dla  rolnictwa,  dla  których,  zgodnie  z klasyfikacją zawodów szkolnictwa branżowego, o której mowa  w pkt 24a, ministrem właściwym  jest  minister  właściwy  do  spraw  rolnictwa,  minister  właściwy  do spraw rozwoju wsi lub minister właściwy do spraw rynków rolnych;
+7) szkole rolniczej – należy przez to rozumieć szkołę ponadpodstawową kształcącą wyłącznie w zawodach dla rolnictwa, dla których, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw rolnictwa, minister właściwy do spraw rozwoju wsi lub minister właściwy do spraw rynków rolnych;
 
-- szkole leśnej - należy przez to rozumieć szkołę ponadpodstawową kształcącą wyłącznie  w zawodach  dla  leśnictwa,  dla  których,  zgodnie  z klasyfikacją zawodów szkolnictwa branżowego, o której mowa  w pkt 24a, ministrem właściwym jest minister właściwy do spraw środowiska;
+8) szkole leśnej – należy przez to rozumieć szkołę ponadpodstawową kształcącą wyłącznie w zawodach dla leśnictwa, dla których, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw środowiska;
 
-- szkole morskiej - należy przez to rozumieć szkołę ponadpodstawową kształcącą wyłącznie  w zawodach  podstawowych  dla  żeglugi  morskiej,  dla  których,
+9) szkole morskiej – należy przez to rozumieć szkołę ponadpodstawową kształcącą wyłącznie w zawodach podstawowych dla żeglugi morskiej, dla których,
 
 Dodany pkt 4a w art.  4  wejdzie  w życie z dn. 1.01.2020  r.  (Dz. U.  z  2019  r.  poz. 1681).
 
@@ -214,17 +214,17 @@ s. 7/216
 
 zgodnie z klasyfikacją zawodów  szkolnictwa  branżowego,  o której  mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw gospodarki morskiej;
 
-- szkole żeglugi śródlądowej - należy przez to rozumieć szkołę ponadpodstawową kształcącą wyłącznie w zawodach podstawowych dla żeglugi śródlądowej, dla których,  zgodnie  z klasyfikacją  zawodów  szkolnictwa  branżowego,  o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw żeglugi śródlądowej;
+10) szkole żeglugi śródlądowej – należy przez to rozumieć szkołę ponadpodstawową kształcącą wyłącznie w zawodach podstawowych dla żeglugi śródlądowej, dla których, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw żeglugi śródlądowej;
 
-- szkole  rybołówstwa  -  należy  przez  to  rozumieć  szkołę  ponadpodstawową kształcącą wyłącznie w zawodach podstawowych dla rybołówstwa, dla których, zgodnie z klasyfikacją zawodów  szkolnictwa  branżowego,  o której  mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw rybołówstwa;
+11) szkole rybołówstwa – należy przez to rozumieć szkołę ponadpodstawową kształcącą wyłącznie w zawodach podstawowych dla rybołówstwa, dla których, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw rybołówstwa;
 
-- oddziale  międzynarodowym  -  należy  przez  to  rozumieć  oddział  szkolny, w którym nauczanie jest prowadzone zgodnie z programem nauczania ustalonym przez zagraniczną instytucję edukacyjną;
+12) oddziale międzynarodowym – należy przez to rozumieć oddział szkolny, w którym nauczanie jest prowadzone zgodnie z programem nauczania ustalonym przez zagraniczną instytucję edukacyjną;
 
-- oddziale przygotowawczym - należy przez to rozumieć oddział szkolny dla osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, podlegających obowiązkowi szkolnemu lub obowiązkowi nauki, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw, które nie  znają  języka  polskiego  albo  znają  go  na  poziomie  niewystarczającym  do korzystania  z nauki,  jak  również  wykazują  zaburzenia  w komunikacji  oraz trudności adaptacyjne związane z różnicami kulturowymi lub ze zmianą środowiska  edukacyjnego,  co  wymaga  dostosowania  procesu  i organizacji kształcenia do ich potrzeb i możliwości edukacyjnych, zorganizowany zgodnie z przepisami wydanymi na podstawie art. 165 ust. 16 pkt 2;
+13) oddziale przygotowawczym – należy przez to rozumieć oddział szkolny dla osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, podlegających obowiązkowi szkolnemu lub obowiązkowi nauki, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw, które nie znają języka polskiego albo znają go na poziomie niewystarczającym do korzystania z nauki, jak również wykazują zaburzenia w komunikacji oraz trudności adaptacyjne związane z różnicami kulturowymi lub ze zmianą środowiska edukacyjnego, co wymaga dostosowania procesu i organizacji kształcenia do ich potrzeb i możliwości edukacyjnych, zorganizowany zgodnie z przepisami wydanymi na podstawie art. 165 ust. 16 pkt 2;
 
-- placówce  -  należy  przez  to  rozumieć  jednostki  organizacyjne  wymienione w art. 2 pkt 3-8 i 10;
+14) placówce – należy przez to rozumieć jednostki organizacyjne wymienione w art. 2 pkt 3–8 i 10;
 
-- placówce rolniczej - należy przez to rozumieć placówki i centra, o których mowa w art. 2 pkt 4, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności oraz kwalifikacji zawodowych wyłącznie w zawodach, dla których zgodnie z klasyfikacją  zawodów  szkolnictwa  branżowego,  o której  mowa  w pkt 24a, ministrem  właściwym  jest  minister  właściwy  do  spraw  rolnictwa,  minister właściwy do spraw rozwoju wsi lub minister właściwy do spraw rynków rolnych;
+15) placówce rolniczej – należy przez to rozumieć placówki i centra, o których mowa w art. 2 pkt 4, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności oraz kwalifikacji zawodowych wyłącznie w zawodach, dla których zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw rolnictwa, minister właściwy do spraw rozwoju wsi lub minister właściwy do spraw rynków rolnych;
 
 02.12.2019
 
@@ -236,25 +236,25 @@ zgodnie z klasyfikacją zawodów  szkolnictwa  branżowego,  o której  mowa w p
 
 s. 8/216
 
-- organie prowadzącym szkołę lub placówkę - należy przez to rozumieć ministra, jednostkę samorządu terytorialnego, inne osoby prawne i fizyczne;
+16) organie prowadzącym szkołę lub placówkę – należy przez to rozumieć ministra, jednostkę samorządu terytorialnego, inne osoby prawne i fizyczne;
 
-- kuratorze oświaty - należy przez to rozumieć kierownika kuratorium oświaty jako  jednostki  organizacyjnej  wchodzącej  w skład  zespolonej  administracji rządowej w województwie;
+17) kuratorze oświaty – należy przez to rozumieć kierownika kuratorium oświaty jako jednostki organizacyjnej wchodzącej w skład zespolonej administracji rządowej w województwie;
 
-- nauczycielu - należy przez to rozumieć także wychowawcę i innego pracownika pedagogicznego szkoły, placówki i placówki doskonalenia nauczycieli;
+18) nauczycielu – należy przez to rozumieć także wychowawcę i innego pracownika pedagogicznego szkoły, placówki i placówki doskonalenia nauczycieli;
 
-- rodzicach - należy przez to rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem;
+19) rodzicach – należy przez to rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem;
 
-- uczniach - należy przez to rozumieć także słuchaczy i wychowanków;
+20) uczniach – należy przez to rozumieć także słuchaczy i wychowanków;
 
-- ustawie o systemie oświaty - należy przez to rozumieć ustawę z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2018 r. poz. 1457, 1560, 1669 i 2245 oraz z 2019 r. poz. 730 i 761);
+21) ustawie o systemie oświaty – należy przez to rozumieć ustawę z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2018 r. poz. 1457, 1560, 1669 i 2245 oraz z 2019 r. poz. 730 i 761);
 
-- oddziale  sportowym  lub  oddziale  mistrzostwa  sportowego  -  należy  przez  to rozumieć oddział szkolny, w którym są prowadzone zajęcia sportowe obejmujące szkolenie sportowe, zorganizowany zgodnie z przepisami wydanymi na podstawie art. 18 ust. 5;
+22) oddziale sportowym lub oddziale mistrzostwa sportowego – należy przez to rozumieć oddział szkolny, w którym są prowadzone zajęcia sportowe obejmujące szkolenie sportowe, zorganizowany zgodnie z przepisami wydanymi na podstawie art. 18 ust. 5;
 
-(uchylony)
+23) (uchylony)
 
-- podstawie programowej wychowania przedszkolnego lub podstawie programowej  kształcenia  ogólnego  -  należy  przez  to  rozumieć  obowiązkowe zestawy  celów  kształcenia  i treści  nauczania,  w tym  umiejętności,  opisane w formie ogólnych i szczegółowych wymagań dotyczących wiedzy i umiejętności, które powinien posiadać uczeń po zakończeniu określonego etapu edukacyjnego, oraz zadania wychowawczo-profilaktyczne szkoły, uwzględniane odpowiednio w programach wychowania przedszkolnego, programach nauczania i podczas realizacji zajęć z wychowawcą oraz umożliwiające ustalenie kryteriów ocen szkolnych i wymagań egzaminacyjnych, a także warunki i sposób realizacji tych podstaw programowych;
+24) podstawie programowej wychowania przedszkolnego lub podstawie programowej kształcenia ogólnego – należy przez to rozumieć obowiązkowe zestawy celów kształcenia i treści nauczania, w tym umiejętności, opisane w formie ogólnych i szczegółowych wymagań dotyczących wiedzy i umiejętności, które powinien posiadać uczeń po zakończeniu określonego etapu edukacyjnego, oraz zadania wychowawczo-profilaktyczne szkoły, uwzględniane odpowiednio w programach wychowania przedszkolnego, programach nauczania i podczas realizacji zajęć z wychowawcą oraz umożliwiające ustalenie kryteriów ocen szkolnych i wymagań egzaminacyjnych, a także warunki i sposób realizacji tych podstaw programowych;
 
-- 24a) klasyfikacji  zawodów  szkolnictwa  branżowego  -  należy  przez  to  rozumieć klasyfikację  zawodów  szkolnictwa  branżowego,  o której  mowa  w przepisach wydanych na podstawie art. 46 ust. 1;
+24a) klasyfikacji zawodów szkolnictwa branżowego – należy przez to rozumieć klasyfikację zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1;
 
 02.12.2019
 
@@ -266,19 +266,19 @@ s. 8/216
 
 s. 9/216
 
-- 24b) klasyfikacji  zawodów  szkolnictwa  artystycznego  -  należy  przez  to  rozumieć klasyfikację zawodów szkolnictwa artystycznego, o której mowa w przepisach wydanych na podstawie art. 46a ust. 1;
+24b) klasyfikacji zawodów szkolnictwa artystycznego – należy przez to rozumieć klasyfikację zawodów szkolnictwa artystycznego, o której mowa w przepisach wydanych na podstawie art. 46a ust. 1;
 
-- podstawie  programowej  kształcenia  w zawodzie  szkolnictwa  branżowego  należy  przez  to  rozumieć  obowiązkowy  zestaw  celów  kształcenia  i treści nauczania  opisanych  w formie  oczekiwanych  efektów  kształcenia:  wiedzy, umiejętności zawodowych oraz kompetencji personalnych i społecznych, niezbędnych dla zawodu lub kwalifikacji wyodrębnionej w zawodzie, uwzględnianych w programach nauczania, oraz kryteria weryfikacji tych efektów, umożliwiające ustalenie kryteriów ocen szkolnych i wymagań egzaminacyjnych,  a także  warunki  realizacji  kształcenia  w zawodzie,  w tym wyposażenie i sprzęt  niezbędne  do  realizacji  tego  kształcenia  oraz  minimalną liczbę godzin kształcenia w zawodzie;
+25) podstawie programowej kształcenia w zawodzie szkolnictwa branżowego – należy przez to rozumieć obowiązkowy zestaw celów kształcenia i treści nauczania opisanych w formie oczekiwanych efektów kształcenia: wiedzy, umiejętności zawodowych oraz kompetencji personalnych i społecznych, niezbędnych dla zawodu lub kwalifikacji wyodrębnionej w zawodzie, uwzględnianych w programach nauczania, oraz kryteria weryfikacji tych efektów, umożliwiające ustalenie kryteriów ocen szkolnych i wymagań egzaminacyjnych, a także warunki realizacji kształcenia w zawodzie, w tym wyposażenie i sprzęt niezbędne do realizacji tego kształcenia oraz minimalną liczbę godzin kształcenia w zawodzie;
 
-- 25a) podstawie  programowej  kształcenia  w zawodzie  szkolnictwa  artystycznego  należy  przez  to  rozumieć  obowiązkowy  zestaw  celów  kształcenia  i treści nauczania  opisanych  w formie  oczekiwanych  efektów  kształcenia:  wiedzy, umiejętności zawodowych oraz kompetencji personalnych i społecznych, niezbędnych dla zawodu, uwzględnianych w programach nauczania i umożliwiających ustalenie kryteriów ocen szkolnych i wymagań egzaminacyjnych, oraz warunki realizacji kształcenia w zawodzie,  w tym wyposażenie  w  pomoce  dydaktyczne  i sprzęt  oraz  minimalną  liczbę  godzin kształcenia w zawodzie;
+25a) podstawie programowej kształcenia w zawodzie szkolnictwa artystycznego – należy przez to rozumieć obowiązkowy zestaw celów kształcenia i treści nauczania opisanych w formie oczekiwanych efektów kształcenia: wiedzy, umiejętności zawodowych oraz kompetencji personalnych i społecznych, niezbędnych dla zawodu, uwzględnianych w programach nauczania i umożliwiających ustalenie kryteriów ocen szkolnych i wymagań egzaminacyjnych, oraz warunki realizacji kształcenia w zawodzie, w tym wyposażenie w pomoce dydaktyczne i sprzęt oraz minimalną liczbę godzin kształcenia w zawodzie;
 
-- programie  wychowania  przedszkolnego  lub  programie  nauczania  do  danych zajęć edukacyjnych z zakresu kształcenia ogólnego - należy przez to rozumieć program, o którym mowa w art. 3 pkt 13b ustawy o systemie oświaty;
+26) programie wychowania przedszkolnego lub programie nauczania do danych zajęć edukacyjnych z zakresu kształcenia ogólnego – należy przez to rozumieć program, o którym mowa w art. 3 pkt 13b ustawy o systemie oświaty;
 
-- programie  nauczania  zawodu  -  należy  przez  to  rozumieć  program,  o którym mowa w art. 3 pkt 13c ustawy o systemie oświaty;
+27) programie nauczania zawodu – należy przez to rozumieć program, o którym mowa w art. 3 pkt 13c ustawy o systemie oświaty;
 
-- zadaniach oświatowych jednostek samorządu terytorialnego - należy przez to rozumieć zadania w zakresie kształcenia, wychowania i opieki, w tym profilaktyki społecznej;
+28) zadaniach oświatowych jednostek samorządu terytorialnego – należy przez to rozumieć zadania w zakresie kształcenia, wychowania i opieki, w tym profilaktyki społecznej;
 
-- 28a) szkole prowadzącej kształcenie zawodowe - należy przez to rozumieć:
+28a) szkole prowadzącej kształcenie zawodowe – należy przez to rozumieć:
 
 02.12.2019
 
@@ -290,23 +290,23 @@ s. 9/216
 
 s. 10/216
 
-- szkoły,  o których  mowa  w art. 18 ust. 1 pkt 2 lit. b,  c,  e  i f,  prowadzące kształcenie w zawodach określonych w klasyfikacji zawodów szkolnictwa branżowego, do których są przyjmowane:
+a) szkoły, o których mowa w art. 18 ust. 1 pkt 2 lit. b, c, e i f, prowadzące kształcenie w zawodach określonych w klasyfikacji zawodów szkolnictwa branżowego, do których są przyjmowane:
 
--w  przypadku  szkół,  o których  mowa  w art. 18 ust. 1 pkt 2 lit. b  i c  osoby  niepełnoletnie  oraz  niepełnoletnie  i pełnoletnie  osoby  objęte kształceniem specjalnym zorganizowanym zgodnie z przepisami wydanymi na podstawie art. 127 ust. 19 pkt 2,
+– w przypadku szkół, o których mowa w art. 18 ust. 1 pkt 2 lit. b i c – osoby niepełnoletnie oraz niepełnoletnie i pełnoletnie osoby objęte kształceniem specjalnym zorganizowanym zgodnie z przepisami wydanymi na podstawie art. 127 ust. 19 pkt 2,
 
--w  przypadku  szkół,  o których  mowa  w art. 18 ust. 1 pkt 2 lit. e  i f  niepełnoletnie i pełnoletnie osoby, oraz
+– w przypadku szkół, o których mowa w art. 18 ust. 1 pkt 2 lit. e i f – niepełnoletnie i pełnoletnie osoby, oraz
 
-- szkoły artystyczne;
+b) szkoły artystyczne;
 
-- szkole  dla  dorosłych  -  należy  przez  to  rozumieć  szkołę,  o której  mowa w art. 18 ust. 1 pkt 1 i 2 lit. a, w której stosuje się odrębną organizację kształcenia i do której są przyjmowane osoby pełnoletnie oraz kończące 18 lat w roku kalendarzowym, w którym są przyjmowane do szkoły;
+29) szkole dla dorosłych – należy przez to rozumieć szkołę, o której mowa w art. 18 ust. 1 pkt 1 i 2 lit. a, w której stosuje się odrębną organizację kształcenia i do której są przyjmowane osoby pełnoletnie oraz kończące 18 lat w roku kalendarzowym, w którym są przyjmowane do szkoły;
 
-- 29a) kształceniu  w formie  dziennej  -  należy  przez  to  rozumieć  kształcenie,  które odbywa się przez 5 dni w tygodniu albo przez 6 dni w tygodniu w przypadkach określonych w przepisach wydanych odpowiednio na podstawie art. 111 pkt 14 lub art. 113 pkt 9;
+29a) kształceniu w formie dziennej – należy przez to rozumieć kształcenie, które odbywa się przez 5 dni w tygodniu albo przez 6 dni w tygodniu w przypadkach określonych w przepisach wydanych odpowiednio na podstawie art. 111 pkt 14 lub art. 113 pkt 9;
 
-- 29b) kształceniu w formie stacjonarnej - należy przez to rozumieć kształcenie, które odbywa się przez 3 lub 4 dni w tygodniu, zgodnie z przepisami wydanymi na podstawie art. 111 pkt 14;
+29b) kształceniu w formie stacjonarnej – należy przez to rozumieć kształcenie, które odbywa się przez 3 lub 4 dni w tygodniu, zgodnie z przepisami wydanymi na podstawie art. 111 pkt 14;
 
-- 29c) kształceniu  w formie  zaocznej  -  należy  przez  to  rozumieć  kształcenie,  które odbywa  się  co  2 tygodnie  przez  2 dni,  a w uzasadnionych  przypadkach  -  co tydzień przez 2 dni, zgodnie z przepisami wydanymi na podstawie art. 111 pkt 14;
+29c) kształceniu w formie zaocznej – należy przez to rozumieć kształcenie, które odbywa się co 2 tygodnie przez 2 dni, a w uzasadnionych przypadkach – co tydzień przez 2 dni, zgodnie z przepisami wydanymi na podstawie art. 111 pkt 14;
 
-- 29d) szkole  polskiej  -  należy  przez  to  rozumieć  szkołę  przy  przedstawicielstwie dyplomatycznym,  urzędzie  konsularnym  lub  przedstawicielstwie  wojskowym Rzeczypospolitej Polskiej, która umożliwia uczniom uczęszczającym do szkół funkcjonujących w systemach oświaty innych państw uzupełnianie wykształcenia  w zakresie  szkoły  podstawowej  i liceum  ogólnokształcącego, zgodnie z ramami programowymi kształcenia uzupełniającego i planami nauczania dla szkół polskich;
+29d) szkole polskiej – należy przez to rozumieć szkołę przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym lub przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, która umożliwia uczniom uczęszczającym do szkół funkcjonujących w systemach oświaty innych państw uzupełnianie wykształcenia w zakresie szkoły podstawowej i liceum ogólnokształcącego, zgodnie z ramami programowymi kształcenia uzupełniającego i planami nauczania dla szkół polskich;
 
 02.12.2019
 
@@ -318,23 +318,23 @@ s. 10/216
 
 s. 11/216
 
-- kształceniu ustawicznym - należy przez to rozumieć kształcenie w szkołach dla dorosłych,  branżowych  szkołach  II  stopnia  i szkołach  policealnych,  a także uzyskiwanie  i uzupełnianie  wiedzy,  umiejętności  i kwalifikacji  zawodowych w formach pozaszkolnych przez osoby, które spełniły obowiązek szkolny;
+30) kształceniu ustawicznym – należy przez to rozumieć kształcenie w szkołach dla dorosłych, branżowych szkołach II stopnia i szkołach policealnych, a także uzyskiwanie i uzupełnianie wiedzy, umiejętności i kwalifikacji zawodowych w formach pozaszkolnych przez osoby, które spełniły obowiązek szkolny;
 
-- formach pozaszkolnych -należy przez to rozumieć formy uzyskiwania i uzupełniania wiedzy, umiejętności i kwalifikacji zawodowych, o których mowa w art. 117 ust. 1a;
+31) formach pozaszkolnych – należy przez to rozumieć formy uzyskiwania i uzupełniania wiedzy, umiejętności i kwalifikacji zawodowych, o których mowa w art. 117 ust. 1a;
 
-- niepełnosprawnościach sprzężonych - należy przez to rozumieć występowanie u dziecka niesłyszącego lub słabosłyszącego, niewidomego lub słabowidzącego, z niepełnosprawnością ruchową, w tym z afazją, z niepełnosprawnością intelektualną albo z autyzmem, w tym z zespołem Aspergera, co najmniej jeszcze jednej z wymienionych niepełnosprawności;
+32) niepełnosprawnościach sprzężonych – należy przez to rozumieć występowanie u dziecka niesłyszącego lub słabosłyszącego, niewidomego lub słabowidzącego, z niepełnosprawnością ruchową, w tym z afazją, z niepełnosprawnością intelektualną albo z autyzmem, w tym z zespołem Aspergera, co najmniej jeszcze jednej z wymienionych niepełnosprawności;
 
-- specyficznych trudnościach w uczeniu się - należy przez to rozumieć trudności w uczeniu się odnoszące się do uczniów w normie intelektualnej, którzy mają trudności w przyswajaniu treści nauczania, wynikające ze specyfiki ich funkcjonowania percepcyjno-motorycznego  i poznawczego,  nieuwarunkowane schorzeniami neurologicznymi;
+33) specyficznych trudnościach w uczeniu się – należy przez to rozumieć trudności w uczeniu się odnoszące się do uczniów w normie intelektualnej, którzy mają trudności w przyswajaniu treści nauczania, wynikające ze specyfiki ich funkcjonowania percepcyjno-motorycznego i poznawczego, nieuwarunkowane schorzeniami neurologicznymi;
 
-- 33a) zawodzie - należy przez to rozumieć również zawód o charakterze pomocniczym określony w klasyfikacji zawodów szkolnictwa branżowego;
+33a) zawodzie – należy przez to rozumieć również zawód o charakterze pomocniczym określony w klasyfikacji zawodów szkolnictwa branżowego;
 
-- kwalifikacji wyodrębnionej w zawodzie -należy przez to rozumieć wyodrębniony w zawodzie zestaw oczekiwanych efektów kształcenia, których osiągnięcie potwierdza certyfikat kwalifikacji zawodowej wydany przez okręgową komisję egzaminacyjną, po zdaniu egzaminu zawodowego w zakresie jednej kwalifikacji;
+34) kwalifikacji wyodrębnionej w zawodzie – należy przez to rozumieć wyodrębniony w zawodzie zestaw oczekiwanych efektów kształcenia, których osiągnięcie potwierdza certyfikat kwalifikacji zawodowej wydany przez okręgową komisję egzaminacyjną, po zdaniu egzaminu zawodowego w zakresie jednej kwalifikacji;
 
-- kwalifikacyjnym kursie zawodowym - należy przez to rozumieć kurs, którego program nauczania uwzględnia podstawę programową kształcenia w zawodzie szkolnictwa  branżowego  w zakresie  jednej  kwalifikacji,  którego  ukończenie umożliwia przystąpienie do egzaminu zawodowego w zakresie tej kwalifikacji;
+35) kwalifikacyjnym kursie zawodowym – należy przez to rozumieć kurs, którego program nauczania uwzględnia podstawę programową kształcenia w zawodzie szkolnictwa branżowego w zakresie jednej kwalifikacji, którego ukończenie umożliwia przystąpienie do egzaminu zawodowego w zakresie tej kwalifikacji;
 
-- 35a) kursie  umiejętności  zawodowych  -  należy  przez  to  rozumieć  kurs,  którego program nauczania uwzględnia:
+35a) kursie umiejętności zawodowych – należy przez to rozumieć kurs, którego program nauczania uwzględnia:
 
-- podstawę  programową  kształcenia  w zawodzie  szkolnictwa  branżowego w zakresie jednej z części efektów kształcenia wyodrębnionych w ramach danej kwalifikacji albo
+a) podstawę programową kształcenia w zawodzie szkolnictwa branżowego w zakresie jednej z części efektów kształcenia wyodrębnionych w ramach danej kwalifikacji albo
 
 02.12.2019
 
@@ -346,29 +346,29 @@ s. 11/216
 
 s. 12/216
 
-- efekty  kształcenia  właściwe  dla  dodatkowych  umiejętności  zawodowych określone w przepisach wydanych na podstawie art. 46 ust. 1;
+b) efekty kształcenia właściwe dla dodatkowych umiejętności zawodowych określone w przepisach wydanych na podstawie art. 46 ust. 1;
 
-- 35b) kursie kompetencji ogólnych - należy przez to rozumieć kurs, którego program nauczania uwzględnia dowolnie wybraną część podstawy programowej kształcenia ogólnego;
+35b) kursie kompetencji ogólnych – należy przez to rozumieć kurs, którego program nauczania uwzględnia dowolnie wybraną część podstawy programowej kształcenia ogólnego;
 
-- 35c) turnusie dokształcania teoretycznego młodocianych pracowników - należy przez to rozumieć formę kształcenia zawodowego  teoretycznego młodocianych pracowników  w zakresie  zawodu  nauczanego  w branżowej  szkole  I stopnia, którego  program  nauczania  uwzględnia  podstawę  programową  kształcenia w tym zawodzie;
+35c) turnusie dokształcania teoretycznego młodocianych pracowników – należy przez to rozumieć formę kształcenia zawodowego teoretycznego młodocianych pracowników w zakresie zawodu nauczanego w branżowej szkole I stopnia, którego program nauczania uwzględnia podstawę programową kształcenia w tym zawodzie;
 
-- egzaminie zawodowym - należy przez to rozumieć egzamin, o którym mowa w art. 3 pkt 21 ustawy o systemie oświaty;
+36) egzaminie zawodowym – należy przez to rozumieć egzamin, o którym mowa w art. 3 pkt 21 ustawy o systemie oświaty;
 
-- egzaminie  maturalnym  -  należy  przez  to  rozumieć  egzamin,  o którym  mowa w art. 3 pkt 21c ustawy o systemie oświaty;
+37) egzaminie maturalnym – należy przez to rozumieć egzamin, o którym mowa w art. 3 pkt 21c ustawy o systemie oświaty;
 
-- egzaminie ósmoklasisty - należy przez to rozumieć egzamin, o którym mowa w art. 3 pkt 21d ustawy o systemie oświaty;
+38) egzaminie ósmoklasisty – należy przez to rozumieć egzamin, o którym mowa w art. 3 pkt 21d ustawy o systemie oświaty;
 
-- podręczniku -należy przez to rozumieć podręcznik, o którym mowa w art. 3 pkt 23 ustawy o systemie oświaty;
+39) podręczniku – należy przez to rozumieć podręcznik, o którym mowa w art. 3 pkt 23 ustawy o systemie oświaty;
 
-- materiale  edukacyjnym  -  należy  przez  to  rozumieć  materiał  edukacyjny, o którym mowa w art. 3 pkt 24 ustawy o systemie oświaty;
+40) materiale edukacyjnym – należy przez to rozumieć materiał edukacyjny, o którym mowa w art. 3 pkt 24 ustawy o systemie oświaty;
 
-- materiale  ćwiczeniowym  -  należy  przez  to  rozumieć  materiał  ćwiczeniowy, o którym mowa w art. 3 pkt 25 ustawy o systemie oświaty;
+41) materiale ćwiczeniowym – należy przez to rozumieć materiał ćwiczeniowy, o którym mowa w art. 3 pkt 25 ustawy o systemie oświaty;
 
-- wielodzietności rodziny - należy przez to rozumieć rodzinę wychowującą troje i więcej dzieci;
+42) wielodzietności rodziny – należy przez to rozumieć rodzinę wychowującą troje i więcej dzieci;
 
-- samotnym wychowywaniu dziecka - należy przez to rozumieć wychowywanie dziecka przez pannę, kawalera, wdowę, wdowca, osobę pozostającą w separacji orzeczonej prawomocnym wyrokiem sądu, osobę rozwiedzioną, chyba że osoba taka wychowuje wspólnie co najmniej jedno dziecko z jego rodzicem;
+43) samotnym wychowywaniu dziecka – należy przez to rozumieć wychowywanie dziecka przez pannę, kawalera, wdowę, wdowca, osobę pozostającą w separacji orzeczonej prawomocnym wyrokiem sądu, osobę rozwiedzioną, chyba że osoba taka wychowuje wspólnie co najmniej jedno dziecko z jego rodzicem;
 
-- ustawie o finansowaniu zadań oświatowych - należy przez to rozumieć ustawę z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. poz. 2203 oraz z 2018 r. poz. 2245).
+44) ustawie o finansowaniu zadań oświatowych – należy przez to rozumieć ustawę z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. poz. 2203 oraz z 2018 r. poz. 2245).
 
 02.12.2019
 
@@ -384,7 +384,7 @@ s. 13/216
 Nauczyciel w swoich działaniach dydaktycznych, wychowawczych i opiekuńczych ma obowiązek kierowania się dobrem uczniów, troską o ich zdrowie, postawę moralną i obywatelską, z poszanowaniem godności osobistej ucznia.
 
 ##### Art. 6.
-Prawa  i obowiązki  nauczycieli  przedszkoli,  szkół  i placówek  określa ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela (Dz. U. z 2018 r. poz. 967 i 2245 oraz z 2019 r. poz. 730), z zastrzeżeniem art. 16.
+Prawa i obowiązki nauczycieli przedszkoli, szkół i placówek określa ustawa z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2018 r. poz. 967 i 2245 oraz z 2019 r. poz. 730), z zastrzeżeniem art. 16.
 
 ##### Art. 7.
 Status prawny pracowników niebędących nauczycielami, zatrudnionych w szkołach  i placówkach  prowadzonych  przez  jednostki  samorządu  terytorialnego, z wyjątkiem  osób,  o których  mowa  w art. 15,  określają  przepisy  o  pracownikach samorządowych.
@@ -392,33 +392,33 @@ Status prawny pracowników niebędących nauczycielami, zatrudnionych w szkołac
 ##### Art. 8.
 1.  Szkoła  i placówka  może  być  szkołą  i placówką  publiczną  albo niepubliczną.
 
-2. Szkoła i placówka, z zastrzeżeniem ust. 4-13, może być zakładana i prowadzona przez:
+2. Szkoła i placówka, z zastrzeżeniem ust. 4–13, może być zakładana i prowadzona przez:
 
-- jednostkę samorządu terytorialnego;
+1) jednostkę samorządu terytorialnego;
 
-- inną osobę prawną;
+2) inną osobę prawną;
 
-- osobę fizyczną.
+3) osobę fizyczną.
 
 3. Jednostki samorządu terytorialnego mogą zakładać i prowadzić jedynie szkoły i placówki publiczne.
 
-4. Minister  właściwy  do  spraw  wewnętrznych  i Minister  Obrony  Narodowej mogą zakładać i prowadzić publiczne szkoły i placówki, o których mowa w przepisach wydanych na podstawie art. 49.
+4. Minister właściwy do spraw wewnętrznych i Minister Obrony Narodowej mogą zakładać i prowadzić publiczne szkoły i placówki, o których mowa w przepisach wydanych na podstawie art. 49.
 
 5. Minister właściwy do spraw oświaty i wychowania:
 
-- zakłada i prowadzi:
+1) zakłada i prowadzi:
 
-- szkoły polskie,
+a) szkoły polskie,
 
-- publiczne placówki doskonalenia nauczycieli o zasięgu ogólnokrajowym;
+b) publiczne placówki doskonalenia nauczycieli o zasięgu ogólnokrajowym;
 
-- może zakładać i prowadzić:
+2) może zakładać i prowadzić:
 
-- publiczne szkoły i placówki o charakterze eksperymentalnym,
+a) publiczne szkoły i placówki o charakterze eksperymentalnym,
 
-- publiczne placówki kształcenia ustawicznego o zasięgu ogólnokrajowym,
+b) publiczne placówki kształcenia ustawicznego o zasięgu ogólnokrajowym,
 
-- szkoły i zespoły szkół w Polsce oraz przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, które:
+c) szkoły i zespoły szkół w Polsce oraz przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, które:
 
 02.12.2019
 
@@ -430,17 +430,17 @@ Status prawny pracowników niebędących nauczycielami, zatrudnionych w szkołac
 
 s. 14/216
 
--prowadzą kształcenie dzieci obywateli polskich czasowo przebywających za granicą zgodnie z podstawą programową kształcenia ogólnego, określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lub
+– prowadzą kształcenie dzieci obywateli polskich czasowo przebywających za granicą zgodnie z podstawą programową kształcenia ogólnego, określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lub
 
--umożliwiają uczniom uczęszczającym do szkół funkcjonujących w systemach oświaty innych państw uzupełnianie wykształcenia w zakresie szkoły podstawowej i liceum ogólnokształcącego, zgodnie z ramami programowymi kształcenia uzupełniającego i planami nauczania dla szkół polskich.
+– umożliwiają uczniom uczęszczającym do szkół funkcjonujących w systemach oświaty innych państw uzupełnianie wykształcenia w zakresie szkoły podstawowej i liceum ogólnokształcącego, zgodnie z ramami programowymi kształcenia uzupełniającego i planami nauczania dla szkół polskich.
 
 6. Minister  właściwy  do  spraw  kultury  i ochrony  dziedzictwa  narodowego zakłada  i prowadzi  publiczne  szkoły  artystyczne  oraz  placówki,  o których  mowa w art. 2 pkt 8,  dla  uczniów  szkół  artystycznych,  a także  może zakładać  i prowadzić placówki doskonalenia nauczycieli szkół artystycznych.
 
 7. Minister właściwy do spraw rolnictwa może zakładać i prowadzić:
 
-- publiczne  szkoły  rolnicze  oraz  placówki  rolnicze  o znaczeniu  regionalnym i ponadregionalnym;
+1) publiczne szkoły rolnicze oraz placówki rolnicze o znaczeniu regionalnym i ponadregionalnym;
 
-- publiczne placówki doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych.
+2) publiczne placówki doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych.
 
 8. Minister właściwy do spraw środowiska może zakładać i prowadzić publiczne szkoły leśne.
 
@@ -466,13 +466,13 @@ s. 15/216
 
 14. Minister właściwy do spraw zdrowia może założyć i prowadzić publiczną placówkę doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym w zakresie nauczania w zawodach, dla których zgodnie z klasyfikacją zawodów szkolnictwa branżowego, ministrem właściwym jest minister właściwy do spraw zdrowia.
 
-14a. Ministrowie  właściwi  do  spraw  zawodów  określonych  w klasyfikacji zawodów  szkolnictwa  branżowego,  niewymienieni  w ust. 4-14,  mogą  zakładać i prowadzić  publiczne  szkoły  prowadzące  kształcenie  zawodowe  oraz  placówki i centra, o których mowa w art. 2 pkt 4, kształcące wyłącznie w zawodach, dla których są właściwi.
+14a. Ministrowie właściwi do spraw zawodów określonych w klasyfikacji zawodów szkolnictwa branżowego, niewymienieni w ust. 4–14, mogą zakładać i prowadzić publiczne szkoły prowadzące kształcenie zawodowe oraz placówki i centra, o których mowa w art. 2 pkt 4, kształcące wyłącznie w zawodach, dla których są właściwi.
 
 15. Zakładanie  i prowadzenie  publicznych  przedszkoli,  w tym  z oddziałami integracyjnymi lub specjalnymi, przedszkoli integracyjnych i specjalnych oraz innych form wychowania przedszkolnego, o których mowa w art. 32 ust. 2, szkół podstawowych, w tym integracyjnych oraz z oddziałami integracyjnymi lub specjalnymi, z wyjątkiem szkół podstawowych specjalnych, szkół artystycznych oraz szkół  przy  zakładach  karnych,  szkół  w zakładach  poprawczych  i schroniskach  dla nieletnich, należy do zadań własnych gmin.
 
-16. Zakładanie  i prowadzenie  publicznych  szkół  podstawowych  specjalnych, szkół ponadpodstawowych, w tym integracyjnych oraz z oddziałami integracyjnymi lub specjalnymi, szkół sportowych i mistrzostwa sportowego oraz placówek wymienionych w art. 2 pkt 3-8, z wyjątkiem szkół i placówek o znaczeniu regionalnym i ponadregionalnym, należy do zadań własnych powiatu, z zastrzeżeniem ust. 6.
+16. Zakładanie i prowadzenie publicznych szkół podstawowych specjalnych, szkół ponadpodstawowych, w tym integracyjnych oraz z oddziałami integracyjnymi lub specjalnymi, szkół sportowych i mistrzostwa sportowego oraz placówek wymienionych w art. 2 pkt 3–8, z wyjątkiem szkół i placówek o znaczeniu regionalnym i ponadregionalnym, należy do zadań własnych powiatu, z zastrzeżeniem ust. 6.
 
-17. Jednostki  samorządu  terytorialnego  mogą  zakładać  i prowadzić  szkoły i placówki,  których  prowadzenie  nie  należy  do  ich  zadań  własnych,  po  zawarciu porozumienia z jednostką samorządu terytorialnego, dla której prowadzenie danego typu szkoły lub placówki jest zadaniem własnym, a w przypadku szkół artystycznych - z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego.
+17. Jednostki samorządu terytorialnego mogą zakładać i prowadzić szkoły i placówki, których prowadzenie nie należy do ich zadań własnych, po zawarciu porozumienia z jednostką samorządu terytorialnego, dla której prowadzenie danego typu szkoły lub placówki jest zadaniem własnym, a w przypadku szkół artystycznych – z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego.
 
 18. Przepis ust. 17 stosuje się również w przypadku przekazywania szkół i placówek pomiędzy jednostkami samorządu terytorialnego.
 
@@ -517,21 +517,21 @@ s. 16/216
 
 s. 17/216
 
-2. Jednostka  samorządu  terytorialnego  nie  może  powierzyć  lub  przekazać wykonywania zadań oświatowych, o których mowa w art. 11 ust. 2-4, osobie prawnej utworzonej przez tę jednostkę samorządu terytorialnego lub osobie prawnej, w której ta jednostka samorządu terytorialnego ma udziały, albo której ma akcje. W szczególności jednostka samorządu terytorialnego nie może przekazać takiej osobie prawnej  prowadzenia  szkoły  na  podstawie  ust. 1,  ani  udzielić  jej  zezwolenia  na założenie publicznej szkoły, placówki lub innej formy wychowania przedszkolnego na podstawie art. 88 ust. 4.
+2. Jednostka samorządu terytorialnego nie może powierzyć lub przekazać wykonywania zadań oświatowych, o których mowa w art. 11 ust. 2–4, osobie prawnej utworzonej przez tę jednostkę samorządu terytorialnego lub osobie prawnej, w której ta jednostka samorządu terytorialnego ma udziały, albo której ma akcje. W szczególności jednostka samorządu terytorialnego nie może przekazać takiej osobie prawnej prowadzenia szkoły na podstawie ust. 1, ani udzielić jej zezwolenia na założenie publicznej szkoły, placówki lub innej formy wychowania przedszkolnego na podstawie art. 88 ust. 4.
 
 3. Umowa, o której mowa w ust. 1, określa w szczególności:
 
-- w przypadku szkoły podstawowej - wskazanie, czy szkole ustala się obwód;
+1) w przypadku szkoły podstawowej – wskazanie, czy szkole ustala się obwód;
 
-- tryb przejęcia szkoły przez jednostkę samorządu terytorialnego w przypadkach, o których mowa w ust. 5 i 6;
+2) tryb przejęcia szkoły przez jednostkę samorządu terytorialnego w przypadkach, o których mowa w ust. 5 i 6;
 
-- warunki korzystania z mienia przejętej szkoły;
+3) warunki korzystania z mienia przejętej szkoły;
 
-- tryb kontroli przestrzegania warunków umowy;
+4) tryb kontroli przestrzegania warunków umowy;
 
-- warunki i tryb rozwiązania umowy za wypowiedzeniem.
+5) warunki i tryb rozwiązania umowy za wypowiedzeniem.
 
-4. Do  szkoły  przejętej  zgodnie  z ust. 1 stosuje  się  przepisy  dotyczące  szkół publicznych prowadzonych przez osoby prawne niebędące jednostkami samorządu terytorialnego lub osoby fizyczne, z wyjątkiem art. 88 ust. 4-6.
+4. Do szkoły przejętej zgodnie z ust. 1 stosuje się przepisy dotyczące szkół publicznych prowadzonych przez osoby prawne niebędące jednostkami samorządu terytorialnego lub osoby fizyczne, z wyjątkiem art. 88 ust. 4–6.
 
 5. Jednostka  samorządu  terytorialnego  jest  obowiązana  przejąć  prowadzenie szkoły przekazanej osobie prawnej niebędącej jednostką samorządu terytorialnego lub osobie fizycznej, jeżeli osoba prowadząca szkołę nie wykonała polecenia, o którym mowa  w art. 56 ust. 1  lub  2,  narusza  ustawę  lub  warunki  prowadzenia  szkoły określone  w umowie,  o której  mowa  w ust. 1.  W tym  przypadku  umowa  ulega rozwiązaniu z dniem przejęcia szkoły przez jednostkę samorządu terytorialnego.
 
@@ -547,11 +547,11 @@ s. 17/216
 
 s. 18/216
 
-7. Jednostka samorządu terytorialnego oraz osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna, która przejmie do prowadzenia szkołę publiczną na podstawie umowy, o której mowa w ust. 1, są obowiązani powiadomić, w terminie  6 miesięcy  przed  dniem  przekazania  szkoły  do  prowadzenia  osobie prawnej niebędącej jednostką samorządu terytorialnego lub osobie fizycznej, pracowników szkoły oraz zakładową organizację związkową o terminie przekazania szkoły,  jego  przyczynach,  prawnych,  ekonomicznych  i socjalnych  skutkach  dla pracowników,  a także  nowych  warunkach  pracy  i płacy.  Przepisy  art. 26 1 ust. 3  i 4 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2019 r. poz. 263) stosuje się odpowiednio.
+7. Jednostka samorządu terytorialnego oraz osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna, która przejmie do prowadzenia szkołę publiczną na podstawie umowy, o której mowa w ust. 1, są obowiązani powiadomić, w terminie 6 miesięcy przed dniem przekazania szkoły do prowadzenia osobie prawnej niebędącej jednostką samorządu terytorialnego lub osobie fizycznej, pracowników szkoły oraz zakładową organizację związkową o terminie przekazania szkoły, jego przyczynach, prawnych, ekonomicznych i socjalnych skutkach dla pracowników, a także nowych warunkach pracy i płacy. Przepisy art. 26¹ ust. 3 i 4 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2019 r. poz. 263) stosuje się odpowiednio.
 
 8. Nauczyciel,  w terminie  3 miesięcy  od  uzyskania  informacji,  o której  mowa w ust. 7,  może  złożyć  oświadczenie  o odmowie  przejścia  do  szkoły  publicznej przejmowanej do prowadzenia przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną.
 
-9. Złożenie  oświadczenia,  o którym  mowa  w ust. 8,  powoduje  rozwiązanie stosunku  pracy  z przyczyn  określonych  w art. 20 ust. 1  ustawy  z dnia  26 stycznia 1982 r. - Karta Nauczyciela, z dniem przekazania szkoły, chyba że nauczyciel do dnia rozwiązania stosunku pracy wyrazi zgodę na przeniesienie do innej szkoły prowadzonej przez daną jednostkę samorządu terytorialnego.
+9. Złożenie oświadczenia, o którym mowa w ust. 8, powoduje rozwiązanie stosunku pracy z przyczyn określonych w art. 20 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, z dniem przekazania szkoły, chyba że nauczyciel do dnia rozwiązania stosunku pracy wyrazi zgodę na przeniesienie do innej szkoły prowadzonej przez daną jednostkę samorządu terytorialnego.
 
 10. Osoba  prawna  niebędąca  jednostką  samorządu  terytorialnego  lub  osoba fizyczna, która przejęła szkołę, na podstawie umowy, o której mowa w ust. 1, z dniem przejęcia  szkoły  jest  obowiązana  zaproponować  nauczycielom  na  piśmie  nowe warunki  pracy  i płacy  oraz  wskazać  termin,  nie  krótszy  niż  7 dni,  do  którego nauczyciele mają złożyć oświadczenie o przyjęciu lub odmowie przyjęcia proponowanych warunków.
 
@@ -572,21 +572,21 @@ s. 19/216
 ##### Art. 10.
 1. Organ prowadzący szkołę lub placówkę odpowiada za jej działalność. Do zadań organu prowadzącego szkołę lub placówkę należy w szczególności:
 
-- zapewnienie  warunków  działania  szkoły  lub  placówki,  w tym  bezpiecznych i higienicznych warunków nauki, wychowania i opieki;
+1) zapewnienie warunków działania szkoły lub placówki, w tym bezpiecznych i higienicznych warunków nauki, wychowania i opieki;
 
-- zapewnienie  warunków  umożliwiających  stosowanie  specjalnej  organizacji nauki i metod pracy dla dzieci i młodzieży objętych kształceniem specjalnym;
+2) zapewnienie warunków umożliwiających stosowanie specjalnej organizacji nauki i metod pracy dla dzieci i młodzieży objętych kształceniem specjalnym;
 
-- wykonywanie remontów obiektów szkolnych oraz zadań inwestycyjnych w tym zakresie;
+3) wykonywanie remontów obiektów szkolnych oraz zadań inwestycyjnych w tym zakresie;
 
-- zapewnienie  obsługi  administracyjnej,  w tym  prawnej,  obsługi  finansowej, w tym w zakresie wykonywania czynności, o których mowa w art. 4 ust. 3 pkt 2-6 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351), i obsługi organizacyjnej szkoły lub placówki;
+4) zapewnienie obsługi administracyjnej, w tym prawnej, obsługi finansowej, w tym w zakresie wykonywania czynności, o których mowa w art. 4 ust. 3 pkt 2–6 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351), i obsługi organizacyjnej szkoły lub placówki;
 
-- wyposażenie szkoły lub placówki w pomoce dydaktyczne i sprzęt niezbędny do pełnej realizacji programów nauczania, programów wychowawczo-profilaktycznych,  przeprowadzania  egzaminów  oraz  wykonywania  innych zadań statutowych;
+5) wyposażenie szkoły lub placówki w pomoce dydaktyczne i sprzęt niezbędny do pełnej realizacji programów nauczania, programów wychowawczo-profilaktycznych, przeprowadzania egzaminów oraz wykonywania innych zadań statutowych;
 
-- wykonywanie  czynności  w sprawach  z zakresu  prawa  pracy  w stosunku  do dyrektora szkoły lub placówki;
+6) wykonywanie czynności w sprawach z zakresu prawa pracy w stosunku do dyrektora szkoły lub placówki;
 
-- przekazanie  do  szkół  dla  dzieci  i młodzieży  oraz  placówek,  o których  mowa w art. 2 pkt 7, z wyjątkiem szkół artystycznych realizujących wyłącznie kształcenie  artystyczne,  informacji  o podmiotach  wykonujących  działalność leczniczą udzielających świadczeń zdrowotnych w zakresie leczenia stomatologicznego dla dzieci i młodzieży, finansowanych ze środków publicznych.
+7) przekazanie do szkół dla dzieci i młodzieży oraz placówek, o których mowa w art. 2 pkt 7, z wyjątkiem szkół artystycznych realizujących wyłącznie kształcenie artystyczne, informacji o podmiotach wykonujących działalność leczniczą udzielających świadczeń zdrowotnych w zakresie leczenia stomatologicznego dla dzieci i młodzieży, finansowanych ze środków publicznych.
 
-2. W celu  wykonywania  zadań  wymienionych  w ust. 1 organy  prowadzące szkoły  i placówki,  o których  mowa  w art. 8 ust. 2 pkt 2  i 3  oraz  ust. 4-14a,  mogą tworzyć jednostki obsługi ekonomiczno-administracyjnej szkół i placówek lub organizować wspólną obsługę administracyjną, finansową i organizacyjną prowadzonych szkół i placówek, o której mowa w ust. 1 pkt 4.
+2. W celu wykonywania zadań wymienionych w ust. 1 organy prowadzące szkoły i placówki, o których mowa w art. 8 ust. 2 pkt 2 i 3 oraz ust. 4–14a, mogą tworzyć jednostki obsługi ekonomiczno-administracyjnej szkół i placówek lub organizować wspólną obsługę administracyjną, finansową i organizacyjną prowadzonych szkół i placówek, o której mowa w ust. 1 pkt 4.
 
 3. (uchylony)
 
@@ -609,11 +609,11 @@ s. 20/216
 
 2. Zapewnienie kształcenia, wychowania i opieki, w tym kształcenia specjalnego i profilaktyki społecznej, jest zadaniem oświatowym:
 
-- gmin - w przedszkolach oraz w innych formach wychowania przedszkolnego, o których mowa w art. 32 ust. 2, a także w szkołach, o których mowa w art. 8 ust. 15;
+1) gmin – w przedszkolach oraz w innych formach wychowania przedszkolnego, o których mowa w art. 32 ust. 2, a także w szkołach, o których mowa w art. 8 ust. 15;
 
-- powiatów - w szkołach i placówkach, o których mowa w art. 8 ust. 16;
+2) powiatów – w szkołach i placówkach, o których mowa w art. 8 ust. 16;
 
-- samorządów województw - w szkołach, placówkach i placówkach doskonalenia nauczycieli  oraz  kolegiach  pracowników  służb  społecznych,  o których  mowa w art. 8 ust. 22 i 26.
+3) samorządów województw – w szkołach, placówkach i placówkach doskonalenia nauczycieli oraz kolegiach pracowników służb społecznych, o których mowa w art. 8 ust. 22 i 26.
 
 3. Zadaniem oświatowym gminy i powiatu jest także zapewnienie dodatkowej, bezpłatnej nauki języka polskiego, o której mowa w art. 165 ust. 7 i 9.
 
@@ -625,7 +625,7 @@ s. 20/216
 
 7. Organ wykonawczy jednostki samorządu terytorialnego, w terminie do dnia 31 października, przedstawia organowi stanowiącemu jednostki samorządu terytorialnego  informację  o stanie  realizacji  zadań  oświatowych  tej  jednostki  za poprzedni rok szkolny, w tym o wynikach:
 
-- egzaminu  ósmoklasisty,  egzaminu  maturalnego  i egzaminu  zawodowego,  z uwzględnieniem  działań podejmowanych  przez  szkoły nakierowanych  na kształcenie uczniów ze specjalnymi potrzebami edukacyjnymi, w szkołach tych typów,  których  prowadzenie  należy  do  zadań  własnych  jednostki  samorządu terytorialnego;
+1) egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego, z uwzględnieniem działań podejmowanych przez szkoły nakierowanych na kształcenie uczniów ze specjalnymi potrzebami edukacyjnymi, w szkołach tych typów, których prowadzenie należy do zadań własnych jednostki samorządu terytorialnego;
 
 02.12.2019
 
@@ -637,7 +637,7 @@ s. 20/216
 
 s. 21/216
 
-- nadzoru pedagogicznego sprawowanego przez kuratora oświaty lub właściwego ministra w szkołach i placówkach tych typów i rodzajów, których prowadzenie należy do zadań własnych jednostki samorządu terytorialnego.
+2) nadzoru pedagogicznego sprawowanego przez kuratora oświaty lub właściwego ministra w szkołach i placówkach tych typów i rodzajów, których prowadzenie należy do zadań własnych jednostki samorządu terytorialnego.
 
 ##### Art. 12.
 Publiczne  i niepubliczne  jednostki  organizacyjne,  o których  mowa w art. 2, oraz ich zespoły wpisuje się do krajowego rejestru urzędowego podmiotów gospodarki narodowej jako podmioty, o których mowa w art. 42 ust. 1 pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2019 r. poz. 649 i 730).
@@ -645,13 +645,13 @@ Publiczne  i niepubliczne  jednostki  organizacyjne,  o których  mowa w art. 2,
 ##### Art. 13.
 1. Przedszkolem publicznym jest przedszkole, które:
 
-- realizuje  programy  wychowania  przedszkolnego  uwzględniające  podstawę programową wychowania przedszkolnego;
+1) realizuje programy wychowania przedszkolnego uwzględniające podstawę programową wychowania przedszkolnego;
 
-- zapewnia bezpłatne nauczanie, wychowanie i opiekę w czasie ustalonym przez organ prowadzący, nie krótszym niż 5 godzin dziennie;
+2) zapewnia bezpłatne nauczanie, wychowanie i opiekę w czasie ustalonym przez organ prowadzący, nie krótszym niż 5 godzin dziennie;
 
-- przeprowadza rekrutację dzieci w oparciu o zasadę powszechnej dostępności;
+3) przeprowadza rekrutację dzieci w oparciu o zasadę powszechnej dostępności;
 
-- zatrudnia nauczycieli posiadających kwalifikacje określone w odrębnych przepisach, z zastrzeżeniem art. 15 ust. 1.
+4) zatrudnia nauczycieli posiadających kwalifikacje określone w odrębnych przepisach, z zastrzeżeniem art. 15 ust. 1.
 
 2. Publiczna inna forma wychowania przedszkolnego, o której mowa w art. 32 ust. 2, zapewnia bezpłatne nauczanie, wychowanie i opiekę w czasie ustalonym  przez  organ  prowadzący,  nie  krótszym  jednak  niż  czas  określony w przepisach wydanych na podstawie art. 32 ust. 11.
 
@@ -673,36 +673,36 @@ Publiczne  i niepubliczne  jednostki  organizacyjne,  o których  mowa w art. 2,
 
 s. 22/216
 
-- realizuje  programy  wychowania  przedszkolnego  uwzględniające  podstawę programową wychowania przedszkolnego;
+1) realizuje programy wychowania przedszkolnego uwzględniające podstawę programową wychowania przedszkolnego;
 
-- zatrudnia  nauczycieli  posiadających  kwalifikacje  określone  dla  nauczycieli przedszkoli publicznych; przepisy art. 15 ust. 1 i 4 stosuje się odpowiednio.
+2) zatrudnia nauczycieli posiadających kwalifikacje określone dla nauczycieli przedszkoli publicznych; przepisy art. 15 ust. 1 i 4 stosuje się odpowiednio.
 
 7. Przepis ust. 6 stosuje się także do oddziałów przedszkolnych w niepublicznych szkołach podstawowych oraz niepublicznych innych form wychowania przedszkolnego.
 
 ##### Art. 14.
 1. Szkołą publiczną jest szkoła, która:
 
-- zapewnia bezpłatne nauczanie w zakresie ramowych planów nauczania;
+1) zapewnia bezpłatne nauczanie w zakresie ramowych planów nauczania;
 
-- przeprowadza rekrutację uczniów w oparciu o zasadę powszechnej dostępności;
+2) przeprowadza rekrutację uczniów w oparciu o zasadę powszechnej dostępności;
 
-- zatrudnia nauczycieli posiadających kwalifikacje określone w odrębnych przepisach, z zastrzeżeniem art. 15 ust. 2;
+3) zatrudnia nauczycieli posiadających kwalifikacje określone w odrębnych przepisach, z zastrzeżeniem art. 15 ust. 2;
 
-- realizuje:
+4) realizuje:
 
-- programy  nauczania  uwzględniające  podstawę  programową  kształcenia ogólnego,  a w przypadku  szkoły  prowadzącej  kształcenie  zawodowe  również podstawy programowe kształcenia w zawodach szkolnictwa branżowego albo podstawy programowe kształcenia w zawodach szkolnictwa artystycznego,
+a) programy nauczania uwzględniające podstawę programową kształcenia ogólnego, a w przypadku szkoły prowadzącej kształcenie zawodowe – również podstawy programowe kształcenia w zawodach szkolnictwa branżowego albo podstawy programowe kształcenia w zawodach szkolnictwa artystycznego,
 
-- ramowy plan nauczania;
+b) ramowy plan nauczania;
 
-- realizuje zasady oceniania, klasyfikowania i promowania uczniów oraz przeprowadzania  egzaminów,  o których  mowa  w rozdziałach  3a  i 3b  ustawy o systemie oświaty.
+5) realizuje zasady oceniania, klasyfikowania i promowania uczniów oraz przeprowadzania egzaminów, o których mowa w rozdziałach 3a i 3b ustawy o systemie oświaty.
 
-2. Szkoły publiczne oraz szkoły niepubliczne, o których mowa  w ust. 3, umożliwiają uzyskanie świadectw, certyfikatów, zaświadczeń, aneksów lub dyplomów państwowych.
+2. Szkoły publiczne oraz szkoły niepubliczne, o których mowa w ust. 3, umożliwiają uzyskanie świadectw, certyfikatów, zaświadczeń, aneksów lub dyplomów państwowych.
 
 3. Szkołą niepubliczną niebędącą szkołą artystyczną jest szkoła, która:
 
-- realizuje programy nauczania uwzględniające podstawę programową kształcenia ogólnego, a w przypadku szkoły prowadzącej kształcenie zawodowe - również podstawy programowe kształcenia w zawodach szkolnictwa branżowego;
+1) realizuje programy nauczania uwzględniające podstawę programową kształcenia ogólnego, a w przypadku szkoły prowadzącej kształcenie zawodowe – również podstawy programowe kształcenia w zawodach szkolnictwa branżowego;
 
-- realizuje obowiązkowe zajęcia edukacyjne w okresie nie krótszym oraz w wymiarze nie niższym  niż  łączny  wymiar  poszczególnych  obowiązkowych zajęć edukacyjnych określony w ramowym planie nauczania szkoły publicznej danego typu;
+2) realizuje obowiązkowe zajęcia edukacyjne w okresie nie krótszym oraz w wymiarze nie niższym niż łączny wymiar poszczególnych obowiązkowych zajęć edukacyjnych określony w ramowym planie nauczania szkoły publicznej danego typu;
 
 02.12.2019
 
@@ -714,33 +714,33 @@ s. 22/216
 
 s. 23/216
 
-- stosuje  zasady  klasyfikowania  i promowania  uczniów  oraz  przeprowadzania egzaminów, o których mowa w ust. 1 pkt 5;
+3) stosuje zasady klasyfikowania i promowania uczniów oraz przeprowadzania egzaminów, o których mowa w ust. 1 pkt 5;
 
-- prowadzi dokumentację przebiegu nauczania ustaloną dla szkół publicznych;
+4) prowadzi dokumentację przebiegu nauczania ustaloną dla szkół publicznych;
 
-- w przypadku szkoły prowadzącej kształcenie zawodowe - kształci w zawodach określonych w klasyfikacji zawodów szkolnictwa branżowego;
+5) w przypadku szkoły prowadzącej kształcenie zawodowe – kształci w zawodach określonych w klasyfikacji zawodów szkolnictwa branżowego;
 
-- zatrudnia  nauczycieli  obowiązkowych  zajęć  edukacyjnych,  o których  mowa w pkt 2, posiadających kwalifikacje określone dla nauczycieli szkół publicznych; przepisy art. 15 ust. 2, 4 i 6 stosuje się odpowiednio;
+6) zatrudnia nauczycieli obowiązkowych zajęć edukacyjnych, o których mowa w pkt 2, posiadających kwalifikacje określone dla nauczycieli szkół publicznych; przepisy art. 15 ust. 2, 4 i 6 stosuje się odpowiednio;
 
-- stosuje organizację roku szkolnego ustaloną dla szkół publicznych.
+7) stosuje organizację roku szkolnego ustaloną dla szkół publicznych.
 
 4. Niepubliczna szkoła artystyczna może uzyskać uprawnienia publicznej szkoły artystycznej, o których mowa w ust. 2, jeżeli:
 
-- realizuje programy nauczania uwzględniające podstawy programowe kształcenia w zawodach  szkolnictwa  artystycznego,  a w przypadku  szkoły  artystycznej realizującej  kształcenie  ogólne  -  również  podstawę  programową  kształcenia ogólnego;
+1) realizuje programy nauczania uwzględniające podstawy programowe kształcenia w zawodach szkolnictwa artystycznego, a w przypadku szkoły artystycznej realizującej kształcenie ogólne – również podstawę programową kształcenia ogólnego;
 
-- realizuje zajęcia edukacyjne zgodnie z ramowym planem nauczania publicznej szkoły artystycznej danego typu;
+2) realizuje zajęcia edukacyjne zgodnie z ramowym planem nauczania publicznej szkoły artystycznej danego typu;
 
-- przyjmuje kandydatów, którzy uzyskali pozytywny wynik sprawdzianu uzdolnień, predyspozycji lub praktycznych umiejętności niezbędnych do podjęcia kształcenia w danej szkole artystycznej, danym zawodzie, specjalności lub  specjalizacji,  uwzględniając  limity  wiekowe  kandydatów  określone  dla kandydatów do publicznej szkoły artystycznej danego typu;
+3) przyjmuje kandydatów, którzy uzyskali pozytywny wynik sprawdzianu uzdolnień, predyspozycji lub praktycznych umiejętności niezbędnych do podjęcia kształcenia w danej szkole artystycznej, danym zawodzie, specjalności lub specjalizacji, uwzględniając limity wiekowe kandydatów określone dla kandydatów do publicznej szkoły artystycznej danego typu;
 
-- stosuje  zasady  klasyfikowania  i promowania  uczniów  oraz  przeprowadzania egzaminów, o których mowa w ust. 1 pkt 5;
+4) stosuje zasady klasyfikowania i promowania uczniów oraz przeprowadzania egzaminów, o których mowa w ust. 1 pkt 5;
 
-- prowadzi  dokumentację  przebiegu  nauczania  ustaloną  dla  publicznych  szkół artystycznych;
+5) prowadzi dokumentację przebiegu nauczania ustaloną dla publicznych szkół artystycznych;
 
-- kształci  w zawodach  szkolnictwa  artystycznego  określonych  w klasyfikacji zawodów szkolnictwa artystycznego;
+6) kształci w zawodach szkolnictwa artystycznego określonych w klasyfikacji zawodów szkolnictwa artystycznego;
 
-- zatrudnia nauczycieli zajęć edukacyjnych, o których mowa w pkt 2, posiadających kwalifikacje określone dla nauczycieli szkół publicznych; przepisy art. 15 ust. 2, 4 i 6 stosuje się odpowiednio;
+7) zatrudnia nauczycieli zajęć edukacyjnych, o których mowa w pkt 2, posiadających kwalifikacje określone dla nauczycieli szkół publicznych; przepisy art. 15 ust. 2, 4 i 6 stosuje się odpowiednio;
 
-- stosuje organizację roku szkolnego ustaloną dla publicznych szkół artystycznych.
+8) stosuje organizację roku szkolnego ustaloną dla publicznych szkół artystycznych.
 
 02.12.2019
 
@@ -755,15 +755,15 @@ s. 24/216
 ##### Art. 15.
 1. W uzasadnionych przypadkach w przedszkolu publicznym może być, za zgodą kuratora oświaty, zatrudniona osoba niebędąca nauczycielem do prowadzenia zajęć rozwijających zainteresowania, posiadająca przygotowanie uznane przez dyrektora przedszkola za odpowiednie do prowadzenia danych zajęć. Przepisy ust. 3 i 4 stosuje się odpowiednio.
 
-2. W uzasadnionych  przypadkach  w szkole  publicznej  może  być,  za  zgodą kuratora oświaty, a w przypadku szkoły artystycznej - ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, zatrudniona osoba niebędąca nauczycielem, posiadająca przygotowanie uznane przez dyrektora szkoły za odpowiednie do prowadzenia danych zajęć.
+2. W uzasadnionych przypadkach w szkole publicznej może być, za zgodą kuratora oświaty, a w przypadku szkoły artystycznej – ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, zatrudniona osoba niebędąca nauczycielem, posiadająca przygotowanie uznane przez dyrektora szkoły za odpowiednie do prowadzenia danych zajęć.
 
-3.  Osobę,  o  której  mowa  w  ust.  2,  zatrudnia  się  na  zasadach  określonych  w ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm. 1) ), z tym że do tej osoby stosuje się odpowiednio przepisy dotyczące tygodniowego obowiązkowego wymiaru godzin zajęć edukacyjnych nauczycieli oraz ustala  się  jej  wynagrodzenie  nie  wyższe  niż  184%  kwoty  bazowej,  określanej  dla nauczycieli  corocznie  w  ustawie  budżetowej.  Organy  prowadzące  szkoły  mogą upoważniać  dyrektorów  szkół,  w  indywidualnych  przypadkach,  do  przyznawania wynagrodzenia w wyższej wysokości.
+3. Osobę, o której mowa w ust. 2, zatrudnia się na zasadach określonych w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.1)), z tym że do tej osoby stosuje się odpowiednio przepisy dotyczące tygodniowego obowiązkowego wymiaru godzin zajęć edukacyjnych nauczycieli oraz ustala się jej wynagrodzenie nie wyższe niż 184% kwoty bazowej, określanej dla nauczycieli corocznie w ustawie budżetowej. Organy prowadzące szkoły mogą upoważniać dyrektorów szkół, w indywidualnych przypadkach, do przyznawania wynagrodzenia w wyższej wysokości.
 
-4. Osoba, o której mowa w ust. 2, może być zatrudniona w szkole, jeżeli spełnia warunki, o których mowa w art. 10 ust. 5 pkt 3 i 4 ustawy z dnia 26 stycznia 1982 r. Karta  Nauczyciela.  W celu  potwierdzenia  spełnienia  warunku,  o którym  mowa w art. 10 ust. 5 pkt 4 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela, osoba ta, przed nawiązaniem stosunku pracy, jest obowiązana przedstawić dyrektorowi szkoły informację z Krajowego Rejestru Karnego.
+4. Osoba, o której mowa w ust. 2, może być zatrudniona w szkole, jeżeli spełnia warunki, o których mowa w art. 10 ust. 5 pkt 3 i 4 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela. W celu potwierdzenia spełnienia warunku, o którym mowa w art. 10 ust. 5 pkt 4 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, osoba ta, przed nawiązaniem stosunku pracy, jest obowiązana przedstawić dyrektorowi szkoły informację z Krajowego Rejestru Karnego.
 
-5. Przepisy ust. 2-4 stosuje się odpowiednio do placówek artystycznych, placówek, o których mowa w art. 2 pkt 8, dla uczniów szkół artystycznych i placówek doskonalenia nauczycieli szkół artystycznych, z tym że zgodę na zatrudnienie osoby niebędącej  nauczycielem  wyraża  minister  właściwy  do  spraw  kultury  i ochrony dziedzictwa narodowego.
+5. Przepisy ust. 2–4 stosuje się odpowiednio do placówek artystycznych, placówek, o których mowa w art. 2 pkt 8, dla uczniów szkół artystycznych i placówek doskonalenia nauczycieli szkół artystycznych, z tym że zgodę na zatrudnienie osoby niebędącej nauczycielem wyraża minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
 
-6. Przepisy ust. 2-4 stosuje się również w przypadku zatrudnienia osoby posiadającej przygotowanie zawodowe uznane przez dyrektora szkoły lub placówki za odpowiednie do prowadzenia zajęć z zakresu kształcenia zawodowego, z tym że zatrudnienie  tej  osoby  następuje  za  zgodą  organu  prowadzącego,  a w przypadku szkoły  artystycznej  -  za  zgodą  ministra  właściwego  do  spraw  kultury  i ochrony dziedzictwa narodowego.
+6. Przepisy ust. 2–4 stosuje się również w przypadku zatrudnienia osoby posiadającej przygotowanie zawodowe uznane przez dyrektora szkoły lub placówki
 
 > 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432 oraz z 2019 r. poz. 730.
 
@@ -777,6 +777,8 @@ s. 24/216
 
 s. 25/216
 
+za odpowiednie do prowadzenia zajęć z zakresu kształcenia zawodowego, z tym że zatrudnienie tej osoby następuje za zgodą organu prowadzącego, a w przypadku szkoły artystycznej – za zgodą ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
+
 7. (uchylony)
 
 8. (uchylony)
@@ -784,9 +786,9 @@ s. 25/216
 9. (uchylony)
 
 ##### Art. 16.
-1.  W celu  realizacji  zajęć  w ramach  programów  finansowanych  ze środków  pochodzących  z budżetu  Unii  Europejskiej,  prowadzonych  bezpośrednio z uczniami lub wychowankami albo na ich rzecz, w szkole lub placówce publicznej może  być  zatrudniony  nauczyciel,  który  nie  realizuje  w tej  szkole  lub  placówce tygodniowego obowiązkowego wymiaru godzin zajęć dydaktycznych, wychowawczych  i opiekuńczych,  posiadający  kwalifikacje  określone  w przepisach wydanych  na  podstawie  art. 9 ust. 2  i 3  ustawy  z dnia  26 stycznia  1982 r.  -  Karta Nauczyciela oraz spełniający warunki określone w art. 10 ust. 5 pkt 2-4a tej ustawy. Potwierdzenie spełnienia warunków,  o których  mowa  w art. 10 ust. 5 pkt 4 i 4a ustawy  z dnia  26 stycznia  1982 r.  -  Karta  Nauczyciela,  następuje  odpowiednio w trybie art. 10 ust. 8a i 8b tej ustawy.
+1. W celu realizacji zajęć w ramach programów finansowanych ze środków pochodzących z budżetu Unii Europejskiej, prowadzonych bezpośrednio z uczniami lub wychowankami albo na ich rzecz, w szkole lub placówce publicznej może być zatrudniony nauczyciel, który nie realizuje w tej szkole lub placówce tygodniowego obowiązkowego wymiaru godzin zajęć dydaktycznych, wychowawczych i opiekuńczych, posiadający kwalifikacje określone w przepisach wydanych na podstawie art. 9 ust. 2 i 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela oraz spełniający warunki określone w art. 10 ust. 5 pkt 2–4a tej ustawy. Potwierdzenie spełnienia warunków, o których mowa w art. 10 ust. 5 pkt 4 i 4a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, następuje odpowiednio w trybie art. 10 ust. 8a i 8b tej ustawy.
 
-2. Nauczyciela, o którym mowa w ust. 1, zatrudnia się na zasadach określonych w ustawie  z dnia  26 czerwca  1974 r.  -  Kodeks  pracy,  z tym  że  za  każdą  godzinę prowadzenia zajęć, o których mowa w ust. 1, nauczycielowi przysługuje wynagrodzenie nie wyższe niż wynagrodzenie za jedną godzinę prowadzenia zajęć ustalone w sposób określony w art. 35 ust. 3 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela  dla  nauczyciela  dyplomowanego  posiadającego  wykształcenie  wyższe i tytuł  zawodowy  magister,  magister  inżynier  lub  równorzędny  oraz realizującego tygodniowy  obowiązkowy  wymiar  godzin  zajęć,  o którym  mowa  w art. 42 ust. 3 w tabeli w lp. 3 tej ustawy.
+2. Nauczyciela, o którym mowa w ust. 1, zatrudnia się na zasadach określonych w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy, z tym że za każdą godzinę prowadzenia zajęć, o których mowa w ust. 1, nauczycielowi przysługuje wynagrodzenie nie wyższe niż wynagrodzenie za jedną godzinę prowadzenia zajęć ustalone w sposób określony w art. 35 ust. 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela dla nauczyciela dyplomowanego posiadającego wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny oraz realizującego tygodniowy obowiązkowy wymiar godzin zajęć, o którym mowa w art. 42 ust. 3 w tabeli w lp. 3 tej ustawy.
 
 ##### Art. 17.
 1. (uchylony)
@@ -796,7 +798,7 @@ s. 25/216
 ##### Art. 18.
 1. Szkoły publiczne i niepubliczne dzielą się na następujące typy:
 
-- ośmioletnią szkołę podstawową;
+1) ośmioletnią szkołę podstawową;
 
 02.12.2019
 
@@ -808,23 +810,23 @@ s. 25/216
 
 s. 26/216
 
-- szkoły ponadpodstawowe:
+2) szkoły ponadpodstawowe:
 
-- czteroletnie liceum ogólnokształcące,
+a) czteroletnie liceum ogólnokształcące,
 
-- pięcioletnie technikum,
+b) pięcioletnie technikum,
 
-- trzyletnią branżową szkołę I stopnia,
+c) trzyletnią branżową szkołę I stopnia,
 
-- trzyletnią szkołę specjalną przysposabiającą do pracy,
+d) trzyletnią szkołę specjalną przysposabiającą do pracy,
 
-- dwuletnią branżową szkołę II stopnia,
+e) dwuletnią branżową szkołę II stopnia,
 
-- szkołę policealną dla osób posiadających wykształcenie średnie lub wykształcenie  średnie  branżowe,  o okresie  nauczania  nie  dłuższym  niż 2,5 roku.
+f) szkołę policealną dla osób posiadających wykształcenie średnie lub wykształcenie średnie branżowe, o okresie nauczania nie dłuższym niż 2,5 roku.
 
 2. Szkoła specjalna przysposabiająca do pracy, o której mowa w ust. 1 pkt 2 lit. d, jest szkołą specjalną  przeznaczoną  wyłącznie  dla  uczniów z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym oraz dla uczniów z niepełnosprawnościami sprzężonymi.
 
-2a. W szkole  podstawowej,  liceum  ogólnokształcącym,  technikum,  branżowej szkole  I stopnia,  szkole  specjalnej  przysposabiającej  do  pracy  oraz  w szkołach artystycznych  kształcenie  odbywa  się  w formie  dziennej,  a w branżowej  szkole  II stopnia  i szkole  policealnej  -  kształcenie  może  odbywać  się  w formie  dziennej, stacjonarnej lub zaocznej.
+2a. W szkole podstawowej, liceum ogólnokształcącym, technikum, branżowej szkole I stopnia, szkole specjalnej przysposabiającej do pracy oraz w szkołach artystycznych kształcenie odbywa się w formie dziennej, a w branżowej szkole II stopnia i szkole policealnej – kształcenie może odbywać się w formie dziennej, stacjonarnej lub zaocznej.
 
 2b. W szkole  dla  dorosłych  kształcenie  odbywa  się  w formie  stacjonarnej  lub zaocznej.
 
@@ -844,24 +846,24 @@ s. 27/216
 
 5. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw kultury fizycznej określi, w drodze rozporządzenia:
 
-- warunki tworzenia, organizacji oraz działania oddziałów i szkół sportowych oraz oddziałów i szkół mistrzostwa sportowego, uwzględniając umożliwienie uczniom godzenia zajęć sportowych z nauką, w szczególności poprzez odpowiednią organizację zajęć dydaktycznych;
+1) warunki tworzenia, organizacji oraz działania oddziałów i szkół sportowych oraz oddziałów i szkół mistrzostwa sportowego, uwzględniając umożliwienie uczniom godzenia zajęć sportowych z nauką, w szczególności poprzez odpowiednią organizację zajęć dydaktycznych;
 
-- warunki realizacji w oddziałach i szkołach sportowych oraz oddziałach i szkołach  mistrzostwa  sportowego  zajęć  sportowych  obejmujących  szkolenie sportowe  w oparciu  o programy  szkolenia  opracowane  przez  polskie  związki sportowe.
+2) warunki realizacji w oddziałach i szkołach sportowych oraz oddziałach i szkołach mistrzostwa sportowego zajęć sportowych obejmujących szkolenie sportowe w oparciu o programy szkolenia opracowane przez polskie związki sportowe.
 
-<6. Minister  Obrony  Narodowej  w porozumieniu  z ministrem  właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+<6. Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
-- program  szkolenia  realizowany  w oddziale  przygotowania  wojskowego, mając na uwadze przygotowanie do podjęcia służby wojskowej, rozwijanie umiejętności przydatnych w służbie wojskowej oraz kształtowanie postaw patriotycznych i obronnych wśród uczniów;
+1) program szkolenia realizowany w oddziale przygotowania wojskowego, mając na uwadze przygotowanie do podjęcia służby wojskowej, rozwijanie umiejętności przydatnych w służbie wojskowej oraz kształtowanie postaw patriotycznych i obronnych wśród uczniów;
 
-- organizację  i formy  zajęć  realizowanych  w ramach  programu  szkolenia, o którym mowa w pkt 1, uwzględniając minimalną liczbę zajęć teoretycznych i praktycznych, miejsce realizacji tych zajęć oraz liczebność oddziału;
+2) organizację i formy zajęć realizowanych w ramach programu szkolenia, o którym mowa w pkt 1, uwzględniając minimalną liczbę zajęć teoretycznych i praktycznych, miejsce realizacji tych zajęć oraz liczebność oddziału;
 
-- warunki realizacji zajęć praktycznych, o których mowa w pkt 2, uwzględniając bezpieczeństwo uczniów, potrzebę zapewnienia niezakłóconego  funkcjonowania  jednostek  wojskowych  oraz  możliwość realizacji części zajęć praktycznych przez instruktorów organizacji proobronnych,  w celu  nabycia  przez  uczniów  praktycznych  umiejętności wojskowych.>
+3) warunki realizacji zajęć praktycznych, o których mowa w pkt 2, uwzględniając bezpieczeństwo uczniów, potrzebę zapewnienia niezakłóconego funkcjonowania jednostek wojskowych oraz możliwość realizacji części zajęć praktycznych przez instruktorów organizacji proobronnych, w celu nabycia przez uczniów praktycznych umiejętności wojskowych.>
 
 ##### Art. 19.
 1.  W ostatniej  klasie  szkoły  podstawowej  przeprowadza  się  egzamin ósmoklasisty.
 
 2. Ukończenie:
 
-- szkoły podstawowej umożliwia dalsze kształcenie w szkołach ponadpodstawowych, o których mowa w art. 18 ust. 1 pkt 2 lit. a-d;
+1) szkoły podstawowej umożliwia dalsze kształcenie w szkołach ponadpodstawowych, o których mowa w art. 18 ust. 1 pkt 2 lit. a–d;
 
 Dodany  ust.  6  w art. 18 wejdzie w życie z dn. 1.01.2020  r.  (Dz. U.  z  2019  r.  poz. 1681).
 
@@ -875,32 +877,32 @@ Dodany  ust.  6  w art. 18 wejdzie w życie z dn. 1.01.2020  r.  (Dz. U.  z  201
 
 s. 28/216
 
-- liceum  ogólnokształcącego  umożliwia  uzyskanie  świadectwa  dojrzałości  po zdaniu egzaminu maturalnego;
+2) liceum ogólnokształcącego umożliwia uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego;
 
-- technikum umożliwia uzyskanie dyplomu zawodowego po zdaniu egzaminów zawodowych  w danym  zawodzie  oraz  uzyskanie  świadectwa  dojrzałości  po zdaniu egzaminu maturalnego;
+3) technikum umożliwia uzyskanie dyplomu zawodowego po zdaniu egzaminów zawodowych w danym zawodzie oraz uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego;
 
-- branżowej  szkoły  I stopnia  umożliwia  uzyskanie  dyplomu  zawodowego  po zdaniu  egzaminu  zawodowego  w danym  zawodzie,  a także  dalsze  kształcenie w branżowej szkole II stopnia kształcącej w zawodzie, w którym wyodrębniono kwalifikację wspólną dla zawodu nauczanego w branżowej szkole I i II stopnia, lub w liceum ogólnokształcącym dla dorosłych począwszy od klasy II;
+4) branżowej szkoły I stopnia umożliwia uzyskanie dyplomu zawodowego po zdaniu egzaminu zawodowego w danym zawodzie, a także dalsze kształcenie w branżowej szkole II stopnia kształcącej w zawodzie, w którym wyodrębniono kwalifikację wspólną dla zawodu nauczanego w branżowej szkole I i II stopnia, lub w liceum ogólnokształcącym dla dorosłych począwszy od klasy II;
 
-- branżowej  szkoły  II  stopnia  umożliwia  uzyskanie  dyplomu  zawodowego w zawodzie nauczanym na poziomie technika, w którym wyodrębniono kwalifikację wspólną dla zawodu nauczanego w branżowej szkole I i II stopnia, po zdaniu egzaminu zawodowego w danym zawodzie, oraz uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego;
+5) branżowej szkoły II stopnia umożliwia uzyskanie dyplomu zawodowego w zawodzie nauczanym na poziomie technika, w którym wyodrębniono kwalifikację wspólną dla zawodu nauczanego w branżowej szkole I i II stopnia, po zdaniu egzaminu zawodowego w danym zawodzie, oraz uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego;
 
-- szkoły specjalnej przysposabiającej do pracy umożliwia uzyskanie świadectwa potwierdzającego przysposobienie do pracy;
+6) szkoły specjalnej przysposabiającej do pracy umożliwia uzyskanie świadectwa potwierdzającego przysposobienie do pracy;
 
-- szkoły  policealnej  umożliwia  uzyskanie  dyplomu  zawodowego  po  zdaniu egzaminów zawodowych w danym zawodzie.
+7) szkoły policealnej umożliwia uzyskanie dyplomu zawodowego po zdaniu egzaminów zawodowych w danym zawodzie.
 
 ##### Art. 20.
 1. Wykształcenie podstawowe posiada osoba, która:
 
-- ukończyła szkołę podstawową albo
+1) ukończyła szkołę podstawową albo
 
-- uzyskała w szkole artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej, w wyniku klasyfikacji rocznej w klasie, której zakres nauczania odpowiada ostatniej klasie szkoły podstawowej, ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących pozytywne oceny klasyfikacyjne, o których mowa  w przepisach wydanych na podstawie art. 44zq ustawy o systemie oświaty, albo
+2) uzyskała w szkole artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej, w wyniku klasyfikacji rocznej w klasie, której zakres nauczania odpowiada ostatniej klasie szkoły podstawowej, ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących pozytywne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zq ustawy o systemie oświaty, albo
 
-- ukończyła podstawowe studium zawodowe.
+3) ukończyła podstawowe studium zawodowe.
 
 2. Wykształcenie zasadnicze branżowe posiada osoba, która:
 
-- ukończyła branżową szkołę I stopnia albo
+1) ukończyła branżową szkołę I stopnia albo
 
-- zdała  egzaminy  eksternistyczne  z zakresu  wymagań  określonych  w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia oraz:
+2) zdała egzaminy eksternistyczne z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia oraz:
 
 02.12.2019
 
@@ -912,29 +914,29 @@ s. 28/216
 
 s. 29/216
 
-- ukończyła kwalifikacyjny kurs zawodowy w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole I stopnia lub
+a) ukończyła kwalifikacyjny kurs zawodowy w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole I stopnia lub
 
-- posiada certyfikat kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej  w zawodzie  nauczanym  w branżowej  szkole  I stopnia  lub świadectwo potwierdzające kwalifikację wyodrębnioną w zawodzie nauczanym w branżowej szkole I stopnia, lub
+b) posiada certyfikat kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole I stopnia lub świadectwo potwierdzające kwalifikację wyodrębnioną w zawodzie nauczanym w branżowej szkole I stopnia, lub
 
-- uzyskała  dyplom  zawodowy  albo  dyplom  potwierdzający  kwalifikacje zawodowe.
+c) uzyskała dyplom zawodowy albo dyplom potwierdzający kwalifikacje zawodowe.
 
 3. Wykształcenie średnie branżowe posiada osoba, która:
 
-- ukończyła branżową szkołę II stopnia albo
+1) ukończyła branżową szkołę II stopnia albo
 
-- spełniła warunki, o których mowa odpowiednio w ust. 2 pkt 1 lub 2, oraz zdała egzaminy eksternistyczne z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły II stopnia, a także:
+2) spełniła warunki, o których mowa odpowiednio w ust. 2 pkt 1 lub 2, oraz zdała egzaminy eksternistyczne z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły II stopnia, a także:
 
-- ukończyła kwalifikacyjny kurs zawodowy w zakresie kwalifikacji wyodrębnionej  w danym  zawodzie  nauczanym  w branżowej  szkole  II stopnia,  z tym  że  kwalifikacja  ta  wraz  z kwalifikacją,  o której  mowa w ust. 2 pkt 2 lit. a lub  b,  zostały  wyodrębnione  w tym  samym  zawodzie, lub
+a) ukończyła kwalifikacyjny kurs zawodowy w zakresie kwalifikacji wyodrębnionej w danym zawodzie nauczanym w branżowej szkole II stopnia, z tym że kwalifikacja ta wraz z kwalifikacją, o której mowa w ust. 2 pkt 2 lit. a lub b, zostały wyodrębnione w tym samym zawodzie, lub
 
-- posiada certyfikat kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole II stopnia lub świadectwo potwierdzające kwalifikację wyodrębnioną w zawodzie nauczanym  w branżowej  szkole  II  stopnia,  która  wraz  z kwalifikacją, o której  mowa  w ust. 2 pkt 2 lit. a lub  b,  zostały  wyodrębnione  w tym samym zawodzie, lub
+b) posiada certyfikat kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole II stopnia lub świadectwo potwierdzające kwalifikację wyodrębnioną w zawodzie nauczanym w branżowej szkole II stopnia, która wraz z kwalifikacją, o której mowa w ust. 2 pkt 2 lit. a lub b, zostały wyodrębnione w tym samym zawodzie, lub
 
-- uzyskała  dyplom  zawodowy  albo  dyplom  potwierdzający  kwalifikacje zawodowe, w zawodzie nauczanym na poziomie technika.
+c) uzyskała dyplom zawodowy albo dyplom potwierdzający kwalifikacje zawodowe, w zawodzie nauczanym na poziomie technika.
 
 4. Wykształcenie średnie posiada osoba, która:
 
-- ukończyła szkołę ponadpodstawową, o której mowa w art. 18 ust. 1 pkt 2 lit. a i b, albo
+1) ukończyła szkołę ponadpodstawową, o której mowa w art. 18 ust. 1 pkt 2 lit. a i b, albo
 
-- uzyskała w szkole artystycznej realizującej kształcenie ogólne w zakresie liceum ogólnokształcącego,  w wyniku  klasyfikacji  rocznej  w klasie, której zakres nauczania odpowiada ostatniej klasie liceum ogólnokształcącego, ze wszystkich obowiązkowych  zajęć  edukacyjnych  ogólnokształcących  pozytywne  oceny
+2) uzyskała w szkole artystycznej realizującej kształcenie ogólne w zakresie liceum ogólnokształcącego, w wyniku klasyfikacji rocznej w klasie, której zakres nauczania odpowiada ostatniej klasie liceum ogólnokształcącego, ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących pozytywne oceny
 
 02.12.2019
 
@@ -948,27 +950,27 @@ s. 30/216
 
 klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zq ustawy o systemie oświaty, albo
 
-- ukończyła szkołę ponadgimnazjalną, z wyjątkiem szkół zawodowych, zasadniczych szkół zawodowych oraz szkół specjalnych przysposabiających do pracy dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym oraz dla uczniów z niepełnosprawnościami sprzężonymi, albo
+3) ukończyła szkołę ponadgimnazjalną, z wyjątkiem szkół zawodowych, zasadniczych szkół zawodowych oraz szkół specjalnych przysposabiających do pracy dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym oraz dla uczniów z niepełnosprawnościami sprzężonymi, albo
 
-- ukończyła szkołę ponadpodstawową albo szkołę artystyczną realizującą kształcenie ogólne w zakresie szkoły ponadpodstawowej działające w systemie oświaty przed dniem  1 stycznia 1999 r., z wyjątkiem zasadniczych szkół zawodowych, szkół zasadniczych lub innych równorzędnych.
+4) ukończyła szkołę ponadpodstawową albo szkołę artystyczną realizującą kształcenie ogólne w zakresie szkoły ponadpodstawowej działające w systemie oświaty przed dniem 1 stycznia 1999 r., z wyjątkiem zasadniczych szkół zawodowych, szkół zasadniczych lub innych równorzędnych.
 
 5. Wykształcenie gimnazjalne posiada osoba, która:
 
-- ukończyła gimnazjum albo
+1) ukończyła gimnazjum albo
 
-- uzyskała w szkole artystycznej realizującej kształcenie ogólne w zakresie gimnazjum,  w wyniku  klasyfikacji  rocznej  w klasie,  której  zakres  nauczania odpowiada  ostatniej  klasie  gimnazjum,  ze  wszystkich  obowiązkowych  zajęć edukacyjnych  ogólnokształcących  pozytywne  oceny  klasyfikacyjne,  o których mowa  w przepisach  wydanych  na  podstawie  art. 44zq  ustawy  o systemie oświaty, oraz przystąpiła do egzaminu gimnazjalnego przeprowadzanego zgodnie  z przepisami  rozdziału  3b  ustawy  o systemie  oświaty  w brzmieniu obowiązującym przed dniem 1 września 2017 r.
+2) uzyskała w szkole artystycznej realizującej kształcenie ogólne w zakresie gimnazjum, w wyniku klasyfikacji rocznej w klasie, której zakres nauczania odpowiada ostatniej klasie gimnazjum, ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących pozytywne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zq ustawy o systemie oświaty, oraz przystąpiła do egzaminu gimnazjalnego przeprowadzanego zgodnie z przepisami rozdziału 3b ustawy o systemie oświaty w brzmieniu obowiązującym przed dniem 1 września 2017 r.
 
 6. Wykształcenie zasadnicze zawodowe posiada osoba, która:
 
-- ukończyła  zasadniczą  szkołę  zawodową,  szkołę  zasadniczą  lub  inną  szkołę równorzędną, albo
+1) ukończyła zasadniczą szkołę zawodową, szkołę zasadniczą lub inną szkołę równorzędną, albo
 
-- zdała  egzaminy  eksternistyczne  z zakresu  wymagań  określonych  w podstawie programowej kształcenia ogólnego dla zasadniczej szkoły zawodowej oraz:
+2) zdała egzaminy eksternistyczne z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla zasadniczej szkoły zawodowej oraz:
 
-- ukończyła kwalifikacyjne kursy zawodowe w zakresie wszystkich kwalifikacji wyodrębnionych w zawodzie nauczanym w zasadniczej szkole zawodowej lub
+a) ukończyła kwalifikacyjne kursy zawodowe w zakresie wszystkich kwalifikacji wyodrębnionych w zawodzie nauczanym w zasadniczej szkole zawodowej lub
 
-- posiada świadectwa potwierdzające wszystkie kwalifikacje wyodrębnione w zawodzie nauczanym w zasadniczej szkole zawodowej, lub
+b) posiada świadectwa potwierdzające wszystkie kwalifikacje wyodrębnione w zawodzie nauczanym w zasadniczej szkole zawodowej, lub
 
-- uzyskała dyplom potwierdzający kwalifikacje zawodowe.
+c) uzyskała dyplom potwierdzający kwalifikacje zawodowe.
 
 ##### Art. 21.
 1. W szkołach publicznych i niepublicznych, z wyjątkiem szkół artystycznych, mogą być tworzone oddziały międzynarodowe.
@@ -991,26 +993,26 @@ s. 31/216
 
 5. Wniosek, o którym mowa w ust. 4, określa:
 
-- cel, założenia kształcenia  i program nauczania, który  będzie  realizowany w oddziale międzynarodowym;
+1) cel, założenia kształcenia i program nauczania, który będzie realizowany w oddziale międzynarodowym;
 
-- organizację kształcenia  w oddziale  międzynarodowym  i stosowany  system oceniania, klasyfikowania i egzaminowania;
+2) organizację kształcenia w oddziale międzynarodowym i stosowany system oceniania, klasyfikowania i egzaminowania;
 
-- datę rozpoczęcia funkcjonowania oddziału.
+3) datę rozpoczęcia funkcjonowania oddziału.
 
 6. Do wniosku, o którym mowa w ust. 4, dołącza się:
 
-- zgodę rady pedagogicznej na utworzenie oddziału międzynarodowego;
+1) zgodę rady pedagogicznej na utworzenie oddziału międzynarodowego;
 
-- dokument zawierający zgodę zagranicznej instytucji edukacyjnej na przystąpienie szkoły do nauczania zgodnego z programem nauczania ustalonym przez tę instytucję;
+2) dokument zawierający zgodę zagranicznej instytucji edukacyjnej na przystąpienie szkoły do nauczania zgodnego z programem nauczania ustalonym przez tę instytucję;
 
-- opinię kuratora oświaty zawierającą ocenę możliwości organizacyjnych i kadrowych  pozwalających  na  realizowanie  w szkole  programu  nauczania ustalonego przez zagraniczną instytucję edukacyjną;
+3) opinię kuratora oświaty zawierającą ocenę możliwości organizacyjnych i kadrowych pozwalających na realizowanie w szkole programu nauczania ustalonego przez zagraniczną instytucję edukacyjną;
 
-- w przypadku szkoły publicznej - zobowiązanie organu prowadzącego szkołę do ponoszenia, z dochodów własnych, kosztów kształcenia w oddziale międzynarodowym  przekraczających  wydatki  bieżące  ponoszone  na  jednego ucznia w pozostałych oddziałach szkoły.
+4) w przypadku szkoły publicznej – zobowiązanie organu prowadzącego szkołę do ponoszenia, z dochodów własnych, kosztów kształcenia w oddziale międzynarodowym przekraczających wydatki bieżące ponoszone na jednego ucznia w pozostałych oddziałach szkoły.
 
 ##### Art. 22.
 1.  Nauczanie  w oddziale  międzynarodowym  może  być  prowadzone w języku  obcym,  z wyjątkiem  zajęć  dla  uczniów  będących  obywatelami  polskimi obejmujących: język polski, część historii dotyczącą historii Polski i część geografii dotyczącą geografii Polski.
 
-2. Szkoła zapewnia uczniom oddziału międzynarodowego będącym obywatelami  polskimi  nauczanie  języka  polskiego  oraz  części  historii  dotyczącej historii  Polski  i części  geografii  dotyczącej  geografii  Polski  zgodnie  z podstawą programową  kształcenia  ogólnego  ustaloną  w przepisach  wydanych  na  podstawie art. 47 ust. 1 pkt 1 lit. b-h.
+2. Szkoła zapewnia uczniom oddziału międzynarodowego będącym obywatelami polskimi nauczanie języka polskiego oraz części historii dotyczącej historii Polski i części geografii dotyczącej geografii Polski zgodnie z podstawą programową kształcenia ogólnego ustaloną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. b–h.
 
 02.12.2019
 
@@ -1035,13 +1037,13 @@ s. 32/216
 ##### Art. 23.
 1.  Minister  właściwy  do  spraw  oświaty  i wychowania  może  cofnąć zezwolenie na utworzenie oddziału międzynarodowego w przypadku:
 
-- stwierdzenia  przez  organ  sprawujący  nadzór  pedagogiczny,  że  działalność oddziału  międzynarodowego  jest  sprzeczna  z przepisami  niniejszej  ustawy, ustawy  o systemie  oświaty,  rozporządzeń  wydanych  na  ich  podstawie  lub statutem szkoły, w której taki oddział został utworzony;
+1) stwierdzenia przez organ sprawujący nadzór pedagogiczny, że działalność oddziału międzynarodowego jest sprzeczna z przepisami niniejszej ustawy, ustawy o systemie oświaty, rozporządzeń wydanych na ich podstawie lub statutem szkoły, w której taki oddział został utworzony;
 
-- cofnięcia przez zagraniczną instytucję edukacyjną zgody, o której  mowa w art. 21 ust. 6 pkt 2;
+2) cofnięcia przez zagraniczną instytucję edukacyjną zgody, o której mowa w art. 21 ust. 6 pkt 2;
 
-- cofnięcia przez radę pedagogiczną zgody, o której mowa w art. 21 ust. 6 pkt 1;
+3) cofnięcia przez radę pedagogiczną zgody, o której mowa w art. 21 ust. 6 pkt 1;
 
-- niewykonywania przez organ prowadzący szkołę zobowiązania, o którym mowa w art. 21 ust. 6 pkt 4.
+4) niewykonywania przez organ prowadzący szkołę zobowiązania, o którym mowa w art. 21 ust. 6 pkt 4.
 
 2. Cofnięcie zezwolenia jest równoznaczne z likwidacją oddziału międzynarodowego. Likwidacja następuje w terminie określonym w decyzji o cofnięciu zezwolenia.
 
@@ -1070,11 +1072,11 @@ Oddział  międzynarodowy  może  zostać  zlikwidowany  z końcem  roku szkolne
 5. Do uczniów klasy wstępnej, o której mowa w ust. 3, nie stosuje się przepisów rozdziału 3a ustawy o systemie oświaty.
 
 ##### Art. 26.
-1.  Szkoły  oraz  placówki,  o których  mowa  w art. 2 pkt 3-5,  7  i 8, realizują program wychowawczo-profilaktyczny obejmujący:
+1. Szkoły oraz placówki, o których mowa w art. 2 pkt 3–5, 7 i 8, realizują program wychowawczo-profilaktyczny obejmujący:
 
-- treści i działania o charakterze wychowawczym skierowane do uczniów oraz
+1) treści i działania o charakterze wychowawczym skierowane do uczniów oraz
 
-- treści i działania o charakterze profilaktycznym skierowane do uczniów, nauczycieli i rodziców.
+2) treści i działania o charakterze profilaktycznym skierowane do uczniów, nauczycieli i rodziców.
 
 2. Program wychowawczo-profilaktyczny opracowuje się na podstawie wyników  corocznej  diagnozy  w zakresie  występujących  w środowisku  szkolnym potrzeb rozwojowych uczniów, w tym czynników chroniących i czynników ryzyka, ze szczególnym uwzględnieniem zagrożeń związanych z używaniem substancji psychotropowych, środków zastępczych oraz nowych substancji psychoaktywnych.
 
@@ -1090,28 +1092,28 @@ Oddział  międzynarodowy  może  zostać  zlikwidowany  z końcem  roku szkolne
 
 s. 34/216
 
-4. Przepisów  ust. 1-3 nie  stosuje  się  do  przedszkoli,  szkół  dla  dorosłych, branżowych szkół II stopnia, szkół policealnych i policealnych szkół artystycznych.
+4. Przepisów ust. 1–3 nie stosuje się do przedszkoli, szkół dla dorosłych, branżowych szkół II stopnia, szkół policealnych i policealnych szkół artystycznych.
 
 ##### Art. 26a.
 1.  Przedszkola,  oddziały  przedszkolne  w szkołach  podstawowych i inne formy wychowania przedszkolnego oraz szkoły, z wyjątkiem szkół artystycznych, prowadzą zaplanowane i systematyczne działania w zakresie doradztwa zawodowego, w celu wspierania dzieci i uczniów w procesie rozpoznawania  zainteresowań  i predyspozycji  zawodowych  oraz  podejmowania świadomych decyzji edukacyjnych i zawodowych, w tym przygotowania do wyboru kolejnego etapu kształcenia i zawodu, polegające w szczególności na prowadzeniu:
 
-- w przedszkolach, oddziałach przedszkolnych w szkołach podstawowych i innych  formach wychowania przedszkolnego preorientacji zawodowej, która ma na celu wstępne zapoznanie dzieci z wybranymi zawodami oraz pobudzanie i rozwijanie ich zainteresowań i uzdolnień;
+1) w przedszkolach, oddziałach przedszkolnych w szkołach podstawowych i innych formach wychowania przedszkolnego preorientacji zawodowej, która ma na celu wstępne zapoznanie dzieci z wybranymi zawodami oraz pobudzanie i rozwijanie ich zainteresowań i uzdolnień;
 
-- w klasach  I-VI  szkół  podstawowych  orientacji  zawodowej,  która  ma  na  celu zapoznanie uczniów z wybranymi zawodami, kształtowanie pozytywnych postaw wobec pracy i edukacji oraz pobudzanie, rozpoznawanie i rozwijanie ich zainteresowań i uzdolnień;
+2) w klasach I–VI szkół podstawowych orientacji zawodowej, która ma na celu zapoznanie uczniów z wybranymi zawodami, kształtowanie pozytywnych postaw wobec pracy i edukacji oraz pobudzanie, rozpoznawanie i rozwijanie ich zainteresowań i uzdolnień;
 
-- w klasach i szkołach, o których mowa  w art. 109 ust. 6, zajęć z zakresu doradztwa zawodowego.
+3) w klasach i szkołach, o których mowa w art. 109 ust. 6, zajęć z zakresu doradztwa zawodowego.
 
 2. Doradztwo zawodowe jest realizowane na:
 
-- zajęciach edukacyjnych wychowania przedszkolnego;
+1) zajęciach edukacyjnych wychowania przedszkolnego;
 
-- obowiązkowych  zajęciach  edukacyjnych  z zakresu  kształcenia  ogólnego  lub kształcenia w zawodzie;
+2) obowiązkowych zajęciach edukacyjnych z zakresu kształcenia ogólnego lub kształcenia w zawodzie;
 
-- zajęciach z zakresu doradztwa zawodowego;
+3) zajęciach z zakresu doradztwa zawodowego;
 
-- zajęciach związanych z wyborem kierunku kształcenia i zawodu prowadzonych w ramach pomocy psychologiczno-pedagogicznej;
+4) zajęciach związanych z wyborem kierunku kształcenia i zawodu prowadzonych w ramach pomocy psychologiczno-pedagogicznej;
 
-- zajęciach z wychowawcą.
+5) zajęciach z wychowawcą.
 
 3. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, treści programowe z zakresu doradztwa zawodowego, sposób realizacji doradztwa zawodowego, a także zadania doradcy zawodowego, uwzględniając  rolę  doradztwa  zawodowego  w przygotowaniu  uczniów  do  wyboru zawodu i kierunku kształcenia.
 
@@ -1131,7 +1133,7 @@ Szkoły i placówki  zapewniające  uczniom  dostęp  do Internetu są obowiąza
 ##### Art. 28.
 1. Przedszkola, oddziały przedszkolne w szkołach podstawowych oraz inne  formy  wychowania  przedszkolnego  są  obowiązane  do  prowadzenia  zajęć rozwijających  sprawność  fizyczną  dzieci  poprzez  zapewnienie  udziału  w zajęciach ruchowych, grach i zabawach.
 
-2. Szkoły  są  obowiązane  do  prowadzenia  zajęć  wychowania  fizycznego  dla uczniów  kształcących  się  w tych  szkołach  w formie  dziennej,  z wyjątkiem  szkół artystycznych realizujących wyłącznie kształcenie artystyczne. Obowiązkowy wymiar zajęć wychowania fizycznego dla uczniów klas IV-VIII szkół podstawowych wynosi 4 godziny lekcyjne, a dla uczniów szkół ponadpodstawowych - 3 godziny lekcyjne, w ciągu tygodnia.
+2. Szkoły są obowiązane do prowadzenia zajęć wychowania fizycznego dla uczniów kształcących się w tych szkołach w formie dziennej, z wyjątkiem szkół artystycznych realizujących wyłącznie kształcenie artystyczne. Obowiązkowy wymiar zajęć wychowania fizycznego dla uczniów klas IV–VIII szkół podstawowych wynosi 4 godziny lekcyjne, a dla uczniów szkół ponadpodstawowych – 3 godziny lekcyjne, w ciągu tygodnia.
 
 3. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw kultury fizycznej określi, w drodze rozporządzenia, dopuszczalne formy realizacji obowiązkowych zajęć wychowania fizycznego, mając w szczególności na względzie potrzeby zdrowotne uczniów, specyfikę ich zainteresowań  sportowych,  warunki  realizacji  zajęć  wychowania  fizycznego  oraz tradycje sportowe danego środowiska lub szkoły.
 
@@ -1156,33 +1158,31 @@ s. 36/216
 
 4. Warunkiem udzielenia zezwolenia jest:
 
-- zapewnienie warunków i odpowiednio wykwalifikowanej kadry do prowadzenia szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 6;
+1) zapewnienie warunków i odpowiednio wykwalifikowanej kadry do prowadzenia szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 6;
 
-- występowanie  potrzeb  rekrutacyjnych  Sił  Zbrojnych Rzeczypospolitej Polskiej w danym regionie;
+2) występowanie potrzeb rekrutacyjnych Sił Zbrojnych Rzeczypospolitej Polskiej w danym regionie;
 
-- możliwość zapewnienia wsparcia w prowadzeniu zajęć praktycznych, o których mowa w przepisach wydanych na podstawie art. 18 ust. 6;
+3) możliwość zapewnienia wsparcia w prowadzeniu zajęć praktycznych, o których mowa w przepisach wydanych na podstawie art. 18 ust. 6;
 
-- pozytywna ocena dotychczasowej współpracy szkoły z jednostkami wojskowymi.
+4) pozytywna ocena dotychczasowej współpracy szkoły z jednostkami wojskowymi.
 
 5. Wniosek o zezwolenie na utworzenie oddziału przygotowania wojskowego składa  organ  prowadzący  szkołę,  w której  ma  zostać  utworzony  ten  oddział, w terminie  do  dnia  31 marca  roku  szkolnego  poprzedzającego  rok  szkolny, w którym oddział przygotowania wojskowego ma rozpocząć działalność.
 
 6. Wniosek, o którym mowa w ust. 5, określa:
 
-- organizację  kształcenia  w oddziale  przygotowania  wojskowego  w sposób umożliwiający  uczniom  godzenie  zajęć  z zakresu  programu  szkolenia, określonego w przepisach wydanych na podstawie art. 18 ust. 6, z realizacją obowiązkowych zajęć dydaktycznych;
+1) organizację kształcenia w oddziale przygotowania wojskowego w sposób umożliwiający uczniom godzenie zajęć z zakresu programu szkolenia, określonego w przepisach wydanych na podstawie art. 18 ust. 6, z realizacją obowiązkowych zajęć dydaktycznych;
 
-- 2)
+2) datę rozpoczęcia funkcjonowania oddziału.
 
-- datę rozpoczęcia funkcjonowania oddziału.
+7. Do wniosku, o którym mowa w ust. 5, dołącza się:
 
-- Do wniosku, o którym mowa w ust. 5, dołącza się:
+1) opinię rady pedagogicznej;
 
-- opinię rady pedagogicznej;
-
-- zobowiązanie organu prowadzącego szkołę do ponoszenia kosztów kształcenia w oddziale przygotowania wojskowego przekraczających wydatki  bieżące  ponoszone  na  jednego  ucznia  w pozostałych  oddziałach szkoły.
+2) zobowiązanie organu prowadzącego szkołę do ponoszenia kosztów kształcenia w oddziale przygotowania wojskowego przekraczających wydatki bieżące ponoszone na jednego ucznia w pozostałych oddziałach szkoły.
 
 8. Minister Obrony Narodowej udziela zezwolenia na prowadzenie oddziału przygotowania wojskowego po zasięgnięciu opinii właściwego:
 
-- kuratora oświaty, zawierającej ocenę możliwości organizacyjnych i kadrowych pozwalających na realizowanie w szkole programu szkolenia, określonego w przepisach wydanych na podstawie art. 18 ust. 6, w sposób umożliwiający  uczniom  godzenie  realizacji  tego  programu  z realizacją
+1) kuratora oświaty, zawierającej ocenę możliwości organizacyjnych i kadrowych pozwalających na realizowanie w szkole programu szkolenia, określonego w przepisach wydanych na podstawie art. 18 ust. 6, w sposób umożliwiający uczniom godzenie realizacji tego programu z realizacją
 
 02.12.2019
 
@@ -1196,17 +1196,17 @@ s. 37/216
 
 obowiązkowych  zajęć  dydaktycznych,  oraz  ocenę  spełniania  przez  szkołę warunków, o których mowa w ust. 3;
 
-- szefa  Wojewódzkiego  Sztabu  Wojskowego,  zawierającej  ocenę  potrzeb prowadzenia przygotowania wojskowego w danym regionie, dotychczasowej współpracy szkoły z jednostkami wojskowymi oraz ocenę spełniania przez szkołę warunków, o których mowa w ust. 4, i jej przygotowanie do realizacji programu szkolenia, określonego w przepisach wydanych na podstawie art. 18 ust. 6.
+2) szefa Wojewódzkiego Sztabu Wojskowego, zawierającej ocenę potrzeb prowadzenia przygotowania wojskowego w danym regionie, dotychczasowej współpracy szkoły z jednostkami wojskowymi oraz ocenę spełniania przez szkołę warunków, o których mowa w ust. 4, i jej przygotowanie do realizacji programu szkolenia, określonego w przepisach wydanych na podstawie art. 18 ust. 6.
 
 9. W zezwoleniu,  o którym  mowa  w ust. 8,  Minister  Obrony  Narodowej wskazuje jednostkę wojskową odpowiedzialną za prowadzenie zajęć praktycznych dla uczniów oddziału przygotowania wojskowego.
 
 10. Minister  Obrony  Narodowej  może  cofnąć  zezwolenie  na  utworzenie oddziału przygotowania wojskowego w przypadku:
 
-- stwierdzenia przez kuratora oświaty, że działalność oddziału przygotowania wojskowego  jest  sprzeczna  z warunkiem,  o którym  mowa  w ust. 3,  lub realizacja  programu  szkolenia,  określonego  w przepisach  wydanych  na podstawie  art. 18 ust. 6,  przebiega  w sposób  uniemożliwiający  realizację obowiązkowych zajęć dydaktycznych;
+1) stwierdzenia przez kuratora oświaty, że działalność oddziału przygotowania wojskowego jest sprzeczna z warunkiem, o którym mowa w ust. 3, lub realizacja programu szkolenia, określonego w przepisach wydanych na podstawie art. 18 ust. 6, przebiega w sposób uniemożliwiający realizację obowiązkowych zajęć dydaktycznych;
 
-- niewykonywania przez organ prowadzący szkołę zobowiązania, o którym mowa w ust. 7 pkt 2;
+2) niewykonywania przez organ prowadzący szkołę zobowiązania, o którym mowa w ust. 7 pkt 2;
 
-- negatywnej  oceny  szefa  Wojewódzkiego  Sztabu  Wojskowego  w zakresie realizacji programu oraz współpracy z jednostkami wojskowymi, o których mowa w przepisach  wydanych na podstawie art. 18 ust. 6,  lub  w zakresie spełniania przez szkołę warunków, o których mowa w ust. 4.
+3) negatywnej oceny szefa Wojewódzkiego Sztabu Wojskowego w zakresie realizacji programu oraz współpracy z jednostkami wojskowymi, o których mowa w przepisach wydanych na podstawie art. 18 ust. 6, lub w zakresie spełniania przez szkołę warunków, o których mowa w ust. 4.
 
 11. Cofnięcie zezwolenia jest równoznaczne z likwidacją oddziału przygotowania wojskowego. Likwidacja następuje w terminie określonym w decyzji o cofnięciu zezwolenia.
 
@@ -1225,21 +1225,21 @@ s. 38/216
 ##### Art. 29.
 1. W przypadku  szkół i placówek prowadzonych  przez jednostki samorządu terytorialnego zadania i kompetencje organu prowadzącego, określone w:
 
-[1) art. 10 ust. 2, art. 13 ust. 1 pkt 2 i ust. 2, art. 21 ust. 4 i ust. 6 pkt 4, art. 23 ust. 1 pkt 4, art. 24, art. 88 ust. 7, art. 89 ust. 1 i 13, art. 91 ust. 1, 1a, 2, 3  i 7  oraz  art. 93 ust. 1 -  wykonuje  odpowiednio:  rada  gminy,  rada  powiatu, sejmik województwa;]
+[1) art. 10 ust. 2, art. 13 ust. 1 pkt 2 i ust. 2, art. 21 ust. 4 i ust. 6 pkt 4, art. 23 ust. 1 pkt 4, art. 24, art. 88 ust. 7, art. 89 ust. 1 i 13, art. 91 ust. 1, 1a, 2, 3 i 7 oraz art. 93 ust. 1 – wykonuje odpowiednio: rada gminy, rada powiatu, sejmik województwa;]
 
-<1) art. 10 ust. 2, art. 13 ust. 1 pkt 2 i ust. 2, art. 21 ust. 4 i ust. 6 pkt 4, art. 23 ust. 1 pkt 4, art. 24, art. 28a ust. 5 i ust. 7 pkt 2, art. 88 ust. 7, art. 89 ust. 1  i 13,  art. 91 ust. 1,  1a,  2,  3  i 7  oraz  art. 93 ust. 1 -  wykonuje odpowiednio: rada gminy, rada powiatu, sejmik województwa;>
+<1) art. 10 ust. 2, art. 13 ust. 1 pkt 2 i ust. 2, art. 21 ust. 4 i ust. 6 pkt 4, art. 23 ust. 1 pkt 4, art. 24, art. 28a ust. 5 i ust. 7 pkt 2, art. 88 ust. 7, art. 89 ust. 1 i 13, art. 91 ust. 1, 1a, 2, 3 i 7 oraz art. 93 ust. 1 – wykonuje odpowiednio: rada gminy, rada powiatu, sejmik województwa;>
 
-- art. 10 ust. 1 pkt 1-5 i 7, art. 62 ust. 2, art. 63 ust. 1, 12-14, 18 i 20, art. 66 ust. 1, art. 68 ust. 7 i 9, art. 91 ust. 8 oraz art. 128 ust. 1 - wykonuje odpowiednio: wójt (burmistrz, prezydent miasta), zarząd powiatu, zarząd województwa;
+2) art. 10 ust. 1 pkt 1–5 i 7, art. 62 ust. 2, art. 63 ust. 1, 12–14, 18 i 20, art. 66 ust. 1, art. 68 ust. 7 i 9, art. 91 ust. 8 oraz art. 128 ust. 1 – wykonuje odpowiednio: wójt (burmistrz, prezydent miasta), zarząd powiatu, zarząd województwa;
 
-- art. 10 ust. 1 pkt 6, art. 15 ust. 6, art. 56 ust. 2, art. 57, art. 64 ust. 1, art. 65 ust. 1, art. 68 ust. 8, art. 71 ust. 2 i 3, art. 88 ust. 4, art. 89 ust. 6 i 7, art. 106 ust. 3, 5 i 6, art. 107 ust. 6, 8, 9 i 9a, art. 110 ust. 3, art. 117 ust. 8 oraz art. 127 ust. 6 i 17 wykonuje odpowiednio: wójt (burmistrz, prezydent miasta), starosta, marszałek województwa.
+3) art. 10 ust. 1 pkt 6, art. 15 ust. 6, art. 56 ust. 2, art. 57, art. 64 ust. 1, art. 65 ust. 1, art. 68 ust. 8, art. 71 ust. 2 i 3, art. 88 ust. 4, art. 89 ust. 6 i 7, art. 106 ust. 3, 5 i 6, art. 107 ust. 6, 8, 9 i 9a, art. 110 ust. 3, art. 117 ust. 8 oraz art. 127 ust. 6 i 17 – wykonuje odpowiednio: wójt (burmistrz, prezydent miasta), starosta, marszałek województwa.
 
-- W przypadku  przedszkoli,  szkół  i placówek  prowadzonych  przez  jednostki samorządu terytorialnego zadania i kompetencje określone w:
+2. W przypadku przedszkoli, szkół i placówek prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje określone w:
 
-- art.  131 ust. 4-6,  art. 133 ust. 2  i 3,  art. 144 ust. 4,  art. 145 ust. 1 pkt 3  i ust. 3, art. 147 ust. 6 -  wykonuje  odpowiednio  rada  gminy,  rada  powiatu,  sejmik województwa;
+1) art. 131 ust. 4–6, art. 133 ust. 2 i 3, art. 144 ust. 4, art. 145 ust. 1 pkt 3 i ust. 3, art. 147 ust. 6 – wykonuje odpowiednio rada gminy, rada powiatu, sejmik województwa;
 
-- art. 130 ust. 3, art. 134 ust. 5, art. 135 ust. 7, art. 152, art. 153 ust. 5, art. 154 ust. 1 pkt 1, ust. 3 i 6-8, art. 159 ust. 1-3 oraz art. 165 ust. 6 - wykonuje odpowiednio wójt (burmistrz, prezydent miasta), starosta, marszałek województwa.
+2) art. 130 ust. 3, art. 134 ust. 5, art. 135 ust. 7, art. 152, art. 153 ust. 5, art. 154 ust. 1 pkt 1, ust. 3 i 6–8, art. 159 ust. 1–3 oraz art. 165 ust. 6 – wykonuje odpowiednio wójt (burmistrz, prezydent miasta), starosta, marszałek województwa.
 
-- Zadania i kompetencje jednostek samorządu terytorialnego, o których mowa w art. 9 ust. 7  i art. 168  ust. 1,  9  i 11-13,  wykonuje  odpowiednio:  wójt  (burmistrz, prezydent miasta), starosta, marszałek województwa.
+3. Zadania i kompetencje jednostek samorządu terytorialnego, o których mowa w art. 9 ust. 7 i art. 168 ust. 1, 9 i 11–13, wykonuje odpowiednio: wójt (burmistrz, prezydent miasta), starosta, marszałek województwa.
 
 ##### Art. 30.
 1.  Słuchaczem  kolegium  pracowników  służb  społecznych  może  być tylko osoba posiadająca świadectwo dojrzałości.
@@ -1283,11 +1283,11 @@ s. 40/216
 
 3. Przepisu ust. 2 nie stosuje się:
 
-- w przypadku zagrożenia zdrowia ucznia;
+1) w przypadku zagrożenia zdrowia ucznia;
 
-- jeżeli uczeń, a w przypadku ucznia niepełnoletniego jego rodzic, wyrazi zgodę na ujawnienie określonych informacji;
+2) jeżeli uczeń, a w przypadku ucznia niepełnoletniego jego rodzic, wyrazi zgodę na ujawnienie określonych informacji;
 
-- w przypadku gdy przewidują to przepisy szczególne.
+3) w przypadku gdy przewidują to przepisy szczególne.
 
 ### Rozdział 2
 
@@ -1314,7 +1314,7 @@ s. 40/216
 
 s. 41/216
 
-6. Dzieci w wieku 3-5 lat mają prawo do korzystania z wychowania przedszkolnego w przedszkolu, oddziale przedszkolnym w szkole podstawowej lub innej formie wychowania przedszkolnego.
+6. Dzieci w wieku 3–5 lat mają prawo do korzystania z wychowania przedszkolnego w przedszkolu, oddziale przedszkolnym w szkole podstawowej lub innej formie wychowania przedszkolnego.
 
 7. Dziecko uzyskuje prawo, o którym mowa  w ust. 6, z początkiem roku szkolnego w roku kalendarzowym, w którym kończy 3 lata.
 
@@ -1322,11 +1322,11 @@ s. 41/216
 
 9. Zadanie,  o którym  mowa  w ust. 8,  jest  wykonywane  przez  gminę  przez zapewnienie dziecku możliwości korzystania z wychowania przedszkolnego w:
 
-- publicznym przedszkolu, oddziale przedszkolnym w publicznej szkole podstawowej lub publicznej innej formie wychowania przedszkolnego, prowadzonych przez gminę, lub
+1) publicznym przedszkolu, oddziale przedszkolnym w publicznej szkole podstawowej lub publicznej innej formie wychowania przedszkolnego, prowadzonych przez gminę, lub
 
-- publicznym przedszkolu, oddziale przedszkolnym w publicznej szkole podstawowej lub publicznej innej formie wychowania przedszkolnego, prowadzonych  przez  inną  osobę  prawną  lub  osobę  fizyczną,  położonych  na obszarze gminy, lub
+2) publicznym przedszkolu, oddziale przedszkolnym w publicznej szkole podstawowej lub publicznej innej formie wychowania przedszkolnego, prowadzonych przez inną osobę prawną lub osobę fizyczną, położonych na obszarze gminy, lub
 
-- niepublicznym  przedszkolu,  o  którym  mowa  w  art.  17  ust.  1  ustawy  o finansowaniu  zadań  oświatowych,  oddziale  przedszkolnym  w  niepublicznej szkole podstawowej, o którym mowa w art. 19 ust. 1 ustawy o finansowaniu zadań oświatowych, lub niepublicznej innej formie wychowania przedszkolnego, o  której  mowa  w  art.  21  ust.  1  ustawy  o  finansowaniu  zadań  oświatowych, położonych na obszarze gminy.
+3) niepublicznym przedszkolu, o którym mowa w art. 17 ust. 1 ustawy o finansowaniu zadań oświatowych, oddziale przedszkolnym w niepublicznej szkole podstawowej, o którym mowa w art. 19 ust. 1 ustawy o finansowaniu zadań oświatowych, lub niepublicznej innej formie wychowania przedszkolnego, o której mowa w art. 21 ust. 1 ustawy o finansowaniu zadań oświatowych, położonych na obszarze gminy.
 
 10.  Jeżeli  liczba  dzieci,  którym  gmina  ma  obowiązek  zapewnić  możliwość korzystania z wychowania przedszkolnego, zamieszkałych na obszarze danej gminy, zgłoszonych  podczas  postępowania  rekrutacyjnego  do  publicznego  przedszkola, oddziału przedszkolnego w publicznej szkole podstawowej, publicznej innej formy wychowania przedszkolnego, niepublicznego przedszkola, o którym mowa w art. 17 ust.  1  ustawy  o  finansowaniu  zadań  oświatowych,  oddziału  przedszkolnego  w niepublicznej  szkole  podstawowej,  o  którym  mowa  w  art.  19  ust.  1  ustawy  o finansowaniu zadań oświatowych,  lub niepublicznej  innej  formy  wychowania przedszkolnego,  o  której  mowa  w  art.  21  ust.  1  ustawy  o  finansowaniu  zadań
 
@@ -1406,13 +1406,13 @@ s. 45/216
 ##### Art. 33.
 1.  Rodzice  dziecka  podlegającego  obowiązkowi,  o którym  mowa w art. 31 ust. 4, są obowiązani do:
 
-- dopełnienia  czynności  związanych  ze  zgłoszeniem  dziecka  do  przedszkola, oddziału  przedszkolnego  w szkole  podstawowej  lub  innej  formy  wychowania przedszkolnego;
+1) dopełnienia czynności związanych ze zgłoszeniem dziecka do przedszkola, oddziału przedszkolnego w szkole podstawowej lub innej formy wychowania przedszkolnego;
 
-- zapewnienia regularnego uczęszczania dziecka na zajęcia;
+2) zapewnienia regularnego uczęszczania dziecka na zajęcia;
 
-- informowania, w terminie do dnia 30 września każdego roku, dyrektora szkoły podstawowej, w obwodzie której dziecko mieszka, o realizacji tego obowiązku spełnianego w sposób określony w art. 36 ust. 10;
+3) informowania, w terminie do dnia 30 września każdego roku, dyrektora szkoły podstawowej, w obwodzie której dziecko mieszka, o realizacji tego obowiązku spełnianego w sposób określony w art. 36 ust. 10;
 
-- zapewnienia  dziecku  warunków  nauki  określonych  w zezwoleniu,  o którym mowa  w art. 37 ust. 1 -  w przypadku  dziecka  realizującego  obowiązek  poza przedszkolem, oddziałem przedszkolnym w szkole podstawowej lub inną formą wychowania przedszkolnego.
+4) zapewnienia dziecku warunków nauki określonych w zezwoleniu, o którym mowa w art. 37 ust. 1 – w przypadku dziecka realizującego obowiązek poza przedszkolem, oddziałem przedszkolnym w szkole podstawowej lub inną formą wychowania przedszkolnego.
 
 2. Kontrolowanie spełniania obowiązku, o którym mowa w art. 31 ust. 4, należy do zadań dyrektora szkoły podstawowej, w obwodzie której dziecko mieszka.
 
@@ -1441,9 +1441,9 @@ Osoby  prawne  i fizyczne  mogą  prowadzić  inne  formy  wychowania przedszkol
 
 2. Dyrektor  szkoły  podstawowej  przyjmuje  dziecko,  o którym  mowa  w ust. 1, jeżeli dziecko:
 
-- korzystało z wychowania przedszkolnego w roku szkolnym poprzedzającym rok szkolny, w którym ma rozpocząć naukę w szkole podstawowej, albo
+1) korzystało z wychowania przedszkolnego w roku szkolnym poprzedzającym rok szkolny, w którym ma rozpocząć naukę w szkole podstawowej, albo
 
-- posiada opinię o możliwości rozpoczęcia nauki w szkole podstawowej, wydaną przez publiczną poradnię psychologiczno-pedagogiczną albo niepubliczną poradnię psychologiczno-pedagogiczną założoną zgodnie z art. 168 oraz zatrudniającą pracowników posiadających kwalifikacje określone dla pracowników publicznych poradni psychologiczno-pedagogicznych.
+2) posiada opinię o możliwości rozpoczęcia nauki w szkole podstawowej, wydaną przez publiczną poradnię psychologiczno-pedagogiczną albo niepubliczną poradnię psychologiczno-pedagogiczną założoną zgodnie z art. 168 oraz zatrudniającą pracowników posiadających kwalifikacje określone dla pracowników publicznych poradni psychologiczno-pedagogicznych.
 
 3. Dziecko,  które  zostało  wcześniej  przyjęte  do  szkoły  podstawowej,  jest zwolnione z obowiązku, o którym mowa w art. 31 ust. 4.
 
@@ -1469,15 +1469,15 @@ s. 47/216
 
 9. Po ukończeniu szkoły podstawowej obowiązek nauki spełnia się przez:
 
-- uczęszczanie do publicznej lub niepublicznej szkoły ponadpodstawowej;
+1) uczęszczanie do publicznej lub niepublicznej szkoły ponadpodstawowej;
 
-- realizowanie,  zgodnie  z odrębnymi  przepisami,  przygotowania  zawodowego u pracodawcy.
+2) realizowanie, zgodnie z odrębnymi przepisami, przygotowania zawodowego u pracodawcy.
 
 10. Obowiązek, o którym mowa w art. 31 ust. 4, obowiązek szkolny i obowiązek nauki mogą być spełniane również przez uczęszczanie odpowiednio do przedszkola lub szkoły:
 
-- za  granicą,  w tym  na  podstawie  umów  międzynarodowych  lub  porozumień o współpracy  bezpośredniej  zawieranych  przez  szkoły,  jednostki  samorządu terytorialnego i organy administracji rządowej lub w ramach programów edukacyjnych Unii Europejskiej;
+1) za granicą, w tym na podstawie umów międzynarodowych lub porozumień o współpracy bezpośredniej zawieranych przez szkoły, jednostki samorządu terytorialnego i organy administracji rządowej lub w ramach programów edukacyjnych Unii Europejskiej;
 
-- przy przedstawicielstwie dyplomatycznym innego państwa w Polsce.
+2) przy przedstawicielstwie dyplomatycznym innego państwa w Polsce.
 
 11. Obowiązek szkolny i obowiązek nauki mogą być spełniane również przez uczęszczanie odpowiednio do szkoły lub zespołu szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c tiret pierwsze.
 
@@ -1501,11 +1501,11 @@ s. 48/216
 
 16. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z Ministrem Sprawiedliwości, określi, w drodze rozporządzenia:
 
-- przypadki,  w których  do  publicznej  lub  niepublicznej  szkoły  dla  dorosłych można  przyjąć  osobę,  która  ukończyła  16 lat,  a w przypadku  uczestników Ochotniczych Hufców Pracy oraz osób przebywających w zakładach karnych lub aresztach śledczych - 15 lat,
+1) przypadki, w których do publicznej lub niepublicznej szkoły dla dorosłych można przyjąć osobę, która ukończyła 16 lat, a w przypadku uczestników Ochotniczych Hufców Pracy oraz osób przebywających w zakładach karnych lub aresztach śledczych – 15 lat,
 
-- przypadki, w których osoba, która ukończyła ośmioletnią szkołę podstawową, może  spełniać  obowiązek  nauki  przez  uczęszczanie  na  kwalifikacyjny  kurs zawodowy
+2) przypadki, w których osoba, która ukończyła ośmioletnią szkołę podstawową, może spełniać obowiązek nauki przez uczęszczanie na kwalifikacyjny kurs zawodowy
 
-- uwzględniając w szczególności opóźnienie w cyklu kształcenia, przypadki losowe uniemożliwiające lub znacznie utrudniające uczęszczanie do szkoły lub umożliwienie spełniania  obowiązku  nauki  osobom  przebywającym  w zakładach  karnych  lub aresztach śledczych.
+– uwzględniając w szczególności opóźnienie w cyklu kształcenia, przypadki losowe uniemożliwiające lub znacznie utrudniające uczęszczanie do szkoły lub umożliwienie spełniania obowiązku nauki osobom przebywającym w zakładach karnych lub aresztach śledczych.
 
 02.12.2019
 
@@ -1519,22 +1519,22 @@ s. 49/216
 
 17. Za spełnianie obowiązku, o którym mowa  w art. 31 ust. 4,  obowiązku szkolnego i obowiązku nauki uznaje się również udział dzieci i młodzieży z niepełnosprawnością intelektualną w stopniu głębokim w zajęciach rewalidacyjno-wychowawczych,  organizowanych  zgodnie  z przepisami  wydanymi  na  podstawie art. 7 ust. 3  ustawy  z dnia  19 sierpnia  1994 r.  o ochronie  zdrowia  psychicznego (Dz. U. z 2018 r. poz. 1878 oraz z 2019 r. poz. 730).
 
-18. Przepisy  ust. 1-3,  8,  9,  12,  13  i 15 stosuje  się  odpowiednio  do  szkół artystycznych realizujących kształcenie ogólne.
+18. Przepisy ust. 1–3, 8, 9, 12, 13 i 15 stosuje się odpowiednio do szkół artystycznych realizujących kształcenie ogólne.
 
 ##### Art. 37.
 1. Na  wniosek  rodziców dyrektor odpowiednio  publicznego lub niepublicznego  przedszkola,  szkoły  podstawowej  i szkoły  ponadpodstawowej,  do której dziecko zostało przyjęte, może zezwolić, w drodze decyzji, na spełnianie przez dziecko odpowiednio obowiązku, o którym mowa w art. 31 ust. 4, poza przedszkolem, oddziałem  przedszkolnym  w szkole  podstawowej  lub  inną  formą  wychowania przedszkolnego i obowiązku szkolnego lub obowiązku nauki poza szkołą.
 
 2. Zezwolenie, o którym mowa w ust. 1, może być wydane przed rozpoczęciem roku szkolnego albo w trakcie roku szkolnego, jeżeli:
 
-- przedszkole, szkoła podstawowa lub szkoła ponadpodstawowa, do której dziecko zostało  przyjęte,  znajduje  się  na  terenie  województwa,  w którym  zamieszkuje dziecko;
+1) przedszkole, szkoła podstawowa lub szkoła ponadpodstawowa, do której dziecko zostało przyjęte, znajduje się na terenie województwa, w którym zamieszkuje dziecko;
 
-- do wniosku o wydanie zezwolenia dołączono:
+2) do wniosku o wydanie zezwolenia dołączono:
 
-- opinię publicznej poradni psychologiczno-pedagogicznej,
+a) opinię publicznej poradni psychologiczno-pedagogicznej,
 
-- oświadczenie rodziców o zapewnieniu dziecku warunków umożliwiających realizację podstawy programowej obowiązującej na danym etapie edukacyjnym,
+b) oświadczenie rodziców o zapewnieniu dziecku warunków umożliwiających realizację podstawy programowej obowiązującej na danym etapie edukacyjnym,
 
-- zobowiązanie rodziców do przystępowania w każdym roku szkolnym przez dziecko spełniające obowiązek szkolny lub obowiązek nauki do rocznych egzaminów klasyfikacyjnych, o których mowa w ust. 4.
+c) zobowiązanie rodziców do przystępowania w każdym roku szkolnym przez dziecko spełniające obowiązek szkolny lub obowiązek nauki do rocznych egzaminów klasyfikacyjnych, o których mowa w ust. 4.
 
 3. Przepisów ust. 2 pkt 1 i pkt 2 lit. a i c nie stosuje się w przypadku wydawania zezwolenia, o którym mowa w ust. 1, dla dzieci i młodzieży posiadających orzeczenie o potrzebie  kształcenia  specjalnego  wydane  ze  względu  na  niepełnosprawność intelektualną w stopniu umiarkowanym lub znacznym.
 
@@ -1556,23 +1556,23 @@ s. 50/216
 
 7. Uczeń  spełniający  obowiązek  szkolny  lub  obowiązek  nauki  poza  szkołą, a także  rodzic  takiego  ucznia,  może  korzystać  ze  wsparcia  szkoły,  której  dyrektor wydał zezwolenie, o którym mowa w ust. 1, obejmującego:
 
-- prawo uczestniczenia w szkole w zajęciach, o których mowa w art. 109 ust. 1 pkt 2, 3 i 5-7;
+1) prawo uczestniczenia w szkole w zajęciach, o których mowa w art. 109 ust. 1 pkt 2, 3 i 5–7;
 
-- zapewnienie dostępu do:
+2) zapewnienie dostępu do:
 
-- podręczników,  materiałów  edukacyjnych  i materiałów  ćwiczeniowych, o którym mowa w art. 54 ust. 1 ustawy o finansowaniu zadań oświatowych, oraz
+a) podręczników, materiałów edukacyjnych i materiałów ćwiczeniowych, o którym mowa w art. 54 ust. 1 ustawy o finansowaniu zadań oświatowych, oraz
 
-- pomocy dydaktycznych służących realizacji podstawy programowej znajdujących  się  w zasobach  szkoły  -  w porozumieniu  z dyrektorem  tej szkoły;
+b) pomocy dydaktycznych służących realizacji podstawy programowej znajdujących się w zasobach szkoły – w porozumieniu z dyrektorem tej szkoły;
 
-- udział w konsultacjach umożliwiających przygotowanie do rocznych egzaminów klasyfikacyjnych, o których mowa w ust. 4.
+3) udział w konsultacjach umożliwiających przygotowanie do rocznych egzaminów klasyfikacyjnych, o których mowa w ust. 4.
 
 8. Cofnięcie zezwolenia, o którym mowa w ust. 1, następuje:
 
-- na wniosek rodziców;
+1) na wniosek rodziców;
 
-- jeżeli  uczeń  z przyczyn  nieusprawiedliwionych  nie  przystąpił  do  rocznych egzaminów klasyfikacyjnych, o których mowa w ust. 4, albo nie zdał rocznych egzaminów klasyfikacyjnych, o których mowa w ust. 4;
+2) jeżeli uczeń z przyczyn nieusprawiedliwionych nie przystąpił do rocznych egzaminów klasyfikacyjnych, o których mowa w ust. 4, albo nie zdał rocznych egzaminów klasyfikacyjnych, o których mowa w ust. 4;
 
-- w razie wydania zezwolenia z naruszeniem prawa.
+3) w razie wydania zezwolenia z naruszeniem prawa.
 
 02.12.2019
 
@@ -1600,9 +1600,9 @@ s. 51/216
 
 2. Droga dziecka z domu do szkoły nie może przekraczać:
 
-- 3 km - w przypadku uczniów klas I-IV szkół podstawowych;
+1) 3 km – w przypadku uczniów klas I–IV szkół podstawowych;
 
-- 4 km - w przypadku uczniów klas V-VIII szkół podstawowych.
+2) 4 km – w przypadku uczniów klas V–VIII szkół podstawowych.
 
 3. Jeżeli droga dziecka z domu do szkoły, w której obwodzie dziecko mieszka:
 
@@ -1616,25 +1616,25 @@ s. 51/216
 
 s. 52/216
 
-- przekracza odległości wymienione w ust. 2, obowiązkiem gminy jest zapewnienie  bezpłatnego  transportu  i opieki  w czasie  przewozu  dziecka  albo zwrot  kosztów  przejazdu  dziecka  środkami  komunikacji  publicznej,  jeżeli dowożenie zapewniają rodzice, a do ukończenia przez dziecko 7 lat - także zwrot kosztów przejazdu opiekuna dziecka środkami komunikacji publicznej;
+1) przekracza odległości wymienione w ust. 2, obowiązkiem gminy jest zapewnienie bezpłatnego transportu i opieki w czasie przewozu dziecka albo zwrot kosztów przejazdu dziecka środkami komunikacji publicznej, jeżeli dowożenie zapewniają rodzice, a do ukończenia przez dziecko 7 lat – także zwrot kosztów przejazdu opiekuna dziecka środkami komunikacji publicznej;
 
-- nie  przekracza  odległości  wymienionych  w ust. 2,  gmina  może  zorganizować bezpłatny transport, zapewniając opiekę w czasie przewozu.
+2) nie przekracza odległości wymienionych w ust. 2, gmina może zorganizować bezpłatny transport, zapewniając opiekę w czasie przewozu.
 
 4. Obowiązkiem gminy jest:
 
-- zapewnienie  uczniom  niepełnosprawnym,  których  kształcenie  i wychowanie odbywa  się  na  podstawie  art. 127,  bezpłatnego  transportu  i opieki  w czasie przewozu do najbliższej szkoły podstawowej, a uczniom z niepełnosprawnością ruchową, w  tym  z afazją, z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym - także do najbliższej szkoły ponadpodstawowej, do  końca  roku  szkolnego  w roku  kalendarzowym,  w którym  uczeń  kończy 21. rok życia;
+1) zapewnienie uczniom niepełnosprawnym, których kształcenie i wychowanie odbywa się na podstawie art. 127, bezpłatnego transportu i opieki w czasie przewozu do najbliższej szkoły podstawowej, a uczniom z niepełnosprawnością ruchową, w tym z afazją, z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym – także do najbliższej szkoły ponadpodstawowej, do końca roku szkolnego w roku kalendarzowym, w którym uczeń kończy 21. rok życia;
 
-- zapewnienie  dzieciom  i młodzieży,  o których  mowa  w art. 36 ust. 17,  a także dzieciom  i młodzieży  z  niepełnosprawnościami  sprzężonymi,  z których  jedną z niepełnosprawności jest niepełnosprawność intelektualna, bezpłatnego transportu i opieki w czasie przewozu do ośrodka rewalidacyjno-wychowawczego, do końca roku szkolnego w roku kalendarzowym, w którym kończą:
+2) zapewnienie dzieciom i młodzieży, o których mowa w art. 36 ust. 17, a także dzieciom i młodzieży z niepełnosprawnościami sprzężonymi, z których jedną z niepełnosprawności jest niepełnosprawność intelektualna, bezpłatnego transportu i opieki w czasie przewozu do ośrodka rewalidacyjno-wychowawczego, do końca roku szkolnego w roku kalendarzowym, w którym kończą:
 
-- 24. rok życia -w przypadku uczniów z niepełnosprawnościami sprzężonymi, z których jedną z niepełnosprawności jest niepełnosprawność intelektualna,
+a) 24. rok życia – w przypadku uczniów z niepełnosprawnościami sprzężonymi, z których jedną z niepełnosprawności jest niepełnosprawność intelektualna,
 
-- 25. rok życia -w przypadku uczestników zajęć rewalidacyjnowychowawczych.
+b) 25. rok życia – w przypadku uczestników zajęć rewalidacyjno-wychowawczych.
 
-(uchylony)
+3) (uchylony)
 
 4a. Gmina może zorganizować dzieciom i młodzieży niepełnosprawnej, których kształcenie  i wychowanie  odbywa  się  na  podstawie  art. 127,  bezpłatny  transport i opiekę  w czasie  przewozu  do  szkoły  ponadpodstawowej  oraz  ośrodka,  o którym mowa w art. 2 pkt 7, również w przypadkach, w których nie ma takiego obowiązku.
 
-5. Rada gminy, z uwzględnieniem ust. 1 i 2, ustala plan sieci publicznych szkół podstawowych  prowadzonych  przez  gminę,  a także określa  granice  obwodów publicznych  szkół  podstawowych,  z wyjątkiem  specjalnych,  mających  siedzibę  na obszarze  gminy,  z zastrzeżeniem  art. 88 ust. 2.  W przypadku  publicznych  szkół podstawowych  prowadzonych  przez  inne  organy,  określenie  granic  ich  obwodów następuje w uzgodnieniu z tymi organami. Uchwała rady gminy podlega ogłoszeniu w wojewódzkim dzienniku urzędowym.
+5. Rada gminy, z uwzględnieniem ust. 1 i 2, ustala plan sieci publicznych szkół podstawowych prowadzonych przez gminę, a także określa granice obwodów
 
 02.12.2019
 
@@ -1646,7 +1646,9 @@ s. 52/216
 
 s. 53/216
 
-5a. W uchwale,  o której  mowa  w ust. 5,  wskazuje  się  adresy  siedzib  szkół, o których mowa  w ust. 5, oraz adresy innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych.
+publicznych szkół podstawowych, z wyjątkiem specjalnych, mających siedzibę na obszarze gminy, z zastrzeżeniem art. 88 ust. 2. W przypadku publicznych szkół podstawowych prowadzonych przez inne organy, określenie granic ich obwodów następuje w uzgodnieniu z tymi organami. Uchwała rady gminy podlega ogłoszeniu w wojewódzkim dzienniku urzędowym.
+
+5a. W uchwale, o której mowa w ust. 5, wskazuje się adresy siedzib szkół, o których mowa w ust. 5, oraz adresy innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych.
 
 5b. Obwód  szkoły podstawowej, w tym  szkoły podstawowej obejmującej strukturą organizacyjną część klas szkoły podstawowej lub szkoły filialnej, nie może posiadać części wspólnej z obwodem innej szkoły podstawowej, z wyjątkiem szkoły podstawowej obejmującej strukturą organizacyjną część klas szkoły podstawowej lub szkoły filialnej, w zakresie klas nieobjętych strukturą organizacyjną tej szkoły.
 
@@ -1660,10 +1662,10 @@ s. 53/216
 
 7a. W przypadku szkół prowadzonych przez jednostki samorządu terytorialnego tworzenie i likwidacja innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych stanowi przekształcenie szkoły. Przepisy art. 89 stosuje się.
 
-8. Ustalenie planu sieci publicznych szkół, o którym mowa w ust. 5 i 7, następuje po  uzyskaniu  pozytywnej  opinii  kuratora  oświaty  o zgodności  planu  z warunkami określonymi odpowiednio w ust. 1, 2 i 5a-7a.
+8. Ustalenie planu sieci publicznych szkół, o którym mowa w ust. 5 i 7, następuje po uzyskaniu pozytywnej opinii kuratora oświaty o zgodności planu z warunkami określonymi odpowiednio w ust. 1, 2 i 5a–7a.
 
 ##### Art. 39a.
-1.  Obowiązki,  o których  mowa  w art. 32 ust. 6  i art. 39 ust. 4,  gmina spełnia  poprzez  zorganizowanie  bezpłatnego  transportu  i opieki  w czasie  przewozu dzieci,  młodzieży  i uczniów  we  własnym  zakresie  albo  poprzez  zwrot  rodzicom kosztów przewozu dzieci, młodzieży i uczniów oraz rodziców.
+1. Obowiązki, o których mowa w art. 32 ust. 6 i art. 39 ust. 4, gmina spełnia poprzez zorganizowanie bezpłatnego transportu i opieki w czasie przewozu
 
 02.12.2019
 
@@ -1675,30 +1677,34 @@ s. 53/216
 
 s. 54/216
 
-- Zwrot kosztów jednorazowego przewozu następuje w wysokości określonej według wzoru:
+dzieci, młodzieży i uczniów we własnym zakresie albo poprzez zwrot rodzicom kosztów przewozu dzieci, młodzieży i uczniów oraz rodziców.
+
+2. Zwrot kosztów jednorazowego przewozu następuje w wysokości określonej według wzoru:
+
+𝑘𝑜𝑠𝑧𝑡 = (𝑎 − 𝑏) ∗ 𝑐 ∗ 𝑑/100
 
 gdzie:
 
-- a liczba kilometrów przewozu drogami publicznymi z miejsca zamieszkania do przedszkola, oddziału przedszkolnego w szkole podstawowej, innej formy wychowania przedszkolnego, ośrodka rewalidacyjno-wychowawczego, szkoły podstawowej albo szkoły ponadpodstawowej, a także przewozu rodzica z tego miejsca do miejsca zamieszkania lub miejsca pracy, i z powrotem,
+a – liczba kilometrów przewozu drogami publicznymi z miejsca zamieszkania do przedszkola, oddziału przedszkolnego w szkole podstawowej, innej formy wychowania przedszkolnego, ośrodka rewalidacyjno-wychowawczego, szkoły podstawowej albo szkoły ponadpodstawowej, a także przewozu rodzica z tego miejsca do miejsca zamieszkania lub miejsca pracy, i z powrotem,
 
-- b liczba kilometrów przewozu drogami publicznymi z miejsca zamieszkania rodzica do miejsca pracy i z powrotem,  jeżeli nie wykonywałby przewozu, o którym mowa w lit. a,
+b – liczba kilometrów przewozu drogami publicznymi z miejsca zamieszkania rodzica do miejsca pracy i z powrotem, jeżeli nie wykonywałby przewozu, o którym mowa w lit. a,
 
-- c średnia cena jednostki paliwa w danej  gminie właściwego dla danego pojazdu,
+c – średnia cena jednostki paliwa w danej gminie właściwego dla danego pojazdu,
 
-- d średnie  zużycie  paliwa  w jednostkach  na  100 kilometrów  dla  danego pojazdu według danych producenta pojazdu.
+d – średnie zużycie paliwa w jednostkach na 100 kilometrów dla danego pojazdu według danych producenta pojazdu.
 
-- Średnią cenę jednostki paliwa w gminie określa na każdy rok szkolny rada gminy, w drodze uchwały, uwzględniając ceny jednostki paliwa w gminie.
+3. Średnią cenę jednostki paliwa w gminie określa na każdy rok szkolny rada gminy, w drodze uchwały, uwzględniając ceny jednostki paliwa w gminie.
 
-- Zwrot kosztów przewozu, o którym mowa w ust. 1, następuje na podstawie umowy zawartej między wójtem (burmistrzem, prezydentem miasta) a rodzicami.
+4. Zwrot kosztów przewozu, o którym mowa w ust. 1, następuje na podstawie umowy zawartej między wójtem (burmistrzem, prezydentem miasta) a rodzicami.
 
-- Wójt  (burmistrz,  prezydent  miasta)  zawiera  z rodzicami  umowę,  o której mowa w ust. 4, w terminie 14 dni od dnia uzyskania informacji, że dowożenie i opiekę zapewniają rodzice.
+5. Wójt (burmistrz, prezydent miasta) zawiera z rodzicami umowę, o której mowa w ust. 4, w terminie 14 dni od dnia uzyskania informacji, że dowożenie i opiekę zapewniają rodzice.
 
-- Jeżeli  rodzice  powierzyli  wykonywanie  transportu  i sprawowanie  opieki w czasie przewozu innemu podmiotowi, kwotę zwrotu kosztów przewozu ustala się zgodnie z ust. 2.
+6. Jeżeli rodzice powierzyli wykonywanie transportu i sprawowanie opieki w czasie przewozu innemu podmiotowi, kwotę zwrotu kosztów przewozu ustala się zgodnie z ust. 2.
 
 ##### Art. 40.
 1. Rodzice dziecka podlegającego obowiązkowi szkolnemu są obowiązani do:
 
-- dopełnienia czynności związanych ze zgłoszeniem dziecka do szkoły;
+1) dopełnienia czynności związanych ze zgłoszeniem dziecka do szkoły;
 
 02.12.2019
 
@@ -1710,11 +1716,11 @@ gdzie:
 
 s. 55/216
 
-- zapewnienia regularnego uczęszczania dziecka na zajęcia szkolne;
+2) zapewnienia regularnego uczęszczania dziecka na zajęcia szkolne;
 
-- zapewnienia dziecku warunków umożliwiających przygotowywanie się do zajęć;
+3) zapewnienia dziecku warunków umożliwiających przygotowywanie się do zajęć;
 
-- informowania, w terminie do dnia 30 września każdego roku, dyrektora szkoły podstawowej,  w obwodzie  której  dziecko  mieszka,  o realizacji  obowiązku szkolnego spełnianego w sposób określony w art. 36 ust. 10 lub 11.
+4) informowania, w terminie do dnia 30 września każdego roku, dyrektora szkoły podstawowej, w obwodzie której dziecko mieszka, o realizacji obowiązku szkolnego spełnianego w sposób określony w art. 36 ust. 10 lub 11.
 
 2. Rodzice dziecka podlegającego obowiązkowi nauki, na żądanie wójta gminy (burmistrza,  prezydenta  miasta),  na  terenie  której  dziecko  mieszka,  są  obowiązani informować go o formie spełniania obowiązku nauki przez dziecko i zmianach w tym zakresie.
 
@@ -1723,18 +1729,18 @@ s. 55/216
 ##### Art. 41.
 1.  Dyrektorzy publicznych szkół podstawowych kontrolują spełnianie obowiązku  szkolnego  przez  dzieci  zamieszkałe  w obwodach  tych  szkół,  a gmina kontroluje  spełnianie  obowiązku  nauki  przez  młodzież  zamieszkałą  na  terenie  tej gminy, w tym odpowiednio:
 
-- kontrolują wykonywanie obowiązków, o których mowa w art. 40 ust. 1 pkt 1, 2 i 4, a także współdziałają z rodzicami w realizacji obowiązków, o których mowa w art. 40 ust. 1 pkt 3 i ust. 3;
+1) kontrolują wykonywanie obowiązków, o których mowa w art. 40 ust. 1 pkt 1, 2 i 4, a także współdziałają z rodzicami w realizacji obowiązków, o których mowa w art. 40 ust. 1 pkt 3 i ust. 3;
 
-- prowadzą ewidencję spełniania obowiązku szkolnego oraz obowiązku nauki.
+2) prowadzą ewidencję spełniania obowiązku szkolnego oraz obowiązku nauki.
 
-2. Wójt  gminy  (burmistrz,  prezydent  miasta)  jest  obowiązany  przekazywać dyrektorom publicznych szkół podstawowych na obszarze gminy informacje o aktualnym stanie i zmianach w ewidencji dzieci i młodzieży w wieku 3-18 lat.
+2. Wójt gminy (burmistrz, prezydent miasta) jest obowiązany przekazywać dyrektorom publicznych szkół podstawowych na obszarze gminy informacje o aktualnym stanie i zmianach w ewidencji dzieci i młodzieży w wieku 3–18 lat.
 
 ##### Art. 42.
 1. Niespełnianie obowiązku, o którym mowa w art. 31 ust. 4, obowiązku  szkolnego  lub  obowiązku  nauki  podlega  egzekucji  w trybie  przepisów o postępowaniu egzekucyjnym w administracji.
 
 2. Przez  niespełnienie  obowiązku,  o którym  mowa  w art. 31 ust. 4,  obowiązku szkolnego lub  obowiązku nauki należy rozumieć nieusprawiedliwioną nieobecność w okresie jednego miesiąca na co najmniej 50%:
 
-- dni zajęć w przedszkolu, oddziale przedszkolnym w szkole podstawowej, innej formie wychowania przedszkolnego, szkole podstawowej, szkole ponadpodstawowej lub placówce;
+1) dni zajęć w przedszkolu, oddziale przedszkolnym w szkole podstawowej, innej formie wychowania przedszkolnego, szkole podstawowej, szkole ponadpodstawowej lub placówce;
 
 02.12.2019
 
@@ -1746,7 +1752,7 @@ s. 55/216
 
 s. 56/216
 
-- zajęć w przypadku spełniania obowiązku nauki w sposób określony w art. 36 ust. 9 pkt 2 i w przepisach wydanych na podstawie art. 36 ust. 16.
+2) zajęć w przypadku spełniania obowiązku nauki w sposób określony w art. 36 ust. 9 pkt 2 i w przepisach wydanych na podstawie art. 36 ust. 16.
 
 ### Rozdział 3
 
@@ -1760,29 +1766,29 @@ Minister właściwy do spraw oświaty i wychowania koordynuje i realizuje polity
 
 2. Działania, o których mowa w ust. 1, dotyczą:
 
-- efektów  w zakresie  kształcenia,  wychowania  i opieki  oraz  realizacji  celów i zadań statutowych;
+1) efektów w zakresie kształcenia, wychowania i opieki oraz realizacji celów i zadań statutowych;
 
-- organizacji procesów kształcenia, wychowania i opieki;
+2) organizacji procesów kształcenia, wychowania i opieki;
 
-- tworzenia warunków do rozwoju i aktywności, w tym kreatywności, uczniów;
+3) tworzenia warunków do rozwoju i aktywności, w tym kreatywności, uczniów;
 
-- współpracy z rodzicami i środowiskiem lokalnym;
+4) współpracy z rodzicami i środowiskiem lokalnym;
 
-- zarządzania szkołą lub placówką.
+5) zarządzania szkołą lub placówką.
 
 3. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, w odniesieniu do różnych typów szkół i rodzajów placówek, wymagania wobec szkół i placówek, dotyczące prawidłowości i skuteczności działań, o których mowa w ust. 1, w zakresie:
 
-- przebiegu procesów kształcenia, wychowania i opieki;
+1) przebiegu procesów kształcenia, wychowania i opieki;
 
-- umożliwienia  każdemu  uczniowi  rozwoju  na  miarę  jego  indywidualnych możliwości;
+2) umożliwienia każdemu uczniowi rozwoju na miarę jego indywidualnych możliwości;
 
-- podejmowania przez szkołę lub placówkę działań podnoszących jakość jej pracy;
+3) podejmowania przez szkołę lub placówkę działań podnoszących jakość jej pracy;
 
-- angażowania uczniów, rodziców i nauczycieli w działania szkoły lub placówki;
+4) angażowania uczniów, rodziców i nauczycieli w działania szkoły lub placówki;
 
-- współpracy ze środowiskiem lokalnym;
+5) współpracy ze środowiskiem lokalnym;
 
-- uzyskiwanych efektów kształcenia i wychowania;
+6) uzyskiwanych efektów kształcenia i wychowania;
 
 02.12.2019
 
@@ -1794,16 +1800,16 @@ Minister właściwy do spraw oświaty i wychowania koordynuje i realizuje polity
 
 s. 57/216
 
-- aktywności uczniów i ich rozwoju osiąganego adekwatnie do potrzeb i możliwości;
+7) aktywności uczniów i ich rozwoju osiąganego adekwatnie do potrzeb i możliwości;
 
-- doskonalenia  pracy  szkoły  lub  placówki  przy  zaangażowaniu  społeczności szkolnej i środowiska lokalnego.
+8) doskonalenia pracy szkoły lub placówki przy zaangażowaniu społeczności szkolnej i środowiska lokalnego.
 
 ##### Art. 45.
-1.  Szkoła  lub  placówka  może  realizować  eksperyment pedagogiczny, który polega na modyfikacji istniejących lub wdrożeniu nowych działań w procesie kształcenia, przy zastosowaniu nowatorskich rozwiązań programowych, organizacyjnych, metodycznych lub wychowawczych, w ramach których są modyfikowane warunki, organizacja zajęć edukacyjnych lub zakres treści nauczania, w szczególności określone w art. 14 ust. 1 pkt 3-5.
+1. Szkoła lub placówka może realizować eksperyment pedagogiczny, który polega na modyfikacji istniejących lub wdrożeniu nowych działań w procesie kształcenia, przy zastosowaniu nowatorskich rozwiązań programowych, organizacyjnych, metodycznych lub wychowawczych, w ramach których są modyfikowane warunki, organizacja zajęć edukacyjnych lub zakres treści nauczania, w szczególności określone w art. 14 ust. 1 pkt 3–5.
 
 2. Celem eksperymentu pedagogicznego realizowanego w szkole lub placówce jest rozwijanie kompetencji i wiedzy uczniów oraz nauczycieli.
 
-3. Eksperyment pedagogiczny jest przeprowadzany pod opieką podmiotu w rozumieniu art. 7 ust. 1 pkt 1, 2 i 4-6, 7 i 8 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie  wyższym  i nauce  (Dz. U.  poz. 1668,  z  późn.  zm. 2) ),  zwanego  dalej 'jednostką  naukową',  a w przypadku  eksperymentu  pedagogicznego  dotyczącego zawodu  nieokreślonego w klasyfikacji  zawodów  szkolnictwa  branżowego  albo klasyfikacji  zawodów  szkolnictwa  artystycznego  -  pod  opieką  jednostki  naukowej właściwej dla danego zawodu.
+3. Eksperyment pedagogiczny jest przeprowadzany pod opieką podmiotu w rozumieniu art. 7 ust. 1 pkt 1, 2 i 4–6, 7 i 8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.2)), zwanego dalej „jednostką naukową”, a w przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego albo klasyfikacji zawodów szkolnictwa artystycznego – pod opieką jednostki naukowej właściwej dla danego zawodu.
 
 4. Eksperyment  pedagogiczny  realizowany  w szkole  lub  placówce nie  może prowadzić do zmiany typu szkoły lub rodzaju placówki.
 
@@ -1827,15 +1833,15 @@ s. 58/216
 
 7. Eksperyment  pedagogiczny  może  obejmować  całą  szkołę  lub  placówkę, oddział, grupę lub wybrane zajęcia edukacyjne.
 
-8. Prowadzenie eksperymentu pedagogicznego w szkole lub placówce wymaga zgody ministra właściwego do spraw oświaty i wychowania, a w przypadku szkoły artystycznej -ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
+8. Prowadzenie eksperymentu pedagogicznego w szkole lub placówce wymaga zgody ministra właściwego do spraw oświaty i wychowania, a w przypadku szkoły artystycznej – ministra właściwego do spraw kultury i ochrony dziedzictwa narododowego.
 
-8a. Minister  właściwy  do  spraw  oświaty  i wychowania  wyraża  zgodę  na prowadzenie eksperymentu pedagogicznego, po uzyskaniu pozytywnej opinii ministra właściwego  dla zawodu,  a w przypadku zawodu  nieokreślonego w klasyfikacji zawodów  szkolnictwa  branżowego  -  ministra,  który  ze  względu  na  zakres  działu administracji rządowej, którym kieruje, jest właściwy dla zawodu, którego dotyczy wniosek, o którym mowa w ust. 9.
+8a. Minister właściwy do spraw oświaty i wychowania wyraża zgodę na prowadzenie eksperymentu pedagogicznego, po uzyskaniu pozytywnej opinii ministra właściwego dla zawodu, a w przypadku zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego – ministra, który ze względu na zakres działu administracji rządowej, którym kieruje, jest właściwy dla zawodu, którego dotyczy wniosek, o którym mowa w ust. 9.
 
 8b. Minister, o którym mowa  w ust. 8a, może wydać opinię pozytywną, negatywną  albo  pozytywną  pod  warunkiem  wprowadzenia  we  wniosku  zmian wskazanych przez tego ministra.
 
-8c. W przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego  w klasyfikacji  zawodów  szkolnictwa  branżowego  zgoda  ministra właściwego  do  spraw  oświaty  i wychowania,  o której  mowa  w ust. 8a,  obejmuje przypisanie  do  kwalifikacji  wyodrębnionych  w tym  zawodzie  oraz  do  zawodu poziomu Polskiej Ramy Kwalifikacji. Dokonując przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionych w zawodzie oraz zawodu, stosuje się przepisy art. 21 ust. 1-3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji.
+8c. W przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego zgoda ministra właściwego do spraw oświaty i wychowania, o której mowa w ust. 8a, obejmuje przypisanie do kwalifikacji wyodrębnionych w tym zawodzie oraz do zawodu poziomu Polskiej Ramy Kwalifikacji. Dokonując przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionych w zawodzie oraz zawodu, stosuje się przepisy art. 21 ust. 1–3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji.
 
-9. Dyrektor szkoły lub placówki, na podstawie uchwały rady pedagogicznej i po uzyskaniu opinii rady rodziców, występuje do ministra właściwego do spraw oświaty i wychowania, a w przypadku szkoły artystycznej - do ministra właściwego do spraw kultury  i ochrony  dziedzictwa  narodowego,  z wnioskiem  o wyrażenie  zgody  na prowadzenie  eksperymentu  pedagogicznego  w szkole  lub  placówce,  w terminie  do dnia 31 marca roku szkolnego poprzedzającego rok szkolny, w którym jest planowane rozpoczęcie tego eksperymentu.
+9. Dyrektor szkoły lub placówki, na podstawie uchwały rady pedagogicznej i po uzyskaniu opinii rady rodziców, występuje do ministra właściwego do spraw oświaty i wychowania, a w przypadku szkoły artystycznej – do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, z wnioskiem o wyrażenie zgody na prowadzenie eksperymentu pedagogicznego w szkole lub placówce, w terminie do
 
 02.12.2019
 
@@ -1847,23 +1853,25 @@ s. 58/216
 
 s. 59/216
 
-10. Wniosek,  o którym  mowa  w ust. 9,  składa  się  za  pośrednictwem  kuratora oświaty,  a w przypadku  szkoły  artystycznej  -  za  pośrednictwem  specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1, którzy dołączają swoją opinię.
+dnia 31 marca roku szkolnego poprzedzającego rok szkolny, w którym jest planowane rozpoczęcie tego eksperymentu.
 
-11. Wniosek,  o którym  mowa  w ust. 9,  określa  cel,  założenia,  czas  trwania i sposób realizacji  eksperymentu  pedagogicznego,  a w przypadku  eksperymentu pedagogicznego dotyczącego zawodu  nieokreślonego w  klasyfikacji  zawodów szkolnictwa  branżowego  albo  klasyfikacji  zawodów  szkolnictwa  artystycznego  także uzasadnienie potrzeby prowadzenia kształcenia w danym zawodzie. Do wniosku dołącza się:
+10. Wniosek, o którym mowa w ust. 9, składa się za pośrednictwem kuratora oświaty, a w przypadku szkoły artystycznej – za pośrednictwem specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1, którzy dołączają swoją opinię.
 
-- opinię  jednostki  naukowej  dotyczącą  założeń  eksperymentu  pedagogicznego wraz ze zgodą tej jednostki na sprawowanie opieki nad przebiegiem eksperymentu;
+11. Wniosek, o którym mowa w ust. 9, określa cel, założenia, czas trwania i sposób realizacji eksperymentu pedagogicznego, a w przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego albo klasyfikacji zawodów szkolnictwa artystycznego – także uzasadnienie potrzeby prowadzenia kształcenia w danym zawodzie. Do wniosku dołącza się:
 
-- zgodę rady pedagogicznej wyrażoną w uchwale, o której mowa w ust. 9, opinię rady szkoły lub placówki oraz opinię rady rodziców;
+1) opinię jednostki naukowej dotyczącą założeń eksperymentu pedagogicznego wraz ze zgodą tej jednostki na sprawowanie opieki nad przebiegiem eksperymentu;
 
-- w przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego albo klasyfikacji zawodów szkolnictwa artystycznego:
+2) zgodę rady pedagogicznej wyrażoną w uchwale, o której mowa w ust. 9, opinię rady szkoły lub placówki oraz opinię rady rodziców;
 
-- podstawę programową kształcenia w zawodzie, sporządzoną z uwzględnieniem  charakterystyk  poziomów  Polskiej  Ramy  Kwalifikacji pierwszego i drugiego stopnia, oraz  propozycję przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionej w zawodzie,
+3) w przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego albo klasyfikacji zawodów szkolnictwa artystycznego:
 
-- program nauczania zawodu,
+a) podstawę programową kształcenia w zawodzie, sporządzoną z uwzględnieniem charakterystyk poziomów Polskiej Ramy Kwalifikacji pierwszego i drugiego stopnia, oraz propozycję przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionej w zawodzie,
 
-- tygodniowy lub semestralny rozkład zajęć,
+b) program nauczania zawodu,
 
-- pozytywną opinię wojewódzkiej rady rynku pracy o zasadności kształcenia w danym  zawodzie  zgodnie  z potrzebami  rynku  pracy,  o której  mowa w art. 22 ust. 5 pkt 5 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2018 r. poz. 1265, z późn. zm. 3) ),
+c) tygodniowy lub semestralny rozkład zajęć,
+
+d) pozytywną opinię wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 22 ust. 5 pkt 5 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2018 r. poz. 1265, z późn. zm.3)),
 
 > 3) Zmiany tekstu jednolitego  wymienionej ustawy zostały ogłoszone  w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192, 2215, 2245, 2432 i 2435 oraz z 2019 r. poz. 60, 577, 622, 730 i 743.
 
@@ -1877,15 +1885,15 @@ s. 59/216
 
 s. 60/216
 
-- pozytywną opinię dotyczącą zawartości merytorycznej programu nauczania zawodu wydaną przez:
+e) pozytywną opinię dotyczącą zawartości merytorycznej programu nauczania zawodu wydaną przez:
 
--jednostkę naukową właściwą dla zawodu oraz
+– jednostkę naukową właściwą dla zawodu oraz
 
--organizację pracodawców, samorząd gospodarczy lub inną organizację gospodarczą, stowarzyszenie lub samorząd zawodowy, lub pracodawcę, właściwych  dla  zawodu,  którego  dotyczy  wniosek,  o którym  mowa w ust. 9,
+– organizację pracodawców, samorząd gospodarczy lub inną organizację gospodarczą, stowarzyszenie lub samorząd zawodowy, lub pracodawcę, właściwych dla zawodu, którego dotyczy wniosek, o którym mowa w ust. 9,
 
-- harmonogram  realizacji  eksperymentu  pedagogicznego  oraz  informację o niezbędnych  warunkach  prowadzenia  eksperymentu,  w tym  warunkach lokalowych, finansowych, wyposażeniu oraz kadrze,
+f) harmonogram realizacji eksperymentu pedagogicznego oraz informację o niezbędnych warunkach prowadzenia eksperymentu, w tym warunkach lokalowych, finansowych, wyposażeniu oraz kadrze,
 
-- przykładowe zestawy zadań egzaminacyjnych - w przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego. >
+g) przykładowe zestawy zadań egzaminacyjnych – w przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego.
 
 11a. W przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego  w klasyfikacji  zawodów  szkolnictwa  branżowego  wniosek  może dotyczyć wyłącznie jednego cyklu kształcenia, w którym będzie prowadzony eksperyment.
 
@@ -1895,7 +1903,7 @@ s. 60/216
 
 12. Jeżeli planowany eksperyment pedagogiczny wymaga przyznania szkole lub placówce dodatkowych środków budżetowych, do wniosku dołącza się pisemną zgodę organu prowadzącego szkołę lub placówkę na finansowanie planowanych działań.
 
-12a. Dyrektor  szkoły  lub  placówki  prowadzącej  eksperyment  pedagogiczny przekazuje  organowi  sprawującemu  nadzór  pedagogiczny,  nie  później  niż  do  dnia 30 września, sprawozdanie z realizacji eksperymentu w poprzednim roku szkolnym, zawierające wyniki i wnioski z przeprowadzonego  przez dyrektora szkoły lub placówki nadzoru pedagogicznego w zakresie realizowanego eksperymentu pedagogicznego, a w przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego  w klasyfikacji  zawodów  szkolnictwa  branżowego  albo  klasyfikacji zawodów szkolnictwa artystycznego - także informację o realizacji harmonogramu, o którym mowa w ust. 11 pkt 3 lit. f. Do sprawozdania dołącza się opinię jednostki naukowej sprawującej opiekę nad przebiegiem eksperymentu pedagogicznego.
+12a. Dyrektor szkoły lub placówki prowadzącej eksperyment pedagogiczny przekazuje organowi sprawującemu nadzór pedagogiczny, nie później niż do dnia 30 września, sprawozdanie z realizacji eksperymentu w poprzednim roku szkolnym,
 
 02.12.2019
 
@@ -1907,13 +1915,15 @@ s. 60/216
 
 s. 61/216
 
-13. Dyrektor  szkoły  lub  placówki  prowadzącej  eksperyment  pedagogiczny przekazuje  bezpośrednio  po jego  zakończeniu  ministrowi  właściwemu  do  spraw oświaty i wychowania, a w przypadku szkoły artystycznej - ministrowi właściwemu do  spraw  kultury  i ochrony  dziedzictwa  narodowego,  sprawozdanie  zawierające wnioski z przeprowadzonego eksperymentu pedagogicznego, a w przypadku eksperymentu  pedagogicznego  dotyczącego  zawodu  nieokreślonego  w klasyfikacji zawodów szkolnictwa branżowego albo klasyfikacji zawodów szkolnictwa artystycznego - także wnioski dotyczące potrzeby wprowadzenia tego zawodu do tej klasyfikacji. Do sprawozdania dołącza się opinię jednostki naukowej, która sprawuje opiekę nad przebiegiem eksperymentu pedagogicznego, a w przypadku eksperymentu pedagogicznego dotyczącego zawodu  nieokreślonego w  klasyfikacji  zawodów szkolnictwa  branżowego  albo  klasyfikacji  zawodów  szkolnictwa  artystycznego  także opinię organizacji pracodawców, samorządu gospodarczego lub innej organizacji gospodarczej, stowarzyszenia lub samorządu zawodowego, pracodawcy, właściwych dla danego zawodu.
+zawierające wyniki i wnioski z przeprowadzonego przez dyrektora szkoły lub placówki nadzoru pedagogicznego w zakresie realizowanego eksperymentu pedagogicznego, a w przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego albo klasyfikacji zawodów szkolnictwa artystycznego – także informację o realizacji harmonogramu, o którym mowa w ust. 11 pkt 3 lit. f. Do sprawozdania dołącza się opinię jednostki naukowej sprawującej opiekę nad przebiegiem eksperymentu pedagogicznego.
+
+13. Dyrektor szkoły lub placówki prowadzącej eksperyment pedagogiczny przekazuje bezpośrednio po jego zakończeniu ministrowi właściwemu do spraw oświaty i wychowania, a w przypadku szkoły artystycznej – ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego, sprawozdanie zawierające wnioski z przeprowadzonego eksperymentu pedagogicznego, a w przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego albo klasyfikacji zawodów szkolnictwa artystycznego – także wnioski dotyczące potrzeby wprowadzenia tego zawodu do tej klasyfikacji. Do sprawozdania dołącza się opinię jednostki naukowej, która sprawuje opiekę nad przebiegiem eksperymentu pedagogicznego, a w przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego albo klasyfikacji zawodów szkolnictwa artystycznego – także opinię organizacji pracodawców, samorządu gospodarczego lub innej organizacji gospodarczej, stowarzyszenia lub samorządu zawodowego, pracodawcy, właściwych dla danego zawodu.
 
 13a. W przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego wnioski dotyczące potrzeby wprowadzenia tego zawodu do tej klasyfikacji minister właściwy do spraw oświaty i wychowania przekazuje do ministra właściwego dla zawodu.
 
 14. Sprawozdanie,  o którym  mowa  w ust. 13, dyrektor  szkoły  lub  placówki przekazuje  także  organowi  prowadzącemu  oraz  organowi  sprawującemu  nadzór pedagogiczny.
 
-15. Sprawozdanie,  o którym  mowa  w ust. 13,  składa  się  za  pośrednictwem kuratora oświaty, a w przypadku szkoły artystycznej -za pośrednictwem specjalistycznej  jednostki  nadzoru,  o której  mowa  w art. 53 ust. 1,  którzy  dołączają swoją opinię.
+15. Sprawozdanie, o którym mowa w ust. 13, składa się za pośrednictwem kuratora oświaty, a w przypadku szkoły artystycznej – za pośrednictwem specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1, którzy dołączają swoją opinię.
 
 02.12.2019
 
@@ -1928,29 +1938,29 @@ s. 62/216
 ##### Art. 46.
 1. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
-- ogólne cele i zadania kształcenia w zawodach szkolnictwa branżowego,
+1) ogólne cele i zadania kształcenia w zawodach szkolnictwa branżowego,
 
-- klasyfikację zawodów szkolnictwa branżowego, określającą:
+2) klasyfikację zawodów szkolnictwa branżowego, określającą:
 
-- branże oraz zawody przyporządkowane do branż,
+a) branże oraz zawody przyporządkowane do branż,
 
-- kwalifikacje wyodrębnione w zawodzie,
+b) kwalifikacje wyodrębnione w zawodzie,
 
-- poziom Polskiej Ramy  Kwalifikacji dla kwalifikacji wyodrębnionej w zawodzie lub kwalifikacji pełnej, o której mowa w art. 8 pkt 3a, 4a, 5a i 7a ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji,
+c) poziom Polskiej Ramy Kwalifikacji dla kwalifikacji wyodrębnionej w zawodzie lub kwalifikacji pełnej, o której mowa w art. 8 pkt 3a, 4a, 5a i 7a ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji,
 
-- ministra właściwego dla zawodu,
+d) ministra właściwego dla zawodu,
 
-- typy szkół ponadpodstawowych, w których może odbywać się kształcenie w zawodzie,
+e) typy szkół ponadpodstawowych, w których może odbywać się kształcenie w zawodzie,
 
-- kwalifikacje  wyodrębnione  w zawodzie,  w zakresie  których  kształcenie może być prowadzone na kwalifikacyjnym kursie zawodowym lub kursie umiejętności zawodowych,
+f) kwalifikacje wyodrębnione w zawodzie, w zakresie których kształcenie może być prowadzone na kwalifikacyjnym kursie zawodowym lub kursie umiejętności zawodowych,
 
-- szczególne uwarunkowania związane z kształceniem w zawodzie lub kwalifikacji wyodrębnionej w zawodzie, w szczególności związane z formą kształcenia lub kształceniem osób niepełnosprawnych,
+g) szczególne uwarunkowania związane z kształceniem w zawodzie lub kwalifikacji wyodrębnionej w zawodzie, w szczególności związane z formą kształcenia lub kształceniem osób niepełnosprawnych,
 
-- podstawy programowe kształcenia w zawodach szkolnictwa branżowego,
+3) podstawy programowe kształcenia w zawodach szkolnictwa branżowego,
 
-- dodatkowe  umiejętności  zawodowe  w zakresie  wybranych  zawodów  oraz zestawy celów kształcenia i treści nauczania opisanych w formie oczekiwanych efektów  kształcenia:  wiedzy,  umiejętności  zawodowych  oraz  kompetencji personalnych i społecznych w odniesieniu do tych umiejętności
+4) dodatkowe umiejętności zawodowe w zakresie wybranych zawodów oraz zestawy celów kształcenia i treści nauczania opisanych w formie oczekiwanych efektów kształcenia: wiedzy, umiejętności zawodowych oraz kompetencji personalnych i społecznych w odniesieniu do tych umiejętności
 
-- z uwzględnieniem  wniosku  ministra  właściwego  dla  zawodu,  o którym  mowa w ust. 2,  klasyfikacji  zawodów  i specjalności  na  potrzeby  rynku  pracy  w zakresie nazwy  i symbolu  cyfrowego  zawodu  oraz  możliwości  podnoszenia  kwalifikacji, kierując się potrzebą zapewnienia wysokiej jakości kształcenia zawodowego i dostosowania go do potrzeb rynku pracy.
+– z uwzględnieniem wniosku ministra właściwego dla zawodu, o którym mowa w ust. 2, klasyfikacji zawodów i specjalności na potrzeby rynku pracy w zakresie nazwy i symbolu cyfrowego zawodu oraz możliwości podnoszenia kwalifikacji, kierując się potrzebą zapewnienia wysokiej jakości kształcenia zawodowego i dostosowania go do potrzeb rynku pracy.
 
 2. Zmiany w przepisach wydanych na podstawie ust. 1, w zakresie wprowadzenia, zmiany albo wykreślenia zawodu, kwalifikacji wyodrębnionej w zawodzie  lub  dodatkowych  umiejętności  zawodowych,  następują  na  wniosek ministra właściwego dla zawodu.
 
@@ -1966,23 +1976,23 @@ s. 63/216
 
 3. Wniosek, o którym mowa w ust. 2, określa:
 
-- nazwę zawodu i symbol cyfrowy zawodu odpowiadające nazwie i symbolowi cyfrowemu zawodu w klasyfikacji  zawodów i specjalności  na  potrzeby  rynku pracy, jeżeli zostały określone w tej klasyfikacji, nazwę kwalifikacji wyodrębnionej w zawodzie lub dodatkowych umiejętności zawodowych;
+1) nazwę zawodu i symbol cyfrowy zawodu odpowiadające nazwie i symbolowi cyfrowemu zawodu w klasyfikacji zawodów i specjalności na potrzeby rynku pracy, jeżeli zostały określone w tej klasyfikacji, nazwę kwalifikacji wyodrębnionej w zawodzie lub dodatkowych umiejętności zawodowych;
 
-- opis zawodu, kwalifikacji wyodrębnionej w zawodzie lub dodatkowych umiejętności zawodowych, wraz z propozycją zestawu oczekiwanych efektów kształcenia  niezbędnych  dla  zawodu,  kwalifikacji  wyodrębnionej  w zawodzie lub  dodatkowych  umiejętności  zawodowych,  oraz  kryteriów  weryfikacji  tych efektów,  sporządzonego  z uwzględnieniem  charakterystyk  poziomów  Polskiej Ramy Kwalifikacji pierwszego i drugiego stopnia, a w przypadku wprowadzenia lub  zmiany  dotyczącej  zawodu  lub  kwalifikacji  wyodrębnionej  w zawodzie  także propozycję przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionej w zawodzie lub kwalifikacji pełnej, o której mowa w art. 8 pkt 3a, 4a, 5a i 7a ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji;
+2) opis zawodu, kwalifikacji wyodrębnionej w zawodzie lub dodatkowych umiejętności zawodowych, wraz z propozycją zestawu oczekiwanych efektów kształcenia niezbędnych dla zawodu, kwalifikacji wyodrębnionej w zawodzie lub dodatkowych umiejętności zawodowych, oraz kryteriów weryfikacji tych efektów, sporządzonego z uwzględnieniem charakterystyk poziomów Polskiej Ramy Kwalifikacji pierwszego i drugiego stopnia, a w przypadku wprowadzenia lub zmiany dotyczącej zawodu lub kwalifikacji wyodrębnionej w zawodzie – także propozycję przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionej w zawodzie lub kwalifikacji pełnej, o której mowa w art. 8 pkt 3a, 4a, 5a i 7a ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji;
 
-- uzasadnienie potrzeby wprowadzenia,  wykreślenia  lub zmiany  dotyczącej zawodu, kwalifikacji wyodrębnionej w zawodzie lub dodatkowych umiejętności zawodowych, zawierające w szczególności analizę potrzeb rynku pracy w zakresie zawodu, kwalifikacji lub dodatkowych umiejętności;
+3) uzasadnienie potrzeby wprowadzenia, wykreślenia lub zmiany dotyczącej zawodu, kwalifikacji wyodrębnionej w zawodzie lub dodatkowych umiejętności zawodowych, zawierające w szczególności analizę potrzeb rynku pracy w zakresie zawodu, kwalifikacji lub dodatkowych umiejętności;
 
-- informację o możliwości podnoszenia kwalifikacji w ramach systemu oświaty;
+4) informację o możliwości podnoszenia kwalifikacji w ramach systemu oświaty;
 
-- informację  o potencjalnych  miejscach  realizacji  praktycznej  nauki  zawodu w zawodzie lub kwalifikacji wyodrębnionej w zawodzie oraz informację o potencjalnych  miejscach  przeprowadzania  egzaminu  zawodowego  w części praktycznej;
+5) informację o potencjalnych miejscach realizacji praktycznej nauki zawodu w zawodzie lub kwalifikacji wyodrębnionej w zawodzie oraz informację o potencjalnych miejscach przeprowadzania egzaminu zawodowego w części praktycznej;
 
-- ministra właściwego dla zawodu;
+6) ministra właściwego dla zawodu;
 
-- typy  szkół  ponadpodstawowych,  w których  może  odbywać  się  kształcenie w zawodzie;
+7) typy szkół ponadpodstawowych, w których może odbywać się kształcenie w zawodzie;
 
-- kwalifikację wyodrębnioną w zawodzie, w zakresie której kształcenie może być prowadzone  na  kwalifikacyjnym  kursie  zawodowym  lub  kursie  umiejętności zawodowych;
+8) kwalifikację wyodrębnioną w zawodzie, w zakresie której kształcenie może być prowadzone na kwalifikacyjnym kursie zawodowym lub kursie umiejętności zawodowych;
 
-- branżę, do której jest przyporządkowany zawód;
+9) branżę, do której jest przyporządkowany zawód;
 
 02.12.2019
 
@@ -1994,9 +2004,9 @@ s. 63/216
 
 s. 64/216
 
-- zawód o charakterze pomocniczym albo uzasadnienie braku możliwości kształcenia w takim zawodzie.
+10) zawód o charakterze pomocniczym albo uzasadnienie braku możliwości kształcenia w takim zawodzie.
 
-4. Do wniosku, o którym mowa  w ust. 2, dołącza się opinię organizacji pracodawców  reprezentatywnych w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie  Dialogu  Społecznego  i innych  instytucjach  dialogu  społecznego  (Dz. U. z 2018 r.  poz. 2232),  zwanej  dalej  'ustawą  o Radzie  Dialogu  Społecznego',  oraz opinię Komisji Wspólnej Rządu i Samorządu Terytorialnego.
+4. Do wniosku, o którym mowa w ust. 2, dołącza się opinię organizacji pracodawców reprezentatywnych w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232), zwanej dalej „ustawą o Radzie Dialogu Społecznego”, oraz opinię Komisji Wspólnej Rządu i Samorządu Terytorialnego.
 
 5. Wprowadzenie zawodu do klasyfikacji zawodów szkolnictwa branżowego nie może  nastąpić,  jeżeli  wszystkie  kwalifikacje  wyodrębnione  w tym  zawodzie  są tożsame ze wszystkimi kwalifikacjami wyodrębnionymi w zawodzie określonym w tej klasyfikacji.
 
@@ -2004,7 +2014,7 @@ s. 64/216
 
 7. Organizacje  pracodawców,  samorządy  gospodarcze  lub  inne  organizacje gospodarcze,  stowarzyszenia  lub  samorządy  zawodowe,  sektorowe  rady  do  spraw kompetencji oraz ogólnopolskie organizacje jednostek samorządu terytorialnego mogą występować  do  właściwych  ministrów  z propozycją  wprowadzenia  do  klasyfikacji zawodów  szkolnictwa  branżowego  zawodu,  wykreślenia  zawodu  lub  dokonania zmiany dotyczącej zawodu, kwalifikacji wyodrębnionej w zawodzie lub dodatkowych umiejętności zawodowych.
 
-8. Dokonując w rozporządzeniu, o którym mowa w ust. 1, przypisania poziomu Polskiej Ramy  Kwalifikacji do kwalifikacji wyodrębnionych  w zawodach  lub kwalifikacji pełnej, o której mowa w art. 8 pkt 3a, 4a, 5a i 7a ustawy z dnia 22 grudnia 2015 r.  o Zintegrowanym  Systemie  Kwalifikacji,  stosuje  się  odpowiednio  przepisy art. 21 ust. 1-3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji.
+8. Dokonując w rozporządzeniu, o którym mowa w ust. 1, przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionych w zawodach lub kwalifikacji pełnej, o której mowa w art. 8 pkt 3a, 4a, 5a i 7a ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji, stosuje się odpowiednio przepisy art. 21 ust. 1–3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji.
 
 ##### Art. 46a.
 1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia, klasyfikację zawodów szkolnictwa artystycznego, określającą:
@@ -2019,24 +2029,24 @@ s. 64/216
 
 s. 65/216
 
-- zawody,
+1) zawody,
 
-- specjalności lub specjalizacje realizowane w ramach kształcenia w zawodach,
+2) specjalności lub specjalizacje realizowane w ramach kształcenia w zawodach,
 
-- poziom  Polskiej  Ramy  Kwalifikacji  dla  kwalifikacji  pełnej,  o której  mowa w art. 8 pkt 6  ustawy  z dnia  22 grudnia  2015 r.  o Zintegrowanym  Systemie Kwalifikacji,
+3) poziom Polskiej Ramy Kwalifikacji dla kwalifikacji pełnej, o której mowa w art. 8 pkt 6 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji,
 
-- typy szkół artystycznych, w których może odbywać się kształcenie w zawodzie
+4) typy szkół artystycznych, w których może odbywać się kształcenie w zawodzie
 
--  z uwzględnieniem  klasyfikacji  zawodów  i specjalności  na  potrzeby  rynku  pracy w zakresie nazwy i symbolu cyfrowego zawodu, kierując się potrzebą dostosowania oferty edukacyjnej szkół artystycznych do potrzeb rynku pracy w zakresie zawodów szkolnictwa artystycznego.
+– z uwzględnieniem klasyfikacji zawodów i specjalności na potrzeby rynku pracy w zakresie nazwy i symbolu cyfrowego zawodu, kierując się potrzebą dostosowania oferty edukacyjnej szkół artystycznych do potrzeb rynku pracy w zakresie zawodów szkolnictwa artystycznego.
 
 2. Minister  właściwy  do  spraw  kultury  i ochrony  dziedzictwa  narodowego określi,  w drodze  rozporządzenia,  podstawy  programowe  kształcenia  w zawodach szkolnictwa artystycznego, uwzględniając potrzebę rozwijania zainteresowań i uzdolnień artystycznych uczniów oraz potrzeby rynku pracy w zakresie zawodów szkolnictwa artystycznego.
 
-3. Dokonując w rozporządzeniu, o którym mowa w ust. 1, przypisania poziomu Polskiej  Ramy  Kwalifikacji  do  kwalifikacji  pełnej,  o której  mowa  w art. 8 pkt 6 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji, stosuje się odpowiednio przepisy art. 21 ust. 1-3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji.
+3. Dokonując w rozporządzeniu, o którym mowa w ust. 1, przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji pełnej, o której mowa w art. 8 pkt 6 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji, stosuje się odpowiednio przepisy art. 21 ust. 1–3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji.
 
 ##### Art. 46b.
 1. Minister właściwy do spraw oświaty i wychowania ustala prognozę zapotrzebowania na pracowników w zawodach szkolnictwa branżowego na krajowym i wojewódzkim rynku pracy.
 
-2. Prognoza,  o której  mowa  w ust. 1,  jest  ustalana  w oparciu  o dane  Instytutu Badań  Edukacyjnych  w  Warszawie  opracowane  w szczególności  na  podstawie statystyki  publicznej,  w tym  na  podstawie  badania  dotyczącego  zapotrzebowania rynku pracy na absolwentów szkół prowadzących kształcenie w zawodach szkolnictwa  branżowego  prowadzonego  przez  Główny  Urząd  Statystyczny,  oraz danych  z Zakładu  Ubezpieczeń  Społecznych  w zakresie  ubezpieczeń  społecznych i danych systemu informacji oświatowej, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2018 r. poz. 1900 i 2245 oraz z 2019 r. poz. 60), oraz po zasięgnięciu opinii sektorowych rad do spraw kompetencji i Rady Programowej do spraw kompetencji, a także ministrów właściwych dla zawodów szkolnictwa branżowego.
+2. Prognoza, o której mowa w ust. 1, jest ustalana w oparciu o dane Instytutu Badań Edukacyjnych w Warszawie opracowane w szczególności na podstawie statystyki publicznej, w tym na podstawie badania dotyczącego zapotrzebowania rynku pracy na absolwentów szkół prowadzących kształcenie w zawodach szkolnictwa branżowego prowadzonego przez Główny Urząd Statystyczny, oraz danych z Zakładu Ubezpieczeń Społecznych w zakresie ubezpieczeń społecznych i danych systemu informacji oświatowej, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2018 r. poz. 1900 i 2245 oraz z 2019 r. poz. 60), oraz po zasięgnięciu opinii sektorowych rad do spraw
 
 02.12.2019
 
@@ -2048,40 +2058,40 @@ s. 65/216
 
 s. 66/216
 
-3. Prognozę,  o której  mowa  w ust. 1,  minister  właściwy  do  spraw  oświaty i wychowania ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej 'Monitor Polski', w terminie do dnia 1 lutego danego roku.
+kompetencji i Rady Programowej do spraw kompetencji, a także ministrów właściwych dla zawodów szkolnictwa branżowego.
 
-4. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego ustala wykaz  zawodów  szkolnictwa  branżowego  o szczególnym  znaczeniu  dla  kultury i dziedzictwa narodowego. Wykaz zawodów podlega ogłoszeniu, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej 'Monitor Polski'.
+3. Prognozę, o której mowa w ust. 1, minister właściwy do spraw oświaty i wychowania ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie do dnia 1 lutego danego roku.
+
+4. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego ustala wykaz zawodów szkolnictwa branżowego o szczególnym znaczeniu dla kultury i dziedzictwa narodowego. Wykaz zawodów podlega ogłoszeniu, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 ##### Art. 47.
 1. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
-- podstawę programową:
+1) podstawę programową:
 
-- wychowania przedszkolnego,
+a) wychowania przedszkolnego,
 
-- kształcenia ogólnego dla szkoły podstawowej, w tym dla uczniów z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym,
+b) kształcenia ogólnego dla szkoły podstawowej, w tym dla uczniów z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym,
 
-- kształcenia ogólnego dla liceum ogólnokształcącego,
+c) kształcenia ogólnego dla liceum ogólnokształcącego,
 
-- kształcenia ogólnego dla technikum,
+d) kształcenia ogólnego dla technikum,
 
-- kształcenia ogólnego dla branżowej szkoły I stopnia,
+e) kształcenia ogólnego dla branżowej szkoły I stopnia,
 
-- kształcenia ogólnego dla szkoły specjalnej przysposabiającej do pracy,
+f) kształcenia ogólnego dla szkoły specjalnej przysposabiającej do pracy,
 
-- kształcenia ogólnego dla branżowej szkoły II stopnia,
+g) kształcenia ogólnego dla branżowej szkoły II stopnia,
 
-- kształcenia ogólnego dla szkoły policealnej
+h) kształcenia ogólnego dla szkoły policealnej
 
-- uwzględniając w szczególności zestawy celów kształcenia i treści nauczania, umiejętności  uczniów,  a także  zadania  wychowawczo-profilaktyczne  szkoły, odpowiednio do poszczególnych etapów edukacyjnych i typów szkół;
+– uwzględniając w szczególności zestawy celów kształcenia i treści nauczania, umiejętności uczniów, a także zadania wychowawczo-profilaktyczne szkoły, odpowiednio do poszczególnych etapów edukacyjnych i typów szkół;
 
-(uchylony)
+2) (uchylony)
 
-- ramowe plany nauczania dla poszczególnych typów szkół, w tym:
+3) ramowe plany nauczania dla poszczególnych typów szkół, w tym:
 
-- tygodniowy, a w przypadku szkół prowadzących zajęcia w formie zaocznej
-
--semestralny, wymiar godzin obowiązkowych zajęć edukacyjnych, z wyjątkiem wymiaru godzin obowiązkowych zajęć edukacyjnych z zakresu kształcenia zawodowego w branżowej szkole II stopnia,
+a) tygodniowy, a w przypadku szkół prowadzących zajęcia w formie zaocznej – semestralny, wymiar godzin obowiązkowych zajęć edukacyjnych, z wyjątkiem wymiaru godzin obowiązkowych zajęć edukacyjnych z zakresu kształcenia zawodowego w branżowej szkole II stopnia,
 
 02.12.2019
 
@@ -2093,23 +2103,23 @@ s. 66/216
 
 s. 67/216
 
-- minimalny tygodniowy wymiar godzin zajęć rewalidacyjnych dla uczniów niepełnosprawnych,
+b) minimalny tygodniowy wymiar godzin zajęć rewalidacyjnych dla uczniów niepełnosprawnych,
 
-- minimalny wymiar godzin zajęć z zakresu doradztwa zawodowego,
+c) minimalny wymiar godzin zajęć z zakresu doradztwa zawodowego,
 
-- maksymalny  tygodniowy  wymiar  i przeznaczenie  godzin,  które  organ prowadzący może dodatkowo przyznać w roku szkolnym na realizację zajęć edukacyjnych,  w szczególności  dodatkowych  zajęć  edukacyjnych  i zajęć z języka migowego, lub na zwiększenie liczby godzin wybranych obowiązkowych zajęć edukacyjnych,
+d) maksymalny tygodniowy wymiar i przeznaczenie godzin, które organ prowadzący może dodatkowo przyznać w roku szkolnym na realizację zajęć edukacyjnych, w szczególności dodatkowych zajęć edukacyjnych i zajęć z języka migowego, lub na zwiększenie liczby godzin wybranych obowiązkowych zajęć edukacyjnych,
 
-- przeznaczenie godzin stanowiących różnicę między sumą godzin obowiązkowych  zajęć  edukacyjnych  z zakresu  kształcenia  zawodowego a minimalną liczbą godzin kształcenia zawodowego  dla kwalifikacji wyodrębnionych w zawodzie określoną w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, w szczególności na przygotowanie uczniów do uzyskania dodatkowych umiejętności zawodowych,  kwalifikacji  rynkowej  funkcjonującej  w Zintegrowanym Systemie Kwalifikacji lub dodatkowych uprawnień zawodowych,
+e) przeznaczenie godzin stanowiących różnicę między sumą godzin obowiązkowych zajęć edukacyjnych z zakresu kształcenia zawodowego a minimalną liczbą godzin kształcenia zawodowego dla kwalifikacji wyodrębnionych w zawodzie określoną w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, w szczególności na przygotowanie uczniów do uzyskania dodatkowych umiejętności zawodowych, kwalifikacji rynkowej funkcjonującej w Zintegrowanym Systemie Kwalifikacji lub dodatkowych uprawnień zawodowych,
 
-- tygodniowy, a w przypadku szkół prowadzących zajęcia w formie zaocznej -  semestralny,  wymiar  i  przeznaczenie  godzin  do  dyspozycji  dyrektora szkoły,
+f) tygodniowy, a w przypadku szkół prowadzących zajęcia w formie zaocznej – semestralny, wymiar i przeznaczenie godzin do dyspozycji dyrektora szkoły,
 
 g) warunki i sposób realizacji zajęć edukacyjnych
 
-- uwzględniając zakres celów kształcenia i treści nauczania określonych w podstawie  programowej  kształcenia  ogólnego  lub  podstawie  programowej kształcenia w zawodzie szkolnictwa branżowego, potrzebę dostosowania oferty edukacyjnej szkół do potrzeb i zainteresowań uczniów oraz potrzeb rynku pracy, a także  realizację  zajęć  edukacyjnych,  o których  mowa  w art. 109 ust. 2,  oraz możliwość przygotowania uczniów do uzyskania umiejętności przydatnych do wykonywania określonego zawodu;
+– uwzględniając zakres celów kształcenia i treści nauczania określonych w podstawie programowej kształcenia ogólnego lub podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, potrzebę dostosowania oferty edukacyjnej szkół do potrzeb i zainteresowań uczniów oraz potrzeb rynku pracy, a także realizację zajęć edukacyjnych, o których mowa w art. 109 ust. 2, oraz możliwość przygotowania uczniów do uzyskania umiejętności przydatnych do wykonywania określonego zawodu;
 
-(uchylony)
+4) (uchylony)
 
-- zasady organizacji i udzielania pomocy psychologiczno-pedagogicznej w szkołach  i placówkach,  które  powinny  tworzyć  warunki  dla  zaspokajania potrzeb  rozwojowych  i edukacyjnych  uczniów,  w szczególności  wspomagać rozwój uczniów i efektywność uczenia się;
+5) zasady organizacji i udzielania pomocy psychologiczno-pedagogicznej w szkołach i placówkach, które powinny tworzyć warunki dla zaspokajania potrzeb rozwojowych i edukacyjnych uczniów, w szczególności wspomagać rozwój uczniów i efektywność uczenia się;
 
 02.12.2019
 
@@ -2121,25 +2131,25 @@ g) warunki i sposób realizacji zajęć edukacyjnych
 
 s. 68/216
 
-- organizację roku szkolnego, uwzględniającą w szczególności terminy rozpoczynania i kończenia zajęć dydaktyczno-wychowawczych, przerw świątecznych i ferii szkolnych;
+6) organizację roku szkolnego, uwzględniającą w szczególności terminy rozpoczynania i kończenia zajęć dydaktyczno-wychowawczych, przerw świątecznych i ferii szkolnych;
 
-- sposób prowadzenia przez szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzaje tej dokumentacji, uwzględniające  w szczególności  ewidencję  dzieci  i młodzieży  podlegających obowiązkowi  szkolnemu  i obowiązkowi  nauki,  a także  stanowiące  podstawę wydawania uczniom świadectw i dyplomów;
+7) sposób prowadzenia przez szkoły i placówki dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzaje tej dokumentacji, uwzględniające w szczególności ewidencję dzieci i młodzieży podlegających obowiązkowi szkolnemu i obowiązkowi nauki, a także stanowiące podstawę wydawania uczniom świadectw i dyplomów;
 
-- warunki i sposób organizowania przez szkoły i placówki krajoznawstwa i turystyki,  z uwzględnieniem  celów  edukacyjnych  i wychowawczych  oraz bezpieczeństwa uczniów.
+8) warunki i sposób organizowania przez szkoły i placówki krajoznawstwa i turystyki, z uwzględnieniem celów edukacyjnych i wychowawczych oraz bezpieczeństwa uczniów.
 
-1a. Minister  właściwy  do  spraw  kultury  i ochrony  dziedzictwa  narodowego w porozumieniu  z ministrem  właściwym  do  spraw  oświaty  i wychowania  określi, w drodze rozporządzenia, ramowe plany nauczania dla poszczególnych typów szkół i placówek artystycznych, w tym:
+1a. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia, ramowe plany nauczania dla poszczególnych typów szkół i placówek artystycznych, w tym:
 
-- tygodniowy,  a w przypadku  policealnej  szkoły  artystycznej  -  semestralny, wymiar godzin obowiązkowych zajęć edukacyjnych,
+1) tygodniowy, a w przypadku policealnej szkoły artystycznej – semestralny, wymiar godzin obowiązkowych zajęć edukacyjnych,
 
-- minimalny  tygodniowy  wymiar  godzin  zajęć  rewalidacyjnych  dla  uczniów niepełnosprawnych,
+2) minimalny tygodniowy wymiar godzin zajęć rewalidacyjnych dla uczniów niepełnosprawnych,
 
-- maksymalny tygodniowy wymiar i przeznaczenie godzin, które organ prowadzący  może  dodatkowo  przyznać  w roku  szkolnym  na  realizację  zajęć edukacyjnych, w szczególności dodatkowych zajęć edukacyjnych i zajęć z języka migowego, lub na zwiększenie liczby godzin wybranych obowiązkowych zajęć edukacyjnych,
+3) maksymalny tygodniowy wymiar i przeznaczenie godzin, które organ prowadzący może dodatkowo przyznać w roku szkolnym na realizację zajęć edukacyjnych, w szczególności dodatkowych zajęć edukacyjnych i zajęć z języka migowego, lub na zwiększenie liczby godzin wybranych obowiązkowych zajęć edukacyjnych,
 
-- tygodniowy,  a w przypadku  policealnej  szkoły  artystycznej  -  semestralny, wymiar i przeznaczenie godzin do dyspozycji dyrektora szkoły,
+4) tygodniowy, a w przypadku policealnej szkoły artystycznej – semestralny, wymiar i przeznaczenie godzin do dyspozycji dyrektora szkoły,
 
-- warunki i sposób realizacji zajęć edukacyjnych
+5) warunki i sposób realizacji zajęć edukacyjnych
 
-- uwzględniając zakres celów kształcenia i treści nauczania określonych w podstawie programowej kształcenia ogólnego lub podstawie programowej kształcenia w zawodzie  szkolnictwa  artystycznego,  potrzebę  dostosowania  oferty  edukacyjnej szkół  i placówek  artystycznych  do  potrzeb  i zainteresowań  uczniów  oraz  potrzeb rynku pracy, a także realizację zajęć edukacyjnych, o których mowa w art. 109 ust. 2.
+– uwzględniając zakres celów kształcenia i treści nauczania określonych w podstawie programowej kształcenia ogólnego lub podstawie programowej kształcenia w zawodzie szkolnictwa artystycznego, potrzebę dostosowania oferty edukacyjnej szkół i placówek artystycznych do potrzeb i zainteresowań uczniów oraz potrzeb rynku pracy, a także realizację zajęć edukacyjnych, o których mowa w art. 109 ust. 2.
 
 02.12.2019
 
@@ -2155,23 +2165,23 @@ s. 69/216
 
 3. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
-- organizację kształcenia dzieci obywateli polskich czasowo przebywających za granicą;
+1) organizację kształcenia dzieci obywateli polskich czasowo przebywających za granicą;
 
-- warunki  i sposób  wspomagania  wśród  Polonii  i Polaków  zamieszkałych  za granicą  oraz  dzieci  pracowników  migrujących  nauczania  języka  polskiego, historii, geografii,  kultury  polskiej  oraz  innych  przedmiotów  nauczanych w języku  polskim  w szkołach  funkcjonujących  w systemach  oświaty  innych państw lub nauczanych w innych formach przez organizacje społeczne zarejestrowane za granicą, uwzględniając w szczególności:
+2) warunki i sposób wspomagania wśród Polonii i Polaków zamieszkałych za granicą oraz dzieci pracowników migrujących nauczania języka polskiego, historii, geografii, kultury polskiej oraz innych przedmiotów nauczanych w języku polskim w szkołach funkcjonujących w systemach oświaty innych państw lub nauczanych w innych formach przez organizacje społeczne zarejestrowane za granicą, uwzględniając w szczególności:
 
-- kierowanie nauczycieli do pracy za granicą,
+a) kierowanie nauczycieli do pracy za granicą,
 
-- przekazywanie niezbędnych podręczników i pomocy dydaktycznych służących temu nauczaniu,
+b) przekazywanie niezbędnych podręczników i pomocy dydaktycznych służących temu nauczaniu,
 
-- organizowanie w kraju i za granicą doskonalenia zawodowego nauczycieli prowadzących  nauczanie  języka  polskiego,  historii,  geografii,  kultury polskiej oraz innych przedmiotów nauczanych w języku polskim za granicą,
+c) organizowanie w kraju i za granicą doskonalenia zawodowego nauczycieli prowadzących nauczanie języka polskiego, historii, geografii, kultury polskiej oraz innych przedmiotów nauczanych w języku polskim za granicą,
 
-- organizowanie kolonii i innych form letniego wypoczynku dzieci i młodzieży polonijnej,
+d) organizowanie kolonii i innych form letniego wypoczynku dzieci i młodzieży polonijnej,
 
-- współpracę tych szkół oraz organizacji społecznych ze szkołami w Polsce;
+e) współpracę tych szkół oraz organizacji społecznych ze szkołami w Polsce;
 
-- zakres i warunki przyznawania świadczeń przysługujących nauczycielom polskim skierowanym lub delegowanym do pracy za granicą w celach, o których mowa  w pkt 1  i 2,  uwzględniając  w szczególności  częściowy  zwrot  kosztów utrzymania  i zakwaterowania  oraz kosztów  podróży,  a także  wyposażenie nauczycieli w niezbędne podręczniki, środki dydaktyczne i inne pomoce niezbędne w procesie nauczania w miejscu zatrudnienia.
+3) zakres i warunki przyznawania świadczeń przysługujących nauczycielom polskim skierowanym lub delegowanym do pracy za granicą w celach, o których mowa w pkt 1 i 2, uwzględniając w szczególności częściowy zwrot kosztów utrzymania i zakwaterowania oraz kosztów podróży, a także wyposażenie nauczycieli w niezbędne podręczniki, środki dydaktyczne i inne pomoce niezbędne w procesie nauczania w miejscu zatrudnienia.
 
-4. W rozporządzeniu, o którym mowa w ust. 1 pkt 3, minister właściwy do spraw oświaty i wychowania może określić przypadki, w których uczniowi można przedłużyć oraz skrócić okres nauki w szkole, biorąc pod uwagę konieczność realizacji w tym okresie podstawy programowej kształcenia ogólnego lub podstawy programowej kształcenia w zawodzie szkolnictwa branżowego.
+4. W rozporządzeniu, o którym mowa w ust. 1 pkt 3, minister właściwy do spraw oświaty i wychowania może określić przypadki, w których uczniowi można
 
 02.12.2019
 
@@ -2183,7 +2193,9 @@ s. 69/216
 
 s. 70/216
 
-4a. W rozporządzeniu,  o którym  mowa w ust. 1a,  minister  właściwy  do  spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania może określić przypadki, w których uczniowi można przedłużyć  oraz  skrócić  okres  nauki  w szkole  artystycznej,  biorąc  pod  uwagę konieczność realizacji w tym okresie podstawy programowej kształcenia ogólnego lub podstawy programowej kształcenia w zawodzie szkolnictwa artystycznego.
+przedłużyć oraz skrócić okres nauki w szkole, biorąc pod uwagę konieczność realizacji w tym okresie podstawy programowej kształcenia ogólnego lub podstawy programowej kształcenia w zawodzie szkolnictwa branżowego.
+
+4a. W rozporządzeniu, o którym mowa w ust. 1a, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania może określić przypadki, w których uczniowi można przedłużyć oraz skrócić okres nauki w szkole artystycznej, biorąc pod uwagę konieczność realizacji w tym okresie podstawy programowej kształcenia ogólnego lub podstawy programowej kształcenia w zawodzie szkolnictwa artystycznego.
 
 5. W rozporządzeniu, o którym mowa w ust. 3 pkt 1, minister właściwy do spraw oświaty  i wychowania  może  wyłączyć  stosowanie  niektórych  przepisów  niniejszej ustawy, ustawy o systemie oświaty oraz ustawy o finansowaniu zadań oświatowych w odniesieniu do szkół i zespołów szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c, oraz szkół polskich, w zakresie wynikającym ze szczególnych warunków funkcjonowania  tych  szkół,  zespołów  szkół  i szkół  polskich,  a także  wprowadzić w tym zakresie odrębne unormowania.
 
@@ -2198,13 +2210,13 @@ Rada Ministrów może określić, w drodze rozporządzenia, wykaz szkół i plac
 
 2. Kandydata na stanowisko kuratora oświaty wyłania się w drodze konkursu.
 
-- Konkurs ogłasza i przeprowadza wojewoda.
+3. Konkurs ogłasza i przeprowadza wojewoda.
 
 4. Ogłoszenie  konkursu  następuje  nie  później  niż  w ciągu  miesiąca  od  dnia, w którym nastąpiło odwołanie kuratora oświaty.
 
 5. Do konkursu może przystąpić osoba, która posiada:
 
-- wykształcenie wyższe i tytuł zawodowy  magister, magister inżynier lub równorzędny;
+1) wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny;
 
 02.12.2019
 
@@ -2216,17 +2228,17 @@ Rada Ministrów może określić, w drodze rozporządzenia, wykaz szkół i plac
 
 s. 71/216
 
-- stopień nauczyciela mianowanego lub nauczyciela dyplomowanego;
+2) stopień nauczyciela mianowanego lub nauczyciela dyplomowanego;
 
-- co najmniej siedmioletni staż pracy w charakterze nauczyciela.
+3) co najmniej siedmioletni staż pracy w charakterze nauczyciela.
 
-6. Konkurs  przeprowadza  komisja  konkursowa  powołana  przez  wojewodę. W skład komisji konkursowej wchodzą:
+6. Konkurs przeprowadza komisja konkursowa powołana przez wojewodę. W skład komisji konkursowej wchodzą:
 
-- trzej przedstawiciele ministra właściwego do spraw oświaty i wychowania;
+1) trzej przedstawiciele ministra właściwego do spraw oświaty i wychowania;
 
-- dwaj przedstawiciele wojewody;
+2) dwaj przedstawiciele wojewody;
 
-- po jednym przedstawicielu organizacji związkowych zrzeszających nauczycieli, reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego, oraz po jednym przedstawicielu organizacji związkowych, reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego, w skład których wchodzą organizacje związkowe zrzeszające nauczycieli.
+3) po jednym przedstawicielu organizacji związkowych zrzeszających nauczycieli, reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego, oraz po jednym przedstawicielu organizacji związkowych, reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego, w skład których wchodzą organizacje związkowe zrzeszające nauczycieli.
 
 7. Do  czasu  powołania  na  stanowisko  kuratora  oświaty  osoby  wyłonionej w drodze  konkursu  albo  ustalonej  zgodnie  z ust. 8 minister  właściwy  do  spraw oświaty i wychowania, po zasięgnięciu opinii wojewody, wyznacza osobę pełniącą obowiązki kuratora oświaty.
 
@@ -2238,11 +2250,11 @@ s. 71/216
 
 11. Stanowisko wicekuratora oświaty może zajmować osoba, która posiada:
 
-- wykształcenie wyższe i tytuł zawodowy  magister, magister inżynier lub równorzędny;
+1) wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny;
 
-- stopień nauczyciela mianowanego lub nauczyciela dyplomowanego;
+2) stopień nauczyciela mianowanego lub nauczyciela dyplomowanego;
 
-- co najmniej siedmioletni staż pracy w charakterze nauczyciela.
+3) co najmniej siedmioletni staż pracy w charakterze nauczyciela.
 
 02.12.2019
 
@@ -2261,23 +2273,23 @@ s. 72/216
 
 <1) sprawuje nadzór pedagogiczny nad publicznymi i niepublicznymi przedszkolami,  innymi  formami  wychowania  przedszkolnego,  szkołami, placówkami oraz kolegiami pracowników służb społecznych, które znajdują się na obszarze danego województwa, z zastrzeżeniem art. 53 ust. 2a;>
 
-- wydaje decyzje administracyjne w sprawach określonych w ustawie;
+2) wydaje decyzje administracyjne w sprawach określonych w ustawie;
 
-- współdziała z radami oświatowymi powołanymi na podstawie art. 78;
+3) współdziała z radami oświatowymi powołanymi na podstawie art. 78;
 
-- wykonuje  zadania  organu  wyższego  stopnia  w rozumieniu  przepisów  ustawy z dnia  14 czerwca  1960 r.  -  Kodeks  postępowania  administracyjnego  (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60 i 730) w stosunku do:
+4) wykonuje zadania organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60 i 730) w stosunku do:
 
-- organów  jednostek  samorządu  terytorialnego  -  w sprawach  publicznych szkół i placówek, zakładanych i prowadzonych przez osoby prawne i osoby fizyczne, oraz niepublicznych szkół i placówek,
+a) organów jednostek samorządu terytorialnego – w sprawach publicznych szkół i placówek, zakładanych i prowadzonych przez osoby prawne i osoby fizyczne, oraz niepublicznych szkół i placówek,
 
-- dyrektorów szkół -w sprawach z zakresu obowiązku szkolnego i obowiązku nauki oraz w sprawach skreślenia uczniów z listy uczniów;
+b) dyrektorów szkół – w sprawach z zakresu obowiązku szkolnego i obowiązku nauki oraz w sprawach skreślenia uczniów z listy uczniów;
 
-- realizuje politykę oświatową państwa, a także współdziała z organami jednostek samorządu terytorialnego w tworzeniu i realizowaniu odpowiednio regionalnej i lokalnej polityki oświatowej, zgodnych z polityką oświatową państwa;
+5) realizuje politykę oświatową państwa, a także współdziała z organami jednostek samorządu terytorialnego w tworzeniu i realizowaniu odpowiednio regionalnej i lokalnej polityki oświatowej, zgodnych z polityką oświatową państwa;
 
-- opracowuje programy wykorzystania środków na dofinansowanie doskonalenia nauczycieli,  wyodrębnionych  w budżecie  wojewody,  po  zasięgnięciu  opinii związków  zawodowych,  reprezentatywnych  w rozumieniu  ustawy  o  Radzie Dialogu Społecznego;
+6) opracowuje programy wykorzystania środków na dofinansowanie doskonalenia nauczycieli, wyodrębnionych w budżecie wojewody, po zasięgnięciu opinii związków zawodowych, reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego;
 
-- organizuje olimpiady, konkursy, turnieje, przeglądy oraz inne formy współzawodnictwa i prezentacji osiągnięć uczniów szkół na obszarze województwa;
+7) organizuje olimpiady, konkursy, turnieje, przeglądy oraz inne formy współzawodnictwa i prezentacji osiągnięć uczniów szkół na obszarze województwa;
 
-- współdziała z okręgowymi komisjami egzaminacyjnymi;
+8) współdziała z okręgowymi komisjami egzaminacyjnymi;
 
 Nowe brzmienie pkt  1  w  ust.  1  w art. 51 wejdzie w życie z dn. 1.01.2020  r.  (Dz. U.  z  2019  r.  poz. 1681).
 
@@ -2291,25 +2303,25 @@ Nowe brzmienie pkt  1  w  ust.  1  w art. 51 wejdzie w życie z dn. 1.01.2020  r
 
 s. 73/216
 
-- współdziała z placówkami doskonalenia nauczycieli, poradniami psychologiczno-pedagogicznymi  i bibliotekami pedagogicznymi  w realizacji zadań dotyczących diagnozowania, na podstawie wyników nadzoru pedagogicznego, potrzeb w zakresie doskonalenia nauczycieli;
+9) współdziała z placówkami doskonalenia nauczycieli, poradniami psychologiczno-pedagogicznymi i bibliotekami pedagogicznymi w realizacji zadań dotyczących diagnozowania, na podstawie wyników nadzoru pedagogicznego, potrzeb w zakresie doskonalenia nauczycieli;
 
-- wspomaga działania w zakresie organizowania egzaminów w szkołach;
+10) wspomaga działania w zakresie organizowania egzaminów w szkołach;
 
-- opiniuje plany pracy publicznych placówek doskonalenia nauczycieli, z wyjątkiem  placówek  prowadzonych  przez  ministra  właściwego  do  spraw oświaty i wychowania, ministra właściwego do spraw kultury i ochrony dziedzictwa  narodowego, ministra  właściwego  do  spraw  rolnictwa  i ministra właściwego do spraw zdrowia;
+11) opiniuje plany pracy publicznych placówek doskonalenia nauczycieli, z wyjątkiem placówek prowadzonych przez ministra właściwego do spraw oświaty i wychowania, ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, ministra właściwego do spraw rolnictwa i ministra właściwego do spraw zdrowia;
 
-- opiniuje  arkusze  organizacji  publicznych  szkół  i placówek,  z wyjątkiem  szkół i placówek prowadzonych przez ministrów, w zakresie ich zgodności z przepisami, przedstawiane przez organy prowadzące szkoły i placówki przed zatwierdzeniem arkuszy;
+12) opiniuje arkusze organizacji publicznych szkół i placówek, z wyjątkiem szkół i placówek prowadzonych przez ministrów, w zakresie ich zgodności z przepisami, przedstawiane przez organy prowadzące szkoły i placówki przed zatwierdzeniem arkuszy;
 
-- współdziała z organami jednostek samorządu terytorialnego w zakresie kształtowania i rozwoju bazy materialnej szkół i placówek;
+13) współdziała z organami jednostek samorządu terytorialnego w zakresie kształtowania i rozwoju bazy materialnej szkół i placówek;
 
-- współdziała z właściwymi organami, organizacjami i innymi podmiotami w sprawach dotyczących warunków rozwoju dzieci i młodzieży, w tym w przeciwdziałaniu zjawiskom patologii społecznej, a także może wspomagać działania tych podmiotów;
+14) współdziała z właściwymi organami, organizacjami i innymi podmiotami w sprawach dotyczących warunków rozwoju dzieci i młodzieży, w tym w przeciwdziałaniu zjawiskom patologii społecznej, a także może wspomagać działania tych podmiotów;
 
-- nadzoruje i wspomaga organizację wypoczynku, o którym mowa w art. 92a-92t ustawy o systemie oświaty, na obszarze województwa;
+15) nadzoruje i wspomaga organizację wypoczynku, o którym mowa w art. 92a–92t ustawy o systemie oświaty, na obszarze województwa;
 
-- 15a) koordynuje organizację dokształcania teoretycznego uczniów będących młodocianymi pracownikami;
+15a) koordynuje organizację dokształcania teoretycznego uczniów będących młodocianymi pracownikami;
 
-- wykonuje  inne  zadania  określone  w przepisach  odrębnych,  w szczególności w zakresie obronności.
+16) wykonuje inne zadania określone w przepisach odrębnych, w szczególności w zakresie obronności.
 
-2. Programy  operacyjne,  o których  mowa  w ustawie  z dnia  6 grudnia  2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2018 r. poz. 1307 i 1669) oraz w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności  finansowanych  w perspektywie  finansowej  2014-2020 (Dz. U.  z 2018  r. poz. 1431 i 1544 oraz z 2019 r. poz. 60 i 730), a także programy rządowe, o których mowa w art. 90u ustawy o systemie oświaty, mogą określać zadania, które kurator oświaty wykonuje w imieniu wojewody.
+2. Programy operacyjne, o których mowa w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2018 r. poz. 1307 i 1669) oraz w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2018 r. poz. 1431 i 1544 oraz z 2019 r. poz. 60 i 730), a także programy rządowe, o których mowa w art. 90u ustawy o systemie oświaty, mogą określać zadania, które kurator oświaty wykonuje w imieniu wojewody.
 
 02.12.2019
 
@@ -2353,23 +2365,23 @@ s. 75/216
 
 1d. Specjalistyczna jednostka nadzoru, o której mowa w ust. 1, ogłasza do dnia 15 czerwca  w Biuletynie  Informacji  Publicznej,  regulaminy  poszczególnych  form badania jakości kształcenia artystycznego  przeprowadzanych  w kolejnym  roku szkolnym, w których określa w szczególności:
 
-- zakres danej formy badania jakości kształcenia artystycznego;
+1) zakres danej formy badania jakości kształcenia artystycznego;
 
-- szczegółowe  zasady  i terminy  przeprowadzania  badania  jakości  kształcenia artystycznego w danej formie;
+2) szczegółowe zasady i terminy przeprowadzania badania jakości kształcenia artystycznego w danej formie;
 
-- tryb i termin zgłaszania uczniów do uczestnictwa w badaniu jakości kształcenia artystycznego w danej formie.
+3) tryb i termin zgłaszania uczniów do uczestnictwa w badaniu jakości kształcenia artystycznego w danej formie.
 
-1e. Minister  właściwy  do  spraw  kultury  i ochrony  dziedzictwa  narodowego określi, w drodze rozporządzenia:
+1e. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia:
 
-- tryb i formy badania jakości kształcenia artystycznego, o którym  mowa w ust. 1b,
+1) tryb i formy badania jakości kształcenia artystycznego, o którym mowa w ust. 1b,
 
-- skład komisji przeprowadzających poszczególne formy badania jakości kształcenia artystycznego
+2) skład komisji przeprowadzających poszczególne formy badania jakości kształcenia artystycznego
 
-- uwzględniając  wymogi  sprawności,  skuteczności  i efektywności  badania  jakości kształcenia artystycznego w szkołach artystycznych, o których mowa w ust. 1b.
+– uwzględniając wymogi sprawności, skuteczności i efektywności badania jakości kształcenia artystycznego w szkołach artystycznych, o których mowa w ust. 1b.
 
-1f. Minister  właściwy  do  spraw  kultury  i ochrony  dziedzictwa  narodowego w rozporządzeniu, o którym mowa w ust. 1e, może określić:
+1f. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w rozporządzeniu, o którym mowa w ust. 1e, może określić:
 
-- tryb i formy badania jakości kształcenia artystycznego w niepublicznych szkołach artystycznych nieposiadających uprawnień publicznej szkoły artystycznej lub placówkach artystycznych oraz skład komisji przeprowadzających poszczególne formy badania jakości kształcenia artystycznego;
+1) tryb i formy badania jakości kształcenia artystycznego w niepublicznych szkołach artystycznych nieposiadających uprawnień publicznej szkoły artystycznej lub placówkach artystycznych oraz skład komisji przeprowadzających poszczególne formy badania jakości kształcenia artystycznego;
 
 02.12.2019
 
@@ -2381,9 +2393,9 @@ s. 75/216
 
 s. 76/216
 
-- przypadki,  w których  komisję  przeprowadzającą  badanie  jakości  kształcenia artystycznego może powołać dyrektor szkoły artystycznej.
+2) przypadki, w których komisję przeprowadzającą badanie jakości kształcenia artystycznego może powołać dyrektor szkoły artystycznej.
 
-2. Minister  właściwy  do  spraw  rolnictwa  sprawuje  nadzór  pedagogiczny  nad publicznymi szkołami rolniczymi, placówkami rolniczymi oraz placówkami doskonalenia  nauczycieli  przedmiotów  zawodowych,  którzy  nauczają  w szkołach rolniczych, przez siebie prowadzonymi, minister właściwy do spraw środowiska - nad publicznymi szkołami leśnymi przez siebie prowadzonymi, a minister właściwy do spraw  zdrowia  -  nad  publiczną  placówką  doskonalenia  nauczycieli  przedmiotów zawodowych o zasięgu ogólnokrajowym. W tym celu, a także w celu realizacji zadań, o których  mowa  w art. 10  ust. 1,  w odniesieniu  do  szkół  i placówek  przez  siebie prowadzonych odpowiednio minister właściwy do spraw rolnictwa, minister właściwy do spraw środowiska lub minister właściwy do spraw zdrowia mogą, w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, w drodze rozporządzenia, utworzyć  specjalistyczną  jednostkę  nadzoru  oraz  określić  jej  organizację  i zakres powierzonych zadań związanych ze sprawowaniem nadzoru pedagogicznego.
+2. Minister właściwy do spraw rolnictwa sprawuje nadzór pedagogiczny nad publicznymi szkołami rolniczymi, placówkami rolniczymi oraz placówkami doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, przez siebie prowadzonymi, minister właściwy do spraw środowiska – nad publicznymi szkołami leśnymi przez siebie prowadzonymi, a minister właściwy do spraw zdrowia – nad publiczną placówką doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym. W tym celu, a także w celu realizacji zadań, o których mowa w art. 10 ust. 1, w odniesieniu do szkół i placówek przez siebie prowadzonych odpowiednio minister właściwy do spraw rolnictwa, minister właściwy do spraw środowiska lub minister właściwy do spraw zdrowia mogą, w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, w drodze rozporządzenia, utworzyć specjalistyczną jednostkę nadzoru oraz określić jej organizację i zakres powierzonych zadań związanych ze sprawowaniem nadzoru pedagogicznego.
 
 <2a. Minister  Obrony  Narodowej  sprawuje  nadzór  pedagogiczny  nad realizacją  szkolenia,  o którym  mowa  w przepisach  wydanych  na  podstawie art. 18 ust. 6, w szkołach ponadpodstawowych prowadzących oddziały przygotowania wojskowego.>
 
@@ -2391,7 +2403,9 @@ s. 76/216
 
 4. Przepisy  ust. 1  i 2 nie  naruszają  uprawnień  kuratora  oświaty  w zakresie nadzoru pedagogicznego nad nauczaniem przedmiotów ogólnokształcących w szkołach artystycznych, a także nad nauczaniem przedmiotów ogólnokształcących w szkołach rolniczych i w szkołach leśnych prowadzonych  przez odpowiednio ministra właściwego do spraw rolnictwa lub ministra właściwego do spraw środowiska.
 
-5. W odniesieniu do publicznych szkół i placówek artystycznych minister właściwy  do  spraw  kultury  i  ochrony  dziedzictwa  narodowego  w porozumieniu Dodany ust. 2a w art. 53 wejdzie w życie z dn. 1.01.2020  r.  (Dz. U.  z  2019  r.  poz. 1681).
+5. W odniesieniu do publicznych szkół i placówek artystycznych minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu
+
+Dodany ust. 2a w art. 53 wejdzie w życie z dn. 1.01.2020 r. (Dz. U. z 2019 r. poz. 1681).
 
 02.12.2019
 
@@ -2417,13 +2431,13 @@ z ministrem właściwym do spraw oświaty i wychowania wydaje przepisy, o który
 ##### Art. 55.
 1. Nadzór pedagogiczny polega na:
 
-- obserwowaniu, analizowaniu i ocenianiu przebiegu procesów kształcenia i wychowania oraz efektów działalności dydaktycznej, wychowawczej i opiekuńczej oraz innej działalności statutowej szkół i placówek;
+1) obserwowaniu, analizowaniu i ocenianiu przebiegu procesów kształcenia i wychowania oraz efektów działalności dydaktycznej, wychowawczej i opiekuńczej oraz innej działalności statutowej szkół i placówek;
 
-- ocenianiu stanu i warunków działalności dydaktycznej, wychowawczej i opiekuńczej oraz innej działalności statutowej szkół i placówek;
+2) ocenianiu stanu i warunków działalności dydaktycznej, wychowawczej i opiekuńczej oraz innej działalności statutowej szkół i placówek;
 
-- udzielaniu pomocy szkołom i placówkom, a także nauczycielom w wykonywaniu ich zadań dydaktycznych, wychowawczych i opiekuńczych;
+3) udzielaniu pomocy szkołom i placówkom, a także nauczycielom w wykonywaniu ich zadań dydaktycznych, wychowawczych i opiekuńczych;
 
-- inspirowaniu  nauczycieli  do  poprawy  istniejących  lub  wdrożenia  nowych rozwiązań  w procesie  kształcenia,  przy  zastosowaniu  innowacyjnych  działań
+4) inspirowaniu nauczycieli do poprawy istniejących lub wdrożenia nowych rozwiązań w procesie kształcenia, przy zastosowaniu innowacyjnych działań
 
 02.12.2019
 
@@ -2439,31 +2453,31 @@ programowych, organizacyjnych lub metodycznych, których celem jest rozwijanie k
 
 2. W zakresie wymienionym w ust. 1 pkt 1 i 2 nadzorowi podlega w szczególności:
 
-- posiadanie przez nauczycieli wymaganych kwalifikacji do prowadzenia przydzielonych im zajęć;
+1) posiadanie przez nauczycieli wymaganych kwalifikacji do prowadzenia przydzielonych im zajęć;
 
-- realizacja podstaw programowych i ramowych planów nauczania;
+2) realizacja podstaw programowych i ramowych planów nauczania;
 
-- przestrzeganie  zasad  oceniania,  klasyfikowania  i promowania  uczniów  oraz przeprowadzania  egzaminów,  a także  przestrzeganie  przepisów  dotyczących obowiązku szkolnego oraz obowiązku nauki;
+3) przestrzeganie zasad oceniania, klasyfikowania i promowania uczniów oraz przeprowadzania egzaminów, a także przestrzeganie przepisów dotyczących obowiązku szkolnego oraz obowiązku nauki;
 
-- przestrzeganie statutu szkoły lub placówki;
+4) przestrzeganie statutu szkoły lub placówki;
 
-- przestrzeganie praw dziecka i praw ucznia oraz upowszechnianie wiedzy o tych prawach;
+5) przestrzeganie praw dziecka i praw ucznia oraz upowszechnianie wiedzy o tych prawach;
 
-- zapewnienie uczniom bezpiecznych i higienicznych warunków nauki, wychowania i opieki.
+6) zapewnienie uczniom bezpiecznych i higienicznych warunków nauki, wychowania i opieki.
 
 3. Nauczyciele, o których mowa w art. 60 ust. 8, wykonujący czynności z zakresu nadzoru pedagogicznego mają prawo:
 
-- wstępu do szkół i placówek;
+1) wstępu do szkół i placówek;
 
-- wglądu  do  prowadzonej  przez  szkołę  lub  placówkę  dokumentacji  dotyczącej przebiegu nauczania, wychowania i opieki oraz organizacji pracy;
+2) wglądu do prowadzonej przez szkołę lub placówkę dokumentacji dotyczącej przebiegu nauczania, wychowania i opieki oraz organizacji pracy;
 
-- wglądu  do  znajdujących  się  w szkole  lub  placówce  dokumentów  nauczycieli potwierdzających  kwalifikacje  do  prowadzenia  przydzielonych  im  zajęć  oraz dokumentów osób, o których mowa w art. 15, potwierdzających przygotowanie do prowadzenia danych zajęć;
+3) wglądu do znajdujących się w szkole lub placówce dokumentów nauczycieli potwierdzających kwalifikacje do prowadzenia przydzielonych im zajęć oraz dokumentów osób, o których mowa w art. 15, potwierdzających przygotowanie do prowadzenia danych zajęć;
 
-- udziału w posiedzeniu  rady  pedagogicznej,  po  uprzednim  powiadomieniu dyrektora szkoły;
+4) udziału w posiedzeniu rady pedagogicznej, po uprzednim powiadomieniu dyrektora szkoły;
 
-- wstępu  w charakterze  obserwatora  na  zajęcia  dydaktyczne,  wychowawcze, opiekuńcze i inne zajęcia organizowane przez szkołę lub placówkę;
+5) wstępu w charakterze obserwatora na zajęcia dydaktyczne, wychowawcze, opiekuńcze i inne zajęcia organizowane przez szkołę lub placówkę;
 
-- przeprowadzania badań służących ocenie efektywności działalności dydaktycznej, wychowawczej oraz opiekuńczej szkół i placówek.
+6) przeprowadzania badań służących ocenie efektywności działalności dydaktycznej, wychowawczej oraz opiekuńczej szkół i placówek.
 
 4. Nauczyciele,  o których  mowa  w art. 60 ust. 8,  mogą  wydawać  dyrektorom szkół i placówek zalecenia wynikające z przeprowadzonych czynności wraz z terminem ich realizacji.
 
@@ -2479,11 +2493,11 @@ s. 79/216
 
 5. Dyrektor szkoły lub placówki, w terminie 7 dni od dnia otrzymania zaleceń, o których mowa  w ust. 4, może  zgłosić wobec nich zastrzeżenia do organu sprawującego nadzór pedagogiczny.
 
-6. Dyrektor szkoły lub placówki, w terminie 30 dni od dnia otrzymania zaleceń, o których  mowa  w ust. 4,  a w  przypadku  wniesienia  zastrzeżeń  zgodnie  z ust. 5 w terminie 30 dni od dnia otrzymania pisemnego zawiadomienia o nieuwzględnieniu zastrzeżeń, jest obowiązany powiadomić:
+6. Dyrektor szkoły lub placówki, w terminie 30 dni od dnia otrzymania zaleceń, o których mowa w ust. 4, a w przypadku wniesienia zastrzeżeń zgodnie z ust. 5 – w terminie 30 dni od dnia otrzymania pisemnego zawiadomienia o nieuwzględnieniu zastrzeżeń, jest obowiązany powiadomić:
 
-- organ sprawujący nadzór pedagogiczny o sposobie realizacji zaleceń;
+1) organ sprawujący nadzór pedagogiczny o sposobie realizacji zaleceń;
 
-- organ  prowadzący szkołę lub placówkę o otrzymanych zaleceniach oraz o sposobie ich realizacji.
+2) organ prowadzący szkołę lub placówkę o otrzymanych zaleceniach oraz o sposobie ich realizacji.
 
 7. W razie stwierdzenia istotnych uchybień w działalności szkoły lub placówki, organ  sprawujący  nadzór  pedagogiczny  niezależnie  od  środków,  o których  mowa w ust. 4,  zawiadamia  o stwierdzonych  uchybieniach  organ  prowadzący  szkołę  lub placówkę.
 
@@ -2521,7 +2535,7 @@ s. 80/216
 
 2. W zakresie wymienionym w ust. 1 nadzorowi podlega w szczególności:
 
-- prawidłowość  dysponowania  przyznanymi  szkole  lub placówce środkami budżetowymi oraz pozyskanymi przez szkołę lub placówkę środkami pochodzącymi z innych źródeł, a także gospodarowania mieniem;
+1) prawidłowość dysponowania przyznanymi szkole lub placówce środkami budżetowymi oraz pozyskanymi przez szkołę lub placówkę środkami pochodzącymi z innych źródeł, a także gospodarowania mieniem;
 
 02.12.2019
 
@@ -2533,16 +2547,16 @@ s. 80/216
 
 s. 81/216
 
-- przestrzeganie obowiązujących przepisów dotyczących bezpieczeństwa i higieny pracy pracowników i uczniów;
+2) przestrzeganie obowiązujących przepisów dotyczących bezpieczeństwa i higieny pracy pracowników i uczniów;
 
-- przestrzeganie przepisów dotyczących organizacji pracy szkoły i placówki.
+3) przestrzeganie przepisów dotyczących organizacji pracy szkoły i placówki.
 
-3. Do wykonywania nadzoru, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 55 ust. 3 pkt 1 i 2 oraz ust. 4-6.
+3. Do wykonywania nadzoru, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 55 ust. 3 pkt 1 i 2 oraz ust. 4–6.
 
 4. Organ  prowadzący  szkołę  lub  placówkę,  nieposiadający  uprawnień  do sprawowania nadzoru pedagogicznego, może występować w sprawach dydaktyczno-wychowawczych  i opiekuńczych  z wnioskami  do  dyrektora  szkoły  lub  placówki i organu  sprawującego  nadzór  pedagogiczny.  Dyrektor  lub  organ,  który  otrzymał wniosek, jest obowiązany do udzielenia odpowiedzi w terminie 14 dni.
 
 ##### Art. 58.
-Organ  prowadzący  szkołę  lub  placówkę,  a w zakresie  działalności dydaktyczno-wychowawczej i opiekuńczej również organ sprawujący nadzór pedagogiczny, mogą  ingerować  w działalność szkoły lub placówki wyłącznie w zakresie i na zasadach określonych w ustawie. W przypadku szkół przy zakładach karnych ingerencja ta jest dopuszczalna również w zakresie realizacji celów wykonania  kary  pozbawienia  wolności  określonych  w ustawie  z dnia  6 czerwca 1997 r. - Kodeks karny wykonawczy (Dz. U. z 2019 r. poz. 676 i 679), a w przypadku szkół przy zakładach poprawczych i schroniskach dla nieletnich - w zakresie realizacji celów określonych w przepisach o postępowaniu w sprawach nieletnich.
+Organ prowadzący szkołę lub placówkę, a w zakresie działalności dydaktyczno-wychowawczej i opiekuńczej również organ sprawujący nadzór pedagogiczny, mogą ingerować w działalność szkoły lub placówki wyłącznie w zakresie i na zasadach określonych w ustawie. W przypadku szkół przy zakładach karnych ingerencja ta jest dopuszczalna również w zakresie realizacji celów wykonania kary pozbawienia wolności określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2019 r. poz. 676 i 679), a w przypadku szkół przy zakładach poprawczych i schroniskach dla nieletnich – w zakresie realizacji celów określonych w przepisach o postępowaniu w sprawach nieletnich.
 
 ##### Art. 59.
 Przepisy art. 57 stosuje się odpowiednio do wychowania przedszkolnego prowadzonego w innych formach wychowania przedszkolnego.
@@ -2550,17 +2564,17 @@ Przepisy art. 57 stosuje się odpowiednio do wychowania przedszkolnego prowadzon
 ##### Art. 60.
 1. Minister właściwy do spraw oświaty i wychowania:
 
-- sprawuje  nadzór  pedagogiczny  nad  szkołami  i placówkami,  o których  mowa w art. 8 ust. 5;
+1) sprawuje nadzór pedagogiczny nad szkołami i placówkami, o których mowa w art. 8 ust. 5;
 
-- nadzoruje i koordynuje wykonywanie nadzoru pedagogicznego na terenie kraju, w szczególności nadzoruje działalność kuratorów oświaty w tym zakresie;
+2) nadzoruje i koordynuje wykonywanie nadzoru pedagogicznego na terenie kraju, w szczególności nadzoruje działalność kuratorów oświaty w tym zakresie;
 
-- podejmuje  działania  służące  zapewnieniu  sprawności  i efektywności  nadzoru pedagogicznego, w szczególności:
+3) podejmuje działania służące zapewnieniu sprawności i efektywności nadzoru pedagogicznego, w szczególności:
 
-- opracowuje i modyfikuje narzędzia nadzoru pedagogicznego,
+a) opracowuje i modyfikuje narzędzia nadzoru pedagogicznego,
 
-- opracowuje  programy  szkoleń  osób  realizujących  zadania  w zakresie nadzoru pedagogicznego oraz organizuje takie szkolenia,
+b) opracowuje programy szkoleń osób realizujących zadania w zakresie nadzoru pedagogicznego oraz organizuje takie szkolenia,
 
-- analizuje i opracowuje dane dotyczące nadzoru pedagogicznego,
+c) analizuje i opracowuje dane dotyczące nadzoru pedagogicznego,
 
 02.12.2019
 
@@ -2572,21 +2586,21 @@ Przepisy art. 57 stosuje się odpowiednio do wychowania przedszkolnego prowadzon
 
 s. 82/216
 
-- opracowuje corocznie i ogłasza na stronie internetowej obsługującego go urzędu  informacje  o wynikach  nadzoru  pedagogicznego  sprawowanego przez kuratorów oświaty.
+d) opracowuje corocznie i ogłasza na stronie internetowej obsługującego go urzędu informacje o wynikach nadzoru pedagogicznego sprawowanego przez kuratorów oświaty.
 
 2. W celu realizacji zadań, o których mowa w ust. 1 pkt 3, minister właściwy do spraw oświaty i wychowania prowadzi elektroniczną platformę nadzoru pedagogicznego i administruje nią. Do dostępu do elektronicznej platformy nadzoru pedagogicznego  są  upoważnione  osoby  realizujące  zadania  w zakresie  nadzoru pedagogicznego, nauczyciele, uczniowie, rodzice i przedstawiciele organów prowadzących szkoły lub placówki.
 
 3. W celu realizacji zadań, o których mowa w ust. 1 pkt 2 oraz w art. 43, minister właściwy do spraw oświaty i wychowania w szczególności:
 
-- ustala  podstawowe  kierunki  realizacji  polityki  oświatowej  państwa,  w tym zadania z zakresu nadzoru pedagogicznego;
+1) ustala podstawowe kierunki realizacji polityki oświatowej państwa, w tym zadania z zakresu nadzoru pedagogicznego;
 
-- kontroluje  sprawność  i efektywność  nadzoru  pedagogicznego  sprawowanego przez kuratorów oświaty oraz przestrzeganie przepisów obowiązujących w tym zakresie,  a także  może  wydawać  na  piśmie  kuratorom  oświaty  wiążące  ich wytyczne i polecenia, z wyjątkiem indywidualnych spraw rozstrzyganych w drodze decyzji administracyjnej;
+2) kontroluje sprawność i efektywność nadzoru pedagogicznego sprawowanego przez kuratorów oświaty oraz przestrzeganie przepisów obowiązujących w tym zakresie, a także może wydawać na piśmie kuratorom oświaty wiążące ich wytyczne i polecenia, z wyjątkiem indywidualnych spraw rozstrzyganych w drodze decyzji administracyjnej;
 
-- może  żądać  od  kuratorów  oświaty  informacji,  dokumentów  i sprawozdań okresowych lub dotyczących określonej sprawy albo rodzaju spraw;
+3) może żądać od kuratorów oświaty informacji, dokumentów i sprawozdań okresowych lub dotyczących określonej sprawy albo rodzaju spraw;
 
-- może organizować szkolenia, narady i konferencje kuratorów oświaty;
+4) może organizować szkolenia, narady i konferencje kuratorów oświaty;
 
-- może  ogłaszać  w wydawanym  przez  siebie  dzienniku  urzędowym  zalecane standardy wyposażenia szkół niezbędne do nauczania przedmiotów ogólnokształcących.
+5) może ogłaszać w wydawanym przez siebie dzienniku urzędowym zalecane standardy wyposażenia szkół niezbędne do nauczania przedmiotów ogólnokształcących.
 
 4. Minister Sprawiedliwości i podporządkowane organy sprawują nadzór pedagogiczny  nad  zakładami  poprawczymi,  schroniskami  dla  nieletnich  oraz  nad szkołami w tych zakładach i schroniskach, a także nad szkołami i placówkami przy zakładach  karnych  i aresztach  śledczych,  z wyjątkiem  nadzoru  nad  nauczaniem przedmiotów ogólnokształcących, który sprawuje kurator oświaty.
 
@@ -2602,9 +2616,9 @@ s. 82/216
 
 s. 83/216
 
-6. Minister właściwy do spraw oświaty i wychowania, w drodze rozporządzenia, może  powierzyć  podległej  sobie  jednostce  organizacyjnej  sprawowanie  nadzoru pedagogicznego nad szkołami polskimi oraz szkołami i zespołami szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c,  a także  wykonywanie  w odniesieniu  do  nich  zadań organu prowadzącego, o których mowa w art. 10 ust. 1 pkt 1-6, oraz zadań związanych z awansem zawodowym  nauczycieli tych szkół, o którym  mowa w ustawie z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
+6. Minister właściwy do spraw oświaty i wychowania, w drodze rozporządzenia, może powierzyć podległej sobie jednostce organizacyjnej sprawowanie nadzoru pedagogicznego nad szkołami polskimi oraz szkołami i zespołami szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c, a także wykonywanie w odniesieniu do nich zadań organu prowadzącego, o których mowa w art. 10 ust. 1 pkt 1–6, oraz zadań związanych z awansem zawodowym nauczycieli tych szkół, o którym mowa w ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
 
-6a. Przepisy  dotyczące  wydawania  decyzji  w sprawach  nadania  albo  odmowy nadania  stopnia  awansu  zawodowego  nauczycielom  szkół  polskich  oraz  szkół i zespołów szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c, przez ministra właściwego do spraw oświaty i wychowania stosuje się odpowiednio do kierownika jednostki organizacyjnej, o której mowa w przepisach wydanych na podstawie ust. 6. Do decyzji podjętych przez kierownika tej jednostki stosuje się odpowiednio przepis art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. -Kodeks postępowania administracyjnego.
+6a. Przepisy dotyczące wydawania decyzji w sprawach nadania albo odmowy nadania stopnia awansu zawodowego nauczycielom szkół polskich oraz szkół i zespołów szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c, przez ministra właściwego do spraw oświaty i wychowania stosuje się odpowiednio do kierownika jednostki organizacyjnej, o której mowa w przepisach wydanych na podstawie ust. 6. Do decyzji podjętych przez kierownika tej jednostki stosuje się odpowiednio przepis art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 7. Dyrektor  szkoły  lub  placówki  oraz  inni  nauczyciele  zajmujący  stanowiska kierownicze, z zastrzeżeniem art. 62 ust. 2, sprawują nadzór pedagogiczny w stosunku do nauczycieli zatrudnionych w tych szkołach i placówkach, a w szkołach i placówkach  prowadzących  kształcenie  zawodowe  oraz  u pracodawców,  u których jest  organizowana  praktyczna  nauka  zawodu,  także  w stosunku  do  instruktorów praktycznej nauki zawodu.
 
@@ -2612,7 +2626,7 @@ s. 83/216
 
 9. Kurator  oświaty  oraz  organy,  o których  mowa  w ust. 1  i 4  oraz  w art. 53 i art. 54,  mogą  zlecać  wyspecjalizowanym  instytucjom  lub  osobom  posiadającym odpowiednie kwalifikacje prowadzenie badań i opracowywanie ekspertyz służących ocenie  efektywności  działalności  dydaktycznej,  wychowawczej  oraz  opiekuńczej szkół i placówek.
 
-10. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym  do  spraw  kultury i ochrony dziedzictwa  narodowego, Ministrem  Sprawiedliwości,  ministrem  właściwym  do  spraw  rolnictwa,  ministrem właściwym  do  spraw  środowiska,  ministrem  właściwym  do  spraw  gospodarki morskiej, ministrem właściwym do spraw żeglugi śródlądowej, ministrem właściwym do  spraw  rybołówstwa,  ministrem  właściwym  do  spraw  wewnętrznych,  Ministrem Obrony  Narodowej  oraz  ministrem  właściwym  do  spraw  informatyzacji  określi, w drodze  rozporządzenia,  szczegółowe  warunki  i tryb  sprawowania  oraz  formy nadzoru pedagogicznego, zakres danych gromadzonych na elektronicznej platformie nadzoru  pedagogicznego,  sposób  i zakres  dostępu  do  elektronicznej platformy nadzoru pedagogicznego osób realizujących zadania w zakresie nadzoru pedagogicznego, nauczycieli, uczniów, rodziców i przedstawicieli organów prowadzących  szkoły  lub  placówki,  wykaz  stanowisk,  o których  mowa  w ust. 8, kwalifikacje niezbędne do sprawowania nadzoru pedagogicznego, a także kwalifikacje  osób,  o których  mowa  w ust. 9,  uwzględniając  wymogi  sprawności, skuteczności i efektywności nadzoru pedagogicznego.
+10. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, Ministrem Sprawiedliwości, ministrem właściwym do spraw rolnictwa, ministrem
 
 02.12.2019
 
@@ -2624,6 +2638,8 @@ s. 83/216
 
 s. 84/216
 
+właściwym do spraw środowiska, ministrem właściwym do spraw gospodarki morskiej, ministrem właściwym do spraw żeglugi śródlądowej, ministrem właściwym do spraw rybołówstwa, ministrem właściwym do spraw wewnętrznych, Ministrem Obrony Narodowej oraz ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowe warunki i tryb sprawowania oraz formy nadzoru pedagogicznego, zakres danych gromadzonych na elektronicznej platformie nadzoru pedagogicznego, sposób i zakres dostępu do elektronicznej platformy nadzoru pedagogicznego osób realizujących zadania w zakresie nadzoru pedagogicznego, nauczycieli, uczniów, rodziców i przedstawicieli organów prowadzących szkoły lub placówki, wykaz stanowisk, o których mowa w ust. 8, kwalifikacje niezbędne do sprawowania nadzoru pedagogicznego, a także kwalifikacje osób, o których mowa w ust. 9, uwzględniając wymogi sprawności, skuteczności i efektywności nadzoru pedagogicznego.
+
 ##### Art. 61.
 Przepisy  art. 44 ust. 1  i 2,  art. 55  i art. 56  oraz  przepisy  wydane  na podstawie art. 44 ust. 3 stosuje się odpowiednio do przedszkola, innej formy wychowania przedszkolnego i szkoły polskiej, oraz szkoły i zespołu szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c.
 
@@ -2634,7 +2650,7 @@ Przepisy  art. 44 ust. 1  i 2,  art. 55  i art. 56  oraz  przepisy  wydane  na p
 
 3. Osoba, o której mowa w ust. 2, nie może sprawować nadzoru pedagogicznego. W przypadku powołania takiej osoby na stanowisko dyrektora nadzór pedagogiczny sprawuje nauczyciel zajmujący inne stanowisko kierownicze w szkole lub placówce.
 
-4. Minister  właściwy  do  spraw  oświaty  i wychowania,  a w stosunku  do  szkół i placówek artystycznych - minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, określi, w drodze rozporządzenia, wymagania, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora oraz inne stanowisko kierownicze w poszczególnych typach szkół i rodzajach placówek, uwzględniając w szczególności kwalifikacje  do  zajmowania  stanowiska  nauczyciela  w danej  szkole  lub  placówce, przygotowanie w zakresie zarządzania, ocenę pracy i spełnianie warunków zdrowotnych do zajmowania stanowiska kierowniczego.
+4. Minister właściwy do spraw oświaty i wychowania, a w stosunku do szkół i placówek artystycznych – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, określi, w drodze rozporządzenia, wymagania, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora oraz inne stanowisko kierownicze w poszczególnych typach szkół i rodzajach placówek, uwzględniając w szczególności kwalifikacje do zajmowania stanowiska nauczyciela w danej szkole lub placówce, przygotowanie w zakresie zarządzania, ocenę pracy i spełnianie warunków zdrowotnych do zajmowania stanowiska kierowniczego.
 
 02.12.2019
 
@@ -2649,7 +2665,7 @@ s. 85/216
 ##### Art. 63.
 1. Stanowisko dyrektora szkoły lub placówki powierza organ prowadzący szkołę lub placówkę.
 
-2. Na  stanowisko  dyrektora  publicznej  placówki  doskonalenia  nauczycieli o zasięgu  ogólnokrajowym,  publicznej  placówki  doskonalenia  nauczycieli  szkół artystycznych  oraz  publicznej  placówki  doskonalenia  nauczycieli  przedmiotów zawodowych,  którzy  nauczają  w szkołach  rolniczych  oraz  publicznej  placówki doskonalenia  nauczycieli  przedmiotów  zawodowych  o zasięgu  ogólnokrajowym, o których mowa  w art. 8 ust. 5 pkt 1 lit. b, ust. 6, ust. 7 pkt 2 i ust. 14, powołuje i odwołuje  z tego  stanowiska  właściwy  minister  prowadzący  placówkę.  Przepisów ust. 10-22 nie stosuje się. Powołanie i odwołanie następuje na podstawie przepisów ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy dotyczących nawiązania stosunku pracy na podstawie powołania.
+2. Na stanowisko dyrektora publicznej placówki doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznej placówki doskonalenia nauczycieli szkół artystycznych oraz publicznej placówki doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych oraz publicznej placówki doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym, o których mowa w art. 8 ust. 5 pkt 1 lit. b, ust. 6, ust. 7 pkt 2 i ust. 14, powołuje i odwołuje z tego stanowiska właściwy minister prowadzący placówkę. Przepisów ust. 10–22 nie stosuje się. Powołanie i odwołanie następuje na podstawie przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy dotyczących nawiązania stosunku pracy na podstawie powołania.
 
 3. Kandydata na stanowisko dyrektora placówki, o której mowa w ust. 2, wyłania się w drodze konkursu.
 
@@ -2659,13 +2675,13 @@ s. 85/216
 
 6. Stanowisko  dyrektora  placówki,  o której  mowa  w ust. 2,  może  zajmować osoba:
 
-- która  posiada  wykształcenie  wyższe  i tytuł  zawodowy  magister,  magister inżynier lub równorzędny;
+1) która posiada wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny;
 
-- która posiada staż pracy określony w przepisach wydanych na podstawie ust. 7;
+2) która posiada staż pracy określony w przepisach wydanych na podstawie ust. 7;
 
-- która posiada doświadczenie związane z prowadzeniem działań na rzecz rozwoju szkół i placówek lub doświadczenie na stanowisku kierowniczym;
+3) która posiada doświadczenie związane z prowadzeniem działań na rzecz rozwoju szkół i placówek lub doświadczenie na stanowisku kierowniczym;
 
-- która spełnia warunki zdrowotne niezbędne do wykonywania  pracy na stanowisku kierowniczym;
+4) która spełnia warunki zdrowotne niezbędne do wykonywania pracy na stanowisku kierowniczym;
 
 02.12.2019
 
@@ -2677,25 +2693,25 @@ s. 85/216
 
 s. 86/216
 
-- która  ma  pełną  zdolność  do  czynności  prawnych  i korzysta  z pełni  praw publicznych;
+5) która ma pełną zdolność do czynności prawnych i korzysta z pełni praw publicznych;
 
-- która  nie  była  karana  karą  dyscyplinarną  oraz  nie  toczy  się  przeciwko  niej postępowanie dyscyplinarne;
+6) która nie była karana karą dyscyplinarną oraz nie toczy się przeciwko niej postępowanie dyscyplinarne;
 
-- która nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+7) która nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 
-- przeciwko której nie toczy się postępowanie o przestępstwo ścigane z oskarżenia publicznego;
+8) przeciwko której nie toczy się postępowanie o przestępstwo ścigane z oskarżenia publicznego;
 
-- która nie była karana zakazem pełnienia funkcji związanych z dysponowaniem środkami  publicznymi,  o którym  mowa  w art. 31 ust. 1 pkt 4  ustawy  z dnia 17 grudnia  2004 r.  o odpowiedzialności  za  naruszenie  dyscypliny  finansów publicznych (Dz. U. z 2018 r. poz. 1458, 1669, 1693 i 2192 oraz z 2019 r. poz. 730);
+9) która nie była karana zakazem pełnienia funkcji związanych z dysponowaniem środkami publicznymi, o którym mowa w art. 31 ust. 1 pkt 4 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2018 r. poz. 1458, 1669, 1693 i 2192 oraz z 2019 r. poz. 730);
 
-- która nie była karana karą porządkową, o której mowa w art. 108 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy.
+10) która nie była karana karą porządkową, o której mowa w art. 108 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 7. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym  do  spraw  kultury i ochrony dziedzictwa  narodowego, ministrem  właściwym  do  spraw  rolnictwa  oraz  ministrem  właściwym  do  spraw zdrowia określi, w drodze rozporządzenia, staż pracy wymagany od osoby zajmującej stanowisko dyrektora placówki, o której mowa w ust. 2, sposób i tryb przeprowadzania konkursu oraz skład i tryb pracy komisji konkursowej, uwzględniając  sposób  ogłaszania  konkursu,  sposób  wyłaniania  kandydata,  sposób sprawowania  nadzoru  nad  prawidłowością  postępowania  konkursowego  oraz  tryb unieważnienia konkursu.
 
 8. W rozporządzeniu,  o którym  mowa  w ust. 7,  minister  właściwy  do  spraw oświaty  i wychowania  w porozumieniu  z ministrem  właściwym  do  spraw  kultury i ochrony dziedzictwa narodowego, ministrem właściwym do spraw rolnictwa oraz ministrem właściwym do spraw zdrowia może określić dodatkowe wymagania, jakim powinna odpowiadać osoba zajmująca stanowisko odpowiednio:
 
-- dyrektora publicznej placówki doskonalenia nauczycieli o zasięgu ogólnokrajowym, o której mowa w art. 8 ust. 5 pkt 1 lit. b;
+1) dyrektora publicznej placówki doskonalenia nauczycieli o zasięgu ogólnokrajowym, o której mowa w art. 8 ust. 5 pkt 1 lit. b;
 
-- dyrektora  publicznej  placówki  doskonalenia  nauczycieli  szkół  artystycznych, o której mowa w art. 8 ust. 6;
+2) dyrektora publicznej placówki doskonalenia nauczycieli szkół artystycznych, o której mowa w art. 8 ust. 6;
 
 02.12.2019
 
@@ -2707,11 +2723,11 @@ s. 86/216
 
 s. 87/216
 
-- dyrektora publicznej placówki doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, o której mowa w art. 8 ust. 7 pkt 2;
+3) dyrektora publicznej placówki doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, o której mowa w art. 8 ust. 7 pkt 2;
 
-- dyrektora publicznej placówki doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym, o której mowa w art. 8 ust. 14.
+4) dyrektora publicznej placówki doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym, o której mowa w art. 8 ust. 14.
 
-9. Przepisy  ust. 2-6  oraz  przepisy  wydane  na  podstawie  ust. 7  i 8 stosuje  się także do dyrektora zespołu szkół i placówek oraz dyrektora zespołu placówek, w skład których wchodzi co najmniej jedna placówka, o której mowa w ust. 2.
+9. Przepisy ust. 2–6 oraz przepisy wydane na podstawie ust. 7 i 8 stosuje się także do dyrektora zespołu szkół i placówek oraz dyrektora zespołu placówek, w skład których wchodzi co najmniej jedna placówka, o której mowa w ust. 2.
 
 10. Kandydata  na  stanowisko  dyrektora  szkoły  lub  placówki  wyłania  się w drodze  konkursu.  Kandydatowi  nie  można  odmówić  powierzenia  stanowiska dyrektora.
 
@@ -2723,19 +2739,19 @@ s. 87/216
 
 14. W celu przeprowadzenia konkursu organ prowadzący szkołę lub placówkę powołuje komisję konkursową w składzie:
 
-- po trzech przedstawicieli:
+1) po trzech przedstawicieli:
 
-- organu prowadzącego szkołę lub placówkę,
+a) organu prowadzącego szkołę lub placówkę,
 
-- organu sprawującego nadzór pedagogiczny,
+b) organu sprawującego nadzór pedagogiczny,
 
-- po dwóch przedstawicieli:
+2) po dwóch przedstawicieli:
 
-- rady pedagogicznej,
+a) rady pedagogicznej,
 
-- rady rodziców,
+b) rady rodziców,
 
-- po  jednym  przedstawicielu  organizacji  związkowych  reprezentatywnych  w rozumieniu  ustawy  o  Radzie  Dialogu  Społecznego,  wyłonionym  spośród członków ich jednostek organizacyjnych albo jednostek organizacyjnych
+3) po jednym przedstawicielu organizacji związkowych reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego, wyłonionym spośród członków ich jednostek organizacyjnych albo jednostek organizacyjnych
 
 02.12.2019
 
@@ -2749,23 +2765,23 @@ s. 88/216
 
 organizacji związkowych wchodzących w skład reprezentatywnych organizacji związkowych, zrzeszających nauczycieli, obejmujących swoim zakresem działania szkołę lub placówkę, w której konkurs się odbywa
 
-- z zastrzeżeniem ust. 15.
+– z zastrzeżeniem ust. 15.
 
 15. Łączna liczba przedstawicieli organów, o których mowa w ust. 14 pkt 1, nie może być mniejsza niż łączna liczba przedstawicieli, o których mowa w ust. 14 pkt 2 i 3.
 
 16. Jeżeli w składzie komisji konkursowej łączna liczba przedstawicieli organów,  o których  mowa  w ust. 14  pkt 1,  byłaby  mniejsza  niż  łączna  liczba przedstawicieli,  o których  mowa  w ust. 14 pkt 2  i 3,  liczbę  przedstawicieli  tych organów zwiększa się proporcjonalnie, tak aby ich łączna liczba nie była mniejsza niż łączna  liczba  przedstawicieli,  o których  mowa  w ust. 14 pkt 2  i 3,  uwzględniając udział  przedstawicieli  organu  sprawującego  nadzór  pedagogiczny  w liczbie  równej liczbie przedstawicieli organu prowadzącego szkołę lub placówkę.
 
-17. Przepisy ust. 14-16 stosuje się również w przypadku konkursu na stanowisko dyrektora zespołu szkół lub placówek, w tym nowo zakładanego zespołu szkół lub placówek, z tym że:
+17. Przepisy ust. 14–16 stosuje się również w przypadku konkursu na stanowisko dyrektora zespołu szkół lub placówek, w tym nowo zakładanego zespołu szkół lub placówek, z tym że:
 
-- dwóch przedstawicieli rady pedagogicznej wyłania się spośród przedstawicieli rad pedagogicznych wszystkich szkół lub placówek wchodzących w zespół lub łączonych w zespół;
+1) dwóch przedstawicieli rady pedagogicznej wyłania się spośród przedstawicieli rad pedagogicznych wszystkich szkół lub placówek wchodzących w zespół lub łączonych w zespół;
 
-- dwóch przedstawicieli rady rodziców wyłania się spośród rad rodziców uczniów wszystkich szkół lub placówek wchodzących w zespół lub łączonych w zespół.
+2) dwóch przedstawicieli rady rodziców wyłania się spośród rad rodziców uczniów wszystkich szkół lub placówek wchodzących w zespół lub łączonych w zespół.
 
 18. W przypadku szkół i placówek nowo zakładanych skład komisji konkursowej określa organ prowadzący szkołę lub placówkę, uwzględniając udział przedstawicieli organu sprawującego nadzór pedagogiczny w liczbie równej liczbie przedstawicieli organu prowadzącego szkołę lub placówkę.
 
 19. W przypadku  szkół  i placówek,  o których  mowa  w art. 74  i art. 82 ust. 1, w skład komisji nie wchodzą odpowiednio przedstawiciele rady pedagogicznej i rady rodziców.
 
-20. Minister  właściwy  do  spraw  oświaty  i wychowania,  a w przypadku  szkół artystycznych i placówek, o których  mowa w art. 2 pkt 8, dla uczniów szkół artystycznych -minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, określi,  w drodze  rozporządzenia,  regulamin  konkursu  na  stanowisko dyrektora szkoły lub placówki oraz tryb pracy komisji konkursowej, uwzględniając w szczególności  sposób  ogłaszania  konkursu  oraz  sposób  nadzorowania  prawidłowości postępowania konkursowego przez organ prowadzący szkołę lub placówkę.
+20. Minister właściwy do spraw oświaty i wychowania, a w przypadku szkół artystycznych i placówek, o których mowa w art. 2 pkt 8, dla uczniów szkół artystycznych – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, określi, w drodze rozporządzenia, regulamin konkursu na stanowisko dyrektora szkoły lub placówki oraz tryb pracy komisji konkursowej, uwzględniając w szczególności sposób ogłaszania konkursu oraz sposób nadzorowania prawidłowości postępowania konkursowego przez organ prowadzący szkołę lub placówkę.
 
 02.12.2019
 
@@ -2779,9 +2795,9 @@ s. 89/216
 
 21. Stanowisko dyrektora szkoły lub placówki powierza się na 5 lat szkolnych. W uzasadnionych  przypadkach  można  powierzyć  to  stanowisko  na  krótszy  okres, jednak nie krótszy niż 1 rok szkolny.
 
-22. Przepisy ust. 1-21 stosuje się odpowiednio do osoby, o której  mowa w art. 62 ust. 2.
+22. Przepisy ust. 1–21 stosuje się odpowiednio do osoby, o której mowa w art. 62 ust. 2.
 
-23. Przepisy ust. 1-22 i art. 64 nie dotyczą szkół prowadzonych przez Ministra Obrony Narodowej i Ministra Sprawiedliwości lub podporządkowane im organy.
+23. Przepisy ust. 1–22 i art. 64 nie dotyczą szkół prowadzonych przez Ministra Obrony Narodowej i Ministra Sprawiedliwości lub podporządkowane im organy.
 
 ##### Art. 64.
 1.  Jeżeli  w szkole  utworzono  stanowisko  wicedyrektora  lub  inne stanowiska  kierownicze,  powierzenia  tych  stanowisk  i odwołania  z nich  dokonuje dyrektor szkoły, po zasięgnięciu opinii organu prowadzącego, rady szkoły oraz rady pedagogicznej.
@@ -2812,13 +2828,13 @@ s. 89/216
 
 s. 90/216
 
-- złożenia przez nauczyciela rezygnacji, za trzymiesięcznym wypowiedzeniem,
+a) złożenia przez nauczyciela rezygnacji, za trzymiesięcznym wypowiedzeniem,
 
-- ustalenia  negatywnej  oceny  pracy  lub  negatywnej  oceny  wykonywania zadań wymienionych  w art. 57 ust. 2 w trybie określonym  przepisami w sprawie oceny pracy nauczycieli - bez wypowiedzenia,
+b) ustalenia negatywnej oceny pracy lub negatywnej oceny wykonywania zadań wymienionych w art. 57 ust. 2 w trybie określonym przepisami w sprawie oceny pracy nauczycieli – bez wypowiedzenia,
 
-- złożenia przez organ sprawujący nadzór pedagogiczny wniosku, o którym mowa w art. 56 ust. 3;
+c) złożenia przez organ sprawujący nadzór pedagogiczny wniosku, o którym mowa w art. 56 ust. 3;
 
-- w  przypadkach  szczególnie  uzasadnionych,  po  zasięgnięciu  opinii  kuratora oświaty, a w przypadku szkoły i placówki artystycznej oraz placówki, o której mowa  w art. 2 pkt 8,  dla  uczniów  szkół  artystycznych  prowadzonej  przez jednostkę  samorządu  terytorialnego  -  ministra  właściwego  do  spraw  kultury i ochrony  dziedzictwa  narodowego,  może  odwołać  nauczyciela  ze  stanowiska kierowniczego w czasie roku szkolnego bez wypowiedzenia.
+2) w przypadkach szczególnie uzasadnionych, po zasięgnięciu opinii kuratora oświaty, a w przypadku szkoły i placówki artystycznej oraz placówki, o której mowa w art. 2 pkt 8, dla uczniów szkół artystycznych prowadzonej przez jednostkę samorządu terytorialnego – ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, może odwołać nauczyciela ze stanowiska kierowniczego w czasie roku szkolnego bez wypowiedzenia.
 
 2. Opinię,  o której  mowa  w ust. 1 pkt 2,  wydaje  się  w terminie  21 dni  od  dnia otrzymania wystąpienia organu, o którym mowa w ust. 1.
 
@@ -2830,13 +2846,13 @@ s. 90/216
 ##### Art. 68.
 1. Dyrektor szkoły lub placówki w szczególności:
 
-- kieruje działalnością szkoły lub placówki oraz reprezentuje ją na zewnątrz;
+1) kieruje działalnością szkoły lub placówki oraz reprezentuje ją na zewnątrz;
 
-- sprawuje nadzór pedagogiczny, z zastrzeżeniem art. 62 ust. 2;
+2) sprawuje nadzór pedagogiczny, z zastrzeżeniem art. 62 ust. 2;
 
-- sprawuje  opiekę  nad  uczniami  oraz  stwarza  warunki  harmonijnego  rozwoju psychofizycznego poprzez aktywne działania prozdrowotne;
+3) sprawuje opiekę nad uczniami oraz stwarza warunki harmonijnego rozwoju psychofizycznego poprzez aktywne działania prozdrowotne;
 
-- realizuje  uchwały  rady  szkoły  lub  placówki  oraz  rady  pedagogicznej,  podjęte w ramach ich kompetencji stanowiących;
+4) realizuje uchwały rady szkoły lub placówki oraz rady pedagogicznej, podjęte w ramach ich kompetencji stanowiących;
 
 02.12.2019
 
@@ -2848,21 +2864,21 @@ s. 90/216
 
 s. 91/216
 
-- dysponuje  środkami  określonymi  w planie  finansowym  szkoły  lub  placówki zaopiniowanym przez radę szkoły lub placówki i ponosi odpowiedzialność za ich prawidłowe wykorzystanie, a także może organizować administracyjną, finansową i gospodarczą obsługę szkoły lub placówki;
+5) dysponuje środkami określonymi w planie finansowym szkoły lub placówki zaopiniowanym przez radę szkoły lub placówki i ponosi odpowiedzialność za ich prawidłowe wykorzystanie, a także może organizować administracyjną, finansową i gospodarczą obsługę szkoły lub placówki;
 
-- wykonuje zadania związane z zapewnieniem bezpieczeństwa uczniom i nauczycielom w czasie zajęć organizowanych przez szkołę lub placówkę;
+6) wykonuje zadania związane z zapewnieniem bezpieczeństwa uczniom i nauczycielom w czasie zajęć organizowanych przez szkołę lub placówkę;
 
-- wykonuje inne zadania wynikające z przepisów szczególnych;
+7) wykonuje inne zadania wynikające z przepisów szczególnych;
 
-- współdziała ze szkołami wyższymi w organizacji praktyk pedagogicznych;
+8) współdziała ze szkołami wyższymi w organizacji praktyk pedagogicznych;
 
-- stwarza warunki do działania w szkole lub placówce: wolontariuszy, stowarzyszeń  i innych  organizacji,  w  szczególności  organizacji  harcerskich, których  celem  statutowym  jest  działalność  wychowawcza  lub  rozszerzanie  i wzbogacanie  form  działalności  dydaktycznej,  wychowawczej,  opiekuńczej i innowacyjnej szkoły lub placówki;
+9) stwarza warunki do działania w szkole lub placówce: wolontariuszy, stowarzyszeń i innych organizacji, w szczególności organizacji harcerskich, których celem statutowym jest działalność wychowawcza lub rozszerzanie i wzbogacanie form działalności dydaktycznej, wychowawczej, opiekuńczej i innowacyjnej szkoły lub placówki;
 
-- odpowiada za realizację zaleceń wynikających z orzeczenia o potrzebie kształcenia specjalnego ucznia;
+10) odpowiada za realizację zaleceń wynikających z orzeczenia o potrzebie kształcenia specjalnego ucznia;
 
-- współpracuje  z pielęgniarką  albo  higienistką  szkolną,  lekarzem  i lekarzem dentystą, sprawującymi profilaktyczną opiekę zdrowotną nad dziećmi i młodzieżą,  w tym  udostępnia  imię,  nazwisko  i numer  PESEL  ucznia  celem właściwej realizacji tej opieki;
+11) współpracuje z pielęgniarką albo higienistką szkolną, lekarzem i lekarzem dentystą, sprawującymi profilaktyczną opiekę zdrowotną nad dziećmi i młodzieżą, w tym udostępnia imię, nazwisko i numer PESEL ucznia celem właściwej realizacji tej opieki;
 
-- wdraża odpowiednie środki techniczne i organizacyjne zapewniające zgodność przetwarzania  danych  osobowych  przez  szkołę  lub  placówkę  z  przepisami  o ochronie danych osobowych.
+12) wdraża odpowiednie środki techniczne i organizacyjne zapewniające zgodność przetwarzania danych osobowych przez szkołę lub placówkę z przepisami o ochronie danych osobowych.
 
 2. Dyrektor szkoły lub placówki może, w drodze decyzji, skreślić ucznia z listy uczniów  w przypadkach  określonych  w statucie  szkoły  lub  placówki.  Skreślenie następuje na podstawie uchwały rady pedagogicznej, po zasięgnięciu opinii samorządu uczniowskiego.
 
@@ -2884,23 +2900,23 @@ s. 92/216
 
 5. Dyrektor  jest  kierownikiem  zakładu  pracy  dla  zatrudnionych  w szkole  lub placówce nauczycieli i pracowników niebędących nauczycielami. Dyrektor w szczególności decyduje w sprawach:
 
-- zatrudniania  i zwalniania  nauczycieli  oraz  innych  pracowników  szkoły  lub placówki;
+1) zatrudniania i zwalniania nauczycieli oraz innych pracowników szkoły lub placówki;
 
-- przyznawania nagród oraz  wymierzania  kar  porządkowych  nauczycielom i innym pracownikom szkoły lub placówki;
+2) przyznawania nagród oraz wymierzania kar porządkowych nauczycielom i innym pracownikom szkoły lub placówki;
 
-- występowania  z wnioskami,  po  zasięgnięciu  opinii  rady  pedagogicznej  i rady szkoły  lub  placówki,  w sprawach  odznaczeń,  nagród  i innych  wyróżnień  dla nauczycieli oraz pozostałych pracowników szkoły lub placówki.
+3) występowania z wnioskami, po zasięgnięciu opinii rady pedagogicznej i rady szkoły lub placówki, w sprawach odznaczeń, nagród i innych wyróżnień dla nauczycieli oraz pozostałych pracowników szkoły lub placówki.
 
 6. Dyrektor  szkoły  lub  placówki  w wykonywaniu  swoich  zadań  współpracuje z radą szkoły lub placówki, radą pedagogiczną, rodzicami i samorządem uczniowskim.
 
 7. Dyrektor  szkoły  prowadzącej  kształcenie  zawodowe,  z wyjątkiem  szkoły artystycznej, w porozumieniu z organem prowadzącym szkołę ustala zawody, w których kształci szkoła, po:
 
-- uzyskaniu  opinii  wojewódzkiej  rady  rynku  pracy  o zasadności  kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 22 ust. 5 pkt 5 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, oraz
+1) uzyskaniu opinii wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 22 ust. 5 pkt 5 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, oraz
 
-- nawiązaniu  współpracy  odpowiednio  z pracodawcą  lub  osobą  prowadzącą indywidualne  gospodarstwo rolne, których działalność jest  związana  z danym zawodem lub  branżą,  w ramach  umowy,  porozumienia  lub  ustaleń,  o których mowa  w art. 120a  ust. 1,  obejmujących  co  najmniej  jeden  cykl  kształcenia w danym zawodzie.
+2) nawiązaniu współpracy odpowiednio z pracodawcą lub osobą prowadzącą indywidualne gospodarstwo rolne, których działalność jest związana z danym zawodem lub branżą, w ramach umowy, porozumienia lub ustaleń, o których mowa w art. 120a ust. 1, obejmujących co najmniej jeden cykl kształcenia w danym zawodzie.
 
 7a. Opinia  wojewódzkiej  rady  rynku  pracy  o zasadności  kształcenia  w danym zawodzie, o której mowa w ust. 7 pkt 1, nie jest wymagana w przypadku:
 
-- rozpoczynania kształcenia w zawodzie o charakterze pomocniczym, jeżeli szkoła posiada opinię o zasadności kształcenia w zawodzie,  dla którego w klasyfikacji zawodów szkolnictwa branżowego, przewidziano zawód o charakterze pomocniczym;
+1) rozpoczynania kształcenia w zawodzie o charakterze pomocniczym, jeżeli szkoła posiada opinię o zasadności kształcenia w zawodzie, dla którego w klasyfikacji zawodów szkolnictwa branżowego, przewidziano zawód o charakterze pomocniczym;
 
 02.12.2019
 
@@ -2912,31 +2928,31 @@ s. 92/216
 
 s. 93/216
 
-- organizowania w branżowej szkole I stopnia  oddziału  wyłącznie  dla  uczniów będących młodocianymi pracownikami.
+2) organizowania w branżowej szkole I stopnia oddziału wyłącznie dla uczniów będących młodocianymi pracownikami.
 
 7b. Uzyskanie  ponownej  opinii  wojewódzkiej  rady  rynku  pracy  o zasadności kształcenia w danym  zawodzie, o której mowa  w ust. 7 pkt 1, jest  wymagane w przypadku gdy zawód ten nie jest wskazany przez ministra właściwego do spraw oświaty i wychowania w prognozie, o której mowa w art. 46b ust. 1.
 
 7c. Współpraca, o której mowa w ust. 7 pkt 2, polega w szczególności na:
 
-- tworzeniu klas patronackich;
+1) tworzeniu klas patronackich;
 
-- przygotowaniu propozycji programu nauczania zawodu;
+2) przygotowaniu propozycji programu nauczania zawodu;
 
-- realizacji kształcenia zawodowego, w tym praktycznej nauki zawodu;
+3) realizacji kształcenia zawodowego, w tym praktycznej nauki zawodu;
 
-- wyposażeniu warsztatów lub pracowni szkolnych;
+4) wyposażeniu warsztatów lub pracowni szkolnych;
 
-- organizacji egzaminu zawodowego;
+5) organizacji egzaminu zawodowego;
 
-- doskonaleniu nauczycieli kształcenia zawodowego, w tym organizowaniu szkoleń branżowych;
+6) doskonaleniu nauczycieli kształcenia zawodowego, w tym organizowaniu szkoleń branżowych;
 
-- realizacji doradztwa zawodowego i promocji kształcenia zawodowego.
+7) realizacji doradztwa zawodowego i promocji kształcenia zawodowego.
 
 7d. Przepisów  ust. 7 pkt 2  i ust. 7c,  nie  stosuje  się  do  branżowych  szkół  II stopnia.
 
 8. Uprawnienia, o których mowa w ust. 5, nie przysługują dyrektorom jednooddziałowych przedszkoli oraz kierownikom  szkół podstawowych  (szkół filialnych) podporządkowanych organizacyjnie innej szkole. Uprawnienia te przysługują  odpowiednio  organowi  prowadzącemu  przedszkole  lub  dyrektorowi szkoły, któremu szkoła filialna jest organizacyjnie podporządkowana.
 
-9. W przypadku  nieobecności  dyrektora  szkoły  lub  placówki  zastępuje  go wicedyrektor,  a w szkołach  i placówkach,  w których  nie  utworzono  stanowiska wicedyrektora - inny nauczyciel tej szkoły lub placówki, wyznaczony przez organ prowadzący.
+9. W przypadku nieobecności dyrektora szkoły lub placówki zastępuje go wicedyrektor, a w szkołach i placówkach, w których nie utworzono stanowiska wicedyrektora – inny nauczyciel tej szkoły lub placówki, wyznaczony przez organ prowadzący.
 
 ##### Art. 69.
 1.  W szkole  lub  placówce  zatrudniającej  co  najmniej  3 nauczycieli działa  rada  pedagogiczna,  która  jest  kolegialnym  organem  szkoły  lub  placówki w zakresie  realizacji  jej  statutowych  zadań  dotyczących  kształcenia,  wychowania i opieki.
@@ -2955,7 +2971,7 @@ s. 94/216
 
 3. W skład rady pedagogicznej wchodzą: dyrektor szkoły lub placówki i wszyscy nauczyciele  zatrudnieni  w szkole  lub  placówce  oraz  pracownicy  innych  zakładów pracy pełniący funkcję instruktorów praktycznej nauki zawodu lub prowadzący pracę wychowawczą z młodocianymi pracownikami w placówkach zbiorowego zakwaterowania, dla których praca dydaktyczna i wychowawcza stanowi podstawowe zajęcie.
 
-3a. W zebraniach  rady  pedagogicznej  mogą  również  brać  udział,  z głosem doradczym, osoby zapraszane przez jej przewodniczącego za zgodą lub na wniosek rady pedagogicznej, w tym przedstawiciele stowarzyszeń i innych organizacji, w szczególności organizacji harcerskich, których celem statutowym jest działalność wychowawcza  lub  rozszerzanie  i wzbogacanie  form  działalności  dydaktycznej, wychowawczej i opiekuńczej szkoły lub placówki, a w przypadku szkoły prowadzącej kształcenie zawodowe -również przedstawiciele pracodawców, organizacji pracodawców,  samorządu  gospodarczego  lub  innych  organizacji  gospodarczych, stowarzyszeń lub samorządów  zawodowych  oraz  sektorowych rad do spraw kompetencji.
+3a. W zebraniach rady pedagogicznej mogą również brać udział, z głosem doradczym, osoby zapraszane przez jej przewodniczącego za zgodą lub na wniosek rady pedagogicznej, w tym przedstawiciele stowarzyszeń i innych organizacji, w szczególności organizacji harcerskich, których celem statutowym jest działalność wychowawcza lub rozszerzanie i wzbogacanie form działalności dydaktycznej, wychowawczej i opiekuńczej szkoły lub placówki, a w przypadku szkoły prowadzącej kształcenie zawodowe – również przedstawiciele pracodawców, organizacji pracodawców, samorządu gospodarczego lub innych organizacji gospodarczych, stowarzyszeń lub samorządów zawodowych oraz sektorowych rad do spraw kompetencji.
 
 4. Przewodniczącym rady pedagogicznej jest dyrektor szkoły lub placówki.
 
@@ -2980,27 +2996,27 @@ s. 95/216
 ##### Art. 70.
 1. Do kompetencji stanowiących rady pedagogicznej należy:
 
-- zatwierdzanie planów pracy szkoły lub placówki po zaopiniowaniu przez radę szkoły lub placówki;
+1) zatwierdzanie planów pracy szkoły lub placówki po zaopiniowaniu przez radę szkoły lub placówki;
 
-- podejmowanie uchwał w sprawie wyników klasyfikacji i promocji uczniów;
+2) podejmowanie uchwał w sprawie wyników klasyfikacji i promocji uczniów;
 
-- podejmowanie uchwał w sprawie eksperymentów pedagogicznych w szkole lub placówce, po zaopiniowaniu ich projektów przez radę szkoły lub placówki oraz radę rodziców;
+3) podejmowanie uchwał w sprawie eksperymentów pedagogicznych w szkole lub placówce, po zaopiniowaniu ich projektów przez radę szkoły lub placówki oraz radę rodziców;
 
-- ustalanie organizacji doskonalenia zawodowego nauczycieli szkoły lub placówki;
+4) ustalanie organizacji doskonalenia zawodowego nauczycieli szkoły lub placówki;
 
-- podejmowanie uchwał w sprawach skreślenia z listy uczniów;
+5) podejmowanie uchwał w sprawach skreślenia z listy uczniów;
 
-- ustalanie  sposobu  wykorzystania  wyników  nadzoru  pedagogicznego,  w tym sprawowanego  nad  szkołą  lub  placówką  przez  organ  sprawujący  nadzór pedagogiczny, w celu doskonalenia pracy szkoły lub placówki.
+6) ustalanie sposobu wykorzystania wyników nadzoru pedagogicznego, w tym sprawowanego nad szkołą lub placówką przez organ sprawujący nadzór pedagogiczny, w celu doskonalenia pracy szkoły lub placówki.
 
 2. Rada pedagogiczna opiniuje w szczególności:
 
-- organizację  pracy  szkoły  lub  placówki,  w tym  tygodniowy  rozkład  zajęć edukacyjnych,  oraz  organizację  kwalifikacyjnych  kursów  zawodowych,  jeżeli szkoła lub placówka takie kursy prowadzi;
+1) organizację pracy szkoły lub placówki, w tym tygodniowy rozkład zajęć edukacyjnych, oraz organizację kwalifikacyjnych kursów zawodowych, jeżeli szkoła lub placówka takie kursy prowadzi;
 
-- projekt planu finansowego szkoły lub placówki będącej jednostką budżetową;
+2) projekt planu finansowego szkoły lub placówki będącej jednostką budżetową;
 
-- wnioski  dyrektora  o przyznanie  nauczycielom  odznaczeń,  nagród  i innych wyróżnień;
+3) wnioski dyrektora o przyznanie nauczycielom odznaczeń, nagród i innych wyróżnień;
 
-- propozycje dyrektora szkoły lub placówki w sprawach przydziału nauczycielom stałych  prac  i zajęć  w ramach  wynagrodzenia  zasadniczego  oraz  dodatkowo płatnych zajęć dydaktycznych, wychowawczych i opiekuńczych.
+4) propozycje dyrektora szkoły lub placówki w sprawach przydziału nauczycielom stałych prac i zajęć w ramach wynagrodzenia zasadniczego oraz dodatkowo płatnych zajęć dydaktycznych, wychowawczych i opiekuńczych.
 
 ##### Art. 71.
 1.  Dyrektor  szkoły  lub  placówki  wstrzymuje  wykonanie  uchwał, o których mowa w art. 70 ust. 1, niezgodnych z przepisami prawa.
@@ -3062,21 +3078,21 @@ Minister  właściwy  do  spraw  oświaty  i wychowania  określi,  w drodze roz
 #### Społeczne organy w systemie oświaty
 
 ##### Art. 75.
-1.  Przy  ministrze  właściwym  do  spraw  oświaty  i wychowania  może działać Krajowa Rada Oświatowa, zwana dalej 'Krajową Radą', będąca społecznym organem opiniodawczym i wnioskodawczym w sprawach oświaty.
+1. Przy ministrze właściwym do spraw oświaty i wychowania może działać Krajowa Rada Oświatowa, zwana dalej „Krajową Radą”, będąca społecznym organem opiniodawczym i wnioskodawczym w sprawach oświaty.
 
 2. Krajową Radę tworzy minister właściwy do spraw oświaty i wychowania na wniosek wojewódzkich rad oświatowych reprezentujących co najmniej 1/4 województw.
 
 3. Krajowa Rada:
 
-- opracowuje i przedstawia ministrowi właściwemu do spraw oświaty i wychowania projekty założeń polityki oświatowej państwa;
+1) opracowuje i przedstawia ministrowi właściwemu do spraw oświaty i wychowania projekty założeń polityki oświatowej państwa;
 
-- opiniuje kryteria podziału środków będących w dyspozycji ministra właściwego do spraw oświaty i wychowania, przeznaczonych na oświatę;
+2) opiniuje kryteria podziału środków będących w dyspozycji ministra właściwego do spraw oświaty i wychowania, przeznaczonych na oświatę;
 
-- opiniuje  koncepcję  kształcenia,  w tym  ramowe  plany  nauczania  oraz  zakres obowiązujących podstaw programowych;
+3) opiniuje koncepcję kształcenia, w tym ramowe plany nauczania oraz zakres obowiązujących podstaw programowych;
 
-- opiniuje projekty aktów prawnych dotyczących oświaty;
+4) opiniuje projekty aktów prawnych dotyczących oświaty;
 
-- opiniuje inne sprawy dotyczące oświaty, przedstawione przez ministra właściwego do spraw oświaty i wychowania.
+5) opiniuje inne sprawy dotyczące oświaty, przedstawione przez ministra właściwego do spraw oświaty i wychowania.
 
 4. Krajowa  Rada  może  występować  z wnioskami  dotyczącymi  spraw  oświaty bezpośrednio do naczelnych i centralnych organów administracji rządowej.
 
@@ -3111,24 +3127,24 @@ s. 98/216
 
 2. Do zadań rady oświatowej należy:
 
-- badanie  potrzeb  oświatowych  na  obszarze  działania  jednostki  samorządu terytorialnego oraz przygotowywanie projektów ich zaspokajania;
+1) badanie potrzeb oświatowych na obszarze działania jednostki samorządu terytorialnego oraz przygotowywanie projektów ich zaspokajania;
 
-- opiniowanie  budżetu  jednostki  samorządu  terytorialnego  w części  dotyczącej wydatków na oświatę;
+2) opiniowanie budżetu jednostki samorządu terytorialnego w części dotyczącej wydatków na oświatę;
 
-- opiniowanie projektów sieci publicznych szkół i placówek;
+3) opiniowanie projektów sieci publicznych szkół i placówek;
 
-- opiniowanie  projektów  aktów  prawa  miejscowego  wydawanych  w sprawach oświaty;
+4) opiniowanie projektów aktów prawa miejscowego wydawanych w sprawach oświaty;
 
-- wyrażanie opinii i wniosków w innych sprawach dotyczących oświaty.
+5) wyrażanie opinii i wniosków w innych sprawach dotyczących oświaty.
 
-3. Właściwy organ jednostki samorządu terytorialnego jest obowiązany przedstawić radzie oświatowej projekty aktów, o których mowa w ust. 2 pkt 2-4.
+3. Właściwy organ jednostki samorządu terytorialnego jest obowiązany przedstawić radzie oświatowej projekty aktów, o których mowa w ust. 2 pkt 2–4.
 
 ##### Art. 79.
 Organ, o którym mowa w art. 78 ust. 1, ustala:
 
-- skład i zasady wyboru członków rady oświatowej;
+1) skład i zasady wyboru członków rady oświatowej;
 
-- regulamin działania rady oświatowej.
+2) regulamin działania rady oświatowej.
 
 ##### Art. 80.
 1. W szkołach i placówkach mogą działać rady szkół i placówek.
@@ -3145,28 +3161,28 @@ Organ, o którym mowa w art. 78 ust. 1, ustala:
 
 s. 99/216
 
-- uchwala statut szkoły lub placówki;
+1) uchwala statut szkoły lub placówki;
 
-- opiniuje projekt planu finansowego szkoły lub placówki;
+2) opiniuje projekt planu finansowego szkoły lub placówki;
 
-- może występować do organu sprawującego nadzór pedagogiczny nad szkołą lub placówką  z wnioskami  o zbadanie  i dokonanie  oceny  działalności  szkoły  lub placówki,  jej  dyrektora  lub  innego  nauczyciela  zatrudnionego  w szkole  lub placówce; wnioski te mają dla organu charakter wiążący;
+3) może występować do organu sprawującego nadzór pedagogiczny nad szkołą lub placówką z wnioskami o zbadanie i dokonanie oceny działalności szkoły lub placówki, jej dyrektora lub innego nauczyciela zatrudnionego w szkole lub placówce; wnioski te mają dla organu charakter wiążący;
 
-- opiniuje plan pracy szkoły lub placówki, projekty eksperymentów pedagogicznych oraz inne sprawy istotne dla szkoły lub placówki;
+4) opiniuje plan pracy szkoły lub placówki, projekty eksperymentów pedagogicznych oraz inne sprawy istotne dla szkoły lub placówki;
 
-- z własnej inicjatywy ocenia sytuację oraz stan szkoły lub placówki i występuje z wnioskami do dyrektora, rady pedagogicznej, organu prowadzącego szkołę lub placówkę oraz do wojewódzkiej rady oświatowej, w szczególności w sprawach organizacji zajęć, o których mowa w art. 109 ust. 1 pkt 2 i 5-7.
+5) z własnej inicjatywy ocenia sytuację oraz stan szkoły lub placówki i występuje z wnioskami do dyrektora, rady pedagogicznej, organu prowadzącego szkołę lub placówkę oraz do wojewódzkiej rady oświatowej, w szczególności w sprawach organizacji zajęć, o których mowa w art. 109 ust. 1 pkt 2 i 5–7.
 
 3. W celu wspierania działalności statutowej szkoły lub placówki rada szkoły lub placówki  może  gromadzić  fundusze  z dobrowolnych  składek  oraz  innych  źródeł. Zasady wydatkowania funduszy rady szkoły lub placówki określa regulamin, o którym mowa w art. 81 ust. 8.
 
 ##### Art. 81.
-1. W skład rady szkoły lub placówki wchodzą, z zastrzeżeniem ust. 24, w równej liczbie:
+1. W skład rady szkoły lub placówki wchodzą, z zastrzeżeniem ust. 2–4, w równej liczbie:
 
-- nauczyciele wybrani przez ogół nauczycieli;
+1) nauczyciele wybrani przez ogół nauczycieli;
 
-- rodzice wybrani przez ogół rodziców;
+2) rodzice wybrani przez ogół rodziców;
 
-- uczniowie wybrani przez ogół uczniów.
+3) uczniowie wybrani przez ogół uczniów.
 
-2. W skład  rady  szkoły  lub  placówki  nie  wchodzą  uczniowie  przedszkoli, uczniowie klas I-IV szkół podstawowych, z wyłączeniem szkół dla dorosłych, a także uczniowie szkół specjalnych i placówek dla dzieci i młodzieży z niepełnosprawnością intelektualną w stopniu umiarkowanym, znacznym lub głębokim oraz uczniowie szkół i placówek określonych w przepisach wydanych na podstawie art. 85 ust. 8.
+2. W skład rady szkoły lub placówki nie wchodzą uczniowie przedszkoli, uczniowie klas I–IV szkół podstawowych, z wyłączeniem szkół dla dorosłych, a także uczniowie szkół specjalnych i placówek dla dzieci i młodzieży z niepełnosprawnością intelektualną w stopniu umiarkowanym, znacznym lub głębokim oraz uczniowie szkół i placówek określonych w przepisach wydanych na podstawie art. 85 ust. 8.
 
 3. W szkole podstawowej dla dzieci i młodzieży  udział  uczniów  klasy  V  i VI w radzie szkoły nie jest obowiązkowy.
 
@@ -3200,7 +3216,7 @@ s. 100/216
 
 13. Powstanie rady szkoły lub placówki organizuje dyrektor szkoły lub placówki z własnej inicjatywy albo na wniosek rady rodziców, a w przypadku szkół ponadpodstawowych także na wniosek samorządu uczniowskiego.
 
-14. W szkołach artystycznych przepisy ust. 2-4 i 13 stosuje się odpowiednio.
+14. W szkołach artystycznych przepisy ust. 2–4 i 13 stosuje się odpowiednio.
 
 ##### Art. 82.
 1. Rady szkoły lub placówki nie powołuje się w szkołach i placówkach, w których ze względu na specyfikę organizacji pracy i zadania nie ma  możliwości wyłonienia stałej reprezentacji rodziców lub uczniów, o której mowa w art. 81 ust. 1 pkt 2 i 3.
@@ -3224,32 +3240,32 @@ s. 101/216
 
 2. W skład rad rodziców wchodzą:
 
-- w  szkołach -po jednym  przedstawicielu  rad  oddziałowych,  wybranych w tajnych wyborach przez zebranie rodziców uczniów danego oddziału;
+1) w szkołach – po jednym przedstawicielu rad oddziałowych, wybranych w tajnych wyborach przez zebranie rodziców uczniów danego oddziału;
 
-- w placówkach - co najmniej 7 przedstawicieli, wybranych w tajnych wyborach przez zebranie rodziców wychowanków danej placówki;
+2) w placówkach – co najmniej 7 przedstawicieli, wybranych w tajnych wyborach przez zebranie rodziców wychowanków danej placówki;
 
-- w  szkołach  artystycznych  -  przedstawiciele  w liczbie  określonej  w statucie szkoły,  wybrani  w tajnych  wyborach  przez  zebranie  rodziców  uczniów  danej szkoły.
+3) w szkołach artystycznych – przedstawiciele w liczbie określonej w statucie szkoły, wybrani w tajnych wyborach przez zebranie rodziców uczniów danej szkoły.
 
 3. W wyborach,  o których  mowa  w ust. 2,  jednego  ucznia  reprezentuje  jeden rodzic. Wybory przeprowadza się na pierwszym zebraniu rodziców w każdym roku szkolnym.
 
 4. Rada  rodziców  uchwala  regulamin  swojej  działalności,  w którym  określa w szczególności:
 
-- wewnętrzną strukturę i tryb pracy rady;
+1) wewnętrzną strukturę i tryb pracy rady;
 
-- szczegółowy tryb przeprowadzania wyborów do rad, o których mowa w ust. 2 pkt 1-3, oraz przedstawicieli rad oddziałowych, o których  mowa w ust. 2 pkt 1, do rady rodziców odpowiednio szkoły lub placówki.
+2) szczegółowy tryb przeprowadzania wyborów do rad, o których mowa w ust. 2 pkt 1–3, oraz przedstawicieli rad oddziałowych, o których mowa w ust. 2 pkt 1, do rady rodziców odpowiednio szkoły lub placówki.
 
 5. Rady  rodziców  mogą  porozumiewać  się  ze  sobą,  ustalając  zasady  i zakres współpracy.
 
-6. Minister  właściwy  do  spraw  oświaty  i wychowania,  a w przypadku  szkół i placówek artystycznych - minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, określą, w drodze rozporządzenia, rodzaje szkół i placówek, w których nie tworzy się rad rodziców, uwzględniając organizację szkoły lub placówki lub brak możliwości bezpośredniego uczestniczenia w ich działalności reprezentacji rodziców.
+6. Minister właściwy do spraw oświaty i wychowania, a w przypadku szkół i placówek artystycznych – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, określą, w drodze rozporządzenia, rodzaje szkół i placówek, w których nie tworzy się rad rodziców, uwzględniając organizację szkoły lub placówki lub brak możliwości bezpośredniego uczestniczenia w ich działalności reprezentacji rodziców.
 
 ##### Art. 84.
 1.  Rada  rodziców  może  występować  do  dyrektora  i innych  organów szkoły  lub  placówki,  organu  prowadzącego  szkołę  lub  placówkę  oraz  organu sprawującego nadzór pedagogiczny z wnioskami i opiniami we wszystkich sprawach szkoły lub placówki.
 
 2. Do kompetencji rady rodziców, z zastrzeżeniem ust. 3 i 4, należy:
 
-- uchwalanie  w porozumieniu  z radą  pedagogiczną  programu  wychowawczo-profilaktycznego szkoły lub placówki, o którym mowa w art. 26;
+1) uchwalanie w porozumieniu z radą pedagogiczną programu wychowawczo-profilaktycznego szkoły lub placówki, o którym mowa w art. 26;
 
-- opiniowanie programu i harmonogramu poprawy efektywności kształcenia lub wychowania szkoły lub placówki, o którym mowa w art. 56 ust. 2;
+2) opiniowanie programu i harmonogramu poprawy efektywności kształcenia lub wychowania szkoły lub placówki, o którym mowa w art. 56 ust. 2;
 
 02.12.2019
 
@@ -3274,7 +3290,7 @@ s. 102/216
 7. Fundusze, o których mowa w ust. 6, mogą być przechowywane na odrębnym rachunku  bankowym  rady  rodziców.  Do  założenia  i likwidacji  tego  rachunku bankowego oraz dysponowania funduszami na tym rachunku są uprawnione osoby posiadające pisemne upoważnienie udzielone przez radę rodziców.
 
 ##### Art. 85.
-1.  W szkole  i placówce  działa  samorząd  uczniowski,  zwany  dalej 'samorządem'.
+1. W szkole i placówce działa samorząd uczniowski, zwany dalej „samorządem”.
 
 2. Samorząd tworzą wszyscy uczniowie szkoły lub placówki.
 
@@ -3294,17 +3310,17 @@ s. 103/216
 
 5. Samorząd może przedstawiać radzie szkoły lub placówki, radzie pedagogicznej oraz dyrektorowi wnioski i opinie we wszystkich sprawach szkoły lub placówki,  w szczególności  dotyczących  realizacji  podstawowych  praw  uczniów, takich jak:
 
-- prawo  do  zapoznawania  się  z programem  nauczania,  z jego  treścią,  celem i stawianymi wymaganiami;
+1) prawo do zapoznawania się z programem nauczania, z jego treścią, celem i stawianymi wymaganiami;
 
-- prawo do jawnej i umotywowanej oceny postępów w nauce i zachowaniu;
+2) prawo do jawnej i umotywowanej oceny postępów w nauce i zachowaniu;
 
-- prawo do organizacji życia szkolnego, umożliwiające zachowanie właściwych proporcji między wysiłkiem szkolnym a możliwością rozwijania i zaspokajania własnych zainteresowań;
+3) prawo do organizacji życia szkolnego, umożliwiające zachowanie właściwych proporcji między wysiłkiem szkolnym a możliwością rozwijania i zaspokajania własnych zainteresowań;
 
-- prawo redagowania i wydawania gazety szkolnej;
+4) prawo redagowania i wydawania gazety szkolnej;
 
-- prawo  organizowania  działalności  kulturalnej,  oświatowej,  sportowej oraz rozrywkowej zgodnie z własnymi potrzebami i możliwościami organizacyjnymi w porozumieniu z dyrektorem;
+5) prawo organizowania działalności kulturalnej, oświatowej, sportowej oraz rozrywkowej zgodnie z własnymi potrzebami i możliwościami organizacyjnymi w porozumieniu z dyrektorem;
 
-- prawo wyboru nauczyciela pełniącego rolę opiekuna samorządu.
+6) prawo wyboru nauczyciela pełniącego rolę opiekuna samorządu.
 
 6. Samorząd w porozumieniu z dyrektorem szkoły lub placówki może podejmować działania z zakresu wolontariatu.
 
@@ -3332,7 +3348,7 @@ s. 104/216
 3. W szkołach i placówkach, określonych w przepisach wydanych na podstawie art. 83 ust. 6, oraz w szkołach i placówkach, w których nie utworzono rady szkoły lub placówki,  nie  stosuje  się  wymogu  uzyskania  pozytywnej  opinii  odpowiednio  rady szkoły lub placówki i rady rodziców, o których mowa w ust. 2.
 
 ##### Art. 87.
-Przepisy  art. 80-83,  art. 84 ust. 1-4,  6  i 7,  art. 85  i art. 86 nie  dotyczą szkół i placówek publicznych prowadzonych przez osoby prawne inne niż jednostki samorządu terytorialnego lub przez osoby fizyczne oraz szkół i placówek niepublicznych.
+Przepisy art. 80–83, art. 84 ust. 1–4, 6 i 7, art. 85 i art. 86 nie dotyczą szkół i placówek publicznych prowadzonych przez osoby prawne inne niż jednostki samorządu terytorialnego lub przez osoby fizyczne oraz szkół i placówek niepublicznych.
 
 ### Rozdział 5
 
@@ -3341,7 +3357,7 @@ Przepisy  art. 80-83,  art. 84 ust. 1-4,  6  i 7,  art. 85  i art. 86 nie  dotyc
 ##### Art. 88.
 1. Szkołę  lub  placówkę  publiczną  zakłada  się  na  podstawie  aktu założycielskiego, który określa odpowiednio jej typ lub rodzaj, nazwę i siedzibę.
 
-2. Akt założycielski publicznej szkoły podstawowej, oprócz danych wymienionych w ust. 1, określa także jej zasięg terytorialny (obwód), w szczególności nazwy  miejscowości,  a w miastach  -  nazwy  ulic  lub  ich  części,  należących  do  jej obwodu, oraz podporządkowane jej organizacyjnie szkoły filialne. Publicznej szkole podstawowej  prowadzonej  przez  osobę  prawną  inną  niż  jednostka  samorządu terytorialnego lub osobę fizyczną nie ustala się obwodu, chyba że osoba prowadząca wystąpi z takim wnioskiem.
+2. Akt założycielski publicznej szkoły podstawowej, oprócz danych wymienionych w ust. 1, określa także jej zasięg terytorialny (obwód), w szczególności nazwy miejscowości, a w miastach – nazwy ulic lub ich części, należących do jej obwodu, oraz podporządkowane jej organizacyjnie szkoły filialne. Publicznej szkole podstawowej prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną nie ustala się obwodu, chyba że osoba prowadząca wystąpi z takim wnioskiem.
 
 2a. Akt założycielski publicznego centrum kształcenia zawodowego i publicznej placówki kształcenia ustawicznego, oprócz danych wymienionych w ust. 1, określa także filie podporządkowane organizacyjnie centrum lub placówce.
 
@@ -3359,13 +3375,13 @@ s. 105/216
 
 4. Założenie  szkoły  lub  placówki  publicznej  przez  osobę  prawną  inną  niż jednostka samorządu terytorialnego lub osobę fizyczną wymaga:
 
-- zezwolenia  właściwego  organu  jednostki  samorządu  terytorialnego,  której zadaniem jest prowadzenie szkół lub placówek publicznych odpowiednio danego typu lub rodzaju, wydanego po uzyskaniu pozytywnej opinii kuratora oświaty;
+1) zezwolenia właściwego organu jednostki samorządu terytorialnego, której zadaniem jest prowadzenie szkół lub placówek publicznych odpowiednio danego typu lub rodzaju, wydanego po uzyskaniu pozytywnej opinii kuratora oświaty;
 
-- w przypadku szkół artystycznych:
+2) w przypadku szkół artystycznych:
 
-- realizujących  wyłącznie  kształcenie  artystyczne  -  zezwolenia  ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego,
+a) realizujących wyłącznie kształcenie artystyczne – zezwolenia ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego,
 
-- realizujących także kształcenie ogólne - zezwolenia ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego wydanego po uzyskaniu pozytywnej opinii kuratora oświaty.
+b) realizujących także kształcenie ogólne – zezwolenia ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego wydanego po uzyskaniu pozytywnej opinii kuratora oświaty.
 
 4a. Minister  właściwy  do  spraw  kultury  i ochrony  dziedzictwa  narodowego udziela zezwolenia, o którym mowa w ust. 4 pkt 2, po uzyskaniu opinii specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1.
 
@@ -3385,18 +3401,18 @@ s. 105/216
 
 s. 106/216
 
-6. Minister  właściwy  do  spraw  oświaty  i wychowania,  a w stosunku  do  szkół artystycznych -minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółowe zasady i warunki udzielania i cofania zezwolenia na założenie szkoły lub placówki publicznej, tak aby tworzenie  szkół  publicznych  przez  osoby  prawne  i fizyczne  sprzyjało  poprawie warunków  kształcenia,  a także  korzystnie  uzupełniało  sieć  szkół  publicznych  na danym terenie.
+6. Minister właściwy do spraw oświaty i wychowania, a w stosunku do szkół artystycznych – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółowe zasady i warunki udzielania i cofania zezwolenia na założenie szkoły lub placówki publicznej, tak aby tworzenie szkół publicznych przez osoby prawne i fizyczne sprzyjało poprawie warunków kształcenia, a także korzystnie uzupełniało sieć szkół publicznych na danym terenie.
 
 7. Organ  lub  osoba,  o których  mowa  w art. 8 ust. 2,  zakładająca  szkołę  lub placówkę podpisuje akt założycielski oraz nadaje pierwszy statut.
 
 8. Akt założycielski i statut szkoły lub placówki publicznej przesyła się właściwemu kuratorowi oświaty oraz innym organom właściwym do sprawowania nadzoru pedagogicznego nad szkołą lub placówką.
 
 ##### Art. 89.
-1.  Szkoła  publiczna,  z zastrzeżeniem  ust. 2,  3  i 14-18,  może  być zlikwidowana z końcem roku szkolnego przez organ prowadzący szkołę, po zapewnieniu  przez  ten  organ  uczniom  możliwości  kontynuowania  nauki  w innej szkole publicznej tego samego typu, a także kształcącej w tym samym lub zbliżonym zawodzie.  Organ  prowadzący  jest  obowiązany,  co  najmniej  na  6 miesięcy  przed terminem likwidacji,  zawiadomić o zamiarze likwidacji  szkoły:  rodziców  uczniów, a w przypadku uczniów pełnoletnich - tych uczniów, właściwego kuratora oświaty oraz organ wykonawczy jednostki samorządu terytorialnego właściwej do prowadzenia szkół danego typu.
+1. Szkoła publiczna, z zastrzeżeniem ust. 2, 3 i 14–18, może być zlikwidowana z końcem roku szkolnego przez organ prowadzący szkołę, po zapewnieniu przez ten organ uczniom możliwości kontynuowania nauki w innej szkole publicznej tego samego typu, a także kształcącej w tym samym lub zbliżonym zawodzie. Organ prowadzący jest obowiązany, co najmniej na 6 miesięcy przed terminem likwidacji, zawiadomić o zamiarze likwidacji szkoły: rodziców uczniów, a w przypadku uczniów pełnoletnich – tych uczniów, właściwego kuratora oświaty oraz organ wykonawczy jednostki samorządu terytorialnego właściwej do prowadzenia szkół danego typu.
 
 2. Szkoła  w zakładzie  poprawczym  lub  schronisku  dla  nieletnich  oraz  szkoła przy  zakładzie  karnym  lub  areszcie  śledczym  może  być  zlikwidowana  w każdym czasie, po zapewnieniu uczniom możliwości kontynuowania nauki w innej szkole.
 
-3. Szkoła  lub  placówka  publiczna  prowadzona  przez  jednostkę  samorządu terytorialnego może zostać zlikwidowana po uzyskaniu pozytywnej opinii kuratora oświaty, a w przypadku publicznej szkoły artystycznej prowadzonej przez jednostkę samorządu terytorialnego - po uzyskaniu pozytywnej opinii ministra właściwego do spraw  kultury  i ochrony  dziedzictwa  narodowego.  Szkoła  lub  placówka  publiczna prowadzona  przez  osobę  prawną  inną  niż  jednostka  samorządu  terytorialnego  lub osobę fizyczną może zostać zlikwidowana za zgodą organu, który udzielił zezwolenia na jej założenie.
+3. Szkoła lub placówka publiczna prowadzona przez jednostkę samorządu terytorialnego może zostać zlikwidowana po uzyskaniu pozytywnej opinii kuratora oświaty, a w przypadku publicznej szkoły artystycznej prowadzonej przez jednostkę samorządu terytorialnego – po uzyskaniu pozytywnej opinii ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego. Szkoła lub placówka publiczna prowadzona przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną może zostać zlikwidowana za zgodą organu, który udzielił zezwolenia na jej założenie.
 
 02.12.2019
 
@@ -3410,23 +3426,23 @@ s. 107/216
 
 4. Opinia, o której mowa w ust. 3, jest wydawana w drodze postanowienia, na które przysługuje:
 
-- zażalenie do ministra właściwego do spraw oświaty i wychowania -w przypadku postanowienia wydanego przez kuratora oświaty;
+1) zażalenie do ministra właściwego do spraw oświaty i wychowania – w przypadku postanowienia wydanego przez kuratora oświaty;
 
-- wniosek o ponowne rozpatrzenie sprawy przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego  w przypadku postanowienia wydanego przez tego ministra.
+2) wniosek o ponowne rozpatrzenie sprawy przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego – w przypadku postanowienia wydanego przez tego ministra.
 
-5. Opinia,  o której  mowa  w ust. 3,  jest  wydawana  w ciągu  30 dni  od  dnia doręczenia kuratorowi oświaty, a w przypadku publicznej szkoły artystycznej prowadzonej przez jednostkę samorządu terytorialnego - ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego, wystąpienia jednostki samorządu terytorialnego o wydanie tej opinii.
+5. Opinia, o której mowa w ust. 3, jest wydawana w ciągu 30 dni od dnia doręczenia kuratorowi oświaty, a w przypadku publicznej szkoły artystycznej prowadzonej przez jednostkę samorządu terytorialnego – ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego, wystąpienia jednostki samorządu terytorialnego o wydanie tej opinii.
 
 6. Dokumentację  zlikwidowanej  szkoły  publicznej  przekazuje  się  organowi prowadzącemu szkołę, z wyjątkiem dokumentacji przebiegu nauczania, którą przekazuje  się  organowi  sprawującemu  nadzór  pedagogiczny,  w terminie  jednego miesiąca od dnia zakończenia likwidacji.
 
 7. Dokumentację  zlikwidowanej  szkoły  lub  placówki  publicznej  prowadzonej przez  osobę  prawną  lub  fizyczną  przekazuje  się  właściwemu  organowi  jednostki samorządu terytorialnego, o którym mowa w art. 88 ust. 4.
 
-8. Przepisy ust. 1-7 stosuje się odpowiednio do placówek publicznych, z wyjątkiem warunku o likwidacji z końcem roku szkolnego.
+8. Przepisy ust. 1–7 stosuje się odpowiednio do placówek publicznych, z wyjątkiem warunku o likwidacji z końcem roku szkolnego.
 
-9. Przepisy ust. 1-8 i art. 88 stosuje się odpowiednio w przypadku przekształcenia szkoły lub placówki.
+9. Przepisy ust. 1–8 i art. 88 stosuje się odpowiednio w przypadku przekształcenia szkoły lub placówki.
 
-10. Organ prowadzący szkołę lub placówkę może przenieść kształcenie w określonym zawodzie z tej szkoły lub placówki do innej szkoły tego samego typu lub innej placówki tego samego rodzaju prowadzonej przez ten organ, po zawiadomieniu,  co  najmniej  na  6 miesięcy  przed  terminem  przeniesienia,  kuratora oświaty i rodziców uczniów, a w przypadku uczniów pełnoletnich - tych uczniów.
+10. Organ prowadzący szkołę lub placówkę może przenieść kształcenie w określonym zawodzie z tej szkoły lub placówki do innej szkoły tego samego typu lub innej placówki tego samego rodzaju prowadzonej przez ten organ, po zawiadomieniu, co najmniej na 6 miesięcy przed terminem przeniesienia, kuratora oświaty i rodziców uczniów, a w przypadku uczniów pełnoletnich – tych uczniów.
 
-11. Przepisów  ust. 1-8 nie  stosuje  się  w razie  przekazania  przez  jednostkę samorządu terytorialnego prowadzenia szkoły publicznej osobie prawnej niebędącej jednostką samorządu terytorialnego lub osobie fizycznej.
+11. Przepisów ust. 1–8 nie stosuje się w razie przekazania przez jednostkę samorządu terytorialnego prowadzenia szkoły publicznej osobie prawnej niebędącej jednostką samorządu terytorialnego lub osobie fizycznej.
 
 02.12.2019
 
@@ -3440,7 +3456,7 @@ s. 108/216
 
 12. Przekazanie,  o którym  mowa  w ust. 11,  jest  równoznaczne  z likwidacją dotychczasowej formy organizacyjno-prawnej szkoły, w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869).
 
-13. Organ prowadzący publiczną inną formę wychowania przedszkolnego może przekształcić  tę  formę  w publiczne  przedszkole.  Do  przekształcenia  nie  stosuje  się przepisów ust. 1-9. Przepisy art. 88 stosuje się odpowiednio.
+13. Organ prowadzący publiczną inną formę wychowania przedszkolnego może przekształcić tę formę w publiczne przedszkole. Do przekształcenia nie stosuje się przepisów ust. 1–9. Przepisy art. 88 stosuje się odpowiednio.
 
 14. W przypadku  zamiaru  likwidacji  szkoły  podstawowej  specjalnej,  szkoły sportowej, szkoły mistrzostwa sportowego lub szkoły ponadpodstawowej, prowadzonych  przez  powiat,  starosta  jest  obowiązany,  co  najmniej  na  6 miesięcy przed  terminem  likwidacji,  zawiadomić  o zamiarze  likwidacji  szkoły  także  organ wykonawczy gminy, na obszarze której ma siedzibę ta szkoła.
 
@@ -3453,7 +3469,7 @@ s. 108/216
 18. W przypadku niezawarcia porozumienia w terminie, o którym mowa w ust. 17, gmina przejmuje prowadzenie szkoły, jeżeli w drodze uchwały rady gminy zobowiąże  się  do  zapewnienia  warunków  działania  szkoły,  w tym  bezpiecznych i higienicznych warunków nauki, wychowania i opieki.
 
 ##### Art. 90.
-1. Podjęcie przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną prowadzenia wychowania przedszkolnego w publicznych  innych  formach  wychowania  przedszkolnego,  wymaga  zezwolenia gminy właściwej ze względu na miejsce prowadzenia tych form. Przepisy art. 88 ust. 4-8  i art. 89 stosuje  się  odpowiednio,  z tym  że  do  wniosku  o udzielenie zezwolenia  zamiast  projektu  statutu  dołącza  się  projekt  organizacji  wychowania przedszkolnego, które ma być realizowane w danej formie.
+1. Podjęcie przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną prowadzenia wychowania przedszkolnego w publicznych innych formach wychowania przedszkolnego, wymaga zezwolenia gminy właściwej ze względu na miejsce prowadzenia tych form. Przepisy art. 88 ust. 4–8 i art. 89 stosuje się odpowiednio, z tym że do wniosku o udzielenie zezwolenia zamiast projektu statutu dołącza się projekt organizacji wychowania przedszkolnego, które ma być realizowane w danej formie.
 
 02.12.2019
 
@@ -3465,12 +3481,12 @@ s. 108/216
 
 s. 109/216
 
-2. Podjęcie przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną, która prowadzi publiczne przedszkole lub publiczną szkołę podstawową, prowadzenia wychowania przedszkolnego w publicznych innych formach  wychowania  przedszkolnego,  wymaga  zmiany  zezwolenia  na  założenie odpowiednio przedszkola lub szkoły podstawowej. Przepisy art. 88 ust. 4-6 i art. 89 stosuje się odpowiednio, z tym że do wniosku o zmianę zezwolenia zamiast projektu statutu dołącza się projekt organizacji wychowania przedszkolnego, które ma być realizowane w danej formie.
+2. Podjęcie przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną, która prowadzi publiczne przedszkole lub publiczną szkołę podstawową, prowadzenia wychowania przedszkolnego w publicznych innych formach wychowania przedszkolnego, wymaga zmiany zezwolenia na założenie odpowiednio przedszkola lub szkoły podstawowej. Przepisy art. 88 ust. 4–6 i art. 89 stosuje się odpowiednio, z tym że do wniosku o zmianę zezwolenia zamiast projektu statutu dołącza się projekt organizacji wychowania przedszkolnego, które ma być realizowane w danej formie.
 
-3. Przekształcenie publicznej innej formy wychowania przedszkolnego, prowadzonej  przez  osobę  prawną  inną  niż  jednostka  samorządu  terytorialnego  lub osobę fizyczną, w publiczne przedszkole wymaga zmiany zezwolenia na założenie tej formy.  Przepisy  art. 88 ust. 4-6 stosuje  się  odpowiednio,  z tym  że  do  wniosku o zmianę zezwolenia dołącza się projekt statutu przedszkola.
+3. Przekształcenie publicznej innej formy wychowania przedszkolnego, prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną, w publiczne przedszkole wymaga zmiany zezwolenia na założenie tej formy. Przepisy art. 88 ust. 4–6 stosuje się odpowiednio, z tym że do wniosku o zmianę zezwolenia dołącza się projekt statutu przedszkola.
 
 ##### Art. 90a.
-1. Zmiana siedziby szkoły lub placówki publicznej prowadzonej przez osobę  prawną  inną  niż  jednostka  samorządu  terytorialnego  lub  osobę  fizyczną  lub utworzenie  innej  lokalizacji  prowadzenia  zajęć  dydaktycznych,  wychowawczych i opiekuńczych przez tę szkołę lub placówkę wymaga zmiany zezwolenia na założenie szkoły lub placówki publicznej. Przepisy art. 88 ust. 4-5 i 6 stosuje się odpowiednio. Przepisów art. 89 ust. 1-9 nie stosuje się.
+1. Zmiana siedziby szkoły lub placówki publicznej prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną lub utworzenie innej lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych przez tę szkołę lub placówkę wymaga zmiany zezwolenia na założenie szkoły lub placówki publicznej. Przepisy art. 88 ust. 4–5 i 6 stosuje się odpowiednio. Przepisów art. 89 ust. 1–9 nie stosuje się.
 
 2. Zmiana siedziby szkoły lub  utworzenie innej  lokalizacji  prowadzenia zajęć dydaktycznych,  wychowawczych  i opiekuńczych  przez  szkołę  następuje  z końcem roku szkolnego. W przypadku gdy dalsze prowadzenie zajęć dydaktycznych, wychowawczych i opiekuńczych w dotychczasowej siedzibie szkoły nie jest możliwe zmiana siedziby szkoły lub utworzenie innej lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych przez szkołę może nastąpić w każdym czasie.
 
@@ -3491,11 +3507,11 @@ s. 110/216
 ##### Art. 90b.
 1.  Osoba  prawna  inna  niż  jednostka  samorządu  terytorialnego  lub osoba fizyczna prowadząca szkołę lub placówkę publiczną na podstawie zezwolenia, o którym mowa w art. 88 ust. 4,  może  przekazać  prowadzenie  szkoły  lub  placówki publicznej osobie prawnej innej niż jednostka samorządu terytorialnego lub osobie fizycznej.
 
-2. Przekazanie, o którym mowa  w ust. 1,  wymaga  zmiany  zezwolenia  na założenie  szkoły  lub  placówki  publicznej.  Przepisy  art. 88 ust. 4-5  i 6 stosuje  się odpowiednio, z tym że wniosek o zmianę zezwolenia może być złożony w każdym czasie. Przepisów art. 89 ust. 1-9 nie stosuje się.
+2. Przekazanie, o którym mowa w ust. 1, wymaga zmiany zezwolenia na założenie szkoły lub placówki publicznej. Przepisy art. 88 ust. 4–5 i 6 stosuje się odpowiednio, z tym że wniosek o zmianę zezwolenia może być złożony w każdym czasie. Przepisów art. 89 ust. 1–9 nie stosuje się.
 
 3. Organ  prowadzący  szkołę  lub  placówkę  publiczną,  do  wniosku,  o którym mowa  w ust. 2,  dołącza  pisemne  oświadczenie  osoby  prawnej  innej  niż  jednostka samorządu terytorialnego lub osoby fizycznej przejmującej prowadzenie szkoły lub placówki o przejęciu zadań organu prowadzącego szkołę lub placówkę.
 
-4. W przypadku  zgonu  osoby  fizycznej  prowadzącej  szkołę  lub  placówkę publiczną przejęcie prowadzenia szkoły lub placówki przez osobę  wskazaną w oświadczeniu, o którym mowa w art. 88 ust. 5a lub 5b, wymaga zmiany zezwolenia na  założenie  szkoły  lub  placówki.  Wniosek  o zmianę  zezwolenia  składa  osoba wskazana w oświadczeniu, o którym mowa  w art. 88 ust. 5a lub 5b. Przepisy art. 88 ust. 4-5  i 6 stosuje  się  odpowiednio,  z tym  że  wniosek  o zmianę zezwolenia może być złożony w każdym czasie. Przepisów art. 89 ust. 1-9 nie stosuje się.
+4. W przypadku zgonu osoby fizycznej prowadzącej szkołę lub placówkę publiczną przejęcie prowadzenia szkoły lub placówki przez osobę wskazaną w oświadczeniu, o którym mowa w art. 88 ust. 5a lub 5b, wymaga zmiany zezwolenia na założenie szkoły lub placówki. Wniosek o zmianę zezwolenia składa osoba wskazana w oświadczeniu, o którym mowa w art. 88 ust. 5a lub 5b. Przepisy art. 88 ust. 4–5 i 6 stosuje się odpowiednio, z tym że wniosek o zmianę zezwolenia może być złożony w każdym czasie. Przepisów art. 89 ust. 1–9 nie stosuje się.
 
 5. Zmiana  zezwolenia,  o którym  mowa  w ust. 2  i 4,  nie  wymaga  uzyskania pozytywnej opinii kuratora oświaty.
 
@@ -3530,9 +3546,9 @@ s. 111/216
 
 7a. W przypadku:
 
-- utworzenia zespołu szkół  lub  placówek  albo  szkół  i placówek  oraz  włączenia szkoły lub placówki do zespołu - przepisu art. 89 nie stosuje się;
+1) utworzenia zespołu szkół lub placówek albo szkół i placówek oraz włączenia szkoły lub placówki do zespołu – przepisu art. 89 nie stosuje się;
 
-- wyłączenia szkoły lub placówki z zespołu szkół lub placówek oraz rozwiązania zespołu - przepisów art. 88 i art. 89 nie stosuje się.
+2) wyłączenia szkoły lub placówki z zespołu szkół lub placówek oraz rozwiązania zespołu – przepisów art. 88 i art. 89 nie stosuje się.
 
 8. Utworzenie  zespołu,  w którego  skład  wchodzą  szkoły  lub  placówki  albo szkoły  i placówki  prowadzone  przez  różne  organy,  może  nastąpić  po  zawarciu porozumienia między tymi organami. Porozumienie powinno określać, który z organów będzie wykonywać zadania organu prowadzącego, sposób finansowania oraz tryb rozwiązania zespołu.
 
@@ -3546,12 +3562,12 @@ s. 111/216
 
 s. 112/216
 
-9. Połączenie w zespół, o którym mowa w ust. 1-3, oraz włączenie do zespołu szkoły lub placówki, o którym mowa w ust. 7, jest dokonywane z dniem 1 września danego roku.
+9. Połączenie w zespół, o którym mowa w ust. 1–3, oraz włączenie do zespołu szkoły lub placówki, o którym mowa w ust. 7, jest dokonywane z dniem 1 września danego roku.
 
 10. Wyłączenie z zespołu oraz rozwiązanie zespołu, o których mowa w ust. 7, jest dokonywane z dniem 31 sierpnia danego roku.
 
 ##### Art. 92.
-1.  Organ  prowadzący  szkołę  podstawową,  w której  zorganizowano oddział  przedszkolny  lub  oddziały  przedszkolne,  może  przekształcić  ten  oddział przedszkolny lub te oddziały przedszkolne w przedszkole. Do przekształcenia stosuje się przepisy art. 88 ust. 1 i 4-8.
+1. Organ prowadzący szkołę podstawową, w której zorganizowano oddział przedszkolny lub oddziały przedszkolne, może przekształcić ten oddział przedszkolny lub te oddziały przedszkolne w przedszkole. Do przekształcenia stosuje się przepisy art. 88 ust. 1 i 4–8.
 
 2. Przedszkole utworzone zgodnie z ust. 1, tworzy zespół ze szkołą podstawową, w której dotychczas działały oddział przedszkolny lub oddziały przedszkolne.
 
@@ -3559,10 +3575,10 @@ s. 112/216
 
 4. Jeżeli  szkoła  podstawowa,  w której  zorganizowano  oddział  lub  oddziały przedszkolne  działa  w ramach  zespołu,  to  przedszkole  utworzone  zgodnie  z ust. 1, wchodzi w skład tego zespołu.
 
-5. Do lokalu, w którym jest prowadzone przedszkole utworzone zgodnie z ust. 1, stosuje się przepisy art. 126 ust. 1-3 i przepisy wydane na podstawie art. 126 ust. 4.
+5. Do lokalu, w którym jest prowadzone przedszkole utworzone zgodnie z ust. 1, stosuje się przepisy art. 126 ust. 1–3 i przepisy wydane na podstawie art. 126 ust. 4.
 
 ##### Art. 93.
-1. Organ prowadzący szkoły dla dorosłych, szkoły prowadzące kształcenie  zawodowe,  z wyjątkiem  szkół artystycznych, placówki lub centra, o których  mowa  w art. 2 pkt 4,  może  je  połączyć  w zespół,  zwany  dalej  'centrum kształcenia zawodowego i ustawicznego'.
+1. Organ prowadzący szkoły dla dorosłych, szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych, placówki lub centra, o których mowa w art. 2 pkt 4, może je połączyć w zespół, zwany dalej „centrum kształcenia zawodowego i ustawicznego”.
 
 2. W skład centrum kształcenia zawodowego  i ustawicznego wchodzi co najmniej jedna  szkoła  prowadząca  kształcenie  zawodowe,  z wyjątkiem  szkoły artystycznej, oraz co najmniej jedno centrum kształcenia zawodowego.
 
@@ -3583,20 +3599,20 @@ s. 113/216
 5. Do centrum kształcenia zawodowego i ustawicznego przepisów art. 91 ust. 9 i 10 nie stosuje się.
 
 ##### Art. 94.
-Rok  szkolny  we  wszystkich  szkołach  i placówkach  rozpoczyna  się z dniem 1 września każdego roku, a kończy - z dniem 31 sierpnia następnego roku.
+Rok szkolny we wszystkich szkołach i placówkach rozpoczyna się z dniem 1 września każdego roku, a kończy – z dniem 31 sierpnia następnego roku.
 
 ##### Art. 95.
-1. Struktura organizacyjna szkoły podstawowej obejmuje klasy I-VIII, a w przypadku szkoły podstawowej dla dorosłych - klasy VII i VIII.
+1. Struktura organizacyjna szkoły podstawowej obejmuje klasy I–VIII, a w przypadku szkoły podstawowej dla dorosłych – klasy VII i VIII.
 
-2. W przypadkach uzasadnionych miejscowymi warunkami, mogą być tworzone szkoły podstawowe obejmujące strukturą organizacyjną klasy I-III albo klasy I-IV.
+2. W przypadkach uzasadnionych miejscowymi warunkami, mogą być tworzone szkoły podstawowe obejmujące strukturą organizacyjną klasy I–III albo klasy I–IV.
 
-3. W przypadkach uzasadnionych miejscowymi warunkami, mogą być tworzone szkoły podstawowe filialne obejmujące strukturą organizacyjną klasy I-III albo klasy I-IV.
+3. W przypadkach uzasadnionych miejscowymi warunkami, mogą być tworzone szkoły podstawowe filialne obejmujące strukturą organizacyjną klasy I–III albo klasy I–IV.
 
-4. Szkoła filialna, o której mowa w ust. 3, jest podporządkowana organizacyjnie szkole podstawowej obejmującej strukturą organizacyjną klasy I-VIII.
+4. Szkoła filialna, o której mowa w ust. 3, jest podporządkowana organizacyjnie szkole podstawowej obejmującej strukturą organizacyjną klasy I–VIII.
 
-5. Szkole podstawowej obejmującej strukturą organizacyjną klasy I-VIII mogą być podporządkowane organizacyjnie nie więcej niż dwie szkoły filialne.
+5. Szkole podstawowej obejmującej strukturą organizacyjną klasy I–VIII mogą być podporządkowane organizacyjnie nie więcej niż dwie szkoły filialne.
 
-6. W przypadku szkół podstawowych specjalnych funkcjonujących w młodzieżowych ośrodkach wychowawczych i młodzieżowych ośrodkach socjoterapii  oraz  szkół  w zakładach  poprawczych  mogą  być  tworzone  szkoły obejmujące część klas szkoły podstawowej. Przepisów ust. 2-5 nie stosuje się.
+6. W przypadku szkół podstawowych specjalnych funkcjonujących w młodzieżowych ośrodkach wychowawczych i młodzieżowych ośrodkach socjoterapii oraz szkół w zakładach poprawczych mogą być tworzone szkoły obejmujące część klas szkoły podstawowej. Przepisów ust. 2–5 nie stosuje się.
 
 ##### Art. 96.
 1.  Podstawową  jednostką  organizacyjną  szkoły,  z wyjątkiem  szkoły artystycznej realizującej wyłącznie kształcenie artystyczne, jest oddział.
@@ -3633,13 +3649,13 @@ s. 114/216
 ##### Art. 98.
 1. Statut szkoły zawiera w szczególności:
 
-- nazwę i typ szkoły oraz jej siedzibę, a w przypadku gdy szkoła wchodzi w skład zespołu szkół - także nazwę tego zespołu;
+1) nazwę i typ szkoły oraz jej siedzibę, a w przypadku gdy szkoła wchodzi w skład zespołu szkół – także nazwę tego zespołu;
 
-- imię szkoły, o ile zostało nadane;
+2) imię szkoły, o ile zostało nadane;
 
-- nazwę i siedzibę organu prowadzącego szkołę;
+3) nazwę i siedzibę organu prowadzącego szkołę;
 
-- cele i zadania szkoły wynikające z przepisów prawa oraz sposób ich wykonywania, w tym w zakresie udzielania pomocy psychologiczno-pedagogicznej, organizowania opieki nad dziećmi niepełnosprawnymi, umożliwiania uczniom podtrzymywania poczucia tożsamości narodowej, etnicznej,  językowej  i religijnej,  z uwzględnieniem  zasad  bezpieczeństwa  oraz zasad promocji i ochrony zdrowia;
+4) cele i zadania szkoły wynikające z przepisów prawa oraz sposób ich wykonywania, w tym w zakresie udzielania pomocy psychologiczno-pedagogicznej, organizowania opieki nad dziećmi niepełnosprawnymi, umożliwiania uczniom podtrzymywania poczucia tożsamości narodowej, etnicznej, językowej i religijnej, z uwzględnieniem zasad bezpieczeństwa oraz zasad promocji i ochrony zdrowia;
 
 02.12.2019
 
@@ -3651,21 +3667,21 @@ s. 114/216
 
 s. 115/216
 
-- organy szkoły oraz ich szczegółowe kompetencje, a także szczegółowe warunki współdziałania  organów  szkoły  oraz  sposób  rozwiązywania  sporów  między nimi;
+5) organy szkoły oraz ich szczegółowe kompetencje, a także szczegółowe warunki współdziałania organów szkoły oraz sposób rozwiązywania sporów między nimi;
 
 [6) organizację pracy szkoły, w tym organizację oddziałów sportowych, mistrzostwa sportowego, dwujęzycznych, integracyjnych, specjalnych i klas wstępnych, o których mowa w art. 25 ust. 3, z uwzględnieniem organizacji nauczania i oceniania  w tych  klasach,  oraz  organizację  nauczania  języka  mniejszości narodowych, mniejszości etnicznych lub języka regionalnego, jeżeli szkoła takie oddziały lub nauczanie prowadzi, organizację wczesnego wspomagania rozwoju dzieci, jeżeli szkoła takie wspomaganie prowadzi, a także zajęć rewalidacyjno-wychowawczych, jeśli szkoła takie zajęcia prowadzi;]
 
 <6) organizację pracy szkoły, w tym organizację oddziałów sportowych, mistrzostwa sportowego, dwujęzycznych, przygotowania wojskowego, integracyjnych, specjalnych i klas wstępnych, o których mowa w art. 25 ust. 3, z uwzględnieniem organizacji nauczania i oceniania w tych klasach, oraz organizację nauczania języka mniejszości  narodowych, mniejszości etnicznych lub języka regionalnego, jeżeli szkoła takie oddziały lub  nauczanie  prowadzi,  organizację  wczesnego  wspomagania  rozwoju dzieci, jeżeli szkoła takie wspomaganie prowadzi, a także zajęć rewalidacyjno-wychowawczych, jeśli szkoła takie zajęcia prowadzi;>
 
-- zakres zadań nauczycieli, w tym nauczyciela wychowawcy  i nauczyciela bibliotekarza, oraz innych pracowników szkoły, w tym także zadania związane z zapewnieniem bezpieczeństwa uczniom w czasie zajęć organizowanych przez szkołę, a także sposób i formy wykonywania tych zadań dostosowane do wieku i potrzeb uczniów oraz warunków środowiskowych szkoły;
+7) zakres zadań nauczycieli, w tym nauczyciela wychowawcy i nauczyciela bibliotekarza, oraz innych pracowników szkoły, w tym także zadania związane z zapewnieniem bezpieczeństwa uczniom w czasie zajęć organizowanych przez szkołę, a także sposób i formy wykonywania tych zadań dostosowane do wieku i potrzeb uczniów oraz warunków środowiskowych szkoły;
 
-- szczegółowe warunki i sposób oceniania wewnątrzszkolnego uczniów, o którym mowa w art. 44b ustawy o systemie oświaty;
+8) szczegółowe warunki i sposób oceniania wewnątrzszkolnego uczniów, o którym mowa w art. 44b ustawy o systemie oświaty;
 
-- nazwę zawodu lub zawodów, w których kształci szkoła - w przypadku szkoły prowadzącej kształcenie zawodowe;
+9) nazwę zawodu lub zawodów, w których kształci szkoła – w przypadku szkoły prowadzącej kształcenie zawodowe;
 
-- szczegółową  organizację  praktycznej  nauki  zawodu  -  w przypadku  szkoły prowadzącej kształcenie zawodowe;
+10) szczegółową organizację praktycznej nauki zawodu – w przypadku szkoły prowadzącej kształcenie zawodowe;
 
-- organizację zajęć edukacyjnych w ramach kształcenia zawodowego -w przypadku szkoły prowadzącej kształcenie zawodowe;
+11) organizację zajęć edukacyjnych w ramach kształcenia zawodowego – w przypadku szkoły prowadzącej kształcenie zawodowe;
 
 Nowe brzmienie pkt  6  w  ust.  1  w art. 98 wejdzie w życie z dn. 1.01.2020  r.  (Dz. U.  z  2019  r.  poz. 1681).
 
@@ -3679,39 +3695,39 @@ Nowe brzmienie pkt  6  w  ust.  1  w art. 98 wejdzie w życie z dn. 1.01.2020  r
 
 s. 116/216
 
-- organizację pracowni szkolnych, w szczególności pracowni ćwiczeń praktycznych, pracowni symulacyjnych oraz warsztatów szkolnych dla realizacji zajęć praktycznych, jeżeli szkoła takie pracownie i warsztaty posiada;
+12) organizację pracowni szkolnych, w szczególności pracowni ćwiczeń praktycznych, pracowni symulacyjnych oraz warsztatów szkolnych dla realizacji zajęć praktycznych, jeżeli szkoła takie pracownie i warsztaty posiada;
 
-- organizację dodatkowych zajęć dla uczniów, zwiększających szanse ich zatrudnienia, jeżeli szkoła takie zajęcia prowadzi;
+13) organizację dodatkowych zajęć dla uczniów, zwiększających szanse ich zatrudnienia, jeżeli szkoła takie zajęcia prowadzi;
 
-- organizację  kształcenia  ogólnego  i zawodowego  w przypadku  pracowników młodocianych - w przypadku szkoły prowadzącej kształcenie zawodowe;
+14) organizację kształcenia ogólnego i zawodowego w przypadku pracowników młodocianych – w przypadku szkoły prowadzącej kształcenie zawodowe;
 
-- określenie  formy kształcenia - w przypadku szkoły dla dorosłych, branżowej szkoły II stopnia i szkoły policealnej;
+15) określenie formy kształcenia – w przypadku szkoły dla dorosłych, branżowej szkoły II stopnia i szkoły policealnej;
 
-- organizację wewnątrzszkolnego systemu doradztwa zawodowego, z wyjątkiem szkoły artystycznej;
+16) organizację wewnątrzszkolnego systemu doradztwa zawodowego, z wyjątkiem szkoły artystycznej;
 
-- prawa  i obowiązki  uczniów,  w tym  przypadki,  w których  uczeń  może  zostać skreślony  z listy  uczniów  szkoły,  a także  tryb  składania  skarg  w przypadku naruszenia praw ucznia;
+17) prawa i obowiązki uczniów, w tym przypadki, w których uczeń może zostać skreślony z listy uczniów szkoły, a także tryb składania skarg w przypadku naruszenia praw ucznia;
 
-- rodzaje  nagród  i warunki  ich  przyznawania  uczniom  oraz  tryb  wnoszenia zastrzeżeń do przyznanej nagrody;
+18) rodzaje nagród i warunki ich przyznawania uczniom oraz tryb wnoszenia zastrzeżeń do przyznanej nagrody;
 
-- rodzaje kar stosowanych wobec uczniów oraz tryb odwoływania się od kary;
+19) rodzaje kar stosowanych wobec uczniów oraz tryb odwoływania się od kary;
 
-- przypadki, w których dyrektor szkoły podstawowej może wystąpić do kuratora oświaty z wnioskiem o przeniesienie ucznia do innej szkoły;
+20) przypadki, w których dyrektor szkoły podstawowej może wystąpić do kuratora oświaty z wnioskiem o przeniesienie ucznia do innej szkoły;
 
-- sposób organizacji i realizacji działań w zakresie wolontariatu;
+21) sposób organizacji i realizacji działań w zakresie wolontariatu;
 
-- formy opieki i pomocy uczniom, którym z przyczyn rozwojowych, rodzinnych lub losowych jest potrzebna pomoc i wsparcie;
+22) formy opieki i pomocy uczniom, którym z przyczyn rozwojowych, rodzinnych lub losowych jest potrzebna pomoc i wsparcie;
 
-- organizację  biblioteki  szkolnej  oraz  warunki  i zakres  współpracy  biblioteki szkolnej z uczniami, nauczycielami i rodzicami oraz innymi bibliotekami;
+23) organizację biblioteki szkolnej oraz warunki i zakres współpracy biblioteki szkolnej z uczniami, nauczycielami i rodzicami oraz innymi bibliotekami;
 
-- organizację internatu, o ile został w szkole zorganizowany;
+24) organizację internatu, o ile został w szkole zorganizowany;
 
-- organizację  świetlicy  z uwzględnieniem  warunków  wszechstronnego  rozwoju ucznia  -  w przypadku  szkoły  podstawowej  i szkoły  prowadzącej  kształcenie specjalne, o której mowa w art. 127 ust. 1;
+25) organizację świetlicy z uwzględnieniem warunków wszechstronnego rozwoju ucznia – w przypadku szkoły podstawowej i szkoły prowadzącej kształcenie specjalne, o której mowa w art. 127 ust. 1;
 
-- warunki stosowania sztandaru szkoły, godła szkoły oraz ceremoniału szkolnego, o ile zostały ustanowione.
+26) warunki stosowania sztandaru szkoły, godła szkoły oraz ceremoniału szkolnego, o ile zostały ustanowione.
 
 2. W przypadku szkoły dla dzieci i młodzieży statut określa także:
 
-- organizację współdziałania z poradniami psychologiczno-pedagogicznymi oraz innymi instytucjami działającymi na rzecz rodziny, dzieci i młodzieży;
+1) organizację współdziałania z poradniami psychologiczno-pedagogicznymi oraz innymi instytucjami działającymi na rzecz rodziny, dzieci i młodzieży;
 
 02.12.2019
 
@@ -3723,31 +3739,31 @@ s. 116/216
 
 s. 117/216
 
-- organizację  i formy  współdziałania  szkoły  z rodzicami  w zakresie  nauczania, wychowania, opieki i profilaktyki;
+2) organizację i formy współdziałania szkoły z rodzicami w zakresie nauczania, wychowania, opieki i profilaktyki;
 
-- organizację  współdziałania  ze  stowarzyszeniami  lub  innymi  organizacjami w zakresie działalności innowacyjnej;
+3) organizację współdziałania ze stowarzyszeniami lub innymi organizacjami w zakresie działalności innowacyjnej;
 
-< 4) organizację  żywienia,  o którym  mowa  w art. 106a  -  w przypadku  szkoły podstawowej  oraz szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej.>
+< 4) organizację żywienia, o którym mowa w art. 106a – w przypadku szkoły podstawowej oraz szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej.>
 
-(uchylony)
+3. (uchylony)
 
-- W przypadku szkoły  dla dzieci  i młodzieży  cele  i zadania  szkoły  określone w statucie  uwzględniają  program  wychowawczo-profilaktyczny  szkoły,  o którym mowa w art. 26.
+4. W przypadku szkoły dla dzieci i młodzieży cele i zadania szkoły określone w statucie uwzględniają program wychowawczo-profilaktyczny szkoły, o którym mowa w art. 26.
 
 ##### Art. 99.
 Obowiązki  ucznia  określa  się  w statucie  szkoły  z uwzględnieniem obowiązków w zakresie:
 
-- właściwego zachowania podczas zajęć edukacyjnych;
+1) właściwego zachowania podczas zajęć edukacyjnych;
 
-- usprawiedliwiania, w określonym terminie i formie, nieobecności na zajęciach edukacyjnych, w tym  formy usprawiedliwiania nieobecności przez osoby pełnoletnie;
+2) usprawiedliwiania, w określonym terminie i formie, nieobecności na zajęciach edukacyjnych, w tym formy usprawiedliwiania nieobecności przez osoby pełnoletnie;
 
-- przestrzegania  zasad  ubierania  się  uczniów  na  terenie  szkoły  lub  noszenia  na terenie szkoły jednolitego stroju - w przypadku, o którym mowa w art. 100;
+3) przestrzegania zasad ubierania się uczniów na terenie szkoły lub noszenia na terenie szkoły jednolitego stroju – w przypadku, o którym mowa w art. 100;
 
-- przestrzegania  warunków  wnoszenia  i korzystania  z telefonów  komórkowych i innych urządzeń elektronicznych na terenie szkoły;
+4) przestrzegania warunków wnoszenia i korzystania z telefonów komórkowych i innych urządzeń elektronicznych na terenie szkoły;
 
-- właściwego zachowania wobec nauczycieli i innych pracowników szkoły oraz pozostałych uczniów.
+5) właściwego zachowania wobec nauczycieli i innych pracowników szkoły oraz pozostałych uczniów.
 
 ##### Art. 100.
-1.  Dyrektor  szkoły  podstawowej,  szkoły  ponadpodstawowej  oraz szkoły  artystycznej  może  z własnej  inicjatywy  lub  na  wniosek  rady  szkoły,  rady rodziców, rady pedagogicznej lub samorządu uczniowskiego, za zgodą odpowiednio rady  rodziców  i rady  pedagogicznej  oraz  w przypadku,  gdy  z inicjatywą  wystąpił dyrektor szkoły lub wniosku złożonego przez inny podmiot niż samorząd uczniowski -  także  po  uzyskaniu  opinii  samorządu  uczniowskiego,  wprowadzić  obowiązek noszenia przez uczniów na terenie szkoły jednolitego stroju.
+1. Dyrektor szkoły podstawowej, szkoły ponadpodstawowej oraz szkoły artystycznej może z własnej inicjatywy lub na wniosek rady szkoły, rady rodziców, rady pedagogicznej lub samorządu uczniowskiego, za zgodą odpowiednio rady rodziców i rady pedagogicznej oraz w przypadku, gdy z inicjatywą wystąpił dyrektor szkoły lub wniosku złożonego przez inny podmiot niż samorząd uczniowski – także po uzyskaniu opinii samorządu uczniowskiego, wprowadzić obowiązek noszenia przez uczniów na terenie szkoły jednolitego stroju.
 
 2. Wniosek, o którym mowa w ust. 1, dyrektor szkoły rozpatruje w terminie nie dłuższym niż 3 miesiące.
 
@@ -3767,33 +3783,34 @@ s. 118/216
 
 4. Dyrektor szkoły, w której wprowadzono obowiązek noszenia przez uczniów jednolitego stroju, może w uzgodnieniu z radą rodziców i po zasięgnięciu opinii rady pedagogicznej określić sytuacje, w których przebywanie ucznia na terenie szkoły nie wymaga noszenia przez niego jednolitego stroju.
 
-5. Przepisów ust. 1-4 nie stosuje się w szkołach, w których nie tworzy się rad rodziców.
+5. Przepisów ust. 1–4 nie stosuje się w szkołach, w których nie tworzy się rad rodziców.
 
 6. W szkołach, w których nie wprowadzono obowiązku noszenia przez uczniów jednolitego  stroju,  oraz  w szkołach,  o których  mowa  w ust. 5,  statut  szkoły  określa zasady ubierania się uczniów na terenie szkoły.
 
 7. Do zniesienia obowiązku noszenia przez uczniów jednolitego stroju, stosuje się odpowiednio przepisy ust. 1 i 2.
 
 ##### Art. 101.
-1. Podstawową jednostką organizacyjną przedszkola jest oddział. 2. W przedszkolu:
+1. Podstawową jednostką organizacyjną przedszkola jest oddział.
+2. W przedszkolu:
 
-- liczącym co najmniej 6 oddziałów lub
+1) liczącym co najmniej 6 oddziałów lub
 
-- posiadającym oddziały zlokalizowane w różnych miejscach lub
+2) posiadającym oddziały zlokalizowane w różnych miejscach lub
 
-- w którym co najmniej 2 oddziały pracują dłużej niż 10 godzin dziennie
+3) w którym co najmniej 2 oddziały pracują dłużej niż 10 godzin dziennie
 
-- może być utworzone stanowisko wicedyrektora przedszkola.
+– może być utworzone stanowisko wicedyrektora przedszkola.
 
 3. Dyrektor  przedszkola,  za  zgodą  organu  prowadzącego,  może  utworzyć stanowisko wicedyrektora w innych przypadkach niż określone w ust. 1, a także, za zgodą organu prowadzącego, może tworzyć inne stanowiska kierownicze.
 
 ##### Art. 102.
 1. Statut przedszkola zawiera w szczególności:
 
-- nazwę i rodzaj przedszkola oraz jego siedzibę;
+1) nazwę i rodzaj przedszkola oraz jego siedzibę;
 
-- nazwę i siedzibę organu prowadzącego;
+2) nazwę i siedzibę organu prowadzącego;
 
-- cele  i zadania  przedszkola  wynikające  z przepisów  prawa,  w tym  w zakresie udzielania  pomocy  psychologiczno-pedagogicznej,  organizowania  opieki  nad dziećmi niepełnosprawnymi, umożliwiania dzieciom podtrzymywania poczucia tożsamości narodowej, etnicznej, językowej i religijnej, z uwzględnieniem zasad bezpieczeństwa oraz zasad promocji i ochrony zdrowia;
+3) cele i zadania przedszkola wynikające z przepisów prawa, w tym w zakresie udzielania pomocy psychologiczno-pedagogicznej, organizowania opieki nad dziećmi niepełnosprawnymi, umożliwiania dzieciom podtrzymywania poczucia tożsamości narodowej, etnicznej, językowej i religijnej, z uwzględnieniem zasad bezpieczeństwa oraz zasad promocji i ochrony zdrowia;
 
 02.12.2019
 
@@ -3805,29 +3822,29 @@ s. 118/216
 
 s. 119/216
 
-- sposób realizacji zadań przedszkola, z uwzględnieniem wspomagania indywidualnego  rozwoju  dziecka  oraz  wspomagania  rodziny  w wychowaniu dziecka i przygotowaniu go do nauki w szkole, a w przypadku dzieci niepełnosprawnych -ze szczególnym uwzględnieniem rodzaju niepełnosprawności;
+4) sposób realizacji zadań przedszkola, z uwzględnieniem wspomagania indywidualnego rozwoju dziecka oraz wspomagania rodziny w wychowaniu dziecka i przygotowaniu go do nauki w szkole, a w przypadku dzieci niepełnosprawnych – ze szczególnym uwzględnieniem rodzaju niepełnosprawności;
 
-- sposób  sprawowania  opieki  nad  dziećmi  w czasie  zajęć  w przedszkolu  oraz w czasie zajęć poza przedszkolem;
+5) sposób sprawowania opieki nad dziećmi w czasie zajęć w przedszkolu oraz w czasie zajęć poza przedszkolem;
 
-- szczegółowe  zasady  przyprowadzania  i odbierania  dzieci  z przedszkola  przez rodziców  lub  upoważnioną  przez  nich  osobę  zapewniającą  dziecku  pełne bezpieczeństwo;
+6) szczegółowe zasady przyprowadzania i odbierania dzieci z przedszkola przez rodziców lub upoważnioną przez nich osobę zapewniającą dziecku pełne bezpieczeństwo;
 
-- formy współdziałania z rodzicami oraz częstotliwość organizowania kontaktów z rodzicami;
+7) formy współdziałania z rodzicami oraz częstotliwość organizowania kontaktów z rodzicami;
 
-- organy  przedszkola  oraz  ich  szczegółowe  kompetencje,  a także  szczegółowe warunki  współdziałania  organów  przedszkola  oraz  sposób  rozwiązywania sporów między tymi organami;
+8) organy przedszkola oraz ich szczegółowe kompetencje, a także szczegółowe warunki współdziałania organów przedszkola oraz sposób rozwiązywania sporów między tymi organami;
 
-- organizację  pracy  przedszkola,  w tym  organizację  wczesnego  wspomagania rozwoju dzieci, jeżeli przedszkole takie wspomaganie prowadzi, a także zajęć rewalidacyjno-wychowawczych, jeżeli przedszkole takie zajęcia prowadzi;
+9) organizację pracy przedszkola, w tym organizację wczesnego wspomagania rozwoju dzieci, jeżeli przedszkole takie wspomaganie prowadzi, a także zajęć rewalidacyjno-wychowawczych, jeżeli przedszkole takie zajęcia prowadzi;
 
-- czas pracy przedszkola ustalony przez organ prowadzący na wniosek dyrektora przedszkola,  w uzgodnieniu  z radą  przedszkola,  a w przypadku  braku  rady przedszkola - z radą rodziców;
+10) czas pracy przedszkola ustalony przez organ prowadzący na wniosek dyrektora przedszkola, w uzgodnieniu z radą przedszkola, a w przypadku braku rady przedszkola – z radą rodziców;
 
-- zasady  odpłatności  za  pobyt  dzieci  w przedszkolu  i korzystanie  z wyżywienia ustalone przez organ prowadzący;
+11) zasady odpłatności za pobyt dzieci w przedszkolu i korzystanie z wyżywienia ustalone przez organ prowadzący;
 
-- zakres zadań nauczycieli oraz innych pracowników, w tym zadań związanych z:
+12) zakres zadań nauczycieli oraz innych pracowników, w tym zadań związanych z:
 
-- zapewnieniem  bezpieczeństwa  dzieciom  w czasie  zajęć  organizowanych przez przedszkole,
+a) zapewnieniem bezpieczeństwa dzieciom w czasie zajęć organizowanych przez przedszkole,
 
-- współdziałaniem z rodzicami w sprawach wychowania i nauczania dzieci, z uwzględnieniem  prawa  rodziców  do  znajomości  zadań  wynikających z programu wychowania przedszkolnego realizowanego w danym oddziale i uzyskiwania informacji dotyczących dziecka, jego zachowania i rozwoju,
+b) współdziałaniem z rodzicami w sprawach wychowania i nauczania dzieci, z uwzględnieniem prawa rodziców do znajomości zadań wynikających z programu wychowania przedszkolnego realizowanego w danym oddziale i uzyskiwania informacji dotyczących dziecka, jego zachowania i rozwoju,
 
-- planowaniem  i prowadzeniem  pracy  dydaktyczno-wychowawczej  oraz odpowiedzialnością za jej jakość,
+c) planowaniem i prowadzeniem pracy dydaktyczno-wychowawczej oraz odpowiedzialnością za jej jakość,
 
 02.12.2019
 
@@ -3839,34 +3856,34 @@ s. 119/216
 
 s. 120/216
 
-- prowadzeniem  obserwacji  pedagogicznych  mających  na  celu  poznanie i zabezpieczenie potrzeb rozwojowych dzieci oraz dokumentowaniem tych obserwacji,
+d) prowadzeniem obserwacji pedagogicznych mających na celu poznanie i zabezpieczenie potrzeb rozwojowych dzieci oraz dokumentowaniem tych obserwacji,
 
-- współpracą ze specjalistami świadczącymi pomoc psychologiczno-pedagogiczną, opiekę zdrowotną i inną;
+e) współpracą ze specjalistami świadczącymi pomoc psychologiczno-pedagogiczną, opiekę zdrowotną i inną;
 
-- prawa  i obowiązki  dzieci,  w tym  przypadki,  w których  dyrektor  przedszkola może skreślić dziecko z listy uczniów;
+13) prawa i obowiązki dzieci, w tym przypadki, w których dyrektor przedszkola może skreślić dziecko z listy uczniów;
 
-- warunki stosowania sztandaru przedszkola, godła przedszkola oraz ceremoniału przedszkolnego, o ile zostały ustanowione.
+14) warunki stosowania sztandaru przedszkola, godła przedszkola oraz ceremoniału przedszkolnego, o ile zostały ustanowione.
 
 2. Przepisy ust. 1 stosuje się odpowiednio do oddziału przedszkolnego w szkole podstawowej.
 
 ##### Art. 103.
 1. Szkoła w zakresie realizacji zadań statutowych zapewnia uczniom możliwość korzystania z:
 
-- pomieszczeń do nauki z niezbędnym wyposażeniem;
+1) pomieszczeń do nauki z niezbędnym wyposażeniem;
 
-- biblioteki;
+2) biblioteki;
 
-- świetlicy - w przypadku szkoły podstawowej, szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej i szkoły prowadzącej kształcenie specjalne, o której mowa w art. 127 ust. 1;
+3) świetlicy – w przypadku szkoły podstawowej, szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej i szkoły prowadzącej kształcenie specjalne, o której mowa w art. 127 ust. 1;
 
-- gabinetu profilaktyki zdrowotnej spełniającego szczegółowe wymagania, o których  mowa  w przepisach  wydanych  na  podstawie  art. 22 ust. 3  ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2018 r. poz. 2190 i 2219 oraz z 2019 r. poz. 492 i 730), oraz wyposażonego w sprzęt, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach  opieki  zdrowotnej  finansowanych  ze  środków  publicznych (Dz. U.  z 2018  r.  poz.  1510,  z późn.  zm. 4) )  w części  dotyczącej  warunków realizacji świadczeń gwarantowanych pielęgniarki lub higienistki szkolnej;
+4) gabinetu profilaktyki zdrowotnej spełniającego szczegółowe wymagania, o których mowa w przepisach wydanych na podstawie art. 22 ust. 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2018 r. poz. 2190 i 2219 oraz z 2019 r. poz. 492 i 730), oraz wyposażonego w sprzęt, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.4)) w części dotyczącej warunków realizacji świadczeń gwarantowanych pielęgniarki lub higienistki szkolnej;
 
-- zespołu urządzeń sportowych i rekreacyjnych;
+5) zespołu urządzeń sportowych i rekreacyjnych;
 
-- pomieszczeń sanitarno-higienicznych i szatni;
+6) pomieszczeń sanitarno-higienicznych i szatni;
 
-- pomieszczenia  umożliwiającego  bezpieczne  i higieniczne  spożycie  posiłków podczas  pobytu  w szkole  -  w przypadku  szkoły  podstawowej  oraz  szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej.
+7) pomieszczenia umożliwiającego bezpieczne i higieniczne spożycie posiłków podczas pobytu w szkole – w przypadku szkoły podstawowej oraz szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej.
 
-> 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447, 730 i 752.
+4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447, 730 i 752.
 
 02.12.2019
 
@@ -3878,29 +3895,29 @@ s. 120/216
 
 s. 121/216
 
-2. Wymagania określone w ust. 1 pkt 3-5 i 7 nie muszą być spełnione w szkołach  dla  dorosłych,  a także  w branżowych  szkołach  II  stopnia  i szkołach policealnych, prowadzących kształcenie wyłącznie w formie stacjonarnej lub zaocznej.
+2. Wymagania określone w ust. 1 pkt 3–5 i 7 nie muszą być spełnione w szkołach dla dorosłych, a także w branżowych szkołach II stopnia i szkołach policealnych, prowadzących kształcenie wyłącznie w formie stacjonarnej lub zaocznej.
 
 3. Wymagania określone w ust. 1 pkt 4 i 5 nie muszą być spełnione w szkołach artystycznych realizujących wyłącznie kształcenie artystyczne.
 
 ##### Art. 104.
 Organizacja biblioteki uwzględnia w szczególności zadania w zakresie:
 
-- gromadzenia i udostępniania podręczników, materiałów edukacyjnych i materiałów  ćwiczeniowych  oraz  innych  materiałów  bibliotecznych,  zgodnie z art. 22aj ustawy o systemie oświaty;
+1) gromadzenia i udostępniania podręczników, materiałów edukacyjnych i materiałów ćwiczeniowych oraz innych materiałów bibliotecznych, zgodnie z art. 22aj ustawy o systemie oświaty;
 
-- tworzenia warunków do efektywnego posługiwania się technologiami informacyjno-komunikacyjnymi;
+2) tworzenia warunków do efektywnego posługiwania się technologiami informacyjno-komunikacyjnymi;
 
-- rozbudzania i rozwijania indywidualnych zainteresowań uczniów oraz wyrabiania i pogłębiania u uczniów nawyku czytania i uczenia się;
+3) rozbudzania i rozwijania indywidualnych zainteresowań uczniów oraz wyrabiania i pogłębiania u uczniów nawyku czytania i uczenia się;
 
-- organizowania różnorodnych działań rozwijających wrażliwość kulturową i społeczną uczniów, w tym w zakresie podtrzymywania tożsamości narodowej i językowej  uczniów  należących  do  mniejszości  narodowych,  mniejszości etnicznych oraz społeczności posługującej się językiem regionalnym;
+4) organizowania różnorodnych działań rozwijających wrażliwość kulturową i społeczną uczniów, w tym w zakresie podtrzymywania tożsamości narodowej i językowej uczniów należących do mniejszości narodowych, mniejszości etnicznych oraz społeczności posługującej się językiem regionalnym;
 
-- przeprowadzania inwentaryzacji księgozbioru biblioteki szkolnej, z uwzględnieniem przepisów wydanych na podstawie art. 27 ust. 6 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2018 r. poz. 574 i 1669).
+5) przeprowadzania inwentaryzacji księgozbioru biblioteki szkolnej, z uwzględnieniem przepisów wydanych na podstawie art. 27 ust. 6 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2018 r. poz. 574 i 1669).
 
 ##### Art. 105.
 1. Szkoła podstawowa oraz szkoła prowadząca kształcenie specjalne, o której  mowa  w art. 127 ust. 1,  jest  obowiązana  zapewnić  zajęcia  świetlicowe  dla uczniów, którzy pozostają w szkole dłużej ze względu na:
 
-- czas pracy rodziców - na wniosek rodziców;
+1) czas pracy rodziców – na wniosek rodziców;
 
-- organizację dojazdu do szkoły lub inne okoliczności wymagające zapewnienia opieki w szkole.
+2) organizację dojazdu do szkoły lub inne okoliczności wymagające zapewnienia opieki w szkole.
 
 2. Świetlica zapewnia zajęcia świetlicowe uwzględniające potrzeby edukacyjne oraz rozwojowe dzieci i młodzieży, a także ich możliwości psychofizyczne, w szczególności zajęcia rozwijające zainteresowania uczniów, zajęcia zapewniające prawidłowy rozwój fizyczny oraz odrabianie lekcji.
 
@@ -3917,35 +3934,35 @@ s. 122/216
 ##### Art. 106.
 1.  W celu  zapewnienia  prawidłowej  realizacji  zadań  opiekuńczych, w szczególności wspierania prawidłowego rozwoju uczniów, szkoła może zorganizować stołówkę.
 
-- Korzystanie z posiłków w stołówce szkolnej jest odpłatne.
+2. Korzystanie z posiłków w stołówce szkolnej jest odpłatne.
 
-- Warunki korzystania ze stołówki szkolnej, w tym wysokość opłat za posiłki, ustala dyrektor szkoły w porozumieniu z organem prowadzącym szkołę.
+3. Warunki korzystania ze stołówki szkolnej, w tym wysokość opłat za posiłki, ustala dyrektor szkoły w porozumieniu z organem prowadzącym szkołę.
 
-- Do  opłat  wnoszonych  za  korzystanie  przez  uczniów  z posiłku  w stołówce szkolnej,  o których  mowa  w ust. 3,  nie  wlicza  się  wynagrodzeń  pracowników i składek naliczanych od tych wynagrodzeń oraz kosztów utrzymania stołówki.
+4. Do opłat wnoszonych za korzystanie przez uczniów z posiłku w stołówce szkolnej, o których mowa w ust. 3, nie wlicza się wynagrodzeń pracowników i składek naliczanych od tych wynagrodzeń oraz kosztów utrzymania stołówki.
 
-- Organ prowadzący szkołę może zwolnić rodziców albo pełnoletniego ucznia z całości lub części opłat, o których mowa w ust. 3:
+5. Organ prowadzący szkołę może zwolnić rodziców albo pełnoletniego ucznia z całości lub części opłat, o których mowa w ust. 3:
 
-- w przypadku szczególnie trudnej sytuacji materialnej rodziny;
+1) w przypadku szczególnie trudnej sytuacji materialnej rodziny;
 
-- w szczególnie uzasadnionych przypadkach losowych.
+2) w szczególnie uzasadnionych przypadkach losowych.
 
-- Organ prowadzący szkołę może upoważnić do udzielania zwolnień, o których mowa w ust. 5, dyrektora szkoły, w której zorganizowano stołówkę.
+6. Organ prowadzący szkołę może upoważnić do udzielania zwolnień, o których mowa w ust. 5, dyrektora szkoły, w której zorganizowano stołówkę.
 
 ##### <Art. 106a.
 1.  Szkoła  podstawowa,  z wyjątkiem  szkoły  podstawowej  dla dorosłych,  oraz  szkoła  artystyczna  realizująca  kształcenie  ogólne  w zakresie szkoły  podstawowej,  zapewnia  uczniom  jeden  gorący  posiłek  w ciągu  dnia i stwarza im możliwość jego spożycia w czasie pobytu w szkole.
 
-- Korzystanie z posiłku, o którym mowa w ust. 1, jest dobrowolne i odpłatne.>
+2. Korzystanie z posiłku, o którym mowa w ust. 1, jest dobrowolne i odpłatne.>
 
 ##### Art. 107.
 1.  Dla  uczniów  uczących  się  poza  miejscem  stałego  zamieszkania szkoła, w celu zapewnienia prawidłowej realizacji zadań opiekuńczych, w szczególności  wspierania  prawidłowego  rozwoju  uczniów,  może  zorganizować internat.
 
-- Do internatu w pierwszej kolejności są przyjmowani uczniowie danej szkoły.
+2. Do internatu w pierwszej kolejności są przyjmowani uczniowie danej szkoły.
 
-- W przypadku wolnych miejsc w internacie mogą być przyjmowani uczniowie innych szkół.
+3. W przypadku wolnych miejsc w internacie mogą być przyjmowani uczniowie innych szkół.
 
-- W przypadku  większej  liczby  uczniów  ubiegających  się  o przyjęcie  do internatu niż liczba miejsc w internacie, przepisy art. 145 stosuje się odpowiednio.
+4. W przypadku większej liczby uczniów ubiegających się o przyjęcie do internatu niż liczba miejsc w internacie, przepisy art. 145 stosuje się odpowiednio.
 
-- W internacie tworzy się grupy wychowawcze.
+5. W internacie tworzy się grupy wychowawcze.
 
 Dodany art. 106a wejdzie w życie z dn. 1.09.2022 r. (Dz. U. z 2018 r. poz. 2245 oraz z 2019 r. poz. 534).
 
@@ -3969,18 +3986,18 @@ s. 123/216
 
 9a. Organ prowadzący szkołę może upoważnić do udzielania zwolnień, o których mowa w ust. 9, dyrektora szkoły, w której zorganizowano internat.
 
-10. Przepisów  ust. 1-9a  nie  stosuje  się  do  szkół  prowadzących  kształcenie wyłącznie w formie stacjonarnej lub zaocznej.
+10. Przepisów ust. 1–9a nie stosuje się do szkół prowadzących kształcenie wyłącznie w formie stacjonarnej lub zaocznej.
 
 ##### Art. 108.
 Przedszkole w zakresie realizacji zadań statutowych zapewnia dzieciom możliwość korzystania z:
 
-- pomieszczeń do nauczania, wychowania i opieki;
+1) pomieszczeń do nauczania, wychowania i opieki;
 
-- placu zabaw;
+2) placu zabaw;
 
-- pomieszczeń sanitarno-higienicznych i szatni;
+3) pomieszczeń sanitarno-higienicznych i szatni;
 
-- posiłków.
+4) posiłków.
 
 ##### Art. 108a.
 1. Jeżeli jest to niezbędne do zapewnienia bezpieczeństwa uczniów i pracowników  lub  ochrony  mienia  dyrektor  szkoły  lub  placówki,  w  uzgodnieniu  z organem prowadzącym szkołę lub placówkę oraz po przeprowadzeniu konsultacji z radą  pedagogiczną,  radą  rodziców  i  samorządem  uczniowskim,  może  wprowadzić szczególny  nadzór  nad  pomieszczeniami  szkoły  lub  placówki  lub  terenem  wokół szkoły  lub  placówki  w  postaci  środków  technicznych  umożliwiających  rejestrację obrazu (monitoring).
@@ -4014,7 +4031,7 @@ s. 124/216
 ##### Art. 109.
 1. Podstawowymi formami działalności dydaktyczno-wychowawczej szkoły są:
 
-- obowiązkowe  zajęcia  edukacyjne,  do  których  zalicza  się  zajęcia  edukacyjne z zakresu  kształcenia  ogólnego  i z zakresu  kształcenia  w zawodzie,  o których
+1) obowiązkowe zajęcia edukacyjne, do których zalicza się zajęcia edukacyjne z zakresu kształcenia ogólnego i z zakresu kształcenia w zawodzie, o których
 
 02.12.2019
 
@@ -4026,31 +4043,31 @@ s. 124/216
 
 s. 125/216
 
-mowa  w przepisach wydanych  na podstawie art. 47 ust. 1 pkt 3, w tym praktyczną naukę zawodu, a w przypadku szkół artystycznych -zajęcia edukacyjne artystyczne, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1a;
+mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 3, w tym praktyczną naukę zawodu, a w przypadku szkół artystycznych – zajęcia edukacyjne artystyczne, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1a;
 
-- dodatkowe zajęcia edukacyjne, do których zalicza się:
+2) dodatkowe zajęcia edukacyjne, do których zalicza się:
 
-- zajęcia  z języka  obcego  nowożytnego  innego  niż  język  obcy  nowożytny nauczany w ramach obowiązkowych zajęć edukacyjnych, o których mowa w pkt 1,
+a) zajęcia z języka obcego nowożytnego innego niż język obcy nowożytny nauczany w ramach obowiązkowych zajęć edukacyjnych, o których mowa w pkt 1,
 
-- zajęcia,  dla  których  nie  została  ustalona  podstawa  programowa,  lecz program  nauczania  tych  zajęć  został  włączony  do  szkolnego  zestawu programów nauczania;
+b) zajęcia, dla których nie została ustalona podstawa programowa, lecz program nauczania tych zajęć został włączony do szkolnego zestawu programów nauczania;
 
-- zajęcia rewalidacyjne dla uczniów niepełnosprawnych;
+3) zajęcia rewalidacyjne dla uczniów niepełnosprawnych;
 
-- zajęcia prowadzone w ramach kwalifikacyjnych kursów zawodowych;
+4) zajęcia prowadzone w ramach kwalifikacyjnych kursów zawodowych;
 
-- zajęcia prowadzone w ramach pomocy psychologiczno-pedagogicznej;
+5) zajęcia prowadzone w ramach pomocy psychologiczno-pedagogicznej;
 
-- zajęcia  rozwijające  zainteresowania  i uzdolnienia  uczniów,  w szczególności w celu kształtowania ich aktywności i kreatywności;
+6) zajęcia rozwijające zainteresowania i uzdolnienia uczniów, w szczególności w celu kształtowania ich aktywności i kreatywności;
 
-- zajęcia z zakresu doradztwa zawodowego.
+7) zajęcia z zakresu doradztwa zawodowego.
 
-2. Formami  działalności  dydaktyczno-wychowawczej  szkoły  są  także  zajęcia edukacyjne,  o których  mowa  w  przepisach  wydanych  na  podstawie  art. 12 ust. 2 ustawy  o systemie oświaty, zajęcia  edukacyjne,  o których  mowa  w przepisach wydanych  na  podstawie  art. 13 ust. 3  ustawy  o systemie  oświaty,  oraz  zajęcia edukacyjne, o których mowa w przepisach wydanych na podstawie art. 4 ust. 3 ustawy z dnia 7 stycznia 1993 r. o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności  przerywania  ciąży  (Dz. U.  poz. 78,  z późn.  zm. 5) ),  organizowane w trybie określonym w tych przepisach.
+2. Formami działalności dydaktyczno-wychowawczej szkoły są także zajęcia edukacyjne, o których mowa w przepisach wydanych na podstawie art. 12 ust. 2 ustawy o systemie oświaty, zajęcia edukacyjne, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3 ustawy o systemie oświaty, oraz zajęcia edukacyjne, o których mowa w przepisach wydanych na podstawie art. 4 ust. 3 ustawy z dnia 7 stycznia 1993 r. o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży (Dz. U. poz. 78, z późn. zm.5)), organizowane w trybie określonym w tych przepisach.
 
 2a. W branżowej szkole II stopnia obowiązkowe zajęcia edukacyjne z zakresu kształcenia w zawodzie, w tym praktyczna nauka zawodu, są prowadzone w ramach kwalifikacyjnego kursu zawodowego.
 
 3. Zajęcia  edukacyjne,  o których  mowa  w ust. 1 pkt 2,  organizuje  dyrektor szkoły, za zgodą organu prowadzącego  szkołę i po zasięgnięciu opinii rady pedagogicznej i rady rodziców.
 
-> 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1995 r. poz. 334, z 1996 r. poz. 646, z 1997 r. poz. 943 i 1040, z 1999 r. poz. 32 oraz z 2001 r. poz. 1792.
+5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1995 r. poz. 334, z 1996 r. poz. 646, z 1997 r. poz. 943 i 1040, z 1999 r. poz. 32 oraz z 2001 r. poz. 1792.
 
 02.12.2019
 
@@ -4073,9 +4090,9 @@ s. 126/216
 ##### Art. 110.
 1. Arkusz  organizacji szkoły i przedszkola określa  szczegółową organizację nauczania, wychowania i opieki w danym roku szkolnym.
 
-2. Arkusz  organizacji  szkoły  lub  przedszkola  opracowuje  dyrektor  szkoły  lub przedszkola, uwzględniając przepisy wydane na podstawie art. 47 ust. 1 pkt 3, a w przypadku szkoły artystycznej -na podstawie art. 47 ust. 1a, a następnie przekazuje  do  zaopiniowania  zakładowym  organizacjom  związkowym  będącym jednostkami organizacyjnymi organizacji związkowych reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego albo jednostkami organizacyjnymi organizacji związkowych wchodzących w skład organizacji związkowych reprezentatywnych w rozumieniu tej ustawy, zrzeszających nauczycieli.
+2. Arkusz organizacji szkoły lub przedszkola opracowuje dyrektor szkoły lub przedszkola, uwzględniając przepisy wydane na podstawie art. 47 ust. 1 pkt 3, a w przypadku szkoły artystycznej – na podstawie art. 47 ust. 1a, a następnie przekazuje do zaopiniowania zakładowym organizacjom związkowym będącym jednostkami organizacyjnymi organizacji związkowych reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego albo jednostkami organizacyjnymi organizacji związkowych wchodzących w skład organizacji związkowych reprezentatywnych w rozumieniu tej ustawy, zrzeszających nauczycieli.
 
-2a. W przypadku szkół lub przedszkoli prowadzonych przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną, arkusz organizacji szkoły lub przedszkola opracowuje dyrektor szkoły lub przedszkola, uwzględniając przepisy wydane  na  podstawie  art. 47 ust. 1 pkt 3,  a w przypadku  szkoły  artystycznej  -  na podstawie  art. 47 ust. 1a,  a następnie  przekazuje  do  zaopiniowania  zakładowym organizacjom związkowym będącym jednostkami organizacyjnymi organizacji związkowych reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego albo jednostkami organizacyjnymi organizacji związkowych wchodzących w skład organizacji związkowych reprezentatywnych w rozumieniu tej ustawy, zrzeszających nauczycieli, które przedstawiły dyrektorowi szkoły lub przedszkola informację, o której mowa w art. 25 1 ust. 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych.
+2a. W przypadku szkół lub przedszkoli prowadzonych przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną, arkusz organizacji szkoły lub przedszkola opracowuje dyrektor szkoły lub przedszkola, uwzględniając przepisy wydane na podstawie art. 47 ust. 1 pkt 3, a w przypadku szkoły artystycznej – na podstawie art. 47 ust. 1a, a następnie przekazuje do zaopiniowania zakładowym organizacjom związkowym będącym jednostkami organizacyjnymi organizacji związkowych reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego albo jednostkami organizacyjnymi organizacji związkowych wchodzących w skład organizacji związkowych reprezentatywnych w rozumieniu tej ustawy, zrzeszających nauczycieli, które przedstawiły dyrektorowi szkoły lub przedszkola informację, o której mowa w art. 25^1 ust. 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych.
 
 02.12.2019
 
@@ -4091,32 +4108,32 @@ s. 127/216
 
 4. Na  podstawie  zatwierdzonego  arkusza  organizacji  szkoły  dyrektor  szkoły, z uwzględnieniem zasad ochrony zdrowia i higieny pracy, ustala tygodniowy rozkład zajęć określający organizację zajęć edukacyjnych.
 
-5. W przypadku wprowadzenia do dnia 30 września zmian do zatwierdzonego arkusza organizacji szkoły i przedszkola, ust. 2-3 stosuje się odpowiednio.
+5. W przypadku wprowadzenia do dnia 30 września zmian do zatwierdzonego arkusza organizacji szkoły i przedszkola, ust. 2–3 stosuje się odpowiednio.
 
 ##### Art. 111.
 Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółową organizację publicznych szkół i publicznych przedszkoli, uwzględniając prawidłową realizację celów i zadań szkół i przedszkoli, w tym:
 
-- elementy tworzące nazwę szkoły i przedszkola;
+1) elementy tworzące nazwę szkoły i przedszkola;
 
-- tryb nadawania imienia szkole i przedszkolu;
+2) tryb nadawania imienia szkole i przedszkolu;
 
-- warunki i sposób używania nazwy szkoły i przedszkola, w tym szkoły wchodzącej  w skład  zespołu  szkół  i szkoły  wchodzącej  w skład  ośrodków, o których mowa w art. 2 pkt 7, na pieczęciach, tablicy urzędowej i sztandarze;
+3) warunki i sposób używania nazwy szkoły i przedszkola, w tym szkoły wchodzącej w skład zespołu szkół i szkoły wchodzącej w skład ośrodków, o których mowa w art. 2 pkt 7, na pieczęciach, tablicy urzędowej i sztandarze;
 
-- zasady tworzenia i używania nazwy szkoły podstawowej filialnej;
+4) zasady tworzenia i używania nazwy szkoły podstawowej filialnej;
 
-- warunki  i tryb  tworzenia  zespołów  nauczycieli  do  realizacji  zadań  szkoły określonych w statucie;
+5) warunki i tryb tworzenia zespołów nauczycieli do realizacji zadań szkoły określonych w statucie;
 
-- liczbę  uczniów  w oddziale  klas  I-III  szkoły  podstawowej  ogólnodostępnej, w oddziale szkoły specjalnej, oddziale szkoły integracyjnej, oddziale specjalnym i oddziale  integracyjnym  w szkole  ogólnodostępnej  oraz  liczbę  uczniów  pod opieką nauczyciela wychowawcy w świetlicy;
+6) liczbę uczniów w oddziale klas I–III szkoły podstawowej ogólnodostępnej, w oddziale szkoły specjalnej, oddziale szkoły integracyjnej, oddziale specjalnym i oddziale integracyjnym w szkole ogólnodostępnej oraz liczbę uczniów pod opieką nauczyciela wychowawcy w świetlicy;
 
-- czas trwania zajęć edukacyjnych oraz zajęć rewalidacyjnych;
+7) czas trwania zajęć edukacyjnych oraz zajęć rewalidacyjnych;
 
-- formy organizacji  obowiązkowych zajęć edukacyjnych oraz organizację zajęć w oddziałach;
+8) formy organizacji obowiązkowych zajęć edukacyjnych oraz organizację zajęć w oddziałach;
 
-- szczegółowe warunki i tryb tworzenia klas łączonych oraz szczegółowe warunki organizacji nauczania w tych klasach, z uwzględnieniem danego etapu edukacyjnego,  obowiązkowych  zajęć  edukacyjnych  prowadzonych  oddzielnie oraz organizacji nauczania części zajęć edukacyjnych w klasach łączonych;
+9) szczegółowe warunki i tryb tworzenia klas łączonych oraz szczegółowe warunki organizacji nauczania w tych klasach, z uwzględnieniem danego etapu edukacyjnego, obowiązkowych zajęć edukacyjnych prowadzonych oddzielnie oraz organizacji nauczania części zajęć edukacyjnych w klasach łączonych;
 
-- warunki tworzenia w szkole podstawowej oddziału przysposabiającego do pracy;
+10) warunki tworzenia w szkole podstawowej oddziału przysposabiającego do pracy;
 
-- zadania internatu, organizację pracy w internacie ze szczególnym uwzględnieniem form organizacyjnych pracy z wychowankami, liczbę uczniów
+11) zadania internatu, organizację pracy w internacie ze szczególnym uwzględnieniem form organizacyjnych pracy z wychowankami, liczbę uczniów
 
 02.12.2019
 
@@ -4130,11 +4147,11 @@ s. 128/216
 
 w grupie wychowawczej, tygodniowy wymiar zajęć opiekuńczych i wychowawczych w internacie z jedną grupą wychowawczą;
 
-- szczegółową organizację pracy przedszkola, w tym w szczególności organizację oddziału i liczbę uczniów w oddziale;
+12) szczegółową organizację pracy przedszkola, w tym w szczególności organizację oddziału i liczbę uczniów w oddziale;
 
-- zakres  informacji,  jakie  w szczególności  powinny  być  zawarte  w arkuszu organizacji szkoły i przedszkola oraz terminy jego opracowywania, opiniowania i zatwierdzania,  mając  na  uwadze  liczbę  pracowników  szkoły  i przedszkola, liczbę oddziałów poszczególnych klas, liczbę  uczniów  w poszczególnych oddziałach, tygodniowy wymiar godzin zajęć obowiązkowych w poszczególnych oddziałach oraz tygodniowy wymiar godzin zajęć dodatkowych;
+13) zakres informacji, jakie w szczególności powinny być zawarte w arkuszu organizacji szkoły i przedszkola oraz terminy jego opracowywania, opiniowania i zatwierdzania, mając na uwadze liczbę pracowników szkoły i przedszkola, liczbę oddziałów poszczególnych klas, liczbę uczniów w poszczególnych oddziałach, tygodniowy wymiar godzin zajęć obowiązkowych w poszczególnych oddziałach oraz tygodniowy wymiar godzin zajęć dodatkowych;
 
-- organizację  tygodnia  pracy  szkoły,  z uwzględnieniem  kształcenia  w formie dziennej,  stacjonarnej  lub  zaocznej,  w tym  przypadki,  w których  kształcenie w formie dziennej może odbywać się przez 6 dni w tygodniu.
+14) organizację tygodnia pracy szkoły, z uwzględnieniem kształcenia w formie dziennej, stacjonarnej lub zaocznej, w tym przypadki, w których kształcenie w formie dziennej może odbywać się przez 6 dni w tygodniu.
 
 ##### Art. 111a.
 Publiczna  placówka  kształcenia  ustawicznego  i publiczne  centrum kształcenia zawodowego mogą posiadać filie, które są organizacyjnie podporządkowane odpowiednio placówce lub centrum.
@@ -4142,22 +4159,22 @@ Publiczna  placówka  kształcenia  ustawicznego  i publiczne  centrum kształce
 ##### Art. 112.
 1. Statut placówki publicznej powinien określać w szczególności:
 
-- nazwę i typ placówki oraz jej cele i zadania;
+1) nazwę i typ placówki oraz jej cele i zadania;
 
-- organ prowadzący placówkę;
+2) organ prowadzący placówkę;
 
-- organy placówki oraz ich kompetencje;
+3) organy placówki oraz ich kompetencje;
 
-- organizację placówki;
+4) organizację placówki;
 
-- zakres zadań nauczycieli oraz innych pracowników placówki.
+5) zakres zadań nauczycieli oraz innych pracowników placówki.
 
-2. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, ramowe statuty placówek publicznych, o których mowa w art. 2 pkt 3, 4, 6-8 i 10, uwzględniając w szczególności ogólne zasady organizacji placówki, a także zakresy spraw, które powinny być ustalone w statucie placówki.
+2. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, ramowe statuty placówek publicznych, o których mowa w art. 2 pkt 3, 4, 6–8 i 10, uwzględniając w szczególności ogólne zasady organizacji placówki, a także zakresy spraw, które powinny być ustalone w statucie placówki.
 
 ##### Art. 113.
 Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółową organizację publicznych szkół i placówek artystycznych, uwzględniając prawidłową realizację celów i zadań szkół i placówek artystycznych, w tym:
 
-- elementy tworzące nazwę szkoły i placówki artystycznej;
+1) elementy tworzące nazwę szkoły i placówki artystycznej;
 
 02.12.2019
 
@@ -4169,24 +4186,24 @@ Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, 
 
 s. 129/216
 
-- tryb nadawania imienia szkole i placówce artystycznej;
+2) tryb nadawania imienia szkole i placówce artystycznej;
 
-- warunki i sposób używania nazwy szkoły i placówki artystycznej, w tym szkoły wchodzącej w skład zespołu szkół, na pieczęciach, tablicy urzędowej i sztandarze;
+3) warunki i sposób używania nazwy szkoły i placówki artystycznej, w tym szkoły wchodzącej w skład zespołu szkół, na pieczęciach, tablicy urzędowej i sztandarze;
 
-- warunki tworzenia stanowiska wicedyrektora i innych stanowisk kierowniczych w szkole i placówce artystycznej;
+4) warunki tworzenia stanowiska wicedyrektora i innych stanowisk kierowniczych w szkole i placówce artystycznej;
 
-- liczbę  uczniów  w oddziale  szkoły  artystycznej  realizującej  kształcenie  ogólne w zakresie  klas  I-III  szkoły  podstawowej  oraz  liczbę  uczniów  pod  opieką nauczyciela wychowawcy w świetlicy;
+5) liczbę uczniów w oddziale szkoły artystycznej realizującej kształcenie ogólne w zakresie klas I–III szkoły podstawowej oraz liczbę uczniów pod opieką nauczyciela wychowawcy w świetlicy;
 
-- formy organizacji obowiązkowych zajęć edukacyjnych;
+6) formy organizacji obowiązkowych zajęć edukacyjnych;
 
-- zadania internatu, organizację pracy w internacie ze szczególnym uwzględnieniem form organizacyjnych pracy z wychowankami, liczbę uczniów w grupie wychowawczej, warunki korzystania z internatu, tygodniowy wymiar zajęć opiekuńczych i wychowawczych w internacie z jedną grupą wychowawczą;
+7) zadania internatu, organizację pracy w internacie ze szczególnym uwzględnieniem form organizacyjnych pracy z wychowankami, liczbę uczniów w grupie wychowawczej, warunki korzystania z internatu, tygodniowy wymiar zajęć opiekuńczych i wychowawczych w internacie z jedną grupą wychowawczą;
 
-- zakres  informacji,  jakie  w szczególności  powinny  być  zawarte  w arkuszu organizacji  szkoły  i placówki  artystycznej  oraz  terminy  jego  opracowywania i zatwierdzania;
+8) zakres informacji, jakie w szczególności powinny być zawarte w arkuszu organizacji szkoły i placówki artystycznej oraz terminy jego opracowywania i zatwierdzania;
 
-- organizację  tygodnia  pracy  szkoły  artystycznej,  w tym  przypadki,  w których kształcenie w formie dziennej może odbywać się przez 6 dni w tygodniu.
+9) organizację tygodnia pracy szkoły artystycznej, w tym przypadki, w których kształcenie w formie dziennej może odbywać się przez 6 dni w tygodniu.
 
 ##### Art. 114.
-Kurator  oświaty,  a w przypadku  szkół  i placówek  artystycznych  dyrektor  specjalistycznej  jednostki  nadzoru,  o której  mowa  w art. 53 ust. 1,  może uchylić statut publicznego przedszkola, publicznej szkoły lub placówki albo niektóre jego postanowienia, jeżeli są sprzeczne z prawem. Organowi, który nadał lub uchwalił statut, od decyzji kuratora oświaty, a w przypadku szkół i placówek artystycznych dyrektora specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1, przysługuje  odwołanie  odpowiednio  do  ministra  właściwego  do s praw  oświaty i wychowania  albo  ministra  właściwego  do  spraw  kultury  i ochrony  dziedzictwa narodowego.
+Kurator oświaty, a w przypadku szkół i placówek artystycznych – dyrektor specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1, może uchylić statut publicznego przedszkola, publicznej szkoły lub placówki albo niektóre jego postanowienia, jeżeli są sprzeczne z prawem. Organowi, który nadał lub uchwalił statut, od decyzji kuratora oświaty, a w przypadku szkół i placówek artystycznych – dyrektora specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1, przysługuje odwołanie odpowiednio do ministra właściwego do spraw oświaty i wychowania albo ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
 
 ##### Art. 115.
 1.  Na  wniosek  lub  za  zgodą  rodziców  albo  pełnoletniego  ucznia dyrektor  szkoły,  po  zasięgnięciu  opinii  rady  pedagogicznej  i publicznej  poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, może zezwolić
@@ -4201,11 +4218,11 @@ Kurator  oświaty,  a w przypadku  szkół  i placówek  artystycznych  dyrektor
 
 s. 130/216
 
-uczniowi  na  indywidualny  program  lub  tok  nauki  oraz  wyznaczyć  nauczyciela  opiekuna. Odmowa udzielenia zezwolenia następuje w drodze decyzji administracyjnej.
+uczniowi na indywidualny program lub tok nauki oraz wyznaczyć nauczyciela – opiekuna. Odmowa udzielenia zezwolenia następuje w drodze decyzji administracyjnej.
 
 2. Na wniosek lub za zgodą rodziców albo pełnoletniego ucznia dyrektor szkoły artystycznej  realizującej  wyłącznie  kształcenie  artystyczne,  po  zasięgnięciu  opinii rady pedagogicznej, może zezwolić uczniowi na indywidualny program lub tok nauki realizowany  pod  opieką  nauczyciela  przedmiotu  głównego  tego  ucznia.  Odmowa udzielenia zezwolenia następuje w drodze decyzji administracyjnej.
 
-3. Uczeń realizujący indywidualny tok nauki jest klasyfikowany na podstawie egzaminów klasyfikacyjnych. Egzaminy klasyfikacyjne są przeprowadzane zgodnie z przepisami art. 44l ustawy o systemie oświaty i przepisami wydanymi na podstawie art. 44zb ustawy o systemie oświaty, a w przypadku zajęć edukacyjnych artystycznych realizowanych w szkole artystycznej - zgodnie z przepisami wydanymi na podstawie art. 44zq ustawy o systemie oświaty.
+3. Uczeń realizujący indywidualny tok nauki jest klasyfikowany na podstawie egzaminów klasyfikacyjnych. Egzaminy klasyfikacyjne są przeprowadzane zgodnie z przepisami art. 44l ustawy o systemie oświaty i przepisami wydanymi na podstawie art. 44zb ustawy o systemie oświaty, a w przypadku zajęć edukacyjnych artystycznych realizowanych w szkole artystycznej – zgodnie z przepisami wydanymi na podstawie art. 44zq ustawy o systemie oświaty.
 
 4. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, warunki i tryb udzielania zezwoleń, o których mowa w ust. 1, oraz organizację indywidualnego programu lub toku nauki, uwzględniając umożliwienie uczniom  szczególnie  uzdolnionym  rozwoju  ich  uzdolnień  oraz  ukończenie  szkoły w skróconym czasie.
 
@@ -4217,7 +4234,7 @@ Z tytułu udostępniania rodzicom gromadzonych  przez publiczne przedszkola, odd
 ##### Art. 117.
 1. Kształcenie ustawiczne jest organizowane i prowadzone w:
 
-- publicznych i niepublicznych szkołach dla dorosłych, branżowych szkołach II stopnia i szkołach policealnych;
+1) publicznych i niepublicznych szkołach dla dorosłych, branżowych szkołach II stopnia i szkołach policealnych;
 
 02.12.2019
 
@@ -4229,35 +4246,35 @@ Z tytułu udostępniania rodzicom gromadzonych  przez publiczne przedszkola, odd
 
 s. 131/216
 
-- formach pozaszkolnych realizowanych przez publiczne i niepubliczne placówki kształcenia  ustawicznego  i centra  kształcenia  zawodowego  oraz  publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z zastrzeżeniem ust. 2 pkt 3 i 4.
+2) formach pozaszkolnych realizowanych przez publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego oraz publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z zastrzeżeniem ust. 2 pkt 3 i 4.
 
 1a. Kształcenie ustawiczne prowadzi się w następujących formach pozaszkolnych:
 
-- kwalifikacyjny kurs zawodowy;
+1) kwalifikacyjny kurs zawodowy;
 
-- kurs umiejętności zawodowych;
+2) kurs umiejętności zawodowych;
 
-- kurs kompetencji ogólnych;
+3) kurs kompetencji ogólnych;
 
-- turnus dokształcania teoretycznego młodocianych pracowników;
+4) turnus dokształcania teoretycznego młodocianych pracowników;
 
-- kurs, inny niż wymienione w pkt 1-3, umożliwiający uzyskiwanie i uzupełnianie wiedzy, umiejętności i kwalifikacji zawodowych.
+5) kurs, inny niż wymienione w pkt 1–3, umożliwiający uzyskiwanie i uzupełnianie wiedzy, umiejętności i kwalifikacji zawodowych.
 
 2. Kwalifikacyjne kursy zawodowe mogą być prowadzone przez:
 
-- publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych - w zakresie zawodów, w których kształcą, oraz w zakresie innych zawodów przypisanych do branż, do których należą zawody, w których kształci szkoła;
+1) publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych – w zakresie zawodów, w których kształcą, oraz w zakresie innych zawodów przypisanych do branż, do których należą zawody, w których kształci szkoła;
 
-- publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego;
+2) publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego;
 
-- instytucje  rynku  pracy,  o których  mowa  w art. 6  ustawy  z dnia  20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, prowadzące działalność edukacyjno-szkoleniową;
+3) instytucje rynku pracy, o których mowa w art. 6 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, prowadzące działalność edukacyjno-szkoleniową;
 
-- podmioty prowadzące działalność oświatową, o której mowa w art. 170 ust. 2, posiadające akredytację, o której mowa w art. 118.
+4) podmioty prowadzące działalność oświatową, o której mowa w art. 170 ust. 2, posiadające akredytację, o której mowa w art. 118.
 
 2a. Kursy umiejętności zawodowych mogą być prowadzone przez:
 
-- publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych - w zakresie zawodów, w których kształcą, oraz w zakresie innych zawodów przypisanych do branż, do których należą zawody, w których kształci szkoła;
+1) publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych – w zakresie zawodów, w których kształcą, oraz w zakresie innych zawodów przypisanych do branż, do których należą zawody, w których kształci szkoła;
 
-- publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego.
+2) publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego.
 
 02.12.2019
 
@@ -4273,23 +4290,23 @@ s. 132/216
 
 2c. Turnusy dokształcania teoretycznego młodocianych pracowników mogą być prowadzone przez:
 
-- publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych - w zakresie zawodów, w których kształcą, oraz w zakresie innych zawodów przypisanych do branż, do których należą zawody, w których kształci szkoła;
+1) publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych – w zakresie zawodów, w których kształcą, oraz w zakresie innych zawodów przypisanych do branż, do których należą zawody, w których kształci szkoła;
 
-- publiczne i niepubliczne centra kształcenia zawodowego.
+2) publiczne i niepubliczne centra kształcenia zawodowego.
 
-3. Kształcenie ustawiczne może być prowadzone w formie dziennej, stacjonarnej lub zaocznej, a w przypadku form pozaszkolnych - także z wykorzystaniem metod i technik kształcenia na odległość. Turnus dokształcania młodocianych pracowników może być prowadzony wyłącznie w formie dziennej.
+3. Kształcenie ustawiczne może być prowadzone w formie dziennej, stacjonarnej lub zaocznej, a w przypadku form pozaszkolnych – także z wykorzystaniem metod i technik kształcenia na odległość. Turnus dokształcania młodocianych pracowników może być prowadzony wyłącznie w formie dziennej.
 
-4. Ustawa  nie  dotyczy  kształcenia  ustawicznego  realizowanego  na  podstawie art. 170 ust. 2  oraz  w formach  i na  zasadach  określonych  w odrębnych  przepisach, chyba że przepis szczególny stanowi inaczej.
+4. Ustawa nie dotyczy kształcenia ustawicznego realizowanego na podstawie art. 170 ust. 2 oraz w formach i na zasadach określonych w odrębnych przepisach, chyba że przepis szczególny stanowi inaczej.
 
 5. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
-- rodzaje publicznych placówek kształcenia ustawicznego oraz zadania publicznych placówek kształcenia ustawicznego i publicznych centrów kształcenia zawodowego,
+1) rodzaje publicznych placówek kształcenia ustawicznego oraz zadania publicznych placówek kształcenia ustawicznego i publicznych centrów kształcenia zawodowego,
 
-- warunki, organizację i tryb prowadzenia kształcenia ustawicznego w poszczególnych  formach  pozaszkolnych,  w tym  wymogi  jakie  powinien spełniać program nauczania,
+2) warunki, organizację i tryb prowadzenia kształcenia ustawicznego w poszczególnych formach pozaszkolnych, w tym wymogi jakie powinien spełniać program nauczania,
 
-- sposoby potwierdzania efektów kształcenia uzyskanych w wyniku ukończenia kształcenia prowadzonego w poszczególnych formach pozaszkolnych,
+3) sposoby potwierdzania efektów kształcenia uzyskanych w wyniku ukończenia kształcenia prowadzonego w poszczególnych formach pozaszkolnych,
 
-- wzory  dokumentów  wydawanych  po  ukończeniu  kształcenia  prowadzonego w formach  pozaszkolnych,  o których  mowa  w ust. 1a  pkt 1-4,  a w przypadku formy  pozaszkolnej,  o której  mowa  w ust. 1a  pkt 5 -  zakres  informacji,  jakie umieszcza się na zaświadczeniu wydawanym po ukończeniu kształcenia w tej formie,
+4) wzory dokumentów wydawanych po ukończeniu kształcenia prowadzonego w formach pozaszkolnych, o których mowa w ust. 1a pkt 1–4, a w przypadku formy pozaszkolnej, o której mowa w ust. 1a pkt 5 – zakres informacji, jakie umieszcza się na zaświadczeniu wydawanym po ukończeniu kształcenia w tej formie,
 
 02.12.2019
 
@@ -4301,11 +4318,11 @@ s. 132/216
 
 s. 133/216
 
-- przypadki, w których turnus dokształcania teoretycznego młodocianych pracowników może być prowadzony w więcej niż jednym zawodzie,
+5) przypadki, w których turnus dokształcania teoretycznego młodocianych pracowników może być prowadzony w więcej niż jednym zawodzie,
 
-- tryb  zwalniania  osób,  o których  mowa  w ust. 12,  z całości  lub  części  opłat  za kształcenie  prowadzone  w  formach  pozaszkolnych,  o których  mowa  w ust. 1a pkt 2,  3  i 5,  oraz  warunki  i tryb  zwrotu  opłaty  w przypadkach  określonych w ust. 11
+6) tryb zwalniania osób, o których mowa w ust. 12, z całości lub części opłat za kształcenie prowadzone w formach pozaszkolnych, o których mowa w ust. 1a pkt 2, 3 i 5, oraz warunki i tryb zwrotu opłaty w przypadkach określonych w ust. 11
 
-- uwzględniając  możliwość  zaliczania  potwierdzonych  efektów  kształcenia  przy podejmowaniu kształcenia w formach pozaszkolnych oraz konieczność dostosowania kształcenia ustawicznego do potrzeb i warunków rynku pracy, zapewnienia dostępności do form kształcenia ustawicznego umożliwiających przekwalifikowanie się  oraz  uzyskanie  nowych  kwalifikacji  oraz  włączenia  pracodawców  w proces kształcenia  ustawicznego,  a także  konieczność  prawidłowego  udokumentowania w przypadku zwolnienia lub zwrotu opłaty, o której mowa w ust. 7.
+– uwzględniając możliwość zaliczania potwierdzonych efektów kształcenia przy podejmowaniu kształcenia w formach pozaszkolnych oraz konieczność dostosowania kształcenia ustawicznego do potrzeb i warunków rynku pracy, zapewnienia dostępności do form kształcenia ustawicznego umożliwiających przekwalifikowanie się oraz uzyskanie nowych kwalifikacji oraz włączenia pracodawców w proces kształcenia ustawicznego, a także konieczność prawidłowego udokumentowania w przypadku zwolnienia lub zwrotu opłaty, o której mowa w ust. 7.
 
 6. (uchylony)
 
@@ -4319,7 +4336,7 @@ s. 133/216
 
 11. Opłata  nie  podlega  zwrotowi.  W szczególnych  przypadkach  losowych  lub zdrowotnych, uniemożliwiających podjęcie kształcenia w danej formie pozaszkolnej, dyrektor publicznej szkoły, placówki lub centrum, o których mowa w ust. 1, może zwrócić opłatę.
 
-12. Dyrektor publicznej szkoły, placówki lub centrum, o których mowa w ust. 1, może zwolnić w całości lub w części z opłaty osobę o niskich dochodach, w szczególności  jeżeli  dochód  tej  osoby  nie  przekracza  kwot,  o których  mowa w art. 8 ust. 1 pkt 1  albo  2  ustawy  z dnia  12 marca  2004 r.  o pomocy  społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm. 6) ).
+12. Dyrektor publicznej szkoły, placówki lub centrum, o których mowa w ust. 1, może zwolnić w całości lub w części z opłaty osobę o niskich dochodach, w szczególności jeżeli dochód tej osoby nie przekracza kwot, o których mowa w art. 8 ust. 1 pkt 1 albo 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, z późn. zm.6)).
 
 02.12.2019
 
@@ -4332,31 +4349,31 @@ s. 133/216
 s. 134/216
 
 ##### Art. 118.
-1. Placówka kształcenia ustawicznego i centrum kształcenia zawodowego  może  uzyskać  akredytację  na  kształcenie  ustawiczne  prowadzone w formie  pozaszkolnej,  o której  mowa  w art. 117 ust. 1a  pkt 1-4,  a w  przypadku formy pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 5 - jeżeli kształcenie w tej formie  jest  prowadzone  w oparciu  o programy  określone  na  podstawie  odrębnych przepisów.  Akredytacja  stanowi  potwierdzenie  spełniania  określonych  wymogów i zapewniania  wysokiej  jakości  kształcenia  ustawicznego  prowadzonego  w danej formie pozaszkolnej.
+1. Placówka kształcenia ustawicznego i centrum kształcenia zawodowego może uzyskać akredytację na kształcenie ustawiczne prowadzone w formie pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 1–4, a w przypadku formy pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 5 – jeżeli kształcenie w tej formie jest prowadzone w oparciu o programy określone na podstawie odrębnych przepisów. Akredytacja stanowi potwierdzenie spełniania określonych wymogów i zapewniania wysokiej jakości kształcenia ustawicznego prowadzonego w danej formie pozaszkolnej.
 
 2. Akredytację,  w drodze  decyzji  administracyjnej,  przyznaje  kurator  oświaty właściwy  ze  względu  na  miejsce  prowadzenia  kształcenia  ustawicznego  w danej formie pozaszkolnej na okres 5 lat.
 
 3. Akredytację, o której  mowa w ust. 1, może uzyskać placówka lub  centrum, które:
 
-- prowadziło  kształcenie  w formie  lub  formach  pozaszkolnych  przez  okres  co najmniej 3 lat;
+1) prowadziło kształcenie w formie lub formach pozaszkolnych przez okres co najmniej 3 lat;
 
-- opracowuje i stosuje system zapewniania jakości kształcenia oraz systematycznie go doskonali;
+2) opracowuje i stosuje system zapewniania jakości kształcenia oraz systematycznie go doskonali;
 
-- zapewnia  bazę  wyposażoną  w środki  dydaktyczne  -  w zakresie  danej  formy pozaszkolnej;
+3) zapewnia bazę wyposażoną w środki dydaktyczne – w zakresie danej formy pozaszkolnej;
 
-- zapewnia wykwalifikowaną kadrę - w zakresie danej formy pozaszkolnej;
+4) zapewnia wykwalifikowaną kadrę – w zakresie danej formy pozaszkolnej;
 
-- zapewnia  program  nauczania,  o którym  mowa  w przepisach  wydanych  na podstawie art. 117 ust. 5 - w zakresie danej formy pozaszkolnej;
+5) zapewnia program nauczania, o którym mowa w przepisach wydanych na podstawie art. 117 ust. 5 – w zakresie danej formy pozaszkolnej;
 
-- zapewnia warunki realizacji praktycznej nauki zawodu - w przypadku ubiegania się  o akredytację  na  kształcenie  w formach  pozaszkolnych,  o których  mowa w art. 117 ust. 1a pkt 1 i 2;
+6) zapewnia warunki realizacji praktycznej nauki zawodu – w przypadku ubiegania się o akredytację na kształcenie w formach pozaszkolnych, o których mowa w art. 117 ust. 1a pkt 1 i 2;
 
-- zapewnia bezpieczne i higieniczne warunki realizacji kształcenia w danej formie pozaszkolnej;
+7) zapewnia bezpieczne i higieniczne warunki realizacji kształcenia w danej formie pozaszkolnej;
 
-- udostępnia uczestnikom danej formy pozaszkolnej materiały dydaktyczne.
+8) udostępnia uczestnikom danej formy pozaszkolnej materiały dydaktyczne.
 
 4. (uchylony)
 
-> 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271, 730 i 752.
+6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271, 730 i 752.
 
 02.12.2019
 
@@ -4384,7 +4401,7 @@ s. 135/216
 
 7. Z opłat,  o których  mowa  w ust. 6,  są  zwolnione  podmioty,  które  prowadzą całość kształcenia nieodpłatnie.
 
-8. Przepisy ust. 1-7 stosuje się również do placówek niepublicznych prowadzonych  zgodnie  z przepisami  rozdziału  8,  działalności  oświatowej,  o której mowa  w art. 170 ust. 2,  a także  instytucji  rynku  pracy,  o których  mowa  w art. 6 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, prowadzących działalność edukacyjno-szkoleniową.
+8. Przepisy ust. 1–7 stosuje się również do placówek niepublicznych prowadzonych zgodnie z przepisami rozdziału 8, działalności oświatowej, o której mowa w art. 170 ust. 2, a także instytucji rynku pracy, o których mowa w art. 6 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, prowadzących działalność edukacyjno-szkoleniową.
 
 02.12.2019
 
@@ -4414,7 +4431,7 @@ Zadania  w zakresie  kształcenia  i wychowania  młodzieży  wykonują także O
 
 3. Przepisu  ust. 2 nie  stosuje  się  do  praktycznej  nauki  zawodu  organizowanej przez szkołę w jej warsztatach oraz pracowniach szkolnych dla uczniów tej szkoły.
 
-3a. Praktyczną naukę zawodu może prowadzić osoba, która nie była karana za umyślne przestępstwo przeciwko życiu i zdrowiu, przestępstwo przeciwko wolności seksualnej  i  obyczajności,  przestępstwo  przeciwko  rodzinie  i  opiece,  z  wyjątkiem przestępstwa określonego w art. 209 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny (Dz. U. z 2018 r. poz. 1600 i 2077 oraz z 2019 r. poz. 730, 858 i 870), przestępstwo określone w rozdziale 7 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2019 r. poz. 852), albo wobec której nie orzeczono zakazu prowadzenia działalności  związanej  z  wychowywaniem,  leczeniem,  edukacją  małoletnich  lub opieką nad nimi lub zakazu przebywania w określonych środowiskach lub miejscach, kontaktowania  się  z  określonymi  osobami,  zbliżania  się  do  określonych  osób  lub opuszczania określonego miejsca pobytu bez zgody sądu. Spełnienie tego warunku jest potwierdzane oświadczeniem osoby prowadzącej praktyczną naukę zawodu.
+3a. Praktyczną naukę zawodu może prowadzić osoba, która nie była karana za umyślne przestępstwo przeciwko życiu i zdrowiu, przestępstwo przeciwko wolności seksualnej i obyczajności, przestępstwo przeciwko rodzinie i opiece, z wyjątkiem
 
 02.12.2019
 
@@ -4426,14 +4443,16 @@ Zadania  w zakresie  kształcenia  i wychowania  młodzieży  wykonują także O
 
 s. 137/216
 
-4.  Minister  właściwy  do  spraw  oświaty  i  wychowania  w  porozumieniu  z ministrem właściwym do spraw pracy określi, w drodze rozporządzenia, warunki i tryb organizowania praktycznej nauki zawodu, uwzględniając zakres spraw, które powinny być  określone  w  umowie,  o  której  mowa  w  ust.  2,  w  tym  prawa  i  obowiązki podmiotów, o których mowa w ust. 1, oraz przeznaczenie środków finansowych, o których mowa w art. 121, kwalifikacje wymagane od osób prowadzących praktyczną naukę zawodu i przysługujące im uprawnienia, ramowy program kursu pedagogicznego dla instruktorów praktycznej nauki zawodu oraz zakres informacji jakie umieszcza się na zaświadczeniu wydawanym po ukończeniu tego kursu.
+przestępstwa określonego w art. 209 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2018 r. poz. 1600 i 2077 oraz z 2019 r. poz. 730, 858 i 870), przestępstwo określone w rozdziale 7 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2019 r. poz. 852), albo wobec której nie orzeczono zakazu prowadzenia działalności związanej z wychowywaniem, leczeniem, edukacją małoletnich lub opieką nad nimi lub zakazu przebywania w określonych środowiskach lub miejscach, kontaktowania się z określonymi osobami, zbliżania się do określonych osób lub opuszczania określonego miejsca pobytu bez zgody sądu. Spełnienie tego warunku jest potwierdzane oświadczeniem osoby prowadzącej praktyczną naukę zawodu.
+
+4. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw pracy określi, w drodze rozporządzenia, warunki i tryb organizowania praktycznej nauki zawodu, uwzględniając zakres spraw, które powinny być określone w umowie, o której mowa w ust. 2, w tym prawa i obowiązki podmiotów, o których mowa w ust. 1, oraz przeznaczenie środków finansowych, o których mowa w art. 121, kwalifikacje wymagane od osób prowadzących praktyczną naukę zawodu i przysługujące im uprawnienia, ramowy program kursu pedagogicznego dla instruktorów praktycznej nauki zawodu oraz zakres informacji jakie umieszcza się na zaświadczeniu wydawanym po ukończeniu tego kursu.
 
 5. Przepisy  ust.  1,  1a,  2,  3a  i  4 stosuje  się  odpowiednio  do  młodocianych pracowników odbywających praktyczną naukę zawodu w ramach odbywania przygotowania zawodowego. W przypadku młodocianego pracownika umowę z podmiotem,  o którym  mowa  w ust. 1,  zawiera  pracodawca,  który  zatrudnia  tego młodocianego.
 
 6. Minister właściwy do spraw oświaty i wychowania może zawierać porozumienia z organizacjami pracodawców, przedsiębiorstwami, samorządami gospodarczymi  oraz  innymi  organizacjami  pozarządowymi  w celu  poprawy  stanu kształcenia zawodowego, w szczególności realizacji praktycznej nauki zawodu.
 
 ##### Art.  120a.
-1.  Pracodawca  zatrudniający  młodocianych  w  celu  przygotowania zawodowego odbywanego  w formie  nauki  zawodu,  kierujący  ich  na  dokształcanie teoretyczne  do  branżowej  szkoły  I  stopnia  zgodnie  z  przepisami  wydanymi  na podstawie art. 191 § 3 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy, ustala z dyrektorem szkoły:
+1. Pracodawca zatrudniający młodocianych w celu przygotowania zawodowego odbywanego w formie nauki zawodu, kierujący ich na dokształcanie teoretyczne do branżowej szkoły I stopnia zgodnie z przepisami wydanymi na podstawie art. 191 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, ustala z dyrektorem szkoły:
 
 02.12.2019
 
@@ -4445,11 +4464,11 @@ s. 137/216
 
 s. 138/216
 
-- zakres  kształcenia  zawodowego  zapewnianego  przez  szkołę  i  pracodawcę, wynikający z programu nauczania zawodu;
+1) zakres kształcenia zawodowego zapewnianego przez szkołę i pracodawcę, wynikający z programu nauczania zawodu;
 
-- liczbę dni w tygodniu, w których zajęcia praktyczne odbywają się u pracodawcy;
+2) liczbę dni w tygodniu, w których zajęcia praktyczne odbywają się u pracodawcy;
 
-- sposób  monitorowania  przez  każdą  ze  stron  realizacji  programu  nauczania zawodu.
+3) sposób monitorowania przez każdą ze stron realizacji programu nauczania zawodu.
 
 2. Ustalenia, o których mowa w ust. 1, stanowią załącznik do umowy o pracę w celu przygotowania zawodowego odbywanego w formie nauki zawodu.
 
@@ -4457,11 +4476,11 @@ s. 138/216
 Szkoły  prowadzące  kształcenie  zawodowe,  z  wyjątkiem  szkoły artystycznej,  przekazują  podmiotom  przyjmującym  uczniów  na  praktyczną  naukę zawodu  na  podstawie  umowy  szkoły  z  tym  podmiotem,  wynikające  z  tej  umowy środki finansowe umożliwiające uczniom odbycie praktycznej nauki zawodu.
 
 ##### Art.  121a.
-1.  W  celu  ułatwienia  uzyskiwania  doświadczenia  i  nabywania umiejętności  praktycznych  niezbędnych  do  wykonywania  pracy  w  zawodzie,  w którym  kształcą  się,  uczniowie  technikum  i  uczniowie  branżowej  szkoły  I  stopnia niebędący  młodocianymi  pracownikami  mogą  w  okresie  nauki  odbywać  staż  w rzeczywistych warunkach pracy, zwany dalej 'stażem uczniowskim'.
+1. W celu ułatwienia uzyskiwania doświadczenia i nabywania umiejętności praktycznych niezbędnych do wykonywania pracy w zawodzie, w którym kształcą się, uczniowie technikum i uczniowie branżowej szkoły I stopnia niebędący młodocianymi pracownikami mogą w okresie nauki odbywać staż w rzeczywistych warunkach pracy, zwany dalej „stażem uczniowskim”.
 
 2. W trakcie stażu uczniowskiego uczeń realizuje wszystkie albo wybrane treści programu nauczania zawodu w zakresie praktycznej nauki zawodu realizowanego w szkole,  do  której  uczęszcza,  lub  treści  nauczania  związane  z nauczanym  zawodem nieobjęte tym programem.
 
-3. Osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, zwane dalej 'podmiotem przyjmującym na staż uczniowski', zawiera  z  uczniem  albo  rodzicami  niepełnoletniego  ucznia,  w formie  pisemnej, umowę o staż uczniowski.
+3. Osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, zwane dalej „podmiotem przyjmującym na staż uczniowski”, zawiera z uczniem albo rodzicami niepełnoletniego ucznia, w formie pisemnej, umowę o staż uczniowski.
 
 4.  Dyrektor  szkoły  może  zwolnić  ucznia,  który  odbył  staż  uczniowski,  z obowiązku odbycia praktycznej nauki zawodu w całości lub w części.
 
@@ -4483,11 +4502,11 @@ s. 139/216
 
 8.  Staż  uczniowski  może  odbywać  się  również  w  okresie  ferii  letnich  lub zimowych.
 
-9.  Do  stażu  uczniowskiego  nie  mają  zastosowania  przepisy  prawa  pracy,  z wyjątkiem przepisów art. 18 3a -18 3e , art. 131 § 1, art. 132 § 1, art. 133 § 1, art. 134, art. 151 7 ,  art.  204  i  art.  232  ustawy  z  dnia  26  czerwca  1974  r.  -  Kodeks  pracy,  z zastrzeżeniem przepisów ust. 12-14.
+9. Do stażu uczniowskiego nie mają zastosowania przepisy prawa pracy, z wyjątkiem przepisów art. 183a–183e, art. 131 § 1, art. 132 § 1, art. 133 § 1, art. 134, art. 151^7, art. 204 i art. 232 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, z zastrzeżeniem przepisów ust. 12–14.
 
-10. Dobowy wymiar godzin stażu uczniowskiego uczniów w wieku do lat 16 nie może  przekraczać  6  godzin,  a uczniów  w  wieku  powyżej  16  lat  -  8  godzin.  W uzasadnionych  przypadkach  wynikających  ze  specyfiki  funkcjonowania  ucznia niepełnosprawnego  w  wieku  powyżej  16  lat,  dopuszcza  się  możliwość  obniżenia dobowego wymiaru godzin stażu uczniowskiego do 7 godzin.
+10. Dobowy wymiar godzin stażu uczniowskiego uczniów w wieku do lat 16 nie może przekraczać 6 godzin, a uczniów w wieku powyżej 16 lat – 8 godzin. W uzasadnionych przypadkach wynikających ze specyfiki funkcjonowania ucznia niepełnosprawnego w wieku powyżej 16 lat, dopuszcza się możliwość obniżenia dobowego wymiaru godzin stażu uczniowskiego do 7 godzin.
 
-11. Dobowy łączny wymiar zajęć edukacyjnych realizowanych przez ucznia w szkole i stażu uczniowskiego nie może przekraczać 8 godzin, a tygodniowy łączny wymiar zajęć edukacyjnych realizowanych przez ucznia w szkole i stażu uczniowskiego - 40 godzin.
+11. Dobowy łączny wymiar zajęć edukacyjnych realizowanych przez ucznia w szkole i stażu uczniowskiego nie może przekraczać 8 godzin, a tygodniowy łączny wymiar zajęć edukacyjnych realizowanych przez ucznia w szkole i stażu uczniowskiego – 40 godzin.
 
 12.  W  szczególnie  uzasadnionych  przypadkach  dopuszcza  się  możliwość przedłużenia dobowego wymiaru godzin stażu uczniowskiego dla uczniów w wieku powyżej 18 lat, nie dłużej jednak niż do 12 godzin. Przedłużenie dobowego wymiaru godzin jest możliwe wyłącznie u podmiotów przyjmujących na staż uczniowski, u których  przedłużony  dobowy  wymiar  czasu  pracy  wynika  z  rodzaju  pracy  lub  jej organizacji.
 
@@ -4507,19 +4526,19 @@ s. 140/216
 
 15. Umowa o staż uczniowski określa w szczególności:
 
-- strony umowy;
+1) strony umowy;
 
-- miejsce odbywania stażu uczniowskiego;
+2) miejsce odbywania stażu uczniowskiego;
 
-- nazwę i adres szkoły, do której uczęszcza uczeń odbywający staż uczniowski;
+3) nazwę i adres szkoły, do której uczęszcza uczeń odbywający staż uczniowski;
 
-- zawód, w zakresie którego będzie odbywany staż uczniowski;
+4) zawód, w zakresie którego będzie odbywany staż uczniowski;
 
-- okres odbywania stażu uczniowskiego;
+5) okres odbywania stażu uczniowskiego;
 
-- wysokość  świadczenia  pieniężnego,  o  którym  mowa  w  ust.  7,  w  przypadku odpłatnego stażu uczniowskiego.
+6) wysokość świadczenia pieniężnego, o którym mowa w ust. 7, w przypadku odpłatnego stażu uczniowskiego.
 
-16. Umowa  o staż uczniowski nie może dotyczyć pracy szczególnie niebezpiecznej w rozumieniu przepisów wydanych na podstawie art. 23715 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy.
+16. Umowa o staż uczniowski nie może dotyczyć pracy szczególnie niebezpiecznej w rozumieniu przepisów wydanych na podstawie art. 237^15 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 17. Umowa o staż uczniowski nie może być zawarta na okres dłuższy niż okres nauki w technikum albo branżowej szkole I stopnia.
 
@@ -4533,7 +4552,7 @@ s. 140/216
 
 22.  Opiekunem  stażu  uczniowskiego  może  być  osoba  spełniająca  warunek określony w art. 120 ust. 3a. Spełnienie tego warunku jest potwierdzane oświadczeniem opiekuna stażu uczniowskiego.
 
-23.  Podmiot  przyjmujący  na  staż  uczniowski  zapewnia  uczniowi  stanowisko pracy wyposażone w niezbędne urządzenia, sprzęt, narzędzia, materiały i dokumentację  techniczną, uwzględniające wymagania  bezpieczeństwa  i higieny pracy, a także bezpieczne i higieniczne warunki odbywania stażu uczniowskiego na zasadach dotyczących pracowników określonych w odrębnych przepisach, w tym w zależności od rodzaju zagrożeń związanych z odbywaniem tego stażu - odpowiednie środki ochrony indywidualnej. Ponadto podmiot ten zapewnia w szczególności:
+23. Podmiot przyjmujący na staż uczniowski zapewnia uczniowi stanowisko pracy wyposażone w niezbędne urządzenia, sprzęt, narzędzia, materiały i dokumentację techniczną, uwzględniające wymagania bezpieczeństwa i higieny pracy, a także bezpieczne i higieniczne warunki odbywania stażu uczniowskiego na zasadach dotyczących pracowników określonych w odrębnych przepisach, w tym w zależności od rodzaju zagrożeń związanych z odbywaniem tego stażu – odpowiednie środki ochrony indywidualnej. Ponadto podmiot ten zapewnia w szczególności:
 
 02.12.2019
 
@@ -4545,13 +4564,13 @@ s. 140/216
 
 s. 141/216
 
-- pomieszczenia do przechowywania odzieży i obuwia roboczego oraz środków ochrony indywidualnej;
+1) pomieszczenia do przechowywania odzieży i obuwia roboczego oraz środków ochrony indywidualnej;
 
-- dostęp do urządzeń higieniczno-sanitarnych oraz pomieszczeń socjalnobytowych;
+2) dostęp do urządzeń higieniczno-sanitarnych oraz pomieszczeń socjalno-bytowych;
 
-- dietę na zasadach uzgodnionych z armatorem -w  przypadku uczniów odbywającym staż uczniowski na statkach morskich i śródlądowych;
+3) dietę na zasadach uzgodnionych z armatorem – w przypadku uczniów odbywającym staż uczniowski na statkach morskich i śródlądowych;
 
-- świadczenia na zasadach określonych dla załóg statków - w przypadku uczniów odbywających staż uczniowski na statkach morskich i śródlądowych, wyokrętowanych ze statku za granicą wskutek wypadku lub choroby.
+4) świadczenia na zasadach określonych dla załóg statków – w przypadku uczniów odbywających staż uczniowski na statkach morskich i śródlądowych, wyokrętowanych ze statku za granicą wskutek wypadku lub choroby.
 
 24.  Podmiot  przyjmujący  na  staż  uczniowski  jest  obowiązany  wystawić  na piśmie zaświadczenie o odbyciu stażu uczniowskiego, które określa w szczególności okres  odbytego  stażu  uczniowskiego,  rodzaj  realizowanych  zadań  i umiejętności nabyte w czasie odbywania stażu uczniowskiego.
 
@@ -4562,11 +4581,11 @@ s. 141/216
 ##### Art. 122.
 1. Pracodawcom, którzy zawarli z młodocianymi pracownikami umowę  o pracę  w celu  przygotowania  zawodowego,  przysługuje  dofinansowanie kosztów kształcenia, jeżeli:
 
-- pracodawca  lub  osoba  prowadząca  zakład  w imieniu  pracodawcy  albo  osoba zatrudniona  u pracodawcy  posiada  kwalifikacje  wymagane  do  prowadzenia przygotowania  zawodowego młodocianych określone w przepisach  w sprawie przygotowania zawodowego młodocianych i ich wynagradzania;
+1) pracodawca lub osoba prowadząca zakład w imieniu pracodawcy albo osoba zatrudniona u pracodawcy posiada kwalifikacje wymagane do prowadzenia przygotowania zawodowego młodocianych określone w przepisach w sprawie przygotowania zawodowego młodocianych i ich wynagradzania;
 
-- młodociany pracownik ukończył naukę zawodu i zdał:
+2) młodociany pracownik ukończył naukę zawodu i zdał:
 
-- w przypadku młodocianego zatrudnionego w celu przygotowania zawodowego u pracodawcy będącego rzemieślnikiem -egzamin czeladniczy  zgodnie  z  przepisami  wydanymi  na  podstawie  art.  3  ust.  4
+a) w przypadku młodocianego zatrudnionego w celu przygotowania zawodowego u pracodawcy będącego rzemieślnikiem – egzamin czeladniczy zgodnie z przepisami wydanymi na podstawie art. 3 ust. 4
 
 02.12.2019
 
@@ -4580,23 +4599,23 @@ s. 142/216
 
 ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2018 r. poz. 1267 i 2245),
 
-- w przypadku młodocianego zatrudnionego w celu przygotowania zawodowego  u pracodawcy niebędącego rzemieślnikiem -egzamin zawodowy;
+b) w przypadku młodocianego zatrudnionego w celu przygotowania zawodowego u pracodawcy niebędącego rzemieślnikiem – egzamin zawodowy;
 
-- młodociany pracownik ukończył przyuczenie do wykonywania określonej pracy i zdał egzamin, zgodnie z przepisami, o których mowa w pkt 1.
+3) młodociany pracownik ukończył przyuczenie do wykonywania określonej pracy i zdał egzamin, zgodnie z przepisami, o których mowa w pkt 1.
 
 2. Wysokość kwoty dofinansowania kosztów kształcenia jednego młodocianego pracownika wynosi:
 
-- w przypadku nauki zawodu - do 8081 zł przy okresie kształcenia wynoszącym 36 miesięcy;  jeżeli okres  kształcenia  jest  krótszy  niż  36 miesięcy,  kwotę dofinansowania wypłaca się w wysokości proporcjonalnej do okresu kształcenia;
+1) w przypadku nauki zawodu – do 8081 zł przy okresie kształcenia wynoszącym 36 miesięcy; jeżeli okres kształcenia jest krótszy niż 36 miesięcy, kwotę dofinansowania wypłaca się w wysokości proporcjonalnej do okresu kształcenia;
 
-- w przypadku przyuczenia do wykonywania określonej pracy - do 254 zł za każdy pełny miesiąc kształcenia.
+2) w przypadku przyuczenia do wykonywania określonej pracy – do 254 zł za każdy pełny miesiąc kształcenia.
 
 2a.  W  przypadku  nauki  zawodu  prowadzonej  w  zawodach  wskazanych  przez ministra właściwego do spraw oświaty i wychowania w prognozie, o której mowa w art.  46b  ust.  1,  wysokość  kwoty  dofinansowania  kosztów  kształcenia  jednego młodocianego pracownika, o której mowa w ust. 2 pkt 1, wynosi do 10 000 zł.
 
 3. Kwoty dofinansowania określone w ust. 2 i 2a podlegają waloryzacji wskaźnikiem  cen  towarów  i usług  konsumpcyjnych  ogółem,  jeżeli  ten  wskaźnik w roku kalendarzowym poprzedzającym rok, w którym następuje wypłata dofinansowania, wynosi co najmniej 105%.
 
-4. Wskaźnik, o którym mowa w ust. 3, Prezes Głównego Urzędu Statystycznego ogłasza  w Dzienniku  Urzędowym  Rzeczypospolitej  Polskiej  'Monitor  Polski'  na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+4. Wskaźnik, o którym mowa w ust. 3, Prezes Głównego Urzędu Statystycznego ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-5. Jeżeli umowa o pracę w celu przygotowania zawodowego została rozwiązana z przyczyn  niezależnych  od  pracodawcy,  a młodociany  pracownik  podjął  naukę zawodu na podstawie umowy o pracę w celu przygotowania zawodowego u innego pracodawcy  -  przysługującą  kwotę  dofinansowania  dzieli  się  między  wszystkich pracodawców,  proporcjonalnie  do  liczby  miesięcy  prowadzonej  przez  nich  nauki zawodu. Dofinansowanie nie przysługuje temu pracodawcy, z którym umowa o pracę w celu przygotowania zawodowego została rozwiązana z winy pracodawcy.
+5. Jeżeli umowa o pracę w celu przygotowania zawodowego została rozwiązana z przyczyn niezależnych od pracodawcy, a młodociany pracownik podjął naukę zawodu na podstawie umowy o pracę w celu przygotowania zawodowego u innego pracodawcy – przysługującą kwotę dofinansowania dzieli się między wszystkich pracodawców, proporcjonalnie do liczby miesięcy prowadzonej przez nich nauki zawodu. Dofinansowanie nie przysługuje temu pracodawcy, z którym umowa o pracę w celu przygotowania zawodowego została rozwiązana z winy pracodawcy.
 
 02.12.2019
 
@@ -4612,11 +4631,11 @@ s. 143/216
 
 7. Dofinansowanie jest przyznawane na wniosek pracodawcy złożony w terminie 3 miesięcy od dnia zdania przez młodocianego pracownika egzaminu, o którym mowa w ust. 1 pkt 2 i 3. Do wniosku należy dołączyć:
 
-- kopie  dokumentów  potwierdzających  spełnienie  warunku,  o którym  mowa w ust. 1 pkt 1;
+1) kopie dokumentów potwierdzających spełnienie warunku, o którym mowa w ust. 1 pkt 1;
 
-- kopię umowy o pracę z młodocianym pracownikiem zawartej w celu przygotowania zawodowego;
+2) kopię umowy o pracę z młodocianym pracownikiem zawartej w celu przygotowania zawodowego;
 
-- kopię  odpowiednio  dyplomu,  certyfikatu  lub  świadectwa,  potwierdzającego zdanie  egzaminu,  o  którym  mowa  w  ust.  1  pkt  2  i  3,  albo  zaświadczenie potwierdzające zdanie tego egzaminu.
+3) kopię odpowiednio dyplomu, certyfikatu lub świadectwa, potwierdzającego zdanie egzaminu, o którym mowa w ust. 1 pkt 2 i 3, albo zaświadczenie potwierdzające zdanie tego egzaminu.
 
 8. Dofinansowanie kosztów kształcenia młodocianych pracowników jest finansowane ze środków Funduszu Pracy.
 
@@ -4627,7 +4646,7 @@ s. 143/216
 11. Dofinansowanie, o którym mowa w ust. 1, udzielane podmiotowi prowadzącemu  działalność  gospodarczą  w rozumieniu  art. 2 pkt 17  ustawy  z dnia 30 kwietnia  2004 r.  o postępowaniu  w sprawach  dotyczących  pomocy  publicznej (Dz. U.  z 2018 r.  poz.  362  oraz  z  2019  r.  poz.  730),  stanowi  pomoc  de  minimis udzielaną zgodnie z warunkami określonymi w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu  Unii  Europejskiej  do  pomocy  de  minimis  (Dz. Urz.  UE L 352 z 24.12.2013, s. 1) lub rozporządzeniu Komisji (UE) nr 1408/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy  de minimis w sektorze rolnym (Dz. Urz. UE L 352 z 24.12.2013, s. 9).
 
 ##### Art. 122a.
-1. Dyrektor szkoły może zawrzeć umowę z instytucją certyfikującą, o  której  mowa w art. 2  pkt  6  ustawy  z  dnia  22  grudnia  2015  r.  o  Zintegrowanym Systemie Kwalifikacji, dotyczącą jednokrotnego, nieodpłatnego przystąpienia przez uczniów  lub  absolwentów  do  walidacji  i  certyfikowania  kwalifikacji  rynkowej funkcjonującej w Zintegrowanym Systemie Kwalifikacji. Umowa jest zawierana za zgodą ucznia lub absolwenta, a w przypadku niepełnoletniego ucznia lub absolwenta - za zgodą jego rodzica.
+1. Dyrektor szkoły może zawrzeć umowę z instytucją certyfikującą, o której mowa w art. 2 pkt 6 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji, dotyczącą jednokrotnego, nieodpłatnego przystąpienia przez uczniów lub absolwentów do walidacji i certyfikowania kwalifikacji rynkowej funkcjonującej w Zintegrowanym Systemie Kwalifikacji. Umowa jest zawierana za zgodą ucznia lub absolwenta, a w przypadku niepełnoletniego ucznia lub absolwenta – za zgodą jego rodzica.
 
 02.12.2019
 
@@ -4643,22 +4662,22 @@ s. 144/216
 
 3. Umowa określa w szczególności:
 
-- imiona i nazwiska oraz numer PESEL, a w przypadku braku numeru PESEL serię  i  numer  paszportu  lub  innego  dokumentu  potwierdzającego  tożsamość, uczniów lub absolwentów, którzy mogą nieodpłatnie przystąpić do walidacji i certyfikowania danej kwalifikacji rynkowej;
+1) imiona i nazwiska oraz numer PESEL, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, uczniów lub absolwentów, którzy mogą nieodpłatnie przystąpić do walidacji i certyfikowania danej kwalifikacji rynkowej;
 
-- okres,  w  którym  uczniowie  lub  absolwenci  mogą  nieodpłatnie  przystąpić  do walidacji i certyfikowania danej kwalifikacji rynkowej;
+2) okres, w którym uczniowie lub absolwenci mogą nieodpłatnie przystąpić do walidacji i certyfikowania danej kwalifikacji rynkowej;
 
-- wskazanie kwalifikacji rynkowej, której dotyczy umowa.
+3) wskazanie kwalifikacji rynkowej, której dotyczy umowa.
 
 4. Dyrektor szkoły niezwłocznie przekazuje ministrowi koordynatorowi Zintegrowanego Systemu Kwalifikacji informację o zawarciu umowy, o której mowa w ust.  1,  ze  wskazaniem  instytucji  certyfikującej,  z  którą  umowa  została  zawarta, kwalifikacji,  których  dotyczy  umowa,  okresu  obowiązywania  umowy  oraz  liczby uczniów objętych umową.
 
 ##### Art. 123.
 1. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
-- rodzaje i szczegółowe zasady działania placówek publicznych, o których mowa w art. 2 pkt 3, 7 i 8, warunki pobytu dzieci i młodzieży w tych placówkach oraz może  określić  wysokość  i zasady  odpłatności  wnoszonej  przez  rodziców  za pobyt ich dzieci w tych placówkach;
+1) rodzaje i szczegółowe zasady działania placówek publicznych, o których mowa w art. 2 pkt 3, 7 i 8, warunki pobytu dzieci i młodzieży w tych placówkach oraz może określić wysokość i zasady odpłatności wnoszonej przez rodziców za pobyt ich dzieci w tych placówkach;
 
-- szczegółowe zasady działania publicznych poradni psychologiczno-pedagogicznych, w tym poradni specjalistycznych;
+2) szczegółowe zasady działania publicznych poradni psychologiczno-pedagogicznych, w tym poradni specjalistycznych;
 
-- szczegółowe zasady działania publicznych bibliotek pedagogicznych.
+3) szczegółowe zasady działania publicznych bibliotek pedagogicznych.
 
 2. Rozporządzenie, o którym mowa w ust. 1 pkt 1, powinno uwzględniać realizację przez placówki zadań i celów edukacyjnych, wychowawczych, rekreacyjnych oraz opiekuńczych i zapewnienie warunków bezpieczeństwa wychowanków, a także określi warunki i zasady działania wolontariuszy.
 
@@ -4748,11 +4767,11 @@ s. 148/216
 
 9. Na  wniosek  podmiotu,  o którym  mowa  w ust. 5,  organizującego  wczesne wspomaganie rozwoju danego dziecka, na podstawie opinii, o której mowa w ust. 10, organ  lub  osoba  prowadząca  ten  podmiot  może  zawierać  porozumienia  z innymi organami  lub  osobami  prowadzącymi  podmioty,  o których  mowa  w ust. 5,  w celu realizacji części wskazań zawartych w tej opinii. Porozumienie określa w szczególności:
 
-- liczbę  godzin  zajęć  w ramach  wczesnego  wspomagania  rozwoju,  którymi obejmowane  jest  dane  dziecko  w  podmiotach,  o których  mowa  w ust. 5, zawierających porozumienie, z uwzględnieniem liczby godzin określonej w przepisach wydanych na podstawie ust. 19 pkt 1;
+1) liczbę godzin zajęć w ramach wczesnego wspomagania rozwoju, którymi obejmowane jest dane dziecko w podmiotach, o których mowa w ust. 5, zawierających porozumienie, z uwzględnieniem liczby godzin określonej w przepisach wydanych na podstawie ust. 19 pkt 1;
 
-- podmiot zobowiązany do przekazywania danych o zajęciach w ramach wczesnego wspomagania, organizowanych dla tego dziecka, zgodnie z przepisami o systemie informacji oświatowej;
+2) podmiot zobowiązany do przekazywania danych o zajęciach w ramach wczesnego wspomagania, organizowanych dla tego dziecka, zgodnie z przepisami o systemie informacji oświatowej;
 
-- sposób rozliczeń między podmiotami, o których mowa w ust. 5, zawierającymi porozumienie.
+3) sposób rozliczeń między podmiotami, o których mowa w ust. 5, zawierającymi porozumienie.
 
 10. Opinie o potrzebie wczesnego wspomagania rozwoju dziecka oraz orzeczenia o potrzebie kształcenia specjalnego albo indywidualnego obowiązkowego rocznego przygotowania przedszkolnego i indywidualnego nauczania, a także o potrzebie zajęć rewalidacyjno-wychowawczych organizowanych zgodnie z przepisami o ochronie zdrowia psychicznego wydają zespoły orzekające działające w publicznych  poradniach  psychologiczno-pedagogicznych,  w tym  w poradniach specjalistycznych.  Orzeczenie  o potrzebie  kształcenia  specjalnego  określa  zalecane formy kształcenia specjalnego, z uwzględnieniem rodzaju niepełnosprawności, w tym stopnia niepełnosprawności intelektualnej.
 
@@ -4778,7 +4797,7 @@ s. 149/216
 
 16. Dyrektor szkoły, której uczeń posiada orzeczenie o potrzebie indywidualnego  nauczania,  organizuje  takie  nauczanie  w porozumieniu  z organem prowadzącym.
 
-17. Dyrektor przedszkola, a w przypadku innej formy wychowania przedszkolnego  prowadzonej  przez  gminę  oraz  szkoły  podstawowej,  w  której  są zorganizowane oddziały przedszkolne -także dyrektor szkoły podstawowej organizuje indywidualne obowiązkowe roczne przygotowanie przedszkolne w porozumieniu z organem prowadzącym.
+17. Dyrektor przedszkola, a w przypadku innej formy wychowania przedszkolnego prowadzonej przez gminę oraz szkoły podstawowej, w której są zorganizowane oddziały przedszkolne – także dyrektor szkoły podstawowej organizuje indywidualne obowiązkowe roczne przygotowanie przedszkolne w porozumieniu z organem prowadzącym.
 
 18. Minister  właściwy  do  spraw  oświaty  i wychowania  określi,  w drodze rozporządzenia,  skład  zespołów  orzekających,  tryb  ich  powołania,  szczegółowe zasady  działania  tych  zespołów,  tryb  postępowania  odwoławczego  oraz  wzory orzeczeń i opinii o potrzebie wczesnego wspomagania rozwoju dziecka. Rozporządzenie powinno uwzględniać jak najpełniejszą realizację potrzeb dziecka lub ucznia, a także zapewnić możliwość dostosowania form wychowania przedszkolnego, form kształcenia oraz działań w ramach wczesnego wspomagania rozwoju dziecka, do aktualnych możliwości psychofizycznych dziecka lub ucznia.
 
@@ -4794,9 +4813,9 @@ s. 150/216
 
 19. Minister  właściwy  do  spraw  oświaty  i wychowania  określi,  w drodze rozporządzenia:
 
-- w porozumieniu z ministrami właściwymi do spraw zdrowia oraz zabezpieczenia społecznego, warunki organizowania wczesnego wspomagania rozwoju dzieci, o których mowa w ust. 5, w tym kwalifikacje wymagane od osób prowadzących wczesne wspomaganie, uwzględniając w szczególności przygotowanie do pracy z małymi  dziećmi  o  zaburzonym  rozwoju  psychoruchowym,  a także  formy współpracy z rodziną dziecka;
+1) w porozumieniu z ministrami właściwymi do spraw zdrowia oraz zabezpieczenia społecznego, warunki organizowania wczesnego wspomagania rozwoju dzieci, o których mowa w ust. 5, w tym kwalifikacje wymagane od osób prowadzących wczesne wspomaganie, uwzględniając w szczególności przygotowanie do pracy z małymi dziećmi o zaburzonym rozwoju psychoruchowym, a także formy współpracy z rodziną dziecka;
 
-- warunki organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży, o których  mowa  w ust. 1,  w innych  formach  wychowania  przedszkolnego, przedszkolach i szkołach ogólnodostępnych, przedszkolach i szkołach lub oddziałach integracyjnych, przedszkolach i szkołach lub oddziałach specjalnych oraz  w ośrodkach,  o których  mowa  w art. 2 pkt 7,  uwzględniając  szczególne potrzeby psychofizyczne i edukacyjne tych dzieci, rodzaje niepełnosprawności wymagające stosowania specjalnej organizacji nauki i metod pracy, szczegółowy zakres  indywidualnego  programu  edukacyjno-terapeutycznego  oraz  tryb  jego opracowywania,  a także  zatrudnienie  specjalistów  do  realizacji  potrzeb  dzieci i młodzieży, o których mowa w ust. 1.
+2) warunki organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży, o których mowa w ust. 1, w innych formach wychowania przedszkolnego, przedszkolach i szkołach ogólnodostępnych, przedszkolach i szkołach lub oddziałach integracyjnych, przedszkolach i szkołach lub oddziałach specjalnych oraz w ośrodkach, o których mowa w art. 2 pkt 7, uwzględniając szczególne potrzeby psychofizyczne i edukacyjne tych dzieci, rodzaje niepełnosprawności wymagające stosowania specjalnej organizacji nauki i metod pracy, szczegółowy zakres indywidualnego programu edukacyjno-terapeutycznego oraz tryb jego opracowywania, a także zatrudnienie specjalistów do realizacji potrzeb dzieci i młodzieży, o których mowa w ust. 1.
 
 20. Minister  właściwy  do  spraw  oświaty  i wychowania  określi,  w drodze rozporządzenia, sposób i tryb organizowania indywidualnego obowiązkowego rocznego  przygotowania  przedszkolnego  i indywidualnego  nauczania,  o których mowa w ust. 2, uwzględniając w szczególności wymiar  godzin zajęć edukacyjnych realizowanych bezpośrednio z uczniem.
 
@@ -4815,7 +4834,7 @@ s. 150/216
 
 s. 151/216
 
-6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2017 r. poz.  1318,  z  późn.  zm. 7) ),  niezbędne  do  prowadzenia  dokumentacji  przebiegu nauczania.
+6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2017 r. poz. 1318, z późn. zm.7)), niezbędne do prowadzenia dokumentacji przebiegu nauczania.
 
 3. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem  właściwym  do  spraw  zdrowia  oraz  ministrem  właściwym  do  spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, organizację kształcenia oraz warunki i formy realizowania specjalnych działań opiekuńczo-wychowawczych w szkołach, o których mowa w ust. 1, uwzględniając szczególne potrzeby psychofizyczne dzieci i młodzieży.
 
@@ -4827,9 +4846,9 @@ Dzieciom i młodzieży pozbawionym całkowicie lub częściowo opieki rodziciels
 #### Przyjmowanie do publicznych przedszkoli, publicznych innych form wychowania przedszkolnego, publicznych szkół i publicznych placówek
 
 ##### Art. 130.
-1. Dzieci, młodzież oraz osoby pełnoletnie przyjmuje się odpowiednio do  publicznych  przedszkoli,  oddziałów  przedszkolnych  w publicznych  szkołach podstawowych, publicznych innych form wychowania przedszkolnego i publicznych placówek, o których mowa w art. 2 pkt 3-5 i 8, do klas I szkół wszystkich typów oraz klas wstępnych, o których mowa w art. 25 ust. 3, po przeprowadzeniu postępowania rekrutacyjnego.
+1. Dzieci, młodzież oraz osoby pełnoletnie przyjmuje się odpowiednio do publicznych przedszkoli, oddziałów przedszkolnych w publicznych szkołach podstawowych, publicznych innych form wychowania przedszkolnego i publicznych placówek, o których mowa w art. 2 pkt 3–5 i 8, do klas I szkół wszystkich typów oraz klas wstępnych, o których mowa w art. 25 ust. 3, po przeprowadzeniu postępowania rekrutacyjnego.
 
-2. O przyjęciu  dziecka  do  publicznego  przedszkola,  oddziału  przedszkolnego w publicznej szkole podstawowej i publicznej innej formy wychowania przedszkolnego  oraz  dzieci,  młodzieży  i osób  pełnoletnich  do  publicznych  szkół wszystkich typów, w tym do klas I, klas wstępnych, o których mowa w art. 25 ust. 3, oraz do publicznych placówek, o których mowa w art. 2 pkt 3, 4 i 8, w trakcie roku szkolnego,  decyduje  odpowiednio  dyrektor  przedszkola  lub  szkoły,  a w przypadku publicznej innej formy wychowania przedszkolnego prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną także osoba kierująca tą inną formą wychowania przedszkolnego, z wyjątkiem przypadków przyjęcia dzieci i młodzieży  zamieszkałych  w obwodzie  publicznej  szkoły  podstawowej,  które  są przyjmowane z urzędu.
+2. O przyjęciu dziecka do publicznego przedszkola, oddziału przedszkolnego w publicznej szkole podstawowej i publicznej innej formy wychowania przedszkolnego oraz dzieci, młodzieży i osób pełnoletnich do publicznych szkół wszystkich typów, w tym do klas I, klas wstępnych, o których mowa w art. 25 ust. 3, oraz do publicznych placówek, o których mowa w art. 2 pkt 3, 4 i 8, w trakcie roku szkolnego, decyduje odpowiednio dyrektor przedszkola lub szkoły, a w przypadku publicznej innej formy wychowania przedszkolnego prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną także osoba kierująca
 
 > 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1524, z 2018 r. poz. 1115, 1515, 2219 i 2429 oraz z 2019 r. poz. 150, 447 i 730.
 
@@ -4843,7 +4862,9 @@ Dzieciom i młodzieży pozbawionym całkowicie lub częściowo opieki rodziciels
 
 s. 152/216
 
-3. Jeżeli  przyjęcie  ucznia,  o którym  mowa  w ust. 2,  wymaga  przeprowadzenia zmian  organizacyjnych  pracy  szkoły  powodujących  dodatkowe  skutki  finansowe, dyrektor szkoły może przyjąć ucznia po uzyskaniu zgody organu prowadzącego.
+tą inną formą wychowania przedszkolnego, z wyjątkiem przypadków przyjęcia dzieci i młodzieży zamieszkałych w obwodzie publicznej szkoły podstawowej, które są przyjmowane z urzędu.
+
+3. Jeżeli przyjęcie ucznia, o którym mowa w ust. 2, wymaga przeprowadzenia zmian organizacyjnych pracy szkoły powodujących dodatkowe skutki finansowe, dyrektor szkoły może przyjąć ucznia po uzyskaniu zgody organu prowadzącego.
 
 4. Postępowanie rekrutacyjne jest prowadzone na wniosek rodzica kandydata lub na wniosek kandydata pełnoletniego, o którym mowa w art. 149.
 
@@ -4864,7 +4885,7 @@ s. 152/216
 
 1) wielodzietność rodziny kandydata;
 
-- niepełnosprawność kandydata;
+2) niepełnosprawność kandydata;
 
 02.12.2019
 
@@ -4876,25 +4897,25 @@ s. 152/216
 
 s. 153/216
 
-- niepełnosprawność jednego z rodziców kandydata;
+3) niepełnosprawność jednego z rodziców kandydata;
 
-- niepełnosprawność obojga rodziców kandydata;
+4) niepełnosprawność obojga rodziców kandydata;
 
-- niepełnosprawność rodzeństwa kandydata;
+5) niepełnosprawność rodzeństwa kandydata;
 
-- samotne wychowywanie kandydata w rodzinie;
+6) samotne wychowywanie kandydata w rodzinie;
 
-- objęcie kandydata pieczą zastępczą.
+7) objęcie kandydata pieczą zastępczą.
 
 3. Kryteria, o których mowa w ust. 2, mają jednakową wartość.
 
 4. W przypadku  równorzędnych  wyników  uzyskanych  na  pierwszym  etapie postępowania  rekrutacyjnego  lub  jeżeli  po  zakończeniu  tego  etapu  dane  publiczne przedszkole, oddział przedszkolny w danej publicznej szkole podstawowej albo dana publiczna inna forma wychowania  przedszkolnego nadal dysponuje wolnymi miejscami, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę kryteria określone przez organ prowadzący, z uwzględnieniem zapewnienia jak najpełniejszej realizacji potrzeb dziecka i jego rodziny, zwłaszcza potrzeb rodziny, w której rodzice albo rodzic samotnie wychowujący kandydata muszą pogodzić obowiązki zawodowe z obowiązkami rodzinnymi, oraz lokalnych potrzeb społecznych. Organ prowadzący określa dokumenty niezbędne do potwierdzenia tych kryteriów.
 
-5. Na drugim etapie postępowania rekrutacyjnego może być brane pod uwagę kryterium dochodu na osobę w rodzinie kandydata. Kryterium dochodu określa organ prowadzący w stosunku procentowym do kwoty, o której mowa w art. 5 ust. 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2018 r. poz. 2220, z późn.  zm. 8) ).  Spełnianie  tego  kryterium  jest  potwierdzane  oświadczeniem  rodzica kandydata.
+5. Na drugim etapie postępowania rekrutacyjnego może być brane pod uwagę kryterium dochodu na osobę w rodzinie kandydata. Kryterium dochodu określa organ prowadzący w stosunku procentowym do kwoty, o której mowa w art. 5 ust. 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2018 r. poz. 2220, z późn. zm.8)). Spełnianie tego kryterium jest potwierdzane oświadczeniem rodzica kandydata.
 
 6. Organ  prowadzący  określa  nie  więcej  niż  6 kryteriów,  o których  mowa w ust. 4 i 5, oraz przyznaje każdemu kryterium określoną liczbę punktów, przy czym każde kryterium może mieć różną wartość.
 
-7. Kandydaci  zamieszkali  poza  obszarem  danej  gminy  mogą  być  przyjęci  do publicznego przedszkola, oddziału przedszkolnego w publicznej szkole podstawowej lub publicznej innej formy wychowania przedszkolnego na terenie tej gminy, jeżeli po przeprowadzeniu postępowania rekrutacyjnego zgodnie z ust. 1-6, dana gmina nadal dysponuje  wolnymi  miejscami  w tym  przedszkolu,  tym  oddziale  przedszkolnym w publicznej szkole podstawowej lub tej innej formie wychowania przedszkolnego.
+7. Kandydaci zamieszkali poza obszarem danej gminy mogą być przyjęci do publicznego przedszkola, oddziału przedszkolnego w publicznej szkole podstawowej lub publicznej innej formy wychowania przedszkolnego na terenie tej gminy, jeżeli po przeprowadzeniu postępowania rekrutacyjnego zgodnie z ust. 1–6, dana gmina nadal dysponuje wolnymi miejscami w tym przedszkolu, tym oddziale przedszkolnym w publicznej szkole podstawowej lub tej innej formie wychowania przedszkolnego.
 
 > 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2354 oraz z 2019 r. poz. 60, 303, 577, 730 i 752.
 
@@ -4908,18 +4929,18 @@ s. 153/216
 
 s. 154/216
 
-W przypadku większej liczby kandydatów zamieszkałych poza obszarem danej gminy przeprowadza się postępowanie rekrutacyjne. Przepisy ust. 2-6 stosuje się odpowiednio.
+W przypadku większej liczby kandydatów zamieszkałych poza obszarem danej gminy przeprowadza się postępowanie rekrutacyjne. Przepisy ust. 2–6 stosuje się odpowiednio.
 
-8. Przepisy ust. 1-7, 9 i 10 stosuje się odpowiednio do postępowania rekrutacyjnego do publicznego przedszkola integracyjnego i oddziału integracyjnego w publicznym przedszkolu ogólnodostępnym, w przypadku dzieci nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność.
+8. Przepisy ust. 1–7, 9 i 10 stosuje się odpowiednio do postępowania rekrutacyjnego do publicznego przedszkola integracyjnego i oddziału integracyjnego w publicznym przedszkolu ogólnodostępnym, w przypadku dzieci nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność.
 
-9. Pod  pojęciem  dochodu,  o którym  mowa  w ust. 5,  rozumie  się  dochód, o którym  mowa  w art. 3 pkt 1  ustawy  z dnia  28 listopada  2003 r.  o świadczeniach rodzinnych,  z tym  że  w przypadku  przychodów  podlegających  opodatkowaniu  na zasadach  określonych  w art. 27,  art. 30b,  art. 30c  i art. 30e  ustawy  z dnia  26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn.  zm. 9) ),  pomniejsza  się  je  o koszty  uzyskania  przychodu,  zaliczki  na  podatek dochodowy od osób fizycznych, składki na ubezpieczenia społeczne niezaliczone do kosztów uzyskania przychodu oraz składki na ubezpieczenie zdrowotne.
+9. Pod pojęciem dochodu, o którym mowa w ust. 5, rozumie się dochód, o którym mowa w art. 3 pkt 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, z tym że w przypadku przychodów podlegających opodatkowaniu na zasadach określonych w art. 27, art. 30b, art. 30c i art. 30e ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.9)), pomniejsza się je o koszty uzyskania przychodu, zaliczki na podatek dochodowy od osób fizycznych, składki na ubezpieczenia społeczne niezaliczone do kosztów uzyskania przychodu oraz składki na ubezpieczenie zdrowotne.
 
 10. Przy obliczaniu dochodu członka rodziny, o którym mowa w ust. 9, bierze się  pod  uwagę  przeciętny  miesięczny  dochód  z 3 miesięcy  wybranych  spośród ostatnich 6 miesięcy poprzedzających złożenie wniosku, o którym mowa w art. 149.
 
 ##### Art. 132.
 Laureat  lub  finalista  ogólnopolskiej  olimpiady  przedmiotowej  oraz laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8 ustawy  o  systemie  oświaty,  lub  laureat  konkursu  dla  uczniów  szkół  i  placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6 ustawy o systemie oświaty, których organizatorem jest minister właściwy do spraw  kultury  i  ochrony  dziedzictwa  narodowego  lub  specjalistyczna  jednostka nadzoru, o której mowa w art. 53 ust. 1, są przyjmowani w pierwszej kolejności do:
 
-- publicznej  szkoły  ponadpodstawowej,  publicznej  szkoły  ponadpodstawowej integracyjnej lub oddziału integracyjnego w publicznej szkole
+1) publicznej szkoły ponadpodstawowej, publicznej szkoły ponadpodstawowej integracyjnej lub oddziału integracyjnego w publicznej szkole
 
 > 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29, 271, 303 i 752.
 
@@ -4935,9 +4956,9 @@ s. 155/216
 
 ponadpodstawowej  ogólnodostępnej,  jeżeli  spełniają  odpowiednio  warunki,  o których mowa w art. 134 ust. 1;
 
-- publicznej szkoły ponadpodstawowej, o której mowa w art. 143 ust. 1, publicznej szkoły  ponadpodstawowej  sportowej,  publicznej  szkoły  ponadpodstawowej mistrzostwa sportowego, oddziału sportowego w publicznej szkole ponadpodstawowej  ogólnodostępnej  lub  oddziału  mistrzostwa  sportowego  w publicznej szkole ponadpodstawowej ogólnodostępnej, jeżeli spełniają odpowiednio warunki, o których mowa w art. 134 ust. 1, art. 137 ust. 1 i 4 oraz art. 143 ust. 1;
+2) publicznej szkoły ponadpodstawowej, o której mowa w art. 143 ust. 1, publicznej szkoły ponadpodstawowej sportowej, publicznej szkoły ponadpodstawowej mistrzostwa sportowego, oddziału sportowego w publicznej szkole ponadpodstawowej ogólnodostępnej lub oddziału mistrzostwa sportowego w publicznej szkole ponadpodstawowej ogólnodostępnej, jeżeli spełniają odpowiednio warunki, o których mowa w art. 134 ust. 1, art. 137 ust. 1 i 4 oraz art. 143 ust. 1;
 
-- publicznej szkoły ponadpodstawowej dwujęzycznej, oddziału dwujęzycznego w publicznej szkole ponadpodstawowej ogólnodostępnej lub oddziału międzynarodowego  w  publicznej  szkole  ponadpodstawowej  ogólnodostępnej oraz klasy wstępnej, o której mowa w art. 25 ust. 3, jeżeli spełniają odpowiednio warunki, o których mowa w art. 134 ust. 1, art. 138 ust. 4 i art. 140 ust. 1 i 2, z tym  że  warunek  uzyskania  odpowiednio  pozytywnego  wyniku  sprawdzianu kompetencji językowych, o którym mowa w art. 140 ust. 1, albo pozytywnego wyniku sprawdzianu predyspozycji językowych, o którym mowa w art. 140 ust. 2,  nie  dotyczy  laureata  lub  finalisty  olimpiady  przedmiotowej  oraz  laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim z języka obcego nowożytnego, który będzie drugim językiem nauczania w szkole, oddziale albo klasie, o przyjęcie do których ubiega się laureat lub finalista.
+3) publicznej szkoły ponadpodstawowej dwujęzycznej, oddziału dwujęzycznego w publicznej szkole ponadpodstawowej ogólnodostępnej lub oddziału międzynarodowego w publicznej szkole ponadpodstawowej ogólnodostępnej oraz klasy wstępnej, o której mowa w art. 25 ust. 3, jeżeli spełniają odpowiednio warunki, o których mowa w art. 134 ust. 1, art. 138 ust. 4 i art. 140 ust. 1 i 2, z tym że warunek uzyskania odpowiednio pozytywnego wyniku sprawdzianu kompetencji językowych, o którym mowa w art. 140 ust. 1, albo pozytywnego wyniku sprawdzianu predyspozycji językowych, o którym mowa w art. 140 ust. 2, nie dotyczy laureata lub finalisty olimpiady przedmiotowej oraz laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim z języka obcego nowożytnego, który będzie drugim językiem nauczania w szkole, oddziale albo klasie, o przyjęcie do których ubiega się laureat lub finalista.
 
 ##### Art. 133.
 1. Do klasy I publicznej szkoły podstawowej, której ustalono obwód, przyjmuje się na podstawie zgłoszenia rodziców dzieci i młodzież zamieszkałe w tym obwodzie.
@@ -4956,20 +4977,20 @@ s. 156/216
 
 3. Kryteriom, o których mowa w ust. 2, organ prowadzący przyznaje określoną liczbę  punktów  oraz  określa  dokumenty  niezbędne  do  ich  potwierdzenia,  z tym  że spełnianie kryterium dochodu  na osobę w rodzinie kandydata potwierdza się oświadczeniem.
 
-4. Przepisy ust. 1-3 stosuje się również do postępowania rekrutacyjnego do klasy I publicznej szkoły podstawowej prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną, której ustalono obwód.
+4. Przepisy ust. 1–3 stosuje się również do postępowania rekrutacyjnego do klasy I publicznej szkoły podstawowej prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną, której ustalono obwód.
 
 5. Przepisy ust. 2 i 3 stosuje się odpowiednio do postępowania rekrutacyjnego do klasy  I publicznej  szkoły  podstawowej  prowadzonej  przez  osobę  prawną  inną  niż jednostka samorządu terytorialnego lub osobę fizyczną, której nie ustalono obwodu, w przypadku większej liczby kandydatów niż liczba wolnych miejsc w tej szkole.
 
 6. Przepisy ust. 2 i 3 stosuje się odpowiednio do postępowania rekrutacyjnego do klasy  I publicznej  szkoły  podstawowej  integracyjnej  lub  oddziału  integracyjnego w publicznej szkole podstawowej ogólnodostępnej, w przypadku dzieci nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność.
 
 ##### Art. 134.
-1.  Do  klasy  I publicznej  szkoły  ponadpodstawowej,  o której  mowa w art. 18 ust. 1 pkt 2 lit. a-c, przyjmuje się kandydatów, którzy:
+1. Do klasy I publicznej szkoły ponadpodstawowej, o której mowa w art. 18 ust. 1 pkt 2 lit. a–c, przyjmuje się kandydatów, którzy:
 
-- posiadają świadectwo ukończenia szkoły podstawowej;
+1) posiadają świadectwo ukończenia szkoły podstawowej;
 
-- w  przypadku  kandydatów  do  szkoły  prowadzącej  kształcenie  zawodowe  posiadają zaświadczenie lekarskie zawierające orzeczenie o braku przeciwwskazań zdrowotnych do podjęcia praktycznej nauki zawodu, wydane zgodnie z przepisami  wydanymi  na  podstawie art. 6 ust. 5 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2018 r. poz. 1155, 1669 i 2245);
+2) w przypadku kandydatów do szkoły prowadzącej kształcenie zawodowe – posiadają zaświadczenie lekarskie zawierające orzeczenie o braku przeciwwskazań zdrowotnych do podjęcia praktycznej nauki zawodu, wydane zgodnie z przepisami wydanymi na podstawie art. 6 ust. 5 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2018 r. poz. 1155, 1669 i 2245);
 
-- w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978  r.  -  posiadają  orzeczenie  lekarskie  wydawane  w  formie  świadectwa zdrowia o zdolności do pracy na statku, o którym mowa w art. 4 ust. 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2018 r. poz. 616 i 2245), przy
+3) w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. – posiadają orzeczenie lekarskie wydawane w formie świadectwa zdrowia o zdolności do pracy na statku, o którym mowa w art. 4 ust. 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2018 r. poz. 616 i 2245), przy
 
 02.12.2019
 
@@ -4983,17 +5004,17 @@ s. 157/216
 
 czym  do  kandydatów  nie  stosuje  się  warunku  posiadania  zaświadczenia, o którym mowa w pkt 2;
 
-- w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje  przygotowanie  do  uzyskania  umiejętności  kierowania  pojazdem silnikowym -posiadają orzeczenie lekarskie o braku przeciwwskazań zdrowotnych do kierowania pojazdami, wydane zgodnie z przepisami rozdziału 12 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2019 r. poz. 341 i 622);
+4) w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym – posiadają orzeczenie lekarskie o braku przeciwwskazań zdrowotnych do kierowania pojazdami, wydane zgodnie z przepisami rozdziału 12 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2019 r. poz. 341 i 622);
 
-- w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje  przygotowanie  do  uzyskania  umiejętności  kierowania  pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E - posiadają orzeczenie psychologiczne  o  braku  przeciwwskazań  psychologicznych  do  kierowania pojazdem, o którym mowa w art. 84 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
+5) w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E – posiadają orzeczenie psychologiczne o braku przeciwwskazań psychologicznych do kierowania pojazdem, o którym mowa w art. 84 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
 
-- w  przypadku  kandydatów  do  szkoły  prowadzącej  kształcenie  w zawodzie podstawowym dla rybołówstwa, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w postanowieniach konwencji dotyczących wymagań w zakresie wyszkolenia, wydawania świadectw oraz pełnienia wacht - posiadają orzeczenie  lekarskie  wydawane  w formie  świadectwa  zdrowia  o zdolności  do pracy na statku rybackim, o którym mowa  w art. 4 ust. 1 ustawy z dnia 11 września 2019 r. o pracy na statkach rybackich (Dz. U. poz. 2197), przy czym do  kandydatów  nie  stosuje  się  warunku  posiadania  zaświadczenia,  o którym mowa w pkt 2.
+6) w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie podstawowym dla rybołówstwa, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w postanowieniach konwencji dotyczących wymagań w zakresie wyszkolenia, wydawania świadectw oraz pełnienia wacht – posiadają orzeczenie lekarskie wydawane w formie świadectwa zdrowia o zdolności do pracy na statku rybackim, o którym mowa w art. 4 ust. 1 ustawy z dnia 11 września 2019 r. o pracy na statkach rybackich (Dz. U. poz. 2197), przy czym do kandydatów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w pkt 2.
 
 2. W przypadku większej liczby kandydatów spełniających warunek, o którym mowa w ust. 1 pkt 1, niż liczba wolnych miejsc w szkole, o której mowa w ust. 1, na pierwszym etapie postępowania rekrutacyjnego są brane pod uwagę łącznie następujące kryteria:
 
-- wyniki egzaminu ósmoklasisty;
+1) wyniki egzaminu ósmoklasisty;
 
-- wymienione  na  świadectwie  ukończenia  szkoły  podstawowej  oceny  z języka polskiego  i matematyki  oraz  z dwóch  obowiązkowych  zajęć  edukacyjnych
+2) wymienione na świadectwie ukończenia szkoły podstawowej oceny z języka polskiego i matematyki oraz z dwóch obowiązkowych zajęć edukacyjnych
 
 02.12.2019
 
@@ -5007,15 +5028,15 @@ s. 158/216
 
 ustalonych przez dyrektora danej szkoły jako brane pod uwagę w postępowaniu rekrutacyjnym do danego oddziału tej szkoły;
 
-- świadectwo ukończenia szkoły podstawowej z wyróżnieniem;
+3) świadectwo ukończenia szkoły podstawowej z wyróżnieniem;
 
-- szczególne osiągnięcia wymienione na świadectwie ukończenia szkoły podstawowej:
+4) szczególne osiągnięcia wymienione na świadectwie ukończenia szkoły podstawowej:
 
-- uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim  tytułem  w zawodach  wiedzy,  artystycznych  i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej  oraz  tytułu  laureata  konkursu  przedmiotowego  o zasięgu wojewódzkim lub ponadwojewódzkim, o których mowa w art. 132,
+a) uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim tytułem w zawodach wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej oraz tytułu laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, o których mowa w art. 132,
 
-- osiągnięcia w zakresie aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu;
+b) osiągnięcia w zakresie aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu;
 
-- w przypadku kandydatów ubiegających się o przyjęcie do oddziałów wymagających szczególnych indywidualnych predyspozycji -wyniki sprawdzianu uzdolnień kierunkowych, o którym mowa w ust. 5.
+5) w przypadku kandydatów ubiegających się o przyjęcie do oddziałów wymagających szczególnych indywidualnych predyspozycji – wyniki sprawdzianu uzdolnień kierunkowych, o którym mowa w ust. 5.
 
 3. W przypadku  równorzędnych  wyników  uzyskanych  na  pierwszym  etapie postępowania rekrutacyjnego, na drugim etapie postępowania rekrutacyjnego przyjmuje się kandydatów z problemami zdrowotnymi, ograniczającymi możliwości wyboru  kierunku  kształcenia  ze  względu  na  stan  zdrowia,  potwierdzonymi  opinią publicznej poradni psychologiczno-pedagogicznej, w tym publicznej poradni specjalistycznej.
 
@@ -5033,22 +5054,22 @@ ustalonych przez dyrektora danej szkoły jako brane pod uwagę w postępowaniu r
 
 s. 159/216
 
-6. Przepisy ust. 1-5 stosuje się odpowiednio do postępowania rekrutacyjnego do klasy I publicznej szkoły ponadpodstawowej integracyjnej lub oddziału integracyjnego w publicznej szkole ponadpodstawowej ogólnodostępnej, w przypadku kandydatów nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność.
+6. Przepisy ust. 1–5 stosuje się odpowiednio do postępowania rekrutacyjnego do klasy I publicznej szkoły ponadpodstawowej integracyjnej lub oddziału integracyjnego w publicznej szkole ponadpodstawowej ogólnodostępnej, w przypadku kandydatów nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność.
 
 ##### Art. 135.
 1. Na semestr pierwszy klasy I publicznej branżowej szkoły II stopnia przyjmuje się kandydatów, którzy:
 
-- posiadają świadectwo ukończenia branżowej szkoły I stopnia;
+1) posiadają świadectwo ukończenia branżowej szkoły I stopnia;
 
-- posiadają zaświadczenie o zawodzie nauczanym w branżowej szkole I stopnia, którego  zakres  odpowiada  pierwszej  kwalifikacji  wyodrębnionej  w zawodzie nauczanym w branżowej szkole II stopnia, do której ubiegają się o przyjęcie;
+2) posiadają zaświadczenie o zawodzie nauczanym w branżowej szkole I stopnia, którego zakres odpowiada pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole II stopnia, do której ubiegają się o przyjęcie;
 
-- posiadają zaświadczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 2;
+3) posiadają zaświadczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 2;
 
-- w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht,  1978,  sporządzonej  w Londynie dnia 7 lipca 1978 r. - posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 3, przy  czym do kandydatów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w pkt 3;
+4) w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. – posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 3, przy czym do kandydatów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w pkt 3;
 
-- w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje  przygotowanie  do  uzyskania  umiejętności  kierowania  pojazdem silnikowym - posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 4;
+5) w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym – posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 4;
 
-- w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje  przygotowanie  do  uzyskania  umiejętności  kierowania  pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E - posiadają orzeczenie psychologiczne, o którym mowa w art. 134 ust. 1 pkt 5;
+6) w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E – posiadają orzeczenie psychologiczne, o którym mowa w art. 134 ust. 1 pkt 5;
 
 02.12.2019
 
@@ -5060,7 +5081,7 @@ s. 159/216
 
 s. 160/216
 
-- w  przypadku  kandydatów  do  szkoły  prowadzącej  kształcenie  w zawodzie podstawowym dla rybołówstwa, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w postanowieniach konwencji dotyczących wymagań w zakresie wyszkolenia, wydawania świadectw oraz pełnienia wacht - posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 6, przy czym do kandydatów  nie  stosuje  się  warunku  posiadania  zaświadczenia,  o którym mowa w pkt 3.
+7) w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie podstawowym dla rybołówstwa, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w postanowieniach konwencji dotyczących wymagań w zakresie wyszkolenia, wydawania świadectw oraz pełnienia wacht – posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 6, przy czym do kandydatów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w pkt 3.
 
 2. Na semestr pierwszy klasy I publicznej branżowej szkoły II stopnia przyjmuje się kandydatów, którzy ukończyli branżową szkołę I stopnia w okresie 5 lat szkolnych poprzedzających  rok  szkolny,  na  który  ubiegają  się  o przyjęcie  do  publicznej branżowej szkoły II stopnia.
 
@@ -5068,13 +5089,13 @@ s. 160/216
 
 4. W przypadku większej liczby kandydatów spełniających warunek, o którym mowa w ust. 1 pkt 1 i 2, niż liczba wolnych miejsc w szkole, o której mowa w ust. 1, na  pierwszym  etapie  postępowania  rekrutacyjnego  są  brane  pod  uwagę  łącznie następujące kryteria:
 
-- wymienione  na  świadectwie  ukończenia  branżowej  szkoły  I stopnia  oceny z języka polskiego i matematyki oraz z dwóch obowiązkowych zajęć edukacyjnych ogólnokształcących ustalonych przez dyrektora danej szkoły jako brane pod uwagę w postępowaniu rekrutacyjnym do danego oddziału tej szkoły;
+1) wymienione na świadectwie ukończenia branżowej szkoły I stopnia oceny z języka polskiego i matematyki oraz z dwóch obowiązkowych zajęć edukacyjnych ogólnokształcących ustalonych przez dyrektora danej szkoły jako brane pod uwagę w postępowaniu rekrutacyjnym do danego oddziału tej szkoły;
 
-- świadectwo ukończenia branżowej szkoły I stopnia z wyróżnieniem;
+2) świadectwo ukończenia branżowej szkoły I stopnia z wyróżnieniem;
 
-(uchylony)
+3) (uchylony)
 
-- w przypadku kandydatów ubiegających się o przyjęcie do oddziałów wymagających szczególnych indywidualnych predyspozycji -wyniki sprawdzianu uzdolnień kierunkowych, o którym mowa w ust. 7.
+4) w przypadku kandydatów ubiegających się o przyjęcie do oddziałów wymagających szczególnych indywidualnych predyspozycji – wyniki sprawdzianu uzdolnień kierunkowych, o którym mowa w ust. 7.
 
 5. W przypadku  równorzędnych  wyników  uzyskanych  na  pierwszym  etapie postępowania rekrutacyjnego, na drugim etapie postępowania rekrutacyjnego przyjmuje się kandydatów z problemami zdrowotnymi, ograniczającymi możliwości wyboru  kierunku  kształcenia  ze  względu  na  stan  zdrowia,  potwierdzonymi  opinią publicznej poradni psychologiczno-pedagogicznej, w tym publicznej poradni specjalistycznej.
 
@@ -5090,34 +5111,34 @@ s. 161/216
 
 6. W przypadku równorzędnych wyników uzyskanych na drugim etapie postępowania  rekrutacyjnego  lub  jeżeli  po  zakończeniu  tego  etapu  dana  szkoła, o której  mowa  w ust. 1,  nadal  dysponuje  wolnymi  miejscami,  na  trzecim  etapie postępowania rekrutacyjnego są brane pod uwagę łącznie:
 
-- w przypadku kandydata niepełnoletniego -kryteria, o których mowa w art. 131 ust. 2;
+1) w przypadku kandydata niepełnoletniego – kryteria, o których mowa w art. 131 ust. 2;
 
-- w przypadku kandydata pełnoletniego - następujące kryteria:
+2) w przypadku kandydata pełnoletniego – następujące kryteria:
 
-- wielodzietność rodziny kandydata,
+a) wielodzietność rodziny kandydata,
 
-- niepełnosprawność kandydata,
+b) niepełnosprawność kandydata,
 
-- niepełnosprawność dziecka kandydata,
+c) niepełnosprawność dziecka kandydata,
 
-- niepełnosprawność  innej  osoby  bliskiej,  nad  którą  kandydat  sprawuje opiekę,
+d) niepełnosprawność innej osoby bliskiej, nad którą kandydat sprawuje opiekę,
 
-- samotne wychowywanie dziecka przez kandydata.
+e) samotne wychowywanie dziecka przez kandydata.
 
 6a. Kryteria, o których mowa w ust. 6, mają jednakową wartość.
 
-- 6b. Do kandydatów, o których mowa w ust. 1, nie stosuje się art. 147.
+6b. Do kandydatów, o których mowa w ust. 1, nie stosuje się art. 147.
 
 7. Jeżeli  program  nauczania  realizowany  w szkole  lub  oddziale  wymaga  od kandydatów  szczególnych  indywidualnych  predyspozycji,  na  wniosek  dyrektora branżowej  szkoły  II  stopnia,  pozytywnie  zaopiniowany  przez  kuratora  oświaty, minister właściwy do spraw oświaty i wychowania może  wyrazić zgodę na przeprowadzenie  sprawdzianu  uzdolnień  kierunkowych,  na  warunkach  ustalonych przez  radę  pedagogiczną,  jeżeli  organ  prowadzący  wyrazi  zgodę  na  dodatkowe godziny zajęć edukacyjnych w zakresie realizacji programu nauczania wymagającego od ucznia szczególnych indywidualnych predyspozycji.
 
-8. Przepisy ust. 1-7 stosuje się odpowiednio do postępowania rekrutacyjnego na semestr  pierwszy  klasy  I  publicznej  branżowej  szkoły  II  stopnia  integracyjnej  lub oddziału integracyjnego w publicznej branżowej szkole II stopnia ogólnodostępnej, w przypadku kandydatów nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność.
+8. Przepisy ust. 1–7 stosuje się odpowiednio do postępowania rekrutacyjnego na semestr pierwszy klasy I publicznej branżowej szkoły II stopnia integracyjnej lub oddziału integracyjnego w publicznej branżowej szkole II stopnia ogólnodostępnej, w przypadku kandydatów nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność.
 
 ##### Art. 136.
 1. Na semestr pierwszy klasy I publicznej szkoły policealnej przyjmuje się kandydatów, którzy:
 
-- posiadają wykształcenie średnie lub średnie branżowe;
+1) posiadają wykształcenie średnie lub średnie branżowe;
 
-- posiadają zaświadczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 2;
+2) posiadają zaświadczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 2;
 
 02.12.2019
 
@@ -5129,15 +5150,15 @@ s. 161/216
 
 s. 162/216
 
-- 2a) w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht,  1978,  sporządzonej  w Londynie dnia 7 lipca 1978 r. - posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 3, przy  czym do kandydatów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w pkt 2;
+2a) w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. – posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 3, przy czym do kandydatów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w pkt 2;
 
-- 2b) w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje  przygotowanie  do  uzyskania  umiejętności  kierowania  pojazdem silnikowym - posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 4;
+2b) w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym – posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 4;
 
-- 2c) w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje  przygotowanie  do  uzyskania  umiejętności  kierowania  pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E - posiadają orzeczenie psychologiczne, o którym mowa w art. 134 ust. 1 pkt 5;
+2c) w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E – posiadają orzeczenie psychologiczne, o którym mowa w art. 134 ust. 1 pkt 5;
 
-- 2d) w  przypadku  kandydatów  do  szkoły  prowadzącej  kształcenie  w zawodzie podstawowym dla rybołówstwa, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w postanowieniach konwencji dotyczących wymagań w zakresie wyszkolenia, wydawania świadectw oraz pełnienia wacht - posiadają orzeczenie  lekarskie,  o którym  mowa  w art. 134 ust. 1 pkt 6,  przy  czym  do kandydatów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w pkt 2;
+2d) w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie podstawowym dla rybołówstwa, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w postanowieniach konwencji dotyczących wymagań w zakresie wyszkolenia, wydawania świadectw oraz pełnienia wacht – posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 6, przy czym do kandydatów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w pkt 2;
 
-- w przypadku  kandydatów  ubiegających  się  o przyjęcie  do  szkoły  realizującej program  nauczania  wymagający  szczególnych  indywidualnych  uzdolnień  lub predyspozycji  przydatnych  w danym  zawodzie  -  uzyskali  pozytywny  wynik sprawdzianu, o którym mowa w ust. 2.
+3) w przypadku kandydatów ubiegających się o przyjęcie do szkoły realizującej program nauczania wymagający szczególnych indywidualnych uzdolnień lub predyspozycji przydatnych w danym zawodzie – uzyskali pozytywny wynik sprawdzianu, o którym mowa w ust. 2.
 
 2. Jeżeli  program  nauczania  realizowany  w szkole  wymaga  od  kandydatów szczególnych  indywidualnych  uzdolnień  lub  predyspozycji  przydatnych  w danym zawodzie,  na  wniosek  dyrektora  szkoły,  minister  właściwy  do  spraw  oświaty i wychowania, po pozytywnym zaopiniowaniu wniosku przez ministra właściwego w zakresie zawodu, może wyrazić zgodę na przeprowadzenie sprawdzianu uzdolnień lub predyspozycji przydatnych w danym zawodzie. Sprawdzian ten jest przeprowadzany na warunkach ustalonych przez radę pedagogiczną.
 
@@ -5153,11 +5174,11 @@ s. 163/216
 
 3. W przypadku większej liczby kandydatów spełniających warunki, o których mowa  w ust. 1,  niż  liczba  wolnych  miejsc  w szkole,  o której  mowa  w ust. 1,  na pierwszym etapie postępowania rekrutacyjnego są brane pod uwagę łącznie:
 
-- w przypadku kandydata niepełnoletniego -kryteria, o których mowa w art. 131 ust. 2;
+1) w przypadku kandydata niepełnoletniego – kryteria, o których mowa w art. 131 ust. 2;
 
-- w przypadku kandydata pełnoletniego -kryteria, o których mowa w art. 135 ust. 6 pkt 2.
+2) w przypadku kandydata pełnoletniego – kryteria, o których mowa w art. 135 ust. 6 pkt 2.
 
-- Kryteria, o których mowa w ust. 3, mają jednakową wartość.
+4. Kryteria, o których mowa w ust. 3, mają jednakową wartość.
 
 5. W przypadku  równorzędnych  wyników  uzyskanych  na  pierwszym  etapie postępowania  rekrutacyjnego  lub  jeżeli  po  zakończeniu  tego  etapu  dana  szkoła, o której  mowa  w ust. 1,  nadal  dysponuje  wolnymi  miejscami,  na  drugim  etapie postępowania rekrutacyjnego jest brana pod uwagę kolejność zgłoszeń.
 
@@ -5168,9 +5189,9 @@ s. 163/216
 
 <1)  posiadają stan zdrowia umożliwiający podjęcie nauki w szkole lub oddziale, potwierdzony orzeczeniem lekarskim wydanym przez lekarza podstawowej opieki zdrowotnej;>
 
-- posiadają  pisemną  zgodę  rodziców  na  uczęszczanie  kandydata  do  szkoły  lub oddziału;
+2) posiadają pisemną zgodę rodziców na uczęszczanie kandydata do szkoły lub oddziału;
 
-- uzyskali pozytywne wyniki prób sprawności fizycznej, na warunkach ustalonych przez  polski  związek  sportowy  właściwy  dla  danego  sportu,  w którym  jest prowadzone szkolenie sportowe w danej szkole lub danym oddziale.
+3) uzyskali pozytywne wyniki prób sprawności fizycznej, na warunkach ustalonych przez polski związek sportowy właściwy dla danego sportu, w którym jest prowadzone szkolenie sportowe w danej szkole lub danym oddziale.
 
 Nowe brzmienie pkt  1  w  ust.  1  w art.  137  wejdzie w życie z dn. 1.01.2020  r.  (Dz. U.  z  2019  r.  poz. 1078).
 
@@ -5194,15 +5215,15 @@ s. 164/216
 
 6. W przypadku  równorzędnych  wyników  uzyskanych  na  pierwszym  etapie postępowania rekrutacyjnego, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie odpowiednio następujące kryteria:
 
-- wyniki egzaminu ósmoklasisty;
+1) wyniki egzaminu ósmoklasisty;
 
-- wymienione  na  świadectwie  ukończenia  szkoły  podstawowej  oceny  z języka polskiego  i matematyki  oraz  z dwóch  obowiązkowych  zajęć  edukacyjnych ustalonych przez dyrektora danej szkoły jako brane pod uwagę w postępowaniu rekrutacyjnym do danego oddziału tej szkoły;
+2) wymienione na świadectwie ukończenia szkoły podstawowej oceny z języka polskiego i matematyki oraz z dwóch obowiązkowych zajęć edukacyjnych ustalonych przez dyrektora danej szkoły jako brane pod uwagę w postępowaniu rekrutacyjnym do danego oddziału tej szkoły;
 
-- świadectwo ukończenia szkoły podstawowej z wyróżnieniem;
+3) świadectwo ukończenia szkoły podstawowej z wyróżnieniem;
 
-- szczególne osiągnięcia wymienione na świadectwie ukończenia szkoły podstawowej:
+4) szczególne osiągnięcia wymienione na świadectwie ukończenia szkoły podstawowej:
 
-- uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim  tytułem  w zawodach  wiedzy,  artystycznych  i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata lub finalisty ogólnopolskiej olimpiady
+a) uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim tytułem w zawodach wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata lub finalisty ogólnopolskiej olimpiady
 
 02.12.2019
 
@@ -5216,7 +5237,7 @@ s. 165/216
 
 przedmiotowej  oraz  tytułu  laureata  konkursu  przedmiotowego  o zasięgu wojewódzkim lub ponadwojewódzkim, o których mowa w art. 132,
 
-- osiągnięcia w zakresie aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu.
+b) osiągnięcia w zakresie aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu.
 
 7. W przypadku równorzędnych wyników uzyskanych na drugim etapie postępowania rekrutacyjnego, na trzecim etapie postępowania rekrutacyjnego są brane pod  uwagę  łącznie  kryteria,  o których  mowa  w art. 131 ust. 2.  Przepis  art. 131 ust. 3 stosuje się.
 
@@ -5232,9 +5253,9 @@ przedmiotowej  oraz  tytułu  laureata  konkursu  przedmiotowego  o zasięgu woj
 ##### Art. 139.
 1.  Do  oddziału  dwujęzycznego  w publicznej  szkole  podstawowej przyjmuje się w pierwszej kolejności ucznia tej szkoły, który:
 
-- otrzymał promocję do klasy VII;
+1) otrzymał promocję do klasy VII;
 
-- uzyskał pozytywny wynik sprawdzianu predyspozycji językowych przeprowadzanego na warunkach ustalonych przez radę pedagogiczną.
+2) uzyskał pozytywny wynik sprawdzianu predyspozycji językowych przeprowadzanego na warunkach ustalonych przez radę pedagogiczną.
 
 2. W przypadku większej liczby kandydatów spełniających warunki, o których mowa w ust. 1, niż liczba wolnych miejsc w oddziale, o którym mowa w ust. 1, na pierwszym etapie postępowania rekrutacyjnego są brane pod uwagę łącznie następujące kryteria:
 
@@ -5250,13 +5271,13 @@ przedmiotowej  oraz  tytułu  laureata  konkursu  przedmiotowego  o zasięgu woj
 
 s. 166/216
 
-- wymienione  na  świadectwie  promocyjnym  do  klasy  VII  szkoły  podstawowej oceny z języka polskiego, matematyki i języka obcego nowożytnego;
+2) wymienione na świadectwie promocyjnym do klasy VII szkoły podstawowej oceny z języka polskiego, matematyki i języka obcego nowożytnego;
 
-- świadectwo promocyjne do klasy VII szkoły podstawowej z wyróżnieniem.
+3) świadectwo promocyjne do klasy VII szkoły podstawowej z wyróżnieniem.
 
 3. W przypadku  równorzędnych  wyników  uzyskanych  na  pierwszym  etapie postępowania rekrutacyjnego lub jeżeli po zakończeniu tego etapu oddział, o którym mowa w ust. 1, nadal dysponuje wolnymi miejscami, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie kryteria, o których mowa w art. 131 ust. 2. Przepis art. 131 ust. 3 stosuje się.
 
-4. W przypadku  wolnych  miejsc  do  oddziałów  dwujęzycznych  w publicznych szkołach podstawowych, na trzecim etapie postępowania rekrutacyjnego mogą być przyjęci kandydaci niebędący uczniami tej szkoły, którzy przystąpili do postępowania rekrutacyjnego. Przepisy ust. 1-3 stosuje się odpowiednio.
+4. W przypadku wolnych miejsc do oddziałów dwujęzycznych w publicznych szkołach podstawowych, na trzecim etapie postępowania rekrutacyjnego mogą być przyjęci kandydaci niebędący uczniami tej szkoły, którzy przystąpili do postępowania rekrutacyjnego. Przepisy ust. 1–3 stosuje się odpowiednio.
 
 ##### Art. 140.
 1. Do klasy I publicznej szkoły ponadpodstawowej dwujęzycznej lub oddziału  dwujęzycznego  w publicznej  szkole  ponadpodstawowej  ogólnodostępnej przyjmuje się kandydatów, którzy spełniają warunki, o których mowa w art. 134 ust. 1, oraz uzyskali pozytywny wynik sprawdzianu kompetencji językowych przeprowadzanego na warunkach ustalonych przez radę pedagogiczną.
@@ -5265,15 +5286,15 @@ s. 166/216
 
 3. W przypadku większej liczby kandydatów spełniających warunek, o którym mowa  w ust. 1  lub  2,  niż  liczba  wolnych  miejsc  w szkole,  oddziale  albo  klasie wstępnej,  o których  mowa  w ust. 1  lub  2,  na  pierwszym  etapie  postępowania rekrutacyjnego są brane pod uwagę łącznie następujące kryteria:
 
-- wyniki egzaminu ósmoklasisty;
+1) wyniki egzaminu ósmoklasisty;
 
-- wynik:
+2) wynik:
 
-- sprawdzianu kompetencji językowych, o którym mowa w ust. 1 w przypadku kandydatów, o których mowa w ust. 1,
+a) sprawdzianu kompetencji językowych, o którym mowa w ust. 1 – w przypadku kandydatów, o których mowa w ust. 1,
 
-- sprawdzianu predyspozycji językowych, o którym mowa w ust. 2 w przypadku kandydatów, o których mowa w ust. 2;
+b) sprawdzianu predyspozycji językowych, o którym mowa w ust. 2 – w przypadku kandydatów, o których mowa w ust. 2;
 
-- wymienione  na  świadectwie  ukończenia  szkoły  podstawowej  oceny  z języka polskiego,  matematyki,  języka  obcego  nowożytnego,  przy  czym  w przypadku
+3) wymienione na świadectwie ukończenia szkoły podstawowej oceny z języka polskiego, matematyki, języka obcego nowożytnego, przy czym w przypadku
 
 02.12.2019
 
@@ -5287,22 +5308,22 @@ s. 167/216
 
 oceny  z języka  obcego  nowożytnego  uwzględnia  się  ocenę  wyższą,  oraz z jednych obowiązkowych zajęć edukacyjnych ustalonych przez dyrektora danej szkoły jako brane pod uwagę w postępowaniu rekrutacyjnym do danego oddziału tej szkoły;
 
-- świadectwo ukończenia szkoły podstawowej z wyróżnieniem;
+4) świadectwo ukończenia szkoły podstawowej z wyróżnieniem;
 
-- szczególne osiągnięcia wymienione na świadectwie ukończenia szkoły podstawowej:
+5) szczególne osiągnięcia wymienione na świadectwie ukończenia szkoły podstawowej:
 
-- uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim  tytułem  w zawodach  wiedzy,  artystycznych  i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej  oraz  tytułu  laureata  konkursu  przedmiotowego  o zasięgu wojewódzkim lub ponadwojewódzkim, o których mowa w art. 132,
+a) uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim tytułem w zawodach wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej oraz tytułu laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, o których mowa w art. 132,
 
-- osiągnięcia w zakresie aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu.
+b) osiągnięcia w zakresie aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu.
 
 4. W przypadku  równorzędnych  wyników  uzyskanych  na  pierwszym  etapie postępowania rekrutacyjnego, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie kryteria, o których mowa w art. 131 ust. 2. Przepis art. 131 ust. 3 stosuje się.
 
 ##### Art. 141.
 1. Do  publicznej  szkoły  podstawowej  dla  dorosłych  i na  semestr pierwszy klasy I publicznego liceum ogólnokształcącego dla dorosłych przyjmuje się kandydatów, którzy:
 
-- ukończyli sześcioletnią szkołę podstawową albo klasę VI lub VII ośmioletniej szkoły podstawowej  -  w przypadku  ubiegania  się o przyjęcie do szkoły podstawowej dla dorosłych;
+1) ukończyli sześcioletnią szkołę podstawową albo klasę VI lub VII ośmioletniej szkoły podstawowej – w przypadku ubiegania się o przyjęcie do szkoły podstawowej dla dorosłych;
 
-- ukończyli  gimnazjum  albo  ośmioletnią  szkołę  podstawową  -  w przypadku ubiegania się o przyjęcie do liceum ogólnokształcącego dla dorosłych.
+2) ukończyli gimnazjum albo ośmioletnią szkołę podstawową – w przypadku ubiegania się o przyjęcie do liceum ogólnokształcącego dla dorosłych.
 
 2. (uchylony)
 
@@ -5318,9 +5339,9 @@ oceny  z języka  obcego  nowożytnego  uwzględnia  się  ocenę  wyższą,  or
 
 s. 168/216
 
-- w przypadku kandydatów, o których mowa  w przepisach wydanych na podstawie art. 36 ust. 16 - kryteria, o których mowa w art. 131 ust. 2;
+1) w przypadku kandydatów, o których mowa w przepisach wydanych na podstawie art. 36 ust. 16 – kryteria, o których mowa w art. 131 ust. 2;
 
-- w przypadku kandydata pełnoletniego -kryteria, o których mowa  w art. 135 ust. 6 pkt 2.
+2) w przypadku kandydata pełnoletniego – kryteria, o których mowa w art. 135 ust. 6 pkt 2.
 
 4. Kryteria, o których mowa w ust. 3, mają jednakową wartość.
 
@@ -5328,7 +5349,7 @@ s. 168/216
 
 6. Kandydat, który nie posiada dokumentu potwierdzającego ukończenie klasy VI  sześcioletniej  szkoły  podstawowej  albo  klasy  VI  lub  VII  ośmioletniej  szkoły podstawowej, może być przyjęty do publicznej szkoły podstawowej dla dorosłych na podstawie rozmowy kwalifikacyjnej przeprowadzonej przez komisję rekrutacyjną.
 
-7. Kandydatów,  którzy  posiadają  świadectwo  ukończenia  zasadniczej  szkoły zawodowej albo branżowej szkoły I stopnia, można przyjąć do klasy II publicznego liceum ogólnokształcącego dla dorosłych. Przepisy ust. 3-5 stosuje się.
+7. Kandydatów, którzy posiadają świadectwo ukończenia zasadniczej szkoły zawodowej albo branżowej szkoły I stopnia, można przyjąć do klasy II publicznego liceum ogólnokształcącego dla dorosłych. Przepisy ust. 3–5 stosuje się.
 
 ##### Art. 142.
 1. Do publicznych szkół i publicznych placówek artystycznych mogą być  przyjmowani  kandydaci, którzy  uzyskali  pozytywny  wynik  postępowania rekrutacyjnego.
@@ -5351,9 +5372,9 @@ s. 169/216
 
 5. W przypadku  równorzędnych  wyników  uzyskanych  na  pierwszym  etapie postępowania rekrutacyjnego, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie następujące kryteria:
 
-- w przypadku kandydata niepełnoletniego -kryteria, o których mowa w art. 131 ust. 2;
+1) w przypadku kandydata niepełnoletniego – kryteria, o których mowa w art. 131 ust. 2;
 
-- w  przypadku  kandydata  pełnoletniego  -  kryteria,  o których  mowa  w art. 135 ust. 6 pkt 2.
+2) w przypadku kandydata pełnoletniego – kryteria, o których mowa w art. 135 ust. 6 pkt 2.
 
 6. Kryteria, o których mowa w ust. 5, mają jednakową wartość.
 
@@ -5365,9 +5386,9 @@ s. 169/216
 
 10. Minister  właściwy  do  spraw  kultury  i ochrony  dziedzictwa  narodowego określi, w drodze rozporządzenia:
 
-- szczegółowe  warunki  przyjmowania  kandydatów  do  poszczególnych  typów publicznych szkół i publicznych  placówek  artystycznych  oraz  dokumenty potwierdzające spełnianie tych warunków,
+1) szczegółowe warunki przyjmowania kandydatów do poszczególnych typów publicznych szkół i publicznych placówek artystycznych oraz dokumenty potwierdzające spełnianie tych warunków,
 
-- sposób, szczegółowy tryb i terminy przeprowadzania postępowania rekrutacyjnego  do  poszczególnych  typów  publicznych  szkół  i publicznych placówek artystycznych, w tym zakres, szczegółowe warunki i tryb przeprowadzania badania przydatności i egzaminu wstępnego, o których mowa w ust. 4,  egzaminu  kwalifikacyjnego,  o którym  mowa  w ust. 7,  oraz  skład
+2) sposób, szczegółowy tryb i terminy przeprowadzania postępowania rekrutacyjnego do poszczególnych typów publicznych szkół i publicznych placówek artystycznych, w tym zakres, szczegółowe warunki i tryb przeprowadzania badania przydatności i egzaminu wstępnego, o których mowa w ust. 4, egzaminu kwalifikacyjnego, o którym mowa w ust. 7, oraz skład
 
 02.12.2019
 
@@ -5381,26 +5402,28 @@ s. 170/216
 
 i szczegółowe zadania odpowiednio komisji rekrutacyjnej i komisji kwalifikacyjnej,
 
-- szczegółowe  warunki  przechodzenia  uczniów  z jednych  typów  publicznych szkół artystycznych do innych typów publicznych szkół artystycznych
+3) szczegółowe warunki przechodzenia uczniów z jednych typów publicznych szkół artystycznych do innych typów publicznych szkół artystycznych
 
-- uwzględniając konieczność zapewnienia przyjmowania kandydatów do wybranych publicznych szkół i publicznych placówek artystycznych na równych i przejrzystych zasadach oceny ich uzdolnień, predyspozycji i praktycznych umiejętności oraz mając na  uwadze  sprawność  postępowania  rekrutacyjnego,  a także  potrzebę  uzupełnienia różnic  programowych  przez  uczniów,  w tym  kontynuowania  nauki  języka  obcego nowożytnego w przypadku prowadzenia przez publiczną szkołę artystyczną kształcenia ogólnego.
+– uwzględniając konieczność zapewnienia przyjmowania kandydatów do wybranych publicznych szkół i publicznych placówek artystycznych na równych i przejrzystych zasadach oceny ich uzdolnień, predyspozycji i praktycznych umiejętności oraz mając na uwadze sprawność postępowania rekrutacyjnego, a także potrzebę uzupełnienia różnic programowych przez uczniów, w tym kontynuowania nauki języka obcego nowożytnego w przypadku prowadzenia przez publiczną szkołę artystyczną kształcenia ogólnego.
 
 11. Minister  właściwy  do  spraw  kultury  i ochrony  dziedzictwa  narodowego może  określić,  w drodze  rozporządzenia,  wzór  wniosku  o przyjęcie  do  publicznej szkoły  i publicznej  placówki  artystycznej,  uwzględniając  strukturę  organizacyjną publicznych szkół i publicznych placówek artystycznych.
 
-12. Do postępowania rekrutacyjnego do publicznych szkół i publicznych placówek artystycznych przepisy art. 149, art. 150 i art. 156-161 stosuje się odpowiednio.
+12. Do postępowania rekrutacyjnego do publicznych szkół i publicznych placówek artystycznych przepisy art. 149, art. 150 i art. 156–161 stosuje się odpowiednio.
 
 ##### Art. 143.
 1. [Do  klasy  I publicznej  szkoły  ponadpodstawowej,  o której  mowa w art. 18 ust. 1 pkt 2 lit. a, prowadzonej przez Ministra Obrony Narodowej przyjmuje się  kandydatów,  którzy:] <Do  klasy  I publicznej  szkoły  ponadpodstawowej, o której  mowa w art. 18 ust. 1 pkt 2 lit. a, prowadzonej przez Ministra Obrony Narodowej,  albo oddziału przygotowania  wojskowego  w publicznej  szkole ponadpodstawowej przyjmuje się kandydatów, którzy:>
 
-- spełniają warunki, o których mowa w art. 134 ust. 1;
+1) spełniają warunki, o których mowa w art. 134 ust. 1;
 
-- posiadają  bardzo  dobry  stan  zdrowia,  potwierdzony  orzeczeniem  lekarskim wydanym przez lekarza podstawowej opieki zdrowotnej;
+2) posiadają bardzo dobry stan zdrowia, potwierdzony orzeczeniem lekarskim wydanym przez lekarza podstawowej opieki zdrowotnej;
 
-- posiadają pisemną zgodę rodziców na uczęszczanie kandydata do szkoły;
+3) posiadają pisemną zgodę rodziców na uczęszczanie kandydata do szkoły;
 
-- uzyskali  pozytywne  wyniki  prób  sprawności  fizycznej  przeprowadzonych  na warunkach ustalonych przez radę pedagogiczną.
+4) uzyskali pozytywne wyniki prób sprawności fizycznej przeprowadzonych na warunkach ustalonych przez radę pedagogiczną.
 
-[2. W przypadku większej liczby kandydatów spełniających warunki, o których mowa  w ust. 1,  niż  liczba  wolnych  miejsc  w szkole,  o której  mowa  w ust. 1,  na Nowe brzmienie wprowadzenia do wyliczenia  w  ust. 1 w art. 143 wejdzie w życie z dn. 1.01.2020 r. (Dz.  U.  z  2019  r. poz. 1681).
+[2. W przypadku większej liczby kandydatów spełniających warunki, o których mowa w ust. 1, niż liczba wolnych miejsc w szkole, o której mowa w ust. 1, na
+
+Nowe brzmienie wprowadzenia do wyliczenia w ust. 1 w art. 143 wejdzie w życie z dn. 1.01.2020 r. (Dz. U. z 2019 r. poz. 1681).
 
 02.12.2019
 
@@ -5418,19 +5441,19 @@ pierwszym  etapie  postępowania  rekrutacyjnego  są  brane  pod  uwagę  wynik
 
 3. W przypadku  równorzędnych  wyników  uzyskanych  na  pierwszym  etapie postępowania rekrutacyjnego, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie odpowiednio następujące kryteria:
 
-- wyniki egzaminu ósmoklasisty;
+1) wyniki egzaminu ósmoklasisty;
 
-- wymienione  na  świadectwie  ukończenia  szkoły  podstawowej  oceny  z języka polskiego  i matematyki  oraz  z dwóch  obowiązkowych  zajęć  edukacyjnych ustalonych przez dyrektora danej szkoły jako brane pod uwagę w postępowaniu rekrutacyjnym do danego oddziału tej szkoły;
+2) wymienione na świadectwie ukończenia szkoły podstawowej oceny z języka polskiego i matematyki oraz z dwóch obowiązkowych zajęć edukacyjnych ustalonych przez dyrektora danej szkoły jako brane pod uwagę w postępowaniu rekrutacyjnym do danego oddziału tej szkoły;
 
-- świadectwo ukończenia szkoły podstawowej z wyróżnieniem;
+3) świadectwo ukończenia szkoły podstawowej z wyróżnieniem;
 
-- szczególne osiągnięcia wymienione na świadectwie ukończenia szkoły podstawowej:
+4) szczególne osiągnięcia wymienione na świadectwie ukończenia szkoły podstawowej:
 
-- uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim  tytułem  w zawodach  wiedzy,  artystycznych  i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej  oraz  tytułu  laureata  konkursu  przedmiotowego  o zasięgu wojewódzkim lub ponadwojewódzkim, o których mowa w art. 132,
+a) uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim tytułem w zawodach wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej oraz tytułu laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, o których mowa w art. 132,
 
-- osiągnięcia w zakresie aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu.
+b) osiągnięcia w zakresie aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu.
 
-4. W przypadku równorzędnych wyników uzyskanych na drugim etapie postępowania rekrutacyjnego, na trzecim etapie postępowania rekrutacyjnego są brane pod  uwagę  łącznie  kryteria,  o których  mowa  w art. 131 ust. 2 pkt 1  i 3-7.  Przepis art. 131 ust. 3 stosuje się.
+4. W przypadku równorzędnych wyników uzyskanych na drugim etapie postępowania rekrutacyjnego, na trzecim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie kryteria, o których mowa w art. 131 ust. 2 pkt 1 i 3–7. Przepis art. 131 ust. 3 stosuje się.
 
 Nowe brzmienie ust.  2  w  art.  143 wejdzie w życie z dn. 1.01.2020 r. (Dz.  U.  z  2019  r. poz. 1681).
 
@@ -5453,12 +5476,12 @@ s. 172/216
 
 4. W przypadku  równorzędnych  wyników  uzyskanych  na  pierwszym  etapie postępowania rekrutacyjnego, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę kryteria określone przez organ prowadzący, z uwzględnieniem zapewnienia jak najpełniejszej realizacji potrzeb dziecka i jego rodziny oraz lokalnych potrzeb społecznych, oraz może być brane pod uwagę kryterium dochodu na osobę w rodzinie kandydata, o którym mowa w art. 131 ust. 5. Organ prowadzący określa dokumenty niezbędne do potwierdzenia tych kryteriów, z tym że spełnienie kryterium dochodu  na  osobę  w rodzinie  kandydata  potwierdza  się  oświadczeniem.  Przepisy art. 131 ust. 6, 9 i 10 stosuje się.
 
-5. Kandydaci zamieszkali poza obszarem danego powiatu mogą być przyjęci na zajęcia, o których mowa w ust. 1, organizowane w placówce, o której mowa w ust. 1, na  terenie  tego  powiatu,  jeżeli  po  przeprowadzeniu  postępowania  rekrutacyjnego zgodnie  z ust. 1-4 dany  powiat  nadal  dysponuje  wolnymi  miejscami  na  te  zajęcia organizowane w tej placówce. Przepisy ust. 2-4 stosuje się odpowiednio.
+5. Kandydaci zamieszkali poza obszarem danego powiatu mogą być przyjęci na zajęcia, o których mowa w ust. 1, organizowane w placówce, o której mowa w ust. 1, na terenie tego powiatu, jeżeli po przeprowadzeniu postępowania rekrutacyjnego zgodnie z ust. 1–4 dany powiat nadal dysponuje wolnymi miejscami na te zajęcia organizowane w tej placówce. Przepisy ust. 2–4 stosuje się odpowiednio.
 
 ##### Art. 145.
 1.  W odniesieniu  do  publicznych  placówek  zapewniających  opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania na pierwszym etapie postępowania rekrutacyjnego są brane pod uwagę łącznie następujące kryteria:
 
-- w przypadku kandydata niepełnoletniego -kryteria, o których mowa w art. 131 ust. 2;
+1) w przypadku kandydata niepełnoletniego – kryteria, o których mowa w art. 131 ust. 2;
 
 02.12.2019
 
@@ -5470,9 +5493,9 @@ s. 172/216
 
 s. 173/216
 
-- w  przypadku  kandydata  pełnoletniego  -  kryteria,  o których  mowa  w art. 135 ust. 6 pkt 2;
+2) w przypadku kandydata pełnoletniego – kryteria, o których mowa w art. 135 ust. 6 pkt 2;
 
-- kryteria określone przez organ prowadzący, z uwzględnieniem zapewnienia jak najpełniejszej realizacji potrzeb wychowanka oraz lokalnych potrzeb społecznych.
+3) kryteria określone przez organ prowadzący, z uwzględnieniem zapewnienia jak najpełniejszej realizacji potrzeb wychowanka oraz lokalnych potrzeb społecznych.
 
 2. Na pierwszym etapie postępowania rekrutacyjnego może być brane pod uwagę kryterium dochodu na osobę w rodzinie kandydata, o którym mowa w art. 131 ust. 5. Przepisy art. 131 ust. 9 i 10 stosuje się.
 
@@ -5502,11 +5525,11 @@ s. 174/216
 ##### Art. 147.
 1.  Na  kwalifikacyjny  kurs  zawodowy  prowadzony  przez  publiczną szkołę,  publiczną  placówkę  lub  publiczne  centrum,  o których  mowa  w art. 2 pkt 4, przyjmuje się kandydatów, którzy posiadają:
 
-- zaświadczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 2;
+1) zaświadczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 2;
 
-- w  przypadku kandydatów  na kwalifikacyjny kurs zawodowy  w zakresie kwalifikacji  wyodrębnionej  w  zawodzie,  dla  której  podstawa  programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym - posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 4;
+2) w przypadku kandydatów na kwalifikacyjny kurs zawodowy w zakresie kwalifikacji wyodrębnionej w zawodzie, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym – posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 4;
 
-- w  przypadku kandydatów  na kwalifikacyjny kurs zawodowy  w zakresie kwalifikacji  wyodrębnionej  w zawodzie,  dla  której  podstawa  programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania  umiejętności  kierowania  pojazdem  silnikowym  w zakresie  prawa jazdy  kategorii  C  lub  C+E  -  posiadają  orzeczenie  psychologiczne,  o którym mowa w art. 134 ust. 1 pkt 5.
+3) w przypadku kandydatów na kwalifikacyjny kurs zawodowy w zakresie kwalifikacji wyodrębnionej w zawodzie, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E – posiadają orzeczenie psychologiczne, o którym mowa w art. 134 ust. 1 pkt 5.
 
 2. W przypadku większej liczby kandydatów spełniających warunek, o którym mowa w ust. 1, niż liczba wolnych miejsc w publicznej szkole, publicznej placówce lub publicznym centrum, o których mowa w art. 2 pkt 4, na dany kwalifikacyjny kurs zawodowy, na pierwszym etapie postępowania rekrutacyjnego przyjmuje się kandydatów, którzy ukończyli szkołę ponadpodstawową przed ukończeniem 18. roku życia, a w następnej kolejności kandydatów, którzy nie posiadają żadnych kwalifikacji zawodowych.
 
@@ -5522,19 +5545,19 @@ s. 174/216
 
 s. 175/216
 
-- w przypadku kandydatów, o których mowa  w przepisach wydanych na podstawie art. 36 ust. 16 - kryteria, o których mowa w art. 131 ust. 2;
+1) w przypadku kandydatów, o których mowa w przepisach wydanych na podstawie art. 36 ust. 16 – kryteria, o których mowa w art. 131 ust. 2;
 
-- w przypadku kandydata pełnoletniego -kryteria, o których mowa w art. 135 ust. 6 pkt 2;
+2) w przypadku kandydata pełnoletniego – kryteria, o których mowa w art. 135 ust. 6 pkt 2;
 
-- w  przypadku  kandydatów,  którzy  ukończyli  szkołę  ponadpodstawową  przed ukończeniem 18. roku życia - kryteria, o których mowa w art. 131 ust. 2.
+3) w przypadku kandydatów, którzy ukończyli szkołę ponadpodstawową przed ukończeniem 18. roku życia – kryteria, o których mowa w art. 131 ust. 2.
 
-- Kryteria, o których mowa w ust. 3, mają jednakową wartość.
+4. Kryteria, o których mowa w ust. 3, mają jednakową wartość.
 
 5. W przypadku równorzędnych wyników uzyskanych na drugim etapie postępowania  rekrutacyjnego  lub  jeżeli  po  zakończeniu  tego  etapu  dana  publiczna szkoła,  publiczna  placówka  lub  publiczne  centrum,  o których  mowa  w art. 2 pkt 4, nadal  dysponują  wolnymi  miejscami  na  dany  kwalifikacyjny  kurs  zawodowy,  na trzecim  etapie  postępowania  rekrutacyjnego  przyjmuje  się  kandydatów  według kolejności zgłoszeń.
 
 6. Organ  prowadzący  publiczną  szkołę,  publiczną  placówkę  lub  publiczne centrum, o których mowa  w art. 2 pkt 4, może przyjąć miejsce zamieszkania kandydata jako kryterium brane pod uwagę przed kryterium, o którym mowa w ust. 2.
 
-7. Przepisy ust. 1-6 nie mają zastosowania do postępowania rekrutacyjnego na kwalifikacyjne  kursy  zawodowe  prowadzone  przez  publiczne  szkoły,  publiczne placówki  i publiczne  centra,  o których  mowa  w art. 2 pkt 4,  na  zlecenie  innych podmiotów.
+7. Przepisy ust. 1–6 nie mają zastosowania do postępowania rekrutacyjnego na kwalifikacyjne kursy zawodowe prowadzone przez publiczne szkoły, publiczne placówki i publiczne centra, o których mowa w art. 2 pkt 4, na zlecenie innych podmiotów.
 
 ##### Art. 148.
 Kurator  oświaty  corocznie  do  końca  lutego  podaje  do  publicznej wiadomości wykaz zawodów wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty lub inne podmioty działające na terenie szkoły, które mogą być wymienione  na  świadectwie  ukończenia  szkoły  podstawowej,  o którym  mowa w art. 134 ust. 2 pkt 4 lit. a, art. 137 ust. 6 pkt 4 lit. a, art. 140 ust. 3 pkt 5 lit. a i art. 143 ust. 3 pkt 4 lit. a,  oraz  określa  miejsca  uznane  za wysokie w tych zawodach.
@@ -5550,30 +5573,30 @@ Kurator  oświaty  corocznie  do  końca  lutego  podaje  do  publicznej wiadomo
 s. 176/216
 
 ##### Art. 149.
-Wniosek o przyjęcie do publicznego przedszkola, oddziału przedszkolnego w publicznej szkole podstawowej, publicznej innej formy wychowania  przedszkolnego,  publicznej  szkoły,  publicznej  placówki,  na  zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub kwalifikacyjny kurs zawodowy, składa się odpowiednio do dyrektora:
+Wniosek o przyjęcie do publicznego przedszkola, oddziału przedszkolnego w publicznej szkole podstawowej, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub kwalifikacyjny kurs zawodowy, składa się odpowiednio do dyrektora:
 
-- wybranego publicznego przedszkola lub wybranej publicznej szkoły, a w przypadku wyboru oddziału przedszkolnego w publicznej szkole podstawowej lub publicznej innej formy wychowania  przedszkolnego -odpowiednio  do  dyrektora  publicznego  przedszkola  lub  publicznej  szkoły podstawowej;
+1) wybranego publicznego przedszkola lub wybranej publicznej szkoły, a w przypadku wyboru oddziału przedszkolnego w publicznej szkole podstawowej lub publicznej innej formy wychowania przedszkolnego – odpowiednio do dyrektora publicznego przedszkola lub publicznej szkoły podstawowej;
 
-- publicznej  placówki  oświatowo-wychowawczej  -  na  wybrane  zajęcia  w tej placówce;
+2) publicznej placówki oświatowo-wychowawczej – na wybrane zajęcia w tej placówce;
 
-- publicznej  placówki  zapewniającej  opiekę  i wychowanie  uczniom  w okresie pobierania nauki poza miejscem stałego zamieszkania;
+3) publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania;
 
-- publicznej  szkoły,  publicznej  placówki  lub  publicznego  centrum,  o których mowa w art. 2 pkt 4, prowadzących kształcenie ustawiczne w formach pozaszkolnych - na wybraną formę pozaszkolną kształcenia ustawicznego;
+4) publicznej szkoły, publicznej placówki lub publicznego centrum, o których mowa w art. 2 pkt 4, prowadzących kształcenie ustawiczne w formach pozaszkolnych – na wybraną formę pozaszkolną kształcenia ustawicznego;
 
-- publicznej  szkoły,  publicznej  placówki  lub  publicznego  centrum,  o których mowa  w art. 2 pkt 4,  prowadzących  kwalifikacyjne  kursy  zawodowe  -  na wybrany kwalifikacyjny kurs zawodowy;
+5) publicznej szkoły, publicznej placówki lub publicznego centrum, o których mowa w art. 2 pkt 4, prowadzących kwalifikacyjne kursy zawodowe – na wybrany kwalifikacyjny kurs zawodowy;
 
-- wybranej publicznej szkoły lub publicznej placówki artystycznej.
+6) wybranej publicznej szkoły lub publicznej placówki artystycznej.
 
 ##### Art. 150.
 1. Wniosek, o którym mowa w art. 149, zawiera:
 
-- imię, nazwisko, datę urodzenia oraz numer PESEL kandydata, a w przypadku braku  numeru  PESEL  -  serię  i numer  paszportu  lub  innego  dokumentu potwierdzającego tożsamość;
+1) imię, nazwisko, datę urodzenia oraz numer PESEL kandydata, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość;
 
-- imiona i nazwiska rodziców kandydata, a w przypadku kandydata pełnoletniego - imiona rodziców;
+2) imiona i nazwiska rodziców kandydata, a w przypadku kandydata pełnoletniego – imiona rodziców;
 
-- adres  miejsca  zamieszkania  rodziców  i kandydata,  a w przypadku  kandydata pełnoletniego - adres miejsca zamieszkania kandydata;
+3) adres miejsca zamieszkania rodziców i kandydata, a w przypadku kandydata pełnoletniego – adres miejsca zamieszkania kandydata;
 
-- adres poczty elektronicznej i numery telefonów rodziców kandydata, a w przypadku kandydata pełnoletniego - adres poczty elektronicznej i numer telefonu kandydata, o ile je posiadają;
+4) adres poczty elektronicznej i numery telefonów rodziców kandydata, a w przypadku kandydata pełnoletniego – adres poczty elektronicznej i numer telefonu kandydata, o ile je posiadają;
 
 02.12.2019
 
@@ -5585,25 +5608,25 @@ Wniosek o przyjęcie do publicznego przedszkola, oddziału przedszkolnego w publ
 
 s. 177/216
 
-- wskazanie kolejności wybranych publicznych przedszkoli, oddziału przedszkolnego  w publicznej  szkole  podstawowej,  publicznych  innych  form wychowania przedszkolnego albo publicznych szkół w porządku od najbardziej do najmniej preferowanych;
+5) wskazanie kolejności wybranych publicznych przedszkoli, oddziału przedszkolnego w publicznej szkole podstawowej, publicznych innych form wychowania przedszkolnego albo publicznych szkół w porządku od najbardziej do najmniej preferowanych;
 
-- w przypadku wniosku o przyjęcie do publicznych szkół ponadpodstawowych wskazanie wybranego oddziału albo klasy wstępnej, o której mowa w art. 25 ust. 3, w danej szkole.
+6) w przypadku wniosku o przyjęcie do publicznych szkół ponadpodstawowych – wskazanie wybranego oddziału albo klasy wstępnej, o której mowa w art. 25 ust. 3, w danej szkole.
 
 2. Do wniosku, o którym mowa w ust. 1, dołącza się:
 
-- dokumenty  potwierdzające  spełnianie  przez  kandydata  kryteriów,  o których mowa w art. 131 ust. 2, art. 134 ust. 4, art. 135 ust. 6, art. 136 ust. 3, art. 137 ust. 3 i 7, art. 138 ust. 3 i 4, art. 139 ust. 3, art. 140 ust. 4, art. 141 ust. 3, art. 142 ust. 5, art. 143 ust. 4, art. 144 ust. 3, art. 145 ust. 1 pkt 1 i 2, art. 146 ust. 1 i art. 147 ust. 3, odpowiednio:
+1) dokumenty potwierdzające spełnianie przez kandydata kryteriów, o których mowa w art. 131 ust. 2, art. 134 ust. 4, art. 135 ust. 6, art. 136 ust. 3, art. 137 ust. 3 i 7, art. 138 ust. 3 i 4, art. 139 ust. 3, art. 140 ust. 4, art. 141 ust. 3, art. 142 ust. 5, art. 143 ust. 4, art. 144 ust. 3, art. 145 ust. 1 pkt 1 i 2, art. 146 ust. 1 i art. 147 ust. 3, odpowiednio:
 
-- oświadczenie o wielodzietności rodziny kandydata,
+a) oświadczenie o wielodzietności rodziny kandydata,
 
-- orzeczenie  o potrzebie  kształcenia  specjalnego  wydane  ze  względu  na niepełnosprawność, orzeczenie o niepełnosprawności lub o stopniu niepełnosprawności lub orzeczenie równoważne w rozumieniu przepisów ustawy  z dnia  27 sierpnia  1997 r.  o rehabilitacji  zawodowej  i społecznej oraz  zatrudnianiu  osób  niepełnosprawnych  (Dz. U.  z 2018 r.  poz.  511,  z późn. zm. 10) ),
+b) orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność, orzeczenie o niepełnosprawności lub o stopniu niepełnosprawności lub orzeczenie równoważne w rozumieniu przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2018 r. poz. 511, z późn. zm.10)),
 
-- prawomocny wyrok sądu rodzinnego orzekający rozwód lub separację lub akt  zgonu  oraz  oświadczenie  o  samotnym  wychowywaniu  dziecka  oraz niewychowywaniu żadnego dziecka wspólnie z jego rodzicem,
+c) prawomocny wyrok sądu rodzinnego orzekający rozwód lub separację lub akt zgonu oraz oświadczenie o samotnym wychowywaniu dziecka oraz niewychowywaniu żadnego dziecka wspólnie z jego rodzicem,
 
-- dokument  poświadczający objęcie dziecka pieczą zastępczą zgodnie z ustawą z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej  (Dz. U.  z 2018  r.  poz.  998,  1076,  1544  i  2245  oraz  z  2019  r. poz. 730);
+d) dokument poświadczający objęcie dziecka pieczą zastępczą zgodnie z ustawą z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2018 r. poz. 998, 1076, 1544 i 2245 oraz z 2019 r. poz. 730);
 
-- dokumenty  potwierdzające  spełnianie  przez  kandydata  kryteriów  określonych przez organ  prowadzący,  o których  mowa  w art. 131 ust. 4,  art. 133 ust. 2, art. 144 ust. 4 i art. 145 ust. 1 pkt 3;
+2) dokumenty potwierdzające spełnianie przez kandydata kryteriów określonych przez organ prowadzący, o których mowa w art. 131 ust. 4, art. 133 ust. 2, art. 144 ust. 4 i art. 145 ust. 1 pkt 3;
 
-> 10)   Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1925, 2192 i 2354 oraz z 2019 r. poz. 730.
+> 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1925, 2192 i 2354 oraz z 2019 r. poz. 730.
 
 02.12.2019
 
@@ -5615,21 +5638,21 @@ s. 177/216
 
 s. 178/216
 
-- oświadczenie  o dochodzie  na  osobę  w rodzinie  kandydata  -  jeżeli  organ prowadzący określił kryterium dochodu na osobę w rodzinie kandydata;
+3) oświadczenie o dochodzie na osobę w rodzinie kandydata – jeżeli organ prowadzący określił kryterium dochodu na osobę w rodzinie kandydata;
 
-- dokumenty  potwierdzające  spełnianie  przez  kandydata  warunków,  o których mowa  w art. 132, art. 134 ust. 1, ust. 2 pkt 1 i ust. 3, art. 135 ust. 1 i 5, art. 136 ust. 1 pkt 1 i 2, art. 137 ust. 1 pkt 1 i 2, ust. 4 i ust. 6 pkt 1, art. 138 ust. 4, art. 139 ust. 1 pkt 1, art. 140 ust. 1, 2 i ust. 3 pkt 1, art. 141 ust. 1 i 7, art. 143 ust. 1 pkt 1-3 i ust. 3 pkt 1 oraz art. 147 ust. 1 i 2, odpowiednio:
+4) dokumenty potwierdzające spełnianie przez kandydata warunków, o których mowa w art. 132, art. 134 ust. 1, ust. 2 pkt 1 i ust. 3, art. 135 ust. 1 i 5, art. 136 ust. 1 pkt 1 i 2, art. 137 ust. 1 pkt 1 i 2, ust. 4 i ust. 6 pkt 1, art. 138 ust. 4, art. 139 ust. 1 pkt 1, art. 140 ust. 1, 2 i ust. 3 pkt 1, art. 141 ust. 1 i 7, art. 143 ust. 1 pkt 1–3 i ust. 3 pkt 1 oraz art. 147 ust. 1 i 2, odpowiednio:
 
-- świadectwo ukończenia szkoły, a w przypadku, o którym mowa w art. 141 ust. 1 pkt 1 -  dokument  potwierdzający  ukończenie  klasy  VI szkoły podstawowej,
+a) świadectwo ukończenia szkoły, a w przypadku, o którym mowa w art. 141 ust. 1 pkt 1 – dokument potwierdzający ukończenie klasy VI szkoły podstawowej,
 
-- zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty,
+b) zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty,
 
-- oświadczenie  o nieposiadaniu  żadnych  kwalifikacji  zawodowych  przez kandydata,
+c) oświadczenie o nieposiadaniu żadnych kwalifikacji zawodowych przez kandydata,
 
-- zaświadczenie  o uzyskaniu  tytułu  laureata  lub  finalisty  ogólnopolskiej olimpiady  przedmiotowej  lub  tytułu  laureata  konkursu  przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzonych zgodnie  z przepisami  wydanymi  na  podstawie  art. 22 ust. 2 pkt 8  ustawy o systemie  oświaty, lub tytułu  laureata  konkursu  dla  uczniów  szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6 ustawy o systemie oświaty, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa  narodowego  lub  specjalistyczna  jednostka  nadzoru,  o której mowa w art. 53 ust. 1,
+d) zaświadczenie o uzyskaniu tytułu laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej lub tytułu laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8 ustawy o systemie oświaty, lub tytułu laureata konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6 ustawy o systemie oświaty, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1,
 
-- zaświadczenie o zawodzie nauczanym w branżowej szkole I stopnia, którego zakres odpowiada pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole II stopnia, do której ubiega się o przyjęcie,
+e) zaświadczenie o zawodzie nauczanym w branżowej szkole I stopnia, którego zakres odpowiada pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole II stopnia, do której ubiega się o przyjęcie,
 
-- w przypadku szkoły prowadzącej kształcenie zawodowe - zaświadczenie lekarskie zawierające orzeczenie o braku przeciwwskazań zdrowotnych do podjęcia praktycznej nauki zawodu, wydane zgodnie z przepisami wydanymi  na  podstawie  art. 6 ust. 5  ustawy  z dnia  27 czerwca  1997 r. o służbie medycyny pracy,
+f) w przypadku szkoły prowadzącej kształcenie zawodowe – zaświadczenie lekarskie zawierające orzeczenie o braku przeciwwskazań zdrowotnych do podjęcia praktycznej nauki zawodu, wydane zgodnie z przepisami wydanymi na podstawie art. 6 ust. 5 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy,
 
 02.12.2019
 
@@ -5641,13 +5664,13 @@ s. 178/216
 
 s. 179/216
 
-- fa) w przypadku szkoły prowadzącej kształcenie w zawodzie lub kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E -orzeczenie psychologiczne o braku przeciwwskazań  psychologicznych  do  kierowania  pojazdem,  o którym mowa  w art. 84 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami,
+fa) w przypadku szkoły prowadzącej kształcenie w zawodzie lub kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E – orzeczenie psychologiczne o braku przeciwwskazań psychologicznych do kierowania pojazdem, o którym mowa w art. 84 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami,
 
-- fb) w przypadku szkoły prowadzącej kształcenie w zawodzie lub kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania  umiejętności  kierowania  pojazdem  silnikowym  -  orzeczenie lekarskie o braku przeciwwskazań zdrowotnych do kierowania pojazdami, o którym mowa w art. 79 ust. 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami,
+fb) w przypadku szkoły prowadzącej kształcenie w zawodzie lub kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym – orzeczenie lekarskie o braku przeciwwskazań zdrowotnych do kierowania pojazdami, o którym mowa w art. 79 ust. 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami,
 
-- fc) w przypadku szkoły prowadzącej kształcenie w zawodzie lub kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla którego podstawa programowa kształcenia w  zawodzie  szkolnictwa  branżowego  przewiduje  kształcenie  zgodnie z wymaganiami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw  oraz  pełnienia  wacht,  1978,  sporządzonej  w Londynie  dnia 7 lipca  1978 r.  -  świadectwo  zdrowia  o zdolności  do  pracy  na  statku, o którym mowa w art. 4 ust. 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu,
+fc) w przypadku szkoły prowadzącej kształcenie w zawodzie lub kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymaganiami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. – świadectwo zdrowia o zdolności do pracy na statku, o którym mowa w art. 4 ust. 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu,
 
-- fd) w  przypadku  szkoły  prowadzącej  kształcenie  w zawodzie  podstawowym dla  rybołówstwa  lub  kwalifikacyjnego  kursu  zawodowego,  w zakresie kwalifikacji  wyodrębnionej  w zawodzie  podstawowym  dla  rybołówstwa, dla  którego  podstawa  programowa  kształcenia  w zawodzie  szkolnictwa branżowego przewiduje kształcenie zgodnie z wymaganiami określonymi w postanowieniach konwencji dotyczących wymagań w zakresie
+fd) w przypadku szkoły prowadzącej kształcenie w zawodzie podstawowym dla rybołówstwa lub kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie podstawowym dla rybołówstwa, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymaganiami określonymi w postanowieniach konwencji dotyczących wymagań w zakresie
 
 02.12.2019
 
@@ -5659,27 +5682,27 @@ s. 179/216
 
 s. 180/216
 
-wyszkolenia,  wydawania  świadectw  oraz  pełnienia  wacht  -  świadectwo zdrowia o zdolności do pracy na statku rybackim,  o którym  mowa w art. 4 ust. 1 ustawy  z dnia  11 września  2019 r.  o pracy na statkach rybackich,
+wyszkolenia, wydawania świadectw oraz pełnienia wacht – świadectwo zdrowia o zdolności do pracy na statku rybackim, o którym mowa w art. 4 ust. 1 ustawy z dnia 11 września 2019 r. o pracy na statkach rybackich,
 
-- opinię  wydaną  przez  publiczną  poradnię  psychologiczno-pedagogiczną, w tym publiczną poradnię specjalistyczną, w sprawie pierwszeństwa w przyjęciu ucznia z problemami zdrowotnymi do szkoły ponadpodstawowej,
+g) opinię wydaną przez publiczną poradnię psychologiczno-pedagogiczną, w tym publiczną poradnię specjalistyczną, w sprawie pierwszeństwa w przyjęciu ucznia z problemami zdrowotnymi do szkoły ponadpodstawowej,
 
-[h)  orzeczenie lekarskie o bardzo dobrym stanie zdrowia wydane przez lekarza podstawowej opieki zdrowotnej,]
+[h) orzeczenie lekarskie o bardzo dobrym stanie zdrowia wydane przez lekarza podstawowej opieki zdrowotnej,]
 
-<h) orzeczenie lekarskie o stanie zdrowia umożliwiającym podjęcie nauki w szkole  lub  oddziale  wydane  przez  lekarza  podstawowej  opieki zdrowotnej,>
+<h) orzeczenie lekarskie o stanie zdrowia umożliwiającym podjęcie nauki w szkole lub oddziale wydane przez lekarza podstawowej opieki zdrowotnej,>
 
-- pisemną zgodę rodziców, o której mowa w art. 137 ust. 1 pkt 2 i art. 143 ust. 1 pkt 3.
+i) pisemną zgodę rodziców, o której mowa w art. 137 ust. 1 pkt 2 i art. 143 ust. 1 pkt 3.
 
-(uchylona)
+j) (uchylona)
 
-3. Dokumenty, o których mowa w ust. 2 pkt 1 lit. b-d oraz pkt 4 lit. a, b i d-h, są składane  w oryginale,  notarialnie  poświadczonej  kopii  albo  w postaci  urzędowo poświadczonego zgodnie z art. 76a § 1 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego odpisu lub wyciągu z dokumentu.
+3. Dokumenty, o których mowa w ust. 2 pkt 1 lit. b–d oraz pkt 4 lit. a, b i d–h, są składane w oryginale, notarialnie poświadczonej kopii albo w postaci urzędowo poświadczonego zgodnie z art. 76a § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego odpisu lub wyciągu z dokumentu.
 
-4. Dokumenty,  o których  mowa  w ust. 2 pkt 4 lit. a i b,  mogą  być  składane w postaci  kopii  poświadczonej  za  zgodność  z oryginałem  przez  dyrektora  szkoły, którą kandydat ukończył.
+4. Dokumenty, o których mowa w ust. 2 pkt 4 lit. a i b, mogą być składane w postaci kopii poświadczonej za zgodność z oryginałem przez dyrektora szkoły, którą kandydat ukończył.
 
-5. Dokumenty, o których mowa w ust. 2 pkt 1 lit. b-d oraz pkt 4 lit. d-h, mogą być składane także w postaci kopii poświadczonej za zgodność z oryginałem przez rodzica kandydata lub pełnoletniego kandydata.
+5. Dokumenty, o których mowa w ust. 2 pkt 1 lit. b–d oraz pkt 4 lit. d–h, mogą być składane także w postaci kopii poświadczonej za zgodność z oryginałem przez rodzica kandydata lub pełnoletniego kandydata.
 
-6. Oświadczenia, o których mowa w ust. 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: 'Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.'. Klauzula ta  zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+6. Oświadczenia, o których mowa w ust. 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-Nowe brzmienie lit.  h  w  pkt  4  w ust.  2  w  art.  150 wejdzie w życie z dn. 1.01.2020 r. (Dz.  U.  z  2019  r. poz. 1078).
+Nowe brzmienie lit. h w pkt 4 w ust. 2 w art. 150 wejdzie w życie z dn. 1.01.2020 r. (Dz. U. z 2019 r. poz. 1078).
 
 02.12.2019
 
@@ -5691,15 +5714,17 @@ Nowe brzmienie lit.  h  w  pkt  4  w ust.  2  w  art.  150 wejdzie w życie z dn
 
 s. 181/216
 
-7. Przewodniczący komisji rekrutacyjnej może żądać dokumentów potwierdzających okoliczności zawarte w oświadczeniach, o których mowa w ust. 2, w terminie wyznaczonym przez przewodniczącego, lub może zwrócić się do wójta (burmistrza,  prezydenta  miasta)  właściwego  ze  względu  na  miejsce  zamieszkania kandydata  o potwierdzenie  tych  okoliczności.  Wójt  (burmistrz,  prezydent  miasta) potwierdza te okoliczności w terminie 14 dni.
+7. Przewodniczący komisji rekrutacyjnej może żądać dokumentów potwierdzających okoliczności zawarte w oświadczeniach, o których mowa w ust. 2, w terminie wyznaczonym przez przewodniczącego, lub może zwrócić się do wójta (burmistrza, prezydenta miasta) właściwego ze względu na miejsce zamieszkania kandydata o potwierdzenie tych okoliczności. Wójt (burmistrz, prezydent miasta) potwierdza te okoliczności w terminie 14 dni.
 
-8. W celu potwierdzenia okoliczności zawartych w oświadczeniach, wójt (burmistrz, prezydent miasta) właściwy  ze względu  na miejsce zamieszkania kandydata korzysta z informacji, które zna z urzędu, lub może wystąpić do instytucji publicznych o udzielenie informacji o okolicznościach zawartych w oświadczeniach, jeżeli instytucje te posiadają takie informacje. Oświadczenie o samotnym wychowywaniu dziecka może być zweryfikowane w drodze wywiadu przeprowadzanego  przez  wójta  (burmistrza,  prezydenta  miasta)  właściwego  ze względu na miejsce zamieszkania kandydata. Do wywiadu stosuje się odpowiednio przepisy dotyczące rodzinnego wywiadu środowiskowego przeprowadzanego w celu ustalenia prawa do świadczenia wychowawczego, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2018 r. poz. 2134 i 2354 oraz z 2019 r. poz. 60, 303, 577 i 730).
+8. W celu potwierdzenia okoliczności zawartych w oświadczeniach, wójt (burmistrz, prezydent miasta) właściwy ze względu na miejsce zamieszkania kandydata korzysta z informacji, które zna z urzędu, lub może wystąpić do instytucji publicznych o udzielenie informacji o okolicznościach zawartych w oświadczeniach, jeżeli instytucje te posiadają takie informacje. Oświadczenie o samotnym wychowywaniu dziecka może być zweryfikowane w drodze wywiadu przeprowadzanego przez wójta (burmistrza, prezydenta miasta) właściwego ze względu na miejsce zamieszkania kandydata. Do wywiadu stosuje się odpowiednio przepisy dotyczące rodzinnego wywiadu środowiskowego przeprowadzanego w celu ustalenia prawa do świadczenia wychowawczego, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2018 r. poz. 2134 i 2354 oraz z 2019 r. poz. 60, 303, 577 i 730).
 
 9. Na żądanie wójta (burmistrza, prezydenta miasta) właściwego ze względu na miejsce zamieszkania kandydata, instytucje publiczne i organizacje pozarządowe są obowiązane do udzielenia wyjaśnień oraz informacji co do okoliczności zawartych w oświadczeniach, jeżeli posiadają takie informacje.
 
-[10. Do  prowadzenia  spraw,  o których  mowa  w ust. 8  i 9,  wójt  (burmistrz, prezydent  miasta)  właściwy  ze  względu  na  miejsce  zamieszkania  kandydata  może upoważnić  kierownika  ośrodka  pomocy  społecznej, kierownika innej jednostki organizacyjnej  gminy  lub  inną  osobę  na  wniosek  kierownika  ośrodka  pomocy społecznej, lub kierownika innej jednostki organizacyjnej gminy.]
+[10. Do prowadzenia spraw, o których mowa w ust. 8 i 9, wójt (burmistrz, prezydent miasta) właściwy ze względu na miejsce zamieszkania kandydata może upoważnić kierownika ośrodka pomocy społecznej, kierownika innej jednostki organizacyjnej gminy lub inną osobę na wniosek kierownika ośrodka pomocy społecznej, lub kierownika innej jednostki organizacyjnej gminy.]
 
-<10. Do prowadzenia spraw, o których mowa w ust. 8 i 9, wójt (burmistrz, prezydent miasta) właściwy ze względu na miejsce zamieszkania kandydata może upoważnić kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia  ośrodka  pomocy  społecznej  w centrum  usług  społecznych  na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych  przez  centrum  usług  społecznych  (Dz. U.  poz. 1818)  -  dyrektora Nowe brzmienie ust. 10 w art. 150 wejdzie w życie z dn. 1.01.2020 r. (Dz. U. z 2019 r. poz. 1818).
+Nowe brzmienie ust. 10 w art. 150 wejdzie w życie z dn. 1.01.2020 r. (Dz. U. z 2019 r. poz. 1818).
+
+<10. Do prowadzenia spraw, o których mowa w ust. 8 i 9, wójt (burmistrz, prezydent miasta) właściwy ze względu na miejsce zamieszkania kandydata może upoważnić kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818) – dyrektora
 
 02.12.2019
 
@@ -5711,28 +5736,28 @@ s. 181/216
 
 s. 182/216
 
-centrum usług społecznych, kierownika innej jednostki organizacyjnej gminy lub inną  osobę  na  wniosek  kierownika  ośrodka  pomocy  społecznej,  dyrektora centrum  usług  społecznych  lub  kierownika  innej  jednostki  organizacyjnej gminy.>
+centrum usług społecznych, kierownika innej jednostki organizacyjnej gminy lub inną osobę na wniosek kierownika ośrodka pomocy społecznej, dyrektora centrum usług społecznych lub kierownika innej jednostki organizacyjnej gminy.>
 
 ##### Art. 151.
 1. Zgłoszenie, o którym mowa w art. 133 ust. 1, zawiera:
 
-- imię, nazwisko, datę urodzenia oraz numer PESEL kandydata, a w przypadku braku  numeru  PESEL  -  serię  i numer  paszportu  lub  innego  dokumentu potwierdzającego tożsamość;
+1) imię, nazwisko, datę urodzenia oraz numer PESEL kandydata, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość;
 
-- imiona i nazwiska rodziców kandydata;
+2) imiona i nazwiska rodziców kandydata;
 
-- adres poczty elektronicznej i numery telefonów rodziców kandydata - o ile je posiadają.
+3) adres poczty elektronicznej i numery telefonów rodziców kandydata – o ile je posiadają.
 
-2. Do  zgłoszenia  dołącza  się  oświadczenie  o miejscu  zamieszkania  rodziców kandydata i kandydata.
+2. Do zgłoszenia dołącza się oświadczenie o miejscu zamieszkania rodziców kandydata i kandydata.
 
-3. Oświadczenie, o którym mowa w ust. 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: 'Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.'. Klauzula ta  zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+3. Oświadczenie, o którym mowa w ust. 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 ##### Art. 152.
-Organ  prowadzący  publiczne  przedszkola,  oddziały  przedszkolne w publicznych szkołach podstawowych, publiczne inne formy wychowania przedszkolnego,  publiczne  szkoły  lub  publiczne  placówki  może  określić  wzór wniosku lub wzór zgłoszenia, o których mowa w art. 150 i art. 151.
+Organ prowadzący publiczne przedszkola, oddziały przedszkolne w publicznych szkołach podstawowych, publiczne inne formy wychowania przedszkolnego, publiczne szkoły lub publiczne placówki może określić wzór wniosku lub wzór zgłoszenia, o których mowa w art. 150 i art. 151.
 
 ##### Art. 153.
-1. Postępowanie rekrutacyjne do publicznych przedszkoli, oddziałów przedszkolnych  w publicznych  szkołach  podstawowych  i publicznych  innych  form wychowania przedszkolnego  przeprowadza  się  co  roku  na  kolejny  rok  szkolny  na wolne  miejsca  w publicznym  przedszkolu,  w oddziale  przedszkolnym  w publicznej szkole podstawowej lub w publicznej innej formie wychowania przedszkolnego.
+1. Postępowanie rekrutacyjne do publicznych przedszkoli, oddziałów przedszkolnych w publicznych szkołach podstawowych i publicznych innych form wychowania przedszkolnego przeprowadza się co roku na kolejny rok szkolny na wolne miejsca w publicznym przedszkolu, w oddziale przedszkolnym w publicznej szkole podstawowej lub w publicznej innej formie wychowania przedszkolnego.
 
-2. Rodzice  dzieci  przyjętych  do  danego  publicznego  przedszkola,  danego oddziału przedszkolnego w publicznej szkole podstawowej lub danej publicznej innej formy  wychowania  przedszkolnego  corocznie  składają  na  kolejny  rok  szkolny deklarację  o kontynuowaniu  wychowania  przedszkolnego  w tym  przedszkolu,  tym oddziale  przedszkolnym  w publicznej  szkole  podstawowej  lub  tej  innej  formie wychowania przedszkolnego, w terminie 7 dni poprzedzających termin rozpoczęcia postępowania rekrutacyjnego, określony zgodnie z art. 154 ust. 1 pkt 1, ust. 3 i 6.
+2. Rodzice dzieci przyjętych do danego publicznego przedszkola, danego oddziału przedszkolnego w publicznej szkole podstawowej lub danej publicznej innej formy wychowania przedszkolnego corocznie składają na kolejny rok szkolny deklarację o kontynuowaniu wychowania przedszkolnego w tym przedszkolu, tym oddziale przedszkolnym w publicznej szkole podstawowej lub tej innej formie wychowania przedszkolnego, w terminie 7 dni poprzedzających termin rozpoczęcia postępowania rekrutacyjnego, określony zgodnie z art. 154 ust. 1 pkt 1, ust. 3 i 6.
 
 02.12.2019
 
@@ -5744,13 +5769,13 @@ Organ  prowadzący  publiczne  przedszkola,  oddziały  przedszkolne w publiczny
 
 s. 183/216
 
-3. Postępowanie rekrutacyjne na zajęcia organizowane przez publiczne placówki oświatowo-wychowawcze oraz postępowanie rekrutacyjne do publicznych placówek zapewniających  opiekę  i wychowanie  uczniom  w okresie  pobierania  nauki  poza miejscem stałego zamieszkania przeprowadza się odpowiednio na wolne miejsca na dane zajęcia organizowane przez publiczną placówkę oświatowo-wychowawczą lub na wolne miejsca w publicznej placówce zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania.
+3. Postępowanie rekrutacyjne na zajęcia organizowane przez publiczne placówki oświatowo-wychowawcze oraz postępowanie rekrutacyjne do publicznych placówek zapewniających opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania przeprowadza się odpowiednio na wolne miejsca na dane zajęcia organizowane przez publiczną placówkę oświatowo-wychowawczą lub na wolne miejsca w publicznej placówce zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania.
 
-4. Rodzice  dzieci  lub  pełnoletni  uczestnicy  kontynuujący  udział  w zajęciach organizowanych  przez  publiczną  placówkę  oświatowo-wychowawczą  oraz  rodzice dzieci lub osoby pełnoletnie przyjęte do publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania składają odpowiednio deklarację o kontynuowaniu uczestnictwa w zajęciach, na które dziecko zostało przyjęte, lub kontynuowaniu pobytu w publicznej placówce  zapewniającej opiekę  i wychowanie  uczniom  w okresie pobierania nauki poza miejscem stałego zamieszkania, w terminie 7 dni poprzedzających termin rozpoczęcia postępowania rekrutacyjnego, ustalony zgodnie z ust. 5.
+4. Rodzice dzieci lub pełnoletni uczestnicy kontynuujący udział w zajęciach organizowanych przez publiczną placówkę oświatowo-wychowawczą oraz rodzice dzieci lub osoby pełnoletnie przyjęte do publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania składają odpowiednio deklarację o kontynuowaniu uczestnictwa w zajęciach, na które dziecko zostało przyjęte, lub kontynuowaniu pobytu w publicznej placówce zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania, w terminie 7 dni poprzedzających termin rozpoczęcia postępowania rekrutacyjnego, ustalony zgodnie z ust. 5.
 
-5. Dyrektor  publicznej  placówki  oświatowo-wychowawczej  albo  publicznej placówki  zapewniającej  opiekę  i wychowanie  uczniom  w okresie  pobierania  nauki poza miejscem stałego zamieszkania, w uzgodnieniu z organem prowadzącym, ustala i podaje do publicznej wiadomości terminy przeprowadzania postępowania rekrutacyjnego, w tym terminy składania dokumentów.
+5. Dyrektor publicznej placówki oświatowo-wychowawczej albo publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania, w uzgodnieniu z organem prowadzącym, ustala i podaje do publicznej wiadomości terminy przeprowadzania postępowania rekrutacyjnego, w tym terminy składania dokumentów.
 
-6.  Deklarację  o  kontynuowaniu  pobytu  w  publicznej  placówce  zapewniającej opiekę i wychowanie uczniom szkół artystycznych w okresie pobierania nauki poza miejscem stałego zamieszkania, o której mowa w ust. 4, mogą złożyć rodzice ucznia szkoły  artystycznej  albo  pełnoletni  uczeń  takiej  szkoły,  który  w  danym  roku kalendarzowym nie ukończy 19. roku życia. Uczeń szkoły artystycznej realizującej kształcenie ogólne może złożyć taką deklarację w każdym roku szkolnym, aż do roku poprzedzającego rok zakończenia nauki w szkole.
+6. Deklarację o kontynuowaniu pobytu w publicznej placówce zapewniającej opiekę i wychowanie uczniom szkół artystycznych w okresie pobierania nauki poza miejscem stałego zamieszkania, o której mowa w ust. 4, mogą złożyć rodzice ucznia szkoły artystycznej albo pełnoletni uczeń takiej szkoły, który w danym roku kalendarzowym nie ukończy 19. roku życia. Uczeń szkoły artystycznej realizującej kształcenie ogólne może złożyć taką deklarację w każdym roku szkolnym, aż do roku poprzedzającego rok zakończenia nauki w szkole.
 
 02.12.2019
 
@@ -5765,21 +5790,21 @@ s. 184/216
 ##### Art. 154.
 1. Terminy przeprowadzania postępowania rekrutacyjnego i postępowania uzupełniającego, w tym terminy składania dokumentów, do:
 
-- publicznych  przedszkoli,  oddziałów  przedszkolnych  w  publicznych  szkołach podstawowych, publicznych innych  form  wychowania  przedszkolnego,  klas  I publicznych szkół podstawowych, a także klas wyższych niż klasa I publicznych szkół  i  oddziałów,  o  których  mowa  w  art.  137  ust.  1,  oraz  oddziałów dwujęzycznych, o których mowa w art. 139 ust. 1 - określa do końca stycznia organ  prowadzący  odpowiednio  publiczne  przedszkole,  publiczną  inną  formę wychowania przedszkolnego lub publiczną szkołę podstawową;
+1) publicznych przedszkoli, oddziałów przedszkolnych w publicznych szkołach podstawowych, publicznych innych form wychowania przedszkolnego, klas I publicznych szkół podstawowych, a także klas wyższych niż klasa I publicznych szkół i oddziałów, o których mowa w art. 137 ust. 1, oraz oddziałów dwujęzycznych, o których mowa w art. 139 ust. 1 – określa do końca stycznia organ prowadzący odpowiednio publiczne przedszkole, publiczną inną formę wychowania przedszkolnego lub publiczną szkołę podstawową;
 
-- publicznych  szkół  podstawowych  dla  dorosłych,  klas  I publicznych  szkół ponadpodstawowych,  klas  wstępnych,  o których  mowa  w art. 25 ust. 3,  i na semestr pierwszy klas I publicznych branżowych szkół II stopnia i publicznych szkół policealnych - określa do końca stycznia właściwy kurator oświaty.
+2) publicznych szkół podstawowych dla dorosłych, klas I publicznych szkół ponadpodstawowych, klas wstępnych, o których mowa w art. 25 ust. 3, i na semestr pierwszy klas I publicznych branżowych szkół II stopnia i publicznych szkół policealnych – określa do końca stycznia właściwy kurator oświaty.
 
-2. Dyrektor  publicznej  szkoły  do  końca  lutego,  a w przypadku  publicznych szkół, w których zajęcia dydaktyczno-wychowawcze rozpoczynają się w pierwszym powszednim  dniu  lutego  -  do  końca  września,  podaje  do  publicznej  wiadomości szczegółowy termin:
+2. Dyrektor publicznej szkoły do końca lutego, a w przypadku publicznych szkół, w których zajęcia dydaktyczno-wychowawcze rozpoczynają się w pierwszym powszednim dniu lutego – do końca września, podaje do publicznej wiadomości szczegółowy termin:
 
-- przeprowadzenia sprawdzianu uzdolnień kierunkowych, o którym mowa w art. 134 ust. 5 i art. 135 ust. 7, oraz termin podania do publicznej wiadomości listy kandydatów zawierającej imiona i nazwiska kandydatów, którzy uzyskali pozytywny wynik tego sprawdzianu,
+1) przeprowadzenia sprawdzianu uzdolnień kierunkowych, o którym mowa w art. 134 ust. 5 i art. 135 ust. 7, oraz termin podania do publicznej wiadomości listy kandydatów zawierającej imiona i nazwiska kandydatów, którzy uzyskali pozytywny wynik tego sprawdzianu,
 
-- przeprowadzenia sprawdzianu uzdolnień lub predyspozycji przydatnych w danym  zawodzie,  o którym  mowa  w art. 136 ust. 2  oraz  termin  podania  do publicznej wiadomości listy kandydatów zawierającej imiona i nazwiska kandydatów, którzy uzyskali pozytywny wynik tego sprawdzianu,
+2) przeprowadzenia sprawdzianu uzdolnień lub predyspozycji przydatnych w danym zawodzie, o którym mowa w art. 136 ust. 2 oraz termin podania do publicznej wiadomości listy kandydatów zawierającej imiona i nazwiska kandydatów, którzy uzyskali pozytywny wynik tego sprawdzianu,
 
 3) przeprowadzenia rozmowy kwalifikacyjnej, o której mowa w art. 141 ust. 6
 
-- biorąc  pod  uwagę terminy określone przez właściwego kuratora oświaty zgodnie z ust. 1 pkt 2.
+– biorąc pod uwagę terminy określone przez właściwego kuratora oświaty zgodnie z ust. 1 pkt 2.
 
-3. Organ prowadzący publiczne przedszkole, publiczną inną formę wychowania przedszkolnego  lub  publiczną  szkołę  podstawową  do  końca  stycznia  podaje  do publicznej  wiadomości  kryteria  brane  pod  uwagę  w postępowaniu  rekrutacyjnym i postępowaniu uzupełniającym oraz dokumenty niezbędne do potwierdzenia spełnienia tych kryteriów, a także liczbę punktów  możliwą  do  uzyskania za poszczególne kryteria, zgodnie z art. 131 ust. 4-6 i art. 133 ust. 2 i 3.
+3. Organ prowadzący publiczne przedszkole, publiczną inną formę wychowania przedszkolnego lub publiczną szkołę podstawową do końca stycznia podaje do publicznej wiadomości kryteria brane pod uwagę w postępowaniu rekrutacyjnym i postępowaniu uzupełniającym oraz dokumenty niezbędne do potwierdzenia spełnienia tych kryteriów, a także liczbę punktów możliwą do uzyskania za poszczególne kryteria, zgodnie z art. 131 ust. 4–6 i art. 133 ust. 2 i 3.
 
 02.12.2019
 
@@ -5791,17 +5816,17 @@ s. 184/216
 
 s. 185/216
 
-4. Dyrektor  publicznej  szkoły  do  końca  lutego,  a w przypadku  publicznych szkół, w których zajęcia dydaktyczno-wychowawcze rozpoczynają się w pierwszym powszednim  dniu  lutego  -  do  końca  września,  podaje  do  publicznej  wiadomości odpowiednio informację o:
+4. Dyrektor publicznej szkoły do końca lutego, a w przypadku publicznych szkół, w których zajęcia dydaktyczno-wychowawcze rozpoczynają się w pierwszym powszednim dniu lutego – do końca września, podaje do publicznej wiadomości odpowiednio informację o:
 
-- języku obcym, który jest językiem nauczania albo drugim językiem nauczania w danej  szkole,  oddziale  lub  klasie,  o których  mowa  w art. 138 ust. 1  i 4, art. 139 ust. 1 i art. 140 ust. 1 i 2;
+1) języku obcym, który jest językiem nauczania albo drugim językiem nauczania w danej szkole, oddziale lub klasie, o których mowa w art. 138 ust. 1 i 4, art. 139 ust. 1 i art. 140 ust. 1 i 2;
 
-- sporcie,  w którym  odbywa  się  szkolenie  sportowe  w danej  szkole  lub  danym oddziale, o których mowa w art. 137 ust. 1 i 4;
+2) sporcie, w którym odbywa się szkolenie sportowe w danej szkole lub danym oddziale, o których mowa w art. 137 ust. 1 i 4;
 
-- obowiązkowych zajęciach edukacyjnych, o których mowa w art. 134 ust. 2 pkt 2, art. 135 ust. 4 pkt 1, art. 137 ust. 6 pkt 2, art. 139 ust. 2 pkt 2,  art. 140 ust. 3 pkt 3  i art. 143 ust. 3 pkt 2,  z których oceny  wymienione  na  świadectwie  ukończenia  szkoły  podstawowej  albo branżowej szkoły I stopnia będą brane pod uwagę w postępowaniu rekrutacyjnym  do  szkoły  ponadpodstawowej,  o której  mowa  w art. 134 ust. 1, art. 135 ust. 1,  art. 137 ust. 4,  art. 138  ust. 4, art. 139  ust. 1,  art. 140 ust. 1  i 2 oraz art. 143 ust. 1.
+3) obowiązkowych zajęciach edukacyjnych, o których mowa w art. 134 ust. 2 pkt 2, art. 135 ust. 4 pkt 1, art. 137 ust. 6 pkt 2, art. 139 ust. 2 pkt 2, art. 140 ust. 3 pkt 3 i art. 143 ust. 3 pkt 2, z których oceny wymienione na świadectwie ukończenia szkoły podstawowej albo branżowej szkoły I stopnia będą brane pod uwagę w postępowaniu rekrutacyjnym do szkoły ponadpodstawowej, o której mowa w art. 134 ust. 1, art. 135 ust. 1, art. 137 ust. 4, art. 138 ust. 4, art. 139 ust. 1, art. 140 ust. 1 i 2 oraz art. 143 ust. 1.
 
-5. W przypadku nowo tworzonych publicznych przedszkoli, publicznych innych form  wychowania  przedszkolnego  i publicznych  szkół  terminy  oraz  informacje, o których mowa w ust. 2-4, należy podać do publicznej wiadomości nie później niż do dnia rozpoczęcia składania wniosków o przyjęcie odpowiednio do nowo tworzonych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego  lub  publicznych  szkół,  a także  oddziałów  przedszkolnych  w nowo tworzonych  publicznych  szkołach  podstawowych,  w postępowaniu  rekrutacyjnym albo postępowaniu uzupełniającym, ustalonego zgodnie z ust. 1.
+5. W przypadku nowo tworzonych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego i publicznych szkół terminy oraz informacje, o których mowa w ust. 2–4, należy podać do publicznej wiadomości nie później niż do dnia rozpoczęcia składania wniosków o przyjęcie odpowiednio do nowo tworzonych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego lub publicznych szkół, a także oddziałów przedszkolnych w nowo tworzonych publicznych szkołach podstawowych, w postępowaniu rekrutacyjnym albo postępowaniu uzupełniającym, ustalonego zgodnie z ust. 1.
 
-6. W przypadku wystąpienia na danym terenie stanu nadzwyczajnego, w szczególności sytuacji zagrażającej życiu lub zdrowiu obywateli, uniemożliwiającego przeprowadzenie postępowania rekrutacyjnego lub postępowania uzupełniającego w terminach  określonych  w ust. 1-5, dyrektor przedszkola lub szkoły,  w uzgodnieniu  z organem  prowadzącym,  ustala  terminy  przeprowadzania postępowania rekrutacyjnego i postępowania uzupełniającego, w tym terminy składania  dokumentów,  oraz  szczegółowe  terminy,  o których  mowa  w ust. 2  i 5, i podaje  je  do  publicznej  wiadomości  poprzez  umieszczenie w widocznym miejscu w siedzibie przedszkola lub szkoły oraz na jej stronie internetowej.
+6. W przypadku wystąpienia na danym terenie stanu nadzwyczajnego, w szczególności sytuacji zagrażającej życiu lub zdrowiu obywateli, uniemożliwiającego przeprowadzenie postępowania rekrutacyjnego lub postępowania uzupełniającego w terminach określonych w ust. 1–5, dyrektor przedszkola lub szkoły, w uzgodnieniu z organem prowadzącym, ustala terminy przeprowadzania postępowania rekrutacyjnego i postępowania uzupełniającego, w tym terminy składania dokumentów, oraz szczegółowe terminy, o których mowa w ust. 2 i 5, i podaje je do publicznej wiadomości poprzez umieszczenie w widocznym miejscu w siedzibie przedszkola lub szkoły oraz na jej stronie internetowej.
 
 02.12.2019
 
@@ -5813,17 +5838,17 @@ s. 185/216
 
 s. 186/216
 
-7. Dyrektor  publicznej  szkoły,  publicznej  placówki  lub  publicznego  centrum, o których  mowa  w art. 2 pkt 4,  prowadzących  kwalifikacyjne  kursy  zawodowe, w uzgodnieniu z organem prowadzącym, ustala  i podaje do publicznej  wiadomości terminy  przeprowadzania  postępowania  rekrutacyjnego  na  kwalifikacyjne  kursy zawodowe, w tym terminy składania dokumentów.
+7. Dyrektor publicznej szkoły, publicznej placówki lub publicznego centrum, o których mowa w art. 2 pkt 4, prowadzących kwalifikacyjne kursy zawodowe, w uzgodnieniu z organem prowadzącym, ustala i podaje do publicznej wiadomości terminy przeprowadzania postępowania rekrutacyjnego na kwalifikacyjne kursy zawodowe, w tym terminy składania dokumentów.
 
-8. Dyrektor  publicznej  szkoły,  publicznej  placówki  lub  publicznego  centrum, o których  mowa  w art. 2  pkt 4,  prowadzących  kształcenie  ustawiczne  w formach pozaszkolnych, w uzgodnieniu z organem prowadzącym, ustala i podaje do publicznej wiadomości terminy przeprowadzania postępowania rekrutacyjnego na pozaszkolne formy kształcenia, w tym terminy składania dokumentów.
+8. Dyrektor publicznej szkoły, publicznej placówki lub publicznego centrum, o których mowa w art. 2 pkt 4, prowadzących kształcenie ustawiczne w formach pozaszkolnych, w uzgodnieniu z organem prowadzącym, ustala i podaje do publicznej wiadomości terminy przeprowadzania postępowania rekrutacyjnego na pozaszkolne formy kształcenia, w tym terminy składania dokumentów.
 
-9. W przypadku  publicznych  branżowych  szkół  II  stopnia,  publicznych  szkół policealnych oraz publicznych szkół dla dorosłych komisja rekrutacyjna, w uzgodnieniu  z dyrektorem  szkoły,  rozpatruje  w postępowaniu  uzupełniającym wniosek  kandydata  złożony  po  terminie  określonym  zgodnie  z ust. 1 pkt 2,  jeżeli szkoła nadal dysponuje wolnymi miejscami.
+9. W przypadku publicznych branżowych szkół II stopnia, publicznych szkół policealnych oraz publicznych szkół dla dorosłych komisja rekrutacyjna, w uzgodnieniu z dyrektorem szkoły, rozpatruje w postępowaniu uzupełniającym wniosek kandydata złożony po terminie określonym zgodnie z ust. 1 pkt 2, jeżeli szkoła nadal dysponuje wolnymi miejscami.
 
 ##### Art. 155.
-W celu zapewnienia dziecku podczas pobytu w publicznym przedszkolu, oddziale przedszkolnym w publicznej szkole podstawowej, publicznej innej formie wychowania przedszkolnego, publicznej szkole i publicznej placówce, o której mowa w art. 2 pkt 8, odpowiedniej opieki, odżywiania oraz metod opiekuńczo-wychowawczych  rodzic  dziecka  przekazuje  dyrektorowi  przedszkola, szkoły lub placówki uznane przez niego za istotne dane o stanie zdrowia, stosowanej diecie i rozwoju psychofizycznym dziecka.
+W celu zapewnienia dziecku podczas pobytu w publicznym przedszkolu, oddziale przedszkolnym w publicznej szkole podstawowej, publicznej innej formie wychowania przedszkolnego, publicznej szkole i publicznej placówce, o której mowa w art. 2 pkt 8, odpowiedniej opieki, odżywiania oraz metod opiekuńczo-wychowawczych rodzic dziecka przekazuje dyrektorowi przedszkola, szkoły lub placówki uznane przez niego za istotne dane o stanie zdrowia, stosowanej diecie i rozwoju psychofizycznym dziecka.
 
 ##### Art. 156.
-1. Wniosek,  o którym  mowa  w art. 149,  może  być  złożony  do  nie więcej  niż  trzech  wybranych  publicznych  przedszkoli,  publicznych  innych  form wychowania  przedszkolnego  albo  publicznych  szkół,  chyba  że  organ  prowadzący dopuści możliwość składania wniosku do więcej niż trzech wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół.
+1. Wniosek, o którym mowa w art. 149, może być złożony do nie więcej niż trzech wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół, chyba że organ prowadzący dopuści możliwość składania wniosku do więcej niż trzech wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół.
 
 02.12.2019
 
@@ -5835,25 +5860,25 @@ W celu zapewnienia dziecku podczas pobytu w publicznym przedszkolu, oddziale prz
 
 s. 187/216
 
-2. We  wniosku,  o którym  mowa  w ust. 1,  określa  się  kolejność  wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół w porządku od najbardziej do najmniej preferowanych.
+2. We wniosku, o którym mowa w ust. 1, określa się kolejność wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół w porządku od najbardziej do najmniej preferowanych.
 
 ##### Art. 157.
-1. Postępowanie rekrutacyjne do publicznych przedszkoli, oddziałów przedszkolnych  w publicznych  szkołach  podstawowych,  publicznych  innych  form wychowania przedszkolnego, publicznych szkół i publicznych placówek przeprowadza komisja rekrutacyjna powołana przez dyrektora przedszkola, szkoły lub placówki. Dyrektor wyznacza przewodniczącego komisji rekrutacyjnej.
+1. Postępowanie rekrutacyjne do publicznych przedszkoli, oddziałów przedszkolnych w publicznych szkołach podstawowych, publicznych innych form wychowania przedszkolnego, publicznych szkół i publicznych placówek przeprowadza komisja rekrutacyjna powołana przez dyrektora przedszkola, szkoły lub placówki. Dyrektor wyznacza przewodniczącego komisji rekrutacyjnej.
 
 2. Do zadań komisji rekrutacyjnej należy w szczególności:
 
-- ustalenie wyników postępowania rekrutacyjnego i podanie do publicznej wiadomości listy kandydatów zakwalifikowanych i kandydatów niezakwalifikowanych, o której mowa w art. 158 ust. 1;
+1) ustalenie wyników postępowania rekrutacyjnego i podanie do publicznej wiadomości listy kandydatów zakwalifikowanych i kandydatów niezakwalifikowanych, o której mowa w art. 158 ust. 1;
 
-- ustalenie  i podanie  do  publicznej  wiadomości  listy  kandydatów  przyjętych i kandydatów nieprzyjętych, o której mowa w art. 158 ust. 3;
+2) ustalenie i podanie do publicznej wiadomości listy kandydatów przyjętych i kandydatów nieprzyjętych, o której mowa w art. 158 ust. 3;
 
-- przeprowadzenie sprawdzianu uzdolnień kierunkowych, prób sprawności fizycznej,  sprawdzianu  predyspozycji  językowych,  sprawdzianu  kompetencji językowych,  badania  przydatności,  sprawdzianu  uzdolnień  lub  predyspozycji przydatnych  w danym  zawodzie,  egzaminu  wstępnego  lub  badania  uzdolnień kierunkowych -w przypadkach, o których mowa w art. 134 ust. 5, art. 135 ust. 7,  art. 136 ust. 2,  art. 137 ust. 1 pkt 3,  art. 138 ust. 1  i 4,  art. 139 ust. 1 pkt 2, art. 140 ust. 1 i 2, art. 142 ust. 4, art. 143 ust. 1 pkt 4 i art. 144 ust. 2;
+3) przeprowadzenie sprawdzianu uzdolnień kierunkowych, prób sprawności fizycznej, sprawdzianu predyspozycji językowych, sprawdzianu kompetencji językowych, badania przydatności, sprawdzianu uzdolnień lub predyspozycji przydatnych w danym zawodzie, egzaminu wstępnego lub badania uzdolnień kierunkowych – w przypadkach, o których mowa w art. 134 ust. 5, art. 135 ust. 7, art. 136 ust. 2, art. 137 ust. 1 pkt 3, art. 138 ust. 1 i 4, art. 139 ust. 1 pkt 2, art. 140 ust. 1 i 2, art. 142 ust. 4, art. 143 ust. 1 pkt 4 i art. 144 ust. 2;
 
-- przeprowadzenie rozmowy kwalifikacyjnej, o której mowa w art. 141 ust. 6;
+4) przeprowadzenie rozmowy kwalifikacyjnej, o której mowa w art. 141 ust. 6;
 
-- sporządzenie protokołu postępowania rekrutacyjnego.
+5) sporządzenie protokołu postępowania rekrutacyjnego.
 
 ##### Art. 158.
-1.  Wyniki  postępowania  rekrutacyjnego  podaje  się  do  publicznej wiadomości w formie listy kandydatów zakwalifikowanych i kandydatów niezakwalifikowanych, zawierającej imiona i nazwiska kandydatów oraz informację o zakwalifikowaniu  albo  niezakwalifikowaniu  kandydata  do  danego  publicznego przedszkola, oddziału przedszkolnego w publicznej szkole podstawowej, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy.
+1. Wyniki postępowania rekrutacyjnego podaje się do publicznej wiadomości w formie listy kandydatów zakwalifikowanych i kandydatów niezakwalifikowanych, zawierającej imiona i nazwiska kandydatów oraz informację o zakwalifikowaniu albo niezakwalifikowaniu kandydata do danego publicznego przedszkola, oddziału przedszkolnego w publicznej szkole podstawowej, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy.
 
 02.12.2019
 
@@ -5865,15 +5890,15 @@ s. 187/216
 
 s. 188/216
 
-2. Komisja rekrutacyjna przyjmuje kandydata do danego publicznego przedszkola, oddziału przedszkolnego w publicznej szkole podstawowej, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach  pozaszkolnych  lub  na  kwalifikacyjny  kurs  zawodowy,  jeżeli  w wyniku postępowania rekrutacyjnego kandydat został zakwalifikowany oraz złożył wymagane dokumenty.
+2. Komisja rekrutacyjna przyjmuje kandydata do danego publicznego przedszkola, oddziału przedszkolnego w publicznej szkole podstawowej, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy, jeżeli w wyniku postępowania rekrutacyjnego kandydat został zakwalifikowany oraz złożył wymagane dokumenty.
 
-3. Komisja  rekrutacyjna  podaje  do  publicznej  wiadomości  listę  kandydatów przyjętych i kandydatów nieprzyjętych do danego publicznego przedszkola, oddziału przedszkolnego w publicznej szkole podstawowej, publicznej innej formy wychowania  przedszkolnego,  publicznej  szkoły,  publicznej  placówki,  na  zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach  pozaszkolnych  lub  na  kwalifikacyjny  kurs  zawodowy.  Lista  zawiera imiona i nazwiska kandydatów przyjętych i kandydatów nieprzyjętych lub informację o liczbie wolnych miejsc.
+3. Komisja rekrutacyjna podaje do publicznej wiadomości listę kandydatów przyjętych i kandydatów nieprzyjętych do danego publicznego przedszkola, oddziału przedszkolnego w publicznej szkole podstawowej, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy. Lista zawiera imiona i nazwiska kandydatów przyjętych i kandydatów nieprzyjętych lub informację o liczbie wolnych miejsc.
 
-4. Listy,  o których  mowa  w ust. 1  i 3,  podaje  się  do  publicznej  wiadomości poprzez umieszczenie w widocznym miejscu w siedzibie danego publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły lub publicznej placówki. Listy zawierają imiona i nazwiska kandydatów uszeregowane  w kolejności  alfabetycznej  oraz  najniższą  liczbę  punktów,  która uprawnia do przyjęcia.
+4. Listy, o których mowa w ust. 1 i 3, podaje się do publicznej wiadomości poprzez umieszczenie w widocznym miejscu w siedzibie danego publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły lub publicznej placówki. Listy zawierają imiona i nazwiska kandydatów uszeregowane w kolejności alfabetycznej oraz najniższą liczbę punktów, która uprawnia do przyjęcia.
 
-5. Dzień podania do publicznej wiadomości listy, o której mowa w ust. 3, jest określany  w formie  adnotacji  umieszczonej  na  tej  liście,  opatrzonej  podpisem przewodniczącego komisji rekrutacyjnej.
+5. Dzień podania do publicznej wiadomości listy, o której mowa w ust. 3, jest określany w formie adnotacji umieszczonej na tej liście, opatrzonej podpisem przewodniczącego komisji rekrutacyjnej.
 
-6. W terminie 7 dni od dnia podania do publicznej wiadomości listy kandydatów przyjętych  i kandydatów  nieprzyjętych,  rodzic  kandydata  lub  kandydat  pełnoletni może  wystąpić  do  komisji  rekrutacyjnej  z wnioskiem  o sporządzenie  uzasadnienia odmowy przyjęcia kandydata do danego publicznego przedszkola, oddziału przedszkolnego w publicznej szkole podstawowej, publicznej innej formy wychowania  przedszkolnego,  publicznej  szkoły,  publicznej  placówki,  na  zajęcia w publicznej placówce oświatowo-wychowawczej, na kwalifikacyjny kurs zawodowy lub na kształcenie ustawiczne w formach pozaszkolnych.
+6. W terminie 7 dni od dnia podania do publicznej wiadomości listy kandydatów przyjętych i kandydatów nieprzyjętych, rodzic kandydata lub kandydat pełnoletni może wystąpić do komisji rekrutacyjnej z wnioskiem o sporządzenie uzasadnienia odmowy przyjęcia kandydata do danego publicznego przedszkola, oddziału przedszkolnego w publicznej szkole podstawowej, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kwalifikacyjny kurs zawodowy lub na kształcenie ustawiczne w formach pozaszkolnych.
 
 02.12.2019
 
@@ -5885,24 +5910,24 @@ s. 188/216
 
 s. 189/216
 
-7. Uzasadnienie sporządza się w terminie 5 dni od dnia wystąpienia przez rodzica kandydata  lub  kandydata  pełnoletniego  z wnioskiem,  o którym  mowa  w ust. 6. Uzasadnienie zawiera przyczyny odmowy przyjęcia, w tym najniższą liczbę punktów, która uprawniała do przyjęcia, oraz liczbę punktów,  którą kandydat uzyskał w postępowaniu rekrutacyjnym.
+7. Uzasadnienie sporządza się w terminie 5 dni od dnia wystąpienia przez rodzica kandydata lub kandydata pełnoletniego z wnioskiem, o którym mowa w ust. 6. Uzasadnienie zawiera przyczyny odmowy przyjęcia, w tym najniższą liczbę punktów, która uprawniała do przyjęcia, oraz liczbę punktów, którą kandydat uzyskał w postępowaniu rekrutacyjnym.
 
-8. Rodzic kandydata  lub kandydat  pełnoletni może  wnieść  do  dyrektora publicznego  przedszkola,  publicznej  szkoły  lub  publicznej  placówki  odwołanie  od rozstrzygnięcia komisji rekrutacyjnej, w terminie 7 dni od dnia otrzymania uzasadnienia.
+8. Rodzic kandydata lub kandydat pełnoletni może wnieść do dyrektora publicznego przedszkola, publicznej szkoły lub publicznej placówki odwołanie od rozstrzygnięcia komisji rekrutacyjnej, w terminie 7 dni od dnia otrzymania uzasadnienia.
 
-9. Dyrektor publicznego przedszkola, publicznej szkoły lub publicznej placówki rozpatruje  odwołanie  od  rozstrzygnięcia  komisji  rekrutacyjnej,  o którym  mowa w ust. 8, w terminie 7 dni od dnia otrzymania odwołania. Na rozstrzygnięcie dyrektora danego  publicznego  przedszkola,  publicznej  szkoły  lub  publicznej  placówki  służy skarga do sądu administracyjnego.
+9. Dyrektor publicznego przedszkola, publicznej szkoły lub publicznej placówki rozpatruje odwołanie od rozstrzygnięcia komisji rekrutacyjnej, o którym mowa w ust. 8, w terminie 7 dni od dnia otrzymania odwołania. Na rozstrzygnięcie dyrektora danego publicznego przedszkola, publicznej szkoły lub publicznej placówki służy skarga do sądu administracyjnego.
 
-10. Listy,  o których  mowa  w ust. 1  i 3,  podane  do  publicznej  wiadomości,  są publikowane nie dłużej niż do czasu upłynięcia terminów, o których mowa w ust. 68, w postępowaniu rekrutacyjnym lub postępowaniu uzupełniającym przeprowadzanego w danym roku kalendarzowym.
+10. Listy, o których mowa w ust. 1 i 3, podane do publicznej wiadomości, są publikowane nie dłużej niż do czasu upłynięcia terminów, o których mowa w ust. 6–8, w postępowaniu rekrutacyjnym lub postępowaniu uzupełniającym przeprowadzanego w danym roku kalendarzowym.
 
 ##### Art. 159.
 1. Postępowanie rekrutacyjne:
 
-- do nowo tworzonego publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły lub publicznej placówki, o której mowa  w art. 2 pkt 8, a także oddziału przedszkolnego w nowo  tworzonej publicznej szkole podstawowej,
+1) do nowo tworzonego publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły lub publicznej placówki, o której mowa w art. 2 pkt 8, a także oddziału przedszkolnego w nowo tworzonej publicznej szkole podstawowej,
 
-- na zajęcia rozwijające zainteresowania lub rozwijające uzdolnienia organizowane w nowo tworzonej publicznej placówce oświatowo-wychowawczej,
+2) na zajęcia rozwijające zainteresowania lub rozwijające uzdolnienia organizowane w nowo tworzonej publicznej placówce oświatowo-wychowawczej,
 
-- na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy,  prowadzone  odpowiednio  w nowo  tworzonej  publicznej  szkole, publicznej placówce lub publicznym centrum, o których mowa w art. 2 pkt 4
+3) na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy, prowadzone odpowiednio w nowo tworzonej publicznej szkole, publicznej placówce lub publicznym centrum, o których mowa w art. 2 pkt 4
 
-- przeprowadza  komisja  rekrutacyjna  powołana  w innym  publicznym  przedszkolu, publicznej  szkole,  publicznej  placówce  lub  publicznym  centrum,  o których  mowa w art. 2 pkt 3,  4  i 8,  prowadzonych  przez  ten  sam  organ  prowadzący  i  wskazanych przez ten organ.
+– przeprowadza komisja rekrutacyjna powołana w innym publicznym przedszkolu, publicznej szkole, publicznej placówce lub publicznym centrum, o których mowa w art. 2 pkt 3, 4 i 8, prowadzonych przez ten sam organ prowadzący i wskazanych przez ten organ.
 
 02.12.2019
 
@@ -5914,16 +5939,16 @@ s. 189/216
 
 s. 190/216
 
-2. Jeżeli osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna,  która  tworzy  publiczne  przedszkole,  publiczną  inną  formę  wychowania przedszkolnego,  publiczną  szkołę,  publiczną  placówkę  lub  publiczne  centrum, o których mowa w art. 2 pkt 3, 4 i 8, nie prowadzi innego publicznego przedszkola, publicznej  szkoły,  publicznej  placówki  lub  publicznego  centrum,  o których  mowa w art. 2 pkt 3, 4 i 8, postępowanie rekrutacyjne, o którym mowa w ust. 1, przeprowadza komisja rekrutacyjna powołana przez organ prowadzący.
+2. Jeżeli osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna, która tworzy publiczne przedszkole, publiczną inną formę wychowania przedszkolnego, publiczną szkołę, publiczną placówkę lub publiczne centrum, o których mowa w art. 2 pkt 3, 4 i 8, nie prowadzi innego publicznego przedszkola, publicznej szkoły, publicznej placówki lub publicznego centrum, o których mowa w art. 2 pkt 3, 4 i 8, postępowanie rekrutacyjne, o którym mowa w ust. 1, przeprowadza komisja rekrutacyjna powołana przez organ prowadzący.
 
 3. Czynności dyrektora w postępowaniu rekrutacyjnym, o którym mowa w:
 
-- ust. 1 wykonuje dyrektor publicznego przedszkola, publicznej szkoły, publicznej placówki lub publicznego centrum, o których mowa w art. 2 pkt 3, 4 i 8,  w których  została  powołana  komisja  rekrutacyjna  przeprowadzająca  to postępowanie  rekrutacyjne,  w uzgodnieniu  z organem  prowadzącym  nowo tworzone publiczne przedszkole, publiczną inną formę wychowania przedszkolnego, publiczną szkołę, publiczną placówkę lub publiczne centrum;
+1) ust. 1 – wykonuje dyrektor publicznego przedszkola, publicznej szkoły, publicznej placówki lub publicznego centrum, o których mowa w art. 2 pkt 3, 4 i 8, w których została powołana komisja rekrutacyjna przeprowadzająca to postępowanie rekrutacyjne, w uzgodnieniu z organem prowadzącym nowo tworzone publiczne przedszkole, publiczną inną formę wychowania przedszkolnego, publiczną szkołę, publiczną placówkę lub publiczne centrum;
 
-- ust. 2 - wykonuje osoba upoważniona przez organ prowadzący nowo tworzone publiczne  przedszkole,  publiczną  inną  formę  wychowania  przedszkolnego, publiczną szkołę, publiczną placówkę lub publiczne centrum, o których mowa w art. 2 pkt 3, 4 i 8.
+2) ust. 2 – wykonuje osoba upoważniona przez organ prowadzący nowo tworzone publiczne przedszkole, publiczną inną formę wychowania przedszkolnego, publiczną szkołę, publiczną placówkę lub publiczne centrum, o których mowa w art. 2 pkt 3, 4 i 8.
 
 ##### Art. 160.
-1.  Dane  osobowe  kandydatów  zgromadzone  w celach  postępowania rekrutacyjnego oraz dokumentacja postępowania rekrutacyjnego są przechowywane nie dłużej niż do końca okresu, w którym uczeń korzysta z wychowania przedszkolnego w danym publicznym przedszkolu, oddziale przedszkolnym w publicznej szkole podstawowej lub publicznej innej formie wychowania przedszkolnego albo uczęszcza do danej publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy.
+1. Dane osobowe kandydatów zgromadzone w celach postępowania rekrutacyjnego oraz dokumentacja postępowania rekrutacyjnego są przechowywane nie dłużej niż do końca okresu, w którym uczeń korzysta z wychowania przedszkolnego w danym publicznym przedszkolu, oddziale przedszkolnym w publicznej szkole podstawowej lub publicznej innej formie wychowania przedszkolnego albo uczęszcza do danej publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy.
 
 2. Dane osobowe kandydatów nieprzyjętych zgromadzone w celach postępowania rekrutacyjnego są przechowywane w publicznym przedszkolu, publicznej innej formie wychowania przedszkolnego, publicznej szkole lub publicznej placówce, które przeprowadzały postępowanie rekrutacyjne, przez okres roku, chyba że na rozstrzygnięcie dyrektora przedszkola, szkoły lub placówki została wniesiona skarga do sądu administracyjnego i postępowanie nie zostało zakończone prawomocnym wyrokiem.
 
@@ -5947,11 +5972,11 @@ s. 191/216
 ##### Art. 162.
 Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
-- sposób  przeliczania  na  punkty  poszczególnych  kryteriów,  o których  mowa w art. 134 ust. 2 pkt 1-4, art. 135 ust. 4 pkt 1 i 2, art. 137 ust. 6, art. 138 ust. 4, art. 139 ust. 2 pkt 2 i 3, art. 140 ust. 3 pkt 1 i 3-5 i art. 143 ust. 3, uwzględniając konieczność  zapewnienia  przyjmowania  kandydatów  do  wybranych  szkół  na równych i przejrzystych zasadach oceny ich wiedzy, umiejętności i osiągnięć;
+1) sposób przeliczania na punkty poszczególnych kryteriów, o których mowa w art. 134 ust. 2 pkt 1–4, art. 135 ust. 4 pkt 1 i 2, art. 137 ust. 6, art. 138 ust. 4, art. 139 ust. 2 pkt 2 i 3, art. 140 ust. 3 pkt 1 i 3–5 i art. 143 ust. 3, uwzględniając konieczność zapewnienia przyjmowania kandydatów do wybranych szkół na równych i przejrzystych zasadach oceny ich wiedzy, umiejętności i osiągnięć;
 
-- sposób ustalania punktacji w przypadku osób zwolnionych z obowiązku przystąpienia odpowiednio do egzaminu ósmoklasisty lub do danego przedmiotu objętego egzaminem ósmoklasisty, uwzględniając rodzaje obowiązkowych zajęć edukacyjnych, z których oceny są przeliczane na punkty;
+2) sposób ustalania punktacji w przypadku osób zwolnionych z obowiązku przystąpienia odpowiednio do egzaminu ósmoklasisty lub do danego przedmiotu objętego egzaminem ósmoklasisty, uwzględniając rodzaje obowiązkowych zajęć edukacyjnych, z których oceny są przeliczane na punkty;
 
-- skład  i szczegółowe  zadania  komisji  rekrutacyjnej,  o której  mowa  w art. 157, oraz szczegółowy tryb przeprowadzania postępowania rekrutacyjnego i postępowania uzupełniającego, uwzględniając konieczność zapewnienia bezstronnego  wykonywania  zadań  przez  komisję  rekrutacyjną,  dokonania weryfikacji  spełniania  przez  kandydata  warunków  lub  kryteriów  branych  pod uwagę  w postępowaniu  rekrutacyjnym  i postępowaniu  uzupełniającym  oraz właściwego dokumentowania postępowania rekrutacyjnego i postępowania uzupełniającego.
+3) skład i szczegółowe zadania komisji rekrutacyjnej, o której mowa w art. 157, oraz szczegółowy tryb przeprowadzania postępowania rekrutacyjnego i postępowania uzupełniającego, uwzględniając konieczność zapewnienia bezstronnego wykonywania zadań przez komisję rekrutacyjną, dokonania weryfikacji spełniania przez kandydata warunków lub kryteriów branych pod uwagę w postępowaniu rekrutacyjnym i postępowaniu uzupełniającym oraz właściwego dokumentowania postępowania rekrutacyjnego i postępowania uzupełniającego.
 
 ##### Art. 163.
 1. Przepisów niniejszego rozdziału nie stosuje się do szkół prowadzonych przez ministra właściwego do spraw wewnętrznych, o których mowa w przepisach wydanych na podstawie art. 49.
@@ -5966,22 +5991,22 @@ Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporząd
 
 s. 192/216
 
-2. Warunki i tryb  przyjmowania  do  szkół,  o których  mowa  w ust. 1,  określają przepisy wydane na podstawie art. 112 ust. 4 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2018 r. poz. 1313, 1592 i 1669 oraz z 2019 r. poz. 730).
+2. Warunki i tryb przyjmowania do szkół, o których mowa w ust. 1, określają przepisy wydane na podstawie art. 112 ust. 4 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2018 r. poz. 1313, 1592 i 1669 oraz z 2019 r. poz. 730).
 
 ##### Art. 164.
 1. W przypadku przechodzenia ucznia ze:
 
-- szkoły  publicznej,  publicznej  szkoły  artystycznej,  szkoły  niepublicznej  lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej - do szkoły publicznej innego typu,
+1) szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej – do szkoły publicznej innego typu,
 
-- szkoły publicznej lub szkoły niepublicznej - do szkoły publicznej tego samego typu
+2) szkoły publicznej lub szkoły niepublicznej – do szkoły publicznej tego samego typu
 
-- o przyjęciu ucznia do danej szkoły decyduje dyrektor szkoły; przepis art. 130 ust. 3 stosuje się odpowiednio.
+– o przyjęciu ucznia do danej szkoły decyduje dyrektor szkoły; przepis art. 130 ust. 3 stosuje się odpowiednio.
 
-2. Uczeń  przechodzący  ze  szkoły  publicznej,  publicznej  szkoły  artystycznej, szkoły  niepublicznej,  niepublicznej  szkoły  artystycznej  o uprawnieniach  publicznej szkoły  artystycznej,  do  szkoły  publicznej  innego  typu  albo  szkoły  publicznej  tego samego typu, o której mowa w ust. 1, jest przyjmowany do odpowiedniej klasy lub na odpowiedni  semestr  szkoły  publicznej  innego  typu  albo  tego  samego  typu,  po dokonaniu  oceny  zakresu  kształcenia  zrealizowanego  w szkole,  do  której  uczeń uczęszczał,  na  podstawie  kopii  arkusza  ocen  ucznia,  poświadczonej  za  zgodność z oryginałem przez dyrektora szkoły, do której uczeń uczęszczał, lub na podstawie zaświadczenia o przebiegu nauczania ucznia, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 7.
+2. Uczeń przechodzący ze szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej, niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej, do szkoły publicznej innego typu albo szkoły publicznej tego samego typu, o której mowa w ust. 1, jest przyjmowany do odpowiedniej klasy lub na odpowiedni semestr szkoły publicznej innego typu albo tego samego typu, po dokonaniu oceny zakresu kształcenia zrealizowanego w szkole, do której uczeń uczęszczał, na podstawie kopii arkusza ocen ucznia, poświadczonej za zgodność z oryginałem przez dyrektora szkoły, do której uczeń uczęszczał, lub na podstawie zaświadczenia o przebiegu nauczania ucznia, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 7.
 
 3. W przypadku przechodzenia ucznia ze szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej, jednego typu do szkoły publicznej innego typu można przeprowadzić egzamin klasyfikacyjny. Egzamin klasyfikacyjny przeprowadza się zgodnie z art. 44l ustawy o systemie oświaty i przepisami wydanymi na podstawie art. 44zb ustawy o systemie oświaty.
 
-4. Uczeń niepublicznej szkoły artystycznej nieposiadającej uprawnień publicznej szkoły  artystycznej  jest  przyjmowany  do  odpowiedniej  klasy  lub  na  odpowiedni semestr szkoły publicznej po zdaniu egzaminów klasyfikacyjnych. Egzamin klasyfikacyjny przeprowadza  się zgodnie z art. 44l ustawy  o systemie oświaty i przepisami wydanymi na podstawie art. 44zb ustawy o systemie oświaty.
+4. Uczeń niepublicznej szkoły artystycznej nieposiadającej uprawnień publicznej szkoły artystycznej jest przyjmowany do odpowiedniej klasy lub na odpowiedni semestr szkoły publicznej po zdaniu egzaminów klasyfikacyjnych. Egzamin klasyfikacyjny przeprowadza się zgodnie z art. 44l ustawy o systemie oświaty i przepisami wydanymi na podstawie art. 44zb ustawy o systemie oświaty.
 
 02.12.2019
 
@@ -5995,20 +6020,20 @@ s. 193/216
 
 5. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
-- szczegółowe warunki przechodzenia ucznia szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej - do szkoły publicznej innego typu albo szkoły publicznej tego samego typu, o którym mowa w ust. 1,
+1) szczegółowe warunki przechodzenia ucznia szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej – do szkoły publicznej innego typu albo szkoły publicznej tego samego typu, o którym mowa w ust. 1,
 
-- przypadki, w których uczeń szkoły publicznej, publicznej szkoły artystycznej, szkoły  niepublicznej  lub  niepublicznej  szkoły  artystycznej  o uprawnieniach publicznej szkoły artystycznej - może być przyjęty do szkoły publicznej innego typu do klasy programowo wyższej, a w przypadku branżowej szkoły II stopnia, szkoły policealnej i szkoły dla dorosłych - na semestr programowo wyższy, niż to wynika z kopii arkusza ocen ucznia lub zaświadczenia o przebiegu nauczania ucznia, o których mowa w ust. 2
+2) przypadki, w których uczeń szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej – może być przyjęty do szkoły publicznej innego typu do klasy programowo wyższej, a w przypadku branżowej szkoły II stopnia, szkoły policealnej i szkoły dla dorosłych – na semestr programowo wyższy, niż to wynika z kopii arkusza ocen ucznia lub zaświadczenia o przebiegu nauczania ucznia, o których mowa w ust. 2
 
-- uwzględniając potrzebę uzupełnienia różnic programowych przez uczniów, w tym kontynuowania nauki języka obcego nowożytnego.
+– uwzględniając potrzebę uzupełnienia różnic programowych przez uczniów, w tym kontynuowania nauki języka obcego nowożytnego.
 
 ### Rozdział 7
 
 #### Kształcenie osób przybywających z zagranicy
 
 ##### Art. 165.
-1. Osoby niebędące obywatelami polskimi korzystają z nauki i opieki w publicznych przedszkolach lub publicznych innych formach wychowania przedszkolnego, a także w niepublicznych przedszkolach, o których mowa w art. 17 ust.  1  ustawy  o  finansowaniu  zadań  oświatowych,  oddziałach  przedszkolnych  w niepublicznych szkołach podstawowych, o których mowa w art. 19 ust. 1 ustawy o finansowaniu  zadań  oświatowych,  i  niepublicznych  innych  formach  wychowania przedszkolnego,  o  których  mowa  w  art.  21  ust.  1  ustawy  o  finansowaniu  zadań oświatowych, a podlegające obowiązkowi szkolnemu, korzystają z nauki i opieki w publicznych  szkołach  podstawowych,  publicznych  szkołach  artystycznych  oraz w publicznych placówkach, w tym placówkach artystycznych, na warunkach dotyczących obywateli polskich.
+1. Osoby niebędące obywatelami polskimi korzystają z nauki i opieki w publicznych przedszkolach lub publicznych innych formach wychowania przedszkolnego, a także w niepublicznych przedszkolach, o których mowa w art. 17 ust. 1 ustawy o finansowaniu zadań oświatowych, oddziałach przedszkolnych w niepublicznych szkołach podstawowych, o których mowa w art. 19 ust. 1 ustawy o finansowaniu zadań oświatowych, i niepublicznych innych formach wychowania przedszkolnego, o których mowa w art. 21 ust. 1 ustawy o finansowaniu zadań oświatowych, a podlegające obowiązkowi szkolnemu, korzystają z nauki i opieki w publicznych szkołach podstawowych, publicznych szkołach artystycznych oraz w publicznych placówkach, w tym placówkach artystycznych, na warunkach dotyczących obywateli polskich.
 
-2. Osoby  niebędące  obywatelami  polskimi,  podlegające  obowiązkowi  nauki, korzystają z nauki i opieki w publicznych szkołach ponadpodstawowych na warunkach  dotyczących  obywateli  polskich  do  ukończenia  18 lat  lub  ukończenia szkoły ponadpodstawowej.
+2. Osoby niebędące obywatelami polskimi, podlegające obowiązkowi nauki, korzystają z nauki i opieki w publicznych szkołach ponadpodstawowych na warunkach dotyczących obywateli polskich do ukończenia 18 lat lub ukończenia szkoły ponadpodstawowej.
 
 02.12.2019
 
@@ -6020,35 +6045,35 @@ s. 193/216
 
 s. 194/216
 
-3. Na warunkach dotyczących obywateli polskich z nauki w publicznych szkołach  dla  dorosłych,  publicznych  branżowych  szkołach  II  stopnia,  publicznych szkołach policealnych, publicznych szkołach artystycznych, publicznych placówkach i publicznych kolegiach pracowników służb społecznych oraz z kształcenia ustawicznego w formie kwalifikacyjnych kursów zawodowych korzystają:
+3. Na warunkach dotyczących obywateli polskich z nauki w publicznych szkołach dla dorosłych, publicznych branżowych szkołach II stopnia, publicznych szkołach policealnych, publicznych szkołach artystycznych, publicznych placówkach i publicznych kolegiach pracowników służb społecznych oraz z kształcenia ustawicznego w formie kwalifikacyjnych kursów zawodowych korzystają:
 
-- obywatele państw członkowskich Unii Europejskiej, państwa członkowskiego Europejskiego  Stowarzyszenia  o Wolnym  Handlu  (EFTA)  -  strony  umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, a także członkowie ich rodzin posiadający prawo pobytu lub prawo stałego pobytu;
+1) obywatele państw członkowskich Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, a także członkowie ich rodzin posiadający prawo pobytu lub prawo stałego pobytu;
 
-- osoby pochodzenia polskiego w rozumieniu przepisów o repatriacji;
+2) osoby pochodzenia polskiego w rozumieniu przepisów o repatriacji;
 
-- osoby, którym udzielono zezwolenia na pobyt stały na terytorium Rzeczypospolitej Polskiej;
+3) osoby, którym udzielono zezwolenia na pobyt stały na terytorium Rzeczypospolitej Polskiej;
 
-- osoby posiadające ważną Kartę Polaka;
+4) osoby posiadające ważną Kartę Polaka;
 
-- osoby, dla których uprawnienie takie wynika z umów międzynarodowych;
+5) osoby, dla których uprawnienie takie wynika z umów międzynarodowych;
 
-- osoby, którym nadano status uchodźcy, oraz członkowie ich rodzin;
+6) osoby, którym nadano status uchodźcy, oraz członkowie ich rodzin;
 
-- osoby posiadające zgodę na pobyt tolerowany;
+7) osoby posiadające zgodę na pobyt tolerowany;
 
-- osoby,  którym  udzielono  zgody  na  pobyt  ze  względów  humanitarnych,  oraz członkowie ich rodzin;
+8) osoby, którym udzielono zgody na pobyt ze względów humanitarnych, oraz członkowie ich rodzin;
 
-- osoby, którym udzielono ochrony uzupełniającej, oraz członkowie ich rodzin;
+9) osoby, którym udzielono ochrony uzupełniającej, oraz członkowie ich rodzin;
 
-- osoby korzystające z ochrony czasowej na terytorium Rzeczypospolitej Polskiej;
+10) osoby korzystające z ochrony czasowej na terytorium Rzeczypospolitej Polskiej;
 
-- osoby, którym na terytorium Rzeczypospolitej Polskiej udzielono zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej;
+11) osoby, którym na terytorium Rzeczypospolitej Polskiej udzielono zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej;
 
-- osoby, którym na terytorium Rzeczypospolitej Polskiej udzielono zezwolenia na pobyt czasowy w związku z okolicznością, o której mowa w art. 127, art. 159 ust. 1,  art. 176  lub  art. 186 ust. 1 pkt 3  lub  4  ustawy  z dnia  12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2018 r. poz. 2094 i 2399 oraz z 2019 r. poz. 577 i 622);
+12) osoby, którym na terytorium Rzeczypospolitej Polskiej udzielono zezwolenia na pobyt czasowy w związku z okolicznością, o której mowa w art. 127, art. 159 ust. 1, art. 176 lub art. 186 ust. 1 pkt 3 lub 4 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2018 r. poz. 2094 i 2399 oraz z 2019 r. poz. 577 i 622);
 
-- osoby, które ubiegają się o udzielenie ochrony międzynarodowej, oraz członkowie ich rodzin;
+13) osoby, które ubiegają się o udzielenie ochrony międzynarodowej, oraz członkowie ich rodzin;
 
-- osoby, które posiadają kartę pobytu z adnotacją 'dostęp do rynku pracy', wizę Schengen lub wizę krajową wydaną w celu wykonywania pracy na terytorium Rzeczypospolitej Polskiej.
+14) osoby, które posiadają kartę pobytu z adnotacją „dostęp do rynku pracy”, wizę Schengen lub wizę krajową wydaną w celu wykonywania pracy na terytorium Rzeczypospolitej Polskiej.
 
 4. Za członków rodzin osób, o których mowa w ust. 3:
 
@@ -6062,23 +6087,23 @@ s. 194/216
 
 s. 195/216
 
-- pkt 1 - uważa się osoby, o których mowa w art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r.  o wjeździe  na  terytorium  Rzeczypospolitej  Polskiej,  pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2019 r. poz. 293);
+1) pkt 1 – uważa się osoby, o których mowa w art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2019 r. poz. 293);
 
-- pkt  6,  8,  9  i 13 -  uważa  się  małżonka  oraz  małoletnie  dzieci  tych  osób niepozostające w związku małżeńskim i będące na ich utrzymaniu, a w przypadku małoletnich osób, o których mowa  w pkt 6  i 9, także ich wstępnego w linii prostej lub osobę pełnoletnią odpowiedzialną za małoletniego zgodnie z prawem obowiązującym w Rzeczypospolitej Polskiej.
+2) pkt 6, 8, 9 i 13 – uważa się małżonka oraz małoletnie dzieci tych osób niepozostające w związku małżeńskim i będące na ich utrzymaniu, a w przypadku małoletnich osób, o których mowa w pkt 6 i 9, także ich wstępnego w linii prostej lub osobę pełnoletnią odpowiedzialną za małoletniego zgodnie z prawem obowiązującym w Rzeczypospolitej Polskiej.
 
-5. Osoby niebędące obywatelami polskimi niewymienione w ust. 3 mogą korzystać  z nauki  w publicznych  szkołach  dla  dorosłych,  publicznych  szkołach policealnych, publicznych szkołach artystycznych, publicznych placówkach i publicznych kolegiach pracowników służb społecznych oraz z kształcenia ustawicznego w formie kwalifikacyjnych kursów zawodowych:
+5. Osoby niebędące obywatelami polskimi niewymienione w ust. 3 mogą korzystać z nauki w publicznych szkołach dla dorosłych, publicznych szkołach policealnych, publicznych szkołach artystycznych, publicznych placówkach i publicznych kolegiach pracowników służb społecznych oraz z kształcenia ustawicznego w formie kwalifikacyjnych kursów zawodowych:
 
-- jako stypendyści otrzymujący stypendium przyznane przez ministra właściwego do spraw oświaty i wychowania;
+1) jako stypendyści otrzymujący stypendium przyznane przez ministra właściwego do spraw oświaty i wychowania;
 
-- jako stypendyści otrzymujący stypendium przyznane przez organ prowadzący szkołę lub placówkę, przez dyrektora szkoły lub placówki;
+2) jako stypendyści otrzymujący stypendium przyznane przez organ prowadzący szkołę lub placówkę, przez dyrektora szkoły lub placówki;
 
-- na warunkach odpłatności.
+3) na warunkach odpłatności.
 
 6. Wysokość odpłatności za korzystanie z nauki w publicznych szkołach, placówkach i kolegiach pracowników służb społecznych oraz za kształcenie ustawiczne w formie kwalifikacyjnych kursów zawodowych, o której mowa w ust. 5 pkt 3, oraz sposób wnoszenia opłat ustala organ prowadzący, uwzględniając przewidywane koszty kształcenia lub koszty udzielanych świadczeń oraz możliwość całkowitego lub częściowego zwolnienia z tej odpłatności.
 
-7. Osoby niebędące obywatelami polskimi, podlegające obowiązkowi szkolnemu lub obowiązkowi nauki, które nie znają języka polskiego albo znają go na poziomie  niewystarczającym  do  korzystania  z nauki,  mają  prawo  do  dodatkowej, bezpłatnej nauki języka polskiego. Dodatkową naukę języka polskiego dla tych osób organizuje organ prowadzący szkołę.
+7. Osoby niebędące obywatelami polskimi, podlegające obowiązkowi szkolnemu lub obowiązkowi nauki, które nie znają języka polskiego albo znają go na poziomie niewystarczającym do korzystania z nauki, mają prawo do dodatkowej, bezpłatnej nauki języka polskiego. Dodatkową naukę języka polskiego dla tych osób organizuje organ prowadzący szkołę.
 
-8. Osoby,  o których  mowa  w ust. 7,  mają  prawo  do  pomocy  udzielanej  przez osobę  władającą  językiem  kraju  pochodzenia,  zatrudnioną  w charakterze  pomocy nauczyciela przez dyrektora szkoły. Pomocy tej udziela się nie dłużej niż przez okres 12 miesięcy.
+8. Osoby, o których mowa w ust. 7, mają prawo do pomocy udzielanej przez osobę władającą językiem kraju pochodzenia, zatrudnioną w charakterze pomocy nauczyciela przez dyrektora szkoły. Pomocy tej udziela się nie dłużej niż przez okres 12 miesięcy.
 
 02.12.2019
 
@@ -6090,19 +6115,19 @@ s. 195/216
 
 s. 196/216
 
-9. Uprawnienie, o którym mowa w ust. 7, przysługuje także osobom będącym obywatelami  polskimi,  podlegającym  obowiązkowi  szkolnemu  lub  obowiązkowi nauki, które nie znają języka polskiego albo znają go na poziomie niewystarczającym do korzystania z nauki; osoby te korzystają z uprawnienia, o którym mowa w ust. 7, nie dłużej niż przez okres 12 miesięcy.
+9. Uprawnienie, o którym mowa w ust. 7, przysługuje także osobom będącym obywatelami polskimi, podlegającym obowiązkowi szkolnemu lub obowiązkowi nauki, które nie znają języka polskiego albo znają go na poziomie niewystarczającym do korzystania z nauki; osoby te korzystają z uprawnienia, o którym mowa w ust. 7, nie dłużej niż przez okres 12 miesięcy.
 
-10. Osoby, o których mowa w ust. 7 i 9, mogą korzystać z dodatkowych zajęć wyrównawczych  w zakresie  przedmiotów  nauczania  organizowanych  przez  organ prowadzący szkołę, nie dłużej jednak niż przez okres 12 miesięcy.
+10. Osoby, o których mowa w ust. 7 i 9, mogą korzystać z dodatkowych zajęć wyrównawczych w zakresie przedmiotów nauczania organizowanych przez organ prowadzący szkołę, nie dłużej jednak niż przez okres 12 miesięcy.
 
-11. Dla  osób,  o których  mowa  w ust. 7  i 9,  które  wymagają  dostosowania procesu kształcenia do ich potrzeb i możliwości edukacyjnych, a także dostosowania formy organizacyjnej wspomagającej efektywność ich kształcenia, organ prowadzący szkołę  może  zorganizować  oddział  przygotowawczy  w szkole,  w której  te  osoby realizują naukę zgodnie z podstawą programową kształcenia ogólnego.
+11. Dla osób, o których mowa w ust. 7 i 9, które wymagają dostosowania procesu kształcenia do ich potrzeb i możliwości edukacyjnych, a także dostosowania formy organizacyjnej wspomagającej efektywność ich kształcenia, organ prowadzący szkołę może zorganizować oddział przygotowawczy w szkole, w której te osoby realizują naukę zgodnie z podstawą programową kształcenia ogólnego.
 
-12. Do  oddziału  przygotowawczego,  na  wniosek  rodzica,  za  zgodą  organu prowadzącego  szkołę,  w której utworzono  ten  oddział,  w ramach  posiadanych środków,  mogą  uczęszczać  uczniowie  innej  szkoły,  z uwzględnieniem  przepisów art. 39 ust. 2-4a.
+12. Do oddziału przygotowawczego, na wniosek rodzica, za zgodą organu prowadzącego szkołę, w której utworzono ten oddział, w ramach posiadanych środków, mogą uczęszczać uczniowie innej szkoły, z uwzględnieniem przepisów art. 39 ust. 2–4a.
 
-13. Okres nauki ucznia w oddziale przygotowawczym trwa do zakończenia zajęć dydaktyczno-wychowawczych w roku szkolnym, w którym uczeń został zakwalifikowany do oddziału przygotowawczego, z tym że okres ten w zależności od postępów  w nauce  ucznia  i jego  potrzeb  edukacyjnych  może  zostać  skrócony  albo przedłużony, nie dłużej niż o jeden rok szkolny.
+13. Okres nauki ucznia w oddziale przygotowawczym trwa do zakończenia zajęć dydaktyczno-wychowawczych w roku szkolnym, w którym uczeń został zakwalifikowany do oddziału przygotowawczego, z tym że okres ten w zależności od postępów w nauce ucznia i jego potrzeb edukacyjnych może zostać skrócony albo przedłużony, nie dłużej niż o jeden rok szkolny.
 
-14. Oddziału  przygotowawczego nie organizuje  się  w szkołach  artystycznych, szkołach specjalnych, szkołach sportowych, szkołach mistrzostwa sportowego, szkołach dla dorosłych, szkołach policealnych i branżowych szkołach II stopnia.
+14. Oddziału przygotowawczego nie organizuje się w szkołach artystycznych, szkołach specjalnych, szkołach sportowych, szkołach mistrzostwa sportowego, szkołach dla dorosłych, szkołach policealnych i branżowych szkołach II stopnia.
 
-15. Dla osób niebędących obywatelami polskimi, podlegających obowiązkowi szkolnemu, placówka dyplomatyczna lub konsularna kraju ich pochodzenia działająca w Polsce albo stowarzyszenie kulturalno-oświatowe danej narodowości mogą organizować  w szkole,  w porozumieniu  z dyrektorem  szkoły  i za  zgodą  organu prowadzącego, naukę języka i kultury kraju pochodzenia. Szkoła udostępnia nieodpłatnie pomieszczenia i pomoce dydaktyczne.
+15. Dla osób niebędących obywatelami polskimi, podlegających obowiązkowi szkolnemu, placówka dyplomatyczna lub konsularna kraju ich pochodzenia działająca w Polsce albo stowarzyszenie kulturalno-oświatowe danej narodowości mogą organizować w szkole, w porozumieniu z dyrektorem szkoły i za zgodą organu prowadzącego, naukę języka i kultury kraju pochodzenia. Szkoła udostępnia nieodpłatnie pomieszczenia i pomoce dydaktyczne.
 
 02.12.2019
 
@@ -6116,16 +6141,16 @@ s. 197/216
 
 16. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia:
 
-- warunki i tryb przyjmowania do publicznych przedszkoli, innych form wychowania przedszkolnego, szkół, w tym szkół artystycznych, placówek oraz na kształcenie ustawiczne w formie kwalifikacyjnych kursów zawodowych osób niebędących  obywatelami  polskimi  oraz  obywateli  polskich,  którzy  pobierali naukę w szkołach funkcjonujących w systemach oświaty innych państw, a także rodzaje  dokumentów  potwierdzających  poziom  wykształcenia  i stan  zdrowia tych osób oraz sposób kwalifikowania do odpowiedniej klasy lub na odpowiedni semestr,  uwzględniając  odpowiednio  warunki  i tryb  przyjmowania,  o których mowa w rozdziale 6, a także uwzględniając brak znajomości języka polskiego przez kandydata lub brak możliwości przedłożenia przez kandydata dokumentów stwierdzających ukończenie za granicą szkoły lub kolejnego etapu edukacji;
+1) warunki i tryb przyjmowania do publicznych przedszkoli, innych form wychowania przedszkolnego, szkół, w tym szkół artystycznych, placówek oraz na kształcenie ustawiczne w formie kwalifikacyjnych kursów zawodowych osób niebędących obywatelami polskimi oraz obywateli polskich, którzy pobierali naukę w szkołach funkcjonujących w systemach oświaty innych państw, a także rodzaje dokumentów potwierdzających poziom wykształcenia i stan zdrowia tych osób oraz sposób kwalifikowania do odpowiedniej klasy lub na odpowiedni semestr, uwzględniając odpowiednio warunki i tryb przyjmowania, o których mowa w rozdziale 6, a także uwzględniając brak znajomości języka polskiego przez kandydata lub brak możliwości przedłożenia przez kandydata dokumentów stwierdzających ukończenie za granicą szkoły lub kolejnego etapu edukacji;
 
-- warunki  tworzenia,  organizacji  oraz  działania  oddziału  przygotowawczego, o którym mowa w ust. 11, uwzględniając dostosowanie procesu kształcenia do potrzeb i możliwości edukacyjnych uczniów, w szczególności poprzez odpowiednią organizację zajęć dydaktycznych oraz naukę języka polskiego;
+2) warunki tworzenia, organizacji oraz działania oddziału przygotowawczego, o którym mowa w ust. 11, uwzględniając dostosowanie procesu kształcenia do potrzeb i możliwości edukacyjnych uczniów, w szczególności poprzez odpowiednią organizację zajęć dydaktycznych oraz naukę języka polskiego;
 
-- sposób  organizacji  dodatkowej  nauki  języka  polskiego  i dodatkowych  zajęć wyrównawczych w zakresie przedmiotów nauczania, o których mowa w ust. 7, 9  i 10,  a także  sposób  organizacji  nauki  języka  i kultury  kraju  pochodzenia, o której mowa w ust. 15, z uwzględnieniem wymiaru godzin zajęć i minimalnej liczby osób, dla których organizuje się naukę języka i kultury kraju pochodzenia;
+3) sposób organizacji dodatkowej nauki języka polskiego i dodatkowych zajęć wyrównawczych w zakresie przedmiotów nauczania, o których mowa w ust. 7, 9 i 10, a także sposób organizacji nauki języka i kultury kraju pochodzenia, o której mowa w ust. 15, z uwzględnieniem wymiaru godzin zajęć i minimalnej liczby osób, dla których organizuje się naukę języka i kultury kraju pochodzenia;
 
-- wysokość stypendium dla osób, o których mowa w ust. 5 pkt 1, oraz przypadki, w których stypendium może być obniżone lub zawieszone, biorąc pod uwagę wysokość stypendium Prezesa Rady Ministrów, o którym mowa w przepisach wydanych na podstawie art. 90k ustawy o systemie oświaty.
+4) wysokość stypendium dla osób, o których mowa w ust. 5 pkt 1, oraz przypadki, w których stypendium może być obniżone lub zawieszone, biorąc pod uwagę wysokość stypendium Prezesa Rady Ministrów, o którym mowa w przepisach wydanych na podstawie art. 90k ustawy o systemie oświaty.
 
 ##### Art. 166.
-1. W przypadkach uzasadnionych warunkami demograficznymi, jeżeli przyjęcie  osób,  o których  mowa  w art. 165 ust. 7  i 9,  podlegających  obowiązkowi szkolnemu wymaga przeprowadzenia zmian organizacyjnych pracy szkoły, w której obwodzie te osoby mieszkają, organ wykonawczy jednostki samorządu terytorialnego prowadzącej  szkołę  podstawową  może  wskazać  jako  miejsce  realizacji  obowiązku szkolnego:
+1. W przypadkach uzasadnionych warunkami demograficznymi, jeżeli przyjęcie osób, o których mowa w art. 165 ust. 7 i 9, podlegających obowiązkowi szkolnemu wymaga przeprowadzenia zmian organizacyjnych pracy szkoły, w której obwodzie te osoby mieszkają, organ wykonawczy jednostki samorządu terytorialnego prowadzącej szkołę podstawową może wskazać jako miejsce realizacji obowiązku szkolnego:
 
 02.12.2019
 
@@ -6137,31 +6162,31 @@ s. 197/216
 
 s. 198/216
 
-- inną publiczną szkołę podstawową prowadzoną przez tę jednostkę samorządu terytorialnego;
+1) inną publiczną szkołę podstawową prowadzoną przez tę jednostkę samorządu terytorialnego;
 
-- publiczną  szkołę  podstawową  prowadzoną  przez  inną  jednostkę  samorządu terytorialnego, po zawarciu porozumienia z tą jednostką samorządu terytorialnego.
+2) publiczną szkołę podstawową prowadzoną przez inną jednostkę samorządu terytorialnego, po zawarciu porozumienia z tą jednostką samorządu terytorialnego.
 
-2. W przypadku braku możliwości wskazania jako miejsca realizacji obowiązku szkolnego  szkół,  o których  mowa  w ust. 1,  na  wniosek  organu  wykonawczego jednostki samorządu terytorialnego prowadzącej szkołę podstawową, w której obwodzie  mieszkają  osoby,  o których  mowa  w art. 165 ust. 7  i 9,  kurator  oświaty wskazuje szkołę podstawową, w której te osoby będą realizować obowiązek szkolny.
+2. W przypadku braku możliwości wskazania jako miejsca realizacji obowiązku szkolnego szkół, o których mowa w ust. 1, na wniosek organu wykonawczego jednostki samorządu terytorialnego prowadzącej szkołę podstawową, w której obwodzie mieszkają osoby, o których mowa w art. 165 ust. 7 i 9, kurator oświaty wskazuje szkołę podstawową, w której te osoby będą realizować obowiązek szkolny.
 
-3. W przypadkach, o których mowa w ust. 1 i 2, przepisów art. 130 ust. 2 i 5 nie stosuje się, a przepisy art. 39 ust. 2-4a stosuje się odpowiednio.
+3. W przypadkach, o których mowa w ust. 1 i 2, przepisów art. 130 ust. 2 i 5 nie stosuje się, a przepisy art. 39 ust. 2–4a stosuje się odpowiednio.
 
 ##### Art. 167.
-Minister  właściwy  do  spraw  oświaty  i wychowania  może  wspierać działania z zakresu międzynarodowej współpracy dzieci i młodzieży, w tym poprzez ich  dofinansowanie,  z uwzględnieniem  rocznych  i wieloletnich  planów  współpracy zagranicznej ministra właściwego do spraw oświaty i wychowania.
+Minister właściwy do spraw oświaty i wychowania może wspierać działania z zakresu międzynarodowej współpracy dzieci i młodzieży, w tym poprzez ich dofinansowanie, z uwzględnieniem rocznych i wieloletnich planów współpracy zagranicznej ministra właściwego do spraw oświaty i wychowania.
 
 ### Rozdział 8
 
 #### Szkoły i placówki niepubliczne
 
 ##### Art. 168.
-1.  Osoby prawne i osoby fizyczne mogą zakładać szkoły i placówki niepubliczne po uzyskaniu wpisu do ewidencji prowadzonej przez jednostkę samorządu terytorialnego obowiązaną do prowadzenia odpowiedniego typu publicznych szkół i placówek.
+1. Osoby prawne i osoby fizyczne mogą zakładać szkoły i placówki niepubliczne po uzyskaniu wpisu do ewidencji prowadzonej przez jednostkę samorządu terytorialnego obowiązaną do prowadzenia odpowiedniego typu publicznych szkół i placówek.
 
-2. Osoby prawne i osoby fizyczne mogą zakładać niepubliczne szkoły artystyczne  po  uzyskaniu  wpisu  do  ewidencji  prowadzonej  przez  specjalistyczną jednostkę nadzoru, o której mowa w art. 53 ust. 1.
+2. Osoby prawne i osoby fizyczne mogą zakładać niepubliczne szkoły artystyczne po uzyskaniu wpisu do ewidencji prowadzonej przez specjalistyczną jednostkę nadzoru, o której mowa w art. 53 ust. 1.
 
-3. Minister  właściwy  do  spraw  kultury  i ochrony  dziedzictwa  narodowego, w drodze rozporządzenia, może  powierzyć specjalistycznej jednostce nadzoru, o której mowa w art. 53 ust. 1, wydawanie decyzji, o których mowa w art. 176 ust. 4 i art. 179.
+3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w drodze rozporządzenia, może powierzyć specjalistycznej jednostce nadzoru, o której mowa w art. 53 ust. 1, wydawanie decyzji, o których mowa w art. 176 ust. 4 i art. 179.
 
 4. Zgłoszenie do ewidencji zawiera:
 
-- oznaczenie  osoby  zamierzającej  prowadzić  szkołę  lub  placówkę,  jej  miejsca zamieszkania lub siedziby;
+1) oznaczenie osoby zamierzającej prowadzić szkołę lub placówkę, jej miejsca zamieszkania lub siedziby;
 
 02.12.2019
 
@@ -6173,27 +6198,27 @@ Minister  właściwy  do  spraw  oświaty  i wychowania  może  wspierać dział
 
 s. 199/216
 
-- określenie  odpowiednio  typu  lub  rodzaju  szkoły  lub  placówki  oraz  daty rozpoczęcia jej funkcjonowania, a w przypadku szkoły prowadzącej kształcenie zawodowe  -  nazw  zawodów,  w których  szkoła  będzie  kształcić,  zgodnych z nazwami zawodów określonych w klasyfikacji zawodów szkolnictwa branżowego albo w klasyfikacji zawodów szkolnictwa artystycznego;
+2) określenie odpowiednio typu lub rodzaju szkoły lub placówki oraz daty rozpoczęcia jej funkcjonowania, a w przypadku szkoły prowadzącej kształcenie zawodowe – nazw zawodów, w których szkoła będzie kształcić, zgodnych z nazwami zawodów określonych w klasyfikacji zawodów szkolnictwa branżowego albo w klasyfikacji zawodów szkolnictwa artystycznego;
 
-- 2a) w przypadku szkoły podstawowej lub liceum ogólnokształcącego - informację, czy szkoła jest przeznaczona dla dzieci i młodzieży czy dla dorosłych;
+2a) w przypadku szkoły podstawowej lub liceum ogólnokształcącego – informację, czy szkoła jest przeznaczona dla dzieci i młodzieży czy dla dorosłych;
 
-- 2b) w przypadku szkoły podstawowej -informację, czy w szkole będzie zorganizowany oddział przedszkolny lub oddziały przedszkolne; >
+2b) w przypadku szkoły podstawowej – informację, czy w szkole będzie zorganizowany oddział przedszkolny lub oddziały przedszkolne;>
 
-- wskazanie adresu siedziby szkoły lub placówki oraz innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych, jeżeli ich utworzenie jest przewidywane, przy czym inne lokalizacje muszą znajdować się na terenie jednostki samorządu terytorialnego dokonującej wpisu do ewidencji, a w przypadku  szkoły  artystycznej  na  terenie  tej  samej  miejscowości,  a także informację o warunkach lokalowych zapewniających:
+3) wskazanie adresu siedziby szkoły lub placówki oraz innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych, jeżeli ich utworzenie jest przewidywane, przy czym inne lokalizacje muszą znajdować się na terenie jednostki samorządu terytorialnego dokonującej wpisu do ewidencji, a w przypadku szkoły artystycznej na terenie tej samej miejscowości, a także informację o warunkach lokalowych zapewniających:
 
-- możliwość prowadzenia zajęć dydaktyczno-wychowawczych,
+a) możliwość prowadzenia zajęć dydaktyczno-wychowawczych,
 
-- realizację innych zadań statutowych,
+b) realizację innych zadań statutowych,
 
-- w  przypadku  szkoły  prowadzącej  kształcenie  zawodowe,  z wyjątkiem szkoły artystycznej - możliwość realizacji praktycznej nauki zawodu,
+c) w przypadku szkoły prowadzącej kształcenie zawodowe, z wyjątkiem szkoły artystycznej – możliwość realizacji praktycznej nauki zawodu,
 
-- bezpieczne  i higieniczne  warunki  nauki  i pracy,  spełniające  wymagania określone w przepisach w sprawie bezpieczeństwa i higieny w publicznych i niepublicznych szkołach i placówkach, przepisach o ochronie środowiska, przepisach o Państwowej  Inspekcji  Sanitarnej, przepisach  techniczno-budowlanych i przepisach  o ochronie  przeciwpożarowej;  spełnienie  tych wymagań  potwierdza  się  przez  dołączenie  do  zgłoszenia  odpowiednio pozytywnej  opinii  właściwego  państwowego  powiatowego  inspektora sanitarnego oraz pozytywnej opinii komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej;
+d) bezpieczne i higieniczne warunki nauki i pracy, spełniające wymagania określone w przepisach w sprawie bezpieczeństwa i higieny w publicznych i niepublicznych szkołach i placówkach, przepisach o ochronie środowiska, przepisach o Państwowej Inspekcji Sanitarnej, przepisach techniczno-budowlanych i przepisach o ochronie przeciwpożarowej; spełnienie tych wymagań potwierdza się przez dołączenie do zgłoszenia odpowiednio pozytywnej opinii właściwego państwowego powiatowego inspektora sanitarnego oraz pozytywnej opinii komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej;
 
-- statut szkoły lub placówki;
+4) statut szkoły lub placówki;
 
-- dane dotyczące kwalifikacji pracowników pedagogicznych i dyrektora, przewidzianych do zatrudnienia w szkole lub placówce;
+5) dane dotyczące kwalifikacji pracowników pedagogicznych i dyrektora, przewidzianych do zatrudnienia w szkole lub placówce;
 
-- zobowiązanie do przestrzegania wymagań określonych odpowiednio w:
+6) zobowiązanie do przestrzegania wymagań określonych odpowiednio w:
 
 02.12.2019
 
@@ -6205,23 +6230,23 @@ s. 199/216
 
 s. 200/216
 
-- art. 14 ust. 3 w przypadku szkoły niepublicznej niebędącej szkołą artystyczną,
+a) art. 14 ust. 3 – w przypadku szkoły niepublicznej niebędącej szkołą artystyczną,
 
-- art. 14 ust. 4 - w przypadku niepublicznej szkoły artystycznej realizującej kształcenie  ogólne,  której  z dniem  rozpoczęcia  działalności  mają  być nadane uprawnienia publicznej szkoły artystycznej;
+b) art. 14 ust. 4 – w przypadku niepublicznej szkoły artystycznej realizującej kształcenie ogólne, której z dniem rozpoczęcia działalności mają być nadane uprawnienia publicznej szkoły artystycznej;
 
-- 6a) w  przypadku  szkoły,  o której  mowa  w art. 178 ust. 1 -  informację  o zgodzie ministra właściwego do spraw oświaty i wychowania na założenie lub prowadzenie  szkoły  niepublicznej,  która  nie  spełnia  warunków  określonych w art. 14 ust. 3;
+6a) w przypadku szkoły, o której mowa w art. 178 ust. 1 – informację o zgodzie ministra właściwego do spraw oświaty i wychowania na założenie lub prowadzenie szkoły niepublicznej, która nie spełnia warunków określonych w art. 14 ust. 3;
 
-- dane  niezbędne  do  wpisania  szkoły  lub  placówki  do  krajowego  rejestru urzędowego podmiotów gospodarki narodowej.
+7) dane niezbędne do wpisania szkoły lub placówki do krajowego rejestru urzędowego podmiotów gospodarki narodowej.
 
-4a. Osoba fizyczna składająca zgłoszenie do ewidencji, o którym mowa w ust. 4, może  dołączyć  do  wniosku  pisemne  oświadczenie  wskazujące  osobę  fizyczną  lub osobę prawną inną niż jednostka samorządu terytorialnego, która przejmie prowadzenie szkoły lub placówki w przypadku zgonu osoby składającej zgłoszenie. Oświadczenie zawiera zgodę osoby fizycznej albo osoby prawnej, która ma przejąć prowadzenie szkoły lub placówki niepublicznej.
+4a. Osoba fizyczna składająca zgłoszenie do ewidencji, o którym mowa w ust. 4, może dołączyć do wniosku pisemne oświadczenie wskazujące osobę fizyczną lub osobę prawną inną niż jednostka samorządu terytorialnego, która przejmie prowadzenie szkoły lub placówki w przypadku zgonu osoby składającej zgłoszenie. Oświadczenie zawiera zgodę osoby fizycznej albo osoby prawnej, która ma przejąć prowadzenie szkoły lub placówki niepublicznej.
 
 4b. Oświadczenie, o którym mowa w ust. 4a, może zostać złożone przez osobę fizyczną również po uzyskaniu wpisu do ewidencji.
 
-5. Szkoła, o której mowa w ust. 4 pkt 6 lit. a, może zostać wpisana do ewidencji, jeżeli osoba zgłaszająca szkołę do ewidencji przedstawi pozytywną opinię kuratora oświaty,  a w przypadku  szkoły  prowadzącej  kształcenie  w zawodach,  dla  których zgodnie z klasyfikacją zawodów szkolnictwa branżowego, ministrem właściwym jest minister  właściwy  do  spraw  zdrowia  -  także  opinię  tego  ministra  o spełnieniu wymagań określonych w art. 14 ust. 3.
+5. Szkoła, o której mowa w ust. 4 pkt 6 lit. a, może zostać wpisana do ewidencji, jeżeli osoba zgłaszająca szkołę do ewidencji przedstawi pozytywną opinię kuratora oświaty, a w przypadku szkoły prowadzącej kształcenie w zawodach, dla których zgodnie z klasyfikacją zawodów szkolnictwa branżowego, ministrem właściwym jest minister właściwy do spraw zdrowia – także opinię tego ministra o spełnieniu wymagań określonych w art. 14 ust. 3.
 
-5a. Szkoła, o której mowa w ust. 4 pkt 6 lit. a, prowadząca kształcenie zawodowe, może zostać wpisana do ewidencji,  jeżeli  osoba  zgłaszająca  szkołę  do ewidencji przedstawi opinię wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 22 ust. 5 pkt 5 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
+5a. Szkoła, o której mowa w ust. 4 pkt 6 lit. a, prowadząca kształcenie zawodowe, może zostać wpisana do ewidencji, jeżeli osoba zgłaszająca szkołę do ewidencji przedstawi opinię wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 22 ust. 5 pkt 5 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
 
-5b.  Szkołę,  o której  mowa  w art. 178 ust. 1,  wpisuje  się  do  ewidencji  na podstawie zgody ministra właściwego do spraw oświaty i wychowania.
+5b. Szkołę, o której mowa w art. 178 ust. 1, wpisuje się do ewidencji na podstawie zgody ministra właściwego do spraw oświaty i wychowania.
 
 02.12.2019
 
@@ -6245,13 +6270,13 @@ s. 201/216
 
 11. Zaświadczenie o wpisie do ewidencji, o którym mowa w ust. 9 i 10, zawiera:
 
-- nazwę  organu  lub  podmiotu,  który  dokonał  wpisu  do  ewidencji  szkoły  lub placówki;
+1) nazwę organu lub podmiotu, który dokonał wpisu do ewidencji szkoły lub placówki;
 
-- datę i numer wpisu do ewidencji;
+2) datę i numer wpisu do ewidencji;
 
-- nazwę oraz odpowiednio typ lub rodzaj szkoły lub placówki;
+3) nazwę oraz odpowiednio typ lub rodzaj szkoły lub placówki;
 
-- osobę prawną lub fizyczną prowadzącą szkołę lub placówkę;
+4) osobę prawną lub fizyczną prowadzącą szkołę lub placówkę;
 
 02.12.2019
 
@@ -6263,23 +6288,23 @@ s. 201/216
 
 s. 202/216
 
-- adres szkoły lub placówki oraz innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych, jeżeli ich utworzenie zostało przewidziane;
+5) adres szkoły lub placówki oraz innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych, jeżeli ich utworzenie zostało przewidziane;
 
-- w  przypadku  szkoły  prowadzącej  kształcenie  zawodowe,  z wyjątkiem  szkoły artystycznej - nazwy zawodów, w których kształci szkoła;
+6) w przypadku szkoły prowadzącej kształcenie zawodowe, z wyjątkiem szkoły artystycznej – nazwy zawodów, w których kształci szkoła;
 
-- 6a) w przypadku szkoły artystycznej - nazwy zawodów oraz nazwy specjalności lub specjalizacji, w których kształci szkoła;
+6a) w przypadku szkoły artystycznej – nazwy zawodów oraz nazwy specjalności lub specjalizacji, w których kształci szkoła;
 
-- w przypadku niepublicznego przedszkola, niepublicznej szkoły podstawowej, w której  zorganizowano  oddział  przedszkolny,  lub  niepublicznej  innej  formy wychowania  przedszkolnego  -  informację  o  otrzymywaniu  dotacji,  o  której mowa odpowiednio w art. 17 ust. 1, art. 19 ust. 1 lub art. 21 ust. 1 ustawy o finansowaniu zadań oświatowych.
+7) w przypadku niepublicznego przedszkola, niepublicznej szkoły podstawowej, w której zorganizowano oddział przedszkolny, lub niepublicznej innej formy wychowania przedszkolnego – informację o otrzymywaniu dotacji, o której mowa odpowiednio w art. 17 ust. 1, art. 19 ust. 1 lub art. 21 ust. 1 ustawy o finansowaniu zadań oświatowych.
 
 12. Organ lub podmiot, o których mowa w ust. 1 i 2, wydają decyzje o odmowie wpisu do ewidencji, jeżeli:
 
-- zgłoszenie nie zawiera danych wymienionych w ust. 4 albo podane w nim dane są błędne i mimo wezwania nie zostało uzupełnione albo poprawione w wyznaczonym terminie;
+1) zgłoszenie nie zawiera danych wymienionych w ust. 4 albo podane w nim dane są błędne i mimo wezwania nie zostało uzupełnione albo poprawione w wyznaczonym terminie;
 
-- statut  szkoły  lub  placówki  jest  sprzeczny  z obowiązującym  prawem  i mimo wezwania nie został zmieniony.
+2) statut szkoły lub placówki jest sprzeczny z obowiązującym prawem i mimo wezwania nie został zmieniony.
 
-13. Osoba prowadząca szkołę lub placówkę jest obowiązana zgłosić organowi lub  podmiotowi,  o których  mowa  w ust. 1  i 2,  w ciągu  14 dni  zmiany  w danych zawartych w zgłoszeniu, powstałe po wpisie do ewidencji. Przepisy ust. 4-12 stosuje się odpowiednio.
+13. Osoba prowadząca szkołę lub placówkę jest obowiązana zgłosić organowi lub podmiotowi, o których mowa w ust. 1 i 2, w ciągu 14 dni zmiany w danych zawartych w zgłoszeniu, powstałe po wpisie do ewidencji. Przepisy ust. 4–12 stosuje się odpowiednio.
 
-14. W przypadku zmiany organu prowadzącego szkołę lub placówkę wniosek o zmianę danych, o których mowa w ust. 4 pkt 1, składa, nie później niż na miesiąc przed planowanym dniem zmiany organu prowadzącego, osoba dotychczas prowadząca szkołę lub placówkę. W przypadku zgonu osoby fizycznej prowadzącej szkołę lub placówkę wniosek składa osoba, która została wskazana w oświadczeniu, o którym mowa w ust. 4a lub 4b, w terminie 14 dni od dnia zgonu. Zmiana organu prowadzącego następuje z dniem dokonania wpisu tej zmiany do ewidencji. Przepisy ust. 4 pkt 1 i 4 oraz ust. 9-12 stosuje się odpowiednio.
+14. W przypadku zmiany organu prowadzącego szkołę lub placówkę wniosek o zmianę danych, o których mowa w ust. 4 pkt 1, składa, nie później niż na miesiąc przed planowanym dniem zmiany organu prowadzącego, osoba dotychczas prowadząca szkołę lub placówkę. W przypadku zgonu osoby fizycznej prowadzącej szkołę lub placówkę wniosek składa osoba, która została wskazana w oświadczeniu, o którym mowa w ust. 4a lub 4b, w terminie 14 dni od dnia zgonu. Zmiana organu prowadzącego następuje z dniem dokonania wpisu tej zmiany do ewidencji. Przepisy ust. 4 pkt 1 i 4 oraz ust. 9–12 stosuje się odpowiednio.
 
 02.12.2019
 
@@ -6298,25 +6323,25 @@ s. 203/216
 ##### Art. 169.
 1. Wpis do ewidencji podlega wykreśleniu w przypadkach:
 
-- niepodjęcia  działalności  przez  szkołę  lub  placówkę  w terminie  wskazanym w zgłoszeniu do ewidencji;
+1) niepodjęcia działalności przez szkołę lub placówkę w terminie wskazanym w zgłoszeniu do ewidencji;
 
-- prawomocnego  orzeczenia  sądu  zakazującego  osobie  fizycznej,  prowadzącej szkołę lub placówkę, prowadzenia działalności oświatowej;
+2) prawomocnego orzeczenia sądu zakazującego osobie fizycznej, prowadzącej szkołę lub placówkę, prowadzenia działalności oświatowej;
 
-- stwierdzenia,  w trybie  nadzoru  pedagogicznego,  że  działalność  szkoły  lub placówki  lub  organu  prowadzącego  tę  szkołę  lub  placówkę  jest  niezgodna z przepisami  niniejszej  ustawy,  ustawy  o systemie  oświaty,  wydanych  na  ich podstawie rozporządzeń lub statutem, w szczególności:
+3) stwierdzenia, w trybie nadzoru pedagogicznego, że działalność szkoły lub placówki lub organu prowadzącego tę szkołę lub placówkę jest niezgodna z przepisami niniejszej ustawy, ustawy o systemie oświaty, wydanych na ich podstawie rozporządzeń lub statutem, w szczególności:
 
-- nie jest wypełnione zobowiązanie, o którym mowa w art. 168 ust. 4 pkt 6, albo
+a) nie jest wypełnione zobowiązanie, o którym mowa w art. 168 ust. 4 pkt 6, albo
 
-- nie są spełnione warunki funkcjonowania szkoły określone zgodnie z art. 178 ust. 4
+b) nie są spełnione warunki funkcjonowania szkoły określone zgodnie z art. 178 ust. 4
 
-- jeżeli  szkoła  lub  placówka  lub  osoba  prowadząca  szkołę  lub  placówkę w wyznaczonym terminie nie zastosowała się do polecenia organu sprawującego nadzór pedagogiczny, o którym mowa w art. 180 ust. 2;
+– jeżeli szkoła lub placówka lub osoba prowadząca szkołę lub placówkę w wyznaczonym terminie nie zastosowała się do polecenia organu sprawującego nadzór pedagogiczny, o którym mowa w art. 180 ust. 2;
 
-- dokonania wpisu z naruszeniem prawa;
+4) dokonania wpisu z naruszeniem prawa;
 
-- zaprzestania  działalności  przez  szkołę  lub  placówkę  przez  okres  dłuższy  niż 3 miesiące.
+5) zaprzestania działalności przez szkołę lub placówkę przez okres dłuższy niż 3 miesiące.
 
 2. Wykreślenie z ewidencji następuje w drodze decyzji, w terminie określonym w decyzji i jest równoznaczne z likwidacją szkoły lub placówki.
 
-3. W przypadku  wykreślenia  z ewidencji,  o którym  mowa  w ust. 1 pkt 3 lit. b, organ lub podmiot, o których  mowa w art. 168 ust. 1 albo 2, powiadamiają o wykreśleniu szkoły odpowiednio ministra właściwego do spraw oświaty i wychowania  albo  ministra  właściwego  do  spraw  kultury  i ochrony  dziedzictwa narodowego.
+3. W przypadku wykreślenia z ewidencji, o którym mowa w ust. 1 pkt 3 lit. b, organ lub podmiot, o których mowa w art. 168 ust. 1 albo 2, powiadamiają o wykreśleniu szkoły odpowiednio ministra właściwego do spraw oświaty
 
 02.12.2019
 
@@ -6328,14 +6353,16 @@ s. 203/216
 
 s. 204/216
 
+i wychowania albo ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
+
 4. W przypadku wykreślenia z ewidencji, o którym mowa w ust. 1 pkt 3, przepisy art. 172 ust. 4 i 5, stosuje się odpowiednio.
 
 ##### Art. 170.
 1. Prowadzenie szkoły lub placówki, zespołu,  o którym  mowa w art. 182,  oraz  innej  formy  wychowania  przedszkolnego  nie  jest  działalnością gospodarczą.
 
-2. Działalność oświatowa nieobejmująca prowadzenia szkoły, placówki, zespołu, o którym mowa w art. 182, lub innej formy wychowania przedszkolnego może być podejmowana na zasadach określonych w przepisach ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. poz. 646, 1479, 1629, 1633 i 2212).
+2. Działalność oświatowa nieobejmująca prowadzenia szkoły, placówki, zespołu, o którym mowa w art. 182, lub innej formy wychowania przedszkolnego może być podejmowana na zasadach określonych w przepisach ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. poz. 646, 1479, 1629, 1633 i 2212).
 
-3. Podmiot  prowadzący  działalność  oświatową,  o której  mowa  w ust. 2,  jest obowiązany  poinformować  osobę  korzystającą  z tej  działalności,  a w przypadku osoby  niepełnoletniej  -  jej  rodziców,  że  działalność  ta  nie  stanowi  prowadzenia szkoły, placówki, zespołu, o którym mowa w art. 182, lub innej formy wychowania przedszkolnego.
+3. Podmiot prowadzący działalność oświatową, o której mowa w ust. 2, jest obowiązany poinformować osobę korzystającą z tej działalności, a w przypadku osoby niepełnoletniej – jej rodziców, że działalność ta nie stanowi prowadzenia szkoły, placówki, zespołu, o którym mowa w art. 182, lub innej formy wychowania przedszkolnego.
 
 ##### Art. 171.
 Podmiot prowadzący działalność oświatową, o której mowa w art. 170 ust. 2, jest obowiązany zapewnić bezpieczne i higieniczne warunki nauki, wychowania  i opieki  osobom  korzystającym  z tej  działalności,  w szczególności opiekę nad osobami niepełnoletnimi.
@@ -6345,19 +6372,19 @@ Podmiot prowadzący działalność oświatową, o której mowa w art. 170 ust. 2
 
 2. Statut szkoły lub placówki powinien określać:
 
-- nazwę, typ szkoły lub cel placówki oraz ich siedzibę i zadania;
+1) nazwę, typ szkoły lub cel placówki oraz ich siedzibę i zadania;
 
-- osobę prowadzącą szkołę lub placówkę;
+2) osobę prowadzącą szkołę lub placówkę;
 
-- organy szkoły lub placówki oraz zakres ich zadań;
+3) organy szkoły lub placówki oraz zakres ich zadań;
 
-- organizację szkoły lub placówki;
+4) organizację szkoły lub placówki;
 
-- 4a) w  przypadku  szkół  prowadzących  kształcenie  zawodowe,  z wyjątkiem  szkół artystycznych:
+4a) w przypadku szkół prowadzących kształcenie zawodowe, z wyjątkiem szkół artystycznych:
 
-- nazwę zawodu lub zawodów, w których kształci szkoła,
+a) nazwę zawodu lub zawodów, w których kształci szkoła,
 
-- organizację zajęć edukacyjnych w ramach kształcenia zawodowego, w tym organizację praktycznej nauki zawodu,
+b) organizację zajęć edukacyjnych w ramach kształcenia zawodowego, w tym organizację praktycznej nauki zawodu,
 
 02.12.2019
 
@@ -6369,35 +6396,35 @@ Podmiot prowadzący działalność oświatową, o której mowa w art. 170 ust. 2
 
 s. 205/216
 
-- organizację kształcenia ogólnego i zawodowego dla pracowników młodocianych - jeżeli szkoła takie kształcenie prowadzi;
+c) organizację kształcenia ogólnego i zawodowego dla pracowników młodocianych – jeżeli szkoła takie kształcenie prowadzi;
 
-- 4b) w przypadku szkół artystycznych:
+4b) w przypadku szkół artystycznych:
 
-- nazwy  zawodów  oraz  nazwy  specjalności  lub  specjalizacji,  w których kształci szkoła,
+a) nazwy zawodów oraz nazwy specjalności lub specjalizacji, w których kształci szkoła,
 
-- organizację zajęć edukacyjnych;
+b) organizację zajęć edukacyjnych;
 
-- 4c) szczegółowe warunki i sposób oceniania wewnątrzszkolnego uczniów;
+4c) szczegółowe warunki i sposób oceniania wewnątrzszkolnego uczniów;
 
-- 4d) formę  kształcenia  -  w przypadku  szkoły  dla  dorosłych,  branżowej  szkoły  II stopnia, szkoły policealnej;
+4d) formę kształcenia – w przypadku szkoły dla dorosłych, branżowej szkoły II stopnia, szkoły policealnej;
 
-- prawa  i obowiązki  pracowników  oraz  uczniów  szkoły  lub  placówki,  w tym przypadki, w których uczeń może zostać skreślony z listy uczniów szkoły lub placówki, a także tryb składania skarg w przypadku naruszenia praw uczniów;
+5) prawa i obowiązki pracowników oraz uczniów szkoły lub placówki, w tym przypadki, w których uczeń może zostać skreślony z listy uczniów szkoły lub placówki, a także tryb składania skarg w przypadku naruszenia praw uczniów;
 
-- sposób uzyskiwania środków finansowych na działalność szkoły lub placówki;
+6) sposób uzyskiwania środków finansowych na działalność szkoły lub placówki;
 
-- zasady  przyjmowania  uczniów  do  szkoły  lub  placówki  -  z tym  że  statut uwzględnia warunki, o których mowa w:
+7) zasady przyjmowania uczniów do szkoły lub placówki – z tym że statut uwzględnia warunki, o których mowa w:
 
-[a) art. 134 ust. 1, art. 135 ust. 1 i 2, art. 136 ust. 1 i art. 150 ust. 2 pkt 4 lit. efc - w przypadku szkoły ponadpodstawowej, w tym dwujęzycznej, sportowej i mistrzostwa sportowego,]
+[a) art. 134 ust. 1, art. 135 ust. 1 i 2, art. 136 ust. 1 i art. 150 ust. 2 pkt 4 lit. e–fc – w przypadku szkoły ponadpodstawowej, w tym dwujęzycznej, sportowej i mistrzostwa sportowego,]
 
-<a)  art. 134 ust. 1, art. 135 ust. 1 i 2, art. 136 ust. 1, art. 143 ust. 1 i 2 oraz [art. 150 ust. 2 pkt 4 lit. e-fc] < art. 150 ust. 2 pkt 4 lit. e-fd> -w przypadku szkoły ponadpodstawowej, w tym dwujęzycznej, sportowej, mistrzostwa sportowego i z oddziałami przygotowania wojskowego,>
+<a) art. 134 ust. 1, art. 135 ust. 1 i 2, art. 136 ust. 1, art. 143 ust. 1 i 2 oraz [art. 150 ust. 2 pkt 4 lit. e–fc] <art. 150 ust. 2 pkt 4 lit. e–fd> – w przypadku szkoły ponadpodstawowej, w tym dwujęzycznej, sportowej, mistrzostwa sportowego i z oddziałami przygotowania wojskowego,>
 
-- art. 141 ust. 1, 6 i 7 - w przypadku szkół dla dorosłych;
+b) art. 141 ust. 1, 6 i 7 – w przypadku szkół dla dorosłych;
 
-- w  przypadku  niepublicznej  szkoły  artystycznej  o  uprawnieniach  publicznej szkoły  artystycznej  -  także  zasady  przeprowadzania  sprawdzianu  uzdolnień, predyspozycji lub praktycznych umiejętności niezbędnych do podjęcia kształcenia  w danej  szkole  artystycznej,  danym  zawodzie,  specjalności  lub specjalizacji, o którym mowa w art. 14 ust. 4 pkt 3;
+8) w przypadku niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej – także zasady przeprowadzania sprawdzianu uzdolnień, predyspozycji lub praktycznych umiejętności niezbędnych do podjęcia kształcenia w danej szkole artystycznej, danym zawodzie, specjalności lub specjalizacji, o którym mowa w art. 14 ust. 4 pkt 3;
 
-- w  przypadku  ośrodków,  o których  mowa  w art. 2 pkt 7 wysokość  opłat wnoszonych przez wychowanka ośrodka za pobyt i wyżywienie, termin i sposób wnoszenia tych opłat, jeżeli ośrodek pobiera opłaty.
+9) w przypadku ośrodków, o których mowa w art. 2 pkt 7 – wysokość opłat wnoszonych przez wychowanka ośrodka za pobyt i wyżywienie, termin i sposób wnoszenia tych opłat, jeżeli ośrodek pobiera opłaty.
 
-- Przepisy  ust. 2 pkt 5  i 6  oraz  art. 102 ust. 1  i 2 stosuje  się  odpowiednio  do statutu niepublicznego przedszkola i oddziału przedszkolnego w niepublicznej szkole
+3. Przepisy ust. 2 pkt 5 i 6 oraz art. 102 ust. 1 i 2 stosuje się odpowiednio do statutu niepublicznego przedszkola i oddziału przedszkolnego w niepublicznej szkole
 
 Nowe brzmienie lit.  a  w  pkt  7  w ust.  2  w  art.  172 wejdzie w życie z dn. 1.01.2020 r. (Dz.  U.  z  2019  r. poz. 1681).
 
@@ -6420,10 +6447,10 @@ podstawowej, z tym że czas pracy niepublicznych przedszkoli i oddziałów przed
 5. Dokumentację  przebiegu  nauczania  zlikwidowanej  szkoły  przekazuje  się organowi sprawującemu nadzór pedagogiczny, w terminie jednego miesiąca od dnia zakończenia likwidacji. Po zakończeniu likwidacji wpis do ewidencji ulega wykreśleniu.
 
 ##### Art. 172a.
-Przepis art. 68 ust. 7-7d stosuje się do szkół niepublicznych prowadzących kształcenie zawodowe, z wyjątkiem niepublicznych szkół artystycznych.
+Przepis art. 68 ust. 7–7d stosuje się do szkół niepublicznych prowadzących kształcenie zawodowe, z wyjątkiem niepublicznych szkół artystycznych.
 
 ##### Art. 173.
-1.  Przepisy  art. 106 ust. 1-3,  5  i 6 stosuje  się  odpowiednio  do  szkół niepublicznych.
+1. Przepisy art. 106 ust. 1–3, 5 i 6 stosuje się odpowiednio do szkół niepublicznych.
 
 2. Przepisy art. 108 stosuje się do przedszkoli niepublicznych.
 
@@ -6452,16 +6479,16 @@ s. 207/216
 Do  niepublicznych  przedszkoli,  szkół  podstawowych,  innych  form wychowania przedszkolnego, specjalnych ośrodków szkolno-wychowawczych, specjalnych  ośrodków  wychowawczych,  ośrodków  rewalidacyjno-wychowawczych oraz poradni psychologiczno-pedagogicznych stosuje się przepisy art. 127 ust. 5, 6, 8 i 9 oraz przepisy wydane na podstawie art. 127 ust. 19 pkt 1.
 
 ##### Art. 176.
-1. Niepublicznej  szkole  artystycznej  realizującej  kształcenie  ogólne założonej  zgodnie  z art. 168 ust. 1-10,  przysługują  uprawnienia  publicznej  szkoły artystycznej z dniem rozpoczęcia działalności.
+1. Niepublicznej szkole artystycznej realizującej kształcenie ogólne założonej zgodnie z art. 168 ust. 1–10, przysługują uprawnienia publicznej szkoły artystycznej z dniem rozpoczęcia działalności.
 
 2. Kurator oświaty w ciągu 6 miesięcy od dnia rozpoczęcia działalności przez niepubliczną  szkołę  podstawową  lub  szkołę  ponadpodstawową,  jest  obowiązany sprawdzić spełnianie warunków określonych w art. 14 ust. 3. W przypadku niepublicznej  szkoły  artystycznej  realizującej  kształcenie  ogólne,  która  uzyskała uprawnienia publicznej szkoły artystycznej z dniem rozpoczęcia działalności, specjalistyczna  jednostka  nadzoru,  o której  mowa  w art. 53 ust. 1,  jest  obowiązana sprawdzić spełnianie warunków określonych w art. 14 ust. 4 w ciągu 6 miesięcy od dnia rozpoczęcia działalności przez szkołę.
 
 3. (uchylony)
 
-4. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, na wniosek osoby prowadzącej niepubliczną szkołę artystyczną nieposiadającą uprawnień publicznej szkoły artystycznej, złożony nie wcześniej niż po zakończeniu przez szkołę pierwszego roku kształcenia, a w przypadku artystycznej szkoły policealnej -pierwszego  semestru  kształcenia, nadaje tej szkole  uprawnienia publicznej szkoły artystycznej po stwierdzeniu, że szkoła ta spełnia warunki określone w art. 14 ust. 4, a w przypadku szkoły artystycznej realizującej kształcenie ogólne także po przedstawieniu przez osobę prowadzącą pozytywnej opinii kuratora oświaty.
+4. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, na wniosek osoby prowadzącej niepubliczną szkołę artystyczną nieposiadającą uprawnień publicznej szkoły artystycznej, złożony nie wcześniej niż po zakończeniu przez szkołę pierwszego roku kształcenia, a w przypadku artystycznej szkoły policealnej – pierwszego semestru kształcenia, nadaje tej szkole uprawnienia publicznej szkoły artystycznej po stwierdzeniu, że szkoła ta spełnia warunki określone w art. 14 ust. 4, a w przypadku szkoły artystycznej realizującej kształcenie ogólne – także po przedstawieniu przez osobę prowadzącą pozytywnej opinii kuratora oświaty.
 
 ##### Art. 177.
-Do przedszkoli niepublicznych, oddziałów przedszkolnych w niepublicznych szkołach podstawowych, niepublicznych innych form wychowania przedszkolnego, szkół i placówek niepublicznych stosuje się odpowiednio art. 127 ust. 1-3 oraz przepisy wydane na podstawie art. 47 ust. 1 pkt 5, art. 127 ust. 19 pkt 2 i ust. 20.
+Do przedszkoli niepublicznych, oddziałów przedszkolnych w niepublicznych szkołach podstawowych, niepublicznych innych form wychowania przedszkolnego, szkół i placówek niepublicznych stosuje się odpowiednio art. 127 ust. 1–3 oraz przepisy wydane na podstawie art. 47 ust. 1 pkt 5, art. 127 ust. 19 pkt 2 i ust. 20.
 
 02.12.2019
 
@@ -6478,21 +6505,21 @@ s. 208/216
 
 2. Wniosek  o wyrażenie  zgody  na  założenie  lub  prowadzenie  szkoły,  o której mowa w ust. 1, składa się do ministra właściwego do spraw oświaty i wychowania za pośrednictwem kuratora oświaty, który dołącza swoją opinię.
 
-3. Wniosek o uznanie szkoły za eksperymentalną zawiera cel, założenia i sposób realizacji eksperymentu, a w przypadku eksperymentu dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego - także czas trwania i uzasadnienie  potrzeby  prowadzenia  kształcenia  w danym  zawodzie.  Do  wniosku dołącza się:
+3. Wniosek o uznanie szkoły za eksperymentalną zawiera cel, założenia i sposób realizacji eksperymentu, a w przypadku eksperymentu dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego – także czas trwania i uzasadnienie potrzeby prowadzenia kształcenia w danym zawodzie. Do wniosku dołącza się:
 
-- opinię  jednostki  naukowej  dotyczącą  założeń  eksperymentu,  a w przypadku eksperymentu  dotyczącego  zawodu  nieokreślonego  w klasyfikacji  zawodów szkolnictwa  branżowego  -  opinię  jednostki  naukowej  właściwej  dla  danego zawodu, wraz ze zgodą tej jednostki na sprawowanie opieki nad przebiegiem tego eksperymentu;
+1) opinię jednostki naukowej dotyczącą założeń eksperymentu, a w przypadku eksperymentu dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego – opinię jednostki naukowej właściwej dla danego zawodu, wraz ze zgodą tej jednostki na sprawowanie opieki nad przebiegiem tego eksperymentu;
 
-- zgodę rady pedagogicznej wyrażoną w uchwale;
+2) zgodę rady pedagogicznej wyrażoną w uchwale;
 
-- w przypadku eksperymentu dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego:
+3) w przypadku eksperymentu dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego:
 
-- podstawę programową kształcenia w tym zawodzie, sporządzoną z uwzględnieniem  charakterystyk  poziomów  Polskiej  Ramy  Kwalifikacji pierwszego i drugiego stopnia, oraz  propozycję przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionej w tym zawodzie,
+a) podstawę programową kształcenia w tym zawodzie, sporządzoną z uwzględnieniem charakterystyk poziomów Polskiej Ramy Kwalifikacji pierwszego i drugiego stopnia, oraz propozycję przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionej w tym zawodzie,
 
-- program nauczania tego zawodu,
+b) program nauczania tego zawodu,
 
-- tygodniowy lub semestralny rozkład zajęć,
+c) tygodniowy lub semestralny rozkład zajęć,
 
-- opinię wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 22 ust. 5 pkt 5 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy,
+d) opinię wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 22 ust. 5 pkt 5 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy,
 
 02.12.2019
 
@@ -6504,15 +6531,15 @@ s. 208/216
 
 s. 209/216
 
-- pozytywną opinię w zakresie merytorycznej zawartości programu nauczania  przewidzianego  dla  tego  zawodu,  wydaną  przez  jednostkę naukową właściwą dla tego zawodu, a także pozytywną opinię organizacji pracodawców, samorządu gospodarczego lub innej organizacji gospodarczej, stowarzyszenia lub samorządu zawodowego, właściwego dla tego zawodu ze względu na treść wniosku, o którym mowa w ust. 2,
+e) pozytywną opinię w zakresie merytorycznej zawartości programu nauczania przewidzianego dla tego zawodu, wydaną przez jednostkę naukową właściwą dla tego zawodu, a także pozytywną opinię organizacji pracodawców, samorządu gospodarczego lub innej organizacji gospodarczej, stowarzyszenia lub samorządu zawodowego, właściwego dla tego zawodu ze względu na treść wniosku, o którym mowa w ust. 2,
 
-- harmonogram  realizacji  eksperymentu  wraz  z określeniem  niezbędnych zasobów, w tym kadrowych, finansowych, rzeczowych oraz lokalowych,
+f) harmonogram realizacji eksperymentu wraz z określeniem niezbędnych zasobów, w tym kadrowych, finansowych, rzeczowych oraz lokalowych,
 
-- przykładowe zestawy zadań egzaminacyjnych - w przypadku eksperymentu dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego;
+g) przykładowe zestawy zadań egzaminacyjnych – w przypadku eksperymentu dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego;
 
-- pozytywną  opinię  ministra  właściwego  dla  zawodu,  a w przypadku  zawodu nieokreślonego  w klasyfikacji  zawodów  szkolnictwa  branżowego  -  ministra, który ze względu na zakres działu administracji rządowej, którym kieruje, jest właściwy dla zawodu, którego dotyczy wniosek, o którym mowa w ust. 2.
+4) pozytywną opinię ministra właściwego dla zawodu, a w przypadku zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego – ministra, który ze względu na zakres działu administracji rządowej, którym kieruje, jest właściwy dla zawodu, którego dotyczy wniosek, o którym mowa w ust. 2.
 
-4. Minister właściwy do spraw oświaty i wychowania w decyzji, o której mowa w ust. 1, określa niezbędne warunki funkcjonowania szkoły, uwzględniając w szczególności założenia i sposób realizacji eksperymentu, wskazane we wniosku, a także  możliwość  wydawania świadectw, zaświadczeń i innych druków zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy o systemie oświaty. W przypadku  eksperymentu  pedagogicznego  dotyczącego  zawodu  nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego decyzja obejmuje również przypisanie  do kwalifikacji  wyodrębnionych  w tym  zawodzie  oraz  do  zawodu poziomu Polskiej Ramy Kwalifikacji. Dokonując przypisania poziomu Polskiej Ramy Kwalifikacji  do kwalifikacji  wyodrębnionych  w zawodzie  oraz  zawodu,  stosuje  się przepisy art. 21 ust. 1-3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji.
+4. Minister właściwy do spraw oświaty i wychowania w decyzji, o której mowa w ust. 1, określa niezbędne warunki funkcjonowania szkoły, uwzględniając w szczególności założenia i sposób realizacji eksperymentu, wskazane we wniosku, a także możliwość wydawania świadectw, zaświadczeń i innych druków zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy o systemie oświaty. W przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego decyzja obejmuje również przypisanie do kwalifikacji wyodrębnionych w tym zawodzie oraz do zawodu poziomu Polskiej Ramy Kwalifikacji. Dokonując przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionych w zawodzie oraz zawodu, stosuje się przepisy art. 21 ust. 1–3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji.
 
 5. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może, w drodze decyzji, nadać uprawnienia publicznej szkoły artystycznej szkole niespełniającej warunków określonych w art. 14 ust. 4, jeżeli uzna ją za eksperymentalną.
 
@@ -6535,7 +6562,7 @@ s. 210/216
 ##### Art. 179.
 1.  Uprawnienia publicznej szkoły  artystycznej mogą zostać cofnięte przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, jeżeli w trybie  nadzoru  pedagogicznego  zostanie  stwierdzone  niespełnianie  warunków, o których mowa w art. 14 ust. 4, lub warunków funkcjonowania szkoły określonych zgodnie z art. 178 ust. 7. Cofnięcie uprawnień następuje w drodze decyzji administracyjnej  i w przypadku  szkoły  artystycznej  realizującej  kształcenie  ogólne jest równoznaczne z jej likwidacją z końcem roku szkolnego, w którym decyzja stała się ostateczna.
 
-2. W przypadku cofnięcia uprawnień publicznej szkoły artystycznej niepublicznej szkole artystycznej ponowny wniosek o nadanie tej szkole uprawnień publicznej szkoły artystycznej może zostać złożony nie wcześniej niż po upływie roku kształcenia, a w przypadku artystycznej szkoły policealnej - semestru kształcenia.
+2. W przypadku cofnięcia uprawnień publicznej szkoły artystycznej niepublicznej szkole artystycznej ponowny wniosek o nadanie tej szkole uprawnień publicznej szkoły artystycznej może zostać złożony nie wcześniej niż po upływie roku kształcenia, a w przypadku artystycznej szkoły policealnej – semestru kształcenia.
 
 3. Organ prowadzący niepubliczną szkołę artystyczną jest obowiązany niezwłocznie poinformować rodziców ucznia lub pełnoletniego ucznia o cofnięciu tej szkole uprawnień publicznej szkoły artystycznej.
 
@@ -6552,7 +6579,7 @@ s. 210/216
 
 s. 211/216
 
-2. Jeżeli niepubliczna szkoła lub placówka lub organ prowadzący tę szkołę lub placówkę prowadzi działalność z naruszeniem przepisów niniejszej ustawy, ustawy o systemie  oświaty,  wydanych  na  ich  podstawie  rozporządzeń  lub  statutu  lub  nie wypełnia zobowiązań, o których mowa  w art. 168 ust. 4 pkt 6, lub nie spełnia warunków funkcjonowania szkoły określonych zgodnie z art. 178 ust. 4, a w przypadku szkoły artystycznej - warunków funkcjonowania szkoły określonych zgodnie  z art. 178 ust. 7,  organ  sprawujący  nadzór  pedagogiczny  może  polecić usunięcie uchybień w wyznaczonym terminie.
+2. Jeżeli niepubliczna szkoła lub placówka lub organ prowadzący tę szkołę lub placówkę prowadzi działalność z naruszeniem przepisów niniejszej ustawy, ustawy o systemie oświaty, wydanych na ich podstawie rozporządzeń lub statutu lub nie wypełnia zobowiązań, o których mowa w art. 168 ust. 4 pkt 6, lub nie spełnia warunków funkcjonowania szkoły określonych zgodnie z art. 178 ust. 4, a w przypadku szkoły artystycznej – warunków funkcjonowania szkoły określonych zgodnie z art. 178 ust. 7, organ sprawujący nadzór pedagogiczny może polecić usunięcie uchybień w wyznaczonym terminie.
 
 ##### Art. 181.
 1.  Podjęcie  przez  osobę  prawną  lub  osobę  fizyczną  prowadzenia wychowania przedszkolnego w niepublicznych innych formach wychowania przedszkolnego wymaga uzyskania wpisu do ewidencji, o której mowa w art. 168 ust. 1, prowadzonej przez gminę właściwą ze względu na miejsce prowadzenia tych form. Przepisy art. 168, art. 169, art. 170 ust. 1 i 2, art. 172 i art. 180 stosuje się odpowiednio,  z tym  że  zgłoszenie  do  ewidencji  zamiast  statutu  powinno  zawierać projekt organizacji wychowania przedszkolnego, które ma być realizowane w danej formie.
@@ -6579,7 +6606,7 @@ s. 212/216
 #### Placówki doskonalenia nauczycieli
 
 ##### Art. 183.
-1. W celu doskonalenia zawodowego nauczycieli mogą być tworzone placówki doskonalenia nauczycieli, zwane dalej 'placówkami doskonalenia'.
+1. W celu doskonalenia zawodowego nauczycieli mogą być tworzone placówki doskonalenia nauczycieli, zwane dalej „placówkami doskonalenia”.
 
 2. Do zadań placówek doskonalenia, o których mowa w art. 8 ust. 5 pkt 1 lit. b, ust. 6, ust. 7 pkt 2 i ust. 14, należy także podejmowanie działań na rzecz doskonalenia systemu  oświaty,  zgodnie  z polityką  oświatową  państwa,  w zakresie  określonym w statutach tych placówek.
 
@@ -6598,7 +6625,7 @@ s. 212/216
 
 4. Akredytację może uzyskać placówka doskonalenia, która:
 
-- prowadzi działalność zgodnie z przepisami prawa;
+1) prowadzi działalność zgodnie z przepisami prawa;
 
 02.12.2019
 
@@ -6610,27 +6637,27 @@ s. 212/216
 
 s. 213/216
 
-- organizuje i prowadzi formy doskonalenia zawodowego nauczycieli:
+2) organizuje i prowadzi formy doskonalenia zawodowego nauczycieli:
 
-- zaspokajające potrzeby nauczycieli, szkół i placówek korzystających z oferty placówki doskonalenia,
+a) zaspokajające potrzeby nauczycieli, szkół i placówek korzystających z oferty placówki doskonalenia,
 
-- sprzyjające rozwojowi zawodowemu nauczycieli, szkół i placówek korzystających z oferty placówki doskonalenia;
+b) sprzyjające rozwojowi zawodowemu nauczycieli, szkół i placówek korzystających z oferty placówki doskonalenia;
 
-- w  planowaniu  swojej  pracy  uwzględnia  wnioski  z analizy  badań  nauczycieli, szkół i placówek korzystających z oferty placówki doskonalenia;
+3) w planowaniu swojej pracy uwzględnia wnioski z analizy badań nauczycieli, szkół i placówek korzystających z oferty placówki doskonalenia;
 
-- wykorzystuje zasoby własne i środowiska lokalnego na rzecz rozwoju;
+4) wykorzystuje zasoby własne i środowiska lokalnego na rzecz rozwoju;
 
-- opracowała  i stosuje system  zapewniania  jakości oraz systematycznie go doskonali;
+5) opracowała i stosuje system zapewniania jakości oraz systematycznie go doskonali;
 
-- zatrudnia wykwalifikowaną kadrę;
+6) zatrudnia wykwalifikowaną kadrę;
 
-- zapewnia wykwalifikowaną kadrę do realizacji form doskonalenia zawodowego nauczycieli;
+7) zapewnia wykwalifikowaną kadrę do realizacji form doskonalenia zawodowego nauczycieli;
 
-- zapewnia bezpieczne i higieniczne warunki realizacji form doskonalenia zawodowego nauczycieli;
+8) zapewnia bezpieczne i higieniczne warunki realizacji form doskonalenia zawodowego nauczycieli;
 
-- zapewnia nowoczesną bazę dydaktyczną;
+9) zapewnia nowoczesną bazę dydaktyczną;
 
-- prowadzi działalność informacyjną i upowszechnia problematykę doskonalenia nauczycieli.
+10) prowadzi działalność informacyjną i upowszechnia problematykę doskonalenia nauczycieli.
 
 5. Placówka doskonalenia ubiegająca się o uzyskanie akredytacji wnosi opłatę.
 
@@ -6662,9 +6689,9 @@ s. 214/216
 
 2. Placówka doskonalenia, której cofnięto akredytację, jest obowiązana:
 
-- w terminie  30 dni  od  dnia  cofnięcia  akredytacji  wprowadzić  roczny  program naprawczy;
+1) w terminie 30 dni od dnia cofnięcia akredytacji wprowadzić roczny program naprawczy;
 
-- w terminie 30 dni od dnia zakończenia rocznego programu naprawczego poddać się  ocenie  działalności  przeprowadzanej  przez  kuratora  oświaty  w zakresie określonym w art. 184 ust. 4.
+2) w terminie 30 dni od dnia zakończenia rocznego programu naprawczego poddać się ocenie działalności przeprowadzanej przez kuratora oświaty w zakresie określonym w art. 184 ust. 4.
 
 3. Kurator  oświaty  przeprowadza  ocenę  działalności  placówki  doskonalenia, która  zrealizowała  program  naprawczy,  o którym  mowa  w ust. 2 pkt 1,  w zakresie określonym w art. 184 ust. 4.
 
@@ -6688,11 +6715,11 @@ s. 215/216
 ##### Art. 188.
 1. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym  do  spraw  kultury i ochrony dziedzictwa  narodowego, ministrem  właściwym  do  spraw  rolnictwa  oraz  ministrem  właściwym  do  spraw zdrowia określi, w drodze rozporządzenia:
 
-- warunki  i tryb tworzenia, przekształcania i likwidowania oraz organizację i sposób działania  placówek  doskonalenia,  w tym  zakres ich działalności obowiązkowej,
+1) warunki i tryb tworzenia, przekształcania i likwidowania oraz organizację i sposób działania placówek doskonalenia, w tym zakres ich działalności obowiązkowej,
 
-- zadania  doradców  metodycznych,  warunki  i tryb  powierzania  nauczycielom zadań doradcy metodycznego
+2) zadania doradców metodycznych, warunki i tryb powierzania nauczycielom zadań doradcy metodycznego
 
-- z uwzględnieniem konieczności zapewnienia nauczycielom dostępu do form doskonalenia i dokształcania umożliwiających podnoszenie wiedzy ogólnej i umiejętności zawodowych,  a także możliwości prowadzenia niektórych form doskonalenia i dokształcania przez szkoły wyższe oraz inne jednostki.
+– z uwzględnieniem konieczności zapewnienia nauczycielom dostępu do form doskonalenia i dokształcania umożliwiających podnoszenie wiedzy ogólnej i umiejętności zawodowych, a także możliwości prowadzenia niektórych form doskonalenia i dokształcania przez szkoły wyższe oraz inne jednostki.
 
 2. Rozporządzenie, o którym mowa w ust. 1, uwzględni ponadto zadania, które mogą być realizowane wyłącznie przez placówki doskonalenia posiadające akredytację oraz publiczne placówki doskonalenia, o których mowa w art. 8 ust. 5 pkt 1 lit. b, ust. 6, ust. 7 pkt 2 i ust. 14.
 
@@ -6709,13 +6736,13 @@ s. 215/216
 s. 216/216
 
 ##### Art. 189.
-Ustawa  wchodzi  w życie  w terminie 11) i na  zasadach  określonych w ustawie  z dnia  14 grudnia  2016 r.  -  Przepisy  wprowadzające  ustawę  -  Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203 oraz z 2018 r. poz. 2245).
+Ustawa wchodzi w życie w terminie11) i na zasadach określonych w ustawie z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203 oraz z 2018 r. poz. 2245).
 
 > 11)   Ustawa weszła w życie z dniem 1 września 2017 r., z wyjątkiem:
 
 > 1)  art. 18 ust. 4, art. 47 ust. 3 pkt 2 oraz rozdziału 6, które weszły w życie po upływie 14 dni od dnia ogłoszenia;
 
-> 2)  art. 47 ust. 1 pkt 1 lit. c, d i g oraz pkt 4, które weszły w życie z dniem 1 września 2018 r., na podstawie art. 1 ustawy z dnia 14 grudnia 2016 r. - Przepisy wprowadzające ustawę - Prawo oświatowe (Dz. U. z 2017 r. poz. 60), który wszedł w życie z dniem 15 stycznia 2017 r.
+> 2)  art. 47 ust. 1 pkt 1 lit. c, d i g oraz pkt 4, które weszły w życie z dniem 1 września 2018 r., na podstawie art. 1 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60), który wszedł w życie z dniem 15 stycznia 2017 r.
 
 02.12.2019
 
