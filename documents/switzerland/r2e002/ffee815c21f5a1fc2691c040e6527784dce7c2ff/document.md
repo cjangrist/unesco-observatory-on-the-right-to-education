@@ -400,21 +400,21 @@ De la Confédération suisse
 
 ##### Art. 41
 
-1  La  Confédération  et  les  cantons  s'engagent,  en  complément  de  la  responsabilité individuelle et de l'initiative privée, à ce que:
+1  La Confédération et les cantons s'engagent, en complément de la responsabilité individuelle et de l'initiative privée, à ce que:
 
-- toute personne bénéficie de la sécurité sociale;
+a. toute personne bénéficie de la sécurité sociale;
 
-- toute personne bénéficie des soins nécessaires à sa santé;
+b. toute personne bénéficie des soins nécessaires à sa santé;
 
-- les familles en tant que communautés d'adultes et d'enfants soient protégées et encouragées;
+c. les familles en tant que communautés d'adultes et d'enfants soient protégées et encouragées;
 
-- toute personne capable de travailler puisse assurer son entretien par un travail qu'elle exerce dans des conditions équitables;
+d. toute personne capable de travailler puisse assurer son entretien par un travail qu'elle exerce dans des conditions équitables;
 
-- toute personne en quête d'un logement puisse trouver, pour elle-même et sa famille, un logement approprié à des conditions supportables;
+e. toute personne en quête d'un logement puisse trouver, pour elle-même et sa famille, un logement approprié à des conditions supportables;
 
-- les enfants et les jeunes, ainsi que les personnes en âge de travailler puissent bénéficier  d'une  formation  initiale  et  d'une  formation  continue  correspondant à leurs aptitudes;
+f. les enfants et les jeunes, ainsi que les personnes en âge de travailler puissent bénéficier d'une formation initiale et d'une formation continue correspondant à leurs aptitudes;
 
-- les enfants et les jeunes soient encouragés à devenir des personnes indépendantes et  socialement responsables et soient soutenus dans leur intégration sociale, culturelle et politique.
+g. les enfants et les jeunes soient encouragés à devenir des personnes indépendantes et socialement responsables et soient soutenus dans leur intégration sociale, culturelle et politique.
 
 2  La  Confédération  et  les  cantons  s'engagent  à  ce  que  toute  personne  soit  assurée contre  les  conséquences  économiques  de  l'âge,  de  l'invalidité,  de  la  maladie,  de l'accident, du chômage, de la maternité, de la condition d'orphelin et du veuvage.
 
@@ -516,9 +516,9 @@ De la Confédération suisse
 
 - 6 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
-- 8 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
-
 - 7 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
+
+- 8 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
 11
 
@@ -530,9 +530,9 @@ De la Confédération suisse
 
 Constitution fédérale
 
-- soit adoptée selon la procédure applicable aux lois;
+a. soit adoptée selon la procédure applicable aux lois;
 
-- fixe les grandes lignes de ces dispositions. 9
+b. fixe les grandes lignes de ces dispositions. 9
 
 5  Les cantons respectent le droit intercantonal. 10
 
@@ -540,23 +540,23 @@ Constitution fédérale
 
 1  A  la  demande des cantons intéressés, la Confédération peut donner force obligatoire générale à des conventions intercantonales ou obliger certains cantons à adhérer à des conventions intercantonales dans les domaines suivants:
 
-- exécution des peines et des mesures;
+a. exécution des peines et des mesures;
 
-- 12   instruction publique pour les domaines visés à l'art. 62, al. 4;
+b. 12 instruction publique pour les domaines visés à l'art. 62, al. 4;
 
-- 13   hautes écoles cantonales;
+c. 13 hautes écoles cantonales;
 
-- institutions culturelles d'importance suprarégionale;
+d. institutions culturelles d'importance suprarégionale;
 
-- gestion des déchets;
+e. gestion des déchets;
 
-- épuration des eaux usées;
+f. épuration des eaux usées;
 
-- transports en agglomération;
+g. transports en agglomération;
 
-- médecine de pointe et cliniques spéciales;
+h. médecine de pointe et cliniques spéciales;
 
-- institutions d'intégration et de prise en charge des personnes handicapées.
+i. institutions d'intégration et de prise en charge des personnes handicapées.
 
 - 2  La déclaration de force obligatoire générale prend la forme d'un arrêté fédéral.
 
@@ -570,9 +570,9 @@ Constitution fédérale
 
 - 9 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
-- 11 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
-
 - 10 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
+
+- 11 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
 - 12 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
 
@@ -751,9 +751,9 @@ Constitution fédérale
 
 - 16 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
 
-- 17 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
+* avec disposition transitoire
 
-- avec disposition transitoire
+- 17 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
 
 - 18 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
@@ -791,9 +791,9 @@ De la Confédération suisse
 
 - 19 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
 
-- 21 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
-
 - 20 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
+
+- 21 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
 
 - 22 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
 
@@ -835,9 +835,9 @@ Constitution fédérale
 
 - 24 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
 
-- 26 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
-
 - 25 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
+
+- 26 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
 
 - 27 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
 
@@ -881,9 +881,9 @@ De la Confédération suisse
 
 - 28 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
 
-- 30 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
-
 - 29 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
+
+- 30 Acceptée en votation populaire du 21 mai 2006, en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juillet 2006; RO 2006 3033; FF 2005 5159 5225 6793, 2006 6391).
 
 19
 
@@ -975,9 +975,9 @@ De la Confédération suisse
 
 - 32 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
-- avec disposition transitoire
+- 33 Accepté en votation populaire du 11 mars 2012, en vigueur depuis le 11 mars 2012 (AF du 17 juin 2011, ACF du 20 juin 2012 – RO 2012 3627; FF 2008 1003 7891, 2011 4473, 2012 6149).
 
-- 33 Accepté en votation populaire du 11 mars 2012, en vigueur depuis le 11 mars 2012 (AF du 17 juin 2011, ACF du 20 juin 2012 - RO 2012 3627; FF 2008 1003 7891, 2011 4473, 2012 6149).
+* avec disposition transitoire
 
 21
 
@@ -1039,17 +1039,17 @@ La  Confédération  fixe  les  principes  applicables  à  la  pratique  de  la
 
 2  Elle règle en particulier:
 
-- la garde des animaux et la manière de les traiter;
+a. la garde des animaux et la manière de les traiter;
 
-- l'expérimentation animale et les atteintes à l'intégrité d'animaux vivants;
+b. l'expérimentation animale et les atteintes à l'intégrité d'animaux vivants;
 
-- l'utilisation d'animaux;
+c. l'utilisation d'animaux;
 
-- l'importation d'animaux et de produits d'origine animale;
+d. l'importation d'animaux et de produits d'origine animale;
 
-- le commerce et le transport d'animaux;
+e. le commerce et le transport d'animaux;
 
-- l'abattage des animaux.
+f. l'abattage des animaux.
 
 3  L'exécution des dispositions fédérales incombe aux cantons dans la mesure où elle n'est pas réservée à la Confédération par la loi.
 
@@ -1071,7 +1071,7 @@ La Confédération peut, dans l'intérêt du pays ou d'une grande partie de celu
 
 1  La Confédération assure la création d'un réseau de routes nationales et veille à ce que ces routes soient utilisables.
 
-- avec disposition transitoire
+* avec disposition transitoire
 
 23
 
@@ -1113,11 +1113,11 @@ Constitution fédérale
 
 - 34 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
-- avec disposition transitoire
-
 - 35 Abrogé par la votation populaire du 28 nov. 2004, avec effet au 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
-- avec disposition transitoire
+* avec disposition transitoire
+
+* avec disposition transitoire
 
 24
 
@@ -1131,39 +1131,39 @@ De la Confédération suisse
 
 l'utilisation des routes nationales au financement des tâches et des dépenses suivantes, qui sont liées à la circulation routière: 36
 
-- construction, entretien et exploitation des routes nationales;
+a. construction, entretien et exploitation des routes nationales;
 
-- 37   mesures destinées à promouvoir le trafic combiné et le transport de véhicules routiers accompagnés;
+b. 37 mesures destinées à promouvoir le trafic combiné et le transport de véhicules routiers accompagnés;
 
-- b bis . 38  mesures destinées à améliorer les infrastructures de transport dans les villes et les agglomérations;
+bbis. 38 mesures destinées à améliorer les infrastructures de transport dans les villes et les agglomérations;
 
-- 39   contributions destinées aux routes principales;
+c. 39 contributions destinées aux routes principales;
 
-- contributions pour la construction d'ouvrages de protection contre les sinistres  dus  aux  éléments  naturels  et  pour  les  mesures  de  protection  de l'environnement et du paysage que la circulation routière rend nécessaires;
+d. contributions pour la construction d'ouvrages de protection contre les sinistres dus aux éléments naturels et pour les mesures de protection de l'environnement et du paysage que la circulation routière rend nécessaires;
 
-- 40   participation générale au financement, par les cantons, des routes ouvertes à la circulation des véhicules à moteur;
+e. 40 participation générale au financement, par les cantons, des routes ouvertes à la circulation des véhicules à moteur;
 
-- 41 contributions aux cantons dépourvus de routes nationales.
+f. 41 contributions aux cantons dépourvus de routes nationales.
 
 3bis  Elle affecte la moitié du produit net de l'impôt à la consommation sur les carburants d'aviation au financement des tâches et des dépenses suivantes, qui sont liées au trafic aérien:
 
-- contributions pour les mesures de protection de l'environnement que le trafic aérien rend nécessaires;
+a. contributions pour les mesures de protection de l'environnement que le trafic aérien rend nécessaires;
 
-- contributions pour des mesures de sûreté destinées à protéger le trafic aérien contre  les  infractions,  notamment  les  attentats  terroristes  et  les  détournements d'avions, pour autant qu'elles ne relèvent pas des pouvoirs publics;
+b. contributions pour des mesures de sûreté destinées à protéger le trafic aérien contre les infractions, notamment les attentats terroristes et les détournements d'avions, pour autant qu'elles ne relèvent pas des pouvoirs publics;
 
-- contributions pour des mesures visant à promouvoir un niveau élevé de sécurité technique dans le trafic aérien. 42
+c. contributions pour des mesures visant à promouvoir un niveau élevé de sécurité technique dans le trafic aérien. 42
 
 - 36 Accepté en votation populaire du 29 nov. 2009, en vigueur depuis le 29 nov. 2009 (AF du 3 oct. 2008, ACF du 5 mai 2010; RO 2010 2159; FF 2007 6023, 2008 7471, 2010 3117).
 
-- 38 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
-
 - 37 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
+
+- 38 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
 - 39 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
-- 41 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
-
 - 40 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
+
+- 41 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
 - 42 Accepté en votation populaire du 29 nov. 2009, en vigueur depuis le 29 nov. 2009 (AF du 3 oct. 2008, ACF du 5 mai 2010; RO 2010 2159; FF 2007 6023, 2008 7471, 2010 3117).
 
@@ -1255,7 +1255,7 @@ La législation sur l'énergie nucléaire relève de la compétence de la Confé
 
 2  Ils veillent à sauvegarder les intérêts de l'économie nationale et contribuent, avec le  secteur  de  l'économie  privée,  à  la  prospérité  et  à  la  sécurité  économique  de  la population.
 
-- avec disposition transitoire
+* avec disposition transitoire
 
 27
 
@@ -1283,9 +1283,9 @@ Constitution fédérale
 
 2  Elle prend des mesures:
 
-- afin d'empêcher la fixation de prix abusifs par des entreprises ou des organisations de droit privé ou de droit public occupant une position dominante sur le marché;
+- a. afin d'empêcher la fixation de prix abusifs par des entreprises ou des organisations de droit privé ou de droit public occupant une position dominante sur le marché;
 
-- afin de lutter contre la concurrence déloyale.
+- b. afin de lutter contre la concurrence déloyale.
 
 ##### Art. 97 Protection des consommateurs et des consommatrices
 
@@ -1369,33 +1369,31 @@ La Confédération peut soutenir les régions économiquement menacées et promo
 
 1  La  Confédération veille à ce que l'agriculture, par une production répondant à la fois aux exigences du développement durable et à celles du marché, contribue substantiellement:
 
-- à la sécurité de l'approvisionnement de la population;
+- a. à la sécurité de l'approvisionnement de la population;
 
-- à la conservation des ressources naturelles et à l'entretien du paysage rural;
+- b. à la conservation des ressources naturelles et à l'entretien du paysage rural;
 
-- à l'occupation décentralisée du territoire.
+- c. à l'occupation décentralisée du territoire.
 
 2  En  complément  des  mesures  d'entraide  que  l'on  peut  raisonnablement  exiger  de l'agriculture  et  en  dérogeant,  au  besoin,  au  principe  de  la  liberté  économique,  la Confédération encourage les exploitations paysannes cultivant le sol.
 
 3  Elle  conçoit  les  mesures  de  sorte  que  l'agriculture  réponde  à  ses  multiples  fonctions. Ses compétences et ses tâches sont notamment les suivantes:
 
-- elle complète le revenu paysan par des paiements directs aux fins de rémunérer équitablement les prestations fournies, à condition que l'exploitant apporte la preuve qu'il satisfait à des exigences de caractère écologique;
+- a. elle complète le revenu paysan par des paiements directs aux fins de rémunérer équitablement les prestations fournies, à condition que l'exploitant apporte la preuve qu'il satisfait à des exigences de caractère écologique;
 
-- elle  encourage, au moyen de mesures incitatives présentant un intérêt économique, les formes d'exploitation particulièrement en accord avec la nature et respectueuses de l'environnement et des animaux;
+- b. elle encourage, au moyen de mesures incitatives présentant un intérêt économique, les formes d'exploitation particulièrement en accord avec la nature et respectueuses de l'environnement et des animaux;
 
-- elle légifère sur la déclaration de la provenance, de la qualité, des méthodes de production et des procédés de transformation des denrées alimentaires;
+- c. elle légifère sur la déclaration de la provenance, de la qualité, des méthodes de production et des procédés de transformation des denrées alimentaires;
 
-- elle protège l'environnement contre les atteintes liées à l'utilisation abusive d'engrais, de produits chimiques et d'autres matières auxiliaires;
+- d. elle protège l'environnement contre les atteintes liées à l'utilisation abusive d'engrais, de produits chimiques et d'autres matières auxiliaires;
 
-- elle peut encourager la recherche, la vulgarisation et la formation agricoles et octroyer des aides à l'investissement;
+- e. elle peut encourager la recherche, la vulgarisation et la formation agricoles et octroyer des aides à l'investissement;
 
-- elle peut légiférer sur la consolidation de la propriété foncière rurale.
-
-> avec disposition transitoire
+- f. elle peut légiférer sur la consolidation de la propriété foncière rurale.
 
 * avec disposition transitoire
 
-*
+* avec disposition transitoire
 
 30
 
@@ -1421,11 +1419,11 @@ La législation sur la fabrication, l'importation, la rectification et la vente 
 
 - 3  L'autorisation  et  la  surveillance des  jeux  d'argent  suivants  sont  du  ressort  des cantons:
 
-- les jeux auxquels peuvent participer un nombre illimité de personnes en plusieurs endroits et dont le résultat est déterminé par un tirage au sort commun ou par un procédé analogue, à l'exception des systèmes de jackpot des maisons de jeu;
+- a. les jeux auxquels peuvent participer un nombre illimité de personnes en plusieurs endroits et dont le résultat est déterminé par un tirage au sort commun ou par un procédé analogue, à l'exception des systèmes de jackpot des maisons de jeu;
 
-- les paris sportifs;
+- b. les paris sportifs;
 
-- les jeux d'adresse.
+- c. les jeux d'adresse.
 
 - 4  Les al. 2 et 3 s'appliquent aussi aux jeux d'argent exploités par le biais d'un réseau de communication électronique.
 
@@ -1475,13 +1473,13 @@ Constitution fédérale
 
 1  La Confédération peut légiférer:
 
-- sur la protection des travailleurs;
+- a. sur la protection des travailleurs;
 
-- sur les rapports entre employeurs et travailleurs, notamment la réglementation en commun des questions intéressant l'entreprise et le domaine professionnel;
+- b. sur les rapports entre employeurs et travailleurs, notamment la réglementation en commun des questions intéressant l'entreprise et le domaine professionnel;
 
-- sur le service de placement;
+- c. sur le service de placement;
 
-- avec disposition transitoire
+* avec disposition transitoire
 
 32
 
@@ -1493,7 +1491,7 @@ De la Confédération suisse
 
 101
 
-- sur  l'extension  du  champ  d'application  des  conventions  collectives  de  travail.
+- d. sur l'extension du champ d'application des conventions collectives de travail.
 
 - 2  Le champ d'application d'une convention collective de travail ne peut être étendu que si cette convention tient compte équitablement des intérêts légitimes des minorités et des particularités régionales et qu'elle respecte le principe de l'égalité devant la loi et la liberté syndicale.
 
@@ -1515,19 +1513,19 @@ De la Confédération suisse
 
 - 2  Ce faisant, elle respecte les principes suivants:
 
-- l'assurance est obligatoire;
+- a. l'assurance est obligatoire;
 
-- a bis . 45  elle accorde des prestations en espèces et en nature;
+- a bis. 45  elle accorde des prestations en espèces et en nature;
 
-- les rentes doivent couvrir les besoins vitaux de manière appropriée;
+- b. les rentes doivent couvrir les besoins vitaux de manière appropriée;
 
-- la rente maximale ne dépasse pas le double de la rente minimale;
+- c. la rente maximale ne dépasse pas le double de la rente minimale;
 
-- les rentes sont adaptées au moins à l'évolution des prix.
+- d. les rentes sont adaptées au moins à l'évolution des prix.
 
 3  L'assurance est financée:
 
-- par les cotisations des assurés; lorsque l'assuré est salarié, l'employeur prend à sa charge la moitié du montant de la cotisation;
+- a. par les cotisations des assurés; lorsque l'assuré est salarié, l'employeur prend à sa charge la moitié du montant de la cotisation;
 
 - 45 Acceptée en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
@@ -1569,19 +1567,19 @@ b. 46   par des prestations de la Confédération.
 
 - 46 Acceptée en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
-- 48 Abrogé par la votation populaire du 28 nov. 2004, avec effet au 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
-
 - 47 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
+
+- 48 Abrogé par la votation populaire du 28 nov. 2004, avec effet au 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
 - 49 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
-- avec disposition transitoire
-
 - 50 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
+
+* avec disposition transitoire
 
 - 51 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
-- avec disposition transitoire
+* avec disposition transitoire
 
 34
 
@@ -1601,15 +1599,15 @@ De la Confédération suisse
 
 2  Ce faisant, elle respecte les principes suivants:
 
-- la  prévoyance  professionnelle  conjuguée  avec  l'assurance-vieillesse,  survivants  et  invalidité  permet  à  l'assuré  de  maintenir  de  manière  appropriée son niveau de vie antérieur;
+- a. la prévoyance professionnelle conjuguée avec l'assurance-vieillesse, survivants et invalidité permet à l'assuré de maintenir de manière appropriée son niveau de vie antérieur;
 
-- la  prévoyance  professionnelle  est  obligatoire  pour  les  salariés;  la  loi  peut prévoir des exceptions;
+- b. la prévoyance professionnelle est obligatoire pour les salariés; la loi peut prévoir des exceptions;
 
-- l'employeur  assure  ses  salariés  auprès  d'une  institution  de  prévoyance;  au besoin, la Confédération lui donne la possibilité d'assurer ses salariés auprès d'une institution de prévoyance fédérale;
+- c. l'employeur assure ses salariés auprès d'une institution de prévoyance; au besoin, la Confédération lui donne la possibilité d'assurer ses salariés auprès d'une institution de prévoyance fédérale;
 
-- les  personnes  exerçant  une  activité  indépendante  peuvent  s'assurer  auprès d'une institution de prévoyance à titre facultatif;
+- d. les personnes exerçant une activité indépendante peuvent s'assurer auprès d'une institution de prévoyance à titre facultatif;
 
-- la  Confédération  peut  déclarer  la  prévoyance  professionnelle  obligatoire pour  certaines  catégories  de  personnes  exerçant  une  activité  indépendante, d'une façon générale ou pour couvrir des risques particuliers.
+- e. la Confédération peut déclarer la prévoyance professionnelle obligatoire pour certaines catégories de personnes exerçant une activité indépendante, d'une façon générale ou pour couvrir des risques particuliers.
 
 3  La prévoyance professionnelle est financée par les cotisations des assurés; lorsque l'assuré est salarié, l'employeur prend à sa charge au moins la moitié du montant de la cotisation.
 
@@ -1621,15 +1619,15 @@ De la Confédération suisse
 
 2  Ce faisant, elle respecte les principes suivants:
 
-- l'assurance  garantit  une  compensation  appropriée  de  la  perte  du  revenu  et soutient les mesures destinées à prévenir et à combattre le chômage;
+- a. l'assurance garantit une compensation appropriée de la perte du revenu et soutient les mesures destinées à prévenir et à combattre le chômage;
 
-- l'affiliation  est  obligatoire  pour  les  salariés;  la  loi  peut  prévoir  des  exceptions;
+- b. l'affiliation est obligatoire pour les salariés; la loi peut prévoir des exceptions;
 
-- les  personnes  exerçant  une  activité  indépendante  peuvent  s'assurer  à  titre facultatif.
+- c. les personnes exerçant une activité indépendante peuvent s'assurer à titre facultatif.
 
 - 3  L'assurance-chômage est financée par les cotisations des assurés; lorsque l'assuré est salarié, l'employeur prend à sa charge la moitié du montant de la cotisation.
 
-- avec disposition transitoire
+* avec disposition transitoire
 
 35
 
@@ -1671,11 +1669,11 @@ Les personnes dans le besoin sont assistées par leur canton de domicile. La Con
 
 2  Elle légifère sur:
 
-- l'utilisation des denrées alimentaires ainsi que des agents thérapeutiques, des stupéfiants, des organismes, des produits chimiques et des objets qui peuvent présenter un danger pour la santé;
+- a. l'utilisation des denrées alimentaires ainsi que des agents thérapeutiques, des stupéfiants, des organismes, des produits chimiques et des objets qui peuvent présenter un danger pour la santé;
 
-- la lutte contre les maladies transmissibles, les maladies très répandues et les maladies particulièrement dangereuses de l'être humain et des animaux;
+- b. la lutte contre les maladies transmissibles, les maladies très répandues et les maladies particulièrement dangereuses de l'être humain et des animaux;
 
-- la protection contre les rayons ionisants.
+- c. la protection contre les rayons ionisants.
 
 36
 
@@ -1697,13 +1695,13 @@ La Confédération et les cantons pourvoient, dans les limites de leurs compéte
 
 2  Elle  respecte  les  principes  suivants  en  matière  de  recherche  en  biologie  et  en médecine impliquant des personnes:
 
-- un projet de recherche ne peut être réalisé que si la personne y participant ou la personne désignée par la loi a donné son consentement éclairé; la loi peut prévoir des exceptions; un refus est contraignant dans tous les cas;
+- a. un projet de recherche ne peut être réalisé que si la personne y participant ou la personne désignée par la loi a donné son consentement éclairé; la loi peut prévoir des exceptions; un refus est contraignant dans tous les cas;
 
-- les risques et les contraintes encourus par les personnes participant à un projet de recherche ne doivent pas être disproportionnés par rapport à l'utilité du projet;
+- b. les risques et les contraintes encourus par les personnes participant à un projet de recherche ne doivent pas être disproportionnés par rapport à l'utilité du projet;
 
-- un projet de recherche ne peut être réalisé sur des personnes incapables de discernement que si des résultats équivalents ne peuvent être obtenus chez des personnes capables de discernement; lorsque le projet de recherche ne permet pas d'escompter un bénéfice direct pour les personnes incapables de discernement, les risques et les contraintes doivent être minimaux;
+- c. un projet de recherche ne peut être réalisé sur des personnes incapables de discernement que si des résultats équivalents ne peuvent être obtenus chez des personnes capables de discernement; lorsque le projet de recherche ne permet pas d'escompter un bénéfice direct pour les personnes incapables de discernement, les risques et les contraintes doivent être minimaux;
 
-- une  expertise  indépendante  du  projet  de  recherche  doit  avoir  établi  que  la protection des personnes participant à ce projet est garantie.
+- d. une expertise indépendante du projet de recherche doit avoir établi que la protection des personnes participant à ce projet est garantie.
 
 ##### Art. 119 Procréation médicalement assistée et génie génétique dans le domaine humain
 
@@ -1711,9 +1709,9 @@ La Confédération et les cantons pourvoient, dans les limites de leurs compéte
 
 2  La  Confédération  légifère  sur  l'utilisation  du  patrimoine  germinal  et  génétique humain. Ce faisant, elle veille à assurer la protection de la dignité humaine, de la personnalité et de la famille et respecte notamment les principes suivants:
 
-- toute forme de clonage et toute intervention dans le patrimoine génétique de gamètes et d'embryons humains sont interdites;
+- a. toute forme de clonage et toute intervention dans le patrimoine génétique de gamètes et d'embryons humains sont interdites;
 
-- le  patrimoine  génétique  et  germinal  non  humain  ne  peut  être  ni  transféré dans le patrimoine germinal humain ni fusionné avec celui-ci;
+- b. le patrimoine génétique et germinal non humain ne peut être ni transféré dans le patrimoine germinal humain ni fusionné avec celui-ci;
 
 - 52 Accepté en votation populaire du 17 mai 2009, en vigueur depuis le 17 mai 2009 (AF du 3 oct. 2008, ACF du 21 oct. 2009; RO 2009 5325; FF 2005 5631, 2006 7191, 2008 7469, 2009 6833).
 
@@ -1729,15 +1727,15 @@ La Confédération et les cantons pourvoient, dans les limites de leurs compéte
 
 Constitution fédérale
 
-- le recours aux méthodes de procréation médicalement assistée n'est autorisé que lorsque la stérilité ou le danger de transmission d'une grave maladie ne peuvent  être  écartés  d'une  autre  manière,  et  non  pour  développer  chez l'enfant  certaines  qualités  ou  pour  faire  de  la  recherche;  la  fécondation d'ovules humains hors du corps de la femme n'est autorisée qu'aux conditions  prévues  par  la  loi;  ne  peuvent  être  développés  hors  du  corps  de  la femme jusqu'au stade d'embryon que le nombre d'ovules humains pouvant être immédiatement implantés;
+- c. le recours aux méthodes de procréation médicalement assistée n'est autorisé que lorsque la stérilité ou le danger de transmission d'une grave maladie ne peuvent être écartés d'une autre manière, et non pour développer chez l'enfant certaines qualités ou pour faire de la recherche; la fécondation d'ovules humains hors du corps de la femme n'est autorisée qu'aux conditions prévues par la loi; ne peuvent être développés hors du corps de la femme jusqu'au stade d'embryon que le nombre d'ovules humains pouvant être immédiatement implantés;
 
-- le  don  d'embryons  et  toutes  les  formes  de  maternité  de  substitution  sont interdits;
+- d. le don d'embryons et toutes les formes de maternité de substitution sont interdits;
 
-- il  ne  peut  être  fait  commerce  du  matériel  germinal  humain  ni  des  produits résultant d'embryons;
+- e. il ne peut être fait commerce du matériel germinal humain ni des produits résultant d'embryons;
 
-- le  patrimoine  génétique  d'une  personne  ne  peut  être  analysé,  enregistré  et communiqué qu'avec le consentement de celle-ci ou en vertu d'une loi;
+- f. le patrimoine génétique d'une personne ne peut être analysé, enregistré et communiqué qu'avec le consentement de celle-ci ou en vertu d'une loi;
 
-- toute personne a accès aux données relatives à son ascendance.
+- g. toute personne a accès aux données relatives à son ascendance.
 
 ##### Art. 119 a 54 Médecine de la transplantation
 
@@ -1777,9 +1775,9 @@ De la Confédération suisse
 
 - 3  Ils  sont  privés  de  leur  titre  de  séjour,  indépendamment  de  leur  statut,  et  de  tous leurs droits à séjourner en Suisse:
 
-- s'ils ont été condamnés par un jugement entré en force pour meurtre, viol, ou tout autre délit sexuel grave, pour un acte de violence d'une autre nature tel que le brigandage, la traite d'êtres humains, le trafic de drogue ou l'effraction; ou
+- a. s'ils ont été condamnés par un jugement entré en force pour meurtre, viol, ou tout autre délit sexuel grave, pour un acte de violence d'une autre nature tel que le brigandage, la traite d'êtres humains, le trafic de drogue ou l'effraction; ou
 
-- s'ils  ont  perçu  abusivement  des  prestations  des  assurances  sociales  ou  de l'aide sociale. 55
+- b. s'ils ont perçu abusivement des prestations des assurances sociales ou de l'aide sociale. 55
 
 - 4  Le législateur précise les faits constitutifs des infractions visées à l'al. 3. Il peut les compléter par d'autres faits constitutifs. 56
 
@@ -1787,15 +1785,15 @@ De la Confédération suisse
 
 - 6  Les étrangers qui contreviennent à l'interdiction d'entrer sur le territoire ou qui y entrent illégalement de quelque manière que ce soit sont punissables. Le législateur édicte les dispositions correspondantes. 58
 
-- avec disposition transitoire
+* avec disposition transitoire
 
-- 56 Accepté en votation populaire du 28 nov. 2010, en vigueur  depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; RO 2011 1199; FF 2008 1745, 2009 4571, 2010 3853, 2011 2593).
+- 55 Accepté en votation populaire du 28 nov. 2010, en vigueur depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; RO 2011 1199; FF 2008 1745, 2009 4571, 2010 3853, 2011 2593).
 
-- 55 Accepté en votation populaire du 28 nov. 2010, en vigueur  depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; RO 2011 1199; FF 2008 1745, 2009 4571, 2010 3853, 2011 2593).
+- 56 Accepté en votation populaire du 28 nov. 2010, en vigueur depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; RO 2011 1199; FF 2008 1745, 2009 4571, 2010 3853, 2011 2593).
 
-- 57 Accepté en votation populaire du 28 nov. 2010, en vigueur  depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; RO 2011 1199; FF 2008 1745, 2009 4571, 2010 3853, 2011 2593).
+- 57 Accepté en votation populaire du 28 nov. 2010, en vigueur depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; RO 2011 1199; FF 2008 1745, 2009 4571, 2010 3853, 2011 2593).
 
-- 58 Accepté en votation populaire du 28 nov. 2010, en vigueur  depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; RO 2011 1199; FF 2008 1745, 2009 4571, 2010 3853, 2011 2593).
+- 58 Accepté en votation populaire du 28 nov. 2010, en vigueur depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; RO 2011 1199; FF 2008 1745, 2009 4571, 2010 3853, 2011 2593).
 
 39
 
@@ -1823,11 +1821,11 @@ Constitution fédérale
 
 3  La Confédération peut légiférer sur l'exécution des peines et des mesures. Elle peut octroyer aux cantons des contributions:
 
-- pour la construction d'établissements;
+- a. pour la construction d'établissements;
 
-- pour l'amélioration de l'exécution des peines et des mesures;
+- b. pour l'amélioration de l'exécution des peines et des mesures;
 
-- pour le soutien des institutions où sont exécutées les mesures éducatives destinées aux enfants, aux adolescents ou aux jeunes adultes. 61
+- c. pour le soutien des institutions où sont exécutées les mesures éducatives destinées aux enfants, aux adolescents ou aux jeunes adultes. 61
 
 ##### Art. 123 a 62
 
@@ -1837,11 +1835,11 @@ Constitution fédérale
 
 - 3  Toute  expertise  concernant  le  délinquant  est  établie  par  au  moins  deux  experts indépendants qui prennent en considération tous les éléments pertinents.
 
-- 59 Accepté en votation populaire du 12 mars 2000, en vigueur  depuis le 1 er  janv. 2007 (AF du 8 oct. 1999, ACF du 17 mai 2000, AF du 8 mars 2005; RO 2002 3148, 2006 1059; FF 1997 I 1, 1999 7831, 2000 2814, 2001 4000).
-
-- 61 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
+- 59 Accepté en votation populaire du 12 mars 2000, en vigueur depuis le 1 er  janv. 2007 (AF du 8 oct. 1999, ACF du 17 mai 2000, AF du 8 mars 2005; RO 2002 3148, 2006 1059; FF 1997 I 1, 1999 7831, 2000 2814, 2001 4000).
 
 - 60 Accepté en votation populaire du 12 mars 2000 et en vigueur depuis le 1 er  avril 2003 (AF du 8 oct. 1999, ACF du 17 mai 2000, AF du 24 sept. 2002; RO 2002 3148; FF 1997 I 1, 1999 7831, 2000 2814, 2001 4000).
+
+- 61 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
 - 62 Accepté en votation populaire du 8 fév. 2004, en vigueur depuis le 8 fév. 2004 (AF du 20 juin 2003, ACF du 21 avril 2004; RO 2004 2341; FF 2000 3124, 2001 3265, 2003 3979, 2004 2045).
 
@@ -1907,11 +1905,11 @@ Constitution fédérale
 
 1  La Confédération peut percevoir des impôts directs:
 
-- d'un taux maximal de 11,5 % sur les revenus des personnes physiques;
+- a. d'un taux maximal de 11,5 % sur les revenus des personnes physiques;
 
-- 65   d'un taux maximal de 8,5 % sur le bénéfice net des personnes morales;
+- b. 65   d'un taux maximal de 8,5 % sur le bénéfice net des personnes morales;
 
-... 66
+- c. ... 66
 
 2  Lorsqu'elle fixe les tarifs, elle prend en considération la charge constituée par les impôts directs des cantons et des communes.
 
@@ -1927,11 +1925,11 @@ Constitution fédérale
 
 - 3  La  Confédération  peut  légiférer  afin  de  lutter  contre  l'octroi  d'avantages  fiscaux injustifiés.
 
-- avec disposition transitoire
-
-- 66 Abrogée en votation populaire du 28 nov. 2004, avec effet au 1 er  janv. 2007 (AF du 19 mars 2004, ACF du 26 janv. 2005, ACF du 2 fév. 2006; RO 2006 1057; FF 2003 1388, 2004 1245, 2005 883).
+* avec disposition transitoire
 
 - 65 Acceptée en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2007 (AF du 19 mars 2004, ACF du 26 janv. 2005, ACF du 2 fév. 2006; RO 2006 1057; FF 2003 1388, 2004 1245, 2005 883).
+
+- 66 Abrogée en votation populaire du 28 nov. 2004, avec effet au 1 er  janv. 2007 (AF du 19 mars 2004, ACF du 26 janv. 2005, ACF du 2 fév. 2006; RO 2006 1057; FF 2003 1388, 2004 1245, 2005 883).
 
 - 67 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
@@ -1951,7 +1949,7 @@ De la Confédération suisse
 
 - 2  Pour l'imposition des prestations du secteur de l'hébergement, la loi peut fixer un taux plus bas, inférieur au taux normal et supérieur au taux réduit. 69
 
-- 3  Si, par suite de l'évolution de la pyramide des âges, le financement de l'assurancevieillesse, survivants et invalidité n'est plus assuré, la Confédération peut, dans une loi fédérale, relever de 1 point au plus le taux normal de la taxe sur la valeur ajoutée et de 0,3 point au plus son taux réduit. 70
+- 3  Si, par suite de l'évolution de la pyramide des âges, le financement de l'assurance-vieillesse, survivants et invalidité n'est plus assuré, la Confédération peut, dans une loi fédérale, relever de 1 point au plus le taux normal de la taxe sur la valeur ajoutée et de 0,3 point au plus son taux réduit. 70
 
 - 4  5 % du produit non affecté de la taxe sont employés à la réduction des primes de l'assurance-maladie en faveur des classes de revenus inférieures, à moins que la loi n'attribue ce montant à une autre utilisation en faveur de ces classes.
 
@@ -1959,15 +1957,15 @@ De la Confédération suisse
 
 1  La Confédération peut percevoir un impôt à la consommation spécial sur les marchandises suivantes:
 
-- tabac brut et tabac manufacturé;
+- a. tabac brut et tabac manufacturé;
 
-- boissons distillées;
+- b. boissons distillées;
 
-- bière;
+- c. bière;
 
-- automobiles et leurs composantes;
+- d. automobiles et leurs composantes;
 
-- pétrole, autres huiles minérales, gaz naturel, produits résultant de leur raffinage et carburants.
+- e. pétrole, autres huiles minérales, gaz naturel, produits résultant de leur raffinage et carburants.
 
 - 2  Elle peut percevoir une surtaxe sur les carburants.
 
@@ -1975,13 +1973,13 @@ De la Confédération suisse
 
 - 68 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2007 (AF du 19 mars 2004, ACF du 26 janv. 2005, ACF du 2 fév. 2006; RO 2006 1057; FF 2003 1388, 2004 1245, 2005 883).
 
-- 69 A partir du 1 er  janv. 2011 et jusqu'au 31 déc. 2013, l'impôt grevant les prestations du secteur de l'hébergement est fixé à 3,8 % (art. 25 al. 4 la LF du 12 juin 2009 régissant la taxe sur la valeur ajoutée - RS 641.20 ).
+* avec disposition transitoire
 
-- avec disposition transitoire
+- 69 A partir du 1 er  janv. 2011 et jusqu'au 31 déc. 2013, l'impôt grevant les prestations du secteur de l'hébergement est fixé à 3,8 % (art. 25 al. 4 la LF du 12 juin 2009 régissant la taxe sur la valeur ajoutée - RS 641.20 ).
 
 - 70 A partir du 1 er  janv. 2011 et jusqu'au 31 déc. 2017, le taux normal de la taxe sur la valeur ajoutée est fixé à 8 % et le taux réduit à 2,5 % (art. 25 al. 1 et 2 de la loi du 12 juin 2009 régissant la taxe sur la valeur ajoutée; RS 641.20 ).
 
-- avec disposition transitoire
+* avec disposition transitoire
 
 43
 
@@ -2013,17 +2011,17 @@ Les objets que la législation fédérale soumet à la taxe sur la valeur ajout�
 
 2  La péréquation financière et la compensation des charges ont notamment pour but:
 
-- de réduire les disparités entre cantons en ce qui concerne la capacité financière;
+- a. de réduire les disparités entre cantons en ce qui concerne la capacité financière;
 
-- de garantir aux cantons une dotation minimale en ressources financières;
+- b. de garantir aux cantons une dotation minimale en ressources financières;
 
-- de  compenser  les  charges  excessives  des  cantons  dues  à  des  facteurs  géotopographiques ou socio-démographiques;
+- c. de compenser les charges excessives des cantons dues à des facteurs géotopographiques ou socio-démographiques;
 
-- de  favoriser  une  collaboration  intercantonale  assortie  d'une  compensation des charges;
+- d. de favoriser une collaboration intercantonale assortie d'une compensation des charges;
 
-- de maintenir la compétitivité fiscale des cantons à l'échelle nationale et internationale.
+- e. de maintenir la compétitivité fiscale des cantons à l'échelle nationale et internationale.
 
-3  La péréquation des ressources est financée par les cantons à fort potentiel de ressources et par la Confédération. Les prestations des cantons à fort potentiel de ressources équivalent au minimum à deux tiers et au maximum à 80 % de la part de la Confédération.
+3  La péréquation des ressources est financée par les cantons à fort potentiel de ressources et par la Confédération. Les prestations des cantons à fort potentiel de res-
 
 > 71 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
@@ -2038,6 +2036,8 @@ Les objets que la législation fédérale soumet à la taxe sur la valeur ajout�
 De la Confédération suisse
 
 101
+
+sources équivalent au minimum à deux tiers et au maximum à 80 % de la part de la Confédération.
 
 ## Titre 4 Peuple et cantons
 ### Chapitre 1 Dispositions générales
@@ -2100,15 +2100,15 @@ Constitution fédérale
 
 1  Sont soumises au vote du peuple et des cantons:
 
-- les révisions de la Constitution;
+- a. les révisions de la Constitution;
 
-- l'adhésion à des organisations de sécurité collective ou à des communautés supranationales;
+- b. l'adhésion à des organisations de sécurité collective ou à des communautés supranationales;
 
 - 75 Accepté en votation populaire du 9 fév. 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003; RO 2003 1949; FF 2001 4590 5783, 2002 6026, 2003 2784). Abrogé en votation populaire du 27 sept. 2009, avec effet au 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1 er  déc. 2009; RO 2009 6409; FF 2008 2549 2565, 2009 19 7889). Cet art., dans la teneur de l'AF du 4 oct. 2002, n'est jamais entré en vigueur.
 
-- L'al. 1, dans la teneur de l'AF du 4 oct. 2002, n'est jamais entré en vigueur. 77 Accepté en votation populaire du 27 sept. 2009, en vigueur depuis le 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1 er  déc. 2009; RO 2009 6409; FF 2008 2549 2565, 2009 19 7889).
+- 76 Accepté en votation populaire du 9 fév. 2003, en vigueur pour les al. 2 et 3 depuis le 1 er  août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; RO 2003 1949; FF 2001 4590 5783, 2002 6026, 2003 2784 3518 3525). L'al. 1, dans la teneur de l'AF du 4 oct. 2002, n'est jamais entré en vigueur.
 
-- 76 Accepté en votation populaire du 9 fév. 2003, en vigueur pour les al. 2 et 3 depuis le 1 er  août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; RO 2003 1949; FF 2001 4590 5783, 2002 6026, 2003 2784 3518 3525).
+- 77 Accepté en votation populaire du 27 sept. 2009, en vigueur depuis le 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1 er  déc. 2009; RO 2009 6409; FF 2008 2549 2565, 2009 19 7889).
 
 46
 
@@ -2120,41 +2120,42 @@ De la Confédération suisse
 
 101
 
-- les  lois  fédérales  déclarées  urgentes  qui  sont  dépourvues  de  base  constitutionnelle et dont la durée de validité dépasse une année; ces lois doivent être soumises  au  vote  dans  le  délai  d'un  an  à  compter  de  leur  adoption  par l'Assemblée fédérale.
+- c. les lois fédérales déclarées urgentes qui sont dépourvues de base constitutionnelle et dont la durée de validité dépasse une année; ces lois doivent être soumises au vote dans le délai d'un an à compter de leur adoption par l'Assemblée fédérale.
 
 2  Sont soumis au vote du peuple:
 
-- les initiatives populaires tendant à la révision totale de la Constitution; a bis .  ... 78
+- a. les initiatives populaires tendant à la révision totale de la Constitution;
+- a bis. ... 78
 
-- 79   les initiatives populaires conçues en termes généraux qui tendent à la révision partielle de la Constitution et qui ont été rejetées par l'Assemblée fédérale;
+- b. 79   les initiatives populaires conçues en termes généraux qui tendent à la révision partielle de la Constitution et qui ont été rejetées par l'Assemblée fédérale;
 
-- le principe d'une révision totale de la Constitution, en cas de désaccord entre les deux conseils.
+- c. le principe d'une révision totale de la Constitution, en cas de désaccord entre les deux conseils.
 
 ##### Art. 141 Référendum facultatif
 
 1  Si 50 000 citoyens et citoyennes ayant le droit de vote ou huit cantons le demandent dans les 100 jours à compter de la publication officielle de l'acte, sont soumis au vote du peuple: 80
 
-- les lois fédérales;
+- a. les lois fédérales;
 
-- les lois fédérales déclarées urgentes dont la durée de validité dépasse un an;
+- b. les lois fédérales déclarées urgentes dont la durée de validité dépasse un an;
 
-- les arrêtés fédéraux, dans la mesure où la Constitution ou la loi le prévoient;
+- c. les arrêtés fédéraux, dans la mesure où la Constitution ou la loi le prévoient;
 
-- les traités internationaux qui:
+- d. les traités internationaux qui:
 
-- sont d'une durée indéterminée et ne sont pas dénonçables,
+- 1. sont d'une durée indéterminée et ne sont pas dénonçables,
 
-- prévoient l'adhésion à une organisation internationale,
+- 2. prévoient l'adhésion à une organisation internationale,
 
-- 81   contiennent  des  dispositions  importantes  fixant  des  règles  de  droit  ou dont la mise en œuvre exige l'adoption de lois fédérales.
+- 3. 81   contiennent des dispositions importantes fixant des règles de droit ou dont la mise en œuvre exige l'adoption de lois fédérales.
 
 2  ... 82
 
 - 78 Acceptée en votation populaire du 9 fév. 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003; RO 2003 1949; FF 2001 4590 5783, 2002 6026, 2003 2784). Abrogée en votation populaire du 27 sept. 2009, avec effet au 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1 er  déc. 2009; RO 2009 6409; FF 2008 2549 2565, 2009 19 7889). Cette let., dans la teneur de l'AF du 4 oct. 2002, n'est jamais entrée en vigueur.
 
-- 80 Acceptée en votation populaire du 9 fév. 2003, en vigueur depuis le 1 er  août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; RO 2003 1949; FF 2001 4590 5783, 2002 6026, 2003 2784 3518 3525).
-
 - 79 Acceptée en votation populaire du 27 sept. 2009, en vigueur depuis le 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1 er  déc. 2009; RO 2009 6409; FF 2008 2549 2565, 2009 19 7889).
+
+- 80 Acceptée en votation populaire du 9 fév. 2003, en vigueur depuis le 1 er  août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; RO 2003 1949; FF 2001 4590 5783, 2002 6026, 2003 2784 3518 3525).
 
 - 81 Accepté en votation populaire du 9 fév. 2003, en vigueur depuis le 1 er  août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; RO 2003 1949; FF 2001 4590 5783, 2002 6026, 2003 2784 3518 3525).
 
@@ -2301,11 +2302,11 @@ Les membres de l'Assemblée fédérale peuvent former des groupes.
 
 - 3  La  loi  prévoit  de  garantir,  en  cas  de  divergences  entre  les  deux  conseils,  qu'un arrêté soit pris sur:
 
-- la validité ou la nullité partielle d'une initiative populaire;
+- a. la validité ou la nullité partielle d'une initiative populaire;
 
-- 84   la  mise  en  œuvre  d'une  initiative  populaire  conçue  en  termes  généraux  et approuvée par le peuple;
+- b. 84   la mise en œuvre d'une initiative populaire conçue en termes généraux et approuvée par le peuple;
 
-- 85   la  mise  en  œuvre  d'un  arrêté  fédéral  approuvé  par  le  peuple  et  visant  une révision totale de la Constitution;
+- c. 85   la mise en œuvre d'un arrêté fédéral approuvé par le peuple et visant une révision totale de la Constitution;
 
 - 84 Acceptée en votation populaire du 27 sept. 2009, en vigueur depuis le 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1 er  déc. 2009; RO 2009 6409; FF 2008 2549 2565, 2009 19 7889).
 
@@ -2327,11 +2328,11 @@ d. le budget ou ses suppléments. 86
 
 1  Le  Conseil  national  et  le  Conseil  des  Etats  délibèrent  en  conseils  réunis,  sous  la direction du président ou de la présidente du Conseil national, pour:
 
-- procéder à des élections;
+- a. procéder à des élections;
 
-- statuer sur les conflits de compétence entre les autorités fédérales suprêmes;
+- b. statuer sur les conflits de compétence entre les autorités fédérales suprêmes;
 
-- statuer sur les recours en grâce.
+- c. statuer sur les recours en grâce.
 
 2  En outre, ils siègent en conseils réunis lors d'occasions spéciales et pour prendre connaissance de déclarations du Conseil fédéral.
 
@@ -2347,19 +2348,19 @@ Les séances des conseils sont publiques. La loi peut prévoir des exceptions.
 
 - 3  Doivent cependant être adoptés à la majorité des membres de chaque conseil:
 
-- la déclaration d'urgence des lois fédérales;
+- a. la déclaration d'urgence des lois fédérales;
 
-- les dispositions relatives aux subventions, ainsi que les crédits d'engagement et  les  plafonds  de  dépenses, s'ils entraînent de nouvelles dépenses uniques de  plus  de  20  millions  de  francs  ou  de  nouvelles  dépenses  périodiques  de plus de 2 millions de francs;
+- b. les dispositions relatives aux subventions, ainsi que les crédits d'engagement et les plafonds de dépenses, s'ils entraînent de nouvelles dépenses uniques de plus de 20 millions de francs ou de nouvelles dépenses périodiques de plus de 2 millions de francs;
 
-- 87   l'augmentation des dépenses totales en cas de besoins financiers exceptionnels aux termes de l'art. 126, al. 3.
+- c. 87 l'augmentation des dépenses totales en cas de besoins financiers exceptionnels aux termes de l'art. 126, al. 3.
 
 - 4  L'Assemblée fédérale peut adapter les montants visés à l'al. 3, let. b, au renchérissement par une ordonnance. 88
 
-- 86 Accepté en votation populaire du 9 fév. 2003, en vigueur pour les let. a et d depuis le 1 er  août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; RO 2003 1949; FF 2001 4590 5783, 2002 6026, 2003 2784 3518 3525).
+- 86 Accepté en votation populaire du 9 fév. 2003, en vigueur pour les let. a et d depuis le 1 er août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; RO 2003 1949; FF 2001 4590 5783, 2002 6026, 2003 2784 3518 3525).
 
-- 88 Accepté en votation populaire du 2 déc. 2001, en vigueur depuis le 2 déc. 2001 (AF du 22 juin 2001, ACF du 4 fév. 2002;  RO 2002 241; FF 2000 4295, 2001 2255 2741, 2002 1156).
+- 87 Accepté en votation populaire du 2 déc. 2001, en vigueur depuis le 2 déc. 2001 (AF du 22 juin 2001, ACF du 4 fév. 2002; RO 2002 241; FF 2000 4295, 2001 2255 2741, 2002 1156).
 
-- 87 Accepté en votation populaire du 2 déc. 2001, en vigueur depuis le 2 déc. 2001 (AF du 22 juin 2001, ACF du 4 fév. 2002;  RO 2002 241; FF 2000 4295, 2001 2255 2741, 2002 1156).
+- 88 Accepté en votation populaire du 2 déc. 2001, en vigueur depuis le 2 déc. 2001 (AF du 22 juin 2001, ACF du 4 fév. 2002; RO 2002 241; FF 2000 4295, 2001 2255 2741, 2002 1156).
 
 51
 
@@ -2401,19 +2402,19 @@ Constitution fédérale
 
 1  Toutes les dispositions importantes qui fixent des règles de droit doivent être édictées sous la forme d'une loi fédérale. Appartiennent en particulier à cette catégorie les dispositions fondamentales relatives:
 
-- à l'exercice des droits politiques;
+- a. à l'exercice des droits politiques;
 
-- à la restriction des droits constitutionnels;
+- b. à la restriction des droits constitutionnels;
 
-- aux droits et aux obligations des personnes;
+- c. aux droits et aux obligations des personnes;
 
-- à la qualité de contribuable, à l'objet des impôts et au calcul du montant des impôts;
+- d. à la qualité de contribuable, à l'objet des impôts et au calcul du montant des impôts;
 
-- aux tâches et aux prestations de la Confédération;
+- e. aux tâches et aux prestations de la Confédération;
 
-- aux obligations des cantons lors de la mise en œuvre et de l'exécution du droit fédéral;
+- f. aux obligations des cantons lors de la mise en œuvre et de l'exécution du droit fédéral;
 
-- à l'organisation et à la procédure des autorités fédérales.
+- g. à l'organisation et à la procédure des autorités fédérales.
 
 52
 
@@ -2489,25 +2490,25 @@ Constitution fédérale
 
 - 1  L'Assemblée fédérale a en outre les tâches et les compétences suivantes:
 
-- elle  prend  les  mesures  nécessaires  pour  préserver  la  sécurité  extérieure, l'indépendance et la neutralité de la Suisse;
+- a. elle prend les mesures nécessaires pour préserver la sécurité extérieure, l'indépendance et la neutralité de la Suisse;
 
-- elle prend les mesures nécessaires pour préserver la sécurité intérieure;
+- b. elle prend les mesures nécessaires pour préserver la sécurité intérieure;
 
-- elle peut édicter, lorsque des circonstances extraordinaires l'exigent et pour remplir  les  tâches  mentionnées  aux  lettres  a  et  b,  des  ordonnances  ou  des arrêtés fédéraux simples;
+- c. elle peut édicter, lorsque des circonstances extraordinaires l'exigent et pour remplir les tâches mentionnées aux lettres a et b, des ordonnances ou des arrêtés fédéraux simples;
 
-- elle ordonne le service actif et, à cet effet, met sur pied l'armée ou une partie de l'armée;
+- d. elle ordonne le service actif et, à cet effet, met sur pied l'armée ou une partie de l'armée;
 
-- elle prend des mesures afin d'assurer l'application du droit fédéral;
+- e. elle prend des mesures afin d'assurer l'application du droit fédéral;
 
-- elle statue sur la validité des initiatives populaires qui ont abouti;
+- f. elle statue sur la validité des initiatives populaires qui ont abouti;
 
-- elle participe aux planifications importantes des activités de l'Etat;
+- g. elle participe aux planifications importantes des activités de l'Etat;
 
-- elle statue sur des actes particuliers lorsqu'une loi fédérale le prévoit expressément;
+- h. elle statue sur des actes particuliers lorsqu'une loi fédérale le prévoit expressément;
 
-- elle statue sur les conflits de compétence entre les autorités fédérales suprêmes;
+- i. elle statue sur les conflits de compétence entre les autorités fédérales suprêmes;
 
-- elle statue sur les recours en grâce et prononce l'amnistie.
+- k. elle statue sur les recours en grâce et prononce l'amnistie.
 
 2  L'Assemblée fédérale traite en outre tous les objets qui relèvent de la compétence de la Confédération et qui ne ressortissent pas à une autre autorité fédérale.
 
@@ -2649,13 +2650,13 @@ De la Confédération suisse
 
 1  Le Conseil fédéral a en outre les tâches et les compétences suivantes:
 
-- surveiller  l'administration  fédérale  et  les  autres  organes  ou  personnes  auxquels sont confiées des tâches de la Confédération;
+- a. surveiller l'administration fédérale et les autres organes ou personnes auxquels sont confiées des tâches de la Confédération;
 
-- rendre compte régulièrement de sa gestion et de l'état du pays à l'Assemblée fédérale;
+- b. rendre compte régulièrement de sa gestion et de l'état du pays à l'Assemblée fédérale;
 
-- procéder aux nominations et aux élections qui ne relèvent pas d'une autre autorité;
+- c. procéder aux nominations et aux élections qui ne relèvent pas d'une autre autorité;
 
-- connaître des recours, dans la mesure où la loi le prévoit.
+- d. connaître des recours, dans la mesure où la loi le prévoit.
 
 2  La loi peut attribuer au Conseil fédéral d'autres tâches et d'autres compétences.
 
@@ -2683,17 +2684,17 @@ Constitution fédérale
 
 1  Le Tribunal fédéral connaît des contestations pour violation:
 
-- du droit fédéral;
+- a. du droit fédéral;
 
-- du droit international;
+- b. du droit international;
 
-- du droit intercantonal;
+- c. du droit intercantonal;
 
-- des droits constitutionnels cantonaux;
+- d. des droits constitutionnels cantonaux;
 
-- de l'autonomie des communes et des autres garanties accordées par les cantons aux corporations de droit public;
+- e. de l'autonomie des communes et des autres garanties accordées par les cantons aux corporations de droit public;
 
-- des dispositions fédérales et cantonales sur les droits politiques.
+- f. des dispositions fédérales et cantonales sur les droits politiques.
 
 1bis  ... 92
 
@@ -2713,11 +2714,11 @@ Le Tribunal fédéral et les autres autorités sont tenus d'appliquer les lois f
 
 2  Elle peut prévoir une valeur litigieuse minimale pour les contestations qui ne portent pas sur une question juridique de principe.
 
-- 91 Accepté en votation populaire du 12 mars 2000, en vigueur  depuis le 1 er  janv. 2007 (AF du 8 oct. 1999, ACF du 17 mai 2000, AF du 8 mars 2005; RO 2002 3148, 2006 1059; FF 1997 I 1, 1999 7831, 2000 2814, 2001 4000).
+- 91 Accepté en votation populaire du 12 mars 2000, en vigueur depuis le 1 er janv. 2007 (AF du 8 oct. 1999, ACF du 17 mai 2000, AF du 8 mars 2005; RO 2002 3148, 2006 1059; FF 1997 I 1, 1999 7831, 2000 2814, 2001 4000).
 
-- 93 Rectifié par la Commission de rédaction de l'Ass. féd. (art. 58, al. 1, LParl; RS 171.10 ).
+- 92 Accepté en votation populaire du 9 fév. 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003; RO 2003 1949; FF 2001 4590 5783, 2002 6026, 2003 2784). Abrogé en votation populaire du 27 sept. 2009, avec effet au 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1 er déc. 2009; RO 2009 6409; FF 2008 2549 2565, 2009 19 7889). Cet al., dans la teneur de l'AF du 4 oct. 2002, n'est jamais entré en vigueur.
 
-- 92 Accepté en votation populaire du 9 fév. 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003; RO 2003 1949; FF 2001 4590 5783, 2002 6026, 2003 2784). Abrogé en votation populaire du 27 sept. 2009, avec effet au 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1 er  déc. 2009; RO 2009 6409; FF 2008 2549 2565, 2009 19 7889). Cet al., dans la teneur de l'AF du 4 oct. 2002, n'est jamais entré en vigueur.
+- 93 Rectifié par la Commission de rédaction de l'Ass. féd. (art. 58, al. 1, LParl; RS 171.10).
 
 58
 
@@ -2802,7 +2803,7 @@ La Constitution révisée totalement ou partiellement entre en vigueur dès que 
 
 Le trafic de transit des marchandises doit avoir été transféré de la route au rail dans un délai de dix ans à compter de la date à laquelle a été adoptée l'initiative populaire pour la protection des régions alpines contre le trafic de transit.
 
-###### Disposition transitoire ad art. 85 (Redevance forfaitaire sur la circulation des poids lourds)
+###### 2. Disposition transitoire ad art. 85 (Redevance forfaitaire sur la circulation des poids lourds)
 
 1  La Confédération perçoit une redevance annuelle sur les véhicules automobiles et les  remorques  immatriculés  en  Suisse  ou  à  l'étranger  dont  le  poids  total  est,  pour chacune de ces deux catégories de véhicules, supérieur à 3,5 t, pour l'utilisation des routes ouvertes au trafic général.
 
@@ -2846,17 +2847,17 @@ c. | pour les autocars | 650
 
 - 8  Le présent article a effet jusqu'à l'entrée en vigueur de la loi du 19 décembre 1997 relative à une redevance sur le trafic des poids lourds 97 .
 
-###### Disposition transitoire ad art. 87 (Transports)
+###### 3. Disposition transitoire ad art. 87 (Transports)
 
 1  Les grands projets ferroviaires comprennent la nouvelle ligne ferroviaire à travers les Alpes (NLFA), RAIL 2000, le raccordement de la Suisse orientale et occidentale au réseau européen des trains à haute performance et l'amélioration, au moyen de mesures actives et passives, de la protection contre le bruit le long des voies ferrées.
 
 2  Pour financer les grands projets ferroviaires, le Conseil fédéral peut:
 
-- jusqu'à l'entrée en vigueur de la redevance sur le trafic des poids lourds liée aux prestations  ou  à  la  consommation  prévue  à  l'art.  85  utiliser  le  produit total de la redevance forfaitaire sur les poids lourds prévue à l'art. 196, ch. 2, et à cet effet augmenter le taux de la redevance de 100 % au plus;
+- a. jusqu'à l'entrée en vigueur de la redevance sur le trafic des poids lourds liée aux prestations ou à la consommation prévue à l'art. 85 utiliser le produit total de la redevance forfaitaire sur les poids lourds prévue à l'art. 196, ch. 2, et à cet effet augmenter le taux de la redevance de 100 % au plus;
 
-- utiliser deux tiers au plus du produit de la redevance sur le trafic des poids lourds liée aux prestations ou à la consommation prévue à l'art. 85;
+- b. utiliser deux tiers au plus du produit de la redevance sur le trafic des poids lourds liée aux prestations ou à la consommation prévue à l'art. 85;
 
-- utiliser  les  fonds  provenant  de  l'impôt  sur  les  huiles  minérales  prévu  à l'art. 86, al. 3, let. b, pour couvrir à raison de 25 % les coûts occasionnés par les lignes de base de la NLFA;
+- c. utiliser les fonds provenant de l'impôt sur les huiles minérales prévu à l'art. 86, al. 3, let. b, pour couvrir à raison de 25 % les coûts occasionnés par les lignes de base de la NLFA;
 
 > 96 RS 741.01
 
@@ -2872,11 +2873,11 @@ c. | pour les autocars | 650
 
 Constitution fédérale
 
-- prélever des fonds sur le marché des capitaux, jusqu'à concurrence de 25 % au plus des coûts occasionnés par les projets de la NLFA, RAIL 2000 et le raccordement  de  la  Suisse  orientale  et  occidentale  au  réseau  européen  des trains à haute performance;
+- d. prélever des fonds sur le marché des capitaux, jusqu'à concurrence de 25 % au plus des coûts occasionnés par les projets de la NLFA, RAIL 2000 et le raccordement de la Suisse orientale et occidentale au réseau européen des trains à haute performance;
 
-- 98   relever de 0,1 point les taux de la taxe sur la valeur ajoutée fixés à l'art. 130, al. 1 à 3;
+- e. 98 relever de 0,1 point les taux de la taxe sur la valeur ajoutée fixés à l'art. 130, al. 1 à 3;
 
-- faire appel aux possibilités d'un financement complémentaire privé ou réalisé grâce à des organisations internationales.
+- f. faire appel aux possibilités d'un financement complémentaire privé ou réalisé grâce à des organisations internationales.
 
 - 3  Le financement des grands projets ferroviaires mentionnés à l'al. 1 est assuré par un  fonds  juridiquement  dépendant  de  la  Confédération  et  doté  d'une  comptabilité propre. Les ressources provenant des redevances et impôts mentionnés à l'al. 2 sont comptabilisées  dans  le  compte  financier  de  la  Confédération  et  versées  au  fonds durant  la  même  année.  La  Confédération  peut  accorder  des  avances  au  fonds. L'Assemblée fédérale édicte le règlement du fonds sous la forme d'une ordonnance.
 
@@ -2884,16 +2885,15 @@ Constitution fédérale
 
 - 5  Le présent chiffre est applicable jusqu'à l'achèvement des travaux de construction et  du  financement  (remboursement  des  avances)  des  grands  projets  ferroviaires mentionnés à l'al. 1.
 
-###### Disposition transitoire ad art. 90 (Energie nucléaire)
+###### 4. Disposition transitoire ad art. 90 (Energie nucléaire)
 
 Jusqu'au 23 septembre 2000, aucune autorisation générale et aucune autorisation de construire, de mettre en service ou d'exploiter de nouvelles installations destinées à la production d'énergie nucléaire ne sera accordée.
 
-###### Disposition transitoire ad art. 95 (Activité économique lucrative privée)
-Jusqu'à l'adoption d'une législation, les cantons sont tenus à la reconnaissance réci-
+###### 5. Disposition transitoire ad art. 95 (Activité économique lucrative privée)
 
-proque des titres sanctionnant une formation.
+Jusqu'à l'adoption d'une législation, les cantons sont tenus à la reconnaissance réciproque des titres sanctionnant une formation.
 
-###### Disposition transitoire ad art. 102 (Approvisionnement du pays)
+###### 6. Disposition transitoire ad art. 102 (Approvisionnement du pays)
 
 1  La  Confédération  assure  l'approvisionnement  du  pays  en  céréales  et  en  farine panifiables.
 
@@ -2915,11 +2915,11 @@ De la Confédération suisse
 
 Les cantons peuvent continuer pendant dix ans au moins, 99  dès l'entrée en vigueur de  la  Constitution,  à  subordonner  à  un  besoin  l'ouverture  de  nouveaux  établissements  dans  un  secteur  déterminé  de  l'hôtellerie  et  de  la  restauration  pour  assurer l'existence de parties importantes de ce secteur.
 
-###### Disposition transitoire ad art. 106 (Jeux de hasard) 100
+###### 8. Disposition transitoire ad art. 106 (Jeux de hasard) 100
 
 …
 
-###### Disposition transitoire ad art. 110, al. 3 (Jour de la fête nationale)
+###### 9. Disposition transitoire ad art. 110, al. 3 (Jour de la fête nationale)
 
 1  Le  Conseil  fédéral  règle  les  modalités  jusqu'à  l'entrée  en  vigueur  de  la  nouvelle législation fédérale.
 
@@ -2931,7 +2931,7 @@ Les cantons peuvent continuer pendant dix ans au moins, 99  dès l'entrée en vi
 
 Les assurés qui font partie de la génération d'entrée et qui, pour cette raison, ne disposent pas d'un temps de cotisation complet doivent recevoir, en fonction de leur revenu, la protection minimale accordée par la loi après une période dont la durée varie entre dix et vingt ans à compter de l'entrée en vigueur de la loi.
 
-###### Disposition transitoire ad art. 126 (Gestion des finances) 103
+###### 12. Disposition transitoire ad art. 126 (Gestion des finances) 103
 
 …
 
@@ -2943,19 +2943,21 @@ L'impôt fédéral direct peut être prélevé jusqu'à la fin de 2020.
 
 > 1  La taxe sur la valeur ajoutée peut être perçue jusqu'à la fin de 2020.
 
-> 99 Lire: «Les cantons peuvent continuer pendant dix ans au plus , dès l'entrée en vigueur ...», conformément aux versions allemande et italienne, qui ont la teneur suivante: «Die Kantone können während längstens zehn Jahren ab Inkrafttreten ...»; «Per non oltre dieci anni dall'entrata in vigore ...».
+> 99 Lire: «Les cantons peuvent continuer pendant dix ans au plus, dès l'entrée en vigueur ...», conformément aux versions allemande et italienne, qui ont la teneur suivante: «Die Kantone können während längstens zehn Jahren ab Inkrafttreten ...»; «Per non oltre dieci anni dall'entrata in vigore ...».
 
-> 102 Abrogé par la votation populaire du 28 nov. 2004, avec effet au 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007 - RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
+- 100 L'art. 106 ayant une nouvelle teneur depuis le 11 mars 2012, la disp. trans. est sans objet.
 
-- 100 L'art. 106 ayant une nouvelle teneur depuis le 11 mars 2012, la disp. trans. est sans objet. 101 RS 822.11
+- 101 RS 822.11
+
+> 102 Abrogé par la votation populaire du 28 nov. 2004, avec effet au 1 er janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007 – RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
 - 103 L'art. 126 ayant une nouvelle teneur depuis le 2 déc. 2001, la disp. trans. est sans objet.
 
-- 105 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2007 (AF du 19 mars 2004, ACF du 26 janv. 2005, ACF du 2 fév. 2006; RO 2006 1057; FF 2003 1388, 2004 1245, 2005 883).
+- 104 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er janv. 2007 (AF du 19 mars 2004, ACF du 26 janv. 2005, ACF du 2 fév. 2006; RO 2006 1057; FF 2003 1388, 2004 1245, 2005 883).
 
-- 104 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er  janv. 2007 (AF du 19 mars 2004, ACF du 26 janv. 2005, ACF du 2 fév. 2006; RO 2006 1057; FF 2003 1388, 2004 1245, 2005 883).
+- 105 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er janv. 2007 (AF du 19 mars 2004, ACF du 26 janv. 2005, ACF du 2 fév. 2006; RO 2006 1057; FF 2003 1388, 2004 1245, 2005 883).
 
-- 106 Accepté en votation populaire du 26 sept. 2009, en vigueur depuis le 1 er  janv. 2011 (AF du 13 juin 2008 et du 12 juin 2009, ACF du 7 sept. 2010; RO 2010 3821; FF 2005 4377, 2008 4745, 2009 3893 3899 3901 7889).
+- 106 Accepté en votation populaire du 26 sept. 2009, en vigueur depuis le 1 er janv. 2011 (AF du 13 juin 2008 et du 12 juin 2009, ACF du 7 sept. 2010; RO 2010 3821; FF 2005 4377, 2008 4745, 2009 3893 3899 3901 7889).
 
 63
 
@@ -2969,11 +2971,11 @@ Constitution fédérale
 
 2  Pour  garantir  le  financement  de  l'assurance-invalidité,  le  Conseil  fédéral  relève comme  suit  les  taux  de  la  taxe  sur  la  valeur  ajoutée,  du  1 er   janvier  2011  au 31 décembre 2017:
 
-- de 0,4 point pour le taux normal visé à l'art. 36, al. 3, de la loi fédérale du 2 septembre 1999 régissant la taxe sur la valeur ajoutée (LTVA) 107 ;
+- a. de 0,4 point pour le taux normal visé à l'art. 36, al. 3, de la loi fédérale du 2 septembre 1999 régissant la taxe sur la valeur ajoutée (LTVA) 107;
 
-- de 0,1 point pour le taux réduit visé à l'art. 36, al. 1, 108  LTVA;
+- b. de 0,1 point pour le taux réduit visé à l'art. 36, al. 1, 108 LTVA;
 
-- de 0,2 point pour le taux spécial prévu à l'art. 36, al. 2, 109  LTVA pour les prestations du secteur de l'hébergement. 110
+- c. de 0,2 point pour le taux spécial prévu à l'art. 36, al. 2, 109 LTVA pour les prestations du secteur de l'hébergement. 110
 
 3  Le produit du relèvement prévu à l'al. 2 est entièrement affecté au Fonds de compensation de l'assurance-invalidité. 111
 
@@ -2991,23 +2993,23 @@ L'impôt sur la bière sera prélevé selon le droit en vigueur jusqu'à l'adopt
 
 2  Le  Conseil  fédéral  est  autorisé  à  adresser  au  Secrétaire  général  de  l'ONU  une demande d'admission de la Suisse et une déclaration d'acceptation des obligations de la Charte des Nations Unies 115 .
 
-- 107 [RO 2000 1300 1134, 2001 3086, 2002 1480, 2004 4719 annexe ch. II 5, 2005 4545 annexe ch. 2, 2006 2197 annexe ch. 52 2673 3243 5379 annexe ch. II 5, 2007 1411 annexe ch. 7 3425 annexe ch. 1 6637 annexe ch. II 5. RO 2009 5203 art. 110]. Voir actuellement l'art. 25 al. 1 de la LF du 12 juin 2009 (RS 641.20 ).
+- 107 [RO 2000 1300 1134, 2001 3086, 2002 1480, 2004 4719 annexe ch. II 5, 2005 4545 annexe ch. 2, 2006 2197 annexe ch. 52 2673 3243 5379 annexe ch. II 5, 2007 1411 annexe ch. 7 3425 annexe ch. 1 6637 annexe ch. II 5. RO 2009 5203 art. 110]. Voir actuellement l'art. 25 al. 1 de la LF du 12 juin 2009 (RS 641.20).
 
-- 109 Voir actuellement l'art. 25 al. 4 de la LF du 12 juin 2009 (RS 641.20 ).
+- 108 Voir actuellement l'art. 25 al. 2 de la LF du 12 juin 2009 (RS 641.20).
 
-- 108 Voir actuellement l'art. 25 al. 2 de la LF du 12 juin 2009 (RS 641.20 ).
+- 109 Voir actuellement l'art. 25 al. 4 de la LF du 12 juin 2009 (RS 641.20).
 
-- 110 Accepté en votation populaire du 26 sept. 2009, en vigueur depuis le 1 er  janv. 2011 (AF du 13 juin 2008 et du 12 juin 2009, ACF du 7 sept. 2010; RO 2010 3821; FF 2005 4377, 2008 4745, 2009 3893 3899 3901 7889).
+- 110 Accepté en votation populaire du 26 sept. 2009, en vigueur depuis le 1 er janv. 2011 (AF du 13 juin 2008 et du 12 juin 2009, ACF du 7 sept. 2010; RO 2010 3821; FF 2005 4377, 2008 4745, 2009 3893 3899 3901 7889).
 
-- 112    RS 641.411 . La loi du 6 oct. 2006 sur l'imposition de la bière est entrée en vigueur le 1 er  juillet 2007.
+- 111 Accepté en votation populaire du 26 sept. 2009, en vigueur depuis le 1 er janv. 2011 (AF du 13 juin 2008 et du 12 juin 2009, ACF du 7 sept. 2010; RO 2010 3821; FF 2005 4377, 2008 4745, 2009 3893 3899 3901 7889).
 
-- 111 Accepté en votation populaire du 26 sept. 2009, en vigueur depuis le 1 er  janv. 2011 (AF du 13 juin 2008 et du 12 juin 2009, ACF du 7 sept. 2010; RO 2010 3821; FF 2005 4377, 2008 4745, 2009 3893 3899 3901 7889).
+- 112 RS 641.411. La loi du 6 oct. 2006 sur l'imposition de la bière est entrée en vigueur le 1 er juillet 2007.
 
-- 113 Abrogé par la votation populaire du 28 nov. 2004, avec effet au 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
-
-- 115 RS 0.120
+- 113 Abrogé par la votation populaire du 28 nov. 2004, avec effet au 1 er janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
 - 114 Accepté en votation populaire du 3 mars 2002, en vigueur depuis le 3 mars 2002 (AF du 5 oct. 2001, ACF du 26 avril 2002; RO 2002 885; FF 2000 2346, 2001 1117 5473, 2002 3452).
+
+- 115 RS 0.120
 
 64
 
@@ -3021,7 +3023,7 @@ De la Confédération suisse
 
 ###### 2. 116 Disposition transitoire ad art. 62 (Instruction publique)
 
-Dès l'entrée en vigueur de l'arrêté fédéral du 3 octobre 2003 concernant la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons 117 , les cantons  assument  les  prestations actuelles de l'assuranceinvalidité en matière de formation scolaire spéciale (y compris l'éducation pédagothérapeutique  précoce  selon  l'art.  19  de  la  LF  du  19  juin  1959  sur  l'assuranceinvalidité 118 )  jusqu'à  ce  qu'ils  disposent  de  leur  propre  stratégie  en  faveur  de  la formation scolaire spéciale, qui doit être approuvée, mais au minimum pendant trois ans.
+Dès l'entrée en vigueur de l'arrêté fédéral du 3 octobre 2003 concernant la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons 117, les cantons assument les prestations actuelles de l'assurance-invalidité en matière de formation scolaire spéciale (y compris l'éducation pédago-thérapeutique précoce selon l'art. 19 de la LF du 19 juin 1959 sur l'assurance-invalidité 118) jusqu'à ce qu'ils disposent de leur propre stratégie en faveur de la formation scolaire spéciale, qui doit être approuvée, mais au minimum pendant trois ans.
 
 ###### 3. 119 Disposition transitoire ad art. 83 (Routes nationales)
 
@@ -3029,21 +3031,21 @@ Les cantons achèvent le réseau des routes nationales classées dans l'arrêté
 
 ###### 4. 122 Disposition  transitoire  ad  art.  112b  (Encouragement  de  l'intégration  des invalides)
 
-Dès l'entrée en vigueur de l'arrêté fédéral du 3 octobre 2003 concernant la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons 123 , les cantons  assument  les  prestations actuelles de l'assuranceinvalidité en matière d'institutions, d'ateliers et de homes jusqu'à ce qu'ils disposent de leur propre stratégie approuvée en faveur des invalides, stratégie comportant aussi l'octroi  de  contributions  cantonales  aux  frais  de  construction  et  d'exploitation d'institutions accueillant des résidents hors canton, mais au minimum pendant trois ans.
+Dès l'entrée en vigueur de l'arrêté fédéral du 3 octobre 2003 concernant la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons 123, les cantons assument les prestations actuelles de l'assurance-invalidité en matière d'institutions, d'ateliers et de homes jusqu'à ce qu'ils disposent de leur propre stratégie approuvée en faveur des invalides, stratégie comportant aussi l'octroi de contributions cantonales aux frais de construction et d'exploitation d'institutions accueillant des résidents hors canton, mais au minimum pendant trois ans.
 
-> 116 Accepté en votation populaire du 28 nov. 2004, en vigueur  depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
-
-> 118 RS 831.20
+> 116 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
 > 117 RO 2007 5765
 
-> 119 Accepté en votation populaire du 28 nov. 2004, en vigueur  depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
+> 118 RS 831.20
 
-> 121 RO 2007 5765
+> 119 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
 > 120 RS 725.113.11
 
-> 122 Accepté en votation populaire du 28 nov. 2004, en vigueur  depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
+> 121 RO 2007 5765
+
+> 122 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
 > 123 RO 2007 5765
 
@@ -3065,21 +3067,21 @@ Les cantons continuent de verser aux organisations d'aide et de soins à domicil
 
 L'agriculture  suisse  n'utilise  pas  d'organismes  génétiquement  modifiés  durant  les cinq ans qui suivent l'adoption de la présente disposition constitutionnelle. Ne pourront en particulier être importés ni mis en circulation:
 
-- les  plantes,  les  parties  de  plantes  et  les  semences  génétiquement modifiées qui  peuvent  se  reproduire  et  sont  destinées  à  être  utilisées  dans  l'environnement à des fins agricoles, horticoles ou forestières;
+- a. les plantes, les parties de plantes et les semences génétiquement modifiées qui peuvent se reproduire et sont destinées à être utilisées dans l'environnement à des fins agricoles, horticoles ou forestières;
 
-- les  animaux génétiquement modifiés destinés à la production d'aliments et d'autres produits agricoles.
+- b. les animaux génétiquement modifiés destinés à la production d'aliments et d'autres produits agricoles.
 
 ###### 8. 127 Disposition transitoire ad art. 121 (Séjour et établissement des étrangers)
 
 Dans les cinq années qui suivent l'acceptation par le peuple et par les cantons de l'art. 121, al. 3 à 6, le législateur définit les faits constitutifs des infractions en vertu de  l'art.  121,  al.  3,  il  les  complète  et  il  édicte  les  dispositions  pénales  relatives  à l'entrée illégale sur le territoire visée à l'art. 121, al. 6.
 
-> 124 Accepté en votation populaire du 28 nov. 2004, en vigueur  depuis le 1 er  janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
-
-- 126 Accepté en votation populaire du 27 nov. 2005, en vigueur depuis le 27 nov. 2005 (AF du 17 juin 2005, ACF du 19 janv. 2006; RO 2006 89; FF 2003 6327, 2004 4629, 2005 3823, 2006 1037).
+> 124 Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1 er janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005; RO 2007 5765; FF 2002 2155, 2003 6035, 2005 883).
 
 - 125 RS 831.10
 
-- 127 Accepté en votation populaire du 28 nov. 2010, en vigueur  depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; RO 2011 1199; FF 2008 1745, 2009 4571, 2010 3853, 2011 2593).
+- 126 Accepté en votation populaire du 27 nov. 2005, en vigueur depuis le 27 nov. 2005 (AF du 17 juin 2005, ACF du 19 janv. 2006; RO 2006 89; FF 2003 6327, 2004 4629, 2005 3823, 2006 1037).
+
+- 127 Accepté en votation populaire du 28 nov. 2010, en vigueur depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; RO 2011 1199; FF 2008 1745, 2009 4571, 2010 3853, 2011 2593).
 
 66
 
@@ -3111,113 +3113,11 @@ a. Art. 32 quater , al. 6 131
 
 Le colportage et les autres modes de vente ambulante des boissons spiritueuses sont interdits.
 
-> 128 Accepté en votation populaire du 11 mars 2012, en vigueur depuis le 11 mars 2012 (AF du 17 juin 2011, ACF du 20 juin 2012 - RO 2012 3627; FF 2008 1003 7891, 2011 4473, 2012 6149).
-
-130
-
-[RS
+> 128 Accepté en votation populaire du 11 mars 2012, en vigueur depuis le 11 mars 2012 (AF du 17 juin 2011, ACF du 20 juin 2012 – RO 2012 3627; FF 2008 1003 7891, 2011 4473, 2012 6149).
 
 > 129 AF du 28 sept. 1999 (RO 1999 2555; FF 1999 7145)
 
-art. 2 800 art. 2,
-
-1
-
-3; RO
-
-art. 2 1858,
-
-1959
-
-1949
-
-1964
-
-234 art. 2 942 art. 2,
-
-1614 art. 2,
-
-93 art. 2,
-
-1951
-
-1966
-
-603 art. 2,
-
-1730 art. 2,
-
-art. 2 ch. I à IV 1051 art. 2 1455,
-
-1971
-
-329 art. 2 905 art. 2 907 art. 2,
-
-2003,
-
-1974
-
-1972
-
-1957
-
-1969
-
-1961
-
-1041 art. 2,
-
-1265 art. 2,
-
-486 art. 2,
-
-1958
-
-371 art. 2 798
-
-1970
-
-721 art. 2 ch. 1,
-
-1962
-
-783 art. 2 1695
-
-1509 art. 2 1512 art. 2,
-
-807 art. 2 1849 2228 2230,
-
-1975
-
-1973
-
-1653 art. 2,
-
-1205 art. 2,
-
-429
-
-678,
-
-1976
-
-713 715
-
-- 1981 1243 1244, 1982 138, 1983 240 444, 1984 290, 1985 150 151 658 659 1025, 1026 1648, 1987 282 art. 2 al. 2 1125, 1988 art. 1 al. 2, 1991 246 247 art. 1 al. 2 1122 1578,
-
-1977
-
-1978
-
-212 484 1578,
-
-1979
-
-1980
-
-380,
-
-- 1992 1579 art. 2 al. 2, 1993 3040 3041 art. 1 al. 2, 1994 258 263 265 267 ch. II 1096 1097 1099 1101 art. 1 al. 2, 1995 1455, 1996 1490 à 1492 2502, 1998 918 2031, 1999 741 743 1239 1341]
+> 130 [RS 1 3; RO 1949 1614 art. 2, 1951 603 art. 2, 1957 1041 art. 2, 1958 371 art. 2 798 art. 2 800 art. 2, 1959 234 art. 2 942 art. 2, 1961 486 art. 2, 1962 783 art. 2 1695 art. 2 1858, 1964 93 art. 2, 1966 1730 art. 2, 1969 1265 art. 2, 1970 1653 art. 2, 1971 329 art. 2 905 art. 2 907 art. 2, 1972 1509 art. 2 1512 art. 2, 1973 429 art. 2 ch. I à IV 1051 art. 2 1455, 1974 721 art. 2 ch. 1, 1975 1205 art. 2, 1976 713 715 2003, 1977 807 art. 2 1849 2228 2230, 1978 212 484 1578, 1979 678, 1980 380, 1981 1243 1244, 1982 138, 1983 240 444, 1984 290, 1985 150 151 658 659 1025, 1026 1648, 1987 282 art. 2 al. 2 1125, 1988 art. 1 al. 2, 1991 246 247 art. 1 al. 2 1122 1578, 1992 1579 art. 2 al. 2, 1993 3040 3041 art. 1 al. 2, 1994 258 263 265 267 ch. II 1096 1097 1099 1101 art. 1 al. 2, 1995 1455, 1996 1490 à 1492 2502, 1998 918 2031, 1999 741 743 1239 1341]
 
 > 131 Art. 105
 
@@ -3243,11 +3143,11 @@ c. Art. 121 bis , al. 1, 2 et 3, phrases 1 et 2 133
 
 1  Lorsque l'Assemblée fédérale élabore un contre-projet, trois questions seront soumises aux électeurs sur le même bulletin de vote. Chaque électeur peut déclarer sans réserve:
 
-- S'il préfère l'initiative populaire au régime en vigueur;
+- 1. S'il préfère l'initiative populaire au régime en vigueur;
 
-- S'il préfère le contre-projet au régime en vigueur;
+- 2. S'il préfère le contre-projet au régime en vigueur;
 
-- Lequel des deux textes devrait entrer en vigueur au cas où le peuple et les cantons préféreraient les deux textes au régime en vigueur.
+- 3. Lequel des deux textes devrait entrer en vigueur au cas où le peuple et les cantons préféreraient les deux textes au régime en vigueur.
 
 2  La  majorité  absolue  est  déterminée  séparément  pour  chacune  des  questions.  Les questions sans réponse ne sont pas prises en considération.
 
@@ -3263,13 +3163,9 @@ Les  modifications  de  la  Constitution  fédérale  du  29  mai  1874  sont  a
 
 2  L'Assemblée fédérale fixe la date de l'entrée en vigueur.
 
-132
+> 132 Art. 86 al. 2
 
-133
-
-Art. 86 al. 2
-
-> Voir actuellement l'art. 139 b .
+> 133 Voir actuellement l'art. 139 b.
 
 68
 
@@ -3295,15 +3191,17 @@ Abrogation de la Constitution fédérale du 29 mai 1874 ch. II
 
 Abus en matière de bail à loyer 109
 
-Acceptation par le peuple 51 Accès
+Acceptation par le peuple 51
 
--au Tribunal fédéral 191
+Accès
 
--à une activité économique lucrative privée 27
+- à une activité économique lucrative privée 27
 
--aux données relatives à son ascendance 119
+- au Tribunal fédéral 191
 
--garantie de l'- au juge 29 a
+- aux données relatives à son ascendance 119
+
+- garantie de l'- au juge 29 a
 
 Accession à la propriété, encouragement de l' 108
 
@@ -3311,7 +3209,7 @@ Accessoires d'armes 107
 
 Accident 41
 
--assurance-accident 117
+- assurance-accident 117
 
 Accusation 32
 
@@ -3319,23 +3217,23 @@ Acquis (Préambule)
 
 Acquisition
 
--de terrains 108
+- de matériel de guerre 107
 
--de matériel de guerre 107
+- de terrains 108
 
 Actes
 
--de l'Assemblée fédérale, forme des 163
+- législatifs
 
--législatifs
+- de l'Assemblée fédérale, forme des 163
 
--projets du Conseil fédéral 181
+- projets du Conseil fédéral 181
 
--particuliers 173
+- consultation sur les 147
 
--consultation sur les 147
+- particuliers 173
 
--religieux 15
+- religieux 15
 
 Action civile 30
 
@@ -3343,25 +3241,25 @@ Activité de l'Etat 5
 
 Activité étatique 180
 
--en général  95, 196 ch. 5
+- au sein des autorités fédérales 144
 
--au sein des autorités fédérales 144
+- en général 95, 196 ch. 5
 
 Activité
 
--de l'Etat 173
-
 - indépendante 113
 
-Adaptation de projets de révision ch. III Adhésion à des organisations ou à des com-
+- de l'Etat 173
 
-munautés 140
+Adaptation de projets de révision ch. III
+
+Adhésion à des organisations ou à des communautés 140
 
 Administration fédérale 178-179
 
 Adoption 38
 
-Adultes , buts sociaux 41
+Adultes, buts sociaux 41
 
 Affaires, étrangères 54, 184
 
@@ -3371,15 +3269,17 @@ Agriculture 104, 197 ch. 7
 
 Aide (voir aussi Assistance)
 
--d'autres cantons 52
+- aux victimes 124
 
--aux victimes 124
+- d'autres cantons 52
 
--dans des situations de détresse 12
+- dans des situations de détresse 12
 
--sociale en faveur des chômeurs 114 -à la formation 66
+- aux personnes âgées et aux personnes handicapées 112 c, 197 ch. 5
 
--aux personnes âgées et aux personnes handicapées 112 c , 197 ch. 5
+- sociale en faveur des chômeurs 114
+
+- à la formation 66
 
 Alcool 105
 
@@ -3389,13 +3289,13 @@ Allocations familiales 116
 
 Alpes
 
--protection contre le trafic de transit 84, 196 ch. 1
+- protection contre le trafic de transit 84, 196 ch. 1
 
 Aménagement du territoire 75
 
 Amnistie 173
 
-Animaux , traitement des 80
+Animaux, traitement des 80
 
 Année scolaire 62
 
@@ -3405,27 +3305,29 @@ Appareils, consommation d'énergie des 89
 
 Appenzell
 
--Rhodes-Intérieures 1
-
 - Rhodes-Extérieures 1
+
+- Rhodes-Intérieures 1
 
 Application du droit fédéral 49, 173
 
 Approbation
 
--des conventions conclues par les cantons 172
+- des actes législatifs cantonaux 186
 
--des actes législatifs cantonaux 186
+- des conventions conclues par les cantons 172
 
--des traités internationaux 184
+- des traités internationaux 184
 
 Approvisionnement
 
--du pays 102, 196 ch. 6
+- de la population par les produits de l'agriculture 104
 
--de la population par les produits de l'agriculture 104
+- du pays 102, 196 ch. 6
 
-Aptitude au travail, buts sociaux 41 Arbitraire , interdiction de l' 9
+Aptitude au travail, buts sociaux 41
+
+Arbitraire, interdiction de l' 9
 
 Argovie 1
 
@@ -3445,9 +3347,9 @@ Constitution fédérale
 
 Arrêté fédéral
 
--référendum facultatif 141, 141 a
+- forme des actes 163
 
--forme des actes 163
+- référendum facultatif 141, 141 a
 
 Art 69
 
@@ -3455,9 +3357,9 @@ Asile 121
 
 Assemblée fédérale
 
--conseils réunis 157
-
 - compétences 163-173
+
+- conseils réunis 157
 
 - organisation 148-155
 
@@ -3467,49 +3369,49 @@ Assistance 12
 
 Assistance (voir aussi Aide)
 
--aux proches de personnes atteintes dans leur santé au service de protection civile 61
+- aux personnes dans le besoin 115
 
--aux personnes dans le besoin 115
+- aux proches de personnes atteintes dans leur santé au service de protection civile 61
 
--aux proches de personnes atteintes dans leur santé au service militaire 59
+- aux proches de personnes atteintes dans leur santé au service militaire 59
 
--de la Confédération et des cantons 44
+- aux Suisses et Suissesses de l'étranger 40
 
--aux Suisses et Suissesses de l'étranger 40
+- de la Confédération et des cantons 44
 
--judiciaire gratuite 29
+- judiciaire gratuite 29
 
 Associations 23, 28
 
--professionnelles 97
-
 - économiques 97
+
+- professionnelles 97
 
 Assurance
 
+- accidents 117
+
 - chômage 114
 
--accidents 117
+- de la qualité dans l'espace suisse des hautes écoles 63 a, 64
 
--de la qualité dans l'espace suisse des hautes écoles 63 a , 64
+- maladie
 
--en général 117
+- en général 117
 
--maladie
+- réduction des primes 130
 
--réduction des primes 130
+- maternité 116
 
--obligatoire 112, 113, 116, 117
+- obligatoire 112, 113, 116, 117
 
--maternité 116
+- privée 98
 
--privée 98
+- sociale 40
 
--vieillesse, survivants et invalidité 106, 112, 130
+- vieillesse, survivants et invalidité 106, 112, 130
 
--sociale 40
-
--financement de l'AI 196 ch. 14
+- financement de l'AI 196 ch. 14
 
 - prestations complémentaires 112 a
 
@@ -3521,47 +3423,47 @@ Auteur d'atteintes à l'environnement 74
 
 Autocars 196 ch. 2
 
-Automobiles , impôt sur les 131
+Automobiles, impôt sur les 131
 
 Autonomie
 
-- dans la conception des programmes 93
-
 - communale 50, 189
 
--des cantons 3, 43, 46, 47
+- dans la conception des programmes 93
 
--en matière d'instruction publique 62, 66
+- des cantons 3, 43, 46, 47
+
+- en matière d'instruction publique 62, 66
 
 Autorisation
 
--de naturalisation 38
+- de naturalisation 38
 
--  des jeux d'argent 106
+- des jeux d'argent 106
 
 Autorité
 
--collégiale, principe de 177
+- civile 58
 
--civile 58
+- collégiale, principe de 177
 
--étrangère 56
-
--indépendante pour les plaintes relatives aux programmes 93
+- étrangère 56
 
 - fédérale 143-191 c
 
--judiciaire de la Confédération 191 a
+- indépendante pour les plaintes relatives aux programmes 93
 
--judiciaire des cantons 191 b
+- judiciaire de la Confédération 191 a
 
 - indépendance 191 c
+
+- judiciaire des cantons 191 b
 
 - indépendance 191 c
 
 - suprême 148, 174, 188
 
-Avantages , fiscaux 129
+Avantages, fiscaux 129
 
 Aviation 87
 
@@ -3573,15 +3475,15 @@ Bail à loyer 109
 
 Bâle
 
--Ville 1
-
 - Campagne 1
+
+- Ville 1
 
 Banque
 
--nationale 99
+- centrale 99
 
--centrale 99
+- nationale 99
 
 Banques 98
 
@@ -3589,37 +3491,37 @@ Banques cantonales 98
 
 Barrages 76
 
-Base constitutionnelle , loi fédérale déclarée urgente 165
+Base constitutionnelle, loi fédérale déclarée urgente 165
 
-Base , légale 5, 36
+Base, légale 5, 36
 
-Bâtiments , consommation d'énergie 89
+Bâtiments, consommation d'énergie 89
 
 Berne 1
 
 Besoin
 
--personnes dans le 108, 115
+- clause du 196 ch. 7
 
--clause du 196 ch. 7
+- personnes dans le 108, 115
 
 Besoins
 
--financiers exceptionnels 126, 159
+- vitaux 112, 112 a
 
--vitaux 112, 112 a
+- financiers exceptionnels 126, 159
 
 Bien-être (Préambule)
 
 Biens de première nécessité 102, 196 ch. 6
 
-Bière 105, 131, 196 ch. 15
+Bière 105, 131, 196 ch. 15, ch. II
 
 Bilan 126
 
 Billets de banque 99
 
-Biologie , recherche sur l'être humain 118 b
+Biologie, recherche sur l'être humain 118 b
 
 Boissons alcoolisées 105, 131, 196 ch. 15, ch. II
 
@@ -3635,59 +3537,79 @@ De la Confédération suisse
 
 101
 
-Bourgeoisies 37 Bourses 98 Branches économiques 103, 196 ch. 7 Budget 126, 167, 156, 183 But 2 Buts d'utilité publique 106 Buts sociaux 41
+Bourgeoisies 37
+
+Bourses 98
+
+Branches économiques 103, 196 ch. 7
+
+Budget 126, 167, 156, 183
+
+But 2
+
+Buts d'utilité publique 106
+
+Buts sociaux 41
+
 ### C
-Caisse de compensation familiale 116 Calcul des impôts 127, 129 Camions 85, 196 ch. 2 Canton de domicile 115
+
+Caisse de compensation familiale 116
+
+Calcul des impôts 127, 129
+
+Camions 85, 196 ch. 2
+
+Canton de domicile 115
 
 Cantons
 
--Confédération 1
+- autorités judiciaires 191 b, 191 c
 
--autorités judiciaires 191 b , 191 c
+- Confédération 1
 
--droit d'initiative 160
+- droit d'initiative 160
 
--participation aux procédures de consultation 147
+- en général (Préambule)
 
--en général (Préambule)
+- participation aux procédures de consultation 147
 
--plurilingues 70
+- plurilingues 70
 
--relations avec la Confédération 3, 43-53
+- référendum facultatif des 141
 
--référendum facultatif des 141
+- relations avec la Confédération 3, 43-53
 
--représentation au Conseil national 149
+- représentation au Conseil national 149
 
--souveraineté 3
+- rôle 148
 
--rôle 148
+- souveraineté 3
 
--vote des 142
+- vote des 142
 
 Capacité
 
--de travailler, buts sociaux 41
+- de discernement des enfants et des jeunes 11
 
--de discernement des enfants et des jeunes 11
+- de travailler, buts sociaux 41
 
--des routes de transit des régions alpines 84, 196 ch. 1
+- des routes de transit des régions alpines 84, 196 ch. 1
 
 - économique 127
 
 Capacité financière
 
--des cantons 135
+- des cantons 135
 
-Capitaux , revenu des 132
+Capitaux, revenu des 132
 
 Carburants
 
--impôt à la consommation sur les - 86, 131
+- d'aviation 86
 
--d'aviation 86
+- impôt à la consommation sur les - 86, 131
 
--transport par conduites 91
+- transport par conduites 91
 
 Cartels 96
 
@@ -3695,9 +3617,9 @@ Catastrophes 61
 
 Catégories de véhicules
 
--pour la redevance pour l'utilisation des routes nationales ch. II
+- pour la redevance sur le trafic des poids lourds 196 ch. 2
 
--pour la redevance sur le trafic des poids lourds 196 ch. 2
+- pour la redevance pour l'utilisation des routes nationales ch. II
 
 Censure 17
 
@@ -3709,9 +3631,9 @@ Chambres 148
 
 Chancelier de la Confédération
 
--élection 168
+- durée de fonction 145
 
--durée de fonction 145
+- élection 168
 
 Chancellerie fédérale 179
 
@@ -3721,11 +3643,11 @@ Chef de département 178
 
 Chemins de fer
 
--grands projets ferroviaires 196 ch. 3
+- en général 87, 196 ch. 3
 
--en général 87, 196 ch. 3
+- grands projets ferroviaires 196 ch. 3
 
--transport ferroviaire 87, 196 ch. 3
+- transport ferroviaire 87, 196 ch. 3
 
 Chemins pédestres 88
 
@@ -3737,21 +3659,21 @@ Circonscription électorale 149
 
 Circulation routière
 
+- affectation des redevances 86
+
 - compétence de la Confédération 82
 
--affectation des redevances 86
+- coûts 85, 86, 196 ch. 2
 
--coûts 85, 86, 196 ch. 2
-
--redevances sur la - 82, 85, 86
+- redevances sur la - 82, 85, 86
 
 Citoyen 2
 
 Citoyenneté suisse 37
 
-- Clause du besoin dans l'hôtellerie ou la restauration 196 ch. 7
+Clause du besoin dans l'hôtellerie ou la restauration 196 ch. 7
 
-- Clinique spéciale , convention intercantonale 48 a
+Clinique spéciale, convention intercantonale 48 a
 
 Clonage 119
 
@@ -3759,31 +3681,31 @@ Cohésion interne du pays 2
 
 Collaboration
 
--entre la Confédération et les cantons 44-49, 172, 185
+- de la Confédération et des cantons pour l'aménagement du territoire 75
 
--de la Confédération et des cantons pour l'aménagement du territoire 75
+- entre la Confédération et les cantons 44-49, 172, 185
 
 Colportage de boissons spiritueuses ch. II
 
-Combustibles , installations de transport par conduites de 91
+Combustibles, installations de transport par conduites de 91
 
-Commerce , interdiction du - de matériel germinal humain, d'embryons etd'organes 119, 119 a
+Commerce, interdiction du - de matériel germinal humain, d'embryons et d'organes 119, 119 a
 
 Commerce extérieur 100
 
 Commission
 
--parlementaire 153
+- droit d'initiative 160
 
--droit d'initiative 160
+- parlementaire 153
 
 Commissions de contrôle 169
 
 Communautés
 
--religieuses 15, 72
+- supranationales 140
 
--supranationales 140
+- religieuses 15, 72
 
 Communes 50
 
@@ -3801,31 +3723,31 @@ Communication 92-93
 
 Compensation
 
--des charges 135
+- de la perte du revenu 114
 
--de la perte du revenu 114
+- des charges 135
 
 Compétence
 
--d'édicter des règles de droit, délégation de la 164
+- conflits de 157, 173
 
--conflits de 157, 173
+- d'édicter des règles de droit, délégation de la 164
 
 - de la Confédération 54-125
 
--des cantons 3
+- des cantons 3
 
 Compétences
 
-- de la Confédération 54-135
-
 - de l'Assemblée fédérale 163-173
 
--des cantons face à l'étranger 56
+- de la Confédération 54-135
 
--du Tribunal fédéral 189
+- des cantons face à l'étranger 56
 
--du Conseil fédéral 180-187
+- du Conseil fédéral 180-187
+
+- du Tribunal fédéral 189
 
 Compte d'Etat 167, 183
 
@@ -3833,59 +3755,61 @@ Conception des programmes 93
 
 Concession pour les maisons de jeu 106
 
-Conciliation , procédure de
+Conciliation, procédure de
+
+- droit du travail 28
 
 - protection des consommateurs 97
-
--droit du travail 28
 
 Conclusion de traités internationaux 166
 
 Concurrence
 
--limitation 96
+- déloyale 96, 97
 
--déloyale 96, 97
+- limitation 96
 
--politique en matière de 96
+- politique en matière de 96
 
--principes 94
+- principes 94
 
 Condamnation 32
 
-Conditions-cadres pour l'économie 94 Confédération
+Conditions-cadres pour l'économie 94
 
--but 2
+Confédération
 
--autorités judiciaires 191 a , 191 c
+- autorités judiciaires 191 a, 191 c
+
+- but 2
 
 - compétences 54-125
 
--rapports avec les cantons 3, 42-53
+- en général (Préambule), 1
 
--en général (Préambule), 1
+- rapports avec les cantons 3, 42-53
 
--suisse 1, 2
+- suisse 1, 2
 
-Conflit , armé 61
+Conflit, armé 61
 
 Conflits
 
--entre les cantons et la Confédération ou entre cantons 44, 189
+- entre employeurs et travailleurs 28
 
--entre employeurs et travailleurs 28
+- entre les cantons et la Confédération ou entre cantons 44, 189
 
 Conflits de compétence entre les autorités fédérales suprêmes 157, 173
 
 Congés dans le bail à loyer 109
 
-Conjoncture , évolution de la 100
+Conjoncture, évolution de la 100
 
 Conseil des Etats
 
--incompatibilités 144
+- composition et élection 150
 
--composition et élection 150
+- incompatibilités 144
 
 - procédure 156-162
 
@@ -3893,39 +3817,39 @@ Conseil des Etats
 
 Conseil fédéral
 
--droit de proposition 160
-
 - compétences 180-187
 
--durée de fonction 145
+- droit de proposition 160
 
--incompatibilités 144
+- durée de fonction 145
 
--élection 168, 175
+- élection 168, 175
 
--organisation et procédure 174-179
+- incompatibilités 144
+
+- organisation et procédure 174-179
 
 Conseil national
 
 Conseils réunis 157
 
-Conseils , sessions 151
+Conseils, sessions 151
 
-Consommateurs , consommatrices 97
+Consommateurs, consommatrices 97
 
 Consommation d'alcool 105
 
 Constitution fédérale
 
--but 2
+- application, assurer l' 173
 
--application, assurer l' 173
+- but 2
 
--entrée en vigueur 195
+- entrée en vigueur 195
+
+- limitation de la souveraineté des cantons 3
 
 - révision 192-194
-
--limitation de la souveraineté des cantons 3
 
 Constitution fédérale du 29 mai 1874, abrogation ch. II
 
@@ -3933,17 +3857,17 @@ Constitutions cantonales 51, 172, 186
 
 Construction
 
--de minarets 72
-
 - de logements, encouragement de la 108
 
--des routes nationales 83
+- de minarets 72
+
+- des routes nationales 83
 
 Constructions d'ouvrages de protection contre les sinistres dus aux éléments naturels 86
 
-Consultation , procédure de 147
+Consultation, procédure de 147
 
-Contournement , route de 84, 196 ch. 1
+Contournement, route de 84, 196 ch. 1
 
 Contrats-cadre de bail 109
 
@@ -3953,25 +3877,25 @@ Convention collective de travail 110
 
 Conventions
 
--intercantonales 48, 48 a , 172, 186, 189
+- des cantons avec l'étranger 56, 172, 186
 
--des cantons avec l'étranger 56, 172, 186
+- intercantonales 48, 48 a, 172, 186, 189
 
--internationales, voir traités internationaux
+- internationales, voir traités internationaux
 
 Convictions
 
--religieuses, philosophiques 8,15
+- politiques 8
 
--politiques 8
+- religieuses, philosophiques 8,15
 
 Convocation aux sessions 151
 
 Coordination
 
--dans l'espace suisse des hautes écoles 63 a
+- de la recherche 64
 
--de la recherche 64
+- dans l'espace suisse des hautes écoles 63 a
 
 Corporations 37
 
@@ -3979,9 +3903,9 @@ Corps électoral 51, 143
 
 Correspondance
 
--postale 13
+- établie par télécommunication 13
 
--établie par télécommunication 13
+- postale 13
 
 72
 
@@ -3993,43 +3917,49 @@ De la Confédération suisse
 
 101
 
-Cotisation , temps de 196 ch. 11 Coûts
+Cotisation, temps de 196 ch. 11
 
--circulation routière 85, 86, 196 ch. 2
+Coûts
 
--circulation des poids lourds 85
+- circulation des poids lourds 85
+
+- circulation routière 85, 86, 196 ch. 2
 
 - du logement 108
 
--protection de l'environnement 74
+- des routes nationales 83
 
--des routes nationales 83
+- protection de l'environnement 74
 
 Création (Préambule)
 
 Création d'emplois 100
 
-Crédit , domaine du 100
+Crédit, domaine du 100
 
 Culture 69
 
 ### D
 
-Débats , publicité des 30
+Débats, publicité des 30
 
 Débits résiduels 76
 
 Décision d'urgence 185
 
-Décisions de l'Assemblée fédérale 156 Déclaration
+Décisions de l'Assemblée fédérale 156
 
--sur les denrées alimentaires 104
+Déclaration
 
 - d'urgence des lois fédérales 159, 165
 
--de force obligatoire générale 48 a
+- sur les denrées alimentaires 104
 
-Déclarations du Conseil fédéral 157 Défense nationale 57-61
+- de force obligatoire générale 48 a
+
+Déclarations du Conseil fédéral 157
+
+Défense nationale 57-61
 
 Déficience 8
 
@@ -4037,17 +3967,17 @@ Délai d'attente 39
 
 Délégation
 
--de tâches de l'administration 178
+- de la compétence d'édicter des règles de droit 164
 
--de la compétence d'édicter des règles de droit 164
+- de tâches de l'administration 178
 
 Délégations des commissions de contrôle 169
 
 Délibérations
 
-- quorum des conseils 159
+- des conseils 156, 157
 
--des conseils 156, 157
+- quorum des conseils 159
 
 Délinquant sexuel ou violent 123 a
 
@@ -4055,11 +3985,11 @@ Demi-canton 1, 142, 150
 
 Démocratie
 
+- constitution démocratique 51
+
 - dans le monde 54
 
--constitution démocratique 51
-
--en général (Préambule)
+- en général (Préambule)
 
 Denrées alimentaires 118
 
@@ -4067,19 +3997,19 @@ Départ de Suisse 24, 121
 
 Départements 177-178
 
-Dépendance , lutte contre la 131
+Dépendance, lutte contre la 131
 
 Dépenses
 
--majorité pour les décisions prises sur les 159
+- en général 126, 167
 
--en général 126, 167
+- majorité pour les décisions prises sur les 159
 
 Députés
 
-- du peuple 149
+- des cantons 150
 
--des cantons 150
+- du peuple 149
 
 Désaccord des conseils 140
 
@@ -4091,75 +4021,77 @@ Détournement d'avions, mesures de sûreté 86
 
 Développement
 
--durable (Préambule), 2, 73
+- des enfants et des jeunes 11
 
--des enfants et des jeunes 11
+- durable (Préambule), 2, 73
 
-Devoirs , politiques 136
+Devoirs, politiques 136
 
 Dieu (Préambule)
 
 Différends
 
--entre les cantons et la Confédération ou entre cantons 44, 189
+- entre employeurs et travailleurs 28
 
--entre employeurs et travailleurs 28
+- entre les cantons et la Confédération ou entre cantons 44, 189
 
 Dignité 7, 120
 
-Dignité humaine 7, 12, 118 b , 119, 119 a
+Dignité humaine 7, 12, 118 b, 119, 119 a
 
 Dimanche 110, 196 ch. 9
 
 Direction des écoles 62
 
-Discernement , capacité de 11
+Discernement, capacité de 11
 
 Discrimination 8
 
 Dispositions
 
--fixant des règles de droit 163, 164
+- finales ch. II-IV
 
--finales ch. II-IV
+- fixant des règles de droit 163, 164
 
--relatives aux subventions 159
+- relatives aux subventions 159
 
--transitoires 196, 197
+- transitoires 196, 197
 
 Distribution de matériel de guerre 107
 
-Divergences entre les conseils 156 Diversité
+Divergences entre les conseils 156
 
--des espèces 79
+Diversité
 
--culturelle et linguistique 69
+- culturelle et linguistique 69
 
--du pays (Préambule), 2
+- des espèces 79
 
--génétique 120
+- du pays (Préambule), 2
+
+- génétique 120
 
 Divertissement 93
 
 Domaine
 
--du crédit 100
-
 - de la monnaie 100
+
+- du crédit 100
 
 - humain du génie génétique 119
 
 - non humain du génie génétique 120, 197 ch. 7
 
-Domicile , canton de 115
+Domicile, canton de 115
 
--soins à - 112 c , 197 ch. 5
+- soins à - 112 c, 197 ch. 5
 
 Dommages/Atteinte
 
--causés par des organes fédéraux 146
+- à la santé 59
 
--à la santé 59
+- causés par des organes fédéraux 146
 
 73
 
@@ -4173,95 +4105,97 @@ Constitution fédérale
 
 Don
 
--d'organes, de tissu et de cellules humains 119 a
-
 - d'embryons 119
+
+- d'organes, de tissu et de cellules humains 119 a
 
 Données
 
--statistiques 65
+- protection des 13
 
--protection des 13
+- statistiques 65
 
--relatives à l'ascendance 119
+- relatives à l'ascendance 119
 
-Douane , droits de 133
+Douane, droits de 133
 
-Double imposition, par les cantons 127 Droit
+Double imposition, par les cantons 127
 
--civil 122, 191 b
+Droit
 
--applicable par le Tribunal fédéral 190
+- applicable par le Tribunal fédéral 190
 
--d'être entendu 29
+- civil 122, 191 b
 
--de cité 37, 38
+- d'être entendu 29
 
--d'obtenir des renseignements , pour les commissions 153
+- d'obtenir des renseignements, pour les commissions 153
+
+- de cité 37, 38
 
 - de douane 133
 
--de la défense 32
-
 - de l'homme 54
 
--de pétition 33
+- de la défense 32
 
--de procédure pénale 123
+- de pétition 33
 
--de procédure civile 122
+- de procédure civile 122
 
--de proposition 160
+- de procédure pénale 123
+
+- de proposition 160
+
+- public 191 a, 191 b
 
 - de recours à l'intérieur de l'administration 177
 
-- public 191 a , 191 b
+- de timbre 132, 134
 
--de timbre 132, 134
+- de vote au niveau cantonal et communal 39
 
--de vote au niveau fédéral 39
+- de vote au niveau fédéral 39
 
--de vote au niveau cantonal et communal 39
+- des cantons 3
 
--des cantons 3
+- des enfants et des jeunes 11
 
--du peuple 2
+- du peuple 2
 
--des enfants et des jeunes 11
+- en général 5
 
--en général 5
+- et devoirs des Suisses et Suissesses de l'étranger 40
 
--fédéral 189
+- fédéral 189
 
--et devoirs des Suisses et Suissesses de l'étranger 40
+- international 5, 139, 141 a, 190, 193, 194
 
--international 5, 139, 141 a , 190, 193, 194
+- pénal 123
 
--politiques 34, 37, 39, 136, 164, 189
+- politiques 34, 37, 39, 136, 164, 189
 
--pénal 123
+- régaliens des cantons 94
 
--régaliens des cantons 94
+- restriction de droits constitutionnels 164
 
--subjectif à des prestations de l'Etat 41
+- subjectif à des prestations de l'Etat 41
 
--restriction de droits constitutionnels 164
-
--violation de droits constitutionnels 189
+- violation de droits constitutionnels 189
 
 Droits fondamentaux
 
--restriction 36
-
 - catalogue 7-34
 
--réalisation 35
+- restriction 36
+
+- réalisation 35
 
 Durée de fonction
 
--présidents des conseils 152
+- conseiller national, conseiller fédéral, chancelier fédéral, juge fédéral, 145
 
--conseiller national, conseiller fédéral, chancelier fédéral, juge fédéral, 145
+- présidents des conseils 152
 
 Durée de validité des lois fédérales urgentes 140, 141
 
@@ -4269,9 +4203,9 @@ Durée de validité des lois fédérales urgentes 140, 141
 
 Eau 76
 
--cycle hydrologique 76
-
 - aménagement des cours d' 76
+
+- cycle hydrologique 76
 
 - redevance hydraulique 76
 
@@ -4281,11 +4215,11 @@ Ecoles 19, 62
 
 Economie
 
--statistique 65
-
 - compétence de la Confédération 94-107
 
--nationale 94
+- statistique 65
+
+- nationale 94
 
 Effet horizontal des droits fondamentaux 35
 
@@ -4299,15 +4233,15 @@ Eglise 72
 
 Election
 
--du Conseil fédéral, du chancelier de la Confédération, du Tribunal fédéral, du général 168
+- du Conseil des Etats 150
 
--du Conseil des Etats 150
+- du Conseil fédéral, du chancelier de la Confédération, du Tribunal fédéral, du général 168
 
--du Conseil national 149
+- du Conseil national 149
 
--par le Conseil fédéral 187
+- par l'Assemblée fédérale 157, 168
 
--par l'Assemblée fédérale 157, 168
+- par le Conseil fédéral 187
 
 Eléments naturels 86
 
@@ -4321,15 +4255,15 @@ Employeurs 28, 110, 111, 112, 113, 114
 
 Encouragement
 
--de la construction de logements 108
+- de l'accession à la propriété 108
 
--de l'accession à la propriété 108
+- de la construction de logements 108
 
--de l'intégration des invalides 112 b , 197 ch. 4
+- de l'intégration des invalides 112 b, 197 ch. 4
 
--des enfants et des jeunes 67
+- des enfants et des jeunes 67
 
-Endettement , frein à l' 126
+Endettement, frein à l' 126
 
 Energie, compétence de la Confédération 89-91
 
@@ -4337,23 +4271,25 @@ Energie nucléaire 90, 196 ch. 4
 
 Enfant
 
--activités extra-scolaires 67
+- acte sur un enfant impubère 123 b
 
--acte sur un enfant impubère 123 b
+- activités extra-scolaires 67
 
--buts sociaux 41
-
-- mesures éducatives 123
+- buts sociaux 41
 
 - enseignement de base 62
 
--naturalisation d'enfants apatrides 38
+- mesures éducatives 123
 
--qualités génétiques 119
+- naturalisation d'enfants apatrides 38
 
--protection 11
+- protection 11
 
-Engrais 104 Enseignement 20
+- qualités génétiques 119
+
+Engrais 104
+
+Enseignement 20
 
 74
 
@@ -4367,9 +4303,9 @@ De la Confédération suisse
 
 Enseignement de base
 
--droit à un 19
-
 - compétence 62
+
+- droit à un 19
 
 Enseignement du sport 68
 
@@ -4377,45 +4313,43 @@ Enseignement religieux 15
 
 Entraide
 
--judiciaire 44
+- administrative 44
 
--administrative 44
+- judiciaire 44
 
 Entrée en Suisse 24, 121
 
 Entrée en vigueur
 
--de la Constitution ch. IV
+- de révisions constitutionnelles 195
 
--de révisions constitutionnelles 195
+- de la Constitution ch. IV
 
--en cas d'urgence 165
+- en cas d'urgence 165
 
 Entreprises
 
-- eaux 76
+- de transport de la Confédération sur les eaux 76
 
--de transport de la Confédération sur les
-
--dominantes sur le marché 96
+- dominantes sur le marché 96
 
 Entretien 41
 
--des routes nationales 83
+- des routes nationales 83
 
 Environnement
 
--contributions pour la protection de l' 86
-
 - compétence de la Confédération 73-80
 
--dans l'agriculture 104
+- contributions pour la protection de l' 86
 
--statistique 65
+- dans l'agriculture 104
 
--protection 74
+- protection 74
 
--utilisation d'organismes génétiquement modifiés 120, 197 ch. 7
+- statistique 65
+
+- utilisation d'organismes génétiquement modifiés 120, 197 ch. 7
 
 EPF 63 a
 
@@ -4429,45 +4363,51 @@ Equipement 108
 
 Equipement de l'armée 60
 
-Espace économique 95 Espèces
+Espace économique 95
+
+Espèces
+
+- animales 120, 197 ch. 7
 
 - menacées 78
 
--animales 120, 197 ch. 7
+- végétales 120, 197 ch. 7
 
--végétales 120, 197 ch. 7
+Essence des droits fondamentaux 36
 
-Essence des droits fondamentaux 36 Etablissement
+Etablissement
 
--personnes nouvellement établies 39
+- en général 24, 121
 
--en général 24, 121
+- personnes nouvellement établies 39
 
 Etablissements
 
--droit pénal 123
+- droit pénal 123
 
 Etat
 
--rapports avec la société 6
+- de droit 5
 
--de droit 5
+- rapports avec la société 6
 
--rapports avec l'Eglise 72
+- rapports avec l'Eglise 72
 
-Etat-major du Conseil fédéral 179 Etats (cantons) 136-142, 195
+Etat-major du Conseil fédéral 179
+
+Etats (cantons) 136-142, 195
 
 Etranger 54-56, 166, 184
 
-Etrangères , affaires 54
+Etrangères, affaires 54
 
 Etrangers 121
 
 Etre humain
 
--égalité 8
+- dignité 7
 
--dignité 7
+- égalité 8
 
 - recherche 118 b
 
@@ -4479,33 +4419,33 @@ Excédents de dépenses 126
 
 Exécution
 
--convention intercantonale 48 a
+- des peines et des mesures 123
 
--des peines et des mesures 123
+- convention intercantonale 48 a
 
--dispositions fondamentales sur l' 164
+- dispositions fondamentales sur l' 164
 
--en général 46, 182
+- du droit fédéral 186
 
--du droit fédéral 186
+- en général 46, 182
 
 Exemption de l'obligation de servir 59
 
 Exercice
 
--d'une activité lucrative économique privée 27
+- des droits politiques 39
 
--des droits politiques 39
+- d'une activité lucrative économique privée 27
 
 Exigences de caractère écologique 104
 
 Existence des cantons 53
 
-Existence , conforme à la dignité humaine 12
+Existence, conforme à la dignité humaine 12
 
 Exploitations paysannes 104
 
-- Exportation de matériel de guerre 107
+Exportation de matériel de guerre 107
 
 Expression de la volonté, fidèle et sûre 34
 
@@ -4513,9 +4453,7 @@ Expropriation dans l'intérêt de la protection de la nature et du patrimoine 78
 
 Expulsion 25, 121
 
-Extinction , protection des espèces
-
-menacées d' 78
+Extinction, protection des espèces menacées d' 78
 
 Extradition 25
 
@@ -4523,9 +4461,9 @@ Extradition 25
 
 Fabrication
 
--de matériel de guerre 107
+- de boissons distillées 105
 
--de boissons distillées 105
+- de matériel de guerre 107
 
 Faiblesse mentale 136
 
@@ -4537,11 +4475,11 @@ Fécondation 119
 
 Femme
 
--égalité 8
+- assurance-maternité 116
 
--assurance-maternité 116
+- égalité 8
 
--service militaire 59
+- service militaire 59
 
 Fête nationale 110, 196 ch. 9
 
@@ -4550,1951 +4488,1240 @@ Fête nationale 110, 196 ch. 9
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
-
 101
-
 Constitution fédérale
-
 Filiation 38
-
 Financement
-
--source de - accordée aux cantons 47
-
--des tâches et des dépenses liées à la circulation routière et au trafic aérien 86
-
-Finances , publiques 100, 167, 183
-
+- des tâches et des dépenses liées à la circulation routière et au trafic aérien 86
+- source de financement accordée aux cantons 47
+Finances, publiques 100, 167, 183
 Fixation des prix 96
-
 Fonction protectrice de la forêt 77
-
-Fonction , incompatibilité avec une  144 For 30
-
+Fonction, incompatibilité avec une 144
+For 30
 Force obligatoire générale
-
--de conventions collectives de travail 110
-
--de contrats-cadres de bail 109
-
--des conventions intercantonales 48 a
-
+- de contrats-cadres de bail 109
+- de conventions collectives de travail 110
+- des conventions intercantonales 48a
 Forêt 77
-
-Formation 41, 48 a , 61 a -68, 93
-
+Formation 41, 48a, 61a–68, 93
 Formation
-
--aides à la 66
-
--agricole 104
-
--artistique et musicale 69
-
--buts sociaux 41
-
--au sport 68
-
--continue 41, 64 a
-
+- agricole 104
+- aides à la 66
+- artistique et musicale 69
+- au sport 68
+- buts sociaux 41
+- continue 41, 64a
+- diplôme 95, 196 ch. 5
 - enseignement de base 62
-
--diplôme  95, 196 ch. 5
-
--espace suisse de formation 61 a
-
--au plan fédéral 45
-
--de l'opinion
-
--en matière de radio et télévision 93
-
--professionnelle 63
-
--politique 54, 137
-
--spéciale pour les enfants et adolescents handicapés 62
-
--universitaire 95, 196 ch. 5
-
--statistique 65
-
-Formes d'exploitation 104
-
+- espace suisse de formation 61a
+- de l’opinion
+- au plan fédéral 45
+- en matière de radio et télévision 93
+- politique 54, 137
+- professionnelle 63
+- spéciale pour les enfants et adolescents handicapés 62
+- statistique 65
+- universitaire 95, 196 ch. 5
+Formes d’exploitation 104
 Français 4, 70
-
 Fribourg 1
-
-Frontières cantonales , rectification des 53
-
+Frontières cantonales, rectification des 53
 ### G
-
 Gains de loterie 132
-
 Gamètes 119
-
 Garantie
-
--de l'accès au juge 29 a
-
--accordée aux constitutions cantonales par la Confédération 51, 172
-
--de la propriété 26
-
+- accordée aux constitutions cantonales par la Confédération 51, 172
+- de l’accès au juge 29a
+- de la propriété 26
 Garanties
-
--fédérales 51-53
-
--accordées par les cantons 189
-
+- accordées par les cantons 189
+- fédérales 51–53
 Gaz naturel, imposition du 131
-
-Général , élection 168
-
-Génération d'entrée 196 ch. 11
-
-Générations , futures (Préambule)
-
+Général, élection 168
+Génération d’entrée 196 ch. 11
+Générations, futures (Préambule)
 Genève 1
-
 Génie génétique 119, 120, 197 ch. 7
-
 Gestion du Conseil fédéral 187
-
 Gestion financière 126, 183, 196 ch. 12
-
-Gestion des déchets, convention intercantonale 48 a
-
+Gestion des déchets, convention intercantonale 48a
 Glaris 1
-
 Grève 28
-
 Grisons 1, 70
-
 Groupe parlementaire
-
+- droit d’initiative 160
 - formation 154
-
--droit d'initiative 160
-
-Groupes d'intérêts , liens des parlementaires avec des 161
-
-Guerre , prévention de la 58
-
+Groupes d’intérêts, liens des parlementaires avec des 161
+Guerre, prévention de la 58
 ### H
-
-Habitation 41, 75 b
-
+Habitation 41, 75b
 Handicap 8
-
-Handicapés 8, 48 a , 108, 112 c , 197 ch. 5
-
+Handicapés 8, 48a, 108, 112c, 197 ch. 5
 Harmonisation
-
--des informations foncières officielles 75 a
-
--des impôts directs 129
-
--de l'instruction publique 62
-
--registres officiels 65
-
--fiscale 129
-
+- des impôts directs 129
+- des informations foncières officielles 75a
+- de l’instruction publique 62
+- fiscale 129
+- registres officiels 65
 Haute surveillance
-
--sur les routes 82
-
--de l'Assemblée fédérale 169
-
-Hautes écoles 63 a
-
--cantonales, convention intercantonale 48 a
-
+- de l’Assemblée fédérale 169
+- sur les routes 82
+Hautes écoles 63a
+- cantonales, convention intercantonale 48a
 Homme
-
--service militaire 59
-
--égalité 8
-
+- égalité 8
+- service militaire 59
 Hôtellerie 196 ch. 7
-
 Huiles minérales
-
--utilisation du produit de l'impôt 196 ch. 3
-
--imposition 131
-
+- imposition 131
+- utilisation du produit de l’impôt 196 ch. 3
 ### I
-
 Immunité 162
-
 Importation
-
--de boissons distillées 105
-
+- de boissons distillées 105
 76
-
 [[END OF PAGE 76]]
 
 [[START OF PAGE 77]]
-
 De la Confédération suisse
-
 101
-
--de matériel de guerre 107
-
-- d'organismes génétiquement modifiés 197 ch. 7
-
+- de matériel de guerre 107
+- d’organismes génétiquement modifiés 197 ch. 7
 Imposition
-
--exclusion de l' 134
-
--principes généraux de l' 127
-
+- principes généraux de l’ 127
+- exclusion de l’ 134
 Impôt
-
--anticipé 132, 134
-
 - à la consommation 86, 131, 134
-
--fédéral direct 128, 196 ch. 13
-
--sur le tabac et les boissons distillées 112, 131
-
--sur la bière 131, 196 ch. 15
-
--sur les automobiles 131
-
--sur le revenu  128, 129, 196 ch. 13
-
--sur les maisons de jeu 106, 112
-
+- anticipé 132, 134
+- fédéral direct 128, 196 ch. 13
+- sur la bière 131, 196 ch. 15
+- sur le tabac et les boissons distillées 112, 131
+- sur les automobiles 131
+- sur les maisons de jeu 106, 112
+- sur le revenu 128, 129, 196 ch. 13
 Impôts
-
--directs  128, 196 ch. 13
-
--affectation des 85, 86, 112, 196 ch. 3
-
--indirects 85, 86, 112, 130-132, 196 ch. 14, 15
-
--principes généraux 127
-
-Imprescriptibilité 123 b
-
+- affectation des 85, 86, 112, 196 ch. 3
+- directs 128, 196 ch. 13
+- indirects 85, 86, 112, 130–132, 196 ch. 14, 15
+- principes généraux 127
+Imprescriptibilité 123b
 Incompatibilités 144
-
 Indemnisation
-
--pour la reprise des installations militaires des cantons 60
-
--en cas d'expropriation 26
-
+- en cas d’expropriation 26
+- pour la reprise des installations militaires des cantons 60
 Indépendance
-
--de la Suisse (Préambule), 2, 54, 173, 185
-
--de la radio et de la télévision 93
-
--des autorités judiciaires 30, 191 c
-
--des cantons 3, 43, 47
-
+- de la radio et de la télévision 93
+- de la Suisse (Préambule), 2, 54, 173, 185
+- des autorités judiciaires 30, 191c
+- des cantons 3, 43, 47
 Inégalités 8
-
 Information
-
--des cantons par la Confédération 55
-
--de la Confédération par les cantons 56
-
--par la radio et la télévision 93
-
--par le Conseil fédéral 180
-
+- de la Confédération par les cantons 56
+- des cantons par la Confédération 55
+- par la radio et la télévision 93
+- par le Conseil fédéral 180
 Information des proches 31
-
 Initiative
-
--du Conseil fédéral 181
-
-- de membres de l'Assemblée fédérale, de groupes parlementaires, de commissions parlementaires ou de cantons 160
-
--populaire 138, 139, 139 b , 142
-
--privée 41
-
+- de membres de l’Assemblée fédérale, de groupes parlementaires, de commissions parlementaires ou de cantons 160
+- du Conseil fédéral 181
+- populaire 138, 139, 139b, 142
+- privée 41
 Initiative populaire
-
--en général 136, 138-139, 142, 156, 173
-
--avec contre-projet 139, 139 b
-
-Innocence , présomption d' 32
-
+- avec contre-projet 139, 139b
+- en général 136, 138–139, 142, 156, 173
+Innocence, présomption d’ 32
 Innovation
-
 - compétence fédérale 64
-
 Installations
-
--dans les marais 78
-
--consommation d'énergie par les 89
-
--de transport par conduites 91
-
--militaires 60
-
+- consommation d’énergie par les 89
+- dans les marais 78
+- de transport par conduites 91
+- militaires 60
 Instance
-
--administrative 29
-
--judiciaire 29
-
+- judiciaire 29
+- administrative 29
 Institutions
-
--des cantons 48
-
--culturelles, convention intercantonale 48 a
-
+- culturelles, convention intercantonale 48a
+- des cantons 48
 - de prévoyance 113
-
--d'intégration des personnes handicapées, convention intercantonale 48 a
-
+- d’intégration des personnes handicapées, convention intercantonale 48a
 Instruction publique 62, 197 ch. 2
-
--convention intercantonale 48 a
-
+- convention intercantonale 48a
 Intégration 41
-
-Intégration des invalides 112 b , 197 ch. 4
-
+Intégration des invalides 112b, 197 ch. 4
 Intégrité 10, 11, 124
-
 Interdiction 136
-
 Interdiction
-
--d'entrée sur le territoire 121
-
--de l'arbitraire 9
-
+- de l’arbitraire 9
+- d’entrée sur le territoire 121
 - des mandats impératifs 161
-
-Intérêt , public 5, 36
-
+Intérêt, public 5, 36
 Intérêts des cantons 45, 54, 55
-
 Intermédiaire de la Confédération 56
-
-Internement à vie 123 a
-
-Invalides , intégration des, 112 b , 197 ch. 4
-
+Internement à vie 123a
+Invalides, intégration des, 112b, 197 ch. 4
 Invalidité 41
-
-Invalidité d'une initiative 139, 156
-
+Invalidité d’une initiative 139, 156
 Italien 4, 70
-
 ### J
-
 Jackpot 106
-
 Jeunes
-
--buts sociaux 41
-
--activité extra-scolaire 67
-
+- activité extra-scolaire 67
+- buts sociaux 41
 - mesures éducatives 123
-
--protection 11
-
+- protection 11
 Jeux
-
--d'argent, réseau de communication électronique, développement du tourisme 106
-
+- d’argent, réseau de communication électronique, développement du tourisme 106
 Jour férié 110, 196 ch. 9
-
 Juge
-
--au Tribunal fédéral, incompatibilités 144
-
--au Tribunal fédéral, élection 168
-
--lors de la privation de liberté 31
-
+- au Tribunal fédéral, élection 168
+- au Tribunal fédéral, incompatibilités 144
+- lors de la privation de liberté 31
 Juge au Tribunal fédéral
-
 77
-
 [[END OF PAGE 77]]
 
 [[START OF PAGE 78]]
-
 101
-
 Constitution fédérale
-
--durée de fonction 145
-
--incompatibilités 144
-
--élection 168
-
+- durée de fonction 145
+- élection 168
+- incompatibilités 144
 Jugement
-
--par une juridiction supérieure 32
-
--et privation de liberté 31
-
+- et privation de liberté 31
+- par une juridiction supérieure 32
 Jura 1
-
 Juridiction
-
--fédérale 191 a
-
 - compétence du Tribunal fédéral 189
-
+- fédérale 191a
 Jurisprudence
-
--en matière de droit pénal 123
-
--en matière de droit civil 122, 191 b
-
--du Tribunal fédéral 188, 189
-
+- en matière de droit civil 122, 191b
+- en matière de droit pénal 123
+- du Tribunal fédéral 188, 189
 ### K
-
 ### L
-
 Langues
-
+- cantons plurilingues 70
 - communautés linguistiques 70
-
--cantons plurilingues 70
-
--dans les procédures judiciaires 31
-
--liberté de la langue 18
-
--discrimination 8
-
--minorités linguistiques 70
-
--officielles 70
-
--nationales 4
-
+- dans les procédures judiciaires 31
+- discrimination 8
+- liberté de la langue 18
+- minorités linguistiques 70
+- nationales 4
+- officielles 70
 Légalité de la privation de liberté 31
-
 Législation
-
--militaire 60
-
--du Conseil fédéral 182
-
-- par l'Assemblée fédérale 163-165
-
--participation des cantons 45
-
-Levée de troupes 173, 185 Liberté
-
--d'établissement 24
-
--d'association 23
-
--d'information 16
-
--de conscience 15
-
--d'opinion 16
-
--de croyance 15
-
--de la recherche 118 b
-
--de l'art 21
-
--de la science 20
-
--de réunion 22
-
+- du Conseil fédéral 182
+- militaire 60
+- par l’Assemblée fédérale 163–165
+- participation des cantons 45
+Levée de troupes 173, 185
+Liberté
+- d’association 23
+- d’établissement 24
+- d’information 16
+- d’opinion 16
+- de conscience 15
+- de croyance 15
+- de l’art 21
+- de la recherche 118b
+- de la science 20
 - de mouvement 10
-
+- de réunion 22
 - des médias 17
-
--en général (Préambule), 2
-
--économique 27, 94, 100, 101, 102, 103, 104, 196 ch. 7
-
--personnelle 10
-
--syndicale 28, 110
-
--privation de la 31
-
-Liens avec des groupes d'intérêts des parlementaires 161
-
+- économique 27, 94, 100, 101, 102, 103, 104, 196 ch. 7
+- en général (Préambule), 2
+- personnelle 10
+- privation de la 31
+- syndicale 28, 110
+Liens avec des groupes d’intérêts des parlementaires 161
 Lieu de domicile 39
-
-Limite de l'activité de l'Etat 5
-
-Livraison d'énergie 91
-
-Localités , physionomie des 78
-
+Limite de l’activité de l’Etat 5
+Livraison d’énergie 91
+Localités, physionomie des 78
 Lock-out 28
-
 Logement
-
--personnes en quête d'un 41
-
-- en général 108-109
-
--pour les invalides 112 b
-
+- en général 108–109
+- personnes en quête d’un 41
+- pour les invalides 112b
 Loi
-
+- cantonale 37
 - contenu 164
-
--cantonale 37
-
--égalité 8
-
--applicabilité 190
-
--fédérale 164, 165
-
--déclarée urgente 140, 141, 165
-
--référendum facultatif 141, 141 a
-
+- égalité 8
+- fédérale 164, 165
+- applicabilité 190
+- déclarée urgente 140, 141, 165
 - formes 163, 164
-
--référendum obligatoire 140
-
-- mise en œuvre 182
-
+- référendum facultatif 141, 141a
+- référendum obligatoire 140
 - forme 163
-
--urgente 165
-
+- mise en œuvre 182
+- urgente 165
 Loteries 132
-
 Loyer 109
-
 Lucerne 1
-
 ### M
-
 Maintien de la paix 58
-
-Maintien de l'ordre public 52
-
+Maintien de l’ordre public 52
 Maisons de jeu 106
-
-Maîtres d'ouvrage œuvrant à la construction de logements d'utilité publique 108
-
+Maîtres d’ouvrage œuvrant à la construction de logements d’utilité publique 108
 Majorité
-
--des cantons 139, 139 b , 142
-
--18 ans 136
-
--des votants 139, 139 b , 142
-
+- 18 ans 136
+- des cantons 139, 139b, 142
+- des votants 139, 139b, 142
 Majorités
-
--lors de votes aux chambres 159
-
--lors de votations populaires 142
-
+- lors de votations populaires 142
+- lors de votes aux chambres 159
 Maladie 41
-
--buts sociaux 41
-
 - assurance-maladie 117
-
+- buts sociaux 41
 - mentale 136
-
--protection contre la 118
-
+- protection contre la 118
 Mammifères sauvages 79
-
 Mandats
-
--impératifs, interdiction des 161
-
--au Conseil fédéral 171
-
+- au Conseil fédéral 171
+- impératifs, interdiction des 161
 78
-
 [[END OF PAGE 78]]
 
 [[START OF PAGE 79]]
-
 De la Confédération suisse
-
 101
-
 Marais 78
-
-Marchandises , trafic de 84, 196 ch. 1
-
+Marchandises, trafic de 84, 196 ch. 1
 Marché pour les produits agricoles 104
-
 Marge de manoeuvre des cantons 46
-
 Mariage 14, 38
-
 Masse et poids 125
-
 Matériel de guerre 107
-
 Matériel germinal
-
--d'êtres humains 119
-
-- d'animaux 120
-
+- d’animaux 120
+- d’êtres humains 119
 Maternité 41
-
 Maternité de substitution 119
-
 Matières auxiliaires 104
-
 Médecine
-
--recherche sur l'être humain 118 b
-
--médecine de pointe, convention intercantonale 48 a
-
--de la transplantation 119 a
-
-Médecines complémentaires 118 a
-
+- médecine de pointe, convention intercantonale 48a
+- recherche sur l’être humain 118b
+- de la transplantation 119a
+Médecines complémentaires 118a
 Médias 93
-
-Membre de l'Assemblée fédérale, droit de soumettre une initiative ou une proposition 160
-
+Membre de l’Assemblée fédérale, droit de soumettre une initiative ou une proposition 160
 Menace 58, 102
-
-Mensuration 75 a
-
+Mensuration 75a
 Mesures
-
--d'entraide de l'agriculture 104
-
--d'entraide 103
-
--éducatives 123
-
--fiscales 111
-
+- d’entraide 103
+- d’entraide de l’agriculture 104
+- éducatives 123
+- fiscales 111
 Métrologie 125
-
 Milieu naturel 78
-
 Minarets 72
-
-Minorités , linguistiques 70
-
+Minorités, linguistiques 70
 Mise en danger de la santé 118
-
-Mise en circulation d'organismes génétiquement modifiés 197 ch. 7
-
+Mise en circulation d’organismes génétiquement modifiés 197 ch. 7
 Mise en œuvre
-
--d'une initiative 156
-
--du droit fédéral 46, 156 164
-
--des traités 141 a
-
-Mise sur pied de l'armée 173, 185
-
+- du droit fédéral 46, 156 164
+- d’une initiative 156
+- des traités 141a
+Mise sur pied de l’armée 173, 185
 Mode de vie 8
-
 Modification du nombre ou du statut des cantons 53
-
 Modification
-
--du territoire d'un canton 53
-
--du terrain dans les marais 78
-
+- du terrain dans les marais 78
+- du territoire d’un canton 53
 Monnaie 99
-
 Monopole du transport de personnes 92
-
 Monuments naturels 78
-
-Moratoire sur l'énergie nucléaire 196 ch. 4
-
-Moyens , disponibles 41
-
+Moratoire sur l’énergie nucléaire 196 ch. 4
+Moyens, disponibles 41
 Munition 107
-
 Musique 69
-
 ### N
-
 Nationalité 37, 38
-
 Naturalisation
-
--des étrangers 38
-
--des enfants apatrides 38
-
+- des enfants apatrides 38
+- des étrangers 38
 Nature 73
-
 Navigation 87
-
 Navigation spatiale 87
-
 Négociations internationales 55
-
 Neuchâtel 1
-
 Neutralité 173, 185
-
 Nidwald 1
-
-Niveau de vie , antérieur 113, 196 ch. 11
-
+Niveau de vie, antérieur 113, 196 ch. 11
 NLFA 196 ch. 3
-
 ### O
-
 Obligations
-
--d'adhérer à des conventions 48 a
-
--des cantons, dispositions fondamentales relatives aux 164
-
+- des cantons, dispositions fondamentales relatives aux 164
+- d’adhérer à des conventions 48a
 Obwald 1
-
 Occupation du territoire 75, 104
-
 Oiseaux 79
-
 ONU Adhésion de la Suisse 197 ch. 1
-
 Opérations immobilières et hypothécaires, imposition 132
-
 Or 99
-
 Ordonnances
-
-- d'urgence 185
-
--de l'Assemblée fédérale 163, 173
-
--du Conseil fédéral 182
-
--limitées dans le temps 184, 185
-
+- de l’Assemblée fédérale 163, 173
+- d’urgence 185
+- du Conseil fédéral 182
 - indépendantes 184
-
+- limitées dans le temps 184, 185
 Ordre
-
--dans un canton 52
-
--constitutionnel 52
-
+- constitutionnel 52
+- dans un canton 52
 - économique 94
-
--international 2
-
+- international 2
 79
-
 [[END OF PAGE 79]]
 
 [[START OF PAGE 80]]
-
 101
-
 Constitution fédérale
-
-Organes , de l'Etat 5, 9
-
+Organes, de l’Etat 5, 9
 Organisation
-
--de l'armée 60
-
--de l'administration fédérale 178
-
-- de l'Assemblée fédérale 148-155
-
--en matière de droit civil 122
-
--de la justice
-
--en matière de droit pénal 123
-
--des autorités fédérales, dispositions fondamentales 164
-
--Tribunal fédéral 188, 189
-
--des cantons 48
-
--judiciaire 122, 123
-
--du Tribunal fédéral 188
-
+- de l’administration fédérale 178
+- de l’armée 60
+- de l’Assemblée fédérale 148–155
+- de la justice
+- en matière de droit civil 122
+- en matière de droit pénal 123
+- Tribunal fédéral 188, 189
+- des autorités fédérales, dispositions fondamentales 164
+- des cantons 48
+- du Tribunal fédéral 188
+- judiciaire 122, 123
 Organisations
-
--de sécurité collective 140
-
 - de consommateurs 97
-
--internationales 141
-
--œuvrant à la construction de logements d'utilité publique 108
-
--occupant une position dominante sur le marché 96
-
+- de sécurité collective 140
+- internationales 141
+- occupant une position dominante sur le marché 96
+- œuvrant à la construction de logements d’utilité publique 108
 Organismes 118, 120, 197 ch. 7
-
 Origine 8
-
 Orphelin 41
-
-Oui , double 139 b
-
-Ouvrages de protection, construction d' 86
-
+Oui, double 139b
+Ouvrages de protection, construction d’ 86
 Ovules 119
-
 ### P
-
 Paiements directs 104
-
 Paix
-
--entre les communautés religieuses 72
-
--en général (Préambule), 58
-
+- en général (Préambule), 58
+- entre les communautés religieuses 72
 Paix du travail 28
-
 Papiers-valeurs 132
-
 Paris sportifs 106
-
 Part des cantons
-
--au produit de l'impôt fédéral direct 128
-
--au produit net de la redevance poids lourds 85, 196 ch. 2
-
+- au produit net de la redevance poids lourds 85, 196 ch. 2
+- au produit de l’impôt fédéral direct 128
 Participation
-
--des cantons aux décisions de politique extérieure 55
-
--des cantons au processus de décision sur le plan fédéral 45
-
--droits de participation de l'Assemblée fédérale 184
-
+- des cantons au processus de décision sur le plan fédéral 45
+- des cantons aux décisions de politique extérieure 55
+- droits de participation de l’Assemblée fédérale 184
 Particuliers 5
-
 Partis
-
--institution 137
-
--participation aux procédures de consultation 147
-
-Patrimoine , protection du 78
-
+- institution 137
+- participation aux procédures de consultation 147
+Patrimoine, protection du 78
 Patrimoine génétique
-
--des animaux, des végétaux et des autres organismes 120
-
--des êtres humains 119
-
+- des êtres humains 119
+- des animaux, des végétaux et des autres organismes 120
 Pauvreté dans le monde 54
-
 Pays
-
--défense 57
-
--construction de logements 108
-
+- construction de logements 108
+- défense 57
 - indépendance 2
-
--protection 58
-
-Paysage , protection du 86
-
+- protection 58
+Paysage, protection du 86
 Paysage rural 104
-
 Paysages 78
-
 Pêche 79
-
 Peine
-
--de mort 10
-
--cruelle, inhumaine ou dégradante 10, 25
-
+- cruelle, inhumaine ou dégradante 10, 25
+- de mort 10
 Peines et mesures, exécution et amélioration des 123
-
 Pénurie 102
-
 Péréquation financière intercantonale
-
--en général 128, 135
-
--dans le domaine de la circulation routière 86
-
+- dans le domaine de la circulation routière 86
+- en général 128, 135
 Personne 6, 9
-
-Personne en quête d'un logement 41
-
+Personne en quête d’un logement 41
 Personnes
-
--dans le besoin 108, 115
-
-- âgées 108, 112 c , 197 ch. 5
-
--exerçant une activité indépendante 113
-
--nouvellement établies 39
-
-- handicapées 48 a , 112 c , 197 ch. 5
-
+- âgées 108, 112c, 197 ch. 5
+- dans le besoin 108, 115
+- exerçant une activité indépendante 113
+- handicapées 48a, 112c, 197 ch. 5
+- nouvellement établies 39
 Perte
-
--de revenu lors du service de protection civile 61
-
--de la nationalité et des droits de cité 38
-
--de revenu lors du service militaire 59
-
+- de la nationalité et des droits de cité 38
+- de revenu lors du service de protection civile 61
+- de revenu lors du service militaire 59
 Pétitions 33
-
-Pétrole , imposition du 131
-
-Peuple et cantons 136-142
-
+Pétrole, imposition du 131
+Peuple et cantons 136–142
 Peuple suisse (Préambule), 1
-
 Physionomie des localités 78
-
-Piliers de la prévoyance 111-113
-
-Placement , services de 110
-
+Piliers de la prévoyance 111–113
+Placement, services de 110
 Plaintes relatives aux programmes 93
-
 Plan financier 183
-
 80
-
 [[END OF PAGE 80]]
 
 [[START OF PAGE 81]]
-
 De la Confédération suisse
-
 101
-
-Planifications importantes des activités de l'Etat 173
-
+Planifications importantes des activités de l’Etat 173
 Plurilinguisme 70
-
 Poids lourds 196 ch. 2
-
 Poissons 79
-
 Politique
-
--conjoncturelle 100
-
--budgétaire 100
-
+- budgétaire 100
+- conjoncturelle 100
 - économique extérieure 101
-
--extérieure 54, 55, 166
-
--énergétique 89
-
--facilitant l'accession à la propriété 111
-
--monétaire 99, 100
-
+- énergétique 89
+- extérieure 54, 55, 166
+- facilitant l’accession à la propriété 111
 - gouvernementale 180
-
--structurelle 103, 196 ch. 7
-
-Pollueur-payeur , principe du 74 Population
-
--statistique 65
-
--protection de la 57, 58
-
-Pornographie enfantine 123 b
-
+- monétaire 99, 100
+- structurelle 103, 196 ch. 7
+Pollueur-payeur, principe du 74
+Population
+- protection de la 57, 58
+- statistique 65
+Pornographie enfantine 123b
 Pratique du sport par les jeunes 68
-
 Précipitations 76
-
 Présidence du Conseil national et du Conseil des Etats 152
-
 Président du Conseil national 152, 157
-
 Président de la Confédération 176
-
-Présomption d'innocence 32
-
+Présomption d’innocence 32
 Presse 17, 93
-
 Prestations
-
--d'assurance, imposition des 132
-
-- complémentaires 112 a
-
--de l'assurance-maternité 116
-
--du secteur de l'hébergement 196 ch. 14
-
--de l'AVS en espèce et en nature 112, 112 b
-
+- complémentaires 112a
+- d’assurance, imposition des 132
+- de l’assurance-maternité 116
+- de l’AVS en espèce et en nature 112, 112b
+- du secteur de l’hébergement 196 ch. 14
 Prévention de la guerre 58
-
 Prévoyance
-
--invalidité 111
-
--individuelle 111
-
--professionnelle 111, 113, 196 ch. 11
-
--vieillesse, survivants et invalidité 111
-
--survivants 111
-
+- individuelle 111
+- invalidité 111
+- professionnelle 111, 113, 196 ch. 11
+- survivants 111
+- vieillesse, survivants et invalidité 111
 Primauté du droit fédéral 49
-
-Primes d'assurance
-
--impôt sur les 132
-
+Primes d’assurance
+- impôt sur les 132
 Principe
-
--de l'autorité collégiale 177
-
--de l'armée de milice 58
-
--de la légalité 5
-
--de territorialité dans le domaine des langues 70
-
--de proportionnalité 5, 36
-
-Principes de l'activité de l'Etat 5
-
+- de l’armée de milice 58
+- de l’autorité collégiale 177
+- de la légalité 5
+- de proportionnalité 5, 36
+- de territorialité dans le domaine des langues 70
+Principes de l’activité de l’Etat 5
 Prise de position 45, 55
-
 Procédure
-
--de conciliation 97
-
--civile 122
-
--de consultation 147
-
--garanties de 29
-
--de révision de la Constitution 192-195
-
--judiciaire 30
-
--pénale 32
-
--judiciaire concernant la protection des consommateurs 97
-
+- civile 122
+- de conciliation 97
+- de consultation 147
+- de révision de la Constitution 192–195
+- garanties de 29
+- judiciaire 30
+- judiciaire concernant la protection des consommateurs 97
+- pénale 32
 Processus de décision
-
--au plan fédéral 45
-
--politique 34, 137
-
-Proches , information des 31
-
+- politique 34, 137
+- au plan fédéral 45
+Proches, information des 31
 Procréation, médicalement assistée 119
-
 Produits chimiques 104, 118
-
 Profession
-
--en général 95, 196 ch. 5
-
--choix de la 27
-
--promotion 103, 196 ch. 7
-
+- choix de la 27
+- en général 95, 196 ch. 5
+- promotion 103, 196 ch. 7
 Programmes
-
--plaintes relatives aux 93
-
--conception des 93
-
--des cantons pour la mise en oeuvre du droit fédéral 46
-
-Progression , à froid 128
-
+- conception des 93
+- plaintes relatives aux 93
+- des cantons pour la mise en oeuvre du droit fédéral 46
+Progression, à froid 128
 Projet
-
--rédigé 139
-
--du Conseil fédéral 181
-
+- du Conseil fédéral 181
+- rédigé 139
 Prolongation du bail 109
-
 Prononcé du jugement 30
-
-Proportionnalité , principe de la 5, 36
-
+Proportionnalité, principe de la 5, 36
 Propos tenus devant les conseils 162
-
 Proposition
-
--droit de 160
-
 - conçue en termes généraux 140
-
+- droit de 160
 Propriété 26
-
 Propriété foncière, rurale 104
-
 Prospérité 2, 54, 94
-
 Protection
-
--contre l'arbitraire 9
-
--civile 61
-
--contre le bruit le long des voies ferrées 196 ch. 3
-
--de l'économie suisse 101
-
--contre les abus en matière de procréation médicalement assistée et de génie génétique 119, 120
-
--de la dignité humaine, de la personnalité et de la famille 118 b, 119, 119 a
-
+- civile 61
+- contre l’arbitraire 9
+- contre le bruit le long des voies ferrées 196 ch. 3
+- contre les abus en matière de procréation médicalement assistée et de génie génétique 119, 120
+- de l’économie suisse 101
+- de la dignité humaine, de la personnalité et de la famille 118b, 119, 119a
 81
-
 [[END OF PAGE 81]]
 
 [[START OF PAGE 82]]
-
 101
-
 Constitution fédérale
-
--de la faune et de la flore 78
-
--de la nature 78
-
--de la forêt 77
-
--de la santé 118, 119 a
-
--des eaux 76
-
+- de la faune et de la flore 78
+- de la forêt 77
+- de la nature 78
+- de la santé 118, 119a
 - des animaux 80
-
--des personnes et des biens 61
-
--du patrimoine 78
-
--des travailleurs 110
-
--de l'environnement et du paysage 86
-
+- des eaux 76
+- des personnes et des biens 61
+- des travailleurs 110
+- du patrimoine 78
+- de l’environnement et du paysage 86
 Publicité des débats 30
-
 ### R
-
-Rabais , afin de stabiliser la conjoncture 100
-
+Rabais, afin de stabiliser la conjoncture 100
 Race 8
-
 Radio 17, 93
-
 Rail 2000 196 ch. 3
-
 Rapport de gestion du Conseil fédéral 187
-
 Rapports de bail 109
-
 Ratification 184
-
 Rationalisation de la construction 108
-
 Rayons ionisants 118
-
 Réalisation
-
--des droits fondamentaux, 35
-
--de travaux publics 81
-
-Recettes 126 Recherche
-
+- de travaux publics 81
+- des droits fondamentaux, 35
+Recettes 126
+Recherche
+- agricole 104
 - compétence fédérale 64
-
--agricole 104
-
--en matière de procréation médicalement assistée 119
-
--statistique 65
-
--liberté de la science 20
-
--sur l'être humain 118 b
-
-Réclamation contre les conventions
-
-conclues par les cantons 172, 186
-
+- en matière de procréation médicalement assistée 119
+- liberté de la science 20
+- statistique 65
+- sur l’être humain 118b
+Réclamation contre les conventions conclues par les cantons 172, 186
 Reconnaissance des titres sanctionnant une formation 95, 196 ch. 5
-
 Recours
-
+- au Conseil fédéral 187
 - en grâce 157, 173
-
--au Conseil fédéral 187
-
 Rectification
-
--des frontières cantonales 53
-
--de l'alcool 105
-
+- de l’alcool 105
+- des frontières cantonales 53
 Redevances
-
--circulation des poids lourds 85, 196 ch. 2
-
--à la place du service militaire et du service de remplacement (exemption de l'obligation de servir) 59
-
--dispositions fondamentales sur les 164
-
-- impôts 127-134
-
--maisons de jeu 106
-
--suppléments prélevés afin de stabiliser la conjoncture 100
-
--pour l'utilisation des routes nationales 86, ch. II
-
--sur la circulation des poids lourds 85, 86, 196 ch. 2 et 3
-
--utilisation des ressources en eau 76
-
-Réduction des primes de l'assurance-maladie 130
-
+- à la place du service militaire et du service de remplacement (exemption de l’obligation de servir) 59
+- circulation des poids lourds 85, 196 ch. 2
+- dispositions fondamentales sur les 164
+- impôts 127–134
+- maisons de jeu 106
+- pour l’utilisation des routes nationales 86, ch. II
+- suppléments prélevés afin de stabiliser la conjoncture 100
+- sur la circulation des poids lourds 85, 86, 196 ch. 2 et 3
+- utilisation des ressources en eau 76
+Réduction des primes de l’assurance-maladie 130
 Réélection
-
--du président de la Conseil fédéral 176
-
--des présidents des conseils 152
-
+- des présidents des conseils 152
+- du président de la Confédération 176
 Référendum
-
--facultatif 141, 141 a
-
--en général 136
-
--majorités 142
-
--obligatoire 140, 141 a
-
+- en général 136
+- facultatif 141, 141a
+- majorités 142
+- obligatoire 140, 141a
 Refoulement 25
-
-Refroidissement, utilisation de l'eau pour le 76
-
+Refroidissement, utilisation de l’eau pour le 76
 Réfugiés 25
-
-Régime des finances 126-135, 196 ch. 13-15
-
+Régime des finances 126–135, 196 ch. 13–15
 Régions
-
+- alpines, protection contre le trafic de transit 84, 196 ch. 1
 - de montagne 50, 85
-
--alpines, protection contre le trafic de transit 84, 196 ch. 1
-
 - économiquement menacées 103, 196 ch. 7
-
--périphériques 85
-
-Registres , officiels 65
-
+- périphériques 85
+Registres, officiels 65
 Registre foncier 197 ch. 9 I
-
 Réintégration dans la nationalité suisse 38
-
 Relations
-
--de travail 28
-
--avec l'étranger 54, 166
-
--entre la Confédération et les cantons 44-49, 172, 186
-
+- avec l’étranger 54, 166
+- de travail 28
+- entre la Confédération et les cantons 44–49, 172, 186
 Religion 15
-
 Remorques 196 ch. 2, ch. II
-
 Renchérissement
-
--adaptation des impôts au 128
-
--adaptation des dépenses votées au 159
-
--mesures contre le 100
-
+- adaptation des dépenses votées au 159
+- adaptation des impôts au 128
+- mesures contre le 100
 Renouvellement
-
--des conseils en cas de révision totale de la Constitution 193
-
--de lois dont la validité est limitée dans le temps 165
-
--intégral du Conseil national 149
-
+- de lois dont la validité est limitée dans le temps 165
+- des conseils en cas de révision totale de la Constitution 193
+- intégral du Conseil national 149
 Rente
-
 - maximale et minimale 112
-
 82
-
 [[END OF PAGE 82]]
 
 [[START OF PAGE 83]]
-
 De la Confédération suisse
-
 101
-
 Rentes 112
-
 Renvoi 121 al. 3 à 6
-
-Répartition des tâches entre la Confédération et les cantons 3, 54-125
-
-Représentation de la Suisse à l'étranger 184 Réseau
-
--de sentiers pédestres 88
-
--de routes nationales 83
-
+Répartition des tâches entre la Confédération et les cantons 3, 54–125
+Représentation de la Suisse à l’étranger 184
+Réseau
+- de routes nationales 83
+- de sentiers pédestres 88
 Réserves
-
--monétaires 99
-
--en or  99
-
-Résidences secondaires 75 b, 197 ch. 9 Respect
-
--du droit fédéral 49, 186
-
--du droit intercantonal 48
-
--en général (Préambule)
-
--réciproque de la Confédération et des cantons 44
-
+- en or 99
+- monétaires 99
+Résidences secondaires 75b, 197 ch. 9
+Respect
+- du droit intercantonal 48
+- du droit fédéral 49, 186
+- en général (Préambule)
+- réciproque de la Confédération et des cantons 44
 Responsabilité
-
--personnelle 41
-
--en général (Préambule), 6
-
-Responsabilité de la Confédération 146 Ressources
-
--péréquation 135
-
--naturelles 2, 54, 104
-
+- en général (Préambule), 6
+- personnelle 41
+Responsabilité de la Confédération 146
+Ressources
+- naturelles 2, 54, 104
+- péréquation 135
 Restauration 196 ch. 7
-
 Restriction
-
--des droits fondamentaux 36
-
--de la propriété 26
-
+- de la propriété 26
+- des droits fondamentaux 36
 Revenu
-
--perte du 114
-
 - paysan 104
-
+- perte du 114
 Révision
-
--des constitutions cantonales 51
-
--de la Constitution fédérale 140, 141 a , 192-195
-
--partielle de la Constitution fédérale
-
+- de la Constitution fédérale 140, 141a, 192–195
+- des constitutions cantonales 51
+- partielle de la Constitution fédérale
+- initiative tendant à la 139
 - procédure 194
-
--initiative tendant à la 139
-
-- référendum obligatoire 140, 141 a
-
--initiative tendant à la 138
-
--totale de la Constitution fédérale
-
+- référendum obligatoire 140, 141a
+- totale de la Constitution fédérale
+- initiative tendant à la 138
 - procédure 156, 193
-
--référendum obligatoire 140
-
+- référendum obligatoire 140
 Romanche 4, 70
-
 Routes
-
--de transit 82
-
--de contournement 84, 196 ch. 1
-
--nationales 86, 83, 197 ch. 3, ch. II
-
--publiques 82
-
--principales 86
-
+- de contournement 84, 196 ch. 1
+- de transit 82
+- nationales 86, 83, 197 ch. 3, ch. II
+- principales 86
+- publiques 82
 ### S
-
 Saint-Gall 1
-
 Salaire 8
-
-Salariés 112-114
-
-Santé 41, 118-120
-
+Salariés 112–114
+Santé 41, 118–120
 Schaffhouse 1
-
 Schwyz 1
-
-Séances , Publicité des 158
-
+Séances, Publicité des 158
 Secret
-
--de rédaction 17
-
 - de fonction face aux commissions 169
-
+- de rédaction 17
 Sécurité
-
+- de l’être humain, de l’animal et de l’environnement 120
 - économique 94
-
--de l'être humain, de l'animal et de l'environnement 120
-
--en général 2, 57, 121, 173, 185
-
--sociale 41, 110-117
-
--intérieure 52, 57, 58, 173, 185
-
--technique dans le trafic aérien 86
-
+- en général 2, 57, 121, 173, 185
+- intérieure 52, 57, 58, 173, 185
+- sociale 41, 110–117
+- technique dans le trafic aérien 86
 Séjour 121
-
 Sentiers pédestres 88
-
 Service
-
+- actif 173, 185
 - de placement 110
-
--actif 173, 185
-
--de protection civile 61
-
--militaire 40, 59
-
--de remplacement, civil 40, 59
-
--universel  et suffisant en matière de services postaux et de télécommunications 92
-
+- de protection civile 61
+- de remplacement, civil 40, 59
+- militaire 40, 59
+- universel et suffisant en matière de services postaux et de télécommunications 92
 Services
-
+- de première nécessité 102
 - de télécommunications 92
-
--de première nécessité 102
-
 - du parlement 155
-
--postaux 92
-
--financiers 98
-
+- financiers 98
+- postaux 92
 Sessions 151
-
 Sexe 8
-
-Sites , historiques 78
-
+Sites, historiques 78
 Situation
-
--d'urgence 12, 61
-
--conjoncturelle 100, 126
-
--sociale 8
-
+- conjoncturelle 100, 126
+- d’urgence 12, 61
+- sociale 8
 Société
-
--statistique 65
-
--en général 6
-
+- en général 6
+- statistique 65
 Soins 41
-
-- à domicile 112 c , 197 ch. 5
-
+- à domicile 112c, 197 ch. 5
 Sol 75
-
 Soleure 1
-
 Solidarité (Préambule)
-
 83
-
 [[END OF PAGE 83]]
 
 [[START OF PAGE 84]]
-
 101
-
 Constitution fédérale
-
-Source de financement accordée
-
-aux cantons 47
-
+Source de financement accordée aux cantons 47
 Souveraineté des cantons 3
-
 Sphère privée 13
-
 Sport 68, 106
-
 Stabilisation de la conjoncture 100
-
 Statistique 65
-
 Stérilité 119
-
 Stupéfiants 118
-
-Subsidiarité 5 a
-
+Subsidiarité 5a
 Subventions 159
-
 Suisse
-
--service militaire 59
-
--interdiction de l'expulsion 25
-
-Suisses de l'étranger 40
-
-Supplément sur l'impôt à la consommation sur les carburants 86, 131
-
+- interdiction de l’expulsion 25
+- service militaire 59
+Suisses de l’étranger 40
+Supplément sur l’impôt à la consommation sur les carburants 86, 131
 Surveillance
-
--des écoles 62
-
--de l'administration fédérale 187
-
--des jeux d'argent 106
-
+- de l’administration fédérale 187
+- des écoles 62
+- des jeux d’argent 106
 Système
-
--proportionnel 149
-
 - bicaméral 148
-
+- proportionnel 149
 ### T
-
 Tâches
-
--d'intérêt régional 48
-
--de l'Etat 35
-
--étatiques 5 a , 43 a
-
-Tâches de l'administration 178
-
+- de l’Etat 35
+- d’intérêt régional 48
+- étatiques 5a, 43a
+Tâches de l’administration 178
 Tarifs postaux et des télécommunications 92
-
-Taxation de l'impôt 128
-
+Taxation de l’impôt 128
 Taxe
-
--pour l'utilisation de routes publiques 82
-
--militaire 59
-
--sur la valeur ajoutée 130, 134, 196 ch. 3, 14
-
-Technique de télécommunication 17, 92 Télécommunications 92
-
+- militaire 59
+- pour l’utilisation de routes publiques 82
+- sur la valeur ajoutée 130, 134, 196 ch. 3, 14
+Technique de télécommunication 17, 92
+Télécommunications 92
 Téléphériques 87
-
 Télévision 17, 93
-
 Temps de cotisation dans la prévoyance professionnelle 196 ch. 11
-
 Territoire
-
--statistique 65
-
--des cantons 53
-
-Territorialité , principe de la 70
-
+- des cantons 53
+- statistique 65
+Territorialité, principe de la 70
 Tessin 1, 70
-
 Thurgovie 1
-
 Torture 10, 25
-
 Trafic
-
+- aérien 86
 - combiné 86
-
--aérien 86
-
--de marchandises transfrontalier 133
-
--de transit 84, 196 ch. 1
-
--de marchandises 84, 196 ch. 1
-
+- de marchandises transfrontalier 133
+- de marchandises 84, 196 ch. 1
+- de transit 84, 196 ch. 1
 Train 196 ch. 3
-
-Traitement , cruel, inhumain ou dégradant 10, 25
-
+Traitement, cruel, inhumain ou dégradant 10, 25
 Traités internationaux
-
-- compétence de l'Assemblée fédérale 166
-
--applicabilité 190
-
+- applicabilité 190
+- compétence de l’Assemblée fédérale 166
 - compétence du Conseil fédéral 184
-
-- mise en oeuvre de 141 a
-
--consultation 147
-
--référendum facultatif 141, 141 a
-
--violation 189
-
--référendum obligatoire 141 a
-
+- consultation 147
+- mise en oeuvre de 141a
+- référendum facultatif 141, 141a
+- référendum obligatoire 141a
+- violation 189
 Transmission de maladies 118, 119
-
 Transit
-
--de matériel de guerre 107
-
--alpin 84, 196 ch. 1
-
-Transplantation 119 a
-
+- alpin 84, 196 ch. 1
+- de matériel de guerre 107
+Transplantation 119a
 Transport 87
-
--de véhicules routiers accompagnés 86
-
--d'énergie 91
-
--en agglomération, convention intercantonale 48 a
-
--par conduite 91
-
+- d’énergie 91
+- de véhicules routiers accompagnés 86
+- en agglomération, convention intercantonale 48a
+- par conduite 91
 Travail 8, 41, 110, 196 ch. 9
-
--des invalides 112 b
-
+- des invalides 112b
 Travailleurs 28, 110, 111, 112, 113, 114
-
 Travaux publics 81
-
 Tribunal
-
--du domicile 30
-
 - compétent 30
-
+- du domicile 30
 Tribunal fédéral
-
--en instance unique 32
-
-- en général 188-191 c
-
-Tribunal pénal 191 a
-
-Tribunaux d'exception 30
-
-Trouble de l'ordre dans un canton 52
-
-Troupes , levée dans les cas d'urgence 185
-
+- en général 188–191c
+- en instance unique 32
+Tribunal pénal 191a
+Tribunaux d’exception 30
+Trouble de l’ordre dans un canton 52
+Troupes, levée dans les cas d’urgence 185
 ### U
-
 Unité
-
--de la forme 139, 194
-
+- de la forme 139, 194
 84
-
 [[END OF PAGE 84]]
 
 [[START OF PAGE 85]]
-
 De la Confédération suisse
-
 101
-
--de la matière 139, 194
-
--en général (Préambule)
-
+- de la matière 139, 194
+- en général (Préambule)
 Urgence 185
-
 Uri 1
-
 Usage personnel 108
-
 Utilisation
-
--des marais 78
-
--de l'eau 76
-
--du sol 75
-
+- de l’eau 76
+- des marais 78
+- du sol 75
 Utilisation des routes nationales 85, 86, 196 ch. 2, ch. II
-
 ### V
-
 Valais 1
-
 Valeur litigieuse 97
-
 Validité des initiatives populaires 156, 173
-
 Vaud 1
-
 Véhicules
-
--articulés 196 ch. 2
-
-- à moteur 82-86
-
--catégories de 196 ch. 2, ch. II
-
-- consommation d'énergie des 89
-
-Vente d'alcool 105
-
+- à moteur 82–86
+- articulés 196 ch. 2
+- catégories de 196 ch. 2, ch. II
+- consommation d’énergie des 89
+Vente d’alcool 105
 Veuvage 41
-
 Vie
-
--privée 13
-
--familiale 13
-
-Vie , droit à la 10
-
+- familiale 13
+- privée 13
+Vie, droit à la 10
 Vieillesse 8, 41
-
 Vignette autoroutière 86, ch. II
-
 Villes 50
-
 Violation de droits constitutionnels 189
-
 Voies de droit des organisations de consommateurs 97
-
-Vote de l'Etat 142
-
+Vote de l’Etat 142
 Votations
-
--référendum facultatif 141, 141 a
-
--fédérales 136
-
--référendum obligatoire 140, 141 a
-
--sur des lois fédérales déclarées urgentes 165
-
--sur des initiatives 138, 139, 139 b
-
+- fédérales 136
+- référendum facultatif 141, 141a
+- référendum obligatoire 140, 141a
+- sur des initiatives 138, 139, 139b
+- sur des lois fédérales déclarées urgentes 165
 Votations populaires
-
--référendum facultatif 141, 141 a , 142
-
--fédérales 136
-
--référendum obligatoire 140, 141 a , 142
-
--sur des lois fédérales déclarées urgentes 165
-
--sur des initiatives 138, 139, 139 b
-
-Vulgarisation , agricole 104
-
+- fédérales 136
+- référendum facultatif 141, 141a, 142
+- référendum obligatoire 140, 141a, 142
+- sur des initiatives 138, 139, 139b
+- sur des lois fédérales déclarées urgentes 165
+Vulgarisation, agricole 104
 ### Z
-
 Zoug 1
-
 Zurich 1
-
 85
-
 [[END OF PAGE 85]]
 
 [[START OF PAGE 86]]
-
 101
-
 Constitution fédérale
-
 # Table des matières
-
-a
-
+Préambule
+## Titre 1 Dispositions générales
+Confédération suisse ...................................................................... Art. 1
+But .................................................................................................. Art. 2
+Cantons .......................................................................................... Art. 3
+Langues nationales ......................................................................... Art. 4
+Principes de l’activité de l’Etat régi par le droit ............................ Art. 5
+Subsidiarité .................................................................................. Art. 5a
+Responsabilité individuelle et sociale ............................................ Art. 6
+## Titre 2 Droits fondamentaux, citoyenneté et buts sociaux
+### Chapitre 1 Droits fondamentaux
+Dignité humaine ............................................................................. Art. 7
+Egalité ............................................................................................ Art. 8
+Protection contre l’arbitraire et protection de la bonne foi ............ Art. 9
+Droit à la vie et liberté personnelle .............................................. Art. 10
+Protection des enfants et des jeunes ............................................. Art. 11
+Droit d’obtenir de l’aide dans des situations de détresse ............. Art. 12
+Protection de la sphère privée ...................................................... Art. 13
+Droit au mariage et à la famille ................................................... Art. 14
+Liberté de conscience et de croyance .......................................... Art. 15
+Libertés d’opinion et d’information ............................................. Art. 16
+Liberté des médias ....................................................................... Art. 17
+Liberté de la langue ..................................................................... Art. 18
+Droit à un enseignement de base ................................................. Art. 19
+Liberté de la science .................................................................... Art. 20
+Liberté de l’art ............................................................................. Art. 21
+Liberté de réunion ........................................................................ Art. 22
+Liberté d’association .................................................................... Art. 23
+Liberté d’établissement ................................................................ Art. 24
+Protection contre l’expulsion, l’extradition et le refoulement ....... Art. 25
+Garantie de la propriété ............................................................... Art. 26
+Liberté économique ..................................................................... Art. 27
+Liberté syndicale .......................................................................... Art. 28
 86
-
 [[END OF PAGE 86]]
 
 [[START OF PAGE 87]]
-
 De la Confédération suisse
-
 101
-
-a
-
-a
-
-a
-
+Garanties générales de procédure ................................................. Art. 29
+Garantie de l’accès au juge ......................................................... Art. 29a
+Garanties de procédure judiciaire ................................................. Art. 30
+Privation de liberté ....................................................................... Art. 31
+Procédure pénale .......................................................................... Art. 32
+Droit de pétition ............................................................................ Art. 33
+Droits politiques ........................................................................... Art. 34
+Réalisation des droits fondamentaux ............................................ Art. 35
+Restriction des droits fondamentaux ............................................ Art. 36
+### Chapitre 2 Nationalité, droits de cité et droits politiques
+Nationalité et droits de cité ........................................................... Art. 37
+Acquisition et perte de la nationalité et des droits de cité ............ Art. 38
+Exercice des droits politiques ....................................................... Art. 39
+Suisses et Suissesses de l’étranger ............................................... Art. 40
+### Chapitre 3 Buts sociaux
+...................................................................................................... Art. 41
+## Titre 3 Confédération, cantons et communes
+### Chapitre 1 Rapports entre la Confédération et les cantons
+#### Section 1 Tâches de la Confédération et des cantons
+Tâches de la Confédération .......................................................... Art. 42
+Tâches des cantons ....................................................................... Art. 43
+Principes applicables lors de l’attribution et de l’accomplissement des tâches étatiques ...................................... Art. 43a
+#### Section 2 Collaboration entre la Confédération et les cantons
+Principes ....................................................................................... Art. 44
+Participation au processus de décision sur le plan fédéral ............ Art. 45
+Mise en œuvre du droit fédéral ..................................................... Art. 46
+Autonomie des cantons ................................................................. Art. 47
+Conventions intercantonales ......................................................... Art. 48
+Déclaration de force obligatoire générale et obligation d’adhérer à des conventions ....................................................... Art. 48a
+Primauté et respect du droit fédéral .............................................. Art. 49
 87
-
 [[END OF PAGE 87]]
 
 [[START OF PAGE 88]]
-
 101
-
 Constitution fédérale
-
-a
-
-a
-
-a
-
+#### Section 3 Communes
+..................................................................................................... Art. 50
+#### Section 4 Garanties fédérales
+Constitutions cantonales .............................................................. Art. 51
+Ordre constitutionnel ................................................................... Art. 52
+Existence, statut et territoire des cantons ..................................... Art. 53
+### Chapitre 2 Compétences
+#### Section 1 Relations avec l’étranger
+Affaires étrangères ....................................................................... Art. 54
+Participation des cantons aux décisions de politique extérieure ............................................................................................ Art. 55
+Relations des cantons avec l’étranger .......................................... Art. 56
+#### Section 2 Sécurité, défense nationale, protection civile
+Sécurité ........................................................................................ Art. 57
+Armée .......................................................................................... Art. 58
+Service militaire et service de remplacement .............................. Art. 59
+Organisation, instruction et équipement de l’armée .................... Art. 60
+Protection civile ........................................................................... Art. 61
+#### Section 3 Formation, recherche et culture
+Espace suisse de formation ........................................................ Art. 61a
+Instruction publique ..................................................................... Art. 62
+Formation professionnelle ........................................................... Art. 63
+Hautes écoles ............................................................................. Art. 63a
+Recherche .................................................................................... Art. 64
+Formation continue .................................................................... Art. 64a
+Statistique .................................................................................... Art. 65
+Aides à la formation ..................................................................... Art. 66
+Encouragement des enfants et des jeunes .................................... Art. 67
+Sport ............................................................................................. Art. 68
+Culture ......................................................................................... Art. 69
+Langues ........................................................................................ Art. 70
+Cinéma ......................................................................................... Art. 71
+Eglise et Etat ................................................................................ Art. 72
+#### Section 4 Environnement et aménagement du territoire
+Développement durable ............................................................... Art. 73
+Protection de l’environnement ..................................................... Art. 74
 88
-
 [[END OF PAGE 88]]
 
 [[START OF PAGE 89]]
-
 De la Confédération suisse
-
 101
-
-a
-
-b
-
+Aménagement du territoire ........................................................... Art. 75
+Mensuration ................................................................................ Art. 75a
+Résidences secondaires .............................................................. Art. 75b
+Eaux .............................................................................................. Art. 76
+Forêts ............................................................................................ Art. 77
+Protection de la nature et du patrimoine ....................................... Art. 78
+Pêche et chasse ............................................................................. Art. 79
+Protection des animaux ................................................................. Art. 80
+#### Section 5 Travaux publics et transports
+Travaux publics ............................................................................ Art. 81
+Circulation routière ....................................................................... Art. 82
+Routes nationales .......................................................................... Art. 83
+Transit alpin .................................................................................. Art. 84
+Redevance sur la circulation des poids lourds .............................. Art. 85
+Impôt à la consommation sur les carburants et autres redevances sur la circulation ............................................................... Art. 86
+Transports ..................................................................................... Art. 87
+Chemins et sentiers pédestres ....................................................... Art. 88
+#### Section 6 Energie et communications
+Politique énergétique .................................................................... Art. 89
+Energie nucléaire .......................................................................... Art. 90
+Transport d’énergie ....................................................................... Art. 91
+Services postaux et télécommunications ...................................... Art. 92
+Radio et télévision ........................................................................ Art. 93
+#### Section 7 Economie
+Principes de l’ordre économique .................................................. Art. 94
+Activité économique lucrative privée ........................................... Art. 95
+Politique en matière de concurrence ............................................. Art. 96
+Protection des consommateurs et des consommatrices ................ Art. 97
+Banques et assurances .................................................................. Art. 98
+Politique monétaire ....................................................................... Art. 99
+Politique conjoncturelle .............................................................. Art. 100
+Politique économique extérieure ................................................ Art. 101
+Approvisionnement du pays ....................................................... Art. 102
+Politique structurelle ................................................................... Art. 103
+Agriculture .................................................................................. Art. 104
+Alcool ......................................................................................... Art. 105
+Jeux d’argent .............................................................................. Art. 106
 89
-
 [[END OF PAGE 89]]
 
 [[START OF PAGE 90]]
-
 101
-
 Constitution fédérale
-
-a
-
-b
-
-c
-
-a
-
-a
-
-a
-
+Armes et matériel de guerre ....................................................... Art. 107
+#### Section 8 Logement, travail, sécurité sociale et santé
+Encouragement de la construction de logements et de l’accession à la propriété ........................................................... Art. 108
+Bail à loyer ................................................................................. Art. 109
+Travail ........................................................................................ Art. 110
+Prévoyance vieillesse, survivants et invalidité .......................... Art. 111
+Assurance-vieillesse, survivants et invalidité ............................ Art. 112
+Prestations complémentaires ................................................... Art. 112a
+Encouragement de l’intégration des invalides ......................... Art. 112b
+Aide aux personnes âgées et aux personnes handicapées ......... Art. 112c
+Prévoyance professionnelle ....................................................... Art. 113
+Assurance-chômage ................................................................... Art. 114
+Assistance des personnes dans le besoin ................................... Art. 115
+Allocations familiales et assurance-maternité ........................... Art. 116
+Assurance-maladie et assurance-accidents ................................ Art. 117
+Protection de la santé ................................................................. Art. 118
+Médecines complémentaires ................................................... Art. 118a
+Recherche sur l’être humain .................................................... Art. 118b
+Procréation médicalement assistée et génie génétique dans le domaine humain ..................................................................... Art. 119
+Médecine de la transplantation ................................................ Art. 119a
+Génie génétique dans le domaine non humain .......................... Art. 120
+#### Section 9 Séjour et établissement des étrangers
+................................................................................................... Art. 121
+#### Section 10 Droit civil, droit pénal, métrologie
+Droit civil ................................................................................... Art. 122
+Droit pénal ................................................................................. Art. 123
+................................................................................................. Art. 123a
+Imprescriptibilité de l’action pénale et de la peine pour les auteurs d’actes d’ordre sexuel ou pornographique sur des enfants impubères ........................................................ Art. 123b
+Aide aux victimes ...................................................................... Art. 124
+Métrologie .................................................................................. Art. 125
+### Chapitre 3 Régime des finances
+Gestion des finances .................................................................. Art. 126
+Principes régissant l’imposition ................................................. Art. 127
+Impôts directs ............................................................................. Art. 128
 90
-
 [[END OF PAGE 90]]
 
 [[START OF PAGE 91]]
-
 De la Confédération suisse
-
 101
-
-a
-
-b
-
-a
-
+Harmonisation fiscale ................................................................. Art. 129
+Taxe sur la valeur ajoutée ........................................................... Art. 130
+Impôts à la consommation spéciaux ........................................... Art. 131
+Droit de timbre et impôt anticipé ................................................ Art. 132
+Droits de douane ......................................................................... Art. 133
+Exclusion d’impôts cantonaux et communaux ........................... Art. 134
+Péréquation financière et compensation des charges ................. Art. 135
+## Titre 4 Peuple et cantons
+### Chapitre 1 Dispositions générales
+Droits politiques ......................................................................... Art. 136
+Partis politiques .......................................................................... Art. 137
+### Chapitre 2 Initiative et référendum
+Initiative populaire tendant à la révision totale de la Constitution ......................................................................................... Art. 138
+Initiative populaire tendant à la révision partielle de la Constitution ................................................................................ Art. 139
+Abrogé ...................................................................................... Art. 139a
+Procédure applicable lors du vote sur une initiative et son contre-projet ............................................................................. Art. 139b
+Référendum obligatoire .............................................................. Art. 140
+Référendum facultatif ................................................................. Art. 141
+Mise en œuvre des traités internationaux ................................. Art. 141a
+Majorités requises ....................................................................... Art. 142
+## Titre 5 Autorités fédérales
+### Chapitre 1 Dispositions générales
+Eligibilité .................................................................................... Art. 143
+Incompatibilités .......................................................................... Art. 144
+Durée de fonction ....................................................................... Art. 145
+Responsabilité de la Confédération ............................................ Art. 146
+Procédure de consultation ........................................................... Art. 147
+### Chapitre 2 Assemblée fédérale
+#### Section 1 Organisation
+Rôle de l’Assemblée fédérale et bicamérisme ............................ Art. 148
+Composition et élection du Conseil national .............................. Art. 149
+Composition et élection du Conseil des Etats ............................ Art. 150
 91
-
 [[END OF PAGE 91]]
 
 [[START OF PAGE 92]]
-
 101
-
 Constitution fédérale
-
+Sessions ...................................................................................... Art. 151
+Présidence .................................................................................. Art. 152
+Commissions parlementaires ..................................................... Art. 153
+Groupes ...................................................................................... Art. 154
+Services du parlement ................................................................ Art. 155
+#### Section 2 Procédure
+Délibérations séparées ............................................................... Art. 156
+Délibérations communes ........................................................... Art. 157
+Publicité des séances .................................................................. Art. 158
+Quorum et majorité .................................................................... Art. 159
+Droit d’initiative et droit de proposition .................................... Art. 160
+Interdiction des mandats impératifs ........................................... Art. 161
+Immunité .................................................................................... Art. 162
+#### Section 3 Compétences
+Forme des actes édictés par l’Assemblée fédérale .................... Art. 163
+Législation ................................................................................. Art. 164
+Législation d’urgence ................................................................ Art. 165
+Relations avec l’étranger et traités internationaux ..................... Art. 166
+Finances ..................................................................................... Art. 167
+Elections .................................................................................... Art. 168
+Haute surveillance ..................................................................... Art. 169
+Evaluation de l’efficacité ........................................................... Art. 170
+Mandats au Conseil fédéral ....................................................... Art. 171
+Relations entre la Confédération et les cantons ......................... Art. 172
+Autres tâches et compétences .................................................... Art. 173
+### Chapitre 3 Conseil fédéral et administration fédérale
+#### Section 1 Organisation et procédure
+Rôle du Conseil fédéral ............................................................. Art. 174
+Composition et élection ............................................................. Art. 175
+Présidence .................................................................................. Art. 176
+Principe de l’autorité collégiale et division en départements ...... Art. 177
+Administration fédérale ............................................................. Art. 178
+Chancellerie fédérale ................................................................. Art. 179
+#### Section 2 Compétences
+Politique gouvernementale ........................................................ Art. 180
+Droit d’initiative ........................................................................ Art. 181
 92
-
 [[END OF PAGE 92]]
 
 [[START OF PAGE 93]]
-
 De la Confédération suisse
-
 101
-
-a
-
-b
-
-c
-
-Dispositions finales de l'arrêté fédéral du 18 décembre 1998
-
+Législation et mise en œuvre ...................................................... Art. 182
+Finances ...................................................................................... Art. 183
+Relations avec l’étranger ............................................................ Art. 184
+Sécurité extérieure et sécurité intérieure .................................... Art. 185
+Relations entre la Confédération et les cantons .......................... Art. 186
+Autres tâches et compétences ..................................................... Art. 187
+### Chapitre 4 Tribunal fédéral et autres autorités judiciaires
+Rôle du Tribunal fédéral ............................................................. Art. 188
+Compétences du Tribunal fédéral ............................................... Art. 189
+Droit applicable .......................................................................... Art. 190
+Accès au Tribunal fédéral ........................................................... Art. 191
+Autres autorités judiciaires de la Confédération ...................... Art. 191a
+Autorités judiciaires des cantons .............................................. Art. 191b
+Indépendance des autorités judiciaires ..................................... Art. 191c
+## Titre 6 Révision de la Constitution et dispositions transitoires
+### Chapitre 1 Révision
+Principe ....................................................................................... Art. 192
+Révision totale ............................................................................ Art. 193
+Révision partielle ........................................................................ Art. 194
+Entrée en vigueur ........................................................................ Art. 195
+### Chapitre 2 Dispositions transitoires
+Dispositions transitoires selon l’arrêté fédéral du 18 décembre 1998 relatif à une mise à jour de la Constitution fédérale ....................................................................................... Art. 196
+Dispositions transitoires après acceptation de la Constitution du 18 avril 1999 ................................................................... Art. 197
+## Dispositions finales de l’arrêté fédéral du 18 décembre 1998
 93
-
 [[END OF PAGE 93]]
 
 [[START OF PAGE 94]]
