@@ -1,10 +1,14 @@
 [[START OF PAGE 1]]
 
-October 2013
+INTERNATIONAL MONETARY FUND
+
+IMF Country Report No. 13/318
 
 # SUDAN
 
 ## INTERIM POVERTY REDUCTION STRATEGY PAPER
+
+October 2013
 
 Poverty Reduction Strategy Papers are prepared by member countries in broad consultation with stakeholders and development partners, including the staffs of the World Bank and the IMF. Updated with annual progress reports, they describe the countries macroeconomic, structural, and social policies in support of growth and poverty reduction, as well as associated external financing needs and major sources of financing. This country document for Sudan is being available on the IMF website by agreement of the member country as a service to users of the IMF website.
 
@@ -12,21 +16,15 @@ The policy of publication of staff reports and other documents allows for the de
 
 Copies of this report are available to the public from
 
-International Monetary Fund  Publication Services 700 19 th Street, N.W.  Washington, D.C. 20431
-
-Telephone: (202) 623-7430
-
-
-
-Telefax: (202) 623-7201
-
+International Monetary Fund • Publication Services
+700 19th Street, N.W. • Washington, D.C. 20431
+Telephone: (202) 623-7430 • Telefax: (202) 623-7201
 E-mail: publications@imf.org  Internet: http://www.imf.org
 
 Price: $18.00 a copy
 
-International Monetary Fund Washington, D.C.
-
-IMF Country Report No. 13/318
+International Monetary Fund
+Washington, D.C.
 
 ©2013 International Monetary Fund
 
@@ -304,17 +302,135 @@ Value Added Tax.
 
 # Table of Contents
 
+1 Overview: Context and Objectives.......................................................................................1
+1.1 Introduction............................................................................................................................1
+The CPA, MDGs, and Sudan...................................................................................................2
+Objective of the Interim Poverty Reduction Strategy Paper (IPRSP)........................................2
+1.2 Sudan’s Economic Performance..............................................................................................3
+Macroeconomic and Structural Reforms...............................................................................4
+External Debt........................................................................................................................5
+Dependency on Oil................................................................................................................6
+Employment and Productivity...............................................................................................7
+Disparities in Development...................................................................................................7
+1.3 Poverty Reduction Efforts in Sudan Leading to the IPRSP.......................................................8
+1.4 Institutional arrangements and IPRSP Committee structure...................................................9
+1.5 Structure of the Document...................................................................................................10
+2 Poverty Diagnostics............................................................................................................11
+2.1 Poverty Profile......................................................................................................................11
+2.2 Poverty by source of income.................................................................................................12
+2.3 Poverty by Gender................................................................................................................12
+2.4 Poverty by education of head of household.........................................................................13
+2.5 Food Poverty:........................................................................................................................14
+2.6 Unemployment.....................................................................................................................14
+2.7 Roots of poverty in Sudan.....................................................................................................15
+3 The Poverty Reduction Strategy: Core Elements and Pillars..............................................16
+3.1 Challenges and Opportunities for Shared Growth and Poverty Reduction...........................16
+Key Challenges....................................................................................................................16
+Major Opportunities...........................................................................................................18
+3.2 Pillars of the Interim Strategy...............................................................................................19
+4 Strengthening Governance and Institutional Capacity.......................................................20
+4.1 Peace, security and national unity........................................................................................20
+Conflict Resolution and National reconciliation...................................................................20
+4.2 The rule of law and human rights.........................................................................................21
+Political institutions............................................................................................................21
+Justice and law enforcement...............................................................................................22
+Human rights......................................................................................................................22
+Property Rights...................................................................................................................25
+4.3 Decentralization....................................................................................................................25
+4.4 Combating Corruption..........................................................................................................26
+4.5 Effective service delivery......................................................................................................27
+Public Financial Management.............................................................................................27
+Financial Controls...............................................................................................................28
+Procurement.......................................................................................................................28
+4.6 Capacity Development in the public sector...........................................................................29
+4.7 Challenges and Priorities.......................................................................................................29
+5 Reintegration of Internally Displaced Persons and Refugees.............................................31
+
 -iv-
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
+5.1 Reintegration for sustained peace and development...........................................................31
+5.2 Main Challenges....................................................................................................................32
+5.3 International partnership for reintegration..........................................................................33
+5.4 Key actions in the short and medium-term...........................................................................34
+6 Developing Human Resources............................................................................................35
+6.1 Empowerment and Building the Capabilities of the People..................................................35
+Empowering the Poor to take advantage of opportunities...................................................35
+Empowering Women: closing gender disparities.................................................................36
+Challenges and Priorities.....................................................................................................37
+6.2 Meeting the MDG Education Targets....................................................................................38
+Key challenges....................................................................................................................39
+Strategy and Priorities for Basic Education..........................................................................40
+Strategy and Priorities for Tertiary Education......................................................................41
+6.3 Meeting the MDG Health Targets.........................................................................................42
+Key challenges....................................................................................................................42
+Strategy, Priorities and Actions...........................................................................................44
+6.4 Safe Drinking Water and Sanitation for Better Life...............................................................45
+Key Challenges....................................................................................................................45
+Strategy and policies...........................................................................................................46
+Priorities and Actions..........................................................................................................47
+6.5 Social Safety Net Programs: Protecting the Vulnerable Poor................................................47
+Community Driven Initiatives..............................................................................................48
+Pensions.............................................................................................................................49
+Health Insurance.................................................................................................................49
+7 Promotion of Economic Growth and Employment Creation..............................................50
+7.1 A New Vision for Sudan Growth Strategy.............................................................................50
+7.2 Enabling Macroeconomic Environment for Growth..............................................................51
+Maintaining Macroeconomic Stability: The Challenges Ahead.............................................51
+7.3 The Enabling Environment for Private Sector-led Growth....................................................53
+Key Challenges to private sector-led growth........................................................................55
+Priority Actions...................................................................................................................56
+Strengthening Financial Services.........................................................................................58
+7.4 Productivity and Growth in Agriculture................................................................................59
+Key Challenges....................................................................................................................60
+Objectives and Main Priorities.............................................................................................61
+Recent Actions....................................................................................................................62
+The Revitalization Strategy.................................................................................................63
+7.5 Economic Infrastructure Services for Recovery and Growth.................................................64
+Transport............................................................................................................................64
+Electric Power.....................................................................................................................66
+Telecommunications...........................................................................................................67
+7.6 Protection of the Natural Resources and the Environment...................................................68
+Key Challenges....................................................................................................................69
+Strategies and Actions........................................................................................................70
+8 The Road Map for the Preparation of the full PRSP...........................................................71
+8.1 Indicative Road Map to the Full Poverty Reduction Strategy Paper......................................71
+
 -v-
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+Participation.......................................................................................................................71
+Analytical Work...................................................................................................................72
+Institutional Arrangements and Coordination.....................................................................72
+Annex 1: Policy Matrix..............................................................................................................76
+Annex 2: References.................................................................................................................84
+
+List of Figures
+Figure 1: Sources of Income in Sudan Northern States..............................................................................................12
+Figure 2: Main sources of income by Quintiles, Northern States...........................................................................13
+Figure 3: Poverty Headcount Rates by Education of Household Heads, Northern States........................13
+
+List of Tables:
+Table 1: Selected Economic Indicators...................................................................................................................................3
+Table 2: Sudan: External Debt (US$ millions).....................................................................................................................5
+Table 3: Sudan Merchandise Exports................................................................................................................................6
+Table 4: Regional Disparities in Key MDG Indicators.....................................................................................................8
+Table 5: Poverty profile for Northern Sudan....................................................................................................................11
+Table 6: Selected Indicators of Development in States Hosting IDPs and Refugees.......................32
+Table 7: Sudan Gender MDGs...................................................................................................................................................36
+Table 8: Sudan Selected Education MDGs.........................................................................................................................38
+Table 9: Sudan Selected Health MDGs.................................................................................................................................42
+Table 10: Sudan MDGs for Water and Sanitation..........................................................................................................46
+Table 11: Selected Economic Indicators 2010-2015..................................................................................................53
+Table 12: Growth of Production (Value Added) and Share in Agriculture GDP.............................................60
+Table 13: Timetable for Preparation and Finalization of a PRSP..........................................................................74
+Table 14: Mode of Consultations by Stake Holders Group........................................................................................74
 
 -vi-
 
@@ -326,13 +442,13 @@ Value Added Tax.
 
 ## 1.1 Introduction
 
-- Sudan has had one of the highest growth rates amongst Sub-Saharan African countries and a  rapidly  rising  per  capita  income,  with  per  capita  GDP  of  US$1,500.  Nonetheless,  the  country's human development outcomes remain weak. Sudan ranks 154 out of 169 countries in UNDP's 2010 Human Development Index,  especially  relative  to  the  fact  that  income  per  capita  GDP  exceeded $1,500 or roughly 25 percent higher than the Sub-Saharan Africa (SSA) average. In 2009, Sudan was the  third  largest  producer  of  crude  oil  in  SSA,  behind  Nigeria  and  Angola,  although  Sudan's production  was  only  about  30  percent  of  Angola's.  Despite  the  rising  per  capita  income,  the incidence of poverty is high, with 46.5 percent of the population is below the poverty line. There is also  significant  variation  in  the  incidence  of  poverty  between  urban  and  rural  areas  as  well  as between states in the Federation. The incidence of poverty in Khartoum state is 26.0 percent and 69.4 percent in North Darfur.
+1. Sudan has had one of the highest growth rates amongst Sub-Saharan African countries and a rapidly rising per capita income, with per capita GDP of US$1,500. Nonetheless, the country's human development outcomes remain weak. Sudan ranks 154 out of 169 countries in UNDP's 2010 Human Development Index, especially relative to the fact that income per capita GDP exceeded $1,500 or roughly 25 percent higher than the Sub-Saharan Africa (SSA) average. In 2009, Sudan was the third largest producer of crude oil in SSA, behind Nigeria and Angola, although Sudan's production was only about 30 percent of Angola's. Despite the rising per capita income, the incidence of poverty is high, with 46.5 percent of the population is below the poverty line. There is also significant variation in the incidence of poverty between urban and rural areas as well as between states in the Federation. The incidence of poverty in Khartoum state is 26.0 percent and 69.4 percent in North Darfur.
 
-- The  road  to  sustainable  broad-based  development  in  Sudan  has  been  hampered  by  a number  of  country-specific  challenges  that  render  Sudan's  experience  unique  from  other  postconflict countries in the region. Since its independence in 1956, Sudan has been mired in several conflicts, with the exception of 1972-1983; the period after the Addis Ababa Peace Agreement was signed.  These  conflicts  have  led  to  huge  loss  of  life  and  have  severely  debilitated  the  country's capacity  for  development.  Development  projects  in  areas  affected  by  armed  conflict  were  often undermined  by  insecurity  and  weak  and  disintegrating  socio-economic  fabric  of  communities. Exodus  or  influx  of  IDPs  created  environments  not  conducive  for  meaningful  development initiatives.  International  isolation,  the  Darfur  conflict,  and  the  tenuous  North-South  relationship diverted attention from the development agenda and its impact on bringing peace and security. In recent  years,  most  of  the  civil  conflicts,  including  the  rebellion  in  Southern  Sudan  have  been resolved.  But  armed  conflict  continues  in  Darfur,  with  risks  of  conflict  emerging  in  some  other areas. These past and ongoing conflicts pose challenges for governance, human development, and poverty reduction in Sudan.
+2. The road to sustainable broad-based development in Sudan has been hampered by a number of country-specific challenges that render Sudan's experience unique from other post-conflict countries in the region. Since its independence in 1956, Sudan has been mired in several conflicts, with the exception of 1972-1983; the period after the Addis Ababa Peace Agreement was signed. These conflicts have led to huge loss of life and have severely debilitated the country's capacity for development. Development projects in areas affected by armed conflict were often undermined by insecurity and weak and disintegrating socio-economic fabric of communities. Exodus or influx of IDPs created environments not conducive for meaningful development initiatives. International isolation, the Darfur conflict, and the tenuous North-South relationship diverted attention from the development agenda and its impact on bringing peace and security. In recent years, most of the civil conflicts, including the rebellion in Southern Sudan have been resolved. But armed conflict continues in Darfur, with risks of conflict emerging in some other areas. These past and ongoing conflicts pose challenges for governance, human development, and poverty reduction in Sudan.
 
-- The  people  and  Government  of  Sudan  will  need  to  build  institutions  for  peace  and development and shift resources and attention from war to investing in the future. With the three peace agreements and ongoing efforts for a lasting and comprehensive peace agreement in Darfur, Sudan  has  its  greatest  opportunity  in  a  generation  to  concentrate  on  improving  the  lives  of Sudanese  and  consolidate  and  sustain  peace.  Support  from  the  international  development community, particularly  drawing  from the  accumulated  international  experience  on  post-conflict recovery  and  peace  building,  will  enhance  the  prospects  for  sustained  peace  and  economic developments. As building peace and security creates additional expenditure obligations such as financing  the  reintegration  of  displaced  persons  and  new  institutions  associated  with  the  peace agreements, the financial support from the international community will be crucial.
+3. The people and Government of Sudan will need to build institutions for peace and development and shift resources and attention from war to investing in the future. With the three peace agreements and ongoing efforts for a lasting and comprehensive peace agreement in Darfur, Sudan has its greatest opportunity in a generation to concentrate on improving the lives of Sudanese and consolidate and sustain peace. Support from the international development community, particularly drawing from the accumulated international experience on post-conflict recovery and peace building, will enhance the prospects for sustained peace and economic developments. As building peace and security creates additional expenditure obligations such as financing the reintegration of displaced persons and new institutions associated with the peace agreements, the financial support from the international community will be crucial.
 
-- Sudan's  debt  problems  can  be  traced  back  to  the  1960s  when  the  country  embarked  on large-scale industrialization, financed in part by foreign borrowing on non-concessional terms, and accompanied by government heavy regulation of the economy. The resulting heavy debt burden has shaped the evolution  of the  country's  economy  and  its  performance  over  the  past  20  years.  The arrears to International Development Association (IDA), the African Development Bank (AfDB) and other development agencies have prevented normal relations with these agencies and constrained access to concessional financing. Sudan's external debt, which amounted to US$37 billion at end-
+4. Sudan's debt problems can be traced back to the 1960s when the country embarked on large-scale industrialization, financed in part by foreign borrowing on non-concessional terms, and accompanied by government heavy regulation of the economy. The resulting heavy debt burden has shaped the evolution of the country's economy and its performance over the past 20 years. The arrears to International Development Association (IDA), the African Development Bank (AfDB) and other development agencies have prevented normal relations with these agencies and constrained access to concessional financing. Sudan's external debt, which amounted to US$37 billion at end-
 
 -1-
 
@@ -344,7 +460,7 @@ Value Added Tax.
 
 ### The CPA, MDGs, and Sudan
 
-5. The comprehensive peace agreement (CPA) - signed in 2005 between the Government of Sudan  and  Sudan  People's  Liberation  Movement  (SPLM)  -  had  put  an  end  to  the  civil  war  and opened  unprecedented  opportunities  for  peace,  development,  and  prosperity.  The  CPA  and  the adoption  of  the  Interim  National  Constitution  (INC)  in  2005  provided  the  frameworks  for  the alignment  of  resources  toward  broad-based,  sustained  development  and  poverty  reduction.  The Constitution  and  the  CPA  recognized  that  the  realization  of  the  MDGs  was  a  prerequisite  for achieving socio-economic stability in Sudan. In 2006, a Strategic Advisory Council was established to develop a 25 year development plan for Sudan and the resulting National Strategic Plan (20072031)  included  strong  references  and  commitments  to  the  MDGs.  Furthermore,  Sudan  also  has launched a Five-Year Development Plan (2012-2016) to serve as a growth oriented strategy with a primary focus on sustainable development and poverty reduction in the medium-term.
+5. The comprehensive peace agreement (CPA) - signed in 2005 between the Government of Sudan and Sudan People's Liberation Movement (SPLM) - had put an end to the civil war and opened unprecedented opportunities for peace, development, and prosperity. The CPA and the adoption of the Interim National Constitution (INC) in 2005 provided the frameworks for the alignment of resources toward broad-based, sustained development and poverty reduction. The Constitution and the CPA recognized that the realization of the MDGs was a prerequisite for achieving socio-economic stability in Sudan. In 2006, a Strategic Advisory Council was established to develop a 25 year development plan for Sudan and the resulting National Strategic Plan (2007-2031) included strong references and commitments to the MDGs. Furthermore, Sudan also has launched a Five-Year Development Plan (2012-2016) to serve as a growth oriented strategy with a primary focus on sustainable development and poverty reduction in the medium-term.
 
 6. The  CPA's  oil  wealth  sharing  provided  for  a  roughly  50:50  sharing  of  revenues  from  oil produced  in  the  Southern  Sudan  between  the  two  parts  of  the  country.  The  self-determination referendum  for  South  Sudan,  provided  for  in  the  CPA,  was  held  in  January  2011  and  over  98 percent of votes cast was in favor of the secession of South Sudan. This became effective on July 9, 2011.  During  the  transition  period,  the  authorities  of  the  North  and  the  South  entered  into negotiations on a number of post-referendum issues, namely oil wealth sharing, debt apportionment, currency, citizenship, borders, and the status of Abyei area.  The transition period planned to be six months has already lapsed but the negotiations have not been concluded.
 
@@ -364,7 +480,7 @@ Value Added Tax.
 
 ## 1.2 Sudan's Economic Performance
 
-- Sudan's economic growth pattern has been volatile over the past four decades. In the post-
+10. Sudan's economic growth pattern has been volatile over the past four decades. In the post-
 
 Table 1: Selected Economic Indicators
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -389,7 +505,7 @@ Government Capital Exp (%GDP) | 2.6 | 5.0 | 3.3 | 2.9 | 4.8 | 3.2 | 2.8
 Merchandise Exports (US$ Mill) | 1864 | 3778 | 4878 | 5813 | 8879 | 11671 | 7834
 Oil Exports (% of total exports) | 69.6 | 82.1 | 86.9 | 90.2 | 94.8 | 95.1 | 91.0
 External Debt (US$ Billion) | 20.48 | 23.30 | 27.01 | 28.45 | 31.87 | 33.54 | 35.69
-Central Bureau of Statistics, Sudan: Various IMF reports
+Source: Central Bureau of Statistics, Sudan: Various IMF reports
 
 independence  period,  Sudan  had  prudent  and  market-friendly  economic  policies  in  a  stable international environment. The result was low inflation and a favorable investment environment. The economic and development policy was also outward-oriented, particularly in support of cotton production  expansion.  A  number  of  laws  that  encouraged  private  sector  investment  in  rain-fed agriculture and the manufacturing sector were enacted. However, the threat of political instability was  looming  with  conflicting  stances  of  its  multiple  coalition  governments.  Sudan's  growth performance  declined  from  an  average  of  10.1  percent  during  1973-1977  to  1.9  percent  in  the 1978-1989. The breakdown of peace negotiations in 1984 led to regime transitions and intensified civil  war  and  consequently another bout of economic depression. During the period, the country experienced two regime transitions, extreme political repression and predatory  economic measures  in  favor  of  the  ruling  party  and  against  traditional  entrepreneurs.  Expansionary  fiscal policy,  rising  interest  rates  and  overvalued  currency  drained  the  country's  resources  during  the 1980s and early 1990s. Arrears accumulated, relations with creditors worsened and the country plunged into external debt distress.
 
@@ -435,19 +551,19 @@ independence  period,  Sudan  had  prudent  and  market-friendly  economic  poli
 
 ### External Debt
 
-16. The  total  stock  of  public  and  publicly  guaranteed  external  debt  is  estimated  at  US$38.0 billion at end of 2010 (see Table 2), consisting of US$16.1 billon of principal (debt disbursed and outstanding) and US$21.9 billion interest arrears and penalty interest. The rise is the stock of debt
+16. The total stock of public and publicly guaranteed external debt is estimated at US$38.0 billion at end of 2010 (see Table 2), consisting of US$16.1 billion of principal (debt disbursed and outstanding) and US$21.9 billion interest arrears and penalty interest. The rise is the stock of debt
 
-has been due to the relentless accumulation penalty interest and interest arrears  that  consisted  of  57.6  percent  of the stock of debt at the end of 2010. New borrowing by Sudan from Arab multilateral and bilateral creditors as well as  India  and  China  is  also  contributing  to the increase in the stock of external debt. For  instance,  Sudan  contracted  US$1105 million in new  external  debt  in  2008, including US$426 million in nonconcessional borrowing. However, the
+has been due to the relentless accumulation penalty interest and interest arrears that consisted of 57.6 percent of the stock of debt at the end of 2010. New borrowing by Sudan from Arab multilateral and bilateral creditors as well as India and China is also contributing to the increase in the stock of external debt. For instance, Sudan contracted US$1105 million in new external debt in 2008, including US$426 million in non-concessional borrowing. However, the
 
 Table 2: Sudan: External Debt (US$ millions)
 --- | --- | --- | ---
-Bilateral (Paris Club) | 2000 | 2005 | 2010
-Bilateral (non-Paris Club) | 6,084 | 8,530 | 12,095
-Multilateral | 6,546 | 9,664 | 13,840
-Commercial Banks | 4,166 | 4,461 | 5,340
-Suppliers | 2,959 | 3,505 | 4.981
-TOTAL | 728 | 846 | 1,768
-20,483 | 27,006 | 37,987
+ | 2000 | 2005 | 2010
+Bilateral (Paris Club) | 6,084 | 8,530 | 12,095
+Bilateral (non-Paris Club) | 6,546 | 9,664 | 13,840
+Multilateral | 4,166 | 4,461 | 5,340
+Commercial Banks | 2,959 | 3,505 | 4,981
+Suppliers | 728 | 846 | 1,768
+TOTAL | 20,483 | 27,006 | 37,987
 Source: Central Bank of Sudan
 
 non-concessional  borrowing,  large  as  it  appears,  was  within  the  ceiling  of  US$700  million negotiated  with  the  International  Monetary  Fund  (IMF)  in  the  context  of  its  Staff  Monitored Program (SMP) with Sudan.
@@ -462,7 +578,7 @@ non-concessional  borrowing,  large  as  it  appears,  was  within  the  ceiling
 
 ### Dependency on Oil
 
-18. Despite  the  impressive  growth  and  macroeconomic  reforms,  Sudan  has  become  a  monoproduct economy, highly dependent on oil for exports and revenues, with oil contributing over 95
+18. Despite the impressive growth and macroeconomic reforms, Sudan has become a mono-product economy, highly dependent on oil for exports and revenues, with oil contributing over 95
 
 Table 3: Sudan Merchandise Exports (US$ millions)
 --- | --- | --- | ---
@@ -475,8 +591,9 @@ Cotton | 68.1 | 58.3 | 40.2
 Gold | 63.2 | 112.1 | 85.5
 TOTAL | 8674.6 | 11467.3 | 7657.7
 o/w non-oil (%) | 3.8 | 4.2 | 7.6
+Source: Central Bureau of Statistics (CBS) Sudan
 
-percent  of  merchandise  exports  and  about  50 percent of government revenues. However, since  the  advent  of  oil,  the  non-oil  sector  has continued to grow briskly, as shown in Table 1, but the dynamism  have been in the nontradable sector -construction  and  services, driven by the growing  oil revenues. Direct foreign investment has expanded but most of it destined for the oil sector. Apart from  oil, Sudan's main exports are livestock, Gum Arabic, sesame and gold (see Table 3).  Together  these non-oil exports amounted to about half a billion dollars  in  2009.  The  diversification  of  exports, including the revival of traditional exports such
+percent of merchandise exports and about 50 percent of government revenues. However, since the advent of oil, the non-oil sector has continued to grow briskly, as shown in Table 1, but the dynamism have been in the non-tradable sector – construction and services, driven by the growing oil revenues. Direct foreign investment has expanded but most of it destined for the oil sector. Apart from oil, Sudan's main exports are livestock, Gum Arabic, sesame and gold (see Table 3). Together these non-oil exports amounted to about half a billion dollars in 2009. The diversification of exports, including the revival of traditional exports such
 
 as  cotton,  and  the  development  of  non-traditional,  non-oil  exports  is  imperative  for  sustained growth and employment creation.
 
@@ -531,7 +648,7 @@ Source: Sudan National Budget Household Survey (NBHS) 2009.
 
 25. Nevertheless, Sudan has lacked a broad and coherent approach to poverty reduction. Efforts have  been  made  in  the  past  to elaborate poverty  reduction  strategies, starting with the establishment of a Poverty Unit in the Ministry of Finance & National Economy in 1999. In 2004, the Ministry of Finance & National Economy prepared a draft interim poverty reduction strategy paper (2004-2006)  but  the  draft  fell  short  of  providing  a  credible  profile  of  poverty  and  its  various dimensions due to an acute lack of data. Nevertheless, it was presented in a workshop with to the various  stakeholders  including  representation  from  the  states,  the  donor  community,  the  civil society, academia and research institutions.
 
-26. The present effort builds on the momentum from the workshop and aims to fill the gaps identified  by  stakeholders  with data  made  available  through  the  Population  Census  in  2008  and National  Baseline  Household  efforts  with  a  grant  to  finance  a  capacity  building  project  for preparation  of  the  PRSP. In  2010,  the  Ministry  of  Welfare  and  Social  Security  and  the  General Secretariat  of  the  National  Population  Council  issued  the  MDGs  Progress  Report  for  Sudan, prepared in collaboration with the UN agencies. This report provides an assessment of progress and identifies the challenges and opportunities for achieving the MDG targets. The Interim PRSP draws from the relevant parts of the Progress Report.
+26. The present effort builds on the momentum from the workshop and aims to fill the gaps identified by stakeholders with data made available through the Population Census in 2008 and National Baseline Household Survey in 2009. The World Bank supported these efforts with a grant to finance a capacity building project for preparation of the PRSP. In 2010, the Ministry of Welfare and Social Security and the General Secretariat of the National Population Council issued the MDGs Progress Report for Sudan, prepared in collaboration with the UN agencies. This report provides an assessment of progress and identifies the challenges and opportunities for achieving the MDG targets. The Interim PRSP draws from the relevant parts of the Progress Report.
 
 -8-
 
@@ -545,11 +662,11 @@ Source: Sudan National Budget Household Survey (NBHS) 2009.
 
 ♦ Oversight Committee :  This ministerial committee chaired by the Minister of Finance was established on December 18 2010 to oversee the preparation and implementation of the IPRSP,  follow-up  on  the  Technical  Committees  work,  and  approve  the  Sudan  IPRSP  final draft and ensure its submission to the Council of Ministers. The committee is comprised of the  Ministers  of  Finance  and  National  Economy,  Welfare  and  Social  Security,  Agriculture and  Forestry  Livestock,  Health,  Basic  Education,  Labour,  Information,  and  Irrigation;  the Secretary-General of the Supreme Council of Decentralized Governance; the Governor of the Bank  of  Sudan;  and  the  Chairperson  of  the  IPRSP  Technical  Committee.  Following  the completion  of  the  IPRSP,  the  Oversight  Committee  will  transition  into  an  oversight committee for the implementation of the IPRSP and the preparation of the full PRSP.
 
-♦ Technical Committee : This  was  established  on 20 September 2010 to  prepare  the  IPRSP based  on  the  2009  Household  Survey.  The  technical  committee  represents  all  povertyrelated line ministries (agriculture, health, education, social welfare) as well as the National Council for Strategic Planning and the Central Bureau of Statistics. The preparation of the document was led by Ministry of Finance & National Economy to ensure policy coherence and consultation and to provide technical and logistical support. Following the completion of the IPRSP, the Technical into a technical committee for monitoring the implementation of the IPRSP. The Committee should be the nucleus for building up the Steering Committee doe the full PRSP.
+♦ Technical Committee: This was established on 20 September 2010 to prepare the IPRSP based on the 2009 Household Survey. The technical committee represents all poverty-related line ministries (agriculture, health, education, social welfare) as well as the National Council for Strategic Planning and the Central Bureau of Statistics. The preparation of the document was led by Ministry of Finance & National Economy to ensure policy coherence and consultation and to provide technical and logistical support. Following the completion of the IPRSP, the Technical Committee will transition into a technical committee for monitoring the implementation of the IPRSP. The Committee should be the nucleus for building up the Steering Committee for the full PRSP.
 
 28. Consultation Process : The preparation of the document involved extensive consultations to promote national consensus on the country ' s development strategy, based on a deep understanding of the citizens ' expectation and priorities. Consultations were held with citizens and authorities in the various states of the country, with the private sector and representatives of the civil  society,  and  with  the  donor  community.  Initial  drafts  were  circulated  to  all  these  groups seeking comments and reactions. These consultations were meant to ensure that all participants had the opportunity to have their voices heard and incorporated in the IPRSP process. The final document will have to be endorsed by the Council of Ministers and legislature to become effective. The Council of Ministers will provide overall policy guidance, political support and oversight to the implementation of the strategy.
 
-29. Monitoring of the IPRSP: The monitoring of the IPRSP will involve following up with line ministries  and  other  implementing  to  find  out  the  extent  that  the  strategic  directions  and operational recommendations of the PRSP and being fed into the government's policy, planning and budgeting systems and the related implementation and results. The Technical Committee for the IPRSP will be responsible for the monitoring, and will need to liase with thematic teams established for the PRSP.
+29. Monitoring of the IPRSP: The monitoring of the IPRSP will involve following up with line ministries and other implementing agencies to find out the extent that the strategic directions and operational recommendations of the PRSP are being fed into the government's policy, planning and budgeting systems and the related implementation and results. The Technical Committee for the IPRSP will be responsible for the monitoring, and will need to liase with thematic teams established for the PRSP.
 
 -9-
 
@@ -567,9 +684,11 @@ Source: Sudan National Budget Household Survey (NBHS) 2009.
 
 [[START OF PAGE 18]]
 
+# 2 Poverty Diagnostics
+
 ## 2.1 Poverty Profile
 
-- Poverty  is  multidimensional  phenomenon,  an  indication  of  deprivation  in  one  or  more facets of the well-being of a person. A number of attempts were taken in the last two decades to quantify poverty in Sudan and to delineate its causes. These efforts were however handicapped by the  limitations  of  data  and  the  incomplete  coverage  of  the  survey  on  which  they  are  based.  A serious limitation was the unavailability of household budget survey on which to base the estimate
+31. Poverty is multidimensional phenomenon, an indication of deprivation in one or more facets of the well-being of a person. A number of attempts were taken in the last two decades to quantify poverty in Sudan and to delineate its causes. These efforts were however handicapped by the limitations of data and the incomplete coverage of the survey on which they are based. A serious limitation was the unavailability of household budget survey on which to base the estimate
 
 of poverty and to gauge its changing  trends,  since  only  one survey was carried out in 1967/68 and twenty years elapsed before the second one in 1978/80. The 2009 National Baseline Household Survey (NBHS), the first nationally representative household consumption survey conducted in  Sudan  since  1978,  provides estimates for the various dimensions of poverty.
 
@@ -610,19 +729,17 @@ Source: NBHS 2009.
 
 75 percent. With rural areas predominantly agricultural, this poverty is largest among agricultural households.
 
-# 2 Poverty Diagnostics
-
 -11-
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-- Poverty in Sudan varies significantly by region and states (Table 5). The data shows that Khartoum is the region with the lowest poverty incidence followed by Northern region. Eastern and central are among the third lowest, while Darfur and Kordofan are poorest in Northern Sudan, with highest rate in Northern Darfur. The poorer states in Northern Sudan are predominantly rural but there are exceptions. The Red Sea state has the second highest urbanization rate after Khartoum but is  among the poorest five states. Conversely, the Northern state has the  lowest urbanization rate  and  the  3 rd   lowest  poverty  rate.  Nevertheless,  it  can  be  concluded  that  poverty  in  Sudan  is predominant in rural areas and among those whose income is from farming and livestock.
+33. Poverty in Sudan varies significantly by region and states (Table 5). The data shows that Khartoum is the region with the lowest poverty incidence followed by Northern region. Eastern and central are among the third lowest, while Darfur and Kordofan are poorest in Northern Sudan, with highest rate in Northern Darfur. The poorer states in Northern Sudan are predominantly rural but there are exceptions. The Red Sea state has the second highest urbanization rate after Khartoum but is among the poorest five states. Conversely, the Northern state has the lowest urbanization rate and the 3rd lowest poverty rate. Nevertheless, it can be concluded that poverty in Sudan is predominant in rural areas and among those whose income is from farming and livestock.
 
 ## 2.2 Poverty by source of income
 
-- The  NBHS  survey  revealed  that  the  most  important  sources  of  income  for  Sudan households  (see  Figure  1)  are  agriculture  (40  percent),  wage  and  salaries  (31  percent),  selfemployment  (16  percent),  and  other  sources  (14  percent).  The  percentage  deriving  their  main livelihood  from  farming  and  livestock  activities  ranges  from  74  percent  in  Northern  Darfur,  69 percent  in  Northern  Kordofan  to  3  percent  in  Khartoum.  Over  half  the  households  in  Western Darfur (62 percent), Southern Darfur (68 percent), Southern Kordofan (68 percent), Blue Nile (57 percent) and Sinnar (51 percent) states are engaged in farming and livestock.
+34. The NBHS survey revealed that the most important sources of income for Sudan households (see Figure 1) are agriculture (40 percent), wage and salaries (31 percent), self-employment (16 percent), and other sources (14 percent). The percentage deriving their main livelihood from farming and livestock activities ranges from 74 percent in Northern Darfur, 69 percent in Northern Kordofan to 3 percent in Khartoum. Over half the households in Western Darfur (62 percent), Southern Darfur (68 percent), Southern Kordofan (68 percent), Blue Nile (57 percent) and Sinnar (51 percent) states are engaged in farming and livestock.
 
 Figure 1: Sources of Income in Sudan Northern States
 
@@ -642,11 +759,11 @@ others, 13.5
 
 Source: CBS NBHS 2009
 
-- Figure 2 illustrates the correlation between income sources by poverty status. Most of the poorest households those in the bottom quintile rely on agriculture e.g. crop farming and animal husbandry (59 percent) while most of the people in the wealthiest  households  those  in  the  top quintile rely on wage and salaried employment (47 percent).
+35. Figure 2 illustrates the correlation between income sources by poverty status. Most of the poorest households those in the bottom quintile rely on agriculture e.g. crop farming and animal husbandry (59 percent) while most of the people in the wealthiest households those in the top quintile rely on wage and salaried employment (47 percent).
 
 ## 2.3 Poverty by Gender
 
-- Among the small number of households headed by women (17.3 percent) the incidence of poverty  is  marginally  lower  (44.2  percent)  compared  to  households  headed  by  men,  with  an incidence rate of 47.15 percent.
+36. Among the small number of households headed by women (17.3 percent) the incidence of poverty is marginally lower (44.2 percent) compared to households headed by men, with an incidence rate of 47.15 percent.
 
 -12-
 
@@ -683,13 +800,9 @@ Figure 3: Poverty Headcount Rates by Education of Household Heads, Northern Stat
 % Below The Poverty Line
 
 No Education
-
 Some\Completed Primary
-
-Some\Completed Completed
-
-Post Secondary
-
+Some\Completed Secondary
+Completed Post Secondary
 Khalwa
 
 Source: CBS NBHS 2009.
@@ -744,15 +857,15 @@ Source: CBS NBHS 2009.
 
 # 3 The Poverty Reduction Strategy: Core Elements and Pillars
 
-- Sudan  is  facing  significant  challenges  to  sustained  growth  and  poverty  reduction  in  the short  and  medium-term.  These  are  associated  with  the  loss  of  access  to  oil  wealth,  with  the secession of the South, the imperative of ending conflicts and building peace in the new country, and reengaging fully with the international development community to gain access to financial and technical  assistance.  With  the  secession  of  South  Sudan  in  July  2011,  Northern  Sudan  (the  new Sudan) urgently needs to  refocus  its  efforts  on  building  now smaller  territory  into  a  united  and economically  prosperous  country,  at  peace  internally  and  with  neighboring  countries.  Efforts  to foster  national  reconciliation,  integrate  the  internally  displaced  people  (IDPs)  and  refugees  into viable communities and sustainable livelihood, and adopt inclusive governance institutions, will be essential  for  building  peace,  security  and  shared  economic  growth.  For  post-secession  Sudan, tackling unemployment and poverty should be the top priorities and essential for avoiding the cycle of civil war and conflict that has plagued the country for several years.
+42. Sudan is facing significant challenges to sustained growth and poverty reduction in the short and medium-term. These are associated with the loss of access to oil wealth, with the secession of the South, the imperative of ending conflicts and building peace in the new country, and reengaging fully with the international development community to gain access to financial and technical assistance. With the secession of South Sudan in July 2011, Northern Sudan (the new Sudan) urgently needs to refocus its efforts on building now smaller territory into a united and economically prosperous country, at peace internally and with neighboring countries. Efforts to foster national reconciliation, integrate the internally displaced people (IDPs) and refugees into viable communities and sustainable livelihood, and adopt inclusive governance institutions, will be essential for building peace, security and shared economic growth. For post-secession Sudan, tackling unemployment and poverty should be the top priorities and essential for avoiding the cycle of civil war and conflict that has plagued the country for several years.
 
-- For  the  last  decade,  the  economy  of  Sudan  grew  rapidly,  due  in  part  to  the  growing  oil production and exports as well as the prudent macroeconomic management. The new Sudan faces a future  with  limited  oil  resources  and  thus  must  find  other  factors  to  drive  the  growth  of  the economy.  The  effects  of  the  secession  on  South  Sudan  would  be  largely  through  the  fiscal  and external accounts. With roughly 75 percent of the GoNU oil revenues generated from southern oil production, the oil revenues to the Government and the foreign exchange receipts from oil will be severely reduced. This will be a challenge for the management of the budget, the exchange rate and the external balance. Painful, unpopular but necessary fiscal and external balance adjustments will have  to  be  made  to  sustain  the  macroeconomic  stability  essential  for  reviving  and  sustaining growth. Sudan will have to engage its significant human and non-oil natural resources to build a prosperous future for its citizens.
+43. For the last decade, the economy of Sudan grew rapidly, due in part to the growing oil production and exports as well as the prudent macroeconomic management. The new Sudan faces a future with limited oil resources and thus must find other factors to drive the growth of the economy. The effects of the secession on South Sudan would be largely through the fiscal and external accounts. With roughly 75 percent of the GoNU oil revenues generated from southern oil production, the oil revenues to the Government and the foreign exchange receipts from oil will be severely reduced. This will be a challenge for the management of the budget, the exchange rate and the external balance. Painful, unpopular but necessary fiscal and external balance adjustments will have to be made to sustain the macroeconomic stability essential for reviving and sustaining growth. Sudan will have to engage its significant human and non-oil natural resources to build a prosperous future for its citizens.
 
 ## 3.1 Challenges  and Opportunities  for  Shared  Growth  and  Poverty Reduction
 
 ### Key Challenges
 
-- The Sudan economy faces a number of challenges to sustained rapid growth and increasing prosperity. The following are key among them include:
+44. The Sudan economy faces a number of challenges to sustained rapid growth and increasing prosperity. The following are key among them include:
 
 ♦ Overcoming  the  legacies  of  long  years  of  internal  violent  conflicts: the  related challenges  include  bringing  durable  peace  throughout  the  country;  providing  broad opportunities for socio-economic recovery in all parts of the country; halting environmental degradation  and  loss  of  biodiversity;  stabilizing  the  population  by  a  determined  effort  to reintegrate  all  the  displaced  persons  into  sustainable  livelihoods  in  viable  and  stable communities,  with  full  rights  and  privileges;  restructuring  the  security  services,  possibly involving the demobilization and reintegration of soldiers into productive civilian lives; a concerted effort at national reconciliation including resolution of outstanding grievances; and open, decentralized and inclusive governance. Sudan shares borders with countries that have been prone to conflict and it is in its interest for it to be a strong advocate for peace in the region and peaceful resolution of internal and regional conflicts.
 
@@ -764,7 +877,7 @@ Source: CBS NBHS 2009.
 
 [[START OF PAGE 24]]
 
-- aim to close these gaps so that all Sudanese have the opportunity to contribute to and share in the benefits of growth.
+aim to close these gaps so that all Sudanese have the opportunity to contribute to and share in the benefits of growth.
 
 ♦ Employment creation: Unemployment is  estimated  to  be  about  20  percent.  Educated young  people  are  finding  difficult  to  obtain  jobs;  a  situation  that  raises  security  risks. Creating employment requires the growth and diversification of the non-oil economy, not only in terms of sectors of economic activities but also in terms of locations in the country. Good jobs are  needed  in the  lagging  areas  emerging  from  conflict.  .  New  discoveries  and production of oil will not have much direct impact on job creation. The oil sectors and the emerging  gold  extraction  will  absorb  the  top  cream  of  the  labor  force  with  their  high salaries  and  benefits  but  have  limited  impact  on  overall  unemployment.  Employment creation  will  therefore  need  to  come  from  manufacturing,  services  and  agriculture. Increasing  investments  and  productivity  in  these  sectors  will  enable  Sudanese  firms  to grow, be competitive in global markets, export and create jobs.
 
@@ -822,19 +935,19 @@ Source: CBS NBHS 2009.
 
 # 4 Strengthening Governance and Institutional Capacity
 
-- To achieve sustained growth, with employment creation and poverty reduction, and avoid the  gyrations  of  the  past  economic  performance,  the  new  Sudan  will  put  priority  on  building  a strong, inclusive, transparent and effective state and the institutional capacity to govern and deliver public  services  to  the  population.  Important  elements  of  this  good  governance  include  effective public financial management (PFM) and decentralization, peace and security, fighting corruption, promoting human rights, and improving justice and law enforcement. Further, there is empirical evidence that poor governance and poverty as causes of civil wars. Although the separation of the North and South Sudan has presumably reduced the risks of conflict in the sub-region, civil conflict remains a reality, for example in Darfur. Thus, continuing vigilance and an orientation to resolving existing and latent conflicts in a peaceful manner will remain essential for peace and stability.
+47. To achieve sustained growth, with employment creation and poverty reduction, and avoid the gyrations of the past economic performance, the new Sudan will put priority on building a strong, inclusive, transparent and effective state and the institutional capacity to govern and deliver public services to the population. Important elements of this good governance include effective public financial management (PFM) and decentralization, peace and security, fighting corruption, promoting human rights, and improving justice and law enforcement. Further, there is empirical evidence that poor governance and poverty as causes of civil wars. Although the separation of the North and South Sudan has presumably reduced the risks of conflict in the sub-region, civil conflict remains a reality, for example in Darfur. Thus, continuing vigilance and an orientation to resolving existing and latent conflicts in a peaceful manner will remain essential for peace and stability.
 
 ## 4.1 Peace, security and national unity
 
-- Peace, security and national unity are fundamental underpinnings of sustained economic development  and  national  prosperity.  These,  as  well  as  rapid  economic  growth  and  poverty reduction, are the main policy objectives of the Government of Sudan. Sustained peace, security and national  unity  will  enable  the  Sudanese  to  put  their  energies  on  economic  growth  and  poverty reduction while general prosperity from rapid economic growth will buttress peace, security and national  unity.  Given  the  history  and  legacy  of  conflict  in  Sudan,  targeted  actions  on  sources  of conflict  are  essential  for  fostering  peace,  security  and  national  unity  as  well  as  building  the foundations for  economic  growth  and  rapid poverty  reduction.  Peace  and  security  in Sudan will also bolster regional cooperation in economic and diplomatic fields, facilitating conflict prevention in the region and strengthening the foundations for accelerating economic progress.
+48. Peace, security and national unity are fundamental underpinnings of sustained economic development and national prosperity. These, as well as rapid economic growth and poverty reduction, are the main policy objectives of the Government of Sudan. Sustained peace, security and national unity will enable the Sudanese to put their energies on economic growth and poverty reduction while general prosperity from rapid economic growth will buttress peace, security and national unity. Given the history and legacy of conflict in Sudan, targeted actions on sources of conflict are essential for fostering peace, security and national unity as well as building the foundations for economic growth and rapid poverty reduction. Peace and security in Sudan will also bolster regional cooperation in economic and diplomatic fields, facilitating conflict prevention in the region and strengthening the foundations for accelerating economic progress.
 
-- Inclusive  governance  will  be  needed  to  sustain  the  peace  and  security.  An  overarching element of  inclusive  governance  is to  have  governance  institutions that  emphasize participation, decentralization,  transparency  and  accountability.  A  commitment  to  address  the  sources  and triggers of conflicts and the mechanisms to resolve internal and sub-regional conflicts in a peaceful manner will diffuse small conflicts and prevent them from growing into major violent and armed confrontations. Improving the delivery of public services, opening up opportunities to a wide range of people in the country, and organizing open and participatory consultation on issues of national reconciliation will help to mitigate the perceptions of unfairness and build trust and legitimacy of governance  institutions.  Given  that  Sudan  is  continuing  to  operate  on  the  Interim  National Constitution (INC), a framework that was specifically designed to address the North/South issues. The preparation of a constitution for North Sudan as a nation would provide the opportunity for strengthening the basis for decentralized and inclusive governance.
+49. Inclusive governance will be needed to sustain the peace and security. An overarching element of inclusive governance is to have governance institutions that emphasize participation, decentralization, transparency and accountability. A commitment to address the sources and triggers of conflicts and the mechanisms to resolve internal and sub-regional conflicts in a peaceful manner will diffuse small conflicts and prevent them from growing into major violent and armed confrontations. Improving the delivery of public services, opening up opportunities to a wide range of people in the country, and organizing open and participatory consultation on issues of national reconciliation will help to mitigate the perceptions of unfairness and build trust and legitimacy of governance institutions. Given that Sudan is continuing to operate on the Interim National Constitution (INC), a framework that was specifically designed to address the North/South issues. The preparation of a constitution for North Sudan as a nation would provide the opportunity for strengthening the basis for decentralized and inclusive governance.
 
-- Restructuring the security services to build to a new security forces for building peace and security and conflict prevention rather than for war and orient the security services to operating effectively  in  an  open  and  participatory  political  process.  This  restructuring  may  involve  the demobilization and reintegration of soldiers into productive civilian lives.
+50. Restructuring the security services to build to a new security forces for building peace and security and conflict prevention rather than for war and orient the security services to operating effectively in an open and participatory political process. This restructuring may involve the demobilization and reintegration of soldiers into productive civilian lives.
 
 ### Conflict Resolution and National reconciliation
 
-- With a large and diverse population, conflicts are bound to arise from time to time. It will be useful  to  develop  the  capacity  for  conflict  resolution,  which  can  be  called  up  to  resolve  disputes between different communities. The High Council for Decentralization and the Constitutional Court
+51. With a large and diverse population, conflicts are bound to arise from time to time. It will be useful to develop the capacity for conflict resolution, which can be called up to resolve disputes between different communities. The High Council for Decentralization and the Constitutional Court
 
 -20-
 
@@ -952,11 +1065,11 @@ are  responsible  for  adjudicating  conflicts  between  the  state  governments
 
 78. The provision of public services that meet the social and economic development needs of the population is the principal goal of public financial management and an important dimension of good governance and the legitimacy of government. The services that the government provides in many  areas  infrastructure,  human  development,  social  protection,  are  crucial  for  the  economic growth and poverty reduction that Sudan is seeking, The Government has a fiduciary responsibility to use public funds efficiently and effectively to provide public services, hence the importance of the strong and institutional and  technical capacity for public financial  management.  The  key institutions include:
 
-♦ A policy framework that guides public resource allocation: This would include a longterm vision such as that embedded in the Sudan's 25 year development plan, a mediumterm planning framework, such as the 5 year plan, and short-term policy documents like an annual budget framework paper. A necessary ingredient of these policy documents is that they  reflect  the  aspirations  and  priorities  e  of  the  population,  evidenced  the  wide participation  of  the  civil  society  including  the  private  sector  in  the  preparation  of  the documents. Sudan is not strong on participation of the civil society in government decisions. The  PRSP  process  presents  an  opportunity  for  participation  in  the  elaboration  of  public policy and plans documents.
+♦ A policy framework that guides public resource allocation: This would include a long-term vision such as that embedded in the Sudan's 25 year development plan, a medium-term planning framework, such as the 5 year plan, and short-term policy documents like an annual budget framework paper. A necessary ingredient of these policy documents is that they reflect the aspirations and priorities e of the population, evidenced the wide participation of the civil society including the private sector in the preparation of the documents. Sudan is not strong on participation of the civil society in government decisions. The PRSP process presents an opportunity for participation in the elaboration of public policy and plans documents.
 
 ♦ Institutions  for  budget  management :  The  Government  needs strong  institutions  and technical capacity for planning  and  budgeting,  budget  execution  (financial controls, procurement,  monitoring  and  reporting,  cash  and  treasury  management,  accounting  and auditing);  monitoring  and  evaluation  and  oversight.  Results  orientation,  participation, transparency  and  accountability  are  key  principles  that  should  be  embedded  in  these budget institutions at all levels of government. Capacities are generally weak, particularly at sub-national levels of government, hence the necessity for sustained capacity reinforcement efforts.
 
-♦ Linking  policy  and  budgets :  Planning  and  budgeting  instruments  that  can  link  policies with budgets foster the achievement of policy objectives through the budget process. The traditional  annual  budget  process  has  been  found  unsuitable  for  such  linkages;  rather  a multi-year medium-term planning and budgeting processes have been advocated for linking policy and budgets 4 . Many developed and developing countries have adopted the multi-year budgeting approach. It has been proposed to Sudan but it has not yet been adopted. In any case, in the absence of a detailed medium-term development policy framework, a mediumterm planning and budgeting framework will be premature. Now, with the interim PRSP
+♦ Linking policy and budgets : Planning and budgeting instruments that can link policies with budgets foster the achievement of policy objectives through the budget process. The traditional annual budget process has been found unsuitable for such linkages; rather a multi-year medium-term planning and budgeting processes have been advocated for linking policy and budgets 4 . Many developed and developing countries have adopted the multi-year budgeting approach. It has been proposed to Sudan but it has not yet been adopted. In any case, in the absence of a detailed medium-term development policy framework, a medium-term planning and budgeting framework will be premature. Now, with the interim PRSP
 
 > 4 Most common approach is the well-known Medium-Term Expenditure Framework (MTEF)
 
@@ -1031,13 +1144,13 @@ and  the  preparation  of  a  full  PRSP  in  sight,  a  solid  ground  for  coh
 
 # 5 Reintegration of Internally Displaced Persons and Refugees
 
-- The conflicts in Sudan and neighboring countries have created a large number of internally displaced  people  (IDPs)  and  internationally  displaced  persons  (refugees)  fleeing  conflict  from neighboring countries. Estimates of IDPs range from  2 million to 5 million, with  major concentration  in  the  in  the  Darfur  states,  and  significant  presence  in  Khartoum  state  and  East Sudan.  Sudan  is  host  to  over  200,000  refugees  and  asylum  seeker  from  neighboring  countries, mainly Eritrea, Ethiopia, Somalia, Chad, Central Africa Republic and the Democratic Republic of the Congo. These are concentrated in East Sudan. Both Darfur and East Sudan have histories of internal conflict and also have large populations of poor people. The Darfur states are among the poorest regions  in  Northern Sudan  while  the  Eastern  states  are  in  the  mid  range  in  terms  of  poverty  in Northern Sudan (see Table 5). It is not the presence of these displaced persons that rendered these regions poor but the continuing presence in the temporary and dependent conditions will make the fight against poverty more difficult in these regions.
+87. The conflicts in Sudan and neighboring countries have created a large number of internally displaced people (IDPs) and internationally displaced persons (refugees) fleeing conflict from neighboring countries. Estimates of IDPs range from 2 million to 5 million, with major concentration in the in the Darfur states, and significant presence in Khartoum state and East Sudan. Sudan is host to over 200,000 refugees and asylum seeker from neighboring countries, mainly Eritrea, Ethiopia, Somalia, Chad, Central Africa Republic and the Democratic Republic of the Congo. These are concentrated in East Sudan. Both Darfur and East Sudan have histories of internal conflict and also have large populations of poor people. The Darfur states are among the poorest regions in Northern Sudan while the Eastern states are in the mid range in terms of poverty in Northern Sudan (see Table 5). It is not the presence of these displaced persons that rendered these regions poor but the continuing presence in the temporary and dependent conditions will make the fight against poverty more difficult in these regions.
 
-- Reintegration  involves  a  systematic  approach  to  end  th e temporary,  uncertain  and dependent  status  of  these  displaced  populations  by  providing  permanent  access  to  shelter  and sustainable livelihoods in new or existing communities, to economic and social opportunities such as land, credit, market places, schools and heath facilities, and participation in civic activities and decision-making in the communities. Integration programs cover several sectors and activities such as health, education, water supply, agriculture, permanent shelter, infrastructure, capacity building and  formal  and  informal  community  dialogue.  Integration  could  involve  the  specification  and agreement  on  the  legal  rights  of  the  new  settlers,  equivalent  to  those  in  the  communities.  For refugees, reintegration could involve sending them back to their countries of origin or to a third country where they could have access to the same legal rights and opportunities available to the residents in that country.
+88. Reintegration involves a systematic approach to end the temporary, uncertain and dependent status of these displaced populations by providing permanent access to shelter and sustainable livelihoods in new or existing communities, to economic and social opportunities such as land, credit, market places, schools and heath facilities, and participation in civic activities and decision-making in the communities. Integration programs cover several sectors and activities such as health, education, water supply, agriculture, permanent shelter, infrastructure, capacity building and formal and informal community dialogue. Integration could involve the specification and agreement on the legal rights of the new settlers, equivalent to those in the communities. For refugees, reintegration could involve sending them back to their countries of origin or to a third country where they could have access to the same legal rights and opportunities available to the residents in that country.
 
 ## 5.1 Reintegration for sustained peace and development
 
-- The systematic reintegration of displaced persons in a conflict-affected country is critical for bringing the conflict to a peaceful and sustainable conclusion. Temporary, uncertain and dependent status can result in the development  of  anti-social behaviors such collaboration with or subservience to negative and anti-peace forces that could create threats to peace and security and re-ignite  the  conflict,  common  crime  and  value-destroying  activities  such  as  deforestation  and unsanitary practices that undermine sustainable economic development and welfare. Reintegration also helps to deal with the some of the legacies of the civil conflict such as the deterioration of social capital, environmental degradation, destruction of physical infrastructure, and exclusive governance. Effective reintegration is facilitated by efforts to improve governance in the country, including  giving  the  people  the  opportunity  to  participate  in  decisions  that  affect  their  lives.  A systematic and credible national reconciliation effort that aims to bring diverse groups of people together and helps to consolidate national economic and political aspirations, creates a supportive environment  for  reintegration.  By  reintegrating  IDPs  into  communities  and  permanent  selfsustaining livelihoods and  away  from  dependence  on  relief assistance, largely  funded  by international relief agencies, the costs of maintaining them will be eliminated and they will begin to make value adding contributions to the national economy.
+89. The systematic reintegration of displaced persons in a conflict-affected country is critical for bringing the conflict to a peaceful and sustainable conclusion. Temporary, uncertain and dependent status can result in the development of anti-social behaviors such collaboration with or subservience to negative and anti-peace forces that could create threats to peace and security and re-ignite the conflict, common crime and value-destroying activities such as deforestation and unsanitary practices that undermine sustainable economic development and welfare. Reintegration also helps to deal with the some of the legacies of the civil conflict such as the deterioration of social capital, environmental degradation, destruction of physical infrastructure, and exclusive governance. Effective reintegration is facilitated by efforts to improve governance in the country, including giving the people the opportunity to participate in decisions that affect their lives. A systematic and credible national reconciliation effort that aims to bring diverse groups of people together and helps to consolidate national economic and political aspirations, creates a supportive environment for reintegration. By reintegrating IDPs into communities and permanent self-sustaining livelihoods and away from dependence on relief assistance, largely funded by international relief agencies, the costs of maintaining them will be eliminated and they will begin to make value adding contributions to the national economy.
 
 -31-
 
@@ -1047,29 +1160,25 @@ and  the  preparation  of  a  full  PRSP  in  sight,  a  solid  ground  for  coh
 
 ## 5.2 Main Challenges
 
-- Reintegration  efforts  need to  be  concentrated  on  the  areas  with  the  masses  of  displaced people. As noted above, the main concentrations are in Darfur and Eastern Sudan. These have been historically  conflict  affected  and  generally  poor  states  (see  Table  6).  The  Darfur  region  is  the
+90. Reintegration efforts need to be concentrated on the areas with the masses of displaced people. As noted above, the main concentrations are in Darfur and Eastern Sudan. These have been historically conflict affected and generally poor states (see Table 6). The Darfur region is the poorest region in Sudan and the Eastern Sudan is the third poorest region after Kordofan. Eastern Sudan has been relatively stable and peaceful and provides a strong base for launching reintegration efforts. However, the large number of long tenured refugees among the displaced population in Eastern Sudan presents some complications. Darfur has larger numbers of displaced people, the conflict has not been resolved but peace negotiations are under way. Yet, there are opportunities to undertake reintegration efforts as part of the process of bringing peace, stability and development to Darfur. Currently the priority of the Government is peace security and reintegration in Darfur but East Sudan already has a peace agreement and related development plans and the challenging problems in the development and reintegration needs to be addressed.
 
 Table 6: Selected Indicators of Development in States Hosting IDPs and Refugees
---- | --- | --- | ---
-Poverty Headcount Rate | % Underweight children (0-59 months) | Doctors per 100000 of population
-North Darfur | 69.4 | 34.4 | 6.1
-South Darfur | 61.2 | 32.3 | 2.5
-West Darfur | 55.6 | 38.1 | 3.9
-Red Sea | 56.5 | 30.8 | 9.1
-El-Ghadaref | 50.0 | 32.4 | 16.4
-Kassala | 36.3 | 29.5 | 9.0
-North Sudan | 46.5 | 29.6 | 35.0
+|  | Poverty Headcount Rate | % Underweight children (0-59 months) | Doctors per 100000 of population |
+| --- | --- | --- | --- |
+| North Darfur | 69.4 | 34.4 | 6.1 |
+| South Darfur | 61.2 | 32.3 | 2.5 |
+| West Darfur | 55.6 | 38.1 | 3.9 |
+| Red Sea | 56.5 | 30.8 | 9.1 |
+| El-Ghadaref | 50.0 | 32.4 | 16.4 |
+| Kassala | 36.3 | 29.5 | 9.0 |
+| North Sudan | 46.5 | 29.6 | 35.0 |
 Sources: NBHS 2009; Sudan MDGs Progress Report 2010; Central Bureau of Statistics, Sudan;
 
-poorest region in Sudan and the Eastern Sudan  is  the  third  poorest  region  after Kordofan. Eastern Sudan has been relatively stable and peaceful and provides a strong base for launching reintegration  efforts.  However,  the  large number  of  long  tenured  refugees  among the displaced population in Eastern Sudan presents some complications. Darfur  has  larger  numbers  of  displaced people, the conflict has not been resolved but  peace  negotiations  are  under  way. Yet, there are opportunities to undertake reintegration efforts as part of the process  of  bringing  peace,  stability  and development to Darfur. Currently the priority of the Government is peace
+91. The Government's approach to reintegration of IDPs and refugees has been elaborated in a number of strategy and policy documents including the CPA, the Interim Constitution and the Eastern Sudan Peace Agreement (ESPA). In 2009, the Government adopted a National Policy on Internally Displaced Persons (IDPs) that lays out the rights of IDPs and the principles for dealing with their unique problems. Subsequently in 2010, the Darfur Strategy for Achieving Comprehensive Peace, Security and Development was adopted to provide the framework for the Government's humanitarian strategy for Darfur including issues of reintegration.
 
-security  and  reintegration  in  Darfur  but  East  Sudan  already  has  a  peace  agreement  and  related development plans and the challenging problems in the development and reintegration needs to be addressed.
+92. Eastern Sudan, comprising of the states of Red Sea, Kassala and El-Ghadaref, with a total population of about 4.5 million, has eight refugee camps, some of which have been in refugee status for over many years. It is estimated that there are about 120,000 refugees of Eritrean origin. About 60,500 of these refugees are in the camps, 40,000 are integrated into urban settings and 15,000 are in closed camps. There is also a continuing stream of new arrivals of about an average of 1500 a month of young and educated Eritreans in transit to other destinations. It is estimated that there are 197,000 IDPs in eastern Sudan, of which 66,500 are in camps and an additional 38,000, mostly female-headed households, are receiving food aid. It is assumed that the rest are self-reliant. However, there references of estimates of the numbers of IDPs of up to 420,000. A new verification exercise is essential to ascertain the actual numbers of refugees and IDPs to assess the real dimensions of the problem.
 
-- The Government's approach to reintegration of IDPs and refugees has been elaborated in a number  of  strategy  and  policy  documents  including  the  CPA,  the  Interim  Constitution  and  the Eastern  Sudan  Peace  Agreement  (ESPA).  In  2009,  the  Government  adopted  a  National  Policy  on Internally Displaced Persons (IDPs) that lays out the rights of IDPs and the principles for dealing with their unique problems. Subsequently in 2010, the Darfur Strategy for Achieving Comprehensive Peace, Security and Development was adopted to provide the framework for the Government's humanitarian strategy for Darfur including issues of reintegration.
-
-- Eastern Sudan, comprising of the states of Red Sea, Kassala and El-Ghadaref ,  with  a total population of about 4.5 million, has eight refugee camps, some of which have been in refugee status for over many years. It is estimated that there are about 120,000 refugees of Eritrean origin. About 60,500 of these refugees are in the camps, 40,000 are integrated into urban settings and 15, 000 are in closed camps. There is also a continuing stream of new arrivals of about an average of 1500 a month of young and educated Eritreans in transit to other destinations. It is estimated that there are 197,000 IDPs in eastern Sudan, of which 66,500 are in camps and an additional 38,000, mostly female-headed households, are receiving food aid. It is assumed that the rest are self-reliant. However, there references of estimates of the numbers of IDPs of up to 420,000. A new verification exercise  is  essential  to  ascertain  the  actual  numbers  of  refugees  and  IDPs  to  assess  the  real dimensions of the problem.
-
-- The Eastern Sudan Peace Agreement (ESPA) and the programme: Sustainable Options for Livelihood  Security  in  Eastern  Sudan  (SOLSES),  provided  the  framework  for  recovery  and development of eastern Sudan. The Eastern Sudan Reconstruction and Development Fund (ESRDF), established  for  the  planning  and  allocation  of  development  resources  to  the  region,  has  faced
+93. The Eastern Sudan Peace Agreement (ESPA) and the programme: Sustainable Options for Livelihood Security in Eastern Sudan (SOLSES), provided the framework for recovery and development of eastern Sudan. The Eastern Sudan Reconstruction and Development Fund (ESRDF), established for the planning and allocation of development resources to the region, has faced
 
 -32-
 
@@ -1119,15 +1228,15 @@ The key actions should include:
 
 ### Empowering the Poor to take advantage of opportunities
 
-- The strategy recognizes the role of investment in human development to build and enhance the population capabilities through education and better health, emphasis on closing the disparities in  access  to  opportunities  for  self-improvement  for  women  and  the  very poor,  and  reducing the inequality in human development outcomes between states and regions. The growth of the GDP will not  necessarily  lead  to  reductions  in  the  levels  of  poverty  due  to  the  low  growth  elasticity  of poverty that characterizes Sudan economy. The poor' s weak capabilities in terms of human capital in the form of knowledge, information and health, constrain their ability to take advantage of the opportunities offered by economic growth. Access to education, health and nutrition services, as well  as  to  physical  and  financial  capital  such  as  land  and  credit  will  allow  them  to  benefit  from growth. Besides, accessible high quality education and health services are essential elements of the foundation  of  an  innovative  and  productive  labour  force  that  underpins  sustained  economic growth.
+98. The strategy recognizes the role of investment in human development to build and enhance the population capabilities through education and better health, emphasis on closing the disparities in access to opportunities for self-improvement for women and the very poor, and reducing the inequality in human development outcomes between states and regions. The growth of the GDP will not necessarily lead to reductions in the levels of poverty due to the low growth elasticity of poverty that characterizes Sudan economy. The poor's weak capabilities in terms of human capital in the form of knowledge, information and health, constrain their ability to take advantage of the opportunities offered by economic growth. Access to education, health and nutrition services, as well as to physical and financial capital such as land and credit will allow them to benefit from growth. Besides, accessible high quality education and health services are essential elements of the foundation of an innovative and productive labour force that underpins sustained economic growth.
 
-- The 2006 SHHS indicates large variations in the education and health outcomes between the states; generally with the worst affected areas in southern and western states of the country. School enrollment and child health also vary according to socioeconomic conditions; most notably with  mother's  education  level,  confirming  the  well-known  observation  of  the  positive  impact  of parent's  human  capital  on  children  education  and  health.  Other  factors  found  to  be  directly  and positively linked with improvement in education and health of children include infrastructure, such as water and sanitation, and community social services, such as  health clinic/centers and schools with good quality of service and low cost of access.
+99. The 2006 SHHS indicates large variations in the education and health outcomes between the states; generally with the worst affected areas in southern and western states of the country. School enrollment and child health also vary according to socioeconomic conditions; most notably with mother's education level, confirming the well-known observation of the positive impact of parent's human capital on children education and health. Other factors found to be directly and positively linked with improvement in education and health of children include infrastructure, such as water and sanitation, and community social services, such as health clinic/centers and schools with good quality of service and low cost of access.
 
-- Sudan's  budget  and  planning  framework  does  not  permit  a  rigorous  analysis  of  sectoral expenditures. However, the analysis of the available budget data shows that Sudan's expenditure on human  development  has  historically  been  low  spending  in  comparison  with  other  low-income countries.  The  result  has  been  poor  social  indicators  in  comparison  to  countries  at  its  level  of income. Sudan ranked 154 out of 169 countries in the 2010 Human Development Index (HDI) while its income ranking was 134. The public expenditure review (2007) shows that although pro-poor expenditures including those on the social sectors, have been rising in recent years, the allocations are still low as a proportion of the overall spending and of GDP in comparison to many low African countries. This low level of expenditure is likely a legacy of the long years of conflict during which public  resources  were  drained  by  expenditures  on  security.  With  the  onset  of  peace,  part  of  the peace dividends should come in the form of increased spending for improved access and quality of social  services,  particularly  in  the  areas  that  were  affected  by  the  conflicts.  The  following recommendations of the PER is germane in this regard:
+100. Sudan's budget and planning framework does not permit a rigorous analysis of sectoral expenditures. However, the analysis of the available budget data shows that Sudan's expenditure on human development has historically been low spending in comparison with other low-income countries. The result has been poor social indicators in comparison to countries at its level of income. Sudan ranked 154 out of 169 countries in the 2010 Human Development Index (HDI) while its income ranking was 134. The public expenditure review (2007) shows that although pro-poor expenditures including those on the social sectors, have been rising in recent years, the allocations are still low as a proportion of the overall spending and of GDP in comparison to many low African countries. This low level of expenditure is likely a legacy of the long years of conflict during which public resources were drained by expenditures on security. With the onset of peace, part of the peace dividends should come in the form of increased spending for improved access and quality of social services, particularly in the areas that were affected by the conflicts. The following recommendations of the PER is germane in this regard:
 
-- An increase in the absolute level of pro-poor spending by reallocating from non pro-poor expenditure.
+i) An increase in the absolute level of pro-poor spending by reallocating from non pro-poor expenditure.
 
-- ii) An  Increase  the  transfer  to  the  states  since  the  responsibility  of  service  provision  in education and health lies with them, and within the states target the ones that are the worst affected in terms of achievement in human development.
+ii) An Increase the transfer to the states since the responsibility of service provision in education and health lies with them, and within the states target the ones that are the worst affected in terms of achievement in human development.
 
 -35-
 
@@ -1135,28 +1244,26 @@ The key actions should include:
 
 [[START OF PAGE 43]]
 
-- iii) An increase  in  capital  and  development  spending on  education  and  health  is  required  to sustain any improvements in service provision.
+iii) An increase in capital and development spending on education and health is required to sustain any improvements in service provision.
 
-- iv) Provide social protection services in a manner that strengthens the capacity of the poor for self-reliance.
+iv) Provide social protection services in a manner that strengthens the capacity of the poor for self-reliance.
 
 101. However,  these recommendations  for increased spending confront the reality that (Northern)  Sudan  needs  to  make  a  large  and  downward  fiscal  adjustment  because  of  losses  of revenues from oil  due  to  the  partition  of  Sudan.  However,  improvement  in  human  development outcomes  is  critical  for  poverty  reduction  and  sustained  growth.  The  expenditures  on  human resource development and other development priorities should, at the very least, be protected from the  inevitable  cuts  in  expenditures  and  should  be  increased  proportionally  more  as  the  overall resources  begin  to  rise  again.  Protection  of  expenditures  on  key  priorities  from  cuts  and  above average increases in budget allocations has been a common good practice in low income developing countries, particularly those emerging from conflict.
 
 ### Empowering Women: closing gender disparities
 
-102. Empowering women, reducing gender disparities in access to economic and socio-political opportunities,  and  eliminating  the  cultural  biases  against  women  are  essential  to  unlock  the significant potential of the female population to contribute to improvements in the families, society and  economy.  In Sudan, female participation is the formal labor force is very  low  and unemployment is high for those females in the labour force. These are likely to be the result of the cultural biases against female education and formal non-farm employment. The positive effect of
+102. Empowering women, reducing gender disparities in access to economic and socio-political opportunities, and eliminating the cultural biases against women are essential to unlock the significant potential of the female population to contribute to improvements in the families, society and economy. In Sudan, female participation is the formal labor force is very low and unemployment is high for those females in the labour force. These are likely to be the result of the cultural biases against female education and formal non-farm employment. The positive effect of educated mothers on the health and education of their children and to the overall well being on the families is well known. Empowerment of women is a great investment for a society seeking socio-economic development. In recent year the GoS has taken action to reduce gender disparities and promote the empowerment of women and make progress towards the gender MDGs (Table 7).
 
 Table 7: Sudan Gender MDGs
---- | --- | --- | --- | --- | ---
-Indicators | Baseline in 1990 | Current Status | Reference Year | 2015 Target
-MDG1.2 | Proportion of the population below the national poverty line | 90% (1992) | 46.5% | 2009 | 23.2%
-MDG3.1 | Ratio of girls to boys in primary education | 53.9 to 46,1% | 2007 | 100%
-Ratio of girls to boys in secondary academic and technical education | 51.6 to 49.4 % | 2007 | 100%
-Ratio of girls to boys in tertiary education | 54.1% | 2008 | 100%
-MDG3.2 | Ratio of women to men in employment in non agricultural sectors | 59% | 2008
-MDG3.3: | Proportion of seats held by women in national parliament | 25% | 2010 | 50%
-Source: | Sudan Millennium Development Goals Progress Report 2010
-
-educated mothers on the health and education of their children and to the overall well being on the families is well known. Empowerment of women is a great investment for a society seeking socioeconomic development. In recent year the GoS has taken action to reduce gender disparities and promote the empowerment of women and make progress towards the gender MDGs (Table 7).
+|  | Indicators | Baseline in 1990 | Current Status | Reference Year | 2015 Target |
+| --- | --- | --- | --- | --- | --- |
+| MDG1.2 | Proportion of the population below the national poverty line | 90% (1992) | 46.5% | 2009 | 23.2% |
+| MDG3.1 | Ratio of girls to boys in primary education |  | 53.9 to 46,1% | 2007 | 100% |
+|  | Ratio of girls to boys in secondary academic and technical education |  | 51.6 to 49.4 % | 2007 | 100% |
+|  | Ratio of girls to boys in tertiary education |  | 54.1% | 2008 | 100% |
+| MDG3.2 | Ratio of women to men in employment in non agricultural sectors |  | 59% | 2008 |  |
+| MDG3.3: | Proportion of seats held by women in national parliament |  | 25% | 2010 | 50% |
+Source: Sudan Millennium Development Goals Progress Report 2010
 
 103. The principles  of  equal  pay  for  equal  work  and  positive  discrimination  for  women  were affirmed by the Interim National Constitution Actions taken on gender empowerment include the promulgation  of  a  national  plan  for  Combating  Gender  Based  Violence  (CGBV)  in  2005;  the establishment of a unit in the Ministry of Justice to administer the CGBV plan; the establishment of the Family and Child Protection units; and the adoption of the national strategy for girls education in 2007 and the national strategy on Female Genital Mutilation (FGM) in 2008. The adoption of a quota system in the general election law of 2008 guaranteed 25 percent of the total number of seats in the legislatures for women.
 
@@ -1198,17 +1305,15 @@ educated mothers on the health and education of their children and to the overal
 
 ## 6.2 Meeting the MDG Education Targets
 
-107. Scientific research and studies have shown that education makes significant contributions to  the  welfare  of  individuals  and  sustained  economic  growth  through  increased  productivity, including in agriculture. Investments in education are associated with direct increase in individuals' income earnings.  This  is  confirmed  for  Sudan, with  estimates  of  an  average  rate  of  return  to  an additional year spent in schooling amounts to 9 percent, with higher average rate of returns for females (12 percent) compared to men (9 percent). Average returns by level of schooling indicate rates  of  18  percent  for  higher  education  and  14  percent  for  the  primary  level  of  education. Generally,  education  through  its  positive  effect  on  income  growth  has  a  favorable  impact  on reducing  the  incidence  of  poverty.  As  indicated  by  the  analysis  of  the  2009  National  Baseline
+107. Scientific research and studies have shown that education makes significant contributions to the welfare of individuals and sustained economic growth through increased productivity, including in agriculture. Investments in education are associated with direct increase in individuals' income earnings. This is confirmed for Sudan, with estimates of an average rate of return to an additional year spent in schooling amounts to 9 percent, with higher average rate of returns for females (12 percent) compared to men (9 percent). Average returns by level of schooling indicate rates of 18 percent for higher education and 14 percent for the primary level of education. Generally, education through its positive effect on income growth has a favorable impact on reducing the incidence of poverty. As indicated by the analysis of the 2009 National Baseline Household Survey NBHS), education of household head was found to be an important factor in the differences in household income per capita and with the incidence of poverty. Per capita consumption was higher by 24 percent for households whose head had completed some primary education compared to those households with heads with no education. The incidence of poverty was also lower at 44 percent compared to 59.5 percent.
 
 Table 8: Sudan Selected Education MDGs
---- | --- | --- | --- | --- | ---
-Indicators | Baseline in 1990 | Current Status | Reference Year | 2015 Target
-MDG1.2 | Proportion of the population below the national poverty line | 90% (1992) | 46.5% | 2009 | 23.2%
-MDG2.1 | Gross enrolment in basic education | 57% | 71.1% | 2009 | 100%
-MDG2.2 | Literacy Rates of 15-24 year olds, women and men | 27,1% | 77.5% | 2009 | 100%
+|  | Indicators | Baseline in 1990 | Current Status | Reference Year | 2015 Target |
+| --- | --- | --- | --- | --- | --- |
+| MDG1.2 | Proportion of the population below the national poverty line | 90% (1992) | 46.5% | 2009 | 23.2% |
+| MDG2.1 | Gross enrolment in basic education | 57% | 71.1% | 2009 | 100% |
+| MDG2.2 | Literacy Rates of 15-24 year olds, women and men | 27,1% | 77.5% | 2009 | 100% |
 Source: Sudan Millennium Development Goals Progress Report 2010
-
-Household Survey NBHS), education of household head was found to be an important factor in the differences  in  household  income  per  capita  and  with  the  incidence  of  poverty.  Per  capita consumption was higher by 24 percent for households whose head had completed some primary education compared to those households with heads with no education. The incidence of poverty was also lower  at 44 percent compared to 59.5 percent.
 
 108. The commitment of the governments in Sudan to free and compulsory basic education for all is enshrined in the Interim National Constitution as well as in the various medium and long-term development plans. The Five Year Education Sector Strategic Plan (ESSP) for 2007-2011 expressed the country's commitment to the Education for All (EFA) goals and outlined activities to meet the MDG education targets. The Sudan Education Status Report (2011) provides a detailed diagnostic of the education sector and the knowledge base to identify the priority actions for meeting the EFA targets  and the  MDGs.  A  medium-term  education  sector  strategy  (ESS  (2012-2016))  and  plan  is under preparation, building on the findings of the Status Report.
 
@@ -1222,7 +1327,7 @@ Household Survey NBHS), education of household head was found to be an important
 
 110. The number of academic secondary schools increased significantly since 2004-05, leading to  smaller  schools  and  lower  student-teacher  ratios.  At  this  level,  the  average  school  size  has dropped  from  269  students  per  school  in  2004-05  to  212  students  per  school  in  2008-09.  The student-teacher ratio also dropped from 19 to 17 over the same period. The low student-teacher ratio in secondary schools is likely a result of the greater use of specialized subject teachers at this level. There was a strong expansion in the number of technical secondary schools and teachers, but no growth in enrollments, according to available statistics.
 
-111. Private sector involvement in providing schooling is a long-standing practice in Sudan. The private/non-government  sector  role is important  for pre-school  and  secondary education. However, government schools account for about 95 percent of enrollments in basic schools, 100 percent  of  enrollments  in  technical  secondary,  and  almost  90  percent  of  enrollments  in  higher education. In the pre-school sector, non-government schools-which include the religious Khalwa schools  as  well  as  fee-charging  private  schools-enroll as many as  38 percent of all students. In academic secondary schools, non-government schools-including Teacher Union tutorial classesenroll 24 percent of all students
+111. Private sector involvement in providing schooling is a long-standing practice in Sudan. The private/non-government sector role is important for pre-school and secondary education. However, government schools account for about 95 percent of enrollments in basic schools, 100 percent of enrollments in technical secondary, and almost 90 percent of enrollments in higher education. In the pre-school sector, non-government schools—which include the religious Khalwa schools as well as fee-charging private schools—enroll as many as 38 percent of all students. In academic secondary schools, non-government schools—including Teacher Union tutorial classes—enroll 24 percent of all students
 
 112. Transition  rates  between  the  cycles  are  very  high:  about  74  percent  of  basic  school completers continue in secondary education, and about 87 percent of secondary school completers continue in higher education. Thus, relatively few complete a cycle without continuing in the next cycle.
 
@@ -1285,13 +1390,13 @@ Household Survey NBHS), education of household head was found to be an important
 123. The Sudan Household Health Survey (2006) confirmed that the inequality in outcomes and access to health services is among the major challenge facing Sudan's progress towards the MDGs. Since  the  CPA  was  signed,  some  progress  has  been  made  in  addressing  the  wide  disparities  in access to health services  across different regions in the country. However, the situation remains dire in some regions and sectors-and particularly in conflict-affected areas, such as Darfur.
 
 Table 9: Sudan Selected Health MDGs
---- | --- | --- | --- | --- | ---
-Indicators | Baseline in 1990 | Current Status | Reference Year | 2015 Target
-MDG1.2 | Proportion of the population below the national poverty line | 90% (1992) | 46.5% | 2009 | 23.2%
-MDG1.3 | Prevalence of underweight children under 5 years of age | 29.6% | 2006
-MDG4.1 | Under 5 mortality rate | 123 | 102 | 2008 | 41
-Infant Mortality Rate | 80 | 71 | 2006 | 53
-MDG4.2 | Maternal Mortality | 537 | 534 | 2006 | 134
+|  | Indicators | Baseline in 1990 | Current Status | Reference Year | 2015 Target |
+| --- | --- | --- | --- | --- | --- |
+| MDG1.2 | Proportion of the population below the national poverty line | 90% (1992) | 46.5% | 2009 | 23.2% |
+| MDG1.3 | Prevalence of underweight children under 5 years of age |  | 29.6% | 2006 |  |
+| MDG4.1 | Under 5 mortality rate | 123 | 102 | 2008 | 41 |
+|  | Infant Mortality Rate | 80 | 71 | 2006 | 53 |
+| MDG4.2 | Maternal Mortality | 537 | 534 | 2006 | 134 |
 Source: Sudan Millennium Development Goals Progress Report 2010
 
 ### Key challenges
@@ -1314,7 +1419,7 @@ Source: Sudan Millennium Development Goals Progress Report 2010
 
 127. Health Facilities: Overall coverage with basic health facilities is poor. In 2009, there were 365 hospitals and over 4,800 primary health care facilities in North Sudan. This works out to one hospital to 90,000 people primary health care facility to 7,000 people. The health system employed a total  of 97,303 health workers in all Sudan comprising over 20 different professions. However, according to the WHO criteria Sudan falls within the critical shortage zone considering the density of  physicians,  nurses  and  midwives  of  1.23  per  1,000  people) 9 .  There  are  substantial  regional variations  in  the  availability  of  health  services.  For  instance,  Khartoum  state  has  65.5  general practitioners per 100,000 people, compared to 12.1 in Kassala, 7.7 in North Kordofan and 3.6 in West Darfur state. Together, Khartoum and El-Gezira states account for more than 50 percent of the public hospitals and private clinics, the practicing physicians and medical technicians.
 
-128. Health Expenditures: Total  health  expenditure amounted to 6.2 percent of the GDP  and US$122  per-capita  for  the  year  2008,  with  66.8  percent  of  total  expenditure  on  health  out-ofpocket, exposing many to catastrophic health expenditures. This compares with an average of 41 percent in sub-Saharan Africa and 47 percent in the low-income group 10 . Also, health spending is skewed  towards  curative  and  hospitals  care,  and  most  of  the  allocation  is  for  salaries.  As  a consequence, primary and first-referral care, particularly in the poorer states, suffers from lack of resources 11 .
+128. Health Expenditures: Total health expenditure amounted to 6.2 percent of the GDP and US$122 per-capita for the year 2008, with 66.8 percent of total expenditure on health out-of-pocket, exposing many to catastrophic health expenditures. This compares with an average of 41 percent in sub-Saharan Africa and 47 percent in the low-income group 10 . Also, health spending is skewed towards curative and hospitals care, and most of the allocation is for salaries. As a consequence, primary and first-referral care, particularly in the poorer states, suffers from lack of resources 11 .
 
 129. The states have become dominant in health expenditures, with he states accounting for 63 percent  of  all  federal  and  state  expenditures.  Not  surprisingly,  there  are  significant  variations between states in the levels of spending (total and per capita). States that receive high per capita levels of federal transfers (Blue Nile) or mobilize significant amounts of own revenues (Khartoum, Red Sea) tend to spend more per capita on health services.  The recent public expenditure tracking survey (PETS) of the health sector found that some states generate revenue from the sector in the form of various facility level fees. It found significant disparities among the studied regarding the retention or transfer of fees to state and local governments. 12 The PETS study noted that there was scope to allocate more resources to service delivery levels in several states. It made a number of recommendations towards improving service delivery in health facilities, including the harmonization of systems of allocation of resources across states at all levels and types of facilities, strengthening  the  management  and  monitoring  of  inputs  from  state  and  local  governments  to facilities;  provision  of  incentives  to  attract/retain  staff  in  rural  communities,  harmonize  the administration  of  user  fees  across  states  and  increase  the  share  retained  by  the  facilities  while ensuring that user fees do hinder access to  services by vulnerable groups.
 
@@ -1331,14 +1436,14 @@ Source: Sudan Millennium Development Goals Progress Report 2010
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
-
+strengthening the management and monitoring of inputs from state and local governments to facilities; provision of incentives to attract/retain staff in rural communities, harmonize the administration of user fees across states and increase the share retained by the facilities while ensuring that user fees do hinder access to services by vulnerable groups.
 ### Strategy, Priorities and Actions
 
 130. The main objective of the  health sector strategy is to increase utilization and strengthen quality of primary and first-referral healthcare services. The strategy aims to increase basic health service coverage from the current estimated 50 percent to 75 percent of the population; improve equity in health service coverage, access, and outcomes, in particular through reducing geographic, urban/rural,  gender  and  socioeconomic  inequalities.  The  overall  coverage  targets  should  be achieved by larger improvements in service delivery to under-served populations. The achievement of these objectives will involve financing reforms, strengthening of institutional capacity particularly in more deprived states, policy and strategy development in key areas, infrastructure investment and human resource investment.
 
 131. The strategy worked out by the Federal Ministry of Health rests on four pillars i.e. control of communicable  diseases,  improved  maternal  and  child  health  and  nutrition,  human  resource development  and  an  improved  health  care  management  system  based  on  decentralization, extended coverage and accessibility. This programme will have a distinct rural bias with incentives such  as  housing,  generous  hardship  allowances  and  better  benefits  to  attract  trained  health personnel  to  rural  areas.  It  will  concentrate  on  a  broadened  primary  health  care  concept  that  is accessible,  focused  on  the  poor  and  vulnerable,  gender  sensitive  and  environment  friendly  with adoption of health area policy and community involvement and empowerment.
 
-132. Health services that address the main causes of child and maternal morbidity and mortality will  be  given  priority.  Actions  will  focus  on  improved  access  to  quality  first-referral  services, expanded and integrated management  of childhood illnesses, expansion of immunization programmes including against measles and vitamin A supplementation campaigns targeting underfive  children.  Other  actions  will  focus  on  the  organization  of  the  safe  motherhood  initiative  that essentially targets village midwives, training for all practicing midwives, increasing their numbers and  providing  safe  delivery  kits,  and  prevention  of  harmful  practices,  including  Female  Genital Mutilation (FGM).
+132. Health services that address the main causes of child and maternal morbidity and mortality will  be  given  priority.  Actions  will  focus  on  improved  access  to  quality  first-referral  services, expanded and integrated management  of childhood illnesses, expansion of immunization programmes including against measles and vitamin A supplementation campaigns targeting under-five  children.  Other  actions  will  focus  on  the  organization  of  the  safe  motherhood  initiative  that essentially targets village midwives, training for all practicing midwives, increasing their numbers and  providing  safe  delivery  kits,  and  prevention  of  harmful  practices,  including  Female  Genital Mutilation (FGM).
 
 133. The programme accords a high priority to control of high burden communicable diseases and  for  emerging  non-communicable  diseases  Specifically  and  for  the  control  of  communicable diseases, the health programme plans to implement various initiatives to address these diseases such as, Roll Back Malaria and Directly Observed Therapy Short Course (TB DOTS) in endemic areas including provision of essential drugs for prompt case management  and mosquito nets impregnated  with  insecticide  particularly  for  pregnant  women  and  children  under  5  years.  For HIV/AIDS the national strategy targets those most at risk and includes provision of materials for blood  transfusion,  health  and  educational  material  for  safe  sex,  drugs  to  reduce  mother  to  child transmission and community awareness programmes. The main areas of interventions include for the implementation of the health program include:
 
@@ -1368,20 +1473,20 @@ levels  through  technical  assistance  and  training.  Ways  to  reach  univers
 
 134. Safe drinking water is a basic necessity for good health. Unsafe water can be a significant cause of diseases such as trachoma, cholera, typhoid and schistosomiasis. Drinking water can also contain hazardous physical, chemical and radiological contaminants with harmful effects on human health. In addition to its association with disease, access to drinking water is particularly important for  the  women  and  children,  particularly  in  rural  areas,  who  bear  the  responsibility  for  fetching water, often for long distances.
 
-135. Sudan is  an  arid  to  semi  arid  country  with  an  average  annual  rainfall  of  350  mm/y.  The available water resources in the country comprise 31.5 billion cubic meters from different sources including  River  Nile,  seasonal  streams  and  groundwater.  With  a  total  population  of  40  million people in 2008, the per capita share from the available water resources is estimated at 790 m/y .This categorizes Sudan among the countries that fall below the water poverty line. The consumed water is used for irrigation (67 percent), industry (5 percent), human and livestock drinking and domestic use (28 percent). The evapo-transpiration losses account for 17 percent.
+135. Sudan is  an  arid  to  semi  arid  country  with  an  average  annual  rainfall  of  350  mm/y.  The available water resources in the country comprise 31.5 billion cubic meters from different sources including  River  Nile,  seasonal  streams  and  groundwater.  With  a  total  population  of  40  million
 
 -45-
 
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
-
+people in 2008, the per capita share from the available water resources is estimated at 790 m/y .This categorizes Sudan among the countries that fall below the water poverty line. The consumed water is used for irrigation (67 percent), industry (5 percent), human and livestock drinking and domestic use (28 percent). The evapo-transpiration losses account for 17 percent.
 Table 10: Sudan MDGs for Water and Sanitation
 --- | --- | --- | --- | --- | ---
-Indicators | Baseline in 1990 | Current Status | Reference Year | 2015 Target
+ | Indicators | Baseline in 1990 | Current Status | Reference Year | 2015 Target
 MDG1.2 | Proportion of the population below the national poverty line | 90% (1992) | 46.5% | 2009 | 23.2%
 MDG6.3 | Proportion of population using an improved water source | 64% | 65% | 2009 | 82%
-Proportion of population using improved sanitation facility | 33% | 42% | 2009 | 67%
+ | Proportion of population using improved sanitation facility | 33% | 42% | 2009 | 67%
 Source: Sudan Millennium Development Goals Progress Report 2010
 
 136. In  2006,  Sudan  Household  Health  Survey  indicated  that  access  to  safe  drinking was  56.1 percent  and  access  to  improved  sanitation  was  31.4  percent  at  the  national  level.  In  2009  in northern Sudan the proportion of population with sustainable access to an improved water source reached  65  percent,  and  the  proportion  with  improved  sanitation  stood  at  42  percent.  This indicates that there has been limited improvement compared with the beginning of the 90's when the  percentages  with  access  to  drinking  water  and  sanitation  were  64  percent  and  33  percent respectively.
@@ -1392,14 +1497,14 @@ Source: Sudan Millennium Development Goals Progress Report 2010
 
 ### Strategy and policies
 
-139. Considerable  coordinated  efforts  are  currently  in  place  by  the  government  and  Water Supply, Sanitation and Hygiene (WASH) sector partners including UNICEF, UN agencies and NGOs at federal and state levels to narrow the gap between the current situation and MDGs water and sanitation targets. Sector coordination forums were formed at federal and key states levels. A final draft for WASH policy has been prepared and was approved by the end of 2010. WASH Strategic Plans (2010-2016) for federal and 15 states are currently under preparation. National 14 WASH service  design  and  management  manuals  and  guidelines  were  prepared  and  approved.  State, national and international fund raising and advocacy efforts are in place to mobilize the required funding  for  the  sector.  The  Nile  Trans-boundary  Environmental  Project  (NTEP)  has  prepared  a draft paper on River Nile environment safeguarding for monitoring the Nile water quality.
+139. Considerable  coordinated  efforts  are  currently  in  place  by  the  government  and  Water Supply, Sanitation and Hygiene (WASH) sector partners including UNICEF, UN agencies and NGOs at federal and state levels to narrow the gap between the current situation and MDGs water and sanitation targets. Sector coordination forums were formed at federal and key states levels. A final draft for WASH policy has been prepared and was approved by the end of 2010. WASH Strategic Plans (2010-2016) for federal and 15 states are currently under preparation. National 14 WASH service  design  and  management  manuals  and  guidelines  were  prepared  and  approved.  State,
 
 -46-
 
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
-
+national and international fund raising and advocacy efforts are in place to mobilize the required funding for the sector. The Nile Trans-boundary Environmental Project (NTEP) has prepared a draft paper on River Nile environment safeguarding for monitoring the Nile water quality.
 140. Community Action for Total Sanitation  (CATS)  approach  for  community-based  sanitation promotion is currently under implementation to scale-up sanitation interventions. The signing of Khartoum  Declaration  by  6  federal  ministers  reflects  their  commitment  to  the  promotion  of community-based sanitation and to a clear institutional setup for sanitation within the governmental structure.
 
 ### Priorities and Actions
@@ -1426,14 +1531,14 @@ Source: Sudan Millennium Development Goals Progress Report 2010
 
 ## 6.5 Social Safety Net Programs: Protecting the Vulnerable Poor
 
-143. The primary social protection mechanism in Sudan is Zakat, which is an Islamic measure for wealth distribution and building of productive capabilities, and is playing an important role as a source of social assistance for the poor. Total Zakat resources have increased from SDG 13.5 billion in 2001 to SDG 27.1 billion in 2005. Most of the resources are allocated to the poor, the indigent, road farers and insolvent, who received 68 percent of the Zakat spending in 2005. Out of the total spent on the poor in 2005, an amount equivalent to 19 percent went to education, health and water services.  The  Government,  through  the  Ministry  of  Social  Welfare,  has  programs  to  support vulnerable groups including the extreme poor, the homeless, the orphans and poor pensioners. The Community Development Fund (CDF), supported by the government and the donor community, has been supporting projects identified and implemented by poor communities in 4 states. This CDF has  made  notable  contributions  to  community  development  and  poverty  reduction.  Health insurance is available in all states and in 2009 covered 30 percent of the population.
+143. The primary social protection mechanism in Sudan is Zakat, which is an Islamic measure for wealth distribution and building of productive capabilities, and is playing an important role as a source of social assistance for the poor. Total Zakat resources have increased from SDG 13.5 billion in 2001 to SDG 27.1 billion in 2005. Most of the resources are allocated to the poor, the indigent, road farers and insolvent, who received 68 percent of the Zakat spending in 2005. Out of the total spent on the poor in 2005, an amount equivalent to 19 percent went to education, health and water services.  The  Government,  through  the  Ministry  of  Social  Welfare,  has  programs  to  support vulnerable groups including the extreme poor, the homeless, the orphans and poor pensioners. The
 
 -47-
 
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
-
+Community Development Fund (CDF), supported by the government and the donor community, has been supporting projects identified and implemented by poor communities in 4 states. This CDF has made notable contributions to community development and poverty reduction. Health insurance is available in all states and in 2009 covered 30 percent of the population.
 144. The large humanitarian aid flows into Sudan supported by UN agencies, international NGOs, and other organizations have been instrumental in reaching vulnerable populations. Many affected communities  would  have  not  survived  without  these  life-saving  interventions.  The  provision  of basic services to an estimated 2.5 million IDPs comprises the key interventions under humanitarian assistance. However, the link between humanitarian and development assistance has been weak, and  an  important  priority  of  the  government  is  to  begin  to  reorient  resources  toward  more sustainable, developmentally-oriented activities.
 
 ### Community Driven Initiatives
@@ -1444,17 +1549,17 @@ Source: Sudan Millennium Development Goals Progress Report 2010
 
 147. Since the start of CDF in 2006, it has supported over 1100 community initiatives that are intended  to  improve  access  and  quality  of  basic  services  for  the  communities  affected  by  the conflict  and  less  developed    in  the  past.  With  assistance  from  the  CDF,  communities  have constructed 600 schools, 100 health units, and 150 water projects. It has introduced solar energy in 100 communities. Communities provide 10 percent of the project cost in cash or in kind. The sense of ownership is reinforced by the active participation in project implementation and management of the operations. The state and locality governments provide support to operate the facilities. Close to a million poor people are benefiting from the services provided by the completed subprojects.
 
-148. CDF also supported a large number of capacity building activities to enhance the capability of communities and their organizations and local government leaders. Over 69,100 persons (40,040 male  and 29,060 female) have participated in different community level workshops and training sessions. The capacity building activities empower communities to take the lead in identification of their priorities as well as the implementation of projects, including developing and implementing community  contracting  mechanisms.  Through  its  local  government  leadership  enhancement initiative, CDF trained 30 senior local government officials drawn from 13 localities. This training was complemented by the matching grant from CDF to locality governments to help their officials translate their learning to practice by initiating and implementing community driven development activities  in  their  respective  localities.  The  local  government  officials  responded  positively  to  the training  and  the  provision  of  the  matching  grants  by  demonstrations  of  strong  leadership  in coordinating  the  development  work  in  their  respective  localities.  The  CDF  project  in  Sudan  is regarded as one of the most successful of its kind. This project has lessons for the nascent local government administrations in Sudan, particularly regarding the participation of communities in development projects.
+148. CDF also supported a large number of capacity building activities to enhance the capability of communities and their organizations and local government leaders. Over 69,100 persons (40,040 male  and 29,060 female) have participated in different community level workshops and training sessions. The capacity building activities empower communities to take the lead in identification of their priorities as well as the implementation of projects, including developing and implementing community  contracting  mechanisms.  Through  its  local  government  leadership  enhancement initiative, CDF trained 30 senior local government officials drawn from 13 localities. This training
 
 -48-
 
 [[END OF PAGE 55]]
 
 [[START OF PAGE 56]]
-
+was complemented by the matching grant from CDF to locality governments to help their officials translate their learning to practice by initiating and implementing community driven development activities in their respective localities. The local government officials responded positively to the training and the provision of the matching grants by demonstrations of strong leadership in coordinating the development work in their respective localities. The CDF project in Sudan is regarded as one of the most successful of its kind. This project has lessons for the nascent local government administrations in Sudan, particularly regarding the participation of communities in development projects.
 ### Pensions
 
-149. The public pension system is based on defined benefits but as an unfunded pension (pay-asyou-go) system, it is facing financial difficulties. In 2005 total pension liabilities amounted to SD 115.6 billion while revenue was only SD 30.4 billion, representing only 26 percent of expenditure. These deficits are related to poor management of the funds reserves. Moreover, the pension scheme was  not  designed  to  protect  retirees  from  inflation,  thus  the  purchasing  power  of  pension entitlements have been eroded. Thus pensioners are impoverished and need support. The Social Affairs Administration of the Pension Fund has thus provided additional payments for food, health, and education expenditure to poor pensioners. In 2005 a total of SD 436.5 million was spent, 43 percent of it went to food, around a third for health and 23 percent for education of pensioners' children. As the pension systems covers only the formal sector while the majority of retirees are from the agricultural and the informal commercial sectors, the overall coverage of pensions is very limited and many have to depend on savings and support from family.
+149. The public pension system is based on defined benefits but as an unfunded pension (pay-as-you-go) system, it is facing financial difficulties. In 2005 total pension liabilities amounted to SD 115.6 billion while revenue was only SD 30.4 billion, representing only 26 percent of expenditure. These deficits are related to poor management of the funds reserves. Moreover, the pension scheme was  not  designed  to  protect  retirees  from  inflation,  thus  the  purchasing  power  of  pension entitlements have been eroded. Thus pensioners are impoverished and need support. The Social Affairs Administration of the Pension Fund has thus provided additional payments for food, health, and education expenditure to poor pensioners. In 2005 a total of SD 436.5 million was spent, 43 percent of it went to food, around a third for health and 23 percent for education of pensioners' children. As the pension systems covers only the formal sector while the majority of retirees are from the agricultural and the informal commercial sectors, the overall coverage of pensions is very limited and many have to depend on savings and support from family.
 
 ### Health Insurance
 
@@ -1474,11 +1579,11 @@ Source: Sudan Millennium Development Goals Progress Report 2010
 
 152. In any case, with or without the stagnation of oil production, the focus of Sudan new growth strategy  has  to  be  on  non-oil  sectors  that  can  impact  the  incomes  of  the  poor  and  create employment opportunities for all  categories  of  the  labor  force.  In  these  non-oil  sectors,  the  aim should be to attract domestic and foreign direct investment and to promote productivity growth Sudanese firms to be globally competitive and hence sustain the growth. For stability of national income,  government  revenues  and  expenditures,  the  growth  strategy  needs  to  aim  to  create opportunities for growth in diverse fields of economic activity, to avoid the dependence on a few sectors.  In  the  current  context  in  Sudan,  the  growth  strategy  needs  to  focus  on  two  areas:  (i) targeted support for the agricultural sector, including livestock, forestry and fisheries, to promote growth  and  productivity  change;  and  (ii)  broad  support  for  private  sector  development,  with policies,  institutions,  incentives  and  infrastructural  services  to  promote  investments,  innovation, productivity growth and employment creation in all sectors of the economy.
 
-- Productive  activities  will  be  the  domain  of  the  private  sector.  The  key  roles  for  the government in the strategy includes (ii) the maintenance of macroeconomic stability that reduces macroeconomic risks, improves the confidence of  the  business  sector  in  the  management  of  the economy, helps to maintain the competitiveness of Sudanese firms; (ii) a policy and institutional framework  that  supports  the  strategic  objectives  of  growth  and  poverty  reduction;  (ii)  human development  efforts  that  builds  a  skilled  labor  force  consistent  with  the  demands  of  the  labor markets to foster innovation and productivity; and (iv) economic services including infrastructure, and for agriculture, knowledge related services (research, extension and capacity building).
+153. Productive  activities  will  be  the  domain  of  the  private  sector.  The  key  roles  for  the government in the strategy includes (ii) the maintenance of macroeconomic stability that reduces macroeconomic risks, improves the confidence of  the  business  sector  in  the  management  of  the economy, helps to maintain the competitiveness of Sudanese firms; (ii) a policy and institutional framework  that  supports  the  strategic  objectives  of  growth  and  poverty  reduction;  (ii)  human development  efforts  that  builds  a  skilled  labor  force  consistent  with  the  demands  of  the  labor markets to foster innovation and productivity; and (iv) economic services including infrastructure, and for agriculture, knowledge related services (research, extension and capacity building).
 
-- This new vision and strategy for economic growth and poverty reduction is ambitious and will not be fully accomplished in the three-year time frame of the IPRSP. Nonetheless, Sudan has made a strong start in a private sector led growth and is committed to consolidating its efforts for significant and rapid progress in this new direction. The new growth strategy requires the strong commitment  and  focus  of  all  government  actors  and  the  private  sector,  and  the  support  and cooperation from the development partners and civil society organizations. The Government needs to actively engage these partners as well as the population in designing and implementing policies and plans.
+154. This new vision and strategy for economic growth and poverty reduction is ambitious and will not be fully accomplished in the three-year time frame of the IPRSP. Nonetheless, Sudan has made a strong start in a private sector led growth and is committed to consolidating its efforts for significant and rapid progress in this new direction. The new growth strategy requires the strong commitment  and  focus  of  all  government  actors  and  the  private  sector,  and  the  support  and cooperation from the development partners and civil society organizations. The Government needs to actively engage these partners as well as the population in designing and implementing policies and plans.
 
-- The main sources of growth, employment creation and poverty reduction in the medium term are agriculture and livestock sector, manufacturing and services.  To create jobs and reduce unemployment  and  poverty,  the  Sudanese  economy  will  have  to  be  growing  at  6.5  percent  per annum. The programs and initiatives described in  the  remainder  of  this  document  are  aimed  at
+155. The main sources of growth, employment creation and poverty reduction in the medium term are agriculture and livestock sector, manufacturing and services.  To create jobs and reduce unemployment  and  poverty,  the  Sudanese  economy  will  have  to  be  growing  at  6.5  percent  per annum. The programs and initiatives described in  the  remainder  of  this  document  are  aimed  at
 
 -50-
 
@@ -1496,7 +1601,7 @@ bringing  together  the  key  priorities  for  actions  for  rapid,  sustainable
 
 157. The task of maintaining macroeconomic stability has even become more difficult for Sudan with the independence of the South. The effects are transmitted through the impact on the fiscal and  external  sectors. Government  oil  revenues  are  expected  to  drop  by  about  75  percent (equivalent to 6 percent of GDP); with about half of this revenue loss offset by the end of transfers to  the  South.  In  addition,  the  decline  in  Sudan's  oil  export  revenues,  an  increase  in  petroleum product  imports,  and  the  decline  in  capital  inflows,  including  FDI,  will  put  pressure  on  external balances.  To appreciate the extent of the needed adjustment, it is estimated that in the absence of strong  remedial  actions  by  the  Government,  the  overall  fiscal  deficit  would  be  5.1  percent,  6.1 percent and 5.2 percent in 2011, 2012 1nd 2013 respectively compared to about an estimated 3.2 percent in 2010. In addition the deficit in the external current account balance would exceed 11 percent in 2012 and 2011. These are unsustainable levels of fiscal and external imbalances.
 
-158. Maintaining  macroeconomic  stability  will  be  predicated  on  implementing  the  necessary adjustments  in  a  timely  fashion. These  include,  exercising  fiscal  restraint,  cutting  back  on  nonpriority spending, reducing/eliminating fuel subsidies and tax exemptions and enhancing revenue administration. Greater exchange rate flexibility, prudent monetary policy and a swift implementation of structural reforms will also be crucial for a smooth and sustainable adjustment. The  2011  budget  reflected  the  efforts  to  begin  to  make  fiscal  adjustments,  with  a  sizeable compression of current expenditure. The budget was prepared under the assumption of a unitary state; a supplementary budget was prepared for the second half of 2011 and adopted in July 2011, after the independence of the South became a reality. The supplementary budget provided for an increase in VAT on mobile communications from 20 percent to 30 percent and reduction in some non-priority spending. Discussions are underway for further expenditure and revenue actions to be in the context of the 2012 budget. Also, the I-PRSP implementation will take into consideration the ongoing  discussions  between  the  government  and  the  IMF  to  structure  a  new  Staff  Monitored program (SMP), which will represent the overall macroeconomic framework.
+158. Maintaining  macroeconomic  stability  will  be  predicated  on  implementing  the  necessary adjustments  in  a  timely  fashion. These  include,  exercising  fiscal  restraint,  cutting  back  on  non-priority spending, reducing/eliminating fuel subsidies and tax exemptions and enhancing revenue administration. Greater exchange rate flexibility, prudent monetary policy and a swift implementation of structural reforms will also be crucial for a smooth and sustainable adjustment. The  2011  budget  reflected  the  efforts  to  begin  to  make  fiscal  adjustments,  with  a  sizeable compression of current expenditure. The budget was prepared under the assumption of a unitary state; a supplementary budget was prepared for the second half of 2011 and adopted in July 2011, after the independence of the South became a reality. The supplementary budget provided for an increase in VAT on mobile communications from 20 percent to 30 percent and reduction in some non-priority spending. Discussions are underway for further expenditure and revenue actions to be in the context of the 2012 budget. Also, the I-PRSP implementation will take into consideration the ongoing  discussions  between  the  government  and  the  IMF  to  structure  a  new  Staff  Monitored program (SMP), which will represent the overall macroeconomic framework.
 
 159. The independence of the South and the loss of oil fiscal and export revenues has led to a slowdown of the Sudanese economy. It is estimated that even with the adjustment actions taken and  expected  in  the  2012  budget,  GDP  growth  will  be  close  to  zero  in  2011-2012,  and  a  slight recovery in 2013, reflecting the steep declines in the contribution of the oil sector, the loss of the stimulation  of  non-oil  sector  activities  by  oil  production,  exports  and  revenues,  and  the  reduced domestic absorption from the compression of public spending. Inflation is projected to remain high, to about 22 percent in 2011 and 17 percent in 2012 due to the pressure of domestic food prices and likely increases in fuel prices from the reduction of subsidies.
 
@@ -1512,17 +1617,17 @@ bringing  together  the  key  priorities  for  actions  for  rapid,  sustainable
 
 162. While the next 2-3 years will be a period of difficult fiscal and external balance adjustments, it  should  also  provide  the  impetus  to  commence structural reforms and related institutional and technical capacity for efficient and effective use of resources. Reforms of expenditure institutions and policies  should  be  undertaken  to  focus  of  resources  on  key  sustainable  growth  and poverty reduction priorities - infrastructure, human development, agricultural services, and private sector development. These reforms should be accompanied by the development of relevant institutional and technical capacity for the management of public finances to ensure that improved expenditure policies lead to efficient and improving delivery of public services.
 
-163. With  respect  to  restoring  external  sustainability,  the  key  actions  include  (i)  moving  to  a flexible  exchange  policy  that  allows  the  exchange  rate  to  respond  to  market  developments  to improve/maintain the competitiveness of Sudanese goods in export markets; (ii) take other actions to  yield  quick  results  for  non-oil  exports  such  as  gold  and  other  minerals,  manufactures  and livestock; (iii) facilitate the exportation of Sudanese goods to the South Sudanese markets; and (iv) streamline and reduce government spending in foreign exchange. The need for fiscal and external adjustment puts  a  renewed  focus  on  the  revival  and  growth  of  traditional  exports  (cotton,  gum Arabic,  and  sesame)  and  the  development  of  new  export  lines.  Furthermore,  the  adjustment challenge makes debt relief and concessional assistance urgent. In any case, the Government should make  efforts  for  international  assistance  for  continued  support  and  expansion  of  the  programs targeting  the  poor  and  currently  funded  by  the  Multi-Donor  Trust  Fund  (MDTF)  as  well  as  the programs for reintegration of displace persons and refugees.
+163. With  respect  to  restoring  external  sustainability,  the  key  actions  include  (i)  moving  to  a flexible  exchange  policy  that  allows  the  exchange  rate  to  respond  to  market  developments  to improve/maintain the competitiveness of Sudanese goods in export markets; (ii) take other actions to  yield  quick  results  for  non-oil  exports  such  as  gold  and  other  minerals,  manufactures  and livestock; (iii) facilitate the exportation of Sudanese goods to the South Sudanese markets; and (iv) streamline and reduce government spending in foreign exchange. The need for fiscal and external adjustment puts  a  renewed  focus  on  the  revival  and  growth  of  traditional  exports  (cotton,  gum Arabic,  and  sesame)  and  the  development  of  new  export  lines.  Furthermore,  the  adjustment challenge makes debt relief and concessional assistance urgent. In any case, the Government should
 
 -52-
 
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
-
+make efforts for international assistance for continued support and expansion of the programs targeting the poor and currently funded by the Multi-Donor Trust Fund (MDTF) as well as the programs for reintegration of displace persons and refugees.
 Table 11: Selected Economic Indicators 2010-2015
 --- | --- | --- | --- | --- | --- | ---
-2010 | 2011 | 2012 | 2013 | 2014 | 2015
+ | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 Population (million) | 41.2 | 42.3 | 34.1 | 35.0 | 35.9 | 36.8
 GDP Growth Rate(%) | 5.2 | 2.8 | 2.0 | 3.0 | 4.0 | 5.0
 Inflation (average %change) | 13.0 | 18.0 | 17.0 | 16.0 | 13.0 | 10.0
@@ -1545,8 +1650,9 @@ Merchandise Imports (US$ million) | -9215.4 | -8204.2 | -6973.6 | -6276.2 | -596
 Trade Balance (US$ million) | 2189.3 | 1229.7 | -4631.8 | -3700.2 | -3128.8 | -2547.3
 Current Account Balance (US$ million) | -1534.5 | -175.2 | -5054.6 | -4812.2 | -4134.7 | -3457.7
 Curr Account Balance (% GDP) | -2.2 | -0.3 | -6.6 | -5.5 | -4.2 | -3.1
-External Debt (US$ Billion) | 36.8 | 39.2 | 41.5
-Source: Government of Sudan Note: 2010 and 2011 are estimates for North and South Sudan and 2012-2014 are projections for North Sudan only
+External Debt (US$ Billion) | 36.8 | 39.2 | 41.5 |  |  | 
+Source: Government of Sudan
+Note: 2010 and 2011 are estimates for North and South Sudan and 2012-2014 are projections for North Sudan only
 
 ## 7.3 The Enabling Environment for Private Sector-led Growth
 
@@ -1680,8 +1786,8 @@ resulting  from  desertification  and  drought.  The  GoS's  twenty-five  year  
 
 Table 12: Growth of Production (Value Added) and Share in Agriculture GDP
 --- | --- | --- | --- | ---
-Subsector/Production System | 1991/92-1999 | 2000-2008
-Growth Rate (%) | Share in Agric GDP (%) | Growth Rate (%) | Share in Agric GDP (%)
+Subsector/Production System | 1991/92-1999 |  | 2000-2008 | 
+ | Growth Rate (%) | Share in Agric GDP (%) | Growth Rate (%) | Share in Agric GDP (%)
 Crops/Irrigated | 6.6 | 21.1 | 4.4 | 28.2
 Crops/Rain-fed semi-mechanized | -6.7 | 6.3 | 5.2 | 3.1
 Crops/Rain-fed traditional | 24.6 | 12.5 | 2.4 | 14.9
@@ -1692,7 +1798,7 @@ Livestock | 15.9 | 46.9 | 3.6 | 47.2
 Forestry | -21.5 | 4.8 | 2.5 | 6.5
 Fisheries | 9.0 | 1.3 | Na | Na
 Total Agriculture | 10.8 | 100.0 | 3.6 | 100.0
-Source : Central Bureau of Statistics.
+Source: Central Bureau of Statistics.
 
 194. The semi-mechanized farming system has shrunk and ceased to be the dominant source of food (Sorghum) for Sudan. The contribution of the irrigated sector has remained relatively stagnant in most products cultivated (wheat, groundnuts and cotton) with some improvement in sorghum yield. The system has been characterized by low irrigation intensity and low productivity, mainly due to weak management with high costs water due to high operation and maintenance costs, and the  inefficiently  distribution  to  all  farms.  Low  yield  is  the  main  reason  driving  the  decline  in sorghum production in the semi-mechanized farming systems. Yields in Sudan are well below their research potential and below those in other countries with broadly similar production conditions (e.g. Argentina, China and Nigeria). Yield is constrained by inadequate public management of areas at  the  state  level  and  weak  incentives  to  use  improved  technology.  The  weaknesses  include  low land rentals, the lack of a market for land rights, weak enforcement of soil management covenants in  land  lease,  land  use  disputes  between  farmers  and  nomads,  and  lack  of  enforcement  of environmental standard in the leases.
 
@@ -1770,7 +1876,7 @@ Source : Central Bureau of Statistics.
 
 ♦ Protect natural resources through the development of forests, pastures and range lands and re-establishment of the vegetative cover and the development of the Gum Arabic Belt and the combat of desertification;
 
-♦ Build the capacities of the industrial sector to manufacture agricultural inputs, satisfy agroindustries with their requirements of raw materials, connect the production processing marketing chain and utilize the capacities in the agro-industries;
+♦ Build the capacities of the industrial sector to manufacture agricultural inputs, satisfy agro-industries with their requirements of raw materials, connect the production processing – marketing chain and utilize the capacities in the agro-industries;
 
 ♦ Protect consumers and promote exports, by implementing the laws and procedures which ensure  food  safety  and  control  of  the  quality  of  plant  and  livestock  products  whether processed locally  or  imported  in  accordance  with the  accredited  international  standards; and
 
@@ -1804,7 +1910,7 @@ Source : Central Bureau of Statistics.
 
 #### Key Transport Projects
 
-207. The National Emergency Transport Rehabilitation Project (NETREP), approved on August 2006,  is  one  of  the  projects  conceived  within  the  framework  of  the  Multi-Donor  Trust  Fund  National (MDTF-N} to improve selected transport infrastructure critical to enhancing the benefits of the peace agreement. The objective of NETREP is to improve physical access to goods, markets, and administrative and social services by rehabilitating critical rail infrastructure and services, and improving river transport services and roads.
+207. The National Emergency Transport Rehabilitation Project (NETREP), approved on August 2006,  is  one  of  the  projects  conceived  within  the  framework  of  the  Multi-Donor  Trust  Fund – National (MDTF-N} to improve selected transport infrastructure critical to enhancing the benefits of the peace agreement. The objective of NETREP is to improve physical access to goods, markets, and administrative and social services by rehabilitating critical rail infrastructure and services, and improving river transport services and roads.
 
 208. The project focuses on key trade routes linking the North with Port Sudan, and addressing the isolation of communities in the Three Areas, a major impediment to recovery and development. Specifically, the project comprises three components:
 
@@ -1903,6 +2009,7 @@ Government Shareholding in Sudatel has declined from 67 percent in 1993 to 26 pe
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
+population of displaced persons in Sudan and rapid total and urban population growth. The loss of forest cover has accelerated in recent years due in part to the cutting down of trees for firewood for making bricks, whose demand is growing driven by the rapidly growing urban population. The camps for the IDPs are turning into peri-urban satellite towns, contributing to the surge in firewood for cooking and brick-making. The IDPs also find employment in the firewood business. Effective regulation and enforcement is not possible with the weak and uncertain governance associated with a conflict-affected region. The rapid deforestation is adding to the pressures on climate change that is already having a deleterious impact on the livelihoods of the people in Darfur.
 
 ### Policies and Regulations for Protecting the Environment
 
@@ -1974,7 +2081,7 @@ Government Shareholding in Sudatel has declined from 67 percent in 1993 to 26 pe
 
 ♦ Make the PRSP and related information understandable and available to local civil society.
 
-- The participation process will be organized through five stages:
+231. The participation process will be organized through five stages:
 
 ♦ Mobilization of key stakeholders in government, civil society, private sector, international community at all levels to raise their awareness and obtain their commitment to contribute to the design and implementation of the PRSP;
 
@@ -2093,7 +2200,7 @@ Conflict Resolution | Resolution of conflicts | Strengthen the capacity of the a
 Property Rights | Reduce conflicts associated with land and ensure long-term land use rights; | Review and revise existing land laws and policies including putting in place mechanisms for allocation of land and resolving land disputes at community levels
 Human Rights | Enhance the protection of human rights | Make operational the Human Rights Commission
 Decentralization | Improve the effectiveness of the decentralized governance | Strengthen the autonomy of the governments at locality levels, including the election of key executive officer; Promote the participation of the citizens in the governance of the localities; Establish a transparent and predictable revenue sharing mechanism between the three levels of government
-Public Service Delivery | Effective and improving delivery of public services | Develop a national strategy for the enhancing public sector technical and institutional capacity; Reform the institutions for public expenditure management including the introduction of policy- based and multi-year planning and budgeting framework; Adopt the GFMS, a computer-based budgeting and accounting application, to strengthen financial controls, produce and make public periodic reports of budget execution ; Develop a national strategy for enhancing procurement capacity and systems at all levels of government.
+Public Service Delivery | Effective and improving delivery of public services | Develop a national strategy for the enhancing public sector technical and institutional capacity; Reform the institutions for public expenditure management including the introduction of policy-based and multi-year planning and budgeting framework; Adopt the GFMS, a computer-based budgeting and accounting application, to strengthen financial controls, produce and make public periodic reports of budget execution ; Develop a national strategy for enhancing procurement capacity and systems at all levels of government.
 ### Pillar II: Reintegration of Internally Displaced Persons (IDPs) and Refugees
 Eastern Sudan | Invigorate the development of | Review the development plans for Eastern Sudan and re-launch the implementation;
 
@@ -2105,7 +2212,7 @@ Eastern Sudan | Invigorate the development of | Review the development plans for
 
 Area/Sector | Objectives and Targets | Policy Measures/Programs
 --- | --- | ---
-Eastern Sudan | Revise policy framework for the reintegration of IDPs and refugees, with broad consultations with concerned communities and the international development community; Build a partnership with international relief and development agencies for reintegration, with a strong coordinating mechanism led by the government.
+ | Eastern Sudan | Revise policy framework for the reintegration of IDPs and refugees, with broad consultations with concerned communities and the international development community; Build a partnership with international relief and development agencies for reintegration, with a strong coordinating mechanism led by the government.
 ### Pillar III: Developing Human Resources
 Empowerment of the Poor | Empower the poor to take advantage of opportunities | Increase in the level and share of pro-poor public spending; Set the transfers to the states and localities to be consistent with their responsibility for improved service provision in education and health; Set public capital spending on education and health to widen access to services, improve facilities and sustain these improvements; Provide social protection services in a manner that strengthens the capacity of the poor for self reliance.
 Empowerment of women | Meet the Gender MDGs | Monitor the implementation of actions and taking corrective measures to deal with slippages. Produce gender-aggregated statistics on labor market and employment developments; Invest in educational infrastructure to put schools within easy reach of girls in the community, particularly in the underserved states; Establish non-formal adult education classes targeted at women and promote vocational and technical secondary education for girls; Civic education and voter education programs for women. Introducing gender-based budgeting to integrate gender issues of into public resource allocation decisions.
@@ -2119,8 +2226,8 @@ Education | Sustaining improvements in the education sector to meet the related 
 
 Area/Sector | Objectives and Targets | Policy Measures/Programs
 --- | --- | ---
-colleges; Improve the compensation of teachers and provide incentives for teachers to work in rural areas and lagging regions; Reform technical education at the secondary level in relation to preparedness for higher education and meeting the needs of the labor market; Strengthen the quality of tertiary education; review the financing and fees practices to ensure that the poor and underprivileged are not being excluded from higher education; Rationalize the policies and practices on technical/technological education at tertiary levels.
-Health | Increase utilization and improve quality of primary and first- referral healthcare; improve equity in health service coverage, reducing geographic, urban/rural, and socio-economic inequalities | Increase in public spending for health services; external assistance will be sought, particularly for expansion of services to rural areas and lagging regions; Develop a health financing policy that, with the increase in spending, increase spending on deprived regions; explore ways to expand collective prepaid mechanisms (health insurance) to ensure that healthcare is available to all. Investments in infrastructure, to enhance service coverage, particularly in deprived areas, ; Investments in human resources, incentives for qualified personnel to work in rural areas, technical assistance to be sought for capacity building in areas of policy development and planning, financial and human resource management, pharmaceutical policies and regulation, and healthcare information systems; Build partnerships with the private sector, national and international NGOs for the coordinated expansion and improvements in health service delivery.
+ |  | colleges; Improve the compensation of teachers and provide incentives for teachers to work in rural areas and lagging regions; Reform technical education at the secondary level in relation to preparedness for higher education and meeting the needs of the labor market; Strengthen the quality of tertiary education; review the financing and fees practices to ensure that the poor and underprivileged are not being excluded from higher education; Rationalize the policies and practices on technical/technological education at tertiary levels.
+Health | Increase utilization and improve quality of primary and first-referral healthcare; improve equity in health service coverage, reducing geographic, urban/rural, and socio-economic inequalities | Increase in public spending for health services; external assistance will be sought, particularly for expansion of services to rural areas and lagging regions; Develop a health financing policy that, with the increase in spending, increase spending on deprived regions; explore ways to expand collective prepaid mechanisms (health insurance) to ensure that healthcare is available to all. Investments in infrastructure, to enhance service coverage, particularly in deprived areas, ; Investments in human resources, incentives for qualified personnel to work in rural areas, technical assistance to be sought for capacity building in areas of policy development and planning, financial and human resource management, pharmaceutical policies and regulation, and healthcare information systems; Build partnerships with the private sector, national and international NGOs for the coordinated expansion and improvements in health service delivery.
 Safe Drinking Water and Sanitation | Increase access to safe drinking water and basic sanitation by 20 and 25 percent respectively in 2011-2015. | Construct 15 new small capacity water supply plants at designated rural towns; Rehabilitate deteriorating water supply sources with emphasis on replacement of obsolete and low efficiency systems; Rehabilitate and extend 15 aging water supply stations at country level; Construct new water treatment plant in urban areas; Introduce simple low cost technologies particularly in the rural areas; Promote the provision and use of latrines of rural areas; Improve hygiene education/public awareness by integrating sanitation and hygiene education with water supply interventions and improved collaboration between water and sanitation agencies and ministries of education and health.
 
 -78-
@@ -2134,7 +2241,7 @@ Area/Sector | Objectives and Targets | Policy Measures/Programs
 Social Safety Nets and Protection | Assist the poor and indigent and build their social and productive capacities where possible. | Review the use of the Zakat fund and assess its contribution to poverty reduction and social protection and how best it can support the new poverty reduction strategy. Develop a social protection strategy and policy framework Expand the successful CDF programs to poor communities in other states and use the lessons from the CDF to enhance participation of the communities and citizens in local governance and improving value for money of local government spending. Discuss with the humanitarian agencies and NGOs to determine how best their assistance would support the poverty reduction strategy
 ### Pillar IV: Promotion of Economic Growth and Employment Creation
 Enabling Macroeconomic Environment for Growth | Restoration of a fundamental basis for sustained macroeconomic stability following the independence of the South. The key targets would be 2 percent of GDP for the fiscal deficit, 4 percent of GDP for the deficit in the external current account by 2014, and inflation rate of below 10 percent by 2015. | Eliminate tax exemptions and revenue earmarking; Strengthen revenue and customs administration, improve control systems and build capacity in both areas; Phase out subsidies including the fuel subsidies Focus capital expenditures on growth and poverty reduction priorities, and reduce capital expenditure subventions to public corporations. Review expenditures and identify areas where expenditures can be scaled back or eliminated from the budget. Protect expenditures on key growth and poverty reduction priorities from cuts; Strengthen financial controls to ensure that spending is on priority programs and strengthen procurement systems and oversight to enhance value for money; Reform expenditure institutions and capacity to improve resource allocation the effectiveness of implementation and service delivery; Streamline and reduce government spending in foreign exchange; Move to a more flexible exchange rate regime; Take actions for quick gains in non-oil exports.
-Appropriate macroeconomic analysis for Sudan | Develop national accounts, trade and public financial and monetary statistics for the new Sudan to permit relevant macroeconomic and expenditure analysis.
+ | Appropriate macroeconomic analysis for Sudan | Develop national accounts, trade and public financial and monetary statistics for the new Sudan to permit relevant macroeconomic and expenditure analysis.
 The Enabling Environment for Private Sector-led | Promote the private sector to become innovative, productive and competitive and a source of | Reform the regulatory environment for doing business, putting priority on those areas where Sudan is weak per the Doing Business survey , namely starting a business; dealing with construction permits; getting credit, protecting investors; trading across borders, enforcing
 
 -79-
@@ -2156,7 +2263,7 @@ Productivity and Growth in Agriculture | To revitalize the agricultural sector, 
 
 Area/Sector | Objectives and Targets | Policy Measures/Programs
 --- | --- | ---
-Adopt and implement a land policy that provides farmers with formal and secure tenancy and land use rights by pastoralists, enforce of land use regulations, research and extension and pest control. Efficient management of water by mobilization and training of the WUA and rehabilitation of the primary canals. Provision of basic social infrastructure to support small producers. Implement the liberalization of the gum Arabic markets and provide support services and improve public export inspection of all forms of gum Arabic. Enhance agricultural research and facilities and ensure dissemination of research results; Training multidisciplinary extension teams and provide regular radio information on primary agricultural markets to the agricultural communities. Protect natural resources by protecting forests, promoting reforestation, the development of pastures and rangelands and the re-establishment of vegetative cover; strengthen efforts to halt and reverse desertification. Regulate the stocking rates in Sudan's most vulnerable grazing environments such as North Darfur and North Kordofan to regenerate that pasture and other forage vegetation; Facilitate livestock marketing by improving the quality of stock routes and rehabilitating unloading and loading for road transport associated with movement of livestock and enforce regulation of handling and transport o reduce deaths and weight loss. Establish new and upgrade old livestock training centers for multidisciplinary extension agents and community animal health workers focused on rangeland management, feed crop production, animal health, animal production and hygiene in domestic meat production.
+ |  | Adopt and implement a land policy that provides farmers with formal and secure tenancy and land use rights by pastoralists, enforce of land use regulations, research and extension and pest control. Efficient management of water by mobilization and training of the WUA and rehabilitation of the primary canals. Provision of basic social infrastructure to support small producers. Implement the liberalization of the gum Arabic markets and provide support services and improve public export inspection of all forms of gum Arabic. Enhance agricultural research and facilities and ensure dissemination of research results; Training multidisciplinary extension teams and provide regular radio information on primary agricultural markets to the agricultural communities. Protect natural resources by protecting forests, promoting reforestation, the development of pastures and rangelands and the re-establishment of vegetative cover; strengthen efforts to halt and reverse desertification. Regulate the stocking rates in Sudan's most vulnerable grazing environments such as North Darfur and North Kordofan to regenerate that pasture and other forage vegetation; Facilitate livestock marketing by improving the quality of stock routes and rehabilitating unloading and loading for road transport associated with movement of livestock and enforce regulation of handling and transport o reduce deaths and weight loss. Establish new and upgrade old livestock training centers for multidisciplinary extension agents and community animal health workers focused on rangeland management, feed crop production, animal health, animal production and hygiene in domestic meat production.
 Infrastructural Services | Rehabilitate and expand infrastructural services to reduce the costs on production activities, open up the country and reduce isolation and stimulate economic activities in the lagging regions. | Integrate transport needs into national development priorities, growth and poverty reduction efforts; develop a network of rural feeder roads to link areas of high agricultural potential and production to markets. Rehabilitate Sudan Railways, particularly over those sections that travel across conflict areas. Rehabilitate and expand river transport particularly rehabilitation of in vessels, ports, workshops and repair facilities, and the expansion in the use of barges to the South. Expand private sector involvement in the transport sector through further privatization of existing activities and the use of PPPs to finance investments. Put in place a regulatory
 
 -81-
@@ -2167,7 +2274,7 @@ Infrastructural Services | Rehabilitate and expand infrastructural services to r
 
 Area/Sector | Objectives and Targets | Policy Measures/Programs
 --- | --- | ---
-framework for the operation of mixed transport sector activities. Continue to invest in electric power to increase the supply to firms and reduce the costs, and steadily increase the proportion of the population with access to electric power. Use PPPs to finance investments in the power sector. Conduct environmental assessments for major projects and take the results into account in project design.
+ |  | framework for the operation of mixed transport sector activities. Continue to invest in electric power to increase the supply to firms and reduce the costs, and steadily increase the proportion of the population with access to electric power. Use PPPs to finance investments in the power sector. Conduct environmental assessments for major projects and take the results into account in project design.
 Natural Resources and the Environment | To meet the MDGs and ensure environmental development sustainability involving the reduction of the loss of biodiversity and the population affected by environmental degradation; reduce the risks of vulnerability to environmental hazards such as floods, droughts, desertification, and climate change | Reintegrate the displaced and refugee population in permanent and sustainable livelihoods; Launch environmental awareness campaigns and enhance the roles and capacity for community in resource management. Strict enforcement of environmental laws and supporting legislation. Enhance the capacity of both federal and state governments to monitor and enforce land lease conditions on clearing and cultivation in areas subject desertification. Comprehensive land reform and security of land use/title Pilot demonstration of soil and water harvesting programmes Promote private investment in forestry gum Arabic production. Strengthen the institutions and technical capacity for environmental and natural resources management and enhance cross-sectoral coordination on environmental issues Develop a strategy for protecting natural resources and the environment, to be reflected in the full PRSP.
 ### Preparation of the full PRSP
 The preparation and implementation of the full PRSP. | Open up space for participation of all segments of the population in the elaboration of strategies, policies and programs for the country. This blue print (the PRSP) will guide the development of the country during the period of the PRSP. | Identify and engage key stakeholders, raise their awareness, and enhance their capabilities and commitment to contribute to PRSP process. Identify and mobilize major stakeholders for effective participation in the planning of the PRSP priorities. A broad assessment of the challenges, opportunities and prospects and targets for growth, income and poverty reduction in the medium and long-term. In that context and working with the major stakeholders, review and revise the long-term vision for Sudan which will guide the medium term PRSP Assemble and gather data and information necessary for inputs to PRSP; analyze and disseminate such inputs. Undertake status reports of key sectors and cross cutting areas and develop sector strategies,
@@ -2180,7 +2287,7 @@ The preparation and implementation of the full PRSP. | Open up space for partici
 
 Area/Sector | Objectives and Targets | Policy Measures/Programs
 --- | --- | ---
-linking them to the long and medium term targets for growth and poverty reduction; Carry out consultations at national state and local levels, with different stakeholders (legislators, the civil service, NGOs. private sector, academic community, donors) and at different stages of the preparation of the document as necessary At the final stage, hold validation consultations at national state and local levels and seek approval of the PRSP by the Government. Following the adoption, prepare plans for implementation, monitoring and evaluation .
+ |  | linking them to the long and medium term targets for growth and poverty reduction; Carry out consultations at national state and local levels, with different stakeholders (legislators, the civil service, NGOs. private sector, academic community, donors) and at different stages of the preparation of the document as necessary At the final stage, hold validation consultations at national state and local levels and seek approval of the PRSP by the Government. Following the adoption, prepare plans for implementation, monitoring and evaluation .
 
 -83-
 
@@ -2204,9 +2311,9 @@ The key challenges, strategies and policy measures, data and analysis that infor
 
 - Sudan Five-Year Plan (2007-2011).
 
-- Sudan External Debt Position, Central Bank of Sudan April 2010
-
 - IMF Article IV Consultations and Staff-Monitored Program Reports
+
+- Sudan External Debt Position, Central Bank of Sudan April 2010
 
 #### Poverty Diagnostics
 
@@ -2240,15 +2347,15 @@ The key challenges, strategies and policy measures, data and analysis that infor
 
 - Sudan Millennium Development Goals Progress Report, 2010
 
-- Health Sector Status Report, 2011
-
 - Ongoing Public Expenditure Tracking Survey (PETS) in the Health Sector
+
+- Health Sector Status Report, 2011
 
 - Sudan Households Health Utilization & Expenditure Survey in Northern States, 2011
 
-- National Health Accounts, 2008
-
 - Free Health Care for Under-Five Children and Pregnant Women in Sudan, 2010
+
+- National Health Accounts, 2008
 
 - Sudan Household Health Survey, 2006
 
@@ -2262,9 +2369,9 @@ The key challenges, strategies and policy measures, data and analysis that infor
 
 - IMF Article IV Consultation and Staff-Monitored Program Reports
 
-- Governors' Roundtable on the Economic Growth: Towards Strengthening National Reconciliation and Integration. Wau, May 3 - 4, 2009
-
 - Sudan Country Economic Memorandum (CEM), 2009
+
+- Governors' Roundtable on the Economic Growth: Towards Strengthening National Reconciliation and Integration. Wau, May 3 - 4, 2009
 
 - Governors of the States Roundtable Forum on the National Agenda for Economic Growth. Merowe - July 8-9, 2008.
 
@@ -2272,17 +2379,17 @@ The key challenges, strategies and policy measures, data and analysis that infor
 
 - Central Bank of Sudan annual reports
 
-- Sudan Investment Climate Assessment, 2009
-
 - Sudan Investment Encouragement Act, 1999, amended in 2003, amended in 2010.
+
+- Sudan Investment Climate Assessment, 2009
 
 - Drivers of Change: Sudanese Private Sector, 2007
 
 - Sudan Review of Administrative Barriers to Investment, 2006
 
-- Agriculture Green Mobilization Program (GMP)
-
 - Agriculture Revitalization Program (ARP)
+
+- Agriculture Green Mobilization Program (GMP)
 
 - Sudan Country Economic Memorandum (CEM), 2009
 
