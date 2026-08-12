@@ -21,12 +21,12 @@ Please indicate the stage of ratification process reached by your country and wh
 
 [[START OF PAGE 2]]
 
-Is the Convention directly applicable in your country 's domestic law ?
+Is the Convention directly applicable in your country 's domestic law ? | Yes
 ---
 Have courts, tribunals and/or administrative authorities adjudicated on issues or violations regarding the right to education [1]? [1] Judicial mechanisms play an important role in enforcing the right to education by ensuring legal accountability and therefore contributing to the practical realization of the right to education.
 Have the provisions of the Convention been invoked ?
 - Please cite the case law and jurisprudence. Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with the respect to the right to education.
-Please indicate whether the rights and principles laid out in the Convention/Recommendation informed the elaboration of
+Please indicate whether the rights and principles laid out in the Convention/Recommendation informed the elaboration of | Yes
 
 [[END OF PAGE 2]]
 
@@ -34,17 +34,17 @@ Please indicate whether the rights and principles laid out in the Convention/Rec
 
 the education legal and/or policy framework:
 --- | ---
-- If yes, please provide reference: | 1) Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319 -III. https://adilet.zan.kz/rus/docs/Z070000319_ 2) Закон Республики Казахстан от 8 августа 2002 года № 345 «О правах ребенка в Республике Казахстан» https://adilet.zan.kz/rus/docs/Z0 70000319_ 3) Закон Республики Казахстан от 26 июня 2021 года № 56 - VII ЗРК «О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам инклюзивного образования». URL: https://adilet.zan.kz/rus/docs/Z2100000056
+- If yes, please provide reference: | 1) Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319-III. https://adilet.zan.kz/rus/docs/Z070000319_ 2) Закон Республики Казахстан от 8 августа 2002 года № 345 «О правах ребенка в Республике Казахстан» https://adilet.zan.kz/rus/docs/Z070000319_ 3) Закон Республики Казахстан от 26 июня 2021 года № 56-VII ЗРК «О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам инклюзивного образования». URL: https://adilet.zan.kz/rus/docs/Z2100000056
 ## 1.1 Non-discrimination and equality in education
-Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SDG target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and | Yes
+Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SDG target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to “substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and | Yes
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-scientific programmes'. [Legal texts (Constitution, laws, decrees, regulations, circulars, etc.) prohibit discrimination and guarantee equal access to education]
+scientific programmes”. [Legal texts (Constitution, laws, decrees, regulations, circulars, etc.) prohibit discrimination and guarantee equal access to education]
 --- | ---
-1.1 Non-discrimination and equality in education Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SDG target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'. [Policies, programmes and | Yes
+1.1 Non-discrimination and equality in education Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SDG target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to “substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes”. [Policies, programmes and | Yes
 
 [[END OF PAGE 4]]
 
@@ -52,7 +52,7 @@ scientific programmes'. [Legal texts (Constitution, laws, decrees, regulations, 
 
 initiatives aim to prohibit and prevent discrimination and ensure equal access to education]
 --- | ---
-1.1 Non-discrimination and equality in education Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SDG target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'. [Combatting discrimination in terms of curriculum] | Yes
+1.1 Non-discrimination and equality in education Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SDG target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to “substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes”. [Combatting discrimination in terms of curriculum] | Yes
 
 [[END OF PAGE 5]]
 
@@ -72,8 +72,8 @@ Legal texts[1] prohibit discrimination and guarantee equal access to education: 
 regulations, circulars, etc. [In higher education]
 --- | ---
 Legal texts[1] prohibit discrimination and guarantee equal access to education: [1] Constitution, laws, decrees, regulations, circulars, etc. [In adult education and alternative learning] | Yes
-- Please indicate the relevant legal provisions: | Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319 -III.
-- Please list the prohibited grounds of discrimination in education as laid out in legal texts: | Статья 3. Основные принципы государственной политики в области образования: пункт 1 -1) "обеспечение равного доступа к образованию для всех граждан Республики Казахстан." Статья 24. Права и обязанности учащихся и студентов: Пункт 3 статья 24: • Обучающимся предоставляются равные права на получение качественного образования независимо от пола, расы, национальности, языка, социального происхождения, места жительства, состояния здоровья, религиозной принадлежности, убеждений, принадлежности к общественным объединениям, а также других обстоятельств.
+- Please indicate the relevant legal provisions: | Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319-III.
+- Please list the prohibited grounds of discrimination in education as laid out in legal texts: | Статья 3. Основные принципы государственной политики в области образования: пункт 1-1) "обеспечение равного доступа к образованию для всех граждан Республики Казахстан." Статья 24. Права и обязанности учащихся и студентов: Пункт 3 статья 24: • Обучающимся предоставляются равные права на получение качественного образования независимо от пола, расы, национальности, языка, социального происхождения, места жительства, состояния здоровья, религиозной принадлежности, убеждений, принадлежности к общественным объединениям, а также других обстоятельств.
 Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education: [In pre-primary education (including early learning and care)] | Yes
 Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education: [In primary education] | Yes
 
@@ -99,15 +99,15 @@ Yes
 
 - Please provide details:
 
-1) Концепция развития дошкольного, среднего, технического и профессионального образования Республики Казахстан на 2023 - 2029 годы (Постановление Правительства Республики Казахстан От 28 Марта 2023 Года № 249) 2) Концепция развития высшего образования и науки в Республике Казахстан на 2023 - 2029 годы (Постановление Правительства Республики Казахстан От 28 Марта 2023 Года № 248) 3) Типовые правила деятельности организаций дошкольного, начального, основного среднего, общего среднего,
+1) Концепция развития дошкольного, среднего, технического и профессионального образования Республики Казахстан на 2023 – 2029 годы (Постановление Правительства Республики Казахстан От 28 Марта 2023 Года № 249) 2) Концепция развития высшего образования и науки в Республике Казахстан на 2023 – 2029 годы (Постановление Правительства Республики Казахстан От 28 Марта 2023 Года № 248) 3) Типовые правила деятельности организаций дошкольного, начального, основного среднего, общего среднего,
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-технического и профессионального, послесреднего образования, специализированных, специальных, организациях образования для детей - сирот и детей, оставшихся без попечения родителей, организациях дополнительного образования для детей и взрослых Приказ Министра просвещения Республики Казахстан от 31 августа 2022 года № 385. Зарегистрирован в Министерстве юстиции Республики Казахстан 31 августа 2022 года № 29329
+технического и профессионального, послесреднего образования, специализированных, специальных, организациях образования для детей-сирот и детей, оставшихся без попечения родителей, организациях дополнительного образования для детей и взрослых Приказ Министра просвещения Республики Казахстан от 31 августа 2022 года № 385. Зарегистрирован в Министерстве юстиции Республики Казахстан 31 августа 2022 года № 29329
 
-Combatting discrimination in terms of curriculum: [In pre- primary education (including early learning and care)]
+Combatting discrimination in terms of curriculum: [In pre-primary education (including early learning and care)]
 
 Yes
 
@@ -133,9 +133,7 @@ Yes
 
 - Please provide details:
 
-1) государственные общеобязательные стандарты дошкольного воспитания и обучения, начального, основного среднего и общего среднего, технического и профессионального, послесреднего образования (Приказ Министра Просвещения Республики Казахстан От 3 Августа 2022 Года № 348) 2) HTTPS://ENIC -
-
-KAZAKHSTAN.EDU.KZ/EN/REGISTRY_EDUCATION_PROGRAMS
+1) государственные общеобязательные стандарты дошкольного воспитания и обучения, начального, основного среднего и общего среднего, технического и профессионального, послесреднего образования (Приказ Министра Просвещения Республики Казахстан От 3 Августа 2022 Года № 348) 2) HTTPS://ENIC-KAZAKHSTAN.EDU.KZ/EN/REGISTRY_EDUCATION_PROGRAMS
 
 [[END OF PAGE 9]]
 
@@ -153,8 +151,8 @@ Please indicate the actions taken/planned to ensure equality of opportunities (i
 
 measures: [Policy measures aim to enhance inclusion in education for all]
 --- | ---
-1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Teachers are trained on inclusive education | Yes
-and to value diversity ] 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Initiatives to address discrimination and | Yes
+1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Teachers are trained on inclusive education and to value diversity ] | Yes
+1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Initiatives to address discrimination and | Yes
 
 [[END OF PAGE 11]]
 
@@ -172,13 +170,13 @@ promote cultural diversity and mutual acceptance]
 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Multilingual and intercultural education is supported] | Yes
 --- | ---
 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Other]
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken: | Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319 -III. https://adilet.zan.kz/rus/docs/Z070000319_
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken: | Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319-III. https://adilet.zan.kz/rus/docs/Z070000319_
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-- In general, what challenges were encountered in the implementation of non- discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
+- In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
 --- | ---
 Other relevant general measures, including gender equality [Legislation provides for gender equality in education ] | Yes
 Other relevant general measures, including gender equality [Policy measures aim to enhance gender equality] | Yes
@@ -206,50 +204,50 @@ Other relevant general measures, including gender equality [Ensuring gender pari
 --- | ---
 Other relevant general measures, including gender equality [Ensuring gender parity in technical and vocational training education and training (TVET)] | Yes
 Other relevant general measures, including gender equality [Other]
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken: | 1) Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319 -III. https://adilet.zan.kz/rus/docs/Z070000319_ 2) Закон Республики Казахстан от 15 апреля 2024 года № 72 - VIII ЗРК «О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам обеспечения прав женщин и безопасности детей» URL: https://adilet.zan.kz/rus/docs/Z2400000072 3) Приказ санитарно - эпидемиологические требования к объектам образования" (приказ министра здравоохранения республики Казахстан от 5 августа 2021 года № қр дсм - 76. зарегистрирован в министерстве юстиции республики Казахстан 6 августа 2021 года № 23890) https://adilet.zan.kz/rus/docs/v2100023890 4) Pregnant women and young mothers are identical in their right to education to all other citizen categories.
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken: | 1) Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319-III. https://adilet.zan.kz/rus/docs/Z070000319_ 2) Закон Республики Казахстан от 15 апреля 2024 года № 72-VIII ЗРК «О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам обеспечения прав женщин и безопасности детей» URL: https://adilet.zan.kz/rus/docs/Z2400000072 3) Приказ санитарно-эпидемиологические требования к объектам образования" (приказ министра здравоохранения республики Казахстан от 5 августа 2021 года № қр дсм-76. зарегистрирован в министерстве юстиции республики Казахстан 6 августа 2021 года № 23890) https://adilet.zan.kz/rus/docs/v2100023890 4) Pregnant women and young mothers are identical in their right to education to all other citizen categories.
 What challenges were encountered in achieving gender equality in and through education? If needed, brief quantitative information may be added.
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
-Does the legal minimum age for marriage conform to international standards (18 years) [1]: Please note that child marriage is a discriminatory practice as often girls can marry at a younger age than boys. Child marriage violates the child's right to education as they are more likely to drop out of school and children who are not in school are more likely to get married. [1] Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: 'a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and | Yes
+Does the legal minimum age for marriage conform to international standards (18 years) [1]: Please note that child marriage is a discriminatory practice as often girls can marry at a younger age than boys. Child marriage violates the child’s right to education as they are more likely to drop out of school and children who are not in school are more likely to get married. [1] Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: “a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and | Yes
 --- | ---
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-on the evidence of maturity, without deference to culture and tradition.'
+on the evidence of maturity, without deference to culture and tradition.”
 --- | ---
-- Please provide reference to the relevant laws and provisions and indicate the exceptions to the legal age of marriage as well as the absolute minimum age: | 1) О браке (супружестве) и семье Кодекс Республики Казахстан от 26 декабря 2011 года № 518 IV. Статья 10. Брачный (супружеский) возраст 1. Брачный (супружеский) возраст устанавливается для мужчин и женщин в восемнадцать лет. 2. Регистрирующие органы по месту государственной регистрации заключения брака (супружества) снижают брачный (супружеский) возраст на срок не более двух лет при наличии следующих уважительных причин: 1) беременности; 2) рождении общего ребенка.
-National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures repor ted in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Legislation provides for the right to education of national minorities] | Yes
+- Please provide reference to the relevant laws and provisions and indicate the exceptions to the legal age of marriage as well as the absolute minimum age: | 1) О браке (супружестве) и семье Кодекс Республики Казахстан от 26 декабря 2011 года № 518-IV. Статья 10. Брачный (супружеский) возраст 1. Брачный (супружеский) возраст устанавливается для мужчин и женщин в восемнадцать лет. 2. Регистрирующие органы по месту государственной регистрации заключения брака (супружества) снижают брачный (супружеский) возраст на срок не более двух лет при наличии следующих уважительных причин: 1) беременности; 2) рождении общего ребенка.
+National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Legislation provides for the right to education of national minorities] | Yes
 National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For | Yes
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Policy measures aim to enhance the right to education of national minorities]
+'others', please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Policy measures aim to enhance the right to education of national minorities]
 --- | ---
-National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures repor ted in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Policy elaboration includes consultations with local communities] | Yes
+National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Policy elaboration includes consultations with local communities] | Yes
 National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation | Yes
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [The right to carry out their own educational activities is legally guaranteed for national minorities]
+provides for the rights of national minorities. For 'others', please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [The right to carry out their own educational activities is legally guaranteed for national minorities]
 --- | ---
-National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures repor ted in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Educational standards are established for educational institutions run by national minorities] | Yes
+National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Educational standards are established for educational institutions run by national minorities] | Yes
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures repor ted in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Positive or affirmative action measures are provided for national minorities] | Yes
+National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Positive or affirmative action measures are provided for national minorities] | Yes
 --- | ---
-National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures repor ted in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Financial incentives | Yes
+National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Financial incentives | Yes
 
 [[END OF PAGE 21]]
 
@@ -257,8 +255,8 @@ National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/
 
 and fellowships are provided for national minorities]
 --- | ---
-National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures repor ted in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Teachers are trained on intercultural education ] | Yes
-National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures repor ted in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, | Yes
+National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Teachers are trained on intercultural education ] | Yes
+National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, | Yes
 
 [[END OF PAGE 22]]
 
@@ -266,8 +264,8 @@ National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/
 
 2023. [Teachers are trained to combat stigmatisation]
 --- | ---
-National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures repor ted in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Multilingual and intercultural education are supported] | Yes
-National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against | Yes
+National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Multilingual and intercultural education are supported] | Yes
+National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against | Yes
 
 [[END OF PAGE 23]]
 
@@ -275,8 +273,8 @@ National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/
 
 Discrimination in Education, 2023. [Native language instruction is ensured for national minorities ]
 --- | ---
-National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures repor ted in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Adapting curricula and teaching and learning methods to their needs for national minorities] | Yes
-National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures repor ted in | Yes
+National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Adapting curricula and teaching and learning methods to their needs for national minorities] | Yes
+National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in | Yes
 
 [[END OF PAGE 24]]
 
@@ -284,8 +282,8 @@ National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/
 
 the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Curricula are rid of all stereotypes and bias]
 --- | ---
-National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures repor ted in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Other]
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken: | 1) Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319 -III. https://adilet.zan.kz/rus/docs/Z070000319_
+National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Other]
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken: | 1) Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319-III. https://adilet.zan.kz/rus/docs/Z070000319_
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
 [[END OF PAGE 25]]
@@ -313,32 +311,32 @@ Indigenous people: [Native language instruction is ensured] | Yes
 Indigenous people: [Adapting curricula and teaching and learning methods to their needs for indigenous people] | No
 Indigenous people: [Curricula are rid of all stereotypes and bias] | Yes
 Indigenous people: [Other]
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken: | 1) Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319 -III. https://adilet.zan.kz/rus/docs/Z070000319_ 2) Типовые правила приема на обучение в организации образования, реализующие образовательные программы высшего и послевузовского образования (Приказ Министра образования и науки Республики Казахстан от 31 октября 2018 года № 600).
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken: | 1) Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319-III. https://adilet.zan.kz/rus/docs/Z070000319_ 2) Типовые правила приема на обучение в организации образования, реализующие образовательные программы высшего и послевузовского образования (Приказ Министра образования и науки Республики Казахстан от 31 октября 2018 года № 600).
 - What challenges were encountered in realizing the right to education of indigenous people? If needed, brief quantitative information may be added.
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Legislation provides for their right to education] | Yes
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards’ (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Legislation provides for their right to education] | Yes
 --- | ---
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Policy measures aim to enhance their right to education ] | Yes
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards’ (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Policy measures aim to enhance their right to education ] | Yes
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Inclusion in mainstream schools is ensured] | Yes
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards’ (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Inclusion in mainstream schools is ensured] | Yes
 --- | ---
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Positive or affirmative action measures are provided for ] | Yes
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards’ (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Positive or affirmative action measures are provided for ] | Yes
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [All administrative barriers to access education are removed] | Yes
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards’ (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [All administrative barriers to access education are removed] | Yes
 --- | ---
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Alternative administrative procedures (placement tests, | Yes
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards’ (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Alternative administrative procedures (placement tests, | Yes
 
 [[END OF PAGE 30]]
 
@@ -346,8 +344,8 @@ People on the move (migrants, refugees, asylum-seekers, stateless persons and in
 
 portfolio of evidence, etc.) to overcome administrative barriers are provided for]
 --- | ---
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Teachers are specifically trained to ensure their inclusion ] | Yes
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate | Yes
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards’ (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Teachers are specifically trained to ensure their inclusion ] | Yes
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate | Yes
 
 [[END OF PAGE 31]]
 
@@ -355,8 +353,8 @@ People on the move (migrants, refugees, asylum-seekers, stateless persons and in
 
 displacement on the right to education, 2020, p. 2). [Teachers are trained to combat stigmatisation ]
 --- | ---
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Financial incentives and fellowships are provided for] | Yes
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate | Yes
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards’ (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Financial incentives and fellowships are provided for] | Yes
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate | Yes
 
 [[END OF PAGE 32]]
 
@@ -364,8 +362,8 @@ People on the move (migrants, refugees, asylum-seekers, stateless persons and in
 
 displacement on the right to education, 2020, p. 2). [Auxiliary assistance is provided]
 --- | ---
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Multiple and flexible learning pathways are provided] | Yes
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO | Yes
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards’ (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Multiple and flexible learning pathways are provided] | Yes
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards’ (UNESCO | Yes
 
 [[END OF PAGE 33]]
 
@@ -373,26 +371,26 @@ People on the move (migrants, refugees, asylum-seekers, stateless persons and in
 
 report: The impact of climate displacement on the right to education, 2020, p. 2). [Curricula are rid of all stereotypes and bias]
 --- | ---
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Accelerated learning programmes are provided] | Yes
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO | Yes
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards’ (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Accelerated learning programmes are provided] | Yes
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards’ (UNESCO | Yes
 
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
 
-report: The impact of climate displacement on the right to education, 2020, p. 2). [Non- formal and/or alternative education programmes are provided]
+report: The impact of climate displacement on the right to education, 2020, p. 2). [Non-formal and/or alternative education programmes are provided]
 --- | ---
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Language classes to newcomers are provided for] | Yes
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of | Yes
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards’ (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Language classes to newcomers are provided for] | Yes
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of | Yes
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
 
-climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Multilingualism and intercultural education are encouraged]
+climate hazards’ (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Multilingualism and intercultural education are encouraged]
 --- | ---
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Other]
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken: | 1) Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319 -III. https://adilet.zan.kz/rus/docs/Z070000319_
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards’ (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Other]
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken: | 1) Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319-III. https://adilet.zan.kz/rus/docs/Z070000319_
 - Have specific measures been adopted for climate displaced persons?
 - Please elaborate
 - What challenges were encountered in realizing the right to education of migrants,
@@ -422,7 +420,7 @@ People with disabilities: [Curricula and teaching and learning methods are adapt
 People with disabilities: [Curricula are rid of all stereotypes and bias] | Yes
 People with disabilities: [Education infrastructure and learning materials are adapted] | Yes
 People with disabilities: [Other]
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken: | 1) Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319 -III. https://adilet.zan.kz/rus/docs/Z070000319_ 2) Закон Республики Казахстан от 8 августа 2002 года № 345 «О правах ребенка в Республике Казахстан» https://adilet.zan.kz/rus/docs/Z0 70000319_ 3) Закон Республики Казахстан от 26 июня 2021 года № 56 - VII ЗРК «О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам инклюзивного образования». URL: https://adilet.zan.kz/rus/docs/Z2100000056
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken: | 1) Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319-III. https://adilet.zan.kz/rus/docs/Z070000319_ 2) Закон Республики Казахстан от 8 августа 2002 года № 345 «О правах ребенка в Республике Казахстан» https://adilet.zan.kz/rus/docs/Z070000319_ 3) Закон Республики Казахстан от 26 июня 2021 года № 56-VII ЗРК «О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам инклюзивного образования». URL: https://adilet.zan.kz/rus/docs/Z2100000056
 - What challenges were encountered in realizing the right to education of people with disabilities? If needed, brief quantitative information may be added.
 Students from poor households: [Financial incentives and fellowships for | No
 
@@ -437,7 +435,7 @@ Students from poor households: [Positive or affirmative action measures are prov
 Students from poor households: [Teachers are trained to combat stigmatisation ] | Yes
 Students from poor households: [Curricula are rid of all stereotypes and bias] | Yes
 Students from poor households: [Other]
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken: | Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319 -III
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken: | Закон Республики Казахстан «Об образовании» от 27 июля 2007 года № 319-III
 - What challenges were encountered in realizing the right to education of students from poor households? If needed, brief quantitative information may be added.
 
 [[END OF PAGE 39]]
@@ -445,22 +443,22 @@ Students from poor households: [Other]
 [[START OF PAGE 40]]
 
 ## 2.1 Early childhood care and education
-For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least on e year of free and compulsory pre- primary education'. - Please indicate the measures | Yes
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized “the right to education during early childhood as beginning at birth” (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to “the provision of at least one year of free and compulsory pre-primary education”. - Please indicate the measures | Yes
 --- | ---
 
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
 
-taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [Prior to pre -primary education, ECCE services are free]
+taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that “ECCE is part of the right to education and the main foundation for holistic human development”. [2] Which commits states to “Enhance policy and legal frameworks to ensure that the right to education includes ECCE” [Prior to pre-primary education, ECCE services are free]
 --- | ---
-2.1 Early childhood care and education For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for | Yes
+2.1 Early childhood care and education For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized “the right to education during early childhood as beginning at birth” (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for | Yes
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
 
-Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre- primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [Prior to pre -primary education, ECCE services are affordable]
+Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to “the provision of at least one year of free and compulsory pre-primary education”. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that “ECCE is part of the right to education and the main foundation for holistic human development”. [2] Which commits states to “Enhance policy and legal frameworks to ensure that the right to education includes ECCE” [Prior to pre-primary education, ECCE services are affordable]
 --- | ---
 2.1 Early childhood care and education For reference: Early childhood care and education (ECCE) is not explicitly | Yes
 
@@ -468,26 +466,26 @@ Action and Cooperation[1] and more recently, the Tashkent Declaration and Commit
 
 [[START OF PAGE 43]]
 
-provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre- primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of
+provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized “the right to education during early childhood as beginning at birth” (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to “the provision of at least one year of free and compulsory pre-primary education”. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that “ECCE is part of
 ---
 
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
 
-the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [ECCE services are accessible on a non- discriminatory basis]
+the right to education and the main foundation for holistic human development”. [2] Which commits states to “Enhance policy and legal frameworks to ensure that the right to education includes ECCE” [ECCE services are accessible on a non-discriminatory basis]
 --- | ---
-2.1 Early childhood care and education For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for | Yes
+2.1 Early childhood care and education For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized “the right to education during early childhood as beginning at birth” (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for | Yes
 
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
 
-Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'. -Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and leg al frameworks to ensure that the right to education includes ECCE' [ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.]
+Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to “the provision of at least one year of free and compulsory pre-primary education”. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that “ECCE is part of the right to education and the main foundation for holistic human development”. [2] Which commits states to “Enhance policy and legal frameworks to ensure that the right to education includes ECCE” [ECCE services respect a child’s need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.]
 
 - Please elaborate further on the measures taken:
 
-1)Об утверждении правил оказания государственных услуг в сфере дошкольного образования приказ министра образования и науки Республики Казахстан от 19 июня 2020 года № 254. зарегистрирован в министерстве юстиции республики казахстан 22 июня 2020 года № 2088 3.
+1)Об утверждении правил оказания государственных услуг в сфере дошкольного образования приказ министра образования и науки Республики Казахстан от 19 июня 2020 года № 254. зарегистрирован в министерстве юстиции республики казахстан 22 июня 2020 года № 20883.
 
 [[END OF PAGE 45]]
 
@@ -524,7 +522,7 @@ tuition fees) and indirect costs (e.g., schools supplies, uniforms, transport an
 - What challenges were encountered in realizing early childhood care and education and pre-primary education? [Other]
 - Please elaborate. Brief quantitative information may be added.
 ## 2.2 Primary and secondary education
-For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education - of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide “12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.”
 ### Primary education
 - Please | From the age of 6, year 1 to 4 is considered primary education
 
@@ -610,21 +608,10 @@ Yes
 
 employment is below that of compulsory education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
-- Please provide reference to the relevant laws and provisions and indicate how the provision is enforced:
-
-- What challenges were encountered in realizing secondary education? [Limited access]
-
-- What challenges were encountered in realizing secondary education? [Issues of equity and inclusion]
-
-- What challenges were encountered in realizing
-
-- Согласно статье 31 Трудового кодекса Республики Казахстан (№ 414 -V от 23 ноября 2015 года): · Минимальный возраст для трудоустройства составляет 16 лет, что позволяет подросткам заключать трудовой договор при завершении обязательного основного среднего образования. · С разрешения одного из родителей или опекуна можно начать работать с 15 лет, если работа не нарушает процесс обучения. · Лица в возрасте 14 лет могут выполнять легкие работы, не причиняющие вред здоровью, с согласия родителей и при условии, что работа не мешает их обучению.
-
-No
-
-No
-
-No Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked):   [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and
+- Please provide reference to the relevant laws and provisions and indicate how the provision is enforced: | 1) Согласно статье 31 Трудового кодекса Республики Казахстан (№ 414-V от 23 ноября 2015 года): • Минимальный возраст для трудоустройства составляет 16 лет, что позволяет подросткам заключать трудовой договор при завершении обязательного основного среднего образования. • С разрешения одного из родителей или опекуна можно начать работать с 15 лет, если работа не нарушает процесс обучения. • Лица в возрасте 14 лет могут выполнять легкие работы, не причиняющие вред здоровью, с согласия родителей и при условии, что работа не мешает их обучению.
+- What challenges were encountered in realizing secondary education? [Limited access] | No
+- What challenges were encountered in realizing secondary education? [Issues of equity and inclusion] | No
+- What challenges were encountered in realizing | No
 
 [[END OF PAGE 54]]
 
@@ -637,7 +624,7 @@ secondary education? [High dropout rates ]
 - What challenges were encountered in realizing secondary education? [Low readiness of primary graduates ] | No
 - What challenges were encountered in realizing secondary education? [Low number of professionally trained teachers] | No
 - What challenges were encountered in realizing secondary education? [Other]
-- Please elaborate. Brief quantitative information be added. | may
+- Please elaborate. Brief quantitative information may be added.
 ## 2.3 Higher education
 For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. | No
 
@@ -652,7 +639,7 @@ Ensuring higher education is essential to achieve SDG4, both targets 4.3[1], and
 
 [[START OF PAGE 57]]
 
-technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepr eneurship'. [Higher education is free of charge]
+technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is free of charge]
 --- | ---
 2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free | Yes
 
@@ -660,7 +647,7 @@ technical, vocational and tertiary education, including university'. [2] Which r
 
 [[START OF PAGE 58]]
 
-education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Whi ch recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible on the basis of individual capacity (as assessed by reference to relevant qualifications and experience)]
+education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible on the basis of individual capacity (as assessed by reference to relevant qualifications and experience)]
 ---
 
 [[END OF PAGE 58]]
@@ -683,7 +670,7 @@ Yes
 
 [[START OF PAGE 61]]
 
-(this page came through the extractor with no text)
+Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and
 
 [[END OF PAGE 61]]
 
@@ -748,7 +735,7 @@ particular by the progressive introduction of free education'. Higher education 
 - What challenges were encountered in realizing higher education? [Other]
 - Please elaborate. Brief quantitative information may be added.
 ## 2.4 Adult education and alternative learning
-For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increas e and diversify learning opportunities, using a wide range of education and training modalities, so that all | No
+For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all | No
 
 [[END OF PAGE 68]]
 
@@ -756,7 +743,7 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of education for persons who have not received or completed the whole period of their primary education]
 ---
-2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, No
+2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, | No
 
 [[END OF PAGE 69]]
 
@@ -795,7 +782,7 @@ reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for 
 
 professional training including reskilling and upskilling programmes]
 ---
-2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increas e and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a No
+2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a | No
 
 [[END OF PAGE 74]]
 
@@ -811,7 +798,7 @@ system of continuing education and equitable access to learning and training opp
 
 girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of free of charge career guidance and counselling ]
 --- | ---
-2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increas e and diversify learning | Yes
+2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning | Yes
 
 [[END OF PAGE 76]]
 
@@ -826,18 +813,10 @@ opportunities, using a wide range of education and training modalities, so that 
 [[START OF PAGE 78]]
 
 and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Other]
-
-- Please elaborate further on the measures taken:
-
-- What challenges were encountered in realizing adult learning and education? [Limited access]
-
-- What challenges were encountered in realizing adult
-
-1) Правила организации и проведения курсов повышения квалификации педагогов, а также посткурсового сопровождения деятельности педагога (Приказ Министра просвещения Республики Казахстан от 3 октября 2022 года № 415): Пункт 10. Педагог в целях непрерывного совершенствования своего профессионального мастерства, исследовательского, интеллектуального и творческого уровня имеет равные возможности проходить курсы повышения квалификации как за счет государственного заказа, так и за счет других источников.
-
-No
-
-No personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Other]
+--- | ---
+- Please elaborate further on the measures taken: | 1) Правила организации и проведения курсов повышения квалификации педагогов, а также посткурсового сопровождения деятельности педагога (Приказ Министра просвещения Республики Казахстан от 3 октября 2022 года № 415): Пункт 10. Педагог в целях непрерывного совершенствования своего профессионального мастерства, исследовательского, интеллектуального и творческого уровня имеет равные возможности проходить курсы повышения квалификации как за счет государственного заказа, так и за счет других источников.
+- What challenges were encountered in realizing adult learning and education? [Limited access] | No
+- What challenges were encountered in realizing adult | No
 
 [[END OF PAGE 78]]
 
@@ -880,8 +859,8 @@ education standards for the establishment and functioning of public education in
 
 3.1 General measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Other]
 --- | ---
-- Please elaborate on each of the measures taken: | 1) Государственные общеобязательные стандарты дошкольного воспитания и обучения, начального, основного среднего и общего среднего, технического и профессионального, послесреднего образования 2) Приказ министра просвещения республики Казахстан от 3 августа 2022 года № 348. зарегистрирован в министерстве юстиции республики Казахстан 5 августа 2022 года № 29031. 3) Приказ Санитарно - Эпидемиологические Требования К Объектам Образования" (Приказ Министра Здравоохранения Республики Казахстан От 5 Августа 2021 Года № Қр Дсм - 76. Зарегистрирован В Министерстве Юстиции Республики Казахстан 6 Августа 2021 Года № 23890) Https://Adilet.Zan.Kz/Rus/Docs/V2100023890 4) Об утверждении квалификационных требований, предъявляемых к образовательной деятельности, и перечня документов, подтверждающих соответствие им Приказ Министра образования и науки Республики Казахстан от 17 июня 2015 года № 391. Зарегистрирован в Министерстве юстиции Республики Казахстан 22 июля 2015 года № 11716.
-- What challenges were encountered in realizing quality education? [Non- supportive or inadequate learning environments] | No
+- Please elaborate on each of the measures taken: | 1) Государственные общеобязательные стандарты дошкольного воспитания и обучения, начального, основного среднего и общего среднего, технического и профессионального, послесреднего образования 2) Приказ министра просвещения республики Казахстан от 3 августа 2022 года № 348. зарегистрирован в министерстве юстиции республики Казахстан 5 августа 2022 года № 29031. 3) Приказ Санитарно-Эпидемиологические Требования К Объектам Образования" (Приказ Министра Здравоохранения Республики Казахстан От 5 Августа 2021 Года № Қр Дсм-76. Зарегистрирован В Министерстве Юстиции Республики Казахстан 6 Августа 2021 Года № 23890) Https://Adilet.Zan.Kz/Rus/Docs/V2100023890 4) Об утверждении квалификационных требований, предъявляемых к образовательной деятельности, и перечня документов, подтверждающих соответствие им Приказ Министра образования и науки Республики Казахстан от 17 июня 2015 года № 391. Зарегистрирован в Министерстве юстиции Республики Казахстан 22 июля 2015 года № 11716.
+- What challenges were encountered in realizing quality education? [Non-supportive or inadequate learning environments] | No
 - What challenges were encountered in realizing quality education? [Violence in schools] | No
 - What challenges were encountered in realizing | No
 
@@ -906,7 +885,7 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
 personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Teacher training is provided without discrimination.]
 --- | ---
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substa ntially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and | Yes
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and | Yes
 
 [[END OF PAGE 84]]
 
@@ -914,7 +893,7 @@ personnel. This corresponds to SDG target 4.c which is entirely devoted to the t
 
 working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).]
 --- | ---
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substa ntially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may | Yes
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may | Yes
 
 [[END OF PAGE 85]]
 
@@ -922,7 +901,7 @@ working conditions of education personnel, especially teaching staff at all leve
 
 be ticked): [Initial training and continuous professional development are provided.]
 --- | ---
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substa ntially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Minimum standards and qualifications required for the teaching profession.] | Yes
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Minimum standards and qualifications required for the teaching profession.] | Yes
 3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education | Yes
 
 [[END OF PAGE 86]]
@@ -931,7 +910,7 @@ be ticked): [Initial training and continuous professional development are provid
 
 personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Measures taken to strengthen the social status and attractiveness of the teaching profession.]
 --- | ---
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substa ntially increase the supply of qualified teachers'. - Please indicate the measures taken to | Yes
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to | Yes
 
 [[END OF PAGE 87]]
 
@@ -939,7 +918,7 @@ personnel. This corresponds to SDG target 4.c which is entirely devoted to the t
 
 improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Measures taken to promote diversity in the teaching workforce, including to redress gender imbalances at different levels of education.]
 --- | ---
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substa ntially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching | Yes
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching | Yes
 
 [[END OF PAGE 88]]
 
@@ -947,24 +926,18 @@ improve the teaching and working conditions of education personnel, especially t
 
 profession (several items may be ticked): [Establishment of performance monitoring systems.]
 --- | ---
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substa ntially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Measures taken to increase women in leadership positions in education.] | Yes
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Measures taken to increase women in leadership positions in education.] | Yes
 3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education
 
 [[END OF PAGE 89]]
 
 [[START OF PAGE 90]]
 
-- Please elaborate on each of the measures taken:
-
-- What challenges were encountered in the education personnel? [Shortages of teaching staff]
-
-- What challenges were encountered in the education personnel? [Lack of qualified, trained and motivated teaching staff]
-
-1) Закон Республики Казахстан от 27 декабря 2019 года № 293 -VІ ЗРК. О статусе педагога 2) Трудовой кодекс Республики Казахстан Кодекс Республики Казахстан от 23 ноября 2015 года № 414 -V ЗРК. 3) Об утверждении Типовых квалификационных характеристик должностей педагогов Приказ Министра образования и науки Республики Казахстан от 13 июля 2009 года № 338. Зарегистрирован в Министерстве юстиции Республики Казахстан 17 августа 2009 года № 5750.
-
-No
-
-No freedoms (several items may be ticked): [1] Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and nonviolence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'. [Other]
+personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Other]
+--- | ---
+- Please elaborate on each of the measures taken: | 1) Закон Республики Казахстан от 27 декабря 2019 года № 293-VІ ЗРК. О статусе педагога 2) Трудовой кодекс Республики Казахстан Кодекс Республики Казахстан от 23 ноября 2015 года № 414-V ЗРК. 3) Об утверждении Типовых квалификационных характеристик должностей педагогов Приказ Министра образования и науки Республики Казахстан от 13 июля 2009 года № 338. Зарегистрирован в Министерстве юстиции Республики Казахстан 17 августа 2009 года № 5750.
+- What challenges were encountered in the education personnel? [Shortages of teaching staff] | No
+- What challenges were encountered in the education personnel? [Lack of qualified, trained and motivated teaching staff] | No
 
 [[END OF PAGE 90]]
 
@@ -973,8 +946,8 @@ No freedoms (several items may be ticked): [1] Which calls on states to 'ensure 
 - What challenges were encountered in the education personnel? [Lack of training centres] | No
 --- | ---
 - What challenges were encountered in the education personnel? [Low quality educational infrastructure and materials] | No
-- What challenges were encountered in the education personnel? [High student - teacher ratio] | No
-- Please elaborate. Brief quantitative information be added. | may
+- What challenges were encountered in the education personnel? [High student – teacher ratio] | No
+- Please elaborate. Brief quantitative information may be added.
 ## 3.3 Respect for human rights and fundamental freedoms
 For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.[1] Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the | Yes
 
@@ -982,7 +955,7 @@ For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provid
 
 [[START OF PAGE 92]]
 
-Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on […. ] will be used specifically for monitoring SDG4 indicator 4.7.1. - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked): [1] Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-
+Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1. - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked): [1] Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-
 ---
 
 [[END OF PAGE 92]]
@@ -997,7 +970,7 @@ violence, global citizenship and appreciation of cultural diversity and of cultu
 
 [[START OF PAGE 94]]
 
-[….] will be used specifically for monitoring SDG4 indicator 4.7.1. - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked): [1] Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non- violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'. [Educational and/or extracurricular activities are organized on human rights education.]
+[….] will be used specifically for monitoring SDG4 indicator 4.7.1. - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked): [1] Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'. [Educational and/or extracurricular activities are organized on human rights education.]
 ---
 3.3 Respect for human rights and fundamental freedoms
 
@@ -1012,14 +985,11 @@ For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provid
 
 [[START OF PAGE 96]]
 
-- Please elaborate on each of the measures taken:
-
+freedoms (several items may be ticked): [1] Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'. [Other]
+--- | ---
+- Please elaborate on each of the measures taken: | 1) об утверждении государственных общеобязательных стандартов дошкольного воспитания и обучения, начального, основного среднего и общего среднего, технического и профессионального, послесреднего образования приказ министра просвещения республики казахстан от 3 августа 2022 года № 348. зарегистрирован в министерстве юстиции республики казахстан 5 августа 2022 года № 29031.
 ## 3.4 Non-state actors in education
-For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. Please indicate the measures taken to ensure the provision
-
-1) об утверждении государственных общеобязательных стандартов дошкольного воспитания и обучения, начального, основного среднего и общего среднего, технического и профессионального, послесреднего образования приказ министра просвещения республики казахстан от 3 августа 2022 года № 348. зарегистрирован в министерстве юстиции республики казахстан 5 августа 2022 года № 29031.
-
-Yes challenges in terms of quality education and inclusion[1]. Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [A wellestablished, sustainable, and cost-effective budget secured from a range of funding sources and intersectoral cooperation, supported by impact focused reporting linked to regional strategic goals.]
+For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision | Yes
 
 [[END OF PAGE 96]]
 
@@ -1033,7 +1003,7 @@ of quality non-state education (several items may be ticked): [1] Private, faith
 
 [[START OF PAGE 98]]
 
-3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1] Private, faith-based, NGOs, community actors. [Policies aim to guarantee that the development of non-state education does not generate discrimination and that non- state actors offer a relevant alternative (without supplanting public education). | Yes
+3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1] Private, faith-based, NGOs, community actors. [Policies aim to guarantee that the development of non-state education does not generate discrimination and that non-state actors offer a relevant alternative (without supplanting public education). Please specify:] | Yes
 --- | ---
 3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): | 1) об утверждении государственных общеобязательных стандартов дошкольного воспитания и обучения, начального, основного среднего и общего среднего, технического и профессионального, послесреднего образования приказ министра просвещения республики казахстан от 3 августа 2022 года № 348. зарегистрирован в министерстве юстиции республики казахстан 5 августа 2022 года № 29031.
 
@@ -1041,16 +1011,16 @@ of quality non-state education (several items may be ticked): [1] Private, faith
 
 [[START OF PAGE 99]]
 
-[1] Private, faith-based, NGOs, community actors. [Policies aim to guarantee that the development of non-state education does not generate discrimination and that non- state actors offer a relevant alternative (without supplanting public education). Please specify:][Comment]
+[1] Private, faith-based, NGOs, community actors. [Policies aim to guarantee that the development of non-state education does not generate discrimination and that non-state actors offer a relevant alternative (without supplanting public education). Please specify:][Comment]
 --- | ---
 3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1] Private, faith-based, NGOs, community actors. [Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:] | Yes
-3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and | 1) Кодекс Республики Казахстан от 26 декабря 2011 года № 518 - IV «О браке (супружестве) и семье»
+3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and | 1) Кодекс Республики Казахстан от 26 декабря 2011 года № 518-IV «О браке (супружестве) и семье»
 
 [[END OF PAGE 99]]
 
 [[START OF PAGE 100]]
 
-5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1] Private, faith-based, NGOs, community actors. [Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:][Comment] | https://online.zakon.kz/Document/?doc_id=31102748&doc_id2=31102748#activate_doc=2&pos=70;- 94&pos2=881;-57
+5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1] Private, faith-based, NGOs, community actors. [Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:][Comment] | https://online.zakon.kz/Document/?doc_id=31102748&doc_id2=31102748#activate_doc=2&pos=70;-94&pos2=881;-57
 --- | ---
 3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1] Private, faith-based, NGOs, community actors. [Legal or regulatory framework lays out the conditions and minimum | Yes
 
@@ -1067,7 +1037,7 @@ Legal or regulatory framework lays out the conditions and minimum education stan
 
 [[START OF PAGE 102]]
 
-institutions. Please specify what is covered: | [Registration]
+institutions. Please specify what is covered: [Registration]
 --- | ---
 Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered: [State monitoring and inspections] | Yes
 Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered: [Qualifications of teachers] | Yes
@@ -1086,7 +1056,7 @@ Legal or regulatory framework lays out the conditions and minimum education stan
 
 [[START OF PAGE 104]]
 
-Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered: [Student- teacher ratio] | No
+Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered: [Student-teacher ratio] | No
 --- | ---
 Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered: [School fees] | No
 Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered: [School closures] | Yes
@@ -1098,10 +1068,10 @@ Legal or regulatory framework lays out the conditions and minimum education stan
 
 institutions. Please specify what is covered: [Other]
 --- | ---
-- Please elaborate: | 1) Закон Республики Казахстан от 27 декабря 2019 года № 293 - VІ ЗРК. О статусе педагога 2) Трудовой кодекс Республики Казахстан Кодекс Республики Казахстан от 23 ноября 2015 года № 414 - V ЗРК. 3) Об утверждении Типовых квалификационных характеристик должностей педагогов Приказ Министра образования и науки Республики Казахстан от 13 июля 2009 года № 338. Зарегистрирован в Министерстве юстиции Республики Казахстан 17 августа 2009 года № 5750. 4) Об утверждении критериев оценки организаций образования Приказ Министра образования и науки Республики Казахстан от 2 февраля 2016 года № 124. Зарегистрирован в Министерстве юстиции Республики Казахстан 2 марта 2016 года № 13364
+- Please elaborate: | 1) Закон Республики Казахстан от 27 декабря 2019 года № 293-VІ ЗРК. О статусе педагога 2) Трудовой кодекс Республики Казахстан Кодекс Республики Казахстан от 23 ноября 2015 года № 414-V ЗРК. 3) Об утверждении Типовых квалификационных характеристик должностей педагогов Приказ Министра образования и науки Республики Казахстан от 13 июля 2009 года № 338. Зарегистрирован в Министерстве юстиции Республики Казахстан 17 августа 2009 года № 5750. 4) Об утверждении критериев оценки организаций образования Приказ Министра образования и науки Республики Казахстан от 2 февраля 2016 года № 124. Зарегистрирован в Министерстве юстиции Республики Казахстан 2 марта 2016 года № 13364
 - What challenges were encountered in non-state education provision? [Low quality educational infrastructure and materials] | No
 - What challenges were encountered in non-state education provision? [Low number of professionally trained teachers] | No
-- What challenges were encountered in non-state education provision? [High student - teacher ratio] | No
+- What challenges were encountered in non-state education provision? [High student – teacher ratio] | No
 - What challenges were encountered in non-state education provision? [Issues in terms of equity and inclusion] | No
 - What challenges were encountered in non-state | No
 
@@ -1109,10 +1079,10 @@ institutions. Please specify what is covered: [Other]
 
 [[START OF PAGE 106]]
 
-education provision? [Weak government regulatory and | monitoring capacity ]
+education provision? [Weak government regulatory and monitoring capacity ]
 --- | ---
 - What challenges were encountered in non-state education provision? [Other]
-- Please elaborate. Brief quantitative information be added. | may
+- Please elaborate. Brief quantitative information may be added.
 ## 3.5 Digital education
 Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Digital technology use in education is provided for in the legal framework.] | Yes
 3.5 Digital education Digital education is both an | Yes
@@ -1137,7 +1107,7 @@ Please indicate the measures taken to ensure the provision of quality digital ed
 
 [[START OF PAGE 109]]
 
-environment. [Measures to remove barriers to accessing digital content , including ensuring access to curriculum- aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.]
+environment. [Measures to remove barriers to accessing digital content , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.]
 --- | ---
 3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Digital skills incorporated into pre- and in- | No
 
@@ -1161,79 +1131,21 @@ service teacher and leadership training curricula to create a culture of digital
 
 [[START OF PAGE 112]]
 
-- Please elaborate on each of the measures taken:
-
+challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [A well-established, sustainable, and cost-effective budget secured from a range of funding sources and intersectoral cooperation, supported by impact focused reporting linked to regional strategic goals.]
+--- | ---
+- Please elaborate on each of the measures taken: | Приказ Министра просвещения Республики Казахстан от 9 сентября 2024 года № 261 Об утверждении Карты цифровой трансформации государственного управления в сфере дошкольного, среднего, технического, профессионального и послесреднего, специального, дополнительного образования, охраны прав детей на 2024-2028 годы https://online.zakon.kz/Document/?doc_id=39662076#pos=3;-88.5
 Digital technology use in education is provided for in the legal framework. - Please indicate the relevant text and provisions:
-
-Приказ Министра просвещения Республики Казахстан от 9 сентября 2024 года № 261 Об утверждении Карты цифровой трансформации государственного управления в сфере дошкольного, среднего, технического, профессионального и послесреднего, специального, дополнительного образования, охраны прав детей на 2024 -2028 годы https://online.zakon.kz/Document/?doc_id=39662076#pos=3;-88.5
 
 [[END OF PAGE 112]]
 
 [[START OF PAGE 113]]
 
-- What challenges were
-
-encountered in digital
-
-education provision (check all
-
-that apply)? [Lack of quality,
-
-curriculum-aligned digital
-
-teaching and learning content
-
-that supports flexible learning
-
-and teaching pathways]
-
-No
-
-- What challenges were encountered in digital education provision (check all that apply)? [Lack of equity and inclusion in digital learning solutions]
-
-No
-
-- What challenges were encountered in digital education provision (check all that apply)? [Inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks]
-
-No
-
-- What challenges were encountered in digital education provision (check all that apply)? [Limited access to internet and/or electricity] No
-
-- What challenges were encountered in digital education provision (check all that apply)? [Limited access
-
-No
-
-- What challenges were
-
-encountered in digital
-
-education provision (check all
-
-that apply)? [Lack of quality,
-
-curriculum-aligned digital
-
-teaching and learning content
-
-that supports flexible learning
-
-and teaching pathways]
-
-No
-
-- What challenges were encountered in digital education provision (check all that apply)? [Lack of equity and inclusion in digital learning solutions]
-
-No
-
-- What challenges were encountered in digital education provision (check all that apply)? [Inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks]
-
-No
-
-- What challenges were encountered in digital education provision (check all that apply)? [Limited access to internet and/or electricity] No
-
-- What challenges were encountered in digital education provision (check all that apply)? [Limited access
-
-No
+- What challenges were encountered in digital education provision (check all that apply)? [Lack of quality, curriculum-aligned digital teaching and learning content that supports flexible learning and teaching pathways] | No
+--- | ---
+- What challenges were encountered in digital education provision (check all that apply)? [Lack of equity and inclusion in digital learning solutions] | No
+- What challenges were encountered in digital education provision (check all that apply)? [Inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks] | No
+- What challenges were encountered in digital education provision (check all that apply)? [Limited access to internet and/or electricity] | No
+- What challenges were encountered in digital education provision (check all that apply)? [Limited access | No
 
 [[END OF PAGE 113]]
 
@@ -1297,7 +1209,7 @@ Monitoring results are made public. Please provide the link:
 
 [[START OF PAGE 118]]
 
-- What challenges were encountered in terms of governance? [Lack or weakness of monitoring systems - including the lack of reliable data] | No
+- What challenges were encountered in terms of governance? [Lack or weakness of monitoring systems – including the lack of reliable data] | No
 --- | ---
 - What challenges were encountered in terms of governance? [Other]
 - Please elaborate. Brief quantitative information may be added.
