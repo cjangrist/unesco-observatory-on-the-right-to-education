@@ -4,68 +4,6 @@ CONSTITUTION OF MALTA
 
 1
 
-Article
-
-- The Republic and its Territories.
-
-- Religion.
-
-- National Flag.
-
-- National Anthem.
-
-- Language.
-
-- Constitution to be supreme law.
-
-## CHAPTER II
-
-### Declaration of Principles
-
-- Right to work.
-
-- Promotion of culture, etc.
-
-- Safeguarding of landscape and historical and artistic patrimony.
-
-- Compulsory and free primary education.
-
-- Educational interest.
-
-- Protection of work.
-
-- Hours of work.
-
-- Rights of women workers.
-
-- Minimum age for paid labour.
-
-- Safeguarding labour of minors.
-
-- Social assistance and insurance.
-
-- Encouragement of private economic enterprise.
-
-- Protection of artisan trades.
-
-- Encouragement of co-operatives.
-
-- 20A. Participation of Maltese citizens living abroad.
-
-- Application of the principles contained in this Chapter.
-
-## CHAPTER III
-
-### Citizenship
-
-- Persons who become citizens on appointed day.
-
-- Persons entitled to be registered as citizens.
-
-- Persons naturalized or registered as resident before appointed day.
-
-- Acquisition of citizenship by birth or descent by persons born on or after
-
 # CONSTITUTION OF MALTA
 ## ARRANGEMENT OF ARTICLES
 
@@ -73,6 +11,67 @@ Article
 
 ### The Republic of Malta
 
+Article
+
+1. The Republic and its Territories.
+
+2. Religion.
+
+3. National Flag.
+
+4. National Anthem.
+
+5. Language.
+
+6. Constitution to be supreme law.
+
+## CHAPTER II
+
+### Declaration of Principles
+
+7. Right to work.
+
+8. Promotion of culture, etc.
+
+9. Safeguarding of landscape and historical and artistic patrimony.
+
+10. Compulsory and free primary education.
+
+11. Educational interest.
+
+12. Protection of work.
+
+13. Hours of work.
+
+14. Rights of women workers.
+
+15. Minimum age for paid labour.
+
+16. Safeguarding labour of minors.
+
+17. Social assistance and insurance.
+
+18. Encouragement of private economic enterprise.
+
+19. Protection of artisan trades.
+
+20. Encouragement of co-operatives.
+
+20A. Participation of Maltese citizens living abroad.
+
+21. Application of the principles contained in this Chapter.
+
+## CHAPTER III
+
+### Citizenship
+
+22. Persons who become citizens on appointed day.
+
+23. Persons entitled to be registered as citizens.
+
+24. Persons naturalized or registered as resident before appointed day.
+
+25. Acquisition of citizenship by birth or descent by persons born on or after
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -81,65 +80,65 @@ CONSTITUTION OF MALTA
 
 2
 
-- appointed day.
+appointed day.
 
-- Marriage to citizen of Malta.
+26. Marriage to citizen of Malta.
 
-- Dual citizenship.
+27. Dual citizenship.
 
-- Commonwealth citizens.
+28. Commonwealth citizens.
 
-- Criminal liability of Commonwealth citizens.
+29. Criminal liability of Commonwealth citizens.
 
-- Powers of Parliament.
+30. Powers of Parliament.
 
-- Interpretation.
+31. Interpretation.
 
 ## CHAPTER IV
 
 ### Fundamental Rights and Freedoms of the Individual
 
-- Fundamental rights and freedoms of the individual.
+32. Fundamental rights and freedoms of the individual.
 
-- Protection of right to life.
+33. Protection of right to life.
 
-- Protection from arbitrary arrest or detention.
+34. Protection from arbitrary arrest or detention.
 
-- Protection from forced labour.
+35. Protection from forced labour.
 
-- Protection from inhuman treatment.
+36. Protection from inhuman treatment.
 
-- Protection from deprivation of property without compensation.
+37. Protection from deprivation of property without compensation.
 
-- Protection for privacy of home or other property.
+38. Protection for privacy of home or other property.
 
-- Provisions to secure protection of law.
+39. Provisions to secure protection of law.
 
-- Protection of freedom of conscience and worship.
+40. Protection of freedom of conscience and worship.
 
-- Protection of freedom of expression.
+41. Protection of freedom of expression.
 
-- Protection of freedom of assembly and association.
+42. Protection of freedom of assembly and association.
 
-- Prohibition of deportation.
+43. Prohibition of deportation.
 
-- Protection of freedom of movement.
+44. Protection of freedom of movement.
 
-- Protection from discrimination on the grounds of race, etc.
+45. Protection from discrimination on the grounds of race, etc.
 
-- Enforcement of protective provisions.
+46. Enforcement of protective provisions.
 
-- Interpretation of Chapter IV.
+47. Interpretation of Chapter IV.
 
 ## CHAPTER V
 
 ### The President
 
-- Establishment of the office of President.
+48. Establishment of the office of President.
 
-- Discharge of President's functions during vacancy, etc.
+49. Discharge of President’s functions during vacancy, etc.
 
-- Oath to be taken by the President.
+50. Oath to be taken by the President.
 
 ## CHAPTER VI
 
@@ -149,8 +148,7 @@ CONSTITUTION OF MALTA
 
 ##### Composition of Parliament
 
-- Establishment of Parliament.
-
+51. Establishment of Parliament.
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -159,76 +157,75 @@ CONSTITUTION OF MALTA
 
 3
 
-- Composition of the House of Representatives.
+52. Composition of the House of Representatives.
 
-- Qualifications for membership of House of Representatives.
+53. Qualifications for membership of House of Representatives.
 
-- Disqualifications for membership of House of Representatives.
+54. Disqualifications for membership of House of Representatives.
 
-- Tenure of office of members.
+55. Tenure of office of members.
 
-- Voting at Elections.
+56. Voting at Elections.
 
-- Qualification of voters.
+57. Qualification of voters.
 
-- Disqualification of voters.
+58. Disqualification of voters.
 
-- Speaker and Deputy Speaker.
+59. Speaker and Deputy Speaker.
 
-- Establishment of Electoral Commission.
+60. Establishment of Electoral Commission.
 
-- Electoral divisions.
+61. Electoral divisions.
 
-- 61A. Gozo  and  the  islands  of  the  Maltese  Archipelago  other  than  the  Island  of Malta not to be divided
+61A. Gozo and the islands of the Maltese Archipelago other than the Island of Malta not to be divided
 
-- Filling of vacancies.
+62. Filling of vacancies.
 
-- Determination of questions as to membership.
+63. Determination of questions as to membership.
 
-- Clerk to House of Representatives and his staff.
+64. Clerk to House of Representatives and his staff.
 
-- 64A. Office of Ombudsman.
+64A. Office of Ombudsman.
 
 #### PART 2
 
 ##### Powers and Procedure of Parliament
 
-- Power to make laws.
+65. Power to make laws.
 
-- Alteration of this Constitution.
+66. Alteration of this Constitution.
 
-- Regulation of procedure in House of Representatives.
+67. Regulation of procedure in House of Representatives.
 
-- Oath to be taken by members of House of Representatives.
+68. Oath to be taken by members of House of Representatives.
 
-- Presiding in House of Representatives.
+69. Presiding in House of Representatives.
 
-- Quorum in House of Representatives.
+70. Quorum in House of Representatives.
 
-- Voting.
+71. Voting.
 
-- Mode of exercising legislative powers.
+72. Mode of exercising legislative powers.
 
-- Restriction with regard to certain financial measures.
+73. Restriction with regard to certain financial measures.
 
-- Language of Laws.
+74. Language of Laws.
 
 #### PART 3
 
 ##### Summoning, Prorogation and Dissolution
 
-- Sessions of Parliament.
+75. Sessions of Parliament.
 
-- Prorogation and dissolution of Parliament.
+76. Prorogation and dissolution of Parliament.
 
-- General elections.
+77. General elections.
 
 ## CHAPTER VII
 
 ### The Executive
 
-- Executive authority of Malta.
-
+78. Executive authority of Malta.
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
@@ -237,78 +234,77 @@ CONSTITUTION OF MALTA
 
 4
 
-- The Cabinet.
+79. The Cabinet.
 
-- Appointment of Ministers.
+80. Appointment of Ministers.
 
-- Tenure of office of Ministers.
+81. Tenure of office of Ministers.
 
-- Allocation of portfolios to Ministers.
+82. Allocation of portfolios to Ministers.
 
-- Acting Prime Minister.
+83. Acting Prime Minister.
 
-- Temporary Ministers.
+84. Temporary Ministers.
 
-- Exercise of functions of President.
+85. Exercise of functions of President.
 
-- Exercise of Prime Minister's functions.
+86. Exercise of Prime Minister’s functions.
 
-- President to be informed concerning matters of government.
+87. President to be informed concerning matters of government.
 
-- Parliamentary Secretaries.
+88. Parliamentary Secretaries.
 
-- Oath to be taken by Ministers.
+89. Oath to be taken by Ministers.
 
-- Leader of the Opposition.
+90. Leader of the Opposition.
 
-- Attorney General.
+91. Attorney General.
 
-- Permanent Secretaries and heads of government departments.
+92. Permanent Secretaries and heads of government departments.
 
-- Prerogative of mercy.
+93. Prerogative of mercy.
 
-- Secretary to the Cabinet.
+94. Secretary to the Cabinet.
 
 ## CHAPTER VIII
 
 ### The Judiciary
 
-- Superior Courts.
+95. Superior Courts.
 
-- Appointment of judges.
+96. Appointment of judges.
 
-- 96A. Judicial Appointments Committee.
+96A. Judicial Appointments Committee.
 
-- Tenure of office of judges.
+97. Tenure of office of judges.
 
-- Acting Chief Justice and acting judges.
+98. Acting Chief Justice and acting judges.
 
-- Inferior Courts.
+99. Inferior Courts.
 
-- Magistrates.
+100. Magistrates.
 
-- Oaths to be taken by judges and magistrates.
+101. Oaths to be taken by judges and magistrates.
 
-- 101A. Commission for the Administration of Justice.
+101A. Commission for the Administration of Justice.
 
 ## CHAPTER IX
 
 ### Finance
 
-- Consolidated Fund.
+102. Consolidated Fund.
 
-- Authorisation of expenditure from Consolidated Fund.
+103. Authorisation of expenditure from Consolidated Fund.
 
-- Authorisation of expenditure before appropriation.
+104. Authorisation of expenditure before appropriation.
 
-- Contingencies Fund.
+105. Contingencies Fund.
 
-- Public debt.
+106. Public debt.
 
-- Remuneration in respect of certain offices.
+107. Remuneration in respect of certain offices.
 
-- Auditor General.
-
+108. Auditor General.
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
@@ -317,61 +313,61 @@ CONSTITUTION OF MALTA
 
 5
 
-- 115A. Local Councils.
-
-### FIRST SCHEDULE
-
 ## CHAPTER X
 
 ### The Public Service
 
-- Public Service Commission.
+109. Public Service Commission.
 
-- Appointment, etc. of public officers.
+110. Appointment, etc. of public officers.
 
-- Principal representatives of Malta abroad.
+111. Principal representatives of Malta abroad.
 
-- Appointment on transfer in respect of certain offices.
+112. Appointment on transfer in respect of certain offices.
 
-- Protection of pension rights.
+113. Protection of pension rights.
 
-- Grant and withholding of pensions, etc.
+114. Grant and withholding of pensions, etc.
 
-- Protection of Public Service Commission from legal proceedings.
+115. Protection of Public Service Commission from legal proceedings.
 
 ## CHAPTER XA
 
 ### Local Councils
 
+115A. Local Councils.
+
 ## CHAPTER XI
 
 ### Miscellaneous
 
-- Actions on validity of laws.
+116. Actions on validity of laws.
 
-- Prohibition of certain associations.
+117. Prohibition of certain associations.
 
-- Broadcasting Authority.
+118. Broadcasting Authority.
 
-- Function of the Broadcasting Authority.
+119. Function of the Broadcasting Authority.
 
-- Employment Commission.
+120. Employment Commission.
 
-- Powers and procedure of Commissions.
+121. Powers and procedure of Commissions.
 
-- Resignations.
+122. Resignations.
 
-- Reappointments, etc.
+123. Reappointments, etc.
 
-- Interpretation.
+124. Interpretation.
 
 ## SCHEDULES TO THE CONSTITUTION
 
-### SECOND SCHEDULE: | Oaths Of Office
---- | ---
-### THIRD SCHEDULE: | Oath of Allegiance
-### FOURTH SCHEDULE: | List of Commonwealth Countries other than Malta
+### FIRST SCHEDULE
 
+### SECOND SCHEDULE: Oaths Of Office
+
+### THIRD SCHEDULE: Oath of Allegiance
+
+### FOURTH SCHEDULE: List of Commonwealth Countries other than Malta
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
@@ -380,41 +376,44 @@ CONSTITUTION OF MALTA
 
 6
 
-Substituted by: LVIII.1974.2.
-
-#### The Republic and its territories.
-Substituted by: LVIII.1974.3. Amended by: IV.1987.2.
-
 # CONSTITUTION OF MALTA
 
-The Malta Independence Order, 1964, as amended by Acts: XLI of 1965, XXXVII  of  1966,  IX  of  1967,  XXVI  of  1970,  XLVII  of  1972,  LVII, LVIII.1974, XXXVIII of 1976, X of 1977, XXIX of 1979, IV of 1987, XXIII of  1989;  Proclamations  Nos.  II  and  VI  of  1990;  Acts  XIX  of  1991,  IX  of 1994; Proclamations IV of 1995 and III of 1996; Acts: XI of 1996, XVII of 1997, III  of  2000,  XIII  of  2001,  V  of  2003,  XIV  and  XXI  of  2007,  XX  of 2011, VII and X of 2014,  XXIV of 2015, XLII of 2016, XLIV of 2016 and IV of 2018 , XXII of 2018 and III of 2019.
+The Malta Independence Order, 1964, as amended by Acts: XLI of 1965, XXXVII of 1966, IX of 1967, XXVI of 1970, XLVII of 1972, LVII, LVIII.1974, XXXVIII of 1976, X of 1977, XXIX of 1979, IV of 1987, XXIII of 1989; Proclamations Nos. II and VI of 1990; Acts XIX of 1991, IX of 1994; Proclamations IV of 1995 and III of 1996; Acts: XI of 1996, XVII of 1997, III of 2000, XIII of 2001, V of 2003, XIV and XXI of 2007, XX of 2011, VII and X of 2014, XXIV of 2015, XLII of 2016, XLIV of 2016 and IV of 2018, XXII of 2018 and III of 2019.
 
-21st September, 1964 *
+21st September, 1964*
 
 ## CHAPTER I
 
+Substituted by:
+LVIII.1974.2.
+
 ### The Republic of Malta
 
-(1) Malta is a democratic republic founded on work and on respect for the fundamental rights and freedoms of the individual.
+#### The Republic and its territories.
+Substituted by:
+LVIII.1974.3.
+Amended by:
+IV.1987.2.
 
-- The territories of Malta consist of those territories comprised in Malta immediately before the appointed day, including the territorial waters thereof, or of such territories and waters as Parliament may from time to time by law determine.
+1. (1) Malta is a democratic republic founded on work and on respect for the fundamental rights and freedoms of the individual.
 
-- Malta  is  a  neutral  state  actively  pursuing  peace,  security and social progress among all nations by adhering to a policy of non-alignment and refusing to participate in any military alliance. Such a status will, in particular, imply that:
+(2) The territories of Malta consist of those territories comprised in Malta immediately before the appointed day, including the territorial waters thereof, or of such territories and waters as Parliament may from time to time by law determine.
 
-( a ) no foreign military base will be permitted on Maltese territory;
+(3) Malta is a neutral state actively pursuing peace, security and social progress among all nations by adhering to a policy of non-alignment and refusing to participate in any military alliance. Such a status will, in particular, imply that:
 
-( b ) no  military  facilities  in  Malta  will  be  allowed  to  be used by any foreign forces except at the request of the Government of Malta, and only in the following cases:
+(a) no foreign military base will be permitted on Maltese territory;
 
-(i) in  the  exercise  of  the  inherent  right  of  selfdefence  in  the  event  of  any  armed  violation  of the  area  over  which  the  Republic  of  Malta  has sovereignty,  or  in  pursuance  of  measures  or actions  decided  by  the  Security  Council  of  the United Nations; or
+(b) no military facilities in Malta will be allowed to be used by any foreign forces except at the request of the Government of Malta, and only in the following cases:
+
+(i) in the exercise of the inherent right of self-defence in the event of any armed violation of the area over which the Republic of Malta has sovereignty, or in pursuance of measures or actions decided by the Security Council of the United Nations; or
 
 (ii) whenever there exists a threat to the sovereignty, independence, neutrality, unity or territorial integrity of the Republic of Malta;
 
-( c ) except as aforesaid, no other facilities in Malta will be allowed  to  be  used  in  such  manner  or  extent  as  will amount to the presence in Malta of a concentration of foreign forces;
+(c) except as aforesaid, no other facilities in Malta will be allowed to be used in such manner or extent as will amount to the presence in Malta of a concentration of foreign forces;
 
-( d ) except as aforesaid, no foreign military personnel will be  allowed  on  Maltese  territory,  other  than  military personnel performing, or assisting in the performance of, civil works or activities, and other than a
+(d) except as aforesaid, no foreign military personnel will be allowed on Maltese territory, other than military personnel performing, or assisting in the performance of, civil works or activities, and other than a
 
-* See The Malta Independence Order of the 2nd of September, 1964.
-
+*See The Malta Independence Order of the 2nd of September, 1964.
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
@@ -423,25 +422,36 @@ CONSTITUTION OF MALTA
 
 7
 
-reasonable  number  of  military  technical  personnel assisting in the defence of the Republic of Malta;
+reasonable number of military technical personnel assisting in the defence of the Republic of Malta;
 
-( e ) the shipyards of the Republic of Malta will be used for civil  commercial  purposes,  but  may  also  be  used, within  reasonable  limits  of  time  and  quantity,  for  the repair  of  military  vessels  which  have  been  put  in  a state of non-combat or for the construction of vessels; and in accordance with the principles of non-alignment the  said  shipyards  will  be  denied  to  the  military vessels of the two superpowers.
+(e) the shipyards of the Republic of Malta will be used for civil commercial purposes, but may also be used, within reasonable limits of time and quantity, for the repair of military vessels which have been put in a state of non-combat or for the construction of vessels; and in accordance with the principles of non-alignment the said shipyards will be denied to the military vessels of the two superpowers.
+
+#### Religion.
+Substituted by:
+LVIII.1974.4.
 
 2. (1) The religion of Malta is the Roman Catholic Apostolic Religion.
 
-(2) The  authorities  of  the  Roman  Catholic  Apostolic  Church have the duty and the right to teach which principles are right and which are wrong.
+(2) The authorities of the Roman Catholic Apostolic Church have the duty and the right to teach which principles are right and which are wrong.
 
 (3) Religious teaching of the Roman Catholic Apostolic Faith shall be provided in all State schools as part of compulsory education.
 
-3. (1) The  National  Flag  of  Malta  consists  of  two  equal vertical stripes, white in the hoist and red in the fly.
+#### National Flag.
+Substituted by LVIII.1974.5.
+
+3. (1) The National Flag of Malta consists of two equal vertical stripes, white in the hoist and red in the fly.
 
 (2) A representation of the George Cross awarded to Malta by His Majesty King George the Sixth on the 15th April, 1942 is carried, edged with red, in the canton of the white stripe.
 
-4. The National Anthem of Malta is "L-Innu Malti" opening with the words " Lil din l-Art ]elwa 1-Omm li tatna isimha ".
+#### National Anthem.
+
+4. The National Anthem of Malta is "L-Innu Malti" opening with the words "Lil din l-Art Ħelwa l-Omm li tatna isimha".
+
+#### Language.
 
 5. (1) The National language of Malta is the Maltese language.
 
-(2) The  Maltese  and  the  English  languages  and  such  other language as may be prescribed by Parliament (by a law passed by not less than two-thirds of all the members of the House of Representatives) shall be the official languages of Malta and the Administration may for all official purposes use any of such languages:
+(2) The Maltese and the English languages and such other language as may be prescribed by Parliament (by a law passed by not less than two-thirds of all the members of the House of Representatives) shall be the official languages of Malta and the Administration may for all official purposes use any of such languages:
 
 Provided that any person may address the Administration in any of the official languages and the reply of the Administration thereto shall be in such language.
 
@@ -449,18 +459,7 @@ Provided that any person may address the Administration in any of the official l
 
 Provided that Parliament may make such provision for the use of the English language in such cases and under such conditions as it may prescribe.
 
-(4) The  House  of  Representatives  may,  in  regulating  its  own procedure, determine the language or languages that shall be used in Parliamentary proceedings and records.
-
-#### Religion.
-Substituted by: LVIII.1974.4.
-
-#### National Flag .
-Substituted by LVIII.1974.5.
-
-#### National Anthem.
-
-#### Language.
-
+(4) The House of Representatives may, in regulating its own procedure, determine the language or languages that shall be used in Parliamentary proceedings and records.
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
@@ -470,30 +469,67 @@ CONSTITUTION OF MALTA
 8
 
 #### Constitution to be supreme law.
-Substituted by: LVII.1974.2; LVIII.1974.69. | 6. Subject to the provisions of sub-articles (7) and (9) of article 47 and of article 66 of this Constitution, if any other law is inconsistent with this Constitution, this Constitution shall prevail and the other law shall, to the extent of the inconsistency, be void.
---- | ---
-## CHAPTER II
-#### Right to work.
- | 7. The State recognises the right of all citizens to work and shall promote such conditions as will make this right effective.
-#### Promotion of culture, etc.
- | 8. The State shall promote the development of culture and scientific and technical research.
-#### Safeguarding of landscape and historical and artistic patrimony.
-Amended by: | 9. (1) The State shall safeguard the landscape and the historical and artistic patrimony of the Nation. (2) The State shall protect and conserve the environment and its
-#### Compulsory and free primary education.
- | 10. Primary education shall be compulsory and in State schools shall be free of charge.
-#### Educational interests.
- | 11. (1) Capable and deserving students, even if without financial resources, are entitled to attain the highest grades of education. (2) The State shall give effect to this principle by means of scholarships, of contributions to the families of students and other provisions on the basis of competitive examinations.
-#### Protection of work.
- | 12. (1) The State shall protect work. (2) It shall provide for the professional or vocational training and advancement of workers.
-#### Hours of work.
-#### Equal rights of
- | 13. (1) The maximum number of hours of work per day shall be fixed by law. (2) The worker is entitled to a weekly day of rest and to annual holidays with pay; he cannot renounce this right. 14. The State shall promote the equal right of men and women
-XIX.1991.2. | for this purpose shall take appropriate measures to eliminate all forms of discrimination between the sexes by any person, organisation or enterprise; the State shall in particular aim at ensuring that women workers enjoy equal rights and the same wages for the same work as men. 15. The minimum age for paid labour shall be prescribed
-#### Minimum age for paid labour.
- | by law.
-#### Safeguarding
- | 16. The State shall provide for safeguarding the labour of
+Substituted by:
+LVII.1974.2;
+LVIII.1974.69.
 
+6. Subject to the provisions of sub-articles (7) and (9) of article 47 and of article 66 of this Constitution, if any other law is inconsistent with this Constitution, this Constitution shall prevail and the other law shall, to the extent of the inconsistency, be void.
+
+## CHAPTER II
+
+### Declaration of Principles
+
+#### Right to work.
+
+7. The State recognises the right of all citizens to work and shall promote such conditions as will make this right effective.
+
+#### Promotion of culture, etc.
+
+8. The State shall promote the development of culture and scientific and technical research.
+
+#### Safeguarding of landscape and historical and artistic patrimony.
+Amended by:
+XXII.2018.2.
+
+9. (1) The State shall safeguard the landscape and the historical and artistic patrimony of the Nation.
+
+(2) The State shall protect and conserve the environment and its resources for the benefit of the present and future generations and shall take measures to address any form of environmental degradation in Malta, including that of air, water and land, and any sort of pollution problem and to promote, nurture and support the right of action in favour of the environment.
+
+#### Compulsory and free primary education.
+
+10. Primary education shall be compulsory and in State schools shall be free of charge.
+
+#### Educational interests.
+
+11. (1) Capable and deserving students, even if without financial resources, are entitled to attain the highest grades of education.
+
+(2) The State shall give effect to this principle by means of scholarships, of contributions to the families of students and other provisions on the basis of competitive examinations.
+
+#### Protection of work.
+
+12. (1) The State shall protect work.
+
+(2) It shall provide for the professional or vocational training and advancement of workers.
+
+#### Hours of work.
+
+13. (1) The maximum number of hours of work per day shall be fixed by law.
+
+(2) The worker is entitled to a weekly day of rest and to annual holidays with pay; he cannot renounce this right.
+
+#### Equal rights of men and women.
+Substituted by:
+XIX.1991.2.
+
+14. The State shall promote the equal right of men and women to enjoy all economic, social, cultural, civil and political rights and for this purpose shall take appropriate measures to eliminate all forms of discrimination between the sexes by any person, organisation or enterprise; the State shall in particular aim at ensuring that women workers enjoy equal rights and the same wages for the same work as men.
+
+#### Minimum age for paid labour.
+
+15. The minimum age for paid labour shall be prescribed by law.
+
+#### Safeguarding labour of minors.
+
+16. The State shall provide for safeguarding the labour of
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
@@ -504,57 +540,63 @@ CONSTITUTION OF MALTA
 
 minors and assure to them the right to equal pay for equal work.
 
-(1) Every citizen incapable of work and unprovided with the resources necessary for subsistence is entitled to maintenance and social assistance.
+#### Social assistance and insurance.
 
-- Workers are entitled to reasonable insurance on a contributory basis for their requirements in case of accident, illness, disability, old-age and involuntary unemployment.
+17. (1) Every citizen incapable of work and unprovided with the resources necessary for subsistence is entitled to maintenance and social assistance.
 
-- Disabled persons and persons incapable of work are entitled to education and vocational training.
+(2) Workers are entitled to reasonable insurance on a contributory basis for their requirements in case of accident, illness, disability, old-age and involuntary unemployment.
 
-- The State shall encourage private economic enterprise.
+(3) Disabled persons and persons incapable of work are entitled to education and vocational training.
 
-- The State shall provide for the protection and development of artisan trades.
+#### Encouragement of private economic enterprise.
 
-- The  State  recognises  the  social  function  of  co-operatives and shall encourage their development.
+18. The State shall encourage private economic enterprise.
 
-- 20A. The  State  shall  facilitate  the  participation  of  Maltese citizens who live abroad in the political, social, economic and cultural life of Malta.
+#### Protection of artisan trades.
 
-- The provisions of this Chapter shall not be enforceable in any court, but the principles therein contained are nevertheless fundamental to the governance of the country and it shall be the aim of the State to apply these principles in making laws.
+19. The State shall provide for the protection and development of artisan trades.
+
+#### Encouragement of co-operatives.
+
+20. The State recognises the social function of co-operatives and shall encourage their development.
+
+#### Participation of Maltese citizens living abroad.
+Added by:
+XX.2011.12.
+
+20A. The State shall facilitate the participation of Maltese citizens who live abroad in the political, social, economic and cultural life of Malta.
+
+#### Application of the principles contained in this Chapter.
+
+21. The provisions of this Chapter shall not be enforceable in any court, but the principles therein contained are nevertheless fundamental to the governance of the country and it shall be the aim of the State to apply these principles in making laws.
 
 ## CHAPTER III
 
 ### Citizenship
 
-(1) The  acquisition,  possession,  renunciation  and  loss  of Maltese citizenship shall be regulated by law.
-
-- Dual or multiple citizenship is permitted in accordance with any law for the time being in force in Malta.
-
-(1) Every person who under this Constitution or any Act of Parliament is a citizen of Malta or under any enactment for the time being in force in any country to which this article applies is a citizen of that country shall, by virtue of that citizenship, have the status of a Commonwealth citizen.
-
-- Every  person  who  is  a  British  subject  without  citizenship under the British Nationality Act, 1948 or who continues to be a British subject under article 2 of that Act shall by virtue of that status have the status of a Commonwealth citizen.
-
-- The countries to which this article applies are those listed in the Fourth Schedule to this Constitution.
-
-- The President may by Proclamation amend, add to, revoke or substitute the list of countries in the Fourth Schedule to this Constitution.
-
-#### Social assistance and insurance.
-
-#### Encouragement of private economic enterprise.
-
-#### Protection of artisan trades.
-
-#### Encouragement of co-operatives.
-
-#### Participation of Maltese citizens living abroad.
-Added by: XX.2011.12.
-
-#### Application of the principles contained in this Chapter.
-
 #### Citizenship regulated by law.
-Substituted by: III.2000.2.
+Substituted by:
+III.2000.2.
+
+22. (1) The acquisition, possession, renunciation and loss of Maltese citizenship shall be regulated by law.
+
+(2) Dual or multiple citizenship is permitted in accordance with any law for the time being in force in Malta.
 
 #### Commonwealth citizens.
-Amended by: XLI.1965.3; IX.1967; XXIII.1989.6. Renumbered by: III.2000.4.
+Amended by:
+XLI.1965.3;
+IX.1967;
+XXIII.1989.6.
+Renumbered by:
+III.2000.4.
 
+23. (1) Every person who under this Constitution or any Act of Parliament is a citizen of Malta or under any enactment for the time being in force in any country to which this article applies is a citizen of that country shall, by virtue of that citizenship, have the status of a Commonwealth citizen.
+
+(2) Every person who is a British subject without citizenship under the British Nationality Act, 1948 or who continues to be a British subject under article 2 of that Act shall by virtue of that status have the status of a Commonwealth citizen.
+
+(3) The countries to which this article applies are those listed in the Fourth Schedule to this Constitution.
+
+(4) The President may by Proclamation amend, add to, revoke or substitute the list of countries in the Fourth Schedule to this Constitution.
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
@@ -564,30 +606,16 @@ Amended by: XLI.1965.3; IX.1967; XXIII.1989.6. Renumbered by: III.2000.4.
 CONSTITUTION OF MALTA
 
 #### Criminal liability of Commonwealth citizens.
-Renumbered and amended by: III.2000.5.
-
-#### Acquisition of citizenship by birth persons born on or
-
-or descent by after appointed day. Substituted by: XXIII.1989.3.
-
-#### Marriage to citizen of Malta.
-Amended by: LVIII.1974.8. Substituted by: XXIII.1989.4.
-
-#### Dual citizenship.
-Amended by: XXXVII. 1966.2; LVIII.1974.9; XXIII.1989.5.
-
-#### Powers of Parliament.
-
-#### Interpretation.
-Amended by: LVIII.1974.10; X.1977.2; XXIII.1989.7.
+Renumbered and amended by:
+III.2000.5.
 
 24. (1) A Commonwealth citizen who is not a citizen of Malta or a citizen of the Republic of Ireland who is not a citizen of Malta shall not be guilty of an offence against any law in force in Malta by reason of anything done or omitted in any part of the Commonwealth other than Malta or in the Republic of Ireland or in any foreign country unless -
 
-( a ) the act or omission would be an offence if he were an alien; and
+(a) the act or omission would be an offence if he were an alien; and
 
-( b ) in  the  case  of  an  act  or  omission  in  any  part  of  the Commonwealth or in the Republic of Ireland, it would be an offence if the country in which the act was done or the omission made were a foreign country.
+(b) in the case of an act or omission in any part of the Commonwealth or in the Republic of Ireland, it would be an offence if the country in which the act was done or the omission made were a foreign country.
 
-- In this article -
+(2) In this article -
 
 "alien" means a person who is not a Commonwealth citizen, a British protected person or a citizen of the Republic of Ireland;
 
@@ -595,22 +623,45 @@ Amended by: LVIII.1974.10; X.1977.2; XXIII.1989.7.
 
 "foreign country" means a country (other than the Republic of Ireland) that is not a part of the Commonwealth.
 
-- Repealed by Act III of 2000.
+#### Acquisition of citizenship by birth or descent by persons born on or after appointed day.
+Substituted by:
+XXIII.1989.3.
 
-- Repealed by Act III of 2000.
+25. Repealed by Act III of 2000.
 
-- Repealed by Act III of 2000.
+#### Marriage to citizen of Malta.
+Amended by:
+LVIII.1974.8.
+Substituted by:
+XXIII.1989.4.
 
-- and 29. were renumbered by Act III of 2000.
+26. Repealed by Act III of 2000.
 
-- Repealed by Act III of 2000.
+#### Dual citizenship.
+Amended by:
+XXXVII. 1966.2;
+LVIII.1974.9;
+XXIII.1989.5.
 
-- Repealed by Act III of 2000.
+27. Repealed by Act III of 2000.
+
+28. and 29. were renumbered by Act III of 2000.
+
+#### Powers of Parliament.
+
+30. Repealed by Act III of 2000.
+
+#### Interpretation.
+Amended by:
+LVIII.1974.10;
+X.1977.2;
+XXIII.1989.7.
+
+31. Repealed by Act III of 2000.
 
 ## CHAPTER IV
 
 ### Fundamental Rights and Freedoms of the Individual
-
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
@@ -619,45 +670,45 @@ CONSTITUTION OF MALTA
 
 11
 
+#### Fundamental rights and freedoms of the individual.
+Amended by:
+X.2014.2.
+
 32. Whereas every person in Malta is entitled to the fundamental rights and freedoms of the individual, that is to say, the right, whatever his race, place of origin, political opinions, colour, creed, sex, sexual orientation or gender identity, but subject to respect for the rights and freedoms of others and for the public interest, to each and all of the following, namely -
 
-( a ) life,  liberty,  security  of  the  person,  the  enjoyment  of property and the protection of the law;
+(a) life, liberty, security of the person, the enjoyment of property and the protection of the law;
 
-( b ) freedom of conscience, of expression and of peaceful assembly and association; and
+(b) freedom of conscience, of expression and of peaceful assembly and association; and
 
-( c ) respect for his private and family life,
+(c) respect for his private and family life,
 
-the subsequent provisions of this Chapter shall have effect for the purpose of affording protection to the aforesaid rights and freedoms,  subject  to  such  limitations  of  that  protection  as  are contained in those provisions being limitations designed to ensure that the enjoyment  of the said rights  and  freedoms  by  any individual does not prejudice the rights and freedoms of others or the public interest.
-
-33. (1) No  person  shall  intentionally  be  deprived  of  his  life save in execution of the sentence of a court in respect of a criminal offence under the law of Malta of which he has been convicted.
-
-(2) Without prejudice to any liability for a contravention of any other law with respect to the use of force in such cases as are hereinafter mentioned, a person shall not be regarded as having been deprived of his life in contravention of this article if he dies as the result of the use of force to such extent as is reasonably justifiable in the circumstances of the case -
-
-( a ) for the defence of any person from violence or for the defence of property;
-
-( b ) in  order  to  effect  a  lawful  arrest  or  to  prevent  the escape of a person lawfully detained;
-
-( c ) for  the  purpose  of  suppressing  a  riot,  insurrection  or mutiny; or
-
-( d ) in order to prevent the commission by that person of a criminal offence,
-
-or if he dies as the result of a lawful act of war.
-
-34. (1) No  person  shall  be  deprived  of  his  personal  liberty save as may be authorised by law in the following cases, that is to say -
-
-( a ) in consequence of his unfitness to plead to a criminal charge;
-
-( b ) in  execution  of  the  sentence  or  order  of  a  court, whether in Malta or elsewhere, in respect of a criminal offence of which he has been convicted;
-
-( c ) in execution of the order of a court punishing him for contempt of that court or of another court or tribunal or in execution of the order of the House of Representatives  punishing  him  for  contempt  of  itself
-
-#### Fundamental rights and freedoms of the individual.
-Amended by: X.2014.2.
+the subsequent provisions of this Chapter shall have effect for the purpose of affording protection to the aforesaid rights and freedoms, subject to such limitations of that protection as are contained in those provisions being limitations designed to ensure that the enjoyment of the said rights and freedoms by any individual does not prejudice the rights and freedoms of others or the public interest.
 
 #### Protection of right to life.
 
+33. (1) No person shall intentionally be deprived of his life save in execution of the sentence of a court in respect of a criminal offence under the law of Malta of which he has been convicted.
+
+(2) Without prejudice to any liability for a contravention of any other law with respect to the use of force in such cases as are hereinafter mentioned, a person shall not be regarded as having been deprived of his life in contravention of this article if he dies as the result of the use of force to such extent as is reasonably justifiable in the circumstances of the case -
+
+(a) for the defence of any person from violence or for the defence of property;
+
+(b) in order to effect a lawful arrest or to prevent the escape of a person lawfully detained;
+
+(c) for the purpose of suppressing a riot, insurrection or mutiny; or
+
+(d) in order to prevent the commission by that person of a criminal offence,
+
+or if he dies as the result of a lawful act of war.
+
 #### Protection from arbitrary arrest or detention.
 
+34. (1) No person shall be deprived of his personal liberty save as may be authorised by law in the following cases, that is to say -
+
+(a) in consequence of his unfitness to plead to a criminal charge;
+
+(b) in execution of the sentence or order of a court, whether in Malta or elsewhere, in respect of a criminal offence of which he has been convicted;
+
+(c) in execution of the order of a court punishing him for contempt of that court or of another court or tribunal or in execution of the order of the House of Representatives punishing him for contempt of itself
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
@@ -668,32 +719,31 @@ CONSTITUTION OF MALTA
 
 or of its members or for breach of privilege;
 
-( d ) in execution of the order of a court made to secure the fulfilment of any obligation imposed on him by law;
+(d) in execution of the order of a court made to secure the fulfilment of any obligation imposed on him by law;
 
-( e ) for  the  purpose  of  bringing  him  before  a  court  in execution of the order of a court or before the House of Representatives  in execution  of the order of that House;
+(e) for the purpose of bringing him before a court in execution of the order of a court or before the House of Representatives in execution of the order of that House;
 
-( f ) upon reasonable suspicion of his having committed, or being about to commit, a criminal offence;
+(f) upon reasonable suspicion of his having committed, or being about to commit, a criminal offence;
 
-( g ) in the case of a person who has not attained the age of eighteen  years,  for  the  purpose  of  his  education  or welfare;
+(g) in the case of a person who has not attained the age of eighteen years, for the purpose of his education or welfare;
 
-( h ) for the purpose of preventing the spread of an infectious or contagious disease;
+(h) for the purpose of preventing the spread of an infectious or contagious disease;
 
-( i ) in  the  case  of  a  person  who  is,  or  is  reasonably suspected to be, of unsound mind, addicted to drugs or alcohol,  or  a  vagrant,  for  the  purpose  of  his  care  or treatment or the protection of the community; or
+(i) in the case of a person who is, or is reasonably suspected to be, of unsound mind, addicted to drugs or alcohol, or a vagrant, for the purpose of his care or treatment or the protection of the community; or
 
-( j ) for the purpose of preventing the unlawful entry of that person into Malta, or for the purpose of effecting the expulsion, extradition or other lawful removal of that person from Malta or the taking of proceedings relating  thereto  or  for  the  purpose  of  restraining  that person  while  he  is  being  conveyed  through  Malta  in the course of his extradition or removal as a convicted prisoner from one country to another.
+(j) for the purpose of preventing the unlawful entry of that person into Malta, or for the purpose of effecting the expulsion, extradition or other lawful removal of that person from Malta or the taking of proceedings relating thereto or for the purpose of restraining that person while he is being conveyed through Malta in the course of his extradition or removal as a convicted prisoner from one country to another.
 
-(2) Any person who is arrested or detained shall be informed at t h e   t i m e   o f   h i s   a r r e s t   o r   d e t e n t i o n ,   i n   a   l a n g u a g e   t h a t   h e understands, of the reasons for his arrest or detention:
+(2) Any person who is arrested or detained shall be informed at the time of his arrest or detention, in a language that he understands, of the reasons for his arrest or detention:
 
-Provided that if an interpreter is necessary and is not readily available or if it is otherwise impracticable to comply with the provisions of this sub-article at the time of the person's arrest or detention, such provisions shall be complied with as soon as practicable.
+Provided that if an interpreter is necessary and is not readily available or if it is otherwise impracticable to comply with the provisions of this sub-article at the time of the person’s arrest or detention, such provisions shall be complied with as soon as practicable.
 
-- Any person who is arrested or detained -
+(3) Any person who is arrested or detained -
 
-( a ) for  the  purpose  of  bringing  him  before  a  court  in execution of the order of a court; or
+(a) for the purpose of bringing him before a court in execution of the order of a court; or
 
-( b ) upon reasonable suspicion of his having committed, or being about to commit, a criminal offence,
+(b) upon reasonable suspicion of his having committed, or being about to commit, a criminal offence,
 
-and who is not released, shall be brought not later than forty-eight hours before a court; and if any person arrested or detained in such a  case  as  is  mentioned  in  paragraph  ( b )  of  this  sub-article  is  not tried  within  a  reasonable  time,  then,  without  prejudice  to  any further proceedings which may be brought against him, he shall be released  either  unconditionally  or  upon  reasonable  conditions, including in particular such conditions as are reasonably necessary to ensure that he appears at a later date for trial or for proceedings preliminary to trial.
-
+and who is not released, shall be brought not later than forty-eight hours before a court; and if any person arrested or detained in such a case as is mentioned in paragraph (b) of this sub-article is not tried within a reasonable time, then, without prejudice to any further proceedings which may be brought against him, he shall be released either unconditionally or upon reasonable conditions, including in particular such conditions as are reasonably necessary to ensure that he appears at a later date for trial or for proceedings preliminary to trial.
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
@@ -704,26 +754,25 @@ CONSTITUTION OF MALTA
 
 (4) Any person who is unlawfully arrested or detained by any other person shall be entitled to compensation therefor from that person.
 
-(5) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this article to the extent that the law in question authorises the taking during such a period of public emergency as is referred to in paragraph ( a ) or ( c ) of sub-article (2) of article 47 of this Constitution of measures that are reasonably justifiable for the purpose of dealing with the situation that exists during that period of public emergency.
+(5) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this article to the extent that the law in question authorises the taking during such a period of public emergency as is referred to in paragraph (a) or (c) of sub-article (2) of article 47 of this Constitution of measures that are reasonably justifiable for the purpose of dealing with the situation that exists during that period of public emergency.
 
-(6) If  any  person  who  is  lawfully  detained  by  virtue  only  of such a law as is referred to in the last foregoing sub-article so requests at any time during the period of that detention not earlier than six months after he last made such a request during that period, his case shall be reviewed by an independent and impartial tribunal established by law and composed of a person or persons each of whom holds or has held judicial office or is qualified to be appointed to such office in Malta.
+(6) If any person who is lawfully detained by virtue only of such a law as is referred to in the last foregoing sub-article so requests at any time during the period of that detention not earlier than six months after he last made such a request during that period, his case shall be reviewed by an independent and impartial tribunal established by law and composed of a person or persons each of whom holds or has held judicial office or is qualified to be appointed to such office in Malta.
 
-(7) On  any  review  by  a  tribunal  in  pursuance  of  the  last foregoing sub-article of the case of any detained person, the tribunal may make recommendations concerning the necessity or expediency of continuing his detention to the authority by whom it was ordered, but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
-
-35. (1) No person shall be required to perform forced labour.
-
-(2) For  the  purposes  of  this  article,  the  expression  "forced labour" does not include -
-
-( a ) any labour required in consequence of the sentence or order of a court;
-
-( b ) labour  required  of  any  person  while  he  is  lawfully detained  by  sentence  or  order  of  a  court  that,  though not required in consequence of such sentence or order, is  reasonably  necessary  in  the  interests  of  hygiene  or for  the  maintenance  of  the  place  at  which  he  is detained  or,  if  he  is  detained  for  the  purpose  of  his care,  treatment,  education  or  welfare,  is  reasonably required for that purpose;
-
-( c ) any labour required of a member of a disciplined force in pursuance of his duties as such or, in the case of a person who has conscientious objections to service as a member of a naval, military or air force, any labour that that person is required by law to perform in place of such service;
-
-( d ) any labour required during a period of public emergency or in the event of any other emergency or calamity  that  threatens  the  life  or  well-being  of  the community.
+(7) On any review by a tribunal in pursuance of the last foregoing sub-article of the case of any detained person, the tribunal may make recommendations concerning the necessity or expediency of continuing his detention to the authority by whom it was ordered, but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
 
 #### Protection from forced labour.
 
+35. (1) No person shall be required to perform forced labour.
+
+(2) For the purposes of this article, the expression "forced labour" does not include -
+
+(a) any labour required in consequence of the sentence or order of a court;
+
+(b) labour required of any person while he is lawfully detained by sentence or order of a court that, though not required in consequence of such sentence or order, is reasonably necessary in the interests of hygiene or for the maintenance of the place at which he is detained or, if he is detained for the purpose of his care, treatment, education or welfare, is reasonably required for that purpose;
+
+(c) any labour required of a member of a disciplined force in pursuance of his duties as such or, in the case of a person who has conscientious objections to service as a member of a naval, military or air force, any labour that that person is required by law to perform in place of such service;
+
+(d) any labour required during a period of public emergency or in the event of any other emergency or calamity that threatens the life or well-being of the community.
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
@@ -734,39 +783,39 @@ CONSTITUTION OF MALTA
 
 #### Protection from inhuman treatment.
 
-#### Protection from deprivation of property without compensation.
-Amended by: LVIII.1974.11.
-
 36. (1) No person shall be subjected to inhuman or degrading punishment or treatment.
 
 (2) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this article to the extent that the law in question authorises the infliction of any description of punishment which was lawful in Malta immediately before the appointed day.
 
-(3) ( a ) No  law  shall  provide  for  the  imposition  of  collective punishments.
+(3) (a) No law shall provide for the imposition of collective punishments.
 
-( b ) Nothing in this sub-article shall preclude the imposition of collective punishments upon the members of a disciplined force in accordance with the law regulating the discipline of that force.
+(b) Nothing in this sub-article shall preclude the imposition of collective punishments upon the members of a disciplined force in accordance with the law regulating the discipline of that force.
 
-37. (1) No property  of  any  description  shall  be  compulsorily taken possession of, and no interest in or right over property of any description shall be compulsorily acquired, except where provision i s   m ade  by  a  law applicable to that taking of possession or acquisition -
+#### Protection from deprivation of property without compensation.
+Amended by:
+LVIII.1974.11.
 
-( a ) for the payment of adequate compensation;
+37. (1) No property of any description shall be compulsorily taken possession of, and no interest in or right over property of any description shall be compulsorily acquired, except where provision is made by a law applicable to that taking of possession or acquisition -
 
-( b ) securing to any person claiming such compensation a right of access to an independent and impartial court or tribunal established by law for the purpose of determining  his  interest  in  or  right  over  the  property and the amount of any compensation to which he may be entitled, and for the purpose of obtaining payment of that compensation; and
+(a) for the payment of adequate compensation;
 
-( c ) securing  to  any  party  to  proceedings  in  that  court  or tribunal relating to such a claim a right of appeal from its determination to the Court of Appeal in Malta:
+(b) securing to any person claiming such compensation a right of access to an independent and impartial court or tribunal established by law for the purpose of determining his interest in or right over the property and the amount of any compensation to which he may be entitled, and for the purpose of obtaining payment of that compensation; and
+
+(c) securing to any party to proceedings in that court or tribunal relating to such a claim a right of appeal from its determination to the Court of Appeal in Malta:
 
 Provided that in special cases Parliament may, if it deems it appropriate so to act in the national interest, by law establish the criteria which are to be followed, including the factors and other circumstances to be taken into account, in the determination of the compensation payable in respect of property compulsorily taken possession of or acquired; and in any such case the compensation shall be determined and shall be payable accordingly.
 
-(2) Nothing  in  this  article  shall  be  construed  as  affecting  the making or operation of any law so far as it provides for the taking of possession or acquisition of property -
+(2) Nothing in this article shall be construed as affecting the making or operation of any law so far as it provides for the taking of possession or acquisition of property -
 
-( a ) in satisfaction of any tax, rate or due;
+(a) in satisfaction of any tax, rate or due;
 
-( b ) by way of penalty for, or as a consequence of, breach of the law, whether  under civil process or after conviction of a criminal offence;
+(b) by way of penalty for, or as a consequence of, breach of the law, whether under civil process or after conviction of a criminal offence;
 
-( c ) upon the attempted removal of the property out of or into Malta in contravention of any law;
+(c) upon the attempted removal of the property out of or into Malta in contravention of any law;
 
-( d ) by way of the taking of a sample for the purposes of any law;
+(d) by way of the taking of a sample for the purposes of any law;
 
-( e ) where  the  property  consists  of  an  animal  upon  its being found trespassing or straying;
-
+(e) where the property consists of an animal upon its being found trespassing or straying;
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
@@ -775,34 +824,33 @@ CONSTITUTION OF MALTA
 
 15
 
-( f ) as an incident of a lease, tenancy, licence, privilege or hypothec,  mortgage,  charge,  bill  of  sale,  pledge  or other contract;
+(f) as an incident of a lease, tenancy, licence, privilege or hypothec, mortgage, charge, bill of sale, pledge or other contract;
 
-( g ) by way of the vesting or administration of property on behalf and for the benefit of the person entitled to the beneficial interest therein, trust property, enemy property or the property of persons adjudged bankrupt or otherwise declared bankrupt or insolvent, persons of unsound mind, deceased persons, or bodies corporate or  unincorporate  in  the  course  of  being  wound  up  or liquidated;
+(g) by way of the vesting or administration of property on behalf and for the benefit of the person entitled to the beneficial interest therein, trust property, enemy property or the property of persons adjudged bankrupt or otherwise declared bankrupt or insolvent, persons of unsound mind, deceased persons, or bodies corporate or unincorporate in the course of being wound up or liquidated;
 
-( h ) in the execution of judgments or orders of courts;
+(h) in the execution of judgments or orders of courts;
 
-( i ) by reason of its being in a dangerous state or injurious to the health of human beings, animals or plants;
+(i) by reason of its being in a dangerous state or injurious to the health of human beings, animals or plants;
 
-( j ) in consequence of any law with respect to the limitation of actions, acquisitive prescription, derelict land, treasure trove, mortmain or the rights of succession competent to the Government of Malta; or
+(j) in consequence of any law with respect to the limitation of actions, acquisitive prescription, derelict land, treasure trove, mortmain or the rights of succession competent to the Government of Malta; or
 
-( k ) for so long only as may be necessary for the purposes of  any  examination,  investigation,  trial  or  inquiry  or, in the case of land, the carrying out thereon -
+(k) for so long only as may be necessary for the purposes of any examination, investigation, trial or inquiry or, in the case of land, the carrying out thereon -
 
-(i) of work of soil conservation or the conservation of  other  natural  resources  of  any  description  or of war damage reconstruction; or
+(i) of work of soil conservation or the conservation of other natural resources of any description or of war damage reconstruction; or
 
-(ii) of agricultural development or  improvement which the owner or occupier of the land has been required and has without reasonable and lawful excuse refused or failed to carry out.
+(ii) of agricultural development or improvement which the owner or occupier of the land has been required and has without reasonable and lawful excuse refused or failed to carry out.
 
-(3) Nothing  in  this  article  shall  be  construed  as  affecting  the making or operation of any law so far as it provides for vesting in the Government of Malta the ownership of any underground minerals, water or antiquities.
+(3) Nothing in this article shall be construed as affecting the making or operation of any law so far as it provides for vesting in the Government of Malta the ownership of any underground minerals, water or antiquities.
 
-(4) Nothing  in  this  article  shall  be  construed  as  affecting  the making or operation of any law for the compulsory taking of possession in the public interest of any property, or the compulsory acquisition in the public interest of any interest in or right over property, where that property, interest or right is held by a body corporate which is established for public purposes by any law and in which no monies have been invested other than monies provided by any legislature in Malta.
-
-38. (1) Except  with  his  own  consent  or  by  way  of  parental discipline, no person shall be subjected to the search of his person or his property or the entry by others on his premises.
-
-(2) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this article to the extent that the law in question makes provision -
-
-( a ) that  is  reasonably  required  in  the  interest  of  defence, public safety, public order, public morality or decency, public health, town and country planning, the
+(4) Nothing in this article shall be construed as affecting the making or operation of any law for the compulsory taking of possession in the public interest of any property, or the compulsory acquisition in the public interest of any interest in or right over property, where that property, interest or right is held by a body corporate which is established for public purposes by any law and in which no monies have been invested other than monies provided by any legislature in Malta.
 
 #### Protection for privacy of home or other property.
 
+38. (1) Except with his own consent or by way of parental discipline, no person shall be subjected to the search of his person or his property or the entry by others on his premises.
+
+(2) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this article to the extent that the law in question makes provision -
+
+(a) that is reasonably required in the interest of defence, public safety, public order, public morality or decency, public health, town and country planning, the
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
@@ -811,30 +859,29 @@ CONSTITUTION OF MALTA
 
 CONSTITUTION OF MALTA
 
+development and utilisation of mineral resources, or the development and utilisation of any property in such a manner as to promote the public benefit;
+
+(b) that is reasonably required for the purpose of promoting the rights or freedoms of other persons;
+
+(c) that authorises a department of the Government of Malta, or a local government authority, or a body corporate established by law for a public purpose, to enter on the premises of any person in order to inspect those premises or anything thereon for the purpose of any tax, rate or due or in order to carry out work connected with any property or installation which is lawfully on those premises and which belongs to that Government, that authority, or that body corporate, as the case may be; or
+
+(d) that authorises, for the purpose of enforcing a judgment or order of a court, the search of any person or property by order of a court or entry upon any premises by such order, or that is necessary for the purpose of preventing or detecting criminal offences,
+
+and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
+
 #### Provisions to secure protection of law.
 
-development  and  utilisation  of  mineral  resources,  or the  development  and  utilisation  of  any  property  in such a manner as to promote the public benefit;
-
-( b ) that is reasonably required for the purpose of promoting the rights or freedoms of other persons;
-
-( c ) that  authorises  a  department  of  the  Government  of Malta,  or  a  local  government  authority,  or  a  body corporate  established  by  law  for  a  public  purpose,  to enter on the premises of any person in order to inspect those premises or anything thereon for the purpose of any  tax,  rate  or  due  or  in  order  to  carry  out  work connected  with  any  property  or  installation  which  is lawfully on those premises and which belongs to that Government, that authority, or that body corporate, as the case may be; or
-
-( d ) that authorises, for the purpose of enforcing a judgment or order of a court, the search of any person or  property  by  order  of  a  court  or  entry  upon  any premises  by  such  order,  or  that  is  necessary  for  the purpose of preventing or detecting criminal offences,
-
-and except so far as that provision or, as the case may be, the thing done  under  the  authority  thereof  is  shown  not  to  be  reasonably justifiable in a democratic society.
-
-39. (1) Whenever  any  person  is  charged  with  a  criminal offence he shall, unless the charge is withdrawn, be afforded a fair hearing within a reasonable time by an independent and impartial court established by law.
+39. (1) Whenever any person is charged with a criminal offence he shall, unless the charge is withdrawn, be afforded a fair hearing within a reasonable time by an independent and impartial court established by law.
 
 (2) Any court or other adjudicating authority prescribed by law for the determination of the existence or the extent of civil rights or obligations shall be independent and impartial; and where proceedings for such a determination are instituted by any person before such a court or other adjudicating authority, the case shall be given a fair hearing within a reasonable time.
 
-(3) Except  with  the  agreement  of  all  the  parties  thereto,  all proceedings of every court and proceedings relating to the determination of the existence or the extent of a person's civil rights or obligations before any other adjudicating authority, including the announcement of the decision of the court or other authority, shall be held in public.
+(3) Except with the agreement of all the parties thereto, all proceedings of every court and proceedings relating to the determination of the existence or the extent of a person’s civil rights or obligations before any other adjudicating authority, including the announcement of the decision of the court or other authority, shall be held in public.
 
-(4) Nothing in sub-article  (3)  of  this  article  shall  prevent  any court or any authority such as is mentioned in that sub-article from excluding from the proceedings persons other than the parties thereto and their legal representatives -
+(4) Nothing in sub-article (3) of this article shall prevent any court or any authority such as is mentioned in that sub-article from excluding from the proceedings persons other than the parties thereto and their legal representatives -
 
-( a ) in proceedings before a court of voluntary jurisdiction and  other  proceedings  which,  in  the  practice  of  the Courts in Malta are, or are of the same nature as those which are, disposed of in chambers;
+(a) in proceedings before a court of voluntary jurisdiction and other proceedings which, in the practice of the Courts in Malta are, or are of the same nature as those which are, disposed of in chambers;
 
-( b ) in  proceedings  under  any  law  relating  to  income  tax; or
-
+(b) in proceedings under any law relating to income tax; or
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
@@ -843,34 +890,31 @@ CONSTITUTION OF MALTA
 
 17
 
-( c ) to such extent as the court or other authority -
+(c) to such extent as the court or other authority -
 
-(i) may consider necessary or expedient in circumstances  where  publicity  would  prejudice the interests of justice; or
+(i) may consider necessary or expedient in circumstances where publicity would prejudice the interests of justice; or
 
-(ii) may be empowered or required by law to do so in the interests of defence, public safety, public order, public morality or decency, the welfare of persons  under  the  age  of  eighteen  years  or  the protection of the private lives of persons concerned in the proceedings.
+(ii) may be empowered or required by law to do so in the interests of defence, public safety, public order, public morality or decency, the welfare of persons under the age of eighteen years or the protection of the private lives of persons concerned in the proceedings.
 
 (5) Every person who is charged with a criminal offence shall be presumed to be innocent until he is proved or has pleaded guilty:
 
-Provided  that  nothing  contained  in  or  done  under  the authority of any law shall be held to be inconsistent with or in contravention of this sub-article to the extent that the law in question imposes upon any person charged as aforesaid the burden of proving particular facts.
+Provided that nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this sub-article to the extent that the law in question imposes upon any person charged as aforesaid the burden of proving particular facts.
 
-- Every person who is charged with a criminal offence -
+(6) Every person who is charged with a criminal offence -
 
-( a ) shall  be  informed  in  writing,  in  a  language  which  he understands and in detail, of the nature of the offence charged;
+(a) shall be informed in writing, in a language which he understands and in detail, of the nature of the offence charged;
 
-( b ) shall  be  given  adequate  time  and  facilities  for  the preparation of his defence;
+(b) shall be given adequate time and facilities for the preparation of his defence;
 
-( c ) shall be permitted to defend himself in person or by a legal representative and a person who cannot afford to pay  for  such  legal  representation  as  is  reasonably required  by  the  circumstances  of  his  case  shall  be entitled to  have  such  representation  at  the  public expense;
+(c) shall be permitted to defend himself in person or by a legal representative and a person who cannot afford to pay for such legal representation as is reasonably required by the circumstances of his case shall be entitled to have such representation at the public expense;
 
-( d ) shall be afforded facilities to examine in person or by his  legal  representative  the  witnesses  called  by  the prosecution before any court and to obtain the attendance of witnesses subject to the payment of their reasonable expenses, and carry out the examination of witnesses  to  testify  on  his  behalf  before  the  court  on the  same  conditions  as  those  applying  to  witnesses called by the prosecution; and
+(d) shall be afforded facilities to examine in person or by his legal representative the witnesses called by the prosecution before any court and to obtain the attendance of witnesses subject to the payment of their reasonable expenses, and carry out the examination of witnesses to testify on his behalf before the court on the same conditions as those applying to witnesses called by the prosecution; and
 
-( e ) shall be permitted to have without payment the assistance of an interpreter if he cannot understand the language used at the trial of the charge,
+(e) shall be permitted to have without payment the assistance of an interpreter if he cannot understand the language used at the trial of the charge,
 
 and except with his own consent the trial shall not take place in his absence unless he so conducts himself as to render the continuance of the proceedings in his presence impracticable and the court has ordered him to be removed and the trial to proceed in his absence.
 
 (7) When a person is tried for any criminal offence, the accused person or any person authorised by him in that behalf shall, if he so requires and subject to payment of such reasonable fee as may be prescribed by law, be given within a reasonable time after judgment a copy for the use of the accused person of any record of the
-#### Protection of freedom of conscience and worship.
-Amended by: LVIII.1974.12.
-
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
@@ -883,22 +927,25 @@ proceedings made by or on behalf of the court.
 
 (8) No person shall be held to be guilty of a criminal offence on account of any act or omission that did not, at the time it took place, constitute such an offence, and no penalty shall be imposed for any criminal offence which is severer in degree or description than the maximum penalty which might have been imposed for that offence at the time when it was committed.
 
-(9) No  person  who  shows  that  he  has  been  tried  by  any competent court for a criminal offence and either convicted or acquitted shall again be tried for that offence or for any other criminal offence of which he could have been convicted at the trial for that offence save upon the order of a superior court made in the course of appeal or review proceedings relating to the conviction or acquittal; and no person shall be tried for a criminal offence if he shows that he has been pardoned for that offence:
+(9) No person who shows that he has been tried by any competent court for a criminal offence and either convicted or acquitted shall again be tried for that offence or for any other criminal offence of which he could have been convicted at the trial for that offence save upon the order of a superior court made in the course of appeal or review proceedings relating to the conviction or acquittal; and no person shall be tried for a criminal offence if he shows that he has been pardoned for that offence:
 
-Provided  that  nothing  in  any  law  shall  be  held  to  be inconsistent with or in contravention of this sub-article by reason only that it authorises any court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so however that any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under that disciplinary law.
+Provided that nothing in any law shall be held to be inconsistent with or in contravention of this sub-article by reason only that it authorises any court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so however that any court so trying such a member and convicting him shall in sentencing him to any punishment take into account any punishment awarded him under that disciplinary law.
 
-(10) No  person  who  is  tried  for  a  criminal  offence  shall  be compelled to give evidence at his trial.
+(10) No person who is tried for a criminal offence shall be compelled to give evidence at his trial.
 
-(11) In this article  "legal  representative"  means  a  person entitled to practise in Malta as an advocate or, except in relation to proceedings before a court where a legal procurator has no right of audience, a legal procurator.
+(11) In this article "legal representative" means a person entitled to practise in Malta as an advocate or, except in relation to proceedings before a court where a legal procurator has no right of audience, a legal procurator.
 
-40. (1) All persons in Malta  shall have  full  freedom  of conscience and enjoy the free exercise of their respective mode of religious worship.
+#### Protection of freedom of conscience and worship.
+Amended by:
+LVIII.1974.12.
 
-(2) No  person  shall be required to receive instruction in religion or to show knowledge or proficiency in religion if, in the case of a person who has not attained the age of sixteen years, objection to such requirement is made by the person who according to law has authority over him and, in any other case, if the person so required objects thereto:
+40. (1) All persons in Malta shall have full freedom of conscience and enjoy the free exercise of their respective mode of religious worship.
 
-Provided  that  no  such  requirement  shall  be  held  to  be inconsistent with or in contravention of this article to the extent that the knowledge of, or the proficiency or instruction in, religion is required for the teaching of such religion, or for admission to the priesthood or to a religious order, or for other religious purposes, and except so far as that requirement is shown not to be reasonably justifiable in a democratic society.
+(2) No person shall be required to receive instruction in religion or to show knowledge or proficiency in religion if, in the case of a person who has not attained the age of sixteen years, objection to such requirement is made by the person who according to law has authority over him and, in any other case, if the person so required objects thereto:
 
-(3) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subarticle (1), to the extent that the law in question makes provision that is reasonably required in the interests of public safety, public order, public morality or decency, public health, or the protection of the rights and freedoms of others, and except so far as that provision or, as the case may be, the thing done under the authority thereof, is shown not to be reasonably justifiable in a democratic society.
+Provided that no such requirement shall be held to be inconsistent with or in contravention of this article to the extent that the knowledge of, or the proficiency or instruction in, religion is required for the teaching of such religion, or for admission to the priesthood or to a religious order, or for other religious purposes, and except so far as that requirement is shown not to be reasonably justifiable in a democratic society.
 
+(3) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of sub-article (1), to the extent that the law in question makes provision that is reasonably required in the interests of public safety, public order, public morality or decency, public health, or the protection of the rights and freedoms of others, and except so far as that provision or, as the case may be, the thing done under the authority thereof, is shown not to be reasonably justifiable in a democratic society.
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
@@ -907,32 +954,31 @@ CONSTITUTION OF MALTA
 
 19
 
-41. (1) Except  with  his  own  consent  or  by  way  of  parental discipline, no person shall be hindered in the enjoyment of his freedom of expression, including freedom to hold opinions without interference, freedom to receive ideas and information without interference, freedom to communicate ideas and information without interference (whether the communication be to the public generally or to any person or class of persons) and freedom from interference with his correspondence.
+#### Protection of freedom of expression.
 
-(2) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subarticle (1) of this article to the extent that the law in question makes provision -
+41. (1) Except with his own consent or by way of parental discipline, no person shall be hindered in the enjoyment of his freedom of expression, including freedom to hold opinions without interference, freedom to receive ideas and information without interference, freedom to communicate ideas and information without interference (whether the communication be to the public generally or to any person or class of persons) and freedom from interference with his correspondence.
 
-( a ) that is reasonably required -
+(2) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of sub-article (1) of this article to the extent that the law in question makes provision -
 
-(i) in the interests of defence, public safety, public order,  public  morality  or  decency,  or  public health; or
+(a) that is reasonably required -
 
-(ii) for  the  purpose  of  protecting  the  reputations, rights  and  freedoms  of  other  persons,  or  the private lives of persons concerned in legal proceedings, preventing the disclosure of information received in confidence, maintaining the  authority  and  independence  of  the  courts, protecting the privileges of Parliament, or regulating telephony, telegraphy, posts, wireless broadcasting, television or other means of communication, public exhibitions or public entertainments; or
+(i) in the interests of defence, public safety, public order, public morality or decency, or public health; or
 
-( b ) that imposes restrictions upon public officers,
+(ii) for the purpose of protecting the reputations, rights and freedoms of other persons, or the private lives of persons concerned in legal proceedings, preventing the disclosure of information received in confidence, maintaining the authority and independence of the courts, protecting the privileges of Parliament, or regulating telephony, telegraphy, posts, wireless broadcasting, television or other means of communication, public exhibitions or public entertainments; or
 
-and except so far as that provision or, as the case may be, the thing done  under  the  authority  thereof  is  shown  not  to  be  reasonably justifiable in a democratic society.
+(b) that imposes restrictions upon public officers,
 
-(3) Anyone  who  is  resident  in  Malta  may  edit  or  print  a newspaper or journal published daily or periodically:
+and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
+
+(3) Anyone who is resident in Malta may edit or print a newspaper or journal published daily or periodically:
 
 Provided that provision may be made by law -
 
-( a ) prohibiting or restricting the editing or printing of any such  newspaper  or  journal  by  persons  under  twentyone years of age; and
+(a) prohibiting or restricting the editing or printing of any such newspaper or journal by persons under twenty-one years of age; and
 
-( b ) requiring any person who is the editor or printer of any such  newspaper  or  journal  to  inform  the  prescribed authority to that effect and of his age and to keep the prescribed authority informed of his place of residence.
+(b) requiring any person who is the editor or printer of any such newspaper or journal to inform the prescribed authority to that effect and of his age and to keep the prescribed authority informed of his place of residence.
 
-- Where the police seize any edition of a newspaper as being
-
-#### Protection of freedom of expression.
-
+(4) Where the police seize any edition of a newspaper as being
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
@@ -941,44 +987,45 @@ Provided that provision may be made by law -
 
 CONSTITUTION OF MALTA
 
-#### Protection of freedom of assembly and association.
-Amended by: LVIII.1974.13.
-
-#### Prohibition of deportation.
-Amended by: LVIII.1974.14.
-
-Cap. 276.
-
 the means whereby a criminal offence has been committed they shall within twenty-four hours of the seizure bring the seizure to the notice of the competent court and if the court is not satisfied that there is a prima facie case of such offence, that edition shall be returned to the person from whom it was seized.
 
-(5) No  person  shall  be  deprived  of  his  citizenship  under  any provisions made under article 30(1) ( b ) of this Constitution or of his juridical capacity by reason only of his political opinions.
+(5) No person shall be deprived of his citizenship under any provisions made under article 30(1) (b) of this Constitution or of his juridical capacity by reason only of his political opinions.
 
-42. (1)   Except  with  his  own  consent  or  by  way  of  parental discipline no person shall be hindered in the enjoyment of his freedom of peaceful assembly and association, that is to say, his right peacefully to assemble freely and associate with other persons and in particular to form or belong to trade or other unions or associations for the protection of his interests.
+#### Protection of freedom of assembly and association.
+Amended by:
+LVIII.1974.13.
+
+42. (1) Except with his own consent or by way of parental discipline no person shall be hindered in the enjoyment of his freedom of peaceful assembly and association, that is to say, his right peacefully to assemble freely and associate with other persons and in particular to form or belong to trade or other unions or associations for the protection of his interests.
 
 (2) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this article to the extent that the law in question makes provision -
 
-( a ) that is reasonably required -
+(a) that is reasonably required -
 
-(i) in the interests of defence, public safety, public order,  public  morality  or  decency,  or  public health; or
+(i) in the interests of defence, public safety, public order, public morality or decency, or public health; or
 
 (ii) for the purpose of protecting the rights or freedoms of other persons; or
 
-( b ) that imposes restrictions upon public officers,
+(b) that imposes restrictions upon public officers,
 
-and except so far as that provision or, as the case may be, the thing done  under  the  authority  thereof  is  shown  not  to  be  reasonably justifiable in a democratic society.
+and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
 
-(3) For  the  purposes  of  this  article,  any  provision  in  any  law prohibiting the holding of public meetings or demonstrations in any one or more particular cities, towns, suburbs or villages shall be held to be a provision which is not reasonably justifiable in a democratic society.
+(3) For the purposes of this article, any provision in any law prohibiting the holding of public meetings or demonstrations in any one or more particular cities, towns, suburbs or villages shall be held to be a provision which is not reasonably justifiable in a democratic society.
+
+#### Prohibition of deportation.
+Amended by:
+LVIII.1974.14.
 
 43. (1) Extradition is only permitted in pursuance of arrangements made by treaty and under the authority of a law.
 
 (2) No person shall be extradited for an offence of a political character.
 
-(3) No citizen of Malta shall be removed from Malta except as a result of extradition proceedings or under any such law as is referred to in article 44(3) ( b ) of this Constitution.
+(3) No citizen of Malta shall be removed from Malta except as a result of extradition proceedings or under any such law as is referred to in article 44(3) (b) of this Constitution.
 
-(4) The provisions made by or under the Extradition Act * ,  as for the time being in force, for the removal of persons from Malta to another Commonwealth country to undergo trial or punishment in that country in respect of an offence committed in that country and any general arrangements for the extradition of persons between Commonwealth countries to which Malta for the time being adheres shall be deemed, for the purposes of sub-article (1) of this article, to be arrangements made by treaty, and sub-article (2) shall not apply in relation to the removal or extradition of a person under such provisions or arrangements.
+Cap. 276.
+
+(4) The provisions made by or under the Extradition Act*, as for the time being in force, for the removal of persons from Malta to another Commonwealth country to undergo trial or punishment in that country in respect of an offence committed in that country and any general arrangements for the extradition of persons between Commonwealth countries to which Malta for the time being adheres shall be deemed, for the purposes of sub-article (1) of this article, to be arrangements made by treaty, and sub-article (2) shall not apply in relation to the removal or extradition of a person under such provisions or arrangements.
 
 *This Act has replaced the Extradition (Commonwealth Countries) Act, 1970.
-
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
@@ -987,29 +1034,29 @@ CONSTITUTION OF MALTA
 
 21
 
+#### Protection of freedom of movement.
+Amended by:
+XIII.2001.2.
+
 44. (1) No citizen of Malta shall be deprived of his freedom of movement, and for the purpose of this article the said freedom means the right to move freely throughout Malta, the right to reside in any part of Malta, the right to leave and the right to enter Malta.
 
-(2) Any restriction on a citizen's freedom of movement that is involved in his lawful detention shall not be held to be inconsistent with or in contravention of this article.
+(2) Any restriction on a citizen’s freedom of movement that is involved in his lawful detention shall not be held to be inconsistent with or in contravention of this article.
 
 (3) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this article to the extent that the law in question makes provision -
 
-( a ) for  the  imposition  of  restrictions  that  are  reasonably required  in  the  interests  of  defence,  public  safety, public  order,  public  morality  or  decency,  or  public health  and  except  so  far  as  that  provision  or,  as  the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society;
+(a) for the imposition of restrictions that are reasonably required in the interests of defence, public safety, public order, public morality or decency, or public health and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society;
 
-( b ) for  the  imposition  of  restrictions  on  the  freedom  of movement of any citizen of Malta who is not a citizen by  virtue  of  article  3(1)  or  of  article  5(1)  of  the Maltese Citizenship  Act  as  in  force  upon  the  coming into  force  of  the  Maltese  Citizenship  (Amendment) Act, 2000;
+(b) for the imposition of restrictions on the freedom of movement of any citizen of Malta who is not a citizen by virtue of article 3(1) or of article 5(1) of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship (Amendment) Act, 2000;
 
-( c ) for  the  imposition  of  restrictions  upon  the  movement or residence within Malta of public officers; or
+(c) for the imposition of restrictions upon the movement or residence within Malta of public officers; or
 
-( d ) for  the  imposition  of  restrictions  on  the  right  of  any person to  leave  Malta  that  are  reasonably  required  in order to secure the fulfilment of any obligation imposed on that person by law and except so far as that provision or, as the case may be, the thing done under the  authority  thereof  is  shown  not  to  be  reasonably justifiable in a democratic society.
+(d) for the imposition of restrictions on the right of any person to leave Malta that are reasonably required in order to secure the fulfilment of any obligation imposed on that person by law and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
 
-- For the purposes of this article, any person -
+(4) For the purposes of this article, any person -
 
-( a ) who has emigrated from Malta (whether before, on or after the appointed day) and, having been a citizen of Malta by virtue of article 3(1) or of article 5(1) of the Maltese Citizenship  Act  as  in  force  upon  the  coming into  force  of  the  Maltese  Citizenship  (Amendment) Act, 2000, has ceased to be such a citizen; or
+(a) who has emigrated from Malta (whether before, on or after the appointed day) and, having been a citizen of Malta by virtue of article 3(1) or of article 5(1) of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship (Amendment) Act, 2000, has ceased to be such a citizen; or
 
-( b ) who  emigrated  from  Malta  before  the  appointed  day and,  but  for  his  having  ceased  to  be  a  citizen  of  the United Kingdom and Colonies before that day, would have become a citizen of Malta by virtue of article 3(1) of  the  Maltese  Citizenship  Act  as  in  force  upon  the coming into force of the Maltese Citizenship
-
-#### Protection of freedom of movement.
-Amended by: XIII.2001.2.
-
+(b) who emigrated from Malta before the appointed day and, but for his having ceased to be a citizen of the United Kingdom and Colonies before that day, would have become a citizen of Malta by virtue of article 3(1) of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
@@ -1020,20 +1067,19 @@ CONSTITUTION OF MALTA
 
 (Amendment) Act, 2000; or
 
-( c ) * who is the spouse of a person mentioned in paragraph ( a )  or  ( b )  of  this  sub-article  or  of  a  person  who  is  a citizen  of  Malta  by  virtue  of  article  3(1)  or  of  article 5(1)  of  the  Maltese  Citizenship  Act  as  in  force  upon the  coming  into  force  of  the  Maltese  Citizenship (Amendment) Act, 2000, and who has been married to that person for at least five years and is living with that person, or is the child under twenty-one years of age of such a person; or
+(c)* who is the spouse of a person mentioned in paragraph (a) or (b) of this sub-article or of a person who is a citizen of Malta by virtue of article 3(1) or of article 5(1) of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship (Amendment) Act, 2000, and who has been married to that person for at least five years and is living with that person, or is the child under twenty-one years of age of such a person; or
 
-( d ) who  is the widow  or the widower  of a person mentioned  in  paragraph  ( a )  or  paragraph  ( b )  of  this subarticle or of a person who at the time of his or her death was a citizen of Malta by virtue of article 3(1) or of  article  5(1)  of  the  Maltese  Citizenship  Act  as  in force  upon  the  coming  into  force  of  the  Maltese Citizenship (Amendment) Act, 2000, and who was still living with him or her at the time of his or her death and  had  been  married  to  that  person  for  at  least  five years or who would, but for the death of that person, have been so married for at least five years, or is the child under twenty-one years of age of such a person,
+(d) who is the widow or the widower of a person mentioned in paragraph (a) or paragraph (b) of this subarticle or of a person who at the time of his or her death was a citizen of Malta by virtue of article 3(1) or of article 5(1) of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship (Amendment) Act, 2000, and who was still living with him or her at the time of his or her death and had been married to that person for at least five years or who would, but for the death of that person, have been so married for at least five years, or is the child under twenty-one years of age of such a person,
 
-shall be deemed to be a citizen of Malta by virtue of article 3(1) or of article 5(1) of the Maltese Citizenship Act as in force upon the coming  into  force  of  the  Maltese  Citizenship  (Amendment)  Act, 2000:
+shall be deemed to be a citizen of Malta by virtue of article 3(1) or of article 5(1) of the Maltese Citizenship Act as in force upon the coming into force of the Maltese Citizenship (Amendment) Act, 2000:
 
-Provided that if the Minister responsible for matters relating to Maltese citizenship at any time by order declares that it is contrary to the public interest that a spouse as is mentioned in paragraph ( c ), or a widow or widower as is mentioned in paragraph ( d ),  or  a  child over eighteen years of age as is mentioned in paragraph ( c ) or ( d ) is to be so deemed, or to continue to be so deemed, such spouse, widow, widower or child, as the case may be, shall thereupon cease to be deemed to be a citizen of Malta as aforesaid:
+Provided that if the Minister responsible for matters relating to Maltese citizenship at any time by order declares that it is contrary to the public interest that a spouse as is mentioned in paragraph (c), or a widow or widower as is mentioned in paragraph (d), or a child over eighteen years of age as is mentioned in paragraph (c) or (d) is to be so deemed, or to continue to be so deemed, such spouse, widow, widower or child, as the case may be, shall thereupon cease to be deemed to be a citizen of Malta as aforesaid:
 
-Provided  further  that  the  Minister  responsible  for  matters relating to Maltese citizenship shall not be required to assign any reason for the issue of any order referred to in the immediately preceding proviso, and the decision of the Minister on any such order shall not be subject to appeal to or review in any court.
+Provided further that the Minister responsible for matters relating to Maltese citizenship shall not be required to assign any reason for the issue of any order referred to in the immediately preceding proviso, and the decision of the Minister on any such order shall not be subject to appeal to or review in any court.
 
-(5) If  any  person  whose  freedom  of  movement  has  been restricted by virtue of such a provision as is referred to in subarticle (3)( a ) of this article so requests at any time during the period of that restriction not earlier than six months after the order was made or six months after he last made such request, as the case may be, his case shall be reviewed by an independent and impartial tribunal established by law composed of a person or persons each of whom holds or has held judicial office or is qualified to be appointed to such office in Malta:
+(5) If any person whose freedom of movement has been restricted by virtue of such a provision as is referred to in sub-article (3)(a) of this article so requests at any time during the period of that restriction not earlier than six months after the order was made or six months after he last made such request, as the case may be, his case shall be reviewed by an independent and impartial tribunal established by law composed of a person or persons each of whom holds or has held judicial office or is qualified to be appointed to such office in Malta:
 
-*see article 5 of Act XIII of 2001 .
-
+*see article 5 of Act XIII of 2001.
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
@@ -1042,31 +1088,33 @@ CONSTITUTION OF MALTA
 
 23
 
-Provided  that  a  person  whose  freedom  of  movement  has been restricted by virtue of a restriction which is applicable to persons generally or to general classes of persons shall not make a request under this sub-article unless he has first obtained the consent of the Civil Court, First Hall.
+Provided that a person whose freedom of movement has been restricted by virtue of a restriction which is applicable to persons generally or to general classes of persons shall not make a request under this sub-article unless he has first obtained the consent of the Civil Court, First Hall.
 
-(6) On any review by a tribunal in pursuance of this article of t he  case of a person whose freedom of movement has been restricted the tribunal may make recommendations concerning the necessity or expediency of continuing the restriction to the authority by which it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
+(6) On any review by a tribunal in pursuance of this article of the case of a person whose freedom of movement has been restricted the tribunal may make recommendations concerning the necessity or expediency of continuing the restriction to the authority by which it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
 
-45. (1) Subject  to  the  provisions  of  sub-articles  (4),  (5)  and (7) of this article, no law shall make any provision that is discriminatory either of itself or in its effect.
+#### Protection from discrimination on the grounds of race, etc.
+Amended by:
+LVIII.1974.15;
+XIX.1991.3;
+X.2014.3.
+
+45. (1) Subject to the provisions of sub-articles (4), (5) and (7) of this article, no law shall make any provision that is discriminatory either of itself or in its effect.
 
 (2) Subject to the provisions of sub-articles (6), (7) and (8) of this article, no person shall be treated in a discriminatory manner by any person acting by virtue of any written law or in the performance of the functions of any public office or any public authority.
 
-(3) In this article, the expression "discriminatory"  means affording different treatment to different persons attributable wholly or mainly to their respective descriptions by race, place of origin, political opinions, colour, creed, sex, sexual orientation or gender identity whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject or are accorded privileges or advantages which are not accorded to persons of another such description.
+(3) In this article, the expression "discriminatory" means affording different treatment to different persons attributable wholly or mainly to their respective descriptions by race, place of origin, political opinions, colour, creed, sex, sexual orientation or gender identity whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject or are accorded privileges or advantages which are not accorded to persons of another such description.
 
 (4) Sub-article (1) of this article shall not apply to any law so far as that law makes provision -
 
-( a ) for the appropriation of public revenues or other public funds; or
+(a) for the appropriation of public revenues or other public funds; or
 
-( b ) with respect to persons who are not citizens of Malta; or
+(b) with respect to persons who are not citizens of Malta; or
 
-( c ) with  respect  to  adoption,  marriage,  dissolution  of marriage,  burial,  devolution  of  property  on  death  or any matters of personal law not hereinbefore specified; or
+(c) with respect to adoption, marriage, dissolution of marriage, burial, devolution of property on death or any matters of personal law not hereinbefore specified; or
 
-( d ) whereby persons of any such description as is mentioned  in  sub-article  (3)  of  this  article  may  be subjected  to  any  disability  or  restriction  or  may  be accorded  any  privilege  or  advantage  which,  having regard to its nature and  to special  circumstances pertaining to those persons or to persons of any other such  description  and  to  any  other  provision  of  this Constitution, is reasonably justifiable in a democratic society; or
+(d) whereby persons of any such description as is mentioned in sub-article (3) of this article may be subjected to any disability or restriction or may be accorded any privilege or advantage which, having regard to its nature and to special circumstances pertaining to those persons or to persons of any other such description and to any other provision of this Constitution, is reasonably justifiable in a democratic society; or
 
-( e ) for  authorising  the  taking  during  a  period  of  public
-
-#### Protection from discrimination on the grounds of race, etc.
-Amended by: LVIII.1974.15; XIX.1991.3; X.2014.3.
-
+(e) for authorising the taking during a period of public
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
@@ -1077,26 +1125,25 @@ CONSTITUTION OF MALTA
 
 emergency of measures that are reasonably justifiable for the purpose of dealing with the situation that exists during that period of public emergency;
 
-Provided  that  paragraph  ( c )  of  this  sub-article  shall  not apply to any law which makes any provision that is discriminatory, either of itself or in its effect by affording different treatment to different persons attributable wholly or mainly to their respective description by sex.
+Provided that paragraph (c) of this sub-article shall not apply to any law which makes any provision that is discriminatory, either of itself or in its effect by affording different treatment to different persons attributable wholly or mainly to their respective description by sex.
 
 (5) Nothing contained in any law shall be held to be inconsistent with or in contravention of sub-article (1) of this article to the extent that it makes provision:
 
-( a ) with respect to qualifications for service or conditions of service in any disciplined force; or
+(a) with respect to qualifications for service or conditions of service in any disciplined force; or
 
-( b ) with respect to qualifications (not being qualifications specifically relating to sex, sexual orientation or gender identity)  for  service  as  a  public  officer  or  for service  of  a  local  government  authority  or  a  body corporate established for public purposes by any law.
+(b) with respect to qualifications (not being qualifications specifically relating to sex, sexual orientation or gender identity) for service as a public officer or for service of a local government authority or a body corporate established for public purposes by any law.
 
-(6) Sub-article  (2)  of  this  article  shall  not  apply  to  anything which is expressly or by necessary implication authorised to be done by any such provision of law as is referred to in sub-article (4) or (5) of this article.
+(6) Sub-article (2) of this article shall not apply to anything which is expressly or by necessary implication authorised to be done by any such provision of law as is referred to in sub-article (4) or (5) of this article.
 
 (7) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this article to the extent that the law in question makes provision (not being provisions specifically relating to sex) whereby persons of any such description as is mentioned in sub-article (3) of this article may be subjected to any restriction on the rights and freedoms guaranteed by articles 38, 40, 41, 42 and 44 of this Constitution, being such a restriction as is authorised by article 38(2), 40(2), 41(2), 42(2) or 44(3).
 
-(8) Nothing  in  sub-article  (2)  of  this  article  shall  affect  any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
+(8) Nothing in sub-article (2) of this article shall affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
 
-(9) A  requirement,  however  made,  that  the  Roman  Catholic Apostolic Religion shall be taught by a person professing that religion shall not be held to be inconsistent with or in contravention of this article.
+(9) A requirement, however made, that the Roman Catholic Apostolic Religion shall be taught by a person professing that religion shall not be held to be inconsistent with or in contravention of this article.
 
-(10) Until the expiration of a period of two years commencing on the lst July, 1991, nothing contained in any law made before the 1st July, 1991, shall be held to be inconsistent with the provisions of this article, in so far as that law provides for different treatment t o   d i f f e r e n t   p e r s o n s   a t t r i b u t a b l e   w h o l l y   o r   m a i n l y   t o   t h e i r respective description by sex.
+(10) Until the expiration of a period of two years commencing on the 1st July, 1991, nothing contained in any law made before the 1st July, 1991, shall be held to be inconsistent with the provisions of this article, in so far as that law provides for different treatment to different persons attributable wholly or mainly to their respective description by sex.
 
 (11) Nothing in the provisions of this article shall apply to any law or anything done under the authority of a law, or to any procedure or arrangement, in so far as such law, thing done, procedure or arrangement provides for the taking of special measures aimed at accelerating de facto equality between men and women, and in so far only as such measures, taking into account the social fabric of Malta, are shown to be reasonably justifiable in a democratic society.
-
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
@@ -1105,24 +1152,25 @@ CONSTITUTION OF MALTA
 
 25
 
+#### Enforcement of protective provisions.
+Amended by:
+LVIII.1974.16.
+
 46. (1) Subject to the provisions of sub-articles (6) and (7) of this article, any person who alleges that any of the provisions of articles 33 to 45 (inclusive) of this Constitution has been, is being or is likely to be contravened in relation to him, or such other person as the Civil Court, First Hall, in Malta may appoint at the instance of any person who so alleges, may, without prejudice to any other action with respect to the same matter that is lawfully available, apply to the Civil Court, First Hall, for redress.
 
 (2) The Civil Court, First Hall, shall have original jurisdiction to hear and determine any application made by any person in pursuance of sub-article (1) of this article, and may make such orders, issue such writs and give such directions as it may consider appropriate for the purpose of enforcing, or securing the enforcement of, any of the provisions of the said articles 33 to 45 (inclusive) to the protection of which the person concerned is entitled:
 
 Provided that the Court may, if it considers it desirable so to do, decline to exercise its powers under this sub-article in any case where it is satisfied that adequate means of redress for the contravention alleged are or have been available to the person concerned under any other law.
 
-(3) If  in  any  proceedings  in  any  court  other  than  the  Civil Court, First Hall, or the Constitutional Court any question arises as to the contravention of any of the provisions of the said articles 33 to 45 (inclusive), that court shall refer the question to the Civil Court, First Hall, unless in its opinion the raising of the question is merely frivolous or vexatious; and that court shall give its decision on any question referred to it under this sub-article and, subject to the provisions of sub-article (4) of this article, the court in which the question arose shall dispose of the question in accordance with that decision.
+(3) If in any proceedings in any court other than the Civil Court, First Hall, or the Constitutional Court any question arises as to the contravention of any of the provisions of the said articles 33 to 45 (inclusive), that court shall refer the question to the Civil Court, First Hall, unless in its opinion the raising of the question is merely frivolous or vexatious; and that court shall give its decision on any question referred to it under this sub-article and, subject to the provisions of sub-article (4) of this article, the court in which the question arose shall dispose of the question in accordance with that decision.
 
 (4) Any party to proceedings brought in the Civil Court, First Hall, in pursuance of this article shall have a right of appeal to the Constitutional Court.
 
-(5) No  appeal  shall  lie  from  any  determination  under  this article that any application or the raising of any question is merely frivolous or vexatious.
+(5) No appeal shall lie from any determination under this article that any application or the raising of any question is merely frivolous or vexatious.
 
-(6) Provision  may be made by or under an Act of Parliament for conferring upon the Civil Court, First Hall, such powers in addition to those conferred by this article as are necessary or desirable for the purpose of enabling the Court more effectively to exercise the jurisdiction conferred upon it by this article.
+(6) Provision may be made by or under an Act of Parliament for conferring upon the Civil Court, First Hall, such powers in addition to those conferred by this article as are necessary or desirable for the purpose of enabling the Court more effectively to exercise the jurisdiction conferred upon it by this article.
 
-(7) Rules  of  Court making  provision  with  respect to the practice and procedure of the Courts of Malta for the purposes of this article may be made by the person or authority for the time being having power to make rules of court with respect to the
-#### Enforcement of protective provisions.
-Amended by: LVIII.1974.16.
-
+(7) Rules of Court making provision with respect to the practice and procedure of the Courts of Malta for the purposes of this article may be made by the person or authority for the time being having power to make rules of court with respect to the
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
@@ -1131,10 +1179,10 @@ Amended by: LVIII.1974.16.
 
 CONSTITUTION OF MALTA
 
+practice and procedure of those Courts, and shall be designed to secure that the procedure shall be by application and that the hearing shall be as expeditious as possible.
+
 #### Interpretation of Chapter IV.
 Amended by: LVIII.1974.17; XIX.1991.4.
-
-practice and procedure of those Courts, and shall be designed to secure that the procedure shall be by application and that the hearing shall be as expeditious as possible.
 
 47. (1) In  this  Chapter,  save  where  the  context  otherwise requires, the following expressions shall have the following meanings respectively, that is to say -
 
@@ -1182,7 +1230,7 @@ CONSTITUTION OF MALTA
 
 ( c ) If at any time while a proclamation of emergency is in force (including any time while it is in force by virtue of this paragraph) a resolution is passed by the House of Representatives approving its continuance in force for a further period, not exceeding three months, beginning on the date on which it would otherwise expire, the proclamation shall, if not sooner revoked, continue in force for that further period.
 
-(4) A resolution such as is referred to in paragraph ( c ) of subarticle (2) of this article shall, unless it is sooner revoked by the House of Representatives, cease to be in force at the expiration of twelve months beginning on the date on which it was passed or such shorter period as may be specified therein, but without prejudice to the passing of another resolution by the House of Representatives in the manner prescribed by that paragraph at or before the end of that period.
+(4) A resolution such as is referred to in paragraph (c) of sub-article (2) of this article shall, unless it is sooner revoked by the House of Representatives, cease to be in force at the expiration of twelve months beginning on the date on which it was passed or such shorter period as may be specified therein, but without prejudice to the passing of another resolution by the House of Representatives in the manner prescribed by that paragraph at or before the end of that period.
 
 (5) In relation to any person who is a member of a disciplined force raised under any law in force in Malta, nothing contained in or done under the authority of the disciplinary law of that force shall be held to be inconsistent with or in contravention of any of the provisions of this Chapter other than articles 33, 35 and 36.
 
@@ -1204,48 +1252,48 @@ CONSTITUTION OF MALTA
 
 28
 
+property that may be acquired;
+
+(b) add to the purposes for which or circumstances in which such property may be taken possession of or acquired;
+
+(c) make the conditions governing entitlement to compensation or the amount thereof less favourable to any person owning or interested in the property; or
+
+(d) deprive any person of any right such as is mentioned in paragraph (b) or paragraph (c) of article 37(1) of this Constitution.
+
 Substituted by: LVIII.1974.18.
-
-#### Establishment of the office of President.
-Substituted by: LVIII.1974.18.
-
-#### Discharge of President's functions during vacancy, etc.
-Substituted by: LVIII.1974.18. Amended by: XLII. 2016.20.
-
-#### Oath to be taken by the President.
-Substituted by: LVIII.1974.18.
-
-- property that may be acquired;
-
-( b ) add  to  the  purposes  for  which  or  circumstances  in which  such  property  may  be  taken  possession  of  or acquired;
-
-( c ) make the conditions governing entitlement to compensation or the amount thereof less favourable to any person owning or interested in the property; or
-
-( d ) deprive any person of any right such as is mentioned in paragraph ( b )  or  paragraph ( c )  of  article  37(1) of this Constitution.
 
 ## CHAPTER V
 
 ### The President
 
-- 48. (1) There  shall  be  a  President  of  Malta  who  shall  be appointed by Resolution of the House of Representatives.
+#### Establishment of the office of President.
+Substituted by: LVIII.1974.18.
 
-- A person shall not be qualified to be appointed to the office of President if -
+*48. (1) There shall be a President of Malta who shall be appointed by Resolution of the House of Representatives.
 
-( a ) he is not a citizen of Malta; or
+(2) A person shall not be qualified to be appointed to the office of President if -
 
-( b ) he holds or has held the office of Chief Justice or other Judge of the Superior Courts; or
+(a) he is not a citizen of Malta; or
 
-( c ) he  is  not  eligible  for  appointment  to  or  to  act  in  any public office in accordance with articles 109, 118 and 120 of this Constitution.
+(b) he holds or has held the office of Chief Justice or other Judge of the Superior Courts; or
 
-- The office of President shall become vacant -
+(c) he is not eligible for appointment to or to act in any public office in accordance with articles 109, 118 and 120 of this Constitution.
 
-( a ) on  the  expiration  of  five  years  from  the  date  of  the appointment to that office; or
+(3) The office of President shall become vacant -
 
-( b ) if  the  holder  of  the  office  is  removed  from  office  by Resolution  of  the  House  of  Representatives  on  the ground  of  inability  to  perform  the  functions  of  his office (whether arising from infirmity of body or mind or any other cause) or misbehaviour.
+(a) on the expiration of five years from the date of the appointment to that office; or
 
-- Whenever the office of President is temporarily vacant, and until a new President is appointed, and whenever the holder of the office is absent from Malta or on vacation or is for any reason unable to perform the functions conferred upon him by this Constitution, those functions shall be performed by such person as the Prime Minister, after consultation with the Leader of the Opposition, may appoint or, if there is no person in Malta so appointed and able to perform those functions, by the Speaker of the House of Representatives.
+(b) if the holder of the office is removed from office by Resolution of the House of Representatives on the ground of inability to perform the functions of his office (whether arising from infirmity of body or mind or any other cause) or misbehaviour.
 
-† 50. A  person  appointed  to  or  assuming  the  functions  of  the office of President shall, before entering upon that office, take and subscribe the oath of office set out in the Second Schedule to this Constitution. Any person appointed to the office of President under
+#### Discharge of President's functions during vacancy, etc.
+Substituted by: LVIII.1974.18. Amended by: XLII. 2016.20.
+
+49. Whenever the office of President is temporarily vacant, and until a new President is appointed, and whenever the holder of the office is absent from Malta or on vacation or is for any reason unable to perform the functions conferred upon him by this Constitution, those functions shall be performed by such person as the Prime Minister, after consultation with the Leader of the Opposition, may appoint or, if there is no person in Malta so appointed and able to perform those functions, by the Speaker of the House of Representatives.
+
+#### Oath to be taken by the President.
+Substituted by: LVIII.1974.18.
+
+†50. A person appointed to or assuming the functions of the office of President shall, before entering upon that office, take and subscribe the oath of office set out in the Second Schedule to this Constitution. Any person appointed to the office of President under
 
 *Note: sub-article (4) of this article has been omitted as it has had its effect.
 
@@ -1269,21 +1317,21 @@ sub-article (1) of article 48 of this Constitution shall take the oath of office
 
 ##### Composition of Parliament
 
-51 . There shall be a Parliament of Malta which shall consist of the President and a House of Representatives.
+###### Establishment of Parliament.
+Amended by: LVIII.1974.19.
+
+51. There shall be a Parliament of Malta which shall consist of the President and a House of Representatives.
+
+###### Composition of the House of Representatives.
+Amended by: XXVI. 1970.2. Substituted by: LVIII.1974.20. Amended by: IV.1987.3; XI.1996.2; XXI.2007.4.
 
 52. (1) Subject to the provisions of this Chapter, the House of Representatives shall consist of such number of members, being an odd number and divisible by the number of electoral divisions, as Parliament shall from time to time by law determine. Such members shall be elected in the manner provided by or under any law for the time being in force in Malta in equal proportions from the electoral divisions referred to in article 56 of this Constitution, each division returning such number of members, being not less than five and not more than seven as Parliament shall from time to time by law determine; and such members shall be known as "Members of Parliament":
 
 Provided that where -
 
-(i) at any general election, a political party (hereinafter  referred  to  in  this  article  as  the "absolute majority party") obtains in the aggregate more than fifty per centum of all the valid votes cast at that election, as credited to its candidates  by  the  Electoral  Commission  at  the first count of all the votes; or
+(i) at any general election, a political party (hereinafter referred to in this article as the "absolute majority party") obtains in the aggregate more than fifty per centum of all the valid votes cast at that election, as credited to its candidates by the Electoral Commission at the first count of all the votes; or
 
-(ii) at a general election which is contested by more than  two  political  parties  and  in  which  only candidates of two of such parties are elected, a political  party  obtains  a  percentage  of  all  the valid  votes  cast  at  such  election,  as  credited  to its  candidates  by  the  Electoral  Commission  at the  first  count  of  all  the  votes  (hereinafter  also referred to in this article as the "relative majority party"),  which  is  greater  than  that  obtained  by any  one  other  party  (hereinafter  referred  to  in this article as the "minority party"),
-
-###### Establishment of Parliament.
-Amended by: LVIII.1974.19.
-
-###### Composition of the House of Representatives.
-Amended by: XXVI. 1970.2. Substituted by: LVIII.1974.20. Amended by: IV.1987.3; XI.1996.2; XXI.2007.4.
+(ii) at a general election which is contested by more than two political parties and in which only candidates of two of such parties are elected, a political party obtains a percentage of all the valid votes cast at such election, as credited to its candidates by the Electoral Commission at the first count of all the votes (hereinafter also referred to in this article as the "relative majority party"), which is greater than that obtained by any one other party (hereinafter referred to in this article as the "minority party"),
 
 [[END OF PAGE 29]]
 
@@ -1319,33 +1367,33 @@ CONSTITUTION OF MALTA
 
 31
 
-(3) The provisions of Part IV of the General Elections (Sorting of Ballot Papers, Casual Elections and Co-opting) Regulations, in the Thirteenth Schedule to the General Elections Act and the Annex to such Schedule, as in force on the coming into force of this subarticle may only be deleted, amended or substituted by a bill for an Act of Parliament passed in the manner specified in sub-article (2) of article 66 of this Constitution.
-
-53. Subject to the provisions of article 54 of this Constitution, a person shall be qualified to be elected as a member of the House of Representatives if, and shall not be qualified to be so elected unless, that person has attained the age of eighteen years and he has the qualifications for registration as a voter for the election of members of the House of Representatives mentioned in paragraphs (a) and (c) of article 57 of this Constitution.
-
-(1) No person shall be qualified to be elected as a member of the House of Representatives -
-
-( a ) if he is a citizen of a country other than Malta having become  such  a citizen voluntarily or is under a declaration of allegiance to such a country;
-
-( b ) save as otherwise provided by Parliament, if he holds or is acting in any public office or is a member of the armed forces of the Government of Malta;
-
-( c ) if  he  is  a  party  to,  or  is  a  partner  with  unlimited liability in a partnership or a director or manager of a company  which  is  a  party  to,  a  contract  with  the Government of  Malta  being  a  contract  of  works  or  a contract  for  the  supply  of  merchandise  to  be  used  in the service of the public and has not, within one month before the date of election, published in the Gazette a notice setting out the nature of any such contract, and his interest, or the interest of any such partnership or company, therein;
-
-( d ) if he is an undischarged bankrupt, having been adjudged  or  otherwise  declared  bankrupt  under  any law in force in Malta;
-
-( e ) if  he  is  interdicted  or  incapacitated  for  any  mental infirmity  or  for  prodigality  by  a  court  in  Malta,  or  is otherwise determined in Malta to be of unsound mind;
-
-( f ) if he is under sentence of death imposed on him by any court in Malta or is serving a sentence of imprisonment  (by  whatever  name  called),  exceeding twelve  months  imposed  on  him  by  such  a  court  or substituted  by  competent  authority  for  some  other sentence imposed on him by such a court;
-
-( g ) if  he  holds  or  is  acting  in  any  office  the  functions  of which involve any responsibility for, or in connection with,  the  conduct  of  any  election  of  members  of  the House of Representatives or the compilation or
-
 Cap. 354.
+
+(3) The provisions of Part IV of the General Elections (Sorting of Ballot Papers, Casual Elections and Co-opting) Regulations, in the Thirteenth Schedule to the General Elections Act and the Annex to such Schedule, as in force on the coming into force of this sub-article may only be deleted, amended or substituted by a bill for an Act of Parliament passed in the manner specified in sub-article (2) of article 66 of this Constitution.
 
 ###### Qualifications for membership of House of Representatives.
 Amended by: IV.2018.3.
 
+53. Subject to the provisions of article 54 of this Constitution, a person shall be qualified to be elected as a member of the House of Representatives if, and shall not be qualified to be so elected unless, that person has attained the age of eighteen years and he has the qualifications for registration as a voter for the election of members of the House of Representatives mentioned in paragraphs (a) and (c) of article 57 of this Constitution.
+
 ###### Disqualifications for membership of House of Representatives.
 Amended by: LVIII.1974.21; XXXVIII.1976.2; XXI.2007.5; IV.2018.4.
+
+54. (1) No person shall be qualified to be elected as a member of the House of Representatives -
+
+(a) if he is a citizen of a country other than Malta having become such a citizen voluntarily or is under a declaration of allegiance to such a country;
+
+(b) save as otherwise provided by Parliament, if he holds or is acting in any public office or is a member of the armed forces of the Government of Malta;
+
+(c) if he is a party to, or is a partner with unlimited liability in a partnership or a director or manager of a company which is a party to, a contract with the Government of Malta being a contract of works or a contract for the supply of merchandise to be used in the service of the public and has not, within one month before the date of election, published in the Gazette a notice setting out the nature of any such contract, and his interest, or the interest of any such partnership or company, therein;
+
+(d) if he is an undischarged bankrupt, having been adjudged or otherwise declared bankrupt under any law in force in Malta;
+
+(e) if he is interdicted or incapacitated for any mental infirmity or for prodigality by a court in Malta, or is otherwise determined in Malta to be of unsound mind;
+
+(f) if he is under sentence of death imposed on him by any court in Malta or is serving a sentence of imprisonment (by whatever name called), exceeding twelve months imposed on him by such a court or substituted by competent authority for some other sentence imposed on him by such a court;
+
+(g) if he holds or is acting in any office the functions of which involve any responsibility for, or in connection with, the conduct of any election of members of the House of Representatives or the compilation or
 
 [[END OF PAGE 31]]
 
@@ -1355,28 +1403,28 @@ Amended by: LVIII.1974.21; XXXVIII.1976.2; XXI.2007.5; IV.2018.4.
 
 CONSTITUTION OF MALTA
 
+revision of any electoral register;
+
+(h) if he is disqualified for membership of the House of Representatives by or under any law for the time being in force in Malta by reason of his having been convicted of any offence connected with the election of members of the House of Representatives;
+
+(i) if he has not yet attained the age of eighteen years.
+
+(2) For the purposes of paragraph (f) of sub-article (1) of this article -
+
+(a) two or more sentences that are required to be served consecutively shall be regarded as separate sentences if none of them exceeds twelve months, but if any one of them exceeds that term they shall be regarded as one sentence; and
+
+(b) no account shall be taken of a sentence of imprisonment imposed as an alternative to, or in default of, the payment of a fine.
+
+(3) A person shall not be treated as holding, or acting in, a public office for the purpose of paragraph (b) of sub-article (1) of this article -
+
+(a) if he is on leave of absence pending relinquishment of a public office;
+
+(b) if he is a teacher at the University of Malta who is not by the terms of his employment prevented from the private practice of his profession or called upon to place his whole time at the disposal of the Government of Malta.
+
 ###### Tenure of office of members.
 Amended by: XXXVIII.1976.3; XXIV.2015.46.
 
-revision of any electoral register;
-
-( h ) if  he  is  disqualified  for  membership  of  the  House  of Representatives by or under any law for the time being in force in Malta  by  reason of his  having  been convicted  of  any  offence  connected  with  the  election of members of the House of Representatives;
-
-( i ) if he has not yet attained the age of eighteen years.
-
-(2) For the purposes of paragraph ( f )  of  sub-article  (1)  of  this article -
-
-( a ) two  or  more  sentences  that  are  required  to  be  served consecutively shall be  regarded  as  separate  sentences if none of them exceeds twelve months, but if any one of  them  exceeds  that  term  they  shall  be  regarded  as one sentence; and
-
-( b ) no account shall be taken of a sentence of imprisonment  imposed  as  an  alternative  to,  or  in default of, the payment of a fine.
-
-(3) A  person  shall  not  be  treated  as  holding,  or  acting  in,  a public office for the purpose of paragraph ( b ) of sub-article (1) of this article -
-
-( a ) if he is on leave of absence pending relinquishment of a public office;
-
-( b ) if he is a teacher at the University of Malta who is not by  the  terms  of  his  employment  prevented  from  the private  practice  of  his  profession  or  called  upon  to place his whole time at the disposal of the Government of Malta.
-
-55. (1) The  seat  of  a  member  of  Parliament  shall  become vacant-
+55. (1) The seat of a member of Parliament shall become vacant-
 
 ( a ) upon  the  next  dissolution of Parliament  after his election;
 
@@ -1406,13 +1454,11 @@ CONSTITUTION OF MALTA
 
 (2) ( a ) If circumstances such as are referred to in paragraph ( g ) of sub-article (1) of this article arise because any member of the House of Representatives is under sentence of death or imprisonment, interdicted or incapacitated or adjudged to be of unsound mind, adjudged or otherwise declared bankrupt or convicted of an offence connected with elections and if it is open to the member to appeal against the decision (either with the leave of a court or other authority or without such leave), he shall forthwith cease to perform his functions as a member of the House but, subject to the provisions of this article, he shall not vacate his seat until the expiration of a period of thirty days thereafter:
 
-Provided that  the  Speaker  may,  from  time  to  time,  extend that period for further periods of thirty days to enable the member t o   p u r s u e   a n   a p p e a l   a g a i n s t   t h e   d e c i s i o n ,   s o   h o w e v e r   t h a t extensions of time exceeding in the aggregate one hundred and fifty days shall not be given without the approval, signified by resolution, of the House.
+Provided that the Speaker may, from time to time, extend that period for further periods of thirty days to enable the member to pursue an appeal against the decision, so however that extensions of time exceeding in the aggregate one hundred and fifty days shall not be given without the approval, signified by resolution, of the House.
 
 ( b ) If, on the determination of any appeal, such circumstances continue to exist and no further appeal is open to the member, or if, by reason of the expiration of any period for entering an appeal or notice thereof or the refusal of leave to appeal or for any other reason, it ceases to be open to the member to appeal, he shall forthwith vacate his seat.
 
-( c ) If  at  any  time  before  the  member  vacates  his  seat  such circumstances as aforesaid cease to exist, his seat shall not become
-###### Voting at Elections.
-Substituted by: LVIII.1974.22. Amended by: IV.1987.4; XXI.2007.6.
+(c) If at any time before the member vacates his seat such circumstances as aforesaid cease to exist, his seat shall not become
 
 [[END OF PAGE 33]]
 
@@ -1424,19 +1470,22 @@ CONSTITUTION OF MALTA
 
 vacant on the expiration of the period referred to in paragraph ( a ) of this sub-article and he may resume the performance of his functions as a member of the House of Representatives.
 
-( d ) For the purposes of this sub-article "appeal" means, in the case of an order by a court of voluntary jurisdiction for the i nterdiction or incapacitation of a member of the House of Representatives, the taking of any action for the review of that order before the Civil Court, First Hall.
+(d) For the purposes of this sub-article "appeal" means, in the case of an order by a court of voluntary jurisdiction for the interdiction or incapacitation of a member of the House of Representatives, the taking of any action for the review of that order before the Civil Court, First Hall.
+
+###### Voting at Elections.
+Substituted by: LVIII.1974.22. Amended by: IV.1987.4; XXI.2007.6.
 
 56. (1) The members of the House of Representatives shall be elected upon the principle of proportional representation by means of the single transferable vote from such number of electoral divisions, being an odd number and not less than nine and not more than fifteen, as Parliament shall from time to time determine.
 
-(2) The election  of  members  of  the  House  of  Representatives shall be free of illegal or corrupt practices and foreign interference.
+(2) The election of members of the House of Representatives shall be free of illegal or corrupt practices and foreign interference.
 
 (3) It shall be the duty of the Electoral Commission to suspend the election, either in all electoral divisions or in any one or more of such divisions, if it has reasonable ground to believe that illegal or corrupt practices or other offences connected with the elections have been committed or there has been foreign interference and such practices, offences or interference have so extensively prevailed or have been of such nature that they may reasonably be expected to affect the result of the election, in all or in any one or more of the electoral divisions.
 
-(4) In  any  case  in  which  an  election  is  suspended  under  subarticle (3) of this article, the Chief Electoral Commissioner shall forthwith refer the matter to the Constitutional Court for its decision.
+(4) In any case in which an election is suspended under sub-article (3) of this article, the Chief Electoral Commissioner shall forthwith refer the matter to the Constitutional Court for its decision.
 
-(5) Where  any  of  the  grounds  on  which  an  election  may  be suspended under sub-article (3) of this article exist and the election has not been suspended, or where illegal or corrupt practices or other offences or foreign interference as are referred to in that subarticle may reasonably be supposed to have affected the result of an election, in all or in any one or more of the electoral divisions, any person entitled to vote at that election may, not later than three days after the publication of the official result of the election, refer the matter to the Constitutional Court for its decision.
+(5) Where any of the grounds on which an election may be suspended under sub-article (3) of this article exist and the election has not been suspended, or where illegal or corrupt practices or other offences or foreign interference as are referred to in that sub-article may reasonably be supposed to have affected the result of an election, in all or in any one or more of the electoral divisions, any person entitled to vote at that election may, not later than three days after the publication of the official result of the election, refer the matter to the Constitutional Court for its decision.
 
-(6) Any reference to the Constitutional Court under either subarticle (4) or sub-article (5) of this article shall be made and shall be determined by that Court in accordance with any law for the time being in force in Malta. On any such reference the Court shall, without prejudice to any other powers, have power to annul the election, in all or in any one or more of the electoral divisions, on any of the grounds mentioned in the said sub-articles, and to give such directions and orders and to provide such redress and other remedies as it may deem appropriate in the circumstances and in particular to ensure that a free election, in place of any one that may have been annulled, be held at the earliest possible opportunity.
+(6) Any reference to the Constitutional Court under either sub-article (4) or sub-article (5) of this article shall be made and shall be determined by that Court in accordance with any law for the time being in force in Malta. On any such reference the Court shall, without prejudice to any other powers, have power to annul the election, in all or in any one or more of the electoral divisions, on any of the grounds mentioned in the said sub-articles, and to give such directions and orders and to provide such redress and other remedies as it may deem appropriate in the circumstances and in particular to ensure that a free election, in place of any one that may have been annulled, be held at the earliest possible opportunity.
 
 (7) Where an election has been annulled under sub-article (6)
 
@@ -1474,9 +1523,7 @@ Provided  that  where  a  person  is  by  reason  of  blindness unable to mark o
 
 (11) Ballot  papers  shall  be  drawn  up  in  such  a  manner  as  to enable illiterates to distinguish between the political parties to which candidates belong.
 
-(12) Candidates  and  their  agents  shall  be  given  facilities  to watch the transportation of ballot boxes and the sealing and
-###### Qualification of voters.
-Amended by: LVIII.1974.23. IV.2018.5.
+(12) Candidates and their agents shall be given facilities to watch the transportation of ballot boxes and the sealing and
 
 [[END OF PAGE 35]]
 
@@ -1486,34 +1533,37 @@ Amended by: LVIII.1974.23. IV.2018.5.
 
 CONSTITUTION OF MALTA
 
-###### Disqualification of voters.
-Amended by: VII.2014.3.
-
-###### Speaker and Deputy Speaker.
-
 unsealing thereof.
 
-(13) The  expressions  "corrupt  practice",  "offences  connected with the election of members of the House of Representatives" and "foreign interference" have the meaning assigned to them by a law for the time being in force regulating the conduct of elections or foreign interference with respect to elections, and any such law shall be deemed for the purposes of this article and of articles 32 to 47 (inclusive) of this Constitution to be reasonably required in the interest of public order and reasonably justifiable in a democratic society.
+(13) The expressions "corrupt practice", "offences connected with the election of members of the House of Representatives" and "foreign interference" have the meaning assigned to them by a law for the time being in force regulating the conduct of elections or foreign interference with respect to elections, and any such law shall be deemed for the purposes of this article and of articles 32 to 47 (inclusive) of this Constitution to be reasonably required in the interest of public order and reasonably justifiable in a democratic society.
+
+###### Qualification of voters.
+Amended by: LVIII.1974.23. IV.2018.5.
 
 57. Subject to the provisions of article 58 of this Constitution, a person shall be qualified to be registered as a voter for the election of members of the House of Representatives if, and shall not be qualified to be so registered unless -
 
-( a ) he is a citizen of Malta;
+(a) he is a citizen of Malta;
 
-( b ) he has attained the age of sixteen years; and
+(b) he has attained the age of sixteen years; and
 
-( c ) he  is  resident  in  Malta  and  has  during  the  eighteen months immediately preceding his registration been a resident  for  a  continuous  period  of  six  months  or  for periods amounting in the aggregate to six months:
+(c) he is resident in Malta and has during the eighteen months immediately preceding his registration been a resident for a continuous period of six months or for periods amounting in the aggregate to six months:
 
-Provided that this paragraph shall not apply to a person who  is  ordinarily  resident  in  Malta  but  has  not  been resident  in  Malta  as  required  by  this  paragraph  by reason of service abroad in the public service, including  service  in  the  offices  referred  to  in  subarticle  (3)  of  article  124  of  this  Constitution,  or  by reason  of  service  abroad  in,  or  as  a  member  of,  a disciplined force as defined  in article 47  of this Constitution.
+Provided that this paragraph shall not apply to a person who is ordinarily resident in Malta but has not been resident in Malta as required by this paragraph by reason of service abroad in the public service, including service in the offices referred to in sub-article (3) of article 124 of this Constitution, or by reason of service abroad in, or as a member of, a disciplined force as defined in article 47 of this Constitution.
+
+###### Disqualification of voters.
+Amended by: VII.2014.3.
 
 58. No person shall be qualified to be registered as a voter for the election of members of the House of Representatives if -
 
-( a ) he is interdicted or incapacitated for  any  mental infirmity by a court in Malta or is otherwise determined in Malta to be of unsound mind;
+(a) he is interdicted or incapacitated for any mental infirmity by a court in Malta or is otherwise determined in Malta to be of unsound mind;
 
-( b ) he is under sentence of death imposed on him by any court in Malta or is serving a sentence of imprisonment  (by  whatever  name  called)  exceeding twelve  months  imposed  on  him  by  such  a  court  or substituted  by  competent  authority  for  some  other sentence imposed on him by such a court; or
+(b) he is under sentence of death imposed on him by any court in Malta or is serving a sentence of imprisonment (by whatever name called) exceeding twelve months imposed on him by such a court or substituted by competent authority for some other sentence imposed on him by such a court; or
 
-( c ) he is disqualified for registration as a voter by or under any law for the time being in force in Malta by reason of his having been convicted of any offence connected with the election of members of the House of Representatives.
+(c) he is disqualified for registration as a voter by or under any law for the time being in force in Malta by reason of his having been convicted of any offence connected with the election of members of the House of Representatives.
 
-59. (1) When  the  House  of  Representatives  first  meets  after any general election and before it proceeds to the despatch of any other business, it shall elect a person to be the Speaker of the House; and if the office of Speaker falls vacant at any time before the next dissolution of Parliament, the House shall, as soon as practicable, elect another person to that office.
+###### Speaker and Deputy Speaker.
+
+59. (1) When the House of Representatives first meets after any general election and before it proceeds to the despatch of any other business, it shall elect a person to be the Speaker of the House; and if the office of Speaker falls vacant at any time before the next dissolution of Parliament, the House shall, as soon as practicable, elect another person to that office.
 
 [[END OF PAGE 36]]
 
@@ -1523,7 +1573,7 @@ CONSTITUTION OF MALTA
 
 37
 
-- The Speaker may be elected either -
+(2) The Speaker may be elected either -
 
 ( a ) from among persons who are members of the House of Representatives, but are not Ministers or Parliamentary Secretaries, or
 
@@ -1551,9 +1601,7 @@ Provided  that  the  Speaker shall not  vacate his office by reason only that he
 
 ( d ) in the case of the Deputy Speaker, if he is elected to be Speaker.
 
-(5) ( a ) If,  by  virtue  of  sub-article  (2)  of  article  55  of  this Constitution, the Speaker or Deputy Speaker is required to cease to
-###### Establishment of Electoral Commission.
-Amended by: LVIII.1974.24.
+(5) (a) If, by virtue of sub-article (2) of article 55 of this Constitution, the Speaker or Deputy Speaker is required to cease to
 
 [[END OF PAGE 37]]
 
@@ -1569,7 +1617,10 @@ perform his functions as a member of the House of Representatives he shall also 
 
 (ii) in  the  case  of  the  Deputy  Speaker,  by  such member  of  the  House  (not  being  a  Minister  or Parliamentary Secretary) as the House may elect for the purpose.
 
-( b ) If the Speaker or Deputy Speaker resumes the performance of his functions as a member of the House, in accordance with the provisions of sub-article (2) of article 55 of this Constitution, he shall also resume the performance of his functions of Speaker or Deputy Speaker, as the case may be.
+(b) If the Speaker or Deputy Speaker resumes the performance of his functions as a member of the House, in accordance with the provisions of sub-article (2) of article 55 of this Constitution, he shall also resume the performance of his functions of Speaker or Deputy Speaker, as the case may be.
+
+###### Establishment of Electoral Commission.
+Amended by: LVIII.1974.24.
 
 60. (1) There shall be an Electoral Commission for Malta.
 
@@ -1601,20 +1652,20 @@ CONSTITUTION OF MALTA
 
 (9) In the exercise of its functions under this Constitution the Electoral Commission shall not be subject to the direction or control of any other person or authority.
 
+###### Electoral divisions.
+Amended by: LVIII.1974.25; XXI.2007.2.
+
 61. (1) The Electoral Commission shall review the boundaries of the electoral divisions referred to in article 56(1) of this Constitution at intervals of not less than two nor more than five years and may, in accordance with the provisions of this article, alter such boundaries to such extent as it considers desirable in the light of the review:
 
 Provided that the Commission shall carry out such a review and, in accordance with the provisions of this article, alter the said boundaries whenever Parliament has made provision altering the number of electoral divisions; and in addition the Commission may at any time carry out such a review and, in accordance with the provisions of this article, alter the said boundaries to such extent as it considers desirable in consequence of the holding of a census of the population in pursuance of any law.
 
-(2) Any  provision by Parliament altering the number of electoral divisions shall come into effect when the alteration of the boundaries of the electoral divisions that, in accordance with the provisions of sub-article (1) of this article, is consequential thereon comes into effect.
+(2) Any provision by Parliament altering the number of electoral divisions shall come into effect when the alteration of the boundaries of the electoral divisions that, in accordance with the provisions of sub-article (1) of this article, is consequential thereon comes into effect.
 
-(3) Whenever  an  alteration  of  boundaries  is  made  by  the Commission under this article the following provisions shall have effect:
+(3) Whenever an alteration of boundaries is made by the Commission under this article the following provisions shall have effect:
 
-( a ) the  Chief  Electoral  Commissioner  shall,  as  soon  as practicable after it is made, communicate the alteration to the Prime  Minister and to the  Leader of the Opposition;
+(a) the Chief Electoral Commissioner shall, as soon as practicable after it is made, communicate the alteration to the Prime Minister and to the Leader of the Opposition;
 
-( b ) not  later  than  two  months  from  the  receipt  of  such communication,  the  Prime  Minister  shall  cause  the alteration to be placed before the House of Representatives for consideration by it;
-
-###### Electoral divisions.
-Amended by: LVIII.1974.25; XXI.2007.2.
+(b) not later than two months from the receipt of such communication, the Prime Minister shall cause the alteration to be placed before the House of Representatives for consideration by it;
 
 [[END OF PAGE 39]]
 
@@ -1638,7 +1689,7 @@ Provided  that  any  such  alteration  may  be  made  in  such manner that the n
 
 Provided further that the Island of Gozo and the islands of the Maltese Archipelago other than the Island of Malta shall together be treated as one electoral division and may not be divided between two or more electoral divisions.
 
-(4A) The boundaries of electoral divisions for the purpose of any general elections to be held after the dissolution of Parliament after the 1st of September 2007 shall be those boundaries as existing on that date with such adjustments made in accordance with the provisions of the proviso to sub-article (4B) of this article as may be necessary in order that the electoral divisions for those elections shall comply with the provisions of the second proviso of subarticle (4) of this article and of article 61A of this Constitution.
+(4A) The boundaries of electoral divisions for the purpose of any general elections to be held after the dissolution of Parliament after the 1st of September 2007 shall be those boundaries as existing on that date with such adjustments made in accordance with the provisions of the proviso to sub-article (4B) of this article as may be necessary in order that the electoral divisions for those elections shall comply with the provisions of the second proviso of sub-article (4) of this article and of article 61A of this Constitution.
 
 [[END OF PAGE 40]]
 
@@ -1656,15 +1707,16 @@ Provided  that  the  Electoral  Commission  shall  by  the  30th September 2007 
 
 (6) The conduct of elections in every electoral division and of any vote taken under the provisions of article 66(3) of this Constitution shall be subject to the direction and supervision of the Electoral Commission.
 
+###### Gozo and the islands of the Maltese Archipelago other than the Island of Malta not to be divided.
+Added by: XXI.2007.3.
+
 61A. (1) The following provisions of this article shall apply if, when reviewing the boundaries of the electoral divisions in accordance with the provisions of article 61 of this Constitution, the Electoral Commission would, but for the provisions of the second proviso of sub-article (4) of the same article, have had to divide the Island of Gozo and the islands of the Maltese Archipelago other than the Island of Malta, or any part thereof, between two or more electoral divisions.
 
-- The Electoral Commission shall:
+(2) The Electoral Commission shall:
 
-( a ) establish the Island of Gozo together with the islands of  the  Maltese  Archipelago  other  than  the  Island  of Malta as one electoral division; and
+(a) establish the Island of Gozo together with the islands of the Maltese Archipelago other than the Island of Malta as one electoral division; and
 
-( b ) apply  the  provisions  of  sub-articles  (4)  and  (5)  of article  61  of  this  Constitution  only  with  reference  to the voters and divisions on the Island of Malta without including in its calculations the division consisting of Gozo and the other islands of the Maltese Archipelago or the voters therein.
-
-###### Gozo and the islands of the Maltese Archipelago other than the Island of Malta not to be divided. Added by: XXI.2007.3 .
+(b) apply the provisions of sub-articles (4) and (5) of article 61 of this Constitution only with reference to the voters and divisions on the Island of Malta without including in its calculations the division consisting of Gozo and the other islands of the Maltese Archipelago or the voters therein.
 
 [[END OF PAGE 41]]
 
@@ -1676,37 +1728,40 @@ CONSTITUTION OF MALTA
 
 Cap. 354.
 
+(3) For the purposes of paragraph (b) of subarticle (2) of this article, when calculating the number of voters in each electoral division on the Island of Malta the total number of electoral divisions shall be the number of electoral divisions established by article 17 of the General Elections Act minus one.
+
 ###### Filling of vacancies.
 
-###### Determination of questions as to membership. Amended by: XLVII.1972.2; XXIV.2015.47.
+62. Whenever the seat of any member of the House of Representatives becomes vacant the vacancy shall be filled in the manner provided by or under any law for the time being in force in Malta.
 
-###### Clerk to House of Representatives and his staff. Amended by: XLII. 2016.20.
-
-###### Office of Ombudsman. Added by: XIV.2007.2.
-
-(3) For the purposes of paragraph ( b )  of  subarticle  (2)  of  this article, when calculating the number of voters in each electoral division on the Island of Malta the total number of electoral divisions shall be the number of electoral divisions established by article 17 of the General Elections Act minus one.
-
-62. Whenever  the  seat  of  any  member  of  the  House  of Representatives becomes vacant the vacancy shall be filled in the manner provided by or under any law for the time being in force in Malta.
+###### Determination of questions as to membership.
+Amended by: XLVII.1972.2; XXIV.2015.47.
 
 63. Any question whether -
 
-( a ) any person has been validly elected as a member of the House of Representatives;
+(a) any person has been validly elected as a member of the House of Representatives;
 
-( b ) any member of the House has vacated his seat therein or  is  required,  under  the  provisions  of  sub-article  (2) of  article  55  of  this  Constitution,  to  cease  to  perform his functions as a member;
+(b) any member of the House has vacated his seat therein or is required, under the provisions of sub-article (2) of article 55 of this Constitution, to cease to perform his functions as a member;
 
-( c ) any  person  has  been  validly  elected  as  Speaker  from among persons who are not members of the House or, having  been  so  elected,  has  vacated  the  office  of Speaker; or
+(c) any person has been validly elected as Speaker from among persons who are not members of the House or, having been so elected, has vacated the office of Speaker; or
 
-( d ) the seat of a Member of Parliament has become vacant in  terms  of  paragraph  (ff)  of  sub-article  (1)  of  article 55,
+(d) the seat of a Member of Parliament has become vacant in terms of paragraph (ff) of sub-article (1) of article 55,
 
-shall be referred to and determined by the Constitutional Court in accordance  with  the  provisions  of  any  law  for  the  time  being  in force in Malta.
+shall be referred to and determined by the Constitutional Court in accordance with the provisions of any law for the time being in force in Malta.
+
+###### Clerk to House of Representatives and his staff.
+Amended by: XLII. 2016.20.
 
 64. (1) There shall be a Clerk to the House of Representatives.
 
-(2) Without  prejudice  to  the  provisions  of  sub-article  (6)  of article 110 of this Constitution and to any other law applicable to employment in the public sector, and without prejudice to the provisions of sub-article (1) of this article, the Speaker may appoint such officials and employees as may be required for the fulfilment of functions, powers and duties under the Parliamentary Service Act. The said power of appointment includes the power to approve the number of persons who may be appointed under this article both with reference to the total number and with reference to specific duties, salaries and conditions of employment:
+(2) Without prejudice to the provisions of sub-article (6) of article 110 of this Constitution and to any other law applicable to employment in the public sector, and without prejudice to the provisions of sub-article (1) of this article, the Speaker may appoint such officials and employees as may be required for the fulfilment of functions, powers and duties under the Parliamentary Service Act. The said power of appointment includes the power to approve the number of persons who may be appointed under this article both with reference to the total number and with reference to specific duties, salaries and conditions of employment:
 
 Provided that once the number of posts in the Parliamentary Service has been approved by the Minister for Finance and funds are made available, no further administrative approvals shall be required for the Parliamentary Service to conclude contracts of employment in accordance with those approvals.
 
-64A. (1) There  shall  be  a  Commissioner  for  Administrative Investigations to be called the Ombudsman who shall have the function to investigate actions taken by or on behalf of the Government, or by such other authority, body or person as may be provided by law (including an authority, body or office established by this Constitution), being actions taken in the exercise of their administrative functions.
+###### Office of Ombudsman.
+Added by: XIV.2007.2.
+
+64A. (1) There shall be a Commissioner for Administrative Investigations to be called the Ombudsman who shall have the function to investigate actions taken by or on behalf of the Government, or by such other authority, body or person as may be provided by law (including an authority, body or office established by this Constitution), being actions taken in the exercise of their administrative functions.
 
 [[END OF PAGE 42]]
 
@@ -1716,33 +1771,35 @@ CONSTITUTION OF MALTA
 
 43
 
-(2) The  manner  of  appointment,  the  term  of  office,  and  the manner of removal or suspension from office of the Ombudsman together with any other matter ancillary or incidental thereto or considered necessary or expedient for the carrying out of the function referred to in sub-article (1) shall be provided for by an Act of Parliament.
+(2) The manner of appointment, the term of office, and the manner of removal or suspension from office of the Ombudsman together with any other matter ancillary or incidental thereto or considered necessary or expedient for the carrying out of the function referred to in sub-article (1) shall be provided for by an Act of Parliament.
 
 #### PART 2
 
 ##### Powers and Procedure of Parliament
 
+###### Power to make laws.
+Amended by: V.2003.7.
+
 65. (1) Subject to the provisions of this Constitution, Parliament may make laws for the peace, order and good government of Malta in conformity with full respect for human rights, generally accepted principles of international law and Malta's international and regional obligations in particular those assumed by the treaty of accession to the European Union signed in Athens on the 16th April, 2003.
 
-(2) Without  prejudice  to  the  generality  of  sub-article  (1)  and subject to the provisions of sub-articles (3), (4) and (5) of this article, Parliament may by law determine the privileges, immunities and powers of the House of Representatives and the members thereof.
+(2) Without prejudice to the generality of sub-article (1) and subject to the provisions of sub-articles (3), (4) and (5) of this article, Parliament may by law determine the privileges, immunities and powers of the House of Representatives and the members thereof.
 
 (3) No civil or criminal proceedings may be instituted against any member of the House of Representatives for words spoken before, or written in a report to, the House or a committee thereof or by reason of any matter or thing brought by him therein by petition, bill, resolution, motion or otherwise.
 
-(4) For  the  duration  of  any  session  members  of  the  House  of Representatives shall enjoy freedom from arrest for any civil debt except a debt the contraction of which constitutes a criminal offence.
+(4) For the duration of any session members of the House of Representatives shall enjoy freedom from arrest for any civil debt except a debt the contraction of which constitutes a criminal offence.
 
 (5) No process issued by any court in the exercise of its civil jurisdiction shall be served or executed within the precincts of the House of Representatives while the House is sitting or through the Speaker, the Clerk or any officer of the House.
 
-66. (1) Subject  to  the  provisions  of  this  article,  Parliament may alter any of the provisions of this Constitution and (in so far as it forms part of the law of Malta) any of the provisions of the Malta Independence Act, 1964.
+###### Alteration of this Constitution.
+Substituted by: LVIII.1974.26. Amended by: IV.1987.5; XIII.2001.3; XIV.2007.3: XLIV.2016.2.
 
-- In so far as it alters -
+66. (1) Subject to the provisions of this article, Parliament may alter any of the provisions of this Constitution and (in so far as it forms part of the law of Malta) any of the provisions of the Malta Independence Act, 1964.
 
-( a ) this article; or
+(2) In so far as it alters -
 
-( b ) article 1, sub-article (2) of article 2, sub-article (1) of article 3, sub-article (1) of article 5, article 6, articles 32 to 48 (inclusive), articles 51, 52, 56, 57, 60, 61 and 64A,  sub-article  (3)  of  article  65,  sub-article  (2)  of article 75, article 76 (other than sub-article (2) thereof),  articles  77  and  78,  article  80,  article  91, articles  95,  96,  96A,  97,  98,  99,  100,  101A,  101B,
+(a) this article; or
 
-###### Power to make laws. Amended by: V.2003.7.
-
-###### Alteration of this Constitution. Substituted by: LVIII.1974.26. Amended by: IV.1987.5; XIII.2001.3; XIV.2007.3: XLIV.2016.2.
+(b) article 1, sub-article (2) of article 2, sub-article (1) of article 3, sub-article (1) of article 5, article 6, articles 32 to 48 (inclusive), articles 51, 52, 56, 57, 60, 61 and 64A, sub-article (3) of article 65, sub-article (2) of article 75, article 76 (other than sub-article (2) thereof), articles 77 and 78, article 80, article 91, articles 95, 96, 96A, 97, 98, 99, 100, 101A, 101B,
 
 [[END OF PAGE 43]]
 
@@ -1758,7 +1815,7 @@ articles 102 to 110 (inclusive), articles 113, 114, 115A, 118, 119 or 120 of thi
 
 a bill for an Act of Parliament under this article shall not be passed in the House of Representatives unless at the final voting thereon in that House it is supported by the votes of not less than two-thirds of all the members of the House.
 
-- In so far as it alters -
+(3) In so far as it alters -
 
 ( a ) this sub-article or sub-article (4) of this article; or
 
@@ -1786,44 +1843,45 @@ CONSTITUTION OF MALTA
 
 45
 
-67. (1) Subject  to  the  provisions  of  this  Constitution,  the House of Representatives may regulate its own procedure.
+###### Regulation of procedure in House of Representatives.
+
+67. (1) Subject to the provisions of this Constitution, the House of Representatives may regulate its own procedure.
 
 (2) The House of Representatives may act notwithstanding any vacancy in its membership (including any vacancy not filled when the House first meets on or after the appointed day or after any dissolution of Parliament) and the presence or participation of any person not entitled to be present at or to participate in the proceedings of the House shall not invalidate those proceedings.
 
 (3) Any provision made in pursuance of sub-article (1) of this article for setting up Committees of the House to enquire into matters of general public importance shall be designed to secure that, so far as it appears practicable to the House, any such Committee is so composed as fairly to represent the House.
 
-68. No  member  of  the  House  of  Representatives  shall  be permitted to take part in the proceedings of the House (other than proceedings necessary for the purposes of this article) until he has taken and subscribed before the House the oath of allegiance:
+###### Oath to be taken by members of House of Representatives.
+
+68. No member of the House of Representatives shall be permitted to take part in the proceedings of the House (other than proceedings necessary for the purposes of this article) until he has taken and subscribed before the House the oath of allegiance:
 
 Provided that the election of the Speaker and Deputy Speaker may take place before the members of the House have taken and subscribed such oath.
 
-69. (1) There  shall  preside  at  any  sitting  of  the  House  of Representatives -
-
-( a ) the Speaker; or
-
-( b ) in the absence of the Speaker, the Deputy Speaker; or
-
-( c ) in the absence of the Speaker and the Deputy Speaker, such member of the House (not being a Minister or a Parliamentary  Secretary)  as  the  House  may  elect  for that purpose.
-
-(2) References  in  this  article  to  circumstances  in  which  the Speaker or the Deputy Speaker is absent include references to circumstances in which the office of Speaker or Deputy Speaker is vacant.
-
-70. (1) If  at  any  sitting  of  the  House  of  Representatives  any member who is present draws the attention of the person presiding at the sitting to the absence of a quorum and, after such interval as may be prescribed in the Standing Orders of the House, the person presiding at the sitting ascertains that a quorum of the House is still not present, the House shall be adjourned.
-
-- For the purposes of this article -
-
-( a ) a quorum of the House of Representatives shall consist of fifteen members; and
-
-( b ) the  person  presiding  at  the  sitting  of  the  House  shall not be included in reckoning whether there is a quorum present.
-
-71. (1) Save  as  otherwise  provided  in  this  Constitution,  all questions proposed for decision in the House of Representatives
-###### Regulation of procedure in House of Representatives.
-
-###### Oath to be taken by members of House of Representatives.
-
 ###### Presiding in House of Representatives.
+
+69. (1) There shall preside at any sitting of the House of Representatives -
+
+(a) the Speaker; or
+
+(b) in the absence of the Speaker, the Deputy Speaker; or
+
+(c) in the absence of the Speaker and the Deputy Speaker, such member of the House (not being a Minister or a Parliamentary Secretary) as the House may elect for that purpose.
+
+(2) References in this article to circumstances in which the Speaker or the Deputy Speaker is absent include references to circumstances in which the office of Speaker or Deputy Speaker is vacant.
 
 ###### Quorum in House of Representatives.
 
+70. (1) If at any sitting of the House of Representatives any member who is present draws the attention of the person presiding at the sitting to the absence of a quorum and, after such interval as may be prescribed in the Standing Orders of the House, the person presiding at the sitting ascertains that a quorum of the House is still not present, the House shall be adjourned.
+
+(2) For the purposes of this article -
+
+(a) a quorum of the House of Representatives shall consist of fifteen members; and
+
+(b) the person presiding at the sitting of the House shall not be included in reckoning whether there is a quorum present.
+
 ###### Voting.
+
+71. (1) Save as otherwise provided in this Constitution, all questions proposed for decision in the House of Representatives
 
 [[END OF PAGE 45]]
 
@@ -1833,19 +1891,16 @@ Provided that the election of the Speaker and Deputy Speaker may take place befo
 
 CONSTITUTION OF MALTA
 
-###### Mode of exercising legislative powers. Amended by: LVIII.1974.27.
-
-###### Restriction with regard to certain financial measures. Amended by: LVIII.1974.28.
-
-###### Language of Laws.
-
 shall be determined by a majority of the votes of the members thereof present and voting.
 
 (2) The Speaker shall not vote unless on any question the votes are equally divided, in which case he shall have and exercise a casting vote.
 
-(3) Any  other  person  shall,  when  presiding  in  the  House  of Representatives, retain his original vote as a member and, if upon any question, the votes are equally divided, shall also have and exercise a casting vote.
+(3) Any other person shall, when presiding in the House of Representatives, retain his original vote as a member and, if upon any question, the votes are equally divided, shall also have and exercise a casting vote.
 
-72. (1) The  power  of  Parliament  to  make  laws  shall  be exercised by bills passed by the House of Representatives and assented to by the President.
+###### Mode of exercising legislative powers.
+Amended by: LVIII.1974.27.
+
+72. (1) The power of Parliament to make laws shall be exercised by bills passed by the House of Representatives and assented to by the President.
 
 (2) When a bill is presented to the President for assent, he shall without delay signify that he assents.
 
@@ -1853,13 +1908,18 @@ shall be determined by a majority of the votes of the members thereof present an
 
 (4) When a law has been assented to by the President it shall without delay be published in the Gazette and shall not come into operation until it has been so published, but Parliament may postpone the coming into operation of any such law and may make laws with retrospective effect.
 
+###### Restriction with regard to certain financial measures.
+Amended by: LVIII.1974.28.
+
 73. Except upon the recommendations of the President signified by a Minister, the House of Representatives shall not -
 
-( a ) proceed upon any bill (including any amendment to a bill) that, in the opinion of the person presiding, makes provision for any of the following purposes, that is to say,  for  imposing or increasing any tax, for imposing or  increasing  any  charge  on  the  revenues  or  other funds of Malta or for altering any such charge otherwise than by reducing it, or for compounding or remitting any debt due to Malta;
+(a) proceed upon any bill (including any amendment to a bill) that, in the opinion of the person presiding, makes provision for any of the following purposes, that is to say, for imposing or increasing any tax, for imposing or increasing any charge on the revenues or other funds of Malta or for altering any such charge otherwise than by reducing it, or for compounding or remitting any debt due to Malta;
 
-( b ) proceed  upon  any  motion  (including  any  amendment to a motion) the effect of which, in the opinion of the person presiding, would be to make provision for any of the purposes aforesaid; or
+(b) proceed upon any motion (including any amendment to a motion) the effect of which, in the opinion of the person presiding, would be to make provision for any of the purposes aforesaid; or
 
-( c ) receive  any  petition  which,  in  the  opinion  of  the person presiding, requests that provision be made for any of the purposes aforesaid.
+(c) receive any petition which, in the opinion of the person presiding, requests that provision be made for any of the purposes aforesaid.
+
+###### Language of Laws.
 
 74. Save as otherwise provided by Parliament, every law shall be enacted in both the Maltese and English languages and, if there is any conflict between the Maltese and the English texts of any law, the Maltese text shall prevail.
 
@@ -1875,19 +1935,25 @@ CONSTITUTION OF MALTA
 
 ##### Summoning, prorogation and dissolution
 
-75. (1) Each  session  of  Parliament  shall  commence  at  such time as the President may by proclamation appoint and shall be held at such place or places as the President by proclamation, or as t h e   H o u s e   o f   R e p r e s e n t a t i v e s   i n   a n y   m a n n e r   i t   m a y   d e e m appropriate, may from time to time appoint.
+###### Sessions of Parliament.
+Amended by: LVIII.1974.29.
+
+75. (1) Each session of Parliament shall commence at such time as the President may by proclamation appoint and shall be held at such place or places as the President by proclamation, or as the House of Representatives in any manner it may deem appropriate, may from time to time appoint.
 
 (2) There shall be a session of Parliament once at least in every year, so that a period of twelve months shall not intervene between the last sitting of Parliament in one session and the first sitting thereof in the next session.
 
 (3) The House of Representatives shall meet not later than two months after the publication of the official result of any general election by the Electoral Commission on a day appointed by the President.
 
-76. (1) The President may  at any time by proclamation prorogue or dissolve Parliament.
+###### Prorogation and dissolution of Parliament.
+Amended by: LVIII.1974.30.
 
-(2) Subject  to  the  provisions  of  sub-article  (3)  of  this  article, Parliament, unless sooner dissolved, shall continue for five years from the date of its first sitting after any dissolution and shall then stand dissolved.
+76. (1) The President may at any time by proclamation prorogue or dissolve Parliament.
 
-(3) At  any  time  when  Malta  is  at  war,  Parliament  may  from time to time extend the period of five years specified in sub-article (2) of this article for not more than twelve months at a time:
+(2) Subject to the provisions of sub-article (3) of this article, Parliament, unless sooner dissolved, shall continue for five years from the date of its first sitting after any dissolution and shall then stand dissolved.
 
-Provided that  the  life  of  Parliament  shall  not  be  extended under this sub-article for more than five years.
+(3) At any time when Malta is at war, Parliament may from time to time extend the period of five years specified in sub-article (2) of this article for not more than twelve months at a time:
+
+Provided that the life of Parliament shall not be extended under this sub-article for more than five years.
 
 (4) If between a dissolution of Parliament and the next ensuing general election of members of the House of Representatives an emergency arises of such a nature that, in the opinion of the Prime Minister it is necessary to recall Parliament, the President may by proclamation summon the Parliament that has been dissolved to meet, and that Parliament shall thereupon be deemed (except for the purpose of article 77 and, in relation to the next ensuing general election, article 61(3) and 66(6) of this Constitution) not to have been dissolved but shall be deemed (except as aforesaid) to be dissolved on the date on which the polls are concluded in the next ensuing general election.
 
@@ -1895,13 +1961,9 @@ Provided that  the  life  of  Parliament  shall  not  be  extended under this su
 
 Provided that -
 
-( a ) if  the  House  of  Representatives  passes  a  resolution, supported by the votes of a majority of all the members  thereof,  that  it  has  no  confidence  in  the Government, and the  Prime  Minister  does  not  within three  days  either  resign  from  his  office  or  advise  a dissolution, the President may dissolve Parliament;
+(a) if the House of Representatives passes a resolution, supported by the votes of a majority of all the members thereof, that it has no confidence in the Government, and the Prime Minister does not within three days either resign from his office or advise a dissolution, the President may dissolve Parliament;
 
-( b ) if  the  office  of  Prime  Minister  is  vacant  and  the
-
-###### Sessions of Parliament. Amended by: LVIII.1974.29.
-
-###### Prorogation and dissolution of Parliament. Amended by: LVIII.1974.30.
+(b) if the office of Prime Minister is vacant and the
 
 [[END OF PAGE 47]]
 
@@ -1911,17 +1973,12 @@ Provided that -
 
 CONSTITUTION OF MALTA
 
-###### General elections. Amended by: LVIII.1974.31.
+President considers that there is no prospect of his being able within a reasonable time to appoint to that office a person who can command the support of a majority of the members of the House of Representatives, the President may dissolve Parliament; and
 
-#### Executive authority of Malta. Substituted by: LVIII.1974.32.
+(c) if the Prime Minister recommends a dissolution and the President considers that the Government of Malta can be carried on without a dissolution and that a dissolution would not be in the interests of Malta, the President may refuse to dissolve Parliament.
 
-#### The Cabinet.
-
-#### Appointment of Ministers. Amended by: LVIII.1974.33.
-
-President  considers  that  there  is  no  prospect  of  his being able within a reasonable time to appoint to that office  a  person  who  can  command  the  support  of  a majority of the members of the House of Representatives, the President may dissolve Parliament; and
-
-( c ) if  the  Prime  Minister  recommends  a  dissolution  and the President considers that the Government of Malta can  be  carried  on  without  a  dissolution  and  that  a dissolution would not be in the interests of Malta, the President may refuse to dissolve Parliament.
+###### General elections.
+Amended by: LVIII.1974.31.
 
 77. A general election of members of the House of Representatives shall be held at such time within three months after every dissolution of Parliament as the President acting in accordance with the advice of the Prime Minister, shall by proclamation appoint.
 
@@ -1929,19 +1986,27 @@ President  considers  that  there  is  no  prospect  of  his being able within a
 
 ### The Executive
 
-78. (1) The  executive  authority  of  Malta  is  vested  in  the President.
+#### Executive authority of Malta.
+Substituted by: LVIII.1974.32.
+
+78. (1) The executive authority of Malta is vested in the President.
 
 (2) The executive authority of Malta shall be exercised by the President, either directly or through officers subordinate to him, in accordance with the provisions of this Constitution.
 
-(3) Nothing in this article shall prevent Parliament  from conferring functions on persons or authorities other than the President.
+(3) Nothing in this article shall prevent Parliament from conferring functions on persons or authorities other than the President.
+
+#### The Cabinet.
 
 79. (1) There shall be a Cabinet for Malta which shall consist of the Prime Minister and such number of other Ministers as may be appointed in accordance with article 80 of this Constitution.
 
 (2) The Cabinet shall have the general direction and control of the Government of Malta and shall be collectively responsible therefor to Parliament.
 
+#### Appointment of Ministers.
+Amended by: LVIII.1974.33.
+
 80. Wherever there shall be occasion for the appointment of a Prime Minister, the President shall appoint as Prime Minister the member of the House of Representatives who, in his judgment, is best able to command the support of a majority of the members of that House and shall, acting in accordance with the advice of the Prime Minister, appoint the other Ministers from among the members of the House of Representatives:
 
-Provided that if occasion arises for making an appointment to the office of Prime Minister or any other Minister while Parliament is dissolved, a person who was a member of the House of Representatives immediately before the dissolution may be appointed as Prime Minister or any other Minister as if, in each case,  such  person  were  still  a  member  of  the  House  of Representatives, but any person so appointed shall vacate office at the beginning of the next session of Parliament if he is not then a member thereof.
+Provided that if occasion arises for making an appointment to the office of Prime Minister or any other Minister while Parliament is dissolved, a person who was a member of the House of Representatives immediately before the dissolution may be appointed as Prime Minister or any other Minister as if, in each case, such person were still a member of the House of Representatives, but any person so appointed shall vacate office at the beginning of the next session of Parliament if he is not then a member thereof.
 
 [[END OF PAGE 48]]
 
@@ -1951,35 +2016,37 @@ CONSTITUTION OF MALTA
 
 49
 
-81. (1) If  the  House  of  Representatives  passes  a  resolution, supported by the votes of a majority of all the members thereof, that it has no confidence in the Government, the President may remove the Prime Minister from office:
+#### Tenure of office of Ministers.
+Amended by: LVIII.1974.34.
+
+81. (1) If the House of Representatives passes a resolution, supported by the votes of a majority of all the members thereof, that it has no confidence in the Government, the President may remove the Prime Minister from office:
 
 Provided that the President shall not do so unless three days have elapsed and he has decided not to dissolve Parliament under article 76 of this Constitution.
 
-- The office of Prime Minister shall also become vacant -
+(2) The office of Prime Minister shall also become vacant -
 
-( a ) when,  after  any  dissolution  of  Parliament,  the  Prime Minister is informed by the President that the President is about to re-appoint him as Prime Minister or to appoint another person as Prime Minister;
+(a) when, after any dissolution of Parliament, the Prime Minister is informed by the President that the President is about to re-appoint him as Prime Minister or to appoint another person as Prime Minister;
 
-( b ) if he ceases to be a member  of the House of Representatives  otherwise  than  by  a  dissolution  of Parliament; or
+(b) if he ceases to be a member of the House of Representatives otherwise than by a dissolution of Parliament; or
 
-( c ) if, under the provisions of sub-article (2) of article 55 of this Constitution, he is required to cease to perform his functions as a member of the House of Representatives.
+(c) if, under the provisions of sub-article (2) of article 55 of this Constitution, he is required to cease to perform his functions as a member of the House of Representatives.
 
-(3) The  office  of  a  Minister,  other  than  the  office  of  Prime Minister shall become vacant -
+(3) The office of a Minister, other than the office of Prime Minister shall become vacant -
 
-( a ) upon the appointment or re-appointment of any person to the office of Prime Minister;
+(a) upon the appointment or re-appointment of any person to the office of Prime Minister;
 
-( b ) if  his  appointment  to  his  office  is  revoked  by  the President, acting in accordance with the advice of the Prime Minister;
+(b) if his appointment to his office is revoked by the President, acting in accordance with the advice of the Prime Minister;
 
-( c ) if he ceases to be a member  of the House of Representatives  otherwise  than  by  a  dissolution  of Parliament; or
+(c) if he ceases to be a member of the House of Representatives otherwise than by a dissolution of Parliament; or
 
-( d ) if, under the provisions of sub-article (2) of article 55 of this Constitution, he is required to cease to perform his functions as a member of the House of Representatives.
+(d) if, under the provisions of sub-article (2) of article 55 of this Constitution, he is required to cease to perform his functions as a member of the House of Representatives.
 
-82. (1) Subject  to  the  provisions  of  this  Constitution,  the President, acting in accordance with the advice of the Prime Minister, may, by directions in writing, assign to the Prime Minister or any other Minister responsibility for any business of the Government of Malta including the administration of any department of government.
+#### Allocation of portfolios to Ministers.
+Amended by: LVIII.1974.35.
 
-(2) Nothing  in  this  article  shall  empower  the  President  to confer on any Minister authority to exercise any power or to discharge any duty that is conferred or imposed by this Constitution or any other law on any person or authority other than that Minister.
+82. (1) Subject to the provisions of this Constitution, the President, acting in accordance with the advice of the Prime Minister, may, by directions in writing, assign to the Prime Minister or any other Minister responsibility for any business of the Government of Malta including the administration of any department of government.
 
-#### Tenure of office of Ministers . Amended by: LVIII.1974.34.
-
-#### Allocation of portfolios to Ministers. Amended by: LVIII.1974.35.
+(2) Nothing in this article shall empower the President to confer on any Minister authority to exercise any power or to discharge any duty that is conferred or imposed by this Constitution or any other law on any person or authority other than that Minister.
 
 [[END OF PAGE 49]]
 
@@ -1989,17 +2056,17 @@ Provided that the President shall not do so unless three days have elapsed and h
 
 CONSTITUTION OF MALTA
 
-#### Acting Prime Minister. Substituted by: LVIII.1974.36.
-
-#### Temporary Ministers. Amended by: LVIII.1974.37.
-
-#### Exercise of functions of President. Amended by: LVIII.1974.38.
+#### Acting Prime Minister.
+Substituted by: LVIII.1974.36.
 
 83. (1) Whenever the Prime Minister is absent from Malta or on vacation, or is unable by reason of illness to perform the functions of his office, the President may authorise any other member of the Cabinet to perform those functions (other than the functions conferred by this article) and that member may perform those functions until his authority is revoked by the President.
 
-(2) The  powers  of  the  President  under  this  article  shall  be exercised by him in accordance with the advice of the Prime Minister:
+(2) The powers of the President under this article shall be exercised by him in accordance with the advice of the Prime Minister:
 
 Provided that if the President considers that it is impracticable to obtain the advice of the Prime Minister owing to his absence or illness he may exercise those powers without that advice.
+
+#### Temporary Ministers.
+Amended by: LVIII.1974.37.
 
 84. (1) Whenever a Minister other than the Prime Minister is unable, by reason of his illness or absence from Malta, to perform the functions of his office, the President may appoint another member of the House of Representatives to be a temporary Minister:
 
@@ -2007,17 +2074,20 @@ Provided that if occasion arises for making an appointment while Parliament is d
 
 (2) Subject to the provisions of article 81 of this Constitution, a temporary Minister shall hold office until he is notified by the President that the Minister on account of whose inability to perform the functions of his office he was appointed is again able to perform those functions or until that Minister vacates his office.
 
-(3) The  powers  of  the  President  under  this  article  shall  be exercised by him in accordance with the advice of the Prime Minister.
+(3) The powers of the President under this article shall be exercised by him in accordance with the advice of the Prime Minister.
 
-85. (1) In the exercise of his functions the President shall act in accordance with the advice of the Cabinet or a Minister acting under the general authority of the Cabinet except in cases where he i s   r e q u i r e d   b y   t h i s   C o n s t i t u t i o n   o r   a n y   o t h e r   l a w   t o   a c t   i n accordance with the advice of any person or authority other than the Cabinet:
+#### Exercise of functions of President.
+Amended by: LVIII.1974.38.
+
+85. (1) In the exercise of his functions the President shall act in accordance with the advice of the Cabinet or a Minister acting under the general authority of the Cabinet except in cases where he is required by this Constitution or any other law to act in accordance with the advice of any person or authority other than the Cabinet:
 
 Provided that the President shall act in accordance with his own deliberate judgment in the performance of the following functions-
 
-( a ) in the exercise of the powers relating to the dissolution of  Parliament  conferred  upon  him  by  the  proviso  to sub-article (5) of article 76 of this Constitution;
+(a) in the exercise of the powers relating to the dissolution of Parliament conferred upon him by the proviso to sub-article (5) of article 76 of this Constitution;
 
-( b ) in  the  exercise  of  the  power  to  appoint  the  Prime Minister  or  remove  the  Prime  Minister  from  office conferred upon him by article 80 and sub-article (1) of article 81 of this Constitution;
+(b) in the exercise of the power to appoint the Prime Minister or remove the Prime Minister from office conferred upon him by article 80 and sub-article (1) of article 81 of this Constitution;
 
-( c ) in  the  exercise  of  the  powers  conferred  upon  him  by
+(c) in the exercise of the powers conferred upon him by
 
 [[END OF PAGE 50]]
 
@@ -2027,15 +2097,17 @@ CONSTITUTION OF MALTA
 
 51
 
-article  83  of  this  Constitution  (which  relates  to  the performance  of  the  functions  of  the  Prime  Minister during absence, vacation or illness) in the circumstances  described  in  the  proviso  to  sub-article (2)of that article;
+article  83  of  this  Constitution  (which  relates  to  the performance  of  the  functions  of  the  Prime  Minister during absence, vacation or illness) in the circumstances  described  in  the  proviso  to  sub-article (2) of that article;
 
 ( d ) in  the  exercise  of  the  power  to  appoint  the  Leader  of the  Opposition  and  to  revoke  any  such  appointment conferred upon him by article 90 of this Constitution; and
 
-( e ) in  signifying  his  approval  for  the  purposes  of  subarticle  (4)  of  article  110  of  this  Constitution  of  an appointment to an office on his personal staff.
+( e ) in  signifying  his  approval  for  the  purposes  of  sub-article  (4)  of  article  110  of  this  Constitution  of  an appointment to an office on his personal staff.
 
 (2) Where by this Constitution the President is required to act in accordance with the advice of any person or authority, the question whether he has in any case received, or acted in accordance with, such advice shall not be enquired into in any court.
 
 (3) The  reference  in  sub-article (1) of this article to  the functions of the President shall be construed as a reference to his powers and duties in the exercise of the executive authority of Malta and to any other powers and duties conferred or imposed on him as President by or under this Constitution or any other law.
+
+#### Exercise of Prime Minister's functions.
 
 86. (1) Where  by  this  Constitution  the  Prime  Minister  is required to exercise any function on the recommendation of any person or authority he shall exercise that function in accordance with such recommendation:
 
@@ -2049,7 +2121,7 @@ Provided that -
 
 (3) Where by this Constitution the Prime Minister is required to perform any function in accordance with the recommendation of, or after consultation with, any person or authority, the question whether he has in any case received, or acted in accordance with such recommendation or whether he has consulted with such person or authority shall not be enquired into in any court.
 
-#### Exercise of Prime Minister's functions.
+
 
 [[END OF PAGE 51]]
 
@@ -2059,15 +2131,13 @@ Provided that -
 
 CONSTITUTION OF MALTA
 
+
+
 #### The President to be informed concerning matters of government. Substituted by: LVIII.1974.39.
 
-#### Parliamentary Secretaries. Amended by: LVIII.1974.40.
-
-#### Oath to be taken by Ministers. Substituted by: LVIII.1974.41.
-
-#### Leader of the Opposition. Amended by: LVIII.1974.42 .
-
 87. The Prime Minister shall keep the President fully informed concerning the general conduct of the Government of Malta and shall furnish the President with such information as he may request with respect to any particular matter relating to the Government of Malta.
+
+#### Parliamentary Secretaries. Amended by: LVIII.1974.40.
 
 88. (1) The President, acting in accordance with the advice of the Prime Minister, may appoint Parliamentary Secretaries from among the members of the House of Representatives to assist Ministers in the performance of their duties:
 
@@ -2075,7 +2145,11 @@ Provided that if occasion arises for making an appointment while Parliament is d
 
 (2) The  provisions  of  sub-article  (3)  of  article  81  of  this Constitution shall apply to Parliamentary Secretaries as they apply to Ministers.
 
+#### Oath to be taken by Ministers. Substituted by: LVIII.1974.41.
+
 89. A  Minister  or  a  Parliamentary  Secretary  shall  not  enter upon the duties of his office unless he has taken and subscribed the oath of allegiance and the oath of office set out in the Third and in the Second Schedule to this Constitution.
+
+#### Leader of the Opposition. Amended by: LVIII.1974.42.
 
 90. (1) There shall be a Leader of the Opposition who shall be appointed by the President.
 
@@ -2107,6 +2181,8 @@ CONSTITUTION OF MALTA
 
 (5) Sub-article  (4)  of  this  article  shall  not  have  effect  while Parliament is dissolved.
 
+#### Attorney General. Amended by: LVIII.1974.43; XIV.2007.4.
+
 91. (1) There shall be an Attorney General whose office shall be a public office and who shall be appointed by the President acting in accordance with the advice of the Prime Minister.
 
 (2) A person shall not be qualified to hold office as Attorney General unless he is qualified for appointment as a judge of the Superior Courts.
@@ -2117,6 +2193,8 @@ CONSTITUTION OF MALTA
 
 (5) Sub-articles  (2)  and  (3)  of  article  97  of  this  Constitution shall apply to the Attorney General.
 
+#### Permanent Secretaries and heads of government departments. Amended by: LVIII.1974.44; III.2019.40.
+
 92. (1) Where any Minister has been charged with responsibility for any department of government, he shall exercise general direction and control over that department; and, subject to such direction and control, the department may be under the supervision of a Permanent Secretary:
 
 Provided that two or more departments of government may be placed under the supervision of one Permanent Secretary.
@@ -2125,9 +2203,7 @@ Provided that two or more departments of government may be placed under the supe
 
 (3) Power to appoint public officers to hold or act in the office of Permanent Secretary and to remove from office persons holding or acting in such office shall vest in the President acting in accordance with the advice of the Prime Minister given after the Prime Minister has consulted with the Public Service Commission.
 
-#### Attorney General. Amended by: LVIII.1974.43; XIV.2007.4.
 
-#### Permanent Secretaries and heads of government departments. Amended by: LVIII.1974.44; III.2019.40.
 
 [[END OF PAGE 53]]
 
@@ -2137,9 +2213,7 @@ CONSTITUTION OF MALTA
 
 54
 
-#### Prerogative of mercy. Amended by: LVIII.1974.45.
 
-#### Secretary to the Cabinet. Substituted by: III.2019.41.
 
 (4) Heads  of  departments  of  government  other  than  those whose manner of appointment is specifically provided for in this Constitution shall be appointed from amongst senior public officers by the Prime Minister acting after consultation with the Public Service Commission.
 
@@ -2147,7 +2221,9 @@ CONSTITUTION OF MALTA
 
 Provided that the functions of the Principal Permanent Secretary together with any other matter ancillary or incidental or considered necessary or expedient for the carrying out of the functions of the Principal Permanent Secretary shall be provided for by an Act of Parliament.
 
-(1) The President shall have power to -
+#### Prerogative of mercy. Amended by: LVIII.1974.45.
+
+93. (1) The President shall have power to -
 
 ( a ) grant to any person concerned in or convicted of any offence  a  pardon,  either  free  or  subject  to  lawful conditions;
 
@@ -2161,7 +2237,9 @@ Provided that the functions of the Principal Permanent Secretary together with a
 
 ( b ) The  said Minister shall send such written report  and information (if any) to the Cabinet, and the Cabinet shall advise the President whether he should grant the offender a pardon or respite in the exercise of the powers conferred on him by this article.
 
-94. (1)The  Principal  Permanent  Secretary  shall  be  the  most senior public officer and shall act as Secretary to the Cabinet:
+#### Secretary to the Cabinet. Substituted by: III.2019.41.
+
+94. (1) The  Principal  Permanent  Secretary  shall  be  the  most senior public officer and shall act as Secretary to the Cabinet:
 
 Provided  that  the  Prime  Minister  may  appoint  a  different person to act as Secretary to the Cabinet, and in such case the Secretary to the Cabinet shall be appointed in the same manner as a Permanent Secretary from amongst persons having the qualifications to be so appointed in terms of article 92.
 
@@ -2178,6 +2256,8 @@ CONSTITUTION OF MALTA
 ## CHAPTER VIII
 
 ### The Judiciary
+
+#### Superior Courts. Substituted by: LVIII.1974.46.
 
 95. (1) There shall be in and for Malta such Superior Courts having such powers and jurisdiction as may be provided by any law for the time being in force in Malta.
 
@@ -2198,7 +2278,7 @@ CONSTITUTION OF MALTA
 Provided that nothing in this paragraph shall preclude an appeal being brought separately before the Court of Appeal in accordance with any law for the time being in force in Malta.
 
 (3) Notwithstanding  the  provisions  of  sub-article  (2)  of  this article, if any such question as is referred to in paragraph ( d ) or ( e ) of that sub-article arises for the first time in proceedings in a court of appellate jurisdiction, that court shall refer the question to the court which gave the original decision, unless in its opinion the raising of the question is merely frivolous or vexatious, and that court shall give its decision on any such question and, subject to any appeal in accordance with the provisions of sub-article (2) of this article, the court in which the question arose shall dispose of
-#### Superior Courts. Substituted by: LVIII.1974.46.
+
 
 [[END OF PAGE 55]]
 
@@ -2208,23 +2288,25 @@ Provided that nothing in this paragraph shall preclude an appeal being brought s
 
 CONSTITUTION OF MALTA
 
-#### Appointment of judges. Amended by: LVIII.1974.47; XLIV.2016.3.
+
 
 the question in accordance with that decision.
 
 (4) The provisions  of  sub-articles  (6)  and  (7)  of  article  46  of this Constitution shall apply to the Constitutional Court and for that purpose references to that article in the said sub-articles shall be construed as references to this article.
 
-(5) If at any time during an election of members of the House of Representatives and the period of thirty days following any such election, the Constitutional Court is not constituted as provided in this article, the said Court shall, thereupon and until otherwise constituted according to law, be constituted by virtue of this subarticle and shall be composed of the three more senior of the judges then in office, including, if any is in office, the Chief Justice or other judge performing the functions of Chief Justice; and if at any other time the said Court is not constituted as provided in this article for a period exceeding fifteen days, such Court shall, upon the expiration of the said period of fifteen days and until otherwise constituted according to law, be constituted by virtue of this subarticle and shall be composed of the three more senior judges as aforesaid.
+(5) If at any time during an election of members of the House of Representatives and the period of thirty days following any such election, the Constitutional Court is not constituted as provided in this article, the said Court shall, thereupon and until otherwise constituted according to law, be constituted by virtue of this sub-article and shall be composed of the three more senior of the judges then in office, including, if any is in office, the Chief Justice or other judge performing the functions of Chief Justice; and if at any other time the said Court is not constituted as provided in this article for a period exceeding fifteen days, such Court shall, upon the expiration of the said period of fifteen days and until otherwise constituted according to law, be constituted by virtue of this sub-article and shall be composed of the three more senior judges as aforesaid.
 
 (6) The judges of the Superior Courts shall be a Chief Justice and such number of other judges as may be prescribed by any law for the time being in force in Malta:
 
 Provided that the office of a judge of the Superior Courts shall not, without his consent, be abolished during his continuance in office.
 
+#### Appointment of judges. Amended by: LVIII.1974.47; XLIV.2016.3.
+
 96. (1) The judges of the Superior Courts shall be appointed by the President acting in accordance with the advice of the Prime Minister.
 
 (2) A person shall not be qualified to be appointed a judge of the Superior Courts unless for a period of, or periods amounting in the aggregate to, not less than twelve years he has either practised as an advocate in Malta or served as a magistrate in Malta, or has partly so practised and partly so served.
 
-(3) Without  prejudice  to  the  provisions  of  sub-article  (4), before the Prime Minister gives his advice in accordance with subarticle (1) in respect of the appointment of a judge of the Superior Courts, (other than the Chief Justice) the evaluation by the Judicial Appointments Committee established by article 96A of this Constitution as provided in paragraphs ( c ), ( d ) or ( e ) of sub-article (6) of the said article 96A shall have been made.
+(3) Without  prejudice  to  the  provisions  of  sub-article  (4), before the Prime Minister gives his advice in accordance with sub-article (1) in respect of the appointment of a judge of the Superior Courts, (other than the Chief Justice) the evaluation by the Judicial Appointments Committee established by article 96A of this Constitution as provided in paragraphs ( c ), ( d ) or ( e ) of sub-article (6) of the said article 96A shall have been made.
 
 (4) Notwithstanding the provisions of sub-article (3), the Prime Minister shall be entitled to elect not to comply with the result of the evaluation referred to in sub-article (3):
 
@@ -2240,9 +2322,11 @@ CONSTITUTION OF MALTA
 
 57
 
-( b ) make  a  statement  in  the  House  of  Representatives about  the  said  decision  explaining  the  reasons  upon which  the  decision  was  based  by  not  later  than  the second sitting of the House to be held after the advice was  given  to  the  President  in  accordance  with  subarticle (1):
+( b ) make  a  statement  in  the  House  of  Representatives about  the  said  decision  explaining  the  reasons  upon which  the  decision  was  based  by  not  later  than  the second sitting of the House to be held after the advice was  given  to  the  President  in  accordance  with  sub-article (1):
 
 Provided further that the provisions of the first proviso to this sub-article shall not apply in the case of appointment to the office of Chief Justice.
+
+#### Judicial Appointments Committee. Added by: XLIV. 2016.5.
 
 96A. (1) There  shall be  a  Judicial  Appointments  Committee, hereinafter in this article referred to as "the Committee", which shall be a subcommittee of the Commission for the Administration of Justice established by article 101A of this Constitution and which shall be composed as follows:
 
@@ -2260,7 +2344,7 @@ Provided  that  the  President  of  the  Chamber  of  Advocates shall not, befor
 
 (2) The Committee shall be chaired by the Chief Justice or, in his absence, by the judge who substitutes him in accordance with paragraph ( d ) of sub-article (3).
 
-( a ) A person shall not  be  qualified  to  be  appointed  or  to continue to hold office as a member of the Committee if he is a Minister, a Parliamentary Secretary, a Member of the House of Representatives, a member of a local government or an official or a candidate of a political party:
+(3) ( a ) A person shall not  be  qualified  to  be  appointed  or  to continue to hold office as a member of the Committee if he is a Minister, a Parliamentary Secretary, a Member of the House of Representatives, a member of a local government or an official or a candidate of a political party:
 
 Provided that  where  the  President  of  the  Chamber  of Advocates is not qualified to be appointed or to hold office  as  aforesaid  the  Chamber  of  Advocates  shall nominate another advocate to sit on the Committee in his stead.
 
@@ -2270,7 +2354,7 @@ Provided that  where  the  President  of  the  Chamber  of Advocates is not qual
 
 ( d ) Where a member  of the Committee abstains or is challenged,  in  the  case  of  the  Chief  Justice  he  shall  be
 
-#### Judicial Appointments Committee. Added by: XLIV. 2016.5.
+
 
 [[END OF PAGE 57]]
 
@@ -2288,7 +2372,7 @@ in the case of the Commissioner for Administrative Investigations he shall be su
 
 (5) There shall be a Secretary to the Committee who shall be appointed by the Minister responsible for justice.
 
-- The functions of the Committee shall be:
+(6) The functions of the Committee shall be:
 
 ( a ) to  receive  and  examine  expressions  of  interest  from persons interested in  being  appointed  to  the  office  of judge of the Superior Courts (other than the office of Chief Justice) or of magistrate of the Inferior Courts, except from persons to whom paragraph ( e ) applies;
 
@@ -2312,15 +2396,19 @@ CONSTITUTION OF MALTA
 
 Provided  that  the  evaluation  referred  to  in  paragraph  ( d ) shall be made by not later than sixty days from when the Committee receives the expression of interest and the advice mentioned in paragraphs ( e ) and ( f ) shall be given by not later than thirty days from when it was requested, or within such other time limits as the Minister responsible for justice may, with the agreement of the Committee, by order in the Gazette establish.
 
-(7) The proceedings of the Committee shall be confidential and shall be held in camera a n d   n o   m e m b e r   o r   s e c r e t a r y   o f   t h e Committee may be called to give evidence before any court or other body with regard to any document received by or any matter discussed or communicated to or by the Committee.
+(7) The proceedings of the Committee shall be confidential and shall be held in camera and no member or secretary of the Committee may be called to give evidence before any court or other body with regard to any document received by or any matter discussed or communicated to or by the Committee.
 
 (8) The Committee shall regulate  its  own  procedure  and  shall  be obliged to publish, with the concurrence of the Minister responsible for justice, the criteria on which its evaluations are made.
+
+#### Tenure of office of judges. Amended by: LVIII.1974.48.
 
 97. (1) Subject to the provisions of this article, a judge of the Superior Courts shall vacate his office when he attains the age of sixty-five years.
 
 (2) A judge of the Superior Courts shall not be removed from his office except by the President upon an address by the House of Representatives supported by the votes of not less than two-thirds of all the members thereof and praying for such removal on the ground of proved inability to perform the functions of his office (whether arising from infirmity of body or mind or any other cause) or proved misbehaviour.
 
 (3) Parliament  may  by  law  regulate  the  procedure  for  the presentation of an address and for the investigation and proof of the inability or misbehaviour of a judge of the Superior Courts under the provisions of the last preceding sub-article.
+
+#### Acting Chief Justice and acting judges. Amended by: LVIII.1974.49.
 
 98. (1) If  the  office  of  Chief  Justice is vacant or if the Chief Justice is for any reason unable to perform the functions of his office, then, until a person has been appointed to and has assumed the functions of that office or until the Chief Justice has resumed those functions, as the case may be, those functions shall (except to such extent, if any, as other provision is made by law) be performed by such one of the other judges of the Superior Courts as may be designated in that behalf by the President, acting in accordance with the advice of the Prime Minister.
 
@@ -2329,9 +2417,7 @@ Provided  that  the  evaluation  referred  to  in  paragraph  ( d ) shall be mad
 Provided that a person may be so appointed notwithstanding that he has attained the age of sixty-five years.
 
 (3) Any person appointed under sub-article (2) of this article to act as a judge of the Superior Courts shall continue so to act for the period of his appointment or, if no such period is specified, until his
-#### Tenure of office of judges. Amended by: LVIII.1974.48.
 
-#### Acting Chief Justice and acting judges. Amended by: LVIII.1974.49.
 
 [[END OF PAGE 59]]
 
@@ -2341,15 +2427,15 @@ Provided that a person may be so appointed notwithstanding that he has attained 
 
 CONSTITUTION OF MALTA
 
-#### Inferior Courts.
 
-#### Magistrates. Amended by: LVIII.1974.50; XIV.2007.5; XLIV. 2016.6.
-
-#### Oaths to be taken by judges and magistrates.
 
 appointment is revoked by the President acting in accordance with the advice of the Prime Minister.
 
+#### Inferior Courts.
+
 99. There shall be in and for Malta such inferior courts having such powers and jurisdiction as may be provided by any law for the time being in force in Malta.
+
+#### Magistrates. Amended by: LVIII.1974.50; XIV.2007.5; XLIV. 2016.6.
 
 100. (1) Magistrates  of  the  inferior  courts  shall  be  appointed by the President acting in accordance with the advice of the Prime Minister.
 
@@ -2359,7 +2445,7 @@ appointment is revoked by the President acting in accordance with the advice of 
 
 (4) The provisions  of  sub-articles  (2)  and  (3)  of  article  97  of this Constitution shall apply to magistrates of the inferior courts.
 
-(5) Without  prejudice  to  the  provisions  of  sub-article  (6), before the Prime Minister gives his advice in accordance with subarticle (1) in respect of the appointment of a magistrate of the Inferior Courts the evaluation by the Judicial Appointments Committee established by article 96A of this Constitution as provided in paragraphs ( c ), ( d ) or ( e ) of sub-article (6) of the said article 96A shall have been made.
+(5) Without  prejudice  to  the  provisions  of  sub-article  (6), before the Prime Minister gives his advice in accordance with sub-article (1) in respect of the appointment of a magistrate of the Inferior Courts the evaluation by the Judicial Appointments Committee established by article 96A of this Constitution as provided in paragraphs ( c ), ( d ) or ( e ) of sub-article (6) of the said article 96A shall have been made.
 
 (6) Notwithstanding the provisions of sub-article (5), the Prime Minister shall be entitled to elect not to comply with the result of the evaluation referred to in sub-article (5):
 
@@ -2367,7 +2453,9 @@ Provided  that  after  the  Prime  Minister  shall  have  availed himself of the
 
 ( a ) publish  within  five  days  a  declaration  in  the  Gazette announcing  the  decision  to  use  the  said  power  and giving the reasons which led to the said decision; and
 
-( b ) make  a  statement  in  the  House  of  Representatives about  the  said  decision  explaining  the  reasons  upon which  the  decision  was  based  by  not  later  than  the second sitting of the House to be held after the advice was  given  to  the  President  in  accordance  with  subarticle (1).
+( b ) make  a  statement  in  the  House  of  Representatives about  the  said  decision  explaining  the  reasons  upon which  the  decision  was  based  by  not  later  than  the second sitting of the House to be held after the advice was  given  to  the  President  in  accordance  with  sub-article (1).
+
+#### Oaths to be taken by judges and magistrates.
 
 101. A  judge  of  the  Superior  Courts  or  a  magistrate  of  the inferior courts shall not enter upon the duties of his office unless he has taken and subscribed the oath of allegiance and such oath for the due execution of his office as may be prescribed by any law for the time being in force in Malta.
 
@@ -2378,6 +2466,8 @@ Provided  that  after  the  Prime  Minister  shall  have  availed himself of the
 CONSTITUTION OF MALTA
 
 61
+
+#### Commission for the Administration of Justice. Added by: IX.1994.2. Amendeed by: XLIV. 2016.7.
 
 101A. (1) There shall be a  Commission for the Administration of Justice which shall consist of the President, who shall be the Chairman, and nine other members as follows:
 
@@ -2397,7 +2487,7 @@ CONSTITUTION OF MALTA
 
 (3) The members elected to the Commission for the Administration of Justice shall be elected in accordance with such rules as may be prescribed by the person or authority referred to in sub-article (7) of article 46 of this Constitution.
 
-( a ) A  person  shall  not  be  qualified  to  be  appointed  or c o n t i n u e   t o   h o l d   o f f i c e   a s   a   m e m b e r   o f   t h e Commission for the Administration of Justice:
+(4) ( a ) A  person  shall  not  be  qualified  to  be  appointed  or continue  to  hold  office  as  a  member  of  the Commission for the Administration of Justice:
 
 (i) if  he  is  a  Minister,  a  Parliamentary  Secretary,  a Member  of  the  House  of  Representatives  or  a member of a local government authority; or
 
@@ -2407,9 +2497,9 @@ CONSTITUTION OF MALTA
 
 (b ) The  office  of  a  member  of  the  Commission  for  the Administration  of  Justice  shall  become  vacant  if  any circumstances arise that if he were not a member of the Commission  he  would  not  qualify  for  membership thereof, and a member of the Commission may abstain or be challenged in the same circumstances as a judge of the superior courts.
 
-( a ) Where a person fills a vacancy caused by a member of the Commission for the Administration of Justice ceasing to be such a member for any reason, other than
+(5) ( a ) Where a person fills a vacancy caused by a member of the Commission for the Administration of Justice ceasing to be such a member for any reason, other than
 
-#### Commission for the Administration of Justice. Added by: IX.1994.2. Amendeed by: XLIV. 2016.7.
+
 
 [[END OF PAGE 61]]
 
@@ -2425,7 +2515,7 @@ the expiration of the period of office, such person shall hold office for the un
 
 ( c ) Where  the  members  who,  are  to  be  elected  under paragraph ( c ) and ( d ) of sub-article (1) of this article, or who are to be appointed under paragraph ( e ) of the same  sub-article, are not so  elected  or  appointed within  two  weeks  from  a  call  for  the  purpose  by  the President, the President who in making such appointment  shall  act  in  accordance  with  his  own deliberate judgement shall himself appoint members in their  stead  who  where  possible  in  his  opinion  shall have  the  same  qualities  and  qualifications  as  such members.
 
-( a ) The  Commission  for  the  Administration  of  Justice shall at all times have a committee for Advocates and Legal Procurators which shall have such composition, functions, powers and duties as may be assigned to it by law. The Commission shall in the exercise of any of i t s   f u n c t i o n s   i n   r e l a t i o n   t o   t h e   p r o f e s s i o n s   o f Advocates and Legal Procurators act through the said committees in such manner and subject to such review as may by the said law be provided.
+(6) ( a ) The  Commission  for  the  Administration  of  Justice shall at all times have a committee for Advocates and Legal Procurators which shall have such composition, functions, powers and duties as may be assigned to it by law. The Commission shall in the exercise of any of its functions in relation to the professions of Advocates and Legal Procurators act through the said committees in such manner and subject to such review as may by the said law be provided.
 
 ( b ) Notwithstanding  the  provisions  of  paragraph  ( a )  of this  sub-article,  the  Commission  shall  refer  to  the Committee for Advocates and Legal Procurators (hereinafter in this article referred to as "the Committee") any matter concerning the misconduct of an advocate or legal procurator in the exercise of their profession,  and,  saving  in  the  case  of  an  appeal,  the Commission shall not act otherwise than on receipt of, and in accordance with, the findings of the Committee in any such matter. So however that, where a report of findings by the Committee has not been submitted to the  Commission  within  two  months  from  the  day  on which  the  matter  was  brought  before  the  Committee, or within such further period or periods as the Commission may allow, which shall in no case, except for  very  exceptional  reasons,  exceed  a  further  four months, the Commission shall thereupon itself investigate and determine the matter.
 
@@ -2473,7 +2563,7 @@ Provided  that  where  such  advice  is  not  given  within such time as the Com
 
 CONSTITUTION OF MALTA
 
-#### Discipline of judges and magistrates. Added by: XLIV. 2016.8.
+
 
 ( h ) such other function as may be assigned to it by law.
 
@@ -2486,6 +2576,8 @@ Provided  that  where  the  Chief  Justice  fails  to  make  a recommendation to
 Provided further that in any such case he shall immediately publish in the Gazette, a notice of that fact together with the reasons therefor, and he shall make a statement of such fact in the House of Representatives not later than the second sitting immediately after he has so advised the President.
 
 (14) The  question  whether  the  Commission  for  the  Administration of Justice has validly performed any function vested in it by or under this Constitution shall not be enquired into in any court.
+
+#### Discipline of judges and magistrates. Added by: XLIV. 2016.8.
 
 101B. (1) There shall be a Committee for Judges and Magistrates (hereinafter referred to as "the Committee") which shall be a subcommittee of the Commission for the Administration of Justice and which shall consist of three members of the judiciary who are not members of the Commission for the Administration of Justice and who shall be elected from amongst judges and magistrates according to regulations issued by the Commission for the Administration of Justice so however that in disciplinary proceedings against a magistrate two of the three members shall be magistrates and in the case of disciplinary proceedings against a judge two of the three members shall be judges.
 
@@ -2533,7 +2625,7 @@ on half of his salary and allowances as recoverable at the time;
 
 (11) The  Committee  may  also  upon  the  request  of  the  Chief Justice order that a judge or a magistrate be suspended from the performance of his duties on serious medical grounds for a definite period during which the said judge or magistrate shall continue to receive his full salary and allowances. The procedure laid down in this article in respect of disciplinary proceedings shall apply mutatis mutandis in the case of any proceedings taken under this sub-article.
 
-( a ) There shall be a right of appeal to the Commission for the Administration of Justice from decisions of the Committee by the judge or magistrate against whom the Committee makes a finding.
+(12) ( a ) There shall be a right of appeal to the Commission for the Administration of Justice from decisions of the Committee by the judge or magistrate against whom the Committee makes a finding.
 
 ( b ) The  appeal  shall  be  filed  with  the  Secretary  of  the Commission for  the  Administration  of  Justice  by  not later  than  twenty  days  from  when  the  Committee delivers its decision.
 
@@ -2553,6 +2645,8 @@ CONSTITUTION OF MALTA
 
 (13) Proceedings before the Committee  shall  be  concluded within a period of one year and appeal proceedings before the Commission for the Administration of Justice shall be concluded within a further period of six months.
 
+Cap. 12.
+
 (14) In  the  exercise  of  their  function  under  this  article  the Commission for the Administration of Justice and the Committee for Judges and Magistrates shall have all the powers as are assigned to the First Hall of the Civil Court by the Code of Organization and Civil Procedure or by any law from time to time regulating the powers of Courts of civil jurisdiction.
 
 (15) In  the  exercise  of  their  functions  the  members  of  the Committee shall act on their own individual judgment and shall not be subject to the direction or control of any other person or authority.
@@ -2562,6 +2656,8 @@ CONSTITUTION OF MALTA
 ## CHAPTER IX
 
 ### Finance
+
+#### Consolidated Fund.
 
 102. (1) All revenues and other moneys raised or received by Malta (not being revenues or other moneys payable into some other fund, being a fund established by or under any law for the time being in force in Malta for a specific purpose) shall, unless Parliament otherwise provides, be paid into and form one Consolidated Fund.
 
@@ -2573,13 +2669,13 @@ CONSTITUTION OF MALTA
 
 (5) The costs, charges and expenses incidental to the collection and management of the Consolidated Fund shall be a charge on the Fund.
 
+#### Authorisation of expenditure from Consolidated Fund.
+
 103. (1) The Minister responsible for finance shall cause to be prepared and laid before the House of Representatives before, or not later than thirty days after, the commencement of each financial year estimates of the revenues and expenditure of Malta for that year.
 
-(2) The heads of expenditure contained in the estimates (other than the expenditure charged upon the Consolidated Fund by this Cap. 12.
+(2) The heads of expenditure contained in the estimates (other than the expenditure charged upon the Consolidated Fund by this
 
-#### Consolidated Fund.
 
-#### Authorisation of expenditure from Consolidated Fund.
 
 [[END OF PAGE 67]]
 
@@ -2589,17 +2685,11 @@ CONSTITUTION OF MALTA
 
 CONSTITUTION OF MALTA
 
-#### Authorisation of expenditure before appropriation.
 
-#### Contingencies Fund.
-
-#### Public debt.
-
-#### Remuneration in respect of certain offices. Amended by: LVIII.1974.52; XVII.1997.2; XLIV. 2016.9.
 
 Constitution or any other law for the time being in force in Malta) shall be included in a bill, to be known as an appropriation bill, providing for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums for the purposes specified therein.
 
-- If in respect of any financial year it is found -
+(3) If in respect of any financial year it is found -
 
 ( a ) that the amount appropriated by the Appropriation Act for  any  purpose  is  insufficient,  or  that  a  need  has arisen  for  expenditure  for  a  purpose  for  which  no amount has been appropriated by that Act; or
 
@@ -2607,15 +2697,23 @@ Constitution or any other law for the time being in force in Malta) shall be inc
 
 a supplementary estimate showing the sums required or spent shall be laid before the House of Representatives and the heads of any such expenditure shall be included in a supplementary appropriation bill.
 
+#### Authorisation of expenditure before appropriation.
+
 104. Parliament may  make  provision  under  which,  if the Appropriation Act in respect of any financial year has not come into operation by the beginning of that financial year, the Minister responsible for finance may authorise the withdrawal of moneys from the Consolidated Fund for the purpose of meeting such expenditure as he may consider necessary to carry on the government of Malta until the expiration of four months from the beginning of that financial year or the coming into operation of the Act, whichever is the earlier.
+
+#### Contingencies Fund.
 
 105. (1) Parliament  may  provide  for  the  establishment  of  a Contingencies Fund and for authorising the Minister responsible for finance, if he is satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists, to make advances from that Fund to meet that need.
 
 (2) Where any advance is made in accordance with sub-article (1) of this article a supplementary estimate shall be presented and a supplementary appropriation bill shall be introduced as soon as practicable for the purpose of replacing the amount so advanced.
 
+#### Public debt.
+
 106. (1) The public debt of Malta shall be a charge upon the Consolidated Fund and other public funds of Malta.
 
 (2) In this article references to the public debt of Malta include references to the interest on that debt, sinking fund payments and redemption moneys in respect of that debt and the costs, charges and expenses incidental to the management of that debt.
+
+#### Remuneration in respect of certain offices. Amended by: LVIII.1974.52; XVII.1997.2; XLIV. 2016.9.
 
 107. (1) Without prejudice to the provisions of articles 101A and 101B, there shall be paid to the holders of the offices to which this article applies such salaries as may be prescribed by or under any law.
 
@@ -2633,21 +2731,23 @@ CONSTITUTION OF MALTA
 
 (4) This article applies to the offices referred to in articles 48, 91, 95(6), 100, 109, 118 and 120 of the Constitution.
 
+#### Auditor General. Amended by: LVIII.1974.53. Substituted by: XVII.1997.3. Amended: XLIV. 2016.10.
+
 108. (1) There shall be an Auditor General whose office shall be a public office who shall have the functions as provided in the following provisions of this article.
 
 (2) The  Auditor  General  shall  be  an  officer  of  the  House  of Representatives and shall be appointed by the President acting in accordance with a resolution of the House of Representatives supported by the votes of not less than two-thirds of all the members in the House:
 
 Provided that when a person who is not a member of the House of Representatives is elected to be the Speaker of the House of Representatives, he shall not be treated as a member of the House for the purpose of establishing the majority required by this sub-article.
 
-( a ) Subject  to  the  provisions  of  sub-article  (4)  of  this article the Auditor General shall hold office for a period of five years from the date of his appointment and shall be eligible for reappointment for one further period of five years.
+(3) ( a ) Subject  to  the  provisions  of  sub-article  (4)  of  this article the Auditor General shall hold office for a period of five years from the date of his appointment and shall be eligible for reappointment for one further period of five years.
 
 ( b ) Where  the  Auditor  General  has  been  appointed  from among public officers and at the end of his appointment  is  below  the  retiring  age  in  the  public service,  the  person  so  appointed  shall  revert  to  the public  service  and  shall  continue  to  enjoy  the  salary and allowances referred to in sub-article (6).
 
 ( c ) It  shall  not  be  lawful  for  the  Auditor  General,  during his  tenure  of  such  office,  to  hold  any  other  office  of profit  or  otherwise  with  the  Government  of  Malta  or with any commercial or professional venture whatsoever.
 
-( a ) The Auditor General may at any time be removed or suspended from his office by the President, upon an address from the House of Representatives supported by the votes of not less than two-thirds of all members in the House, praying for such removal on the ground of proved inability to perform the functions of his office (whether arising from infirmity of body or mind or any other cause) or proved misbehaviour, and the provisions of the proviso to sub-article (2) of this article shall also apply for the purpose of establishing the majority required under this sub-article.
+(4) ( a ) The Auditor General may at any time be removed or suspended from his office by the President, upon an address from the House of Representatives supported by the votes of not less than two-thirds of all members in the House, praying for such removal on the ground of proved inability to perform the functions of his office (whether arising from infirmity of body or mind or any other cause) or proved misbehaviour, and the provisions of the proviso to sub-article (2) of this article shall also apply for the purpose of establishing the majority required under this sub-article.
 
-#### Auditor General. Amended by: LVIII.1974.53. Substituted by: XVII.1997.3. Amended: XLIV. 2016.10.
+
 
 [[END OF PAGE 69]]
 
@@ -2657,11 +2757,11 @@ Provided that when a person who is not a member of the House of Representatives 
 
 CONSTITUTION OF MALTA
 
-##### Deputy Auditor General.
+
 
 ( b ) At  any  time  when  Parliament  is  not  in  session,  the Auditor General may be suspended from his office by the  President,  acting  in  accordance  with  his  own deliberate judgement,  for  inability  to  perform  the functions  of  his  office  or  misbehaviour  proved  to  the satisfaction of the President; but any such suspension shall  not  continue  in  force  beyond  two  months  after the beginning of the next session of Parliament.
 
-- The accounts -
+(5) The accounts -
 
 ( a ) of  all  departments  and  offices  of  the  Government  of Malta,  including  the office of  the  Public  Service Commission, and the office of the Clerk of the House of  Representatives  and  of  all  Superior  and  Inferior Courts of Malta, and
 
@@ -2669,7 +2769,7 @@ CONSTITUTION OF MALTA
 
 shall be audited and reported upon annually by the Auditor General to  the  House  of  Representatives  and  for  that  purpose  the  Auditor General or any person authorised by him in that behalf shall have access to all books, records, returns and other documents relating to those accounts.
 
-( a ) There shall be paid to the Auditor General such salary and such allowances as may from time to time be prescribed or allowed for a Judge of the Superior Courts.
+(6) ( a ) There shall be paid to the Auditor General such salary and such allowances as may from time to time be prescribed or allowed for a Judge of the Superior Courts.
 
 ( b ) Such  salary  and  allowances  shall  be  a  charge  on  the Consolidated  Fund  and  the  provisions  of  sub-article (3)  of  article  107  of  the  Constitution  shall  apply  to such salary.
 
@@ -2677,7 +2777,9 @@ shall be audited and reported upon annually by the Auditor General to  the  Hous
 
 (8) Parliament  may  by  law  from  time  to  time  provide  for  the manner in which the reports of the Auditor General shall be made.
 
-( a ) There shall  also  be  a  Deputy  Auditor  General  whose office shall be a public office and who shall have such functions as the Auditor General may from time to time delegate to him and who shall, whenever the office of Auditor General is temporarily vacant, and until a new Auditor General is appointed, and whenever the holder of the office is absent from Malta or on vacation or is for any reason unable to perform the functions of his office, perform the functions of Auditor General.
+##### Deputy Auditor General.
+
+(9) ( a ) There shall  also  be  a  Deputy  Auditor  General  whose office shall be a public office and who shall have such functions as the Auditor General may from time to time delegate to him and who shall, whenever the office of Auditor General is temporarily vacant, and until a new Auditor General is appointed, and whenever the holder of the office is absent from Malta or on vacation or is for any reason unable to perform the functions of his office, perform the functions of Auditor General.
 
 [[END OF PAGE 70]]
 
@@ -2693,7 +2795,9 @@ CONSTITUTION OF MALTA
 
 ( d ) Where the Deputy Auditor General has been appointed from  among  public  officers  and  at  the  end  of  his appointment  is  below  the  retiring  age  in  the  public service,  the  person  so  appointed  shall  revert  to  the public  service  and  shall  continue  to  enjoy  the  salary and allowances referred to in this sub-article.
 
-( a ) There  shall  be  a  National  Audit  Office  consisting  of the Auditor General, who shall be the head of that office, the Deputy Auditor General and such other officers, appointed by the Auditor General, as the Auditor General may consider necessary to assist him i n   t h e   p r o p e r   d i s c h a r g e   o f   h i s   o f f i c e ,   a n d   t h e provisions of article 110 of this Constitution shall not apply to the officers appointed to the National Audit Office.
+##### National Audit Office.
+
+(10) ( a ) There  shall  be  a  National  Audit  Office  consisting  of the Auditor General, who shall be the head of that office, the Deputy Auditor General and such other officers, appointed by the Auditor General, as the Auditor General may consider necessary to assist him in the proper discharge of his office, and the provisions of article 110 of this Constitution shall not apply to the officers appointed to the National Audit Office.
 
 ( b ) Parliament may from time to time by law provide for the  manner  in  which  funds  shall  be  allocated  to  the National Audit Office and in the manner whereby the accounts of the National Audit Office shall be audited and reported upon.
 
@@ -2705,14 +2809,14 @@ CONSTITUTION OF MALTA
 
 ### The Public Service
 
+#### Public Service Commission. Amended by: LVIII.1974.54.
+
 109. (1) There shall be a Public Service Commission for Malta which shall consist of a chairman, a deputy chairman and from one to three other members.
 
 (2) The  members  of  the  Public  Service  Commission  shall  be appointed by the President, acting in accordance with the advice of the Prime Minister given after he has consulted the Leader of the Opposition.
 
 (3) A person shall not be qualified to hold office as a member of the Public Service Commission if he is a Minister, a Parliamentary Secretary, a member of, or a candidate for election to, the House of Representatives, a member of a local government
-##### National Audit Office.
 
-#### Public Service Commission. Amended by: LVIII.1974.54.
 
 [[END OF PAGE 71]]
 
@@ -2722,7 +2826,7 @@ CONSTITUTION OF MALTA
 
 CONSTITUTION OF MALTA
 
-#### Appointment, etc., of public officers. Amended by: LVIII.1974.55.
+
 
 authority or if he is a public officer.
 
@@ -2738,11 +2842,13 @@ authority or if he is a public officer.
 
 (7) If the office of a member of the Public Service Commission is vacant or if a member is for any reason unable to perform the functions of his office, the President, acting in accordance with the advice of the Prime Minister, given after he has consulted the Leader of the Opposition, may appoint a person who is qualified to be appointed to be a member to be a temporary member of the Commission; and any person so appointed shall, subject to the provisions of sub-articles (5) and (6) of this article, cease to be such a member when a person has been appointed to fill the vacancy or, as the case may be, when the member who was unable to perform the functions of his office resumes those functions.
 
+#### Appointment, etc., of public officers. Amended by: LVIII.1974.55.
+
 110. (1) Subject to the provisions of this Constitution, power to make appointments to public offices and to remove and to exercise disciplinary control over persons holding or acting in any such offices shall vest in the Prime Minister, acting on the recommendation of the Public Service Commission:
 
-Provided that the Prime  Minister may, acting on the recommen-dation of the Public Service Commission, delegate in writing, subject to such conditions as may be specified in the instrument of delegation, any of the powers referred to in this subarticle to such public officer or other authority as may be specified in that instrument.
+Provided that the Prime  Minister may, acting on the recommendation of the Public Service Commission, delegate in writing, subject to such conditions as may be specified in the instrument of delegation, any of the powers referred to in this sub-article to such public officer or other authority as may be specified in that instrument.
 
-- A delegation of a power under this article -
+(2) A delegation of a power under this article -
 
 ( a ) shall be without prejudice to the exercise of that power by  the  Prime  Minister  acting  on  the  recommendation of the Public Service Commission;
 
@@ -2772,7 +2878,7 @@ Provided that any procedure so prescribed shall be the same for all classes of p
 
 (4) No person shall be appointed under this article to or to act in any office on the personal staff of the President except with the approval of the President.
 
-- The provisions of this article shall not apply in relation to -
+(5) The provisions of this article shall not apply in relation to -
 
 ( a ) the  offices  referred  to  in  articles  91,  92  (other  than sub-article (4) thereof), 94, 95(6), 100, 108 and 111 of this Constitution; or
 
@@ -2780,8 +2886,8 @@ Provided that any procedure so prescribed shall be the same for all classes of p
 
 ( c ) appointments to the offices referred to in article 92(4) and  appointments  on  transfer  to  and  from  the  offices referred to in article 112 of this Constitution.
 
-(6) Recruitment for employment with any body established by t h e   C o n s t i t u t i o n   o r   b y   o r   u n d e r   a n y   o t h e r   l a w,   o r   w i t h   a n y partnership or other body in which the Government of Malta, or any such body as aforesaid, have a controlling interest or over
-#### Principal representatives of Malta abroad. Amended by: LVIII.1974.56.
+(6) Recruitment for employment with any body established by the Constitution or by or under any other law, or with any partnership or other body in which the Government of Malta, or any such body as aforesaid, have a controlling interest or over
+
 
 [[END OF PAGE 73]]
 
@@ -2791,11 +2897,11 @@ Provided that any procedure so prescribed shall be the same for all classes of p
 
 CONSTITUTION OF MALTA
 
-#### Appointment on transfer in respect of certain offices.
 
-#### Protection of pension rights. Amended by: LVIII.1974.57.
 
 which they have effective control, shall, unless such recruitment is made after a public examination duly advertised, be made through an employment service as provided in sub-article (2) of this article.
+
+#### Principal representatives of Malta abroad. Amended by: LVIII.1974.56.
 
 111. (1) Power to appoint persons to hold or act in the offices to which this article applies and to remove persons so appointed from any such office shall vest in the President, acting in accordance with the advice of the Prime Minister:
 
@@ -2803,15 +2909,19 @@ Provided that in respect of any person selected for appointment from the public 
 
 (2) The offices to which this article applies are the offices  of any Ambassador, High Commissioner or other principal representative of Malta in any other country.
 
+#### Appointment on transfer in respect of certain offices.
+
 112. (1) Power to make appointments on transfer to and from the offices to which this article applies shall vest in the Prime Minister acting after consultation with the Public Service Commission:
 
 Provided that the person appointed to any such office under the provisions of this article shall, on being transferred from that office, revert to the rank which he held in the public service immediately before his appointment to that office.
 
-- The offices to which this article applies are -
+(2) The offices to which this article applies are -
 
 ( a ) offices  the  holders  of  which  are  required  to  reside outside Malta for the proper discharge of their functions; and
 
 ( b ) such offices in the Ministry responsible for the external affairs of Malta as may, from time to time, be designated by the Prime Minister.
+
+#### Protection of pension rights. Amended by: LVIII.1974.57.
 
 113. (1) Subject to the provisions of article 114 of this Constitution the law applicable to any benefits to which this article applies shall, in relation to any person who has been granted or who is eligible for the grant of such benefits be that in force on the relevant date or any later law that is not less favourable to that person.
 
@@ -2861,41 +2971,41 @@ CONSTITUTION OF MALTA
 
 #### Grant and withholding of pensions, etc. Amended by: LVIII.1974.58.
 
-#### Protection of Public Service Commission from legal proceedings.
+114. (1) Where any benefits to which this article applies can be withheld, reduced in amount or suspended by any person or authority under any law those benefits shall not be so withheld, reduced in amount or suspended without the concurrence of the Public Service Commission, unless such benefits are reduced or withheld in accordance with any law referred to in sub-article (7) of article 113 of this Constitution.
 
-Added by: XIII.2001.4.
-
-#### Local Councils.
-
-#### Actions on validity of laws.
-
-114. (1) Where any benefits to which this article  applies  can be withheld, reduced in amount or suspended by any person or authority under any law those benefits shall not be so withheld, reduced in amount or suspended without the concurrence of the Public Service Commission, unless such benefits are reduced or withheld in accordance with any law referred to in sub-article (7) of article 113 of this Constitution.
-
-(2) The Public Service Commission shall not concur under subarticle (1) of this article in action taken on the ground that any person who holds or has held any of the offices referred to in articles 91, 95(6), 100 and 108 of this Constitution has been guilty of misbehaviour unless he has been removed from office by reason of such misbehaviour.
+(2) The Public Service Commission shall not concur under sub-article (1) of this article in action taken on the ground that any person who holds or has held any of the offices referred to in articles 91, 95(6), 100 and 108 of this Constitution has been guilty of misbehaviour unless he has been removed from office by reason of such misbehaviour.
 
 (3) This article applies to any benefits payable under any law providing for the grant of pensions, gratuities or compensation to persons who are or have been public officers in respect of their service in the public service or to the widows, children, dependants or personal representatives of such persons in respect of such service.
+
+#### Protection of Public Service Commission from legal proceedings.
 
 115. The question whether -
 
 ( a ) the Public Service Commission has validly performed any function vested in it by or under this Constitution;
 
-( b ) any member of the Public Service Commission or any public officer or other authority has validly performed any function delegated to such member, public officer or  authority  in  pursuance  of  the  provisions  of  subarticle (1) of article 110 of this Constitution; or
+( b ) any member of the Public Service Commission or any public officer or other authority has validly performed any function delegated to such member, public officer or authority in pursuance of the provisions of sub-article (1) of article 110 of this Constitution; or
 
-( c ) any member of the Public Service Commission or any public officer or other authority has validly performed any  other  function  in  relation  to  the  work  of  the Commission or in relation  to  any  such  function  as  is referred to in the preceding paragraph,
+( c ) any member of the Public Service Commission or any public officer or other authority has validly performed any other function in relation to the work of the Commission or in relation to any such function as is referred to in the preceding paragraph,
 
 shall not be enquired into in any court.
+
+Added by: XIII.2001.4.
 
 ## CHAPTER XA
 
 ### Local Councils
 
-115A. The  State shall adopt a system  of  local  government whereby the territory of Malta shall be divided into such number of localities as may by law be from time to time determined, each locality to be administered by a Local Council elected by the residents of the locality and established and operating in terms of such law as may from time to time be in force.
+#### Local Councils.
+
+115A. The State shall adopt a system of local government whereby the territory of Malta shall be divided into such number of localities as may by law be from time to time determined, each locality to be administered by a Local Council elected by the residents of the locality and established and operating in terms of such law as may from time to time be in force.
 
 ## CHAPTER XI
 
 ### Miscellaneous
 
-116. A right of action for a declaration that any law is invalid on any grounds other than inconsistency with the provisions of articles 33 to 45 of this Constitution shall appertain to all persons without distinction and a person bringing such an action shall not be required to show any personal interest in support of his action.
+#### Actions on validity of laws.
+
+116. A right of action for a declaration that any law is invalid on any grounds other than inconsistency with the provisions of articles 33 to 45 of this Constitution shall appertain to all persons without
 
 [[END OF PAGE 76]]
 
@@ -2905,30 +3015,33 @@ CONSTITUTION OF MALTA
 
 77
 
+distinction and a person bringing such an action shall not be required to show any personal interest in support of his action.
+
+#### Prohibition of certain associations.
+
 117. (1) It shall be unlawful to establish, maintain or belong to any association of persons who are organised and trained or organised and equipped for the purpose of enabling them to be employed for the use or display of physical force in promoting any political object.
 
-(2) The  provisions  of  this  article  shall  be  enforced  in  such manner as may be provided by Parliament.
+(2) The provisions of this article shall be enforced in such manner as may be provided by Parliament.
 
-118. (1) There  shall  be  a  Broadcasting  Authority  for  Malta which shall consist of a chairman and such number of other members not being less than four as may be prescribed by any law for the time being in force in Malta.
+#### Broadcasting Authority. Amended by: LVIII.1974.59.
 
-(2) The  members  of  the Broadcasting Authority shall  be appointed by the President, acting in accordance with the advice of the Prime Minister given after he has consulted the Leader of the Opposition.
+118. (1) There shall be a Broadcasting Authority for Malta which shall consist of a chairman and such number of other members not being less than four as may be prescribed by any law for the time being in force in Malta.
+
+(2) The members of the Broadcasting Authority shall be appointed by the President, acting in accordance with the advice of the Prime Minister given after he has consulted the Leader of the Opposition.
 
 (3) A person shall not be qualified to hold office as a member of the Broadcasting Authority if he is a Minister, a Parliamentary Secretary, a member of, or candidate for election to, the House of Representatives, a member of a local government authority or if he is a public officer.
 
 (4) A member of the Broadcasting Authority shall not, within a period of three years commencing with the day on which he last held office or acted as a member, be eligible for appointment to or to act in any public office.
 
-(5) Subject  to  the  provisions  of  this  article,  the  office  of  a member of the Broadcasting Authority shall become vacant -
+(5) Subject to the provisions of this article, the office of a member of the Broadcasting Authority shall become vacant -
 
-( a ) at  the  expiration  of  five  years  from  the  date  of  his appointment or at such earlier time as may be specified in the instrument by which he was appointed; or
+( a ) at the expiration of five years from the date of his appointment or at such earlier time as may be specified in the instrument by which he was appointed; or
 
-( b ) if  any  circumstances  arise  that,  if  he  were  not  a member  of  the  Authority,  would  cause  him  to  be disqualified for appointment as such.
+( b ) if any circumstances arise that, if he were not a member of the Authority, would cause him to be disqualified for appointment as such.
 
 (6) A member of the Broadcasting Authority may be removed from office by the President, acting in accordance with the advice of the Prime Minister, but he may be removed only for inability to discharge the functions of his office (whether arising from infirmity of mind or body or any other cause) or for misbehaviour.
 
 (7) If the office of a member of the Broadcasting Authority is vacant or if a member is for any reason unable to perform the functions of his office, the President, acting in accordance with the advice of the Prime Minister, given after he has consulted the Leader of the Opposition, may appoint a person who is qualified to be appointed to be a member to be a temporary member of the Authority; and any person so appointed shall, subject to the provisions of sub-articles (5) and (6) of this article, cease to be such a member when a person has been appointed to fill the
-#### Prohibition of certain associations.
-
-#### Broadcasting Authority. Amended by: LVIII.1974.59.
 
 [[END OF PAGE 77]]
 
@@ -2938,33 +3051,33 @@ CONSTITUTION OF MALTA
 
 CONSTITUTION OF MALTA
 
-#### Function of the Broadcasting Authority.
-
-#### Employment Commission. Added by: LVIII.1974.60.
-
 vacancy or, as the case may be, when the member who was unable to perform the functions of his office resumes those functions.
 
 (8) In the exercise of its functions under article 119 (1) of this Constitution the Broadcasting Authority shall not be subject to the direction or control of any other person or authority.
 
-119. (1) It shall be the function of the Broadcasting Authority to ensure that, so far as possible, in such sound and television broadcasting services as may be provided in Malta, due impartiality i s   p r e s e r v e d   i n   r e s p e c t   o f   m a t t e r s   o f   p o l i t i c a l   o r   i n d u s t r i a l controversy or relating to current public policy and that broadcasting facilities and time are fairly apportioned between persons belonging to different political parties.
+#### Function of the Broadcasting Authority.
 
-(2) The  function  of  the  Broadcasting  Authority  referred  to  in sub-article (1) of this article shall be without prejudice to such other functions and duties as may be conferred upon it by any law for the time being in force in Malta.
+119. (1) It shall be the function of the Broadcasting Authority to ensure that, so far as possible, in such sound and television broadcasting services as may be provided in Malta, due impartiality is preserved in respect of matters of political or industrial controversy or relating to current public policy and that broadcasting facilities and time are fairly apportioned between persons belonging to different political parties.
+
+(2) The function of the Broadcasting Authority referred to in sub-article (1) of this article shall be without prejudice to such other functions and duties as may be conferred upon it by any law for the time being in force in Malta.
+
+#### Employment Commission. Added by: LVIII.1974.60.
 
 120. (1) There shall be an Employment Commission for Malta which shall consist of a chairman and four other members.
 
-(2) The  members  of  the  Employment  Commission  shall  be appointed by the President who, in appointing the chairman shall act in accordance with the advice of the Prime Minister given after he has consulted the Leader of the Opposition, in appointing two of the four other members shall act in accordance with the advice of the Prime Minister, and in appointing the other two members shall act in accordance with the advice of the Leader of the Opposition.
+(2) The members of the Employment Commission shall be appointed by the President who, in appointing the chairman shall act in accordance with the advice of the Prime Minister given after he has consulted the Leader of the Opposition, in appointing two of the four other members shall act in accordance with the advice of the Prime Minister, and in appointing the other two members shall act in accordance with the advice of the Leader of the Opposition.
 
 (3) A person shall not be qualified to hold office as a member of the Employment Commission if he is a Minister, a Parliamentary Secretary, a member of, or a candidate for election to, the House of Representatives, a member of a local government authority, or if he is a public officer.
 
-(4) A  member  of  the  Employment  Commission  shall  not, within a period of three years commencing with the day on which he last held office or acted as a member, be eligible for appointment to or to act in any public office.
+(4) A member of the Employment Commission shall not, within a period of three years commencing with the day on which he last held office or acted as a member, be eligible for appointment to or to act in any public office.
 
-(5) Subject  to  the  provisions  of  this  article,  the  office  of  a member of the Employment Commission shall become vacant -
+(5) Subject to the provisions of this article, the office of a member of the Employment Commission shall become vacant -
 
-( a ) at  the  expiration  of  three  years  from  the  date  of  his appointment; or
+( a ) at the expiration of three years from the date of his appointment; or
 
-( b ) if  any  circumstances  arise  that,  if  he  were  not  a member  of  the  Commission,  would  cause  him  to  be disqualified for appointment as such.
+( b ) if any circumstances arise that, if he were not a member of the Commission, would cause him to be disqualified for appointment as such.
 
-(6) A member of the Employment Commission may be removed from office by the President, acting in accordance with the advice of the holder of the office on whose advice such member was appointed, given, where applicable, as provided in sub-article (2) of this article, but such member may be removed only for inability to discharge the functions of his office (whether arising from infirmity of mind or body or any other cause) or for misbehaviour.
+(6) A member of the Employment Commission may be removed from office by the President, acting in accordance with the advice of the holder of the office on whose advice such member was appointed, given, where applicable, as provided in sub-article (2) of this article, but such member may be removed only for inability to discharge the functions of his office (whether arising from infirmity of mind or body or any other cause) or for
 
 [[END OF PAGE 78]]
 
@@ -2974,7 +3087,9 @@ CONSTITUTION OF MALTA
 
 79
 
-(7) If  the  office of a member of the Employment Commission is vacant or if a member is for any reason unable to perform the functions of his office, the President, acting in accordance with the advice of the holder of the office on whose advice such member was appointed, given, where applicable, as provided in sub-article (2) of this article, may appoint a person who is qualified to be appointed to be a member to be a temporary member of the Commission; and any person so appointed shall, subject to the provisions of sub-articles (5) and (6) of this article, cease to be such a member when a person has been appointed to fill the vacancy or, as the case may be, when the member who was unable to perform the functions of his office resumes those functions.
+misbehaviour.
+
+(7) If the office of a member of the Employment Commission is vacant or if a member is for any reason unable to perform the functions of his office, the President, acting in accordance with the advice of the holder of the office on whose advice such member was appointed, given, where applicable, as provided in sub-article (2) of this article, may appoint a person who is qualified to be appointed to be a member to be a temporary member of the Commission; and any person so appointed shall, subject to the provisions of sub-articles (5) and (6) of this article, cease to be such a member when a person has been appointed to fill the vacancy or, as the case may be, when the member who was unable to perform the functions of his office resumes those functions.
 
 (8) It shall be the function of the Employment Commission to ensure that, in respect of employment, no distinction, exclusion or preference that is not justifiable in a democratic society is made or given in favour or against any person by reason of his political opinions.
 
@@ -2982,16 +3097,17 @@ CONSTITUTION OF MALTA
 
 (10) Parliament shall make provision conferring upon the Employment Commission such powers as are necessary or desirable for the purpose of enabling the Commission effectively to afford adequate redress and generally to carry out its function under this Constitution.
 
-121. (1) Any  Commission  established  by  this  Constitution may, with the consent of the Prime Minister or such other Minister as may be authorised in that behalf by the Prime Minister by regulation or otherwise regulate its own procedure and confer powers and impose duties on any public officer or authority of the Government of Malta for the purpose of the discharge of its functions.
+#### Powers and procedure of Commissions.
+
+121. (1) Any Commission established by this Constitution may, with the consent of the Prime Minister or such other Minister as may be authorised in that behalf by the Prime Minister by regulation or otherwise regulate its own procedure and confer powers and impose duties on any public officer or authority of the Government of Malta for the purpose of the discharge of its functions.
 
 (2) Any Commission established by this Constitution may act notwithstanding any vacancy in its membership or the absence of any member and any proceedings thereof shall be valid notwithstanding that some person who was not entitled so to do took part therein.
 
 (3) Any question proposed for decision at any meeting of any Commission established by this Constitution shall be determined by a majority of the votes of all the members thereof, and if on any such question the votes are equally divided the member presiding shall have and exercise a casting vote.
 
-(4) For  the  purposes  of  sub-article  (3)  of  this  article,  the references to a member of the Electoral Commission shall be construed as including a reference to the Chairman of that Commission.
+(4) For the purposes of sub-article (3) of this article, the references to a member of the Electoral Commission shall be construed as including a reference to the Chairman of that Commission.
 
 (5) The provisions of this article shall apply to the
-#### Powers and procedure of Commissions.
 
 [[END OF PAGE 79]]
 
@@ -3001,17 +3117,15 @@ CONSTITUTION OF MALTA
 
 CONSTITUTION OF MALTA
 
-#### Resignations.
-
-#### Reappointments, etc. Amended by: LVIII.1974.61; XXIII.1989.8; XVII.1997.4.
-
-#### Interpretation. Amended by: LVIII.1974.62; XXIX.1979.2; XVII.1997.5.
-
 Broadcasting Authority established by this Constitution.
 
-122. (1) Any  person  who  is  appointed,  elected  or  otherwise selected to any office established by this Constitution (including the office of the Prime Minister or other Minister or Parliamentary Secretary) may resign from that office by writing under his hand addressed to the person or authority by whom he was appointed, elected or selected.
+#### Resignations.
 
-(2) The  resignation  of  any  person  from  any  such  office  as aforesaid shall take effect when the writing signifying the resignation is received by the person or authority to whom it is addressed or by any person authorised by that person or authority to receive it.
+122. (1) Any person who is appointed, elected or otherwise selected to any office established by this Constitution (including the office of the Prime Minister or other Minister or Parliamentary Secretary) may resign from that office by writing under his hand addressed to the person or authority by whom he was appointed, elected or selected.
+
+(2) The resignation of any person from any such office as aforesaid shall take effect when the writing signifying the resignation is received by the person or authority to whom it is addressed or by any person authorised by that person or authority to receive it.
+
+#### Reappointments, etc. Amended by: LVIII.1974.61; XXIII.1989.8; XVII.1997.4.
 
 123. (1) Save as otherwise provided in this Constitution, where any person has vacated any office established by this Constitution including the office of Prime Minister or other Minister or Parliamentary Secretary, he may, if qualified, again be appointed, elected or otherwise selected to hold that office in accordance with the provisions of this Constitution.
 
@@ -3019,7 +3133,9 @@ Broadcasting Authority established by this Constitution.
 
 (3) Where by this Constitution a power is conferred upon any person or authority to make any appointment to any public office, a person may be appointed to that office notwithstanding that some other person may be holding that office, when that other person is on leave of absence pending relinquishment of the office; and where two or more persons are holding the same office by reason of an appointment made in pursuance of this sub-article, then for the purposes of any function conferred upon the holder of that office the person last appointed shall be deemed to be the sole holder of the office.
 
-124. (1) In  this  Constitution,  unless  the  context  otherwise requires -
+#### Interpretation. Amended by: LVIII.1974.62; XXIX.1979.2; XVII.1997.5.
+
+124. (1) In this Constitution, unless the context otherwise requires -
 
 "Act of Parliament" means any law made by Parliament;
 
@@ -3033,7 +3149,7 @@ Broadcasting Authority established by this Constitution.
 
 "Constitutional Court" means the Constitutional Court established by article 95 of this Constitution;
 
-"financial year" means the period of twelve months ending on the thirty-first day of December in any year or on such other date as may be prescribed by Parliament;
+"financial year" means the period of twelve months ending on the thirty-first day of December in any year or on such other date as
 
 [[END OF PAGE 80]]
 
@@ -3042,6 +3158,8 @@ Broadcasting Authority established by this Constitution.
 CONSTITUTION OF MALTA
 
 81
+
+may be prescribed by Parliament;
 
 "Gazette" means the Malta Government Gazette or any other official journal substituted therefor published by order of the Government of Malta;
 
@@ -3059,9 +3177,9 @@ CONSTITUTION OF MALTA
 
 "public officer" means the holder of any public office or of a person appointed to act in any such office;
 
-"the public service" means, subject to the provisions of subarticles (2) and (3) of this article, the service of the Government of Malta in a civil capacity;
+"the public service" means, subject to the provisions of sub-articles (2) and (3) of this article, the service of the Government of Malta in a civil capacity;
 
-"session" means the sittings of the House of Representatives beginning when it first meets after the commencement of this Constitution or after the prorogation or dissolution of Parliament at any time and terminating when Parliament is prorogued or is dissolved without having been prorogued; `
+"session" means the sittings of the House of Representatives beginning when it first meets after the commencement of this Constitution or after the prorogation or dissolution of Parliament at any time and terminating when Parliament is prorogued or is dissolved without having been prorogued;
 
 "sitting" means a period during which the House of Representatives is sitting continuously without adjournment and includes any period during which the House is in committee;
 
@@ -3069,9 +3187,9 @@ CONSTITUTION OF MALTA
 
 (2) In this Constitution, unless the context otherwise requires, "the public service" includes service in the office of judge of the Superior Courts, service in the office of Auditor General and Deputy Auditor General, service in the office of magistrate of the Inferior Courts and service in the office of a member of the Malta Police Force.
 
-(3) In  this  Constitution  "the  public  service"  does  not  include service in the office of -
+(3) In this Constitution "the public service" does not include service in the office of -
 
-(i) Prime  Minister  or  other  Minister,  a  Parliamentary Secretary, Speaker, Deputy Speaker, a member  of  the  House  of  Representatives,  a member  of  a  Commission  established  by  this Constitution;
+(i) Prime Minister or other Minister, a Parliamentary Secretary, Speaker, Deputy Speaker, a member of the House of Representatives, a member of a Commission established by this Constitution;
 
 [[END OF PAGE 81]]
 
@@ -3087,7 +3205,7 @@ CONSTITUTION OF MALTA
 
 (4) For the purposes of this Constitution a person shall not be regarded as holding a public office by reason only of the fact that he is in receipt of a pension or other like allowance in respect of public service.
 
-- In this Constitution, unless the context otherwise requires -
+(5) In this Constitution, unless the context otherwise requires -
 
 ( a ) a  reference  to  an  appointment  to  any  office  shall  be construed  as  including  a  reference  to  an  appointment on  promotion  or  transfer  to  that  office  and  to  the appointment  of  a  person  to  perform  the  functions  of that office during any period during which it is vacant or  during  which  the  holder  thereof  is  on  vacation  or unable  (whether  by  reason  of  absence  or  infirmity  of body  or  mind  or  any  other  cause)  to  perform  those functions; and
 
@@ -3123,7 +3241,7 @@ CONSTITUTION OF MALTA
 
 (13) Any reference in this Constitution to a law that amends or replaces any other law shall be construed as including a reference to a law that modifies, re-enacts, with or without amendment or modification, or makes different provisions in lieu of that other law.
 
-(14) Where Parliament has by law provided for the interpretation of Acts of Parliament, the provisions of any such law, even if expressed to apply to laws passed after the commencement t h e r e o f ,   s h a l l   a p p l y   f o r   t h e   p u r p o s e s   o f   i n t e r p r e t i n g   t h i s Constitution, and otherwise in relation thereto, as they apply for the purpose of interpreting and otherwise in relation to Acts of Parliament as if this Constitution were an Act of Parliament passed after the commencement of any such law as aforesaid:
+(14) Where Parliament has by law provided for the interpretation of Acts of Parliament, the provisions of any such law, even if expressed to apply to laws passed after the commencement thereof, shall apply for the purposes of interpreting this Constitution, and otherwise in relation thereto, as they apply for the purpose of interpreting and otherwise in relation to Acts of Parliament as if this Constitution were an Act of Parliament passed after the commencement of any such law as aforesaid:
 
 Provided that, until such time as Parliament has made provision as aforesaid, the law applicable for the interpretation of this Constitution and otherwise in relation thereto shall be the law which was applicable for that purpose on the appointed day.
 
@@ -3134,8 +3252,6 @@ Provided that, until such time as Parliament has made provision as aforesaid, th
 CONSTITUTION OF MALTA
 
 84
-
-S ubstituted by: LVIII.1974.63.
 
 # SCHEDULES TO THE CONSTITUTION
 ## FIRST SCHEDULE
@@ -3152,6 +3268,8 @@ Commercial Code (Chapter 13)
 
 Civil Code (Chapter 16)
 
+Substituted by: LVIII.1974.63.
+
 ## SECOND SCHEDULE
 
 Articles 50 and 89
@@ -3160,11 +3278,11 @@ Articles 50 and 89
 
 ( a ) Oath for the due execution of the office of President.
 
-I.................................  solemnly swear/affirm that I will faithfully execute the office of President (perform the functions of the President) of Malta, and will, to the best of my ability preserve, protect and defend the Constitution of Malta. (So help me God).
+I................................. solemnly swear/affirm that I will faithfully execute the office of President (perform the functions of the President) of Malta, and will, to the best of my ability preserve, protect and defend the Constitution of Malta. (So help me God).
 
 ( b ) Oath for the due execution of the office of Prime Minister or other Minister or Parliamentary Secretary.
 
-I  .................................  solemnly swear/affirm that I will faithfully and conscientiously perform my duties as (Prime Minister/Minister/Parliamentary Secretary) in accordance with the Constitution and the laws of Malta, without fear or favour. (So help me God).
+I ................................. solemnly swear/affirm that I will faithfully and conscientiously perform my duties as (Prime Minister/Minister/Parliamentary Secretary) in accordance with the
 
 [[END OF PAGE 84]]
 
@@ -3174,6 +3292,10 @@ CONSTITUTION OF MALTA
 
 85
 
+Constitution and the laws of Malta, without fear or favour. (So help me God).
+
+Added by: LVIII.1974.64.
+
 ## THIRD SCHEDULE
 
 Article 124(1)
@@ -3182,6 +3304,8 @@ Article 124(1)
 
 I .................................. solemnly swear/affirm that I will bear true faith and allegiance to the people and the Republic of Malta and its Constitution. (So help me God).
 
+Added by: XXIII.1989.9. Amended by: Proc. No. II of 1990; Proc. No. VI of 1990; Proc. No. IV of 1995; Proc. No. III of 1996; III.2000.6.
+
 ## FOURTH SCHEDULE
 
 (Article 23)
@@ -3189,10 +3313,37 @@ I .................................. solemnly swear/affirm that I will bear true
 ### List of Commonwealth Countries other than Malta
 
 Antigua and Barbuda
-
-Australia Bahamas Bangladesh Barbados Belize Botswana Brunei Darussalam Cameroon Canada Cyprus Dominica The Gambia Ghana Grenada Guyana India Jamaica Kenya Kiribati Lesotho Malawi Malaysia Maldives Mauritius Mozambique Namibia Nauru New Zealand Nigeria Pakistan Papua New Guinea Added by: LVIII.1974.64.
-
-Added by: XXIII.1989.9. Amended by: Proc. No. II of 1990; Proc. No. VI of 1990; Proc. No. IV of 1995; Proc. No. III of 1996; III.2000.6.
+Australia
+Bahamas
+Bangladesh
+Barbados
+Belize
+Botswana
+Brunei Darussalam
+Cameroon
+Canada
+Cyprus
+Dominica
+The Gambia
+Ghana
+Grenada
+Guyana
+India
+Jamaica
+Kenya
+Kiribati
+Lesotho
+Malawi
+Malaysia
+Maldives
+Mauritius
+Mozambique
+Namibia
+Nauru
+New Zealand
+Nigeria
+Pakistan
+Papua New Guinea
 
 [[END OF PAGE 85]]
 
