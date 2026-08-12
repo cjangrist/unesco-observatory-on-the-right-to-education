@@ -26,23 +26,55 @@ Copyright© 2010 Tertiary Education Division, Ministry of Education
 
 All rights reserved, no part of this publication may be reproduced in any form without prior permission from the Tertiary Education Division, Department of Adult and Higher Education, Ministry of Education.
 
-Printed @ Kuensel Corporation Ltd.
+Printed @ KUENSEL Corporation Ltd.
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-Tertiary Education Policy of the Kingdom of Bhutan, 2010
+ROYAL GOVERNMENT OF BHUTAN
+MINISTRY OF EDUCATION
+THIMPHU : BHUTAN
+Cultivating the Grace of Our Mind.
+MINISTER
 
-i
+## Foreword
+
+When we are young, the tendency of our mind is to see things as single, individual, and whole. Every object, person or idea is independent of the other. A doll is a doll entire to itself, so is a house, so a dog, a person, a tree or star. We take one item at a time – complete in itself. We follow what philosophers call a deductive way to make sense of our surrounding, our world.
+
+As we grow up, we begin to see relations. We start developing a tremendous facility – that of classifying and connecting. A doll, we begin to see, is not alone, but that it belongs to other dolls, that a house is linked to other houses, that there are other animals which are also dogs and not the only one that is familiar to us at one point in time, that the woman who brings us into the world and the man around her are related.
+
+Beyond that, we understand that there is a greater link that we call humanity. Solid, liquid and gas are the vital consequences of our profound ability to classify and connect matter that form the substance of our universe. This progression in our ability to comprehend our surrounding follows what might be called an inductive path to knowledge.
+
+School education can be said to follow a deductive mode of learning. The child learns one item at a time – complete in itself. It is too early to marshal the connections that bring objects, persons and ideas together. The facility of relating items is still forming. But it grows very fast. The child is entering the proximal zone of development. The critical aim is to graduate from this deductive mode as quickly as possible because learning is still limited here.
+
+The inductive approach is what truly describes the nature of tertiary education. Here, we discover that there is a certain character that links all phenomena and identifies them together. That one item is not alone, but related to other items by some special bond. That there are underlying connections and laws that bind apparently disparate objects together and that they connect. We have handled the specificities and emerged to the level of the fundamentum. This is the level of generalization. This is true progress.
+
+We know that what we call Mathematics or Physics or Chemistry are but the different ways of making numbers and forces and matter more intelligible to us. That Literature or History or Social Sciences are an autobiography of our own life and society and of the forces that come into play. Philosophy or Astronomy derive their laws from the nature of ideas and of seeming mystery of the realms above. That the supreme achievement of life can be the apprehension of the principles of the True, the Good, and the Beautiful.
+
+Thank you, Teacher. I can read this!
+Telephone: (00975) - 2 - 323825 / 325431    Fax: (00975) - 2 - 326424
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-Tertiary Education Policy of the Kingdom of Bhutan, 2010
+ROYAL GOVERNMENT OF BHUTAN
+MINISTRY OF EDUCATION
+THIMPHU : BHUTAN
+Cultivating the Grace of Our Mind.
+MINISTER
 
-ii
+Above and beyond their deductive and inductive orientations, the nature of all education is normative. The Tertiary Education Policy of the Kingdom of Bhutan is, therefore, a road-map, a guide and a vision for the direction, dimension and scope of the country’s educational efforts encompassing policy, provisions and expectations of state intent as regards education beyond high school.
+
+Henceforth, this Tertiary Education Policy document, approved by the Lhengye Zhungtshog, will be the definitive instrument to guide all stakeholders, public and private, national and international, in developing and implementing programmes of study, material selection and pedagogical practices, assessment and certification, establishment of facilities and the integrity of all elements related to tertiary education in Bhutan.
+
+It is only fair that we recognize and tap the abundant wealth of knowledge and wisdom hidden away in the different fields of learning and enrich the qualities of head and heart. It is my hope and my prayer that we will be able to build and advance a tertiary education system in the country that will support and strengthen our goal to create an enlightened citizenry in a knowledge-based society worthy of our rich heritage and our aspirations for a dynamic, forward-looking and confident future.
+
+Thakur S Powdyel.
+
+Thank you, Teacher. I can read this!
+Telephone: (00975) - 2 - 323825 / 325431    Fax: (00975) - 2 - 326424
 
 [[END OF PAGE 4]]
 
@@ -50,9 +82,41 @@ ii
 
 Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
-Foreword
-
 ## Table of Contents
+
+Foreword
+Part I: The Context
+1.0 Introduction ........................................................................................................ 1
+2.0 Foundations ......................................................................................................... 3
+3.0 Purpose ................................................................................................................ 7
+4.0 Aims ...................................................................................................................... 7
+5.0 Strategies .............................................................................................................. 8
+
+Part II: Governance – Structures and Processes
+6.0 Institutions and Access ..................................................................................... 11
+6.1 Universities ............................................................................................... 11
+6.2 Colleges ..................................................................................................... 12
+6.3 Autonomous Institutes ............................................................................. 12
+6.4 Green Campus ........................................................................................... 13
+6.5 Access ....................................................................................................... 14
+7.0 Academic Programmes and Research and innovations .................................... 14
+7.1 Academic Programmes ............................................................................. 14
+7.2 Research and Innovations ......................................................................... 16
+8.0 Management of Tertiary Education ................................................................... 16
+8.1 Ministry of Education: Oversight and Direction ........................................ 16
+8.2 Management and Governance within Tertiary Education Institutions ..... 18
+9.0 The Tertiary Education Board ............................................................................ 18
+10.0 Quality Assurance ............................................................................................. 20
+11.0 Bhutan Accreditation Council ........................................................................... 22
+12.0 The Registrar ..................................................................................................... 23
+13.0 Funding Tertiary Education ............................................................................... 24
+14.0 Optimal Utilization of Resources ....................................................................... 27
+15.0 Private Sector Participation and Licensing ........................................................ 28
+16.0 Amendments .................................................................................................... 29
+17.0 Legislation ........................................................................................................ 29
+Definitions ........................................................................................................ 30
+Annexures ............................................................................................................... 41
+
 
 iii
 
@@ -78,9 +142,9 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 - 1.2 This  Tertiary  Education  Policy  has  been  developed  in  accordance  with Article  IX,  Sections  15  and  16  of  the  Constitution  of  the  Kingdom  of Bhutan.
 
-- The  State  shall  endeavour  to  provide  education  for  the  purpose of  improving and increasing knowledge, values and skills of the entire population with education being directed towards the full development of the human personality.
+15. The State shall endeavour to provide education for the purpose of improving and increasing knowledge, values and skills of the entire population with education being directed towards the full development of the human personality.
 
-- The  State  shall  provide  free  education  to  all  children  of  school going  age  up  to  tenth  standard  and  ensure  that  technical  and professional education is made generally available and that higher education is equally accessible to all on the basis of merit.
+16. The State shall provide free education to all children of school going age up to tenth standard and ensure that technical and professional education is made generally available and that higher education is equally accessible to all on the basis of merit.
 
 In accordance with these Constitutional provisions, the State is understood to have the overall responsibility for supporting a robust tertiary education in Bhutan.
 
@@ -96,7 +160,7 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 - 1.4 Bhutan, given its history, its geographical location and its environmental conditions, needed  to  imagine  itself differently  to  underscore  the possibility of a different future for itself and for other peoples as well. This social and national vision can only be fulfilled by the creation and good functioning of core tertiary education institutions that look to the future as something more than the increase of the present, and that undertake the vital task of preparing the national leadership of the future, in every field, for the realization of the country's unique conception of itself.
 
-- 1.5 Institutions  and  programmes  of  tertiary  education  must  be  designed  to satisfy the needs for leadership, not just the professional requirements of the intermediate and more distant future.  They must consciously confront the  challenge  implicit  in  the  concept  of  Gross  National  Happiness.  These institutions will have to address the question of what a GNH society, economy and  culture  are,  what  policies  are  needed  to  pursue  the  objectives,  and the training of personnel to develop and carry out those policies. Tertiary education institutions will be characterized by a continuous process of recreation.   The  content  of  their  curricula  and  the  structures  of  their  organization can never be set once and for all; they, like Bhutan itself, must evolve and change, never losing sight of some fundamental founding principles.
+- 1.5 Institutions and programmes of tertiary education must be designed to satisfy the needs for leadership, not just the professional requirements of the intermediate and more distant future. They must consciously confront the challenge implicit in the concept of Gross National Happiness. These institutions will have to address the question of what a GNH society, economy and culture are, what policies are needed to pursue the objectives, and the training of personnel to develop and carry out those policies. Tertiary education institutions will be characterized by a continuous process of re-creation. The content of their curricula and the structures of their organization can never be set once and for all; they, like Bhutan itself, must evolve and change, never losing sight of some fundamental founding principles.
 
 - 1.6 Similarly, the curricula and research agenda of Bhutan's tertiary education institutions will be characterized by the constant interaction of theory and practice with the objective of creating the most fruitful environment for change. The point of departure in education, training and research will always be the practice necessary to achieve the goals of the society.
 
@@ -132,9 +196,7 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 - 2.4 Gross National Happiness, therefore, must form the moral and intellectual foundation for tertiary education in Bhutan.  Accordingly, GNH-inspired tertiary education shall produce:
 
-'graduates who are genuine human beings, realizing their full and true potential, caring for others, including other species, ecologically literate, contemplative as well as analytical in their understanding of the world, free of greed and without completely that  they  are  not  separate  from  the  natural  world  and  from  others;  in  sum,
-
-excessive desires; knowing, understanding, and appreciating manifesting their humanity fully'.
+“graduates who are genuine human beings, realizing their full and true potential, caring for others, including other species, ecologically literate, contemplative as well as analytical in their understanding of the world, free of greed and without excessive desires; knowing, understanding, and appreciating completely that they are not separate from the natural world and from others; in sum, manifesting their humanity fully”.
 
 H.E. Lyonchhen Jigmi Y. Thinley, the Hon'ble Prime Minister of Bhutan; Educating for GNH Workshop, December 12, 2009
 
@@ -422,9 +484,7 @@ economic and scientific practices.
 
 - 7.1.5	 All students in tertiary education in Bhutan shall be required, regardless of programme, to imbibe a common set of core skills that focus on developing critical thinking, reading, and writing skills and the basic components of mindful leadership.
 
-- In  designing,  evaluating  and  revising  programmes,  and  planning  future development, tertiary education institutions shall take into account the emergence  of  new  disciplines  and  inter-disciplinary  studies  -  keeping in  mind national priorities, global trends, and the desirability to attract
-
-- 7.1.6 foreign students.
+- 7.1.6 In designing, evaluating and revising programmes, and planning future development, tertiary education institutions shall take into account the emergence of new disciplines and inter-disciplinary studies – keeping in mind national priorities, global trends, and the desirability to attract foreign students.
 
 15
 
@@ -538,7 +598,7 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 - 9.5 The Chairperson of the Tertiary Education Board shall be the Minister for Education.
 
-- 9.6 The Tertiary Education Board shall have the power to appoint subcommittees as it sees fit to execute its duties effectively and responsibly.
+- 9.6 The Tertiary Education Board shall have the power to appoint sub-committees as it sees fit to execute its duties effectively and responsibly.
 
 ### 10.0 Quality Assurance
 
@@ -548,13 +608,13 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 - 10.3 Every quality assurance process must contain the following elements:
 
-- A  periodic,  critical  evaluation  of  each  programme  by  those  staff involved in the programme's operation.
+- a. A  periodic,  critical  evaluation  of  each  programme  by  those  staff involved in the programme's operation.
 
-- An evaluation of the operation of the programme by a group of peers, including  external  members.    This  evaluation  must  include  direct discussions with the staff, students and other relevant persons.
+- b. An evaluation of the operation of the programme by a group of peers, including  external  members.    This  evaluation  must  include  direct discussions with the staff, students and other relevant persons.
 
-- An action-oriented report with responsibility points and a post-audit follow-up.
+- c. An action-oriented report with responsibility points and a post-audit follow-up.
 
-- An external evaluation of the university's quality assurance process itself by the Bhutan Accreditation Council.
+- d. An external evaluation of the university's quality assurance process itself by the Bhutan Accreditation Council.
 
 20
 
@@ -564,7 +624,7 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
-- All documentation of the above list subject to examination, at any point in time, by any relevant agencies including the Ministry of Education.
+- e. All documentation of the above list subject to examination, at any point in time, by any relevant agencies including the Ministry of Education.
 
 - 10.4 The universities shall be subject to a periodic five-yearly university review, undertaken  by  the  Bhutan  Accreditation  Council,  which  shall  focus  on their institutional standards and effectiveness.  The report of the review shall be made available to the Tertiary Education Board.
 
@@ -596,15 +656,15 @@ approach, shall form the basis for the tertiary education framework for Bhutan a
 
 - 11.3 The  BAC,  as  the  central  agency  for  designing  and  interpreting  all qualifications, frameworks, and institutional standards, shall:
 
-- Recommend the establishment of universities to the Royal Government through the TEB.
+- a. Recommend the establishment of universities to the Royal Government through the TEB.
 
-- Recommend establishment of colleges and institutes to the TEB.
+- b. Recommend establishment of colleges and institutes to the TEB.
 
-- Develop and/or review national qualifications framework.
+- c. Develop and/or review national qualifications framework.
 
-- Review and accredit institutions of tertiary education mainly through the conduct of periodic external reviews.
+- d. Review and accredit institutions of tertiary education mainly through the conduct of periodic external reviews.
 
-- Grant or withdraw accreditation of institutes based on the established standards.
+- e. Grant or withdraw accreditation of institutes based on the established standards.
 
 22
 
@@ -624,19 +684,19 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 - 12.2 The Registrar for tertiary education shall be the Secretary of Education. The Registrar shall have the responsibility to:
 
-- Determine which universities abroad may:
+- a. Determine which universities abroad may:
 
-- be approached by local colleges (and universities) for the award of their programmes, and the granting of awards to successful graduates.
+- i. be approached by local colleges (and universities) for the award of their programmes, and the granting of awards to successful graduates.
 
-- advertise their programmes locally.
+- ii. advertise their programmes locally.
 
-- Administer the registration and licensing of colleges.  This includes:
+- b. Administer the registration and licensing of colleges.  This includes:
 
-- setting out the procedures and fees for applications.
+- i. setting out the procedures and fees for applications.
 
-- making changes in the conditions of the license approved.
+- ii. making changes in the conditions of the license approved.
 
-- establishing a mechanism by which decisions may be appealed.
+- iii. establishing a mechanism by which decisions may be appealed.
 
 23
 
@@ -646,11 +706,11 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
-- Receiving an annual report from each college thus registered and to take such action as may be necessary.
+- c. Receiving an annual report from each college thus registered and to take such action as may be necessary.
 
-- Preparing  and  presenting  an  annual  report  setting  out  the  applications received, the decisions made, and the grounds for those decisions. The full documentation may be examined by interested parties.
+- d. Preparing  and  presenting  an  annual  report  setting  out  the  applications received, the decisions made, and the grounds for those decisions. The full documentation may be examined by interested parties.
 
-- Acting as a repository of information on all matters concerning tertiary education system in the country.
+- e. Acting as a repository of information on all matters concerning tertiary education system in the country.
 
 ### 13.0 Funding Tertiary Education
 
@@ -658,15 +718,15 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 - 13.2 There are three kinds of expenditure that the Royal Government bears for tertiary education.
 
-- Capital expenditure - for one-off infrastructure development, building of new colleges and upgrading existing ones.
+- a) Capital expenditure – for one-off infrastructure development, building of new colleges and upgrading existing ones.
 
-- Operating expenditure funding to cover all recurrent costs such as staff costs, materials and all other costs required to deliver programmes annually.
+- b) Operating expenditure funding to cover all recurrent costs such as staff costs, materials and all other costs required to deliver programmes annually.
 
-- Student costs for ex-country studies (largely undergraduate scholarships).
+- c) Student costs for ex-country studies (largely undergraduate scholarships).
 
 - 13.3   The funding for tertiary education shall be prioritized based on the following two needs:
 
-- Specific Economic Needs: the needs that are directly related to specific jobs which must be performed by appropriately qualified personnel to ensure sound and sustained realization of economic development goals.
+- a. Specific Economic Needs: the needs that are directly related to specific jobs which must be performed by appropriately qualified personnel to ensure sound and sustained realization of economic development goals.
 
 24
 
@@ -676,17 +736,17 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
-- General  Development  Needs: the  needs  that  tie  in  with  personal development  and  enrichment  needs,  the  development  of  citizenry in  a  democratic  society,  and  the  enhancement  of  Gross  National Happiness. (See Annexure F)
+- b. General  Development  Needs: the  needs  that  tie  in  with  personal development  and  enrichment  needs,  the  development  of  citizenry in  a  democratic  society,  and  the  enhancement  of  Gross  National Happiness. (See Annexure F)
 
 - 13.4 All  capital  expenditure  costs  for  public  tertiary  education  institutions shall  continue  to  be  funded  by  the  Royal  Government.  To  establish  a clear understanding of the use of this funding, a contract shall be signed between the Board and any institution that receives funding.
 
 The  contract  shall  include,  but  will  not  be  limited  to,  the  following elements:
 
-- A financial statement of the proposed use of the funds.
+- a) A financial statement of the proposed use of the funds.
 
-- Procedures to be followed by institutions for procurement.
+- b) Procedures to be followed by institutions for procurement.
 
-- A report detailing the aspects on which the funding has been used.
+- c) A report detailing the aspects on which the funding has been used.
 
 - 13.5 The recurrent annual operating expenditure of all public institutions shall be calculated on a per student basis for every course offered. This per student cost shall be funded by the Royal Government, the employer or the  student.  This  means  that  government  funds  shall  be  prioritized  to public universities, colleges and specialized institutes based on national employment needs, student needs and merit.  Government funds can be provided to students in the form of loans (the government shall support the introduction of low-interest or interest-free and income-contingent loans), partial grants and full scholarships.
 
@@ -706,17 +766,17 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 - 13.9 The  allocation  of  funds  shall  be  guided  by  the  following  operational principles:
 
-- Quality: in  allocating  resources,  priority  shall  be  given  to  those institutions  whose  quality  could  be  most  improved  with  the  least amount of resources.
+- a. Quality: in  allocating  resources,  priority  shall  be  given  to  those institutions  whose  quality  could  be  most  improved  with  the  least amount of resources.
 
-- Long Term Assurance: the funding shall be on a long-term, assured basis to give security to large-scale institutional developments.
+- b. Long Term Assurance: the funding shall be on a long-term, assured basis to give security to large-scale institutional developments.
 
-- National Need: government funding will be prioritized for fields which are prioritized for national development and where there is a shortage of staff (eg. Teaching, Nursing etc.)
+- c. National Need: government funding will be prioritized for fields which are prioritized for national development and where there is a shortage of staff (eg. Teaching, Nursing etc.)
 
-- Student need: funding will be granted to students based on need and merit; however distinction between the loan or grant will be made based on the student's financial ability to repay.
+- d. Student need: funding will be granted to students based on need and merit; however distinction between the loan or grant will be made based on the student's financial ability to repay.
 
-- Support of Specialized Projects: funds may be provided to students so that they may attend specialized programmes offered by private institutions  when  such  programmes  are  not  offered  by  public institutions.
+- e. Support of Specialized Projects: funds may be provided to students so that they may attend specialized programmes offered by private institutions  when  such  programmes  are  not  offered  by  public institutions.
 
-- Cost Sharing: the cost of education, where appropriate, shall be shared with the beneficiaries, including students, their families, and employers.
+- f. Cost Sharing: the cost of education, where appropriate, shall be shared with the beneficiaries, including students, their families, and employers.
 
 26
 
@@ -734,13 +794,13 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 - 14.2 The  Board's  allocation  of  resources  shall,  therefore,  encourage  the establishment of a number of common software and technical systems across the entire tertiary education system.  These shall include, but be not limited to,
 
-- A virtual learning environment to support teaching development and distance-learning programmes.
+- a. A virtual learning environment to support teaching development and distance-learning programmes.
 
-- A common library cataloguing system and standard of library provision for users. (See Annexure L)
+- b. A common library cataloguing system and standard of library provision for users. (See Annexure L)
 
-- Common administrative and software tools to assist with optimal management of assets, budgets and staff.
+- c. Common administrative and software tools to assist with optimal management of assets, budgets and staff.
 
-- A common video conferencing facility enabling universities, colleges and institutes to exchange information even at great distances.
+- d. A common video conferencing facility enabling universities, colleges and institutes to exchange information even at great distances.
 
 - 14.3 Further, it is recommended that a national library be established that has adequate and up-to-date resources for the country that shall be accessible to the populace. At any point of time, all tertiary education institutions
 
@@ -752,7 +812,7 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
-shall  share  this  library's  resources.  The  library  shall  also  establish  links with other libraries in neighboring countries so as to provide all students/ faculty access to any material they may need for study or research.
+shall  share  this  library's  resources.  The  library  shall  also  establish  links with other libraries in neighboring countries so as to provide all students/faculty access to any material they may need for study or research.
 
 - 14.4 Each tertiary education institution shall strive for greater efficiency in utilization of resources, both human and material.
 
@@ -810,15 +870,15 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 An autonomous institution shall be any institution in the tertiary education sector that has all of the following characteristics:
 
-- it grants its own degrees
+- a) it grants its own degrees
 
-- it creates and implements its own curriculum
+- b) it creates and implements its own curriculum
 
-- it enjoys financial autonomy
+- c) it enjoys financial autonomy
 
-- it  carries  out  recruitment  and  organization  of  its  own  academic  and administrative staff
+- d) it  carries  out  recruitment  and  organization  of  its  own  academic  and administrative staff
 
-- it controls its own admissions
+- e) it controls its own admissions
 
 The Tertiary Education Board will be responsible for setting the standards by which these characteristics will be measured, in consultation with institutions seeking accreditation or to renew their accreditation.
 
@@ -828,7 +888,7 @@ The  Bhutan  Accreditation  Council  (BAC)  shall  be  the  agency  for  establi
 
 The BAC shall consist of five to seven tenured members, of whom at least half shall be Bhutanese tertiary education professionals or recognized intellectuals having relevant experience. The Registrar for Tertiary Education shall be the Chairperson of the Council.
 
-The  BAC  shall  also  have  responsibility  for  monitoring  the  development  and maintenance of those specific aspects of tertiary education institutions that it considers  vital  to  tertiary  education's  objective  (such  as  libraries,  information systems, the feeding and housing of students), and shall include its evaluation of these components in its evaluation for purposes of accreditation.
+The  BAC  shall  also  have  responsibility  for  monitoring  the  development  and maintenance of those specific aspects of tertiary education institutions that it
 
 31
 
@@ -838,19 +898,21 @@ The  BAC  shall  also  have  responsibility  for  monitoring  the  development  
 
 Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
+considers vital to tertiary education's objective (such as libraries, information systems, the feeding and housing of students), and shall include its evaluation of these components in its evaluation for purposes of accreditation.
+
 #### 2. College
 
 College is a tertiary education institution which shall belong to one of the following three categories:  constituent, affiliated, or autonomous.
 
-- A constituent  college shall  be  an  integral  part  of  a  university  which shall  directly  oversee  all  aspects  of  its  operations,  both  academic  and administrative. The university shall award degrees for its students based upon the constituent college's recommendation.
+- a) A constituent  college shall  be  an  integral  part  of  a  university  which shall  directly  oversee  all  aspects  of  its  operations,  both  academic  and administrative. The university shall award degrees for its students based upon the constituent college's recommendation.
 
-- An affiliated  college shall  be  a  tertiary  education  institution  which  is established  outside  the  university  structure  but  whose  curriculum  is created  with  the  advice  of  the  university,  which  awards  the  students degrees based upon the recommendation of the faculty of the college.
+- b) An affiliated  college shall  be  a  tertiary  education  institution  which  is established  outside  the  university  structure  but  whose  curriculum  is created  with  the  advice  of  the  university,  which  awards  the  students degrees based upon the recommendation of the faculty of the college.
 
-- An autonomous  college is  a  tertiary  education  institution  established within Bhutan but affiliated to a university abroad. It is subject to all the rules and regulations of its founding institution, on the condition that those rules and regulations do not violate the rules, regulations and standards established by the Ministry of Education for Bhutanese tertiary education institutions.  Autonomous colleges shall award their own degrees.  The foreign  institution  which  is  responsible  for  the  autonomous  college  in Bhutan shall award degrees to the college's students based upon its own criteria, as long as those criteria satisfy the requirements of the Ministry of Education.
+- c) An autonomous  college is  a  tertiary  education  institution  established within Bhutan but affiliated to a university abroad. It is subject to all the rules and regulations of its founding institution, on the condition that those rules and regulations do not violate the rules, regulations and standards established by the Ministry of Education for Bhutanese tertiary education institutions.  Autonomous colleges shall award their own degrees.  The foreign  institution  which  is  responsible  for  the  autonomous  college  in Bhutan shall award degrees to the college's students based upon its own criteria, as long as those criteria satisfy the requirements of the Ministry of Education.
 
 #### 3. Faculty
 
-A Faculty or a School is a constituent part of a university defined by the area of knowledge in which it specializes (for example, Medicine, Law, etc.) or the level of education in which it specializes (undergraduate education, graduate education, etc.); while a faculty or a school may include research personnel and activities, those academic parts of the university that are engaged solely in research shall be called centres or institutes.
+A Faculty or a School is a constituent part of a university defined by the area of knowledge in which it specializes (for example, Medicine, Law, etc.) or the level of
 
 32
 
@@ -859,6 +921,8 @@ A Faculty or a School is a constituent part of a university defined by the area 
 [[START OF PAGE 39]]
 
 Tertiary Education Policy of the Kingdom of Bhutan, 2010
+
+education in which it specializes (undergraduate education, graduate education, etc.); while a faculty or a school may include research personnel and activities, those academic parts of the university that are engaged solely in research shall be called centres or institutes.
 
 #### 4. Government
 
@@ -870,9 +934,9 @@ For  the  purposes  of  this  document,  an  'institution'  shall  be  considere
 
 #### 6. Private Institution
 
-A  private  tertiary  education  institution  shall  be  defined  as  an  institution  that is  privately  owned, whether by an individual, a corporation or any other nongovernmental  body.    Primary  responsibility  for  the  institution,  including  its financing and administration, shall be the owner's.  Private institutions shall be subject to the same academic standards and accreditation processes, rules and regulations  that  pertain  to  public  institutions.    Fiduciary  responsibility  for  the institution  is  the  owner's.    It  is  understood  that  private  institutions  have  no a priori claim on government resources.
+A  private  tertiary  education  institution  shall  be  defined  as  an  institution  that is  privately  owned, whether by an individual, a corporation or any other non-governmental  body.    Primary  responsibility  for  the  institution,  including  its financing and administration, shall be the owner's.  Private institutions shall be subject to the same academic standards and accreditation processes, rules and regulations  that  pertain  to  public  institutions.    Fiduciary  responsibility  for  the institution  is  the  owner's.    It  is  understood  that  private  institutions  have  no a priori claim on government resources.
 
-Any private institution shall be established on the basis of a Gold Leaf issued by the Ministry of Education upon fulfillment of all requirements for the establishment of such institutions. Thereafter, the institution shall be incorporated under the Companies Act of the Kingdom of Bhutan (2000).  Any foreign direct investment for the establishment of any private universities, colleges, or institutes shall be in accordance with the provisions of the Foreign Direct Investment Policy 2009 and its allied  Rules  and  Regulations  as  well  as  amendments thereto.  Not-forprofit  universities,  colleges,  and  institutes  established  by  charitable  trusts  and foundations  shall  be  governed  by  the  Civil  Society  Organizations  Act  of  the Kingdom of Bhutan 2007.
+Any private institution shall be established on the basis of a Gold Leaf issued by the Ministry of Education upon fulfillment of all requirements for the establishment of such institutions. Thereafter, the institution shall be incorporated under the Companies Act of the Kingdom of Bhutan (2000).  Any foreign direct investment for the establishment of any private universities, colleges, or institutes shall be in accordance with the provisions of the Foreign Direct Investment Policy 2009 and its allied  Rules  and  Regulations  as  well  as  amendments thereto.  Not-for-profit  universities,  colleges,  and  institutes  established  by  charitable  trusts  and foundations  shall  be  governed  by  the  Civil  Society  Organizations  Act  of  the Kingdom of Bhutan 2007.
 
 33
 
@@ -892,7 +956,7 @@ A public tertiary education institution is founded by the Royal Government of Bh
 
 #### 9. Registrar
 
-Registrar for Tertiary Education is an overall nodal position at a policy decisionmaking level whose responsibility is to oversee and facilitate the functioning and communication  thereof  of  the  Board,  the  Council,  and  the  tertiary  education institutions in addition to fulfilling other responsibilities.
+Registrar for Tertiary Education is an overall nodal position at a policy decision-making level whose responsibility is to oversee and facilitate the functioning and communication  thereof  of  the  Board,  the  Council,  and  the  tertiary  education institutions in addition to fulfilling other responsibilities.
 
 The  Secretary  of  the  Ministry  of  Education  shall  be  the  Registrar  for  Tertiary Education.  The Registrar shall also be responsible for the gathering, organization, and dissemination of information among the tertiary education institutions and for the public.  The Government shall appoint the members of the Tertiary Education Board and the Bhutan Accreditation Council, on the recommendation of the Minister of Education, and the Registrar shall have responsibility for staffing them.
 
@@ -928,7 +992,7 @@ Tertiary  education  shall  consist  of  both  professional  and  general  progr
 
 Tertiary Education Board, within the Ministry of Education, facilitates planning and funding of tertiary education in Bhutan and oversees registration, licensing and quality assurance. Its members are drawn from the relevant sectors of the Ministry of Education.
 
-The Tertiary Education Board shall be composed of members drawn from relevant stakeholders  such  as  the  GNH  Commission,  Ministry  of  Education,  Ministry  of Finance, Ministry of Labour and Human Resources, Ministry of Economic Affairs, etc.  and  invited  members  from  universities  and  other  relevant  professional bodies. These members shall be at the level of decision-making positions, i.e. at the level of government secretaries.
+The Tertiary Education Board shall be composed of members drawn from relevant stakeholders  such  as  the  GNH  Commission,  Ministry  of  Education,  Ministry  of
 
 35
 
@@ -937,6 +1001,8 @@ The Tertiary Education Board shall be composed of members drawn from relevant st
 [[START OF PAGE 42]]
 
 Tertiary Education Policy of the Kingdom of Bhutan, 2010
+
+Finance, Ministry of Labour and Human Resources, Ministry of Economic Affairs, etc. and invited members from universities and other relevant professional bodies. These members shall be at the level of decision-making positions, i.e. at the level of government secretaries.
 
 #### 13. University
 
@@ -1062,7 +1128,7 @@ Dhan Raj Subba
 
 Chief Industry Officer, Department of Industry
 
-### G ross National Happiness Commission (formerly Planning Commission Sec)
+### Gross National Happiness Commission (formerly Planning Commission Sec)
 
 Karma Tshitem
 
@@ -1162,29 +1228,29 @@ Following  the  presentation  of  the  draft  Tertiary  Education  Policy  to  t
 
 #### Consultees:
 
-- H E Lyonpo Thakur S Powdyel,  Sherig Lyonpo
+- 1. H E Lyonpo Thakur S Powdyel,  Sherig Lyonpo
 
-- Dasho Dr. Pema Thinley,  Vice-Chancellor, RUB
+- 2. Dasho Dr. Pema Thinley,  Vice-Chancellor, RUB
 
-- Aum Sangay Zam, Secretary, Ministry of  Education
+- 3. Aum Sangay Zam, Secretary, Ministry of  Education
 
-- Tshewang Tandin, Director General,   Deptt. of School Education, MoE
+- 4. Tshewang Tandin, Director General,   Deptt. of School Education, MoE
 
-- Yangka, Director, Academic Affairs, RUB
+- 5. Yangka, Director, Academic Affairs, RUB
 
-- Sangay Dorjee	, Director, Deptt. of Occupational Standards, MoLHR
+- 6. Sangay Dorjee	, Director, Deptt. of Occupational Standards, MoLHR
 
-- Dr.Phub Rinchen, Secretary, Bhutan Board of Examinations, MoE
+- 7. Dr.Phub Rinchen, Secretary, Bhutan Board of Examinations, MoE
 
-- Tashi Wangyel, Advisor, REC
+- 8. Tashi Wangyel, Advisor, REC
 
-- Tshering Tenzin, Chief Programme Officer, SD, MoE
+- 9. Tshering Tenzin, Chief Programme Officer, SD, MoE
 
-- Jambay Wangchuk, Chief Planning Officer, PPD, MoE
+- 10. Jambay Wangchuk, Chief Planning Officer, PPD, MoE
 
-- Ugyen Tshewang, Chief Human Resource Officer, RCSC
+- 11. Ugyen Tshewang, Chief Human Resource Officer, RCSC
 
-- Singye Namgyel, Planning Officer, PPD, MoE
+- 12. Singye Namgyel, Planning Officer, PPD, MoE
 
 39
 
@@ -1194,31 +1260,31 @@ Following  the  presentation  of  the  draft  Tertiary  Education  Policy  to  t
 
 Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
-- Tandin Wangmo, DHR, MoLHR
+- 13. Tandin Wangmo, DHR, MoLHR
 
-- Sonam Tashi, PPD, MoEA
+- 14. Sonam Tashi, PPD, MoEA
 
-- Karma Sonam Tshering, PPD, MoEA
+- 15. Karma Sonam Tshering, PPD, MoEA
 
-- Tshering Wangmo, Planning Officer, GNH Commission
+- 16. Tshering Wangmo, Planning Officer, GNH Commission
 
-- Penjore, Planning Officer, GNH Commission
+- 17. Penjore, Planning Officer, GNH Commission
 
 #### Task Force Members
 
-- Karma Yeshey	 , Director,   Deptt. of Adult & Higher (DAHE) Edn, MoE
+- 1. Karma Yeshey	 , Director,   Deptt. of Adult & Higher (DAHE) Edn, MoE
 
-- Maina Kharga, Chief, Tertiary Education Division (TED), DAHE, MoE
+- 2. Maina Kharga, Chief, Tertiary Education Division (TED), DAHE, MoE
 
-- Karma Thinley, Sr. Programme Officer, TED, DAHE, MoE
+- 3. Karma Thinley, Sr. Programme Officer, TED, DAHE, MoE
 
-- Chainga, Asstt. Programme Officer, TED, DAHE, MoE
+- 4. Chainga, Asstt. Programme Officer, TED, DAHE, MoE
 
-- Prof. Mark Mancall, Academic Director, Royal Education Council
+- 5. Prof. Mark Mancall, Academic Director, Royal Education Council
 
-- Karan Maheshwari, PFU
+- 6. Karan Maheshwari, PFU
 
-- Khandu Om, PFU
+- 7. Khandu Om, PFU
 
 40
 
@@ -1238,7 +1304,23 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 [[START OF PAGE 49]]
 
-### Annexures A - Q
+### Annexures A – Q
+
+A Expectations of Graduates.............................................................................. 42
+B Descriptors of Quality in Tertiary Education.................................................... 44
+C An International Market for Bhutan Tertiary Education.................................. 51
+D Access to Tertiary Education............................................................................ 54
+E Planning and Funding Tertiary Education........................................................ 57
+F Determining the Need for Tertiary Education.................................................. 63
+G Desirable Characteristics of Institutions of Tertiary Education in Bhutan........ 73
+H Institutions of Tertiary Education .................................................................... 74
+J Autonomy, Accountability and De-Linking....................................................... 81
+K Quality Assurance ............................................................................................ 84
+L Cooperation in Development of Common Infrastructure .................................. 87
+M Research and Innovation .................................................................................. 93
+N Targets............................................................................................................. 99
+P Technical & Vocational Education and Training at Certificate Level ............. 102
+Q Private Participation in Tertiary Education in Bhutan..................................... 110
 
 43
 
@@ -1250,7 +1332,7 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 - 1 Graduates  from  the  tertiary  education  system  of  Bhutan,  and  particularly degree graduates, will be expected to possess the following general intellectual,  personal  and  communication  skills,  and  programmes  leading to  a  degree  award  will  be  expected  to  develop  these  skills  in  the  students.
 
-- Grounding in a discipline or in a coherent body of knowledge.  This includes
+- a) Grounding in a discipline or in a coherent body of knowledge.  This includes
 
 - an acquisition of the conceptual paradigms and frameworks relevant to the subject-matter studied,
 
@@ -1260,7 +1342,7 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 - a sound knowledge of the subject-content.
 
-- The  possession  of  general  academic  skills  derived  from  subject  matter identified above, including:
+- b) The  possession  of  general  academic  skills  derived  from  subject  matter identified above, including:
 
 - critical reasoning,
 
@@ -1276,7 +1358,7 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 - creativity.
 
-- An awareness of the contexts, boundaries and limits of the subject-matter studied, including:
+- c) An awareness of the contexts, boundaries and limits of the subject-matter studied, including:
 
 - an appreciation of the limitations and provisional nature of the knowledge acquired,
 
@@ -1284,7 +1366,7 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 - a recognition of its ethical implications and constraints and an awareness of its social and environmental implications.
 
-- The  possession  of  self-motivated  study  skills and  readiness  to  continue learning.  This includes
+- d) The  possession  of  self-motivated  study  skills and  readiness  to  continue learning.  This includes
 
 - the ability to study independently,
 
@@ -1302,7 +1384,7 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 - the recognition of the need to learn throughout life.
 
-- Communication and presentation This includes:
+- e) Communication and presentation This includes:
 
 - the ability to communicate in all modes appropriate to the matter studied,
 
@@ -1310,21 +1392,21 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 - the ability to communicate technical knowledge to a lay audience.
 
-- Each  graduate  from  tertiary  education  should  be  required  to  possess minimum standards (to be determined and assessed by the institution) in
+- f) Each graduate from tertiary education should be required to possess minimum standards (to be determined and assessed by the institution) in
 
 - spoken and written Dzongkha
 
 - spoken and written English
 
-- Information literacy This includes:
+- g) Information literacy This includes:
 
 - knowledge of and ability to use information technology relevant to the subject studied, information search and retrieval,
 
 - communication tools, word processing, etc. and
 
-- possession    by  each  graduate  from  tertiary  education  of  minimum standards in IT skills.
+- possession by each graduate from tertiary education of minimum standards in IT skills.
 
-- An  understanding  of  and  ability  to  undertake  one's  own  personal development. This includes:
+- h) An understanding of and ability to undertake one's own personal development. This includes:
 
 - self-reflection and self criticism,
 
@@ -1334,7 +1416,7 @@ Tertiary Education Policy of the Kingdom of Bhutan, 2010
 
 - a capacity to challenge received wisdom and the ability to initiate change.
 
-- Interpersonal skills and  awareness This includes:
+- i) Interpersonal skills and awareness This includes:
 
 - Leadership,
 
@@ -1368,11 +1450,11 @@ Among  the  descriptors  of  quality  of  tertiary  education,  the  following  
 
 - 2 Bhutan requires sufficient numbers of qualified individuals to staff a multi-campus university providing a diverse array of programmes. The lead-in time for such provision is significant and will take several years for a critical mass of qualified professionals to become available. The policy prescriptions here are:
 
-- Provision for adequate and qualified staff must be built into the plan for expansion of tertiary education. 'Human Resources' must be an integral component of such a plan.
+- a) Provision for adequate and qualified staff must be built into the plan for expansion of tertiary education. 'Human Resources' must be an integral component of such a plan.
 
-- Great  care  should  be  taken  while  appointing  candidates  to  teaching positions in institutions of tertiary education. Consistently good academic record,  with  advanced  degree,  must  be  the  minimum  qualification  for teaching  positions,  and  preference  given  to  candidates  with  doctoral degree or research experience.
+- b) Great care should be taken while appointing candidates to teaching positions in institutions of tertiary education. Consistently good academic record, with advanced degree, must be the minimum qualification for teaching positions, and preference given to candidates with doctoral degree or research experience.
 
-- The  knowledge  base  and  skills  of  the  existing  teaching  staff  must  be upgraded  through  orientation,  refresher  courses,  and  further  studies. Experts from  outside  Bhutan  may  be  invited  to  offer such  staffdevelopment  courses.  Alternatively,  the  teachers  may  be  sent  abroad
+- c) The knowledge base and skills of the existing teaching staff must be upgraded through orientation, refresher courses, and further studies. Experts from outside Bhutan may be invited to offer such staff-development courses. Alternatively, the teachers may be sent abroad
 
 46
 
@@ -1384,21 +1466,19 @@ for  refresher  courses  or  training  programmes  in  specific  subjects.  The 
 
 such training may be explored.
 
-- The performance of the teaching staff must be regularly assessed. This evaluation could begin with self-appraisal by teachers, evaluation by heads of faculties/departments and the head of the institution, and end with a review by one or two external experts. The outcome of performance evaluation  can  form  the  basis  for  extension  of  appointment,  career
+- d) The performance of the teaching staff must be regularly assessed. This evaluation could begin with self-appraisal by teachers, evaluation by heads of faculties/departments and the head of the institution, and end with a review by one or two external experts. The outcome of performance evaluation can form the basis for extension of appointment, career advancement, incentives, etc.
 
-- advancement, incentives, etc.
+- e) To attract high quality teaching staff, the pay package must be revised upwardly and service conditions improved at least to the levels comparable to those prevalent in the neighbouring countries.
 
-- To  attract  high  quality  teaching  staff,  the  pay  package  must  be  revised upwardly and service conditions improved at least to the levels comparable to those prevalent in the neighbouring countries.
-
-- A good mix in the composition of teaching staff (Bhutanese and those from abroad) will contribute to a vibrant academic environment and enhance the quality of learning environment for students. There is, therefore, a necessity for appropriate conditions and procedures for entry of faculty from outside Bhutan.
+- f) A good mix in the composition of teaching staff (Bhutanese and those from abroad) will contribute to a vibrant academic environment and enhance the quality of learning environment for students. There is, therefore, a necessity for appropriate conditions and procedures for entry of faculty from outside Bhutan.
 
 #### B2 Students
 
-- Students constitute the primary focus of teaching-learning experience in tertiary education. The academic preparation, aptitude, and motivation of students joining tertiary-level institutions have a determining influence on the quality of tertiary education.
+- a) Students constitute the primary focus of teaching-learning experience in tertiary education. The academic preparation, aptitude, and motivation of students joining tertiary-level institutions have a determining influence on the quality of tertiary education.
 
-- High quality of secondary-level education is, thus, a prerequisite for high quality tertiary education. While tertiary educational institutions can topup on school-level education, they cannot do much remedial education without compromising on what they are primarily expected to do.
+- b) High quality of secondary-level education is, thus, a prerequisite for high quality tertiary education. While tertiary educational institutions can top-up on school-level education, they cannot do much remedial education without compromising on what they are primarily expected to do.
 
-- The emphasis on merit-based admission to tertiary-level educational institutions  is  important;  it  will  facilitate  the  pursuit  of  academic excellence. However, in the existing system, merit is determined by what the students achieve at the school level, where the curriculum is  generic.  A  meritorious  student  who  has  no  aptitude  for  tertiary education  and  whose  motivation  is  doubtful,  will  be  an  unwilling beneficiary  and  a  certain  drain  on  scarce  resources.  To  address the  issue  of  aptitude  and  motivation,  it  is,  therefore,  necessary  to introduce student counseling.
+- c) The emphasis on merit-based admission to tertiary-level educational institutions is important; it will facilitate the pursuit of academic excellence. However, in the existing system, merit is determined by what the students achieve at the school level, where the curriculum is generic. A meritorious student who has no aptitude for tertiary education and whose motivation is doubtful, will be an unwilling beneficiary and a certain drain on scarce resources. To address the issue of aptitude and motivation, it is, therefore, necessary to introduce student counseling.
 
 47
 
@@ -1418,11 +1498,11 @@ such training may be explored.
 
 - 1 The effectiveness with which the lead actors in tertiary education - the teachers, the  students,  and  the  administrative  staff  -  function  and  the  quality  of  their endeavours would depend upon the facilities that are available to them. These facilities  may be broadly categorized as academic, physical infrastructure, and extra-curricular facilities:
 
-- The academic facilities include sufficient number of adequately equipped classrooms; a well-stocked library; and an adequately equipped laboratory.
+- a) The academic facilities include sufficient number of adequately equipped classrooms; a well-stocked library; and an adequately equipped laboratory.
 
-- The physical infrastructure facilities include spacious buildings, catering to the various needs of the staff and students, and adequate hostel facilities for boys and girls, and housing for the teaching and administrative staff.
+- b) The physical infrastructure facilities include spacious buildings, catering to the various needs of the staff and students, and adequate hostel facilities for boys and girls, and housing for the teaching and administrative staff.
 
-- Extra-curricular facilities include provision of playgrounds, gymnasium, etc.
+- c) Extra-curricular facilities include provision of playgrounds, gymnasium, etc.
 
 - 2 In the best of tertiary institutions in the world, the library is the centre of educational experience  for  students,  at  times  superseding  in  importance  to  classroom proceedings. Effective classroom transaction presumes student investment of time in the library. As a storehouse of knowledge and forum for academic interaction, the library is a world of higher learning by itself. A good library enables the educational system to partially transfer the learning responsibility to students.
 
@@ -1448,11 +1528,11 @@ sharable resources, e-journal holdings, and datasets on CDs will greatly enhance
 
 - 1 The essence of any education is the programme of study. Its design will include:
 
-- The duration and internal organization in terms of years and/or semesters, and the structuring of progression from one semester/year to the next.
+- a) The duration and internal organization in terms of years and/or semesters, and the structuring of progression from one semester/year to the next.
 
-- The  framing  of  curriculum:  the  distribution  of  curriculum  over  specified number  of  years/semesters, in terms  of the logical and  sequential arrangement of what the student is expected to learn; the level of ease/ difficulty that the students are likely to encounter: thus, the initial semesters/ year will have curriculum components pitched at a lower level, whereas the level of difficulty increases at successive levels.
+- b) The framing of curriculum: the distribution of curriculum over specified number of years/semesters, in terms of the logical and sequential arrangement of what the student is expected to learn; the level of ease/difficulty that the students are likely to encounter: thus, the initial semesters/year will have curriculum components pitched at a lower level, whereas the level of difficulty increases at successive levels.
 
-- A consideration of the context in which the curriculum is offered and the relevance
+- c) A consideration of the context in which the curriculum is offered and the relevance
 
 49
 
@@ -1462,13 +1542,13 @@ sharable resources, e-journal holdings, and datasets on CDs will greatly enhance
 
 of the curriculum to the needs of students, the economy and government and the wider society (enlightened citizenry).
 
-- Framing  of  appropriate  subjects  within  the  programme,  upgrading  the syllabus  periodically,  the  sourcing  of  latest  reading  and  experimental material.  This  may  also  involve  the  identification  of  'core'  and  'optional' modules, catering to different needs of the students.
+- d) Framing of appropriate subjects within the programme, upgrading the syllabus periodically, the sourcing of latest reading and experimental material. This may also involve the identification of 'core' and 'optional' modules, catering to different needs of the students.
 
-- A  consideration  of  how  various  modules  are  offered  (pedagogy)  and evaluated (evaluation) to determine the process and product of students' learning. This has to be geared to the expectations of learning from students, and the objectives set out for the course.
+- e) A consideration of how various modules are offered (pedagogy) and evaluated (evaluation) to determine the process and product of students' learning. This has to be geared to the expectations of learning from students, and the objectives set out for the course.
 
-- A  provision  for  obtaining  feedback  from  students  and  teachers  for  finetuning/revision of the programme or courses within it.
+- f) A provision for obtaining feedback from students and teachers for fine-tuning/revision of the programme or courses within it.
 
-- An  analysis  of  student  performance,  including  completion  rates  and distribution of grades and comparisons across the curriculum.
+- g) An analysis of student performance, including completion rates and distribution of grades and comparisons across the curriculum.
 
 - 2 The  programmes of  study  must  be  consistent  with  the  strategic  plans  of  the country,  improve  the  employability  of  students,  and  meet  the  human  power needs of the economy. They must involve a combination of knowledge, skills, and personality development: a graduate is a responsible educated citizen of the  country.  A  statement  of  what  the  student  is  expected  to  learn  ('learning outcomes') must be a part of every programme of study.
 
@@ -1494,15 +1574,15 @@ There has been a paradigm shift in tertiary education; universities no longer on
 
 - 1 The Quality Assurance system needs to have a definite philosophy underpinning its structure. These should include:-
 
-- A critical evaluation of a programme by those staff involved in the programme's operation, and a meeting by a group of peers with the staff, students and other relevant persons based on the defined programme and the critical self appraisal,
+- a) A critical evaluation of a programme by those staff involved in the programme's operation, and a meeting by a group of peers with the staff, students and other relevant persons based on the defined programme and the critical self appraisal,
 
-- an action oriented report, with responsibility points and a post-audit follow-up
+- b) an action oriented report, with responsibility points and a post-audit follow-up
 
-- international bench-marking
+- c) international bench-marking
 
-- relationship to the institution strategic plan, and
+- d) relationship to the institution strategic plan, and
 
-- staff development and the development of a culture of quality.
+- e) staff development and the development of a culture of quality.
 
 - 2 To ensure that quality consciousness is put in place, both as an idea and in practice, a mechanism needs to be put in place to inculcate the essentials of quality at the college and department level and to monitor adherence to the quality norms.
 
@@ -1542,31 +1622,31 @@ staff qualifications and performance should be compared with good practices in o
 
 - 2 Given  the  spirit  of  economic  liberalization,  governments  in  most  countries  are reluctant  to  invest  in  expanding  tertiary  education.  Investment  by  the  private sector in educational enterprises raises the cost of education for aspirants. Under such  conditions,  families  which  have  economic  resources  and  which  want  to invest in the tertiary education of their wards allow them to migrate to pastures where the type and quality of education match their economic wherewithal. Such migration takes place internally in large countries (for example, India) and between countries.
 
-- 3 The provision of the educational system must consider the prospect of catering to an international market. Traditionally, export industries sprang out of homebased industries, but with the e-commerce world that is no longer necessarily the case.
+- 3 The provision of the educational system must consider the prospect of catering to an international market. Traditionally, export industries sprang out of home-based industries, but with the e-commerce world that is no longer necessarily the case.
 
 - 4 The Unique Selling Points that Bhutan could leverage in developing an international market in tertiary education are:  -
 
-- the cultural environment
+- a) the cultural environment
 
-- the physical environment
+- b) the physical environment
 
-- the spiritual environment
+- c) the spiritual environment
 
-- the widespread use of English by the population and its use as the medium of instruction in education
+- d) the widespread use of English by the population and its use as the medium of instruction in education
 
-- political stability
+- e) political stability
 
-- low level of corruption, and
+- f) low level of corruption, and
 
-- a  high  proportion  of  its  population  has  experienced  education  in  other countries including a wide range of developed countries.
+- g) a high proportion of its population has experienced education in other countries including a wide range of developed countries.
 
 - 5 The products could be:
 
-- students coming to Bhutan to study,
+- a) students coming to Bhutan to study,
 
-- Bhutanese graduates from Bhutan going to work abroad and remit funds home, and
+- b) Bhutanese graduates from Bhutan going to work abroad and remit funds home, and
 
-- programmes developed for Bhutanese to serve an export led industry e.g. specialist call centres.
+- c) programmes developed for Bhutanese to serve an export led industry e.g. specialist call centres.
 
 - 6 Potential markets for students, each of which would have a different interest, could include any country. The most obvious ones are those nearby, SAARC countries, but there is also a market in short courses for people from developed countries.
 
@@ -1578,43 +1658,37 @@ staff qualifications and performance should be compared with good practices in o
 
 - 7 The programmes in Bhutan to which foreign students could come could be
 
-- a)
+- a) the regular programmes offered for the Bhutanese,
 
-- b)
+- b) special programmes offered to meet particular market needs
 
-- the regular programmes offered for the Bhutanese,
+- c) short courses on Buddhism and philosophy for adults from developed countries
 
-- special programmes offered to meet particular market needs
+- d) special long courses specially designed for an overseas market
 
-- short  courses  on  Buddhism  and  philosophy  for  adults  from  developed countries
-
-- special long courses specially designed for an overseas market
-
-- exclusive  niche  areas  in  which  Bhutan  has  a  particular  advantage,  such  as traditional medicines, mountain ecology, forestry and forest-based industry, environmental engineering.
+- e) exclusive niche areas in which Bhutan has a particular advantage, such as traditional medicines, mountain ecology, forestry and forest-based industry, environmental engineering.
 
 - 8 The programmes in Bhutan which could specifically prepare Bhutanese and others for employment in the world market in areas such as
 
-- information technology and bio-technology, but these require huge investments
+- h) information technology and bio-technology, but these require huge investments
 
-- areas  where  Bhutanese  graduates  and  diploma/certificate  holders  will  have employment  prospects  internationally (for example, nursing,  computer software  programming,  information  technology,  etc.)  and  nationally  (for example, tourism,  highway  engineering,  trades  such  as  plumbing,  repairing electronic gadgets, etc.).
+- i) areas where Bhutanese graduates and diploma/certificate holders will have employment prospects internationally (for example, nursing, computer software programming, information technology, etc.) and nationally (for example, tourism, highway engineering, trades such as plumbing, repairing electronic gadgets, etc.).
 
 - 9 The design parameters are that any provision should be
 
-- a)
+- a) cost-effective,
 
-- cost-effective,
+- b) viable to the Bhutanese aspirants, and
 
-- viable to the Bhutanese aspirants, and
-
-- attractive to students from abroad.
+- c)attractive to students from abroad.
 
 - 10 There are difficulties that need to be recognized and overcome in order to fulfill this ambition.
 
-- There is tough competition to be faced from established international players. One  possibility  is  to  enter  into  collaborative  ventures  with  established systems.
+- a) There is tough competition to be faced from established international players. One possibility is to enter into collaborative ventures with established systems.
 
-- Tertiary education in Bhutan is relatively recent, and on any international measure  its  quality  cannot  yet  be  claimed  to  be  high.  Years  of  heavy investment  and  development  will  be  needed  for  it  to  compete  on  an international scale,
+- b) Tertiary education in Bhutan is relatively recent, and on any international measure its quality cannot yet be claimed to be high. Years of heavy investment and development will be needed for it to compete on an international scale,
 
-- There is inadequate e-infrastructure in Bhutan which affects the acceptability of all aspects of its education.  For example, any international educational
+- c) There is inadequate e-infrastructure in Bhutan which affects the acceptability of all aspects of its education. For example, any international educational
 
 54
 
@@ -1624,31 +1698,31 @@ staff qualifications and performance should be compared with good practices in o
 
 centre  seeking  to  set  up  business  here  will  expect  an  infrastructure  and trained staff to back up the operation of e-functions. Any nurses operating in developed countries will be expected to be fully familiar with advanced patient  information  systems  in  their  everyday  work.  Any  educational  or other business that cannot sell its products on the net will languish.
 
-- The cost of setting up a specialist educational centre is high, compared to more accessible countries, and the gestation period for obtaining returns may be long.
+- d) The cost of setting up a specialist educational centre is high, compared to more accessible countries, and the gestation period for obtaining returns may be long.
 
-- The financial infrastructure in Bhutan is not conducive to foreign investment.
+- e) The financial infrastructure in Bhutan is not conducive to foreign investment.
 
-- International  tertiary  education  is  a  highly  competitive  and  sophisticated industry. ICT is fast globalizing the provision of tertiary education and training and the creation and dissemination of knowledge. Bhutanese institutions no longer have the monopoly (or preferential access) over local students. At the click of a keyboard, students may more easily secure information and register for programmes at world universities.
+- f) International tertiary education is a highly competitive and sophisticated industry. ICT is fast globalizing the provision of tertiary education and training and the creation and dissemination of knowledge. Bhutanese institutions no longer have the monopoly (or preferential access) over local students. At the click of a keyboard, students may more easily secure information and register for programmes at world universities.
 
 #### Branch campuses
 
 - 11 To attract universities and colleges from abroad, to set up a branch campus in Bhutan an environment that is attractive on economic, social and educational grounds is needed.  Factors that will attract an educational business to set up in a new site or country include the following:
 
-- the  availability  of  a  well  qualified  and  well  educated  labour  force,  good provision for the further training of staff;
+- a) the availability of a well qualified and well educated labour force, good provision for the further training of staff;
 
-- easy recruitment of qualified staff from abroad.
+- b) easy recruitment of qualified staff from abroad.
 
-- good social and housing facilities for staff in this country, to attract staff to stay
+- c) good social and housing facilities for staff in this country, to attract staff to stay
 
-- a financial environment that allows for profits commensurate with the risks and with the rates asked by banks for such a venture.
+- d) a financial environment that allows for profits commensurate with the risks and with the rates asked by banks for such a venture.
 
-- tax incentives, e.g a tax moratorium for an initial start-up period.
+- e) tax incentives, e.g a tax moratorium for an initial start-up period.
 
-- long-term lease of land, facilities or property with minimal or zero rent.
+- f) long-term lease of land, facilities or property with minimal or zero rent.
 
-- absence of competition in the key markets, and
+- g) absence of competition in the key markets, and
 
-- a stable regulatory environment, so that the rules do not change in two years time; alternatively, the government guarantees to protect against regulatory turbulence
+- h) a stable regulatory environment, so that the rules do not change in two years time; alternatively, the government guarantees to protect against regulatory turbulence
 
 55
 
@@ -1658,19 +1732,19 @@ centre  seeking  to  set  up  business  here  will  expect  an  infrastructure  
 
 - 12 In addition, there are some factors specific to an educational establishment.
 
-- Universities  from  abroad  will  particularly  appreciate  the  opportunity  to undertake research in Bhutan in areas which would provide an appropriate environment for their research interests (e.g. forestry, alternative medicine,. language)
+- j) Universities from abroad will particularly appreciate the opportunity to undertake research in Bhutan in areas which would provide an appropriate environment for their research interests (e.g. forestry, alternative medicine,. language)
 
-- There  is  the  possibility  of  a  branch  campus  receiving  some  Government support in the form of a contract with the TEB to provide specific education programmes under contract for Bhutanese students or for students being able to use their scholarships to pay part of the fees at the branch campus.
+- k) There is the possibility of a branch campus receiving some Government support in the form of a contract with the TEB to provide specific education programmes under contract for Bhutanese students or for students being able to use their scholarships to pay part of the fees at the branch campus.
 
 #### Benefits
 
 - 13 There would be significant benefits in the establishment of a branch campus in Bhutan of a reputed university from abroad
 
-- It would provide a complement, a basis for comparison, a source of new ideas, and a healthy challenge to existing tertiary education in Bhutan.
+- l) It would provide a complement, a basis for comparison, a source of new ideas, and a healthy challenge to existing tertiary education in Bhutan.
 
-- It could provide the basis for a new industry that will complement the existing tourism industry.
+- m) It could provide the basis for a new industry that will complement the existing tourism industry.
 
-- The standard would be comparable to that in its country of origin and the cost less.
+- n) The standard would be comparable to that in its country of origin and the cost less.
 
 ### D Access to Tertiary Education
 
@@ -1678,11 +1752,11 @@ centre  seeking  to  set  up  business  here  will  expect  an  infrastructure  
 
 - 1 Admission to the university system is currently based on performance in class XII examination, and most students are admitted on that basis.  To be able to fulfill its role in the knowledge society, the tertiary education system shall go beyond elite provision of education, catering to entry from school for students studying academic  programmes  designed  for  academic  tertiary  education.  Access  to tertiary education must be broadened to cater for a wide(r) range of students and entry to its portals must be open at different levels. The target groups for tertiary education include:
 
-- school leavers who, as at present, have taken a set of academic subjects,
+- a) school leavers who, as at present, have taken a set of academic subjects,
 
-- school leavers who have taken a mixture of more vocational and academic subjects,
+- b) school leavers who have taken a mixture of more vocational and academic subjects,
 
-- graduates of vocational schools;
+- c) graduates of vocational schools;
 
 56
 
@@ -1690,13 +1764,13 @@ centre  seeking  to  set  up  business  here  will  expect  an  infrastructure  
 
 [[START OF PAGE 63]]
 
-- students  from  a  TVET  Certificate  programme  for  admission  to  a  Diploma programme;
+- d) students from a TVET Certificate programme for admission to a Diploma programme;
 
-- persons in employment, where the employer (e.g., the Royal Civil Service Commission  [RCSC])  releases  them  for  qualification  upgrading  to  take  a full-time degree. Currently, these people are generally sent outside of the country, but the colleges in the system should also cater for their needs;
+- e) persons in employment, where the employer (e.g., the Royal Civil Service Commission [RCSC]) releases them for qualification upgrading to take a full-time degree. Currently, these people are generally sent outside of the country, but the colleges in the system should also cater for their needs;
 
-- students who have taken class XII some time previously and have been in employment, but now wish to enter tertiary education
+- f) students who have taken class XII some time previously and have been in employment, but now wish to enter tertiary education
 
-- students  preferring  face-to-face  or  distance  learning  provision  via  virtual learning environment.
+- g) students preferring face-to-face or distance learning provision via virtual learning environment.
 
 - 2 Candidates  in  many  of  these  categories  will  not  have  class  XII  grades  that can  compete  with  fresh  class  XII  graduates  but  their  greater  maturity,  work experience, and evidence of private study should be accepted as compensating achievements in considering their admission. One of the benefits of this broader entry is the greater richness that it can give to a class, where the students come from different backgrounds some with work experience, some fresh from school; it also places a greater premium on motivation.
 
@@ -1750,27 +1824,27 @@ centre  seeking  to  set  up  business  here  will  expect  an  infrastructure  
 
 #### E1	 Tertiary Education Board (TEB)
 
-- The tertiary education system requires a streamlined and consolidated approach towards providing guidance and direction by way of overall planning and strategizing of tertiary education needs in the country. Such an approach will  help  to  enhance  effectiveness  and  efficiency  in  supporting  the  growth  of tertiary education system through planning and funding. This will also reduce administrative burden on clientele by making processes such as approval system, securing funds, scholarships, student grants and loans efficient through creation of an empowered multi-sectoral Board. This Board shall be called the Tertiary Education Board (TEB).
+- 1. The tertiary education system requires a streamlined and consolidated approach towards providing guidance and direction by way of overall planning and strategizing of tertiary education needs in the country. Such an approach will help to enhance effectiveness and efficiency in supporting the growth of tertiary education system through planning and funding. This will also reduce administrative burden on clientele by making processes such as approval system, securing funds, scholarships, student grants and loans efficient through creation of an empowered multi-sectoral Board. This Board shall be called the Tertiary Education Board (TEB).
 
-- The Tertiary Education Board shall be established by the government, on the recommendation of the Ministry of Education and shall be granted the authority and responsibility to assist the Ministry of Education through the Department of Adult and Higher Education, to:
+- 2. The Tertiary Education Board shall be established by the government, on the recommendation of the Ministry of Education and shall be granted the authority and responsibility to assist the Ministry of Education through the Department of Adult and Higher Education, to:
 
-- Review and set goals for tertiary education, develop strategies to meet the goals, maintain progressive balance by subject, mode, level, entrants, etc.
+- a. Review and set goals for tertiary education, develop strategies to meet the goals, maintain progressive balance by subject, mode, level, entrants, etc.
 
-- Validate and approve all plans and proposals for allocations of funds.
+- b. Validate and approve all plans and proposals for allocations of funds.
 
-- Approve establishment of institutions based on recommendation by BAC.
+- c. Approve establishment of institutions based on recommendation by BAC.
 
-- The Tertiary Education Board's remit shall be to oversee the funding, and, where appropriate, the planning of:
+- 3. The Tertiary Education Board's remit shall be to oversee the funding, and, where appropriate, the planning of:
 
-- All programmes of tertiary education offered in the country, in all modes of study, in all subject areas, for all types of entrants.
+- a. All programmes of tertiary education offered in the country, in all modes of study, in all subject areas, for all types of entrants.
 
-- All government-sponsored tertiary education and training undertaken abroad.
+- b. All government-sponsored tertiary education and training undertaken abroad.
 
-- Doctoral level education and research (including base funding and specific projects).
+- c. Doctoral level education and research (including base funding and specific projects).
 
-- Specific projects which shall be limited by time (research, development, and capital).
+- d. Specific projects which shall be limited by time (research, development, and capital).
 
-- The Tertiary Education Board shall be composed of members drawn from relevant stakeholders such as the GNH Commission, Ministry of Education, Ministry of
+- 4. The Tertiary Education Board shall be composed of members drawn from relevant stakeholders such as the GNH Commission, Ministry of Education, Ministry of
 
 59
 
@@ -1780,9 +1854,9 @@ centre  seeking  to  set  up  business  here  will  expect  an  infrastructure  
 
 Finance, Ministry of Labour and Human Resources, Ministry of Economic Affairs, etc. and other members drawn from associated professional bodies and eminent professionals.
 
-- The Chairperson of the Tertiary Education Board shall be the Minister for Education.
+- 5. The Chairperson of the Tertiary Education Board shall be the Minister for Education.
 
-- The Tertiary Education Board shall have the power to appoint sub-committees as it sees fit to execute its duties effectively and responsibly.
+- 6. The Tertiary Education Board shall have the power to appoint sub-committees as it sees fit to execute its duties effectively and responsibly.
 
 ##### Secretariat
 
@@ -1798,9 +1872,9 @@ Finance, Ministry of Labour and Human Resources, Ministry of Economic Affairs, e
 
 - 1 Annexure F categorizes needs for tertiary education in terms of:-
 
-- Specific economic needs
+- a) Specific economic needs
 
-- General developmental needs
+- b) General developmental needs
 
 - 2 The  Ministry  of  Economic  Affairs  is  responsible  for  determining  the  economic priorities  for  the  development  of  the  country,  although  other  agencies  may contribute.  The RCSC undertakes an analysis of all the manpower needs of the Civil Service, including the Ministries of Health, Education, and Agriculture and of the
 
@@ -1850,7 +1924,7 @@ RCSC itself.  These are major employers of graduates.  The Ministry of Labour an
 
 #### E7 Determining Fees and Scholarships
 
-- 1 C ost-sharing or revenue supplementation from parents and students allows the provision of tertiary education to be more broadly available.  One of the arguments for this is that the students are the major beneficiaries of such education, and that
+- 1 Cost-sharing or revenue supplementation from parents and students allows the provision of tertiary education to be more broadly available. One of the arguments for this is that the students are the major beneficiaries of such education, and that
 
 62
 
@@ -1864,21 +1938,21 @@ from the financial benefits (albeit gained at a later stage) they should contrib
 
 - 2 A  Scholarship  is  the  amount  paid  by  the  Board  for  a  student  on  a  particular programme.  It may cover the full cost of the programme, it may cover a fraction of the cost, or it may cover the full cost plus accommodation and food.  As far as possible, it will be paid not to the student but to the college or university he or she attends.  It may be paid to students attending a university or a private college in Bhutan, or a student sent to a college or university abroad.  The value of scholarships will depend on a number of factors:
 
-- It will depend on actual cost, thus a scholarship to a college or university abroad will be greater than a scholarship to a local programme.
+- a) It will depend on actual cost, thus a scholarship to a college or university abroad will be greater than a scholarship to a local programme.
 
-- Student  following  programmes  in  areas  deemed  to  meet  specific economic needs (category a) but which may not attract many students e.g. Diploma in Electrical Engineering or B Ed are very likely to receive a full scholarship.
+- b) Student following programmes in areas deemed to meet specific economic needs (category a) but which may not attract many students e.g. Diploma in Electrical Engineering or B Ed are very likely to receive a full scholarship.
 
-- Students  following  programmes  which  are  very  popular  may  receive scholarships which only cover a fraction of the full cost on the ground that there is sufficient social demand to impel families to pay the student-fees.
+- c) Students following programmes which are very popular may receive scholarships which only cover a fraction of the full cost on the ground that there is sufficient social demand to impel families to pay the student-fees.
 
-- There may be scholarships based on merit.
+- d) There may be scholarships based on merit.
 
-- There may be scholarships based on means.
+- e) There may be scholarships based on means.
 
-- Some scholarships may be given only for the first two years of a programme.
+- f) Some scholarships may be given only for the first two years of a programme.
 
-- Students on some programmes that are considered as not meeting economic needs nor general developmental needs may receive no scholarship.
+- g) Students on some programmes that are considered as not meeting economic needs nor general developmental needs may receive no scholarship.
 
-- In some programmes, it may be that there are a given number of places with  scholarships  and  all  additional  students  are  admitted  with  no  or minimal scholarship.
+- h) In some programmes, it may be that there are a given number of places with scholarships and all additional students are admitted with no or minimal scholarship.
 
 ##### Continuing Professional Development
 
@@ -1916,27 +1990,27 @@ Procedures: Financial procedures to be followed by the institution.
 
 Each institution of tertiary education in Bhutan in receipt of Government funding shall submit annually to the Chairman of the Board:
 
-- A financial statement with a report by a qualified auditor.  [This assumes that the Institutions will have financial autonomy]  The aim of this requirement is to:
+- a) A financial statement with a report by a qualified auditor. [This assumes that the Institutions will have financial autonomy] The aim of this requirement is to:
 
-- enable informed judgments to be made as to their performance, financial position, financing, and investment,
+- i) enable informed judgments to be made as to their performance, financial position, financing, and investment,
 
-- ii) provide  a  mechanism  to  enable  the  institutions  to  discharge  their accountability obligations,
+- ii) provide a mechanism to enable the institutions to discharge their accountability obligations,
 
 - iii) align tertiary education with standard reporting requirements,
 
-- iv) make  the  financial  position  more  transparent  and  encourage  public accountability, and
+- iv) make the financial position more transparent and encourage public accountability, and
 
-- allow individual grants and their use to be separately identified
+- v) allow individual grants and their use to be separately identified
 
-- Statistics on its operation including: the programmes provided, the student numbers and progression statistics  on  each  programme,  the  numbers  of staff by category, and the research activity.
+- b) Statistics on its operation including: the programmes provided, the student numbers and progression statistics on each programme, the numbers of staff by category, and the research activity.
 
-- Plans and targets, setting out the proposed plans for
+- c) Plans and targets, setting out the proposed plans for
 
-- programmes and student numbers in broad terms (eg 300 engineering degree, 100 engineering diploma) for each year for the next five years; this will be incremental change to the previous year's plans and will form the institutions' submission to the planning process described above,  and
+- i) programmes and student numbers in broad terms (eg 300 engineering degree, 100 engineering diploma) for each year for the next five years; this will be incremental change to the previous year's plans and will form the institutions' submission to the planning process described above, and
 
 - ii) research
 
-- A  self-analytical  report on  its  operation,  predominantly  on  those aspects of its operation that are funded by the Ministry of Education. This should report on the achievement of targets set out in the previous year,  the  problems  faced  and  solved  or  not  solved,  and  the  planned programme  of  actions  for  the  coming  year.    This  report  must  not  be used as an instrument of control; it is to be primarily intended for selfassessment and incorporation of necessary correctives in setting agendas and implementing them.  The report could also be immensely helpful in long-term tracking of where and how the university and its system have been developing.
+- d) A self-analytical report on its operation, predominantly on those aspects of its operation that are funded by the Ministry of Education. This should report on the achievement of targets set out in the previous year, the problems faced and solved or not solved, and the planned programme of actions for the coming year. This report must not be used as an instrument of control; it is to be primarily intended for self-assessment and incorporation of necessary correctives in setting agendas and implementing them. The report could also be immensely helpful in long-term tracking of where and how the university and its system have been developing.
 
 65
 
@@ -1970,17 +2044,17 @@ In response to the information and reports provided by the institutions, the Boa
 
 - 4 On the one hand, global competitiveness requires that these institutions remain at, and even push, the knowledge frontiers.  This is a tall order, given the relative resource availability.  It is vital that the tertiary education sector is able effectively to support the attainment of Bhutan's development goals and aspirations, and to effectively play the above-outlined roles.
 
-- 5 On the other hand, there needs to be some correlation between the expansion of tertiary education and the capacity of the economy to absorb the graduates from the tertiary education institutions.  Currently, the graduates of The Royal University  of  Bhutan  (RUB)  are  by  and  large  absorbed,  so  are  Bhutanese holding  educational  credentials  from  abroad.    As  of  now,  Bhutan  has  been careful  about  expanding the facilities  for  tertiary  education.    As  long  as  the demand is marginally more than the supply, incremental adjustments can be effected in the intake into various programmes.  However, if the expansion of tertiary education results in a situation where the supply of tertiary educated job-seekers far outstrips the absorption capacity of the economy ('the supplydemand lag'), it can lead to 'education inflation' or 'degree devaluation'.  That is, candidates appointed to jobs will tend to have more educational qualification than the job requires, leading to lower job-satisfaction and morale.  Besides being a drain on limited resources, this will adversely affect people's faith in the education system.
+- 5 On the other hand, there needs to be some correlation between the expansion of tertiary education and the capacity of the economy to absorb the graduates from the tertiary education institutions. Currently, the graduates of The Royal University of Bhutan (RUB) are by and large absorbed, so are Bhutanese holding educational credentials from abroad. As of now, Bhutan has been careful about expanding the facilities for tertiary education. As long as the demand is marginally more than the supply, incremental adjustments can be effected in the intake into various programmes. However, if the expansion of tertiary education results in a situation where the supply of tertiary educated job-seekers far outstrips the absorption capacity of the economy ('the supply-demand lag'), it can lead to 'education inflation' or 'degree devaluation'. That is, candidates appointed to jobs will tend to have more educational qualification than the job requires, leading to lower job-satisfaction and morale. Besides being a drain on limited resources, this will adversely affect people's faith in the education system.
 
 - 6 Thus, it is important to plan for expansion of tertiary education with a sound understanding of the labour market.  There are four key components of a labour market:
 
-- employers (government and private, including international),
+- i) employers (government and private, including international),
 
-- ii) employees (possessing  varying  levels  of  educational  credentials  and  skilltraining),
+- ii) employees (possessing varying levels of educational credentials and skill-training),
 
 - iii) jobs (with varying degrees of responsibility and different expectations), and
 
-- iv) contract (a  set  of  formal  and  informal  norms  governing  the  relationship between the employers and the employees).
+- iv) contract (a set of formal and informal norms governing the relationship between the employers and the employees).
 
 - 7 To  avoid  serious  imbalances  in  the  relationship  between  education  and employment, the employers must decide and project the anticipated demand for the type of jobs that the economy would need over time, and the variety and number of credential holders that will be required to perform these jobs. Depending upon the value attached to the different jobs and the educational and training background of employees performing them, the contracts are defined.
 
@@ -1992,11 +2066,11 @@ In response to the information and reports provided by the institutions, the Boa
 
 - 8 The demand for expansion of tertiary education can be met by
 
-- the establishment of new institutions (including branch campuses of foreign universities) with conventional as well as new programmes,
+- a) the establishment of new institutions (including branch campuses of foreign universities) with conventional as well as new programmes,
 
-- introducing new programmes in existing institutions, and
+- b) introducing new programmes in existing institutions, and
 
-- increasing the intake in existing programmes.
+- c) increasing the intake in existing programmes.
 
 #### F2 Categories of needs for tertiary education
 
@@ -2026,17 +2100,17 @@ employment needs.  Beyond that, it is necessary to look at the need for tertiary
 
 An analysis of the circumstances of the tertiary education in relation to the labour market in Bhutan lead to the following conclusions:
 
-- There is scope for expansion of tertiary education to realize the country's specific economic and general developmental needs and for meeting the social demand.
+- a) There is scope for expansion of tertiary education to realize the country's specific economic and general developmental needs and for meeting the social demand.
 
-- The expansion of tertiary education needs to be closely related to specific general  employment  opportunities  and  not  just  to  demographic  demand; otherwise, there is a risk of unemployment among graduates.
+- b) The expansion of tertiary education needs to be closely related to specific general employment opportunities and not just to demographic demand; otherwise, there is a risk of unemployment among graduates.
 
-- Tertiary education also contributes to general capacity development in the country and is related to the economy but not tied to specific jobs. For this, an enterprise culture and a healthy private and public economy are needed.
+- c) Tertiary education also contributes to general capacity development in the country and is related to the economy but not tied to specific jobs. For this, an enterprise culture and a healthy private and public economy are needed.
 
-- Bhutan  needs  a  clear  economic  strategy  and  a  better  analysis  of  future  and prospective tertiary employment needs, both specific and general, for planning the expansion of tertiary education sector.  This should be available to all planners including the proposed Tertiary Education Board and the tertiary institutions.
+- d) Bhutan needs a clear economic strategy and a better analysis of future and prospective tertiary employment needs, both specific and general, for planning the expansion of tertiary education sector. This should be available to all planners including the proposed Tertiary Education Board and the tertiary institutions.
 
-- Vocational  qualifications  at  tertiary  and  technician  levels  need  to  be emphasized to fill a foreseeable skills shortage that will hinder economic development.
+- e) Vocational qualifications at tertiary and technician levels need to be emphasized to fill a foreseeable skills shortage that will hinder economic development.
 
-- Tertiary education needs to address a number of curriculum and pedagogical issues  if  it  is  to  prepare  its  graduates  for  private  employment  and  for  an entrepreneurial role in the economy.
+- f) Tertiary education needs to address a number of curriculum and pedagogical issues if it is to prepare its graduates for private employment and for an entrepreneurial role in the economy.
 
 #### F4 The International Market for Education
 
@@ -2056,7 +2130,7 @@ In  seeking  to  determine  the  need  for  tertiary  education,  the  prospecti
 
 - employers (government and private, including international),
 
-- employees  (possessing  varying  levels  of  educational  credentials  and  skilltraining),
+- employees (possessing varying levels of educational credentials and skill-training),
 
 - jobs (with varying degrees of responsibility and different expectations), and
 
@@ -2090,7 +2164,7 @@ the number of prospective candidates able to enter tertiary education.
 
 #### F7 Employment Potential and Prospects
 
-- 1 T he composition of GDP reflects the key sectors in which the population is currently employed:  agriculture,  construction,  public  administration/security,  transport/ communication, education, retail/wholesale trade, manufacturing, electricity/gas, water, hotel and restaurant.  All other sectors have less than 3,000 people each. Overall, the employment rate has shown a marginal decline from 98.6 per cent in 1998 to 96.8 in 2006, and correspondingly unemployment rate has increased from 1.4 per cent to 3.2 per cent during the same period.  There are more unemployed people in rural areas (4,415) as compared to urban areas (3,450); and, as is usually the pattern, the unemployed in the rural areas are likely to migrate to the urban areas, that is, one can expect the rate of urbanization to steadily increase.
+- 1 The composition of GDP reflects the key sectors in which the population is currently employed: agriculture, construction, public administration/security, transport/communication, education, retail/wholesale trade, manufacturing, electricity/gas, water, hotel and restaurant. All other sectors have less than 3,000 people each. Overall, the employment rate has shown a marginal decline from 98.6 per cent in 1998 to 96.8 in 2006, and correspondingly unemployment rate has increased from 1.4 per cent to 3.2 per cent during the same period. There are more unemployed people in rural areas (4,415) as compared to urban areas (3,450); and, as is usually the pattern, the unemployed in the rural areas are likely to migrate to the urban areas, that is, one can expect the rate of urbanization to steadily increase.
 
 71
 
@@ -2102,7 +2176,7 @@ the number of prospective candidates able to enter tertiary education.
 
 - 3 It is important to note that the Royal Government of Bhutan has been the primary employer.  In 2005-06, the RGoB accounted for about 70 per cent of all jobs provided. An analysis of advertisement for 4,945 jobs (during 2002-2005) showed that 73.2 per cent were from the government (public) sector, 13.4 per cent were from corporations, and only 12.5 per cent were from the private sector.  Less than 1 per cent of the overall job advertisements were from the non-governmental organizations.
 
-- 4 It  is  reported  that  the  civil  service  employment  needs  are  expected  to  remain static over the years.  In fact, according the Royal Civil Service Commission (RCSC) estimates, the supply of personnel will exceed the demand (The Royal University of Bhutan 2007).  Nevertheless, graduates continue to seek employment in whitecollar government jobs, a segment that has reached saturation level.
+- 4 It is reported that the civil service employment needs are expected to remain static over the years. In fact, according the Royal Civil Service Commission (RCSC) estimates, the supply of personnel will exceed the demand (The Royal University of Bhutan 2007). Nevertheless, graduates continue to seek employment in white-collar government jobs, a segment that has reached saturation level.
 
 - 5 While counseling graduates and college students in this regard is important, this alone  will  not  suffice.    With  every  passing  year,  the  number  of  graduates  will increase.  There is need for thinking on new programmes and also reorientation of current programme offerings.  There will be significant shortages in a number of  high  skilled  specialist  areas,  most  notably  in  education,  administration  and management, audio-visual and publications, library services and documentation, and sports and recreation.  It is in these areas that efforts in tertiary education need to be focused.
 
@@ -2124,9 +2198,7 @@ hospitality industry is another sector that planning should focus on.  Coming to
 
 #### F8 Tertiary Education and Human Resource Development Needs
 
-- The Bhutan National Human Resource Development (BNHRD 2007) Report sets out estimates for the employment of different types of graduates, but it cautions that these estimates 'largely reflect potential of possible micro interventions visualized  at  this  juncture.    They  should  not  be  taken  as  requirements.'    It also identifies the numbers of likely graduates and from that determines the expected excess in supply, which it puts in the hundreds especially warning of an excess in numbers of graduates in science and humanities and engineering. The value of the report is very limited, it is open to severe criticism in the data it presents, in the omission of some categories, e.g., education graduates, in the information known from other sources (e.g., university planned graduate numbers), in its classification and categorization of data, in weak analysis of the private sector, in not distinguishing post-gradate diploma from sub-degree diplomas, and in its overall approach which seeks to link graduate to specific posts.  However, the overall warning that there could be an excess of graduates
-
-- 1 is important to bear in mind.
+- 1 The Bhutan National Human Resource Development (BNHRD 2007) Report sets out estimates for the employment of different types of graduates, but it cautions that these estimates 'largely reflect potential of possible micro interventions visualized at this juncture. They should not be taken as requirements.' It also identifies the numbers of likely graduates and from that determines the expected excess in supply, which it puts in the hundreds especially warning of an excess in numbers of graduates in science and humanities and engineering. The value of the report is very limited, it is open to severe criticism in the data it presents, in the omission of some categories, e.g., education graduates, in the information known from other sources (e.g., university planned graduate numbers), in its classification and categorization of data, in weak analysis of the private sector, in not distinguishing post-gradate diploma from sub-degree diplomas, and in its overall approach which seeks to link graduate to specific posts. However, the overall warning that there could be an excess of graduates is important to bear in mind.
 
 - 2 The RUB projections are for an increase in enrolment from 1,488 in 2007 to 2,477 in 2012; a total increase of 66 per cent.  The Government is not committed to fund
 
@@ -2140,21 +2212,13 @@ or to support that level of expansion and there is no clear planning basis for t
 
 Class XII, there will clearly be social demand for such an expansion.
 
-- he  number  of  students  studying  outside  Bhutan  is  high  with  about  1,400 enrolling  each  year  on  degree  programmes.    There  are  many  reasons  why parents send their wards abroad for higher studies.  One is the limitation of provision in Bhutan.  If comparable facilities were to be made available within the country, at least some of the students who would otherwise go abroad will be enrolled here.  However, given that Bhutan is not likely to offer all possible programmes, some families, particularly from the elite sections of society will certainly continue to do so.  Those educated abroad returning to Bhutan will add to the labour force.  This needs to be factored in while projecting the demand
+- 3 The number of students studying outside Bhutan is high with about 1,400 enrolling each year on degree programmes. There are many reasons why parents send their wards abroad for higher studies. One is the limitation of provision in Bhutan. If comparable facilities were to be made available within the country, at least some of the students who would otherwise go abroad will be enrolled here. However, given that Bhutan is not likely to offer all possible programmes, some families, particularly from the elite sections of society will certainly continue to do so. Those educated abroad returning to Bhutan will add to the labour force. This needs to be factored in while projecting the demand for tertiary education.
 
-- 3 T for tertiary education.
+- 4 In brief, there are strong indications that the expansion of the tertiary education sector needs to be carefully managed in line with the growth of the economy and the demand for qualified people available. There is also a need for the education of the students to be oriented towards employability, as required by employers. This requires greater interaction between the employers and tertiary education providers. This can be facilitated by making the employers or their representative members of the proposed Tertiary Education Board or having strong representation on the governing bodies of the universities, or both.
 
-- In brief, there are strong indications that the expansion of the tertiary education sector needs to be carefully managed in line with the growth of the economy and the demand for qualified people available.  There is also a need for the education  of  the  students  to  be  oriented  towards  employability,  as  required by  employers.    This  requires  greater  interaction  between  the  employers  and tertiary education providers.  This can be facilitated by making the employers or their representative members of the proposed Tertiary Education Board or having  strong  representation  on  the  governing  bodies  of  the  universities,  or
+- 5 The first-degree content cannot be too closely correlated with the job-related opportunities. It can even be argued that a good general tertiary education, which promotes self-confidence, maturity, inventiveness, and entrepreneurship, can be a source of business start-ups. For this to happen, the curriculum and especially the pedagogy must specifically address these aspects; and the economy must have the opportunities and the maturity to facilitate such private enterprise. To achieve this, concerted and determined action on the part of all stakeholders is needed.
 
-- 4 both.
-
-- The  first-degree  content  cannot  be  too  closely  correlated  with  the  job-related opportunities.    It  can  even  be  argued  that  a  good  general  tertiary  education, which promotes self-confidence, maturity, inventiveness, and entrepreneurship, can be a source of business start-ups.  For this to happen, the curriculum and especially the pedagogy must specifically address these aspects; and the economy must have the opportunities and the maturity to facilitate such private enterprise. To achieve this, concerted and determined action on the part of all stakeholders is
-
-- 5 needed.
-
-- Similarly, Bhutanese graduates may find employment abroad and remit expatriate salaries  to  Bhutan,  especially  in  such  niche  areas  of  information  technology, computer  applications,  nursing,  and  in  some  specialized  areas  of  engineering. However,  it  is  clear  that  the  employability  of  Bhutanese  graduates  in  the international labour market depends on the quality of the education they receive
-
-- 6 in Bhutan.
+- 6 Similarly, Bhutanese graduates may find employment abroad and remit expatriate salaries to Bhutan, especially in such niche areas of information technology, computer applications, nursing, and in some specialized areas of engineering. However, it is clear that the employability of Bhutanese graduates in the international labour market depends on the quality of the education they receive in Bhutan.
 
 74
 
@@ -2184,23 +2248,23 @@ The  following  are  some  of  the  desirable  characteristics  of  current  and
 
 [[START OF PAGE 82]]
 
-- Learner-centered: They should focus on the needs of students, to ensure that they acquire and develop knowledge and skills relevant to the individual, to employers, to the labour market and to society.
+- a) Learner-centered: They should focus on the needs of students, to ensure that they acquire and develop knowledge and skills relevant to the individual, to employers, to the labour market and to society.
 
-- High quality: They must deliver high quality teaching and promote excellence in research, justifying public and private investment and social support.
+- b) High quality: They must deliver high quality teaching and promote excellence in research, justifying public and private investment and social support.
 
-- Equitable: They must challenge individuals to fulfill their potential, regardless of their personal circumstances and backgrounds.
+- c) Equitable: They must challenge individuals to fulfill their potential, regardless of their personal circumstances and backgrounds.
 
-- Responsive: They need to be responsive to the diverse needs of students and other stakeholders including staff, employers, commerce and industry.  They need to meet the expectations of society and of government and the changing needs of the economy.
+- d) Responsive: They need to be responsive to the diverse needs of students and other stakeholders including staff, employers, commerce and industry. They need to meet the expectations of society and of government and the changing needs of the economy.
 
-- Diverse  and  adaptable:  They  must  offer  programmes  to  cover  a  diversity  of subject  areas,  but  not  all  possible  subject  areas.    They  must  cover  diploma, undergraduate, postgraduate taught and research levels. The programmes need to cater for school leavers, mature learners, persons studying for careers, persons seeking to develop their intellectual and personal interests; for students who wish to undertake full time study, part time study and for students who cannot attend face-to-face classes.  Programmes need to be responsive to different learning needs through innovative admissions procedures, through entry and exit points, through modes of learning, delivery methods, assessment, and availability of learning resources.  Each programme must provide opportunity for vocational preparation, academic challenge, and personal development.
+- e) Diverse and adaptable: They must offer programmes to cover a diversity of subject areas, but not all possible subject areas. They must cover diploma, undergraduate, postgraduate taught and research levels. The programmes need to cater for school leavers, mature learners, persons studying for careers, persons seeking to develop their intellectual and personal interests; for students who wish to undertake full time study, part time study and for students who cannot attend face-to-face classes. Programmes need to be responsive to different learning needs through innovative admissions procedures, through entry and exit points, through modes of learning, delivery methods, assessment, and availability of learning resources. Each programme must provide opportunity for vocational preparation, academic challenge, and personal development.
 
-- Innovative: They need to generate new ideas, solve problems, improve products or processes and guide students to new and changing environments.  The need to be innovative relates not only to improvements in teaching and learning but also to the direction and rationalization of research, and engagement with industry, research institutions and other education providers.
+- f) Innovative: They need to generate new ideas, solve problems, improve products or processes and guide students to new and changing environments. The need to be innovative relates not only to improvements in teaching and learning but also to the direction and rationalization of research, and engagement with industry, research institutions and other education providers.
 
-- Adaptable: They must be adaptable to changing national needs and student demands, with the capacity to accommodate unforeseen changes, and with the organizational flexibility to deploy resources and adjust staffing to meet opportunities as they arise.
+- g) Adaptable: They must be adaptable to changing national needs and student demands, with the capacity to accommodate unforeseen changes, and with the organizational flexibility to deploy resources and adjust staffing to meet opportunities as they arise.
 
-- Value addition: They should add value to and enrich the society, the culture, and the economy of which they are a part.  They should seek to harness the country's intellectual property.
+- h) Value addition: They should add value to and enrich the society, the culture, and the economy of which they are a part. They should seek to harness the country's intellectual property.
 
-- Cost-effective and publicly accountable: They need to show that they make good use of resources and manpower.  They need to be accountable for the financial resources provided to them.  Their policies and actions need to be transparent and open to public scrutiny.
+- i) Cost-effective and publicly accountable: They need to show that they make good use of resources and manpower. They need to be accountable for the financial resources provided to them. Their policies and actions need to be transparent and open to public scrutiny.
 
 76
 
@@ -2208,9 +2272,9 @@ The  following  are  some  of  the  desirable  characteristics  of  current  and
 
 [[START OF PAGE 83]]
 
-- Socially responsible: They must fulfill broad public responsibility.  They must act ethically, be just, be environmentally responsible, and act as model public institutions.
+- j) Socially responsible: They must fulfill broad public responsibility. They must act ethically, be just, be environmentally responsible, and act as model public institutions.
 
-- Economically viable.
+- k) Economically viable.
 
 ### H Institutions of Tertiary Education
 
@@ -2226,11 +2290,11 @@ The  following  are  some  of  the  desirable  characteristics  of  current  and
 
 - 3 The more specific objectives of the university shall be
 
-- to develop and provide programmes of study at tertiary education level, of relevance and good quality which will fulfill the needs of the country for an educated and skilled population,
+- a) to develop and provide programmes of study at tertiary education level, of relevance and good quality which will fulfill the needs of the country for an educated and skilled population,
 
-- to promote and conduct research, to contribute to the creation of knowledge in  an  international  context  and  to  promote  the  transfer  of  knowledge  of relevance to Bhutan, and
+- b) to promote and conduct research, to contribute to the creation of knowledge in an international context and to promote the transfer of knowledge of relevance to Bhutan, and
 
-- to provide a public service to the people of Bhutan.
+- c) to provide a public service to the people of Bhutan.
 
 ##### Governance
 
@@ -2244,43 +2308,41 @@ The  following  are  some  of  the  desirable  characteristics  of  current  and
 
 [[START OF PAGE 84]]
 
-6
+- a) Define and monitor strategic direction,
 
-- Define and monitor strategic direction,
+- b) Define policy and procedures to operate within the legal, social and government requirements,
 
-- Define policy and procedures to operate within the legal, social and government requirements,
+- c) Establish control and accountability systems,
 
-- Establish control and accountability systems,
+- d) Review and monitor management, and the performance of the organization
 
-- Review and monitor management, and the performance of the organization
-
-- Manage risk.
+- e) Manage risk.
 
 ##### Powers of a university
 
-A university shall have powers to
+- 6 A university shall have powers to
 
-- Offer programmes,
+- a) Offer programmes,
 
-- Grant tertiary awards, provided that all programmes that lead to these awards fulfill the university's own quality assurance requirements, whether or not these programmes are offered at the university,
+- b) Grant tertiary awards, provided that all programmes that lead to these awards fulfill the university's own quality assurance requirements, whether or not these programmes are offered at the university,
 
-- Grant awards for research programmes at tertiary level, and on an honorary basis,
+- c) Grant awards for research programmes at tertiary level, and on an honorary basis,
 
-- Develop  and  implement  curricula  and  research  projects;  and  shall  enjoy freedom  of  teaching  and  research  without  interference from  public authorities,
+- d) Develop and implement curricula and research projects; and shall enjoy freedom of teaching and research without interference from public authorities,
 
-- Choose subjects to be taught,
+- e) Choose subjects to be taught,
 
-- Grant titles to professors and other staff,
+- f) Grant titles to professors and other staff,
 
-- Elect governing and management authorities and fix their terms of office,
+- g) Elect governing and management authorities and fix their terms of office,
 
-- Arrange its structures and activities through its own rules,
+- h) Arrange its structures and activities through its own rules,
 
-- Choose teaching and other staff, set conditions for admission of students and methods of teaching and assessment of students,
+- i) Choose teaching and other staff, set conditions for admission of students and methods of teaching and assessment of students,
 
-- Operate as a corporation; i.e. to govern, manage, and regulate its finances, accounts, investments, property, business, and all its affairs, such that the use of its assets shall be consistent with the purpose of the university, and
+- j) Operate as a corporation; i.e. to govern, manage, and regulate its finances, accounts, investments, property, business, and all its affairs, such that the use of its assets shall be consistent with the purpose of the university, and
 
-- To engage in relevant activities such that any benefits that arise there-from shall be directed to the public purpose of the university and not to private benefit.
+- l) To engage in relevant activities such that any benefits that arise there-from shall be directed to the public purpose of the university and not to private benefit.
 
 - 7 A  university  shall  have  powers  to  offer  research  degrees.    However,  it  is  not expected that a university will use those powers until it has sufficient experience in conducting research and in supervising research students under the aegis of a recognized university.  The following criteria are suggested for a university to use. For any faculty or department to be in a position to recommend a research award it must have at least six staff and at least 25% of staff with research qualifications,
 
@@ -2290,31 +2352,29 @@ A university shall have powers to
 
 [[START OF PAGE 85]]
 
-8
-
-at  least  four  staff  with  experience  in  supervising  research,  and  at  least  four research  students  studying  but  registered  in  other  universities.    Additionally, staff chosen to supervise must have had shared responsibility in supervision of a research student to completion.
+at least four staff with experience in supervising research, and at least four research students studying but registered in other universities. Additionally, staff chosen to supervise must have had shared responsibility in supervision of a research student to completion.
 
 ##### Establishing a university
 
-The criteria for the establishment of a university in Bhutan shall be that it has:
+- 8 The criteria for the establishment of a university in Bhutan shall be that it has:
 
-- A  range  of  programmes  in  at  least  three  major  faculties,  offered  through various modes of study, and catering for a range of student groups including school  leavers  and  adult  learners,  with  a  proportion  of  its  programmes at  diploma  level,  i.e.  it  is  a  generalist  tertiary  institution  and  not  just  a specialist or higher education institution.  Individual faculties or colleges may be specialist.
+- a) A range of programmes in at least three major faculties, offered through various modes of study, and catering for a range of student groups including school leavers and adult learners, with a proportion of its programmes at diploma level, i.e. it is a generalist tertiary institution and not just a specialist or higher education institution. Individual faculties or colleges may be specialist.
 
-- Over  300  academic  staff  in  at  least  three  faculties,  at  least  80%  with postgraduate qualifications, in order to provide the breadth of expertise and context with which to operate its own system.
+- b) Over 300 academic staff in at least three faculties, at least 80% with postgraduate qualifications, in order to provide the breadth of expertise and context with which to operate its own system.
 
-- An effective quality assurance system, operated under supervision for three years, with minimum failures.
+- c) An effective quality assurance system, operated under supervision for three years, with minimum failures.
 
-- Had  a  successful  institutional  review  undertaken  which  is  led  by  Bhutan Accreditation Council (BAC) .
+- d) Had a successful institutional review undertaken which is led by Bhutan Accreditation Council (BAC) .
 
-- Research as a significant part of its role.
+- e) Research as a significant part of its role.
 
-- A policy that ensures equality of opportunity such that admission to any office or  appointment  in  the  university  and  the  admission  of  students  to  the university shall be on merit and irrespective of religion, origin, sex, sexual orientation, or race.
+- f) A policy that ensures equality of opportunity such that admission to any office or appointment in the university and the admission of students to the university shall be on merit and irrespective of religion, origin, sex, sexual orientation, or race.
 
 - 9 Any  proposal  for  the  establishment  of  a  university  shall  be  made  to  the Government through the Ministry of Education. A university shall be established by an Act of Parliament.
 
 #### H2 Colleges
 
-- 1 Colleges  can  be  more  diverse  in  nature  than  universities;  they  may  be  statefunded,  or  be  run  by  companies  for  profit  or  not-for-profit.    They  may  be generalist,  or  specialist.    They  may  be  designed  for  training  for  public  service employment.  They may be small or large.  They may offer programmes designed by themselves or franchised from another university.
+- 1 Colleges can be more diverse in nature than universities; they may be state-funded, or be run by companies for profit or not-for-profit. They may be generalist, or specialist. They may be designed for training for public service employment. They may be small or large. They may offer programmes designed by themselves or franchised from another university.
 
 79
 
@@ -2324,15 +2384,15 @@ The criteria for the establishment of a university in Bhutan shall be that it ha
 
 - 2 A college may be registered and licensed to offer tertiary education programmes in Bhutan provided that
 
-- it is a locally based college or it is a college based outside Bhutan but with a presence in Bhutan, and
+- a) it is a locally based college or it is a college based outside Bhutan but with a presence in Bhutan, and
 
-- The said college shows evidence that it is financially viable, that its owners and managers are persons of good repute, that there is an effective management system, that the conditions of service for staff including arrangements for dealing with complaints are in place, that suitable arrangements are made for students and that their rights are clearly set out, and
+- b) The said college shows evidence that it is financially viable, that its owners and managers are persons of good repute, that there is an effective management system, that the conditions of service for staff including arrangements for dealing with complaints are in place, that suitable arrangements are made for students and that their rights are clearly set out, and
 
-- Its primary purpose is to provide education or to conduct research, and
+- c) Its primary purpose is to provide education or to conduct research, and
 
-- Each programme listed in its license leads to an award from a university in Bhutan or to an award of a foreign university that is accepted for that purpose by the Registrar for Tertiary Education.  It will then be the responsibility of the university to satisfy itself on issues related to the quality of provision of each programme approved including, but not limited to, staffing, academic facilities, programmes, arrangement for tuition, and assessment etc, and
+- d) Each programme listed in its license leads to an award from a university in Bhutan or to an award of a foreign university that is accepted for that purpose by the Registrar for Tertiary Education. It will then be the responsibility of the university to satisfy itself on issues related to the quality of provision of each programme approved including, but not limited to, staffing, academic facilities, programmes, arrangement for tuition, and assessment etc, and
 
-- An application setting out the necessary information is submitted to the Registrar for Tertiary Education.
+- e) An application setting out the necessary information is submitted to the Registrar for Tertiary Education.
 
 - 3 A standard condition of all licenses, which shall be issued by the Registrar for Tertiary Education, is that no student may be admitted to the programmes listed on  the  license  until  the  programmes  have  successfully  fulfilled  the  university quality assurance requirements.
 
@@ -2366,7 +2426,7 @@ The criteria for the establishment of a university in Bhutan shall be that it ha
 
 Although the regulations set out above are formulated in terms of colleges and universities based in or outside Bhutan, they are applicable to a wide range of collaborative arrangements between foreign and local institutions.  Acceptable collaborative arrangements include:
 
-- Franchise: a foreign university authorizes a college in Bhutan to deliver their programme, and it leads to an award from the foreign university.
+- a) Franchise: a foreign university authorizes a college in Bhutan to deliver their programme, and it leads to an award from the foreign university.
 
 81
 
@@ -2374,25 +2434,25 @@ Although the regulations set out above are formulated in terms of colleges and u
 
 [[START OF PAGE 88]]
 
-- Validation: a foreign university approves a course developed and offered by a college in Bhutan, and it leads to an award from the foreign university
+- b) Validation: a foreign university approves a course developed and offered by a college in Bhutan, and it leads to an award from the foreign university
 
-- Articulation: a  foreign  university  (A)  collaborates  with  a  Bhutanese college to develop an articulation system that allows local students to take credits towards an award in A.
+- c) Articulation: a foreign university (A) collaborates with a Bhutanese college to develop an articulation system that allows local students to take credits towards an award in A.
 
-- Joint  Awards: institutions  in  two  or  more  countries  collaborate  to  offer  a programme for which the student gains a qualification from each institution or a joint award from them both.
+- d) Joint Awards: institutions in two or more countries collaborate to offer a programme for which the student gains a qualification from each institution or a joint award from them both.
 
-- Study  Centre: a  foreign  university  establishes  a  study  centre  in  Bhutan, possibly in collaboration with a local Univesity to support students following foreign courses.
+- e) Study Centre: a foreign university establishes a study centre in Bhutan, possibly in collaboration with a local Univesity to support students following foreign courses.
 
 #### H5     Funding
 
 - 1 The powers of a university and of an independent college allow it to receive funding from various sources including:
 
-- The TEB  for teaching and research functions
+- a) The TEB for teaching and research functions
 
-- Fees: parents and students who contribute through paying for the cost of programmes.
+- b) Fees: parents and students who contribute through paying for the cost of programmes.
 
-- Industry and commerce through payments for consultancy, for research, and for courses designed to meet their needs.
+- c) Industry and commerce through payments for consultancy, for research, and for courses designed to meet their needs.
 
-- Other sources including e.g. gifts, philanthropic endowments, interest, and income from intellectual property.
+- d) Other sources including e.g. gifts, philanthropic endowments, interest, and income from intellectual property.
 
 ##### Commercial undertakings
 
@@ -2404,9 +2464,9 @@ The Registrar for Tertiary Education shall be the Secretary for Education.    Th
 
 - 1 To determine which universities from abroad may
 
-- be  approached  by  local  colleges  (and  universities)  for  the  accreditation  of their programmes, and the granting of awards to successful graduates
+- a) be approached by local colleges (and universities) for the accreditation of their programmes, and the granting of awards to successful graduates
 
-- advertise their programmes locally;  the criteria shall normally be that the
+- b) advertise their programmes locally; the criteria shall normally be that the
 
 82
 
@@ -2418,13 +2478,13 @@ foreign university is fully accredited (or is at a high level of accreditation i
 
 - 2 To administer the registration and licensing of colleges; this includes the need
 
-- to consider and determine the appropriateness of any university or university equivalent body from abroad, to grant awards for programmes offered by colleges in Bhutan,
+- a) to consider and determine the appropriateness of any university or university equivalent body from abroad, to grant awards for programmes offered by colleges in Bhutan,
 
-- to  set  out  the  procedures  and  fees  for  applications,  and  to  establish  a mechanism for appeal against decisions,
+- b) to set out the procedures and fees for applications, and to establish a mechanism for appeal against decisions,
 
-- to make changes in the conditions of the license approved,
+- c) to make changes in the conditions of the license approved,
 
-- to receive an annual report from each college thus registered and to take such action as may be necessary.
+- d) to receive an annual report from each college thus registered and to take such action as may be necessary.
 
 - 3 To provide an annual report setting out the applications submitted, the decisions made  and  the  grounds  for  the  decisions.    The  full  documentation  may  be examined by interested parties.
 
@@ -2458,31 +2518,31 @@ Most universities will have powers and responsibilities along the following line
 
 They are expected to be:
 
-- responsible for the effective use of the university resources,
+- a) responsible for the effective use of the university resources,
 
-- accountable for the university's use of resources,
+- b) accountable for the university's use of resources,
 
-- invest monies,
+- c) invest monies,
 
-- advise government on the sale and purchase of property,
+- d) advise government on the sale and purchase of property,
 
-- provide the buildings and infrastructure for the university,
+- e) provide the buildings and infrastructure for the university,
 
-- accept grants, gifts and legacies,
+- f) accept grants, gifts and legacies,
 
-- determine the fees for students and the fees of examiners and visiting staff.
+- g) determine the fees for students and the fees of examiners and visiting staff.
 
 ##### 2 Structures
 
-- To determine the organizational structure of the university and to institute, amend or discontinue faculties/departments, colleges, committees, etc.
+- h) To determine the organizational structure of the university and to institute, amend or discontinue faculties/departments, colleges, committees, etc.
 
 ##### 3 Staff
 
-- to establish grades of academic posts,
+- i) to establish grades of academic posts,
 
-- to approve procedures for the appointment of staff,
+- j) to approve procedures for the appointment of staff,
 
-- to determine the conditions of service, to create schemes of insurance and pensions.
+- k) to determine the conditions of service, to create schemes of insurance and pensions.
 
 #### J3       The Nature of Autonomy and Accountability
 
@@ -2496,17 +2556,17 @@ They are expected to be:
 
 - 2 The arguments against delegation of powers are:
 
-- the decision involves more than one subordinate group, therefore, it cannot be delegated to one of them,
+- a) the decision involves more than one subordinate group, therefore, it cannot be delegated to one of them,
 
-- the  people  down  there  are  incompetent,  or  corrupt  and  cannot  be  trusted whereas I am competent and can always be trusted,
+- b) the people down there are incompetent, or corrupt and cannot be trusted whereas I am competent and can always be trusted,
 
-- these decisions involve policy and can only be made here, or there is no policy so only someone at this level can make this qualitative decision.
+- c) these decisions involve policy and can only be made here, or there is no policy so only someone at this level can make this qualitative decision.
 
 - 3 All these points are valid and show the way to ensuring that such activities as are delegated are controlled:
 
-- decisions should be passed down as far as possible, as close to the action as is  consistent with strategic plans, with consistent decision making; the principle is known as subsidiarity;
+- a) decisions should be passed down as far as possible, as close to the action as is consistent with strategic plans, with consistent decision making; the principle is known as subsidiarity;
 
-- there  need  to  be  clear  policy  guidelines  in  place,  setting  out  the  aims  of that  particular  decision-making  process,  the  limits  to  action,  the  person responsible, and the line of accountability for those actions.
+- b) there need to be clear policy guidelines in place, setting out the aims of that particular decision-making process, the limits to action, the person responsible, and the line of accountability for those actions.
 
 - 4 There are four areas of autonomy that may be considered. The discussion that follows applies particularly to the Royal University of Bhutan, but it has general applicability.
 
@@ -2536,7 +2596,7 @@ They are expected to be:
 
 - 1 An institution of tertiary education needs to be able to enter into contracts, for the employment of staff, to undertake research work, to undertake some consultancy, to offer an academic programme on a full cost commercial basis, etc.
 
-- 2 Delegation of responsibility for finance should at this stage be limited to recurrent expenditure.  It is proposed that capital and land should be dealt with on an itemby-item basis  although  the  intended  expansion  for  the  university  should  allow good advance planning for such items.
+- 2 Delegation of responsibility for finance should at this stage be limited to recurrent expenditure. It is proposed that capital and land should be dealt with on an item-by-item basis although the intended expansion for the university should allow good advance planning for such items.
 
 - 3 Delegating financial control means devolving power.  Power and decision-making should be devolved as far as possible but the person to whom power is devolved needs to be competent.
 
@@ -2562,19 +2622,19 @@ They are expected to be:
 
 The Royal Government is responsible to ensure that mechanisms exist
 
-- to set a minimum standard below which no programme in Bhutan will be offered,
+- b) to set a minimum standard below which no programme in Bhutan will be offered,
 
-- to encourage improvement in standards, and
+- c) to encourage improvement in standards, and
 
-- to inform the public of the level and standard of each award and programme available, (and this requires the establishment of a common set of academic definitions and qualifications).
+- d) to inform the public of the level and standard of each award and programme available, (and this requires the establishment of a common set of academic definitions and qualifications).
 
 #### K2 Quality Assurance System
 
 - 1 The quality assurance of academic programmes has become a well-established practice in virtually all countries of the developed world, and there are significant moves to adopt good practice in developing countries.  The impetus lies in the need for universities to justify their work to their students as customers and to the government and public who fund tertiary education.  The approach adopted by the Royal University of Bhutan, a process-based approach which requires full proposals and self evaluations open to critical examination and challenge, is the methodology now most widely used at degree level in countries with systematic provision for quality assurance.
 
-- 2 The Quality Assurance system or systems in place in the university or universities need to have a definite philosophy underpinning its structure  These should include:-
+- 2 The Quality Assurance system or systems in place in the university or universities need to have a definite philosophy underpinning its structure These should include:-
 
-- A  critical  evaluation  of  a  programme  by  those  staff  involved  in  the programme's operation, and a meeting by a group of peers with the staff, students and other relevant persons based on the defined programme and the critical self appraisal,
+- a) A critical evaluation of a programme by those staff involved in the programme's operation, and a meeting by a group of peers with the staff, students and other relevant persons based on the defined programme and the critical self appraisal,
 
 87
 
@@ -2582,13 +2642,13 @@ The Royal Government is responsible to ensure that mechanisms exist
 
 [[START OF PAGE 94]]
 
-- an action-oriented report, with responsibility points and a post-audit follow-up,
+- b) an action-oriented report, with responsibility points and a post-audit follow-up,
 
-- international bench-marking,
+- c) international bench-marking,
 
-- relationship to the institution strategic plan, and
+- d) relationship to the institution strategic plan, and
 
-- staff development and the development of a culture of quality.
+- e) staff development and the development of a culture of quality.
 
 - 3 To ensure that quality consciousness is put in place, both as an idea and in practice, a mechanism needs to be put in place to inculcate the essentials of quality at the faculty/ college and department level and to monitor adherence to the quality norms.
 
@@ -2616,11 +2676,11 @@ The Royal Government is responsible to ensure that mechanisms exist
 
 - 2 Alternatively, a college or a new university may seek accreditation through the BAC.
 
-- 3 The time will come when one or other college is at the stage where it can be established as a university in its own right and will grant its own awards.  There are two options.
+- 3 The time will come when one or other college is at the stage where it can be established as a university in its own right and will grant its own awards. There are two options.
 
-- First, the two universities can participate in running a joint quality assurance system, with the benefits set out above.  In this, the reports of a 'validation' event would go to the Academic Board of the respective university, which would then make decisions on its own programme.  The periodic external evaluation of the university would address the issue of the effectiveness of the process for that university.
+- a) First, the two universities can participate in running a joint quality assurance system, with the benefits set out above. In this, the reports of a 'validation' event would go to the Academic Board of the respective university, which would then make decisions on its own programme. The periodic external evaluation of the university would address the issue of the effectiveness of the process for that university.
 
-- Second, if it is not possible to operate a joint system, the universities could operate  independent  systems.    The  Ministry  of  Education  would  then  be obliged to keep those two processes under review, so that any information made public on the outcomes of the two systems could be compared.
+- b) Second, if it is not possible to operate a joint system, the universities could operate independent systems. The Ministry of Education would then be obliged to keep those two processes under review, so that any information made public on the outcomes of the two systems could be compared.
 
 #### K4 Overseas Qualifications
 
@@ -2644,11 +2704,11 @@ The people of Bhutan should have some assurance regarding the quality of the deg
 
 - 2 BQF will, therefore, form a common framework across all colleges and universities in Bhutan (other than Branch campuses of foreign universities whose programmes are validated by a reputed university abroad). There shall be
 
-- Bhutan Qualifications Framework, (shown in Annexure D),
+- a) Bhutan Qualifications Framework, (shown in Annexure D),
 
-- academic definitions, including definition of module, credit  and level,  and
+- b) academic definitions, including definition of module, credit and level, and
 
-- a common assessment approach (e.g. how are modules graded, what is the level and what is meant by a pass mark or grade).
+- c) a common assessment approach (e.g. how are modules graded, what is the level and what is meant by a pass mark or grade).
 
 ### L  Cooperation in Development of a Common Infrastructure
 
@@ -2668,13 +2728,13 @@ The people of Bhutan should have some assurance regarding the quality of the deg
 
 - 1 On-line learning is the basis of distance learning systems and is increasingly used to supplement and support face-to-face learning systems.  For it to be effective, it needs to use a virtual learning environment as a platform.  There are various learning platforms, which are not mutually compatible.
 
-- 2 The tertiary education system needs to take advantage of the benefits of a virtual learning environment. It can transform the nature of the educational process. It can also provide a basis for a developed distance learning environment.  The establishment  of  a  common  system  across  the  country's  tertiary  education system would allow
+- 2 The tertiary education system needs to take advantage of the benefits of a virtual learning environment. It can transform the nature of the educational process. It can also provide a basis for a developed distance learning environment. The establishment of a common system across the country's tertiary education system would allow
 
-- a common programme of training and software support,
+- a) a common programme of training and software support,
 
-- the build-up of expertise in one system in Bhutan,
+- b) the build-up of expertise in one system in Bhutan,
 
-- material developed on one system to be used elsewhere.
+- c) material developed on one system to be used elsewhere.
 
 - 3 The expectations of graduates (see Annexure A) emphasize student involvement and self-learning.  These attributes depend on the nature of teaching as much as on the content and syllabus.  By its geographical nature, Bhutan needs education provision that can be transmitted across distances.
 
@@ -2688,19 +2748,19 @@ The people of Bhutan should have some assurance regarding the quality of the deg
 
 - 5 There are benefits in the introduction of on-line or 'virtual' learning; it can
 
-- transform teaching & learning practices and promote self-learning practice amongst students
+- a) transform teaching & learning practices and promote self-learning practice amongst students
 
-- develop Information literacy skills in students
+- b) develop Information literacy skills in students
 
-- upgrade IT and information literacy amongst teaching staff
+- c) upgrade IT and information literacy amongst teaching staff
 
-- allow flexibility of time and place in the provision of learning
+- d) allow flexibility of time and place in the provision of learning
 
-- allow application to increased student numbers.
+- e) allow application to increased student numbers.
 
-- allow the sharing of resources.
+- f) allow the sharing of resources.
 
-- 6 The use of Virtual Learning Environments does not necessarily imply use of the World Wide Web [www].  It is possible for all the material needed by students to be supplied from the tutor and placed on a server in Bhutan for use by students following that particular programme.  It is also possible for the particular online programme to direct the student to specific resources that are on a Bhutan Intranet.
+- 6 The use of Virtual Learning Environments does not necessarily imply use of the World Wide Web [www]. It is possible for all the material needed by students to be supplied from the tutor and placed on a server in Bhutan for use by students following that particular programme. It is also possible for the particular on-line programme to direct the student to specific resources that are on a Bhutan Intranet.
 
 - 7 One of the major blocks to adoption of this style of teaching and learning is the extra time burden of preparation it places on tutors over the more traditional content-centered  approach.    However,  the  use  of  a  VLE  allows  the  use  of  a resource-based approach whilst relieving the tutor from an extra administrative burden.  The change required of teachers in adopting this approach is substantial and a programme of staff development will be required not just to come to terms with the new technology but to re-appraise teaching methods so as to take full advantage of the technology.
 
@@ -2720,25 +2780,23 @@ The people of Bhutan should have some assurance regarding the quality of the deg
 
 - 4 A report in 2005 (Reid & Cano 2005) on library provision in tertiary education found that libraries suffered from the following problems:
 
-- limited awareness by senior management of the importance of the library as a crucial contributor to the fulfillment of educational aims and objectives,
+- a) limited awareness by senior management of the importance of the library as a crucial contributor to the fulfillment of educational aims and objectives,
 
-- Limited awareness of the functions that working libraries perform and as a result lack of an ICT infrastructure and physical facilities to support the delivery of library services,
+- b) Limited awareness of the functions that working libraries perform and as a result lack of an ICT infrastructure and physical facilities to support the delivery of library services,
 
-- Limited financial resources with which to develop the library to support teaching and research,
+- c) Limited financial resources with which to develop the library to support teaching and research,
 
-- Limited human resources with which to develop adequate library services,
+- d) Limited human resources with which to develop adequate library services,
 
-- A perception of the library as a 'storage facility' where books are 'safe' as opposed to a dynamic centre for the dissemination of information.
+- e) A perception of the library as a 'storage facility' where books are 'safe' as opposed to a dynamic centre for the dissemination of information.
 
 ##### Library Standards
 
-It  is  appropriate that the libraries of Institutions of tertiary education should provide services to all students and staff to specific standards, such as:-
+- 5 It is appropriate that the libraries of Institutions of tertiary education should provide services to all students and staff to specific standards, such as:-
 
-- There must be provision for borrowing books: Tertiary education should expect students to have their own copies of the main text-books and for the library to provide a wide range of supplementary texts and journals. The main purpose of the university library is not to hold stocks of the main text-books.
+- a) There must be provision for borrowing books: Tertiary education should expect students to have their own copies of the main text-books and for the library to provide a wide range of supplementary texts and journals. The main purpose of the university library is not to hold stocks of the main text-books.
 
-- An  on-line Catalogue is  needed:  An  Open  Access  Catalogue  (OPAC)  of books should be available to all staff and students in an on-line format.  A catalogue is a listing  following  internationally agreed formats of bibliographic
-
-5
+- b) An on-line Catalogue is needed: An Open Access Catalogue (OPAC) of books should be available to all staff and students in an on-line format. A catalogue is a listing following internationally agreed formats of bibliographic
 
 93
 
@@ -2746,17 +2804,17 @@ It  is  appropriate that the libraries of Institutions of tertiary education sho
 
 [[START OF PAGE 100]]
 
-description for all the books available in the library.  It describes the books in a way that facilitates their retrieval by author, book title, subject entry and/or  classification  entry.    This  provision  is  not  universally  available throughout T E Libraries.  This means that staff and students are left to wander along the stacks of books to find a book they need.  Additionally, not all cataloguing is accurate.
+description for all the books available in the library. It describes the books in a way that facilitates their retrieval by author, book title, subject entry and/or classification entry. This provision is not universally available throughout T E Libraries. This means that staff and students are left to wander along the stacks of books to find a book they need. Additionally, not all cataloguing is accurate.
 
-- There should be access to journals relevant  to  the  programmes  taught: Access to electronic journals, should be provided on a country-wide basis, and made available to staff and to students.  Librarians should keep up-todate bibliographies of electronic journals in their relevant subjects.
+- c) There should be access to journals relevant to the programmes taught: Access to electronic journals, should be provided on a country-wide basis, and made available to staff and to students. Librarians should keep up-to-date bibliographies of electronic journals in their relevant subjects.
 
-- An  automated circulation and  security  system  is  needed  to  aid  record keeping and to prevent books from being stolen.  Librarians are particularly concerned about this, as they are held personally accountable for any loss from the library.  And they are, therefore, turned into book guardians as opposed to disseminators of information.
+- d) An automated circulation and security system is needed to aid record keeping and to prevent books from being stolen. Librarians are particularly concerned about this, as they are held personally accountable for any loss from the library. And they are, therefore, turned into book guardians as opposed to disseminators of information.
 
-- Networked computer s need to be situated within the library premises, with some access to the internet.  As a guide, there should be one networked PC per 8 enrolled students, beyond that necessary for staff.
+- e) Networked computers need to be situated within the library premises, with some access to the internet. As a guide, there should be one networked PC per 8 enrolled students, beyond that necessary for staff.
 
-- There should be provision for inter-library loan system . Formal arrangements are needed for the national tertiary education libraries to establish formal links with international and regional bodies and informal links with all Bhutan Libraries.
+- f) There should be provision for inter-library loan system. Formal arrangements are needed for the national tertiary education libraries to establish formal links with international and regional bodies and informal links with all Bhutan Libraries.
 
-- There should be provision for the training of library staff at all levels.
+- g) There should be provision for the training of library staff at all levels.
 
 #### L4 ICT Technical Infrastructure
 
@@ -2790,17 +2848,17 @@ Reid,  A  &  Cano,  V.  2005. Information  and  Communications  Technology  at  
 
 - 3 The functions of NCRI shall be to
 
-- set national research policies,
+- a) set national research policies,
 
-- determine national research priorities,
+- b) determine national research priorities,
 
-- co-ordinate research activity,
+- c) co-ordinate research activity,
 
-- encourage, stimulate and support research and to fund research,
+- d) encourage, stimulate and support research and to fund research,
 
-- foster a culture of enquiry, curiosity and investigation among the institutions of tertiary education,
+- e) foster a culture of enquiry, curiosity and investigation among the institutions of tertiary education,
 
-- serve  as  a  Clearing  House  for  the  transmission  and  dissemination  of information  and  research  in  Bhutan,  or  act  as  the  stimulus  for  the establishment for such an information management centre, in cooperation with the National Library.
+- f) serve as a Clearing House for the transmission and dissemination of information and research in Bhutan, or act as the stimulus for the establishment for such an information management centre, in cooperation with the National Library.
 
 95
 
@@ -2808,15 +2866,15 @@ Reid,  A  &  Cano,  V.  2005. Information  and  Communications  Technology  at  
 
 [[START OF PAGE 102]]
 
-- formulate  policies  to  improve  the  public  understanding  of  science  and research.
+- g) formulate policies to improve the public understanding of science and research.
 
-- advise the TEB on the national research priorities and hence the funding of research in the tertiary education sector
+- h) advise the TEB on the national research priorities and hence the funding of research in the tertiary education sector
 
-- devise  mechanisms  whereby  private  institutions  devoting  significant part of their budget to research activities are granted higher rate of tax rebate;
+- i) devise mechanisms whereby private institutions devoting significant part of their budget to research activities are granted higher rate of tax rebate;
 
-- develop an infrastructure for research,
+- j) develop an infrastructure for research,
 
-- set  guidelines  for  universities  to  follow  on  ethics  in  research  as  well  as intellectual property rights.
+- k) set guidelines for universities to follow on ethics in research as well as intellectual property rights.
 
 - 4 The NCRI shall have a strategic, supporting and encouraging role, it will not have regulatory authority over research activities.
 
@@ -2830,7 +2888,7 @@ Reid,  A  &  Cano,  V.  2005. Information  and  Communications  Technology  at  
 
 - 2 The infrastructure of R&I usually comprises the following organizations:
 
-- Organizations and players that develop new knowledge, e.g., universities, industrial laboratories, private companies, government institutions, individual researchers, such as scientists and engineers.
+- a) Organizations and players that develop new knowledge, e.g., universities, industrial laboratories, private companies, government institutions, individual researchers, such as scientists and engineers.
 
 96
 
@@ -2838,17 +2896,17 @@ Reid,  A  &  Cano,  V.  2005. Information  and  Communications  Technology  at  
 
 [[START OF PAGE 103]]
 
-- Organizations  that  transmit  knowledge  through  formal  and  informal means.    Universities  transmit  information  directly  through  teaching, but  information  is  also  transmitted  verbally,  by  consulting  experts, attending  conferences  or  through  the  printed  word,  either  in  paper or  electronically.    Publishing  houses  and  internet  publishing  venues as  well  as  telecommunication  companies  providing  telephony  and internet access all play their part in the transmission of knowledge and information.
+- b) Organizations that transmit knowledge through formal and informal means. Universities transmit information directly through teaching, but information is also transmitted verbally, by consulting experts, attending conferences or through the printed word, either in paper or electronically. Publishing houses and internet publishing venues as well as telecommunication companies providing telephony and internet access all play their part in the transmission of knowledge and information.
 
-- Organizations that embody or transform knowledge into artifacts.  (Private and  publicly  funded  research  laboratories;  incubators  placed  in  tertiary education or in private industry).
+- c) Organizations that embody or transform knowledge into artifacts. (Private and publicly funded research laboratories; incubators placed in tertiary education or in private industry).
 
-- Organizations  that  commercialize  those  artifacts.    (Industry,  entrepreneurship, banks, financial agencies, regulatory bodies that monitor the interplay of all the players within the research and development system).
+- d) Organizations that commercialize those artifacts. (Industry, entrepreneurship, banks, financial agencies, regulatory bodies that monitor the interplay of all the players within the research and development system).
 
-- 3 The interplay and inter-relationship of these four different types of organizations determine  the  health  and  viability  of  an  R&D  infrastructure;  it  is  therefore appropriate to
+- 3 The interplay and inter-relationship of these four different types of organizations determine the health and viability of an R&D infrastructure; it is therefore appropriate to
 
-- measure and asses the level of activity in each of these types of organizations, and
+- a) measure and asses the level of activity in each of these types of organizations, and
 
-- develop  policies  to  help  their  inter-relationship  for  their  own  and  the country's benefit.
+- b) develop policies to help their inter-relationship for their own and the country's benefit.
 
 - 4 Research  in  Bhutan  is  currently  undertaken  by  the  Government  (especially, Ministries  of  Education,  Health  and  Agriculture  and  in  the  planning  divisions of Ministries) by the University, by other organizations such as the Centre for Bhutan Studies, and some by local industry.  However, there are no systematic mechanisms to measure or assess the levels of research activity.
 
@@ -2862,29 +2920,29 @@ Reid,  A  &  Cano,  V.  2005. Information  and  Communications  Technology  at  
 
 #### M3 Assessing the Level of Research Activity in the Country
 
-- 1 Mechanisms need to be developed with which to measure and assess the level of activity.  An initial scoping exercise would allow the establishment of a general description of research activity in Bhutan by obtaining answers to the following questions
+- 1 Mechanisms need to be developed with which to measure and assess the level of activity. An initial scoping exercise would allow the establishment of a general description of research activity in Bhutan by obtaining answers to the following questions
 
-- What is the context of research in Bhutan?
+- a) What is the context of research in Bhutan?
 
-- Which are the centres of research activity in Bhutan?
+- b) Which are the centres of research activity in Bhutan?
 
-- Who are the individuals responsible for research activity?
+- c) Who are the individuals responsible for research activity?
 
-- What are the areas of research activity?
+- d) What are the areas of research activity?
 
-- What mechanisms are being used to disseminate this research?
+- e) What mechanisms are being used to disseminate this research?
 
-- Where  are  the  results  of  the  research  held  and  who  has  access  to  this information?
+- f) Where are the results of the research held and who has access to this information?
 
 - 2 The descriptive scoping exercise could be followed by an assessment exercise in which barriers to the development of research could be identified, through gaining answers to the following:
 
-- What are the barriers experienced by researchers in the development and conduct of their research?
+- a) What are the barriers experienced by researchers in the development and conduct of their research?
 
-- What  are  the  barriers  experienced  by  students  in  their  development  as researchers?
+- b) What are the barriers experienced by students in their development as researchers?
 
-- What  are  the  financial  and  legal  barriers  that  hinder  the  development  of research activities at an institutional level?
+- c) What are the financial and legal barriers that hinder the development of research activities at an institutional level?
 
-- What incentives need to be developed in order to promote research-related activities?
+- d) What incentives need to be developed in order to promote research-related activities?
 
 - 3 An  important  outcome  of  such  an  exercise  is  to  ensure  that  the  research information and data that exists is maintained in a secure format and is accessible to users within the country and abroad.
 
@@ -2900,21 +2958,15 @@ There are three main elements in the establishment of an enabling environment fo
 
 [[START OF PAGE 105]]
 
-- 1 National  priorities  for  research need  to  be  established,  and  a  system for  determining  such  a  strategy  needs  to  be  put  in  place.    There  is currently no effective system in the country for determining the priorities of research. Different organizations undertake research, but  it  is  not  based  on  an  agreed  understanding  of  national  priorities. Quite  separate  from  the  research  that  seeks  to  support  the  economic development of the country, and to contribute generally to the world-wide knowledge  community,  is  Bhutan's  particular  interest  and  commitment to cultural research, to understand and record the country's historical and cultural roots.
+- 1 National priorities for research need to be established, and a system for determining such a strategy needs to be put in place. There is currently no effective system in the country for determining the priorities of research. Different organizations undertake research, but it is not based on an agreed understanding of national priorities. Quite separate from the research that seeks to support the economic development of the country, and to contribute generally to the world–wide knowledge community, is Bhutan's particular interest and commitment to cultural research, to understand and record the country's historical and cultural roots.
 
-.  Research needs to be supported through funding, direction, career structures, and access to networks of  other researchers.  It is also crucial to establish easy connections between research centres with government and industry.  Funding for research could be of two types.  Small sums (seed corn funds) to encourage the general development of  a  research  culture,  and  more  substantial  funds  to  encourage  research  that
+- 2 Incentives need to be put in place to encourage research. Research needs to be supported through funding, direction, career structures, and access to networks of other researchers. It is also crucial to establish easy connections between research centres with government and industry. Funding for research could be of two types. Small sums (seed corn funds) to encourage the general development of a research culture, and more substantial funds to encourage research that attempts to address national problems.
 
-- 2 Incentives need to be put in place to encourage research attempts to address national problems.
-
-- including laboratories and libraries with up-to-date information are needed for research. Currently, there is no governmental organization responsible for overseeing the managed interplay of all the actors within the R&I system.
-
-- 3 Facilities The proposed NCRI should fill this lacunae in Bhutan.
+- 3 Facilities including laboratories and libraries with up-to-date information are needed for research. Currently, there is no governmental organization responsible for overseeing the managed interplay of all the actors within the R&I system. The proposed NCRI should fill this lacunae in Bhutan.
 
 #### M5 Improved Information Access and Dissemination
 
-- Knowledge and information are transmitted in a variety of ways.  Universities transmit information directly through teaching, but information is also transmitted verbally, by consulting experts, or through the printed word, either in paper or
-
-- 1 electronically.
+- 1 Knowledge and information are transmitted in a variety of ways. Universities transmit information directly through teaching, but information is also transmitted verbally, by consulting experts, or through the printed word, either in paper or electronically.
 
 - 2 Access is needed to sources of information at a variety of levels. There is a need to improve access to sources of information.  A researcher without access to a phone, a computer, the Internet, and a library cannot carry out research; just as a farmer cannot farm without tools.  Currently, the access to information sources either in printed or electronic form in Bhutan is  rather  haphazard.    There  are  no  systematic  procedures  ensuring  that the  outputs  of  research  activity  (such  as  government  reports,  consultancy project reports, research papers, NGO reports, post-graduate dissertations by Bhutanese students abroad) are recorded, disseminated, and accessible to the research and scholarly community of the country.  A weak system of
 
@@ -2944,7 +2996,7 @@ dissemination constrains the effectiveness of decision making in government and 
 
 [[START OF PAGE 107]]
 
-- 4 Curricula that are research and information-oriented need to be encouraged in the universities and in schools . This is not necessarily to imply the teaching of research or research methods at all levels. What is needed is to encourage curiosity,  enquiry,  skepticism,  confidence  in  seeking  and  using  evidence  to substantiate views and arguments.  More use needs to be made of ICT both as a means to gain information and as a mode of delivery.  While traditional oncampus residential education remains the option of choice for the majority of students, internationally, more universities are investing in IT systems for webbased learning and as a means for networking.
+- 4 Curricula that are research and information-oriented need to be encouraged in the universities and in schools. This is not necessarily to imply the teaching of research or research methods at all levels. What is needed is to encourage curiosity, enquiry, skepticism, confidence in seeking and using evidence to substantiate views and arguments. More use needs to be made of ICT both as a means to gain information and as a mode of delivery. While traditional on-campus residential education remains the option of choice for the majority of students, internationally, more universities are investing in IT systems for web-based learning and as a means for networking.
 
 - 5 A culture sympathetic to research needs to be established.  It is relatively common to find that Bhutanese youngsters are intimately aware of the lives of pop artists or international football players.  It is just as important that researchers, scientists, and engineers can become role models for the future generation of Bhutanese. The tertiary education system needs to put in place the environment in which new knowledge can be created and existing knowledge can be found, recognized and adapted for the national purposes.
 
@@ -2966,17 +3018,17 @@ The TEB has responsibility for setting a range of targets for tertiary education
 
 - 1 The table below sets out the number of Bhutanese 19 year olds (the average age  of  entry  to  tertiary  education)  over  the  next  12  years,  together  with the  current  plans  for  the  Royal  University  of  Bhutan  student  intakes  and estimates of likely numbers of students going abroad for education, based on current trends (which could drop), and a recognition that there will be students entering private colleges in Bhutan, but without any estimate of their expansion.  The estimate of the numbers, which are rounded off for simplicity, show that the country currently has an age participation rate of close to 20%, with the government funding about half.  This figure is for entry to tertiary education; the rate at graduation is lower, lagging this figure by about three years.  The evidence is that the government funded places are related closely to the country's needs and the privately funded students less so.  E.g. >36% of RUB students, and <1% of privately funded are registered for B.Ed.
 
-2005 | 2007 | 2010 | 2012 | 2015 | 2017 | 2020
---- | --- | --- | --- | --- | --- | --- | ---
-Number of 19 year olds | 15,000 | 15,500 | 15,500 | 15,000 | 14,700 | 14,000 | 13,000
-Planned annual intake to degree and diploma courses at RUB | 1,100 | 1,500 | 2,000 | 2,500
-annual RUB expansion (2007 plan) | 12% | 12% | 12% | 12%
-Age-participation rate (RUB only) | 7% | 10% | 13% | 17%
-Annual intake to new Bhutan colleges
-Estimated annual intake to degree programmes abroad | 1,400 | 1,500 | 1,500
-Total intake to tertiary education | 2,900 | 3,500 | 4,000
-Total age-participation rate | 19% | 23% | 26% | 33%
-Government funded a-p rate | 7% | 10% | 12% | 15% | 20% | 20%
+| | 2005 | 2007 | 2010 | 2012 | 2015 | 2017 | 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Number of 19 year olds | 15,000 | 15,500 | 15,500 | 15,000 | 14,700 | 14,000 | 13,000 |
+| Planned annual intake to degree and diploma courses at RUB | 1,100 | 1,500 | 2,000 | 2,500 | | | |
+| annual RUB expansion (2007 plan) | 12% | 12% | 12% | 12% | | | |
+| Age-participation rate (RUB only) | 7% | 10% | 13% | 17% | | | |
+| Annual intake to new Bhutan colleges | | | | | | | |
+| Estimated annual intake to degree programmes abroad | | 1,400 | 1,500 | 1,500 | | | |
+| Total intake to tertiary education | | 2,900 | 3,500 | 4,000 | | | |
+| Total age-participation rate | | 19% | 23% | 26% | | 33% | |
+| Government funded a-p rate | 7% | 10% | 12% | 15% | | 20% | 20% |
 
 102
 
@@ -2986,15 +3038,15 @@ Government funded a-p rate | 7% | 10% | 12% | 15% | 20% | 20%
 
 - 2 It is proposed that the Government aim for a 33% age participation rate by 2017, and that it should plan a contribution to the funding rising from 10% to equivalent to 20% by 2017. The following caveats apply to this figure
 
-- From 2010, only those graduates from outside of Bhutan should be counted who have studied at universities and colleges recognized by the Registrar for Tertiary Education.
+- a) From 2010, only those graduates from outside of Bhutan should be counted who have studied at universities and colleges recognized by the Registrar for Tertiary Education.
 
-- The  target  percentage  presumes  that  the  balance  between  Diploma  and Degree set out below is fulfilled.
+- b) The target percentage presumes that the balance between Diploma and Degree set out below is fulfilled.
 
-- The percentage to be funded is equivalent to the cost of fully funding 20%; it could be that the Board funds 25% of the age group but only at 80% of full cost.
+- c) The percentage to be funded is equivalent to the cost of fully funding 20%; it could be that the Board funds 25% of the age group but only at 80% of full cost.
 
-- There will be a slight change in the average duration of student programmes with an increasing proportion of students on shorter programmes
+- d) There will be a slight change in the average duration of student programmes with an increasing proportion of students on shorter programmes
 
-- The amount of funding per student increases by about 35% to provide a more realistic base for a quality product.
+- e) The amount of funding per student increases by about 35% to provide a more realistic base for a quality product.
 
 #### N3 Cost
 
@@ -3010,16 +3062,16 @@ The net effect of this proposal is that in round terms, the government recurrent
 
 [[START OF PAGE 110]]
 
-Diploma | Degree/Hons
---- | --- | ---
-Education | 0 | 100%
-Engineering | 60% | 40%
-Agriculture | 60% | 40%
-Science | 40% | 60%
-Health | 50% | 50%
-Humanities | 40% | 60%
-Business | 40% | 60%
-Computing/IT | 50% | 50%
+| | Diploma | Degree/Hons |
+| --- | --- | --- |
+| Education | 0 | 100% |
+| Engineering | 60% | 40% |
+| Agriculture | 60% | 40% |
+| Science | 40% | 60% |
+| Health | 50% | 50% |
+| Humanities | 40% | 60% |
+| Business | 40% | 60% |
+| Computing/IT | 50% | 50% |
 
 - 2 The  funding  policy  the  Board  adopts  should  take  account  of  the  strong  social demand for some of these areas; e.g. the social demand for degrees in Business is sufficiently large if the Board could decide to put the majority of its funding for Business into diploma programmes e.g. Diplomas in Accountancy, and in Office Management, etc for which there is employment demand but no current supply.
 
@@ -3123,9 +3175,7 @@ private  organizations  and  to  Government  bodies.    The  criteria  should  i
 
 #### P4 TVET as a Choice and its links to School
 
-1
-
-- Students who eventually come to TVET tend to be those with very little options.
+- 1 Students who eventually come to TVET tend to be those with very little options.
 
 108
 
@@ -3139,15 +3189,15 @@ private  organizations  and  to  Government  bodies.    The  criteria  should  i
 
 - 4 Scotland's  practice  may  be  of  interest.  In  that  country,  where  the  vocational system of education runs in parallel with the university system up to the level of about second year degree, a single regulatory authority the Scottish Qualifications Authority, handles the courses, examinations, awards and evaluation for both schools and the vocational sector.  This allows an easy and flexible system where students at schools can take a purely academic course or a mixture of academic and vocational subjects and where the latter feed directly into a higher vocational system.
 
-#### P 5 Links between Certificate courses, school provision and tertiary
+#### P5 Links between Certificate courses, school provision and tertiary
 
-- 1 Provision should be established for access from National Certificate courses to Diploma programmes at tertiary level.  There are three options -
+- 1 Provision should be established for access from National Certificate courses to Diploma programmes at tertiary level. There are three options -
 
-- The  introduction  stages  of  the  diploma  programme  could  be  designed  in conjunction with the certificate courses so that there is a coherent progression of course materials and students.  This may mean that the entry to the Diploma is  no  longer  suited  to  Class  XII  school  leavers,  but  this  is  acceptable  from the point of view of the tertiary education since entry to tertiary education programmes is defined a post-Class XII or equivalent qualification.
+- a) The introduction stages of the diploma programme could be designed in conjunction with the certificate courses so that there is a coherent progression of course materials and students. This may mean that the entry to the Diploma is no longer suited to Class XII school leavers, but this is acceptable from the point of view of the tertiary education since entry to tertiary education programmes is defined a post-Class XII or equivalent qualification.
 
-- The Diploma programme in question is designed predominantly for Class XII entry and to bring the subject matter of the Certificate holders into line, a bridging course to pursue higher levels of certificate course is offered.
+- b) The Diploma programme in question is designed predominantly for Class XII entry and to bring the subject matter of the Certificate holders into line, a bridging course to pursue higher levels of certificate course is offered.
 
-- The first year of the Diploma programme has a range of subjects.  Students entering from Class XII and from National Certificate 3 have different levels  of  knowledge  and  skills  (e.g.  Math  and  English  v  Electronics),
+- c) The first year of the Diploma programme has a range of subjects. Students entering from Class XII and from National Certificate 3 have different levels of knowledge and skills (e.g. Math and English v Electronics),
 
 109
 
@@ -3159,27 +3209,27 @@ and the first  year  provides  these  two  groups  with  the  opportunity  to ba
 
 ### Q Private Participation in Tertiary Education in Bhutan
 
-- The primary purpose of attracting private participation in tertiary education in  Bhutan  is  to  build  high  quality  tertiary  capacity  and  eventually  move  to becoming a 'knowledge hub':
+1. The primary purpose of attracting private participation in tertiary education in Bhutan is to build high quality tertiary capacity and eventually move to becoming a “knowledge hub”:
 
-- Ÿ High  quality  private  and  international  colleges  can  improve  the  overall quality of tertiary in Bhutan.
+- High quality private and international colleges can improve the overall quality of tertiary in Bhutan.
 
-- Ÿ They can also act as a benchmark and provide competition to RUB, to further enhance its own quality.
+- They can also act as a benchmark and provide competition to RUB, to further enhance its own quality.
 
-- Ÿ They would, therefore, be the starting point for the 'knowledge hub' that Bhutan aspires to be in the long term.
+- They would, therefore, be the starting point for the “knowledge hub” that Bhutan aspires to be in the long term.
 
-- Bhutan will also get a few additional benefits - capacity and government cost reduction - through these private and international players
+2. Bhutan will also get a few additional benefits – capacity and government cost reduction – through these private and international players
 
-- Ÿ Additional capacity is needed in specific fields of tertiary education which RUB may not be able to fully meet in the next 3-5 years.
+- Additional capacity is needed in specific fields of tertiary education which RUB may not be able to fully meet in the next 3-5 years.
 
-- Ÿ Through self-financing by some Bhutanese students as well as catering to some Bhutanese students who would otherwise go abroad, these can help lower costs for the government.
+- Through self-financing by some Bhutanese students as well as catering to some Bhutanese students who would otherwise go abroad, these can help lower costs for the government.
 
-- However, private/international participation needs to be brought in a selective manner rather than allowing a random mushrooming of colleges.
+3. However, private/international participation needs to be brought in a selective manner rather than allowing a random mushrooming of colleges.
 
-- Ÿ The colleges entering should be truly high quality - i.e. within the top 50 colleges in the region at least - rather than fly-by-night entities.
+- The colleges entering should be truly high quality – i.e. within the top 50 colleges in the region at least – rather than fly-by-night entities.
 
-- Ÿ There are specific fields where there is a need currently and which can also feed into a knowledge hub for Bhutan - e.g. leadership and ethical management, climate change and so on; therefore, it would be ideal to focus private and international participation on these fields rather than across the board.
+- There are specific fields where there is a need currently and which can also feed into a knowledge hub for Bhutan – e.g. leadership and ethical management, climate change and so on; therefore, it would be ideal to focus private and international participation on these fields rather than across the board.
 
-- Ÿ Since tertiary education is likely to be at least partly subsidized by the Government,  any  un-utilized  capacity  is  a  waste  of  public  resources;
+- Since tertiary education is likely to be at least partly subsidized by the Government, any un-utilized capacity is a waste of public resources;
 
 110
 
@@ -3197,7 +3247,7 @@ therefore, the overall capacity (and capacity by field) needs to be broadly in l
 
 - Ÿ To  cater  to  students  from  around  the  region:  if  it  is  a  US  or  European university, it could attract Asian students at a much lower price-point in Bhutan; if it is an Asian university, it could create additional capacity in Bhutan apart from various attractions of the location.
 
-- What could be some bottlenecks or what conditions would need to be ensured?
+5. What could be some bottlenecks or what conditions would need to be ensured?
 
 - Ÿ Ability to attract high quality faculty
 
