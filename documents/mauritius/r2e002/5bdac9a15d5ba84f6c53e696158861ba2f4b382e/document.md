@@ -2,7 +2,7 @@
 
 Republic of Mauritius
 
-# 2008 - 2020 Education & Human Resources Strategy Plan
+# Education & Human Resources Strategy Plan 2008 - 2020
 
 October 2009
 
@@ -30,6 +30,36 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 ## TABLE OF CONTENTS
 
+EXECUTIVE SUMMARY ...................................................................................................................................... 12
+1. INTRODUCTION........................................................................................................................................... 22
+1.1. SOCIAL AND ECONOMIC BACKGROUND ..................................................................................... 22
+1.2. THE EDUCATION SYSTEM AND THE NEED FOR REFORM ........................................................ 24
+1.3. RESTRUCTURING OF THE EDUCATION SYSTEM........................................................................................ 29
+1.4. BALANCING ACCESS WITH QUALITY ....................................................................................................... 30
+1.5. CREATING A CULTURE OF ACHIEVEMENT AND EXCELLENCE ................................................................. 30
+1.6. TRANSFORMING THE MINISTRY ............................................................................................................... 33
+1.7. LITERACY/ILLITERACY RATES ................................................................................................................. 33
+1.8. PUBLIC EXPENDITURE ON EDUCATION .................................................................................................... 34
+1.9. DEMOGRAPHIC TRENDS AND PROJECTIONS............................................................................................. 35
+2. INEFFICIENCIES IN THE CURRENT SYSTEM .................................................................................... 37
+2.1. STUDENT RETENTION, FAILURE AND ATTRITION .................................................................................... 37
+2.2. QUALITY OF TEACHING AND LEARNING .................................................................................................. 42
+2.3. APPROACH TO ACHIEVEMENT.................................................................................................................. 42
+2.4. BRANDING AND LABELLING..................................................................................................................... 43
+2.5. FLEXIBLE AND INTEGRATIVE STRUCTURES ............................................................................................. 45
+3. THE STRATEGIC FRAMEWORK............................................................................................................. 46
+3.1. THE EARLY CHILDHOOD CARE AND EDUCATION SUB-SECTOR: BUILDING SOLID FOUNDATIONS FOR LEARNING....................................................................................................... 46
+3.2. THE PRIMARY EDUCATION SUB-SECTOR: REINFORCING CONFIDENCE IN LEARNING AND ACHIEVEMENT........................................................................................................................... 57
+3.3. THE SECONDARY EDUCATION SUB-SECTOR: ESTABLISHING STRONG TRANSITIONS THROUGH ADOLESCENCE TO ADULTHOOD ............................................................................... 71
+3.4. SCHOOL STAFF DEVELOPMENT: FACILITATING PROFESSIONAL DEVELOPMENT FOR ENHANCING EFFICIENCY ................................................................................................................. 84
+3.5. TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING SUB-SECTOR: FOSTERING LIFELONG EMPLOYABILITY ............................................................................................................ 98
+3.6. TERTIARY EDUCATION SUB-SECTOR: DESIGNING THE FUTURE-THE HIGHER LEVELS OF KNOWLEDGE...................................................................................................................................... 109
+3.7. HUMAN RESOURCE DEVELOPMENT SUB-SECTOR: SHAPING THE FUTURE THROUGH LIFE-LONG LEARNING AND “HUMANPOWERMENT” OF MAURITIUS ................................ 130
+3.8. SYSTEM MANAGEMENT REFORM: TRANSFORMING THE MINISTRY................................. 150
+4. IMPLEMENTATION AND MONITORING OF THE SYSTEM................................................................ 160
+4.1. MONITORING.......................................................................................................................................... 161
+4.2. ORGANISATIONAL ARRANGEMENTS...................................................................................................... 162
+
 Ministry of Education, Culture and Human Resources
 
 3
@@ -42,6 +72,41 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 ## LIST OF FIGURES
 
+Figure 1: Employment/Unemployment Scenarios: Projections up to 2025............................... 23
+Figure 2: Current Structure of the Mauritian Education System ............................................... 26
+Figure 3: Flow of a Hypothetical Cohort Entering Grade 1 in 1994 and Reaching UVI in 2006 .................................................................................................................................................... 27
+Figure 4: Distribution of Grades in Core Subjects for CPE in 2007 ......................................... 28
+Figure 5: New Structure of the Mauritian Education System.................................................... 32
+Figure 6: Literacy rate of resident population by sex and selected age group, 1990 & 2000 Censuses – Republic of Mauritius ............................................................................................. 34
+Figure 7: Comparison of Public Expenditure on Education in 2004 with Upper Middle Income Countries.................................................................................................................................... 35
+Figure 8: Grade 6 Repetition Rate in Primary Schools as % of all Grade 6 enrolment .......... 37
+Figure 9: Grade 6 Repetition in Primary Schools as a % of all school enrolment .................. 38
+Figure 10: CPE Examination Results, 2000-2006 ..................................................................... 39
+Figure 11: Secondary (Mainstream) Repeaters, as % of enrolment .......................................... 40
+Figure 12: Performance of ZEP Schools for CPE (% pass)....................................................... 40
+Figure 13: Cambridge School Certificate Examination Results, 2000-2006............................. 41
+Figure 14: Cambridge Higher School Certificate Examination Results, 2000-2006................. 41
+Figure 15: Total Pre-Primary School Enrolment 1999-2016: Actual and Projected ................. 47
+Figure 16: Pre-Primary Age-Specific Enrolment Rates at 3 and 4 years .................................. 48
+Figure 17: Primary School Enrolment 1999-2016: Actual and Projected ................................. 57
+Figure 18: Primary School Enrolment - Private Schools as % of Total .................................... 58
+Figure 19: Average Pupil/Teacher Ratio in Primary Schools.................................................... 59
+Figure 20: Drop-out Rate (%) from Primary Schools................................................................ 60
+Figure 21: Special Education Needs Enrolments....................................................................... 61
+Figure 22: Transition Rate (%) from Grade 6 to all Secondary Education.............................. 71
+Figure 23: CPE Pass Rates, All School Candidates, Actual and Projected ............................... 72
+Figure 24: Secondary School (Mainstream, Government Schools as % of Total) .................... 73
+Figure 25: Pre-Vocational Enrolment, 1999-2016, Actual and Projected ................................. 76
+Figure 26: Student population at the MIE - 1976 to 2008 ......................................................... 85
+Figure 27: Total Enrolment in TVET (IVTB and TSMTF), Actual (1999-2007) and Projected (2008-2010)................................................................................................................................ 99
+Figure 28: Enrolment at Tertiary Level, Actual (1999-2007).................................................. 111
+Figure 29: Total Tertiary Enrolment, Actual and Projected .................................................... 112
+Figure 30: The Structure of the National Qualifications Framework...................................... 132
+Figure 31: Projected working age population and labour force, (1990-2025)......................... 135
+Figure 32: Trends in skills and competencies.......................................................................... 136
+Figure 33: Level of qualification of labour force in 2008 and 2020........................................ 136
+Figure 34: Percentage change in number of employees per qualification, (2008-2020)......... 137
+
 Ministry of Education, Culture and Human Resources
 
 4
@@ -53,6 +118,12 @@ Ministry of Education, Culture and Human Resources
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 ## LIST OF TABLES
+
+Table 1: Projected enrolment in Tertiary Education 2008 - 2015 ........................................... 112
+Table 2: Estimated number of employees in various sectors from 2007/2010........................ 138
+ANNEX HR:
+Scenario 2 (Overall employment picture till 2025) ................................................................. 149
+Scenario 3 (bleak scenario)...................................................................................................... 149
 
 Ministry of Education, Culture and Human Resources
 
@@ -302,7 +373,7 @@ The Plan is hence premised on the fact that we must create a culture of achievem
 
 ### Structure of the EHRSP
 
-Part I of  the  Plan  provides, alongside the social and economic background of Mauritius the muchneeded reform strategies that have to be called for if a shift from the traditional four pillar to a multi pillar economic base is to be a reality such that the nation becomes more resilient to global changes.  The newly  emerging  sectors  necessitate  a  re-engineering  of  our  education  and  Human  Resource Development (HRD) system such that it can both be supportive of these developments and make room for adjustments to new changes that will take place in the coming years. Globalisation, too, leaves the Mauritian economy with no choice but to open up and compete with the economies of other countries and concentrate on more knowledge-and skill-intensive activities and `higher value-added financial and business  services,  while  efforts  have  simultaneously  to  be  sustained  to  make  of  Mauritius  an  'île durable'.
+Part I of the Plan provides, alongside the social and economic background of Mauritius the much-needed reform strategies that have to be called for if a shift from the traditional four pillar to a multi pillar economic base is to be a reality such that the nation becomes more resilient to global changes. The newly emerging sectors necessitate a re-engineering of our education and Human Resource Development (HRD) system such that it can both be supportive of these developments and make room for adjustments to new changes that will take place in the coming years. Globalisation, too, leaves the Mauritian economy with no choice but to open up and compete with the economies of other countries and concentrate on more knowledge-and skill-intensive activities and `higher value-added financial and business services, while efforts have simultaneously to be sustained to make of Mauritius an 'île durable'.
 
 Ministry of Education, Culture and Human Resources
 
@@ -362,7 +433,7 @@ Ministry of Education, Culture and Human Resources
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
-For the purpose of this Plan, the Education and Training sector has been broken down into eight subsectors which are elaborated hereunder.
+For the purpose of this Plan, the Education and Training sector has been broken down into eight sub-sectors which are elaborated hereunder.
 
 ### 1.  THE  EARLY  CHILDHOOD  CARE  AND  EDUCATION  (ECCE)  SUB-SECTOR:  BUILDING  SOLID FOUNDATIONS FOR LEARNING
 
@@ -552,7 +623,7 @@ In  this  context,  the  Strategic  Goals  of  Tertiary  Education  during  the 
 
 - Internationalize the Mauritian Tertiary Education
 
-### 7. HUMAN RESOURCE DEVELOPMENT SUB-SECTOR: SHAPING THE FUTURE THROUGH LIFELONG LEARNING and 'HUMANPOWERMENT' OF MAURITIUS
+### 7. HUMAN RESOURCE DEVELOPMENT SUB-SECTOR: SHAPING THE FUTURE THROUGH LIFE-LONG LEARNING and “HUMANPOWERMENT” OF MAURITIUS
 
 The Knowledge Economy demands that a human resource development system be developed that is pertinent to the needs of workplace: people have to have the intrinsic flexibility to adapt to changing demands through systematic training and retraining - itself an important appendage of lifelong learning. Indeed, all research points to the fact that the more educated and skilled the people are, the better they are able to adapt to changes. Promoting human resource development in line with national economic and  social  objectives  becomes  then  a  critical  challenge,  and  this  necessitates  fostering  a  culture  of training and lifelong learning at the individual, organisational and national levels for employability and increasing productivity.
 
@@ -604,11 +675,7 @@ The Strategic Goals of System Management Reform during the period 2008-2020 are 
 
 - Ensure quality assurance for education and training programmes
 
-Part IV provides the modalities for implementation and monitoring of the system. The EHRSP (2008-
-
-2020) indicates what the education system of Mauritius should look like in the future and also takes on board  the  ways  and  means  to  successfully  implement  the  vast  agenda  of  reform  and  innovation.
-
-However, this necessitates an effective development of technical capacities at all levels.
+Part IV provides the modalities for implementation and monitoring of the system. The EHRSP (2008-2020) indicates what the education system of Mauritius should look like in the future and also takes on board the ways and means to successfully implement the vast agenda of reform and innovation. However, this necessitates an effective development of technical capacities at all levels.
 
 On the other hand, to better monitor the whole process of implementation, a set of key indicators will be identified which will allow assessment of progress made and results obtained on the basis of objective targets. In this connection, work will be undertaken to improve the Education Management Information System (EMIS) located in the Planning Department of the Ministry.
 
@@ -640,7 +707,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 #### 1.1.  SOCIAL AND ECONOMIC BACKGROUND
 
-Mauritius  has  a  highly  diverse  population,  estimated  to  total  1.2  m.  people.    According  to  the  latest census (2000), Indo-Mauritians comprise 68% of the population, Creoles 27%, Sino-Mauritians 3%, and Franco-Mauritians  2%.  Kreol,  however,  is  spoken  and  used  in  daily  interactions  by  80.5%  of  the population,  Bhojpuri  by  12.1%,  French  (which  is  also  the  cultural  medium)  by  3.4%,  and  English  although it is the 'official' language of the state (and thus, the official language of instruction in schools) is spoken and used in daily interactions by less than 1% of the population.
+Mauritius has a highly diverse population, estimated to total 1.2 m. people. According to the latest census (2000), Indo-Mauritians comprise 68% of the population, Creoles 27%, Sino-Mauritians 3%, and Franco-Mauritians 2%. Kreol, however, is spoken and used in daily interactions by 80.5% of the population, Bhojpuri by 12.1%, French (which is also the cultural medium) by 3.4%, and English – although it is the 'official' language of the state (and thus, the official language of instruction in schools) is spoken and used in daily interactions by less than 1% of the population.
 
 After centuries of colonization, first by the Dutch, then the French and ultimately by the British, Mauritius gained independence in 1968, and opted to remain a member of the Commonwealth.  The country's strong ties with Britain, moreover, continue to impact society and define policy orientations (including educational choices) at the highest levels.
 
@@ -668,10 +735,23 @@ ICT  sector,  a  buoyant  logistics  sector,  the  development  of  alternative 
 
 With  globalisation,  the  Mauritian  economy  has  no  choice  but  to  open  up  and  compete  with  the economies of other countries, while efforts have to be sustained to make of Mauritius an 'île durable'.
 
-Projections to 2025 of the future labour force and extent of total employment in Mauritius, based on differing  employment/unemployment  scenarios,  have  been  published  by  the  Human  Resources Development Council (HRDC) and show wide variations (as shown in Figure 1 below). This makes it very problematic to predict what will be the future education and training needs for Mauritius, in both quantitative and qualitative terms 1 .
+Projections to 2025 of the future labour force and extent of total employment in Mauritius, based on differing employment/unemployment scenarios, have been published by the Human Resources Development Council (HRDC) and show wide variations (as shown in Figure 1 below). This makes it very problematic to predict what will be the future education and training needs for Mauritius, in both quantitative and qualitative terms¹.
 
 Figure 1: Employment/Unemployment Scenarios: Projections up to 2025
-
+640,000
+620,000
+600,000
+580,000
+560,000
+540,000
+520,000
+500,000
+2006 2010 2015 2020 2025
+Labour Force, Estimate 1
+Labour Force, Estimate 2
+Employment, Scenario 1
+Employment, Scenario 2
+Employment, Scenario 3
 Source: National Human Resource Development Plan, Vol.1, 2007
 
 Education is highly regarded by Mauritians as the key element of economic and social advancement, and to meeting labour force needs. Since independence in 1968, Mauritian leadership has had to plan, re-orientate,  and  re-invent  the  best  ways  to  meet  the  challenges  it  had  to  face  as  a  small, geographically  isolated,  island  state.    An  educated  population  was  seen  as  a  vital  component  of prosperity and so heavy investment was made in providing access to education and, where funds were not available by the State, the private sector was mobilized.
@@ -688,17 +768,17 @@ Ministry of Education, Culture and Human Resources
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
-Over the past decade, the groundwork has been laid to move the economy towards more knowledgeand  skill-intensive  activities  and  higher  value-added  financial  and  business  services.  Successive governments have been implementing Mauritius' vision for its future, restructuring and down-sizing the sugar and textiles industries, making the necessary legislative reforms for the country to provide offshore financial  services,  and  drawing  Foreign  Direct  Investment  (FDI)  into,  inter-alia,  the  Information Technology (IT)  sector  through  the  development  of  a  state-of-the-art,  fibre-optic  wired  Cyber  Tower. Major investments have already been undertaken to support this investment locally with the necessary well-trained and appropriately knowledgeable human resources, transport and environmental infrastructure.
+Over the past decade, the groundwork has been laid to move the economy towards more knowledge-and skill-intensive activities and higher value-added financial and business services. Successive governments have been implementing Mauritius' vision for its future, restructuring and down-sizing the sugar and textiles industries, making the necessary legislative reforms for the country to provide offshore financial services, and drawing Foreign Direct Investment (FDI) into, inter-alia, the Information Technology (IT) sector through the development of a state-of-the-art, fibre-optic wired Cyber Tower. Major investments have already been undertaken to support this investment locally with the necessary well-trained and appropriately knowledgeable human resources, transport and environmental infrastructure.
 
 #### 1.2. THE EDUCATION SYSTEM AND THE NEED FOR REFORM
 
 ##### 1.2.1 The Development of the Education System
 
-As in many other countries, the Mauritian education system has evolved from a small-scale primarily private enterprise to a large-scale, national, publicly-funded one. This 'evolution' came about with the high  social  demand  for  education  as  the  country  grew  and  prospered  in  the  1960s  and  1970s. Partnership between the public and private sector is well-ingrained in Mauritian tradition - and not only within the education sector, but within all productive sectors of the economy.  When the Government made  the  decision  to  provide  free  secondary  education  to  all  as  from  1977 2 therefore,  it  was  only natural that the private sector should step in to provide the facilities to meet the demand. The Private Secondary Schools Authority (PSSA) was established to provide the facilities and maintain standards at non-state secondary schools, while the state provided large grants to cover the recurrent costs.
+As in many other countries, the Mauritian education system has evolved from a small-scale primarily private enterprise to a large-scale, national, publicly-funded one. This 'evolution' came about with the high social demand for education as the country grew and prospered in the 1960s and 1970s. Partnership between the public and private sector is well-ingrained in Mauritian tradition - and not only within the education sector, but within all productive sectors of the economy. When the Government made the decision to provide free secondary education to all as from 1977² therefore, it was only natural that the private sector should step in to provide the facilities to meet the demand. The Private Secondary Schools Authority (PSSA) was established to provide the facilities and maintain standards at non-state secondary schools, while the state provided large grants to cover the recurrent costs.
 
 ##### 1.2.2 Policy Reforms and Action Plans
 
-Aware of the inequalities that had presented themselves as a consequence of private enterprise having shaped educational provision in the past, the Government's impetus for free primary education for all (which  started  in  the  1940s)  was  heightened  after  independence  in  1968,  resulting  in  an  expansive primary-school building programme that would extend free primary education to all Mauritian children 3 .
+Aware of the inequalities that had presented themselves as a consequence of private enterprise having shaped educational provision in the past, the Government's impetus for free primary education for all (which started in the 1940s) was heightened after independence in 1968, resulting in an expansive primary-school building programme that would extend free primary education to all Mauritian children³.
 
 In fact, successive Governments set for themselves the task of positing the centrality of education in their  overall  development  policy  for  the  sustainability  of  social  and  economic  development  of  the country. This policy was  translated in investment in the country's human  resource. Several commissions  of  enquiry  and  various  reports  accordingly  made  recommendations  for  an  education system more responsive to the systematically emerging needs of society. This culminated in a
 
@@ -716,11 +796,11 @@ Ministry of Education, Culture and Human Resources
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
-landmark development in education in two  watershed  years,  namely  1977,  when  education  became free  at  the  secondary  level  and  the  amendment  of  the  Education  Act 4 in  2005  to  make  education compulsory till the age of 16.
+landmark development in education in two watershed years, namely 1977, when education became free at the secondary level and the amendment of the Education Act⁴ in 2005 to make education compulsory till the age of 16.
 
-Mauritius has made commendable strides in a relatively short space of time 5 in adapting its education system according to the needs of its own society, while at the same time being fully aware of the need to be aligned with both regional and international practices and directions 6 .
+Mauritius has made commendable strides in a relatively short space of time⁵ in adapting its education system according to the needs of its own society, while at the same time being fully aware of the need to be aligned with both regional and international practices and directions⁶.
 
-One of the recommendations of the Jomtien Education for All world conference in 1990 was that each country  should  develop  an  Action  Plan  for  Education  based  not  only  on  facts  and  figures,  but  clear objectives  and  realistic  goals,  accompanied  by  a  well-planned  strategy  to  achieve  these  goals  and objectives. The Ministry of Education of Mauritius 7 thus produced a Master Plan on Education in 1991, which was not only used to guide reforms in Mauritius at that time, but was considered by the Donor Community (at that time) as a 'model' plan upon which to base similar plans for the developing world.
+One of the recommendations of the Jomtien Education for All world conference in 1990 was that each country should develop an Action Plan for Education based not only on facts and figures, but clear objectives and realistic goals, accompanied by a well-planned strategy to achieve these goals and objectives. The Ministry of Education of Mauritius⁷ thus produced a Master Plan on Education in 1991, which was not only used to guide reforms in Mauritius at that time, but was considered by the Donor Community (at that time) as a 'model' plan upon which to base similar plans for the developing world.
 
 However, although there was progressive implementation of the Master Plan of 1991, the development of a clear and precise Action Plan for Education (as recommended by the Jomtien conference in 1990) did not materialize until 1998, and by this stage, Mauritius was being called upon to respond to new demands set by a shift in the economy - from a mostly agricultural to a more industrial and diverse one.
 
@@ -732,7 +812,7 @@ The present structure of the Mauritian education system is shown in the followin
 
 > 6 For  example: Education For All, Millennium Development Goals, SADC Protocol for Education and Training.
 
-> 7 Then, the Ministry of Education and Scientific Research (MOESR ).
+> 7 Then, the Ministry of Education and Scientific Research (MOESR).
 
 Ministry of Education, Culture and Human Resources
 
@@ -1036,7 +1116,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 #### 1.3. Restructuring of the Education System
 
-Restructuring of the education system has had the same fate as some of the policy inputs noted above. For example, the abolishing in 2002 of the official ranking system of students for admission to highlyrated secondary schools, 8 did little to ease the pressure on students at CPE level and the struggle to get  into  'the  best  secondary  school'  (forcing  some  students  to  re-sit  the  CPE  even  when  they  had passed simply to improve their results). Over time, it was not so much that the students were being ranked, but that the secondary schools themselves had acquired that esteem (by proxy, through the students they had admitted over the past 25 years).
+Restructuring of the education system has had the same fate as some of the policy inputs noted above. For example, the abolishing in 2002 of the official ranking system of students for admission to highly-rated secondary schools, 8 did little to ease the pressure on students at CPE level and the struggle to get into 'the best secondary school' (forcing some students to re-sit the CPE even when they had passed simply to improve their results). Over time, it was not so much that the students were being ranked, but that the secondary schools themselves had acquired that esteem (by proxy, through the students they had admitted over the past 25 years).
 
 The introduction of Pre-Vocational Education (PVE) at secondary school level to provide for students who had failed the CPE twice, and who, as from 2005, were obliged by law to stay in school till the age of 16, has had as an outcome - namely the negative 'branding' of vocational education - a sub-sector which today is vitally important to the realignment of the education system to develop the human capital that will enable the country to meet its future economic targets.
 
@@ -1050,7 +1130,7 @@ Source: Budget Speech 2006-2007
 
 If Mauritius aims at becoming a globally competitive nation, it is critical that the country 'shores up its capacity in Tertiary Education, in Science, Technology and Innovation (STI) and in human resources generally' (Budget Speech, 2008-2009, Pp 11).
 
-The Budget Document (2008-2009) announced a series of measures, including the financial means, that would help attain the target of doubling the enrolment ratio at tertiary by 2015.  Actions related thereto will work on two fronts. First, increasing opportunities to access higher education following the necessary infrastructural development backed by a loan scheme to needy students to ensure that no one who is eligible is debarred from tertiary education through lack of funds; and also offering flexible learning modes to those already in employment. Second, increasing completion rates at primary and secondary levels so that more students qualify for tertiary education. Equally, to take on board those who lack the academic aptitude to make it to post-secondary education, an alternative pathway will be introduced, allowing them to opt for a tertiary vocational education.
+The Budget Document (2008-2009) announced a series of measures, including the financial means, that would help attain the target of doubling the enrolment ratio at tertiary by 2015. Actions related
 
 > 8 Known as 'star schools'.
 
@@ -1064,7 +1144,9 @@ Ministry of Education, Culture and Human Resources
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
-To further sustain economic growth, optimum use must be made of each and every unit of the country's human capital starting as early as the pre-school sub-sector so as to reach those who have been out of the formal system for reasons of absolute poverty. Also, since the education system is characterised by a low internal efficiency resulting in a significant number who drop out of school, efforts must be made to  recoup  these.  The  proposed  Second  Chance  Programme  in  the  2008-2009  Budget  aims  at addressing this issue through the provision of basic numeracy and language skills to those under 21 who have dropped out of school and are not in full time employment. The programme will include a strong  emphasis  on  life  training  skills  and  provide  psychological  and  social  back  up. These  young people will be oriented to a vocational programme.
+thereto will work on two fronts. First, increasing opportunities to access higher education following the necessary infrastructural development backed by a loan scheme to needy students to ensure that no one who is eligible is debarred from tertiary education through lack of funds; and also offering flexible learning modes to those already in employment. Second, increasing completion rates at primary and secondary levels so that more students qualify for tertiary education. Equally, to take on board those who lack the academic aptitude to make it to post-secondary education, an alternative pathway will be introduced, allowing them to opt for a tertiary vocational education.
+
+To further sustain economic growth, optimum use must be made of each and every unit of the country's human capital starting as early as the pre-school sub-sector so as to reach those who have been out of the formal system for reasons of absolute poverty. Also, since the education system is characterised by a low internal efficiency resulting in a significant number who drop out of school, efforts must be made to recoup these. The proposed Second Chance Programme in the 2008-2009 Budget aims at addressing this issue through the provision of basic numeracy and language skills to those under 21 who have dropped out of school and are not in full time employment. The programme will include a strong emphasis on life training skills and provide psychological and social back up. These young people will be oriented to a vocational programme.
 
 #### 1.4. Balancing Access with Quality
 
@@ -1258,7 +1340,37 @@ Ministry of Education, Culture and Human Resources
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
-Figure 6: Literacy rate of resident population by sex and selected age group, 1990 & 2000 Censuses Republic of Mauritius
+Figure 6: Literacy rate of resident population by sex and selected age group, 1990 & 2000 Censuses – Republic of Mauritius
+
+Literacy rate of resident population by sex and selected age group, 1990 & 2000 Censuses - Republic of Mauritius
+0
+20
+40
+60
+80
+100
+120
+Both sexes
+12+
+15+
+15 - 24
+25+
+Male
+12+
+15+
+15 - 24
+25+
+Female
+12+
+15+
+15 - 24
+25+
+Percentage
+Selected Age Groups
+Illiteracy rate 1990
+Literacy 1990
+Illiteracy 2000
+Literacy 2000
 
 Source:  Central Statistics Office, Mauritius
 
@@ -1268,11 +1380,11 @@ Public expenditure on education in Mauritius in 2007/2008 was estimated to be 12
 
 In recent years, more emphasis has been placed on public education recurrent expenditure per student relative  to  GDP  per  capita.  This  is  used  as  a  measure  of  a  country's  investment  in  its  children  and youth. For a wide range of countries, this figure is close to 10% for primary and 20% for secondary; thus  implying  that  public  secondary  education  expenditure  per  student  is  around  twice  that  of  public primary education expenditure per pupil.
 
-> 9 However, if private expenditure (in terms of household expenditure on private tuition for example) on education  in  Mauritius  is  taken  into  consideration,  then  the  country's  total  financial  expenditure  on education may be at or close to the international level, but with a substantial proportion of the total not passing through the public education budget.
+> 9 However, if private expenditure (in terms of household expenditure on private tuition for example) on education in Mauritius is taken into consideration, then the country's total financial expenditure on education may be at or close to the international level, but with a substantial proportion of the total not passing through the public education budget.
 
-> 10 UNESCO Ministerial Round Table on Education and Economic Development, 19 October 2007 11
+> 10 UNESCO Ministerial Round Table on Education and Economic Development, 19 October 2007
 
-> Ibid.
+> 11 Ibid.
 
 Ministry of Education, Culture and Human Resources
 
@@ -1386,6 +1498,30 @@ In  2007,  22.8%  of  Grade  6  enrolment  repeated  the year.  They  also  repr
 
 Figure 8: Grade 6 Repetition Rate in Primary Schools as % of all Grade 6 enrolment
 
+15.0
+17.0
+19.0
+21.0
+23.0
+25.0
+27.0
+29.0
+31.0
+33.0
+35.0
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+All Schools - Repetition Rate at Grade 6 /%
+Government - Repetition Rate at Primary /%
+Private - Repetition Rate at Grade 6 /%
+
 > 14 The purpose of this section is not to analyze the 'problems' of the system - this has already been covered in depth by local, regional and international organizations and individuals.  Rather, the purpose is to draw attention to key issues that define the inefficiencies of the current system and that will direct the focus of the EHRSP for 2008-2020.
 
 Ministry of Education, Culture and Human Resources
@@ -1452,7 +1588,30 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 Figure 10: CPE Examination Results, 2000-2006
 
-With regard to the second sitting candidates, their pass rate of 40.4% in 2007 is significantly less than the 55.9% recorded in 2000, presumably due to the fact indicated above, that only the CPE failures resit the examination.
+Certificate of Primary Education (CPE) examination results, Republic of Mauritius, 2000 - 2006 (School Candidates only)
+0.0
+10.0
+20.0
+30.0
+40.0
+50.0
+60.0
+70.0
+80.0
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+Total
+Male
+Female
+Source:
+MES
+
+With regard to the second sitting candidates, their pass rate of 40.4% in 2007 is significantly less than the 55.9% recorded in 2000, presumably due to the fact indicated above, that only the CPE failures re-sit the examination.
 
 If only the school candidates' first sitting is considered, then, of the total 76.2% who pass, the pass rate for boys is 71.3% and that for girls is 81.2%. Of the 23.8% who do not pass, they almost all re-sit the examination  the  following  year  and  40.4%  of  these  manage  to  pass  (after  the  second  sitting). Therefore, the proportion of the cohort of children who will eventually go on to secondary mainstream education (and in many respects, this seems the more appropriate indicator to use for that cohort of pupils), their eventual pass rate is around 86%.
 
@@ -1469,6 +1628,27 @@ Ministry of Education, Culture and Human Resources
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 Figure 11: Secondary (Mainstream) Repeaters, as % of enrolment
+
+0.0
+2.0
+4.0
+6.0
+8.0
+10.0
+12.0
+14.0
+16.0
+18.0
+State Schs - Boys
+State Schs - Girls
+State Schs - Total
+Private Schs - Boys
+Private Schs - Girls
+Private Schs - Total
+All Schs - Boys
+All Schs - Girls
+All Schs - Total
+2007
 
 Achieving positive student outcomes by gearing courses more to individual needs is evidenced by the performance of  ZEP schools  in  CPE  examinations.    Although  such  performance  has  only  started  to improve recently (see Figure 12 below), from an overall pass rate of 31.4% in 2004 to 36.5% in 2006, such efforts seem to have had an impact already. However, this impact is complicated by the fact that there is a wide variety of results between individual ZEP schools and, again, pass rates for girls are much higher than those for boys (44.5% against 29.7% respectively).
 
@@ -1736,7 +1916,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 ### 3. The Strategic Framework
 
-#### 3.1. THE EARLY CHILDHOOD CARE AND EDUCATION SUBSECTOR: BUILDING SOLID FOUNDATIONS FOR LEARNING
+#### 3.1. THE EARLY CHILDHOOD CARE AND EDUCATION SUB-SECTOR: BUILDING SOLID FOUNDATIONS FOR LEARNING
 
 ##### 3.1.1. Situational Analysis
 
@@ -1758,11 +1938,38 @@ Ministry of Education, Culture and Human Resources
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
-constructed in the least developed regions. The total number of schools in 2007 was 1,115 out of which 181  (16%)  were  attached  to  primary  schools  and  934  were  private  (including  Local  Authorities)  preprimary  schools.  All  schools  operated  independently  but  in  line  with  the  Pre-School  Regulations. Enrolment in pre-primary schools continued to increase and in 2007 there were 31,141 children of age 3 plus  registered  in  the  pre-primary  schools,  leading  to  a  Gross  Enrolment  Ratio  of  nearly  94  percent. Equitable access of children to pre-school education is ensured through a monthly per-capita grant of Rs 200 payable to all children of 4 years plus.
+constructed in the least developed regions. The total number of schools in 2007 was 1,115 out of which 181 (16%) were attached to primary schools and 934 were private (including Local Authorities) pre-primary schools. All schools operated independently but in line with the Pre-School Regulations. Enrolment in pre-primary schools continued to increase and in 2007 there were 31,141 children of age 3 plus registered in the pre-primary schools, leading to a Gross Enrolment Ratio of nearly 94 percent. Equitable access of children to pre-school education is ensured through a monthly per-capita grant of Rs 200 payable to all children of 4 years plus.
 
 Enrolments  at  Pre-Primary  level  currently  total  36,421  but  have  been  declining  since  1999  when enrolments numbered 41,711. They are predicted to continue to decline, reaching 32,900 by 2011 - an overall decline of 26.8% - after which there will be some increase in births (according to the CSO), but rather unevenly, until eventually a further decline, from 2014 onwards (see Figure 15 below).
 
 Figure 15: Total Pre-Primary School Enrolment 1999-2016: Actual and Projected
+
+32,000
+34,000
+36,000
+38,000
+40,000
+42,000
+44,000
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+Total Pre-Primary Enrolment
 
 Pre-Primary enrolments depend on demographic factors but also on the age-specific enrolment rates at age 3 and age 4 21 . The age-specific enrolment rates both at age 3 and at age 4 have been rising, albeit unevenly, since 2002, reaching in 2007, 84.7% for age 3 and 87.3% for age 4 (see Figure 16 below). Thus,  it  is  still  the  case  that,  respectively,  15.3%  of  3-year-olds  and  12.7%  of  4-year-olds  are  not enrolled in pre-primary schools, and there can be little doubt that these children come from the poorest and most disadvantaged families. These out-of-school children were about 5,000 in number.
 
@@ -1779,6 +1986,25 @@ Ministry of Education, Culture and Human Resources
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 Figure 16: Pre-Primary Age-Specific Enrolment Rates at 3 and 4 years
+
+60
+65
+70
+75
+80
+85
+90
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+Age-specific enrolment ratio at 3 years
+Age-specific enrolment ratio at 4 years
 
 The qualifications of the teaching staff in the sub-sector have always been a matter of concern; schools already  operating  were  providing  pre-school  education  before  any  uniform  regulations  were  set  up. Owing to a lack of regulation, it had become an outlet for jobs for many who could not otherwise join the Primary sub-sector, the latter being well regulated by the Government. In order to enhance the quality of teaching  in  the  pre-primary  sub-sector,  by  2000,  training  programmes  were  mounted  for  Pre-School educators.  Owing to the lack of basic qualifications of the pre-school personnel, a proficiency training programme  was  instituted  for  existing  educators,  allowing  them  to  complete  a  Teacher's  Certificate (Pre-Primary).  Capacity building for the supervisory grade is being undertaken.
 
@@ -1850,7 +2076,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 ##### 3.1.5. Summary of Strategic Activities
 
-Early Childhood Care and Education should undergo gradual professionalisation. It is a historical fact that this sub-sector has received little attention so far. However, government is fully conscious of the necessity to develop a strong base for education from early childhood, the need to check and eliminate loss of potential in our children through neglect, the need to gradually empower all those in the subsector, as well as the need to have strong regulations so that the ECD does not remain a marginalised sub-sector. The early childhood education and pre-primary education will be made compulsory for all children aged 3 to 5 years. The regulatory and institutional framework will be enhanced with the coming into operation of the ECCEA.
+Early Childhood Care and Education should undergo gradual professionalisation. It is a historical fact that this sub-sector has received little attention so far. However, government is fully conscious of the necessity to develop a strong base for education from early childhood, the need to check and eliminate loss of potential in our children through neglect, the need to gradually empower all those in the sub-sector, as well as the need to have strong regulations so that the ECD does not remain a marginalised sub-sector. The early childhood education and pre-primary education will be made compulsory for all children aged 3 to 5 years. The regulatory and institutional framework will be enhanced with the coming into operation of the ECCEA.
 
 This Plan sets out to identify those key areas and provides for means to strength them so as to optimise all  the  resources  that  already  exist,  as  well  as  provide  for  additional  resources  for  areas  such  as research and development that would feed back and further strengthen the sub-sector. It also places emphasis on networking and the involvement of a wide range of stakeholders in the development of education right from a very young age. Emphasis will also be placed on the development of a strong Quality Assurance mechanism.
 
@@ -1868,10 +2094,10 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 ##### 3.1.6. Activities and Target Indicators
 
-Strategic | Strategic Objectives | 2008-2020 Target /Indicators | Activities
+Strategic Goals | Strategic Objectives | 2008-2020 Target /Indicators | Activities
 --- | --- | --- | ---
-Goals 1. Review legislative and regulatory framework for the provision of ECCE | 1.1. Establish an Early Child Care and Education Authority (ECCEA) | Mandate and personnel defined and identified by end 2008 | Setting up of ECCEA.
-1.2. Develop regulations, instructions and manuals for the operation of pre-primary units. | Criteria established, communicated and finalized by end 2009 | Review regulations, instructions and manuals for operation of pre- primary schools
+1. Review legislative and regulatory framework for the provision of ECCE | 1.1. Establish an Early Child Care and Education Authority (ECCEA) | Mandate and personnel defined and identified by end 2008 | Setting up of ECCEA.
+1.2. Develop regulations, instructions and manuals for the operation of pre-primary units. | Criteria established, communicated and finalized by end 2009 | Review regulations, instructions and manuals for operation of pre-primary schools
 1.3. Establish quality criteria and standards of operation and service delivery across the pre-primary sub-sector. | Criteria established, communicated and finalized by end 2009 | Review and finalisation of criteria
 1.4. Ensure that special provisions are made for children with special needs, children from disadvantaged socio-economic backgrounds and learning difficulties. | Provision completed and all stakeholders informed by end 2011 | Taskforce for Special Needs set up
 1.5. Ensure a system of reporting and accountability at all levels | System in place - 2009 | Review of system and guidelines set up
@@ -1889,9 +2115,9 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 Strategic Goals | Strategic Objectives | 2008-2020 Target /Indicators | Activities
 --- | --- | --- | ---
-2. Ensure access of all children aged 3 to 5 years to pre- primary education. | 2.1. Undertake pre-primary school/unit mapping survey to identify communities with limited access to state pre- primary facilities. | End 2009 | Survey initiated
+2. Ensure access of all children aged 3 to 5 years to pre-primary education. | 2.1. Undertake pre-primary school/unit mapping survey to identify communities with limited access to state pre-primary facilities. | End 2009 | Survey initiated
 2.2. Construction of new 'model' pre-primary units and support services within primary schools - priority to be given to communities with limited access. | Plans completed and agreed and implementation by end 2011 | Planning and budgeting to set up pre-primary units in primary schools from 2009.
-2.3. All children aged 3 to 5 years to be enrolled in pre- primary schools/units. | All children enrolled by 2010 | Provision for resources to ensure 100% enrolment and retention under the Eradication of Absolute Poverty(EAP) Programme
+2.3. All children aged 3 to 5 years to be enrolled in pre-primary schools/units. | All children enrolled by 2010 | Provision for resources to ensure 100% enrolment and retention under the Eradication of Absolute Poverty(EAP) Programme
 2.4. Setting up of Special Education Units in priority areas | Units operational as from 2010 | Project developed and budgeted
 3. Networking for a holistic approach to ECCE | 3.1. Prepare an awareness raising campaign to 'bridge the gap' between home and the pre-school | Campaign operational by beginning of 2009 | Campaign developed and initiated
 
@@ -1927,7 +2153,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 Strategic Goals | Strategic Objectives | 2008-2020 Target /Indicators | Activities
 --- | --- | --- | ---
 4.3. Ensure that outdoor space areas and playgrounds are in accordance with the requirements of the Ministries of Education and of Health by 2010. | Standards communicated and all schools required to align themselves by 2012. | Standards developed and communicated to all schools.
-5. Embed technology in the system | 5.1. To expose young learners to modern technology for familiarization purposes | Schools equipped with IT facilities by end 2010 | 1.Train teachers in ICT 2. Encouraging pre- schools to use ICT as a tool in the teaching/learning process
+5. Embed technology in the system | 5.1. To expose young learners to modern technology for familiarization purposes | Schools equipped with IT facilities by end 2010 | 1.Train teachers in ICT 2. Encouraging pre-schools to use ICT as a tool in the teaching/learning process
 6. Undertake regular review of curricula | 6.1. Review and regular update of guidelines and outline of curricula for all pre-primary sub-sector. | A mechanism for curriculum supervision and monitoring is set up by the ECCEA by end 2010 | Setting up of a system of curriculum supervision and monitoring
 6.2. Strengthening of Supervisory staff of the ECCEA | Provision for professional support by end 2009 | Professional support system developed
 7. Ensure that all pre-primary educators are fully trained and qualified. | 7.1. Enhance training opportunities | Training opportunity extended to all educators by 2012 | Capacity of MIE to offer courses through multiple modes, including Distance Education improved
@@ -1944,11 +2170,11 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 Strategic Goals | Strategic Objectives | 2008-2020 Target /Indicators | Activities
 --- | --- | --- | ---
-7.2. Accelerate the implementation of in- service training programmes for teachers as from April 2008 | All teachers have Certificate in Education by 2012 | Capacity of MIE to offer training using multiple modes improved
+7.2. Accelerate the implementation of in-service training programmes for teachers as from April 2008 | All teachers have Certificate in Education by 2012 | Capacity of MIE to offer training using multiple modes improved
 7.3. Develop a database for the pre-primary sub-sector for training purposes. | Database operational by end 2010 | Commission building of database
 7.4. Operate a Resource Centre as part of the ECCEA | Resource centre fully operational by end 2009 | Provision of space and resources for Resource Centre
 7.5. Develop a policy for language incorporating bilingualism/multi-lingualism in early childhood education. | Policy discussed, approved and operational by end of 2010 | Establish clear guidelines and disseminate same to all stakeholders.
-7.6. Provide training for trainers on bilingualism /multi- lingualism | Personnel trained as from 2011 | Training on bilingualism/multi- lingualism
+7.6. Provide training for trainers on bilingualism /multi-lingualism | Personnel trained as from 2011 | Training on bilingualism/multi-lingualism
 8. Encourage and support the inclusion of children with special needs and those from disadvantaged socio-economic backgrounds. | 8.1. To ensure that infrastructure is adapted to meet the needs of children with special needs. | Operational in 2011 | Setting of norms and communication with all stakeholders
 8.2. Set up a mechanism to detect children with learning difficulties for remedial action. | Mechanism in place in 2010 | Professionals in the field identified and mechanism developed
 
@@ -1991,6 +2217,33 @@ The Gross Enrolment Rate (GER) has stabilized over the last decade to reach 102 
 Total enrolment in primary schools has been declining since the year 2000 from 135,237 to 119,310 in 2007, on account of demographic factors, and is predicted to continue declining to the low figure of 110,599  in  2014 22 before  thereafter  increasing  slightly  (see  Figure  17  below).  The  NER  in  primary schools is close to 100% and is generally regarded as not a matter for concern, especially since there must be some degree of approximation in the population figures, which have been projected forwards from the last national population census in 2000.
 
 Figure 17: Primary School Enrolment 1999-2016: Actual and Projected
+140,000
+130,000
+120,000
+110,000
+100,000
+90,000
+80,000
+Total Primary Enrolment
+Government Schools
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
 
 > 22 A decline of 18.2% since 2000.
 
@@ -2006,7 +2259,26 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 Of  all  primary  school  enrolments  in  2007,  73.9%  were  in  government  schools  and  26.1%  in  private schools, but the proportion in private schools has been increasing steadily over time since 1999 (see Figure 18 below). Interestingly, as the total number enrolled in primary schools has continued to fall, the decline  has  been  concentrated  solely  in  government  schools,  with  the  numbers  enrolled  in  private schools remaining more or less constant.
 
-Figure 18: Primary School Enrolment -Private Schools as % of Total
+Figure 18: Primary School Enrolment – Private Schools as % of Total
+27.0
+26.5
+26.0
+25.5
+25.0
+24.5
+24.0
+23.5
+Private/Total,%
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
 
 The Ministry allocates about one-third of its budget to the primary sub-sector and this is translated in an equitable  allocation  of  human  and  material  resources  among  schools  in  the  education  zones.  The Ministry has a policy of free textbook provision to all children. The majority of teachers at the primary education  level  are  government  employees.  The  Ministry  is  committed  to  improve  teaching  quality through upgrading of teacher qualifications and to invest in teacher training. The average class size in primary schools fell steadily from 34.3 in 2002 to 32.0 in 2006, with rather smaller average class size on the Island of Rodrigues than on the Island of Mauritius. Average pupil/teacher ratio (PTR) fell from 21.6 in 2002 to 18.7 in 2007 23 .In primary schools, and according to international standards, the PTR and the average  class  size  should  be  broadly  correlated,  whereas    in  Mauritius  they  indicate  a  significant difference  (see Figure 19 below). Leaving aside the Head-teacher, at any one time during the school day,  the  typical  primary-school  teacher  will  be  expected  to  be  in  his/her  classroom,  teaching  his/her class. On average, this must be true for each teacher teaching on average 32.0 children in the class. The low PTR of 18.7 is explained by the significant numbers of teachers of Asian languages, plus the Deputy Head Teachers (DHT), who average 4 DHTs for each primary school.
 
@@ -2023,10 +2295,27 @@ Ministry of Education, Culture and Human Resources
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 Figure 19: Average Pupil/Teacher Ratio in Primary Schools
+40.0
+35.0
+30.0
+25.0
+20.0
+15.0
+International Definition of PTR
+Mauritius Digest Definition of PTR
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
 
 Notwithstanding  the  above  achievements,  the  key  weakness  of  the  system  pertains  to  the  output  of primary schooling, both in quantitative and qualitative terms. The internal efficiency of the primary cycle is about 80 percent. Grade repetition accounts for inefficiency in the system. There is a repetition rate of about  4  percent  at  primary  school  level.  Although  repetition  is  insignificant  at  Grades  1-5  mainly because of automatic promotion, it however becomes very significant at Grade 6, at about 23 percent, as a large proportion of those pupils who fail the CPE repeat a year, with the aim of improving their performance  in  examination  the  following  year.  Repetition  becomes  also  very  significant  in  the  later years during secondary education. The CPE pass rate has stagnated at around 65 percent over the last decade, with the performance of girls far exceeding that of boys (74.3 percent against 62.0 percent in 2006).  The  transition  rate  to  secondary  level  has  evolved  from  50  percent  in  1993  to  71  percent  in 2007.  Drop-out  rate  from  primary  schools  fell  from  9.6%  in  2000  to  only  1.7%  in  2004  and  has continued to fall subsequently. It is now regarded as being so low as to be insignificant 24 (see Figure 20 below).
 
-> 24 It is noted here however, that there are approximately 500 children (below the age of 16 years) being catered for through programmes implemented by local, regional and international NGOs targeting 'outof-school' youngsters.  However, no official figures exist as to the numbers of children and youngsters under the age of 16 years that are not in school (as required by law).
+> 24 It is noted here however, that there are approximately 500 children (below the age of 16 years) being catered for through programmes implemented by local, regional and international NGOs targeting 'out-of-school' youngsters.  However, no official figures exist as to the numbers of children and youngsters under the age of 16 years that are not in school (as required by law).
 
 Ministry of Education, Culture and Human Resources
 
@@ -2039,6 +2328,23 @@ Ministry of Education, Culture and Human Resources
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 Figure 20: Drop-out Rate (%) from Primary Schools
+10.0
+9.0
+8.0
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.0
+Drop-out Rate from Primary Schools, %
+2000
+2001
+2002
+2003
+2004
 
 The major cause for concern is the deficit in learning outcomes, accumulated right from the early years of primary schooling, for a significant proportion of the children. About 44 percent of Mauritian Grade 6 pupils had not acquired the minimum skills in reading that were required for them to cope with learning at the next grade level. Boys had lower reading skills than girls. Children coming from homes with low socio-economic backgrounds performed less well than those coming from better home  backgrounds (SACMEQ, 2003).
 
@@ -2063,30 +2369,18 @@ Perhaps,  one  of  the  most  interesting  outcomes  of  the  philosophy  upon  
 As  for  special  education  needs,  the  Ministry  does  not  publish  any  data  relating  to  Special  Needs children, but the Ministry's own internal data (see Figure 21 below) show a total of 1,292 children (61% boys)  enrolled  in  all  SEN  schools,  SEN  Day  Care  Centres  and  Government  Units,  whereas  it  is estimated that the total number of SEN children in Mauritius is around 3,000. On this basis, children currently  being  catered  for  in  SEN  schools/units  represent  only  around  43%  of  the  estimated  total population of children with special educational needs and whose needs are not currently being met.
 
 Figure 21: Special Education Needs Enrolments
-
-0
-
-200
-
-400
-
-600
-
-800
-
-1.000
-
-1.200
-
 1.400
-
-All SEN - boys
-
-All SEN - girls
-
-All SEN - total
-
+1.200
+1.000
+800
+600
+400
+200
+0
 2007
+All SEN - boys
+All SEN - girls
+All SEN - total
 
 Ministry of Education, Culture and Human Resources
 
@@ -2128,31 +2422,31 @@ The Overall Goal of Ministry for primary education is to sustain equitable acces
 
 ##### 3.2.3. Critical Challenges
 
-- address the problem of high failure rate at the end of the primary cycle and make public spending on education become more cost-effective
+1. address the problem of high failure rate at the end of the primary cycle and make public spending on education become more cost-effective
 
-- review the purpose of CPE examination
+2. review the purpose of CPE examination
 
-- move towards the elimination of the necessity of and reliance on private tuition
+3. move towards the elimination of the necessity of and reliance on private tuition
 
-- integrate a remedial education programme  in the curriculum
+4. integrate a remedial education programme  in the curriculum
 
-- support the integration of children with special education needs in the regular school system
+5. support the integration of children with special education needs in the regular school system
 
-- gradually phase out ZEP schools with integration of ZEP best practices in all primary schools
+6. gradually phase out ZEP schools with integration of ZEP best practices in all primary schools
 
-- empower  heads  of  schools,  giving  them  more  autonomy  and  increasing  at  the  same  time  their accountability to produce results through the setting up of performance indicators
+7. empower  heads  of  schools,  giving  them  more  autonomy  and  increasing  at  the  same  time  their accountability to produce results through the setting up of performance indicators
 
-- Review policy on automatic promotion
+8. Review policy on automatic promotion
 
 ##### 3.2.4. Strategic Goals
 
-- Improve equity of access to education
+1. Improve equity of access to education
 
-- Provision of quality education to all
+2. Provision of quality education to all
 
-- Achieve gender equality
+3. Achieve gender equality
 
-- Improve efficiency of the school system
+4. Improve efficiency of the school system
 
 Ministry of Education, Culture and Human Resources
 
@@ -2291,7 +2585,7 @@ STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVIT
 2.4. Ensure that all children at lower primary attain minimum level of competency | Remedial education fully integrated in the system by 2015 | 1. Develop remediation plan. 2. Special training for remedial teachers.
 2.5. Embed science culture and support technologies in the system | Reinforce the teaching and learning of Science in all schools. All schools technologically equipped by 2015 | 1. Improve provisions for teaching of Science. 2. Use ICT as a tool for teaching/learning in the classroom. 3. Review and develop instructional materials that are responsive to changing technological needs.
 2.6. Improve the quality of learning environments so that our institutions serve the best interests of all sections of society. | Ten-year infrastructure development plan developed by 2010 | 1. Prepare an infrastructure development plan. 2. Ensure compliance with norms and standards.
-2.7. Provide in-service training for continuous professional development and re- skilling of teachers | Review of teacher education program completed by 2010 and fully operational by 2015 | 1. Review content of training programme by 2010. 2. Include in all pre-service training of school teachers the methodology of bilingualism. 3. Review the profile of teachers so that in 2015 all primary school teachers are at graduate level 4. Train teachers in methods and applications of bilingual education/instruction
+2.7. Provide in-service training for continuous professional development and re-skilling of teachers | Review of teacher education program completed by 2010 and fully operational by 2015 | 1. Review content of training programme by 2010. 2. Include in all pre-service training of school teachers the methodology of bilingualism. 3. Review the profile of teachers so that in 2015 all primary school teachers are at graduate level 4. Train teachers in methods and applications of bilingual education/instruction
 3.Achieve gender equality | 3.1. Achieve gender equality in leaner achievement | Reduce gender gap in performance by 2015 | 1. Revise curricula, learning materials and modes of assessment to make them gender sensitive. 2. Train teachers in gender-sensitive pedagogy.
 
 Ministry of Education, Culture and Human Resources
@@ -2327,6 +2621,24 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 While near universal primary education was attained in the 1960's, substantial expansion in secondary enrolment occurred after 1977, with the provision of free secondary education as part of Government's policy to democratise access to education. Access to secondary schooling depends on success at the Certificate  of  Primary  Education  at  the  end  of  the  primary  cycle.  The  transition  rate  from  Grade  6 (including  repeaters)  to  secondary  education,  both  mainstream  and  pre-vocational,  as  illustrated  in Figure 22, has been rising very significantly, from only 73.3% in 2001 25 to 83.6% in 2007 26 . The private sector predominates in the provision of secondary education, with a 60 percent share of enrolment. It is a  reflection  of  a  longstanding  partnership  between  the  private  and  public  sectors  in  the  provision  of secondary education which has contributed to making the Mauritian education system a major success.
 
 Figure 22: Transition Rate (%) from Grade 6 to all Secondary Education
+90.0
+85.0
+80.0
+75.0
+70.0
+65.0
+Boys,%
+Girls,%
+Total,%
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
 
 The  GER  for  both  secondary  mainstream  and  secondary  pre-vocational  combined  (expressed  as  a percentage of the 12-19 age group) has been rising significantly from a total of 61% in 2001 to 75% in 2006.
 
@@ -2351,6 +2663,28 @@ Enrolments in (mainstream) secondary schools have continued to increase for many
 Total  enrolment  in  secondary  mainstream  classes  depends  not  only  on  the  population  data  for  the relevant age cohorts, but also on success in the CPE examination - the pass rate for which has been rising slowly but steadily (see Figure 23 below). Any decline in secondary mainstream population will concentrate  in  undersubscribed  private  schools 27 whilst  the  proportion  of  children  in  Government schools will continue to increase, at least until 2016 (see Figure 24).
 
 Figure 23: CPE Pass Rates, All School Candidates, Actual and Projected
+80.0
+75.0
+70.0
+65.0
+60.0
+55.0
+Total
+Boys
+Girls
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
 
 > 27 As parents tend to opt for places in Government schools where these are available.
 
@@ -2365,8 +2699,38 @@ Ministry of Education, Culture and Human Resources
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 Figure 24: Secondary School (Mainstream, Government Schools as % of Total)
+45.0
+43.0
+41.0
+39.0
+37.0
+35.0
+33.0
+31.0
+29.0
+27.0
+25.0
+Govt./Total,%
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
 
-In  mainstream secondary school classes, average class size was approximately constant at 34 until 2003, after which it declined to 33 and has then gradually fallen back to 32.7 in 2006. Average pupilteacher ratio fell steadily from 16.0 in 2002 to 14 in 2006.  About 40 percent of the education budget is spent in public financing of secondary education.
+In  mainstream secondary school classes, average class size was approximately constant at 34 until 2003, after which it declined to 33 and has then gradually fallen back to 32.7 in 2006. Average pupil-teacher ratio fell steadily from 16.0 in 2002 to 14 in 2006.  About 40 percent of the education budget is spent in public financing of secondary education.
 
 The main weakness of the secondary sub-sector is  characterised  by  a  high  rate  of  repetition  which occurs mostly at Form IV and Form V levels. In 2006 the repetition rate at Form IV and Form V stood at 18 percent and 28 percent respectively. An equally large percentage (24 percent) leaves school at the end of Form V.
 
@@ -2440,41 +2804,41 @@ Figure 25: Pre-Vocational Enrolment, 1999-2016, Actual and Projected
 
 12.000
 
-1 9 9 9
+1999
 
-2 0 0 0
+2000
 
-2 0 0 1
+2001
 
-2 0 0 2
+2002
 
-2 0 0 3
+2003
 
-2 0 0 4
+2004
 
-2 0 0 5
+2005
 
-2 0 0 6
+2006
 
-2 0 0 7
+2007
 
-2 0 0 8
+2008
 
-2 0 0 9
+2009
 
-2 0 1 0
+2010
 
-2 0 1 1
+2011
 
-2 0 1 2
+2012
 
-2 0 1 3
+2013
 
-2 0 1 4
+2014
 
-2 0 1 5
+2015
 
-2 0 1 6
+2016
 
 Pre-vocational enrolment
 
@@ -2502,43 +2866,43 @@ To  ensure  that  all  students  are  given  the  opportunity  to  successfully 
 
 ##### 3.3.3. Critical Challenges
 
-- Address the issue of quality in the educational provision and delivery.
+1. Address the issue of quality in the educational provision and delivery.
 
-- Provide opportunity for continuous professional development of all school personnel
+2. Provide opportunity for continuous professional development of all school personnel
 
-- Improve of modes of assessment, remediation and control
+3. Improve of modes of assessment, remediation and control
 
-- Ensure greater accountability and transparency in publicly funded institutions
+4. Ensure greater accountability and transparency in publicly funded institutions
 
-- Revisit pre-vocational education to make it an integral part of secondary schooling
+5. Revisit pre-vocational education to make it an integral part of secondary schooling
 
-- Address the problem of absenteeism  and private tuition at all levels
+6. Address the problem of absenteeism  and private tuition at all levels
 
-- Empower heads of schools through the provision of more autonomy and increase accountability in the system of secondary schooling
+7. Empower heads of schools through the provision of more autonomy and increase accountability in the system of secondary schooling
 
 ##### 3.3.4. Strategic Goals
 
-- Improve completion rate at upper secondary level and minimise wastage  at secondary education level
+1. Improve completion rate at upper secondary level and minimise wastage  at secondary education level
 
-- Improve all aspects of quality education through measurable learning outcomes
+2. Improve all aspects of quality education through measurable learning outcomes
 
-- Undertake regular review of curricula to respond to emerging needs of the economy and society
+3. Undertake regular review of curricula to respond to emerging needs of the economy and society
 
-- Ensure that students obtain optimal opportunity for academic and self-development
+4. Ensure that students obtain optimal opportunity for academic and self-development
 
-- Introduce support technology in the system
+5. Introduce support technology in the system
 
-- Provide continuous in-service training of school personnel at all levels
+6. Provide continuous in-service training of school personnel at all levels
 
-- Increase access to secondary education to children with special education needs
+7. Increase access to secondary education to children with special education needs
 
-- Improve effectiveness of secondary school management system
+8. Improve effectiveness of secondary school management system
 
-- Ensure equity among publicly-funded schools
+9. Ensure equity among publicly-funded schools
 
-- Create a strong Quality Assurance system to secure internal efficiency and quality teaching and learning
+10. Create a strong Quality Assurance system to secure internal efficiency and quality teaching and learning
 
-- Develop a decentralized management and delivery system that supports greater community participation
+11. Develop a decentralized management and delivery system that supports greater community participation
 
 Ministry of Education, Culture and Human Resources
 
@@ -2621,7 +2985,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-4.Ensure that students obtain optimal opportunity for academic and self- development | Strategies for provision of optimal opportunity for teaching and learning in place in schools | All schools provide ample opportunity for learning through a restructure of delivery within schools Examination at Form III level operational by 2012 Processes to reduce absenteeism defined and a monitoring mechanism put in place as from 2010. All schools engage students in co/extra- curricular activities | Review school timetable to include ample opportunity for teaching and learning to be viewed as effective for all students. Define and introduce modalities of Form III examination. Modus-Operandi to reduce absenteeism worked out Promote active participation of students in co/extra- curricular activities as a compulsory requirement for the Leaving Certificate
+4.Ensure that students obtain optimal opportunity for academic and self-development | Strategies for provision of optimal opportunity for teaching and learning in place in schools | All schools provide ample opportunity for learning through a restructure of delivery within schools Examination at Form III level operational by 2012 Processes to reduce absenteeism defined and a monitoring mechanism put in place as from 2010. All schools engage students in co/extra-curricular activities | Review school timetable to include ample opportunity for teaching and learning to be viewed as effective for all students. Define and introduce modalities of Form III examination. Modus-Operandi to reduce absenteeism worked out Promote active participation of students in co/extra-curricular activities as a compulsory requirement for the Leaving Certificate
 5. Introduce support technology in the system | ICT introduced in all schools for use by all Educators | ICT Plan developed for secondary schools by 2010 ICT used across the system by 2015 | 1. To provide ICT facilities to ensure that all teachers use ICT facilities on a regular basis for teaching and learning 2. Make provision for wider use of online materials and Knowledge Channel 3. All students leaving secondary are equipped with ICT skills to adapt to the requirements of future needs of independent learning.
 
 Ministry of Education, Culture and Human Resources
@@ -2636,8 +3000,8 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-6. Continuous in- service training of school personnel at all levels | Continuous In-service training becomes a requirement for all school personnel | Schools gradually include continuous professional development as from 2010 and fully integrated as from 2011. | 1. Put in place diverse models of continuous professional development 2. Teachers trained to be polyvalent with the ability to teach more than one subject.
-7. Increase access to secondary education to children with special education needs | Provision for increase access to students with learning difficulties and special education needs | PVE to become an integral part of mainstream by 2015. Increased integration of students with special education needs | 1. Pursue further the policy for the integration of students with special education needs and learning difficulties 2. Provide schools with the required infrastructure 3. Train a larger number of teachers in the sub-sector 4. Adapt curriculum to suit
+6. Continuous in-service training of school personnel at all levels | Continuous In-service training becomes a requirement for all school personnel | Schools gradually include continuous professional development as from 2010 and fully integrated as from 2011. | 1. Put in place diverse models of continuous professional development 2. Teachers trained to be polyvalent with the ability to teach more than one subject.
+7. Increase access to secondary education to children with special education needs | Provision for increase access to students with learning difficulties and special education needs | PVE to become an integral part of mainstream by 2015. Increased integration of students with special education needs | 1. Pursue further the policy for the integration of students with special education needs and learning difficulties 2. Provide schools with the required infrastructure 3. Train a larger number of teachers in the sub-sector 4. Adapt curriculum to suit students with special needs
 8.Improve effectiveness of secondary school management system | Enhance management capacity at school | All school leaders provided with training and support for better administration of schools as well as better supervision of teaching and learning. | 1. Review the role of Head of Schools 2. Build capacity of Heads of Schools in School Leadership and Management and pedagogical supervision at school level 3. Recognise and disseminate best practices
 
 Ministry of Education, Culture and Human Resources
@@ -2652,9 +3016,9 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-9. Ensure equity among publicly- funded schools | Funding provided to ensure equity | Operations and management framework of publicly-funded schools reviewed | Monitor unit cost of secondary education and make periodic adjustment
+9. Ensure equity among publicly-funded schools | Funding provided to ensure equity | Operations and management framework of publicly-funded schools reviewed | Monitor unit cost of secondary education and make periodic adjustment
 10. Create a strong Quality Assurance system to secure internal efficiency and quality teaching and learning | Quality assurance mechanisms developed and operational | Quality assurance systems and processes in place by 2010 and fully operational by 2015 | 1. Setting up of Quality Assurance Division 2. Develop relevant norms and standards
-11. Develop a decentralized management and delivery system that supports greater community participation | Effective decentralization in decision-taking through the involvement of the community is in place. | Decentralization policy developed by 2010 and phased in implementation to begin by 2011 | 1.Setting up of a system of governorship for schools 2. Ensure that schools enjoy the required degree of autonomy for school management and pedagogical issues 3. Encourage schools to move towards financial autonomy and revenue- raising 4. To encourage sharing of resources between schools 5. Setting up of a school- based performance management system
+11. Develop a decentralized management and delivery system that supports greater community participation | Effective decentralization in decision-taking through the involvement of the community is in place. | Decentralization policy developed by 2010 and phased in implementation to begin by 2011 | 1.Setting up of a system of governorship for schools 2. Ensure that schools enjoy the required degree of autonomy for school management and pedagogical issues 3. Encourage schools to move towards financial autonomy and revenue-raising 4. To encourage sharing of resources between schools 5. Setting up of a school-based performance management system
 
 Ministry of Education, Culture and Human Resources
 
@@ -2672,7 +3036,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 School staff development had for a long time placed emphasis primarily on teacher education which was the central concern of the government in the early 1970s. Prior to this period, the only institution dedicated to teacher training was the Teachers Training College (TTC) which provided pre-service teacher training for the primary school sub-sector. With the felt need for professional teacher training, the Mauritius Institute of Education (MIE), set up in 1973, was mandated 'to provide facilities and to engage in educational research, curriculum development and teacher education ….' (MIE Act, 1973:2).
 
-In keeping with the requirements of the time, in the primary sub-sector, priority was  at the outset given to pre-service as well as in-service training for teachers, and, later, for deputy heads, head teachers and the inspectorate cadre, with pre-service Certificate, in-service Advanced Certificate and Diploma programmes. It  was  only  later  in  1992  that  the  Advanced  Certificate  was  introduced  on  a  mixed  mode  for  in-service primary school teachers. Lately, with the shift to pre-service Diploma for all new entrants to the primary sub-sector (as from 2003), a diploma on a mixed mode, face to face and distance, is being offered to all inservice teachers (holders of the Advanced Certificate in Education) in association with the IGNOU (Indira Gandhi National Open University) from India.
+In keeping with the requirements of the time, in the primary sub-sector, priority was  at the outset given to pre-service as well as in-service training for teachers, and, later, for deputy heads, head teachers and the inspectorate cadre, with pre-service Certificate, in-service Advanced Certificate and Diploma programmes. It  was  only  later  in  1992  that  the  Advanced  Certificate  was  introduced  on  a  mixed  mode  for  in-service primary school teachers. Lately, with the shift to pre-service Diploma for all new entrants to the primary sub-sector (as from 2003), a diploma on a mixed mode, face to face and distance, is being offered to all in-service teachers (holders of the Advanced Certificate in Education) in association with the IGNOU (Indira Gandhi National Open University) from India.
 
 Free  secondary  education  was  introduced  as  from  January  1977  and  the  gradual  expansion  in  the provision of secondary education by the State alongside private providers required further improvement in the  training  aspect,  particularly  in  view  of  the  wide  disparity  in  qualifications,  especially  among  teachers employed  in  private  secondary  schools.  Certificate  courses  were  thus  offered  for  SC  holders,  Diploma Courses for  HSC  holders  and  Post  Graduate  Certificate  in  Education  (PGCE)  for  University  Graduates. This allowed the education sector to get its first  batch of  trained  secondary  teachers  by  the  mid  1970s. Gradually, the quality of teaching force improved in private secondary schools; graduates of the MIE found employment in State Schools as well as in secondary schools in countries like Seychelles and Zimbabwe, Botswana and Papua New Guinea.
 
@@ -2688,11 +3052,77 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 Figure 26: Student population at the MIE -1976 to 2008
 
+Number
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+3500
+
+4000
+
+4500
+
+5000
+
+5500
+
+1
+
+3
+
+5
+
+7
+
+9
+
+11
+
+13
+
+15
+
+17
+
+19
+
+21
+
+23
+
+25
+
+27
+
+29
+
+31
+
+33
+
+Year 1 (1976) to Year 33 (2008)
+
+Student on campus each year
+
+Students Registered per year
+
 Continual reforms in education over the years, however, have created new challenges, not only for the MIE, but  also  for  the  other  partners  in  teacher  education,  namely,  the  Mahatma  Gandhi  Institute  for  Asian Languages and the Mauritius  College  of  the  Air  which  provides  a  wide  range  of  inputs  for  audio  visual support for all stakeholders in education.
 
 A  case  in  point  is  the  Early  Childhood  Care  and  Education  sub-sector  which  provides  an  interesting illustration of the willingness of the training process to adjust to shifting realities.
 
-Formerly,  since  the  pre-primary  education  was  not  free  as  was  the  case  for  primary  and  secondary education, the qualification of teachers was not centrally regulated until the creation of the Pre-School Trust Fund in 1993. A very wide disparity in the initial qualification of the teachers already in service in private schools existed, with many of them not possessing any secondary school qualification. This necessitated levelling of the qualification of all pre-primary school personnel through a proficiency certificate programme; it  subsequently  allowed  entry  to  a  Certificate  in  Pre-Primary  Education  programme.  Today,  many  preprimary  teachers  have  already  completed  the  certificate  programme  -  though  the  programme  is  still  on offer.  A  further  boost  to  upgrade  the  quality  of  pre-primary  schools  is  expected  through  training  of  preprimary School Supervisors which is underway.
+Formerly,  since  the  pre-primary  education  was  not  free  as  was  the  case  for  primary  and  secondary education, the qualification of teachers was not centrally regulated until the creation of the Pre-School Trust Fund in 1993. A very wide disparity in the initial qualification of the teachers already in service in private schools existed, with many of them not possessing any secondary school qualification. This necessitated levelling of the qualification of all pre-primary school personnel through a proficiency certificate programme; it  subsequently  allowed  entry  to  a  Certificate  in  Pre-Primary  Education  programme.  Today,  many  pre-primary  teachers  have  already  completed  the  certificate  programme  -  though  the  programme  is  still  on offer.  A  further  boost  to  upgrade  the  quality  of  pre-primary  schools  is  expected  through  training  of  pre-primary School Supervisors which is underway.
 
 Nowadays, the gradual shift in perspective has become more perceptible: while the traditional pre-service and in-service  teacher  education  as  well  as  curriculum  development  responsibility  of  the  MIE  still  holds sway,  there  is  the  confirmation  of  the  further  imperative  to  embark  not  only  on  high  level  professional programmes  like  B.Ed  and  Masters  in  Education  including  the  mandatory  pre-entry  programme  for secondary graduates - the Educator's License 30 -, but also on the development of new training packages
 
@@ -2742,11 +3172,11 @@ The Mauritius Institute of Education, the main body in charge of teacher trainin
 
 The transformation is also further and clearly reflected by new pressing urgencies for capacity building in such areas as Pre-Vocational Education and, Special Needs Education. Indeed, the publication of the Pay Research  Bureau  (PRB)  Report  2008  makes  a  number  of  recommendations  which  have  four-pronged implications for capacity building through training programmes. These relate to:
 
-(i) Upgrading of skills and competencies of teachers through insistence on an all-diploma teaching workforce for the primary sub-sector and the necessity for all new entries to the secondary subsector to possess an Educator's License as well as the compulsion for all Secondary School teachers in service to possess a PGCE for eligibility to promotional positions;
+(i) Upgrading of skills and competencies of teachers through insistence on an all-diploma teaching workforce for the primary sub-sector and the necessity for all new entries to the secondary sub-sector to possess an Educator's License as well as the compulsion for all Secondary School teachers in service to possess a PGCE for eligibility to promotional positions;
 
 (ii) Targeting  Special  Education  Needs through  the  creation  of  the  posts  of  'Trainee  Educator, Special Education Needs' and 'Special Education Needs Teachers' working closely with the class teacher;
 
-(iii) Leadership and educational management with emphasis for potential incumbents to possess a Diploma  in  Educational  Management,  a  PGCE  or  a  Master  in  Educational  Leadership  & Management  or  again,  a    Certificate  in  school  management  for  school  superintendentssecondary; and
+(iii) Leadership and educational management with emphasis for potential incumbents to possess a Diploma  in  Educational  Management,  a  PGCE  or  a  Master  in  Educational  Leadership  & Management  or  again,  a    Certificate  in  school  management  for  school  superintendents-secondary; and
 
 Ministry of Education, Culture and Human Resources
 
@@ -2768,37 +3198,37 @@ Facilitating  professional  development  of  all  personnel,  and  increasing  e
 
 ##### 3.4.3. Critical Challenges
 
-- Improve the professional qualification of all cadres in primary and secondary schools
+1. Improve the professional qualification of all cadres in primary and secondary schools
 
-- Provide suitably qualified personnel with sound pedagogical and administrative skills and competencies.
+2. Provide suitably qualified personnel with sound pedagogical and administrative skills and competencies.
 
-- Develop capacity for improved leadership skills for effective management of schools
+3. Develop capacity for improved leadership skills for effective management of schools
 
-- Develop focused programmes for dealing with emerging issues and problems including indiscipline.
+4. Develop focused programmes for dealing with emerging issues and problems including indiscipline.
 
-- Infuse a culture of continuous professional development among school personnel through mandatory attendance at workshops and training seminars during school holidays
+5. Infuse a culture of continuous professional development among school personnel through mandatory attendance at workshops and training seminars during school holidays
 
-- Empower schools to take up responsibility for in-house professional development of all staff and the development of a strong community of practice within schools.
+6. Empower schools to take up responsibility for in-house professional development of all staff and the development of a strong community of practice within schools.
 
-- Develop a career path for school personnel through increased opportunity to engage in professional development
+7. Develop a career path for school personnel through increased opportunity to engage in professional development
 
-- Make  schools  become  true  institutions  of  learning  with  a  view  to  reducing  dependence  on  private tuition.
+8. Make  schools  become  true  institutions  of  learning  with  a  view  to  reducing  dependence  on  private tuition.
 
-- Develop a culture of research among school personnel and infuse findings from teacher research for the betterment of schools.
+9. Develop a culture of research among school personnel and infuse findings from teacher research for the betterment of schools.
 
-- Strengthen the function of curriculum development along with teacher education and research.
+10. Strengthen the function of curriculum development along with teacher education and research.
 
 ##### 3.4.4. Strategic Goals
 
-- Offer  a  wide  range  of  responsive,  flexible,  high  quality  and  challenging  teacher  education programmes in line with international norms and standards
+1. Offer  a  wide  range  of  responsive,  flexible,  high  quality  and  challenging  teacher  education programmes in line with international norms and standards
 
-- Give a greater thrust to special education needs
+2. Give a greater thrust to special education needs
 
-- Ensure transferability, sustainability of training undertaken by teachers, recognition and dissemination of good practices through the creation of a community of practice at school level
+3. Ensure transferability, sustainability of training undertaken by teachers, recognition and dissemination of good practices through the creation of a community of practice at school level
 
-- Strengthen partnership with all stakeholders in education for effective support of teaching and learning in schools
+4. Strengthen partnership with all stakeholders in education for effective support of teaching and learning in schools
 
-- Ensure accountability of school leaders
+5. Ensure accountability of school leaders
 
 Ministry of Education, Culture and Human Resources
 
@@ -2810,15 +3240,15 @@ Ministry of Education, Culture and Human Resources
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
-- Review entry qualifications and modes of selection for all cadres in education and increase opportunity for continuous professional development in the sector
+6. Review entry qualifications and modes of selection for all cadres in education and increase opportunity for continuous professional development in the sector
 
-- Further strengthen and develop Distance Education
+7. Further strengthen and develop Distance Education
 
-- Develop a comprehensive HR Strategy for training in the sector
+8. Develop a comprehensive HR Strategy for training in the sector
 
-- Further invest in Strategic and Action Research in education
+9. Further invest in Strategic and Action Research in education
 
-- Strengthen MIE as an Institution of excellence in Teacher Education, Research and Curriculum Development
+10. Strengthen MIE as an Institution of excellence in Teacher Education, Research and Curriculum Development
 
 ##### 3.4.5. Summary of Strategic Activities
 
@@ -2878,9 +3308,9 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-1. Offer a wide range of responsive, flexible, high quality and challenging teacher education programmes in line with | 1.1. Develop national standards for teacher education at all levels. | National Standards approved and operational by 2010. | Set up work team to develop national standards
-international norms and | 1.2. Revisit existing and develop new programmes in response to identified and emerging needs | Programmes revisited and developed. | Setting up of a standing committee that will also consult stakeholders.
-standards. | 1.3. Accelerate frequency of courses through diversified modes of delivery, including a significant input of ICT. | 50% of courses offered will incorporate ICT support by 2010. | Online and interactive system in place. Instructional designing, piloting and consolidation of online support.
+1. Offer a wide range of responsive, flexible, high quality and challenging teacher education programmes in line with international norms and standards. | 1.1. Develop national standards for teacher education at all levels. | National Standards approved and operational by 2010. | Set up work team to develop national standards
+1.2. Revisit existing and develop new programmes in response to identified and emerging needs | Programmes revisited and developed. | Setting up of a standing committee that will also consult stakeholders.
+1.3. Accelerate frequency of courses through diversified modes of delivery, including a significant input of ICT. | 50% of courses offered will incorporate ICT support by 2010. | Online and interactive system in place. Instructional designing, piloting and consolidation of online support.
 1.4. Accreditation of training programmes with international institutions in order to ensure their currency and recognition worldwide. | Links with International Institutions of repute established for ensuring external accreditation of all training programmes by 2012 | Establish links for external accreditation of programmes
 1.5. Setting up of a Educator's Council | Educator's Council in place in 2010 | Consultation with stakeholders for development of a legislative and institutional framework.
 
@@ -2897,8 +3327,8 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/INDICATORS | ACTIVITIES
 --- | --- | --- | ---
 2. Give a greater thrust to special education needs | 2.1. Implementation of Special Needs Policy for disabled children, children with learning difficulties as well as gifted children | Special Needs policy finalised and operational in 2010 | 1. Consultation on Special Needs Policy for children with Learning Difficulties and gifted Children. 2. Capacity building and training programmes mounted.
-All teacher education programmes have Special Needs components by 2010 | Provision of resources for effective implementation of special needs
-Remediation system in place in 5 percent schools by 2010. System tested, improved and fully operational in 20% of the schools by 2011. Remediation system fully operational in all schools in 2012. | education. Remedial Education teachers trained and posted in all schools. Continuous support and follow up of Remedial Education teachers in schools.
+All teacher education programmes have Special Needs components by 2010 | Provision of resources for effective implementation of special needs education.
+Remediation system in place in 5 percent schools by 2010. System tested, improved and fully operational in 20% of the schools by 2011. Remediation system fully operational in all schools in 2012. | Remedial Education teachers trained and posted in all schools. Continuous support and follow up of Remedial Education teachers in schools.
 2.2. Provision of counselling services in schools | Counselling services piloted in 2008/09 and fully operational by 2011. | 1. Piloting and generalising Counselling Services. 2.School personnel initiated into making effective use of counselling services
 2.3. Devise a policy for involvement of parents and other stakeholders as partners for supporting children with special needs | Policy approved by end of 2008 and operational in 2010. | Legal framework and institutional guidelines in place and operational.
 
@@ -2912,9 +3342,9 @@ Ministry of Education, Culture and Human Resources
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
-STRATEGIC | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/INDICATORS | ACTIVITIES
+STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-GOALS 3. Ensure transferability, sustainability of training undertaken by teachers, recognition and dissemination of good practices, through the creation of a community of practice at school level. | 3.1. Develop a follow-up system to support trained teachers at school | School Heads, Mentors and Rectors trained to provide pedagogical leadership | Training of Head Teachers, mentors and Secondary School Rectors as well as Inspectors.
+3. Ensure transferability, sustainability of training undertaken by teachers, recognition and dissemination of good practices, through the creation of a community of practice at school level. | 3.1. Develop a follow-up system to support trained teachers at school | School Heads, Mentors and Rectors trained to provide pedagogical leadership | Training of Head Teachers, mentors and Secondary School Rectors as well as Inspectors.
 3.2. Creation of a Quality Assurance (QA) Division | QA cadre recruited and trained by 2010. | Appointment, training and support for QA cadre set up.
 QA system fully operational in 2011. | 1. Legal framework in place. 2. Stakeholders informed and system operational.
 3.3. Establish a networking and reporting mechanism that feeds back into the process of curriculum development and teacher training. | QA ensure monitoring and feedback on pedagogical practices | Director in charge of QA ensures effective reporting and feedback system in place.
@@ -2933,8 +3363,8 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-4. Strengthen partnership with all stakeholders in education for effective support of teaching and learning in | 4.1. Devise and implement school/community outreach programmes involving all stakeholders. | School/Community outreach programme fully operational in 2011 | School/Community outreach programme designed and piloted in 2010
-schools. | 4.2. Infusion of school community component in all teacher education programmes. | Trainee teachers engage in school community outreach programme 25% by 2011 50% by 2012 100% by 2013 | Policy to facilitate such infusion at school level devised and approved
+4. Strengthen partnership with all stakeholders in education for effective support of teaching and learning in schools. | 4.1. Devise and implement school/community outreach programmes involving all stakeholders. | School/Community outreach programme fully operational in 2011 | School/Community outreach programme designed and piloted in 2010
+4.2. Infusion of school community component in all teacher education programmes. | Trainee teachers engage in school community outreach programme 25% by 2011 50% by 2012 100% by 2013 | Policy to facilitate such infusion at school level devised and approved
 4.3. Develop Parental Education programme | Ministry, jointly with MIE and MCA, develops Parental Education programme. Piloted in 2010 and fully operational in 2011 | Development of parental education programme using distance mode. Sensitisation of all key stakeholders.
 4.4. Reinforce partnership between different stakeholders in education so that they all work towards a common goal. | Collaboration between MIE, QA division, Zone Directors, Heads of Schools, Managers of Schools, NGOs and other stakeholders | Ministry facilitates collaboration and ensures that all stakeholders collaborate through a virtual platform, as well as a bi-annual meeting of all stakeholders.
 5. Ensure accountability of school leaders. | 5.1. Devise policy for performance management so as to ensure accountability of all personnel within the system of education. | Performance Management System (PMS) in place. Pilot basis in 2009. Fully operational in 2010. | Development and dissemination of PMS
@@ -2953,7 +3383,7 @@ STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/INDICATORS | ACTIVITI
 --- | --- | --- | ---
 5.2. Ensure that school leaders are given autonomy, decision making power and are made accountable for the proper management of the school. | Guidelines in place. Schools leaders apprised and trained. Operational by 2010 | Guidelines developed and communicated. Workshop for training of personnel.
 5.3. Ensure that all schools have a School Developmental Plan (SDP) that involves all cadres | SDP in place as from 2009 | School leaders trained to develop their respective SDP
-6. Review entry qualifications and modes of selection for all cadres in education and increase opportunity for continuous professional development in the sector. | 6.1. By 2010 entry qualification in Pre- Primary sub-sector will be an 'O' level plus Pre-Primary Certificate in Education. Subsequently entry qualification will be 'A' level. | New Entry Qualification in place | Entry qualifications reviewed and agreed with all key stakeholders by end of 2009.
+6. Review entry qualifications and modes of selection for all cadres in education and increase opportunity for continuous professional development in the sector. | 6.1. By 2010 entry qualification in Pre-Primary sub-sector will be an 'O' level plus Pre-Primary Certificate in Education. Subsequently entry qualification will be 'A' level. | New Entry Qualification in place | Entry qualifications reviewed and agreed with all key stakeholders by end of 2009.
 6.2. By 2018 it is desirable that entry requirement be upgraded in primary sub-sector to a B.Ed in Primary Education. | Entry qualification upgraded in phases: 2012: All Diploma 2014: 25% Degree 2016: 50% Degree 2018: All Degree | Phased changes as from 2010
 6.3. All in-service teachers in secondary schools should have a post degree professional qualification in education. | 2010: All Degree 2012: 50% Degree plus PGCE/B.Ed 2014: 100% PGCE/B.Ed | Diverse modes of training.
 
@@ -2969,7 +3399,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-6.4. Reinforcement of pre-service training in the secondary sub- sector | Additional boost to Educator's licence, Pre-Service PGCE, Teacher's Diploma and B.Ed | Programmes reviewed and on offer regularly
+6.4. Reinforcement of pre-service training in the secondary sub-sector | Additional boost to Educator's licence, Pre-Service PGCE, Teacher's Diploma and B.Ed | Programmes reviewed and on offer regularly
 6.5. Provide a variety of pathways for all personnel in education for Continuous Professional Development (CPD) | Pathways defined Policy for CPD in place | Policy developed and approved.
 7. Further strengthen and develop Distance Education | 7.1. Develop a comprehensive plan for inclusion of distance mode in teacher education | Mixed mode including DE mode in place and fully operational by 2010 | Plan for phased inclusion of DE mode developed.
 7.2. Additional technical and pedagogical facilities for development of materials used for distance learning programme for teachers at the MIE. | Mixed mode in place in a phased manner as from 2010 | Provision of infrastructural and financial facilities for developing MIE's Unit of Distance Learning.
@@ -3009,7 +3439,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 The importance of the quality of the workforce in order to sustain economic and social development in Mauritius is widely recognised by all stakeholders.
 
-Technical  and  Vocational  Education  and  Training  (TVET)  is  increasingly  resorted  to  as  a  policy instrument to address the need for skilled manpower in both existing and emerging economic sectors to be able to compete globally.  It is also called upon to play an active role in the fight against poverty. The target population is increasing in diversity and encompasses both labour market entrants and inservice members, with wide ranging educational and social characteristics.
+Technical  and  Vocational  Education  and  Training  (TVET)  is  increasingly  resorted  to  as  a  policy instrument to address the need for skilled manpower in both existing and emerging economic sectors to be able to compete globally.  It is also called upon to play an active role in the fight against poverty. The target population is increasing in diversity and encompasses both labour market entrants and in-service members, with wide ranging educational and social characteristics.
 
 Changing technology and work organisation calls for continuous upgrading of knowledge and skills, in a lifelong learning environment.  The TVET system needs to respond to all these challenges.
 
@@ -3021,7 +3451,7 @@ Some of the training programmes offered by the IVTB and the TSMTF have the same 
 
 In addition to the two main public providers of TVET (IVTB and TSMTF) there are about 350 private training  institutions,  registered  with  the  Mauritius  Qualifications  Authority  (MQA),  which  offer  training, mainly in management and information technology.
 
-Enrolment in TVET classes has been rising steadily, with total enrolment in all classes - at all levels rising to reach 8,590 in 2007 and predicted to continue to increase steadily in future years (see Figure 27 below).
+Enrolment in TVET classes has been rising steadily, with total enrolment in all classes - at all levels - rising to reach 8,590 in 2007 and predicted to continue to increase steadily in future years (see Figure 27 below).
 
 Ministry of Education, Culture and Human Resources
 
@@ -3083,7 +3513,7 @@ NTC Foundation
 
 Total
 
-f uture potential demand f or TVET enrolment**
+future potential demand for TVET enrolment**
 
 However, it is  estimated  that,  due  to  the  lack  of  capacity  in  terms  of  both  facilities  and  trainers,  the unmet demand for places on TVET courses is very high and predicted to continue to rise if the capacity to meet this demand is not met.  Currently, it is estimated that less than 50% of demand is being met. Needless to say, this will have an ultimate impact on the labour market needs in the medium and long term.
 
@@ -3133,7 +3563,7 @@ In addition to responding to the needs of the new labour market, TVET is increas
 
 ###### 3.5.1.1. Policies
 
-The  Government  Programme  (2005-2010)  states  that  educational reforms  must include skills enhancement  and  vocational  training  as  part  of  the  universal  provision  of  quality  education.  It  also mentions the setting up of new polytechnics (Instituts de Formation et d'Education Tertiaire - IFETs) which will provide post-SC training leading to a Higher National Diploma in areas like tourism, agroindustry, electronics and information technology.
+The  Government  Programme  (2005-2010)  states  that  educational reforms  must include skills enhancement  and  vocational  training  as  part  of  the  universal  provision  of  quality  education.  It  also mentions the setting up of new polytechnics (Instituts de Formation et d'Education Tertiaire - IFETs) which will provide post-SC training leading to a Higher National Diploma in areas like tourism, agro-industry, electronics and information technology.
 
 As part of the reform in TVET, the legal and institutional framework will be reviewed to provide for only one body to be responsible for the management of TVET, i.e, the Mauritius Institute of Training and Development (MITD) .This will address, inter alia, the issue of duplication between the IVTB and the TSMTF. It will also ensure a judicious allocation of resources and greater accountability. Some IFETS will be operating under the aegis of the MITD.
 
@@ -3237,7 +3667,7 @@ Ministry of Education, Culture and Human Resources
 
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-1. Increased access and improved equity in TVET | 1.1. To increase access to TVET for both youth and adults | Total enrolment on full- time, part-time, and apprenticeship increased by 50% by 2011 and doubled by 2015 | 1. Expand training through the Apprenticeship mode 2. Design,develop and run flexible programmes with multiple entry and exit 3. Setting up of IFETs 4. Setting up of new Training Centres 5. Reinforce professional orientation and counselling in TVET 6. Design,develop,and implement Second Chance programme 7.Conversion of ex-BAT facilities into a Knowledge Based Training Centre
+1. Increased access and improved equity in TVET | 1.1. To increase access to TVET for both youth and adults | Total enrolment on full-time, part-time, and apprenticeship increased by 50% by 2011 and doubled by 2015 | 1. Expand training through the Apprenticeship mode 2. Design,develop and run flexible programmes with multiple entry and exit 3. Setting up of IFETs 4. Setting up of new Training Centres 5. Reinforce professional orientation and counselling in TVET 6. Design,develop,and implement Second Chance programme 7.Conversion of ex-BAT facilities into a Knowledge Based Training Centre
 1.2. To implement training programmes for targeted disadvantaged groups | Total female enrolment increased to 40% in 2020 Increased enrolment of disadvantaged groups | 1. Encourage female participation in all training programmes 2. Develop and implement bridging courses for low achieving students
 
 [[END OF PAGE 103]]
@@ -3264,7 +3694,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-2. Review curricula to make them more demand-driven and, wherever applicable, incorporate an element of industrial placement as part of the programme 3. Increase flexibility of curricula 4. Improve training evaluation mechanism 5. Strengthen quality assurance system 6. Upgrade technical and pedagogical skills of trainers 7. Introduce entrepreneurship module on TVET programmes 8. Review norms and standards to ensure that quality of training
+2. Review curricula to make them more demand-driven and, wherever applicable, incorporate an element of industrial placement as part of the programme 3. Increase flexibility of curricula 4. Improve training evaluation mechanism 5. Strengthen quality assurance system 6. Upgrade technical and pedagogical skills of trainers 7. Introduce entrepreneurship module on TVET programmes 8. Review norms and standards to ensure that quality of training institutions/programmes are of international standards
 4. Strengthen Management of TVET System | 4.1. To ensure more effective coordination of public provision of TVET 4.2. Strengthen public-private partnership | MITD to become effectively operational in 2009. An enhanced quality management system in place by 2010 | 1. Setting up of MITD 2. Ensure greater autonomy and active participation of private sector in the management of training centres
 
 Ministry of Education, Culture and Human Resources
@@ -3333,7 +3763,7 @@ Tertiary Education is expected to contribute significantly to building the skill
 
 The  Tertiary  Education  Set-up: The  Mauritian  tertiary  education  landscape  has  made  major  strides since  the  country's  accession  to  its  independence  in  1968,  when  there  existed  only  one  tertiary institution in the country, namely, the then newly created University of Mauritius.  This sub-sector today encompasses  two  public  universities,  two  polytechnics  and  a  range  of  other  publicly-funded  tertiary education institutions, as well as a number of private, regional and overseas institutions.  Each of these institutions has its own specificity, some providing tertiary education in a wide range of disciplines and levels, while others focus their activities on only one or two areas, at certain levels.   A number of these institutions are based overseas, with their provisions made available through a local partner by means of the distance education mode.
 
-Within  the  public  sector,  tertiary  education  revolves  around  the  University  of  Mauritius  (UOM),  the University  of  Technology,  Mauritius  (UTM),  the  Mauritius  Institute  of  Education  (MIE),  the  Mahatma Gandhi Institute (MGI), the Rabindranath Tagore institute (RTI), the Mauritius College of the Air (MCA). Overseeing the six  tertiary  education  institutions  (TEIs)  is  the  Tertiary  Education  Commission  (TEC) which, inter alia, has responsibility for allocating public funds, and fostering, planning and coordinating the  development  of  post-secondary  education  and  training.  The  TEC  has  since  2005  also  been mandated to implement a regulatory framework for ensuring the quality of post-secondary education, and determine the recognition and equivalence of post-secondary qualifications. As per the regulatory framework  provided  through  the  amendments  in  the  TEC  Act  in  2005,  the  TEC  is  responsible  for dealing  with  all  applications  for  the  establishment  of  private  institutions,  or  branches,  centres  or campuses of overseas institutions offering post-secondary education in Mauritius. Furthermore, no post-secondary  educational  institution  can  operate  without  being  registered  and  its  programmes accredited by the TEC.
+Within  the  public  sector,  tertiary  education  revolves  around  the  University  of  Mauritius  (UOM),  the University  of  Technology,  Mauritius  (UTM),  the  Mauritius  Institute  of  Education  (MIE),  the  Mahatma Gandhi Institute (MGI), the Rabindranath Tagore institute (RTI), the Mauritius College of the Air (MCA). Overseeing the six  tertiary  education  institutions  (TEIs)  is  the  Tertiary  Education  Commission  (TEC) which, inter alia, has responsibility for allocating public funds, and fostering, planning and coordinating the  development  of  post-secondary  education  and  training.  The  TEC  has  since  2005  also  been mandated to implement a regulatory framework for ensuring the quality of post-secondary education, and determine the recognition and equivalence of post-secondary qualifications. As per the regulatory framework  provided  through  the  amendments  in  the  TEC  Act  in  2005,  the  TEC  is  responsible  for dealing  with  all  applications  for  the  establishment  of  private  institutions,  or  branches,  centres  or campuses of overseas institutions offering post-secondary education in Mauritius. Furthermore, no
 
 Ministry of Education, Culture and Human Resources
 
@@ -3344,6 +3774,8 @@ Ministry of Education, Culture and Human Resources
 [[START OF PAGE 110]]
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
+
+post-secondary educational institution can operate without being registered and its programmes accredited by the TEC.
 
 Two polytechnics, managed by the TSMTF also operate within the public sector.  They are the Swami Dayanand Institute of Management (SDIM) and the 'Institut Superieur de Technologie' (IST).  The IVTB and  the  Mauritius  Institute  of  Health  (MIH)  equally  dispense  tertiary  level  programmes  in  selected areas.
 
@@ -3443,6 +3875,8 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 However, characteristic  of  this  sub-sector  is  that  there  is  a  very  high  demand  that  is  not  being  met nationally,  'forcing'  a  very  large  number  of  young  Mauritians  (currently  totalling  9,531)  to  seek  study opportunities  abroad.    These  students  are  primarily  self-financed.  The  total  demand  for  tertiary  level education is predicted to increase from the present 35,023 to some 77,000 by 2015. This is shown in Table 1 below:
 
+Table 1: Projected enrolment in Tertiary Education 2008 -2015
+
 YEAR | PROJECTED TERTIARY EDUCATION ENROLMENT | PROJECTED GTER
 --- | --- | ---
 2008 | 38,008 | 41.1%
@@ -3453,8 +3887,6 @@ YEAR | PROJECTED TERTIARY EDUCATION ENROLMENT | PROJECTED GTER
 2013 | 63,203 | 59.1%
 2014 | 69,970 | 64.9%
 2015 | 77,461 | 72.0%
-
-Table 1: Projected enrolment in Tertiary Education 2008 -2015
 
 As a result of the above the GTER is expected to rise from the present 37.3% to reach 72% (see Figure 29).
 
@@ -3538,7 +3970,7 @@ The main objective for the tertiary education sub-sector is to make Mauritius a 
 
 ##### 3.6.4. Strategic Goals
 
-In light of the main objectives and challenges above, the Government's strategy during the period 20082020 will be to create an enabling environment for Mauritius to emerge as a Regional Knowledge Hub and  a  Centre  for  Higher  Learning  and  Excellence.  In  line  with  this  strategy,  policies  for  tertiary education will aim at:
+In light of the main objectives and challenges above, the Government's strategy during the period 2008-2020 will be to create an enabling environment for Mauritius to emerge as a Regional Knowledge Hub and  a  Centre  for  Higher  Learning  and  Excellence.  In  line  with  this  strategy,  policies  for  tertiary education will aim at:
 
 - Increase and widen access and ensure equity
 
@@ -3592,7 +4024,7 @@ In  order  to  ensure  that  academic  programmes  are  aligned  with  the  huma
 
 ###### Ensure Financial Sustainability
 
-The  development  of  a  knowledge  hub  requires  innovative  measures  so  as  to  ensure  that  public institutions are not deprived of much-needed resources for their future development.  Presently, there is an  over-reliance  on  the  part  of  the  public  TEIs,  apart  from  the  UTM,  on  the  Government  for  their financing.   The present system of funding is turning out to be increasingly unsustainable owing to the growing  demand  for  places,  on  the  one  hand,  and  escalating  costs,  on  the  other.    With  these developments, pressure is mounting for diversifying the funding sources of these publicly funded TEIs. One of the intended measures will be to adopt some form of cost-sharing arrangements through the introduction of tuition fees in all public TEIs.  The funding generated as a result can be used for meeting new needs in terms of infrastructure, material and equipment as well as teaching resources.  In order to allay any difficulty by students with regard to meeting the cost of their studies, a National Student Loan Scheme  will  be  set  up.    Furthermore,  a  special  support  Scheme  in  the  form  of  bursaries  will  be introduced for those with disabilities and from poor backgrounds.
+The  development  of  a  knowledge  hub  requires  innovative  measures  so  as  to  ensure  that  public institutions are not deprived of much-needed resources for their future development.  Presently, there is an  over-reliance  on  the  part  of  the  public  TEIs,  apart  from  the  UTM,  on  the  Government  for  their financing.   The present system of funding is turning out to be increasingly unsustainable owing to the growing  demand  for  places,  on  the  one  hand,  and  escalating  costs,  on  the  other.    With  these developments, pressure is mounting for diversifying the funding sources of these publicly funded TEIs. One of the intended measures will be to adopt some form of cost-sharing arrangements through the introduction of tuition fees in all public TEIs.  The funding generated as a result can be used for meeting new needs in terms of infrastructure, material and equipment as well as teaching resources.  In order to allay any difficulty by students with regard to meeting the cost of their studies, a National Student Loan
 
 Ministry of Education, Culture and Human Resources
 
@@ -3603,6 +4035,8 @@ Ministry of Education, Culture and Human Resources
 [[START OF PAGE 115]]
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
+
+Scheme  will  be  set  up.    Furthermore,  a  special  support  Scheme  in  the  form  of  bursaries  will  be introduced for those with disabilities and from poor backgrounds.
 
 ###### Strengthen Sector Capability and Optimal Use of Resources
 
@@ -3632,7 +4066,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 TEIs  will  aim  at  increasing  the  number  of  MPhil/PhD  students  and  create  a  database  of  past  and ongoing research.
 
-The IT infrastructure and capability of the TEIs will be consolidated and upgraded to respond to the challenge  of  making  ICT  the  fifth  pillar  of  the  Mauritian  economy.    Computing  will  become  a  crosscutting module in all programmes of study.  Incentives will be introduced to encourage teaching staff and students to have their own personal computers and laptops.  The TEIs and their campuses will be transformed into Wi-Fi zones to extract high performance from computers in support of teaching and learning as well as research.
+The IT infrastructure and capability of the TEIs will be consolidated and upgraded to respond to the challenge  of  making  ICT  the  fifth  pillar  of  the  Mauritian  economy.    Computing  will  become  a  cross-cutting module in all programmes of study.  Incentives will be introduced to encourage teaching staff and students to have their own personal computers and laptops.  The TEIs and their campuses will be transformed into Wi-Fi zones to extract high performance from computers in support of teaching and learning as well as research.
 
 ###### Promote Research for National Development
 
@@ -3644,7 +4078,7 @@ A new Undergraduate Scholarship Scheme will be implemented whereby scholarship w
 
 ###### Enhance Lifelong Learning and Employability
 
-Within  the  context  of  the  knowledge  economy,  lifelong  learning  will  take  a  new  dimension.    A  fourpronged  strategy  is  accordingly  proposed  to  create  the  conditions  to  enhance  lifelong  learning opportunities  which  include  the  recognition  of  prior  learning  and  prior  experiential  learning,  the strengthening of ODL capacity in the TEIs, the development of multi-skilling and re-skilling programmes and the conduct of action research in the development of lifelong learning.
+Within  the  context  of  the  knowledge  economy,  lifelong  learning  will  take  a  new  dimension.    A  four-pronged  strategy  is  accordingly  proposed  to  create  the  conditions  to  enhance  lifelong  learning opportunities  which  include  the  recognition  of  prior  learning  and  prior  experiential  learning,  the strengthening of ODL capacity in the TEIs, the development of multi-skilling and re-skilling programmes and the conduct of action research in the development of lifelong learning.
 
 Ministry of Education, Culture and Human Resources
 
@@ -3686,7 +4120,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-1. Increasing And Widening Access And Ensuring Equity | 1.1. Increasing the GTER from the present 37.3% to 72% in 2015 | 2008 - 41%, 2009 - 44.6% 2015 - 72% | 1. Increasing enrolment in the publicly-funded TEIs 2. Encouraging greater participation of private institutions 3. Encouraging lifelong learning and making greater use of ODL and new technologies to deliver education at the click of a mouse anytime from anywhere 4. Promoting access to under-represented groups 5. Providing special support programmes to students with only one 'A' Level. 6. Establishment of an Open Learning University and a Language Institute for
+1. Increasing And Widening Access And Ensuring Equity | 1.1. Increasing the GTER from the present 37.3% to 72% in 2015 | 2008 - 41%, 2009 - 44.6% 2015 - 72% | 1. Increasing enrolment in the publicly-funded TEIs 2. Encouraging greater participation of private institutions 3. Encouraging lifelong learning and making greater use of ODL and new technologies to deliver education at the click of a mouse anytime from anywhere 4. Promoting access to under-represented groups 5. Providing special support programmes to students with only one 'A' Level. 6. Establishment of an Open Learning University and a Language Institute for Mauritius
 Number of foreign institutions set up in Mauritius | Establishment of brand name overseas institutions or their affiliates/centres/ branches in Mauritius
 Number of foreign institutions of world repute invited to be set up in Mauritius | Revisit the incentives package for attracting investment in educational services
 
@@ -3704,7 +4138,7 @@ STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVIT
 --- | --- | --- | ---
 1.2. Develop policy for Recognition of Prior and Experiential Learning (RPEL) | Policy to be in place by 2010 | Develop policy paper on Recognition of Prior Learning (RPL) Framework
 Student portfolio in RPEL to be operational by 2010 | All TEIs to fix target on no. of non-traditional students to be recruited through RPL
-1.3. Promote e- learning and Open Educational Resources (OER) | Online Learner Support System to be in place by 2010. Linkages/MoUs to be established as from 2009 | Setting up of Online Learner Support System
+1.3. Promote e-learning and Open Educational Resources (OER) | Online Learner Support System to be in place by 2010. Linkages/MoUs to be established as from 2009 | Setting up of Online Learner Support System
 1.4 Develop credit accumulation and transfer system | Overall Credit Transfer Framework to be designed and implemented by 2010 | Development of Credit Transfer Framework
 2. Enhancing Quality And Relevance | 2.1. To review the quality assurance framework in line with international practice | At least once a year | 1. Undertake periodic academic audits for assessing the quality of education provided in the TEIs 2. Set up QA mechanisms to ensure international comparability of the quality of tertiary education
 
@@ -3720,7 +4154,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-3. Critically assess the QA framework and improve it to bring it in line with international standards 4. Monitor framework on an on-going basis 5. Monitor Quality Assurance framework for private/overseas Tertiary Institutions 6. Promote outreach programmes anchored in community welfare and other activities geared towards social service to build
+3. Critically assess the QA framework and improve it to bring it in line with international standards 4. Monitor framework on an on-going basis 5. Monitor Quality Assurance framework for private/overseas Tertiary Institutions 6. Promote outreach programmes anchored in community welfare and other activities geared towards social service to build nationhood
 2.2. To provide an educated, versatile and innovative human resource base for the country | Number of graduates employed within one year from graduation in relevant fields (Tracer Studies) - 100% | Conduct of Tracer Studies
 
 Ministry of Education, Culture and Human Resources
@@ -3735,7 +4169,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-2.3. Encourage institutions to mount programmes relevant to the needs of learners, the country and the region | Number of new programmes introduced/modified relevant to emerging sectors - 3% p.a | 1. Regular Updating of the List of Indicative Priority Fields of Study 2. Setting up of a Programme Planning Committee to review existing programmes
+2.3. Encourage institutions to mount programmes relevant to the needs of learners, the country and the region | Number of new programmes introduced/modified relevant to emerging sectors - 3% p.a | 1. Regular Updating of the List of Indicative Priority Fields of Study 2. Setting up of a Programme Planning Committee to review existing programmes and updating curricula
 2.4. Promoting Science and Technology (including Information Technology) Education | Incorporating latest development in S & T in the curriculum | Number of new curricular items pertaining to latest developments in Science and Technology introduced
 2.5. Upgrading of laboratory facilities | 1.5% of laboratory items to be updated/renewed on a yearly basis | Develop plans for upgrading of labs
 2.6. Linkages and networking with Centres of Excellence in S & T | Number of MOUs/Linkages established | Inventory of existing (and plan for proposed) links
@@ -3754,12 +4188,12 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-Number of Public- Private-Partnership (PPP) projects implemented | Encourage proposals for PPP projects
+Number of Public-Private-Partnership (PPP) projects implemented | Encourage proposals for PPP projects
 3.3. Ensuring an effective and efficient financial management and accountability system for the use of public funds | Introduction of performance management systems in the sector by 2009 | Guide all TEIs to put in place performance management system
 Introduction of PBB in the sub-sector by 2009 | Prepare TEIs for PBB
 Monitor unit cost in the sub-sector | Develop and agree on methodology for calculating unit cost
 3.4. Establishment of a national student loan scheme | The loan scheme to be operational by 2008 | Design the loan scheme and implementation modalities
-3.5. Reviewing state- funded scholarships | Scholarships provided on merit and equity grounds | Develop new criteria for award of scholarships on grounds of merit and equity
+3.5. Reviewing state-funded scholarships | Scholarships provided on merit and equity grounds | Develop new criteria for award of scholarships on grounds of merit and equity
 3.6. Introduce scholarship scheme for students from TVET to access undergraduate programmes | Introduction of 10 new scholarships for TVET (IVTB & TSMTF) in undergraduate fields relevant to professional and vocational development | Work out modalities and identify areas for the scholarship scheme
 
 Ministry of Education, Culture and Human Resources
@@ -3792,7 +4226,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
 4.4. Setting up of a new Campus for University of Technology, Mauritius | New Campus to be set up by 2010 | Plan for new UTM Campus
-4.5. Setting up of Centres of Excellence and Incubators | Emergence of 2 Centres of Excellence (Fashion, Tourism & Finance) by 2010 | Develop mechanisms for establishing the Centres of Excellence and follow- up on their development
+4.5. Setting up of Centres of Excellence and Incubators | Emergence of 2 Centres of Excellence (Fashion, Tourism & Finance) by 2010 | Develop mechanisms for establishing the Centres of Excellence and follow-up on their development
 5.Meeting Students' Needs | 5.1. Promoting an environment conducive to quality learning | Improving the Pedagogical & Technological Support conducive to Teaching & Learning, e.g Introduction of laptops & projectors, data logging units in science laboratories. | 1. Inventory of resources for teaching, learning and research, including ICT resources and utilisation rates for programme delivery in TEIs 2. TEIs to produce their plans for improvement of teaching, learning and research environment and greater integration of ICT in the teaching and learning process
 5.2. Improving extracurricular infrastructure facilities to provide for an appropriate campus experience | Increasing the number of Wi-Fi spots, sports rooms etc. | Identification of Wi-Fi spots and other infrastructures
 
@@ -3809,11 +4243,11 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
 5.3. Setting up of halls of residence | Hall residence of capacity 250 set up by 2010 | TEIs to come up with plans for residential campus
-5.4. Provision of world class resource centres | On-line access to libraries by 2010 TEIs to set up multimedia resource centres by 2010 | Design project for on- line access to all TEIs' libraries
+5.4. Provision of world class resource centres | On-line access to libraries by 2010 TEIs to set up multimedia resource centres by 2010 | Design project for on-line access to all TEIs' libraries
 5.5. Providing work based experience | Ongoing | All TEIs to come up with calendar for placement and modalities developed
 6. Facilitating Research For National Development | 6.1. Development of list of priorities for research in line with national requirements | Priority research list in higher education established 2010 | Draw up List of Priority Areas for research
 6.2. Formulate a strategy to support research and innovation initiatives | Increase in number of consultancy projects Increase number of MPhil/PhD students by 5% p.a | 1. Strategy Papers from TEIs to foster research and innovation initiatives 2. Facilitate enrolment of MPhil/PhD students
-6.3. Encourage consultancies and commercial spin-offs from research | Increase in Funds generated through consultancy projects and spin- offs from research | Create database of past and on-going research
+6.3. Encourage consultancies and commercial spin-offs from research | Increase in Funds generated through consultancy projects and spin-offs from research | Create database of past and on-going research
 
 Ministry of Education, Culture and Human Resources
 
@@ -3827,7 +4261,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-6.4.Promote collaborative research | Increase in number of co-authored research projects undertaken | Set up an inter- institutional committee to develop an action plan for collaborative research
+6.4.Promote collaborative research | Increase in number of co-authored research projects undertaken | Set up an inter-institutional committee to develop an action plan for collaborative research
 7.Enhancing Linkages Between Tertiary Education Institutions and The Economic Sectors | 7.1. Setting up of faculty and industry advisory boards | All programmes to be designed with the assistance of industry/SMEs by 2010 | All TEIs to set up mechanisms for industry/SMEs participation in programme and curriculum designs
 7.2. Compulsory work placement for full time (FT) students | All FT students to undergo work placement by 2010 | All TEIs to come up with calendar for placement and modalities developed
 7.3.Fostering Community Outreach Programmes | Each faculty in each TEIs to establish at least two Community Outreach Programmes during the year by 2010 | All TEIs to come up with calendar for Community Outreach Programmes
@@ -3863,7 +4297,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
 9.2. Foster regional and international understanding and cooperation through a diversity of student and overseas institution exchange | 1. Assist institutions to develop student and staff exchange programmes 2. Support institutions in organizing regular academic events 3. Foster participation of local institutions in regional and international events
-9.3. Position Mauritius in the Region as a reputed Knowledge Hub and the gateway for post- secondary education | 1. Encourage institutions to mount programmes that are relevant to the needs of learners, the country and the region 2. Benchmarking TEC with its counterparts internationally 3. Develop further linkages of TEC with other peer institutions
+9.3. Position Mauritius in the Region as a reputed Knowledge Hub and the gateway for post-secondary education | 1. Encourage institutions to mount programmes that are relevant to the needs of learners, the country and the region 2. Benchmarking TEC with its counterparts internationally 3. Develop further linkages of TEC with other peer institutions
 
 Ministry of Education, Culture and Human Resources
 
@@ -3943,20 +4377,20 @@ Ministry of Education, Culture and Human Resources
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
-PRIMARY / | SECONDARY EDUCATION TVET / WORKPLACE | TERTIARY EDUCATION | LEVEL
---- | --- | --- | ---
-10 | Doctorate | 10
-9 | Masters Degrees eg MA, MSc, M.Phil | 9
-8 | Postgraduate | Certificates, Postgraduate Diplomas Bachelor with Honours, Conversion Programmes | 8
-7 | Bachelor (ord. Degree) | 7
-6 | Diploma | Diploma | 6
-5 HSC / GCE | Certificate
-'A' Level /BAC / IBAC | Certificate | 5
-4 3 SC / GCE 'O' | 4 3
-Level 2 | Certificate of | Primary Education | 2 1
-1
-
 Figure 30: The Structure of the National Qualifications Framework
+
+ | PRIMARY / SECONDARY EDUCATION | TVET / WORKPLACE | TERTIARY EDUCATION | LEVEL
+--- | --- | --- | --- | ---
+10 | | | Doctorate | 10
+9 | | | Masters Degrees eg MA, MSc, M.Phil Postgraduate Certificates, Postgraduate Diplomas | 9
+8 | | | Bachelor with Honours, Conversion Programmes | 8
+7 | | | Bachelor (ord. Degree) | 7
+6 | | Diploma | Diploma | 6
+5 | HSC / GCE 'A' Level /BAC / IBAC | | Certificate | 5
+4 | | Certificate | | 4
+3 | SC / GCE 'O' Level | | | 3
+2 | | | | 2
+1 | Certificate of Primary Education | | | 1
 
 ###### The National Training Fund (NTF)
 
@@ -3976,7 +4410,7 @@ The Government Empowerment Programme was launched in 2006 with the aim to set th
 
 ###### Providers of education and training
 
-Together with publicly-funded institutions (schools, universities, IVTB, etc.), there are around 350 MQA registered  institutions  that  provide  training.  This  figure  also  includes  private  and  in-house  training institutions  that  contribute  continuously  to human  resource development. Amendments to legislations have made affiliation to foreign educational and training providers possible.
+Together with publicly-funded institutions (schools, universities, IVTB, etc.), there are around 350 MQA registered institutions that provide training. This figure also includes private and in-house training
 
 Ministry of Education, Culture and Human Resources
 
@@ -3988,6 +4422,8 @@ Ministry of Education, Culture and Human Resources
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
+institutions that contribute continuously to human resource development. Amendments to legislations have made affiliation to foreign educational and training providers possible.
+
 To keep pace with international trends in relation to training, a state of the art assessment of manpower training in Mauritius is required. There exists already a Quality Assurance Division at the MQA, which looks after the quality of training provided by training institutions. However, to keep up with international standards in quality assurance for training being provided, technical level officers should be regularly trained to keep up-to-date with the latest development and techniques in the related fields.
 
 In addition, an institutional framework needs to be developed with the assistance of other experienced foreign institutions so that Mauritius can be compared and benchmarked to other countries with a view to setting up norms and supervision of the services provided. This will ensure that providers of training and education are at par with the set standards.
@@ -3998,7 +4434,7 @@ The success of the Mauritian economy hitherto achieved has been largely based on
 
 ###### A Multi-skilled Workforce for the New Economy
 
-Globalisation of trade, finance, and information flows is accelerating the movement of Mauritius towards a service-based industry which requires our citizens to be skilled. There is an urgent need to ensure that people who lack the right education are not excluded. Technical change and organizational change are widening the wage gaps between skilled and unskilled workers. The pain of exclusion will be felt even  more  strongly  if  access  to  education,  training  and  IT  is  inadequate.  To  reduce  the  risk  of exclusion,  there  is  a  need  to  improve  access  to  life-long  learning,  including  quality  training  and  jobplacement throughout the lifetime of every citizen.  This also calls for labour market reforms that will permit people to use their skills in an increasingly flexible way.
+Globalisation of trade, finance, and information flows is accelerating the movement of Mauritius towards a service-based industry which requires our citizens to be skilled. There is an urgent need to ensure that people who lack the right education are not excluded. Technical change and organizational change are widening the wage gaps between skilled and unskilled workers. The pain of exclusion will be felt even more strongly if access to education, training and IT is inadequate. To reduce the risk of exclusion, there is a need to improve access to life-long learning, including quality training and job-placement throughout the lifetime of every citizen. This also calls for labour market reforms that will permit people to use their skills in an increasingly flexible way.
 
 ###### Ensuring Success in the Competition for Capital Investment
 
@@ -4018,7 +4454,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 Education  and  training  must  connect  citizens  to  the  world  economy  through  enhanced  access  to technology,  knowledge,  computer  literacy  and  life-long  learning.  It  should  build  skills  and  values:  an understanding  of  competitiveness,  rooted  in  local  culture  and  the  environment.  To  sustain  its development,  Mauritius  must  be  able  to  offer  quality  goods  and  services  to  the  world.  In  traditional industries most jobs require employees to learn how to perform routine functions, which, for the most part,  remain  constant  over  time,  while  in  the  knowledge  economy,  change  is  so  rapid  that  workers constantly need to acquire new skills. Firms can no longer rely solely on new graduates or new labour market entrants as the primary source of new skills and knowledge. Instead, they need workers who are willing and able to update their skills throughout their lifetimes. Through the present Strategy Plan, Mauritius  aims  at  responding  to  these  needs  by  creating  education,  training  and  human  resource development systems that equip people with the appropriate skills. In this venture, the private sector has to play an ever increasing role through the consolidation of the National Training Fund (NTF) and further investment in the empowerment of their employees, and greater participation in the Government Empowerment Programme.
 
-Greater  skills  also  facilitate  worker  mobility  across  occupations  and  industries  in  response  to  new opportunities, and help people reallocate resources, both human and physical, towards more productive opportunities, and even to realise that those opportunities exist. However, we should mitigate the risk of brain drain as the position that knowledge now occupies - as a key source of comparative advantage has  been  speeding  up  the  movement  of  skilled  people  to  places  where  they  can  most  easily  turn knowledge into wealth.
+Greater skills also facilitate worker mobility across occupations and industries in response to new opportunities, and help people reallocate resources, both human and physical, towards more productive opportunities, and even to realise that those opportunities exist. However, we should mitigate the risk of brain drain as the position that knowledge now occupies – as a key source of comparative advantage – has been speeding up the movement of skilled people to places where they can most easily turn knowledge into wealth.
 
 ###### Projections of the labour force
 
@@ -4036,17 +4472,23 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 Figure 31: Projected working age population and labour force, (1990-2025)
 
-Working age
-
-Economically active 1
-
-Economically active 2
-
 Number (thousands)
+1200
+1000
+800
+600
+400
+200
+0
+Working age
+Economically active 2
+Economically active 1
+1990 1995 2000 2005 2010 2015 2020 2025
+Year
 
 Source: ILO International Migration Paper 71 (ILO, 2004)
 
-The 'economically active 1' estimate was calculated by applying the present participation rates for men and women to the UN data on population of working age (15-64 years). They show that the labour force would be 568 000 in 2010, 598 000 in 2020 while by 2025 it is expected to be 596 000. 'Economically active 2' trend assumes an increase in the female activity rate of 2 percent per 5-year period ultimately resulting to a rate of 51 percent by 2025. This category seems to be a more realistic predictor. Past increases  in  employment  -  related  to  the  EPZ  -  involved  an  increase  in  women's  participation. Similarly, a greater desire and ability on their part to contribute to the future proposed expansion into ICT and the Knowledge Economy is likely. Among potential Highly Skilled Persons (HSPs), the female spouses of Mauritians may constitute a positive resource. Consequently, under the 'economically active 2' scenario, the Mauritius labour force is expected to increase from 531 300 in 2003 to 586 000 in 2010, reaching  644  000  in  2025.  In  the  absence  of  data  on  projected  or  desired  growth  rates  and  in employment  patterns,  the  ILO  International  Migration  Paper  71  (ILO,  2004)  has  worked  on  three different scenarios to calculate future employment ( Annex HR) .
+The 'economically active 1' estimate was calculated by applying the present participation rates for men and women to the UN data on population of working age (15-64 years). They show that the labour force would be 568 000 in 2010, 598 000 in 2020 while by 2025 it is expected to be 596 000. 'Economically active 2' trend assumes an increase in the female activity rate of 2 percent per 5-year period ultimately resulting to a rate of 51 percent by 2025. This category seems to be a more realistic predictor. Past increases in employment - related to the EPZ - involved an increase in women's participation. Similarly, a greater desire and ability on their part to contribute to the future proposed expansion into ICT and the Knowledge Economy is likely. Among potential Highly Skilled Persons (HSPs), the female spouses of Mauritians may constitute a positive resource. Consequently, under the 'economically active 2' scenario, the Mauritius labour force is expected to increase from 531 300 in 2003 to 586 000 in 2010, reaching 644 000 in 2025. In the absence of data on projected or desired growth rates and in employment patterns, the ILO International Migration Paper 71 (ILO, 2004) has worked on three different scenarios to calculate future employment (Annex HR).
 
 Ministry of Education, Culture and Human Resources
 
@@ -4064,201 +4506,31 @@ The present scenario as shown below in Diagram HR1, demonstrates that we are per
 
 Figure 32: Trends in skills and competencies
 
-U
-
-Un ns
-
-sk
-
-ki il
-
-ll
-
-le ed
-
-d
-
-H
-
-Hi ig
-
-gh
-
-hl ly
-
-y- -S
-
-Sk ki
-
-il
-
-ll
-
-le ed
-
-d   &
-
-M
-
-Mu ul lt
-
-ti i s
-
-sk
-
-ki il
-
-ll
-
-le ed
-
-d
-
-S
-
-Se em
-
-mi i- -s
-
-sk
-
-ki il
-
-ll
-
-le ed
-
-d
-
-S
-
-Sk ki
-
-il
-
-ll
-
-le ed
-
-d
-
-P
-
-Pr ro
-
-of fe
-
-es
-
-ss
-
-si io
-
-on
-
-na al
-
-l
-
-Present Scenario
-
-Future Scenario
-
-Diagram HR1
-
-Diagram HR2
-
-&
+Present Scenario | Future Scenario
+Professional
+Highly-Skilled & Multiskilled
+Skilled
+Semi-skilled
+Unskilled
+Diagram HR1 | Diagram HR2
 
 Based on the current trends, Figures 33 and 34 show that more qualified employees would be required in the various sectors of the Mauritian economy by year 2020.
 
 Figure 33: Level of qualification of labour force in 2008 and 2020
 
-2.1
-
-7.9
-
-2.5
-
-8.7
-
-11.4
-
-1.6
-
-4.6
-
-19.0
-
-13.2
-
-29.1
-
-2.9
-
-10.3
-
-4.0
-
-15.4
-
-20.8
-
-1.1
-
-3.7
-
-21.6
-
-5.7
-
-14.3
-
-0
-
-5
-
-10
-
-15
-
-20
-
-25
-
-30
-
-Postgraduate
-
-Degree
-
-Vocational/HND
-
-Higher School Certificate
-
-School Certificate
-
-Incomplete Secondary
-
-Pre-Vocational
-
-CPE Passed
-
-Incomplete Primary
-
-No Formal Education
-
-Educational Qualification
-
+Educational Qualification | 2020 | 2008
+--- | --- | ---
+No Formal Education | 14.3 | 29.1
+Incomplete Primary | 5.7 | 13.2
+Complete Primary | 21.6 | 19.0
+Pre-Vocational | 3.7 | 4.6
+Incomplete Secondary | 1.1 | 1.6
+School Certificate | 20.8 | 11.4
+Higher School Certificate | 15.4 | 8.7
+Vocational/HND | 4.0 | 2.5
+Degree | 10.3 | 7.9
+Postgraduate | 2.9 | 2.1
 Percentage
-
-2020
-
-2008
-
-Complete
-
-Primary
 
 Figures 33 and 34 have been calculated based on current strategies. However innovations in policies are expected to change the state of affairs.
 
@@ -4274,75 +4546,19 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 Figure 34: Percentage change in number of employees per qualification, (2008-2020)
 
-120.3
-
-113.5
-
-99.3
-
-69.9
-
-59.2
-
-37.8
-
-21.1
-
--17.3
-
--47.3
-
--2.0
-
--40.3
-
--60
-
--40
-
--20
-
-0
-
-20
-
-40
-
-60
-
-80
-
-100
-
-120
-
-140
-
-SC
-
-HSC
-
-Vocational/HND
-
-Postgraduate
-
-Degree
-
-CPE Passed
-
-Total
-
-Pre-Vocational
-
-Incomplete Secondary
-
-No Formal Education
-
-Incomplete Primary
-
-Educational qualification
-
-Percentage change
+Educational qualification | Percentage change
+--- | ---
+SC | 120.3
+HSC | 113.5
+Vocational/HND | 99.3
+Postgraduate | 69.9
+Degree | 59.2
+CPE Passed | 37.8
+Total | 21.1
+Pre-Vocational | -2.0
+Incomplete Secondary | -17.3
+No Formal Education | -40.3
+Incomplete Primary | -47.3
 
 The percentage increase in number of employees holding a post-graduate qualification would be 70% as compared to those holding a first degree only. The highest increase would be among those having a secondary school (SC: 120%, HSC: 114%) and vocational (99%) qualification.
 
@@ -4364,7 +4580,9 @@ Ministry of Education, Culture and Human Resources
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
-as at June 07 | 2007-08 | 2008-09 | 2009-10
+Table 2: Estimated number of employees in various sectors from 2007/2010
+
+ | as at June 07 | 2007-08 | 2008-09 | 2009-10
 --- | --- | --- | --- | ---
 Agriculture | 16.1 | 13.8 | 13.5 | 12.8
 Finance | 3.2 | 3.2 | 3.3 | 3.4
@@ -4375,13 +4593,11 @@ Tourism | 12.3 | 12.6 | 13.0 | 13.5
 Knowledge Hub | 6.7 | 6.5 | 6.5 | 6.4
 Seafood** | 2.5 | 2.7 | 3.0 | 3.4
 
-Table 2: Estimated number of employees in various sectors from 2007/2010
-
 *This excludes employment to be generated by Tianli Group (now Mauritius JinFei Economic Trade and Cooperation Zone) which is estimated to be around 10 000 in the coming years
 
 **This excludes employment to be generated by Land-based Oceanic Industry which is expected to be around 10 000 in the coming years
 
-Source: 2 nd Edition, NHRDP 2007-2010
+Source: 2nd Edition, NHRDP 2007-2010
 
 ##### 3.7.2. Overall Goal
 
@@ -4419,7 +4635,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 ##### 3.7.5. Summary of Strategic Activities
 
-In light of the main objectives and challenges above, the Government's strategy during the period 20082020 will be to create an enabling environment for Mauritius to emerge as a knowledge economy. In line with this strategy, policies for human resource development will aim at the following:
+In light of the main objectives and challenges above, the Government's strategy during the period 2008-2020 will be to create an enabling environment for Mauritius to emerge as a knowledge economy. In line with this strategy, policies for human resource development will aim at the following:
 
 ###### Transform Mauritius into a Knowledge Economy
 
@@ -4479,7 +4695,7 @@ Promoting the right Attitude Training and Basic Core Skills including Literacy a
 
 To participate  in  the  emerging  knowledge  economy,  people  need  to  update  their  skills  continuously. Lifelong learning will thus become a norm. Providing lifelong learning entails securing affordable access to a variety of learning opportunities, both formal and non-formal. This means that the learning system and its governance must change and that more resources will have to be allocated. Given limited public resources,  relying  on  cost-sharing,  involving  private  providers,  and  increasing  the  efficiency  of  the education system are critical. Operating successfully in the knowledge economy requires mastery of a set  of  knowledge  and  competencies.  In  this  competitive  global  knowledge  economy,  we  have  to prepare our education and training system to support the acquisition and application of knowledge.
 
-This  objective  will  thus  have  the  responsibility  of  'moulding'  Mauritians  to  become  lifelong  learners. Since learning is seen as a continuum covering the individual's whole life span, all forms of learning and all environments enabling learning should be included to ensure that lifelong learning is an integral part of  human resource development. Therefore, a strategy on lifelong learning ready by 2010 should be crafted with self-development in mind. A record on the number of persons following courses for selfdevelopment should also be maintained.
+This objective will thus have the responsibility of 'moulding' Mauritians to become lifelong learners. Since learning is seen as a continuum covering the individual's whole life span, all forms of learning and all environments enabling learning should be included to ensure that lifelong learning is an integral part of human resource development. Therefore, a strategy on lifelong learning ready by 2010 should be crafted with self-development in mind. A record on the number of persons following courses for self-development should also be maintained.
 
 Ministry of Education, Culture and Human Resources
 
@@ -4526,7 +4742,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
 1.Transform Mauritius into a Knowledge Economy | 1.1. Promote the Knowledge Economy | Double the number of Knowledge Organisations per year Best "Knowledge Organisations" Award annually | 1. Promote knowledge management 2. Organise workshops/Information sessions on Knowledge Economy on Sectoral basis (At least 1 workshop annually per sector) 3. Support development of existing Organisations into "Knowledge Organisations" 4. Reward high performing "Knowledge Organisations" through annual Awards
-1.2. Create opportunities to reach out for excellence | Excellence awards for each sector Double number of organisations offering innovative services/products by 2015 | 1.Campaign for HRD Excellence Awards 2.Provide incentives for innovations 3.Encourage utilisation of high performance work practices at level of industry and Ministries/Govt. Departments
+1.2. Create opportunities to reach out for excellence | Excellence awards for each sector Double number of organisations offering innovative services/products by 2015 | 1.Campaign for HRD Excellence Awards 2.Provide incentives for innovations 3.Encourage utilisation of high performance work practices at level of industry and Ministries/Govt. Departments 4.List of high performance work practices
 1.3. Ensure that the Mauritian has a definite advantage to face the challenges of the global economy | The number of Mauritians able to use state of the art technology effectively and efficiently increases | Encourage leading organisations to import training in Mauritius through appropriate networking and MoUs
 1.4. Develop the 24/7 economic model and work culture | Publication of a Plan to conduct the campaign by beginning 2009 | 1. Launching National Sensitisation Campaign to change work attitude in the context of a 24/7 Economy.
 
@@ -4559,8 +4775,8 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-2.3. Create a robust HRD value chain (Education- Training- Employment) | Effective HRD value chain by 2020 Network for institutional interface 2020 | 1. Work out a Plan for articulation of value chain to reduce mismatch 2. Encourage establishment of Institutional synergy
-2.4. Availability of pool of multi- skilled and qualified manpower and training providers | Availability of skilled and qualified labour force for businesses is ensured. 75% of business can find skilled and qualified labour force by 2010 and 100% by 2015 | 1. Prepare compendium of training programmes locally or regionally 2. One-stop shop for HRD services (e.g. interactive website to provide the employers and the public at large with up-to-date information on labour market) 3. Establish a well-defined database of human resources
+2.3. Create a robust HRD value chain (Education-Training-Employment) | Effective HRD value chain by 2020 Network for institutional interface 2020 | 1. Work out a Plan for articulation of value chain to reduce mismatch 2. Encourage establishment of Institutional synergy
+2.4. Availability of pool of multi-skilled and qualified manpower and training providers | Availability of skilled and qualified labour force for businesses is ensured. 75% of business can find skilled and qualified labour force by 2010 and 100% by 2015 | 1. Prepare compendium of training programmes locally or regionally 2. One-stop shop for HRD services (e.g. interactive website to provide the employers and the public at large with up-to-date information on labour market) 3. Establish a well-defined database of human resources
 2.5. Meet the aspirations of the unemployed and redundant in terms of skills requirements | Unemployment rate is 7.5% by 2010, 5% by 2015 and 3% by 2020 Formulate HRD policies on basis of findings | 1. Inventory of aspirations and attitude of and suggestions from unemployed and redundant at all levels, for age groups and youngsters 2. Initiate and promote training for unemployed and retrenched workers to take up new jobs 3. Commission/conduct survey among the unemployed and redundant 4. Prioritise the list and develop the Action Plan for their implementation Commission/conduct survey on aspirations of the youngsters
 
 Ministry of Education, Culture and Human Resources
@@ -4575,8 +4791,8 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-2.6. Promote employability skills including Functional Literacy, numeracy and ICT in the workforce | Functional numeracy, literacy is at 100% of the labour force by 2015 and ICT 50% by 2015 and 80% by 2020. | 1. Core Module on Functional Literacy, Numeracy and ICT 2. Inclusion of a specific Module on Functional Numeracy/Literacy in training programmes wherever required 3. Encourage regular review of existing curricula at level of TVET institutions including in-house training centres 4. Encourage positive attitude, ethics, and citizenship 5. Develop a basic Functional Numeracy/Literacy training module 6. Encourage NGOs to run Functional Numeracy, Literacy courses in different regions of the country with the help of resource persons. 7. Use audiovisual facilities to promote such Functional Numeracy & Literacy
-2.7. Promote training in entrepreneur- ship and development of entrepreneurial attitude and culture | National strategy for entrepreneurship by 2010 40% of the labour force has followed a basic course in entrepreneurship by 2015 and 75% by 2020 | 1. Launch a national sensitisation campaign on entrepreneurship 2. Develop new training programmes for entrepreneurship 3. Finalise list of training programmes and pilot implementation. 4. Benchmarking at enterprise and national levels
+2.6. Promote employability skills including Functional Literacy, numeracy and ICT in the workforce | Functional numeracy, literacy is at 100% of the labour force by 2015 and ICT 50% by 2015 and 80% by 2020. | 1. Core Module on Functional Literacy, Numeracy and ICT 2. Inclusion of a specific Module on Functional Numeracy/Literacy in training programmes wherever required 3. Encourage regular review of existing curricula at level of TVET institutions including in-house training centres 4. Encourage positive attitude, ethics, and citizenship 5. Develop a basic Functional Numeracy/Literacy training module 6. Encourage NGOs to run Functional Numeracy, Literacy courses in different regions of the country with the help of resource persons. 7. Use audiovisual facilities to promote such Functional Numeracy & Literacy Training Programmes
+2.7. Promote training in entrepreneurship and development of entrepreneurial attitude and culture | National strategy for entrepreneurship by 2010 40% of the labour force has followed a basic course in entrepreneurship by 2015 and 75% by 2020 | 1. Launch a national sensitisation campaign on entrepreneurship 2. Develop new training programmes for entrepreneurship 3. Finalise list of training programmes and pilot implementation. 4. Benchmarking at enterprise and national levels
 
 Ministry of Education, Culture and Human Resources
 
@@ -4608,7 +4824,7 @@ EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
 6. Integrate flexible learning in training delivery 7. Promote alternative mode of learning: workplace, open and distance learning
-Encourage self- development | No of persons following courses for self- development increases | 1. Develop incentives for self- development 2. Draw up a compendium of educational and training facilities
+Encourage self-development | No of persons following courses for self-development increases | 1. Develop incentives for self-development 2. Draw up a compendium of educational and training facilities
 4. Foster Research & Development for effective HRD | 4.1. Development of list of priority for research in line with national requirements | Quality research in HRD initiated | Draw up List of Priority Areas for research in HRD
 4.2. Formulate a strategy to support research and innovation initiatives | The number of consultancy projects in HRD doubled by 2015 | Provide sufficient support and enabling environment to encourage Mauritian firms to engage in consultancy
 5. Provide professional orientation to prospective entrants in the labour market | 5.1. Quality professional orientation, guidance and counselling service | Publication of an integrated, interactive and dynamic website on labour market, demand and supply and skills in place by 2015, the integrated labour market information system (ILMIS) ready by 2015 Every Mauritian has a well articulated career plan by 2015 | 1. Promote synergy among stakeholders and institutions towards an effective career guidance and counselling service 2.Collection of information from stakeholders through labour market surveys 3. Analysis of the changing trends in the labour market, labour shortages, and foreign labour 4. Publish information
@@ -4631,6 +4847,17 @@ Scenario 1 is a linear projection made on the basis of past trends, and is prese
 
 Scenario 1 - GNP and Employment projections (2004-2025) based on past trends
 
+Linear (GDP)
+Linear (Employment)
+GDP = Rs75504 million = 100
+Employment = 437'900 = 100
+y = 5.7366x + 100
+y = 1.1446x + 100
+0 50 100 150 200 250 300
+92 93 94 95 96 97 98 99 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+
+Source: CSO for 1992-2003; GDP data reproduced
+
 ###### b) Scenario 2 (desirable scenario)
 
 The table below represents the overall employment picture till 2025 under this 'desirable' scenario. It assumes that the unemployment rate is brought down to 5 percent, and that, consequently, the number of jobs needed for Mauritians would be 557 000, 586 000, 605 000 and 612 000, for 2010, 2015, 2020 and 2025, respectively (Line C). This scenario also assumes that the number of foreign workers would stay constant at 20 000.
@@ -4651,11 +4878,34 @@ some 82 000 additional jobs by 2010 - a significant challenge - since it involve
 
 Scenario 2 (Overall employment picture till 2025)
 
+ | | 2003 | 2010 | 2015 | 2020 | 2025
+--- | --- | --- | --- | --- | --- | ---
+A | Mauritius labour force (estimates after 2003) | 531.3 | 586 | 617 | 637 | 644
+B | Unemployed Mauritians (assumed at 5% A after 2010) | 54.4 | 29 | 31 | 32 | 32
+C | Employment for Mauritians (A-B) | 476.9 | 557 | 586 | 605 | 612
+D | Foreign workers | 18.2 | 20 | 20 | 20 | 20
+E | Total employed (C+D) (employment needed after 2003) | 495.1 | 577 | 606 | 625 | 632
+F | Additional employment needed | - | 82 | 29 | 19 | 7
+
+Sources: Data for 2003, CSO: For future dates, labour force estimates are based on UN Population Projections for the age group 15 to 64 applying the current participation rate for men and assuming a gradual increase in the participation rate of women (increasing from 41 per cent in 2000 to 51 percent by 2025)
+
 ###### c) Scenario 3 (bleak scenario)
 
 A  third  scenario  (bleak  scenario)  assuming  high  unemployment  rate  (15  percent),  with  outward migration as a palliative, is presented below.
 
 Scenario 3 (bleak scenario)
+
+ | | 2003* | 2010 | 2015 | 2020 | 2025
+--- | --- | --- | --- | --- | --- | ---
+A | Mauritius labour force | 531.3 | 586 | 617 | 637 | 644
+B | Unemployed Mauritians (15% of A, after 2003) | 54.4 | 87 | 93 | 96 | 97
+C | Employment for Mauritians - Total (A-B) | 476.9 | 499 | 524 | 541 | 547
+C1 | (domestic) | 476.9 | 495 | 506 | 509 | 514
+C2 | (overseas) | n.a | 4 | 18 | 32 | 33
+D | Foreign workers | 18.2 | 5 | 1 | 1 | 1
+E | Total Employment in Mauritius (C.1+D) | 495.1 | 500 | 505 | 510 | 515
+
+*Actual
 
 Sources: Data for 2003, CSO: For future dates, labour force estimates are based on UN population projections for the age group 15-64  applying  the  current  participation  rate  for  men  and  assuming  a  gradual  increase  in  the  participation  rate  of  women (increasing from 41 per cent in 2000 to 51 per cent in 2025)
 
@@ -4693,7 +4943,7 @@ The  overall  strategic  goal  is  to  develop  the  Ministry  into  an  efficie
 
 ##### 3.8.3. Management Structure
 
-The highest priority for the Ministry is to develop an organizational and institutional structure that can support the Ministry over the medium term (to 2011) and in the long term (to 2020) in order to provide the  basis  for  major  public  administration  reforms  throughout  the  Ministry.  The  Ministry  shall  be structured and managed along programme lines, with a core policy and management oversight capacity in the HQs and devolved management responsibility of all resources and programme outputs down to the individual school level. There is need to assess the impact of the present structure, identify constraints and review it to make it consonant with the new needs of the Ministry taking into account the reforms envisaged.
+The highest priority for the Ministry is to develop an organizational and institutional structure that can support the Ministry over the medium term (to 2011) and in the long term (to 2020) in order to provide the basis for major public administration reforms throughout the Ministry. The Ministry shall be structured and managed along programme lines, with a core policy and management oversight capacity in the HQs and devolved management responsibility of all resources and programme outputs down to the individual school level. There is need to assess the impact of the present structure, identify
 
 Ministry of Education, Culture and Human Resources
 
@@ -4704,6 +4954,8 @@ Ministry of Education, Culture and Human Resources
 [[START OF PAGE 151]]
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
+
+constraints and review it to make it consonant with the new needs of the Ministry taking into account the reforms envisaged.
 
 The  enactments  relating  to  education  shall  be  amended  for  greater  devolution  of  responsibility  and accountability at all levels of the education system. The Ministry recognizes the fact that decentralization  is  a  powerful  strategy  to  improve  service  delivery.  Over  the  last  decade  significant ground has been covered in the implementation of a decentralisation policy with the creation of Zone Directorates.    The  Ministry  is  committed  to  further  the  decentralization  effort  by  devolving  more decision-making powers and resource management to lower levels of governance.
 
@@ -4745,7 +4997,7 @@ The disbursement and procurement system shall be improved in order to more effic
 
 This new organisational structure will also provide for a strengthening of internal control and auditing. This internal control and audit Office will be charged with developing a modern audit capability and will concentrate initially on financial and compliance audits, with particular emphasis on the preparation and assurance of the Ministry's Annual Financial Statements. The appointment and procedural establishment of the Office will aim at reinforcing the independence, integrity and tenure of the Auditor and  audit staff, consistent with principles established in  the  Public  Finance  and  Expenditure Management Law.
 
-The  Ministry  shall  develop  an  Educational  Management  Information  System  (EMIS)  as  a  basis  for performance monitoring and policy analysis. The current focus of the information system is to prepare an  annual  Digest  of  Educational  Statistics,  the  content  of  which  is  what  is  called  a  'first  generation level', i.e., much basic factual data with little or no attempt at analysis. There is need to change the educational  statistics  publication  to  a  'second  generation  level'  through  the  production  of  more analytical information and indicators needed for decision-making.
+The  Ministry  shall  develop  an  Educational  Management  Information  System  (EMIS)  as  a  basis  for performance monitoring and policy analysis. The current focus of the information system is to prepare an  annual  Digest  of  Educational  Statistics,  the  content  of  which  is  what  is  called  a  'first  generation level', i.e., much basic factual data with little or no attempt at analysis. There is need to change the
 
 Ministry of Education, Culture and Human Resources
 
@@ -4756,6 +5008,8 @@ Ministry of Education, Culture and Human Resources
 [[START OF PAGE 153]]
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
+
+educational statistics publication to a 'second generation level' through the production of more analytical information and indicators needed for decision-making.
 
 The Education Management Information System (EMIS) will be linked to the FMIS and also to a Human Resources Information System (HRIS) database for efficient  and  effective  monitoring  and  to  provide essential information that will inform policy-making in the medium and long-term.
 
@@ -4775,7 +5029,7 @@ A plan shall be prepared to adopt state of the art technology to improve the ove
 
 The  governance  structure  set  up  to  sustain  the  reform  process  shall  place  emphasis  and  a  high premium on the principles of good standards and quality at all levels. This will ensure that the clients of the system benefit from the various initiatives and programmes. An appropriate mechanism shall be set up to work on the elaboration of standards and quality assurance across the system to enhance the overall quality of education and training in terms of improved learning outcomes.
 
-An audit of existing legislations pertaining to education and training shall be carried out to work out a plan for the review of existing and introduction of new legislations, with a view to creating an enabling framework. Provision shall be made for in-house legal advice and drafting of the new legislation. The terms  of  reference  for  this  exercise  include  drafting  an  organic  Law  on  Education  and  Training  and some important  regulations;  and  establishing,  recruiting  and  training  a  small  number  of  professional staff to provide long-term legal advisory services to the Ministry. This office will also guide the development  of  internal  rules,  procedures  and  guidelines  consistent  with  the  public  management package of laws in cooperation with other departments in the Ministry.
+An audit of existing legislations pertaining to education and training shall be carried out to work out a plan for the review of existing and introduction of new legislations, with a view to creating an enabling framework. Provision shall be made for in-house legal advice and drafting of the new legislation. The terms  of  reference  for  this  exercise  include  drafting  an  organic  Law  on  Education  and  Training  and some important  regulations;  and  establishing,  recruiting  and  training  a  small  number  of  professional staff to provide long-term legal advisory services to the Ministry. This office will also guide the
 
 Ministry of Education, Culture and Human Resources
 
@@ -4786,6 +5040,8 @@ Ministry of Education, Culture and Human Resources
 [[START OF PAGE 154]]
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
+
+development of internal rules, procedures and guidelines consistent with the public management package of laws in cooperation with other departments in the Ministry.
 
 The exercise will also take on board the various pieces of legislation governing the parastatal bodies operating  under  the  aegis  of  the  Ministry.  This  is  urgently  called  for  since  a  need  exists  for  a  lean, flexible  and  responsive  framework  that  will  support  and  sustain  the  innovations  to  be  brought  in  the system.
 
@@ -4813,15 +5069,15 @@ Ministry of Education, Culture and Human Resources
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
+##### 3.8.9. Activities and Target Indicators
+
 STRATEGIC GOALS | STRATEGIC OBJECTIVES | 2008-2020 TARGETS/ INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-1. Build an effective and efficient Education sector | 1.1. Strengthen capacity of the Ministry through the restructuring of the management structure and reporting mechanism. | The new decentralised management structure functional by 2010 | 1. Setting up of a core cell to drive and implement management reforms in the Ministry with organizational restructuring at both Headquarters and Zone level. 2. Develop the capacity of different units at the Ministry, in Zone Directorates and at the school level to sustain the
-Performance Management System (PMS) put in place by 2010 | 1. Define Key Result Activity (KRA) and Key Performance Indicators (KPIs). 2. Design and begin implementation of an accountability strategy. 3. Establish clear reporting
+1. Build an effective and efficient Education sector | 1.1. Strengthen capacity of the Ministry through the restructuring of the management structure and reporting mechanism. | The new decentralised management structure functional by 2010 | 1. Setting up of a core cell to drive and implement management reforms in the Ministry with organizational restructuring at both Headquarters and Zone level. 2. Develop the capacity of different units at the Ministry, in Zone Directorates and at the school level to sustain the change process
+ |  | Performance Management System (PMS) put in place by 2010 | 1. Define Key Result Activity (KRA) and Key Performance Indicators (KPIs). 2. Design and begin implementation of an accountability strategy. 3. Establish clear reporting guidelines and schedules
 2. Strengthen Human Resources and Capacity Development | 2.1. Build management capacity for effective delivery of education services | Human Resource Strategy developed by mid 2010 | Develop and implement a comprehensive Human Resource policy for the Ministry
-Human resource database developed by mid 2011 | Develop and implement a Human Resources database
-Training needs analysis conducted by end 2010 | Identify training needs based on the skills and systems requirements of the Ministry
-
-##### 3.8.9. Activities and Target Indicators
+ |  | Human resource database developed by mid 2011 | Develop and implement a Human Resources database
+ |  | Training needs analysis conducted by end 2010 | Identify training needs based on the skills and systems requirements of the Ministry
 
 Ministry of Education, Culture and Human Resources
 
@@ -4903,13 +5159,13 @@ The EHRSP 2008-2020 indicates what the education system of Mauritius should look
 
 Implementation of the Plan, however, will not be a straightforward undertaking. There will be a constant need for careful monitoring in order to systematize learning by doing, and to adapt the Plan to changing circumstances and events.
 
-The  sequencing,  pace  and  phasing  of  implementation  will,  to  a  large  extent,  be  determined  by  the development  of  increased  management  capacities  at  all  levels  of  the  education  system  and  by  the availability of the necessary financial resources. It will also be greatly influenced by the overall socioeconomic development of the country, political will to adhere to such a long-term planning process, the involvement of all the Mauritian people to change the existing educational culture, and above all, the commitment  of  all  stakeholders  to  support  the  priority  elements  of  the  Plan  in  a  predictable  and sustained way.
+The  sequencing,  pace  and  phasing  of  implementation  will,  to  a  large  extent,  be  determined  by  the development  of  increased  management  capacities  at  all  levels  of  the  education  system  and  by  the availability of the necessary financial resources. It will also be greatly influenced by the overall socio-economic development of the country, political will to adhere to such a long-term planning process, the involvement of all the Mauritian people to change the existing educational culture, and above all, the commitment  of  all  stakeholders  to  support  the  priority  elements  of  the  Plan  in  a  predictable  and sustained way.
 
 In view of the uncertainties, implementation of the Plan will be organised in a flexible way on the basis of Annual Operational Plans. Each year a general review of the EHRSP, and quarterly reviews of the Operational  Plans,  will  be  carried  out  in  order  to  assess  progress  made  and  problems  encountered during the time period under review. The results of these reviews will be taken into account to prepare the Operational Plans for the following year. In this way, feedback from the monitoring process will be fully incorporated into the annual forward planning process.
 
 At mid-term, the review will be broadened to examine the extent to which the medium-term plan (up to 2011) may have to be adjusted, taking into account the short term achievements obtained.
 
-Annual  Operational  Plans  will  be  based  on  programme  matrices  that  will  detail  the  targets  to  be reached, the specific activities to be carried out and the different inputs (material and human) to be mobilised. They will assign clear responsibilities for the implementation and monitoring of each of the programmes and programme components to specific departments, divisions or units  in  line  with  the new organizational structure that is being established through the on-going restructuring of the Ministry.
+Annual  Operational  Plans  will  be  based  on  programme  matrices  that  will  detail  the  targets  to  be reached, the specific activities to be carried out and the different inputs (material and human) to be
 
 Ministry of Education, Culture and Human Resources
 
@@ -4921,7 +5177,9 @@ Ministry of Education, Culture and Human Resources
 
 EDUCATION & HUMAN RESOURCES STRATEGY PLAN 2008-2020
 
-Of particular importance will be the creation of close linkages between the preparation of the annual plans and the preparation of the annual budget to ensure that they are fully compatible and thereby facilitate  efficient  implementation.  This  recognises  the  centrality  of  the  budget  to  the  pace  of implementation  but  also  reinforces  the  importance  of  maintaining  the  linkages  and  mutual  codependence of the Strategy Plan and the annual national budget.
+mobilised. They will assign clear responsibilities for the implementation and monitoring of each of the programmes and programme components to specific departments, divisions or units in line with the new organizational structure that is being established through the on-going restructuring of the Ministry.
+
+Of particular importance will be the creation of close linkages between the preparation of the annual plans and the preparation of the annual budget to ensure that they are fully compatible and thereby facilitate  efficient  implementation.  This  recognises  the  centrality  of  the  budget  to  the  pace  of implementation  but  also  reinforces  the  importance  of  maintaining  the  linkages  and  mutual  co-dependence of the Strategy Plan and the annual national budget.
 
 As  this  Ministry  is  one  of  the  first  ministries  to  pilot  the  application  of  Programme-Based  Budgeting procedures (PBB), this should help in reinforcing these links.
 
