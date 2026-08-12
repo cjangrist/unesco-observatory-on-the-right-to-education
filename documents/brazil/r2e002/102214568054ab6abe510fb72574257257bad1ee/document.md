@@ -30,7 +30,7 @@ Constitutional text of October 5, 1988, with the alterations introduced  by  Con
 
 [[START OF PAGE 3]]
 
-## Chamber of Deputies Directing Board
+# Chamber of Deputies Directing Board
 
 53 rd Congress - 4 th Session
 
@@ -50,7 +50,7 @@ President
 
 4th Secretary
 
-### Substitutes
+## Substitutes
 
 1st Substitute
 
@@ -94,9 +94,7 @@ Mozart Vianna de Paiva
 
 [[START OF PAGE 4]]
 
-# Constitution
-
-of the Federative Republic of Brazil
+# Constitution of the Federative Republic of Brazil
 
 [[END OF PAGE 4]]
 
@@ -116,15 +114,15 @@ Documentation and Information Center Publishing Coordination Brasília - 2010
 
 [[START OF PAGE 6]]
 
-## CHAMBER OF DEPUTIES
+# CHAMBER OF DEPUTIES
 
-### LEGISLATIVE DIVISION
+## LEGISLATIVE DIVISION
 Head Afrísio Vieira Lima Filho
 
-### DOCUMENTATION AND INFORMATION CENTER
+## DOCUMENTATION AND INFORMATION CENTER
 Head Adolfo C. A. R. Furtado
 
-### PUBLISHING COORDINATION
+## PUBLISHING COORDINATION
 Head Maria Clara Bicudo Cesar
 
 Grafic Project: Renzo Viggiano Cover: Cosme Rocha
@@ -196,9 +194,7 @@ The alterations deriving from the Constitutional Amendments and from the Revisio
 
 [[START OF PAGE 12]]
 
-# Constitution
-
-of the Federative Republic of Brazil
+# Constitution of the Federative Republic of Brazil
 
 ## Preamble
 
@@ -282,9 +278,7 @@ Constitution of the Federative Republic of Brazil
 
 ## TITLE II Fundamental Rights and Guarantees
 
-### CHAPTER I
-
-Individual and Collective Rights and Duties
+### CHAPTER I Individual and Collective Rights and Duties
 
 ##### Article 5.
 All persons are equal before the law, without any distinction whatsoever, Brazilians and foreigners residing in the country being ensured of inviolability of the right to life, to liberty, to equality, to security and to property, on the following terms: (CA No. 45, 2004)
@@ -551,9 +545,7 @@ Constitution of the Federative Republic of Brazil
 
 Paragraph 4.  Brazil accepts the jurisdiction of an International Criminal Court to whose creation it has expressed its adhesion.
 
-### CHAPTER II
-
-Social Rights
+### CHAPTER II Social Rights
 
 ##### Article 6.
 Education, health, food, work, housing, leisure, security, social security, protection of motherhood and childhood, and assistance to the destitute are social rights, as set forth by this Constitution. (CA No. 26, 2000; CA No. 64, 2010)
@@ -693,9 +685,7 @@ Fundamental Rights and Guarantees
 
 [[START OF PAGE 24]]
 
-### CHAPTER III
-
-Nationality
+### CHAPTER III Nationality
 
 ##### Article 12.
 The following are Brazilians: (RCA No. 3, 1994; CA No. 23, 1999; CA No. 54, 2007)
@@ -759,9 +749,7 @@ Portuguese is the official  language  of  the  Federative  Republic  of Brazil.
 
 - Paragraph 2.  The states, the Federal District and the municipalities may have symbols of their own.
 
-### CHAPTER IV
-
-Political Rights
+### CHAPTER IV Political Rights
 
 ##### Article 14.
 The sovereignty of the people shall be exercised by universal suffrage and by the direct and secret voting, with equal value for all, and, according to the law, by means of: (RCA No. 4, 1993; CA No. 16, 1997)
@@ -860,9 +848,7 @@ Constitution of the Federative Republic of Brazil
 ##### Article 16.
 The law that alters the electoral procedure shall come into force on the date of its publication, and shall not apply to the elections that take place within one year of it being in force. (CA No. 4, 1993)
 
-### CHAPTER V
-
-Political Parties
+### CHAPTER V Political Parties
 
 ##### Article 17.
 The creation, amalgamation, merger and extinction of political parties is free, with due regard for national sovereignty, the democratic regime, the plurality of political parties, the fundamental rights of the individual, and observing the following precepts: (CA No. 52, 2006)
@@ -893,9 +879,7 @@ Fundamental Rights and Guarantees
 
 ## TITLE III The Organization of the State
 
-### CHAPTER I
-
-The Political and Administrative Organization
+### CHAPTER I The Political and Administrative Organization
 
 ##### Article 18.
 The political and administrative organization of the Federative Republic of Brazil comprises the Union, the states, the Federal District and the municipalities, all of them autonomous, as this Constitution provides. (CA No. 15, 1996)
@@ -917,9 +901,7 @@ II - refuse to honour public documents;
 
 III - create distinctions between Brazilians or preferences favouring some.
 
-### CHAPTER II
-
-The Union
+### CHAPTER II The Union
 
 ##### Article 20.
 The following are property of the Union: (CA No. 46, 2005)
@@ -1206,9 +1188,7 @@ Constitution of the Federative Republic of Brazil
 
 Paragraph 4.  The supervenience of a federal law over general rules suspends the effectiveness of a state law to the extent that the two are contrary.
 
-### CHAPTER III
-
-The Federated States
+### CHAPTER III The Federated States
 
 ##### Article 25.
 The states are organized and governed by the Constitutions and laws they may adopt, in accordance with the principles of this Constitution. (CA No. 5, 1995)
@@ -1256,9 +1236,7 @@ Paragraph 1.  The Governor who takes another post or function in governmental en
 
 Paragraph 2.  The compensation of the Governor, the Vice-Governor, and of the State Cabinet Members shall be established by an act of the State Legislative Assembly, as provided by articles 37, XI, 39, paragraph 4, 150, II, 153, III, and 153, paragraph 2, I.
 
-### CHAPTER IV
-
-The Municipalities
+### CHAPTER IV The Municipalities
 
 ##### Article 29.
 Municipalities shall be governed by organic law, voted in two readings, with a minimum interval of ten days between the readings, and approved by two-thirds of the members of the Municipal Chamber, which shall promulgate it, observing the principles established in this Constitution, in the Constitution of the respective state and the following precepts: (CA No. 1, 1992; CA No. 16, 1997; CA No. 19, 1998; CA No. 25, 2000; CA No. 58, 2009)
@@ -1452,13 +1430,9 @@ Constitution of the Federative Republic of Brazil
 
 Paragraph 4.  The creation of municipal courts, councils or agencies of accounts is forbidden.
 
-### CHAPTER V
+### CHAPTER V The Federal District and the Territories
 
-The Federal District and the Territories
-
-#### SECTION I
-
-The Federal District
+#### SECTION I The Federal District
 
 ##### Article 32.
 The Federal District, which may not be divided into municipalities, shall be governed by an organic law, voted in two readings, with a minimum interval of ten days, and approved by two-thirds of the Legislative Chamber, which shall enact it, in accordance with the principles set forth in this Constitution.
@@ -1471,9 +1445,7 @@ Paragraph 3.  The provisions of article 27 apply to the District Deputies and th
 
 Paragraph 4.  A federal law shall provide for the use, by the Government of the Federal District, of the civil and military polices and the military fire brigade.
 
-#### SECTION II
-
-The Territories
+#### SECTION II The Territories
 
 ##### Article 33.
 The law shall provide for the administrative and judicial organization of the territories.
@@ -1484,9 +1456,7 @@ Paragraph 2.  The accounts of the Government of the territory shall be submitted
 
 Paragraph 3.  In the federal territories with over a hundred thousand inhabitants, in addition to the Governor, appointed as set forth in this Constitution, there shall be judicial agencies of first and second instances, members of the Public Prosecution and Federal Public Legal Defenders; the law shall provide for the elections to the Territory Chamber and its decision-making powers.
 
-### CHAPTER VI
-
-Intervention
+### CHAPTER VI Intervention
 
 ##### Article 34.
 The Union shall not intervene in the states or in the Federal District, except: (CA No. 14, 1996; CA No. 29, 2000)
@@ -1569,7 +1539,7 @@ Public Administration
 
 ### SECTION I
 
-###### General Provisions
+##### General Provisions
 
 Article 37. The governmental entities and entities owned by the Government in any of the powers of the Union, the states, the Federal District and the Municipalities shall obey the principles of lawfulness, impersonality, morality, publicity, and efficiency, and also the following: (CA No. 19, 1998; CA No. 20, 1998; CA No. 41, 2003; CA No. 42, 2003; CA No. 47, 2005)
 
@@ -1901,7 +1871,7 @@ The Legislative Power
 
 ### SECTION I
 
-###### The National Congress
+##### The National Congress
 
 Article 44. The Legislative Power is exercised by the National Congress, which is composed of the Chamber of Deputies and the Federal Senate.
 
@@ -2019,7 +1989,7 @@ Paragraph 2.  The Directing Boards of the Chamber of Deputies and of the Federal
 
 ### SECTION III
 
-###### The Chamber of Deputies
+##### The Chamber of Deputies
 
 Article 51. It is exclusively the competence of the Chamber of Deputies: (CA No. 19, 1998)
 
@@ -2043,7 +2013,7 @@ The Organization of the Powers
 
 ### SECTION IV
 
-###### The Federal Senate
+##### The Federal Senate
 
 - Article 52. It is exclusively the competence of the Federal Senate: (CA No. 19, 1998; CA No. 23, 1999; CA No. 42, 2003; CA No. 45, 2004)
 
@@ -2101,7 +2071,7 @@ Sole paragraph. In the cases provided for in items I and II, the Chief Justice o
 
 ### SECTION V
 
-###### Deputies and Senators
+##### Deputies and Senators
 
 Article 53. Deputies and Senators enjoy civil and criminal inviolability on account of any of their opinions, words and votes. (CA No. 35, 2001)
 
@@ -2233,7 +2203,7 @@ Paragraph 8.  If there are provisional measures in effect on the date a special 
 
 ### SECTION VII
 
-###### The Committees
+##### The Committees
 
 Article 58. The National Congress and both its Houses shall have permanent and temporary committees, established in the manner and with the incumbencies set forth in the respective regulations or in the act from which their creation resulted.
 
@@ -2267,9 +2237,9 @@ Paragraph 4.  During recess there shall be a committee to represent the National
 
 ### SECTION VIII
 
-###### The Legislative Process
+##### The Legislative Process
 
-###### SUBSECTION I
+##### SUBSECTION I
 
 General Provision
 
@@ -2299,9 +2269,9 @@ VII - resolutions.
 
 Sole paragraph. A supplementary law shall provide for the preparation, drafting, amendment and consolidation of laws.
 
-###### SUBSECTION II
+##### SUBSECTION II
 
-###### Amendments to the Constitution
+##### Amendments to the Constitution
 
 - Article 60. The Constitution may be amended on the proposal of:
 
@@ -2329,7 +2299,7 @@ Sole paragraph. A supplementary law shall provide for the preparation, drafting,
 
 - Paragraph 5.  The matter dealt with in a proposal of amendment that is rejected or  considered  impaired  shall  not  be  the  subject  of  another  proposal  in  the  same legislative session.
 
-###### SUBSECTION III
+##### SUBSECTION III
 
 The Laws
 
@@ -2485,7 +2455,7 @@ Paragraph 3.  If the resolution calls for consideration of the bill by the Natio
 
 ### SECTION IX
 
-###### Accounting, Financial and Budgetary Control
+##### Accounting, Financial and Budgetary Control
 
 Article 70. Control of accounts, finances, budget, operations and property of the Union and of the agencies of the direct and indirect administration, as to lawfulness, legitimacy, economic efficiency, application of subsidies and waiver of revenues, shall be exercised by the National Congress, by means of external control and of the internal control system of each Power. (CA No. 19, 1998)
 
@@ -2771,7 +2741,7 @@ Paragraph 3.  In the event of common offenses, the President of the Republic sha
 
 ### SECTION IV
 
-###### The Ministers of State
+##### The Ministers of State
 
 - Article 87. The Ministers of State shall be chosen from among Brazilians over twenty-one years of age and in possession of their political rights.
 
@@ -2791,7 +2761,7 @@ Article 88. The law shall provide for the creation and abolishment of Ministries
 
 The Council of the Republic and the National Defense Council
 
-###### SUBSECTION I
+##### SUBSECTION I
 
 The Council of the Republic
 
@@ -2829,9 +2799,9 @@ Paragraph 1.  The President of the Republic may call a State Minister to partici
 
 - Paragraph 2.  The organization and operation of the Council of the Republic shall be regulated by law.
 
-###### SUBSECTION II
+##### SUBSECTION II
 
-###### The National Defense Council
+##### The National Defense Council
 
 - Article 91. The National Defense Council is a consultation body of the President of the Republic on matters related to national sovereignty and the defense of the democratic state, and the following participate in it as natural members: (CA No. 23, 1999)
 
@@ -2873,11 +2843,11 @@ Paragraph 2.  The organization and the operation of the National Defense Council
 
 ## CHAPTER III
 
-###### The Judicial Power
+##### The Judicial Power
 
 ### SECTION I
 
-###### General Provisions
+##### General Provisions
 
 - Article  92. The following are the bodies of the Judicial Power: (CA No. 45, 2004)
 
@@ -2995,7 +2965,7 @@ The Organization of the Powers
 
 #### Article 96. It is of the exclusive competence of: (CA No. 41, 2003)
 
-###### I - the courts:
+##### I - the courts:
 
 - to elect their directive bodies and to draw up their internal regulations, in compliance with the rules of proceedings and the procedural guarantees of the parties, and regulating the competence and the operation of the respective jurisdictional and administrative bodies;
 
@@ -3111,7 +3081,7 @@ Paragraph 16.  The Federal Government may, at its own discretion and under the t
 
 ### Section II
 
-###### The Supreme Federal Court
+##### The Supreme Federal Court
 
 Article 101. The Supreme Federal Court is composed of eleven Justices, chosen from among citizens over thirty-five and under sixty-five years of age, of notable juridical learning and spotless reputation.
 
@@ -3125,7 +3095,8 @@ The Organization of the Powers
 
 [[START OF PAGE 81]]
 
-#### Article 102. The Supreme Federal Court is responsible, essentially, for safeguarding the Constitution, and it is within its competence: (CA No. 3, 1993; CA No. 22, 1999; CA No. 23, 1999; CA No. 45, 2004)
+#### Article 102.
+The Supreme Federal Court is responsible, essentially, for safeguarding the Constitution, and it is within its competence: (CA No. 3, 1993; CA No. 22, 1999; CA No. 23, 1999; CA No. 45, 2004)
 
 - I - to institute legal proceeding and trial, in the first instance, of:
 
@@ -3193,7 +3164,8 @@ Paragraph 2.  Final decisions on merits, pronounced by the Supreme Federal Court
 
 Paragraph 3.  In an extraordinary appeal, the appealing party must demonstrate the general repercussion of the constitutional issues discussed in the case, under the terms of the law, so that the Court may examine the possibility of accepting the appeal, and it may only reject it through the opinion of two thirds of its members.
 
-#### Article  103. The following may file direct actions of unconstitutionality  and declaratory actions of constitutionality: (CA No. 3, 1993; CA No. 45, 2004)
+#### Article  103.
+The following may file direct actions of unconstitutionality  and declaratory actions of constitutionality: (CA No. 3, 1993; CA No. 45, 2004)
 
 - I - the President of the Republic;
 
@@ -3229,7 +3201,8 @@ Paragraph 3.  When the Supreme Federal Court examines the unconstitutionality in
 
 Paragraph 4.  (Revoked).
 
-#### Article 103-A. The Federal Supreme Court may, ex-officio or upon request, upon decision of two thirds of its members, and following reiterated judicial decisions on constitutional matter, issue a summula (restatement of case law) which, as from publication in the official press, shall have a binding effect upon the lower bodies of the Judicial Power and the direct and indirect public administration, in the federal, state, and local levels, and which may also be reviewed or revoked, as set forth in law. (CA No. 45, 2004)
+#### Article 103-A.
+The Federal Supreme Court may, ex-officio or upon request, upon decision of two thirds of its members, and following reiterated judicial decisions on constitutional matter, issue a summula (restatement of case law) which, as from publication in the official press, shall have a binding effect upon the lower bodies of the Judicial Power and the direct and indirect public administration, in the federal, state, and local levels, and which may also be reviewed or revoked, as set forth in law. (CA No. 45, 2004)
 
 Paragraph 1.  The purpose of a summula is to validate, construe, and impart effectiveness to some rules about which there is a current controversy among judicial bodies or among such bodies and the public administration, and such controversy brings about serious juridical insecurity and the filing of multiple lawsuits involving similar issues.
 
@@ -3237,7 +3210,8 @@ Paragraph 2.  Without prejudice to the provisions the law may establish, the iss
 
 Paragraph 3.  An administrative act or judicial decision which contradicts the applicable summula or which unduly applies a summula may be appealed to the Supreme Federal Court, and if the appeal is granted, such Court shall declare the administrative act null and void or overrule the appealed judicial decision, ordering that a new judicial decision be issued, with or without applying the summula, as the case may be.
 
-#### Article 103-B. The National Council of Justice is composed of 15 (fifteen) members appointed for a two-year term of office, one reappointment being permitted, as follows: (CA No. 45, 2004; CA No. 61, 2009)
+#### Article 103-B.
+The National Council of Justice is composed of 15 (fifteen) members appointed for a two-year term of office, one reappointment being permitted, as follows: (CA No. 45, 2004; CA No. 61, 2009)
 
 I - the Chief Justice of the Supreme Federal Court;
 
@@ -3317,9 +3291,10 @@ Paragraph 7.  The Union shall establish Justice ombudsman's offices, including i
 
 ### SECTION III
 
-###### The Superior Court of Justice
+##### The Superior Court of Justice
 
-#### Article 104. The Superior Court of Justice is composed of a minimum of thirtythree Justices. (CA No. 45, 2004)
+#### Article 104.
+The Superior Court of Justice is composed of a minimum of thirtythree Justices. (CA No. 45, 2004)
 
 86
 
@@ -3335,7 +3310,8 @@ I - one-third shall be chosen from among judges of the Federal Regional Courts a
 
 II - one-third, in equal parts, shall be chosen from among lawyers and members of the Federal Public Prosecution, the Public Prosecution of the states, the Public Prosecution of the Federal District and the Territories, alternately, nominated under the terms of article 94.
 
-#### Article 105. The Superior Court of Justice has the competence to: (CA No. 23, 1999; CA No. 45, 2004)
+#### Article 105.
+The Superior Court of Justice has the competence to: (CA No. 23, 1999; CA No. 45, 2004)
 
 I - institute legal proceeding and trial, in the first instance, of:
 
@@ -3389,15 +3365,17 @@ II - the Council of Federal Justice, which shall, under the terms of the law, ex
 
 ### SECTION IV
 
-###### The Federal Regional Courts and the Federal Judges
+##### The Federal Regional Courts and the Federal Judges
 
-#### Article 106. The following are the bodies of Federal Justice:
+#### Article 106.
+The following are the bodies of Federal Justice:
 
 I - the Federal Regional Courts;
 
 II - the Federal Judges.
 
-#### Article 107. The Federal Regional Courts are composed of a minimum of seven judges, selected, whenever possible, in the respective region and nominated by the President of the Republic from among Brazilians over thirty and under sixty-five years of age, as follows: (CA No. 45, 2004)
+#### Article 107.
+The Federal Regional Courts are composed of a minimum of seven judges, selected, whenever possible, in the respective region and nominated by the President of the Republic from among Brazilians over thirty and under sixty-five years of age, as follows: (CA No. 45, 2004)
 
 I - one-fifth shall be chosen from among lawyers effectively practicing their professional activity for more than ten years and from among members of the Federal Public Prosecution, with over ten years of service;
 
@@ -3417,7 +3395,8 @@ Paragraph 2.  The Federal Regional Courts shall install an itinerant justice sys
 
 Paragraph 3.  The Federal Regional Courts may operate in a decentralized mode, by creating regional Divisions, with a view to affording claimants full access to justice in all stages of the judicial action.
 
-#### Article 108. The Federal Regional Courts have the competence to:
+#### Article 108.
+The Federal Regional Courts have the competence to:
 
 I - institute legal proceeding and trial, in the first instance, of:
 
@@ -3433,7 +3412,8 @@ I - institute legal proceeding and trial, in the first instance, of:
 
 - II  -  judge,  at  the  level  of  appeal,  cases  decided  by  federal  judges  and  by state  judges  in  the  exercise  of  the  federal  competence  within  the  area  of  their jurisdiction.
 
-#### Article 109. The federal judges have the competence to institute legal proceeding and trial of: (CA No. 45, 2004)
+#### Article 109.
+The federal judges have the competence to institute legal proceeding and trial of: (CA No. 45, 2004)
 
 I - cases in which the Union, an autonomous government agency or a federal public company have an interest as plaintiffs, defendants, privies or interveners, with the exception of cases of bankruptcy, of job-related accidents, and of those subject to the Electoral and Labour Courts;
 
@@ -3477,7 +3457,8 @@ Paragraph 4.  In the event of the preceding paragraph, the appropriate appeal sh
 
 Paragraph 5.  In cases of serious human rights violations, and with a view to ensuring compliance with obligations deriving from international human rights treaties to which Brazil is a party, the Attorney-General of the Republic may request, before the Superior Court of Justice, and in the course of any of the stages of the inquiry or judicial action, that jurisdiction on the matter be taken to Federal Justice.
 
-#### Article 110. Each state, as well as the Federal District, shall be a judicial section, which shall have its seat in the respective capital, and there shall be courts of first instance located where established in law.
+#### Article 110.
+Each state, as well as the Federal District, shall be a judicial section, which shall have its seat in the respective capital, and there shall be courts of first instance located where established in law.
 
 Sole paragraph. In the Federal Territories, the jurisdiction and duties attributed to federal judges shall be within the competence of the judges of the local justice, under the terms of the law.
 
@@ -3491,9 +3472,10 @@ Constitution of the Federative Republic of Brazil
 
 ### SECTION V
 
-###### Labour Courts and Judges
+##### Labour Courts and Judges
 
-#### Article 111. The following are the bodies of Labour Justice: (CA No. 24, 1999; CA No. 45, 2004)
+#### Article 111.
+The following are the bodies of Labour Justice: (CA No. 24, 1999; CA No. 45, 2004)
 
 - I - the Superior Labour Court;
 
@@ -3507,7 +3489,8 @@ II - the Regional Labour Courts;
 
 - Paragraph 3.  (Revoked).
 
-#### Article 111-A. The Superior Labour Court shall be composed of twenty-seven Justices, chosen from among Brazilians over thirty-five and under sixty-five years of age, appointed by the President of the Republic after approval by the absolute majority of the Federal Senate, as follows: (CA No. 45, 2004)
+#### Article 111-A.
+The Superior Labour Court shall be composed of twenty-seven Justices, chosen from among Brazilians over thirty-five and under sixty-five years of age, appointed by the President of the Republic after approval by the absolute majority of the Federal Senate, as follows: (CA No. 45, 2004)
 
 - I - one-fifth from among lawyers effectively practicing their professional activity for more than ten years and from among members of the Labour Public Prosecution with over ten years of effective exercise, with due regard for the provisions of article 94;
 
@@ -3521,11 +3504,14 @@ II - the Regional Labour Courts;
 
 - II - the Higher Council of Labour Justice, which shall, under the terms of the law, exercise administrative, budgetary, financial, and property supervision over Labour Courts of first and second instances, in the quality of central body of the system, whose decisions shall have a binding effect.
 
-#### Article 112. The law shall establish Labour Courts of first instance, allowing, in districts not covered by their jurisdiction, for the attribution of such jurisdiction to judges, appeals being admissible to the respective Regional Labour Court. (CA No. 45, 2004)
+#### Article 112.
+The law shall establish Labour Courts of first instance, allowing, in districts not covered by their jurisdiction, for the attribution of such jurisdiction to judges, appeals being admissible to the respective Regional Labour Court. (CA No. 45, 2004)
 
-#### Article  113. The law shall regulate the constitution,  installation,  jurisdiction, powers, guarantees, and conditions of exercise of the bodies of Labour Justice. (CA No. 24, 1999)
+#### Article  113.
+The law shall regulate the constitution,  installation,  jurisdiction, powers, guarantees, and conditions of exercise of the bodies of Labour Justice. (CA No. 24, 1999)
 
-#### Article 114. Labour Justice has the power to hear and try: (CA No. 20, 1998; CA No. 45, 2004)
+#### Article 114.
+Labour Justice has the power to hear and try: (CA No. 20, 1998; CA No. 45, 2004)
 
 The Organization of the Powers
 
@@ -3559,7 +3545,8 @@ Paragraph 2.  If any of the parties refuses collective negotiation or arbitratio
 
 Paragraph 3.  In the event of a strike in an essential activity which may possibly injure the public interest, the Labour Public Prosecution may file a collective labour suit, and it is incumbent upon Labour Courts to settle the conflict.
 
-#### Article 115. The Regional Labour Courts are composed of a minimum of seven judges, selected, whenever possible, in the respective region and appointed by the President of the Republic from among Brazilians over thirty and under sixty-five years of age, as follows: (CA No. 45, 2004)
+#### Article 115.
+The Regional Labour Courts are composed of a minimum of seven judges, selected, whenever possible, in the respective region and appointed by the President of the Republic from among Brazilians over thirty and under sixty-five years of age, as follows: (CA No. 45, 2004)
 
 I - one-fifth shall be chosen from among lawyers effectively practicing their professional activity for more than ten years and from among members of the Labour Public Prosecution with over ten years of effective service, with due regard for the provisions of article 94;
 
@@ -3577,17 +3564,20 @@ Constitution of the Federative Republic of Brazil
 
 - Paragraph 2.  The Regional Labour Courts may operate in a decentralized mode, by creating regional Divisions, with a view to affording claimants full access to justice in all stages of the judicial action.
 
-#### Article 116. In the Labour Courts of first instance, jurisdiction shall be exercised by a single judge. (CA No. 24, 1999)
+#### Article 116.
+In the Labour Courts of first instance, jurisdiction shall be exercised by a single judge. (CA No. 24, 1999)
 
 Sole paragraph. (Revoked).
 
-#### Article 117. (Revoked). (CA No. 24, 1999)
+#### Article 117.
+(Revoked). (CA No. 24, 1999)
 
 ### SECTION VI
 
-###### Electoral Courts and Judges
+##### Electoral Courts and Judges
 
-#### Article 118. The following are the bodies of Electoral Justice:
+#### Article 118.
+The following are the bodies of Electoral Justice:
 
 - I - the Superior Electoral Court;
 
@@ -3597,7 +3587,8 @@ Sole paragraph. (Revoked).
 
 - IV - the Electoral Boards.
 
-#### Article 119. The Superior Electoral Court shall be composed of a minimum of seven members chosen:
+#### Article 119.
+The Superior Electoral Court shall be composed of a minimum of seven members chosen:
 
 - I - through election, by secret vote:
 
@@ -3609,7 +3600,8 @@ Sole paragraph. (Revoked).
 
 - Sole paragraph. The Superior Electoral Court shall elect its President and VicePresident from among the Justices of the Supreme Federal Court, and its Electoral Corregidor from among the Justices of the Superior Court of Justice.
 
-#### Article 120. There shall be a Regional Electoral Court in the capital of each state and in the Federal District.
+#### Article 120.
+There shall be a Regional Electoral Court in the capital of each state and in the Federal District.
 
 - Paragraph 1.  The Regional Electoral Courts shall be composed:
 
@@ -3633,7 +3625,8 @@ The Organization of the Powers
 
 Paragraph 2.  The Regional Electoral Court shall elect its President and VicePresident from among its judges.
 
-#### Article 121. A supplementary law shall provide for the organization and competence of the electoral courts, judges and boards.
+#### Article 121.
+A supplementary law shall provide for the organization and competence of the electoral courts, judges and boards.
 
 Paragraph 1.  The members of the courts, the court judges and the members of the electoral boards, while in office and insofar as applicable to them, shall enjoy full guarantees and shall be non-removable.
 
@@ -3655,15 +3648,17 @@ V - they deny habeas corpus , writs of mandamus, habeas data or writs of injunct
 
 ### SECTION VII
 
-###### Military Courts and Judges
+##### Military Courts and Judges
 
-#### Article 122. The following are the bodies of Military Justice:
+#### Article 122.
+The following are the bodies of Military Justice:
 
 I - the Superior Military Court;
 
 II - the Military Courts and Judges instituted by law.
 
-#### Article 123. The Superior Military Court shall be composed of fifteen life Justices, appointed by the President of the Republic, after their nomination has been approved by the Federal Senate, three of which shall be chosen from among General officers of the Navy, four from among General officers of the Army, three from among General officers of the Air Force, all of them in active service and in the highest rank of the career, and five from among civilians.
+#### Article 123.
+The Superior Military Court shall be composed of fifteen life Justices, appointed by the President of the Republic, after their nomination has been approved by the Federal Senate, three of which shall be chosen from among General officers of the Navy, four from among General officers of the Army, three from among General officers of the Air Force, all of them in active service and in the highest rank of the career, and five from among civilians.
 
 Sole paragraph. The civil justices shall be chosen by the President of the Republic from among Brazilians over thirty-five years of age, as follows:
 
@@ -3679,15 +3674,17 @@ I - three from among lawyers of notable juridical learning and spotless conduct,
 
 II - two, by equal choice, from among auditor judges and members of the Public Prosecution of the Military Justice.
 
-#### Article 124. The Military Courts have the competence to carry out legal proceeding and trial of the military crimes defined by law.
+#### Article 124.
+The Military Courts have the competence to carry out legal proceeding and trial of the military crimes defined by law.
 
 Sole paragraph. The law shall make provisions for the organization, operation and competence of the Military Courts.
 
 ### SECTION VIII
 
-###### Courts and Judges of the States
+##### Courts and Judges of the States
 
-#### Article 125. The states shall organize their judicial system, observing the principles established in this Constitution. (CA No. 45, 2004)
+#### Article 125.
+The states shall organize their judicial system, observing the principles established in this Constitution. (CA No. 45, 2004)
 
 Paragraph 1.  The competence of the courts shall be defined in the Constitution of the state, and the law of judicial organization shall be the initiative of the Court of Justice.
 
@@ -3711,19 +3708,21 @@ The Organization of the Powers
 
 [[START OF PAGE 95]]
 
-#### Article 126. For the settlement of conflicts relating to land property, the Court of Justice shall propose the creation of specialized single-judge courts, with exclusive competence for agrarian matters. (CA No. 45, 2004)
+#### Article 126.
+For the settlement of conflicts relating to land property, the Court of Justice shall propose the creation of specialized single-judge courts, with exclusive competence for agrarian matters. (CA No. 45, 2004)
 
 Sole paragraph. Whenever efficient jurisdictional service requires it, the judge shall go personally to the site of the litigation.
 
 ## CHAPTER IV
 
-###### The Functions Essential to Justice
+##### The Functions Essential to Justice
 
 ### SECTION I
 
-###### The Public Prosecution
+##### The Public Prosecution
 
-#### Article 127. The Public Prosecution is a permanent institution, essential to the jurisdictional function of the State, and it is its duty to defend the juridical order, the democratic regime and the inalienable social and individual interests. (CA No. 19, 1998; CA No. 45, 2004)
+#### Article 127.
+The Public Prosecution is a permanent institution, essential to the jurisdictional function of the State, and it is its duty to defend the juridical order, the democratic regime and the inalienable social and individual interests. (CA No. 19, 1998; CA No. 45, 2004)
 
 Paragraph 1.  Unity, indivisibility and functional independence are institutional principles of the Public Prosecution.
 
@@ -3737,7 +3736,8 @@ Paragraph 5.  If the budget proposal referred to in this article and thus forwar
 
 Paragraph 6.  In the implementation of the budget of a specific fiscal year, no expenses may be incurred and no obligations may be assumed that exceed the limits stipulated in the law of budgetary directives, except when previously authorized, by opening supplementary or special credits.
 
-#### Article 128. The Public Prosecution comprises: (CA No. 19, 1998; CA No. 45, 2004)
+#### Article 128.
+The Public Prosecution comprises: (CA No. 19, 1998; CA No. 45, 2004)
 
 I - the Public Prosecution of the Union, which includes:
 
@@ -3801,7 +3801,8 @@ f) receiving, on any account or for any reason, financial aid or contribution fr
 
 Paragraph 6.  The provisions of article 95, sole paragraph, V, shall apply to the members of Public Prosecution.
 
-#### Article 129. The following are institutional functions of the Public Prosecution: (CA No. 45, 2004)
+#### Article 129.
+The following are institutional functions of the Public Prosecution: (CA No. 45, 2004)
 
 I  -  to  initiate,  exclusively, public criminal prosecution, under the terms of the law;
 
@@ -3839,9 +3840,11 @@ Constitution of the Federative Republic of Brazil
 
 Paragraph 5.  In the Public Prosecution, proceedings will be assigned immediately upon filing.
 
-#### Article 130. The provisions of this section concerning rights, prohibitions and form of investitute apply to the members of the Public Prosecution before the Audit Courts.
+#### Article 130.
+The provisions of this section concerning rights, prohibitions and form of investitute apply to the members of the Public Prosecution before the Audit Courts.
 
-#### Article 130-A. The National Council of the Public Prosecution is composed of fourteen members appointed by the President of the Republic, after their nomination has been approved by the absolute majority of the Federal Senate, for a two-year term of office, one reappointment being permitted, as follows. (CA No. 45, 2004)
+#### Article 130-A.
+The National Council of the Public Prosecution is composed of fourteen members appointed by the President of the Republic, after their nomination has been approved by the absolute majority of the Federal Senate, for a two-year term of office, one reappointment being permitted, as follows. (CA No. 45, 2004)
 
 I - the Attorney-General of the Republic, who chairs the Council;
 
@@ -3891,9 +3894,10 @@ Paragraph 5.  Federal and state legislation shall establish ombudsman's offices 
 
 ### SECTION II
 
-###### The Public Advocacy (CA No. 19, 1998)
+##### The Public Advocacy (CA No. 19, 1998)
 
-#### Article 131. The Advocacy-General of the Union is the institution which, either directly  or  through  a  subordinated  agency,  represents  the  Union  judicially  or extrajudicially, and it is responsible, under the terms of the supplementary law which provides for its organization and operation, for the activities of judicial consultation and assistance to the Executive Power.
+#### Article 131.
+The Advocacy-General of the Union is the institution which, either directly  or  through  a  subordinated  agency,  represents  the  Union  judicially  or extrajudicially, and it is responsible, under the terms of the supplementary law which provides for its organization and operation, for the activities of judicial consultation and assistance to the Executive Power.
 
 Paragraph 1.  The Advocacy-General of the Union is headed by the AdvocateGeneral of the Union, freely appointed by the President of the Republic from among citizens  over  thirty-five  years  of  age,  of  notable  juridical  learning  and  spotless reputation.
 
@@ -3909,23 +3913,27 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 100]]
 
-#### Article 132. The Prosecutors of the states and of the Federal District, organized in a career, admission into which shall depend on a civil service entrance examination of tests and presentation of academic and professional credentials, with the participation of the Brazilian Bar  Association in all of its stages, shall exercise judicial representation and judicial consultation for their respective federated units. (CA No. 19, 1998)
+#### Article 132.
+The Prosecutors of the states and of the Federal District, organized in a career, admission into which shall depend on a civil service entrance examination of tests and presentation of academic and professional credentials, with the participation of the Brazilian Bar  Association in all of its stages, shall exercise judicial representation and judicial consultation for their respective federated units. (CA No. 19, 1998)
 
 Sole paragraph. The Prosecutors referred to in this article are entitled to acquire tenure after three years of effective exercise, by means of a performance appraisal carried  out  by  the  relevant  agencies,  following  a  detailed  report  issued  by  the corregidors.
 
 ### SECTION III
 
-###### The Legal Profession and the Public Legal Defense
+##### The Legal Profession and the Public Legal Defense
 
-#### Article 133. The lawyer is indispensable to the administration of justice and is inviolable for his acts or manifestations in the exercise of his profession, within the limits of the law.
+#### Article 133.
+The lawyer is indispensable to the administration of justice and is inviolable for his acts or manifestations in the exercise of his profession, within the limits of the law.
 
-#### Article 134. The Public Legal Defense is an essential institution to the jurisdictional function of the State and is responsible for the judicial guidance and the defense, in all levels, of the needy, under the terms of article 5, LXXIV . (CA No. 45, 2004)
+#### Article 134.
+The Public Legal Defense is an essential institution to the jurisdictional function of the State and is responsible for the judicial guidance and the defense, in all levels, of the needy, under the terms of article 5, LXXIV . (CA No. 45, 2004)
 
 Paragraph 1.  A supplementary law shall organize the Public Legal Defense of the Union, of the Federal District and the Territories and shall prescribe general rules for its organization in the states, into career offices filled, in the initial class, by means of a civil service entrance examination of tests and presentation of academic and professional credentials, with the guarantee of irremovability being ensured to its members and the practice of the legal profession beyond the institutional attributions being forbidden.
 
 Paragraph 2.  The Public Legal Defense of each state shall be ensured of functional and administrative autonomy, as well as the prerogative to present its budget proposal within the limits set forth in the law of budgetary directives and in due compliance with the provisions of article 99, paragraph 2.
 
-#### Article 135. Servants in the careers regulated in Sections II and III of this Chapter shall be remunerated according to article 39, paragraph 4. (CA No. 19, 1998)
+#### Article 135.
+Servants in the careers regulated in Sections II and III of this Chapter shall be remunerated according to article 39, paragraph 4. (CA No. 19, 1998)
 
 The Organization of the Powers
 
@@ -3939,13 +3947,14 @@ The Organization of the Powers
 
 ## CHAPTER I
 
-###### The State of Defense and the State of Siege
+##### The State of Defense and the State of Siege
 
 ### SECTION I
 
-###### The State of Defense
+##### The State of Defense
 
-#### Article 136. The President of the Republic may, after hearing the Council of the Republic and the National Defense Council, decree a state of defense to preserve or to promptly re-establish, in specific and restricted locations, the public order or the social peace threatened by serious and imminent institutional instability or affected by major natural calamities.
+#### Article 136.
+The President of the Republic may, after hearing the Council of the Republic and the National Defense Council, decree a state of defense to preserve or to promptly re-establish, in specific and restricted locations, the public order or the social peace threatened by serious and imminent institutional instability or affected by major natural calamities.
 
 Paragraph 1.  The decree instituting the state of defense shall determine the period of its duration, shall specify the areas to be encompassed and shall indicate, within the terms and limitations of the law, the coercive measures to be in force from among the following:
 
@@ -3989,9 +3998,10 @@ Paragraph 7.  If the decree is rejected, the state of defense shall cease immedi
 
 ### SECTION II
 
-###### The State of Siege
+##### The State of Siege
 
-#### Article 137. The President of the Republic may, after hearing the Council of the Republic and the National Defense Council, request authorization from the National Congress to decree the state of siege in the event of:
+#### Article 137.
+The President of the Republic may, after hearing the Council of the Republic and the National Defense Council, request authorization from the National Congress to decree the state of siege in the event of:
 
 I  -  serious  disturbance  with  nationwide  effects  or  ocurrence  of  facts  that evidence the innefectiveness of a measure taken during the state of defense;
 
@@ -3999,7 +4009,8 @@ II - declaration of state of war or response to foreign armed agression.
 
 Sole paragraph. The President of the Republic shall, on requesting authorization to decree the state of siege or to extend it, submit the reasons that determine such request, and the National Congress shall decide by absolute majority.
 
-#### Article 138. The decree of the state of siege shall specify the period of its duration, the rules required to implement it and the constitutional guarantees that are to be suspended and, after it is published, the President of the Republic shall designate the executor of the specific measures and the areas encompassed.
+#### Article 138.
+The decree of the state of siege shall specify the period of its duration, the rules required to implement it and the constitutional guarantees that are to be suspended and, after it is published, the President of the Republic shall designate the executor of the specific measures and the areas encompassed.
 
 Paragraph 1.  In the event of article 137, I, the state of siege may not be decreed for more than thirty days nor may each extension exceed such period; in the event of item II, it may be decreed for the entire period of the war or foreign armed aggression.
 
@@ -4007,7 +4018,8 @@ Paragraph 2.  If authorization to decree the state of siege is requested during 
 
 Paragraph 3.  The National Congress shall remain in session until the end of the coercive measures.
 
-#### Article 139. During the period in which the state of siege decreed under article 137, I, is in force, only the following measures may be taken against persons:
+#### Article 139.
+During the period in which the state of siege decreed under article 137, I, is in force, only the following measures may be taken against persons:
 
 I - obligation to remain at a specific place;
 
@@ -4035,19 +4047,22 @@ Sole paragraph. The broadcasting of speeches made by Congressmen in their Legisl
 
 ### SECTION III
 
-###### General Provisions
+##### General Provisions
 
-#### Article 140. The Directing Board of the National Congress shall, after hearing the party leaders, designate a Committee comprised of five of its members to monitor and supervise the implementation of the measures concerning the state of defense and the state of siege.
+#### Article 140.
+The Directing Board of the National Congress shall, after hearing the party leaders, designate a Committee comprised of five of its members to monitor and supervise the implementation of the measures concerning the state of defense and the state of siege.
 
-#### Article 141. Once the state of defense or the state of siege ceases, its effects shall also cease, without prejudice to liability for illicit acts performed by the executors or agents thereof.
+#### Article 141.
+Once the state of defense or the state of siege ceases, its effects shall also cease, without prejudice to liability for illicit acts performed by the executors or agents thereof.
 
 Sole paragraph. As soon as the state of defense or the state of siege ceases, the measures applied during the period while it is in force shall be reported by the President of the Republic in a message to the National Congress, with specification and justification of the actions taken, with the listing of the names of those affected and indication of the restrictions applied.
 
 ## CHAPTER II
 
-###### The Armed Forces
+##### The Armed Forces
 
-#### Article 142. The Armed Forces, comprised of the Navy, the Army and the Air Force, are permanent and regular national institutions, organized on the basis of hierarchy and discipline, under the supreme authority of the President of the Republic, and are intended for the defense of the Country, for the guarantee of the constitutional powers, and, on the initiative of any of these, of law and order. (CA No. 18, 1998; CA No. 41, 2003)
+#### Article 142.
+The Armed Forces, comprised of the Navy, the Army and the Air Force, are permanent and regular national institutions, organized on the basis of hierarchy and discipline, under the supreme authority of the President of the Republic, and are intended for the defense of the Country, for the guarantee of the constitutional powers, and, on the initiative of any of these, of law and order. (CA No. 18, 1998; CA No. 41, 2003)
 
 Paragraph 1.  A supplementary law shall establish the general rules to be adopted in the organization, training and use of the Armed Forces.
 
@@ -4083,7 +4098,8 @@ IX - (revoked);
 
 X - the law shall provide for admission to the Armed Forces, age limits, tenure, and other conditions for a military to be retired, the rights, duties, remuneration, prerogatives and other circumstances which are specific to the military, the special characteristics of their activities being taken into account, including those carried out by virtue of international agreements and of war.
 
-#### Article 143. Military service is compulsory as set forth by law.
+#### Article 143.
+Military service is compulsory as set forth by law.
 
 Paragraph 1.  It  is  within  the  competence  of  the Armed  Forces,  according  to the law, to assign an alternative service to those who, in times of peace, after being enlisted, claim imperative of conscience, which shall be understood as originating in religious creed and philosophical or political belief, for exemption from essentially military activities.
 
@@ -4091,9 +4107,10 @@ Paragraph 2.  Women and clergymen are exempt from compulsory military service in
 
 ## CHAPTER III
 
-###### Public Security
+##### Public Security
 
-#### Article 144. Public security, the duty of the State and the right and responsibility of all, is exercised to preserve public order and the safety of persons and property, by means of the following agencies: (CA No. 19, 1998)
+#### Article 144.
+Public security, the duty of the State and the right and responsibility of all, is exercised to preserve public order and the safety of persons and property, by means of the following agencies: (CA No. 19, 1998)
 
 106
 
@@ -4151,13 +4168,14 @@ The Defense of the State and of the Democratic Institutions
 
 ## CHAPTER I
 
-###### The National Tax System
+##### The National Tax System
 
 ### SECTION I
 
-###### General Principles
+##### General Principles
 
-#### Article 145. The Union, the states, the Federal District and the municipalities may institute the following tributes:
+#### Article 145.
+The Union, the states, the Federal District and the municipalities may institute the following tributes:
 
 I - taxes;
 
@@ -4169,7 +4187,8 @@ Paragraph 1.  Whenever possible, taxes shall have an individual character and sh
 
 Paragraph 2.  Fees may not have the assessment basis reserved for taxes.
 
-#### Article 146. A supplementary law shall: (CA No. 42, 2003)
+#### Article 146.
+A supplementary law shall: (CA No. 42, 2003)
 
 I - provide for conflicts of competence concerning tax matters between the Union, the states, the Federal District and the municipalities;
 
@@ -4203,11 +4222,14 @@ III - payment of said tributes shall be unified and centralized, and the distrib
 
 IV - collection, control, and claiming of payment may be shared by the units of the Federation, a single national roster of taxpayers being adopted.
 
-#### Article 146-A. A supplementary law may establish special criteria for taxation, with a view to preventing imbalances in competition, without prejudice to the power of the Federal Government to establish, by law, rules for the same purpose. (CA No. 42, 2003)
+#### Article 146-A.
+A supplementary law may establish special criteria for taxation, with a view to preventing imbalances in competition, without prejudice to the power of the Federal Government to establish, by law, rules for the same purpose. (CA No. 42, 2003)
 
-#### Article 147. In a federal territory, state taxes are within the competence of the Union and, if the territory is not divided into municipalities, also municipal taxes; municipal taxes are within the competence of the Federal District.
+#### Article 147.
+In a federal territory, state taxes are within the competence of the Union and, if the territory is not divided into municipalities, also municipal taxes; municipal taxes are within the competence of the Federal District.
 
-#### Article 148. The Union may, by means of a supplementary law, institute compulsory loans:
+#### Article 148.
+The Union may, by means of a supplementary law, institute compulsory loans:
 
 I - to meet extraordinary expenses resulting from public calamity, foreign war or the imminence thereof;
 
@@ -4215,7 +4237,8 @@ II - in the case of public investment of an urgent nature and relevant national 
 
 Sole paragraph. The use of funds deriving from a compulsory loan shall be linked to the expense that justified the institution thereof.
 
-#### Article 149. The Union shall have the exclusive competence to institute social contributions regarding intervention in the economic order and the interest of categories of employees or employers, as an instrument of its activity in the respective areas, observing the provisions of articles 146, III, and 150, I and III, and without prejudice to the provisions of article 195, paragraph 6, as regards the contributions mentioned in the latter article. (CA No. 33, 2001; CA No. 41, 2003; CA No. 42, 2003)
+#### Article 149.
+The Union shall have the exclusive competence to institute social contributions regarding intervention in the economic order and the interest of categories of employees or employers, as an instrument of its activity in the respective areas, observing the provisions of articles 146, III, and 150, I and III, and without prejudice to the provisions of article 195, paragraph 6, as regards the contributions mentioned in the latter article. (CA No. 33, 2001; CA No. 41, 2003; CA No. 42, 2003)
 
 Paragraph 1.  The states, the Federal District, and the municipalities shall institute a contribution payable by their employees to fund the social security scheme referred to in article 40, for the benefit of such employees, and the respective rate may not be lower than the rate of the contribution paid by employees holding effective posts in the Union.
 
@@ -4243,15 +4266,17 @@ Paragraph 3.  A natural person who is the recipient in an import transaction may
 
 Paragraph 4.  The law shall establish the cases in which contributions will be levied only once.
 
-#### Article  149-A. The Municipalities  and  the  Federal  District  may  establish  a contribution, under the terms of their respective laws, to finance the public lighting service, with due regard for the provisions of article 150, I and III. (CA No. 39, 2002)
+#### Article  149-A.
+The Municipalities  and  the  Federal  District  may  establish  a contribution, under the terms of their respective laws, to finance the public lighting service, with due regard for the provisions of article 150, I and III. (CA No. 39, 2002)
 
 Sole paragraph. The contribution mentioned in the head paragraph of this article may be charged to the consumer's electricity bill.
 
 ### SECTION II
 
-###### Limitations on the Power to Tax
+##### Limitations on the Power to Tax
 
-#### Article 150. Without prejudice to any other guarantees ensured to the taxpayers, the Union, the states, the Federal District and the municipalities are forbidden to: (CA No. 3, 1993; CA No. 42, 2003)
+#### Article 150.
+Without prejudice to any other guarantees ensured to the taxpayers, the Union, the states, the Federal District and the municipalities are forbidden to: (CA No. 3, 1993; CA No. 42, 2003)
 
 - I - impose or increase a tribute without a law to establish it;
 
@@ -4301,7 +4326,8 @@ Paragraph 6.  Any subsidy or exemption, reduction of assessment basis, concessio
 
 Paragraph 7.  The law may impose upon the taxpayer the burden of the payment of a tax or contribution, whose taxable event will occur later, the immediate and preferential restitution of the amount paid being ensured, in case the presumed taxable event does not occur.
 
-#### Article 151. It is forbidden for the Union:
+#### Article 151.
+It is forbidden for the Union:
 
 I - to institute a tribute which is not uniform throughout the entire national territory or which implies a distinction or preference regarding a state, the Federal District or a municipality to the detriment of another, it being allowed to grant tax incentives for the purpose of promoting the balanced social and economic development of the various regions of the country;
 
@@ -4317,13 +4343,15 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 110]]
 
-#### Article 152. The states, the Federal District and the municipalities are forbidden to establish a tax difference between goods and services of any nature, by reason of their origin or destination.
+#### Article 152.
+The states, the Federal District and the municipalities are forbidden to establish a tax difference between goods and services of any nature, by reason of their origin or destination.
 
 ### SECTION III
 
-###### Federal Taxes
+##### Federal Taxes
 
-#### Article 153. The Union shall have the power to institute taxes on. (CA No. 20, 1998; CA No. 42, 2003)
+#### Article 153.
+The Union shall have the power to institute taxes on. (CA No. 20, 1998; CA No. 42, 2003)
 
 - I - importation of foreign products;
 
@@ -4379,7 +4407,8 @@ Paragraph 5.  Gold, when defined in law as a financial asset or an exchange inst
 
 - II - seventy per cent to the municipality of origin.
 
-#### Article 154. The Union may institute:
+#### Article 154.
+The Union may institute:
 
 - I - by means of a supplementary law, taxes not instituted in the preceding article, provided that they are non-cumulative and not founded on a taxable event or an assessment basis reserved for the taxes specified in this Constitution;
 
@@ -4387,9 +4416,10 @@ Paragraph 5.  Gold, when defined in law as a financial asset or an exchange inst
 
 ### SECTION IV
 
-###### State and Federal District Taxes
+##### State and Federal District Taxes
 
-#### Article 155. The states and the Federal District shall have the competence to institute taxes on: (CA No. 3, 1993; CA No. 33, 2001; CA No. 42, 2003)
+#### Article 155.
+The states and the Federal District shall have the competence to institute taxes on: (CA No. 3, 1993; CA No. 33, 2001; CA No. 42, 2003)
 
 - I - transfer by death and donation of any property or rights;
 
@@ -4533,9 +4563,10 @@ Paragraph 6.  The tax established in item III:
 
 ### SECTION V
 
-###### Municipal Taxes
+##### Municipal Taxes
 
-#### Article 156. The municipalities shall have the competence to institute taxes on: (CA No. 3, 1993; CA No. 29, 2000; CA No. 37, 2002)
+#### Article 156.
+The municipalities shall have the competence to institute taxes on: (CA No. 3, 1993; CA No. 29, 2000; CA No. 37, 2002)
 
 - I - urban buildings and urban land property;
 
@@ -4577,15 +4608,17 @@ Paragraph 4.  (Revoked).
 
 ### SECTION VI
 
-###### Tax Revenue Sharing
+##### Tax Revenue Sharing
 
-#### Article  157. The following shall be assigned to the states and to the Federal District:
+#### Article  157.
+The following shall be assigned to the states and to the Federal District:
 
 I - the proceeds from the collection of the federal tax on income and earnings of any nature, levied at source on income paid on any account by them, by their autonomous government entities and by the foundations they institute and maintain;
 
 II - twenty per cent of the proceeds from the collection of the tax that the Union may institute in the exercise of the powers conferred on it by article 154, I.
 
-#### Article 158. The following shall be assigned to the municipalities: (CA No. 42, 2003)
+#### Article 158.
+The following shall be assigned to the municipalities: (CA No. 42, 2003)
 
 I - the proceeds from the collection of the federal tax on income and earnings of any nature, levied at source on income paid on any account by them, by their autonomous government entities and by the foundations they institute and maintain;
 
@@ -4609,7 +4642,8 @@ Constitution of the Federative Republic of Brazil
 
 II - up to one-quarter, in accordance with the provisions of a state law or, in the case of the territories, of a federal law.
 
-#### Article 159. The Union shall remit: (CA No. 42, 2003; CA No. 44, 2004; CA No. 55, 2007)
+#### Article 159.
+The Union shall remit: (CA No. 42, 2003; CA No. 44, 2004; CA No. 55, 2007)
 
 I - of the proceeds from the collection of the tax on income and earnings of any nature and of the tax on industrialized products, forty-eight per cent as follows:
 
@@ -4633,7 +4667,8 @@ Paragraph 3.  The states shall remit twenty-five per cent of the funds they may 
 
 Paragraph 4.  Twenty-five per cent of the amount of monies referred to in item III and allocated to each State shall be assigned to its Municipalities, in accordance with the law referred to in said item.
 
-#### Article 160. It is forbidden to withhold or to make any restriction to the remittance and use of the funds assigned in this section to the states, to the Federal District and to the municipalities, including any tax additions and increases. (CA No. 29, 2000)
+#### Article 160.
+It is forbidden to withhold or to make any restriction to the remittance and use of the funds assigned in this section to the states, to the Federal District and to the municipalities, including any tax additions and increases. (CA No. 29, 2000)
 
 Taxation and Budget
 
@@ -4649,7 +4684,8 @@ I  -  payment  of  their  credits,  including  those  of  the  associate  govern
 
 - II - compliance with the provisions of article 198, paragraph 2, items II and III.
 
-#### Article 161. A supplementary law shall:
+#### Article 161.
+A supplementary law shall:
 
 - I  -  define  the  added  value  for  the  purposes  provided  by  article  158,  sole paragraph, I;
 
@@ -4659,19 +4695,21 @@ I  -  payment  of  their  credits,  including  those  of  the  associate  govern
 
 Sole paragraph. The Federal Audit Court shall calculate the quotas referring to the participation funds mentioned in item II.
 
-#### Article 162. The Union, the states, the Federal District and the municipalities shall announce, on or before the last day of the month following that of collection, the amounts of each of the tributes collected, the funds received, the tax sums remitted and to be remitted and the numerical expression of the apportionment criteria.
+#### Article 162.
+The Union, the states, the Federal District and the municipalities shall announce, on or before the last day of the month following that of collection, the amounts of each of the tributes collected, the funds received, the tax sums remitted and to be remitted and the numerical expression of the apportionment criteria.
 
 Sole paragraph. The data announced by the Union shall be discriminated by state and by municipality; those of the states, by municipality.
 
 ## CHAPTER II
 
-###### Public Finances
+##### Public Finances
 
 ### SECTION I
 
-###### General Rules
+##### General Rules
 
-#### Article 163. A supplementary law shall make provisions for: (CA No. 40, 2002)
+#### Article 163.
+A supplementary law shall make provisions for: (CA No. 40, 2002)
 
 - I - public finances;
 
@@ -4695,7 +4733,8 @@ Constitution of the Federative Republic of Brazil
 
 - VII - compatibility of the functions of the official credit institutions of the Union, safeguarding all the characteristics and full operational conditions of those intended for regional development.
 
-#### Article 164. The competence of the Union to issue currency shall be exercised exclusively by the central bank.
+#### Article 164.
+The competence of the Union to issue currency shall be exercised exclusively by the central bank.
 
 - Paragraph 1.  It  is  forbidden  for  the  central  bank  to  grant,  either  directly  or indirectly, loans to the National Treasury and to any body or agency which is not a financial institution.
 
@@ -4705,9 +4744,10 @@ Constitution of the Federative Republic of Brazil
 
 ### SECTION II
 
-###### Budgets
+##### Budgets
 
-#### Article 165. Laws of the initiative of the Executive Power shall establish:
+#### Article 165.
+Laws of the initiative of the Executive Power shall establish:
 
 - I - the pluriannual plan;
 
@@ -4751,7 +4791,8 @@ I - make provisions for the fiscal year, effectiveness, terms, drawing up and or
 
 II - establish rules for the financial and property management of the direct and indirect administration, as well as conditions for the institution and operation of funds.
 
-#### Article 166. The bills regarding the pluriannual plan, the budgetary directives, the annual budget and the additional credits shall be examined by the two Houses of the National Congress, in accordance with their common regulations.
+#### Article 166.
+The bills regarding the pluriannual plan, the budgetary directives, the annual budget and the additional credits shall be examined by the two Houses of the National Congress, in accordance with their common regulations.
 
 Paragraph 1.  It is incumbent upon a permanent joint committee of Senators and Deputies to:
 
@@ -4797,7 +4838,8 @@ Paragraph 6.  The bills of the pluriannual plan law, of the law of budgetary dir
 
 Paragraph 8.  Any funds which, as a result of a veto, amendment or rejection of the bill of the annual budget law, have no corresponding expenses, may be allocated, as the case may be, by means of special or supplementary credits, with prior and specific legislative authorization.
 
-#### Article 167. The following are forbidden: (CA No. 3, 1993; CA No. 19, 1998; CA No. 20, 1998; CA No. 42, 2003)
+#### Article 167.
+The following are forbidden: (CA No. 3, 1993; CA No. 19, 1998; CA No. 20, 1998; CA No. 42, 2003)
 
 - I - to begin programmes or projects not included in the annual budget law;
 
@@ -4837,9 +4879,11 @@ Paragraph 3.  The opening of extraordinary credit may only be allowed to meet un
 
 Paragraph 4.  It is permitted to bind proper revenues generated by the taxes referred to in articles 155 and 156, and the funds mentioned in articles 157, 158 and 159, I, a and b , and II, to the granting of a guarantee or a counterguarantee to the Union, and to the payment of debits owed to the same.
 
-#### Article 168. Funds corresponding to budgetary allocations, including supplementary and special credits, intended for the bodies of the Legislative and Judicial Powers, the Public Prosecution, and the Public Legal Defense, shall be remitted to them on or before the twentieth of each month, in twelfths, as provided by the supplementary law referred to in article 165, paragraph 9. (CA No. 45, 2004)
+#### Article 168.
+Funds corresponding to budgetary allocations, including supplementary and special credits, intended for the bodies of the Legislative and Judicial Powers, the Public Prosecution, and the Public Legal Defense, shall be remitted to them on or before the twentieth of each month, in twelfths, as provided by the supplementary law referred to in article 165, paragraph 9. (CA No. 45, 2004)
 
-#### Article 169. Expenditures on active and retired personnel of the Union, the states, the Federal District and the municipalities may not exceed the limits established in a supplementary law. (CA No. 19, 1998)
+#### Article 169.
+Expenditures on active and retired personnel of the Union, the states, the Federal District and the municipalities may not exceed the limits established in a supplementary law. (CA No. 19, 1998)
 
 Paragraph 1.  The granting of any advantage or increase of remuneration, the creation of posts, positions or functions, or alteration of career structures, as well as admission or hiring of personnel, on any account, by Government bodies and entities, or entities owned by the Government, including foundations instituted and maintained by the Government, may only be effected:
 
@@ -4883,9 +4927,10 @@ Taxation and Budget
 
 ## CHAPTER I
 
-###### The General Principles of the Economic Activity
+##### The General Principles of the Economic Activity
 
-#### Article 170. The economic order, founded on the appreciation of the value of human work and on free enterprise, is intended to ensure everyone a life with dignity, in accordance with the dictates of social justice, with due regard for the following principles: (CA No. 6, 1995; CA No. 42, 2003)
+#### Article 170.
+The economic order, founded on the appreciation of the value of human work and on free enterprise, is intended to ensure everyone a life with dignity, in accordance with the dictates of social justice, with due regard for the following principles: (CA No. 6, 1995; CA No. 42, 2003)
 
 - I - national sovereignty;
 
@@ -4907,11 +4952,14 @@ VIII - pursuit of full employment;
 
 Sole paragraph. Free exercise of any economic activity is ensured to everyone, regardless of authorization from government agencies, except in the cases set forth by law.
 
-#### Article 171. (Revoked). (CA No. 6, 1995)
+#### Article 171.
+(Revoked). (CA No. 6, 1995)
 
-#### Article 172. The law shall regulate, based on national interests, the foreign capital investments, shall encourage reinvestments and shall regulate the remittance of profits.
+#### Article 172.
+The law shall regulate, based on national interests, the foreign capital investments, shall encourage reinvestments and shall regulate the remittance of profits.
 
-#### Article 173 . With the exception of the cases set forth in this Constitution, the direct exploitation of an economic activity by the State shall only be allowed whenever needed to the imperative necessities of the national security or to a relevant collective interest, as defined by law. (CA No. 19, 1998)
+#### Article 173 .
+With the exception of the cases set forth in this Constitution, the direct exploitation of an economic activity by the State shall only be allowed whenever needed to the imperative necessities of the national security or to a relevant collective interest, as defined by law. (CA No. 19, 1998)
 
 - Paragraph 1.  The law shall establish the legal system of public companies, jointstock companies and their subsidiary companies engaged in economic activities connected with the production or trading of goods, or with the rendering of services, providing upon:
 
@@ -4941,7 +4989,8 @@ Paragraph 4.  The law shall repress the abuse of economic power that aims at the
 
 Paragraph 5.  The law shall, without prejudice to the individual liability of the managing officers of a legal entity, establish the liability of the latter, subjecting it to punishments compatible with its nature, for acts performed against the economic and financial order and against the citizens' monies.
 
-#### Article 174. As the normative and regulating agent of the economic activity, the State shall, in the manner set forth by law, perform the functions of control, incentive and planning, the latter being binding for the public sector and indicative for the private sector.
+#### Article 174.
+As the normative and regulating agent of the economic activity, the State shall, in the manner set forth by law, perform the functions of control, incentive and planning, the latter being binding for the public sector and indicative for the private sector.
 
 Paragraph 1.  The law shall establish the guidelines and bases for planning of the balanced national development, which shall embody and make compatible the national and regional development plans.
 
@@ -4951,7 +5000,8 @@ Paragraph 3.  The State shall favour the organization of the placer-mining activ
 
 Paragraph 4.  The cooperatives referred to in the preceding paragraph shall have priority  in  obtaining  authorization  or  grant  for  prospecting  and  mining  of  placer resources and deposits in the areas where they are operating and in those established in accordance with article 21, XXV, as set forth by law.
 
-#### Article 175. It is incumbent upon the Government, as set forth by law, to provide public utility services, either directly or by concession or permission, which will always be through public bidding.
+#### Article 175.
+It is incumbent upon the Government, as set forth by law, to provide public utility services, either directly or by concession or permission, which will always be through public bidding.
 
 Sole paragraph. The law shall provide for:
 
@@ -4971,7 +5021,8 @@ III - tariff policy;
 
 IV - the obligation of maintaining adequate service.
 
-#### Article 176. Mineral deposits, under exploitation or not, and other mineral resources and the hydraulic energy potentials form, for the purpose of exploitation or use, a property separate from that of the soil and belong to the Union, the concessionaire being guaranteed the ownership of the mined product. (CA No. 6, 1995)
+#### Article 176.
+Mineral deposits, under exploitation or not, and other mineral resources and the hydraulic energy potentials form, for the purpose of exploitation or use, a property separate from that of the soil and belong to the Union, the concessionaire being guaranteed the ownership of the mined product. (CA No. 6, 1995)
 
 Paragraph 1.  The prospecting and mining of mineral resources and the utilization of the potentials mentioned in the head paragraph of this article may only take place with authorization or concession by the Union, in the national interest, by Brazilians or  by  a  company  organized under Brazilian laws and having its head-office and management in Brazil, in the manner set forth by law, which law shall establish specific conditions when such activities are to be conducted in the boundary zone or on Indian lands.
 
@@ -4981,7 +5032,8 @@ Paragraph 3.  Authorization for prospecting shall always be for a set period of 
 
 Paragraph 4.  Exploitation of a renewable energy potential of small capacity shall not require an authorization or concession.
 
-#### Article 177. The following are the monopoly of the Union: (CA No. 9, 1995; CA No. 33, 2001; CA No. 49, 2006)
+#### Article 177.
+The following are the monopoly of the Union: (CA No. 9, 1995; CA No. 33, 2001; CA No. 49, 2006)
 
 I - prospecting and exploitation of deposits of petroleum and natural gas and of other fluid hydrocarbons;
 
@@ -5029,15 +5081,19 @@ Paragraph 4.  The law which institutes a contribution tax of intervention in the
 
 - to the financing of transportation infrastructure programs.
 
-#### Article 178. The law shall provide for the regulation of air, water and ground transportation, and it shall, in respect to the regulation of international transportation, comply with the agreements entered into by the Union, with due regard to the principle of reciprocity. (CA No. 7, 1995)
+#### Article 178.
+The law shall provide for the regulation of air, water and ground transportation, and it shall, in respect to the regulation of international transportation, comply with the agreements entered into by the Union, with due regard to the principle of reciprocity. (CA No. 7, 1995)
 
 Sole paragraph. In regulating water transportation, the law shall set forth the conditions in which the transportation of goods in coastal and internal navigation will be permitted to foreign vessels.
 
-#### Article 179. The Union, the states, the Federal District and the municipalities shall afford micro-enterprises and small enterprises, as defined by law, differentiated legal treatment, seeking to further them through simplification of their administration, tax, social security and credit obligations or through elimination or reduction thereof by means of law.
+#### Article 179.
+The Union, the states, the Federal District and the municipalities shall afford micro-enterprises and small enterprises, as defined by law, differentiated legal treatment, seeking to further them through simplification of their administration, tax, social security and credit obligations or through elimination or reduction thereof by means of law.
 
-#### Article 180. The Union, the states, the Federal District and the municipalities shall promote and further tourism as a factor of social and economic development.
+#### Article 180.
+The Union, the states, the Federal District and the municipalities shall promote and further tourism as a factor of social and economic development.
 
-#### Article  181. Compliance with request for a document or for information of commercial nature, made by a foreign administrative or judicial authority to an individual or legal entity residing or domiciled in the country shall depend upon authorization from the competent authority.
+#### Article  181.
+Compliance with request for a document or for information of commercial nature, made by a foreign administrative or judicial authority to an individual or legal entity residing or domiciled in the country shall depend upon authorization from the competent authority.
 
 130
 
@@ -5049,9 +5105,10 @@ Constitution of the Federative Republic of Brazil
 
 ## CHAPTER II
 
-###### Urban Policy
+##### Urban Policy
 
-#### Article 182. The urban development policy carried out by the municipal government, according to general guidelines set forth in the law, is aimed at ordaining the full development of the social functions of the city and ensuring the well-being of its inhabitants.
+#### Article 182.
+The urban development policy carried out by the municipal government, according to general guidelines set forth in the law, is aimed at ordaining the full development of the social functions of the city and ensuring the well-being of its inhabitants.
 
 Paragraph 1.  The master plan, approved by the City Council, which is compulsory for cities of over twenty thousand inhabitants, is the basic tool of the urban development and expansion policy.
 
@@ -5067,7 +5124,8 @@ II - rates of urban property and land tax that are progressive in time;
 
 III  -  expropriation with payment in public debt bonds issued with the prior approval of the Federal Senate, redeemable within up to ten years, in equal and successive annual installments, ensuring the real value of the compensation and the legal interest.
 
-#### Article 183. An individual who possesses an urban area of up to two hundred and fifty square meters, for five years, without interruption or opposition, using it as his or as his family's home, shall acquire domain of it, provided that he does not own any other urban or rural property.
+#### Article 183.
+An individual who possesses an urban area of up to two hundred and fifty square meters, for five years, without interruption or opposition, using it as his or as his family's home, shall acquire domain of it, provided that he does not own any other urban or rural property.
 
 Paragraph 1.  The deed of domain and concession of use shall be granted to the man or woman, or both, regardless of their marital status.
 
@@ -5077,9 +5135,10 @@ Paragraph 3.  Public real estate shall not be acquired by prescription.
 
 ## CHAPTER III
 
-###### Agricultural and Land Policy and Agrarian Reform
+##### Agricultural and Land Policy and Agrarian Reform
 
-#### Article 184. It is within the power of the Union to expropriate on account of social interest, for purposes of agrarian reform, the rural property which is not performing its social function, against prior and fair compensation in agrarian debt bonds with a clause providing for maintenance of the real value, redeemable within a period of up to twenty years computed as from the second year of issue, and the use of which shall be defined in the law.
+#### Article 184.
+It is within the power of the Union to expropriate on account of social interest, for purposes of agrarian reform, the rural property which is not performing its social function, against prior and fair compensation in agrarian debt bonds with a clause providing for maintenance of the real value, redeemable within a period of up to twenty years computed as from the second year of issue, and the use of which shall be defined in the law.
 
 The Economic and Financial Order
 
@@ -5099,7 +5158,8 @@ Paragraph 4.  The budget shall determine each year the total volume of agrarian 
 
 Paragraph 5.  The transactions of transfer of property expropriated for agrarian reform purposes are exempt from federal, state and municipal taxes.
 
-#### Article 185. Expropriation of the following for agrarian reform purposes is not permitted:
+#### Article 185.
+Expropriation of the following for agrarian reform purposes is not permitted:
 
 I - small and medium-size rural property, as defined by law, provided its owner does not own other property;
 
@@ -5107,7 +5167,8 @@ II - productive property.
 
 Sole paragraph. The law shall guarantee special treatment for the productive property and shall establish rules for the fulfillment of the requirements regarding its social function.
 
-#### Article  186. The  social  function  is  met  when  the  rural  property  complies simultaneously with, according to the criteria and standards prescribed by law, the following requirements:
+#### Article  186.
+The  social  function  is  met  when  the  rural  property  complies simultaneously with, according to the criteria and standards prescribed by law, the following requirements:
 
 I - rational and adequate use;
 
@@ -5117,7 +5178,8 @@ III - compliance with the provisions that regulate labour relations;
 
 - IV - exploitation that favours the well-being of the owners and labourers.
 
-#### Article 187. The agricultural policy shall be planned and carried out as established by law, with the effective participation of the production sector, comprising producers and rural workers, as well as the marketing, storage and transportation sectors, with especial consideration for:
+#### Article 187.
+The agricultural policy shall be planned and carried out as established by law, with the effective participation of the production sector, comprising producers and rural workers, as well as the marketing, storage and transportation sectors, with especial consideration for:
 
 - I - the credit and fiscal mechanisms;
 
@@ -5147,27 +5209,32 @@ Paragraph 1.  Agricultural planning includes agroindustrial, stock raising, fish
 
 Paragraph 2.  Agricultural  policy  and  agrarian  reform  actions  shall  be  made compatible.
 
-#### Article 188. The destination given to public and unoccupied lands shall be made compatible with the agricultural policy and the national agrarian reform plan.
+#### Article 188.
+The destination given to public and unoccupied lands shall be made compatible with the agricultural policy and the national agrarian reform plan.
 
 Paragraph 1.  The alienation or concession in any way of public lands with an area of more than two thousand and five hundred hectares to an individual or legal entity, even if through an intermediary, shall depend on the prior approval of the National Congress.
 
 Paragraph 2.  Alienations or concessions of public lands for agrarian reform purposes are excluded from the provisions of the preceding paragraph.
 
-#### Article 189. The beneficiaries of distribution of rural land through agrarian reform shall receive title-deeds or concession of use which may not be transacted for a period of ten years.
+#### Article 189.
+The beneficiaries of distribution of rural land through agrarian reform shall receive title-deeds or concession of use which may not be transacted for a period of ten years.
 
 Sole paragraph. The title-deed and the concession of use shall be granted to the man or the woman, or to both, irrespective of their marital status, according to the terms and conditions set forth by law.
 
-#### Article 190. The law shall regulate and limit the acquisition or lease of rural property by a foreign individual or legal entity, and shall establish the cases that shall depend on authorization by the National Congress.
+#### Article 190.
+The law shall regulate and limit the acquisition or lease of rural property by a foreign individual or legal entity, and shall establish the cases that shall depend on authorization by the National Congress.
 
-#### Article 191. The individual who, not being the owner of rural or urban property, holds as his own, for five uninterrupted years, without opposition, an area of land in the rural zone, not exceeding fifty hectares, making it productive with his labour or that of his family, and having his dwelling thereon, shall acquire ownership of the land.
+#### Article 191.
+The individual who, not being the owner of rural or urban property, holds as his own, for five uninterrupted years, without opposition, an area of land in the rural zone, not exceeding fifty hectares, making it productive with his labour or that of his family, and having his dwelling thereon, shall acquire ownership of the land.
 
 Sole paragraph. The public real estate shall not be acquired by prescription.
 
 ## CHAPTER IV
 
-###### The National Financial System
+##### The National Financial System
 
-#### Article 192. The national financial system, structured to promote the balanced development of the country and to serve the collective interests,  in  all  of  the component elements of the system, including credit cooperatives, shall be regulated by supplementary laws which shall also provide for the participation of foreign capital in the institutions that make up the said system. (CA No. 40, 2002)
+#### Article 192.
+The national financial system, structured to promote the balanced development of the country and to serve the collective interests,  in  all  of  the component elements of the system, including credit cooperatives, shall be regulated by supplementary laws which shall also provide for the participation of foreign capital in the institutions that make up the said system. (CA No. 40, 2002)
 
 I - (Revoked);
 
@@ -5199,19 +5266,21 @@ Constitution of the Federative Republic of Brazil
 
 ## CHAPTER I
 
-###### General Provision
+##### General Provision
 
-#### Article 193. The social order is based on the primacy of work and aimed at social well-being and justice.
+#### Article 193.
+The social order is based on the primacy of work and aimed at social well-being and justice.
 
 ## CHAPTER II
 
-###### Social Welfare
+##### Social Welfare
 
 ### SECTION I
 
-###### General Provisions
+##### General Provisions
 
-#### Article 194. Social welfare comprises an integrated whole of actions initiated by the Government and by society, with the purpose of ensuring the rights to health, social security and assistance. (CA No. 20, 1998)
+#### Article 194.
+Social welfare comprises an integrated whole of actions initiated by the Government and by society, with the purpose of ensuring the rights to health, social security and assistance. (CA No. 20, 1998)
 
 Sole paragraph. It is incumbent upon the Government, as provided by law, to organize social welfare, based on the following objectives:
 
@@ -5229,7 +5298,8 @@ Sole paragraph. It is incumbent upon the Government, as provided by law, to orga
 
 - VII - democratic and decentralized character of administration, by means of a quadripartite management, with the participation of workers, employers, retirees, and the Government in the collegiate bodies.
 
-#### Article 195. Social welfare shall be financed by all of society, either directly or indirectly, as provided by law, with funds coming from the budgets of the Union, the states, the Federal District and the municipalities and from the following welfare contributions: (CA No. 20, de 1998; CA No. 42, de 2003; CA No. 47, de 2005)
+#### Article 195.
+Social welfare shall be financed by all of society, either directly or indirectly, as provided by law, with funds coming from the budgets of the Union, the states, the Federal District and the municipalities and from the following welfare contributions: (CA No. 20, de 1998; CA No. 42, de 2003; CA No. 47, de 2005)
 
 - I - of employers, companies, and entities defined by law as being comparable to companies, assessed on:
 
@@ -5289,13 +5359,16 @@ Paragraph 13.  The provision of paragraph 12 shall also apply in the case of gra
 
 ### SECTION II
 
-###### Health
+##### Health
 
-#### Article 196. Health is a right of all and a duty of the State and shall be guaranteed by means of social and economic policies aimed at reducing the risk of illness and other hazards and at the universal and equal access to actions and services for its promotion, protection and recovery.
+#### Article 196.
+Health is a right of all and a duty of the State and shall be guaranteed by means of social and economic policies aimed at reducing the risk of illness and other hazards and at the universal and equal access to actions and services for its promotion, protection and recovery.
 
-#### Article 197. Health actions and services are of public importance, and it is incumbent upon the Government to provide, in accordance with the law, for their regulation, supervision and control, and they shall be carried out directly or by third parties and also by individuals or private legal entities.
+#### Article 197.
+Health actions and services are of public importance, and it is incumbent upon the Government to provide, in accordance with the law, for their regulation, supervision and control, and they shall be carried out directly or by third parties and also by individuals or private legal entities.
 
-#### Article  198. Health  actions  and  public  services  integrate  a  regionalized  and hierarchical  network  and  constitute  a  single  system,  organized  according  to  the following directives: (CA No. 29, 2000; CA No. 51, 2006; CA No. 63, 2010)
+#### Article  198.
+Health  actions  and  public  services  integrate  a  regionalized  and hierarchical  network  and  constitute  a  single  system,  organized  according  to  the following directives: (CA No. 29, 2000; CA No. 51, 2006; CA No. 63, 2010)
 
 - I - decentralization, with a single management in each sphere of government;
 
@@ -5337,7 +5410,8 @@ Paragraph 5.  Federal legislation shall provide for the legal regime, a nationwi
 
 Paragraph 6.  In addition to the cases set forth in paragraph 1 of article 41 and in paragraph 4 of article 169 of the Federal Constitution, an employee whose activities are equivalent to those of a community health worker or an endemic disease control agent may be dismissed if he does not comply with the specific requirements stipulated by law for such activities.
 
-#### Article 199. Health assistance is open to private enterprise.
+#### Article 199.
+Health assistance is open to private enterprise.
 
 Paragraph 1.  Private institutions may participate in a supplementary manner in the unified health system, in accordance with the directives established by the latter, by means of public law contracts or agreements, preference being given to philanthropic and non-profit entities.
 
@@ -5347,7 +5421,8 @@ Paragraph 3.  Direct or indirect participation of foreign companies or capital i
 
 Paragraph 4.  The law shall provide for the conditions and requirements which facilitate the removal of organs, tissues and human substances for the purpose of transplants, research and treatment, as well as the collection, processing and transfusion of blood and its by-products, all kinds of sale being forbidden.
 
-#### Article 200. It is incumbent upon the unified health system, in addition to other duties, as set forth by the law:
+#### Article 200.
+It is incumbent upon the unified health system, in addition to other duties, as set forth by the law:
 
 I - to supervise and control proceedings, products and substances of interest to health and to participate in the production of drugs, equipments, immunobiological products, blood products and other inputs;
 
@@ -5375,9 +5450,10 @@ VIII - to cooperate in the preservation of the environment, including that of th
 
 ### SECTION III
 
-###### Social Security
+##### Social Security
 
-#### Article 201. The social security system shall be organized as a general scheme, of a contributory basis and mandatory participation, with due regard for criteria that preserve financial and actuarial balance, and shall provide for, in accordance with the law: (CA No. 20, 1998; CA No. 41, 2003; CA No. 47, 2005)
+#### Article 201.
+The social security system shall be organized as a general scheme, of a contributory basis and mandatory participation, with due regard for criteria that preserve financial and actuarial balance, and shall provide for, in accordance with the law: (CA No. 20, 1998; CA No. 41, 2003; CA No. 47, 2005)
 
 I - coverage for the events of illness, disability, death, and old age;
 
@@ -5427,7 +5503,8 @@ Paragraph 12.  The law shall provide for a special system to include low-income 
 
 Paragraph 13.  The rates and grace periods of the special system of inclusion in the social security system referred to in paragraph 12 of this article shall be lower than those in effect for other insured participants of the general social security scheme.
 
-#### Article 202. The private social security scheme, of a complementary nature and organized on an autonomous basis as regards the general social security scheme, shall be optional, based on the formation of reserves which guarantee the contracted benefit, and regulated by a supplementary law. (CA No. 20, de 1998)
+#### Article 202.
+The private social security scheme, of a complementary nature and organized on an autonomous basis as regards the general social security scheme, shall be optional, based on the formation of reserves which guarantee the contracted benefit, and regulated by a supplementary law. (CA No. 20, de 1998)
 
 Paragraph 1.  The supplementary law referred to in this article shall ensure that the participant in benefit plans of private pension plan companies is provided with full access to information regarding the management of their respective plans.
 
@@ -5451,9 +5528,10 @@ Paragraph 6.  The supplementary law referred to in paragraph 4 of this article s
 
 ### SECTION IV
 
-###### Social Assistance
+##### Social Assistance
 
-#### Article 203. Social assistance shall be rendered to whomever may need it, regardless of contribution to social welfare and shall have as objectives:
+#### Article 203.
+Social assistance shall be rendered to whomever may need it, regardless of contribution to social welfare and shall have as objectives:
 
 I  -  the protection of the family, maternity, childhood, adolescence and old age;
 
@@ -5465,7 +5543,8 @@ IV - the habilitation and rehabilitation of the handicapped and their integratio
 
 V - the guarantee of a monthly benefit of one minimum wage to the handicapped and to the elderly who prove their incapability of providing for their own support or having it provided for by their families, as set forth by law.
 
-#### Article 204. Government actions in the area of social assistance shall be implemented with funds from the social welfare budget, as provided for in article 195, in addition to other sources, and organized on the basis of the following directives: (CA No. 42, 2003)
+#### Article 204.
+Government actions in the area of social assistance shall be implemented with funds from the social welfare budget, as provided for in article 195, in addition to other sources, and organized on the basis of the following directives: (CA No. 42, 2003)
 
 The Social Order
 
@@ -5489,15 +5568,17 @@ Sole paragraph. The States and the Federal District may assign up to five tenths
 
 ## CHAPTER III
 
-###### Education, Culture and Sports
+##### Education, Culture and Sports
 
 ### SECTION I
 
-###### Education
+##### Education
 
-#### Article 205. Education, which is the right of all and duty of the State and of the family, shall be promoted and fostered with the cooperation of society, with a view to the full development of the person, his preparation for the exercise of citizenship and his qualification for work.
+#### Article 205.
+Education, which is the right of all and duty of the State and of the family, shall be promoted and fostered with the cooperation of society, with a view to the full development of the person, his preparation for the exercise of citizenship and his qualification for work.
 
-#### Article 206. Education shall be provided on the basis of the following principles: (CA No. 53, 2006)
+#### Article 206.
+Education shall be provided on the basis of the following principles: (CA No. 53, 2006)
 
 - I - equal conditions of access and permanence in school;
 
@@ -5525,13 +5606,15 @@ Constitution of the Federative Republic of Brazil
 
 Sole paragraph. The law shall provide for the classes of workers to be considered basic  education  professionals,  as  well  as  for  the  deadline  for  the  preparation  or adaptation of their career schemes, within the sphere of the Federal Government, the States, the Federal District, and the Municipalities.
 
-#### Article 207. The universities shall have didactic, scientific, administrative, financial and property management autonomy and shall comply with the principle of nondissociation of teaching, research and extension. (CA No. 11, 1996)
+#### Article 207.
+The universities shall have didactic, scientific, administrative, financial and property management autonomy and shall comply with the principle of nondissociation of teaching, research and extension. (CA No. 11, 1996)
 
 Paragraph 1.  The universities are permitted to hire foreign professors, technicians and scientists as provided by law.
 
 Paragraph 2.  The provisions of this article apply to scientific and technological research institutions.
 
-#### Article 208. The duty of the State towards education shall be fulfilled by ensuring the following: (CA No. 14, 1996; CA No. 53, 2006; CA No. 59, 2009)
+#### Article 208.
+The duty of the State towards education shall be fulfilled by ensuring the following: (CA No. 14, 1996; CA No. 53, 2006; CA No. 59, 2009)
 
 I - mandatory basic education, free of charge, for every individual from the age of 4 (four) through the age of 17 (seventeen), including the assurance of its free offer to all those who did not have access to it at the proper age;
 
@@ -5553,7 +5636,8 @@ Paragraph 2.  The competent authority shall be liable  for  the  failure  of  th
 
 Paragraph 3.  The Government has the power to take a census of elementary school students, call them for enrollment and ensure that parents or guardians see to their children's attendance to school.
 
-#### Article 209. Teaching is open to private enterprise, provided that the following conditions are met:
+#### Article 209.
+Teaching is open to private enterprise, provided that the following conditions are met:
 
 I - compliance with the general rules of national education;
 
@@ -5567,13 +5651,15 @@ The Social Order
 
 [[START OF PAGE 140]]
 
-#### Article 210. Minimum curricula shall be established for elementary schools in order to ensure a common basic education and respect for national and regional cultural and artistic values.
+#### Article 210.
+Minimum curricula shall be established for elementary schools in order to ensure a common basic education and respect for national and regional cultural and artistic values.
 
 Paragraph 1.  The teaching of religion is optional and shall be offered during the regular school hours of public elementary schools.
 
 Paragraph 2.  Regular elementary education shall be given in the Portuguese language and Indian communities shall also be ensured the use of their native tongues and their own learning methods.
 
-#### Article 211. The Union, the states, the Federal District and the municipalities shall cooperate in the organization of their educational systems. (CA No. 14, 1996; CA No. 53, 2006; CA No. 59, 2009)
+#### Article 211.
+The Union, the states, the Federal District and the municipalities shall cooperate in the organization of their educational systems. (CA No. 14, 1996; CA No. 53, 2006; CA No. 59, 2009)
 
 Paragraph 1.  The Union shall organize the federal educational system and that of the Territories, shall finance the federal public educational institutions and shall have, in educational matters, a redistributive and supplementary function, so as to guarantee the equalization of the educational opportunities and a minimum standard of quality of education, through technical and financial assistance to the states, the Federal District and the municipalities.
 
@@ -5585,7 +5671,8 @@ Paragraph 4.  In the organization of respective educational systems, the Federal
 
 Paragraph 5.  Public basic education shall give priority to regular education.
 
-#### Article 212. The Union shall apply, annually, never less than eighteen percent, and the states, the Federal District, and the municipalities, at least twenty-five percent of the tax revenues, including those resulting from transfers, in the maintenance and development of education. (CA No. 53, 2006; CA No. 59, 2009)
+#### Article 212.
+The Union shall apply, annually, never less than eighteen percent, and the states, the Federal District, and the municipalities, at least twenty-five percent of the tax revenues, including those resulting from transfers, in the maintenance and development of education. (CA No. 53, 2006; CA No. 59, 2009)
 
 Paragraph 1.  The share of tax revenues, transferred by the Union to the states, the Federal District and the municipalities, or by the states to the respective municipalities, shall not be considered, for purposes of the calculation provided by this article, as revenues of the government which transfers it.
 
@@ -5607,7 +5694,8 @@ Paragraph 5.  Public  basic  education  shall  have,  as  an  additional  source
 
 Paragraph 6.  State and municipal quotas of the proceeds from the collection of the social contribution for education shall be distributed in proportion to the number of students enrolled in basic education in the respective public school systems.
 
-#### Article 213. Public funds shall be allocated to public schools, and may be channelled to community, religious or philantropic schools, as defined by law, which:
+#### Article 213.
+Public funds shall be allocated to public schools, and may be channelled to community, religious or philantropic schools, as defined by law, which:
 
 I - prove that they do not seek profit and that they apply their surplus funds in education;
 
@@ -5617,7 +5705,8 @@ Paragraph 1.  The funds provided by this article may be allocated to elementary 
 
 Paragraph 2.  Research and extension activities at university level may receive financial support from the Government.
 
-#### Article 214. The law shall establish a ten-year national education plan, with a view to organizing the national education system with the cooperation of states and municipalities, as well as to defining implementation directives, objectives, targets, and strategies so as to ensure maintenance and development of teaching, at its various levels, grades, and modalities, by means of integrated federal, state, and municipal government actions leading to: (CA No. 59, 2009)
+#### Article 214.
+The law shall establish a ten-year national education plan, with a view to organizing the national education system with the cooperation of states and municipalities, as well as to defining implementation directives, objectives, targets, and strategies so as to ensure maintenance and development of teaching, at its various levels, grades, and modalities, by means of integrated federal, state, and municipal government actions leading to: (CA No. 59, 2009)
 
 I - eradication of illiteracy;
 
@@ -5633,9 +5722,10 @@ VI - stipulation of an amount of public funds to be invested in education as a p
 
 ### SECTION II
 
-###### Culture
+##### Culture
 
-#### Article 215. The state shall ensure to all the full exercise of the cultural rights and access to the sources of national culture and shall support and foster the appreciation and diffusion of cultural expressions. (CA No. 48, 2005)
+#### Article 215.
+The state shall ensure to all the full exercise of the cultural rights and access to the sources of national culture and shall support and foster the appreciation and diffusion of cultural expressions. (CA No. 48, 2005)
 
 The Social Order
 
@@ -5661,7 +5751,8 @@ IV - democratization of access to cultural goods;
 
 V - appreciation of the value of ethnic and regional diversity.
 
-#### Article 216. The Brazilian cultural heritage consists of the assets of a material and immaterial nature, taken individually or as a whole, which bear reference to the identity, action and memory of the various groups that form the Brazilian society, therein included: (CA No. 42, 2003)
+#### Article 216.
+The Brazilian cultural heritage consists of the assets of a material and immaterial nature, taken individually or as a whole, which bear reference to the identity, action and memory of the various groups that form the Brazilian society, therein included: (CA No. 42, 2003)
 
 - I - forms of expression;
 
@@ -5701,9 +5792,10 @@ III - any other current expense not directly related to the investments or actio
 
 ### SECTION III
 
-###### Sports
+##### Sports
 
-#### Article 217. It is the duty of the State to foster the practice of formal and informal sports, as a right of each individual, with due regard for:
+#### Article 217.
+It is the duty of the State to foster the practice of formal and informal sports, as a right of each individual, with due regard for:
 
 I - the autonomy of the directing sports entities and associations, as to their organization and operation;
 
@@ -5721,9 +5813,10 @@ Paragraph 3.  The Government shall encourage leisure, as a form of social promot
 
 ## CHAPTER IV
 
-###### Science and Technology
+##### Science and Technology
 
-#### Article 218. The State shall promote and foster scientific development, research and technological expertise.
+#### Article 218.
+The State shall promote and foster scientific development, research and technological expertise.
 
 - Paragraph 1.  Basic scientific research shall receive preferential treatment from the State, with a view to public well-being and the advancement of science.
 
@@ -5743,13 +5836,15 @@ The Social Order
 
 Paragraph 5.  The states and the Federal District may allocate a share of their budgetary revenues to public entities  which  foster  scientific  and  technological education and research.
 
-#### Article 219. The domestic market is part of the national patrimony and shall be supported with a view to permitting cultural and socio-economic development, the well-being of the population and the technological autonomy of the country, as set forth in a federal law.
+#### Article 219.
+The domestic market is part of the national patrimony and shall be supported with a view to permitting cultural and socio-economic development, the well-being of the population and the technological autonomy of the country, as set forth in a federal law.
 
 ## CHAPTER V
 
-###### Social Communication
+##### Social Communication
 
-#### Article 220. The manifestation of thought, the creation, the expression and the information, in any form, process or medium shall not be subject to any restriction, with due regard to the provisions of this Constitution.
+#### Article 220.
+The manifestation of thought, the creation, the expression and the information, in any form, process or medium shall not be subject to any restriction, with due regard to the provisions of this Constitution.
 
 Paragraph 1.  No law shall contain any provision which may represent a hindrance to full freedom of press in any medium of social communication, with due regard to the provisions of article 5, IV , V , X, XIII and XIV .
 
@@ -5767,7 +5862,8 @@ Paragraph 5.  Social communication media may not, directly or indirectly, be sub
 
 Paragraph 6.  The publication of a printed social communication medium shall not depend on license from authorities.
 
-#### Article 221. The production and programming of radio and television stations shall comply with the following principles:
+#### Article 221.
+The production and programming of radio and television stations shall comply with the following principles:
 
 I - preference to educational, artistic, cultural and informative purposes;
 
@@ -5785,7 +5881,8 @@ III - regional differentiation of cultural, artistic and press production, accor
 
 IV - respect for the ethical and social values of the person and the family.
 
-#### Article 222. Newspaper companies, sound broadcasting companies, or sound and image broadcasting companies, shall be owned exclusively by native Brazilians or those naturalized for more than ten years, or by legal entities incorporated under Brazilian laws and headquartered in Brazil. (CA No. 36, 2002)
+#### Article 222.
+Newspaper companies, sound broadcasting companies, or sound and image broadcasting companies, shall be owned exclusively by native Brazilians or those naturalized for more than ten years, or by legal entities incorporated under Brazilian laws and headquartered in Brazil. (CA No. 36, 2002)
 
 Paragraph 1.  In all circumstances, at least seventy per cent of the total capital stock and of the voting capital of newspaper companies, sound broadcasting companies, or sound and image broadcasting companies, shall be owned directly or indirectly by native Brazilians or those naturalized for more than ten years, who shall mandatorily exercise the management of activities and shall define the content of programming.
 
@@ -5797,7 +5894,8 @@ Paragraph 4.  Specific legislation shall regulate the participation of foreign c
 
 Paragraph 5.  Any alterations in the corporate control of the companies mentioned in paragraph 1 must be communicated to the National Congress.
 
-#### Article 223. The Executive Power has the authority to grant and renew concession, permission and authorization for radio broadcasting and sound and image broadcasting services with due regard to the principle of the complementary roles of private, public and state systems.
+#### Article 223.
+The Executive Power has the authority to grant and renew concession, permission and authorization for radio broadcasting and sound and image broadcasting services with due regard to the principle of the complementary roles of private, public and state systems.
 
 Paragraph 1.  The National Congress shall consider such proposition in the period of time set forth in article 64, paragraphs 2 and 4, counted from the date of receipt of the message.
 
@@ -5809,7 +5907,8 @@ Paragraph 4.  Cancellation of a concession or permission prior to its expiring d
 
 Paragraph 5.  The term for a concession or permission shall be ten years for radio stations and fifteen years for television channels.
 
-#### Article 224. For the purposes of the provisions of this chapter, the National Congress shall  institute,  as  an  auxiliary  agency,  the  Social  Communication  Council,  in  the manner prescribed by law.
+#### Article 224.
+For the purposes of the provisions of this chapter, the National Congress shall  institute,  as  an  auxiliary  agency,  the  Social  Communication  Council,  in  the manner prescribed by law.
 
 The Social Order
 
@@ -5821,9 +5920,10 @@ The Social Order
 
 ## CHAPTER VI
 
-###### Environment
+##### Environment
 
-#### Article 225. All have the right to an ecologically balanced environment, which is an asset of common use and essential to a healthy quality of life, and both the Government and the community shall have the duty to defend and preserve it for present and future generations.
+#### Article 225.
+All have the right to an ecologically balanced environment, which is an asset of common use and essential to a healthy quality of life, and both the Government and the community shall have the duty to defend and preserve it for present and future generations.
 
 Paragraph 1.  In order to ensure the effectiveness of this right, it is incumbent upon the Government to:
 
@@ -5861,9 +5961,10 @@ Constitution of the Federative Republic of Brazil
 
 ## CHAPTER VII
 
-###### Family, Children, Adolescents and the Elderly
+##### Family, Children, Adolescents and the Elderly
 
-#### Article 226. The family, which is the foundation of society, shall enjoy special protection from the State.
+#### Article 226.
+The family, which is the foundation of society, shall enjoy special protection from the State.
 
 Paragraph 1.  Marriage is civil and the marriage ceremony is free of charge.
 
@@ -5881,7 +5982,8 @@ Paragraph 7.  Based on the principles of human dignity and responsible parenthoo
 
 Paragraph 8.  The State shall ensure assistance to the family in the person of each of its members, creating mechanisms to suppress violence within the family.
 
-#### Article 227. It is the duty of the family, the society and the State to ensure children and adolescents, with absolute priority, the right to life, health, nourishment, education, leisure,  professional  training,  culture,  dignity,  respect,  freedom  and  family  and community life, as well as to guard them from all forms of negligence, discrimination, exploitation, violence, cruelty and oppression.
+#### Article 227.
+It is the duty of the family, the society and the State to ensure children and adolescents, with absolute priority, the right to life, health, nourishment, education, leisure,  professional  training,  culture,  dignity,  respect,  freedom  and  family  and community life, as well as to guard them from all forms of negligence, discrimination, exploitation, violence, cruelty and oppression.
 
 Paragraph 1.  The State shall promote full health assistance programmes for children and adolescents, the participation of non-governmental entities being allowed, and with due regard to the following precepts:
 
@@ -5923,11 +6025,14 @@ The Social Order
 
 - Paragraph 7.  In attending to the rights of children and adolescents, the provisions of article 204 shall be taken into consideration.
 
-#### Article 228. Minors under eighteen years of age may not be held criminally liable and shall be subject to the rules of the special legislation.
+#### Article 228.
+Minors under eighteen years of age may not be held criminally liable and shall be subject to the rules of the special legislation.
 
-#### Article 229. It is the duty of parents to assist, raise and educate their under-age children and it is the duty of children of age to help and assist their parents in oldage, need or sickness.
+#### Article 229.
+It is the duty of parents to assist, raise and educate their under-age children and it is the duty of children of age to help and assist their parents in oldage, need or sickness.
 
-#### Article 230. It is the duty of the family, society and the State, to assist the elderly, ensuring their participation in the community, defending their dignity and well-being and guaranteeing their right to life.
+#### Article 230.
+It is the duty of the family, society and the State, to assist the elderly, ensuring their participation in the community, defending their dignity and well-being and guaranteeing their right to life.
 
 - Paragraph 1.  Assistance programmes for the elderly shall be carried out preferably within their homes.
 
@@ -5935,9 +6040,10 @@ The Social Order
 
 ## CHAPTER VIII
 
-###### Indians
+##### Indians
 
-#### Article 231. Indians shall have their social organization, customs, languages, creeds and traditions recognized, as well as their original rights to the lands they traditionally
+#### Article 231.
+Indians shall have their social organization, customs, languages, creeds and traditions recognized, as well as their original rights to the lands they traditionally
 
 152
 
@@ -5963,7 +6069,8 @@ Paragraph 6.  Acts with a view to occupation, domain and possession of the lands
 
 Paragraph 7.  The provisions of article 174, paragraphs 3 and 4, shall not apply to Indian lands.
 
-#### Article 232. The Indians, their communities and organizations have standing under the law to sue to defend their rights and interests, the Public Prosecution intervening in all the procedural acts.
+#### Article 232.
+The Indians, their communities and organizations have standing under the law to sue to defend their rights and interests, the Public Prosecution intervening in all the procedural acts.
 
 The Social Order
 
@@ -5975,11 +6082,14 @@ The Social Order
 
 # TITLE IX General Constitutional Provisions
 
-#### Article 233. (Revoked). (CA No. 28, 2000)
+#### Article 233.
+(Revoked). (CA No. 28, 2000)
 
-#### Article 234. It is forbidden for the Union to assume, directly or indirectly, as a result of the creation of a state, burdens related to expenses with inactive personnel and with charges and repayments of internal or foreign debt of the public administration, including those of the indirect administration.
+#### Article 234.
+It is forbidden for the Union to assume, directly or indirectly, as a result of the creation of a state, burdens related to expenses with inactive personnel and with charges and repayments of internal or foreign debt of the public administration, including those of the indirect administration.
 
-#### Article 235. During the first ten years after the creation of a state the following basic rules shall be observed:
+#### Article 235.
+During the first ten years after the creation of a state the following basic rules shall be observed:
 
 I - the Legislative Assembly shall be composed of seventeen Deputies if the population of the state is less than six hundred thousand inhabitants, and of twentyfour Deputies if it is equal to or greater than this number, up to one million and five hundred thousand inhabitants;
 
@@ -6019,7 +6129,8 @@ X - the appointments subsequent to the first ones, for the offices mentioned in 
 
 XI - the budgetary personnel expenses shall not exceed fifty percent of the revenues of the state.
 
-#### Article 236. Notary and registration services shall be exercised by private entities by Government delegation.
+#### Article 236.
+Notary and registration services shall be exercised by private entities by Government delegation.
 
 Paragraph 1.  The law shall regulate the activities, discipline the civil and criminal liability of notaries, registrars and their officials and define the supervision of their acts by the Judicial Power.
 
@@ -6027,11 +6138,14 @@ Paragraph 2.  Federal law shall set forth general rules for the establishment of
 
 Paragraph 3.  The entrance in notary and registration activities shall depend on a public entrance examination of tests and presentation of academic and professional credentials, and an office shall not be permitted to remain vacant for more than six months, without the opening of a public examination to fill it, either by appointment or transference.
 
-#### Article 237. The supervision and control of foreign trade, which are essential to the defense of national financial interests, shall be exercised by the Ministry of Finance.
+#### Article 237.
+The supervision and control of foreign trade, which are essential to the defense of national financial interests, shall be exercised by the Ministry of Finance.
 
-#### Article 238. The law shall organize the sale and resale of petroleum-derived fuels, fuel alcohol and other fuels derived from renewable raw-materials, respecting the principles of this Constitution.
+#### Article 238.
+The law shall organize the sale and resale of petroleum-derived fuels, fuel alcohol and other fuels derived from renewable raw-materials, respecting the principles of this Constitution.
 
-#### Article 239. The revenues from contributions to the Social Integration Program, created by the Supplementary Law number 7 of September 7, 1970, and to the Civil Servants Asset Development Programme, created by the Supplementary Law number 8, of December 3, 1970, shall, from the date of the promulgation of this Constitution, fund the unemployment insurance programme and the bonus referred to in paragraph 3 of this article, in the manner prescribed by law.
+#### Article 239.
+The revenues from contributions to the Social Integration Program, created by the Supplementary Law number 7 of September 7, 1970, and to the Civil Servants Asset Development Programme, created by the Supplementary Law number 8, of December 3, 1970, shall, from the date of the promulgation of this Constitution, fund the unemployment insurance programme and the bonus referred to in paragraph 3 of this article, in the manner prescribed by law.
 
 Paragraph 1.  At least forty percent of the funds mentioned in the head paragraph of this article shall be allocated to finance economic development programmes, through the National Economic and Social Development Bank, with remuneration criteria which preserve their value.
 
@@ -6049,23 +6163,29 @@ Constitution of the Federative Republic of Brazil
 
 Paragraph 4.  Funding of the unemployment insurance programme shall receive an additional contribution from companies in which employee turnover exceeds the average turnover rate of the sector, in the manner established by law.
 
-#### Article 240. The present compulsory contributions calculated on the payroll, made by employers, intended for private social service and professional training entities linked to the labour union system, are excluded from the provisions of article 195.
+#### Article 240.
+The present compulsory contributions calculated on the payroll, made by employers, intended for private social service and professional training entities linked to the labour union system, are excluded from the provisions of article 195.
 
-#### Article 241. The Union, the States, the Federal District, and the Municipalities shall issue legislation to regulate public syndicates and cooperation agreements between members of the Federation, authorizing the joint management of public services, as well as the transfer, in whole or in part, of charges, services, personnel, and goods essential to the continued rendering of the services transferred. (CA No. 19, 1998)
+#### Article 241.
+The Union, the States, the Federal District, and the Municipalities shall issue legislation to regulate public syndicates and cooperation agreements between members of the Federation, authorizing the joint management of public services, as well as the transfer, in whole or in part, of charges, services, personnel, and goods essential to the continued rendering of the services transferred. (CA No. 19, 1998)
 
-#### Article 242. The principle of article 206, IV , shall not apply to the official educational institutions created by state or municipal law and in existence on the date of the promulgation of this Constitution, which are not totally or predominantly maintained with public funds.
+#### Article 242.
+The principle of article 206, IV , shall not apply to the official educational institutions created by state or municipal law and in existence on the date of the promulgation of this Constitution, which are not totally or predominantly maintained with public funds.
 
 Paragraph 1.  The teaching of Brazilian History shall  take  into  account  the contribution  of  the  different  cultures  and  ethnic  groups  to  the  formation  of  the Brazilian people.
 
 Paragraph 2.  The Pedro II School, located in the city of Rio de Janeiro, shall be maintained in the federal sphere.
 
-#### Article 243. Tracts of land in any region of the country where illegal plantations of psychotropic plants are found shall be expropriated immediately and specifically assigned to the settlement of tenant farmers, to the culture of foodstuffs and medicinal products, with no indemnity to the owner and without prejudice to other sanctions set forth by law.
+#### Article 243.
+Tracts of land in any region of the country where illegal plantations of psychotropic plants are found shall be expropriated immediately and specifically assigned to the settlement of tenant farmers, to the culture of foodstuffs and medicinal products, with no indemnity to the owner and without prejudice to other sanctions set forth by law.
 
 Sole paragraph. Any and all good of economic value seized as a result of illegal traffic or narcotics and similar drugs shall be confiscated and reverted to the benefit of institutions and personnel specialized in the treatment and cure of drug-addicts and in the equipping and funding of supervision, control, prevention and repression of drug traffic crime.
 
-#### Article 244. The law shall provide for the adaptation of presently existing sites and buildings of public use and of the public transportation vehicles in order to guarantee adequate access to the handicapped, as set forth in article 227, paragraph 2.
+#### Article 244.
+The law shall provide for the adaptation of presently existing sites and buildings of public use and of the public transportation vehicles in order to guarantee adequate access to the handicapped, as set forth in article 227, paragraph 2.
 
-#### Article  245. The law shall provide for the cases and conditions in which the Government shall give assistance to the needy heirs and dependents of victims of willful crimes, without prejudice to the civil responsibility of the perpetrator of the offense.
+#### Article  245.
+The law shall provide for the cases and conditions in which the Government shall give assistance to the needy heirs and dependents of victims of willful crimes, without prejudice to the civil responsibility of the perpetrator of the offense.
 
 The Social Order
 
@@ -6075,17 +6195,22 @@ The Social Order
 
 [[START OF PAGE 153]]
 
-#### Article 246. The adoption of a provisional measure for the regulation of any article of the Constitution the wording of which has been altered by means of an amendment enacted between January 1, 1995 and the date of enactment of this amendment 4 is forbidden. (CA No. 6, 1995; CA No. 32, 2001)
+#### Article 246.
+The adoption of a provisional measure for the regulation of any article of the Constitution the wording of which has been altered by means of an amendment enacted between January 1, 1995 and the date of enactment of this amendment 4 is forbidden. (CA No. 6, 1995; CA No. 32, 2001)
 
-#### Article 247. The laws provided for in item III of paragraph 1 of article 41, and in paragraph 7 of article 169, shall establish special criteria and guarantees for the loss of office of a tenured public employee who, by virtue of the duties of his effective post, performs exclusive activities of State. (CA No. 19, 1998)
+#### Article 247.
+The laws provided for in item III of paragraph 1 of article 41, and in paragraph 7 of article 169, shall establish special criteria and guarantees for the loss of office of a tenured public employee who, by virtue of the duties of his effective post, performs exclusive activities of State. (CA No. 19, 1998)
 
 Sole paragraph. In the event of insufficient performance, the loss of office shall only take place by means of an administrative proceeding in which the adversary system and ample defense are ensured.
 
-#### Article 248. The benefits paid, under any auspices, by the agency in charge of the general social security scheme, even if they are financed by the National Treasury, and those benefits not subject to the maximum amount stipulated for benefits granted by such scheme shall comply with the limits set forth in article 37, XI. (CA No. 20, 1998)
+#### Article 248.
+The benefits paid, under any auspices, by the agency in charge of the general social security scheme, even if they are financed by the National Treasury, and those benefits not subject to the maximum amount stipulated for benefits granted by such scheme shall comply with the limits set forth in article 37, XI. (CA No. 20, 1998)
 
-#### Article 249. For the purpose of securing monies for the payment of retirement pensions and other pensions granted to their respective employees and their dependents, in addition to the monies of their respective treasuries, the Union, the States, the Federal District, and the Municipalities may establish funds, made up of monies arising from contributions, and of property, rights, and assets of any kind, by means of a law that shall provide for the nature and the management of such funds. (CA No. 20, 1998)
+#### Article 249.
+For the purpose of securing monies for the payment of retirement pensions and other pensions granted to their respective employees and their dependents, in addition to the monies of their respective treasuries, the Union, the States, the Federal District, and the Municipalities may establish funds, made up of monies arising from contributions, and of property, rights, and assets of any kind, by means of a law that shall provide for the nature and the management of such funds. (CA No. 20, 1998)
 
-#### Article 250. For the purpose of securing monies for the payment of benefits granted by the general social security scheme, in addition to the monies arising from taxation, the Union may establish a fund made up of property, rights, and assets of any kind, by means of a law that shall provide for the nature and the management of such a fund. (CA No. 20, 1998)
+#### Article 250.
+For the purpose of securing monies for the payment of benefits granted by the general social security scheme, in addition to the monies arising from taxation, the Union may establish a fund made up of property, rights, and assets of any kind, by means of a law that shall provide for the nature and the management of such a fund. (CA No. 20, 1998)
 
 Brasília, October 5, 1988.
 
@@ -6133,17 +6258,21 @@ General Constitutional Provisions
 
 # TEMPORARY CONSTITUTIONAL PROVISIONS ACT
 
-#### Article 1. The President of the Republic, the President of the Supreme Federal Court and the members of the National Congress shall take an oath to maintain, defend and comply with the Constitution, upon and on the date of the promulgation thereof.
+#### Article 1.
+The President of the Republic, the President of the Supreme Federal Court and the members of the National Congress shall take an oath to maintain, defend and comply with the Constitution, upon and on the date of the promulgation thereof.
 
-#### Article 2. On September 7, 1993, the voters shall define, through a plebiscite, the form (republic or constitutional monarchy) and system of government (parliamentary or presidential) to be in force in Brazil. 5
+#### Article 2.
+On September 7, 1993, the voters shall define, through a plebiscite, the form (republic or constitutional monarchy) and system of government (parliamentary or presidential) to be in force in Brazil. 5
 
 Paragraph 1.  The free diffusion of these forms and systems through public utility mass communication vehicles shall be free of charge.
 
 Paragraph 2.  The Superior Electoral Court shall, upon promulgation of the Constitution, issue the regulatory rules for this article.
 
-#### Article 3. The revision of the Constitution shall be effected after five years as of its promulgation, by the vote of the absolute majority of the members of the National Congress in a unicameral session.
+#### Article 3.
+The revision of the Constitution shall be effected after five years as of its promulgation, by the vote of the absolute majority of the members of the National Congress in a unicameral session.
 
-#### Article 4. The term of office of the incumbent President of the Republic shall end on March 15, 1990.
+#### Article 4.
+The term of office of the incumbent President of the Republic shall end on March 15, 1990.
 
 Paragraph 1.  The first election for President of the Republic after promulgation of the Constitution shall be held on November 15, 1989, and the provisions of article 16 of the Constitution shall not apply thereto.
 
@@ -6153,7 +6282,8 @@ Paragraph 3.  The terms of office of the Governors and of the Vice-Governors ele
 
 Paragraph 4.  The terms of office of the present Mayors, Vice-Mayors and City Councilmen shall end on January 1, 1989, with the inauguration of those elected.
 
-#### Article 5. The provisions of article 16 and the rules of article 77 of the Constitution do not apply to the elections scheduled for November 15, 1988.
+#### Article 5.
+The provisions of article 16 and the rules of article 77 of the Constitution do not apply to the elections scheduled for November 15, 1988.
 
 Paragraph 1.  For the elections of November 15, 1988, an electoral domicile in the electoral district of at least four months prior to the election shall be required, and the candidates who fulfill this requirement and satisfy the other legal requisites may register with the Electoral Courts after the Constitution is promulgated.
 
@@ -6175,15 +6305,18 @@ Paragraph 4.  The number of Councilmen per municipality shall be determined, for
 
 Paragraph 5.  For the elections to be held on November 15, 1988, except for those who already hold an elective office, the spouse and relatives by blood or marriage up to the second degree or relatives by adoption of the President of the Republic, of a State Governor, or the Governor of the Federal District and of a Mayor who have served more than half of their term of office, are ineligible for any office within the jurisdiction of the office holder.
 
-#### Article  6. Federal  Congressmen  may,  during  the  six  months  following  the promulgation of the Constitution, and forming a group of at least thirty, request from the Superior Electoral Court the registration of a new political party, the petition to be accompanied by the respective manifest, the by-laws and the programme duly signed by the petitioners.
+#### Article  6.
+Federal  Congressmen  may,  during  the  six  months  following  the promulgation of the Constitution, and forming a group of at least thirty, request from the Superior Electoral Court the registration of a new political party, the petition to be accompanied by the respective manifest, the by-laws and the programme duly signed by the petitioners.
 
 Paragraph 1.  The provisional registration, which shall be promptly granted by the Superior Electoral Court, according to this article, grants to the new party all rights, duties and prerogatives of the existing parties, among which the right to take part, under its own name, in the elections to be held during the twelve months following its formation.
 
 Paragraph 2.  The new party shall automatically lose its provisional registration if, within twenty-four months of its formation, it fails to obtain the final registration at the Superior Electoral Court, as established by law.
 
-#### Article 7. Brazil shall strive for the creation of an international court of human rights.
+#### Article 7.
+Brazil shall strive for the creation of an international court of human rights.
 
-#### Article 8. Amnesty is granted to those who, during the period from September 18, 1946, to the date the Constitution is promulgated, have been affected, exclusively for political reasons, by institutional or supplementary acts of exception, to those encompassed in Legislative Decree no. 18, of December 15, 1961, and to those affected by Decree-Law no. 846, of September 12, 1969, ensuring the promotions, in their inactivity, to the office, position or rank to which they would be entitled if they were in active service, with due regard for the periods of continuous activity set forth in laws and regulations in force, respecting the characteristics and peculiarities of the careers of civil and military public servants and complying with the respective legal regimes.
+#### Article 8.
+Amnesty is granted to those who, during the period from September 18, 1946, to the date the Constitution is promulgated, have been affected, exclusively for political reasons, by institutional or supplementary acts of exception, to those encompassed in Legislative Decree no. 18, of December 15, 1961, and to those affected by Decree-Law no. 846, of September 12, 1969, ensuring the promotions, in their inactivity, to the office, position or rank to which they would be entitled if they were in active service, with due regard for the periods of continuous activity set forth in laws and regulations in force, respecting the characteristics and peculiarities of the careers of civil and military public servants and complying with the respective legal regimes.
 
 Paragraph 1.  The provisions of this article shall only generate financial effects as from the promulgation of the Constitution, any kind of retroactive compensation being forbidden.
 
@@ -6203,11 +6336,13 @@ Paragraph 4.  To those who, by virtue of institutional acts, have gratuitously e
 
 Paragraph 5.  The amnesty granted under this article applies to civil servants and to employees at all levels of government or at its foundations, state-owned companies or mixed-capital companies under state control, except in the military Ministries, who have been punished or dismissed from professional activities interrupted by decision of their employees, as well as by virtue of Decree-Law no. 1,632, of August 4, 1978, or for exclusively political reasons, the readmission of those affected as from 1979 being ensured, with due regard for the provisions of paragraph 1.
 
-#### Article 9. Those who, for exclusively political reasons, were disfranchised or had their political rights suspended during the period from July 15 to December 31, 1969, by an act of the then President of the Republic, may request the Supreme Federal Court to acknowledge the rights and advantages interrupted by the punitive acts, provided that they prove that such acts were marked by gross flaws.
+#### Article 9.
+Those who, for exclusively political reasons, were disfranchised or had their political rights suspended during the period from July 15 to December 31, 1969, by an act of the then President of the Republic, may request the Supreme Federal Court to acknowledge the rights and advantages interrupted by the punitive acts, provided that they prove that such acts were marked by gross flaws.
 
 Sole paragraph. The Supreme Federal Court shall pronounce its decision within one hundred and twenty days as from the request of the interested party.
 
-#### Article 10. Until the supplementary law referred to in article 7, I, of the Constitution is promulgated:
+#### Article 10.
+Until the supplementary law referred to in article 7, I, of the Constitution is promulgated:
 
 I - the protection referred to therein is limited to the increase, to four times, of the percentage set forth in article 6, head paragraph and paragraph 1, of the Law no. 5,107 6 of September 13, 1966;
 
@@ -6233,11 +6368,13 @@ Paragraph 2.  Until further legal provisions are established, the contributions 
 
 Paragraph 3.  Upon the first proof of fulfillment of labour obligations by rural employers, as established by article 233 7 , after the promulgation of the Constitution, the conformity of the contract to the law and of the correction of the labour obligations over the entire period shall be certified before the Labour Courts.
 
-#### Article 11. Each Legislative Assembly endowed with constituent powers, shall draft the State Constitution within one year as from the promulgation of the Federal Constitution, with due regard for the principles of the latter.
+#### Article 11.
+Each Legislative Assembly endowed with constituent powers, shall draft the State Constitution within one year as from the promulgation of the Federal Constitution, with due regard for the principles of the latter.
 
 Sole paragraph. After the promulgation of the State Constitution, it shall be incumbent upon the City Council, within six months, to vote the respective Organic Law, in two rounds of discussion and voting, with due regard for the provisions of the Federal and state Constitutions.
 
-#### Article 12. Within ninety days of the promulgation of the Constitution, a Land Studies Committee shall be created, with ten members nominated by the National Congress and five members by the Executive Power, for the purpose of submitting studies concerning the national territory and draft bills regarding new territorial units, particularly in the Legal Amazonian Region and in areas pending solution.
+#### Article 12.
+Within ninety days of the promulgation of the Constitution, a Land Studies Committee shall be created, with ten members nominated by the National Congress and five members by the Executive Power, for the purpose of submitting studies concerning the national territory and draft bills regarding new territorial units, particularly in the Legal Amazonian Region and in areas pending solution.
 
 Paragraph 1.  Within one year the Committee shall submit the results of its studies to the National Congress so that, in accordance with the Constitution, such studies may be examined during the twelve subsequent months, the committee being dissolved shortly thereafter.
 
@@ -6249,7 +6386,8 @@ Paragraph 4.  If,  three  years  after  the  promulgation  of  the  Constitution
 
 Paragraph 5.  The present borders of the state of Acre with the states of Amazonas and Rondonia are hereby recognized and ratified according to cartographic and geodesic surveys conducted by the Tripartite Committee formed by representatives of the states and of the specialized technical services of the Brazilian Institute of Geography and Statistics.
 
-#### Article 13. The state of Tocantins is created by separation of the area described in this article and its installation shall occur on the forty-sixth day after the election provided for in paragraph 3, but not before January 1, 1989.
+#### Article 13.
+The state of Tocantins is created by separation of the area described in this article and its installation shall occur on the forty-sixth day after the election provided for in paragraph 3, but not before January 1, 1989.
 
 > 7 Article 233 was revoked by CA no. 28/2000.
 
@@ -6283,7 +6421,8 @@ Paragraph 6.  The legal rules regulating the division of the state of Mato Gross
 
 Paragraph 7.  The state of Goiás shall be released from debts and burdens resulting from undertakings within the territory of the new state, and the Union is authorized, at its discretion, to take over such debts.
 
-#### Article 14. The federal territories of Roraima and of Amapá are transformed into federated states, their present geographic borders being maintained.
+#### Article 14.
+The federal territories of Roraima and of Amapá are transformed into federated states, their present geographic borders being maintained.
 
 Temporary Constitutional Provisions Act
 
@@ -6301,9 +6440,11 @@ Paragraph 3.  The President of the Republic shall, within forty-five days of the
 
 Paragraph 4.  Until the transformation into states is effected according to this article,  the  federal  territories  of  Roraima  and Amapá  shall  enjoy  the  benefits  of transfer of funds provided for in article 159, I, a , of the Constitution and article 34, paragraph 2, II, of this Act.
 
-#### Article 15. The Federal Territory of Fernando de Noronha is extinguished and its area reincorporated into the state of Pernambuco.
+#### Article 15.
+The Federal Territory of Fernando de Noronha is extinguished and its area reincorporated into the state of Pernambuco.
 
-#### Article 16. Until the provisions of article 32, paragraph 2, of the Constitution are implemented, it shall be incumbent upon the President of the Republic, with the approval of the Federal Senate, to appoint the Governor and Vice-Governor of the Federal District.
+#### Article 16.
+Until the provisions of article 32, paragraph 2, of the Constitution are implemented, it shall be incumbent upon the President of the Republic, with the approval of the Federal Senate, to appoint the Governor and Vice-Governor of the Federal District.
 
 Paragraph 1.  The authority of the Legislative Chamber of the Federal District shall, until such time as it is installed, be exercised by the Federal Senate.
 
@@ -6311,13 +6452,15 @@ Paragraph 2.  The accounting, financial, budgetary, operational and property sup
 
 Paragraph 3.  The assets of the Federal District shall include those which may be assigned to it by the Union as established by law.
 
-#### Article 17. Earnings, compensation, advantages and additional pay, as well as retirement pensions which are being received in disagreement with this Constitution, shall be reduced immediately to the limits arising therefrom, it not being allowed, in this case, to invoke a vested right or receipt of excess on any account.
+#### Article 17.
+Earnings, compensation, advantages and additional pay, as well as retirement pensions which are being received in disagreement with this Constitution, shall be reduced immediately to the limits arising therefrom, it not being allowed, in this case, to invoke a vested right or receipt of excess on any account.
 
 Paragraph 1.  It  is  ensured  the  cumulative  occupation  of  two  medical  offices or jobs that are held by a military physician in the direct or indirect government administration.
 
 Paragraph 2.  The cumulative occupation of two offices or jobs reserved for health professionals is ensured if held in the direct or indirect government administration.
 
-#### Article 18. The legal effects of any legislative or administrative act drawn up as of the installation of the National Constituent Assembly, with the objective of granting tenure to a public servant admitted without a public entrance examination to the direct or indirect administration, including the foundations instituted and maintained by the Government, shall be extinguished.
+#### Article 18.
+The legal effects of any legislative or administrative act drawn up as of the installation of the National Constituent Assembly, with the objective of granting tenure to a public servant admitted without a public entrance examination to the direct or indirect administration, including the foundations instituted and maintained by the Government, shall be extinguished.
 
 168
 
@@ -6327,7 +6470,8 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 163]]
 
-#### Article 19. Civil public servants of the Union, the states, the Federal District and the municipalities, of the direct administration, autonomous government entities and government foundations, who, on the date of promulgation of the Constitution, have been in office for at least five continuous years, and who have not been admitted as established in article 37 of the Constitution, are deemed to have tenure in the public service.
+#### Article 19.
+Civil public servants of the Union, the states, the Federal District and the municipalities, of the direct administration, autonomous government entities and government foundations, who, on the date of promulgation of the Constitution, have been in office for at least five continuous years, and who have not been admitted as established in article 37 of the Constitution, are deemed to have tenure in the public service.
 
 Paragraph 1.  The period of service of the civil servants referred to in this article shall be considered as a credential when they take a competitive examination for the purpose of acquiring tenure, as set forth by law.
 
@@ -6335,19 +6479,24 @@ Paragraph 2.  The provisions of this article do not apply to the holders of trus
 
 Paragraph 3.  The provisions of this article shall not apply to higher education professors as set forth by law.
 
-#### Article 20. Within one hundred and eighty days, the rights of inactive public servants and pensioners shall be revised and the income and pensions owed to them shall be updated in order to adjust them to the provisions of the Constitution.
+#### Article 20.
+Within one hundred and eighty days, the rights of inactive public servants and pensioners shall be revised and the income and pensions owed to them shall be updated in order to adjust them to the provisions of the Constitution.
 
-#### Article 21. Judges vested in office for a limited period of time, who have been admitted by means of a public entrance examination of tests and presentation of  academic and professional credentials and who are in office on the date this Constitution is promulgated, shall achieve tenure with due regard for the probation period and they shall be included in a special job class to be terminated, maintaining the authority, prerogatives and restrictions of the laws to which they were subject, except for those inherent to the temporary nature of their investiture.
+#### Article 21.
+Judges vested in office for a limited period of time, who have been admitted by means of a public entrance examination of tests and presentation of  academic and professional credentials and who are in office on the date this Constitution is promulgated, shall achieve tenure with due regard for the probation period and they shall be included in a special job class to be terminated, maintaining the authority, prerogatives and restrictions of the laws to which they were subject, except for those inherent to the temporary nature of their investiture.
 
 Sole paragraph. The retirement of the judges referred to in this article shall be regulated by the rules established for other state judges.
 
-#### Article 22. Public defenders vested in office before the date of installation of the National Constituent Assembly are ensured the right to opt for the career, complying with the guarantees and prohibitions set forth in article 134, sole paragraph 8 , of the Constitution.
+#### Article 22.
+Public defenders vested in office before the date of installation of the National Constituent Assembly are ensured the right to opt for the career, complying with the guarantees and prohibitions set forth in article 134, sole paragraph 8 , of the Constitution.
 
-#### Article 23. Until such time as the regulations of article 21, XVI, of the Constitution are issued, the present holders of the office of federal censor shall continue to exercise functions compatible with such office in the Federal Police Department, with due regard for the constitutional provisions.
+#### Article 23.
+Until such time as the regulations of article 21, XVI, of the Constitution are issued, the present holders of the office of federal censor shall continue to exercise functions compatible with such office in the Federal Police Department, with due regard for the constitutional provisions.
 
 Sole paragraph. Such law shall provide for the reassignment of the Federal Censors as set forth in this article.
 
-#### Article 24. The Union, the states, the Federal District and the municipalities shall issue laws establishing criteria to make their staffs compatible with the provisions of article 39 of the Constitution and with the administrative reorganization resulting therefrom, within eighteen months as from the promulgation of the Constitution.
+#### Article 24.
+The Union, the states, the Federal District and the municipalities shall issue laws establishing criteria to make their staffs compatible with the provisions of article 39 of the Constitution and with the administrative reorganization resulting therefrom, within eighteen months as from the promulgation of the Constitution.
 
 > 8 Should read as 'paragraph 1', by virtue of the provisions of CA no. 45/2004.
 
@@ -6359,7 +6508,8 @@ Temporary Constitutional Provisions Act
 
 [[START OF PAGE 164]]
 
-#### Article  25. As of one hundred and eighty days after the promulgation of the Constitution, such period being subject to extension by law, all legal provisions which confer on or delegate to an agency of the Executive Power authority assigned to the National Congress by the Constitution shall be revoked, especially those referring to:
+#### Article  25.
+As of one hundred and eighty days after the promulgation of the Constitution, such period being subject to extension by law, all legal provisions which confer on or delegate to an agency of the Executive Power authority assigned to the National Congress by the Constitution shall be revoked, especially those referring to:
 
 I - normative action;
 
@@ -6375,13 +6525,15 @@ III  -  in  the  cases  defined  in  items  I  and  II,  the  acts  performed  d
 
 - Paragraph 2.  The decree-laws issued between September 3, 1988 and the date of the promulgation of the Constitution shall be converted on such date into provisional measures, with the rules established in article 62, sole paragraph 9 ,  being  applied thereto.
 
-#### Article 26. Within one year of promulgation of the Constitution, the National Congress shall effect, through a joint committee, an analytical and expert examination of the acts and facts which generate the Brazilian foreign indebtedness.
+#### Article 26.
+Within one year of promulgation of the Constitution, the National Congress shall effect, through a joint committee, an analytical and expert examination of the acts and facts which generate the Brazilian foreign indebtedness.
 
 Paragraph 1.  The Committee shall have the legal authority of a parliamentary investigation committee for purposes of requisition and summons, and shall act with the assistance of the Federal Audit Court.
 
 Paragraph 2.  If irregularities are found, the National Congress shall propose that the Executive Power declare the act null and void and shall forward the case to the Federal Public Prosecution, which shall take the appropriate action within sixty days.
 
-#### Article 27. The Superior Court of Justice shall be installed under the Presidency of the Supreme Federal Court.
+#### Article 27.
+The Superior Court of Justice shall be installed under the Presidency of the Supreme Federal Court.
 
 Paragraph 1.  Until such time as the Superior Court of Justice is installed, the Supreme Federal Court shall perform the duties and responsibilities defined in the previous constitutional order.
 
@@ -6417,11 +6569,13 @@ Paragraph 9.  If there is no federal judge with the minimum period of service se
 
 Paragraph 10.  It is incumbent upon the Federal Courts to judge the lawsuits filed therein until such time as the Constitution is promulgated, and the Federal Regional Courts as well as the Superior Court of Justice shall judge the actions to overrule the final judgements rendered until then by the Federal Courts, including those which refer to matters for which competence has been transferred to another branch of the Judicial Power.
 
-#### Article  28. The federal judges referred to  in  article  123,  paragraph  2,  of  the Constitution of 1967, with the wording given by the Constitutional Amendment no. 7 of 1977, shall be vested in office in courts of the judiciary section for which they were appointed or designated; if there are no vacancies, the existing courts shall be divided.
+#### Article  28.
+The federal judges referred to  in  article  123,  paragraph  2,  of  the Constitution of 1967, with the wording given by the Constitutional Amendment no. 7 of 1977, shall be vested in office in courts of the judiciary section for which they were appointed or designated; if there are no vacancies, the existing courts shall be divided.
 
 Sole paragraph. For purposes of promotion for seniority, the period of service of such judges shall be computed as from the day of their taking of office.
 
-#### Article  29. Until  such  time  as  the  supplementary  laws  relating  to  the  Public Prosecution and to the Advocacy-General of the Union are approved, the Federal Public Prosecution, the Office of the Attorney-General of the National Treasury, the Legal Consultancies of the Ministries, the Prosecution and Legal Departments of the federal autonomous government agencies having their own representation, and the members of the Prosecution Offices of public foundation universities shall continue to conduct their activities within their respective incumbencies.
+#### Article  29.
+Until  such  time  as  the  supplementary  laws  relating  to  the  Public Prosecution and to the Advocacy-General of the Union are approved, the Federal Public Prosecution, the Office of the Attorney-General of the National Treasury, the Legal Consultancies of the Ministries, the Prosecution and Legal Departments of the federal autonomous government agencies having their own representation, and the members of the Prosecution Offices of public foundation universities shall continue to conduct their activities within their respective incumbencies.
 
 Temporary Constitutional Provisions Act
 
@@ -6441,13 +6595,17 @@ Paragraph 4.  The present members of the supplementary staff of the Labour and M
 
 Paragraph 5.  It is incumbent upon the present Office of the Attorney-General of the National Treasury, directly or by delegation, which may be made to the State Public Prosecution, to represent the Union in court in lawsuits of a fiscal nature, in their respective spheres of authority, until such time as the supplementary laws set forth in this article are promulgated.
 
-#### Article 30. The legislation which creates the justiceship of the peace shall maintain the present judges of the peace until the new judges take office, ensuring them the rights and duties conferred on the latter and shall establish the date for the election provided for in article 98, II, of this Constitution.
+#### Article 30.
+The legislation which creates the justiceship of the peace shall maintain the present judges of the peace until the new judges take office, ensuring them the rights and duties conferred on the latter and shall establish the date for the election provided for in article 98, II, of this Constitution.
 
-#### Article 31. The clerical offices of the judicial courts, as defined in law, shall be brought under state control, with due regard for the rights of the present clerks.
+#### Article 31.
+The clerical offices of the judicial courts, as defined in law, shall be brought under state control, with due regard for the rights of the present clerks.
 
-#### Article 32. The provisions of article 236 shall not apply to notary and registration services which have already been made official by the Government, with due regard for the rights of their servants.
+#### Article 32.
+The provisions of article 236 shall not apply to notary and registration services which have already been made official by the Government, with due regard for the rights of their servants.
 
-#### Article 33. With the exception of credits for alimony, the amount due by virtue of court orders for which payment is outstanding on the date of the promulgation of the Constitution, therein included remaining interests and adjustment for inflation, may be paid in legal tender, with readjustments, in equal and successive annual installments, within eight years at the most, counted from July 1, 1989, in accordance with a decision by the Executive Power within one hundred and eighty days of the promulgation of the Constitution.
+#### Article 33.
+With the exception of credits for alimony, the amount due by virtue of court orders for which payment is outstanding on the date of the promulgation of the Constitution, therein included remaining interests and adjustment for inflation, may be paid in legal tender, with readjustments, in equal and successive annual installments, within eight years at the most, counted from July 1, 1989, in accordance with a decision by the Executive Power within one hundred and eighty days of the promulgation of the Constitution.
 
 Sole paragraph. In order to comply with the provisions of this article, the debtor entities may issue, each year, for the exact amount of the expenditure, public debt bonds which shall not be computed for purposes of determining the total limit of indebtedness.
 
@@ -6459,7 +6617,8 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 167]]
 
-#### Article 34. The national tax system shall become effective on the first day of the fifth month following the promulgation of the Constitution, and until then, the system set forth in the 1967 Constitution, with the wording provided by Amendment number 1 of 1969 and by the subsequent ones, shall be maintained.
+#### Article 34.
+The national tax system shall become effective on the first day of the fifth month following the promulgation of the Constitution, and until then, the system set forth in the 1967 Constitution, with the wording provided by Amendment number 1 of 1969 and by the subsequent ones, shall be maintained.
 
 Paragraph 1.  With the promulgation of this Constitution, articles 148, 149, 150, 154, I, 156, III and 159, I, c , shall become effective, with all provisions to the contrary in the 1967 Constitution and in the amendments which modified it, especially its article 25, III, being revoked.
 
@@ -6507,7 +6666,8 @@ Paragraph 11.  The Centre-West Development Bank is hereby created, in the manner
 
 Paragraph 12.  The urgency provided by article 148, II, shall not preclude the collection of the compulsory loan instituted for the benefit of the Centrais Elétricas Brasileiras S.A. (Eletrobrás) by Law number 4,156 of November 28, 1962, with the subsequent amendments.
 
-#### Article 35. The provisions of article 165, paragraph 7, shall be complied with progressively, over a period of ten years, the funds being distributed among the macro-economic regions in proportion to their population, based on the situation verified for the 1986-87 period.
+#### Article 35.
+The provisions of article 165, paragraph 7, shall be complied with progressively, over a period of ten years, the funds being distributed among the macro-economic regions in proportion to their population, based on the situation verified for the 1986-87 period.
 
 Paragraph 1.  In the application of the criteria referred to in this article, the total expenses shall exclude expenses for:
 
@@ -6539,23 +6699,29 @@ II - the bill of budgetary directives shall be forwarded not less than eight and
 
 III - the budget bill of the Union shall be forwarded not less than four months before the end of the fiscal year, and returned for sanction before the end of the legislative session.
 
-#### Article 36. The funds existing on the day the Constitution is promulgated, except for those resulting from tax exemptions which become private property and those which are of interest to national defense, shall be extinguished if they are not ratified by the National Congress within two years.
+#### Article 36.
+The funds existing on the day the Constitution is promulgated, except for those resulting from tax exemptions which become private property and those which are of interest to national defense, shall be extinguished if they are not ratified by the National Congress within two years.
 
-#### Article 37. Adaptation to the provisions of article 167, III, shall be made within the period of five years, the excess being reduced at a rate of at least one-fifth per year.
+#### Article 37.
+Adaptation to the provisions of article 167, III, shall be made within the period of five years, the excess being reduced at a rate of at least one-fifth per year.
 
-#### Article 38. Until the promulgation of the supplementary law referred to in article 169, the Union, the states, the Federal District and the municipalities shall not spend more than sixty-five percent of the amount of the respective current revenues on personnel.
+#### Article 38.
+Until the promulgation of the supplementary law referred to in article 169, the Union, the states, the Federal District and the municipalities shall not spend more than sixty-five percent of the amount of the respective current revenues on personnel.
 
 Sole paragraph. The Union, the states, the Federal District and the municipalities, whenever the respective expenditure with personnel exceeds the limit established in this article, shall return to such limit, reducing the excess percentage at a rate of one-fifth per year.
 
-#### Article 39. For purposes of compliance with the constitutional provisions which involve variations of expenses and revenues of the Union, after the promulgation of the Constitution, the Executive Power shall draw up and the Legislative Power shall examine a bill of review of the budgetary law referring to the fiscal year of 1989.
+#### Article 39.
+For purposes of compliance with the constitutional provisions which involve variations of expenses and revenues of the Union, after the promulgation of the Constitution, the Executive Power shall draw up and the Legislative Power shall examine a bill of review of the budgetary law referring to the fiscal year of 1989.
 
 Sole paragraph. The National Congress shall vote within twelve months the supplementary law provided by article 161, II.
 
-#### Article 40. The Free-Trade Zone of Manaus, with its characteristics of free-trade, export and import and fiscal benefits, shall be maintained for a period of twenty-five years as from the promulgation of the Constitution.
+#### Article 40.
+The Free-Trade Zone of Manaus, with its characteristics of free-trade, export and import and fiscal benefits, shall be maintained for a period of twenty-five years as from the promulgation of the Constitution.
 
 Sole  paragraph. The criteria  which  regulated  or  may  come  to  regulate  the approval of projects in the Free-Trade Zone of Manaus may only be modified by a federal law.
 
-#### Article 41. The Executive Powers of the Union, the states, the Federal District and the municipalities shall reassess all sectorial tax incentives now in force and shall propose the appropriate measures to the respective Legislative Powers.
+#### Article 41.
+The Executive Powers of the Union, the states, the Federal District and the municipalities shall reassess all sectorial tax incentives now in force and shall propose the appropriate measures to the respective Legislative Powers.
 
 Temporary Constitutional Provisions Act
 
@@ -6571,15 +6737,18 @@ Paragraph 2.  Revocation shall not preclude any rights which have become vested 
 
 Paragraph 3.  Incentives granted by means of agreements concluded between states, in accordance with article 23, paragraph 6 of the 1967 Constitution, with the wording of Amendment number 1, of October 17, 1969, shall also be reassessed and reconfirmed within the time limits set forth in this article.
 
-#### Article 42. Of the funds intended for irrigation, during a period of 25 (twenty-five) years, the Union shall apply: (CA No. 43, 2004)
+#### Article 42.
+Of the funds intended for irrigation, during a period of 25 (twenty-five) years, the Union shall apply: (CA No. 43, 2004)
 
 I - twenty percent in the Centre-West Region;
 
 II  -  fifty  percent  in  the  Northeastern  Region,  preferably  in  the  semi-arid region.
 
-#### Article 43. On the date of the promulgation of the law regulating the prospecting and mining of mineral resources and beds of ore, or within one year counted from the date of the promulgation of the Constitution, the authorizations, grants and other deeds affording mining rights shall become ineffective, in case the prospecting or mining works have not provenly started in the legal time limits or are inactive.
+#### Article 43.
+On the date of the promulgation of the law regulating the prospecting and mining of mineral resources and beds of ore, or within one year counted from the date of the promulgation of the Constitution, the authorizations, grants and other deeds affording mining rights shall become ineffective, in case the prospecting or mining works have not provenly started in the legal time limits or are inactive.
 
-#### Article  44. The Brazilian companies which presently hold valid prospecting authorizations and permits for the mining of mineral resources and the exploitation of hydraulic energy shall have four years, counted from the date of the promulgation of the Constitution, to comply with the requirements of article 176, paragraph 1.
+#### Article  44.
+The Brazilian companies which presently hold valid prospecting authorizations and permits for the mining of mineral resources and the exploitation of hydraulic energy shall have four years, counted from the date of the promulgation of the Constitution, to comply with the requirements of article 176, paragraph 1.
 
 Paragraph 1.  Except for  the  provisions  of  national  interest  set  forth  in  the constitutional text, Brazilian companies shall be exempt from compliance with the provisions of article 176, paragraph 1, provided that, within four years counted from the date of the promulgation of the Constitution they have destined the product of their mining and processing activities to industrialization within the national territory, in their own facilities or in a controlling or controlled industrial company.
 
@@ -6587,7 +6756,8 @@ Paragraph 2.  Brazilian companies which hold a hydraulic energy concession for u
 
 Paragraph 3.  The Brazilian companies referred to in paragraph 1 may only be granted prospecting authorizations or concessions to mine or exploit hydraulic energy potentials provided that the energy and the mining product are used in their respective industrial processes.
 
-#### Article 45. Refineries which operate in the country under article 43 and under the conditions of article 45 of Law number 2,004 of October 3, 1953 12 , are excluded from the monopoly established by article 177, II, of the Constitution.
+#### Article 45.
+Refineries which operate in the country under article 43 and under the conditions of article 45 of Law number 2,004 of October 3, 1953 12 , are excluded from the monopoly established by article 177, II, of the Constitution.
 
 > 12 Revoked by Act no. 9,478/1997.
 
@@ -6601,7 +6771,8 @@ Constitution of the Federative Republic of Brazil
 
 Sole paragraph. Risk contracts entered into with Petróleo Brasileiro S.A. (Petrobrás) for petroleum prospecting, which are effective on the date of the promulgation of the Constitution are exempted from the prohibition of article 177, paragraph 1.
 
-#### Article 46. Credits with institutions under intervention or extra-judicial liquidation, even when such proceedings are converted into bankruptcy, are subject to adjustment for inflation from the date of maturity to the date of actual payment, with no interruption or suspension.
+#### Article 46.
+Credits with institutions under intervention or extra-judicial liquidation, even when such proceedings are converted into bankruptcy, are subject to adjustment for inflation from the date of maturity to the date of actual payment, with no interruption or suspension.
 
 Sole paragraph. The provisions of this article shall also apply to:
 
@@ -6613,7 +6784,8 @@ III - credits existing prior to the promulgation of this Constitution;
 
 IV - credits held by public administration entities before the promulgation of this Constitution and not settled by January 1, 1988.
 
-#### Article 47. In the settlement of debts, including their subsequent renegotiation and composition, even when taken to court, arising out of any loans granted by banks and by financial institutions, there shall be no adjustment for inflation, provided that the loan has been granted:
+#### Article 47.
+In the settlement of debts, including their subsequent renegotiation and composition, even when taken to court, arising out of any loans granted by banks and by financial institutions, there shall be no adjustment for inflation, provided that the loan has been granted:
 
 I - to micro and small businessmen or to their businesses in the period from February 28, 1986, to February 28, 1987;
 
@@ -6651,9 +6823,11 @@ Paragraph 6.  The granting of this benefit by private commercial banks shall not
 
 Paragraph 7.  In  the  case  of  on-lending  to  official  financial  agents  or  credit cooperatives, the burden shall fall upon the original source of funds.
 
-#### Article 48. The National Congress, within one hundred and twenty days of the promulgation of this Constitution, shall draw up a consumer defense code.
+#### Article 48.
+The National Congress, within one hundred and twenty days of the promulgation of this Constitution, shall draw up a consumer defense code.
 
-#### Article 49. The law shall provide for the institution of emphyteusis concerning urban real property, the tenants having the option, in the event of extinction, of redemption of the emphyteusis, by acquisition of direct title in accordance with the provisions contained in the respective contracts.
+#### Article 49.
+The law shall provide for the institution of emphyteusis concerning urban real property, the tenants having the option, in the event of extinction, of redemption of the emphyteusis, by acquisition of direct title in accordance with the provisions contained in the respective contracts.
 
 Paragraph 1.  In the absence of a contractual clause, the criteria and bases currently in force in the special legislation on real estate of the Union shall be adopted.
 
@@ -6663,9 +6837,11 @@ Paragraph 3.  Emphyteusis shall continue to be applied to tide lands and those l
 
 Paragraph 4.  After redemption of the emphyteusis, the former holder of direct title shall, within ninety days, subject to liability, entrust all documents related to such title to the custody of the competent real estate registry.
 
-#### Article 50. An agricultural law to be promulgated within one year shall provide, in accordance with this Constitution, for the objectives and instruments of agricultural policy,  priorities,  crop  planning,  marketing,  internal  supply,  foreign  market  and institution of agrarian credit.
+#### Article 50.
+An agricultural law to be promulgated within one year shall provide, in accordance with this Constitution, for the objectives and instruments of agricultural policy,  priorities,  crop  planning,  marketing,  internal  supply,  foreign  market  and institution of agrarian credit.
 
-#### Article 51. All donations, sales and concessions of public land with an area of more than three thousand hectares, made in the period from January 1, 1962, to December 31, 1987, shall be reviewed by the National Congress, by a joint committee, during the three years following the promulgation of the Constitution.
+#### Article 51.
+All donations, sales and concessions of public land with an area of more than three thousand hectares, made in the period from January 1, 1962, to December 31, 1987, shall be reviewed by the National Congress, by a joint committee, during the three years following the promulgation of the Constitution.
 
 Paragraph 1.  Insofar as sales are concerned, the review shall be based exclusively on the criterion of lawfulness of the transaction.
 
@@ -6681,7 +6857,8 @@ Paragraph 2.  In the case of concessions and donations, the review shall comply 
 
 Paragraph 3.  In the cases set forth in the preceding paragraphs, if illegality is proven or if there is public interest, the lands shall revert to the ownership of the Union, of the states, of the Federal District or of the municipalities.
 
-#### Article 52. Until such time as the conditions referred to in article 192 are established, the following are forbidden: (CA No. 40, 2002)
+#### Article 52.
+Until such time as the conditions referred to in article 192 are established, the following are forbidden: (CA No. 40, 2002)
 
 I - the installation, in the country, of new branches of financial institutions domiciled abroad;
 
@@ -6689,7 +6866,8 @@ II - increase of percentual participation of individuals and legal entities resi
 
 Sole paragraph. The prohibition referred to in this article does not apply to the authorizations resulting from international agreements, from reciprocity or from interest of the Brazilian Government.
 
-#### Article 53. Veterans who have actually participated in war operations during the Second World War, in accordance with Law number 5,315 of September 12, 1967, shall be ensured the following rights:
+#### Article 53.
+Veterans who have actually participated in war operations during the Second World War, in accordance with Law number 5,315 of September 12, 1967, shall be ensured the following rights:
 
 I - admission to public service without being required to undergo a public entrance examination, with tenure;
 
@@ -6705,7 +6883,8 @@ VI - priority in the acquisition of a home for those who do not own one or for t
 
 Sole paragraph. The concession of the special pension referred to in item  II replaces, for all legal effects, any other pension already granted to the veteran.
 
-#### Article 54. Rubber-tappers recruited in accordance with Decree-Law number 5,813 of September 14, 1943, and protected by Decree-Law number 9,882 of September 16, 1946, shall receive, when needy, a monthly pension for life in the amount of two minimum wages.
+#### Article 54.
+Rubber-tappers recruited in accordance with Decree-Law number 5,813 of September 14, 1943, and protected by Decree-Law number 9,882 of September 16, 1946, shall receive, when needy, a monthly pension for life in the amount of two minimum wages.
 
 Paragraph 1.  The benefit extends to rubber-tappers who, at the request of the Brazilian Government, contributed to the war effort by working in rubber production in the Amazonian Region during the Second World War.
 
@@ -6721,11 +6900,14 @@ Paragraph 2.  The  benefits  established  in  this  article  may  be  transferre
 
 Paragraph 3.  The concession of the benefit shall be done in accordance with the law to be proposed by the Executive Power within one hundred and fifty days of the promulgation of the Constitution.
 
-#### Article 55. Until such time as the law of budgetary directives is approved, at least thirty percent of the social welfare budget, excluding unemployment insurance, shall be allocated to the health sector.
+#### Article 55.
+Until such time as the law of budgetary directives is approved, at least thirty percent of the social welfare budget, excluding unemployment insurance, shall be allocated to the health sector.
 
-#### Article 56. Until such time as the law regulates article 195, I, the revenues resulting from at least five of the six tenths of one percent corresponding to the rate of the contribution referred to in Decree-Law number 1940 of May 25, 1982, as amended by Decree-Law number 2,049 of August 1, 1983, by Decree number 91,236 of May 8, 1985, and by Law number 7,611 of July 8, 1987, shall become part of the social welfare revenues, excepting, exclusively in the fiscal year of 1988, commitments assumed for ongoing programmes and projects.
+#### Article 56.
+Until such time as the law regulates article 195, I, the revenues resulting from at least five of the six tenths of one percent corresponding to the rate of the contribution referred to in Decree-Law number 1940 of May 25, 1982, as amended by Decree-Law number 2,049 of August 1, 1983, by Decree number 91,236 of May 8, 1985, and by Law number 7,611 of July 8, 1987, shall become part of the social welfare revenues, excepting, exclusively in the fiscal year of 1988, commitments assumed for ongoing programmes and projects.
 
-#### Article 57. The debts of the states and municipalities related to social security contributions up to June 30, 1988, shall be settled, with adjustment for inflation, in one hundred and twenty monthly installments, with the waiver of the interests and penalties applicable thereto, provided the debtors request installment payment and begin such payment within one hundred and eighty days of the promulgation of this Constitution.
+#### Article 57.
+The debts of the states and municipalities related to social security contributions up to June 30, 1988, shall be settled, with adjustment for inflation, in one hundred and twenty monthly installments, with the waiver of the interests and penalties applicable thereto, provided the debtors request installment payment and begin such payment within one hundred and eighty days of the promulgation of this Constitution.
 
 Paragraph 1.  The amount to be paid in each of the first two years shall not be less than five percent of the total consolidated and updated debt, the balance to be divided into equal monthly installments.
 
@@ -6735,7 +6917,8 @@ Paragraph 3.  As guarantee for the payment of the installments, the states and m
 
 Paragraph 4.  If any of the conditions established for the concession of installment payment are not met, the debt shall be considered as due and payable in full and liable for default interest; in such case, the portion of the funds corresponding to the Participation Funds intended for the debtor states and municipalities shall be blocked and transferred to the social security for payment of their debts.
 
-#### Article 58. Benefits paid on a continuous basis and maintained by social security on the date of the promulgation of the Constitution shall have their values reviewed so as to re-establish their purchasing power expressed in terms of the numbers of minimum wages they represented on the date on which they were granted, such updating criterion to be adopted until the plan of funding and benefits referred to in the following article is implemented.
+#### Article 58.
+Benefits paid on a continuous basis and maintained by social security on the date of the promulgation of the Constitution shall have their values reviewed so as to re-establish their purchasing power expressed in terms of the numbers of minimum wages they represented on the date on which they were granted, such updating criterion to be adopted until the plan of funding and benefits referred to in the following article is implemented.
 
 Sole paragraph. The monthly benefit payments updated in accordance with this article shall be due and paid as from the seventh month after the promulgation of the Constitution.
 
@@ -6747,11 +6930,13 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 175]]
 
-#### Article 59. The bills  of  law  for  the  organization  of  social  welfare  and  for  the plan of funding and benefits shall be submitted, not more than six months after the promulgation of the Constitution, to the National Congress, which shall have six months to examine them.
+#### Article 59.
+The bills  of  law  for  the  organization  of  social  welfare  and  for  the plan of funding and benefits shall be submitted, not more than six months after the promulgation of the Constitution, to the National Congress, which shall have six months to examine them.
 
 Sole paragraph. Upon approval by the National Congress, the plans shall be implemented progressively in the following eighteen months.
 
-#### Article  60. In  the  14  (fourteen)  years  following  the  promulgation  of  this Constitutional Amendment 13 , the States, the Federal District, and the Municipalities shall allocate a portion of the monies referred to in the head paragraph of article 212 of the Federal Constitution, to the maintenance and development of basic education and to the payment of appropriate salaries to education workers, with due regard for the following provisions: (CA No. 53, 2006)
+#### Article  60.
+In  the  14  (fourteen)  years  following  the  promulgation  of  this Constitutional Amendment 13 , the States, the Federal District, and the Municipalities shall allocate a portion of the monies referred to in the head paragraph of article 212 of the Federal Constitution, to the maintenance and development of basic education and to the payment of appropriate salaries to education workers, with due regard for the following provisions: (CA No. 53, 2006)
 
 I - the distribution of monies and responsibilities among the Federal District, the States, and their Municipalities is assured through the establishment, within each State and the Federal District, of a Fund for the Maintenance and Development of Basic Education and for the Appreciation of Education Professionals - FUNDEB, of a financial nature;
 
@@ -6857,25 +7042,34 @@ Temporary Constitutional Provisions Act
 
 [[START OF PAGE 178]]
 
-#### Article  61. The educational entities  referred  to  in  article  213,  as  well  as  the educational and research foundations whose creation has been authorized by law, which meet the requirements of items I and II of such article and which have, in the last three years, received public funds, may continue to receive such funds, unless otherwise established by law.
+#### Article  61.
+The educational entities  referred  to  in  article  213,  as  well  as  the educational and research foundations whose creation has been authorized by law, which meet the requirements of items I and II of such article and which have, in the last three years, received public funds, may continue to receive such funds, unless otherwise established by law.
 
-#### Article 62. The law shall create the National Rural  Apprenticeship Service (SENAR), based on the legislation for the National Industrial Apprenticeship Service (SENAI), and the National Commercial Apprenticeship Service (SENAC), without prejudice to the incumbencies of the government agencies engaged in the area.
+#### Article 62.
+The law shall create the National Rural  Apprenticeship Service (SENAR), based on the legislation for the National Industrial Apprenticeship Service (SENAI), and the National Commercial Apprenticeship Service (SENAC), without prejudice to the incumbencies of the government agencies engaged in the area.
 
-#### Article 63. A Committee composed of nine members is hereby created, three of them from the Legislative Power, three from the Judicial Power and three from the Executive Power, to promote the commemorations of the centennial of the proclamation of the Republic and of the promulgation of the first republican Constitution of the country, and such committee may, at its discretion, be subdivided into as many subcommittees as may be necessary.
+#### Article 63.
+A Committee composed of nine members is hereby created, three of them from the Legislative Power, three from the Judicial Power and three from the Executive Power, to promote the commemorations of the centennial of the proclamation of the Republic and of the promulgation of the first republican Constitution of the country, and such committee may, at its discretion, be subdivided into as many subcommittees as may be necessary.
 
 Sole paragraph. In the carrying out of its duties the Committee shall conduct studies,  debates  and  assessments  of  the  political,  social,  economic  and  cultural development of the country, and may join efforts with state and municipal governments and with public and private institutions desiring to take part in the events.
 
-#### Article 64. The National Press and other printing departments of the Union, the states, the Federal District and the municipalities, of the direct or indirect administration, including foundations instituted and maintained by the Government, shall provide for a popular edition of the full text of the Constitution, which shall be made available free of charge, to schools and public registry offices, to unions, military barracks, churches and other community organizations, in order that each Brazilian citizen may receive from the State a copy of the Brazilian Constitution.
+#### Article 64.
+The National Press and other printing departments of the Union, the states, the Federal District and the municipalities, of the direct or indirect administration, including foundations instituted and maintained by the Government, shall provide for a popular edition of the full text of the Constitution, which shall be made available free of charge, to schools and public registry offices, to unions, military barracks, churches and other community organizations, in order that each Brazilian citizen may receive from the State a copy of the Brazilian Constitution.
 
-#### Article 65. The Legislative Power shall, within twelve months, regulate the article 220, paragraph 4.
+#### Article 65.
+The Legislative Power shall, within twelve months, regulate the article 220, paragraph 4.
 
-#### Article 66. The public telecommunications utility concessions presently in force shall be maintained, as established by law.
+#### Article 66.
+The public telecommunications utility concessions presently in force shall be maintained, as established by law.
 
-#### Article 67. The Union shall conclude the demarcation of the Indian lands within five years of the promulgation of the Constitution.
+#### Article 67.
+The Union shall conclude the demarcation of the Indian lands within five years of the promulgation of the Constitution.
 
-#### Article 68. Final ownership shall be recognized for the remaining members of the ancient runaway slave communities who are occupying their lands and the State shall grant them the respective title deeds.
+#### Article 68.
+Final ownership shall be recognized for the remaining members of the ancient runaway slave communities who are occupying their lands and the State shall grant them the respective title deeds.
 
-#### Article  69. The states  shall  be  allowed  to  maintain  legal  consultancy  offices independent from their Attorney-General Offices or Advocacy-General Offices, provided that they have separate agencies for the respective functions on the date of the promulgation of this Constitution.
+#### Article  69.
+The states  shall  be  allowed  to  maintain  legal  consultancy  offices independent from their Attorney-General Offices or Advocacy-General Offices, provided that they have separate agencies for the respective functions on the date of the promulgation of this Constitution.
 
 184
 
@@ -6885,9 +7079,11 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 179]]
 
-#### Article 70. The present competence of the state courts shall be maintained until it is defined in the State Constitution, as established in article 125, paragraph 1, of the Constitution.
+#### Article 70.
+The present competence of the state courts shall be maintained until it is defined in the State Constitution, as established in article 125, paragraph 1, of the Constitution.
 
-#### Article 71. The Emergency Social Fund is hereby instituted for the fiscal years of 1994 and 1995, as well as for the periods from January 1, 1996 through June 30, 1997, and from July 1, 1997 through December 31, 1999, aiming at the financial recuperation of the Federal Public Finances and the economic stabilization, the resources of which shall be applied primarily to the actions of the health and education systems, including the supplementation of resources set forth in paragraph 3 of article 60 of the Temporary Constitutional Provisions Act, the welfare benefits and welfare assistance of a permanent nature, including the payment of welfare debts and budgetary expenditures associated to programs of great economic and social interest. (RCA No. 1, 1994; CA No. 10, 1996; CA No. 17, 1997)
+#### Article 71.
+The Emergency Social Fund is hereby instituted for the fiscal years of 1994 and 1995, as well as for the periods from January 1, 1996 through June 30, 1997, and from July 1, 1997 through December 31, 1999, aiming at the financial recuperation of the Federal Public Finances and the economic stabilization, the resources of which shall be applied primarily to the actions of the health and education systems, including the supplementation of resources set forth in paragraph 3 of article 60 of the Temporary Constitutional Provisions Act, the welfare benefits and welfare assistance of a permanent nature, including the payment of welfare debts and budgetary expenditures associated to programs of great economic and social interest. (RCA No. 1, 1994; CA No. 10, 1996; CA No. 17, 1997)
 
 Paragraph 1.  The provision of the final part of item II of paragraph 9 of article 165 of the Constitution shall not apply to the Fund established by this article.
 
@@ -6895,7 +7091,8 @@ Paragraph 2.  From the beginning of the 1996 fiscal year on, the Fund establishe
 
 Paragraph 3.  The Executive Power shall publish, on a bimonthly basis, a budget execution statement, which statement shall list the sources and applications of the Fund established by this article.
 
-#### Article 72. The Emergency Social Fund is comprised of: (RCA No. 1, 1994; CA No. 10, 1996; CA No. 17, 1997)
+#### Article 72.
+The Emergency Social Fund is comprised of: (RCA No. 1, 1994; CA No. 10, 1996; CA No. 17, 1997)
 
 I  -  the  proceeds from the collection of the tax on income and earnings of any nature to be levied at source on payments of any nature effected by the Union, including its autonomous government agencies and foundations;
 
@@ -6929,9 +7126,11 @@ Paragraph 4.  The provision of the former paragraph shall not apply to the resou
 
 Paragraph 5.  The part of the resources originating from the tax on income and earnings of any nature, designated for the Emergency Social Fund, as provided by item II of this article, shall not exceed five and six-tenths of one percent of the total proceeds from its collection.
 
-#### Article 73. In the regulation of the Emergency Social Fund, the instrument provided by item V of article 59 of the Constitution may not be applied. (RCA No. 1, 1994)
+#### Article 73.
+In the regulation of the Emergency Social Fund, the instrument provided by item V of article 59 of the Constitution may not be applied. (RCA No. 1, 1994)
 
-#### Article 74. The Union may establish provisional contribution on the movement or transmission of monies and of credits and rights of financial nature. (CA No. 12, 1996)
+#### Article 74.
+The Union may establish provisional contribution on the movement or transmission of monies and of credits and rights of financial nature. (CA No. 12, 1996)
 
 Paragraph 1.  The rate of the contribution mentioned in this article shall not exceed twenty-five hundredths of one percent, and the Executive Power may reduce it or reestablish it, in whole or in part, in the conditions and limits provided for by law.
 
@@ -6941,7 +7140,8 @@ Paragraph 3.  The whole of the proceeds from the collection of the contribution 
 
 Paragraph 4.  The liability for the contribution mentioned in this article shall be governed by the provisions of article 195, paragraph 6, of the Constitution, and it shall not be collected for longer than two years.
 
-#### Article 75. The collection of the provisional contribution on the movement or transmission of monies and of credits and rights of financial nature mentioned in article 74, established by Law no. 9,311, of October 24, 1996, is extended for thirty-six months, and the same extension applies to the effect of Law no. 9,539, of December 12, 1997, which modified Law no. 9,311. (CA No. 21, 1999)
+#### Article 75.
+The collection of the provisional contribution on the movement or transmission of monies and of credits and rights of financial nature mentioned in article 74, established by Law no. 9,311, of October 24, 1996, is extended for thirty-six months, and the same extension applies to the effect of Law no. 9,539, of December 12, 1997, which modified Law no. 9,311. (CA No. 21, 1999)
 
 > 17 Should read as 'Revision Constitutional Amendment no. 1/1994'.
 
@@ -6959,7 +7159,8 @@ Paragraph 2.  The proceeds from increased collection of the contribution, result
 
 Paragraph 3.  The Union is authorized to issue domestic public debt bonds, whose resources shall be allocated to the financing of health services and social security, in an amount equivalent to the proceeds of the collection of the contribution, estimated but not achieved in 1999.
 
-#### Article 76. Twenty percent of the proceeds from the collection by the Union of taxes, social contributions, and contributions for intervention in the economic domain, already instituted or that may be instituted by December 31, 2011, as well as their additional taxes and respective legal increases, shall not be earmarked to any agency, fund, or expense in the said period. (CA No. 27, 2000; CA No. 42, 2003; CA No. 56, 2007; CA No. 59, 2009)
+#### Article 76.
+Twenty percent of the proceeds from the collection by the Union of taxes, social contributions, and contributions for intervention in the economic domain, already instituted or that may be instituted by December 31, 2011, as well as their additional taxes and respective legal increases, shall not be earmarked to any agency, fund, or expense in the said period. (CA No. 27, 2000; CA No. 42, 2003; CA No. 56, 2007; CA No. 59, 2009)
 
 Paragraph 1.  The provision of the head paragraph of this article shall not reduce the assessment basis of the transfers to the States, the Federal District, and the Municipalities under the terms of articles 153, paragraph 5; 157, item I; 158, items I and II; and 159, item I, letters a and b ; and item II, of the Constitution, neither the assessment basis of the remittances mentioned in article 159, I, c , of the Constitution.
 
@@ -6967,7 +7168,8 @@ Paragraph 2.  The proceeds from the collection of the social contribution for ed
 
 Paragraph 3.  For purposes of calculating the funds for maintenance and development of education referred to in Article 212 of the Constitution, the percentage mentioned in the head paragraph of this article shall be 12.5% (twelve and five tenths percent) in fiscal year 2009, 5% (five percent) in fiscal year 2010, and zero in fiscal year 2011.
 
-#### Article 77. Until the financial year of 2004, the minimum amount of funds applied to health actions and public services shall be equivalent to: (CA No. 29, 2000)
+#### Article 77.
+Until the financial year of 2004, the minimum amount of funds applied to health actions and public services shall be equivalent to: (CA No. 29, 2000)
 
 I - in the case of the Union:
 
@@ -6995,7 +7197,8 @@ Paragraph 3.  The funds of the States, the Federal District, and the Municipalit
 
 Paragraph 4.  In the absence of the supplementary law referred to in article 198, paragraph 3, the provisions of this article shall apply to the Union, the States, the Federal District, and the Municipalities as of the financial year of 2005.
 
-#### Article 78. With the exception of credits defined by law as being of a small amount, credits for alimony, and credits stated in article 33 of this Temporary Constitutional Provisions Act and their supplementations, as well as those credits whose respective funds have already been released or paid into court, the court order debts for which payment is outstanding on the date of promulgation of this Amendment 18 and those deriving from actions commenced before or on December 31, 1999, shall be settled according to their real value, in legal tender, including legal interests, in equal and successive annual installments, within ten years at the most, the assignment of credits being permitted. (CA No. 30, 2000)
+#### Article 78.
+With the exception of credits defined by law as being of a small amount, credits for alimony, and credits stated in article 33 of this Temporary Constitutional Provisions Act and their supplementations, as well as those credits whose respective funds have already been released or paid into court, the court order debts for which payment is outstanding on the date of promulgation of this Amendment 18 and those deriving from actions commenced before or on December 31, 1999, shall be settled according to their real value, in legal tender, including legal interests, in equal and successive annual installments, within ten years at the most, the assignment of credits being permitted. (CA No. 30, 2000)
 
 Paragraph 1.  The division of installments is permitted, at the discretion of the creditor.
 
@@ -7015,11 +7218,13 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 183]]
 
-#### Article 79. The Fund to Fight and Eradicate Poverty, hereby instituted within the sphere of the Federal Executive Branch, shall be in force through the year 2010 and shall be regulated by a supplementary law, aiming at enabling all Brazilians to  have  access  to  adequate  subsistence  levels,  and  its  resources  shall  be  applied to  supplementary  initiatives  regarding  nutrition,  housing,  education,  health,  a complementary family income, and other programs of relevant social interest oriented towards the improvement of the quality of life. (CA No. 31, 2000)
+#### Article 79.
+The Fund to Fight and Eradicate Poverty, hereby instituted within the sphere of the Federal Executive Branch, shall be in force through the year 2010 and shall be regulated by a supplementary law, aiming at enabling all Brazilians to  have  access  to  adequate  subsistence  levels,  and  its  resources  shall  be  applied to  supplementary  initiatives  regarding  nutrition,  housing,  education,  health,  a complementary family income, and other programs of relevant social interest oriented towards the improvement of the quality of life. (CA No. 31, 2000)
 
 Sole paragraph. The Fund set forth in this article shall have an Advisory and Monitoring Board that must include representatives of civil society, under the terms of the law.
 
-#### Article 80. The Fund to Fight and Eradicate Poverty is comprised of: (CA No. 31, 2000)
+#### Article 80.
+The Fund to Fight and Eradicate Poverty is comprised of: (CA No. 31, 2000)
 
 I - the part of the proceeds from the collection corresponding to additional eight hundredths of one percent, applicable from June 18, 2000, through June 17, 2002, to the rate of the social contribution referred to in article 75 of the Temporary Constitutional Provisions Act;
 
@@ -7037,7 +7242,8 @@ Paragraph 1.  The provisions of articles 159 and 167, item IV, of the Constituti
 
 Paragraph 2.  The proceeds from the collection of the resources referred to in item I of this article,  during  the  period  from  June  18,  2000  through  the  date  the supplementary law mentioned in article 79 becomes effective, shall be remitted in full to the Fund, their real value being preserved, in federal government securities, progressively redeemable after June 18, 2002, under the terms of the law.
 
-#### Article 81. A Fund is hereby instituted, to be comprised of the resources received by the  Federal  Government as a result of divestiture  of  government-controlled corporations and public entreprises controlled either directly or indirectly by the Federal Government, when such operation involves the divestment of the respective controlling interest to an individual or entity not belonging to the government bodies, or of any remaining equity interest following such divestment, and the income thereof, generated as from June 18, 2002, shall be transferred to the Fund to Fight and Eradicate Poverty. (CA No. 31, 2000)
+#### Article 81.
+A Fund is hereby instituted, to be comprised of the resources received by the  Federal  Government as a result of divestiture  of  government-controlled corporations and public entreprises controlled either directly or indirectly by the Federal Government, when such operation involves the divestment of the respective controlling interest to an individual or entity not belonging to the government bodies, or of any remaining equity interest following such divestment, and the income thereof, generated as from June 18, 2002, shall be transferred to the Fund to Fight and Eradicate Poverty. (CA No. 31, 2000)
 
 Temporary Constitutional Provisions Act
 
@@ -7053,15 +7259,18 @@ Paragraph 2.  Without prejudice to the provision of paragraph 1, the Executive B
 
 Paragraph 3.  The resources that make up the Fund referred to in the head paragraph of this article, the transfer of said resources to the Fund to Fight and Eradicate Poverty, and the other provisions concerning paragraph 1 of this article shall be regulated by law, and the provision of article 165, paragraph 9, item II of the Constitution shall not be applicable.
 
-#### Article 82. The States, the Federal District, and the Municipalities shall institute Funds to Fight Poverty, comprised of the resources referred to in this article and other resources that may eventually be allocated for this purpose, and the said Funds shall be managed by entities which include the participation of civil society. (CA No. 31, 2000; CA No. 42, 2003)
+#### Article 82.
+The States, the Federal District, and the Municipalities shall institute Funds to Fight Poverty, comprised of the resources referred to in this article and other resources that may eventually be allocated for this purpose, and the said Funds shall be managed by entities which include the participation of civil society. (CA No. 31, 2000; CA No. 42, 2003)
 
 Paragraph 1.  With a view to financing the State Funds and the Federal District Fund, an additional tax of up to two percent may be created, to raise the rate of the State VAT [ICMS], due on luxury goods and services and observing the conditions defined in the supplementary law referred to in article 155, paragraph 2, XII, of the Constitution, and the provision of article 158, IV, of the Constitution shall not be applicable to such percentage.
 
 Paragraph 2.  With a view to financing the Municipal Funds, an additional tax of up to half of one percent may be created, to raise the rate of the local service tax [ISS], or the rate of the tax that may eventually replace it, levied on luxury services.
 
-#### Article 83. A federal law shall define the luxury goods and services referred to in articles 80, item II, and 82, paragraph 2. (CA No. 42, 2003)
+#### Article 83.
+A federal law shall define the luxury goods and services referred to in articles 80, item II, and 82, paragraph 2. (CA No. 42, 2003)
 
-#### Article 84. The provisional contribution on the movement or transmission of monies and of credits and rights of a financial nature, set forth in articles 74, 75, and 80, I, of this Temporary Constitutional Provisions Act, shall be collected through December 31, 2004. (CA No. 37, 2002; CA No. 42, 2003)
+#### Article 84.
+The provisional contribution on the movement or transmission of monies and of credits and rights of a financial nature, set forth in articles 74, 75, and 80, I, of this Temporary Constitutional Provisions Act, shall be collected through December 31, 2004. (CA No. 37, 2002; CA No. 42, 2003)
 
 Paragraph 1.  The effect of Law no. 9,311, of October 24, 1996, as well as of its alterations, is hereby extended through the date mentioned in the head paragraph of this article.
 
@@ -7087,7 +7296,8 @@ Paragraph 3.  The rate of the contribution mentioned in this article shall be eq
 
 II - (revoked).
 
-#### Article 85. The contribution mentioned in article 84 of this Temporary Constitutional Provisions Act shall not be levied, as from the thirtieth day after the publication of this Constitutional Amendment, on entries concerning: (CA No. 37, 2002)
+#### Article 85.
+The contribution mentioned in article 84 of this Temporary Constitutional Provisions Act shall not be levied, as from the thirtieth day after the publication of this Constitutional Amendment, on entries concerning: (CA No. 37, 2002)
 
 - I  -  current  deposit  accounts  especially  opened  and  exclusively  used  for transactions carried out by:
 
@@ -7111,7 +7321,8 @@ Paragraph 1.  The Executive Branch shall regulate the provisions of this article
 
 Paragraph 3.  The provisions of item II of this article apply only to transactions and contracts effected through financial institutions, securities brokerage houses, securities distribution companies, and commodities brokerage houses.
 
-#### Article 86. Debts that must be paid by the Federal, State, Federal District, or Municipal Tax Authorities by virtue of final and unappealable judicial decisions shall be paid in accordance with the provisions of article 100 of the Federal Constitution, the parceling rule established in the head paragraph of article 78 of this Temporary Constitutional Provisions Act not being applicable, if such debts meet the following cumulative conditions: (CA No. 37, 2002)
+#### Article 86.
+Debts that must be paid by the Federal, State, Federal District, or Municipal Tax Authorities by virtue of final and unappealable judicial decisions shall be paid in accordance with the provisions of article 100 of the Federal Constitution, the parceling rule established in the head paragraph of article 78 of this Temporary Constitutional Provisions Act not being applicable, if such debts meet the following cumulative conditions: (CA No. 37, 2002)
 
 > 19 Should read as 'Constitutional Amendment no. 37/2002'.
 
@@ -7135,7 +7346,8 @@ Temporary Constitutional Provisions Act
 
 Paragraph 3.  The payment of the alimony debts referred to in this article, with due respect for the chronological order of their presentation, shall take precedence over the payment of all other debts.
 
-#### Article 87. For purposes of the provisions set forth in paragraph 3 of article 100 of the Federal Constitution, and in article 78 of this Temporary Constitutional Provisions Act, and until such time as the official publication of the respective defining acts by the units of the Federation is effected, the debts or bonds stated in court orders shall be considered as being of a small amount, with due regard for paragraph 4 of article 100 of the Federal Constitution, if their amount is equal to or lesser than: (CA No. 37, 2002)
+#### Article 87.
+For purposes of the provisions set forth in paragraph 3 of article 100 of the Federal Constitution, and in article 78 of this Temporary Constitutional Provisions Act, and until such time as the official publication of the respective defining acts by the units of the Federation is effected, the debts or bonds stated in court orders shall be considered as being of a small amount, with due regard for paragraph 4 of article 100 of the Federal Constitution, if their amount is equal to or lesser than: (CA No. 37, 2002)
 
 - I  -  forty  minimum monthly wages, in the case of debts owed by the Tax Authorities of the States and of the Federal District;
 
@@ -7143,7 +7355,8 @@ Paragraph 3.  The payment of the alimony debts referred to in this article, with
 
 Sole paragraph. Should the amount under execution exceed the amount stipulated in this article, payment shall always be made by means of a court order, the execution creditor being entitled to waiving the credit of the excess amount, so that he may opt to receive the balance without the emission of a court order, in the manner set forth in paragraph 3 of article 100.
 
-#### Article 88. Until such time as a supplementary law regulates the provisions of items I and III of paragraph 3 of article 156 of the Federal Constitution, the tax referred to in item III of the head paragraph of said article shall: (CA No. 37, 2002)
+#### Article 88.
+Until such time as a supplementary law regulates the provisions of items I and III of paragraph 3 of article 156 of the Federal Constitution, the tax referred to in item III of the head paragraph of said article shall: (CA No. 37, 2002)
 
 - I - have a minimum rate of two percent, save for the services referred to in items 32, 33, and 34 of the List of Services appended to Decree-Law no. 406, of December 31, 1968;
 
@@ -7159,19 +7372,22 @@ Constitution of the Federative Republic of Brazil
 
 II - not be subject to the granting of fiscal exemptions, incentives, and benefits, should the direct or indirect result of such granting be the reduction of the minimum rate stipulated in item I.
 
-#### Article 89. The members of the uniformed police force and local administration employees of the former Federal Territory of Rondônia, who, in accordance with official documents, were regularly exercising their functions and rendering services to such former Territory at the time it was transformed into a State, as well as the employees and uniformed police officers covered by the provisions of article 36 of Supplementary Law no. 41, December 22, 1981, and those who were legally included in the Rondônia State Government personnel up until March 15, 1987, that is, the date the first elected governor took office, shall be included, at their option, in a special job class to be eventually terminated within the federal government services, being ensured of their specific rights and advantages, whereas the payment, under any circumstances, of remuneration differences shall be forbidden. (CA No. 38, 2002; CA No. 60, 2009)
+#### Article 89.
+The members of the uniformed police force and local administration employees of the former Federal Territory of Rondônia, who, in accordance with official documents, were regularly exercising their functions and rendering services to such former Territory at the time it was transformed into a State, as well as the employees and uniformed police officers covered by the provisions of article 36 of Supplementary Law no. 41, December 22, 1981, and those who were legally included in the Rondônia State Government personnel up until March 15, 1987, that is, the date the first elected governor took office, shall be included, at their option, in a special job class to be eventually terminated within the federal government services, being ensured of their specific rights and advantages, whereas the payment, under any circumstances, of remuneration differences shall be forbidden. (CA No. 38, 2002; CA No. 60, 2009)
 
 Paragraph 1.  The members of the uniformed police force shall continue rendering services to the State of Rondônia, in the quality of detailed personnel, subject to their respective uniformed police forces, with due regard for the compatibility between the duties of their function and their rank in the hierarchy.
 
 Paragraph 2.  The employees referred to in the head paragraph shall continue rendering services to the State of Rondônia, in the quality of detailed personnel, up until they are placed in a federal government entity, associate government agency, or foundation.
 
-#### Article 90. The time limit set forth in the head paragraph of article 84 of this Temporary Constitutional Provisions Act is hereby extended through December 31, 2007. (CA No. 42, 2003)
+#### Article 90.
+The time limit set forth in the head paragraph of article 84 of this Temporary Constitutional Provisions Act is hereby extended through December 31, 2007. (CA No. 42, 2003)
 
 Paragraph 1.  The effect of Law no. 9,311, of October 24, 1996, as well as of its alterations, is hereby extended through the date mentioned in the head paragraph of this article.
 
 Paragraph 2.  The rate of the contribution referred to in article 84 of this Temporary Constitutional Provisions Act shall be equal to thirty-eight hundredths per cent through the date referred to in the head paragraph of this article.
 
-#### Article 91. The Union shall remit to the States and to the Federal District the amount defined by a supplementary law, in accordance with the criteria, time limits, and terms therein determined, taking into consideration exports of primary commodities and semi-manufactured products to other countries, the import-export ratio, credits deriving from purchases intended for the permanent assets, and the effective maintenance and utilization of the tax credits referred to in article 155, paragraph 2, X, a . (CA No. 42, 2003)
+#### Article 91.
+The Union shall remit to the States and to the Federal District the amount defined by a supplementary law, in accordance with the criteria, time limits, and terms therein determined, taking into consideration exports of primary commodities and semi-manufactured products to other countries, the import-export ratio, credits deriving from purchases intended for the permanent assets, and the effective maintenance and utilization of the tax credits referred to in article 155, paragraph 2, X, a . (CA No. 42, 2003)
 
 Paragraph 1.  As to the amount of funds to be remitted to each State, seventy-five percent of such amount shall be assigned to the State itself, and twenty-five percent to its Municipalities, such percentage being distributed in accordance with the criteria referred to in article 158, sole paragraph, of the Constitution.
 
@@ -7189,17 +7405,23 @@ Paragraph 3.  Until such time as the supplementary law referred to in the head p
 
 Paragraph 4.  The States and the Federal District shall present to the Federal Government, under the terms of instructions  issued  by  the  Finance  Ministry, information regarding the tax referred to in article 155, II, supplied by the taxpayers who carry out transactions involving goods to be shipped abroad or services to be delivered to foreign parties.
 
-#### Article 92. A period of ten years shall be added to the period of time set forth in article 40 of this Temporary Constitutional Provisions Act. (CA No. 42, 2003)
+#### Article 92.
+A period of ten years shall be added to the period of time set forth in article 40 of this Temporary Constitutional Provisions Act. (CA No. 42, 2003)
 
-#### Article 93. The provisions of article 159, III, and paragraph 4 shall only come into force after the promulgation of the law referred to in said item III. (CA No. 42, 2003)
+#### Article 93.
+The provisions of article 159, III, and paragraph 4 shall only come into force after the promulgation of the law referred to in said item III. (CA No. 42, 2003)
 
-#### Article 94. The special tax regimes for micro and small businesses which are specific of the Union, the States, the Federal District, and the Municipalities shall be discontinued as from the date the regime set forth in article 146, III, d ,  of  the Constitution comes into force. (CA No. 42, 2003)
+#### Article 94.
+The special tax regimes for micro and small businesses which are specific of the Union, the States, the Federal District, and the Municipalities shall be discontinued as from the date the regime set forth in article 146, III, d ,  of  the Constitution comes into force. (CA No. 42, 2003)
 
-#### Article 95. Persons born abroad between June 7, 1994, and the date of enactment of this Constitutional Amendment 21 , to a Brazilian father or a Brazilian mother, may be registered with a Brazilian diplomatic or consular authority, or with an official registry if they come to reside in the Federative Republic of Brazil. (CA No. 54, 2007)
+#### Article 95.
+Persons born abroad between June 7, 1994, and the date of enactment of this Constitutional Amendment 21 , to a Brazilian father or a Brazilian mother, may be registered with a Brazilian diplomatic or consular authority, or with an official registry if they come to reside in the Federative Republic of Brazil. (CA No. 54, 2007)
 
-#### Article 96. Acts aimed at the establishment, fusion, merger, and dismemberment of municipalities, whose act of creation was published on or before December 31, 2006, are hereby confirmed, provided that the requirements set forth in the legislation of the respective state at the time of establishment of said municipalities have been fulfilled. (CA No. 57, 2008)
+#### Article 96.
+Acts aimed at the establishment, fusion, merger, and dismemberment of municipalities, whose act of creation was published on or before December 31, 2006, are hereby confirmed, provided that the requirements set forth in the legislation of the respective state at the time of establishment of said municipalities have been fulfilled. (CA No. 57, 2008)
 
-#### Article 97. Up until the supplementary law referred to in Paragraph 15 of Article 100 of the Federal Constitution is enacted, the States, the Federal District, and Municipalities which, on the date of enactment of Constitutional Amendment no. 62, have not yet effected payment of past due court-ordered debts regarding their respective direct and indirect administration, including court orders issued during the period the special regime instituted by this article is in force, shall effect such payments in accordance with the rules set forth in this article, whereas the provisions of Article 100 of this Federal Constitution shall not be applicable, save for its Paragraphs 2, 3, 9, 10, 11, 12, 13, and 14, and without prejudice to conciliation agreements already formalized by the date of publication of Constitutional Amendment no. 62. (CA No. 62, 2009)
+#### Article 97.
+Up until the supplementary law referred to in Paragraph 15 of Article 100 of the Federal Constitution is enacted, the States, the Federal District, and Municipalities which, on the date of enactment of Constitutional Amendment no. 62, have not yet effected payment of past due court-ordered debts regarding their respective direct and indirect administration, including court orders issued during the period the special regime instituted by this article is in force, shall effect such payments in accordance with the rules set forth in this article, whereas the provisions of Article 100 of this Federal Constitution shall not be applicable, save for its Paragraphs 2, 3, 9, 10, 11, 12, 13, and 14, and without prejudice to conciliation agreements already formalized by the date of publication of Constitutional Amendment no. 62. (CA No. 62, 2009)
 
 > 21 Should read as 'Constitutional Amendment no. 54/2007'.
 
@@ -7363,7 +7585,8 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 195]]
 
-Participants: Álvaro Dias - Antônio Britto - Bete Mendes - Borges da Silveira Cardoso Alves - Edivaldo Holanda - Expedito Júnior - Fadah Gattass - Francisco Dias - Geovah Amarante - Hélio Gueiros - Horácio Ferraz - Hugo Napoleão - Iturival Nascimento - Ivan Bonato - Jorge Medauar - José Mendonça de Morais Leopoldo Bessone - Marcelo Miranda - Mauro Fecury - Neuto de Conto - Nivaldo Machado - Oswaldo Lima Filho - Paulo Almada - Prisco Viana - Ralph Biasi Rosário Congro Neto - Sérgio Naya - Tidei de Lima.
+##### Participants:
+Álvaro Dias - Antônio Britto - Bete Mendes - Borges da Silveira Cardoso Alves - Edivaldo Holanda - Expedito Júnior - Fadah Gattass - Francisco Dias - Geovah Amarante - Hélio Gueiros - Horácio Ferraz - Hugo Napoleão - Iturival Nascimento - Ivan Bonato - Jorge Medauar - José Mendonça de Morais Leopoldo Bessone - Marcelo Miranda - Mauro Fecury - Neuto de Conto - Nivaldo Machado - Oswaldo Lima Filho - Paulo Almada - Prisco Viana - Ralph Biasi Rosário Congro Neto - Sérgio Naya - Tidei de Lima.
 
 Temporary Constitutional Provisions Act
 
@@ -7373,7 +7596,8 @@ Temporary Constitutional Provisions Act
 
 [[START OF PAGE 196]]
 
-In Memoriam: Alair  Ferreira  - Antônio  Farias  -  Fábio  Lucena  -  Norberto Schwantes - Virgílio Távora .
+##### In Memoriam:
+Alair  Ferreira  - Antônio  Farias  -  Fábio  Lucena  -  Norberto Schwantes - Virgílio Távora .
 
 Published in the Official Journal , October 5, 1988.
 
@@ -7397,7 +7621,8 @@ Provides for the remuneration of State Deputies and City Councilmen.
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60, of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Paragraph 2 of article 27 of the Constitution shall henceforth be in force with the following wording:
+#### Article 1.
+Paragraph 2 of article 27 of the Constitution shall henceforth be in force with the following wording:
 
 'Article 27
 
@@ -7409,7 +7634,8 @@ Paragraph 2.  The remuneration of the State Deputies shall be established in eac
 
 ................................................................................................ '
 
-#### Article 2. The following items VI and VII are added to article 29 of the Constitution, the subsequent ones being renumbered:
+#### Article 2.
+The following items VI and VII are added to article 29 of the Constitution, the subsequent ones being renumbered:
 
 'Article 29
 
@@ -7425,7 +7651,8 @@ VII - the total expenditure with the remuneration of the City Councilmen may not
 
 ................................................................................................ '
 
-#### Article 3. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 3.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, March 31, 1992.
 
@@ -7457,7 +7684,8 @@ Provides for the plebiscite set forth in article 2 of the Temporary Constitution
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60, of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Sole article. The plebiscite mentioned in article 2 of the Temporary Constitutional Provisions Act shall be held on April 21, 1993.
+#### Sole article.
+The plebiscite mentioned in article 2 of the Temporary Constitutional Provisions Act shall be held on April 21, 1993.
 
 - Paragraph 1.  The form and system of government defined by the plebiscite shall become effective on January 1, 1995.
 
@@ -7485,7 +7713,8 @@ Temporary Constitutional Provisions Act
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60, of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. The provisions of the Federal Constitution enumerated below shall henceforth be in force with the following alterations:
+#### Article 1.
+The provisions of the Federal Constitution enumerated below shall henceforth be in force with the following alterations:
 
 'Article 40.
 
@@ -7607,7 +7836,8 @@ IV - to  bind  tax  revenues  to  an  agency,  fund  or  expense, excepting the 
 
 Paragraph 4.  It is permitted to bind proper revenues generated by the taxes referred to in articles 155 and 156, and the funds mentioned in articles 157, 158 and 159, I, a and b , and II, to the granting of a guarantee or a counterguarantee to the Union, and to the payment of debits owed to the same.'
 
-#### Article 2. The Union may institute, under the terms of a supplementary law, effective until December 31, 1994, a tax on the transaction or transfer of securities and of credits and rights of a financial nature.
+#### Article 2.
+The Union may institute, under the terms of a supplementary law, effective until December 31, 1994, a tax on the transaction or transfer of securities and of credits and rights of a financial nature.
 
 - Paragraph 1.  The rate of the tax mentioned in the present article shall not exceed twenty-five hundredths percent, and the Executive Power may reduce it or re-establish it, in whole or in part, under the conditions and limits set forth in law.
 
@@ -7617,7 +7847,8 @@ Paragraph 4.  It is permitted to bind proper revenues generated by the taxes ref
 
 Paragraph 4.  (Revoked). 22
 
-#### Article 3. The elimination of the tax additional to income tax, within the competence of the states, deriving from the present Constitutional Amendment, shall only become effective as of January 1, 1996, the corresponding rate being reduced to at least two and a half percent in the fiscal year of 1995.
+#### Article 3.
+The elimination of the tax additional to income tax, within the competence of the states, deriving from the present Constitutional Amendment, shall only become effective as of January 1, 1996, the corresponding rate being reduced to at least two and a half percent in the fiscal year of 1995.
 
 > 22 Original  wording revoked by RCA no. 1/1994: 'Paragraph 4. Of the proceeds from the collection of the tax mentioned in the present article, twenty percent shall be assigned to the funding of low-income housing programs.'
 
@@ -7629,11 +7860,14 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 204]]
 
-#### Article 4. The elimination of the tax on the retail sales of liquid and gaseous fuels, within the competence of the municipalities, deriving from the present Constitutional Amendment, shall only become effective as of January 1, 1996, the corresponding rate being reduced to at least one and a half percent in the fiscal year of 1995.
+#### Article 4.
+The elimination of the tax on the retail sales of liquid and gaseous fuels, within the competence of the municipalities, deriving from the present Constitutional Amendment, shall only become effective as of January 1, 1996, the corresponding rate being reduced to at least one and a half percent in the fiscal year of 1995.
 
-#### Article  5. Until  December 31, 1999, the states,  the  Federal  District  and  the municipalities may only issue public debt bonds up to the amount necessary to refinance the principal, adequately updated, of its liabilities, represented by that type of bonds, with the exception of the provisions of article 33, sole paragraph, of the Temporary Constitutional Provisions Act.
+#### Article  5.
+Until  December 31, 1999, the states,  the  Federal  District  and  the municipalities may only issue public debt bonds up to the amount necessary to refinance the principal, adequately updated, of its liabilities, represented by that type of bonds, with the exception of the provisions of article 33, sole paragraph, of the Temporary Constitutional Provisions Act.
 
-#### Article 6. Item IV and paragraph 4 of article 156 of the Federal Constitution are hereby revoked.
+#### Article 6.
+Item IV and paragraph 4 of article 156 of the Federal Constitution are hereby revoked.
 
 Brasília, March 17, 1993.
 
@@ -7657,7 +7891,8 @@ Gives new wording to article 16 of the Federal Constitution.
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Sole article. Article 16 of the Federal Constitution shall henceforth be in force with the following wording:
+#### Sole article.
+Article 16 of the Federal Constitution shall henceforth be in force with the following wording:
 
 'Article 16. The law that alters the electoral procedure shall come into force on the date of its publication, and shall not apply to the elections that take place within one year of it being in force.'
 
@@ -7683,7 +7918,8 @@ Alters paragraph 2 of article 25 of the Federal Constitution.
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Sole article. Paragraph 2 of article 25 of the Federal Constitution shall henceforth be in force with the following wording:
+#### Sole article.
+Paragraph 2 of article 25 of the Federal Constitution shall henceforth be in force with the following wording:
 
 'The states shall have the power to operate, directly or by means of concession, the local services of piped gas, as provided for by law, it being forbidden to issue any provisional measure for its regulation.'
 
@@ -7709,7 +7945,8 @@ Alters  item  IX  of  article  170,  article  171,  and paragraph  1  of  articl
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Item IX of article 170 and paragraph 1 of article 176 of the Federal Constitution shall henceforth be in force with the following wording:
+#### Article 1.
+Item IX of article 170 and paragraph 1 of article 176 of the Federal Constitution shall henceforth be in force with the following wording:
 
 'Article 170.
 
@@ -7725,11 +7962,13 @@ IX - preferential treatment for small entreprises organized under Brazilian laws
 
 Paragraph 1.  The prospecting and mining of mineral resources and the utilization of the potentials mentioned in the head paragraph of this article may only take place with authorization or concession by the Union, in the national interest, by Brazilians or by a company organized under Brazilian laws and having its head-office and management in Brazil, in the manner set forth by law, which law shall establish specific conditions when such activities are to be conducted in the boundary zone or on Indian lands.'
 
-#### Article  2. The following article 246 shall be included in Title IX - 'General Constitutional Provisions':
+#### Article  2.
+The following article 246 shall be included in Title IX - 'General Constitutional Provisions':
 
 'Article 246. The adoption of any provisional measure for the regulation of any article of the Constitution the wording of which has been altered by means of an amendment enacted as of 1995 is forbidden.' 23
 
-#### Article 3. Article 171 of the Federal Constitution is hereby revoked.
+#### Article 3.
+Article 171 of the Federal Constitution is hereby revoked.
 
 Brasília, August 15, 1995.
 
@@ -7763,13 +8002,15 @@ Alters  article  178  of  the  Federal  Constitution and provides for  the  adop
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Article 178 of the Federal Constitution shall henceforth be in force with the following wording:
+#### Article 1.
+Article 178 of the Federal Constitution shall henceforth be in force with the following wording:
 
 'Article 178. The law shall provide for the regulation of air, water and ground transportation, and it shall, in respect to the regulation  of  international  transportation,  comply  with  the agreements entered into by the Union, with due regard to the principle of reciprocity.
 
 Sole paragraph. In  regulating  water  transportation,  the  law shall  set  forth  the  conditions  in  which  the  transportation  of goods in coastal and internal navigation will be permitted to foreign vessels.'
 
-#### Article  2. The following article 246 shall be included in Title IX - 'General Constitutional Provisions':
+#### Article  2.
+The following article 246 shall be included in Title IX - 'General Constitutional Provisions':
 
 'Article 246. The adoption of any provisional measure for the regulation of any article of the Constitution the wording of which has been altered by means of an amendment enacted as of 1995 is forbidden.' 24
 
@@ -7797,7 +8038,8 @@ Alters  item  XI  and  subitem  'a'  of  item  XII  of article 21 of the Federal
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Item XI and subitem a of item XII of article 21 of the Federal Constitution shall henceforth be in force with the following wording:
+#### Article 1.
+Item XI and subitem a of item XII of article 21 of the Federal Constitution shall henceforth be in force with the following wording:
 
 'Article 21. The Union shall have the power to:
 
@@ -7811,7 +8053,8 @@ a) the services of sound broadcasting and of sound and image broadcasting;
 
 ................................................................................................ '
 
-#### Article  2. The adoption of any Provisional Measure for the regulation of the matter set forth in item XI of article 21 with the wording given by this constitutional amendment is forbidden.
+#### Article  2.
+The adoption of any Provisional Measure for the regulation of the matter set forth in item XI of article 21 with the wording given by this constitutional amendment is forbidden.
 
 Brasília, August 15, 1995.
 
@@ -7835,7 +8078,8 @@ Gives new wording to article 177 of the Federal Constitution, altering and inser
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Paragraph 1 of article 177 of the Federal Constitution shall henceforth be in force with the following wording:
+#### Article 1.
+Paragraph 1 of article 177 of the Federal Constitution shall henceforth be in force with the following wording:
 
 'Article 177. ............................................................................
 
@@ -7843,7 +8087,8 @@ The Directing Boards of the Chamber of Deputies and of the Federal Senate, under
 
 Paragraph 1.  The Union may contract with state-owned or with private enterprises for the execution of the activities provided for in items I through IV of this article, with due regard for the conditions set forth by law.'
 
-#### Article 2. A paragraph shall be included, to be numbered as paragraph 2, with the following wording, the present paragraph 2 becoming paragraph 3, in article 177 of the Federal Constitution:
+#### Article 2.
+A paragraph shall be included, to be numbered as paragraph 2, with the following wording, the present paragraph 2 becoming paragraph 3, in article 177 of the Federal Constitution:
 
 'Article 177. ............................................................................
 
@@ -7857,7 +8102,8 @@ Paragraph 2.  The law referred to in paragraph 1 shall provide for:
 
 - III - the structure and duties of the regulatory agency of the monopoly of the Union.'
 
-#### Article 3. The issuing of any provisional measure for the regulation of the matter set forth in items I through IV and in paragraphs 1 and 2 of article 177 of the Federal Constitution is forbidden.
+#### Article 3.
+The issuing of any provisional measure for the regulation of the matter set forth in items I through IV and in paragraphs 1 and 2 of article 177 of the Federal Constitution is forbidden.
 
 Brasília, November 9, 1995.
 
@@ -7891,7 +8137,8 @@ Alters  articles  71  and  72  of  the  Temporary Constitutional Provisions Act,
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Article 71 of the Temporary Constitutional Provisions Act shall henceforth be in force with the following wording:
+#### Article 1.
+Article 71 of the Temporary Constitutional Provisions Act shall henceforth be in force with the following wording:
 
 'Article 71. The Emergency Social Fund is hereby instituted for the fiscal years of 1994 and 1995, as well as for the period from January 1, 1996 through June 30, 1997, aiming at the financial recuperation of the Federal Public Finances and the economic stabilization, the resources of which shall be applied primarily to the actions of the health and education systems, the welfare benefits and welfare assistance of permanent nature, including the payment of welfare debts and budgetary expenditures associated to programs of great economic and social interest.
 
@@ -7901,7 +8148,8 @@ Paragraph 2.  From  the  beginning  of  the  1996  fiscal  year on, the Fund est
 
 Paragraph 3.  The Executive Power shall publish, on a bimonthly basis, a budget execution statement, which statement shall list the  sources  and  applications  of  the  Fund  established  by  this article.'
 
-#### Article 2. Article 72 of the Temporary Constitutional Provisions Act shall henceforth be in force with the following wording:
+#### Article 2.
+Article 72 of the Temporary Constitutional Provisions Act shall henceforth be in force with the following wording:
 
 'Article 72. The Emergency Social Fund is comprised of:
 
@@ -7935,7 +8183,8 @@ Paragraph 4.  The provision of the former paragraph shall not apply to the resou
 
 Paragraph 5.  The part of the resources originating from the tax on income and earnings of any nature, designated for the Emergency Social Fund, as provided by item II of this article, shall not exceed five and six-tenths of one percent of the total proceeds from its collection.'
 
-#### Article 3. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 3.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Constitutional Amendments
 
@@ -7967,7 +8216,8 @@ Allows the hiring of foreign professors, technicians and scientists by the Brazi
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Two paragraphs are added to article 207 of the Federal Constitution, with the following wording:
+#### Article 1.
+Two paragraphs are added to article 207 of the Federal Constitution, with the following wording:
 
 'Article 207. ............................................................................
 
@@ -7979,7 +8229,8 @@ Paragraph 1.  The universities are permitted to hire foreign professors, technic
 
 Paragraph 2.  The provisions of this article apply to scientific and technological research institutions.'
 
-#### Article 2. This Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Amendment shall come into force on the date of its publication.
 
 Brasília, April 30, 1996.
 
@@ -8003,7 +8254,8 @@ Grants competency to the Union to establish: provisional  contribution  on  the 
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, promulgate, under the terms of paragraph 3 of article 60 of the Federal Constitution, the following Amendment to the constitutional text:
 
-#### Sole article. Article 74 is included in the Temporary Constitutional Provisions Act, with the following wording:
+#### Sole article.
+Article 74 is included in the Temporary Constitutional Provisions Act, with the following wording:
 
 'Article 74. The Union may establish provisional contribution on the movement or transmission of monies and of credits and rights of financial nature.
 
@@ -8037,7 +8289,8 @@ Gives new wording to item II of article 192 of the Federal Constitution.
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Sole article. Item II of article 192 of the Federal Constitution shall be in force with the following wording:
+#### Sole article.
+Item II of article 192 of the Federal Constitution shall be in force with the following wording:
 
 'Article 192. ............................................................................
 
@@ -8073,17 +8326,20 @@ Alters articles 34, 208, 211 and 212 of the Federal Constitution and gives new w
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Subitem e is added to item VII of article 34 of the Federal Constitution, with the following wording:
+#### Article 1.
+Subitem e is added to item VII of article 34 of the Federal Constitution, with the following wording:
 
 'e) the application of the mandatory minimum of the income resulting  from  state  taxes,  including  those  originating  from transfers, to the maintenance and development of education.'
 
-#### Article 2. New wording is given to items I and II of article 208 of the Federal Constitution, as follows:
+#### Article 2.
+New wording is given to items I and II of article 208 of the Federal Constitution, as follows:
 
 'I - mandatory and free elementary education, including the assurance of its free offer to all those who did not have access to it at the proper age;
 
 - II  -  progressive  universalization  of  the  free  high-school education;'
 
-#### Article 3. New wording is given to paragraphs 1 and 2 of article 211 of the Federal Constitution, and two additional paragraphs are inserted in this article, to read as follows:
+#### Article 3.
+New wording is given to paragraphs 1 and 2 of article 211 of the Federal Constitution, and two additional paragraphs are inserted in this article, to read as follows:
 
 'Article 211. . ............................................................................
 
@@ -8105,11 +8361,13 @@ Constitution of the Federative Republic of Brazil
 
 Paragraph 4.  In the organization of their educational systems, the States and Municipalities shall establish forms of cooperation, so  as  to  guarantee  the  universalization  of  the  mandatory education.'
 
-#### Article 4. New wording is given to paragraph 5 of article 212 of the Federal Constitution, as follows:
+#### Article 4.
+New wording is given to paragraph 5 of article 212 of the Federal Constitution, as follows:
 
 'Paragraph 5.  The public elementary education shall have, as an additional source of financing, the social contribution for education, collected from companies, as provided by law.'
 
-#### Article 5. Article  60  of  the Temporary Constitutional Provisions Act is hereby altered and new paragraphs are inserted into it, with the article having the following wording:
+#### Article 5.
+Article  60  of  the Temporary Constitutional Provisions Act is hereby altered and new paragraphs are inserted into it, with the article having the following wording:
 
 'Article  60. In  the  first  ten  years  after  the  promulgation of  this Amendment, the States, the Federal District and the Municipalities shall  allocate  no  less  than  60%  of  the  funds referred to in the head paragraph of article 212 of the Federal Constitution, to the maintenance and development of elementary education,  aiming  at  the  assurance  of  the  universalization of the service and the payment of appropriate salaries to the teachers.
 
@@ -8135,7 +8393,8 @@ Paragraph 6.  The Union shall apply never less than 30 percent of the resources 
 
 Paragraph 7.  The law shall provide for the organization of the Funds, the proportional distribution of its resources, its oversight and control, as well as for the way to calculate the national minimum value per student.'
 
-#### Article 6. This Amendment shall come into force on January 1 of the year subsequent to that of its promulgation.
+#### Article 6.
+This Amendment shall come into force on January 1 of the year subsequent to that of its promulgation.
 
 Brasília, September 12, 1996.
 
@@ -8159,7 +8418,8 @@ Gives new wording to paragraph 4 of article 18 of the Federal Constitution.
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Sole Article. Paragraph 4 of article 18 of the Federal Constitution shall henceforth be in force with the following wording:
+#### Sole Article.
+Paragraph 4 of article 18 of the Federal Constitution shall henceforth be in force with the following wording:
 
 'Article 18. ..............................................................................
 
@@ -8195,7 +8455,8 @@ Gives new wording to paragraph 5 of article 14, to the head paragraph of article
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Paragraph 5 of article 14, the head paragraph of article 28, item II of article 29, the head paragraph of article 77, and article 82 of the Federal Constitution shall henceforth be in force with the following wording:
+#### Article 1.
+Paragraph 5 of article 14, the head paragraph of article 28, item II of article 29, the head paragraph of article 77, and article 82 of the Federal Constitution shall henceforth be in force with the following wording:
 
 'Article 14. ..............................................................................
 
@@ -8233,7 +8494,8 @@ in the second round, as the case may be, of the year preceding the one in which 
 
 'Article 82. The term of office of the President of the Republic is four years, and it shall commence on January 1 of the year following the year of his election.'
 
-#### Article 2. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, June 4, 1997.
 
@@ -8257,15 +8519,18 @@ Alters  provisions  of  articles  71  and  72  of  the Temporary  Constitutional
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article  1. The head paragraph of article 71 of the Temporary Constitutional Provisions Act shall henceforth be in force with the following wording:
+#### Article  1.
+The head paragraph of article 71 of the Temporary Constitutional Provisions Act shall henceforth be in force with the following wording:
 
 'Article 71. The Emergency Social Fund is hereby instituted for the fiscal years of 1994 and 1995, as well as for the periods from January 1, 1996 through June 30, 1997, and from July 1,  1997 through December 31, 1999, aiming at the financial recuperation of the Federal Public Finances and the economic stabilization, the resources of which shall be applied primarily to the actions of the health and education systems, including the supplementation of resources set forth in paragraph 3 of article 60, of the Temporary Constitutional Provisions Act, the welfare benefits and welfare assistance of a permanent nature, including the  payment  of  welfare  debts  and  budgetary  expenditures associated to programs of great economic and social interest.'
 
-#### Article 2. Item V of article 72, of the Temporary Constitutional Provisions Act, shall henceforth be in force with the following wording:
+#### Article 2.
+Item V of article 72, of the Temporary Constitutional Provisions Act, shall henceforth be in force with the following wording:
 
 'V - the  part  of  the  proceeds  from  the  collection  of  the contribution  mentioned  in  Supplementary  Law  no.  7,  of September 7, 1970, owed by the juridical entities referred to in item III of this article, which will be calculated, in the fiscal years of 1994 and 1995, as well as in the periods from January 1, 1996 through June 30, 1997, and from July 1, 1997 through December 31,  1999,  through  the  employment of a rate of seventy-five hundredths of one percent, subject to modification by subsequent ordinary law, on the gross operating income, as defined in the legislation of income tax and earnings of any nature;'
 
-#### Article 3. The Union shall remit to the Municipalities, out of the proceeds from the collection of the Tax on Income and Earnings of Any Nature, as stipulated for the formation of the funds set forth in item I of article 159, of the Constitution, excluding the part mentioned in item I of article 72, of the Temporary Constitutional Provisions Act, the following percentages:
+#### Article 3.
+The Union shall remit to the Municipalities, out of the proceeds from the collection of the Tax on Income and Earnings of Any Nature, as stipulated for the formation of the funds set forth in item I of article 159, of the Constitution, excluding the part mentioned in item I of article 72, of the Temporary Constitutional Provisions Act, the following percentages:
 
 232
 
@@ -8283,13 +8548,16 @@ III - two and a half of one per cent, in the period from January 1, 1999 through
 
 Sole paragraph. The remittance of funds established in this article shall comply with the same periodic intervals and the same sharing criteria and rules adopted in the Revenue Sharing Fund of the Municipalities, with due regard for the provision of article 160 of the Constitution.
 
-#### Article 4. The effects of the provisions of articles 71 and 72 of the Temporary Constitutional Provisions Act, with the wording determined by articles 1 and 2 of this Amendment, shall be retroactive to July 1, 1997.
+#### Article 4.
+The effects of the provisions of articles 71 and 72 of the Temporary Constitutional Provisions Act, with the wording determined by articles 1 and 2 of this Amendment, shall be retroactive to July 1, 1997.
 
 Sole paragraph. The portions of funds assigned to the Fiscal Stabilization Fund and remitted according to article 159, item I, of the Constitution, in the period from July 1, 1997, to the date of promulgation of this Amendment, shall be deducted from the subsequent quotas, the deduction being limited to one tenth of the total amount remitted each month.
 
-#### Article 5. The Union shall apply the provisions of article 3 of this Amendment retroactively as of July 1, 1997, with due regard for the provisions of the previous article.
+#### Article 5.
+The Union shall apply the provisions of article 3 of this Amendment retroactively as of July 1, 1997, with due regard for the provisions of the previous article.
 
-#### Article 6. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 6.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, November 22, 1997.
 
@@ -8313,7 +8581,8 @@ Establishes  the  constitutional  rules  for  the military.
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Item XV of article 37 of the Federal Constitution shall henceforth be in force with the following wording:
+#### Article 1.
+Item XV of article 37 of the Federal Constitution shall henceforth be in force with the following wording:
 
 'Article 37. ..............................................................................
 
@@ -8323,7 +8592,8 @@ XV - the salaries of government employees may not be reduced, and their remunera
 
 ................................................................................................ '
 
-#### Article 2. Section II, of Chapter VII, of Title III of the Constitution shall henceforth be entitled 'Government Employees', and Section III, of Chapter VII, of Title III of the Federal Constitution shall henceforth be entitled 'The Military of the States, of the Federal District and of the Territories', and article 42 shall have the following wording:
+#### Article 2.
+Section II, of Chapter VII, of Title III of the Constitution shall henceforth be entitled 'Government Employees', and Section III, of Chapter VII, of Title III of the Federal Constitution shall henceforth be entitled 'The Military of the States, of the Federal District and of the Territories', and article 42 shall have the following wording:
 
 'Article 42. The members of the Military Police and of the Military Fire Brigades, institutions whose organization is based on hierarchy and discipline, are military of the States, of the Federal District and of the Territories.
 
@@ -8331,7 +8601,8 @@ XV - the salaries of government employees may not be reduced, and their remunera
 
 - Paragraph 2.  The provisions of article 40, paragraphs 4 and 5 apply to the military of the States, of the Federal District and of the Territories, and to their pensioners, and the provision of article  40,  paragraph 6 applies to the military of the Federal District and of the Territories.'
 
-#### Article 3. Item II of paragraph 1 of article 61 of the Constitution shall henceforth be in force with the following alterations:
+#### Article 3.
+Item II of paragraph 1 of article 61 of the Constitution shall henceforth be in force with the following alterations:
 
 'Article 61. ..............................................................................
 
@@ -8353,7 +8624,8 @@ c) government employees of the Union and Territories, their legal statute, appoi
 
 f) military of the Armed Forces, their legal statute, appointment to  offices,  promotions,  tenure,  remuneration,  retirement,  and transfer to the reserve.'
 
-#### Article  4. The  following  paragraph  3  shall  be  added  to  article  142  of  the Constitution:
+#### Article  4.
+The  following  paragraph  3  shall  be  added  to  article  142  of  the Constitution:
 
 'Article 142. ............................................................................
 
@@ -8389,7 +8661,8 @@ IX - the provisions of article 40, paragraphs 4, 5 and 6 apply to the military a
 
 X - the law shall provide for admission to the Armed Forces, age limits,  tenure,  and  other  conditions  for  a  military  to  be retired, the rights, duties, remuneration, prerogatives and other circumstances which are specific to the military, the special characteristics  of  their  activities  being  taken  into  account, including those carried out by virtue of international agreements and of war.'
 
-#### Article 5. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 5.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, February 5, 1998.
 
@@ -8413,7 +8686,8 @@ Alters the regime of and provides for the principles and rules of Government Ser
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Items XIV and XXII of article 21, and item XXVII of article 22 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Items XIV and XXII of article 21, and item XXVII of article 22 of the Federal Constitution shall henceforth read as follows:
 
 'Article 21. The Union shall have the power to:
 
@@ -8435,7 +8709,8 @@ XXVII - general rules for all types of bidding and contracting, for governmental
 
 ................................................................................................ '
 
-#### Article 2. Paragraph 2 of article 27, and items V and VI of article 29 of the Federal Constitution shall henceforth read as follows, with a paragraph 2 being inserted in article 28, and the current sole paragraph being renumbered as paragraph 1:
+#### Article 2.
+Paragraph 2 of article 27, and items V and VI of article 29 of the Federal Constitution shall henceforth read as follows, with a paragraph 2 being inserted in article 28, and the current sole paragraph being renumbered as paragraph 1:
 
 'Article 27. ..............................................................................
 
@@ -8471,7 +8746,8 @@ VI - compensation of Local Councilmen established by an act of the Town Council,
 
 ................................................................................................ '
 
-#### Article 3. The head paragraph, items I, II, V , VII, X, XI, XIII, XIV , XV , XVI, XVII, and XIX, and paragraph 3 of article 37 of the Federal Constitution shall henceforth read as follows, paragraphs 7 through 9 being added to the said article:
+#### Article 3.
+The head paragraph, items I, II, V , VII, X, XI, XIII, XIV , XV , XVI, XVII, and XIX, and paragraph 3 of article 37 of the Federal Constitution shall henceforth read as follows, paragraphs 7 through 9 being added to the said article:
 
 'Article 37. The governmental entities and entities owned by the Government in any of the powers of the Union, the states, the Federal District and the Municipalities shall obey the principles of lawfulness, impersonality, morality, publicity, and efficiency, and also the following:
 
@@ -8563,13 +8839,15 @@ III - the remuneration of the employees.
 
 Paragraph 9.  The provision of item XI applies to the public enterprises and to joint stock companies and their subsidiary companies which receive funds from the Union, the States, the Federal District, or the Municipalities for the payment of personnel expenditures or of general expenses.'
 
-#### Article  4. The head paragraph of article 38 of the Federal Constitution shall henceforth read as follows:
+#### Article  4.
+The head paragraph of article 38 of the Federal Constitution shall henceforth read as follows:
 
 'Article 38. The following provisions are applicable to public employees holding elective offices in a governmental entity, an associate government agency, and a foundation:
 
 ................................................................................................ '
 
-#### Article 5. Article 39 of the Federal Constitution shall henceforth read as follows:
+#### Article 5.
+Article 39 of the Federal Constitution shall henceforth read as follows:
 
 'Article 39. The Union, the States, the Federal District and the Municipalities shall institute a board of administration policy and personnel remuneration policy, composed of public employees appointed by the respective Branches.
 
@@ -8603,7 +8881,8 @@ Paragraph 7.  The legislation of the Union, the States, the Federal District,  a
 
 Paragraph 8.  The remuneration of public employees organized in a career may be established under the terms of paragraph 4.'
 
-#### Article 6. Article 41 of the Federal Constitution shall henceforth read as follows:
+#### Article 6.
+Article 41 of the Federal Constitution shall henceforth read as follows:
 
 'Article  41. Servants  who,  by  virtue  of  public  entrance examinations, are appointed to effective posts, acquire tenure after three years of actual service.
 
@@ -8629,7 +8908,8 @@ Paragraph 3.  If the office is declared extinct or unnecessary, a tenured public
 
 Paragraph 4.  As a requirement to acquire tenure, a special appraisal of performance by a committee created for this purpose is mandatory.'
 
-#### Article  7. Article  48  of  the  Federal  Constitution  shall  henceforth  include  the following item XV:
+#### Article  7.
+Article  48  of  the  Federal  Constitution  shall  henceforth  include  the following item XV:
 
 'Article 48. The National Congress shall have the power, with the sanction of the President of the Republic, which shall not be required for the matters specified in articles 49, 51 and 52, to provide for all the matters within the competence of the Union and especially on:
 
@@ -8637,7 +8917,8 @@ Paragraph 4.  As a requirement to acquire tenure, a special appraisal of perform
 
 XV - stipulation of the compensation for the Justices of the Supreme Federal Court, by means of a law introduced jointly by the Presidents of the Republic, the Chamber of Deputies, the Federal Senate, and the Supreme Federal Court, with due regard for articles 39, paragraph 4, 150, II, 153, III, and 153, paragraph 2, I.'
 
-#### Article 8. Items VII and VIII of article 49 of the Federal Constitution shall henceforth read as follows:
+#### Article 8.
+Items VII and VIII of article 49 of the Federal Constitution shall henceforth read as follows:
 
 'Article 49. It is exclusively the competence of the National Congress:
 
@@ -8649,7 +8930,8 @@ VIII - to establish the compensation of the President and the Vice-President of 
 
 ................................................................................................ '
 
-#### Article 9. Item IV of article 51 of the Federal Constitution shall henceforth read as follows:
+#### Article 9.
+Item IV of article 51 of the Federal Constitution shall henceforth read as follows:
 
 'Article 51. It is exclusively the competence of the Chamber of Deputies:
 
@@ -8667,7 +8949,8 @@ IV - to provide for its organization, functioning, police, creation, change or a
 
 ................................................................................................ '
 
-#### Article 10. Item XIII of article 52 of the Federal Constitution shall henceforth read as follows:
+#### Article 10.
+Item XIII of article 52 of the Federal Constitution shall henceforth read as follows:
 
 'Article  52.  It  is  exclusively  the  competence  of  the  Federal Senate:
 
@@ -8677,19 +8960,22 @@ XIII - to provide for its organization, functioning, police, creation, change or
 
 ................................................................................................ '
 
-#### Article 11. Paragraph 7 of article 57 of the Federal Constitution shall henceforth read as follows:
+#### Article 11.
+Paragraph 7 of article 57 of the Federal Constitution shall henceforth read as follows:
 
 'Article 57. ..............................................................................
 
 Paragraph 7.  In  a  special  legislative  session,  the  National Congress shall deliberate only upon the matter for which it was called, the payment of a compensatory amount in excess of the monthly compensation being forbidden.'
 
-#### Article  12. The sole paragraph of article 70 of the Federal Constitution shall henceforth read as follows:
+#### Article  12.
+The sole paragraph of article 70 of the Federal Constitution shall henceforth read as follows:
 
 'Article 70. ..............................................................................
 
 Sole paragraph. Accounts shall be rendered by any individual or corporation, public or private, which uses, collects, keeps, manages, or administers public monies, assets or values, or those for which the Union is responsible or which, on behalf of the Union, assumes obligations of a pecuniary nature.'
 
-#### Article 13. Item V of article 93, item III of article 95, and subitem b of item II of article 96, of the Federal Constitution, shall henceforth read as follows:
+#### Article 13.
+Item V of article 93, item III of article 95, and subitem b of item II of article 96, of the Federal Constitution, shall henceforth read as follows:
 
 'Article 93. ..............................................................................
 
@@ -8729,7 +9015,8 @@ b) creation and abolishment of offices and the remuneration of the auxiliary ser
 
 ................................................................................................ '
 
-#### Article 14. Paragraph 2 of article 127 of the Federal Constitution shall henceforth read as follows:
+#### Article 14.
+Paragraph 2 of article 127 of the Federal Constitution shall henceforth read as follows:
 
 'Article 127. ............................................................................
 
@@ -8747,7 +9034,8 @@ Constitutional Amendments
 
 [[START OF PAGE 239]]
 
-#### Article 15. Subitem c of  item  I,  of  paragraph  5  of  article  128,  of  the  Federal Constitution, shall henceforth read as follows:
+#### Article 15.
+Subitem c of  item  I,  of  paragraph  5  of  article  128,  of  the  Federal Constitution, shall henceforth read as follows:
 
 'Article 128. ............................................................................
 
@@ -8761,19 +9049,23 @@ c) irreducibility of compensation, stipulated according to article 39, paragraph
 
 ................................................................................................ '
 
-#### Article 16. Section II of Chapter IV of Title IV of the Federal Constitution shall henceforth be entitled 'The Public Advocacy'.
+#### Article 16.
+Section II of Chapter IV of Title IV of the Federal Constitution shall henceforth be entitled 'The Public Advocacy'.
 
-#### Article  17. Article  132  of  the  Federal  Constitution  shall  henceforth  read  as follows:
+#### Article  17.
+Article  132  of  the  Federal  Constitution  shall  henceforth  read  as follows:
 
 'Article 132. The Prosecutors of the states and of the Federal District,  organized  in  a  career,  admission  into  which  shall depend on a civil service entrance examination of tests and presentation of academic and professional credentials, with the participation of the Brazilian Bar Association in all of its stages, shall exercise judicial representation and judicial consultation for their respective federated units.
 
 Sole paragraph. The Prosecutors referred to in this article are entitled to acquire tenure after three years of effective exercise, by means of a performance appraisal carried out by the relevant agencies, following a detailed report issued by the corregidors.'
 
-#### Article  18. Article  135  of  the  Federal  Constitution  shall  henceforth  read  as follows:
+#### Article  18.
+Article  135  of  the  Federal  Constitution  shall  henceforth  read  as follows:
 
 'Article 135. Servants in the careers regulated in Sections II and III of this Chapter shall be remunerated according to article 39, paragraph 4.'
 
-#### Article 19. Paragraph 1 and its item III, and paragraphs 2 and 3 of article 144 of the Federal Constitution shall henceforth read as follows, a paragraph 9 being inserted in such article:
+#### Article 19.
+Paragraph 1 and its item III, and paragraphs 2 and 3 of article 144 of the Federal Constitution shall henceforth read as follows, a paragraph 9 being inserted in such article:
 
 'Article 144. ............................................................................
 
@@ -8801,7 +9093,8 @@ Paragraph 3.  The federal railway police are a permanent body organized and main
 
 Paragraph 9.  The  remuneration  of  the  policemen  who  are members of the agencies mentioned in this article shall be stipulated according to paragraph 4 of article 39.'
 
-#### Article 20. The head paragraph of article 167 of the Federal Constitution shall henceforth be in force with the addition of item X, which reads as follows:
+#### Article 20.
+The head paragraph of article 167 of the Federal Constitution shall henceforth be in force with the addition of item X, which reads as follows:
 
 'Article 167. The following are forbidden:
 
@@ -8811,7 +9104,8 @@ X - to transfer funds voluntarily and to grant loans, including by means of adva
 
 ................................................................................................ '
 
-#### Article 21. Article 169 of the Federal Constitution shall henceforth read as follows:
+#### Article 21.
+Article 169 of the Federal Constitution shall henceforth read as follows:
 
 'Article 169. Expenditures with active and retired personnel of the Union, the states, the Federal District and the municipalities may not exceed the limits established in a supplementary law.
 
@@ -8845,7 +9139,8 @@ I - reduction of at least twenty percent of the expenditures with commission off
 
 - Paragraph 7.  A federal act shall provide for the general rules to be complied with in carrying out the provision of paragraph 4.'
 
-#### Article 22. Paragraph 1 of article 173 of the Federal Constitution shall henceforth read as follows:
+#### Article 22.
+Paragraph 1 of article 173 of the Federal Constitution shall henceforth read as follows:
 
 'Article 173. ............................................................................
 
@@ -8873,7 +9168,8 @@ V - the terms of office, the performance appraisals, and the liability of admini
 
 ................................................................................................ '
 
-#### Article 23. Item V of article 206 of the Federal Constitution shall henceforth read as follows:
+#### Article 23.
+Item V of article 206 of the Federal Constitution shall henceforth read as follows:
 
 'Article 206. Education shall be provided on the basis of the following principles:
 
@@ -8883,13 +9179,16 @@ V - appreciation  of  the  value  of  teaching  professionals, guaranteeing, in 
 
 ................................................................................................ '
 
-#### Article  24. Article  241  of  the  Federal  Constitution  shall  henceforth  read  as follows:
+#### Article  24.
+Article  241  of  the  Federal  Constitution  shall  henceforth  read  as follows:
 
 'Article  241. The Union, the States, the Federal District, and the Municipalities shall issue legislation to regulate public syndicates and cooperation agreements between members of the Federation, authorizing the joint management of public services, as well as the transfer, in whole or in part, of charges, services, personnel, and goods essential to the continued rendering of the services transferred.'
 
-#### Article 25. It is incumbent upon the Union to honor the current financial commitments with the rendering of public services in the Federal District until such time as the fund referred to in item XIV of article 21 of the Federal Constitution is established.
+#### Article 25.
+It is incumbent upon the Union to honor the current financial commitments with the rendering of public services in the Federal District until such time as the fund referred to in item XIV of article 21 of the Federal Constitution is established.
 
-#### Article 26. Within two years of the promulgation of this Amendment, the entities owned by the Government shall have their by-laws revised regarding their respective legal nature, taking into account the purpose and the actual duties carried out.
+#### Article 26.
+Within two years of the promulgation of this Amendment, the entities owned by the Government shall have their by-laws revised regarding their respective legal nature, taking into account the purpose and the actual duties carried out.
 
 Constitutional Amendments
 
@@ -8899,21 +9198,27 @@ Constitutional Amendments
 
 [[START OF PAGE 243]]
 
-#### Article 27. The National Congress, within one hundred and twenty days of the promulgation of this Amendment, shall draft legislation for the protection of public service users.
+#### Article 27.
+The National Congress, within one hundred and twenty days of the promulgation of this Amendment, shall draft legislation for the protection of public service users.
 
-#### Article 28. The current public employees on probation are ensured of the period of two years of effective exercise to acquire tenure, without prejudice to the assessment referred to in paragraph 4 of article 41 of the Federal Constitution.
+#### Article 28.
+The current public employees on probation are ensured of the period of two years of effective exercise to acquire tenure, without prejudice to the assessment referred to in paragraph 4 of article 41 of the Federal Constitution.
 
-#### Article 29. As of the promulgation of this Amendment, the compensation, salaries, remuneration, retirement pay, pensions, and any other types of remuneration shall comply with the limits arising from the Federal Constitution, receipt of excess being forbidden under any circumstances.
+#### Article 29.
+As of the promulgation of this Amendment, the compensation, salaries, remuneration, retirement pay, pensions, and any other types of remuneration shall comply with the limits arising from the Federal Constitution, receipt of excess being forbidden under any circumstances.
 
-#### Article 30. The bill of supplementary law mentioned in article 163 of the Federal Constitution shall be submitted by the Executive Branch to the National Congress within one hundred and eighty days, at most, of the promulgation of this Amendment.
+#### Article 30.
+The bill of supplementary law mentioned in article 163 of the Federal Constitution shall be submitted by the Executive Branch to the National Congress within one hundred and eighty days, at most, of the promulgation of this Amendment.
 
-#### Article 31. The public employees of federal governmental entities and of entities owned by the Federal Government, the local administration employees, and the members of the uniformed police force of the former Federal Territories of Amapá and Roraima, who, subject to the presentation of proof, were regularly exercising their functions and rendering services to those former Territories at the time they were transformed into States; the uniformed policemen who were appointed by virtue of a federal law, and paid by the Union; furthermore, the civil servants in these States whose employment status has already been acknowledged by the Union shall be included in a special job class to be terminated within the federal government services, being ensured of their specific rights and advantages, and the payment of remuneration differences, under any circumstances, being forbidden.
+#### Article 31.
+The public employees of federal governmental entities and of entities owned by the Federal Government, the local administration employees, and the members of the uniformed police force of the former Federal Territories of Amapá and Roraima, who, subject to the presentation of proof, were regularly exercising their functions and rendering services to those former Territories at the time they were transformed into States; the uniformed policemen who were appointed by virtue of a federal law, and paid by the Union; furthermore, the civil servants in these States whose employment status has already been acknowledged by the Union shall be included in a special job class to be terminated within the federal government services, being ensured of their specific rights and advantages, and the payment of remuneration differences, under any circumstances, being forbidden.
 
 Paragraph 1.  The members of the uniformed police force shall go on rendering services to their respective States, in the quality of detailed personnel, subject to the legal and regulatory provisions which govern the corps of their respective uniformed police forces, with due regard for the compatibility between the duties of their function and their rank in the hierarchy.
 
 Paragraph 2.  The civil servants shall go on rendering services to their respective States,  in  the  quality  of  detailed  personnel,  until  they  are  placed  in  a  federal governmental agency.
 
-#### Article 32. The Federal Constitution shall henceforth include the following article:
+#### Article 32.
+The Federal Constitution shall henceforth include the following article:
 
 'Article 247. The laws provided for in item III of paragraph 1 of article 41, and in paragraph 7 of article 169, shall establish special criteria and guarantees for the loss of office of a tenured public employee who, by virtue of the duties of his effective post, performs exclusive activities of State.
 
@@ -8927,9 +9232,11 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 244]]
 
-#### Article  33. For  the  purposes  of  article  169,  paragraph  3,  II,  of  the  Federal Constitution, untenured servants are those who were admitted into a governmental entity, an associate government agency, or a foundation, without having taken an entrance examination consisting of tests, or tests and presentation of academic and professional credentials, after the 5th of October, 1983.
+#### Article  33.
+For  the  purposes  of  article  169,  paragraph  3,  II,  of  the  Federal Constitution, untenured servants are those who were admitted into a governmental entity, an associate government agency, or a foundation, without having taken an entrance examination consisting of tests, or tests and presentation of academic and professional credentials, after the 5th of October, 1983.
 
-#### Article 34. This Constitutional Amendment shall come into force on the date of its promulgation.
+#### Article 34.
+This Constitutional Amendment shall come into force on the date of its promulgation.
 
 Brasília, June 4, 1998.
 
@@ -8953,7 +9260,8 @@ Alters  the  social  security  system,  establishes rules for the transitional p
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. The Federal Constitution shall henceforth be in force with the following alterations:
+#### Article 1.
+The Federal Constitution shall henceforth be in force with the following alterations:
 
 'Article 7. ................................................................................
 
@@ -9209,7 +9517,8 @@ Paragraph 5.  The supplementary law referred to in the preceding paragraph shall
 
 Paragraph 6.  The supplementary law referred to in paragraph 4 of this article shall establish the requirements for the appointment of board members of the closed private pension plan companies, and shall regulate the inclusion of participants in the collegiate bodies and decision-making bodies in which their interests are subject to discussion and decision.'
 
-#### Article 2. The following articles are added to the General Constitutional Provisions of the Federal Constitution:
+#### Article 2.
+The following articles are added to the General Constitutional Provisions of the Federal Constitution:
 
 'Article  248. The benefits  paid,  under  any  auspices,  by  the agency in charge of the general social security scheme, even if they are financed by the National Treasury, and those benefits not  subject  to  the  maximum  amount  stipulated  for  benefits granted by such scheme shall comply with the limits set forth in article 37, XI.
 
@@ -9225,7 +9534,8 @@ Article 249. For the purpose of securing monies for the payment of  retirement  
 
 Article 250. For the purpose of securing monies for the payment of benefits granted by the general social security scheme, in addition to the monies arising from taxation, the Union may establish a fund made up of property, rights, and assets of any kind, by means of a law that shall provide for the nature and the management of such a fund.'
 
-#### Article 3. The granting of retirement pensions and other pensions is ensured, at any time, to public employees and to participants in the general social security scheme, as well as to their dependents, who, by the date of publication of this Amendment, have complied with the requirements to be entitled to such benefits, in accordance with the criteria of the legislation in effect at that time.
+#### Article 3.
+The granting of retirement pensions and other pensions is ensured, at any time, to public employees and to participants in the general social security scheme, as well as to their dependents, who, by the date of publication of this Amendment, have complied with the requirements to be entitled to such benefits, in accordance with the criteria of the legislation in effect at that time.
 
 Paragraph 1.  The public employee referred to in this article, who has met the requirements for retirement with full pay and who chooses to remain in active service, shall be entitled to exemption from social security contribution until he meets the requirements for retirement set forth in article 40, paragraph 1, III, a ,  of the Federal Constitution.
 
@@ -9233,9 +9543,11 @@ Paragraph 2.  The retirement pay to be granted to the public employees referred 
 
 Paragraph 3.  All rights and guarantees ensured by constitutional provisions in effect at the date of publication of this Amendment, to civil servants and military, retirees and pensioners, amnestied persons and war veterans, as well as to those who, by such date, have met the requirements to be entitled to such rights, with due regard for the provision of article 37, XI, of the Federal Constitution, shall be maintained.
 
-#### Article 4. With due regard for article 40, paragraph 10, of the Federal Constitution, the period of service taken into account by the current legislation for the purpose of retirement, and completed by the time the law regulates the matter, shall be computed as a period of contribution.
+#### Article 4.
+With due regard for article 40, paragraph 10, of the Federal Constitution, the period of service taken into account by the current legislation for the purpose of retirement, and completed by the time the law regulates the matter, shall be computed as a period of contribution.
 
-#### Article 5. The provision of article 202, paragraph 3, of the Federal Constitution, regarding the requirement of parity between the contribution of the sponsor and that of the insured, shall come into force two years as from the publication of this Amendment, or on the date of publication of the supplementary law mentioned in paragraph 4 of the same article, if such publication takes place first.
+#### Article 5.
+The provision of article 202, paragraph 3, of the Federal Constitution, regarding the requirement of parity between the contribution of the sponsor and that of the insured, shall come into force two years as from the publication of this Amendment, or on the date of publication of the supplementary law mentioned in paragraph 4 of the same article, if such publication takes place first.
 
 260
 
@@ -9245,13 +9557,17 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 254]]
 
-#### Article 6. The closed private pension plan companies sponsored by public entities, including public enterprises and joint stock companies, must review, two years as from the publication of this  Amendment, their benefit and service plans, so as to adjust them to their assets in terms of actuarial calculations, otherwise subject to intervention, and their managers as well as those of their respective sponsors shall bear civil and criminal liability for non-compliance with the provision of this article.
+#### Article 6.
+The closed private pension plan companies sponsored by public entities, including public enterprises and joint stock companies, must review, two years as from the publication of this  Amendment, their benefit and service plans, so as to adjust them to their assets in terms of actuarial calculations, otherwise subject to intervention, and their managers as well as those of their respective sponsors shall bear civil and criminal liability for non-compliance with the provision of this article.
 
-#### Article 7. The bills of supplementary laws stated in article 202 of the Federal Constitution shall be presented to the National Congress within ninety days as from the publication of this Amendment.
+#### Article 7.
+The bills of supplementary laws stated in article 202 of the Federal Constitution shall be presented to the National Congress within ninety days as from the publication of this Amendment.
 
-#### Article 8. (Revoked). (CA No. 41, 2003)
+#### Article 8.
+(Revoked). (CA No. 41, 2003)
 
-#### Article 9. With due regard for the provision of article 4 of this Amendment, and excepting the right to opt for retirement under the terms established by this Amendment for the general social security scheme, the right to retirement is ensured to participants who join the general social security scheme, before the date of publication of this Amendment, when they meet the following cumulative conditions:
+#### Article 9.
+With due regard for the provision of article 4 of this Amendment, and excepting the right to opt for retirement under the terms established by this Amendment for the general social security scheme, the right to retirement is ensured to participants who join the general social security scheme, before the date of publication of this Amendment, when they meet the following cumulative conditions:
 
 - I - fifty-three years of age, if a man, and forty-eight, if a woman;
 
@@ -9281,21 +9597,29 @@ Constitutional Amendments
 
 [[START OF PAGE 255]]
 
-#### Article 10. The complementary social security scheme referred to in article 40, paragraphs 14, 15, and 16, of the Federal Constitution, may only be instituted after the publication of the supplementary law set forth in paragraph 15 of the same article.
+#### Article 10.
+The complementary social security scheme referred to in article 40, paragraphs 14, 15, and 16, of the Federal Constitution, may only be instituted after the publication of the supplementary law set forth in paragraph 15 of the same article.
 
-#### Article 11. The prohibition set forth in article 37, paragraph 10, of the Federal Constitution, is not applicable to members of government branches and to retired employees, both civil and military, who, until the publication of this  Amendment, have reentered public administration by means of a public sector competitive examination consisting of tests, or of tests and presentation of academic and professional credentials, and by other means set forth in the Federal Constitution, and they are forbidden to receive more than one retirement pay under the social security scheme referred to in article 40 of the Federal Constitution, the limitation mentioned in paragraph 11 of the same article being applicable to them under any circumstances.
+#### Article 11.
+The prohibition set forth in article 37, paragraph 10, of the Federal Constitution, is not applicable to members of government branches and to retired employees, both civil and military, who, until the publication of this  Amendment, have reentered public administration by means of a public sector competitive examination consisting of tests, or of tests and presentation of academic and professional credentials, and by other means set forth in the Federal Constitution, and they are forbidden to receive more than one retirement pay under the social security scheme referred to in article 40 of the Federal Constitution, the limitation mentioned in paragraph 11 of the same article being applicable to them under any circumstances.
 
-#### Article 12. Until such time as the laws providing for the contributions set forth in article 195 of the Federal Constitution come into force, the contributions established by law to fund social welfare and the various social security schemes shall be collected.
+#### Article 12.
+Until such time as the laws providing for the contributions set forth in article 195 of the Federal Constitution come into force, the contributions established by law to fund social welfare and the various social security schemes shall be collected.
 
-#### Article 13. Until such time as the law regulates the access to family allowance and to confinement allowance for employees, participants, and their dependents, such benefits shall be granted only to those who earn a monthly gross income equal to or lower than R$ 360.00 (three hundred and sixty reais), which, until the publication of the law, shall be adjusted according to the same indices applicable to the benefits of the general social security scheme.
+#### Article 13.
+Until such time as the law regulates the access to family allowance and to confinement allowance for employees, participants, and their dependents, such benefits shall be granted only to those who earn a monthly gross income equal to or lower than R$ 360.00 (three hundred and sixty reais), which, until the publication of the law, shall be adjusted according to the same indices applicable to the benefits of the general social security scheme.
 
-#### Article 14. The maximum limit for the amount of benefits of the general social security scheme referred to in article 201 of the Federal Constitution is defined as R$ 1,200.00 (one thousand and two hundred reais), and it shall be adjusted, as from the date of publication of this Amendment, to the end that its real value is permanently maintained, updated according to the same indices applicable to the benefits of the general social security scheme.
+#### Article 14.
+The maximum limit for the amount of benefits of the general social security scheme referred to in article 201 of the Federal Constitution is defined as R$ 1,200.00 (one thousand and two hundred reais), and it shall be adjusted, as from the date of publication of this Amendment, to the end that its real value is permanently maintained, updated according to the same indices applicable to the benefits of the general social security scheme.
 
-#### Article 15. Until such time as the supplementary law referred to in article 201, paragraph 1, of the Federal Constitution, is published, the provisions of articles 57 and 58 of Law no. 8,213, of July 24, 1991, remain effective, with the wording in force at the date of publication of this Amendment.
+#### Article 15.
+Until such time as the supplementary law referred to in article 201, paragraph 1, of the Federal Constitution, is published, the provisions of articles 57 and 58 of Law no. 8,213, of July 24, 1991, remain effective, with the wording in force at the date of publication of this Amendment.
 
-#### Article 16. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 16.
+This Constitutional Amendment shall come into force on the date of its publication.
 
-#### Article 17. Item II of paragraph 2 of article 153 of the Federal Constitution is hereby revoked.
+#### Article 17.
+Item II of paragraph 2 of article 153 of the Federal Constitution is hereby revoked.
 
 Brasília, December 15, 1998.
 
@@ -9327,7 +9651,8 @@ Extends  the  provisional  contribution  on  the movement or transmission of mon
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Article 75 is included in the Temporary Constitutional Provisions Act, with the following wording:
+#### Article 1.
+Article 75 is included in the Temporary Constitutional Provisions Act, with the following wording:
 
 'Article 75. The collection of the provisional contribution on the movement or transmission of monies and of credits and rights of a financial nature mentioned in article 74, established by Law no. 9,311, of October 24, 1996, is extended for thirty-six months, and the same extension applies to the effect of Law no. 9,539, of December 12, 1997, which modified Law no. 9,311.
 
@@ -9337,7 +9662,8 @@ The Directing Boards of the Chamber of Deputies and of the Federal Senate, under
 
 - Paragraph 3.  The Union is authorized to issue domestic public debt bonds, whose resources shall be allocated to the financing of health services and social security, in an amount equivalent to the proceeds of the collection of the contribution, estimated but not achieved in 1999.'
 
-#### Article 2. This Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Amendment shall come into force on the date of its publication.
 
 Brasília, March 18, 1999.
 
@@ -9369,7 +9695,8 @@ Adds a single paragraph to article 98 and alters subitem 'i' of item I of articl
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. The following single paragraph is added to article 98 of the Federal Constitution:
+#### Article 1.
+The following single paragraph is added to article 98 of the Federal Constitution:
 
 'Article 98. ..............................................................................
 
@@ -9377,7 +9704,8 @@ The Directing Boards of the Chamber of Deputies and of the Federal Senate, under
 
 Sole  paragraph. Federal  legislation  shall  provide  for  the establishment of special courts within Federal Justice.'
 
-#### Article 2. Subitem i of item I of article 102 of the Federal Constitution shall be in force with the following wording:
+#### Article 2.
+Subitem i of item I of article 102 of the Federal Constitution shall be in force with the following wording:
 
 'Article 102. ............................................................................
 
@@ -9389,7 +9717,8 @@ I - ............................................................................
 
 ................................................................................................ '
 
-#### Article 3. Subitem c of item I of article 105 of the Federal Constitution shall be in force with the following wording:
+#### Article 3.
+Subitem c of item I of article 105 of the Federal Constitution shall be in force with the following wording:
 
 'Article 105. ............................................................................
 
@@ -9401,7 +9730,8 @@ I - ............................................................................
 
 ................................................................................................ '
 
-#### Article 4. This Amendment shall come into force on the date of its publication.
+#### Article 4.
+This Amendment shall come into force on the date of its publication.
 
 266
 
@@ -9433,7 +9763,8 @@ Alters articles 12, 52, 84, 91, 102, and 105 of the  Federal  Constitution  (est
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Articles 12, 52, 84, 91, 102, and 105 of the Federal Constitution shall henceforth be in force with the following alterations:
+#### Article 1.
+Articles 12, 52, 84, 91, 102, and 105 of the Federal Constitution shall henceforth be in force with the following alterations:
 
 'Article 12. ..............................................................................
 
@@ -9501,7 +9832,8 @@ I - ............................................................................
 
 ................................................................................................ '
 
-#### Article 2. This Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Amendment shall come into force on the date of its publication.
 
 Brasília, September 2, 1999.
 
@@ -9525,7 +9857,8 @@ Alters  provisions  of  the  Federal  Constitution regarding  temporary  judges 
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Articles 111, 112, 113, 115, and 116 of the Federal Constitution shall henceforth be in force with the following wording:
+#### Article 1.
+Articles 111, 112, 113, 115, and 116 of the Federal Constitution shall henceforth be in force with the following wording:
 
 'Article 111. 25
 
@@ -9569,11 +9902,14 @@ III - (Revoked).'
 
 Sole paragraph. (Revoked).'
 
-#### Article 2. The current temporary justices of the Superior Labour Court and the current temporary judges of the Regional Labour Courts and Boards of Conciliation and Judgement are ensured of the right to complete their terms of office.
+#### Article 2.
+The current temporary justices of the Superior Labour Court and the current temporary judges of the Regional Labour Courts and Boards of Conciliation and Judgement are ensured of the right to complete their terms of office.
 
-#### Article 3. This Amendment shall come into force on the date of its publication.
+#### Article 3.
+This Amendment shall come into force on the date of its publication.
 
-#### Article 4. Article 117 of the Federal Constitution is hereby revoked.
+#### Article 4.
+Article 117 of the Federal Constitution is hereby revoked.
 
 Brasília, December 9, 1999.
 
@@ -9597,7 +9933,8 @@ Alters item VI of article 29 and adds article 29-A to  the  Federal Constitution
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Item VI of article 29 of the Federal Constitution shall henceforth be in force with the following wording:
+#### Article 1.
+Item VI of article 29 of the Federal Constitution shall henceforth be in force with the following wording:
 
 'Article 29. ..............................................................................
 
@@ -9629,7 +9966,8 @@ Constitution of the Federative Republic of Brazil
 
 ................................................................................................ '
 
-#### Article 2. The Federal Constitution shall henceforth include the following article 29-A:
+#### Article 2.
+The Federal Constitution shall henceforth include the following article 29-A:
 
 'Article 29-A. The total expenditures of the Municipal Legislative Branch, including the compensation of Local Councilmen and excluding outlays on retired personnel, may not exceed the following percentages, related to the total amount, effectively realized in the prior year, of tax revenues and the transfers set forth in paragraph 5 of article 153, and in articles 158 and 159:'
 
@@ -9653,7 +9991,8 @@ Constitution of the Federative Republic of Brazil
 
 ' Paragraph 3.  It  shall  be  a  crime  of  malversation  for  the President of the Town Council to disobey paragraph 1 of this article.'
 
-#### Article 3. This Amendment shall come into force on January 1, 2001.
+#### Article 3.
+This Amendment shall come into force on January 1, 2001.
 
 Brasília, February 14, 2000.
 
@@ -9685,11 +10024,13 @@ Alters  the  wording  of  article  6  of  the  Federal Constitution.
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Article 6 of the Federal Constitution shall henceforth be in force with the following wording:
+#### Article 1.
+Article 6 of the Federal Constitution shall henceforth be in force with the following wording:
 
 'Article 6. Education, health, work, housing, leisure, security, social security, protection of motherhood and childhood, and assistance to the destitute, are social rights, as set forth by this Constitution.'
 
-#### Article 2. This Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Amendment shall come into force on the date of its publication.
 
 Brasília, February 14, 2000.
 
@@ -9713,7 +10054,8 @@ Adds article 76 to the Temporary Constitutional Provisions Act, providing that a
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Article 76 is included in the Temporary Constitutional Provisions Act, with the following wording:
+#### Article 1.
+Article 76 is included in the Temporary Constitutional Provisions Act, with the following wording:
 
 'Article 76. Twenty percent of the proceeds from the collection of Federal taxes and social contributions, already instituted or to be instituted in the period of 2000 to 2003, as well as their additional  taxes  and  respective  legal  increases,  shall  not  be earmarked to any agency, fund, or expense in the said period.'
 
@@ -9721,7 +10063,8 @@ The Directing Boards of the Chamber of Deputies and of the Federal Senate, under
 
 ' Paragraph 2.  The proceeds from the collection of the social contribution for education mentioned in article 212, paragraph 5, of the Constitution, shall be excepted from the provision of the head paragraph of this article.'
 
-#### Article 2. This Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Amendment shall come into force on the date of its publication.
 
 Brasília, March 21, 2000.
 
@@ -9745,7 +10088,8 @@ Gives new wording to item XXIX of article 7 and revokes article 233 of the Feder
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Item XXIX of article 7 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Item XXIX of article 7 of the Federal Constitution shall henceforth read as follows:
 
 'XXIX - legal action, with respect to credits arising from employment relationships, with a limitation of five years for urban and rural workers, up to the limit of two years after the end of the employment contract;'
 
@@ -9753,9 +10097,11 @@ The Directing Boards of the Chamber of Deputies and of the Federal Senate, under
 
 'b) (Revoked);'
 
-#### Article 2. Article 233 of the Federal Constitution is hereby revoked.
+#### Article 2.
+Article 233 of the Federal Constitution is hereby revoked.
 
-#### Article 3. This Amendment shall come into force on the date of its publication.
+#### Article 3.
+This Amendment shall come into force on the date of its publication.
 
 Brasília, May 25, 2000.
 
@@ -9779,7 +10125,8 @@ Alters articles 34, 35, 156, 160, 167, and 198 of the Federal Constitution, and 
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Subitem e of item VII of article 34 shall henceforth read as follows:
+#### Article 1.
+Subitem e of item VII of article 34 shall henceforth read as follows:
 
 'Article 34. ..............................................................................
 
@@ -9789,7 +10136,8 @@ VII - . ........................................................................
 
 - the  application  of  the  minimum  required  amount  of  the revenues  resulting  from  state  taxes,  including  revenues originating from transfers, to the maintenance and development of education and to health actions and public services.'
 
-#### Article 2. Item III of article 35 shall henceforth read as follows:
+#### Article 2.
+Item III of article 35 shall henceforth read as follows:
 
 'Article 35. ..............................................................................
 
@@ -9797,7 +10145,8 @@ VII - . ........................................................................
 
 III - the minimum required amount of the municipal revenues has not been applied to the maintenance and development of education and to health actions and public services;'
 
-#### Article 3. Paragraph 1 of article 156 of the Federal Constitution shall henceforth read as follows:
+#### Article 3.
+Paragraph 1 of article 156 of the Federal Constitution shall henceforth read as follows:
 
 'Article 156. ............................................................................
 
@@ -9809,7 +10158,8 @@ Paragraph 1.  Without prejudice to the progressiveness in time mentioned in arti
 
 ................................................................................................ '
 
-#### Article 4. The sole paragraph of article 160 shall henceforth read as follows:
+#### Article 4.
+The sole paragraph of article 160 shall henceforth read as follows:
 
 278
 
@@ -9829,7 +10179,8 @@ Sole paragraph. The prohibition mentioned in the present article does not preven
 
 'II - compliance with the provisions of article 198, paragraph 2, items II and III.'
 
-#### Article 5. Item IV of article 167 shall henceforth read as follows:
+#### Article 5.
+Item IV of article 167 shall henceforth read as follows:
 
 'Article 167. ............................................................................
 
@@ -9839,7 +10190,8 @@ IV - to bind tax revenues to an agency, fund or expense, excepting the sharing o
 
 ................................................................................................ '
 
-#### Article 6. Article 198 shall henceforth include the following paragraphs 2 and 3, and the current sole paragraph shall be renumbered as paragraph 1:
+#### Article 6.
+Article 198 shall henceforth include the following paragraphs 2 and 3, and the current sole paragraph shall be renumbered as paragraph 1:
 
 'Article 198. ............................................................................
 
@@ -9875,7 +10227,8 @@ Constitutional Amendments
 
 'IV - the rules to calculate the amount to be applied by the Union.'
 
-#### Article 7. The Temporary Constitutional Provisions Act shall henceforth include the following article 77:
+#### Article 7.
+The Temporary Constitutional Provisions Act shall henceforth include the following article 77:
 
 'Article 77. Until the financial year of 2004, the minimum amount of funds applied to health actions and public services shall be equivalent to:'
 
@@ -9905,7 +10258,8 @@ Constitution of the Federative Republic of Brazil
 
 'Paragraph 4.  In the absence of the supplementary law referred to in article 198, paragraph 3, the provisions of this article shall apply to the Union, the States, the Federal District, and the Municipalities as of the financial year of 2005.'
 
-#### Article 8. This Amendment shall come into force on the date of its publication.
+#### Article 8.
+This Amendment shall come into force on the date of its publication.
 
 Brasília, September 13, 2000.
 
@@ -9929,7 +10283,8 @@ Alters the wording of article 100 of the Federal Constitution, and adds article 
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article  1. Article  100  of  the  Federal  Constitution  shall  henceforth  read  as follows:
+#### Article  1.
+Article  100  of  the  Federal  Constitution  shall  henceforth  read  as follows:
 
 'Article 100. ............................................................................
 
@@ -9957,7 +10312,8 @@ Constitution of the Federative Republic of Brazil
 
 'Paragraph 5.  The President of the appropriate Court who, by means of an act or omission, delays or attempts to frustrate the regular payment of a court order debt shall be liable to crime of malversation.'
 
-#### Article 2. Article 78 is added to the Temporary Constitutional Provisions Act, with the following wording:
+#### Article 2.
+Article 78 is added to the Temporary Constitutional Provisions Act, with the following wording:
 
 'Article 78. With the exception of credits defined by law as being of a small amount, credits for alimony, and credits stated in article 33 of this Temporary Constitutional Provisions Act and their supplementations, as well as those credits whose respective funds have already been released or paid into court, the court order debts for which payment is outstanding on the date of promulgation of this Amendment and those deriving from actions commenced before or on December 31, 1999, shall be settled according to their real value, in legal tender, including legal interests, in equal and successive annual installments, within ten years at the most, the assignment of credits being permitted.'
 
@@ -9969,7 +10325,8 @@ Constitution of the Federative Republic of Brazil
 
 'Paragraph 4.  If the time limit has elapsed, or in the case of omission in the budget, or in the event the right of precedence is not respected, the President of the appropriate Court shall, upon petition of a creditor, requisition or order the seizure of funds of the debtor entity, at an amount sufficient to pay the installment.'
 
-#### Article 3. This Amendment shall come into force on the date of its publication.
+#### Article 3.
+This Amendment shall come into force on the date of its publication.
 
 Brasília, September 13, 2000.
 
@@ -10001,7 +10358,8 @@ Alters the Temporary Constitutional Provisions Act, introducing articles that es
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article  1. The following articles  are  added  to  the  Temporary  Constitutional Provisions Act of the Federal Constitution:
+#### Article  1.
+The following articles  are  added  to  the  Temporary  Constitutional Provisions Act of the Federal Constitution:
 
 'Article 79. The Fund to Fight and Eradicate Poverty, hereby instituted within the sphere of the Federal Executive Branch, shall be in force through the year 2010 and shall be regulated by a supplementary law, aiming at enabling all Brazilians to have access to adequate subsistence levels, and its resources shall be applied to supplementary initiatives regarding nutrition, housing, education, health, a complementary family income, and other programs of relevant social interest oriented towards the improvement of the quality of life.
 
@@ -10057,7 +10415,8 @@ Paragraph 2.  With a view to financing the Municipal Funds, an additional tax of
 
 Article  83. A  federal  law  shall  define  the  luxury  goods  and services referred to in articles 80, item II, and 82, paragraphs 1 and 2.'
 
-#### Article 2. This Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Amendment shall come into force on the date of its publication.
 
 Brasília, December 14, 2000.
 
@@ -10081,7 +10440,8 @@ Alters provisions of articles 48, 57, 61, 62, 64, 66, 84, 88, and 246 of the Fed
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Articles 48, 57, 61, 62, 64, 66, 84, 88, and 246 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Articles 48, 57, 61, 62, 64, 66, 84, 88, and 246 of the Federal Constitution shall henceforth read as follows:
 
 'Article 48. ..............................................................................
 
@@ -10205,9 +10565,11 @@ VI - provide for the following, by means of a decree:
 
 'Article 246. The adoption of a provisional measure for the regulation of any article of the Constitution the wording of which has been altered by means of an amendment enacted between January 1, 1995 and the date of enactment of this amendment is forbidden.'
 
-#### Article  2. Any provisional  measures  issued  on  a  date  prior  to  the  date  of publication of this amendment shall remain in force until such time as a subsequent provisional measure explicitly revokes them or until final deliberation by the National Congress.
+#### Article  2.
+Any provisional  measures  issued  on  a  date  prior  to  the  date  of publication of this amendment shall remain in force until such time as a subsequent provisional measure explicitly revokes them or until final deliberation by the National Congress.
 
-#### Article 3. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 3.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, September 11, 2001.
 
@@ -10231,7 +10593,8 @@ Alters articles 149, 155, and 177 of the Federal Constitution.
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Article 149 of the Federal Constitution shall henceforth be in force with the addition of the following paragraphs, and the current sole paragraph shall be renumbered as paragraph 1:
+#### Article 1.
+Article 149 of the Federal Constitution shall henceforth be in force with the addition of the following paragraphs, and the current sole paragraph shall be renumbered as paragraph 1:
 
 'Article 149. ............................................................................
 
@@ -10255,7 +10618,8 @@ Paragraph 3.  A natural person who is the recipient in an import transaction may
 
 Paragraph  4.  The  law  shall  establish  the  cases  in  which contributions will be levied only once.'
 
-#### Article 2. Article 155 of the Federal Constitution shall henceforth be in force with the following alterations:
+#### Article 2.
+Article 155 of the Federal Constitution shall henceforth be in force with the following alterations:
 
 'Article 155. ............................................................................
 
@@ -10311,7 +10675,8 @@ c) they may be lowered and restored to their original levels, and the provision 
 
 Paragraph 5.  The rules for the enforcement of the provisions of paragraph 4, including those concerning the collection and assignment of the tax, shall be established by joint decision of states and the Federal District, under the terms of paragraph 2, XII, g .'
 
-#### Article 3. Article  177  of  the  Federal  Constitution  shall  henceforth  include  the following paragraph:
+#### Article 3.
+Article  177  of  the  Federal  Constitution  shall  henceforth  include  the following paragraph:
 
 'Article 177. ............................................................................
 
@@ -10333,9 +10698,11 @@ Paragraph 4.  The law which institutes a contribution tax of intervention  in  t
 
 - to the financing of transportation infrastructure programs.'
 
-#### Article 4. Until  such  time  as  the  supplementary  law  mentioned  in  article  155, paragraph 2, XII, h , of the Federal Constitution, comes into force, the states and the Federal District, by means of an agreement entered into under the terms of paragraph 2, XII, g , of the said article, shall establish provisional rules to regulate the matter.
+#### Article 4.
+Until  such  time  as  the  supplementary  law  mentioned  in  article  155, paragraph 2, XII, h , of the Federal Constitution, comes into force, the states and the Federal District, by means of an agreement entered into under the terms of paragraph 2, XII, g , of the said article, shall establish provisional rules to regulate the matter.
 
-#### Article 5. This Constitutional Amendment shall come into force on the date of its promulgation.
+#### Article 5.
+This Constitutional Amendment shall come into force on the date of its promulgation.
 
 Brasília, December 11, 2001.
 
@@ -10367,7 +10734,8 @@ Gives new wording to subitem 'c' of item XVI of article 37 of the Federal Consti
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Subitem c of item XVI of article 37 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Subitem c of item XVI of article 37 of the Federal Constitution shall henceforth read as follows:
 
 'Article 37. ..............................................................................
 
@@ -10379,7 +10747,8 @@ c)  of  two  positions  or  jobs  which  are  exclusive  for  health professiona
 
 ................................................................................................ '
 
-#### Article 2. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, December 13, 2001.
 
@@ -10403,7 +10772,8 @@ Gives new wording to article 53 of the Federal Constitution.
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Article 53 of the Federal Constitution shall henceforth be in force with the following alterations:
+#### Article 1.
+Article 53 of the Federal Constitution shall henceforth be in force with the following alterations:
 
 'Article 53. Deputies and Senators enjoy civil and criminal inviolability  on  account  of  any  of  their  opinions,  words  and votes.
 
@@ -10431,7 +10801,8 @@ Constitutional Amendments
 
 Paragraph 8.  The immunities of Deputies and Senators shall be maintained during a state of siege and may only be suspended by the vote of two-thirds of the members of the respective House, in the case of acts committed outside the premises of Congress, which are not compatible with the implementation of such measure.'
 
-#### Article 2. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, December 20, 2001.
 
@@ -10455,7 +10826,8 @@ Gives new wording to article 222 of the Federal Constitution,  to  allow  the  p
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Article 222 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Article 222 of the Federal Constitution shall henceforth read as follows:
 
 'Article  222. Newspaper companies, sound broadcasting companies, or sound and image broadcasting companies, shall be owned exclusively by native Brazilians or those naturalized for more than ten years, or by legal entities incorporated under Brazilian laws and headquartered in Brazil.
 
@@ -10469,7 +10841,8 @@ Paragraph 4.  Specific legislation shall regulate the participation of foreign c
 
 Paragraph 5.  Any alterations in the corporate control of the companies mentioned in paragraph 1 must be communicated to the National Congress.'
 
-#### Article 2. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Constitutional Amendments
 
@@ -10501,7 +10874,8 @@ Alters  articles  100  and  156  of  the  Federal Constitution and adds articles
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Article 100 of the Federal Constitution shall henceforth be in force with the addition of the following paragraph 4, and the subsequent paragraphs shall be renumbered:
+#### Article 1.
+Article 100 of the Federal Constitution shall henceforth be in force with the addition of the following paragraph 4, and the subsequent paragraphs shall be renumbered:
 
 'Article 100. ............................................................................
 
@@ -10511,7 +10885,8 @@ Paragraph 4.  The issuance of a court order as a supplementation to or in additi
 
 ................................................................................................ '
 
-#### Article 2. Paragraph 3 of article 156 of the Federal Constitution shall henceforth read as follows:
+#### Article 2.
+Paragraph 3 of article 156 of the Federal Constitution shall henceforth read as follows:
 
 'Article 156. ............................................................................
 
@@ -10527,7 +10902,8 @@ III - regulate the manner and conditions for the granting and revocation of fisc
 
 ................................................................................................ '
 
-#### Article 3. The Temporary Constitutional Provisions Act shall henceforth be in force with the addition of the following articles 84, 85, 86, 87, and 88:
+#### Article 3.
+The Temporary Constitutional Provisions Act shall henceforth be in force with the addition of the following articles 84, 85, 86, 87, and 88:
 
 'Article 84. The provisional contribution on the movement or transmission of monies and of credits and rights of a financial nature, set forth in articles 74, 75, and 80, I, of this Temporary
 
@@ -10625,7 +11001,8 @@ I - have a minimum rate of two percent, save for the services referred  to  in  
 
 II - not be subject to the granting of fiscal exemptions, incentives, and benefits, should the direct or indirect result of such granting be the reduction of the minimum rate stipulated in item I.'
 
-#### Article 4. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 4.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, June 12, 2002.
 
@@ -10649,13 +11026,15 @@ Adds article 89 to the Temporary Constitutional Provisions Act, to include the U
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. The Temporary Constitutional Provisions Act shall henceforth include the following article 89:
+#### Article 1.
+The Temporary Constitutional Provisions Act shall henceforth include the following article 89:
 
 'Article 89. The members of the uniformed police force of the former Federal Territory of Rondônia, who, in accordance with official  documents, were regularly exercising their functions and rendering services to such former Territory at the time it was transformed into a State, as well as the uniformed police officers who were appointed by virtue of a federal law and are paid by the Union, shall be included in a special job class to be eventually terminated within the federal government services, being ensured of their specific rights and advantages, whereas the payment, under any circumstances, of remuneration differences, as well as reimbursement or compensation of any nature, prior to the promulgation of this Amendment, shall be forbidden.
 
 Sole paragraph. The members of the uniformed police force shall go on rendering services to the State of Rondônia in the quality of detailed personnel, subject to the legal and regulatory provisions which govern the corps of their respective uniformed police force, with due regard for compatibility between the duties of their function and their rank in the hierarchy.'
 
-#### Article 2. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, June 12, 2002.
 
@@ -10679,13 +11058,15 @@ Adds article 149-A to the Federal Constitution (creates a contribution to financ
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. The Federal Constitution shall henceforth include the following article 149-A:
+#### Article 1.
+The Federal Constitution shall henceforth include the following article 149-A:
 
 'Article 149-A. The Municipalities and the Federal District may establish a contribution, under the terms of their respective laws, to finance the public lighting service, with due regard for the provisions of article 150, I and III.
 
 Sole  paragraph. The contribution  mentioned  in  the  head paragraph of this article  may be charged to the consumer's electricity bill.'
 
-#### Article 2. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, December 19, 2002.
 
@@ -10709,7 +11090,8 @@ Alters item V of article 163 and article 192 of the Federal Constitution, and th
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Item V of article 163 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Item V of article 163 of the Federal Constitution shall henceforth read as follows:
 
 'Article 163. ............................................................................
 
@@ -10719,7 +11101,8 @@ V - financial supervision of governmental entities and entities owned by the Fed
 
 ................................................................................................ '
 
-#### Article  2. Article  192  of  the  Federal  Constitution  shall  henceforth  read  as follows:
+#### Article  2.
+Article  192  of  the  Federal  Constitution  shall  henceforth  read  as follows:
 
 'Article  192. The national financial  system,  structured  to promote the balanced development of the country and to serve the  collective  interests,  in  all  of  the  component  elements  of the  system,  including  credit  cooperatives,  shall  be  regulated by  supplementary  laws  which  shall  also  provide  for  the participation of foreign capital in the institutions that make up the said system.
 
@@ -10755,9 +11138,11 @@ Constitutional Amendments
 
 Paragraph 2.  (Revoked). Paragraph 3.  (Revoked).'
 
-#### Article  3. The head paragraph of article 52 of the Temporary Constitutional Provisions Act shall henceforth read as follows:
+#### Article  3.
+The head paragraph of article 52 of the Temporary Constitutional Provisions Act shall henceforth read as follows:
 
-#### Article 4. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 4.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 'Article 52. Until such time as the conditions referred to in article 192 are established, the following are forbidden:
 
@@ -10785,7 +11170,8 @@ Alters articles 37, 40, 42, 48, 96, 149, and 201 of  the  Federal  Constitution,
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60, of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. The Federal Constitution shall henceforth read as follows:
+#### Article 1.
+The Federal Constitution shall henceforth read as follows:
 
 'Article 37. ..............................................................................
 
@@ -10885,7 +11271,8 @@ Paragraph  1.  The  states,  the  Federal  District,  and  the municipalities sh
 
 Paragraph 12.  The law shall provide for a special system to include low-income workers in the social security system, so that they have guaranteed access to benefits at an amount equal to a monthly minimum salary, except for retirement benefits due to contribution period.'
 
-#### Article 2. With due regard for the provision of article 4 of Constitutional  Amendment no. 20, December 15, 1998, the right to opt for voluntary retirement with pay calculated according to article 40, paragraphs 3 and 17, of the Federal Constitution, is ensured to  employees who have properly taken effective posts in government services, associate government agencies, and foundations, before the date of publication of said Amendment, when such employees meet the following cumulative conditions:
+#### Article 2.
+With due regard for the provision of article 4 of Constitutional  Amendment no. 20, December 15, 1998, the right to opt for voluntary retirement with pay calculated according to article 40, paragraphs 3 and 17, of the Federal Constitution, is ensured to  employees who have properly taken effective posts in government services, associate government agencies, and foundations, before the date of publication of said Amendment, when such employees meet the following cumulative conditions:
 
 - I - fifty-three years of age, if a man, and forty-eight, if a woman;
 
@@ -10921,13 +11308,15 @@ Paragraph 5.  The employee referred to in this article, who has met the requirem
 
 Paragraph 6.  The provisions of article 40, paragraph 8, of the Federal Constitution, shall apply to retirement pensions granted under the terms of this article.
 
-#### Article 3. The granting of retirement pensions to public employees, as well as pensions to their dependents, is ensured, at any time, if, by the date of publication of this Amendment, they have complied with the requirements to be entitled to such benefits, in accordance with the criteria of the legislation in effect at that time.
+#### Article 3.
+The granting of retirement pensions to public employees, as well as pensions to their dependents, is ensured, at any time, if, by the date of publication of this Amendment, they have complied with the requirements to be entitled to such benefits, in accordance with the criteria of the legislation in effect at that time.
 
 Paragraph 1.  The employee referred to in this article, who chooses to remain in  active  service  after  having  met  the  requirements  for  voluntary  retirement,  and who has, at least, twenty-five years of contribution, if a woman, or thirty years of contribution, if a man, shall be entitled to a continuous activity bonus equivalent to the amount of her or his social security contribution until such date as she or he meets the requirements for compulsory retirement as set forth in article 40, paragraph 1, II, of the Federal Constitution.
 
 Paragraph 2.  The retirement pay to be granted to the public employees referred to in the head paragraph, either in full or in proportion to the period of contribution completed by the date of publication of this Amendment, as well as the pensions for their dependents, shall be calculated in accordance with the legislation in effect at the time the requirements therein contained for the granting of such benefits were met, or with the terms of the current legislation.
 
-#### Article 4. Retired employees and pensioners of the Union, the States, the Federal District, and the Municipalities, including their associate government agencies and foundations, who are regularly receiving benefits on the date of publication of this Amendment, as well as public employees covered by the provisions of its article 3, shall contribute to the funding of the scheme referred to in article 40 of the Federal Constitution at the same percentage stipulated for employees holding effective posts.
+#### Article 4.
+Retired employees and pensioners of the Union, the States, the Federal District, and the Municipalities, including their associate government agencies and foundations, who are regularly receiving benefits on the date of publication of this Amendment, as well as public employees covered by the provisions of its article 3, shall contribute to the funding of the scheme referred to in article 40 of the Federal Constitution at the same percentage stipulated for employees holding effective posts.
 
 Constitutional Amendments
 
@@ -10943,9 +11332,11 @@ I  -  fifty  per  cent  of  the  maximum  limit  stipulated  for  the  benefits 
 
 II - sixty per cent of the maximum limit for the benefits of the general social security scheme referred to in article 201 of the  Federal Constitution, for retired employees and pensioners of the Union.
 
-#### Article 5. The maximum limit for the amount of benefits of the general social security scheme referred to in article 201 of the Federal Constitution is defined as R$ 2,400.00 (two thousand and four hundred reais), and it shall be adjusted, as from the date of publication of this Amendment, to the end that its real value is permanently maintained and updated according to the same indices applicable to the benefits of the general social security scheme.
+#### Article 5.
+The maximum limit for the amount of benefits of the general social security scheme referred to in article 201 of the Federal Constitution is defined as R$ 2,400.00 (two thousand and four hundred reais), and it shall be adjusted, as from the date of publication of this Amendment, to the end that its real value is permanently maintained and updated according to the same indices applicable to the benefits of the general social security scheme.
 
-#### Article 6. Without prejudice to the right to opt for retirement in accordance with the rules established by article 40 of the Federal Constitution or the rules established by article 2 of this Amendment, an employee of the Union, the States, the Federal District, and the Municipalities, including their associate government agencies and foundations, who has entered public administration before the date of publication of  this Amendment may go into retirement with full pay, equivalent to the total remuneration of such employee in the effective post from which he retires, under the terms of the law, when, with due regard for the reductions on account of age and contribution period contained in paragraph 5 of article 40 of the Federal Constitution, such employee meets the following cumulative conditions:
+#### Article 6.
+Without prejudice to the right to opt for retirement in accordance with the rules established by article 40 of the Federal Constitution or the rules established by article 2 of this Amendment, an employee of the Union, the States, the Federal District, and the Municipalities, including their associate government agencies and foundations, who has entered public administration before the date of publication of  this Amendment may go into retirement with full pay, equivalent to the total remuneration of such employee in the effective post from which he retires, under the terms of the law, when, with due regard for the reductions on account of age and contribution period contained in paragraph 5 of article 40 of the Federal Constitution, such employee meets the following cumulative conditions:
 
 I - sixty years of age, if a man, and fifty-five years of age, if a woman;
 
@@ -10957,7 +11348,8 @@ IV - ten years in the career and five years in the effective post from which ret
 
 Sole paragraph. Retirement pensions granted as per this article shall be revised in the same proportion and on the same date, whenever the remuneration of employees in active service is changed, under the terms of the law, with due regard for article 37, XI, of the Federal Constitution.
 
-#### Article  7. With due regard for the provision of article 37, XI, of the Federal Constitution, retirement pensions of government employees who hold effective posts and the pensions for their dependents, paid by the Union, the States, the Federal District, and the Municipalities, including their associate government agencies and foundations, and being received on the date of publication of this Amendment, as well as the retirement pensions of employees and the pensions for their dependents covered by article 3 of this Amendment, shall be revised in the same proportion and on the same date, whenever the remuneration of employees in active service is altered, and any benefits or advantages subsequently granted to employees in active service shall also be extended to retirees and to pensioners, including those benefits and advantages arising from the transformation or reclassification of the post or function from which retirement was taken, or which was taken as a parameter for the granting of a pension, as the law provides.
+#### Article  7.
+With due regard for the provision of article 37, XI, of the Federal Constitution, retirement pensions of government employees who hold effective posts and the pensions for their dependents, paid by the Union, the States, the Federal District, and the Municipalities, including their associate government agencies and foundations, and being received on the date of publication of this Amendment, as well as the retirement pensions of employees and the pensions for their dependents covered by article 3 of this Amendment, shall be revised in the same proportion and on the same date, whenever the remuneration of employees in active service is altered, and any benefits or advantages subsequently granted to employees in active service shall also be extended to retirees and to pensioners, including those benefits and advantages arising from the transformation or reclassification of the post or function from which retirement was taken, or which was taken as a parameter for the granting of a pension, as the law provides.
 
 314
 
@@ -10967,13 +11359,17 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 308]]
 
-#### Article 8. Until such time as the amount of the compensation referred to in article 37,  item  XI,  of  the  Federal  Constitution  is  stipulated,  the  amount  of  the  highest remuneration assigned by law to a Justice of the Supreme Federal Court on the date of publication of this Amendment, on account of pay, monthly representation allowance, and sum received by virtue of period of service, shall be taken into consideration for the purposes of the limit stipulated in the said item XI, and the following limits shall be applied: in Municipalities, the compensation of the Mayor; in the States and in the Federal District, the monthly compensation of the Governor in the sphere of the Executive Branch, the compensation of State and Federal District Deputies in the sphere of the Legislative Branch, and the compensation of the Judges of the State Court of Justice, limited to ninety and twenty-five hundredths percent of the highest monthly remuneration of a Justice of the Supreme Federal Court referred to in this article in the sphere of the Judicial Branch, this limit being applicable to the members of the Office of the Public Interest Attorney, to Prosecutors, and to Public Legal Defenders.
+#### Article 8.
+Until such time as the amount of the compensation referred to in article 37,  item  XI,  of  the  Federal  Constitution  is  stipulated,  the  amount  of  the  highest remuneration assigned by law to a Justice of the Supreme Federal Court on the date of publication of this Amendment, on account of pay, monthly representation allowance, and sum received by virtue of period of service, shall be taken into consideration for the purposes of the limit stipulated in the said item XI, and the following limits shall be applied: in Municipalities, the compensation of the Mayor; in the States and in the Federal District, the monthly compensation of the Governor in the sphere of the Executive Branch, the compensation of State and Federal District Deputies in the sphere of the Legislative Branch, and the compensation of the Judges of the State Court of Justice, limited to ninety and twenty-five hundredths percent of the highest monthly remuneration of a Justice of the Supreme Federal Court referred to in this article in the sphere of the Judicial Branch, this limit being applicable to the members of the Office of the Public Interest Attorney, to Prosecutors, and to Public Legal Defenders.
 
-#### Article 9. The provisions of article 17 of the Temporary Constitutional Provisions Act shall apply to the pay, the remunerations, and the compensation of the holders of public offices, functions and positions in governmental entities, associate government agencies, and foundations; of the members of any of the Powers of the Union, of the States, the Federal District, and the Municipalities; of the holders of elective offices, and of any other political agent, as well as the retirement pay, pensions, or other type of remuneration, earned on a cumulative basis or not, including advantages of a personal nature or of any other nature.
+#### Article 9.
+The provisions of article 17 of the Temporary Constitutional Provisions Act shall apply to the pay, the remunerations, and the compensation of the holders of public offices, functions and positions in governmental entities, associate government agencies, and foundations; of the members of any of the Powers of the Union, of the States, the Federal District, and the Municipalities; of the holders of elective offices, and of any other political agent, as well as the retirement pay, pensions, or other type of remuneration, earned on a cumulative basis or not, including advantages of a personal nature or of any other nature.
 
-#### Article 10. Item IX of paragraph 3 of article 142 of the Federal Constitution, as well as articles 8 and 10 of Constitutional Amendment no. 20, December 15, 1998, are hereby revoked.
+#### Article 10.
+Item IX of paragraph 3 of article 142 of the Federal Constitution, as well as articles 8 and 10 of Constitutional Amendment no. 20, December 15, 1998, are hereby revoked.
 
-#### Article 11. This Amendment shall come into force on the date of its publication.
+#### Article 11.
+This Amendment shall come into force on the date of its publication.
 
 Brasília, December 19, 2003.
 
@@ -11005,7 +11401,8 @@ Alters the National Tax System and makes further provisions.
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60, of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article  1. The following articles  of  the  Constitution  shall  henceforth  read  as follows:
+#### Article  1.
+The following articles  of  the  Constitution  shall  henceforth  read  as follows:
 
 'Article 37. ..............................................................................
 
@@ -11217,7 +11614,8 @@ II - debt servicing;
 
 III  -  any  other  current  expense  not  directly  related  to  the investments or actions supported by said programs.'
 
-#### Article 2. The following articles of the Temporary Constitutional Provisions Act shall henceforth read as follows:
+#### Article 2.
+The following articles of the Temporary Constitutional Provisions Act shall henceforth read as follows:
 
 'Article 76. Twenty percent of the proceeds from the collection by the Union of taxes, social contributions, and contributions for intervention in the economic domain, already instituted or to be instituted in the period of 2003 to 2007, as well as their additional taxes and respective legal increases, shall not be earmarked to any agency, fund, or expense in the said period.
 
@@ -11245,7 +11643,8 @@ Paragraph 1.  With a view to financing the State Funds and the Federal District 
 
 'Article 83. A federal law shall define the luxury goods and services referred to in articles 80, item II, and 82, paragraph 2.'
 
-#### Article 3. The Temporary Constitutional Provisions Act shall henceforth include the following articles:
+#### Article 3.
+The Temporary Constitutional Provisions Act shall henceforth include the following articles:
 
 'Article 90. The time limit set forth in the head paragraph of article 84 of this Temporary Constitutional Provisions Act is hereby extended through December 31, 2007.
 
@@ -11279,9 +11678,11 @@ Paragraph 4.  The States and the Federal District shall present to the Federal G
 
 'Article  94. The special tax regimes for micro and small businesses which are specific of the Union, the States, the Federal District, and the Municipalities shall be discontinued as from the date the regime set forth in article 146, III, d , of the Constitution comes into force.'
 
-#### Article 4. Any additional amounts introduced by the States and the Federal District up to the date of promulgation of this Amendment which do not comply with the provisions of this Constitutional Amendment, of Constitutional Amendment no. 31, of December 14, 2000, or of the supplementary law referred to in article 155, paragraph 2, XII, of the Constitution, shall be in force, at the most, through the time limit set forth in article 79 of the Temporary Constitutional Provisions Act.
+#### Article 4.
+Any additional amounts introduced by the States and the Federal District up to the date of promulgation of this Amendment which do not comply with the provisions of this Constitutional Amendment, of Constitutional Amendment no. 31, of December 14, 2000, or of the supplementary law referred to in article 155, paragraph 2, XII, of the Constitution, shall be in force, at the most, through the time limit set forth in article 79 of the Temporary Constitutional Provisions Act.
 
-#### Article 5. Within sixty days as from the date of promulgation of this Amendment, the Executive Branch shall forward to the National Congress a bill of law, under expedited procedures, to regulate tax benefits for capacity-building in the information technology industry, and such benefits shall be in force through 2019 under the conditions in effect upon approval of this Amendment.
+#### Article 5.
+Within sixty days as from the date of promulgation of this Amendment, the Executive Branch shall forward to the National Congress a bill of law, under expedited procedures, to regulate tax benefits for capacity-building in the information technology industry, and such benefits shall be in force through 2019 under the conditions in effect upon approval of this Amendment.
 
 Constitutional Amendments
 
@@ -11291,7 +11692,8 @@ Constitutional Amendments
 
 [[START OF PAGE 317]]
 
-#### Article 6. Item II of paragraph 3 of article 84 of the Temporary Constitutional Provisions Act is hereby revoked.
+#### Article 6.
+Item II of paragraph 3 of article 84 of the Temporary Constitutional Provisions Act is hereby revoked.
 
 Brasília, December 19, 2003.
 
@@ -11315,13 +11717,15 @@ Alters article 42 of the Temporary Constitutional Provisions Act,  extending,  f
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60, of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article  1. The head paragraph of article 42 of the Temporary Constitutional Provisions Act shall henceforth be in force with the following wording:
+#### Article  1.
+The head paragraph of article 42 of the Temporary Constitutional Provisions Act shall henceforth be in force with the following wording:
 
 'Article 42. Of the funds intended for irrigation, during a period of 25 (twenty-five) years, the Union shall apply:
 
 ................................................................................................ '
 
-#### Article 2. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, April 15, 2004.
 
@@ -11345,7 +11749,8 @@ Alters the National Tax System and makes further provisions.
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Item III of article 159 of the Constitution shall henceforth be in force with the following wording:
+#### Article 1.
+Item III of article 159 of the Constitution shall henceforth be in force with the following wording:
 
 'Article 159. ............................................................................ ..................................................................................................
 
@@ -11353,7 +11758,8 @@ III - of the proceeds from the collection of the contribution for intervention i
 
 ................................................................................................ '
 
-#### Article 2. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, June 30, 2004.
 
@@ -11377,7 +11783,8 @@ Alters provisions of articles 5, 36, 52, 92, 93, 95, 98, 99, 102, 103, 104, 105,
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60, of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Articles 5, 36, 52, 92, 93, 95, 98, 99, 102, 103, 104, 105, 107, 109, 111, 112, 114, 115, 125, 126, 127, 128, 129, 134, and 168 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Articles 5, 36, 52, 92, 93, 95, 98, 99, 102, 103, 104, 105, 107, 109, 111, 112, 114, 115, 125, 126, 127, 128, 129, 134, and 168 of the Federal Constitution shall henceforth read as follows:
 
 'Article 5. ................................................................................
 
@@ -11757,7 +12164,8 @@ Paragraph 2.  The Public Legal Defense of each state shall be ensured of functio
 
 'Article 168.  Funds corresponding to budgetary allocations, including  supplementary  and  special  credits,  intended  for the bodies of the Legislative and Judicial Powers, the Public Prosecution, and the Public Legal Defense, shall be remitted to them on or before the twentieth of each month, in twelfths, as provided by the supplementary law referred to in article 165, paragraph 9.'
 
-#### Article 2. The Federal Constitution shall henceforth include the following articles 103-A, 103-B, 111-A, and 130-A:
+#### Article 2.
+The Federal Constitution shall henceforth include the following articles 103-A, 103-B, 111-A, and 130-A:
 
 'Article 103-A. The Federal Supreme Court may, ex-officio or upon request, upon decision of two thirds of its members, and following reiterated judicial decisions on constitutional matter, issue  a  summula  (restatement  of  case  law)  which,  as  from publication in the official press, shall have a binding effect upon the lower bodies of the Judicial Power and the direct and indirect public administration, in the federal, state, and local levels, and which may also be reviewed or revoked, as set forth in law.
 
@@ -11931,23 +12339,29 @@ Constitutional Amendments
 
 Paragraph  5.  Federal  and  state  legislation  shall  establish ombudsman's offices for the Public Prosecution, with powers to receive complaints and accusations from any interested party against members or bodies of the Public Prosecution, including against their ancillary services, thus presenting formal charges directly to the National Council of the Public Prosecution.'
 
-#### Article 3. The law shall establish the Fund to Guarantee the Execution of Labour Claims, made up of fines imposed by labour and administrative judgements arising from the supervision of labour relations, in addition to other revenues.
+#### Article 3.
+The law shall establish the Fund to Guarantee the Execution of Labour Claims, made up of fines imposed by labour and administrative judgements arising from the supervision of labour relations, in addition to other revenues.
 
-#### Article 4. Existing State Courts of Appeals are hereby abolished, and their members shall henceforth become members of the Courts of Justice of their respective States, with due regard for their seniority and original class.
+#### Article 4.
+Existing State Courts of Appeals are hereby abolished, and their members shall henceforth become members of the Courts of Justice of their respective States, with due regard for their seniority and original class.
 
-#### Sole paragraph. The Courts of Justice shall, within one hundred and eighty days as from the date this Amendment is enacted, effect the integration of members of abolished courts into their own staff, by means of an administrative act, stipulating their duties and forwarding to the Legislative Branch, within the same time period, a proposal to alter the corresponding judiciary organization and division, with due regard for the rights of retirees and pensioners and for the reassignment of civil servants to the state Judicial Branch.
+Sole paragraph. The Courts of Justice shall, within one hundred and eighty days as from the date this Amendment is enacted, effect the integration of members of abolished courts into their own staff, by means of an administrative act, stipulating their duties and forwarding to the Legislative Branch, within the same time period, a proposal to alter the corresponding judiciary organization and division, with due regard for the rights of retirees and pensioners and for the reassignment of civil servants to the state Judicial Branch.
 
-#### Article 5. The National Council of Justice and the National Council of the Public Prosecution shall be installed within one hundred and eighty days as from the date this Amendment is enacted, and the nomination or appointment of their members must be effected no later than thirty days before such deadline.
+#### Article 5.
+The National Council of Justice and the National Council of the Public Prosecution shall be installed within one hundred and eighty days as from the date this Amendment is enacted, and the nomination or appointment of their members must be effected no later than thirty days before such deadline.
 
 Paragraph 1.  If the nominations and appointments for the National Council of Justice and the National Council of the Public Prosecution are not effected within the time period set forth in the head paragraph of this article, it shall be incumbent upon the Supreme Federal Court and the Federal Public Prosecution, respectively, to effect such nominations and appointments.
 
 Paragraph 2.  Until such time as the Statute of the Judicature comes into force, the National Council of Justice shall, by means of a resolution, regulate its own operation and define the duties of the Corregidor-Justice.
 
-#### Article 6. The Higher Council of Labour Justice shall be installed within one hundred and eighty days, and it shall be incumbent upon the Superior Labour Court to regulate its operation by means of a resolution, until such time as the law referred to in article 111-A, paragraph 2, II, is promulgated.
+#### Article 6.
+The Higher Council of Labour Justice shall be installed within one hundred and eighty days, and it shall be incumbent upon the Superior Labour Court to regulate its operation by means of a resolution, until such time as the law referred to in article 111-A, paragraph 2, II, is promulgated.
 
-#### Article 7. Immediately after this Constitutional Amendment is enacted, the National Congress shall install a joint special committee for the purpose of preparing, within one hundred and eighty days, the bills necessary to regulate the matter dealt with in this Amendment, and of effecting alterations in federal legislation with a view to expanding access to Justice and to expediting judicial services.
+#### Article 7.
+Immediately after this Constitutional Amendment is enacted, the National Congress shall install a joint special committee for the purpose of preparing, within one hundred and eighty days, the bills necessary to regulate the matter dealt with in this Amendment, and of effecting alterations in federal legislation with a view to expanding access to Justice and to expediting judicial services.
 
-#### Article 8. The current summulas of the Supreme Federal Court shall only have a binding effect after they are confirmed by two thirds of the members of said Court and published in the official press.
+#### Article 8.
+The current summulas of the Supreme Federal Court shall only have a binding effect after they are confirmed by two thirds of the members of said Court and published in the official press.
 
 342
 
@@ -11957,9 +12371,11 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 336]]
 
-#### Article 9. The following are hereby revoked: item IV of article 36; letter h of item I of article 102; paragraph 4 of article 103; and paragraphs 1 to 3 of article 111.
+#### Article 9.
+The following are hereby revoked: item IV of article 36; letter h of item I of article 102; paragraph 4 of article 103; and paragraphs 1 to 3 of article 111.
 
-#### Article 10. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 10.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, December 8, 2004.
 
@@ -11983,7 +12399,8 @@ Alters  item  IV  of  article  20  of  the  Federal Constitution.
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Item IV of article 20 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Item IV of article 20 of the Federal Constitution shall henceforth read as follows:
 
 'Article 20. ..............................................................................
 
@@ -11993,7 +12410,8 @@ IV - the river and lake islands in zones bordering with other countries; sea bea
 
 ................................................................................................ '
 
-#### Article 2. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, May 5, 2005.
 
@@ -12017,7 +12435,8 @@ Alters articles 37, 40, 195, and 201 of the Federal Constitution, to provide for
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60, of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Articles 37, 40, 195, and 201 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Articles 37, 40, 195, and 201 of the Federal Constitution shall henceforth read as follows:
 
 'Article 37. ..............................................................................
 
@@ -12069,9 +12488,11 @@ Paragraph 12.  The law shall provide for a special system to include low-income 
 
 Paragraph 13.  The rates and grace periods of the special system of inclusion in the social security system referred to in paragraph 12 of this article shall be lower than those in effect for other insured participants of the general social security scheme.'
 
-#### Article 2. The provisions of article 7 of Constitutional Amendment no. 41, 2003, shall apply to the retirement pensions of government employees who go into retirement pursuant to the head paragraph of article 6 of said Amendment.
+#### Article 2.
+The provisions of article 7 of Constitutional Amendment no. 41, 2003, shall apply to the retirement pensions of government employees who go into retirement pursuant to the head paragraph of article 6 of said Amendment.
 
-#### Article 3. Without prejudice to the right to opt for retirement in accordance with the rules established by article 40 of the Federal Constitution or the rules established by articles 2 and 6 of Constitutional Amendment no. 41, 2003, an employee of the Union, the States, the Federal District, and the Municipalities, including their associate government agencies and foundations, who has entered public administration on or before December 16, 1998, may go into retirement with full pay, provided that such employee meets the following cumulative conditions:
+#### Article 3.
+Without prejudice to the right to opt for retirement in accordance with the rules established by article 40 of the Federal Constitution or the rules established by articles 2 and 6 of Constitutional Amendment no. 41, 2003, an employee of the Union, the States, the Federal District, and the Municipalities, including their associate government agencies and foundations, who has entered public administration on or before December 16, 1998, may go into retirement with full pay, provided that such employee meets the following cumulative conditions:
 
 346
 
@@ -12087,13 +12508,16 @@ II - twenty-five years of effective exercise in public administration, fifteen y
 
 III - a minimum age resulting from the reduction, as regards the limits set forth by article 40, paragraph 1, item III, letter 'a', of the Federal Constitution, of one year of age for each year of contribution which exceeds the condition set forth in item I of the head paragraph of this article.
 
-#### Sole paragraph. The provisions of article 7 of Constitutional Amendment no. 41, 2003, shall apply to the retirement pensions granted pursuant to this article, and such revision criterion shall also be applied to pensions deriving from the retirement pensions of deceased employees who went into retirement pursuant to this article.
+Sole paragraph. The provisions of article 7 of Constitutional Amendment no. 41, 2003, shall apply to the retirement pensions granted pursuant to this article, and such revision criterion shall also be applied to pensions deriving from the retirement pensions of deceased employees who went into retirement pursuant to this article.
 
-#### Article 4. Until such time as the law referred to in paragraph 11 of article 37 of the Federal Constitution is enacted, no compensatory amount as defined by the legislation in effect on the date of publication of Constitutional Amendment no. 41, 2003, shall be computed for the purposes of the remuneration limits set forth in item XI of the head paragraph of said article.
+#### Article 4.
+Until such time as the law referred to in paragraph 11 of article 37 of the Federal Constitution is enacted, no compensatory amount as defined by the legislation in effect on the date of publication of Constitutional Amendment no. 41, 2003, shall be computed for the purposes of the remuneration limits set forth in item XI of the head paragraph of said article.
 
-#### Article 5. The sole paragraph of article 6 of Constitutional Amendment no. 41, December 19, 2003, is hereby revoked.
+#### Article 5.
+The sole paragraph of article 6 of Constitutional Amendment no. 41, December 19, 2003, is hereby revoked.
 
-#### Article 6. This Constitutional Amendment shall come into force on the date of its publication, and its effects shall be retroactive to the date Constitutional Amendment no. 41, 2003, came into force.
+#### Article 6.
+This Constitutional Amendment shall come into force on the date of its publication, and its effects shall be retroactive to the date Constitutional Amendment no. 41, 2003, came into force.
 
 Brasília, July 5, 2005.
 
@@ -12117,7 +12541,8 @@ Adds paragraph 3 to article 215 of the Federal Constitution,  to  institute  the
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of article 60, of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Article  215  of  the  Federal  Constitution  shall  henceforth  include  the following paragraph 3:
+#### Article 1.
+Article  215  of  the  Federal  Constitution  shall  henceforth  include  the following paragraph 3:
 
 'Article 215. ............................................................................
 
@@ -12137,7 +12562,8 @@ Paragraph 3.  The law shall establish the National Culture Plan, in the form of 
 
 - V - appreciation of the value of ethnic and regional diversity.'
 
-#### Article 2. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, August 10, 2005.
 
@@ -12161,7 +12587,8 @@ Alters the wording of letter 'b' and adds letter 'c' to  item  XXIII  of  the  h
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of article 60 of the Federal Constitution, enact the following Amendment to the constitutional text:
 
-#### Article 1. Item XXIII of article 21 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Item XXIII of article 21 of the Federal Constitution shall henceforth read as follows:
 
 'Article 21. ..............................................................................
 
@@ -12177,7 +12604,8 @@ XXIII - . ......................................................................
 
 ................................................................................................ '
 
-#### Article 2. Item V of the head paragraph of article 177 of the Federal Constitution shall henceforth read as follows:
+#### Article 2.
+Item V of the head paragraph of article 177 of the Federal Constitution shall henceforth read as follows:
 
 'Article 177. ............................................................................
 
@@ -12195,7 +12623,8 @@ Constitutional Amendments
 
 [[START OF PAGE 343]]
 
-#### Article 3. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 3.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, February 8, 2006.
 
@@ -12219,7 +12648,8 @@ Alters article 57 of the Federal Constitution.
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of article 60 of the Federal Constitution, enact the following Amendment to the constitutional text:
 
-#### Article 1. Article 57 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Article 57 of the Federal Constitution shall henceforth read as follows:
 
 'Article 57. The National Congress shall meet each year in the Federal Capital, from February 2 to July 17 and from August 1 to December 22.
 
@@ -12239,7 +12669,8 @@ Paragraph 7.  In  a  special  legislative  session,  the  National Congress shal
 
 ................................................................................................ '
 
-#### Article 2. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, February 14, 2006.
 
@@ -12273,7 +12704,8 @@ Adds paragraphs 4, 5, and 6 to article 198 of the Federal Constitution.
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of article 60 of the Federal Constitution, enact the following Amendment to the constitutional text:
 
-#### Article 1. Article  198  of  the  Federal  Constitution  shall  henceforth  include  the following paragraphs 4, 5, and 6:
+#### Article 1.
+Article  198  of  the  Federal  Constitution  shall  henceforth  include  the following paragraphs 4, 5, and 6:
 
 'Article 198. ............................................................................
 
@@ -12283,11 +12715,13 @@ Paragraph 5.  Federal legislation  shall  provide  for  the  legal regime and th
 
 Paragraph 6.  In addition to the cases set forth in paragraph 1 of article 41 and in paragraph 4 of article 169 of the Federal Constitution, an employee whose activities are equivalent to those of a community health worker or an endemic disease control agent may be dismissed if he does not comply with the specific requirements stipulated by law for such activities.'
 
-#### Article 2. As from the enactment of this Constitutional Amendment, community health workers and endemic disease control agents may only be hired directly by the States, the Federal District, or the Municipalities under the terms of paragraph 4 of article 198 of the Federal Constitution, with due regard for the spending limits stipulated by the Supplementary Law referred to in article 169 of the Federal Constitution.
+#### Article 2.
+As from the enactment of this Constitutional Amendment, community health workers and endemic disease control agents may only be hired directly by the States, the Federal District, or the Municipalities under the terms of paragraph 4 of article 198 of the Federal Constitution, with due regard for the spending limits stipulated by the Supplementary Law referred to in article 169 of the Federal Constitution.
 
-#### Sole paragraph. Workers who, on the date of enactment of this Amendment, and on any account, are carrying out the activities of community health workers or endemic disease control agents, in accordance with the law, are not required to undergo the public selection process referred to in paragraph 4 of article 198 of the Federal Constitution, provided that they have been hired via a previous public selection process carried out by bodies or entities of the direct or indirect administration of a State, the Federal District, or a Municipality, or by other institutions, under the effective supervision and authorization of the direct administration of the units of the Federation.
+Sole paragraph. Workers who, on the date of enactment of this Amendment, and on any account, are carrying out the activities of community health workers or endemic disease control agents, in accordance with the law, are not required to undergo the public selection process referred to in paragraph 4 of article 198 of the Federal Constitution, provided that they have been hired via a previous public selection process carried out by bodies or entities of the direct or indirect administration of a State, the Federal District, or a Municipality, or by other institutions, under the effective supervision and authorization of the direct administration of the units of the Federation.
 
-#### Article 3. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 3.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Constitutional Amendments
 
@@ -12319,7 +12753,8 @@ Gives new wording to paragraph 1 of article 17 of the Federal Constitution to re
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, enact the following Amendment to the constitutional text:
 
-#### Article 1. Paragraph 1 of article 17 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Paragraph 1 of article 17 of the Federal Constitution shall henceforth read as follows:
 
 'Article 17. ..............................................................................
 
@@ -12329,7 +12764,8 @@ Paragraph 1.  Political parties are ensured of autonomy to define their internal
 
 ................................................................................................ '
 
-#### Article 2. This Constitutional Amendment shall come into force on the date of its publication, and shall apply to the elections to be held in the year 2002. 26
+#### Article 2.
+This Constitutional Amendment shall come into force on the date of its publication, and shall apply to the elections to be held in the year 2002. 26
 
 Brasília, March 8, 2006.
 
@@ -12355,7 +12791,8 @@ Gives new wording to articles 7, 23, 30, 206, 208, 211, and 212 of the Federal C
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, enact the following Amendment to the constitutional text:
 
-#### Article 1. The Federal Constitution shall henceforth read as follows:
+#### Article 1.
+The Federal Constitution shall henceforth read as follows:
 
 'Article 7. ................................................................................
 
@@ -12421,7 +12858,8 @@ Paragraph 5.  Public basic education shall have, as an additional source of fina
 
 Paragraph 6.  State and municipal quotas of the proceeds from the collection of the social contribution for education shall be distributed in proportion to the number of students enrolled in basic education in the respective public school systems.'
 
-#### Article 2. Article 60 of the Temporary Constitutional Provisions Act shall henceforth read as follows:
+#### Article 2.
+Article 60 of the Temporary Constitutional Provisions Act shall henceforth read as follows:
 
 'Article  60. In  the  14  (fourteen)  years  following  the promulgation of this Constitutional Amendment, the States, the Federal District, and the Municipalities shall allocate a portion of the monies referred to in the head paragraph of article 212 of the Federal Constitution, to the maintenance and development of basic education and to the payment of appropriate salaries to education workers, with due regard for the following provisions:
 
@@ -12529,7 +12967,8 @@ Paragraph 6.  (Revoked).
 
 Paragraph 7.  (Revoked).'
 
-#### Article 3. This Constitutional Amendment shall come into force on the date of its  publication,  and  article  60  of  the Temporary Constitutional Provisions Act, as established by Constitutional Amendment no. 14, September 12, 1996, shall remain in  effect  until  the  Funds  come  into  force,  under  the  terms  of  this  Constitutional Amendment.
+#### Article 3.
+This Constitutional Amendment shall come into force on the date of its  publication,  and  article  60  of  the Temporary Constitutional Provisions Act, as established by Constitutional Amendment no. 14, September 12, 1996, shall remain in  effect  until  the  Funds  come  into  force,  under  the  terms  of  this  Constitutional Amendment.
 
 Brasília, December 19, 2006.
 
@@ -12553,7 +12992,8 @@ Gives new wording to letter c of Item I of article 12 of the Federal Constitutio
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, promulgate the following Amendment to the constitutional text:
 
-#### Article 1. Letter c of item I of article 12 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Letter c of item I of article 12 of the Federal Constitution shall henceforth read as follows:
 
 'Article 12. ..............................................................................
 
@@ -12565,11 +13005,13 @@ c) those born abroad, to a Brazilian father or a Brazilian mother, provided that
 
 ................................................................................................ '
 
-#### Article 2. The Temporary Constitutional Provisions Act shall henceforth include the following article 95:
+#### Article 2.
+The Temporary Constitutional Provisions Act shall henceforth include the following article 95:
 
 'Article 95. Persons born abroad between June 7, 1994, and the date of enactment of this Constitutional Amendment, to a Brazilian father or a Brazilian mother, may be registered with a Brazilian diplomatic or consular authority, or with an official registry if they come to reside in the Federative Republic of Brazil.'
 
-#### Article 3. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 3.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, September 20, 2007.
 
@@ -12605,7 +13047,8 @@ Alters  article  159  of  the  Federal  Constitution, to increase the amount of 
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, enact the following Amendment to the constitutional text:
 
-#### Article 1. Article 159 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Article 159 of the Federal Constitution shall henceforth read as follows:
 
 'Article 159. ............................................................................
 
@@ -12619,9 +13062,11 @@ d) one per cent to the Revenue Sharing Fund of the Municipalities, to be remitte
 
 ................................................................................................ '
 
-#### Article 2. In  fiscal  year  2007,  the  alterations  introduced  by  this  Constitutional Amendment to article 159 of the Federal Constitution shall apply only to the collection of the tax on income and earnings of any nature and of the tax on industrialized products carried out as from September 1, 2007.
+#### Article 2.
+In  fiscal  year  2007,  the  alterations  introduced  by  this  Constitutional Amendment to article 159 of the Federal Constitution shall apply only to the collection of the tax on income and earnings of any nature and of the tax on industrialized products carried out as from September 1, 2007.
 
-#### Article 3. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 3.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, September 20, 2007.
 
@@ -12645,13 +13090,15 @@ Extends  the  period  of  time  stipulated  in  the head paragraph of article 76
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, enact the following Amendment to the constitutional text:
 
-#### Article  1. The head paragraph of article 76 of the Temporary Constitutional Provisions Act shall henceforth read as follows:
+#### Article  1.
+The head paragraph of article 76 of the Temporary Constitutional Provisions Act shall henceforth read as follows:
 
 'Article 76. Twenty percent of the proceeds from the collection by the Union of taxes, social contributions, and contributions for intervention in the economic domain, already instituted or that may be instituted by December 31, 2011, as well as their additional  taxes  and  respective  legal  increases,  shall  not  be earmarked to any agency, fund, or expense in the said period.
 
 ................................................................................................ '
 
-#### Article 2. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, December 20, 2007.
 
@@ -12675,11 +13122,13 @@ Adds an article to the Temporary Constitutional Provisions Act with a view to co
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, enact the following Amendment to the constitutional text:
 
-#### Article 1. The Temporary Constitutional Provisions Act shall henceforth include the following Article 96:
+#### Article 1.
+The Temporary Constitutional Provisions Act shall henceforth include the following Article 96:
 
 'Article 96. Acts aimed at the establishment, fusion, merger, and dismemberment of municipalities, whose act of creation was published on or before December 31, 2006, are hereby confirmed,  provided  that  the  requirements  set  forth  in  the legislation of the respective state at the time of establishment of said municipalities have been fulfilled.'
 
-#### Article 2. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, December 18, 2008.
 
@@ -12707,7 +13156,8 @@ Alters  the  wording  of  item  IV  of  the  head paragraph of article 29 and th
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, enact the following Amendment to the constitutional text:
 
-#### Article 1. Item IV of the head paragraph of article 29 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Item IV of the head paragraph of article 29 of the Federal Constitution shall henceforth read as follows:
 
 'Article 29 ...............................................................................
 
@@ -12781,7 +13231,8 @@ Constitution of the Federative Republic of Brazil
 
 ................................................................................................ '
 
-#### Article  2. Article  29-A  of  the  Federal  Constitution  shall  henceforth  read  as follows:
+#### Article  2.
+Article  29-A  of  the  Federal  Constitution  shall  henceforth  read  as follows:
 
 'Article 29-A ...........................................................................
 
@@ -12799,7 +13250,8 @@ Constitution of the Federative Republic of Brazil
 
 ................................................................................................ '
 
-#### Article 3. This Constitutional Amendment shall come into force on the date of its publication, as follows:
+#### Article 3.
+This Constitutional Amendment shall come into force on the date of its publication, as follows:
 
 - I - the provisions of Article 1 shall be effective as from the 2008 elections; and
 
@@ -12835,7 +13287,8 @@ Adds Paragragh 3 to Article 76 of the Temporary Constitutional Provisions Act, i
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, enact the following Amendment to the constitutional text:
 
-#### Article 1. Items I and VII of Article 208 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Items I and VII of Article 208 of the Federal Constitution shall henceforth read as follows:
 
 'Article 208. ............................................................................
 
@@ -12845,7 +13298,8 @@ I  -  mandatory  basic  education,  free  of  charge,  for  every individual  fr
 
 VII - assistance to students in all grades of basic education, by  means  of  supplementary  programmes  providing  school materials, transportation, food, and health care.'
 
-#### Article 2. Paragraph 4 of Article 211 of the Federal Constitution shall henceforth read as follows:
+#### Article 2.
+Paragraph 4 of Article 211 of the Federal Constitution shall henceforth read as follows:
 
 'Article 211. . ............................................................................
 
@@ -12861,7 +13315,8 @@ Constitutional Amendments
 
 [[START OF PAGE 365]]
 
-#### Article 3. Paragraph 3 of Article 212 of the Federal Constitution shall henceforth read as follows:
+#### Article 3.
+Paragraph 3 of Article 212 of the Federal Constitution shall henceforth read as follows:
 
 'Article 212. ............................................................................
 
@@ -12869,7 +13324,8 @@ Constitutional Amendments
 
 Paragraph 3. In the distribution of public funds, priority shall be given to the providing for the needs of compulsory education, as regards universalization, assurance of quality standards, and equality, as set forth in the national education plan.'
 
-#### Article 4. The head paragraph of article 214 of the  Federal Constitution shall henceforth read as follows, and shall include item VI:
+#### Article 4.
+The head paragraph of article 214 of the  Federal Constitution shall henceforth read as follows, and shall include item VI:
 
 'Article  214.  The  law  shall  establish  a  ten-year  national education plan, with a view to organizing the national education system with the cooperation of states and municipalities, as well as  to  defining  implementation  directives,  objectives,  targets, and strategies so as to ensure maintenance and development of teaching, at its various levels, grades, and modalities, by means of integrated federal, state, and municipal government actions leading to
 
@@ -12877,7 +13333,8 @@ Paragraph 3. In the distribution of public funds, priority shall be given to the
 
 VI - stipulation of an amount of public funds to be invested in education as a proportion of the gross domestic product.'
 
-#### Article 5. Article 76 of the Temporary Constitutional Provisions Act shall henceforth include the following Paragraph 3:
+#### Article 5.
+Article 76 of the Temporary Constitutional Provisions Act shall henceforth include the following Paragraph 3:
 
 'Article 76. ..............................................................................
 
@@ -12885,9 +13342,11 @@ VI - stipulation of an amount of public funds to be invested in education as a p
 
 Paragraph  3.  For  purposes  of  calculating  the  funds  for maintenance and development of education referred to in Article 212 of the Constitution, the percentage mentioned in the head paragraph of this article shall be 12.5% (twelve and five tenths percent) in fiscal year 2009, 5% (five percent) in fiscal year 2010, and zero in fiscal year 2011.'
 
-#### Article 6. The provisions of item I of Article 208 of the Federal Constitution shall be progressively implemented through the year 2016, under the terms of the National Education Plan, with technical and financial support from the Federal Government.
+#### Article 6.
+The provisions of item I of Article 208 of the Federal Constitution shall be progressively implemented through the year 2016, under the terms of the National Education Plan, with technical and financial support from the Federal Government.
 
-#### Article 7. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 7.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, November 11, 2009.
 
@@ -12921,7 +13380,8 @@ Alters Article 89 of the Temporary Constitutional Provisions Act to provide for 
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, enact the following Amendment to the constitutional text:
 
-#### Article 1. Article 89 of the Temporary Constitutional Provisions Act shall henceforth read as follows, whereas the payment, on any account, resulting from such alteration, of reimbursements or compensation of any nature regarding periods of time preceding the date of publication of this Constitutional Amendment shall be forbidden:
+#### Article 1.
+Article 89 of the Temporary Constitutional Provisions Act shall henceforth read as follows, whereas the payment, on any account, resulting from such alteration, of reimbursements or compensation of any nature regarding periods of time preceding the date of publication of this Constitutional Amendment shall be forbidden:
 
 'Article 89. The members of the uniformed police force and local administration employees of the former Federal Territory of Rondônia, who, in accordance with official documents, were regularly exercising their functions and rendering services to such former Territory at the time it was transformed into a State, as well as the employees and uniformed police officers covered by the provisions of article 36 of Supplementary Law no. 41, December 22, 1981, and those who were legally included in the Rondônia State Government personnel up until March 15, 1987, that is, the date the first elected governor took office, shall be included, at their option, in a special job class to be eventually terminated within the federal government services, being ensured of their specific rights and advantages, whereas the payment, under any circumstances, of remuneration differences shall be forbidden.
 
@@ -12929,7 +13389,8 @@ Paragraph 1. The members of the uniformed police force shall continue rendering 
 
 Paragraph 2. The employees referred to in the head paragraph shall continue rendering services to the State of Rondônia, in the quality of detailed personnel, up until they are placed in a federal  government entity,  associate  government  agency,  or foundation.'
 
-#### Article 2. This Constitutional Amendment shall come into force on the date of its publication, any kind of retroactive effects being forbidden.
+#### Article 2.
+This Constitutional Amendment shall come into force on the date of its publication, any kind of retroactive effects being forbidden.
 
 Brasília, November 11, 2009.
 
@@ -12961,7 +13422,8 @@ Alters Article 103-B of the Federal Constitution, to modify the membership of th
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, enact the following Amendment to the constitutional text:
 
-#### Article  1. Article  103-B  of  the  Federal  Constitution  shall  henceforth  read  as follows:
+#### Article  1.
+Article  103-B  of  the  Federal  Constitution  shall  henceforth  read  as follows:
 
 'Article 103-B. The National Council of Justice is composed of 15 (fifteen) members appointed for a two-year term of office, one reappointment being permitted, as follows:
 
@@ -12975,7 +13437,8 @@ Paragraph 2. The other members of the Council shall be appointed by the Presiden
 
 ................................................................................................ '
 
-#### Article 2. This Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Amendment shall come into force on the date of its publication.
 
 Brasília, November 11, 2009.
 
@@ -12999,7 +13462,8 @@ Alters Article 100 of the Federal Constitution and adds Article 97 to the Tempor
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, enact the following Amendment to the constitutional text:
 
-#### Article 1. Article 100 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Article 100 of the Federal Constitution shall henceforth read as follows:
 
 'Article 100. Payments owed by the federal, state, Federal District, or municipal treasuries, by virtue of a court decision, shall be made exclusively in chronological order of submission of court orders and charged to the respective credits, it being forbidden to designate cases or persons in the budgetary appropriations and in the additional credits opened for such purpose.
 
@@ -13051,7 +13515,8 @@ Paragraph 15. Without prejudice to the provisions of this article, a supplementa
 
 Paragraph  16.  The  Federal  Government  may,  at  its  own discretion and under the terms of relevant law, take on debts resulting from court orders issued against a State, the Federal District, or a Municipality, and refinance them directly.'
 
-#### Article 2. The Temporary Constitutional Provisions Act shall henceforth include the following Article 97:
+#### Article 2.
+The Temporary Constitutional Provisions Act shall henceforth include the following Article 97:
 
 'Article  97.  Up  until  the  supplementary  law  referred  to  in Paragraph 15 of Article 100 of the Federal Constitution is enacted,  the  States,  the  Federal  District,  and  Municipalities which, on the date of enactment of Constitutional Amendment no.  62,  have  not  yet  effected  payment  of  past  due  courtordered debts regarding their respective direct and indirect administration, including court orders issued during the period the  special  regime  instituted  by  this  article  is  in  force,  shall effect such payments in accordance with the rules set forth in this article, whereas the provisions of Article 100 of this Federal Constitution shall not be applicable, save for its Paragraphs 2, 3, 9, 10, 11, 12, 13, and 14, and without prejudice to conciliation agreements already formalized by the date of publication of Constitutional Amendment no. 62.
 
@@ -13191,9 +13656,11 @@ Paragraph 17. While the special regime is in force, any amount in excess of the 
 
 Paragraph 18. While the special regime referred to in this article is in effect, the original holders of court orders who have reached the age of 60 (sixty) years old by the date of enactment of Constitutional Amendment no. 62 shall also be entitled to the priority referred to in Paragraph 6.'
 
-#### Article 3. The payment regime created by Article 97 of the Temporary Constitutional Provisions Act shall be implemented within 90 (ninety days) as from the date of enactment of this Constitutional Amendment no. 62.
+#### Article 3.
+The payment regime created by Article 97 of the Temporary Constitutional Provisions Act shall be implemented within 90 (ninety days) as from the date of enactment of this Constitutional Amendment no. 62.
 
-#### Article 4. A federating unit shall obey only the provisions of Article 100 of the Federal Constitution:
+#### Article 4.
+A federating unit shall obey only the provisions of Article 100 of the Federal Constitution:
 
 I - in the case of option for the system set forth in Item I of Paragraph 1 of Article 97 of the Temporary Constitutional Provisions Act, should the amount of court-ordered debts be lower than the amount of funds earmarked to pay them;
 
@@ -13207,11 +13674,14 @@ Constitution of the Federative Republic of Brazil
 
 II - in the case of option for the system set forth in Item II of Paragraph 1 of Article 97 of the Temporary Constitutional Provisions Act, upon expiration of relevant period.
 
-#### Article 5. Any assignment of court order credits effected before the enactment of this Constitutional Amendment no. 62, irrespective of consent by the federating unit in debt, is hereby confirmed.
+#### Article 5.
+Any assignment of court order credits effected before the enactment of this Constitutional Amendment no. 62, irrespective of consent by the federating unit in debt, is hereby confirmed.
 
-#### Article 6. Any offsetting of court-ordered debt payments against taxes owed to a debtor federating unit and due up to October 31, 2009, effected under the terms of Paragraph 2 of Article 78 of the Temporary Constitutional Provisions Act, and before the enactment of this Constitutional Amendment no. 62, is hereby confirmed.
+#### Article 6.
+Any offsetting of court-ordered debt payments against taxes owed to a debtor federating unit and due up to October 31, 2009, effected under the terms of Paragraph 2 of Article 78 of the Temporary Constitutional Provisions Act, and before the enactment of this Constitutional Amendment no. 62, is hereby confirmed.
 
-#### Article 7. This Constitutional Amendment shall come into force on the date of its publication.
+#### Article 7.
+This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, December 9, 2009.
 
@@ -13235,7 +13705,8 @@ Alters Paragraph 5 of Article 198 of the Federal Constitution,  to  provide  for
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, enact the following Amendment to the constitutional text:
 
-#### Article 1. Paragraph 5 of Article 198 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Paragraph 5 of Article 198 of the Federal Constitution shall henceforth read as follows:
 
 'Article 198. ............................................................................
 
@@ -13245,7 +13716,8 @@ Paragraph 5. Federal legislation shall  provide  for  the  legal regime,  a  nat
 
 ................................................................................................ '
 
-#### Article 2. This Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Amendment shall come into force on the date of its publication.
 
 Brasília, February 4, 2010.
 
@@ -13269,11 +13741,13 @@ Changes the wording of Article 6 of the Federal Constitution, to include food as
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, enact the following Amendment to the constitutional text:
 
-#### Article 1. Article 6 of the Federal Constitution shall henceforth read as follows:
+#### Article 1.
+Article 6 of the Federal Constitution shall henceforth read as follows:
 
 'Article  6.  Education,  health,  food,  work,  housing,  leisure, security, social security, protection of motherhood and childhood, and assistance to the destitute are social rights, as set forth by this Constitution.'
 
-#### Article 2. This Amendment shall come into force on the date of its publication.
+#### Article 2.
+This Amendment shall come into force on the date of its publication.
 
 Brasília, February 4, 2010.
 
@@ -13309,11 +13783,13 @@ To  approve  the  text  of  the  Convention  on  the Rights  of  Persons  with  
 
 The National Congress decrees the following:
 
-#### Article 1. The text of the Convention on the Rights of Persons with Disabilities and of its Optional Protocol, signed in New York on March 30, 2007, is hereby approved, under the terms of paragraph 3 of Article 5 of the Federal Constitution.
+#### Article 1.
+The text of the Convention on the Rights of Persons with Disabilities and of its Optional Protocol, signed in New York on March 30, 2007, is hereby approved, under the terms of paragraph 3 of Article 5 of the Federal Constitution.
 
-#### Sole paragraph. Any acts that alter  the  above-mentioned Convention and its Optional Protocol, as well as any other complementary adjustments that, under the terms of item I of the head paragraph of article 49 of the Federal Constitution, entail charges or commitments encumbering the national property, are subject to approval by the National Congress.
+Sole paragraph. Any acts that alter  the  above-mentioned Convention and its Optional Protocol, as well as any other complementary adjustments that, under the terms of item I of the head paragraph of article 49 of the Federal Constitution, entail charges or commitments encumbering the national property, are subject to approval by the National Congress.
 
-#### Article  2. This  Legislative  Decree  shall  come  into  force  on  the  date  of  its publication.
+#### Article  2.
+This  Legislative  Decree  shall  come  into  force  on  the  date  of  its publication.
 
 Federal Senate, July 9, 2008.
 
@@ -13407,7 +13883,7 @@ Have agreed as follows:
 
 #### Article 1
 
-###### Purpose
+##### Purpose
 
 The purpose of the present Convention is to promote, protect and ensure the full and equal enjoyment of all human rights and fundamental freedoms by all persons with disabilities, and to promote respect for their inherent dignity.
 
@@ -13415,7 +13891,7 @@ Persons  with  disabilities  include  those  who  have  long-term  physical,  me
 
 #### Article 2
 
-###### Definitions
+##### Definitions
 
 For the purposes of the present Convention:
 
@@ -13439,7 +13915,7 @@ Constitution of the Federative Republic of Brazil
 
 #### Article 3
 
-###### General principles
+##### General principles
 
 The principles of the present Convention shall be:
 
@@ -13461,7 +13937,7 @@ The principles of the present Convention shall be:
 
 #### Article 4
 
-###### General obligations
+##### General obligations
 
 - States Parties undertake to ensure and promote the full realization of all human rights and fundamental freedoms for all persons with disabilities without discrimination of any kind on the basis of disability. To this end, States Parties undertake:
 
@@ -13509,7 +13985,7 @@ Constitution of the Federative Republic of Brazil
 
 #### Article 5
 
-###### Equality and non-discrimination
+##### Equality and non-discrimination
 
 - States Parties recognize that all persons are equal before and under the law and are entitled without any discrimination to the equal protection and equal benefit of the law.
 
@@ -13521,7 +13997,7 @@ Constitution of the Federative Republic of Brazil
 
 #### Article 6
 
-###### Women with disabilities
+##### Women with disabilities
 
 - States Parties recognize that women and girls with disabilities are subject to multiple discrimination, and in this regard shall take measures to ensure the full and equal enjoyment by them of all human rights and fundamental freedoms.
 
@@ -13529,7 +14005,7 @@ Constitution of the Federative Republic of Brazil
 
 #### Article 7
 
-###### Children with disabilities
+##### Children with disabilities
 
 - States Parties shall take all necessary measures to ensure the full enjoyment by children with disabilities of all human rights and fundamental freedoms on an equal basis with other children.
 
@@ -13549,7 +14025,7 @@ in accordance with their age and maturity, on an equal basis with other children
 
 #### Article 8
 
-###### Awareness-raising
+##### Awareness-raising
 
 1. States Parties undertake to adopt immediate, effective and appropriate measures:
 
@@ -13577,7 +14053,7 @@ d.  Promoting awareness-training programmes regarding persons with disabilities 
 
 #### Article 9
 
-###### Accessibility
+##### Accessibility
 
 1. To enable persons with disabilities to live independently and participate fully in all aspects of life, States Parties shall take appropriate measures to ensure to persons with disabilities access, on an equal basis with others, to the physical environment, to  transportation,  to  information  and  communications, including information and communications technologies and systems, and to other facilities and services open or provided to the public, both in urban and in rural areas. These measures, which shall include the identification and elimination of obstacles and barriers to accessibility, shall apply to, inter alia:
 
@@ -13613,13 +14089,13 @@ Constitution of the Federative Republic of Brazil
 
 #### Article 10
 
-###### Right to life
+##### Right to life
 
 States  Parties  reaffirm  that  every  human  being  has  the  inherent  right  to  life  and shall take all necessary measures to ensure its effective enjoyment by persons with disabilities on an equal basis with others.
 
 #### Article 11
 
-###### Situations of risk and humanitarian emergencies
+##### Situations of risk and humanitarian emergencies
 
 States  Parties  shall  take,  in  accordance  with  their  obligations  under  international law, including international humanitarian law and international human rights law, all necessary measures to ensure the protection and safety of persons with disabilities in situations of risk, including situations of armed conflict, humanitarian emergencies and the occurrence of natural disasters.
 
@@ -13633,7 +14109,7 @@ International Acts
 
 #### Article 12
 
-###### Equal recognition before the law
+##### Equal recognition before the law
 
 1. States Parties reaffirm that persons with disabilities have the right to recognition everywhere as persons before the law.
 
@@ -13647,7 +14123,7 @@ International Acts
 
 #### Article 13
 
-###### Access to justice
+##### Access to justice
 
 1. States Parties shall ensure effective access to justice for persons with disabilities on an equal basis with others, including through the provision of procedural and age-appropriate accommodations, in order to facilitate their effective role as direct and indirect participants, including as witnesses, in all legal proceedings, including at investigative and other preliminary stages.
 
@@ -13655,7 +14131,7 @@ International Acts
 
 #### Article 14
 
-###### Liberty and security of the person
+##### Liberty and security of the person
 
 1. States Parties shall ensure that persons with disabilities, on an equal basis with others:
 
@@ -13675,7 +14151,7 @@ Constitution of the Federative Republic of Brazil
 
 #### Article 15
 
-###### Freedom from torture or cruel, inhuman or degrading treatment or punishment
+##### Freedom from torture or cruel, inhuman or degrading treatment or punishment
 
 - No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment. In particular, no one shall be subjected without his or her free consent to medical or scientific experimentation.
 
@@ -13683,7 +14159,7 @@ Constitution of the Federative Republic of Brazil
 
 #### Article 16
 
-###### Freedom from exploitation, violence and abuse
+##### Freedom from exploitation, violence and abuse
 
 - States Parties shall take all appropriate legislative, administrative, social, educational and other measures to protect persons with disabilities, both within and outside the home, from all forms of exploitation, violence and abuse, including their genderbased aspects.
 
@@ -13707,13 +14183,13 @@ violence and abuse against persons with disabilities are identified, investigate
 
 #### Article 17
 
-###### Protecting the integrity of the person
+##### Protecting the integrity of the person
 
 Every person with disabilities has a right to respect for his or her physical and mental integrity on an equal basis with others.
 
 #### Article 18
 
-###### Liberty of movement and nationality
+##### Liberty of movement and nationality
 
 - States Parties shall recognize the rights of persons with disabilities to liberty of movement, to freedom to choose their residence and to a nationality, on an equal basis with others, including by ensuring that persons with disabilities:
 
@@ -13729,7 +14205,7 @@ Every person with disabilities has a right to respect for his or her physical an
 
 #### Article 19
 
-###### Living independently and being included in the community
+##### Living independently and being included in the community
 
 States  Parties  to  this  Convention  recognize  the  equal  right  of  all  persons  with disabilities to live in the community, with choices equal to others, and shall take effective  and  appropriate  measures  to  facilitate  full  enjoyment  by  persons  with disabilities of this right and their full inclusion and participation in the community, including by ensuring that:
 
@@ -13751,7 +14227,7 @@ living and inclusion in the community, and to prevent isolation or segregation f
 
 #### Article 20
 
-###### Personal mobility
+##### Personal mobility
 
 States Parties shall take effective measures to ensure personal mobility with the greatest possible independence for persons with disabilities, including by:
 
@@ -13765,7 +14241,7 @@ States Parties shall take effective measures to ensure personal mobility with th
 
 #### Article 21
 
-###### Freedom of expression and opinion, and access to information
+##### Freedom of expression and opinion, and access to information
 
 States Parties shall take all appropriate measures to ensure that persons with disabilities can exercise the right to freedom of expression and opinion, including the freedom to seek, receive and impart information and ideas on an equal basis with others and through all forms of communication of their choice, as defined in article 2 of the present Convention, including by:
 
@@ -13789,7 +14265,7 @@ International Acts
 
 #### Article 22
 
-###### Respect for privacy
+##### Respect for privacy
 
 1. No person with disabilities, regardless of place of residence or living arrangements, shall be subjected to arbitrary or unlawful interference with his or her privacy, family, home or correspondence or other types of communication or to unlawful attacks on his or her honour and reputation. Persons with disabilities have the right to the protection of the law against such interference or attacks.
 
@@ -13797,7 +14273,7 @@ International Acts
 
 #### Article 23
 
-###### Respect for home and the family
+##### Respect for home and the family
 
 1. States Parties shall take effective and appropriate measures to eliminate discrimination against persons with disabilities in all matters relating to marriage, family, parenthood and relationships, on an equal basis with others, so as to ensure that:
 
@@ -13825,7 +14301,7 @@ Constitution of the Federative Republic of Brazil
 
 #### Article 24
 
-###### Education
+##### Education
 
 - States Parties recognize the right of persons with disabilities to education. With a view to realizing this right without discrimination and on the basis of equal opportunity, States Parties shall ensure an inclusive education system at all levels and life long learning directed to:
 
@@ -13869,7 +14345,7 @@ c.  Ensuring that the education of persons, and in particular children, who are 
 
 #### Article 25
 
-###### Health
+##### Health
 
 States Parties recognize that persons with disabilities have the right to the enjoyment of the highest attainable standard of health without discrimination on the basis of disability. States Parties shall take all appropriate measures to ensure access for persons with disabilities to health services that are gender-sensitive, including health-related rehabilitation. In particular, States Parties shall:
 
@@ -13895,7 +14371,7 @@ f.  Prevent discriminatory denial of health care or health services or food and 
 
 #### Article 26
 
-###### Habilitation and rehabilitation
+##### Habilitation and rehabilitation
 
 1.  States  Parties  shall  take  effective  and  appropriate  measures,  including  through peer support, to enable persons with disabilities to attain and maintain maximum independence, full physical, mental, social and vocational ability, and full inclusion and participation in all aspects of life. To that end, States Parties shall organize, strengthen and extend comprehensive habilitation and rehabilitation services and programmes, particularly in the areas of health, employment, education and social services, in such a way that these services and programmes:
 
@@ -13909,7 +14385,7 @@ b.  Support participation and inclusion in the community and all aspects of soci
 
 #### Article 27
 
-###### Work and employment
+##### Work and employment
 
 1. States Parties recognize the right of persons with disabilities to work, on an equal basis with others; this includes the right to the opportunity to gain a living by work freely chosen or accepted in a labour market and work environment that is open, inclusive and accessible to persons with disabilities. States Parties shall safeguard and promote the realization of the right to work, including for those who acquire a disability during the course of employment, by taking appropriate steps, including through legislation, to, inter alia:
 
@@ -13947,7 +14423,7 @@ g.  Employ persons with disabilities in the public sector;
 
 #### Article 28
 
-###### Adequate standard of living and social protection
+##### Adequate standard of living and social protection
 
 1. States Parties recognize the right of persons with disabilities to an adequate standard of living for themselves and their families, including adequate food, clothing and housing, and to the continuous improvement of living conditions, and shall take appropriate steps to safeguard and promote the realization of this right without discrimination on the basis of disability.
 
@@ -13973,7 +14449,7 @@ e.  To  ensure  equal  access  by  persons  with  disabilities  to  retirement  
 
 #### Article 29
 
-###### Participation in political and public life
+##### Participation in political and public life
 
 States  Parties  shall  guarantee  to  persons  with  disabilities  political  rights  and  the opportunity to enjoy them on an equal basis with others, and shall undertake to:
 
@@ -14001,7 +14477,7 @@ International Acts
 
 #### Article 30
 
-###### Participation in cultural life, recreation, leisure and sport
+##### Participation in cultural life, recreation, leisure and sport
 
 - States Parties recognize the right of persons with disabilities to take part on an equal basis with others in cultural life, and shall take all appropriate measures to ensure that persons with disabilities:
 
@@ -14039,7 +14515,7 @@ Constitution of the Federative Republic of Brazil
 
 #### Article 31
 
-###### Statistics and data collection
+##### Statistics and data collection
 
 - States Parties undertake to collect appropriate information, including statistical and research data, to enable them to formulate and implement policies to give effect to the present Convention. The process of collecting and maintaining this information shall:
 
@@ -14053,7 +14529,7 @@ Constitution of the Federative Republic of Brazil
 
 #### Article 32
 
-###### International cooperation
+##### International cooperation
 
 - States  Parties  recognize  the  importance  of  international  cooperation  and  its promotion, in support of national efforts for the realization  of  the  purpose  and objectives of the present Convention, and will undertake appropriate and effective measures in this regard, between and among States and, as appropriate, in partnership with relevant international and regional organizations and civil society, in particular organizations of persons with disabilities. Such measures could include, inter alia:
 
@@ -14077,7 +14553,7 @@ International Acts
 
 #### Article 33
 
-###### National implementation and monitoring
+##### National implementation and monitoring
 
 1. States Parties, in accordance with their system of organization, shall designate one or more focal points within government for matters relating to the implementation of the present Convention, and shall give due consideration to the establishment or designation of a coordination mechanism within government to facilitate related action in different sectors and at different levels.
 
@@ -14087,7 +14563,7 @@ International Acts
 
 #### Article 34
 
-###### Committee on the Rights of Persons with Disabilities
+##### Committee on the Rights of Persons with Disabilities
 
 - There shall be established a Committee on the Rights of Persons with Disabilities (hereafter  referred  to  as  'the  Committee'),  which  shall  carry  out  the  functions hereinafter provided.
 
@@ -14125,7 +14601,7 @@ Constitution of the Federative Republic of Brazil
 
 #### Article 35
 
-###### Reports by States Parties
+##### Reports by States Parties
 
 - Each State Party shall submit to the Committee, through the Secretary-General of the United Nations, a comprehensive report on measures taken to give effect to its obligations under the present Convention and on the progress made in that regard, within two years after the entry into force of the present Convention for the State Party concerned.
 
@@ -14147,7 +14623,7 @@ International Acts
 
 #### Article 36
 
-###### Consideration of reports
+##### Consideration of reports
 
 1.  Each  report  shall  be  considered  by  the  Committee,  which  shall  make  such suggestions and general recommendations on the report as it may consider appropriate and shall forward these to the State Party concerned. The State Party may respond with any information it chooses to the Committee. The Committee may request further information from States Parties relevant to the implementation of the present Convention.
 
@@ -14161,7 +14637,7 @@ International Acts
 
 #### Article 37
 
-###### Cooperation between States Parties and the Committee
+##### Cooperation between States Parties and the Committee
 
 1. Each State Party shall cooperate with the Committee and assist its members in the fulfilment of their mandate.
 
@@ -14177,7 +14653,7 @@ Constitution of the Federative Republic of Brazil
 
 #### Article 38
 
-###### Relationship of the Committee with other bodies
+##### Relationship of the Committee with other bodies
 
 In  order  to  foster  the  effective  implementation  of  the  present Convention  and  to encourage international cooperation in the field covered by the present Convention:
 
@@ -14187,13 +14663,13 @@ b.  The Committee, as it discharges its mandate, shall consult, as appropriate, 
 
 #### Article 39
 
-###### Report of the Committee
+##### Report of the Committee
 
 The Committee shall report every two years to the General Assembly and to the Economic and Social Council on its activities, and may make suggestions and general  recommendations based on the examination of reports and information received from the States Parties. Such suggestions and general recommendations shall be included in the report of the Committee together with comments, if any, from States Parties.
 
 #### Article 40
 
-###### Conference of States Parties
+##### Conference of States Parties
 
 1. The States Parties shall meet regularly in a Conference of States Parties in order to consider any matter with regard to the implementation of the present Convention.
 
@@ -14209,25 +14685,25 @@ International Acts
 
 #### Article 41
 
-###### Depositary
+##### Depositary
 
 The Secretary-General of the United Nations shall be the depositary of the present Convention.
 
 #### Article 42
 
-###### Signature
+##### Signature
 
 The present Convention shall be open for signature by all States and by regional integration  organizations  at  United  Nations  Headquarters  in  New York  as  of  30 March 2007.
 
 #### Article 43
 
-###### Consent to be bound
+##### Consent to be bound
 
 The present Convention shall be subject to ratification by signatory States and to formal confirmation by signatory regional integration organizations. It shall be open for accession by any State or regional integration organization which has not signed the Convention.
 
 #### Article 44
 
-###### Regional integration organizations
+##### Regional integration organizations
 
 1.  'Regional integration organization' shall mean an organization constituted by sovereign States of a given region, to which its member States have transferred competence in respect of matters governed by this Convention. Such organizations shall declare, in their instruments of formal confirmation or accession, the extent of their competence with respect to matters governed by this Convention. Subsequently, they shall inform the depositary of any substantial modification in the extent of their competence.
 
@@ -14239,7 +14715,7 @@ The present Convention shall be subject to ratification by signatory States and 
 
 #### Article 45
 
-###### Entry into force
+##### Entry into force
 
 - The present Convention shall enter into force on the thirtieth day after the deposit of the twentieth instrument of ratification or accession.
 
@@ -14255,7 +14731,7 @@ Constitution of the Federative Republic of Brazil
 
 #### Article 46
 
-###### Reservations
+##### Reservations
 
 - Reservations incompatible with the object and purpose of the present Convention shall not be permitted.
 
@@ -14263,7 +14739,7 @@ Constitution of the Federative Republic of Brazil
 
 #### Article 47
 
-###### Amendments
+##### Amendments
 
 1. Any State Party may propose an amendment to the present Convention and submit it  to  the  Secretary-General  of  the  United  Nations. The  Secretary-General  shall communicate any proposed amendments to States Parties, with a request to be notified whether they favour a conference of States Parties for the purpose of considering and deciding upon the proposals. In the event that, within four months from the date of such communication, at least one third of the States Parties favour such a conference, the Secretary-General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of two thirds of the States Parties present  and  voting  shall  be  submitted  by  the  Secretary-General  to  the  General Assembly for approval and thereafter to all States Parties for acceptance.
 
@@ -14273,7 +14749,7 @@ Constitution of the Federative Republic of Brazil
 
 #### Article 48
 
-###### Denunciation
+##### Denunciation
 
 A State Party may denounce the present Convention by written notification to the Secretary-General of the United Nations. The denunciation shall become effective one year after the date of receipt of the notification by the Secretary-General.
 
@@ -14287,13 +14763,13 @@ International Acts
 
 #### Article 49
 
-###### Accessible format
+##### Accessible format
 
 The text of the present Convention shall be made available in accessible formats.
 
 #### Article 50
 
-###### Authentic texts
+##### Authentic texts
 
 The Arabic, Chinese, English, French, Russian and Spanish texts of the present Convention shall be equally authentic.
 
@@ -14482,8 +14958,7 @@ Articles 71, 72 and 73, with the following wording, are hereby added to the Temp
 
 'Article 71. The Emergency Social Fund is hereby instituted for the fiscal years of 1994 and 1995, aiming at the financial recuperation of the Federal Public Finances and the economic stabilization,  the  resources  of  which  shall  be  applied  to  the actions of the health and education systems, the welfare benefits and welfare assistance  of  permanent  nature,  including  the payment of welfare debts, as well as other programs of great social and economic interest.
 
-#### Sole paragraph.
-The provision of the final part of item II of paragraph 9 of article 165 of the Constitution shall not apply, in the 1994 fiscal year, to the the Fund established by this article.
+Sole paragraph. The provision of the final part of item II of paragraph 9 of article 165 of the Constitution shall not apply, in the 1994 fiscal year, to the the Fund established by this article.
 
 Article 72. The Emergency Social Fund is comprised of:
 
