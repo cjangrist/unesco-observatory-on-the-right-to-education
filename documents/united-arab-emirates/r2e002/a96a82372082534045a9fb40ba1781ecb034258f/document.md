@@ -22,7 +22,7 @@ Resolved:
 
 ## Article One
 
-The  word  ' Temporary ' is canceled from  the  United
+The word “Temporary” is canceled from the United
 
 Arab Emirates Constitution wherever it is.
 
@@ -42,7 +42,8 @@ This  constitutional  amendment  shall  be  applicable  as  of
 
 the  date  of  issuance  there  of  and  be  published  in  the  official gazette.
 
-Zayed Bin Sultan Al -Nhayan President of United Arab Emirates
+Zayed Bin Sultan Al-Nhayan
+President of United Arab Emirates
 
 Issued by us at the
 
@@ -58,13 +59,17 @@ Corresponding to: 2 Dec. 1996
 
 [[START OF PAGE 3]]
 
+# CONSTITUTION OF THE UNITED ARAB EMIRATES.
+
+## INDEX
+
 Preamble
 
 Part One: The Union, its fundamental constituents and aims.
 
 Article 1 - Article 12
 
-Part Two: The Fundamental social and economic basis of the nion.
+Part Two: The Fundamental social and economic basis of the Union.
 
 Article 13 - Article 24
 
@@ -96,10 +101,6 @@ Section I: General Provisions.
 
 Article 68 - Article 77
 
-# CONSTITUTION OF THE UNITED ARAB EMIRATES.
-
-## INDEX
-
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
@@ -108,7 +109,7 @@ Section II: Organisation of work in the National Assembly of the Union.
 
 Article 78 - Article 88
 
-Section Ill: Powers of the National Assembly of the Union.
+Section III: Powers of the National Assembly of the Union.
 
 Article 89 - Article 93
 
@@ -160,7 +161,7 @@ Article 144 - Article 152
 
 # THE PROVISIONAL CONSTITUTION OF THE UNITED ARAB EMIRATES
 
-We ,  the  Rulers  of  the  Emirates  of  Abu  Dhabi, Dubai, Sharjah, Ajman, Umm AI Quwain and Fujairah  (1):
+We, the Rulers of the Emirates of Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain and Fujairah (1):
 
 Whereas it is our desire and the desire of the people of our Emirates to establish a Union between these Emirates, to promote  a  better  life,  more  enduring  stability  and  a  higher international status for the Emirates and their people;
 
@@ -188,11 +189,11 @@ May Allah, our Protector and Defender, grant us success.
 
 The  United  Arab  Emirates  is  an  independent,  sovereign, federal  state  and  is  referred  to  hereafter  in  this  Constitution  as the Union.  The Union shall consist of the following Emirates:-
 
-Abu Dhabi - Dubai - Sharjah - Ajman - Umm AI Quwain  Fujairah - Ras AI  - Khaimah.  (*1).
+Abu Dhabi - Dubai - Sharjah - Ajman - Umm Al Quwain - Fujairah - Ras Al - Khaimah. (*1).
 
 Any  other  independent  Arab  country  may  join  the  Union, provided that the Supreme Council agrees unanimously to this.
 
-(*  1)    The  original  signatories  of  the  Constitution  did  not  include  Ras  AI Khaimah, which  adhered  to  the  Union  on  10  February,  1962.    A  new  paragraph was  added  by  a  Declaration  of  Constitutional  Amendment  No.  1  (1972)  which reads as follows:-
+(* 1) The original signatories of the Constitution did not include Ras Al Khaimah, which adhered to the Union on 10 February, 1962. A new paragraph was added by a Declaration of Constitutional Amendment No. 1 (1972) which reads as follows:-
 
 > In  the  event  of  the  acceptance  of  a  new  member  joining  the  Union, the  Supreme  Council  of  the  Union  shall  determine  the  number  of  seats  which will  be  allocated  to  that  member  in the  National  Assembly  of  the  Union,  being in addition to the number stipulated in Article '68 of this Constitution.
 
@@ -238,7 +239,7 @@ No  citizen of the Union  may  be deprived of his nationality nor may his nation
 
 ##### Article 9
 
-1. The Capital of the Union shall be established in an area allotted to the Union by the Emirates of Abu Dhabi and Dubai on the  borders  between  them  and  it  shall  be  given  the  name  "AI Karama".
+1. The Capital of the Union shall be established in an area allotted to the Union by the Emirates of Abu Dhabi and Dubai on the borders between them and it shall be given the name "Al Karama".
 
 2. There  shall  be  allocated  in  the  Union  budget  for  the first year the amount necessary to cover the expenses of technical studies and planning for the construction of the Capital. However, construction work shall begin as soon as possible and shall be completed in not more than seven years from the date of entry into force of this Constitution.
 
@@ -254,15 +255,15 @@ The aims of the  Union  shall  be  the  maintenance  of  its independence  and  
 
 ##### Article 11
 
-- The Emirates of the Union shall form an economic and customs entity. Union Laws shall regulate the progressive stages appropriate to the achievement of this entity.
+1. The Emirates of the Union shall form an economic and customs entity. Union Laws shall regulate the progressive stages appropriate to the achievement of this entity.
 
-- The free movement of all capital and goods between the Emirates of the Union is guaranteed and may not be restricted except by a Union Law.
+2. The free movement of all capital and goods between the Emirates of the Union is guaranteed and may not be restricted except by a Union Law.
 
-- All taxes, fees, duties and tolls imposed on the movement of goods from one member Emirate to the other shall be abolished.
+3. All taxes, fees, duties and tolls imposed on the movement of goods from one member Emirate to the other shall be abolished.
 
 ##### Article 12
 
-The  foreign  policy of the Union  shall be directed towards  support  for  Arab  and  Islamic  causes  and  interests  and towards  the  consolidation  of  the  bonds  of  friendship  and  cooperation with all nations and  peoples  on  the basis of the principles of the charter of the United Nations and ideal international standards.
+The foreign policy of the Union shall be directed towards support for Arab and Islamic causes and interests and towards the consolidation of the bonds of friendship and co-operation with all nations and peoples on the basis of the principles of the charter of the United Nations and ideal international standards.
 
 ## PART TWO
 
@@ -430,7 +431,7 @@ Payment of taxes and public charges determined by law is a duty of every citizen
 
 ##### Article 43
 
-Defence of the Union is a sacred duty of every citizen and military service s an honour for citizens which shall be regulated by law.
+Defence of the Union is a sacred duty of every citizen and military service is an honour for citizens which shall be regulated by law.
 
 ##### Article 44
 
@@ -444,15 +445,15 @@ Respect  of  the  Constitution.  laws  and  orders  issued  by public  authoriti
 
 The Union authorities shall consist of :-
 
-- The Supreme Council of the Union.
+1. The Supreme Council of the Union.
 
-- The President of the Union and his Deputy.
+2. The President of the Union and his Deputy.
 
-- The Council of Ministers of the Union.
+3. The Council of Ministers of the Union.
 
-- The National Assembly of the Union.
+4. The National Assembly of the Union.
 
-- The Judiciary of the Union.
+5. The Judiciary of the Union.
 
 ### CHAPTER 1 - THE SUPREME COUNCIL OF THE UNION
 
@@ -470,21 +471,21 @@ Each Emirate shall have a single vote in the deliberations of the Council.
 
 The  Supreme  Council  of  the  Union  shall  exercise  the following matters :-
 
-- Formulation of general policy in all matters invested in the Union by this Constitution and consideration of all matters which  leads  to  the  achievement  of  the  goals  of  the  Union and the common interest of the member Emirates.
+1. Formulation of general policy in all matters invested in the Union by this Constitution and consideration of all matters which leads to the achievement of the goals of the Union and the common interest of the member Emirates.
 
-- Sanction  of  various  Union  laws  before  their  promulgation, including  the  Laws  of  the  Annual  General  Budget  and  the Final Accounts.
+2. Sanction of various Union laws before their promulgation, including the Laws of the Annual General Budget and the Final Accounts.
 
-- Sanction  of  decrees  relating  to  matters  which  by  virtue  of the provisions of this Constitution are subject to the ratification  or  agreement  of  the  Supreme  Council.    Such sanction  shall  take  place  before  the  promulgation  of  these decrees by the President of the Union.
+3. Sanction of decrees relating to matters which by virtue of the provisions of this Constitution are subject to the ratification or agreement of the Supreme Council. Such sanction shall take place before the promulgation of these decrees by the President of the Union.
 
-- Ratification of treaties and international agreements.  Such ratification shall be accomplished by decree.
+4. Ratification of treaties and international agreements. Such ratification shall be accomplished by decree.
 
-- Approval of the appointment of the Chairman of the Council  of  Ministers  of  the  Union,  acceptance  of  his resignation  and  his  removal  from  office  upon  a  proposal from the President of the Union.
+5. Approval of the appointment of the Chairman of the Council of Ministers of the Union, acceptance of his resignation and his removal from office upon a proposal from the President of the Union.
 
-- Approval of the appointment of the President and Judges of the Supreme  Court  of  the Union,  acceptance  of their resignations and their dismissal in the circumstances stipulated by this Constitution. Such acts shall be accomplished by decrees.
+6. Approval of the appointment of the President and Judges of the Supreme Court of the Union, acceptance of their resignations and their dismissal in the circumstances stipulated by this Constitution. Such acts shall be accomplished by decrees.
 
-- Supreme Control over the affairs of the Union in general.
+7. Supreme Control over the affairs of the Union in general.
 
-- Any other relevant matters stipulated in this Constitution or in the Union laws.
+8. Any other relevant matters stipulated in this Constitution or in the Union laws.
 
 [[END OF PAGE 16]]
 
@@ -500,7 +501,7 @@ The  Supreme  Council  of  the  Union  shall  exercise  the following matters :-
 
 Decisions of the Supreme Council on substantive matters shall  be  by  a  majority  of  five  of  its  members  provided  that  this majority  includes  the  votes  of  the  Emirates  of  Abu  Dhabi  and Dubai.  The  minority  shall  be  bound  by  the  view  of  the  said majority.
 
-But, decisions of the Council on procedural matters shall be by a majority vote.  Such matters shall be defined in the byelaws of the Council.
+But, decisions of the Council on procedural matters shall be by a majority vote. Such matters shall be defined in the bye-laws of the Council.
 
 ##### Article 50
 
@@ -508,7 +509,7 @@ Sessions  of  the  Supreme  Council  shall  be  held  in  the Union capital.    
 
 ### Chapter II - THE PRESIDENT OF THE UNION AND HIS DEPUTY
 
-##### Article 5 1
+##### Article 51
 
 The Supreme Council of the Union shall elect from among its  members a President and a Vice President of the Union. The Vice President of the Union shall exercise all the powers of the President in the event of his absence for any reason.
 
@@ -522,21 +523,21 @@ The term of office of the President and the Vice President shall be five Gregori
 
 Each of them shall, on assuming office, take the following oath before the Supreme Council
 
-" I swear by Almighty God that I will be faithful to the  United  Arab  Emirates;  that  1  will  respect  its Constitution  and  its  laws;  that  I  will  protect  the interests  of  the  people  of  the  Union;  that  I  will discharge my duties faithfully and loyally and that I will  safeguard  the  independence  of  the  Union  and its territorial integrity."
+" I swear by Almighty God that I will be faithful to the United Arab Emirates; that I will respect its Constitution and its laws; that I will protect the interests of the people of the Union; that I will discharge my duties faithfully and loyally and that I will safeguard the independence of the Union and its territorial integrity."
 
 ##### Article 53
 
 Upon vacancy of the office of the President or his Deputy for death or resignation, or because either one of them ceases to be  Ruler  in  his  Emirate  for  any  reason,  the  Supreme  Council shall be called into session within one month of that date to elect a  successor  to  the  vacant  office  for  the  period  stipulated  in Article 52 of this Constitution.
 
-In  the  event  that  the  two  o ffices  of  the  President  of  the Supreme Council and his Deputy become vacant simultaneously, the Council shall be immediately called into session by any one of its members or by the Chairman of the Council of Ministers of the Union, to elect a new President and Vice President to fill the two vacant offices.
+In the event that the two offices of the President of the Supreme Council and his Deputy become vacant simultaneously, the Council shall be immediately called into session by any one of its members or by the Chairman of the Council of Ministers of the Union, to elect a new President and Vice President to fill the two vacant offices.
 
 ##### Article 54
 
 The President of the Union shall assume the following powers:
 
-- Presiding the Supreme Council and directing its discussions.
+1. Presiding the Supreme Council and directing its discussions.
 
-- Presiding the Supreme Council into session, and terminating its  sessions  according  to  the  rules  of  procedure
+2. Presiding the Supreme Council into session, and terminating its sessions according to the rules of procedure
 
 [[END OF PAGE 18]]
 
@@ -544,29 +545,29 @@ The President of the Union shall assume the following powers:
 
 upon  which  the  Council  shall  decide  its  bye-laws.  It is obligatory  for  him  to  convene  the  Council  for  sessions, whenever one of its members so requested.
 
-- Calling the Supreme Council and the Council of Ministers into joint session whenever necessity demands.
+3. Calling the Supreme Council and the Council of Ministers into joint session whenever necessity demands.
 
-- Signing  Union  laws,  decrees  and  decisions  which  the Supreme Council has sanctioned and promulgating them.
+4. Signing Union laws, decrees and decisions which the Supreme Council has sanctioned and promulgating them.
 
-- Appointing the Prime Minister, accepting his resignation and relieving him of office with the consent of the  Supreme Council.    He  shall  also  appoint  the  Deputy  Prime  Minister and  the  Ministers  and  shall  receive  their  resignations  and relieve them of office in accordance with a proposal from the Prime Minister of the Union.
+5. Appointing the Prime Minister, accepting his resignation and relieving him of office with the consent of the Supreme Council. He shall also appoint the Deputy Prime Minister and the Ministers and shall receive their resignations and relieve them of office in accordance with a proposal from the Prime Minister of the Union.
 
-- Appointing  the  diplomatic  representatives  of  the  Union to  foreign  states  and  other  senior  Union  officials  both  civil and military (with the exception of the President and Judges of  the  Supreme  Court  of  the  Union)  and  accepting  their resignations  and  dismissing  them  with  the  consent  of  the Council  of  Ministers  of  the  Union.    Such  appointments, acceptance of resignations and dismissals shall be accomplished by decrees and in accordance with Union laws.
+6. Appointing the diplomatic representatives of the Union to foreign states and other senior Union officials both civil and military (with the exception of the President and Judges of the Supreme Court of the Union) and accepting their resignations and dismissing them with the consent of the Council of Ministers of the Union. Such appointments, acceptance of resignations and dismissals shall be accomplished by decrees and in accordance with Union laws.
 
-- Signing of letters of credence of diplomatic representatives of the Union to foreign states and organisations and accepting the credentials of diplomatic and consular  representatives  of  foreign  states  to  the  Union  and receiving  their  letters  of  credence.    He  shall  similarly  sign documents of appointment and credence of representatives.
+7. Signing of letters of credence of diplomatic representatives of the Union to foreign states and organisations and accepting the credentials of diplomatic and consular representatives of foreign states to the Union and receiving their letters of credence. He shall similarly sign documents of appointment and credence of representatives.
 
-- Supervising  the  implementation  of  Union  laws,  decrees and decisions through the Council of Ministers of the Union and the competent Ministers.
+8. Supervising the implementation of Union laws, decrees and decisions through the Council of Ministers of the Union and the competent Ministers.
 
-- Representing  the  Union  internally,  vis-a-vis  other  states and in all international relations.
+9. Representing the Union internally, vis-a-vis other states and in all international relations.
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-- Exercising the right of pardon and  commutation of sentences  and  approving  capital  sentences  according  to  the provisions of this Constitution and Union laws.
+10. Exercising the right of pardon and commutation of sentences and approving capital sentences according to the provisions of this Constitution and Union laws.
 
-- Conferring  decorations  and  medals  of  honour,  both  civil and  military,  in  accordance  with  the  laws  relating  to  such decorations and medals.
+11. Conferring decorations and medals of honour, both civil and military, in accordance with the laws relating to such decorations and medals.
 
-- Any other  power  vested  in  him  by  the  Supreme  Council or  vested  in  him  in  conformity  with  this  Constitution  or Union laws.
+12. Any other power vested in him by the Supreme Council or vested in him in conformity with this Constitution or Union laws.
 
 ### Chapter III - THE COUNCIL OF MINISTERS OF THE UNION
 
@@ -582,7 +583,7 @@ Ministers  shall  be  chosen  from  among  citizens  of  the Union known for the
 
 The  Prime  Minister,  his  Deputy  and  the  Ministers  shall, before  assuming  the  responsibilities  of  their  office.  take  the following oath before the President of the Union:-
 
-"I swear by Almighty God that I will be loyal to the United  Arab  Emirates;  that  I  will  respect  its  Constitution and laws; that 1 will  discharge  my  duties  faithfully; that 1 will completely  observe  the  interests  of  the  people  of  the Union and that I will completely safeguard the existence of the Union and its territorial integrity."
+"I swear by Almighty God that I will be loyal to the United Arab Emirates; that I will respect its Constitution and laws; that I will discharge my duties faithfully; that I will completely observe the interests of the people of the Union and that I will completely safeguard the existence of the Union and its territorial integrity."
 
 [[END OF PAGE 20]]
 
@@ -592,29 +593,29 @@ The  Prime  Minister,  his  Deputy  and  the  Ministers  shall, before  assuming
 
 The law shall define the Jurisdiction of the Ministers and the powers of each Minister . The first Council of Ministers of the Union shall be composed of the following Ministers: -
 
-- Foreign Affairs
+1. Foreign Affairs
 
-- Interior
+2. Interior
 
-- Defence
+3. Defence
 
-- Finance, Economy and Industry
+4. Finance, Economy and Industry
 
-- Justice
+5. Justice
 
-- Education
+6. Education
 
-- Public Health
+7. Public Health
 
-- Public Works and Agriculture
+8. Public Works and Agriculture
 
-- Communications, Post, Telegraph and Telephones
+9. Communications, Post, Telegraph and Telephones
 
-- Labour and Social Affairs
+10. Labour and Social Affairs
 
-- Information
+11. Information
 
-- Planning
+12. Planning
 
 ##### Article 59
 
@@ -632,29 +633,29 @@ The Council of Ministers, in its capacity as the executive authority  of  the  U
 
 The  Council  of  Ministers  shall,  in  particular,  assume  the following powers:
 
-- Following  up  the  implementation  of  the  general  policy  of the Union Government both domestic and foreign.
+1. Following up the implementation of the general policy of the Union Government both domestic and foreign.
 
-- Initiating  drafts  of  Federal  Laws  and  submitting  them  to  the Union  National  Council  before  they  are raised to the President  of  the  Union  for  presentation  to  the  Supreme Council for sanction.
+2. Initiating drafts of Federal Laws and submitting them to the Union National Council before they are raised to the President of the Union for presentation to the Supreme Council for sanction.
 
-- Drawing  up  the  annual  general  budget  of  the  Union,  and the final accounts.
+3. Drawing up the annual general budget of the Union, and the final accounts.
 
-- Preparing drafts of decrees and various decisions.
+4. Preparing drafts of decrees and various decisions.
 
-- Issuing  regulations  necessary  for  the  implementation  of Union laws without amending or suspending such regulations or making any exemption from their execution. Issuing also police regulations and other regulations relating to the organisation of public services and administrations.  within  the  limits  of  this  Constitution  and Union laws.  A special provision of the law or the Council of Ministers, may charge the competent Union Minister or any  other  administrative  authority  to  promulgate  some  of such regulations.
+5. Issuing regulations necessary for the implementation of Union laws without amending or suspending such regulations or making any exemption from their execution. Issuing also police regulations and other regulations relating to the organisation of public services and administrations. within the limits of this Constitution and Union laws. A special provision of the law or the Council of Ministers, may charge the competent Union Minister or any other administrative authority to promulgate some of such regulations.
 
-- Supervising  the  implementation  of  Union  laws,  decrees, decisions and regulations by all the concerned authorities in the Union or in the Emirates.
+6. Supervising the implementation of Union laws, decrees, decisions and regulations by all the concerned authorities in the Union or in the Emirates.
 
-- Supervising  the execution of judgements rendered by Union Law Courts and the implementation of international treaties and agreements concluded by the Union.
+7. Supervising the execution of judgements rendered by Union Law Courts and the implementation of international treaties and agreements concluded by the Union.
 
-- Appointment and dismissal of Union employees in accordance  with  the  provisions  of  the  law,  provided  that their appointment and dismissal do not require the issue of a decree.
+8. Appointment and dismissal of Union employees in accordance with the provisions of the law, provided that their appointment and dismissal do not require the issue of a decree.
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-- Controlling the conduct of work in departments and public services of  the  Union and the conduct and discipline of Union employees in general.
+9. Controlling the conduct of work in departments and public services of the Union and the conduct and discipline of Union employees in general.
 
-- Any other authority vested in it by law or by the Supreme Council within the limits of this Constitution.
+10. Any other authority vested in it by law or by the Supreme Council within the limits of this Constitution.
 
 ##### Article 61
 
@@ -668,7 +669,7 @@ Furthermore,  they  may  not  combine  with  their  office more  than  one  offi
 
 ##### Article 63
 
-The  members  of  the  Council  of  Ministers  shall  aim  to serve in their conduct the interests of the Union, the promotion of  public  welfare  and  totally  renounce  personal  benefits.    They must not exploit their
+The members of the Council of Ministers shall aim to serve in their conduct the interests of the Union, the promotion of public welfare and totally renounce personal benefits. They must not exploit their official posts in any way for their own benefit or for the benefit of anyone with whom they have a special relationship.
 
 ##### Article 64
 
@@ -686,11 +687,9 @@ At  the  beginning  of  every  financial  year,  the  Council  of Ministers shal
 
 ##### Article 66
 
-- The  Council  of  Ministers  shall  draw  up  its  own  byelaws including its rules of procedure.
+1. The Council of Ministers shall draw up its own bye-laws including its rules of procedure.
 
-- The  Council  of  Ministers  shall  establish  a  general Secretariat
-
-provided with a number of employees to assist it in the conduct of Its business.
+2. The Council of Ministers shall establish a general Secretariat provided with a number of employees to assist it in the conduct of its business.
 
 ##### Article 67
 
@@ -702,40 +701,40 @@ The Law shall prescribe the salaries of the Prime Minister, his Deputy and the o
 
 [[START OF PAGE 25]]
 
+#### Section 1 - General Provisions.
+
 ##### Article 68
 
-The National Assembly of the Union shall be composed of forty (1) members.  Seats shall be distributed to member Emirates as follows: -
+The National Assembly of the Union shall be composed of forty (1) members. Seats shall be distributed to member Emirates as follows: -
 
 Abu Dhabi | 8 seats
 --- | ---
 Dubai | 8 seats
 Sharjah | 6 seats
-Ras AI - Khaimah | 6 seats
+Ras Al - Khaimah | 6 seats
 Ajman | 4 seats
-Umm AI - Quwain | 4 seats
+Umm Al - Quwain | 4 seats
 Fujairah | 4 seats
 
 ##### Article 69
 
-Each  Emirate  shall  be  free  to  determine  the  method  of selection  of  the  citizens  representing  it  in  the  Union  National Assembly.
+Each Emirate shall be free to determine the method of selection of the citizens representing it in the Union National Assembly.
 
 ##### Article 70
 
-A member of the  Union  National  Assembly  must  satisfy the following conditions :-
+A member of the Union National Assembly must satisfy the following conditions :-
 
-- Must  be  a  citizen  of  one  of  the  Emirates  of  the  U nion, and permanently resident in the Emirate he represents in the Assembly.
+1. Must be a citizen of one of the Emirates of the Union, and permanently resident in the Emirate he represents in the Assembly.
 
-- Must be not less than twenty-five Gregorian years of age at the time of his  selection.
+2. Must be not less than twenty-five Gregorian years of age at the time of his selection.
 
-- Must enjoy civil status. good conduct, reputation and not previously convicted of a dishonourable offence unless he has been rehabilitated in accordance with the law.
+3. Must enjoy civil status. good conduct, reputation and not previously convicted of a dishonourable offence unless he has been rehabilitated in accordance with the law.
 
-- Must have adequate knowledge of reading and writing.
+3. Must have adequate knowledge of reading and writing.
 
 _________________________________________________________
 
-(1)   Decision  of  the  Supreme  Council  of  the  Union  No. 3, 1972
-
-#### Section 1 - General Provisions.
+(1) Decision of the Supreme Council of the Union No. 3, 1972
 
 [[END OF PAGE 25]]
 
@@ -747,15 +746,15 @@ Membership  of  the  Union  National  Assembly  shall  be incompatible  with  an
 
 ##### Article 72
 
-The term of membership in the Union National Assembly  shall  be  two  Gregorian  years  c ommencing  from  the date of its first sitting.  When this period expires, the Assembly shall be completely renewed for the time remaining until the end of  the  transitional  period  as  laid  down  in  Article  144  of  this Constitution.
+The term of membership in the Union National Assembly shall be two Gregorian years commencing from the date of its first sitting. When this period expires, the Assembly shall be completely renewed for the time remaining until the end of the transitional period as laid down in Article 144 of this Constitution.
 
-Any member who has completed his term may be reelected.
+Any member who has completed his term may be re-elected.
 
 ##### Article 73
 
 Before  assuming  his  duties  in  the  Assembly  or  its Committees,  a  member  of  the  Union  National  Assembly  shall take the following oath before the Assembly in public session: -
 
-'I swear by Almighty God that I will be loyal to the United Arab Emirates; that I will respect the Constitution and the laws of the Union and that I will discharge my duties in the Assembly and its Committees honestly and truthfully' .
+“I swear by Almighty God that I will be loyal to the United Arab Emirates; that I will respect the Constitution and the laws of the Union and that I will discharge my duties in the Assembly and its Committees honestly and truthfully” .
 
 ##### Article 74
 
@@ -809,7 +808,7 @@ Members of the Assembly shall not be censured for any opinions  or  views  expre
 
 ##### Article 82
 
-Except in cases of "flagrant delicate", no penal proceedings may be taken against any member while the Assembly is in session, without the authorisation of the Assembly.    The  Assembly  must  be  notified  if  such  proceedings are taken while it is not in session.
+Except in cases of "flagrant delicto", no penal proceedings may be taken against any member while the Assembly is in session, without the authorisation of the Assembly. The Assembly must be notified if such proceedings are taken while it is not in session.
 
 [[END OF PAGE 28]]
 
@@ -833,7 +832,7 @@ The  Assembly  shall  have  a  Secretary-General  who  shall be assisted by a nu
 
 The  Assembly  shall  lay  down  its  standing  orders,  issued by  decree  promulgated  by  the  President  of  the  Union  with  the consent of the Council of Ministers.
 
-The standing orders shall define the powers of the President  of  the  Assembly,  his  two  Vice  Presidents  and  the Controllers  and  shall  define  generally  all  matters  pertaining  to the  Assembly,  its  committees,  its  members,  its  Secretariat,  its employees, its  rules  and  procedures of discussion and voting in the  Assembly  and  the  Committees  and  other  matters  within  the limits of he provisions of this Constitution.
+The standing orders shall define the powers of the President of the Assembly, his two Vice Presidents and the Controllers and shall define generally all matters pertaining to the Assembly, its committees, its members, its Secretariat, its employees, its rules and procedures of discussion and voting in the Assembly and the Committees and other matters within the limits of the provisions of this Constitution.
 
 [[END OF PAGE 29]]
 
@@ -845,13 +844,13 @@ Sessions of the Assembly shall be public.  Secret sessions may be held at the re
 
 ##### Article 87
 
-Deliberations of the Assembly shall not be valid unless a majority of its members at least are present.  Resolutions shall be taken  by  an  absolute  majority  of  the  votes  of  members  present, except in cases where a special majority has been prescribed.  If votes  are  equally  divided.  the  side  which  the  President  of  the session supports shall prevail.
+Deliberations of the Assembly shall not be valid unless a majority of its members at least are present. Resolutions shall be taken by an absolute majority of the votes of members present, except in cases where a special majority has been prescribed. If votes are equally divided, the side which the President of the session supports shall prevail.
 
 ##### Article 88
 
 Meetings of the Assembly may be adjourned by a decree promul-gated by the President of the Union with the approval of the Council of Ministers of the Union for a period not exceeding one month, provided that such adjournment is not repeated in one session  except  with  the  approval  of  the  Assembly  and  for  once only.  The period of adjournment shall not be deemed part of the term of the ordinary session.
 
-The Assembly may also be dissolved by a decree promulgated by the President of the Union with the approval of the  Supreme  Council  of  the  Union.  provided  that  the  decree  of dissolution  includes  a  summons  to  the  new  Assembly  to  come into  session  within  sixty  days  of  the  date  of the  decree  of dissolution.    The  Assembly  may  not  be  dissolved  again  for  the same reason.
+The Assembly may also be dissolved by a decree promulgated by the President of the Union with the approval of the Supreme Council of the Union, provided that the decree of dissolution includes a summons to the new Assembly to come into session within sixty days of the date of the decree of dissolution. The Assembly may not be dissolved again for the same reason.
 
 [[END OF PAGE 30]]
 
@@ -907,19 +906,19 @@ The President and the Judges of the Union Supreme Court shall not be removed whi
 
 [[START OF PAGE 33]]
 
-- Death.
+1. Death.
 
-- Resignation.
+2. Resignation.
 
-- Expiration of term  of contract for  those  who  are appointed by fixed term contract or completion of term of secondment.
+3. Expiration of term of contract for those who are appointed by fixed term contract or completion of term of secondment.
 
-- Reaching retirement age.
+4. Reaching retirement age.
 
-- Permanent incapacity to carry the burdens of their duties by reasons of ill health.
+5. Permanent incapacity to carry the burdens of their duties by reasons of ill health.
 
-- Disciplinary discharge  on  the basis of the  reasons  and proceedings stipulated in the law.
+6. Disciplinary discharge on the basis of the reasons and proceedings stipulated in the law.
 
-- Appointment to other offices. with their consent.
+7. Appointment to other offices, with their consent.
 
 ##### Article 98
 
@@ -929,9 +928,9 @@ The President and the Judges of the Union Supreme Court shall,  before  holding 
 
 The  Union  Supreme  Court  shall  have  jurisdiction  in  the following matters: -
 
-- Various  disputes  between  member  Emirates  in  the  Union, or between  any one Emirate or more  and  the  Union Government,  whenever  such  disputes  are  submitted  to  the Court on the request of any of the interested parties.
+1. Various disputes between member Emirates in the Union, or between any one Emirate or more and the Union Government, whenever such disputes are submitted to the Court on the request of any of the interested parties.
 
-- Examination  of  the  constitutionality  of  Union  laws,  if  they are  challenged  by  one  or  more  of  the  Emirates  on  the grounds of violating the Constitution of the Union.
+2. Examination of the constitutionality of Union laws, if they are challenged by one or more of the Emirates on the grounds of violating the Constitution of the Union.
 
 Examination of the constitutionality of legislations promulgated by one of the Emirates, if they are challenged by one of the Union authorities on the grounds of violation of the Constitution of the Union or of Union laws.
 
@@ -939,19 +938,19 @@ Examination of the constitutionality of legislations promulgated by one of the E
 
 [[START OF PAGE 34]]
 
-- Examination  of  the  constitutionality  of  laws,  legislations and regulations in general, if  such  request  is  referred  to  it by any Court in the country during a pending case before it. The aforesaid Court shall be bound to accept the ruling of the Union Supreme Court rendered in this connection.
+3. Examination of the constitutionality of laws, legislations and regulations in general, if such request is referred to it by any Court in the country during a pending case before it. The aforesaid Court shall be bound to accept the ruling of the Union Supreme Court rendered in this connection.
 
-- Interpretation  of  the  provisions  of  the  Constitution,  when so requested by any Union authority or by the Government of any Emirate. Any such interpretation shall be considered binding on all.
+4. Interpretation of the provisions of the Constitution, when so requested by any Union authority or by the Government of any Emirate. Any such interpretation shall be considered binding on all.
 
-- Trial of Ministers and senior officials of the  Union appointed by decree regarding their actions in carrying out their official duties on tile demand of the Supreme Council and in accordance with the relevant law.
+5. Trial of Ministers and senior officials of the Union appointed by decree regarding their actions in carrying out their official duties on the demand of the Supreme Council and in accordance with the relevant law.
 
-- Crimes directly affecting the interests of the Union, such as  crimes  relating  to  its  internal  or  external  security, forgery of the official records or seals of any of the Union authorities and counterfeiting of currency.
+6. Crimes directly affecting the interests of the Union, such as crimes relating to its internal or external security, forgery of the official records or seals of any of the Union authorities and counterfeiting of currency.
 
-- Conflict of jurisdiction between the Union judicial authorities and the local judicial authorities in the Emirates.
+7. Conflict of jurisdiction between the Union judicial authorities and the local judicial authorities in the Emirates.
 
-- Conflict  of  jurisdiction  between  the  j udicial  authority  in one Emirate and the judicial authority in another Emirate. The  rules  relating  thereof  shall  be  regulated  by  a  Union Law.
+8. Conflict of jurisdiction between the judicial authority in one Emirate and the judicial authority in another Emirate. The rules relating thereof shall be regulated by a Union Law.
 
-- Any  other  jurisdiction  stipulated  in  this  Constitution,  or which may be assigned to it by a Union law.
+9. Any other jurisdiction stipulated in this Constitution, or which may be assigned to it by a Union law.
 
 ##### Article 100
 
@@ -971,13 +970,11 @@ If  the  Court,  in  ruling  on  the  constitutionality  of  laws, legislations 
 
 The Union shall have one or more Union Primary Tribunals which shall sit in the permanent capital of the Union or in the capitals of some of the Emirates, in order to exercise the judicial  powers  within  the  sphere  of  their  jurisdiction  in  the following cases :-
 
-- Civil, commercial and administrative disputes between the Union
+1. Civil, commercial and administrative disputes between the Union and individuals whether the Union is plaintiff or defendant.
 
-- and individuals  whether  the  Union  is  plaintiff  or defendant.
+2. Crimes committed within the boundaries of the permanent capital of the Union, with the exception of such matters as are reserved for the Union Supreme Court under Article 99 of this Constitution.
 
-- Crimes committed within the boundaries of the permanent capital of the Union, with the exception of such  matters  as  are  reserved  for  the  Union  Supreme Court under Article 99 of this Constitution.
-
-- Personal status cases, civil and commercial cases and  other  cases  between  individuals  which  shall arise in the permant capital of the Union.
+3. Personal status cases, civil and commercial cases and other cases between individuals which shall arise in the permanent capital of the Union.
 
 ##### Article 103
 
@@ -1031,15 +1028,17 @@ There  shall  be  no  general  amnesty  for  a  crime  or  for specified crimes 
 
 The  promulgation  of  the  law  of  amnesty  shall  consider such  crimes  being  deemed  non  avenue,  and  shall  remit  the execution of the sentence or the remaining part of it.
 
-## PART FIVE UNION LEGISLATIONS AND DECREES AND THE AUTHORITIES HAVING JURISDICTION THEREIN
+## PART FIVE
+
+## UNION LEGISLATIONS AND DECREES AND THE AUTHORITIES HAVING JURISDICTION THEREIN
 
 ### Chapter 1 -UNION LAWS
 
 ##### Article 110
 
-- Union laws shall be promulgated in accordance with the provisions of this Article and other appropriate provisions of the Constitution.
+1. Union laws shall be promulgated in accordance with the provisions of this Article and other appropriate provisions of the Constitution.
 
-- A draft law shall become a law after the adoption of the following procedure :-
+2. A draft law shall become a law after the adoption of the following procedure :-
 
 (a) The Council of Ministers shall prepare a bill and submit it to the Union National Assembly.
 
@@ -1047,7 +1046,7 @@ The  promulgation  of  the  law  of  amnesty  shall  consider such  crimes  bein
 
 (c)  The President of the Union shall sign the bill after ratification by the Supreme Council and shall promulgate it.
 
-(a)   If the Union National Assembly inserts any amendment to the bill and this amendment is not acceptable to the President of the Union or the Supreme Council, or if the Union National Assembly rejects the bill, the President of the Union or the
+3. (a) If the Union National Assembly inserts any amendment to the bill and this amendment is not acceptable to the President of the Union or the Supreme Council, or if the Union National Assembly rejects the bill, the President of the Union or the
 
 [[END OF PAGE 38]]
 
@@ -1067,10 +1066,10 @@ Laws  shall  be  published  in  the  Official  Gazette  of  the Union  within  a
 
 No laws may be applied except on what occurs as from the  date  they  become  in  force  and  no  retroactive  effect  shall result in such laws.  The law may, however, stipulate the contrary in matters other than criminal, if necessity so requires.
 
-### Chapter 11 - LAWS ISSUED BY DECREES
+### Chapter II - LAWS ISSUED BY DECREES
 ##### Article 113
 
-Should necessity arise for urgent promulgation of Union laws between  sessions  of  the  Supreme  Council,  the  President  of  the Union together with the Council of Ministers may promulgate the necessary laws in the from of decrees which shall have the force of law, provided that they are not inconsistent with the Constitution.
+Should necessity arise for urgent promulgation of Union laws between sessions of the Supreme Council, the President of the Union together with the Council of Ministers may promulgate the necessary laws in the form of decrees which shall have the force of law, provided that they are not inconsistent with the Constitution.
 
 [[END OF PAGE 39]]
 
@@ -1080,7 +1079,7 @@ Such  decree-laws  must  be  referred  to  the  Supreme  Council within a week a
 
 However,  if  the  Supreme  Council  does  not  approve them, they shall cease to have the force of law unless that it has decided  to sanction their effectiveness during the  preceding period, or to settle in some  other  way  the  effects arising therefrom.
 
-### Chapter 111 - ORDINARY DECREES
+### Chapter III - ORDINARY DECREES
 
 ##### Article 114
 
@@ -1094,85 +1093,87 @@ While  the  Supreme  Council  is  out  of  session  and  if necessity arises, it
 
 [[START OF PAGE 41]]
 
-##### Article 116
-
-The Emirates shall exercise all powers not assigned to the Union by this Constitution.  The Emirates shall all participate in the establishment of the Union  and shall benefit from its existence, services and protection.
-
-##### Article 117
-
-The exercise of rule in each Emirate shall aim in particular  at  the  maintenance  of  security  and  order  within  its territories, the provision of public utilities for its inhabitants and the raising of social and economic standards.
-
-##### Article 118
-
-The member Emirates of the Union shall all work for the co-ordination  of  their  legislations  in  various  fields  with  the intention of unifying such legislations as far as possible.
-
-Two  or  more  Emirates  may,  after  obtaining  the  approval of the Supreme Council, agglomerate in a political or administrative unit, or unify all or part of their public services or establish a single or joint administration to run any such service.
-
-##### Article 119
-
-Union law shall regulate with utmost ease matters pertaining to the execution of judgements. requests for commissions of rogation, serving legal documents and surrender of fugitives between member Emirates of the Union.
-
 ## PART SIX
 
 ## THE EMIRATES
+
+##### Article 116
+
+The Emirates shall exercise all powers not assigned to the Union by this Constitution. The Emirates shall all participate in the establishment of the Union and shall benefit from its existence, services and protection.
+
+##### Article 117
+
+The exercise of rule in each Emirate shall aim in particular at the maintenance of security and order within its territories, the provision of public utilities for its inhabitants and the raising of social and economic standards.
+
+##### Article 118
+
+The member Emirates of the Union shall all work for the co-ordination of their legislations in various fields with the intention of unifying such legislations as far as possible.
+
+Two or more Emirates may, after obtaining the approval of the Supreme Council, agglomerate in a political or administrative unit, or unify all or part of their public services or establish a single or joint administration to run any such service.
+
+##### Article 119
+
+Union law shall regulate with utmost ease matters pertaining to the execution of judgements, requests for commissions of rogation, serving legal documents and surrender of fugitives between member Emirates of the Union.
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
 
-## PART SEVEN DISTRIBUTION OF LEGISLATIVE, EXECUTIVE AND INTERNATIONAL JURISDICTIONS BETWEEN THE UNION AND THE EMIRATES
+## PART SEVEN
+
+## DISTRIBUTION OF LEGISLATIVE, EXECUTIVE AND INTERNATIONAL JURISDICTIONS BETWEEN THE UNION AND THE EMIRATES
 
 ##### Article 120
 
 The  Union shall have exclusive legislative and executive Jurisdiction in the following affairs: -
 
-- Foreign affairs.
+1. Foreign affairs.
 
-- Defence and the Union Armed Forces.
+2. Defence and the Union Armed Forces.
 
-- Protection of the Union's security against internal or external threat.
+3. Protection of the Union's security against internal or external threat.
 
-- Matters  pertaining  to  security,  order  and  rule  in  the permanent capital of the Union.
+4. Matters pertaining to security, order and rule in the permanent capital of the Union.
 
-- Matters relating to Union officials and Union judiciary.
+5. Matters relating to Union officials and Union judiciary.
 
-- Union finance and Union taxes, duties and fees.
+6. Union finance and Union taxes, duties and fees.
 
-- Union public loans.
+7. Union public loans.
 
-- Postal, telegraph, telephone and wireless services.
+8. Postal, telegraph, telephone and wireless services.
 
-- Construction,  maintenance  and  improvement  of  Union roads which the Supreme Council has determined to be trunk roads.  The organisation of traffic on such roads.
+9. Construction, maintenance and improvement of Union roads which the Supreme Council has determined to be trunk roads. The organisation of traffic on such roads.
 
-- Air Traffic Control and the issue of licences to aircrafts and pilots.
+10. Air Traffic Control and the issue of licences to aircrafts and pilots.
 
-- Education.
+11. Education.
 
-- Public health and medical services.
+12. Public health and medical services.
 
-- Currency board and coinage.
+13. Currency board and coinage.
 
-- Measures, standards and weights.
+14. Measures, standards and weights.
 
-- Electricity services.
+15. Electricity services.
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
 
-- Union nationality, passports, residence and immigration.
+16. Union nationality, passports, residence and immigration.
 
-- Union properties and all matters relating thereto.
+17. Union properties and all matters relating thereto.
 
-- Census affairs and statistics relevant to Union purposes.
+18. Census affairs and statistics relevant to Union purposes.
 
-- Union Information.
+19. Union Information.
 
 ##### Article 121
 
 Without prejudice to the provisions of the preceding Article. The Union shall have exclusive legislative jurisdiction in the following matters:
 
-Labour relations and social security, real estate and expropriation  in  the  public  interest,  extradition  of  criminals, banks,  insurance  of  all kinds; protection of agricultural  and animal wealth, major legislations relating to penal law, civil and commercial  transactions  and  company  law,  procedures  before the civil and criminal courts, protection of cultural, technical and industrial property and copyright, printing and publishing, import  of  arms  and  ammunitions  except  for  use  by  the  armed forces  or  the  security  forces  belonging  to  any  Emirate,  other aviation affairs which are not within the executive jurisdiction of the  Union,    delimitation  of  territorial  waters  and  regulation  o f navigation on the high seas.
+Labour relations and social security, real estate and expropriation in the public interest, extradition of criminals, banks, insurance of all kinds; protection of agricultural and animal wealth, major legislations relating to penal law, civil and commercial transactions and company law, procedures before the civil and criminal courts, protection of cultural, technical and industrial property and copyright, printing and publishing, import of arms and ammunitions except for use by the armed forces or the security forces belonging to any Emirate, other aviation affairs which are not within the executive jurisdiction of the Union, delimitation of territorial waters and regulation of navigation on the high seas.
 
 ##### Article 122
 
@@ -1196,25 +1197,27 @@ Before the conclusion of any treaty or international agreement  which  may  affe
 
 The  Governments  of  the  Emirates  shall  undertake  the appropriate measures to implement the laws promulgated by the Union  and  the  treaties  and  international  agreements  concluded by  the  Union,  including  the  promulgation  of  the  local  laws, regulations, decisions and orders necessary for such implementation.
 
-The Union authorities shall  supervise  the  implementation by Emirate's Governments of the Union laws, decisions. treaties, agreements and Union judgements. The competent administrative  and  judicial  authorities  in  the  Emirates  should forward  to  the  Union  authorities  all  possible  assistance  in  this connection.
+The Union authorities shall supervise the implementation by Emirate's Governments of the Union laws, decisions, treaties, agreements and Union judgements. The competent administrative and judicial authorities in the Emirates should forward to the Union authorities all possible assistance in this connection.
 
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
 
-## PART EIGHT FINANCIAL AFFAIRS OF THE UNION
+## PART EIGHT
+
+## FINANCIAL AFFAIRS OF THE UNION
 
 ##### Article 126
 
 The  general  revenues  of  the  Union  shall  consist  of  the income from the following resources: -
 
-1. Taxes,  fees  and  duties  imposed  under  a  Union  law  in matters  within  the  legislative  and  executive  jurisdiction  of the Union.
+1. Taxes, fees and duties imposed under a Union law in matters within the legislative and executive jurisdiction of the Union.
 
-- Fees and rates received by the Union in return for services provided.
+2. Fees and rates received by the Union in return for services provided.
 
-- Contribution made by member Emirates of the Union in the Annual Budget of the Union in accordance with the article herein coming after.
+3. Contribution made by member Emirates of the Union in the Annual Budget of the Union in accordance with the article herein coming after.
 
-- Union income from its own properties.
+4. Union income from its own properties.
 
 ##### Article 127
 
@@ -1226,7 +1229,7 @@ The  law  shall prescribe the method  of  preparing  the general  budget  of  th
 
 ##### Article 129
 
-The draft annual budget of the Union, comprising estimates  of  revenues  and  expenditure,  shall  be  referred  to  the Union National Assembly at least two months before the beginning of the financial year, for discussion and submission of comments  thereon,  before  the  draft  budget  is  submitted  to  the Supreme Council  of  tile  Union,  together  with  those  comments, for assent.
+The draft annual budget of the Union, comprising estimates of revenues and expenditure, shall be referred to the Union National Assembly at least two months before the beginning of the financial year, for discussion and submission of comments thereon, before the draft budget is submitted to the Supreme Council of the Union, together with those comments, for assent.
 
 [[END OF PAGE 45]]
 
@@ -1234,7 +1237,7 @@ The draft annual budget of the Union, comprising estimates  of  revenues  and  e
 
 ##### Article 130
 
-The annual general budget shall be issued by a law.  In all cases, where the budget law has not been promulgated before the beginning  of  the  Financial  year.  Temporary  monthly  funds  may be made by Union decree on the basis of one twelth of the funds of  the  previous  financial  year.    Revenues  shall  be  collected and expenditure disbursed in accordance with the laws in force at the end of the preceding financial year.
+The annual general budget shall be issued by a law. In all cases, where the budget law has not been promulgated before the beginning of the Financial year. Temporary monthly funds may be made by Union decree on the basis of one twelfth of the funds of the previous financial year. Revenues shall be collected and expenditure disbursed in accordance with the laws in force at the end of the preceding financial year.
 
 ##### Article 131
 
@@ -1244,7 +1247,7 @@ Notwithstanding the foregoing, in cases of extreme urgency, such expenditure or 
 
 ##### Article 132
 
-The Union shall allocate in its annual budget a sum from its revenue to be expended on building, and constriction projects, internal security and social affairs according to the urgent needs of some of the Emirates.
+The Union shall allocate in its annual budget a sum from its revenue to be expended on building, and construction projects, internal security and social affairs according to the urgent needs of some of the Emirates.
 
 The  execution  of  these  projects  and  the  disbursement thereon  shall  be  drawn  from  these  funds.  Accomplished  by means  of  and  under  the  supervision  of  the  competent  Union bodies with the agreement of authorities of the Emirates concerned. The  Union  may  establish  a  special  fund  for  this purpose.
 
@@ -1268,9 +1271,9 @@ The final accounts of the financial administration of the Union  for  the  compl
 
 ##### Article 136
 
-An independent Union department headed by an Auditor-General  who  shall  be  appointed  by  decree,  shall  be established to audit the accounts of the Union and its organs and agencies,  and  to  audit  any  other  accounts  assigned  to  the  said department for that purpose in accordance with he law.
+An independent Union department headed by an Auditor-General who shall be appointed by decree, shall be established to audit the accounts of the Union and its organs and agencies, and to audit any other accounts assigned to the said department for that purpose in accordance with the law.
 
-The law shall regulate this department and shall define its jurisdiction and the competence of those working therein, and the guarantees to be given to it, its head and the employees working in  it  in  order  that  hey  may  carry  out  their  duties  in  the  most efficient manner.
+The law shall regulate this department and shall define its jurisdiction and the competence of those working therein, and the guarantees to be given to it, its head and the employees working in it in order that they may carry out their duties in the most efficient manner.
 
 [[END OF PAGE 47]]
 
@@ -1332,9 +1335,9 @@ The President of the Union and the Council of Ministers of the Union collectivel
 
 ##### Article 144
 
-- Subject  to  the  provisions  of  the  following  paragraphs,  the provisions of this Constitution shall apply for a transitional period  of  five  Gregorian  years  beginning  from  the  date  of its entry into force in accordance with provisions of Article 152.
+1. Subject to the provisions of the following paragraphs, the provisions of this Constitution shall apply for a transitional period of five Gregorian years beginning from the date of its entry into force in accordance with provisions of Article 152.
 
-(a) If  the  Supreme  Council  considers  that  the  topmost interests of the  Union  require  the  amendment  of  this Constitution, it shall submit
+2. (a) If the Supreme Council considers that the topmost interests of the Union require the amendment of this Constitution, it shall submit
 
 a  draft  constitutional  amendment  to  the  Union National Assembly.
 
@@ -1408,9 +1411,9 @@ corresponding  to  this  day  the  25th  of  the  month  of  Jammed Awwal  1391.
 
 (Signatures  of  the  Rulers  of  Abu  Dhabi,  Dubai,  Sharjah,
 
-Ajman,  Umm AI Quwain, Fujairah).  1
+Ajman,  Umm Al Quwain, Fujairah).  1
 
-1. Ras AI Khaimah Joined the Union on the 10th February, 1972
+1. Ras Al Khaimah Joined the Union on the 10th February, 1972
 
 The Name Of Allah , the Gracious, the Merciful
 
@@ -1422,7 +1425,7 @@ The Name Of Allah , the Gracious, the Merciful
 
 We ,  the  rulers  of  Abu  Dhabi,  Dubai,  Sharjah,  Ajman, Umm Al Quwain and Fujairah Emirates.
 
-After pursuing Article 152 of the U.A.E Temporary Constitution  which  was  signed  by  us  in  Dubai  on  the  Twentyfifth day  of  Jumada  Al-Awal  1391  Hijri  ,    corresponding  to  the Eighteenth day of July 1971.
+After pursuing Article 152 of the U.A.E Temporary Constitution which was signed by us in Dubai on the Twenty-fifth day of Jumada Al-Awal 1391 Hijri , corresponding to the Eighteenth day of July 1971.
 
 Declare as follows:
 
@@ -1462,7 +1465,7 @@ After  perusing  the  U.A.E  Temporary  Constitution,  and by virtue  of  the  p
 
 The  last  paragraph  shall  be  added  to  Article  one  of  the U.A.E Temporary Constitution and shall be read as follows:
 
-' And  upon  acceptance  of  joining  new  member  to  the federation,  the  Federation  Supreme  Council  shall  set  the number  of  seats  to  be  allocated  to  such  member  in  the
+“ And upon acceptance of joining new member to the federation, the Federation Supreme Council shall set the number of seats to be allocated to such member in the
 
 [[END OF PAGE 54]]
 
@@ -1470,7 +1473,7 @@ The  last  paragraph  shall  be  added  to  Article  one  of  the U.A.E Temporar
 
 Federal National Council in addition to the number provided
 
-for in Article 68 of this Constitution ' .
+for in Article 68 of this Constitution ” .
 
 ##### Article Two
 
@@ -1506,7 +1509,7 @@ Whereas  the  acceptance  of  joining  new  member  to  the federation  requires
 
 The  matter  requires,  to  face  the  cases  of  joining  the federation membership, to amend the provision of Article one of the  Constitution  by  adding  last  paragraph  to  article  one  which provides for as follows:
 
-' And  upon  acceptance  of  joining  new  member  to  the federation,  the  Federation  Supreme  Council  shall  set  the number  of  seats  to  be  allocated  to  such  member  in  the Federal National Council in addition to the number provided for in Article 68 of this Constitution ' .
+“ And upon acceptance of joining new member to the federation, the Federation Supreme Council shall set the number of seats to be allocated to such member in the Federal National Council in addition to the number provided for in Article 68 of this Constitution ” .
 
 This amendment shall be made according to the provisions of paragraph (2) of Article (144) of the Constitution, as this amendment is required by the federation top interests.
 
@@ -1520,15 +1523,17 @@ Emirate of Ras Al -Khaimah
 
 # Document of Joining the United Arab Emirates
 
-We , Saqr Bin Mohammed Al Qasimi , Ruler of Ras AlKhaimah and its independencies .
+We , Saqr Bin Mohammed Al Qasimi , Ruler of Ras Al-Khaimah and its independencies .
 
 We  have  persued  the  U.A.E  Temporary  Constitution  and considered the provisions, goals and aims of the federation.
 
-The achievement of unification  among the  Arab  Emirates was the dearest wishes and the greatest trend of our determination caring to uplift our country and its people. And if some circumstances has hindered our participation in signing the Temporary  Constitution  and  declaring  the  commencement  of execution of the provisions thereof , and as our will and the will of  our  Emirate's  people  have  met  to  join  the  United  Arab Emirates  based  on  our  belief  in  the  goals  and  the  aims  of  the federation , we declare before Allah , the Almighty, the creator , and  before  all  the  people  that  our  Emirate  accepts  to  join  the United Arab Emirates and to approve its Temporary Constitution signed  by  the  rulers  of  Abu  Dhabi  ,  Dubai  ,  Sharjah  ,  Ajman  , Umm-AlQuwain  ,  and  Fujairah  Emirates  on  the  Twenty-  fifth day  of  Jumada  Al  Al-Awal  1391  Hijri  corresponding  to  the Eighteenth day of July 1971 and to adhere to act according to the provisions thereof.
+The achievement of unification among the Arab Emirates was the dearest wishes and the greatest trend of our determination caring to uplift our country and its people. And if some circumstances has hindered our participation in signing the Temporary Constitution and declaring the commencement of execution of the provisions thereof , and as our will and the will of our Emirate's people have met to join the United Arab Emirates based on our belief in the goals and the aims of the federation , we declare before Allah , the Almighty, the creator , and before all the people that our Emirate accepts to join the
 
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
+
+United Arab Emirates and to approve its Temporary Constitution signed by the rulers of Abu Dhabi , Dubai , Sharjah , Ajman , Umm-AlQuwain , and Fujairah Emirates on the Twenty- fifth day of Jumada Al Al-Awal 1391 Hijri corresponding to the Eighteenth day of July 1971 and to adhere to act according to the provisions thereof.
 
 May ALLAH grants success, ALLAH is the supporter and the
 
@@ -1552,9 +1557,9 @@ Federation Supreme Council
 
 The Federation Supreme Council
 
-After perusing the provisions of article one of the U.A.E Temporary Constitution and the letter of H.H. the Ruler of RasAl Khaimah  and  its independencies no.
+After perusing the provisions of article one of the U.A.E Temporary Constitution and the letter of H.H. the Ruler of Ras-Al Khaimah and its independencies no.
 
-A.KH.225/71  dated 23/12/1972, in which he declared the will of the Emirate to join the United Arab Emirates,
+A.KH.225/71 dated 23/12/1971, in which he declared the will of the Emirate to join the United Arab Emirates,
 
 And  in  response  to  the  national  wishes  that  the  Emirate
 
@@ -1691,6 +1696,8 @@ Hamad Bin Mohd Al Sharqi
 
 [[START OF PAGE 63]]
 
+Ruler of Fujairah Emirate
+
 Ahmed Bin Rashid Al  Mualla ruler of Umm Al Quwain
 
 Issued at the Presidential Palace in Abu Dhabi,
@@ -1715,8 +1722,6 @@ The transitional term provided for in the first paragraph of Article No. (144) o
 
 ##### Article Two
 
-Ruler of Fujairah Emirate
-
 [[END OF PAGE 63]]
 
 [[START OF PAGE 64]]
@@ -1725,9 +1730,11 @@ This  constitutional  amendment  shall  be  applicable  as  of the  date  of  is
 
 gazette.
 
-Zayed Bin Sultan Al Nhayan President of United Arab Emirates Abu Dhabi.
+Zayed Bin Sultan Al Nhayan President of United Arab Emirates
 
-Issued at the Presidential Palace in On: 7th Zul Hijjah 1396 Hijri Corresponding to 28th Nov., 1976
+Issued at the Presidential Palace in Abu Dhabi.
+On: 7th Zul Hijjah 1396 Hijri
+Corresponding to 28th Nov., 1976
 
 # The Federation Supreme Council Resolution No. (2) of 1981
 
@@ -1767,9 +1774,7 @@ Corresponding to: 7th Nov. 1981
 
 The Federation Supreme Council,
 
-After  perusing  Article  No.(144)  of  the  UAE  Temporary Constitution , and the constitutional amendment No.(1) of 1981 transitional  term  during  which  the provisions  of  this  constitution  shall  be  applicable  for  five  years commencing from the Second day of December 1981, and Based on  what  was  proposed  by  the  Cabinet  and  approved  by  the
-
-on  the extension of the Federation Supreme Council,
+After perusing Article No.(144) of the UAE Temporary Constitution , and the constitutional amendment No.(1) of 1981 on the extension of the transitional term during which the provisions of this constitution shall be applicable for five years commencing from the Second day of December 1981, and Based on what was proposed by the Cabinet and approved by the Federation Supreme Council,
 
 Resolved:
 
@@ -1800,9 +1805,7 @@ Corresponding to: 15th Oct. 1986
 
 The Federation Supreme Council,
 
-After  perusing  Article  No.(144)  of  the  UAE  Temporary Constitution, and the constitutional amendment No. (1) of 1986 about  the  extension  of  the  transitional  term  during  which  the years commencing from the Second day of December 1986, and based
-
-provisions of this constitution for five calendar on what was considered by the federation supreme council,
+After perusing Article No.(144) of the UAE Temporary Constitution, and the constitutional amendment No. (1) of 1986 about the extension of the transitional term during which the provisions of this constitution for five calendar years commencing from the Second day of December 1986, and based on what was considered by the federation supreme council,
 
 Resolved:
 
@@ -1889,17 +1892,17 @@ Subject to the provisions of the following article, each of the  Emirates  membe
 
 A Council  member shall be:
 
-- 1A  citizen of the member  Emirate  of the federation permanently residing in the Emirate by which he is selected.
+1- A citizen of the member Emirate of the federation permanently residing in the Emirate by which he is selected.
 
-- 2At  the age of not less than twenty-five when  he  is selected.
+2- At the age of not less than twenty-five when he is selected.
 
-- 3Civilly  competent,  of  good  conduct  and  reputation,  and not  punished  by  a  dishonor  crime  unless  being  rehabilitated according to the law.
+3- Civilly competent, of good conduct and reputation, and not punished by a dishonor crime unless being rehabilitated according to the law.
 
 [[END OF PAGE 69]]
 
 [[START OF PAGE 70]]
 
-4Having a sufficient Arabic Language speaking and reading.
+4- Having a sufficient Arabic Language speaking and reading.
 
 ##### Article (4)
 
@@ -1907,7 +1910,7 @@ While  being  a  Council  member,  a  member  shall  not combine between the mem
 
 ##### Article (5)
 
-A  Council  member  combining  between  membership  and holding  any  of  the  public  jobs  in  the  f ederal  government  shall choose  one  of  them  within  the  fifteen days  following  that combination, otherwise he shall be considered as if selecting the latest  one.  Membership  shall  not  be  considered  existing  unless being proved as true.
+A Council member combining between membership and holding any of the public jobs in the federal government shall choose one of them within the fifteen days following that combination, otherwise he shall be considered as if selecting the latest one. Membership shall not be considered existing unless being proved as true.
 
 The member, during the period prior to his selection, shall not  be  merited  but  only  the  salary  or  the  gratuity  for  the  job being selected to.
 
@@ -1927,7 +1930,7 @@ A Council member and in an open session shall, in front of the Council, and befo
 
 [[START OF PAGE 71]]
 
-' I do swear by Allah, the Almighty, to be loyal to the UAE, to honor the Federation Constitution and its rules, and to perform my duties in the Council and its committees honestly and truly .'
+“ I do swear by Allah, the Almighty, to be loyal to the UAE, to honor the Federation Constitution and its rules, and to perform my duties in the Council and its committees honestly and truly.”
 
 ##### Article (8)
 
@@ -1955,7 +1958,7 @@ The  Committee  sends  a  copy  of  the  contestation  to  the member  against  
 
 [[START OF PAGE 72]]
 
-The  C ommittee may resolve summoning the contestation applicant  and  the  one  whose  membership  correctness  is  being contested as well as the witnesses  and  it  may  request  the government make any papers available to go through, and to take anything found necessary leading to the reality.
+The Committee may resolve summoning the contestation applicant and the one whose membership correctness is being contested as well as the witnesses and it may request the government make any papers available to go through, and to take anything found necessary leading to the reality.
 
 Witnesses  calling  for  shall  be  viding  a  letter  from  the chairman upon a request from the committee.
 
@@ -2089,7 +2092,7 @@ The Council shall take charge, in particular, of the following matters:
 
 - 2Heading the Council sessions, giving permits to commence  talking  organizing  the  discussion,  taking  votes,  and announcing what the Council issues of resolutions.
 
-- 3Preparing  the  Council's  budget,  i ts  closing  account,  and bringing the same before the Council office board to peruse and then to be resolved by the Council.
+- 3Preparing  the  Council's  budget,  its  closing  account,  and bringing the same before the Council office board to peruse and then to be resolved by the Council.
 
 - 4Signing contracts in the name of the Council.
 
@@ -2157,7 +2160,7 @@ The  Council's Office Board  shall competent for the following matters:
 
 - 2Looking  into  the  Council  annual  budget  project  and  its closing account draft upon a reference from the chairman  before being brought up before the Council to be determined.
 
-- 3Selecting  the  delegations  upon  the  nomination  of  the chairman in order to represent the Council inside or outside the country,  and  bringing  up  this  selection  before  the  Council  to decide in. T hese delegations shall bring the reports prepared for their mission before the office board prior to being set forth to the Council.
+- 3Selecting  the  delegations  upon  the  nomination  of  the chairman in order to represent the Council inside or outside the country,  and  bringing  up  this  selection  before  the  Council  to decide in. These delegations shall bring the reports prepared for their mission before the office board prior to being set forth to the Council.
 
 - 4Practicing  all  the  Council  administrative  competencies  upon  the  chairman  request  -  while sessions are being  held temporarily till the Council's meeting.
 
@@ -2240,7 +2243,7 @@ Each of the Council members shall attend the committees sessions  in  which  tha
 
 ##### Article (45)
 
-The  Council  committees  m ay  by  means  of  the  chairman request from all the ministries, public interests, authorities,  and public  firms  all  details,  information  and  documents  which  are found  necessary  to  study  a  certain  subject  brought  before  them and  that  such  authorities  shall  present  these  documents  and information required in order to help the committee take knowledge before putting its report in due time.
+The  Council  committees  may  by  means  of  the  chairman request from all the ministries, public interests, authorities,  and public  firms  all  details,  information  and  documents  which  are found  necessary  to  study  a  certain  subject  brought  before  them and  that  such  authorities  shall  present  these  documents  and information required in order to help the committee take knowledge before putting its report in due time.
 
 [[END OF PAGE 83]]
 
@@ -2254,7 +2257,7 @@ Projects and papers shall be distributed among the committee's  members  at  lea
 
 The Ministers shall be entitled to attend the committee's sessions  upon  the  consideration  of  a  certain  subject  related  to their ministries and may bring with them one or more of their top specialized officers or experts. The Minister shall not have a vote nor whoever accompanied with him in the committee deliberations but their opinions shall be fixed in the report.
 
-The  committees  may  request,  by  means  of  the  chairman, the  attendance  of  the  competent  Minister  to  discuss  the  matter brought  up  before  it  and  such  Minister  may  accompany  one  or more of his specialized officers or experts or deputize whoever of  them  and  neither  the  Minister  nor  a nyone  accompanied with him  shall  have  a  vote  in  the  committee  deliberations  but  their opinions shall be fixed in the report.
+The  committees  may  request,  by  means  of  the  chairman, the  attendance  of  the  competent  Minister  to  discuss  the  matter brought  up  before  it  and  such  Minister  may  accompany  one  or more of his specialized officers or experts or deputize whoever of  them  and  neither  the  Minister  nor  anyone  accompanied with him  shall  have  a  vote  in  the  committee  deliberations  but  their opinions shall be fixed in the report.
 
 ##### Article (48)
 
@@ -2562,7 +2565,7 @@ Opinion  by  means  of  calling  the  names  shall  be  taken  in the following 
 
 - bcases stipulating special majority .
 
-- cIf  requested  by  the  government  ,  the  chairman  or  a t least ten of the members .
+- cIf  requested  by  the  government  ,  the  chairman  or  at least ten of the members .
 
 In  exceptional  circumstances  and  by  the  approval  of  the Council,  voting  may  be  made  secretly  upon  a  request  from  any of whoever mentioned in (c) herein.
 
@@ -2592,7 +2595,7 @@ The  Council  may  express  whatever  notes  or  remarks regarding such conventi
 
 ##### Article (97)
 
-The federation government shall prepare the annual budget  draft  which  is  inclusive  of  the  federation  revenues  and expenditures,  and  shall  bring  the  same  before  the  C ouncil  two months  at  least  before  the  commencement  of  the  last  year  in order to discuss it and express notes or remarks on the same.
+The federation government shall prepare the annual budget  draft  which  is  inclusive  of  the  federation  revenues  and expenditures,  and  shall  bring  the  same  before  the  Council  two months  at  least  before  the  commencement  of  the  last  year  in order to discuss it and express notes or remarks on the same.
 
 ##### Article (98)
 
@@ -2715,7 +2718,7 @@ The chairman may instruct to file the complaints coming to the Council contrary 
 
 ##### Article (117)
 
-The  complaints  coming  to  the  Council  shall  be  r ecorded in a special register therefor with serial numbers according to the date  of  incoming  thereof  and  the  applicant's  name  and  the domicile and summary of the complaint must be stated.
+The  complaints  coming  to  the  Council  shall  be  recorded in a special register therefor with serial numbers according to the date  of  incoming  thereof  and  the  applicant's  name  and  the domicile and summary of the complaint must be stated.
 
 ##### Article (118)
 
@@ -2733,7 +2736,7 @@ The  chairman  shall  refer  the  incoming  complaints  to  the Complaints Commi
 
 ##### Article (120)
 
-A committee shall look into the complaints referred to it. Such  committee  may  ask  the  concerned  m inistry  to  submit  any additional information or documents it deems necessary to look into the complaint .
+A committee shall look into the complaints referred to it. Such  committee  may  ask  the  concerned  ministry  to  submit  any additional information or documents it deems necessary to look into the complaint .
 
 ##### Article (121)
 
@@ -2840,6 +2843,9 @@ The Council confirms its  closing  account,  and  such  shall be issued annexed 
 
 [[START OF PAGE 109]]
 
+Standing Order
+Of The UAE Parliamentary Section
+
 ##### Article (1)
 
 The Federal National Council forms a parliamentary section that includes all its members.
@@ -2866,7 +2872,7 @@ It may convene on other date according to an invitation by the chairman, the exe
 
 The meeting of the assembly is proper if attended by the majority  of  its  members.  If  the  quorum  is  not  present,  the
 
-Standing Order Of The UAE Parliamentary Section
+
 
 [[END OF PAGE 109]]
 
