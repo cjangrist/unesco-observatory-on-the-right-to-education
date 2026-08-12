@@ -1,5 +1,6 @@
 [[START OF PAGE 1]]
 
+1
 H.R.1804
 
 ###### One Hundred Third Congress of  the United States of America
@@ -112,6 +113,8 @@ Sec. 801. Short title. Sec. 802. Purposes. Sec. 803. Grants authorized; authoriz
 
 [[START OF PAGE 3]]
 
+H.R.1804-3
+
 Sec. 805. Applications.
 
 # TITLE IX-EDUCATIONAL RESEARCH AND IMPROVEMENT
@@ -143,8 +146,6 @@ Sec. 1031. Short title. Sec. 1032. Gun-free requirements in elementary and secon
 Sec. 1041. Short title. Sec. 1042. Definitions. Sec. 1043. Nonsmoking policy for children's services. Sec. 1044. Preemption.
 ## PART D-MIDNIGHT BASKETBALL LEAGUE TRAINING AND PARTNERSHIP
 Sec. 1051. Short title.
-
-H.R.1804-3
 
 [[END OF PAGE 3]]
 
@@ -908,7 +909,7 @@ H.R.1804-23
 
 (6) on a regular basis, review and update criteria for certifying content, student performance, and  opportunity-to-learn standards, and State assessments; and
 
-(7)  periodically  recertify,  as  appropriate,  the  voluntary national  content  standards,  the  voluntary  national  student performance standards, and the voluntary national opportunityto-learn standards and the State assessments that the Council certifies under this section.
+(7)  periodically  recertify,  as  appropriate,  the  voluntary national  content  standards,  the  voluntary  national  student performance standards, and the voluntary national opportunity-to-learn standards and the State assessments that the Council certifies under this section.
 
 (h) SPECIAL RULES.-
 
@@ -988,7 +989,7 @@ H.R.1804-25
 
 (2)  ADDITIONAL EMPLOYEES.-The  Director  may  appoint additional employees to serve as staff of the Council consistent with title 5, United States Code.
 
-(c) EXPERTS AND CONSULTANTS.-The Council may procure temporary  and  intermittent  services  under  section  3019(b)  of  title  5, United States Code.
+(c) EXPERTS AND CONSULTANTS.-The Council may procure temporary  and  intermittent  services  under  section  3109(b)  of  title  5, United States Code.
 
 (d)  STAFF OF FEDERAL AGENCIES.-Upon  the  request  of  the Council, the head of any department or agency of the United States may  detail  any  of  the  personnel  of  such  department  or  agency to  the  Council  to  assist  the  Council  in  its  duties  under  this  part.
 
@@ -1060,13 +1061,15 @@ H.R.1804-26
 
 (1)  IN GENERAL.-The  Secretary  is  authorized  to  make grants  to  State  and  local  educational  agencies  or  consortia of  such  agencies  to  help  defray  the  cost  of  developing,  field testing, and evaluating State assessments to be used for some or  all  of  the  purposes  indicated  in  section  213(f)(1)(B),  that are aligned to State content standards certified by the Council.
 
-(2)  RESERVATION.-The  Secretary  shall  reserve  a  portion of  the  funds  authorized  under  section  241(d)  for  grants  to State  educational  agencies  and  local  educational  agencies  for purposes  of  developing  such  assessments  in  languages  other than English and for students with disabilities.
+(2)  RESERVATION.-The  Secretary  shall  reserve  a  portion of  the  funds  authorized  under  section  241(d)  for  grants  to State  educational  agencies  and  local  educational  agencies  for
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
 
 H.R.1804-27
+
+purposes  of  developing  such  assessments  in  languages  other than English and for students with disabilities.
 
 (b)  APPLICATIONS.-Each  State  or  local  educational  agency,  or consortium, that desires to receive  a  grant  under  subsection  (a)(1) shall  submit  an  application  to  the  Secretary  at  such  time,  in  such manner,  and  containing  such  information  and  assurances  as  the Secretary may require.
 
@@ -1146,13 +1149,15 @@ H.R.1804-28
 
 (b) NATIONAL LONG-RANGE TECHNOLOGY PLAN.-
 
-(1)  IN GENERAL.-The Secretary shall develop and publish within  12  months  of  the  date  of  enactment  of  this  Act,  and update when the Secretary determines appropriate, a national long-range  plan  that  supports  the  overall  national  technology policy and carries out the purposes of this part.
+(1)  IN GENERAL.-The Secretary shall develop and publish within  12  months  of  the  date  of  enactment  of  this  Act,  and update when the Secretary determines appropriate, a national
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
 H.R.1804-29
+
+long-range  plan  that  supports  the  overall  national  technology policy and carries out the purposes of this part.
 
 (2) PLAN REQUIREMENTS.-The Secretary shall-
 
@@ -1186,13 +1191,15 @@ H.R.1804-29
 
 (v)  increased  opportunities  for  the  professional development of teachers in the use of new technologies;
 
-(E)  how  the  Secretary  will  determine,  in  consultation with appropriate individuals, organizations, industries, and agencies,  the  feasibility  and  desirability  of  establishing guidelines to facilitate an easy exchange of data and effective use of technology in education;
+(E)  how  the  Secretary  will  determine,  in  consultation with appropriate individuals, organizations, industries, and agencies,  the  feasibility  and  desirability  of  establishing
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
 H.R.1804-30
+
+guidelines to facilitate an easy exchange of data and effective use of technology in education;
 
 (F)  how  the  Secretary  will  utilize  the  outcome  of  the evaluation undertaken pursuant to section 908 of the Star Schools  Program  Assistance  Act  to  promote  the  purposes of this part; and
 
@@ -1260,13 +1267,15 @@ H.R.1804-31
 
 (12) the development of model strategies to promote gender equity in the use of technology;
 
-(13)  encouraging collaboration between the Department of Education and other Federal departments and agencies in the development, implementation, evaluation and funding of applications  of  technology  for  education,  as  appropriate;  and
+(13)  encouraging collaboration between the Department of Education and other Federal departments and agencies in the
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
 
 H.R.1804-32
+
+development, implementation, evaluation and funding of applications  of  technology  for  education,  as  appropriate;  and
 
 (14) such other activities as the Secretary determines meet the purposes of this part.
 
@@ -1306,7 +1315,7 @@ H.R.1804-32
 
 (c) OPPORTUNITY-TO-LEARN DEVELOPMENT GRANTS.-There are authorized to be appropriated $2,000,000 for fiscal year 1994, and such  sums  as  may  be  necessary  for  fiscal  year  1995,  to  carry out section 219.
 
-(d)  ASSESSMENT DEVELOPMENT AND EVALUATION GRANTS.There are authorized to be appropriated $5,000,000 for fiscal year
+(d)  ASSESSMENT DEVELOPMENT AND EVALUATION GRANTS.-There are authorized to be appropriated $5,000,000 for fiscal year
 
 [[END OF PAGE 32]]
 
@@ -1424,13 +1433,15 @@ and 314;
 
 (2) ADDITIONAL INFORMATION.-In addition to the information described in subsections (b) and (c), each such application shall include-
 
-(A)  an  assurance  that  the  State  educational  agency will  cooperate  with  the  Secretary  in  carrying  out  the  Secretary's responsibilities under section 312, and will comply with reasonable requests of the Secretary for data related to  the  State's  progress  in  developing  and  implementing its State improvement plan under section 306;
+(A)  an  assurance  that  the  State  educational  agency will  cooperate  with  the  Secretary  in  carrying  out  the  Secretary's responsibilities under section 312, and will comply with reasonable requests of the Secretary for data related
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
 
 H.R.1804-36
+
+to  the  State's  progress  in  developing  and  implementing its State improvement plan under section 306;
 
 (B)  an  assurance  that  State  law  provides  adequate authority to carry out each  component  of  the  State's improvement  plan  developed,  or  to  be  developed  under section 306, or that such authority will be sought;
 
@@ -1494,13 +1505,15 @@ whichever is less.
 
 (4) CONSULTATION.-The panel shall consult the Governor, the  chief  State  school  officer,  the  State  board  of  education, and relevant committees of the State legislature in developing the State improvement plan.
 
-(5) OUTREACH.-The panel shall be responsible for conducting a statewide, grassroots outreach process, including conducting public hearings, to involve educators, related services personnel,  parents,  local  officials,  tribal  government  officials as appropriate, individuals representing private nonprofit elementary  and  secondary  schools,  community  and  business leaders,  citizens,  children's  advocates,  secondary  school  students,  and  others  with  a  stake  in  the  success  of  students and  their  education  system,  and  who  are  representative  of the  diversity  of  the  State  and  the  State's  student  population, including, students of limited-English proficiency, students with disabilities, and, as appropriate,  American  Indian,  Alaska Native,  and  Native  Hawaiian  students,  in  the  development of  the  State  improvement  plan  and  in  a  continuing  dialogue regarding  the  need  for  and  nature  of  standards  for  students and  local  and  State  responsibilities  for  helping  all  students achieve such standards in order to assure that the development and  implementation  of  the  State  improvement  plan  reflects local needs and experiences and does not result in a significant increase in paperwork for teachers.
+(5) OUTREACH.-The panel shall be responsible for conducting a statewide, grassroots outreach process, including conducting public hearings, to involve educators, related services personnel,  parents,  local  officials,  tribal  government  officials as appropriate, individuals representing private nonprofit elementary  and  secondary  schools,  community  and  business leaders,  citizens,  children's  advocates,  secondary  school  students,  and  others  with  a  stake  in  the  success  of  students and  their  education  system,  and  who  are  representative  of the  diversity  of  the  State  and  the  State's  student  population, including, students of limited-English proficiency, students with
 
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
 
 H.R.1804-38
+
+disabilities, and, as appropriate, American Indian, Alaska Native,  and  Native  Hawaiian  students,  in  the  development of  the  State  improvement  plan  and  in  a  continuing  dialogue regarding  the  need  for  and  nature  of  standards  for  students and  local  and  State  responsibilities  for  helping  all  students achieve such standards in order to assure that the development and  implementation  of  the  State  improvement  plan  reflects local needs and experiences and does not result in a significant increase in paperwork for teachers.
 
 (6)  PROCEDURE AND APPROVAL.-The  panel  shall  develop a State improvement plan, provide opportunity for public comment,  and  submit  such  plan  to  the  State  educational  agency for approval.
 
@@ -1582,7 +1595,7 @@ H.R.1804-40
 
 (2) creating an integrated and coherent approach to recruiting, retaining and supporting the continued professional development  of  teachers  (including  vocational  teachers),  and  other educators, giving special attention to the recruitment into and retention  of  qualified  minorities  in  the  education  profession.
 
-(f)  PARENTAL AND COMMUNITY SUPPORT AND INVOLVEMENT.Each  State  improvement  plan  shall  describe  strategies  for  how the State educational agency will involve parents and other community  representatives  in  planning,  designing,  and  implementing  the State improvement plan, including strategies such as-
+(f)  PARENTAL AND COMMUNITY SUPPORT AND INVOLVEMENT.-Each  State  improvement  plan  shall  describe  strategies  for  how the State educational agency will involve parents and other community  representatives  in  planning,  designing,  and  implementing  the State improvement plan, including strategies such as-
 
 (1)  focusing  public  and  private  community  resources  and public  school  resources  on  prevention  and  early  intervention to address the needs of all students by identifying and removing unnecessary regulations and obstacles to coordination; and
 
@@ -1660,13 +1673,15 @@ H.R.1804-42
 
 (p) AMENDMENTS TO PLAN.-
 
-(1)  IN GENERAL.-Each  State  educational  agency  shall periodically review its State improvement plan and revise such plan,  as  appropriate,  in  accordance  with  the  process  described in subsection (b).
+(1)  IN GENERAL.-Each  State  educational  agency  shall periodically review its State improvement plan and revise such
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
 
 H.R.1804-43
+
+plan,  as  appropriate,  in  accordance  with  the  process  described in subsection (b).
 
 (2) REVIEW.-The Secretary shall review any major amendment  to  a  State  improvement  plan  and  shall  not  disapprove any such amendment  before offering a State educational agency-
 
@@ -1734,7 +1749,7 @@ receives  an  allotment  under  this  title  for  any  year  after  the  first y
 
 (ii)  with  the  assistance  of  the  National  Education Standards and Improvement Council established under part B of title II;
 
-(B) supporting the implementation of high-performance management  and  organizational  strategies,  such  as  sitebased management,  shared  decisionmaking, or quality management  principles,  to  promote  effective  implementation of such plan;
+(B) supporting the implementation of high-performance management  and  organizational  strategies,  such  as  site-based management,  shared  decisionmaking, or quality management  principles,  to  promote  effective  implementation of such plan;
 
 (C)  supporting  the  development  and  implementation, at  the  local  educational  agency  and  school  building  level, of  improved  human  resource  development  systems  for recruiting, selecting, mentoring, supporting, evaluating and rewarding educators;
 
@@ -1780,13 +1795,15 @@ H.R.1804-45
 
 (1)  IN GENERAL.-(A) Each State educational agency shall make  subgrants,  through  a  competitive  process  to  carry  out the  authorized  activities  described  in  paragraph  (4),  to  local educational  agencies  (or  consortia  of  such  agencies)  in  accordance with section 308.
 
-(B) In making such subgrants, the State educational agency shall  award  not  less  than  1  subgrant  in  each  fiscal  year  to an urban local educational agency and not less than 1 subgrant in  each  fiscal  year  to  a  rural  local  educational  agency,  where appropriate,  except  that  this  provision  shall  not  apply  to  the District  of  Columbia.  An  education  service  agency  may  serve as a fiscal agent for a rural local educational agency.
+(B) In making such subgrants, the State educational agency shall  award  not  less  than  1  subgrant  in  each  fiscal  year  to an urban local educational agency and not less than 1 subgrant in  each  fiscal  year  to  a  rural  local  educational  agency,  where appropriate,  except  that  this  provision  shall  not  apply  to  the District  of  Columbia.  An  education  service  agency  may  serve
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
 
 H.R.1804-46
+
+as a fiscal agent for a rural local educational agency.
 
 (C)  Each  such  subgrant  shall  be  for  a  project  of  sufficient duration  and  of  sufficient  size,  scope,  and  quality  to  carry out the purpose of this title effectively.
 
@@ -1914,13 +1931,15 @@ H.R.1804-49
 
 (1)  IN GENERAL.-Each  State  educational  agency  shall award at least  50  percent  of  subgrant  funds  under  subsection (a)  in  each  fiscal  year  to  local  educational  agencies  that  have a greater percentage or number of disadvantaged children than the  statewide  average  such  percentage  or  number  for  all  local educational agencies in the State.
 
-(2) WAIVER.-The State educational agency may waive the requirement  of  paragraph  (1)  if  such  agency  does  not  receive a sufficient number of applications to comply with such requirement.
+(2) WAIVER.-The State educational agency may waive the requirement  of  paragraph  (1)  if  such  agency  does  not  receive
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
 
 H.R.1804-50
+
+a sufficient number of applications to comply with such requirement.
 
 ### SEC. 310. AVAILABILITY OF INFORMATION AND TRAINING.
 
@@ -2156,7 +2175,7 @@ H.R.1804-56
 
 ### SEC. 314. NATIONAL LEADERSHIP.
 
-(a) TECHNICAL ASSISTANCE AND INTEGRATION OF STANDARDS.From funds reserved in each fiscal year under section 304(a)(2)(A), the Secretary may, directly or through grants or contracts-
+(a) TECHNICAL ASSISTANCE AND INTEGRATION OF STANDARDS.-From funds reserved in each fiscal year under section 304(a)(2)(A), the Secretary may, directly or through grants or contracts-
 
 (1) provide technical assistance to States, local educational agencies, and tribal agencies developing or implementing school improvement plans, in a manner that ensures that such assistance is broadly available;
 
@@ -2218,7 +2237,7 @@ H.R.1804-57
 
 H.R.1804-58
 
-(B) review and incorporation of the National Education Goals  and  the  voluntary  national  content  standards,  voluntary  natural  student  performance  standards,  and  voluntary  natural  opportunity-to-learn  standards  developed under  part  B  of  title  II  of  this  Act,  provided  that  such review  shall  include  the  issues  of  cultural  and  language differences; and
+(B) review and incorporation of the National Education Goals  and  the  voluntary  national  content  standards,  voluntary  national  student  performance  standards,  and  voluntary  national  opportunity-to-learn  standards  developed under  part  B  of  title  II  of  this  Act,  provided  that  such review  shall  include  the  issues  of  cultural  and  language differences; and
 
 (C)  provision  for  coordination  of  the  efforts  of  the Bureau  with  the  efforts  for  school  improvement  of  the States and local educational agencies in which the schools funded  by  the  Bureau  are  located,  including  the  development  of  the  partnerships  outlined  in  section  306(g)(2)  of the Act.
 
@@ -2304,7 +2323,7 @@ Notwithstanding  any  other  provision  of  this  title,  standards or State ass
 
 (3) the development and implementation of a cost-effective, high-speed,  statewide,  interoperable,  wide-area-communication educational  technology  support  system  for  elementary  and secondary schools within the State, particularly for such schools in rural areas; and
 
-(4)  the  promotion  of  shared  usage  of  equipment,  facilities, and other technology resources by adult learners during afterschool hours.
+(4)  the  promotion  of  shared  usage  of  equipment,  facilities, and other technology resources by adult learners during after-school hours.
 
 (d) PLAN REQUIREMENTS.-At a minimum, each systemic statewide plan shall-
 
@@ -2448,7 +2467,7 @@ H.R.1804-64
 
 (II)  representatives  of  education  professionals with expertise in improving services for disadvantaged children; and
 
-(ii) is broadly  representative of minority,  lowincome,  and  other  individuals  and  groups  that  have an  interest  in  compensatory  education  and  family  literacy;
+(ii) is broadly  representative of minority,  low-income,  and  other  individuals  and  groups  that  have an  interest  in  compensatory  education  and  family  literacy;
 
 (C)  use  at  least  one-half  of  the  funds  provided  under this  Act  in  each  fiscal  year  to  serve  areas  with  high  concentrations of low-income families in order to serve parents who  are  severely  educationally  or  economically  disadvantaged;
 
@@ -2658,7 +2677,7 @@ H.R.1804-68
 
 (ii) 6 members shall be representatives from the following groups, with at least 1 member from each group:
 
-(I)  Educational  institutions  (including  vocationaltechnical institutions).
+(I)  Educational  institutions  (including  vocational-technical institutions).
 
 (II) Community-based organizations.
 
@@ -3112,9 +3131,7 @@ H.R.1804-80
 
 (b)  AUTHORIZATION OF APPROPRIATIONS AND RESERVATION.-
 
-(1)  AUTHORIZATION.-There  are  authorized  to  be  appro-
-
-priated $50,000,000 for fiscal year 1994 to carry out this title.
+(1)  AUTHORIZATION.-There  are  authorized  to  be  appropriated $50,000,000 for fiscal year 1994 to carry out this title.
 
 [[END OF PAGE 80]]
 
@@ -3228,7 +3245,7 @@ H.R.1804-83
 
 (10)  Developing  and  implementing  innovative  curricula  to prevent  violence  in  schools  and  training  staff  how  to  stop disruptive or violent behavior if such behavior occurs.
 
-(11) Supporting ''safe zones of passage'' for students between  home  and  school  through  such  measures  as  Drugand  Weapon-Free  School  Zones,  enhanced  law  enforcement, and neighborhood patrols.
+(11) Supporting ''safe zones of passage'' for students between  home  and  school  through  such  measures  as  Drug- and  Weapon-Free  School  Zones,  enhanced  law  enforcement, and neighborhood patrols.
 
 (12)  Counseling  programs  for  victims  and  witnesses  of school violence and crime.
 
@@ -3628,7 +3645,7 @@ H.R.1804-93
 
 (3) enable entities engaged in education research, development,  and  dissemination  within  the  Federal  Government  to interact  effectively  as  partners  and  take  full  advantage  of  the diverse resources and  proficiencies which  each  entity  has available.
 
-(h)  ACTIVITIES REQUIRED WITH RESPECT TO COORDINATION.In  carrying  out  such  program  of  coordination,  the  Assistant  Secretary shall compile (and thereafter regularly maintain) and make available a comprehensive inventory of education research, development,  dissemination  activities,  and  expenditures  being  carried  out by the Federal Government.
+(h)  ACTIVITIES REQUIRED WITH RESPECT TO COORDINATION.-In  carrying  out  such  program  of  coordination,  the  Assistant  Secretary shall compile (and thereafter regularly maintain) and make available a comprehensive inventory of education research, development,  dissemination  activities,  and  expenditures  being  carried  out by the Federal Government.
 
 (i) STANDARDS FOR THE CONDUCT AND EVALUATION OF RESEARCH.-
 
@@ -4062,7 +4079,7 @@ H.R.1804-105
 
 (C) through the provision of technical assistance;
 
-(D) through the award of fellowships to support graduate  study  in  educational  research  by  qualified  AfricanAmerican,  Hispanic,  American  Indian  and  Alaska  Native, and other individuals from groups which have been traditionally  underrepresented  in  the  field  of  educational research which shall-
+(D) through the award of fellowships to support graduate  study  in  educational  research  by  qualified  African-American,  Hispanic,  American  Indian  and  Alaska  Native, and other individuals from groups which have been traditionally  underrepresented  in  the  field  of  educational research which shall-
 
 (i)  be  awarded  on  the  basis  of  merit  for  a  period of 3 years; and
 
@@ -4154,7 +4171,7 @@ H.R.1804-107
 
 (A)  may  obtain  (in  accordance  with  section  3109  of title 5 but without regard to the limitation in such section on the period of service) the services of experts or consultants  with  scientific  or  professional  qualifications  in  the disciplines relevant to the purposes of such Institute;
 
-(B)  may  use,  with  their  consent,  the  services,  equipment,  personnel,  information,  and  facilities  of  other  Federal, State, or local public agencies, with or  without reimbursement therefore; and
+(B)  may  use,  with  their  consent,  the  services,  equipment,  personnel,  information,  and  facilities  of  other  Federal, State, or local public agencies, with or  without reimbursement therefor; and
 
 [[END OF PAGE 107]]
 
@@ -4272,7 +4289,7 @@ H.R.1804-110
 
 (1) FINDINGS.-The Congress finds as follows:
 
-(A) The rate of decline in our urban schools is escalating  at  a  rapid  pace.  Student  performance  in  most  inner city  schools  grows  worse  each  year.  At  least  half  of  all students  entering  ninth  grade  fail  to  graduate  4  years later  and  many  more  students  from  high-poverty  backgrounds  leave  school  with  skills  that  are  inadequate  for today's workplace. Student performance in many inner city neighborhoods  grows  worse  each  year.  At  least  half  of all  students  entering  ninth  grade  fail  to  graduate  in  4 years.  In  1992,  the  average  National  Assessment  of  Educational  Progress  reading  score  of  Caucasian  17  year-olds was  approximately  25  points  higher  than  that  of  African- American  17  year-olds  and  20  points  higher  than  that of Hispanic 17 year-olds.
+(A) The rate of decline in our urban schools is escalating  at  a  rapid  pace.  Student  performance  in  most  inner city  schools  grows  worse  each  year.  At  least  half  of  all students  entering  ninth  grade  fail  to  graduate  4  years later  and  many  more  students  from  high-poverty  backgrounds  leave  school  with  skills  that  are  inadequate  for today's workplace. Student performance in many inner city neighborhoods  grows  worse  each  year.  At  least  half  of all  students  entering  ninth  grade  fail  to  graduate  in  4 years.  In  1992,  the  average  National  Assessment  of  Educational  Progress  reading  score  of  Caucasian  17  year-olds was  approximately  25  points  higher  than  that  of  African-American  17  year-olds  and  20  points  higher  than  that of Hispanic 17 year-olds.
 
 [[END OF PAGE 110]]
 
@@ -4350,7 +4367,7 @@ H.R.1804-113
 
 (A)  Despite  efforts  to  expand  and  improve  preschool programs, many children still reach school age unprepared to benefit from formal education programs.
 
-(B) Early intervention for disadvantaged children from birth  to  age  five  has  been  shown  to  be  a  highly  costeffective strategy for reducing later expenditures on a wide variety of health, developmental, and educational problems that  often  interfere  with  learning.  Long-term  studies  of the  benefits  of  preschool  education  have  a  demonstrated return  on  investment  ranging  from  three  to  six  dollars for every one dollar spent.
+(B) Early intervention for disadvantaged children from birth  to  age  five  has  been  shown  to  be  a  highly  cost-effective strategy for reducing later expenditures on a wide variety of health, developmental, and educational problems that  often  interfere  with  learning.  Long-term  studies  of the  benefits  of  preschool  education  have  a  demonstrated return  on  investment  ranging  from  three  to  six  dollars for every one dollar spent.
 
 (C)  The  Federal  Government  should  play  a  central role in providing research-based information on early childhood  education  models  which  enhance  children's  development and ultimately their success in school.
 
@@ -4492,7 +4509,7 @@ H.R.1804-117
 
 (iii)  the most effective training methods for adults to upgrade education and vocational skills;
 
-(iv) opportunities for adults to continue their education  beyond  higher  education  and  graduate  school, in  the  context  of  lifelong  learning  and  informationfinding skills;
+(iv) opportunities for adults to continue their education  beyond  higher  education  and  graduate  school, in  the  context  of  lifelong  learning  and  information-finding skills;
 
 (v)  adult  literacy  and  effective  methods,  including technology, to eliminate illiteracy;
 
@@ -4580,7 +4597,7 @@ H.R.1804-119
 
 (4) ADDITIONAL RESPONSIBILITIES.-In addition to the responsibilities  described  in  paragraph  (2),  the  Assistant  Secretary  shall  ensure  that  the  activities  of  the  National  Center on  Literacy  are  fully  coordinated  with  those  of  the  National Institute for Literacy.
 
-(i)  COORDINATION AND RESEARCH SYNTHESIS.-The  Assistant Secretary  shall  promote  and  provide  for  research  syntheses  and the coordination of research and development activities among the Institutes  established  by  this  section  to  investigate  those  crosscutting  disciplines  and  areas  of  inquiry  which  are  relevant  to  the missions of more than one of the Institutes. Such activities-
+(i)  COORDINATION AND RESEARCH SYNTHESIS.-The  Assistant Secretary  shall  promote  and  provide  for  research  syntheses  and the coordination of research and development activities among the Institutes  established  by  this  section  to  investigate  those  cross-cutting  disciplines  and  areas  of  inquiry  which  are  relevant  to  the missions of more than one of the Institutes. Such activities-
 
 (1)  may be carried out jointly by any one of the Institutes and-
 
@@ -4694,7 +4711,7 @@ H.R.1804-122
 
 (B) whether there is sufficient evidence to lead a panel of  experts  and  practitioners  to  believe  that  the  program shows  promise  for  improving  student  achievement  and should be designated as promising and disseminated through  the  national  dissemination  system  while  the  program continues to be evaluated.
 
-(3)  REQUIREMENT REGARDING APPROVAL OF PROGRAMS.In  seeking  out  programs  for  approval  under  paragraph  (2), the Assistant Secretary shall seek programs that may be implemented at the State, local, and classroom level.
+(3)  REQUIREMENT REGARDING APPROVAL OF PROGRAMS.-In  seeking  out  programs  for  approval  under  paragraph  (2), the Assistant Secretary shall seek programs that may be implemented at the State, local, and classroom level.
 
 (4) REQUIREMENTS REGARDING PANELS.-
 
@@ -4704,7 +4721,7 @@ H.R.1804-122
 
 (C)  The  Secretary  shall  establish  such  panels  under paragraph  (1)  as  may  be  necessary  to  ensure  that  each program identified or submitted for evaluation is evaluated.
 
-(D)  Not  less  than 2 /3 of  the  membership  of  a  panel established under paragraph (1) shall consist of individuals who  are  not  officers  or  employees  of  the  United  States. Members  of  panels  under  paragraph  (1)  who  are  not employees of the United States shall receive compensation for  each  day  they  are  engaged  in  carrying  out  the  duties of  the  panel  as  well  as  compensation  for  their  expenses.
+(D)  Not  less  than 2⁄3 of  the  membership  of  a  panel established under paragraph (1) shall consist of individuals who  are  not  officers  or  employees  of  the  United  States. Members  of  panels  under  paragraph  (1)  who  are  not employees of the United States shall receive compensation for  each  day  they  are  engaged  in  carrying  out  the  duties of  the  panel  as  well  as  compensation  for  their  expenses.
 
 [[END OF PAGE 122]]
 
@@ -4712,7 +4729,7 @@ H.R.1804-122
 
 H.R.1804-123
 
-(e) DISSEMINATION OF EXEMPLARY AND PROMISING PROGRAMS.In order to ensure that programs identified as exemplary or promising  are  available  for  adoption  by  the  greatest  number  of  teachers, schools,  local  and  State  education  agencies,  and  Bureau-funded schools,  the  Assistant  Secretary  shall  utilize  the  capabilities  of-
+(e) DISSEMINATION OF EXEMPLARY AND PROMISING PROGRAMS.-In order to ensure that programs identified as exemplary or promising  are  available  for  adoption  by  the  greatest  number  of  teachers, schools,  local  and  State  education  agencies,  and  Bureau-funded schools,  the  Assistant  Secretary  shall  utilize  the  capabilities  of-
 
 (1) the Educational Resources Information Center Clearinghouses;
 
@@ -5020,13 +5037,13 @@ H.R.1804-131
 
 (1)  PURPOSE.-The purpose of the Goals 2000 Community Partnerships  program  is  to  improve  the  quality  of  learning and teaching in the most impoverished urban and rural communities  of  the  United  States  by  supporting  sustained  collaborations  between  universities,  schools,  businesses,  and  communities which apply and utilize the results of educational research and development.
 
-(2)  GRANTS FOR GOALS 2000 COMMUNITY PARTNERSHIPS.The Assistant Secretary is authorized to make grants to eligible entities to support the establishment of Learning Grant Institutions  and  District  Education  Agents  and  the  activities  authorized under this subsection within eligible communities.
+(2)  GRANTS FOR GOALS 2000 COMMUNITY PARTNERSHIPS.-The Assistant Secretary is authorized to make grants to eligible entities to support the establishment of Learning Grant Institutions  and  District  Education  Agents  and  the  activities  authorized under this subsection within eligible communities.
 
 (3)  DEFINITION OF ELIGIBLE ENTITY AND ELIGIBLE COMMUNITY.-For the purposes of this subsection:
 
 (A)  The  term  ''eligible  entity''  includes  any  institution of higher education, regional educational laboratory, National Diffusion Network project, national research and development center, public or private nonprofit corporation, or any consortium thereof, that-
 
-(i)  has  demonstrated  experience,  expertise  and commitment  in  serving  the  educational  needs  of  atrisk students; and
+(i)  has  demonstrated  experience,  expertise  and commitment  in  serving  the  educational  needs  of  at-risk students; and
 
 (ii) is, by virtue of its previous activities, knowledgeable about the unique needs and characteristics of the community to be served.
 
@@ -5034,7 +5051,7 @@ H.R.1804-131
 
 (i)  has  a  population  of  not  less  than  200,000  and not more than 300,000; and
 
-(ii)  in  which  not  less  than  one-half  of  the  schoolage  children  have  family  incomes  which  are  below the  poverty  line,  as  determined  by  the  1990  United States  Census,  participation  in  the  National  School Lunch program, or other current, reliable data concerning family income.
+(ii)  in  which  not  less  than  one-half  of  the  school-age  children  have  family  incomes  which  are  below the  poverty  line,  as  determined  by  the  1990  United States  Census,  participation  in  the  National  School Lunch program, or other current, reliable data concerning family income.
 
 (4)  GOALS 2000 COMMUNITY PARTNERSHIPS.-Each  learning grant  institution  receiving  assistance  under  this  subsection shall  establish  a  Goals  2000  community  partnership  to  carry out the activities authorized under this subsection.  Such partnership-
 
@@ -5078,7 +5095,7 @@ H.R.1804-132
 
 (v) supporting research and development by teachers, school administrators, and other practitioners which  promise  to  improve  teaching  and  learning  and the organization of schools;
 
-(B) improving the capacity of educators, school administrators, child care providers and other practitioners to prepare all students to reach challenging standards and to attain the goals set out in the comprehensive communitywide plan through such means as-
+(B) improving the capacity of educators, school administrators, child care providers and other practitioners to prepare all students to reach challenging standards and to attain the goals set out in the comprehensive community-wide plan through such means as-
 
 (i)  the  training  of  prospective  and  novice  teachers (including preschool and early childhood educators) in a school setting under the guidance of master teachers and teacher educators;
 
@@ -5288,9 +5305,7 @@ H.R.1804-137
 
 (4) statistics and other information produced by the National Center for Education Statistics; and
 
-(5) referrals to additional sources of information and exper-
-
-tise  about  educational  issues  which  may  be  available  through educational  associations  and  foundations,  the  private  sector, colleges and universities, libraries and bibliographic databases.
+(5) referrals to additional sources of information and expertise  about  educational  issues  which  may  be  available  through educational  associations  and  foundations,  the  private  sector, colleges and universities, libraries and bibliographic databases.
 
 The  Library  shall  maintain  and  actively  publicize  a  toll-free  telephone  number  through  which  public  inquiries  to  the  Library  may be made.
 
@@ -5542,7 +5557,7 @@ H.R.1804-143
 
 (2)  REQUIRED SERVICES AND DESIGN.-(A)  Subsection  (c) of  such  section  253  of  the  Job  Training  Partnership  Act  (20 U.S.C. 1632(c)) is amended by adding at the end the following new paragraphs:
 
-''(3)  BASIC EDUCATION AND PREEMPLOYMENT TRAINING.The  programs  under  this  part  shall  provide,  either  directly or  through  arrangements  with  other  programs,  each  of  the following  services  to  a  participant  where  the  assessment  and the  service  strategy  indicate  such  services  are  appropriate:
+''(3)  BASIC EDUCATION AND PREEMPLOYMENT TRAINING.-The  programs  under  this  part  shall  provide,  either  directly or  through  arrangements  with  other  programs,  each  of  the following  services  to  a  participant  where  the  assessment  and the  service  strategy  indicate  such  services  are  appropriate:
 
 ''(A) Basic and Remedial Education.
 
@@ -5572,7 +5587,7 @@ H.R.1804-144
 
 ### SEC. 1017. PROTECTION OF PUPILS.
 
-Section 439 of the General Education Provisions Act (20 U.S.C. 1232g) is amended to read as follows:
+Section 439 of the General Education Provisions Act (20 U.S.C. 1232h) is amended to read as follows:
 
 #### ''PROTECTION OF PUPIL RIGHTS
 
@@ -5664,7 +5679,7 @@ H.R.1804-146
 
 It is the sense of the Congress that-
 
-(1)  no  funds  appropriated  pursuant  to  this  Act  should  be expended by an entity unless the entity agrees that in expending the assistance the entity will comply with sections 2 through 4  of  the  Act  of  March  3,  1993  (41  U.S.C.  10a-10c,  popularly known as the ''Buy American Act'');
+(1)  no  funds  appropriated  pursuant  to  this  Act  should  be expended by an entity unless the entity agrees that in expending the assistance the entity will comply with sections 2 through 4  of  the  Act  of  March  3,  1933  (41  U.S.C.  10a-10c,  popularly known as the ''Buy American Act'');
 
 (2)  in  the  case  of  any  equipment  or  products  that  may be  authorized  to  be  purchased  with  financial  assistance  provided under this Act, entities receiving such assistance should, in  expending  the  assistance,  purchase  only  American-made equipment and products;
 
@@ -5834,7 +5849,7 @@ This  part  may  be  cited  as  the  ''Midnight  Basketball  League Training and
 
 Section 520 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 11903a) is amended-
 
-(1)  in  the  section  heading  by  inserting  '' AND ASSISTED '' after '' PUBLIC '';
+(1)  in  the  section  heading  by  inserting  ''AND ASSISTED'' after ''PUBLIC'';
 
 (2) in the subsection heading for subsection (a), by inserting ''PUBLIC HOUSING'' before ''YOUTH''; and
 
@@ -5948,13 +5963,15 @@ H.R.1804-153
 
 ''(B) letters of agreement from service providers to provide training and counseling services required under paragraph (4) and a description of such service providers;
 
-''(C)  letters  of  agreement  providing  for  facilities  for basketball games and counseling, training, and educational services  required  under  paragraph  (4)  and  a  description of the facilities;
+''(C)  letters  of  agreement  providing  for  facilities  for basketball games and counseling, training, and educational
 
 [[END OF PAGE 153]]
 
 [[START OF PAGE 154]]
 
 H.R.1804-154
+
+services  required  under  paragraph  (4)  and  a  description of the facilities;
 
 ''(D) a list of persons and businesses from the community  served  by  the  program  who  have  expressed  interest in  sponsoring,  or  have  made  commitments  to  sponsor,  a team in the midnight basketball league; and
 
@@ -5982,13 +5999,15 @@ H.R.1804-154
 
 ''(9)  ADVISORY COMMITTEE.-The Secretary of Housing and Urban  Development  shall  appoint  an  Advisory  Committee  to assist the Secretary in providing grants under this subsection. The  Advisory  Committee  shall  be  composed  of  not  more  than 7 members, as follows:
 
-''(A)  Not  less  than  2  individuals  who  are  involved  in managing or  administering  midnight  basketball  programs that  the  Secretary  determines  have  been  successful  and effective.  Such  individuals  may  not  be  involved  in  a  program  assisted  under  this  subsection  or  a  member  or employee  of  an  eligible  advisory  entity  that  receives  a technical assistance grant under paragraph (1)(B).
+''(A)  Not  less  than  2  individuals  who  are  involved  in managing or  administering  midnight  basketball  programs
 
 [[END OF PAGE 154]]
 
 [[START OF PAGE 155]]
 
 H.R.1804-155
+
+that  the  Secretary  determines  have  been  successful  and effective.  Such  individuals  may  not  be  involved  in  a  program  assisted  under  this  subsection  or  a  member  or employee  of  an  eligible  advisory  entity  that  receives  a technical assistance grant under paragraph (1)(B).
 
 ''(B)  A  representative  of  the  Center  for  Substance Abuse Prevention of the Public Health Service, Department of  Health and Human Services, who is involved in administering  the  grant  program  for  prevention,  treatment,  and rehabilitation  model  projects  for  high  risk  youth  under section  509A  of  the  Public  Health  Service  Act  (42  U.S.C. 290aa-8), who shall be selected by the Secretary of Health and Human Services.
 
