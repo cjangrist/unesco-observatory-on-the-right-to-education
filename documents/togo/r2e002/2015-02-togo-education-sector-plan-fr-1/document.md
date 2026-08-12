@@ -60,11 +60,78 @@ L'équipe de rédaction du Plan Sectoriel de l'Education a travaillé sous la di
 
 ## SOMMAIRE
 
-3
+CHAPITRE 1er CONTEXTE D'ACTUALISATION DU PSE ....................................................7
+I.1. Evolution récente de la politique sectorielle..................................................................................7
+I.2. Evaluation de la première phase du PSE par les revues sectorielles et le RESEN .................8
+I.3. Une nécessaire mise à jour du Plan Sectoriel de l'Education .....................................................9
+I.4. Le processus d'élaboration du PSE 2014-2025...........................................................................10
+CHAPITRE 2 ELEMENTS DE DIAGNOSTIC.........................................................................12
+II.1. Contexte démographique .............................................................................................................12
+II.2. Contexte macroéconomique ........................................................................................................12
+II. 3. Financement du secteur...............................................................................................................13
+II. 4. Accès et rétention.........................................................................................................................14
+II.5. Efficacité externe ...........................................................................................................................25
+CHAPITRE 3 LA POLITIQUE EDUCATIVE NATIONALE...............................................28
+III.1. Les grands axes de la politique sectorielle ................................................................................28
+III.2. Les objectifs de la politique sectorielle......................................................................................30
+III.3. Les principes directeurs de la politique sectorielle ..................................................................31
+CHAPITRE 4 LES COMPOSANTES DE LA STRATEGIE SECTORIELLE....................34
+IV.1. PETITE ENFANCE ......................................................................................................................34
+IV.1.1. Réalisations entre 2010 et 2012 et contraintes majeures.....................................................34
+IV.1.2. Perspectives de politique pour le préscolaire à l'horizon 2025...........................................35
+IV.1.3. Les choix et modalités stratégiques de mise en œuvre ........................................................35
+IV.1.4. Principales activités à réaliser sur la période 2014-2016......................................................35
+IV.2. ENSEIGNEMENT PRIMAIRE..................................................................................................36
+IV.2.1. Réalisations entre 2010 et 2012 et contraintes majeures.....................................................36
+IV.2.2. Les perspectives du nouveau programme à l'horizon 2025................................................38
+IV.2.3. Les choix et modalités stratégiques de mise en œuvre ........................................................39
+IV.2.4. Principales activités à réaliser sur la période 2014-2016......................................................42
+IV.3. ALPHABETISATION ET EDUCATION NON FORMELLE...........................................43
+IV.3.1. Réalisations entre 2010 et 2012 et contraintes majeures.....................................................43
+IV.3.2. Perspectives et choix de politique pour l'AENF à l'horizon 2025 ....................................44
+IV.3.3. Principales activités à réaliser sur la période 2014-2016......................................................46
+IV.4.1. Réalisations entre 2010 et 2012 et contraintes majeures.....................................................47
+IV.4.2. Perspectives et choix de politique pour le secondaire à l'horizon 2025............................49
+IV.4.3. Principales activités à réaliser sur la période 2014-16 ..........................................................53
+IV.5. ENSEIGNEMENT TECHNIQUE ET FORMATION PROFESSIONNELLE..............54
 
+3
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+IV.5.1. Réalisations entre 2010 et 2012 et contraintes majeures.....................................................54
+IV.5.2. Perspectives et choix de politique pour l'ETFP à l'horizon 2025 ....................................56
+IV.5.3. Les choix et modalités stratégiques de mise en œuvre .......................................................58
+IV.6. ENSEIGNEMENT SUPERIEUR ET RECHERCHE ...........................................................61
+IV.6.1. Réalisations entre 2010 et 2012 et contraintes majeures.....................................................61
+IV.6.2. Perspectives générales pour la politique de l'ESR à l'horizon 2025 ..................................62
+IV.6.3. Activités à réaliser par l'ESR sur la période 2014-16 ...........................................................66
+CHAPITRE 5 GESTION ET PILOTAGE DU SECTEUR......................................................68
+V.1. Gestion sectorielle .........................................................................................................................68
+V.2. Gestion et pilotage du sous-secteur enseignements de base et secondaire ...........................73
+V.3. Gestion et pilotage de l'alphabétisation et de l'éducation non formelle................................75
+V.4. Gestion et pilotage du sous-secteur de l'ETFP.........................................................................75
+V.5. Gestion et pilotage du sous-secteur de l'enseignement supérieur et de la recherche ..........77
+V.6. Facteurs de risque ..........................................................................................................................78
+CHAPITRE 6 COUTS ET FINANCEMENT DU PSE.............................................................80
+VI.1 Ressources publiques anticipées .................................................................................................80
+VI.2 Ressources attendues des PTF....................................................................................................80
+VI.3. Nouvelle approche budgétaire ...................................................................................................81
+VI.4. Le Cadre de Dépense à Moyen Terme de l'Education...........................................................81
+VI.5 Evolution des dépenses courantes..............................................................................................83
+VI.6. Budget d'investissement du PSE ...............................................................................................84
+CHAPITRE 7 MECANISMES DE SUIVI-EVALUATION DU PSE....................................88
+VII.1. Dispositif central et déconcentré..............................................................................................88
+VII.2. Réunions de coordination PTF-Gouvernement...................................................................90
+VII.3. Revues conjointes de suivi du PSE..........................................................................................91
+VII.4. Les dispositifs et moyens de collecte et de traitement des données ...................................91
+ANNEXES .................................................................................................................................................92
+ANNEXE 1 : Tableau des indicateurs de suivi .................................................................................93
+ANNEXE 2 : Cadre logique ................................................................................................................96
+ANNEXE 3 : Cadre de Dépenses à Moyen Terme........................................................................112
+ANNEXE 4 : Plan Triennal d'Actions Budgétisées.......................................................................123
+ANNEXE 5 : Processus participatif de révision du PSE ..............................................................167
 
 4
 
@@ -90,7 +157,7 @@ CDMT | Cadre de dépenses à moyen terme
 CEG | Collège d'enseignement général
 CEGIL | Collège d'enseignement général d'initiative locale
 CFA | Certificat de fin d'apprentissage
-CM1 | Cours moyen 1 ère année
+CM1 | Cours moyen 1ère année
 COFE | Cellule de l'observatoire de la formation pour l'emploi
 COGEP | Comité de gestion des écoles primaires
 CP | Cours préparatoire
@@ -130,7 +197,7 @@ IGE | Inspection générale de l'éducation
 IMOA | Initiative de mise en œuvre accélérée
 --- | ---
 INSE | Institut national des sciences de l'éducation
-LMD | Licence - Master -Doctorat
+LMD | Licence – Master -Doctorat
 MAEP | Ministère de l'agriculture, de l'élevage et de la pêche
 MEPS | Ministère des enseignements primaire et secondaire
 MEPSA | Ministère des enseignements primaire, secondaire et de l'alphabétisation
@@ -173,7 +240,7 @@ UNICEF | Fonds des Nations Unies pour l'Enfance
 
 [[START OF PAGE 7]]
 
-## CHAPITRE 1 er CONTEXTE D'ACTUALISATION DU PSE
+## CHAPITRE 1er CONTEXTE D'ACTUALISATION DU PSE
 
 Pendant plus de deux décennies le système éducatif togolais a éprouvé d'énormes difficultés nées des  crises  socio  politiques  des  années  1990  qui  ont  entrainé  une  suspension  de  la  coopération internationale. Cette suspension de l'aide a eu pour effets d'affaiblir les capacités institutionnelles de  l'Etat,  d'entraver  la  fourniture  de  service  d'éducation  et  de  gravement  éroder  la  qualité  des infrastructures publiques de base.
 
@@ -331,7 +398,7 @@ La  population  togolaise  a  presque  doublé  entre  1981  et  2010  avec  un 
 
 En  dépit  de  la  reprise  de  la  croissance  économique  observée  dans  le  pays  au  cours  de  ces dernières  années,  la  performance  macroéconomique  demeure  encore  faible  au  regard  de  la demande sociale liée à cette forte pression démographique. En effet, malgré un taux de croissance réel  du PIB de 3,4% en 2009, de 4,1% en 2010 et de 4,3% en 2011, le Togo n'a toujours pas retrouvé sa situation d'avant 1997, puisque le PIB/habitant n'est que de 273 000 FCFA en 2011 contre  315 884  FCFA  en  1997.  Ceci  suggère  un  environnement  macroéconomique  qui  mérite encore d'être conforté pour permettre une mobilisation plus importante des ressources publiques. La Stratégie de Croissance Accélérée et de Promotion de l'Emploi (SCAPE) table sur un taux de croissance moyen de 5,9% entre 2013 et 2017.
 
-Par ailleurs,  le  niveau  de  pauvreté  de  la  population  reste  élevé  à  58,7%.  Si  le  taux  de  pauvreté monétaire  a  légèrement  diminué  entre  2006  et  2011,  le  taux  d'extrême  pauvreté  est  passé  de 28,6% en 2006 à 30,4% en 2011 3 .  Selon l'indice  de  développement humain, le Togo occupe le 159 ème rang sur 187 4 .
+Par ailleurs,  le  niveau  de  pauvreté  de  la  population  reste  élevé  à  58,7%.  Si  le  taux  de  pauvreté monétaire  a  légèrement  diminué  entre  2006  et  2011,  le  taux  d'extrême  pauvreté  est  passé  de 28,6% en 2006 à 30,4% en 2011³. Selon l'indice de développement humain, le Togo occupe le 159ème rang sur 187⁴.
 
 #### Les ressources et les dépenses de l'Etat sont en constantes augmentation depuis 2003
 
@@ -357,6 +424,22 @@ L'augmentation  des  ressources  publiques  totales  a  entrainé  une  augmenta
 
 Graphique 1 : Comparaison internationale de la part des dépenses courantes de l'Etat hors dette allouée à l'éducation (pays avec un PIB/habitant compris entre 250 et 750 dollars des Etats-Unis)
 
+Moyenne des 12 pays comparateurs : 21,5%
+Guinée-Bissau (2010) 11,5
+RCA (2010) 11,9
+Tchad (2010) 12,6
+Malawi (2011) 18,0
+Gambie (2011) 19,3
+Moyenne Afrique 22,1
+Niger (2011) 22,7
+Madagascar (2011) 23,4
+Tanzanie (2010) 25,9
+Mali (2011) 25,9
+Rwanda (2011) 26,2
+Togo (2011) 27,6
+Sierra Leone (2011) 29,1
+Bénin (2010) 31,1
+
 Source : Ministère de l'économie et des finances, calcul des auteurs, Pôle de Dakar de l'UNESCO
 
 #### La  contribution  des  ménages  apparait  vitale  pour  le  système  éducatif  togolais, malgré une priorité budgétaire forte de l'Etat pour l'éducation
@@ -373,9 +456,19 @@ Lorsqu'on  calcule  ce  que  représentent  les  dépenses  des  ménages  pour 
 
 #### Une  allocation  intra  sectorielle  des  dépenses  courantes  publiques  d'éducation favorable à l'enseignement primaire et défavorable au premier cycle de l'enseignement secondaire
 
-Sur  le  plan  de  l'allocation  intra  sectorielle  des  ressources,  le  primaire  avec  48,0%  en  2011, bénéficie de la plus grande part des dépenses courantes d'éducation, une valeur qui se situe dans la moyenne des pays comparateurs et typique des pays n'ayant pas atteint la SPU. Par contre, les sous-secteurs  du  préscolaire,  et  de  l'alphabétisation  apparaissent  sous-financés,  avec  1,4% seulement  des  dépenses  courantes  d'éducation  (une  valeur  qui  n'a  pas  évolué  dans  le  temps), contre une moyenne des pays comparateurs qui s'établit à 4,9%. Le 1er cycle de l'enseignement secondaire général apparaît également sous-financé, notamment au regard de la demande qui pèse sur  celui-ci ;  les  élèves  achevant  le  primaire  étant  de  plus  en  plus  nombreux,  il  y  a  une  forte demande sociale pour le 1er cycle de l'enseignement secondaire. Ce sous-secteur consomme en effet  15% seulement des dépenses courantes allouées à l'éducation, une valeur en net recul au regard de 2007 (24%). Quant aux sous-secteurs de l'enseignement technique et de la formation professionnelle  et  de  l'enseignement  supérieur,  les  parts  des  dépenses  d'éducation  allouées  ont diminué dans le temps pour atteindre, en 2011, respectivement 6,1% et 17%. Le graphique 2 cidessous présente la repartition intra sectorielle des dépenses courantes d'éducation pour l'année 2011.
+Sur  le  plan  de  l'allocation  intra  sectorielle  des  ressources,  le  primaire  avec  48,0%  en  2011, bénéficie de la plus grande part des dépenses courantes d'éducation, une valeur qui se situe dans la moyenne des pays comparateurs et typique des pays n'ayant pas atteint la SPU. Par contre, les sous-secteurs  du  préscolaire,  et  de  l'alphabétisation  apparaissent  sous-financés,  avec  1,4% seulement  des  dépenses  courantes  d'éducation  (une  valeur  qui  n'a  pas  évolué  dans  le  temps), contre une moyenne des pays comparateurs qui s'établit à 4,9%. Le 1er cycle de l'enseignement secondaire général apparaît également sous-financé, notamment au regard de la demande qui pèse sur  celui-ci ;  les  élèves  achevant  le  primaire  étant  de  plus  en  plus  nombreux,  il  y  a  une  forte demande sociale pour le 1er cycle de l'enseignement secondaire. Ce sous-secteur consomme en effet  15% seulement des dépenses courantes allouées à l'éducation, une valeur en net recul au regard de 2007 (24%). Quant aux sous-secteurs de l'enseignement technique et de la formation professionnelle  et  de  l'enseignement  supérieur,  les  parts  des  dépenses  d'éducation  allouées  ont diminué dans le temps pour atteindre, en 2011, respectivement 6,1% et 17%. Le graphique 2 ci-dessous présente la repartition intra sectorielle des dépenses courantes d'éducation pour l'année 2011.
 
 Graphique 2 : Répartition par sous-secteurs des dépenses courantes publiques d'éducation (%), année 2011
+
+Supérieur local et recherche scientifique : 16,7%
+Supérieur à l'étranger : 0,3%
+ENI : 0,3%
+AENF : 0,1%
+Préscolaire : 1,8%
+Primaire : 48,0%
+ESG 1 : 15,0%
+ESG 2 : 11,8%
+ETFP : 6,1%
 
 Source : Tableau 3.6 et calcul des auteurs
 
@@ -383,7 +476,7 @@ Source : Tableau 3.6 et calcul des auteurs
 
 #### La couverture scolaire a progressé au cours de la dernière décennie
 
-Les analyses montrent une évolution significative de  la  couverture  scolaire  dans  l'ensemble  du système  éducatif,  signe  que  des  progrès  quantitatifs  ont  été  réalisés  au  cours  de  ces  dernières années sur le plan de la scolarisation. En effet, entre 2000 et 2011, le TBS a été multiplié par 5 dans  le  préscolaire  et  s'est  maintenu  bien  au-dessus  de  100%  dans  le  primaire ;  il  a  augmenté d'environ 16 points dans le 1 er cycle du secondaire général et a presque doublé dans le 2nd cycle.
+Les analyses montrent une évolution significative de  la  couverture  scolaire  dans  l'ensemble  du système  éducatif,  signe  que  des  progrès  quantitatifs  ont  été  réalisés  au  cours  de  ces  dernières années sur le plan de la scolarisation. En effet, entre 2000 et 2011, le TBS a été multiplié par 5 dans  le  préscolaire  et  s'est  maintenu  bien  au-dessus  de  100%  dans  le  primaire ;  il  a  augmenté d'environ 16 points dans le 1er cycle du secondaire général et a presque doublé dans le 2nd cycle.
 
 14
 
@@ -399,6 +492,8 @@ En  ce  qui  concerne  l'enseignement  technique  et  la  formation  professionn
 
 [[START OF PAGE 16]]
 
+Tableau 1 : Evolution des indicateurs de couverture scolaire, 2000-01 à 2011-12
+
 Niveaux d'enseignement | 2000-01 | 2001-02 | 2002-03 | 2003-04 | 2004-05 | 2005-06 | 2006-07 | 2007-08 | 2008-09 | 2009-10 | 2010-11 | 2011-12
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Maternel
@@ -413,7 +508,7 @@ Secondaire général 1er cycle
 Elèves | 225 758 | 262 274 | 285 356 | 303 860 | 312 418 | 329 432 | 296 073 | 320 414 | 333 392 | 340 103 | 394 956 | 397 955
 Population scolarisable [12-15 ans] | 426 323 | 438 104 | 450 210 | 462 651 | 475 436 | 488 574 | 502 075 | 515 949 | 530 207 | 544 859 | 559 916 | 577 179
 TBS | 53,0% | 59,9% | 63,4% | 65,7% | 65,7% | 67,4% | 59,0% | 62,1% | 62,9% | 62,4% | 70,5% | 68,9%
-Secondaire général 2 nd cycle
+Secondaire général 2nd cycle
 Elèves | 44 018 | 47 277 | 49 508 | 53 084 | 64 738 | 72 792 | 81 045 | 88 731 | 97 635 | 119 929 | 123 332 | 126 795
 Population scolarisable [16-18 ans] | 288 550 | 296 598 | 304 871 | 313 374 | 322 116 | 331 101 | 340 338 | 349 833 | 359 593 | 369 625 | 379 938 | 390 529
 TBS | 15,3% | 15,9% | 16,2% | 16,9% | 20,1% | 22,0% | 23,8% | 25,4% | 27,2% | 32,4% | 32,5% | 32,5%
@@ -426,9 +521,8 @@ Enseignement supérieur
 Etudiants | 15 779 | 12 037 | 16 555 | 18 673 | 21 079 | 29 185 | 34 040 | 44 930 | 49 843 | 56 965 | 60 472 | 64 548
 Etudiants/100.000 habitants | 328 | 244 | 327 | 360 | 396 | 535 | 609 | 783 | 847 | 944 | 977 | 1015
 
-Tableau 1 : Evolution des indicateurs de couverture scolaire, 2000-01 à 2011-12
-
-Source : Annuaires statistiques MEPSA, MESR, METFP pour les effectifs scolarisés ; données de population de la DGCSCN redressées et projetées. Note : nd = non disponible.
+Source : Annuaires statistiques MEPSA, MESR, METFP pour les effectifs scolarisés ; données de population de la DGCSCN redressées et projetées.
+Note : nd = non disponible.
 
 16
 
@@ -444,7 +538,7 @@ Au  niveau  de  l'enseignement  technique  et  de  la  formation  professionnell
 
 Concernant l'enseignement supérieur, on note une faiblesse des capacités d'accueil eu égard à la forte demande. Le secteur est confronté à plusieurs difficultés liées à la massification des effectifs, à la vétusté et l'insuffisance des infrastructures d'accueil, à l'insuffisance des équipements pédagogiques, au manque d'enseignants,  à  la  faiblesse  des  ressources  financières,  etc.  Ces  difficultés    affectent  la  qualité  des enseignements et l'efficacité interne et externe des formations.
 
-Par ailleurs, le nombre d'étudiants pour 100.000 habitants a plus que triplé entre 2000-2001 et 20112012.  Il  est  passé  d'environ  328  étudiants  pour  100.000  habitants  en  2000-2001  à  près  de  1.015 étudiants pour 100.000 habitants en 2011-2012. En principe, tous les titulaires du baccalauréat ont accès à  l'université.  Il  s'ensuit  que  les  effectifs  progressent  à  un  rythme  exponentiel.  De  1  532  étudiants  à l'Université de Lomé en 1974-1975, ils sont passés à près de 63 000 pour les deux universités publiques en 2011-2012 (50 000 pour l'Université de Lomé et 13 000 pour l'Université de Kara). L'effectif inscrit dans l'enseignement supérieur privé est de 7000 étudiants, ce qui porte l'effectif total des inscrits dans l'enseignement supérieur à environ 70 000.
+Par ailleurs, le nombre d'étudiants pour 100.000 habitants a plus que triplé entre 2000-2001 et 2011-2012.  Il  est  passé  d'environ  328  étudiants  pour  100.000  habitants  en  2000-2001  à  près  de  1.015 étudiants pour 100.000 habitants en 2011-2012. En principe, tous les titulaires du baccalauréat ont accès à  l'université.  Il  s'ensuit  que  les  effectifs  progressent  à  un  rythme  exponentiel.  De  1  532  étudiants  à l'Université de Lomé en 1974-1975, ils sont passés à près de 63 000 pour les deux universités publiques en 2011-2012 (50 000 pour l'Université de Lomé et 13 000 pour l'Université de Kara). L'effectif inscrit dans l'enseignement supérieur privé est de 7000 étudiants, ce qui porte l'effectif total des inscrits dans l'enseignement supérieur à environ 70 000.
 
 Dans le sous-secteur de l'alphabétisation et de l'éducation non formelle, d'importants efforts doivent être  menés  pour  augmenter  l'accès.  En  effet,  le  sous-secteur  n'a  couvert  que  5,2%  des  besoins  en alphabétisation entre 2009  et 2012, ce qui montre  la faiblesse de la couverture en matière d'alphabétisation. De plus, les formules de prise en charge n'arrivent pas à atteindre les enfants exclus du système éducatif, et ce, en vue de l'atteinte de la scolarisation primaire universelle (SPU).
 
@@ -500,7 +594,9 @@ Concernant les enfants exclus du système scolaire (9-14 ans), il  apparait  que
 
 Les  différentes  inégalités  observées  se  répercutent  également  dans  l'appropriation  des  ressources allouées à l'éducation. En effet, chaque enfant, de par sa scolarisation, profite d'une partie des dépenses publiques pour l'éducation. Plus longtemps il reste dans le système, plus grande est la part de ressources dont il bénéficie. Le tableau 2 présente quelques indicateurs liés à la disparité dans l'appropriation des ressources.  Il  est  ainsi  estimé  au  Togo  que  les  10%  les  plus  éduqués  s'approprient  près  de  40%  des ressources  publiques  d'éducation.  Les  inégalités  selon  les  caractéristiques  socio-économiques  se traduisent donc par une appropriation inégale des ressources : les filles par exemple n'en "consomment" que 35%, les ruraux ne bénéficient que de 29% des ressources, les individus issus des 20% les plus pauvres ne s'approprient que de 9,1% des ressources, alors que les individus de la région des  savanes  ne  bénéficient  que  de  5,3%  des  ressources.  Des  améliorations  significatives  sont  donc nécessaires  dans  la  distribution  structurelle  des  crédits  publics  mis  à  disposition  du  système,  ce  qui appelle des mesures idoines pour garantir l'équité et l'efficacité dans l'accès à l'éducation.
 
-% | des dépenses consommés (a) | % de chaque groupe dans la pop (b) | Rapport (a)/(b) | Indice d'appropriation relative
+Tableau 2 : indice d'appropriation relative des ressources par les différentes catégories sociale
+
+ | % des dépenses consommés (a) | % de chaque groupe dans la pop (b) | Rapport (a)/(b) | Indice d'appropriation relative
 --- | --- | --- | --- | ---
 Genre
 Garçon | 65,0 | 50,6 | 1,28 | 1,81
@@ -522,8 +618,6 @@ Q3 | 14,5 | 19,9 | 0,73 | 1,67
 Q4 | 23,7 | 19,7 | 1,21 | 2,77
 Q5 | 38,5 | 17,3 | 2,22 | 5,08
 
-Tableau 2 : indice d'appropriation relative des ressources par les différentes catégories sociale
-
 Source : estimation des auteurs, à partir des données de l'enquête QUIBB 2011 et du chapitre 3 (coût unitaire et ressources publiques accumulées).
 
 20
@@ -536,6 +630,8 @@ Source : estimation des auteurs, à partir des données de l'enquête QUIBB 2011
 
 Globalement, le système se caractérise par des coûts unitaires publics de scolarisation relativement plus faibles que les pays à niveau de richesse comparable à tous les niveaux d'enseignement sauf au primaire. En  effet,  en  comparaison,  les  coûts  unitaires  de  2011  sont  deux  fois  moins  élevés  au  collège  (et également 2 fois moins élevés que les coûts unitaires publics de 1999 et de 2007 au Togo), 74% plus faibles dans le lycée, 25% plus faibles dans l'ETFP et 5 fois plus faibles dans le supérieur. En ce qui concerne particulièrement l'enseignement supérieur, le niveau spécialement faible du coût unitaire serait sans doute le choix implicite de privilégier la quantité (sans maîtrise des flux d'étudiants) au détriment de la qualité. A ce titre, on s'aperçoit que le coût unitaire public de l'enseignement supérieur au Togo était  de  215,2%  du  PIB/habitant  en  1999,  de  137,9%  en  2007  et  a  atteint  83%  du  PIB/habitant  en 2011,  soit  une  baisse  significative  dans  le  temps.  Le  tableau  3  présente  la  comparaison  des  coûts unitaires publics de scolarisation par niveau d'éducation de certains pays de niveau comparable.
 
+Tableau 3 : Comparaison temporelle et internationale des coûts unitaires publics de scolarisation par niveau d'enseignement dans le public (pays avec un PIB/hbt compris entre 250 et 750 dollars US)
+
 Primaire | Secondaire général 1er cycle | Secondaire général 2nd cycle | ETFP | Supérieur local
 --- | --- | --- | --- | --- | ---
 Togo (2011) | 12,5% | 12,3% | 30,9% | 159,3% | 83,0%
@@ -544,7 +640,7 @@ Togo (1999) | 10,9% | 21,7% | 33,9% | 103,5% | 215,2%
 Bénin (2010) | 13,5% | 17,5% | 35,3% | 148,5% | 92,9%
 Gambie (2009) | 8,8% | 11,5% | 23,4% | 16,0% | 91,2%
 Ghana (2008) | 26,6% | 35,0% | 55,0% | 42,7% | 303,7%
-Guinée-Bissau (2010) | 5,4% | nd 6 | nd | 122,1% | 78,2%
+Guinée-Bissau (2010) | 5,4% | nd⁶ | nd | 122,1% | 78,2%
 Malawi (2007) | 8,3% | nd | nd | 141,0% | 2147,0%
 Mali (2008) | 10,9% | 20,2% | 74,8% | 191,3% | 130,6%
 Niger (2008) | 21,6% | 44,6% | 116,6% | 612,0% | 402,0%
@@ -553,15 +649,7 @@ Sierra Leone (2010) | 6,4% | 10,6% | 18,0% | nd | 120,7%
 Tanzanie (2009) | 9,3% | nd | nd | 329,0% | 420,0%
 Moyenne pays comparateurs | 11,8% | 25,6% | 53,9% | 200,3% | 418,9%
 
-Tableau  3  :  Comparaison  temporelle  et  internationale  des  coûts  unitaires  publics  de  scolarisation  par  niveau d'enseignement dans le public (pays avec un PIB/hbt compris entre 250 et 750 dollars US)
-
 Source : Tableau 3.8, RESEN 2002, Pôle de Dakar de l'UNESCO, et calcul des auteurs
-
-### II.7. Gestion et pilotage
-
-#### Un coût salarial  pour  les  enseignants  fonctionnaires  et  auxiliaires  des  enseignements primaire et secondaire général plus élevé que la moyenne des pays à niveau de richesse similaire
-
-Lorsqu'on compare les niveaux de rémunération moyens des enseignants fonctionnaires et auxiliaires avec  ceux  d'autres  pays  à  niveau  de  richesse  similaire,  on  s'aperçoit  qu'en  termes  d'unités  de PIB/habitant, les enseignants togolais du primaire (6,4 unités de PIB/habitant) et du secondaire général
 
 > 6 nd = non disponible.
 
@@ -575,12 +663,14 @@ Lorsqu'on compare les niveaux de rémunération moyens des enseignants fonctionn
 
 Cependant,  si l'on prend en  compte les enseignants volontaires  du primaire, très  peu  rémunérés,  le coût salarial enseignant moyen diminue (il passe alors à 4,5 unités de PIB/habitant et est donc quasi identique à la moyenne des pays comparateurs dont les données sont présentées dans le tableau 4) et permet d'avoir un taux d'encadrement des élèves relativement acceptable. Lorsqu'on regarde l'évolution des  salaires  des  enseignants  du  primaire,  on  s'aperçoit  que  le  salaire  moyen  des  fonctionnaires  et auxiliaires togolais était de 4,8 unités de PIB/habitant en 1999. Il a augmenté entre 1999 et 2007 (6,1 unités de PIB/habitant) et des enseignants volontaires (essentiellement payés par les parents) sont alors apparus  pour  faire  face  à  la  demande  scolaire  (l'Etat  ne  pouvant  pas  mettre  assez  d'enseignants  à disposition  avec  un  niveau  de  salaire  de  6,1  unités  de  PIB/habitant).  La  situation  n'a  guère  évolué depuis  2007  (les  enseignants  fonctionnaires  et  auxiliaires  bénéficiant  en  2011  quasiment  du  même salaire en termes de PIB/habitant qu'en 2007), à la différence qu'aujourd'hui les enseignants volontaires perçoivent  une  subvention  de  l'Etat  largement  en  dessous  de  ce  qu'il verse  aux  enseignants fonctionnaires et auxiliaires. Cependant, une mesure récente en aout 2013 a permis l'intégration de 5000 enseignants volontaires dans le corps des auxiliaires avec un plan de carrière.
 
-Primaire | Secondaire général 1er | Secondaire général 2nd
+Tableau 4 : Comparaison temporelle et internationale de la rémunération brute moyenne des enseignants par niveau d'enseignement (pays avec un PIB/habitant compris entre 250 et 750 dollars US), en unités de PIB/habitant
+
+ | Primaire |  | Secondaire général 1er cycle | Secondaire général 2nd cycle | ETFP | Supérieur
 --- | --- | --- | --- | --- | --- | ---
-Sans les volontaires | Avec les volontaires | cycle | cycle | ETFP | Supérieur
-Togo (2011) | 6,4 | 4,5 | 8,1 | 8,6 | 6,4 7 | 26,2 8 )
+ | Sans les volontaires | Avec les volontaires |  |  |  | 
+Togo (2011) | 6,4 | 4,5 | 8,1 | 8,6 | 6,4⁷ | 26,2⁸
 Togo (2007) | 6,1 | 3,9 | 8,9 | 11,6 | nd | nd
-Togo (1999) | 4,8 | 4,5 )9 | 7,6 | 7,6 | nd | nd
+Togo (1999) | 4,8 | 4,5⁹ | 7,6 | 7,6 | nd | nd
 Bénin (2010) | 5,1 | 4,0 | 5,5 | 9,9 | 8,1 | 22,1
 Gambie (2009) | 2,5 | - | 2,8 | 3,0 | nd | nd
 Ghana (2007) | 4,7 | - | 4,7 | 4,8 | nd | nd
@@ -592,9 +682,7 @@ Rwanda (2008) | 2,6 | - | 6,4 | 7,3 | nd | 11,1
 Sierra Leone (2010) | 2,4 | - | 3,4 | 3,6 | 2,6 | nd
 Tanzanie (2009) | 6,1 | - | 5,9 | 5,9 | nd | nd
 Moyenne pays comparateurs | 4,4 | 4,6 | 5,7 | 6,5 | 5,7 | 28,5
-Moyenne Afrique (2007-11) | 4,0 | 5,3 | 5,9 | 6,8 | 20,5
-
-Tableau 4 : Comparaison temporelle et internationale de la rémunération brute moyenne des enseignants par niveau d'enseignement (pays avec un PIB/habitant compris entre 250 et 750 dollars US), en unités de PIB/habitant
+Moyenne Afrique (2007-11) | 4,0 |  | 5,3 | 5,9 | 6,8 | 20,5
 
 Source : tableau 3.11, RESEN 2002, Pôle de Dakar de l'UNESCO, et calcul des auteurs
 
@@ -634,11 +722,31 @@ Au niveau  du  supérieur,  la  massification  des  effectifs  dans  les  univer
 
 Graphique 3 : Comparaison internationale du ratio élèves/enseignant dans l'enseignement primaire public (pays avec un PIB/habitant compris entre 250 et 750 dollars des Etats-Unis)
 
+RCA (2011) 89
+Mali (2011) 75
+Tchad (2011) 65
+Rwanda (2011) 60
+Mozambique (2011) 56
+Ethiopie (2011) 56
+Burkina Faso (2011) 56
+Tanzanie (2010) 52
+Guinée-Bissau (2010) 52
+Bénin (2011) 48
+Guinée (2011) 45
+Madagascar (2011) 44
+Togo (2011) 44
+Moyenne Afrique (2009-2011) 43
+Erythrée (2011) 41
+Niger (2011) 39
+Gambie (2011) 37
+Ghana (2011) 33
+Moyenne des 16 pays comparateurs : 53
+
 Source : Pôle de Dakar de l'UNESCO, et calcul des auteurs
 
 #### Des incohérences à corriger dans l'allocation des moyens aux écoles
 
-L'allocation des enseignants dans les écoles est relativement défaillante dans le primaire (42% d'aléas contre 33% pour la moyenne des pays comparateurs) et reste encore perfectible dans l'enseignement secondaire. Ce faisant, certaines écoles primaires se retrouvent avec un REM nettement au-dessus de la moyenne nationale, et un peu plus du quart de la masse horaire théorique n'est pas assurée dans les collègues et les lycées. Un plan de redéploiement des personnels pour corriger un tant soit peu les aléas constatés, a  été  élaboré  et  partiellement  mis  en  œuvre  par  la  Direction  des  ressources  humaines  du MEPS. Il proposait entre autres, le respect des nouvelles normes de la carte scolaire, la formation aux techniques  de  Préparation  Qualitative  de  la  Rentrée  Scolaire  (PQRS),  l'affectation  par  nécessité  de service  de  tous  les  enseignants  en  surnombre  dans  les  établissements,  la  révision  de  la  politique  de gestion des enseignants malades…
+L'allocation des enseignants dans les écoles est relativement défaillante dans le primaire (42% d'aléas contre 33% pour la moyenne des pays comparateurs) et reste encore perfectible dans l'enseignement secondaire. Ce faisant, certaines écoles primaires se retrouvent avec un REM nettement au-dessus de la moyenne nationale, et un peu plus du quart de la masse horaire théorique n'est pas assurée dans les collèges et les lycées. Un plan de redéploiement des personnels pour corriger un tant soit peu les aléas constatés, a  été  élaboré  et  partiellement  mis  en  œuvre  par  la  Direction  des  ressources  humaines  du MEPS. Il proposait entre autres, le respect des nouvelles normes de la carte scolaire, la formation aux techniques  de  Préparation  Qualitative  de  la  Rentrée  Scolaire  (PQRS),  l'affectation  par  nécessité  de service  de  tous  les  enseignants  en  surnombre  dans  les  établissements,  la  révision  de  la  politique  de gestion des enseignants malades…
 
 Outre les enseignants, il convient de noter l'inégale répartition et l'insuffisance des manuels scolaires qui a  prévalu  jusqu'en  2011  fort  heureusement  corrigées  par  la  distribution  de  plus  trois  millions  de manuels dans le cadre de la mise en œuvre de la première phase du PSE  à travers le PERI.
 
@@ -656,6 +764,34 @@ Ce résultat qui n'est pas propre au système éducatif togolais renvoie à des 
 
 Graphique  4 :  relation  entre  ressources  et  résultats  dans  les  établissements  d'enseignement publics
 
+CM1,PASEC
+score final ajusté moyen sur 100 des élèves de CM1 dans l'école
+0 5 10 15 20 25 30 35 40
+0 25 000 50 000 75 000 100 000 125 000
+Dépense salariale moyenne par élève de CM1 dans l'école (en FCFA)
+R² = 0,0167
+
+CEPD,primaire
+taux de réussite de l'école au CEPD
+5% 15% 25% 35% 45% 55% 65% 75% 85% 95%
+0 25 000 50 000 75 000 100 000
+Dépense salariale moyenne par élève dans l'école (en FCFA)
+R² = 0,0083
+
+BEPC,collège
+score moyen sur 100 du collège au BEPC
+20 30 40 50 60 70 80 90
+0 20000 40000 60000 80000 100000
+Dépense salariale moyenne par élève dans le collège (en FCFA)
+R² = 4E-06
+
+BAC,lycée
+taux de réussite du lycée au BAC (A, C et D)
+10% 20% 30% 40% 50% 60%
+0 50 000 100 000
+dépense salariale moyenne par élève dans le lycée (en FCFA)
+R² = 0,0289
+
 Source : calcul des auteurs à partir des données du PASEC, de la DPEE et des éléments de coûts du chapitre 3.
 
 ### II.5. Efficacité externe
@@ -670,13 +806,21 @@ En dépit de leur formation, l'insertion sur le marché du travail est plutôt d
 
 [[START OF PAGE 26]]
 
-Ainsi, les individus qui ont été à l'école se caractérisent par un taux de chômage relativement élevé, et qui croit au fur et à mesure que l'on monte dans la pyramide éducative. Il est de 4% environ pour ceux qui n'ont jamais été à l'école, et vaut nettement plus pour ceux qui y ont été : 7,1% pour les sortants du niveau primaire ;  8,5% pour les sortants de niveau collège ; 9,9% pour les sortants de niveau lycée ; 13,8% pour les diplômés de l'ETFP et 29,9% pour les diplômés du supérieur.
+Ainsi, les individus qui ont été à l'école se caractérisent par un taux de chômage relativement élevé, et qui croît au fur et à mesure que l'on monte dans la pyramide éducative. Il est de 4% environ pour ceux qui n'ont jamais été à l'école, et vaut nettement plus pour ceux qui y ont été : 7,1% pour les sortants du niveau primaire ;  8,5% pour les sortants de niveau collège ; 9,9% pour les sortants de niveau lycée ; 13,8% pour les diplômés de l'ETFP et 29,9% pour les diplômés du supérieur.
 
 Graphique 5 : Taux de chômage par niveau d'instruction et par génération, 2011
+15-29 ans | ensemble 15-64 ans
+50% | 45% | 40% | 35% | 30% | 25% | 20% | 15% | 10% | 5% | 0%
+Aucun niveau | 5% | 4%
+Primaire | 9% | 7%
+secondaire général 1er cycle | 11% | 8%
+secondaire général 2nd cycle | 14% | 10%
+ETFP | 21% | 14%
+Supérieur | 48% | 30%
 
 Source : Estimation des auteurs à partir des données de l'enquête QUIBB 2011
 
-Il  apparait  également  un  déséquilibre  significatif  entre  la  structure  du  système  éducatif  et  celle  de l'économie nationale comme le montre le bilan emploi/formation présenté dans le tableau 5 ci-dessous. En effet, il est estimé que dans la partie basse du système éducatif, un nombre remarquable de jeunes (23,1%) sortent annuellement sans avoir achevé le primaire pour s'insérer dans la vie active, et dans ces circonstances, apparaissent peu propice pour une bonne productivité sur le marché du travail, fut-elle dans le secteur informel. Dans la partie haute, on note aussi un nombre important de jeunes qui sortent avec des qualifications qui ne trouvent pas une contrepartie raisonnable sur le marché du travail (un flux  annuel  de  3 500  sortants  de  niveau  supérieur  ou  égal  au  lycée,  contre  un  flux  annuel  de  1 050 emplois qualifiés disponibles). Cet intérêt des jeunes pour la sphère la plus haute du système éducatif s'explique par les différentiels de revenus relativement importants entre l'enseignement supérieur et les autres niveaux d'éducation.
+Il  apparaît  également  un  déséquilibre  significatif  entre  la  structure  du  système  éducatif  et  celle  de l'économie nationale comme le montre le bilan emploi/formation présenté dans le tableau 5 ci-dessous. En effet, il est estimé que dans la partie basse du système éducatif, un nombre remarquable de jeunes (23,1%) sortent annuellement sans avoir achevé le primaire pour s'insérer dans la vie active, et dans ces circonstances, apparaissent peu propice pour une bonne productivité sur le marché du travail, fut-elle dans le secteur informel. Dans la partie haute, on note aussi un nombre important de jeunes qui sortent avec des qualifications qui ne trouvent pas une contrepartie raisonnable sur le marché du travail (un flux  annuel  de  3 500  sortants  de  niveau  supérieur  ou  égal  au  lycée,  contre  un  flux  annuel  de  1 050 emplois qualifiés disponibles). Cet intérêt des jeunes pour la sphère la plus haute du système éducatif s'explique par les différentiels de revenus relativement importants entre l'enseignement supérieur et les autres niveaux d'éducation.
 
 Finalement,  si  les  analyses  mettent  tout  de  même  en  évidence  que  les  chances  d'avoir  accès  aux positions  les  plus  « élevées »  dans  l'emploi  moderne,  et  par  conséquent  aux  revenus  les  plus  élevés, croissent de manière forte au fur et à mesure qu'on monte dans la pyramide éducative et suggèrent un retour  sur  investissement  globalement  positif  de  l'éducation,  elles  invitent  surtout  à  réfléchir  sur  les mécanismes à mettre en place pour une structuration économiquement efficace du système éducatif et en lien avec les nécessités socio-économiques du pays.
 
@@ -686,20 +830,19 @@ Finalement,  si  les  analyses  mettent  tout  de  même  en  évidence  que  le
 
 [[START OF PAGE 27]]
 
+Tableau 5 : Bilan formation-emploi ; flux en base annuelle de l'année 2011.
 Distribution des sortants du système éducatif | Distribution des emplois offerts
 --- | --- | --- | --- | --- | --- | ---
 Niveau de sortie | Nombre | En % | Secteur | Profession | Nombre | En %
 Supérieur | 1 015 | 9,7% | Moderne | Cadres | 598 | 5,7%
-Secondaire 2nd cycle | 2 448 | 23,4% | Employés qualifiés | 455 | 4,3%
-Employés non qualifiés | 221 | 2,1%
+Secondaire 2nd cycle | 2 448 | 23,4% | Moderne | Employés qualifiés | 455 | 4,3%
+ |  |  | Moderne | Employés non qualifiés | 221 | 2,1%
 Secondaire 2nd cycle | 1 255 | 12,0% | Informel | Informel non agricole | 3 907 | 37,4%
-Secondaire 2nd cycle | 2 322 | 22,2%
-Primaire complet | 1 004 | 9,6%
-Primaire incomplet et jamais scolarisé | 2 416 | 23,1% | Informel agricole | 4 417 | 42,2%
-Sans empl oi | Chômeurs | 863 | 8,2%
-Total | 10 461 | 100% | Total | 10 461 | 100%
-
-Tableau 5 : Bilan formation-emploi ; flux en base annuelle de l'année 2011.
+Secondaire 2nd cycle | 2 322 | 22,2% |  |  |  | 
+Primaire complet | 1 004 | 9,6% |  |  |  | 
+Primaire incomplet et jamais scolarisé | 2 416 | 23,1% | Informel | Informel agricole | 4 417 | 42,2%
+ |  |  | Sans emploi | Chômeurs | 863 | 8,2%
+Total | 10 461 | 100% |  | Total | 10 461 | 100%
 
 Source : Construction des auteurs à partir des données des enquêtes QUIBB 2006 et QUIBB 2011.
 
@@ -761,14 +904,14 @@ Pour le second cycle du secondaire, il est prévu une réduction du taux de tran
 
 L'enseignement  technique  et  la  formation  professionnelle,  dans  sa  configuration  actuelle,  reste davantage conditionné par une logique de l'offre de formation plutôt que par une logique de réponse aux besoins des entreprises. D'une manière générale le dispositif semble peu à l'écoute des sollicitations du marché du travail et ne dispose pas des mécanismes et instruments lui permettant de construire des formations adaptées aux réalités de l'emploi. L'instauration de structures de partenariat, de concertation et de dialogue du type de celles prévues par la Charte de partenariat Public/Privé garantissant une forte implication  des  opérateurs  économiques,  notamment  dans  l'organisation  d'un  pilotage  sectoriel conjoint  permettra  d'orienter  durablement  le  dispositif  par  la  demande.  De  manière  plus  spécifique, pour ce qui est de l'enseignement technique, les activités prévues cibleront la restructuration de l'offre publique de formation (étude sur les besoins de formation, création, suppression, adaptation de filières), l'actualisation  des  contenus  de  formation  en  relation  avec  les  besoins  de  l'économie  togolaise,  la formation  des  enseignants,  la  réhabilitation  des  équipements  des  établissements,  la  construction  et l'équipement de nouveaux lycées.
 
-Quant  à  la  formation  professionnelle,  il  s'agira  de  contribuer  à  améliorer  la  productivité  du  secteur informel agricole et non-agricole et de permettre aux jeunes qui mettent un terme à leurs études après le primaire et, en cours ou après le collège, de bénéficier d'une formation courte orientée directement vers un métier. Dans cette perspective, des formules et structures de formation courte et/ou d'apprentissage seront mises en place et développées en partenariat avec les maîtres-artisans et actifs agricoles.
+Quant  à  la  formation  professionnelle,  il  s'agira  de  contribuer  à  améliorer  la  productivité  du  secteur informel agricole et non-agricole et de permettre aux jeunes qui mettent un terme à leurs études après le primaire et, en cours ou après le collège, de bénéficier d'une formation courte orientée directement vers
 
 29
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
-
+un métier. Dans cette perspective, des formules et structures de formation courte et/ou d'apprentissage seront mises en place et développées en partenariat avec les maîtres-artisans et actifs agricoles.
 Pour ce qui concerne l'Enseignement Supérieur, il s'agira de revoir les arbitrages opérés jusqu'à présent entre quantité et qualité. Sur le plan quantitatif, il apparaît crucial qu'une première régulation des flux soit mise en place à l'entrée du second cycle du secondaire. Au niveau de la redistribution des effectifs dans le Supérieur, plusieurs mesures sont programmées : i) le développement de l'enseignement privé ; ii)  le  développement  progressif  d'un  enseignement  à  distance  qui  pourrait  accueillir  environ  16  000 étudiants à l'horizon 2025, soit 10 % des effectifs du public ; iii) un rééquilibrage des effectifs entre les filières académiques et les filières technologiques et professionnelles en faveur des secondes ; et iv) la restructuration  significative  des  effectifs  entre  disciplines  au  sein  des  formations  académiques,  au bénéfice  des  disciplines  scientifiques.  Des  efforts  de  rationalisation  seront  également  consentis  au niveau  des  dépenses  sociales  (bourses  et  aides  aux  étudiants).  Sur  le  plan  de  la  qualité,  il  s'agira  de renforcer les infrastructures universitaires, d'améliorer l'équipement des bibliothèques universitaires et des  laboratoires,  d'étendre  l'accès  aux  technologies  de  l'information  et  de  la  communication,  et  de former les enseignants.
 
 Egalement,  pour  améliorer  l'efficacité  externe de  l'enseignement  supérieur,  il  est  nécessaire  de promouvoir la mise en place d'un système de planification qui permet de réajuster l'offre de formation en fonction des besoins du marché de l'emploi. En particulier, il s'agira de mener régulièrement des études  de  marchés  de  l'emploi  pour  accroitre  les  effectifs  dans  les  filières  porteuses  et  renforcer  le partenariat avec le secteur privé. Concernant ce dernier point, il convient d'envisager une plus grande implication  du  monde  des  entreprises  dans  la  gestion  des  établissements,  la  mise  en  œuvre  des formations et de promouvoir une recherche universitaire plus appliquée et orienté vers les besoins de développement  du  pays.  En  outre,  il  convient  de  généraliser  le  développement  des  formations  en entreprenariat afin de garantir l'épanouissement de l'esprit d'entreprise et la création de l'emploi privé.
@@ -823,7 +966,7 @@ Ainsi, le fondement de la politique d'équité-genre du système éducatif repos
 
 #### III.3.2. Stimulation de la demande
 
-##### III. 3 .2.1. La politique d'alimentation scolaire
+##### III. 3.2.1. La politique d'alimentation scolaire
 
 L'alimentation scolaire est un important levier de stimulation de la demande scolaire pour promouvoir le maintien des enfants à l'école, en particulier les jeunes filles et les enfants vulnérables. C'est dans cette perspective, que le gouvernement a élaboré et adopté avec l'appui du Programme alimentaire mondial des Nations Unies, une politique d'alimentation scolaire intégrée basée sur les productions locales.
 
@@ -841,7 +984,7 @@ Malgré les interventions disparates de l'Etat, des ONG et des partenaires en d�
 
 Dans l'optique d'une amélioration de l'efficacité et de la qualité du service éducatif, il faut promouvoir la  santé scolaire et universitaire en vue d'améliorer les capacités d'apprentissage et d'insertion sociale. Dans  cette  logique,    à  part  la  prévention  du  VIH-SIDA  qui  reste  un  besoin  crucial  pour  tous  les apprenants, une éducation pour la Santé en milieu scolaire appropriée, spécifique à l'enseignement de base demeure incontournable. Aussi, l'Etat a-t-il initié une stratégie qui vise trois cibles :
 
--l'enseignement  de  base  ou  l'enseignement  préscolaire  et    primaire,  pour  la  tranche  d'âge  0311ans ;
+-l'enseignement  de  base  ou  l'enseignement  préscolaire  et    primaire,  pour  la  tranche  d'âge  03-11ans ;
 
 32
 
@@ -849,11 +992,11 @@ Dans l'optique d'une amélioration de l'efficacité et de la qualité du service
 
 [[START OF PAGE 33]]
 
--l'enseignementsSecondaire  Général  et  l'enseignement  secondaire  technique,  pour  la  tranche d'âge 12-19 ans ;
+-l'enseignement Secondaire  Général  et  l'enseignement  secondaire  technique,  pour  la  tranche d'âge 12-19 ans ;
 
 -l'enseignement supérieur et la formation professionnelle, pour la tranche d'âge de 19 ans et plus.
 
-##### III.3 .2.3 L'éducation inclusive
+##### III.3.2.3 L'éducation inclusive
 
 L'inclusion est souvent associée aux élèves qui ont des limitations fonctionnelles ou qui sont perçus comme ayant  des  «  besoins  éducatifs  spéciaux  ».  Pour  s'assurer  de  la  couverture  universelle,  il  sera important de mettre en place toutes les stratégies prenant en compte  ces enfants à besoins éducatifs spéciaux ou des enfants vivant avec des handicaps. L'éducation inclusive sera encouragée à travers des subventions  aux  écoles  spécialisées  et  la  formation  des  enseignants  à  la  détection  et  la  gestion  des handicaps légers.
 
@@ -889,17 +1032,15 @@ Le  Gouvernement  togolais  entend  promouvoir  l'encadrement  de  la  petite  e
 
 ##### Les réalisations
 
-Entre  2009/10  et  2011/12,  les  effectifs  du  préscolaire  ont  connu  un  accroissement  de  21,6  %, progressant de 55120 à 67018. Cette performance est inférieure à celle enregistrée en 2010 (33%). Ces chiffres concernent les enfants de 3-5 ans comme prévu dans l'ancien système. Or le PSE a prévu la prise en charge des enfants de la tranche 0-3 ans par l'éducation parentale afin de permettre aux enfants de  4-5  ans  de  fréquenter  les  établissements  du  préscolaire.  Ainsi,  comme  le  montre  le  tableau  6  cidessous, le taux de préscolarisation est passé de 10,6% en 2010 à 11,7% en 2011. Le PSE a fixé la cible de 6% pour les 0-3 ans et 9,5% pour les enfants de 4-5 ans.
-
-Indicateurs | 2009/10 | 2010/11 | 2011/12
---- | --- | --- | --- | --- | ---
-Prévu | Réalisé | Prévu | Réalisé
-Couverture des 0-3 ans | 8,4% | 4,50% | 10,6% | 6% | 11,7%
-Taux brut de scolarisation 4- 5 ans | 8,00% | 9,50%
+Entre  2009/10  et  2011/12,  les  effectifs  du  préscolaire  ont  connu  un  accroissement  de  21,6  %, progressant de 55 120 à 67 018. Cette performance est inférieure à celle enregistrée en 2010 (33%). Ces chiffres concernent les enfants de 3-5 ans comme prévu dans l'ancien système. Or le PSE a prévu la prise en charge des enfants de la tranche 0-3 ans par l'éducation parentale afin de permettre aux enfants de  4-5  ans  de  fréquenter  les  établissements  du  préscolaire.  Ainsi,  comme  le  montre  le  tableau  6  ci-dessous, le taux de préscolarisation est passé de 10,6% en 2010 à 11,7% en 2011. Le PSE a fixé la cible de 6% pour les 0-3 ans et 9,5% pour les enfants de 4-5 ans.
 
 Tableau 6 : Evolution de la couverture du préscolaire entre 2009/10 et 2011/12
+Indicateurs | 2009/10 | 2010/11 Prévu | 2010/11 Réalisé | 2011/12 Prévu | 2011/12 Réalisé
+--- | --- | --- | --- | --- | ---
+Couverture des 0-3 ans | 8,4% | 4,50% | 10,6% | 6% | 11,7%
+Taux brut de scolarisation 4-5 ans |  | 8,00% |  | 9,50% | 
 
-Source , DPEE/MEPSA
+Source, DPEE/MEPSA
 
 ##### Les contraintes
 
@@ -935,7 +1076,7 @@ Ainsi, pour assurer le développement rapide du sous-secteur, il s'agira :
 
 -d'encourager l'initiative privée dans la création des crèches et des écoles préscolaires ;
 
--de soutenir à travers une subvention annuelle qui atteindrait 18 551 FCFA de 201110 par enfant en  2025,  les  actions  des  communautés  et  des  partenaires  pour  créer  les  centres  préscolaires communautaires de manière à faire passer les effectifs de 6 808 en 2011 à 72 973 en 2025 ;
+-de soutenir à travers une subvention annuelle qui atteindrait 18 551 FCFA de 2011¹⁰ par enfant en  2025,  les  actions  des  communautés  et  des  partenaires  pour  créer  les  centres  préscolaires communautaires de manière à faire passer les effectifs de 6 808 en 2011 à 72 973 en 2025 ;
 
 #### IV.1.3. Les choix et modalités stratégiques de mise en œuvre
 
@@ -1029,30 +1170,26 @@ En 2011/12, l'enseignement primaire a enregistré 247 732  nouveaux inscrits con
 
 Le taux brut d'accès est ainsi passé de 128,4% en 2010 à 139,5% en 2011 et le taux d'achèvement, de 72,1% à 75,7% sur la même période. Les effectifs scolarisés dans l'enseignement primaire ont évolué de 1 286  653  en  2009  à  1 299  925  en  2010,  puis  à  1 338  218  en  2011,  faisant  passer  le  taux  brut  de scolarisation de  134,1% à 132,3%. Sur la base des résultats du RGPH4, le taux d'achèvement en 2009 est estimé à 71,2%. Il a atteint en 2010, 72,1% et 75,7% en 2011. Malgré les augmentations enregistrées, les  données du tableau 7 ci-après montrent que les taux d'achèvement atteints en 2010 et 2011 sont nettement en dessous des objectifs visés. En ce qui concerne l'équité genre, la parité filles/garçons,est presque atteinte, que l'on considère les TBS ou les effectifs.
 
-2009/10 | 2010/11 | 2011/12
---- | --- | --- | --- | --- | --- | ---
-Prévu | Réalisé | Prévu | Réalisé
-Taux Brut d'Accès | 123,2% | 115,5% | 128,4% | 107,7% | 139,5%
-Taux d'achèvement11 | Initial | 64,9% | 68,1% | 72,1% | 71,3% | 75,7%
-Ajusté | 72,5% | 74,7% | 82,1%
-Parité filles / garçons du TBS | 96% | 85,8% | 97% | 87,2% | 98%
-
 Tableau 7 : La scolarisation au primaire entre 2009 et 2010
+Indicateurs |  | 2009/10 | 2010/11 Prévu | 2010/11 Réalisé | 2011/12 Prévu | 2011/12 Réalisé
+--- | --- | --- | --- | --- | --- | ---
+Taux Brut d'Accès |  | 123,2% | 115,5% | 128,4% | 107,7% | 139,5%
+Taux d'achèvement¹¹ | Initial | 64,9% | 68,1% | 72,1% | 71,3% | 75,7%
+Taux d'achèvement¹¹ | Ajusté | 72,5% | 74,7% |  | 82,1% | 
+Parité filles / garçons du TBS |  | 96% | 85,8% | 97% | 87,2% | 98%
 
-Source , DPEE/MEPSA
+Source, DPEE/MEPSA
 
 ###### Qualité
 
 Les redoublements restent toujours élevés malgré les baisses enregistrées ces dernières années comme le montre le tableau 8 ci-dessous. Les redoublants représentent presque 20% des effectifs en 2011 au lieu de 10% comme prévu dans le PSE. La rétention est nettement en dessous de l'objectif fixé. Le taux de rétention est de 58% contre 85,5% que vise le PSE. Le ratio élèves/maître dans les écoles primaires publiques et dans les EDIL (Ecoles d'Initiatives Locales) sont en baisse. Il est passé de 47 en 2009 à 45 en 2010 puis à 44 en 2011.
 
-Indicateurs | 2009/10 | 2010/11 | 2011/12
---- | --- | --- | --- | --- | ---
-Prévu | Réalisé | Prévu | Réalisé
-Taux moyen de redoublement | 23,6% | 16,1% | 21,0% | 10% | 18,6%
-Taux de rétention sur cycle | le 81,3% | 83,4% | 57,1% | 85,5% | 58%
-Rapport élèves/maître | 47 | 46 | 45 | 46 | 44
-
 Tableau 8 : Evolution des indicateurs d'efficacité et de qualité au primaire
+Indicateurs | 2009/10 | 2010/11 Prévu | 2010/11 Réalisé | 2011/12 Prévu | 2011/12 Réalisé
+--- | --- | --- | --- | --- | ---
+Taux moyen de redoublement | 23,6% | 16,1% | 21,0% | 10% | 18,6%
+Taux de rétention sur le cycle | 81,3% | 83,4% | 57,1% | 85,5% | 58%
+Rapport élèves/maître | 47 | 46 | 45 | 46 | 44
 
 Source, DPEE/MEPSA
 
@@ -1160,7 +1297,7 @@ Les mesures des acquisitions des élèves, comme les évaluations du savoir-lire
 
 ##### Diminuer le taux de redoublement
 
-Le nouveau programme vise à diminuer considérablement le niveau du redoublement dans le système éducatif togolais par l'application effective de la circulaire sur la mise en place de la politique des souscycles et la diminution du taux de redoublement 13 .
+Le nouveau programme vise à diminuer considérablement le niveau du redoublement dans le système éducatif togolais par l'application effective de la circulaire sur la mise en place de la politique des sous-cycles et la diminution du taux de redoublement¹³.
 
 La  principale  recommandation  sur  ce  point  est  la  mise  en  œuvre  d'une  véritable  stratégie  de communication sur la nécessité de la réduction des redoublements en direction des acteurs du système en particulier les enseignants et les parents d'élèves. Pour cela, il s'agira :
 
@@ -1300,7 +1437,7 @@ Certaines contraintes majeures ont affecté l'atteinte des objectifs du sous-sec
 
 -la non-opérationnalisation  de la stratégie du faire-faire
 
--la faible quantité et la sous qualification des ressources humaines face aux ambitions du soussecteur en matière de lutte contre l'analphabétisme
+-la faible quantité et la sous qualification des ressources humaines face aux ambitions du sous-secteur en matière de lutte contre l'analphabétisme
 
 -la faible qualité des programmes d'AENF
 
@@ -1320,13 +1457,15 @@ Concernant l'accès et la couverture, l'atteinte de l'objectif visé en matière
 
 Tout d'abord, il s'agira de mettre en place des actions de sensibilisation , de mobilisation et de susciter l'organisation des communautés bénéficiaires afin de créer et de soutenir leur motivation à s'engager dans  un  processus  d'alphabétisation  et  de post-alphabétisation d'une  part et de les  impliquer étroitement dans la planification, la mise en œuvre et l'évaluation de leur propre formation d'autre part.
 
-Ensuite, la réalisation des objectifs pour l'alphabétisation passe par l'appui à la construction/réhabilitation et à l'équipement des centres d'alphabétisation et d'éducation continue. Ces  centres  constituent  des  espaces  multifonctionnels  qui  servent  d'infrastructures  d'accueil  non seulement de plusieurs cohortes d'apprenants en  alphabétisation fonctionnelle de  base  mais aussi  de néo-alphabètes dans le cadre d'activités d'éducation continue et d'apprentissage tout au long de la vie. Dans  certaines  communautés,  il  pourra  également  être  envisagé  une  solution  alternative  et  moins couteuse comme l'utilisation éventuelle des salles de classe aux heures creuses pour dispenser les cours d'alphabétisation. Concernant l'éducation non formelle des exclus (enfants de 9-14 ans), il  sera aussi question d'apporter un appui à la construction et à l'équipement des centres d'éducation non formelle afin de permettre l'accès.
+Ensuite, la réalisation des objectifs pour l'alphabétisation passe par l'appui à la construction/réhabilitation et à l'équipement des centres d'alphabétisation et d'éducation continue. Ces  centres  constituent  des  espaces  multifonctionnels  qui  servent  d'infrastructures  d'accueil  non seulement de plusieurs cohortes d'apprenants en  alphabétisation fonctionnelle de  base  mais aussi  de néo-alphabètes dans le cadre d'activités d'éducation continue et d'apprentissage tout au long de la vie. Dans  certaines  communautés,  il  pourra  également  être  envisagé  une  solution  alternative  et  moins
 
 44
 
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
+
+couteuse comme l'utilisation éventuelle des salles de classe aux heures creuses pour dispenser les cours d'alphabétisation. Concernant l'éducation non formelle des exclus (enfants de 9-14 ans), il  sera aussi question d'apporter un appui à la construction et à l'équipement des centres d'éducation non formelle afin de permettre l'accès.
 
 Enfin,  l'amélioration  de  la  couverture  ne  peut  se  faire  sans  une  prise  en  compte  des langues maternelles dans le processus d'alphabétisation. Ainsi, il s'agit de développer  les langues maternelles par  la  recherche,  la  codification et  la  création  d'un  cadre  de  concertation  pour  la  formalisation  de  la politique  des  langues  nationales afin  de  pouvoir  les  utiliser  dans  les  programmes  d'alphabétisation. Parallèlement, afin de donner du sens aux apprentissages en langues maternelles, le développement d'un environnement lettré favorable  à  l'utilisation  des  écrits  dans  ces  langues  sera  encouragé.  Par  ailleurs, pour  permettre  une  alphabétisation  également  fonctionnelle  en  français  et attrayante pour  les apprenants, il est prévu de promouvoir la méthode de l'Apprentissage de la Langue  Française  à partir des  Acquis de l'Alphabétisation en  langues maternelles (ALFAA).
 
@@ -1356,7 +1495,7 @@ Enfin,  le  suivi  des  apprentissages  est  une  composante  importante  de  la
 
 Parallèlement, pour renforcer la qualité et la durabilité des apprentissages, des actions en faveur de la post-alphabétisation seront développées. Ainsi, il  est prévu  la   mise   en   œuvre  d'une  composante post-alphabétisation    en    vue    de    prévenir  l'analphabétisme  de    retour  et  d'offrir  des  possibilités d'éducation continue en vue de rentabiliser les acquis de  l'alphabétisation fonctionnelle de base.
 
-##### Améliorer la gest ion de l'AENF
+##### Améliorer la gestion de l'AENF
 
 Pour assurer la bonne mise en œuvre des programmes d'AENF, la question du pilotage et de la gestion est  centrale.  Le  traitement  de  cette  question  passe  non  seulement  par  la  disponibilité  des  ressources humaines en quantité et en qualité suffisante mais également par la maitrise des outils de planification et de pilotage du système.
 
@@ -1430,7 +1569,7 @@ Dans le  cadre  de  la  prochaine  mise  en  place  de  l'enseignement  fondamen
 
 ###### Accès
 
-L'effectif des nouveaux entrants en première année du cycle 1 du secondaire (classe de 6 ème ) a atteint 100 760 en 2010 avant de redescendre à 93 898 en 2011 au lieu de 94 404 et 98 889 respectivement selon les prévisions du PSE (Tableau 9). Malgré l'absence de système de régulation des flux, l'effectif des nouveaux entrants enregistrés en 2011 est en-dessous de ce qui a été fixé dans le PSE.
+L'effectif des nouveaux entrants en première année du cycle 1 du secondaire (classe de 6ème) a atteint 100 760 en 2010 avant de redescendre à 93 898 en 2011 au lieu de 94 404 et 98 889 respectivement selon les prévisions du PSE (Tableau 9). Malgré l'absence de système de régulation des flux, l'effectif des nouveaux entrants enregistrés en 2011 est en-dessous de ce qui a été fixé dans le PSE.
 
 Entre 2010 et 2011, le second cycle a enregistré un nombre de nouveaux entrants plus important que ce qui a été visé dans le PSE. Ils sont passés de 33 637 en 2010 à 35 226 en 2011 au lieu de respectivement 31  971  et  32 959.  Les  transitions  entre  le  primaire  et  le  secondaire  1  et  entre  les  deux  cycles  du secondaire sont au-dessus de ce qui est prévu dans le PSE. En 2011, le taux brut de scolarisation au secondaire1 est de 63,3% et 34,9 pour le secondaire 2. Si la parité filles/garçons est presque atteinte au primaire, tel n'est pas le cas au secondaire 1 et encore moins au secondaire 2. Dans le premier cycle, on a, 72 filles pour 100 garçons contre 80 prévus. Au second cycle du secondaire, on dénombre 65 filles pour 100 garçons contre 69 prévus.
 
@@ -1442,9 +1581,9 @@ Des efforts restent donc à faire pour atteindre la parité filles/garçons dans
 
 [[START OF PAGE 48]]
 
-Indicateurs | 2009/10 | 2010/11 | 2011/12
+Tableau 10 : Scolarisation au secondaire
+Indicateurs | 2009/10 | 2010/11 Prévu | 2010/11 Réalisé | 2011/12 Prévu | 2011/12 Réalisé
 --- | --- | --- | --- | --- | ---
-Prévu | Réalisé | Prévu | Réalisé
 Nombre de nouveaux inscrits en classe de 6ème | 92 021 | 94 404 | 100 705 | 98 889 | 99 808
 Nombre de nouveaux inscrits en classe de 2nde | 33760 | 31 971 | 33 633 | 32 959 | 35 173
 Transition Primaire/secondaire 1 | 79% | 75% | 76% | 74% | 75%
@@ -1452,11 +1591,7 @@ Transition Secondaire 1/secondaire 2 | 48,6% | 51,6% | 50% | 50,4% | 46%
 Indice de parité filles /garçons en classe de 6ème | 68% | 77,90% | 60,2% | 80,10% | 70,5%
 Indice de parité filles /garçons en classe de 2nde | 37% | 65,70% | 39,4% | 69,10% | 42,5%
 
-Tableau 10 : Scolarisation au secondaire
-
-Source
-
-: DPEE/MEPSA
+Source : DPEE/MEPSA
 
 ###### Qualité
 
@@ -1468,19 +1603,17 @@ Au  premier  cycle  du  secondaire,  23%  des  élèves  sont  des  redoublants.
 
 [[START OF PAGE 49]]
 
-Indicateurs | 2009 | 2010/11 | 2011/12
+Tableau 11 : Evolution des indicateurs d'efficacité et de qualité au secondaire
+Indicateurs | 2009 Prévu | 2009 Réalisé | 2010/11 Prévu | 2010/11 Réalisé | 2011/12 Prévu | 2011/12 Réalisé
 --- | --- | --- | --- | --- | --- | ---
-Prévu | Réalisé | Prévu | Réalisé | Prévu | Réalisé
 Taux moyen de redoublement dans le 1er cycle | 26,3% | 23,7% | 20,9% | 23,4% | 15,4% | 22,6%
 Taux moyen de redoublement dans le 2nd cycle | 36,5% | 27,8% | 29,3% | 27,8% | 22,2% | 30,6%
-Taux de rétention du 1er cycle | 64,1% | 65,5% | 59,8% | 67% | 63,5%
-Taux de rétention du 2nd cycle | 55,3% | 56,7% | 58,5% | 58,% | 73,9%
-Ratio élèves/division dans le 1er cycle | 77,1% | 74,6% | 49% | 72,2% | 56%
-Ratio élèves/division dans le 2nd cycle | 67,1% | 65,1% | 47% | 63,1% | 57%
+Taux de rétention du 1er cycle | 64,1% |  | 65,5% | 59,8% | 67% | 63,5%
+Taux de rétention du 2nd cycle | 55,3% |  | 56,7% | 58,5% | 58,% | 73,9%
+Ratio élèves/division dans le 1er cycle | 77,1% |  | 74,6% | 49% | 72,2% | 56%
+Ratio élèves/division dans le 2nd cycle | 67,1% |  | 65,1% | 47% | 63,1% | 57%
 
-Tableau 11 : Evolution des indicateurs d'efficacité et de qualité au secondaire
-
-Source , DPEE/MEPSA
+Source, DPEE/MEPSA
 
 ##### Les contraintes
 
@@ -1514,7 +1647,7 @@ L'ordonnance de 1975 instituant la scolarité obligatoire est le socle de la pol
 
 Concernant la réforme des curricula, il est à noter en premier lieu que l'horaire hebdomadaire des élèves togolais    se  situe  à  près  de  31  heures  hebdomadaires ;  ce  temps  scolaire  est  relativement  élevé comparativement à la pratique observée dans les pays de la région dont la charge hebdomadaire à ce cycle d'enseignement s'échelonne de 24 à 32 heures. Cette diminution de la charge horaire des élèves préconisée passe nécessairement par la refonte des curricula et la simplification du programme en socle de  compétences  identifiées  par  les  acteurs.  Cette  réforme  des  curricula  a  pour  ambition  déclarée  un rapprochement entre le volume horaire hebdomadaire des élèves et des enseignants. En effet, la charge hebdomadaire des enseignants s'établit aujourd'hui à 21 heures au collège : dans ces conditions il faut 1.5 enseignant par groupe pédagogique. Une augmentation légère de la charge des enseignants obtenue par  un  dialogue  constructif  avec  ces  derniers  (revalorisation  salariale,  augmentation  du  pouvoir d'achat,…)  est  l'élément  central  de  la  généralisation  de  ce  niveau  d'enseignement.  L'idée  ici  est  que chaque enseignant prenne la charge de l'enseignement d'un socle parmi les différents socles identifiés. La polyvalence des éducateurs de ce cycle est in fine la condition nécessaire pour élargir la couverture de ce niveau d'enseignement .  Autant  l'augmentation  de  la  charge  des  enseignants  est possible  mais  délicate  car  dépendant  des  négociations  avec  les  syndicats,  autant  la  polyvalence  des enseignants est une mesure déjà mise en œuvre et dont la généralisation est faisable.
 
-(i) Enfin, la généralisation du premier cycle du secondaire nécessite la prise en compte des éléments suivants :  les  nouveaux  collèges  seront  construits  essentiellement  dans  les  zones  rurales  ou  périurbaines et seront généralement de petite taille (en moyenne 200 à 400 élèves) ;
+(i) Enfin, la généralisation du premier cycle du secondaire nécessite la prise en compte des éléments suivants :  les  nouveaux  collèges  seront  construits  essentiellement  dans  les  zones  rurales  ou  péri-urbaines et seront généralement de petite taille (en moyenne 200 à 400 élèves) ;
 
 (ii) le  manque d'enseignants formés qui est déjà un sérieux problème pour le système (plus de 30% des enseignants sont communautaires) risque d'affecter cette amélioration de la couverture souhaitée;
 
@@ -1576,7 +1709,7 @@ A cet effet, le nouveau programme  retient les objectifs stratégiques suivants 
 
 ##### IV.4.2.2. Dans le second cycle du secondaire
 
-Concernant le second cycle du secondaire le mode d'organisation et l'orientation vers les différentes séries constitue le principal défi de ce niveau d'enseignement. En effet, toutes les analyses montrent que l'organisation  des  services  éducatifs  dans  ce  cycle  est  fondamentale  pour  l'équilibre  de  la  pyramide éducative dans son ensemble. Une fois ce cycle achevé, la demande sociale pousse naturellement les élèves vers les études supérieures, ce qui conduit à détériorer les conditions d'encadrement à ce niveau.. Déjà, en 2010, le gouvernement prévoyait « lier le développement du second cycle du secondaire à un enseignement supérieur de qualité orienté vers le marché de l'emploi ».
+Concernant le second cycle du secondaire le mode d'organisation et l'orientation vers les différentes séries constitue le principal défi de ce niveau d'enseignement. En effet, toutes les analyses montrent que l'organisation des services éducatifs dans ce cycle est fondamentale pour l'équilibre de la pyramide éducative dans son ensemble. Une fois ce cycle achevé, la demande sociale pousse naturellement les
 
 51
 
@@ -1584,7 +1717,9 @@ Concernant le second cycle du secondaire le mode d'organisation et l'orientation
 
 [[START OF PAGE 52]]
 
-En  effet, si la  généralisation  du  premier  cycle du  secondaire  est  souhaitable  et  constitue  un approfondissement des fondamentaux acquis au cycle primaire et augmente notamment la probabilité d'être durablement alphabétisé, pour le second cycle du secondaire s'impose la nécessité d'une vision du devenir des futurs étudiants en termes de compétences à valoriser sur le marché du travail. Donc, la régulation des flux souvent évoquée mais rarement mise en place amène à limiter l'accès à ce cycle aux futurs étudiants en fonction des besoins quantitatifs du marché du travail. La diversification vers les filières d'un enseignement technique doté de moyens adaptés à sa nouvelle mission s'impose donc dès la fin du premier cycle du secondaire (BEPC).
+élèves vers les études supérieures, ce qui conduit à détériorer les conditions d'encadrement à ce niveau.. Déjà, en 2010, le gouvernement prévoyait « lier le développement du second cycle du secondaire à un enseignement supérieur de qualité orienté vers le marché de l'emploi ».
+
+En effet, si la généralisation du premier cycle du secondaire est souhaitable et constitue un approfondissement des fondamentaux acquis au cycle primaire et augmente notamment la probabilité d'être durablement alphabétisé, pour le second cycle du secondaire s'impose la nécessité d'une vision du devenir des futurs étudiants en termes de compétences à valoriser sur le marché du travail. Donc, la régulation des flux souvent évoquée mais rarement mise en place amène à limiter l'accès à ce cycle aux futurs étudiants en fonction des besoins quantitatifs du marché du travail. La diversification vers les filières d'un enseignement technique doté de moyens adaptés à sa nouvelle mission s'impose donc dès la fin du premier cycle du secondaire (BEPC).
 
 Concernant l'offre de formation,  il est notable que la majorité des admis au baccalauréat sont issues des filières littéraires et ce déséquilibre se poursuit à l'université où à peine 10 % des étudiants sont inscrits dans  les  formations  scientifiques  et  technologiques.  Cette  dichotomie  de  l'offre  de  formation  est essentiellement due à l'insuffisance d'enseignants dans les séries scientifiques et le manque d'infrastructures,  ce  qui  conduit  davantage  d'élèves  vers  les  séries  littéraires.  A  ce  titre,  il  est  évoqué davantage de synergie entre l'ENS (spécifiquement chargée de la formation des enseignants du premier cycle) et l'INSE (qui s'occupe des enseignants du second cycle).
 
@@ -1756,16 +1891,14 @@ L'effectif des élèves a évolué de 23 648 en 2007 à 32 694 en 2011 puis à 3
 
 [[START OF PAGE 55]]
 
-2007 | 2010 | 2011 | 2012 | 2020
---- | --- | --- | --- | --- | ---
-Prévision | 31 846 | 44 963 | 50 306 | 56 199 | 116 303
-Réalisation | 23 648 | 30 467 | 32 694 | 35 484
-
 Tableau 12 : Effectifs des élèves de l'enseignement technique et la formation professionnelle
 
-Source
+|  | 2007 | 2010 | 2011 | 2012 | 2020 |
+| --- | --- | --- | --- | --- | --- |
+| Prévision | 31 846 | 44 963 | 50 306 | 56 199 | 116 303 |
+| Réalisation | 23 648 | 30 467 | 32 694 | 35 484 |  |
 
-: DSRP/METFP
+Source : DSRP/METFP
 
 ###### Qualité
 
@@ -1793,7 +1926,7 @@ Concernant la gestion et le partenariat, le système fait face à d'importantes 
 
 #### IV.5.2. Perspectives  et choix de politique pour l'ETFP à l'horizon 2025
 
-Le  Gouvernement  entend  améliorer  substantiellement  l'accès  à  l'Enseignement  Technique  et  à  la Formation  Professionnelle.  En  particulier,  la  perspective  vise  à  accroître  l'offre  des  formations industrielles dans le public et à encourager le privé à développer une offre de formation conséquente. Il s'agira aussi d'améliorer la qualité des formations, de renforcer les mécanismes d'appui à l'insertion et de rendre le système suffisamment réactif pour lui permettre de s'adapter aux exigences du marché de l'emploi. Toute formation doit nécessairement déboucher directement sur un possible emploi ou autoemploi. C'est pourquoi les formations offertes doivent comporter des modules en entreprenariat.
+Le Gouvernement entend améliorer substantiellement l'accès à l'Enseignement Technique et à la Formation Professionnelle. En particulier, la perspective vise à accroître l'offre des formations industrielles dans le public et à encourager le privé à développer une offre de formation conséquente. Il s'agira aussi d'améliorer la qualité des formations, de renforcer les mécanismes d'appui à l'insertion et de rendre le système suffisamment réactif pour lui permettre de s'adapter aux exigences du marché de l'emploi. Toute formation doit nécessairement déboucher directement sur un possible emploi ou auto-emploi. C'est pourquoi les formations offertes doivent comporter des modules en entreprenariat.
 
 ##### Perspectives générales
 
@@ -1803,9 +1936,9 @@ La  nouvelle  stratégie  prévoit  d'augmenter  considérablement  l'offre  d'E
 
 ###### Recalibrer l'offre de formation
 
-Le  sous-secteur  de  l'enseignement  technique  et  de  la  formation  professionnelle  est  appelé  à  ajuster progressivement son offre de formation en fonction des performances observées de ses sortants sur le marché du travail. Il s'agit de réduire l'offre dans les filières où l'on observe de faibles performances et d'accroitre les effectifs dans les formations qui suscitent une meilleure insertion. Une amélioration de l'offre  (quantité  et  qualité)  de  formation  technique  et  professionnelle  dans  les  filières  agro-sylvopastorales sera menée dans le cadre du processus de rénovation du dispositif de formation agricole et rurale au Togo. Ceci englobe les métiers contribuant à la dynamique de l'agriculture : l'entretien/maintenance  agricole,  la  fabrication  de  matériels,  les  unités  de  transformation,  les  arts ménagers, le transport et la commercialisation des produits alimentaires.
+Le sous-secteur de l'enseignement technique et de la formation professionnelle est appelé à ajuster progressivement son offre de formation en fonction des performances observées de ses sortants sur le marché du travail. Il s'agit de réduire l'offre dans les filières où l'on observe de faibles performances et d'accroitre les effectifs dans les formations qui suscitent une meilleure insertion. Une amélioration de l'offre (quantité et qualité) de formation technique et professionnelle dans les filières agro-sylvo-pastorales sera menée dans le cadre du processus de rénovation du dispositif de formation agricole et rurale au Togo. Ceci englobe les métiers contribuant à la dynamique de l'agriculture : l'entretien/maintenance agricole, la fabrication de matériels, les unités de transformation, les arts ménagers, le transport et la commercialisation des produits alimentaires.
 
-Sur la base des résultats de l'enquête de suivi professionnel de l'année 2013 17 , le Gouvernement entend accorder  la  priorité  aux  formations  professionnelles  au  détriment  des  formations  de  l'enseignement technique  pour  lesquelles  il  a  été  observé  une  forte  transition  vers  l'enseignement  supérieur  et  des revenus faibles pour ceux qui vont sur le marché du travail. Des orientations et des appuis vers un autoemploi sont à prévoir, accompagnés d'une formation adéquate en création d'entreprise.
+Sur la base des résultats de l'enquête de suivi professionnel de l'année 2013 17 , le Gouvernement entend accorder la priorité aux formations professionnelles au détriment des formations de l'enseignement technique pour lesquelles il a été observé une forte transition vers l'enseignement supérieur et des revenus faibles pour ceux qui vont sur le marché du travail. Des orientations et des appuis vers un auto-emploi sont à prévoir, accompagnés d'une formation adéquate en création d'entreprise.
 
 > 17 Rapport  de  l'enquête  de  suivi  professionnel  auprès  des  diplômés  de  l'ES  et  de  l'ETFP  du  Togo,  génération  2008 (2013)
 
@@ -1963,7 +2096,7 @@ Dans le souci d'apporter  une réponse aux problèmes rencontrés, des activité
 
 -Encourager  les  maîtres  artisans  à  participer  aux  cours  de  recyclage  technique  et  gestion d'entreprise dans le but d'améliorer la qualité des apprentissages des jeunes.
 
-##### Activités à réaliser par l'ET FP pour la gestion et la gouvernance
+##### Activités à réaliser par l'ETFP pour la gestion et la gouvernance
 
 -Rendre fonctionnel le comité paritaire de suivi de la charte de partenariat public/privé ;
 
@@ -2003,6 +2136,8 @@ Dans le souci d'apporter  une réponse aux problèmes rencontrés, des activité
 
 Dans les deux universités publiques, les effectifs des étudiants sont passés  de 43 967 en 2008-2009 à 51 382 en 2009-2010, puis à 54 827 en 2010-2011, soit un taux d'accroissement moyen annuel de 11,7% (10,4% à l'UL et 17,3% à l'UK). Les effectifs de l'enseignement supérieur public croissent à un rythme supérieur aux prévisions du  PSE. En effet, dans le PSE 1, les effectifs à l'horizon 2020 étaient estimés à 44 500. La situation de l'évolution des effectifs des étudiants sur la période 2009-2012 est présentée par le tableau 13 ci-dessous.
 
+Tableau 13 : Evolution des effectifs des étudiants
+
 Niveaux d'enseignement | 2009-10 | 2010-11 | 2011-12 | Taux de d'accroissement global sur la période
 --- | --- | --- | --- | ---
 Université Lomé | 41 452 | 44 048 | 47 481 | 14%
@@ -2012,13 +2147,11 @@ Effectif du public (PSE) | 39 552 | 40 722 | 41 892 | 3%
 Privé (Université et grandes écoles hors université) | 5 597 | 5 641 | 5 590 | 0%
 Ensemble Public + Privé | 56 979 | 60 468 | 65 969 | 13%
 
-Tableau 13 : Evolution des effectifs des étudiants
-
 Source : MESR
 
 ###### Qualité
 
-Sur le plan de la qualité, on note une dégradation notable des conditions d'encadrement reflétée par l'augmentation significative du nombre d'étudiants pour un  professeur. En effet, sur la période 20072012, le nombre d'étudiants pour 1 enseignant est passé de 60 à 90.  De nombreuses infrastructures (amphithéâtres,  laboratoires…)  sont  vétustes  même  si  quelques  réhabilitations  ont  été  menées.  Les programmes d'enseignement sont peu pertinents par rapport aux besoins du marché du travail. Malgré l'introduction récente du système LMD, les stratégies d'enseignement n'ont pas beaucoup évolué. En conséquence, les résultats escomptés en termes d'amélioration de la qualité n'ont pas été atteints.
+Sur le plan de la qualité, on note une dégradation notable des conditions d'encadrement reflétée par l'augmentation significative du nombre d'étudiants pour un professeur. En effet, sur la période 2007-2012, le nombre d'étudiants pour 1 enseignant est passé de 60 à 90. De nombreuses infrastructures (amphithéâtres, laboratoires…) sont vétustes même si quelques réhabilitations ont été menées. Les programmes d'enseignement sont peu pertinents par rapport aux besoins du marché du travail. Malgré l'introduction récente du système LMD, les stratégies d'enseignement n'ont pas beaucoup évolué. En conséquence, les résultats escomptés en termes d'amélioration de la qualité n'ont pas été atteints.
 
 ##### Les contraintes
 
@@ -2128,7 +2261,7 @@ Le Conseil Présidentiel pour l'Enseignement Supérieur recommande, en particuli
 
 ###### Améliorer le financement de l'enseignement supérieur
 
-Concernant le financement de l'enseignement supérieur les priorités sont de deux ordres : il s'agit d'une part,  de  maîtriser  les  dépenses,  en  particulier  la  dépense  sociale  qui  représente  aujourd'hui  40%  des dépenses du sous-secteur et d'autre  part  la  nécessité  d'augmenter  les  ressources  disponibles  pour  les universités. L'augmentation des frais de scolarité qui sont aujourd'hui à un niveau jugé faible constitue une recommandation forte et permettrait de doter l'Université des moyens nécessaires pour remplir sa mission.  Egalement,  la  diversification  des  sources  de  financement  du  sous-secteur  est  un  élément important à signaler.  Ce dernier  aspect  doit  être  mis  en  lien  avec  le  mode  de  gouvernance  du  soussecteur  et  la  nécessaire  autonomie  des  universités.  Cette  autonomie  devrait  servir  à  diversifier  les possibilités de financement du sous-secteur. Même si ces aspects sont d'ordre politique, et nécessitent à la  fois  du  courage  et  un  dialogue  notamment  avec  les  représentants  des  parents  d'étudiants  et l'ensemble de la communauté sur le devenir et le financement du sous-secteur, il existe des marges de manœuvre pour réaliser des  progrès  significatifs  en  ce  sens.  Notamment,  pour  le  premier  aspect,  la possibilité de conditionner davantage l'octroi des aides sociales par les performances académiques dont des  éléments  concrets  sont  déjà  dans  le  décret  d'attributions  des  aides  sociales  mais  insuffisamment appliqués. Une manière de rendre plus utile cette dépense sociale serait de l'orienter vers les axes de développement  du  pays  contenus  dans  la  SCAPE  (les  filières scientifiques et technologiques, l'agriculture,  la  formation  des  enseignants  et  la  santé….)  tout  en  n'oubliant  pas  les  critères  sociaux. Dans  cette  perspective  et  pour  mieux  adresser  ce  problème  de  financement,  le  Conseil  Présidentiel pour  l'Enseignement  Supérieur  recommande  de  formuler  une  politique  globale  de  financement  de l'Enseignement Supérieur et la création d'un Fonds de Soutien à l'Enseignement Supérieur.
+Concernant le financement de l'enseignement supérieur les priorités sont de deux ordres : il s'agit d'une part, de maîtriser les dépenses, en particulier la dépense sociale qui représente aujourd'hui 40% des dépenses du sous-secteur et d'autre part la nécessité d'augmenter les ressources disponibles pour les universités. L'augmentation des frais de scolarité qui sont aujourd'hui à un niveau jugé faible constitue une recommandation forte et permettrait de doter l'Université des moyens nécessaires pour remplir sa mission. Egalement, la diversification des sources de financement du sous-secteur est un élément important à signaler. Ce dernier aspect doit être mis en lien avec le mode de gouvernance du sous-secteur et la nécessaire autonomie des universités. Cette autonomie devrait servir à diversifier les possibilités de financement du sous-secteur. Même si ces aspects sont d'ordre politique, et nécessitent à la fois du courage et un dialogue notamment avec les représentants des parents d'étudiants et l'ensemble de la communauté sur le devenir et le financement du sous-secteur, il existe des marges de manœuvre pour réaliser des progrès significatifs en ce sens. Notamment, pour le premier aspect, la possibilité de conditionner davantage l'octroi des aides sociales par les performances académiques dont des éléments concrets sont déjà dans le décret d'attributions des aides sociales mais insuffisamment appliqués. Une manière de rendre plus utile cette dépense sociale serait de l'orienter vers les axes de développement du pays contenus dans la SCAPE (les filières scientifiques et technologiques, l'agriculture, la formation des enseignants et la santé….) tout en n'oubliant pas les critères sociaux. Dans cette perspective et pour mieux adresser ce problème de financement, le Conseil Présidentiel pour l'Enseignement Supérieur recommande de formuler une politique globale de financement de l'Enseignement Supérieur et la création d'un Fonds de Soutien à l'Enseignement Supérieur.
 
 ###### Améliorer la gouvernance et le pilotage du sous-secteur
 
@@ -2452,35 +2585,37 @@ Cette population d'élèves constitue un stock qui devrait se répartir comme su
 
 A ce niveau, le résultat de cette régulation des flux amène 26% d'une génération d'âge à accéder à un secondaire 2 calibré sur les besoins de l'enseignement supérieur. Ainsi, 18% d'une génération sera aux portes d'un enseignement supérieur orienté principalement vers les filières scientifiques et techniques tel que défini par la SCAPE.
 
-Enseignement
-
-Supérieur
-
 Marché du Travail
 
-A
+Enseignement Supérieur
 
-E
+18%
 
-N
+Lycée
 
-F
+EFTP
 
-100%
+Informel Non-agricole
 
-80%
+Informel Agricole
 
-52%
+AENF
 
 26%
 
-STOC
-
-K
-
 45%
 
-18%
+52%
+
+Collège
+
+STOCK
+
+80%
+
+Primaire
+
+100%
 
 71
 
@@ -2548,7 +2683,7 @@ Concernant la supervision et le suivi au quotidien de la gestion de l'école, le
 
 Ainsi, lancé en août 2011 avec le PERI, le programme de Formation en Gestion à la Base (FGB) vient en appui au  volet constructions scolaires en milieu rural.
 
-Le  programme  repose  sur  la  stratégie  de  construction  du  MEPS  dans  son  volet  renforcement institutionnel des COGEPS qui prévoit l'adoption de l'approche communautaire au niveau des sites du milieu  rural.  L  'objectif  principal  du  programme  de  formation  est  de  renforcer  les  capacités  des communautés et leurs COGEP pour mettre en œuvre avec succès leurs sous-projets de constructions scolaires.  La  méthodologie  FGB  est  une  approche  de  formation  participative  et  responsabilisante, utilisant des techniques pédagogiques suffisamment adaptées aux communautés analphabètes ou semialphabétisées
+Le programme repose sur la stratégie de construction du MEPS dans son volet renforcement institutionnel des COGEPS qui prévoit l'adoption de l'approche communautaire au niveau des sites du milieu rural. L 'objectif principal du programme de formation est de renforcer les capacités des communautés et leurs COGEP pour mettre en œuvre avec succès leurs sous-projets de constructions scolaires. La méthodologie FGB est une approche de formation participative et responsabilisante, utilisant des techniques pédagogiques suffisamment adaptées aux communautés analphabètes ou semi-alphabétisées
 
 Afin de poursuivre avec l'approche communautaire  au  préscolaire, primaire et secondaire, le gouvernement compte mettre l'accent sur la formation des APE, des COGEP et des COGERES afin qu'ils  puissent  participer  activement  au  suivi  et  la  gestion  des  établissements  sur  tous  les  aspects (financier, matériel….).
 
@@ -2836,6 +2971,8 @@ Le financement du budget de fonctionnement du secteur est imputé à hauteur de 
 
 #### VI.4.2. Financement du CDMTE par budget et bailleur
 
+COÛT ET FINANCEMENT DU CDMTE 2014 - 2016
+
 BUDGET | Fonctionnement (Modèle) | Investissement (PTAB) | Total Fonction. + Inv.
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 284 093 906 | 604 455 119 | 100,0% | 94 773 491 | 201 645 726 | 100,0% | 378 867 397 | 806 100 845 | 100,0%
@@ -2843,8 +2980,6 @@ Total | 274 581 471 | 584 215 895 | 96,7% | 14 091 948 | 29 982 868 | 14,9% | 28
 Budget Etat | 0 | 0 | 0,0% | 60 017 525 | 127 696 861 | 63,3% | 60 017 525 | 127 696 861 | 15,8%
 PTF | 9 512 435 | 20 239 224 | 3,3% | 20 664 019 | 43 965 997 | 21,8% | 30 176 454 | 64 205 221 | 8,0%
 A rechercher | 284 093 906 | 604 455 119 | 100,0% | 94 773 491 | 201 645 726 | 100,0% | 378 867 397 | 806 100 845 | 100,0%
-
-COÛT ET FINANCEMENT DU CDMTE 2014 - 2016
 
 Source : CDMTE  mars 2014
 
@@ -2921,6 +3056,8 @@ Les arbitrages financiers pour les dépenses courantes sont visualisés dans le 
 
 [[START OF PAGE 84]]
 
+EVOLUTION DES DEPENSES COURANTES PAR NIVEAU D'ENSEIGNEMENT en milliards de FCFA
+
 Evolution dépenses courantes | 2 014 | 2 015 | 2 016
 --- | --- | --- | --- | --- | --- | ---
 Niveau d'études | Montant | % | Montant | % | Montant | %
@@ -2933,8 +3070,6 @@ ENI | 0,227 | 0,3% | 0,196 | 0,2% | 0,138 | 0,1%
 Enseignement supérieur et recherche | 16,104 | 18,0% | 16,860 | 17,8% | 17,674 | 17,7%
 Alphabétisation et éducation non formelle | 0,994 | 1,1% | 1,182 | 1,2% | 1,386 | 1,4%
 Total en milliards de F CFA | 89,587 | 100,0% | 94,627 | 100,0% | 99,880 | 100,0%
-
-EVOLUTION DES DEPENSES COURANTES PAR NIVEAU D'ENSEIGNEMENT en milliards de FCFA
 
 Source : Modèle de simulation octobre 2013
 
@@ -2978,23 +3113,23 @@ Les  investissements  du  PSE  s'élèvent  à  95  milliards  de  FCFA  ($US  2
 
 #### VI.6.2. Répartition des investissements  par nature de dépense
 
+REPARTITION DES ALLOCATIONS DU PTAB PAR NATURE DE DEPENSE
+
 CODE DEPENSE | NATURE DEPENSE | 2014 | 2015 | 2016 | TOTAL | %
 --- | --- | --- | --- | --- | --- | ---
-TOTAL GENERAL | 39 146 870 | 31 756 590 | 23 577 731 | 94 481 191 | 100%
-S/TOTAL FONCTIONNEMENT | 12 928 205 | 11 797 937 | 8 941 480 | 33 667 623 | 35,6%
+ | TOTAL GENERAL | 39 146 870 | 31 756 590 | 23 577 731 | 94 481 191 | 100%
+ | S/TOTAL FONCTIONNEMENT | 12 928 205 | 11 797 937 | 8 941 480 | 33 667 623 | 35,6%
 11 | Salaires | 334 016 | 259 942 | 112 868 | 706 826 | 0,7%
 12 | Formations | 3 904 265 | 3 910 113 | 2 059 177 | 9 873 554 | 10,5%
 13 | Bourses et aides diverses | 249 479 | 269 734 | 291 167 | 810 380 | 0,9%
 14 | Subventions de fonctionnement | 686 757 | 578 757 | 578 757 | 1 844 272 | 2,0%
 15 | Autres dépenses de fonctionnement | 7 753 688 | 6 779 391 | 5 899 511 | 20 432 591 | 21,6%
-S/TOTAL INVESTISSEMENT | 26 218 665 | 19 958 652 | 14 636 251 | 60 813 568 | 64,4%
+ | S/TOTAL INVESTISSEMENT | 26 218 665 | 19 958 652 | 14 636 251 | 60 813 568 | 64,4%
 21 | Etudes architecturales et techniques | 979 415 | 592 657 | 554 350 | 2 126 423 | 2,3%
 22 | Travaux de génie civil | 13 134 650 | 10 703 627 | 8 525 051 | 32 363 328 | 34,3%
 23 | Equipements et mobilier | 6 560 268 | 4 412 804 | 2 745 546 | 13 718 618 | 14,5%
 24 | Manuels et matériels didactiques | 2 681 595 | 2 177 598 | 1 101 397 | 5 960 590 | 6,3%
 25 | Services de spécialistes | 2 862 737 | 2 071 967 | 1 709 907 | 6 644 610 | 7,0%
-
-REPARTITION DES ALLOCATIONS DU PTAB PAR NATURE DE DEPENSE
 
 Source : CDMTE 2014 - 2016 janvier 2014
 
@@ -3007,6 +3142,8 @@ Les allocations du budget d'investissement par nature de dépenses sont en faveu
 [[START OF PAGE 86]]
 
 #### VI.6.3. Financement des investissements
+
+FINANCEMENT DES INVESTISSEMENTS PAR PROGRAMME ET PAR BAILLEUR EN MILLIERS DE FCFA
 
 Programme Bailleur | Pré scolaire | Primaire | Formation Maîtres | AENF | Secondaire Cycle 1 | Secondaire Cycle 2 | ETFP | Enseig Supérieur | Recherche | Gestion sectorielle | TOTAL | %
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -3031,9 +3168,7 @@ UNESCO | 0 | 0 | 0 | 192 929 | 0 | 0 | 0 | 0 | 0 | 190 035 | 382 963 | 0,4%
 UNICEF | 639 610 | 1 860 950 | 0 | 960 703 | 0 | 0 | 0 | 0 | 0 | 512 208 | 3 973 471 | 4,2%
 COMMUNAUTE | 0 | 0 | 0 | 0 | 290 400 | 0 | 0 | 0 | 0 | 0 | 290 400 | 0,3%
 FINANCEMENT A RECHERCHER | 1 262 451 | 4 880 750 | 0 | 888 946 | 2 594 559 | 3 486 553 | 2 070 560 | 940 500 | 1 738 000 | 2 801 700 | 20 664 019 | 21,8%
-% 36,7% | 17,5% | 0,0% | 37,0% | 13,0% | 73,4% | 25,8% | 13,4% | 100,0% | 18,4% | 21,8%
-
-FINANCEMENT DES INVESTISSEMENTS PAR PROGRAMME ET PAR BAILLEUR EN MILLIERS DE FCFA
+% | 36,7% | 17,5% | 0,0% | 37,0% | 13,0% | 73,4% | 25,8% | 13,4% | 100,0% | 18,4% | 21,8%
 
 Source : CDMTE 2014 -2016 janvier 2014
 
@@ -3268,7 +3403,7 @@ Taux net de scolarisation | 100,0% | 83,90% | 85,7% | 87,5% | 89,3% | 91,1% | 92
 Taux brut de scolarisation | 111,1% | 132,3% | 130,9% | 127,8% | 124,8% | 122,0% | 119,2% | 116,6% | 114,0% | 113,6% | 113,2% | 112,8% | 112,4% | 111,9% | 111,5% | 111,1%
 Parité filles / garçons du TBS | 100,0% | 98,1% | 98,3% | 98,5% | 98,7% | 98,9% | 99,1% | 99,4% | 99,6% | 99,8% | 100,0% | 100,0% | 100,0% | 100,0% | 100,0% | 100,0%
 Parité filles / garçons des effectifs | 100,0% | 92,0% | 92,9% | 93,8% | 94,7% | 95,6% | 96,5% | 97,3% | 98,2% | 99,1% | 100,0% | 100,0% | 100,0% | 100,0% | 100,0% | 100,0%
-% d'élèves ayant un repas à l'école (public et EDIL) | 6,10% | 6,40% | 6,80%
+% d'élèves ayant un repas à l'école (public et EDIL) |  |  |  |  | 6,10% | 6,40% | 6,80% |  |  |  |  |  |  |  |  | 
 ### Alphabétisation
 Nombre d'apprenants en alphabétisation de base | 44 119 | 0 | 0 | 0 | 28 000 | 32 000 | 36 000 | 41 000 | 43 000 | 44 119 | 44 119 | 44 119 | 44 119 | 44 119 | 44 119 | 44 119
 Nombre d'apprenants en post alphabétisation | 6 618 | 0 | 0 | 0 | 4 200 | 4 800 | 5 400 | 6 150 | 6 450 | 6 618 | 6 618 | 6 618 | 6 618 | 6 618 | 6 618 | 6 618
@@ -3276,8 +3411,8 @@ Nombre d'apprenants en post alphabétisation | 6 618 | 0 | 0 | 0 | 4 200 | 4 800
 Nombre admis annuellement ENF | 2 744 | 0 | 0 | 67 | 401 | 718 | 1 020 | 1 306 | 1 578 | 1 835 | 2 075 | 2 267 | 2 431 | 2 567 | 2 671 | 2 744
 Effectifs ENF (durée 3 ans) | 7 982 | 0 | 0 | 67 | 468 | 1 186 | 2 139 | 3 044 | 3 904 | 4 719 | 5 488 | 6 177 | 6 774 | 7 265 | 7 669 | 7 982
 ### Secondaire
-166 089 | 100 760 | 103 375 | 108 293 | 113 141 | 117 995 | 122 786 | 127 458 | 133 203 | 138 508 | 143 349 | 147 726 | 151 662 | 156 059 | 160 869 | 166 089
-Nombre de nouveaux inscrits en 1ère année du 1er cycle Nombre de nouveaux inscrits en 1ère année du 2nd cycle | 48 790 | 33 637 | 34 151 | 34 659 | 35 894 | 37 067 | 38 231 | 39 385 | 40 350 | 41 785 | 43 201 | 44 575 | 45 885 | 46 998 | 47 971 | 48 790
+Nombre de nouveaux inscrits en 1ère année du 1er cycle | 166 089 | 100 760 | 103 375 | 108 293 | 113 141 | 117 995 | 122 786 | 127 458 | 133 203 | 138 508 | 143 349 | 147 726 | 151 662 | 156 059 | 160 869 | 166 089
+Nombre de nouveaux inscrits en 1ère année du 2nd cycle | 48 790 | 33 637 | 34 151 | 34 659 | 35 894 | 37 067 | 38 231 | 39 385 | 40 350 | 41 785 | 43 201 | 44 575 | 45 885 | 46 998 | 47 971 | 48 790
 Indice de parité filles /garçons en 1 ère année du 1 er cycle | 100,0% | 78,1% | 80,5% | 83,0% | 85,4% | 87,8% | 90,3% | 92,7% | 95,1% | 97,6% | 100,0% | 100,0% | 100,0% | 100,0% | 100,0% | 100,0%
 Indice de parité filles /garçons en 1 ère année du 2nd cycle | 100,0% | 46,6% | 52,5% | 58,5% | 64,4% | 70,3% | 76,3% | 82,2% | 88,1% | 94,1% | 100,0% | 100,0% | 100,0% | 100,0% | 100,0% | 100,0%
 ### Enseignement technique et formation professionnelle
@@ -3305,8 +3440,8 @@ Nombre d'apprenants | 75 543 | 45 165 | 46 316 | 51 797 | 53 875 | 55 952 | 57 9
 % d'apprenants dans la formation professionnelle pour l'informel agricole | 50,0% | 33,6% | 34,8% | 35,9% | 37,1% | 38,3% | 39,4% | 40,6% | 41,8% | 43,0% | 44,1% | 45,3% | 46,5% | 47,7% | 48,8% | 50,0%
 ### Enseignement supérieur
 Nombre d'étudiants | 95 767 | 66 415 | 68 252 | 70 127 | 72 047 | 74 007 | 76 005 | 78 043 | 80 121 | 82 237 | 84 392 | 86 586 | 88 822 | 91 099 | 93 415 | 95 767
-% d'étudiants dans l'enseignement supérieur privé % d'étudiants dans les filières technologiques (FAST, ESA, ENSI, IUT, | 30,0% | 8,5% | 10,0% | 11,6% | 13,1% | 14,6% | 16,2% | 17,7% | 19,2% | 20,8% | 22,3% | 23,9% | 25,4% | 26,9% | 28,5% | 30,0%
-ESTBA) | 15,0% | 3,5% | 4,3% | 5,1% | 5,9% | 6,8% | 7,6% | 8,4% | 9,2% | 10,1% | 10,9% | 11,7% | 12,5% | 13,4% | 14,2% | 15,0%
+% d'étudiants dans l'enseignement supérieur privé | 30,0% | 8,5% | 10,0% | 11,6% | 13,1% | 14,6% | 16,2% | 17,7% | 19,2% | 20,8% | 22,3% | 23,9% | 25,4% | 26,9% | 28,5% | 30,0%
+% d'étudiants dans les filières technologiques (FAST, ESA, ENSI, IUT, ESTBA) | 15,0% | 3,5% | 4,3% | 5,1% | 5,9% | 6,8% | 7,6% | 8,4% | 9,2% | 10,1% | 10,9% | 11,7% | 12,5% | 13,4% | 14,2% | 15,0%
 % d'étudiants dans les filières scientifiques | 15,0% | 9,4% | 9,8% | 10,2% | 10,6% | 11,0% | 11,4% | 11,8% | 12,2% | 12,6% | 13,0% | 13,4% | 13,8% | 14,2% | 14,6% | 15,0%
 % d'étudiants dans les filières de sciences de la santé | 4,09% | 4,09% | 4,09% | 4,09% | 4,09% | 4,09% | 4,09% | 4,09% | 4,09% | 4,09% | 4,09% | 4,09% | 4,09% | 4,09% | 4,09% | 4,09%
 % d'étudiants dans les filières littéraires | 20,0% | 44,6% | 42,9% | 41,1% | 39,3% | 37,6% | 35,8% | 34,1% | 32,3% | 30,6% | 28,8% | 27,0% | 25,3% | 23,5% | 21,8% | 20,0%
@@ -3318,8 +3453,8 @@ ESTBA) | 15,0% | 3,5% | 4,3% | 5,1% | 5,9% | 6,8% | 7,6% | 8,4% | 9,2% | 10,1% |
 Taux moyen de redoublement | 10,0% | 21,54% | 19,90% | 18,25% | 16,60% | 14,95% | 13,30% | 11,65% | 10,00% | 10,00% | 10,00% | 10,00% | 10,00% | 10,00% | 10,00% | 10,00%
 Taux de rétention sur le cycle | 100,0% | 56,1% | 58,5% | 61,0% | 63,5% | 66,2% | 68,9% | 71,8% | 74,8% | 77,9% | 81,2% | 84,6% | 88,2% | 92,0% | 95,9% | 100,0%
 Rapport élèves/maître | 45 | 44 | 44 | 44 | 45 | 45 | 45 | 45 | 45 | 45 | 45 | 45 | 45 | 45 | 45 | 45
-Ratio manuel de lecture/ élève | 0,8 | 0,8 | 0,8
-Ratio manuel de calcul/ élève | 0,7 | 0,7 | 0,7
+Ratio manuel de lecture/ élève |  |  |  |  | 0,8 | 0,8 | 0,8 |  |  |  |  |  |  |  |  | 
+Ratio manuel de calcul/ élève |  |  |  |  | 0,7 | 0,7 | 0,7 |  |  |  |  |  |  |  |  | 
 ### Secondaire général
 Taux moyen de redoublement dans le 1er cycle | 15,00% | 23,4% | 22,8% | 22,2% | 21,6% | 21,0% | 20,4% | 19,8% | 19,2% | 18,6% | 18,0% | 17,4% | 16,8% | 16,2% | 15,6% | 15,0%
 Taux moyen de redoublement dans le 2nd cycle | 20,00% | 34,9% | 33,8% | 32,7% | 31,7% | 30,6% | 29,6% | 28,5% | 27,4% | 26,4% | 25,3% | 24,2% | 23,2% | 22,1% | 21,1% | 20,0%
@@ -3337,9 +3472,9 @@ INDICATEURS | 2025 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 201
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Ratio élèves/division dans le 2nd cycle | 60 | 66 | 65 | 65 | 65 | 64 | 64 | 63 | 63 | 63 | 62 | 62 | 61 | 61 | 60 | 60
 ### Enseignement technique et formation professionnelle
-Nombre de curricula revisé | 0 | 18
-Nombre de conseillers pédagogiques formés | 0 | 25
-Nombre de développeurs ou spécialistes de curricula formés | 0 | 16
+Nombre de curricula revisé |  | 0 |  |  | 18 |  |  |  |  |  |  |  |  |  |  | 
+Nombre de conseillers pédagogiques formés |  | 0 |  |  |  |  | 25 |  |  |  |  |  |  |  |  | 
+Nombre de développeurs ou spécialistes de curricula formés |  | 0 |  |  | 16 |  |  |  |  |  |  |  |  |  |  | 
 ### Enseignement supérieur
 Ratio étudiants/enseignant | 81 | 103 | 100 | 98 | 96 | 94 | 93 | 91 | 90 | 88 | 87 | 86 | 85 | 83 | 82 | 81
 Dépenses pour la recherche (en milloins de FCFA) | 855 | 0 | 100 | 200 | 500 | 525 | 551 | 579 | 608 | 638 | 670 | 704 | 739 | 776 | 814 | 855
@@ -3350,12 +3485,16 @@ Nombre de comités régionaux de coordination et de suivi du PSE mis en place
 #### Gestion et pilotage du sous-secteur enseignements de base et secondaire
 Niveau moyen d'aléa dans l'affectation des enseignants du primaire (Public et EDIL) | 0,10 | 0,42 | 0,40 | 0,37 | 0,35 | 0,33 | 0,31 | 0,28 | 0,26 | 0,24 | 0,21 | 0,19 | 0,17 | 0,15 | 0,12 | 0,10
 Niveau moyen d'aléa dans l'affectation des enseignants dans les CEG | 0,05 | 0,27 | 0,25 | 0,24 | 0,22 | 0,21 | 0,19 | 0,18 | 0,16 | 0,14 | 0,13 | 0,11 | 0,10 | 0,08 | 0,07 | 0,05
-Métodologie de la carte scolaire disponible | 1
+Nombre d'évaluations des apprentissages du primaire réalisées |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |  | 
+Métodologie de la carte scolaire disponible
 Système d'information pour la gestion de l'éducation disponible
 #### Gestion et pilotage de l'alphabétisation et de l'éducation non formelle
-Fonds de soutien à l'AENF disponible Système d'information pour le management de l'AENF disponible
+Fonds de soutien à l'AENF disponible
+Système d'information pour le management de l'AENF disponible
+#### Gestion et pilotage du sous-secteur de l'enseignement technique et de la formation professionnelle
 Carte de développement des compétences techniques et professionnelles disponible
-Système d'information pour la gestion de l'ETFP disponible Un dispositif de suivi des apprentissages et des diplômés de l'ETFP disponible
+Système d'information pour la gestion de l'ETFP disponible
+Un dispositif de suivi des apprentissages et des diplômés de l'ETFP disponible
 #### Gestion et pilotage du sous-secteur de l'enseignement supérieur et de la recherche
 Système d'information pour la gestion de l'enseignement supérieur disponible
 Un dispositif de suivi des apprentissages et des diplômés de l'ES disponible
@@ -3588,7 +3727,7 @@ Elaboration de 3 manuels en langues nouvelles par langue | Nombre de manuels él
 
 Stratégie | Indicateurs d'impact | Source de vérification
 --- | --- | --- | ---
-Porter le nombre des enfants de 9-14 ans exclus du système enrôlés dans l'éducation non formelle de 0 en 2011 à 139 en 2016 (et à 21 614 en 2025) | 2 Nombre de nouveaux inscrits dans les cours d'éducation non formelle
+Porter le nombre des enfants de 9-14 ans exclus du système enrôlés dans l'éducation non formelle de 0 en 2011 à 2 139 en 2016 (et à 21 614 en 2025) | Nombre de nouveaux inscrits dans les cours d'éducation non formelle
 Actions | Indicateurs de suivi/performance | Source/moyen de vérification | Conditions critiques
 Elaboration d'une politique nationale pour la formation des 9-14 ans | Politique nationale pour la formation des 9-14 ans élaborée | Rapport d'activités/DAENF
 Elaboration d'une stratégie nationale pour la formation des 9-14 ans | Stratégie nationale pour la formation des 9-14 ans élaborée | Rapport d'activités/DAENF
@@ -3615,8 +3754,8 @@ Expérimentation de la méthode ALFAA | La méthode ALFAA expérimentée | Rappo
 #### Objectif 3 : Améliorer la gestion et la gouvernance du système éducatif
 Stratégie | Indicateurs d'impact | Source de vérification
 Augmenter les budgets alloués à l'ENF | Le fonds d'appui à l'AENF est fonctionnel
-Améliorer la planification et le pilotage des programmes d'AENF | des programmes d'AENF | RAPPORT SIM AENF
-Mettre en place un système de suivi-évaluation des programmes d'AENF | Le système de suivi-évaluation | est fonctionnel
+Améliorer la planification et le pilotage des programmes d'AENF
+Mettre en place un système de suivi-évaluation des programmes d'AENF | Le système de suivi-évaluation des programmes d'AENF est fonctionnel | RAPPORT SIM AENF
 Actions | Indicateurs de suivi/performance | Source/moyen de vérification | Conditions critiques
 Formation en gestion et administration des centres d'alphabétisation | Nombre de cadre formés en gestion et administration des centres d'alphabétisation | Rapport d'activités/DAENF
 Formation des opérateurs d'alphabétisation à l'utilisation du manuel du "faire faire" | Nombre d'opérateurs d'alphabétisation formés à l'utilisation du manuel du "faire faire" | Rapport d'activités/DAENF
@@ -3793,7 +3932,7 @@ Restructuration des sections FP du LETP de Sokodé | Pourcentage des activités 
 Prise en charge des frais de formations industrielles pour les filles | Nombre de filles prise en charge dans les formations industrielles | Rapport d'activité/DEST | Disponibilité des ressources
 Mise en place d'un dispositif d'identification des apprenants issus de familles démunies | Pourcentage des activités d'opérationnalisation du dispositif d'identification des apprenants issus de familles démunies réalisées | Rapport d'activité/DSRP | Disponibilité des ressources
 Réduction des frais de formation des apprenants issus de familles démunies | Nombre d'apprenants issus de familles démunies bénéficiaire de réduction de frais de formation | Rapport d'activité/DSRP | Disponibilité des ressources
-Adaptation des infrastructures aux conditions des handicapés-moteur | Nombre d'infrastructures adaptées aux conditions des handicapés- moteur | Rapport d'activité/DAF | Disponibilité des ressources
+Adaptation des infrastructures aux conditions des handicapés-moteur | Nombre d'infrastructures adaptées aux conditions des handicapés-moteur | Rapport d'activité/DAF | Disponibilité des ressources
 Adaptation des curricula à la situation des personnes handicapées | Nombre de curricula adaptés à la situation des personnes handicapées | Rapport d'activité/DPP | Disponibilité des ressources
 Mise en place d'un cadre national de certification approprié | Pourcentage des activités de mise en place du cadre national de certification réalisées | Rapport d'activité/DECC | Disponibilité des ressources
 Apprentissage pour sourds et malentendants de Lomé et de la Région des Savanes | Nombre de sourds et malentendants admis en apprentissage | Rapport d'activité/DPP | Appui HI
@@ -3810,7 +3949,7 @@ Stratégie | Indicateurs d'impact | Source de vérification
 Améliorer l'insertion des diplômés de l'EFTP | Nombre d'apprenant en situation d'emploi 12 mois après l'obtention du diplôme
 Actions | Indicateurs de suivi/performance | Source/moyen de vérification | Conditions critiques
 Révision de programmes des filières industrielles | Nombre de programmes des filières industrielles révisés | Rapport d'activité/DPP | Disponibilité des ressources
-Elaboration des curricula pour les métiers du secteur non-formel | Nombre de curricula élaborés pour les métiers du secteur non- formel | Rapport d'activité/DPP | Disponibilité des ressources
+Elaboration des curricula pour les métiers du secteur non-formel | Nombre de curricula élaborés pour les métiers du secteur non-formel | Rapport d'activité/DPP | Disponibilité des ressources
 Elaboration Cadre national de mise en œuvre de l'APC et de certification | Pourcentage des activités de mise en place du cadre national de mise en œuvre de l'APC et de certification réalisées. | Rapport d'activité/DPP | Disponibilité des ressources
 Formation de développeurs ou spécialistes en développement de curricula selon l'APC | Nombre de développeurs formés selon l'APC
 Extension de la formation duale dans les CRETFP et les CFTP | Répertoire des maîtres-artisans élaboré | Rapport d'activité/DFPA | Disponibilité des ressources
@@ -3871,8 +4010,8 @@ Octroi de subvention aux universités de Lomé et Kara | Nombre d'établissement
 Sensibilisation des parents à encourager et soutenir leurs filles étudiantes | Nombre de parents sensibilisés | Rapport d'activité | Disponibilité des ressources
 #### Objectif 2 : Améliorer l'efficacité et la qualité du service éducatif, efficacité interne et externe
 Stratégie | Indicateurs d'impact | Source de vérification
-Professionnaliser les filières et améliorer l'insertion des diplômés de l'enseignement supérieur | % d'étudiants dans les filières littéraires % d'étudiants dans les filières juridiques et économiques % d'étudiants dans les filières de sciences de l'éducation et de formation % d'étudiants en enseignement à distance % d'étudiants dans les filières de sciences humaines et sociales Indicateurs de suivi/performance | des enseignants
-Actions | Source/moyen de vérification | Conditions critiques
+Professionnaliser les filières et améliorer l'insertion des diplômés de l'enseignement supérieur | % d'étudiants dans les filières technologiques % d'étudiants dans les filières scientifiques % d'étudiants dans les filières de sciences de la santé % d'étudiants dans les filières littéraires % d'étudiants dans les filières juridiques et économiques % d'étudiants dans les filières de sciences de l'éducation et de formation des enseignants % d'étudiants en enseignement à distance % d'étudiants dans les filières de sciences humaines et sociales
+Actions | Indicateurs de suivi/performance | Source/moyen de vérification | Conditions critiques
 Etude de diversification et professionnalisation des filières de formation | -Etude réalisée | Rapports d'activités/DES | Disponibilité des ressources
 Révision des curricula | curricula révisé | Rapports d'activités/DES | Participation des parties concernées
 Adaptation des curricula au contexte et aux besoins du marché de l'emploi | Curricula en phase avec les besoins du marché du travail | Rapports d'activités/DES | Partenariat avec les entreprises
@@ -3898,7 +4037,7 @@ Création de deux services universitaires d'information sur les métiers et le m
 Actions | Indicateurs de suivi/performance | Source/moyen de vérification | Conditions critiques
 Elaboration et adoption stratégie de développement de l'ES en fonction orientations du pays | Stratégie élaborée et adoptée | Rapports d'activités/DES | Disponibilité des ressources
 Poursuite et renforcement de la restructuration de l'enseignement supérieur privé | Loi d'orientation de l'enseignement supérieur/Référentiel disponible | Rapports d'activités/DES | Disponibilité des ressources
-Privatisation gestion des œuvres sociales (logement, transport, restauration, santé…) | Rapports d'activités/DES | Disponibilité des ressources
+Privatisation gestion des œuvres sociales (logement, transport, restauration, santé…) |  | Rapports d'activités/DES | Disponibilité des ressources
 ### SOUS PROGRAMME 4.2 : RECHERCHE
 Renforcer les capacités de recherche universitaire dans le but d'exploiter les potentialités du pays pour un développement durable et pour la création d'emplois dans les secteurs de l'agriculture, la santé et de l'environnement
 Actions | Indicateurs de suivi/performance | Source/moyen de vérification | Conditions critiques
@@ -3933,7 +4072,7 @@ Formation des membres des Cellules Régionales d'Evaluation en méthodologie de 
 
 Renforcement de capacité de la cellule nationale d'évaluation | Nombre de formés | Rapport d'activité
 --- | --- | --- | ---
-des membres des Cellules Régionale d'Evaluation en méthodologie de testing 2 | Nombre de formés | Rapport d'activité | Formation
+Formation des membres des Cellules Régionale d'Evaluation en méthodologie de testing 2 | Nombre de formés | Rapport d'activité
 Organisation d'études et formations in situ à la demande (y compris en CSES) | Nombre d'études et formations organisées | Rapport d'activité
 Equipement de la cellule de suivi-évaluation | Matériel disponible | Rapport d'activité
 Atelier et formation en évaluation des apprentissages | Atelier et formations réalisées | Rapport d'activité
@@ -4010,7 +4149,7 @@ Formation 100 directeurs et proviseurs en gestion des établissements | Nombre d
 Formation des membres des comités de gestion des établissements | Nombre de personnes formées | Rapport d'activité | Disponibilité des ressources
 Formation de 200 personnes en gestion participative des établissements | Nombre de chefs d'établissement formés | Rapport d'activités | Disponibilité des ressources
 Développement du partenariat public/ privé | Nombre de partenariats établis | Contrat de partenariat | Disponibilité des ressources
-Encadrement et contrôles pédagogiques | Nombre de contrôles pédagogiques effectués dans les | Rapport d'inspection | Disponibilité des ressources
+Encadrement et contrôles pédagogiques | Nombre de contrôles pédagogiques effectués dans les établissements | Rapport d'inspection | Disponibilité des ressources
 Création de directions régionales | Nombre de structures déconcentrées crées | Rapport d'inspection | Disponibilité des ressources
 Construction et équipement d'inspections | Nombre de structures construites | Rapport d'inspection | Disponibilité des ressources
 ### SOUS PROGRAMME 5.3 : Améliorer le pilotage et la gestion du MESR
@@ -4037,8 +4176,7 @@ Form 4 comptables universités aux procédures gestion dotations | Nombre de per
 Form 10 cadres en programmation budgétaire (Bud Progr, CDMT, PTAB…) | Nombre de personnes formées | Rapport d'activités | Disponibilité des ressources
 Formation en comptabilité matière de 15 gestionnaires | Nombre de formés | Rapport d'activités | Disponibilité des ressources
 Promotion de la mutualisation des ressources matérielles | Nombre d'actions de promotions organisées | Rapport d'activités | Disponibilité des ressources
-Construction et équipement du cabinet ministériel, de la | Rapport d'activités | Disponibilité des
-direction de l'enseignement supérieur et de la DEPP | Nombres de locaux construits et équipés | ressources
+Construction et équipement du cabinet ministériel, de la direction de l'enseignement supérieur et de la DEPP | Nombres de locaux construits et équipés | Rapport d'activités | Disponibilité des ressources
 
 110
 
@@ -4091,6 +4229,7 @@ Matériels didactiques | 54 998 | 54 763 | 55 829 | 0 | 0 | 0 | 15 784 | 13 210 
 Appuis aux activités des écoles | 27 762 | 26 407 | 29 313 | 0 | 0 | 0 | 27 762 | 26 407 | 29 313 | 0 | 0 | 0
 Curicula du préscolaire | 50 400 | 7 352 | 0 | 0 | 0 | 0 | 50 400 | 7 352 | 0 | 0 | 0 | 0
 Subvention aux centres du préscolaire | 296 580 | 0 | 0 | 0 | 0 | 0 | 296 580 | 0 | 0 | 0 | 0 | 0
+Equité
 Appui scolaire aux enfants parrainés | 2 621 | 3 494 | 4 659 | 0 | 0 | 0 | 2 621 | 3 494 | 4 659 | 0 | 0 | 0
 Cantines préscolaire en zone de pauvreté 8% des élèves | 49 468 | 54 991 | 61 161 | 0 | 0 | 0 | 608 | 511 | 681 | 48 860 | 54 480 | 60 480
 Pilotage et gestion du préscolaire
@@ -4101,8 +4240,7 @@ ENSEIGNEMENT PRIMAIRE | 57 780 603 | 53 798 955 | 53 817 487 | 43 021 165 | 44 9
 Budget de fonctionnement | 44 006 599 | 45 902 127 | 47 674 326 | 42 533 108 | 44 365 167 | 46 078 026 | 0 | 0 | 0 | 1 473 491 | 1 536 960 | 1 596 299
 Dépenses publiques pour le privé confessionnel | 3 944 858 | 3 990 240 | 4 020 194 | 3 812 771 | 3 856 633 | 3 885 584 | 0 | 0 | 0 | 132 087 | 133 607 | 134 610
 Dépenses publiques pour les EDIL | 137 061 | 0 | 0 | 132 471 | 0 | 0 | 0 | 0 | 0 | 4 589 | 0 | 0
-32 388 343 | 33 830 713 | 35 073 251 | 31 303 870 | 32 697 945 | 898 | 0 | 0 | 0 | 1 | 1 132 768 | 174 372
-Dépenses du personnel enseignants | 33 879 | 084 472 | 1
+Dépenses du personnel enseignants | 32 388 343 | 33 830 713 | 35 073 251 | 31 303 870 | 32 697 945 | 33 898 879 | 0 | 0 | 0 | 1 084 472 | 1 132 768 | 1 174 372
 Dépenses du personnel non enseignants des écoles | 202 686 | 208 097 | 210 471 | 195 900 | 201 129 | 203 424 | 0 | 0 | 0 | 6 787 | 6 968 | 7 047
 Dép non enseignants de structures | 2 132 681 | 2 161 896 | 2 191 111 | 2 061 272 | 2 089 508 | 2 117 745 | 0 | 0 | 0 | 71 409 | 72 388 | 73 366
 
@@ -4114,8 +4252,8 @@ Dép non enseignants de structures | 2 132 681 | 2 161 896 | 2 191 111 | 2 061 2
 
 centrales/déconcentrées
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Dépenses administratives et pédagogiques Dépenses additionnelles pour élèves en situation de | 4 353 839 | 4 690 278 | 4 970 194 | 4 208 058 | 4 533 232 | 4 803 775 | 0 | 0 | 0 | 145 781 | 157 047 | 166 419
-demande | 169 444 | 233 663 | 303 179 | 163 770 | 225 839 | 293 027 | 0 | 0 | 0 | 5 674 | 7 824 | 10 151
+Dépenses administratives et pédagogiques | 4 353 839 | 4 690 278 | 4 970 194 | 4 208 058 | 4 533 232 | 4 803 775 | 0 | 0 | 0 | 145 781 | 157 047 | 166 419
+Dépenses additionnelles pour élèves en situation de demande | 169 444 | 233 663 | 303 179 | 163 770 | 225 839 | 293 027 | 0 | 0 | 0 | 5 674 | 7 824 | 10 151
 Dépenses pour des cantines scolaires | 191 862 | 279 780 | 379 826 | 185 438 | 270 412 | 367 108 | 0 | 0 | 0 | 6 424 | 9 368 | 12 718
 Enveloppe soutien des enseignants en zons difficiles | 485 825 | 507 461 | 526 099 | 469 558 | 490 469 | 508 483 | 0 | 0 | 0 | 16 267 | 16 992 | 17 616
 Budget d'investissement | 13 774 004 | 7 896 828 | 6 143 162 | 488 057 | 557 406 | 843 976 | 11 711 722 | 5 719 626 | 3 612 456 | 1 574 224 | 1 619 796 | 1 686 730
@@ -4141,7 +4279,7 @@ Stimulation de la qualité | 48 444 | 49 247 | 50 074 | 0 | 0 | 0 | 48 444 | 49 
 Equité
 Aides sociales aux enfants | 54 155 | 57 660 | 60 592 | 0 | 0 | 0 | 54 155 | 57 660 | 60 592 | 0 | 0 | 0
 Cantines scolaires pour % des effectifs public+édil | 1 197 903 | 1 269 339 | 1 336 692 | 0 | 0 | 0 | 0 | 0 | 0 | 1 197 903 | 1 269 339 | 1 336 692
-Gratuité uniformes en zones déshéritées ( 5% effectifs public+edil) | 177 571 | 177 707 | 177 288 | 0 | 0 | 0 | 0 | 0 | 0 | 177 571 | 177 707 | 177 288
+Gratuité uniformes en zones déshéritées (5% effectifs public+edil) | 177 571 | 177 707 | 177 288 | 0 | 0 | 0 | 0 | 0 | 0 | 177 571 | 177 707 | 177 288
 Promotion de la scolarisation de la jeune fille | 395 700 | 251 875 | 251 300 | 0 | 0 | 0 | 395 700 | 251 875 | 251 300 | 0 | 0 | 0
 Education inclusive des enfants vivant avec handicap | 305 035 | 243 035 | 243 035 | 0 | 0 | 0 | 297 035 | 235 035 | 235 035 | 8 000 | 8 000 | 8 000
 Gestion
@@ -4319,7 +4457,7 @@ Restructuration du CRETFP Région de la Kara | 265 558 | 20 000 | 20 000 | 20 00
 Restructuration des sections FP du LETP de Sokodé | 265 558 | 20 000 | 20 000 | 20 000 | 20 000 | 20 000 | 245 558 | 0 | 0 | 0 | 0 | 0
 Qualité
 Révision de programmes des filières industrielles | 172 000 | 0 | 0 | 172 000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
-Elaboration des curricula pour les métiers du secteur non- formel | 290 000 | 0 | 0 | 290 000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Elaboration des curricula pour les métiers du secteur non-formel | 290 000 | 0 | 0 | 290 000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 Développement de l'Approche par les compétences | 118 000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 118 000 | 0 | 0
 Extension de la formation duale dans les CRETFP et les CFTP | 0 | 5 000 | 62 000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 000 | 62 000
 Institution passerelles entre le Certificat de Fin d'Apprentissage, le CAP, le BT | 0 | 8 000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 8 000 | 0
@@ -4350,7 +4488,7 @@ Système de suivi des sortants | 3 000 | 53 000 | 3 000 | 0 | 0 | 0 | 0 | 0 | 0 
 Normes techniques et pédagogiques | 0 | 10 000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10 000 | 0
 Gouvernance des établissements et centres de formation | 0 | 19 000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 19 000 | 0
 Partenariat public privé | 85 000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 85 000 | 0 | 0
-ENSEIGNEMENT SUPERIEUR | 17 641 849 | 19 010 865 | 19 434 430 | 15 372 399 | 16 254 421 | 16 765 643 | 1 395 979 | 1 895 979 | 819 451 | 873 471 | 860 465 | 849 336
+ENSEIGNEMENT SUPERIEUR | 17 641 849 | 19 010 865 | 19 434 430 | 15 372 399 | 16 254 421 | 16 765 643 | 1 395 979 | 1 895 979 | 1 819 451 | 873 471 | 860 465 | 849 336
 Budget de fonctionnement | 15 603 870 | 16 335 386 | 17 122 979 | 15 081 399 | 15 788 421 | 16 549 643 | 0 | 0 | 0 | 522 471 | 546 965 | 573 336
 Dépenses pédagogiques enseignement à distance | 150 000 | 200 000 | 300 000 | 144 977 | 193 303 | 289 955 | 0 | 0 | 0 | 5 023 | 6 697 | 10 045
 Dépenses du personnel enseignants | 4 638 511 | 4 813 922 | 4 986 521 | 4 483 198 | 4 652 735 | 4 819 555 | 0 | 0 | 0 | 155 313 | 161 187 | 166 966
@@ -4360,9 +4498,9 @@ Dépenses administratives, pédagogiques et sociales (hors bourse) | 4 795 012 |
 Bourses, compléments de bourses, aides et secours scolaires | 5 733 133 | 6 110 944 | 6 488 756 | 5 541 168 | 5 906 329 | 6 271 490 | 0 | 0 | 0 | 191 965 | 204 615 | 217 266
 Dépenses bourses enseignement supérieur à l'étranger | 478 466 | 485 139 | 489 888 | 462 445 | 468 895 | 473 485 | 0 | 0 | 0 | 16 021 | 16 244 | 16 403
 Part supportée par les ressources privées des universtés | -2 336 817 | -2 566 601 | -2 810 296 | -2 258 572 | -2 480 663 | -2 716 198 | 0 | 0 | 0 | -78 245 | -85 939 | -94 098
-Budget d'investissement | 2 037 979 | 2 675 479 | 2 311 451 | 291 000 | 466 000 | 216 000 | 1 395 979 | 1 895 979 | 819 451 | 351 000 | 313 500 | 276 000
+Budget d'investissement | 2 037 979 | 2 675 479 | 2 311 451 | 291 000 | 466 000 | 216 000 | 1 395 979 | 1 895 979 | 1 819 451 | 351 000 | 313 500 | 276 000
 Accès
-Infrastructures | 1 170 000 | 1 670 000 | 1 670 000 | 170 000 | 170 000 | 170 000 | 1 000 000 | 1 500 000 | 500 000 | 0 | 0 | 0
+Infrastructures | 1 170 000 | 1 670 000 | 1 670 000 | 170 000 | 170 000 | 170 000 | 1 000 000 | 1 500 000 | 1 500 000 | 0 | 0 | 0
 Revision de la cartographie d'établissements d'ES existants | 0 | 250 000 | 0 | 0 | 250 000 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 Bourses et subventions | 319 451 | 319 451 | 319 451 | 0 | 0 | 0 | 319 451 | 319 451 | 319 451 | 0 | 0 | 0
 Qualité, efficacité interne et externe
@@ -4381,7 +4519,8 @@ Budget d'investissement | 546 000 | 721 000 | 471 000 | 0 | 0 | 0 | 0 | 0 | 0 | 
 Pilotage et gestion
 Renforcement du cadre institutionnel et de la gouvernance de la recherche | 211 000 | 136 000 | 136 000 | 0 | 0 | 0 | 0 | 0 | 0 | 211 000 | 136 000 | 136 000
 Construction et équipement de locaux administratifs | 0 | 250 000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 250 000 | 0
-Financement des axes prioritaires de la recherche Axe prioritaire 1 : Développement de la recherche agronomique | 80 000 | 80 000 | 80 000 | 0 | 0 | 0 | 0 | 0 | 0 | 80 000 | 80 000 | 80 000
+Financement des axes prioritaires de la recherche
+Axe prioritaire 1 : Développement de la recherche agronomique | 80 000 | 80 000 | 80 000 | 0 | 0 | 0 | 0 | 0 | 0 | 80 000 | 80 000 | 80 000
 
 118
 
@@ -4480,7 +4619,8 @@ Gestion du FNAFPP | 120 204 | 65 596 | 65 596 | 0 | 0 | 0 | 120 204 | 65 596 | 6
 
 Gestion des ressources matérielles
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Généralisation et contrôle de la comptabilité matière Optimisation de l'utilisation des ressources matérielles | 3 125 0 | 0 0 | 0 0 | 0 0 | 0 0 | 0 0 | 0 0 | 0 0 | 0 0 | 3 125 0 | 0 0 | 0 0
+Généralisation et contrôle de la comptabilité matière | 3 125 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 125 | 0 | 0
+Optimisation de l'utilisation des ressources matérielles | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 Gestion des établisssements
 Formation en gestion d'établissements | 0 | 5 250 | 5 250 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 250 | 5 250
 Promotion de la gestion participative | 0 | 2 500 | 2 500 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 500 | 2 500
@@ -4500,7 +4640,8 @@ Planification
 Mise en place du Système d'Informations Géographiques | 25 000 | 12 000 | 6 000 | 0 | 0 | 0 | 0 | 0 | 0 | 25 000 | 12 000 | 6 000
 Renforcer les capacités de planification | 52 930 | 10 620 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 52 930 | 10 620 | 0
 Renforcer le cadre juridique | 3 000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 000 | 0 | 0
-Gestion des ressources humaines Mise en œuvre de la promotion des personnels par le mérite | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Gestion des ressources humaines
+Mise en œuvre de la promotion des personnels par le mérite | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 Gestion des ressources financières
 Elaboration et exécution des budgets | 5 100 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 100 | 0 | 0
 Programmation budgétaire | 2 500 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 500 | 0 | 0
@@ -4560,9 +4701,8 @@ Financement à rechercher | 3,3% | 21,8% | 64 205 | 8,0%
 PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 TOTAL GENERAL EN K USD | 83 518 | 67 807 | 50 320 | 201 646
-TOTAL GENERAL EN K FCFA | 23 650 581
-## PROGRAMME 1 : EDUCATION DE BASE | 39 253 470 | 31 869 440 11 265 120 | 8 769 614 | 94 773 491
-17 920 375 | 37 955 109
+TOTAL GENERAL EN K FCFA | 39 253 470 | 31 869 440 | 23 650 581 | 94 773 491
+## PROGRAMME 1 : EDUCATION DE BASE | 17 920 375 | 11 265 120 | 8 769 614 | 37 955 109
 ### SOUS PROGRAMME 1.1. : PRESCOLAIRE | 1 439 447 | 984 175 | 1 019 868 | 3 443 490
 #### Accès | 669 729 | 576 421 | 618 519 | 1 864 669
 ##### Education parentale (EP)
@@ -4615,7 +4755,7 @@ Fournitures en appui aux mutuelles scolaires | DAF/AS | BNF | estim. | 10 575 | 
 Matériels didactiques | DAF/AS | BNF | estim. | 4 689 | 5 279 | 5 895 | 15 863
 Fourniture de matériels didactiques | IEPP | AeA | 10 | 10 | lot | 52 | 520 | 0 | 0 | 520
 ##### Appuis aux activités des écoles
-Prise en charge salariale éducatrices | DAF/AS | BNF | estim. | 24 | 830 | 22 868 | 24 594 | 72 293
+Prise en charge salariale éducatrices | DAF/AS | BNF | estim. | 24 830 | 22 868 | 24 594 | 72 293
 Excursions | DAF/AS | BNF | estim. | 133 | 44 | 59 | 237
 Journées pédagogiques | DAF/AS | BNF | estim. | 2 798 | 3 494 | 4 659 | 10 952
 ##### Révision et diffusion des curicula du préscolaire
@@ -4639,6 +4779,7 @@ Formateurs (Per diem et transport pour 6 jours) | IEPP | PME2 | 840 | 840 | p x 
 ##### Subvention aux centres du préscolaire
 Subvention | DAF | PME2 | 1 | 1 | forfait | 108 000 | 108 000 | 0 | 0 | 108 000
 #### Equité | 52 089 | 58 485 | 65 820 | 176 395
+##### Appui scolaire aux enfants parrainés
 Tenues scolaires | DAF/AS | BNF | estim. | 2 621 | 3 494 | 4 659 | 10 774
 ##### Cantines préscolaire en zone de pauvreté 8% des élèves
 Equipement cantines de centres communautaire de la PE | DAF/AS | AR | 35 | 39 | 43 | 117 | centre | 200 | 7 000 | 7 800 | 8 600 | 23 400
@@ -4654,8 +4795,7 @@ REG CENT Formation des membres des Comités préscolaire | DEPP | PLAN T | 5 | -
 Suivi - Evaluation - Communication-Capitalisation | DPEE | AeA | 1 | 1 | u | 60% | 17 846 | 17 846 | 0 | 0 | 17 846
 Suivi - Evaluation - Communication-Capitalisation | DPEE | BIE EPS | 1 | 1 | u | 40% | 11 897 | 11 897 | 0 | 0 | 11 897
 Mise en oeuvre évaluation des acquis au préscolaire | DPEE | AR | 1 | 1 | forfait | 10 000 | 0 | 10 000 | 0 | 10 000
-### SOUS PROGRAMME 1.2 : PRIMAIRE | 13 774 | 7 896 828 | 6 143 | 27 813
-004 | 162 | 993
+### SOUS PROGRAMME 1.2 : PRIMAIRE | 13 774 004 | 7 896 828 | 6 143 162 | 27 813 993
 #### Accès | 8 596 228 | 2 927 583 | 1 719 258 | 13 243 069
 ##### Construction et réhabilitation financement à rechercher
 Création salles de classe yc sanitaires et bureau : études | DPEE | BIE EPS | 22 | 17 | 14 | 52 | classe | 980 | 21 246 | 16 327 | 13 387 | 50 960
@@ -4668,7 +4808,7 @@ Création salles de classe yc sanitaires et bureau : mobilier | DPEE | BIE EPS |
 
 [[START OF PAGE 126]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Création points d'eau dans les écoles (forage ou puits amélioré) | DPEE | BIE EPS | 50 | 50 | 50 | 150 | u | 2 500 | 125 000 | 125 000 | 125 000 | 375 000
 ##### Construction et réhabilitation PDC+
@@ -4742,8 +4882,9 @@ Construction et équipement de salles de classe | DPEE | PME2 | 144 | 96 | 240 |
 
 [[START OF PAGE 128]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | du coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+200
 Blocs de 3 latrines | DPEE | PME2 | 96 | 64 | 160 | u | 2 500 | 240 000 | 160 000 | 0 | 400 000
 Construction points d'eau dans 4 préfectures ayant un TAP <40% | DPEE | PME2 | 20 | 20 | u | 10 000 | 0 | 200 000 | 0 | 200 000
 Suivi et supervision | DPEE | PME2 | 1,65% | 1,35% | 3,00% | % | 2 472 000 | 40 788 | 33 372 | 0 | 74 160
@@ -4751,12 +4892,12 @@ Achat de 2 voitures pour la supervision | DAF | PME2 | 2 | 2 | u | 30 000 | 60 0
 Formation en gestion à la base pour la construction | DPEE | PME2 | 48 | 32 | 80 | COGEP | 1 700 | 81 600 | 54 400 | 0 | 136 000
 ##### Mobilisation sociale
 Mobilisation sociale (yc équité et inclusion) | DRE | AeA | 100 | 130 | 130 | 360 | cté | 350 | 35 000 | 45 500 | 45 500 | 126 000
-#### Qualité | 2 418 232 | 2 380 | 571 | 1 687 267 | 6 486 070
+#### Qualité | 2 418 232 | 2 380 571 | 1 687 267 | 6 486 070
 ##### Réduction des redoublements
 Campagnes sensibilisation communauté sur réduction redoublements | DEPP | AR | 2 | 2 | 2 | 6 | u | 6 000 | 12 000 | 12 000 | 12 000 | 36 000
 ##### Education aux compétences de vie
-Elaboration d'un kit "compétences de vie" | DEPP | UNICEF | 1 | 1 | 1 | 3 | forfait | 68 294 | 68 294 | 68 294 | 68 294 | 204 883
-Mise en œuvre du kit dans les écoles | DEPP | UNICEF | 125 | 125 | 125 | 375 | école | 820 | 102 442 | 102 442 | 102 442 | 307 325
+Elaboration d'un kit "compétences de vie" | DEPP | UNICEF | 1 | 1 | 1 | 3 | forfait | Estim | 68 294 | 68 294 | 68 294 | 68 294 | 204 883
+Mise en œuvre du kit dans les écoles | DEPP | UNICEF | 125 | 125 | 125 | 375 | école | Estim | 820 | 102 442 | 102 442 | 102 442 | 307 325
 ##### Manuels et guides : croissance des stocks (voir msfe ligne 665)
 Manuels de lecture (0,8 manuel / élève) | DAF | BIE EPS | 92 372 | 144 513 | 300 033 | 536 918 | u | 0,939 | 86 737 | 135 698 | 281 731 | 504 166
 Manuels de calcul (0,7 manuel / élève) | DAF | BIE EPS | 63 058 | 122 436 | 286 300 | 471 794 | u | 0,978 | 61 671 | 119 742 | 280 001 | 461 415
@@ -4768,7 +4909,7 @@ REG PLTX Fournitures scolaires | DAF | PLAN T | 100 | 100 | 100 | 300 | élève 
 REG CENT Kit de fournitures scolaires primaire | DAF | PLAN T | 19 955 | 19 998 | 19 998 | 59 951 | élève | 1 | 19 955 | 19 998 | 19 998 | 59 951
 REG CENT Lot de manuels pour les classes du primaire | DAF | PLAN T | 20 | 20 | 20 | 60 | lot | 200 | 4 000 | 4 000 | 4 000 | 12 000
 Fournitures scolaires en appui aux mutuelles scolaires | DAF | BNF | estim. | 42 300 | 31 725 | 23 794 | 97 819
-Matériel didactiques aux écoles | DAF | BNF | estim. | 11 | 303 | 11 827 | 11 958 | 35 088
+Matériel didactiques aux écoles | DAF | BNF | estim. | 11 303 | 11 827 | 11 958 | 35 088
 
 128
 
@@ -4796,9 +4937,9 @@ PETS (Enquête de Traçabilité des Dépenses Publiques) | PME2 | 1 | 1 | 1 | 3 
 Formation à mise en œuvre contrat d'objectifs avec écoles (3 jours) | IEPP | PME2 | 1 260 | 1 260 | p x j | 20 | 0 | 0 | 0
 Formation COGEP en passation des marché et utilisation subvention | IEPP | PME2 | 2 250 | 2 250 | 4 500 | COGEP | 24 | 54 000 | 54 000 | 0 | 108 000
 ##### Sensibilisation à la reduction sur les redoublements
-Consultant en appui à la stratégie de communication | PME2 | 1 | 1 | Forfait | 16 000 13 000 | 16 000 13 000 | 16 000 | 0 0 | 32 000
-Préparation et validation du contenu des émissions | PME2 | 1 | 1 | 13 000 | 0 | 26 000
-Formation du personnel des radios locales (40 p*5j) | PME2 | 200 | p x j | 22 | 4 400 | 0 | 4 400
+Consultant en appui à la stratégie de communication | PME2 | 1 | 1 | Forfait | 16 000 | 16 000 | 16 000 | 0 | 32 000
+Préparation et validation du contenu des émissions | PME2 | 1 | 1 | 13 000 | 13 000 | 13 000 | 0 | 26 000
+Formation du personnel des radios locales (40 p*5j) | PME2 | 200 | p x j | 22 | 4 400 | 0 | 0 | 4 400
 Contrat avec les radios locales | PME2 | 20 | 20 | radio | 500 | 10 000 | 10 000 | 0 | 20 000
 ##### Réforme curriculaire et manuels scolaires
 Consultant appui élaboration curricula | DEPP | PME2 | 1 | 1 | 1 | 3 | forfait | 40 000 | 40 000 | 40 000 | 40 000 | 120 000
@@ -4835,10 +4976,10 @@ Cantines scolaires pour % des effectifs publics+édil (voir msfe ligne 181) | 6,
 Gratuité uniforme scolaire (lot de 2/élève) en zones déshéritées | DEPP | AR | 49 325 | 49 363 | 49 247 | 147 935 | lot | 3,6 | 177 571 | 177 707 | 177 288 | 532 566
 ##### Promotion de la scolarisation de la jeune fille
 Kits scolaires pour les filles | DAF | BID3 | 1 | 1 | kit | 137 500 | 137 500 | 0 | 0 | 137 500
-Lots de matériels aux villages performants des écoles du projet | DAF | BID3 | 1 | 1 | forfait | 19 | 500 | 19 500 | 0 | 0 | 19 500
-Formation villageois utilisation matériel octroyés | DEPP | BID3 | 1 | 1 | forfait | 1 | 500 | 1 500 | 0 | 0 | 1 500
-Bourses pour écoles primaires | DEPP | BID3 | 1 | 1 | forfait | 3 | 000 | 3 000 | 0 | 0 | 3 000
-REG PLTX Campagnes de sensibilisation pour éducation des filles | DEPP | PLAN T | 10 | 000 | 10 000 | 10 000 | 30 000
+Lots de matériels aux villages performants des écoles du projet | DAF | BID3 | 1 | 1 | forfait | 19 500 | 19 500 | 0 | 0 | 19 500
+Formation villageois utilisation matériel octroyés | DEPP | BID3 | 1 | 1 | forfait | 1 500 | 1 500 | 0 | 0 | 1 500
+Bourses pour écoles primaires | DEPP | BID3 | 1 | 1 | forfait | 3 000 | 3 000 | 0 | 0 | 3 000
+REG PLTX Campagnes de sensibilisation pour éducation des filles | DEPP | PLAN T | 10 000 | 10 000 | 10 000 | 30 000
 REG CENT Campagnes de sensibilisation pour éducation des filles | DEPP | PLAN T | 1 | 1 | 1 | 3 | u | 2 500 | 2 500 | 2 500 | 2 500 | 7 500
 REG CENT Bourses pour les filles du primaire | DEPP | PLAN T | 400 | 400 | 400 | 1 200 | élève | 20 | 8 000 | 8 000 | 8 000 | 24 000
 REG CENT Campagnes apprendre sans peur | DEPP | PLAN T | 12 | 12 | 12 | 36 | u | 100 | 1 200 | 1 200 | 1 200 | 3 600
@@ -4850,7 +4991,7 @@ REG CENT Campagnes apprendre sans peur | DEPP | PLAN T | 12 | 12 | 12 | 36 | u |
 
 [[START OF PAGE 131]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 uniforme pour les filles | DAF | PME2 | 51 200 | 56 300 | 61 900 | 169 400 | élèves | 3 | 153 600 | 168 900 | 185 700 | 508 200
 Kits sanitaires pour les filles | DAF | PME2 | 9 800 | 10 750 | 11 800 | 32 350 | élèves | 3 | 24 500 | 26 875 | 29 500 | 80 875
@@ -4864,11 +5005,12 @@ Education inclusive dans IEPP Tône Ouest et Kozah Centre | DEPP | HI | 1 | 1 | 
 #### Gestion | 629 180 | 589 058 | 667 730 | 1 885 967
 ##### Carte scolaire
 Actualisation de la carte scolaire | DPEE | AR | 1 | 1 | 1 | 3 | forfait | 15 000 | 15 000 | 15 000 | 15 000 | 45 000
+##### Santé scolaire
 Elaboration d'une politique de santé scolaire | DPEE | AR | 1 | 1 | p x m | 13 000 | 13 000 | 0 | 0 | 13 000
 ##### Enseignement en langues nationales
 Etude sur l'enseignement en langues nationales | DPEE | AR | 1 | 1 | p x m | 13 000 | 13 000 | 0 | 0 | 13 000
 ##### Projets d'école (Pec)
-PEc intégrants analyse goulotsd'étranglements (Savanes et Platx) | DEPP | UNICEF | 125 | 125 | 125 | 375 | école | Estim 1 | 716 | 214 546 | 214 546 | 214 546 | 643 637
+PEc intégrants analyse goulotsd'étranglements (Savanes et Platx) | DEPP | UNICEF | 125 | 125 | 125 | 375 | école | Estim | 1 716 | 214 546 | 214 546 | 214 546 | 643 637
 Appui à l'élaboration de projets d'école | IEPP | AeA | 50 | 50 | 50 | 150 | u | 250 | 12 500 | 12 500 | 12 500 | 37 500
 Missions de suivi évaluation des projets d'école 3pxj / PE | IEPP | AeA | 150 | 150 | 150 | 450 | p x j | 8,333 | 1 250 | 1 250 | 1 250 | 3 750
 Appui à l'élaboration de projets d'école | IEPP | AR | 500 | 500 | 500 | 1 500 | u | 250 | 125 000 | 125 000 | 125 000 | 375 000
@@ -4886,7 +5028,7 @@ Stratégie de communication : élaboration | SG | PAM | 1 | 1 | forfait | 4 865 
 
 [[START OF PAGE 132]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Stratégie de communication : mise en œuvre | SG | PAM | 1 | 1 | forfait | 24 000 | 24 000 | 0 | 0 | 24 000
 Formation en logistique (transport, contrôle qualité et appro) | SG | PAM | 1 | 1 | forfait | 9 487 | 9 487 | 0 | 0 | 9 487
@@ -4916,13 +5058,7 @@ Equipement des ENI (matériel pédagogique) | DF | PME2 | 1 | 1 | forfait | 250 
 Acquisition du Mobilier et équipement des 3 ENI | CTC | PME1 | 1 | 1 | forfait | 180 000 | 180 000 | 0 | 0 | 180 000
 ##### Formations initiales et continues
 REG PLTX Sessions de formation continue des maîtres | DEPP | PLAN T | 20 | 20 | 20 | 60 | u | 500 | 10 000 | 10 000 | 10 000 | 30 000
-REG CENT Sessions de formation continue des maîtres | DEPP | PLAN T | 3 | u | 1 500 | 4 500 | 0 | 0 | 4 500
-
-3
-
--
-
--
+REG CENT Sessions de formation continue des maîtres | DEPP | PLAN T | 3 | - | - | 3 | u | 1 500 | 4 500 | 0 | 0 | 4 500
 
 132
 
@@ -4930,9 +5066,8 @@ REG CENT Sessions de formation continue des maîtres | DEPP | PLAN T | 3 | u | 1
 
 [[START OF PAGE 133]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-K
 Formation initiale des volontaires | DEPP | BNF | estim. | 5 706 | 6 430 | 6 212 | 18 348
 Suivi des enseignants | DEPP | BNF | estim. | 1 905 | 635 | 847 | 3 387
 Formation enseignants à l'éducation inclusive 280 p x 3 jours | DEPP | HI | 840 | 840 | pxj | 9 | 7 895 | 0 | 0 | 7 895
@@ -4941,8 +5076,7 @@ Formation enseignants à langue des signes 50 p x 5 jours | DEPP | HI | 250 | 25
 Formation enseignants sur déficience mentale 25 p x 3 jours | DEPP | HI | 75 | 75 | pxj | 9 | 705 | 0 | 0 | 705
 #### Qualité de la formation des ENI | 859 390 | 937 203 | 230 370 | 2 026 963
 ##### Renforcement des capacités des ENI
-Structuration du centre de ressources de 6 ENI
-DF | AFD RC | 1 | 3 | 2 | 6 | u | 7 000 | 7 000 | 21 000 | 14 000 | 42 000
+Structuration du centre de ressources de 6 ENI | DF | AFD RC | 1 | 3 | 2 | 6 | u | 7 000 | 7 000 | 21 000 | 14 000 | 42 000
 Formation NTIC 20 responsables et prof x 3 ENI | DF | AFD RC | 36 | 12 | 12 | 60 | pers | 500 | 18 000 | 6 000 | 6 000 | 30 000
 Formation 1 informaticien+ 1bibliothécaire x 6 ENI x 2 semaines | DF | AFD RC | 6 | 3 | 3 | 12 | pers | 500 | 3 000 | 1 500 | 1 500 | 6 000
 ##### Formations PENI, IEPP et DE d'application aux méthodes actives
@@ -4988,6 +5122,7 @@ formation 5 responsables sur gestion et projet pédagogique x 6 ENI | DF | AFD R
 Frais de fonctionnement annuels x 6 ENI | DAF | BIE EPS | 6 | 6 | 6 | 18 | an | 92 000 | 552 000 | 552 000 | 552 000 | 1 656 000
 ### SOUS PROGRAMME 1.4 : ALPHABETISATION ET EDUCATION NON FORMELLE | 809 723 | 853 049 | 738 356 | 2 401 127
 #### Alphabétisation : Accès | 236 396 | 351 334 | 351 595 | 939 325
+##### Aménagement de centres d'alphabétisation
 Appui à l'aménagement équipement centres alphabétisation et éducation continue | DAENF | BID4 | 50 | 50 | 100 | centre | 2 000 | 0 | 100 000 | 100 000 | 200 000
 Appui à l'aménagement équipement centres alphabétisation et éducation continue | DAENF | AR | 100 | 100 | 100 | 300 | centre | 2 000 | 200 000 | 200 000 | 200 000 | 600 000
 ##### Alphabétisation d'adultes
@@ -4997,8 +5132,8 @@ Appui à l'aménagement équipement centres alphabétisation et éducation conti
 2015 : Contrat d'alphabétisation de base en 2015 | DAENF | b fonct | 24 950 | 24 950 | pers | 0 | 0 | 0 | 0
 2016 : Contrat d'alphabétisation de base en 2016 | DAENF | b fonct | 28 950 | 28 950 | pers | 0 | 0 | 0 | 0
 Alphabétisation d'adultes | DAENF | BNF | estim. | 1 896 | 2 459 | 2 720 | 7 075
-##### Alphabétisation d'adultes | 20 000 | 20 000 | 20 000
-Préparation des activités | DAENF | PME2 | 1
+##### Alphabétisation d'adultes
+Préparation des activités | DAENF | PME2 | 1 | 20 000 | 20 000 | 20 000
 
 134
 
@@ -5006,7 +5141,7 @@ Préparation des activités | DAENF | PME2 | 1
 
 [[START OF PAGE 135]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Alphabétisation des adultes par les ONG | DAENF | PME2 | 1 250 | 1 250 | 2 500 | pers | 25 | 0 | 31 250 | 31 250 | 62 500
 Suivi et supervision de l'alphabétisation | DAENF | PME2 | 1 | 1 | 2 | forfait | 10% | 3 125 | 3 125 | 6 250
@@ -5023,12 +5158,13 @@ Appui additionnel à l'élaboration des curricula de l'alphabétisation | DAENF 
 Impression des curricula | DAENF | AR | 1 000 | 1 000 | ex | 5 | 5 000 | 0 | 0 | 5 000
 ##### Matériels pédagogiques
 Achat 7500 syllabaires, 7500 calculaires et 300 guides | DAENF | BID4 | 1 | 1 | 2 | lot | 5 725 | 0 | 5 725 | 5 725 | 11 450
+##### Formations des enseignants et superviseurs d'alphabétisation
 Formation pédagogique des alphabétiseurs | DAENF | UNESCO | 1 | 1 | 2 | forfait | 7 235 | 7 235 | 7 235 | 0 | 14 470
 Formation alphabétiseurs | DAENF | BID4 | 100 | 100 | 200 | pers | 60 | 0 | 6 000 | 6 000 | 12 000
-Formation chef de section (superviseurs alpha) | DAENF | BID4 | 34 | 33 | 67 | pers | 238 0 | 8 087 | 7 849 | 15 936
+Formation chef de section (superviseurs alpha) | DAENF | BID4 | 34 | 33 | 67 | pers | 238 | 0 | 8 087 | 7 849 | 15 936
 ##### Apprentissage du français par la méthode ALFAA
 Actualisation manuels ALFAA (apprentissage français à partir acquis de l'alphabétisation) | DAENF | AR | 1 | 1 | forfait | 10 000 | 0 | 10 000 | 0 | 10 000
-Formation des alphabétiseurs expérimentateurs de la méthode ALFAA | DAENF | AR | 1 | 1 | forfait | 10 000 0 | 10 000 | 0 | 10 000
+Formation des alphabétiseurs expérimentateurs de la méthode ALFAA | DAENF | AR | 1 | 1 | forfait | 10 000 | 0 | 10 000 | 0 | 10 000
 Expérimentation de la méthode ALFAA | DAENF | AR | 1 | 1 | forfait | 20 000 | 0 | 0 | 20 000 | 20 000
 #### Alphabétisation : Pilotage et gestion | 167 229 | 124 229 | 5 000 | 296 459
 ##### Diffusion des procédures du « faire faire »
@@ -5041,12 +5177,12 @@ Formation des opérateurs d'alpha utilisation manuel faire faire | DAENF | UNESC
 
 [[START OF PAGE 136]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Ateliers de vulgarisation auprès des acteurs clés de la SNAENF | DAENF | AR | 12 | 12 | forfait | 1 500 | 18 000 | 0 | 0 18 | 000
+Ateliers de vulgarisation auprès des acteurs clés de la SNAENF | DAENF | AR | 12 | 12 | forfait | 1 500 | 18 000 | 0 | 0 | 18 000
 ##### Suivi - évaluation
-Mise en œuvre de la version provisoire du cadre de suivi évaluation | DAENF | AR | 1 | 1 | forfait | 10 000 | 10 000 0 | 0 | 10 000
-Evaluation de la mise en œuvre et correction du cadre de suivi évaluation | DAENF | AR | 1 | 1 | forfait | 5 000 5 | 000 0 | 0 | 5 000
+Mise en œuvre de la version provisoire du cadre de suivi évaluation | DAENF | AR | 1 | 1 | forfait | 10 000 | 10 000 | 0 | 0 | 10 000
+Evaluation de la mise en œuvre et correction du cadre de suivi évaluation | DAENF | AR | 1 | 1 | forfait | 5 000 | 5 000 | 0 | 0 | 5 000
 Renforcement capacités acteurs niveau déconcentré en suivi-évaluation pédagogique | DAENF | AR | 1 | 1 | forfait | 10 000 | 10 000 | 10 000
 Suivi-évaluation des activités | DAENF | AR | 1 | 1 | 1 | 3 | forfait | 5 000 | 5 000 | 5 000 | 5 000 | 15 000
 Evaluation de l'impact de l'Alphabétisation sur la population | DAENF | AR | 1 | 1 | p x m | 30 000 | 0 | 30 000 | 0 | 30 000
@@ -5059,7 +5195,7 @@ Formation des agents de la DAENF | DAENF | UNESCO | 1 | 1 | 2 | forfait | 26 528
 Formation des agents des DRE et des IEPPP | DAENF | UNESCO | 1 | 1 | 2 | forfait | 38 586 | 38 586 | 38 586 | 0 | 77 171
 #### Education Non Formelle | 388 863 | 330 439 | 342 186 | 1 061 488
 ##### Elaboration d'une politique et d'une stratégie nationales
-Adoption d'un modèle de formation des 9 - 14 ans | DAENF | UNICEF | 1 | 1 | 1 | 3 | forfait | 320 234 | 320 234 | 320 234 | 320 234 | 960 703
+Adoption d'un modèle de formation des 9 - 14 ans | DAENF | UNICEF | 1 | 1 | 1 | 3 | forfait | Estim | 320 234 | 320 234 | 320 234 | 320 234 | 960 703
 ##### Expérimentation pilote
 Construction de 2 centres pilotes x 3 classes x 40 élèves | DAENF | AR | 6 | 6 | salle | 8 330 | 49 980 | 0 | 0 | 49 980
 Equipement de 2 centres pilotes | DAENF | AR | 6 | 6 | lot | 1 470 | 8 820 | 0 | 0 | 8 820
@@ -5067,7 +5203,7 @@ Manuel apprenants/animateurs | DAENF | AR | 1 | 1 | 1 | 3 | forfait | 1 000 | 1 
 Formation des animateurs | DAENF | AR | 6 | 6 | forfait | 800 | 4 800 | 0 | 0 | 4 800
 Formation superviseur | DAENF | AR | 1 | 1 | forfait | 500 | 500 | 0 | 0 | 500
 Suivi évaluation | DAENF | AR | 1 | 1 | 1 | 3 | forfait | 1 500 | 1 500 | 1 500 | 1 500 | 4 500
-Evaluation externe pour l'extension | DAENF | AR | 1 | 1 | forfait | 10 846 0 | 0 | 10 846 | 10 846
+Evaluation externe pour l'extension | DAENF | AR | 1 | 1 | forfait | 10 846 | 0 | 0 | 10 846 | 10 846
 ##### Matériels et manuels pédagogiques pour l'ENF
 Conception élaboration de matériels didactiques 9>14 ans | DAENF | BID4 | 1 | 1 | 2 | lot | 5 000 | 0 | 5 000 | 5 000 | 10 000
 ##### Apprentissage des jeunes
@@ -5080,14 +5216,13 @@ Appui à l'apprentissage des jeunes de 15 ans et plus | DAENF | BNF | estim. | 2
 
 [[START OF PAGE 137]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 805 | 430 | 089
-### SOUS PROGRAMME 2.1 : SECONDAIRE PREMIER CYCLE | 6 261 | 730 7 306 625 | 5 973 690 | 20 010 576
-#### Accès | 4 508 930 | 4 634 266 | 4 415 | 13 612
+### SOUS PROGRAMME 2.1 : SECONDAIRE PREMIER CYCLE | 6 730 261 | 7 306 625 | 5 973 690 | 20 010 576
+#### Accès | 4 508 930 | 4 634 266 | 4 482 415 | 13 625 612
 ##### Construction et réhabilitation financement à rechercher
-Construction de salles de classe de collège : études
-DPEE | BIE EPS | 51 | 150 | 196 | 397 | classe | 1 180 | 60 180 | 177 000 | 231 280 | 468 460
+Construction de salles de classe de collège : études | DPEE | BIE EPS | 51 | 150 | 196 | 397 | classe | 1 180 | 60 180 | 177 000 | 231 280 | 468 460
 Construction de salles de classe de collège : travaux | DPEE | BIE EPS | 51 | 150 | 196 | 397 | classe | 8 850 | 451 350 | 1 327 500 | 1 734 600 | 3 513 450
 Construction de salles de classe de collège : équipement | DPEE | BIE EPS | 51 | 150 | 196 | 397 | lot | 1 770 | 90 270 | 265 500 | 346 920 | 702 690
 Réhabilitation de salles de classe de collège : études | DPEE | BIE EPS | 10 | 11 | 11 | 32 | classe | 708 | 7 080 | 7 788 | 7 788 | 22 656
@@ -5095,22 +5230,22 @@ Réhabilitation de salles de classe de collège : travaux | DPEE | BIE EPS | 10 
 Réhabilitation de salles de classe de collège : équipement | DPEE | BIE EPS | 10 | 11 | 11 | 32 | lot | 1 062 | 10 620 | 11 682 | 11 682 | 33 984
 ##### Construction et réhabilitation Bornefonden
 Construction réhabilitation des classes | DPEE | BNF | estim. | 23 481 | 31 308 | 25 948 | 80 738
-Equipement et mobilier | DPEE | BNF | estim. | 17 | 939 | 19 267 | 22 047 | 59 252
-Construction bibliothèques | DPEE | BNF | estim. | 2 | 667 | 3 556 | 4 741 | 10 963
+Equipement et mobilier | DPEE | BNF | estim. | 17 939 | 19 267 | 22 047 | 59 252
+Construction bibliothèques | DPEE | BNF | estim. | 2 667 | 3 556 | 4 741 | 10 963
 Equipement bibliothèque | DPEE | BNF | estim. | 6 248 | 6 369 | 7 806 | 20 423
 ##### Création de 200 salles de classes BID3
 Campagne de sensibilisation | DEPP | BID3 | 1 | 1 | forfait | 57 143 | 57 143 | 0 | 0 | 57 143
 Mise en œuvre des travaux par l'AGETUR | DPEE | BID3 | 1 | 1 | forfait | 121 943 | 121 943 | 0 | 0 | 121 943
 Création salles de classes : construction | DPEE | BID3 | 200 | 200 | classe | 7 500 | 1 500 000 | 0 | 0 | 1 500 000
-Création salles de classes : mobilier | DPEE | BID3 | 200 | 200 | lot | 1 750 350 | 000 | 0 | 0 | 350 000
+Création salles de classes : mobilier | DPEE | BID3 | 200 | 200 | lot | 1 750 | 350 000 | 0 | 0 | 350 000
 Construction de blocs sanitaires | DPEE | BID3 | 50 | 50 | u | 5 000 | 250 000 | 0 | 0 | 250 000
 Forages | DPEE | BID3 | 50 | 50 | u | 7 000 | 350 000 | 0 | 0 | 350 000
 Construction de laboratoires | DPEE | BID3 | 50 | 50 | u | 3 775 | 188 750 | 0 | 0 | 188 750
 Construction de bibliothèques | DPEE | BID3 | 50 | 50 | u | 3 775 | 188 750 | 0 | 0 | 188 750
 ##### Création de 200 salles de classe BID4
 Création salles de classes : construction | DPEE | BID4 | 67 | 67 | 134 | classe | 9 375 | 0 | 628 125 | 628 125 | 1 256 250
-Création salles de classes : mobilier | DPEE | BID4 | 67 | 67 | 134 | lot | 1 429 | 0 0 | 95 714 | 95 714 | 191 429
-Construction de blocs sanitaires | DPEE | BID4 | 17 | 17 | 34 | u | 5 000 | 85 000 | 85 000 | 170 000
+Création salles de classes : mobilier | DPEE | BID4 | 67 | 67 | 134 | lot | 1 429 | 0 | 95 714 | 95 714 | 191 429
+Construction de blocs sanitaires | DPEE | BID4 | 17 | 17 | 34 | u | 5 000 | 0 | 85 000 | 85 000 | 170 000
 
 137
 
@@ -5118,13 +5253,12 @@ Construction de blocs sanitaires | DPEE | BID4 | 17 | 17 | 34 | u | 5 000 | 85 0
 
 [[START OF PAGE 138]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-K
 Forages | DPEE | BID4 | 17 | 17 | 34 | u | 7 000 | 0 | 119 000 | 119 000 | 238 000
 Construction de laboratoires | DPEE | BID4 | 17 | 17 | 34 | u | 7 500 | 0 | 127 500 | 127 500 | 255 000
-Construction de bibliothèques | DPEE | BID4 | 17 | 17 | 34 | u | 7 500 | 0 | 127 255 000 | 500 127 500 | 255 000
-Logements enseignants | DPEE | BID4 | 17 | 17 | 34 | u | 15 000 | 0 | 255 000 | 510 000
+Construction de bibliothèques | DPEE | BID4 | 17 | 17 | 34 | u | 7 500 | 0 | 127 500 | 127 500 | 255 000
+Logements enseignants | DPEE | BID4 | 17 | 17 | 34 | u | 15 000 | 0 | 255 000 | 255 000 | 510 000
 ##### Capacités d'accueil collèges de proximité AFD
 révision plan-types collèges | DPEE | AFD RC | 1 | 1 | forfait | 20 000 | 20 000 | 0 | 0 | 20 000
 Collèges 200 places : construction salle classe, biblio, labo et bureau | DPEE | AFD RC | 16 | 40 | 24 | 80 | classe | 6 575 | 105 200 | 263 000 | 157 800 | 526 000
@@ -5144,18 +5278,16 @@ Collèges 400 places : maîtrise d'œuvre (ingénieur et superviseur) | DPEE | A
 véhicule pour ONG pick up double cabine | DAF | AFD RC | 2 | 2 | unité | 18 000 | 36 000 | 0 | 0 | 36 000
 motos | DAF | AFD RC | 4 | 4 | unité | 1 500 | 6 000 | 0 | 0 | 6 000
 presses à briques livrés sur sites | DAF | AFD RC | 12 | 12 | unité | 3 993 | 47 920 | 0 | 0 | 47 920
-Collèges 200 places : matériel didactique (CDI + classes) | DAF | AFD RC | 20 | 20 | lot | 3 950 | 0 | 79 000 | 0 | 79
-Collèges 400 places : matériel didactique | AFD RC | 7 900 | 000 | 0 | 000
-DAF | 10 | 10 | lot | 0 | 79 | 79 000
+Collèges 200 places : matériel didactique (CDI + classes) | DAF | AFD RC | 20 | 20 | lot | 3 950 | 0 | 79 000 | 0 | 79 000
+Collèges 400 places : matériel didactique | DAF | AFD RC | 10 | 10 | lot | 7 900 | 0 | 79 000 | 0 | 79 000
 ##### Mobilisation sociale
-sensibilisation scolarisation des filles | DPEE | AFD RC AFD RC | 70 | 175 | 105 | 350 | sites | 100 100 | 7 000 | 17 500 | 10 500 | 35 000
-structuration et formation COGERES | DPEE | 210 | 70 | 70 | 350 | sites | 21 000 | 7 000 | 7 000 | 35 000
+sensibilisation scolarisation des filles | DPEE | AFD RC | 70 | 175 | 105 | 350 | sites | 100 | 7 000 | 17 500 | 10 500 | 35 000
+structuration et formation COGERES | DPEE | AFD RC | 210 | 70 | 70 | 350 | sites | 100 | 21 000 | 7 000 | 7 000 | 35 000
 Formation communautés suivi rendement scolaire | DPEE | AFD RC | 70 | 175 | 105 | 350 | sites | 100 | 7 000 | 17 500 | 10 500 | 35 000
 formation APE | DPEE | AFD RC | 210 | 140 | 350 | sites | 100 | 0 | 21 000 | 14 000 | 35 000
 frais deplacement animateurs + superviseurs | DPEE | AFD RC | 8 | 19 | 12 | 39 | pers | 678 | 5 425 | 12 884 | 8 137 | 26 447
-maîtrise d'œuvre et gestion et coordination | DPEE | AFD RC | 70 | 175 | 105 | 350 | sites pers | 353 | 24 745 | 61 862 | 37 117 | 123 725
-DPEE | COM | 4 | 9 600 | 19 200 | 200 | 38 400
-Coordinateurs | 2 | 2 | 19
+maîtrise d'œuvre et gestion et coordination | DPEE | AFD RC | 70 | 175 | 105 | 350 | sites | 353 | 24 745 | 61 862 | 37 117 | 123 725
+Coordinateurs | DPEE | COM | 2 | 2 | 4 | pers | 9 600 | 19 200 | 19 200 | 38 400
 
 138
 
@@ -5171,9 +5303,10 @@ motos | DAF | AFD RC | 40 | 40 | unité | 1 500 | 60 000 | 0 | 0 | 60 000
 Mobilisation sociale (yc équité et inclusion) | DRE | AeA | 150 | 150 | cté | 60 | 9 000 | 0 | 0 | 9 000
 #### Qualité | 1 734 763 | 2 341 569 | 1 184 235 | 5 260 567
 ##### Promotion d'une éducation sans violence
-Formation et sensibilisation des acteurs | IEPP | BNF | estim. | 489 | 408 489 | 408 | 489 408 | 1 468 224
-Révision curriculum collège | DES | AFD RC | 50% | 50% | 1 | forfait | 25 000 | 0 | 12 | 500 | 12 500 | 25 000
-Mise en place de groupes de rédaction de manuels et guides | DES | AR | 1 | 1 | 2 | forfait | 40 000 | 0 | 40 000 | 40 | 000 | 80 000
+Formation et sensibilisation des acteurs | IEPP | BNF | estim. | 489 408 | 489 408 | 489 408 | 1 468 224
+##### Révision curriculum et manuels et guides collège
+Révision curriculum collège | DES | AFD RC | 50% | 50% | 1 | forfait | 25 000 | 0 | 12 500 | 12 500 | 25 000
+Mise en place de groupes de rédaction de manuels et guides | DES | AR | 1 | 1 | 2 | forfait | 40 000 | 0 | 40 000 | 40 000 | 80 000
 Définition stratégie acquisition et diffusion manuels scolaires | DES | AR | 1 | 1 | p x m | 13 000 | 0 | 13 000 | 0 | 13 000
 ##### Actualisation des programmes d'enseignement
 Programmes d'enseignement actualisés : validation 100p x 3j | DES | AR | 300 | 300 | p x j | 25 | 7 500 | 0 | 0 | 7 500
@@ -5181,13 +5314,13 @@ Programmes d'enseignement actualisés : reproduction | DES | AR | 5 600 | 5 600 
 Elaboration guides enseignant pour nouveaux programmes 10 guides x 70 pxj | DES | AR | 700 | 700 | p x j | 25 | 17 500 | 0 | 0 | 17 500
 Mission de suivi évaluation des programmes actualisés | DES | AR | 100 | 100 | p x j | 5 | 500 | 0 | 0 | 500
 ##### Manuels et matériels pédagogiques
-Matériel didactiques aux collèges | BNF | estim. | 7 771 | 8 090 | 8 | 119 | 23 979
-Manuels scolaires disciplines fondamentales | DAF | BID3 | 50 | 50 | lot | 3 | 900 195 | 000 0 | 0 | 195 000
+Matériel didactiques aux collèges | BNF | estim. | 7 771 | 8 090 | 8 119 | 23 979
+Manuels scolaires disciplines fondamentales | DAF | BID3 | 50 | 50 | lot | 3 900 | 195 000 | 0 | 0 | 195 000
 Equipement laboratoires | DAF | BID3 | 50 | 50 | lot | 2 643 | 132 130 | 0 | 0 | 132 130
 Ouvrages de référence pour les bibliothèques | DAF | BID3 | 50 | 50 | lot | 1 750 | 87 500 | 0 | 0 | 87 500
 Manuels scolaires disciplines fondamentales | DAF | BID4 | 50 | 50 | lot | 4 000 | 0 | 200 000 | 0 | 200 000
 Equipement laboratoires | DAF | BID4 | 50 | 50 | lot | 2 700 | 0 | 135 000 | 0 | 135 000
-Ouvrages de référence pour les bibliothèques | DAF | BID4 | 50 | 50 | lot | 1 | 800 0 | 90 000 | 0 | 90 000
+Ouvrages de référence pour les bibliothèques | DAF | BID4 | 50 | 50 | lot | 1 800 | 0 | 90 000 | 0 | 90 000
 Appui en fournitures scolaires aux mutuelles scolaires | DRE | BNF | estim. | 52 875 | 39 656 | 29 742 | 122 273
 ##### Stimulation de la performance
 Prix aux meilleurs élèves | DRE | BNF | estim. | 5 630 | 6 165 | 6 716 | 18 510
@@ -5227,7 +5360,7 @@ Création de salles de sciences : travaux | DPEE | AR | 15 | 15 | 15 | 45 | u | 
 Création de salles de sciences : mobilier | DPEE | AR | 15 | 15 | 15 | 45 | lot | 1 770 | 26 550 | 26 550 | 26 550 | 79 650
 Création de salles de sciences : kit de micro science | DPEE | AR | 15 | 15 | 15 | 45 | kit | 3 000 | 45 000 | 45 000 | 45 000 | 135 000
 ##### Introduction des TIC
-Elaboration modules TIC pour la formation initiale des enseignants (ENS- A) | DES | AR | 1 | 1 | forfait | 5 000 | 5 000 | 0 | 0 | 5 000
+Elaboration modules TIC pour la formation initiale des enseignants (ENS-A) | DES | AR | 1 | 1 | forfait | 5 000 | 5 000 | 0 | 0 | 5 000
 Elaboration modules TIC pour formation continue enseignants et encadrement | DES | AR | 1 | 1 | forfait | 5 000 | 5 000 | 0 | 0 | 5 000
 Formation continue des enseignants aux TIC 100 p x 5jours | DF | AR | 500 | 500 | 500 | 1 500 | p x j | 25 | 12 500 | 12 500 | 12 500 | 37 500
 
@@ -5237,7 +5370,7 @@ Formation continue des enseignants aux TIC 100 p x 5jours | DF | AR | 500 | 500 
 
 [[START OF PAGE 141]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Elaboration du programme de base en TIC pour les élèves | DF | AR | 1 | 1 | forfait | 6 000 | 6 000 | 0 | 0 | 6 000
 #### Equité | 372 817 | 188 971 | 196 040 | 757 828
@@ -5278,25 +5411,25 @@ Transformation progressive des CEGIL en CEG d'ici 2015 | DES | SIB | 0 | 0 | 0 |
 PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 ##### Accroissement des projets d'établissements
-Appui à l'élaboration des projets d'établissements | IEPP | AeA | 150 | 150 | u | 119 | 0 17 | 819 0 | 17 819
-Missions de suivi évaluation des projets d'établissements 3pxj / PE | IEPP | AeA | 150 | 200 | 400 | 750 | p x j | 25 3 | 750 5 000 | 10 | 000 | 18 750
-Formation des chefs d'établissements, APE /COGERES | DF | AR | 1 | 1 | 1 | 3 | forfait | 50 000 50 | 000 50 000 | 50 | 000 | 150 000
-### SOUS PROGRAMME 2. 2. : ENSEIGNEMENT SECONDAIRE GENERAL CYCLE 2 | 1 545 | 997 1 381 228 1 372 740 4 751 513
+Appui à l'élaboration des projets d'établissements | IEPP | AeA | 150 | 150 | u | 119 | 0 | 17 819 | 0 | 17 819
+Missions de suivi évaluation des projets d'établissements 3pxj / PE | IEPP | AeA | 150 | 200 | 400 | 750 | p x j | 25 | 3 750 | 5 000 | 10 000 | 18 750
+Formation des chefs d'établissements, APE /COGERES | DF | AR | 1 | 1 | 1 | 3 | forfait | 50 000 | 50 000 | 50 000 | 50 000 | 150 000
+### SOUS PROGRAMME 2. 2. : ENSEIGNEMENT SECONDAIRE GENERAL CYCLE 2 | 1 997 545 | 1 381 228 | 1 372 740 | 4 751 513
 #### Accès | 436 600 | 420 080 | 408 280 | 1 264 960
 ##### Construction et réhabilitation financement à rechercher
-Construction de salles de classe de collège : études | DPEE | BIE EPS | 31 | 29 | 28 | 88 | classe | 1 180 36 580 | 34 220 | 33 040 | 103 840
-Construction de salles de classe de collège : travaux | DPEE | BIE EPS | 31 | 29 | 28 | 88 | classe | 8 850 274 | 350 | 256 650 | 247 800 | 778 800
-Construction de salles de classe de collège : équipement | DPEE | BIE EPS | 31 | 29 | 28 | 88 | classe | 1 770 54 | 870 51 | 330 | 49 560 | 155 760
-Réhabilitation de salles de classe de collège : études | DPEE | BIE EPS | 10 | 11 | 11 | 32 | classe | 708 7 080 | 7 788 | 7 788 | 22 656
+Construction de salles de classe de collège : études | DPEE | BIE EPS | 31 | 29 | 28 | 88 | classe | 1 180 | 36 580 | 34 220 | 33 040 | 103 840
+Construction de salles de classe de collège : travaux | DPEE | BIE EPS | 31 | 29 | 28 | 88 | classe | 8 850 | 274 350 | 256 650 | 247 800 | 778 800
+Construction de salles de classe de collège : équipement | DPEE | BIE EPS | 31 | 29 | 28 | 88 | classe | 1 770 | 54 870 | 51 330 | 49 560 | 155 760
+Réhabilitation de salles de classe de collège : études | DPEE | BIE EPS | 10 | 11 | 11 | 32 | classe | 708 | 7 080 | 7 788 | 7 788 | 22 656
 Réhabilitation de salles de classe de collège : travaux | DPEE | BIE EPS | 10 | 11 | 11 | 32 | classe | 5 310 | 53 100 | 58 410 | 58 410 | 169 920
-Réhabilitation de salles de classe de collège : équipement | DPEE | BIE EPS | 10 | 11 | 11 | 32 | classe | 1 062 10 | 620 11 | 682 | 11 682 | 33 984
-#### Qualité | 1 | 347 525 | 827 500 | 827 500 | 3 002 525
+Réhabilitation de salles de classe de collège : équipement | DPEE | BIE EPS | 10 | 11 | 11 | 32 | classe | 1 062 | 10 620 | 11 682 | 11 682 | 33 984
+#### Qualité | 1 347 525 | 827 500 | 827 500 | 3 002 525
 ##### Formation initiale et continue des enseignants
 Formation d'adaptation de 500 enseignants x 5j par an et par niveau (2de, 1ère, Tle) | DF | AR | 2 500 | 2 500 | 2 500 | 7 500 | p x j | 25 | 62 500 | 62 500 | 62 500 | 187 500
-Formation pédagogique axée sur l'apprentissage des élèves d'enseignants x 5j | DF | AR | 1 000 | 1 000 | 1 000 | 3 000 | p x j | 25 25 000 | 25 | 000 | 25 000 | 75 000
+Formation pédagogique axée sur l'apprentissage des élèves d'enseignants x 5j | DF | AR | 1 000 | 1 000 | 1 000 | 3 000 | p x j | 25 | 25 000 | 25 000 | 25 000 | 75 000
 ##### Evaluation élèves et personnels
 Mise en place système évaluation des élèves et du personnel sur la base des résultats | DPEE | AR | 1 | 1 | 1 | 3 | forfait | 20 000 | 20 000 | 20 000 | 20 000 | 60 000
-Développement programme de mesure systématique des acquis des élèves | DPEE | AR | 1 | 1 | 1 | 3 | forfait | 20 000 20 | 000 | 20 000 | 20 000 | 60 000
+Développement programme de mesure systématique des acquis des élèves | DPEE | AR | 1 | 1 | 1 | 3 | forfait | 20 000 | 20 000 | 20 000 | 20 000 | 60 000
 Système évaluation personnels et élèves sur base politique développement s/secteur | DPEE | AR | 1 | 1 | 1 | 3 | forfait | 20 000 | 20 000 | 20 000 | 20 000 | 60 000
 Elaboration des outils d'évaluation (auto et hétéro évaluation) élèves et enseignants | DPEE | AR | 300 | 300 | p x j | 25 | 7 500 | 0 | 0 | 7 500
 
@@ -5306,7 +5439,7 @@ Elaboration des outils d'évaluation (auto et hétéro évaluation) élèves et 
 
 [[START OF PAGE 143]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Formation 200 enseignants aux outils d'évaluation et de suivi des élèves x 3 j | DPEE | AR | 600 | 600 | 600 | 1 800 | p x j | 25 | 15 000 | 15 000 | 15 000 | 45 000
 Mission de suivi évaluation des programmes actualisés | DPEE | AR | 200 | 200 | p x j | 25 | 5 000 | 0 | 0 | 5 000
@@ -5347,7 +5480,7 @@ Construction de Salles informatique : mobilier | DPEE | AR | 15 | 15 | 15 | 45 |
 
 [[START OF PAGE 144]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Construction de Salles informatique : équipement | DPEE | AR | 15 | 15 | 15 | 45 | lot | 1 000 | 15 000 | 15 000 | 15 000 | 45 000
 #### Equité | 105 295 | 108 648 | 111 960 | 325 903
@@ -5422,7 +5555,7 @@ Reproduction des programmes | DETFP | AFD FP | 100% | 1 | forfait | 219 | 219 | 
 
 [[START OF PAGE 146]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | du coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Experts en formation des formateurs | DETFP | AFD FP | 100% | 1 | forfait | 28 305 | 28 305 | 0 | 0 | 28 305
 Spécifications équipements et études implantation | DETFP | AFD FP | 100% | 1 | forfait | 12 135 | 12 135 | 0 | 0 | 12 135
@@ -5463,7 +5596,7 @@ Elaboration Cadre national de mise en œuvre de l'APC et de certification | DPP 
 
 [[START OF PAGE 147]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | tité | quan 2015 | quan tité 2016 quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Formation de développeurs ou spécialistes en développement de curricula selon l'APC | DPP | AR | 12 | 12 | forfait | 9 000 | 108 000 | 0 | 0 | 108 000
 ##### Extension de la formation duale dans les CRETFP et les CFTP
@@ -5492,14 +5625,14 @@ Appui à mise en œuvre stratégie nationale de santé en milieu scolaire et d'a
 Renforcement du parc informatique | DEST | AR | 200 | 200 | 400 | u | 400 | 0 | 80 000 | 80 000 | 160 000
 Acquisition de logiciels | DEST | AR | 200 | 200 | 400 | u | 200 | 0 | 40 000 | 40 000 | 80 000
 Formation des formateurs à l'utilisation des logiciels | DEST | AR | 1 | 1 | forfait | 4 000 | 0 | 4 000 | 0 | 4 000
-
+##### Validation des acquis de l'expérience (VAE)
 147
 
 [[END OF PAGE 147]]
 
 [[START OF PAGE 148]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Sélection des métiers-pilotes | DFPA | AR | 1 | 1 | forfait | 5 000 | 0 | 5 000 | 0 | 5 000
 Elaboration du cadre méthodologique de la VAE | DFPA | AR | 1 | 1 | forfait | 8 000 | 0 | 8 000 | 0 | 8 000
@@ -5512,6 +5645,7 @@ Incitation des filles : prise en charge des frais de formations industrielles | 
 ##### Aide aux nécessiteux en collaboration avec le Ministère des affaires sociales
 Mise en place d'un dispositif d'identification des apprenants issus de familles demunies | DSRP | AR | 1 | 1 | forfait | 10 000 | 0 | 10 000 | 0 | 10 000
 Réduction des frais de formation des apprenants issus de familles demunies | DSRP | AR | 1 | 1 | 2 | forfait | 10 000 | 0 | 10 000 | 10 000 | 20 000
+##### Education inclusive
 Adaptation des infrastructures aux conditions des handicapés-moteur | DAC | AR | 1 | 1 | forfait | 50 000 | 0 | 50 000 | 0 | 50 000
 Adaptation des curricula à la situation des personnes handicapées | DPP | AR | 1 | 1 | forfait | 8 000 | 0 | 8 000 | 0 | 8 000
 Mise en place d'un cadre national de certification approprié | DECC | AR | 1 | 1 | forfait | 5 000 | 0 | 5 000 | 0 | 5 000
@@ -5520,6 +5654,7 @@ Apprentissage pour sourds et malentendants de Lomé et Savanes | DPP | HI | 250 
 ##### Etude relative à la restructuration de l'offre
 Identification des filières à restructurer | DAC | BIE ETP | 4 | 4 | p x m | 13 000 | 52 000 | 0 | 0 | 52 000
 Elaboration du référentiel des prix des équipements de formation | DAC | BIE ETP | 2 | 2 | p x m | 13 000 | 26 000 | 0 | 0 | 26 000
+##### Infrastructures des directions centrales
 Réhabilitation des directions centrales | DAC | AR | 1 | 1 | forfait | 200 000 | 0 | 200 000 | 0 | 200 000
 Equipement et véhicules des directions centrales | DAC | AR | 1 | 1 | forfait | 100 000 | 0 | 100 000 | 0 | 100 000
 ##### Déconcentration des structures de gestion
@@ -5549,12 +5684,12 @@ Redynamisation comités consultatifs de gestion établissements : sensibilisatio
 Redynamisation comités consultatifs de gestion des établissements : installation membres | CSETFP | AR | 1 | 1 | forfait | 10 000 | 0 | 10 000 | 0 | 10 000
 Récyclage des chefs d'établissement (Proviseurs et chefs de travaux) | DEST | AR | 1 | 1 | forfait | 3 000 | 0 | 3 000 | 0 | 3 000
 ##### Partenariat public privé
-Redynamisation conseils régionaux de l'ETFP : sensibilisation acteurs et communauté | SP- CSETFP | AR | 1 | 1 | forfait | 15 000 | 15 000 | 0 | 0 | 15 000
-Redynamisation conseils régionaux de l'ETFP : installation des membres | SP- CSETFP | AR | 1 | 1 | forfait | 20 000 | 20 000 | 0 | 0 | 20 000
+Redynamisation conseils régionaux de l'ETFP : sensibilisation acteurs et communauté | SP-CSETFP | AR | 1 | 1 | forfait | 15 000 | 15 000 | 0 | 0 | 15 000
+Redynamisation conseils régionaux de l'ETFP : installation des membres | SP-CSETFP | AR | 1 | 1 | forfait | 20 000 | 20 000 | 0 | 0 | 20 000
 Appui à la mise en place de conventions entre les structures de formation et les entreprises | DEST | AR | 1 | 1 | forfait | 50 000 | 50 000 | 0 | 0 | 50 000
-## PROGRAMME 4 : ENSEIGNEMENT SUPERIEUR ET RECHERCHE | 2 583 979 | 3 396 479 | 2 451 | 782 8 762 910
-### SOUS PROGRAMME 4.1 : ENSEIGNEMENT SUPERIEUR | 2 037 979 | 2 675 479 | 2 451 | 311 7 024 910
-#### Accès | 1 451 | 489 2 239 451 | 1 451 | 989 5 718 353
+## PROGRAMME 4 : ENSEIGNEMENT SUPERIEUR ET RECHERCHE | 2 583 979 | 3 396 479 | 2 782 451 | 8 762 910
+### SOUS PROGRAMME 4.1 : ENSEIGNEMENT SUPERIEUR | 2 037 979 | 2 675 479 | 2 311 451 | 7 024 910
+#### Accès | 1 489 451 | 2 239 451 | 1 989 451 | 5 718 353
 ##### Infrastructures
 Centre d'excellence : études architecturales | DESUP | IDA | 1 | 1 | 1 | 3 | forfait | 6% | 60 000 | 90 000 | 90 000 | 240 000
 Centre d'excellence : travaux | DESUP | IDA | 1 | 1 | 1 | 3 | forfait | 54% | 540 000 | 810 000 | 810 000 | 2 160 000
@@ -5605,10 +5740,10 @@ Renforcement et redynamisation des services d'orientation | DESUP | AR | 1 | 1 |
 
 [[START OF PAGE 151]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quantité 2014 | quantité 2015 | quantité 2016 | quantité totale | unité | réf du coût standard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Création de deux centres universitaires d'information sur les métiers et le marché de l'emploi | DESUP | AR | 1 | 1 | 1 | 3 | forfait | 20 000 | 20 000 | 20 000 | 20 000 | 60 000
-#### Equité | 60 000 60 | 000 | 60 000 | 180 000
+#### Equité | 60 000 | 60 000 | 60 000 | 180 000
 ##### Rétention des filles
 Sensibilisation des parents à encourager et soutenir leurs filles étudiantes | DESUP | AR | 1 | 1 | 1 | 3 | forfait | 60 000 | 60 000 | 60 000 | 60 000 | 180 000
 #### Pilotage et gestion | 70 000 | 107 500 | 70 000 | 247 500
@@ -5635,7 +5770,7 @@ Locaux de la Direction de Recherche universitaire : équipement | DRST | AR | 0 
 
 [[START OF PAGE 152]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quantité 2014 | quantité 2015 | quantité 2016 | quantité totale | unité | réf du coût standard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 #### Financement des axes prioritaires de la recherche | 335 000 | 335 000 | 335 000 | 1 005 000
 ##### Axe prioritaire 1 : Développement de la recherche agronomique
@@ -5654,9 +5789,9 @@ Evaluer la fréquence des inondations et leurs impacts sur la sécurité aliment
 Evaluer les impacts des changements climatiques sur les mutations agraires | DRST | AR | 1 | 1 | 1 | 3 | forfait | 50 000 | 50 000 | 50 000 | 50 000 | 150 000
 Renforcer la recherche sur l'adaptation et la résistance des espèces végétales aux conditions climatiques | DRST | AR | 1 | 1 | 1 | 3 | forfait | 25 000 | 25 000 | 25 000 | 25 000 | 75 000
 Diffuser résultats recherche sur impacts et stratégies d'adaptation aux changements climatiques | DRST | AR | 1 | 1 | 1 | 3 | forfait | 10 000 | 10 000 | 10 000 | 10 000 | 30 000
-## PROGRAMME 5 : GESTION SECTORIELLE | 6 562 | 488 | 5 714 144 | 3 064 902 | 15 267 609
-### SOUS PROGRAMME 5.1 : PILOTAGE ET GESTION SECTORIELLE | 404 | 855 | 212 000 | 292 000 | 908 855
-#### Coordination et gestion du Programme Sectoriel | 269 | 400 | 182 000 | 182 000 | 633 400
+## PROGRAMME 5 : GESTION SECTORIELLE | 6 488 562 | 5 714 144 | 3 064 902 | 15 267 609
+### SOUS PROGRAMME 5.1 : PILOTAGE ET GESTION SECTORIELLE | 404 855 | 212 000 | 292 000 | 908 855
+#### Coordination et gestion du Programme Sectoriel | 269 400 | 182 000 | 182 000 | 633 400
 ##### Instances interministérielles de pilotage et de coordination du PSE
 Création du Conseil supérieur de l'éducation et de la formation (CSEF) | SG | SIB | 0 | 0 | 0 | 0 | 0
 Création du Comité de coordination du PSE (CC-PSE) | SG | SIB | 0 | 0 | 0 | 0 | 0
@@ -5667,12 +5802,12 @@ Création du Comité de coordination du PSE (CC-PSE) | SG | SIB | 0 | 0 | 0 | 0 
 
 [[START OF PAGE 153]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quantité 2014 | quantité 2015 | quantité 2016 | quantité totale | unité | réf du coût standard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Création des comités régionaux de coordination du PSE | SG | SIB | 0 | 0 | 0 | 0 | 0
 ##### Structure permanente de coordination du PSE
-Appui au fonctionnement du STP | UCP | AR | 12 | 12 | 24 | mois | 1 000 0 | 12 000 | 12 000 | 24 | 000
-Appui au fonctionnement du STP | UCP | PME1 | 1 | 1 | forfait | 12 000 | 12 000 0 | 0 | 12 | 000
+Appui au fonctionnement du STP | UCP | AR | 12 | 12 | 24 | mois | 1 000 | 0 | 12 000 | 12 000 | 24 000
+Appui au fonctionnement du STP | UCP | PME1 | 1 | 1 | forfait | 12 000 | 12 000 | 0 | 0 | 12 000
 Frais d'organisation des sessions des organes | UCP | PME1 | 1 | 1 | forfait | 15 000 | 15 000 | 0 | 0 | 15 000
 Appui au fonctionnement du STP | UCP | PME2 | 1 | 1 | 1 | 3 | forfait | 20 000 | 20 000 | 20 000 | 20 000 | 60 000
 ##### Renforcement de la gestion stratégique
@@ -5689,7 +5824,7 @@ Edition de bulletins MEPSA (PERI/PSE) | UCP | PME1 | 1 | 1 | forfait | 6 000 | 6
 Appui au fonctionnement annuel de la cellule de communication | UCP | PME1 | 1 | 1 | forfait | 2 400 | 2 400 | 0 | 0 | 2 400
 ##### Santé, nutrition et VIH/SIDA sectoriel
 Elaboration et mise en oeuvre du Plan sectoriel de lutte C/VIH SIDA | STP | PME1 | 1 | 1 | forfait | 25 000 | 25 000 | 0 | 0 | 25 000
-#### Suivi et Evaluation des apprentissages et des diplomés | 135 | 455 | 30 000 | 110 000 | 275 455
+#### Suivi et Evaluation des apprentissages et des diplomés | 135 455 | 30 000 | 110 000 | 275 455
 ##### Suivi des diplômés
 Honoraire du spécialiste en suivi des diplômés | STP | PME1 | 1 | 1 | forfait | 11 100 | 11 100 | 0 | 0 | 11 100
 Formation au developpement des masques de saisie | STP | PME1 | 1 | 1 | forfait | 3 000 | 3 000 | 0 | 0 | 3 000
@@ -5705,7 +5840,7 @@ Formation CNE à l'analyse des items et validation des tests | STP | PME1 | 1 | 
 
 [[START OF PAGE 154]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quantité 2014 | quantité 2015 | quantité 2016 | quantité totale | unité | réf du coût standard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Formation CNE à l'élaboration des masques de saisie | STP | PME1 | 1 | 1 | forfait | 2 500 | 2 500 | 0 | 0 | 2 500
 Formation CNE en techniques d'échantillonnage | STP | PME1 | 1 | 1 | forfait | 2 500 | 2 500 | 0 | 0 | 2 500
@@ -5719,6 +5854,7 @@ Atelier et formation en évaluation des apprentissages | DPEE | PME2 | 1 | 1 | f
 Evaluation mise en œuvre recommandations enquete S&E 2013 | DPEE | PME2 | 1 | 1 | 2 | forfait | 20 000 | 20 000 | 20 000 | 0 | 40 000
 ### SOUS PROGRAMME 5.2 : PILOTAGE ET GESTION MEPS | 5 148 597 | 4 745 853 | 2 355 527 | 12 249 977
 #### Pilotage et coordination sectorielle du MEPS | 1 250 | 0 | 0 | 1 250
+##### Création instance de pilotage et de coordination
 Création d'une Coordination ministérielle du PSE / Réunions de Cabinet | SG | SIB | 0
 ##### Evaluation et pilotage par les résultats
 Elaborer par service un contrat performance avec indicateurs résultats | SG | SIB | 0
@@ -5739,7 +5875,7 @@ Spécialiste formation du personnel du service de la carte scolaire | DPEE | AR 
 
 [[START OF PAGE 155]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quantité 2014 | quantité 2015 | quantité 2016 | quantité totale | unité | réf du coût standard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Spécialiste formation agents du système d'information et communication | DPEE | AR | 1 | 1 | p x m | 13 000 | 13 000 | 0 | 0 | 13 000
 Formation des personnels déconcentrés 1 formateur x 30j | DPEE | AR | 30 | 30 | p x j | 25 | 750 | 0 | 0 | 750
@@ -5751,11 +5887,10 @@ Recrutement staticiticien | DPEE | PME2 | 2 | 2 | 2 | 6 | p x an | 7 200 | 14 40
 Formation de base du personnel en statistique (50p*5 j) | DPEE | PME2 | 250 | 250 | p*j | 25 | 0 | 6 250 | 6 250 | 12 500
 Formation en planification de l'éducation à l'IIPE | DPEE | BID3 | 4 | 4 | pers | 10 000 | 40 000 | 0 | 0 | 40 000
 ##### Utilisation analyse des goulots d'étranglement (Savanes et Plateaux)
-Application par les COGEP de l'analyse des goulots d'étranglement | DEPP | UNICEF | 125 | 125 | 125 | 375 | école | 1 366 | 170 736 | 170 736 | 170 736 | 512 208
+Application par les COGEP de l'analyse des goulots d'étranglement | DEPP | UNICEF | 125 | 125 | 125 | 375 | école | Estim | 1 366 | 170 736 | 170 736 | 170 736 | 512 208
 ##### Appuis aux activités de planification des DRE
 Rencontres JE, DE, IEPP, DRE | DRE | BNF | estim. | 20 754 | 26 222 | 21 254 | 68 230
-#### Gestion des resources humaines | 64 525 | 51 750 | 48
-750 | 165 025
+#### Gestion des resources humaines | 64 525 | 51 750 | 48 750 | 165 025
 ##### Redynamisation Préparation Qualitative de Rentrée Scolaire (PQRS)
 Missions exploratoires sur le terrain (DAF, DRH, DPEE) 2p x 15 j | DRH | AR | 30 | 30 | p x j | 25 | 750 | 0 | 0 | 750
 Formation des acteurs de terrain (IEPP, IES, chefs étbts, GRH..) 100 p x 2j | DRH | AR | 200 | 200 | p x j | 25 | 5 000 | 0 | 0 | 5 000
@@ -5768,6 +5903,7 @@ Organisation réunions périodiques avec les partenaires de l'éducation | SG | 
 ##### Mise en œuvre de la promotion des personnels par le mérite
 Elaboration de grilles d'évaluation des personnels enseignants et administratifs | DRH | SIB | 0 | 0 | 0 | 0 | 0
 Elaboration de listes d'aptitude aux responsabilités de chef d'etbt | DRH | SIB | 0 | 0 | 0 | 0 | 0
+##### Mise en cohérence des allocations d'enseignants
 
 155
 
@@ -5775,18 +5911,18 @@ Elaboration de listes d'aptitude aux responsabilités de chef d'etbt | DRH | SIB
 
 [[START OF PAGE 156]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quantité 2014 | quantité 2015 | quantité 2016 | quantité totale | unité | réf du coût standard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Evaluation de la mise en œuvre du plan action cohérence allocations enseignants | DRH | PME1 | 1 | 1 | forfait | 10 255 | 10 255 | 0 | 0 | 10 255
 ##### Plan de transfert de compétences
-Consultant pour élaboration du plan de transfert des compétences | DRH | PME1 | 1 | 1 | forfait | 2 564 2 | 564 | 0 | 0 | 2 564
+Consultant pour élaboration du plan de transfert des compétences | DRH | PME1 | 1 | 1 | forfait | 2 564 | 2 564 | 0 | 0 | 2 564
 Mise en œuvre et Evaluation du plan de transfert des compétences | DRH | PME1 | 1 | 1 | forfait | 10 255 | 10 255 | 0 | 0 | 10 255
 ##### Renforcement de capacités des personnels
 Formation des spécialistes en construction | DRH | PME2 | 3 | 3 | 6 | pers | 1 000 | 3 000 | 3 000 | 0 | 6 000
 Formation locale pour le personnel au niveau central 50 p x 5 j | DRH | PME2 | 250 | 250 | 250 | 750 | pxj | 25 | 6 250 | 6 250 | 6 250 | 18 750
 Formation locale pour personnel niveau décentralisé 50 p x 5 j | DRH | PME2 | 500 | 500 | 500 | 1 500 | pxj | 25 | 12 500 | 12 500 | 12 500 | 37 500
 Voyages d'études et formations à l'international | DRH | PME2 | 1 | 1 | 2 | forfait | 30 000 | 0 | 30 000 | 30 000 | 60 000
-#### Gestion des ressources financières | 93 | 300 80 372 | 66 | 504 | 240 175
+#### Gestion des ressources financières | 93 300 | 80 372 | 66 504 | 240 175
 ##### Exécution des budgets
 Formation de 100 comptables en gestion x 5 jours | DAF | AR | 250 | 250 | 500 | p x j | 25 | 6 250 | 6 250 | 0 | 12 500
 Formation de 20 chargés de la passation de marchés publics x 5 jours | DAF | AR | 50 | 50 | 100 | p x j | 25 | 1 250 | 1 250 | 0 | 2 500
@@ -5809,7 +5945,7 @@ Rencontres et formation membres des OSC éducation (COGEP et APE) | DEPP | BNF |
 
 [[START OF PAGE 157]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | du coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quantité 2014 | quantité 2015 | quantité 2016 | quantité totale | unité | réf du coût standard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 #### Gestion des ressources matérielles | 1 313 358 | 352 500 | 0 | 1 665 858
 ##### Comptabilité matière
@@ -5817,16 +5953,16 @@ Formation en comptabilité matière de 100 gestionnaires de stock x 2 jours | DA
 ##### Optimisation de l'utilisation des ressources matérielles
 Promotion de la mutualisation des ressources matérielles | DAF | SIB | 0 | 0 | 0 | 0 | 0
 ##### Appui aux services administratifs centraux
-Mobilier et équipement des services administratifs | DAF | BID3 | 1 | forfait | 48 000 | 48 000 | 0 | 0 | 48
-##### Appuis aux services administratifs déconcentrés | 1 | 000
+Mobilier et équipement des services administratifs | DAF | BID3 | 1 | 1 | forfait | 48 000 | 48 000 | 0 | 0 | 48 000
+##### Appuis aux services administratifs déconcentrés
 Services administratifs déconcentrés : Mobilier et équipement | DAF | BID3 | 1 | 1 | forfait | 192 000 | 192 000 | 0 | 0 | 192 000
 IESG : Motocyclettes | DAF | BID3 | 25 | 25 | moto | 1 500 | 37 500 | 0 | 0 | 37 500
 DRE de Kara : Construction bureaux et logement | DPEE | BID3 | 1 | 1 | forfait | 195 500 | 195 500 | 0 | 0 | 195 500
 DRE de Kara : Equipement bureaux et logement | DAF | BID3 | 1 | 1 | forfait | 34 500 | 34 500 | 0 | 0 | 34 500
 DRE Maritime : Construction bureaux et logement | DPEE | BID4 | 1 | 1 | forfait | 297 500 | 0 | 297 500 | 0 | 297 500
 DRE Maritime : Equipement bureaux et logement | DAF | BID4 | 1 | 1 | forfait | 52 500 | 0 | 52 500 | 0 | 52 500
-Formation en Gestion à la Base
-UCP | PME1 | 1 | 1 | forfait | 92 400 | 92 400 | 0 | 0 | 92 400
+##### Appui à la gestion communautaire
+Formation en Gestion à la Base | UCP | PME1 | 1 | 1 | forfait | 92 400 | 92 400 | 0 | 0 | 92 400
 Gestion du programme constructions scolaires | UCP | PME1 | 1 | 1 | forfait | 125 530 | 125 530 | 0 | 0 | 125 530
 Elaboration et reproduction des outils en Gestion à la Base (GB) | UCP | PME1 | 1 | 1 | forfait | 60 000 | 60 000 | 0 | 0 | 60 000
 Formation Formateurs en GB et Animateurs à la GC | UCP | PME1 | 1 | 1 | forfait | 20 000 | 20 000 | 0 | 0 | 20 000
@@ -5838,7 +5974,7 @@ Evaluation, Audits | UCP | PME1 | 1 | 1 | forfait | 85 000 | 85 000 | 0 | 0 | 85
 ##### Mesures de sauvegarde environnementale et recasement des populations
 Honoraires Consultant pour la mise en œuvre des mesures SERP | CTC | PME1 | 1 | 1 | forfait | 6 207 | 6 207 | 0 | 0 | 6 207
 Mission de suivi de la mise en œuvre SERP (en collaboration avec Direction Environnement) | UCP | PME1 | 1 | 1 | forfait | 4 500 | 4 500 | 0 | 0 | 4 500
-#### Encadrement et contrôles pédagogiques et administratifs | 220 600 | 1 715 | 600 175 600 | 2 111 800
+#### Encadrement et contrôles pédagogiques et administratifs | 220 600 | 1 715 600 | 175 600 | 2 111 800
 
 157
 
@@ -5846,7 +5982,7 @@ Mission de suivi de la mise en œuvre SERP (en collaboration avec Direction Envi
 
 [[START OF PAGE 158]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quantité 2014 | quantité 2015 | quantité 2016 | quantité totale | unité | réf du coût standard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 ##### Réhabilitation et équipement locaux IGE
 Equipements des bureaux de l'IGE à Dapaong, Sokodé et Atakpamé | IGE | AR | 1 | 1 | 1 | 3 | lot | 8 000 | 8 000 | 8 000 | 8 000 | 24 000
@@ -5867,7 +6003,7 @@ REG CENT Promotion des comités de santé scolaire (CSS) | DEPP | PLAN T | 12 | 
 ##### Lutte contre le VIH/sida dans le sous secteur
 Elaboration et validation plan sous sectoriel de lutte contre le VIH/Sida | DPEE | AR | 1 | 1 | forfait | 1 000 | 1 000 | 0 | 0 | 1 000
 Opérationalisation du noyau anti-Sida | DPEE | AR | 1 | 1 | 1 | 3 | forfait | 1 000 | 1 000 | 1 000 | 1 000 | 3 000
-#### Coordination et gestion des projets | 3 625 | 039 2 192 024 | 1 033 | 756 6 987 682
+#### Coordination et gestion des projets | 3 039 625 | 2 192 024 | 1 756 033 | 6 987 682
 ##### Coordination et gestion du Projet PME1 (PERI)
 ##### Coordination et gestion fiduciaire du projet
 Dotations salariales des spécialistes de l'UC-PERI | UCP | PME1 | 1 | 1 | forfait | 79 313 | 79 313 | 0 | 0 | 79 313
@@ -5882,16 +6018,13 @@ Missions et Voyages d'études/Formation | UCP | PME1 | 1 | 1 | forfait | 80 000 
 
 [[START OF PAGE 159]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quantité 2014 | quantité 2015 | quantité 2016 | quantité totale | unité | réf du coût standard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-K
-stan
-dard
 Honoraires de l'auditeur externe des comptes et procédures de contrôle interne | SG | PME1 | 1 | 1 | forfait | 19 351 | 19 351 | 0 | 0 | 19 351
-Audits techniques externes des acquisitions (Procédures - Passation des | SG | PME1 | 1 | 1 | forfait | 15 000 | 15 000 | 0 | 0 | 15 000
-Marchés)
+Audits techniques externes des acquisitions (Procédures - Passation des Marchés) | SG | PME1 | 1 | 1 | forfait | 15 000 | 15 000 | 0 | 0 | 15 000
+##### Gestion du Projet PME2
 Spécialiste en communication | UCP | PME2 | 1 | 1 | 2 | forfait | 12 000 | 0 | 12 000 | 12 000 | 24 000
-Spécilaiste en questions environementales et sociales | UCP | PME2 | 0,5 | 0,5 | 1 | forfait | 15 000 | 7 500 | 7 500 | 0 | 15 000
+Spécialiste en questions environnementales et sociales | UCP | PME2 | 0,5 | 0,5 | 1 | forfait | 15 000 | 7 500 | 7 500 | 0 | 15 000
 Audit financier externe annuel | UCP | PME2 | 1 | 1 | 1 | 3 | u | 12 000 | 12 000 | 12 000 | 12 000 | 36 000
 Audit technique annuel (constructions) | UCP | PME2 | 1 | 1 | 2 | u | 12 000 | 0 | 12 000 | 12 000 | 24 000
 Audit annuel de passation des marchés | UCP | PME2 | 1 | 1 | 1 | 3 | u | 12 000 | 12 000 | 12 000 | 12 000 | 36 000
@@ -5902,6 +6035,7 @@ Suivi au niveau décentralisé | UCP | PME2 | 1 | 1 | 1 | 3 | forfait | 21 500 |
 Suivi évaluation | UCP | PME2 | 1 | 1 | 1 | 3 | forfait | 30 000 | 30 000 | 30 000 | 30 000 | 90 000
 Frais de fonctionnement de l'UCP (incluant les salaires) | UCP | PME2 | 1 | 1 | 1 | 3 | forfait | 140 000 | 140 000 | 140 000 | 140 000 | 420 000
 Imprévus du Projet PME2 | UCP | PME2 | 1 | 1 | 1 | 3 | forfait | 444 375 | 359 157 | 166 238 | 969 770
+##### Unité de Gestion du Projet BID 3
 Ateliers de lancement et à mi parcours et visites à BID | UGP | BID3 | 1 | 1 | forfait | 210 000 | 210 000 | 0 | 0 | 210 000
 Audit externe des comptes | UGP | BID3 | 1 | 1 | forfait | 58 000 | 58 000 | 0 | 0 | 58 000
 Suivi évaluation des résultats du Projet | UGP | BID3 | 1 | 1 | forfait | 50 000 | 50 000 | 0 | 0 | 50 000
@@ -5911,7 +6045,7 @@ Imprévus financiers | UGP | BID3 | 1 | 1 | forfait | 366 980 | 366 980 | 0 | 0 
 Etudes et supervision | UGP | BID4 | 1 | 1 | 2 | forfait | 181 479 | 0 | 181 479 | 181 479 | 362 958
 Fonctionnement de l'UGP | UGP | BID4 | 1 | 1 | 2 | forfait | 60 500 | 0 | 60 500 | 60 500 | 121 000
 Audit externe des comptes | UGP | BID4 | 1 | 1 | 2 | forfait | 30 247 | 0 | 30 247 | 30 247 | 60 493
-Pick up 4x4 | UGP | BID4 | 2 | 2 | forfait | 37 500 | 0 | 75 | 000 0 | 75 000
+Pick up 4x4 | UGP | BID4 | 2 | 2 | forfait | 37 500 | 0 | 75 000 | 0 | 75 000
 Imprévus physiques 10% | UGP | BID4 | 1 | 1 | 2 | forfait | 329 688 | 0 | 329 688 | 329 688 | 659 376
 Imprévus financiers 5% | UGP | BID4 | 1 | 1 | 2 | forfait | 164 844 | 0 | 164 844 | 164 844 | 329 688
 ##### AMO et gestion du projet PAREC
@@ -5924,11 +6058,11 @@ assistance technique (ATMO) AT coordination (ETI) | AFD | AFD RC | 10 | 10 | 10 
 
 [[START OF PAGE 160]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quantité 2014 | quantité 2015 | quantité 2016 | quantité totale | unité | réf du coût standard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 assistance technique (ATMO) AT Pedago (ETI) | AFD | AFD RC | 10 | 10 | 20 | mois | 10 000 | 100 000 | 100 000 | 0 | 200 000
-volontaire coordination infrastructures | AFD | AFD RC | 12 | 12 | 24 | mois | 1 500 | 18 000 18 | 000 | 0 | 36 000
-cellule de gestion : 1 gestionnaire + 1 spéc marchés | AFD | AFD RC | 24 | 24 | 24 | 72 | mois | 3 889 93 | 333 93 333 | 93 | 333 | 280 000
+volontaire coordination infrastructures | AFD | AFD RC | 12 | 12 | 24 | mois | 1 500 | 18 000 | 18 000 | 0 | 36 000
+cellule de gestion : 1 gestionnaire + 1 spéc marchés | AFD | AFD RC | 24 | 24 | 24 | 72 | mois | 3 889 | 93 333 | 93 333 | 93 333 | 280 000
 ##### Experts court terme
 expertises pour C1 et C2 : formation superviseurs et chefs de chantier | UGP | AFD RC | 2 | 2 | semai | 8 500 | 17 000 | 0 | 0 | 17 000
 expertises pour C1 et C2 : suivi construction | UGP | AFD RC | 2 | 2 | semai | 8 500 | 0 | 17 000 | 0 | 17 000
@@ -5948,14 +6082,14 @@ Salaires equipe Projet | EP | AeA | 1 | 1 | 1 | 3 | forfait | 14 463 | 14 463 | 
 Autres dépenses de fonctionnement | EP | AeA | 1 | 1 | 1 | 3 | forfait | 47 787 | 47 787 | 47 787 | 47 787 | 143 361
 Equipement et mobilier | EP | AeA | 1 | 1 | 1 | 3 | forfait | 6 923 | 6 923 | 6 923 | 6 923 | 20 770
 Services de spécialistes et audits | EP | AeA | 1 | 1 | 1 | 3 | forfait | 19 297 | 19 297 | 19 297 | 19 297 | 57 891
-### SOUS PROGRAMME 5.3 : GESTION METFPI | 458 | 344 342 | 186 | 323 936 | 1 124 466
+### SOUS PROGRAMME 5.3 : GESTION METFPI | 458 344 | 342 186 | 323 936 | 1 124 466
 #### Pilotage et coordination sectorielle du METFPI | 1 250 | 0 | 0 | 1 250
 ##### Instance de pilotage et de coordination
 Création d'une Coordination ministérielle du PSE / Réunions de Cabinet | SG | SIB | 0 | 0 | 0 | 0 | 0
 ##### Evaluation et pilotage par les résultats
 Elaborer par service un contrat performance avec indicateurs résultats | SG | SIB | 0 | 0 | 0 | 0 | 0
 Elaborer plan de travail annuel du PSE en vue du suivi par CSEF et CC-PSE | SG | SIB | 0 | 0 | 0 | 0 | 0
-Formation 10 cadres en élaboration de contrats de performance x 5jours | SG | AR | 50 | 50 | p x j | 25 1 | 250 | 0 | 0 | 1 250
+Formation 10 cadres en élaboration de contrats de performance x 5jours | SG | AR | 50 | 50 | p x j | 25 | 1 250 | 0 | 0 | 1 250
 ##### Promotion de la concertation avec le personnel et les partenaires
 
 160
@@ -5964,33 +6098,33 @@ Formation 10 cadres en élaboration de contrats de performance x 5jours | SG | A
 
 [[START OF PAGE 161]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quantité 2014 | quantité 2015 | quantité 2016 | quantité totale | unité | réf du coût standard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Organisation réunions périodiques avec les partenaires de l'éducation | SG | SIB | 0 | 0 | 0 0 | 0
-#### Planification | 21 800 5 | 000 5 000 | 31 800
+Organisation réunions périodiques avec les partenaires de l'éducation | SG | SIB | 0 | 0 | 0 | 0 | 0
+#### Planification | 21 800 | 5 000 | 5 000 | 31 800
 ##### Mise en place d'un Système d'Informations Géographiques
-Spécialiste traitement de l'immatriculation des établissements | DP | AR | 1 | 1 | p x m | 13 000 13 | 000 0 | 0 | 13 000
-Atelier de validation des travaux d'immatriculation | DP | AR | 12 | 12 | p x j | 25 | 300 0 | 0 | 300
+Spécialiste traitement de l'immatriculation des établissements | DP | AR | 1 | 1 | p x m | 13 000 | 13 000 | 0 | 0 | 13 000
+Atelier de validation des travaux d'immatriculation | DP | AR | 12 | 12 | p x j | 25 | 300 | 0 | 0 | 300
 ##### Renforcement des capacités de planification
-Form cadres de la Carte de développement compétences techniques et professionnelles | DP | AR | 80 | 80 | p x j | 25 2 | 000 0 | 0 | 2 000
-Formation de cadres en politiques sectorielles et gestion des sytèmes éducatifs | DP | AR | 1 | 1 | 2 | pers | 5 000 | 0 5 | 000 5 000 | 10 000
-Formation cadres du système d'information et de communication 8p x 10j | DP | AR | 80 | 80 | p x j | 25 | 2 000 0 | 0 | 2 000
-Form cadres du service des statistiques 8p x 10j | DP | AR | 80 | 80 | p x j | 25 2 | 000 0 | 0 | 2 000
+Form cadres de la Carte de développement compétences techniques et professionnelles | DP | AR | 80 | 80 | p x j | 25 | 2 000 | 0 | 0 | 2 000
+Formation de cadres en politiques sectorielles et gestion des sytèmes éducatifs | DP | AR | 1 | 1 | 2 | pers | 5 000 | 0 | 5 000 | 5 000 | 10 000
+Formation cadres du système d'information et de communication 8p x 10j | DP | AR | 80 | 80 | p x j | 25 | 2 000 | 0 | 0 | 2 000
+Form cadres du service des statistiques 8p x 10j | DP | AR | 80 | 80 | p x j | 25 | 2 000 | 0 | 0 | 2 000
 ##### Promotion des projets d'établissement
-Form responsables étbts en élaboration de projets d'étblissements 50p x 2j | DETFP | AR | 100 | 100 | p x j | 25 | 2 500 0 | 0 | 2 500
-#### Gestion des resources humaines | 0 14 | 500 0 | 14 500
+Form responsables étbts en élaboration de projets d'étblissements 50p x 2j | DETFP | AR | 100 | 100 | p x j | 25 | 2 500 | 0 | 0 | 2 500
+#### Gestion des resources humaines | 0 | 14 500 | 0 | 14 500
 ##### Renforcement des capacités des agents en GRH
-Spécialiste élaboration plan de formation des RH et formateur | DRH | AR | 1 | 1 | p x m | 13 000 | 0 13 | 000 0 | 13 000
-Formation de cadres en GRH 8p x 10j | DRH | AR | 60 | 60 | p x j | 25 0 | 1 500 | 0 | 1 500
+Spécialiste élaboration plan de formation des RH et formateur | DRH | AR | 1 | 1 | p x m | 13 000 | 0 | 13 000 | 0 | 13 000
+Formation de cadres en GRH 8p x 10j | DRH | AR | 60 | 60 | p x j | 25 | 0 | 1 500 | 0 | 1 500
 ##### Mise en oeuvre de la promotion des personnels par le mérite
 Elaboration de grilles d'évaluation des personnels enseignants et administratifs | DRH | SIB | 0 | 0 | 0 | 0 | 0
 Elaboration de listes d'aptitude aux responsabilités de chef d'etbt | DRH | SIB | 0 | 0 | 0 | 0 | 0
-#### Gestion des ressources financières | 156 579 99 346 | 95 596 | 351 521
+#### Gestion des ressources financières | 156 579 | 99 346 | 95 596 | 351 521
 ##### Programmation budgétaire
-Formation 10 cadres en programmation budgétaire (Bud Programmes, CDMT, PTAB…) x 10 jours | DAF | AR | 100 | 100 | p x j | 25 | 2 500 0 | 0 | 2 500
+Formation 10 cadres en programmation budgétaire (Bud Programmes, CDMT, PTAB…) x 10 jours | DAF | AR | 100 | 100 | p x j | 25 | 2 500 | 0 | 0 | 2 500
 ##### Exécution des budgets
-Formation de 20 comptables en gestion x 5 jours | DAF | AR | 50 | 50 | 100 | p x j | 25 | 1 250 | 1 250 0 | 2 500
-Formation de 10 chargés de la passation de marchés publics x 5 jours | DAF | AR | 25 | 25 | 50 | p x j | 25 | 625 | 625 0 | 1 250
+Formation de 20 comptables en gestion x 5 jours | DAF | AR | 50 | 50 | 100 | p x j | 25 | 1 250 | 1 250 | 0 | 2 500
+Formation de 10 chargés de la passation de marchés publics x 5 jours | DAF | AR | 25 | 25 | 50 | p x j | 25 | 625 | 625 | 0 | 1 250
 
 161
 
@@ -5998,7 +6132,7 @@ Formation de 10 chargés de la passation de marchés publics x 5 jours | DAF | A
 
 [[START OF PAGE 162]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quantité 2014 | quantité 2015 | quantité 2016 | quantité totale | unité | réf du coût standard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Formation de 15 administrateurs de crédits à la préparation du budget x 5 jours | DAF | AR | 40 | 35 | 75 | p x j | 25 | 1 000 | 875 | 0 | 1 875
 Formation membres COGEP/COGERES/APE aux procédures gestion dotations x 1 j | DAF | AR | 100 | 100 | 200 | p x j | 10 | 1 000 | 1 000 | 0 | 2 000
@@ -6008,15 +6142,14 @@ Audit externe de la gestion financière des établissements d' ETFP | SG | AR | 
 Expertise d'appui en management du Fonds et gestion des projets | UGP | AFD FP | 100% | 1 | forfait | 39 864 | 39 864 | 0 | 0 | 39 864
 Formation conseillers et SE (4 pers) en Europe | UGP | AFD FP | 100% | 1 | forfait | 14 744 | 14 744 | 0 | 0 | 14 744
 Dotation amorçage financement formations dans étbts du Projet | UGP | AFD FP | 33% | 33% | 33% | 1 | forfait | 196 787 | 65 596 | 65 596 | 65 596 | 196 787
-#### Gestion des ressources matérielles | 3 | 0 | 0 | 3 125
+#### Gestion des ressources matérielles | 3 125 | 0 | 0 | 3 125
 ##### Généralisation et contrôle de la comptabilité matière
-| 125
 Formation en comptabilité matière de 25 gestionnaires de stock x 5 jours | DAF | AR | 125 | 125 | p x j | 25 | 3 125 | 0 | 0 | 3 125
 Mise en place de la comptabilisation des ressources matérielles | DAF | SIB | 0 | 0 | 0 | 0 | 0
 Suivi et contrôle de la gestion des ressources matérielles | DAF | SIB | 0 | 0 | 0 | 0 | 0
 ##### Optimisation de l'utilisation des ressources matérielles
 Promotion de la mutualisation des ressources matérielles | DAF | SIB | 0 | 0 | 0 | 0 | 0
-#### Gestion des établisssements | 5 | 000 | 12 750 | 12 750 | 30 500
+#### Gestion des établisssements | 5 000 | 12 750 | 12 750 | 30 500
 ##### Formation en gestion d'établissements
 Formation 100 directeurs et proviseurs en gestion des établissements x 3j | DF | AR | 150 | 150 | 300 | p x j | 25 | 0 | 3 750 | 3 750 | 7 500
 Formation des membres des comités de gestion des établissements x1 j | DAF | AR | 150 | 150 | 300 | p x j | 10 | 0 | 1 500 | 1 500 | 3 000
@@ -6024,7 +6157,7 @@ Formation des membres des comités de gestion des établissements x1 j | DAF | A
 Formations à la gestion participative des établissements (CGE) 1j | DAF | AR | 100 | 100 | 200 | p x j | 25 | 0 | 2 500 | 2 500 | 5 000
 ##### Développement du partenariat public/ privé
 Développement du partenariat public / privé | DETFP | AR | 1 | 1 | 1 | 3 | forfait | 5 000 | 5 000 | 5 000 | 5 000 | 15 000
-#### Encadrement et contrôles pédagogiques | 140 | 000 | 80 000 | 80 000 | 300 000
+#### Encadrement et contrôles pédagogiques | 140 000 | 80 000 | 80 000 | 300 000
 ##### Appui à la déconcentration des services
 Création de directions régionales : études | DAF | AR | 1 | 1 | 1 | 3 | u | 5 000 | 5 000 | 5 000 | 5 000 | 15 000
 
@@ -6034,7 +6167,7 @@ Création de directions régionales : études | DAF | AR | 1 | 1 | 1 | 3 | u | 5
 
 [[START OF PAGE 163]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quantité 2014 | quantité 2015 | quantité 2016 | quantité totale | unité | réf du coût standard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Création de directions régionales : travaux | DAF | AR | 1 | 1 | 1 | 3 | u | 37 500 | 37 500 | 37 500 | 37 500 | 112 500
 Création de directions régionales : équipement | DAF | AR | 1 | 1 | 1 | 3 | u | 7 500 | 7 500 | 7 500 | 7 500 | 22 500
@@ -6043,11 +6176,12 @@ Dotation des inspections de Lomé, Sokodé et Kara de véhicules 4x4 | DAF | AR 
 Construction de nouvelles inspections : études | DAF | AR | 1 | 1 | 1 | 3 | u | 3 000 | 3 000 | 3 000 | 3 000 | 9 000
 Construction de nouvelles inspections : travaux | DAF | AR | 1 | 1 | 1 | 3 | u | 22 500 | 22 500 | 22 500 | 22 500 | 67 500
 Construction de nouvelles inspections : équipements | DAF | AR | 1 | 1 | 1 | 3 | lot | 4 500 | 4 500 | 4 500 | 4 500 | 13 500
-#### Gestion du Projet AFD FP | 130 590 | 130 590 | 130 | 590 | 391 770
+#### Gestion du Projet AFD FP | 130 590 | 130 590 | 130 590 | 391 770
 Dépenses salariales | UGP | AFD FP | 33% | 33% | 33% | 1 | forfait | 203 721 | 67 907 | 67 907 | 67 907 | 203 721
 Autres dépenses de fonctionnement | UGP | AFD FP | 33% | 33% | 33% | 1 | forfait | 188 050 | 62 683 | 62 683 | 62 683 | 188 050
 ### SOUS PROGRAMME 5.4 : PILOTAGE ET GESTION MESR | 318 998 | 294 088 | 93 440 | 706 526
-#### Pilotage et coordination sectorielle du MESR | 142 093 | 141 468 | 64 | 940 | 348 501
+#### Pilotage et coordination sectorielle du MESR | 142 093 | 141 468 | 64 940 | 348 501
+##### Création d'une instance de pilotage et de coordination
 Création d'une Coordination ministérielle du PSE / Réunions de Cabinet | SG | SIB | 0 | 0 | 0 | 0 | 0
 ##### Evaluation et pilotage par les résultats
 Elaborer par service un contrat performance avec indicateurs résultats | SG | SIB | 0 | 0 | 0 | 0 | 0
@@ -6056,7 +6190,7 @@ Formation 5 cadres en élaboration de contrats de performance x 5jours | SG | AR
 ##### Promotion de la gestion participative
 Renforcer la concertation avec les composantes universitaires | SG | SIB | 0 | 0 | 0 | 0 | 0
 ##### Appui à la Gouvernance du MESR
-Définition politiques publiques d'enseignement supérieur | CAB | SCAC | 1 | 1 | 2 | forfait | 19 132 | 19 132 19 | 132 | 0 | 38 264
+Définition politiques publiques d'enseignement supérieur | CAB | SCAC | 1 | 1 | 2 | forfait | 19 132 | 19 132 | 19 132 | 0 | 38 264
 Renforcement institutionnel du MESR | CAB | SCAC | 1 | 1 | 2 | forfait | 19 132 | 19 132 | 19 132 | 0 | 38 264
 Services techniques au MESR | CAB | SCAC | 1 | 1 | 1 | 3 | forfait | 52 477 | 52 477 | 52 477 | 52 477 | 157 430
 Assistant administratif | SCAC | SCAC | 1 | 1 | 1 | 3 | forfait | 5 904 | 5 904 | 5 904 | 5 904 | 17 711
@@ -6072,9 +6206,9 @@ UL : Gestion du pouvoir | UL | SCAC | 1 | 1 | 2 | forfait | 14 349 | 14 349 | 14
 
 [[START OF PAGE 164]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 en | coût total K CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quantité 2014 | quantité 2015 | quantité 2016 | quantité totale | unité | réf du coût standard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-UL : Volontaire à la direction de la coopération internationale | UL | SCAC | 1 | 1 | 1 | 3 | forfait | 6 560 | 6 560 | 6 560 | 6 560 19 | 679
+UL : Volontaire à la direction de la coopération internationale | UL | SCAC | 1 | 1 | 1 | 3 | forfait | 6 560 | 6 560 | 6 560 | 6 560 | 19 679
 #### Planification | 80 930 | 22 620 | 6 000 | 109 550
 ##### Mise en place du Système d'Informations Géographiques
 Spécialiste en création système d'immatriculation des étudiants | DESUP | AR | 1 | 1 | p x m | 13 000 | 13 000 | 0 | 0 | 13 000
@@ -6109,34 +6243,34 @@ Suivi et contrôle de la gestion des ressources matérielles | DAF | SIB | 0 | 0
 
 [[START OF PAGE 165]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 coût total en CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quantité 2014 | quantité 2015 | quantité 2016 | quantité totale | unité | réf du coût standard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 ##### Optimisation de l'utilisation des ressources matérielles
-Promotion de la mutualisation des ressources matérielles | DAF | SIB | 0 | 0 | 0 0 | 0
+Promotion de la mutualisation des ressources matérielles | DAF | SIB | 0 | 0 | 0 | 0 | 0
 ##### Construction et équipements services administratifs
-Bureaux du Cabinet ministériel - 300m² x 300 000 F/m² : études | DAF | AR | 30% | 60% | 10% | 1 | forfait | 9 000 2 | 700 5 400 | 900 | 9 000
-Bureaux du Cabinet ministériel - 300m² x 300 000 F/m² : travaux | DAF | AR | 30% | 60% | 10% | 1 | forfait | 81 000 24 | 300 48 600 | 8 100 | 81 000
-Bureaux Dir Enseignement Sup et DEPP - 500m² x 250 000 F/m² : études | DAF | AR | 30% | 60% | 10% | 1 | forfait | 12 500 3 | 750 7 500 | 1 250 | 12 500
-Bureaux Dir Enseignement Sup et DEPP - 500m² x 250 000 F/m² : travaux | DAF | AR | 30% | 60% | 10% | 1 | forfait | 112 500 | 750 67 500 | 11 250 | 112 500
-Dotation de la direction des bourses et stages de véhicule 4x4 | DAF | AR | 1 | 1 | u | 33 20 000 20 | 000 0 | 0 | 20 000
-#### Lutte contre le VIH/sida dans le sous secteur | 2 | 1 000 | 1 000 | 4 000
-Elaboration et validation plan sous sectoriel de lutte contre le VIH/Sida | DRH | AR | 1 | 1 | forfait | 000 1 000 1 000 | 0 | 0 | 1 000
-Mise en place du noyau anti-Sida | DRH | AR | 1 | 1 | 1 | 3 | forfait | 1 000 1 000 | 1 000 | 1 000 | 3 000
-### SOUS PROGRAMME 5.5 : PILOTAGE ET GESTION MASPFA/AENF | 157 | 767 120 017 | 0 | 277 785
-#### Pilotage et gestion alphabétisation | 95 | 017 95 017 | 0 | 190 035
+Bureaux du Cabinet ministériel - 300m² x 300 000 F/m² : études | DAF | AR | 30% | 60% | 10% | 1 | forfait | 9 000 | 2 700 | 5 400 | 900 | 9 000
+Bureaux du Cabinet ministériel - 300m² x 300 000 F/m² : travaux | DAF | AR | 30% | 60% | 10% | 1 | forfait | 81 000 | 24 300 | 48 600 | 8 100 | 81 000
+Bureaux Dir Enseignement Sup et DEPP - 500m² x 250 000 F/m² : études | DAF | AR | 30% | 60% | 10% | 1 | forfait | 12 500 | 3 750 | 7 500 | 1 250 | 12 500
+Bureaux Dir Enseignement Sup et DEPP - 500m² x 250 000 F/m² : travaux | DAF | AR | 30% | 60% | 10% | 1 | forfait | 112 500 | 33 750 | 67 500 | 11 250 | 112 500
+Dotation de la direction des bourses et stages de véhicule 4x4 | DAF | AR | 1 | 1 | u | 20 000 | 20 000 | 0 | 0 | 20 000
+#### Lutte contre le VIH/sida dans le sous secteur | 2 000 | 1 000 | 1 000 | 4 000
+Elaboration et validation plan sous sectoriel de lutte contre le VIH/Sida | DRH | AR | 1 | 1 | forfait | 1 000 | 1 000 | 0 | 0 | 1 000
+Mise en place du noyau anti-Sida | DRH | AR | 1 | 1 | 1 | 3 | forfait | 1 000 | 1 000 | 1 000 | 1 000 | 3 000
+### SOUS PROGRAMME 5.5 : PILOTAGE ET GESTION MASPFA/AENF | 157 767 | 120 017 | 0 | 277 785
+#### Pilotage et gestion alphabétisation | 95 017 | 95 017 | 0 | 190 035
 ##### Production du rapport statistique annuel (SIM)
-Collecte et analyse des données | DAENF | UNESCO | 1 | 1 | 2 | forfait | 14 470 14 470 | 14 470 | 0 | 28 939
-Reproduction du rapport | DAENF | UNESCO | 1 | 1 | 2 | forfait | 4 823 4 823 | 4 823 | 0 | 9 646
+Collecte et analyse des données | DAENF | UNESCO | 1 | 1 | 2 | forfait | 14 470 | 14 470 | 14 470 | 0 | 28 939
+Reproduction du rapport | DAENF | UNESCO | 1 | 1 | 2 | forfait | 4 823 | 4 823 | 4 823 | 0 | 9 646
 ##### Coordination et concertation
-Appui à la coordination des opérateurs | DAENF | UNESCO | 1 | 1 | 2 | forfait | 16 881 16 881 | 16 881 | 0 | 33 762
-Appui à la concertation et coordination Etat/opérateurs | DAENF | UNESCO | 1 | 1 | 2 | forfait | 13 023 13 023 | 13 023 | 0 | 26 045
+Appui à la coordination des opérateurs | DAENF | UNESCO | 1 | 1 | 2 | forfait | 16 881 | 16 881 | 16 881 | 0 | 33 762
+Appui à la concertation et coordination Etat/opérateurs | DAENF | UNESCO | 1 | 1 | 2 | forfait | 13 023 | 13 023 | 13 023 | 0 | 26 045
 ##### Suivi de la mise en œuvre de la politique d'alpha
-Appui technique des institutions de l'UNESCO | UNESCO | UNESCO | 1 | 1 | 2 | forfait | 36 174 36 | 174 36 174 | 0 | 72 348
-Suivi évaluation de la politique | DAENF | UNESCO | 1 | 1 | 2 | forfait | 9 646 9 | 646 9 646 | 0 | 19 293
-#### Suivi évaluation | 12 | 500 25 000 | 0 | 37 500
-Démultiplication de la formation en suivi évaluation 100p x 5j | DAENF | AR | 500 | 500 | p x j | 25 12 | 500 0 | 0 | 12 500
-Evaluation de la mise en œuvre et correction du cadre de suivi évaluation | DAENF | AR | 1 | 1 | forfait | 12 000 0 | 12 000 | 0 | 12 000
-Evaluation de l'impact de l'Alphabétisation sur la population | DAENF | AR | 1 | 1 | p x m | 13 000 0 | 13 000 | 0 | 13 000
+Appui technique des institutions de l'UNESCO | UNESCO | UNESCO | 1 | 1 | 2 | forfait | 36 174 | 36 174 | 36 174 | 0 | 72 348
+Suivi évaluation de la politique | DAENF | UNESCO | 1 | 1 | 2 | forfait | 9 646 | 9 646 | 9 646 | 0 | 19 293
+#### Suivi évaluation | 12 500 | 25 000 | 0 | 37 500
+Démultiplication de la formation en suivi évaluation 100p x 5j | DAENF | AR | 500 | 500 | p x j | 25 | 12 500 | 0 | 0 | 12 500
+Evaluation de la mise en œuvre et correction du cadre de suivi évaluation | DAENF | AR | 1 | 1 | forfait | 12 000 | 0 | 12 000 | 0 | 12 000
+Evaluation de l'impact de l'Alphabétisation sur la population | DAENF | AR | 1 | 1 | p x m | 13 000 | 0 | 13 000 | 0 | 13 000
 #### Planification | 6 250 | 0 | 0 | 6 250
 
 165
@@ -6145,7 +6279,7 @@ Evaluation de l'impact de l'Alphabétisation sur la population | DAENF | AR | 1 
 
 [[START OF PAGE 166]]
 
-PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quan tité 2014 | quan tité 2015 | quan tité 2016 | quan tité totale | unité | réf du coût stan dard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en CFA
+PROGRAMME SOUS-PROGRAMME Volet Activité / nature | responsable d'exécution | Projet ou budget | quantité 2014 | quantité 2015 | quantité 2016 | quantité totale | unité | réf du coût standard | coût unitaire en KCFA | coût 2014 | coût 2015 | coût 2016 | coût total en K CFA
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Démultiplication de la formation en planification 50p x 5j | DAENF | AR | 250 | 250 | p x j | 25 | 6 250 | 0 | 0 | 6 250
 #### Equipement des services de la DAENF | 44 000 | 0 | 0 | 44 000
@@ -6359,7 +6493,7 @@ Président : Professeur GBEASSOR Messanvi, Directeur national de la recherche sc
 
 #### Membres :
 
- Professeur TCHAMIE Thiou, 1 er  Vice Président Université de Lomé ;
+ Professeur TCHAMIE Thiou, 1er Vice Président Université de Lomé ;
 
  Professeur AMOUZOU Kou'Santa, Directeur des Affaires Académiques et de la Scolarité (DAAS/UK) ;
 
@@ -6473,14 +6607,14 @@ Parties prenantes | Dates des consultations | Format/Durée
 --- | --- | ---
 BID | Mensuel 29 aout 2013 (PSE) 17 septembre 2013 (PTAB) | Réunions
 PAM | Mensuel 20 septembre 2013 (PTAB) 10 octobre 2013 (PTAB) | Réunions
-Unesco -Cap EFA | Mensuel 29 aout 2013 (PSE) 16 septembre 2013 (PTAB) 11 octobre 2013 (PTAB) | Réunions
+Unesco –Cap EFA | Mensuel 29 aout 2013 (PSE) 16 septembre 2013 (PTAB) 11 octobre 2013 (PTAB) | Réunions
 AFD | Mensuel 29 aout 2013 (PSE) 17 septembre 2013 (PTAB) 11 octobre 2013 (PTAB) | Réunions
 SCAC | 18 septembre 2013 (PTAB) | Réunions
 GIZ | Mensuel 20, 25 septembre 2013 (PTAB) | Réunions
 BAD | Mensuel 20 septembre 2013 (PTAB) | Réunions
 Plan International | Mensuel 23 septembre 2013 (PTAB) | Réunions
-Aide et Action International | Réunions
-Handicap International | Réunions
+Aide et Action International | | Réunions
+Handicap International | | Réunions
 BorneFonden | Mensuel 18 septembre 2013 (PTAB) | Réunions
 Tous les PTF | Entre le 27 et le 31 octobre 2013 | Consultations régionales
 
